@@ -22,7 +22,7 @@ import source.get_directors_dealings as UGDD
 import source.get_timeseries as UGT
 import source.analyze_get_summary_of_data as AGSOD
 import source.preprocess_directors_dealings as UPDD
-
+import source.preprocess_timeseries as UPTS
 
 if __name__ == '__main__':
     # Constants:
@@ -53,7 +53,8 @@ if __name__ == '__main__':
     # UGT.get_all_timeseries_from_tickers(DATA_LOCATION_TIME_SERIES_RAW, tickers, start_time_unix, end_time_unix)
 
     # Preprocess raw data
-    UPDD.preprocess_directors_dealings(DATA_LOCATION_INSIDER_RAW, DATA_LOCATION_INSIDER_PROCESSED)
+    #UPDD.preprocess_directors_dealings(DATA_LOCATION_INSIDER_RAW, DATA_LOCATION_INSIDER_PROCESSED)
+    #UPTS.preprocess_timeseries(DATA_LOCATION_TIME_SERIES_RAW, DATA_LOCATION_TIME_SERIES_PROCESSED)
 
     # Move to processed location:
-    AGSOD.generate_summary_of_data(tickers, isins, DATA_LOCATION_INSIDER_PROCESSED, DATA_LOCATION_TIME_SERIES_RAW)
+    AGSOD.analyze_generate_summary_of_data(tickers, isins, DATA_LOCATION_INSIDER_PROCESSED, DATA_LOCATION_TIME_SERIES_PROCESSED)
