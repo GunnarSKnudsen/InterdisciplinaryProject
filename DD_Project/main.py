@@ -38,6 +38,7 @@ if __name__ == '__main__':
                         'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 6.xlsx',
                         'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 7.xlsx'
                         ]
+    #timeseries_files = ['input_data/smallerTestFile.xlsx', 'input_data/smallerTestFile2.xlsx']
 
     # Locations to store stuff and stuff
     DATA_LOCATION = 'data/'
@@ -45,6 +46,7 @@ if __name__ == '__main__':
     DATA_LOCATION_INSIDER_PROCESSED = DATA_LOCATION + 'processed/insider/'
     DATA_LOCATION_TIME_SERIES_RAW = DATA_LOCATION + 'raw/timeseries/'
     DATA_LOCATION_TIME_SERIES_PROCESSED = DATA_LOCATION + 'processed/timeseries/'
+    DATA_LOCATION_RI = DATA_LOCATION + 'processed/RI/'
 
     # Period of interest
     end_time = datetime.datetime(2021, 12, 31, 23, 59, 59)
@@ -67,4 +69,5 @@ if __name__ == '__main__':
 
     # Move to processed location:
     #AGSOD.analyze_generate_summary_of_data(tickers, isins, DATA_LOCATION_INSIDER_PROCESSED, DATA_LOCATION_TIME_SERIES_PROCESSED)
-    UPTFE.preprocess_timeseries_from_excel(timeseries_files)
+    processed_files = UPTFE.preprocess_timeseries_from_excel(filename, timeseries_files, DATA_LOCATION_RI)
+    print(processed_files)
