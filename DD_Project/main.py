@@ -24,6 +24,7 @@ import source.analyze_get_summary_of_data as AGSOD
 import source.preprocess_directors_dealings as UPDD
 import source.preprocess_timeseries as UPTS
 import source.preprocess_timeseries_from_excel as UPTFE
+import source.analyse_single_company as UASC
 
 if __name__ == '__main__':
     # Constants:
@@ -67,7 +68,15 @@ if __name__ == '__main__':
     #UPDD.preprocess_directors_dealings(DATA_LOCATION_INSIDER_RAW, DATA_LOCATION_INSIDER_PROCESSED)
     #UPTS.preprocess_timeseries(DATA_LOCATION_TIME_SERIES_RAW, DATA_LOCATION_TIME_SERIES_PROCESSED)
 
-    # Move to processed location:
+    # This is no longer relevant at all!!
     #AGSOD.analyze_generate_summary_of_data(tickers, isins, DATA_LOCATION_INSIDER_PROCESSED, DATA_LOCATION_TIME_SERIES_PROCESSED)
-    processed_files = UPTFE.preprocess_timeseries_from_excel(filename, timeseries_files, DATA_LOCATION_RI)
-    print(processed_files)
+
+    # Process the timeseries from Professor
+    #processed_files = UPTFE.preprocess_timeseries_from_excel(filename, timeseries_files, DATA_LOCATION_RI)
+    #print(processed_files)
+
+    # Gather Company info - Not sure if this is useful yet
+    ## Nahh skipped this part
+
+    # Start the analysis
+    UASC.analyse_single_company('US02376R1023', DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED)

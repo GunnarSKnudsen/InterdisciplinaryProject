@@ -36,8 +36,11 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _output_location):
             end_date = company_information_df['DATE/TIME (DS End Date)'].item()
 
             ri_df = dat[['Code', col]].rename(columns={'Code': 'Date', col: 'ReturnIndex'})
+            # Set index - Should be done during preprocessing! # Is now moved to correct file
+            ri_df['Date'] = pd.to_datetime(ri_df['Date'])
+            ri_df.set_index('Date', inplace=True)  # , drop=False, append=False, inplace=False, verify_integrity=False)#.drop('Date', 1)
 
-            output_file = _output_location + ticker + '_' + datastream_code + '.pickle'
+            output_file = _output_location + isin + '.pickle'
             output_files.append(output_file)
             with open(output_file, "wb") as f:
                 pickle.dump(type, f)
