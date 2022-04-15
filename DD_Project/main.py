@@ -23,12 +23,21 @@ import source.get_timeseries as UGT
 import source.analyze_get_summary_of_data as AGSOD
 import source.preprocess_directors_dealings as UPDD
 import source.preprocess_timeseries as UPTS
+import source.preprocess_timeseries_from_excel as UPTFE
 
 if __name__ == '__main__':
     # Constants:
 
     # File from professor
     filename = 'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen.xlsx'
+    timeseries_files = ['input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 1.xlsx',
+                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 2.xlsx',
+                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 3.xlsx',
+                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 4.xlsx',
+                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 5.xlsx',
+                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 6.xlsx',
+                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 7.xlsx'
+                        ]
 
     # Locations to store stuff and stuff
     DATA_LOCATION = 'data/'
@@ -57,4 +66,5 @@ if __name__ == '__main__':
     #UPTS.preprocess_timeseries(DATA_LOCATION_TIME_SERIES_RAW, DATA_LOCATION_TIME_SERIES_PROCESSED)
 
     # Move to processed location:
-    AGSOD.analyze_generate_summary_of_data(tickers, isins, DATA_LOCATION_INSIDER_PROCESSED, DATA_LOCATION_TIME_SERIES_PROCESSED)
+    #AGSOD.analyze_generate_summary_of_data(tickers, isins, DATA_LOCATION_INSIDER_PROCESSED, DATA_LOCATION_TIME_SERIES_PROCESSED)
+    UPTFE.preprocess_timeseries_from_excel(timeseries_files)
