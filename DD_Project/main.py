@@ -64,8 +64,8 @@ if __name__ == '__main__':
 
     # Download raw data:
     UGDD.get_all_directors_dealings(DATA_LOCATION_INSIDER_RAW, tickers, no_https)
-    UGT.get_all_timeseries_from_isins(DATA_LOCATION_TIME_SERIES_RAW, isins, start_time_unix, end_time_unix)  # Maybe this will be of use? - But does too many requests
-    UGT.get_all_timeseries_from_tickers(DATA_LOCATION_TIME_SERIES_RAW, tickers, start_time_unix, end_time_unix) # TOM: Not necessary because we get TS provided
+    #UGT.get_all_timeseries_from_isins(DATA_LOCATION_TIME_SERIES_RAW, isins, start_time_unix, end_time_unix)  # Maybe this will be of use? - But does too many requests
+    #UGT.get_all_timeseries_from_tickers(DATA_LOCATION_TIME_SERIES_RAW, tickers, start_time_unix, end_time_unix) # TOM: Not necessary because we get TS provided
 
     # Preprocess raw data
     #UPDD.preprocess_directors_dealings(DATA_LOCATION_INSIDER_RAW, DATA_LOCATION_INSIDER_PROCESSED)
