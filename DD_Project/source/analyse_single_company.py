@@ -54,7 +54,7 @@ def analyse_single_company(_isin, _ri_location, _insider_location):
         delta_Own = row['delta_Own']
         Value = row['Value']
 
-        # Figure out if this is correct
+        # TODO Figure out if this is correct
         date_to_consider = FilingDate # Should I TradeDate instead of FilingDate?
 
         # Define which time to calculate for

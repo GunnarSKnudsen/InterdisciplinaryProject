@@ -28,21 +28,24 @@ import source.analyse_single_company as UASC
 
 if __name__ == '__main__':
     # Constants:
+    NAME = "Niedermayer"
+    STOCK_EXCHANGE = "NYSE"
+
+    if NAME == "Knudsen":
+        no_https = False
+    else:
+        no_https = True
 
     # File from professor
-    filename = 'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen.xlsx'
-    timeseries_files = ['input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 1.xlsx',
-                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 2.xlsx',
-                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 3.xlsx',
-                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 4.xlsx',
-                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 5.xlsx',
-                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 6.xlsx',
-                        'input_data/Nasdaq Composite 16.3.2022 plus dead firms - Knudsen - RI - Part 7.xlsx'
-                        ]
+
+
+    filename = f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME}.xlsx'
+    timeseries_files = [f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME} - RI - Part {i}.xlsx' for i in range(1,8)]
+
     #timeseries_files = ['input_data/smallerTestFile.xlsx', 'input_data/smallerTestFile2.xlsx']
 
     # Locations to store stuff and stuff
-    DATA_LOCATION = 'data/'
+    DATA_LOCATION = f'data/{NAME}/'
     DATA_LOCATION_INSIDER_RAW = DATA_LOCATION + 'raw/insider/'
     DATA_LOCATION_INSIDER_PROCESSED = DATA_LOCATION + 'processed/insider/'
     DATA_LOCATION_TIME_SERIES_RAW = DATA_LOCATION + 'raw/timeseries/'
@@ -60,9 +63,9 @@ if __name__ == '__main__':
     tickers, isins = URTI.read_tickers_and_isins(filename)
 
     # Download raw data:
-    # UGDD.get_all_directors_dealings(DATA_LOCATION_INSIDER_RAW, tickers)
-    # # UGT.get_all_timeseries_from_isins(DATA_LOCATION_TIME_SERIES_RAW, isins, start_time_unix, end_time_unix)  # Maybe this will be of use? - But does too many requests
-    # UGT.get_all_timeseries_from_tickers(DATA_LOCATION_TIME_SERIES_RAW, tickers, start_time_unix, end_time_unix)
+    UGDD.get_all_directors_dealings(DATA_LOCATION_INSIDER_RAW, tickers, no_https)
+    UGT.get_all_timeseries_from_isins(DATA_LOCATION_TIME_SERIES_RAW, isins, start_time_unix, end_time_unix)  # Maybe this will be of use? - But does too many requests
+    UGT.get_all_timeseries_from_tickers(DATA_LOCATION_TIME_SERIES_RAW, tickers, start_time_unix, end_time_unix) # TOM: Not necessary because we get TS provided
 
     # Preprocess raw data
     #UPDD.preprocess_directors_dealings(DATA_LOCATION_INSIDER_RAW, DATA_LOCATION_INSIDER_PROCESSED)
@@ -80,3 +83,6 @@ if __name__ == '__main__':
 
     # Start the analysis
     UASC.analyse_single_company('US02376R1023', DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED)
+
+    # TODO Series of 8POINT3 ENERGY PARTNERS CL A - TOT RETURN IND remains constant after a while. Should probably be NA instead
+    # TODO fix so that it doesnt mess with the statistical tests
