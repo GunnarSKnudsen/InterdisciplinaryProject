@@ -11,7 +11,7 @@ def calculate_daily_returns_for_period(_ts, _start, _end):
     ts = _ts.copy()
 
     # Calculate returns
-    ts['returns'] = (ts - ts.shift(1)) / ts # TODO: comment by tom: I changed this to divide by ts instead of ts.shift(1)
+    ts['returns'] = (ts - ts.shift(1)) / ts.shift(1)
 
     # Filter for selected period - Should do error handling here (E.g. Dead, before/After, ...)
     filtered_ts = ts.loc[_start:_end]

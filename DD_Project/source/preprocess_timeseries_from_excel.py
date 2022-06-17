@@ -24,6 +24,10 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _output_location):
 
         for col in dat.columns.values:
             datastream_code = col.replace("(RI)", "")
+
+            if col[:8] == "Unnamed:":
+                continue
+
             if datastream_code == 'Code':
                 continue
             company_information_df = all_companies[all_companies['DATASTREAM CODE'] == datastream_code]
@@ -39,6 +43,7 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _output_location):
             # Set index - Should be done during preprocessing! # Is now moved to correct file
             ri_df['Date'] = pd.to_datetime(ri_df['Date'])
             ri_df.set_index('Date', inplace=True)  # , drop=False, append=False, inplace=False, verify_integrity=False)#.drop('Date', 1)
+            ri_df = ri_df.loc[start_date:end_date]
 
             output_file = _output_location + isin + '.pickle'
             output_files.append(output_file)
