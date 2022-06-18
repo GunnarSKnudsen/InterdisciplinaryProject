@@ -1,18 +1,7 @@
-# Standard
-import pandas as pd
-import numpy as np
-import pickle
-
 # Time Cleaning
 import time
 import datetime
-from dateutil.relativedelta import relativedelta
 
-# Scraping
-import requests
-import locale
-from pandas.io.json import json_normalize
-import io
 
 import os
 from os.path import exists
@@ -20,12 +9,11 @@ from os.path import exists
 # Import User Defined functions
 import source.read_tickers_and_isins as URTI
 import source.get_directors_dealings as UGDD
-import source.get_timeseries as UGT
-import source.analyze_get_summary_of_data as AGSOD
 import source.preprocess_directors_dealings as UPDD
 import source.preprocess_timeseries as UPTS
 import source.preprocess_timeseries_from_excel as UPTFE
 import source.analyse_single_company as UASC
+
 
 if __name__ == '__main__':
     # Constants:
@@ -87,3 +75,5 @@ if __name__ == '__main__':
 
     # Start the analysis
     UASC.analyse_single_company('US2825391053', DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED)
+
+    
