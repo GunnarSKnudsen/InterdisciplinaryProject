@@ -76,4 +76,3 @@ if __name__ == '__main__':
     # Start the analysis
     UASC.analyse_single_company('US2825391053', DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED)
 
-    
