@@ -1,36 +1,1241 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,,2022-03-01 16:19:50,2022-02-25,ALL,Pintozzi John C,"SVP, Controller,, CAO",S - Sale,$123.87,-3000,17963,-14%,"-$371,613",,,,,ALL
 1,,2022-02-23 16:22:13,2022-02-18,ALL,Merten Jesse E,"President, Financial Products",S - Sale,$124.73,-7450,17299,-30%,"-$929,231",,,,,ALL
-2,D,2022-02-23 16:19:38,2022-02-18,ALL,Shapiro Glenn T,PresPersonalProperty-Liability,S - Sale+OE,$124.96,-63801,28793,-69%,"-$7,972,322",,,,,ALL
-3,,2022-02-08 16:34:53,2022-02-04,ALL,Sprieser Judith A,Dir,S - Sale,$121.25,-1652,0,-100%,"-$200,305",,,,,ALL
-4,D,2022-02-08 16:33:03,2022-02-04,ALL,Rizzo Mario,"EVP, CFO",S - Sale+OE,$122.57,-25648,38251,-40%,"-$3,143,729",,,,,ALL
-5,D,2021-06-23 16:29:34,2021-06-21,ALL,Merten Jesse E,"President, Financial Products",S - Sale+OE,$127.84,-15000,15394,-49%,"-$1,917,570",,,,,ALL
-6,,2021-05-25 16:39:14,2021-05-21,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,S - Sale,$137.45,-7000,28378,-20%,"-$962,122",,,,,ALL
-7,,2021-05-25 16:22:41,2021-05-21,ALL,Pintozzi John C,"SVP, Controller,, CAO",S - Sale,$137.06,-2000,16238,-11%,"-$274,126",,,,,ALL
-8,D,2021-05-12 17:35:48,2021-05-10,ALL,Gupta Suren,Executive Vice President - AIC,S - Sale+OE,$135.23,-62657,71791,-47%,"-$8,472,918",,,,,ALL
-9,D,2021-05-12 16:23:15,2021-05-10,ALL,Rizzo Mario,"EVP, CFO",S - Sale+OE,$133.26,-12763,38223,-25%,"-$1,700,797",,,,,ALL
-10,D,2021-05-12 16:15:55,2021-05-10,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",S - Sale+OE,$135.28,-151691,64756,-70%,"-$20,520,959",,,,,ALL
-11,,2021-03-03 17:20:13,2021-03-01,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,S - Sale,$109.18,-18000,23925,-43%,"-$1,965,240",,,,,ALL
-12,,2021-03-03 17:16:06,2021-03-01,ALL,Merten Jesse E,"President, Financial Products",S - Sale,$110.22,-8000,15235,-34%,"-$881,760",,,,,ALL
-13,,2021-02-09 16:49:06,2021-02-05,ALL,Civgin Don,ALLCorp: Vice COB,S - Sale,$107.09,-100000,68603,-59%,"-$10,708,630",,,,,ALL
-14,D,2020-06-09 16:29:25,2020-06-05,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,S - Sale+OE,$105.62,-14378,23430,-38%,"-$1,518,604",,,,,ALL
-15,,2020-06-09 16:26:39,2020-06-05,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale,$106.05,-12385,30715,-29%,"-$1,313,429",,,,,ALL
-16,D,2020-06-03 17:11:07,2020-06-01,ALL,Sprieser Judith A,Dir,S - Sale+OE,$99.03,-1783,0,-100%,"-$176,570",,,,,ALL
-17,,2020-05-14 16:55:59,2020-05-12,ALL,Wilson Thomas J,"COB, Pres, CEO",S - Sale,$101.41,-2700,932622,0%,"-$273,816",,,,,ALL
-18,D,2020-05-12 17:13:19,2020-05-08,ALL,Wilson Thomas J,"COB, Pres, CEO",S - Sale+OE,$101.32,-652868,935322,-41%,"-$66,147,421",,,,,ALL
-19,D,2020-05-12 17:04:06,2020-05-08,ALL,Rizzo Mario,"EVP, CFO",S - Sale+OE,$101.39,-6670,23027,-22%,"-$676,271",,,,,ALL
-20,,2020-05-11 16:59:25,2020-05-07,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,S - Sale,$103.65,-7397,23430,-24%,"-$766,699",,,,,ALL
-21,D,2020-05-11 16:56:43,2020-05-07,ALL,Merten Jesse E,"President, Financial Products",S - Sale+OE,$102.75,-18622,14103,-57%,"-$1,913,411",,,,,ALL
-22,D,2019-09-25 16:22:02,2019-09-23,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$108.30,-27650,32353,-46%,"-$2,994,495",,,,,ALL
-23,D,2019-08-09 16:18:41,2019-08-07,ALL,Shebik Steven E,Vice COB,S - Sale+OE,$103.64,-35014,129760,-21%,"-$3,628,851",,,,,ALL
-24,,2019-08-08 16:17:07,2019-08-06,ALL,Merten Jesse E,EVP & Chief Risk Officer - AIC,S - Sale,$102.27,-900,10191,-8%,"-$92,043",,,,,ALL
-25,D,2019-08-07 16:19:23,2019-08-05,ALL,Shebik Steven E,Vice COB,S - Sale+OE,$103.56,-26446,134992,-16%,"-$2,738,825",,,,,ALL
-26,,2019-08-06 17:18:37,2019-08-02,ALL,Fortin Mary Jane,Pres Financial Businesses?AIC,S - Sale,$104.21,-9773,34191,-22%,"-$1,018,444",,,,,ALL
-27,D,2019-08-06 17:17:10,2019-08-02,ALL,Civgin Don,Pres Service Businesses - AIC,S - Sale+OE,$104.36,-261396,147272,-64%,"-$27,279,793",,,,,ALL
-28,D,2019-06-27 16:49:01,2019-06-25,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$102.26,-30189,39475,-43%,"-$3,087,127",,,,,ALL
-29,D,2019-06-27 16:44:18,2019-06-25,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,S - Sale+OE,$102.22,-22289,17923,-55%,"-$2,278,382",,,,,ALL
-30,,2019-06-25 16:17:53,2019-06-21,ALL,Sprieser Judith A,Dir,S - Sale,$102.63,-2225,0,-100%,"-$228,352",,,,,ALL
-31,,2018-11-09 16:16:28,2018-11-07,ALL,Merten Jesse E,EVP & Chief Risk Officer - AIC,S - Sale,$92.12,-696,7079,-9%,"-$64,118",,,,,ALL
-32,D,2018-09-17 16:21:53,2018-09-13,ALL,Harty Harriet K,"EVP, Human Resources ? AIC",S - Sale+OE,$98.87,-10515,22879,-31%,"-$1,039,618",,,,,ALL
-33,D,2018-08-09 16:23:43,2018-08-07,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$99.24,-22189,34774,-39%,"-$2,202,036",,,,,ALL
-34,D,2018-08-08 16:18:53,2018-08-06,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,S - Sale+OE,$98.70,-21728,8319,-72%,"-$2,144,554",,,,,ALL
+2,D,2022-02-23 16:19:38,2022-02-18,ALL,Shapiro Glenn T,PresPersonalProperty-Liability,M - OptEx,$99.03,45401,28793,-273%,"+$4,496,202",,,,,ALL
+3,D,2022-02-23 16:19:38,2022-02-18,ALL,Shapiro Glenn T,PresPersonalProperty-Liability,S - Sale+OE,$124.96,-63801,28793,-69%,"-$7,972,322",,,,,ALL
+4,D,2022-02-22 16:33:18,2022-02-19,ALL,Prindiville Mark Q,EVP & Chief Risk Officer - AIC,F - Tax,$125.89,-114,15552,-1%,"-$14,351",,,,,ALL
+5,D,2022-02-22 16:33:18,2022-02-19,ALL,Prindiville Mark Q,EVP & Chief Risk Officer - AIC,M - OptEx,$0.00,387,15552,+3%,+$0,,,,,ALL
+6,DM,2022-02-22 16:26:18,2022-02-18,ALL,Pintozzi John C,"SVP, Controller,, CAO",F - Tax,$125.89,-169,20949,-1%,"-$21,275",,,,,ALL
+7,DM,2022-02-22 16:26:18,2022-02-18,ALL,Pintozzi John C,"SVP, Controller,, CAO",M - OptEx,$0.00,626,20949,+3%,+$0,,,,,ALL
+8,D,2022-02-09 17:14:42,2022-02-07,ALL,Wilson Thomas J,"COB, Pres, CEO",A - Grant,$0.00,130760,982575,+15%,+$0,,,,,ALL
+9,D,2022-02-09 17:14:42,2022-02-07,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$124.76,-56722,982575,-5%,"-$7,076,637",,,,,ALL
+10,,2022-02-09 16:50:53,2022-02-07,ALL,Rizzo Mario,"EVP, CFO",A - Grant,$0.00,27256,53432,+104%,+$0,,,,,ALL
+11,,2022-02-09 16:50:53,2022-02-07,ALL,Rizzo Mario,"EVP, CFO",F - Tax,$124.76,-12075,53432,-18%,"-$1,506,477",,,,,ALL
+12,,2022-02-09 16:47:13,2022-02-07,ALL,Shapiro Glenn T,PresPersonalProperty-Liability,A - Grant,$0.00,31636,47193,+203%,+$0,,,,,ALL
+13,,2022-02-09 16:47:13,2022-02-07,ALL,Shapiro Glenn T,PresPersonalProperty-Liability,F - Tax,$124.76,-12830,47193,-21%,"-$1,600,671",,,,,ALL
+14,,2022-02-09 16:44:53,2022-02-07,ALL,Merten Jesse E,"President, Financial Products",A - Grant,$0.00,14276,24742,+136%,+$0,,,,,ALL
+15,,2022-02-09 16:44:53,2022-02-07,ALL,Merten Jesse E,"President, Financial Products",F - Tax,$124.76,-5156,24742,-17%,"-$643,263",,,,,ALL
+16,,2022-02-09 16:37:56,2022-02-07,ALL,Civgin Don,ALLCorp: Vice COB,A - Grant,$0.00,31928,106348,+43%,+$0,,,,,ALL
+17,,2022-02-09 16:37:56,2022-02-07,ALL,Civgin Don,ALLCorp: Vice COB,F - Tax,$124.76,-12956,106348,-11%,"-$1,616,391",,,,,ALL
+18,,2022-02-09 16:35:36,2022-02-07,ALL,Gupta Suren,Executive Vice President - AIC,A - Grant,$0.00,20766,84559,+33%,+$0,,,,,ALL
+19,,2022-02-09 16:35:36,2022-02-07,ALL,Gupta Suren,Executive Vice President - AIC,F - Tax,$124.76,-8022,84559,-9%,"-$1,000,825",,,,,ALL
+20,,2022-02-09 16:32:39,2022-02-07,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",A - Grant,$0.00,29202,82211,+55%,+$0,,,,,ALL
+21,,2022-02-09 16:32:39,2022-02-07,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",F - Tax,$124.76,-11753,82211,-13%,"-$1,466,304",,,,,ALL
+22,,2022-02-09 16:27:11,2022-02-07,ALL,Pintozzi John C,"SVP, Controller,, CAO",A - Grant,$0.00,5986,20492,+41%,+$0,,,,,ALL
+23,,2022-02-09 16:27:11,2022-02-07,ALL,Pintozzi John C,"SVP, Controller,, CAO",F - Tax,$124.76,-1793,20492,-8%,"-$223,695",,,,,ALL
+24,,2022-02-09 16:20:58,2022-02-07,ALL,Brady Elizabeth,Executive Vice President - AIC,A - Grant,$0.00,14600,13712,-1644%,+$0,,,,,ALL
+25,,2022-02-09 16:20:58,2022-02-07,ALL,Brady Elizabeth,Executive Vice President - AIC,F - Tax,$124.76,-5299,13712,-28%,"-$661,103",,,,,ALL
+26,,2022-02-09 16:18:57,2022-02-07,ALL,Prindiville Mark Q,EVP & Chief Risk Officer - AIC,A - Grant,$0.00,4900,15279,+47%,+$0,,,,,ALL
+27,,2022-02-09 16:18:57,2022-02-07,ALL,Prindiville Mark Q,EVP & Chief Risk Officer - AIC,F - Tax,$124.76,-1472,15279,-9%,"-$183,647",,,,,ALL
+28,,2022-02-08 16:34:53,2022-02-04,ALL,Sprieser Judith A,Dir,S - Sale,$121.25,-1652,0,-100%,"-$200,305",,,,,ALL
+29,D,2022-02-08 16:33:03,2022-02-04,ALL,Rizzo Mario,"EVP, CFO",M - OptEx,$70.62,25648,38251,+204%,"+$1,811,289",,,,,ALL
+30,D,2022-02-08 16:33:03,2022-02-04,ALL,Rizzo Mario,"EVP, CFO",S - Sale+OE,$122.57,-25648,38251,-40%,"-$3,143,729",,,,,ALL
+31,,2022-01-04 16:34:11,2022-01-01,ALL,Traquina Perry M,Dir,A - Grant,$117.65,329,1172,+39%,"+$38,707",,,,,ALL
+32,,2022-01-04 16:29:33,2022-01-01,ALL,Brown Donald Eugene,Dir,A - Grant,$117.65,265,265,New,"+$31,177",,,,,ALL
+33,,2022-01-04 16:26:14,2022-01-01,ALL,Keane Margaret M,Dir,A - Grant,$117.65,265,6884,+4%,"+$31,177",,,,,ALL
+34,D,2021-10-07 16:38:02,2021-10-05,ALL,Ferguson Rhonda S,"EVP, CLO, GC, Secretary",F - Tax,$128.13,-4729,5945,-44%,"-$605,927",,,,,ALL
+35,D,2021-10-07 16:38:02,2021-10-05,ALL,Ferguson Rhonda S,"EVP, CLO, GC, Secretary",M - OptEx,$0.00,10674,5945,-226%,+$0,,,,,ALL
+36,,2021-10-05 16:32:03,2021-10-01,ALL,Keane Margaret M,Dir,A - Grant,$127.72,244,6619,+4%,"+$31,164",,,,,ALL
+37,,2021-09-08 16:17:40,2021-09-06,ALL,Brady Elizabeth,Executive Vice President - AIC,A - Grant,$0.00,6830,4411,-282%,+$0,,,,,ALL
+38,,2021-09-08 16:17:40,2021-09-06,ALL,Brady Elizabeth,Executive Vice President - AIC,F - Tax,$133.97,-2602,4411,-37%,"-$348,590",,,,,ALL
+39,,2021-07-06 16:17:04,2021-07-01,ALL,Keane Margaret M,Dir,A - Grant,$132.79,235,6349,+4%,"+$31,206",,,,,ALL
+40,D,2021-06-23 16:29:34,2021-06-21,ALL,Merten Jesse E,"President, Financial Products",M - OptEx,$92.80,15000,15394,>999%,"+$1,392,000",,,,,ALL
+41,D,2021-06-23 16:29:34,2021-06-21,ALL,Merten Jesse E,"President, Financial Products",S - Sale+OE,$127.84,-15000,15394,-49%,"-$1,917,570",,,,,ALL
+42,D,2021-06-03 16:44:52,2021-06-01,ALL,Sprieser Judith A,Dir,M - OptEx,$0.00,1652,1652,New,+$0,,,,,ALL
+43,D,2021-06-03 16:41:48,2021-06-01,ALL,Sherrill Gregg M,Dir,M - OptEx,$0.00,1652,2777,+147%,+$0,,,,,ALL
+44,D,2021-06-03 16:38:42,2021-06-01,ALL,Mehta Siddharth N,Dir,M - OptEx,$0.00,1652,1652,New,+$0,,,,,ALL
+45,D,2021-06-03 16:26:55,2021-06-01,ALL,Keane Margaret M,Dir,M - OptEx,$0.00,1652,6091,+37%,+$0,,,,,ALL
+46,,2021-05-25 16:39:14,2021-05-21,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,G - Gift,$0.00,-2827,28378,-9%,-$0,,,,,ALL
+47,,2021-05-25 16:39:14,2021-05-21,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,S - Sale,$137.45,-7000,28378,-20%,"-$962,122",,,,,ALL
+48,,2021-05-25 16:22:41,2021-05-21,ALL,Pintozzi John C,"SVP, Controller,, CAO",S - Sale,$137.06,-2000,16238,-11%,"-$274,126",,,,,ALL
+49,D,2021-05-12 17:35:48,2021-05-10,ALL,Gupta Suren,Executive Vice President - AIC,M - OptEx,$45.61,62657,71791,+686%,"+$2,857,786",,,,,ALL
+50,D,2021-05-12 17:35:48,2021-05-10,ALL,Gupta Suren,Executive Vice President - AIC,S - Sale+OE,$135.23,-62657,71791,-47%,"-$8,472,918",,,,,ALL
+51,D,2021-05-12 16:23:15,2021-05-10,ALL,Rizzo Mario,"EVP, CFO",M - OptEx,$31.56,12763,38223,+50%,"+$402,800",,,,,ALL
+52,D,2021-05-12 16:23:15,2021-05-10,ALL,Rizzo Mario,"EVP, CFO",S - Sale+OE,$133.26,-12763,38223,-25%,"-$1,700,797",,,,,ALL
+53,D,2021-05-12 16:15:55,2021-05-10,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",M - OptEx,$88.56,151691,64756,-174%,"+$13,433,783",,,,,ALL
+54,D,2021-05-12 16:15:55,2021-05-10,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",S - Sale+OE,$135.28,-151691,64756,-70%,"-$20,520,959",,,,,ALL
+55,D,2021-05-11 16:42:23,2021-05-07,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,F - Tax,$129.74,-84695,38205,-69%,"-$10,988,329",,,,,ALL
+56,D,2021-05-11 16:42:23,2021-05-07,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,M - OptEx,$92.65,100725,38205,-161%,"+$9,332,488",,,,,ALL
+57,,2021-04-05 16:32:59,2021-04-01,ALL,Keane Margaret M,Dir,A - Grant,$116.03,269,4414,+6%,"+$31,212",,,,,ALL
+58,,2021-03-17 15:16:47,2021-03-03,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,G - Gift,$0.00,-1750,22175,-7%,-$0,,,,,ALL
+59,,2021-03-17 15:15:05,2021-03-02,ALL,Rizzo Mario,"EVP, CFO",G - Gift,$0.00,-1389,38223,-4%,-$0,,,,,ALL
+60,,2021-03-03 17:20:13,2021-03-01,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,S - Sale,$109.18,-18000,23925,-43%,"-$1,965,240",,,,,ALL
+61,,2021-03-03 17:16:06,2021-03-01,ALL,Merten Jesse E,"President, Financial Products",S - Sale,$110.22,-8000,15235,-34%,"-$881,760",,,,,ALL
+62,,2021-02-24 16:45:58,2021-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",A - Grant,$0.00,125270,908284,+16%,+$0,,,,,ALL
+63,,2021-02-24 16:45:58,2021-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$103.45,-54045,908284,-6%,"-$5,590,955",,,,,ALL
+64,,2021-02-24 16:44:18,2021-02-22,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,A - Grant,$0.00,31520,41925,+303%,+$0,,,,,ALL
+65,,2021-02-24 16:44:18,2021-02-22,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,F - Tax,$103.45,-12533,41925,-23%,"-$1,296,539",,,,,ALL
+66,,2021-02-24 16:40:00,2021-02-22,ALL,Rizzo Mario,"EVP, CFO",A - Grant,$0.00,27156,39602,+218%,+$0,,,,,ALL
+67,,2021-02-24 16:40:00,2021-02-22,ALL,Rizzo Mario,"EVP, CFO",F - Tax,$103.45,-10605,39602,-21%,"-$1,097,087",,,,,ALL
+68,,2021-02-24 16:38:01,2021-02-22,ALL,Prindiville Mark Q,EVP & Chief Risk Officer - AIC,A - Grant,$0.00,4874,11851,+70%,+$0,,,,,ALL
+69,,2021-02-24 16:38:01,2021-02-22,ALL,Prindiville Mark Q,EVP & Chief Risk Officer - AIC,F - Tax,$103.45,-1473,11851,-11%,"-$152,382",,,,,ALL
+70,,2021-02-24 16:36:18,2021-02-22,ALL,Pintozzi John C,"SVP, Controller,, CAO",A - Grant,$0.00,4656,18197,+34%,+$0,,,,,ALL
+71,,2021-02-24 16:36:18,2021-02-22,ALL,Pintozzi John C,"SVP, Controller,, CAO",F - Tax,$103.45,-1409,18197,-7%,"-$145,761",,,,,ALL
+72,,2021-02-24 16:33:51,2021-02-22,ALL,Merten Jesse E,"President, Financial Products",A - Grant,$0.00,13336,23229,+135%,+$0,,,,,ALL
+73,,2021-02-24 16:33:51,2021-02-22,ALL,Merten Jesse E,"President, Financial Products",F - Tax,$103.45,-4499,23229,-16%,"-$465,422",,,,,ALL
+74,,2021-02-24 16:31:42,2021-02-22,ALL,Lees Susan L,"EVP, Chief Sustainability Off.",A - Grant,$0.00,20204,43470,+87%,+$0,,,,,ALL
+75,,2021-02-24 16:31:42,2021-02-22,ALL,Lees Susan L,"EVP, Chief Sustainability Off.",F - Tax,$103.45,-7530,43470,-15%,"-$778,979",,,,,ALL
+76,,2021-02-24 16:28:59,2021-02-22,ALL,Gupta Suren,Executive Vice President - AIC,A - Grant,$0.00,21336,71784,+42%,+$0,,,,,ALL
+77,,2021-02-24 16:28:59,2021-02-22,ALL,Gupta Suren,Executive Vice President - AIC,F - Tax,$103.45,-8030,71784,-10%,"-$830,704",,,,,ALL
+78,,2021-02-24 16:26:57,2021-02-22,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",A - Grant,$0.00,29742,64749,+85%,+$0,,,,,ALL
+79,,2021-02-24 16:26:57,2021-02-22,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",F - Tax,$103.45,-11747,64749,-15%,"-$1,215,227",,,,,ALL
+80,,2021-02-24 16:25:00,2021-02-22,ALL,Civgin Don,ALLCorp: Vice COB,A - Grant,$0.00,31034,87320,+55%,+$0,,,,,ALL
+81,,2021-02-24 16:25:00,2021-02-22,ALL,Civgin Don,ALLCorp: Vice COB,F - Tax,$103.45,-12317,87320,-12%,"-$1,274,194",,,,,ALL
+82,D,2021-02-22 17:41:42,2021-02-19,ALL,Prindiville Mark Q,EVP & Chief Risk Officer - AIC,F - Tax,$103.45,-114,8450,-1%,"-$11,793",,,,,ALL
+83,D,2021-02-22 17:41:42,2021-02-19,ALL,Prindiville Mark Q,EVP & Chief Risk Officer - AIC,M - OptEx,$0.00,387,8450,+5%,+$0,,,,,ALL
+84,D,2021-02-22 17:40:27,2021-02-19,ALL,Pintozzi John C,"SVP, Controller,, CAO",F - Tax,$103.45,-76,14950,-1%,"-$7,862",,,,,ALL
+85,D,2021-02-22 17:40:27,2021-02-19,ALL,Pintozzi John C,"SVP, Controller,, CAO",M - OptEx,$0.00,282,14950,+2%,+$0,,,,,ALL
+86,,2021-02-09 16:49:06,2021-02-05,ALL,Civgin Don,ALLCorp: Vice COB,S - Sale,$107.09,-100000,68603,-59%,"-$10,708,630",,,,,ALL
+87,D,2021-02-04 16:32:37,2020-12-18,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-95732,837059,-10%,-$0,,,,,ALL
+88,,2021-02-04 16:29:27,2020-12-18,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,G - Gift,$0.00,-500,22938,-2%,-$0,,,,,ALL
+89,,2021-02-04 16:28:00,2020-12-08,ALL,Gupta Suren,Executive Vice President - AIC,G - Gift,$0.00,-852,58478,-1%,-$0,,,,,ALL
+90,D,2021-01-05 16:19:47,2021-01-04,ALL,Merten Jesse E,"President, Financial Products",F - Tax,$109.93,-62,14272,0%,"-$6,816",,,,,ALL
+91,D,2021-01-05 16:19:47,2021-01-04,ALL,Merten Jesse E,"President, Financial Products",M - OptEx,$0.00,139,14272,+1%,+$0,,,,,ALL
+92,D,2021-01-05 16:18:31,2021-01-01,ALL,Keane Margaret M,Dir,A - Grant,$109.93,284,4145,+7%,"+$31,220",,,,,ALL
+93,D,2021-01-05 16:18:31,2021-01-01,ALL,Keane Margaret M,Dir,M - OptEx,$0.00,617,4145,+17%,+$0,,,,,ALL
+94,D,2020-10-05 16:21:37,2020-10-01,ALL,Sherrill Gregg M,Dir,M - OptEx,$0.00,1125,1125,New,+$0,,,,,ALL
+95,,2020-10-05 16:17:55,2020-10-01,ALL,Keane Margaret M,Dir,A - Grant,$92.26,338,3244,+12%,"+$31,184",,,,,ALL
+96,,2020-07-02 13:09:48,2020-07-01,ALL,Keane Margaret M,Dir,A - Grant,$95.53,327,2906,+13%,"+$31,238",,,,,ALL
+97,D,2020-06-09 16:29:25,2020-06-05,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,M - OptEx,$78.35,14378,23430,+159%,"+$1,126,516",,,,,ALL
+98,D,2020-06-09 16:29:25,2020-06-05,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,S - Sale+OE,$105.62,-14378,23430,-38%,"-$1,518,604",,,,,ALL
+99,,2020-06-09 16:26:39,2020-06-05,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale,$106.05,-12385,30715,-29%,"-$1,313,429",,,,,ALL
+100,D,2020-06-03 17:11:07,2020-06-01,ALL,Sprieser Judith A,Dir,M - OptEx,$0.00,1783,0,-100%,+$0,,,,,ALL
+101,D,2020-06-03 17:11:07,2020-06-01,ALL,Sprieser Judith A,Dir,S - Sale+OE,$99.03,-1783,0,-100%,"-$176,570",,,,,ALL
+102,,2020-05-18 16:43:47,2020-05-07,ALL,Shebik Steven E,Vice COB,G - Gift,$0.00,-17005,142552,-11%,-$0,,,,,ALL
+103,,2020-05-14 16:55:59,2020-05-12,ALL,Wilson Thomas J,"COB, Pres, CEO",S - Sale,$101.41,-2700,932622,0%,"-$273,816",,,,,ALL
+104,D,2020-05-12 17:13:19,2020-05-08,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$101.32,-74592,935322,-7%,"-$7,557,661",,,,,ALL
+105,D,2020-05-12 17:13:19,2020-05-08,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$31.65,891868,935322,>999%,"+$28,227,960",,,,,ALL
+106,D,2020-05-12 17:13:19,2020-05-08,ALL,Wilson Thomas J,"COB, Pres, CEO",S - Sale+OE,$101.32,-652868,935322,-41%,"-$66,147,421",,,,,ALL
+107,D,2020-05-12 17:04:06,2020-05-08,ALL,Rizzo Mario,"EVP, CFO",M - OptEx,$31.74,10804,23027,+88%,"+$342,919",,,,,ALL
+108,D,2020-05-12 17:04:06,2020-05-08,ALL,Rizzo Mario,"EVP, CFO",S - Sale+OE,$101.39,-6670,23027,-22%,"-$676,271",,,,,ALL
+109,,2020-05-11 16:59:25,2020-05-07,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,S - Sale,$103.65,-7397,23430,-24%,"-$766,699",,,,,ALL
+110,D,2020-05-11 16:56:43,2020-05-07,ALL,Merten Jesse E,"President, Financial Products",M - OptEx,$71.18,18622,14103,-412%,"+$1,325,542",,,,,ALL
+111,D,2020-05-11 16:56:43,2020-05-07,ALL,Merten Jesse E,"President, Financial Products",S - Sale+OE,$102.75,-18622,14103,-57%,"-$1,913,411",,,,,ALL
+112,D,2020-04-07 16:20:43,2020-04-05,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",F - Tax,$85.96,-21764,46754,-32%,"-$1,870,833",,,,,ALL
+113,D,2020-04-07 16:20:43,2020-04-05,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",M - OptEx,$0.00,49128,46754,-2069%,+$0,,,,,ALL
+114,,2020-04-03 16:51:59,2020-04-01,ALL,Keane Margaret M,Dir,A - Grant,$86.40,361,2579,+16%,"+$31,190",,,,,ALL
+115,,2020-03-05 16:24:19,2020-03-03,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",A - Grant,$0.00,31884,19390,-255%,+$0,,,,,ALL
+116,,2020-03-05 16:24:19,2020-03-03,ALL,Dugenske John E,"Pres, Invest. & Fin. Prod.",F - Tax,$112.67,-12790,19390,-40%,"-$1,441,049",,,,,ALL
+117,,2020-02-11 16:42:23,2020-02-09,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,A - Grant,$0.00,23932,30827,+347%,+$0,,,,,ALL
+118,,2020-02-11 16:42:23,2020-02-09,ALL,Shapiro Glenn T,PresPersonalProperty&Liability,F - Tax,$124.43,-9406,30827,-23%,"-$1,170,389",,,,,ALL
+119,,2020-02-11 16:41:18,2020-02-09,ALL,Rizzo Mario,"EVP, CFO",A - Grant,$0.00,5858,18882,+45%,+$0,,,,,ALL
+120,,2020-02-11 16:41:18,2020-02-09,ALL,Rizzo Mario,"EVP, CFO",F - Tax,$124.43,-1730,18882,-8%,"-$215,264",,,,,ALL
+121,,2020-02-11 16:40:03,2020-02-09,ALL,Pintozzi John C,"SVP, Controller,, CAO",A - Grant,$0.00,5360,14633,+58%,+$0,,,,,ALL
+122,,2020-02-11 16:40:03,2020-02-09,ALL,Pintozzi John C,"SVP, Controller,, CAO",F - Tax,$124.43,-1602,14633,-10%,"-$199,337",,,,,ALL
+123,,2020-02-11 16:39:01,2020-02-09,ALL,Merten Jesse E,EVP & Chief Risk Officer - AIC,A - Grant,$0.00,5130,13944,+58%,+$0,,,,,ALL
+124,,2020-02-11 16:39:01,2020-02-09,ALL,Merten Jesse E,EVP & Chief Risk Officer - AIC,F - Tax,$124.43,-1535,13944,-10%,"-$191,000",,,,,ALL
+125,,2020-02-11 16:37:25,2020-02-09,ALL,Lees Susan L,"EVP, GC, Sec.",A - Grant,$0.00,20102,43014,+88%,+$0,,,,,ALL
+126,,2020-02-11 16:37:25,2020-02-09,ALL,Lees Susan L,"EVP, GC, Sec.",F - Tax,$124.43,-7717,43014,-15%,"-$960,226",,,,,ALL
+127,,2020-02-11 16:34:12,2020-02-09,ALL,Gupta Suren,Executive Vice President - AIC,A - Grant,$0.00,22974,58735,+64%,+$0,,,,,ALL
+128,,2020-02-11 16:34:12,2020-02-09,ALL,Gupta Suren,Executive Vice President - AIC,F - Tax,$124.43,-8989,58735,-13%,"-$1,118,501",,,,,ALL
+129,,2020-02-11 16:32:40,2020-02-09,ALL,Fortin Mary Jane,"President, Financial Products",A - Grant,$0.00,24776,55463,+81%,+$0,,,,,ALL
+130,,2020-02-11 16:32:40,2020-02-09,ALL,Fortin Mary Jane,"President, Financial Products",F - Tax,$124.43,-9786,55463,-15%,"-$1,217,672",,,,,ALL
+131,,2020-02-11 16:31:22,2020-02-09,ALL,Civgin Don,"CEO, Protection Prod. & Serv.",A - Grant,$0.00,35840,168552,+27%,+$0,,,,,ALL
+132,,2020-02-11 16:31:22,2020-02-09,ALL,Civgin Don,"CEO, Protection Prod. & Serv.",F - Tax,$124.43,-14677,168552,-8%,"-$1,826,259",,,,,ALL
+133,,2020-02-11 16:29:53,2020-02-09,ALL,Shebik Steven E,Vice COB,A - Grant,$0.00,50926,159492,+47%,+$0,,,,,ALL
+134,,2020-02-11 16:29:53,2020-02-09,ALL,Shebik Steven E,Vice COB,F - Tax,$124.43,-21361,159492,-12%,"-$2,657,949",,,,,ALL
+135,D,2020-02-11 16:27:55,2020-02-09,ALL,Wilson Thomas J,"COB, Pres, CEO",A - Grant,$0.00,137844,770846,+22%,+$0,,,,,ALL
+136,D,2020-02-11 16:27:55,2020-02-09,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$124.43,-59876,770846,-7%,"-$7,450,371",,,,,ALL
+137,,2020-01-03 16:38:46,2020-01-01,ALL,Keane Margaret M,Dir,A - Grant,$112.45,277,2218,+14%,"+$31,149",,,,,ALL
+138,,2019-12-05 16:50:29,2019-11-26,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,G - Gift,$0.00,-1725,16198,-10%,-$0,,,,,ALL
+139,M,2019-11-14 17:09:01,2019-08-19,ALL,Gupta Suren,Executive Vice President - AIC,G - Gift,$0.00,-2083,44646,+5%,-$0,,,,,ALL
+140,,2019-11-01 16:30:37,2019-09-24,ALL,Lees Susan L,"EVP, GC, Sec.",G - Gift,$0.00,-1850,30503,-6%,-$0,,,,,ALL
+141,D,2019-10-08 16:21:30,2019-10-05,ALL,Fortin Mary Jane,Pres Financial Businesses?AIC,F - Tax,$108.46,-6472,40372,-14%,"-$701,953",,,,,ALL
+142,D,2019-10-08 16:21:30,2019-08-06,ALL,Fortin Mary Jane,Pres Financial Businesses?AIC,G - Gift,$0.00,-1960,40372,-5%,-$0,,,,,ALL
+143,D,2019-10-08 16:21:30,2019-10-05,ALL,Fortin Mary Jane,Pres Financial Businesses?AIC,M - OptEx,$0.00,14608,40372,+57%,+$0,,,,,ALL
+144,,2019-10-03 16:21:52,2019-10-01,ALL,Keane Margaret M,Dir,A - Grant,$107.17,291,1941,+18%,"+$31,186",,,,,ALL
+145,D,2019-09-25 16:22:02,2019-09-23,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$62.32,20500,32353,+173%,"+$1,277,560",,,,,ALL
+146,D,2019-09-25 16:22:02,2019-09-23,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$108.30,-27650,32353,-46%,"-$2,994,495",,,,,ALL
+147,D,2019-08-09 16:18:41,2019-08-06,ALL,Shebik Steven E,Vice COB,G - Gift,$0.00,-5232,129760,-4%,-$0,,,,,ALL
+148,D,2019-08-09 16:18:41,2019-08-07,ALL,Shebik Steven E,Vice COB,M - OptEx,$31.00,35014,129760,+37%,"+$1,085,434",,,,,ALL
+149,D,2019-08-09 16:18:41,2019-08-07,ALL,Shebik Steven E,Vice COB,S - Sale+OE,$103.64,-35014,129760,-21%,"-$3,628,851",,,,,ALL
+150,,2019-08-08 16:17:07,2019-08-06,ALL,Merten Jesse E,EVP & Chief Risk Officer - AIC,S - Sale,$102.27,-900,10191,-8%,"-$92,043",,,,,ALL
+151,D,2019-08-07 16:19:23,2019-08-05,ALL,Shebik Steven E,Vice COB,M - OptEx,$31.56,26446,134992,+24%,"+$834,636",,,,,ALL
+152,D,2019-08-07 16:19:23,2019-08-05,ALL,Shebik Steven E,Vice COB,S - Sale+OE,$103.56,-26446,134992,-16%,"-$2,738,825",,,,,ALL
+153,,2019-08-06 17:18:37,2019-08-02,ALL,Fortin Mary Jane,Pres Financial Businesses?AIC,S - Sale,$104.21,-9773,34191,-22%,"-$1,018,444",,,,,ALL
+154,D,2019-08-06 17:17:10,2019-08-02,ALL,Civgin Don,Pres Service Businesses - AIC,M - OptEx,$60.10,261396,147272,-229%,"+$15,709,366",,,,,ALL
+155,D,2019-08-06 17:17:10,2019-08-02,ALL,Civgin Don,Pres Service Businesses - AIC,S - Sale+OE,$104.36,-261396,147272,-64%,"-$27,279,793",,,,,ALL
+156,,2019-07-03 13:05:17,2019-07-01,ALL,Keane Margaret M,Dir,A - Grant,$103.15,302,1650,+22%,"+$31,151",,,,,ALL
+157,D,2019-06-27 16:49:01,2019-06-25,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$52.18,22189,39475,+128%,"+$1,157,822",,,,,ALL
+158,D,2019-06-27 16:49:01,2019-06-25,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$102.26,-30189,39475,-43%,"-$3,087,127",,,,,ALL
+159,D,2019-06-27 16:44:18,2019-06-25,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,M - OptEx,$72.99,26647,17923,-305%,"+$1,944,859",,,,,ALL
+160,D,2019-06-27 16:44:18,2019-06-25,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,S - Sale+OE,$102.22,-22289,17923,-55%,"-$2,278,382",,,,,ALL
+161,,2019-06-25 16:17:53,2019-06-21,ALL,Sprieser Judith A,Dir,S - Sale,$102.63,-2225,0,-100%,"-$228,352",,,,,ALL
+162,D,2019-06-04 17:27:30,2019-06-01,ALL,Sprieser Judith A,Dir,M - OptEx,$0.00,2225,2225,New,+$0,,,,,ALL
+163,D,2019-04-09 16:22:47,2019-04-05,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,F - Tax,$96.07,-4066,13565,-23%,"-$390,621",,,,,ALL
+164,D,2019-04-09 16:22:47,2019-04-05,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,M - OptEx,$0.00,9176,13565,+209%,+$0,,,,,ALL
+165,,2019-04-03 16:26:14,2019-04-01,ALL,Keane Margaret M,Dir,A - Grant,$95.09,328,1348,+32%,"+$31,190",,,,,ALL
+166,,2019-02-13 16:48:26,2019-02-11,ALL,Ferren Eric K,"SVP, Controller,, CAO",A - Grant,$0.00,5635,12257,+85%,+$0,,,,,ALL
+167,,2019-02-13 16:48:26,2019-02-11,ALL,Ferren Eric K,"SVP, Controller,, CAO",F - Tax,$92.46,-1686,12257,-12%,"-$155,888",,,,,ALL
+168,,2019-02-13 16:45:17,2019-02-11,ALL,Wilson Thomas J,"COB, Pres, CEO",A - Grant,$0.00,139940,692607,+25%,+$0,,,,,ALL
+169,,2019-02-13 16:45:17,2019-02-11,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$92.46,-60377,692607,-8%,"-$5,582,457",,,,,ALL
+170,,2019-02-13 16:43:22,2019-02-11,ALL,Shebik Steven E,Vice COB,A - Grant,$0.00,42759,134914,+46%,+$0,,,,,ALL
+171,,2019-02-13 16:43:22,2019-02-11,ALL,Shebik Steven E,Vice COB,F - Tax,$92.46,-17321,134914,-11%,"-$1,601,500",,,,,ALL
+172,,2019-02-13 16:41:04,2019-02-11,ALL,Rizzo Mario,"EVP, CFO",A - Grant,$0.00,4685,14631,+47%,+$0,,,,,ALL
+173,,2019-02-13 16:41:04,2019-02-11,ALL,Rizzo Mario,"EVP, CFO",F - Tax,$92.46,-1381,14631,-9%,"-$127,687",,,,,ALL
+174,,2019-02-13 16:39:13,2019-02-11,ALL,Merten Jesse E,EVP & Chief Risk Officer - AIC,A - Grant,$0.00,5239,10930,+92%,+$0,,,,,ALL
+175,,2019-02-13 16:39:13,2019-02-11,ALL,Merten Jesse E,EVP & Chief Risk Officer - AIC,F - Tax,$92.46,-1572,10930,-13%,"-$145,347",,,,,ALL
+176,,2019-02-13 16:37:55,2019-02-11,ALL,Lees Susan L,"EVP, GC, Sec.",A - Grant,$0.00,19437,47410,+69%,+$0,,,,,ALL
+177,,2019-02-13 16:37:55,2019-02-11,ALL,Lees Susan L,"EVP, GC, Sec.",F - Tax,$92.46,-7003,47410,-13%,"-$647,497",,,,,ALL
+178,,2019-02-13 16:35:41,2019-02-11,ALL,Gupta Suren,Executive Vice President - AIC,A - Grant,$0.00,22935,46643,+97%,+$0,,,,,ALL
+179,,2019-02-13 16:35:41,2019-02-11,ALL,Gupta Suren,Executive Vice President - AIC,F - Tax,$92.46,-8552,46643,-15%,"-$790,718",,,,,ALL
+180,,2019-02-13 16:33:25,2019-02-11,ALL,Fortin Mary Jane,Pres Financial Businesses?AIC,A - Grant,$0.00,24294,43964,+124%,+$0,,,,,ALL
+181,,2019-02-13 16:33:25,2019-02-11,ALL,Fortin Mary Jane,Pres Financial Businesses?AIC,F - Tax,$92.46,-9152,43964,-17%,"-$846,194",,,,,ALL
+182,,2019-02-13 16:31:52,2019-02-11,ALL,Civgin Don,Pres Service Businesses - AIC,A - Grant,$0.00,37318,147254,+34%,+$0,,,,,ALL
+183,,2019-02-13 16:31:52,2019-02-11,ALL,Civgin Don,Pres Service Businesses - AIC,F - Tax,$92.46,-14907,147254,-9%,"-$1,378,301",,,,,ALL
+184,,2019-01-03 16:18:39,2019-01-01,ALL,Keane Margaret M,Dir,A - Grant,$82.63,378,1020,+59%,"+$31,234",,,,,ALL
+185,,2018-11-09 16:16:28,2018-11-07,ALL,Merten Jesse E,EVP & Chief Risk Officer - AIC,S - Sale,$92.12,-696,7079,-9%,"-$64,118",,,,,ALL
+186,D,2018-10-09 17:14:19,2018-10-05,ALL,Fortin Mary Jane,Pres Financial Businesses?AIC,A - Grant,$0.00,2717,28687,+10%,+$0,,,,,ALL
+187,D,2018-10-09 17:14:19,2018-10-05,ALL,Fortin Mary Jane,Pres Financial Businesses?AIC,F - Tax,$99.44,-7552,28687,-21%,"-$750,971",,,,,ALL
+188,D,2018-10-09 17:14:19,2018-10-05,ALL,Fortin Mary Jane,Pres Financial Businesses?AIC,M - OptEx,$0.00,14608,28687,+104%,+$0,,,,,ALL
+189,,2018-10-03 16:48:55,2018-10-01,ALL,Keane Margaret M,Dir,A - Grant,$98.53,158,642,+33%,"+$15,568",,,,,ALL
+190,D,2018-09-17 16:21:53,2018-09-13,ALL,Harty Harriet K,"EVP, Human Resources ? AIC",M - OptEx,$45.07,10515,22879,+85%,"+$473,875",,,,,ALL
+191,D,2018-09-17 16:21:53,2018-09-13,ALL,Harty Harriet K,"EVP, Human Resources ? AIC",S - Sale+OE,$98.87,-10515,22879,-31%,"-$1,039,618",,,,,ALL
+192,D,2018-08-09 16:23:43,2018-08-07,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$52.18,22189,34774,+176%,"+$1,157,822",,,,,ALL
+193,D,2018-08-09 16:23:43,2018-08-07,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$99.24,-22189,34774,-39%,"-$2,202,036",,,,,ALL
+194,D,2018-08-08 16:18:53,2018-08-06,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,M - OptEx,$72.99,26645,8319,-145%,"+$1,944,714",,,,,ALL
+195,D,2018-08-08 16:18:53,2018-08-06,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,S - Sale+OE,$98.70,-21728,8319,-72%,"-$2,144,554",,,,,ALL
+196,,2018-07-20 16:24:05,2018-06-25,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-75260,612818,+14%,-$0,,,,,ALL
+197,,2018-07-03 13:00:59,2018-07-01,ALL,Keane Margaret M,Dir,A - Grant,$91.27,171,484,+55%,"+$15,607",,,,,ALL
+198,D,2018-04-09 16:36:09,2018-04-05,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,F - Tax,$96.53,-648,3402,-16%,"-$62,551",,,,,ALL
+199,D,2018-04-09 16:36:09,2018-04-05,ALL,Shapiro Glenn T,Pres Allstate Personal Lines,M - OptEx,$0.00,2211,3402,+186%,+$0,,,,,ALL
+200,,2018-04-03 16:19:57,2018-04-01,ALL,Keane Margaret M,Dir,A - Grant,$94.80,164,313,+110%,"+$15,547",,,,,ALL
+201,,2018-02-21 16:28:52,2018-02-18,ALL,Wilson Thomas J,"COB, CEO",A - Grant,$0.00,53780,612728,+10%,+$0,,,,,ALL
+202,,2018-02-21 16:28:52,2018-02-18,ALL,Wilson Thomas J,"COB, CEO",F - Tax,$95.04,-22250,612728,-4%,"-$2,114,640",,,,,ALL
+203,,2018-02-21 16:27:07,2018-02-18,ALL,Lees Susan L,"EVP, GC, Sec.",A - Grant,$0.00,6942,34713,+25%,+$0,,,,,ALL
+204,,2018-02-21 16:27:07,2018-02-18,ALL,Lees Susan L,"EVP, GC, Sec.",F - Tax,$95.04,-2052,34713,-6%,"-$195,022",,,,,ALL
+205,,2018-02-21 16:25:20,2018-02-18,ALL,Winter Matthew E,Pres,A - Grant,$0.00,18122,147344,+14%,+$0,,,,,ALL
+206,,2018-02-21 16:25:20,2018-02-18,ALL,Winter Matthew E,Pres,F - Tax,$95.04,-6814,147344,-4%,"-$647,603",,,,,ALL
+207,,2018-02-21 16:23:21,2018-02-18,ALL,Shebik Steven E,Vice COB,A - Grant,$0.00,13153,109184,+14%,+$0,,,,,ALL
+208,,2018-02-21 16:23:21,2018-02-18,ALL,Shebik Steven E,Vice COB,F - Tax,$95.04,-4246,109184,-4%,"-$403,540",,,,,ALL
+209,,2018-02-21 16:21:33,2018-02-18,ALL,Harty Harriet K,"EVP, Human Resources ? AIC",A - Grant,$0.00,3508,22633,+18%,+$0,,,,,ALL
+210,,2018-02-21 16:21:33,2018-02-18,ALL,Harty Harriet K,"EVP, Human Resources ? AIC",F - Tax,$95.04,-1050,22633,-4%,"-$99,792",,,,,ALL
+211,D,2018-02-21 16:20:38,2018-02-18,ALL,Merten Jesse E,EVP & Chief Risk Officer - AIC,F - Tax,$95.04,-1201,7445,-14%,"-$114,143",,,,,ALL
+212,D,2018-02-21 16:20:38,2018-02-18,ALL,Merten Jesse E,EVP & Chief Risk Officer - AIC,M - OptEx,$0.00,3986,7445,+115%,+$0,,,,,ALL
+213,,2018-02-21 16:19:20,2018-02-18,ALL,Gupta Suren,Executive Vice President - AIC,A - Grant,$0.00,8360,32109,+35%,+$0,,,,,ALL
+214,,2018-02-21 16:19:20,2018-02-18,ALL,Gupta Suren,Executive Vice President - AIC,F - Tax,$95.04,-2462,32109,-7%,"-$233,988",,,,,ALL
+215,D,2018-02-21 16:18:28,2018-02-18,ALL,Rizzo Mario,"EVP, CFO",F - Tax,$95.04,-1020,11171,-8%,"-$96,941",,,,,ALL
+216,D,2018-02-21 16:18:28,2018-02-18,ALL,Rizzo Mario,"EVP, CFO",M - OptEx,$0.00,3447,11171,+45%,+$0,,,,,ALL
+217,,2018-02-21 16:16:40,2018-02-18,ALL,Civgin Don,Pres Service Businesses - AIC,A - Grant,$0.00,13948,124673,+13%,+$0,,,,,ALL
+218,,2018-02-21 16:16:40,2018-02-18,ALL,Civgin Don,Pres Service Businesses - AIC,F - Tax,$95.04,-4597,124673,-4%,"-$436,899",,,,,ALL
+219,D,2018-02-21 16:16:23,2018-02-18,ALL,Ferren Eric K,"SVP, Controller,, CAO",M - OptEx,$0.00,3679,7974,+86%,+$0,,,,,ALL
+220,D,2018-01-03 16:24:35,2018-01-01,ALL,Keane Margaret M,Dir,A - Grant,$104.71,149,149,New,"+$15,602",,,,,ALL
+221,M,2017-12-18 16:20:10,2017-12-01,ALL,Wilson Thomas J,"COB, CEO",G - Gift,$0.00,-182093,581078,+46%,-$0,,,,,ALL
+222,,2017-12-05 15:47:02,2017-11-28,ALL,Lees Susan L,"EVP, GC, Sec.",G - Gift,$0.00,-1000,29713,-3%,-$0,,,,,ALL
+223,,2017-11-22 11:03:51,2017-11-20,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale,$100.49,-4000,30695,-12%,"-$401,964",,,,,ALL
+224,D,2017-11-14 16:38:43,2017-11-10,ALL,Gupta Suren,Executive Vice President - AIC,M - OptEx,$31.56,75692,26104,-153%,"+$2,388,840",,,,,ALL
+225,D,2017-11-14 16:38:43,2017-11-10,ALL,Gupta Suren,Executive Vice President - AIC,S - Sale+OE,$98.68,-103242,26104,-80%,"-$10,188,121",,,,,ALL
+226,D,2017-11-13 16:00:14,2017-11-08,ALL,Wilson Thomas J,"COB, CEO",F - Tax,$99.46,-512722,631152,-45%,"-$50,995,710",,,,,ALL
+227,D,2017-11-13 16:00:14,2017-11-08,ALL,Wilson Thomas J,"COB, CEO",M - OptEx,$39.20,755892,631152,-606%,"+$29,632,649",,,,,ALL
+228,DM,2017-11-13 16:00:14,2017-11-08,ALL,Wilson Thomas J,"COB, CEO",S - Sale+OE,$99.13,-195000,631152,-24%,"-$19,330,431",,,,,ALL
+229,D,2017-10-10 11:17:40,2017-10-05,ALL,Fortin Mary Jane,"Pres., Allstate Financial-AIC",F - Tax,$92.86,-5729,18807,-23%,"-$531,995",,,,,ALL
+230,D,2017-10-10 11:17:40,2017-10-05,ALL,Fortin Mary Jane,"Pres., Allstate Financial-AIC",M - OptEx,$0.00,14608,18807,+348%,+$0,,,,,ALL
+231,,2017-09-12 11:12:08,2017-08-15,ALL,Lees Susan L,"EVP, GC, Sec.",G - Gift,$0.00,-266,34695,-1%,-$0,,,,,ALL
+232,D,2017-08-17 13:21:59,2017-08-15,ALL,Winter Matthew E,Pres,M - OptEx,$31.56,48059,135923,+55%,"+$1,516,742",,,,,ALL
+233,D,2017-08-17 13:21:59,2017-08-15,ALL,Winter Matthew E,Pres,S - Sale+OE,$94.53,-48059,135923,-26%,"-$4,543,017",,,,,ALL
+234,D,2017-08-08 13:56:33,2017-08-07,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$31.74,35197,100111,+54%,"+$1,117,153",,,,,ALL
+235,D,2017-08-08 13:56:33,2017-08-07,ALL,Shebik Steven E,"EVP, CFO",S - Sale+OE,$94.28,-35197,100111,-26%,"-$3,318,373",,,,,ALL
+236,D,2017-08-08 10:39:48,2017-08-04,ALL,Lees Susan L,"EVP, GC, Sec.",F - Tax,$94.11,-32616,37588,-46%,"-$3,069,492",,,,,ALL
+237,D,2017-08-08 10:39:48,2017-08-04,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$45.61,44904,37588,-614%,"+$2,048,071",,,,,ALL
+238,D,2017-08-08 10:39:48,2017-08-04,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$94.09,-12288,37588,-25%,"-$1,156,178",,,,,ALL
+239,D,2017-07-18 18:41:45,2017-07-17,ALL,Winter Matthew E,Pres,M - OptEx,$31.56,48058,135923,+55%,"+$1,516,710",,,,,ALL
+240,D,2017-07-18 18:41:45,2017-07-17,ALL,Winter Matthew E,Pres,S - Sale+OE,$88.54,-48058,135923,-26%,"-$4,255,055",,,,,ALL
+241,D,2017-07-05 16:06:51,2017-06-30,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$31.56,7228,19929,+57%,"+$228,116",,,,,ALL
+242,D,2017-07-05 16:06:51,2017-06-30,ALL,Harty Harriet K,Executive Vice President - AIC,S - Sale+OE,$88.35,-7228,19929,-27%,"-$638,623",,,,,ALL
+243,DM,2017-06-20 13:31:55,2017-06-16,ALL,Gupta Sanjay,Executive Vice President - AIC,M - OptEx,$52.18,20000,56231,+55%,"+$1,043,600",,,,,ALL
+244,D,2017-06-20 13:31:55,2017-06-16,ALL,Gupta Sanjay,Executive Vice President - AIC,S - Sale+OE,$90.74,-16578,56231,-23%,"-$1,504,288",,,,,ALL
+245,D,2017-06-16 13:09:25,2017-06-15,ALL,Winter Matthew E,Pres,M - OptEx,$31.56,48058,135923,+55%,"+$1,516,710",,,,,ALL
+246,D,2017-06-16 13:09:25,2017-06-15,ALL,Winter Matthew E,Pres,S - Sale+OE,$88.81,-48058,135923,-26%,"-$4,268,031",,,,,ALL
+247,D,2017-06-06 14:24:16,2017-06-02,ALL,Ferren Eric K,"SVP, Controller,, CAO",F - Tax,$86.94,-1119,4055,-22%,"-$97,286",,,,,ALL
+248,D,2017-06-06 14:24:16,2017-06-02,ALL,Ferren Eric K,"SVP, Controller,, CAO",M - OptEx,$0.00,3595,4055,+782%,+$0,,,,,ALL
+249,,2017-06-01 16:35:47,2017-05-23,ALL,Wilson Thomas J,"COB, CEO",G - Gift,$0.00,-589,582917,0%,-$0,,,,,ALL
+250,DM,2017-05-30 18:38:38,2017-05-25,ALL,Gupta Sanjay,Executive Vice President - AIC,M - OptEx,$52.18,20000,52809,+61%,"+$1,043,600",,,,,ALL
+251,D,2017-05-30 18:38:38,2017-05-25,ALL,Gupta Sanjay,Executive Vice President - AIC,S - Sale+OE,$86.00,-16798,52809,-24%,"-$1,444,628",,,,,ALL
+252,D,2017-05-16 15:58:13,2017-05-15,ALL,Winter Matthew E,Pres,M - OptEx,$31.74,33957,135914,+33%,"+$1,077,795",,,,,ALL
+253,D,2017-05-16 15:58:13,2017-05-15,ALL,Winter Matthew E,Pres,S - Sale+OE,$84.38,-33957,135914,-20%,"-$2,865,292",,,,,ALL
+254,D,2017-05-08 16:49:18,2017-05-04,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$31.41,33616,100087,+51%,"+$1,055,879",-1.0,-1.0,,,ALL
+255,D,2017-05-08 16:49:18,2017-05-04,ALL,Shebik Steven E,"EVP, CFO",S - Sale+OE,$85.22,-33616,100087,-25%,"-$2,864,756",-1.0,-1.0,,,ALL
+256,D,2017-05-08 16:41:04,2017-05-04,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$33.10,30706,37561,+448%,"+$1,016,242",-1.0,-1.0,,,ALL
+257,D,2017-05-08 16:41:04,2017-05-04,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$85.31,-33806,37561,-47%,"-$2,883,990",-1.0,-1.0,,,ALL
+258,D,2017-05-05 12:14:16,2017-05-03,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$39.74,8582,37044,+30%,"+$341,056",0.0,-2.0,,,ALL
+259,D,2017-05-05 12:14:16,2017-05-03,ALL,Pilch Samuel H,"Sr. Group VP, Controller",S - Sale+OE,$83.88,-8582,37044,-19%,"-$719,858",0.0,-2.0,,,ALL
+260,D,2017-04-18 15:39:45,2017-04-17,ALL,Winter Matthew E,Pres,M - OptEx,$31.74,33956,135914,+33%,"+$1,077,763",-1.0,-1.0,,,ALL
+261,D,2017-04-18 15:39:45,2017-04-17,ALL,Winter Matthew E,Pres,S - Sale+OE,$81.01,-33956,135914,-20%,"-$2,750,776",-1.0,-1.0,,,ALL
+262,,2017-04-10 16:53:38,2017-03-31,ALL,Wilson Thomas J,"COB, CEO",G - Gift,$0.00,-612,583493,0%,-$0,0.0,0.0,3.0,,ALL
+263,D,2017-03-21 13:08:19,2017-03-20,ALL,Taylor Mary Alice,Dir,M - OptEx,$61.58,4000,13048,+44%,"+$246,320",-1.0,-2.0,-3.0,,ALL
+264,D,2017-03-21 13:08:19,2017-03-20,ALL,Taylor Mary Alice,Dir,S - Sale+OE,$82.79,-4000,13048,-23%,"-$331,160",-1.0,-2.0,-3.0,,ALL
+265,,2017-03-16 16:15:48,2017-03-02,ALL,Shebik Steven E,"EVP, CFO",G - Gift,$0.00,-5000,100087,-5%,-$0,0.0,-2.0,-3.0,,ALL
+266,D,2017-03-16 12:44:42,2017-03-15,ALL,Winter Matthew E,President,M - OptEx,$31.74,33956,135914,+33%,"+$1,077,763",0.0,-2.0,-2.0,,ALL
+267,D,2017-03-16 12:44:42,2017-03-15,ALL,Winter Matthew E,President,S - Sale+OE,$82.18,-33956,135914,-20%,"-$2,790,504",0.0,-2.0,-2.0,,ALL
+268,,2017-03-01 11:21:00,2017-02-27,ALL,Sprieser Judith A,Dir,S - Sale,$81.30,-1244,0,-100%,"-$101,131",1.0,-1.0,-1.0,,ALL
+269,D,2017-03-01 10:42:49,2017-02-27,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$31.51,24444,40661,+151%,"+$770,181",1.0,-1.0,-1.0,,ALL
+270,D,2017-03-01 10:42:49,2017-02-27,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$81.42,-24444,40661,-38%,"-$1,990,230",1.0,-1.0,-1.0,,ALL
+271,,2017-02-22 16:53:16,2017-02-18,ALL,Wilson Thomas J,"COB, CEO",A - Grant,$0.00,64265,584091,+12%,+$0,0.0,2.0,1.0,,ALL
+272,,2017-02-22 16:53:16,2017-02-18,ALL,Wilson Thomas J,"COB, CEO",F - Tax,$80.44,-27558,584091,-5%,"-$2,216,766",0.0,2.0,1.0,,ALL
+273,,2017-02-22 16:08:58,2017-02-18,ALL,Lees Susan L,"EVP, GC, Sec.",A - Grant,$0.00,9222,40639,+29%,+$0,0.0,2.0,1.0,,ALL
+274,,2017-02-22 16:08:58,2017-02-18,ALL,Lees Susan L,"EVP, GC, Sec.",F - Tax,$80.44,-2890,40639,-7%,"-$232,472",0.0,2.0,1.0,,ALL
+275,,2017-02-22 16:07:07,2017-02-18,ALL,Civgin Don,Pres Emerging Businesses - AIC,A - Grant,$0.00,17527,115195,+18%,+$0,0.0,2.0,1.0,,ALL
+276,,2017-02-22 16:07:07,2017-02-18,ALL,Civgin Don,Pres Emerging Businesses - AIC,F - Tax,$80.44,-6191,115195,-5%,"-$498,004",0.0,2.0,1.0,,ALL
+277,,2017-02-22 16:05:37,2017-02-18,ALL,Gupta Sanjay,Executive Vice President - AIC,A - Grant,$0.00,11267,49607,+29%,+$0,0.0,2.0,1.0,,ALL
+278,,2017-02-22 16:05:37,2017-02-18,ALL,Gupta Sanjay,Executive Vice President - AIC,F - Tax,$80.44,-5150,49607,-9%,"-$414,266",0.0,2.0,1.0,,ALL
+279,,2017-02-22 16:04:12,2017-02-18,ALL,Shebik Steven E,"EVP, CFO",A - Grant,$0.00,15023,105069,+17%,+$0,0.0,2.0,1.0,,ALL
+280,,2017-02-22 16:04:12,2017-02-18,ALL,Shebik Steven E,"EVP, CFO",F - Tax,$80.44,-5048,105069,-5%,"-$406,061",0.0,2.0,1.0,,ALL
+281,,2017-02-22 16:02:52,2017-02-18,ALL,Winter Matthew E,President,A - Grant,$0.00,21908,135914,+19%,+$0,0.0,2.0,1.0,,ALL
+282,,2017-02-22 16:02:52,2017-02-18,ALL,Winter Matthew E,President,F - Tax,$80.44,-8899,135914,-6%,"-$715,836",0.0,2.0,1.0,,ALL
+283,D,2017-02-22 16:01:10,2017-02-18,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$80.44,-2032,37034,-5%,"-$163,454",0.0,2.0,1.0,,ALL
+284,D,2017-02-22 16:01:10,2017-02-18,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$0.00,7066,37034,+24%,+$0,0.0,2.0,1.0,,ALL
+285,D,2017-02-22 15:59:31,2017-02-18,ALL,Harty Harriet K,Executive Vice President - AIC,F - Tax,$80.44,-1028,19717,-5%,"-$82,692",0.0,2.0,1.0,,ALL
+286,D,2017-02-22 15:59:31,2017-02-18,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$0.00,3306,19717,+20%,+$0,0.0,2.0,1.0,,ALL
+287,,2017-02-22 15:58:11,2017-02-18,ALL,Gupta Suren,Executive Vice President - AIC,A - Grant,$0.00,12519,53647,+30%,+$0,0.0,2.0,1.0,,ALL
+288,,2017-02-22 15:58:11,2017-02-18,ALL,Gupta Suren,Executive Vice President - AIC,F - Tax,$80.44,-3922,53647,-7%,"-$315,486",0.0,2.0,1.0,,ALL
+289,D,2017-02-14 16:08:38,2017-02-13,ALL,Gupta Sanjay,Executive Vice President - AIC,M - OptEx,$45.61,13707,43490,+46%,"+$625,176",1.0,1.0,4.0,,ALL
+290,D,2017-02-14 16:08:38,2017-02-13,ALL,Gupta Sanjay,Executive Vice President - AIC,S - Sale+OE,$78.95,-13707,43490,-24%,"-$1,082,168",1.0,1.0,4.0,,ALL
+291,D,2017-02-14 12:03:57,2017-02-12,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$78.88,-566,32000,-2%,"-$44,646",0.0,1.0,4.0,,ALL
+292,D,2017-02-14 12:03:57,2017-02-12,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$0.00,1967,32000,+7%,+$0,0.0,1.0,4.0,,ALL
+293,D,2017-02-14 11:54:57,2017-02-12,ALL,Harty Harriet K,Executive Vice President - AIC,F - Tax,$78.88,-225,17439,-1%,"-$17,748",0.0,1.0,4.0,,ALL
+294,D,2017-02-14 11:54:57,2017-02-12,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$0.00,617,17439,+4%,+$0,0.0,1.0,4.0,,ALL
+295,,2017-02-07 12:18:21,2017-02-03,ALL,Taylor Mary Alice,Dir,S - Sale,$77.72,-10000,13048,-43%,"-$777,200",0.0,2.0,4.0,,ALL
+296,D,2017-01-05 14:20:42,2017-01-03,ALL,Gupta Sanjay,Executive Vice President - AIC,M - OptEx,$45.61,22844,43345,+111%,"+$1,041,915",0.0,-1.0,4.0,,ALL
+297,D,2017-01-05 14:20:42,2017-01-03,ALL,Gupta Sanjay,Executive Vice President - AIC,S - Sale+OE,$74.00,-36744,43345,-46%,"-$2,719,056",0.0,-1.0,4.0,,ALL
+298,,2016-12-20 18:17:32,2016-12-15,ALL,Lees Susan L,"EVP, GC, Sec.",G - Gift,$0.00,-420,34173,-1%,-$0,0.0,0.0,0.0,,ALL
+299,D,2016-12-20 16:17:19,2016-12-16,ALL,Wilson Thomas J,"COB, CEO",F - Tax,$73.98,-239730,547231,-30%,"-$17,735,225",0.0,0.0,0.0,,ALL
+300,D,2016-12-20 16:17:19,2016-12-16,ALL,Wilson Thomas J,"COB, CEO",G - Gift,$0.00,-46410,547231,-8%,-$0,0.0,0.0,0.0,,ALL
+301,D,2016-12-20 16:17:19,2016-12-16,ALL,Wilson Thomas J,"COB, CEO",M - OptEx,$62.24,262335,547231,+92%,"+$16,327,730",0.0,0.0,0.0,,ALL
+302,D,2016-12-20 16:17:19,2016-12-16,ALL,Wilson Thomas J,"COB, CEO",S - Sale+OE,$74.09,-22605,547231,-4%,"-$1,674,804",0.0,0.0,0.0,,ALL
+303,D,2016-12-20 15:30:48,2016-12-16,ALL,Sprieser Judith A,Dir,M - OptEx,$56.26,8000,1244,-118%,"+$450,080",0.0,0.0,0.0,,ALL
+304,D,2016-12-20 15:30:48,2016-12-16,ALL,Sprieser Judith A,Dir,S - Sale+OE,$73.81,-8000,1244,-87%,"-$590,480",0.0,0.0,0.0,,ALL
+305,,2016-12-20 15:20:33,2016-12-09,ALL,Gupta Suren,Executive Vice President - AIC,G - Gift,$0.00,-2000,44907,+5%,-$0,0.0,0.0,0.0,,ALL
+306,D,2016-12-15 17:25:26,2016-12-13,ALL,Gupta Suren,Executive Vice President - AIC,M - OptEx,$33.88,46297,44907,-3331%,"+$1,568,542",1.0,1.0,0.0,,ALL
+307,D,2016-12-15 17:25:26,2016-12-13,ALL,Gupta Suren,Executive Vice President - AIC,S - Sale+OE,$72.69,-46297,44907,-51%,"-$3,365,329",1.0,1.0,0.0,,ALL
+308,D,2016-12-06 10:55:13,2016-12-03,ALL,Harty Harriet K,Executive Vice President - AIC,F - Tax,$70.61,-25,16844,0%,"-$1,765",1.0,3.0,5.0,,ALL
+309,D,2016-12-06 10:55:13,2016-12-03,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$0.00,80,16844,0%,+$0,1.0,3.0,5.0,,ALL
+310,D,2016-12-05 14:59:25,2016-12-01,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$48.82,5111,34593,+17%,"+$249,519",0.0,3.0,5.0,,ALL
+311,D,2016-12-05 14:59:25,2016-12-01,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$70.15,-5111,34593,-13%,"-$358,511",0.0,3.0,5.0,,ALL
+312,D,2016-11-22 15:59:56,2016-11-21,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$62.24,21178,30438,+229%,"+$1,318,119",0.0,-3.0,4.0,,ALL
+313,D,2016-11-22 15:59:56,2016-11-21,ALL,Pilch Samuel H,"Sr. Group VP, Controller",S - Sale+OE,$72.24,-21178,30438,-41%,"-$1,529,899",0.0,-3.0,4.0,,ALL
+314,D,2016-11-22 15:56:54,2016-11-18,ALL,Gupta Sanjay,Executive Vice President - AIC,M - OptEx,$45.61,9137,57245,+19%,"+$416,739",0.0,-3.0,4.0,,ALL
+315,D,2016-11-22 15:56:54,2016-11-18,ALL,Gupta Sanjay,Executive Vice President - AIC,S - Sale+OE,$72.00,-9137,57245,-14%,"-$657,864",0.0,-3.0,4.0,,ALL
+316,D,2016-10-07 10:13:06,2016-10-05,ALL,Fortin Mary Jane,Executive Vice President - AIC,F - Tax,$67.84,-4820,9787,-33%,"-$326,989",1.0,2.0,-2.0,21.0,ALL
+317,D,2016-10-07 10:13:06,2016-10-05,ALL,Fortin Mary Jane,Executive Vice President - AIC,M - OptEx,$0.00,14607,9787,-303%,+$0,1.0,2.0,-2.0,21.0,ALL
+318,,2016-10-04 14:47:34,2016-10-01,ALL,Traquina Perry M,Dir,A - Grant,$69.18,379,760,+99%,"+$26,219",-1.0,0.0,-2.0,20.0,ALL
+319,D,2016-09-12 12:02:24,2016-09-08,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$62.24,2895,34552,+9%,"+$180,185",1.0,-1.0,1.0,22.0,ALL
+320,D,2016-09-12 12:02:24,2016-09-08,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$69.29,-2895,34552,-8%,"-$200,580",1.0,-1.0,1.0,22.0,ALL
+321,D,2016-09-07 13:57:23,2016-09-04,ALL,Gupta Sanjay,Executive Vice President - AIC,F - Tax,$68.95,-2292,57245,-4%,"-$158,033",0.0,-2.0,-2.0,18.0,ALL
+322,D,2016-09-07 13:57:23,2016-09-04,ALL,Gupta Sanjay,Executive Vice President - AIC,M - OptEx,$0.00,5014,57245,+10%,+$0,0.0,-2.0,-2.0,18.0,ALL
+323,D,2016-08-10 10:00:15,2016-08-08,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$53.88,41334,94891,+77%,"+$2,226,889",0.0,-1.0,0.0,13.0,ALL
+324,D,2016-08-10 10:00:15,2016-08-08,ALL,Shebik Steven E,"EVP, CFO",S - Sale+OE,$68.86,-41334,94891,-30%,"-$2,846,259",0.0,-1.0,0.0,13.0,ALL
+325,D,2016-08-09 12:49:42,2016-08-05,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$27.11,9868,16714,+144%,"+$267,534",0.0,0.0,1.0,14.0,ALL
+326,D,2016-08-09 12:49:42,2016-08-05,ALL,Harty Harriet K,Executive Vice President - AIC,S - Sale+OE,$68.64,-6779,16714,-29%,"-$465,311",0.0,0.0,1.0,14.0,ALL
+327,D,2016-07-13 17:05:12,2016-07-11,ALL,Gupta Sanjay,Executive Vice President - AIC,M - OptEx,$45.61,9137,54517,+20%,"+$416,739",0.0,0.0,0.0,7.0,ALL
+328,D,2016-07-13 17:05:12,2016-07-11,ALL,Gupta Sanjay,Executive Vice President - AIC,S - Sale+OE,$70.00,-9137,54517,-14%,"-$639,590",0.0,0.0,0.0,7.0,ALL
+329,D,2016-07-13 17:03:38,2016-07-11,ALL,Winter Matthew E,President,M - OptEx,$31.74,26150,122752,+27%,"+$830,001",0.0,0.0,0.0,7.0,ALL
+330,D,2016-07-13 17:03:38,2016-07-11,ALL,Winter Matthew E,President,S - Sale+OE,$70.00,-26150,122752,-18%,"-$1,830,500",0.0,0.0,0.0,7.0,ALL
+331,M,2016-07-07 10:55:10,2016-03-24,ALL,Wilson Thomas J,"COB, CEO",G - Gift,$0.00,-93223,593567,-14%,-$0,-1.0,0.0,-1.0,8.0,ALL
+332,D,2016-07-05 17:38:02,2016-07-01,ALL,Traquina Perry M,Dir,A - Grant,$69.56,381,381,New,"+$26,502",0.0,1.0,-2.0,8.0,ALL
+333,D,2016-06-07 11:10:24,2016-05-31,ALL,Shebik Steven E,"EVP, CFO",G - Gift,$0.00,-5489,94891,-5%,-$0,0.0,-1.0,3.0,5.0,ALL
+334,D,2016-06-07 11:10:24,2016-06-03,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$16.83,20000,94891,+27%,"+$336,600",0.0,-1.0,3.0,5.0,ALL
+335,D,2016-06-07 11:10:24,2016-06-03,ALL,Shebik Steven E,"EVP, CFO",S - Sale+OE,$67.46,-20000,94891,-17%,"-$1,349,200",0.0,-1.0,3.0,5.0,ALL
+336,D,2016-05-10 14:55:44,2016-05-06,ALL,Sprieser Judith A,Dir,M - OptEx,$55.20,4000,1244,-145%,"+$220,800",1.0,1.0,1.0,0.0,ALL
+337,D,2016-05-10 14:55:44,2016-05-06,ALL,Sprieser Judith A,Dir,S - Sale+OE,$66.92,-4000,1244,-76%,"-$267,680",1.0,1.0,1.0,0.0,ALL
+338,D,2016-05-10 14:00:33,2016-05-06,ALL,Civgin Don,Pres Emerging Businesses - AIC,M - OptEx,$40.42,214412,103696,-194%,"+$8,666,169",1.0,1.0,1.0,0.0,ALL
+339,D,2016-05-10 14:00:33,2016-05-06,ALL,Civgin Don,Pres Emerging Businesses - AIC,S - Sale+OE,$66.92,-214412,103696,-67%,"-$14,348,451",1.0,1.0,1.0,0.0,ALL
+340,,2016-04-01 16:40:21,2016-03-30,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale,$67.54,-9710,34476,-22%,"-$655,813",-1.0,-3.0,-5.0,2.0,ALL
+341,D,2016-03-30 14:11:14,2016-03-28,ALL,Taylor Mary Alice,Dir,M - OptEx,$55.20,4000,23048,+21%,"+$220,800",1.0,-1.0,-2.0,3.0,ALL
+342,D,2016-03-30 14:11:14,2016-03-28,ALL,Taylor Mary Alice,Dir,S - Sale+OE,$66.92,-3300,23048,-13%,"-$220,836",1.0,-1.0,-2.0,3.0,ALL
+343,,2016-02-23 16:04:50,2016-02-19,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,S - Sale,$64.10,-6000,99078,-6%,"-$384,600",0.0,0.0,5.0,10.0,ALL
+344,D,2016-02-23 16:03:51,2016-02-21,ALL,Shebik Steven E,"EVP, CFO",F - Tax,$64.00,-788,100315,-1%,"-$50,432",0.0,0.0,5.0,10.0,ALL
+345,D,2016-02-23 16:03:51,2016-02-21,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$0.00,1817,100315,+2%,+$0,0.0,0.0,5.0,10.0,ALL
+346,D,2016-02-23 16:02:36,2016-02-21,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$64.00,-850,30380,-3%,"-$54,400",0.0,0.0,5.0,10.0,ALL
+347,D,2016-02-23 16:02:36,2016-02-21,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$0.00,2954,30380,+11%,+$0,0.0,0.0,5.0,10.0,ALL
+348,D,2016-02-23 16:01:30,2016-02-21,ALL,Harty Harriet K,Executive Vice President - AIC,F - Tax,$64.00,-156,13400,-1%,"-$9,984",0.0,0.0,5.0,10.0,ALL
+349,D,2016-02-23 16:01:30,2016-02-21,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$0.00,497,13400,+4%,+$0,0.0,0.0,5.0,10.0,ALL
+350,D,2016-02-23 16:00:21,2016-02-21,ALL,Lees Susan L,"EVP, GC, Sec.",F - Tax,$64.00,-943,44149,-2%,"-$60,352",0.0,0.0,5.0,10.0,ALL
+351,D,2016-02-23 16:00:21,2016-02-21,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$0.00,2174,44149,+5%,+$0,0.0,0.0,5.0,10.0,ALL
+352,,2016-02-19 11:07:14,2016-02-17,ALL,Gupta Suren,EVP Allstate Insurance Company,S - Sale,$65.00,-14500,44896,-24%,"-$942,500",0.0,1.0,5.0,9.0,ALL
+353,D,2016-02-19 11:05:51,2016-02-17,ALL,Winter Matthew E,President,M - OptEx,$31.15,29635,122741,+32%,"+$923,006",0.0,1.0,5.0,9.0,ALL
+354,D,2016-02-19 11:05:51,2016-02-17,ALL,Winter Matthew E,President,S - Sale+OE,$65.00,-29635,122741,-19%,"-$1,926,275",0.0,1.0,5.0,9.0,ALL
+355,,2016-02-16 17:33:29,2016-02-12,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,A - Grant,$0.00,31047,105078,+42%,+$0,1.0,0.0,3.0,8.0,ALL
+356,,2016-02-16 17:33:29,2016-02-12,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,F - Tax,$62.32,-14014,105078,-12%,"-$873,352",1.0,0.0,3.0,8.0,ALL
+357,D,2016-02-16 17:12:14,2016-02-12,ALL,Wilson Thomas J,"COB, CEO",A - Grant,$0.00,130638,598724,+28%,+$0,1.0,0.0,3.0,8.0,ALL
+358,D,2016-02-16 17:12:14,2016-02-12,ALL,Wilson Thomas J,"COB, CEO",F - Tax,$62.32,-54863,598724,-8%,"-$3,419,062",1.0,0.0,3.0,8.0,ALL
+359,D,2016-02-16 15:30:40,2016-02-12,ALL,Winter Matthew E,President,A - Grant,$0.00,43050,122741,+54%,+$0,1.0,1.0,4.0,9.0,ALL
+360,D,2016-02-16 15:30:40,2016-02-12,ALL,Winter Matthew E,President,F - Tax,$62.32,-18736,122741,-13%,"-$1,167,628",1.0,1.0,4.0,9.0,ALL
+361,D,2016-02-16 15:28:36,2016-02-12,ALL,Shebik Steven E,"EVP, CFO",A - Grant,$0.00,30539,99286,+44%,+$0,1.0,1.0,4.0,9.0,ALL
+362,D,2016-02-16 15:28:36,2016-02-12,ALL,Shebik Steven E,"EVP, CFO",F - Tax,$62.32,-11042,99286,-10%,"-$688,137",1.0,1.0,4.0,9.0,ALL
+363,D,2016-02-16 15:24:44,2016-02-12,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$62.32,-566,28276,-2%,"-$35,273",1.0,1.0,4.0,9.0,ALL
+364,D,2016-02-16 15:24:44,2016-02-12,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$0.00,1967,28276,+7%,+$0,1.0,1.0,4.0,9.0,ALL
+365,D,2016-02-16 15:22:48,2016-02-12,ALL,Lees Susan L,"EVP, GC, Sec.",A - Grant,$0.00,18238,42918,+74%,+$0,1.0,1.0,4.0,9.0,ALL
+366,D,2016-02-16 15:22:48,2016-02-12,ALL,Lees Susan L,"EVP, GC, Sec.",F - Tax,$62.32,-5681,42918,-12%,"-$354,040",1.0,1.0,4.0,9.0,ALL
+367,D,2016-02-16 15:20:48,2016-02-12,ALL,Harty Harriet K,Executive Vice President - AIC,F - Tax,$62.32,-225,13044,-2%,"-$14,022",1.0,1.0,4.0,9.0,ALL
+368,D,2016-02-16 15:20:48,2016-02-12,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$0.00,617,13044,+5%,+$0,1.0,1.0,4.0,9.0,ALL
+369,D,2016-02-16 15:16:57,2016-02-12,ALL,Gupta Suren,EVP Allstate Insurance Company,A - Grant,$0.00,25449,59396,+75%,+$0,1.0,1.0,4.0,9.0,ALL
+370,D,2016-02-16 15:16:57,2016-02-12,ALL,Gupta Suren,EVP Allstate Insurance Company,F - Tax,$62.32,-9319,59396,-14%,"-$580,760",1.0,1.0,4.0,9.0,ALL
+371,D,2016-02-16 15:14:40,2016-02-12,ALL,Gupta Sanjay,EVP Allstate Insurance Company,A - Grant,$0.00,22268,54517,+69%,+$0,1.0,1.0,4.0,9.0,ALL
+372,D,2016-02-16 15:14:40,2016-02-12,ALL,Gupta Sanjay,EVP Allstate Insurance Company,F - Tax,$62.32,-7866,54517,-13%,"-$490,209",1.0,1.0,4.0,9.0,ALL
+373,D,2016-02-16 15:12:19,2016-02-12,ALL,Civgin Don,Pres Emerging Businesses - AIC,A - Grant,$0.00,35627,103690,+52%,+$0,1.0,1.0,4.0,9.0,ALL
+374,D,2016-02-16 15:12:19,2016-02-12,ALL,Civgin Don,Pres Emerging Businesses - AIC,F - Tax,$62.32,-13953,103690,-12%,"-$869,551",1.0,1.0,4.0,9.0,ALL
+375,D,2016-02-10 14:41:07,2016-02-09,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$53.84,942,12652,+8%,"+$50,717",0.0,3.0,3.0,11.0,ALL
+376,D,2016-02-10 14:41:07,2016-02-09,ALL,Harty Harriet K,Executive Vice President - AIC,S - Sale+OE,$63.08,-856,12652,-6%,"-$53,996",0.0,3.0,3.0,11.0,ALL
+377,D,2016-02-10 11:58:32,2016-02-08,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$16.83,20000,88045,+29%,"+$336,600",0.0,3.0,3.0,11.0,ALL
+378,D,2016-02-10 11:58:32,2016-02-08,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,S - Sale+OE,$63.10,-20000,88045,-19%,"-$1,262,000",0.0,3.0,3.0,11.0,ALL
+379,,2016-01-12 16:36:38,2015-12-21,ALL,Lees Susan L,"EVP, GC, Sec.",G - Gift,$0.00,-400,30193,-1%,-$0,-1.0,0.0,7.0,20.0,ALL
+380,D,2015-12-07 16:40:11,2015-12-03,ALL,Harty Harriet K,Executive Vice President - AIC,F - Tax,$62.89,-25,12351,0%,"-$1,572",-1.0,-5.0,-7.0,6.0,ALL
+381,D,2015-12-07 16:40:11,2015-12-03,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$0.00,80,12351,+1%,+$0,-1.0,-5.0,-7.0,6.0,ALL
+382,D,2015-12-04 14:48:50,2015-12-02,ALL,Wilson Thomas J,"COB, CEO",F - Tax,$62.89,-175152,522764,-25%,"-$11,015,309",3.0,0.0,-4.0,9.0,ALL
+383,D,2015-12-04 14:48:50,2015-12-01,ALL,Wilson Thomas J,"COB, CEO",G - Gift,$0.00,-62850,522764,-11%,-$0,3.0,0.0,-4.0,9.0,ALL
+384,D,2015-12-04 14:48:50,2015-12-02,ALL,Wilson Thomas J,"COB, CEO",M - OptEx,$53.84,190000,522764,+57%,"+$10,229,600",3.0,0.0,-4.0,9.0,ALL
+385,D,2015-11-09 17:47:19,2015-11-05,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$53.84,3038,30549,+11%,"+$163,566",0.0,-2.0,1.0,8.0,ALL
+386,D,2015-11-09 17:47:19,2015-11-05,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$63.22,-3038,30549,-9%,"-$192,068",0.0,-2.0,1.0,8.0,ALL
+387,D,2015-11-09 17:43:35,2015-11-05,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$53.84,9000,79583,+13%,"+$484,560",0.0,-2.0,1.0,8.0,ALL
+388,D,2015-11-09 17:43:35,2015-11-05,ALL,Shebik Steven E,"EVP, CFO",S - Sale+OE,$63.56,-9000,79583,-10%,"-$572,040",0.0,-2.0,1.0,8.0,ALL
+389,D,2015-09-09 12:19:18,2015-09-04,ALL,Gupta Sanjay,EVP Allstate Insurance Company,M - OptEx,$0.00,5013,39941,+14%,+$0,-1.0,1.0,3.0,12.0,ALL
+390,,2015-08-28 12:39:39,2015-08-27,ALL,Crawford Kermit R,Dir,P - Purchase,$57.57,1000,1000,New,"+$57,570",0.0,-1.0,-2.0,9.0,ALL
+391,D,2015-08-04 15:28:14,2015-08-01,ALL,Mabe Katherine A,Pres. Business to Business-AIC,F - Tax,$68.95,-706,30855,-2%,"-$48,679",-10.0,-9.0,-17.0,-13.0,ALL
+392,D,2015-08-04 15:28:14,2015-08-01,ALL,Mabe Katherine A,Pres. Business to Business-AIC,M - OptEx,$0.00,1544,30855,+5%,+$0,-10.0,-9.0,-17.0,-13.0,ALL
+393,,2015-06-24 14:41:57,2015-06-22,ALL,Winter Matthew E,President,P - Purchase,$66.50,10000,98247,+11%,"+$665,000",-1.0,-2.0,3.0,-7.0,ALL
+394,D,2015-05-28 15:12:48,2015-05-26,ALL,Wilson Thomas J,"COB, CEO",M - OptEx,$58.47,100000,570663,+21%,"+$5,847,000",0.0,0.0,-4.0,-6.0,ALL
+395,D,2015-05-28 15:12:48,2015-05-26,ALL,Wilson Thomas J,"COB, CEO",S - Sale+OE,$67.43,-92786,570663,-14%,"-$6,256,560",0.0,0.0,-4.0,-6.0,ALL
+396,D,2015-05-14 09:09:47,2015-05-12,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$33.57,34179,79518,+75%,"+$1,147,555",1.0,3.0,1.0,-5.0,ALL
+397,D,2015-05-14 09:09:47,2015-05-12,ALL,Shebik Steven E,"EVP, CFO",S - Sale+OE,$66.79,-30641,79518,-28%,"-$2,046,512",1.0,3.0,1.0,-5.0,ALL
+398,D,2015-05-12 15:27:12,2015-05-08,ALL,Mabe Katherine A,Pres. Business to Business-AIC,M - OptEx,$40.27,34112,30009,-831%,"+$1,373,536",0.0,2.0,1.0,-3.0,ALL
+399,D,2015-05-12 15:27:12,2015-05-08,ALL,Mabe Katherine A,Pres. Business to Business-AIC,S - Sale+OE,$67.21,-39112,30009,-57%,"-$2,628,718",0.0,2.0,1.0,-3.0,ALL
+400,D,2015-05-05 10:22:26,2015-05-02,ALL,Gupta Suren,EVP Allstate Insurance Company,F - Tax,$69.95,-2277,43089,-5%,"-$159,276",0.0,-4.0,-3.0,-11.0,ALL
+401,D,2015-05-05 10:22:26,2015-05-02,ALL,Gupta Suren,EVP Allstate Insurance Company,M - OptEx,$0.00,4981,43089,+13%,+$0,0.0,-4.0,-3.0,-11.0,ALL
+402,D,2015-03-13 14:00:45,2015-03-11,ALL,Taylor Mary Alice,Dir,M - OptEx,$58.47,4000,22348,+22%,"+$233,880",-1.0,0.0,2.0,-17.0,ALL
+403,D,2015-03-13 14:00:45,2015-03-11,ALL,Taylor Mary Alice,Dir,S - Sale+OE,$69.00,-4000,22348,-15%,"-$276,000",-1.0,0.0,2.0,-17.0,ALL
+404,D,2015-03-12 16:03:38,2015-03-11,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$31.59,10033,18430,+119%,"+$316,924",-1.0,0.0,2.0,-18.0,ALL
+405,D,2015-03-12 16:03:38,2015-03-11,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),S - Sale+OE,$69.33,-10033,18430,-35%,"-$695,588",-1.0,0.0,2.0,-18.0,ALL
+406,,2015-03-09 18:35:21,2015-03-05,ALL,Winter Matthew E,President,A - Grant,$0.00,79302,88237,+888%,+$0,-2.0,0.0,3.0,-16.0,ALL
+407,,2015-03-09 18:35:21,2015-03-05,ALL,Winter Matthew E,President,F - Tax,$69.56,-38581,88237,-30%,"-$2,683,694",-2.0,0.0,3.0,-16.0,ALL
+408,,2015-03-09 18:34:02,2015-03-05,ALL,Wilson Thomas J,"COB, CEO",A - Grant,$0.00,244248,563438,+77%,+$0,-2.0,0.0,3.0,-16.0,ALL
+409,,2015-03-09 18:34:02,2015-03-05,ALL,Wilson Thomas J,"COB, CEO",F - Tax,$69.56,-105882,563438,-16%,"-$7,365,152",-2.0,0.0,3.0,-16.0,ALL
+410,,2015-03-09 18:32:40,2015-03-05,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),A - Grant,$0.00,2862,18430,+18%,+$0,-2.0,0.0,3.0,-16.0,ALL
+411,,2015-03-09 18:32:40,2015-03-05,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),F - Tax,$69.56,-1241,18430,-6%,"-$86,324",-2.0,0.0,3.0,-16.0,ALL
+412,,2015-03-09 18:30:55,2015-03-05,ALL,Shebik Steven E,"EVP, CFO",A - Grant,$0.00,19147,75980,+34%,+$0,-2.0,0.0,3.0,-16.0,ALL
+413,,2015-03-09 18:30:55,2015-03-05,ALL,Shebik Steven E,"EVP, CFO",F - Tax,$69.56,-8301,75980,-10%,"-$577,418",-2.0,0.0,3.0,-16.0,ALL
+414,,2015-03-09 18:29:24,2015-03-05,ALL,Mabe Katherine A,Pres. Business to Business-AIC,A - Grant,$0.00,28548,35009,+442%,+$0,-2.0,0.0,3.0,-16.0,ALL
+415,,2015-03-09 18:29:24,2015-03-05,ALL,Mabe Katherine A,Pres. Business to Business-AIC,F - Tax,$69.56,-13047,35009,-27%,"-$907,549",-2.0,0.0,3.0,-16.0,ALL
+416,,2015-03-09 18:26:33,2015-03-05,ALL,Lees Susan L,"EVP, GC, Sec.",A - Grant,$0.00,11342,30474,+59%,+$0,-2.0,0.0,3.0,-16.0,ALL
+417,,2015-03-09 18:26:33,2015-03-05,ALL,Lees Susan L,"EVP, GC, Sec.",F - Tax,$69.56,-4350,30474,-12%,"-$302,586",-2.0,0.0,3.0,-16.0,ALL
+418,,2015-03-09 18:25:03,2015-03-05,ALL,Gupta Suren,EVP Allstate Insurance Company,A - Grant,$0.00,41632,40385,-3339%,+$0,-2.0,0.0,3.0,-16.0,ALL
+419,,2015-03-09 18:25:03,2015-03-05,ALL,Gupta Suren,EVP Allstate Insurance Company,F - Tax,$69.56,-18416,40385,-31%,"-$1,281,017",-2.0,0.0,3.0,-16.0,ALL
+420,,2015-03-09 18:23:27,2015-03-05,ALL,Gupta Sanjay,EVP Allstate Insurance Company,A - Grant,$0.00,52273,34928,-301%,+$0,-2.0,0.0,3.0,-16.0,ALL
+421,,2015-03-09 18:23:27,2015-03-05,ALL,Gupta Sanjay,EVP Allstate Insurance Company,F - Tax,$69.56,-22945,34928,-40%,"-$1,596,054",-2.0,0.0,3.0,-16.0,ALL
+422,,2015-03-09 18:19:01,2015-03-05,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,A - Grant,$0.00,57096,87821,+186%,+$0,-2.0,0.0,3.0,-16.0,ALL
+423,,2015-03-09 18:19:01,2015-03-05,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,F - Tax,$69.56,-26093,87821,-23%,"-$1,815,029",-2.0,0.0,3.0,-16.0,ALL
+424,,2015-03-09 18:17:21,2015-03-05,ALL,Civgin Don,Pres Emerging Businesses - AIC,A - Grant,$0.00,60269,81827,+280%,+$0,-2.0,0.0,3.0,-16.0,ALL
+425,,2015-03-09 18:17:21,2015-03-05,ALL,Civgin Don,Pres Emerging Businesses - AIC,F - Tax,$69.56,-27543,81827,-25%,"-$1,915,891",-2.0,0.0,3.0,-16.0,ALL
+426,D,2015-03-06 13:53:28,2015-03-05,ALL,Greenberg Jack M,Dir,M - OptEx,$58.47,4000,0,-100%,"+$233,880",-1.0,1.0,4.0,-16.0,ALL
+427,D,2015-03-06 13:53:28,2015-03-05,ALL,Greenberg Jack M,Dir,S - Sale+OE,$69.77,-4000,0,-100%,"-$279,080",-1.0,1.0,4.0,-16.0,ALL
+428,D,2015-03-03 16:50:40,2015-02-27,ALL,Sprieser Judith A,Dir,M - OptEx,$58.47,4000,1244,-145%,"+$233,880",-1.0,-1.0,1.0,-16.0,ALL
+429,D,2015-03-03 16:50:40,2015-02-27,ALL,Sprieser Judith A,Dir,S - Sale+OE,$70.86,-4000,1244,-76%,"-$283,440",-1.0,-1.0,1.0,-16.0,ALL
+430,DM,2015-02-24 18:41:04,2015-02-21,ALL,Shebik Steven E,"EVP, CFO",F - Tax,$71.60,-778,65104,-1%,"-$55,705",-1.0,-1.0,0.0,-14.0,ALL
+431,DM,2015-02-24 18:41:04,2015-02-21,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$0.00,2702,65104,+4%,+$0,-1.0,-1.0,0.0,-14.0,ALL
+432,DM,2015-02-24 16:46:37,2015-02-21,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$71.60,-1765,26627,-6%,"-$126,374",-1.0,-1.0,0.0,-14.0,ALL
+433,DM,2015-02-24 16:46:37,2015-02-21,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$16.98,13230,26627,+99%,"+$224,582",-1.0,-1.0,0.0,-14.0,ALL
+434,D,2015-02-24 16:46:37,2015-02-23,ALL,Pilch Samuel H,"Sr. Group VP, Controller",S - Sale+OE,$71.37,-7096,26627,-21%,"-$506,442",-1.0,-1.0,0.0,-14.0,ALL
+435,D,2015-02-24 16:44:02,2015-02-22,ALL,Winter Matthew E,President,F - Tax,$71.60,-2056,47516,-4%,"-$147,210",-1.0,-1.0,0.0,-14.0,ALL
+436,D,2015-02-24 16:44:02,2015-02-22,ALL,Winter Matthew E,President,M - OptEx,$0.00,6065,47516,+15%,+$0,-1.0,-1.0,0.0,-14.0,ALL
+437,D,2015-02-24 16:41:57,2015-02-22,ALL,Wilson Thomas J,"COB, CEO",F - Tax,$71.60,-5874,425049,-1%,"-$420,578",-1.0,-1.0,0.0,-14.0,ALL
+438,D,2015-02-24 16:41:57,2015-02-22,ALL,Wilson Thomas J,"COB, CEO",M - OptEx,$0.00,18195,425049,+4%,+$0,-1.0,-1.0,0.0,-14.0,ALL
+439,DM,2015-02-24 16:39:48,2015-02-21,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),F - Tax,$71.60,-1841,16809,-10%,"-$131,816",-1.0,-1.0,0.0,-14.0,ALL
+440,DM,2015-02-24 16:39:48,2015-02-21,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$0.00,4244,16809,+34%,+$0,-1.0,-1.0,0.0,-14.0,ALL
+441,DM,2015-02-24 16:37:57,2015-02-21,ALL,Harty Harriet K,Executive Vice President - AIC,F - Tax,$71.60,-189,11963,-2%,"-$13,532",-1.0,-1.0,0.0,-14.0,ALL
+442,DM,2015-02-24 16:37:57,2015-02-21,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$0.00,624,11963,+6%,+$0,-1.0,-1.0,0.0,-14.0,ALL
+443,DM,2015-02-24 16:36:08,2015-02-21,ALL,Lees Susan L,"EVP, GC, Sec.",F - Tax,$71.60,-1099,23621,-4%,"-$78,688",-1.0,-1.0,0.0,-14.0,ALL
+444,DM,2015-02-24 16:36:08,2015-02-21,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$0.00,3817,23621,+19%,+$0,-1.0,-1.0,0.0,-14.0,ALL
+445,D,2015-02-24 16:33:45,2015-02-22,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,F - Tax,$71.60,-1928,56802,-3%,"-$138,045",-1.0,-1.0,0.0,-14.0,ALL
+446,D,2015-02-24 16:33:45,2015-02-22,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$0.00,4218,56802,+8%,+$0,-1.0,-1.0,0.0,-14.0,ALL
+447,D,2015-02-24 16:31:51,2015-02-22,ALL,Civgin Don,Pres Emerging Businesses - AIC,F - Tax,$71.60,-2142,49095,-4%,"-$153,367",-1.0,-1.0,0.0,-14.0,ALL
+448,D,2015-02-24 16:31:51,2015-02-22,ALL,Civgin Don,Pres Emerging Businesses - AIC,M - OptEx,$0.00,4687,49095,+11%,+$0,-1.0,-1.0,0.0,-14.0,ALL
+449,D,2015-02-20 16:03:43,2015-02-18,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$52.18,3290,22258,+17%,"+$171,672",0.0,0.0,0.0,-10.0,ALL
+450,D,2015-02-20 16:03:43,2015-02-18,ALL,Pilch Samuel H,"Sr. Group VP, Controller",S - Sale+OE,$71.07,-3290,22258,-13%,"-$233,820",0.0,0.0,0.0,-10.0,ALL
+451,M,2015-02-17 16:39:41,2014-12-22,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-103950,412581,-20%,-$0,-1.0,0.0,-1.0,-10.0,ALL
+452,D,2015-02-17 13:02:52,2015-02-12,ALL,Harty Harriet K,Executive Vice President - AIC,F - Tax,$71.18,-437,11528,-4%,"-$31,106",0.0,0.0,-2.0,-10.0,ALL
+453,D,2015-02-17 13:02:52,2015-02-12,ALL,Harty Harriet K,Executive Vice President - AIC,M - OptEx,$0.00,1233,11528,+12%,+$0,0.0,0.0,-2.0,-10.0,ALL
+454,D,2015-02-17 11:57:43,2015-02-12,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$71.18,-1132,22258,-5%,"-$80,576",0.0,0.0,-2.0,-10.0,ALL
+455,D,2015-02-17 11:57:43,2015-02-12,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$25.52,8930,22258,+67%,"+$227,868",0.0,0.0,-2.0,-10.0,ALL
+456,D,2015-02-17 11:57:43,2015-02-12,ALL,Pilch Samuel H,"Sr. Group VP, Controller",S - Sale+OE,$71.18,-4996,22258,-18%,"-$355,615",0.0,0.0,-2.0,-10.0,ALL
+457,D,2015-02-13 16:22:36,2015-02-11,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$50.78,96159,54512,-231%,"+$4,883,326",0.0,0.0,-1.0,-10.0,ALL
+458,D,2015-02-13 16:22:36,2015-02-11,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,S - Sale+OE,$71.25,-96159,54512,-64%,"-$6,851,329",0.0,0.0,-1.0,-10.0,ALL
+459,D,2015-02-13 15:53:57,2015-02-11,ALL,Civgin Don,Pres Emerging Businesses - AIC,M - OptEx,$31.55,81274,46550,-234%,"+$2,564,497",0.0,0.0,-1.0,-11.0,ALL
+460,D,2015-02-13 15:53:57,2015-02-11,ALL,Civgin Don,Pres Emerging Businesses - AIC,S - Sale+OE,$71.09,-81274,46550,-64%,"-$5,777,769",0.0,0.0,-1.0,-11.0,ALL
+461,,2015-02-11 14:10:28,2015-02-10,ALL,Greenberg Jack M,Dir,S - Sale,$69.79,-2500,0,-100%,"-$174,475",2.0,1.0,1.0,-9.0,ALL
+462,D,2015-02-10 15:58:50,2015-02-06,ALL,Civgin Don,Pres Emerging Businesses - AIC,M - OptEx,$31.56,171964,46402,-137%,"+$5,426,474",0.0,2.0,-1.0,-9.0,ALL
+463,D,2015-02-10 15:58:50,2015-02-06,ALL,Civgin Don,Pres Emerging Businesses - AIC,S - Sale+OE,$71.44,-171964,46402,-79%,"-$12,285,108",0.0,2.0,-1.0,-9.0,ALL
+464,D,2015-02-10 13:04:59,2015-02-06,ALL,Mabe Katherine A,Pres. Business to Business-AIC,M - OptEx,$30.65,36236,19500,-217%,"+$1,110,490",0.0,2.0,-1.0,-9.0,ALL
+465,D,2015-02-10 13:04:59,2015-02-06,ALL,Mabe Katherine A,Pres. Business to Business-AIC,S - Sale+OE,$71.26,-26353,19500,-57%,"-$1,877,915",0.0,2.0,-1.0,-9.0,ALL
+466,D,2015-02-10 13:03:07,2015-02-06,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$39.89,57705,14258,-133%,"+$2,302,102",0.0,2.0,-1.0,-9.0,ALL
+467,D,2015-02-10 13:03:07,2015-02-06,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),S - Sale+OE,$71.16,-57705,14258,-80%,"-$4,106,396",0.0,2.0,-1.0,-9.0,ALL
+468,,2015-01-13 16:24:16,2015-01-09,ALL,Pilch Samuel H,"Sr. Group VP, Controller",S - Sale,$70.66,-14008,19309,-42%,"-$989,805",-1.0,0.0,2.0,-3.0,ALL
+469,D,2014-11-28 18:30:54,2014-11-25,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$67.58,-452197,261315,-63%,"-$30,559,473",-1.0,0.0,4.0,-1.0,ALL
+470,D,2014-11-28 18:30:54,2014-11-25,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$16.83,751636,261315,-153%,"+$12,650,034",-1.0,0.0,4.0,-1.0,ALL
+471,D,2014-11-28 18:30:54,2014-11-26,ALL,Wilson Thomas J,"COB, Pres, CEO",S - Sale+OE,$67.51,-224439,261315,-46%,"-$15,151,877",-1.0,0.0,4.0,-1.0,ALL
+472,,2014-11-25 11:11:07,2014-11-21,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),S - Sale,$67.65,-8095,14252,-36%,"-$547,627",0.0,1.0,5.0,1.0,ALL
+473,D,2014-11-06 15:07:12,2014-11-05,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$16.83,14337,20555,+231%,"+$241,292",1.0,2.0,5.0,3.0,ALL
+474,D,2014-11-06 15:07:12,2014-11-05,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$65.50,-14337,20555,-41%,"-$939,059",1.0,2.0,5.0,3.0,ALL
+475,DM,2014-11-05 14:41:30,2014-11-03,ALL,Devries James David,EVP & Chief Admin. Officer AIC,M - OptEx,$16.83,50000,42963,-711%,"+$841,500",1.0,3.0,6.0,5.0,ALL
+476,DM,2014-11-05 14:41:30,2014-11-03,ALL,Devries James David,EVP & Chief Admin. Officer AIC,S - Sale+OE,$65.00,-50000,42963,-54%,"-$3,250,081",1.0,3.0,6.0,5.0,ALL
+477,D,2014-10-28 18:08:56,2014-10-27,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$53.46,51346,33303,-285%,"+$2,744,850",0.0,2.0,7.0,12.0,ALL
+478,D,2014-10-28 18:08:56,2014-10-27,ALL,Pilch Samuel H,"Sr. Group VP, Controller",S - Sale+OE,$63.00,-51346,33303,-61%,"-$3,234,798",0.0,2.0,7.0,12.0,ALL
+479,D,2014-10-28 17:04:00,2014-10-27,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$16.83,20271,22347,+976%,"+$341,161",0.0,2.0,7.0,12.0,ALL
+480,D,2014-10-28 17:04:00,2014-10-27,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),S - Sale+OE,$63.00,-20271,22347,-48%,"-$1,277,073",0.0,2.0,7.0,12.0,ALL
+481,D,2014-09-08 16:52:39,2014-09-04,ALL,Gupta Sanjay,EVP & Chief Marketing Officer,F - Tax,$61.64,-4708,5450,-46%,"-$290,201",-1.0,-1.0,0.0,14.0,ALL
+482,D,2014-09-08 16:52:39,2014-09-04,ALL,Gupta Sanjay,EVP & Chief Marketing Officer,M - OptEx,$0.00,10026,5450,-219%,+$0,-1.0,-1.0,0.0,14.0,ALL
+483,,2014-08-19 15:01:05,2014-08-15,ALL,Pilch Samuel H,"Sr. Group VP, Controller",S - Sale,$61.03,-11073,33288,-25%,"-$675,752",0.0,1.0,1.0,16.0,ALL
+484,D,2014-08-14 13:27:35,2014-08-12,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$60.15,-92358,373470,-20%,"-$5,555,334",1.0,2.0,2.0,20.0,ALL
+485,D,2014-08-14 13:27:35,2014-08-12,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$52.57,98976,373470,+36%,"+$5,203,168",1.0,2.0,2.0,20.0,ALL
+486,D,2014-08-13 17:33:25,2014-08-12,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$16.83,10000,22347,+81%,"+$168,300",1.0,2.0,2.0,19.0,ALL
+487,D,2014-08-13 17:33:25,2014-08-12,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),S - Sale+OE,$60.00,-10000,22347,-31%,"-$600,000",1.0,2.0,2.0,19.0,ALL
+488,D,2014-08-13 10:14:32,2014-08-11,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$25.41,10526,20524,+105%,"+$267,432",0.0,2.0,2.0,19.0,ALL
+489,D,2014-08-13 10:14:32,2014-08-11,ALL,Lees Susan L,"EVP, GC, Sec.",S - Sale+OE,$59.73,-10526,20524,-34%,"-$628,707",0.0,2.0,2.0,19.0,ALL
+490,D,2014-08-12 17:14:59,2014-08-08,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$28.76,60034,54338,-1054%,"+$1,726,387",0.0,2.0,2.0,18.0,ALL
+491,D,2014-08-12 17:14:59,2014-08-08,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,S - Sale+OE,$59.50,-60034,54338,-52%,"-$3,571,843",0.0,2.0,2.0,18.0,ALL
+492,D,2014-08-12 14:27:24,2014-08-08,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$52.57,20836,62984,+49%,"+$1,095,349",1.0,3.0,3.0,19.0,ALL
+493,D,2014-08-12 14:27:24,2014-08-08,ALL,Shebik Steven E,"EVP, CFO",S - Sale+OE,$59.24,-20836,62984,-25%,"-$1,234,241",1.0,3.0,3.0,19.0,ALL
+494,D,2014-08-11 15:53:15,2014-08-01,ALL,Mabe Katherine A,Pres. Business to Business-AIC,F - Tax,$58.45,-725,9457,-7%,"-$42,376",0.0,2.0,2.0,18.0,ALL
+495,D,2014-08-11 15:53:15,2014-08-01,ALL,Mabe Katherine A,Pres. Business to Business-AIC,M - OptEx,$0.00,1544,9457,+20%,+$0,0.0,2.0,2.0,18.0,ALL
+496,D,2014-08-05 12:56:02,2014-08-01,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$52.57,12028,21982,+121%,"+$632,312",0.0,1.0,5.0,23.0,ALL
+497,D,2014-08-05 12:56:02,2014-08-01,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),S - Sale+OE,$58.47,-12028,21982,-35%,"-$703,265",0.0,1.0,5.0,23.0,ALL
+498,D,2014-06-09 14:44:03,2014-06-05,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$43.24,70620,44361,-269%,"+$3,053,281",0.0,-1.0,-1.0,16.0,ALL
+499,D,2014-06-09 14:44:03,2014-06-05,ALL,Pilch Samuel H,"Sr. Group VP, Controller",S - Sale+OE,$59.00,-70620,44361,-61%,"-$4,166,721",0.0,-1.0,-1.0,16.0,ALL
+500,,2014-06-05 09:54:19,2014-05-21,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-6280,366828,-2%,-$0,1.0,1.0,1.0,17.0,ALL
+501,D,2014-05-22 16:49:03,2014-05-21,ALL,Ackerman F Duane,Dir,M - OptEx,$43.98,4000,24332,+20%,"+$175,920",0.0,0.0,1.0,16.0,ALL
+502,D,2014-05-22 16:49:03,2014-05-21,ALL,Ackerman F Duane,Dir,S - Sale+OE,$58.37,-3014,24332,-11%,"-$175,927",0.0,0.0,1.0,16.0,ALL
+503,D,2014-05-12 17:33:21,2014-05-08,ALL,Lemay Ronald T,Dir,M - OptEx,$43.98,4000,7034,+132%,"+$175,920",0.0,-1.0,2.0,14.0,ALL
+504,D,2014-05-12 17:33:21,2014-05-08,ALL,Lemay Ronald T,Dir,S - Sale+OE,$57.97,-3036,7034,-30%,"-$175,985",0.0,-1.0,2.0,14.0,ALL
+505,D,2014-05-06 14:00:38,2014-05-02,ALL,Gupta Suren,EVP Allstate Insurance Company,F - Tax,$57.29,-2339,17016,-12%,"-$134,001",-1.0,2.0,3.0,15.0,ALL
+506,D,2014-05-06 14:00:38,2014-05-02,ALL,Gupta Suren,EVP Allstate Insurance Company,M - OptEx,$0.00,4981,17016,+41%,+$0,-1.0,2.0,3.0,15.0,ALL
+507,D,2014-04-03 12:06:21,2014-04-01,ALL,Devries James David,EVP & Chief Admin. Officer AIC,M - OptEx,$16.83,50000,42948,-709%,"+$841,500",1.0,0.0,2.0,9.0,ALL
+508,D,2014-04-03 12:06:21,2014-04-01,ALL,Devries James David,EVP & Chief Admin. Officer AIC,S - Sale+OE,$56.83,-50000,42948,-54%,"-$2,841,500",1.0,0.0,2.0,9.0,ALL
+509,D,2014-03-25 12:16:11,2014-03-21,ALL,Taylor Mary Alice,Dir,M - OptEx,$43.98,4000,22348,+22%,"+$175,920",0.0,1.0,0.0,11.0,ALL
+510,D,2014-03-25 12:16:11,2014-03-21,ALL,Taylor Mary Alice,Dir,S - Sale+OE,$56.16,-4000,22348,-15%,"-$224,640",0.0,1.0,0.0,11.0,ALL
+511,D,2014-03-05 10:57:37,2014-03-03,ALL,Winter Matthew E,Pres Allstate Personal Lines,M - OptEx,$31.41,19697,43345,+83%,"+$618,683",0.0,1.0,2.0,14.0,ALL
+512,D,2014-03-05 10:57:37,2014-03-03,ALL,Winter Matthew E,Pres Allstate Personal Lines,S - Sale+OE,$54.01,-19697,43345,-31%,"-$1,063,894",0.0,1.0,2.0,14.0,ALL
+513,AD,2014-03-05 10:53:46,2014-02-24,ALL,Winter Matthew E,Pres Allstate Personal Lines,M - OptEx,$31.41,14774,43345,+52%,"+$464,051",0.0,1.0,2.0,14.0,ALL
+514,AD,2014-03-05 10:53:46,2014-02-24,ALL,Winter Matthew E,Pres Allstate Personal Lines,S - Sale+OE,$53.88,-14774,43345,-25%,"-$796,082",0.0,1.0,2.0,14.0,ALL
+515,D,2014-02-25 18:19:56,2014-02-22,ALL,Civgin Don,Pres & CEO Allstate Financial,F - Tax,$53.86,-3048,46384,-6%,"-$164,165",0.0,1.0,5.0,15.0,ALL
+516,D,2014-02-25 18:19:56,2014-02-22,ALL,Civgin Don,Pres & CEO Allstate Financial,M - OptEx,$0.00,9437,46384,+26%,+$0,0.0,1.0,5.0,15.0,ALL
+517,DM,2014-02-25 18:14:29,2014-02-21,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),F - Tax,$53.65,-2880,22347,-11%,"-$154,522",0.0,1.0,5.0,15.0,ALL
+518,DM,2014-02-25 18:14:29,2014-02-21,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$0.00,9248,22347,+71%,+$0,0.0,1.0,5.0,15.0,ALL
+519,DM,2014-02-25 18:12:34,2014-02-21,ALL,Shebik Steven E,"EVP, CFO",F - Tax,$53.60,-1662,62924,-3%,"-$89,090",0.0,1.0,5.0,15.0,ALL
+520,DM,2014-02-25 18:12:34,2014-02-21,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$0.00,5400,62924,+9%,+$0,0.0,1.0,5.0,15.0,ALL
+521,D,2014-02-25 18:11:08,2014-02-22,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,F - Tax,$53.86,-2620,54289,-5%,"-$141,113",0.0,1.0,5.0,15.0,ALL
+522,DM,2014-02-25 18:11:08,2014-02-22,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$26.12,48798,54289,+889%,"+$1,274,737",0.0,1.0,5.0,15.0,ALL
+523,D,2014-02-25 18:11:08,2014-02-24,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,S - Sale+OE,$54.16,-40714,54289,-43%,"-$2,204,872",0.0,1.0,5.0,15.0,ALL
+524,D,2014-02-25 16:44:47,2014-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$53.86,-13753,373060,-4%,"-$740,737",0.0,1.0,5.0,15.0,ALL
+525,D,2014-02-25 16:44:47,2014-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$0.00,35913,373060,+11%,+$0,0.0,1.0,5.0,15.0,ALL
+526,DM,2014-02-25 16:42:12,2014-02-22,ALL,Winter Matthew E,Pres Allstate Personal Lines,M - OptEx,$17.23,26389,43345,+156%,"+$454,628",0.0,1.0,5.0,15.0,ALL
+527,D,2014-02-25 16:42:12,2014-02-24,ALL,Winter Matthew E,Pres Allstate Personal Lines,S - Sale+OE,$53.88,-14474,43345,-25%,"-$779,917",0.0,1.0,5.0,15.0,ALL
+528,DM,2014-02-25 16:40:36,2014-02-21,ALL,Lees Susan L,"EVP, GC, Sec.",F - Tax,$53.60,-1969,20455,-9%,"-$105,541",0.0,1.0,5.0,15.0,ALL
+529,DM,2014-02-25 16:40:36,2014-02-21,ALL,Lees Susan L,"EVP, GC, Sec.",M - OptEx,$0.00,6443,20455,+46%,+$0,0.0,1.0,5.0,15.0,ALL
+530,D,2014-02-25 16:39:07,2014-02-22,ALL,Devries James David,EVP & Chief Admin. Officer AIC,F - Tax,$53.86,-2247,42948,-5%,"-$121,023",0.0,1.0,5.0,15.0,ALL
+531,D,2014-02-25 16:39:07,2014-02-22,ALL,Devries James David,EVP & Chief Admin. Officer AIC,M - OptEx,$0.00,6868,42948,+19%,+$0,0.0,1.0,5.0,15.0,ALL
+532,DM,2014-02-25 16:36:33,2014-02-21,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$53.63,-3025,44324,-6%,"-$162,235",0.0,1.0,5.0,15.0,ALL
+533,DM,2014-02-25 16:36:33,2014-02-21,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$0.00,10080,44324,+29%,+$0,0.0,1.0,5.0,15.0,ALL
+534,D,2014-02-04 17:10:14,2014-02-03,ALL,Winter Matthew E,Pres Allstate Personal Lines,M - OptEx,$31.41,4923,31299,+19%,"+$154,631",-1.0,4.0,11.0,19.0,ALL
+535,D,2014-02-04 17:10:14,2014-02-03,ALL,Winter Matthew E,Pres Allstate Personal Lines,S - Sale+OE,$51.07,-4923,31299,-14%,"-$251,418",-1.0,4.0,11.0,19.0,ALL
+536,D,2014-01-06 14:45:08,2014-01-02,ALL,Winter Matthew E,Pres Allstate Personal Lines,M - OptEx,$31.41,19697,31299,+170%,"+$618,683",0.0,1.0,-6.0,11.0,ALL
+537,D,2014-01-06 14:45:08,2014-01-02,ALL,Winter Matthew E,Pres Allstate Personal Lines,S - Sale+OE,$53.78,-19697,31299,-39%,"-$1,059,226",0.0,1.0,-6.0,11.0,ALL
+538,D,2013-12-06 13:38:13,2013-12-04,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$53.57,-89782,350755,-20%,"-$4,809,622",2.0,-1.0,0.0,12.0,ALL
+539,D,2013-12-06 13:38:13,2013-12-04,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$45.96,97100,350755,+38%,"+$4,462,716",2.0,-1.0,0.0,12.0,ALL
+540,D,2013-12-04 12:28:47,2013-12-02,ALL,Sprieser Judith A,Dir,M - OptEx,$43.98,4000,1244,-145%,"+$175,920",0.0,1.0,0.0,12.0,ALL
+541,D,2013-12-04 12:28:47,2013-12-02,ALL,Sprieser Judith A,Dir,S - Sale+OE,$54.08,-4000,1244,-76%,"-$216,304",0.0,1.0,0.0,12.0,ALL
+542,D,2013-12-04 11:40:05,2013-12-02,ALL,Winter Matthew E,Pres Allstate Personal Lines,M - OptEx,$31.41,19697,31299,+170%,"+$618,683",0.0,1.0,0.0,12.0,ALL
+543,D,2013-12-04 11:40:05,2013-12-02,ALL,Winter Matthew E,Pres Allstate Personal Lines,S - Sale+OE,$54.04,-19697,31299,-39%,"-$1,064,465",0.0,1.0,0.0,12.0,ALL
+544,DM,2013-11-12 14:59:33,2013-11-07,ALL,Gupta Suren,EVP Allstate Insurance Company,M - OptEx,$33.88,46296,14240,-144%,"+$1,568,508",-1.0,0.0,-2.0,8.0,ALL
+545,DM,2013-11-12 14:59:33,2013-11-07,ALL,Gupta Suren,EVP Allstate Insurance Company,S - Sale+OE,$53.65,-37500,14240,-72%,"-$2,011,884",-1.0,0.0,-2.0,8.0,ALL
+546,D,2013-11-05 18:06:31,2013-11-01,ALL,Lees Susan L,"EVP, GC",M - OptEx,$45.96,3106,15810,+24%,"+$142,752",1.0,2.0,2.0,10.0,ALL
+547,D,2013-11-05 18:06:31,2013-11-01,ALL,Lees Susan L,"EVP, GC",S - Sale+OE,$53.05,-3106,15810,-16%,"-$164,776",1.0,2.0,2.0,10.0,ALL
+548,DM,2013-11-05 17:20:25,2013-11-01,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",M - OptEx,$24.17,25601,31292,+450%,"+$618,683",1.0,2.0,2.0,10.0,ALL
+549,D,2013-11-05 17:20:25,2013-11-01,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",S - Sale+OE,$53.16,-19697,31292,-39%,"-$1,047,093",1.0,2.0,2.0,10.0,ALL
+550,D,2013-10-17 16:25:23,2013-10-16,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$23.70,107194,37119,-153%,"+$2,540,992",0.0,-2.0,1.0,4.0,ALL
+551,D,2013-10-17 16:25:23,2013-10-16,ALL,Pilch Samuel H,"Sr. Group VP, Controller",S - Sale+OE,$53.06,-117194,37119,-76%,"-$6,218,665",0.0,-2.0,1.0,4.0,ALL
+552,D,2013-10-17 16:13:39,2013-10-16,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$45.96,14820,15844,>999%,"+$681,127",0.0,-2.0,1.0,4.0,ALL
+553,D,2013-10-17 16:13:39,2013-10-16,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),S - Sale+OE,$53.02,-14820,15844,-48%,"-$785,756",0.0,-2.0,1.0,4.0,ALL
+554,D,2013-10-03 12:00:54,2013-10-01,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",M - OptEx,$31.41,19697,25388,+346%,"+$618,683",-1.0,0.0,4.0,12.0,ALL
+555,D,2013-10-03 12:00:54,2013-10-01,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",S - Sale+OE,$50.60,-19697,25388,-44%,"-$996,747",-1.0,0.0,4.0,12.0,ALL
+556,,2013-09-20 12:13:57,2013-09-06,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-2070,343405,-1%,-$0,-1.0,-2.0,2.0,8.0,ALL
+557,D,2013-09-04 17:26:14,2013-09-03,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",M - OptEx,$31.41,19697,25388,+346%,"+$618,683",0.0,2.0,6.0,15.0,ALL
+558,D,2013-09-04 17:26:14,2013-09-03,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",S - Sale+OE,$48.63,-19697,25388,-44%,"-$957,767",0.0,2.0,6.0,15.0,ALL
+559,D,2013-08-06 16:21:59,2013-08-02,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$31.49,40265,58990,+215%,"+$1,267,979",-1.0,-1.0,-4.0,-1.0,ALL
+560,D,2013-08-06 16:21:59,2013-08-02,ALL,Shebik Steven E,"EVP, CFO",S - Sale+OE,$52.16,-40265,58990,-41%,"-$2,100,222",-1.0,-1.0,-4.0,-1.0,ALL
+561,DM,2013-08-05 14:42:37,2013-08-01,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",M - OptEx,$29.64,8385,25388,+49%,"+$248,531",-2.0,-3.0,-7.0,-3.0,ALL
+562,D,2013-08-05 14:42:37,2013-08-01,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",S - Sale+OE,$51.87,-6438,25388,-20%,"-$333,958",-2.0,-3.0,-7.0,-3.0,ALL
+563,DM,2013-07-03 13:38:58,2013-07-01,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",M - OptEx,$29.64,8385,23441,+56%,"+$248,531",0.0,4.0,8.0,14.0,ALL
+564,D,2013-07-03 13:38:58,2013-07-01,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",S - Sale+OE,$48.34,-6600,23441,-22%,"-$319,044",0.0,4.0,8.0,14.0,ALL
+565,DM,2013-06-05 11:14:55,2013-06-03,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",M - OptEx,$29.64,8385,21656,+63%,"+$248,531",-2.0,1.0,4.0,17.0,ALL
+566,D,2013-06-05 11:14:55,2013-06-03,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",S - Sale+OE,$48.24,-6593,21656,-23%,"-$318,046",-2.0,1.0,4.0,17.0,ALL
+567,,2013-05-31 15:16:17,2013-05-28,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-2070,345400,-1%,-$0,-1.0,-5.0,-1.0,13.0,ALL
+568,D,2013-05-23 15:17:51,2013-05-22,ALL,Greenberg Jack M,Dir,M - OptEx,$43.98,4000,2500,-267%,"+$175,920",0.0,1.0,-3.0,12.0,ALL
+569,D,2013-05-23 15:17:51,2013-05-22,ALL,Greenberg Jack M,Dir,S - Sale+OE,$48.86,-4000,2500,-62%,"-$195,440",0.0,1.0,-3.0,12.0,ALL
+570,D,2013-05-14 16:17:56,2013-05-10,ALL,Smith Joshua I,Dir,M - OptEx,$40.91,6666,0,-100%,"+$272,696",1.0,-1.0,-6.0,9.0,ALL
+571,D,2013-05-14 16:17:56,2013-05-10,ALL,Smith Joshua I,Dir,S - Sale+OE,$49.39,-6666,0,-100%,"-$329,240",1.0,-1.0,-6.0,9.0,ALL
+572,D,2013-05-14 16:05:33,2013-05-10,ALL,Lemay Ronald T,Dir,M - OptEx,$36.30,4000,6070,+193%,"+$145,200",1.0,-1.0,-6.0,9.0,ALL
+573,D,2013-05-14 16:05:33,2013-05-10,ALL,Lemay Ronald T,Dir,S - Sale+OE,$49.40,-4000,6070,-40%,"-$197,600",1.0,-1.0,-6.0,9.0,ALL
+574,D,2013-05-09 13:33:28,2013-05-07,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$20.64,50000,48622,-3628%,"+$1,032,068",-1.0,2.0,-4.0,8.0,ALL
+575,D,2013-05-09 13:33:28,2013-05-07,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,S - Sale+OE,$49.26,-50000,48622,-51%,"-$2,463,150",-1.0,2.0,-4.0,8.0,ALL
+576,D,2013-05-09 12:50:25,2013-05-07,ALL,Civgin Don,Pres & CEO Allstate Financial,M - OptEx,$16.83,201500,39844,-125%,"+$3,391,245",-1.0,2.0,-4.0,8.0,ALL
+577,D,2013-05-09 12:50:25,2013-05-07,ALL,Civgin Don,Pres & CEO Allstate Financial,S - Sale+OE,$49.29,-201500,39844,-83%,"-$9,932,741",-1.0,2.0,-4.0,8.0,ALL
+578,D,2013-05-09 12:23:43,2013-05-07,ALL,Ackerman F Duane,Dir,M - OptEx,$36.30,4000,23346,+21%,"+$145,200",-1.0,2.0,-4.0,8.0,ALL
+579,D,2013-05-09 12:23:43,2013-05-07,ALL,Ackerman F Duane,Dir,S - Sale+OE,$49.29,-2950,23346,-11%,"-$145,414",-1.0,2.0,-4.0,8.0,ALL
+580,D,2013-05-09 11:52:45,2013-05-07,ALL,Sprieser Judith A,Dir,M - OptEx,$36.30,4000,1244,-145%,"+$145,200",-1.0,2.0,-4.0,8.0,ALL
+581,D,2013-05-09 11:52:45,2013-05-07,ALL,Sprieser Judith A,Dir,S - Sale+OE,$49.30,-4000,1244,-76%,"-$197,200",-1.0,2.0,-4.0,8.0,ALL
+582,D,2013-05-09 10:12:56,2013-05-07,ALL,Riley H John Jr,Dir,M - OptEx,$36.30,4000,24375,+20%,"+$145,200",-1.0,2.0,-4.0,8.0,ALL
+583,AD,2013-05-08 16:02:40,2013-05-03,ALL,Taylor Mary Alice,Dir,M - OptEx,$36.30,4000,22348,+22%,"+$145,200",-1.0,1.0,-6.0,8.0,ALL
+584,AD,2013-05-08 16:02:40,2013-05-03,ALL,Taylor Mary Alice,Dir,S - Sale+OE,$48.95,-4000,22348,-15%,"-$195,816",-1.0,1.0,-6.0,8.0,ALL
+585,D,2013-05-07 10:55:51,2013-05-03,ALL,Taylor Mary Alice,Dir,M - OptEx,$36.30,4000,22348,+22%,"+$145,200",0.0,1.0,-6.0,10.0,ALL
+586,D,2013-05-07 10:55:51,2013-05-03,ALL,Taylor Mary Alice,Dir,S - Sale+OE,$48.95,-4000,22348,-15%,"-$195,816",0.0,1.0,-6.0,10.0,ALL
+587,D,2013-05-03 09:21:48,2013-05-02,ALL,Gupta Suren,EVP Allstate Insurance Company,F - Tax,$48.40,-4677,5444,-46%,"-$226,367",1.0,2.0,-1.0,11.0,ALL
+588,D,2013-05-03 09:21:48,2013-05-02,ALL,Gupta Suren,EVP Allstate Insurance Company,M - OptEx,$0.00,9961,5444,-221%,+$0,1.0,2.0,-1.0,11.0,ALL
+589,D,2013-04-01 12:56:01,2013-03-28,ALL,Devries James David,EVP & Chief Admin. Officer AIC,M - OptEx,$16.83,30000,38176,+367%,"+$504,900",0.0,1.0,0.0,6.0,ALL
+590,D,2013-04-01 12:56:01,2013-03-28,ALL,Devries James David,EVP & Chief Admin. Officer AIC,S - Sale+OE,$49.00,-30000,38176,-44%,"-$1,470,000",0.0,1.0,0.0,6.0,ALL
+591,,2013-03-05 12:25:53,2013-03-01,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),S - Sale,$45.75,-6610,15844,-29%,"-$302,408",1.0,3.0,6.0,4.0,ALL
+592,D,2013-03-01 18:15:29,2013-02-27,ALL,Civgin Don,Pres & CEO Allstate Financial,F - Tax,$45.56,-16648,39844,-29%,"-$758,483",0.0,2.0,6.0,4.0,ALL
+593,D,2013-03-01 18:15:29,2013-02-27,ALL,Civgin Don,Pres & CEO Allstate Financial,M - OptEx,$0.00,35458,39844,+808%,+$0,0.0,2.0,6.0,4.0,ALL
+594,D,2013-03-01 17:43:23,2013-02-27,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,F - Tax,$45.56,-11593,48613,-19%,"-$528,177",0.0,2.0,6.0,4.0,ALL
+595,D,2013-03-01 17:43:23,2013-02-27,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$0.00,24692,48613,+103%,+$0,0.0,2.0,6.0,4.0,ALL
+596,D,2013-03-01 17:11:45,2013-02-27,ALL,Devries James David,EVP & Chief Admin. Officer AIC,F - Tax,$45.56,-11190,38176,-23%,"-$509,816",0.0,2.0,6.0,4.0,ALL
+597,D,2013-03-01 17:11:45,2013-02-27,ALL,Devries James David,EVP & Chief Admin. Officer AIC,M - OptEx,$0.00,23832,38176,+166%,+$0,0.0,2.0,6.0,4.0,ALL
+598,D,2013-03-01 16:51:27,2013-02-27,ALL,Lees Susan L,"EVP, GC",F - Tax,$45.56,-1283,15743,-8%,"-$58,453",0.0,2.0,6.0,4.0,ALL
+599,D,2013-03-01 16:51:27,2013-02-27,ALL,Lees Susan L,"EVP, GC",M - OptEx,$0.00,3931,15743,+33%,+$0,0.0,2.0,6.0,4.0,ALL
+600,D,2013-03-01 16:49:15,2013-02-27,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),F - Tax,$45.56,-3858,22454,-15%,"-$175,770",0.0,2.0,6.0,4.0,ALL
+601,D,2013-03-01 16:49:15,2013-02-27,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$0.00,8846,22454,+65%,+$0,0.0,2.0,6.0,4.0,ALL
+602,D,2013-03-01 16:41:20,2013-02-27,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$45.56,-4838,47086,-9%,"-$220,419",0.0,2.0,6.0,4.0,ALL
+603,D,2013-03-01 16:41:20,2013-02-27,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$0.00,11326,47086,+32%,+$0,0.0,2.0,6.0,4.0,ALL
+604,D,2013-03-01 16:36:16,2013-02-27,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$45.56,-62515,347457,-15%,"-$2,848,183",0.0,2.0,6.0,4.0,ALL
+605,D,2013-03-01 16:36:16,2013-02-27,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$0.00,132264,347457,+61%,+$0,0.0,2.0,6.0,4.0,ALL
+606,D,2013-03-01 16:27:41,2013-02-27,ALL,Shebik Steven E,"EVP, CFO",F - Tax,$45.56,-4872,58965,-8%,"-$221,968",0.0,2.0,6.0,4.0,ALL
+607,D,2013-03-01 16:27:41,2013-02-27,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$0.00,10332,58965,+21%,+$0,0.0,2.0,6.0,4.0,ALL
+608,D,2013-02-26 15:17:14,2013-02-22,ALL,Shebik Steven E,"EVP, CFO",F - Tax,$46.47,-797,53471,-1%,"-$37,037",1.0,3.0,8.0,10.0,ALL
+609,D,2013-02-26 15:17:14,2013-02-22,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$0.00,2653,53471,+5%,+$0,1.0,3.0,8.0,10.0,ALL
+610,D,2013-02-26 15:15:37,2013-02-22,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,F - Tax,$46.47,-3978,35496,-10%,"-$184,858",1.0,3.0,8.0,10.0,ALL
+611,D,2013-02-26 15:15:37,2013-02-22,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$0.00,12299,35496,+53%,+$0,1.0,3.0,8.0,10.0,ALL
+612,D,2013-02-26 15:14:18,2013-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$46.47,-21120,277683,-7%,"-$981,446",1.0,3.0,8.0,10.0,ALL
+613,D,2013-02-26 15:14:18,2013-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$0.00,54106,277683,+24%,+$0,1.0,3.0,8.0,10.0,ALL
+614,D,2013-02-26 15:12:44,2013-02-22,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",F - Tax,$46.47,-6106,19857,-24%,"-$283,746",1.0,3.0,8.0,10.0,ALL
+615,D,2013-02-26 15:12:44,2013-02-22,ALL,Winter Matthew E,"Pres Allstate Auto,Home,Agenc.",M - OptEx,$0.00,17980,19857,+958%,+$0,1.0,3.0,8.0,10.0,ALL
+616,D,2013-02-26 15:11:05,2013-02-22,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),F - Tax,$46.47,-1946,17466,-10%,"-$90,431",1.0,3.0,8.0,10.0,ALL
+617,D,2013-02-26 15:11:05,2013-02-22,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$0.00,5867,17466,+51%,+$0,1.0,3.0,8.0,10.0,ALL
+618,D,2013-02-26 15:08:52,2013-02-22,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$46.47,-2206,40578,-5%,"-$102,513",1.0,3.0,8.0,10.0,ALL
+619,D,2013-02-26 15:08:52,2013-02-22,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$0.00,7350,40578,+22%,+$0,1.0,3.0,8.0,10.0,ALL
+620,D,2013-02-26 15:07:48,2013-02-22,ALL,Lees Susan L,"EVP, GC",F - Tax,$46.47,-1122,13056,-8%,"-$52,139",1.0,3.0,8.0,10.0,ALL
+621,D,2013-02-26 15:07:48,2013-02-22,ALL,Lees Susan L,"EVP, GC",M - OptEx,$0.00,3736,13056,+40%,+$0,1.0,3.0,8.0,10.0,ALL
+622,D,2013-02-26 15:06:47,2013-02-22,ALL,Devries James David,EVP & Chief Admin. Officer AIC,F - Tax,$46.47,-3334,25534,-12%,"-$154,931",1.0,3.0,8.0,10.0,ALL
+623,D,2013-02-26 15:06:47,2013-02-22,ALL,Devries James David,EVP & Chief Admin. Officer AIC,M - OptEx,$0.00,10245,25534,+67%,+$0,1.0,3.0,8.0,10.0,ALL
+624,D,2013-02-26 15:04:49,2013-02-22,ALL,Civgin Don,Pres & CEO Allstate Financial,F - Tax,$46.47,-4554,21034,-18%,"-$211,624",1.0,3.0,8.0,10.0,ALL
+625,D,2013-02-26 15:04:49,2013-02-22,ALL,Civgin Don,Pres & CEO Allstate Financial,M - OptEx,$0.00,14122,21034,+204%,+$0,1.0,3.0,8.0,10.0,ALL
+626,D,2013-02-26 15:03:26,2013-02-22,ALL,Bailey Donald,Pres Emerging Businesses (AIC),F - Tax,$46.47,-2619,8583,-23%,"-$121,705",1.0,3.0,8.0,10.0,ALL
+627,D,2013-02-26 15:03:26,2013-02-22,ALL,Bailey Donald,Pres Emerging Businesses (AIC),M - OptEx,$0.00,7030,8583,+453%,+$0,1.0,3.0,8.0,10.0,ALL
+628,D,2013-02-11 15:33:05,2013-02-08,ALL,Greenberg Jack M,Dir,M - OptEx,$36.30,4000,2500,-267%,"+$145,200",0.0,2.0,6.0,13.0,ALL
+629,D,2013-02-11 15:33:05,2013-02-08,ALL,Greenberg Jack M,Dir,S - Sale+OE,$45.09,-4000,2500,-62%,"-$180,376",0.0,2.0,6.0,13.0,ALL
+630,D,2013-01-07 16:32:48,2013-01-03,ALL,Bailey Donald,Pres Emerging Businesses (AIC),F - Tax,$41.16,-2446,3942,-38%,"-$100,677",0.0,3.0,6.0,21.0,ALL
+631,D,2013-01-07 16:32:48,2013-01-03,ALL,Bailey Donald,Pres Emerging Businesses (AIC),M - OptEx,$0.00,6205,3942,-274%,+$0,0.0,3.0,6.0,21.0,ALL
+632,D,2012-12-11 16:52:00,2012-12-07,ALL,Lees Susan L,"EVP, GC",M - OptEx,$31.78,767,10216,+8%,"+$24,375",0.0,-1.0,4.0,16.0,ALL
+633,D,2012-12-11 16:52:00,2012-12-07,ALL,Lees Susan L,"EVP, GC",S - Sale+OE,$41.37,-647,10216,-6%,"-$26,768",0.0,-1.0,4.0,16.0,ALL
+634,D,2012-12-11 16:23:15,2012-12-07,ALL,Shebik Steven E,"EVP, CFO",M - OptEx,$31.78,17000,51389,+49%,"+$540,260",0.0,-1.0,4.0,16.0,ALL
+635,D,2012-12-11 16:23:15,2012-12-07,ALL,Shebik Steven E,"EVP, CFO",S - Sale+OE,$41.34,-14713,51389,-22%,"-$608,162",0.0,-1.0,4.0,16.0,ALL
+636,D,2012-12-11 16:14:42,2012-12-07,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$31.37,4960,26938,+23%,"+$155,605",0.0,-1.0,4.0,16.0,ALL
+637,D,2012-12-11 16:14:42,2012-12-07,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,S - Sale+OE,$41.46,-4960,26938,-16%,"-$205,652",0.0,-1.0,4.0,16.0,ALL
+638,D,2012-12-11 16:07:53,2012-12-07,ALL,Farrell W James,Dir,M - OptEx,$36.30,4000,10546,+61%,"+$145,200",0.0,-1.0,4.0,16.0,ALL
+639,D,2012-12-11 16:07:53,2012-12-07,ALL,Farrell W James,Dir,S - Sale+OE,$41.28,-4000,10546,-27%,"-$165,124",0.0,-1.0,4.0,16.0,ALL
+640,D,2012-12-10 16:52:59,2012-12-06,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$41.19,-87490,244455,-26%,"-$3,603,713",-1.0,-3.0,2.0,15.0,ALL
+641,D,2012-12-10 16:52:59,2012-11-28,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-1486,244455,-1%,-$0,-1.0,-3.0,2.0,15.0,ALL
+642,D,2012-12-10 16:52:59,2012-12-06,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$31.78,101000,244455,+70%,"+$3,209,780",-1.0,-3.0,2.0,15.0,ALL
+643,D,2012-10-22 12:12:45,2012-10-18,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$16.83,10000,13315,+302%,"+$168,300",1.0,-4.0,-5.0,19.0,ALL
+644,D,2012-10-22 12:12:45,2012-10-18,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),S - Sale+OE,$42.00,-10000,13315,-43%,"-$420,000",1.0,-4.0,-5.0,19.0,ALL
+645,D,2012-09-11 14:04:10,2012-09-08,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$38.48,-2100,35191,-6%,"-$80,808",1.0,4.0,7.0,27.0,ALL
+646,D,2012-09-11 14:04:10,2012-09-08,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$0.00,7000,35191,+25%,+$0,1.0,4.0,7.0,27.0,ALL
+647,D,2012-09-11 11:44:12,2012-09-08,ALL,Civgin Don,Pres & CEO Allstate Financial,F - Tax,$38.48,-1783,11233,-14%,"-$68,610",1.0,4.0,7.0,27.0,ALL
+648,D,2012-09-11 11:44:12,2012-09-08,ALL,Civgin Don,Pres & CEO Allstate Financial,M - OptEx,$0.00,4300,11233,+62%,+$0,1.0,4.0,7.0,27.0,ALL
+649,,2012-08-23 17:24:11,2012-08-21,ALL,Smith Joshua I,Dir,S - Sale,$38.35,-5235,0,-100%,"-$200,762",0.0,0.0,8.0,23.0,ALL
+650,D,2012-08-14 18:03:42,2012-08-11,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,F - Tax,$37.98,-622,26897,-2%,"-$23,624",1.0,2.0,4.0,23.0,ALL
+651,D,2012-08-14 18:03:42,2012-08-11,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$0.00,1500,26897,+6%,+$0,1.0,2.0,4.0,23.0,ALL
+652,D,2012-08-14 14:45:58,2012-08-10,ALL,Walker Joan H,EVP Allstate Insurance Company,M - OptEx,$22.46,95958,45767,-191%,"+$2,155,060",-1.0,0.0,3.0,22.0,ALL
+653,D,2012-08-14 14:45:58,2012-08-10,ALL,Walker Joan H,EVP Allstate Insurance Company,S - Sale+OE,$37.83,-73172,45767,-62%,"-$2,768,368",-1.0,0.0,3.0,22.0,ALL
+654,D,2012-08-06 16:56:01,2012-08-03,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),M - OptEx,$25.27,22980,13315,-238%,"+$580,804",3.0,3.0,2.0,21.0,ALL
+655,D,2012-08-06 16:56:01,2012-08-03,ALL,Verney Steven C,EVP & Chief Risk Officer (AIC),S - Sale+OE,$37.00,-22980,13315,-63%,"-$850,260",3.0,3.0,2.0,21.0,ALL
+656,,2012-06-13 11:34:36,2012-06-08,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-3745,232359,-2%,-$0,-1.0,0.0,-2.0,21.0,ALL
+657,D,2012-05-31 14:33:27,2012-05-30,ALL,Mayes Michele Coleman,"EVP, GC",G - Gift,$0.00,-1500,19689,-7%,-$0,1.0,1.0,1.0,22.0,ALL
+658,DM,2012-05-31 14:33:27,2012-05-29,ALL,Mayes Michele Coleman,"EVP, GC",M - OptEx,$16.83,41136,19689,-192%,"+$692,319",1.0,1.0,1.0,22.0,ALL
+659,DM,2012-05-31 14:33:27,2012-05-29,ALL,Mayes Michele Coleman,"EVP, GC",S - Sale+OE,$33.68,-41136,19689,-68%,"-$1,385,465",1.0,1.0,1.0,22.0,ALL
+660,D,2012-05-08 10:56:03,2012-05-04,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$16.83,15000,22974,+188%,"+$252,450",1.0,0.0,0.0,16.0,ALL
+661,D,2012-05-08 10:56:03,2012-05-04,ALL,Walker Joan H,SVP Allstate Insurance Company,S - Sale+OE,$34.28,-15000,22974,-40%,"-$514,245",1.0,0.0,0.0,16.0,ALL
+662,D,2012-03-27 11:45:13,2012-03-24,ALL,Devries James David,EVP & Chief Admin. Officer AIC,F - Tax,$32.51,-4160,18375,-18%,"-$135,242",0.0,1.0,1.0,23.0,ALL
+663,D,2012-03-27 11:45:13,2012-03-24,ALL,Devries James David,EVP & Chief Admin. Officer AIC,M - OptEx,$0.00,12550,18375,+215%,+$0,0.0,1.0,1.0,23.0,ALL
+664,,2012-03-02 14:16:57,2012-02-29,ALL,Verney Steven C,"EVP, Chief Risk Officer, AIC",S - Sale,$31.75,-1650,13315,-11%,"-$52,388",0.0,0.0,5.0,21.0,ALL
+665,,2012-03-02 09:05:34,2012-02-29,ALL,Redmond Andrea,Dir,P - Purchase,$31.61,4000,4000,New,"+$126,440",0.0,0.0,5.0,21.0,ALL
+666,D,2012-02-28 17:16:52,2012-02-26,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$31.36,-990,30231,-3%,"-$31,046",0.0,1.0,6.0,22.0,ALL
+667,D,2012-02-28 17:16:52,2012-02-26,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$0.00,3300,30231,+12%,+$0,0.0,1.0,6.0,22.0,ALL
+668,D,2012-02-28 16:36:32,2012-02-26,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$31.36,-15215,236030,-6%,"-$477,142",0.0,1.0,6.0,22.0,ALL
+669,D,2012-02-28 16:36:32,2012-02-26,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$0.00,36705,236030,+18%,+$0,0.0,1.0,6.0,22.0,ALL
+670,D,2012-02-28 16:34:01,2012-02-26,ALL,Walker Joan H,SVP Allstate Insurance Company,F - Tax,$31.36,-3120,22967,-12%,"-$97,843",0.0,1.0,6.0,22.0,ALL
+671,D,2012-02-28 16:34:01,2012-02-26,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$0.00,10400,22967,+83%,+$0,0.0,1.0,6.0,22.0,ALL
+672,D,2012-02-28 16:32:22,2012-02-26,ALL,Mayes Michele Coleman,"EVP, GC",F - Tax,$31.36,-2340,21133,-10%,"-$73,382",0.0,1.0,6.0,22.0,ALL
+673,D,2012-02-28 16:32:22,2012-02-26,ALL,Mayes Michele Coleman,"EVP, GC",M - OptEx,$0.00,7800,21133,+59%,+$0,0.0,1.0,6.0,22.0,ALL
+674,D,2012-02-28 16:30:23,2012-02-26,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,F - Tax,$31.36,-3299,25961,-11%,"-$103,457",0.0,1.0,6.0,22.0,ALL
+675,D,2012-02-28 16:30:23,2012-02-26,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$0.00,10487,25961,+68%,+$0,0.0,1.0,6.0,22.0,ALL
+676,D,2012-02-23 17:35:26,2012-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$31.56,-11663,214540,-5%,"-$368,084",-1.0,-1.0,3.0,23.0,ALL
+677,D,2012-02-23 17:35:26,2012-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$0.00,35434,214540,+20%,+$0,-1.0,-1.0,3.0,23.0,ALL
+678,D,2012-02-23 16:56:49,2012-02-22,ALL,Pilch Samuel H,"Sr. Group VP, Controller",F - Tax,$31.56,-595,4351,-12%,"-$18,778",-1.0,-1.0,3.0,23.0,ALL
+679,D,2012-02-23 16:56:49,2012-02-22,ALL,Pilch Samuel H,"Sr. Group VP, Controller",M - OptEx,$0.00,1983,4351,+84%,+$0,-1.0,-1.0,3.0,23.0,ALL
+680,D,2012-02-23 16:39:15,2012-02-22,ALL,Winter Matthew E,Pres. & CEO Allstate Financial,F - Tax,$31.56,-4464,7742,-37%,"-$140,884",-1.0,-1.0,3.0,23.0,ALL
+681,D,2012-02-23 16:39:15,2012-02-22,ALL,Winter Matthew E,Pres. & CEO Allstate Financial,M - OptEx,$0.00,11700,7742,-296%,+$0,-1.0,-1.0,3.0,23.0,ALL
+682,D,2012-02-23 15:54:34,2012-02-22,ALL,Devries James David,EVP & Chief Admin. Officer AIC,F - Tax,$31.56,-2235,9985,-18%,"-$70,537",0.0,0.0,3.0,23.0,ALL
+683,D,2012-02-23 15:54:34,2012-02-22,ALL,Devries James David,EVP & Chief Admin. Officer AIC,M - OptEx,$0.00,6982,9985,+233%,+$0,0.0,0.0,3.0,23.0,ALL
+684,D,2012-02-23 15:53:15,2012-02-22,ALL,Civgin Don,"Exec. VP, CFO",F - Tax,$31.56,-2992,8703,-26%,"-$94,428",0.0,0.0,3.0,23.0,ALL
+685,D,2012-02-23 15:53:15,2012-02-22,ALL,Civgin Don,"Exec. VP, CFO",M - OptEx,$0.00,9499,8703,-1193%,+$0,0.0,0.0,3.0,23.0,ALL
+686,D,2012-02-23 15:51:39,2012-02-22,ALL,Walker Joan H,SVP Allstate Insurance Company,F - Tax,$31.56,-1887,15687,-11%,"-$59,554",0.0,0.0,3.0,23.0,ALL
+687,D,2012-02-23 15:51:39,2012-02-22,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$0.00,6287,15687,+67%,+$0,0.0,0.0,3.0,23.0,ALL
+688,D,2012-02-23 15:50:22,2012-02-22,ALL,Laneve Mark R,Sr. EVP/CMO/Allstate Ins. Co.,F - Tax,$31.56,-2196,5504,-29%,"-$69,306",0.0,0.0,3.0,23.0,ALL
+689,D,2012-02-23 15:50:22,2012-02-22,ALL,Laneve Mark R,Sr. EVP/CMO/Allstate Ins. Co.,M - OptEx,$0.00,7103,5504,-444%,+$0,0.0,0.0,3.0,23.0,ALL
+690,D,2012-02-23 15:46:31,2012-02-22,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,F - Tax,$31.56,-2446,18773,-12%,"-$77,196",0.0,0.0,3.0,23.0,ALL
+691,D,2012-02-23 15:46:31,2012-02-22,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$0.00,7729,18773,+70%,+$0,0.0,0.0,3.0,23.0,ALL
+692,D,2012-02-23 15:44:35,2012-02-22,ALL,Mayes Michele Coleman,"EVP, GC",F - Tax,$31.56,-2362,15673,-13%,"-$74,545",0.0,0.0,3.0,23.0,ALL
+693,D,2012-02-23 15:44:35,2012-02-22,ALL,Mayes Michele Coleman,"EVP, GC",M - OptEx,$0.00,7873,15673,+101%,+$0,0.0,0.0,3.0,23.0,ALL
+694,,2011-12-05 11:15:31,2011-12-01,ALL,Taylor Mary Alice,Dir,A - Grant,$26.56,423,22348,+2%,"+$11,235",1.0,1.0,3.0,26.0,ALL
+695,A,2011-11-29 10:23:12,2011-11-12,ALL,Mayes Michele Coleman,"EVP, GC",F - Tax,$26.64,-1875,8784,-18%,"-$49,950",1.0,7.0,7.0,35.0,ALL
+696,D,2011-11-15 11:31:50,2011-11-12,ALL,Mayes Michele Coleman,"EVP, GC",F - Tax,$26.64,-1966,9823,-17%,"-$52,374",1.0,-4.0,0.0,28.0,ALL
+697,D,2011-11-15 11:31:50,2011-11-12,ALL,Mayes Michele Coleman,"EVP, GC",M - OptEx,$0.00,6250,9823,+175%,+$0,1.0,-4.0,0.0,28.0,ALL
+698,,2011-09-06 15:32:26,2011-09-01,ALL,Taylor Mary Alice,Dir,A - Grant,$25.91,434,21925,+2%,"+$11,245",-2.0,1.0,-5.0,26.0,ALL
+699,D,2011-07-19 14:11:39,2011-07-17,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,F - Tax,$29.47,-164,13241,-1%,"-$4,833",1.0,1.0,-8.0,6.0,ALL
+700,D,2011-07-19 14:11:39,2011-07-17,ALL,Greffin Judith P,EVP & CIO Allstate Ins. Co.,M - OptEx,$0.00,520,13241,+4%,+$0,1.0,1.0,-8.0,6.0,ALL
+701,D,2011-06-02 16:08:54,2011-06-01,ALL,Taylor Mary Alice,Dir,A - Grant,$30.44,369,21491,+2%,"+$11,232",-1.0,-4.0,-1.0,-16.0,ALL
+702,,2011-03-21 12:30:24,2011-03-11,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-3117,185967,-2%,-$0,0.0,1.0,0.0,-19.0,ALL
+703,,2011-03-03 09:12:36,2011-03-01,ALL,Taylor Mary Alice,Dir,A - Grant,$31.44,556,21122,+3%,"+$17,481",2.0,3.0,2.0,-15.0,ALL
+704,,2011-03-03 09:09:29,2011-03-01,ALL,Farrell W James,Dir,A - Grant,$31.44,135,10546,+1%,"+$4,244",2.0,3.0,2.0,-15.0,ALL
+705,D,2011-02-23 17:29:45,2011-02-20,ALL,Greffin Judith P,CIO Allstate Insurance Company,F - Tax,$32.11,-1161,12826,-8%,"-$37,280",-1.0,0.0,0.0,-21.0,ALL
+706,D,2011-02-23 17:29:45,2011-02-20,ALL,Greffin Judith P,CIO Allstate Insurance Company,M - OptEx,$0.00,3604,12826,+39%,+$0,-1.0,0.0,0.0,-21.0,ALL
+707,D,2011-02-23 17:12:17,2011-02-20,ALL,Walker Joan H,SVP Allstate Insurance Company,F - Tax,$32.11,-1290,11079,-10%,"-$41,422",-1.0,0.0,0.0,-21.0,ALL
+708,D,2011-02-23 17:12:17,2011-02-20,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$0.00,4300,11079,+63%,+$0,-1.0,0.0,0.0,-21.0,ALL
+709,D,2011-02-23 17:00:47,2011-02-20,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$32.11,-7041,193513,-4%,"-$226,087",-1.0,0.0,0.0,-21.0,ALL
+710,D,2011-02-23 17:00:47,2011-02-20,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$0.00,22385,193513,+13%,+$0,-1.0,0.0,0.0,-21.0,ALL
+711,D,2011-02-23 16:52:28,2011-02-20,ALL,Sorenson Steven P,SVP Allstate Insurance Company,F - Tax,$32.11,-716,17713,-4%,"-$22,991",-1.0,0.0,0.0,-21.0,ALL
+712,D,2011-02-23 16:52:28,2011-02-20,ALL,Sorenson Steven P,SVP Allstate Insurance Company,M - OptEx,$0.00,2078,17713,+13%,+$0,-1.0,0.0,0.0,-21.0,ALL
+713,D,2011-02-23 16:49:51,2011-02-20,ALL,Roche Michael John,SVP Allstate Insurance Company,F - Tax,$32.11,-1487,38678,-4%,"-$47,748",-1.0,0.0,0.0,-21.0,ALL
+714,D,2011-02-23 16:49:51,2011-02-20,ALL,Roche Michael John,SVP Allstate Insurance Company,M - OptEx,$0.00,4600,38678,+13%,+$0,-1.0,0.0,0.0,-21.0,ALL
+715,D,2011-02-23 16:47:26,2011-02-20,ALL,Pilch Samuel H,Controller,F - Tax,$32.11,-876,26266,-3%,"-$28,128",-1.0,0.0,0.0,-21.0,ALL
+716,D,2011-02-23 16:47:26,2011-02-20,ALL,Pilch Samuel H,Controller,M - OptEx,$0.00,2918,26266,+12%,+$0,-1.0,0.0,0.0,-21.0,ALL
+717,D,2011-02-23 16:45:23,2011-02-20,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$32.11,-1635,22443,-7%,"-$52,500",-1.0,0.0,0.0,-21.0,ALL
+718,D,2011-02-23 16:45:23,2011-02-20,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$0.00,5100,22443,+29%,+$0,-1.0,0.0,0.0,-21.0,ALL
+719,,2010-12-22 14:15:00,2010-12-21,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-1600,178003,-1%,-$0,0.0,0.0,-2.0,-5.0,ALL
+720,,2010-12-02 15:07:06,2010-12-01,ALL,Taylor Mary Alice,Dir,A - Grant,$29.95,584,20566,+3%,"+$17,491",1.0,2.0,6.0,5.0,ALL
+721,,2010-12-02 15:01:44,2010-12-01,ALL,Farrell W James,Dir,A - Grant,$29.95,141,10411,+1%,"+$4,223",1.0,2.0,6.0,5.0,ALL
+722,D,2010-11-24 10:40:35,2010-11-23,ALL,Mayes Michele Coleman,"SVP, GC",M - OptEx,$16.83,41136,5252,-115%,"+$692,319",1.0,2.0,9.0,7.0,ALL
+723,D,2010-11-24 10:40:35,2010-11-23,ALL,Mayes Michele Coleman,"SVP, GC",S - Sale+OE,$29.60,-41136,5252,-89%,"-$1,217,626",1.0,2.0,9.0,7.0,ALL
+724,D,2010-11-19 12:32:26,2010-11-18,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$16.83,36957,7910,-127%,"+$621,986",0.0,-2.0,4.0,7.0,ALL
+725,D,2010-11-19 12:32:26,2010-11-18,ALL,Walker Joan H,SVP Allstate Insurance Company,S - Sale+OE,$30.40,-36957,7910,-82%,"-$1,123,493",0.0,-2.0,4.0,7.0,ALL
+726,D,2010-09-09 16:19:42,2010-09-08,ALL,Civgin Don,"SVP, CFO",F - Tax,$28.70,-589,1845,-24%,"-$16,904",1.0,4.0,9.0,10.0,ALL
+727,D,2010-09-09 16:19:42,2010-09-08,ALL,Civgin Don,"SVP, CFO",M - OptEx,$0.00,2000,1845,-1294%,+$0,1.0,4.0,9.0,10.0,ALL
+728,,2010-09-02 14:58:36,2010-09-01,ALL,Farrell W James,Dir,A - Grant,$28.67,148,10270,+1%,"+$4,243",0.0,3.0,10.0,12.0,ALL
+729,,2010-09-02 14:56:53,2010-09-01,ALL,Taylor Mary Alice,Dir,A - Grant,$28.67,610,19982,+3%,"+$17,489",0.0,3.0,10.0,12.0,ALL
+730,D,2010-06-03 14:07:03,2010-06-01,ALL,Taylor Mary Alice,Dir,A - Grant,$29.66,590,19372,+3%,"+$17,499",0.0,-5.0,-6.0,-2.0,ALL
+731,D,2010-06-03 13:57:44,2010-06-01,ALL,Farrell W James,Dir,A - Grant,$29.66,143,10122,+1%,"+$4,241",0.0,-5.0,-6.0,-2.0,ALL
+732,D,2010-06-02 17:48:43,2010-05-28,ALL,Sprieser Judith A,Dir,M - OptEx,$27.44,3000,1244,-171%,"+$82,320",0.0,-3.0,-5.0,-1.0,ALL
+733,D,2010-06-02 17:48:43,2010-05-28,ALL,Sprieser Judith A,Dir,S - Sale+OE,$30.86,-3000,1244,-71%,"-$92,592",0.0,-3.0,-5.0,-1.0,ALL
+734,D,2010-06-01 13:01:55,2010-05-27,ALL,Riley H John Jr,Dir,M - OptEx,$27.44,3000,20375,+17%,"+$82,320",-3.0,-6.0,-5.0,-3.0,ALL
+735,D,2010-05-25 09:13:43,2010-05-21,ALL,Ackerman F Duane,Dir,M - OptEx,$27.44,3000,22296,+16%,"+$82,320",1.0,0.0,3.0,3.0,ALL
+736,D,2010-05-25 09:13:43,2010-05-21,ALL,Ackerman F Duane,Dir,S - Sale+OE,$30.31,-2725,22296,-11%,"-$82,597",1.0,0.0,3.0,3.0,ALL
+737,D,2010-05-13 09:25:47,2010-05-11,ALL,Lemay Ronald T,Dir,M - OptEx,$27.44,3000,6070,+98%,"+$82,320",-2.0,-5.0,-9.0,-7.0,ALL
+738,D,2010-05-13 09:25:47,2010-05-11,ALL,Lemay Ronald T,Dir,S - Sale+OE,$33.06,-2430,6070,-29%,"-$80,346",-2.0,-5.0,-9.0,-7.0,ALL
+739,D,2010-05-12 15:53:29,2010-05-11,ALL,Taylor Mary Alice,Dir,M - OptEx,$27.44,3000,18782,+19%,"+$82,320",1.0,-4.0,-8.0,-4.0,ALL
+740,D,2010-05-12 15:53:29,2010-05-11,ALL,Taylor Mary Alice,Dir,S - Sale+OE,$33.04,-2498,18782,-12%,"-$82,544",1.0,-4.0,-8.0,-4.0,ALL
+741,,2010-04-30 10:31:31,2010-04-28,ALL,Sorenson Steven P,SVP Allstate Insurance Company,S - Sale,$33.57,-1,16161,0%,-$34,-2.0,-4.0,-7.0,-1.0,ALL
+742,D,2010-04-16 14:34:16,2010-04-14,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$16.83,35937,18736,-209%,"+$604,820",-1.0,3.0,-7.0,-3.0,ALL
+743,D,2010-04-16 14:34:16,2010-04-14,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$33.76,-44386,18736,-70%,"-$1,498,343",-1.0,3.0,-7.0,-3.0,ALL
+744,D,2010-03-26 17:24:25,2010-03-24,ALL,Devries James David,SVP Allstate Insurance Company,F - Tax,$31.33,-1841,4881,-27%,"-$57,679",0.0,1.0,8.0,-4.0,ALL
+745,D,2010-03-26 17:24:25,2010-03-24,ALL,Devries James David,SVP Allstate Insurance Company,M - OptEx,$0.00,6250,4881,-457%,+$0,0.0,1.0,8.0,-4.0,ALL
+746,,2010-03-10 11:31:07,2010-03-08,ALL,Greenberg Jack M,Dir,P - Purchase,$32.05,2500,2500,New,"+$80,120",0.0,-2.0,5.0,-8.0,ALL
+747,D,2010-03-05 16:12:09,2010-03-03,ALL,Cripe Frederick F,SVP Allstate Insurance Company,M - OptEx,$16.83,32384,25008,-439%,"+$545,023",0.0,0.0,2.0,-9.0,ALL
+748,D,2010-03-05 16:12:09,2010-03-03,ALL,Cripe Frederick F,SVP Allstate Insurance Company,S - Sale+OE,$32.15,-32384,25008,-56%,"-$1,041,178",0.0,0.0,2.0,-9.0,ALL
+749,D,2010-02-24 18:49:15,2010-02-22,ALL,Greffin Judith P,CIO Allstate Insurance Company,F - Tax,$31.22,-1149,8978,-11%,"-$35,872",0.0,2.0,1.0,-10.0,ALL
+750,D,2010-02-24 18:49:15,2010-02-22,ALL,Greffin Judith P,CIO Allstate Insurance Company,M - OptEx,$0.00,3722,8978,+71%,+$0,0.0,2.0,1.0,-10.0,ALL
+751,D,2010-02-24 16:40:33,2010-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$31.22,-6907,179462,-4%,"-$215,637",0.0,2.0,1.0,-10.0,ALL
+752,D,2010-02-24 16:40:33,2010-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$0.00,23450,179462,+15%,+$0,0.0,2.0,1.0,-10.0,ALL
+753,D,2010-02-24 16:37:51,2010-02-22,ALL,Walker Joan H,SVP Allstate Insurance Company,F - Tax,$31.22,-1247,12345,-9%,"-$38,931",0.0,2.0,1.0,-10.0,ALL
+754,D,2010-02-24 16:37:51,2010-02-22,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$0.00,4450,12345,+56%,+$0,0.0,2.0,1.0,-10.0,ALL
+755,D,2010-02-24 16:35:59,2010-02-22,ALL,Sorenson Steven P,SVP Allstate Insurance Company,F - Tax,$31.22,-965,16152,-6%,"-$30,127",0.0,2.0,1.0,-10.0,ALL
+756,D,2010-02-24 16:35:59,2010-02-22,ALL,Sorenson Steven P,SVP Allstate Insurance Company,M - OptEx,$0.00,2951,16152,+22%,+$0,0.0,2.0,1.0,-10.0,ALL
+757,D,2010-02-24 16:34:11,2010-02-22,ALL,Roche Michael John,SVP Allstate Insurance Company,F - Tax,$31.22,-2059,33556,-6%,"-$64,282",0.0,2.0,1.0,-10.0,ALL
+758,D,2010-02-24 16:34:11,2010-02-22,ALL,Roche Michael John,SVP Allstate Insurance Company,M - OptEx,$0.00,6775,33556,+25%,+$0,0.0,2.0,1.0,-10.0,ALL
+759,D,2010-02-24 16:27:15,2010-02-22,ALL,Richardson Joseph J,SVP - Protection Distribution,F - Tax,$31.22,-990,3733,-21%,"-$30,908",0.0,2.0,1.0,-10.0,ALL
+760,D,2010-02-24 16:27:15,2010-02-22,ALL,Richardson Joseph J,SVP - Protection Distribution,M - OptEx,$0.00,3051,3733,+447%,+$0,0.0,2.0,1.0,-10.0,ALL
+761,D,2010-02-24 16:25:25,2010-02-22,ALL,Pilch Samuel H,"V. P., CFO, Controller",F - Tax,$31.22,-1123,24004,-4%,"-$35,060",0.0,2.0,1.0,-10.0,ALL
+762,D,2010-02-24 16:25:25,2010-02-22,ALL,Pilch Samuel H,"V. P., CFO, Controller",M - OptEx,$0.00,4009,24004,+20%,+$0,0.0,2.0,1.0,-10.0,ALL
+763,D,2010-02-24 16:12:57,2010-02-22,ALL,Cripe Frederick F,SVP Allstate Insurance Company,F - Tax,$31.22,-932,25008,-4%,"-$29,097",0.0,2.0,1.0,-10.0,ALL
+764,D,2010-02-24 16:12:57,2010-02-22,ALL,Cripe Frederick F,SVP Allstate Insurance Company,M - OptEx,$0.00,2910,25008,+13%,+$0,0.0,2.0,1.0,-10.0,ALL
+765,D,2010-02-24 16:07:45,2010-02-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$31.22,-2189,26840,-8%,"-$68,341",0.0,2.0,1.0,-10.0,ALL
+766,D,2010-02-24 16:07:45,2010-02-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$0.00,7275,26840,+37%,+$0,0.0,2.0,1.0,-10.0,ALL
+767,,2009-12-21 16:20:38,2009-12-17,ALL,Wilson Thomas J,"COB, Pres, CEO",G - Gift,$0.00,-1745,158685,-1%,-$0,1.0,3.0,5.0,5.0,ALL
+768,D,2009-12-01 14:37:41,2009-11-28,ALL,Walker Joan H,SVP Allstate Insurance Company,F - Tax,$28.27,-1473,4362,-25%,"-$41,642",0.0,0.0,7.0,8.0,ALL
+769,D,2009-12-01 14:37:41,2009-11-28,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$0.00,5000,4362,-783%,+$0,0.0,0.0,7.0,8.0,ALL
+770,D,2009-11-16 12:59:42,2009-11-12,ALL,Mayes Michele Coleman,"SVP, GC",F - Tax,$28.86,-1841,4803,-28%,"-$53,131",2.0,1.0,-1.0,10.0,ALL
+771,D,2009-11-16 12:59:42,2009-11-12,ALL,Mayes Michele Coleman,"SVP, GC",M - OptEx,$0.00,6250,4803,-432%,+$0,2.0,1.0,-1.0,10.0,ALL
+772,D,2009-10-05 15:25:10,2009-10-01,ALL,Ackerman F Duane,Dir,M - OptEx,$28.91,1500,22021,+7%,"+$43,365",1.0,4.0,-4.0,7.0,ALL
+773,D,2009-10-05 15:25:10,2009-10-01,ALL,Ackerman F Duane,Dir,S - Sale+OE,$30.83,-1410,22021,-6%,"-$43,473",1.0,4.0,-4.0,7.0,ALL
+774,,2009-10-05 15:22:34,2009-10-01,ALL,Walker Joan H,SVP Allstate Insurance Company,S - Sale,$30.81,-5000,835,-86%,"-$154,025",1.0,4.0,-4.0,7.0,ALL
+775,D,2009-06-03 19:05:25,2009-06-01,ALL,Farrell W James,Dir,A - Grant,$26.14,650,9979,+7%,"+$16,991",0.0,-1.0,-2.0,12.0,ALL
+776,D,2009-06-03 18:48:58,2009-06-01,ALL,Beyer Robert D,Dir,A - Grant,$26.14,2677,49566,+6%,"+$69,977",0.0,-1.0,-2.0,12.0,ALL
+777,D,2009-06-03 18:40:31,2009-06-01,ALL,Taylor Mary Alice,Dir,A - Grant,$26.14,2677,18280,+17%,"+$69,977",0.0,-1.0,-2.0,12.0,ALL
+778,D,2009-06-03 17:18:17,2009-06-01,ALL,Roche Michael John,SVP Allstate Insurance Company,M - OptEx,$26.14,1500,26689,+6%,"+$39,210",0.0,-1.0,-2.0,12.0,ALL
+779,D,2009-06-03 16:43:28,2009-06-01,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$26.14,-9863,164253,-6%,"-$257,819",0.0,-1.0,-2.0,12.0,ALL
+780,D,2009-06-03 16:43:28,2009-06-01,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$0.00,25000,164253,+18%,+$0,0.0,-1.0,-2.0,12.0,ALL
+781,D,2009-02-24 16:03:15,2009-02-22,ALL,Greffin Judith P,CIO Allstate Insurance Company,F - Tax,$18.44,-257,7136,-3%,"-$4,739",-6.0,-14.0,9.0,62.0,ALL
+782,D,2009-02-24 16:03:15,2009-02-22,ALL,Greffin Judith P,CIO Allstate Insurance Company,M - OptEx,$0.00,720,7136,+11%,+$0,-6.0,-14.0,9.0,62.0,ALL
+783,D,2009-02-24 15:57:56,2009-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$18.44,-6352,149062,-4%,"-$117,131",3.0,-4.0,19.0,72.0,ALL
+784,D,2009-02-24 15:57:56,2009-02-22,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$0.00,21568,149062,+17%,+$0,3.0,-4.0,19.0,72.0,ALL
+785,D,2009-02-24 15:56:06,2009-02-22,ALL,Walker Joan H,SVP Allstate Insurance Company,F - Tax,$18.44,-268,5828,-4%,"-$4,942",3.0,-4.0,19.0,72.0,ALL
+786,D,2009-02-24 15:56:06,2009-02-22,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$0.00,750,5828,+15%,+$0,3.0,-4.0,19.0,72.0,ALL
+787,D,2009-02-24 15:54:54,2009-02-22,ALL,Sorenson Steven P,SVP Allstate Insurance Company,F - Tax,$18.44,-1065,13808,-7%,"-$19,639",3.0,-4.0,19.0,72.0,ALL
+788,D,2009-02-24 15:54:54,2009-02-22,ALL,Sorenson Steven P,SVP Allstate Insurance Company,M - OptEx,$0.00,3070,13808,+29%,+$0,3.0,-4.0,19.0,72.0,ALL
+789,D,2009-02-24 15:53:39,2009-02-22,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$18.44,-1930,23971,-7%,"-$35,589",3.0,-4.0,19.0,72.0,ALL
+790,D,2009-02-24 15:53:39,2009-02-22,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$0.00,6549,23971,+38%,+$0,3.0,-4.0,19.0,72.0,ALL
+791,D,2009-02-24 15:49:44,2009-02-22,ALL,Roche Michael John,SVP Allstate Insurance Company,M - OptEx,$0.00,5085,24637,+26%,+$0,3.0,-4.0,19.0,72.0,ALL
+792,D,2009-02-24 15:47:01,2009-02-22,ALL,Pilch Samuel H,"V. P., CFO, Controller",F - Tax,$18.44,-1514,20744,-7%,"-$27,918",3.0,-4.0,19.0,72.0,ALL
+793,D,2009-02-24 15:47:01,2009-02-22,ALL,Pilch Samuel H,"V. P., CFO, Controller",M - OptEx,$0.00,4710,20744,+29%,+$0,3.0,-4.0,19.0,72.0,ALL
+794,D,2009-02-24 15:42:53,2009-02-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$18.44,-2104,21521,-9%,"-$38,798",3.0,-4.0,19.0,72.0,ALL
+795,D,2009-02-24 15:42:53,2009-02-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$0.00,6883,21521,+47%,+$0,3.0,-4.0,19.0,72.0,ALL
+796,D,2009-02-24 15:41:28,2009-02-22,ALL,Cripe Frederick F,SVP Allstate Insurance Company,F - Tax,$18.44,-1261,22630,-5%,"-$23,253",3.0,-4.0,19.0,72.0,ALL
+797,D,2009-02-24 15:41:28,2009-01-07,ALL,Cripe Frederick F,SVP Allstate Insurance Company,G - Gift,$0.00,-3600,22630,+19%,-$0,3.0,-4.0,19.0,72.0,ALL
+798,D,2009-02-24 15:41:28,2009-02-22,ALL,Cripe Frederick F,SVP Allstate Insurance Company,M - OptEx,$0.00,3803,22630,+20%,+$0,3.0,-4.0,19.0,72.0,ALL
+799,D,2009-02-24 15:39:11,2009-02-22,ALL,Richardson Joseph J,SVP - Protection Distribution,F - Tax,$18.44,-862,1731,-33%,"-$15,895",3.0,-4.0,19.0,72.0,ALL
+800,D,2009-02-24 15:39:11,2009-02-22,ALL,Richardson Joseph J,SVP - Protection Distribution,M - OptEx,$0.00,2416,1731,-353%,+$0,3.0,-4.0,19.0,72.0,ALL
+801,D,2009-01-06 13:41:38,2009-01-02,ALL,Hohmann James E,Pres. & CEO Allstate Financial,F - Tax,$33.26,-3804,8696,-30%,"-$126,521",-8.0,-8.0,-34.0,-25.0,ALL
+802,D,2009-01-06 13:41:38,2009-01-02,ALL,Hohmann James E,Pres. & CEO Allstate Financial,M - OptEx,$0.00,12500,8696,-329%,+$0,-8.0,-8.0,-34.0,-25.0,ALL
+803,,2008-08-06 16:08:40,2008-08-04,ALL,Sprieser Judith A,Dir,S - Sale,$45.99,-7621,1244,-86%,"-$350,490",-2.0,-2.0,-4.0,-52.0,ALL
+804,D,2008-08-04 15:08:39,2008-07-31,ALL,Wilson Thomas J,"COB, Pres, CEO",F - Tax,$46.22,-51224,133547,-28%,"-$2,367,573",0.0,2.0,-1.0,-53.0,ALL
+805,D,2008-08-04 15:08:39,2008-07-31,ALL,Wilson Thomas J,"COB, Pres, CEO",M - OptEx,$42.50,53850,133547,+68%,"+$2,288,625",0.0,2.0,-1.0,-53.0,ALL
+806,D,2008-06-03 15:47:46,2008-06-01,ALL,Beyer Robert D,Dir,A - Grant,$50.94,785,46889,+2%,"+$39,988",-1.0,-2.0,-9.0,-49.0,ALL
+807,D,2008-06-03 10:00:02,2008-06-01,ALL,Taylor Mary Alice,Dir,A - Grant,$50.94,785,11603,+7%,"+$39,988",-1.0,-2.0,-9.0,-49.0,ALL
+808,D,2008-06-03 09:38:32,2008-06-01,ALL,Farrell W James,Dir,A - Grant,$50.94,215,4329,+5%,"+$10,952",-1.0,-2.0,-9.0,-49.0,ALL
+809,D,2008-06-02 16:57:36,2008-05-29,ALL,Smith Joshua I,Dir,M - OptEx,$47.30,3000,0,-100%,"+$141,900",-1.0,-2.0,-11.0,-52.0,ALL
+810,D,2008-06-02 16:57:36,2008-05-29,ALL,Smith Joshua I,Dir,S - Sale+OE,$50.97,-3000,0,-100%,"-$152,910",-1.0,-2.0,-11.0,-52.0,ALL
+811,,2008-04-21 15:42:04,2008-04-17,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale,$50.00,-10000,16201,-38%,"-$500,000",-1.0,0.0,0.0,-41.0,ALL
+812,D,2008-02-26 11:31:02,2008-02-22,ALL,Simonson Eric A,Chief Investment Officer,F - Tax,$46.85,-809,43130,-2%,"-$37,902",1.0,-1.0,0.0,-3.0,ALL
+813,D,2008-02-26 11:31:02,2008-02-22,ALL,Simonson Eric A,Chief Investment Officer,M - OptEx,$0.00,2750,43130,+7%,+$0,1.0,-1.0,0.0,-3.0,ALL
+814,D,2008-02-26 11:27:11,2008-02-22,ALL,Wilson Thomas J,"Pres, CEO",F - Tax,$46.85,-1398,130824,-1%,"-$65,496",1.0,-1.0,0.0,-3.0,ALL
+815,D,2008-02-26 11:27:11,2008-02-22,ALL,Wilson Thomas J,"Pres, CEO",M - OptEx,$0.00,4750,130824,+4%,+$0,1.0,-1.0,0.0,-3.0,ALL
+816,D,2008-02-26 11:24:01,2008-02-22,ALL,Liddy Edward M,COB,F - Tax,$46.85,-4684,424018,-1%,"-$219,445",1.0,-1.0,0.0,-3.0,ALL
+817,D,2008-02-26 11:24:01,2008-02-22,ALL,Liddy Edward M,COB,M - OptEx,$0.00,11875,424018,+3%,+$0,1.0,-1.0,0.0,-3.0,ALL
+818,D,2008-02-26 11:20:34,2008-02-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$46.85,-552,26105,-2%,"-$25,861",1.0,-1.0,0.0,-3.0,ALL
+819,D,2008-02-26 11:20:34,2008-02-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$0.00,1875,26105,+8%,+$0,1.0,-1.0,0.0,-3.0,ALL
+820,D,2008-02-25 16:47:00,2008-02-22,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$0.00,1875,52439,+4%,+$0,1.0,-1.0,1.0,-5.0,ALL
+821,D,2008-02-25 16:43:33,2008-02-22,ALL,Walker Joan H,SVP Allstate Insurance Company,F - Tax,$46.85,-263,5154,-5%,"-$12,322",1.0,-1.0,1.0,-5.0,ALL
+822,D,2008-02-25 16:43:33,2008-02-22,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$0.00,750,5154,+17%,+$0,1.0,-1.0,1.0,-5.0,ALL
+823,D,2008-02-25 16:39:35,2008-02-22,ALL,Pilch Samuel H,Controller,F - Tax,$46.85,-294,17281,-2%,"-$13,774",1.0,-1.0,1.0,-5.0,ALL
+824,D,2008-02-25 16:39:35,2008-02-22,ALL,Pilch Samuel H,Controller,M - OptEx,$0.00,1000,17281,+6%,+$0,1.0,-1.0,1.0,-5.0,ALL
+825,D,2008-02-25 16:35:43,2008-02-22,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$46.85,-552,15919,-3%,"-$25,861",1.0,-1.0,1.0,-5.0,ALL
+826,D,2008-02-25 16:35:43,2008-02-22,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$0.00,1875,15919,+13%,+$0,1.0,-1.0,1.0,-5.0,ALL
+827,D,2008-02-25 16:32:27,2008-02-22,ALL,Roche Michael John,SVP Allstate Insurance Company,F - Tax,$46.85,-552,18517,-3%,"-$25,861",1.0,-1.0,1.0,-5.0,ALL
+828,D,2008-02-25 16:32:27,2008-02-22,ALL,Roche Michael John,SVP Allstate Insurance Company,M - OptEx,$0.00,1875,18517,+11%,+$0,1.0,-1.0,1.0,-5.0,ALL
+829,D,2008-02-25 16:27:58,2008-02-22,ALL,Cripe Frederick F,SVP Allstate Insurance Company,F - Tax,$46.85,-176,19766,-1%,"-$8,246",1.0,-1.0,1.0,-5.0,ALL
+830,D,2008-02-25 16:27:58,2008-01-17,ALL,Cripe Frederick F,SVP Allstate Insurance Company,G - Gift,$0.00,-14444,19766,+271%,-$0,1.0,-1.0,1.0,-5.0,ALL
+831,D,2008-02-25 16:27:58,2008-02-22,ALL,Cripe Frederick F,SVP Allstate Insurance Company,M - OptEx,$0.00,600,19766,+3%,+$0,1.0,-1.0,1.0,-5.0,ALL
+832,D,2008-02-25 16:22:09,2008-02-22,ALL,Sorenson Steven P,SVP Allstate Insurance Company,F - Tax,$46.85,-176,11570,-1%,"-$8,246",1.0,-1.0,1.0,-5.0,ALL
+833,D,2008-02-25 16:22:09,2008-02-22,ALL,Sorenson Steven P,SVP Allstate Insurance Company,M - OptEx,$0.00,600,11570,+5%,+$0,1.0,-1.0,1.0,-5.0,ALL
+834,D,2008-02-25 16:18:20,2008-02-22,ALL,Hale Danny L,"VP, CFO",F - Tax,$46.85,-809,43446,-2%,"-$37,902",1.0,-1.0,1.0,-5.0,ALL
+835,D,2008-02-25 16:18:20,2008-02-22,ALL,Hale Danny L,"VP, CFO",M - OptEx,$0.00,2750,43446,+7%,+$0,1.0,-1.0,1.0,-5.0,ALL
+836,,2008-02-19 15:32:17,2008-02-15,ALL,Simonson Eric A,Chief Investment Officer,F - Tax,$46.58,-2797,41189,-6%,"-$130,284",1.0,4.0,5.0,2.0,ALL
+837,,2008-02-19 15:28:23,2008-02-15,ALL,Liddy Edward M,COB,F - Tax,$46.58,-13817,416827,-3%,"-$643,596",1.0,4.0,5.0,2.0,ALL
+838,,2008-02-19 15:19:48,2008-02-15,ALL,Sorenson Steven P,SVP Allstate Insurance Company,F - Tax,$46.58,-850,11146,-7%,"-$39,593",1.0,4.0,5.0,2.0,ALL
+839,,2008-02-19 15:13:29,2008-02-15,ALL,Roche Michael John,SVP Allstate Insurance Company,F - Tax,$46.58,-1216,17194,-7%,"-$56,641",1.0,4.0,5.0,2.0,ALL
+840,,2008-02-19 15:05:30,2008-02-15,ALL,Pilch Samuel H,Controller,F - Tax,$46.58,-966,16575,-6%,"-$44,996",1.0,4.0,5.0,2.0,ALL
+841,,2008-02-19 14:50:03,2008-02-15,ALL,Hale Danny L,"VP, CFO",F - Tax,$46.58,-3062,41505,-7%,"-$142,628",1.0,4.0,5.0,2.0,ALL
+842,,2008-02-19 14:42:58,2008-02-15,ALL,Cripe Frederick F,SVP Allstate Insurance Company,F - Tax,$46.58,-955,19342,-5%,"-$44,484",1.0,4.0,5.0,2.0,ALL
+843,,2008-02-19 14:38:59,2008-02-15,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$46.58,-1650,24782,-6%,"-$76,857",1.0,4.0,5.0,2.0,ALL
+844,,2008-02-19 10:46:32,2008-02-15,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$46.58,-1619,14596,-10%,"-$75,413",1.0,4.0,5.0,2.0,ALL
+845,,2008-02-19 10:41:01,2008-02-15,ALL,Wilson Thomas J,"Pres, CEO",F - Tax,$46.58,-4211,127472,-3%,"-$196,148",1.0,4.0,5.0,2.0,ALL
+846,D,2007-11-30 14:39:23,2007-11-28,ALL,Walker Joan H,SVP Allstate Insurance Company,F - Tax,$51.80,-1472,4450,-25%,"-$76,250",0.0,3.0,2.0,1.0,ALL
+847,D,2007-11-30 14:39:23,2007-11-28,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$0.00,5000,4450,-910%,+$0,0.0,3.0,2.0,1.0,ALL
+848,,2007-11-23 16:19:40,2007-11-21,ALL,Beyer Robert D,Dir,P - Purchase,$49.69,10000,46104,+28%,"+$496,947",-1.0,3.0,4.0,1.0,ALL
+849,,2007-08-08 16:03:53,2007-08-06,ALL,Beyer Robert D,Dir,P - Purchase,$53.57,10000,36104,+38%,"+$535,698",-5.0,-3.0,2.0,-12.0,ALL
+850,D,2007-06-13 15:36:06,2007-06-11,ALL,Tripodi Joseph V,SVP Allstate Insurance Company,F - Tax,$61.13,-5610,8724,-39%,"-$342,939",1.0,3.0,1.0,-9.0,ALL
+851,D,2007-06-13 15:36:06,2007-06-11,ALL,Tripodi Joseph V,SVP Allstate Insurance Company,M - OptEx,$40.60,20000,8724,-177%,"+$812,000",1.0,3.0,1.0,-9.0,ALL
+852,D,2007-06-13 15:36:06,2007-06-11,ALL,Tripodi Joseph V,SVP Allstate Insurance Company,S - Sale+OE,$60.90,-14389,8724,-62%,"-$876,256",1.0,3.0,1.0,-9.0,ALL
+853,D,2007-06-05 17:15:31,2007-06-01,ALL,Taylor Mary Alice,Dir,A - Grant,$61.58,649,10818,+6%,"+$39,965",0.0,0.0,1.0,-15.0,ALL
+854,D,2007-06-05 15:41:28,2007-06-01,ALL,Farrell W James,Dir,A - Grant,$61.58,178,4114,+5%,"+$10,961",-1.0,-1.0,1.0,-16.0,ALL
+855,D,2007-06-05 15:36:24,2007-06-01,ALL,Beyer Robert D,Dir,A - Grant,$61.58,649,26104,+3%,"+$39,965",-1.0,-1.0,1.0,-16.0,ALL
+856,D,2007-05-31 16:23:22,2007-05-29,ALL,Andress James G,Dir,M - OptEx,$36.22,3000,3671,+447%,"+$108,660",0.0,0.0,0.0,-17.0,ALL
+857,D,2007-05-31 16:23:22,2007-05-29,ALL,Andress James G,Dir,S - Sale+OE,$61.47,-3000,3671,-45%,"-$184,402",0.0,0.0,0.0,-17.0,ALL
+858,D,2007-05-02 14:47:28,2007-04-30,ALL,Wilson Thomas J,"Pres, CEO",F - Tax,$62.32,-78996,131075,-38%,"-$4,923,031",1.0,1.0,-1.0,-16.0,ALL
+859,D,2007-05-02 14:47:28,2007-04-30,ALL,Wilson Thomas J,"Pres, CEO",M - OptEx,$34.55,108184,131075,+473%,"+$3,738,107",1.0,1.0,-1.0,-16.0,ALL
+860,D,2007-04-27 14:04:30,2007-04-25,ALL,Pilch Samuel H,Controller,M - OptEx,$38.82,10658,17281,+161%,"+$413,723",-1.0,0.0,-3.0,-15.0,ALL
+861,D,2007-04-27 14:04:30,2007-04-25,ALL,Pilch Samuel H,Controller,S - Sale+OE,$63.00,-10658,17281,-38%,"-$671,454",-1.0,0.0,-3.0,-15.0,ALL
+862,D,2007-04-25 10:27:10,2007-04-23,ALL,Liddy Edward M,COB,F - Tax,$62.13,-395895,430350,-48%,"-$24,596,956",2.0,0.0,0.0,-11.0,ALL
+863,D,2007-04-25 10:27:10,2007-04-23,ALL,Liddy Edward M,COB,M - OptEx,$33.38,550000,430350,-460%,"+$18,359,000",2.0,0.0,0.0,-11.0,ALL
+864,D,2007-04-25 10:27:10,2007-04-23,ALL,Liddy Edward M,COB,S - Sale+OE,$62.15,-154090,430350,-26%,"-$9,576,986",2.0,0.0,0.0,-11.0,ALL
+865,D,2007-04-24 14:02:05,2007-04-20,ALL,McCabe Michael J,"VP, GC",F - Tax,$62.49,-7902,48542,-14%,"-$493,796",0.0,0.0,0.0,-11.0,ALL
+866,D,2007-04-24 14:02:05,2007-04-20,ALL,McCabe Michael J,"VP, GC",M - OptEx,$31.78,11250,48542,+30%,"+$357,525",0.0,0.0,0.0,-11.0,ALL
+867,D,2007-04-24 14:02:05,2007-04-23,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$62.34,-3348,48542,-6%,"-$208,715",0.0,0.0,0.0,-11.0,ALL
+868,D,2007-04-23 15:27:15,2007-04-13,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$61.33,-3224,15432,-17%,"-$197,728",-1.0,0.0,0.0,-10.0,ALL
+869,D,2007-04-23 15:27:15,2007-04-13,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$31.78,4553,15432,+42%,"+$144,694",-1.0,0.0,0.0,-10.0,ALL
+870,D,2007-04-23 15:27:15,2007-04-13,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$61.78,-1339,15432,-8%,"-$82,723",-1.0,0.0,0.0,-10.0,ALL
+871,,2007-03-07 16:49:45,2007-03-05,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale,$59.25,-1323,25897,-5%,"-$78,388",1.0,0.0,2.0,-5.0,ALL
+872,A,2007-03-07 16:20:30,2007-02-23,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale,$61.62,-7039,27221,-21%,"-$433,743",1.0,0.0,2.0,-5.0,ALL
+873,D,2007-02-26 17:00:31,2007-02-22,ALL,Walker Joan H,SVP Allstate Insurance Company,M - OptEx,$0.00,750,750,New,+$0,-2.0,-3.0,0.0,-8.0,ALL
+874,D,2007-02-26 16:57:08,2007-02-22,ALL,Crockett Joan M,SVP Allstate Insurance Company,F - Tax,$61.83,-739,50137,-1%,"-$45,692",-2.0,-3.0,0.0,-8.0,ALL
+875,D,2007-02-26 16:57:08,2007-02-22,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$0.00,1875,50137,+4%,+$0,-2.0,-3.0,0.0,-8.0,ALL
+876,D,2007-02-26 16:23:54,2007-02-22,ALL,McNeil Ronald D,SVP Allstate Insurance Company,F - Tax,$61.83,-552,42749,-1%,"-$34,130",-2.0,-3.0,0.0,-8.0,ALL
+877,D,2007-02-26 16:23:54,2007-02-22,ALL,McNeil Ronald D,SVP Allstate Insurance Company,M - OptEx,$0.00,1875,42749,+5%,+$0,-2.0,-3.0,0.0,-8.0,ALL
+878,D,2007-02-26 16:23:54,2007-02-23,ALL,McNeil Ronald D,SVP Allstate Insurance Company,S - Sale+OE,$61.62,-8459,42749,-17%,"-$521,244",-2.0,-3.0,0.0,-8.0,ALL
+879,,2007-02-26 16:07:32,2007-02-22,ALL,Greenberg Jack M,Dir,S - Sale,$62.18,-3500,0,-100%,"-$217,636",-2.0,-3.0,0.0,-8.0,ALL
+880,D,2007-02-26 15:50:12,2007-02-22,ALL,Wilson Thomas J,"Pres, CEO",F - Tax,$61.83,-1873,101766,-2%,"-$115,808",0.0,-3.0,0.0,-7.0,ALL
+881,D,2007-02-26 15:50:12,2007-02-22,ALL,Wilson Thomas J,"Pres, CEO",M - OptEx,$0.00,4750,101766,+5%,+$0,0.0,-3.0,0.0,-7.0,ALL
+882,D,2007-02-26 15:46:09,2007-02-22,ALL,Tripodi Joseph V,SVP Allstate Insurance Company,F - Tax,$61.83,-552,8547,-6%,"-$34,130",0.0,-3.0,0.0,-7.0,ALL
+883,D,2007-02-26 15:46:09,2007-02-22,ALL,Tripodi Joseph V,SVP Allstate Insurance Company,M - OptEx,$0.00,1875,8547,+28%,+$0,0.0,-3.0,0.0,-7.0,ALL
+884,D,2007-02-26 15:42:35,2007-02-22,ALL,Simonson Eric A,Chief Investment Officer,F - Tax,$61.83,-1084,43697,-2%,"-$67,024",0.0,-3.0,0.0,-7.0,ALL
+885,D,2007-02-26 15:42:35,2007-02-22,ALL,Simonson Eric A,Chief Investment Officer,M - OptEx,$0.00,2750,43697,+7%,+$0,0.0,-3.0,0.0,-7.0,ALL
+886,D,2007-02-26 15:37:08,2007-02-22,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$61.83,-552,15442,-3%,"-$34,130",0.0,-3.0,0.0,-7.0,ALL
+887,D,2007-02-26 15:37:08,2007-02-22,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$0.00,1875,15442,+14%,+$0,0.0,-3.0,0.0,-7.0,ALL
+888,D,2007-02-26 15:37:08,2007-02-23,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$61.62,-3345,15442,-18%,"-$206,119",0.0,-3.0,0.0,-7.0,ALL
+889,D,2007-02-26 15:30:12,2007-02-22,ALL,Roche Michael John,SVP Allstate Insurance Company,F - Tax,$61.83,-552,17763,-3%,"-$34,130",0.0,-3.0,0.0,-7.0,ALL
+890,D,2007-02-26 15:30:12,2007-02-22,ALL,Roche Michael John,SVP Allstate Insurance Company,M - OptEx,$0.00,1875,17763,+12%,+$0,0.0,-3.0,0.0,-7.0,ALL
+891,D,2007-02-26 15:26:39,2007-02-22,ALL,Pilch Samuel H,Controller,F - Tax,$61.83,-294,17268,-2%,"-$18,178",0.0,-3.0,0.0,-7.0,ALL
+892,D,2007-02-26 15:26:39,2007-02-22,ALL,Pilch Samuel H,Controller,M - OptEx,$0.00,1000,17268,+6%,+$0,0.0,-3.0,0.0,-7.0,ALL
+893,D,2007-02-26 15:22:17,2007-02-22,ALL,Hale Danny L,"VP, CFO",F - Tax,$61.83,-1084,44170,-2%,"-$67,024",0.0,-3.0,0.0,-7.0,ALL
+894,D,2007-02-26 15:22:17,2007-02-22,ALL,Hale Danny L,"VP, CFO",M - OptEx,$0.00,2750,44170,+7%,+$0,0.0,-3.0,0.0,-7.0,ALL
+895,D,2007-02-26 15:18:09,2007-02-22,ALL,Cripe Frederick F,SVP Allstate Insurance Company,F - Tax,$61.83,-176,19984,-1%,"-$10,882",0.0,-3.0,0.0,-7.0,ALL
+896,D,2007-02-26 15:18:09,2007-02-22,ALL,Cripe Frederick F,SVP Allstate Insurance Company,M - OptEx,$0.00,600,19984,+3%,+$0,0.0,-3.0,0.0,-7.0,ALL
+897,D,2007-02-26 15:11:35,2007-02-22,ALL,Sylla Casey,President Allstate Financial,F - Tax,$61.83,-1084,79474,-1%,"-$67,024",0.0,-3.0,0.0,-7.0,ALL
+898,D,2007-02-26 15:11:35,2007-02-22,ALL,Sylla Casey,President Allstate Financial,M - OptEx,$0.00,2750,79474,+4%,+$0,0.0,-3.0,0.0,-7.0,ALL
+899,D,2007-02-26 15:06:00,2007-02-22,ALL,McCabe Michael J,"VP, GC",F - Tax,$61.83,-552,48525,-1%,"-$34,130",0.0,-3.0,0.0,-7.0,ALL
+900,D,2007-02-26 15:06:00,2007-02-22,ALL,McCabe Michael J,"VP, GC",M - OptEx,$0.00,1875,48525,+4%,+$0,0.0,-3.0,0.0,-7.0,ALL
+901,D,2007-02-26 15:01:02,2007-02-22,ALL,Liddy Edward M,COB,F - Tax,$61.83,-4684,430312,-1%,"-$289,612",0.0,-3.0,0.0,-7.0,ALL
+902,D,2007-02-26 15:01:02,2007-02-22,ALL,Liddy Edward M,COB,M - OptEx,$0.00,11875,430312,+3%,+$0,0.0,-3.0,0.0,-7.0,ALL
+903,D,2007-02-26 14:47:51,2007-02-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$61.83,-552,17598,-3%,"-$34,130",0.0,-3.0,0.0,-7.0,ALL
+904,D,2007-02-26 14:47:51,2007-02-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$0.00,1875,17598,+12%,+$0,0.0,-3.0,0.0,-7.0,ALL
+905,D,2007-02-26 14:47:51,2007-02-23,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$61.62,-7039,17598,-29%,"-$433,743",0.0,-3.0,0.0,-7.0,ALL
+906,,2007-02-20 15:49:45,2007-02-15,ALL,Hale Danny L,"VP, CFO",F - Tax,$61.71,-7534,42504,-15%,"-$464,923",0.0,-1.0,-2.0,-8.0,ALL
+907,,2007-02-20 15:44:39,2007-02-15,ALL,Roche Michael John,SVP Allstate Insurance Company,F - Tax,$61.71,-1644,16440,-9%,"-$101,451",0.0,-1.0,-2.0,-8.0,ALL
+908,,2007-02-20 15:37:50,2007-02-15,ALL,Cripe Frederick F,SVP Allstate Insurance Company,F - Tax,$61.71,-1683,19560,-8%,"-$103,858",0.0,-1.0,-2.0,-8.0,ALL
+909,,2007-02-20 15:31:48,2007-02-15,ALL,Pilch Samuel H,Controller,F - Tax,$61.71,-1678,16562,-9%,"-$103,549",0.0,-1.0,-2.0,-8.0,ALL
+910,,2007-02-20 15:25:52,2007-02-15,ALL,Wilson Thomas J,"Pres, CEO",F - Tax,$61.71,-8865,98889,-8%,"-$547,059",0.0,-1.0,-2.0,-8.0,ALL
+911,,2007-02-20 15:17:54,2007-02-15,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$61.71,-1403,17464,-7%,"-$86,579",0.0,-1.0,-2.0,-8.0,ALL
+912,,2007-02-20 15:12:15,2007-02-15,ALL,Sylla Casey,President Allstate Financial,F - Tax,$61.71,-7610,77808,-9%,"-$469,613",0.0,-1.0,-2.0,-8.0,ALL
+913,,2007-02-20 15:05:53,2007-02-15,ALL,Liddy Edward M,COB,F - Tax,$61.71,-26519,423121,-6%,"-$1,636,487",0.0,-1.0,-2.0,-8.0,ALL
+914,,2007-02-20 14:59:56,2007-02-15,ALL,McCabe Michael J,"VP, GC",F - Tax,$61.71,-3539,47202,-7%,"-$218,392",0.0,-1.0,-2.0,-8.0,ALL
+915,,2007-02-20 14:51:11,2007-02-15,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$61.71,-2961,23314,-11%,"-$182,723",0.0,-1.0,-2.0,-8.0,ALL
+916,,2007-02-20 14:43:58,2007-02-15,ALL,Simonson Eric A,Chief Investment Officer,F - Tax,$61.71,-4891,42031,-10%,"-$301,824",0.0,-1.0,-2.0,-8.0,ALL
+917,,2007-02-20 14:37:17,2007-02-15,ALL,McNeil Ronald D,SVP Allstate Insurance Company,F - Tax,$61.71,-3541,49885,-7%,"-$218,515",0.0,-1.0,-2.0,-8.0,ALL
+918,,2007-02-20 14:26:36,2007-02-15,ALL,Crockett Joan M,SVP Allstate Insurance Company,F - Tax,$61.71,-3285,49001,-6%,"-$202,717",0.0,-1.0,-2.0,-8.0,ALL
+919,D,2007-02-16 14:35:24,2007-02-14,ALL,Crockett Joan M,SVP Allstate Insurance Company,F - Tax,$61.71,-1614,52286,-3%,"-$99,600",0.0,-2.0,-3.0,-11.0,ALL
+920,D,2007-02-16 14:35:24,2007-02-14,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$31.78,11250,52286,+27%,"+$357,525",0.0,-2.0,-3.0,-11.0,ALL
+921,D,2007-02-16 14:35:24,2007-02-14,ALL,Crockett Joan M,SVP Allstate Insurance Company,S - Sale+OE,$61.78,-8995,52286,-15%,"-$555,711",0.0,-2.0,-3.0,-11.0,ALL
+922,D,2007-01-10 16:44:07,2007-01-08,ALL,Tripodi Joseph V,SVP Allstate Insurance Company,F - Tax,$64.69,-2261,7224,-24%,"-$146,253",-1.0,0.0,-5.0,-5.0,ALL
+923,D,2007-01-10 16:44:07,2007-01-08,ALL,Tripodi Joseph V,SVP Allstate Insurance Company,M - OptEx,$40.60,20000,7224,-157%,"+$812,000",-1.0,0.0,-5.0,-5.0,ALL
+924,D,2007-01-10 16:44:07,2007-01-08,ALL,Tripodi Joseph V,SVP Allstate Insurance Company,S - Sale+OE,$65.01,-17000,7224,-70%,"-$1,105,221",-1.0,0.0,-5.0,-5.0,ALL
+925,,2007-01-10 16:38:45,2007-01-08,ALL,Hale Danny L,"VP, CFO",F - Tax,$64.80,-8364,49832,-14%,"-$541,945",-1.0,0.0,-5.0,-5.0,ALL
+926,D,2006-12-19 16:02:52,2006-12-18,ALL,Pilch Samuel H,Controller,M - OptEx,$52.57,5325,18070,+42%,"+$279,935",0.0,0.0,-4.0,-5.0,ALL
+927,DM,2006-12-19 16:02:52,2006-12-15,ALL,Pilch Samuel H,Controller,S - Sale+OE,$65.29,-10325,18070,-36%,"-$674,160",0.0,0.0,-4.0,-5.0,ALL
+928,D,2006-12-19 15:10:13,2006-12-15,ALL,Roche Michael John,SVP Allstate Insurance Company,F - Tax,$65.12,-6075,17768,-25%,"-$395,574",0.0,0.0,-4.0,-5.0,ALL
+929,D,2006-12-19 15:10:13,2006-12-15,ALL,Roche Michael John,SVP Allstate Insurance Company,M - OptEx,$33.38,37836,17768,-189%,"+$1,262,966",0.0,0.0,-4.0,-5.0,ALL
+930,D,2006-12-19 15:10:13,2006-12-15,ALL,Roche Michael John,SVP Allstate Insurance Company,S - Sale+OE,$65.45,-27500,17768,-61%,"-$1,799,875",0.0,0.0,-4.0,-5.0,ALL
+931,D,2006-12-19 15:05:11,2006-12-15,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$65.12,-2071,26102,-7%,"-$134,853",0.0,0.0,-4.0,-5.0,ALL
+932,D,2006-12-19 15:05:11,2006-12-15,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$42.00,15188,26102,+139%,"+$637,896",0.0,0.0,-4.0,-5.0,ALL
+933,D,2006-12-19 15:05:11,2006-12-15,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$65.00,-12300,26102,-32%,"-$799,500",0.0,0.0,-4.0,-5.0,ALL
+934,D,2006-12-11 15:53:47,2006-12-07,ALL,Liddy Edward M,"COB, CEO",F - Tax,$63.95,-101606,449470,-18%,"-$6,497,704",1.0,2.0,0.0,-2.0,ALL
+935,D,2006-12-11 15:53:47,2006-12-07,ALL,Liddy Edward M,"COB, CEO",M - OptEx,$38.48,646788,449470,-328%,"+$24,891,065",1.0,2.0,0.0,-2.0,ALL
+936,D,2006-12-11 15:53:47,2006-12-07,ALL,Liddy Edward M,"COB, CEO",S - Sale+OE,$63.85,-518994,449470,-54%,"-$33,136,573",1.0,2.0,0.0,-2.0,ALL
+937,AD,2006-12-07 14:28:25,2006-11-27,ALL,McNeil Ronald D,SVP Allstate Insurance Company,F - Tax,$64.53,-12154,53145,-19%,"-$784,298",-1.0,0.0,1.0,-4.0,ALL
+938,D,2006-11-30 14:55:01,2006-11-28,ALL,Sylla Casey,President Allstate Financial,F - Tax,$63.94,-13244,85249,-13%,"-$846,821",0.0,1.0,3.0,-1.0,ALL
+939,D,2006-11-30 14:55:01,2006-11-28,ALL,Sylla Casey,President Allstate Financial,M - OptEx,$31.78,66750,85249,+361%,"+$2,121,315",0.0,1.0,3.0,-1.0,ALL
+940,D,2006-11-30 14:55:01,2006-11-28,ALL,Sylla Casey,President Allstate Financial,S - Sale+OE,$64.04,-53000,85249,-38%,"-$3,394,274",0.0,1.0,3.0,-1.0,ALL
+941,D,2006-11-29 14:38:31,2006-11-27,ALL,McNeil Ronald D,SVP Allstate Insurance Company,F - Tax,$64.53,-21791,51324,-30%,"-$1,406,173",-1.0,1.0,4.0,-2.0,ALL
+942,D,2006-11-29 14:38:31,2006-11-27,ALL,McNeil Ronald D,SVP Allstate Insurance Company,M - OptEx,$26.69,33789,51324,+193%,"+$901,828",-1.0,1.0,4.0,-2.0,ALL
+943,D,2006-11-29 14:38:31,2006-11-27,ALL,McNeil Ronald D,SVP Allstate Insurance Company,S - Sale+OE,$64.69,-13605,51324,-21%,"-$880,107",-1.0,1.0,4.0,-2.0,ALL
+944,D,2006-11-28 15:17:01,2006-11-24,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$64.75,-382,25227,-1%,"-$24,735",-1.0,-1.0,3.0,-3.0,ALL
+945,D,2006-11-28 15:17:01,2006-11-24,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$42.00,3775,25227,+18%,"+$158,550",-1.0,-1.0,3.0,-3.0,ALL
+946,D,2006-11-28 15:17:01,2006-11-24,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$65.00,-3200,25227,-11%,"-$208,000",-1.0,-1.0,3.0,-3.0,ALL
+947,D,2006-11-24 14:14:56,2006-11-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$64.75,-31,25034,0%,"-$2,007",0.0,-1.0,1.0,-4.0,ALL
+948,D,2006-11-24 14:14:56,2006-11-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$42.00,225,25034,+1%,"+$9,450",0.0,-1.0,1.0,-4.0,ALL
+949,D,2006-11-24 14:14:56,2006-11-22,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$65.00,-184,25034,-1%,"-$11,960",0.0,-1.0,1.0,-4.0,ALL
+950,D,2006-11-16 17:15:25,2006-11-10,ALL,Pilch Samuel H,Controller,M - OptEx,$37.29,3750,23062,+19%,"+$139,838",0.0,1.0,2.0,-1.0,ALL
+951,D,2006-11-16 17:15:25,2006-11-10,ALL,Pilch Samuel H,Controller,S - Sale+OE,$63.00,-3750,23062,-14%,"-$236,250",0.0,1.0,2.0,-1.0,ALL
+952,D,2006-09-27 18:03:39,2006-09-25,ALL,Crockett Joan M,SVP Allstate Insurance Company,F - Tax,$61.39,-6421,51435,-11%,"-$394,185",1.0,3.0,-1.0,-2.0,ALL
+953,D,2006-09-27 18:03:39,2006-09-25,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$31.78,33750,51435,+191%,"+$1,072,575",1.0,3.0,-1.0,-2.0,ALL
+954,D,2006-09-27 18:03:39,2006-09-25,ALL,Crockett Joan M,SVP Allstate Insurance Company,S - Sale+OE,$61.78,-27185,51435,-35%,"-$1,679,489",1.0,3.0,-1.0,-2.0,ALL
+955,D,2006-09-27 15:41:09,2006-09-25,ALL,McNeil Ronald D,SVP Allstate Insurance Company,M - OptEx,$41.31,8399,52931,+19%,"+$346,963",-1.0,2.0,-1.0,-3.0,ALL
+956,D,2006-09-27 15:41:09,2006-09-25,ALL,McNeil Ronald D,SVP Allstate Insurance Company,S - Sale+OE,$61.00,-8299,52931,-14%,"-$506,239",-1.0,2.0,-1.0,-3.0,ALL
+957,D,2006-09-27 14:14:25,2006-09-25,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$42.00,5937,18695,+47%,"+$249,354",-1.0,2.0,-1.0,-3.0,ALL
+958,D,2006-09-27 14:14:25,2006-09-25,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$62.00,-5837,18695,-24%,"-$361,894",-1.0,2.0,-1.0,-3.0,ALL
+959,D,2006-09-27 12:41:13,2006-09-25,ALL,McCabe Michael J,"VP, GC",F - Tax,$61.39,-9219,50559,-15%,"-$565,954",-1.0,2.0,-1.0,-3.0,ALL
+960,D,2006-09-27 12:41:13,2006-09-25,ALL,McCabe Michael J,"VP, GC",M - OptEx,$33.38,51500,50559,-5471%,"+$1,719,070",-1.0,2.0,-1.0,-3.0,ALL
+961,D,2006-09-27 12:41:13,2006-09-25,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$62.00,-42022,50559,-45%,"-$2,605,364",-1.0,2.0,-1.0,-3.0,ALL
+962,D,2006-09-27 12:35:43,2006-09-25,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$61.39,-895,25024,-3%,"-$54,944",-1.0,2.0,-1.0,-3.0,ALL
+963,D,2006-09-27 12:35:43,2006-09-25,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$33.38,6662,25024,+36%,"+$222,378",-1.0,2.0,-1.0,-3.0,ALL
+964,D,2006-09-27 12:35:43,2006-09-25,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$62.00,-5176,25024,-17%,"-$320,912",-1.0,2.0,-1.0,-3.0,ALL
+965,,2006-09-22 11:23:44,2006-09-21,ALL,Beyer Robert D,Dir,P - Purchase,$60.79,25000,25455,>999%,"+$1,519,760",0.0,4.0,1.0,1.0,ALL
+966,,2006-09-21 13:55:15,2006-03-23,ALL,Riley H John Jr,Dir,P - Purchase,$53.40,375,11375,+3%,"+$20,026",0.0,2.0,1.0,1.0,ALL
+967,D,2006-09-19 17:35:21,2006-09-15,ALL,McCabe Michael J,"VP, GC",F - Tax,$60.16,-3125,50300,-6%,"-$188,000",1.0,3.0,6.0,3.0,ALL
+968,D,2006-09-19 17:35:21,2006-09-15,ALL,McCabe Michael J,"VP, GC",M - OptEx,$31.78,22500,50300,+81%,"+$715,050",1.0,3.0,6.0,3.0,ALL
+969,D,2006-09-19 17:35:21,2006-09-15,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$60.00,-18226,50300,-27%,"-$1,093,560",1.0,3.0,6.0,3.0,ALL
+970,D,2006-09-19 17:28:56,2006-09-15,ALL,McNeil Ronald D,SVP Allstate Insurance Company,M - OptEx,$42.50,35000,52838,+196%,"+$1,487,500",1.0,3.0,6.0,3.0,ALL
+971,D,2006-09-19 17:28:56,2006-09-15,ALL,McNeil Ronald D,SVP Allstate Insurance Company,S - Sale+OE,$60.00,-34900,52838,-40%,"-$2,094,000",1.0,3.0,6.0,3.0,ALL
+972,D,2006-09-14 16:04:31,2006-09-12,ALL,Pilch Samuel H,Controller,F - Tax,$59.61,-3154,23062,-12%,"-$188,010",0.0,1.0,5.0,1.0,ALL
+973,D,2006-09-14 16:04:31,2006-09-12,ALL,Pilch Samuel H,Controller,M - OptEx,$45.96,5290,23062,+30%,"+$243,128",0.0,1.0,5.0,1.0,ALL
+974,D,2006-09-14 16:04:31,2006-09-12,ALL,Pilch Samuel H,Controller,S - Sale+OE,$59.65,-5290,23062,-19%,"-$315,549",0.0,1.0,5.0,1.0,ALL
+975,D,2006-09-12 10:51:43,2006-09-08,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$58.49,-1520,34064,-4%,"-$88,905",1.0,2.0,5.0,1.0,ALL
+976,D,2006-09-12 10:51:43,2006-09-08,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$33.71,12191,34064,+56%,"+$410,918",1.0,2.0,5.0,1.0,ALL
+977,D,2006-09-12 10:51:43,2006-09-08,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$59.00,-9623,34064,-22%,"-$567,757",1.0,2.0,5.0,1.0,ALL
+978,D,2006-09-11 13:48:51,2006-09-09,ALL,Beyer Robert D,Dir,A - Grant,$58.49,455,455,New,"+$26,613",0.0,2.0,7.0,1.0,ALL
+979,D,2006-09-06 17:34:29,2006-09-05,ALL,Pilch Samuel H,Controller,M - OptEx,$31.78,5368,26216,+26%,"+$170,595",0.0,3.0,11.0,4.0,ALL
+980,D,2006-09-06 17:34:29,2006-09-05,ALL,Pilch Samuel H,Controller,S - Sale+OE,$58.78,-5368,26216,-17%,"-$315,531",0.0,3.0,11.0,4.0,ALL
+981,D,2006-09-05 17:50:26,2006-09-01,ALL,Crockett Joan M,SVP Allstate Insurance Company,F - Tax,$58.21,-11397,51296,-18%,"-$663,419",-1.0,2.0,10.0,2.0,ALL
+982,D,2006-09-05 17:50:26,2006-09-01,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$33.38,60000,51296,-689%,"+$2,002,800",-1.0,2.0,10.0,2.0,ALL
+983,D,2006-09-05 17:50:26,2006-09-01,ALL,Crockett Joan M,SVP Allstate Insurance Company,S - Sale+OE,$58.38,-34498,51296,-40%,"-$2,013,993",-1.0,2.0,10.0,2.0,ALL
+984,D,2006-08-23 18:05:41,2006-08-21,ALL,Crockett Joan M,SVP Allstate Insurance Company,F - Tax,$58.08,-28708,37146,-44%,"-$1,667,361",0.0,0.0,6.0,8.0,ALL
+985,D,2006-08-23 18:05:41,2006-08-21,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$33.38,40000,37146,-1401%,"+$1,335,200",0.0,0.0,6.0,8.0,ALL
+986,D,2006-08-23 18:05:41,2006-08-21,ALL,Crockett Joan M,SVP Allstate Insurance Company,S - Sale+OE,$58.38,-23420,37146,-39%,"-$1,367,260",0.0,0.0,6.0,8.0,ALL
+987,D,2006-08-23 16:01:34,2006-08-21,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$33.38,32980,18589,-229%,"+$1,100,872",0.0,0.0,6.0,8.0,ALL
+988,D,2006-08-23 16:01:34,2006-08-21,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$58.38,-32880,18589,-64%,"-$1,919,534",0.0,0.0,6.0,8.0,ALL
+989,D,2006-08-16 11:48:24,2006-08-14,ALL,Wilson Thomas J,"Pres, COO",F - Tax,$56.41,-4293,107095,-4%,"-$242,168",0.0,1.0,5.0,10.0,ALL
+990,D,2006-08-16 11:48:24,2006-08-14,ALL,Wilson Thomas J,"Pres, COO",M - OptEx,$36.01,5497,107095,+5%,"+$197,947",0.0,1.0,5.0,10.0,ALL
+991,D,2006-06-26 14:26:54,2006-06-22,ALL,Wilson Thomas J,"Pres, COO",F - Tax,$53.27,-8837,105624,-8%,"-$470,747",1.0,3.0,9.0,25.0,ALL
+992,D,2006-06-26 14:26:54,2006-06-22,ALL,Wilson Thomas J,"Pres, COO",M - OptEx,$36.01,10995,105624,+12%,"+$395,930",1.0,3.0,9.0,25.0,ALL
+993,D,2006-06-05 17:39:37,2006-06-01,ALL,Taylor Mary Alice,Dir,A - Grant,$55.20,724,10169,+8%,"+$39,965",0.0,0.0,1.0,18.0,ALL
+994,D,2006-06-05 17:25:09,2006-06-01,ALL,Farrell W James,Dir,A - Grant,$55.20,181,3936,+5%,"+$9,991",0.0,0.0,1.0,18.0,ALL
+995,D,2006-06-05 17:01:06,2006-06-01,ALL,Ackerman F Duane,Dir,A - Grant,$55.20,724,16931,+4%,"+$39,965",0.0,0.0,1.0,18.0,ALL
+996,D,2006-05-24 16:50:03,2006-05-22,ALL,Andress James G,Dir,M - OptEx,$21.44,3000,12670,+31%,"+$64,320",0.0,0.0,-4.0,18.0,ALL
+997,D,2006-05-18 15:09:19,2006-05-16,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$31.78,13659,18489,+283%,"+$434,083",0.0,-1.0,-4.0,14.0,ALL
+998,D,2006-05-18 15:09:19,2006-05-16,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$57.00,-13559,18489,-42%,"-$772,863",0.0,-1.0,-4.0,14.0,ALL
+999,D,2006-05-03 17:03:34,2006-05-01,ALL,Sylla Casey,President Allstate Financial,F - Tax,$56.54,-24077,84709,-22%,"-$1,361,314",0.0,1.0,-2.0,10.0,ALL
+1000,D,2006-05-03 17:03:34,2006-05-01,ALL,Sylla Casey,President Allstate Financial,M - OptEx,$33.38,149000,84709,-232%,"+$4,973,620",0.0,1.0,-2.0,10.0,ALL
+1001,D,2006-05-03 17:03:34,2006-05-01,ALL,Sylla Casey,President Allstate Financial,S - Sale+OE,$56.68,-121910,84709,-59%,"-$6,909,887",0.0,1.0,-2.0,10.0,ALL
+1002,,2006-05-03 14:35:53,2006-05-01,ALL,Brennan Edward A,Dir,S - Sale,$56.74,-8000,237416,-3%,"-$453,930",0.0,1.0,-2.0,10.0,ALL
+1003,,2006-04-05 11:18:41,2006-04-03,ALL,Brennan Edward A,Dir,S - Sale,$52.25,-8000,245416,-3%,"-$417,974",-1.0,-3.0,9.0,24.0,ALL
+1004,,2006-03-01 15:44:42,2006-03-01,ALL,Brennan Edward A,Dir,S - Sale,$54.69,-8000,253416,-3%,"-$437,519",0.0,-1.0,-4.0,6.0,ALL
+1005,D,2006-02-16 10:58:46,2006-02-14,ALL,Pilch Samuel H,Controller,M - OptEx,$33.38,10150,26181,+63%,"+$338,807",1.0,1.0,2.0,8.0,ALL
+1006,D,2006-02-16 10:58:46,2006-02-14,ALL,Pilch Samuel H,Controller,S - Sale+OE,$54.00,-10150,26181,-28%,"-$548,100",1.0,1.0,2.0,8.0,ALL
+1007,,2006-02-02 10:27:17,2006-02-01,ALL,Brennan Edward A,Dir,S - Sale,$52.84,-8000,261416,-3%,"-$422,716",0.0,0.0,5.0,8.0,ALL
+1008,,2006-01-04 15:38:09,2006-01-03,ALL,Brennan Edward A,Dir,S - Sale,$54.14,-8000,269416,-3%,"-$433,158",0.0,2.0,-5.0,1.0,ALL
+1009,,2005-12-19 17:32:36,2005-11-03,ALL,Tripodi Joseph V,SVP Allstate Insurance Company,F - Tax,$55.44,-953,5397,-15%,"-$52,834",1.0,1.0,-2.0,-1.0,ALL
+1010,D,2005-12-05 14:14:31,2005-12-01,ALL,Brennan Edward A,Dir,S - Sale+OE,$56.09,-8000,285782,-3%,"-$448,714",-1.0,-1.0,-2.0,-2.0,ALL
+1011,,2005-11-08 16:23:43,2005-11-07,ALL,Brennan Edward A,Dir,S - Sale,$55.47,-8000,293782,-3%,"-$443,760",0.0,3.0,0.0,4.0,ALL
+1012,D,2005-09-14 15:22:04,2005-09-13,ALL,Pilch Samuel H,Controller,M - OptEx,$37.29,3750,26074,+17%,"+$139,838",0.0,-1.0,0.0,4.0,ALL
+1013,D,2005-09-14 15:22:04,2005-09-13,ALL,Pilch Samuel H,Controller,S - Sale+OE,$54.00,-3750,26074,-13%,"-$202,500",0.0,-1.0,0.0,4.0,ALL
+1014,D,2005-09-02 11:17:58,2005-08-31,ALL,McCabe Michael J,"VP, GC",F - Tax,$55.26,-7412,48995,-13%,"-$409,587",0.0,-3.0,-2.0,-2.0,ALL
+1015,D,2005-09-02 11:17:58,2005-08-31,ALL,McCabe Michael J,"VP, GC",M - OptEx,$33.09,62750,48995,-456%,"+$2,076,595",0.0,-3.0,-2.0,-2.0,ALL
+1016,D,2005-09-02 11:17:58,2005-08-31,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$54.90,-55191,48995,-53%,"-$3,029,986",0.0,-3.0,-2.0,-2.0,ALL
+1017,D,2005-09-02 11:17:31,2005-08-31,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$34.81,194700,49048,-134%,"+$6,777,757",0.0,-3.0,-2.0,-2.0,ALL
+1018,D,2005-09-02 11:17:31,2005-08-31,ALL,Crockett Joan M,SVP Allstate Insurance Company,S - Sale+OE,$55.35,-194400,49048,-80%,"-$10,759,684",0.0,-3.0,-2.0,-2.0,ALL
+1019,D,2005-08-31 09:52:14,2005-08-29,ALL,McNeil Ronald D,SVP Allstate Insurance Company,M - OptEx,$35.00,66732,52061,-455%,"+$2,335,620",-1.0,-1.0,-2.0,-3.0,ALL
+1020,D,2005-08-31 09:52:14,2005-08-29,ALL,McNeil Ronald D,SVP Allstate Insurance Company,S - Sale+OE,$57.00,-66632,52061,-56%,"-$3,798,024",-1.0,-1.0,-2.0,-3.0,ALL
+1021,D,2005-08-31 09:51:42,2005-08-29,ALL,Liddy Edward M,"COB, CEO",F - Tax,$56.96,-192165,423068,-31%,"-$10,945,718",-1.0,-1.0,-2.0,-3.0,ALL
+1022,D,2005-08-31 09:51:42,2005-08-29,ALL,Liddy Edward M,"COB, CEO",M - OptEx,$26.69,307428,423068,+266%,"+$8,205,253",-1.0,-1.0,-2.0,-3.0,ALL
+1023,D,2005-08-31 09:51:42,2005-08-29,ALL,Liddy Edward M,"COB, CEO",S - Sale+OE,$56.69,-103300,423068,-20%,"-$5,856,077",-1.0,-1.0,-2.0,-3.0,ALL
+1024,D,2005-07-29 14:03:43,2005-07-27,ALL,Farrell W James,Dir,F - Tax,$61.90,-3096,3755,-45%,"-$191,642",-1.0,-3.0,-6.0,-15.0,ALL
+1025,D,2005-07-29 14:03:43,2005-07-27,ALL,Farrell W James,Dir,M - OptEx,$31.96,6000,3755,-267%,"+$191,730",-1.0,-3.0,-6.0,-15.0,ALL
+1026,D,2005-07-26 13:48:33,2005-07-25,ALL,Sylla Casey,President Allstate Financial,F - Tax,$61.35,-15422,81564,-16%,"-$946,140",1.0,-1.0,-4.0,-15.0,ALL
+1027,DM,2005-07-26 13:48:33,2005-07-22,ALL,Sylla Casey,President Allstate Financial,M - OptEx,$37.61,166531,81564,-196%,"+$6,262,518",1.0,-1.0,-4.0,-15.0,ALL
+1028,DM,2005-07-26 13:48:33,2005-07-22,ALL,Sylla Casey,President Allstate Financial,S - Sale+OE,$61.18,-149123,81564,-65%,"-$9,123,680",1.0,-1.0,-4.0,-15.0,ALL
+1029,D,2005-07-21 15:14:01,2005-07-19,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$42.50,25521,48706,+110%,"+$1,084,643",-1.0,0.0,-6.0,-14.0,ALL
+1030,D,2005-07-21 15:14:01,2005-07-19,ALL,Crockett Joan M,SVP Allstate Insurance Company,S - Sale+OE,$62.50,-25421,48706,-34%,"-$1,588,813",-1.0,0.0,-6.0,-14.0,ALL
+1031,D,2005-07-21 15:13:29,2005-07-19,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$62.29,-1024,18282,-5%,"-$63,785",-1.0,0.0,-6.0,-14.0,ALL
+1032,D,2005-07-21 15:13:29,2005-07-19,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$42.50,10950,18282,+149%,"+$465,375",-1.0,0.0,-6.0,-14.0,ALL
+1033,D,2005-07-21 15:13:29,2005-07-19,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$62.50,-9819,18282,-35%,"-$613,688",-1.0,0.0,-6.0,-14.0,ALL
+1034,D,2005-07-19 14:25:41,2005-07-15,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$61.93,-1688,18175,-8%,"-$104,538",1.0,-1.0,-7.0,-11.0,ALL
+1035,D,2005-07-19 14:25:41,2005-07-15,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$42.00,17811,18175,>999%,"+$748,062",1.0,-1.0,-7.0,-11.0,ALL
+1036,D,2005-07-19 14:25:41,2005-07-15,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$62.00,-16019,18175,-47%,"-$993,178",1.0,-1.0,-7.0,-11.0,ALL
+1037,D,2005-07-19 14:25:20,2005-07-15,ALL,McCabe Michael J,"VP, GC",F - Tax,$61.93,-5275,48834,-10%,"-$326,681",1.0,-1.0,-7.0,-11.0,ALL
+1038,D,2005-07-19 14:25:20,2005-07-15,ALL,McCabe Michael J,"VP, GC",M - OptEx,$42.00,55668,48834,-815%,"+$2,338,056",1.0,-1.0,-7.0,-11.0,ALL
+1039,D,2005-07-19 14:25:20,2005-07-15,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$62.00,-50280,48834,-51%,"-$3,117,360",1.0,-1.0,-7.0,-11.0,ALL
+1040,D,2005-07-15 14:31:25,2005-07-14,ALL,Liddy Edward M,"COB, CEO",F - Tax,$61.39,-78367,411105,-16%,"-$4,810,950",1.0,-1.0,-6.0,-10.0,ALL
+1041,D,2005-07-15 14:31:25,2005-07-14,ALL,Liddy Edward M,"COB, CEO",M - OptEx,$36.64,109518,411105,+36%,"+$4,012,740",1.0,-1.0,-6.0,-10.0,ALL
+1042,D,2005-07-15 14:31:25,2005-07-14,ALL,Liddy Edward M,"COB, CEO",S - Sale+OE,$61.64,-28203,411105,-6%,"-$1,738,433",1.0,-1.0,-6.0,-10.0,ALL
+1043,D,2005-07-08 12:29:30,2005-07-06,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$36.64,29680,48606,+157%,"+$1,087,475",0.0,2.0,-2.0,-8.0,ALL
+1044,D,2005-07-08 12:29:30,2005-07-06,ALL,Crockett Joan M,SVP Allstate Insurance Company,S - Sale+OE,$60.85,-29580,48606,-38%,"-$1,799,943",0.0,2.0,-2.0,-8.0,ALL
+1045,D,2005-07-07 12:51:03,2005-07-05,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$41.06,5086,18071,+39%,"+$208,831",0.0,1.0,0.0,-8.0,ALL
+1046,D,2005-07-07 12:51:03,2005-07-05,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$61.06,-4986,18071,-22%,"-$304,445",0.0,1.0,0.0,-8.0,ALL
+1047,D,2005-06-21 14:47:35,2005-06-17,ALL,Wilson Thomas J,"Pres, COO",F - Tax,$59.93,-72853,102197,-42%,"-$4,366,080",0.0,0.0,3.0,-9.0,ALL
+1048,D,2005-06-21 14:47:35,2005-06-17,ALL,Wilson Thomas J,"Pres, COO",M - OptEx,$26.69,109694,102197,-1463%,"+$2,927,733",0.0,0.0,3.0,-9.0,ALL
+1049,D,2005-06-21 14:47:35,2005-06-17,ALL,Wilson Thomas J,"Pres, COO",S - Sale+OE,$60.00,-32801,102197,-24%,"-$1,968,060",0.0,0.0,3.0,-9.0,ALL
+1050,D,2005-06-21 11:56:08,2005-06-17,ALL,McCabe Michael J,"VP, GC",F - Tax,$59.93,-10175,48721,-17%,"-$609,788",0.0,0.0,3.0,-9.0,ALL
+1051,D,2005-06-21 11:56:08,2005-06-17,ALL,McCabe Michael J,"VP, GC",M - OptEx,$30.70,70850,48721,-320%,"+$2,175,192",0.0,0.0,3.0,-9.0,ALL
+1052,D,2005-06-21 11:56:08,2005-06-17,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$60.00,-60463,48721,-55%,"-$3,627,780",0.0,0.0,3.0,-9.0,ALL
+1053,D,2005-06-21 11:55:45,2005-06-17,ALL,Pike Robert W,"VP, Secretary",M - OptEx,$39.19,40000,63162,+173%,"+$1,567,600",0.0,0.0,3.0,-9.0,ALL
+1054,D,2005-06-21 11:55:45,2005-06-17,ALL,Pike Robert W,"VP, Secretary",S - Sale+OE,$60.00,-39900,63162,-39%,"-$2,394,000",0.0,0.0,3.0,-9.0,ALL
+1055,D,2005-06-06 12:20:31,2005-06-02,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$32.42,16662,32718,+104%,"+$540,178",1.0,1.0,4.0,-3.0,ALL
+1056,D,2005-06-06 12:20:31,2005-06-02,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$59.00,-14996,32718,-31%,"-$884,764",1.0,1.0,4.0,-3.0,ALL
+1057,D,2005-06-03 14:47:54,2005-06-01,ALL,Sprieser Judith A,Dir,A - Grant,$58.47,684,3865,+22%,"+$39,993",-1.0,1.0,1.0,-4.0,ALL
+1058,D,2005-06-03 14:27:17,2005-06-01,ALL,Taylor Mary Alice,Dir,A - Grant,$58.47,684,9445,+8%,"+$39,993",-1.0,1.0,1.0,-4.0,ALL
+1059,D,2005-06-03 14:26:50,2005-06-01,ALL,Farrell W James,Dir,A - Grant,$58.47,136,851,+19%,"+$7,952",-1.0,1.0,1.0,-4.0,ALL
+1060,D,2005-06-03 14:25:56,2005-06-01,ALL,Ackerman F Duane,Dir,A - Grant,$58.47,684,16207,+4%,"+$39,993",-1.0,1.0,1.0,-4.0,ALL
+1061,D,2005-05-25 15:56:49,2005-05-24,ALL,McCabe Michael J,"VP, GC",F - Tax,$57.94,-8844,48498,-15%,"-$512,421",0.0,1.0,3.0,-1.0,ALL
+1062,D,2005-05-25 15:56:49,2005-05-24,ALL,McCabe Michael J,"VP, GC",M - OptEx,$35.00,75852,48498,-277%,"+$2,654,820",0.0,1.0,3.0,-1.0,ALL
+1063,D,2005-05-25 15:56:49,2005-05-24,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$58.00,-66894,48498,-58%,"-$3,879,852",0.0,1.0,3.0,-1.0,ALL
+1064,D,2005-05-23 12:02:45,2005-05-19,ALL,Pilch Samuel H,Controller,M - OptEx,$43.50,1330,26057,+5%,"+$57,855",1.0,3.0,6.0,1.0,ALL
+1065,D,2005-05-23 12:02:45,2005-05-19,ALL,Pilch Samuel H,Controller,S - Sale+OE,$57.28,-1330,26057,-5%,"-$76,182",1.0,3.0,6.0,1.0,ALL
+1066,D,2005-05-19 09:53:49,2005-05-17,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$56.89,-4744,17971,-21%,"-$269,886",0.0,1.0,5.0,-1.0,ALL
+1067,D,2005-05-19 09:53:49,2005-05-17,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$30.89,26319,17971,-315%,"+$813,078",0.0,1.0,5.0,-1.0,ALL
+1068,D,2005-05-19 09:53:49,2005-05-17,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$56.67,-21398,17971,-54%,"-$1,212,579",0.0,1.0,5.0,-1.0,ALL
+1069,D,2005-05-17 16:03:33,2005-05-16,ALL,Pilch Samuel H,Controller,M - OptEx,$42.00,7375,26057,+39%,"+$309,750",0.0,1.0,4.0,0.0,ALL
+1070,D,2005-05-17 16:03:33,2005-05-16,ALL,Pilch Samuel H,Controller,S - Sale+OE,$56.21,-7375,26057,-22%,"-$414,549",0.0,1.0,4.0,0.0,ALL
+1071,D,2005-05-06 14:41:19,2005-05-05,ALL,McCabe Michael J,"VP, GC",F - Tax,$57.29,-2168,48384,-4%,"-$124,205",0.0,-1.0,4.0,-3.0,ALL
+1072,D,2005-05-06 14:41:19,2005-05-05,ALL,McCabe Michael J,"VP, GC",M - OptEx,$42.50,28521,48384,+144%,"+$1,212,143",0.0,-1.0,4.0,-3.0,ALL
+1073,D,2005-05-06 14:41:19,2005-05-05,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$57.50,-26230,48384,-35%,"-$1,508,225",0.0,-1.0,4.0,-3.0,ALL
+1074,D,2005-05-06 14:40:21,2005-05-05,ALL,Liddy Edward M,"COB, Pres, CEO",F - Tax,$57.29,-38630,408142,-9%,"-$2,213,113",0.0,-1.0,4.0,-3.0,ALL
+1075,D,2005-05-06 14:40:21,2005-05-05,ALL,Liddy Edward M,"COB, Pres, CEO",M - OptEx,$22.63,67398,408142,+20%,"+$1,525,217",0.0,-1.0,4.0,-3.0,ALL
+1076,D,2005-05-06 14:40:21,2005-05-05,ALL,Liddy Edward M,"COB, Pres, CEO",S - Sale+OE,$57.63,-25990,408142,-6%,"-$1,497,804",0.0,-1.0,4.0,-3.0,ALL
+1077,D,2005-05-06 12:36:04,2005-05-04,ALL,Pike Robert W,"VP, Secretary",M - OptEx,$36.64,36732,63051,+140%,"+$1,345,860",0.0,-1.0,4.0,-3.0,ALL
+1078,D,2005-05-06 12:36:04,2005-05-04,ALL,Pike Robert W,"VP, Secretary",S - Sale+OE,$57.00,-36632,63051,-37%,"-$2,088,024",0.0,-1.0,4.0,-3.0,ALL
+1079,D,2005-05-05 16:21:33,2005-05-04,ALL,Pilch Samuel H,Controller,M - OptEx,$42.36,9040,26057,+53%,"+$382,966",0.0,-2.0,3.0,-6.0,ALL
+1080,D,2005-05-05 16:21:33,2005-05-04,ALL,Pilch Samuel H,Controller,S - Sale+OE,$57.10,-9040,26057,-26%,"-$516,156",0.0,-2.0,3.0,-6.0,ALL
+1081,D,2005-05-04 11:15:33,2005-05-02,ALL,McCabe Michael J,"VP, GC",F - Tax,$56.25,-9567,48261,-17%,"-$538,144",2.0,1.0,6.0,-5.0,ALL
+1082,D,2005-05-04 11:15:33,2005-05-02,ALL,McCabe Michael J,"VP, GC",M - OptEx,$37.58,38068,48261,+373%,"+$1,430,572",2.0,1.0,6.0,-5.0,ALL
+1083,D,2005-05-04 11:15:33,2005-05-02,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$56.64,-28291,48261,-37%,"-$1,602,402",2.0,1.0,6.0,-5.0,ALL
+1084,D,2005-05-03 10:20:08,2005-04-29,ALL,Pike Robert W,"VP, Secretary",M - OptEx,$35.00,93580,62951,-306%,"+$3,275,300",1.0,3.0,5.0,-5.0,ALL
+1085,D,2005-05-03 10:20:08,2005-04-29,ALL,Pike Robert W,"VP, Secretary",S - Sale+OE,$56.00,-93480,62951,-60%,"-$5,234,880",1.0,3.0,5.0,-5.0,ALL
+1086,,2005-05-02 15:54:33,2005-04-29,ALL,Pilch Samuel H,Controller,S - Sale,$56.00,-3000,26057,-10%,"-$168,000",0.0,2.0,4.0,-6.0,ALL
+1087,D,2005-03-21 16:28:23,2005-03-17,ALL,Wilson Thomas J,President Allstate Protection,F - Tax,$53.86,-4012,97766,-4%,"-$216,086",-1.0,0.0,0.0,5.0,ALL
+1088,D,2005-03-21 16:28:23,2005-03-17,ALL,Wilson Thomas J,President Allstate Protection,M - OptEx,$40.41,4729,97766,+5%,"+$191,078",-1.0,0.0,0.0,5.0,ALL
+1089,D,2005-03-18 12:37:41,2005-03-16,ALL,Pilch Samuel H,Controller,M - OptEx,$32.83,15518,29057,+115%,"+$509,402",-1.0,-2.0,-2.0,2.0,ALL
+1090,D,2005-03-18 12:37:41,2005-03-16,ALL,Pilch Samuel H,Controller,S - Sale+OE,$54.37,-20518,29057,-41%,"-$1,115,564",-1.0,-2.0,-2.0,2.0,ALL
+1091,D,2005-03-16 14:48:19,2005-03-14,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$54.86,-2591,17794,-13%,"-$142,142",-1.0,-4.0,-1.0,-1.0,ALL
+1092,D,2005-03-16 14:48:19,2005-03-14,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$35.00,24308,17794,-373%,"+$850,780",-1.0,-4.0,-1.0,-1.0,ALL
+1093,D,2005-03-16 14:48:19,2005-03-14,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$55.00,-21605,17794,-55%,"-$1,188,275",-1.0,-4.0,-1.0,-1.0,ALL
+1094,D,2005-03-15 15:46:37,2005-03-14,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$54.86,-464,31052,-1%,"-$25,455",0.0,-3.0,0.0,0.0,ALL
+1095,D,2005-03-15 15:46:37,2005-03-14,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$35.00,4353,31052,+16%,"+$152,355",0.0,-3.0,0.0,0.0,ALL
+1096,D,2005-03-15 15:46:37,2005-03-14,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$55.00,-3692,31052,-11%,"-$203,060",0.0,-3.0,0.0,0.0,ALL
+1097,D,2005-03-02 15:39:40,2005-03-01,ALL,Pilch Samuel H,Controller,F - Tax,$53.88,-171,34047,0%,"-$9,213",0.0,1.0,1.0,8.0,ALL
+1098,D,2005-03-02 15:39:40,2005-03-01,ALL,Pilch Samuel H,Controller,M - OptEx,$43.00,2900,34047,+9%,"+$124,700",0.0,1.0,1.0,8.0,ALL
+1099,D,2005-03-02 15:39:40,2005-03-01,ALL,Pilch Samuel H,Controller,S - Sale+OE,$54.00,-2727,34047,-7%,"-$147,258",0.0,1.0,1.0,8.0,ALL
+1100,D,2005-02-28 16:34:20,2005-02-25,ALL,Pike Robert W,"VP, Secretary",M - OptEx,$32.85,51000,62839,+431%,"+$1,675,180",0.0,0.0,0.0,11.0,ALL
+1101,D,2005-02-28 16:34:20,2005-02-25,ALL,Pike Robert W,"VP, Secretary",S - Sale+OE,$53.79,-50800,62839,-45%,"-$2,732,547",0.0,0.0,0.0,11.0,ALL
+1102,D,2005-02-17 16:11:28,2005-02-16,ALL,Pilch Samuel H,Controller,F - Tax,$53.29,-864,34045,-2%,"-$46,043",-1.0,0.0,0.0,10.0,ALL
+1103,D,2005-02-17 16:11:28,2005-02-16,ALL,Pilch Samuel H,Controller,M - OptEx,$42.50,14502,34045,+74%,"+$616,335",-1.0,0.0,0.0,10.0,ALL
+1104,D,2005-02-17 16:11:28,2005-02-16,ALL,Pilch Samuel H,Controller,S - Sale+OE,$53.50,-13624,34045,-29%,"-$728,884",-1.0,0.0,0.0,10.0,ALL
+1105,D,2005-02-15 15:36:14,2005-02-14,ALL,Pilch Samuel H,Controller,F - Tax,$53.11,-1425,34031,-4%,"-$75,682",0.0,-2.0,3.0,12.0,ALL
+1106,D,2005-02-15 15:36:14,2005-02-14,ALL,Pilch Samuel H,Controller,M - OptEx,$42.00,22125,34031,+186%,"+$929,250",0.0,-2.0,3.0,12.0,ALL
+1107,D,2005-02-15 15:36:14,2005-02-14,ALL,Pilch Samuel H,Controller,S - Sale+OE,$53.00,-20773,34031,-38%,"-$1,100,969",0.0,-2.0,3.0,12.0,ALL
+1108,D,2005-02-15 15:35:17,2005-02-14,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$53.11,-1520,30860,-5%,"-$80,727",0.0,-2.0,3.0,12.0,ALL
+1109,D,2005-02-15 15:35:17,2005-02-14,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$33.38,13324,30860,+76%,"+$444,755",0.0,-2.0,3.0,12.0,ALL
+1110,D,2005-02-15 15:35:17,2005-02-14,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$53.38,-11261,30860,-27%,"-$601,112",0.0,-2.0,3.0,12.0,ALL
+1111,D,2005-02-08 13:53:34,2005-02-04,ALL,Pike Robert W,"VP, Secretary",F - Tax,$51.71,-4736,62639,-7%,"-$244,899",0.0,2.0,4.0,14.0,ALL
+1112,D,2005-02-08 13:53:34,2005-02-04,ALL,Pike Robert W,"VP, Secretary",M - OptEx,$40.50,5539,62639,+10%,"+$224,330",0.0,2.0,4.0,14.0,ALL
+1113,D,2005-02-08 13:52:49,2005-02-04,ALL,Sylla Casey,President Allstate Financial,F - Tax,$51.71,-6303,79559,-7%,"-$325,928",0.0,2.0,4.0,14.0,ALL
+1114,D,2005-02-08 13:52:49,2005-02-04,ALL,Sylla Casey,President Allstate Financial,M - OptEx,$26.69,43971,79559,+124%,"+$1,173,586",0.0,2.0,4.0,14.0,ALL
+1115,D,2005-02-08 13:52:49,2005-02-04,ALL,Sylla Casey,President Allstate Financial,S - Sale+OE,$50.96,-37260,79559,-32%,"-$1,898,896",0.0,2.0,4.0,14.0,ALL
+1116,D,2005-02-03 16:02:19,2005-02-01,ALL,Crockett Joan M,SVP Allstate Insurance Company,F - Tax,$50.80,-303,48242,-1%,"-$15,392",3.0,2.0,6.0,21.0,ALL
+1117,D,2005-02-03 16:02:19,2005-02-01,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$45.61,8344,48242,+21%,"+$380,555",3.0,2.0,6.0,21.0,ALL
+1118,D,2005-02-03 16:02:19,2005-02-01,ALL,Crockett Joan M,SVP Allstate Insurance Company,S - Sale+OE,$50.66,-8049,48242,-14%,"-$407,762",3.0,2.0,6.0,21.0,ALL
+1119,D,2005-02-01 15:15:26,2005-01-28,ALL,McCabe Michael J,"VP, GC",F - Tax,$49.91,-254,47742,-1%,"-$12,677",1.0,3.0,7.0,22.0,ALL
+1120,D,2005-02-01 15:15:26,2005-01-28,ALL,McCabe Michael J,"VP, GC",M - OptEx,$44.28,6336,47742,+15%,"+$280,558",1.0,3.0,7.0,22.0,ALL
+1121,D,2005-02-01 15:15:26,2005-01-28,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$50.08,-6020,47742,-11%,"-$301,482",1.0,3.0,7.0,22.0,ALL
+1122,D,2005-01-10 14:51:36,2005-01-06,ALL,Smith Joshua I,Dir,M - OptEx,$37.10,7001,0,-100%,"+$259,767",1.0,1.0,3.0,20.0,ALL
+1123,D,2005-01-10 14:51:36,2005-01-06,ALL,Smith Joshua I,Dir,S - Sale+OE,$50.83,-7001,0,-100%,"-$355,888",1.0,1.0,3.0,20.0,ALL
+1124,D,2005-01-04 17:13:56,2004-12-31,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$51.82,-1138,30124,-4%,"-$58,965",-1.0,1.0,0.0,21.0,ALL
+1125,D,2005-01-04 17:13:56,2004-12-31,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$31.78,10000,30124,+50%,"+$317,800",-1.0,1.0,0.0,21.0,ALL
+1126,D,2005-01-04 17:13:56,2004-12-31,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$51.78,-8419,30124,-22%,"-$435,936",-1.0,1.0,0.0,21.0,ALL
+1127,D,2004-12-23 11:00:27,2004-12-22,ALL,Crockett Joan M,SVP Allstate Insurance Company,F - Tax,$51.00,-107,48250,0%,"-$5,457",0.0,1.0,-2.0,17.0,ALL
+1128,D,2004-12-23 11:00:27,2004-12-22,ALL,Crockett Joan M,SVP Allstate Insurance Company,M - OptEx,$32.22,994,48250,+2%,"+$32,027",0.0,1.0,-2.0,17.0,ALL
+1129,D,2004-12-23 11:00:27,2004-12-22,ALL,Crockett Joan M,SVP Allstate Insurance Company,S - Sale+OE,$51.00,-887,48250,-2%,"-$45,237",0.0,1.0,-2.0,17.0,ALL
+1130,A,2004-12-22 16:14:09,2004-12-20,ALL,McCabe Michael J,"VP, GC",S - Sale,$50.32,-26753,51405,-34%,"-$1,346,262",0.0,0.0,-2.0,19.0,ALL
+1131,D,2004-12-22 13:04:07,2004-12-20,ALL,McCabe Michael J,"VP, GC",F - Tax,$50.30,-19301,47680,-29%,"-$970,744",1.0,2.0,-1.0,21.0,ALL
+1132,D,2004-12-22 13:04:07,2004-12-20,ALL,McCabe Michael J,"VP, GC",M - OptEx,$24.67,46288,47680,>999%,"+$1,142,047",1.0,2.0,-1.0,21.0,ALL
+1133,D,2004-12-22 13:04:07,2004-12-20,ALL,McCabe Michael J,"VP, GC",S - Sale+OE,$50.32,-26753,47680,-36%,"-$1,346,262",1.0,2.0,-1.0,21.0,ALL
+1134,,2004-12-07 16:52:07,2004-12-03,ALL,Brennan Edward A,Dir,G - Gift,$0.00,-1000,293416,0%,-$0,1.0,0.0,0.0,17.0,ALL
+1135,D,2004-12-07 14:11:54,2004-12-03,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$51.22,-91,17482,-1%,"-$4,661",0.0,-1.0,-1.0,17.0,ALL
+1136,D,2004-12-07 14:11:54,2004-12-03,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$41.47,1631,17482,+10%,"+$67,638",0.0,-1.0,-1.0,17.0,ALL
+1137,D,2004-12-07 14:11:54,2004-12-03,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$51.47,-1438,17482,-8%,"-$74,014",0.0,-1.0,-1.0,17.0,ALL
+1138,D,2004-12-03 12:05:55,2004-12-01,ALL,Brennan Edward A,Dir,G - Gift,$0.00,-13000,294416,-4%,-$0,0.0,-1.0,0.0,16.0,ALL
+1139,D,2004-11-15 16:32:42,2004-11-11,ALL,McNeil Ronald D,SVP Allstate Insurance Company,F - Tax,$50.23,-274,51457,-1%,"-$13,763",0.0,0.0,1.0,13.0,ALL
+1140,D,2004-11-15 16:32:42,2004-11-11,ALL,McNeil Ronald D,SVP Allstate Insurance Company,M - OptEx,$45.64,10232,51457,+25%,"+$466,988",0.0,0.0,1.0,13.0,ALL
+1141,D,2004-11-15 16:32:42,2004-11-11,ALL,McNeil Ronald D,SVP Allstate Insurance Company,S - Sale+OE,$50.00,-9971,51457,-16%,"-$498,550",0.0,0.0,1.0,13.0,ALL
+1142,D,2004-11-12 13:57:28,2004-11-10,ALL,Pilch Samuel H,Controller,F - Tax,$49.41,-261,33898,-1%,"-$12,896",0.0,0.0,1.0,13.0,ALL
+1143,D,2004-11-12 13:57:28,2004-11-10,ALL,Pilch Samuel H,Controller,M - OptEx,$38.69,4086,33898,+14%,"+$158,087",0.0,0.0,1.0,13.0,ALL
+1144,D,2004-11-12 13:57:28,2004-11-10,ALL,Pilch Samuel H,Controller,S - Sale+OE,$49.69,-3820,33898,-10%,"-$189,816",0.0,0.0,1.0,13.0,ALL
+1145,D,2004-11-12 13:55:56,2004-11-10,ALL,Brune Catherine S,SVP Allstate Insurance Company,F - Tax,$49.41,-2056,29709,-6%,"-$101,587",0.0,0.0,1.0,13.0,ALL
+1146,D,2004-11-12 13:55:56,2004-11-10,ALL,Brune Catherine S,SVP Allstate Insurance Company,M - OptEx,$26.69,15188,29709,+105%,"+$405,368",0.0,0.0,1.0,13.0,ALL
+1147,D,2004-11-12 13:55:56,2004-11-10,ALL,Brune Catherine S,SVP Allstate Insurance Company,S - Sale+OE,$49.85,-12454,29709,-30%,"-$620,832",0.0,0.0,1.0,13.0,ALL
+1148,D,2004-09-20 15:55:51,2004-09-17,ALL,Pike Robert W,"VP, Secretary",F - Tax,$48.47,-10607,61629,-15%,"-$514,121",-1.0,-1.0,-2.0,10.0,ALL
+1149,D,2004-09-20 15:55:51,2004-09-17,ALL,Pike Robert W,"VP, Secretary",M - OptEx,$31.85,105030,61629,-242%,"+$3,344,701",-1.0,-1.0,-2.0,10.0,ALL
+1150,D,2004-09-20 15:55:51,2004-09-17,ALL,Pike Robert W,"VP, Secretary",S - Sale+OE,$48.80,-94423,61629,-61%,"-$4,608,230",-1.0,-1.0,-2.0,10.0,ALL
+1151,D,2004-08-25 10:01:25,2004-08-23,ALL,Ruebenson George E,SVP Allstate Insurance Company,F - Tax,$47.70,-536,17377,-3%,"-$25,565",1.0,-1.0,2.0,10.0,ALL
+1152,D,2004-08-25 10:01:25,2004-08-23,ALL,Ruebenson George E,SVP Allstate Insurance Company,M - OptEx,$32.88,5874,17377,+51%,"+$193,137",1.0,-1.0,2.0,10.0,ALL
+1153,D,2004-08-25 10:01:25,2004-08-23,ALL,Ruebenson George E,SVP Allstate Insurance Company,S - Sale+OE,$47.88,-5133,17377,-23%,"-$245,768",1.0,-1.0,2.0,10.0,ALL
+1154,D,2004-08-24 14:58:57,2004-08-20,ALL,Liddy Edward M,"COB, Pres, CEO",F - Tax,$47.31,-279908,405119,-41%,"-$13,242,447",1.0,0.0,2.0,11.0,ALL
+1155,D,2004-08-24 14:58:57,2004-08-20,ALL,Liddy Edward M,"COB, Pres, CEO",M - OptEx,$15.45,533212,405119,-416%,"+$8,240,396",1.0,0.0,2.0,11.0,ALL
+1156,D,2004-08-24 14:58:57,2004-08-20,ALL,Liddy Edward M,"COB, Pres, CEO",S - Sale+OE,$47.52,-228269,405119,-36%,"-$10,846,637",1.0,0.0,2.0,11.0,ALL
+1157,D,2004-08-05 13:39:43,2004-08-04,ALL,Sylla Casey,President Allstate Financial,M - OptEx,$31.41,81969,78936,-2703%,"+$2,574,645",-1.0,1.0,0.0,10.0,ALL
+1158,D,2004-08-05 13:39:43,2004-08-04,ALL,Sylla Casey,President Allstate Financial,S - Sale+OE,$46.78,-80969,78936,-51%,"-$3,787,576",-1.0,1.0,0.0,10.0,ALL
+1159,A,2004-08-03 19:59:32,2004-07-30,ALL,Pilch Samuel H,Controller,S - Sale,$46.71,-12947,33885,-28%,"-$604,726",0.0,-1.0,1.0,9.0,ALL
+1160,D,2004-08-03 15:49:49,2004-07-30,ALL,Pilch Samuel H,Controller,M - OptEx,$32.20,13447,33885,+66%,"+$433,017",0.0,-1.0,1.0,8.0,ALL
+1161,D,2004-08-03 15:49:49,2004-08-02,ALL,Pilch Samuel H,Controller,S - Sale+OE,$46.71,-12947,33885,-28%,"-$604,726",0.0,-1.0,1.0,8.0,ALL
+1162,D,2004-06-03 15:22:55,2004-06-01,ALL,Farrell W James,Dir,A - Grant,$0.00,181,715,+34%,+$0,-2.0,1.0,5.0,18.0,ALL
+1163,D,2004-06-03 15:22:31,2004-06-01,ALL,Ackerman F Duane,Dir,A - Grant,$0.00,909,15523,+6%,+$0,-2.0,1.0,5.0,18.0,ALL
+1164,D,2004-06-03 15:21:25,2004-06-01,ALL,Taylor Mary Alice,Dir,A - Grant,$0.00,909,8761,+12%,+$0,-2.0,1.0,5.0,18.0,ALL
+1165,D,2004-06-03 11:35:11,2004-06-01,ALL,Reyes J Christopher,Dir,A - Grant,$0.00,909,13053,+7%,+$0,-2.0,1.0,5.0,18.0,ALL
+1166,A,2004-05-24 15:28:42,2001-05-18,ALL,Pilch Samuel H,Controller,F - Tax,$43.50,-2113,10001,-17%,"-$91,916",0.0,1.0,6.0,17.0,ALL
+1167,,2004-05-20 17:55:21,2004-05-18,ALL,Wilson Thomas J,"President, Allstate Protection",F - Tax,$43.31,-4035,95710,-4%,"-$174,756",0.0,1.0,5.0,17.0,ALL
+1168,,2004-05-20 16:38:23,2004-05-18,ALL,Sylla Casey,President Allstate Financial,F - Tax,$43.31,-3891,77927,-5%,"-$168,519",0.0,1.0,5.0,17.0,ALL
+1169,,2004-05-20 16:37:52,2004-05-18,ALL,Crockett Joan M,SVP - AIC,F - Tax,$43.31,-2287,48140,-5%,"-$99,050",0.0,1.0,5.0,17.0,ALL
+1170,,2004-05-20 16:37:32,2004-05-18,ALL,Pike Robert W,"VP, Secretary",F - Tax,$43.31,-3979,61606,-6%,"-$172,330",0.0,1.0,5.0,17.0,ALL
+1171,,2004-05-20 16:37:09,2004-05-18,ALL,Pilch Samuel H,Controller,F - Tax,$43.31,-1011,33378,-3%,"-$43,786",0.0,1.0,5.0,17.0,ALL
+1172,A,2004-05-20 16:36:39,2004-02-06,ALL,Pilch Samuel H,Controller,M - OptEx,$35.00,4000,32767,+14%,"+$140,000",0.0,1.0,5.0,17.0,ALL
+1173,,2004-05-20 15:32:16,2004-05-18,ALL,McCabe Michael J,"VP, GC",F - Tax,$43.31,-2654,47411,-5%,"-$114,945",1.0,2.0,6.0,18.0,ALL
+1174,,2004-05-20 15:31:42,2004-05-18,ALL,Ruebenson George E,Senior Vice President,F - Tax,$43.31,-820,6714,-11%,"-$35,514",1.0,2.0,6.0,18.0,ALL
+1175,,2004-05-20 15:30:49,2004-05-18,ALL,Liddy Edward M,"COB, Pres, CEO",F - Tax,$43.31,-16057,380067,-4%,"-$695,429",1.0,2.0,6.0,18.0,ALL
+1176,,2004-05-20 15:29:00,2004-05-18,ALL,McNeil Ronald D,SVP Allstate Insurance Company,F - Tax,$43.31,-2533,51266,-5%,"-$109,704",1.0,2.0,6.0,18.0,ALL
+1177,,2004-05-20 15:29:00,2004-05-18,ALL,McNeil Ronald D,SVP Allstate Insurance Company,S - Sale,$43.28,-549,51266,-1%,"-$23,761",1.0,2.0,6.0,18.0,ALL
+1178,D,2004-04-14 11:31:00,2004-04-12,ALL,McNeil Ronald D,SVP Allstate Insurance Company,M - OptEx,$36.64,19680,54343,+57%,"+$721,075",0.0,-2.0,-7.0,3.0,ALL
+1179,D,2004-04-14 11:31:00,2004-04-12,ALL,McNeil Ronald D,SVP Allstate Insurance Company,S - Sale+OE,$48.00,-19680,54343,-27%,"-$944,640",0.0,-2.0,-7.0,3.0,ALL
+1180,D,2004-03-11 17:24:26,2004-03-08,ALL,Ruebenson George E,Senior Vice President,F - Tax,$44.89,-525,15050,-3%,"-$23,565",1.0,1.0,8.0,7.0,ALL
+1181,D,2004-03-11 17:24:26,2004-03-08,ALL,Ruebenson George E,Senior Vice President,M - OptEx,$41.47,569,15050,+4%,"+$23,596",1.0,1.0,8.0,7.0,ALL
+1182,D,2004-02-25 11:13:32,2004-02-23,ALL,Smith Joshua I,Dir,M - OptEx,$31.87,6750,0,-100%,"+$215,145",0.0,-2.0,-4.0,6.0,ALL
+1183,D,2004-02-25 11:13:32,2004-02-23,ALL,Smith Joshua I,Dir,S - Sale+OE,$46.07,-6750,0,-100%,"-$310,989",0.0,-2.0,-4.0,6.0,ALL
+1184,D,2004-02-12 11:08:10,2004-02-10,ALL,McNeil Ronald D,SVP Allstate Insurance Company,M - OptEx,$39.51,23190,54242,+75%,"+$916,172",-1.0,-1.0,-4.0,0.0,ALL
+1185,D,2004-02-12 11:08:10,2004-02-10,ALL,McNeil Ronald D,SVP Allstate Insurance Company,S - Sale+OE,$46.50,-23190,54242,-30%,"-$1,078,335",-1.0,-1.0,-4.0,0.0,ALL
+1186,D,2004-02-11 16:38:46,2004-02-09,ALL,McNeil Ronald D,SVP Allstate Insurance Company,M - OptEx,$35.49,4924,54242,+10%,"+$174,731",-1.0,-1.0,-6.0,2.0,ALL
+1187,D,2004-02-11 16:38:46,2004-02-09,ALL,McNeil Ronald D,SVP Allstate Insurance Company,S - Sale+OE,$46.35,-4924,54242,-8%,"-$228,229",-1.0,-1.0,-6.0,2.0,ALL
+1188,D,2004-02-11 10:04:09,2004-02-09,ALL,Pilch Samuel H,Controller,F - Tax,$46.30,-1309,34039,-4%,"-$60,607",1.0,0.0,-5.0,3.0,ALL
+1189,D,2004-02-11 10:04:09,2004-02-09,ALL,Pilch Samuel H,Controller,M - OptEx,$32.83,15518,34039,+84%,"+$509,402",1.0,0.0,-5.0,3.0,ALL
+1190,D,2004-02-11 10:04:09,2004-02-09,ALL,Pilch Samuel H,Controller,S - Sale+OE,$46.10,-14175,34039,-29%,"-$653,468",1.0,0.0,-5.0,3.0,ALL
+1191,D,2004-02-10 18:18:20,2004-02-06,ALL,Pilch Samuel H,Controller,A - Grant,$0.00,3121,34005,+10%,+$0,1.0,0.0,-3.0,3.0,ALL
+1192,D,2004-02-10 18:18:20,2004-02-06,ALL,Pilch Samuel H,Controller,F - Tax,$45.96,-4170,34005,-11%,"-$191,653",1.0,0.0,-3.0,3.0,ALL
+1193,D,2004-02-10 18:18:20,2004-02-06,ALL,Pilch Samuel H,Controller,M - OptEx,$32.43,46802,34005,-366%,"+$1,517,752",1.0,0.0,-3.0,3.0,ALL
+1194,D,2004-02-10 18:18:20,2004-02-06,ALL,Pilch Samuel H,Controller,S - Sale+OE,$46.02,-38926,34005,-53%,"-$1,791,375",1.0,0.0,-3.0,3.0,ALL
+1195,D,2004-02-10 18:12:30,2004-02-06,ALL,Liddy Edward M,"COB, Pres, CEO",A - Grant,$0.00,40000,396106,+11%,+$0,1.0,0.0,-3.0,3.0,ALL
+1196,D,2004-02-10 18:00:19,2004-02-06,ALL,Wilson Thomas J,"President, Allstate Protection",A - Grant,$0.00,14300,99329,+17%,+$0,1.0,0.0,-3.0,3.0,ALL
+1197,D,2004-02-10 16:54:52,2004-02-06,ALL,Simonson Eric A,Chief Investment Officer,A - Grant,$0.00,9500,46229,+26%,+$0,1.0,0.0,-3.0,3.0,ALL
+1198,D,2004-02-10 16:52:16,2004-02-06,ALL,Pike Robert W,"VP, Secretary",A - Grant,$0.00,10000,65493,+18%,+$0,1.0,0.0,-3.0,3.0,ALL
+1199,D,2004-02-10 16:11:19,2004-02-06,ALL,Tripodi Joseph V,SVP of AIC,A - Grant,$0.00,6100,6175,>999%,+$0,1.0,0.0,-3.0,3.0,ALL
+1200,D,2004-02-10 16:07:40,2004-02-06,ALL,Sylla Casey,President Allstate Financial,A - Grant,$0.00,12600,81808,+18%,+$0,1.0,0.0,-3.0,3.0,ALL
+1201,D,2004-02-10 16:07:40,2004-02-06,ALL,Sylla Casey,President Allstate Financial,M - OptEx,$27.38,34627,81808,+73%,"+$947,967",1.0,0.0,-3.0,3.0,ALL
+1202,D,2004-02-10 16:07:40,2004-02-06,ALL,Sylla Casey,President Allstate Financial,S - Sale+OE,$45.47,-34627,81808,-30%,"-$1,574,490",1.0,0.0,-3.0,3.0,ALL
+1203,D,2004-02-10 16:05:02,2004-02-06,ALL,Ruebenson George E,Senior Vice President,A - Grant,$0.00,5500,15006,+58%,+$0,1.0,0.0,-3.0,3.0,ALL
+1204,D,2004-02-10 16:02:58,2004-02-06,ALL,McNeil Ronald D,SVP Allstate Insurance Company,A - Grant,$0.00,7100,54242,+15%,+$0,1.0,0.0,-3.0,3.0,ALL
+1205,D,2004-02-10 16:00:45,2004-02-06,ALL,McCabe Michael J,"VP, GC",A - Grant,$0.00,6600,50053,+15%,+$0,1.0,0.0,-3.0,3.0,ALL
+1206,D,2004-02-10 15:58:21,2004-02-06,ALL,Hale Danny L,"VP, CFO",A - Grant,$0.00,10400,57461,+22%,+$0,1.0,1.0,-3.0,3.0,ALL
+1207,D,2004-02-10 15:55:32,2004-02-06,ALL,Crockett Joan M,SVP - AIC,A - Grant,$0.00,6300,50386,+14%,+$0,1.0,1.0,-3.0,3.0,ALL
+1208,D,2004-02-10 15:55:32,2004-02-06,ALL,Crockett Joan M,SVP - AIC,M - OptEx,$32.22,954,50386,+2%,"+$30,738",1.0,1.0,-3.0,3.0,ALL
+1209,D,2004-02-10 15:55:32,2004-02-06,ALL,Crockett Joan M,SVP - AIC,S - Sale+OE,$45.83,-954,50386,-2%,"-$43,722",1.0,1.0,-3.0,3.0,ALL
+1210,D,2004-02-10 15:52:25,2004-02-06,ALL,Brune Catherine S,SVP Allstate Insurance Company,A - Grant,$0.00,5500,29031,+23%,+$0,1.0,1.0,-3.0,3.0,ALL
+1211,D,2004-01-13 11:36:37,2004-01-09,ALL,Liddy Edward M,"COB, Pres, CEO",F - Tax,$43.99,-8546,355875,-2%,"-$375,939",0.0,0.0,6.0,7.0,ALL
+1212,D,2004-01-13 11:36:37,2004-01-09,ALL,Liddy Edward M,"COB, Pres, CEO",M - OptEx,$31.10,10618,355875,+3%,"+$330,220",0.0,0.0,6.0,7.0,ALL
+1213,,2003-12-16 14:40:42,2003-12-12,ALL,McCabe Michael J,"VP, GC",S - Sale,$41.80,-28477,43223,-40%,"-$1,190,339",1.0,2.0,8.0,11.0,ALL
+1214,D,2003-12-10 14:14:36,2003-12-08,ALL,Pike Robert W,"VP, Secretary",F - Tax,$40.68,-9493,55343,-15%,"-$386,175",0.0,2.0,8.0,12.0,ALL
+1215,D,2003-12-10 14:14:36,2003-12-08,ALL,Pike Robert W,"VP, Secretary",M - OptEx,$25.51,84846,55343,-288%,"+$2,164,030",0.0,2.0,8.0,12.0,ALL
+1216,D,2003-12-10 14:14:36,2003-12-08,ALL,Pike Robert W,"VP, Secretary",S - Sale+OE,$40.96,-75353,55343,-58%,"-$3,086,459",0.0,2.0,8.0,12.0,ALL
+1217,D,2003-12-04 11:22:11,2003-12-02,ALL,Crockett Joan M,SVP - AIC,M - OptEx,$22.69,24000,43861,+121%,"+$544,590",1.0,1.0,6.0,10.0,ALL
+1218,D,2003-12-04 11:22:11,2003-12-02,ALL,Crockett Joan M,SVP - AIC,S - Sale+OE,$40.69,-24000,43861,-35%,"-$976,553",1.0,1.0,6.0,10.0,ALL
+1219,,2003-12-02 11:48:51,2003-12-01,ALL,Taylor Mary Alice,Dir,A - Grant,$0.00,1000,4000,+33%,+$0,-1.0,0.0,5.0,9.0,ALL
+1220,,2003-12-02 11:48:05,2003-12-01,ALL,Sprieser Judith A,Dir,A - Grant,$0.00,1000,5000,+25%,+$0,-1.0,0.0,5.0,9.0,ALL
+1221,,2003-12-02 11:47:16,2003-12-01,ALL,Smith Joshua I,Dir,A - Grant,$0.00,1000,5232,+24%,+$0,-1.0,0.0,5.0,9.0,ALL
+1222,,2003-12-02 11:46:08,2003-12-01,ALL,Riley H John Jr,Dir,A - Grant,$0.00,1000,6000,+20%,+$0,-1.0,0.0,5.0,9.0,ALL
+1223,,2003-12-02 11:45:23,2003-12-01,ALL,Reyes J Christopher,Dir,A - Grant,$0.00,1000,2500,+67%,+$0,-1.0,0.0,5.0,9.0,ALL
+1224,,2003-12-02 11:44:24,2003-12-01,ALL,Miles Michael A,Dir,A - Grant,$0.00,1000,8300,+14%,+$0,-1.0,0.0,5.0,9.0,ALL
+1225,,2003-12-02 11:42:54,2003-12-01,ALL,Lemay Ronald T,Dir,A - Grant,$0.00,1000,5500,+22%,+$0,-1.0,0.0,5.0,9.0,ALL
+1226,,2003-12-02 11:42:13,2003-12-01,ALL,Greenberg Jack M,Dir,A - Grant,$0.00,1000,2500,+67%,+$0,-1.0,0.0,5.0,9.0,ALL
+1227,,2003-12-02 11:41:24,2003-12-01,ALL,Farrell W James,Dir,A - Grant,$0.00,1000,5000,+25%,+$0,-1.0,0.0,5.0,9.0,ALL
+1228,,2003-12-02 11:40:36,2003-12-01,ALL,Brennan Edward A,Dir,A - Grant,$0.00,1000,8366,+14%,+$0,-1.0,0.0,5.0,9.0,ALL
+1229,,2003-12-02 11:39:44,2003-12-01,ALL,Andress James G,Dir,A - Grant,$0.00,1000,9000,+13%,+$0,-1.0,0.0,5.0,9.0,ALL
+1230,,2003-12-02 11:38:35,2003-12-01,ALL,Ackerman F Duane,Dir,A - Grant,$0.00,1000,5000,+25%,+$0,-1.0,0.0,5.0,9.0,ALL
+1231,D,2003-11-13 09:25:29,2003-11-11,ALL,Tripodi Joseph V,SVP of AIC,A - Grant,$0.00,6350,6350,New,+$0,-1.0,-2.0,4.0,9.0,ALL
+1232,D,2003-10-23 17:49:20,2003-10-22,ALL,Wilson Thomas J,"President, Allstate Protection",F - Tax,$40.07,-14839,84502,-15%,"-$594,599",0.0,1.0,0.0,18.0,ALL
+1233,D,2003-10-23 17:49:20,2003-10-22,ALL,Wilson Thomas J,"President, Allstate Protection",M - OptEx,$15.22,81362,84502,>999%,"+$1,238,330",0.0,1.0,0.0,18.0,ALL
+1234,D,2003-10-23 17:49:20,2003-10-22,ALL,Wilson Thomas J,"President, Allstate Protection",S - Sale+OE,$40.03,-72200,84502,-46%,"-$2,890,310",0.0,1.0,0.0,18.0,ALL
+1235,D,2003-10-23 17:48:45,2003-10-21,ALL,Wilson Thomas J,"President, Allstate Protection",F - Tax,$40.15,-16427,90179,-15%,"-$659,544",0.0,1.0,0.0,18.0,ALL
+1236,D,2003-10-23 17:48:45,2003-10-21,ALL,Wilson Thomas J,"President, Allstate Protection",M - OptEx,$15.22,38638,90179,+75%,"+$588,070",0.0,1.0,0.0,18.0,ALL
+1237,D,2003-10-23 17:48:45,2003-10-21,ALL,Wilson Thomas J,"President, Allstate Protection",S - Sale+OE,$40.25,-11400,90179,-11%,"-$458,850",0.0,1.0,0.0,18.0,ALL
+1238,D,2003-08-15 12:46:12,2003-08-13,ALL,Wilson Thomas J,"President, Allstate Protection",F - Tax,$36.01,-19364,79035,-20%,"-$697,298",0.0,2.0,-1.0,31.0,ALL
+1239,D,2003-08-15 12:46:12,2003-08-13,ALL,Wilson Thomas J,"President, Allstate Protection",M - OptEx,$22.63,26244,79035,+50%,"+$593,902",0.0,2.0,-1.0,31.0,ALL

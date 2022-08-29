@@ -1,81 +1,1234 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-05-20 10:30:23,2022-05-19,ARW,Melvin Vincent P,"SVP, CIO",S - Sale,$122.26,-5334,25381,-17%,"-$652,135",,,,,ARW
-1,D,2022-05-17 11:46:46,2022-05-13,ARW,Kerin Andrew Charles,Dir,S - Sale+OE,$125.11,-1550,0,-100%,"-$193,974",,,,,ARW
-2,,2022-05-16 11:56:39,2022-05-13,ARW,Jean-Claude Carine Lamercie,"SVP, GC",S - Sale,$124.50,-1000,11105,-8%,"-$124,500",,,,,ARW
-3,D,2022-05-12 12:23:16,2022-05-10,ARW,Jean-Claude Carine Lamercie,"SVP, GC",S - Sale+OE,$124.22,-6089,12105,-33%,"-$756,365",,,,,ARW
-4,D,2022-05-12 12:20:39,2022-05-10,ARW,Russell Kristin Diana,"Pres, Global ECS",S - Sale+OE,$123.97,-19466,14815,-57%,"-$2,413,173",,,,,ARW
-5,D,2022-05-12 12:18:11,2022-05-10,ARW,West David Alan,"SVP, Exec Advisor",S - Sale+OE,$124.78,-2125,13446,-14%,"-$265,158",,,,,ARW
-6,D,2022-05-11 10:53:13,2022-05-09,ARW,West David Alan,"SVP, Exec Advisor",S - Sale+OE,$124.47,-2125,13446,-14%,"-$264,501",,,,,ARW
-7,D,2022-02-28 11:33:53,2022-02-25,ARW,Melvin Vincent P,"SVP, CIO",S - Sale+OE,$122.14,-20477,30715,-40%,"-$2,501,044",,,,,ARW
-8,D,2022-02-24 13:16:18,2022-02-23,ARW,Stansbury Christopher,"SVP, CFO",S - Sale+OE,$121.60,-52993,18268,-74%,"-$6,443,799",,,,,ARW
-9,D,2022-02-24 11:28:26,2022-02-22,ARW,West David Alan,"Pres, Global Components",S - Sale+OE,$124.17,-16423,13446,-55%,"-$2,039,283",,,,,ARW
-10,,2022-02-23 16:30:13,2022-02-22,ARW,Russell Kristin Diana,"Pres, Global ECS",S - Sale,$123.69,-4781,14815,-24%,"-$591,379",,,,,ARW
-11,D,2022-02-22 11:13:39,2022-02-18,ARW,Kerins Sean J,COO,S - Sale+OE,$123.08,-8687,46620,-16%,"-$1,069,170",,,,,ARW
-12,D,2022-02-22 11:12:04,2022-02-18,ARW,Kerins Sean J,COO,S - Sale+OE,$123.08,-8687,46620,-16%,"-$1,069,170",,,,,ARW
-13,D,2021-11-30 14:29:44,2021-11-29,ARW,Melvin Vincent P,CIO,S - Sale+OE,$124.26,-8748,21677,-29%,"-$1,086,981",,,,,ARW
-14,,2021-11-09 14:32:43,2021-11-05,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale,$122.45,-3000,9505,-24%,"-$367,350",,,,,ARW
-15,,2021-08-30 14:41:18,2021-08-27,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale,$122.91,-8000,12213,-40%,"-$983,280",,,,,ARW
-16,DM,2021-08-27 11:42:33,2021-02-12,ARW,Seidlitz Richard A,Principal Accounting Officer,S - Sale+OE,$107.51,-666,3214,-17%,"-$71,598",,,,,ARW
-17,D,2021-08-26 17:57:55,2021-08-25,ARW,Stansbury Christopher,"SVP, CFO",S - Sale+OE,$121.43,-11238,19161,-37%,"-$1,364,676",,,,,ARW
-18,D,2021-08-25 16:00:45,2021-08-24,ARW,Melvin Vincent P,CIO,S - Sale+OE,$119.34,-9672,21612,-31%,"-$1,154,295",,,,,ARW
-19,D,2021-08-24 16:01:33,2021-08-20,ARW,Jean-Claude Carine Lamercie,"SVP, GC",S - Sale+OE,$117.47,-4119,9934,-29%,"-$483,870",,,,,ARW
-20,,2021-08-09 16:05:38,2021-08-06,ARW,Hamilton Gail,Dir,S - Sale,$119.22,-2900,101,-97%,"-$345,738",,,,,ARW
-21,,2021-05-27 17:35:56,2021-05-26,ARW,Kerin Andrew Charles,Dir,S - Sale,$122.28,-7348,0,-100%,"-$898,513",,,,,ARW
-22,,2021-05-20 17:58:51,2021-05-20,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$120.59,-55638,126033,-31%,"-$6,709,219",,,,,ARW
-23,,2021-05-20 16:03:10,2021-05-18,ARW,Melvin Vincent P,CIO,S - Sale,$120.02,-7368,21743,-25%,"-$884,307",,,,,ARW
-24,,2021-05-18 16:30:19,2021-05-17,ARW,Kerins Sean J,COO,S - Sale,$120.93,-128,32431,0%,"-$15,438",,,,,ARW
-25,,2021-05-13 18:28:35,2021-05-13,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale,$116.28,-1500,12917,-10%,"-$174,425",,,,,ARW
-26,D,2021-05-13 16:49:24,2021-05-11,ARW,Melvin Vincent P,CIO,S - Sale+OE,$115.57,-13303,29111,-31%,"-$1,537,410",,,,,ARW
-27,D,2021-05-13 16:45:25,2021-05-11,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$115.55,-128184,181671,-41%,"-$14,811,496",,,,,ARW
-28,,2021-05-11 09:25:33,2021-05-07,ARW,West David Alan,"Pres, Global Components",S - Sale,$117.05,-1073,12402,-8%,"-$125,595",,,,,ARW
-29,,2021-03-01 17:54:46,2021-02-25,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$98.03,-3089,181671,-2%,"-$302,813",,,,,ARW
-30,D,2021-02-25 18:45:38,2021-02-24,ARW,West David Alan,"Pres, Global Components",S - Sale+OE,$102.58,-11326,13475,-46%,"-$1,161,771",,,,,ARW
-31,AD,2021-02-25 16:01:22,2021-02-19,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale+OE,$104.76,-44092,20213,-69%,"-$4,619,152",,,,,ARW
-32,,2021-02-24 17:27:32,2021-02-23,ARW,Stansbury Christopher,"SVP, CFO",S - Sale,$99.96,-12500,28150,-31%,"-$1,249,500",,,,,ARW
-33,D,2021-02-22 16:26:26,2021-02-19,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$105.64,-57234,20385,-74%,"-$6,046,218",,,,,ARW
-34,D,2021-02-22 16:23:50,2021-02-19,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale+OE,$104.76,-44092,18636,-70%,"-$4,619,152",,,,,ARW
-35,D,2021-02-19 16:04:53,2021-02-18,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$103.34,-97249,199092,-33%,"-$10,049,712",,,,,ARW
-36,D,2021-02-16 19:21:05,2021-02-12,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale+OE,$104.38,-26060,8575,-75%,"-$2,720,174",,,,,ARW
-37,D,2021-02-16 19:20:19,2021-02-12,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$103.62,-1500,13851,-10%,"-$155,423",,,,,ARW
-38,D,2021-02-16 19:19:40,2021-02-12,ARW,Melvin Vincent P,CIO,S - Sale+OE,$103.42,-13883,21046,-40%,"-$1,435,801",,,,,ARW
-39,D,2021-02-16 16:05:14,2021-02-12,ARW,Gao Wei Victor Alejandro,"SVP, CMO",S - Sale+OE,$104.34,-8546,6464,-57%,"-$891,696",,,,,ARW
-40,,2020-11-20 16:45:54,2020-11-18,ARW,Melvin Vincent P,CIO,S - Sale,$89.10,-3616,26637,-12%,"-$322,186",,,,,ARW
-41,,2020-11-18 16:23:56,2020-11-16,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale,$87.85,-3300,8575,-28%,"-$289,905",,,,,ARW
-42,,2020-11-18 16:22:25,2020-11-16,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$87.93,-53768,146566,-27%,"-$4,727,820",,,,,ARW
-43,,2020-11-16 16:20:03,2020-11-12,ARW,King Andrew,"Pres, Global Components",S - Sale,$84.79,-2338,52721,-4%,"-$198,232",,,,,ARW
-44,,2020-11-13 16:50:36,2020-11-11,ARW,Hill Richard,Dir,S - Sale,$86.10,-11300,0,-100%,"-$972,953",,,,,ARW
-45,D,2020-11-13 16:48:47,2020-11-11,ARW,Melvin Vincent P,CIO,S - Sale+OE,$85.88,-8625,30253,-22%,"-$740,698",,,,,ARW
-46,DM,2020-11-12 16:50:53,2020-11-09,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$86.19,-140006,200334,-41%,"-$12,067,112",,,,,ARW
-47,A,2020-11-10 12:21:58,2020-11-06,ARW,Stansbury Christopher,"SVP, CFO",S - Sale,$84.21,-6000,28905,-17%,"-$505,260",,,,,ARW
-48,,2020-11-10 12:05:35,2020-11-06,ARW,Hamilton Gail,Dir,S - Sale,$83.86,-2400,107,-96%,"-$201,264",,,,,ARW
-49,,2020-11-04 17:36:21,2020-11-03,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$81.18,-4749,18702,-20%,"-$385,524",,,,,ARW
-50,,2020-08-31 19:00:42,2020-08-31,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$78.57,-68834,258500,-21%,"-$5,408,287",,,,,ARW
-51,,2020-08-07 10:43:19,2020-08-06,ARW,Hughes Lily Yan,"SVP, GC",S - Sale,$75.08,-2126,23410,-8%,"-$159,609",,,,,ARW
-52,,2020-08-06 16:24:43,2020-08-05,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$74.54,-6270,23451,-21%,"-$467,366",,,,,ARW
-53,,2020-05-29 11:14:50,2020-05-28,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$69.47,-1801,13851,-12%,"-$125,115",,,,,ARW
-54,D,2020-05-26 16:22:27,2020-05-21,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale+OE,$67.88,-13801,30481,-31%,"-$936,799",,,,,ARW
-55,,2020-05-26 11:32:33,2020-05-21,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale,$67.41,-8400,11528,-42%,"-$566,213",,,,,ARW
-56,D,2020-05-21 19:31:46,2020-05-20,ARW,Melvin Vincent P,CIO,S - Sale+OE,$67.67,-8914,30057,-23%,"-$603,209",,,,,ARW
-57,,2020-05-15 12:30:52,2020-05-14,ARW,Kostalnick Charles II,Chief Supply Chain Officer,P - Purchase,$60.62,412,11875,+4%,"+$24,977",,,,,ARW
-58,,2019-11-26 11:04:06,2019-11-25,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$80.45,-60122,295071,-17%,"-$4,836,815",,,,,ARW
-59,,2019-11-12 17:27:09,2019-11-08,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale,$81.57,-12453,17512,-42%,"-$1,015,791",,,,,ARW
-60,,2019-11-12 14:31:39,2019-11-08,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$81.44,-13061,22894,-36%,"-$1,063,688",,,,,ARW
-61,D,2019-11-12 14:24:24,2019-11-08,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$80.00,-2700,14031,-16%,"-$216,000",,,,,ARW
-62,,2019-11-12 14:18:24,2019-11-08,ARW,Hamilton Gail,Dir,S - Sale,$81.45,-1950,36,-98%,"-$158,828",,,,,ARW
-63,D,2019-08-21 17:15:21,2019-08-19,ARW,Stansbury Christopher,"SVP, CFO",S - Sale+OE,$68.87,-57550,31433,-65%,"-$3,963,289",,,,,ARW
-64,,2019-08-19 12:02:23,2019-08-16,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale,$68.11,-3200,8214,-28%,"-$217,952",,,,,ARW
-65,,2019-02-27 13:01:17,2019-02-26,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$81.64,-5286,35955,-13%,"-$431,549",,,,,ARW
-66,D,2019-02-27 12:56:20,2019-02-25,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$82.19,-25835,358283,-7%,"-$2,123,379",,,,,ARW
-67,,2019-02-25 17:18:21,2019-02-25,ARW,Hamilton Gail,Dir,S - Sale,$81.91,-2043,2,-100%,"-$167,342",,,,,ARW
-68,,2019-02-25 16:43:01,2019-02-22,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$81.84,-7108,17147,-29%,"-$581,719",,,,,ARW
-69,,2019-02-21 17:49:58,2019-02-21,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$81.90,-929,17420,-5%,"-$76,085",,,,,ARW
-70,,2019-02-21 12:20:39,2019-02-20,ARW,Kerin Andrew Charles,Dir,S - Sale,$81.79,-6845,0,-100%,"-$559,853",,,,,ARW
-71,D,2019-02-21 12:15:55,2019-02-20,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$81.20,-60252,324508,-16%,"-$4,892,462",,,,,ARW
-72,D,2019-02-21 12:06:04,2019-02-20,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale+OE,$81.99,-1250,13998,-8%,"-$102,488",,,,,ARW
-73,,2019-02-20 10:22:35,2019-02-19,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$80.70,-53984,366253,-13%,"-$4,356,509",,,,,ARW
-74,D,2018-11-29 16:32:00,2018-11-28,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$75.00,-13016,18155,-42%,"-$976,200",,,,,ARW
-75,,2018-11-07 15:52:51,2018-11-06,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale,$74.37,-700,12780,-5%,"-$52,059",,,,,ARW
-76,D,2018-08-23 10:32:15,2018-08-21,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$79.20,-10237,18155,-36%,"-$810,766",,,,,ARW
-77,,2018-08-21 10:49:05,2018-08-20,ARW,Melvin Vincent P,CIO,S - Sale,$78.10,-2000,16371,-11%,"-$156,200",,,,,ARW
-78,,2018-08-08 09:39:03,2018-08-07,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale,$77.00,-4500,21814,-17%,"-$346,500",,,,,ARW
-79,,2018-05-30 14:54:46,2018-05-29,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",S - Sale,$74.16,-1785,13050,-12%,"-$132,367",,,,,ARW
+0,,2022-03-14 10:20:39,2022-03-11,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$119.86,-1950,16318,-11%,"-$233,727",,,,,ARW
+1,D,2022-02-28 11:33:53,2022-02-25,ARW,Melvin Vincent P,"SVP, CIO",M - OptEx,$81.48,20477,30715,+200%,"+$1,668,416",,,,,ARW
+2,D,2022-02-28 11:33:53,2022-02-25,ARW,Melvin Vincent P,"SVP, CIO",S - Sale+OE,$122.14,-20477,30715,-40%,"-$2,501,044",,,,,ARW
+3,D,2022-02-24 13:16:18,2022-02-23,ARW,Stansbury Christopher,"SVP, CFO",M - OptEx,$79.42,46128,18268,-166%,"+$3,663,499",,,,,ARW
+4,D,2022-02-24 13:16:18,2022-02-23,ARW,Stansbury Christopher,"SVP, CFO",S - Sale+OE,$121.60,-52993,18268,-74%,"-$6,443,799",,,,,ARW
+5,D,2022-02-24 11:28:26,2022-02-22,ARW,West David Alan,"Pres, Global Components",M - OptEx,$81.54,11861,13446,+748%,"+$967,171",,,,,ARW
+6,D,2022-02-24 11:28:26,2022-02-22,ARW,West David Alan,"Pres, Global Components",S - Sale+OE,$124.17,-16423,13446,-55%,"-$2,039,283",,,,,ARW
+7,,2022-02-23 16:30:13,2022-02-22,ARW,Russell Kristin Diana,"Pres, Global ECS",S - Sale,$123.69,-4781,14815,-24%,"-$591,379",,,,,ARW
+8,,2022-02-23 11:56:01,2022-02-18,ARW,Gao Wei Victor Alejandro,"SVP, CMO",F - Tax,$123.74,-395,15556,-2%,"-$48,877",,,,,ARW
+9,,2022-02-23 11:54:09,2022-02-18,ARW,Jean-Claude Carine Lamercie,"SVP, GC",F - Tax,$123.74,-179,13299,-1%,"-$22,149",,,,,ARW
+10,,2022-02-23 11:51:08,2022-02-18,ARW,Kostalnick Charles II,"SVP, Chief Supply Chain Offr",F - Tax,$123.74,-767,16509,-4%,"-$94,909",,,,,ARW
+11,,2022-02-23 11:49:01,2022-02-18,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$123.74,-12221,162532,-7%,"-$1,512,227",,,,,ARW
+12,,2022-02-23 11:43:52,2022-02-18,ARW,Melvin Vincent P,"SVP, CIO",F - Tax,$123.74,-1193,30715,-4%,"-$147,622",,,,,ARW
+13,,2022-02-23 11:42:44,2022-02-18,ARW,Russell Kristin Diana,"Pres, Global ECS",F - Tax,$123.74,-613,19596,-3%,"-$75,853",,,,,ARW
+14,,2022-02-23 11:41:36,2022-02-18,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$123.74,-1516,25133,-6%,"-$187,590",,,,,ARW
+15,,2022-02-23 11:40:15,2022-02-18,ARW,West David Alan,"Pres, Global Components",F - Tax,$123.74,-664,18008,-4%,"-$82,163",,,,,ARW
+16,,2022-02-23 11:38:06,2022-02-18,ARW,Zech Gretchen,"SVP, Chief Gov, Sust, HR Offr",F - Tax,$123.74,-1226,22066,-5%,"-$151,705",,,,,ARW
+17,,2022-02-23 11:35:47,2022-02-18,ARW,Kerins Sean J,COO,F - Tax,$123.74,-1464,45156,-3%,"-$181,155",,,,,ARW
+18,,2022-02-23 11:32:54,2022-02-18,ARW,Seidlitz Richard A,Principal Accounting Officer,F - Tax,$123.74,-154,6138,-2%,"-$19,056",,,,,ARW
+19,D,2022-02-22 11:13:39,2022-02-18,ARW,Kerins Sean J,COO,M - OptEx,$41.56,8687,46620,+23%,"+$361,032",,,,,ARW
+20,D,2022-02-22 11:13:39,2022-02-18,ARW,Kerins Sean J,COO,S - Sale+OE,$123.08,-8687,46620,-16%,"-$1,069,170",,,,,ARW
+21,D,2022-02-22 11:12:04,2022-02-18,ARW,Kerins Sean J,COO,M - OptEx,$41.56,8687,46620,+23%,"+$361,032",,,,,ARW
+22,D,2022-02-22 11:12:04,2022-02-18,ARW,Kerins Sean J,COO,S - Sale+OE,$123.08,-8687,46620,-16%,"-$1,069,170",,,,,ARW
+23,,2022-02-22 10:06:28,2022-02-17,ARW,Gao Wei Victor Alejandro,"SVP, CMO",A - Grant,$0.00,3030,15951,+23%,+$0,,,,,ARW
+24,,2022-02-22 10:06:28,2022-02-17,ARW,Gao Wei Victor Alejandro,"SVP, CMO",F - Tax,$125.16,-1748,15951,-10%,"-$218,780",,,,,ARW
+25,,2022-02-22 10:04:57,2022-02-17,ARW,Jean-Claude Carine Lamercie,"SVP, GC",A - Grant,$0.00,1617,13478,+14%,+$0,,,,,ARW
+26,,2022-02-22 10:04:57,2022-02-17,ARW,Jean-Claude Carine Lamercie,"SVP, GC",F - Tax,$125.16,-814,13478,-6%,"-$101,880",,,,,ARW
+27,,2022-02-22 10:03:52,2022-02-17,ARW,Kerins Sean J,COO,A - Grant,$0.00,12123,46620,+35%,+$0,,,,,ARW
+28,,2022-02-22 10:03:52,2022-02-17,ARW,Kerins Sean J,COO,F - Tax,$125.16,-6514,46620,-12%,"-$815,292",,,,,ARW
+29,,2022-02-22 10:02:02,2022-02-17,ARW,Kostalnick Charles II,"SVP, Chief Supply Chain Offr",A - Grant,$0.00,6465,17276,+60%,+$0,,,,,ARW
+30,,2022-02-22 10:02:02,2022-02-17,ARW,Kostalnick Charles II,"SVP, Chief Supply Chain Offr",F - Tax,$125.16,-2218,17276,-11%,"-$277,605",,,,,ARW
+31,,2022-02-22 10:00:39,2022-02-17,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$0.00,48488,174753,+38%,+$0,,,,,ARW
+32,,2022-02-22 10:00:39,2022-02-17,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$125.16,-23261,174753,-12%,"-$2,911,347",,,,,ARW
+33,,2022-02-22 09:59:15,2022-02-17,ARW,Melvin Vincent P,"SVP, CIO",A - Grant,$0.00,10506,31908,+49%,+$0,,,,,ARW
+34,,2022-02-22 09:59:15,2022-02-17,ARW,Melvin Vincent P,"SVP, CIO",F - Tax,$125.16,-5301,31908,-14%,"-$663,473",,,,,ARW
+35,,2022-02-22 09:58:04,2022-02-17,ARW,Russell Kristin Diana,"Pres, Global ECS",A - Grant,$0.00,4848,20209,+32%,+$0,,,,,ARW
+36,,2022-02-22 09:58:04,2022-02-17,ARW,Russell Kristin Diana,"Pres, Global ECS",F - Tax,$125.16,-2665,20209,-12%,"-$333,551",,,,,ARW
+37,,2022-02-22 09:56:45,2022-02-17,ARW,Stansbury Christopher,"SVP, CFO",A - Grant,$0.00,12930,26649,+94%,+$0,,,,,ARW
+38,,2022-02-22 09:56:45,2022-02-17,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$125.16,-5442,26649,-17%,"-$681,121",,,,,ARW
+39,,2022-02-22 09:50:42,2022-02-17,ARW,West David Alan,"Pres, Global Components",A - Grant,$0.00,5253,18672,+39%,+$0,,,,,ARW
+40,,2022-02-22 09:50:42,2022-02-17,ARW,West David Alan,"Pres, Global Components",F - Tax,$125.16,-2946,18672,-14%,"-$368,721",,,,,ARW
+41,,2022-02-22 09:49:32,2022-02-17,ARW,Zech Gretchen,"SVP, Chief Gov, Sust, HR Offr",A - Grant,$0.00,10506,23292,+82%,+$0,,,,,ARW
+42,,2022-02-22 09:49:32,2022-02-17,ARW,Zech Gretchen,"SVP, Chief Gov, Sust, HR Offr",F - Tax,$125.16,-5301,23292,-19%,"-$663,473",,,,,ARW
+43,,2022-02-22 09:45:29,2022-02-17,ARW,Seidlitz Richard A,Principal Accounting Officer,A - Grant,$0.00,1212,6292,+24%,+$0,,,,,ARW
+44,,2022-02-22 09:45:29,2022-02-17,ARW,Seidlitz Richard A,Principal Accounting Officer,F - Tax,$125.16,-641,6292,-9%,"-$80,228",,,,,ARW
+45,,2022-02-18 17:56:22,2022-02-16,ARW,Seidlitz Richard A,Principal Accounting Officer,A - Grant,$127.70,2507,5721,+78%,"+$320,144",,,,,ARW
+46,,2022-02-17 19:14:00,2022-02-16,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$127.70,23493,149526,+19%,"+$3,000,056",,,,,ARW
+47,,2022-02-17 19:11:56,2022-02-16,ARW,Kerins Sean J,COO,A - Grant,$127.70,9005,41011,+28%,"+$1,149,939",,,,,ARW
+48,,2022-02-17 19:10:02,2022-02-16,ARW,Zech Gretchen,"SVP, Chief Gov, Sust, HR Offr",A - Grant,$127.70,5874,18087,+48%,"+$750,110",,,,,ARW
+49,,2022-02-17 19:08:53,2022-02-16,ARW,Melvin Vincent P,"SVP, CIO",A - Grant,$127.70,5091,26703,+24%,"+$650,121",,,,,ARW
+50,,2022-02-17 19:06:54,2022-02-16,ARW,West David Alan,"Pres, Global Components",A - Grant,$127.70,5091,16365,+45%,"+$650,121",,,,,ARW
+51,,2022-02-17 19:04:14,2022-02-16,ARW,Russell Kristin Diana,"Pres, Global ECS",A - Grant,$127.70,4699,18026,+35%,"+$600,062",,,,,ARW
+52,,2022-02-17 19:02:21,2022-02-16,ARW,Kostalnick Charles II,"SVP, Chief Supply Chain Offr",A - Grant,$127.70,3524,13029,+37%,"+$450,015",,,,,ARW
+53,,2022-02-17 18:59:25,2022-02-16,ARW,Gao Wei Victor Alejandro,"SVP, CMO",A - Grant,$127.70,3133,14669,+27%,"+$400,084",,,,,ARW
+54,,2022-02-17 18:57:19,2022-02-16,ARW,Jean-Claude Carine Lamercie,"SVP, GC",A - Grant,$127.70,2741,12675,+28%,"+$350,026",,,,,ARW
+55,D,2021-11-30 14:29:44,2021-11-29,ARW,Melvin Vincent P,CIO,M - OptEx,$73.86,8748,21677,+68%,"+$646,127",,,,,ARW
+56,D,2021-11-30 14:29:44,2021-11-29,ARW,Melvin Vincent P,CIO,S - Sale+OE,$124.26,-8748,21677,-29%,"-$1,086,981",,,,,ARW
+57,,2021-11-09 14:32:43,2021-11-08,ARW,Kostalnick Charles II,Chief Supply Chain Officer,G - Gift,$0.00,-412,9505,-4%,-$0,,,,,ARW
+58,,2021-11-09 14:32:43,2021-11-05,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale,$122.45,-3000,9505,-24%,"-$367,350",,,,,ARW
+59,,2021-08-30 14:41:18,2021-08-27,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale,$122.91,-8000,12213,-40%,"-$983,280",,,,,ARW
+60,DM,2021-08-27 11:42:33,2019-02-19,ARW,Seidlitz Richard A,Principal Accounting Officer,A - Grant,$0.00,4180,3214,-433%,+$0,,,,,ARW
+61,DM,2021-08-27 11:42:33,2019-02-20,ARW,Seidlitz Richard A,Principal Accounting Officer,F - Tax,$91.72,-1475,3214,-31%,"-$135,284",,,,,ARW
+62,DM,2021-08-27 11:42:33,2021-02-12,ARW,Seidlitz Richard A,Principal Accounting Officer,S - Sale+OE,$107.51,-666,3214,-17%,"-$71,598",,,,,ARW
+63,D,2021-08-26 17:57:55,2021-08-25,ARW,Stansbury Christopher,"SVP, CFO",M - OptEx,$68.23,4200,19161,+28%,"+$286,551",,,,,ARW
+64,D,2021-08-26 17:57:55,2021-08-25,ARW,Stansbury Christopher,"SVP, CFO",S - Sale+OE,$121.43,-11238,19161,-37%,"-$1,364,676",,,,,ARW
+65,D,2021-08-25 16:00:45,2021-08-24,ARW,Melvin Vincent P,CIO,M - OptEx,$56.43,9672,21612,+81%,"+$545,791",,,,,ARW
+66,D,2021-08-25 16:00:45,2021-08-24,ARW,Melvin Vincent P,CIO,S - Sale+OE,$119.34,-9672,21612,-31%,"-$1,154,295",,,,,ARW
+67,D,2021-08-24 16:01:33,2021-08-20,ARW,Jean-Claude Carine Lamercie,"SVP, GC",M - OptEx,$49.45,4119,9934,+71%,"+$203,667",,,,,ARW
+68,D,2021-08-24 16:01:33,2021-08-20,ARW,Jean-Claude Carine Lamercie,"SVP, GC",S - Sale+OE,$117.47,-4119,9934,-29%,"-$483,870",,,,,ARW
+69,,2021-08-11 17:17:43,2021-08-09,ARW,Kerins Sean J,COO,G - Gift,$0.00,-425,32006,-1%,-$0,,,,,ARW
+70,,2021-08-09 16:05:38,2021-08-06,ARW,Hamilton Gail,Dir,S - Sale,$119.22,-2900,101,-97%,"-$345,738",,,,,ARW
+71,,2021-05-27 17:35:56,2021-05-26,ARW,Kerin Andrew Charles,Dir,S - Sale,$122.28,-7348,0,-100%,"-$898,513",,,,,ARW
+72,,2021-05-20 17:58:51,2021-05-20,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$120.59,-55638,126033,-31%,"-$6,709,219",,,,,ARW
+73,,2021-05-20 16:03:10,2021-05-18,ARW,Melvin Vincent P,CIO,S - Sale,$120.02,-7368,21743,-25%,"-$884,307",,,,,ARW
+74,,2021-05-18 16:30:19,2021-05-17,ARW,Kerins Sean J,COO,S - Sale,$120.93,-128,32431,0%,"-$15,438",,,,,ARW
+75,D,2021-05-17 16:51:40,2021-05-13,ARW,Kerin Andrew Charles,Dir,M - OptEx,$116.34,2894,7349,+65%,"+$336,632",,,,,ARW
+76,D,2021-05-17 16:50:58,2021-05-13,ARW,Krzeminski Laurel J,Dir,M - OptEx,$116.34,2894,3894,+289%,"+$336,632",,,,,ARW
+77,D,2021-05-17 16:50:29,2021-05-13,ARW,Hamilton Gail,Dir,M - OptEx,$116.34,2894,3001,>999%,"+$336,632",,,,,ARW
+78,D,2021-05-17 16:49:27,2021-05-13,ARW,Hill Richard,Dir,M - OptEx,$116.34,2894,2894,>999%,"+$336,632",,,,,ARW
+79,,2021-05-13 18:28:35,2021-05-13,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale,$116.28,-1500,12917,-10%,"-$174,425",,,,,ARW
+80,D,2021-05-13 16:49:24,2021-05-11,ARW,Melvin Vincent P,CIO,M - OptEx,$59.51,13303,29111,+84%,"+$791,665",,,,,ARW
+81,D,2021-05-13 16:49:24,2021-05-11,ARW,Melvin Vincent P,CIO,S - Sale+OE,$115.57,-13303,29111,-31%,"-$1,537,410",,,,,ARW
+82,D,2021-05-13 16:45:25,2021-05-11,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$78.79,128184,181671,+240%,"+$10,099,002",,,,,ARW
+83,D,2021-05-13 16:45:25,2021-05-11,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$115.55,-128184,181671,-41%,"-$14,811,496",,,,,ARW
+84,,2021-05-11 09:27:00,2021-05-07,ARW,Gao Wei Victor Alejandro,"SVP, CMO",F - Tax,$117.50,-91,11536,-1%,"-$10,693",,,,,ARW
+85,,2021-05-11 09:25:33,2021-05-07,ARW,West David Alan,"Pres, Global Components",S - Sale,$117.05,-1073,12402,-8%,"-$125,595",,,,,ARW
+86,,2021-03-15 18:56:09,2021-03-12,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$105.27,-1951,26199,-7%,"-$205,382",,,,,ARW
+87,,2021-03-01 17:54:46,2021-02-25,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$98.03,-3089,181671,-2%,"-$302,813",,,,,ARW
+88,D,2021-02-25 18:45:38,2021-02-24,ARW,West David Alan,"Pres, Global Components",M - OptEx,$67.97,6606,13475,+96%,"+$449,015",,,,,ARW
+89,D,2021-02-25 18:45:38,2021-02-24,ARW,West David Alan,"Pres, Global Components",S - Sale+OE,$102.58,-11326,13475,-46%,"-$1,161,771",,,,,ARW
+90,AD,2021-02-25 16:01:22,2021-02-19,ARW,Zech Gretchen,"SVP, Chief HR Off",M - OptEx,$58.45,42834,20213,-189%,"+$2,503,835",,,,,ARW
+91,AD,2021-02-25 16:01:22,2021-02-19,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale+OE,$104.76,-44092,20213,-69%,"-$4,619,152",,,,,ARW
+92,,2021-02-24 17:27:32,2021-02-23,ARW,Stansbury Christopher,"SVP, CFO",S - Sale,$99.96,-12500,28150,-31%,"-$1,249,500",,,,,ARW
+93,D,2021-02-22 16:26:26,2021-02-19,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$105.35,-1056,20385,-5%,"-$111,250",,,,,ARW
+94,D,2021-02-22 16:26:26,2021-02-19,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$64.43,50234,20385,-168%,"+$3,236,717",,,,,ARW
+95,D,2021-02-22 16:26:26,2021-02-19,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$105.64,-57234,20385,-74%,"-$6,046,218",,,,,ARW
+96,D,2021-02-22 16:23:50,2021-02-19,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$105.35,-1577,18636,-8%,"-$166,137",,,,,ARW
+97,D,2021-02-22 16:23:50,2021-02-19,ARW,Zech Gretchen,"SVP, Chief HR Off",M - OptEx,$58.45,42834,18636,-177%,"+$2,503,835",,,,,ARW
+98,D,2021-02-22 16:23:50,2021-02-19,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale+OE,$104.76,-44092,18636,-70%,"-$4,619,152",,,,,ARW
+99,,2021-02-22 16:21:54,2021-02-19,ARW,Gao Wei Victor Alejandro,"SVP, CMO",F - Tax,$105.35,-298,11627,-2%,"-$31,394",,,,,ARW
+100,,2021-02-22 16:19:14,2021-02-19,ARW,Kerins Sean J,COO,F - Tax,$105.35,-1892,32622,-5%,"-$199,322",,,,,ARW
+101,,2021-02-22 16:17:07,2021-02-19,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$105.35,-897,14417,-6%,"-$94,499",,,,,ARW
+102,,2021-02-22 16:15:32,2021-02-19,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$105.35,-14331,184761,-7%,"-$1,509,771",,,,,ARW
+103,,2021-02-22 16:13:45,2021-02-19,ARW,Melvin Vincent P,CIO,F - Tax,$105.35,-1454,29176,-5%,"-$153,179",,,,,ARW
+104,,2021-02-22 16:11:14,2021-02-19,ARW,Russell Kristin Diana,"Pres, Global ECS",F - Tax,$105.35,-744,13327,-5%,"-$78,380",,,,,ARW
+105,,2021-02-22 16:03:31,2021-02-19,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$105.35,-1885,40650,-4%,"-$198,585",,,,,ARW
+106,,2021-02-22 16:02:17,2021-02-19,ARW,West David Alan,"Pres, Global Components",F - Tax,$105.35,-1166,18195,-6%,"-$122,838",,,,,ARW
+107,M,2021-02-19 16:20:31,2021-02-17,ARW,Gao Wei Victor Alejandro,"SVP, CMO",A - Grant,$59.99,6251,11925,+110%,"+$375,022",,,,,ARW
+108,,2021-02-19 16:20:31,2021-02-18,ARW,Gao Wei Victor Alejandro,"SVP, CMO",F - Tax,$103.34,-790,11925,-6%,"-$81,639",,,,,ARW
+109,M,2021-02-19 16:18:37,2021-02-17,ARW,Kerins Sean J,COO,A - Grant,$58.20,19760,34514,+134%,"+$1,149,988",,,,,ARW
+110,,2021-02-19 16:18:37,2021-02-18,ARW,Kerins Sean J,COO,F - Tax,$103.34,-3948,34514,-10%,"-$407,986",,,,,ARW
+111,M,2021-02-19 16:14:47,2021-02-17,ARW,Kostalnick Charles II,Chief Supply Chain Officer,A - Grant,$51.68,8707,15314,+132%,"+$450,005",,,,,ARW
+112,,2021-02-19 16:14:47,2021-02-18,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$103.34,-1968,15314,-11%,"-$203,373",,,,,ARW
+113,M,2021-02-19 16:13:06,2021-02-17,ARW,Stansbury Christopher,"SVP, CFO",A - Grant,$49.60,16131,42535,+61%,"+$800,103",,,,,ARW
+114,,2021-02-19 16:13:06,2021-02-18,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$103.34,-2501,42535,-6%,"-$258,453",,,,,ARW
+115,M,2021-02-19 16:11:25,2021-02-17,ARW,West David Alan,"Pres, Global Components",A - Grant,$61.41,9771,19361,+102%,"+$600,077",,,,,ARW
+116,,2021-02-19 16:11:25,2021-02-18,ARW,West David Alan,"Pres, Global Components",F - Tax,$103.34,-1847,19361,-9%,"-$190,869",,,,,ARW
+117,M,2021-02-19 16:09:59,2021-02-17,ARW,Russell Kristin Diana,"Pres, Global ECS",A - Grant,$56.62,8832,14071,+169%,"+$500,064",,,,,ARW
+118,,2021-02-19 16:09:59,2021-02-18,ARW,Russell Kristin Diana,"Pres, Global ECS",F - Tax,$103.34,-1846,14071,-12%,"-$190,766",,,,,ARW
+119,M,2021-02-19 16:08:40,2021-02-17,ARW,Melvin Vincent P,CIO,A - Grant,$52.81,12308,30630,+67%,"+$650,031",,,,,ARW
+120,,2021-02-19 16:08:40,2021-02-18,ARW,Melvin Vincent P,CIO,F - Tax,$103.34,-2724,30630,-8%,"-$281,498",,,,,ARW
+121,M,2021-02-19 16:06:21,2021-02-17,ARW,Morris Mary Catherine,Chief Strategy Officer,A - Grant,$19.88,22633,28441,+390%,"+$450,005",,,,,ARW
+122,,2021-02-19 16:06:21,2021-02-18,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$103.34,-8043,28441,-22%,"-$831,164",,,,,ARW
+123,DM,2021-02-19 16:04:53,2021-02-17,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$43.14,69533,199092,+54%,"+$2,999,961",,,,,ARW
+124,D,2021-02-19 16:04:53,2021-02-18,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$103.34,-17007,199092,-8%,"-$1,757,503",,,,,ARW
+125,D,2021-02-19 16:04:53,2021-02-18,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$65.57,97249,199092,+95%,"+$6,376,561",,,,,ARW
+126,D,2021-02-19 16:04:53,2021-02-18,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$103.34,-97249,199092,-33%,"-$10,049,712",,,,,ARW
+127,M,2021-02-19 16:03:22,2021-02-17,ARW,Zech Gretchen,"SVP, Chief HR Off",A - Grant,$50.01,12997,21471,+153%,"+$650,031",,,,,ARW
+128,,2021-02-19 16:03:22,2021-02-18,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$103.34,-3054,21471,-12%,"-$315,600",,,,,ARW
+129,D,2021-02-16 19:21:05,2021-02-12,ARW,Kostalnick Charles II,Chief Supply Chain Officer,M - OptEx,$66.63,26060,8575,-149%,"+$1,736,378",,,,,ARW
+130,D,2021-02-16 19:21:05,2021-02-12,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale+OE,$104.38,-26060,8575,-75%,"-$2,720,174",,,,,ARW
+131,D,2021-02-16 19:20:19,2021-02-12,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$56.71,1500,13851,+12%,"+$85,065",,,,,ARW
+132,D,2021-02-16 19:20:19,2021-02-12,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$103.62,-1500,13851,-10%,"-$155,423",,,,,ARW
+133,D,2021-02-16 19:19:40,2021-02-12,ARW,Melvin Vincent P,CIO,M - OptEx,$41.56,8292,21046,+65%,"+$344,616",,,,,ARW
+134,D,2021-02-16 19:19:40,2021-02-12,ARW,Melvin Vincent P,CIO,S - Sale+OE,$103.42,-13883,21046,-40%,"-$1,435,801",,,,,ARW
+135,D,2021-02-16 16:05:14,2021-02-12,ARW,Gao Wei Victor Alejandro,"SVP, CMO",M - OptEx,$68.46,5731,6464,+782%,"+$392,349",,,,,ARW
+136,D,2021-02-16 16:05:14,2021-02-12,ARW,Gao Wei Victor Alejandro,"SVP, CMO",S - Sale+OE,$104.34,-8546,6464,-57%,"-$891,696",,,,,ARW
+137,,2020-11-20 16:45:54,2020-11-18,ARW,Melvin Vincent P,CIO,S - Sale,$89.10,-3616,26637,-12%,"-$322,186",,,,,ARW
+138,,2020-11-18 16:23:56,2020-11-16,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale,$87.85,-3300,8575,-28%,"-$289,905",,,,,ARW
+139,,2020-11-18 16:22:25,2020-11-16,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$87.93,-53768,146566,-27%,"-$4,727,820",,,,,ARW
+140,,2020-11-16 16:20:03,2020-11-12,ARW,King Andrew,"Pres, Global Components",S - Sale,$84.79,-2338,52721,-4%,"-$198,232",,,,,ARW
+141,,2020-11-13 16:50:36,2020-11-11,ARW,Hill Richard,Dir,S - Sale,$86.10,-11300,0,-100%,"-$972,953",,,,,ARW
+142,D,2020-11-13 16:48:47,2020-11-11,ARW,Melvin Vincent P,CIO,M - OptEx,$40.15,8625,30253,+40%,"+$346,294",,,,,ARW
+143,D,2020-11-13 16:48:47,2020-11-11,ARW,Melvin Vincent P,CIO,S - Sale+OE,$85.88,-8625,30253,-22%,"-$740,698",,,,,ARW
+144,D,2020-11-12 16:50:53,2020-11-10,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$56.43,81840,200334,+69%,"+$4,618,231",,,,,ARW
+145,DM,2020-11-12 16:50:53,2020-11-09,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$86.19,-140006,200334,-41%,"-$12,067,112",,,,,ARW
+146,A,2020-11-10 12:21:58,2020-11-06,ARW,Stansbury Christopher,"SVP, CFO",S - Sale,$84.21,-6000,28905,-17%,"-$505,260",,,,,ARW
+147,,2020-11-10 12:05:35,2020-11-06,ARW,Hamilton Gail,Dir,S - Sale,$83.86,-2400,107,-96%,"-$201,264",,,,,ARW
+148,,2020-11-09 17:04:44,2020-11-06,ARW,Stansbury Christopher,"SVP, CFO",D - Sale to issuer,$84.21,-6000,28905,-17%,"-$505,260",,,,,ARW
+149,,2020-11-04 17:36:21,2020-11-03,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$81.18,-4749,18702,-20%,"-$385,524",,,,,ARW
+150,,2020-08-31 19:00:42,2020-08-31,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$78.57,-68834,258500,-21%,"-$5,408,287",,,,,ARW
+151,,2020-08-07 10:43:19,2020-08-06,ARW,Hughes Lily Yan,"SVP, GC",S - Sale,$75.08,-2126,23410,-8%,"-$159,609",,,,,ARW
+152,,2020-08-06 16:24:43,2020-08-05,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$74.54,-6270,23451,-21%,"-$467,366",,,,,ARW
+153,,2020-07-02 17:28:11,2020-07-01,ARW,Hughes Lily Yan,"SVP, GC",F - Tax,$65.92,-4760,25536,-16%,"-$313,779",,,,,ARW
+154,,2020-06-30 13:38:50,2020-06-26,ARW,Kerins Sean J,"Pres, Global ECS",G - Gift,$0.00,-760,29721,-2%,-$0,,,,,ARW
+155,,2020-05-29 11:14:50,2020-05-28,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$69.47,-1801,13851,-12%,"-$125,115",,,,,ARW
+156,,2020-05-26 16:25:17,2020-05-08,ARW,Gao Wei Victor Alejandro,"SVP, CMO",F - Tax,$65.46,-60,9279,-1%,"-$3,928",,,,,ARW
+157,D,2020-05-26 16:22:27,2020-05-21,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$39.61,13801,30481,+83%,"+$546,673",,,,,ARW
+158,D,2020-05-26 16:22:27,2020-05-21,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale+OE,$67.88,-13801,30481,-31%,"-$936,799",,,,,ARW
+159,,2020-05-26 11:32:33,2020-05-21,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale,$67.41,-8400,11528,-42%,"-$566,213",,,,,ARW
+160,D,2020-05-21 19:31:46,2020-05-20,ARW,Melvin Vincent P,CIO,M - OptEx,$38.69,8914,30057,+42%,"+$344,883",,,,,ARW
+161,D,2020-05-21 19:31:46,2020-05-20,ARW,Melvin Vincent P,CIO,S - Sale+OE,$67.67,-8914,30057,-23%,"-$603,209",,,,,ARW
+162,D,2020-05-15 13:10:35,2020-05-08,ARW,Hamilton Gail,Dir,M - OptEx,$65.46,2471,2507,>999%,"+$161,755",,,,,ARW
+163,D,2020-05-15 13:07:46,2020-05-08,ARW,Hill Richard,Dir,M - OptEx,$65.46,2471,11300,+28%,"+$161,755",,,,,ARW
+164,D,2020-05-15 13:05:25,2020-05-08,ARW,Kerin Andrew Charles,Dir,M - OptEx,$65.46,2471,4455,+125%,"+$161,755",,,,,ARW
+165,D,2020-05-15 13:03:01,2020-05-08,ARW,Krzeminski Laurel J,Dir,M - OptEx,$65.46,1001,1001,New,"+$65,511",,,,,ARW
+166,,2020-05-15 12:30:52,2020-05-14,ARW,Kostalnick Charles II,Chief Supply Chain Officer,P - Purchase,$60.62,412,11875,+4%,"+$24,977",,,,,ARW
+167,,2020-05-13 14:44:49,2020-05-11,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$64.24,-3622,34905,-9%,"-$232,677",,,,,ARW
+168,,2020-05-11 17:13:03,2020-05-08,ARW,Morris Mary Catherine,Chief Strategy Officer,D - Sale to issuer,$64.44,-5825,15652,-27%,"-$375,334",,,,,ARW
+169,,2020-03-16 16:12:27,2020-03-12,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$52.90,-1954,38527,-5%,"-$103,367",,,,,ARW
+170,AD,2020-02-27 16:10:01,2020-02-19,ARW,Kostalnick Charles II,Chief Supply Chain Officer,A - Grant,$79.22,2525,10434,+32%,"+$200,031",,,,,ARW
+171,,2020-02-25 10:57:51,2020-02-21,ARW,Melvin Vincent P,CIO,F - Tax,$77.99,-578,30253,-2%,"-$45,078",,,,,ARW
+172,,2020-02-25 10:55:28,2020-02-21,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$77.99,-651,21477,-3%,"-$50,771",,,,,ARW
+173,,2020-02-25 10:53:15,2020-02-21,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$77.99,-359,40481,-1%,"-$27,998",,,,,ARW
+174,,2020-02-25 10:49:00,2020-02-21,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$77.99,-4584,19928,-19%,"-$357,506",,,,,ARW
+175,,2020-02-25 10:46:42,2020-02-21,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$77.99,-4650,327334,-1%,"-$362,654",,,,,ARW
+176,,2020-02-25 10:39:07,2020-02-21,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$77.99,-131,11463,-1%,"-$10,217",,,,,ARW
+177,,2020-02-25 10:37:30,2020-02-21,ARW,King Andrew,"Pres, Global Components",F - Tax,$77.99,-4794,55059,-8%,"-$373,884",,,,,ARW
+178,,2020-02-25 10:35:52,2020-02-21,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$77.99,-915,30481,-3%,"-$71,361",,,,,ARW
+179,,2020-02-25 10:33:51,2020-02-21,ARW,Gao Wei Victor Alejandro,"SVP, CMO",F - Tax,$77.99,-84,9339,-1%,"-$6,551",,,,,ARW
+180,,2020-02-24 10:56:53,2020-02-20,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$80.00,-2742,22128,-11%,"-$219,360",,,,,ARW
+181,,2020-02-24 10:56:53,2020-02-20,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$80.00,6337,22128,+40%,"+$506,960",,,,,ARW
+182,,2020-02-21 18:32:22,2020-02-20,ARW,Gao Wei Victor Alejandro,"SVP, CMO",F - Tax,$80.00,-361,9423,-4%,"-$28,880",,,,,ARW
+183,,2020-02-21 18:32:22,2020-02-20,ARW,Gao Wei Victor Alejandro,"SVP, CMO",M - OptEx,$80.00,1056,9423,+13%,"+$84,480",,,,,ARW
+184,,2020-02-21 18:31:01,2020-02-20,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$80.00,-3997,31396,-11%,"-$319,760",,,,,ARW
+185,,2020-02-21 18:31:01,2020-02-20,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$80.00,8096,31396,+35%,"+$647,680",,,,,ARW
+186,,2020-02-21 18:29:33,2020-02-20,ARW,King Andrew,"Pres, Global Components",F - Tax,$80.00,-3827,59853,-6%,"-$306,160",,,,,ARW
+187,,2020-02-21 18:29:33,2020-02-20,ARW,King Andrew,"Pres, Global Components",M - OptEx,$80.00,7745,59853,+15%,"+$619,600",,,,,ARW
+188,,2020-02-21 18:28:10,2020-02-20,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$80.00,-1304,11594,-10%,"-$104,320",,,,,ARW
+189,,2020-02-21 18:28:10,2020-02-20,ARW,Kostalnick Charles II,Chief Supply Chain Officer,M - OptEx,$80.00,2464,11594,+27%,"+$197,120",,,,,ARW
+190,,2020-02-21 18:27:02,2020-02-20,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$80.00,-26121,331984,-7%,"-$2,089,680",,,,,ARW
+191,,2020-02-21 18:27:02,2020-02-20,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$80.00,42242,331984,+15%,"+$3,379,360",,,,,ARW
+192,,2020-02-21 18:25:56,2020-02-20,ARW,Melvin Vincent P,CIO,F - Tax,$80.00,-2467,30831,-7%,"-$197,360",,,,,ARW
+193,,2020-02-21 18:25:56,2020-02-20,ARW,Melvin Vincent P,CIO,M - OptEx,$80.00,4929,30831,+19%,"+$394,320",,,,,ARW
+194,,2020-02-21 18:24:24,2020-02-20,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$80.00,-2318,40840,-5%,"-$185,440",,,,,ARW
+195,,2020-02-21 18:24:24,2020-02-20,ARW,Stansbury Christopher,"SVP, CFO",M - OptEx,$80.00,7041,40840,+21%,"+$563,280",,,,,ARW
+196,,2020-02-21 18:23:12,2020-02-20,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$80.00,-3243,24512,-12%,"-$259,440",,,,,ARW
+197,,2020-02-21 18:23:12,2020-02-20,ARW,Zech Gretchen,"SVP, Chief HR Off",M - OptEx,$80.00,6618,24512,+37%,"+$529,440",,,,,ARW
+198,,2020-02-21 13:34:42,2020-02-19,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$79.22,18935,315863,+6%,"+$1,500,031",,,,,ARW
+199,D,2020-02-21 13:33:29,2020-02-19,ARW,Stansbury Christopher,"SVP, CFO",A - Grant,$79.22,5050,36117,+16%,"+$400,061",,,,,ARW
+200,D,2020-02-21 13:32:02,2020-02-19,ARW,Kerins Sean J,"Pres, Global ECS",A - Grant,$79.22,4734,27297,+21%,"+$375,027",,,,,ARW
+201,D,2020-02-21 13:30:37,2020-02-19,ARW,King Andrew,"Pres, Global Components",A - Grant,$79.22,4734,55935,+9%,"+$375,027",,,,,ARW
+202,D,2020-02-21 13:29:27,2020-02-19,ARW,Zech Gretchen,"SVP, Chief HR Off",A - Grant,$79.22,4102,21137,+24%,"+$324,960",,,,,ARW
+203,D,2020-02-21 13:28:14,2020-02-19,ARW,Melvin Vincent P,CIO,A - Grant,$79.22,4102,28369,+17%,"+$324,960",,,,,ARW
+204,D,2020-02-21 13:27:01,2020-02-19,ARW,Morris Mary Catherine,Chief Strategy Officer,A - Grant,$79.22,2840,18533,+18%,"+$224,985",,,,,ARW
+205,D,2020-02-21 13:25:26,2020-02-19,ARW,Hughes Lily Yan,"SVP, GC",A - Grant,$79.22,2525,30296,+9%,"+$200,031",,,,,ARW
+206,D,2020-02-21 13:24:01,2020-02-19,ARW,Kostalnick Charles II,Chief Supply Chain Officer,A - Grant,$79.22,2525,10434,+32%,"+$200,031",,,,,ARW
+207,D,2020-02-21 13:22:39,2020-02-19,ARW,Gao Wei Victor Alejandro,"SVP, CMO",A - Grant,$79.22,2052,8728,+31%,"+$162,559",,,,,ARW
+208,,2020-02-20 16:50:43,2020-02-19,ARW,King Andrew,"Pres, Global Components",F - Tax,$79.22,-523,51201,-1%,"-$41,432",,,,,ARW
+209,,2020-02-20 16:49:13,2020-02-19,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$79.22,-305,7909,-4%,"-$24,162",,,,,ARW
+210,,2020-02-20 16:47:36,2020-02-19,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$79.22,-1233,296928,0%,"-$97,678",,,,,ARW
+211,,2020-02-20 16:44:59,2020-02-19,ARW,Melvin Vincent P,CIO,F - Tax,$79.22,-477,24267,-2%,"-$37,788",,,,,ARW
+212,,2020-02-20 16:43:05,2020-02-19,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$79.22,-257,15693,-2%,"-$20,360",,,,,ARW
+213,,2020-02-20 16:40:04,2020-02-19,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$79.22,-477,17035,-3%,"-$37,788",,,,,ARW
+214,,2020-02-20 16:36:54,2020-02-19,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$79.22,-366,31067,-1%,"-$28,995",,,,,ARW
+215,,2020-02-20 16:33:33,2020-02-19,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$79.22,-522,22563,-2%,"-$41,353",,,,,ARW
+216,,2020-02-20 16:26:50,2020-02-19,ARW,Gao Wei Victor Alejandro,"SVP, CMO",F - Tax,$79.22,-100,6676,-1%,"-$7,922",,,,,ARW
+217,,2019-11-26 11:04:06,2019-11-25,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$80.45,-60122,295071,-17%,"-$4,836,815",,,,,ARW
+218,,2019-11-12 17:27:09,2019-11-08,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale,$81.57,-12453,17512,-42%,"-$1,015,791",,,,,ARW
+219,,2019-11-12 14:31:39,2019-11-08,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$81.44,-13061,22894,-36%,"-$1,063,688",,,,,ARW
+220,D,2019-11-12 14:24:24,2019-11-08,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$80.00,-2700,14031,-16%,"-$216,000",,,,,ARW
+221,,2019-11-12 14:18:24,2019-11-08,ARW,Hamilton Gail,Dir,S - Sale,$81.45,-1950,36,-98%,"-$158,828",,,,,ARW
+222,D,2019-08-21 17:15:21,2019-08-19,ARW,Stansbury Christopher,"SVP, CFO",M - OptEx,$60.61,34450,31433,-1142%,"+$2,087,998",,,,,ARW
+223,D,2019-08-21 17:15:21,2019-08-19,ARW,Stansbury Christopher,"SVP, CFO",S - Sale+OE,$68.87,-57550,31433,-65%,"-$3,963,289",,,,,ARW
+224,,2019-08-19 12:02:23,2019-08-16,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale,$68.11,-3200,8214,-28%,"-$217,952",,,,,ARW
+225,,2019-08-02 17:42:58,2019-08-01,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$71.91,-2200,11414,-16%,"-$158,202",,,,,ARW
+226,,2019-07-02 15:23:47,2019-07-01,ARW,Hughes Lily Yan,"SVP, GC",A - Grant,$72.02,27771,27771,New,"+$2,000,067",,,,,ARW
+227,D,2019-05-13 17:06:48,2019-05-09,ARW,Hill Richard,Dir,M - OptEx,$75.62,1984,8829,+29%,"+$150,000",,,,,ARW
+228,D,2019-05-13 17:01:58,2019-05-09,ARW,Hamilton Gail,Dir,M - OptEx,$75.62,1984,1986,>999%,"+$150,000",,,,,ARW
+229,D,2019-05-13 17:00:08,2019-05-09,ARW,Kerin Andrew Charles,Dir,M - OptEx,$75.62,1984,1984,>999%,"+$150,000",,,,,ARW
+230,D,2019-05-09 11:49:02,2019-05-08,ARW,King Andrew,"Pres, Global Components",F - Tax,$72.54,-21341,51724,-29%,"-$1,548,087",,,,,ARW
+231,D,2019-05-09 11:49:02,2019-05-08,ARW,King Andrew,"Pres, Global Components",M - OptEx,$52.34,21341,51724,+70%,"+$1,116,959",,,,,ARW
+232,,2019-03-13 10:52:25,2019-03-12,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$77.95,-1935,54533,-3%,"-$150,833",,,,,ARW
+233,,2019-02-27 13:01:17,2019-02-26,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$81.64,-5286,35955,-13%,"-$431,549",,,,,ARW
+234,D,2019-02-27 12:59:58,2019-02-26,ARW,Melvin Vincent P,CIO,F - Tax,$81.75,-12521,24744,-34%,"-$1,023,592",,,,,ARW
+235,D,2019-02-27 12:59:58,2019-02-26,ARW,Melvin Vincent P,CIO,M - OptEx,$28.34,12521,24744,+102%,"+$354,845",,,,,ARW
+236,D,2019-02-27 12:56:20,2019-02-26,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$81.43,-35403,358283,-9%,"-$2,882,878",,,,,ARW
+237,DM,2019-02-27 12:56:20,2019-02-25,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$56.71,61238,358283,+21%,"+$3,472,807",,,,,ARW
+238,D,2019-02-27 12:56:20,2019-02-25,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$82.19,-25835,358283,-7%,"-$2,123,379",,,,,ARW
+239,,2019-02-26 10:39:51,2019-02-22,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$81.94,-416,16731,-2%,"-$34,087",,,,,ARW
+240,,2019-02-26 10:38:23,2019-02-22,ARW,Melvin Vincent P,CIO,F - Tax,$81.94,-308,24548,-1%,"-$25,238",,,,,ARW
+241,,2019-02-26 10:35:52,2019-02-22,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$81.94,-113,17200,-1%,"-$9,259",,,,,ARW
+242,,2019-02-26 10:34:34,2019-02-22,ARW,King Andrew,"Pres, Global Components",F - Tax,$81.94,-487,51724,-1%,"-$39,905",,,,,ARW
+243,,2019-02-26 10:33:05,2019-02-22,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$81.94,-193,23074,-1%,"-$15,814",,,,,ARW
+244,,2019-02-26 10:31:52,2019-02-22,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$81.94,-337,29965,-1%,"-$27,614",,,,,ARW
+245,,2019-02-26 10:30:37,2019-02-22,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$81.94,-487,41241,-1%,"-$39,905",,,,,ARW
+246,,2019-02-26 10:29:17,2019-02-22,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$81.94,-111,56468,0%,"-$9,095",,,,,ARW
+247,,2019-02-26 10:25:03,2019-02-22,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$81.94,-2536,355193,-1%,"-$207,800",,,,,ARW
+248,,2019-02-25 17:18:21,2019-02-25,ARW,Hamilton Gail,Dir,S - Sale,$81.91,-2043,2,-100%,"-$167,342",,,,,ARW
+249,,2019-02-25 16:43:01,2019-02-22,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$81.84,-7108,17147,-29%,"-$581,719",,,,,ARW
+250,,2019-02-25 16:40:17,2019-02-21,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$81.77,-4653,30302,-13%,"-$380,476",,,,,ARW
+251,,2019-02-25 16:40:17,2019-02-21,ARW,Zech Gretchen,"SVP, Chief HR Off",M - OptEx,$81.77,9782,30302,+48%,"+$799,874",,,,,ARW
+252,,2019-02-25 16:38:51,2019-02-21,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$81.77,-2608,23267,-10%,"-$213,256",,,,,ARW
+253,,2019-02-25 16:38:51,2019-02-21,ARW,Tarpinian Gregory,"SVP, GC",M - OptEx,$81.77,8506,23267,+58%,"+$695,536",,,,,ARW
+254,,2019-02-25 16:37:23,2019-02-21,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$81.77,-1659,56579,-3%,"-$135,656",,,,,ARW
+255,,2019-02-25 16:37:23,2019-02-21,ARW,Stansbury Christopher,"SVP, CFO",M - OptEx,$81.77,4962,56579,+10%,"+$405,743",,,,,ARW
+256,,2019-02-25 16:35:37,2019-02-21,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$81.77,-5923,24255,-20%,"-$484,324",,,,,ARW
+257,,2019-02-25 16:35:37,2019-02-21,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$81.77,12758,24255,+111%,"+$1,043,222",,,,,ARW
+258,,2019-02-25 16:33:26,2019-02-21,ARW,Melvin Vincent P,CIO,F - Tax,$81.77,-4191,24856,-14%,"-$342,698",,,,,ARW
+259,,2019-02-25 16:33:26,2019-02-21,ARW,Melvin Vincent P,CIO,M - OptEx,$81.77,9214,24856,+59%,"+$753,429",,,,,ARW
+260,,2019-02-25 16:31:42,2019-02-21,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$81.77,-36407,357729,-9%,"-$2,977,000",,,,,ARW
+261,,2019-02-25 16:31:42,2019-02-21,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$81.77,77973,357729,+28%,"+$6,375,852",,,,,ARW
+262,,2019-02-25 16:29:57,2019-02-21,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$81.77,-139,13614,-1%,"-$11,366",,,,,ARW
+263,,2019-02-25 15:53:09,2019-02-21,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$81.77,-6664,41728,-14%,"-$544,915",,,,,ARW
+264,,2019-02-25 15:53:09,2019-02-21,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$81.77,14178,41728,+51%,"+$1,159,335",,,,,ARW
+265,,2019-02-25 15:51:20,2019-02-21,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$81.77,-1519,17313,-8%,"-$124,209",,,,,ARW
+266,,2019-02-25 15:51:20,2019-02-21,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",M - OptEx,$81.77,4962,17313,+40%,"+$405,743",,,,,ARW
+267,,2019-02-25 15:47:21,2019-02-21,ARW,King Andrew,"Pres, Global Components",F - Tax,$81.77,-6646,52211,-11%,"-$543,443",,,,,ARW
+268,,2019-02-25 15:47:21,2019-02-21,ARW,King Andrew,"Pres, Global Components",M - OptEx,$81.77,14178,52211,+37%,"+$1,159,335",,,,,ARW
+269,,2019-02-21 17:49:58,2019-02-21,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$81.90,-929,17420,-5%,"-$76,085",,,,,ARW
+270,,2019-02-21 14:33:33,2019-02-20,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$81.99,-143,17369,-1%,"-$11,725",,,,,ARW
+271,,2019-02-21 14:32:22,2019-02-20,ARW,King Andrew,"Pres, Global Components",F - Tax,$81.99,-415,44679,-1%,"-$34,026",,,,,ARW
+272,,2019-02-21 14:30:07,2019-02-20,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$81.99,-286,18349,-2%,"-$23,449",,,,,ARW
+273,,2019-02-21 14:28:45,2019-02-20,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$81.99,-245,13753,-2%,"-$20,088",,,,,ARW
+274,,2019-02-21 14:27:27,2019-02-20,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$81.99,-8345,316163,-3%,"-$684,207",,,,,ARW
+275,,2019-02-21 14:24:48,2019-02-20,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$81.99,-329,25173,-1%,"-$26,975",,,,,ARW
+276,,2019-02-21 14:23:29,2019-02-20,ARW,Melvin Vincent P,CIO,F - Tax,$81.99,-294,19833,-1%,"-$24,105",,,,,ARW
+277,,2019-02-21 14:21:57,2019-02-20,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$81.99,-266,53276,0%,"-$21,809",,,,,ARW
+278,,2019-02-21 14:19:18,2019-02-20,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$81.99,-160,13870,-1%,"-$13,118",,,,,ARW
+279,,2019-02-21 14:15:46,2019-02-20,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$81.99,-435,34214,-1%,"-$35,666",,,,,ARW
+280,,2019-02-21 12:20:39,2019-02-20,ARW,Kerin Andrew Charles,Dir,S - Sale,$81.79,-6845,0,-100%,"-$559,853",,,,,ARW
+281,D,2019-02-21 12:19:21,2019-02-19,ARW,Kerins Sean J,"Pres, Global ECS",A - Grant,$81.05,4626,34649,+15%,"+$374,937",,,,,ARW
+282,D,2019-02-21 12:18:06,2019-02-19,ARW,King Andrew,"Pres, Global Components",A - Grant,$81.05,4626,45094,+11%,"+$374,937",,,,,ARW
+283,D,2019-02-21 12:15:55,2019-02-19,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$81.05,18507,324508,+6%,"+$1,499,992",,,,,ARW
+284,D,2019-02-21 12:15:55,2019-02-20,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$81.20,-60252,324508,-16%,"-$4,892,462",,,,,ARW
+285,D,2019-02-21 12:09:39,2019-02-19,ARW,Tarpinian Gregory,"SVP, GC",A - Grant,$81.05,1851,17512,+12%,"+$150,024",,,,,ARW
+286,D,2019-02-21 12:08:28,2019-02-19,ARW,Melvin Vincent P,CIO,A - Grant,$81.05,4010,20127,+25%,"+$325,011",,,,,ARW
+287,D,2019-02-21 12:07:15,2019-02-19,ARW,Morris Mary Catherine,Chief Strategy Officer,A - Grant,$81.05,2776,18635,+18%,"+$224,995",,,,,ARW
+288,D,2019-02-21 12:06:04,2019-02-19,ARW,Kostalnick Charles II,Chief Supply Chain Officer,A - Grant,$81.05,2468,13998,+21%,"+$200,031",,,,,ARW
+289,D,2019-02-21 12:06:04,2019-02-20,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale+OE,$81.99,-1250,13998,-8%,"-$102,488",,,,,ARW
+290,D,2019-02-21 12:04:50,2019-02-19,ARW,Stansbury Christopher,"SVP, CFO",A - Grant,$81.05,4936,53542,+10%,"+$400,063",,,,,ARW
+291,D,2019-02-21 12:03:24,2019-02-19,ARW,Zech Gretchen,"SVP, Chief HR Off",A - Grant,$81.05,4010,25502,+19%,"+$325,011",,,,,ARW
+292,D,2019-02-21 11:54:20,2019-02-19,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",A - Grant,$81.05,2468,14030,+21%,"+$200,031",,,,,ARW
+293,,2019-02-20 10:22:35,2019-02-19,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$80.70,-53984,366253,-13%,"-$4,356,509",,,,,ARW
+294,,2019-02-19 13:17:39,2019-02-15,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$81.19,-121,11562,-1%,"-$9,824",,,,,ARW
+295,,2019-02-19 13:15:54,2019-02-15,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$81.19,-377,15859,-2%,"-$30,609",,,,,ARW
+296,,2019-02-19 13:11:39,2019-02-15,ARW,King Andrew,"Pres, Global Components",F - Tax,$81.19,-258,40468,-1%,"-$20,947",,,,,ARW
+297,,2019-02-19 13:10:17,2019-02-15,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$81.19,-322,21492,-1%,"-$26,143",,,,,ARW
+298,,2019-02-19 13:05:24,2019-02-15,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$81.19,-2199,420237,-1%,"-$178,537",,,,,ARW
+299,,2019-02-19 13:04:07,2019-02-15,ARW,Melvin Vincent P,CIO,F - Tax,$81.19,-254,16117,-2%,"-$20,622",,,,,ARW
+300,,2019-02-19 13:02:44,2019-02-15,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$81.19,-409,30214,-1%,"-$33,207",,,,,ARW
+301,,2019-02-19 12:43:58,2019-02-15,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$81.19,-190,15661,-1%,"-$15,426",,,,,ARW
+302,,2019-02-19 12:40:54,2019-02-15,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$81.19,-112,48606,0%,"-$9,093",,,,,ARW
+303,,2018-12-12 16:48:03,2018-12-11,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$70.88,-1367,11683,-10%,"-$96,893",,,,,ARW
+304,D,2018-11-29 16:32:00,2018-11-28,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$40.49,13016,18155,+253%,"+$527,047",,,,,ARW
+305,D,2018-11-29 16:32:00,2018-11-28,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$75.00,-13016,18155,-42%,"-$976,200",,,,,ARW
+306,,2018-11-07 15:52:51,2018-11-06,ARW,Kostalnick Charles II,Chief Supply Chain Officer,S - Sale,$74.37,-700,12780,-5%,"-$52,059",,,,,ARW
+307,,2018-09-17 15:59:05,2018-09-14,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$77.04,-1828,48718,-4%,"-$140,829",,,,,ARW
+308,D,2018-08-23 10:32:15,2018-08-21,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$38.69,5731,18155,+46%,"+$221,732",,,,,ARW
+309,D,2018-08-23 10:32:15,2018-08-21,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$79.20,-10237,18155,-36%,"-$810,766",,,,,ARW
+310,,2018-08-21 10:49:05,2018-08-20,ARW,Melvin Vincent P,CIO,S - Sale,$78.10,-2000,16371,-11%,"-$156,200",,,,,ARW
+311,,2018-08-16 10:16:36,2018-08-14,ARW,Kostalnick Charles II,Chief Supply Chain Officer,G - Gift,$0.00,-791,13480,-6%,-$0,,,,,ARW
+312,,2018-08-08 09:39:03,2018-08-07,ARW,Zech Gretchen,"SVP, Chief HR Off",S - Sale,$77.00,-4500,21814,-17%,"-$346,500",,,,,ARW
+313,,2018-08-02 12:38:12,2018-08-01,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$75.66,-2201,14271,-13%,"-$166,528",,,,,ARW
+314,,2018-07-31 14:55:18,2018-07-30,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$74.92,-3729,30432,-11%,"-$279,377",,,,,ARW
+315,,2018-05-30 14:54:46,2018-05-29,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",S - Sale,$74.16,-1785,13050,-12%,"-$132,367",,,,,ARW
+316,D,2018-05-14 16:31:19,2018-05-11,ARW,Kerin Andrew Charles,Dir,M - OptEx,$76.75,1955,6845,+40%,"+$150,039",,,,,ARW
+317,D,2018-05-14 16:26:48,2018-05-11,ARW,Hill Richard,Dir,M - OptEx,$76.75,1955,6845,+40%,"+$150,039",,,,,ARW
+318,D,2018-05-14 16:24:10,2018-05-11,ARW,Hamilton Gail,Dir,M - OptEx,$76.75,1955,2045,>999%,"+$150,039",,,,,ARW
+319,,2018-03-14 11:57:15,2018-03-12,ARW,Stansbury Christopher,"SVP, CFO",A - Grant,$81.61,17767,50546,+54%,"+$1,449,965",,,,,ARW
+320,,2018-03-01 12:09:48,2018-02-28,ARW,Melvin Vincent P,CIO,S - Sale,$82.64,-3125,18371,-15%,"-$258,250",,,,,ARW
+321,,2018-02-28 12:13:33,2018-02-27,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$82.93,-50988,422436,-11%,"-$4,228,215",,,,,ARW
+322,,2018-02-27 16:26:53,2018-02-23,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$82.84,-113,14835,-1%,"-$9,361",,,,,ARW
+323,A,2018-02-27 16:25:17,2018-02-21,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$81.39,-101,14948,-1%,"-$8,220",,,,,ARW
+324,A,2018-02-27 16:23:40,2018-02-21,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$81.39,-104,16472,-1%,"-$8,465",,,,,ARW
+325,,2018-02-27 12:16:13,2018-02-26,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$82.43,-3545,20742,-15%,"-$292,214",,,,,ARW
+326,,2018-02-26 15:00:58,2018-02-23,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$82.84,-488,34161,-1%,"-$40,426",,,,,ARW
+327,,2018-02-26 14:58:41,2018-02-23,ARW,King Andrew,"Pres, Global Components",F - Tax,$82.84,-488,40726,-1%,"-$40,426",,,,,ARW
+328,,2018-02-26 14:57:12,2018-02-23,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$82.84,-439,24287,-2%,"-$36,367",,,,,ARW
+329,,2018-02-26 14:54:06,2018-02-23,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$82.84,-2680,473424,-1%,"-$222,011",,,,,ARW
+330,,2018-02-26 14:52:21,2018-02-23,ARW,Melvin Vincent P,CIO,F - Tax,$82.84,-319,21496,-1%,"-$26,426",,,,,ARW
+331,,2018-02-26 14:49:18,2018-02-23,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$82.84,-439,24287,-2%,"-$36,367",,,,,ARW
+332,,2018-02-26 14:30:23,2018-02-23,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$82.84,-114,32779,0%,"-$9,444",,,,,ARW
+333,,2018-02-26 14:29:00,2018-02-23,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$82.84,-293,15851,-2%,"-$24,272",,,,,ARW
+334,,2018-02-26 14:27:40,2018-02-23,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$82.84,-337,26314,-1%,"-$27,917",,,,,ARW
+335,,2018-02-26 10:22:19,2018-02-22,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$81.25,-4556,24726,-16%,"-$370,175",,,,,ARW
+336,,2018-02-26 10:22:19,2018-02-22,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$81.25,10357,24726,+72%,"+$841,506",,,,,ARW
+337,,2018-02-26 10:22:19,2018-02-23,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$82.13,-1455,24726,-6%,"-$119,499",,,,,ARW
+338,,2018-02-26 10:21:05,2018-02-22,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$81.25,-1160,9951,-10%,"-$94,250",,,,,ARW
+339,,2018-02-26 10:21:05,2018-02-22,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",M - OptEx,$81.25,4028,9951,+68%,"+$327,275",,,,,ARW
+340,,2018-02-26 10:19:34,2018-02-22,ARW,King Andrew,"Pres, Global Components",F - Tax,$81.25,-2342,41214,-5%,"-$190,288",,,,,ARW
+341,,2018-02-26 10:19:34,2018-02-22,ARW,King Andrew,"Pres, Global Components",M - OptEx,$81.25,6329,41214,+18%,"+$514,231",,,,,ARW
+342,,2018-02-26 10:18:03,2018-02-22,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$81.25,-26572,476104,-5%,"-$2,158,975",,,,,ARW
+343,,2018-02-26 10:18:03,2018-02-22,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$81.25,60418,476104,+15%,"+$4,908,963",,,,,ARW
+344,,2018-02-26 10:16:24,2018-02-22,ARW,Melvin Vincent P,CIO,F - Tax,$81.25,-2676,21815,-11%,"-$217,425",,,,,ARW
+345,,2018-02-26 10:16:24,2018-02-22,ARW,Melvin Vincent P,CIO,M - OptEx,$81.25,6042,21815,+38%,"+$490,913",,,,,ARW
+346,,2018-02-26 10:12:25,2018-02-22,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$81.25,-1179,32893,-3%,"-$95,794",,,,,ARW
+347,,2018-02-26 10:12:25,2018-02-22,ARW,Stansbury Christopher,"SVP, CFO",M - OptEx,$81.25,4028,32893,+14%,"+$327,275",,,,,ARW
+348,,2018-02-26 10:09:09,2018-02-22,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$81.25,-2781,16144,-15%,"-$225,956",,,,,ARW
+349,,2018-02-26 10:09:09,2018-02-22,ARW,Tarpinian Gregory,"SVP, GC",M - OptEx,$81.25,6329,16144,+64%,"+$514,231",,,,,ARW
+350,,2018-02-26 10:05:27,2018-02-22,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$81.25,-4556,34649,-12%,"-$370,175",,,,,ARW
+351,,2018-02-26 10:05:27,2018-02-22,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$81.25,10357,34649,+43%,"+$841,506",,,,,ARW
+352,,2018-02-26 09:58:33,2018-02-22,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$81.25,-3290,26651,-11%,"-$267,313",,,,,ARW
+353,,2018-02-26 09:58:33,2018-02-22,ARW,Zech Gretchen,"SVP, Chief HR Off",M - OptEx,$81.25,7480,26651,+39%,"+$607,750",,,,,ARW
+354,,2018-02-23 12:45:55,2018-02-21,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$81.39,-101,7083,-1%,"-$8,220",,,,,ARW
+355,,2018-02-23 12:45:55,2018-02-21,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",M - OptEx,$81.39,1185,7083,+20%,"+$96,447",,,,,ARW
+356,,2018-02-23 12:43:48,2018-02-21,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$81.39,-283,28848,-1%,"-$23,033",,,,,ARW
+357,,2018-02-23 12:43:48,2018-02-21,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$81.39,3893,28848,+16%,"+$316,851",,,,,ARW
+358,,2018-02-23 12:40:46,2018-02-21,ARW,King Andrew,"Pres, Global Components",F - Tax,$81.39,-402,37227,-1%,"-$32,719",,,,,ARW
+359,,2018-02-23 12:40:46,2018-02-21,ARW,King Andrew,"Pres, Global Components",M - OptEx,$81.39,3723,37227,+11%,"+$303,015",,,,,ARW
+360,,2018-02-23 12:36:57,2018-02-21,ARW,Kostalnick Charles II,Chief Supply Chain Officer,F - Tax,$81.39,-104,17657,-1%,"-$8,465",,,,,ARW
+361,,2018-02-23 12:36:57,2018-02-21,ARW,Kostalnick Charles II,Chief Supply Chain Officer,M - OptEx,$81.39,1185,17657,+7%,"+$96,447",,,,,ARW
+362,,2018-02-23 12:34:03,2018-02-21,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$81.39,-2018,442258,0%,"-$164,245",,,,,ARW
+363,,2018-02-23 12:34:03,2018-02-21,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$81.39,20309,442258,+5%,"+$1,652,950",,,,,ARW
+364,,2018-02-23 12:31:19,2018-02-21,ARW,Melvin Vincent P,CIO,F - Tax,$81.39,-263,18449,-1%,"-$21,406",,,,,ARW
+365,,2018-02-23 12:31:19,2018-02-21,ARW,Melvin Vincent P,CIO,M - OptEx,$81.39,2369,18449,+15%,"+$192,813",,,,,ARW
+366,,2018-02-23 12:29:36,2018-02-21,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$81.39,-336,20380,-2%,"-$27,347",,,,,ARW
+367,,2018-02-23 12:29:36,2018-02-21,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$81.39,3046,20380,+18%,"+$247,914",,,,,ARW
+368,,2018-02-23 12:27:54,2018-02-21,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$81.39,-242,30044,-1%,"-$19,696",,,,,ARW
+369,,2018-02-23 12:27:54,2018-02-21,ARW,Stansbury Christopher,"SVP, CFO",M - OptEx,$81.39,3384,30044,+13%,"+$275,424",,,,,ARW
+370,,2018-02-23 12:26:08,2018-02-21,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$81.39,-219,12596,-2%,"-$17,824",,,,,ARW
+371,,2018-02-23 12:26:08,2018-02-21,ARW,Tarpinian Gregory,"SVP, GC",M - OptEx,$81.39,2031,12596,+19%,"+$165,303",,,,,ARW
+372,,2018-02-23 12:24:22,2018-02-21,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$81.39,-349,22461,-2%,"-$28,405",,,,,ARW
+373,,2018-02-23 12:24:22,2018-02-21,ARW,Zech Gretchen,"SVP, Chief HR Off",M - OptEx,$81.39,3182,22461,+17%,"+$258,983",,,,,ARW
+374,D,2018-02-22 12:01:44,2018-02-20,ARW,Kerins Sean J,"Pres, Global ECS",A - Grant,$81.95,3965,25238,+19%,"+$324,932",,,,,ARW
+375,D,2018-02-22 11:59:36,2018-02-20,ARW,King Andrew,"Pres, Global Components",A - Grant,$81.95,3813,33906,+13%,"+$312,475",,,,,ARW
+376,D,2018-02-22 11:50:55,2018-02-20,ARW,Kostalnick Charles II,Chief Supply Chain Officer,A - Grant,$81.95,1983,16576,+14%,"+$162,507",,,,,ARW
+377,D,2018-02-22 11:48:38,2018-02-20,ARW,Melvin Vincent P,CIO,A - Grant,$81.95,2746,16343,+20%,"+$225,035",,,,,ARW
+378,D,2018-02-22 11:43:48,2018-02-20,ARW,Morris Mary Catherine,Chief Strategy Officer,A - Grant,$81.95,2746,17670,+18%,"+$225,035",,,,,ARW
+379,D,2018-02-22 11:41:45,2018-02-20,ARW,Stansbury Christopher,"SVP, CFO",A - Grant,$81.95,3813,26902,+17%,"+$312,475",,,,,ARW
+380,D,2018-02-22 11:39:41,2018-02-20,ARW,Tarpinian Gregory,"SVP, GC",A - Grant,$81.95,1830,10784,+20%,"+$149,969",,,,,ARW
+381,D,2018-02-22 11:36:47,2018-02-20,ARW,Zech Gretchen,"SVP, Chief HR Off",A - Grant,$81.95,3051,19628,+18%,"+$250,029",,,,,ARW
+382,D,2018-02-22 11:31:30,2018-02-20,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",A - Grant,$81.95,1983,5999,+49%,"+$162,507",,,,,ARW
+383,D,2018-02-22 11:27:09,2018-02-20,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$81.95,91519,423967,+28%,"+$7,499,982",,,,,ARW
+384,,2018-02-20 12:56:54,2018-02-16,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$81.81,-463,21273,-2%,"-$37,878",,,,,ARW
+385,,2018-02-20 12:55:19,2018-02-16,ARW,King Andrew,"Pres, Global Components",F - Tax,$81.81,-409,30093,-1%,"-$33,460",,,,,ARW
+386,,2018-02-20 12:53:49,2018-02-16,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$81.81,-3128,332448,-1%,"-$255,902",,,,,ARW
+387,,2018-02-20 12:51:33,2018-02-16,ARW,Melvin Vincent P,CIO,F - Tax,$81.81,-2856,13597,-17%,"-$233,649",,,,,ARW
+388,,2018-02-20 12:49:29,2018-02-16,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$81.81,-846,14924,-5%,"-$69,211",,,,,ARW
+389,,2018-02-20 12:47:12,2018-02-16,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$81.81,-122,23089,-1%,"-$9,981",,,,,ARW
+390,,2018-02-20 12:44:25,2018-02-16,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$81.81,-387,8954,-4%,"-$31,660",,,,,ARW
+391,,2018-02-20 12:42:13,2018-02-16,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$81.81,-121,10198,-1%,"-$9,899",,,,,ARW
+392,,2018-02-20 12:42:13,2018-02-16,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",M - OptEx,$81.81,704,10198,+7%,"+$57,594",,,,,ARW
+393,,2018-02-20 12:38:53,2018-02-16,ARW,Zech Gretchen,"SVP, Chief HR Off",F - Tax,$81.81,-609,16577,-4%,"-$49,822",,,,,ARW
+394,D,2017-12-21 16:00:39,2017-12-20,ARW,Hanson John Nils,Dir,M - OptEx,$80.55,24955,36645,+213%,"+$2,010,121",,,,,ARW
+395,,2017-12-12 17:24:20,2017-12-11,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",F - Tax,$78.30,-1115,10319,-10%,"-$87,305",,,,,ARW
+396,,2017-12-12 17:24:20,2017-12-11,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",M - OptEx,$78.30,6968,10319,+208%,"+$545,594",,,,,ARW
+397,D,2017-11-22 12:43:34,2017-11-21,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$28.34,3816,21927,+21%,"+$108,145",,,,,ARW
+398,D,2017-11-22 12:43:34,2017-11-21,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale+OE,$78.87,-3816,21927,-15%,"-$300,968",,,,,ARW
+399,,2017-11-17 12:55:23,2017-11-16,ARW,Anderson Matthew R,"SVP, Chief Digital Officer",S - Sale,$79.00,-1416,11434,-11%,"-$111,864",,,,,ARW
+400,,2017-11-16 10:13:20,2017-11-08,ARW,Hamilton Gail,Dir,S - Sale,$78.33,-4800,91,-98%,"-$375,984",,,,,ARW
+401,,2017-09-18 18:27:00,2017-09-15,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$79.52,-1336,23211,-5%,"-$106,239",,,,,ARW
+402,D,2017-08-28 09:37:12,2017-08-25,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$16.82,4477,21927,+26%,"+$75,303",,,,,ARW
+403,D,2017-08-28 09:37:12,2017-08-25,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale+OE,$77.16,-4477,21927,-17%,"-$345,445",,,,,ARW
+404,M,2017-08-14 17:34:22,2017-08-10,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$76.01,-20910,335576,-6%,"-$1,589,415",,,,,ARW
+405,D,2017-05-26 11:26:41,2017-05-25,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$30.90,9692,17689,+121%,"+$299,437",,,,,ARW
+406,D,2017-05-26 11:26:41,2017-05-25,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$75.07,-9692,17689,-35%,"-$727,578",,,,,ARW
+407,D,2017-05-17 11:41:08,2017-05-16,ARW,Melvin Vincent P,CIO,M - OptEx,$16.82,5760,16649,+53%,"+$96,883",,,,,ARW
+408,D,2017-05-17 11:41:08,2017-05-16,ARW,Melvin Vincent P,CIO,S - Sale+OE,$75.79,-5760,16649,-26%,"-$436,550",,,,,ARW
+409,,2017-05-16 12:07:19,2017-05-15,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$75.99,-3000,21736,-12%,"-$227,970",,,,,ARW
+410,D,2017-05-15 18:08:56,2017-05-12,ARW,Hamilton Gail,Dir,M - OptEx,$75.60,2486,4891,+103%,"+$187,935",,,,,ARW
+411,D,2017-05-15 18:07:47,2017-05-12,ARW,Hanson John Nils,Dir,M - OptEx,$75.60,2486,11691,+27%,"+$187,935",,,,,ARW
+412,D,2017-05-15 18:06:30,2017-05-12,ARW,Hill Richard,Dir,M - OptEx,$75.60,2486,4891,+103%,"+$187,935",,,,,ARW
+413,D,2017-05-15 18:05:17,2017-05-12,ARW,Kerin Andrew Charles,Dir,M - OptEx,$75.60,2486,4891,+103%,"+$187,935",,,,,ARW
+414,,2017-05-11 17:00:19,2017-05-11,ARW,Stansbury Christopher,"SVP, CFO",A - Grant,$60.72,8234,24547,+50%,"+$499,968",-1.0,,,,ARW
+415,,2017-05-10 11:49:21,2017-05-09,ARW,Zech Gretchen,"SVP, Global HR",S - Sale,$77.34,-9781,17186,-36%,"-$756,463",0.0,,,,ARW
+416,A,2017-03-13 15:01:58,2017-02-23,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$73.40,-131,16313,-1%,"-$9,615",0.0,3.0,-4.0,,ARW
+417,A,2017-03-13 14:52:34,2017-02-23,ARW,Melvin Vincent P,CIO,S - Sale,$73.43,-7084,16453,-30%,"-$520,178",0.0,3.0,-4.0,,ARW
+418,,2017-03-02 11:35:51,2017-03-01,ARW,King Andrew,"Pres, Global Components",S - Sale,$75.30,-1000,30502,-3%,"-$75,300",-2.0,-3.0,-2.0,,ARW
+419,,2017-03-02 11:26:19,2017-03-01,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$75.38,-6263,15770,-28%,"-$472,105",-2.0,-3.0,-2.0,,ARW
+420,D,2017-03-01 13:47:42,2017-02-28,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$40.31,190865,359576,+113%,"+$7,693,278",4.0,1.0,1.0,,ARW
+421,D,2017-03-01 13:47:42,2017-02-28,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$72.14,-190865,359576,-35%,"-$13,769,348",4.0,1.0,1.0,,ARW
+422,D,2017-02-27 17:07:27,2017-02-24,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$37.63,3500,24927,+16%,"+$131,705",-2.0,1.0,-1.0,,ARW
+423,D,2017-02-27 17:07:27,2017-02-24,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale+OE,$72.86,-3500,24927,-12%,"-$255,010",-2.0,1.0,-1.0,,ARW
+424,D,2017-02-27 15:51:13,2017-02-23,ARW,Melvin Vincent P,CIO,S - Sale+OE,$73.39,-14480,16253,-47%,"-$1,062,636",0.0,1.0,-1.0,,ARW
+425,D,2017-02-27 15:51:13,2017-02-23,ARW,Melvin Vincent P,CIO,M - OptEx,$16.82,7000,16253,+76%,"+$117,740",0.0,1.0,-1.0,,ARW
+426,,2017-02-27 15:41:50,2017-02-23,ARW,Melvin Vincent P,CIO,F - Tax,$73.81,-2322,23537,-9%,"-$171,396",0.0,1.0,-1.0,,ARW
+427,,2017-02-27 15:41:50,2017-02-23,ARW,Melvin Vincent P,CIO,M - OptEx,$73.72,9359,23537,+66%,"+$689,931",0.0,1.0,-1.0,,ARW
+428,,2017-02-27 14:56:04,2017-02-23,ARW,King Andrew,"Pres, Global Components",F - Tax,$73.79,-2435,22642,-10%,"-$179,678",0.0,1.0,-1.0,,ARW
+429,,2017-02-27 14:56:04,2017-02-23,ARW,King Andrew,"Pres, Global Components",M - OptEx,$73.67,10601,22642,+88%,"+$780,952",0.0,1.0,-1.0,,ARW
+430,,2017-02-27 14:45:51,2017-02-23,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$73.82,-31586,356486,-8%,"-$2,331,636",0.0,1.0,-1.0,,ARW
+431,,2017-02-27 14:45:51,2017-02-23,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$73.73,86082,356486,+32%,"+$6,346,808",0.0,1.0,-1.0,,ARW
+432,,2017-02-27 14:34:56,2017-02-23,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$73.82,-5525,22033,-20%,"-$407,863",0.0,1.0,-1.0,,ARW
+433,,2017-02-27 14:34:56,2017-02-23,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$73.74,14848,22033,+207%,"+$1,094,839",0.0,1.0,-1.0,,ARW
+434,,2017-02-27 14:26:13,2017-02-23,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$73.40,-131,17863,-1%,"-$9,615",0.0,1.0,-1.0,,ARW
+435,,2017-02-27 14:26:13,2017-02-23,ARW,Stansbury Christopher,"SVP, CFO",M - OptEx,$73.40,1550,17863,+10%,"+$113,770",0.0,1.0,-1.0,,ARW
+436,,2017-02-27 14:18:47,2017-02-23,ARW,Zech Gretchen,"SVP, Global HR",F - Tax,$73.82,-3806,18107,-17%,"-$280,947",0.0,1.0,-1.0,,ARW
+437,,2017-02-27 14:18:47,2017-02-23,ARW,Zech Gretchen,"SVP, Global HR",M - OptEx,$73.73,10462,18107,+137%,"+$771,318",0.0,1.0,-1.0,,ARW
+438,,2017-02-27 14:10:45,2017-02-23,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$73.80,-2625,24736,-10%,"-$193,719",0.0,1.0,-1.0,,ARW
+439,,2017-02-27 14:10:45,2017-02-23,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$73.68,11527,24736,+87%,"+$849,346",0.0,1.0,-1.0,,ARW
+440,D,2017-02-27 13:49:57,2017-02-23,ARW,Tarpinian Gregory,GC,M - OptEx,$32.61,2870,10945,+36%,"+$93,591",0.0,1.0,-1.0,,ARW
+441,D,2017-02-27 13:49:57,2017-02-23,ARW,Tarpinian Gregory,GC,S - Sale+OE,$73.60,-2870,10945,-21%,"-$211,232",0.0,1.0,-1.0,,ARW
+442,,2017-02-27 13:25:44,2017-02-23,ARW,Tarpinian Gregory,GC,F - Tax,$73.77,-1533,9341,-14%,"-$113,085",0.0,1.0,-1.0,,ARW
+443,,2017-02-27 13:25:44,2017-02-23,ARW,Tarpinian Gregory,GC,M - OptEx,$73.63,5311,9341,+132%,"+$391,048",0.0,1.0,-1.0,,ARW
+444,,2017-02-21 16:04:33,2017-02-17,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$73.50,-775,15834,-5%,"-$56,963",0.0,-1.0,-2.0,,ARW
+445,,2017-02-21 16:01:51,2017-02-17,ARW,Melvin Vincent P,CIO,F - Tax,$73.50,-649,16500,-4%,"-$47,702",0.0,-1.0,-2.0,,ARW
+446,,2017-02-21 15:59:52,2017-02-17,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$73.50,-1456,12710,-10%,"-$107,016",0.0,0.0,-1.0,,ARW
+447,,2017-02-21 15:54:47,2017-02-17,ARW,King Andrew,"Pres, Global Components",F - Tax,$73.50,-475,14476,-3%,"-$34,913",0.0,0.0,-1.0,,ARW
+448,,2017-02-21 15:51:55,2017-02-17,ARW,Tarpinian Gregory,GC,F - Tax,$73.50,-536,5563,-9%,"-$39,396",0.0,0.0,-1.0,,ARW
+449,,2017-02-21 15:50:57,2017-02-17,ARW,Zech Gretchen,"SVP, Global HR",F - Tax,$73.50,-994,11451,-8%,"-$73,059",0.0,0.0,-1.0,,ARW
+450,,2017-02-21 15:49:59,2017-02-17,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$73.50,-6403,301990,-2%,"-$470,621",0.0,0.0,-1.0,,ARW
+451,,2017-02-21 15:48:26,2017-02-17,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$73.50,-133,16444,-1%,"-$9,776",0.0,0.0,-1.0,,ARW
+452,D,2016-11-28 11:30:03,2016-11-23,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$32.61,8000,16085,+99%,"+$260,880",0.0,0.0,6.0,,ARW
+453,D,2016-11-28 11:30:03,2016-11-23,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$67.78,-8000,16085,-33%,"-$542,239",0.0,0.0,6.0,,ARW
+454,D,2016-11-10 12:32:42,2016-11-09,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$37.63,4000,16800,+31%,"+$150,520",1.0,6.0,16.0,21.0,ARW
+455,D,2016-11-10 12:32:42,2016-11-09,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale+OE,$62.00,-4000,16800,-19%,"-$248,000",1.0,6.0,16.0,21.0,ARW
+456,,2016-09-19 11:54:35,2016-09-15,ARW,Stansbury Christopher,"SVP, CFO",F - Tax,$62.02,-1337,16577,-7%,"-$82,921",5.0,4.0,2.0,22.0,ARW
+457,,2016-08-23 14:12:34,2016-08-22,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$66.35,-44777,308393,-13%,"-$2,970,954",0.0,0.0,-5.0,11.0,ARW
+458,,2016-08-11 18:09:18,2016-08-11,ARW,Melvin Vincent P,CIO,S - Sale,$66.39,-2531,17149,-13%,"-$168,033",0.0,-1.0,-6.0,10.0,ARW
+459,,2016-08-10 11:56:35,2016-08-09,ARW,Tarpinian Gregory,GC,S - Sale,$66.40,-1000,6099,-14%,"-$66,400",-1.0,-1.0,-2.0,9.0,ARW
+460,A,2016-06-29 16:30:05,2015-12-11,ARW,Zech Gretchen,"SVP, Global HR",F - Tax,$55.49,-393,13028,-3%,"-$21,808",2.0,-1.0,10.0,20.0,ARW
+461,D,2016-06-13 12:41:45,2016-06-09,ARW,Reilly Paul J,EVP,M - OptEx,$40.52,50705,107283,+90%,"+$2,054,546",-1.0,-1.0,-4.0,8.0,ARW
+462,D,2016-06-13 12:41:45,2016-06-09,ARW,Reilly Paul J,EVP,S - Sale+OE,$67.38,-50705,107283,-32%,"-$3,416,416",-1.0,-1.0,-4.0,8.0,ARW
+463,D,2016-06-08 19:12:42,2016-06-06,ARW,Bryant Andrew S,COO,M - OptEx,$48.09,14785,9470,-278%,"+$711,028",0.0,-2.0,-10.0,2.0,ARW
+464,D,2016-06-08 19:12:42,2016-06-06,ARW,Bryant Andrew S,COO,S - Sale+OE,$66.04,-14785,9470,-61%,"-$976,446",0.0,-2.0,-10.0,2.0,ARW
+465,D,2016-05-26 15:16:37,2016-05-24,ARW,Reilly Paul J,EVP,M - OptEx,$38.69,10000,107283,+10%,"+$386,900",0.0,4.0,0.0,7.0,ARW
+466,D,2016-05-26 15:16:37,2016-05-24,ARW,Reilly Paul J,EVP,S - Sale+OE,$62.91,-10000,107283,-9%,"-$629,100",0.0,4.0,0.0,7.0,ARW
+467,D,2016-05-25 13:21:26,2016-05-24,ARW,Tarpinian Gregory,GC,M - OptEx,$38.29,3300,8703,+61%,"+$126,357",0.0,3.0,6.0,5.0,ARW
+468,D,2016-05-25 13:21:26,2016-05-24,ARW,Tarpinian Gregory,GC,S - Sale+OE,$63.21,-3300,8703,-27%,"-$208,593",0.0,3.0,6.0,5.0,ARW
+469,D,2016-05-24 19:07:40,2016-05-20,ARW,Kerin Andrew Charles,Dir,M - OptEx,$61.59,2405,2405,New,"+$148,101",0.0,2.0,5.0,4.0,ARW
+470,D,2016-05-24 19:06:21,2016-05-20,ARW,Hill Richard,Dir,M - OptEx,$61.59,2405,2405,New,"+$148,101",0.0,2.0,5.0,4.0,ARW
+471,D,2016-05-24 19:04:49,2016-05-20,ARW,Hanson John Nils,Dir,M - OptEx,$61.59,2405,9205,+35%,"+$148,101",0.0,2.0,5.0,4.0,ARW
+472,D,2016-05-24 18:59:35,2016-05-20,ARW,Hamilton Gail,Dir,M - OptEx,$61.59,2405,2405,New,"+$148,101",0.0,2.0,5.0,4.0,ARW
+473,DM,2016-05-24 11:13:17,2016-05-20,ARW,Reilly Paul J,EVP,M - OptEx,$32.61,24300,107283,+29%,"+$792,423",2.0,4.0,7.0,6.0,ARW
+474,DM,2016-05-24 11:13:17,2016-05-20,ARW,Reilly Paul J,EVP,S - Sale+OE,$61.55,-24300,107283,-18%,"-$1,495,722",2.0,4.0,7.0,6.0,ARW
+475,,2016-05-23 17:19:34,2016-05-20,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$61.89,-5285,14166,-27%,"-$327,089",2.0,3.0,8.0,7.0,ARW
+476,DM,2016-05-19 17:48:25,2016-05-17,ARW,Reilly Paul J,EVP,M - OptEx,$38.29,18000,107283,+20%,"+$689,220",1.0,3.0,8.0,8.0,ARW
+477,DM,2016-05-19 17:48:25,2016-05-17,ARW,Reilly Paul J,EVP,S - Sale+OE,$61.32,-18000,107283,-14%,"-$1,103,820",1.0,3.0,8.0,8.0,ARW
+478,,2016-05-17 18:37:28,2016-05-16,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$61.61,-50000,353170,-12%,"-$3,080,500",1.0,2.0,9.0,5.0,ARW
+479,,2016-05-17 18:36:43,2016-05-16,ARW,Melvin Vincent P,CIO,S - Sale,$61.58,-5365,19680,-21%,"-$330,377",1.0,2.0,9.0,5.0,ARW
+480,,2016-05-17 16:57:56,2016-05-16,ARW,Bryant Andrew S,COO,S - Sale,$61.82,-13540,9279,-59%,"-$837,043",1.0,2.0,9.0,5.0,ARW
+481,M,2016-05-11 16:57:50,2016-05-09,ARW,Bryant Andrew S,COO,S - Sale,$60.32,-20012,22819,-47%,"-$1,207,181",-1.0,0.0,12.0,1.0,ARW
+482,,2016-05-11 11:50:45,2016-05-10,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$60.92,-10000,16609,-38%,"-$609,200",-1.0,0.0,11.0,1.0,ARW
+483,,2016-03-01 17:38:13,2016-02-29,ARW,Zech Gretchen,"SVP, Global HR",S - Sale,$57.54,-7500,13427,-36%,"-$431,550",0.0,3.0,8.0,12.0,ARW
+484,,2016-03-01 17:37:37,2016-02-26,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale,$57.78,-3711,19451,-16%,"-$214,422",0.0,3.0,8.0,12.0,ARW
+485,,2016-03-01 17:37:03,2016-02-26,ARW,King Andrew,"Pres, Global Components",S - Sale,$57.58,-1893,14951,-11%,"-$108,999",0.0,3.0,8.0,12.0,ARW
+486,,2016-03-01 17:36:16,2016-02-26,ARW,Bryant Andrew S,COO,S - Sale,$57.88,-10000,42831,-19%,"-$578,800",0.0,3.0,8.0,12.0,ARW
+487,,2016-02-26 18:02:11,2016-02-25,ARW,Zech Gretchen,"SVP, Global HR",F - Tax,$56.96,-4903,20927,-19%,"-$279,275",-1.0,2.0,8.0,14.0,ARW
+488,,2016-02-26 18:02:11,2016-02-25,ARW,Zech Gretchen,"SVP, Global HR",M - OptEx,$56.96,10526,20927,+101%,"+$599,561",-1.0,2.0,8.0,14.0,ARW
+489,,2016-02-26 18:01:46,2016-02-25,ARW,Tarpinian Gregory,GC,F - Tax,$56.96,-1241,7099,-15%,"-$70,687",-1.0,2.0,8.0,14.0,ARW
+490,,2016-02-26 18:01:46,2016-02-25,ARW,Tarpinian Gregory,GC,M - OptEx,$56.96,3894,7099,+121%,"+$221,802",-1.0,2.0,8.0,14.0,ARW
+491,,2016-02-26 18:01:13,2016-02-25,ARW,Reilly Paul J,CFO,F - Tax,$56.96,-16014,103494,-13%,"-$912,157",-1.0,2.0,8.0,14.0,ARW
+492,,2016-02-26 18:01:13,2016-02-25,ARW,Reilly Paul J,CFO,M - OptEx,$56.96,33686,103494,+48%,"+$1,918,755",-1.0,2.0,8.0,14.0,ARW
+493,,2016-02-26 18:00:45,2016-02-25,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$56.96,-7846,23162,-25%,"-$446,908",-1.0,2.0,8.0,14.0,ARW
+494,,2016-02-26 18:00:45,2016-02-25,ARW,Morris Mary Catherine,Chief Strategy Officer,M - OptEx,$56.96,16842,23162,+266%,"+$959,320",-1.0,2.0,8.0,14.0,ARW
+495,,2016-02-26 18:00:17,2016-02-25,ARW,Melvin Vincent P,CIO,F - Tax,$56.96,-3969,25045,-14%,"-$226,074",-1.0,2.0,8.0,14.0,ARW
+496,,2016-02-26 18:00:17,2016-02-25,ARW,Melvin Vincent P,CIO,M - OptEx,$56.96,11053,25045,+79%,"+$629,579",-1.0,2.0,8.0,14.0,ARW
+497,,2016-02-26 17:59:45,2016-02-25,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$56.96,-47073,403170,-10%,"-$2,681,278",-1.0,2.0,8.0,14.0,ARW
+498,,2016-02-26 17:59:45,2016-02-25,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$56.96,101057,403170,+33%,"+$5,756,207",-1.0,2.0,8.0,14.0,ARW
+499,,2016-02-26 17:59:17,2016-02-25,ARW,King Andrew,"Pres, Global Components",F - Tax,$56.96,-1073,16844,-6%,"-$61,118",-1.0,2.0,8.0,14.0,ARW
+500,,2016-02-26 17:59:17,2016-02-25,ARW,King Andrew,"Pres, Global Components",M - OptEx,$56.96,3684,16844,+28%,"+$209,841",-1.0,2.0,8.0,14.0,ARW
+501,,2016-02-26 17:54:51,2016-02-25,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$56.96,-3703,26609,-12%,"-$210,923",-1.0,2.0,8.0,14.0,ARW
+502,,2016-02-26 17:54:51,2016-02-25,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$56.96,11578,26609,+77%,"+$659,483",-1.0,2.0,8.0,14.0,ARW
+503,,2016-02-26 17:43:58,2016-02-25,ARW,Bryant Andrew S,COO,F - Tax,$56.96,-10297,52831,-16%,"-$586,517",-1.0,2.0,8.0,14.0,ARW
+504,,2016-02-26 17:43:58,2016-02-25,ARW,Bryant Andrew S,COO,M - OptEx,$56.96,22106,52831,+72%,"+$1,259,158",-1.0,2.0,8.0,14.0,ARW
+505,D,2016-02-25 15:48:19,2016-02-24,ARW,Morris Mary Catherine,Chief Strategy Officer,S - Sale+OE,$57.12,-2289,14166,-14%,"-$130,748",1.0,3.0,10.0,16.0,ARW
+506,D,2016-02-25 15:41:40,2016-02-24,ARW,Bryant Andrew S,COO,S - Sale+OE,$57.13,-3786,41022,-8%,"-$216,294",1.0,3.0,10.0,16.0,ARW
+507,,2016-02-23 09:57:40,2016-02-19,ARW,Zech Gretchen,"SVP, Global HR",F - Tax,$56.96,-669,15304,-4%,"-$38,106",-1.0,0.0,11.0,18.0,ARW
+508,,2016-02-23 09:57:03,2016-02-19,ARW,Tarpinian Gregory,GC,F - Tax,$56.96,-175,4446,-4%,"-$9,968",-1.0,0.0,11.0,18.0,ARW
+509,,2016-02-23 09:56:03,2016-02-19,ARW,Reilly Paul J,CFO,F - Tax,$56.96,-1811,85822,-2%,"-$103,155",-1.0,0.0,11.0,18.0,ARW
+510,,2016-02-23 09:55:00,2016-02-19,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$56.96,-1141,16455,-6%,"-$64,991",-1.0,0.0,11.0,18.0,ARW
+511,,2016-02-23 09:53:54,2016-02-19,ARW,Melvin Vincent P,CIO,F - Tax,$56.96,-546,17961,-3%,"-$31,100",-1.0,0.0,11.0,18.0,ARW
+512,,2016-02-23 09:52:59,2016-02-19,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$56.96,-11604,349186,-3%,"-$660,964",-1.0,0.0,11.0,18.0,ARW
+513,,2016-02-23 09:52:15,2016-02-19,ARW,King Andrew,"Pres, Global Components",F - Tax,$56.96,-153,14233,-1%,"-$8,715",-1.0,0.0,11.0,18.0,ARW
+514,,2016-02-23 09:51:16,2016-02-19,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$56.96,-527,18734,-3%,"-$30,018",-1.0,0.0,11.0,18.0,ARW
+515,,2016-02-23 09:50:24,2016-02-19,ARW,Bryant Andrew S,COO,F - Tax,$56.96,-1425,44808,-3%,"-$81,168",-1.0,0.0,11.0,18.0,ARW
+516,,2016-02-22 15:01:01,2016-02-18,ARW,Zech Gretchen,"SVP, Global HR",F - Tax,$57.19,-312,15973,-2%,"-$17,843",0.0,2.0,11.0,17.0,ARW
+517,,2016-02-22 15:00:04,2016-02-18,ARW,Tarpinian Gregory,GC,F - Tax,$57.19,-89,4621,-2%,"-$5,090",0.0,2.0,11.0,17.0,ARW
+518,,2016-02-22 14:59:22,2016-02-18,ARW,Reilly Paul J,CFO,F - Tax,$57.19,-653,87633,-1%,"-$37,345",0.0,2.0,11.0,17.0,ARW
+519,,2016-02-22 14:59:22,2016-02-18,ARW,Reilly Paul J,CFO,S - Sale,$58.32,-10000,87633,-10%,"-$583,200",0.0,2.0,11.0,17.0,ARW
+520,,2016-02-22 14:58:37,2016-02-18,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$57.19,-444,17596,-2%,"-$25,392",0.0,2.0,11.0,17.0,ARW
+521,,2016-02-22 14:57:53,2016-02-18,ARW,Melvin Vincent P,CIO,F - Tax,$57.19,-187,18507,-1%,"-$10,695",0.0,2.0,11.0,17.0,ARW
+522,,2016-02-22 14:57:04,2016-02-18,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$57.19,-1763,360790,0%,"-$100,826",0.0,2.0,11.0,17.0,ARW
+523,,2016-02-22 14:56:05,2016-02-18,ARW,King Andrew,"Pres, Global Components",F - Tax,$57.19,-156,14386,-1%,"-$8,922",0.0,2.0,11.0,17.0,ARW
+524,,2016-02-22 14:55:17,2016-02-18,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$57.19,-198,19261,-1%,"-$11,324",0.0,2.0,11.0,17.0,ARW
+525,,2016-02-22 14:54:05,2016-02-18,ARW,Bryant Andrew S,COO,F - Tax,$57.19,-560,46233,-1%,"-$32,026",0.0,2.0,11.0,17.0,ARW
+526,,2016-02-19 11:42:00,2016-02-17,ARW,Bryant Andrew S,COO,A - Grant,$56.13,4829,46793,+12%,"+$271,052",0.0,1.0,10.0,15.0,ARW
+527,,2016-02-19 11:42:00,2016-02-17,ARW,Bryant Andrew S,COO,F - Tax,$56.13,-398,46793,-1%,"-$22,340",0.0,1.0,10.0,15.0,ARW
+528,,2016-02-19 11:40:46,2016-02-17,ARW,Kerins Sean J,"Pres, Global ECS",A - Grant,$56.13,3621,19459,+23%,"+$203,247",0.0,1.0,10.0,15.0,ARW
+529,,2016-02-19 11:40:46,2016-02-17,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$56.13,-312,19459,-2%,"-$17,513",0.0,1.0,10.0,15.0,ARW
+530,,2016-02-19 11:40:16,2016-02-17,ARW,Kerins Sean J,"Pres, Global ECS",A - Grant,$56.13,3621,19459,+23%,"+$203,247",0.0,1.0,10.0,15.0,ARW
+531,,2016-02-19 11:40:16,2016-02-17,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$56.13,-312,19459,-2%,"-$17,513",0.0,1.0,10.0,15.0,ARW
+532,,2016-02-19 11:38:38,2016-02-17,ARW,Tarpinian Gregory,GC,A - Grant,$56.13,2213,4710,+89%,"+$124,216",0.0,1.0,10.0,15.0,ARW
+533,,2016-02-19 11:38:38,2016-02-17,ARW,Tarpinian Gregory,GC,F - Tax,$56.13,-207,4710,-4%,"-$11,619",0.0,1.0,10.0,15.0,ARW
+534,,2016-02-19 11:37:03,2016-02-17,ARW,Morris Mary Catherine,Chief Strategy Officer,A - Grant,$56.13,3621,18040,+25%,"+$203,247",0.0,1.0,10.0,15.0,ARW
+535,,2016-02-19 11:37:03,2016-02-17,ARW,Morris Mary Catherine,Chief Strategy Officer,F - Tax,$56.13,-451,18040,-2%,"-$25,315",0.0,1.0,10.0,15.0,ARW
+536,,2016-02-19 11:35:13,2016-02-17,ARW,Zech Gretchen,"SVP, Global HR",A - Grant,$56.13,2615,16285,+19%,"+$146,780",0.0,1.0,10.0,15.0,ARW
+537,,2016-02-19 11:35:13,2016-02-17,ARW,Zech Gretchen,"SVP, Global HR",F - Tax,$56.13,-340,16285,-2%,"-$19,084",0.0,1.0,10.0,15.0,ARW
+538,D,2016-02-19 11:33:30,2016-02-17,ARW,Melvin Vincent P,CIO,A - Grant,$56.13,2113,18694,+13%,"+$118,603",0.0,1.0,10.0,15.0,ARW
+539,D,2016-02-19 11:33:30,2016-02-17,ARW,Melvin Vincent P,CIO,F - Tax,$56.13,-199,18694,-1%,"-$11,170",0.0,1.0,10.0,15.0,ARW
+540,D,2016-02-19 11:33:30,2016-02-17,ARW,Melvin Vincent P,CIO,M - OptEx,$35.27,16000,18694,+594%,"+$564,360",0.0,1.0,10.0,15.0,ARW
+541,D,2016-02-19 11:33:30,2016-02-17,ARW,Melvin Vincent P,CIO,S - Sale+OE,$56.27,-19486,18694,-51%,"-$1,096,477",0.0,1.0,10.0,15.0,ARW
+542,,2016-02-19 11:29:58,2016-02-17,ARW,Reilly Paul J,CFO,A - Grant,$56.13,6438,98286,+7%,"+$361,365",0.0,1.0,10.0,15.0,ARW
+543,,2016-02-19 11:29:58,2016-02-17,ARW,Reilly Paul J,CFO,F - Tax,$56.13,-586,98286,-1%,"-$32,892",0.0,1.0,10.0,15.0,ARW
+544,,2016-02-19 11:29:58,2016-02-17,ARW,Reilly Paul J,CFO,S - Sale,$56.13,-7500,98286,-7%,"-$420,975",0.0,1.0,10.0,15.0,ARW
+545,,2016-02-19 11:22:22,2016-02-17,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$56.13,21125,362553,+6%,"+$1,185,746",0.0,1.0,10.0,15.0,ARW
+546,,2016-02-19 11:22:22,2016-02-17,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$56.13,-1688,362553,0%,"-$94,747",0.0,1.0,10.0,15.0,ARW
+547,,2016-02-19 11:15:00,2016-02-17,ARW,King Andrew,"Pres, Global Components",F - Tax,$56.13,-157,14542,-1%,"-$8,812",0.0,1.0,10.0,15.0,ARW
+548,,2015-12-14 16:07:42,2015-12-11,ARW,Zech Gretchen,"SVP, Global HR",F - Tax,$55.49,-393,14010,-3%,"-$21,808",2.0,-1.0,-13.0,20.0,ARW
+549,,2015-12-14 16:07:42,2015-12-11,ARW,Zech Gretchen,"SVP, Global HR",M - OptEx,$55.49,982,14010,+8%,"+$54,491",2.0,-1.0,-13.0,20.0,ARW
+550,,2015-11-13 16:26:22,2015-11-11,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$59.57,-7500,103723,-7%,"-$446,781",1.0,2.0,-3.0,9.0,ARW
+551,,2015-11-05 10:11:19,2015-11-03,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$57.67,-4486,16789,-21%,"-$258,713",0.0,0.0,-4.0,0.0,ARW
+552,,2015-08-06 15:02:10,2015-08-04,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$57.32,-3000,16341,-16%,"-$171,951",-1.0,-3.0,-6.0,-6.0,ARW
+553,,2015-08-03 15:58:13,2015-07-31,ARW,Tarpinian Gregory,"SVP, GC",S - Sale,$58.54,-667,4308,-13%,"-$39,046",-2.0,0.0,-4.0,-10.0,ARW
+554,D,2015-05-15 09:52:56,2015-05-13,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale+OE,$61.75,-4755,21275,-18%,"-$293,626",-1.0,-1.0,-7.0,-6.0,ARW
+555,,2015-05-15 09:51:44,2015-05-13,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$61.47,-5545,24111,-19%,"-$340,868",-1.0,-1.0,-7.0,-6.0,ARW
+556,,2015-05-15 09:50:42,2015-05-13,ARW,Morris Mary Catherine,"SVP, CSO",M - OptEx,$38.29,12000,29656,+68%,"+$459,480",-1.0,-1.0,-7.0,-6.0,ARW
+557,,2015-05-15 09:50:42,2015-05-13,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$61.58,-5736,29656,-16%,"-$353,220",-1.0,-1.0,-7.0,-6.0,ARW
+558,,2015-05-13 15:30:51,2015-05-11,ARW,Melvin Vincent P,"VP, CIO",S - Sale,$61.38,-5433,20462,-21%,"-$333,472",1.0,4.0,-3.0,-3.0,ARW
+559,,2015-05-12 15:00:04,2015-05-08,ARW,Tarpinian Gregory,"SVP, GC",S - Sale,$61.61,-500,4975,-9%,"-$30,806",-1.0,4.0,-4.0,-2.0,ARW
+560,,2015-03-04 16:20:26,2015-03-02,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$62.89,-10000,111223,-8%,"-$628,899",-1.0,-5.0,-4.0,-12.0,ARW
+561,,2015-03-04 16:18:11,2015-03-02,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$62.51,-8000,19341,-29%,"-$500,098",-1.0,-5.0,-4.0,-12.0,ARW
+562,D,2015-02-27 15:47:53,2015-02-26,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$28.34,8052,121223,+7%,"+$228,194",-2.0,-1.0,-3.0,-15.0,ARW
+563,D,2015-02-27 15:47:53,2015-02-26,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$63.15,-8052,121223,-6%,"-$508,484",-2.0,-1.0,-3.0,-15.0,ARW
+564,D,2015-02-26 13:55:43,2015-02-24,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$62.93,-1251,121223,-1%,"-$78,725",0.0,1.0,-4.0,-19.0,ARW
+565,D,2015-02-26 13:55:43,2015-02-24,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$28.34,892,121223,+1%,"+$25,279",0.0,1.0,-4.0,-19.0,ARW
+566,D,2015-02-26 13:55:43,2015-02-24,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$63.15,-892,121223,-1%,"-$56,330",0.0,1.0,-4.0,-19.0,ARW
+567,,2015-02-26 13:54:06,2015-02-24,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$63.93,-83,5475,-1%,"-$5,306",0.0,1.0,-4.0,-19.0,ARW
+568,,2015-02-26 13:52:45,2015-02-24,ARW,Schuck Eric,"Pres, Global Components",F - Tax,$62.93,-169,31485,-1%,"-$10,635",0.0,1.0,-4.0,-19.0,ARW
+569,,2015-02-26 13:51:30,2015-02-24,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$62.93,-509,25311,-2%,"-$32,031",0.0,1.0,-4.0,-19.0,ARW
+570,,2015-02-26 13:50:35,2015-02-24,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$62.93,-292,25895,-1%,"-$18,376",0.0,1.0,-4.0,-19.0,ARW
+571,,2015-02-26 13:49:18,2015-02-24,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$62.93,-2333,343116,-1%,"-$146,816",0.0,1.0,-4.0,-19.0,ARW
+572,,2015-02-26 13:48:14,2015-02-24,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$62.93,-156,27341,-1%,"-$9,817",0.0,1.0,-4.0,-19.0,ARW
+573,D,2015-02-26 13:46:25,2015-02-24,ARW,Bryant Andrew S,"COO, Global ECS, Components",F - Tax,$62.93,-603,42553,-1%,"-$37,947",0.0,1.0,-4.0,-19.0,ARW
+574,D,2015-02-26 13:46:25,2015-02-24,ARW,Bryant Andrew S,"COO, Global ECS, Components",M - OptEx,$40.23,11443,42553,+37%,"+$460,324",0.0,1.0,-4.0,-19.0,ARW
+575,D,2015-02-26 13:46:25,2015-02-24,ARW,Bryant Andrew S,"COO, Global ECS, Components",S - Sale+OE,$62.72,-21618,42553,-34%,"-$1,355,976",0.0,1.0,-4.0,-19.0,ARW
+576,,2015-02-24 17:47:06,2015-02-20,ARW,Zech Gretchen,"SVP, HR",F - Tax,$62.78,-3580,13421,-21%,"-$224,752",0.0,0.0,2.0,-15.0,ARW
+577,,2015-02-24 17:47:06,2015-02-20,ARW,Zech Gretchen,"SVP, HR",M - OptEx,$62.78,7004,13421,+109%,"+$439,711",0.0,0.0,2.0,-15.0,ARW
+578,,2015-02-24 17:44:48,2015-02-20,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$62.78,-883,5558,-14%,"-$55,435",0.0,0.0,2.0,-15.0,ARW
+579,,2015-02-24 17:44:48,2015-02-20,ARW,Tarpinian Gregory,"SVP, GC",M - OptEx,$62.78,2490,5558,+81%,"+$156,322",0.0,0.0,2.0,-15.0,ARW
+580,,2015-02-24 17:42:46,2015-02-20,ARW,Schuck Eric,"Pres, Global Components",F - Tax,$62.78,-3571,31654,-10%,"-$224,187",0.0,0.0,2.0,-15.0,ARW
+581,,2015-02-24 17:42:46,2015-02-20,ARW,Schuck Eric,"Pres, Global Components",M - OptEx,$62.78,6226,31654,+24%,"+$390,868",0.0,0.0,2.0,-15.0,ARW
+582,,2015-02-24 17:40:32,2015-02-20,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$62.78,-12406,122474,-9%,"-$778,849",0.0,0.0,2.0,-15.0,ARW
+583,,2015-02-24 17:40:32,2015-02-20,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$62.78,24906,122474,+26%,"+$1,563,599",0.0,0.0,2.0,-15.0,ARW
+584,,2015-02-24 17:37:59,2015-02-20,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$62.78,-30310,348539,-8%,"-$1,902,862",0.0,0.0,2.0,-15.0,ARW
+585,,2015-02-24 17:37:59,2015-02-20,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$62.78,59153,348539,+20%,"+$3,713,625",0.0,0.0,2.0,-15.0,ARW
+586,,2015-02-24 17:37:59,2015-02-20,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$62.17,-5300,348539,-1%,"-$329,511",0.0,0.0,2.0,-15.0,ARW
+587,,2015-02-24 17:36:28,2015-02-20,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$61.96,-23500,321906,-7%,"-$1,456,152",0.0,0.0,2.0,-15.0,ARW
+588,,2015-02-24 17:35:29,2015-02-20,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$33.72,42394,345406,+14%,"+$1,429,578",0.0,0.0,2.0,-15.0,ARW
+589,,2015-02-24 17:35:29,2015-02-20,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$61.87,-13594,345406,-4%,"-$841,086",0.0,0.0,2.0,-15.0,ARW
+590,,2015-02-24 17:33:22,2015-02-20,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$62.78,-2899,27497,-10%,"-$181,999",0.0,0.0,2.0,-15.0,ARW
+591,,2015-02-24 17:33:22,2015-02-20,ARW,Kerins Sean J,"Pres, Global ECS",M - OptEx,$62.78,8250,27497,+43%,"+$517,935",0.0,0.0,2.0,-15.0,ARW
+592,,2015-02-24 17:28:25,2015-02-20,ARW,Bryant Andrew S,"COO, Global ECS, Components",F - Tax,$62.78,-7578,53331,-12%,"-$475,747",0.0,0.0,2.0,-15.0,ARW
+593,,2015-02-24 17:28:25,2015-02-20,ARW,Bryant Andrew S,"COO, Global ECS, Components",M - OptEx,$62.78,14788,53331,+38%,"+$928,391",0.0,0.0,2.0,-15.0,ARW
+594,,2015-02-24 17:24:28,2015-02-18,ARW,Melvin Vincent P,"VP, CIO",A - Grant,$56.71,5291,26187,+25%,"+$300,053",0.0,0.0,2.0,-15.0,ARW
+595,,2015-02-24 17:24:28,2015-02-20,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$62.78,-3087,26187,-11%,"-$193,802",0.0,0.0,2.0,-15.0,ARW
+596,,2015-02-24 17:24:28,2015-02-20,ARW,Melvin Vincent P,"VP, CIO",M - OptEx,$62.78,8171,26187,+45%,"+$512,975",0.0,0.0,2.0,-15.0,ARW
+597,,2015-02-24 16:51:18,2015-02-23,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$62.13,-5000,25820,-16%,"-$310,647",0.0,0.0,2.0,-15.0,ARW
+598,,2015-02-24 16:48:39,2015-02-20,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$62.78,-6381,30820,-17%,"-$400,599",0.0,0.0,2.0,-15.0,ARW
+599,,2015-02-24 16:48:39,2015-02-20,ARW,Morris Mary Catherine,"SVP, CSO",M - OptEx,$62.78,12453,30820,+68%,"+$781,799",0.0,0.0,2.0,-15.0,ARW
+600,,2015-02-23 14:31:00,2015-02-19,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$62.11,-2309,319696,-1%,"-$143,412",0.0,-1.0,3.0,-12.0,ARW
+601,,2015-02-23 14:31:00,2015-02-19,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$63.12,-2100,319696,-1%,"-$132,554",0.0,-1.0,3.0,-12.0,ARW
+602,,2015-02-23 14:29:37,2015-02-19,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$62.17,-14406,321015,-4%,"-$895,574",0.0,-1.0,3.0,-12.0,ARW
+603,,2015-02-23 14:28:38,2015-02-19,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$38.29,21706,335421,+7%,"+$831,123",0.0,-1.0,3.0,-12.0,ARW
+604,,2015-02-23 14:28:38,2015-02-19,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$62.21,-12705,335421,-4%,"-$790,329",0.0,-1.0,3.0,-12.0,ARW
+605,,2015-02-23 14:26:26,2015-02-19,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$35.59,20000,326420,+7%,"+$711,800",0.0,-1.0,3.0,-12.0,ARW
+606,,2015-02-23 14:26:26,2015-02-19,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$62.29,-12495,326420,-4%,"-$778,352",0.0,-1.0,3.0,-12.0,ARW
+607,,2015-02-23 13:59:04,2015-02-19,ARW,Zech Gretchen,"SVP, HR",F - Tax,$62.11,-351,9997,-3%,"-$21,801",0.0,-1.0,3.0,-12.0,ARW
+608,,2015-02-23 13:49:45,2015-02-19,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$62.11,-104,3951,-3%,"-$6,459",0.0,-1.0,3.0,-12.0,ARW
+609,,2015-02-23 13:47:13,2015-02-19,ARW,Schuck Eric,"Pres, Global Components",F - Tax,$62.11,-425,28999,-1%,"-$26,397",0.0,-1.0,3.0,-12.0,ARW
+610,,2015-02-23 13:47:13,2015-02-19,ARW,Schuck Eric,"Pres, Global Components",M - OptEx,$35.59,3000,28999,+12%,"+$106,770",0.0,-1.0,3.0,-12.0,ARW
+611,,2015-02-23 13:47:13,2015-02-19,ARW,Schuck Eric,"Pres, Global Components",S - Sale,$62.36,-3000,28999,-9%,"-$187,075",0.0,-1.0,3.0,-12.0,ARW
+612,,2015-02-23 13:44:45,2015-02-19,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$62.11,-890,109974,-1%,"-$55,278",0.0,-1.0,3.0,-12.0,ARW
+613,,2015-02-23 13:42:06,2015-02-19,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$62.11,-552,24748,-2%,"-$34,285",0.0,-1.0,3.0,-12.0,ARW
+614,,2015-02-23 13:37:28,2015-02-19,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$62.11,-272,15812,-2%,"-$16,894",0.0,-1.0,3.0,-12.0,ARW
+615,,2015-02-23 13:33:53,2015-02-19,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$62.11,-258,22146,-1%,"-$16,024",0.0,-1.0,3.0,-12.0,ARW
+616,,2015-02-23 13:29:04,2015-02-19,ARW,Bryant Andrew S,"COO, Global ECS, Components",F - Tax,$62.11,-732,46121,-2%,"-$45,465",0.0,-1.0,3.0,-12.0,ARW
+617,,2015-02-20 13:12:08,2015-02-18,ARW,Zech Gretchen,"SVP, HR",A - Grant,$61.99,2646,10348,+34%,"+$164,026",1.0,1.0,3.0,-9.0,ARW
+618,,2015-02-20 13:12:08,2015-02-18,ARW,Zech Gretchen,"SVP, HR",F - Tax,$61.99,-344,10348,-3%,"-$21,325",1.0,1.0,3.0,-9.0,ARW
+619,,2015-02-20 13:09:51,2015-02-18,ARW,Tarpinian Gregory,"SVP, GC",F - Tax,$61.99,-89,4055,-2%,"-$5,517",1.0,1.0,3.0,-9.0,ARW
+620,M,2015-02-20 13:07:35,2015-02-18,ARW,Schuck Eric,"Pres, Global Components",A - Grant,$58.47,13226,29424,+82%,"+$773,326",1.0,1.0,3.0,-9.0,ARW
+621,,2015-02-20 13:07:35,2015-02-18,ARW,Schuck Eric,"Pres, Global Components",F - Tax,$61.99,-603,29424,-2%,"-$37,380",1.0,1.0,3.0,-9.0,ARW
+622,,2015-02-20 13:02:12,2015-02-18,ARW,Reilly Paul J,"EVP, CFO",A - Grant,$61.99,7054,110864,+7%,"+$437,277",1.0,1.0,3.0,-9.0,ARW
+623,,2015-02-20 13:02:12,2015-02-18,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$61.99,-643,110864,-1%,"-$39,860",1.0,1.0,3.0,-9.0,ARW
+624,,2015-02-20 12:50:21,2015-02-18,ARW,Morris Mary Catherine,"SVP, CSO",A - Grant,$61.99,3880,25300,+18%,"+$240,521",1.0,1.0,3.0,-9.0,ARW
+625,,2015-02-20 12:50:21,2015-02-18,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$61.99,-484,25300,-2%,"-$30,003",1.0,1.0,3.0,-9.0,ARW
+626,,2015-02-20 12:47:35,2015-02-18,ARW,Melvin Vincent P,"VP, CIO",A - Grant,$61.99,2315,16084,+17%,"+$143,507",1.0,1.0,3.0,-9.0,ARW
+627,,2015-02-20 12:47:35,2015-02-18,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$61.99,-199,16084,-1%,"-$12,336",1.0,1.0,3.0,-9.0,ARW
+628,,2015-02-20 12:30:03,2015-02-18,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$61.99,22042,322005,+7%,"+$1,366,384",1.0,1.0,3.0,-9.0,ARW
+629,,2015-02-20 12:30:03,2015-02-18,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$61.99,-1762,322005,-1%,"-$109,226",1.0,1.0,3.0,-9.0,ARW
+630,,2015-02-20 12:00:49,2014-07-30,ARW,Kerins Sean J,"Pres, Global ECS",A - Grant,$58.98,8478,22404,+61%,"+$500,032",1.0,1.0,3.0,-9.0,ARW
+631,,2015-02-20 12:00:49,2015-02-18,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$61.99,-233,22404,-1%,"-$14,444",1.0,1.0,3.0,-9.0,ARW
+632,,2015-02-20 11:58:10,2015-02-18,ARW,Bryant Andrew S,"COO, Global ECS, Components",A - Grant,$61.99,4850,46853,+12%,"+$300,652",1.0,1.0,3.0,-9.0,ARW
+633,,2015-02-20 11:58:10,2015-02-18,ARW,Bryant Andrew S,"COO, Global ECS, Components",F - Tax,$61.99,-574,46853,-1%,"-$35,582",1.0,1.0,3.0,-9.0,ARW
+634,,2015-02-17 09:55:05,2015-02-12,ARW,Melvin Vincent P,"VP, CIO",S - Sale,$60.91,-7176,13968,-34%,"-$437,104",0.0,1.0,-2.0,-8.0,ARW
+635,,2014-12-16 13:22:15,2014-12-12,ARW,Zech Gretchen,"SVP, HR",F - Tax,$56.06,-315,8046,-4%,"-$17,659",-1.0,5.0,-2.0,6.0,ARW
+636,,2014-11-20 15:06:32,2014-11-19,ARW,Bryant Andrew S,"Pres, Global Comp, ECS",S - Sale,$57.72,-879,42577,-2%,"-$50,732",0.0,1.0,0.0,8.0,ARW
+637,D,2014-11-19 12:27:35,2014-11-17,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale+OE,$57.66,-300,21904,-1%,"-$17,297",-1.0,0.0,-1.0,7.0,ARW
+638,,2014-11-19 12:27:05,2014-11-17,ARW,Morris Mary Catherine,"SVP, CSO",M - OptEx,$28.34,11682,20285,+136%,"+$331,068",-1.0,0.0,-1.0,7.0,ARW
+639,,2014-11-19 12:27:05,2014-11-17,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$57.45,-11382,20285,-36%,"-$653,863",-1.0,0.0,-1.0,7.0,ARW
+640,,2014-11-13 12:27:16,2014-11-11,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$57.74,-3506,21904,-14%,"-$202,444",-2.0,0.0,-3.0,8.0,ARW
+641,D,2014-08-25 09:20:42,2014-08-21,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$35.59,15000,104433,+17%,"+$533,850",1.0,1.0,-6.0,2.0,ARW
+642,D,2014-08-25 09:20:42,2014-08-21,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$62.02,-15000,104433,-13%,"-$930,284",1.0,1.0,-6.0,2.0,ARW
+643,,2014-08-25 09:17:32,2014-02-25,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$55.76,-1720,104453,-2%,"-$95,907",1.0,1.0,-6.0,2.0,ARW
+644,,2014-08-19 09:39:40,2014-08-15,ARW,Morris Mary Catherine,"SVP, CSO",M - OptEx,$16.82,5847,23491,+33%,"+$98,347",1.0,2.0,0.0,2.0,ARW
+645,,2014-08-19 09:39:40,2014-08-15,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$60.69,-7347,23491,-24%,"-$445,914",1.0,2.0,0.0,2.0,ARW
+646,,2014-08-07 09:49:33,2014-08-05,ARW,Melvin Vincent P,"VP, CIO",S - Sale,$58.38,-5500,21144,-21%,"-$321,067",-1.0,3.0,7.0,-1.0,ARW
+647,,2014-07-29 09:36:37,2014-07-25,ARW,Schuck Eric,"Pres, Global Components",F - Tax,$60.16,-253,16801,-1%,"-$15,220",-3.0,-4.0,2.0,-7.0,ARW
+648,,2014-07-29 09:26:19,2014-07-25,ARW,Kerins Sean J,"Pres, Global ECS",F - Tax,$60.16,-330,14159,-2%,"-$19,853",-3.0,-4.0,2.0,-7.0,ARW
+649,,2014-06-02 13:58:59,2014-05-29,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$57.77,-2200,26910,-8%,"-$127,089",0.0,3.0,5.0,1.0,ARW
+650,,2014-05-29 12:06:11,2014-05-22,ARW,Kerins Sean J,"Pres, Global ECS",S - Sale,$56.62,-5000,6117,-45%,"-$283,100",0.0,1.0,3.0,1.0,ARW
+651,,2014-05-23 14:58:49,2014-05-22,ARW,Brown Peter S,"SVP, GC",S - Sale,$56.78,-4300,23204,-16%,"-$244,151",1.0,2.0,6.0,2.0,ARW
+652,A,2014-03-19 09:57:50,2014-02-19,ARW,Schuck Eric,"Pres, Global Components",F - Tax,$56.15,-441,14719,-3%,"-$24,762",0.0,3.0,4.0,7.0,ARW
+653,,2014-03-03 14:26:34,2014-02-28,ARW,Brown Peter S,"SVP, GC",S - Sale,$57.13,-2187,27504,-7%,"-$124,947",-3.0,0.0,5.0,9.0,ARW
+654,,2014-03-03 14:25:15,2014-02-28,ARW,Brown Peter S,"SVP, GC",S - Sale,$57.04,-9813,29691,-25%,"-$559,707",-3.0,0.0,5.0,9.0,ARW
+655,D,2014-02-28 16:54:28,2014-02-27,ARW,Bryant Andrew S,"Pres, Global ECS",M - OptEx,$28.34,4770,43456,+12%,"+$135,182",-3.0,-2.0,1.0,9.0,ARW
+656,D,2014-02-28 16:54:28,2014-02-27,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale+OE,$55.93,-12370,43456,-22%,"-$691,815",-3.0,-2.0,1.0,9.0,ARW
+657,,2014-02-28 16:51:14,2014-02-27,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$56.38,-4516,29110,-13%,"-$254,606",-3.0,-2.0,1.0,9.0,ARW
+658,D,2014-02-27 16:55:25,2014-02-26,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$56.36,-6179,301725,-2%,"-$348,278",0.0,-1.0,1.0,10.0,ARW
+659,,2014-02-27 16:52:52,2014-02-26,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$56.11,-9900,304814,-3%,"-$555,531",0.0,-1.0,1.0,10.0,ARW
+660,,2014-02-27 16:52:01,2014-02-26,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$55.86,-10303,314714,-3%,"-$575,519",0.0,-1.0,1.0,10.0,ARW
+661,,2014-02-27 16:51:06,2014-02-26,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$55.66,-11429,325017,-3%,"-$636,109",0.0,-1.0,1.0,10.0,ARW
+662,,2014-02-27 16:50:13,2014-02-26,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$28.34,66779,336446,+25%,"+$1,892,517",0.0,-1.0,1.0,10.0,ARW
+663,,2014-02-27 16:50:13,2014-02-26,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$55.55,-28968,336446,-8%,"-$1,609,248",0.0,-1.0,1.0,10.0,ARW
+664,,2014-02-27 16:16:36,2014-02-26,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale,$56.01,-1400,51056,-3%,"-$78,418",0.0,-1.0,1.0,10.0,ARW
+665,,2014-02-27 15:46:14,2014-02-25,ARW,Schuck Eric,"Pres, Global Components",F - Tax,$55.76,-154,10403,-1%,"-$8,587",1.0,0.0,2.0,11.0,ARW
+666,,2014-02-27 15:42:39,2014-02-25,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$55.76,-833,124630,-1%,"-$46,448",1.0,0.0,2.0,11.0,ARW
+667,,2014-02-27 15:40:03,2014-02-25,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$55.76,-387,26644,-1%,"-$21,579",1.0,0.0,2.0,11.0,ARW
+668,,2014-02-27 15:36:23,2014-02-25,ARW,Brown Peter S,"SVP, GC",F - Tax,$55.76,-885,39914,-2%,"-$49,348",1.0,0.0,2.0,11.0,ARW
+669,,2014-02-27 15:33:36,2014-02-25,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$55.76,-672,33626,-2%,"-$37,471",1.0,0.0,2.0,11.0,ARW
+670,,2014-02-27 15:30:50,2014-02-25,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$55.76,-823,52456,-2%,"-$45,890",1.0,0.0,2.0,11.0,ARW
+671,,2014-02-27 15:09:18,2014-02-25,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$55.76,-2877,301725,-1%,"-$160,422",1.0,0.0,2.0,11.0,ARW
+672,D,2014-02-26 15:54:27,2014-02-24,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$56.02,-6380,53279,-11%,"-$357,408",0.0,0.0,4.0,11.0,ARW
+673,D,2014-02-26 15:54:27,2014-02-24,ARW,Bryant Andrew S,"Pres, Global ECS",M - OptEx,$52.40,16552,53279,+45%,"+$867,292",0.0,0.0,4.0,11.0,ARW
+674,D,2014-02-26 15:54:27,2014-02-24,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale+OE,$56.27,-4948,53279,-8%,"-$278,417",0.0,0.0,4.0,11.0,ARW
+675,,2014-02-26 15:52:51,2014-02-24,ARW,Bryant Andrew S,"Pres, Global ECS",M - OptEx,$39.47,7298,47864,+18%,"+$288,057",0.0,0.0,4.0,11.0,ARW
+676,,2014-02-26 15:52:51,2014-02-24,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale,$56.36,-6496,47864,-12%,"-$366,102",0.0,0.0,4.0,11.0,ARW
+677,,2014-02-26 15:23:40,2014-02-24,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$56.02,-13344,106173,-11%,"-$747,531",0.0,0.0,4.0,11.0,ARW
+678,,2014-02-26 15:23:40,2014-02-24,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$56.02,23261,106173,+28%,"+$1,303,081",0.0,0.0,4.0,11.0,ARW
+679,,2014-02-26 15:21:52,2014-02-24,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$56.02,-5384,34298,-14%,"-$301,612",0.0,0.0,4.0,11.0,ARW
+680,,2014-02-26 15:21:52,2014-02-24,ARW,Morris Mary Catherine,"SVP, CSO",M - OptEx,$56.02,10468,34298,+44%,"+$586,417",0.0,0.0,4.0,11.0,ARW
+681,,2014-02-26 15:20:11,2014-02-24,ARW,Schuck Eric,"Pres, Global Components",F - Tax,$56.02,-1682,10557,-14%,"-$94,226",0.0,0.0,4.0,11.0,ARW
+682,,2014-02-26 15:20:11,2014-02-24,ARW,Schuck Eric,"Pres, Global Components",M - OptEx,$56.02,3101,10557,+42%,"+$173,718",0.0,0.0,4.0,11.0,ARW
+683,,2014-02-26 15:18:04,2014-02-24,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$56.02,-6645,125463,-5%,"-$372,253",0.0,0.0,4.0,11.0,ARW
+684,,2014-02-26 15:18:04,2014-02-24,ARW,Kong Peter T M,"Pres, Global Components",M - OptEx,$56.02,14344,125463,+13%,"+$803,551",0.0,0.0,4.0,11.0,ARW
+685,,2014-02-26 15:15:58,2014-02-24,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$56.02,-24042,304602,-7%,"-$1,346,833",0.0,0.0,4.0,11.0,ARW
+686,,2014-02-26 15:15:58,2014-02-24,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$56.02,48074,304602,+19%,"+$2,693,105",0.0,0.0,4.0,11.0,ARW
+687,,2014-02-26 15:13:09,2014-02-24,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$56.02,-2991,27031,-10%,"-$167,556",0.0,0.0,4.0,11.0,ARW
+688,,2014-02-26 15:13:09,2014-02-24,ARW,Melvin Vincent P,"VP, CIO",M - OptEx,$56.02,8141,27031,+43%,"+$456,059",0.0,0.0,4.0,11.0,ARW
+689,,2014-02-26 15:11:06,2014-02-24,ARW,Brown Peter S,"SVP, GC",F - Tax,$56.02,-7163,40799,-15%,"-$401,271",0.0,0.0,4.0,11.0,ARW
+690,,2014-02-26 15:11:06,2014-02-24,ARW,Brown Peter S,"SVP, GC",M - OptEx,$56.02,12793,40799,+46%,"+$716,664",0.0,0.0,4.0,11.0,ARW
+691,,2014-02-25 17:26:36,2014-02-21,ARW,Zech Gretchen,"SVP, HR",F - Tax,$56.15,-224,8361,-3%,"-$12,578",0.0,-1.0,5.0,11.0,ARW
+692,,2014-02-25 17:24:28,2014-02-21,ARW,Brown Peter S,"SVP, GC",F - Tax,$56.15,-624,35169,-2%,"-$35,038",0.0,-1.0,5.0,11.0,ARW
+693,,2014-02-25 17:22:29,2014-02-21,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$56.15,-274,21881,-1%,"-$15,385",0.0,-1.0,5.0,11.0,ARW
+694,,2014-02-25 17:20:27,2014-02-21,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$56.15,-1892,280570,-1%,"-$106,236",0.0,-1.0,5.0,11.0,ARW
+695,,2014-02-25 17:18:33,2014-02-21,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$56.15,-581,29214,-2%,"-$32,623",0.0,-1.0,5.0,11.0,ARW
+696,,2014-02-25 17:15:55,2014-02-21,ARW,Schuck Eric,"Pres, Global Components",F - Tax,$56.15,-303,9138,-3%,"-$17,013",0.0,-1.0,5.0,11.0,ARW
+697,,2014-02-25 17:09:14,2014-02-21,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$56.15,-685,54044,-1%,"-$38,463",0.0,-1.0,5.0,11.0,ARW
+698,,2014-02-25 17:07:36,2014-02-21,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$56.15,-1295,96256,-1%,"-$72,714",0.0,-1.0,5.0,11.0,ARW
+699,,2014-02-25 17:04:56,2014-02-21,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$56.15,-719,117764,-1%,"-$40,372",0.0,-1.0,5.0,11.0,ARW
+700,,2014-02-24 15:31:05,2014-02-20,ARW,Melvin Vincent P,"VP, CIO",S - Sale,$56.51,-7272,22155,-25%,"-$410,948",0.0,1.0,2.0,11.0,ARW
+701,D,2014-02-21 17:57:30,2014-02-19,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$56.66,-6031,97551,-6%,"-$341,711",0.0,0.0,2.0,10.0,ARW
+702,,2014-02-21 17:55:00,2014-02-19,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$56.56,-16600,99793,-14%,"-$938,924",0.0,0.0,2.0,10.0,ARW
+703,,2014-02-21 17:53:50,2014-02-19,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$28.34,26831,116393,+30%,"+$760,391",0.0,0.0,2.0,10.0,ARW
+704,,2014-02-21 17:53:50,2014-02-19,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$56.52,-10657,116393,-8%,"-$602,364",0.0,0.0,2.0,10.0,ARW
+705,,2014-02-21 17:52:56,2014-02-19,ARW,Reilly Paul J,"EVP, CFO",A - Grant,$56.15,9625,100219,+11%,"+$540,444",0.0,0.0,2.0,10.0,ARW
+706,,2014-02-21 17:52:56,2014-02-19,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$56.15,-900,100219,-1%,"-$50,535",0.0,0.0,2.0,10.0,ARW
+707,,2014-02-21 17:52:56,2014-02-19,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$56.42,-6043,100219,-6%,"-$340,966",0.0,0.0,2.0,10.0,ARW
+708,,2014-02-21 17:51:13,2014-02-19,ARW,Bryant Andrew S,"Pres, Global ECS",A - Grant,$56.15,6317,54729,+13%,"+$354,700",0.0,0.0,2.0,10.0,ARW
+709,,2014-02-21 17:51:13,2014-02-19,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$56.15,-755,54729,-1%,"-$42,393",0.0,0.0,2.0,10.0,ARW
+710,,2014-02-21 16:52:11,2014-02-19,ARW,Melvin Vincent P,"VP, CIO",A - Grant,$56.15,3159,29427,+12%,"+$177,378",0.0,0.0,2.0,10.0,ARW
+711,,2014-02-21 16:52:11,2014-02-19,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$56.15,-306,29427,-1%,"-$17,182",0.0,0.0,2.0,10.0,ARW
+712,,2014-02-21 16:50:59,2014-02-19,ARW,Brown Peter S,"SVP, GC",A - Grant,$56.15,4963,35793,+16%,"+$278,672",0.0,0.0,2.0,10.0,ARW
+713,,2014-02-21 16:50:59,2014-02-19,ARW,Brown Peter S,"SVP, GC",F - Tax,$56.15,-603,35793,-2%,"-$33,858",0.0,0.0,2.0,10.0,ARW
+714,,2014-02-21 16:49:35,2014-02-19,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$56.15,28874,282462,+11%,"+$1,621,275",0.0,0.0,2.0,10.0,ARW
+715,,2014-02-21 16:49:35,2014-02-19,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$56.15,-2308,282462,-1%,"-$129,594",0.0,0.0,2.0,10.0,ARW
+716,,2014-02-21 16:48:29,2014-02-19,ARW,Morris Mary Catherine,"SVP, CSO",A - Grant,$56.15,4813,29795,+19%,"+$270,250",0.0,0.0,2.0,10.0,ARW
+717,,2014-02-21 16:48:29,2014-02-19,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$56.15,-596,29795,-2%,"-$33,465",0.0,0.0,2.0,10.0,ARW
+718,,2014-02-21 16:45:10,2014-02-19,ARW,Schuck Eric,"Pres, Global Components",F - Tax,$56.15,-441,9441,-4%,"-$24,762",0.0,0.0,2.0,10.0,ARW
+719,,2014-02-21 11:08:46,2014-02-19,ARW,Kong Peter T M,"Pres, Global Components",A - Grant,$56.15,7219,118483,+6%,"+$405,347",-1.0,-1.0,1.0,9.0,ARW
+720,,2014-02-21 11:08:46,2014-02-19,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$56.15,-715,118483,-1%,"-$40,147",-1.0,-1.0,1.0,9.0,ARW
+721,,2014-02-21 11:01:02,2014-02-19,ARW,Zech Gretchen,"SVP, HR",A - Grant,$56.15,3008,8585,+54%,"+$168,899",-1.0,-1.0,1.0,9.0,ARW
+722,,2014-02-21 11:01:02,2014-02-19,ARW,Zech Gretchen,"SVP, HR",F - Tax,$56.15,-281,8585,-3%,"-$15,778",-1.0,-1.0,1.0,9.0,ARW
+723,D,2014-02-20 12:20:42,2014-02-18,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$56.55,-3100,97722,-3%,"-$175,312",1.0,0.0,1.0,9.0,ARW
+724,,2014-02-20 12:19:12,2014-02-18,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$26.90,15000,100637,+18%,"+$403,500",1.0,0.0,1.0,9.0,ARW
+725,M,2014-02-20 12:19:12,2014-02-18,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$56.46,-13000,100637,-11%,"-$734,023",1.0,0.0,1.0,9.0,ARW
+726,,2014-02-20 12:17:48,2014-02-18,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$56.60,-11400,98637,-10%,"-$645,202",1.0,0.0,1.0,9.0,ARW
+727,,2014-02-20 12:01:42,2014-02-18,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$55.53,-2700,25578,-10%,"-$149,936",1.0,0.0,1.0,9.0,ARW
+728,D,2014-02-12 17:38:18,2014-02-11,ARW,Brown Peter S,"SVP, GC",M - OptEx,$16.82,7387,31433,+31%,"+$124,249",1.0,4.0,0.0,9.0,ARW
+729,D,2014-02-12 17:38:18,2014-02-11,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$54.31,-10497,31433,-25%,"-$570,109",1.0,4.0,0.0,9.0,ARW
+730,D,2014-02-12 15:24:40,2014-02-10,ARW,Morris Mary Catherine,"SVP, CSO",M - OptEx,$40.15,3285,26359,+14%,"+$131,893",0.0,4.0,0.0,9.0,ARW
+731,D,2014-02-12 15:24:40,2014-02-10,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale+OE,$53.05,-1007,26359,-4%,"-$53,424",0.0,4.0,0.0,9.0,ARW
+732,D,2014-02-12 15:23:24,2014-02-10,ARW,Morris Mary Catherine,"SVP, CSO",M - OptEx,$35.22,13605,26000,+110%,"+$479,154",0.0,4.0,0.0,9.0,ARW
+733,D,2014-02-12 15:23:24,2014-02-10,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale+OE,$53.04,-15883,26000,-38%,"-$842,449",0.0,4.0,0.0,9.0,ARW
+734,,2013-12-13 16:09:08,2013-12-12,ARW,Zech Gretchen,"SVP, HR",F - Tax,$51.20,-315,5858,-5%,"-$16,128",1.0,1.0,5.0,16.0,ARW
+735,A,2013-12-13 10:50:49,2013-11-12,ARW,Bryant Andrew S,"Pres, Global ECS",M - OptEx,$38.69,6791,48976,+16%,"+$262,744",0.0,1.0,4.0,15.0,ARW
+736,D,2013-11-13 10:17:49,2013-11-12,ARW,Bryant Andrew S,"Pres, Global ECS",M - OptEx,$39.22,10692,42376,+34%,"+$419,369",1.0,-2.0,-4.0,6.0,ARW
+737,D,2013-11-13 10:17:49,2013-11-12,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale+OE,$53.20,-10692,42376,-20%,"-$568,824",1.0,-2.0,-4.0,6.0,ARW
+738,,2013-11-12 10:30:18,2013-11-11,ARW,Melvin Vincent P,"VP, CIO",S - Sale,$51.97,-2970,26574,-10%,"-$154,344",2.0,3.0,-1.0,8.0,ARW
+739,,2013-08-14 17:47:22,2013-08-13,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$47.60,-7500,110222,-6%,"-$356,975",-3.0,-1.0,2.0,14.0,ARW
+740,,2013-08-14 17:41:10,2013-08-13,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$47.60,-7500,110222,-6%,"-$356,975",-3.0,-1.0,2.0,14.0,ARW
+741,,2013-08-12 15:06:49,2013-08-09,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$46.98,-5000,117722,-4%,"-$234,919",1.0,-1.0,4.0,13.0,ARW
+742,D,2013-08-12 15:05:06,2013-08-09,ARW,Kong Peter T M,"Pres, Global Components",M - OptEx,$32.24,10000,111979,+10%,"+$322,400",1.0,-1.0,4.0,13.0,ARW
+743,D,2013-08-12 15:05:06,2013-08-09,ARW,Kong Peter T M,"Pres, Global Components",S - Sale+OE,$47.15,-10000,111979,-8%,"-$471,500",1.0,-1.0,4.0,13.0,ARW
+744,,2013-08-05 13:56:44,2013-08-02,ARW,Melvin Vincent P,"VP, CIO",S - Sale,$47.01,-8000,29544,-21%,"-$376,115",0.0,0.0,-2.0,4.0,ARW
+745,M,2013-08-02 10:58:56,2013-08-01,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$43.26,-6000,28278,-18%,"-$259,554",-1.0,-1.0,-2.0,8.0,ARW
+746,,2013-08-01 13:05:58,2013-07-30,ARW,Waddell John C,Retired Director,S - Sale,$45.64,-3500,0,-100%,"-$159,743",4.0,2.0,3.0,15.0,ARW
+747,,2013-08-01 12:05:57,2013-07-30,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale,$45.75,-10023,42376,-19%,"-$458,552",4.0,2.0,3.0,15.0,ARW
+748,,2013-07-31 09:49:10,2013-07-29,ARW,Brown Peter S,"SVP, GC",S - Sale,$44.89,-11657,34133,-25%,"-$523,261",0.0,3.0,1.0,13.0,ARW
+749,D,2013-07-25 16:21:00,2013-07-24,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$18.02,14292,126326,+13%,"+$257,539",-1.0,0.0,2.0,16.0,ARW
+750,D,2013-07-25 16:21:00,2013-07-24,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$45.00,-14292,126326,-10%,"-$643,140",-1.0,0.0,2.0,16.0,ARW
+751,,2013-05-31 10:47:09,2013-05-31,ARW,Brown Peter S,"SVP, GC",S - Sale,$40.00,-8917,46200,-16%,"-$356,680",-1.0,0.0,-1.0,29.0,ARW
+752,D,2013-05-08 13:12:33,2013-05-06,ARW,Patrick Stephen C,Dir,S - Sale+OE,$37.79,-2300,0,-100%,"-$86,914",2.0,0.0,5.0,28.0,ARW
+753,,2013-05-08 13:02:58,2013-05-06,ARW,Patrick Stephen C,Dir,M - OptEx,$17.27,15000,2300,-118%,"+$259,050",2.0,0.0,5.0,28.0,ARW
+754,,2013-05-08 13:02:58,2013-05-06,ARW,Patrick Stephen C,Dir,S - Sale,$37.64,-12700,2300,-85%,"-$478,068",2.0,0.0,5.0,28.0,ARW
+755,D,2013-03-07 15:37:12,2013-03-06,ARW,Long Michael J,"COB, Pres, CEO",S - Sale+OE,$40.66,-6700,255896,-3%,"-$272,429",1.0,2.0,-5.0,16.0,ARW
+756,,2013-03-07 15:35:56,2013-03-06,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$40.58,-13935,259506,-5%,"-$565,430",1.0,2.0,-5.0,16.0,ARW
+757,,2013-03-07 15:34:59,2013-03-06,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$19.95,36243,273441,+15%,"+$722,918",1.0,2.0,-5.0,16.0,ARW
+758,,2013-03-07 15:34:59,2013-03-06,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$40.57,-15608,273441,-5%,"-$633,270",1.0,2.0,-5.0,16.0,ARW
+759,D,2013-03-06 15:20:06,2013-03-05,ARW,Bryant Andrew S,"Pres, Global ECS",M - OptEx,$21.55,11620,52399,+28%,"+$250,399",2.0,5.0,-2.0,16.0,ARW
+760,D,2013-03-06 15:20:06,2013-03-05,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale+OE,$39.85,-11620,52399,-18%,"-$463,093",2.0,5.0,-2.0,16.0,ARW
+761,,2013-03-04 17:16:46,2013-02-14,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$40.87,-16324,252806,-6%,"-$667,116",2.0,7.0,1.0,20.0,ARW
+762,,2013-03-04 17:13:54,2013-02-14,ARW,Long Michael J,"COB, Pres, CEO",M - OptEx,$16.82,53724,269130,+25%,"+$903,638",2.0,7.0,1.0,20.0,ARW
+763,,2013-03-04 17:13:54,2013-02-14,ARW,Long Michael J,"COB, Pres, CEO",S - Sale,$40.74,-37400,269130,-12%,"-$1,523,811",2.0,7.0,1.0,20.0,ARW
+764,,2013-03-01 17:04:36,2013-02-28,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$40.25,-5559,34278,-14%,"-$223,756",-1.0,5.0,1.0,18.0,ARW
+765,A,2013-03-01 10:27:33,2013-02-21,ARW,Reilly Paul J,"EVP, CFO",A - Grant,$40.75,9963,122537,+9%,"+$405,992",-2.0,3.0,-1.0,16.0,ARW
+766,A,2013-03-01 10:03:16,2013-02-21,ARW,Morris Mary Catherine,"SVP, CSO",A - Grant,$40.75,4982,37918,+15%,"+$203,017",-2.0,3.0,-1.0,16.0,ARW
+767,A,2013-03-01 09:43:12,2013-02-21,ARW,Zech Gretchen,"SVP, HR",A - Grant,$40.75,2802,6173,+83%,"+$114,182",-2.0,3.0,-1.0,16.0,ARW
+768,A,2013-03-01 09:38:39,2013-02-21,ARW,Reilly Paul J,"EVP, CFO",A - Grant,$40.75,9963,122537,+9%,"+$405,992",-2.0,3.0,-1.0,16.0,ARW
+769,A,2013-03-01 09:30:35,2013-02-21,ARW,Melvin Vincent P,"VP, CIO",A - Grant,$40.75,3269,37348,+10%,"+$133,212",-2.0,3.0,-1.0,16.0,ARW
+770,A,2013-03-01 09:26:18,2013-02-21,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$40.75,23662,252806,+10%,"+$964,227",-2.0,3.0,-1.0,16.0,ARW
+771,A,2013-03-01 09:21:09,2013-02-21,ARW,Kong Peter T M,"Pres, Global Components",A - Grant,$40.75,6850,111606,+7%,"+$279,138",-2.0,3.0,-1.0,16.0,ARW
+772,A,2013-03-01 09:11:01,2013-02-21,ARW,Bryant Andrew S,"Pres, Global ECS",A - Grant,$40.75,5916,52208,+13%,"+$241,077",-2.0,3.0,-1.0,16.0,ARW
+773,A,2013-03-01 09:06:01,2013-02-21,ARW,Brown Peter S,"SVP, GC",A - Grant,$40.75,5137,54707,+10%,"+$209,333",-2.0,3.0,-1.0,16.0,ARW
+774,,2013-02-27 14:38:14,2013-02-26,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$39.19,-3242,34855,-9%,"-$127,054",2.0,2.0,2.0,20.0,ARW
+775,,2013-02-27 14:31:19,2013-02-26,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$39.19,-1841,34275,-5%,"-$72,149",2.0,2.0,2.0,20.0,ARW
+776,,2013-02-27 14:24:43,2013-02-26,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$39.19,-12467,232234,-5%,"-$488,582",2.0,2.0,2.0,20.0,ARW
+777,,2013-02-27 14:19:24,2013-02-26,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$39.19,-2043,105129,-2%,"-$80,065",2.0,2.0,2.0,20.0,ARW
+778,,2013-02-27 14:13:23,2013-02-26,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$39.19,-3798,46483,-8%,"-$148,844",2.0,2.0,2.0,20.0,ARW
+779,,2013-02-26 16:36:56,2013-02-25,ARW,Reilly Paul J,"EVP, CFO",A - Grant,$39.53,35726,116363,+44%,"+$1,412,249",2.0,0.0,2.0,20.0,ARW
+780,,2013-02-26 16:36:56,2013-02-25,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$39.53,-17936,116363,-13%,"-$709,010",2.0,0.0,2.0,20.0,ARW
+781,,2013-02-26 16:18:53,2013-02-25,ARW,Morris Mary Catherine,"SVP, CSO",A - Grant,$39.53,15552,38097,+69%,"+$614,771",2.0,0.0,2.0,20.0,ARW
+782,,2013-02-26 16:18:53,2013-02-25,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$39.53,-7915,38097,-17%,"-$312,880",2.0,0.0,2.0,20.0,ARW
+783,,2013-02-26 16:05:27,2013-02-25,ARW,Melvin Vincent P,"VP, CIO",A - Grant,$39.53,12504,36116,+53%,"+$494,283",2.0,0.0,2.0,20.0,ARW
+784,,2013-02-26 16:05:27,2013-02-25,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$39.53,-4959,36116,-12%,"-$196,029",2.0,0.0,2.0,20.0,ARW
+785,,2013-02-26 15:49:40,2013-02-25,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$39.53,66690,244701,+37%,"+$2,636,256",-1.0,-1.0,1.0,19.0,ARW
+786,,2013-02-26 15:49:40,2013-02-25,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$39.53,-33942,244701,-12%,"-$1,341,727",-1.0,-1.0,1.0,19.0,ARW
+787,,2013-02-26 15:26:08,2013-02-25,ARW,Kong Peter T M,"Pres, Global Components",A - Grant,$39.53,21435,107172,+25%,"+$847,326",-1.0,-1.0,1.0,19.0,ARW
+788,,2013-02-26 15:26:08,2013-02-25,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$39.53,-8198,107172,-7%,"-$324,067",-1.0,-1.0,1.0,19.0,ARW
+789,,2013-02-26 14:42:11,2013-02-25,ARW,Bryant Andrew S,"Pres, Global ECS",A - Grant,$39.53,19054,50281,+61%,"+$753,205",-1.0,-1.0,1.0,19.0,ARW
+790,,2013-02-26 14:42:11,2013-02-25,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$39.53,-9694,50281,-16%,"-$383,204",-1.0,-1.0,1.0,19.0,ARW
+791,,2013-02-26 14:02:14,2013-02-25,ARW,Brown Peter S,"SVP, GC",A - Grant,$39.53,19649,50692,+63%,"+$776,725",-1.0,-1.0,1.0,19.0,ARW
+792,,2013-02-26 14:02:14,2013-02-25,ARW,Brown Peter S,"SVP, GC",F - Tax,$39.53,-11927,50692,-19%,"-$471,474",-1.0,-1.0,1.0,19.0,ARW
+793,D,2013-02-25 17:31:34,2013-02-22,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$40.96,-905,98573,-1%,"-$37,069",-1.0,-1.0,1.0,18.0,ARW
+794,D,2013-02-25 17:31:34,2013-02-22,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$24.60,10000,98573,+11%,"+$246,000",-1.0,-1.0,1.0,18.0,ARW
+795,D,2013-02-25 17:31:34,2013-02-22,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$41.08,-10000,98573,-9%,"-$410,803",-1.0,-1.0,1.0,18.0,ARW
+796,,2013-02-25 17:18:50,2013-02-22,ARW,Brown Peter S,"SVP, GC",F - Tax,$40.96,-712,42258,-2%,"-$29,164",-1.0,-1.0,1.0,18.0,ARW
+797,,2013-02-25 17:11:09,2013-02-22,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$40.96,-301,28571,-1%,"-$12,329",-1.0,-1.0,1.0,18.0,ARW
+798,,2013-02-25 16:56:54,2013-02-22,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$40.96,-597,40921,-1%,"-$24,453",-1.0,-1.0,1.0,18.0,ARW
+799,,2013-02-25 16:46:50,2013-02-22,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$40.96,-501,30460,-2%,"-$20,521",-1.0,-1.0,1.0,18.0,ARW
+800,,2013-02-25 16:42:22,2013-02-22,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$40.96,-2333,211953,-1%,"-$95,560",-1.0,-1.0,1.0,18.0,ARW
+801,,2013-02-25 16:39:03,2013-02-22,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$40.96,-523,93935,-1%,"-$21,422",-1.0,-1.0,1.0,18.0,ARW
+802,,2013-02-22 16:15:20,2013-02-21,ARW,Zech Gretchen,"SVP, HR",F - Tax,$40.75,-251,3371,-7%,"-$10,228",-3.0,-2.0,-1.0,12.0,ARW
+803,,2013-02-22 16:12:51,2013-02-21,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$40.75,-922,99478,-1%,"-$37,572",-3.0,-2.0,-1.0,12.0,ARW
+804,,2013-02-22 16:10:30,2013-02-21,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$40.75,-570,30961,-2%,"-$23,228",-3.0,-2.0,-1.0,12.0,ARW
+805,,2013-02-22 16:06:17,2013-02-21,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$40.75,-314,28872,-1%,"-$12,796",-3.0,-2.0,-1.0,12.0,ARW
+806,,2013-02-22 16:06:17,2013-02-21,ARW,Melvin Vincent P,"VP, CIO",S - Sale,$40.85,-1700,28872,-6%,"-$69,443",-3.0,-2.0,-1.0,12.0,ARW
+807,,2013-02-22 16:02:30,2013-02-21,ARW,Melvin Vincent P,"VP, CIO",S - Sale,$40.66,-5800,30690,-16%,"-$235,844",-3.0,-2.0,-1.0,12.0,ARW
+808,,2013-02-22 15:40:48,2013-02-21,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$40.75,-2756,214286,-1%,"-$112,307",1.0,-1.0,-1.0,13.0,ARW
+809,,2013-02-22 15:33:44,2013-02-21,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$40.75,-600,94458,-1%,"-$24,450",1.0,-1.0,-1.0,13.0,ARW
+810,,2013-02-22 15:26:31,2013-02-21,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$40.75,-676,41518,-2%,"-$27,547",1.0,-1.0,-1.0,13.0,ARW
+811,,2013-02-22 15:22:00,2013-02-21,ARW,Brown Peter S,"SVP, GC",F - Tax,$40.75,-705,42970,-2%,"-$28,729",1.0,-1.0,-1.0,13.0,ARW
+812,D,2013-02-21 15:11:34,2013-02-20,ARW,Hanson John Nils,Dir,M - OptEx,$16.51,4000,6800,+143%,"+$66,040",-1.0,-3.0,0.0,14.0,ARW
+813,D,2013-02-21 15:11:34,2013-02-20,ARW,Hanson John Nils,Dir,S - Sale+OE,$41.57,-2700,6800,-28%,"-$112,252",-1.0,-3.0,0.0,14.0,ARW
+814,,2013-02-20 12:29:07,2013-02-19,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$40.83,-3500,31531,-10%,"-$142,919",-1.0,-6.0,0.0,12.0,ARW
+815,,2013-02-15 11:07:07,2013-02-14,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale,$40.50,-5580,42194,-12%,"-$225,990",-1.0,0.0,0.0,13.0,ARW
+816,,2013-02-15 10:44:07,2013-02-14,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$40.75,-14148,100400,-12%,"-$576,531",-1.0,0.0,0.0,13.0,ARW
+817,,2013-02-12 14:47:23,2013-02-11,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$40.75,-400,114548,0%,"-$16,300",0.0,3.0,3.0,17.0,ARW
+818,,2012-12-14 13:44:26,2012-12-12,ARW,Zech Gretchen,"SVP, HR",F - Tax,$38.43,-306,2946,-9%,"-$11,760",-1.0,3.0,3.0,6.0,ARW
+819,D,2012-12-14 12:41:30,2012-12-12,ARW,Perry Barry W,Dir,M - OptEx,$16.51,4000,0,-100%,"+$66,040",-1.0,3.0,3.0,6.0,ARW
+820,D,2012-12-14 12:41:30,2012-12-12,ARW,Perry Barry W,Dir,S - Sale+OE,$38.65,-4000,0,-100%,"-$154,600",-1.0,3.0,3.0,6.0,ARW
+821,D,2012-12-03 17:00:21,2012-11-30,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$37.40,-4103,27027,-13%,"-$153,447",1.0,5.0,7.0,7.0,ARW
+822,D,2012-12-03 16:56:54,2012-11-30,ARW,Brown Peter S,"SVP, GC",M - OptEx,$24.01,16006,31130,+106%,"+$384,311",1.0,5.0,7.0,7.0,ARW
+823,D,2012-12-03 16:56:54,2012-11-30,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$37.37,-12103,31130,-28%,"-$452,326",1.0,5.0,7.0,7.0,ARW
+824,D,2012-11-30 15:56:57,2012-11-29,ARW,Morris Mary Catherine,"SVP, CSO",M - OptEx,$18.24,7147,28785,+33%,"+$130,327",-1.0,2.0,1.0,5.0,ARW
+825,D,2012-11-30 15:56:57,2012-11-29,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale+OE,$37.26,-7147,28785,-20%,"-$266,330",-1.0,2.0,1.0,5.0,ARW
+826,D,2012-08-22 15:16:05,2012-08-21,ARW,Bryant Andrew S,"Pres, Global ECS",M - OptEx,$24.19,18895,47681,+66%,"+$457,009",-3.0,-3.0,-9.0,5.0,ARW
+827,D,2012-08-22 15:16:05,2012-08-21,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale+OE,$38.00,-18895,47681,-28%,"-$718,010",-3.0,-3.0,-9.0,5.0,ARW
+828,,2012-05-02 17:03:26,2012-05-01,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$38.37,-821,47681,-2%,"-$31,502",-3.0,-5.0,-14.0,-10.0,ARW
+829,D,2012-03-05 13:43:27,2012-03-02,ARW,Morris Mary Catherine,"SVP, CSO",M - OptEx,$16.82,5847,34938,+20%,"+$98,347",-2.0,2.0,4.0,-10.0,ARW
+830,D,2012-03-05 13:43:27,2012-03-02,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale+OE,$40.80,-6517,34938,-16%,"-$265,881",-2.0,2.0,4.0,-10.0,ARW
+831,,2012-03-05 13:23:36,2012-03-02,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$40.72,-10764,111159,-9%,"-$438,261",-2.0,2.0,4.0,-10.0,ARW
+832,D,2012-03-05 13:22:39,2012-03-02,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$16.82,36264,121923,+42%,"+$609,960",-2.0,2.0,4.0,-10.0,ARW
+833,D,2012-03-05 13:22:39,2012-03-02,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$40.37,-25500,121923,-17%,"-$1,029,425",-2.0,2.0,4.0,-10.0,ARW
+834,,2012-03-01 16:39:44,2012-02-29,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$40.15,-641,35608,-2%,"-$25,736",0.0,-1.0,4.0,-9.0,ARW
+835,,2012-03-01 16:34:39,2012-02-29,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$40.15,-454,36594,-1%,"-$18,228",0.0,-1.0,4.0,-9.0,ARW
+836,,2012-03-01 16:30:10,2012-02-29,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$40.15,-2099,216949,-1%,"-$84,275",0.0,-1.0,4.0,-9.0,ARW
+837,,2012-03-01 16:17:18,2012-02-29,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$40.15,-722,94965,-1%,"-$28,988",0.0,-1.0,4.0,-9.0,ARW
+838,D,2012-02-29 16:50:42,2012-02-28,ARW,Hanson John Nils,Dir,M - OptEx,$26.23,4000,5500,+267%,"+$104,920",0.0,-4.0,4.0,-9.0,ARW
+839,D,2012-02-29 16:50:42,2012-02-28,ARW,Hanson John Nils,Dir,S - Sale+OE,$40.90,-3000,5500,-35%,"-$122,697",0.0,-4.0,4.0,-9.0,ARW
+840,,2012-02-28 17:14:58,2012-02-24,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$40.64,-2677,114855,-2%,"-$108,793",-1.0,-2.0,5.0,-9.0,ARW
+841,,2012-02-28 17:10:35,2012-02-24,ARW,Morris Mary Catherine,"SVP, CSO",F - Tax,$40.64,-2986,36249,-8%,"-$121,351",-1.0,-2.0,5.0,-9.0,ARW
+842,,2012-02-28 17:02:54,2012-02-24,ARW,Melvin Vincent P,"VP, CIO",F - Tax,$40.64,-2553,37048,-6%,"-$103,754",-1.0,-2.0,5.0,-9.0,ARW
+843,,2012-02-28 16:59:16,2012-02-24,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$40.64,-13693,219048,-6%,"-$556,484",-1.0,-2.0,5.0,-9.0,ARW
+844,,2012-02-28 16:52:59,2012-02-24,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$40.64,-3261,95687,-3%,"-$132,527",-1.0,-2.0,5.0,-9.0,ARW
+845,,2012-02-28 16:47:05,2012-02-24,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$40.64,-3521,48502,-7%,"-$143,093",-1.0,-2.0,5.0,-9.0,ARW
+846,,2012-02-28 16:43:28,2012-02-24,ARW,Brown Peter S,"SVP, GC",F - Tax,$40.64,-1255,43583,-3%,"-$51,003",-1.0,-2.0,5.0,-9.0,ARW
+847,D,2012-02-21 16:47:32,2012-02-17,ARW,Long Michael J,"COB, Pres,, CEO",S - Sale+OE,$40.34,-1400,232741,-1%,"-$56,473",-2.0,1.0,4.0,-6.0,ARW
+848,,2012-02-21 16:46:04,2012-02-17,ARW,Long Michael J,"COB, Pres,, CEO",M - OptEx,$24.17,14250,231144,+7%,"+$344,375",-2.0,1.0,4.0,-6.0,ARW
+849,,2012-02-21 16:46:04,2012-02-17,ARW,Long Michael J,"COB, Pres,, CEO",S - Sale,$40.24,-12850,231144,-5%,"-$517,066",-2.0,1.0,4.0,-6.0,ARW
+850,,2012-02-17 13:59:31,2012-02-16,ARW,Brown Peter S,"SVP, GC",S - Sale,$40.81,-2950,44838,-6%,"-$120,386",-1.0,0.0,3.0,-8.0,ARW
+851,D,2012-02-15 15:15:48,2012-02-14,ARW,Waddell John C,Dir,M - OptEx,$16.51,4000,35,-101%,"+$66,040",1.0,-2.0,4.0,-8.0,ARW
+852,D,2012-02-15 15:15:48,2012-02-14,ARW,Waddell John C,Dir,S - Sale+OE,$39.97,-4000,35,-99%,"-$159,891",1.0,-2.0,4.0,-8.0,ARW
+853,,2012-02-14 17:16:35,2012-02-12,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$42.63,-13568,117532,-10%,"-$578,404",1.0,0.0,3.0,-9.0,ARW
+854,,2012-02-14 15:48:38,2012-02-13,ARW,Morris Mary Catherine,"SVP, CSO",S - Sale,$39.98,-7000,39235,-15%,"-$279,858",-1.0,-1.0,2.0,-10.0,ARW
+855,,2012-02-13 15:09:07,2012-02-09,ARW,Brown Peter S,"SVP, GC",S - Sale,$40.81,-2950,47788,-6%,"-$120,385",1.0,0.0,3.0,-9.0,ARW
+856,D,2012-02-08 16:26:57,2012-02-06,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$20.15,20000,131100,+18%,"+$403,000",0.0,-2.0,-1.0,-11.0,ARW
+857,D,2012-02-08 16:26:57,2012-02-06,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$41.87,-20000,131100,-13%,"-$837,462",0.0,-2.0,-1.0,-11.0,ARW
+858,D,2012-02-06 16:35:57,2012-02-06,ARW,Duval Daniel W,Dir,M - OptEx,$21.37,8000,23200,+53%,"+$170,960",-3.0,-4.0,-8.0,-16.0,ARW
+859,D,2012-02-06 16:35:57,2012-02-06,ARW,Duval Daniel W,Dir,S - Sale+OE,$42.01,-8000,23200,-26%,"-$336,057",-3.0,-4.0,-8.0,-16.0,ARW
+860,D,2011-08-09 14:10:03,2011-08-05,ARW,McMahon John Philip,Retired Sr. Vice President,M - OptEx,$16.82,12894,9238,-353%,"+$216,877",7.0,17.0,10.0,46.0,ARW
+861,D,2011-08-09 14:10:03,2011-08-05,ARW,McMahon John Philip,Retired Sr. Vice President,S - Sale+OE,$29.36,-25302,9238,-73%,"-$742,777",7.0,17.0,10.0,46.0,ARW
+862,,2011-07-12 17:13:56,2011-07-11,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$38.25,-7000,131100,-5%,"-$267,733",0.0,-4.0,-19.0,0.0,ARW
+863,,2011-07-12 17:12:34,2011-07-11,ARW,Reilly Paul J,"EVP, CFO",S - Sale,$38.58,-6800,134404,-5%,"-$262,339",0.0,-4.0,-19.0,0.0,ARW
+864,D,2011-07-12 17:11:08,2011-07-11,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$22.50,7500,141204,+6%,"+$168,750",0.0,-4.0,-19.0,0.0,ARW
+865,D,2011-07-12 17:11:08,2011-07-11,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$38.93,-6200,141204,-4%,"-$241,377",0.0,-4.0,-19.0,0.0,ARW
+866,,2011-06-02 17:01:38,2011-05-31,ARW,McMahon John Philip,Retired Officer,A - Grant,$44.63,4339,21646,+25%,"+$193,650",-3.0,-7.0,-2.0,-19.0,ARW
+867,,2011-06-02 17:01:38,2011-05-31,ARW,McMahon John Philip,Retired Officer,F - Tax,$44.63,-9975,21646,-32%,"-$445,184",-3.0,-7.0,-2.0,-19.0,ARW
+868,D,2011-05-19 17:05:33,2011-05-18,ARW,Bryant Andrew S,"Pres, Global ECS",M - OptEx,$24.19,18895,52023,+57%,"+$457,009",-2.0,-7.0,-20.0,-20.0,ARW
+869,D,2011-05-19 17:05:33,2011-05-18,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale+OE,$45.00,-20451,52023,-28%,"-$920,295",-2.0,-7.0,-20.0,-20.0,ARW
+870,,2011-05-18 16:10:29,2011-05-18,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale,$45.03,-7434,53579,-12%,"-$334,748",0.0,-8.0,-20.0,-24.0,ARW
+871,D,2011-05-13 17:29:07,2011-05-11,ARW,Brown Peter S,"SVP, GC",M - OptEx,$30.79,60103,51065,-665%,"+$1,850,638",-2.0,0.0,-15.0,-25.0,ARW
+872,D,2011-05-13 17:29:07,2011-05-11,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$45.89,-60103,51065,-54%,"-$2,758,188",-2.0,0.0,-15.0,-25.0,ARW
+873,D,2011-05-12 17:46:38,2011-05-11,ARW,Waddell John C,Dir,M - OptEx,$26.23,4000,35,-101%,"+$104,920",-1.0,-1.0,-16.0,-22.0,ARW
+874,D,2011-05-12 17:46:38,2011-05-11,ARW,Waddell John C,Dir,S - Sale+OE,$46.34,-4000,35,-99%,"-$185,357",-1.0,-1.0,-16.0,-22.0,ARW
+875,,2011-05-10 17:40:39,2011-05-06,ARW,McMahon John Philip,"SVP, GC",F - Tax,$44.67,-694,27282,-2%,"-$31,001",-1.0,-3.0,-15.0,-22.0,ARW
+876,A,2011-05-10 17:27:40,2011-05-02,ARW,McMahon John Philip,SVP,S - Sale,$45.48,-10525,27976,-27%,"-$478,720",-1.0,-3.0,-15.0,-22.0,ARW
+877,A,2011-05-10 17:26:00,2011-05-02,ARW,McMahon John Philip,SVP,S - Sale,$45.43,-21494,38398,-36%,"-$976,486",-1.0,-3.0,-15.0,-22.0,ARW
+878,AD,2011-05-10 17:24:35,2011-05-02,ARW,McMahon John Philip,SVP,M - OptEx,$23.53,22419,59892,+60%,"+$527,487",-1.0,-3.0,-15.0,-22.0,ARW
+879,AD,2011-05-10 17:24:35,2011-05-02,ARW,McMahon John Philip,SVP,S - Sale+OE,$45.31,-21039,59892,-26%,"-$953,197",-1.0,-3.0,-15.0,-22.0,ARW
+880,,2011-05-04 10:57:24,2011-05-02,ARW,McMahon John Philip,SVP,S - Sale,$45.53,-10525,30302,-26%,"-$479,212",1.0,3.0,-6.0,-20.0,ARW
+881,,2011-05-04 09:02:56,2011-05-02,ARW,McMahon John Philip,SVP,S - Sale,$45.43,-21494,40724,-35%,"-$976,486",1.0,3.0,-6.0,-20.0,ARW
+882,D,2011-05-03 16:22:07,2011-05-02,ARW,McMahon John Philip,SVP,M - OptEx,$23.53,22419,135950,+20%,"+$527,487",1.0,1.0,-4.0,-18.0,ARW
+883,D,2011-05-03 16:22:07,2011-05-02,ARW,McMahon John Philip,SVP,S - Sale+OE,$45.28,-21039,135950,-13%,"-$952,604",1.0,1.0,-4.0,-18.0,ARW
+884,,2011-05-02 15:37:08,2011-04-29,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$45.59,-1085,60918,-2%,"-$49,465",0.0,-2.0,-2.0,-18.0,ARW
+885,D,2011-04-28 10:38:47,2011-04-27,ARW,Perry Barry W,Dir,M - OptEx,$26.23,2000,0,-100%,"+$52,460",1.0,-1.0,-5.0,-27.0,ARW
+886,D,2011-04-28 10:38:47,2011-04-27,ARW,Perry Barry W,Dir,S - Sale+OE,$45.00,-2000,0,-100%,"-$90,000",1.0,-1.0,-5.0,-27.0,ARW
+887,D,2011-04-01 17:12:18,2011-03-31,ARW,Perry Barry W,Dir,M - OptEx,$26.23,2000,0,-100%,"+$52,460",2.0,6.0,10.0,-30.0,ARW
+888,D,2011-04-01 17:12:18,2011-03-31,ARW,Perry Barry W,Dir,S - Sale+OE,$42.00,-2000,0,-100%,"-$84,000",2.0,6.0,10.0,-30.0,ARW
+889,A,2011-03-10 13:01:00,2011-02-25,ARW,Kong Peter T M,"Pres, Global Components",A - Grant,$39.41,7940,98668,+9%,"+$312,915",-1.0,-2.0,12.0,-22.0,ARW
+890,A,2011-03-10 13:01:00,2011-02-25,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$39.41,-695,98668,-1%,"-$27,390",-1.0,-2.0,12.0,-22.0,ARW
+891,D,2011-03-09 12:28:19,2011-03-08,ARW,Perry Barry W,Dir,M - OptEx,$26.52,2000,0,-100%,"+$53,040",-3.0,-4.0,7.0,-28.0,ARW
+892,D,2011-03-09 12:28:19,2011-03-08,ARW,Perry Barry W,Dir,S - Sale+OE,$40.50,-2000,0,-100%,"-$81,000",-3.0,-4.0,7.0,-28.0,ARW
+893,A,2011-03-08 15:15:57,2011-02-25,ARW,Brown Peter S,"SVP, GC",F - Tax,$39.41,-13443,50420,-21%,"-$529,789",6.0,2.0,12.0,-22.0,ARW
+894,AD,2011-03-02 16:47:08,2011-02-24,ARW,McMahon John Philip,SVP,A - Grant,$38.69,2327,43270,+6%,"+$90,032",2.0,3.0,6.0,-17.0,ARW
+895,,2011-03-01 17:35:24,2011-02-25,ARW,McMahon John Philip,SVP,A - Grant,$39.41,27756,60846,+84%,"+$1,093,864",1.0,-1.0,7.0,-19.0,ARW
+896,M,2011-03-01 17:35:24,2011-02-25,ARW,McMahon John Philip,SVP,F - Tax,$39.40,-12514,60846,-17%,"-$492,993",1.0,-1.0,7.0,-19.0,ARW
+897,,2011-03-01 17:11:25,2011-02-25,ARW,Reilly Paul J,"EVP, CFO",A - Grant,$39.41,55193,143505,+62%,"+$2,175,156",1.0,-1.0,7.0,-19.0,ARW
+898,M,2011-03-01 17:11:25,2011-02-25,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$39.40,-27036,143505,-16%,"-$1,065,133",1.0,-1.0,7.0,-19.0,ARW
+899,,2011-03-01 17:09:19,2011-02-25,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$39.41,99373,232649,+75%,"+$3,916,290",1.0,-1.0,7.0,-19.0,ARW
+900,M,2011-03-01 17:09:19,2011-02-25,ARW,Long Michael J,"COB, Pres, CEO",F - Tax,$39.40,-43771,232649,-16%,"-$1,724,574",1.0,-1.0,7.0,-19.0,ARW
+901,,2011-03-01 17:07:10,2011-02-25,ARW,Kong Peter T M,"Pres, Global Components",A - Grant,$39.41,33295,99170,+51%,"+$1,312,156",1.0,-1.0,7.0,-19.0,ARW
+902,,2011-03-01 17:07:10,2011-02-25,ARW,Kong Peter T M,"Pres, Global Components",F - Tax,$39.41,-731,99170,-1%,"-$28,809",1.0,-1.0,7.0,-19.0,ARW
+903,,2011-03-01 17:05:05,2011-02-25,ARW,Bryant Andrew S,"Pres, Global ECS",A - Grant,$39.41,29800,62003,+93%,"+$1,174,418",1.0,-1.0,7.0,-19.0,ARW
+904,,2011-03-01 17:05:05,2011-02-25,ARW,Bryant Andrew S,"Pres, Global ECS",F - Tax,$39.41,-11793,62003,-16%,"-$464,762",1.0,-1.0,7.0,-19.0,ARW
+905,,2011-03-01 17:02:36,2011-02-25,ARW,Brown Peter S,"SVP, GC",A - Grant,$39.41,31804,52985,+150%,"+$1,253,396",1.0,-1.0,7.0,-19.0,ARW
+906,,2011-03-01 17:02:36,2011-02-25,ARW,Brown Peter S,"SVP, GC",F - Tax,$39.41,-11428,52985,-18%,"-$450,377",1.0,-1.0,7.0,-19.0,ARW
+907,D,2011-02-28 18:17:31,2011-02-24,ARW,Reilly Paul J,"EVP, CFO",A - Grant,$38.69,9693,115348,+9%,"+$375,022",-2.0,-1.0,5.0,-24.0,ARW
+908,D,2011-02-28 18:15:18,2011-02-24,ARW,McMahon John Philip,SVP,A - Grant,$38.69,4653,45604,+11%,"+$180,025",-2.0,-1.0,5.0,-24.0,ARW
+909,D,2011-02-28 18:13:26,2011-02-24,ARW,Long Michael J,"COB, Pres, CEO",A - Grant,$38.69,20032,177047,+13%,"+$775,038",-2.0,-1.0,5.0,-24.0,ARW
+910,D,2011-02-28 18:11:41,2011-02-24,ARW,Kong Peter T M,"Pres, Global Components",A - Grant,$38.69,5977,66606,+10%,"+$231,250",-2.0,-1.0,5.0,-24.0,ARW
+911,D,2011-02-28 18:08:31,2011-02-24,ARW,Bryant Andrew S,"Pres, Global ECS",A - Grant,$38.69,5170,43996,+13%,"+$200,027",-2.0,-1.0,5.0,-24.0,ARW
+912,D,2011-02-28 18:06:13,2011-02-24,ARW,Brown Peter S,"SVP, GC",A - Grant,$38.69,5331,32609,+20%,"+$206,256",-2.0,-1.0,5.0,-24.0,ARW
+913,D,2011-02-28 11:57:45,2011-02-25,ARW,Perry Barry W,Dir,M - OptEx,$26.52,2000,0,-100%,"+$53,040",-1.0,-2.0,4.0,-25.0,ARW
+914,D,2011-02-28 11:57:45,2011-02-25,ARW,Perry Barry W,Dir,S - Sale+OE,$39.50,-2000,0,-100%,"-$79,000",-1.0,-2.0,4.0,-25.0,ARW
+915,,2011-02-22 10:41:59,2011-02-17,ARW,King Roger,Dir,S - Sale,$41.60,-8000,3000,-73%,"-$332,800",-4.0,-7.0,-4.0,-31.0,ARW
+916,D,2011-02-17 17:08:49,2011-02-15,ARW,King Roger,Dir,M - OptEx,$26.38,8000,11000,+267%,"+$211,000",-1.0,-9.0,-8.0,-26.0,ARW
+917,D,2011-02-11 11:32:41,2011-02-09,ARW,Bryant Andrew S,"Pres, Global ECS",M - OptEx,$24.69,21399,38826,+123%,"+$528,420",1.0,4.0,-5.0,-24.0,ARW
+918,D,2011-02-11 11:32:41,2011-02-09,ARW,Bryant Andrew S,"Pres, Global ECS",S - Sale+OE,$41.50,-21399,38826,-36%,"-$888,059",1.0,4.0,-5.0,-24.0,ARW
+919,,2011-02-09 13:32:24,2011-02-07,ARW,Brown Peter S,"SVP, GC",F - Tax,$38.87,-13009,27278,-32%,"-$505,660",-1.0,1.0,-6.0,-28.0,ARW
+920,D,2011-02-09 12:47:27,2011-02-08,ARW,Hanson John Nils,Dir,M - OptEx,$26.52,4000,4500,+800%,"+$106,080",-1.0,1.0,-6.0,-28.0,ARW
+921,D,2011-02-09 12:47:27,2011-02-08,ARW,Hanson John Nils,Dir,S - Sale+OE,$41.41,-3000,4500,-40%,"-$124,234",-1.0,1.0,-6.0,-28.0,ARW
+922,D,2011-02-08 16:46:52,2011-02-07,ARW,Waddell John C,Dir,M - OptEx,$26.52,4000,35,-101%,"+$106,080",-1.0,0.0,-5.0,-33.0,ARW
+923,D,2011-02-08 16:46:52,2011-02-07,ARW,Waddell John C,Dir,S - Sale+OE,$41.38,-4000,35,-99%,"-$165,516",-1.0,0.0,-5.0,-33.0,ARW
+924,D,2011-02-07 16:55:45,2011-02-07,ARW,Duval Daniel W,Dir,M - OptEx,$26.52,4000,24200,+20%,"+$106,080",0.0,-1.0,-3.0,-27.0,ARW
+925,D,2011-02-07 16:55:45,2011-02-07,ARW,Duval Daniel W,Dir,S - Sale+OE,$41.49,-4000,24200,-14%,"-$165,956",0.0,-1.0,-3.0,-27.0,ARW
+926,,2011-02-03 17:15:05,2011-02-02,ARW,Kong Peter T M,"Pres, Global Components",S - Sale,$40.00,-5000,60629,-8%,"-$200,000",0.0,-1.0,-6.0,-20.0,ARW
+927,,2011-02-03 17:14:32,2011-02-02,ARW,Kong Peter T M,"Pres, Global Components",S - Sale,$40.00,-5000,60629,-8%,"-$200,000",0.0,-1.0,-6.0,-20.0,ARW
+928,AD,2011-01-24 15:59:49,2011-01-18,ARW,Kong Peter T M,"Pres, Global Components",M - OptEx,$17.20,3765,65629,+6%,"+$64,759",2.0,-1.0,10.0,2.0,ARW
+929,AD,2011-01-24 15:59:49,2011-01-18,ARW,Kong Peter T M,"Pres, Global Components",S - Sale+OE,$37.00,-3765,65629,-5%,"-$139,305",2.0,-1.0,10.0,2.0,ARW
+930,D,2011-01-18 16:48:13,2011-01-18,ARW,Kong Peter T M,"Pres, Global Components",M - OptEx,$17.20,3765,65629,+6%,"+$64,759",-2.0,0.0,12.0,-5.0,ARW
+931,D,2011-01-18 16:48:13,2011-01-18,ARW,Kong Peter T M,"Pres, Global Components",S - Sale+OE,$37.00,-3765,65629,-5%,"-$139,305",-2.0,0.0,12.0,-5.0,ARW
+932,D,2010-12-03 13:09:43,2010-12-02,ARW,Reilly Paul J,"EVP, CFO",M - OptEx,$25.85,7500,125649,+6%,"+$193,875",1.0,2.0,4.0,23.0,ARW
+933,D,2010-12-03 13:09:43,2010-12-02,ARW,Reilly Paul J,"EVP, CFO",S - Sale+OE,$32.21,-7500,125649,-6%,"-$241,550",1.0,2.0,4.0,23.0,ARW
+934,D,2010-11-03 15:29:17,2010-11-01,ARW,Brown Peter S,"SVP, GC",M - OptEx,$20.14,6440,40294,+19%,"+$129,716",1.0,2.0,12.0,51.0,ARW
+935,D,2010-11-03 15:29:17,2010-11-01,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$29.55,-21440,40294,-35%,"-$633,523",1.0,2.0,12.0,51.0,ARW
+936,ADM,2010-05-19 16:42:57,2010-03-01,ARW,Brown Peter S,"SVP, GC",A - Grant,$0.00,36631,55294,+196%,+$0,-4.0,-4.0,-6.0,11.0,ARW
+937,AD,2010-05-19 16:42:57,2010-02-26,ARW,Brown Peter S,"SVP, GC",F - Tax,$28.21,-3183,55294,-5%,"-$89,792",-4.0,-4.0,-6.0,11.0,ARW
+938,,2010-05-03 17:23:16,2010-05-01,ARW,Bryant Andrew S,"Pres, ECS",F - Tax,$30.50,-821,38823,-2%,"-$25,041",-7.0,-14.0,-19.0,-7.0,ARW
+939,A,2010-03-04 17:13:52,2010-02-26,ARW,Bryant Andrew S,"Pres, ECS",F - Tax,$28.21,-884,39644,-2%,"-$24,938",1.0,2.0,4.0,-20.0,ARW
+940,A,2010-03-04 16:20:38,2010-03-01,ARW,McMahon John Philip,SVP,F - Tax,$28.97,-687,40947,-2%,"-$19,902",1.0,2.0,4.0,-20.0,ARW
+941,,2010-03-03 16:36:11,2010-03-01,ARW,Bryant Andrew S,"Pres, ECS",F - Tax,$28.97,-884,39644,-2%,"-$25,609",-1.0,0.0,4.0,-20.0,ARW
+942,,2010-03-03 16:32:13,2010-03-01,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$28.97,-1328,125649,-1%,"-$38,472",-1.0,0.0,4.0,-20.0,ARW
+943,,2010-03-03 16:24:04,2010-03-01,ARW,Long Michael J,"COB, CEO",F - Tax,$28.97,-1588,157007,-1%,"-$46,004",-1.0,0.0,4.0,-20.0,ARW
+944,,2010-03-03 16:09:47,2010-03-01,ARW,McMahon John Philip,SVP,F - Tax,$28.97,-687,45001,-2%,"-$19,902",-1.0,0.0,4.0,-20.0,ARW
+945,DM,2010-03-02 13:50:29,2010-03-01,ARW,Reilly Paul J,"EVP, CFO",A - Grant,$0.00,61666,126977,+94%,+$0,0.0,-1.0,4.0,-18.0,ARW
+946,D,2010-03-02 13:50:29,2010-02-26,ARW,Reilly Paul J,"EVP, CFO",F - Tax,$28.21,-6247,126977,-5%,"-$176,228",0.0,-1.0,4.0,-18.0,ARW
+947,DM,2010-03-01 19:36:50,2010-03-01,ARW,Kong Peter T M,"Pres, Global Components",A - Grant,$0.00,24704,65625,+60%,+$0,0.0,0.0,2.0,-21.0,ARW
+948,DM,2010-03-01 19:34:20,2010-03-01,ARW,Brown Peter S,"SVP, GC",A - Grant,$0.00,36631,54759,+202%,+$0,0.0,0.0,2.0,-21.0,ARW
+949,D,2010-03-01 19:34:20,2010-02-26,ARW,Brown Peter S,"SVP, GC",F - Tax,$28.21,-3718,54759,-6%,"-$104,885",0.0,0.0,2.0,-21.0,ARW
+950,DM,2010-03-01 19:29:48,2010-03-01,ARW,Long Michael J,"COB, CEO",A - Grant,$0.00,110426,158595,+229%,+$0,0.0,0.0,2.0,-21.0,ARW
+951,D,2010-03-01 19:29:48,2010-02-26,ARW,Long Michael J,"COB, CEO",F - Tax,$28.21,-9369,158595,-6%,"-$264,299",0.0,0.0,2.0,-21.0,ARW
+952,DM,2010-03-01 19:23:47,2010-03-01,ARW,McMahon John Philip,SVP,A - Grant,$0.00,31938,41634,+329%,+$0,0.0,0.0,2.0,-21.0,ARW
+953,D,2010-03-01 19:23:47,2010-02-26,ARW,McMahon John Philip,SVP,F - Tax,$28.21,-3233,41634,-7%,"-$91,203",0.0,0.0,2.0,-21.0,ARW
+954,D,2010-03-01 19:17:27,2010-02-26,ARW,Bryant Andrew S,"Pres, ECS",A - Grant,$0.00,21230,40528,+110%,+$0,0.0,0.0,2.0,-21.0,ARW
+955,D,2010-03-01 19:17:27,2010-02-26,ARW,Bryant Andrew S,"Pres, ECS",F - Tax,$28.21,-1650,40528,-4%,"-$46,547",0.0,0.0,2.0,-21.0,ARW
+956,,2009-12-31 10:29:16,2009-12-31,ARW,Mitchell William,Dir,S - Sale,$30.08,-553,30447,-2%,"-$16,634",-1.0,-3.0,-10.0,-26.0,ARW
+957,,2009-12-31 09:51:13,2009-12-30,ARW,Mitchell William,Dir,S - Sale,$30.00,-7308,31000,-19%,"-$219,240",-1.0,-3.0,-10.0,-26.0,ARW
+958,D,2009-12-11 11:52:40,2009-12-10,ARW,Reilly Paul J,"SVP, CFO",M - OptEx,$20.38,7500,71558,+12%,"+$152,813",-1.0,0.0,5.0,-8.0,ARW
+959,D,2009-12-11 11:52:40,2009-12-10,ARW,Reilly Paul J,"SVP, CFO",S - Sale+OE,$27.50,-7500,71558,-9%,"-$206,241",-1.0,0.0,5.0,-8.0,ARW
+960,,2009-09-24 12:02:53,2009-09-23,ARW,Mitchell William,Dir,S - Sale,$30.00,-3927,38308,-9%,"-$117,810",-3.0,-4.0,-5.0,-1.0,ARW
+961,,2009-08-04 11:01:40,2009-08-03,ARW,Mitchell William,Dir,S - Sale,$26.33,-5000,42230,-11%,"-$131,636",2.0,-2.0,2.0,2.0,ARW
+962,,2009-08-04 11:00:51,2009-08-03,ARW,Mitchell William,Dir,S - Sale,$26.15,-18400,45690,-29%,"-$481,181",2.0,-2.0,2.0,2.0,ARW
+963,,2009-08-04 10:59:44,2009-08-03,ARW,Mitchell William,Dir,S - Sale,$25.83,-37800,64090,-37%,"-$976,317",2.0,-2.0,2.0,2.0,ARW
+964,D,2009-08-04 10:58:42,2009-08-03,ARW,Mitchell William,Dir,M - OptEx,$12.18,100000,101890,>999%,"+$1,218,000",2.0,-2.0,2.0,2.0,ARW
+965,D,2009-08-04 10:58:42,2009-08-03,ARW,Mitchell William,Dir,S - Sale+OE,$25.54,-38800,101890,-28%,"-$991,003",2.0,-2.0,2.0,2.0,ARW
+966,D,2009-07-29 17:00:56,2009-07-27,ARW,Kong Peter T M,"Pres, Global Components",A - Grant,$0.00,610,40921,+2%,+$0,5.0,10.0,12.0,12.0,ARW
+967,D,2009-07-29 16:49:31,2009-07-27,ARW,Reilly Paul J,"EVP, CFO",A - Grant,$0.00,915,71554,+1%,+$0,5.0,10.0,12.0,12.0,ARW
+968,D,2009-06-22 17:01:12,2009-06-18,ARW,Mills Karen G,Dir,X - OptEx,$0.00,20143,22743,-47%,$0,0.0,4.0,14.0,33.0,ARW
+969,,2009-06-02 15:18:19,2009-06-01,ARW,Mitchell William,Dir,S - Sale,$25.00,-20000,42230,-32%,"-$500,000",-1.0,-9.0,-15.0,6.0,ARW
+970,,2009-05-19 17:21:56,2009-05-19,ARW,Waddell John C,Dir,S - Sale,$22.03,-2541,35,-99%,"-$55,978",2.0,3.0,-8.0,21.0,ARW
+971,,2009-05-12 16:43:21,2009-05-11,ARW,Mitchell William,Dir,S - Sale,$21.99,-7400,62230,-11%,"-$162,748",-3.0,1.0,6.0,25.0,ARW
+972,,2009-05-12 16:41:52,2009-05-11,ARW,Mitchell William,Dir,S - Sale,$22.29,-12600,68090,-16%,"-$280,916",-3.0,1.0,6.0,25.0,ARW
+973,,2009-05-08 15:41:58,2009-05-07,ARW,McMahon John Philip,SVP,F - Tax,$21.99,-656,12925,-5%,"-$14,425",4.0,-3.0,3.0,17.0,ARW
+974,D,2009-05-07 16:10:32,2009-05-05,ARW,Waddell John C,Dir,M - OptEx,$18.13,4000,2576,-281%,"+$72,500",4.0,-5.0,4.0,16.0,ARW
+975,D,2009-05-07 16:10:32,2009-05-05,ARW,Waddell John C,Dir,S - Sale+OE,$24.04,-4000,2576,-61%,"-$96,178",4.0,-5.0,4.0,16.0,ARW
+976,D,2009-05-07 16:07:57,2009-05-05,ARW,Perry Barry W,Dir,M - OptEx,$18.13,4000,20000,+25%,"+$72,500",4.0,-5.0,4.0,16.0,ARW
+977,D,2009-05-07 16:07:57,2009-05-05,ARW,Perry Barry W,Dir,S - Sale+OE,$23.97,-4000,20000,-17%,"-$95,878",4.0,-5.0,4.0,16.0,ARW
+978,,2009-05-04 17:03:57,2009-05-01,ARW,Mitchell William,Dir,A - Grant,$0.00,46053,82230,+127%,+$0,-3.0,-6.0,1.0,6.0,ARW
+979,,2009-04-30 14:43:12,2009-04-29,ARW,Mitchell William,"COB, CEO",S - Sale,$22.00,-8000,36177,-18%,"-$176,002",1.0,5.0,7.0,22.0,ARW
+980,D,2009-04-30 14:42:15,2009-04-29,ARW,Duval Daniel W,Dir,M - OptEx,$18.13,4000,24200,+20%,"+$72,500",1.0,5.0,7.0,22.0,ARW
+981,D,2009-04-30 14:42:15,2009-04-29,ARW,Duval Daniel W,Dir,S - Sale+OE,$22.00,-4000,24200,-14%,"-$88,001",1.0,5.0,7.0,22.0,ARW
+982,,2009-03-25 13:26:00,2009-03-24,ARW,Brown Peter S,"SVP, GC",S - Sale,$20.00,-2064,22395,-8%,"-$41,280",4.0,-4.0,1.0,48.0,ARW
+983,,2009-03-25 13:20:54,2009-03-24,ARW,Mitchell William,"COB, CEO",S - Sale,$20.00,-10000,44177,-18%,"-$200,000",4.0,-4.0,1.0,48.0,ARW
+984,,2009-03-18 16:57:58,2009-03-18,ARW,Mitchell William,"COB, CEO",S - Sale,$18.00,-20000,54177,-27%,"-$360,000",-1.0,6.0,13.0,56.0,ARW
+985,AD,2009-03-17 15:34:34,2009-02-26,ARW,Reilly Paul J,"SVP, CFO",A - Grant,$0.00,9437,70639,+15%,+$0,8.0,11.0,12.0,62.0,ARW
+986,ADM,2009-03-17 15:34:34,2009-02-26,ARW,Reilly Paul J,"SVP, CFO",F - Tax,$16.76,-2482,70639,-3%,"-$41,604",8.0,11.0,12.0,62.0,ARW
+987,AD,2009-03-17 15:31:55,2009-02-26,ARW,McMahon John Philip,SVP,A - Grant,$0.00,2981,13581,+28%,+$0,8.0,11.0,12.0,62.0,ARW
+988,AD,2009-03-17 15:29:00,2009-02-26,ARW,Long Michael J,"Pres, COO",A - Grant,$0.00,12439,57533,+28%,+$0,8.0,11.0,12.0,62.0,ARW
+989,AD,2009-03-17 15:26:42,2009-02-26,ARW,Brown Peter S,"SVP, GC",A - Grant,$0.00,6435,24459,+36%,+$0,8.0,11.0,12.0,62.0,ARW
+990,,2009-03-17 11:06:52,2009-03-13,ARW,Mitchell William,"COB, CEO",A - Grant,$0.00,39947,74177,+117%,+$0,8.0,11.0,12.0,62.0,ARW
+991,,2009-03-17 11:06:52,2009-03-13,ARW,Mitchell William,"COB, CEO",F - Tax,$17.76,-65017,74177,-47%,"-$1,154,702",8.0,11.0,12.0,62.0,ARW
+992,A,2009-03-12 17:36:47,2009-02-26,ARW,Mitchell William,"COB, CEO",A - Grant,$0.00,36979,119247,+45%,+$0,2.0,9.0,14.0,69.0,ARW
+993,AM,2009-03-12 17:36:47,2009-02-26,ARW,Mitchell William,"COB, CEO",F - Tax,$16.77,-11767,119247,-9%,"-$197,279",2.0,9.0,14.0,69.0,ARW
+994,,2009-03-03 17:35:56,2009-03-02,ARW,Mitchell William,"COB, CEO",S - Sale,$16.37,-3600,164795,-2%,"-$58,933",6.0,-4.0,21.0,78.0,ARW
+995,,2009-03-03 17:34:49,2009-03-02,ARW,Mitchell William,"COB, CEO",S - Sale,$16.22,-16400,166855,-9%,"-$266,022",6.0,-4.0,21.0,78.0,ARW
+996,AD,2009-03-03 14:23:44,2009-02-26,ARW,Mitchell William,"COB, CEO",A - Grant,$0.00,102198,184795,+124%,+$0,6.0,-4.0,21.0,79.0,ARW
+997,ADM,2009-03-03 14:23:44,2009-02-26,ARW,Mitchell William,"COB, CEO",F - Tax,$16.76,-11438,184795,-6%,"-$191,729",6.0,-4.0,21.0,79.0,ARW
+998,DM,2009-03-03 10:49:14,2009-02-26,ARW,Mitchell William,"COB, CEO",A - Grant,$0.00,102198,184795,+124%,+$0,6.0,-4.0,21.0,79.0,ARW
+999,DM,2009-03-03 10:49:14,2009-02-26,ARW,Mitchell William,"COB, CEO",F - Tax,$16.76,-11438,184795,-6%,"-$191,729",6.0,-4.0,21.0,79.0,ARW
+1000,D,2009-03-02 17:20:08,2009-02-26,ARW,Reilly Paul J,"SVP, CFO",A - Grant,$0.00,29502,90643,+48%,+$0,0.0,-1.0,17.0,73.0,ARW
+1001,DM,2009-03-02 17:20:08,2009-02-26,ARW,Reilly Paul J,"SVP, CFO",F - Tax,$16.76,-2543,90643,-3%,"-$42,627",0.0,-1.0,17.0,73.0,ARW
+1002,D,2009-03-02 17:11:40,2009-02-26,ARW,McMahon John Philip,SVP,A - Grant,$0.00,13682,24282,+129%,+$0,0.0,-1.0,17.0,73.0,ARW
+1003,D,2009-03-02 17:07:47,2009-02-26,ARW,Long Michael J,"Pres, COO",A - Grant,$0.00,42165,87259,+94%,+$0,0.0,-1.0,17.0,73.0,ARW
+1004,D,2009-03-02 17:06:41,2009-02-26,ARW,Brown Peter S,"SVP, GC",A - Grant,$0.00,18697,36721,+104%,+$0,0.0,-1.0,17.0,73.0,ARW
+1005,,2009-01-22 18:06:12,2009-01-20,ARW,Perry Barry W,Dir,S - Sale,$18.82,-4800,0,-100%,"-$90,321",4.0,11.0,-6.0,33.0,ARW
+1006,D,2009-01-22 18:04:24,2009-01-20,ARW,Perry Barry W,Dir,M - OptEx,$17.44,15000,4800,-147%,"+$261,563",4.0,11.0,-6.0,33.0,ARW
+1007,D,2009-01-22 18:04:24,2009-01-20,ARW,Perry Barry W,Dir,S - Sale+OE,$18.00,-10200,4800,-68%,"-$183,633",4.0,11.0,-6.0,33.0,ARW
+1008,D,2009-01-07 14:08:01,2009-01-06,ARW,Reilly Paul J,"SVP, CFO",M - OptEx,$15.44,4000,63684,+7%,"+$61,750",-10.0,-9.0,-11.0,-4.0,ARW
+1009,D,2009-01-07 14:08:01,2009-01-06,ARW,Reilly Paul J,"SVP, CFO",S - Sale+OE,$20.51,-4000,63684,-6%,"-$82,027",-10.0,-9.0,-11.0,-4.0,ARW
+1010,,2008-08-18 10:39:48,2008-08-15,ARW,Mitchell William,"COB, CEO",S - Sale,$36.00,-2300,116035,-2%,"-$82,800",-1.0,-3.0,-17.0,-50.0,ARW
+1011,D,2008-05-15 16:23:56,2008-05-14,ARW,Waddell John C,Dir,M - OptEx,$27.50,4000,2576,-281%,"+$110,000",0.0,2.0,10.0,-47.0,ARW
+1012,D,2008-05-15 16:23:56,2008-05-15,ARW,Waddell John C,Dir,S - Sale+OE,$28.96,-9000,2576,-78%,"-$260,683",0.0,2.0,10.0,-47.0,ARW
+1013,D,2008-05-13 16:06:28,2008-05-13,ARW,King Roger,Dir,M - OptEx,$27.50,4000,2000,-200%,"+$110,000",1.0,5.0,9.0,-43.0,ARW
+1014,D,2008-05-13 16:06:28,2008-05-13,ARW,King Roger,Dir,S - Sale+OE,$28.29,-4000,2000,-67%,"-$113,163",1.0,5.0,9.0,-43.0,ARW
+1015,D,2008-05-12 16:52:49,2008-05-12,ARW,Duval Daniel W,Dir,M - OptEx,$27.50,2000,24200,+9%,"+$55,000",2.0,5.0,16.0,-43.0,ARW
+1016,D,2008-05-12 16:52:49,2008-05-12,ARW,Duval Daniel W,Dir,S - Sale+OE,$28.00,-2000,24200,-8%,"-$56,000",2.0,5.0,16.0,-43.0,ARW
+1017,D,2008-05-12 16:48:35,2008-05-12,ARW,Duval Daniel W,Dir,M - OptEx,$27.50,2000,24200,+9%,"+$55,000",2.0,5.0,16.0,-43.0,ARW
+1018,D,2008-05-12 16:48:35,2008-05-12,ARW,Duval Daniel W,Dir,S - Sale+OE,$28.00,-2000,24200,-8%,"-$56,000",2.0,5.0,16.0,-43.0,ARW
+1019,D,2008-05-12 15:59:45,2008-05-12,ARW,Mills Karen G,Dir,M - OptEx,$27.50,4000,2600,-286%,"+$110,000",2.0,7.0,18.0,-41.0,ARW
+1020,D,2008-05-12 15:59:45,2008-05-12,ARW,Mills Karen G,Dir,S - Sale+OE,$28.00,-4000,2600,-61%,"-$112,000",2.0,7.0,18.0,-41.0,ARW
+1021,,2008-03-04 16:56:08,2008-02-29,ARW,Mitchell William,"COB, CEO",A - Grant,$0.00,76115,118158,+181%,+$0,0.0,-3.0,4.0,1.0,ARW
+1022,,2008-03-04 16:56:08,2008-03-03,ARW,Mitchell William,"COB, CEO",G - Gift,$0.00,25570,118158,-18%,+$0,0.0,-3.0,4.0,1.0,ARW
+1023,,2008-03-04 16:56:08,2008-02-29,ARW,Mitchell William,"COB, CEO",S - Sale,$33.03,-40000,118158,-25%,"-$1,321,036",0.0,-3.0,4.0,1.0,ARW
+1024,D,2008-03-04 16:55:23,2008-02-29,ARW,Brown Peter S,"SVP, GC",A - Grant,$0.00,14768,17848,+480%,+$0,0.0,-3.0,4.0,1.0,ARW
+1025,D,2008-03-04 16:54:25,2008-02-29,ARW,Long Michael J,"Pres, COO",A - Grant,$0.00,24110,44917,+116%,+$0,0.0,-3.0,4.0,1.0,ARW
+1026,D,2008-03-04 16:53:17,2008-02-29,ARW,McMahon John Philip,SVP,A - Grant,$0.00,4600,10600,+77%,+$0,0.0,-3.0,4.0,1.0,ARW
+1027,D,2008-03-04 16:52:10,2008-02-29,ARW,Reilly Paul J,"SVP, CFO",A - Grant,$0.00,18268,63507,+40%,+$0,0.0,-3.0,4.0,1.0,ARW
+1028,D,2008-02-26 15:21:02,2008-02-26,ARW,Duval Daniel W,Dir,M - OptEx,$27.50,2000,24200,+9%,"+$55,000",1.0,-5.0,-2.0,1.0,ARW
+1029,D,2008-02-26 15:21:02,2008-02-26,ARW,Duval Daniel W,Dir,S - Sale+OE,$34.66,-2000,24200,-8%,"-$69,312",1.0,-5.0,-2.0,1.0,ARW
+1030,D,2007-11-14 11:29:45,2007-11-13,ARW,Hanson John Nils,Dir,M - OptEx,$31.25,19000,3500,-123%,"+$593,750",1.0,0.0,8.0,-19.0,ARW
+1031,D,2007-11-14 11:29:45,2007-11-13,ARW,Hanson John Nils,Dir,S - Sale+OE,$36.03,-19000,3500,-84%,"-$684,631",1.0,0.0,8.0,-19.0,ARW
+1032,D,2007-10-09 10:27:08,2007-10-05,ARW,Brown Peter S,"SVP, GC",M - OptEx,$26.90,6000,3079,-205%,"+$161,400",-3.0,-1.0,-13.0,-25.0,ARW
+1033,D,2007-10-09 10:27:08,2007-10-05,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$44.50,-6000,3079,-66%,"-$267,000",-3.0,-1.0,-13.0,-25.0,ARW
+1034,D,2007-09-05 14:45:18,2007-09-04,ARW,Brown Peter S,"SVP, GC",M - OptEx,$20.54,13250,3079,-130%,"+$272,200",0.0,-2.0,3.0,-23.0,ARW
+1035,D,2007-09-05 14:45:18,2007-09-04,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$42.45,-13250,3079,-81%,"-$562,463",0.0,-2.0,3.0,-23.0,ARW
+1036,,2007-05-22 10:31:23,2007-05-21,ARW,Long Michael J,SVP,S - Sale,$43.00,-5000,20807,-19%,"-$215,000",-1.0,-5.0,-7.0,-16.0,ARW
+1037,D,2007-05-21 17:10:11,2007-05-21,ARW,Brown Peter S,"SVP, GC",M - OptEx,$24.65,9200,3079,-150%,"+$226,750",-1.0,-5.0,-6.0,-16.0,ARW
+1038,D,2007-05-21 17:10:11,2007-05-21,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$42.45,-9200,3079,-75%,"-$390,540",-1.0,-5.0,-6.0,-16.0,ARW
+1039,,2007-05-21 14:01:22,2007-05-18,ARW,Long Michael J,SVP,S - Sale,$42.00,-5000,25807,-16%,"-$210,000",1.0,-4.0,-5.0,-15.0,ARW
+1040,D,2007-05-18 15:12:02,2007-05-18,ARW,Reilly Paul J,"SVP, CFO",M - OptEx,$32.25,3500,45239,+8%,"+$112,875",1.0,-3.0,-1.0,-12.0,ARW
+1041,D,2007-05-18 15:12:02,2007-05-18,ARW,Reilly Paul J,"SVP, CFO",S - Sale+OE,$42.00,-3500,45239,-7%,"-$147,000",1.0,-3.0,-1.0,-12.0,ARW
+1042,D,2007-05-09 11:50:34,2007-05-07,ARW,McMahon John Philip,SVP,A - Grant,$40.57,6000,6000,New,"+$243,420",2.0,1.0,-3.0,-7.0,ARW
+1043,D,2007-04-13 15:13:20,2007-04-12,ARW,Long Michael J,SVP,M - OptEx,$26.03,7250,30807,+31%,"+$188,700",0.0,-1.0,1.0,5.0,ARW
+1044,DM,2007-04-13 15:13:20,2007-04-12,ARW,Long Michael J,SVP,S - Sale+OE,$41.00,-12250,30807,-28%,"-$502,250",0.0,-1.0,1.0,5.0,ARW
+1045,,2007-04-12 15:29:57,2007-04-11,ARW,Long Michael J,SVP,S - Sale,$40.54,-10000,35807,-22%,"-$405,405",1.0,1.0,1.0,6.0,ARW
+1046,D,2007-04-03 14:53:45,2007-04-03,ARW,Duval Daniel W,Dir,M - OptEx,$27.81,5000,24200,+26%,"+$139,063",2.0,6.0,6.0,14.0,ARW
+1047,D,2007-04-03 14:53:45,2007-04-03,ARW,Duval Daniel W,Dir,S - Sale+OE,$38.03,-5000,24200,-17%,"-$190,128",2.0,6.0,6.0,14.0,ARW
+1048,D,2007-04-03 11:36:46,2007-04-02,ARW,Duval Daniel W,Dir,M - OptEx,$27.81,5000,24200,+26%,"+$139,063",2.0,6.0,6.0,14.0,ARW
+1049,D,2007-04-03 11:36:46,2007-04-02,ARW,Duval Daniel W,Dir,S - Sale+OE,$37.58,-5000,24200,-17%,"-$187,920",2.0,6.0,6.0,14.0,ARW
+1050,D,2007-03-22 15:23:27,2007-03-21,ARW,Brown Peter S,"SVP, GC",M - OptEx,$22.50,4200,3079,-375%,"+$94,500",-1.0,-3.0,4.0,8.0,ARW
+1051,D,2007-03-22 15:23:27,2007-03-21,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$39.50,-4200,3079,-58%,"-$165,900",-1.0,-3.0,4.0,8.0,ARW
+1052,D,2007-03-15 14:55:44,2007-03-13,ARW,Duval Daniel W,Dir,M - OptEx,$27.81,5000,24200,+26%,"+$139,063",-2.0,3.0,7.0,9.0,ARW
+1053,D,2007-03-15 14:55:44,2007-03-13,ARW,Duval Daniel W,Dir,S - Sale+OE,$38.58,-5000,24200,-17%,"-$192,886",-2.0,3.0,7.0,9.0,ARW
+1054,,2007-03-15 12:52:41,2007-03-13,ARW,Mitchell William,"COB, Pres, CEO",S - Sale,$38.32,-1500,84918,-2%,"-$57,480",-2.0,3.0,7.0,9.0,ARW
+1055,,2007-03-15 12:48:31,2007-03-13,ARW,Mitchell William,"COB, Pres, CEO",S - Sale,$38.59,-23500,74000,-24%,"-$906,864",-2.0,3.0,7.0,9.0,ARW
+1056,D,2007-03-13 16:57:32,2007-03-12,ARW,King Roger,Dir,M - OptEx,$27.81,4414,2000,-183%,"+$122,764",1.0,0.0,7.0,10.0,ARW
+1057,D,2007-03-13 16:57:32,2007-03-12,ARW,King Roger,Dir,S - Sale+OE,$38.50,-4414,2000,-69%,"-$169,948",1.0,0.0,7.0,10.0,ARW
+1058,D,2007-03-13 15:52:44,2007-03-09,ARW,Morris M Cathy,SVP,M - OptEx,$26.90,1313,1350,>999%,"+$35,320",-2.0,-2.0,5.0,8.0,ARW
+1059,D,2007-03-13 15:52:44,2007-03-09,ARW,Morris M Cathy,SVP,S - Sale+OE,$38.18,-3326,1350,-71%,"-$126,996",-2.0,-2.0,5.0,8.0,ARW
+1060,D,2007-03-09 15:25:22,2007-03-08,ARW,Long Michael J,SVP,M - OptEx,$25.64,10000,45612,+28%,"+$256,350",-1.0,-2.0,5.0,9.0,ARW
+1061,D,2007-03-09 15:25:22,2007-03-08,ARW,Long Michael J,SVP,S - Sale+OE,$38.05,-10000,45612,-18%,"-$380,500",-1.0,-2.0,5.0,9.0,ARW
+1062,D,2007-03-08 16:35:49,2007-03-06,ARW,King Roger,Dir,M - OptEx,$27.81,2886,2000,-326%,"+$80,267",-1.0,0.0,3.0,10.0,ARW
+1063,D,2007-03-08 16:35:49,2007-03-06,ARW,King Roger,Dir,S - Sale+OE,$37.50,-2886,2000,-59%,"-$108,225",-1.0,0.0,3.0,10.0,ARW
+1064,D,2007-03-07 16:21:00,2007-03-07,ARW,Long Michael J,SVP,M - OptEx,$23.13,9500,45612,+26%,"+$219,775",1.0,0.0,3.0,12.0,ARW
+1065,D,2007-03-07 16:21:00,2007-03-07,ARW,Long Michael J,SVP,S - Sale+OE,$38.00,-9500,45612,-17%,"-$361,000",1.0,0.0,3.0,12.0,ARW
+1066,D,2007-03-05 17:16:17,2007-03-02,ARW,King Roger,Dir,M - OptEx,$27.81,7700,2000,-135%,"+$214,156",1.0,3.0,2.0,11.0,ARW
+1067,D,2007-03-05 17:16:17,2007-03-02,ARW,King Roger,Dir,S - Sale+OE,$38.01,-7700,2000,-79%,"-$292,708",1.0,3.0,2.0,11.0,ARW
+1068,D,2007-03-02 18:18:20,2007-02-28,ARW,Gilroy Kevin,SVP,A - Grant,$0.00,10000,10000,New,+$0,0.0,3.0,2.0,10.0,ARW
+1069,D,2007-03-02 15:48:32,2007-02-28,ARW,Reilly Paul J,"SVP, CFO",A - Grant,$0.00,6825,10044,+212%,+$0,-3.0,0.0,-1.0,7.0,ARW
+1070,D,2007-03-02 15:34:23,2007-02-28,ARW,Morris M Cathy,SVP,A - Grant,$0.00,2013,2013,New,+$0,-3.0,0.0,-1.0,7.0,ARW
+1071,D,2007-03-02 15:23:44,2007-02-28,ARW,Mitchell William,"COB, Pres, CEO",A - Grant,$0.00,83750,109918,+320%,+$0,-3.0,0.0,-1.0,7.0,ARW
+1072,D,2007-03-02 15:23:44,2007-02-28,ARW,Mitchell William,"COB, Pres, CEO",S - Sale+OE,$38.33,-25000,109918,-19%,"-$958,250",-3.0,0.0,-1.0,7.0,ARW
+1073,D,2007-03-02 14:57:25,2007-02-28,ARW,Long Michael J,SVP,A - Grant,$0.00,6825,45612,+18%,+$0,-3.0,0.0,-1.0,7.0,ARW
+1074,D,2007-03-02 14:44:42,2007-02-28,ARW,Brown Peter S,"SVP, GC",A - Grant,$0.00,6825,2885,-173%,+$0,-3.0,0.0,-1.0,7.0,ARW
+1075,D,2007-03-02 14:44:42,2007-02-28,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$38.24,-6825,2885,-70%,"-$260,988",-3.0,0.0,-1.0,7.0,ARW
+1076,D,2007-03-01 15:54:52,2007-03-01,ARW,Mills Karen G,Dir,M - OptEx,$27.81,15000,2600,-121%,"+$417,188",0.0,-1.0,-1.0,6.0,ARW
+1077,D,2007-03-01 15:54:52,2007-03-01,ARW,Mills Karen G,Dir,S - Sale+OE,$38.25,-15000,2600,-85%,"-$573,750",0.0,-1.0,-1.0,6.0,ARW
+1078,D,2007-02-28 14:44:16,2007-02-27,ARW,Morris M Cathy,SVP,M - OptEx,$26.67,12362,1350,-112%,"+$329,710",1.0,-2.0,0.0,9.0,ARW
+1079,D,2007-02-28 14:44:16,2007-02-27,ARW,Morris M Cathy,SVP,S - Sale+OE,$38.02,-13612,1350,-91%,"-$517,546",1.0,-2.0,0.0,9.0,ARW
+1080,D,2006-09-26 11:28:07,2006-09-25,ARW,Melvin Vincent P,"VP, CIO",A - Grant,$0.00,10000,10000,New,+$0,0.0,-1.0,6.0,40.0,ARW
+1081,D,2006-09-26 11:22:53,2006-09-25,ARW,Combes Philippe,VP,A - Grant,$0.00,20000,20000,New,+$0,0.0,-1.0,6.0,40.0,ARW
+1082,,2006-05-04 14:08:30,2006-05-02,ARW,Mitchell William,"COB, Pres, CEO",A - Grant,$0.00,20000,51168,+64%,+$0,2.0,-2.0,-6.0,-17.0,ARW
+1083,D,2006-04-20 16:06:47,2006-04-20,ARW,Mitchell William,"Pres, CEO",M - OptEx,$12.18,15000,31168,+93%,"+$182,700",0.0,0.0,-10.0,-18.0,ARW
+1084,D,2006-04-20 16:06:47,2006-04-20,ARW,Mitchell William,"Pres, CEO",S - Sale+OE,$35.86,-15000,31168,-32%,"-$537,974",0.0,0.0,-10.0,-18.0,ARW
+1085,,2006-04-04 15:54:58,2006-04-03,ARW,Mitchell William,"Pres, CEO",S - Sale,$32.67,-9900,31168,-24%,"-$323,388",2.0,0.0,8.0,-18.0,ARW
+1086,D,2006-04-04 15:52:54,2006-04-03,ARW,Mitchell William,"Pres, CEO",M - OptEx,$12.18,50000,28650,-234%,"+$609,000",2.0,0.0,8.0,-18.0,ARW
+1087,D,2006-04-04 15:52:54,2006-04-03,ARW,Mitchell William,"Pres, CEO",S - Sale+OE,$33.08,-40100,28650,-58%,"-$1,326,584",2.0,0.0,8.0,-18.0,ARW
+1088,D,2006-03-24 12:11:44,2006-03-22,ARW,Mitchell William,"Pres, CEO",M - OptEx,$12.18,35000,31168,-913%,"+$426,300",0.0,0.0,9.0,-16.0,ARW
+1089,D,2006-03-24 12:11:44,2006-03-22,ARW,Mitchell William,"Pres, CEO",S - Sale+OE,$31.45,-50000,31168,-62%,"-$1,572,452",0.0,0.0,9.0,-16.0,ARW
+1090,D,2006-03-21 14:22:14,2006-03-17,ARW,Kong Peter T M,VP,A - Grant,$0.00,20000,20000,New,+$0,-1.0,0.0,7.0,-15.0,ARW
+1091,D,2006-03-14 14:13:13,2006-03-13,ARW,Green Keryn H,VP,M - OptEx,$26.90,2813,2375,-642%,"+$75,670",2.0,-2.0,-1.0,-18.0,ARW
+1092,D,2006-03-14 14:13:13,2006-03-13,ARW,Green Keryn H,VP,S - Sale+OE,$32.69,-2813,2375,-54%,"-$91,955",2.0,-2.0,-1.0,-18.0,ARW
+1093,,2006-03-02 12:15:27,2006-03-01,ARW,Long Michael J,VP,S - Sale,$35.16,-10000,36267,-22%,"-$351,550",-3.0,-5.0,-9.0,-22.0,ARW
+1094,D,2006-03-02 11:48:52,2006-02-28,ARW,Fanelli Germano,VP,M - OptEx,$24.51,23500,22000,-1567%,"+$575,975",-3.0,-5.0,-9.0,-22.0,ARW
+1095,D,2006-03-02 11:48:52,2006-02-28,ARW,Fanelli Germano,VP,S - Sale+OE,$34.59,-23500,22000,-52%,"-$812,861",-3.0,-5.0,-9.0,-22.0,ARW
+1096,D,2006-03-02 10:33:11,2006-02-28,ARW,Green Keryn H,VP,M - OptEx,$26.90,937,2375,+65%,"+$25,205",-3.0,-5.0,-9.0,-22.0,ARW
+1097,D,2006-03-02 10:33:11,2006-02-28,ARW,Green Keryn H,VP,S - Sale+OE,$34.51,-937,2375,-28%,"-$32,336",-3.0,-5.0,-9.0,-22.0,ARW
+1098,D,2006-03-01 15:25:18,2006-02-27,ARW,McNally Brian,VP,M - OptEx,$22.65,17000,33800,+101%,"+$385,031",0.0,-4.0,-9.0,-23.0,ARW
+1099,D,2006-03-01 15:25:18,2006-02-27,ARW,McNally Brian,VP,S - Sale+OE,$35.58,-17000,33800,-33%,"-$604,860",0.0,-4.0,-9.0,-23.0,ARW
+1100,D,2006-02-28 14:42:10,2006-02-27,ARW,Green Keryn H,VP,M - OptEx,$27.54,19250,2375,-114%,"+$530,113",0.0,-3.0,-12.0,-26.0,ARW
+1101,D,2006-02-28 14:42:10,2006-02-27,ARW,Green Keryn H,VP,S - Sale+OE,$35.45,-24000,2375,-91%,"-$850,808",0.0,-3.0,-12.0,-26.0,ARW
+1102,D,2006-02-28 14:08:22,2006-02-27,ARW,Salsgiver Jan,VP,M - OptEx,$23.84,20000,25975,+335%,"+$476,875",0.0,-3.0,-12.0,-26.0,ARW
+1103,D,2006-02-28 14:08:22,2006-02-27,ARW,Salsgiver Jan,VP,S - Sale+OE,$35.60,-27375,25975,-51%,"-$974,572",0.0,-3.0,-12.0,-26.0,ARW
+1104,D,2006-02-28 13:38:05,2006-02-27,ARW,Brown Peter S,"SVP, GC",M - OptEx,$22.50,3750,2684,-352%,"+$84,375",0.0,-3.0,-12.0,-26.0,ARW
+1105,D,2006-02-28 13:38:05,2006-02-27,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$35.40,-6400,2684,-70%,"-$226,578",0.0,-3.0,-12.0,-26.0,ARW
+1106,D,2006-02-21 12:15:28,2006-02-16,ARW,Long Michael J,VP,M - OptEx,$32.25,8300,48587,+21%,"+$267,675",2.0,0.0,-10.0,-21.0,ARW
+1107,D,2006-02-21 12:15:28,2006-02-16,ARW,Long Michael J,VP,S - Sale+OE,$35.02,-8300,48587,-15%,"-$290,666",2.0,0.0,-10.0,-21.0,ARW
+1108,D,2006-02-21 12:12:29,2006-02-16,ARW,Brown Peter S,"SVP, GC",M - OptEx,$22.50,17600,5334,-143%,"+$396,000",2.0,0.0,-10.0,-21.0,ARW
+1109,D,2006-02-21 12:12:29,2006-02-16,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$35.08,-17600,5334,-77%,"-$617,457",2.0,0.0,-10.0,-21.0,ARW
+1110,D,2006-02-07 13:13:52,2006-02-06,ARW,Long Michael J,VP,M - OptEx,$32.25,300,48587,+1%,"+$9,675",-1.0,-4.0,-3.0,-22.0,ARW
+1111,D,2006-02-07 13:13:52,2006-02-06,ARW,Long Michael J,VP,S - Sale+OE,$35.00,-300,48587,-1%,"-$10,500",-1.0,-4.0,-3.0,-22.0,ARW
+1112,D,2006-02-07 13:03:55,2006-02-06,ARW,Brown Peter S,"SVP, GC",M - OptEx,$22.50,200,5334,+4%,"+$4,500",-1.0,-4.0,-3.0,-22.0,ARW
+1113,D,2006-02-07 13:03:55,2006-02-06,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$35.00,-200,5334,-4%,"-$7,000",-1.0,-4.0,-3.0,-22.0,ARW
+1114,A,2006-02-06 16:33:57,2006-02-03,ARW,Long Michael J,VP,S - Sale,$35.00,-1400,46267,-3%,"-$49,000",-1.0,-3.0,-4.0,-20.0,ARW
+1115,D,2006-02-06 16:02:22,2006-02-03,ARW,Long Michael J,VP,M - OptEx,$32.25,1400,48587,+3%,"+$45,150",-1.0,-3.0,-4.0,-20.0,ARW
+1116,D,2006-02-06 16:02:22,2005-09-08,ARW,Long Michael J,VP,S - Sale+OE,$35.00,-1400,48587,-3%,"-$49,000",-1.0,-3.0,-4.0,-20.0,ARW
+1117,D,2006-02-06 16:00:43,2006-02-03,ARW,Brown Peter S,"SVP, GC",M - OptEx,$22.50,15050,5334,-155%,"+$338,625",-1.0,-3.0,-4.0,-20.0,ARW
+1118,D,2006-02-06 16:00:43,2006-02-03,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$35.00,-15950,5334,-75%,"-$558,250",-1.0,-3.0,-4.0,-20.0,ARW
+1119,DM,2006-01-11 10:58:11,2006-01-09,ARW,Fanelli Germano,VP,M - OptEx,$26.06,5000,22000,+29%,"+$130,313",0.0,-3.0,-1.0,-14.0,ARW
+1120,DM,2006-01-11 10:58:11,2006-01-09,ARW,Fanelli Germano,VP,S - Sale+OE,$33.75,-5000,22000,-19%,"-$168,750",0.0,-3.0,-1.0,-14.0,ARW
+1121,D,2006-01-04 11:12:56,2006-01-03,ARW,Duval Daniel W,Dir,M - OptEx,$20.42,2000,24200,+9%,"+$40,840",2.0,6.0,6.0,-1.0,ARW
+1122,D,2006-01-04 11:12:56,2006-01-03,ARW,Duval Daniel W,Dir,S - Sale+OE,$31.80,-2000,24200,-8%,"-$63,596",2.0,6.0,6.0,-1.0,ARW
+1123,D,2005-12-07 11:20:10,2005-12-06,ARW,Fanelli Germano,VP,M - OptEx,$26.06,5000,22000,+29%,"+$130,300",-1.0,-1.0,2.0,-5.0,ARW
+1124,D,2005-12-07 11:20:10,2005-12-06,ARW,Fanelli Germano,VP,S - Sale+OE,$32.75,-5000,22000,-19%,"-$163,750",-1.0,-1.0,2.0,-5.0,ARW
+1125,D,2005-12-07 11:18:43,2005-12-05,ARW,Fanelli Germano,VP,M - OptEx,$24.09,15000,22000,+214%,"+$361,400",-1.0,-1.0,2.0,-5.0,ARW
+1126,D,2005-12-07 11:18:43,2005-12-05,ARW,Fanelli Germano,VP,S - Sale+OE,$31.84,-15000,22000,-41%,"-$477,634",-1.0,-1.0,2.0,-5.0,ARW
+1127,D,2005-12-05 15:07:53,2005-12-01,ARW,Duval Daniel W,Dir,M - OptEx,$20.42,8000,27598,+41%,"+$163,360",-2.0,2.0,2.0,-1.0,ARW
+1128,D,2005-12-05 15:07:53,2005-12-01,ARW,Duval Daniel W,Dir,S - Sale+OE,$31.74,-8000,27598,-22%,"-$253,882",-2.0,2.0,2.0,-1.0,ARW
+1129,D,2005-12-05 15:06:27,2005-12-02,ARW,Fanelli Germano,VP,M - OptEx,$20.38,5000,22000,+29%,"+$101,875",-2.0,2.0,2.0,-1.0,ARW
+1130,D,2005-12-05 15:06:27,2005-12-02,ARW,Fanelli Germano,VP,S - Sale+OE,$32.75,-5000,22000,-19%,"-$163,750",-2.0,2.0,2.0,-1.0,ARW
+1131,D,2005-11-28 13:54:27,2005-11-23,ARW,Reilly Paul J,"VP, CFO",M - OptEx,$26.06,6000,38018,+19%,"+$156,360",-2.0,1.0,-1.0,0.0,ARW
+1132,D,2005-11-28 13:54:27,2005-11-23,ARW,Reilly Paul J,"VP, CFO",S - Sale+OE,$32.50,-6000,38018,-14%,"-$195,000",-2.0,1.0,-1.0,0.0,ARW
+1133,,2005-11-22 12:13:31,2005-11-21,ARW,Fanelli Germano,VP,S - Sale,$31.72,-3000,22000,-12%,"-$95,155",2.0,0.0,-1.0,-2.0,ARW
+1134,D,2005-11-21 16:52:31,2005-11-18,ARW,Salsgiver Jan,VP,M - OptEx,$26.06,20000,40509,+98%,"+$521,200",2.0,0.0,0.0,-3.0,ARW
+1135,D,2005-11-21 16:52:31,2005-11-18,ARW,Salsgiver Jan,VP,S - Sale+OE,$31.79,-20000,40509,-33%,"-$635,755",2.0,0.0,0.0,-3.0,ARW
+1136,,2005-11-14 08:44:48,2005-11-09,ARW,Settle Mark F,"VP, CIO",S - Sale,$31.03,-3750,18984,-16%,"-$116,363",0.0,1.0,4.0,5.0,ARW
+1137,D,2005-11-02 16:27:44,2005-11-01,ARW,Duval Daniel W,Dir,M - OptEx,$20.42,8000,24200,+49%,"+$163,360",1.0,2.0,9.0,19.0,ARW
+1138,D,2005-11-02 16:27:44,2005-11-01,ARW,Duval Daniel W,Dir,S - Sale+OE,$29.26,-8000,24200,-25%,"-$234,072",1.0,2.0,9.0,19.0,ARW
+1139,,2005-10-11 15:19:21,2005-10-11,ARW,Brown Peter S,"SVP, GC",S - Sale,$30.00,-200,6234,-3%,"-$6,000",1.0,-1.0,4.0,10.0,ARW
+1140,,2005-10-11 10:47:40,2005-10-10,ARW,Brown Peter S,"SVP, GC",S - Sale,$29.67,-7300,6434,-53%,"-$216,612",1.0,-1.0,4.0,10.0,ARW
+1141,D,2005-10-04 17:21:25,2005-10-03,ARW,Duval Daniel W,Dir,M - OptEx,$20.42,8000,48600,+20%,"+$163,360",-3.0,-7.0,-8.0,4.0,ARW
+1142,D,2005-10-04 17:21:25,2005-10-03,ARW,Duval Daniel W,Dir,S - Sale+OE,$31.89,-8000,48600,-14%,"-$255,084",-3.0,-7.0,-8.0,4.0,ARW
+1143,D,2005-09-27 14:09:18,2005-09-26,ARW,Salsgiver Jan,VP,A - Grant,$0.00,3000,33350,+10%,+$0,-1.0,3.0,-6.0,1.0,ARW
+1144,D,2005-09-27 11:32:54,2005-09-26,ARW,Mathur Bhawnesh,SVP,A - Grant,$0.00,10000,10000,New,+$0,-1.0,3.0,-6.0,1.0,ARW
+1145,D,2005-09-14 13:10:17,2005-09-12,ARW,Coleman John Edward,SVP,A - Grant,$0.00,20000,20000,New,+$0,-1.0,-1.0,-6.0,6.0,ARW
+1146,D,2005-09-09 10:24:00,2005-09-08,ARW,Long Michael J,VP,M - OptEx,$26.45,21000,48587,+76%,"+$555,450",1.0,-1.0,-4.0,6.0,ARW
+1147,D,2005-09-09 10:24:00,2005-09-08,ARW,Long Michael J,VP,S - Sale+OE,$31.05,-21000,48587,-30%,"-$652,074",1.0,-1.0,-4.0,6.0,ARW
+1148,D,2005-09-09 10:18:02,2005-09-08,ARW,Fanelli Germano,VP,M - OptEx,$14.64,10000,25000,+67%,"+$146,438",1.0,-1.0,-4.0,6.0,ARW
+1149,D,2005-09-09 10:18:02,2005-09-08,ARW,Fanelli Germano,VP,S - Sale+OE,$31.05,-10000,25000,-29%,"-$310,500",1.0,-1.0,-4.0,6.0,ARW
+1150,D,2005-09-06 21:47:30,2005-09-02,ARW,Reilly Paul J,"VP, CFO",M - OptEx,$20.94,6000,38018,+19%,"+$125,625",0.0,5.0,5.0,10.0,ARW
+1151,D,2005-09-06 21:47:30,2005-09-02,ARW,Reilly Paul J,"VP, CFO",S - Sale+OE,$30.00,-6000,38018,-14%,"-$180,000",0.0,5.0,5.0,10.0,ARW
+1152,D,2005-09-06 09:15:07,2005-09-01,ARW,Duval Daniel W,Dir,M - OptEx,$20.42,8000,55800,+17%,"+$163,360",1.0,6.0,6.0,11.0,ARW
+1153,D,2005-09-06 09:15:07,2005-09-01,ARW,Duval Daniel W,Dir,S - Sale+OE,$29.81,-8000,55800,-13%,"-$238,447",1.0,6.0,6.0,11.0,ARW
+1154,,2005-08-22 16:06:35,2005-08-19,ARW,Mitchell William,"Pres, CEO",G - Gift,$0.00,-45000,45700,>999%,-$0,1.0,0.0,6.0,20.0,ARW
+1155,D,2005-08-03 13:59:08,2005-08-02,ARW,Salsgiver Jan,VP,M - OptEx,$23.00,30000,37509,+400%,"+$690,000",-1.0,-3.0,-2.0,13.0,ARW
+1156,D,2005-08-03 13:59:08,2005-08-02,ARW,Salsgiver Jan,VP,S - Sale+OE,$30.57,-30000,37509,-44%,"-$917,091",-1.0,-3.0,-2.0,13.0,ARW
+1157,D,2005-08-03 11:10:45,2005-08-02,ARW,McNally Brian,VP,M - OptEx,$20.94,4000,40603,+11%,"+$83,750",-1.0,-3.0,-2.0,13.0,ARW
+1158,D,2005-08-03 11:10:45,2005-08-02,ARW,McNally Brian,VP,S - Sale+OE,$30.58,-4000,40603,-9%,"-$122,334",-1.0,-3.0,-2.0,13.0,ARW
+1159,,2005-08-02 16:26:13,2005-08-01,ARW,Salsgiver Jan,VP,S - Sale,$30.11,-10450,37509,-22%,"-$314,646",-1.0,-4.0,-4.0,13.0,ARW
+1160,D,2005-08-02 14:56:48,2005-08-02,ARW,Green Keryn H,VP,M - OptEx,$23.39,34250,7125,-126%,"+$800,988",1.0,-3.0,-3.0,14.0,ARW
+1161,D,2005-08-02 14:56:48,2005-08-02,ARW,Green Keryn H,VP,S - Sale+OE,$30.31,-34250,7125,-83%,"-$1,038,210",1.0,-3.0,-3.0,14.0,ARW
+1162,D,2005-08-01 15:44:20,2005-08-01,ARW,Duval Daniel W,Dir,M - OptEx,$20.42,8000,50500,+19%,"+$163,360",1.0,-1.0,-1.0,15.0,ARW
+1163,D,2005-08-01 15:44:20,2005-08-01,ARW,Duval Daniel W,Dir,S - Sale+OE,$30.04,-8000,50500,-14%,"-$240,356",1.0,-1.0,-1.0,15.0,ARW
+1164,A,2005-07-28 14:55:49,2005-07-26,ARW,Brown Peter S,"SVP, GC",M - OptEx,$22.50,15000,35850,+72%,"+$337,500",1.0,1.0,-1.0,15.0,ARW
+1165,D,2005-07-28 11:32:07,2005-07-27,ARW,Long Michael J,VP,M - OptEx,$26.12,30600,48587,+170%,"+$799,250",1.0,1.0,-1.0,15.0,ARW
+1166,D,2005-07-28 11:32:07,2005-07-27,ARW,Long Michael J,VP,S - Sale+OE,$30.04,-30600,48587,-39%,"-$919,199",1.0,1.0,-1.0,15.0,ARW
+1167,D,2005-07-27 14:45:41,2005-07-26,ARW,Long Michael J,VP,M - OptEx,$26.25,3400,48587,+8%,"+$89,250",1.0,3.0,0.0,15.0,ARW
+1168,D,2005-07-27 14:45:41,2005-07-26,ARW,Long Michael J,VP,S - Sale+OE,$30.00,-3400,48587,-7%,"-$102,000",1.0,3.0,0.0,15.0,ARW
+1169,D,2005-07-27 14:00:20,2005-07-26,ARW,Brown Peter S,"SVP, GC",M - OptEx,$20.34,20000,13734,-319%,"+$406,750",1.0,3.0,0.0,15.0,ARW
+1170,D,2005-07-27 14:00:20,2005-07-26,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$30.00,-22650,13734,-62%,"-$679,500",1.0,3.0,0.0,15.0,ARW
+1171,D,2005-07-26 15:44:48,2005-07-26,ARW,Fanelli Germano,VP,M - OptEx,$15.44,2500,25000,+11%,"+$38,594",1.0,2.0,1.0,15.0,ARW
+1172,D,2005-07-26 15:44:48,2005-07-26,ARW,Fanelli Germano,VP,S - Sale+OE,$29.75,-2500,25000,-9%,"-$74,375",1.0,2.0,1.0,15.0,ARW
+1173,D,2005-07-15 14:10:16,2005-07-14,ARW,Long Michael J,VP,M - OptEx,$26.14,15400,48587,+46%,"+$402,570",-1.0,0.0,-2.0,18.0,ARW
+1174,D,2005-07-15 14:10:16,2005-07-14,ARW,Long Michael J,VP,S - Sale+OE,$29.04,-14600,48587,-23%,"-$423,927",-1.0,0.0,-2.0,18.0,ARW
+1175,D,2005-07-01 15:00:24,2005-07-01,ARW,Duval Daniel W,Dir,M - OptEx,$20.42,8000,24200,+49%,"+$163,360",1.0,2.0,11.0,19.0,ARW
+1176,D,2005-07-01 15:00:24,2005-07-01,ARW,Duval Daniel W,Dir,S - Sale+OE,$27.23,-8000,24200,-25%,"-$217,830",1.0,2.0,11.0,19.0,ARW
+1177,D,2005-06-01 10:23:51,2005-05-31,ARW,Fanelli Germano,VP,M - OptEx,$20.94,5000,25000,+25%,"+$104,688",0.0,-1.0,-4.0,13.0,ARW
+1178,D,2005-06-01 10:23:51,2005-05-31,ARW,Fanelli Germano,VP,S - Sale+OE,$27.85,-5000,25000,-17%,"-$139,250",0.0,-1.0,-4.0,13.0,ARW
+1179,D,2005-05-19 14:41:27,2005-05-17,ARW,Long Michael J,VP,M - OptEx,$19.38,15000,48587,+45%,"+$290,719",0.0,0.0,6.0,19.0,ARW
+1180,D,2005-05-19 14:41:27,2005-05-17,ARW,Long Michael J,VP,S - Sale+OE,$25.83,-15000,48587,-24%,"-$387,425",0.0,0.0,6.0,19.0,ARW
+1181,,2005-05-19 14:29:22,2005-05-19,ARW,Green Keryn H,VP,S - Sale,$26.60,-5750,7125,-45%,"-$152,972",0.0,0.0,6.0,19.0,ARW
+1182,D,2005-05-17 17:34:50,2005-05-16,ARW,Long Michael J,VP,M - OptEx,$20.94,12500,48587,+35%,"+$261,719",2.0,3.0,8.0,20.0,ARW
+1183,DM,2005-05-17 17:34:50,2005-05-13,ARW,Long Michael J,VP,S - Sale+OE,$25.72,-18500,48587,-28%,"-$475,758",2.0,3.0,8.0,20.0,ARW
+1184,DM,2005-03-02 15:22:05,2005-02-28,ARW,Brown Peter S,"SVP, GC",S - Sale+OE,$27.17,-2250,16116,-12%,"-$61,131",-1.0,-1.0,-8.0,7.0,ARW
+1185,D,2005-02-25 16:35:59,2005-02-25,ARW,Fanelli Germano,VP,M - OptEx,$20.94,5000,25000,+25%,"+$104,688",-1.0,-1.0,-5.0,9.0,ARW
+1186,D,2005-02-25 16:35:59,2005-02-25,ARW,Fanelli Germano,VP,S - Sale+OE,$26.85,-5000,25000,-17%,"-$134,250",-1.0,-1.0,-5.0,9.0,ARW
+1187,M,2005-02-08 11:27:30,2004-11-10,ARW,Fanelli Germano,VP,S - Sale,$24.49,-3000,25000,-11%,"-$73,460",1.0,4.0,11.0,19.0,ARW
+1188,,2005-01-19 11:27:54,2005-01-18,ARW,Brown Peter S,"SVP, GC",S - Sale,$22.79,-250,18100,-1%,"-$5,698",-2.0,-3.0,13.0,30.0,ARW
+1189,,2004-11-16 11:57:28,2004-11-15,ARW,Brown Peter S,"SVP, GC",S - Sale,$25.00,-1250,18350,-6%,"-$31,250",-1.0,-3.0,1.0,5.0,ARW
+1190,D,2004-11-15 13:07:25,2004-11-15,ARW,Long Michael J,VP,M - OptEx,$15.12,12500,54328,+30%,"+$189,000",1.0,-1.0,1.0,6.0,ARW
+1191,D,2004-11-15 13:07:25,2004-11-15,ARW,Long Michael J,VP,S - Sale+OE,$24.82,-12500,54328,-19%,"-$310,197",1.0,-1.0,1.0,6.0,ARW
+1192,,2004-11-15 11:27:13,2004-11-15,ARW,Brown Peter S,"SVP, GC",S - Sale,$24.18,-750,19600,-4%,"-$18,132",1.0,-1.0,1.0,6.0,ARW
+1193,,2004-11-12 11:56:02,2004-11-12,ARW,Rosenbloom Richard S,Dir,G - Gift,$0.00,-300,5575,-5%,-$0,0.0,1.0,0.0,5.0,ARW
+1194,D,2004-11-05 15:48:58,2004-11-05,ARW,Fanelli Germano,VP,M - OptEx,$17.00,10000,28000,+56%,"+$170,000",2.0,2.0,5.0,-1.0,ARW
+1195,D,2004-11-05 15:48:58,2004-11-05,ARW,Fanelli Germano,VP,S - Sale+OE,$24.25,-10000,28000,-26%,"-$242,500",2.0,2.0,5.0,-1.0,ARW
+1196,D,2004-11-03 14:16:21,2004-11-02,ARW,McNally Brian,VP,M - OptEx,$17.00,3000,40335,+8%,"+$51,000",0.0,3.0,7.0,0.0,ARW
+1197,D,2004-11-03 14:16:21,2004-11-02,ARW,McNally Brian,VP,S - Sale+OE,$24.00,-3000,40335,-7%,"-$72,000",0.0,3.0,7.0,0.0,ARW
+1198,,2004-10-26 13:59:44,2004-10-26,ARW,Green Keryn H,VP,S - Sale,$23.56,-3625,12875,-22%,"-$85,419",-1.0,1.0,2.0,1.0,ARW
+1199,,2004-10-08 11:26:35,2004-10-08,ARW,Brown Peter S,"SVP, GC",S - Sale,$22.63,-4000,20350,-16%,"-$90,502",-4.0,-6.0,7.0,8.0,ARW
+1200,,2004-09-21 17:02:42,2004-09-21,ARW,Keeth Martha Frances,Dir,A - Grant,$0.00,1735,1735,New,+$0,-2.0,-5.0,-7.0,13.0,ARW
+1201,,2004-09-15 14:42:37,2004-09-15,ARW,Brown Peter S,"SVP, GC",S - Sale,$23.10,-500,24350,-2%,"-$11,550",-4.0,-2.0,-5.0,13.0,ARW
+1202,,2004-08-13 12:05:47,2004-08-12,ARW,Waddell John C,Dir,S - Sale,$20.74,-3000,9051,-25%,"-$62,207",0.0,9.0,14.0,18.0,ARW
+1203,,2004-06-01 12:33:08,2004-05-27,ARW,Waddell John C,Dir,A - Grant,$0.00,1475,12051,+14%,+$0,0.0,0.0,-2.0,-9.0,ARW
+1204,,2004-06-01 12:25:25,2004-05-27,ARW,Rosenbloom Richard S,Dir,A - Grant,$0.00,1475,5875,+34%,+$0,0.0,0.0,-2.0,-9.0,ARW
+1205,,2004-06-01 11:59:33,2004-05-27,ARW,Perry Barry W,Dir,A - Grant,$0.00,1475,1475,New,+$0,0.0,0.0,-2.0,-9.0,ARW
+1206,,2004-06-01 11:55:04,2004-05-27,ARW,Patrick Stephen C,Dir,A - Grant,$0.00,1475,1475,New,+$0,0.0,0.0,-2.0,-9.0,ARW
+1207,,2004-06-01 11:51:47,2004-05-27,ARW,Mills Karen G,Dir,A - Grant,$0.00,1475,4075,+57%,+$0,0.0,0.0,-2.0,-9.0,ARW
+1208,,2004-06-01 11:46:50,2004-05-27,ARW,King Roger,Dir,A - Grant,$0.00,1475,3475,+74%,+$0,0.0,0.0,-2.0,-9.0,ARW
+1209,,2004-06-01 11:39:41,2004-05-27,ARW,Duval Daniel W,Dir,A - Grant,$0.00,1475,25675,+6%,+$0,0.0,0.0,-2.0,-9.0,ARW
+1210,,2004-06-01 11:27:23,2004-05-27,ARW,Hanson John Nils,Dir,A - Grant,$0.00,1475,4975,+42%,+$0,0.0,0.0,-2.0,-9.0,ARW
+1211,,2004-05-07 15:42:35,2004-05-05,ARW,Scheihing Betty Jane,SVP,S - Sale,$25.70,-6775,18284,-27%,"-$174,123",-1.0,1.0,6.0,-6.0,ARW
+1212,,2004-04-29 15:44:34,2004-04-28,ARW,Mitchell William,"Pres, CEO",S - Sale,$26.60,-4000,45700,-8%,"-$106,392",-4.0,-3.0,3.0,-9.0,ARW
+1213,D,2004-04-28 18:12:11,2004-04-27,ARW,Salsgiver Jan,VP,M - OptEx,$17.00,15000,47424,+46%,"+$255,000",-4.0,-3.0,2.0,-10.0,ARW
+1214,D,2004-04-28 18:12:11,2004-04-27,ARW,Salsgiver Jan,VP,S - Sale+OE,$28.23,-19000,47424,-29%,"-$536,385",-4.0,-3.0,2.0,-10.0,ARW
+1215,,2004-04-28 17:48:53,2004-04-27,ARW,Green Keryn H,VP,S - Sale,$28.18,-3625,16500,-18%,"-$102,153",-4.0,-3.0,2.0,-10.0,ARW
+1216,,2004-03-02 16:32:51,2004-02-27,ARW,Brown Peter S,"SVP, GC",S - Sale,$25.00,-1000,24850,-4%,"-$25,000",-1.0,0.0,2.0,-11.0,ARW
+1217,,2004-02-27 16:14:24,2004-02-27,ARW,Brown Peter S,"SVP, GC",S - Sale,$24.40,-750,25850,-3%,"-$18,300",0.0,0.0,-1.0,-9.0,ARW
+1218,,2004-01-16 17:08:42,2004-01-16,ARW,Brown Peter S,"SVP, GC",S - Sale,$27.50,-1500,26600,-5%,"-$41,250",0.0,-5.0,-2.0,-20.0,ARW
+1219,,2004-01-09 17:00:51,2004-01-09,ARW,Brown Peter S,"SVP, GC",S - Sale,$25.00,-2500,28100,-8%,"-$62,500",3.0,3.0,3.0,-12.0,ARW
+1220,,2003-11-17 16:25:18,2003-11-13,ARW,Green Keryn H,VP,M - OptEx,$15.44,5000,20125,+33%,"+$77,188",-1.0,0.0,4.0,14.0,ARW
+1221,,2003-11-17 16:25:18,2003-11-13,ARW,Green Keryn H,VP,S - Sale,$23.08,-5000,20125,-20%,"-$115,400",-1.0,0.0,4.0,14.0,ARW
+1222,,2003-11-17 16:14:32,2003-11-14,ARW,Scheihing Betty Jane,SVP,S - Sale,$22.67,-5392,0,-100%,"-$122,244",-1.0,0.0,4.0,14.0,ARW
+1223,,2003-11-10 12:25:10,2003-11-07,ARW,Scheihing Betty Jane,SVP,M - OptEx,$17.20,52500,19400,-159%,"+$902,969",-4.0,-3.0,-2.0,12.0,ARW
+1224,,2003-11-10 12:25:10,2003-11-07,ARW,Scheihing Betty Jane,SVP,S - Sale,$23.47,-52500,19400,-73%,"-$1,232,018",-4.0,-3.0,-2.0,12.0,ARW
+1225,,2003-11-05 11:15:50,2003-11-04,ARW,Brown Peter S,"SVP, GC",S - Sale,$22.50,-1500,30600,-5%,"-$33,750",2.0,1.0,6.0,14.0,ARW
+1226,,2003-11-03 10:30:50,2003-10-31,ARW,Reilly Paul J,"VP, CFO",M - OptEx,$19.00,4000,35000,+13%,"+$76,000",4.0,10.0,13.0,19.0,ARW
+1227,,2003-11-03 10:30:50,2003-10-31,ARW,Reilly Paul J,"VP, CFO",S - Sale,$21.25,-4000,35000,-10%,"-$85,008",4.0,10.0,13.0,19.0,ARW
+1228,,2003-10-29 16:40:15,2003-10-29,ARW,Klatell Robert E,EVP,M - OptEx,$19.00,30000,70530,+74%,"+$570,000",1.0,6.0,10.0,20.0,ARW
+1229,,2003-10-29 16:40:15,2003-10-29,ARW,Klatell Robert E,EVP,S - Sale,$21.00,-30000,70530,-30%,"-$630,105",1.0,6.0,10.0,20.0,ARW
+1230,,2003-10-09 14:45:23,2003-10-09,ARW,Brown Peter S,"SVP, GC",S - Sale,$20.00,-2000,32100,-6%,"-$40,000",2.0,4.0,19.0,40.0,ARW
+1231,,2003-10-08 13:32:09,2003-10-08,ARW,Brown Peter S,"SVP, GC",S - Sale,$19.64,-2250,34100,-6%,"-$44,189",0.0,4.0,17.0,39.0,ARW
+1232,,2003-08-29 10:43:48,2003-08-28,ARW,Brown Peter S,"SVP, GC",S - Sale,$20.00,-2000,36350,-5%,"-$40,000",3.0,3.0,-6.0,23.0,ARW

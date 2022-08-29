@@ -1,22 +1,687 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,,2022-03-08 08:26:23,2022-03-07,ALV,Westin Fredrik,See Remarks,S - Sale,$75.38,-1060,2100,-34%,"-$79,903",,,,,ALV
-1,,2022-02-25 06:05:21,2022-02-24,ALV,Bratt Mikael,See Remarks,S - Sale,$88.27,-3647,10646,-26%,"-$321,921",,,,,ALV
-2,D,2022-02-23 13:53:19,2022-02-23,ALV,Bratt Mikael,See Remarks,S - Sale+OE,$97.33,-935,14293,-6%,"-$91,004",,,,,ALV
-3,D,2022-02-23 13:49:22,2022-02-23,ALV,Mogefors Svante,See Remarks,S - Sale+OE,$97.33,-723,13739,-5%,"-$70,370",,,,,ALV
-4,,2021-09-03 06:30:18,2021-09-02,ALV,Oldorff Frithjof,"Pres, Autoliv Europe",S - Sale,$88.05,-1406,3465,-29%,"-$123,798",,,,,ALV
-5,,2021-08-25 06:38:01,2021-08-20,ALV,Jarlegren Magnus,"EVP, Operations",S - Sale,$89.98,-800,2568,-24%,"-$71,984",,,,,ALV
-6,D,2021-05-26 06:34:17,2021-05-25,ALV,Carlson Jan,Dir,S - Sale+OE,$103.67,-18726,75211,-20%,"-$1,941,318",,,,,ALV
-7,D,2021-03-04 06:05:23,2021-03-03,ALV,Westin Fredrik,See Remarks,S - Sale+OE,$94.94,-1040,1040,-50%,"-$98,738",,,,,ALV
-8,D,2021-02-22 09:18:18,2021-02-19,ALV,Naughton Colin,"Pres, Asia",S - Sale+OE,$91.15,-115,2666,-4%,"-$10,482",,,,,ALV
-9,D,2021-02-19 07:05:38,2021-02-18,ALV,Cheng Jennifer,"Pres, China",S - Sale+OE,$91.39,-318,2957,-10%,"-$29,062",,,,,ALV
-10,,2021-02-18 16:16:46,2021-02-16,ALV,Mogefors Svante,See Remarks,S - Sale,$94.08,-1410,10031,-12%,"-$132,653",,,,,ALV
-11,D,2020-12-03 06:16:56,2020-12-02,ALV,Mogefors Svante,See Remarks,S - Sale+OE,$89.45,-2894,10031,-22%,"-$258,868",,,,,ALV
-12,,2020-10-28 06:05:15,2020-10-27,ALV,Oldorff Frithjof,"Pres, Autoliv Europe",S - Sale,$80.95,-1095,1879,-37%,"-$88,640",,,,,ALV
-13,,2020-05-19 06:05:25,2020-05-18,ALV,Garceau Daniel,"Pres, Autoliv Americas",S - Sale,$61.08,-752,68,-92%,"-$45,932",,,,,ALV
-14,,2020-02-28 06:03:38,2020-02-27,ALV,Carlson Jan,Dir,S - Sale,$69.81,-3400,63357,-5%,"-$237,354",,,,,ALV
-15,D,2020-02-21 11:46:45,2020-02-21,ALV,Mogefors Svante,See Remarks,S - Sale+OE,$74.63,-1605,10031,-14%,"-$119,781",,,,,ALV
-16,D,2020-02-21 11:36:46,2020-02-21,ALV,Garceau Daniel,"Pres, Autoliv Americas",S - Sale+OE,$74.63,-125,820,-13%,"-$9,329",,,,,ALV
-17,D,2020-02-21 11:34:51,2020-02-21,ALV,Cheng Jennifer,"Pres, Autoliv China",S - Sale+OE,$74.63,-467,1949,-19%,"-$34,852",,,,,ALV
-18,D,2019-02-20 13:45:11,2019-02-20,ALV,Mogefors Svante,See Remarks,S - Sale+OE,$80.69,-1524,10531,-13%,"-$122,972",,,,,ALV
-19,D,2019-02-20 13:21:24,2019-02-20,ALV,Garceau Daniel,"Pres, Autoliv Americas",S - Sale+OE,$80.69,-140,447,-24%,"-$11,297",,,,,ALV
-20,D,2018-09-04 16:11:41,2018-08-31,ALV,Carlson Jan,Dir,S - Sale+OE,$89.53,-42589,53579,-44%,"-$3,812,993",,,,,ALV
+1,D,2022-03-04 06:10:54,2022-03-02,ALV,Westin Fredrik,See Remarks,M - OptEx,$83.38,2120,3160,+204%,"+$176,766",,,,,ALV
+2,,2022-02-25 06:05:21,2022-02-24,ALV,Bratt Mikael,See Remarks,S - Sale,$88.27,-3647,10646,-26%,"-$321,921",,,,,ALV
+3,ADM,2022-02-24 06:10:47,2022-02-18,ALV,Nellis Anthony J,See Remarks,F - Tax,$99.30,-866,3888,-18%,"-$85,994",,,,,ALV
+4,ADM,2022-02-24 06:10:47,2022-02-18,ALV,Nellis Anthony J,See Remarks,M - OptEx,$0.00,2915,3888,+300%,+$0,,,,,ALV
+5,ADM,2022-02-24 06:10:30,2022-02-18,ALV,Fox Kevin,"Pres, Americas",F - Tax,$99.30,-216,908,-19%,"-$21,449",,,,,ALV
+6,ADM,2022-02-24 06:10:30,2022-02-18,ALV,Fox Kevin,"Pres, Americas",M - OptEx,$0.00,709,908,+356%,+$0,,,,,ALV
+7,ADM,2022-02-24 06:10:21,2022-02-18,ALV,Lombarte Jordi,See Remarks,F - Tax,$99.30,-990,4612,-18%,"-$98,307",,,,,ALV
+8,ADM,2022-02-24 06:10:21,2022-02-18,ALV,Lombarte Jordi,See Remarks,M - OptEx,$0.00,3330,4612,+260%,+$0,,,,,ALV
+9,DM,2022-02-23 14:07:10,2022-02-18,ALV,Lombarte Jordi,See Remarks,F - Tax,$99.30,-1027,4575,-18%,"-$101,981",,,,,ALV
+10,DM,2022-02-23 14:07:10,2022-02-18,ALV,Lombarte Jordi,See Remarks,M - OptEx,$0.00,3330,4575,+267%,+$0,,,,,ALV
+11,DM,2022-02-23 14:04:14,2022-02-18,ALV,Nellis Anthony J,See Remarks,F - Tax,$99.30,-996,3758,-21%,"-$98,903",,,,,ALV
+12,DM,2022-02-23 14:04:14,2022-02-18,ALV,Nellis Anthony J,See Remarks,M - OptEx,$0.00,2915,3758,+346%,+$0,,,,,ALV
+13,DM,2022-02-23 14:02:29,2022-02-18,ALV,Fox Kevin,"Pres, Americas",F - Tax,$99.30,-246,878,-22%,"-$24,428",,,,,ALV
+14,DM,2022-02-23 14:02:29,2022-02-18,ALV,Fox Kevin,"Pres, Americas",M - OptEx,$0.00,709,878,+420%,+$0,,,,,ALV
+15,DM,2022-02-23 13:58:48,2022-02-18,ALV,Naughton Colin,"Pres, Asia",M - OptEx,$0.00,1035,4377,+31%,+$0,,,,,ALV
+16,DM,2022-02-23 13:53:19,2022-02-18,ALV,Bratt Mikael,See Remarks,M - OptEx,$0.00,9163,14293,+179%,+$0,,,,,ALV
+17,D,2022-02-23 13:53:19,2022-02-23,ALV,Bratt Mikael,See Remarks,S - Sale+OE,$97.33,-935,14293,-6%,"-$91,004",,,,,ALV
+18,DM,2022-02-23 13:49:22,2022-02-18,ALV,Mogefors Svante,See Remarks,M - OptEx,$0.00,4431,13739,+48%,+$0,,,,,ALV
+19,D,2022-02-23 13:49:22,2022-02-23,ALV,Mogefors Svante,See Remarks,S - Sale+OE,$97.33,-723,13739,-5%,"-$70,370",,,,,ALV
+20,D,2022-02-03 10:03:19,2022-02-01,ALV,Naughton Colin,"Pres, Autoliv Asia",M - OptEx,$47.52,676,3342,+25%,"+$32,124",,,,,ALV
+21,D,2021-11-30 07:13:22,2021-11-27,ALV,Cheng Jennifer,"Pres, China",M - OptEx,$0.00,1903,4860,+64%,+$0,,,,,ALV
+22,,2021-09-03 06:30:18,2021-09-02,ALV,Oldorff Frithjof,"Pres, Autoliv Europe",S - Sale,$88.05,-1406,3465,-29%,"-$123,798",,,,,ALV
+23,D,2021-09-02 06:05:20,2021-09-01,ALV,Oldorff Frithjof,"Pres, Autoliv Europe",M - OptEx,$0.00,2992,4871,+159%,+$0,,,,,ALV
+24,,2021-08-25 06:38:01,2021-08-20,ALV,Jarlegren Magnus,"EVP, Operations",S - Sale,$89.98,-800,2568,-24%,"-$71,984",,,,,ALV
+25,D,2021-08-17 06:51:49,2021-08-15,ALV,Jarlegren Magnus,"EVP, Operations",M - OptEx,$0.00,1526,3368,+83%,+$0,,,,,ALV
+26,D,2021-07-02 06:17:26,2021-07-01,ALV,Ericson Per Eric,See Remarks,M - OptEx,$0.00,1150,1150,New,+$0,,,,,ALV
+27,D,2021-05-26 06:34:17,2021-05-25,ALV,Carlson Jan,Dir,M - OptEx,$73.57,18726,75211,+33%,"+$1,377,748",,,,,ALV
+28,D,2021-05-26 06:34:17,2021-05-25,ALV,Carlson Jan,Dir,S - Sale+OE,$103.67,-18726,75211,-20%,"-$1,941,318",,,,,ALV
+29,D,2021-05-07 09:32:40,2021-05-07,ALV,Ringler James M,Dir,M - OptEx,$0.00,2415,10748,+29%,+$0,,,,,ALV
+30,D,2021-05-07 09:27:49,2021-05-07,ALV,Carlson Jan,Dir,M - OptEx,$0.00,3709,75211,+5%,+$0,,,,,ALV
+31,D,2021-05-07 09:22:51,2021-05-07,ALV,Kortuem Franz-Josef,Dir,M - OptEx,$0.00,2415,7815,+45%,+$0,,,,,ALV
+32,D,2021-05-07 09:21:20,2021-05-07,ALV,Liu Xiaozhi,Dir,M - OptEx,$0.00,2415,9354,+35%,+$0,,,,,ALV
+33,D,2021-05-07 09:20:28,2021-05-07,ALV,Brlas Laurie,Dir,M - OptEx,$0.00,1615,1615,New,+$0,,,,,ALV
+34,D,2021-05-07 09:18:57,2021-05-07,ALV,Senko Thaddeus,Dir,M - OptEx,$0.00,2415,4754,+103%,+$0,,,,,ALV
+35,D,2021-05-07 09:18:37,2021-05-07,ALV,Kepler David E,Dir,M - OptEx,$0.00,2415,7605,+47%,+$0,,,,,ALV
+36,D,2021-05-07 09:17:01,2021-05-07,ALV,Johansson Leif,Dir,M - OptEx,$0.00,2415,18708,+15%,+$0,,,,,ALV
+37,D,2021-05-07 09:16:57,2021-05-07,ALV,Liu Min,Dir,M - OptEx,$0.00,2415,4064,+146%,+$0,,,,,ALV
+38,D,2021-05-07 09:16:40,2021-05-07,ALV,Lissalde Frederic,Dir,M - OptEx,$0.00,503,503,New,+$0,,,,,ALV
+39,D,2021-05-07 09:15:56,2021-05-07,ALV,Johansson Hasse,Dir,M - OptEx,$0.00,2415,4691,+106%,+$0,,,,,ALV
+40,D,2021-03-04 06:05:23,2021-03-02,ALV,Westin Fredrik,See Remarks,M - OptEx,$92.45,2080,1040,-200%,"+$192,296",,,,,ALV
+41,D,2021-03-04 06:05:23,2021-03-03,ALV,Westin Fredrik,See Remarks,S - Sale+OE,$94.94,-1040,1040,-50%,"-$98,738",,,,,ALV
+42,D,2021-02-22 09:18:18,2021-02-19,ALV,Naughton Colin,"Pres, Asia",M - OptEx,$51.74,188,2666,+8%,"+$9,727",,,,,ALV
+43,D,2021-02-22 09:18:18,2021-02-19,ALV,Naughton Colin,"Pres, Asia",S - Sale+OE,$91.15,-115,2666,-4%,"-$10,482",,,,,ALV
+44,D,2021-02-19 07:05:38,2021-02-18,ALV,Cheng Jennifer,"Pres, China",S - Sale+OE,$91.39,-318,2957,-10%,"-$29,062",,,,,ALV
+45,,2021-02-18 16:16:46,2021-02-16,ALV,Mogefors Svante,See Remarks,S - Sale,$94.08,-1410,10031,-12%,"-$132,653",,,,,ALV
+46,D,2021-02-17 13:21:05,2021-02-13,ALV,Mogefors Svante,See Remarks,M - OptEx,$0.00,1410,11441,+14%,+$0,,,,,ALV
+47,D,2021-02-16 06:36:20,2021-02-13,ALV,Bratt Mikael,See Remarks,M - OptEx,$0.00,1968,6065,+48%,+$0,,,,,ALV
+48,D,2021-02-16 06:35:31,2021-02-13,ALV,Fox Kevin,"Pres, Americas",F - Tax,$94.27,-40,415,-9%,"-$3,771",,,,,ALV
+49,D,2021-02-16 06:35:31,2021-02-13,ALV,Fox Kevin,"Pres, Americas",M - OptEx,$0.00,114,415,+38%,+$0,,,,,ALV
+50,D,2021-02-16 06:29:13,2021-02-13,ALV,Carlson Jan,Dir,M - OptEx,$0.00,5465,71502,+8%,+$0,,,,,ALV
+51,D,2021-02-16 06:23:13,2021-02-13,ALV,Nellis Anthony J,See Remarks,F - Tax,$94.27,-147,1839,-7%,"-$13,858",,,,,ALV
+52,D,2021-02-16 06:23:13,2021-02-13,ALV,Nellis Anthony J,See Remarks,M - OptEx,$0.00,432,1839,+31%,+$0,,,,,ALV
+53,D,2021-02-16 06:16:49,2021-02-13,ALV,Cheng Jennifer,"Pres, China",M - OptEx,$0.00,1326,3275,+68%,+$0,,,,,ALV
+54,D,2021-02-16 06:09:50,2021-02-13,ALV,Naughton Colin,"Pres, Asia",M - OptEx,$0.00,288,2593,+12%,+$0,,,,,ALV
+55,D,2021-02-16 06:03:29,2021-02-13,ALV,Lombarte Jordi,CTO,F - Tax,$94.27,-162,2272,-7%,"-$15,272",,,,,ALV
+56,D,2021-02-16 06:03:29,2021-02-13,ALV,Lombarte Jordi,CTO,M - OptEx,$0.00,477,2272,+27%,+$0,,,,,ALV
+57,D,2020-12-03 06:16:56,2020-12-02,ALV,Mogefors Svante,See Remarks,M - OptEx,$51.74,2894,10031,+41%,"+$149,736",,,,,ALV
+58,D,2020-12-03 06:16:56,2020-12-02,ALV,Mogefors Svante,See Remarks,S - Sale+OE,$89.45,-2894,10031,-22%,"-$258,868",,,,,ALV
+59,,2020-10-28 06:05:15,2020-10-27,ALV,Oldorff Frithjof,"Pres, Autoliv Europe",S - Sale,$80.95,-1095,1879,-37%,"-$88,640",,,,,ALV
+60,D,2020-09-02 09:03:26,2020-09-01,ALV,Oldorff Frithjof,"Pres, Autoliv Europe",M - OptEx,$0.00,2974,2974,New,+$0,,,,,ALV
+61,D,2020-08-17 08:15:19,2020-08-15,ALV,Jarlegren Magnus,See Remarks,M - OptEx,$0.00,1517,1842,+467%,+$0,,,,,ALV
+62,,2020-05-19 06:05:25,2020-05-18,ALV,Garceau Daniel,"Pres, Autoliv Americas",S - Sale,$61.08,-752,68,-92%,"-$45,932",,,,,ALV
+63,D,2020-05-11 10:10:02,2020-05-07,ALV,Liu Min,Dir,M - OptEx,$0.00,1649,1649,New,+$0,,,,,ALV
+64,D,2020-05-11 09:47:16,2020-05-07,ALV,Carlson Jan,Dir,M - OptEx,$0.00,2680,66037,+4%,+$0,,,,,ALV
+65,D,2020-05-11 09:41:18,2020-05-07,ALV,Senko Thaddeus,Dir,M - OptEx,$0.00,1649,2339,+239%,+$0,,,,,ALV
+66,D,2020-05-11 09:36:41,2020-05-07,ALV,Liu Xiaozhi,Dir,M - OptEx,$0.00,1649,6939,+31%,+$0,,,,,ALV
+67,D,2020-05-11 09:35:49,2020-05-07,ALV,Ringler James M,Dir,M - OptEx,$0.00,1649,8333,+25%,+$0,,,,,ALV
+68,D,2020-05-11 09:32:27,2020-05-07,ALV,Johansson Leif,Dir,M - OptEx,$0.00,1649,16293,+11%,+$0,,,,,ALV
+69,D,2020-05-11 09:32:24,2020-05-07,ALV,Kortuem Franz-Josef,Dir,M - OptEx,$0.00,1649,5400,+44%,+$0,,,,,ALV
+70,D,2020-05-11 09:30:34,2020-05-07,ALV,Johansson Hasse,Dir,M - OptEx,$0.00,1649,2276,+263%,+$0,,,,,ALV
+71,D,2020-05-11 09:28:20,2020-05-07,ALV,Kepler David E,Dir,M - OptEx,$0.00,1649,5190,+47%,+$0,,,,,ALV
+72,,2020-02-28 06:03:38,2020-02-27,ALV,Carlson Jan,Dir,S - Sale,$69.81,-3400,63357,-5%,"-$237,354",,,,,ALV
+73,D,2020-02-21 11:46:45,2020-02-19,ALV,Mogefors Svante,See Remarks,M - OptEx,$0.00,1605,10031,+19%,+$0,,,,,ALV
+74,D,2020-02-21 11:46:45,2020-02-21,ALV,Mogefors Svante,See Remarks,S - Sale+OE,$74.63,-1605,10031,-14%,"-$119,781",,,,,ALV
+75,D,2020-02-21 11:36:46,2020-02-19,ALV,Garceau Daniel,"Pres, Autoliv Americas",F - Tax,$76.63,-257,820,-24%,"-$19,694",,,,,ALV
+76,D,2020-02-21 11:36:46,2020-02-19,ALV,Garceau Daniel,"Pres, Autoliv Americas",M - OptEx,$0.00,754,820,>999%,+$0,,,,,ALV
+77,D,2020-02-21 11:36:46,2020-02-21,ALV,Garceau Daniel,"Pres, Autoliv Americas",S - Sale+OE,$74.63,-125,820,-13%,"-$9,329",,,,,ALV
+78,D,2020-02-21 11:34:51,2020-02-19,ALV,Cheng Jennifer,"Pres, Autoliv China",M - OptEx,$0.00,1509,1949,+343%,+$0,,,,,ALV
+79,D,2020-02-21 11:34:51,2020-02-21,ALV,Cheng Jennifer,"Pres, Autoliv China",S - Sale+OE,$74.63,-467,1949,-19%,"-$34,852",,,,,ALV
+80,D,2020-02-21 10:30:39,2020-02-19,ALV,Carlson Jan,Dir,M - OptEx,$0.00,5987,66757,+10%,+$0,,,,,ALV
+81,D,2020-02-21 08:55:15,2020-02-19,ALV,Lombarte Jordi,See Remarks,F - Tax,$76.63,-184,1957,-9%,"-$14,100",,,,,ALV
+82,D,2020-02-21 08:55:15,2020-02-19,ALV,Lombarte Jordi,See Remarks,M - OptEx,$0.00,542,1957,+38%,+$0,,,,,ALV
+83,D,2020-02-21 08:19:23,2020-02-19,ALV,Murray Brad,"Pres, Autoliv Asia",F - Tax,$76.63,-296,1086,-21%,"-$22,682",,,,,ALV
+84,D,2020-02-21 08:19:23,2020-02-19,ALV,Murray Brad,"Pres, Autoliv Asia",M - OptEx,$0.00,853,1086,+366%,+$0,,,,,ALV
+85,D,2020-02-21 07:46:53,2020-02-19,ALV,Vasa Sherry,See Remarks,F - Tax,$76.63,-106,1365,-7%,"-$8,123",,,,,ALV
+86,D,2020-02-21 07:46:53,2020-02-19,ALV,Vasa Sherry,See Remarks,M - OptEx,$0.00,478,1365,+54%,+$0,,,,,ALV
+87,D,2020-02-21 07:42:09,2020-02-19,ALV,Nellis Anthony J,See Remarks,F - Tax,$76.63,-168,1554,-10%,"-$12,874",,,,,ALV
+88,D,2020-02-21 07:42:09,2020-02-19,ALV,Nellis Anthony J,See Remarks,M - OptEx,$0.00,493,1554,+46%,+$0,,,,,ALV
+89,D,2020-02-20 11:22:26,2020-02-19,ALV,Bratt Mikael,"Pres, CEO",M - OptEx,$0.00,2243,4097,+121%,+$0,,,,,ALV
+90,D,2020-02-20 09:20:05,2020-02-19,ALV,Hanke Christian,See Remarks,M - OptEx,$0.00,478,478,New,+$0,,,,,ALV
+91,AD,2020-01-10 09:15:06,2019-02-15,ALV,Nellis Anthony J,See Remarks,F - Tax,$78.23,-159,1229,-11%,"-$12,439",,,,,ALV
+92,AD,2020-01-10 09:15:06,2019-02-15,ALV,Nellis Anthony J,See Remarks,M - OptEx,$0.00,467,1229,+61%,+$0,,,,,ALV
+93,D,2019-05-09 10:35:17,2019-05-07,ALV,Senko Thaddeus,Dir,M - OptEx,$0.00,623,690,+930%,+$0,,,,,ALV
+94,D,2019-05-09 10:33:25,2019-05-07,ALV,Liu Xiaozhi,Dir,F - Tax,$75.32,-63,5290,-1%,"-$4,745",,,,,ALV
+95,D,2019-05-09 10:33:25,2019-05-07,ALV,Liu Xiaozhi,Dir,M - OptEx,$0.00,623,5290,+13%,+$0,,,,,ALV
+96,D,2019-05-09 10:32:30,2019-05-07,ALV,Johansson Leif,Dir,F - Tax,$75.32,-63,14644,0%,"-$4,745",,,,,ALV
+97,D,2019-05-09 10:32:30,2019-05-07,ALV,Johansson Leif,Dir,M - OptEx,$0.00,623,14644,+4%,+$0,,,,,ALV
+98,D,2019-05-09 10:31:36,2019-05-07,ALV,Kepler David E,Dir,M - OptEx,$0.00,623,3541,+21%,+$0,,,,,ALV
+99,D,2019-05-09 10:29:50,2019-05-07,ALV,Kortuem Franz-Josef,Dir,F - Tax,$75.32,-63,3751,-2%,"-$4,745",,,,,ALV
+100,D,2019-05-09 10:29:50,2019-05-07,ALV,Kortuem Franz-Josef,Dir,M - OptEx,$0.00,623,3751,+20%,+$0,,,,,ALV
+101,D,2019-05-09 10:27:54,2019-05-07,ALV,Ringler James M,Dir,M - OptEx,$0.00,623,6684,+10%,+$0,,,,,ALV
+102,D,2019-05-09 09:24:20,2019-05-07,ALV,Johansson Hasse,Dir,F - Tax,$75.32,-63,627,-9%,"-$4,745",,,,,ALV
+103,D,2019-05-09 09:24:20,2019-05-07,ALV,Johansson Hasse,Dir,M - OptEx,$0.00,623,627,>999%,+$0,,,,,ALV
+104,D,2019-05-09 09:23:45,2019-05-07,ALV,Carlson Jan,Dir,F - Tax,$75.32,-123,60770,0%,"-$9,264",,,,,ALV
+105,D,2019-05-09 09:23:45,2019-05-07,ALV,Carlson Jan,Dir,M - OptEx,$0.00,1633,60770,+3%,+$0,,,,,ALV
+106,D,2019-05-09 07:35:28,2019-05-09,ALV,Bratt Mikael,See Remarks,M - OptEx,$0.00,233,1854,+14%,+$0,,,,,ALV
+107,D,2019-02-20 13:45:11,2019-02-15,ALV,Mogefors Svante,See Remarks,M - OptEx,$0.00,1524,10531,+17%,+$0,,,,,ALV
+108,D,2019-02-20 13:45:11,2019-02-20,ALV,Mogefors Svante,See Remarks,S - Sale+OE,$80.69,-1524,10531,-13%,"-$122,972",,,,,ALV
+109,D,2019-02-20 13:21:24,2019-02-15,ALV,Garceau Daniel,"Pres, Autoliv Americas",F - Tax,$78.23,-196,447,-30%,"-$15,333",,,,,ALV
+110,D,2019-02-20 13:21:24,2019-02-15,ALV,Garceau Daniel,"Pres, Autoliv Americas",M - OptEx,$0.00,716,447,-266%,+$0,,,,,ALV
+111,D,2019-02-20 13:21:24,2019-02-20,ALV,Garceau Daniel,"Pres, Autoliv Americas",S - Sale+OE,$80.69,-140,447,-24%,"-$11,297",,,,,ALV
+112,D,2019-02-20 09:46:54,2019-02-15,ALV,Vasa Sherry,See Remarks,F - Tax,$78.23,-136,993,-12%,"-$10,639",,,,,ALV
+113,D,2019-02-20 09:46:54,2019-02-15,ALV,Vasa Sherry,See Remarks,M - OptEx,$0.00,453,993,+84%,+$0,,,,,ALV
+114,D,2019-02-20 07:39:23,2019-02-15,ALV,Hague Michael A,"Pres, Autoliv Europe",F - Tax,$78.23,-154,299,-34%,"-$12,047",,,,,ALV
+115,D,2019-02-20 07:39:23,2019-02-15,ALV,Hague Michael A,"Pres, Autoliv Europe",M - OptEx,$0.00,453,299,-294%,+$0,,,,,ALV
+116,D,2019-02-20 07:34:22,2019-02-15,ALV,Murray Brad,"Pres, Autoliv Asia",F - Tax,$78.23,-281,529,-35%,"-$21,983",,,,,ALV
+117,D,2019-02-20 07:34:22,2019-02-15,ALV,Murray Brad,"Pres, Autoliv Asia",M - OptEx,$0.00,810,529,-288%,+$0,,,,,ALV
+118,D,2019-02-20 07:34:19,2019-02-15,ALV,Lombarte Jordi,CTO,F - Tax,$78.23,-154,1599,-9%,"-$12,047",,,,,ALV
+119,D,2019-02-20 07:34:19,2019-02-15,ALV,Lombarte Jordi,CTO,M - OptEx,$0.00,453,1599,+40%,+$0,,,,,ALV
+120,D,2019-02-20 07:33:54,2019-02-15,ALV,Nellis Anthony J,See Remarks,F - Tax,$78.23,-159,383,-29%,"-$12,439",,,,,ALV
+121,D,2019-02-20 07:33:54,2019-02-15,ALV,Nellis Anthony J,See Remarks,M - OptEx,$0.00,467,383,-556%,+$0,,,,,ALV
+122,D,2019-02-19 10:00:01,2019-02-15,ALV,Cheng Jennifer,"Pres, Autoliv China",M - OptEx,$0.00,907,907,New,+$0,,,,,ALV
+123,D,2019-02-19 10:00:00,2019-02-15,ALV,Carlson Jan,Dir,M - OptEx,$0.00,5681,59260,+11%,+$0,,,,,ALV
+124,D,2019-02-19 09:55:36,2019-02-15,ALV,Backman Mats,See Remarks,M - OptEx,$0.00,959,1621,+145%,+$0,,,,,ALV
+125,D,2019-02-19 09:46:01,2019-02-15,ALV,Bratt Mikael,See Remarks,M - OptEx,$0.00,959,1621,+145%,+$0,,,,,ALV
+126,D,2018-09-04 16:11:41,2018-08-31,ALV,Carlson Jan,Dir,S - Sale+OE,$89.53,-42589,53579,-44%,"-$3,812,993",,,,,ALV
+127,D,2018-05-11 16:05:32,2018-05-09,ALV,Bratt Mikael,"Pres, Passive Safety",M - OptEx,$0.00,331,662,+100%,+$0,,,,,ALV
+128,D,2018-05-11 16:05:30,2018-05-09,ALV,Backman Mats,See Remarks,M - OptEx,$0.00,331,662,+100%,+$0,,,,,ALV
+129,D,2018-05-10 16:08:47,2018-05-08,ALV,Liu Xiaozhi,Dir,F - Tax,$139.35,-34,4730,-1%,"-$4,738",,,,,ALV
+130,D,2018-05-10 16:08:47,2018-05-08,ALV,Liu Xiaozhi,Dir,M - OptEx,$0.00,1178,4730,+33%,+$0,,,,,ALV
+131,D,2018-05-10 16:08:00,2018-05-08,ALV,Kortuem Franz-Josef,Dir,F - Tax,$139.35,-34,3191,-1%,"-$4,738",,,,,ALV
+132,D,2018-05-10 16:08:00,2018-05-08,ALV,Kortuem Franz-Josef,Dir,M - OptEx,$0.00,1178,3191,+59%,+$0,,,,,ALV
+133,D,2018-05-10 16:07:04,2018-05-08,ALV,Sakamoto Kazuhiko,Dir,M - OptEx,$0.00,1178,4722,+33%,+$0,,,,,ALV
+134,D,2018-05-10 16:06:59,2018-05-08,ALV,Ziebart Wolfgang,Dir,F - Tax,$139.35,-34,3050,-1%,"-$4,738",,,,,ALV
+135,D,2018-05-10 16:06:59,2018-05-08,ALV,Ziebart Wolfgang,Dir,M - OptEx,$0.00,1178,3050,+63%,+$0,,,,,ALV
+136,D,2018-05-10 16:06:35,2018-05-08,ALV,Kepler David E,Dir,M - OptEx,$0.00,1178,2918,+68%,+$0,,,,,ALV
+137,D,2018-05-10 16:06:25,2018-05-08,ALV,Johansson Leif,Dir,M - OptEx,$0.00,1178,14084,+9%,+$0,,,,,ALV
+138,D,2018-05-10 16:05:39,2018-05-08,ALV,Johansson Hasse,Dir,M - OptEx,$0.00,67,67,New,+$0,,,,,ALV
+139,D,2018-05-10 16:05:32,2018-05-08,ALV,Senko Thaddeus,Dir,M - OptEx,$0.00,67,67,New,+$0,,,,,ALV
+140,D,2018-05-10 16:05:30,2018-05-08,ALV,Alspaugh Robert W,Dir,M - OptEx,$0.00,1178,4978,+31%,+$0,,,,,ALV
+141,D,2018-05-10 16:05:30,2018-05-08,ALV,Ringler James M,Dir,M - OptEx,$0.00,1178,6061,+24%,+$0,,,,,ALV
+142,,2018-02-21 16:31:49,2018-02-21,ALV,Lofvenholm Johan,"Pres, Electronics",S - Sale,$144.80,-783,3421,-19%,"-$113,378",,,,,ALV
+143,,2018-02-21 16:30:22,2018-02-21,ALV,Mogefors Svante,See Remarks,S - Sale,$144.80,-1139,10531,-10%,"-$164,927",,,,,ALV
+144,DM,2018-02-20 16:43:15,2018-02-15,ALV,Mogefors Svante,See Remarks,M - OptEx,$0.00,1562,11670,+15%,+$0,,,,,ALV
+145,D,2018-02-20 16:43:15,2018-02-20,ALV,Mogefors Svante,See Remarks,S - Sale+OE,$143.30,-423,11670,-3%,"-$60,616",,,,,ALV
+146,DM,2018-02-20 16:39:50,2018-02-15,ALV,Fredin Steven R,See Remarks,F - Tax,$146.00,-640,6778,-9%,"-$93,438",,,,,ALV
+147,DM,2018-02-20 16:39:50,2018-02-15,ALV,Fredin Steven R,See Remarks,M - OptEx,$0.00,2181,6778,+47%,+$0,,,,,ALV
+148,DM,2018-02-20 16:39:11,2018-02-15,ALV,Wendels Amelie,Treasurer,M - OptEx,$0.00,257,267,>999%,+$0,,,,,ALV
+149,D,2018-02-20 16:39:07,2018-02-15,ALV,Sjobring Lars,See Remarks,F - Tax,$146.45,-183,791,-19%,"-$26,800",,,,,ALV
+150,D,2018-02-20 16:39:07,2018-02-15,ALV,Sjobring Lars,See Remarks,M - OptEx,$0.00,591,791,+296%,+$0,,,,,ALV
+151,DM,2018-02-20 16:38:03,2018-02-15,ALV,Patrick Erin,"VP, Compliance",F - Tax,$146.03,-125,241,-34%,"-$18,254",,,,,ALV
+152,DM,2018-02-20 16:38:03,2018-02-15,ALV,Patrick Erin,"VP, Compliance",M - OptEx,$0.00,366,241,-293%,+$0,,,,,ALV
+153,DM,2018-02-20 16:30:51,2018-02-15,ALV,Eliasson Karin,"Group VP, HR",M - OptEx,$0.00,1562,2136,+272%,+$0,,,,,ALV
+154,DM,2018-02-20 16:30:48,2018-02-15,ALV,Jonsson Thomas,"Group VP, Communications",M - OptEx,$0.00,1562,3873,+68%,+$0,,,,,ALV
+155,DM,2018-02-20 16:30:36,2018-02-15,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$0.00,5821,96168,+6%,+$0,,,,,ALV
+156,DM,2018-02-20 16:30:27,2018-02-15,ALV,Lofvenholm Johan,"Pres, Electronics",A - Grant,$0.00,1562,4204,+59%,+$0,,,,,ALV
+157,D,2018-02-20 16:30:27,2018-02-20,ALV,Lofvenholm Johan,"Pres, Electronics",S - Sale+OE,$143.30,-280,4204,-6%,"-$40,124",,,,,ALV
+158,D,2017-12-01 13:02:21,2017-11-30,ALV,Lofvenholm Johan,"Pres, Electronics",M - OptEx,$94.87,3965,2922,-380%,"+$376,160",,,,,ALV
+159,D,2017-12-01 13:02:21,2017-11-30,ALV,Lofvenholm Johan,"Pres, Electronics",S - Sale+OE,$128.00,-3965,2922,-58%,"-$507,520",,,,,ALV
+160,,2017-07-27 16:05:32,2017-07-26,ALV,Jonsson Thomas,GVP Corporate Communications,S - Sale,$108.55,-1240,2311,-35%,"-$134,602",,,,,ALV
+161,,2017-05-30 16:33:27,2017-05-26,ALV,Alspaugh Robert W,Dir,S - Sale,$109.87,-1156,3800,-23%,"-$127,010",,,,,ALV
+162,D,2017-05-12 16:30:27,2017-05-11,ALV,Mogefors Svante,"GVP, Quality, Manufacturing",M - OptEx,$69.18,5416,10531,+106%,"+$374,679",,,,,ALV
+163,D,2017-05-12 16:30:27,2017-05-11,ALV,Mogefors Svante,"GVP, Quality, Manufacturing",S - Sale+OE,$102.46,-6738,10531,-39%,"-$690,370",,,,,ALV
+164,,2017-05-11 16:40:59,2017-05-09,ALV,Lorch George A,Dir,A - Grant,$0.00,1156,4222,+38%,+$0,0.0,,,,ALV
+165,D,2017-05-11 16:39:45,2017-05-09,ALV,Alspaugh Robert W,Dir,A - Grant,$0.00,1156,4956,+30%,+$0,0.0,,,,ALV
+166,D,2017-05-11 16:39:04,2017-05-09,ALV,Sakamoto Kazuhiko,Dir,A - Grant,$0.00,1156,3544,+48%,+$0,0.0,,,,ALV
+167,D,2017-05-11 16:39:04,2017-05-09,ALV,Sakamoto Kazuhiko,Dir,F - Tax,$103.78,-139,3544,-4%,"-$14,425",0.0,,,,ALV
+168,D,2017-05-11 16:38:42,2017-05-09,ALV,Ringler James M,Dir,A - Grant,$0.00,1156,4883,+31%,+$0,0.0,,,,ALV
+169,,2017-05-11 16:36:34,2017-05-09,ALV,Evans Aicha,Dir,A - Grant,$0.00,1156,1740,+198%,+$0,0.0,,,,ALV
+170,D,2017-05-11 16:36:17,2017-05-09,ALV,Johansson Leif,Dir,A - Grant,$0.00,964,12906,+8%,+$0,0.0,,,,ALV
+171,D,2017-05-11 16:36:17,2017-05-09,ALV,Johansson Leif,Dir,F - Tax,$103.78,-58,12906,0%,"-$6,019",0.0,,,,ALV
+172,D,2017-05-11 16:35:45,2017-05-09,ALV,Backman Mats,See Remarks,M - OptEx,$0.00,331,331,New,+$0,0.0,,,,ALV
+173,D,2017-05-11 16:35:30,2017-05-09,ALV,Ziebart Wolfgang,Dir,A - Grant,$0.00,1156,1906,+154%,+$0,0.0,,,,ALV
+174,D,2017-05-11 16:35:30,2017-05-09,ALV,Ziebart Wolfgang,Dir,F - Tax,$103.78,-69,1906,-3%,"-$7,161",0.0,,,,ALV
+175,D,2017-05-11 16:35:17,2017-05-09,ALV,Liu Xiaozhi,Dir,A - Grant,$0.00,1156,3586,+48%,+$0,0.0,,,,ALV
+176,D,2017-05-11 16:35:17,2017-05-09,ALV,Liu Xiaozhi,Dir,F - Tax,$103.78,-139,3586,-4%,"-$14,425",0.0,,,,ALV
+177,D,2017-05-11 16:33:12,2017-05-09,ALV,Bratt Mikael,"Pres, Passive Safety",M - OptEx,$0.00,331,331,New,+$0,0.0,,,,ALV
+178,D,2017-05-11 16:33:02,2017-05-09,ALV,Kortuem Franz-Josef,Dir,A - Grant,$0.00,1156,2047,+130%,+$0,0.0,,,,ALV
+179,D,2017-05-11 16:33:02,2017-05-09,ALV,Kortuem Franz-Josef,Dir,F - Tax,$103.78,-139,2047,-6%,"-$14,425",0.0,,,,ALV
+180,D,2017-05-11 16:32:54,2017-05-09,ALV,Kepler David E,Dir,A - Grant,$0.00,1156,1740,+198%,+$0,0.0,,,,ALV
+181,D,2017-02-22 17:03:18,2017-02-19,ALV,Patrick Erin,"VP, Compliance",M - OptEx,$0.00,225,0,-100%,+$0,0.0,-1.0,-4.0,,ALV
+182,D,2017-02-22 17:03:18,2017-02-21,ALV,Patrick Erin,"VP, Compliance",S - Sale+OE,$105.04,-225,0,-100%,"-$23,634",0.0,-1.0,-4.0,,ALV
+183,D,2017-02-22 17:02:58,2017-02-19,ALV,Jonsson Thomas,"GVP, Communications",M - OptEx,$0.00,1322,3551,+59%,+$0,0.0,-1.0,-4.0,,ALV
+184,D,2017-02-22 17:02:31,2017-02-19,ALV,Wendels Amelie,Treasurer,M - OptEx,$0.00,225,10,-105%,+$0,0.0,-1.0,-4.0,,ALV
+185,D,2017-02-22 17:02:31,2017-02-21,ALV,Wendels Amelie,Treasurer,S - Sale+OE,$105.04,-225,10,-96%,"-$23,634",0.0,-1.0,-4.0,,ALV
+186,D,2017-02-22 17:01:53,2017-02-19,ALV,Fredin Steven R,See Remarks,F - Tax,$105.87,-480,5237,-8%,"-$50,818",0.0,-1.0,-4.0,,ALV
+187,D,2017-02-22 17:01:53,2017-02-19,ALV,Fredin Steven R,See Remarks,M - OptEx,$0.00,1531,5237,+41%,+$0,0.0,-1.0,-4.0,,ALV
+188,D,2017-02-22 17:01:53,2017-02-22,ALV,Fredin Steven R,See Remarks,S - Sale+OE,$104.68,-962,5237,-16%,"-$100,702",0.0,-1.0,-4.0,,ALV
+189,D,2017-02-22 17:01:22,2017-02-19,ALV,Mogefors Svante,"GVP, Quality",M - OptEx,$0.00,1322,11853,+13%,+$0,0.0,-1.0,-4.0,,ALV
+190,D,2017-02-22 17:00:41,2017-02-19,ALV,Lofvenholm Johan,"Pres, Electronics",M - OptEx,$0.00,1322,2922,+83%,+$0,0.0,-1.0,-4.0,,ALV
+191,D,2017-02-22 17:00:41,2017-02-22,ALV,Lofvenholm Johan,"Pres, Electronics",S - Sale+OE,$104.45,-876,2922,-23%,"-$91,498",0.0,-1.0,-4.0,,ALV
+192,D,2017-02-22 17:00:40,2017-02-19,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$0.00,4610,90347,+5%,+$0,0.0,-1.0,-4.0,,ALV
+193,D,2017-02-17 17:04:07,2017-02-15,ALV,Sjobring Lars,See Remarks,F - Tax,$107.61,-208,383,-35%,"-$22,383",0.0,-1.0,-2.0,,ALV
+194,D,2017-02-17 17:04:07,2017-02-15,ALV,Sjobring Lars,See Remarks,M - OptEx,$0.00,591,383,-284%,+$0,0.0,-1.0,-2.0,,ALV
+195,D,2017-02-17 17:02:13,2017-02-15,ALV,Fredin Steven R,See Remarks,F - Tax,$107.61,-216,5148,-4%,"-$23,244",0.0,-1.0,-2.0,,ALV
+196,D,2017-02-17 17:02:13,2017-02-15,ALV,Fredin Steven R,See Remarks,M - OptEx,$0.00,591,5148,+13%,+$0,0.0,-1.0,-2.0,,ALV
+197,D,2017-02-17 17:01:59,2017-02-15,ALV,Patrick Erin,VP Compliance,M - OptEx,$0.00,126,0,-100%,+$0,0.0,-1.0,-2.0,,ALV
+198,D,2017-02-17 17:01:59,2017-02-16,ALV,Patrick Erin,VP Compliance,S - Sale+OE,$107.49,-126,0,-100%,"-$13,544",0.0,-1.0,-2.0,,ALV
+199,D,2017-02-17 17:01:59,2017-02-15,ALV,Mogefors Svante,See Remarks,M - OptEx,$0.00,424,10531,+4%,+$0,0.0,-1.0,-2.0,,ALV
+200,D,2017-02-17 17:01:48,2017-02-15,ALV,Eliasson Karin,"Group VP, HR",M - OptEx,$0.00,424,574,+283%,+$0,0.0,-1.0,-2.0,,ALV
+201,D,2017-02-17 17:00:45,2017-02-15,ALV,Jonsson Thomas,See Remarks,M - OptEx,$0.00,424,2229,+23%,+$0,0.0,-1.0,-2.0,,ALV
+202,D,2017-02-17 17:00:44,2017-02-15,ALV,Wendels Amelie,Treasurer,M - OptEx,$0.00,68,10,-117%,+$0,0.0,-1.0,-2.0,,ALV
+203,D,2017-02-17 17:00:44,2017-02-16,ALV,Wendels Amelie,Treasurer,S - Sale+OE,$107.49,-68,10,-87%,"-$7,309",0.0,-1.0,-2.0,,ALV
+204,D,2017-02-17 17:00:40,2017-02-15,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$0.00,1578,85737,+2%,+$0,0.0,-1.0,-2.0,,ALV
+205,D,2017-02-17 17:00:21,2017-02-15,ALV,Lofvenholm Johan,"Pres, Electronics",M - OptEx,$0.00,424,2476,+21%,+$0,0.0,-1.0,-2.0,,ALV
+206,D,2017-02-17 17:00:21,2017-02-17,ALV,Lofvenholm Johan,"Pres, Electronics",S - Sale+OE,$105.13,-281,2476,-10%,"-$29,542",0.0,-1.0,-2.0,,ALV
+207,,2016-03-10 17:32:33,2016-03-09,ALV,Alspaugh Robert W,Dir,S - Sale,$112.21,-647,3800,-15%,"-$72,600",2.0,4.0,0.0,-2.0,ALV
+208,,2016-03-09 07:30:01,2016-03-07,ALV,Heiner Amelie,Treasurer,S - Sale,$111.93,-111,10,-92%,"-$12,424",2.0,5.0,0.0,-2.0,ALV
+209,,2016-02-29 16:42:48,2016-02-26,ALV,Patrick Erin,VP Compliance,S - Sale,$106.56,-149,0,-100%,"-$15,877",2.0,6.0,9.0,1.0,ALV
+210,,2016-02-26 17:15:33,2016-02-24,ALV,Lofvenholm Johan,See Remarks,S - Sale,$104.65,-905,2333,-28%,"-$94,708",-1.0,4.0,6.0,0.0,ALV
+211,,2016-02-26 17:11:30,2016-02-25,ALV,Arrland Henrik,"Group VP, Purchasing",S - Sale,$106.84,-1350,455,-75%,"-$144,234",-1.0,4.0,6.0,0.0,ALV
+212,D,2016-02-23 17:33:07,2016-02-19,ALV,Jonsson Thomas,See Remarks,M - OptEx,$0.00,1805,1805,New,+$0,-1.0,-2.0,5.0,-2.0,ALV
+213,D,2016-02-23 17:32:16,2016-02-19,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$0.00,6298,84159,+8%,+$0,-1.0,-2.0,5.0,-2.0,ALV
+214,D,2016-02-23 17:30:29,2016-02-19,ALV,Rode Steven,"Interim Pres, Electronics",F - Tax,$108.72,-343,3710,-8%,"-$37,291",-1.0,-2.0,5.0,-2.0,ALV
+215,D,2016-02-23 17:30:29,2016-02-19,ALV,Rode Steven,"Interim Pres, Electronics",M - OptEx,$0.00,927,3710,+33%,+$0,-1.0,-2.0,5.0,-2.0,ALV
+216,D,2016-02-23 17:28:12,2016-02-19,ALV,Wallin Mats,"Group VP, Finance",M - OptEx,$0.00,2435,8943,+37%,+$0,-1.0,-2.0,5.0,-2.0,ALV
+217,D,2016-02-23 17:27:39,2016-02-19,ALV,Arrland Henrik,"Group VP, Purchasing",M - OptEx,$0.00,1805,1805,New,+$0,-1.0,-2.0,5.0,-2.0,ALV
+218,D,2016-02-23 17:26:46,2016-02-19,ALV,Lofvenholm Johan,See Remarks,M - OptEx,$0.00,1805,3238,+126%,+$0,-1.0,-2.0,5.0,-2.0,ALV
+219,D,2016-02-23 17:26:44,2016-02-19,ALV,Mogefors Svante,"Group VP, Quality",M - OptEx,$0.00,1805,10107,+22%,+$0,-1.0,-2.0,5.0,-2.0,ALV
+220,D,2016-02-23 17:26:21,2016-02-19,ALV,Bentley James D,"Acting VP, Corporate Control",M - OptEx,$0.00,395,0,-100%,+$0,-1.0,-2.0,5.0,-2.0,ALV
+221,D,2016-02-23 17:26:21,2016-02-22,ALV,Bentley James D,"Acting VP, Corporate Control",S - Sale+OE,$110.12,-395,0,-100%,"-$43,497",-1.0,-2.0,5.0,-2.0,ALV
+222,D,2016-02-23 17:25:57,2016-02-19,ALV,Fredin Steven R,See Remarks,F - Tax,$108.72,-680,4773,-12%,"-$73,930",-1.0,-2.0,5.0,-2.0,ALV
+223,D,2016-02-23 17:25:57,2016-02-19,ALV,Fredin Steven R,See Remarks,M - OptEx,$0.00,2091,4773,+78%,+$0,-1.0,-2.0,5.0,-2.0,ALV
+224,D,2016-02-23 17:25:43,2016-02-19,ALV,Patrick Erin,VP Compliance,F - Tax,$108.72,-88,149,-37%,"-$9,567",-1.0,-2.0,5.0,-2.0,ALV
+225,D,2016-02-23 17:25:43,2016-02-19,ALV,Patrick Erin,VP Compliance,M - OptEx,$0.00,237,149,-269%,+$0,-1.0,-2.0,5.0,-2.0,ALV
+226,D,2016-02-23 17:23:46,2016-02-19,ALV,Heiner Amelie,Treasurer,M - OptEx,$0.00,111,121,>999%,+$0,-1.0,-2.0,5.0,-2.0,ALV
+227,,2016-02-16 10:00:25,2016-02-15,ALV,Lorch George A,Dir,A - Grant,$0.00,700,3066,+30%,+$0,1.0,7.0,10.0,3.0,ALV
+228,,2016-02-16 10:00:20,2016-02-15,ALV,Alspaugh Robert W,Dir,A - Grant,$0.00,700,4447,+19%,+$0,1.0,7.0,10.0,3.0,ALV
+229,,2016-02-16 10:00:09,2016-02-15,ALV,Liu Xiaozhi,Dir,A - Grant,$0.00,700,2569,+37%,+$0,1.0,7.0,10.0,3.0,ALV
+230,,2016-02-16 10:00:09,2016-02-15,ALV,Liu Xiaozhi,Dir,F - Tax,$104.73,-84,2569,-3%,"-$8,797",1.0,7.0,10.0,3.0,ALV
+231,,2016-02-16 09:57:21,2016-02-15,ALV,Kortuem Franz-Josef,Dir,A - Grant,$0.00,700,1030,+212%,+$0,1.0,7.0,10.0,3.0,ALV
+232,,2016-02-16 09:57:21,2016-02-15,ALV,Kortuem Franz-Josef,Dir,F - Tax,$104.73,-126,1030,-11%,"-$13,196",1.0,7.0,10.0,3.0,ALV
+233,,2016-02-16 09:57:08,2016-02-15,ALV,Sakamoto Kazuhiko,Dir,A - Grant,$0.00,700,2527,+38%,+$0,1.0,7.0,10.0,3.0,ALV
+234,,2016-02-16 09:57:08,2016-02-15,ALV,Sakamoto Kazuhiko,Dir,F - Tax,$104.73,-126,2527,-5%,"-$13,196",1.0,7.0,10.0,3.0,ALV
+235,,2016-02-16 09:56:14,2016-02-15,ALV,Ringler James M,Dir,A - Grant,$0.00,700,3727,+23%,+$0,1.0,7.0,10.0,3.0,ALV
+236,,2016-02-16 09:53:32,2016-02-15,ALV,Kepler David E,Dir,A - Grant,$0.00,584,584,New,+$0,1.0,7.0,10.0,3.0,ALV
+237,,2016-02-16 09:51:00,2016-02-15,ALV,Evans Aicha,Dir,A - Grant,$0.00,584,584,New,+$0,1.0,7.0,10.0,3.0,ALV
+238,D,2015-10-29 10:24:52,2015-10-28,ALV,Ackeby Kristian,Corporate Controller,M - OptEx,$94.87,676,0,-100%,"+$64,132",-1.0,1.0,2.0,1.0,ALV
+239,D,2015-10-29 10:24:52,2015-10-28,ALV,Ackeby Kristian,Corporate Controller,S - Sale+OE,$121.28,-801,0,-100%,"-$97,141",-1.0,1.0,2.0,1.0,ALV
+240,D,2015-10-29 10:19:34,2015-10-28,ALV,Lofvenholm Johan,See Remarks,M - OptEx,$72.95,1434,1433,-32768%,"+$104,610",-1.0,1.0,2.0,1.0,ALV
+241,D,2015-10-29 10:19:34,2015-10-28,ALV,Lofvenholm Johan,See Remarks,S - Sale+OE,$121.30,-1434,1433,-50%,"-$173,944",-1.0,1.0,2.0,1.0,ALV
+242,D,2015-04-27 16:39:23,2015-04-27,ALV,Wallin Mats,CFO,M - OptEx,$83.72,10882,6508,-249%,"+$911,070",0.0,-2.0,7.0,-3.0,ALV
+243,D,2015-04-27 16:39:23,2015-04-27,ALV,Wallin Mats,CFO,S - Sale+OE,$121.25,-10882,6508,-63%,"-$1,319,406",0.0,-2.0,7.0,-3.0,ALV
+244,D,2015-03-10 06:44:33,2015-03-06,ALV,Heiner Amelie,Treasurer,M - OptEx,$94.87,676,10,-102%,"+$64,132",-1.0,1.0,5.0,-11.0,ALV
+245,D,2015-03-10 06:44:33,2015-03-06,ALV,Heiner Amelie,Treasurer,S - Sale+OE,$112.10,-676,10,-99%,"-$75,780",-1.0,1.0,5.0,-11.0,ALV
+246,D,2015-02-25 16:05:16,2015-02-24,ALV,Jonsson Thomas,See Remarks,M - OptEx,$94.87,3965,0,-100%,"+$376,160",-1.0,0.0,0.0,-14.0,ALV
+247,D,2015-02-25 16:05:16,2015-02-24,ALV,Jonsson Thomas,See Remarks,S - Sale+OE,$113.00,-3965,0,-100%,"-$448,045",-1.0,0.0,0.0,-14.0,ALV
+248,D,2015-02-24 19:43:44,2015-02-22,ALV,Ackeby Kristian,Corporate Controller,M - OptEx,$0.00,252,125,-198%,+$0,1.0,2.0,2.0,-12.0,ALV
+249,D,2015-02-24 19:43:44,2015-02-24,ALV,Ackeby Kristian,Corporate Controller,S - Sale+OE,$112.43,-127,125,-50%,"-$14,279",1.0,2.0,2.0,-12.0,ALV
+250,D,2015-02-24 19:41:57,2015-02-22,ALV,Lofvenholm Johan,See Remarks,M - OptEx,$0.00,1433,1433,New,+$0,1.0,2.0,2.0,-12.0,ALV
+251,DM,2015-02-24 19:39:24,2015-02-22,ALV,Arrland Henrik,Group VP Purchasing,M - OptEx,$69.69,5398,0,-100%,"+$376,160",1.0,2.0,2.0,-12.0,ALV
+252,DM,2015-02-24 19:39:24,2015-02-23,ALV,Arrland Henrik,Group VP Purchasing,S - Sale+OE,$113.12,-5398,0,-100%,"-$610,597",1.0,2.0,2.0,-12.0,ALV
+253,D,2015-02-24 19:37:45,2015-02-22,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$0.00,5000,77861,+7%,+$0,1.0,2.0,2.0,-12.0,ALV
+254,D,2015-02-24 19:37:45,2015-02-24,ALV,Carlson Jan,"Pres, CEO",S - Sale+OE,$112.66,-5000,77861,-6%,"-$563,300",1.0,2.0,2.0,-12.0,ALV
+255,D,2015-02-24 19:37:27,2015-02-22,ALV,Patrick Erin,VP Compliance,M - OptEx,$0.00,188,0,-100%,+$0,1.0,2.0,2.0,-12.0,ALV
+256,D,2015-02-24 19:37:27,2015-02-23,ALV,Patrick Erin,VP Compliance,S - Sale+OE,$112.90,-188,0,-100%,"-$21,225",1.0,2.0,2.0,-12.0,ALV
+257,D,2015-02-24 19:35:42,2015-02-22,ALV,Wallin Mats,"Group VP Finance, CFO",M - OptEx,$0.00,1933,6508,+42%,+$0,1.0,2.0,2.0,-12.0,ALV
+258,D,2015-02-24 19:35:42,2015-02-24,ALV,Wallin Mats,"Group VP Finance, CFO",S - Sale+OE,$112.43,-933,6508,-13%,"-$104,897",1.0,2.0,2.0,-12.0,ALV
+259,DM,2015-02-24 19:35:09,2015-02-22,ALV,Mogefors Svante,Group VP Quality,M - OptEx,$50.25,5733,8302,+223%,"+$288,100",1.0,2.0,2.0,-12.0,ALV
+260,D,2015-02-24 19:35:09,2015-02-24,ALV,Mogefors Svante,Group VP Quality,S - Sale+OE,$112.85,-4300,8302,-34%,"-$485,255",1.0,2.0,2.0,-12.0,ALV
+261,D,2015-02-24 19:32:48,2015-02-22,ALV,Chang Ket Leong,Pres Passive Safety,M - OptEx,$0.00,1533,2695,+132%,+$0,1.0,2.0,2.0,-12.0,ALV
+262,D,2015-02-24 19:29:35,2015-02-22,ALV,Rode Steven,Interim Pres Electronics,M - OptEx,$0.00,633,3126,+25%,+$0,1.0,2.0,2.0,-12.0,ALV
+263,D,2015-02-24 19:29:35,2015-02-24,ALV,Rode Steven,Interim Pres Electronics,S - Sale+OE,$112.54,-222,3126,-7%,"-$24,984",1.0,2.0,2.0,-12.0,ALV
+264,D,2015-02-24 19:25:53,2015-02-23,ALV,Fredin Steven R,See Remarks,F - Tax,$112.90,-504,3362,-13%,"-$56,902",1.0,2.0,2.0,-12.0,ALV
+265,DM,2015-02-24 19:25:53,2015-02-22,ALV,Fredin Steven R,See Remarks,M - OptEx,$53.12,5639,3362,-248%,"+$299,533",1.0,2.0,2.0,-12.0,ALV
+266,D,2015-02-24 19:25:53,2015-02-24,ALV,Fredin Steven R,See Remarks,S - Sale+OE,$112.80,-4106,3362,-55%,"-$463,157",1.0,2.0,2.0,-12.0,ALV
+267,,2015-02-23 16:05:17,2015-02-20,ALV,Alspaugh Robert W,Dir,S - Sale,$112.90,-597,3747,-14%,"-$67,401",-1.0,-1.0,2.0,-11.0,ALV
+268,D,2015-02-20 16:08:07,2015-02-19,ALV,Rode Steven,Interim Pres Electronics,M - OptEx,$94.87,1976,2715,+267%,"+$187,463",0.0,-1.0,2.0,-8.0,ALV
+269,D,2015-02-20 16:08:07,2015-02-19,ALV,Rode Steven,Interim Pres Electronics,S - Sale+OE,$110.76,-1976,2715,-42%,"-$218,862",0.0,-1.0,2.0,-8.0,ALV
+270,,2015-02-18 17:14:45,2015-02-16,ALV,Kortuem Franz-Josef,Dir,A - Grant,$0.00,485,456,-1672%,+$0,0.0,0.0,2.0,-6.0,ALV
+271,,2015-02-18 17:14:45,2015-02-16,ALV,Kortuem Franz-Josef,Dir,F - Tax,$113.36,-29,456,-6%,"-$3,287",0.0,0.0,2.0,-6.0,ALV
+272,,2015-02-18 17:06:55,2015-02-16,ALV,Ringler James M,Dir,A - Grant,$0.00,647,3027,+27%,+$0,0.0,0.0,2.0,-6.0,ALV
+273,,2015-02-18 17:03:36,2015-02-16,ALV,Alspaugh Robert W,Dir,A - Grant,$0.00,647,4344,+18%,+$0,0.0,0.0,2.0,-6.0,ALV
+274,,2015-02-18 16:45:38,2015-02-16,ALV,Lorch George A,Dir,A - Grant,$0.00,647,2366,+38%,+$0,0.0,0.0,2.0,-6.0,ALV
+275,,2015-02-18 16:43:26,2015-02-16,ALV,Liu Xiaozhi,Dir,A - Grant,$0.00,647,1953,+50%,+$0,0.0,0.0,2.0,-6.0,ALV
+276,,2015-02-18 16:43:26,2015-02-16,ALV,Liu Xiaozhi,Dir,F - Tax,$113.36,-39,1953,-2%,"-$4,421",0.0,0.0,2.0,-6.0,ALV
+277,,2015-02-18 16:43:01,2015-02-16,ALV,Sakamoto Kazuhiko,Dir,A - Grant,$0.00,647,1953,+50%,+$0,0.0,0.0,2.0,-6.0,ALV
+278,,2015-02-18 16:43:01,2015-02-16,ALV,Sakamoto Kazuhiko,Dir,F - Tax,$113.36,-39,1953,-2%,"-$4,421",0.0,0.0,2.0,-6.0,ALV
+279,D,2015-02-04 08:50:28,2015-02-03,ALV,Chang Ket Leong,"Pres, Passive Safety",M - OptEx,$69.18,6274,1162,-123%,"+$434,035",0.0,2.0,3.0,-6.0,ALV
+280,D,2015-02-04 08:50:28,2015-02-03,ALV,Chang Ket Leong,"Pres, Passive Safety",S - Sale+OE,$110.52,-6274,1162,-84%,"-$693,423",0.0,2.0,3.0,-6.0,ALV
+281,D,2014-11-17 21:05:50,2014-11-13,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$58.98,112175,77861,-327%,"+$6,616,132",1.0,3.0,4.0,32.0,ALV
+282,DM,2014-11-17 21:05:50,2014-11-13,ALV,Carlson Jan,"Pres, CEO",S - Sale+OE,$97.00,-90175,77861,-54%,"-$8,747,107",1.0,3.0,4.0,32.0,ALV
+283,,2014-07-24 08:09:17,2014-07-23,ALV,Chang Ket Leong,Pres Autoliv Asia,S - Sale,$102.56,-2000,1162,-63%,"-$205,112",0.0,-1.0,0.0,3.0,ALV
+284,D,2014-07-24 08:07:07,2014-07-23,ALV,Nellis Anthony J,See Remarks,M - OptEx,$69.18,1209,75,-107%,"+$83,639",0.0,-1.0,0.0,3.0,ALV
+285,D,2014-07-24 08:07:07,2014-07-23,ALV,Nellis Anthony J,See Remarks,S - Sale+OE,$102.48,-1209,75,-94%,"-$123,898",0.0,-1.0,0.0,3.0,ALV
+286,D,2014-07-24 08:03:44,2014-07-23,ALV,Lofvenholm Johan,CTO,M - OptEx,$69.18,5416,0,-100%,"+$374,679",0.0,-1.0,0.0,3.0,ALV
+287,D,2014-07-24 08:03:44,2014-07-23,ALV,Lofvenholm Johan,CTO,S - Sale+OE,$102.48,-5416,0,-100%,"-$555,032",0.0,-1.0,0.0,3.0,ALV
+288,D,2014-06-02 11:28:50,2014-05-29,ALV,Patrick Erin,VP Compliance,M - OptEx,$72.95,536,0,-100%,"+$39,101",1.0,2.0,1.0,-6.0,ALV
+289,D,2014-06-02 11:28:50,2014-05-29,ALV,Patrick Erin,VP Compliance,S - Sale+OE,$106.00,-536,0,-100%,"-$56,816",1.0,2.0,1.0,-6.0,ALV
+290,D,2014-05-13 07:09:33,2014-05-12,ALV,Heiner Amelie,Treasurer,M - OptEx,$69.18,334,10,-103%,"+$23,106",1.0,-1.0,4.0,-9.0,ALV
+291,D,2014-05-13 07:09:33,2014-05-12,ALV,Heiner Amelie,Treasurer,S - Sale+OE,$102.31,-334,10,-97%,"-$34,172",1.0,-1.0,4.0,-9.0,ALV
+292,D,2014-05-08 16:59:15,2014-05-07,ALV,Adamson Mats,VP HR,M - OptEx,$69.18,5416,0,-100%,"+$374,679",-1.0,2.0,6.0,-9.0,ALV
+293,D,2014-05-08 16:59:15,2014-05-07,ALV,Adamson Mats,VP HR,S - Sale+OE,$102.89,-6568,0,-100%,"-$675,782",-1.0,2.0,6.0,-9.0,ALV
+294,D,2014-05-07 16:18:05,2014-05-06,ALV,Fredin Steven R,Pres Autoliv Americas,M - OptEx,$68.26,10874,2333,-127%,"+$742,235",0.0,2.0,5.0,-9.0,ALV
+295,D,2014-05-07 16:18:05,2014-05-06,ALV,Fredin Steven R,Pres Autoliv Americas,S - Sale+OE,$102.65,-10874,2333,-82%,"-$1,116,167",0.0,2.0,5.0,-9.0,ALV
+296,D,2014-04-30 14:24:52,2014-04-30,ALV,Wallin Mats,CFO,M - OptEx,$65.78,15756,5508,-154%,"+$1,036,460",1.0,2.0,5.0,-11.0,ALV
+297,D,2014-04-30 14:24:52,2014-04-30,ALV,Wallin Mats,CFO,S - Sale+OE,$101.18,-15756,5508,-74%,"-$1,594,249",1.0,2.0,5.0,-11.0,ALV
+298,D,2014-02-26 12:50:28,2014-02-25,ALV,Jonsson Thomas,See Remarks,M - OptEx,$69.18,5416,0,-100%,"+$374,679",-1.0,1.0,2.0,9.0,ALV
+299,D,2014-02-26 12:50:28,2014-02-25,ALV,Jonsson Thomas,See Remarks,S - Sale+OE,$96.04,-5416,0,-100%,"-$520,153",-1.0,1.0,2.0,9.0,ALV
+300,DM,2014-02-25 20:42:02,2014-02-22,ALV,Chang Ket Leong,Pres Autoliv Asia,M - OptEx,$60.48,5096,3162,-263%,"+$308,200",-1.0,-1.0,2.0,8.0,ALV
+301,D,2014-02-25 20:42:02,2014-02-24,ALV,Chang Ket Leong,Pres Autoliv Asia,S - Sale+OE,$95.48,-4600,3162,-59%,"-$439,208",-1.0,-1.0,2.0,8.0,ALV
+302,D,2014-02-25 20:39:13,2014-02-22,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$0.00,4760,55861,+9%,+$0,-1.0,-1.0,2.0,8.0,ALV
+303,D,2014-02-25 20:36:06,2014-02-24,ALV,Nellis Anthony J,See Remarks,F - Tax,$95.62,-44,75,-37%,"-$4,207",-1.0,-1.0,2.0,8.0,ALV
+304,D,2014-02-25 20:36:06,2014-02-22,ALV,Nellis Anthony J,See Remarks,M - OptEx,$0.00,119,75,-270%,+$0,-1.0,-1.0,2.0,8.0,ALV
+305,D,2014-02-25 20:35:36,2014-02-24,ALV,Arrland Henrik,VP Purchasing,M - OptEx,$69.18,5416,0,-100%,"+$374,679",-1.0,-1.0,2.0,8.0,ALV
+306,D,2014-02-25 20:35:36,2014-02-24,ALV,Arrland Henrik,VP Purchasing,S - Sale+OE,$95.49,-5416,0,-100%,"-$517,174",-1.0,-1.0,2.0,8.0,ALV
+307,D,2014-02-25 20:32:38,2014-02-22,ALV,Adamson Mats,VP HR,M - OptEx,$0.00,1369,1152,-631%,+$0,-1.0,-1.0,2.0,8.0,ALV
+308,D,2014-02-25 20:32:38,2014-02-25,ALV,Adamson Mats,VP HR,S - Sale+OE,$95.58,-820,1152,-42%,"-$78,376",-1.0,-1.0,2.0,8.0,ALV
+309,DM,2014-02-25 20:28:17,2014-02-22,ALV,Rode Steven,Pres Autoliv Electronics,M - OptEx,$56.99,3376,2715,-511%,"+$192,390",-1.0,-1.0,2.0,8.0,ALV
+310,DM,2014-02-25 20:28:17,2014-02-24,ALV,Rode Steven,Pres Autoliv Electronics,S - Sale+OE,$95.35,-2990,2715,-52%,"-$285,089",-1.0,-1.0,2.0,8.0,ALV
+311,D,2014-02-25 20:28:15,2014-02-24,ALV,Ackeby Kristian,Corporate Controller,M - OptEx,$69.18,951,0,-100%,"+$65,790",-1.0,-1.0,2.0,8.0,ALV
+312,D,2014-02-25 20:28:15,2014-02-24,ALV,Ackeby Kristian,Corporate Controller,S - Sale+OE,$95.22,-951,0,-100%,"-$90,554",-1.0,-1.0,2.0,8.0,ALV
+313,D,2014-02-25 20:23:51,2014-02-22,ALV,Wallin Mats,CFO,M - OptEx,$0.00,1845,5508,+50%,+$0,-1.0,-1.0,2.0,8.0,ALV
+314,D,2014-02-25 20:23:51,2014-02-25,ALV,Wallin Mats,CFO,S - Sale+OE,$95.58,-845,5508,-13%,"-$80,765",-1.0,-1.0,2.0,8.0,ALV
+315,DM,2014-02-25 20:22:55,2014-02-22,ALV,Olsson Jan,VP Research,M - OptEx,$62.19,20691,17722,-697%,"+$1,286,867",-1.0,-1.0,2.0,8.0,ALV
+316,DM,2014-02-25 20:22:55,2014-02-24,ALV,Olsson Jan,VP Research,S - Sale+OE,$95.19,-20102,17722,-53%,"-$1,913,426",-1.0,-1.0,2.0,8.0,ALV
+317,,2014-02-25 20:20:33,2014-02-24,ALV,Alspaugh Robert W,Dir,S - Sale,$95.71,-819,3697,-18%,"-$78,386",-1.0,-1.0,2.0,8.0,ALV
+318,D,2014-02-25 20:18:55,2014-02-22,ALV,Lofvenholm Johan,VP Engineering,M - OptEx,$0.00,478,0,-100%,+$0,-1.0,-1.0,2.0,8.0,ALV
+319,D,2014-02-25 20:18:55,2014-02-24,ALV,Lofvenholm Johan,VP Engineering,S - Sale+OE,$95.74,-478,0,-100%,"-$45,764",-1.0,-1.0,2.0,8.0,ALV
+320,D,2014-02-25 20:18:00,2014-02-22,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",M - OptEx,$0.00,1369,6869,+25%,+$0,-1.0,-1.0,2.0,8.0,ALV
+321,DM,2014-02-25 20:17:18,2014-02-22,ALV,Patrick Erin,VP Compliance,M - OptEx,$59.83,1456,0,-100%,"+$87,111",-1.0,-1.0,2.0,8.0,ALV
+322,D,2014-02-25 20:17:18,2014-02-24,ALV,Patrick Erin,VP Compliance,S - Sale+OE,$95.51,-1456,0,-100%,"-$139,065",-1.0,-1.0,2.0,8.0,ALV
+323,DM,2014-02-25 20:15:49,2014-02-22,ALV,Fredin Steven R,Pres Autoliv Americas,M - OptEx,$47.25,6869,2333,-151%,"+$324,555",-1.0,-1.0,2.0,8.0,ALV
+324,D,2014-02-25 20:15:49,2014-02-24,ALV,Fredin Steven R,Pres Autoliv Americas,S - Sale+OE,$95.38,-6869,2333,-75%,"-$655,163",-1.0,-1.0,2.0,8.0,ALV
+325,,2014-02-21 16:12:45,2014-02-19,ALV,Liu Xiaozhi,Dir,A - Grant,$0.00,597,1345,+80%,+$0,0.0,1.0,5.0,9.0,ALV
+326,,2014-02-21 16:12:45,2014-02-19,ALV,Liu Xiaozhi,Dir,F - Tax,$94.87,-71,1345,-5%,"-$6,736",0.0,1.0,5.0,9.0,ALV
+327,,2014-02-21 16:04:18,2014-02-19,ALV,Ringler James M,Dir,A - Grant,$0.00,597,2380,+33%,+$0,0.0,1.0,5.0,9.0,ALV
+328,,2014-02-21 16:02:52,2014-02-19,ALV,Lorch George A,Dir,A - Grant,$0.00,597,1719,+53%,+$0,0.0,1.0,5.0,9.0,ALV
+329,,2014-02-21 16:01:35,2014-02-19,ALV,Sakamoto Kazuhiko,Dir,A - Grant,$0.00,597,1345,+80%,+$0,0.0,1.0,5.0,9.0,ALV
+330,,2014-02-21 16:01:35,2014-02-19,ALV,Sakamoto Kazuhiko,Dir,F - Tax,$94.87,-71,1345,-5%,"-$6,736",0.0,1.0,5.0,9.0,ALV
+331,,2014-02-21 15:58:34,2014-02-19,ALV,Nyberg Lars,Dir,A - Grant,$0.00,1195,2689,+80%,+$0,0.0,1.0,5.0,9.0,ALV
+332,,2014-02-21 15:58:34,2014-02-19,ALV,Nyberg Lars,Dir,F - Tax,$94.87,-144,2689,-5%,"-$13,661",0.0,1.0,5.0,9.0,ALV
+333,,2014-02-21 15:52:51,2014-02-19,ALV,Alspaugh Robert W,Dir,A - Grant,$0.00,597,4516,+15%,+$0,0.0,1.0,5.0,9.0,ALV
+334,D,2014-02-07 11:34:05,2014-02-06,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",M - OptEx,$50.58,21400,5500,-135%,"+$1,082,395",0.0,3.0,4.0,8.0,ALV
+335,D,2014-02-07 11:34:05,2014-02-06,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",S - Sale+OE,$92.59,-21400,5500,-80%,"-$1,981,378",0.0,3.0,4.0,8.0,ALV
+336,D,2014-02-06 11:38:12,2014-02-05,ALV,Rode Steven,Pres Autoliv Electronics,M - OptEx,$72.95,1785,2329,+328%,"+$130,216",2.0,5.0,7.0,12.0,ALV
+337,D,2014-02-06 11:38:12,2014-02-05,ALV,Rode Steven,Pres Autoliv Electronics,S - Sale+OE,$91.07,-1785,2329,-43%,"-$162,560",2.0,5.0,7.0,12.0,ALV
+338,D,2014-02-06 11:37:08,2014-02-05,ALV,Ackeby Kristian,Corporate Controller,M - OptEx,$67.00,755,0,-100%,"+$50,585",2.0,5.0,7.0,12.0,ALV
+339,D,2014-02-06 11:37:08,2014-02-05,ALV,Ackeby Kristian,Corporate Controller,S - Sale+OE,$91.07,-755,0,-100%,"-$68,758",2.0,5.0,7.0,12.0,ALV
+340,D,2013-11-27 11:39:09,2013-11-26,ALV,Adamson Mats,VP HR,M - OptEx,$69.91,8406,603,-108%,"+$587,633",0.0,-3.0,-2.0,15.0,ALV
+341,D,2013-11-27 11:39:09,2013-11-26,ALV,Adamson Mats,VP HR,S - Sale+OE,$92.81,-8406,603,-93%,"-$780,149",0.0,-3.0,-2.0,15.0,ALV
+342,D,2013-11-19 17:30:50,2013-11-18,ALV,Sjobring Lars,"GC, Secretary",M - OptEx,$56.80,24306,0,-100%,"+$1,380,533",0.0,3.0,1.0,17.0,ALV
+343,D,2013-11-19 17:30:50,2013-11-18,ALV,Sjobring Lars,"GC, Secretary",S - Sale+OE,$91.03,-24306,0,-100%,"-$2,212,640",0.0,3.0,1.0,17.0,ALV
+344,D,2013-10-31 14:00:33,2013-10-29,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",M - OptEx,$21.50,18000,5500,-144%,"+$387,030",0.0,2.0,5.0,17.0,ALV
+345,D,2013-10-31 14:00:33,2013-10-29,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",S - Sale+OE,$90.09,-18000,5500,-77%,"-$1,621,620",0.0,2.0,5.0,17.0,ALV
+346,D,2013-10-31 13:57:37,2013-10-29,ALV,Lofvenholm Johan,VP Engineering,M - OptEx,$67.00,4300,0,-100%,"+$288,100",0.0,2.0,5.0,17.0,ALV
+347,D,2013-10-31 13:57:37,2013-10-29,ALV,Lofvenholm Johan,VP Engineering,S - Sale+OE,$89.79,-4300,0,-100%,"-$386,097",0.0,2.0,5.0,17.0,ALV
+348,D,2013-10-31 13:55:40,2013-10-29,ALV,Fredin Steven R,"Pres, Autoliv Americas",M - OptEx,$51.67,4500,2333,-208%,"+$232,515",0.0,2.0,5.0,17.0,ALV
+349,D,2013-10-31 13:55:40,2013-10-29,ALV,Fredin Steven R,"Pres, Autoliv Americas",S - Sale+OE,$90.53,-4500,2333,-66%,"-$407,385",0.0,2.0,5.0,17.0,ALV
+350,D,2013-10-31 13:55:28,2013-10-29,ALV,Olsson Jan,VP Research,M - OptEx,$50.64,12000,17133,+234%,"+$607,620",0.0,2.0,5.0,17.0,ALV
+351,D,2013-10-31 13:55:28,2013-10-29,ALV,Olsson Jan,VP Research,S - Sale+OE,$90.64,-12000,17133,-41%,"-$1,087,680",0.0,2.0,5.0,17.0,ALV
+352,D,2013-10-31 13:53:43,2013-10-29,ALV,Chang Ket Leong,Pres Autoliv Asia,M - OptEx,$55.24,3988,2666,-302%,"+$220,300",0.0,2.0,5.0,17.0,ALV
+353,D,2013-10-31 13:53:43,2013-10-29,ALV,Chang Ket Leong,Pres Autoliv Asia,S - Sale+OE,$90.46,-3988,2666,-60%,"-$360,735",0.0,2.0,5.0,17.0,ALV
+354,D,2013-10-31 13:50:24,2013-10-29,ALV,Arrland Henrik,VP Purchasing,M - OptEx,$67.00,4300,0,-100%,"+$288,100",0.0,2.0,5.0,17.0,ALV
+355,D,2013-10-31 13:50:24,2013-10-29,ALV,Arrland Henrik,VP Purchasing,S - Sale+OE,$89.74,-4300,0,-100%,"-$385,882",0.0,2.0,5.0,17.0,ALV
+356,D,2013-10-31 13:47:31,2013-10-30,ALV,Adamson Mats,VP HR,M - OptEx,$52.09,4000,603,-118%,"+$208,360",0.0,2.0,5.0,17.0,ALV
+357,D,2013-10-31 13:47:31,2013-10-30,ALV,Adamson Mats,VP HR,S - Sale+OE,$89.07,-4000,603,-87%,"-$356,280",0.0,2.0,5.0,17.0,ALV
+358,,2013-10-30 12:46:33,2013-10-29,ALV,Nyberg Lars,Dir,S - Sale,$90.57,-5000,1638,-75%,"-$452,850",-1.0,0.0,4.0,15.0,ALV
+359,D,2013-06-18 06:58:28,2013-06-17,ALV,Adamson Mats,VP HR,M - OptEx,$0.00,1333,603,-183%,+$0,1.0,-6.0,7.0,16.0,ALV
+360,D,2013-06-18 06:58:28,2013-06-17,ALV,Adamson Mats,VP HR,S - Sale+OE,$77.84,-730,603,-55%,"-$56,823",1.0,-6.0,7.0,16.0,ALV
+361,D,2013-05-20 13:46:20,2013-05-17,ALV,Patrick Erin,VP Compliance,M - OptEx,$44.70,900,0,-100%,"+$40,230",0.0,-2.0,-1.0,14.0,ALV
+362,D,2013-05-20 13:46:20,2013-05-17,ALV,Patrick Erin,VP Compliance,S - Sale+OE,$80.00,-900,0,-100%,"-$72,000",0.0,-2.0,-1.0,14.0,ALV
+363,D,2013-05-20 13:44:05,2013-05-17,ALV,Rode Steven,Pres Autoliv Electronics,M - OptEx,$67.00,1900,2329,+443%,"+$127,300",0.0,-2.0,-1.0,14.0,ALV
+364,D,2013-05-20 13:44:05,2013-05-17,ALV,Rode Steven,Pres Autoliv Electronics,S - Sale+OE,$80.00,-1900,2329,-45%,"-$152,000",0.0,-2.0,-1.0,14.0,ALV
+365,D,2013-05-15 08:18:30,2013-05-13,ALV,Olsson Jan,VP Research,M - OptEx,$47.46,6000,17133,+54%,"+$284,760",0.0,1.0,0.0,15.0,ALV
+366,D,2013-05-15 08:18:30,2013-05-13,ALV,Olsson Jan,VP Research,S - Sale+OE,$79.00,-6000,17133,-26%,"-$474,000",0.0,1.0,0.0,15.0,ALV
+367,D,2013-05-02 10:31:11,2013-05-01,ALV,Wallin Mats,CFO,M - OptEx,$37.52,14175,4508,-147%,"+$531,870",0.0,3.0,4.0,20.0,ALV
+368,D,2013-05-02 10:31:11,2013-05-01,ALV,Wallin Mats,CFO,S - Sale+OE,$75.97,-14175,4508,-76%,"-$1,076,862",0.0,3.0,4.0,20.0,ALV
+369,D,2013-05-02 10:28:25,2013-05-01,ALV,Olsson Jan,VP Research,M - OptEx,$44.70,6900,17133,+67%,"+$308,430",0.0,3.0,4.0,20.0,ALV
+370,D,2013-05-02 10:28:25,2013-05-01,ALV,Olsson Jan,VP Research,S - Sale+OE,$75.54,-6900,17133,-29%,"-$521,226",0.0,3.0,4.0,20.0,ALV
+371,,2013-02-20 13:29:36,2013-02-19,ALV,Ringler James M,Dir,A - Grant,$0.00,819,1783,+85%,+$0,-1.0,-7.0,0.0,20.0,ALV
+372,D,2013-02-20 13:28:07,2013-02-18,ALV,Odman Mats,VP Investor Relations,M - OptEx,$67.42,2300,17636,+15%,"+$155,066",-1.0,-7.0,0.0,20.0,ALV
+373,,2013-02-20 13:26:48,2013-02-19,ALV,Nyberg Lars,Dir,A - Grant,$0.00,1638,6638,+33%,+$0,-1.0,-7.0,0.0,20.0,ALV
+374,D,2013-02-20 13:26:18,2013-02-18,ALV,Fredin Steven R,"Pres, Autoliv Americas",M - OptEx,$67.42,2300,2333,>999%,"+$155,066",-1.0,-7.0,0.0,20.0,ALV
+375,D,2013-02-20 13:26:18,2013-02-19,ALV,Fredin Steven R,"Pres, Autoliv Americas",S - Sale+OE,$68.54,-2300,2333,-50%,"-$157,642",-1.0,-7.0,0.0,20.0,ALV
+376,,2013-02-20 13:24:46,2013-02-19,ALV,Alspaugh Robert W,Dir,A - Grant,$0.00,819,3919,+26%,+$0,-1.0,-7.0,0.0,20.0,ALV
+377,D,2013-02-20 13:23:43,2013-02-18,ALV,Lofvenholm Johan,VP Engineering,M - OptEx,$67.42,750,0,-100%,"+$50,565",-1.0,-7.0,0.0,20.0,ALV
+378,D,2013-02-20 13:23:43,2013-02-19,ALV,Lofvenholm Johan,VP Engineering,S - Sale+OE,$68.54,-750,0,-100%,"-$51,405",-1.0,-7.0,0.0,20.0,ALV
+379,,2013-02-20 13:22:38,2013-02-19,ALV,Andersson Bo I,Dir,A - Grant,$0.00,751,751,New,+$0,-1.0,-7.0,0.0,20.0,ALV
+380,D,2013-02-20 13:21:43,2013-02-18,ALV,Sjobring Lars,"GC, Secretary",M - OptEx,$67.42,2300,0,-100%,"+$155,066",-1.0,-7.0,0.0,20.0,ALV
+381,D,2013-02-20 13:21:43,2013-02-19,ALV,Sjobring Lars,"GC, Secretary",S - Sale+OE,$68.54,-2300,0,-100%,"-$157,642",-1.0,-7.0,0.0,20.0,ALV
+382,,2013-02-20 13:20:43,2013-02-19,ALV,Sakamoto Kazuhiko,Dir,A - Grant,$0.00,819,819,New,+$0,-1.0,-7.0,0.0,20.0,ALV
+383,,2013-02-20 13:19:10,2013-02-19,ALV,Lorch George A,Dir,A - Grant,$0.00,819,1122,+270%,+$0,-1.0,-7.0,0.0,20.0,ALV
+384,D,2013-02-20 13:18:31,2013-02-18,ALV,Rode Steven,Pres Autoliv Electronics,M - OptEx,$67.42,1000,2329,+75%,"+$67,420",-1.0,-7.0,0.0,20.0,ALV
+385,D,2013-02-20 13:18:31,2013-02-20,ALV,Rode Steven,Pres Autoliv Electronics,S - Sale+OE,$69.61,-500,2329,-18%,"-$34,805",-1.0,-7.0,0.0,20.0,ALV
+386,,2013-02-20 13:17:51,2013-02-19,ALV,Liu Xiaozhi,Dir,A - Grant,$0.00,819,819,New,+$0,-1.0,-7.0,0.0,20.0,ALV
+387,,2013-02-20 13:15:41,2013-02-19,ALV,Ziebart Wolfgang,Dir,A - Grant,$0.00,819,819,New,+$0,-1.0,-7.0,0.0,20.0,ALV
+388,D,2013-02-20 13:15:41,2013-02-18,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",M - OptEx,$67.42,2300,5500,+72%,"+$155,066",-1.0,-7.0,0.0,20.0,ALV
+389,D,2013-02-20 13:15:41,2013-02-19,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",S - Sale+OE,$68.54,-2300,5500,-29%,"-$157,642",-1.0,-7.0,0.0,20.0,ALV
+390,D,2013-02-20 13:13:17,2013-02-18,ALV,Wallin Mats,CFO,M - OptEx,$67.42,3100,4508,+220%,"+$209,002",-1.0,-7.0,0.0,20.0,ALV
+391,D,2013-02-20 13:13:17,2013-02-20,ALV,Wallin Mats,CFO,S - Sale+OE,$69.62,-1100,4508,-20%,"-$76,582",-1.0,-7.0,0.0,20.0,ALV
+392,D,2013-02-20 13:12:29,2013-02-18,ALV,Patrick Erin,VP Compliance,M - OptEx,$67.42,300,0,-100%,"+$20,226",-1.0,-7.0,0.0,20.0,ALV
+393,D,2013-02-20 13:12:29,2013-02-19,ALV,Patrick Erin,VP Compliance,S - Sale+OE,$68.54,-300,0,-100%,"-$20,562",-1.0,-7.0,0.0,20.0,ALV
+394,D,2013-02-20 13:11:16,2013-02-18,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$67.42,8000,51101,+19%,"+$539,360",-1.0,-7.0,0.0,20.0,ALV
+395,D,2013-02-20 13:11:16,2013-02-20,ALV,Carlson Jan,"Pres, CEO",S - Sale+OE,$69.61,-4000,51101,-7%,"-$278,440",-1.0,-7.0,0.0,20.0,ALV
+396,D,2013-02-20 13:10:25,2013-02-18,ALV,Chang Ket Leong,Pres Autoliv Asia,M - OptEx,$67.42,833,2666,+45%,"+$56,161",-1.0,-7.0,0.0,20.0,ALV
+397,D,2013-02-20 13:08:59,2013-02-18,ALV,Olsson Jan,VP Research,M - OptEx,$67.42,2300,17133,+16%,"+$155,066",-1.0,-7.0,0.0,20.0,ALV
+398,D,2013-02-20 13:08:59,2013-02-20,ALV,Olsson Jan,VP Research,S - Sale+OE,$69.62,-1300,17133,-7%,"-$90,506",-1.0,-7.0,0.0,20.0,ALV
+399,D,2012-11-26 09:53:25,2012-11-21,ALV,Odman Mats,VP Investor Relations,M - OptEx,$21.36,7500,15336,+96%,"+$160,200",-1.0,1.0,11.0,33.0,ALV
+400,D,2012-11-26 09:53:25,2012-11-21,ALV,Odman Mats,VP Investor Relations,S - Sale+OE,$58.00,-7500,15336,-33%,"-$435,000",-1.0,1.0,11.0,33.0,ALV
+401,D,2012-09-18 11:13:46,2012-09-14,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$50.64,2000,0,-100%,"+$101,270",-1.0,-2.0,-5.0,6.0,ALV
+402,D,2012-09-18 11:13:46,2012-09-14,ALV,Wadell Hannes,Chief Treasurer,S - Sale+OE,$65.26,-2000,0,-100%,"-$130,520",-1.0,-2.0,-5.0,6.0,ALV
+403,D,2012-08-29 06:19:01,2012-08-28,ALV,Brenner Gunter,"Pres, Autoliv Europe",M - OptEx,$31.91,13320,0,-100%,"+$425,064",0.0,-2.0,4.0,11.0,ALV
+404,D,2012-08-29 06:19:01,2012-08-28,ALV,Brenner Gunter,"Pres, Autoliv Europe",S - Sale+OE,$60.12,-13320,0,-100%,"-$800,798",0.0,-2.0,4.0,11.0,ALV
+405,D,2012-08-28 06:07:27,2012-08-27,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$44.70,2250,0,-100%,"+$100,575",0.0,-2.0,3.0,12.0,ALV
+406,D,2012-08-28 06:07:27,2012-08-27,ALV,Wadell Hannes,Chief Treasurer,S - Sale+OE,$60.66,-2250,0,-100%,"-$136,485",0.0,-2.0,3.0,12.0,ALV
+407,,2012-08-24 11:12:04,2012-08-23,ALV,Sjobring Lars,GC,S - Sale,$60.96,-2000,0,-100%,"-$121,920",0.0,-3.0,5.0,9.0,ALV
+408,,2012-08-22 06:22:05,2012-08-21,ALV,Wadell Hannes,Chief Treasurer,S - Sale,$61.48,-1000,0,-100%,"-$61,480",0.0,-2.0,6.0,7.0,ALV
+409,,2012-08-07 12:16:16,2012-08-03,ALV,Wadell Hannes,Chief Treasurer,S - Sale,$55.81,-1971,1000,-66%,"-$110,002",2.0,5.0,3.0,15.0,ALV
+410,D,2012-07-12 09:08:28,2012-06-30,ALV,Dahlen Sven Gunnar,"Pres, Autoliv Asia",M - OptEx,$54.60,5425,10008,+118%,"+$296,205",-1.0,4.0,12.0,24.0,ALV
+411,,2012-05-21 14:25:07,2012-05-18,ALV,Sjobring Lars,GC,S - Sale,$56.00,-5000,2000,-71%,"-$280,000",2.0,4.0,1.0,6.0,ALV
+412,D,2012-05-08 14:02:29,2012-05-08,ALV,Lofvenholm Johan,VP Engineering,M - OptEx,$49.73,6600,0,-100%,"+$328,186",0.0,-2.0,-5.0,-1.0,ALV
+413,D,2012-05-08 14:02:29,2012-05-08,ALV,Lofvenholm Johan,VP Engineering,S - Sale+OE,$60.13,-6600,0,-100%,"-$396,858",0.0,-2.0,-5.0,-1.0,ALV
+414,D,2012-05-03 21:30:52,2012-05-02,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$21.24,75750,47101,-264%,"+$1,608,995",-3.0,-4.0,-11.0,-4.0,ALV
+415,D,2012-05-03 21:30:52,2012-05-02,ALV,Carlson Jan,"Pres, CEO",S - Sale+OE,$63.98,-75750,47101,-62%,"-$4,846,600",-3.0,-4.0,-11.0,-4.0,ALV
+416,,2012-02-29 12:39:47,2012-02-28,ALV,Dahlen Sven Gunnar,"Pres, Autoliv Asia",S - Sale,$67.32,-5000,4583,-52%,"-$336,600",-1.0,-5.0,-1.0,-9.0,ALV
+417,,2012-02-29 12:39:26,2012-02-28,ALV,Brenner Gunter,"Pres, Autoliv Europe",S - Sale,$67.32,-5333,0,-100%,"-$359,018",-1.0,-5.0,-1.0,-9.0,ALV
+418,,2012-02-29 12:39:05,2012-02-28,ALV,Patrick Erin,VP Compliance,S - Sale,$67.32,-390,0,-100%,"-$26,255",-1.0,-5.0,-1.0,-9.0,ALV
+419,,2012-02-29 12:37:39,2012-02-28,ALV,Odman Mats,VP Investor Relations,S - Sale,$67.32,-2500,15336,-14%,"-$168,300",-1.0,-5.0,-1.0,-9.0,ALV
+420,,2012-02-29 12:36:59,2012-02-28,ALV,Fredin Steven R,"Pres, Autoliv Americas",S - Sale,$67.32,-3391,2333,-59%,"-$228,282",-1.0,-5.0,-1.0,-9.0,ALV
+421,,2012-02-29 12:36:12,2012-02-28,ALV,Lofvenholm Johan,VP Engineering,S - Sale,$67.32,-1000,0,-100%,"-$67,320",-1.0,-5.0,-1.0,-9.0,ALV
+422,,2012-02-29 08:33:48,2012-02-28,ALV,Nyberg Lars,Dir,P - Purchase,$68.14,2000,5000,+67%,"+$136,280",-1.0,-5.0,-1.0,-9.0,ALV
+423,D,2012-02-22 21:20:58,2012-02-20,ALV,Brenner Gunter,"Pres, Autoliv Europe",M - OptEx,$67.94,5333,5333,New,"+$362,324",0.0,0.0,-1.0,-7.0,ALV
+424,D,2012-02-22 21:20:23,2012-02-20,ALV,Sjobring Lars,GC,M - OptEx,$67.94,5000,7000,+250%,"+$339,700",0.0,0.0,-1.0,-7.0,ALV
+425,D,2012-02-22 21:19:45,2012-02-20,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$67.94,20000,47101,+74%,"+$1,358,800",0.0,0.0,-1.0,-7.0,ALV
+426,D,2012-02-22 21:19:14,2012-02-20,ALV,Olsson Jan,VP Research,M - OptEx,$67.94,5000,16133,+45%,"+$339,700",0.0,0.0,-1.0,-7.0,ALV
+427,D,2012-02-22 21:19:14,2012-02-22,ALV,Olsson Jan,VP Research,S - Sale+OE,$67.49,-3000,16133,-16%,"-$202,470",0.0,0.0,-1.0,-7.0,ALV
+428,D,2012-02-22 21:18:38,2012-02-20,ALV,Patrick Erin,VP Compliance,M - OptEx,$67.94,600,390,-286%,"+$40,764",0.0,0.0,-1.0,-7.0,ALV
+429,D,2012-02-22 21:18:38,2012-02-20,ALV,Patrick Erin,VP Compliance,S - Sale+OE,$67.69,-210,390,-35%,"-$14,215",0.0,0.0,-1.0,-7.0,ALV
+430,D,2012-02-22 21:17:56,2012-02-20,ALV,Wallin Mats,CFO,M - OptEx,$67.94,1250,2508,+99%,"+$84,925",0.0,0.0,-1.0,-7.0,ALV
+431,D,2012-02-22 21:17:01,2012-02-20,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$67.94,1000,2940,+52%,"+$67,940",0.0,0.0,-1.0,-7.0,ALV
+432,D,2012-02-22 21:16:12,2012-02-20,ALV,Dahlen Sven Gunnar,"Pres, Autoliv Asia",M - OptEx,$67.94,5000,9583,+109%,"+$339,700",0.0,0.0,-1.0,-7.0,ALV
+433,D,2012-02-22 21:15:32,2012-02-20,ALV,Eriksson Veronica Ann,Sr. Dir. Management Resources,M - OptEx,$67.94,600,1192,+101%,"+$40,764",0.0,0.0,-1.0,-7.0,ALV
+434,D,2012-02-22 21:15:00,2012-02-20,ALV,Fredin Steven R,"Pres, Autoliv Americas",M - OptEx,$67.94,5000,5724,+691%,"+$339,700",0.0,0.0,-1.0,-7.0,ALV
+435,D,2012-02-22 21:15:00,2012-02-20,ALV,Fredin Steven R,"Pres, Autoliv Americas",S - Sale+OE,$67.69,-1609,5724,-22%,"-$108,913",0.0,0.0,-1.0,-7.0,ALV
+436,D,2012-02-22 21:14:21,2012-02-20,ALV,Lofvenholm Johan,VP Engineering,M - OptEx,$67.94,1000,1000,New,"+$67,940",0.0,0.0,-1.0,-7.0,ALV
+437,D,2012-02-22 21:13:40,2012-02-20,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",M - OptEx,$67.94,5000,5500,>999%,"+$339,700",0.0,0.0,-1.0,-7.0,ALV
+438,D,2012-02-22 21:12:47,2012-02-20,ALV,Odman Mats,VP Investor Relations,M - OptEx,$67.94,5000,17836,+39%,"+$339,700",0.0,0.0,-1.0,-7.0,ALV
+439,D,2012-02-07 13:44:15,2012-02-06,ALV,Olsson Jan,VP Research,M - OptEx,$40.26,6000,14133,+74%,"+$241,560",-1.0,0.0,-2.0,-12.0,ALV
+440,D,2012-02-07 13:44:15,2012-02-06,ALV,Olsson Jan,VP Research,S - Sale+OE,$65.52,-6000,14133,-30%,"-$393,120",-1.0,0.0,-2.0,-12.0,ALV
+441,DM,2012-01-03 12:59:25,2011-12-29,ALV,Odman Mats,VP Investor Relations,M - OptEx,$19.96,7500,12836,+141%,"+$149,700",3.0,5.0,21.0,4.0,ALV
+442,DM,2012-01-03 12:59:25,2011-12-29,ALV,Odman Mats,VP Investor Relations,S - Sale+OE,$53.01,-7500,12836,-37%,"-$397,538",3.0,5.0,21.0,4.0,ALV
+443,D,2011-06-16 14:14:46,2011-06-15,ALV,Odman Mats,VP Investor Relations,M - OptEx,$16.99,3545,12836,+38%,"+$60,230",1.0,5.0,-1.0,-27.0,ALV
+444,D,2011-06-16 14:14:46,2011-06-15,ALV,Odman Mats,VP Investor Relations,S - Sale+OE,$70.79,-3545,12836,-22%,"-$250,951",1.0,5.0,-1.0,-27.0,ALV
+445,D,2011-06-01 17:11:13,2011-05-31,ALV,Fredin Steven R,VP Engineering,M - OptEx,$44.70,6900,2333,-151%,"+$308,430",0.0,0.0,7.0,-29.0,ALV
+446,D,2011-06-01 17:11:13,2011-05-31,ALV,Fredin Steven R,VP Engineering,S - Sale+OE,$76.56,-6900,2333,-75%,"-$528,264",0.0,0.0,7.0,-29.0,ALV
+447,,2011-05-19 17:14:58,2011-05-17,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",S - Sale,$74.96,-2333,0,-100%,"-$174,882",0.0,-2.0,-5.0,-27.0,ALV
+448,D,2011-05-17 17:17:09,2011-05-16,ALV,Odman Mats,VP Investor Relations,M - OptEx,$16.99,3545,12836,+38%,"+$60,230",1.0,-1.0,-6.0,-24.0,ALV
+449,D,2011-05-17 17:17:09,2011-05-16,ALV,Odman Mats,VP Investor Relations,S - Sale+OE,$75.90,-3545,12836,-22%,"-$269,066",1.0,-1.0,-6.0,-24.0,ALV
+450,D,2011-04-26 20:02:51,2011-04-25,ALV,Odman Mats,VP Investor Relations,M - OptEx,$16.99,3545,12836,+38%,"+$60,230",1.0,1.0,-8.0,-29.0,ALV
+451,D,2011-04-26 20:02:51,2011-04-25,ALV,Odman Mats,VP Investor Relations,S - Sale+OE,$78.01,-3545,12836,-22%,"-$276,545",1.0,1.0,-8.0,-29.0,ALV
+452,D,2011-04-04 16:09:03,2011-03-31,ALV,Jonzon Halvar,VP Purchasing,M - OptEx,$74.23,7622,17456,+78%,"+$565,781",1.0,-5.0,6.0,-35.0,ALV
+453,D,2011-03-30 17:03:25,2011-03-28,ALV,Jonzon Halvar,VP Purchasing,M - OptEx,$18.17,710,9834,+8%,"+$12,901",1.0,3.0,8.0,-30.0,ALV
+454,D,2011-03-30 17:03:25,2011-03-28,ALV,Jonzon Halvar,VP Purchasing,S - Sale+OE,$71.88,-710,9834,-7%,"-$51,035",1.0,3.0,8.0,-30.0,ALV
+455,D,2011-03-02 16:13:34,2011-02-28,ALV,Ward Michael Jon,"Pres, Autoliv Americas",M - OptEx,$50.29,17070,750,-105%,"+$858,512",1.0,0.0,-1.0,-26.0,ALV
+456,D,2011-03-02 16:13:34,2011-02-28,ALV,Ward Michael Jon,"Pres, Autoliv Americas",S - Sale+OE,$74.70,-17070,750,-96%,"-$1,275,198",1.0,0.0,-1.0,-26.0,ALV
+457,D,2011-03-02 16:12:52,2011-02-28,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",M - OptEx,$18.20,2450,1834,-398%,"+$44,596",1.0,0.0,-1.0,-26.0,ALV
+458,D,2011-03-02 16:12:52,2011-02-28,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",S - Sale+OE,$74.90,-4450,1834,-71%,"-$333,285",1.0,0.0,-1.0,-26.0,ALV
+459,D,2011-03-02 16:12:20,2011-02-28,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$43.86,2000,1940,-3333%,"+$87,720",1.0,0.0,-1.0,-26.0,ALV
+460,D,2011-03-02 16:12:20,2011-02-28,ALV,Wadell Hannes,Chief Treasurer,S - Sale+OE,$74.95,-2000,1940,-51%,"-$149,900",1.0,0.0,-1.0,-26.0,ALV
+461,A,2011-02-28 16:04:17,2010-10-29,ALV,Eriksson Veronica Ann,"Sr. Dir. Corp. Control, Sales",M - OptEx,$32.65,3500,592,-120%,"+$114,263",-2.0,-1.0,-4.0,-31.0,ALV
+462,A,2011-02-28 16:04:17,2010-10-29,ALV,Eriksson Veronica Ann,"Sr. Dir. Corp. Control, Sales",S - Sale,$71.00,-3500,592,-86%,"-$248,500",-2.0,-1.0,-4.0,-31.0,ALV
+463,D,2011-02-23 16:12:35,2011-02-19,ALV,Eriksson Veronica Ann,"Sr. Dir. Corp. Control, Sales",M - OptEx,$72.95,200,642,+45%,"+$14,590",1.0,2.0,1.0,-30.0,ALV
+464,D,2011-02-23 16:11:57,2011-02-19,ALV,Fredin Steven R,VP Engineering,M - OptEx,$72.95,1500,2333,+180%,"+$109,425",1.0,2.0,1.0,-30.0,ALV
+465,D,2011-02-23 16:11:30,2011-02-19,ALV,Olsson Jan,"VP Research, Development",M - OptEx,$72.95,2000,14133,+16%,"+$145,900",1.0,2.0,1.0,-30.0,ALV
+466,D,2011-02-23 16:11:07,2011-02-19,ALV,Sjobring Lars,GC,M - OptEx,$72.95,2000,2000,New,"+$145,900",1.0,2.0,1.0,-30.0,ALV
+467,D,2011-02-23 16:09:30,2011-02-19,ALV,Jonzon Halvar,VP Purchasing,M - OptEx,$72.95,2000,9834,+26%,"+$145,900",1.0,2.0,1.0,-30.0,ALV
+468,D,2011-02-23 16:07:40,2011-02-19,ALV,Dahlen Sven Gunnar,"Pres, Autoliv Asia",M - OptEx,$72.95,2000,4583,+77%,"+$145,900",1.0,2.0,1.0,-30.0,ALV
+469,D,2011-02-23 16:07:01,2011-02-19,ALV,Wallin Mats,CFO,M - OptEx,$72.95,633,1258,+101%,"+$46,177",1.0,2.0,1.0,-30.0,ALV
+470,D,2011-02-23 16:06:03,2011-02-19,ALV,Odman Mats,VP Investor Relations,M - OptEx,$72.95,2000,12836,+18%,"+$145,900",1.0,2.0,1.0,-30.0,ALV
+471,D,2011-02-23 16:05:03,2011-02-19,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",M - OptEx,$72.95,2000,3834,+109%,"+$145,900",1.0,2.0,1.0,-30.0,ALV
+472,D,2011-02-23 16:04:43,2011-02-19,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$72.95,6667,27101,+33%,"+$486,358",1.0,2.0,1.0,-30.0,ALV
+473,D,2011-02-23 16:04:16,2011-02-19,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$72.95,300,1940,+18%,"+$21,885",1.0,2.0,1.0,-30.0,ALV
+474,D,2011-02-23 16:03:51,2011-02-19,ALV,Ward Michael Jon,"Pres, Autoliv Americas",M - OptEx,$72.95,2000,750,-160%,"+$145,900",1.0,2.0,1.0,-30.0,ALV
+475,D,2011-02-23 16:03:51,2011-02-22,ALV,Ward Michael Jon,"Pres, Autoliv Americas",S - Sale+OE,$72.97,-2000,750,-73%,"-$145,940",1.0,2.0,1.0,-30.0,ALV
+476,D,2011-02-09 06:21:38,2011-02-07,ALV,Ward Michael Jon,"Pres, Autoliv Americas",M - OptEx,$49.60,3750,750,-125%,"+$186,000",-1.0,-1.0,-5.0,-29.0,ALV
+477,D,2011-02-09 06:21:38,2011-02-07,ALV,Ward Michael Jon,"Pres, Autoliv Americas",S - Sale+OE,$76.30,-3750,750,-83%,"-$286,111",-1.0,-1.0,-5.0,-29.0,ALV
+478,D,2010-11-24 11:14:20,2010-11-23,ALV,Fredin Steven R,VP Engineering,M - OptEx,$46.16,2500,833,-150%,"+$115,390",2.0,4.0,11.0,2.0,ALV
+479,D,2010-11-24 11:14:20,2010-11-23,ALV,Fredin Steven R,VP Engineering,S - Sale+OE,$73.87,-2500,833,-75%,"-$184,675",2.0,4.0,11.0,2.0,ALV
+480,D,2010-11-03 14:01:35,2010-11-01,ALV,Jonzon Halvar,VP Purchasing,M - OptEx,$59.01,5500,7834,+236%,"+$324,555",1.0,5.0,8.0,9.0,ALV
+481,D,2010-11-03 14:01:35,2010-11-01,ALV,Jonzon Halvar,VP Purchasing,S - Sale+OE,$71.44,-5500,7834,-41%,"-$392,920",1.0,5.0,8.0,9.0,ALV
+482,D,2010-11-02 12:16:56,2010-10-29,ALV,Eriksson Veronica Ann,"Sr. Dir. Corp. Control, Sales",M - OptEx,$32.65,3500,442,-114%,"+$114,263",3.0,7.0,7.0,13.0,ALV
+483,D,2010-11-02 12:16:56,2010-10-29,ALV,Eriksson Veronica Ann,"Sr. Dir. Corp. Control, Sales",S - Sale+OE,$71.00,-3500,442,-89%,"-$248,500",3.0,7.0,7.0,13.0,ALV
+484,D,2010-11-02 12:14:26,2010-10-29,ALV,Ward Michael Jon,"Pres, Autoliv Americas",M - OptEx,$47.46,3750,750,-125%,"+$177,975",3.0,7.0,7.0,13.0,ALV
+485,D,2010-11-02 12:14:26,2010-10-29,ALV,Ward Michael Jon,"Pres, Autoliv Americas",S - Sale+OE,$71.25,-3750,750,-83%,"-$267,188",3.0,7.0,7.0,13.0,ALV
+486,D,2010-11-02 12:12:56,2010-10-29,ALV,Brenner Gunter,VP Reg. Europe,M - OptEx,$16.31,10000,0,-100%,"+$163,100",3.0,7.0,7.0,13.0,ALV
+487,D,2010-11-02 12:12:56,2010-10-29,ALV,Brenner Gunter,VP Reg. Europe,S - Sale+OE,$71.12,-10000,0,-100%,"-$711,200",3.0,7.0,7.0,13.0,ALV
+488,D,2010-09-08 10:53:44,2010-09-04,ALV,Sjobring Lars,GC,M - OptEx,$0.00,1000,0,-100%,+$0,0.0,6.0,15.0,32.0,ALV
+489,D,2010-09-08 10:53:44,2010-09-07,ALV,Sjobring Lars,GC,S - Sale+OE,$57.37,-1000,0,-100%,"-$57,367",0.0,6.0,15.0,32.0,ALV
+490,D,2010-08-09 11:33:54,2010-08-05,ALV,Dahlen Sven Gunnar,"Pres, Autoliv Asia",M - OptEx,$16.31,15000,2583,-121%,"+$244,650",0.0,-7.0,-3.0,27.0,ALV
+491,D,2010-08-09 11:33:54,2010-08-05,ALV,Dahlen Sven Gunnar,"Pres, Autoliv Asia",S - Sale+OE,$58.29,-15000,2583,-85%,"-$874,304",0.0,-7.0,-3.0,27.0,ALV
+492,D,2010-07-30 19:45:27,2010-07-30,ALV,Jonzon Halvar,VP Purchasing,M - OptEx,$51.67,6000,7834,+327%,"+$310,020",4.0,3.0,-3.0,42.0,ALV
+493,D,2010-07-30 19:45:27,2010-07-30,ALV,Jonzon Halvar,VP Purchasing,S - Sale+OE,$57.50,-6000,7834,-43%,"-$345,000",4.0,3.0,-3.0,42.0,ALV
+494,D,2010-07-30 14:13:06,2010-07-29,ALV,Sjobring Lars,GC,M - OptEx,$16.31,15000,0,-100%,"+$244,650",0.0,3.0,-3.0,42.0,ALV
+495,DM,2010-07-30 14:13:06,2010-07-28,ALV,Sjobring Lars,GC,S - Sale+OE,$57.84,-16000,0,-100%,"-$925,365",0.0,3.0,-3.0,42.0,ALV
+496,D,2010-07-30 14:12:38,2010-07-29,ALV,Olsson Jan,"VP Research, Development",M - OptEx,$21.36,7500,12133,+162%,"+$160,200",0.0,3.0,-3.0,42.0,ALV
+497,D,2010-07-30 14:12:38,2010-07-29,ALV,Olsson Jan,"VP Research, Development",S - Sale+OE,$57.83,-7500,12133,-38%,"-$433,725",0.0,3.0,-3.0,42.0,ALV
+498,A,2010-07-30 11:07:05,2010-02-16,ALV,Patring Hans Goran,VP HR,S - Sale,$43.72,-1834,2000,-48%,"-$80,182",0.0,3.0,-3.0,42.0,ALV
+499,A,2010-07-30 11:06:10,2010-02-16,ALV,Ward Michael Jon,"Pres, Autoliv Americas",S - Sale,$43.72,-1250,750,-63%,"-$54,650",0.0,3.0,-3.0,42.0,ALV
+500,A,2010-07-30 11:05:09,2010-02-16,ALV,Fredin Steven R,VP Engineering,S - Sale,$43.72,-1834,833,-69%,"-$80,182",0.0,3.0,-3.0,42.0,ALV
+501,D,2010-07-30 11:03:17,2010-07-28,ALV,Fredin Steven R,VP Engineering,M - OptEx,$16.31,15000,833,-106%,"+$244,650",0.0,3.0,-3.0,42.0,ALV
+502,D,2010-07-30 11:03:17,2010-07-28,ALV,Fredin Steven R,VP Engineering,S - Sale+OE,$57.61,-15000,833,-95%,"-$864,150",0.0,3.0,-3.0,42.0,ALV
+503,D,2010-07-01 11:32:02,2010-06-30,ALV,Patring Hans Goran,VP HR (resigning),M - OptEx,$0.00,7000,9000,+350%,+$0,-1.0,4.0,20.0,67.0,ALV
+504,D,2010-06-15 08:18:22,2010-06-14,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$50.30,5000,20434,+32%,"+$251,500",4.0,4.0,4.0,56.0,ALV
+505,,2010-05-28 10:10:48,2010-05-27,ALV,Nyberg Lars,Dir,P - Purchase,$48.10,3000,3000,New,"+$144,300",-3.0,-4.0,0.0,54.0,ALV
+506,D,2010-05-28 09:14:20,2010-05-27,ALV,Olsson Jan,"VP Research, Development",M - OptEx,$16.31,15000,12133,-523%,"+$244,650",-3.0,-4.0,0.0,54.0,ALV
+507,D,2010-05-28 09:14:20,2010-05-27,ALV,Olsson Jan,"VP Research, Development",S - Sale+OE,$47.74,-15000,12133,-55%,"-$716,144",-3.0,-4.0,0.0,54.0,ALV
+508,D,2010-02-25 07:51:09,2010-02-24,ALV,Ward Michael Jon,Pres Region Americas,M - OptEx,$16.31,15000,750,-105%,"+$244,650",-1.0,5.0,18.0,18.0,ALV
+509,D,2010-02-25 07:51:09,2010-02-24,ALV,Ward Michael Jon,Pres Region Americas,S - Sale+OE,$44.90,-15000,750,-95%,"-$673,478",-1.0,5.0,18.0,18.0,ALV
+510,D,2010-02-24 16:40:59,2010-02-22,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$16.31,3000,1640,-221%,"+$48,930",-1.0,3.0,19.0,21.0,ALV
+511,D,2010-02-24 16:40:59,2010-02-22,ALV,Wadell Hannes,Chief Treasurer,S - Sale+OE,$44.42,-3000,1640,-65%,"-$133,274",-1.0,3.0,19.0,21.0,ALV
+512,D,2010-02-17 15:20:57,2010-02-14,ALV,Mogefors Svante,"Vice Pres Quality, Manufact.",M - OptEx,$43.98,1500,1834,+449%,"+$65,970",2.0,1.0,11.0,27.0,ALV
+513,D,2010-02-17 15:12:45,2010-02-14,ALV,Olsson Jan,vice Pres Research,M - OptEx,$43.98,1834,12133,+18%,"+$80,659",2.0,1.0,11.0,27.0,ALV
+514,AD,2010-02-17 15:01:08,2010-02-14,ALV,Carlson Jan,CEO,M - OptEx,$43.98,6267,15434,+68%,"+$275,623",2.0,1.0,11.0,27.0,ALV
+515,D,2010-02-17 14:48:10,2010-02-14,ALV,Odman Mats,VP corp. communic.,M - OptEx,$43.98,1834,10836,+20%,"+$80,659",2.0,1.0,11.0,27.0,ALV
+516,D,2010-02-17 14:25:02,2010-02-14,ALV,Dahlen Sven Gunnar,Pres Autliv Asia,M - OptEx,$43.98,1083,2583,+72%,"+$47,630",2.0,1.0,11.0,27.0,ALV
+517,D,2010-02-17 14:09:49,2010-02-14,ALV,Fredin Steven R,VP Engineering,M - OptEx,$43.98,1834,833,-183%,"+$80,659",2.0,1.0,11.0,27.0,ALV
+518,D,2010-02-17 14:09:49,2010-02-16,ALV,Fredin Steven R,VP Engineering,P - Purchase,$43.72,1834,833,-183%,"+$80,182",2.0,1.0,11.0,27.0,ALV
+519,D,2010-02-17 13:56:20,2010-02-14,ALV,Ward Michael Jon,Pres Autliv Americas,M - OptEx,$43.98,1250,750,-250%,"+$54,975",2.0,1.0,11.0,27.0,ALV
+520,D,2010-02-17 13:56:20,2010-02-16,ALV,Ward Michael Jon,Pres Autliv Americas,P - Purchase,$43.72,1250,750,-250%,"+$54,650",2.0,1.0,11.0,27.0,ALV
+521,D,2010-02-17 13:42:25,2010-02-14,ALV,Patring Hans Goran,vice Pres HR,M - OptEx,$43.98,1834,2000,>999%,"+$80,659",2.0,1.0,11.0,27.0,ALV
+522,D,2010-02-17 13:42:25,2010-02-16,ALV,Patring Hans Goran,vice Pres HR,P - Purchase,$43.72,1834,2000,>999%,"+$80,182",2.0,1.0,11.0,27.0,ALV
+523,D,2010-02-17 13:27:56,2010-02-14,ALV,Eriksson Veronica Ann,"Sr. Dir. Corp. Control, Sales",M - OptEx,$43.98,150,592,+34%,"+$6,597",2.0,1.0,11.0,27.0,ALV
+524,D,2010-02-17 13:18:58,2010-02-14,ALV,Jonzon Halvar,vice Pres Purchasing,M - OptEx,$43.98,1834,7834,+31%,"+$80,659",2.0,1.0,11.0,27.0,ALV
+525,D,2010-02-17 13:01:02,2010-02-14,ALV,Wallin Mats,CFO,M - OptEx,$43.98,250,625,+67%,"+$10,995",2.0,1.0,11.0,27.0,ALV
+526,D,2010-02-17 12:52:27,2010-02-14,ALV,Wadell Hannes,"Sr Dir Corp.Treasury, Risk Man",M - OptEx,$43.98,300,1640,+22%,"+$13,194",2.0,1.0,11.0,27.0,ALV
+527,D,2010-02-17 10:55:59,2010-02-14,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$43.98,6,15,+68%,+$276,2.0,1.0,11.0,27.0,ALV
+528,,2009-12-03 08:30:14,2009-11-30,ALV,Mogefors Svante,"VP Qualty, Manufacturing",S - Sale,$39.81,-1000,334,-75%,"-$39,810",-2.0,-1.0,8.0,15.0,ALV
+529,,2009-05-13 07:58:08,2009-05-12,ALV,Sjobring Lars,VP GC,P - Purchase,$23.94,250,1000,+33%,"+$5,985",-8.0,5.0,25.0,52.0,ALV
+530,,2009-05-08 08:09:59,2009-05-07,ALV,Alspaugh Robert W,Dir,P - Purchase,$25.08,500,3100,+19%,"+$12,540",1.0,-3.0,21.0,40.0,ALV
+531,D,2009-04-02 09:24:29,2009-03-31,ALV,Westerberg Lars,Dir,M - OptEx,$16.99,20000,92000,+28%,"+$339,800",13.0,15.0,28.0,76.0,ALV
+532,D,2009-01-12 12:05:28,2009-01-09,ALV,Wallin Mats,Chief Controller,M - OptEx,$22.70,335,460,+268%,"+$7,605",-7.0,-14.0,-12.0,22.0,ALV
+533,D,2009-01-12 11:57:11,2009-01-09,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$22.70,335,1340,+33%,"+$7,605",-7.0,-14.0,-12.0,22.0,ALV
+534,D,2009-01-12 11:47:10,2009-01-09,ALV,Patring Hans Goran,VP HR,M - OptEx,$22.70,2000,2000,New,"+$45,400",-7.0,-14.0,-12.0,22.0,ALV
+535,D,2009-01-12 11:37:07,2009-01-09,ALV,Olsson Jan,"VP R, D",M - OptEx,$22.70,2000,10299,+24%,"+$45,400",-7.0,-14.0,-12.0,22.0,ALV
+536,D,2009-01-12 11:28:32,2009-01-09,ALV,Odman Mats,V Pres Investor Relations,M - OptEx,$22.70,2000,9002,+29%,"+$45,400",-7.0,-14.0,-12.0,22.0,ALV
+537,D,2009-01-12 11:17:49,2009-01-09,ALV,Mogefors Svante,VP Quality,M - OptEx,$22.70,1334,1334,New,"+$30,282",-7.0,-14.0,-12.0,22.0,ALV
+538,D,2009-01-12 11:06:38,2009-01-09,ALV,Jonzon Halvar,VP Purchasing,M - OptEx,$22.70,2000,6000,+50%,"+$45,400",-7.0,-14.0,-12.0,22.0,ALV
+539,D,2009-01-12 10:56:07,2009-01-09,ALV,Fredin Steven R,VP Engineering,M - OptEx,$22.70,333,833,+67%,"+$7,559",-7.0,-14.0,-12.0,22.0,ALV
+540,D,2009-01-12 10:43:35,2009-01-09,ALV,Carlson Jan,"Pres, CEO",M - OptEx,$22.70,1667,9167,+22%,"+$37,841",-7.0,-14.0,-12.0,22.0,ALV
+541,,2008-11-10 17:56:02,2008-10-30,ALV,Westerberg Lars,Dir,P - Purchase,$21.07,67000,80000,+515%,"+$1,411,690",-5.0,-7.0,10.0,21.0,ALV
+542,,2008-11-10 17:56:02,2008-10-30,ALV,Westerberg Lars,Dir,S - Sale,$20.99,-67000,80000,-46%,"-$1,406,080",-5.0,-7.0,10.0,21.0,ALV
+543,,2008-11-03 08:50:50,2008-10-30,ALV,Sjobring Lars,GC,P - Purchase,$20.80,500,750,+200%,"+$10,400",2.0,2.0,-10.0,24.0,ALV
+544,D,2008-08-05 08:31:54,2008-08-04,ALV,Westerberg Lars,Dir,M - OptEx,$19.34,37500,80000,+88%,"+$725,375",6.0,10.0,4.0,-50.0,ALV
+545,D,2008-08-05 08:31:54,2008-08-04,ALV,Westerberg Lars,Dir,S - Sale+OE,$37.81,-37500,80000,-32%,"-$1,417,875",6.0,10.0,4.0,-50.0,ALV
+546,,2008-08-04 09:40:46,2008-08-01,ALV,Sjobring Lars,GC,P - Purchase,$38.47,250,250,New,"+$9,618",-1.0,5.0,2.0,-49.0,ALV
+547,,2008-07-31 17:26:56,2008-07-31,ALV,Carlson Jan,"Pres, CEO",P - Purchase,$40.11,5000,7500,+200%,"+$200,550",-2.0,2.0,0.0,-49.0,ALV
+548,,2008-07-28 11:13:57,2008-07-24,ALV,Alspaugh Robert W,Dir,P - Purchase,$38.61,1000,2600,+63%,"+$38,610",-2.0,2.0,6.0,-51.0,ALV
+549,,2008-05-16 08:43:32,2008-05-15,ALV,Lindquist Magnus Carl,CFO,S - Sale,$59.83,-2000,0,-100%,"-$119,669",-2.0,-5.0,-10.0,-69.0,ALV
+550,,2008-05-12 10:11:33,2008-05-09,ALV,Alspaugh Robert W,Dir,P - Purchase,$58.10,600,1600,+60%,"+$34,860",1.0,1.0,-8.0,-63.0,ALV
+551,D,2008-04-28 08:14:15,2008-04-24,ALV,Westerberg Lars,Dir,M - OptEx,$23.02,56000,80000,+233%,"+$1,289,255",2.0,3.0,-5.0,-61.0,ALV
+552,D,2008-04-28 08:14:15,2008-04-24,ALV,Westerberg Lars,Dir,S - Sale+OE,$58.08,-56000,80000,-41%,"-$3,252,704",2.0,3.0,-5.0,-61.0,ALV
+553,,2008-02-15 07:37:18,2008-02-14,ALV,Carlsson Sune,Dir,P - Purchase,$52.93,5000,5303,>999%,"+$264,650",1.0,-1.0,-4.0,-21.0,ALV
+554,,2008-02-14 07:35:56,2008-02-13,ALV,Alspaugh Robert W,Dir,P - Purchase,$52.43,500,1000,+100%,"+$26,215",-1.0,-3.0,-5.0,-21.0,ALV
+555,D,2008-01-11 18:06:55,2008-01-10,ALV,Olsson Jan,"VP Research, Development",M - OptEx,$47.31,2000,8299,+32%,"+$94,620",3.0,-2.0,10.0,-9.0,ALV
+556,D,2008-01-11 17:23:41,2008-01-10,ALV,Wallin Mats,Corporate Controller,M - OptEx,$47.31,125,125,New,"+$5,914",3.0,-2.0,10.0,-9.0,ALV
+557,D,2008-01-11 17:13:47,2008-01-10,ALV,Lindquist Magnus Carl,CFO,M - OptEx,$47.31,2000,2000,New,"+$94,620",3.0,-2.0,10.0,-9.0,ALV
+558,D,2008-01-11 16:56:45,2008-01-10,ALV,Carlson Jan,"CEO, Pres",M - OptEx,$47.31,1167,2500,+88%,"+$55,211",3.0,-2.0,10.0,-9.0,ALV
+559,D,2008-01-11 16:49:38,2008-01-10,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$47.31,335,1005,+50%,"+$15,849",3.0,-2.0,10.0,-9.0,ALV
+560,D,2008-01-11 16:26:38,2008-01-10,ALV,Patring Hans Goran,VP HR,M - OptEx,$47.31,2000,0,-100%,"+$94,620",3.0,-2.0,10.0,-9.0,ALV
+561,D,2008-01-11 16:26:38,2008-01-10,ALV,Patring Hans Goran,VP HR,S - Sale+OE,$46.68,-2000,0,-100%,"-$93,352",3.0,-2.0,10.0,-9.0,ALV
+562,D,2008-01-11 16:09:58,2008-01-10,ALV,Odman Mats,VP Investor Relations,M - OptEx,$47.31,2000,7002,+40%,"+$94,620",3.0,-2.0,10.0,-9.0,ALV
+563,D,2008-01-11 16:09:58,2008-01-10,ALV,Odman Mats,VP Investor Relations,S - Sale+OE,$46.68,-1000,7002,-12%,"-$46,676",3.0,-2.0,10.0,-9.0,ALV
+564,D,2008-01-11 15:31:39,2008-01-10,ALV,Fredin Steven R,VP Engineering,M - OptEx,$47.31,250,500,+100%,"+$11,828",-1.0,-3.0,9.0,-10.0,ALV
+565,D,2008-01-11 14:50:34,2008-01-10,ALV,Marsaud Benoit,COO,M - OptEx,$47.31,2000,11546,+21%,"+$94,620",-1.0,-3.0,9.0,-10.0,ALV
+566,D,2008-01-11 14:16:53,2008-01-10,ALV,Jonzon Halvar,VP Purchasing,M - OptEx,$47.31,2000,4000,+100%,"+$94,620",-1.0,-3.0,9.0,-10.0,ALV
+567,,2007-08-02 12:27:43,2007-08-01,ALV,Alspaugh Robert W,Dir,P - Purchase,$55.50,500,500,New,"+$27,750",0.0,1.0,3.0,-9.0,ALV
+568,D,2007-06-04 10:52:43,2007-06-01,ALV,Lindquist Magnus Carl,CFO,M - OptEx,$48.53,12000,0,-100%,"+$582,360",1.0,-2.0,-2.0,0.0,ALV
+569,D,2007-06-04 10:52:43,2007-06-01,ALV,Lindquist Magnus Carl,CFO,S - Sale+OE,$59.13,-12000,0,-100%,"-$709,548",1.0,-2.0,-2.0,0.0,ALV
+570,D,2007-04-02 09:01:15,2007-04-02,ALV,Westerberg Lars,Dir,M - OptEx,$0.00,25000,80000,+45%,+$0,1.0,4.0,1.0,6.0,ALV
+571,D,2007-03-06 08:00:11,2007-03-01,ALV,Svensson Jorgen,"GC, Secretary",M - OptEx,$0.00,5834,5834,New,+$0,2.0,3.0,3.0,3.0,ALV
+572,AD,2007-01-17 09:31:58,2007-01-12,ALV,Lindquist Magnus Carl,CFO,M - OptEx,$40.26,2000,0,-100%,"+$80,520",1.0,1.0,-2.0,-2.0,ALV
+573,AD,2007-01-17 09:31:58,2007-01-16,ALV,Lindquist Magnus Carl,CFO,S - Sale+OE,$60.80,-2000,0,-100%,"-$121,598",1.0,1.0,-2.0,-2.0,ALV
+574,D,2007-01-17 09:15:40,2007-01-12,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$40.26,335,670,+100%,"+$13,487",1.0,1.0,-2.0,-2.0,ALV
+575,D,2007-01-17 09:06:25,2007-01-12,ALV,Fredin Steven R,VP Engineering,M - OptEx,$40.26,250,250,New,"+$10,065",1.0,1.0,-2.0,-2.0,ALV
+576,D,2007-01-17 08:49:46,2007-01-12,ALV,Odman Mats,VP Investor Relations,M - OptEx,$40.26,2000,6002,+50%,"+$80,520",1.0,1.0,-2.0,-2.0,ALV
+577,D,2007-01-17 08:39:30,2007-01-12,ALV,Jonzon Halvar,VP Purchasing,M - OptEx,$40.26,2000,2000,New,"+$80,520",1.0,1.0,-2.0,-2.0,ALV
+578,D,2007-01-17 08:29:16,2007-01-12,ALV,Marsaud Benoit,COO,M - OptEx,$40.26,2000,9546,+27%,"+$80,520",1.0,1.0,-2.0,-2.0,ALV
+579,D,2007-01-17 08:18:35,2007-01-12,ALV,Westerberg Lars,CEO,M - OptEx,$40.26,10000,55000,+22%,"+$402,600",1.0,1.0,-2.0,-2.0,ALV
+580,D,2007-01-17 08:07:41,2007-01-12,ALV,Carlson Jan,Pres Autoliv RegionEurope,M - OptEx,$40.26,1083,1333,+433%,"+$43,602",1.0,1.0,-2.0,-2.0,ALV
+581,D,2007-01-17 08:07:41,2007-01-16,ALV,Carlson Jan,Pres Autoliv RegionEurope,S - Sale+OE,$60.80,-1083,1333,-45%,"-$65,845",1.0,1.0,-2.0,-2.0,ALV
+582,D,2007-01-17 07:49:07,2007-01-12,ALV,Olsson Jan,"VP R, D",M - OptEx,$40.26,2000,6299,+47%,"+$80,520",1.0,1.0,-2.0,-2.0,ALV
+583,D,2007-01-17 07:49:07,2007-01-16,ALV,Olsson Jan,"VP R, D",S - Sale+OE,$60.80,-1158,6299,-16%,"-$70,405",1.0,1.0,-2.0,-2.0,ALV
+584,D,2007-01-17 07:34:34,2007-01-12,ALV,Patring Hans Goran,VP HR,M - OptEx,$40.26,2000,0,-100%,"+$80,520",1.0,1.0,-2.0,-2.0,ALV
+585,D,2007-01-17 07:34:34,2007-01-16,ALV,Patring Hans Goran,VP HR,S - Sale+OE,$60.80,-2000,0,-100%,"-$121,598",1.0,1.0,-2.0,-2.0,ALV
+586,D,2007-01-17 07:19:08,2007-01-12,ALV,Svensson Jorgen,"GC, Secretary",M - OptEx,$40.26,2000,0,-100%,"+$80,520",1.0,1.0,-2.0,-2.0,ALV
+587,D,2007-01-17 07:19:08,2007-01-16,ALV,Svensson Jorgen,"GC, Secretary",S - Sale+OE,$60.80,-2000,0,-100%,"-$121,598",1.0,1.0,-2.0,-2.0,ALV
+588,D,2007-01-17 07:05:20,2007-01-12,ALV,Lindquist Magnus Carl,CFO,M - OptEx,$40.26,2000,0,-100%,"+$80,520",1.0,1.0,-2.0,-2.0,ALV
+589,D,2007-01-17 07:05:20,2007-01-16,ALV,Lindquist Magnus Carl,CFO,S - Sale+OE,$60.80,-2000,0,-100%,"-$121,598",1.0,1.0,-2.0,-2.0,ALV
+590,,2006-12-18 07:27:08,2006-12-14,ALV,Odman Mats,VP Investor Relations,S - Sale,$58.95,-1200,4002,-23%,"-$70,737",1.0,2.0,5.0,0.0,ALV
+591,,2006-11-28 09:35:06,2006-11-27,ALV,Johnston William Elmer Jr,Dir,P - Purchase,$58.99,1000,1000,New,"+$58,990",1.0,2.0,5.0,5.0,ALV
+592,D,2006-05-12 07:40:10,2006-05-11,ALV,Marsaud Benoit,VP Manufacturing,M - OptEx,$19.96,10000,7546,-407%,"+$199,600",-2.0,-5.0,-5.0,1.0,ALV
+593,D,2006-05-12 07:40:10,2006-05-11,ALV,Marsaud Benoit,VP Manufacturing,S - Sale+OE,$57.40,-10000,7546,-57%,"-$574,000",-2.0,-5.0,-5.0,1.0,ALV
+594,D,2006-03-01 07:19:52,2006-01-28,ALV,Lindquist Magnus Carl,CFO,M - OptEx,$40.26,6000,0,-100%,"+$241,560",-1.0,-3.0,6.0,6.0,ALV
+595,D,2006-03-01 07:19:52,2006-02-28,ALV,Lindquist Magnus Carl,CFO,S - Sale+OE,$53.50,-6000,0,-100%,"-$321,000",-1.0,-3.0,6.0,6.0,ALV
+596,D,2006-01-04 10:55:45,2006-01-03,ALV,Marsaud Benoit,VP Production,M - OptEx,$21.36,2500,7546,+50%,"+$53,400",5.0,3.0,3.0,19.0,ALV
+597,D,2006-01-04 10:45:20,2006-01-03,ALV,Odman Mats,VP Investor Relations,M - OptEx,$21.36,2500,5202,+93%,"+$53,400",5.0,3.0,3.0,19.0,ALV
+598,D,2006-01-04 10:32:18,2006-01-03,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$21.36,335,335,New,"+$7,156",5.0,3.0,3.0,19.0,ALV
+599,D,2006-01-04 10:19:45,2006-01-03,ALV,Carlson Jan,VP Engineering,M - OptEx,$21.36,1333,1333,New,"+$28,473",5.0,3.0,3.0,19.0,ALV
+600,D,2006-01-04 10:05:32,2006-01-03,ALV,Westerberg Lars,CEO,M - OptEx,$21.36,12500,45000,+38%,"+$267,000",5.0,3.0,3.0,19.0,ALV
+601,D,2006-01-04 09:48:04,2006-01-03,ALV,Olsson Jan,"VP Research, Development",M - OptEx,$21.36,2500,5457,+85%,"+$53,400",5.0,3.0,3.0,19.0,ALV
+602,D,2006-01-04 09:48:04,2006-01-03,ALV,Olsson Jan,"VP Research, Development",S - Sale+OE,$46.62,-1400,5457,-20%,"-$65,268",5.0,3.0,3.0,19.0,ALV
+603,D,2006-01-04 09:30:27,2006-01-03,ALV,Jonzon Halvar,VP Purchasing,M - OptEx,$21.36,2500,0,-100%,"+$53,400",5.0,3.0,3.0,19.0,ALV
+604,D,2006-01-04 09:30:27,2006-01-03,ALV,Jonzon Halvar,VP Purchasing,S - Sale+OE,$46.55,-2500,0,-100%,"-$116,368",5.0,3.0,3.0,19.0,ALV
+605,D,2006-01-04 09:14:08,2006-01-03,ALV,Patring Hans Goran,VP HR,M - OptEx,$21.36,2500,0,-100%,"+$53,400",5.0,3.0,3.0,19.0,ALV
+606,D,2006-01-04 09:14:08,2006-01-03,ALV,Patring Hans Goran,VP HR,S - Sale+OE,$46.54,-2500,0,-100%,"-$116,360",5.0,3.0,3.0,19.0,ALV
+607,AD,2006-01-04 09:01:01,2006-01-03,ALV,Svensson Jorgen,"GC, Secretary",M - OptEx,$21.36,2500,0,-100%,"+$53,400",5.0,3.0,3.0,19.0,ALV
+608,AD,2006-01-04 09:01:01,2006-01-03,ALV,Svensson Jorgen,"GC, Secretary",S - Sale+OE,$46.55,-2500,0,-100%,"-$116,380",5.0,3.0,3.0,19.0,ALV
+609,D,2006-01-04 08:42:34,2006-01-03,ALV,Lindquist Magnus Carl,CFO,M - OptEx,$21.36,2500,0,-100%,"+$53,400",5.0,3.0,3.0,19.0,ALV
+610,D,2006-01-04 08:42:34,2006-01-03,ALV,Lindquist Magnus Carl,CFO,S - Sale+OE,$46.56,-2500,0,-100%,"-$116,408",5.0,3.0,3.0,19.0,ALV
+611,D,2006-01-04 08:21:10,2006-01-03,ALV,Svensson Jorgen,"GC, Secretary",M - OptEx,$21.36,2500,0,-100%,"+$53,400",5.0,3.0,3.0,19.0,ALV
+612,D,2006-01-04 08:21:10,2006-01-03,ALV,Svensson Jorgen,"GC, Secretary",S - Sale+OE,$46.55,-2500,0,-100%,"-$116,380",5.0,3.0,3.0,19.0,ALV
+613,D,2005-07-27 16:27:20,2005-07-26,ALV,Marsaud Benoit,VP Production,M - OptEx,$44.91,10000,36000,+38%,"+$449,100",0.0,2.0,1.0,12.0,ALV
+614,D,2005-07-27 16:27:20,2005-07-26,ALV,Marsaud Benoit,VP Production,S - Sale+OE,$44.93,-3364,36000,-9%,"-$151,145",0.0,2.0,1.0,12.0,ALV
+615,D,2005-04-27 10:02:48,2005-04-26,ALV,Haland Yngve,former VP R&D,M - OptEx,$19.12,29395,0,-100%,"+$561,896",-1.0,2.0,3.0,-4.0,ALV
+616,D,2005-04-27 10:02:48,2005-04-26,ALV,Haland Yngve,former VP R&D,S - Sale+OE,$45.11,-29395,0,-100%,"-$1,326,002",-1.0,2.0,3.0,-4.0,ALV
+617,M,2005-02-24 11:44:30,2005-02-21,ALV,Kunerth Ing Walter,Dir,S - Sale,$50.25,-964,0,-100%,"-$48,444",1.0,0.0,-5.0,-7.0,ALV
+618,D,2005-02-11 07:39:41,2005-02-09,ALV,Patring Hans Goran,VP HR,M - OptEx,$19.80,2910,0,-100%,"+$57,618",1.0,4.0,5.0,-5.0,ALV
+619,D,2005-02-11 07:39:41,2005-02-09,ALV,Patring Hans Goran,VP HR,S - Sale+OE,$49.50,-2910,0,-100%,"-$144,045",1.0,4.0,5.0,-5.0,ALV
+620,,2005-02-11 07:21:36,2005-02-10,ALV,Aronson Per Olof,Dir,P - Purchase,$49.06,169,8000,+2%,"+$8,291",1.0,4.0,5.0,-5.0,ALV
+621,D,2005-02-02 07:46:36,2005-02-01,ALV,Wadell Hannes,Chief Treasurer,M - OptEx,$19.93,2500,0,-100%,"+$49,815",1.0,3.0,4.0,-4.0,ALV
+622,D,2005-02-02 07:46:36,2005-02-01,ALV,Wadell Hannes,Chief Treasurer,S - Sale+OE,$47.15,-2500,0,-100%,"-$117,875",1.0,3.0,4.0,-4.0,ALV
+623,,2005-01-18 07:32:35,2005-01-17,ALV,Kunerth Ing Walter,Dir,P - Purchase,$46.58,346,964,+56%,"+$16,117",0.0,-4.0,10.0,1.0,ALV
+624,D,2004-11-09 07:27:51,2004-11-08,ALV,Berntsson Leif,V P Quality,M - OptEx,$21.36,7500,200,-103%,"+$160,200",-1.0,2.0,5.0,4.0,ALV
+625,D,2004-11-09 07:27:51,2004-11-08,ALV,Berntsson Leif,V P Quality,S - Sale+OE,$44.61,-7500,200,-97%,"-$334,575",-1.0,2.0,5.0,4.0,ALV
+626,,2004-07-19 15:28:30,2004-07-15,ALV,Lorch George A,Dir,P - Purchase,$41.09,303,303,New,"+$12,449",0.0,0.0,3.0,16.0,ALV
+627,,2004-07-19 15:27:40,2004-07-15,ALV,Medina Dionisio Garza,Dir,P - Purchase,$41.09,346,681,+103%,"+$14,216",0.0,0.0,3.0,16.0,ALV
+628,,2004-07-19 15:26:44,2004-07-15,ALV,Ringler James M,Dir,P - Purchase,$41.09,346,964,+56%,"+$14,216",0.0,0.0,3.0,16.0,ALV
+629,,2004-07-19 15:25:56,2004-07-15,ALV,Stewart S Jay,Dir,P - Purchase,$41.09,692,78459,+1%,"+$28,432",0.0,0.0,3.0,16.0,ALV
+630,,2004-07-19 15:24:42,2004-07-15,ALV,Stone Roger W,Dir,P - Purchase,$41.09,346,5365,+7%,"+$14,216",0.0,0.0,3.0,16.0,ALV
+631,,2004-07-15 15:26:18,2004-07-13,ALV,Aronson Per Olof,Dir,P - Purchase,$40.59,346,7831,+5%,"+$14,044",0.0,-2.0,1.0,17.0,ALV
+632,,2004-07-15 15:24:16,2004-07-13,ALV,Welin Per,Dir,P - Purchase,$40.59,346,3831,+10%,"+$14,044",0.0,-2.0,1.0,17.0,ALV
+633,,2004-07-15 15:23:32,2004-07-14,ALV,Sekiya Tetsuo,Dir,P - Purchase,$41.59,400,2600,+18%,"+$16,636",0.0,-2.0,1.0,17.0,ALV
+634,,2004-07-15 15:22:31,2004-07-13,ALV,Carlsson Sune,Dir,P - Purchase,$40.59,303,303,New,"+$12,299",0.0,-2.0,1.0,17.0,ALV
+635,,2004-02-17 07:13:24,2004-02-10,ALV,Berntsson Leif,VP Quality,S - Sale,$42.91,-3387,200,-94%,"-$145,340",1.0,-1.0,-7.0,-5.0,ALV
+636,D,2004-02-09 10:09:41,2004-02-06,ALV,Berntsson Leif,VP Quality,M - OptEx,$19.96,10000,3587,-156%,"+$199,600",0.0,3.0,0.0,-3.0,ALV
+637,D,2004-02-09 10:09:41,2004-02-06,ALV,Berntsson Leif,VP Quality,S - Sale+OE,$42.77,-10000,3587,-74%,"-$427,700",0.0,3.0,0.0,-3.0,ALV
+638,D,2004-02-06 07:59:38,2004-02-04,ALV,Patring Hans Goran,VP HR,M - OptEx,$21.36,7500,0,-100%,"+$160,200",2.0,6.0,6.0,-1.0,ALV
+639,D,2004-02-06 07:59:38,2004-02-04,ALV,Patring Hans Goran,VP HR,S - Sale+OE,$41.20,-7500,0,-100%,"-$309,000",2.0,6.0,6.0,-1.0,ALV
+640,D,2004-02-06 07:48:00,2004-02-05,ALV,Berntsson Leif,VP Quality,M - OptEx,$16.99,15258,3587,-131%,"+$259,233",2.0,6.0,6.0,-1.0,ALV
+641,D,2004-02-06 07:48:00,2004-02-05,ALV,Berntsson Leif,VP Quality,S - Sale+OE,$41.57,-15258,3587,-81%,"-$634,306",2.0,6.0,6.0,-1.0,ALV
+642,,2004-02-05 09:50:21,2004-02-03,ALV,Svensson Jorgen,"GC, Secretary",S - Sale,$41.12,-3887,0,-100%,"-$159,826",2.0,8.0,8.0,1.0,ALV
+643,D,2004-02-04 07:54:38,2004-02-03,ALV,Svensson Jorgen,"GC, Secretary",M - OptEx,$19.96,10000,3887,-164%,"+$199,600",0.0,4.0,6.0,2.0,ALV
+644,D,2004-02-04 07:54:38,2004-02-03,ALV,Svensson Jorgen,"GC, Secretary",S - Sale+OE,$41.50,-10000,3887,-72%,"-$415,000",0.0,4.0,6.0,2.0,ALV
+645,D,2004-02-04 07:29:33,2004-02-02,ALV,Lindquist Magnus Carl,CFO,M - OptEx,$21.36,7500,0,-100%,"+$160,200",0.0,4.0,6.0,2.0,ALV
+646,D,2004-02-04 07:29:33,2004-02-02,ALV,Lindquist Magnus Carl,CFO,S - Sale+OE,$41.32,-7500,0,-100%,"-$309,900",0.0,4.0,6.0,2.0,ALV
+647,D,2004-01-27 08:36:09,2004-01-26,ALV,Sundberg Lars Johan,CIO,M - OptEx,$19.77,14800,0,-100%,"+$292,607",-1.0,-3.0,3.0,-3.0,ALV
+648,D,2004-01-27 08:36:09,2004-01-26,ALV,Sundberg Lars Johan,CIO,S - Sale+OE,$42.64,-14800,0,-100%,"-$631,057",-1.0,-3.0,3.0,-3.0,ALV
+649,D,2004-01-27 08:04:33,2004-01-26,ALV,Lindquist Magnus Carl,CFO,M - OptEx,$19.96,10000,0,-100%,"+$199,600",-1.0,-3.0,3.0,-3.0,ALV
+650,D,2004-01-27 08:04:33,2004-01-26,ALV,Lindquist Magnus Carl,CFO,S - Sale+OE,$42.64,-10000,0,-100%,"-$426,390",-1.0,-3.0,3.0,-3.0,ALV
+651,A,2003-12-17 10:49:40,2003-08-19,ALV,Welin Per,Dir,P - Purchase,$28.90,618,3485,+22%,"+$17,860",0.0,4.0,13.0,18.0,ALV
+652,A,2003-12-17 10:41:16,2003-08-20,ALV,Stone Roger W,Dir,P - Purchase,$29.37,618,5019,+14%,"+$18,151",0.0,4.0,13.0,18.0,ALV
+653,A,2003-12-17 10:28:31,2003-08-20,ALV,Stewart S Jay,Dir,P - Purchase,$29.37,1235,77767,+2%,"+$36,273",0.0,4.0,13.0,18.0,ALV
+654,A,2003-12-17 10:18:47,2003-08-19,ALV,Aronson Per Olof,Dir,P - Purchase,$28.90,618,7485,+9%,"+$17,860",0.0,4.0,13.0,18.0,ALV
+655,D,2003-12-16 10:43:27,2003-12-15,ALV,Svensson Jorgen,"GC, Secretary",M - OptEx,$14.94,7887,3887,-197%,"+$117,832",-2.0,2.0,11.0,15.0,ALV
+656,D,2003-12-16 10:43:27,2003-12-15,ALV,Svensson Jorgen,"GC, Secretary",S - Sale+OE,$37.35,-4000,3887,-51%,"-$149,416",-2.0,2.0,11.0,15.0,ALV
+657,D,2003-12-16 10:22:15,2003-12-15,ALV,Westerberg Lars,CEO,M - OptEx,$14.94,13500,32500,+71%,"+$201,690",-2.0,2.0,11.0,15.0,ALV
+658,D,2003-12-16 10:05:57,2003-12-15,ALV,Marsaud Benoit,V P Production,M - OptEx,$14.94,5046,5046,New,"+$75,387",-2.0,2.0,11.0,15.0,ALV
+659,D,2003-12-16 09:52:11,2003-12-15,ALV,Odman Mats,V P Investor Relations,M - OptEx,$14.94,5302,2702,-204%,"+$79,212",-2.0,2.0,11.0,15.0,ALV
+660,D,2003-12-16 09:52:11,2003-12-15,ALV,Odman Mats,V P Investor Relations,S - Sale+OE,$37.36,-3000,2702,-53%,"-$112,080",-2.0,2.0,11.0,15.0,ALV
+661,D,2003-12-16 09:35:29,2003-12-15,ALV,Berntsson Leif,V P Quality,M - OptEx,$14.94,7887,3587,-183%,"+$117,832",-2.0,2.0,11.0,15.0,ALV
+662,D,2003-12-16 09:35:29,2003-12-15,ALV,Berntsson Leif,V P Quality,S - Sale+OE,$37.37,-4500,3587,-56%,"-$168,143",-2.0,2.0,11.0,15.0,ALV
+663,D,2003-12-16 09:20:59,2003-12-15,ALV,Olsson Jan,V P Engineering,M - OptEx,$14.94,4357,4357,New,"+$65,094",-2.0,2.0,11.0,15.0,ALV
+664,D,2003-12-16 09:04:12,2003-12-15,ALV,Svensson Jorgen,"GC, Secretary",M - OptEx,$14.94,7887,3887,-197%,"+$117,832",-2.0,2.0,11.0,15.0,ALV
+665,D,2003-12-16 09:04:12,2003-12-15,ALV,Svensson Jorgen,"GC, Secretary",S - Sale+OE,$37.35,-4000,3887,-51%,"-$149,416",-2.0,2.0,11.0,15.0,ALV
+666,D,2003-12-16 08:40:42,2003-12-15,ALV,Haland Yngve,V P Research,M - OptEx,$14.94,5392,0,-100%,"+$80,556",-2.0,2.0,11.0,15.0,ALV
+667,D,2003-12-16 08:40:42,2003-12-15,ALV,Haland Yngve,V P Research,S - Sale+OE,$37.36,-5392,0,-100%,"-$201,456",-2.0,2.0,11.0,15.0,ALV
+668,DE,2003-12-03 07:43:45,2003-12-02,ALV,Svensson Jorgen,"GC, Secretary",M - OptEx,$16.99,15558,0,-100%,"+$264,330",2.0,9.0,10.0,22.0,ALV
+669,DE,2003-12-03 07:43:45,2003-12-02,ALV,Svensson Jorgen,"GC, Secretary",S - Sale+OE,$2.21,-15558,0,-100%,"-$34,311",2.0,9.0,10.0,22.0,ALV
+670,D,2003-11-12 07:11:52,2003-11-07,ALV,Olsson Jan,V P Engineering,M - OptEx,$18.39,21205,0,-100%,"+$389,973",1.0,-1.0,13.0,24.0,ALV
+671,D,2003-11-12 07:11:52,2003-11-07,ALV,Olsson Jan,V P Engineering,S - Sale+OE,$33.21,-21205,0,-100%,"-$704,197",1.0,-1.0,13.0,24.0,ALV
+672,D,2003-11-12 06:55:05,2003-11-07,ALV,Lindquist Magnus Carl,CFO,M - OptEx,$16.99,10000,0,-100%,"+$169,900",1.0,-1.0,13.0,24.0,ALV
+673,D,2003-11-12 06:55:05,2003-11-07,ALV,Lindquist Magnus Carl,CFO,S - Sale+OE,$33.21,-10000,0,-100%,"-$332,090",1.0,-1.0,13.0,24.0,ALV
+674,D,2003-11-12 06:43:00,2003-11-07,ALV,Patring Hans Goran,VP HR,M - OptEx,$19.96,10000,0,-100%,"+$199,600",1.0,-1.0,13.0,24.0,ALV
+675,D,2003-11-12 06:43:00,2003-11-07,ALV,Patring Hans Goran,VP HR,S - Sale+OE,$33.05,-10000,0,-100%,"-$330,500",1.0,-1.0,13.0,24.0,ALV
+676,,2003-08-29 08:26:33,2003-08-28,ALV,Sekiya Tetsuo,Dir,P - Purchase,$29.36,700,2200,+47%,"+$20,552",3.0,7.0,6.0,54.0,ALV
+677,,2003-08-29 07:57:32,2003-08-27,ALV,Kunerth Ing Walter,Dir,P - Purchase,$28.95,618,618,New,"+$17,891",3.0,7.0,6.0,54.0,ALV
+678,,2003-08-26 07:48:35,2003-08-22,ALV,Kull Wilhelm,Dir,S - Sale,$29.40,-600,6113,-9%,"-$17,640",-1.0,5.0,4.0,51.0,ALV
+679,,2003-08-22 07:04:52,2003-08-20,ALV,Stone Roger W,Dir,P - Purchase,$29.37,618,5693,+12%,"+$18,151",1.0,-1.0,2.0,50.0,ALV
+680,,2003-08-22 06:56:49,2003-08-20,ALV,Stewart S Jay,Dir,P - Purchase,$29.37,1235,83619,+1%,"+$36,273",1.0,-1.0,2.0,50.0,ALV
+681,,2003-08-22 06:48:07,2003-08-20,ALV,Ringler James M,Dir,P - Purchase,$29.37,618,618,New,"+$18,151",1.0,-1.0,2.0,50.0,ALV
+682,,2003-08-22 06:40:27,2003-08-20,ALV,Medina Dionisio Garza,Dir,P - Purchase,$29.37,335,335,New,"+$9,839",1.0,-1.0,2.0,50.0,ALV
+683,,2003-08-20 08:04:54,2003-08-19,ALV,Kull Wilhelm,Dir,P - Purchase,$28.90,901,6713,+16%,"+$26,039",-1.0,-2.0,4.0,53.0,ALV
+684,,2003-08-20 07:55:20,2003-08-19,ALV,Welin Per,Dir,P - Purchase,$28.90,618,4159,+17%,"+$17,860",-1.0,-2.0,4.0,53.0,ALV
+685,,2003-08-20 07:49:11,2003-08-19,ALV,Aronson Per Olof,Dir,P - Purchase,$28.90,618,8159,+8%,"+$17,860",-1.0,-2.0,4.0,53.0,ALV

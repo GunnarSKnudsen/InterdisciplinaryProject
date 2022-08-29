@@ -2,7 +2,8 @@
 import time
 import datetime
 
-
+from tqdm import tqdm
+import logging
 import os
 from os.path import exists
 
@@ -14,12 +15,13 @@ import source.preprocess_timeseries as UPTS
 import source.preprocess_timeseries_from_excel as UPTFE
 import source.analyse_single_company as UASC
 
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
 
 if __name__ == '__main__':
-    # Constants:
-    NAME = "Knudsen"
+    NAME = "Niedermayer"
     prepare_and_download = True
 
+    # Constants:
     ### Different Parameters depending on the setting
     if NAME == "Knudsen":
         no_https = False
@@ -64,7 +66,7 @@ if __name__ == '__main__':
         # Read which companies should be analyzed
         data = URTI.read_tickers_and_isins(INPUT_FILE)
         # Download the dealings
-        UGDD.get_all_directors_dealings(DATA_LOCATION_INSIDER_RAW, data, download_type, to_date_name)
+        UGDD.get_all_directors_dealings_async(DATA_LOCATION_INSIDER_RAW, data, download_type, to_date_name)
         # Cleanse the dealings
         UPDD.preprocess_directors_dealings(DATA_LOCATION_INSIDER_RAW, DATA_LOCATION_INSIDER_PROCESSED)
         tickers, isins = data["TICKER SYMBOL"], data["ISIN CODE"]
@@ -74,5 +76,18 @@ if __name__ == '__main__':
         processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, DATA_LOCATION_RI)
 
     # Start the analysis
-    UASC.analyse_single_company('US2825391053', DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED)
 
+    pickles = os.listdir(DATA_LOCATION_RI)
+    ISINs = [rick[:-7] for rick in pickles]
+    ISIN = ISINs[0] #"US2825391053"
+    sum_returns = []
+    filing_trade_lags = []
+    for ISIN in tqdm(ISINs):
+
+        sr, ftl = UASC.analyse_single_company(ISIN, DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED)
+
+        sum_returns += sr
+        filing_trade_lags += ftl
+
+    from matplotlib import pyplot as plt
+    plt.hist(filing_trade_lags)

@@ -1,12 +1,915 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-05-10 16:34:33,2022-05-06,AJRD,Boehle Daniel L.,"CFO, VP",S - Sale,$40.52,-12510,57148,-18%,"-$506,905",,,,,AJRD
-1,,2020-06-11 19:03:03,2020-06-10,AJRD,Corcoran Thomas A,Dir,S - Sale,$44.52,-6800,103916,-6%,"-$302,736",,,,,AJRD
-2,D,2020-03-05 19:01:32,2020-03-04,AJRD,Tucker Mark A,COO,S - Sale+OE,$52.07,-12594,135327,-9%,"-$655,770",,,,,AJRD
-3,,2020-03-05 16:51:18,2020-03-04,AJRD,Turchin Martin,Dir,S - Sale,$52.25,-5000,114304,-4%,"-$261,250",,,,,AJRD
-4,,2019-09-18 15:15:04,2019-09-18,AJRD,Drake Eileen P.,"CEO, Pres",S - Sale,$52.07,-38656,470182,-8%,"-$2,012,907",,,,,AJRD
-5,,2019-08-13 17:17:26,2019-08-12,AJRD,Corcoran Thomas A,Dir,S - Sale,$48.94,-10000,104858,-9%,"-$489,356",,,,,AJRD
-6,,2019-08-06 17:28:14,2019-08-05,AJRD,Turchin Martin,Dir,S - Sale,$47.57,-5000,117218,-4%,"-$237,843",,,,,AJRD
-7,,2019-03-27 17:08:20,2019-03-26,AJRD,Drake Eileen P.,"CEO, Pres",S - Sale,$34.42,-29592,522236,-5%,"-$1,018,557",,,,,AJRD
-8,,2018-11-13 17:14:20,2018-11-12,AJRD,Turchin Martin,Dir,S - Sale,$37.78,-5000,116648,-4%,"-$188,897",,,,,AJRD
-9,,2018-08-17 17:39:32,2018-08-16,AJRD,Turchin Martin,Dir,S - Sale,$36.43,-5000,121648,-4%,"-$182,150",,,,,AJRD
-10,,2018-08-06 16:53:27,2018-08-02,AJRD,Perry James H,Dir,S - Sale,$34.33,-25225,113140,-18%,"-$865,974",,,,,AJRD
+0,D,2022-03-08 16:58:31,2022-03-04,AJRD,Schumacher John D.,"SVP, Washington Operations",F - Tax,$39.23,-4050,82316,-5%,"-$158,882",,,,,AJRD
+1,D,2022-03-08 16:58:31,2022-03-04,AJRD,Schumacher John D.,"SVP, Washington Operations",M - OptEx,$23.06,11610,82316,+16%,"+$267,727",,,,,AJRD
+2,D,2022-03-04 16:05:12,2022-03-03,AJRD,Lichtenstein Warren G,Exec Chariman,M - OptEx,$0.00,5803,795194,+1%,+$0,,,,,AJRD
+3,,2022-03-02 18:35:55,2022-02-28,AJRD,Drake Eileen P.,"CEO, Pres",D - Sale to issuer,$0.00,-7422,336131,-2%,-$0,,,,,AJRD
+4,,2022-03-02 18:35:55,2022-02-28,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$38.75,-44615,336131,-12%,"-$1,728,831",,,,,AJRD
+5,,2022-03-02 18:35:55,2022-01-05,AJRD,Drake Eileen P.,"CEO, Pres",G - Gift,$0.00,-5550,336131,-2%,-$0,,,,,AJRD
+6,,2022-03-02 18:34:57,2022-02-28,AJRD,Boehle Daniel L.,"CFO, VP, Controller",D - Sale to issuer,$0.00,-399,69658,-1%,-$0,,,,,AJRD
+7,,2022-03-02 18:34:57,2022-02-28,AJRD,Boehle Daniel L.,"CFO, VP, Controller",F - Tax,$38.75,-87,69658,0%,"-$3,371",,,,,AJRD
+8,D,2022-03-02 18:33:44,2022-02-28,AJRD,Kampani Arjun,"SVP, GC, Secretary",D - Sale to issuer,$0.00,-1134,57517,-2%,-$0,,,,,AJRD
+9,DM,2022-03-02 18:33:44,2022-02-28,AJRD,Kampani Arjun,"SVP, GC, Secretary",F - Tax,$38.85,-7887,57517,-12%,"-$306,404",,,,,AJRD
+10,DM,2022-03-02 18:33:44,2022-03-01,AJRD,Kampani Arjun,"SVP, GC, Secretary",M - OptEx,$0.00,1615,57517,+3%,+$0,,,,,AJRD
+11,D,2022-03-02 18:32:37,2022-02-28,AJRD,Schumacher John D.,"SVP, Washington Operations",D - Sale to issuer,$0.00,-1137,74756,-1%,-$0,,,,,AJRD
+12,DM,2022-03-02 18:32:37,2022-02-28,AJRD,Schumacher John D.,"SVP, Washington Operations",F - Tax,$38.85,-6765,74756,-8%,"-$262,819",,,,,AJRD
+13,DM,2022-03-02 18:32:37,2022-03-01,AJRD,Schumacher John D.,"SVP, Washington Operations",M - OptEx,$0.00,1628,74756,+2%,+$0,,,,,AJRD
+14,,2022-02-17 18:33:27,2022-02-15,AJRD,Turchin Martin,Dir,A - Grant,$37.50,727,126452,+1%,"+$27,263",,,,,AJRD
+15,,2022-02-17 18:32:40,2022-02-15,AJRD,McNiff Audrey A.,Dir,A - Grant,$37.50,727,9100,+9%,"+$27,263",,,,,AJRD
+16,,2022-02-17 18:31:57,2022-02-15,AJRD,Lord Lance W,Dir,A - Grant,$37.50,727,41911,+2%,"+$27,263",,,,,AJRD
+17,,2022-02-17 18:31:18,2022-02-15,AJRD,Henderson James R,Dir,A - Grant,$37.50,727,132093,+1%,"+$27,263",,,,,AJRD
+18,,2022-02-17 18:30:03,2022-02-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$37.50,727,107301,+1%,"+$27,263",,,,,AJRD
+19,,2022-02-17 18:29:20,2022-02-15,AJRD,Chilton Kevin P.,Dir,A - Grant,$37.50,727,20436,+4%,"+$27,263",,,,,AJRD
+20,D,2021-12-23 19:53:43,2021-12-21,AJRD,Gowder Amy L,COO,A - Grant,$0.00,11867,18943,+168%,+$0,,,,,AJRD
+21,D,2021-12-23 19:53:43,2021-12-21,AJRD,Gowder Amy L,COO,F - Tax,$46.79,-9776,18943,-34%,"-$457,419",,,,,AJRD
+22,D,2021-12-23 19:53:43,2021-12-21,AJRD,Gowder Amy L,COO,M - OptEx,$0.00,6698,18943,+55%,+$0,,,,,AJRD
+23,D,2021-12-23 19:50:20,2021-12-21,AJRD,Boehle Daniel L.,"CFO, VP, Controller",A - Grant,$0.00,44925,70144,+178%,+$0,,,,,AJRD
+24,D,2021-12-23 19:50:20,2021-12-21,AJRD,Boehle Daniel L.,"CFO, VP, Controller",F - Tax,$46.79,-10183,70144,-13%,"-$476,463",,,,,AJRD
+25,D,2021-12-23 19:50:20,2021-12-21,AJRD,Boehle Daniel L.,"CFO, VP, Controller",M - OptEx,$0.00,2275,70144,+3%,+$0,,,,,AJRD
+26,,2021-11-17 16:56:01,2021-11-15,AJRD,Turchin Martin,Dir,A - Grant,$43.60,625,125725,0%,"+$27,250",,,,,AJRD
+27,,2021-11-17 16:54:32,2021-11-15,AJRD,McNiff Audrey A.,Dir,A - Grant,$43.60,625,8373,+8%,"+$27,250",,,,,AJRD
+28,,2021-11-17 16:52:57,2021-11-15,AJRD,Lord Lance W,Dir,A - Grant,$43.60,625,41184,+2%,"+$27,250",,,,,AJRD
+29,,2021-11-17 16:51:28,2021-11-15,AJRD,Henderson James R,Dir,A - Grant,$43.60,625,131366,0%,"+$27,250",,,,,AJRD
+30,,2021-11-17 16:49:45,2021-11-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$43.60,625,106574,+1%,"+$27,250",,,,,AJRD
+31,,2021-11-17 16:47:45,2021-11-15,AJRD,Chilton Kevin P.,Dir,A - Grant,$43.60,625,19709,+3%,"+$27,250",,,,,AJRD
+32,,2021-08-18 17:07:37,2021-08-16,AJRD,Turchin Martin,Dir,A - Grant,$42.47,642,125100,+1%,"+$27,266",,,,,AJRD
+33,,2021-08-18 17:06:29,2021-08-16,AJRD,McNiff Audrey A.,Dir,A - Grant,$42.47,642,7748,+9%,"+$27,266",,,,,AJRD
+34,,2021-08-18 17:05:11,2021-08-16,AJRD,Lord Lance W,Dir,A - Grant,$42.47,642,40559,+2%,"+$27,266",,,,,AJRD
+35,,2021-08-18 17:04:01,2021-08-16,AJRD,Henderson James R,Dir,A - Grant,$42.47,642,130741,0%,"+$27,266",,,,,AJRD
+36,,2021-08-18 17:02:47,2021-08-16,AJRD,Corcoran Thomas A,Dir,A - Grant,$42.47,642,105949,+1%,"+$27,266",,,,,AJRD
+37,,2021-08-18 17:02:47,2021-06-24,AJRD,Corcoran Thomas A,Dir,G - Gift,$0.00,-2000,105949,-2%,-$0,,,,,AJRD
+38,,2021-08-18 16:58:38,2021-08-16,AJRD,Chilton Kevin P.,Dir,A - Grant,$42.47,642,19084,+3%,"+$27,266",,,,,AJRD
+39,A,2021-06-25 16:49:31,2021-05-17,AJRD,McNiff Audrey A.,Dir,A - Grant,$47.21,816,1216,+204%,"+$38,523",,,,,AJRD
+40,,2021-05-19 16:55:36,2021-05-17,AJRD,Turchin Martin,Dir,A - Grant,$19.93,3811,124458,+3%,"+$75,961",,,,,AJRD
+41,,2021-05-19 16:53:45,2021-05-17,AJRD,Henderson James R,Dir,A - Grant,$19.93,3811,130099,+3%,"+$75,961",,,,,AJRD
+42,,2021-05-19 16:52:22,2021-05-17,AJRD,McNiff Audrey A.,Dir,A - Grant,$9.80,2779,6867,+68%,"+$27,240",,,,,AJRD
+43,,2021-05-19 16:49:44,2021-05-17,AJRD,Lord Lance W,Dir,A - Grant,$16.05,3336,39917,+9%,"+$53,536",,,,,AJRD
+44,,2021-05-19 16:44:22,2021-05-17,AJRD,Corcoran Thomas A,Dir,A - Grant,$18.12,3574,107307,+3%,"+$64,772",,,,,AJRD
+45,,2021-05-19 16:44:22,2021-05-19,AJRD,Corcoran Thomas A,Dir,G - Gift,$0.00,-2000,107307,-2%,-$0,,,,,AJRD
+46,,2021-05-19 16:42:32,2021-05-17,AJRD,Chilton Kevin P.,Dir,A - Grant,$16.05,3336,18442,+22%,"+$53,536",,,,,AJRD
+47,D,2021-03-05 17:25:58,2021-03-03,AJRD,Lichtenstein Warren G,Exec COB,M - OptEx,$0.00,5803,789391,+1%,+$0,,,,,AJRD
+48,D,2021-03-03 16:49:31,2021-03-01,AJRD,Kampani Arjun,"SVP, GC, Secretary",D - Sale to issuer,$0.00,-2797,64923,-4%,-$0,,,,,AJRD
+49,D,2021-03-03 16:49:31,2021-03-01,AJRD,Kampani Arjun,"SVP, GC, Secretary",F - Tax,$51.82,-1323,64923,-2%,"-$68,558",,,,,AJRD
+50,,2021-03-03 16:48:19,2021-03-01,AJRD,Drake Eileen P.,"CEO, Pres",D - Sale to issuer,$0.00,-12761,393718,-3%,-$0,,,,,AJRD
+51,,2021-03-03 16:48:19,2021-03-01,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$51.82,-5605,393718,-1%,"-$290,451",,,,,AJRD
+52,D,2021-03-03 16:45:05,2021-03-01,AJRD,Schumacher John D.,"SVP, Washington Operations",D - Sale to issuer,$0.00,-2884,80779,-3%,-$0,,,,,AJRD
+53,D,2021-03-03 16:45:05,2021-03-01,AJRD,Schumacher John D.,"SVP, Washington Operations",F - Tax,$51.82,-1087,80779,-1%,"-$56,328",,,,,AJRD
+54,,2021-03-03 16:43:17,2021-03-01,AJRD,Boehle Daniel L.,"CFO, VP, Controller",D - Sale to issuer,$0.00,-1195,33127,-3%,-$0,,,,,AJRD
+55,,2021-03-03 16:43:17,2021-03-01,AJRD,Boehle Daniel L.,"CFO, VP, Controller",F - Tax,$51.82,-587,33127,-2%,"-$30,418",,,,,AJRD
+56,,2021-02-17 17:47:21,2021-02-16,AJRD,Turchin Martin,Dir,A - Grant,$52.17,502,120647,0%,"+$26,189",,,,,AJRD
+57,,2021-02-17 17:46:15,2021-02-16,AJRD,McNiff Audrey A.,Dir,A - Grant,$52.17,502,4088,+14%,"+$26,189",,,,,AJRD
+58,,2021-02-17 17:44:52,2021-02-16,AJRD,Lord Lance W,Dir,A - Grant,$52.17,502,36581,+1%,"+$26,189",,,,,AJRD
+59,,2021-02-17 17:43:21,2021-02-16,AJRD,Henderson James R,Dir,A - Grant,$52.17,502,126288,0%,"+$26,189",,,,,AJRD
+60,,2021-02-17 17:42:05,2021-02-16,AJRD,Corcoran Thomas A,Dir,A - Grant,$52.17,502,105733,0%,"+$26,189",,,,,AJRD
+61,,2021-02-17 17:40:48,2021-02-16,AJRD,Chilton Kevin P.,Dir,A - Grant,$52.17,502,15106,+3%,"+$26,189",,,,,AJRD
+62,D,2020-12-29 19:54:26,2020-12-23,AJRD,Boehle Daniel L.,"CFO, VP, Controller",D - Sale to issuer,$52.80,-12147,34900,-26%,"-$641,362",,,,,AJRD
+63,D,2020-12-29 19:54:26,2020-12-23,AJRD,Boehle Daniel L.,"CFO, VP, Controller",M - OptEx,$30.30,12147,34900,+53%,"+$368,006",,,,,AJRD
+64,D,2020-12-29 17:11:00,2020-12-24,AJRD,Lichtenstein Warren G,Exec COB,F - Tax,$52.85,-146687,783588,-16%,"-$7,752,408",,,,,AJRD
+65,D,2020-12-29 17:11:00,2020-12-24,AJRD,Lichtenstein Warren G,Exec COB,M - OptEx,$23.16,334775,783588,+75%,"+$7,752,320",,,,,AJRD
+66,D,2020-12-28 19:52:14,2020-12-22,AJRD,Drake Eileen P.,"CEO, Pres",A - Grant,$0.00,116333,412084,+39%,+$0,,,,,AJRD
+67,D,2020-12-28 19:52:14,2020-12-23,AJRD,Drake Eileen P.,"CEO, Pres",D - Sale to issuer,$52.80,-55000,412084,-12%,"-$2,904,000",,,,,AJRD
+68,DM,2020-12-28 19:52:14,2020-12-22,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$52.80,-125403,412084,-23%,"-$6,621,335",,,,,AJRD
+69,DM,2020-12-28 19:52:14,2020-12-22,AJRD,Drake Eileen P.,"CEO, Pres",M - OptEx,$15.46,83452,412084,+25%,"+$1,290,475",,,,,AJRD
+70,D,2020-12-28 19:49:40,2020-12-22,AJRD,Gowder Amy L,COO,A - Grant,$0.00,21447,10154,-190%,+$0,,,,,AJRD
+71,D,2020-12-28 19:49:40,2020-12-22,AJRD,Gowder Amy L,COO,F - Tax,$52.80,-11293,10154,-53%,"-$596,270",,,,,AJRD
+72,D,2020-12-28 19:48:48,2020-12-22,AJRD,Schumacher John D.,"SVP, Washington Operations",F - Tax,$52.80,-8427,94088,-8%,"-$444,946",,,,,AJRD
+73,D,2020-12-28 19:48:48,2020-12-22,AJRD,Schumacher John D.,"SVP, Washington Operations",M - OptEx,$0.00,808,94088,+1%,+$0,,,,,AJRD
+74,D,2020-12-28 19:44:37,2020-12-22,AJRD,Boehle Daniel L.,"CFO, VP, Controller",A - Grant,$0.00,32431,34900,>999%,+$0,,,,,AJRD
+75,D,2020-12-28 19:44:37,2020-12-22,AJRD,Boehle Daniel L.,"CFO, VP, Controller",F - Tax,$52.80,-24882,34900,-42%,"-$1,313,770",,,,,AJRD
+76,D,2020-12-28 19:44:37,2020-12-22,AJRD,Boehle Daniel L.,"CFO, VP, Controller",M - OptEx,$0.00,4549,34900,+15%,+$0,,,,,AJRD
+77,D,2020-12-28 19:44:15,2020-12-23,AJRD,Kampani Arjun,"VP, GC, Secretary",D - Sale to issuer,$52.80,-16274,69043,-19%,"-$859,267",,,,,AJRD
+78,D,2020-12-28 19:44:15,2020-12-22,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$52.80,-9569,69043,-12%,"-$505,243",,,,,AJRD
+79,DM,2020-12-28 19:44:15,2020-12-22,AJRD,Kampani Arjun,"VP, GC, Secretary",M - OptEx,$14.98,17072,69043,+33%,"+$255,665",,,,,AJRD
+80,,2020-11-17 16:54:24,2020-11-16,AJRD,Turchin Martin,Dir,A - Grant,$37.14,706,120145,+1%,"+$26,221",,,,,AJRD
+81,,2020-11-17 16:53:00,2020-11-16,AJRD,McNiff Audrey A.,Dir,A - Grant,$37.14,706,3586,+25%,"+$26,221",,,,,AJRD
+82,,2020-11-17 16:51:32,2020-11-16,AJRD,Lord Lance W,Dir,A - Grant,$37.14,352,36079,+1%,"+$13,073",,,,,AJRD
+83,,2020-11-17 16:50:23,2020-11-16,AJRD,Henderson James R,Dir,A - Grant,$37.14,706,125786,+1%,"+$26,221",,,,,AJRD
+84,,2020-11-17 16:49:16,2020-11-16,AJRD,Chilton Kevin P.,Dir,A - Grant,$37.14,706,14604,+5%,"+$26,221",,,,,AJRD
+85,,2020-11-17 16:47:58,2020-11-16,AJRD,Corcoran Thomas A,Dir,A - Grant,$37.14,706,105231,+1%,"+$26,221",,,,,AJRD
+86,,2020-09-10 16:39:33,2020-09-08,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$40.86,-3291,392702,-1%,"-$134,470",,,,,AJRD
+87,,2020-08-20 17:48:01,2020-08-18,AJRD,McNiff Audrey A.,Dir,A - Grant,$0.00,2880,2880,New,+$0,,,,,AJRD
+88,,2020-08-18 17:09:16,2020-08-17,AJRD,Turchin Martin,Dir,A - Grant,$43.09,609,119439,+1%,"+$26,242",,,,,AJRD
+89,,2020-08-18 17:08:09,2020-08-17,AJRD,Lord Lance W,Dir,A - Grant,$43.09,304,35727,+1%,"+$13,099",,,,,AJRD
+90,,2020-08-18 17:06:46,2020-08-17,AJRD,Henderson James R,Dir,A - Grant,$43.09,609,125080,0%,"+$26,242",,,,,AJRD
+91,,2020-08-18 17:05:40,2020-08-17,AJRD,Chilton Kevin P.,Dir,A - Grant,$43.09,609,13898,+5%,"+$26,242",,,,,AJRD
+92,,2020-08-18 17:00:32,2020-08-17,AJRD,Corcoran Thomas A,Dir,A - Grant,$43.09,609,104525,+1%,"+$26,242",,,,,AJRD
+93,,2020-08-17 18:41:23,2020-08-14,AJRD,Boehle Daniel L.,"CFO, VP, Controller",F - Tax,$43.49,-1883,22811,-8%,"-$81,892",,,,,AJRD
+94,,2020-06-11 19:03:03,2020-06-10,AJRD,Corcoran Thomas A,Dir,S - Sale,$44.52,-6800,103916,-6%,"-$302,736",,,,,AJRD
+95,,2020-05-18 17:21:40,2020-05-15,AJRD,Turchin Martin,Dir,A - Grant,$38.64,4526,118830,+4%,"+$174,885",,,,,AJRD
+96,,2020-05-18 17:07:32,2020-05-15,AJRD,Lord Lance W,Dir,A - Grant,$38.64,3265,35423,+10%,"+$126,160",,,,,AJRD
+97,,2020-05-18 17:04:34,2020-05-15,AJRD,Henderson James R,Dir,A - Grant,$38.64,4526,124471,+4%,"+$174,885",,,,,AJRD
+98,,2020-05-18 17:03:03,2020-05-15,AJRD,Chilton Kevin P.,Dir,A - Grant,$38.64,3944,13289,+42%,"+$152,396",,,,,AJRD
+99,,2020-05-18 17:01:29,2020-05-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$38.64,4235,110716,+4%,"+$163,640",,,,,AJRD
+100,M,2020-05-05 17:12:20,2020-05-01,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$40.64,-4937,395993,-1%,"-$200,639",,,,,AJRD
+101,D,2020-03-05 19:01:32,2020-03-04,AJRD,Tucker Mark A,COO,D - Sale to issuer,$52.74,-26594,135327,-16%,"-$1,402,568",,,,,AJRD
+102,D,2020-03-05 19:01:32,2020-03-04,AJRD,Tucker Mark A,COO,M - OptEx,$18.26,39188,135327,+41%,"+$715,390",,,,,AJRD
+103,D,2020-03-05 19:01:32,2020-03-04,AJRD,Tucker Mark A,COO,S - Sale+OE,$52.07,-12594,135327,-9%,"-$655,770",,,,,AJRD
+104,,2020-03-05 16:51:18,2020-03-04,AJRD,Turchin Martin,Dir,S - Sale,$52.25,-5000,114304,-4%,"-$261,250",,,,,AJRD
+105,D,2020-03-04 19:50:13,2020-03-02,AJRD,Boehle Daniel L.,"VP, Controller",D - Sale to issuer,$50.99,-1075,24694,-4%,"-$54,814",,,,,AJRD
+106,D,2020-03-04 19:50:13,2020-03-02,AJRD,Boehle Daniel L.,"VP, Controller",F - Tax,$50.99,-3852,24694,-13%,"-$196,413",,,,,AJRD
+107,D,2020-03-04 19:16:50,2020-03-02,AJRD,Tucker Mark A,COO,D - Sale to issuer,$50.99,-5063,135327,-4%,"-$258,162",,,,,AJRD
+108,D,2020-03-04 19:16:50,2020-03-02,AJRD,Tucker Mark A,COO,F - Tax,$50.99,-19000,135327,-12%,"-$968,810",,,,,AJRD
+109,D,2020-03-04 19:15:51,2020-03-02,AJRD,Drake Eileen P.,"CEO, Pres",D - Sale to issuer,$50.99,-12020,400930,-3%,"-$612,900",,,,,AJRD
+110,D,2020-03-04 19:15:51,2020-03-02,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$50.99,-45120,400930,-10%,"-$2,300,669",,,,,AJRD
+111,D,2020-03-04 19:14:42,2020-03-02,AJRD,Lundstrom Paul,"VP, CFO",D - Sale to issuer,$50.99,-4936,110160,-4%,"-$251,687",,,,,AJRD
+112,D,2020-03-04 19:14:42,2020-03-02,AJRD,Lundstrom Paul,"VP, CFO",F - Tax,$50.99,-18530,110160,-14%,"-$944,845",,,,,AJRD
+113,D,2020-03-04 19:12:09,2020-03-02,AJRD,Kampani Arjun,"VP, GC, Secretary",D - Sale to issuer,$50.99,-2791,77814,-3%,"-$142,313",,,,,AJRD
+114,D,2020-03-04 19:12:09,2020-03-02,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$50.99,-10469,77814,-12%,"-$533,814",,,,,AJRD
+115,D,2020-03-04 19:10:59,2020-03-02,AJRD,Schumacher John D.,"SVP, Washington Operations",D - Sale to issuer,$50.99,-2905,92371,-3%,"-$148,126",,,,,AJRD
+116,D,2020-03-04 19:10:59,2020-03-02,AJRD,Schumacher John D.,"SVP, Washington Operations",F - Tax,$50.99,-9328,92371,-9%,"-$475,635",,,,,AJRD
+117,D,2020-03-02 17:29:50,2020-02-28,AJRD,Lichtenstein Warren G,Exec COB,D - Sale to issuer,$49.28,-4659,595500,-1%,"-$229,596",,,,,AJRD
+118,D,2020-03-02 17:29:50,2020-02-28,AJRD,Lichtenstein Warren G,Exec COB,M - OptEx,$13.23,4659,595500,+1%,"+$61,639",,,,,AJRD
+119,D,2020-03-02 17:07:16,2020-02-27,AJRD,Turchin Martin,Dir,D - Sale to issuer,$50.42,-7355,119304,-6%,"-$370,839",,,,,AJRD
+120,D,2020-03-02 17:07:16,2020-02-27,AJRD,Turchin Martin,Dir,M - OptEx,$13.23,7355,119304,+7%,"+$97,307",,,,,AJRD
+121,M,2020-03-02 17:05:03,2020-02-27,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$49.68,-5453,458070,-1%,"-$270,927",,,,,AJRD
+122,,2020-03-02 17:03:18,2020-02-28,AJRD,Boehle Daniel L.,"VP, Controller",F - Tax,$49.28,-201,29621,-1%,"-$9,905",,,,,AJRD
+123,M,2020-03-02 17:02:08,2020-02-27,AJRD,Schumacher John D.,"SVP, Washington Operations",F - Tax,$49.47,-615,104604,-1%,"-$30,422",,,,,AJRD
+124,M,2020-03-02 17:00:21,2020-02-27,AJRD,Tucker Mark A,COO,F - Tax,$49.87,-794,159390,0%,"-$39,598",,,,,AJRD
+125,M,2020-03-02 16:59:16,2020-02-27,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$49.47,-718,91074,-1%,"-$35,518",,,,,AJRD
+126,M,2020-03-02 16:58:02,2020-02-27,AJRD,Lundstrom Paul,"VP, CFO",F - Tax,$49.59,-1544,133626,-1%,"-$76,560",,,,,AJRD
+127,D,2020-02-26 17:39:29,2020-02-25,AJRD,Lichtenstein Warren G,Exec COB,D - Sale to issuer,$51.14,-4658,595500,-1%,"-$238,210",,,,,AJRD
+128,D,2020-02-26 17:39:29,2020-02-25,AJRD,Lichtenstein Warren G,Exec COB,M - OptEx,$13.23,4658,595500,+1%,"+$61,625",,,,,AJRD
+129,,2020-02-20 17:41:21,2020-02-18,AJRD,Turchin Martin,Dir,A - Grant,$53.60,489,119304,0%,"+$26,210",,,,,AJRD
+130,,2020-02-20 17:40:05,2020-02-18,AJRD,Lord Lance W,Dir,A - Grant,$53.60,244,32158,+1%,"+$13,078",,,,,AJRD
+131,,2020-02-20 17:38:52,2020-02-18,AJRD,Henderson James R,Dir,A - Grant,$53.60,489,119945,0%,"+$26,210",,,,,AJRD
+132,,2020-02-20 17:37:49,2020-02-18,AJRD,Corcoran Thomas A,Dir,A - Grant,$53.60,489,106481,0%,"+$26,210",,,,,AJRD
+133,,2020-02-20 17:36:28,2020-02-18,AJRD,Chilton Kevin P.,Dir,A - Grant,$53.60,489,9345,+6%,"+$26,210",,,,,AJRD
+134,,2020-01-08 16:53:46,2020-01-06,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$48.90,-3368,463523,-1%,"-$164,695",,,,,AJRD
+135,,2019-11-18 17:26:25,2019-11-15,AJRD,Turchin Martin,Dir,A - Grant,$44.11,594,118815,+1%,"+$26,201",,,,,AJRD
+136,,2019-11-18 17:24:58,2019-11-15,AJRD,Lord Lance W,Dir,A - Grant,$44.11,297,31914,+1%,"+$13,101",,,,,AJRD
+137,,2019-11-18 17:23:24,2019-11-15,AJRD,Henderson James R,Dir,A - Grant,$44.11,594,119456,0%,"+$26,201",,,,,AJRD
+138,,2019-11-18 17:22:03,2019-11-15,AJRD,Chilton Kevin P.,Dir,A - Grant,$44.11,594,8856,+7%,"+$26,201",,,,,AJRD
+139,,2019-11-18 17:20:43,2019-11-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$44.11,594,105992,+1%,"+$26,201",,,,,AJRD
+140,,2019-11-13 16:43:18,2019-11-08,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$44.53,-3291,466891,-1%,"-$146,548",,,,,AJRD
+141,,2019-11-12 16:48:31,2019-11-07,AJRD,Lundstrom Paul,"VP, CFO",F - Tax,$43.35,-7020,135170,-5%,"-$304,317",,,,,AJRD
+142,,2019-09-18 15:15:04,2019-09-18,AJRD,Drake Eileen P.,"CEO, Pres",S - Sale,$52.07,-38656,470182,-8%,"-$2,012,907",,,,,AJRD
+143,,2019-09-16 18:25:26,2019-09-13,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$51.06,-1646,508838,0%,"-$84,045",,,,,AJRD
+144,,2019-08-16 16:57:36,2019-08-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,540,105398,+1%,+$0,,,,,AJRD
+145,,2019-08-16 16:56:30,2019-08-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,1003,118221,+1%,+$0,,,,,AJRD
+146,,2019-08-16 16:55:00,2019-08-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,270,31617,+1%,+$0,,,,,AJRD
+147,,2019-08-16 16:53:48,2019-08-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,540,118862,0%,+$0,,,,,AJRD
+148,,2019-08-16 16:52:17,2019-08-15,AJRD,Chilton Kevin P.,Dir,A - Grant,$0.00,540,8262,+7%,+$0,,,,,AJRD
+149,,2019-08-16 16:50:52,2019-08-14,AJRD,Boehle Daniel L.,"VP, Controller",F - Tax,$48.42,-1653,29822,-5%,"-$80,038",,,,,AJRD
+150,,2019-08-13 17:17:26,2019-08-12,AJRD,Corcoran Thomas A,Dir,S - Sale,$48.94,-10000,104858,-9%,"-$489,356",,,,,AJRD
+151,,2019-08-06 17:28:14,2019-08-05,AJRD,Turchin Martin,Dir,S - Sale,$47.57,-5000,117218,-4%,"-$237,843",,,,,AJRD
+152,,2019-07-05 16:30:54,2019-07-02,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$46.17,-8461,510484,-2%,"-$390,644",,,,,AJRD
+153,,2019-07-05 16:29:21,2019-07-02,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$46.17,-459,91792,0%,"-$21,192",,,,,AJRD
+154,,2019-07-05 16:28:00,2019-07-02,AJRD,Lundstrom Paul,"VP, CFO",F - Tax,$46.17,-1622,142190,-1%,"-$74,888",,,,,AJRD
+155,,2019-07-05 16:26:49,2019-07-02,AJRD,Tucker Mark A,COO,F - Tax,$46.17,-1622,160184,-1%,"-$74,888",,,,,AJRD
+156,,2019-07-05 16:25:26,2019-07-02,AJRD,Schumacher John D.,"SVP, Washington Operations",F - Tax,$46.17,-393,105227,0%,"-$18,145",,,,,AJRD
+157,,2019-06-20 17:30:52,2019-06-18,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$41.65,-3291,518945,-1%,"-$137,070",,,,,AJRD
+158,D,2019-06-07 18:03:43,2019-06-06,AJRD,Schumacher John D.,"SVP, Washington Operations",D - Sale to issuer,$40.32,-10000,105622,-9%,"-$403,200",,,,,AJRD
+159,D,2019-06-07 18:03:43,2019-06-06,AJRD,Schumacher John D.,"SVP, Washington Operations",M - OptEx,$13.01,10000,105622,+10%,"+$130,100",,,,,AJRD
+160,D,2019-06-06 17:31:19,2019-06-04,AJRD,Corcoran Thomas A,Dir,D - Sale to issuer,$39.68,-7355,114858,-6%,"-$291,846",,,,,AJRD
+161,D,2019-06-06 17:31:19,2019-06-05,AJRD,Corcoran Thomas A,Dir,G - Gift,$0.00,-1000,114858,-1%,-$0,,,,,AJRD
+162,D,2019-06-06 17:31:19,2019-06-04,AJRD,Corcoran Thomas A,Dir,M - OptEx,$13.23,7355,114858,+7%,"+$97,307",,,,,AJRD
+163,,2019-05-16 19:58:27,2019-05-15,AJRD,Turchin Martin,Dir,A - Grant,$36.39,2748,122218,+2%,"+$100,000",,,,,AJRD
+164,,2019-05-16 19:57:11,2019-05-15,AJRD,Lord Lance W,Dir,A - Grant,$36.39,2748,31347,+10%,"+$100,000",,,,,AJRD
+165,,2019-05-16 19:56:12,2019-05-15,AJRD,Henderson James R,Dir,A - Grant,$36.39,2748,118322,+2%,"+$100,000",,,,,AJRD
+166,,2019-05-16 19:55:11,2019-05-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$36.39,2748,115858,+2%,"+$100,000",,,,,AJRD
+167,,2019-05-16 19:54:05,2019-05-15,AJRD,Chilton Kevin P.,Dir,A - Grant,$36.39,2748,7722,+55%,"+$100,000",,,,,AJRD
+168,,2019-05-16 17:06:48,2019-05-15,AJRD,Turchin Martin,Dir,A - Grant,$36.39,1441,119470,+1%,"+$52,438",,,,,AJRD
+169,,2019-05-16 17:03:57,2019-05-15,AJRD,Lord Lance W,Dir,A - Grant,$36.39,720,28599,+3%,"+$26,201",,,,,AJRD
+170,,2019-05-16 17:02:26,2019-05-15,AJRD,Henderson James R,Dir,A - Grant,$36.39,2061,115574,+2%,"+$75,000",,,,,AJRD
+171,,2019-05-16 17:00:31,2019-05-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$36.39,1750,113110,+2%,"+$63,683",,,,,AJRD
+172,,2019-05-16 17:00:31,2019-02-25,AJRD,Corcoran Thomas A,Dir,G - Gift,$0.00,-1000,113110,-1%,-$0,,,,,AJRD
+173,,2019-05-16 16:58:52,2019-05-15,AJRD,Chilton Kevin P.,Dir,A - Grant,$36.39,1441,4974,+41%,"+$52,438",,,,,AJRD
+174,D,2019-05-07 17:25:28,2019-05-06,AJRD,Schumacher John D.,"SVP, Washington Operations",D - Sale to issuer,$37.24,-10000,105632,-9%,"-$372,400",,,,,AJRD
+175,D,2019-05-07 17:25:28,2019-05-06,AJRD,Schumacher John D.,"SVP, Washington Operations",M - OptEx,$13.01,10000,105632,+10%,"+$130,100",,,,,AJRD
+176,,2019-04-12 17:05:37,2019-04-11,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$33.52,-7020,92251,-7%,"-$235,310",,,,,AJRD
+177,,2019-03-27 17:08:20,2019-03-26,AJRD,Drake Eileen P.,"CEO, Pres",S - Sale,$34.42,-29592,522236,-5%,"-$1,018,557",,,,,AJRD
+178,D,2019-03-21 17:29:21,2019-03-20,AJRD,Turchin Martin,Dir,D - Sale to issuer,$34.49,-13619,118029,-10%,"-$469,719",,,,,AJRD
+179,D,2019-03-21 17:29:21,2019-03-20,AJRD,Turchin Martin,Dir,M - OptEx,$6.82,13619,118029,+13%,"+$92,882",,,,,AJRD
+180,D,2019-03-18 16:44:31,2019-03-14,AJRD,Turchin Martin,Dir,D - Sale to issuer,$34.27,-6000,118029,-5%,"-$205,620",,,,,AJRD
+181,D,2019-03-18 16:44:31,2019-03-14,AJRD,Turchin Martin,Dir,M - OptEx,$2.39,6000,118029,+5%,"+$14,340",,,,,AJRD
+182,D,2019-03-04 21:30:53,2019-02-28,AJRD,Lichtenstein Warren G,Exec COB,A - Grant,$0.00,49158,604783,+9%,+$0,,,,,AJRD
+183,D,2019-03-04 19:20:41,2019-02-28,AJRD,Tucker Mark A,COO,A - Grant,$0.00,10990,161806,+7%,+$0,,,,,AJRD
+184,D,2019-03-04 19:20:41,2019-02-28,AJRD,Tucker Mark A,COO,D - Sale to issuer,$37.25,-6510,161806,-4%,"-$242,498",,,,,AJRD
+185,D,2019-03-04 19:20:41,2019-02-28,AJRD,Tucker Mark A,COO,F - Tax,$37.25,-23557,161806,-13%,"-$877,498",,,,,AJRD
+186,D,2019-03-04 19:17:34,2019-02-28,AJRD,Drake Eileen P.,"CEO, Pres",A - Grant,$0.00,150285,551828,+37%,+$0,,,,,AJRD
+187,D,2019-03-04 19:17:34,2019-02-28,AJRD,Drake Eileen P.,"CEO, Pres",D - Sale to issuer,$37.25,-16690,551828,-3%,"-$621,703",,,,,AJRD
+188,D,2019-03-04 19:17:34,2019-02-28,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$37.25,-60403,551828,-10%,"-$2,250,012",,,,,AJRD
+189,D,2019-03-04 19:15:02,2019-02-28,AJRD,Schumacher John D.,"SVP, Washington Operations",A - Grant,$0.00,15355,105628,+17%,+$0,,,,,AJRD
+190,D,2019-03-04 19:15:02,2019-02-28,AJRD,Schumacher John D.,"SVP, Washington Operations",D - Sale to issuer,$37.25,-4033,105628,-4%,"-$150,229",,,,,AJRD
+191,D,2019-03-04 19:15:02,2019-02-28,AJRD,Schumacher John D.,"SVP, Washington Operations",F - Tax,$37.25,-12511,105628,-11%,"-$466,035",,,,,AJRD
+192,D,2019-03-04 19:12:34,2019-02-28,AJRD,Kampani Arjun,"VP, GC, Secretary",A - Grant,$0.00,15322,99271,+18%,+$0,,,,,AJRD
+193,D,2019-03-04 19:12:34,2019-02-28,AJRD,Kampani Arjun,"VP, GC, Secretary",D - Sale to issuer,$37.25,-3941,99271,-4%,"-$146,802",,,,,AJRD
+194,D,2019-03-04 19:12:34,2019-02-28,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$37.25,-14281,99271,-13%,"-$531,967",,,,,AJRD
+195,D,2019-03-04 19:10:27,2019-02-28,AJRD,Lundstrom Paul,"VP, CFO",A - Grant,$0.00,32150,143812,+29%,+$0,,,,,AJRD
+196,D,2019-03-04 19:09:16,2019-02-28,AJRD,Boehle Daniel L.,"VP, Controller",A - Grant,$0.00,5390,31475,+21%,+$0,,,,,AJRD
+197,,2019-02-28 17:08:06,2019-02-27,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$37.12,-1932,478636,0%,"-$71,716",,,,,AJRD
+198,,2019-02-28 17:05:31,2019-02-27,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$37.12,-117,102171,0%,"-$4,343",,,,,AJRD
+199,,2019-02-28 17:03:22,2019-02-27,AJRD,Lundstrom Paul,"VP, CFO",F - Tax,$37.12,-371,111662,0%,"-$13,772",,,,,AJRD
+200,,2019-02-28 17:01:39,2019-02-27,AJRD,Schumacher John D.,"SVP, Washington Operations",F - Tax,$37.12,-71,106817,0%,"-$2,636",,,,,AJRD
+201,,2019-02-28 16:59:50,2019-02-27,AJRD,Tucker Mark A,COO,F - Tax,$37.12,-371,180883,0%,"-$13,772",,,,,AJRD
+202,,2019-02-28 16:57:35,2019-02-27,AJRD,Jones Gregory A.,"SVP, Strategy, Business Dev.",F - Tax,$37.12,-103,28059,0%,"-$3,823",,,,,AJRD
+203,,2019-02-19 17:31:34,2019-02-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,652,118029,+1%,+$0,,,,,AJRD
+204,,2019-02-19 17:30:16,2019-02-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,652,63912,+1%,+$0,,,,,AJRD
+205,,2019-02-19 17:26:57,2019-02-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,325,27879,+1%,+$0,,,,,AJRD
+206,,2019-02-19 17:25:22,2019-02-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,886,113513,+1%,+$0,,,,,AJRD
+207,,2019-02-19 17:23:38,2019-02-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,652,112360,+1%,+$0,,,,,AJRD
+208,,2019-02-19 17:22:02,2019-02-15,AJRD,Chilton Kevin P.,Dir,A - Grant,$0.00,652,3533,+23%,+$0,,,,,AJRD
+209,,2019-02-07 18:45:03,2019-02-05,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$40.58,-8500,480568,-2%,"-$344,930",,,,,AJRD
+210,,2019-02-07 18:43:40,2019-02-05,AJRD,Lundstrom Paul,"VP, CFO",F - Tax,$40.58,-1734,112033,-2%,"-$70,366",,,,,AJRD
+211,,2019-02-07 18:42:09,2019-02-05,AJRD,Tucker Mark A,COO,F - Tax,$40.58,-1731,181254,-1%,"-$70,244",,,,,AJRD
+212,,2019-02-07 18:40:54,2019-02-05,AJRD,Jones Gregory A.,"SVP, Strategy, Business Dev.",F - Tax,$40.58,-1728,28162,-6%,"-$70,122",,,,,AJRD
+213,,2019-02-07 18:39:14,2019-02-05,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$40.58,-513,102288,0%,"-$20,818",,,,,AJRD
+214,,2019-02-07 18:37:56,2019-02-05,AJRD,Schumacher John D.,"SVP, Washington Operations",F - Tax,$40.58,-308,106886,0%,"-$12,499",,,,,AJRD
+215,D,2018-12-18 17:06:27,2018-12-17,AJRD,Corcoran Thomas A,Dir,D - Sale to issuer,$34.66,-3619,111708,-3%,"-$125,435",,,,,AJRD
+216,D,2018-12-18 17:06:27,2018-12-17,AJRD,Corcoran Thomas A,Dir,M - OptEx,$6.82,3619,111708,+3%,"+$24,682",,,,,AJRD
+217,,2018-11-19 16:59:18,2018-11-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,729,117377,+1%,+$0,,,,,AJRD
+218,,2018-11-19 16:56:20,2018-11-15,AJRD,Perry James H,Dir,A - Grant,$0.00,729,114593,+1%,+$0,,,,,AJRD
+219,,2018-11-19 16:53:04,2018-11-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,729,63260,+1%,+$0,,,,,AJRD
+220,,2018-11-19 16:49:52,2018-11-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,364,27554,+1%,+$0,,,,,AJRD
+221,,2018-11-19 16:46:54,2018-11-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,729,112627,+1%,+$0,,,,,AJRD
+222,,2018-11-19 16:43:30,2018-11-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,729,111708,+1%,+$0,,,,,AJRD
+223,,2018-11-19 16:39:51,2018-11-15,AJRD,Chilton Kevin P.,Dir,A - Grant,$0.00,729,2881,+34%,+$0,,,,,AJRD
+224,,2018-11-13 17:14:20,2018-11-12,AJRD,Turchin Martin,Dir,S - Sale,$37.78,-5000,116648,-4%,"-$188,897",,,,,AJRD
+225,D,2018-11-08 16:41:14,2018-11-07,AJRD,Perry James H,Dir,D - Sale to issuer,$38.67,-7355,113864,-6%,"-$284,418",,,,,AJRD
+226,D,2018-11-08 16:41:14,2018-11-07,AJRD,Perry James H,Dir,M - OptEx,$13.23,7355,113864,+7%,"+$97,307",,,,,AJRD
+227,,2018-11-08 16:39:50,2018-11-07,AJRD,Lundstrom Paul,"VP, CFO",F - Tax,$38.67,-7020,113767,-6%,"-$271,463",,,,,AJRD
+228,M,2018-11-06 16:47:47,2018-08-06,AJRD,Lichtenstein Warren G,Exec COB,G - Gift,$0.00,-10623,555625,-2%,-$0,,,,,AJRD
+229,D,2018-11-05 17:40:55,2018-11-02,AJRD,Perry James H,Dir,D - Sale to issuer,$36.86,-19619,113864,-15%,"-$723,156",,,,,AJRD
+230,D,2018-11-05 17:40:55,2018-11-02,AJRD,Perry James H,Dir,M - OptEx,$5.47,19619,113864,+21%,"+$107,222",,,,,AJRD
+231,,2018-10-31 16:58:13,2018-10-30,AJRD,Chilton Kevin P.,Dir,A - Grant,$0.00,2152,2152,New,+$0,,,,,AJRD
+232,,2018-10-05 19:55:40,2018-10-04,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$32.96,-10530,489068,-2%,"-$347,069",,,,,AJRD
+233,D,2018-08-30 17:04:37,2018-08-29,AJRD,Corcoran Thomas A,Dir,D - Sale to issuer,$35.92,-10000,110979,-8%,"-$359,200",,,,,AJRD
+234,D,2018-08-30 17:04:37,2018-08-29,AJRD,Corcoran Thomas A,Dir,M - OptEx,$6.82,10000,110979,+10%,"+$68,200",,,,,AJRD
+235,D,2018-08-23 17:12:59,2018-08-21,AJRD,Corcoran Thomas A,Dir,D - Sale to issuer,$36.62,-6000,110979,-5%,"-$219,720",,,,,AJRD
+236,D,2018-08-23 17:12:59,2018-08-21,AJRD,Corcoran Thomas A,Dir,M - OptEx,$2.39,6000,110979,+6%,"+$14,340",,,,,AJRD
+237,,2018-08-21 19:01:40,2018-08-17,AJRD,Tucker Mark A,COO,F - Tax,$35.85,-1622,182985,-1%,"-$58,149",,,,,AJRD
+238,,2018-08-21 18:57:22,2018-08-17,AJRD,Schumacher John D.,"VP, Washington Operations",F - Tax,$35.85,-262,107198,0%,"-$9,393",,,,,AJRD
+239,,2018-08-21 18:53:01,2018-08-17,AJRD,Lundstrom Paul,"VP, CFO",F - Tax,$35.85,-1622,120787,-1%,"-$58,149",,,,,AJRD
+240,,2018-08-21 18:49:09,2018-08-17,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$35.85,-459,102801,0%,"-$16,455",,,,,AJRD
+241,,2018-08-21 18:44:18,2018-08-17,AJRD,Jones Gregory A.,"SVP, Strategy, Business Dev.",F - Tax,$35.85,-459,29890,-2%,"-$16,455",,,,,AJRD
+242,,2018-08-21 18:39:50,2018-08-17,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$35.85,-8460,499598,-2%,"-$303,291",,,,,AJRD
+243,,2018-08-17 17:39:32,2018-08-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,724,121648,+1%,+$0,,,,,AJRD
+244,,2018-08-17 17:39:32,2018-08-16,AJRD,Turchin Martin,Dir,S - Sale,$36.43,-5000,121648,-4%,"-$182,150",,,,,AJRD
+245,,2018-08-17 17:38:16,2018-08-15,AJRD,Perry James H,Dir,A - Grant,$0.00,724,113864,+1%,+$0,,,,,AJRD
+246,,2018-08-17 17:36:56,2018-08-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,724,62531,+1%,+$0,,,,,AJRD
+247,,2018-08-17 17:35:44,2018-08-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,361,27190,+1%,+$0,,,,,AJRD
+248,,2018-08-17 17:34:13,2018-08-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,724,111898,+1%,+$0,,,,,AJRD
+249,D,2018-08-17 17:32:31,2018-08-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,724,110979,+1%,+$0,,,,,AJRD
+250,D,2018-08-17 17:32:31,2018-08-16,AJRD,Corcoran Thomas A,Dir,D - Sale to issuer,$36.01,-3000,110979,-3%,"-$108,030",,,,,AJRD
+251,D,2018-08-17 17:32:31,2018-06-25,AJRD,Corcoran Thomas A,Dir,G - Gift,$0.00,-1000,110979,-1%,-$0,,,,,AJRD
+252,D,2018-08-17 17:32:31,2018-08-16,AJRD,Corcoran Thomas A,Dir,M - OptEx,$7.44,3000,110979,+3%,"+$22,320",,,,,AJRD
+253,,2018-08-15 16:07:49,2018-08-14,AJRD,Boehle Daniel L.,"VP, Controller",F - Tax,$37.29,-1153,26085,-4%,"-$42,995",,,,,AJRD
+254,D,2018-08-06 19:25:42,2018-08-03,AJRD,Turchin Martin,Dir,D - Sale to issuer,$34.21,-9000,125924,-7%,"-$307,890",,,,,AJRD
+255,D,2018-08-06 19:25:42,2018-08-03,AJRD,Turchin Martin,Dir,G - Gift,$0.00,-500,125924,0%,-$0,,,,,AJRD
+256,D,2018-08-06 19:25:42,2018-08-03,AJRD,Turchin Martin,Dir,M - OptEx,$8.48,9000,125924,+8%,"+$76,320",,,,,AJRD
+257,,2018-08-06 16:53:27,2018-08-02,AJRD,Perry James H,Dir,S - Sale,$34.33,-25225,113140,-18%,"-$865,974",,,,,AJRD
+258,D,2018-08-03 17:50:21,2018-08-02,AJRD,Lichtenstein Warren G,Exec COB,D - Sale to issuer,$34.45,-18000,566248,-3%,"-$620,100",,,,,AJRD
+259,D,2018-08-03 17:50:21,2018-08-02,AJRD,Lichtenstein Warren G,Exec COB,M - OptEx,$8.48,18000,566248,+3%,"+$152,640",,,,,AJRD
+260,D,2018-06-13 17:38:36,2018-06-12,AJRD,Turchin Martin,Dir,D - Sale to issuer,$29.93,-9000,126424,-7%,"-$269,370",,,,,AJRD
+261,D,2018-06-13 17:38:36,2018-06-12,AJRD,Turchin Martin,Dir,M - OptEx,$8.48,9000,126424,+8%,"+$76,320",,,,,AJRD
+262,,2018-05-17 17:43:35,2018-05-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,6279,126424,+5%,+$0,,,,,AJRD
+263,,2018-05-17 17:41:34,2018-05-15,AJRD,Perry James H,Dir,A - Grant,$0.00,6547,138365,+5%,+$0,,,,,AJRD
+264,,2018-05-17 17:39:54,2018-05-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,5874,61807,+11%,+$0,,,,,AJRD
+265,,2018-05-17 17:37:41,2018-05-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,4528,26829,+20%,+$0,,,,,AJRD
+266,,2018-05-17 17:35:39,2018-05-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,7086,111174,+7%,+$0,,,,,AJRD
+267,,2018-05-17 17:33:34,2018-05-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,5605,111255,+5%,+$0,,,,,AJRD
+268,,2018-04-12 17:03:34,2018-04-11,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$28.98,-6611,103260,-6%,"-$191,587",,,,,AJRD
+269,D,2018-03-22 18:03:55,2018-03-21,AJRD,Lichtenstein Warren G,Exec COB,D - Sale to issuer,$27.82,-15454,566248,-3%,"-$429,930",,,,,AJRD
+270,D,2018-03-22 18:03:55,2018-03-21,AJRD,Lichtenstein Warren G,Exec COB,M - OptEx,$6.01,15454,566248,+3%,"+$92,879",,,,,AJRD
+271,D,2018-03-12 17:00:20,2018-03-09,AJRD,Turchin Martin,Dir,D - Sale to issuer,$28.11,-15454,120145,-11%,"-$434,412",,,,,AJRD
+272,D,2018-03-12 17:00:20,2018-03-09,AJRD,Turchin Martin,Dir,M - OptEx,$6.01,15454,120145,+15%,"+$92,879",,,,,AJRD
+273,,2018-03-05 17:10:00,2018-03-02,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$27.44,-12726,508058,-2%,"-$349,201",,,,,AJRD
+274,D,2018-03-01 18:16:51,2018-02-27,AJRD,Drake Eileen P.,"CEO, Pres",A - Grant,$0.00,150038,520784,+40%,+$0,,,,,AJRD
+275,D,2018-03-01 18:16:51,2018-02-27,AJRD,Drake Eileen P.,"CEO, Pres",D - Sale to issuer,$27.25,-11738,520784,-2%,"-$319,861",,,,,AJRD
+276,D,2018-03-01 18:16:51,2018-02-27,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$27.25,-10285,520784,-2%,"-$280,266",,,,,AJRD
+277,D,2018-03-01 18:15:36,2018-02-27,AJRD,Boehle Daniel L.,"VP, Controller",A - Grant,$0.00,8504,27238,+45%,+$0,,,,,AJRD
+278,D,2018-03-01 18:14:26,2018-02-27,AJRD,Jones Gregory A.,"SVP, Strategy, Business Dev.",A - Grant,$0.00,23849,30349,+367%,+$0,,,,,AJRD
+279,D,2018-03-01 18:13:12,2018-02-27,AJRD,Kampani Arjun,"VP, GC, Secretary",A - Grant,$0.00,23113,109871,+27%,+$0,,,,,AJRD
+280,D,2018-03-01 18:11:51,2018-02-27,AJRD,Lundstrom Paul,"VP, CFO",A - Grant,$0.00,49381,122409,+68%,+$0,,,,,AJRD
+281,D,2018-03-01 18:09:51,2018-02-27,AJRD,Tucker Mark A,COO,A - Grant,$0.00,50357,184607,+38%,+$0,,,,,AJRD
+282,D,2018-03-01 18:09:51,2018-02-27,AJRD,Tucker Mark A,COO,D - Sale to issuer,$27.25,-8283,184607,-4%,"-$225,712",,,,,AJRD
+283,D,2018-03-01 18:09:51,2018-02-27,AJRD,Tucker Mark A,COO,F - Tax,$27.25,-5143,184607,-3%,"-$140,147",,,,,AJRD
+284,D,2018-03-01 18:08:25,2018-02-27,AJRD,Schumacher John D.,"VP, Washington Operations",A - Grant,$0.00,23733,107471,+28%,+$0,,,,,AJRD
+285,D,2018-03-01 18:08:25,2018-02-27,AJRD,Schumacher John D.,"VP, Washington Operations",D - Sale to issuer,$27.25,-7636,107471,-7%,"-$208,081",,,,,AJRD
+286,D,2018-03-01 18:08:25,2018-02-27,AJRD,Schumacher John D.,"VP, Washington Operations",F - Tax,$27.25,-4165,107471,-4%,"-$113,496",,,,,AJRD
+287,D,2018-02-28 17:02:30,2018-02-27,AJRD,Corcoran Thomas A,Dir,D - Sale to issuer,$27.25,-15454,105650,-13%,"-$421,122",,,,,AJRD
+288,D,2018-02-28 17:02:30,2018-02-27,AJRD,Corcoran Thomas A,Dir,M - OptEx,$6.01,15454,105650,+17%,"+$92,879",,,,,AJRD
+289,,2018-02-20 12:23:13,2018-02-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,951,120145,+1%,+$0,,,,,AJRD
+290,,2018-02-20 12:21:35,2018-02-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,951,55933,+2%,+$0,,,,,AJRD
+291,,2018-02-20 12:19:47,2018-02-15,AJRD,Perry James H,Dir,A - Grant,$0.00,951,131818,+1%,+$0,,,,,AJRD
+292,,2018-02-20 12:18:13,2018-02-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,475,22301,+2%,+$0,,,,,AJRD
+293,,2018-02-20 12:16:20,2018-02-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,951,104088,+1%,+$0,,,,,AJRD
+294,,2018-02-20 12:14:52,2018-02-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,951,105650,+1%,+$0,,,,,AJRD
+295,,2018-02-06 17:04:36,2018-02-05,AJRD,Jones Gregory A.,"SVP, Strategy, Business Dev.",A - Grant,$0.00,6500,6500,New,+$0,,,,,AJRD
+296,,2017-12-04 15:39:24,2017-11-29,AJRD,Turchin Martin,Dir,G - Gift,$0.00,-1000,120194,-1%,-$0,,,,,AJRD
+297,,2017-12-04 15:39:24,2017-11-29,AJRD,Turchin Martin,Dir,S - Sale,$30.73,-10000,120194,-8%,"-$307,264",,,,,AJRD
+298,,2017-12-04 14:47:44,2017-11-30,AJRD,Corcoran Thomas A,Dir,G - Gift,$0.00,-1200,104699,-1%,-$0,,,,,AJRD
+299,,2017-11-16 12:56:15,2017-11-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,909,131194,+1%,+$0,,,,,AJRD
+300,,2017-11-16 12:54:55,2017-11-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,909,54982,+2%,+$0,,,,,AJRD
+301,,2017-11-16 12:53:08,2017-11-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,454,21826,+2%,+$0,,,,,AJRD
+302,,2017-11-16 12:51:38,2017-11-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,909,103137,+1%,+$0,,,,,AJRD
+303,,2017-11-16 12:49:15,2017-11-15,AJRD,Perry James H,Dir,A - Grant,$0.00,909,130867,+1%,+$0,,,,,AJRD
+304,,2017-11-16 12:47:57,2017-11-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,909,105899,+1%,+$0,,,,,AJRD
+305,D,2017-11-13 18:25:08,2017-11-08,AJRD,Henderson James R,Dir,D - Sale to issuer,$30.27,-60606,102228,-37%,"-$1,834,544",,,,,AJRD
+306,D,2017-11-13 18:25:08,2017-11-08,AJRD,Henderson James R,Dir,M - OptEx,$7.38,60606,102228,+146%,"+$447,158",,,,,AJRD
+307,DM,2017-11-13 18:25:08,2017-11-08,AJRD,Henderson James R,Dir,S - Sale+OE,$29.97,-53234,102228,-34%,"-$1,595,526",,,,,AJRD
+308,D,2017-11-09 17:39:39,2017-11-07,AJRD,Perry James H,Dir,D - Sale to issuer,$29.97,-33454,129958,-20%,"-$1,002,616",,,,,AJRD
+309,D,2017-11-09 17:39:39,2017-11-07,AJRD,Perry James H,Dir,M - OptEx,$7.34,33454,129958,+35%,"+$245,519",,,,,AJRD
+310,D,2017-11-09 17:39:39,2017-11-08,AJRD,Perry James H,Dir,S - Sale+OE,$30.00,-25001,129958,-16%,"-$750,030",,,,,AJRD
+311,,2017-11-08 11:38:49,2017-11-07,AJRD,Lundstrom Paul,"VP, CFO",F - Tax,$29.97,-7101,73028,-9%,"-$212,817",,,,,AJRD
+312,,2017-08-16 12:43:09,2017-08-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,756,130285,+1%,+$0,,,,,AJRD
+313,,2017-08-16 12:41:25,2017-08-15,AJRD,Perry James H,Dir,A - Grant,$0.00,756,154959,0%,+$0,,,,,AJRD
+314,,2017-08-16 12:39:57,2017-08-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,756,54073,+1%,+$0,,,,,AJRD
+315,,2017-08-16 12:38:13,2017-08-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,378,21372,+2%,+$0,,,,,AJRD
+316,,2017-08-16 12:36:27,2017-08-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,756,155462,0%,+$0,,,,,AJRD
+317,,2017-08-16 12:34:38,2017-08-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,756,104990,+1%,+$0,,,,,AJRD
+318,,2017-05-17 11:53:26,2017-05-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,3726,129529,+3%,+$0,,,,,AJRD
+319,,2017-05-17 11:52:01,2017-05-15,AJRD,Perry James H,Dir,A - Grant,$0.00,4554,154203,+3%,+$0,,,,,AJRD
+320,,2017-05-17 11:50:33,2017-05-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,3186,53317,+6%,+$0,,,,,AJRD
+321,,2017-05-17 11:49:08,2017-05-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,1251,20994,+6%,+$0,,,,,AJRD
+322,,2017-05-17 11:47:52,2017-05-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,4662,154706,+3%,+$0,,,,,AJRD
+323,,2017-05-17 11:46:33,2017-05-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,2826,104234,+3%,+$0,,,,,AJRD
+324,,2017-05-08 11:37:45,2017-05-04,AJRD,Corcoran Thomas A,Dir,A - Grant,$22.03,4085,101408,+4%,"+$89,993",0.0,-8.0,,,AJRD
+325,,2017-05-08 11:36:13,2017-05-04,AJRD,Lord Lance W,Dir,A - Grant,$22.03,4085,19743,+26%,"+$89,993",0.0,-8.0,,,AJRD
+326,,2017-05-08 11:35:00,2017-05-04,AJRD,McPeak Merrill A,Dir,A - Grant,$22.03,4085,50131,+9%,"+$89,993",0.0,-8.0,,,AJRD
+327,,2017-05-08 11:33:11,2017-05-04,AJRD,Henderson James R,Dir,A - Grant,$22.03,4085,150044,+3%,"+$89,993",0.0,-8.0,,,AJRD
+328,,2017-05-08 11:29:35,2017-05-04,AJRD,Turchin Martin,Dir,A - Grant,$22.03,4085,125803,+3%,"+$89,993",0.0,-8.0,,,AJRD
+329,,2017-05-08 11:27:36,2017-05-04,AJRD,Perry James H,Dir,A - Grant,$22.03,4085,149649,+3%,"+$89,993",0.0,-8.0,,,AJRD
+330,D,2017-05-03 19:15:06,2017-05-01,AJRD,Tucker Mark A,COO,A - Grant,$0.00,41159,147676,+39%,+$0,0.0,-4.0,,,AJRD
+331,D,2017-05-03 19:11:13,2017-05-01,AJRD,Simpson James S.,"SVP - Strategy, Bus Dev",A - Grant,$0.00,25162,67833,+59%,+$0,0.0,-4.0,,,AJRD
+332,D,2017-05-03 19:03:01,2017-05-01,AJRD,Schumacher John D.,"VP, Washington Operations",A - Grant,$0.00,23611,95545,+33%,+$0,0.0,-4.0,,,AJRD
+333,D,2017-05-03 18:55:46,2017-05-01,AJRD,Lundstrom Paul,"VP, CFO",A - Grant,$0.00,40129,80129,+100%,+$0,0.0,-4.0,,,AJRD
+334,D,2017-05-03 18:53:11,2017-05-01,AJRD,Kampani Arjun,"VP, GC, Secretary",A - Grant,$0.00,22685,86758,+35%,+$0,0.0,-4.0,,,AJRD
+335,D,2017-05-03 18:50:19,2017-05-01,AJRD,Drake Eileen P.,"CEO, Pres",A - Grant,$0.00,97718,392769,+33%,+$0,0.0,-4.0,,,AJRD
+336,D,2017-05-03 18:47:36,2017-05-01,AJRD,Adams Steven A,"VP, Controller",A - Grant,$0.00,10906,20906,+109%,+$0,0.0,-4.0,,,AJRD
+337,,2017-04-13 16:29:16,2017-04-11,AJRD,Kampani Arjun,"VP, GC, Secretary",F - Tax,$21.75,-6958,64073,-10%,"-$151,337",2.0,5.0,-4.0,,AJRD
+338,,2017-04-11 18:59:27,2017-04-07,AJRD,Tucker Mark A,COO,F - Tax,$21.50,-1796,106517,-2%,"-$38,614",-2.0,1.0,-4.0,,AJRD
+339,,2017-04-11 18:57:03,2017-04-07,AJRD,Schumacher John D.,"VP, Washington Operations",F - Tax,$21.50,-1438,71933,-2%,"-$30,917",-2.0,1.0,-4.0,,AJRD
+340,,2017-04-03 12:16:46,2017-04-03,AJRD,Adams Steven A,"VP, Controller",A - Grant,$0.00,10000,10000,New,+$0,-3.0,-1.0,2.0,,AJRD
+341,D,2017-03-08 12:01:28,2017-03-06,AJRD,Lichtenstein Warren G,Exec COB,D - Sale to issuer,$21.58,-27479,592219,-4%,"-$592,997",0.0,-1.0,-4.0,,AJRD
+342,D,2017-03-08 12:01:28,2017-03-06,AJRD,Lichtenstein Warren G,Exec COB,M - OptEx,$4.63,27479,592219,+5%,"+$127,228",0.0,-1.0,-4.0,,AJRD
+343,D,2017-03-08 11:55:02,2017-03-06,AJRD,Turchin Martin,Dir,D - Sale to issuer,$21.58,-27479,121718,-18%,"-$592,997",0.0,-1.0,-4.0,,AJRD
+344,D,2017-03-08 11:55:02,2017-03-06,AJRD,Turchin Martin,Dir,M - OptEx,$4.63,27479,121718,+29%,"+$127,228",0.0,-1.0,-4.0,,AJRD
+345,D,2017-03-08 11:53:36,2017-03-06,AJRD,Perry James H,Dir,D - Sale to issuer,$21.58,-27479,145564,-16%,"-$592,997",0.0,-1.0,-4.0,,AJRD
+346,D,2017-03-08 11:53:36,2017-03-06,AJRD,Perry James H,Dir,M - OptEx,$4.63,27479,145564,+23%,"+$127,228",0.0,-1.0,-4.0,,AJRD
+347,D,2017-03-08 11:50:14,2017-03-06,AJRD,Corcoran Thomas A,Dir,D - Sale to issuer,$21.58,-27479,97323,-22%,"-$592,997",0.0,-1.0,-4.0,,AJRD
+348,D,2017-03-08 11:50:14,2017-03-06,AJRD,Corcoran Thomas A,Dir,M - OptEx,$4.63,27479,97323,+39%,"+$127,228",0.0,-1.0,-4.0,,AJRD
+349,,2017-03-02 11:40:37,2017-02-28,AJRD,Simpson James S.,"SVP - Strategy, Bus Dev",D - Sale to issuer,$19.39,-834,42671,-2%,"-$16,171",9.0,11.0,8.0,,AJRD
+350,,2017-03-02 11:40:37,2017-02-28,AJRD,Simpson James S.,"SVP - Strategy, Bus Dev",F - Tax,$19.39,-738,42671,-2%,"-$14,310",9.0,11.0,8.0,,AJRD
+351,,2017-03-02 11:38:53,2017-02-28,AJRD,Tucker Mark A,COO,D - Sale to issuer,$19.39,-9488,108313,-8%,"-$183,972",9.0,11.0,8.0,,AJRD
+352,,2017-03-02 11:38:53,2017-02-28,AJRD,Tucker Mark A,COO,F - Tax,$19.39,-7309,108313,-6%,"-$141,722",9.0,11.0,8.0,,AJRD
+353,,2017-03-02 11:37:27,2017-02-28,AJRD,Schumacher John D.,"VP, Washington Operations",D - Sale to issuer,$19.39,-8625,73382,-11%,"-$167,239",9.0,11.0,8.0,,AJRD
+354,,2017-03-02 11:37:27,2017-02-28,AJRD,Schumacher John D.,"VP, Washington Operations",F - Tax,$19.39,-5907,73382,-7%,"-$114,537",9.0,11.0,8.0,,AJRD
+355,,2017-03-02 11:35:27,2017-02-28,AJRD,Redd Kathleen E.,"VP, CFO, Asst. Secretary",D - Sale to issuer,$19.39,-13878,187946,-7%,"-$269,094",9.0,11.0,8.0,,AJRD
+356,M,2017-03-02 11:35:27,2017-02-28,AJRD,Redd Kathleen E.,"VP, CFO, Asst. Secretary",F - Tax,$19.49,-18261,187946,-9%,"-$355,831",9.0,11.0,8.0,,AJRD
+357,,2017-02-16 18:15:40,2017-02-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,1068,145959,+1%,+$0,0.0,-1.0,18.0,,AJRD
+358,,2017-02-16 18:14:31,2017-02-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,534,15658,+4%,+$0,0.0,-1.0,18.0,,AJRD
+359,,2017-02-16 18:13:16,2017-02-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,1068,121718,+1%,+$0,0.0,-1.0,18.0,,AJRD
+360,,2017-02-16 18:12:11,2017-02-15,AJRD,Perry James H,Dir,A - Grant,$0.00,1068,145564,+1%,+$0,0.0,-1.0,18.0,,AJRD
+361,,2017-02-16 18:10:58,2017-02-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,1068,46046,+2%,+$0,0.0,-1.0,18.0,,AJRD
+362,,2017-02-16 18:09:33,2017-02-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,1068,97323,+1%,+$0,0.0,-1.0,18.0,,AJRD
+363,D,2017-01-09 17:43:13,2016-01-05,AJRD,Lichtenstein Warren G,Exec COB,C - Converted deriv,$9.00,55546,592219,-9%,"$499,914",1.0,3.0,5.0,,AJRD
+364,,2017-01-05 11:43:23,2017-01-03,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$18.41,-15394,295051,-5%,"-$283,404",0.0,-1.0,1.0,,AJRD
+365,,2016-12-01 13:57:19,2016-11-29,AJRD,Corcoran Thomas A,Dir,G - Gift,$0.00,-2000,96255,-2%,-$0,0.0,5.0,-12.0,,AJRD
+366,,2016-11-25 12:26:30,2016-11-22,AJRD,Schumacher John D.,"VP, Washington Operations",F - Tax,$20.92,-1125,87920,-1%,"-$23,535",2.0,-1.0,-11.0,,AJRD
+367,,2016-11-25 12:24:44,2016-11-22,AJRD,Redd Kathleen E.,"VP, CFO, Asst. Secretary",F - Tax,$20.92,-3367,220087,-2%,"-$70,438",2.0,-1.0,-11.0,,AJRD
+368,,2016-11-17 16:40:40,2016-11-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,1021,120650,+1%,+$0,-1.0,1.0,-12.0,,AJRD
+369,,2016-11-17 16:40:40,2016-11-16,AJRD,Turchin Martin,Dir,G - Gift,$0.00,-1000,120650,-1%,-$0,-1.0,1.0,-12.0,,AJRD
+370,,2016-11-17 16:40:40,2016-11-17,AJRD,Turchin Martin,Dir,S - Sale,$20.45,-10000,120650,-8%,"-$204,500",-1.0,1.0,-12.0,,AJRD
+371,,2016-11-17 14:12:34,2016-11-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,1021,98255,+1%,+$0,1.0,1.0,-11.0,,AJRD
+372,,2016-11-17 14:11:17,2016-11-15,AJRD,Perry James H,Dir,A - Grant,$0.00,1021,144496,+1%,+$0,1.0,1.0,-11.0,,AJRD
+373,,2016-11-17 14:10:11,2016-11-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,672,15124,+5%,+$0,1.0,1.0,-11.0,,AJRD
+374,,2016-11-17 14:09:03,2016-11-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,1021,44978,+2%,+$0,1.0,1.0,-11.0,,AJRD
+375,D,2016-11-17 14:07:02,2016-11-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,1021,144891,+1%,+$0,1.0,1.0,-11.0,,AJRD
+376,D,2016-11-17 14:07:02,2016-11-11,AJRD,Henderson James R,Dir,D - Sale to issuer,$20.27,-52512,144891,-27%,"-$1,064,418",1.0,1.0,-11.0,,AJRD
+377,D,2016-11-17 14:07:02,2016-11-11,AJRD,Henderson James R,Dir,M - OptEx,$5.14,52512,144891,+57%,"+$270,145",1.0,1.0,-11.0,,AJRD
+378,,2016-11-09 12:39:56,2016-11-07,AJRD,Lundstrom Paul,"VP, CFO",A - Grant,$0.00,40000,40000,New,+$0,12.0,23.0,16.0,26.0,AJRD
+379,,2016-10-11 12:21:03,2016-10-07,AJRD,Tucker Mark A,COO,F - Tax,$17.62,-3206,125110,-2%,"-$56,490",-2.0,-4.0,-7.0,23.0,AJRD
+380,,2016-09-29 11:27:31,2016-09-28,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$18.02,-20872,310445,-6%,"-$376,113",-3.0,-3.0,-4.0,19.0,AJRD
+381,D,2016-09-26 17:07:35,2016-09-23,AJRD,Perry James H,Dir,D - Sale to issuer,$18.05,-12000,143475,-8%,"-$216,600",0.0,-1.0,-6.0,20.0,AJRD
+382,D,2016-09-26 17:07:35,2016-09-23,AJRD,Perry James H,Dir,M - OptEx,$5.63,12000,143475,+9%,"+$67,560",0.0,-1.0,-6.0,20.0,AJRD
+383,D,2016-09-21 18:25:41,2016-09-21,AJRD,Turchin Martin,Dir,D - Sale to issuer,$17.66,-12000,130629,-8%,"-$211,920",2.0,1.0,-3.0,22.0,AJRD
+384,D,2016-09-21 18:25:41,2016-09-21,AJRD,Turchin Martin,Dir,M - OptEx,$5.63,12000,130629,+10%,"+$67,560",2.0,1.0,-3.0,22.0,AJRD
+385,D,2016-09-21 17:06:49,2016-09-19,AJRD,Lichtenstein Warren G,Exec COB,D - Sale to issuer,$17.59,-12000,536673,-2%,"-$211,080",2.0,1.0,-3.0,22.0,AJRD
+386,D,2016-09-21 17:06:49,2016-09-19,AJRD,Lichtenstein Warren G,Exec COB,M - OptEx,$5.63,12000,536673,+2%,"+$67,560",2.0,1.0,-3.0,22.0,AJRD
+387,D,2016-09-12 15:18:39,2016-09-08,AJRD,Corcoran Thomas A,Dir,D - Sale to issuer,$18.06,-12000,97234,-11%,"-$216,720",1.0,0.0,0.0,25.0,AJRD
+388,D,2016-09-12 15:18:39,2016-09-08,AJRD,Corcoran Thomas A,Dir,M - OptEx,$5.63,12000,97234,+14%,"+$67,560",1.0,0.0,0.0,25.0,AJRD
+389,D,2016-08-22 18:48:43,2016-08-19,AJRD,Lichtenstein Warren G,Exec COB,A - Grant,$0.00,380000,536673,+243%,+$0,0.0,-1.0,-3.0,7.0,AJRD
+390,,2016-08-17 13:16:52,2016-08-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,1704,43957,+4%,+$0,-2.0,2.0,0.0,10.0,AJRD
+391,,2016-08-17 13:14:08,2016-08-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,1156,130629,+1%,+$0,-2.0,2.0,0.0,10.0,AJRD
+392,,2016-08-17 13:09:43,2016-08-15,AJRD,Perry James H,Dir,A - Grant,$0.00,1429,143475,+1%,+$0,-2.0,2.0,0.0,10.0,AJRD
+393,,2016-08-17 13:07:59,2016-08-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,714,14452,+5%,+$0,-2.0,2.0,0.0,10.0,AJRD
+394,,2016-08-17 13:06:21,2016-08-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,1156,143870,+1%,+$0,-2.0,2.0,0.0,10.0,AJRD
+395,,2016-08-17 13:04:34,2016-08-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,1429,97234,+1%,+$0,-2.0,2.0,0.0,10.0,AJRD
+396,AD,2016-07-08 10:19:08,2016-04-11,AJRD,Kampani Arjun,"VP, Gen. Counsel, Secretary",A - Grant,$0.00,71031,71031,New,+$0,3.0,3.0,7.0,3.0,AJRD
+397,,2016-05-17 15:37:18,2016-05-16,AJRD,Turchin Martin,Dir,A - Grant,$0.00,5652,129473,+5%,+$0,-2.0,-4.0,-2.0,15.0,AJRD
+398,,2016-05-17 15:35:31,2016-05-16,AJRD,Perry James H,Dir,A - Grant,$0.00,7144,142046,+5%,+$0,-2.0,-4.0,-2.0,15.0,AJRD
+399,,2016-05-17 15:32:46,2016-05-16,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,5524,42253,+15%,+$0,-2.0,-4.0,-2.0,15.0,AJRD
+400,,2016-05-17 15:31:17,2016-05-16,AJRD,Lord Lance W,Dir,A - Grant,$0.00,1866,13738,+16%,+$0,-2.0,-4.0,-2.0,15.0,AJRD
+401,,2016-05-17 15:29:52,2016-05-16,AJRD,Lichtenstein Warren G,Dir,A - Grant,$0.00,5716,156673,+4%,+$0,-2.0,-4.0,-2.0,15.0,AJRD
+402,,2016-05-17 15:25:39,2016-05-16,AJRD,Henderson James R,Dir,A - Grant,$0.00,7230,142714,+5%,+$0,-2.0,-4.0,-2.0,15.0,AJRD
+403,,2016-05-17 15:23:53,2016-05-16,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,4926,95805,+5%,+$0,-2.0,-4.0,-2.0,15.0,AJRD
+404,,2016-05-10 17:37:22,2016-05-09,AJRD,Redd Kathleen E.,"VP, CFO, Asst. Secretary",F - Tax,$0.00,-19058,223453,-8%,-$0,0.0,-3.0,1.0,-11.0,AJRD
+405,,2016-05-03 17:02:02,2016-05-02,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,4912,36729,+15%,+$0,-1.0,0.0,-1.0,-3.0,AJRD
+406,,2016-05-03 17:00:48,2016-05-02,AJRD,Perry James H,Dir,A - Grant,$0.00,4912,134902,+4%,+$0,-1.0,0.0,-1.0,-3.0,AJRD
+407,,2016-05-03 16:59:19,2016-05-02,AJRD,Lord Lance W,Dir,A - Grant,$0.00,4912,11872,+71%,+$0,-1.0,0.0,-1.0,-3.0,AJRD
+408,,2016-05-03 16:55:53,2016-05-02,AJRD,Henderson James R,Dir,A - Grant,$0.00,4912,135484,+4%,+$0,-1.0,0.0,-1.0,-3.0,AJRD
+409,,2016-05-03 16:54:49,2016-05-02,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,4912,90879,+6%,+$0,-1.0,0.0,-1.0,-3.0,AJRD
+410,,2016-05-03 16:53:00,2016-05-02,AJRD,Turchin Martin,Dir,A - Grant,$0.00,4912,123821,+4%,+$0,-1.0,0.0,-1.0,-3.0,AJRD
+411,,2016-05-03 16:35:52,2016-05-02,AJRD,Lichtenstein Warren G,Dir,A - Grant,$0.00,11462,150957,+8%,+$0,-1.0,0.0,-1.0,-3.0,AJRD
+412,D,2016-04-12 16:37:09,2016-04-11,AJRD,Kampani Arjun,"VP, Gen. Counsel, Secretary",A - Grant,$0.00,70507,70507,New,+$0,4.0,11.0,13.0,11.0,AJRD
+413,D,2016-04-07 21:18:46,2016-04-05,AJRD,Tucker Mark A,COO,A - Grant,$0.00,51252,128316,+67%,+$0,0.0,4.0,10.0,10.0,AJRD
+414,D,2016-04-07 21:16:14,2016-04-05,AJRD,Schumacher John D.,"VP, Business Relations",A - Grant,$0.00,31753,89039,+55%,+$0,0.0,4.0,10.0,10.0,AJRD
+415,D,2016-04-07 21:14:00,2016-04-05,AJRD,Simpson James S.,"SVP - Strategy, Bus Dev",A - Grant,$0.00,34168,44243,+339%,+$0,0.0,4.0,10.0,10.0,AJRD
+416,D,2016-04-07 21:11:41,2016-04-05,AJRD,Redd Kathleen E.,"VP, CFO, Asst. Secretary",A - Grant,$0.00,54383,242510,+29%,+$0,0.0,4.0,10.0,10.0,AJRD
+417,D,2016-04-07 21:09:14,2016-04-05,AJRD,Drake Eileen P.,"CEO, Pres",A - Grant,$0.00,131414,331317,+66%,+$0,0.0,4.0,10.0,10.0,AJRD
+418,A,2016-04-01 17:35:03,2016-03-03,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$16.41,-10315,199903,-5%,"-$169,269",-1.0,-4.0,10.0,10.0,AJRD
+419,,2016-03-07 08:03:42,2016-03-03,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$1.00,-1,210217,0%,-$1,0.0,-2.0,-6.0,7.0,AJRD
+420,,2016-02-22 17:00:07,2016-02-18,AJRD,Cambria Christopher C,"VP, Gen. Counsel, Secretary",D - Sale to issuer,$0.00,-11785,82829,-12%,-$0,-2.0,-2.0,3.0,11.0,AJRD
+421,,2016-02-22 16:57:43,2016-02-18,AJRD,Redd Kathleen E.,"VP, CFO, Asst. Secretary",D - Sale to issuer,$0.00,-24191,188127,-11%,-$0,-2.0,-2.0,3.0,11.0,AJRD
+422,,2016-02-22 16:51:38,2016-02-18,AJRD,Schumacher John D.,"VP, Washington Operations",D - Sale to issuer,$0.00,-12741,57286,-18%,-$0,-2.0,-2.0,3.0,11.0,AJRD
+423,,2016-01-20 07:04:31,2016-01-15,AJRD,Perry James H,Dir,A - Grant,$15.03,1371,129990,+1%,"+$20,606",4.0,6.0,6.0,23.0,AJRD
+424,,2016-01-20 07:00:49,2016-01-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$15.03,1371,85967,+2%,"+$20,606",4.0,6.0,6.0,23.0,AJRD
+425,,2016-01-20 06:58:37,2016-01-15,AJRD,Henderson James R,Dir,A - Grant,$15.03,1371,130572,+1%,"+$20,606",4.0,6.0,6.0,23.0,AJRD
+426,,2016-01-20 06:55:59,2016-01-15,AJRD,Lord Lance W,Dir,A - Grant,$15.03,685,6960,+11%,"+$10,296",4.0,6.0,6.0,23.0,AJRD
+427,,2016-01-20 06:52:41,2016-01-15,AJRD,McPeak Merrill A,Dir,A - Grant,$15.03,1371,31817,+5%,"+$20,606",4.0,6.0,6.0,23.0,AJRD
+428,,2016-01-20 06:50:25,2016-01-15,AJRD,Turchin Martin,Dir,A - Grant,$15.03,1371,118909,+1%,"+$20,606",4.0,6.0,6.0,23.0,AJRD
+429,,2016-01-19 16:30:24,2016-01-15,AJRD,Lichtenstein Warren G,Dir,A - Grant,$0.00,2743,139495,+2%,+$0,4.0,4.0,6.0,25.0,AJRD
+430,,2016-01-05 17:17:49,2016-01-03,AJRD,Drake Eileen P.,"CEO, Pres",F - Tax,$15.66,-15408,210218,-7%,"-$241,289",-2.0,-4.0,-1.0,18.0,AJRD
+431,,2015-12-28 19:26:52,2015-12-25,AJRD,Drake Eileen P.,"CEO, Pres",D - Sale to issuer,$16.00,-10436,225626,-4%,"-$166,976",4.0,-2.0,-1.0,11.0,AJRD
+432,,2015-11-19 20:42:11,2015-11-18,AJRD,Drake Eileen P.,"CEO, Pres",A - Grant,$0.00,120000,236062,+103%,+$0,0.0,9.0,-2.0,7.0,AJRD
+433,,2015-11-16 16:28:14,2015-11-13,AJRD,Lichtenstein Warren G,Dir,P - Purchase,$14.99,5000,136752,+4%,"+$74,950",-1.0,0.0,-1.0,6.0,AJRD
+434,,2015-11-05 17:45:18,2015-11-04,AJRD,Conley Chris W,"VP - EH, S",S - Sale,$17.66,-9000,67883,-12%,"-$158,950",0.0,-6.0,5.0,2.0,AJRD
+435,,2015-10-19 12:08:43,2015-10-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,1233,117538,+1%,+$0,-2.0,2.0,-3.0,2.0,AJRD
+436,,2015-10-19 12:07:12,2015-10-15,AJRD,Perry James H,Dir,A - Grant,$0.00,1233,128619,+1%,+$0,-2.0,2.0,-3.0,2.0,AJRD
+437,,2015-10-19 12:06:12,2015-10-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,1233,30446,+4%,+$0,-2.0,2.0,-3.0,2.0,AJRD
+438,,2015-10-19 12:04:28,2015-10-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,616,6275,+11%,+$0,-2.0,2.0,-3.0,2.0,AJRD
+439,,2015-10-19 12:03:00,2015-10-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,1233,84596,+1%,+$0,-2.0,2.0,-3.0,2.0,AJRD
+440,,2015-10-19 12:01:00,2015-10-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,1233,129201,+1%,+$0,-2.0,2.0,-3.0,2.0,AJRD
+441,,2015-10-19 10:32:21,2015-10-15,AJRD,Lichtenstein Warren G,Dir,A - Grant,$0.00,2467,131752,+2%,+$0,-2.0,2.0,-3.0,2.0,AJRD
+442,,2015-10-08 19:53:38,2015-10-07,AJRD,Tucker Mark A,COO,F - Tax,$17.21,-3206,77064,-4%,"-$55,175",1.0,-4.0,0.0,-9.0,AJRD
+443,,2015-08-03 18:09:18,2015-07-31,AJRD,Lichtenstein Warren G,Dir,G - Gift,$0.00,-2205,129285,-2%,-$0,-1.0,-3.0,-12.0,-35.0,AJRD
+444,D,2015-08-03 14:11:20,2015-07-30,AJRD,Henderson James R,Dir,D - Sale to issuer,$22.64,-12000,127968,-9%,"-$271,680",0.0,-4.0,-12.0,-35.0,AJRD
+445,D,2015-08-03 14:11:20,2015-07-30,AJRD,Henderson James R,Dir,M - OptEx,$5.63,12000,127968,+10%,"+$67,560",0.0,-4.0,-12.0,-35.0,AJRD
+446,D,2015-08-03 14:11:20,2015-07-30,AJRD,Henderson James R,Dir,S - Sale+OE,$22.72,-53354,127968,-29%,"-$1,212,384",0.0,-4.0,-12.0,-35.0,AJRD
+447,,2015-07-16 13:37:49,2015-07-15,AJRD,Lichtenstein Warren G,Dir,A - Grant,$0.00,1714,131490,+1%,+$0,1.0,-1.0,-7.0,-40.0,AJRD
+448,,2015-07-16 11:51:32,2015-07-15,AJRD,Corcoran Thomas A,Dir,A - Grant,$0.00,856,83363,+1%,+$0,1.0,-1.0,-7.0,-40.0,AJRD
+449,,2015-07-16 11:51:32,2015-04-22,AJRD,Corcoran Thomas A,Dir,G - Gift,$0.00,-4453,83363,-5%,-$0,1.0,-1.0,-7.0,-40.0,AJRD
+450,,2015-07-16 11:50:28,2015-07-15,AJRD,Henderson James R,Dir,A - Grant,$0.00,856,181322,0%,+$0,1.0,-1.0,-7.0,-40.0,AJRD
+451,,2015-07-16 11:49:45,2015-07-15,AJRD,Lord Lance W,Dir,A - Grant,$0.00,427,5659,+8%,+$0,1.0,-1.0,-7.0,-40.0,AJRD
+452,,2015-07-16 11:49:02,2015-07-15,AJRD,McPeak Merrill A,Dir,A - Grant,$0.00,856,29213,+3%,+$0,1.0,-1.0,-7.0,-40.0,AJRD
+453,,2015-07-16 11:47:38,2015-07-15,AJRD,Perry James H,Dir,A - Grant,$0.00,856,127386,+1%,+$0,1.0,-1.0,-7.0,-40.0,AJRD
+454,,2015-07-16 11:46:56,2015-07-15,AJRD,Turchin Martin,Dir,A - Grant,$0.00,856,116305,+1%,+$0,1.0,-1.0,-7.0,-40.0,AJRD
+455,,2015-05-26 12:05:26,2015-05-22,AJRD,Lichtenstein Warren G,Dir,G - Gift,$0.00,-1700,129776,-1%,-$0,0.0,-1.0,3.0,-22.0,AJRD
+456,,2015-05-06 17:08:21,2015-05-04,AJRD,Lichtenstein Warren G,Dir,G - Gift,$0.00,-2497,131476,-2%,-$0,4.0,5.0,7.0,-12.0,AJRD
+457,,2015-04-23 13:39:13,2015-04-22,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",S - Sale,$20.56,-19510,212318,-8%,"-$401,126",,,,,AJRD
+458,D,2015-04-22 19:36:54,2015-04-22,GY,Conley Chris W,"VP - EH, S",D - Sale to issuer,$20.77,-25800,76837,-25%,"-$535,866",,,,,AJRD
+459,D,2015-04-22 19:36:54,2015-04-22,GY,Conley Chris W,"VP - EH, S",M - OptEx,$16.74,25800,76837,+51%,"+$431,892",,,,,AJRD
+460,D,2015-04-21 17:15:59,2015-04-17,GY,Cambria Christopher C,"VP, Gen. Counsel, Secretary",A - Grant,$0.00,2284,94614,+2%,+$0,,,,,AJRD
+461,D,2015-04-21 17:13:47,2015-04-17,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",A - Grant,$0.00,2710,231828,+1%,+$0,,,,,AJRD
+462,D,2015-04-20 13:50:19,2015-04-16,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",D - Sale to issuer,$20.74,-6560,229118,-3%,"-$136,054",,,,,AJRD
+463,D,2015-04-20 13:50:19,2015-04-16,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",M - OptEx,$15.42,6560,229118,+3%,"+$101,166",,,,,AJRD
+464,,2015-04-17 13:44:16,2015-04-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,4201,133973,+3%,+$0,,,,,AJRD
+465,,2015-04-17 12:31:24,2015-04-15,GY,Turchin Martin,Dir,A - Grant,$0.00,4183,115449,+4%,+$0,,,,,AJRD
+466,,2015-04-17 12:30:05,2015-04-15,GY,Perry James H,Dir,A - Grant,$0.00,5262,126530,+4%,+$0,,,,,AJRD
+467,,2015-04-17 12:28:49,2015-04-15,GY,McPeak Merrill A,Dir,A - Grant,$0.00,3753,28357,+15%,+$0,,,,,AJRD
+468,,2015-04-17 12:27:20,2015-04-15,GY,Lord Lance W,Dir,A - Grant,$0.00,852,5232,+19%,+$0,,,,,AJRD
+469,,2015-04-17 12:23:21,2015-04-15,GY,Henderson James R,Dir,A - Grant,$0.00,5728,180466,+3%,+$0,,,,,AJRD
+470,,2015-04-17 12:22:10,2015-04-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,3537,86960,+4%,+$0,,,,,AJRD
+471,AD,2015-04-02 19:56:44,2015-03-30,GY,Seymour Scott J,"Pres, CEO",A - Grant,$0.00,109766,659975,+20%,+$0,,,,,AJRD
+472,AD,2015-04-02 19:56:44,2015-03-28,GY,Seymour Scott J,"Pres, CEO",F - Tax,$22.92,-15781,659975,-2%,"-$361,701",,,,,AJRD
+473,AD,2015-04-02 19:51:53,2015-03-30,GY,Schumacher John D.,"VP, Business Relations",A - Grant,$0.00,21156,70027,+43%,+$0,,,,,AJRD
+474,AD,2015-04-02 19:47:41,2015-03-30,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",A - Grant,$0.00,33876,229118,+17%,+$0,,,,,AJRD
+475,AD,2015-04-02 19:47:41,2015-03-28,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",F - Tax,$22.92,-5353,229118,-2%,"-$122,691",,,,,AJRD
+476,AD,2015-04-02 19:43:51,2015-03-30,GY,Cambria Christopher C,"VP, Gen. Counsel, Secretary",A - Grant,$0.00,22858,92330,+33%,+$0,,,,,AJRD
+477,AD,2015-04-02 19:43:51,2015-03-28,GY,Cambria Christopher C,"VP, Gen. Counsel, Secretary",F - Tax,$22.92,-2257,92330,-2%,"-$51,730",,,,,AJRD
+478,AD,2015-04-02 19:39:35,2015-03-30,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,7506,76837,+11%,+$0,,,,,AJRD
+479,AD,2015-04-02 19:39:35,2015-03-28,GY,Conley Chris W,"VP - EH, S",F - Tax,$22.92,-1440,76837,-2%,"-$33,005",,,,,AJRD
+480,AD,2015-04-02 19:35:16,2015-03-30,GY,Drake Eileen P.,COO,A - Grant,$0.00,32522,116062,+39%,+$0,,,,,AJRD
+481,,2015-04-02 15:14:46,2015-03-31,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,9055,129772,+8%,+$0,,,,,AJRD
+482,,2015-04-02 11:58:28,2015-03-31,GY,Henderson James R,Dir,A - Grant,$0.00,3880,174738,+2%,+$0,,,,,AJRD
+483,,2015-04-02 11:54:56,2015-03-31,GY,Turchin Martin,Dir,A - Grant,$0.00,3880,111266,+4%,+$0,,,,,AJRD
+484,,2015-04-02 11:53:33,2015-03-31,GY,Perry James H,Dir,A - Grant,$0.00,3880,121268,+3%,+$0,,,,,AJRD
+485,,2015-04-02 11:52:38,2015-03-31,GY,McPeak Merrill A,Dir,A - Grant,$0.00,3880,24604,+19%,+$0,,,,,AJRD
+486,,2015-04-02 11:50:11,2015-03-31,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,3880,83423,+5%,+$0,,,,,AJRD
+487,,2015-04-02 11:48:29,2015-03-31,GY,Lord Lance W,Dir,A - Grant,$0.00,3880,4380,+776%,+$0,,,,,AJRD
+488,D,2015-03-31 17:04:43,2015-03-30,GY,Seymour Scott J,"Pres, CEO",A - Grant,$0.00,54883,605092,+10%,+$0,,,,,AJRD
+489,D,2015-03-31 17:04:43,2015-03-28,GY,Seymour Scott J,"Pres, CEO",F - Tax,$22.92,-15781,605092,-3%,"-$361,701",,,,,AJRD
+490,D,2015-03-31 17:02:38,2015-03-30,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",A - Grant,$0.00,16938,212180,+9%,+$0,,,,,AJRD
+491,D,2015-03-31 17:02:38,2015-03-28,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",F - Tax,$22.92,-5353,212180,-2%,"-$122,691",,,,,AJRD
+492,D,2015-03-31 16:54:38,2015-03-30,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,4330,73661,+6%,+$0,,,,,AJRD
+493,D,2015-03-31 16:54:38,2015-03-28,GY,Conley Chris W,"VP - EH, S",F - Tax,$22.92,-1440,73661,-2%,"-$33,005",,,,,AJRD
+494,D,2015-03-31 16:52:26,2015-03-30,GY,Cambria Christopher C,"VP, Gen. Counsel, Secretary",A - Grant,$0.00,11429,80901,+16%,+$0,,,,,AJRD
+495,D,2015-03-31 16:52:26,2015-03-28,GY,Cambria Christopher C,"VP, Gen. Counsel, Secretary",F - Tax,$22.92,-2257,80901,-3%,"-$51,730",,,,,AJRD
+496,D,2015-03-31 16:50:13,2015-03-30,GY,Schumacher John D.,"VP, Business Relations",A - Grant,$0.00,10578,59449,+22%,+$0,,,,,AJRD
+497,D,2015-03-31 16:47:52,2015-03-30,GY,Drake Eileen P.,COO,A - Grant,$0.00,16261,99801,+19%,+$0,,,,,AJRD
+498,,2015-03-04 11:57:43,2015-03-02,GY,Drake Eileen P.,COO,A - Grant,$0.00,83540,83540,New,+$0,,,,,AJRD
+499,,2015-02-05 19:47:11,2015-02-01,GY,Lord Lance W,Dir,A - Grant,$0.00,500,500,New,+$0,,,,,AJRD
+500,,2015-02-04 18:35:42,2015-02-02,GY,Seymour Scott J,"Pres, CEO",F - Tax,$17.40,-50858,565990,-8%,"-$884,929",,,,,AJRD
+501,,2015-02-04 14:37:22,2015-02-02,GY,Boley Warren M. Jr,"Pres, Aerojet Rocketdyne",D - Sale to issuer,$17.40,-1976,141335,-1%,"-$34,382",,,,,AJRD
+502,,2015-02-04 14:37:22,2015-02-02,GY,Boley Warren M. Jr,"Pres, Aerojet Rocketdyne",F - Tax,$17.40,-3228,141335,-2%,"-$56,167",,,,,AJRD
+503,,2015-02-04 14:35:39,2015-02-02,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",F - Tax,$17.40,-15629,200598,-7%,"-$271,945",,,,,AJRD
+504,,2015-02-04 14:34:26,2015-02-02,GY,Conley Chris W,"VP - EH, S",F - Tax,$17.40,-5670,70818,-7%,"-$98,658",,,,,AJRD
+505,,2015-02-04 14:33:08,2015-02-02,GY,Cambria Christopher C,"VP, Gen. Counsel, Secretary",F - Tax,$17.40,-8667,71729,-11%,"-$150,806",,,,,AJRD
+506,,2015-01-20 16:53:44,2015-01-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1200,79543,+2%,+$0,,,,,AJRD
+507,,2015-01-20 16:52:48,2015-01-15,GY,Perry James H,Dir,A - Grant,$0.00,1200,117388,+1%,+$0,,,,,AJRD
+508,,2015-01-20 16:51:46,2015-01-15,GY,Turchin Martin,Dir,A - Grant,$0.00,1200,107386,+1%,+$0,,,,,AJRD
+509,,2015-01-20 16:47:12,2015-01-15,GY,Henderson James R,Dir,A - Grant,$0.00,1200,170858,+1%,+$0,,,,,AJRD
+510,,2015-01-20 16:46:11,2015-01-15,GY,McPeak Merrill A,Dir,A - Grant,$0.00,1200,20724,+6%,+$0,,,,,AJRD
+511,,2015-01-20 16:38:45,2015-01-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,2401,120717,+2%,+$0,,,,,AJRD
+512,,2014-10-17 11:55:07,2014-10-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1293,78343,+2%,+$0,,,,,AJRD
+513,,2014-10-17 11:54:00,2014-10-15,GY,Henderson James R,Dir,A - Grant,$0.00,1293,169658,+1%,+$0,,,,,AJRD
+514,,2014-10-17 11:52:52,2014-10-15,GY,Lorber David A,Dir,A - Grant,$0.00,1293,117681,+1%,+$0,,,,,AJRD
+515,,2014-10-17 11:51:32,2014-10-15,GY,Perry James H,Dir,A - Grant,$0.00,1293,116188,+1%,+$0,,,,,AJRD
+516,,2014-10-17 11:49:56,2014-10-15,GY,Turchin Martin,Dir,A - Grant,$0.00,1293,106186,+1%,+$0,,,,,AJRD
+517,,2014-10-17 11:47:57,2014-10-15,GY,McPeak Merrill A,Dir,A - Grant,$0.00,1293,19524,+7%,+$0,,,,,AJRD
+518,,2014-10-17 09:38:54,2014-10-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,2587,118316,+2%,+$0,,,,,AJRD
+519,D,2014-08-06 13:14:52,2014-08-04,GY,Conley Chris W,"VP - EH, S",M - OptEx,$6.01,5367,76480,+8%,"+$32,256",,,,,AJRD
+520,D,2014-08-06 13:14:52,2014-08-05,GY,Conley Chris W,"VP - EH, S",S - Sale+OE,$18.34,-5367,76480,-7%,"-$98,439",,,,,AJRD
+521,,2014-07-16 18:59:01,2014-07-15,GY,Lorber David A,Dir,A - Grant,$0.00,1129,116388,+1%,+$0,,,,,AJRD
+522,,2014-07-16 18:57:54,2014-07-15,GY,Perry James H,Dir,A - Grant,$0.00,1129,114895,+1%,+$0,,,,,AJRD
+523,,2014-07-16 18:56:39,2014-07-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1129,77050,+1%,+$0,,,,,AJRD
+524,,2014-07-16 18:55:21,2014-07-15,GY,Henderson James R,Dir,A - Grant,$0.00,1129,168365,+1%,+$0,,,,,AJRD
+525,,2014-07-16 18:53:44,2014-07-15,GY,Turchin Martin,Dir,A - Grant,$0.00,1129,104893,+1%,+$0,,,,,AJRD
+526,,2014-07-16 18:52:33,2014-07-15,GY,McPeak Merrill A,Dir,A - Grant,$0.00,1129,18231,+7%,+$0,,,,,AJRD
+527,,2014-07-16 18:31:29,2014-07-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,2260,115729,+2%,+$0,,,,,AJRD
+528,,2014-04-17 11:38:36,2014-04-15,GY,McPeak Merrill A,Dir,A - Grant,$0.00,3556,17102,+26%,+$0,,,,,AJRD
+529,,2014-04-17 11:35:44,2014-04-15,GY,Turchin Martin,Dir,A - Grant,$0.00,4854,103764,+5%,+$0,,,,,AJRD
+530,,2014-04-17 11:34:30,2014-04-15,GY,Henderson James R,Dir,A - Grant,$0.00,6196,167236,+4%,+$0,,,,,AJRD
+531,,2014-04-17 11:33:19,2014-04-15,GY,Perry James H,Dir,A - Grant,$0.00,4452,113766,+4%,+$0,,,,,AJRD
+532,,2014-04-17 11:32:09,2014-04-15,GY,Lorber David A,Dir,A - Grant,$0.00,5571,115259,+5%,+$0,,,,,AJRD
+533,,2014-04-17 11:30:58,2014-04-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,4005,75921,+6%,+$0,,,,,AJRD
+534,,2014-04-17 10:10:06,2014-04-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,5011,113469,+5%,+$0,,,,,AJRD
+535,D,2014-04-09 17:23:30,2014-04-07,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,20844,108458,+24%,+$0,,,,,AJRD
+536,,2014-04-09 15:11:15,2014-04-07,GY,Turchin Martin,Dir,A - Grant,$0.00,5211,98910,+6%,+$0,,,,,AJRD
+537,,2014-04-09 15:10:00,2014-04-07,GY,McPeak Merrill A,Dir,A - Grant,$0.00,5211,13546,+63%,+$0,,,,,AJRD
+538,,2014-04-09 15:08:53,2014-04-07,GY,Henderson James R,Dir,A - Grant,$0.00,5211,161040,+3%,+$0,,,,,AJRD
+539,,2014-04-09 15:07:39,2014-04-07,GY,Perry James H,Dir,A - Grant,$0.00,5211,109314,+5%,+$0,,,,,AJRD
+540,,2014-04-09 15:06:39,2014-04-07,GY,Lorber David A,Dir,A - Grant,$0.00,5211,109688,+5%,+$0,,,,,AJRD
+541,,2014-04-09 15:03:13,2014-04-07,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,5211,71916,+8%,+$0,,,,,AJRD
+542,,2014-04-09 15:02:11,2014-04-07,GY,Boley Warren M. Jr,"Pres, Aerojet Rocketdyne",A - Grant,$0.00,49435,146539,+51%,+$0,,,,,AJRD
+543,,2014-04-09 15:00:56,2014-04-07,GY,Schumacher John D.,"VP, Business Relations",A - Grant,$0.00,30400,49006,+163%,+$0,,,,,AJRD
+544,,2014-04-09 14:58:37,2014-04-07,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,11551,76440,+18%,+$0,,,,,AJRD
+545,,2014-04-09 14:55:30,2014-04-07,GY,Cambria Christopher C,"VP, Gen. Counsel, Secretary",A - Grant,$0.00,33082,80396,+70%,+$0,,,,,AJRD
+546,,2014-04-09 14:54:21,2014-04-07,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",A - Grant,$0.00,48915,216224,+29%,+$0,,,,,AJRD
+547,,2014-04-09 14:52:57,2014-04-07,GY,Seymour Scott J,"Pres, CEO",A - Grant,$0.00,145922,616848,+31%,+$0,,,,,AJRD
+548,,2014-04-01 18:51:41,2014-03-30,GY,Conley Chris W,"VP - EH, S",F - Tax,$18.60,-1222,64889,-2%,"-$22,729",,,,,AJRD
+549,,2014-02-21 12:18:48,2014-02-19,GY,Corcoran Thomas A,Dir,G - Gift,$0.00,-5000,66705,-7%,-$0,,,,,AJRD
+550,D,2014-02-07 17:06:59,2014-02-05,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,2144,66155,+3%,+$0,,,,,AJRD
+551,D,2014-02-07 17:06:59,2014-02-05,GY,Conley Chris W,"VP - EH, S",F - Tax,$16.59,-3551,66155,-5%,"-$58,911",,,,,AJRD
+552,D,2014-02-07 17:05:24,2014-02-05,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",A - Grant,$0.00,11508,167312,+7%,+$0,,,,,AJRD
+553,D,2014-02-07 17:05:24,2014-02-05,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",F - Tax,$16.59,-16473,167312,-9%,"-$273,287",,,,,AJRD
+554,D,2014-02-07 17:03:47,2014-02-05,GY,Seymour Scott J,"Pres, CEO",A - Grant,$0.00,33643,470926,+8%,+$0,,,,,AJRD
+555,,2014-02-07 17:02:24,2014-02-05,GY,Boley Warren M. Jr,"Pres, Aerojet Rocketdyne",D - Sale to issuer,$16.59,-786,97104,-1%,"-$13,040",,,,,AJRD
+556,,2014-02-07 17:02:24,2014-02-05,GY,Boley Warren M. Jr,"Pres, Aerojet Rocketdyne",F - Tax,$16.59,-3699,97104,-4%,"-$61,366",,,,,AJRD
+557,,2014-01-16 18:47:17,2014-01-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,2269,87614,+3%,+$0,,,,,AJRD
+558,,2014-01-16 14:49:49,2014-01-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1134,71705,+2%,+$0,,,,,AJRD
+559,,2014-01-16 14:47:31,2014-01-15,GY,Lorber David A,Dir,A - Grant,$0.00,1134,104477,+1%,+$0,,,,,AJRD
+560,,2014-01-16 14:45:36,2014-01-15,GY,Perry James H,Dir,A - Grant,$0.00,1134,104103,+1%,+$0,,,,,AJRD
+561,,2014-01-16 14:44:30,2014-01-15,GY,Henderson James R,Dir,A - Grant,$0.00,1134,155829,+1%,+$0,,,,,AJRD
+562,,2014-01-16 14:43:20,2014-01-15,GY,Turchin Martin,Dir,A - Grant,$0.00,1134,93699,+1%,+$0,,,,,AJRD
+563,,2014-01-16 14:42:00,2014-01-15,GY,McPeak Merrill A/,Dir,A - Grant,$0.00,1134,8335,+16%,+$0,,,,,AJRD
+564,,2013-12-03 17:02:58,2013-11-30,GY,Conley Chris W,"VP - EH, S",F - Tax,$18.34,-1281,67568,-2%,"-$23,494",,,,,AJRD
+565,,2013-11-26 12:38:26,2013-11-22,GY,Seymour Scott J,"Pres, CEO",A - Grant,$0.00,80908,437283,+23%,+$0,,,,,AJRD
+566,,2013-11-26 12:37:09,2013-11-22,GY,Cambria Christopher C,"VP, Gen. Counsel, Secretary",A - Grant,$0.00,14928,47314,+46%,+$0,,,,,AJRD
+567,,2013-11-26 12:35:52,2013-11-22,GY,Boley Warren M. Jr,"Pres, Aerojet Rocketdyne",A - Grant,$0.00,31589,101589,+45%,+$0,,,,,AJRD
+568,,2013-11-26 12:34:44,2013-11-22,GY,Maser James G.,"VP, Corporate Strategy",A - Grant,$0.00,19920,19920,New,+$0,,,,,AJRD
+569,,2013-11-26 12:33:32,2013-11-22,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,7942,68866,+13%,+$0,,,,,AJRD
+570,,2013-11-26 12:30:14,2013-11-22,GY,Schumacher John D.,"VP, Business Relations",A - Grant,$0.00,16139,18624,+649%,+$0,,,,,AJRD
+571,,2013-11-26 12:28:48,2013-11-22,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",A - Grant,$0.00,30642,172279,+22%,+$0,,,,,AJRD
+572,,2013-11-21 15:04:56,2013-11-20,GY,Turchin Martin,Dir,S - Sale,$17.22,-10000,92565,-10%,"-$172,159",,,,,AJRD
+573,,2013-10-17 17:01:13,2013-10-15,GY,McPeak Merrill A/,Dir,A - Grant,$0.00,1239,7201,+21%,+$0,,,,,AJRD
+574,,2013-10-17 16:59:31,2013-10-15,GY,Perry James H,Dir,A - Grant,$0.00,1239,102969,+1%,+$0,,,,,AJRD
+575,,2013-10-17 16:58:17,2013-10-15,GY,Lorber David A,Dir,A - Grant,$0.00,1239,103343,+1%,+$0,,,,,AJRD
+576,,2013-10-17 16:56:56,2013-10-15,GY,Henderson James R,Dir,A - Grant,$0.00,1239,154695,+1%,+$0,,,,,AJRD
+577,,2013-10-17 16:55:40,2013-10-15,GY,Turchin Martin,Dir,A - Grant,$0.00,1239,102565,+1%,+$0,,,,,AJRD
+578,,2013-10-17 16:54:16,2013-10-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1239,70571,+2%,+$0,,,,,AJRD
+579,,2013-10-17 16:00:55,2013-10-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,2479,94919,+3%,+$0,,,,,AJRD
+580,,2013-07-17 18:48:05,2013-07-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,2425,92440,+3%,+$0,,,,,AJRD
+581,D,2013-07-17 14:39:03,2013-07-15,GY,Conley Chris W,"VP - EH, S",M - OptEx,$4.91,9259,60914,+18%,"+$45,462",,,,,AJRD
+582,D,2013-07-17 14:39:03,2013-07-17,GY,Conley Chris W,"VP - EH, S",S - Sale+OE,$16.68,-9259,60914,-13%,"-$154,431",,,,,AJRD
+583,,2013-07-17 12:57:10,2013-07-15,GY,Henderson James R,Dir,A - Grant,$0.00,1212,153456,+1%,+$0,,,,,AJRD
+584,,2013-07-17 12:55:49,2013-07-15,GY,Perry James H,Dir,A - Grant,$0.00,1212,101730,+1%,+$0,,,,,AJRD
+585,,2013-07-17 12:54:15,2013-07-15,GY,Lorber David A,Dir,A - Grant,$0.00,1212,102104,+1%,+$0,,,,,AJRD
+586,,2013-07-17 12:52:48,2013-07-15,GY,Turchin Martin,Dir,A - Grant,$0.00,1212,101326,+1%,+$0,,,,,AJRD
+587,,2013-07-17 12:51:24,2013-07-15,GY,McPeak Merrill A/,Dir,A - Grant,$0.00,1212,5962,+26%,+$0,,,,,AJRD
+588,,2013-07-17 12:50:00,2013-07-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1212,69332,+2%,+$0,,,,,AJRD
+589,,2013-05-13 16:33:45,2013-05-09,GY,Redd Kathleen E.,"VP, CFO, Asst. Secretary",A - Grant,$13.69,36523,141637,+35%,"+$500,000",,,,,AJRD
+590,,2013-04-16 20:24:52,2013-04-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,6502,90015,+8%,+$0,,,,,AJRD
+591,,2013-04-16 17:33:44,2013-04-15,GY,McPeak Merrill A/,Dir,A - Grant,$0.00,2833,4750,+148%,+$0,,,,,AJRD
+592,,2013-04-16 17:32:26,2013-04-15,GY,Turchin Martin,Dir,A - Grant,$0.00,6055,100114,+6%,+$0,,,,,AJRD
+593,,2013-04-16 17:30:36,2013-04-15,GY,Perry James H,Dir,A - Grant,$0.00,6055,100518,+6%,+$0,,,,,AJRD
+594,,2013-04-16 17:29:10,2013-04-15,GY,Lorber David A,Dir,A - Grant,$0.00,6652,100892,+7%,+$0,,,,,AJRD
+595,,2013-04-16 17:27:27,2013-04-15,GY,Henderson James R,Dir,A - Grant,$0.00,7606,152244,+5%,+$0,,,,,AJRD
+596,,2013-04-16 17:25:23,2013-04-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,4861,68120,+8%,+$0,,,,,AJRD
+597,D,2013-04-15 11:26:42,2013-04-11,GY,Lorber David A,Dir,A - Grant,$0.00,1417,94240,+2%,+$0,,,,,AJRD
+598,D,2013-04-15 11:25:16,2013-04-11,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1417,63259,+2%,+$0,,,,,AJRD
+599,D,2013-04-15 11:23:29,2013-04-11,GY,Turchin Martin,Dir,A - Grant,$0.00,1417,94059,+2%,+$0,,,,,AJRD
+600,D,2013-04-15 11:21:00,2013-04-11,GY,Henderson James R,Dir,A - Grant,$0.00,1417,144638,+1%,+$0,,,,,AJRD
+601,D,2013-04-15 11:19:21,2013-04-11,GY,Perry James H,Dir,A - Grant,$0.00,1417,94463,+2%,+$0,,,,,AJRD
+602,D,2013-04-15 11:17:06,2013-04-11,GY,McPeak Merrill A/,Dir,A - Grant,$0.00,1917,1917,New,+$0,,,,,AJRD
+603,D,2013-04-12 20:25:11,2013-04-11,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,1795,83513,+2%,+$0,,,,,AJRD
+604,,2013-03-13 14:38:16,2013-02-26,GY,Bregard Richard W,"VP, Deputy to Pres, Aerojet",S - Sale,$12.05,-342,45468,-1%,"-$4,121",,,,,AJRD
+605,,2013-02-08 14:09:19,2013-02-06,GY,Bregard Richard W,"VP, Deputy to Pres, Aerojet",D - Sale to issuer,$0.00,-3227,45810,-7%,-$0,,,,,AJRD
+606,,2013-02-08 14:09:19,2013-02-06,GY,Bregard Richard W,"VP, Deputy to Pres, Aerojet",F - Tax,$10.58,-2341,45810,-5%,"-$24,768",,,,,AJRD
+607,,2013-02-08 13:58:04,2013-02-06,GY,Conley Chris W,"VP - EH, S",D - Sale to issuer,$0.00,-1164,61024,-2%,-$0,,,,,AJRD
+608,,2013-02-08 13:58:04,2013-02-06,GY,Conley Chris W,"VP - EH, S",F - Tax,$10.58,-839,61024,-1%,"-$8,877",,,,,AJRD
+609,,2013-01-17 13:34:09,2013-01-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,2101,81718,+3%,+$0,,,,,AJRD
+610,,2013-01-17 11:40:20,2013-01-15,GY,Woods Robert C,Dir,A - Grant,$0.00,2101,47344,+5%,+$0,,,,,AJRD
+611,,2013-01-17 11:38:22,2013-01-15,GY,Turchin Martin,Dir,A - Grant,$0.00,2101,92642,+2%,+$0,,,,,AJRD
+612,,2013-01-17 11:37:12,2013-01-15,GY,Perry James H,Dir,A - Grant,$0.00,2101,93046,+2%,+$0,,,,,AJRD
+613,,2013-01-17 11:35:41,2013-01-15,GY,Lorber David A,Dir,A - Grant,$0.00,2101,92823,+2%,+$0,,,,,AJRD
+614,,2013-01-17 11:34:29,2013-01-15,GY,Henderson James R,Dir,A - Grant,$0.00,4204,143221,+3%,+$0,,,,,AJRD
+615,,2013-01-17 11:33:19,2013-01-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,2101,61842,+4%,+$0,,,,,AJRD
+616,D,2012-12-31 16:06:27,2012-12-27,GY,Seymour Scott J,"Pres, CEO",G - Gift,$0.00,-160000,356375,+81%,-$0,,,,,AJRD
+617,,2012-10-17 20:40:14,2012-10-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,2232,79617,+3%,+$0,,,,,AJRD
+618,,2012-10-17 17:51:05,2012-10-15,GY,Woods Robert C,Dir,A - Grant,$0.00,2232,45243,+5%,+$0,,,,,AJRD
+619,,2012-10-17 17:46:50,2012-10-15,GY,Turchin Martin,Dir,A - Grant,$0.00,1116,90541,+1%,+$0,,,,,AJRD
+620,,2012-10-17 17:44:40,2012-10-15,GY,Perry James H,Dir,A - Grant,$0.00,2232,90945,+3%,+$0,,,,,AJRD
+621,,2012-10-17 17:42:09,2012-10-15,GY,Lorber David A,Dir,A - Grant,$0.00,2232,90722,+3%,+$0,,,,,AJRD
+622,,2012-10-17 17:40:01,2012-10-15,GY,Henderson James R,Dir,A - Grant,$0.00,4464,139017,+3%,+$0,,,,,AJRD
+623,,2012-10-17 17:37:52,2012-10-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,2232,59741,+4%,+$0,,,,,AJRD
+624,D,2012-08-29 14:45:06,2012-08-27,GY,Conley Chris W,"VP - EH, S",M - OptEx,$5.82,12875,60745,+27%,"+$74,950",,,,,AJRD
+625,D,2012-08-29 14:45:06,2012-08-27,GY,Conley Chris W,"VP - EH, S",S - Sale+OE,$8.95,-12875,60745,-17%,"-$115,231",,,,,AJRD
+626,,2012-07-25 13:51:20,2012-07-23,GY,Boley Warren M. Jr,"Pres, Aerojet (eff. 08, 20, 12",A - Grant,$0.00,70000,70000,New,+$0,,,,,AJRD
+627,,2012-07-17 20:27:50,2012-07-16,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,3078,77385,+4%,+$0,,,,,AJRD
+628,,2012-07-17 17:08:41,2012-07-16,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,3078,57509,+6%,+$0,,,,,AJRD
+629,,2012-07-17 17:07:20,2012-07-16,GY,Woods Robert C,Dir,A - Grant,$0.00,3078,43011,+8%,+$0,,,,,AJRD
+630,,2012-07-17 17:06:10,2012-07-16,GY,Turchin Martin,Dir,A - Grant,$0.00,1539,89425,+2%,+$0,,,,,AJRD
+631,,2012-07-17 17:05:06,2012-07-16,GY,Perry James H,Dir,A - Grant,$0.00,3078,88713,+4%,+$0,,,,,AJRD
+632,,2012-07-17 17:03:47,2012-07-16,GY,Lorber David A,Dir,A - Grant,$0.00,3078,88490,+4%,+$0,,,,,AJRD
+633,,2012-07-17 17:02:25,2012-07-16,GY,Henderson James R,Dir,A - Grant,$0.00,6156,134553,+5%,+$0,,,,,AJRD
+634,,2012-04-18 16:51:47,2012-04-16,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,7642,74307,+11%,+$0,,,,,AJRD
+635,,2012-04-18 13:30:28,2012-04-16,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,6543,54431,+14%,+$0,,,,,AJRD
+636,,2012-04-18 13:26:37,2012-04-16,GY,Lorber David A,Dir,A - Grant,$0.00,10062,85412,+13%,+$0,,,,,AJRD
+637,,2012-04-18 13:24:41,2012-04-16,GY,Henderson James R,Dir,A - Grant,$0.00,14625,128397,+13%,+$0,,,,,AJRD
+638,,2012-04-18 13:18:21,2012-04-16,GY,Turchin Martin,Dir,A - Grant,$0.00,4920,87886,+6%,+$0,,,,,AJRD
+639,,2012-04-18 13:16:42,2012-04-16,GY,Perry James H,Dir,A - Grant,$0.00,10501,85635,+14%,+$0,,,,,AJRD
+640,,2012-04-18 13:10:20,2012-04-16,GY,Woods Robert C,Dir,A - Grant,$0.00,6102,39933,+18%,+$0,,,,,AJRD
+641,D,2012-03-30 17:13:43,2012-03-28,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,2749,66665,+4%,+$0,,,,,AJRD
+642,,2012-03-30 13:31:40,2012-03-28,GY,Redd Kathleen E.,"VP, CFO, Secretary",A - Grant,$0.00,51966,105131,+98%,+$0,,,,,AJRD
+643,,2012-03-30 13:29:31,2012-03-28,GY,Seymour Scott J,"Pres, CEO",A - Grant,$0.00,143649,356375,+68%,+$0,,,,,AJRD
+644,,2012-03-30 13:28:31,2012-03-28,GY,Cambria Christopher C,"VP, GC",A - Grant,$0.00,32386,32386,New,+$0,,,,,AJRD
+645,,2012-03-30 13:27:17,2012-03-28,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,18194,63178,+40%,+$0,,,,,AJRD
+646,D,2012-03-30 12:02:29,2012-03-28,GY,Turchin Martin,Dir,A - Grant,$0.00,2749,82966,+3%,+$0,,,,,AJRD
+647,D,2012-03-30 12:01:38,2012-03-28,GY,Perry James H,Dir,A - Grant,$0.00,2749,75134,+4%,+$0,,,,,AJRD
+648,D,2012-03-30 12:00:28,2012-03-28,GY,Lorber David A,Dir,A - Grant,$0.00,2749,75350,+4%,+$0,,,,,AJRD
+649,D,2012-03-30 11:59:24,2012-03-28,GY,Henderson James R,Dir,A - Grant,$0.00,3482,113772,+3%,+$0,,,,,AJRD
+650,D,2012-03-30 11:58:17,2012-03-28,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,2749,47888,+6%,+$0,,,,,AJRD
+651,D,2012-03-30 11:57:05,2012-03-28,GY,Woods Robert C,Dir,A - Grant,$0.00,2749,33831,+9%,+$0,,,,,AJRD
+652,D,2012-02-07 16:36:10,2012-02-03,GY,Bregard Richard W,"VP, Deputy to Pres, Aerojet",A - Grant,$0.00,621,51378,+1%,+$0,2.0,4.0,9.0,,AJRD
+653,D,2012-02-07 16:36:10,2012-02-03,GY,Bregard Richard W,"VP, Deputy to Pres, Aerojet",F - Tax,$6.00,-4449,51378,-8%,"-$26,694",2.0,4.0,9.0,,AJRD
+654,D,2012-02-07 16:35:07,2012-02-03,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,466,44913,+1%,+$0,2.0,4.0,9.0,,AJRD
+655,D,2012-02-07 16:35:07,2012-02-03,GY,Conley Chris W,"VP - EH, S",F - Tax,$6.00,-3338,44913,-7%,"-$20,028",2.0,4.0,9.0,,AJRD
+656,D,2012-02-07 16:33:54,2012-02-03,GY,Redd Kathleen E.,"VP, CFO, Secretary",A - Grant,$0.00,1925,53160,+4%,+$0,2.0,4.0,9.0,,AJRD
+657,D,2012-02-07 16:33:54,2012-02-03,GY,Redd Kathleen E.,"VP, CFO, Secretary",F - Tax,$6.00,-12415,53160,-19%,"-$74,490",2.0,4.0,9.0,,AJRD
+658,,2012-01-19 16:51:12,2012-01-17,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,3840,63916,+6%,+$0,0.0,1.0,4.0,,AJRD
+659,,2012-01-19 11:21:22,2012-01-17,GY,Lorber David A,Dir,A - Grant,$0.00,3840,72601,+6%,+$0,1.0,3.0,6.0,,AJRD
+660,,2012-01-19 11:20:28,2012-01-17,GY,Woods Robert C,Dir,A - Grant,$0.00,3840,31082,+14%,+$0,1.0,3.0,6.0,,AJRD
+661,,2012-01-19 11:19:14,2012-01-17,GY,Perry James H,Dir,A - Grant,$0.00,3840,72385,+6%,+$0,1.0,3.0,6.0,,AJRD
+662,,2012-01-19 11:16:51,2012-01-17,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,3840,45139,+9%,+$0,1.0,3.0,6.0,,AJRD
+663,,2012-01-19 11:13:39,2012-01-17,GY,Henderson James R,Dir,A - Grant,$0.00,7681,110290,+7%,+$0,1.0,3.0,6.0,,AJRD
+664,,2012-01-19 11:12:21,2012-01-17,GY,Turchin Martin,Dir,A - Grant,$0.00,1920,80217,+2%,+$0,1.0,3.0,6.0,,AJRD
+665,,2011-11-28 19:28:13,2011-11-23,GY,Lichtenstein Warren G,Dir,P - Purchase,$4.59,10000,4125813,0%,"+$45,863",-1.0,7.0,7.0,,AJRD
+666,,2011-10-19 18:20:55,2011-10-17,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,4675,4115813,0%,+$0,1.0,6.0,9.0,,AJRD
+667,,2011-10-18 20:22:06,2011-10-17,GY,Henderson James R,Dir,A - Grant,$0.00,9352,102609,+10%,+$0,-3.0,7.0,9.0,,AJRD
+668,,2011-10-18 14:13:09,2011-10-17,GY,Perry James H,Dir,A - Grant,$0.00,4675,68545,+7%,+$0,5.0,12.0,14.0,,AJRD
+669,,2011-10-18 14:11:10,2011-10-17,GY,Lorber David A,Dir,A - Grant,$0.00,4675,68761,+7%,+$0,5.0,12.0,14.0,,AJRD
+670,,2011-10-18 14:09:27,2011-10-17,GY,Turchin Martin,Dir,A - Grant,$0.00,4675,78297,+6%,+$0,5.0,12.0,14.0,,AJRD
+671,,2011-10-18 14:02:36,2011-10-17,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,2337,41299,+6%,+$0,5.0,12.0,14.0,,AJRD
+672,,2011-07-19 18:15:47,2011-07-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,3300,4111138,0%,+$0,0.0,-2.0,-25.0,-13.0,AJRD
+673,,2011-07-19 18:11:29,2011-07-15,GY,Henderson James R,Dir,A - Grant,$0.00,6600,93257,+8%,+$0,0.0,-2.0,-25.0,-13.0,AJRD
+674,,2011-07-18 18:07:05,2011-07-15,GY,Turchin Martin,Dir,A - Grant,$0.00,3300,73622,+5%,+$0,2.0,2.0,-22.0,-9.0,AJRD
+675,,2011-07-18 18:06:08,2011-07-15,GY,Perry James H,Dir,A - Grant,$0.00,3300,63870,+5%,+$0,2.0,2.0,-22.0,-9.0,AJRD
+676,,2011-07-18 18:05:05,2011-07-15,GY,Lorber David A,Dir,A - Grant,$0.00,3300,64086,+5%,+$0,2.0,2.0,-22.0,-9.0,AJRD
+677,,2011-07-18 18:03:40,2011-07-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1650,38962,+4%,+$0,2.0,2.0,-22.0,-9.0,AJRD
+678,,2011-04-19 16:46:50,2011-04-15,GY,Henderson James R,Dir,A - Grant,$0.00,14461,86657,+20%,+$0,1.0,0.0,-3.0,-31.0,AJRD
+679,,2011-04-19 16:43:59,2011-04-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,6445,4107838,0%,+$0,1.0,0.0,-3.0,-31.0,AJRD
+680,,2011-04-18 17:44:11,2011-04-15,GY,Turchin Martin,Dir,A - Grant,$0.00,9585,70322,+16%,+$0,-3.0,-4.0,-6.0,-30.0,AJRD
+681,,2011-04-18 17:42:27,2011-04-15,GY,Perry James H,Dir,A - Grant,$0.00,11041,60570,+22%,+$0,-3.0,-4.0,-6.0,-30.0,AJRD
+682,,2011-04-18 17:40:47,2011-04-15,GY,Lorber David A,Dir,A - Grant,$0.00,10257,60786,+20%,+$0,-3.0,-4.0,-6.0,-30.0,AJRD
+683,,2011-04-18 17:38:38,2011-04-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,2886,37312,+8%,+$0,-3.0,-4.0,-6.0,-30.0,AJRD
+684,D,2011-04-01 21:43:46,2011-03-30,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,3119,4101393,0%,+$0,-2.0,-2.0,4.0,-34.0,AJRD
+685,D,2011-04-01 21:39:56,2011-03-30,GY,Henderson James R,Dir,A - Grant,$0.00,3951,72196,+6%,+$0,-2.0,-2.0,4.0,-34.0,AJRD
+686,D,2011-03-31 19:56:26,2011-03-30,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,3119,34426,+10%,+$0,4.0,3.0,9.0,-32.0,AJRD
+687,D,2011-03-31 19:55:22,2011-03-30,GY,Lorber David A,Dir,A - Grant,$0.00,3119,50529,+7%,+$0,4.0,3.0,9.0,-32.0,AJRD
+688,D,2011-03-31 19:54:15,2011-03-30,GY,Perry James H,Dir,A - Grant,$0.00,3119,49529,+7%,+$0,4.0,3.0,9.0,-32.0,AJRD
+689,D,2011-03-31 19:53:14,2011-03-30,GY,Turchin Martin,Dir,A - Grant,$0.00,3119,60737,+5%,+$0,4.0,3.0,9.0,-32.0,AJRD
+690,D,2011-03-31 19:52:09,2011-03-30,GY,Woods Robert C,Dir,A - Grant,$0.00,3119,27242,+13%,+$0,4.0,3.0,9.0,-32.0,AJRD
+691,,2011-03-31 19:30:26,2011-03-30,GY,Bregard Richard W,"VP, Deputy to Pres, Aerojet",A - Grant,$0.00,24348,55206,+79%,+$0,4.0,3.0,9.0,-32.0,AJRD
+692,D,2011-03-31 19:25:59,2011-03-30,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,9750,47739,+26%,+$0,4.0,3.0,9.0,-32.0,AJRD
+693,D,2011-03-31 19:18:31,2011-03-30,GY,Redd Kathleen E.,"VP, CFO, Secretary",A - Grant,$0.00,31723,63647,+99%,+$0,4.0,3.0,9.0,-32.0,AJRD
+694,D,2011-03-31 19:14:19,2011-03-30,GY,Seymour Scott J,"Pres, CEO",A - Grant,$0.00,92726,212726,+77%,+$0,4.0,3.0,9.0,-32.0,AJRD
+695,,2011-01-20 20:31:56,2011-01-18,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,4003,4098274,0%,+$0,-1.0,5.0,1.0,19.0,AJRD
+696,,2011-01-20 20:09:14,2011-01-18,GY,Henderson James R,Dir,A - Grant,$0.00,8008,68245,+13%,+$0,-1.0,5.0,1.0,19.0,AJRD
+697,,2011-01-19 12:34:29,2011-01-18,GY,Perry James H,Dir,A - Grant,$0.00,4003,46410,+9%,+$0,0.0,3.0,1.0,19.0,AJRD
+698,,2011-01-19 12:33:00,2011-01-18,GY,Turchin Martin,Dir,A - Grant,$0.00,4003,57618,+7%,+$0,0.0,3.0,1.0,19.0,AJRD
+699,,2011-01-19 12:31:09,2011-01-18,GY,Lorber David A,Dir,A - Grant,$0.00,4003,47410,+9%,+$0,0.0,3.0,1.0,19.0,AJRD
+700,,2011-01-19 12:29:58,2011-01-18,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,2001,31307,+7%,+$0,0.0,3.0,1.0,19.0,AJRD
+701,,2010-12-02 19:43:19,2010-11-30,GY,Shenton Robert E.,VP & COO of Aerojet-General,A - Grant,$0.00,20744,35243,+143%,+$0,1.0,3.0,1.0,18.0,AJRD
+702,D,2010-12-02 19:21:00,2010-11-30,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,6816,38021,+22%,+$0,1.0,3.0,1.0,18.0,AJRD
+703,,2010-10-19 18:49:11,2010-10-15,GY,Henderson James R,Dir,A - Grant,$0.00,8167,60237,+16%,+$0,2.0,0.0,-5.0,32.0,AJRD
+704,,2010-10-19 18:48:44,2010-10-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,4083,4094271,0%,+$0,2.0,0.0,-5.0,32.0,AJRD
+705,,2010-10-19 11:41:50,2010-10-15,GY,Turchin Martin,Dir,A - Grant,$0.00,4083,53615,+8%,+$0,-5.0,-5.0,-10.0,27.0,AJRD
+706,,2010-10-19 11:41:18,2010-10-15,GY,Perry James H,Dir,A - Grant,$0.00,4083,42407,+11%,+$0,-5.0,-5.0,-10.0,27.0,AJRD
+707,,2010-10-19 11:40:18,2010-10-15,GY,Lorber David A,Dir,A - Grant,$0.00,4083,43407,+10%,+$0,-5.0,-5.0,-10.0,27.0,AJRD
+708,,2010-10-19 11:25:56,2010-10-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,2041,29306,+7%,+$0,-5.0,-5.0,-10.0,27.0,AJRD
+709,,2010-07-16 17:18:16,2010-07-15,GY,Henderson James R,Dir,A - Grant,$0.00,7812,52070,+18%,+$0,3.0,6.0,-4.0,3.0,AJRD
+710,,2010-07-16 15:20:14,2010-07-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,3906,4090188,0%,+$0,-5.0,1.0,-8.0,-1.0,AJRD
+711,,2010-07-16 14:19:42,2010-07-15,GY,Turchin Martin,Dir,A - Grant,$0.00,3906,49532,+9%,+$0,-5.0,1.0,-8.0,-1.0,AJRD
+712,,2010-07-16 14:18:03,2010-07-15,GY,Perry James H,Dir,A - Grant,$0.00,3906,38324,+11%,+$0,-5.0,1.0,-8.0,-1.0,AJRD
+713,,2010-07-16 14:16:33,2010-07-15,GY,Lorber David A,Dir,A - Grant,$0.00,3906,39324,+11%,+$0,-5.0,1.0,-8.0,-1.0,AJRD
+714,,2010-07-16 14:14:28,2010-07-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1953,27265,+8%,+$0,-5.0,1.0,-8.0,-1.0,AJRD
+715,,2010-05-11 17:50:31,2010-05-11,GY,Turchin Martin,Dir,P - Purchase,$5.75,1500,45626,+3%,"+$8,623",7.0,0.0,-20.0,-13.0,AJRD
+716,,2010-04-20 10:11:37,2010-04-15,GY,Henderson James R,Dir,A - Grant,$0.00,16135,44258,+57%,+$0,1.0,6.0,-2.0,-12.0,AJRD
+717,,2010-04-19 20:50:57,2010-04-15,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,7422,4086282,0%,+$0,1.0,1.0,-1.0,-12.0,AJRD
+718,,2010-04-19 19:00:14,2010-04-15,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,3064,25312,+14%,+$0,1.0,1.0,-1.0,-12.0,AJRD
+719,,2010-04-19 18:58:39,2010-04-15,GY,Lorber David A,Dir,A - Grant,$0.00,11295,35418,+47%,+$0,1.0,1.0,-1.0,-12.0,AJRD
+720,,2010-04-19 18:56:31,2010-04-15,GY,Perry James H,Dir,A - Grant,$0.00,11295,34418,+49%,+$0,1.0,1.0,-1.0,-12.0,AJRD
+721,,2010-04-19 18:54:57,2010-04-15,GY,Turchin Martin,Dir,A - Grant,$0.00,10003,44126,+29%,+$0,1.0,1.0,-1.0,-12.0,AJRD
+722,,2010-04-13 17:37:46,2010-04-09,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,17123,4078860,0%,+$0,4.0,2.0,1.0,-9.0,AJRD
+723,,2010-04-12 18:38:46,2010-04-09,GY,Henderson James R,Dir,A - Grant,$0.00,17123,28123,+156%,+$0,-4.0,-6.0,-6.0,-14.0,AJRD
+724,,2010-04-12 12:10:51,2010-04-09,GY,Woods Robert C,Dir,A - Grant,$0.00,17123,24123,+245%,+$0,1.0,-6.0,-6.0,-13.0,AJRD
+725,,2010-04-12 12:08:26,2010-04-09,GY,Turchin Martin,Dir,A - Grant,$0.00,17123,34123,+101%,+$0,1.0,-6.0,-6.0,-13.0,AJRD
+726,,2010-04-12 12:06:07,2010-04-09,GY,Perry James H,Dir,A - Grant,$0.00,17123,23123,+285%,+$0,1.0,-6.0,-6.0,-13.0,AJRD
+727,,2010-04-12 12:03:51,2010-04-09,GY,Lorber David A,Dir,A - Grant,$0.00,17123,24123,+245%,+$0,1.0,-6.0,-6.0,-13.0,AJRD
+728,,2010-04-12 12:00:37,2010-04-09,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,17123,22248,+334%,+$0,1.0,-6.0,-6.0,-13.0,AJRD
+729,D,2010-03-26 19:16:50,2010-03-24,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,2000,5125,+64%,+$0,5.0,9.0,16.0,-15.0,AJRD
+730,D,2010-03-26 19:16:21,2010-03-24,GY,Henderson James R,Dir,A - Grant,$0.00,3500,11000,+47%,+$0,5.0,9.0,16.0,-15.0,AJRD
+731,D,2010-03-26 19:15:55,2010-03-24,GY,Lichtenstein Warren G,Dir,A - Grant,$0.00,2000,4061737,0%,+$0,5.0,9.0,16.0,-15.0,AJRD
+732,D,2010-03-26 19:15:21,2010-03-24,GY,Lorber David A,Dir,A - Grant,$0.00,2000,7000,+40%,+$0,5.0,9.0,16.0,-15.0,AJRD
+733,D,2010-03-26 19:14:49,2010-03-24,GY,Perry James H,Dir,A - Grant,$0.00,2000,6000,+50%,+$0,5.0,9.0,16.0,-15.0,AJRD
+734,D,2010-03-26 19:14:22,2010-03-24,GY,Turchin Martin,Dir,A - Grant,$0.00,2000,17000,+13%,+$0,5.0,9.0,16.0,-15.0,AJRD
+735,D,2010-03-26 19:13:41,2010-03-24,GY,Woods Robert C,Dir,A - Grant,$0.00,2000,7000,+40%,+$0,5.0,9.0,16.0,-15.0,AJRD
+736,,2010-02-17 19:41:53,2010-02-12,GY,Lichtenstein Warren G,Dir,P - Purchase,$3.92,340924,4059737,+9%,"+$1,336,762",8.0,5.0,12.0,20.0,AJRD
+737,,2010-02-16 19:20:28,2010-02-12,GY,Turchin Martin,Dir,P - Purchase,$3.73,11000,15000,+275%,"+$41,000",2.0,8.0,11.0,18.0,AJRD
+738,M,2010-02-11 19:47:26,2010-02-09,GY,Lichtenstein Warren G,Dir,P - Purchase,$3.85,200000,3718813,+6%,"+$770,510",9.0,22.0,25.0,37.0,AJRD
+739,D,2010-01-07 17:08:20,2010-01-06,GY,Seymour Scott J,"Pres, CEO",A - Grant,$0.00,120000,120000,New,+$0,-1.0,-10.0,-37.0,-32.0,AJRD
+740,D,2009-08-26 21:25:12,2009-08-24,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,7500,31111,+32%,+$0,0.0,3.0,18.0,0.0,AJRD
+741,D,2009-08-26 21:23:46,2009-08-24,GY,Redd Kathleen E.,"VP, CFO, Secretary",A - Grant,$0.00,30000,31920,>999%,+$0,0.0,3.0,18.0,0.0,AJRD
+742,D,2009-03-26 19:09:14,2009-03-25,GY,Woods Robert C,Dir,A - Grant,$0.00,1750,5000,+54%,+$0,-7.0,-10.0,-14.0,116.0,AJRD
+743,D,2009-03-26 18:51:05,2009-03-25,GY,Turchin Martin,Dir,A - Grant,$0.00,1750,4000,+78%,+$0,-7.0,-10.0,-14.0,116.0,AJRD
+744,D,2009-03-26 18:44:06,2009-03-25,GY,Perry James H,Dir,A - Grant,$0.00,1750,4000,+78%,+$0,-7.0,-10.0,-14.0,116.0,AJRD
+745,D,2009-03-26 18:40:02,2009-03-25,GY,Lorber David A,Dir,A - Grant,$0.00,1750,5000,+54%,+$0,-7.0,-10.0,-14.0,116.0,AJRD
+746,D,2009-03-26 18:38:48,2009-03-25,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1750,3125,+127%,+$0,-7.0,-10.0,-14.0,116.0,AJRD
+747,D,2009-03-26 17:07:21,2009-03-25,GY,Lichtenstein Warren G,"Dir, 10%",A - Grant,$0.00,1750,4000,+78%,+$0,-6.0,-10.0,-14.0,116.0,AJRD
+748,D,2009-03-26 17:07:18,2009-03-25,GY,Henderson James R,See Footnote 2,A - Grant,$0.00,3500,7500,+88%,+$0,-7.0,-10.0,-14.0,116.0,AJRD
+749,D,2008-09-25 17:32:06,2008-09-24,GY,Corcoran Thomas A,Dir,A - Grant,$0.00,1375,1375,New,+$0,-5.0,-14.0,-37.0,-65.0,AJRD
+750,D,2008-08-19 17:23:09,2008-08-15,GY,Henderson James R,See Explanation of Responses,A - Grant,$0.00,1750,4000,+78%,+$0,-1.0,-10.0,2.0,-61.0,AJRD
+751,D,2008-08-19 17:05:35,2008-08-15,GY,Perry James H,Dir,A - Grant,$0.00,1750,2250,+350%,+$0,-1.0,-10.0,2.0,-61.0,AJRD
+752,,2008-05-20 15:32:28,2008-05-16,GY,Perry James H,Dir,A - Grant,$0.00,500,500,New,+$0,-1.0,-2.0,-10.0,-68.0,AJRD
+753,,2008-03-27 18:25:09,2008-03-26,GY,Henderson James R,See Explanation of Responses,A - Grant,$0.00,1750,2250,+350%,+$0,3.0,-5.0,-13.0,-24.0,AJRD
+754,,2008-03-27 18:08:58,2008-03-26,GY,Lichtenstein Warren G,"Dir, 10%",A - Grant,$0.00,1750,2250,+350%,+$0,3.0,-5.0,-13.0,-24.0,AJRD
+755,,2008-03-27 17:45:31,2008-03-26,GY,Snyder Todd R,Dir,A - Grant,$0.00,1750,5250,+50%,+$0,3.0,-5.0,-13.0,-24.0,AJRD
+756,,2008-03-27 17:45:15,2008-03-26,GY,Widnall Sheila E,Dir,A - Grant,$0.00,1750,6082,+40%,+$0,3.0,-5.0,-13.0,-24.0,AJRD
+757,,2008-03-27 17:44:54,2008-03-26,GY,Woods Robert C,Dir,A - Grant,$0.00,1750,3250,+117%,+$0,3.0,-5.0,-13.0,-24.0,AJRD
+758,,2008-03-27 17:44:30,2008-03-26,GY,Wicks Timothy A,Dir,A - Grant,$0.00,3500,5500,+175%,+$0,3.0,-5.0,-13.0,-24.0,AJRD
+759,,2008-03-27 17:44:13,2008-03-26,GY,Lorber David A,Dir,A - Grant,$0.00,1750,3250,+117%,+$0,3.0,-5.0,-13.0,-24.0,AJRD
+760,,2008-03-27 17:43:42,2008-03-26,GY,Turchin Martin,Dir,A - Grant,$0.00,1750,2250,+350%,+$0,3.0,-5.0,-13.0,-24.0,AJRD
+761,,2008-03-07 17:34:02,2008-03-05,GY,Whitney Mark A,"SVP,Law; GC, Sec",F - Tax,$10.59,-2369,35263,-6%,"-$25,088",-2.0,3.0,-5.0,-22.0,AJRD
+762,,2008-03-07 17:33:45,2008-03-05,GY,Seyal Yasmin R,"SVP, CFO",F - Tax,$10.59,-6257,87260,-7%,"-$66,262",-2.0,3.0,-5.0,-22.0,AJRD
+763,,2008-03-07 17:33:24,2008-03-05,GY,Neish James Scott,"VP, Pres - AGC",F - Tax,$10.59,-7151,26036,-22%,"-$75,729",-2.0,3.0,-5.0,-22.0,AJRD
+764,,2008-03-07 17:32:58,2008-03-05,GY,Lau William M.,"VP, Treasurer",F - Tax,$10.59,-5441,10739,-34%,"-$57,620",-2.0,3.0,-5.0,-22.0,AJRD
+765,,2008-03-07 17:32:35,2008-03-05,GY,Hall Terry L,"Pres, CEO",F - Tax,$10.59,-14971,214419,-7%,"-$158,543",-2.0,3.0,-5.0,-22.0,AJRD
+766,,2008-03-07 17:32:13,2008-03-05,GY,Cutler Linda B,VP - Corporate Communications,F - Tax,$10.59,-939,13415,-7%,"-$9,944",-2.0,3.0,-5.0,-22.0,AJRD
+767,,2008-03-07 17:31:52,2008-03-05,GY,Conley Chris W,"VP - EH, S",F - Tax,$10.59,-1118,23104,-5%,"-$11,840",-2.0,3.0,-5.0,-22.0,AJRD
+768,,2008-03-07 17:31:18,2008-03-05,GY,Blackburn R Leon,"VP, Controller",F - Tax,$10.59,-6257,16831,-27%,"-$66,262",-2.0,3.0,-5.0,-22.0,AJRD
+769,,2008-03-07 17:00:55,2008-03-05,GY,Turchin Martin,Dir,A - Grant,$0.00,500,500,New,+$0,-2.0,3.0,-5.0,-22.0,AJRD
+770,,2008-03-07 17:00:49,2008-03-05,GY,Lichtenstein Warren G,"Dir, 10%",A - Grant,$0.00,500,500,New,+$0,-2.0,3.0,-5.0,-22.0,AJRD
+771,,2008-03-07 17:00:36,2008-03-05,GY,Henderson James R,See Explanation of Responses,A - Grant,$0.00,500,500,New,+$0,-2.0,3.0,-5.0,-22.0,AJRD
+772,M,2007-08-09 17:19:36,2007-08-07,GY,Steel Partners II LP,10%,P - Purchase,$11.86,315788,8034059,+4%,"+$3,744,234",7.0,-2.0,-1.0,1.0,AJRD
+773,M,2007-08-07 17:03:28,2007-08-03,GY,Steel Partners II LP,10%,P - Purchase,$11.86,491917,7718271,+7%,"+$5,835,115",-2.0,-2.0,-6.0,-4.0,AJRD
+774,,2007-08-03 17:30:02,2007-08-02,GY,Steel Partners II LP,10%,P - Purchase,$12.03,250000,7226354,+4%,"+$3,007,625",1.0,-5.0,-3.0,3.0,AJRD
+775,M,2007-08-02 18:21:12,2007-07-31,GY,Steel Partners II LP,10%,P - Purchase,$11.91,281300,6976354,+4%,"+$3,349,026",-2.0,-3.0,-6.0,-3.0,AJRD
+776,M,2007-07-31 17:18:18,2007-07-27,GY,Steel Partners II LP,10%,P - Purchase,$12.16,500000,6695054,+8%,"+$6,081,300",1.0,1.0,-6.0,-8.0,AJRD
+777,M,2007-07-27 17:18:02,2007-07-25,GY,Steel Partners II LP,10%,P - Purchase,$12.88,500000,6195054,+9%,"+$6,437,700",-1.0,0.0,-2.0,-11.0,AJRD
+778,,2007-03-29 16:54:58,2007-03-28,GY,Bolden Charles F Jr,Dir,A - Grant,$0.00,500,2000,+33%,+$0,1.0,3.0,-2.0,-13.0,AJRD
+779,,2007-03-29 16:51:55,2007-03-28,GY,Woods Robert C,Dir,A - Grant,$0.00,500,1500,+50%,+$0,1.0,3.0,-2.0,-13.0,AJRD
+780,,2007-03-29 16:51:36,2007-03-28,GY,Widnall Sheila E,Dir,A - Grant,$0.00,500,4332,+13%,+$0,1.0,3.0,-2.0,-13.0,AJRD
+781,,2007-03-29 16:51:20,2007-03-28,GY,Wicks Timothy A,Dir,A - Grant,$0.00,1000,2000,+100%,+$0,1.0,3.0,-2.0,-13.0,AJRD
+782,,2007-03-29 16:51:05,2007-03-28,GY,Snyder Todd R,Dir,A - Grant,$0.00,500,3500,+17%,+$0,1.0,3.0,-2.0,-13.0,AJRD
+783,,2007-03-29 16:50:50,2007-03-28,GY,Osterhoff James M,Dir,A - Grant,$0.00,500,8951,+6%,+$0,1.0,3.0,-2.0,-13.0,AJRD
+784,,2007-03-29 16:50:28,2007-03-28,GY,Lorber David A,Dir,A - Grant,$0.00,500,1500,+50%,+$0,1.0,3.0,-2.0,-13.0,AJRD
+785,,2007-03-29 16:49:56,2007-03-28,GY,Didion James J,Dir,A - Grant,$0.00,500,3500,+17%,+$0,1.0,3.0,-2.0,-13.0,AJRD
+786,,2007-01-30 18:22:30,2007-01-29,GY,Purdy William A Jr,"VP, Pres, Real Estate",D - Sale to issuer,$0.00,-17393,37046,-32%,-$0,0.0,1.0,-7.0,-20.0,AJRD
+787,D,2007-01-18 14:15:03,2007-01-16,GY,Whitney Mark A,"SVP,Law; GC, Sec",A - Grant,$0.00,7000,36123,+24%,+$0,-1.0,8.0,7.0,-4.0,AJRD
+788,D,2007-01-18 14:15:03,2007-01-16,GY,Whitney Mark A,"SVP,Law; GC, Sec",D - Sale to issuer,$0.00,-313,36123,-1%,-$0,-1.0,8.0,7.0,-4.0,AJRD
+789,D,2007-01-18 14:14:29,2007-01-16,GY,Seyal Yasmin R,"SVP, CFO",A - Grant,$0.00,15000,91134,+20%,+$0,-1.0,8.0,7.0,-4.0,AJRD
+790,D,2007-01-18 14:14:29,2007-01-16,GY,Seyal Yasmin R,"SVP, CFO",D - Sale to issuer,$0.00,-1000,91134,-1%,-$0,-1.0,8.0,7.0,-4.0,AJRD
+791,,2007-01-18 14:14:07,2007-01-16,GY,Purdy William A Jr,"VP, Pres, Real Estate",D - Sale to issuer,$0.00,-469,54373,-1%,-$0,-1.0,8.0,7.0,-4.0,AJRD
+792,D,2007-01-18 14:13:24,2007-01-16,GY,Neish James Scott,"VP, Pres - AGC",A - Grant,$0.00,10000,31604,+46%,+$0,-1.0,8.0,7.0,-4.0,AJRD
+793,D,2007-01-18 14:12:46,2007-01-17,GY,Hall Terry L,"Pres, CEO",A - Grant,$0.00,35000,227426,+18%,+$0,-1.0,8.0,7.0,-4.0,AJRD
+794,D,2007-01-18 14:12:46,2007-01-16,GY,Hall Terry L,"Pres, CEO",D - Sale to issuer,$0.00,-2438,227426,-1%,-$0,-1.0,8.0,7.0,-4.0,AJRD
+795,D,2007-01-18 14:12:05,2007-01-16,GY,Cutler Linda B,VP - Corporate Communications,A - Grant,$0.00,4000,13448,+42%,+$0,-1.0,8.0,7.0,-4.0,AJRD
+796,D,2007-01-18 14:12:05,2007-01-16,GY,Cutler Linda B,VP - Corporate Communications,D - Sale to issuer,$0.00,-63,13448,0%,-$0,-1.0,8.0,7.0,-4.0,AJRD
+797,D,2007-01-18 14:11:47,2007-01-16,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,5000,23433,+27%,+$0,-1.0,8.0,7.0,-4.0,AJRD
+798,D,2007-01-18 14:11:47,2007-01-16,GY,Conley Chris W,"VP - EH, S",D - Sale to issuer,$0.00,-63,23433,0%,-$0,-1.0,8.0,7.0,-4.0,AJRD
+799,D,2007-01-18 14:10:18,2007-01-16,GY,Blackburn R Leon,Dir,A - Grant,$0.00,5000,21888,+30%,+$0,-1.0,8.0,7.0,-4.0,AJRD
+800,,2006-12-04 17:30:19,2006-11-30,GY,Whitney Mark A,"VP,Law; Deputy GC",D - Sale to issuer,$13.81,-3575,29441,-11%,"-$49,371",0.0,2.0,-1.0,-6.0,AJRD
+801,,2006-12-04 17:28:56,2006-11-30,GY,Seyal Yasmin R,"SVP, CFO",D - Sale to issuer,$13.81,-8775,77104,-10%,"-$121,183",0.0,2.0,-1.0,-6.0,AJRD
+802,,2006-12-04 17:27:52,2006-11-30,GY,Purdy William A Jr,"VP, Pres, Real Estate",D - Sale to issuer,$13.81,-6500,54852,-11%,"-$89,765",0.0,2.0,-1.0,-6.0,AJRD
+803,,2006-12-04 17:26:45,2006-11-30,GY,Neish James Scott,"VP, Pres - AGC",D - Sale to issuer,$13.81,-6500,21613,-23%,"-$89,765",0.0,2.0,-1.0,-6.0,AJRD
+804,,2006-12-04 17:25:44,2006-11-30,GY,Hall Terry L,"Pres, CEO",D - Sale to issuer,$13.81,-22100,194882,-10%,"-$305,201",0.0,2.0,-1.0,-6.0,AJRD
+805,,2006-12-04 17:24:29,2006-11-30,GY,Cutler Linda B,VP - Corporate Communications,D - Sale to issuer,$13.81,-2437,9457,-20%,"-$33,655",0.0,2.0,-1.0,-6.0,AJRD
+806,,2006-12-04 17:23:25,2006-11-30,GY,Conley Chris W,"VP - EH, S",D - Sale to issuer,$13.81,-3900,18446,-17%,"-$53,859",0.0,2.0,-1.0,-6.0,AJRD
+807,,2006-12-04 17:22:09,2006-11-30,GY,Blackburn R Leon,Dir,D - Sale to issuer,$13.81,-2437,16800,-13%,"-$33,655",0.0,2.0,-1.0,-6.0,AJRD
+808,,2006-10-06 15:20:20,2006-10-06,GY,Snyder Todd R,Dir,P - Purchase,$12.10,2000,3000,+200%,"+$24,200",1.0,13.0,5.0,16.0,AJRD
+809,,2006-10-06 12:52:47,2006-10-06,GY,Pirate Capital LLC,See footnote 2,P - Purchase,$12.10,15000,5049500,0%,"+$181,500",1.0,13.0,5.0,16.0,AJRD
+810,,2006-08-15 14:24:27,2006-08-11,GY,Pirate Capital LLC,See footnote 2,P - Purchase,$13.00,7900,5034500,0%,"+$102,700",2.0,3.0,7.0,12.0,AJRD
+811,,2006-08-04 16:42:41,2006-08-03,GY,Pirate Capital LLC,See footnote 2,P - Purchase,$14.40,10000,5122300,0%,"+$144,000",0.0,-5.0,-2.0,6.0,AJRD
+812,,2006-06-26 19:32:12,2006-06-23,GY,Vangundy Kari,"VP, Treasurer",D - Sale to issuer,$0.00,-6574,13166,-33%,-$0,-2.0,-1.0,-6.0,-14.0,AJRD
+813,D,2006-05-23 17:08:51,2006-05-22,GY,Pirate Capital LLC,See footnote 2,X - OptEx,$20.00,29000,5112300,-1%,"$580,000",0.0,0.0,-9.0,-24.0,AJRD
+814,,2006-05-19 17:48:47,2006-05-18,GY,Woods Robert C,Dir,A - Grant,$0.00,1000,1000,New,+$0,-2.0,0.0,-9.0,-24.0,AJRD
+815,,2006-05-19 17:47:28,2006-05-18,GY,Widnall Sheila E,Dir,A - Grant,$0.00,500,3832,+15%,+$0,-2.0,0.0,-9.0,-24.0,AJRD
+816,,2006-05-19 17:45:57,2006-05-18,GY,Wicks Timothy A,Dir,A - Grant,$0.00,500,1000,+100%,+$0,-2.0,0.0,-9.0,-24.0,AJRD
+817,,2006-05-19 17:44:11,2006-05-18,GY,Snyder Todd R,Dir,A - Grant,$0.00,1000,1000,New,+$0,-2.0,0.0,-9.0,-24.0,AJRD
+818,,2006-05-19 17:42:00,2006-05-18,GY,Osterhoff James M,Dir,A - Grant,$0.00,500,8451,+6%,+$0,-2.0,0.0,-9.0,-24.0,AJRD
+819,,2006-05-19 17:42:00,2006-01-06,GY,Osterhoff James M,Dir,D - Sale to issuer,$18.42,-1,8451,0%,-$18,-2.0,0.0,-9.0,-24.0,AJRD
+820,M,2006-05-19 17:42:00,2006-01-26,GY,Osterhoff James M,Dir,G - Gift,$0.00,-4106,8451,+94%,-$0,-2.0,0.0,-9.0,-24.0,AJRD
+821,,2006-05-19 17:40:06,2006-05-18,GY,Lorber David A,Dir,A - Grant,$0.00,1000,1000,New,+$0,-2.0,0.0,-9.0,-24.0,AJRD
+822,,2006-05-19 17:38:18,2006-05-18,GY,Didion James J,Dir,A - Grant,$0.00,500,3000,+20%,+$0,-2.0,0.0,-9.0,-24.0,AJRD
+823,,2006-05-19 17:36:21,2006-05-18,GY,Bolden Charles F Jr,Dir,A - Grant,$0.00,500,1500,+50%,+$0,-2.0,0.0,-9.0,-24.0,AJRD
+824,,2006-05-19 17:34:17,2006-05-18,GY,Anderson J Robert,Dir,A - Grant,$0.00,500,3500,+17%,+$0,-2.0,0.0,-9.0,-24.0,AJRD
+825,D,2006-05-16 08:40:10,2006-05-12,GY,Pirate Capital LLC,See footnote 2,X - OptEx,$20.00,1000,5083300,0%,"$20,000",0.0,-4.0,-11.0,-30.0,AJRD
+826,,2006-05-12 15:25:13,2006-05-10,GY,Martin Michael F,"VP, P - AGC",D - Sale to issuer,$19.05,-25800,27619,-48%,"-$491,494",-2.0,-2.0,-10.0,-33.0,AJRD
+827,M,2006-05-10 18:52:23,2006-05-08,GY,Martin Michael F,"VP, P - AGC",D - Sale to issuer,$19.28,-9698,53419,-15%,"-$187,013",0.0,-1.0,-8.0,-33.0,AJRD
+828,D,2006-04-27 16:42:05,2006-04-26,GY,Conley Chris W,"VP - EH, S",M - OptEx,$9.60,17204,22047,+355%,"+$165,187",0.0,-1.0,-6.0,-31.0,AJRD
+829,D,2006-04-27 16:42:05,2006-04-26,GY,Conley Chris W,"VP - EH, S",S - Sale+OE,$19.47,-17204,22047,-44%,"-$335,013",0.0,-1.0,-6.0,-31.0,AJRD
+830,,2006-04-20 18:12:38,2006-04-19,GY,Purdy William A Jr,"VP, Pres, Real Estate",D - Sale to issuer,$20.10,-3000,60913,-5%,"-$60,312",-1.0,-3.0,-7.0,-31.0,AJRD
+831,,2006-04-14 13:25:07,2006-04-12,GY,Pirate Capital LLC,See footnote 1,P - Purchase,$19.15,300,5082300,0%,"+$5,745",2.0,2.0,-4.0,-29.0,AJRD
+832,,2006-03-03 18:31:03,2006-03-01,GY,Martin Michael F,"VP, P - AGC",F - Tax,$19.40,-2926,62984,-4%,"-$56,764",-1.0,-2.0,5.0,-30.0,AJRD
+833,D,2006-01-25 16:29:35,2006-01-23,GY,Vangundy Kari,"VP, Treasurer",A - Grant,$0.00,4500,19529,+30%,+$0,1.0,3.0,-1.0,-22.0,AJRD
+834,D,2006-01-25 16:29:35,2006-01-23,GY,Vangundy Kari,"VP, Treasurer",D - Sale to issuer,$0.00,-3459,19529,-15%,-$0,1.0,3.0,-1.0,-22.0,AJRD
+835,D,2006-01-25 16:27:43,2006-01-23,GY,Cutler Linda B,VP - Corporate Communications,A - Grant,$0.00,3750,11545,+48%,+$0,1.0,3.0,-1.0,-22.0,AJRD
+836,D,2006-01-25 16:27:43,2006-01-23,GY,Cutler Linda B,VP - Corporate Communications,D - Sale to issuer,$0.00,-2792,11545,-19%,-$0,1.0,3.0,-1.0,-22.0,AJRD
+837,D,2006-01-25 16:25:27,2006-01-23,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,6000,21998,+38%,+$0,1.0,3.0,-1.0,-22.0,AJRD
+838,D,2006-01-25 16:25:27,2006-01-23,GY,Conley Chris W,"VP - EH, S",D - Sale to issuer,$0.00,-7092,21998,-24%,-$0,1.0,3.0,-1.0,-22.0,AJRD
+839,D,2006-01-25 16:23:33,2006-01-23,GY,Whitney Mark A,"VP,Law; Deputy GC",A - Grant,$0.00,5500,32421,+20%,+$0,1.0,3.0,-1.0,-22.0,AJRD
+840,D,2006-01-25 16:23:33,2006-01-23,GY,Whitney Mark A,"VP,Law; Deputy GC",D - Sale to issuer,$0.00,-4626,32421,-12%,-$0,1.0,3.0,-1.0,-22.0,AJRD
+841,,2006-01-25 16:21:36,2006-01-23,GY,Carleone Joseph,"VP, P - AFC",D - Sale to issuer,$0.00,-9500,31241,-23%,-$0,1.0,3.0,-1.0,-22.0,AJRD
+842,D,2006-01-25 16:17:58,2006-01-23,GY,Martin Michael F,"VP, P - AGC",D - Sale to issuer,$0.00,-14000,65833,-18%,-$0,1.0,3.0,-1.0,-22.0,AJRD
+843,D,2006-01-25 16:15:47,2006-01-23,GY,Purdy William A Jr,"VP, Pres, Real Estate",A - Grant,$0.00,10000,63763,+19%,+$0,1.0,3.0,-1.0,-22.0,AJRD
+844,D,2006-01-25 16:15:47,2006-01-23,GY,Purdy William A Jr,"VP, Pres, Real Estate",D - Sale to issuer,$0.00,-2938,63763,-4%,-$0,1.0,3.0,-1.0,-22.0,AJRD
+845,D,2006-01-25 16:13:47,2006-01-23,GY,Neish James Scott,"VP, Pres - AGC",A - Grant,$0.00,10000,27543,+57%,+$0,1.0,3.0,-1.0,-22.0,AJRD
+846,D,2006-01-25 16:11:52,2006-01-24,GY,Hall Terry L,"Pres, CEO",A - Grant,$0.00,34000,216425,+19%,+$0,1.0,3.0,-1.0,-22.0,AJRD
+847,D,2006-01-25 16:11:52,2006-01-23,GY,Hall Terry L,"Pres, CEO",D - Sale to issuer,$0.00,-53209,216425,-20%,-$0,1.0,3.0,-1.0,-22.0,AJRD
+848,D,2006-01-25 16:08:46,2006-01-23,GY,Seyal Yasmin R,"SVP, CFO",A - Grant,$0.00,13500,84704,+19%,+$0,1.0,3.0,-1.0,-22.0,AJRD
+849,D,2006-01-25 16:08:46,2006-01-23,GY,Seyal Yasmin R,"SVP, CFO",D - Sale to issuer,$0.00,-12300,84704,-13%,-$0,1.0,3.0,-1.0,-22.0,AJRD
+850,D,2005-08-05 15:17:09,2005-08-04,GY,Martin Michael F,"VP, P - AGC",M - OptEx,$5.94,3500,79792,+5%,"+$20,781",-1.0,-1.0,-5.0,0.0,AJRD
+851,D,2005-04-26 14:33:56,2005-04-25,GY,Conley Chris W,"VP - EH, S",M - OptEx,$7.57,11000,22858,+93%,"+$83,238",0.0,-6.0,-6.0,-6.0,AJRD
+852,D,2005-04-26 14:33:56,2005-04-25,GY,Conley Chris W,"VP - EH, S",S - Sale+OE,$19.82,-11000,22858,-32%,"-$217,991",0.0,-6.0,-6.0,-6.0,AJRD
+853,D,2005-04-14 18:41:21,2005-04-12,GY,Carleone Joseph,"VP, P - AFC",M - OptEx,$10.76,84320,40432,-192%,"+$907,137",0.0,-3.0,-9.0,-10.0,AJRD
+854,DM,2005-04-14 18:41:21,2005-04-12,GY,Carleone Joseph,"VP, P - AFC",S - Sale+OE,$14.19,-84320,40432,-68%,"-$1,196,667",0.0,-3.0,-9.0,-10.0,AJRD
+855,,2005-04-14 16:57:21,2005-04-13,GY,Cyburt Philip W,Perform Policy Making Function,P - Purchase,$20.85,3200,11200,+40%,"+$66,720",0.0,-3.0,-9.0,-10.0,AJRD
+856,,2005-03-31 12:25:19,2005-03-30,GY,Widnall Sheila E,Dir,A - Grant,$0.00,500,3332,+18%,+$0,0.0,5.0,-5.0,-4.0,AJRD
+857,,2005-03-31 12:24:47,2005-03-30,GY,Anderson J Robert,Dir,A - Grant,$0.00,500,3000,+20%,+$0,0.0,5.0,-5.0,-4.0,AJRD
+858,,2005-03-31 12:24:30,2005-03-30,GY,Cooper Jerome Gary,Dir,A - Grant,$0.00,500,3954,+14%,+$0,0.0,5.0,-5.0,-4.0,AJRD
+859,,2005-03-31 12:24:14,2005-03-30,GY,Rothmeier Steven G,Dir,A - Grant,$0.00,500,5250,+11%,+$0,0.0,5.0,-5.0,-4.0,AJRD
+860,,2005-03-31 12:23:52,2005-03-30,GY,Osterhoff James M,Dir,A - Grant,$0.00,500,7952,+7%,+$0,0.0,5.0,-5.0,-4.0,AJRD
+861,,2005-03-31 12:23:27,2005-03-30,GY,Didion James J,Dir,A - Grant,$0.00,500,2500,+25%,+$0,0.0,5.0,-5.0,-4.0,AJRD
+862,,2005-03-31 12:23:05,2005-03-30,GY,Bolden Charles F Jr,Dir,A - Grant,$0.00,500,1000,+100%,+$0,0.0,5.0,-5.0,-4.0,AJRD
+863,,2005-03-31 12:22:45,2005-03-30,GY,Hall William K,Dir,D - Sale to issuer,$0.00,-1000,5406,-16%,-$0,0.0,5.0,-5.0,-4.0,AJRD
+864,D,2005-02-09 19:25:42,2005-02-07,GY,Whitney Mark A,"VP,Law; Deputy GC",A - Grant,$0.00,7500,31079,+32%,+$0,-1.0,-3.0,4.0,6.0,AJRD
+865,D,2005-02-09 19:25:42,2005-02-07,GY,Whitney Mark A,"VP,Law; Deputy GC",D - Sale to issuer,$0.00,-4000,31079,-11%,-$0,-1.0,-3.0,4.0,6.0,AJRD
+866,,2005-02-09 19:19:35,2005-02-07,GY,Carleone Joseph,"VP, P - AFC",D - Sale to issuer,$0.00,-9500,40273,-19%,-$0,-1.0,-3.0,4.0,6.0,AJRD
+867,D,2005-02-09 19:19:17,2005-02-07,GY,Vangundy Kari,"VP, Treasurer",A - Grant,$0.00,2200,17988,+14%,+$0,-1.0,-3.0,4.0,6.0,AJRD
+868,D,2005-02-09 19:19:17,2005-02-07,GY,Vangundy Kari,"VP, Treasurer",D - Sale to issuer,$0.00,-3333,17988,-16%,-$0,-1.0,-3.0,4.0,6.0,AJRD
+869,D,2005-02-09 19:19:01,2005-02-07,GY,Purdy William A Jr,"VP, Pres, Real Estate",A - Grant,$0.00,18800,56255,+50%,+$0,-1.0,-3.0,4.0,6.0,AJRD
+870,D,2005-02-09 19:19:01,2005-02-07,GY,Purdy William A Jr,"VP, Pres, Real Estate",D - Sale to issuer,$0.00,-2000,56255,-3%,-$0,-1.0,-3.0,4.0,6.0,AJRD
+871,D,2005-02-09 19:18:34,2005-02-07,GY,Martin Michael F,"VP, P - AGC",A - Grant,$0.00,20000,75884,+36%,+$0,-1.0,-3.0,4.0,6.0,AJRD
+872,D,2005-02-09 19:18:34,2005-02-07,GY,Martin Michael F,"VP, P - AGC",D - Sale to issuer,$0.00,-7225,75884,-9%,-$0,-1.0,-3.0,4.0,6.0,AJRD
+873,D,2005-02-09 19:18:09,2005-02-07,GY,Cutler Linda B,VP - Corporate Communications,A - Grant,$0.00,2000,10533,+23%,+$0,-1.0,-3.0,4.0,6.0,AJRD
+874,D,2005-02-09 19:18:09,2005-02-07,GY,Cutler Linda B,VP - Corporate Communications,D - Sale to issuer,$0.00,-2667,10533,-20%,-$0,-1.0,-3.0,4.0,6.0,AJRD
+875,D,2005-02-09 19:17:48,2005-02-07,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,2200,22770,+11%,+$0,-1.0,-3.0,4.0,6.0,AJRD
+876,D,2005-02-09 19:17:48,2005-02-07,GY,Conley Chris W,"VP - EH, S",D - Sale to issuer,$0.00,-6967,22770,-23%,-$0,-1.0,-3.0,4.0,6.0,AJRD
+877,D,2005-02-09 19:17:24,2005-02-07,GY,Seyal Yasmin R,"SVP, CFO",A - Grant,$0.00,22000,82782,+36%,+$0,-1.0,-3.0,4.0,6.0,AJRD
+878,D,2005-02-09 19:17:24,2005-02-07,GY,Seyal Yasmin R,"SVP, CFO",D - Sale to issuer,$0.00,-10300,82782,-11%,-$0,-1.0,-3.0,4.0,6.0,AJRD
+879,D,2005-02-09 19:16:51,2005-02-08,GY,Hall Terry L,"Pres, CEO",A - Grant,$0.00,49000,235138,+26%,+$0,-1.0,-3.0,4.0,6.0,AJRD
+880,D,2005-02-09 19:16:51,2005-02-07,GY,Hall Terry L,"Pres, CEO",D - Sale to issuer,$0.00,-45708,235138,-16%,-$0,-1.0,-3.0,4.0,6.0,AJRD
+881,,2005-01-03 14:53:38,2004-12-31,GY,Wolfe Robert A,Dir,D - Sale to issuer,$0.00,-500,201972,0%,-$0,-3.0,-6.0,0.0,4.0,AJRD
+882,,2004-11-16 20:27:54,2004-11-14,GY,Martin Michael F,"VP, P - AGC",F - Tax,$17.09,-5363,63087,-8%,"-$91,654",-2.0,3.0,4.0,10.0,AJRD
+883,D,2004-09-10 12:09:04,2004-09-08,GY,Martin Michael F,"VP, P - AGC",F - Tax,$13.07,-517,68476,-1%,"-$6,757",0.0,1.0,6.0,46.0,AJRD
+884,D,2004-09-10 12:09:04,2004-09-08,GY,Martin Michael F,"VP, P - AGC",M - OptEx,$7.26,2500,68476,+4%,"+$18,142",0.0,1.0,6.0,46.0,AJRD
+885,D,2004-09-09 14:49:53,2004-09-07,GY,Carleone Joseph,"VP, P - AFC",F - Tax,$13.08,-467,49872,-1%,"-$6,108",1.0,0.0,9.0,46.0,AJRD
+886,D,2004-09-09 14:49:53,2004-09-07,GY,Carleone Joseph,"VP, P - AFC",M - OptEx,$7.26,2500,49872,+5%,"+$18,142",1.0,0.0,9.0,46.0,AJRD
+887,A,2004-09-09 14:41:25,2003-09-10,GY,Carleone Joseph,"VP, Pres, AFC",F - Tax,$9.63,-56,32857,0%,-$539,1.0,0.0,9.0,46.0,AJRD
+888,,2004-05-10 13:44:31,2004-05-07,GY,Scott Gregory Kellam,"SVP, Law; GC, Sec",D - Sale to issuer,$0.00,-28000,6448,-81%,-$0,-2.0,4.0,14.0,38.0,AJRD
+889,A,2004-04-02 15:45:28,2004-03-31,GY,Wolfe Robert A,Dir,A - Grant,$0.00,500,204198,0%,+$0,0.0,-1.0,-1.0,29.0,AJRD
+890,,2004-04-02 15:29:30,2004-03-31,GY,Wolfe Robert A,Dir,A - Grant,$0.00,500,204198,0%,+$0,0.0,-1.0,-1.0,29.0,AJRD
+891,,2004-03-31 16:37:39,2004-03-31,GY,Hall William K,Dir,A - Grant,$0.00,500,6398,+8%,+$0,0.0,1.0,0.0,24.0,AJRD
+892,,2004-03-31 16:37:18,2004-03-31,GY,Widnall Sheila E,Dir,A - Grant,$0.00,500,2825,+22%,+$0,0.0,1.0,0.0,24.0,AJRD
+893,,2004-03-31 16:36:59,2004-03-31,GY,Anderson J Robert,Dir,A - Grant,$0.00,500,2500,+25%,+$0,0.0,1.0,0.0,24.0,AJRD
+894,,2004-03-31 16:36:37,2004-03-31,GY,Didion James J,Dir,A - Grant,$0.00,500,2000,+33%,+$0,0.0,1.0,0.0,24.0,AJRD
+895,,2004-03-31 16:36:05,2004-03-31,GY,Cooper Jerome Gary,Dir,A - Grant,$0.00,500,3454,+17%,+$0,0.0,1.0,0.0,24.0,AJRD
+896,,2004-03-31 16:35:07,2004-03-31,GY,Rothmeier Steven G,Dir,A - Grant,$0.00,500,4750,+12%,+$0,0.0,1.0,0.0,24.0,AJRD
+897,,2004-02-06 12:21:28,2004-02-04,GY,Whitney Mark A,"VP,Law; Deputy GC",A - Grant,$0.00,10800,26800,+68%,+$0,4.0,8.0,7.0,8.0,AJRD
+898,,2004-02-06 12:21:13,2004-02-04,GY,Van Gundy Kari,"VP, Treasurer",A - Grant,$0.00,2000,18247,+12%,+$0,4.0,8.0,7.0,8.0,AJRD
+899,,2004-02-06 12:21:01,2004-02-04,GY,Scott Gregory Kellam,"SVP, Law; GC, Sec",A - Grant,$0.00,3000,33334,+10%,+$0,4.0,8.0,7.0,8.0,AJRD
+900,,2004-02-06 12:20:41,2004-02-04,GY,Purdy William A Jr,"VP, Pres, Real Estate",A - Grant,$0.00,5700,38542,+17%,+$0,4.0,8.0,7.0,8.0,AJRD
+901,,2004-02-06 12:20:19,2004-02-04,GY,Cutler Linda B,VP - Corporate Communications,A - Grant,$0.00,1200,11200,+12%,+$0,4.0,8.0,7.0,8.0,AJRD
+902,,2004-02-06 12:20:03,2004-02-04,GY,Martin Michael F,"VP, P - AGC",A - Grant,$0.00,7850,65594,+14%,+$0,4.0,8.0,7.0,8.0,AJRD
+903,,2004-02-06 12:20:03,2004-02-04,GY,Martin Michael F,"VP, P - AGC",D - Sale to issuer,$0.00,-3225,65594,-5%,-$0,4.0,8.0,7.0,8.0,AJRD
+904,,2004-02-06 12:19:39,2004-02-04,GY,Hall Terry L,"Pres, CEO",A - Grant,$0.00,20000,229941,+10%,+$0,4.0,8.0,7.0,8.0,AJRD
+905,,2004-02-06 12:19:39,2004-02-04,GY,Hall Terry L,"Pres, CEO",D - Sale to issuer,$0.00,-12375,229941,-5%,-$0,4.0,8.0,7.0,8.0,AJRD
+906,,2004-02-06 12:19:16,2004-02-04,GY,Conley Chris W,"VP - EH, S",A - Grant,$0.00,1500,26725,+6%,+$0,4.0,8.0,7.0,8.0,AJRD
+907,,2004-02-06 12:19:16,2004-02-04,GY,Conley Chris W,"VP - EH, S",D - Sale to issuer,$0.00,-3000,26725,-10%,-$0,4.0,8.0,7.0,8.0,AJRD
+908,,2004-02-06 12:18:41,2004-02-04,GY,Seyal Yasmin R,"SVP, CFO",A - Grant,$0.00,8500,70018,+14%,+$0,4.0,8.0,7.0,8.0,AJRD
+909,,2004-02-06 12:18:41,2004-02-04,GY,Seyal Yasmin R,"SVP, CFO",D - Sale to issuer,$0.00,-3000,70018,-4%,-$0,4.0,8.0,7.0,8.0,AJRD
+910,,2004-02-06 12:18:00,2004-02-04,GY,Carleone Joseph,"VP, P - AFC",A - Grant,$0.00,7850,47099,+20%,+$0,4.0,8.0,7.0,8.0,AJRD
+911,,2004-02-06 12:18:00,2004-02-04,GY,Carleone Joseph,"VP, P - AFC",D - Sale to issuer,$0.00,-5000,47099,-10%,-$0,4.0,8.0,7.0,8.0,AJRD
+912,,2003-12-05 13:29:34,2003-12-05,GY,Jeffries Douglas,"VP, Controller",D - Sale to issuer,$0.00,-15000,5563,-73%,-$0,-1.0,4.0,7.0,14.0,AJRD
+913,,2003-10-03 16:39:42,2003-09-10,GY,Carleone Joseph,"VP, Pres, AFC",M - OptEx,$8.77,1500,44213,+4%,"+$13,161",1.0,0.0,5.0,20.0,AJRD

@@ -1,20 +1,958 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-03-10 16:43:29,2022-03-09,AX,Swanson Brian D,"EVP, Head of Consumer Bank",S - Sale,$48.90,-3699,33552,-10%,"-$180,881",,,,,AX
-1,,2022-03-04 16:50:15,2022-03-02,AX,Constantine Thomas M,EVP and Chief Credit Officer,S - Sale,$54.18,-1421,14687,-9%,"-$76,990",,,,,AX
-2,,2021-12-06 17:19:58,2021-12-03,AX,Micheletti Andrew J,"EVP, Finance",S - Sale,$56.87,-5720,528691,-1%,"-$325,281",,,,,AX
-3,,2021-11-17 20:04:02,2021-11-16,AX,Constantine Thomas M,EVP and Chief Credit Officer,S - Sale,$59.88,-2000,16108,-11%,"-$119,760",,,,,AX
-4,M,2021-11-12 17:24:59,2021-11-11,AX,Grinberg Paul,Dir,S - Sale,$59.42,-39923,54667,-42%,"-$2,372,180",,,,,AX
-5,,2021-11-10 16:27:25,2021-11-09,AX,Micheletti Andrew J,"EVP, Finance",S - Sale,$60.35,-25318,534411,-5%,"-$1,527,941",,,,,AX
-6,,2021-05-07 13:39:38,2021-05-07,AX,Park David X,"EVP, Comm Banking & Treasury",S - Sale,$46.26,-5000,2816,-64%,"-$231,300",,,,,AX
-7,,2021-03-09 19:32:42,2021-03-08,AX,Dada Uzair,Dir,S - Sale,$48.86,-4949,12429,-28%,"-$241,788",,,,,AX
-8,,2021-03-09 19:20:33,2021-03-08,AX,Micheletti Andrew J,"EVP, CFO",S - Sale,$48.96,-15000,544086,-3%,"-$734,400",,,,,AX
-9,,2021-02-25 19:50:56,2021-02-24,AX,Nick Mosich,Dir,S - Sale,$47.51,-3196,67774,-5%,"-$151,829",,,,,AX
-10,,2021-02-25 19:43:14,2021-02-25,AX,Ratinoff Edward James,Dir,S - Sale,$47.00,-5302,36230,-13%,"-$249,194",,,,,AX
-11,,2021-02-23 20:24:58,2021-02-22,AX,Nick Mosich,Dir,S - Sale,$46.29,-1874,70970,-3%,"-$86,744",,,,,AX
-12,M,2021-02-19 20:01:41,2021-02-18,AX,Nick Mosich,Dir,S - Sale,$44.24,-25384,72844,-26%,"-$1,122,994",,,,,AX
-13,,2020-11-20 18:10:54,2020-11-10,AX,Constantine Thomas M,EVP and Chief Credit Officer,S - Sale,$32.93,-4500,11717,-28%,"-$148,185",,,,,AX
-14,D,2020-03-16 19:11:05,2020-03-16,AX,Bar-Adon Eshel,"EVP, GC",P - Purchase,$16.27,200,95363,0%,"+$3,254",,,,,AX
-15,,2020-03-13 16:17:24,2020-03-12,AX,Bar-Adon Eshel,"EVP, GC",P - Purchase,$16.87,2700,95163,+3%,"+$45,542",,,,,AX
-16,,2020-03-11 18:03:52,2020-03-11,AX,Black J Brandon,Dir,P - Purchase,$19.10,5000,7583,+194%,"+$95,498",,,,,AX
-17,,2020-03-11 18:03:34,2020-03-10,AX,Grinberg Paul,Dir,P - Purchase,$20.00,12800,118268,+12%,"+$256,000",,,,,AX
-18,,2018-05-30 20:37:06,2018-05-30,BOFI,Burke John Gary,Dir,S - Sale,$41.16,-57539,1809856,-3%,"-$2,368,259",,,,,AX
+0,,2022-03-16 19:17:53,2022-03-15,AX,Argalas James S,Dir,G - Gift,$47.63,-2750,63192,-4%,"-$130,983",,,,,AX
+1,D,2022-03-15 17:53:41,2022-03-12,AX,Bar-Adon Eshel,"EVP, GC",D - Sale to issuer,$48.55,-1907,110072,-2%,"-$92,585",,,,,AX
+2,D,2022-03-15 17:53:41,2022-03-12,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$48.55,3428,110072,+3%,"+$166,429",,,,,AX
+3,D,2022-03-15 17:53:26,2022-03-12,AX,Constantine Thomas M,EVP and Chief Credit Officer,D - Sale to issuer,$48.55,-1655,15970,-9%,"-$80,350",,,,,AX
+4,D,2022-03-15 17:53:26,2022-03-12,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$48.55,2938,15970,+23%,"+$142,640",,,,,AX
+5,D,2022-03-15 17:53:14,2022-03-12,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",D - Sale to issuer,$48.55,-1277,15174,-8%,"-$61,998",,,,,AX
+6,D,2022-03-15 17:53:14,2022-03-12,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",M - OptEx,$48.55,3428,15174,+29%,"+$166,429",,,,,AX
+7,D,2022-03-15 17:52:56,2022-03-12,AX,Pitters Ron,"SVP, Head of Axos Securities",D - Sale to issuer,$48.55,-642,12388,-5%,"-$31,169",,,,,AX
+8,D,2022-03-15 17:52:56,2022-03-12,AX,Pitters Ron,"SVP, Head of Axos Securities",M - OptEx,$48.55,1567,12388,+14%,"+$76,078",,,,,AX
+9,D,2022-03-15 17:52:29,2022-03-12,AX,Swanson Brian D,"EVP, Head of Consumer Bank",D - Sale to issuer,$48.55,-1184,35486,-3%,"-$57,483",,,,,AX
+10,D,2022-03-15 17:52:29,2022-03-12,AX,Swanson Brian D,"EVP, Head of Consumer Bank",M - OptEx,$48.55,3118,35486,+10%,"+$151,379",,,,,AX
+11,D,2022-03-15 17:52:03,2022-03-12,AX,Tolla John Charles,"EVP, Chief Risk Officer",D - Sale to issuer,$48.55,-800,18220,-4%,"-$38,840",,,,,AX
+12,D,2022-03-15 17:52:03,2022-03-12,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$48.55,1959,18220,+12%,"+$95,109",,,,,AX
+13,D,2022-03-14 16:43:47,2022-03-10,AX,Walsh Derrick,"EVP, CFO",D - Sale to issuer,$48.92,-524,23438,-2%,"-$25,634",,,,,AX
+14,D,2022-03-14 16:43:47,2022-03-10,AX,Walsh Derrick,"EVP, CFO",M - OptEx,$48.92,997,23438,+4%,"+$48,773",,,,,AX
+15,D,2022-03-10 16:44:42,2022-03-08,AX,Pitters Ron,"SVP, Head of Axos Securities",D - Sale to issuer,$46.74,-345,11463,-3%,"-$16,125",,,,,AX
+16,D,2022-03-10 16:44:42,2022-03-08,AX,Pitters Ron,"SVP, Head of Axos Securities",M - OptEx,$46.74,844,11463,+8%,"+$39,449",,,,,AX
+17,D,2022-03-10 16:43:50,2022-03-08,AX,Walsh Derrick,"EVP, CFO",D - Sale to issuer,$46.74,-2203,22965,-9%,"-$102,968",,,,,AX
+18,D,2022-03-10 16:43:50,2022-03-08,AX,Walsh Derrick,"EVP, CFO",M - OptEx,$46.74,3970,22965,+21%,"+$185,558",,,,,AX
+19,,2022-03-10 16:43:29,2022-03-09,AX,Swanson Brian D,"EVP, Head of Consumer Bank",S - Sale,$48.90,-3699,33552,-10%,"-$180,881",,,,,AX
+20,,2022-03-04 16:50:15,2022-03-02,AX,Constantine Thomas M,EVP and Chief Credit Officer,S - Sale,$54.18,-1421,14687,-9%,"-$76,990",,,,,AX
+21,,2021-12-06 17:19:58,2021-12-03,AX,Micheletti Andrew J,"EVP, Finance",S - Sale,$56.87,-5720,528691,-1%,"-$325,281",,,,,AX
+22,,2021-11-17 20:04:02,2021-11-16,AX,Constantine Thomas M,EVP and Chief Credit Officer,S - Sale,$59.88,-2000,16108,-11%,"-$119,760",,,,,AX
+23,M,2021-11-12 17:24:59,2021-11-11,AX,Grinberg Paul,Dir,S - Sale,$59.42,-39923,54667,-42%,"-$2,372,180",,,,,AX
+24,,2021-11-10 16:27:25,2021-11-09,AX,Micheletti Andrew J,"EVP, Finance",S - Sale,$60.35,-25318,534411,-5%,"-$1,527,941",,,,,AX
+25,D,2021-09-09 18:25:30,2021-09-06,AX,Tolla John Charles,"EVP, Chief Risk Officer",D - Sale to issuer,$47.16,-361,17061,-2%,"-$17,025",,,,,AX
+26,D,2021-09-09 18:25:30,2021-09-06,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$0.00,1046,17061,+7%,+$0,,,,,AX
+27,D,2021-09-09 18:25:02,2021-09-06,AX,Swanson Brian D,"EVP, Head of Consumer Bank",D - Sale to issuer,$47.16,-738,37251,-2%,"-$34,804",,,,,AX
+28,D,2021-09-09 18:25:02,2021-09-06,AX,Swanson Brian D,"EVP, Head of Consumer Bank",M - OptEx,$0.00,2136,37251,+6%,+$0,,,,,AX
+29,DM,2021-09-09 18:24:30,2021-09-05,AX,Micheletti Andrew J,"EVP, CFO",D - Sale to issuer,$47.16,-11574,559729,-2%,"-$545,830",,,,,AX
+30,DM,2021-09-09 18:24:30,2021-09-05,AX,Micheletti Andrew J,"EVP, CFO",M - OptEx,$0.00,22000,559729,+4%,+$0,,,,,AX
+31,D,2021-09-09 18:23:37,2021-09-06,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",D - Sale to issuer,$47.16,-632,13023,-5%,"-$29,805",,,,,AX
+32,D,2021-09-09 18:23:37,2021-09-06,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",M - OptEx,$0.00,1830,13023,+16%,+$0,,,,,AX
+33,D,2021-09-09 18:23:11,2021-09-06,AX,Constantine Thomas M,EVP and Chief Credit Officer,D - Sale to issuer,$47.16,-1147,18108,-6%,"-$54,093",,,,,AX
+34,D,2021-09-09 18:23:11,2021-09-06,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$0.00,2222,18108,+14%,+$0,,,,,AX
+35,D,2021-09-09 18:22:49,2021-09-06,AX,Bar-Adon Eshel,"EVP, GC",D - Sale to issuer,$47.16,-1215,108551,-1%,"-$57,299",,,,,AX
+36,D,2021-09-09 18:22:49,2021-09-06,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$0.00,2353,108551,+2%,+$0,,,,,AX
+37,D,2021-09-09 16:30:47,2021-09-05,AX,Ratinoff Edward James,Dir,D - Sale to issuer,$47.16,-1341,40208,-3%,"-$63,242",,,,,AX
+38,D,2021-09-09 16:30:47,2021-09-05,AX,Ratinoff Edward James,Dir,M - OptEx,$0.00,2667,40208,+7%,+$0,,,,,AX
+39,D,2021-09-09 16:30:45,2021-09-05,AX,Nick Mosich,Dir,D - Sale to issuer,$47.16,-1710,72844,-2%,"-$80,644",,,,,AX
+40,D,2021-09-09 16:30:45,2021-09-05,AX,Nick Mosich,Dir,M - OptEx,$0.00,3400,72844,+5%,+$0,,,,,AX
+41,D,2021-09-09 16:29:59,2021-09-05,AX,Grinberg Paul,Dir,D - Sale to issuer,$47.16,-2984,94590,-3%,"-$140,725",,,,,AX
+42,D,2021-09-09 16:29:59,2021-09-05,AX,Grinberg Paul,Dir,M - OptEx,$0.00,8067,94590,+9%,+$0,,,,,AX
+43,D,2021-09-09 16:29:39,2021-09-05,AX,Dada Uzair,Dir,D - Sale to issuer,$47.16,-1341,16407,-8%,"-$63,242",,,,,AX
+44,D,2021-09-09 16:29:39,2021-09-05,AX,Dada Uzair,Dir,M - OptEx,$0.00,2667,16407,+19%,+$0,,,,,AX
+45,D,2021-09-09 16:29:22,2021-09-05,AX,Court James John,Dir,D - Sale to issuer,$47.16,-1475,45561,-3%,"-$69,561",,,,,AX
+46,D,2021-09-09 16:29:22,2021-09-05,AX,Court James John,Dir,M - OptEx,$0.00,2934,45561,+7%,+$0,,,,,AX
+47,D,2021-09-09 16:29:07,2021-09-05,AX,Black J Brandon,Dir,D - Sale to issuer,$47.16,-1341,14241,-9%,"-$63,242",,,,,AX
+48,D,2021-09-09 16:29:07,2021-09-05,AX,Black J Brandon,Dir,M - OptEx,$0.00,2667,14241,+23%,+$0,,,,,AX
+49,D,2021-09-09 16:28:42,2021-09-05,AX,Argalas James S,Dir,D - Sale to issuer,$47.16,-986,65942,-1%,"-$46,500",,,,,AX
+50,D,2021-09-09 16:28:42,2021-09-05,AX,Argalas James S,Dir,M - OptEx,$0.00,2667,65942,+4%,+$0,,,,,AX
+51,D,2021-09-01 21:28:08,2021-08-31,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$48.48,-1112,21198,-5%,"-$53,910",,,,,AX
+52,D,2021-09-01 21:28:08,2021-08-31,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$48.48,2287,21198,+12%,"+$110,874",,,,,AX
+53,D,2021-09-01 21:27:52,2021-08-31,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$48.48,-465,16376,-3%,"-$22,543",,,,,AX
+54,D,2021-09-01 21:27:52,2021-08-31,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$48.48,1345,16376,+9%,"+$65,206",,,,,AX
+55,D,2021-09-01 21:27:35,2021-08-31,AX,Swanson Brian D,"EVP, Head of Consumer Bank",F - Tax,$48.48,-1124,35853,-3%,"-$54,492",,,,,AX
+56,D,2021-09-01 21:27:35,2021-08-31,AX,Swanson Brian D,"EVP, Head of Consumer Bank",M - OptEx,$48.48,3176,35853,+10%,"+$153,972",,,,,AX
+57,D,2021-09-01 21:27:19,2021-08-31,AX,Sime Jeffrey,President and CFO,F - Tax,$48.48,-118,595,-17%,"-$5,721",,,,,AX
+58,D,2021-09-01 21:27:19,2021-08-31,AX,Sime Jeffrey,President and CFO,M - OptEx,$48.48,403,595,+210%,"+$19,537",,,,,AX
+59,D,2021-09-01 21:27:02,2021-08-31,AX,Park David X,"EVP, Comm Banking & Treasury",F - Tax,$48.48,-648,4668,-12%,"-$31,415",,,,,AX
+60,D,2021-09-01 21:27:02,2021-08-31,AX,Park David X,"EVP, Comm Banking & Treasury",M - OptEx,$48.48,1681,4668,+56%,"+$81,495",,,,,AX
+61,D,2021-09-01 21:26:39,2021-08-31,AX,Micheletti Andrew J,"EVP, CFO",F - Tax,$48.48,-5783,549303,-1%,"-$280,360",,,,,AX
+62,D,2021-09-01 21:26:39,2021-08-31,AX,Micheletti Andrew J,"EVP, CFO",M - OptEx,$48.48,11000,549303,+2%,"+$533,280",,,,,AX
+63,D,2021-09-01 21:26:19,2021-08-31,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",F - Tax,$48.48,-837,11825,-7%,"-$40,578",,,,,AX
+64,D,2021-09-01 21:26:19,2021-08-31,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",M - OptEx,$48.48,2421,11825,+26%,"+$117,370",,,,,AX
+65,D,2021-09-01 21:25:59,2021-08-31,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$48.48,-1181,17033,-6%,"-$57,255",,,,,AX
+66,D,2021-09-01 21:25:59,2021-08-31,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$48.48,2287,17033,+16%,"+$110,874",,,,,AX
+67,D,2021-09-01 21:25:44,2021-08-31,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$48.48,-1250,107413,-1%,"-$60,600",,,,,AX
+68,D,2021-09-01 21:25:44,2021-08-31,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$48.48,2421,107413,+2%,"+$117,370",,,,,AX
+69,D,2021-09-01 20:50:11,2021-08-31,AX,Ratinoff Edward James,Dir,F - Tax,$48.48,-1340,38882,-3%,"-$64,963",,,,,AX
+70,D,2021-09-01 20:50:11,2021-08-31,AX,Ratinoff Edward James,Dir,M - OptEx,$48.48,2666,38882,+7%,"+$129,248",,,,,AX
+71,D,2021-09-01 20:49:51,2021-08-31,AX,Nick Mosich,Dir,F - Tax,$48.48,-1710,71154,-2%,"-$82,901",,,,,AX
+72,D,2021-09-01 20:49:51,2021-08-31,AX,Nick Mosich,Dir,M - OptEx,$48.48,3400,71154,+5%,"+$164,832",,,,,AX
+73,D,2021-09-01 20:49:29,2021-08-31,AX,Grinberg Paul,Dir,F - Tax,$48.48,-2738,89507,-3%,"-$132,738",,,,,AX
+74,D,2021-09-01 20:49:29,2021-08-31,AX,Grinberg Paul,Dir,M - OptEx,$48.48,7400,89507,+9%,"+$358,752",,,,,AX
+75,D,2021-09-01 20:48:50,2021-08-31,AX,Dada Uzair,Dir,F - Tax,$48.48,-1340,15081,-8%,"-$64,963",,,,,AX
+76,D,2021-09-01 20:48:50,2021-08-31,AX,Dada Uzair,Dir,M - OptEx,$48.48,2666,15081,+21%,"+$129,248",,,,,AX
+77,D,2021-09-01 20:47:01,2021-08-31,AX,Dada Uzair,Dir,F - Tax,$48.48,-1340,15081,-8%,"-$64,963",,,,,AX
+78,D,2021-09-01 20:47:01,2021-08-31,AX,Dada Uzair,Dir,M - OptEx,$48.48,2666,15081,+21%,"+$129,248",,,,,AX
+79,D,2021-09-01 20:44:10,2021-08-31,AX,Court James John,Dir,F - Tax,$48.48,-1475,44102,-3%,"-$71,508",,,,,AX
+80,D,2021-09-01 20:44:10,2021-08-31,AX,Court James John,Dir,M - OptEx,$48.48,2933,44102,+7%,"+$142,192",,,,,AX
+81,D,2021-09-01 20:42:03,2021-08-31,AX,Bohlig Tamara N,Dir,F - Tax,$48.48,-1987,2606,-43%,"-$96,330",,,,,AX
+82,D,2021-09-01 20:42:03,2021-08-31,AX,Bohlig Tamara N,Dir,M - OptEx,$48.48,3953,2606,-293%,"+$191,641",,,,,AX
+83,D,2021-09-01 20:40:05,2021-08-31,AX,Black J Brandon,Dir,F - Tax,$48.48,-1340,12915,-9%,"-$64,963",,,,,AX
+84,D,2021-09-01 20:40:05,2021-08-31,AX,Black J Brandon,Dir,M - OptEx,$48.48,2666,12915,+26%,"+$129,248",,,,,AX
+85,D,2021-09-01 20:37:29,2021-08-31,AX,Argalas James S,Dir,F - Tax,$48.48,-986,64261,-2%,"-$47,801",,,,,AX
+86,D,2021-09-01 20:37:29,2021-08-31,AX,Argalas James S,Dir,M - OptEx,$48.48,2666,64261,+4%,"+$129,248",,,,,AX
+87,D,2021-08-31 18:40:35,2021-08-28,AX,Park David X,"EVP, Comm Banking & Treasury",F - Tax,$49.60,-513,3635,-12%,"-$25,445",,,,,AX
+88,D,2021-08-31 18:40:35,2021-08-28,AX,Park David X,"EVP, Comm Banking & Treasury",M - OptEx,$49.60,1332,3635,+58%,"+$66,067",,,,,AX
+89,D,2021-08-31 18:34:11,2021-08-28,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$49.60,-972,20023,-5%,"-$48,211",,,,,AX
+90,D,2021-08-31 18:34:11,2021-08-28,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$49.60,1999,20023,+11%,"+$99,150",,,,,AX
+91,D,2021-08-04 20:27:17,2021-08-01,AX,Grinberg Paul,Dir,F - Tax,$47.85,-2984,84845,-3%,"-$142,784",,,,,AX
+92,D,2021-08-04 20:27:17,2021-08-01,AX,Grinberg Paul,Dir,M - OptEx,$47.85,8067,84845,+11%,"+$386,006",,,,,AX
+93,D,2021-08-04 17:17:00,2021-08-01,AX,Nick Mosich,Dir,F - Tax,$47.85,-1710,69464,-2%,"-$81,824",,,,,AX
+94,D,2021-08-04 17:17:00,2021-08-01,AX,Nick Mosich,Dir,M - OptEx,$47.85,3400,69464,+5%,"+$162,690",,,,,AX
+95,D,2021-08-04 17:10:35,2021-08-01,AX,Ratinoff Edward James,Dir,F - Tax,$47.85,-1341,37556,-3%,"-$64,167",,,,,AX
+96,D,2021-08-04 17:10:35,2021-08-01,AX,Ratinoff Edward James,Dir,M - OptEx,$47.85,2667,37556,+8%,"+$127,616",,,,,AX
+97,D,2021-08-04 17:02:14,2021-08-01,AX,Dada Uzair,Dir,F - Tax,$47.85,-1341,13755,-9%,"-$64,167",,,,,AX
+98,D,2021-08-04 17:02:14,2021-08-01,AX,Dada Uzair,Dir,M - OptEx,$47.85,2667,13755,+24%,"+$127,616",,,,,AX
+99,D,2021-08-04 16:56:27,2021-08-01,AX,Black J Brandon,Dir,F - Tax,$47.85,-1341,11589,-10%,"-$64,167",,,,,AX
+100,D,2021-08-04 16:56:27,2021-08-01,AX,Black J Brandon,Dir,M - OptEx,$47.85,2667,11589,+30%,"+$127,616",,,,,AX
+101,D,2021-08-04 16:50:44,2021-08-01,AX,Argalas James S,Dir,F - Tax,$47.85,-986,62581,-2%,"-$47,180",,,,,AX
+102,D,2021-08-04 16:50:44,2021-08-01,AX,Argalas James S,Dir,M - OptEx,$47.85,2667,62581,+4%,"+$127,616",,,,,AX
+103,D,2021-08-04 16:44:57,2021-08-01,AX,Court James John,Dir,F - Tax,$47.85,-1475,42644,-3%,"-$70,579",,,,,AX
+104,D,2021-08-04 16:44:57,2021-08-01,AX,Court James John,Dir,M - OptEx,$47.85,2933,42644,+7%,"+$140,344",,,,,AX
+105,D,2021-08-03 16:19:12,2021-07-30,AX,Swanson Brian D,"EVP, Head of Consumer Bank",F - Tax,$47.85,-640,33801,-2%,"-$30,624",,,,,AX
+106,D,2021-08-03 16:19:12,2021-07-30,AX,Swanson Brian D,"EVP, Head of Consumer Bank",M - OptEx,$47.85,1851,33801,+6%,"+$88,570",,,,,AX
+107,D,2021-08-03 16:18:46,2021-07-30,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$47.85,-800,106242,-1%,"-$38,280",,,,,AX
+108,D,2021-08-03 16:18:46,2021-07-30,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$47.85,1550,106242,+1%,"+$74,168",,,,,AX
+109,D,2021-08-03 16:17:47,2021-07-30,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",F - Tax,$47.85,-372,10241,-4%,"-$17,800",,,,,AX
+110,D,2021-08-03 16:17:47,2021-07-30,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",M - OptEx,$47.85,1077,10241,+12%,"+$51,534",,,,,AX
+111,D,2021-08-03 16:16:26,2021-07-30,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$47.85,-711,15927,-4%,"-$34,021",,,,,AX
+112,D,2021-08-03 16:16:26,2021-07-30,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$47.85,1378,15927,+9%,"+$65,937",,,,,AX
+113,D,2021-08-03 16:14:31,2021-07-30,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$47.85,-282,15496,-2%,"-$13,494",,,,,AX
+114,D,2021-08-03 16:14:31,2021-07-30,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$47.85,818,15496,+6%,"+$39,141",,,,,AX
+115,D,2021-07-21 15:16:46,2021-07-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$45.33,-443,18996,-2%,"-$20,081",,,,,AX
+116,D,2021-07-21 15:16:46,2021-07-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$45.33,929,18996,+5%,"+$42,112",,,,,AX
+117,D,2021-07-01 16:32:51,2021-06-30,AX,Garrabrants Gregory,"Pres, CEO",F - Tax,$46.39,-84240,1626198,-5%,"-$3,907,894",,,,,AX
+118,D,2021-07-01 16:32:51,2021-06-30,AX,Garrabrants Gregory,"Pres, CEO",M - OptEx,$46.39,160000,1626198,+11%,"+$7,422,400",,,,,AX
+119,,2021-05-07 13:39:38,2021-05-07,AX,Park David X,"EVP, Comm Banking & Treasury",S - Sale,$46.26,-5000,2816,-64%,"-$231,300",,,,,AX
+120,D,2021-04-23 13:44:59,2021-04-22,AX,Park David X,"EVP, Comm Banking & Treasury",F - Tax,$44.26,-1403,7816,-15%,"-$62,097",,,,,AX
+121,D,2021-04-23 13:44:59,2021-04-22,AX,Park David X,"EVP, Comm Banking & Treasury",M - OptEx,$44.26,3637,7816,+87%,"+$160,974",,,,,AX
+122,D,2021-03-26 20:26:26,2021-03-25,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$47.00,-550,14960,-4%,"-$25,850",,,,,AX
+123,D,2021-03-26 20:26:26,2021-03-25,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$47.00,1591,14960,+12%,"+$74,777",,,,,AX
+124,D,2021-03-26 20:21:58,2021-03-25,AX,Swanson Brian D,"EVP, Head of Consumer Bank",F - Tax,$47.00,-1207,32590,-4%,"-$56,729",,,,,AX
+125,D,2021-03-26 20:21:58,2021-03-25,AX,Swanson Brian D,"EVP, Head of Consumer Bank",M - OptEx,$47.00,3491,32590,+12%,"+$164,077",,,,,AX
+126,D,2021-03-26 20:17:27,2021-03-25,AX,Park David X,"EVP, Comm Banking & Treasury",F - Tax,$47.00,-262,5582,-4%,"-$12,314",,,,,AX
+127,D,2021-03-26 20:17:27,2021-03-25,AX,Park David X,"EVP, Comm Banking & Treasury",M - OptEx,$47.00,680,5582,+14%,"+$31,960",,,,,AX
+128,D,2021-03-26 20:10:57,2021-03-25,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",F - Tax,$47.00,-770,9536,-7%,"-$36,190",,,,,AX
+129,D,2021-03-26 20:10:57,2021-03-25,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",M - OptEx,$47.00,2227,9536,+30%,"+$104,669",,,,,AX
+130,D,2021-03-26 20:05:08,2021-03-25,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$47.00,-1396,15260,-8%,"-$65,612",,,,,AX
+131,D,2021-03-26 20:05:08,2021-03-25,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$47.00,2704,15260,+22%,"+$127,088",,,,,AX
+132,D,2021-03-26 20:02:07,2021-03-25,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$47.00,-1478,105492,-1%,"-$69,466",,,,,AX
+133,D,2021-03-26 20:02:07,2021-03-25,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$47.00,2863,105492,+3%,"+$134,561",,,,,AX
+134,D,2021-03-15 21:02:40,2021-03-12,AX,Sime Jeffrey,President and CFO,F - Tax,$52.06,-130,310,-30%,"-$6,768",,,,,AX
+135,D,2021-03-15 21:02:40,2021-03-12,AX,Sime Jeffrey,President and CFO,M - OptEx,$52.06,440,310,-338%,"+$22,906",,,,,AX
+136,D,2021-03-15 20:49:26,2021-03-12,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$52.06,-1914,104107,-2%,"-$99,643",,,,,AX
+137,D,2021-03-15 20:49:26,2021-03-12,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$52.06,3427,104107,+3%,"+$178,410",,,,,AX
+138,D,2021-03-15 20:44:31,2021-03-12,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$52.06,-1517,13952,-10%,"-$78,975",,,,,AX
+139,D,2021-03-15 20:44:31,2021-03-12,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$52.06,2938,13952,+27%,"+$152,952",,,,,AX
+140,D,2021-03-15 20:39:04,2021-03-12,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",F - Tax,$52.06,-1185,8079,-13%,"-$61,691",,,,,AX
+141,D,2021-03-15 20:39:04,2021-03-12,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",M - OptEx,$52.06,3427,8079,+74%,"+$178,410",,,,,AX
+142,D,2021-03-15 20:33:55,2021-03-12,AX,Park David X,"EVP, Comm Banking & Treasury",F - Tax,$52.06,-906,5164,-15%,"-$47,166",,,,,AX
+143,D,2021-03-15 20:33:55,2021-03-12,AX,Park David X,"EVP, Comm Banking & Treasury",M - OptEx,$52.06,2350,5164,+84%,"+$122,341",,,,,AX
+144,D,2021-03-15 20:28:42,2021-03-12,AX,Swanson Brian D,"EVP, Head of Consumer Bank",F - Tax,$52.06,-1078,30306,-3%,"-$56,121",,,,,AX
+145,D,2021-03-15 20:28:42,2021-03-12,AX,Swanson Brian D,"EVP, Head of Consumer Bank",M - OptEx,$52.06,3118,30306,+11%,"+$162,323",,,,,AX
+146,D,2021-03-15 20:23:27,2021-03-12,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$52.06,-677,13919,-5%,"-$35,245",,,,,AX
+147,D,2021-03-15 20:23:27,2021-03-12,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$52.06,1958,13919,+16%,"+$101,933",,,,,AX
+148,,2021-03-09 19:32:42,2021-03-08,AX,Dada Uzair,Dir,S - Sale,$48.86,-4949,12429,-28%,"-$241,788",,,,,AX
+149,D,2021-03-09 19:26:38,2021-03-08,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$48.94,-2033,18510,-10%,"-$99,495",,,,,AX
+150,D,2021-03-09 19:26:38,2021-03-08,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$48.94,3969,18510,+27%,"+$194,243",,,,,AX
+151,,2021-03-09 19:20:33,2021-03-08,AX,Micheletti Andrew J,"EVP, CFO",S - Sale,$48.96,-15000,544086,-3%,"-$734,400",,,,,AX
+152,,2021-03-01 19:43:17,2021-02-26,AX,Argalas James S,Dir,G - Gift,$0.00,-3500,60900,-5%,-$0,,,,,AX
+153,,2021-02-25 19:50:56,2021-02-24,AX,Nick Mosich,Dir,S - Sale,$47.51,-3196,67774,-5%,"-$151,829",,,,,AX
+154,,2021-02-25 19:43:14,2021-02-25,AX,Ratinoff Edward James,Dir,S - Sale,$47.00,-5302,36230,-13%,"-$249,194",,,,,AX
+155,,2021-02-23 20:24:58,2021-02-22,AX,Nick Mosich,Dir,S - Sale,$46.29,-1874,70970,-3%,"-$86,744",,,,,AX
+156,M,2021-02-19 20:01:41,2021-02-18,AX,Nick Mosich,Dir,S - Sale,$44.24,-25384,72844,-26%,"-$1,122,994",,,,,AX
+157,,2020-12-30 19:32:11,2020-12-29,AX,Grinberg Paul,Dir,G - Gift,$37.47,-45850,79762,-37%,"-$1,718,000",,,,,AX
+158,D,2020-12-22 13:49:11,2020-12-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$36.61,-423,16574,-2%,"-$15,486",,,,,AX
+159,D,2020-12-22 13:49:11,2020-12-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$36.61,871,16574,+6%,"+$31,887",,,,,AX
+160,D,2020-12-22 13:42:13,2020-12-19,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$36.61,-361,12638,-3%,"-$13,216",,,,,AX
+161,D,2020-12-22 13:42:13,2020-12-19,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$36.61,1045,12638,+9%,"+$38,257",,,,,AX
+162,D,2020-12-22 13:34:31,2020-12-19,AX,Swanson Brian D,"EVP, Head of Consumer Bank",F - Tax,$36.61,-843,28266,-3%,"-$30,862",,,,,AX
+163,D,2020-12-22 13:34:31,2020-12-19,AX,Swanson Brian D,"EVP, Head of Consumer Bank",M - OptEx,$36.61,2438,28266,+9%,"+$89,255",,,,,AX
+164,D,2020-12-22 13:08:12,2020-12-19,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$36.61,-869,12531,-6%,"-$31,814",,,,,AX
+165,D,2020-12-22 13:08:12,2020-12-19,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$36.61,1683,12531,+16%,"+$61,615",,,,,AX
+166,D,2020-12-22 12:57:27,2020-12-19,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$36.61,-1079,102594,-1%,"-$39,502",,,,,AX
+167,D,2020-12-22 12:57:27,2020-12-19,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$36.61,2090,102594,+2%,"+$76,515",,,,,AX
+168,,2020-12-04 18:08:02,2020-12-03,AX,Black J Brandon,Dir,G - Gift,$0.00,-600,10263,-6%,-$0,,,,,AX
+169,,2020-11-20 18:10:54,2020-11-10,AX,Constantine Thomas M,EVP and Chief Credit Officer,S - Sale,$32.93,-4500,11717,-28%,"-$148,185",,,,,AX
+170,D,2020-11-02 13:16:13,2020-10-30,AX,Black J Brandon,Dir,F - Tax,$27.26,-636,10863,-6%,"-$17,337",,,,,AX
+171,D,2020-11-02 13:16:13,2020-10-30,AX,Black J Brandon,Dir,M - OptEx,$27.26,1265,10863,+13%,"+$34,484",,,,,AX
+172,,2020-09-25 17:26:24,2020-09-23,AX,Grinberg Paul,Dir,F - Tax,$21.55,-495,125612,0%,"-$10,667",,,,,AX
+173,D,2020-09-09 16:31:41,2020-09-05,AX,Ratinoff Edward James,Dir,F - Tax,$24.91,-1341,41532,-3%,"-$33,404",,,,,AX
+174,D,2020-09-09 16:31:41,2020-09-05,AX,Ratinoff Edward James,Dir,M - OptEx,$24.91,2667,41532,+7%,"+$66,435",,,,,AX
+175,D,2020-09-09 16:31:19,2020-09-05,AX,Nick Mosich,Dir,F - Tax,$24.91,-1710,98228,-2%,"-$42,596",,,,,AX
+176,D,2020-09-09 16:31:19,2020-09-05,AX,Nick Mosich,Dir,M - OptEx,$24.91,3400,98228,+4%,"+$84,694",,,,,AX
+177,D,2020-09-09 16:30:58,2020-09-05,AX,Grinberg Paul,Dir,F - Tax,$24.91,-2984,126107,-2%,"-$74,331",,,,,AX
+178,D,2020-09-09 16:30:58,2020-09-05,AX,Grinberg Paul,Dir,M - OptEx,$24.91,8067,126107,+7%,"+$200,949",,,,,AX
+179,D,2020-09-09 16:30:40,2020-09-05,AX,Dada Uzair,Dir,F - Tax,$24.91,-1341,17378,-7%,"-$33,404",,,,,AX
+180,D,2020-09-09 16:30:40,2020-09-05,AX,Dada Uzair,Dir,M - OptEx,$24.91,2667,17378,+18%,"+$66,435",,,,,AX
+181,D,2020-09-09 16:30:20,2020-09-05,AX,Court James John,Dir,F - Tax,$24.91,-1475,41186,-3%,"-$36,742",,,,,AX
+182,D,2020-09-09 16:30:20,2020-09-05,AX,Court James John,Dir,M - OptEx,$24.91,2933,41186,+8%,"+$73,061",,,,,AX
+183,D,2020-09-09 16:30:02,2020-09-05,AX,Black J Brandon,Dir,F - Tax,$24.91,-1341,10234,-12%,"-$33,404",,,,,AX
+184,D,2020-09-09 16:30:02,2020-09-05,AX,Black J Brandon,Dir,M - OptEx,$24.91,2667,10234,+35%,"+$66,435",,,,,AX
+185,D,2020-09-09 16:29:47,2020-09-05,AX,Argalas James S,Dir,F - Tax,$24.91,-986,64400,-2%,"-$24,561",,,,,AX
+186,D,2020-09-09 16:29:47,2020-09-05,AX,Argalas James S,Dir,M - OptEx,$24.91,2667,64400,+4%,"+$66,435",,,,,AX
+187,D,2020-09-09 16:29:26,2020-09-06,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$24.91,-361,11954,-3%,"-$8,993",,,,,AX
+188,D,2020-09-09 16:29:26,2020-09-06,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$24.91,1046,11954,+10%,"+$26,056",,,,,AX
+189,D,2020-09-09 16:29:08,2020-09-06,AX,Swanson Brian D,"EVP, Head of Consumer Bank",F - Tax,$24.91,-738,26671,-3%,"-$18,384",,,,,AX
+190,D,2020-09-09 16:29:08,2020-09-06,AX,Swanson Brian D,"EVP, Head of Consumer Bank",M - OptEx,$24.91,2136,26671,+9%,"+$53,208",,,,,AX
+191,DM,2020-09-09 16:28:40,2020-09-05,AX,Micheletti Andrew J,"EVP, CFO",F - Tax,$24.91,-11582,559086,-2%,"-$288,508",,,,,AX
+192,DM,2020-09-09 16:28:40,2020-09-05,AX,Micheletti Andrew J,"EVP, CFO",M - OptEx,$24.91,22000,559086,+4%,"+$548,020",,,,,AX
+193,D,2020-09-09 16:28:17,2020-09-06,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",M - OptEx,$24.91,1830,5837,+46%,"+$45,585",,,,,AX
+194,D,2020-09-09 16:27:55,2020-09-06,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$24.91,-1147,16217,-7%,"-$28,572",,,,,AX
+195,D,2020-09-09 16:27:55,2020-09-06,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$24.91,2222,16217,+16%,"+$55,350",,,,,AX
+196,D,2020-09-09 16:27:35,2020-09-06,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$24.91,-813,101583,-1%,"-$20,252",,,,,AX
+197,D,2020-09-09 16:27:35,2020-09-06,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$24.91,2353,101583,+2%,"+$58,613",,,,,AX
+198,D,2020-09-02 16:49:26,2020-08-31,AX,Bohlig Tamara N,Dir,F - Tax,$24.78,-646,640,-50%,"-$16,008",,,,,AX
+199,D,2020-09-02 16:49:26,2020-08-31,AX,Bohlig Tamara N,Dir,M - OptEx,$24.78,1286,640,-199%,"+$31,867",,,,,AX
+200,D,2020-08-31 16:40:57,2020-08-28,AX,Park David X,"EVP, Comm Banking & Treasury",F - Tax,$25.35,-460,3720,-11%,"-$11,661",,,,,AX
+201,D,2020-08-31 16:40:57,2020-08-28,AX,Park David X,"EVP, Comm Banking & Treasury",M - OptEx,$25.35,1332,3720,+56%,"+$33,766",,,,,AX
+202,D,2020-08-31 16:40:39,2020-08-28,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$25.35,-972,16126,-6%,"-$24,640",,,,,AX
+203,D,2020-08-31 16:40:39,2020-08-28,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$25.35,1998,16126,+14%,"+$50,649",,,,,AX
+204,D,2020-08-26 16:16:08,2020-08-24,AX,Micheletti Andrew J,"EVP, CFO",F - Tax,$25.16,-7883,548668,-1%,"-$198,336",,,,,AX
+205,D,2020-08-26 16:16:08,2020-08-24,AX,Micheletti Andrew J,"EVP, CFO",M - OptEx,$25.16,15000,548668,+3%,"+$377,400",,,,,AX
+206,D,2020-08-18 20:11:17,2020-08-17,AX,Grinberg Paul,Dir,F - Tax,$24.87,-2812,121024,-2%,"-$69,934",,,,,AX
+207,D,2020-08-18 20:11:17,2020-08-17,AX,Grinberg Paul,Dir,M - OptEx,$24.87,7600,121024,+7%,"+$189,012",,,,,AX
+208,D,2020-08-18 20:10:58,2020-08-17,AX,Nick Mosich,Dir,F - Tax,$24.87,-1710,96538,-2%,"-$42,528",,,,,AX
+209,D,2020-08-18 20:10:58,2020-08-17,AX,Nick Mosich,Dir,M - OptEx,$24.87,3400,96538,+4%,"+$84,558",,,,,AX
+210,D,2020-08-18 20:10:41,2020-08-17,AX,Ratinoff Edward James,Dir,F - Tax,$24.87,-1341,40206,-3%,"-$33,351",,,,,AX
+211,D,2020-08-18 20:10:41,2020-08-17,AX,Ratinoff Edward James,Dir,M - OptEx,$24.87,2667,40206,+7%,"+$66,328",,,,,AX
+212,D,2020-08-18 20:10:20,2020-08-17,AX,Court James John,Dir,F - Tax,$24.87,-1341,39728,-3%,"-$33,351",,,,,AX
+213,D,2020-08-18 20:10:20,2020-08-17,AX,Court James John,Dir,M - OptEx,$24.87,2667,39728,+7%,"+$66,328",,,,,AX
+214,D,2020-08-18 20:10:01,2020-08-17,AX,Argalas James S,Dir,F - Tax,$24.87,-1258,62719,-2%,"-$31,286",,,,,AX
+215,D,2020-08-18 20:10:01,2020-08-17,AX,Argalas James S,Dir,M - OptEx,$24.87,3400,62719,+6%,"+$84,558",,,,,AX
+216,D,2020-08-18 20:09:43,2020-08-17,AX,Dada Uzair,Dir,F - Tax,$24.87,-1341,16052,-8%,"-$33,351",,,,,AX
+217,D,2020-08-18 20:09:43,2020-08-17,AX,Dada Uzair,Dir,M - OptEx,$24.87,2667,16052,+20%,"+$66,328",,,,,AX
+218,D,2020-08-05 17:34:22,2020-08-01,AX,Ratinoff Edward James,Dir,F - Tax,$22.41,-1341,38880,-3%,"-$30,052",,,,,AX
+219,D,2020-08-05 17:34:22,2020-08-01,AX,Ratinoff Edward James,Dir,M - OptEx,$22.41,2666,38880,+7%,"+$59,745",,,,,AX
+220,D,2020-08-05 17:33:56,2020-08-01,AX,Nick Mosich,Dir,F - Tax,$22.41,-1710,94848,-2%,"-$38,321",,,,,AX
+221,D,2020-08-05 17:33:56,2020-08-01,AX,Nick Mosich,Dir,M - OptEx,$22.41,3400,94848,+4%,"+$76,194",,,,,AX
+222,D,2020-08-05 17:33:36,2020-08-01,AX,Grinberg Paul,Dir,F - Tax,$22.41,-2984,116236,-3%,"-$66,871",,,,,AX
+223,D,2020-08-05 17:33:36,2020-08-01,AX,Grinberg Paul,Dir,M - OptEx,$22.41,8066,116236,+7%,"+$180,759",,,,,AX
+224,D,2020-08-05 17:33:07,2020-08-01,AX,Dada Uzair,Dir,F - Tax,$22.41,-1341,14726,-8%,"-$30,052",,,,,AX
+225,D,2020-08-05 17:33:07,2020-08-01,AX,Dada Uzair,Dir,M - OptEx,$22.41,2666,14726,+22%,"+$59,745",,,,,AX
+226,D,2020-08-05 17:32:47,2020-08-01,AX,Court James John,Dir,F - Tax,$22.41,-1475,38402,-4%,"-$33,055",,,,,AX
+227,D,2020-08-05 17:32:47,2020-08-01,AX,Court James John,Dir,M - OptEx,$22.41,2933,38402,+8%,"+$65,729",,,,,AX
+228,D,2020-08-05 17:32:27,2020-08-01,AX,Black J Brandon,Dir,F - Tax,$22.41,-1341,8908,-13%,"-$30,052",,,,,AX
+229,D,2020-08-05 17:32:27,2020-08-01,AX,Black J Brandon,Dir,M - OptEx,$22.41,2666,8908,+43%,"+$59,745",,,,,AX
+230,D,2020-08-05 17:32:06,2020-08-01,AX,Argalas James S,Dir,F - Tax,$22.41,-986,60577,-2%,"-$22,096",,,,,AX
+231,D,2020-08-05 17:32:06,2020-08-01,AX,Argalas James S,Dir,M - OptEx,$22.41,2666,60577,+5%,"+$59,745",,,,,AX
+232,D,2020-08-03 20:21:51,2020-07-30,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$22.57,-535,100043,-1%,"-$12,075",,,,,AX
+233,D,2020-08-03 20:21:51,2020-07-30,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$22.57,1550,100043,+2%,"+$34,984",,,,,AX
+234,D,2020-08-03 20:20:58,2020-07-30,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$22.57,-725,15142,-5%,"-$16,363",,,,,AX
+235,D,2020-08-03 20:20:58,2020-07-30,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$22.57,1378,15142,+10%,"+$31,101",,,,,AX
+236,D,2020-08-03 20:20:20,2020-07-30,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",M - OptEx,$22.57,1076,4007,+37%,"+$24,285",,,,,AX
+237,D,2020-08-03 20:19:55,2020-07-30,AX,Swanson Brian D,"EVP, Chief Lending Officer",F - Tax,$22.57,-640,25273,-2%,"-$14,445",,,,,AX
+238,D,2020-08-03 20:19:55,2020-07-30,AX,Swanson Brian D,"EVP, Chief Lending Officer",M - OptEx,$22.57,1851,25273,+8%,"+$41,777",,,,,AX
+239,D,2020-08-03 20:18:14,2020-07-30,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$22.57,-282,11269,-2%,"-$6,365",,,,,AX
+240,D,2020-08-03 20:18:14,2020-07-30,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$22.57,818,11269,+8%,"+$18,462",,,,,AX
+241,D,2020-07-20 20:13:54,2020-07-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$20.61,-451,15100,-3%,"-$9,295",,,,,AX
+242,D,2020-07-20 20:13:54,2020-07-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$20.61,928,15100,+7%,"+$19,126",,,,,AX
+243,D,2020-07-14 16:22:42,2020-07-12,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$20.16,-443,14623,-3%,"-$8,931",,,,,AX
+244,D,2020-07-14 16:22:42,2020-07-12,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$20.16,911,14623,+7%,"+$18,366",,,,,AX
+245,D,2020-07-14 16:22:22,2020-07-12,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$20.16,-460,10733,-4%,"-$9,274",,,,,AX
+246,D,2020-07-14 16:22:22,2020-07-12,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$20.16,1332,10733,+14%,"+$26,853",,,,,AX
+247,D,2020-07-14 16:22:04,2020-07-12,AX,Swanson Brian D,"EVP, Chief Lending Officer",F - Tax,$20.16,-1017,24062,-4%,"-$20,503",,,,,AX
+248,D,2020-07-14 16:22:04,2020-07-12,AX,Swanson Brian D,"EVP, Chief Lending Officer",M - OptEx,$20.16,2943,24062,+14%,"+$59,331",,,,,AX
+249,D,2020-07-14 16:21:44,2020-07-12,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$20.16,-678,14489,-4%,"-$13,668",,,,,AX
+250,D,2020-07-14 16:21:44,2020-07-12,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$20.16,1962,14489,+16%,"+$39,554",,,,,AX
+251,D,2020-07-14 16:21:26,2020-07-12,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$20.16,-848,99028,-1%,"-$17,096",,,,,AX
+252,D,2020-07-14 16:21:26,2020-07-12,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$20.16,2453,99028,+3%,"+$49,452",,,,,AX
+253,D,2020-07-01 20:04:45,2020-06-30,AX,Garrabrants Gregory,"Pres, CEO",F - Tax,$22.08,-122148,1550187,-7%,"-$2,697,028",,,,,AX
+254,D,2020-07-01 20:04:45,2020-06-30,AX,Garrabrants Gregory,"Pres, CEO",M - OptEx,$22.08,232000,1550187,+18%,"+$5,122,560",,,,,AX
+255,D,2020-04-23 19:23:53,2020-04-22,AX,Park David X,"EVP, Comm Banking & Treasury",F - Tax,$17.09,-1257,2848,-31%,"-$21,482",,,,,AX
+256,D,2020-04-23 19:23:53,2020-04-22,AX,Park David X,"EVP, Comm Banking & Treasury",M - OptEx,$17.09,3637,2848,-461%,"+$62,156",,,,,AX
+257,D,2020-03-27 13:21:58,2020-03-25,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$17.21,-648,9861,-6%,"-$11,152",,,,,AX
+258,D,2020-03-27 13:21:58,2020-03-25,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$17.21,1591,9861,+19%,"+$27,381",,,,,AX
+259,D,2020-03-27 13:21:26,2020-03-25,AX,Swanson Brian D,"EVP, Chief Lending Officer",F - Tax,$17.21,-1175,22136,-5%,"-$20,222",,,,,AX
+260,D,2020-03-27 13:21:26,2020-03-25,AX,Swanson Brian D,"EVP, Chief Lending Officer",M - OptEx,$17.21,3491,22136,+19%,"+$60,080",,,,,AX
+261,D,2020-03-27 13:21:01,2020-03-25,AX,Park David X,"EVP, Comm Banking & Treasury",F - Tax,$17.21,-277,468,-37%,"-$4,767",,,,,AX
+262,D,2020-03-27 13:21:01,2020-03-25,AX,Park David X,"EVP, Comm Banking & Treasury",M - OptEx,$17.21,680,468,-321%,"+$11,703",,,,,AX
+263,D,2020-03-27 13:20:38,2020-03-25,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",M - OptEx,$17.21,2227,2931,+316%,"+$38,327",,,,,AX
+264,D,2020-03-27 13:20:16,2020-03-25,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$17.21,-968,13205,-7%,"-$16,659",,,,,AX
+265,D,2020-03-27 13:20:16,2020-03-25,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$17.21,2704,13205,+26%,"+$46,536",,,,,AX
+266,D,2020-03-27 13:19:57,2020-03-25,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$17.21,-964,97423,-1%,"-$16,590",,,,,AX
+267,D,2020-03-27 13:19:57,2020-03-25,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$17.21,2863,97423,+3%,"+$49,272",,,,,AX
+268,D,2020-03-16 19:11:05,2020-03-16,AX,Bar-Adon Eshel,"EVP, GC",P - Purchase,$16.27,200,95363,0%,"+$3,254",,,,,AX
+269,,2020-03-13 16:17:24,2020-03-12,AX,Bar-Adon Eshel,"EVP, GC",P - Purchase,$16.87,2700,95163,+3%,"+$45,542",,,,,AX
+270,,2020-03-11 18:03:52,2020-03-11,AX,Black J Brandon,Dir,P - Purchase,$19.10,5000,7583,+194%,"+$95,498",,,,,AX
+271,,2020-03-11 18:03:34,2020-03-10,AX,Grinberg Paul,Dir,P - Purchase,$20.00,12800,118268,+12%,"+$256,000",,,,,AX
+272,D,2020-03-09 16:57:30,2020-03-08,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$22.13,-1014,13877,-7%,"-$22,440",,,,,AX
+273,D,2020-03-09 16:57:30,2020-03-08,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$22.13,1849,13877,+15%,"+$40,918",,,,,AX
+274,D,2020-01-21 16:26:24,2020-01-17,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$30.45,-852,92463,-1%,"-$25,943",,,,,AX
+275,D,2020-01-21 16:26:24,2020-01-17,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$30.45,2091,92463,+2%,"+$63,671",,,,,AX
+276,D,2020-01-21 16:26:04,2020-01-17,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$30.45,-682,11105,-6%,"-$20,767",,,,,AX
+277,D,2020-01-21 16:26:04,2020-01-17,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$30.45,1673,11105,+18%,"+$50,943",,,,,AX
+278,D,2020-01-21 16:25:46,2020-01-17,AX,Swanson Brian D,"EVP, Chief Lending Officer",F - Tax,$30.45,-974,19513,-5%,"-$29,658",,,,,AX
+279,D,2020-01-21 16:25:46,2020-01-17,AX,Swanson Brian D,"EVP, Chief Lending Officer",M - OptEx,$30.45,2389,19513,+14%,"+$72,745",,,,,AX
+280,D,2020-01-21 16:25:22,2020-01-17,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$30.45,-438,8673,-5%,"-$13,337",,,,,AX
+281,D,2020-01-21 16:25:22,2020-01-17,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$30.45,1075,8673,+14%,"+$32,734",,,,,AX
+282,D,2019-12-20 17:38:05,2019-12-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$30.35,-423,13042,-3%,"-$12,838",,,,,AX
+283,D,2019-12-20 17:38:05,2019-12-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$30.35,871,13042,+7%,"+$26,435",,,,,AX
+284,D,2019-12-20 17:37:41,2019-12-19,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$30.35,-361,8036,-4%,"-$10,956",,,,,AX
+285,D,2019-12-20 17:37:41,2019-12-19,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$30.35,1045,8036,+15%,"+$31,716",,,,,AX
+286,D,2019-12-20 17:37:19,2019-12-19,AX,Swanson Brian D,"EVP, Chief Lending Officer",F - Tax,$30.35,-842,18098,-4%,"-$25,555",,,,,AX
+287,D,2019-12-20 17:37:19,2019-12-19,AX,Swanson Brian D,"EVP, Chief Lending Officer",M - OptEx,$30.35,2437,18098,+16%,"+$73,963",,,,,AX
+288,D,2019-12-20 17:37:01,2019-12-19,AX,Fraser James A,"EVP, Specialty RE, C&I Lending",F - Tax,$30.35,-281,4013,-7%,"-$8,528",,,,,AX
+289,D,2019-12-20 17:37:01,2019-12-19,AX,Fraser James A,"EVP, Specialty RE, C&I Lending",M - OptEx,$30.35,813,4013,+25%,"+$24,675",,,,,AX
+290,D,2019-12-20 17:36:38,2019-12-19,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$30.35,-581,10114,-5%,"-$17,633",,,,,AX
+291,D,2019-12-20 17:36:38,2019-12-19,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$30.35,1683,10114,+20%,"+$51,079",,,,,AX
+292,D,2019-12-20 17:36:04,2019-12-19,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$30.35,-722,91224,-1%,"-$21,913",,,,,AX
+293,D,2019-12-20 17:36:04,2019-12-19,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$30.35,2089,91224,+2%,"+$63,401",,,,,AX
+294,D,2019-12-17 13:37:54,2019-12-15,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$29.44,-388,12594,-3%,"-$11,423",,,,,AX
+295,D,2019-12-17 13:37:54,2019-12-15,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$29.44,799,12594,+7%,"+$23,523",,,,,AX
+296,D,2019-10-31 18:43:07,2019-10-30,AX,Black J Brandon,Dir,F - Tax,$29.49,-636,2583,-20%,"-$18,756",,,,,AX
+297,D,2019-10-31 18:43:07,2019-10-30,AX,Black J Brandon,Dir,M - OptEx,$29.49,1265,2583,+96%,"+$37,305",,,,,AX
+298,D,2019-09-09 19:31:49,2019-09-05,AX,Ratinoff Edward James,Dir,F - Tax,$25.91,-1341,37555,-3%,"-$34,745",,,,,AX
+299,D,2019-09-09 19:31:49,2019-09-05,AX,Ratinoff Edward James,Dir,M - OptEx,$25.91,2666,37555,+8%,"+$69,076",,,,,AX
+300,D,2019-09-09 19:31:25,2019-09-05,AX,Nick Mosich,Dir,F - Tax,$25.91,-1710,93158,-2%,"-$44,306",,,,,AX
+301,D,2019-09-09 19:31:25,2019-09-05,AX,Nick Mosich,Dir,M - OptEx,$25.91,3400,93158,+4%,"+$88,094",,,,,AX
+302,D,2019-09-09 19:30:58,2019-09-05,AX,Micheletti Andrew J,"EVP, CFO",F - Tax,$25.91,-5791,541223,-1%,"-$150,045",,,,,AX
+303,D,2019-09-09 19:30:58,2019-09-05,AX,Micheletti Andrew J,"EVP, CFO",M - OptEx,$25.91,11000,541223,+2%,"+$285,010",,,,,AX
+304,D,2019-09-09 19:30:35,2019-09-05,AX,Grinberg Paul,Dir,F - Tax,$25.91,-3341,105468,-3%,"-$86,565",,,,,AX
+305,D,2019-09-09 19:30:35,2019-09-05,AX,Grinberg Paul,Dir,M - OptEx,$25.91,8066,105468,+8%,"+$208,990",,,,,AX
+306,D,2019-09-09 19:30:10,2019-09-05,AX,Dada Uzair,Dir,F - Tax,$25.91,-1341,13401,-9%,"-$34,745",,,,,AX
+307,D,2019-09-09 19:30:10,2019-09-05,AX,Dada Uzair,Dir,M - OptEx,$25.91,2666,13401,+25%,"+$69,076",,,,,AX
+308,D,2019-09-09 19:29:51,2019-09-05,AX,Court James John,Dir,F - Tax,$25.91,-1475,36944,-4%,"-$38,217",,,,,AX
+309,D,2019-09-09 19:29:51,2019-09-05,AX,Court James John,Dir,M - OptEx,$25.91,2933,36944,+9%,"+$75,994",,,,,AX
+310,D,2019-09-09 19:29:30,2019-09-05,AX,Black J Brandon,Dir,F - Tax,$25.91,-1341,1954,-41%,"-$34,745",,,,,AX
+311,D,2019-09-09 19:29:30,2019-09-05,AX,Black J Brandon,Dir,M - OptEx,$25.91,2666,1954,-374%,"+$69,076",,,,,AX
+312,D,2019-09-09 19:29:07,2019-09-05,AX,Argalas James S,Dir,F - Tax,$25.91,-986,58897,-2%,"-$25,547",,,,,AX
+313,D,2019-09-09 19:29:07,2019-09-05,AX,Argalas James S,Dir,M - OptEx,$25.91,2666,58897,+5%,"+$69,076",,,,,AX
+314,D,2019-08-27 13:07:12,2019-08-24,AX,Burke John Gary,Dir,F - Tax,$24.91,-859,1821472,0%,"-$21,398",,,,,AX
+315,D,2019-08-27 13:07:12,2019-08-24,AX,Burke John Gary,Dir,M - OptEx,$24.91,2667,1821472,0%,"+$66,435",,,,,AX
+316,D,2019-08-27 13:06:55,2019-08-17,AX,Burke John Gary,Dir,F - Tax,$27.12,-859,1819664,0%,"-$23,296",,,,,AX
+317,D,2019-08-27 13:06:55,2019-08-17,AX,Burke John Gary,Dir,M - OptEx,$27.12,2667,1819664,0%,"+$72,329",,,,,AX
+318,D,2019-08-27 13:06:20,2019-08-24,AX,Ratinoff Edward James,Dir,F - Tax,$24.91,-1341,36230,-4%,"-$33,404",,,,,AX
+319,D,2019-08-27 13:06:20,2019-08-24,AX,Ratinoff Edward James,Dir,M - OptEx,$24.91,2667,36230,+8%,"+$66,435",,,,,AX
+320,D,2019-08-27 13:05:46,2019-08-24,AX,Nick Mosich,Dir,F - Tax,$24.91,-1710,91468,-2%,"-$42,596",,,,,AX
+321,D,2019-08-27 13:05:46,2019-08-24,AX,Nick Mosich,Dir,M - OptEx,$24.91,3400,91468,+4%,"+$84,694",,,,,AX
+322,D,2019-08-27 13:05:17,2019-08-24,AX,Micheletti Andrew J,"EVP, CFO",F - Tax,$24.91,-15780,536014,-3%,"-$393,080",,,,,AX
+323,D,2019-08-27 13:05:17,2019-08-24,AX,Micheletti Andrew J,"EVP, CFO",M - OptEx,$24.91,30000,536014,+6%,"+$747,300",,,,,AX
+324,D,2019-08-27 13:04:51,2019-08-24,AX,Grinberg Paul,Dir,F - Tax,$24.91,-1736,100743,-2%,"-$43,244",,,,,AX
+325,D,2019-08-27 13:04:51,2019-08-24,AX,Grinberg Paul,Dir,M - OptEx,$24.91,3667,100743,+4%,"+$91,345",,,,,AX
+326,D,2019-08-27 13:04:27,2019-08-24,AX,Dada Uzair,Dir,F - Tax,$24.91,-1341,12076,-10%,"-$33,404",,,,,AX
+327,D,2019-08-27 13:04:27,2019-08-24,AX,Dada Uzair,Dir,M - OptEx,$24.91,2667,12076,+28%,"+$66,435",,,,,AX
+328,D,2019-08-27 13:04:07,2019-08-24,AX,Court James John,Dir,F - Tax,$24.91,-1341,35486,-4%,"-$33,404",,,,,AX
+329,D,2019-08-27 13:04:07,2019-08-24,AX,Court James John,Dir,M - OptEx,$24.91,2667,35486,+8%,"+$66,435",,,,,AX
+330,D,2019-08-27 13:03:38,2019-08-24,AX,Argalas James S,Dir,F - Tax,$24.91,-986,57217,-2%,"-$24,561",,,,,AX
+331,D,2019-08-27 13:03:38,2019-08-24,AX,Argalas James S,Dir,M - OptEx,$24.91,2667,57217,+5%,"+$66,435",,,,,AX
+332,D,2019-08-20 15:55:25,2019-08-17,AX,Ratinoff Edward James,Dir,F - Tax,$27.12,-1341,34904,-4%,"-$36,368",,,,,AX
+333,D,2019-08-20 15:55:25,2019-08-17,AX,Ratinoff Edward James,Dir,M - OptEx,$27.12,2667,34904,+8%,"+$72,329",,,,,AX
+334,D,2019-08-20 15:54:57,2019-08-17,AX,Nick Mosich,Dir,F - Tax,$27.12,-1710,89778,-2%,"-$46,375",,,,,AX
+335,D,2019-08-20 15:54:57,2019-08-17,AX,Nick Mosich,Dir,M - OptEx,$27.12,3400,89778,+4%,"+$92,208",,,,,AX
+336,D,2019-08-20 15:54:32,2019-08-17,AX,Grinberg Paul,Dir,F - Tax,$27.12,-3486,98812,-3%,"-$94,540",,,,,AX
+337,D,2019-08-20 15:54:32,2019-08-17,AX,Grinberg Paul,Dir,M - OptEx,$27.12,7600,98812,+8%,"+$206,112",,,,,AX
+338,D,2019-08-20 15:54:09,2019-08-17,AX,Dada Uzair,Dir,F - Tax,$27.12,-1341,10750,-11%,"-$36,368",,,,,AX
+339,D,2019-08-20 15:54:09,2019-08-17,AX,Dada Uzair,Dir,M - OptEx,$27.12,2667,10750,+33%,"+$72,329",,,,,AX
+340,D,2019-08-20 15:53:47,2019-08-17,AX,Court James John,Dir,F - Tax,$27.12,-1341,34160,-4%,"-$36,368",,,,,AX
+341,D,2019-08-20 15:53:47,2019-08-17,AX,Court James John,Dir,M - OptEx,$27.12,2667,34160,+8%,"+$72,329",,,,,AX
+342,D,2019-08-20 15:53:20,2019-08-17,AX,Argalas James S,Dir,F - Tax,$27.12,-1258,55536,-2%,"-$34,117",,,,,AX
+343,D,2019-08-20 15:53:20,2019-08-17,AX,Argalas James S,Dir,M - OptEx,$27.12,3400,55536,+7%,"+$92,208",,,,,AX
+344,D,2019-08-12 19:26:17,2019-08-10,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$28.09,-568,7352,-7%,"-$15,955",,,,,AX
+345,D,2019-08-12 19:26:17,2019-08-10,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$28.09,1643,7352,+29%,"+$46,152",,,,,AX
+346,D,2019-08-12 19:25:52,2019-08-10,AX,Swanson Brian D,"EVP, Chief Lending Officer",F - Tax,$28.09,-1269,16503,-7%,"-$35,646",,,,,AX
+347,D,2019-08-12 19:25:52,2019-08-10,AX,Swanson Brian D,"EVP, Chief Lending Officer",M - OptEx,$28.09,3672,16503,+29%,"+$103,146",,,,,AX
+348,D,2019-08-12 19:25:20,2019-08-10,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$28.09,-801,9012,-8%,"-$22,500",,,,,AX
+349,D,2019-08-12 19:25:20,2019-08-10,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$28.09,2319,9012,+35%,"+$65,141",,,,,AX
+350,D,2019-08-12 19:24:51,2019-08-10,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$28.09,-1069,89857,-1%,"-$30,028",,,,,AX
+351,D,2019-08-12 19:24:51,2019-08-10,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$28.09,3092,89857,+4%,"+$86,854",,,,,AX
+352,D,2019-08-12 19:24:29,2019-06-30,AX,Garrabrants Gregory,"Pres, CEO",F - Tax,$27.25,-160056,1440056,-10%,"-$4,361,526",,,,,AX
+353,D,2019-08-12 19:24:29,2019-06-30,AX,Garrabrants Gregory,"Pres, CEO",M - OptEx,$27.25,304000,1440056,+27%,"+$8,284,000",,,,,AX
+354,D,2019-08-01 13:40:25,2019-07-30,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$27.72,-282,6277,-4%,"-$7,817",,,,,AX
+355,D,2019-08-01 13:40:25,2019-07-30,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$27.72,818,6277,+15%,"+$22,675",,,,,AX
+356,D,2019-08-01 13:40:02,2019-07-30,AX,Swanson Brian D,"EVP, Chief Lending Officer",F - Tax,$27.72,-640,14100,-4%,"-$17,741",,,,,AX
+357,D,2019-08-01 13:40:02,2019-07-30,AX,Swanson Brian D,"EVP, Chief Lending Officer",M - OptEx,$27.72,1851,14100,+15%,"+$51,310",,,,,AX
+358,D,2019-08-01 13:39:38,2019-07-30,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",F - Tax,$27.72,-372,704,-35%,"-$10,312",,,,,AX
+359,D,2019-08-01 13:39:38,2019-07-30,AX,Matsumoto Raymond D,"EVP, Chief Operating Officer",M - OptEx,$27.72,1076,704,-289%,"+$29,827",,,,,AX
+360,D,2019-08-01 13:39:12,2019-07-30,AX,Fraser James A,"EVP, Specialty RE, C&I Lending",F - Tax,$27.72,-238,3481,-6%,"-$6,597",,,,,AX
+361,D,2019-08-01 13:39:12,2019-07-30,AX,Fraser James A,"EVP, Specialty RE, C&I Lending",M - OptEx,$27.72,689,3481,+25%,"+$19,099",,,,,AX
+362,D,2019-08-01 13:38:46,2019-07-30,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$27.72,-476,7494,-6%,"-$13,195",,,,,AX
+363,D,2019-08-01 13:38:46,2019-07-30,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$27.72,1377,7494,+23%,"+$38,170",,,,,AX
+364,D,2019-08-01 13:38:15,2019-07-30,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$27.72,-535,87834,-1%,"-$14,830",,,,,AX
+365,D,2019-08-01 13:38:15,2019-07-30,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$27.72,1549,87834,+2%,"+$42,938",,,,,AX
+366,D,2019-07-22 15:48:34,2019-07-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$26.52,-945,12183,-7%,"-$25,061",,,,,AX
+367,D,2019-07-22 15:48:34,2019-07-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$26.52,1944,12183,+19%,"+$51,555",,,,,AX
+368,D,2019-07-18 19:51:10,2019-07-17,AX,Fraser James A,"EVP, Specialty RE, C&I Lending",F - Tax,$26.42,-1452,3030,-32%,"-$38,362",,,,,AX
+369,D,2019-07-18 19:51:10,2019-07-17,AX,Fraser James A,"EVP, Specialty RE, C&I Lending",M - OptEx,$26.42,4200,3030,-359%,"+$110,964",,,,,AX
+370,D,2019-07-15 15:36:07,2019-07-12,AX,Bar-Adon Eshel,"EVP, GC",F - Tax,$26.76,-847,86820,-1%,"-$22,666",,,,,AX
+371,D,2019-07-15 15:36:07,2019-07-12,AX,Bar-Adon Eshel,"EVP, GC",M - OptEx,$26.76,2452,86820,+3%,"+$65,616",,,,,AX
+372,D,2019-07-15 15:35:39,2019-07-12,AX,Constantine Thomas M,EVP and Chief Credit Officer,F - Tax,$26.76,-678,6593,-9%,"-$18,143",,,,,AX
+373,D,2019-07-15 15:35:39,2019-07-12,AX,Constantine Thomas M,EVP and Chief Credit Officer,M - OptEx,$26.76,1962,6593,+42%,"+$52,503",,,,,AX
+374,D,2019-07-15 15:35:10,2019-07-12,AX,Swanson Brian D,"EVP, Chief Lending Officer",F - Tax,$26.76,-1017,12889,-7%,"-$27,215",,,,,AX
+375,D,2019-07-15 15:35:10,2019-07-12,AX,Swanson Brian D,"EVP, Chief Lending Officer",M - OptEx,$26.76,2943,12889,+30%,"+$78,755",,,,,AX
+376,D,2019-07-15 15:34:42,2019-07-12,AX,Tolla John Charles,"EVP, Chief Risk Officer",F - Tax,$26.76,-460,5741,-7%,"-$12,310",,,,,AX
+377,D,2019-07-15 15:34:42,2019-07-12,AX,Tolla John Charles,"EVP, Chief Risk Officer",M - OptEx,$26.76,1331,5741,+30%,"+$35,618",,,,,AX
+378,D,2019-07-15 15:34:11,2019-07-12,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$26.76,-443,11184,-4%,"-$11,855",,,,,AX
+379,D,2019-07-15 15:34:11,2019-07-12,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$26.76,911,11184,+9%,"+$24,378",,,,,AX
+380,D,2018-12-20 19:40:56,2018-12-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$25.41,-423,10349,-4%,"-$10,748",,,,,AX
+381,D,2018-12-20 19:40:56,2018-12-19,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$25.41,870,10349,+9%,"+$22,107",,,,,AX
+382,D,2018-12-17 19:54:39,2018-12-15,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$28.21,-388,9902,-4%,"-$10,945",,,,,AX
+383,D,2018-12-17 19:54:39,2018-12-15,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$28.21,799,9902,+9%,"+$22,540",,,,,AX
+384,D,2018-11-26 18:28:15,2018-11-20,AX,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$28.67,-362,9491,-4%,"-$10,379",,,,,AX
+385,D,2018-11-26 18:28:15,2018-11-20,AX,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$28.67,746,9491,+9%,"+$21,388",,,,,AX
+386,D,2018-11-01 18:29:10,2018-10-30,AX,Black J Brandon,Dir,F - Tax,$29.66,-635,629,-50%,"-$18,834",,,,,AX
+387,D,2018-11-01 18:29:10,2018-10-30,AX,Black J Brandon,Dir,M - OptEx,$29.66,1264,629,-199%,"+$37,490",,,,,AX
+388,DM,2018-08-27 21:59:25,2018-08-24,BOFI,Burke John Gary,Dir,M - OptEx,$37.87,5334,1817856,0%,"+$201,999",,,,,AX
+389,DM,2018-08-27 21:55:50,2018-08-24,BOFI,Grinberg Paul,Dir,F - Tax,$37.87,-3688,94698,-4%,"-$139,665",,,,,AX
+390,DM,2018-08-27 21:55:50,2018-08-24,BOFI,Grinberg Paul,Dir,M - OptEx,$37.87,7334,94698,+8%,"+$277,739",,,,,AX
+391,DM,2018-08-27 21:54:52,2018-08-24,BOFI,Court James John,Dir,F - Tax,$37.87,-2682,32834,-8%,"-$101,567",,,,,AX
+392,DM,2018-08-27 21:54:52,2018-08-24,BOFI,Court James John,Dir,M - OptEx,$37.87,5334,32834,+19%,"+$201,999",,,,,AX
+393,DM,2018-08-27 21:53:42,2018-08-24,BOFI,Ratinoff Edward James,Dir,F - Tax,$37.87,-2682,33578,-7%,"-$101,567",,,,,AX
+394,DM,2018-08-27 21:53:42,2018-08-24,BOFI,Ratinoff Edward James,Dir,M - OptEx,$37.87,5334,33578,+19%,"+$201,999",,,,,AX
+395,DM,2018-08-27 21:52:25,2018-08-24,BOFI,Argalas James S,Dir,F - Tax,$37.87,-1718,53394,-3%,"-$65,061",,,,,AX
+396,DM,2018-08-27 21:52:25,2018-08-24,BOFI,Argalas James S,Dir,M - OptEx,$37.87,5334,53394,+11%,"+$201,999",,,,,AX
+397,DM,2018-08-27 21:51:09,2018-08-24,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$37.87,-23682,521357,-4%,"-$896,837",,,,,AX
+398,DM,2018-08-27 21:51:09,2018-08-24,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$37.87,45000,521357,+9%,"+$1,704,150",,,,,AX
+399,DM,2018-08-27 21:49:58,2018-08-24,BOFI,Dada Uzair,Dir,F - Tax,$37.87,-2682,9424,-22%,"-$101,567",,,,,AX
+400,DM,2018-08-27 21:49:58,2018-08-24,BOFI,Dada Uzair,Dir,M - OptEx,$37.87,5334,9424,+130%,"+$201,999",,,,,AX
+401,DM,2018-08-27 21:48:38,2018-08-24,BOFI,Nick Mosich,Dir,F - Tax,$37.87,-3420,88088,-4%,"-$129,515",,,,,AX
+402,DM,2018-08-27 21:48:38,2018-08-24,BOFI,Nick Mosich,Dir,M - OptEx,$37.87,6800,88088,+8%,"+$257,516",,,,,AX
+403,D,2018-08-21 18:46:46,2018-08-17,BOFI,Ratinoff Edward James,Dir,F - Tax,$37.67,-1340,30926,-4%,"-$50,478",,,,,AX
+404,D,2018-08-21 18:46:46,2018-08-17,BOFI,Ratinoff Edward James,Dir,M - OptEx,$37.67,2666,30926,+9%,"+$100,428",,,,,AX
+405,D,2018-08-21 18:43:52,2018-08-17,BOFI,Nick Mosich,Dir,F - Tax,$37.67,-1710,84708,-2%,"-$64,416",,,,,AX
+406,D,2018-08-21 18:43:52,2018-08-17,BOFI,Nick Mosich,Dir,M - OptEx,$37.67,3400,84708,+4%,"+$128,078",,,,,AX
+407,D,2018-08-21 18:40:52,2018-08-17,BOFI,Grinberg Paul,Dir,F - Tax,$37.67,-3822,91052,-4%,"-$143,975",,,,,AX
+408,D,2018-08-21 18:40:52,2018-08-17,BOFI,Grinberg Paul,Dir,M - OptEx,$37.67,7600,91052,+9%,"+$286,292",,,,,AX
+409,D,2018-08-21 18:38:07,2018-08-17,BOFI,Dada Uzair,Dir,F - Tax,$37.67,-1340,6772,-17%,"-$50,478",,,,,AX
+410,D,2018-08-21 18:38:07,2018-08-17,BOFI,Dada Uzair,Dir,M - OptEx,$37.67,2666,6772,+65%,"+$100,428",,,,,AX
+411,D,2018-08-21 18:35:27,2018-08-17,BOFI,Court James John,Dir,F - Tax,$37.67,-1340,30182,-4%,"-$50,478",,,,,AX
+412,D,2018-08-21 18:35:27,2018-08-17,BOFI,Court James John,Dir,M - OptEx,$37.67,2666,30182,+10%,"+$100,428",,,,,AX
+413,D,2018-08-21 18:29:02,2018-08-17,BOFI,Burke John Gary,Dir,M - OptEx,$37.67,2666,1812522,0%,"+$100,428",,,,,AX
+414,D,2018-08-21 18:24:07,2018-08-17,BOFI,Argalas James S,Dir,F - Tax,$37.67,-1095,49778,-2%,"-$41,249",,,,,AX
+415,D,2018-08-21 18:24:07,2018-08-17,BOFI,Argalas James S,Dir,M - OptEx,$37.67,3400,49778,+7%,"+$128,078",,,,,AX
+416,D,2018-07-20 17:04:52,2018-07-19,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$41.30,-494,9107,-5%,"-$20,402",,,,,AX
+417,D,2018-07-20 17:04:52,2018-07-19,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$41.30,1016,9107,+13%,"+$41,961",,,,,AX
+418,DM,2018-07-16 16:37:07,2018-07-11,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$42.10,-685,8585,-7%,"-$28,838",,,,,AX
+419,DM,2018-07-16 16:37:07,2018-07-11,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$42.10,1409,8585,+20%,"+$59,317",,,,,AX
+420,D,2018-07-03 14:33:20,2018-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",F - Tax,$40.91,-134784,1295745,-9%,"-$5,514,013",,,,,AX
+421,D,2018-07-03 14:33:20,2018-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",M - OptEx,$40.91,256000,1295745,+25%,"+$10,472,960",,,,,AX
+422,,2018-05-30 20:37:06,2018-05-30,BOFI,Burke John Gary,Dir,S - Sale,$41.16,-57539,1809856,-3%,"-$2,368,259",,,,,AX
+423,M,2018-03-09 19:57:37,2018-03-08,BOFI,Court James John,Dir,S - Sale,$40.33,-9000,28856,-24%,"-$362,959",,,,,AX
+424,D,2018-01-23 18:04:01,2018-01-22,BOFI,Dada Uzair,Dir,F - Tax,$32.57,-558,5446,-9%,"-$18,174",,,,,AX
+425,D,2018-01-23 18:04:01,2018-01-22,BOFI,Dada Uzair,Dir,M - OptEx,$32.57,1055,5446,+24%,"+$34,361",,,,,AX
+426,D,2017-12-27 21:18:02,2017-12-23,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$29.04,-178,7560,-2%,"-$5,169",,,,,AX
+427,D,2017-12-27 21:18:02,2017-12-23,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$29.04,474,7560,+7%,"+$13,765",,,,,AX
+428,D,2017-12-19 19:56:48,2017-12-15,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$28.17,-300,7264,-4%,"-$8,451",,,,,AX
+429,D,2017-12-19 19:56:48,2017-12-15,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$28.17,799,7264,+12%,"+$22,508",,,,,AX
+430,,2017-12-18 20:13:38,2017-12-11,BOFI,Burke John Gary,Dir,G - Gift,$0.00,-6000,1867395,0%,-$0,,,,,AX
+431,,2017-12-05 20:29:19,2017-12-01,BOFI,Nick Mosich,Dir,S - Sale,$27.75,-18308,83018,-18%,"-$508,049",,,,,AX
+432,D,2017-11-21 20:25:26,2017-11-20,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$25.70,746,6765,+12%,"+$19,172",,,,,AX
+433,,2017-11-03 20:11:42,2017-11-02,BOFI,Ratinoff Edward James,Dir,S - Sale,$26.80,-7540,29600,-20%,"-$202,066",,,,,AX
+434,D,2017-08-29 21:40:58,2017-08-26,BOFI,Ratinoff Edward James,Dir,F - Tax,$26.25,-1410,37140,-4%,"-$37,013",,,,,AX
+435,D,2017-08-29 21:40:58,2017-08-26,BOFI,Ratinoff Edward James,Dir,M - OptEx,$26.25,2667,37140,+8%,"+$70,009",,,,,AX
+436,D,2017-08-29 21:40:43,2017-08-26,BOFI,Nick Mosich,Dir,F - Tax,$26.25,-1798,101326,-2%,"-$47,198",,,,,AX
+437,D,2017-08-29 21:40:43,2017-08-26,BOFI,Nick Mosich,Dir,M - OptEx,$26.25,3400,101326,+3%,"+$89,250",,,,,AX
+438,DM,2017-08-29 21:40:30,2017-08-26,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$26.40,-16574,499678,-3%,"-$437,554",,,,,AX
+439,DM,2017-08-29 21:40:30,2017-08-26,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$26.40,30000,499678,+6%,"+$792,000",,,,,AX
+440,D,2017-08-29 21:40:15,2017-08-26,BOFI,Grinberg Paul,Dir,F - Tax,$26.25,-1939,87274,-2%,"-$50,899",,,,,AX
+441,D,2017-08-29 21:40:15,2017-08-26,BOFI,Grinberg Paul,Dir,M - OptEx,$26.25,3667,87274,+4%,"+$96,259",,,,,AX
+442,D,2017-08-29 21:39:58,2017-08-26,BOFI,Dada Uzair,Dir,F - Tax,$26.25,-1410,4949,-22%,"-$37,013",,,,,AX
+443,D,2017-08-29 21:39:58,2017-08-26,BOFI,Dada Uzair,Dir,M - OptEx,$26.25,2667,4949,+117%,"+$70,009",,,,,AX
+444,D,2017-08-29 21:39:43,2017-08-26,BOFI,Court James John,Dir,F - Tax,$26.25,-1410,37856,-4%,"-$37,013",,,,,AX
+445,D,2017-08-29 21:39:43,2017-08-26,BOFI,Court James John,Dir,M - OptEx,$26.25,2667,37856,+8%,"+$70,009",,,,,AX
+446,D,2017-08-29 21:39:27,2017-08-26,BOFI,Burke John Gary,Dir,M - OptEx,$26.25,2667,1873395,0%,"+$70,009",,,,,AX
+447,D,2017-08-29 21:39:04,2017-08-26,BOFI,Argalas James S,Dir,F - Tax,$26.25,-939,47473,-2%,"-$24,649",,,,,AX
+448,D,2017-08-29 21:39:04,2017-08-26,BOFI,Argalas James S,Dir,M - OptEx,$26.25,2667,47473,+6%,"+$70,009",,,,,AX
+449,D,2017-08-24 21:41:20,2017-08-24,BOFI,Ratinoff Edward James,Dir,F - Tax,$26.50,-1410,35883,-4%,"-$37,365",,,,,AX
+450,D,2017-08-24 21:41:20,2017-08-24,BOFI,Ratinoff Edward James,Dir,M - OptEx,$26.50,2666,35883,+8%,"+$70,649",,,,,AX
+451,D,2017-08-24 21:41:10,2017-08-24,BOFI,Nick Mosich,Dir,F - Tax,$26.50,-1798,99724,-2%,"-$47,647",,,,,AX
+452,D,2017-08-24 21:41:10,2017-08-24,BOFI,Nick Mosich,Dir,M - OptEx,$26.50,3400,99724,+4%,"+$90,100",,,,,AX
+453,D,2017-08-24 21:40:56,2017-08-24,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$26.50,-8272,486252,-2%,"-$219,208",,,,,AX
+454,D,2017-08-24 21:40:56,2017-08-24,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$26.50,15000,486252,+3%,"+$397,500",,,,,AX
+455,D,2017-08-24 21:40:40,2017-08-24,BOFI,Grinberg Paul,Dir,F - Tax,$26.50,-1939,85546,-2%,"-$51,384",,,,,AX
+456,D,2017-08-24 21:40:40,2017-08-24,BOFI,Grinberg Paul,Dir,M - OptEx,$26.50,3666,85546,+4%,"+$97,149",,,,,AX
+457,D,2017-08-24 21:40:29,2017-08-24,BOFI,Dada Uzair,Dir,F - Tax,$26.50,-1410,3692,-28%,"-$37,365",,,,,AX
+458,D,2017-08-24 21:40:29,2017-08-24,BOFI,Dada Uzair,Dir,M - OptEx,$26.50,2666,3692,+260%,"+$70,649",,,,,AX
+459,D,2017-08-24 21:40:16,2017-08-24,BOFI,Court James John,Dir,F - Tax,$26.50,-1410,36599,-4%,"-$37,365",,,,,AX
+460,D,2017-08-24 21:40:16,2017-08-24,BOFI,Court James John,Dir,M - OptEx,$26.50,2666,36599,+8%,"+$70,649",,,,,AX
+461,D,2017-08-24 21:40:05,2017-08-24,BOFI,Burke John Gary,Dir,M - OptEx,$26.50,2666,1870728,0%,"+$70,649",,,,,AX
+462,D,2017-08-24 21:39:48,2017-08-24,BOFI,Argalas James S,Dir,F - Tax,$26.50,-939,45745,-2%,"-$24,884",,,,,AX
+463,D,2017-08-24 21:39:48,2017-08-24,BOFI,Argalas James S,Dir,M - OptEx,$26.50,2666,45745,+6%,"+$70,649",,,,,AX
+464,D,2017-08-10 15:06:25,2017-08-06,BOFI,Ratinoff Edward James,Dir,F - Tax,$26.97,-1411,34627,-4%,"-$38,055",,,,,AX
+465,D,2017-08-10 15:06:25,2017-08-06,BOFI,Ratinoff Edward James,Dir,M - OptEx,$26.97,2668,34627,+8%,"+$71,956",,,,,AX
+466,D,2017-08-10 15:06:11,2017-08-06,BOFI,Nick Mosich,Dir,F - Tax,$26.97,-1798,98122,-2%,"-$48,492",,,,,AX
+467,D,2017-08-10 15:06:11,2017-08-06,BOFI,Nick Mosich,Dir,M - OptEx,$26.97,3400,98122,+4%,"+$91,698",,,,,AX
+468,D,2017-08-10 15:05:55,2017-08-06,BOFI,Grinberg Paul,Dir,F - Tax,$26.97,-1940,83819,-2%,"-$52,322",,,,,AX
+469,D,2017-08-10 15:05:55,2017-08-06,BOFI,Grinberg Paul,Dir,M - OptEx,$26.97,3668,83819,+5%,"+$98,926",,,,,AX
+470,D,2017-08-10 15:05:43,2017-08-06,BOFI,Court James John,Dir,F - Tax,$26.97,-1411,35343,-4%,"-$38,055",,,,,AX
+471,D,2017-08-10 15:05:43,2017-08-06,BOFI,Court James John,Dir,M - OptEx,$26.97,2668,35343,+8%,"+$71,956",,,,,AX
+472,D,2017-08-10 15:05:28,2017-08-06,BOFI,Burke John Gary,Dir,M - OptEx,$26.97,2668,1868062,0%,"+$71,956",,,,,AX
+473,D,2017-08-10 14:59:16,2017-08-06,BOFI,Argalas James S,Dir,F - Tax,$26.97,-939,44018,-2%,"-$25,325",,,,,AX
+474,D,2017-08-10 14:59:16,2017-08-06,BOFI,Argalas James S,Dir,M - OptEx,$26.97,2668,44018,+6%,"+$71,956",,,,,AX
+475,D,2017-07-20 20:29:00,2017-07-19,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$24.66,-381,6019,-6%,"-$9,395",,,,,AX
+476,D,2017-07-20 20:29:00,2017-07-19,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$24.66,1015,6019,+20%,"+$25,030",,,,,AX
+477,D,2017-07-12 18:37:02,2017-07-11,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$23.86,953,5385,+22%,"+$22,739",,,,,AX
+478,D,2017-07-03 17:48:06,2017-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",F - Tax,$23.72,-159115,1174228,-12%,"-$3,774,208",,,,,AX
+479,D,2017-07-03 17:48:06,2017-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",M - OptEx,$23.72,288000,1174228,+32%,"+$6,831,360",,,,,AX
+480,,2017-02-24 20:22:19,2017-02-24,BOFI,Nick Mosich,Dir,S - Sale,$30.57,-3500,96520,-3%,"-$106,992",2.0,-4.0,-11.0,,AX
+481,D,2017-01-25 21:51:07,2017-01-23,BOFI,Dada Uzair,Dir,F - Tax,$27.14,-558,2436,-19%,"-$15,144",1.0,6.0,10.0,,AX
+482,D,2017-01-25 21:51:07,2017-01-23,BOFI,Dada Uzair,Dir,M - OptEx,$27.14,1055,2436,+76%,"+$28,633",1.0,6.0,10.0,,AX
+483,D,2016-12-27 17:26:04,2016-12-23,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$28.95,-177,4116,-4%,"-$5,124",-2.0,-5.0,-6.0,,AX
+484,D,2016-12-27 17:26:04,2016-12-23,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$28.95,473,4116,+13%,"+$13,693",-2.0,-5.0,-6.0,,AX
+485,D,2016-12-22 16:57:40,2016-12-20,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$28.43,-96,3820,-2%,"-$2,729",3.0,3.0,-4.0,,AX
+486,D,2016-12-22 16:57:40,2016-12-20,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$28.43,256,3820,+7%,"+$7,278",3.0,3.0,-4.0,,AX
+487,,2016-12-15 21:24:29,2016-12-14,BOFI,Burke John Gary,Dir,G - Gift,$0.00,-6000,1865394,0%,-$0,1.0,5.0,3.0,,AX
+488,,2016-12-15 21:24:12,2016-12-13,BOFI,Nick Mosich,Dir,S - Sale,$28.48,-6532,100020,-6%,"-$186,031",1.0,5.0,3.0,,AX
+489,,2016-11-30 19:22:56,2016-11-29,BOFI,Allrich Theodore C,Dir,S - Sale,$25.05,-10000,215076,-4%,"-$250,500",2.0,7.0,21.0,,AX
+490,,2016-11-23 16:55:36,2016-11-22,BOFI,Allrich Theodore C,Dir,S - Sale,$24.25,-5000,225076,-2%,"-$121,250",1.0,-3.0,15.0,,AX
+491,D,2016-11-22 17:51:18,2016-11-20,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$23.49,-279,3660,-7%,"-$6,554",1.0,3.0,18.0,,AX
+492,D,2016-11-22 17:51:18,2016-11-20,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$23.49,745,3660,+26%,"+$17,500",1.0,3.0,18.0,,AX
+493,,2016-09-01 21:52:38,2015-11-13,BOFI,Nick Mosich,Dir,P - Purchase,$21.79,2000,106552,+2%,"+$43,580",2.0,1.0,3.0,36.0,AX
+494,DM,2016-08-29 21:54:02,2016-08-26,BOFI,Micheletti Andrew J,"EVP, Chief Financial Office",F - Tax,$22.89,-16574,479152,-3%,"-$379,379",-4.0,-4.0,0.0,37.0,AX
+495,DM,2016-08-29 21:54:02,2016-08-26,BOFI,Micheletti Andrew J,"EVP, Chief Financial Office",M - OptEx,$22.89,30000,479152,+7%,"+$686,700",-4.0,-4.0,0.0,37.0,AX
+496,D,2016-08-29 21:20:45,2016-08-26,BOFI,Dada Uzair,Dir,F - Tax,$22.89,-1410,1939,-42%,"-$32,275",-4.0,-4.0,0.0,37.0,AX
+497,D,2016-08-29 21:20:45,2016-08-26,BOFI,Dada Uzair,Dir,M - OptEx,$22.89,2666,1939,-367%,"+$61,025",-4.0,-4.0,0.0,37.0,AX
+498,D,2016-08-29 21:18:50,2016-08-26,BOFI,Argalas James S,Dir,F - Tax,$22.89,-939,42289,-2%,"-$21,494",-4.0,-4.0,0.0,37.0,AX
+499,D,2016-08-29 21:18:50,2016-08-26,BOFI,Argalas James S,Dir,M - OptEx,$22.89,2666,42289,+7%,"+$61,025",-4.0,-4.0,0.0,37.0,AX
+500,D,2016-08-29 21:17:46,2016-08-26,BOFI,Court James John,Dir,F - Tax,$22.89,-1410,34086,-4%,"-$32,275",-4.0,-4.0,0.0,37.0,AX
+501,D,2016-08-29 21:17:46,2016-08-26,BOFI,Court James John,Dir,M - OptEx,$22.89,2666,34086,+8%,"+$61,025",-4.0,-4.0,0.0,37.0,AX
+502,D,2016-08-29 21:16:14,2016-08-26,BOFI,Ratinoff Edward James,Dir,F - Tax,$22.89,-1410,33370,-4%,"-$32,275",-4.0,-4.0,0.0,37.0,AX
+503,D,2016-08-29 21:16:14,2016-08-26,BOFI,Ratinoff Edward James,Dir,M - OptEx,$22.89,2666,33370,+9%,"+$61,025",-4.0,-4.0,0.0,37.0,AX
+504,D,2016-08-29 21:14:48,2016-08-26,BOFI,Nick Mosich,Dir,F - Tax,$22.89,-1798,104552,-2%,"-$41,156",-4.0,-4.0,0.0,37.0,AX
+505,D,2016-08-29 21:14:48,2016-08-26,BOFI,Nick Mosich,Dir,M - OptEx,$22.89,3400,104552,+3%,"+$77,826",-4.0,-4.0,0.0,37.0,AX
+506,D,2016-08-29 21:13:09,2016-08-26,BOFI,Allrich Theodore C,Dir,F - Tax,$22.89,-3879,230076,-2%,"-$88,790",-4.0,-4.0,0.0,37.0,AX
+507,D,2016-08-29 21:13:09,2016-08-26,BOFI,Allrich Theodore C,Dir,M - OptEx,$22.89,7333,230076,+3%,"+$167,852",-4.0,-4.0,0.0,37.0,AX
+508,D,2016-08-29 21:10:36,2016-08-26,BOFI,Grinberg Paul,Dir,F - Tax,$22.89,-1939,82091,-2%,"-$44,384",-4.0,-4.0,0.0,37.0,AX
+509,D,2016-08-29 21:10:36,2016-08-26,BOFI,Grinberg Paul,Dir,M - OptEx,$22.89,3666,82091,+5%,"+$83,915",-4.0,-4.0,0.0,37.0,AX
+510,D,2016-08-29 21:07:29,2016-08-26,BOFI,Burke John Gary,Dir,M - OptEx,$22.89,2666,1871394,0%,"+$61,025",-4.0,-4.0,0.0,37.0,AX
+511,D,2016-08-10 20:02:52,2016-08-08,BOFI,Ratinoff Edward James,Dir,F - Tax,$17.94,-2822,32114,-8%,"-$50,627",3.0,6.0,26.0,63.0,AX
+512,D,2016-08-10 20:02:52,2016-08-08,BOFI,Ratinoff Edward James,Dir,M - OptEx,$17.94,5336,32114,+20%,"+$95,728",3.0,6.0,26.0,63.0,AX
+513,D,2016-08-10 20:01:14,2016-08-08,BOFI,Nick Mosich,Dir,F - Tax,$17.94,-3598,102950,-3%,"-$64,548",3.0,6.0,26.0,63.0,AX
+514,D,2016-08-10 20:01:14,2016-08-08,BOFI,Nick Mosich,Dir,M - OptEx,$17.94,6804,102950,+7%,"+$122,064",3.0,6.0,26.0,63.0,AX
+515,D,2016-08-10 19:57:10,2016-08-08,BOFI,Court James John,Dir,F - Tax,$17.94,-2822,32830,-8%,"-$50,627",3.0,6.0,26.0,63.0,AX
+516,D,2016-08-10 19:57:10,2016-08-08,BOFI,Court James John,Dir,M - OptEx,$17.94,5336,32830,+19%,"+$95,728",3.0,6.0,26.0,63.0,AX
+517,D,2016-08-10 19:56:02,2016-08-08,BOFI,Grinberg Paul,Dir,F - Tax,$17.94,-3880,80364,-5%,"-$69,607",3.0,6.0,26.0,63.0,AX
+518,D,2016-08-10 19:56:02,2016-08-08,BOFI,Grinberg Paul,Dir,M - OptEx,$17.94,7336,80364,+10%,"+$131,608",3.0,6.0,26.0,63.0,AX
+519,D,2016-08-10 19:54:53,2016-08-08,BOFI,Allrich Theodore C,Dir,F - Tax,$17.94,-7758,226622,-3%,"-$139,179",3.0,6.0,26.0,63.0,AX
+520,D,2016-08-10 19:54:53,2016-08-08,BOFI,Allrich Theodore C,Dir,M - OptEx,$17.94,14668,226622,+7%,"+$263,144",3.0,6.0,26.0,63.0,AX
+521,D,2016-08-10 19:53:31,2016-08-08,BOFI,Argalas James S,Dir,F - Tax,$17.94,-1878,40562,-4%,"-$33,691",3.0,6.0,26.0,63.0,AX
+522,D,2016-08-10 19:53:31,2016-08-08,BOFI,Argalas James S,Dir,M - OptEx,$17.94,5336,40562,+15%,"+$95,728",3.0,6.0,26.0,63.0,AX
+523,D,2016-08-10 19:52:05,2016-08-08,BOFI,Burke John Gary,Dir,M - OptEx,$17.94,5336,1868728,0%,"+$95,728",3.0,6.0,26.0,63.0,AX
+524,D,2016-08-10 19:39:35,2016-08-08,BOFI,Micheletti Andrew J,"EVP, Chief Financial Office",F - Tax,$17.94,-8266,465726,-2%,"-$148,292",3.0,6.0,26.0,63.0,AX
+525,D,2016-08-10 19:39:35,2016-08-08,BOFI,Micheletti Andrew J,"EVP, Chief Financial Office",M - OptEx,$17.94,15004,465726,+3%,"+$269,172",3.0,6.0,26.0,63.0,AX
+526,D,2016-07-27 11:11:13,2016-07-25,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$16.83,508,3194,+19%,"+$8,550",-1.0,-10.0,22.0,63.0,AX
+527,D,2016-07-13 12:36:50,2016-07-11,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$18.22,953,2686,+55%,"+$17,364",-8.0,-11.0,-7.0,56.0,AX
+528,D,2016-07-05 16:20:16,2016-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",F - Tax,$17.71,-154693,1045027,-13%,"-$2,739,613",2.0,8.0,-9.0,68.0,AX
+529,D,2016-07-05 16:20:16,2016-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",M - OptEx,$17.71,280000,1045027,+37%,"+$4,958,800",2.0,8.0,-9.0,68.0,AX
+530,,2016-02-22 09:02:01,2016-02-19,BOFI,Court James John,Dir,P - Purchase,$16.77,2000,30316,+7%,"+$33,531",10.0,12.0,27.0,12.0,AX
+531,,2016-02-12 08:56:16,2016-02-11,BOFI,Micheletti Andrew J,"EVP, CFO",P - Purchase,$13.69,1000,458988,0%,"+$13,694",8.0,24.0,49.0,31.0,AX
+532,,2016-02-10 13:37:20,2016-02-09,BOFI,Micheletti Andrew J,"EVP, CFO",A - Grant,$21.05,504,457988,0%,"+$10,609",1.0,9.0,26.0,25.0,AX
+533,,2016-02-09 14:41:19,2016-02-09,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",A - Grant,$21.05,428,1733,+33%,"+$9,009",0.0,7.0,23.0,25.0,AX
+534,,2016-02-09 14:36:05,2016-02-09,BOFI,Garrabrants Gregory,"Pres, CEO",A - Grant,$21.05,428,919720,0%,"+$9,009",0.0,7.0,23.0,25.0,AX
+535,D,2016-01-25 19:18:10,2016-01-22,BOFI,Dada Uzair,Dir,A - Grant,$17.79,1054,683,-284%,"+$18,751",2.0,-3.0,1.0,-5.0,AX
+536,D,2016-01-25 19:18:10,2016-01-22,BOFI,Dada Uzair,Dir,F - Tax,$17.79,-371,683,-35%,"-$6,600",2.0,-3.0,1.0,-5.0,AX
+537,D,2015-12-23 19:41:58,2015-12-23,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$21.14,473,1305,+57%,"+$9,999",0.0,0.0,-17.0,-18.0,AX
+538,D,2015-12-22 19:12:18,2015-12-20,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$20.05,256,832,+44%,"+$5,133",3.0,4.0,-13.0,-17.0,AX
+539,,2015-12-10 12:59:34,2015-12-09,BOFI,Garrabrants Gregory,"Pres, CEO",P - Purchase,$18.47,1000,919292,0%,"+$18,470",8.0,5.0,-5.0,0.0,AX
+540,,2015-12-09 14:17:21,2015-12-08,BOFI,Garrabrants Gregory,"Pres, CEO",P - Purchase,$18.99,2000,918292,0%,"+$37,980",-1.0,0.0,-4.0,1.0,AX
+541,,2015-11-05 17:08:27,2015-11-03,BOFI,Nick Mosich,Dir,P - Purchase,$85.90,150,24936,+1%,"+$12,885",5.0,-6.0,-18.0,-22.0,AX
+542,,2015-11-05 17:08:13,2015-11-04,BOFI,Garrabrants Gregory,"Pres, CEO",P - Purchase,$93.91,1605,229073,+1%,"+$150,726",5.0,-6.0,-18.0,-22.0,AX
+543,,2015-11-03 17:17:43,2015-11-03,BOFI,Garrabrants Gregory,"Pres, CEO",P - Purchase,$91.40,6670,227468,+3%,"+$609,638",0.0,4.0,-16.0,-22.0,AX
+544,D,2015-09-15 14:00:19,2015-09-12,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$120.20,-1435,114371,-1%,"-$172,487",1.0,-1.0,16.0,-37.0,AX
+545,D,2015-09-15 14:00:19,2015-09-12,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$120.03,2751,114371,+2%,"+$330,203",1.0,-1.0,16.0,-37.0,AX
+546,D,2015-08-31 20:12:27,2015-08-28,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$117.62,-1956,113055,-2%,"-$230,065",-5.0,-2.0,7.0,-35.0,AX
+547,D,2015-08-31 20:12:27,2015-08-28,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$117.62,3750,113055,+3%,"+$441,075",-5.0,-2.0,7.0,-35.0,AX
+548,,2015-08-28 18:35:42,2015-08-27,BOFI,Ratinoff Edward James,Dir,S - Sale,$121.40,-927,7400,-11%,"-$112,538",-1.0,-7.0,5.0,-36.0,AX
+549,D,2015-08-26 20:41:35,2015-08-25,BOFI,Ratinoff Edward James,Dir,S - Sale+OE,$122.25,-1073,8327,-11%,"-$131,174",2.0,-8.0,5.0,-39.0,AX
+550,D,2015-08-18 20:40:17,2015-08-16,BOFI,Ratinoff Edward James,Dir,F - Tax,$128.50,-693,9400,-7%,"-$89,051",0.0,-8.0,-6.0,-52.0,AX
+551,D,2015-08-18 20:40:17,2015-08-16,BOFI,Ratinoff Edward James,Dir,M - OptEx,$128.50,1334,9400,+17%,"+$171,419",0.0,-8.0,-6.0,-52.0,AX
+552,D,2015-08-18 20:37:19,2015-08-16,BOFI,Grinberg Paul,Dir,F - Tax,$128.50,-953,19227,-5%,"-$122,461",0.0,-8.0,-6.0,-52.0,AX
+553,D,2015-08-18 20:37:19,2015-08-16,BOFI,Grinberg Paul,Dir,M - OptEx,$128.50,1834,19227,+11%,"+$235,669",0.0,-8.0,-6.0,-52.0,AX
+554,D,2015-08-18 20:32:21,2015-08-16,BOFI,Argalas James S,Dir,F - Tax,$128.50,-469,9276,-5%,"-$60,267",0.0,-8.0,-6.0,-52.0,AX
+555,D,2015-08-18 20:32:21,2015-08-16,BOFI,Argalas James S,Dir,M - OptEx,$128.50,1334,9276,+17%,"+$171,419",0.0,-8.0,-6.0,-52.0,AX
+556,D,2015-08-18 20:32:07,2015-08-16,BOFI,Nick Mosich,Dir,F - Tax,$128.50,-884,24786,-3%,"-$113,594",0.0,-8.0,-6.0,-52.0,AX
+557,D,2015-08-18 20:32:07,2015-08-16,BOFI,Nick Mosich,Dir,M - OptEx,$128.50,1701,24786,+7%,"+$218,579",0.0,-8.0,-6.0,-52.0,AX
+558,D,2015-08-18 20:19:41,2015-08-16,BOFI,Court James John,Dir,F - Tax,$128.50,-693,7079,-9%,"-$89,051",0.0,-8.0,-6.0,-52.0,AX
+559,D,2015-08-18 20:19:41,2015-08-16,BOFI,Court James John,Dir,M - OptEx,$128.50,1334,7079,+23%,"+$171,419",0.0,-8.0,-6.0,-52.0,AX
+560,D,2015-08-18 20:19:41,2015-08-18,BOFI,Court James John,Dir,S - Sale+OE,$131.55,-1282,7079,-15%,"-$168,647",0.0,-8.0,-6.0,-52.0,AX
+561,D,2015-08-18 20:19:26,2015-08-16,BOFI,Burke John Gary,Dir,M - OptEx,$128.50,1334,465848,0%,"+$171,419",0.0,-8.0,-6.0,-52.0,AX
+562,D,2015-08-18 20:10:21,2015-08-16,BOFI,Allrich Theodore C,Dir,F - Tax,$128.50,-1292,54928,-2%,"-$166,022",0.0,-8.0,-6.0,-52.0,AX
+563,D,2015-08-18 20:10:21,2015-08-16,BOFI,Allrich Theodore C,Dir,M - OptEx,$128.50,3668,54928,+7%,"+$471,338",0.0,-8.0,-6.0,-52.0,AX
+564,M,2015-08-13 18:21:57,2015-08-11,BOFI,Allrich Theodore C,Dir,S - Sale,$130.59,-4319,52552,-8%,"-$563,997",0.0,2.0,-7.0,-59.0,AX
+565,D,2015-08-11 12:27:22,2015-08-06,BOFI,Ratinoff Edward James,Dir,F - Tax,$130.42,-692,8759,-7%,"-$90,251",0.0,1.0,-9.0,-56.0,AX
+566,D,2015-08-11 12:27:22,2015-08-06,BOFI,Ratinoff Edward James,Dir,M - OptEx,$130.42,1333,8759,+18%,"+$173,850",0.0,1.0,-9.0,-56.0,AX
+567,D,2015-08-11 12:05:06,2015-08-06,BOFI,Nick Mosich,Dir,F - Tax,$130.42,-884,23969,-4%,"-$115,291",0.0,1.0,-9.0,-56.0,AX
+568,D,2015-08-11 12:05:06,2015-08-06,BOFI,Nick Mosich,Dir,M - OptEx,$130.42,1700,23969,+8%,"+$221,714",0.0,1.0,-9.0,-56.0,AX
+569,D,2015-08-11 12:04:50,2015-08-06,BOFI,Argalas James S,Dir,F - Tax,$130.42,-468,8411,-5%,"-$61,037",0.0,1.0,-9.0,-56.0,AX
+570,D,2015-08-11 12:04:50,2015-08-06,BOFI,Argalas James S,Dir,M - OptEx,$130.42,1333,8411,+19%,"+$173,850",0.0,1.0,-9.0,-56.0,AX
+571,D,2015-08-10 21:59:33,2015-08-06,BOFI,Allrich Theodore C,Dir,F - Tax,$130.42,-1290,56871,-2%,"-$168,242",0.0,-2.0,-10.0,-55.0,AX
+572,D,2015-08-10 21:59:33,2015-08-06,BOFI,Allrich Theodore C,Dir,M - OptEx,$130.42,3666,56871,+7%,"+$478,120",0.0,-2.0,-10.0,-55.0,AX
+573,D,2015-08-10 21:56:17,2015-08-06,BOFI,Burke John Gary,Dir,M - OptEx,$130.42,1333,464514,0%,"+$173,850",0.0,-2.0,-10.0,-55.0,AX
+574,D,2015-08-10 21:54:30,2015-08-06,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$130.42,-1956,111261,-2%,"-$255,102",0.0,-2.0,-10.0,-55.0,AX
+575,DM,2015-08-10 21:54:30,2015-08-06,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$130.57,23750,111261,+27%,"+$3,101,075",0.0,-2.0,-10.0,-55.0,AX
+576,D,2015-08-10 21:54:30,2015-08-10,BOFI,Micheletti Andrew J,"EVP, CFO",S - Sale+OE,$130.60,-19000,111261,-15%,"-$2,481,400",0.0,-2.0,-10.0,-55.0,AX
+577,D,2015-08-10 21:52:49,2015-08-06,BOFI,Court James John,Dir,F - Tax,$130.42,-692,7720,-8%,"-$90,251",0.0,-2.0,-10.0,-55.0,AX
+578,D,2015-08-10 21:52:49,2015-08-06,BOFI,Court James John,Dir,M - OptEx,$130.42,1333,7720,+21%,"+$173,850",0.0,-2.0,-10.0,-55.0,AX
+579,D,2015-08-10 20:59:41,2015-08-06,BOFI,Grinberg Paul,Dir,F - Tax,$130.42,-952,18346,-5%,"-$124,160",0.0,-2.0,-10.0,-55.0,AX
+580,D,2015-08-10 20:59:41,2015-08-06,BOFI,Grinberg Paul,Dir,M - OptEx,$130.42,1833,18346,+11%,"+$239,060",0.0,-2.0,-10.0,-55.0,AX
+581,D,2015-08-10 20:59:41,2015-08-10,BOFI,Grinberg Paul,Dir,S - Sale+OE,$129.99,-12204,18346,-40%,"-$1,586,398",0.0,-2.0,-10.0,-55.0,AX
+582,D,2015-07-28 17:37:20,2015-07-25,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$115.40,-46,144,-24%,"-$5,308",1.0,10.0,6.0,-35.0,AX
+583,D,2015-07-28 17:37:20,2015-07-25,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$115.40,126,144,+700%,"+$14,540",1.0,10.0,6.0,-35.0,AX
+584,D,2015-07-14 21:03:20,2015-07-11,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",F - Tax,$109.69,-49,64,-43%,"-$5,375",1.0,6.0,18.0,-35.0,AX
+585,D,2015-07-14 21:03:20,2015-07-11,BOFI,Walsh Derrick,"SVP, Chief Accounting Officer",M - OptEx,$109.69,113,64,-231%,"+$12,395",1.0,6.0,18.0,-35.0,AX
+586,D,2015-07-01 19:48:50,2015-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",F - Tax,$105.71,-28728,220798,-12%,"-$3,036,837",-1.0,-1.0,11.0,-21.0,AX
+587,D,2015-07-01 19:48:50,2015-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",M - OptEx,$105.71,52000,220798,+31%,"+$5,496,920",-1.0,-1.0,11.0,-21.0,AX
+588,D,2015-06-12 20:43:58,2015-06-11,BOFI,Burke John Gary,Dir,F - Tax,$99.83,-5214,463181,-1%,"-$520,514",0.0,-1.0,11.0,-24.0,AX
+589,D,2015-06-12 20:43:58,2015-06-11,BOFI,Burke John Gary,Dir,M - OptEx,$8.02,12900,463181,+3%,"+$103,440",0.0,-1.0,11.0,-24.0,AX
+590,D,2015-06-12 20:37:56,2015-06-11,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$99.83,-28369,108467,-21%,"-$2,832,077",0.0,-1.0,11.0,-24.0,AX
+591,D,2015-06-12 20:37:56,2015-06-11,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$9.50,50000,108467,+86%,"+$475,000",0.0,-1.0,11.0,-24.0,AX
+592,D,2015-06-12 20:31:18,2015-06-11,BOFI,Allrich Theodore C,Dir,F - Tax,$99.83,-8704,54495,-14%,"-$868,920",0.0,-1.0,11.0,-24.0,AX
+593,D,2015-06-12 20:31:18,2015-06-11,BOFI,Allrich Theodore C,Dir,M - OptEx,$8.70,21300,54495,+64%,"+$185,265",0.0,-1.0,11.0,-24.0,AX
+594,,2014-12-15 17:51:17,2014-12-12,BOFI,Burke John Gary,Dir,S - Sale,$77.50,-7100,455495,-2%,"-$550,250",0.0,1.0,1.0,27.0,AX
+595,M,2014-11-17 14:41:55,2014-11-13,BOFI,Burke John Gary,Dir,S - Sale,$80.33,-3801,462595,-1%,"-$305,322",-2.0,-3.0,2.0,23.0,AX
+596,D,2014-09-16 14:42:15,2014-09-12,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$75.60,-1033,86836,-1%,"-$78,095",-1.0,1.0,-10.0,27.0,AX
+597,D,2014-09-16 14:42:15,2014-09-12,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$75.60,2750,86836,+3%,"+$207,900",-1.0,1.0,-10.0,27.0,AX
+598,DM,2014-08-19 17:05:24,2014-08-16,BOFI,Argalas James S,Dir,F - Tax,$79.57,-1360,7546,-15%,"-$108,215",-1.0,-1.0,-5.0,17.0,AX
+599,DM,2014-08-19 17:05:24,2014-08-16,BOFI,Argalas James S,Dir,M - OptEx,$79.57,3863,7546,+105%,"+$307,378",-1.0,-1.0,-5.0,17.0,AX
+600,D,2014-08-19 17:05:07,2014-08-16,BOFI,Burke John Gary,Dir,M - OptEx,$78.81,1333,466396,0%,"+$105,054",-1.0,-1.0,-5.0,17.0,AX
+601,D,2014-08-19 17:04:45,2014-08-16,BOFI,Court James John,Dir,F - Tax,$78.81,-693,7079,-9%,"-$54,615",-1.0,-1.0,-5.0,17.0,AX
+602,D,2014-08-19 17:04:45,2014-08-16,BOFI,Court James John,Dir,M - OptEx,$78.81,1333,7079,+23%,"+$105,054",-1.0,-1.0,-5.0,17.0,AX
+603,D,2014-08-19 17:04:30,2014-08-16,BOFI,Grinberg Paul,Dir,F - Tax,$78.81,-953,33573,-3%,"-$75,106",-1.0,-1.0,-5.0,17.0,AX
+604,D,2014-08-19 17:04:30,2014-08-16,BOFI,Grinberg Paul,Dir,M - OptEx,$78.81,1833,33573,+6%,"+$144,459",-1.0,-1.0,-5.0,17.0,AX
+605,D,2014-08-19 17:04:08,2014-08-16,BOFI,Nick Mosich,Dir,M - OptEx,$78.81,1700,23153,+8%,"+$133,977",-1.0,-1.0,-5.0,17.0,AX
+606,D,2014-08-19 17:03:47,2014-08-16,BOFI,Ratinoff Edward James,Dir,F - Tax,$78.81,-469,8118,-5%,"-$36,962",-1.0,-1.0,-5.0,17.0,AX
+607,D,2014-08-19 17:03:47,2014-08-16,BOFI,Ratinoff Edward James,Dir,M - OptEx,$78.81,1333,8118,+20%,"+$105,054",-1.0,-1.0,-5.0,17.0,AX
+608,D,2014-08-19 17:03:25,2014-08-16,BOFI,Allrich Theodore C,Dir,F - Tax,$78.81,-1291,41899,-3%,"-$101,744",-1.0,-1.0,-5.0,17.0,AX
+609,D,2014-08-19 17:03:25,2014-08-16,BOFI,Allrich Theodore C,Dir,M - OptEx,$78.81,3666,41899,+10%,"+$288,917",-1.0,-1.0,-5.0,17.0,AX
+610,D,2014-08-19 17:03:25,2014-08-15,BOFI,Allrich Theodore C,Dir,S - Sale+OE,$79.75,-1000,41899,-2%,"-$79,750",-1.0,-1.0,-5.0,17.0,AX
+611,,2014-08-18 16:44:47,2014-08-14,BOFI,Allrich Theodore C,Dir,S - Sale,$79.31,-6000,40524,-13%,"-$475,860",-1.0,-3.0,-8.0,16.0,AX
+612,D,2014-08-12 19:35:36,2014-08-10,BOFI,Allrich Theodore C,Dir,F - Tax,$79.51,-1292,46524,-3%,"-$102,727",0.0,0.0,-5.0,13.0,AX
+613,D,2014-08-12 19:35:36,2014-08-10,BOFI,Allrich Theodore C,Dir,M - OptEx,$79.51,3668,46524,+9%,"+$291,643",0.0,0.0,-5.0,13.0,AX
+614,D,2014-08-12 19:35:21,2014-08-10,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$79.51,-1879,85119,-2%,"-$149,399",0.0,0.0,-5.0,13.0,AX
+615,D,2014-08-12 19:35:21,2014-08-10,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$79.51,5002,85119,+6%,"+$397,709",0.0,0.0,-5.0,13.0,AX
+616,D,2014-08-12 19:35:05,2014-08-10,BOFI,Nick Mosich,Dir,M - OptEx,$79.51,1701,21453,+9%,"+$135,247",0.0,0.0,-5.0,13.0,AX
+617,D,2014-08-12 19:34:49,2014-08-10,BOFI,Ratinoff Edward James,Dir,F - Tax,$79.51,-469,7254,-6%,"-$37,290",0.0,0.0,-5.0,13.0,AX
+618,D,2014-08-12 19:34:49,2014-08-10,BOFI,Ratinoff Edward James,Dir,M - OptEx,$79.51,1334,7254,+23%,"+$106,066",0.0,0.0,-5.0,13.0,AX
+619,D,2014-08-12 19:34:33,2014-08-10,BOFI,Court James John,Dir,F - Tax,$79.51,-693,6439,-10%,"-$55,100",0.0,0.0,-5.0,13.0,AX
+620,D,2014-08-12 19:34:33,2014-08-10,BOFI,Court James John,Dir,M - OptEx,$79.51,1334,6439,+26%,"+$106,066",0.0,0.0,-5.0,13.0,AX
+621,D,2014-08-12 19:34:19,2014-08-10,BOFI,Grinberg Paul,Dir,F - Tax,$79.51,-953,32693,-3%,"-$75,773",0.0,0.0,-5.0,13.0,AX
+622,D,2014-08-12 19:34:19,2014-08-10,BOFI,Grinberg Paul,Dir,M - OptEx,$79.51,1834,32693,+6%,"+$145,821",0.0,0.0,-5.0,13.0,AX
+623,D,2014-08-12 19:34:02,2014-08-10,BOFI,Burke John Gary,Dir,M - OptEx,$79.51,1334,465063,0%,"+$106,066",0.0,0.0,-5.0,13.0,AX
+624,D,2014-08-08 17:25:09,2014-08-06,BOFI,Burke John Gary,Dir,M - OptEx,$76.23,666,463729,0%,"+$50,769",3.0,0.0,-4.0,12.0,AX
+625,D,2014-08-08 17:24:54,2014-08-06,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$76.23,-1406,81996,-2%,"-$107,179",3.0,0.0,-4.0,12.0,AX
+626,D,2014-08-08 17:24:54,2014-08-06,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$76.23,3749,81996,+5%,"+$285,786",3.0,0.0,-4.0,12.0,AX
+627,D,2014-08-08 17:24:39,2014-08-06,BOFI,Allrich Theodore C,Dir,F - Tax,$76.23,-645,44148,-1%,"-$49,168",3.0,0.0,-4.0,12.0,AX
+628,D,2014-08-08 17:24:39,2014-08-06,BOFI,Allrich Theodore C,Dir,M - OptEx,$76.23,1833,44148,+4%,"+$139,730",3.0,0.0,-4.0,12.0,AX
+629,D,2014-08-08 17:24:25,2014-08-06,BOFI,Court James John,Dir,F - Tax,$76.23,-346,5798,-6%,"-$26,376",3.0,0.0,-4.0,12.0,AX
+630,D,2014-08-08 17:24:25,2014-08-06,BOFI,Court James John,Dir,M - OptEx,$76.23,666,5798,+13%,"+$50,769",3.0,0.0,-4.0,12.0,AX
+631,D,2014-08-08 17:18:33,2014-08-06,BOFI,Argalas James S,Dir,F - Tax,$76.23,-234,5043,-4%,"-$17,838",3.0,0.0,-4.0,12.0,AX
+632,D,2014-08-08 17:18:33,2014-08-06,BOFI,Argalas James S,Dir,M - OptEx,$76.23,666,5043,+15%,"+$50,769",3.0,0.0,-4.0,12.0,AX
+633,D,2014-08-08 17:17:11,2014-08-06,BOFI,Ratinoff Edward James,Dir,F - Tax,$76.23,-234,6389,-4%,"-$17,838",3.0,0.0,-4.0,12.0,AX
+634,D,2014-08-08 17:17:11,2014-08-06,BOFI,Ratinoff Edward James,Dir,M - OptEx,$76.23,666,6389,+12%,"+$50,769",3.0,0.0,-4.0,12.0,AX
+635,D,2014-08-08 17:15:16,2014-08-06,BOFI,Grinberg Paul,Dir,F - Tax,$76.23,-476,31812,-1%,"-$36,285",3.0,0.0,-4.0,12.0,AX
+636,D,2014-08-08 17:15:16,2014-08-06,BOFI,Grinberg Paul,Dir,M - OptEx,$76.23,916,31812,+3%,"+$69,827",3.0,0.0,-4.0,12.0,AX
+637,D,2014-08-08 17:12:16,2014-08-06,BOFI,Nick Mosich,Dir,M - OptEx,$76.23,849,19752,+4%,"+$64,719",3.0,0.0,-4.0,12.0,AX
+638,D,2014-07-02 14:35:27,2014-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",F - Tax,$73.47,-28078,197526,-12%,"-$2,062,891",-1.0,-1.0,-2.0,4.0,AX
+639,D,2014-07-02 14:35:27,2014-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",M - OptEx,$73.47,51666,197526,+35%,"+$3,795,901",-1.0,-1.0,-2.0,4.0,AX
+640,,2014-06-12 18:47:56,2014-06-12,BOFI,Nick Mosich,Dir,P - Purchase,$76.77,645,18903,+4%,"+$49,519",-1.0,-2.0,-4.0,5.0,AX
+641,,2014-06-12 18:35:29,2014-06-11,BOFI,Nick Mosich,Dir,P - Purchase,$77.23,801,18258,+5%,"+$61,860",-1.0,-2.0,-4.0,5.0,AX
+642,,2014-06-12 18:32:07,2014-06-11,BOFI,Ratinoff Edward James,Dir,S - Sale,$77.36,-1988,5957,-25%,"-$153,796",-1.0,-2.0,-4.0,5.0,AX
+643,D,2014-05-29 14:05:02,2014-05-28,BOFI,Englert Jerry F,Dir,M - OptEx,$8.86,20810,442436,+5%,"+$184,475",0.0,0.0,-5.0,-2.0,AX
+644,D,2014-05-27 17:58:30,2014-05-22,BOFI,Allrich Theodore C,Dir,M - OptEx,$10.00,5807,42960,+16%,"+$58,070",-2.0,-5.0,-9.0,-7.0,AX
+645,,2014-05-16 16:54:13,2014-05-14,BOFI,Englert Jerry F,Dir,G - Gift,$0.00,-25012,421626,-6%,-$0,1.0,3.0,3.0,7.0,AX
+646,D,2014-04-23 17:29:55,2014-04-21,BOFI,Court James John,Dir,F - Tax,$85.12,-1052,5478,-16%,"-$89,546",-1.0,-7.0,-10.0,-19.0,AX
+647,D,2014-04-23 17:29:55,2014-04-21,BOFI,Court James John,Dir,M - OptEx,$85.12,2138,5478,+64%,"+$181,987",-1.0,-7.0,-10.0,-19.0,AX
+648,,2013-12-12 16:43:00,2013-12-10,BOFI,Burke John Gary,Dir,G - Gift,$0.00,-3750,463063,-1%,-$0,1.0,3.0,0.0,-3.0,AX
+649,,2013-09-16 20:09:30,2013-09-13,BOFI,Garrabrants Gregory,"Pres, CEO",G - Gift,$0.00,-38000,173938,-18%,-$0,6.0,5.0,7.0,62.0,AX
+650,,2013-09-13 13:48:27,2013-09-12,BOFI,Court James John,Dir,S - Sale,$63.64,-1569,4392,-26%,"-$99,851",1.0,4.0,4.0,66.0,AX
+651,D,2013-09-13 13:45:19,2013-09-12,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$63.54,-1307,79653,-2%,"-$83,047",1.0,4.0,4.0,66.0,AX
+652,D,2013-09-13 13:45:19,2013-09-12,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$63.54,2749,79653,+4%,"+$174,671",1.0,4.0,4.0,66.0,AX
+653,,2013-09-03 13:48:54,2013-08-29,BOFI,Burke John Gary,Dir,S - Sale,$64.92,-20000,466813,-4%,"-$1,298,468",0.0,-6.0,2.0,52.0,AX
+654,D,2013-08-28 21:49:15,2013-08-26,BOFI,Grinberg Paul,Dir,F - Tax,$65.41,-540,31372,-2%,"-$35,321",1.0,1.0,2.0,48.0,AX
+655,D,2013-08-28 21:49:15,2013-08-26,BOFI,Grinberg Paul,Dir,M - OptEx,$65.41,1534,31372,+5%,"+$100,339",1.0,1.0,2.0,48.0,AX
+656,D,2013-08-28 21:48:51,2013-08-26,BOFI,Ratinoff Edward James,Dir,F - Tax,$65.41,-140,7945,-2%,"-$9,157",1.0,1.0,2.0,48.0,AX
+657,D,2013-08-28 21:48:51,2013-08-26,BOFI,Ratinoff Edward James,Dir,M - OptEx,$65.41,400,7945,+5%,"+$26,164",1.0,1.0,2.0,48.0,AX
+658,D,2013-08-28 21:48:24,2013-08-26,BOFI,Nick Mosich,Dir,F - Tax,$65.41,-422,17457,-2%,"-$27,603",1.0,1.0,2.0,48.0,AX
+659,D,2013-08-28 21:48:24,2013-08-26,BOFI,Nick Mosich,Dir,M - OptEx,$65.41,1200,17457,+7%,"+$78,492",1.0,1.0,2.0,48.0,AX
+660,D,2013-08-28 21:47:57,2013-08-26,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$65.41,-7002,78211,-8%,"-$458,001",1.0,1.0,2.0,48.0,AX
+661,D,2013-08-28 21:47:57,2013-08-26,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$65.41,15000,78211,+24%,"+$981,150",1.0,1.0,2.0,48.0,AX
+662,D,2013-08-28 21:45:52,2013-08-26,BOFI,Englert Jerry F,Dir,M - OptEx,$65.41,1534,446638,0%,"+$100,339",1.0,1.0,2.0,48.0,AX
+663,D,2013-08-28 21:43:11,2013-08-26,BOFI,Burke John Gary,Dir,M - OptEx,$65.41,1200,486813,0%,"+$78,492",1.0,1.0,2.0,48.0,AX
+664,D,2013-08-28 21:40:39,2013-08-26,BOFI,Allrich Theodore C,Dir,F - Tax,$65.41,-1174,37153,-3%,"-$76,791",1.0,1.0,2.0,48.0,AX
+665,D,2013-08-28 21:40:39,2013-08-26,BOFI,Allrich Theodore C,Dir,M - OptEx,$65.41,3334,37153,+10%,"+$218,077",1.0,1.0,2.0,48.0,AX
+666,D,2013-08-20 17:40:29,2013-08-16,BOFI,Ratinoff Edward James,Dir,F - Tax,$67.46,-469,7685,-6%,"-$31,639",-3.0,-1.0,2.0,29.0,AX
+667,D,2013-08-20 17:40:29,2013-08-16,BOFI,Ratinoff Edward James,Dir,M - OptEx,$67.46,1333,7685,+21%,"+$89,924",-3.0,-1.0,2.0,29.0,AX
+668,D,2013-08-20 17:40:08,2013-08-16,BOFI,Nick Mosich,Dir,F - Tax,$67.46,-598,16679,-3%,"-$40,341",-3.0,-1.0,2.0,29.0,AX
+669,D,2013-08-20 17:40:08,2013-08-16,BOFI,Nick Mosich,Dir,M - OptEx,$67.46,1699,16679,+11%,"+$114,615",-3.0,-1.0,2.0,29.0,AX
+670,D,2013-08-20 17:39:50,2013-08-16,BOFI,Grinberg Paul,Dir,F - Tax,$67.46,-645,30378,-2%,"-$43,512",-3.0,-1.0,2.0,29.0,AX
+671,D,2013-08-20 17:39:50,2013-08-16,BOFI,Grinberg Paul,Dir,M - OptEx,$67.46,1833,30378,+6%,"+$123,654",-3.0,-1.0,2.0,29.0,AX
+672,D,2013-08-20 17:39:32,2013-08-16,BOFI,Englert Jerry F,Dir,M - OptEx,$67.46,1333,445104,0%,"+$89,924",-3.0,-1.0,2.0,29.0,AX
+673,D,2013-08-20 17:39:14,2013-08-16,BOFI,Court James John,Dir,F - Tax,$67.46,-469,5961,-7%,"-$31,639",-3.0,-1.0,2.0,29.0,AX
+674,D,2013-08-20 17:39:14,2013-08-16,BOFI,Court James John,Dir,M - OptEx,$67.46,1333,5961,+29%,"+$89,924",-3.0,-1.0,2.0,29.0,AX
+675,D,2013-08-20 17:38:54,2013-08-16,BOFI,Burke John Gary,Dir,M - OptEx,$67.46,1333,485613,0%,"+$89,924",-3.0,-1.0,2.0,29.0,AX
+676,D,2013-08-20 17:38:37,2013-08-18,BOFI,Argalas James S,Dir,F - Tax,$66.24,-890,4611,-16%,"-$58,954",-3.0,-1.0,2.0,29.0,AX
+677,DM,2013-08-20 17:38:37,2013-08-16,BOFI,Argalas James S,Dir,M - OptEx,$66.66,3862,4611,+516%,"+$257,445",-3.0,-1.0,2.0,29.0,AX
+678,D,2013-08-20 17:38:21,2013-08-16,BOFI,Allrich Theodore C,Dir,M - OptEx,$67.46,3666,34993,+12%,"+$247,308",-3.0,-1.0,2.0,29.0,AX
+679,D,2013-08-20 17:38:21,2013-08-16,BOFI,Allrich Theodore C,Dir,S - Sale+OE,$68.01,-2000,34993,-5%,"-$136,020",-3.0,-1.0,2.0,29.0,AX
+680,,2013-08-15 17:30:54,2013-08-13,BOFI,Garrabrants Gregory,"Pres, CEO",G - Gift,$0.00,-42000,211938,-17%,-$0,3.0,-3.0,-3.0,25.0,AX
+681,D,2013-08-14 18:35:37,2013-08-12,BOFI,Ratinoff Edward James,Dir,F - Tax,$65.56,-469,6821,-6%,"-$30,748",-3.0,-3.0,-7.0,19.0,AX
+682,D,2013-08-14 18:35:37,2013-08-12,BOFI,Ratinoff Edward James,Dir,M - OptEx,$65.56,1333,6821,+24%,"+$87,391",-3.0,-3.0,-7.0,19.0,AX
+683,D,2013-08-14 18:35:14,2013-08-12,BOFI,Nick Mosich,Dir,F - Tax,$65.56,-598,15578,-4%,"-$39,205",-3.0,-3.0,-7.0,19.0,AX
+684,D,2013-08-14 18:35:14,2013-08-12,BOFI,Nick Mosich,Dir,M - OptEx,$65.56,1700,15578,+12%,"+$111,452",-3.0,-3.0,-7.0,19.0,AX
+685,D,2013-08-14 18:34:58,2013-08-12,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$65.56,-2333,70213,-3%,"-$152,951",-3.0,-3.0,-7.0,19.0,AX
+686,D,2013-08-14 18:34:58,2013-08-12,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$65.56,4999,70213,+8%,"+$327,734",-3.0,-3.0,-7.0,19.0,AX
+687,D,2013-08-14 18:34:41,2013-08-12,BOFI,Grinberg Paul,Dir,F - Tax,$65.56,-645,29190,-2%,"-$42,286",-3.0,-3.0,-7.0,19.0,AX
+688,D,2013-08-14 18:34:41,2013-08-12,BOFI,Grinberg Paul,Dir,M - OptEx,$13.13,25633,29190,+721%,"+$336,436",-3.0,-3.0,-7.0,19.0,AX
+689,D,2013-08-14 18:34:41,2013-08-12,BOFI,Grinberg Paul,Dir,S - Sale+OE,$66.55,-23800,29190,-45%,"-$1,583,880",-3.0,-3.0,-7.0,19.0,AX
+690,D,2013-08-14 18:34:25,2013-08-12,BOFI,Englert Jerry F,Dir,M - OptEx,$65.56,1333,443771,0%,"+$87,391",-3.0,-3.0,-7.0,19.0,AX
+691,D,2013-08-14 18:34:02,2013-08-12,BOFI,Court James John,Dir,F - Tax,$65.56,-469,5097,-8%,"-$30,748",-3.0,-3.0,-7.0,19.0,AX
+692,D,2013-08-14 18:34:02,2013-08-12,BOFI,Court James John,Dir,M - OptEx,$65.56,1333,5097,+35%,"+$87,391",-3.0,-3.0,-7.0,19.0,AX
+693,D,2013-08-14 18:33:46,2013-08-12,BOFI,Burke John Gary,Dir,M - OptEx,$65.56,1333,484280,0%,"+$87,391",-3.0,-3.0,-7.0,19.0,AX
+694,D,2013-08-14 18:33:27,2013-08-12,BOFI,Allrich Theodore C,Dir,F - Tax,$65.56,-1291,33327,-4%,"-$84,638",-3.0,-3.0,-7.0,19.0,AX
+695,D,2013-08-14 18:33:27,2013-08-12,BOFI,Allrich Theodore C,Dir,M - OptEx,$65.56,3666,33327,+12%,"+$240,343",-3.0,-3.0,-7.0,19.0,AX
+696,D,2013-07-01 17:32:28,2013-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",F - Tax,$45.82,-53058,253938,-17%,"-$2,431,118",1.0,7.0,17.0,70.0,AX
+697,D,2013-07-01 17:32:28,2013-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",M - OptEx,$45.82,113667,253938,+81%,"+$5,208,222",1.0,7.0,17.0,70.0,AX
+698,,2013-05-22 18:40:02,2013-05-21,BOFI,Court James John,Dir,P - Purchase,$40.40,600,4233,+17%,"+$24,240",4.0,14.0,22.0,86.0,AX
+699,D,2013-05-21 14:43:28,2013-05-20,BOFI,Ratinoff Edward James,Dir,F - Tax,$40.41,-829,5957,-12%,"-$33,500",0.0,6.0,21.0,85.0,AX
+700,D,2013-05-21 14:43:28,2013-05-20,BOFI,Ratinoff Edward James,Dir,M - OptEx,$40.41,2354,5957,+65%,"+$95,125",0.0,6.0,21.0,85.0,AX
+701,D,2013-04-25 20:06:57,2013-04-24,BOFI,Grinberg Paul,Dir,C - Converted deriv,$0.00,8196,28002,-23%,$0,2.0,-4.0,4.0,72.0,AX
+702,D,2013-04-25 20:00:16,2013-04-24,BOFI,Englert Jerry F,Dir,C - Converted deriv,$0.00,16393,442438,-4%,$0,2.0,-4.0,4.0,72.0,AX
+703,D,2013-04-25 19:50:54,2013-04-24,BOFI,Burke John Gary,Dir,C - Converted deriv,$0.00,16393,482947,-3%,$0,2.0,-4.0,4.0,72.0,AX
+704,D,2013-04-24 18:48:45,2013-04-22,BOFI,Court James John,Dir,F - Tax,$38.75,-752,3633,-17%,"-$29,140",0.0,3.0,0.0,78.0,AX
+705,D,2013-04-24 18:48:45,2013-04-22,BOFI,Court James John,Dir,M - OptEx,$38.75,2137,3633,+143%,"+$82,809",0.0,3.0,0.0,78.0,AX
+706,D,2013-03-18 18:37:06,2013-03-15,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$10.00,20000,67547,+42%,"+$200,000",0.0,0.0,1.0,82.0,AX
+707,D,2013-03-18 18:37:06,2013-03-15,BOFI,Micheletti Andrew J,"EVP, CFO",S - Sale+OE,$35.10,-13000,67547,-16%,"-$456,300",0.0,0.0,1.0,82.0,AX
+708,,2013-03-18 18:14:36,2013-03-14,BOFI,Grinberg Paul,Dir,S - Sale,$35.02,-10000,19806,-34%,"-$350,169",0.0,0.0,1.0,82.0,AX
+709,,2013-01-03 15:10:15,2012-12-31,BOFI,Garrabrants Gregory,"Pres, CEO",G - Gift,$0.00,36000,193329,+23%,+$0,1.0,4.0,15.0,65.0,AX
+710,,2012-12-18 13:23:08,2012-12-14,BOFI,Allrich Theodore C,Dir,S - Sale,$26.36,-2500,30952,-7%,"-$65,905",3.0,1.0,12.0,83.0,AX
+711,,2012-12-18 13:17:24,2012-12-14,BOFI,Burke John Gary,Dir,S - Sale,$26.28,-25000,466554,-5%,"-$657,000",3.0,1.0,12.0,83.0,AX
+712,,2012-12-14 19:54:08,2012-12-14,BOFI,Garrabrants Gregory,"Pres, CEO",A - Grant,$26.31,80000,157329,+103%,"+$2,104,800",1.0,6.0,13.0,78.0,AX
+713,,2012-12-14 19:54:08,2012-12-14,BOFI,Garrabrants Gregory,"Pres, CEO",G - Gift,$0.00,-52913,157329,-25%,-$0,1.0,6.0,13.0,78.0,AX
+714,,2012-12-14 19:54:08,2012-12-13,BOFI,Garrabrants Gregory,"Pres, CEO",S - Sale,$26.30,-94856,157329,-38%,"-$2,494,713",1.0,6.0,13.0,78.0,AX
+715,,2012-12-11 14:06:44,2012-12-07,BOFI,Grinberg Paul,Dir,S - Sale,$26.47,-9821,29806,-25%,"-$259,922",0.0,1.0,9.0,72.0,AX
+716,,2012-12-10 21:59:41,2012-12-06,BOFI,Grinberg Paul,Dir,S - Sale,$26.51,-2695,39627,-6%,"-$71,434",0.0,0.0,12.0,73.0,AX
+717,,2012-11-27 16:55:19,2012-11-23,BOFI,Allrich Theodore C,Dir,S - Sale,$26.90,-5000,33452,-13%,"-$134,480",-2.0,-3.0,-2.0,64.0,AX
+718,D,2012-10-23 21:54:09,2012-10-22,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$26.87,-2230,60547,-4%,"-$59,920",0.0,5.0,1.0,50.0,AX
+719,D,2012-10-23 21:54:09,2012-10-22,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$26.87,4779,60547,+9%,"+$128,412",0.0,5.0,1.0,50.0,AX
+720,D,2012-09-26 16:38:46,2012-09-24,BOFI,Grinberg Paul,Dir,F - Tax,$25.83,-540,42322,-1%,"-$13,948",0.0,2.0,3.0,38.0,AX
+721,D,2012-09-26 16:38:46,2012-09-24,BOFI,Grinberg Paul,Dir,M - OptEx,$25.83,1534,42322,+4%,"+$39,623",0.0,2.0,3.0,38.0,AX
+722,D,2012-09-26 16:38:34,2012-09-24,BOFI,Englert Jerry F,Dir,M - OptEx,$25.83,1667,426045,0%,"+$43,059",0.0,2.0,3.0,38.0,AX
+723,D,2012-09-26 16:38:21,2012-09-24,BOFI,Burke John Gary,Dir,M - OptEx,$25.83,1200,491554,0%,"+$30,996",0.0,2.0,3.0,38.0,AX
+724,D,2012-09-26 16:38:09,2012-09-24,BOFI,Allrich Theodore C,Dir,F - Tax,$25.83,-540,38452,-1%,"-$13,948",0.0,2.0,3.0,38.0,AX
+725,D,2012-09-26 16:38:09,2012-09-24,BOFI,Allrich Theodore C,Dir,M - OptEx,$25.83,1534,38452,+4%,"+$39,623",0.0,2.0,3.0,38.0,AX
+726,,2012-09-17 19:43:29,2012-09-13,BOFI,Allrich Theodore C,Dir,S - Sale,$26.30,-1000,37458,-3%,"-$26,300",-1.0,-3.0,4.0,34.0,AX
+727,D,2012-09-13 16:23:57,2012-09-11,BOFI,Burke John Gary,Dir,C - Converted deriv,$0.00,15480,490354,-3%,$0,0.0,-1.0,5.0,35.0,AX
+728,D,2012-09-13 16:23:43,2012-09-11,BOFI,Grinberg Paul,Dir,C - Converted deriv,$0.00,12384,41328,-23%,$0,0.0,-1.0,5.0,35.0,AX
+729,D,2012-09-13 16:23:24,2012-09-11,BOFI,Micheletti Andrew J,"EVP, CFO",C - Converted deriv,$0.00,5201,57998,-8%,$0,0.0,-1.0,5.0,35.0,AX
+730,,2012-09-10 15:39:14,2012-09-07,BOFI,Allrich Theodore C,Dir,S - Sale,$24.95,-1000,38458,-3%,"-$24,950",2.0,5.0,10.0,40.0,AX
+731,,2012-09-06 20:11:18,2012-09-06,BOFI,Allrich Theodore C,Dir,S - Sale,$24.53,-6000,39458,-13%,"-$147,180",2.0,6.0,12.0,46.0,AX
+732,D,2012-09-05 16:29:50,2012-09-04,BOFI,Garrabrants Gregory,"Pres, CEO",F - Tax,$23.68,-5894,225098,-3%,"-$139,570",2.0,6.0,13.0,49.0,AX
+733,D,2012-09-05 16:29:50,2012-09-04,BOFI,Garrabrants Gregory,"Pres, CEO",M - OptEx,$14.41,20750,225098,+10%,"+$299,008",2.0,6.0,13.0,49.0,AX
+734,,2012-09-05 16:29:32,2012-08-31,BOFI,Allrich Theodore C,Dir,S - Sale,$23.53,-2000,45458,-4%,"-$47,060",2.0,6.0,13.0,49.0,AX
+735,D,2012-08-28 17:32:11,2012-08-26,BOFI,Ratinoff Edward James,Dir,F - Tax,$22.72,-140,4432,-3%,"-$3,181",3.0,5.0,16.0,50.0,AX
+736,D,2012-08-28 17:32:11,2012-08-26,BOFI,Ratinoff Edward James,Dir,M - OptEx,$22.72,400,4432,+10%,"+$9,088",3.0,5.0,16.0,50.0,AX
+737,D,2012-08-28 17:31:51,2012-08-26,BOFI,Nick Mosich,Dir,F - Tax,$22.72,-422,14476,-3%,"-$9,588",3.0,5.0,16.0,50.0,AX
+738,D,2012-08-28 17:31:51,2012-08-26,BOFI,Nick Mosich,Dir,M - OptEx,$22.72,1200,14476,+9%,"+$27,264",3.0,5.0,16.0,50.0,AX
+739,D,2012-08-28 17:31:42,2012-08-26,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$22.72,-7002,52797,-12%,"-$159,085",3.0,5.0,16.0,50.0,AX
+740,D,2012-08-28 17:31:42,2012-08-26,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$22.72,15000,52797,+40%,"+$340,800",3.0,5.0,16.0,50.0,AX
+741,D,2012-08-28 17:31:30,2012-08-26,BOFI,Grinberg Paul,Dir,F - Tax,$22.72,-540,28944,-2%,"-$12,269",3.0,5.0,16.0,50.0,AX
+742,D,2012-08-28 17:31:30,2012-08-26,BOFI,Grinberg Paul,Dir,M - OptEx,$22.72,1533,28944,+6%,"+$34,830",3.0,5.0,16.0,50.0,AX
+743,D,2012-08-28 17:31:11,2012-08-26,BOFI,Englert Jerry F,Dir,M - OptEx,$22.72,1533,424378,0%,"+$34,830",3.0,5.0,16.0,50.0,AX
+744,D,2012-08-28 17:30:52,2012-08-26,BOFI,Burke John Gary,Dir,M - OptEx,$22.72,1200,474874,0%,"+$27,264",3.0,5.0,16.0,50.0,AX
+745,D,2012-08-28 17:30:40,2012-08-26,BOFI,Allrich Theodore C,Dir,F - Tax,$22.72,-1174,47458,-2%,"-$26,673",3.0,5.0,16.0,50.0,AX
+746,D,2012-08-28 17:30:40,2012-08-26,BOFI,Allrich Theodore C,Dir,M - OptEx,$22.72,3333,47458,+8%,"+$75,726",3.0,5.0,16.0,50.0,AX
+747,D,2012-08-21 15:41:15,2012-08-18,BOFI,Argalas James S,Dir,F - Tax,$22.94,-890,1639,-35%,"-$20,417",1.0,-1.0,13.0,47.0,AX
+748,D,2012-08-21 15:41:15,2012-08-18,BOFI,Argalas James S,Dir,M - OptEx,$22.94,2529,1639,-284%,"+$58,015",1.0,-1.0,13.0,47.0,AX
+749,D,2012-08-14 18:39:31,2012-08-10,BOFI,Ratinoff Edward James,Dir,F - Tax,$22.17,-469,4172,-10%,"-$10,398",0.0,2.0,16.0,60.0,AX
+750,D,2012-08-14 18:39:31,2012-08-10,BOFI,Ratinoff Edward James,Dir,M - OptEx,$22.17,1333,4172,+47%,"+$29,553",0.0,2.0,16.0,60.0,AX
+751,D,2012-08-14 18:39:19,2012-08-10,BOFI,Nick Mosich,Dir,F - Tax,$22.17,-598,13698,-4%,"-$13,258",0.0,2.0,16.0,60.0,AX
+752,D,2012-08-14 18:39:19,2012-08-10,BOFI,Nick Mosich,Dir,M - OptEx,$22.17,1699,13698,+14%,"+$37,667",0.0,2.0,16.0,60.0,AX
+753,D,2012-08-14 18:39:16,2012-08-10,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$22.17,-2333,44799,-5%,"-$51,723",0.0,2.0,16.0,60.0,AX
+754,D,2012-08-14 18:39:16,2012-08-10,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$22.17,4999,44799,+13%,"+$110,828",0.0,2.0,16.0,60.0,AX
+755,D,2012-08-14 18:39:01,2012-08-10,BOFI,Grinberg Paul,Dir,F - Tax,$22.17,-645,29618,-2%,"-$14,300",0.0,2.0,16.0,60.0,AX
+756,D,2012-08-14 18:39:01,2012-08-10,BOFI,Grinberg Paul,Dir,M - OptEx,$22.17,1833,29618,+7%,"+$40,638",0.0,2.0,16.0,60.0,AX
+757,D,2012-08-14 18:38:45,2012-08-10,BOFI,Englert Jerry F,Dir,M - OptEx,$22.17,1333,424512,0%,"+$29,553",0.0,2.0,16.0,60.0,AX
+758,D,2012-08-14 18:38:34,2012-08-10,BOFI,Court James John,Dir,F - Tax,$22.17,-469,2248,-17%,"-$10,398",0.0,2.0,16.0,60.0,AX
+759,D,2012-08-14 18:38:34,2012-08-10,BOFI,Court James John,Dir,M - OptEx,$22.17,1333,2248,+146%,"+$29,553",0.0,2.0,16.0,60.0,AX
+760,D,2012-08-14 18:38:27,2012-08-10,BOFI,Burke John Gary,Dir,M - OptEx,$22.17,1333,471341,0%,"+$29,553",0.0,2.0,16.0,60.0,AX
+761,D,2012-08-14 18:38:14,2012-08-10,BOFI,Allrich Theodore C,Dir,F - Tax,$22.17,-1291,46966,-3%,"-$28,621",0.0,2.0,16.0,60.0,AX
+762,D,2012-08-14 18:38:14,2012-08-10,BOFI,Allrich Theodore C,Dir,M - OptEx,$22.17,3666,46966,+8%,"+$81,275",0.0,2.0,16.0,60.0,AX
+763,D,2012-07-03 16:16:07,2012-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",F - Tax,$19.76,-58038,210242,-22%,"-$1,146,831",0.0,-1.0,1.0,43.0,AX
+764,D,2012-07-03 16:16:07,2012-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",M - OptEx,$19.76,124334,210242,+145%,"+$2,456,840",0.0,-1.0,1.0,43.0,AX
+765,,2012-06-27 15:43:10,2012-06-27,BOFI,Nick Mosich,Dir,F - Tax,$19.36,-1174,12597,-9%,"-$22,729",3.0,6.0,7.0,45.0,AX
+766,M,2012-06-19 14:26:02,2012-06-14,BOFI,Allrich Theodore C,Dir,S - Sale,$18.77,-9741,44591,-18%,"-$182,833",3.0,6.0,12.0,51.0,AX
+767,D,2012-05-24 17:05:56,2012-05-22,BOFI,Ratinoff Edward James,Dir,F - Tax,$18.65,-828,3448,-19%,"-$15,442",1.0,2.0,4.0,47.0,AX
+768,D,2012-05-24 17:05:56,2012-05-22,BOFI,Ratinoff Edward James,Dir,M - OptEx,$18.65,2352,3448,+215%,"+$43,865",1.0,2.0,4.0,47.0,AX
+769,D,2012-05-14 18:06:18,2012-05-10,BOFI,Court James John,Dir,F - Tax,$18.79,-752,1384,-35%,"-$14,130",0.0,-1.0,-2.0,46.0,AX
+770,D,2012-05-14 18:06:18,2012-05-10,BOFI,Court James John,Dir,M - OptEx,$18.79,2136,1384,-284%,"+$40,135",0.0,-1.0,-2.0,46.0,AX
+771,,2012-05-14 16:46:07,2012-05-10,BOFI,Burke John Gary,Dir,S - Sale,$18.88,-15351,470008,-3%,"-$289,827",0.0,-1.0,-2.0,46.0,AX
+772,M,2012-01-27 20:02:08,2012-01-25,BOFI,Englert Jerry F,Dir,S - Sale,$16.51,-16539,423777,-4%,"-$273,059",0.0,1.0,0.0,21.0,AX
+773,M,2012-01-24 21:07:47,2012-01-20,BOFI,Englert Jerry F,Dir,S - Sale,$16.44,-25098,440316,-5%,"-$412,709",1.0,1.0,1.0,23.0,AX
+774,M,2012-01-20 14:56:59,2012-01-17,BOFI,Englert Jerry F,Dir,S - Sale,$16.42,-8271,465414,-2%,"-$135,802",0.0,1.0,2.0,25.0,AX
+775,M,2012-01-13 20:00:29,2012-01-11,BOFI,Englert Jerry F,Dir,S - Sale,$16.49,-30000,473685,-6%,"-$494,600",0.0,0.0,2.0,23.0,AX
+776,M,2012-01-11 17:03:28,2012-01-09,BOFI,Englert Jerry F,Dir,S - Sale,$16.67,-20000,503685,-4%,"-$333,400",0.0,-1.0,1.0,19.0,AX
+777,M,2012-01-09 16:22:05,2012-01-05,BOFI,Englert Jerry F,Dir,S - Sale,$16.56,-20000,523685,-4%,"-$331,200",0.0,-2.0,1.0,21.0,AX
+778,M,2012-01-04 20:35:27,2012-01-03,BOFI,Englert Jerry F,Dir,S - Sale,$16.56,-20000,543685,-4%,"-$331,200",1.0,1.0,2.0,21.0,AX
+779,D,2011-12-16 19:54:25,2011-12-15,BOFI,Allrich Theodore C,Dir,M - OptEx,$10.00,11010,54332,+25%,"+$110,100",0.0,1.0,2.0,14.0,AX
+780,D,2011-12-16 19:54:25,2011-12-15,BOFI,Allrich Theodore C,Dir,S - Sale+OE,$16.11,-6000,54332,-10%,"-$96,660",0.0,1.0,2.0,14.0,AX
+781,D,2011-12-16 17:36:59,2011-12-16,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$10.00,12500,42133,+42%,"+$125,000",0.0,1.0,2.0,14.0,AX
+782,D,2011-12-16 17:36:59,2011-12-15,BOFI,Micheletti Andrew J,"EVP, CFO",S - Sale+OE,$16.05,-8500,42133,-17%,"-$136,425",0.0,1.0,2.0,14.0,AX
+783,D,2011-12-14 14:37:08,2011-12-12,BOFI,Englert Jerry F,Dir,M - OptEx,$10.00,11010,563685,+2%,"+$110,100",0.0,1.0,3.0,17.0,AX
+784,M,2011-12-07 18:29:14,2011-12-06,BOFI,Englert Jerry F,Dir,S - Sale,$16.42,-1639,552675,0%,"-$26,912",-1.0,-1.0,3.0,13.0,AX
+785,M,2011-12-06 15:49:48,2011-11-22,BOFI,Englert Jerry F,Dir,S - Sale,$16.51,-24203,554314,-4%,"-$399,652",-1.0,-3.0,1.0,14.0,AX
+786,M,2011-11-22 14:25:02,2011-11-18,BOFI,Englert Jerry F,Dir,S - Sale,$16.46,-9582,578517,-2%,"-$157,738",-1.0,-3.0,-1.0,12.0,AX
+787,,2011-11-18 20:06:47,2011-11-17,BOFI,Englert Jerry F,Dir,S - Sale,$16.48,-10000,588099,-2%,"-$164,800",0.0,-3.0,-2.0,14.0,AX
+788,,2011-11-17 18:42:51,2011-11-16,BOFI,Englert Jerry F,Dir,S - Sale,$16.55,-10000,598099,-2%,"-$165,500",-1.0,-6.0,-3.0,13.0,AX
+789,,2011-11-15 16:31:15,2011-11-11,BOFI,Allrich Theodore C,Dir,S - Sale,$15.66,-10000,49322,-17%,"-$156,600",0.0,0.0,-2.0,16.0,AX
+790,D,2011-10-25 18:45:49,2011-10-22,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$13.83,-2549,38133,-6%,"-$35,253",-1.0,7.0,14.0,23.0,AX
+791,D,2011-10-25 18:45:49,2011-10-22,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$13.83,4779,38133,+14%,"+$66,094",-1.0,7.0,14.0,23.0,AX
+792,D,2011-09-29 21:17:31,2011-09-24,BOFI,Englert Jerry F,Dir,F - Tax,$12.71,-598,608099,0%,"-$7,601",0.0,-1.0,14.0,29.0,AX
+793,D,2011-09-29 21:17:31,2011-09-24,BOFI,Englert Jerry F,Dir,M - OptEx,$12.71,1666,608099,0%,"+$21,175",0.0,-1.0,14.0,29.0,AX
+794,D,2011-09-29 21:01:08,2011-09-24,BOFI,Grinberg Paul,Dir,F - Tax,$12.71,-550,28420,-2%,"-$6,991",0.0,-1.0,14.0,29.0,AX
+795,D,2011-09-29 21:01:08,2011-09-24,BOFI,Grinberg Paul,Dir,M - OptEx,$12.71,1533,28420,+6%,"+$19,484",0.0,-1.0,14.0,29.0,AX
+796,D,2011-09-29 20:46:21,2011-09-24,BOFI,Burke John Gary,Dir,M - OptEx,$12.71,1200,485359,0%,"+$15,252",0.0,-1.0,14.0,29.0,AX
+797,D,2011-09-29 20:37:13,2011-09-24,BOFI,Allrich Theodore C,Dir,M - OptEx,$12.71,1533,59322,+3%,"+$19,484",0.0,-1.0,14.0,29.0,AX
+798,D,2011-09-02 19:00:44,2011-09-01,BOFI,Garrabrants Gregory,"Pres, CEO",F - Tax,$14.69,-9310,101146,-8%,"-$136,764",-3.0,-7.0,-9.0,14.0,AX
+799,D,2011-09-02 19:00:44,2011-09-01,BOFI,Garrabrants Gregory,"Pres, CEO",M - OptEx,$14.12,20750,101146,+26%,"+$292,990",-3.0,-7.0,-9.0,14.0,AX
+800,D,2011-08-29 20:15:22,2011-08-26,BOFI,Allrich Theodore C,Dir,M - OptEx,$13.83,3333,56256,+6%,"+$46,095",2.0,-2.0,-7.0,15.0,AX
+801,D,2011-08-29 20:01:34,2011-08-26,BOFI,Burke John Gary,Dir,M - OptEx,$13.83,1533,438515,0%,"+$21,201",2.0,-2.0,-7.0,15.0,AX
+802,D,2011-08-29 19:48:59,2011-08-26,BOFI,Grinberg Paul,Dir,F - Tax,$13.83,-540,14793,-4%,"-$7,468",2.0,-2.0,-7.0,15.0,AX
+803,D,2011-08-29 19:48:59,2011-08-26,BOFI,Grinberg Paul,Dir,M - OptEx,$13.83,1533,14793,+12%,"+$21,201",2.0,-2.0,-7.0,15.0,AX
+804,D,2011-08-29 18:42:15,2011-08-26,BOFI,Nick Mosich,Dir,F - Tax,$13.83,-422,14945,-3%,"-$5,836",2.0,-2.0,-7.0,15.0,AX
+805,D,2011-08-29 18:42:15,2011-08-26,BOFI,Nick Mosich,Dir,M - OptEx,$13.83,1200,14945,+9%,"+$16,596",2.0,-2.0,-7.0,15.0,AX
+806,D,2011-08-29 18:28:01,2011-08-26,BOFI,Ratinoff Edward James,Dir,F - Tax,$13.83,-140,1784,-7%,"-$1,936",2.0,-2.0,-7.0,15.0,AX
+807,D,2011-08-29 18:28:01,2011-08-26,BOFI,Ratinoff Edward James,Dir,M - OptEx,$13.83,400,1784,+29%,"+$5,532",2.0,-2.0,-7.0,15.0,AX
+808,D,2011-08-29 18:04:29,2011-08-26,BOFI,Englert Jerry F,Dir,M - OptEx,$13.83,1533,560920,0%,"+$21,201",2.0,-2.0,-7.0,15.0,AX
+809,D,2011-08-29 17:40:26,2011-08-26,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$13.83,-7000,33125,-17%,"-$96,810",2.0,-2.0,-7.0,15.0,AX
+810,D,2011-08-29 17:40:26,2011-08-26,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$13.83,15000,33125,+83%,"+$207,450",2.0,-2.0,-7.0,15.0,AX
+811,,2011-07-05 20:25:09,2011-05-17,BOFI,Englert Jerry F,Dir,S - Sale,$11.41,-4668,559387,-1%,"-$53,247",0.0,2.0,-8.0,11.0,AX
+812,D,2011-07-05 20:08:20,2011-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",F - Tax,$14.21,-61608,89706,-41%,"-$875,147",0.0,2.0,-8.0,11.0,AX
+813,D,2011-07-05 20:08:20,2011-06-30,BOFI,Garrabrants Gregory,"Pres, CEO",M - OptEx,$14.41,121333,89706,-384%,"+$1,748,409",0.0,2.0,-8.0,11.0,AX
+814,,2011-06-30 19:26:04,2011-06-25,BOFI,Nick Mosich,Dir,F - Tax,$14.80,-1174,14167,-8%,"-$17,375",3.0,4.0,-3.0,12.0,AX
+815,D,2011-06-01 15:38:55,2011-05-20,BOFI,Ratinoff Edward James,Dir,F - Tax,$16.13,-828,1524,-35%,"-$13,356",-1.0,-4.0,-4.0,7.0,AX
+816,D,2011-06-01 15:38:55,2011-05-20,BOFI,Ratinoff Edward James,Dir,M - OptEx,$16.13,2352,1524,-284%,"+$37,938",-1.0,-4.0,-4.0,7.0,AX
+817,,2011-05-18 14:34:32,2011-05-16,BOFI,Englert Jerry F,Dir,S - Sale,$16.22,-87,564055,0%,"-$1,411",-2.0,-5.0,-9.0,-4.0,AX
+818,,2011-05-13 18:20:20,2011-05-12,BOFI,Englert Jerry F,Dir,S - Sale,$16.21,-1300,564142,0%,"-$21,073",-2.0,-3.0,-14.0,-6.0,AX
+819,,2011-05-12 15:42:50,2011-05-11,BOFI,Nick Mosich,Dir,S - Sale,$16.41,-2159,15341,-12%,"-$35,429",0.0,-2.0,-14.0,-3.0,AX
+820,,2011-05-12 15:28:50,2011-05-10,BOFI,Englert Jerry F,Dir,S - Sale,$16.45,-8113,565442,-1%,"-$133,459",0.0,-2.0,-14.0,-3.0,AX
+821,D,2011-03-30 17:48:37,2011-03-30,BOFI,Englert Jerry F,Dir,M - OptEx,$4.19,6644,573555,+1%,"+$27,838",0.0,0.0,8.0,-14.0,AX
+822,D,2011-03-21 19:46:59,2011-03-21,BOFI,Allrich Theodore C,Dir,M - OptEx,$4.19,1709,52923,+3%,"+$7,161",0.0,0.0,-1.0,-9.0,AX
+823,,2011-03-21 18:29:16,2011-03-15,BOFI,Burke John Gary,Dir,S - Sale,$15.00,-10000,437315,-2%,"-$150,000",0.0,0.0,-1.0,-9.0,AX
+824,D,2011-03-16 13:52:54,2011-03-15,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$4.19,26250,25125,-2333%,"+$109,988",0.0,2.0,1.0,-13.0,AX
+825,D,2011-03-16 13:52:54,2011-03-15,BOFI,Micheletti Andrew J,"EVP, CFO",S - Sale+OE,$14.98,-13125,25125,-34%,"-$196,613",0.0,2.0,1.0,-13.0,AX
+826,,2010-12-13 14:06:06,2010-12-06,BOFI,Burke John Gary,Dir,S - Sale,$14.00,-10000,447315,-2%,"-$140,003",2.0,3.0,6.0,-4.0,AX
+827,D,2010-10-29 17:16:58,2010-10-22,BOFI,Micheletti Andrew J,"EVP, CFO",F - Tax,$13.52,-1779,12000,-13%,"-$24,052",-2.0,11.0,8.0,31.0,AX
+828,D,2010-10-29 17:16:58,2010-10-22,BOFI,Micheletti Andrew J,"EVP, CFO",M - OptEx,$13.52,4779,12000,+66%,"+$64,612",-2.0,11.0,8.0,31.0,AX
+829,,2010-10-01 17:35:22,2010-09-30,BOFI,Allrich Theodore C,Dir,S - Sale,$11.85,-3000,51214,-6%,"-$35,550",0.0,9.0,8.0,30.0,AX
+830,M,2010-06-21 13:17:15,2010-06-17,BOFI,Englert Jerry F,Dir,S - Sale,$16.50,-10880,566911,-2%,"-$179,520",-2.0,-4.0,-13.0,-4.0,AX
+831,D,2010-06-08 17:26:11,2010-06-03,BOFI,Berengolts Michael J,former officer,M - OptEx,$4.19,100,4287,+2%,+$419,2.0,8.0,-4.0,-3.0,AX
+832,D,2010-06-08 17:26:11,2010-06-03,BOFI,Berengolts Michael J,former officer,S - Sale+OE,$16.10,-100,4287,-2%,"-$1,610",2.0,8.0,-4.0,-3.0,AX
+833,,2010-05-27 14:57:55,2010-05-25,BOFI,Pancheri Thomas J,Dir,P - Purchase,$14.74,3000,147474,+2%,"+$44,220",1.0,0.0,-3.0,-18.0,AX
+834,D,2010-05-24 17:59:42,2010-05-20,BOFI,Paulus Connie M,Dir,M - OptEx,$7.21,34745,145181,+31%,"+$250,652",2.0,5.0,0.0,-15.0,AX
+835,,2010-05-24 17:10:59,2010-05-20,BOFI,Evans Gary Lewis,former officer,S - Sale,$14.46,-18125,64450,-22%,"-$262,075",2.0,5.0,0.0,-15.0,AX
+836,,2010-05-14 17:04:56,2010-05-12,BOFI,Burke John Gary,Dir,S - Sale,$17.84,-12134,457315,-3%,"-$216,471",4.0,-10.0,-1.0,-13.0,AX
+837,M,2010-05-12 17:17:14,2010-05-10,BOFI,Garrabrants Gregory,"Pres, CEO",S - Sale,$16.93,-6500,29981,-18%,"-$110,045",-7.0,-7.0,-12.0,-20.0,AX
+838,M,2010-05-12 15:12:07,2010-05-10,BOFI,Witter Gordon L,Dir,S - Sale,$17.25,-10000,64396,-13%,"-$172,500",-1.0,-8.0,-13.0,-21.0,AX
+839,,2010-05-07 17:14:00,2010-05-06,BOFI,Garrabrants Gregory,"Pres, CEO",S - Sale,$15.19,-8500,36481,-19%,"-$129,100",10.0,3.0,-4.0,-14.0,AX
+840,D,2010-05-07 16:48:45,2010-05-05,BOFI,Evans Gary Lewis,COO,M - OptEx,$8.67,65000,42850,-293%,"+$563,750",10.0,3.0,-4.0,-14.0,AX
+841,DM,2010-05-07 16:48:45,2010-05-05,BOFI,Evans Gary Lewis,COO,S - Sale+OE,$15.71,-87100,42850,-67%,"-$1,368,042",10.0,3.0,-4.0,-14.0,AX
+842,,2010-03-08 16:24:17,2010-03-04,BOFI,Grinberg Paul,Dir,S - Sale,$13.70,-4000,13800,-22%,"-$54,800",-6.0,-5.0,10.0,-12.0,AX
+843,D,2010-03-04 15:14:15,2010-03-02,BOFI,Berengolts Michael J,"VP, CTO",M - OptEx,$4.19,4522,4287,-1924%,"+$18,947",1.0,-5.0,7.0,-16.0,AX
+844,D,2010-03-04 15:14:15,2010-03-02,BOFI,Berengolts Michael J,"VP, CTO",S - Sale+OE,$13.52,-4522,4287,-51%,"-$61,137",1.0,-5.0,7.0,-16.0,AX
+845,D,2010-02-25 16:59:18,2010-02-23,BOFI,Berengolts Michael J,"VP, Chief Technology Office",M - OptEx,$4.19,21728,4287,-125%,"+$91,040",-2.0,2.0,5.0,-16.0,AX
+846,DM,2010-02-25 16:59:18,2010-02-23,BOFI,Berengolts Michael J,"VP, Chief Technology Office",S - Sale+OE,$13.50,-21728,4287,-84%,"-$293,328",-2.0,2.0,5.0,-16.0,AX
+847,D,2010-02-12 13:23:10,2010-02-11,BOFI,Evans Gary Lewis,COO,M - OptEx,$8.57,54325,64950,+511%,"+$465,832",-1.0,-3.0,-2.0,7.0,AX
+848,D,2010-02-12 13:23:10,2010-02-11,BOFI,Evans Gary Lewis,COO,S - Sale+OE,$12.65,-41000,64950,-39%,"-$518,650",-1.0,-3.0,-2.0,7.0,AX
+849,D,2009-12-07 16:15:13,2009-12-04,BOFI,Evans Gary Lewis,COO,M - OptEx,$4.19,25000,51625,+94%,"+$104,750",-1.0,1.0,16.0,67.0,AX
+850,D,2009-12-07 16:15:13,2009-12-04,BOFI,Evans Gary Lewis,COO,S - Sale+OE,$8.54,-25000,51625,-33%,"-$213,500",-1.0,1.0,16.0,67.0,AX
+851,M,2009-10-22 20:14:05,2009-10-07,BOFI,Rule Arthur Richards,10%,S - Sale,$8.34,-63000,770000,-8%,"-$525,600",0.0,0.0,15.0,109.0,AX
+852,,2009-10-05 18:38:24,2009-09-30,BOFI,Rule Arthur Richards,10%,S - Sale,$8.50,-40000,833000,-5%,"-$340,000",1.0,0.0,-5.0,80.0,AX
+853,DM,2009-09-11 19:07:17,2009-09-09,BOFI,Evans Gary Lewis,COO,M - OptEx,$4.19,34684,51625,+205%,"+$145,326",-1.0,-2.0,0.0,54.0,AX
+854,DM,2009-09-11 19:07:17,2009-09-09,BOFI,Evans Gary Lewis,COO,S - Sale+OE,$8.55,-34684,51625,-40%,"-$296,401",-1.0,-2.0,0.0,54.0,AX
+855,M,2009-09-10 19:37:20,2009-09-04,BOFI,Rule Arthur Richards,10%,S - Sale,$8.55,-97300,873000,-10%,"-$832,035",-1.0,-2.0,-1.0,52.0,AX
+856,,2009-06-29 15:35:36,2009-06-25,BOFI,Nick Mosich,Dir,A - Grant,$0.00,10000,17500,+133%,+$0,0.0,4.0,1.0,65.0,AX
+857,,2009-04-27 17:21:13,2009-04-23,BOFI,Garrabrants Gregory,CEO,A - Grant,$6.10,44000,130223,+51%,"+$268,400",4.0,1.0,12.0,33.0,AX
+858,,2009-03-31 17:32:41,2009-03-31,BOFI,Allrich Theodore C,Dir,S - Sale,$5.34,-4000,48024,-8%,"-$21,360",2.0,-1.0,20.0,51.0,AX
+859,,2008-12-17 20:11:27,2008-12-16,BOFI,Micheletti Andrew J,"Senior VP, CFO",P - Purchase,$4.45,500,9000,+6%,"+$2,225",-10.0,-5.0,-9.0,38.0,AX
+860,,2008-12-01 17:51:11,2008-11-26,BOFI,Garrabrants Gregory,CEO,P - Purchase,$3.40,12000,86233,+16%,"+$40,800",-9.0,-4.0,2.0,53.0,AX
+861,,2008-11-18 16:13:26,2008-11-17,BOFI,Pancheri Thomas J,Dir,P - Purchase,$4.20,6000,398400,+2%,"+$25,200",-1.0,-19.0,12.0,63.0,AX
+862,,2008-10-27 14:24:33,2008-06-30,BOFI,Garrabrants Gregory,CEO,F - Tax,$7.39,-8777,74223,-11%,"-$64,862",0.0,1.0,-25.0,42.0,AX
+863,A,2008-10-27 13:52:51,2007-11-20,BOFI,Garrabrants Gregory,CEO,A - Grant,$0.00,83000,83000,New,+$0,0.0,1.0,-25.0,42.0,AX
+864,A,2008-09-09 17:23:26,2008-08-21,BOFI,Witter Gordon L,Dir,A - Grant,$6.02,4000,64160,+7%,"+$24,080",0.0,0.0,-18.0,-36.0,AX
+865,A,2008-09-09 17:03:17,2008-08-21,BOFI,Paulus Connie M,Dir,A - Grant,$6.02,3600,107500,+3%,"+$21,672",0.0,0.0,-18.0,-36.0,AX
+866,A,2008-09-09 15:42:09,2008-08-21,BOFI,Pancheri Thomas J,Dir,A - Grant,$6.02,3600,128800,+3%,"+$21,672",3.0,3.0,-15.0,-33.0,AX
+867,A,2008-09-09 15:18:28,2008-08-21,BOFI,Grinberg Paul,Dir,A - Grant,$6.02,4600,17800,+35%,"+$27,692",3.0,3.0,-15.0,-33.0,AX
+868,A,2008-09-09 14:30:51,2008-08-21,BOFI,Allrich Theodore C,Dir,A - Grant,$6.02,4600,52024,+10%,"+$27,692",3.0,3.0,-15.0,-33.0,AX
+869,,2008-08-25 17:31:50,2008-08-21,BOFI,Englert Jerry F,Dir,A - Grant,$6.02,5000,545695,+1%,"+$30,100",0.0,2.0,-2.0,-10.0,AX
+870,,2008-08-25 17:05:41,2008-08-21,BOFI,Pancheri Thomas J,Dir,A - Grant,$6.02,3600,127800,+3%,"+$21,672",0.0,2.0,-2.0,-10.0,AX
+871,,2008-08-25 16:21:23,2008-08-21,BOFI,Allrich Theodore C,Dir,A - Grant,$6.02,4600,49324,+10%,"+$27,692",0.0,2.0,-2.0,-10.0,AX
+872,,2008-08-25 16:11:12,2008-08-21,BOFI,Chipman Michael A,Dir,A - Grant,$6.02,3600,649100,+1%,"+$21,672",0.0,2.0,-2.0,-10.0,AX
+873,,2008-08-25 15:01:32,2008-08-21,BOFI,Grinberg Paul,Dir,P - Purchase,$6.02,4600,17800,+35%,"+$27,692",-2.0,0.0,-4.0,-12.0,AX
+874,,2008-08-25 14:36:35,2008-08-21,BOFI,Witter Gordon L,Dir,P - Purchase,$6.02,4000,64160,+7%,"+$24,080",-2.0,0.0,-4.0,-12.0,AX
+875,,2008-08-25 14:07:46,2008-08-21,BOFI,Paulus Connie M,Dir,P - Purchase,$6.02,3600,107500,+3%,"+$21,672",-2.0,0.0,-4.0,-12.0,AX
+876,M,2008-08-25 13:45:11,2008-08-22,BOFI,Pancheri Thomas J,Dir,P - Purchase,$6.25,6000,248600,+2%,"+$37,500",-2.0,0.0,-4.0,-12.0,AX
+877,,2008-05-23 14:36:33,2008-05-21,BOFI,Englert Jerry F,Dir,P - Purchase,$6.77,160,540695,0%,"+$1,083",-1.0,2.0,10.0,-40.0,AX
+878,,2008-05-23 14:19:51,2008-05-21,BOFI,Englert Jerry F,Dir,P - Purchase,$6.80,2100,540535,0%,"+$14,280",-1.0,2.0,10.0,-40.0,AX
+879,,2008-05-23 13:24:59,2008-05-22,BOFI,Burke John Gary,Dir,P - Purchase,$6.95,964,465849,0%,"+$6,700",-1.0,2.0,10.0,-40.0,AX
+880,,2008-05-23 12:34:27,2008-05-21,BOFI,Burke John Gary,Dir,P - Purchase,$6.81,1036,464885,0%,"+$7,055",-1.0,2.0,10.0,-40.0,AX
+881,,2008-05-22 18:19:54,2008-05-21,BOFI,Allrich Theodore C,Dir,P - Purchase,$6.73,2800,47424,+6%,"+$18,845",-1.0,0.0,8.0,-39.0,AX
+882,,2008-05-22 16:27:00,2008-05-20,BOFI,Allrich Theodore C,Dir,P - Purchase,$6.71,200,44624,0%,"+$1,342",-1.0,0.0,8.0,-39.0,AX
+883,,2008-05-19 12:13:23,2008-05-19,BOFI,Micheletti Andrew J,"Senior VP, C.F.O.",P - Purchase,$6.60,200,8500,+2%,"+$1,319",-2.0,-1.0,14.0,-32.0,AX
+884,,2008-03-31 14:52:12,2008-03-28,BOFI,Grinberg Paul,Dir,P - Purchase,$6.15,4000,13200,+43%,"+$24,600",-1.0,3.0,-2.0,5.0,AX
+885,,2008-03-25 17:10:43,2008-03-20,BOFI,Evans Gary Lewis,COO,D - Sale to issuer,$5.85,-4000,51625,-7%,"-$23,400",0.0,-1.0,-4.0,10.0,AX
+886,,2008-03-25 17:10:43,2008-03-20,BOFI,Evans Gary Lewis,COO,P - Purchase,$5.90,4000,51625,+8%,"+$23,599",0.0,-1.0,-4.0,10.0,AX
+887,,2008-03-20 13:59:58,2008-03-18,BOFI,Evans Gary Lewis,COO,P - Purchase,$5.65,1000,51625,+2%,"+$5,651",0.0,4.0,4.0,9.0,AX
+888,,2008-03-20 13:59:58,2008-03-18,BOFI,Evans Gary Lewis,COO,S - Sale,$5.60,-1000,51625,-2%,"-$5,600",0.0,4.0,4.0,9.0,AX
+889,,2008-03-14 17:06:50,2008-03-13,BOFI,Burke John Gary,Dir,P - Purchase,$5.63,699,463849,0%,"+$3,935",4.0,4.0,8.0,16.0,AX
+890,,2008-03-13 16:11:43,2008-03-11,BOFI,Burke John Gary,Dir,P - Purchase,$5.75,100,463150,0%,+$575,-1.0,3.0,6.0,14.0,AX
+891,AD,2008-01-23 18:16:21,2007-12-17,BOFI,Evans Gary Lewis,"Pres, COO",M - OptEx,$4.19,20000,51625,+63%,"+$83,800",0.0,1.0,-1.0,-2.0,AX
+892,AD,2008-01-23 18:16:21,2007-12-17,BOFI,Evans Gary Lewis,"Pres, COO",S - Sale+OE,$7.25,-20000,51625,-28%,"-$145,000",0.0,1.0,-1.0,-2.0,AX
+893,D,2007-12-19 17:58:57,2007-12-17,BOFI,Evans Gary Lewis,Pres,F - Tax,$0.00,-20000,51625,-28%,-$0,0.0,1.0,0.0,11.0,AX
+894,D,2007-12-19 17:58:57,2007-12-17,BOFI,Evans Gary Lewis,Pres,M - OptEx,$0.00,20000,51625,+63%,+$0,0.0,1.0,0.0,11.0,AX
+895,,2007-11-27 13:53:40,2007-11-20,BOFI,Garrabrants Gregory,CEO,A - Grant,$7.00,83000,83000,New,"+$581,000",0.0,0.0,1.0,1.0,AX
+896,,2007-11-26 19:02:29,2007-11-20,BOFI,Grinberg Paul,Dir,A - Grant,$7.00,4600,9200,+100%,"+$32,200",0.0,2.0,1.0,-3.0,AX
+897,,2007-11-23 12:13:31,2007-11-20,BOFI,Chipman Michael A,Dir,A - Grant,$7.00,3600,645500,+1%,"+$25,200",1.0,0.0,0.0,-2.0,AX
+898,,2007-11-21 17:26:10,2007-11-20,BOFI,Paulus Connie M,Dir,A - Grant,$7.00,3600,103900,+4%,"+$25,200",1.0,1.0,0.0,-1.0,AX
+899,,2007-11-21 17:09:25,2007-11-20,BOFI,Englert Jerry F,Dir,A - Grant,$7.00,5000,538435,+1%,"+$35,000",1.0,1.0,0.0,-1.0,AX
+900,,2007-11-21 17:00:51,2007-11-20,BOFI,Burke John Gary,Dir,A - Grant,$7.00,3600,463050,+1%,"+$25,200",1.0,1.0,0.0,-1.0,AX
+901,,2007-11-21 16:54:41,2007-11-20,BOFI,Allrich Theodore C,Dir,A - Grant,$7.00,4600,44452,+12%,"+$32,200",1.0,1.0,0.0,-1.0,AX
+902,,2007-11-21 16:45:58,2007-11-20,BOFI,Witter Gordon L,Dir,A - Grant,$7.00,3600,60160,+6%,"+$25,200",1.0,1.0,0.0,-1.0,AX
+903,,2007-11-21 16:35:45,2007-11-20,BOFI,Pancheri Thomas J,Dir,A - Grant,$7.00,3600,119200,+3%,"+$25,200",1.0,1.0,0.0,-1.0,AX
+904,,2007-11-16 18:40:17,2007-11-14,BOFI,Evans Gary Lewis,"Pres, COO",G - Gift,$7.03,-6000,51625,-10%,"-$42,180",0.0,1.0,3.0,-3.0,AX
+905,,2007-06-22 14:35:50,2007-06-22,BOFI,Evans Gary Lewis,"Pres, CEO",P - Purchase,$7.32,500,57625,+1%,"+$3,660",-1.0,-1.0,-1.0,-4.0,AX
+906,,2007-06-05 15:49:28,2007-06-01,BOFI,Witter Gordon L,Dir,S - Sale,$7.49,-14000,56560,-20%,"-$104,860",3.0,2.0,-2.0,-3.0,AX
+907,,2007-06-05 15:35:59,2007-06-01,BOFI,Englert Jerry F,Dir,P - Purchase,$7.49,7000,533435,+1%,"+$52,430",3.0,2.0,-2.0,-3.0,AX
+908,,2007-06-05 15:23:36,2007-06-01,BOFI,Chipman Michael A,Dir,P - Purchase,$7.49,7000,641900,+1%,"+$52,430",3.0,2.0,-2.0,-3.0,AX
+909,,2007-05-11 13:21:24,2007-05-11,BOFI,Evans Gary Lewis,"Pres, CEO",P - Purchase,$7.23,500,57125,+1%,"+$3,615",0.0,0.0,4.0,-3.0,AX
+910,,2006-12-14 19:02:00,2006-12-14,BOFI,Evans Gary Lewis,"Pres, CEO",P - Purchase,$6.95,500,56625,+1%,"+$3,475",0.0,0.0,0.0,7.0,AX
+911,,2006-12-14 13:20:12,2006-12-14,BOFI,Micheletti Andrew J,"VP, CFO",P - Purchase,$6.91,400,8300,+5%,"+$2,762",1.0,1.0,0.0,7.0,AX
+912,,2006-12-11 13:24:19,2006-12-08,BOFI,Pancheri Thomas J,Dir,P - Purchase,$6.95,3000,115600,+3%,"+$20,850",0.0,1.0,0.0,9.0,AX
+913,,2006-11-13 11:40:42,2006-11-10,BOFI,Evans Gary Lewis,"Pres, CEO",P - Purchase,$6.64,500,56125,+1%,"+$3,318",5.0,3.0,4.0,8.0,AX
+914,D,2006-08-02 12:05:19,2006-07-24,BOFI,Chipman First Family Limited Partnership,Dir,A - Grant,$0.00,1800,634900,0%,+$0,0.0,-4.0,-2.0,-3.0,AX
+915,AD,2006-08-01 20:02:40,2006-07-24,BOFI,Grinberg Paul,Dir,A - Grant,$0.00,2300,4600,+100%,+$0,0.0,-3.0,-3.0,-3.0,AX
+916,D,2006-07-26 16:48:21,2006-07-24,BOFI,Paulus Connie M,Dir,A - Grant,$0.00,1800,78425,+2%,+$0,-1.0,-1.0,-7.0,-6.0,AX
+917,D,2006-07-26 16:15:39,2006-07-24,BOFI,Englert Jerry F,Dir,A - Grant,$0.00,2500,526435,0%,+$0,-1.0,-1.0,-7.0,-6.0,AX
+918,AD,2006-07-25 19:59:15,2006-07-24,BOFI,Pancheri Thomas J,Dir,A - Grant,$0.00,1800,112600,+2%,+$0,-1.0,-1.0,-7.0,-6.0,AX
+919,D,2006-07-25 19:09:17,2006-07-24,BOFI,Witter Gordon L,Dir,A - Grant,$0.00,1800,70560,+3%,+$0,-1.0,-1.0,-7.0,-6.0,AX
+920,D,2006-07-25 18:59:12,2006-07-24,BOFI,Paulus Connie M,Dir,A - Grant,$0.00,1800,78425,+2%,+$0,-1.0,-1.0,-7.0,-6.0,AX
+921,D,2006-07-25 18:49:15,2006-07-24,BOFI,Pancheri Thomas J,Dir,A - Grant,$0.00,1800,112600,+2%,+$0,-1.0,-1.0,-7.0,-6.0,AX
+922,D,2006-07-25 18:29:37,2006-07-24,BOFI,Burke John Gary,Dir,A - Grant,$0.00,1800,459450,0%,+$0,-1.0,-1.0,-7.0,-6.0,AX
+923,D,2006-07-25 18:18:17,2006-07-24,BOFI,Grinberg Paul,Dir,A - Grant,$0.00,6900,4600,-300%,+$0,-1.0,-1.0,-7.0,-6.0,AX
+924,D,2006-07-25 18:00:37,2006-07-24,BOFI,Allrich Theodore C,Dir,A - Grant,$0.00,2300,39852,+6%,+$0,-1.0,-1.0,-7.0,-6.0,AX
+925,,2006-06-16 14:57:37,2006-06-13,BOFI,Pancheri Thomas J,Dir,P - Purchase,$7.70,6000,110800,+6%,"+$46,200",-2.0,3.0,-6.0,-12.0,AX
+926,,2006-06-16 13:21:30,2006-06-15,BOFI,Englert Jerry F,Dir,P - Purchase,$7.79,1470,523935,0%,"+$11,454",-2.0,3.0,-6.0,-12.0,AX
+927,,2006-06-15 16:45:50,2006-06-15,BOFI,Micheletti Andrew J,"VP, CFO",P - Purchase,$7.80,400,7900,+5%,"+$3,120",0.0,3.0,-5.0,-11.0,AX
+928,,2006-06-13 11:50:25,2006-06-13,BOFI,Evans Gary Lewis,"Pres, CEO",P - Purchase,$7.80,500,55625,+1%,"+$3,900",-1.0,-3.0,-3.0,-12.0,AX
+929,D,2006-01-17 18:31:58,2006-01-05,BOFI,Witter Gordon L,Dir,C - Converted deriv,$10.50,9520,68760,-12%,"$99,960",-1.0,0.0,-8.0,-6.0,AX
+930,D,2006-01-17 18:15:53,2006-01-05,BOFI,Englert Jerry F,Dir,C - Converted deriv,$10.50,90440,522465,-15%,"$949,620",-1.0,0.0,-8.0,-6.0,AX
+931,,2005-12-16 17:09:23,2005-12-16,BOFI,Allrich Theodore C,Vice Chairman,P - Purchase,$7.90,1000,37552,+3%,"+$7,900",1.0,-1.0,-4.0,-5.0,AX
+932,,2005-12-16 16:52:55,2005-12-09,BOFI,Englert Jerry F,Chairman,G - Gift,$0.00,-19000,432026,-4%,-$0,1.0,-1.0,-4.0,-5.0,AX
+933,,2005-12-12 16:44:43,2005-12-12,BOFI,Evans Gary Lewis,"Pres, CEO",P - Purchase,$8.14,625,55125,+1%,"+$5,087",-2.0,-2.0,-4.0,-5.0,AX
+934,,2005-12-12 15:59:00,2005-12-08,BOFI,Englert Jerry F,Chairman,G - Gift,$0.00,-3000,451026,-1%,-$0,3.0,1.0,-1.0,-2.0,AX
+935,,2005-12-02 12:17:53,2005-12-01,BOFI,Allrich Theodore C,Dir,P - Purchase,$8.06,600,36524,+2%,"+$4,836",1.0,-1.0,-3.0,-4.0,AX
+936,,2005-11-21 17:21:48,2005-11-18,BOFI,Allrich Theodore C,Dir,P - Purchase,$8.34,400,35924,+1%,"+$3,335",-1.0,0.0,-5.0,-7.0,AX
+937,,2005-11-18 16:07:47,2005-11-17,BOFI,Englert Jerry F,Dir,P - Purchase,$8.40,2500,454026,+1%,"+$21,000",2.0,2.0,-3.0,-4.0,AX
+938,,2005-11-17 14:19:20,2005-11-16,BOFI,Evans Gary Lewis,"Pres, CEO",P - Purchase,$8.54,500,54500,+1%,"+$4,272",-1.0,-1.0,-5.0,-4.0,AX
+939,A,2005-11-16 19:30:39,2005-11-15,BOFI,Englert Jerry F,Dir,P - Purchase,$8.54,17500,451526,+4%,"+$149,455",-1.0,0.0,-4.0,-3.0,AX
+940,,2005-11-16 12:49:48,2005-11-15,BOFI,Englert Jerry F,Dir,P - Purchase,$8.54,17500,451426,+4%,"+$149,455",-1.0,-2.0,-5.0,-4.0,AX
+941,,2005-11-16 12:36:45,2005-11-15,BOFI,Allrich Theodore C,Dir,P - Purchase,$8.50,1000,35524,+3%,"+$8,500",-1.0,-2.0,-5.0,-4.0,AX
+942,,2005-09-01 13:14:07,2005-08-31,BOFI,Allrich Theodore C,Dir,P - Purchase,$9.55,1000,34524,+3%,"+$9,550",-2.0,1.0,-8.0,-27.0,AX
+943,,2005-08-30 12:43:56,2005-08-29,BOFI,Allrich Theodore C,Dir,P - Purchase,$9.50,1000,33524,+3%,"+$9,500",-1.0,2.0,-10.0,-24.0,AX
+944,,2005-08-29 14:20:19,2005-08-26,BOFI,Evans Gary Lewis,"Pres, CEO",P - Purchase,$9.45,500,54000,+1%,"+$4,725",1.0,1.0,-8.0,-23.0,AX
+945,,2005-08-24 16:08:07,2005-08-23,BOFI,Englert Jerry F,Dir,P - Purchase,$9.00,1525,2168405,0%,"+$13,725",3.0,5.0,1.0,-18.0,AX
+946,AD,2005-07-28 15:47:57,2005-07-25,BOFI,Allrich Theodore C,Dir,A - Grant,$0.00,2300,32524,+8%,+$0,0.0,-5.0,-1.0,-17.0,AX
+947,D,2005-07-27 21:17:57,2005-07-25,BOFI,Grinberg Paul,Dir,A - Grant,$0.00,2300,2300,New,+$0,0.0,-5.0,-3.0,-15.0,AX
+948,D,2005-07-27 21:05:59,2005-07-25,BOFI,Pancheri Thomas J,Dir,A - Grant,$0.00,1800,104800,+2%,+$0,0.0,-5.0,-3.0,-15.0,AX
+949,D,2005-07-27 20:53:09,2005-07-25,BOFI,Allrich Theodore C,Dir,A - Grant,$0.00,2300,35524,+7%,+$0,0.0,-5.0,-3.0,-15.0,AX
+950,D,2005-07-27 20:43:53,2005-07-25,BOFI,Paulus Connie M,Dir,A - Grant,$0.00,1800,76625,+2%,+$0,0.0,-5.0,-3.0,-15.0,AX
+951,D,2005-07-27 20:32:06,2005-07-25,BOFI,Micheletti Andrew J,"VP, CFO",A - Grant,$0.00,5000,7500,+200%,+$0,0.0,-5.0,-3.0,-15.0,AX
+952,D,2005-07-27 20:21:34,2005-07-25,BOFI,Witter Gordon L,Dir,A - Grant,$0.00,1800,59240,+3%,+$0,0.0,-5.0,-3.0,-15.0,AX
+953,D,2005-07-27 19:59:30,2005-07-25,BOFI,Eprile Robert A,Dir,A - Grant,$0.00,1800,375800,0%,+$0,0.0,-5.0,-3.0,-15.0,AX
+954,D,2005-07-27 18:54:28,2005-07-25,BOFI,Englert Jerry F,Dir,A - Grant,$0.00,2500,432501,+1%,+$0,0.0,-5.0,-3.0,-15.0,AX
+955,D,2005-04-27 15:18:01,2005-03-15,BOFI,Chipman First Family Limited Partnership,10%,P - Purchase,$11.50,80000,613100,+15%,"+$920,000",9.0,3.0,2.0,-11.0,AX
+956,M,2005-03-30 18:16:20,2005-03-15,BOFI,Witter Gordon L,Dir,P - Purchase,$11.50,8690,57440,+18%,"+$99,935",-2.0,-3.0,-13.0,-24.0,AX

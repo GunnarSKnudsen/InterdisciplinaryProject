@@ -1,54 +1,845 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-03-22 16:53:42,2022-03-21,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",S - Sale,$16.14,-600,182472,0%,"-$9,682",,,,,DDD
-1,,2022-03-22 16:51:48,2022-03-21,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$16.13,-5863,262054,-2%,"-$94,570",,,,,DDD
-2,,2022-03-22 16:50:13,2022-03-18,DDD,Clinton Malissia,Dir,S - Sale,$16.08,-4375,44367,-9%,"-$70,343",,,,,DDD
-3,,2022-03-10 16:37:11,2022-03-10,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$14.84,-5000,165782,-3%,"-$74,205",,,,,DDD
-4,,2022-03-09 16:20:01,2022-03-09,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$15.16,-11878,227107,-5%,"-$180,065",,,,,DDD
-5,M,2022-03-09 16:18:35,2022-03-08,DDD,Hull Charles W,"EVP, CTO (Regenerative Med)",S - Sale,$14.78,-29615,507809,-6%,"-$437,650",,,,,DDD
-6,,2022-03-09 16:17:36,2022-03-09,DDD,Graves Jeffrey A,"Pres, CEO",S - Sale,$14.76,-40837,452144,-8%,"-$602,738",,,,,DDD
-7,,2022-03-09 16:15:58,2022-03-08,DDD,Drayton Claudia,Dir,S - Sale,$15.00,-3376,3376,-50%,"-$50,640",,,,,DDD
-8,,2022-03-01 16:14:27,2022-03-01,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$20.00,-4000,159015,-2%,"-$80,000",,,,,DDD
-9,,2022-02-23 16:20:42,2022-02-22,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",S - Sale,$16.98,-600,129211,0%,"-$10,185",,,,,DDD
-10,,2022-02-22 16:17:48,2022-02-22,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$16.95,-5863,227107,-3%,"-$99,378",,,,,DDD
-11,,2022-02-01 16:37:13,2022-02-01,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$18.50,-4000,171357,-2%,"-$74,000",,,,,DDD
-12,,2022-01-24 16:17:23,2022-01-21,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",S - Sale,$17.77,-600,129811,0%,"-$10,661",,,,,DDD
-13,,2022-01-21 16:16:54,2022-01-21,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$17.99,-5863,232970,-2%,"-$105,475",,,,,DDD
-14,,2021-12-27 16:16:15,2021-12-27,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$21.81,-4000,186117,-2%,"-$87,240",,,,,DDD
-15,,2021-12-21 16:16:00,2021-12-21,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$21.50,-5863,245522,-2%,"-$126,055",,,,,DDD
-16,,2021-11-29 16:15:15,2021-11-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$22.57,-4000,191988,-2%,"-$90,280",,,,,DDD
-17,,2021-11-23 16:16:50,2021-11-22,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$24.40,-5863,251385,-2%,"-$143,057",,,,,DDD
-18,,2021-10-26 16:22:43,2021-10-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$28.71,-4000,195988,-2%,"-$114,840",,,,,DDD
-19,,2021-09-27 16:13:07,2021-09-27,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$29.10,-4000,199988,-2%,"-$116,400",,,,,DDD
-20,,2021-08-26 16:12:09,2021-08-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$29.41,-4000,203988,-2%,"-$117,640",,,,,DDD
-21,,2021-08-17 17:07:07,2021-08-16,DDD,Graves Jeffrey A,"Pres, CEO",P - Purchase,$29.37,4260,523618,+1%,"+$125,116",,,,,DDD
-22,,2021-07-26 16:12:48,2021-07-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$25.80,-4000,207988,-2%,"-$103,200",,,,,DDD
-23,,2021-06-25 16:08:31,2021-06-25,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$38.20,-4000,211988,-2%,"-$152,800",,,,,DDD
-24,,2021-05-28 16:23:30,2021-05-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$27.29,-4000,215988,-2%,"-$109,160",,,,,DDD
-25,,2021-05-20 17:32:39,2021-05-19,DDD,Graves Jeffrey A,"Pres, CEO",P - Purchase,$24.71,4100,547335,+1%,"+$101,311",,,,,DDD
-26,,2021-05-18 17:23:30,2021-05-17,DDD,Ellis Menno,"EVP, Healthcare Solutions",S - Sale,$22.49,-10573,123313,-8%,"-$237,787",,,,,DDD
-27,,2021-05-18 17:18:50,2021-05-14,DDD,Blank Jeff,"EVP, Engineering, Prod Dev",S - Sale,$21.90,-10000,52214,-16%,"-$219,000",,,,,DDD
-28,,2021-02-23 16:11:34,2021-02-23,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$35.00,-4000,221640,-2%,"-$140,000",,,,,DDD
-29,,2021-01-22 16:10:09,2021-01-22,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$30.10,-4000,233723,-2%,"-$120,400",,,,,DDD
-30,,2020-12-23 16:13:11,2020-12-23,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$11.94,-4000,193501,-2%,"-$47,760",,,,,DDD
-31,,2020-12-10 16:29:42,2020-12-04,DDD,Ellis Menno,"EVP, Healthcare Solutions",S - Sale,$10.44,-10479,104136,-9%,"-$109,401",,,,,DDD
-32,,2020-11-25 16:09:25,2020-11-24,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$8.00,-4000,199951,-2%,"-$32,000",,,,,DDD
-33,M,2020-10-26 17:38:30,2020-10-22,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$8.07,-20000,203951,-9%,"-$161,440",,,,,DDD
-34,,2020-09-08 16:41:55,2020-09-04,DDD,Graves Jeffrey A,"Pres, CEO",P - Purchase,$5.39,17000,459176,+4%,"+$91,598",,,,,DDD
-35,,2020-08-19 17:36:17,2020-08-17,DDD,Kever Jim D,Dir,P - Purchase,$5.80,10000,457114,+2%,"+$58,000",,,,,DDD
-36,,2020-05-28 17:27:45,2020-05-28,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$8.00,-4000,226691,-2%,"-$32,000",,,,,DDD
-37,,2020-04-27 17:39:48,2020-04-24,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$8.00,-4000,230691,-2%,"-$32,000",,,,,DDD
-38,,2020-03-31 16:10:56,2020-03-30,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$8.00,-4000,234691,-2%,"-$32,000",,,,,DDD
-39,,2020-03-12 16:44:00,2020-03-03,DDD,Krishnan Radhika,"EVP, Software, Healthcare",S - Sale,$9.41,-6542,99019,-6%,"-$61,557",,,,,DDD
-40,,2020-03-04 18:06:16,2020-03-04,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$9.58,-3234,238691,-1%,"-$30,967",,,,,DDD
-41,,2020-03-04 17:53:58,2020-03-04,DDD,Stern Sadie,"EVP, People, Culture",S - Sale,$9.58,-3178,97052,-3%,"-$30,445",,,,,DDD
-42,,2020-03-04 17:52:54,2020-03-04,DDD,Schultz Philip C.,"EVP, Operations",S - Sale,$9.58,-3730,156300,-2%,"-$35,733",,,,,DDD
-43,,2020-03-04 17:51:50,2020-03-04,DDD,Krishnan Radhika,"EVP, Software, Healthcare",S - Sale,$9.57,-3630,105561,-3%,"-$34,757",,,,,DDD
-44,,2019-11-07 16:07:56,2019-11-06,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$9.62,-20068,196180,-9%,"-$193,054",,,,,DDD
-45,,2019-11-07 16:05:40,2019-11-05,DDD,Hull Charles W,"EVP, CTO",S - Sale,$9.73,-41940,469192,-8%,"-$408,076",,,,,DDD
-46,A,2019-07-30 16:14:25,2019-05-13,DDD,Joshi Vyomesh,"Pres, CEO",P - Purchase,$8.22,29920,364668,+9%,"+$245,942",,,,,DDD
-47,,2019-05-14 16:15:17,2019-05-13,DDD,Joshi Vyomesh,"Pres, CEO",P - Purchase,$8.22,29920,381958,+8%,"+$245,942",,,,,DDD
-48,,2018-10-24 16:08:45,2018-10-24,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$17.80,-4200,208825,-2%,"-$74,760",,,,,DDD
-49,,2018-10-05 16:54:27,2018-10-04,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$17.95,-4200,213025,-2%,"-$75,390",,,,,DDD
-50,,2018-08-24 16:34:09,2018-08-22,DDD,McAlea Kevin,"EVP-COO, Healthcare",S - Sale,$21.21,-20000,250257,-7%,"-$424,200",,,,,DDD
-51,,2018-08-17 16:39:14,2018-08-17,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$19.01,-5000,217225,-2%,"-$95,050",,,,,DDD
-52,,2018-05-30 16:16:58,2018-05-29,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$12.06,4500,1920607,0%,"+$54,270",,,,,DDD
+0,,2022-03-10 16:37:11,2022-03-10,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$14.84,-5000,165782,-3%,"-$74,205",,,,,DDD
+1,,2022-03-09 16:20:01,2022-03-09,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$15.16,-11878,227107,-5%,"-$180,065",,,,,DDD
+2,M,2022-03-09 16:18:35,2022-03-08,DDD,Hull Charles W,"EVP, CTO (Regenerative Med)",S - Sale,$14.78,-29615,507809,-6%,"-$437,650",,,,,DDD
+3,,2022-03-09 16:17:36,2022-03-09,DDD,Graves Jeffrey A,"Pres, CEO",S - Sale,$14.76,-40837,452144,-8%,"-$602,738",,,,,DDD
+4,,2022-03-09 16:15:58,2022-03-08,DDD,Drayton Claudia,Dir,S - Sale,$15.00,-3376,3376,-50%,"-$50,640",,,,,DDD
+5,,2022-03-07 17:49:34,2022-03-03,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",A - Grant,$0.00,23453,142262,+20%,+$0,,,,,DDD
+6,,2022-03-07 17:49:34,2022-03-03,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",F - Tax,$15.81,-10402,142262,-7%,"-$164,456",,,,,DDD
+7,,2022-03-07 17:48:06,2022-03-03,DDD,Nordstrom Phyllis B,"EVP, CHRO",A - Grant,$0.00,4476,22506,+25%,+$0,,,,,DDD
+8,,2022-03-07 17:48:06,2022-03-03,DDD,Nordstrom Phyllis B,"EVP, CHRO",F - Tax,$15.81,-2440,22506,-10%,"-$38,576",,,,,DDD
+9,,2022-03-07 17:46:51,2022-03-03,DDD,Narula Jagtar,"EVP, CFO",A - Grant,$0.00,23453,238985,+11%,+$0,,,,,DDD
+10,,2022-03-07 17:46:51,2022-03-03,DDD,Narula Jagtar,"EVP, CFO",F - Tax,$15.81,-11575,238985,-5%,"-$183,001",,,,,DDD
+11,,2022-03-07 17:45:52,2022-03-03,DDD,Leigh David K,"EVP, CTO (Additive Mfg)",A - Grant,$0.00,10878,28951,+60%,+$0,,,,,DDD
+12,,2022-03-07 17:45:52,2022-03-03,DDD,Leigh David K,"EVP, CTO (Additive Mfg)",F - Tax,$15.81,-2978,28951,-9%,"-$47,082",,,,,DDD
+13,,2022-03-07 17:44:12,2022-03-03,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,21933,170782,+15%,+$0,,,,,DDD
+14,,2022-03-07 17:44:12,2022-03-03,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$15.81,-10166,170782,-6%,"-$160,724",,,,,DDD
+15,,2022-03-07 17:42:52,2022-03-03,DDD,Hull Charles W,"EVP, CTO (Regenerative Med)",A - Grant,$0.00,23516,537424,+5%,+$0,,,,,DDD
+16,,2022-03-07 17:42:52,2022-03-03,DDD,Hull Charles W,"EVP, CTO (Regenerative Med)",F - Tax,$15.81,-10290,537424,-2%,"-$162,685",,,,,DDD
+17,,2022-03-07 17:41:34,2022-03-03,DDD,Graves Jeffrey A,"Pres, CEO",A - Grant,$0.00,80626,492981,+20%,+$0,,,,,DDD
+18,,2022-03-07 17:41:34,2022-03-03,DDD,Graves Jeffrey A,"Pres, CEO",F - Tax,$15.81,-39789,492981,-7%,"-$629,064",,,,,DDD
+19,,2022-03-07 17:40:12,2022-03-03,DDD,Ellis Menno,"EVP, Healthcare Solutions",A - Grant,$0.00,23453,123114,+24%,+$0,,,,,DDD
+20,,2022-03-07 17:40:12,2022-03-03,DDD,Ellis Menno,"EVP, Healthcare Solutions",F - Tax,$15.81,-9229,123114,-7%,"-$145,910",,,,,DDD
+21,,2022-03-07 17:39:05,2022-03-03,DDD,Crimmins Michael S,"SVP, Chief Accounting Officer",A - Grant,$0.00,8042,14294,+129%,+$0,,,,,DDD
+22,,2022-03-07 17:39:05,2022-03-03,DDD,Crimmins Michael S,"SVP, Chief Accounting Officer",F - Tax,$15.81,-2862,14294,-17%,"-$45,248",,,,,DDD
+23,,2022-03-01 16:14:27,2022-03-01,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$20.00,-4000,159015,-2%,"-$80,000",,,,,DDD
+24,,2022-02-23 16:20:42,2022-02-22,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",S - Sale,$16.98,-600,129211,0%,"-$10,185",,,,,DDD
+25,,2022-02-22 16:17:48,2022-02-22,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$16.95,-5863,227107,-3%,"-$99,378",,,,,DDD
+26,,2022-02-17 17:05:31,2022-02-15,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$19.38,-8342,163015,-5%,"-$161,668",,,,,DDD
+27,,2022-02-17 17:04:04,2022-02-15,DDD,Hull Charles W,"EVP, CTO (Regenerative Med)",F - Tax,$19.38,-5655,524198,-1%,"-$109,594",,,,,DDD
+28,,2022-02-17 17:01:41,2022-02-15,DDD,Ellis Menno,"EVP, Healthcare Solutions",F - Tax,$19.38,-6005,108890,-5%,"-$116,377",,,,,DDD
+29,,2022-02-01 16:37:13,2022-02-01,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$18.50,-4000,171357,-2%,"-$74,000",,,,,DDD
+30,,2022-01-24 16:17:23,2022-01-21,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",S - Sale,$17.77,-600,129811,0%,"-$10,661",,,,,DDD
+31,,2022-01-21 16:16:54,2022-01-21,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$17.99,-5863,232970,-2%,"-$105,475",,,,,DDD
+32,,2022-01-14 16:18:59,2022-01-12,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",F - Tax,$20.18,-6048,130411,-4%,"-$122,049",,,,,DDD
+33,,2022-01-14 16:18:07,2022-01-12,DDD,Narula Jagtar,"EVP, CFO",F - Tax,$20.18,-6689,238833,-3%,"-$134,984",,,,,DDD
+34,,2022-01-14 16:17:45,2022-01-12,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$20.18,-10760,175357,-6%,"-$217,137",,,,,DDD
+35,,2022-01-14 16:16:58,2022-01-12,DDD,Hull Charles W,"EVP, CTO (Regenerative Med)",F - Tax,$20.18,-8418,529853,-2%,"-$169,875",,,,,DDD
+36,,2022-01-14 16:16:13,2022-01-12,DDD,Graves Jeffrey A,"Pres, CEO",F - Tax,$20.18,-17759,452144,-4%,"-$358,377",,,,,DDD
+37,,2022-01-14 16:15:34,2022-01-12,DDD,Ellis Menno,"EVP, Healthcare Solutions",F - Tax,$20.18,-5407,114895,-4%,"-$109,113",,,,,DDD
+38,,2022-01-04 16:16:15,2021-12-31,DDD,Graves Jeffrey A,"Pres, CEO",F - Tax,$21.54,-53715,469903,-10%,"-$1,157,021",,,,,DDD
+39,,2021-12-27 16:16:15,2021-12-27,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$21.81,-4000,186117,-2%,"-$87,240",,,,,DDD
+40,,2021-12-21 16:16:00,2021-12-21,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$21.50,-5863,245522,-2%,"-$126,055",,,,,DDD
+41,,2021-12-15 17:05:17,2021-12-13,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$21.33,-1871,190117,-1%,"-$39,908",,,,,DDD
+42,,2021-12-15 17:03:38,2021-12-13,DDD,Ellis Menno,"EVP, Healthcare Solutions",F - Tax,$21.33,-1639,120302,-1%,"-$34,960",,,,,DDD
+43,,2021-12-15 16:57:31,2021-12-13,DDD,Hull Charles W,"EVP, CTO (Regenerative Med)",F - Tax,$21.33,-1651,538271,0%,"-$35,216",,,,,DDD
+44,,2021-12-02 16:31:54,2021-12-01,DDD,Drayton Claudia,Dir,A - Grant,$0.00,6752,6752,New,+$0,,,,,DDD
+45,,2021-11-29 16:15:15,2021-11-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$22.57,-4000,191988,-2%,"-$90,280",,,,,DDD
+46,,2021-11-23 16:16:50,2021-11-22,DDD,Narula Jagtar,"EVP, CFO",S - Sale,$24.40,-5863,251385,-2%,"-$143,057",,,,,DDD
+47,,2021-10-26 16:22:43,2021-10-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$28.71,-4000,195988,-2%,"-$114,840",,,,,DDD
+48,,2021-10-04 16:17:19,2021-10-01,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",F - Tax,$27.67,-14634,136459,-10%,"-$404,923",,,,,DDD
+49,,2021-09-27 16:13:07,2021-09-27,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$29.10,-4000,199988,-2%,"-$116,400",,,,,DDD
+50,,2021-09-15 17:02:39,2021-09-14,DDD,Narula Jagtar,"EVP, CFO",F - Tax,$29.88,-71407,257248,-22%,"-$2,133,641",,,,,DDD
+51,,2021-08-31 16:16:09,2021-08-30,DDD,Nordstrom Phyllis B,"EVP, CHRO",A - Grant,$0.00,20470,20470,New,+$0,,,,,DDD
+52,,2021-08-26 16:12:09,2021-08-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$29.41,-4000,203988,-2%,"-$117,640",,,,,DDD
+53,,2021-08-17 17:07:07,2021-08-16,DDD,Graves Jeffrey A,"Pres, CEO",P - Purchase,$29.37,4260,523618,+1%,"+$125,116",,,,,DDD
+54,,2021-07-26 16:12:48,2021-07-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$25.80,-4000,207988,-2%,"-$103,200",,,,,DDD
+55,,2021-07-20 16:16:29,2021-07-17,DDD,Ellis Menno,"EVP, Healthcare Solutions",F - Tax,$25.90,-1372,121941,-1%,"-$35,535",,,,,DDD
+56,,2021-06-30 16:26:55,2021-06-28,DDD,Leigh David K,"EVP, CTO (Additive Mfg)",A - Grant,$0.00,20421,21051,>999%,+$0,,,,,DDD
+57,,2021-06-25 16:08:31,2021-06-25,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$38.20,-4000,211988,-2%,"-$152,800",,,,,DDD
+58,,2021-06-15 16:20:31,2021-06-13,DDD,Blank Jeff,"EVP, Engineering, Prod Dev",F - Tax,$29.35,-985,51229,-2%,"-$28,910",,,,,DDD
+59,,2021-05-28 16:23:30,2021-05-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$27.29,-4000,215988,-2%,"-$109,160",,,,,DDD
+60,,2021-05-28 16:21:00,2021-05-26,DDD,Graves Jeffrey A,"Pres, CEO",F - Tax,$29.37,-27977,519358,-5%,"-$821,684",,,,,DDD
+61,M,2021-05-28 16:18:51,2021-02-15,DDD,Grabenau Anthony,Former PAO,A - Grant,$0.00,8033,17533,+85%,+$0,,,,,DDD
+62,,2021-05-24 16:41:02,2021-05-24,DDD,Crimmins Michael S,"SVP, Chief Accounting Officer",A - Grant,$0.00,9114,9114,New,+$0,,,,,DDD
+63,,2021-05-20 17:32:39,2021-05-19,DDD,Graves Jeffrey A,"Pres, CEO",P - Purchase,$24.71,4100,547335,+1%,"+$101,311",,,,,DDD
+64,,2021-05-19 17:56:57,2021-05-18,DDD,Moore Kevin S,Dir,A - Grant,$0.00,6007,146434,+4%,+$0,,,,,DDD
+65,,2021-05-19 17:54:58,2021-05-18,DDD,Kever Jim D,Dir,A - Grant,$0.00,6007,379657,+2%,+$0,,,,,DDD
+66,,2021-05-19 17:52:20,2021-05-18,DDD,Humes William David,Dir,A - Grant,$0.00,6007,68573,+10%,+$0,,,,,DDD
+67,,2021-05-19 17:47:53,2021-05-18,DDD,Wadsworth Jeffrey,Dir,A - Grant,$0.00,6007,56855,+12%,+$0,,,,,DDD
+68,,2021-05-19 17:45:43,2021-05-18,DDD,Tracy John J,Dir,A - Grant,$0.00,6007,55449,+12%,+$0,,,,,DDD
+69,,2021-05-19 17:40:55,2021-05-18,DDD,Padmanabhan Vasant,Dir,A - Grant,$0.00,6007,21922,+38%,+$0,,,,,DDD
+70,,2021-05-19 17:39:01,2021-05-18,DDD,McClure Charles G,Dir,A - Grant,$0.00,6007,56855,+12%,+$0,,,,,DDD
+71,,2021-05-19 17:37:02,2021-05-18,DDD,Erickson Thomas W,Dir,A - Grant,$0.00,6007,124185,+5%,+$0,,,,,DDD
+72,,2021-05-19 17:31:58,2021-05-18,DDD,Curran William Edward,Dir,A - Grant,$0.00,6007,109394,+6%,+$0,,,,,DDD
+73,,2021-05-19 17:29:41,2021-05-18,DDD,Clinton Malissia,Dir,A - Grant,$0.00,6007,48742,+14%,+$0,,,,,DDD
+74,,2021-05-18 17:23:30,2021-05-17,DDD,Ellis Menno,"EVP, Healthcare Solutions",S - Sale,$22.49,-10573,123313,-8%,"-$237,787",,,,,DDD
+75,,2021-05-18 17:18:50,2021-05-17,DDD,Blank Jeff,"EVP, Engineering, Prod Dev",F - Tax,$22.71,-1618,52214,-3%,"-$36,745",,,,,DDD
+76,,2021-05-18 17:18:50,2021-05-14,DDD,Blank Jeff,"EVP, Engineering, Prod Dev",S - Sale,$21.90,-10000,52214,-16%,"-$219,000",,,,,DDD
+77,,2021-03-02 17:14:51,2021-03-01,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$38.79,-1652,219988,-1%,"-$64,081",,,,,DDD
+78,,2021-03-02 17:13:13,2021-03-01,DDD,Hull Charles W,"EVP, CTO",F - Tax,$38.79,-1085,539922,0%,"-$42,087",,,,,DDD
+79,,2021-03-02 17:12:03,2021-03-01,DDD,Ellis Menno,"EVP, Healthcare Solutions",F - Tax,$38.79,-879,133886,-1%,"-$34,096",,,,,DDD
+80,,2021-02-23 16:11:34,2021-02-23,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$35.00,-4000,221640,-2%,"-$140,000",,,,,DDD
+81,,2021-02-17 18:03:07,2021-02-16,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$47.85,-8083,225640,-3%,"-$386,772",,,,,DDD
+82,,2021-02-17 18:02:14,2021-02-16,DDD,Hull Charles W,"EVP, CTO",F - Tax,$47.85,-5132,541007,-1%,"-$245,566",,,,,DDD
+83,,2021-02-17 18:01:19,2021-02-16,DDD,Ellis Menno,"EVP, Healthcare Solutions",F - Tax,$47.85,-5797,134765,-4%,"-$277,386",,,,,DDD
+84,,2021-02-17 18:00:31,2021-02-16,DDD,Blank Jeff,"EVP, Engineering, Prod Dev",F - Tax,$47.85,-826,63832,-1%,"-$39,524",,,,,DDD
+85,A,2021-02-05 17:59:56,2021-02-01,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",A - Grant,$0.00,1292,151093,+1%,+$0,,,,,DDD
+86,A,2021-02-05 17:59:56,2021-02-01,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",F - Tax,$38.91,-595,151093,0%,"-$23,151",,,,,DDD
+87,A,2021-02-05 17:59:08,2021-02-01,DDD,Narula Jagtar,"EVP, CFO",A - Grant,$0.00,1530,328655,0%,+$0,,,,,DDD
+88,A,2021-02-05 17:59:08,2021-02-01,DDD,Narula Jagtar,"EVP, CFO",F - Tax,$38.91,-718,328655,0%,"-$27,937",,,,,DDD
+89,A,2021-02-05 17:58:16,2021-02-01,DDD,Graves Jeffrey A,"Pres, CEO",A - Grant,$0.00,10389,543235,+2%,+$0,,,,,DDD
+90,A,2021-02-05 17:58:16,2021-02-01,DDD,Graves Jeffrey A,"Pres, CEO",F - Tax,$38.91,-5222,543235,-1%,"-$203,188",,,,,DDD
+91,,2021-02-03 19:20:22,2021-02-01,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",A - Grant,$0.00,1292,151688,+1%,+$0,,,,,DDD
+92,,2021-02-03 19:17:26,2021-02-01,DDD,Narula Jagtar,"EVP, CFO",A - Grant,$0.00,1530,329373,0%,+$0,,,,,DDD
+93,,2021-02-03 19:03:48,2021-02-01,DDD,Graves Jeffrey A,"Pres, CEO",A - Grant,$0.00,10389,548457,+2%,+$0,,,,,DDD
+94,,2021-01-22 16:10:09,2021-01-22,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$30.10,-4000,233723,-2%,"-$120,400",,,,,DDD
+95,,2021-01-14 19:38:37,2021-01-12,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,15381,546139,+3%,+$0,,,,,DDD
+96,,2021-01-14 19:36:24,2021-01-12,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,11536,237723,+5%,+$0,,,,,DDD
+97,,2021-01-14 16:55:59,2021-01-12,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",A - Grant,$0.00,38454,150396,+34%,+$0,,,,,DDD
+98,,2021-01-14 16:54:29,2021-01-12,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,32686,226187,+17%,+$0,,,,,DDD
+99,,2021-01-14 16:53:19,2021-01-12,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,23072,530758,+5%,+$0,,,,,DDD
+100,,2021-01-14 16:52:10,2021-01-12,DDD,Graves Jeffrey A,"Pres, CEO",A - Grant,$0.00,105748,538068,+24%,+$0,,,,,DDD
+101,,2021-01-14 16:50:36,2021-01-12,DDD,Ellis Menno,"EVP, Healthcare Solutions",A - Grant,$0.00,38454,140562,+38%,+$0,,,,,DDD
+102,A,2021-01-14 16:49:17,2020-09-14,DDD,Narula Jagtar,"EVP, CFO",D - Sale to issuer,$0.00,-289389,289389,-50%,-$0,,,,,DDD
+103,,2021-01-14 16:45:22,2021-01-12,DDD,Blank Jeff,"EVP, Engineering, Prod Dev",A - Grant,$0.00,15381,64658,+31%,+$0,,,,,DDD
+104,,2021-01-14 16:43:47,2021-01-12,DDD,Narula Jagtar,"EVP, CFO",A - Grant,$0.00,38454,327843,+13%,+$0,,,,,DDD
+105,,2021-01-04 16:16:22,2020-12-31,DDD,Graves Jeffrey A,"Pres, CEO",F - Tax,$10.48,-26856,432320,-6%,"-$281,451",,,,,DDD
+106,,2021-01-04 16:14:56,2020-12-30,DDD,Clinton Malissia,Dir,A - Grant,$0.00,3647,42735,+9%,+$0,,,,,DDD
+107,,2020-12-23 16:13:11,2020-12-23,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$11.94,-4000,193501,-2%,"-$47,760",,,,,DDD
+108,,2020-12-15 16:16:43,2020-12-14,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$10.36,-2450,197501,-1%,"-$25,382",,,,,DDD
+109,,2020-12-15 16:15:21,2020-12-14,DDD,Hull Charles W,"EVP, CTO",F - Tax,$10.36,-3141,507686,-1%,"-$32,541",,,,,DDD
+110,,2020-12-15 16:14:00,2020-12-14,DDD,Ellis Menno,"EVP, Healthcare Solutions",F - Tax,$10.36,-2028,102108,-2%,"-$21,010",,,,,DDD
+111,,2020-12-10 16:29:42,2020-12-04,DDD,Ellis Menno,"EVP, Healthcare Solutions",S - Sale,$10.44,-10479,104136,-9%,"-$109,401",,,,,DDD
+112,,2020-12-02 16:18:56,2020-12-01,DDD,Padmanabhan Vasant,Dir,A - Grant,$0.00,15915,15915,New,+$0,,,,,DDD
+113,,2020-11-25 16:09:25,2020-11-24,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$8.00,-4000,199951,-2%,"-$32,000",,,,,DDD
+114,,2020-11-20 17:22:05,2020-11-15,DDD,Grabenau Anthony,Principal Accounting Officer,A - Grant,$0.00,9500,9500,New,+$0,,,,,DDD
+115,M,2020-10-26 17:38:30,2020-10-22,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$8.07,-20000,203951,-9%,"-$161,440",,,,,DDD
+116,,2020-10-06 19:00:24,2020-10-05,DDD,Puthenveetil Reji,"EVP, Industrial Solutions",A - Grant,$0.00,111942,111942,New,+$0,,,,,DDD
+117,,2020-09-22 19:29:15,2020-09-21,DDD,Wadsworth Jeffrey,Dir,A - Grant,$0.00,15209,50848,+43%,+$0,,,,,DDD
+118,,2020-09-22 19:26:59,2020-09-21,DDD,Tracy John J,Dir,A - Grant,$0.00,15209,49442,+44%,+$0,,,,,DDD
+119,,2020-09-22 19:23:32,2020-09-21,DDD,Moore Kevin S,Dir,A - Grant,$0.00,15209,140427,+12%,+$0,,,,,DDD
+120,,2020-09-22 19:21:45,2020-09-21,DDD,McClure Charles G,Dir,A - Grant,$0.00,15209,50848,+43%,+$0,,,,,DDD
+121,,2020-09-22 19:19:40,2020-09-21,DDD,Kever Jim D,Dir,A - Grant,$0.00,15209,472323,+3%,+$0,,,,,DDD
+122,,2020-09-22 19:17:56,2020-09-21,DDD,Humes William David,Dir,A - Grant,$0.00,15209,62566,+32%,+$0,,,,,DDD
+123,,2020-09-22 19:12:26,2020-09-21,DDD,Erickson Thomas W,Dir,A - Grant,$0.00,15209,118178,+15%,+$0,,,,,DDD
+124,,2020-09-22 19:10:42,2020-09-21,DDD,Curran William Edward,Dir,A - Grant,$0.00,15209,103387,+17%,+$0,,,,,DDD
+125,,2020-09-22 19:08:46,2020-09-21,DDD,Clinton Malissia,Dir,A - Grant,$0.00,15209,39088,+64%,+$0,,,,,DDD
+126,,2020-09-15 16:44:25,2020-09-14,DDD,Narula Jagtar,"EVP, CFO",A - Grant,$0.00,332901,332901,New,+$0,,,,,DDD
+127,,2020-09-14 17:54:40,2020-08-31,DDD,Pensky Wayne C,Interim CFO,A - Grant,$0.00,16329,16329,New,+$0,,,,,DDD
+128,,2020-09-08 16:41:55,2020-09-04,DDD,Graves Jeffrey A,"Pres, CEO",P - Purchase,$5.39,17000,459176,+4%,"+$91,598",,,,,DDD
+129,,2020-08-19 17:36:17,2020-08-17,DDD,Kever Jim D,Dir,P - Purchase,$5.80,10000,457114,+2%,"+$58,000",,,,,DDD
+130,,2020-08-18 18:48:59,2020-08-17,DDD,Stern Sadie,"EVP, People, Culture",F - Tax,$5.81,-1972,94378,-2%,"-$11,457",,,,,DDD
+131,,2020-08-18 18:47:21,2020-08-17,DDD,Ellis Menno,"EVP, Healthcare Solutions",F - Tax,$5.81,-1388,114615,-1%,"-$8,064",,,,,DDD
+132,,2020-08-18 18:45:53,2020-08-17,DDD,Hull Charles W,"EVP, CTO",F - Tax,$5.81,-2629,510827,-1%,"-$15,274",,,,,DDD
+133,,2020-08-18 18:43:38,2020-08-17,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$5.81,-2740,223951,-1%,"-$15,919",,,,,DDD
+134,,2020-07-21 17:01:17,2020-07-17,DDD,Ellis Menno,"EVP, Healthcare Solutions",A - Grant,$0.00,10932,116003,+10%,+$0,,,,,DDD
+135,,2020-06-22 21:13:26,2020-06-15,DDD,Krishnan Radhika,"EVP, Software, Healthcare",F - Tax,$7.58,-1403,97616,-1%,"-$10,635",,,,,DDD
+136,,2020-06-22 21:12:45,2020-06-15,DDD,Stern Sadie,"EVP, People, Culture",F - Tax,$7.58,-702,96350,-1%,"-$5,321",,,,,DDD
+137,,2020-06-22 21:12:02,2020-06-15,DDD,Schultz Philip C.,"EVP, Operations",F - Tax,$7.58,-1403,154897,-1%,"-$10,635",,,,,DDD
+138,,2020-06-08 19:36:49,2020-05-19,DDD,Erickson Thomas W,Dir,A - Grant,$0.00,10000,102969,+11%,+$0,,,,,DDD
+139,,2020-05-28 18:04:55,2020-05-26,DDD,Graves Jeffrey A,"Pres, CEO",A - Grant,$0.00,442176,442176,New,+$0,,,,,DDD
+140,,2020-05-28 17:57:20,2020-05-19,DDD,Wadsworth Jeffrey,Dir,A - Grant,$0.00,10000,35639,+39%,+$0,,,,,DDD
+141,,2020-05-28 17:55:41,2020-05-19,DDD,Tracy John J,Dir,A - Grant,$0.00,10000,34233,+41%,+$0,,,,,DDD
+142,,2020-05-28 17:53:59,2020-05-19,DDD,Moore Kevin S,Dir,A - Grant,$0.00,10000,125218,+9%,+$0,,,,,DDD
+143,,2020-05-28 17:52:28,2020-05-19,DDD,McClure Charles G,Dir,A - Grant,$0.00,10000,35639,+39%,+$0,,,,,DDD
+144,,2020-05-28 17:50:54,2020-05-19,DDD,Kever Jim D,Dir,A - Grant,$0.00,10000,447114,+2%,+$0,,,,,DDD
+145,,2020-05-28 17:48:36,2020-05-19,DDD,Humes William David,Dir,A - Grant,$0.00,10000,47357,+27%,+$0,,,,,DDD
+146,,2020-05-28 17:31:17,2020-05-19,DDD,Clinton Malissia,Dir,A - Grant,$0.00,10000,23879,+72%,+$0,,,,,DDD
+147,,2020-05-28 17:30:49,2020-05-19,DDD,Curran William Edward,Dir,A - Grant,$0.00,10000,88178,+13%,+$0,,,,,DDD
+148,,2020-05-28 17:27:45,2020-05-28,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$8.00,-4000,226691,-2%,"-$32,000",,,,,DDD
+149,,2020-04-27 17:39:48,2020-04-24,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$8.00,-4000,230691,-2%,"-$32,000",,,,,DDD
+150,,2020-03-31 16:10:56,2020-03-30,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$8.00,-4000,234691,-2%,"-$32,000",,,,,DDD
+151,,2020-03-12 16:44:00,2020-03-03,DDD,Krishnan Radhika,"EVP, Software, Healthcare",S - Sale,$9.41,-6542,99019,-6%,"-$61,557",,,,,DDD
+152,,2020-03-04 18:06:16,2020-03-02,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,3234,238691,+1%,+$0,,,,,DDD
+153,,2020-03-04 18:06:16,2020-03-02,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$9.53,-1097,238691,0%,"-$10,454",,,,,DDD
+154,,2020-03-04 18:06:16,2020-03-04,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$9.58,-3234,238691,-1%,"-$30,967",,,,,DDD
+155,,2020-03-04 17:53:58,2020-03-02,DDD,Stern Sadie,"EVP, People, Culture",A - Grant,$0.00,3178,97052,+3%,+$0,,,,,DDD
+156,,2020-03-04 17:53:58,2020-03-02,DDD,Stern Sadie,"EVP, People, Culture",F - Tax,$9.53,-887,97052,-1%,"-$8,453",,,,,DDD
+157,,2020-03-04 17:53:58,2020-03-04,DDD,Stern Sadie,"EVP, People, Culture",S - Sale,$9.58,-3178,97052,-3%,"-$30,445",,,,,DDD
+158,,2020-03-04 17:52:54,2020-03-02,DDD,Schultz Philip C.,"EVP, Operations",A - Grant,$0.00,3730,156300,+2%,+$0,,,,,DDD
+159,,2020-03-04 17:52:54,2020-03-02,DDD,Schultz Philip C.,"EVP, Operations",F - Tax,$9.53,-1325,156300,-1%,"-$12,627",,,,,DDD
+160,,2020-03-04 17:52:54,2020-03-04,DDD,Schultz Philip C.,"EVP, Operations",S - Sale,$9.58,-3730,156300,-2%,"-$35,733",,,,,DDD
+161,,2020-03-04 17:51:50,2020-03-02,DDD,Krishnan Radhika,"EVP, Software, Healthcare",A - Grant,$0.00,3630,105561,+4%,+$0,,,,,DDD
+162,,2020-03-04 17:51:50,2020-03-04,DDD,Krishnan Radhika,"EVP, Software, Healthcare",S - Sale,$9.57,-3630,105561,-3%,"-$34,757",,,,,DDD
+163,,2020-03-04 17:50:19,2020-03-02,DDD,Koeck Herbert,"EVP, Global Go-To-Market",A - Grant,$0.00,4583,135246,+4%,+$0,,,,,DDD
+164,,2020-03-04 17:50:19,2020-03-02,DDD,Koeck Herbert,"EVP, Global Go-To-Market",F - Tax,$9.53,-2995,135246,-2%,"-$28,542",,,,,DDD
+165,,2020-03-04 17:49:21,2020-03-02,DDD,Joshi Vyomesh,"Pres, CEO",A - Grant,$0.00,17295,347975,+5%,+$0,,,,,DDD
+166,,2020-03-04 17:49:21,2020-03-02,DDD,Joshi Vyomesh,"Pres, CEO",F - Tax,$9.53,-11403,347975,-3%,"-$108,671",,,,,DDD
+167,,2020-03-04 17:44:49,2020-03-02,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,3639,513456,+1%,+$0,,,,,DDD
+168,,2020-03-04 17:44:49,2020-03-02,DDD,Hull Charles W,"EVP, CTO",F - Tax,$9.53,-2347,513456,0%,"-$22,367",,,,,DDD
+169,,2020-03-04 17:43:31,2020-03-02,DDD,Booth Todd,"EVP, CFO",A - Grant,$0.00,1437,160637,+1%,+$0,,,,,DDD
+170,,2020-03-04 17:43:31,2020-03-02,DDD,Booth Todd,"EVP, CFO",F - Tax,$9.53,-272,160637,0%,"-$2,592",,,,,DDD
+171,,2020-02-20 17:14:28,2020-02-18,DDD,Stern Sadie,"EVP, HR",A - Grant,$0.00,19773,97939,+25%,+$0,,,,,DDD
+172,,2020-02-20 17:14:28,2020-02-18,DDD,Stern Sadie,"EVP, HR",F - Tax,$12.13,-2488,97939,-2%,"-$30,179",,,,,DDD
+173,D,2020-02-20 17:13:27,2020-02-18,DDD,Schultz Philip C.,"EVP, Operations",A - Grant,$0.00,33636,157625,+27%,+$0,,,,,DDD
+174,D,2020-02-20 17:13:27,2020-02-18,DDD,Schultz Philip C.,"EVP, Operations",F - Tax,$12.13,-3306,157625,-2%,"-$40,102",,,,,DDD
+175,,2020-02-20 17:12:06,2020-02-18,DDD,Krishnan Radhika,"EVP, Healthcare, Software",A - Grant,$0.00,23409,105561,+28%,+$0,,,,,DDD
+176,,2020-02-20 17:12:06,2020-02-18,DDD,Krishnan Radhika,"EVP, Healthcare, Software",F - Tax,$12.13,-1495,105561,-1%,"-$18,134",,,,,DDD
+177,D,2020-02-20 17:10:29,2020-02-18,DDD,Koeck Herbert,"EVP, Global Go To Market",A - Grant,$0.00,10909,133658,+9%,+$0,,,,,DDD
+178,D,2020-02-20 17:10:29,2020-02-18,DDD,Koeck Herbert,"EVP, Global Go To Market",F - Tax,$12.13,-2590,133658,-2%,"-$31,417",,,,,DDD
+179,D,2020-02-20 17:09:14,2020-02-18,DDD,Joshi Vyomesh,"Pres, CEO",F - Tax,$12.13,-9441,342083,-3%,"-$114,519",,,,,DDD
+180,D,2020-02-20 17:07:45,2020-02-18,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,30227,239788,+14%,+$0,,,,,DDD
+181,D,2020-02-20 17:07:45,2020-02-18,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$12.13,-2763,239788,-1%,"-$33,515",,,,,DDD
+182,D,2020-02-20 17:06:24,2020-02-18,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,27045,512164,+6%,+$0,,,,,DDD
+183,D,2020-02-20 17:06:24,2020-02-18,DDD,Hull Charles W,"EVP, CTO",F - Tax,$12.13,-2238,512164,0%,"-$27,147",,,,,DDD
+184,,2020-02-20 17:05:24,2020-02-18,DDD,Booth Todd,"EVP, CFO",A - Grant,$0.00,37955,159472,+31%,+$0,,,,,DDD
+185,,2020-01-27 16:07:53,2019-06-13,DDD,Schultz Philip C.,"EVP, Operations",A - Grant,$0.00,12165,127295,+11%,+$0,,,,,DDD
+186,,2019-12-17 16:41:39,2019-12-13,DDD,Schultz Philip C.,"EVP, Operations",A - Grant,$0.00,34909,115130,+44%,+$0,,,,,DDD
+187,,2019-12-17 16:40:28,2019-12-13,DDD,Koeck Herbert,"EVP, Global Go To Market",A - Grant,$0.00,22876,125339,+22%,+$0,,,,,DDD
+188,,2019-12-17 16:39:01,2019-12-13,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,16144,212324,+8%,+$0,,,,,DDD
+189,,2019-12-17 16:37:52,2019-12-13,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,18165,487357,+4%,+$0,,,,,DDD
+190,,2019-12-17 16:36:02,2019-12-13,DDD,Booth Todd,"EVP, CFO",A - Grant,$0.00,21517,121517,+22%,+$0,,,,,DDD
+191,,2019-11-07 16:07:56,2019-11-06,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$9.62,-20068,196180,-9%,"-$193,054",,,,,DDD
+192,,2019-11-07 16:05:40,2019-11-05,DDD,Hull Charles W,"EVP, CTO",S - Sale,$9.73,-41940,469192,-8%,"-$408,076",,,,,DDD
+193,,2019-09-10 17:03:53,2019-09-06,DDD,Koeck Herbert,"EVP, Global Go To Market",F - Tax,$7.44,-5372,102463,-5%,"-$39,968",,,,,DDD
+194,A,2019-09-10 17:00:23,2019-08-15,DDD,Koeck Herbert,"EVP, Global Go To Market",F - Tax,$6.55,-3676,107835,-3%,"-$24,078",,,,,DDD
+195,,2019-09-10 16:58:54,2019-09-06,DDD,Schultz Philip C.,"EVP, Operations",F - Tax,$7.44,-4035,80221,-5%,"-$30,020",,,,,DDD
+196,,2019-09-03 16:08:40,2019-09-03,DDD,Booth Todd,"EVP, CFO",A - Grant,$0.00,100000,100000,New,+$0,,,,,DDD
+197,,2019-08-16 16:12:56,2019-08-15,DDD,Schultz Philip C.,"EVP, Operations",F - Tax,$6.55,-3287,84256,-4%,"-$21,530",,,,,DDD
+198,,2019-08-16 16:11:41,2019-08-15,DDD,McMullen John N,"EVP, CFO",F - Tax,$6.55,-3944,120773,-3%,"-$25,833",,,,,DDD
+199,,2019-08-16 16:10:40,2019-08-15,DDD,Koeck Herbert,"EVP, Global Go To Market",F - Tax,$6.55,-3676,107835,-3%,"-$24,078",,,,,DDD
+200,,2019-08-16 16:09:04,2019-08-15,DDD,Joshi Vyomesh,"Pres, CEO",F - Tax,$6.55,-13144,351524,-4%,"-$86,093",,,,,DDD
+201,,2019-08-16 16:07:45,2019-08-15,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$6.55,-2740,216248,-1%,"-$17,947",,,,,DDD
+202,,2019-08-16 16:05:14,2019-08-15,DDD,Hull Charles W,"EVP, CTO",F - Tax,$6.55,-2629,511132,-1%,"-$17,220",,,,,DDD
+203,,2019-07-30 16:15:54,2019-07-01,DDD,McMullen John N,"EVP, CFO",F - Tax,$9.09,-8646,124717,-6%,"-$78,592",,,,,DDD
+204,A,2019-07-30 16:14:25,2019-05-13,DDD,Joshi Vyomesh,"Pres, CEO",P - Purchase,$8.22,29920,364668,+9%,"+$245,942",,,,,DDD
+205,,2019-07-30 16:11:58,2019-04-01,DDD,Joshi Vyomesh,"Pres, CEO",F - Tax,$10.95,-17290,334748,-5%,"-$189,326",,,,,DDD
+206,,2019-07-30 16:10:36,2019-07-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$9.07,-5059,218988,-2%,"-$45,885",,,,,DDD
+207,,2019-07-30 16:06:31,2019-07-26,DDD,Hull Charles W,"EVP, CTO",F - Tax,$9.07,-5764,513761,-1%,"-$52,279",,,,,DDD
+208,,2019-05-22 16:38:56,2019-05-21,DDD,Wadsworth Jeffrey,Dir,A - Grant,$0.00,11455,25639,+81%,+$0,,,,,DDD
+209,,2019-05-22 16:37:28,2019-05-21,DDD,Tracy John J,Dir,A - Grant,$0.00,11455,24233,+90%,+$0,,,,,DDD
+210,,2019-05-22 16:36:17,2019-05-21,DDD,Moore Kevin S,Dir,A - Grant,$0.00,11455,115218,+11%,+$0,,,,,DDD
+211,,2019-05-22 16:35:04,2019-05-21,DDD,McClure Charles G,Dir,A - Grant,$0.00,11455,25639,+81%,+$0,,,,,DDD
+212,,2019-05-22 16:33:40,2019-05-21,DDD,Kever Jim D,Dir,A - Grant,$0.00,11455,437114,+3%,+$0,,,,,DDD
+213,,2019-05-22 16:32:06,2019-05-21,DDD,Humes William David,Dir,A - Grant,$0.00,11455,37357,+44%,+$0,,,,,DDD
+214,,2019-05-22 16:31:02,2019-05-21,DDD,Erickson Thomas W,Dir,A - Grant,$0.00,11455,92969,+14%,+$0,,,,,DDD
+215,,2019-05-22 16:29:29,2019-05-21,DDD,Curran William Edward,Dir,A - Grant,$0.00,11455,78178,+17%,+$0,,,,,DDD
+216,,2019-05-22 16:27:52,2019-05-21,DDD,Clinton Malissia,Dir,A - Grant,$0.00,11455,13879,+473%,+$0,,,,,DDD
+217,,2019-05-14 16:15:17,2019-05-13,DDD,Joshi Vyomesh,"Pres, CEO",P - Purchase,$8.22,29920,381958,+8%,"+$245,942",,,,,DDD
+218,,2019-03-15 16:20:48,2019-03-15,DDD,Clinton Malissia,Dir,A - Grant,$0.00,2424,2424,New,+$0,,,,,DDD
+219,,2019-03-04 17:27:24,2019-03-01,DDD,Schultz Philip C.,"EVP, Operations",A - Grant,$0.00,10158,87543,+13%,+$0,,,,,DDD
+220,,2019-03-04 17:26:16,2019-03-01,DDD,McMullen John N,"EVP, CFO",A - Grant,$0.00,12338,133363,+10%,+$0,,,,,DDD
+221,,2019-03-04 17:24:41,2019-03-01,DDD,McAlea Kevin,"EVP-COO, Healthcare",A - Grant,$0.00,12207,279305,+5%,+$0,,,,,DDD
+222,,2019-03-04 17:21:03,2019-03-01,DDD,Koeck Herbert,"EVP, Global Go To Market",A - Grant,$0.00,12594,111511,+13%,+$0,,,,,DDD
+223,,2019-03-04 17:19:24,2019-03-01,DDD,Joshi Vyomesh,"Pres, CEO",A - Grant,$0.00,41625,352038,+13%,+$0,,,,,DDD
+224,,2019-03-04 17:18:09,2019-03-01,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,9843,224047,+5%,+$0,,,,,DDD
+225,,2019-03-04 17:16:44,2019-03-01,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,8125,519525,+2%,+$0,,,,,DDD
+226,,2019-02-20 16:23:42,2019-02-15,DDD,Schultz Philip C.,"EVP, Operations",A - Grant,$0.00,25585,77385,+49%,+$0,,,,,DDD
+227,,2019-02-20 16:22:18,2019-02-15,DDD,McMullen John N,"EVP, CFO",A - Grant,$0.00,32895,121025,+37%,+$0,,,,,DDD
+228,,2019-02-20 16:20:13,2019-02-15,DDD,McAlea Kevin,"EVP-COO, Healthcare",A - Grant,$0.00,23757,267098,+10%,+$0,,,,,DDD
+229,,2019-02-20 16:17:16,2019-02-15,DDD,Koeck Herbert,"EVP, Global Go To Market",A - Grant,$0.00,23757,98917,+32%,+$0,,,,,DDD
+230,,2019-02-20 16:15:45,2019-02-15,DDD,Joshi Vyomesh,"Pres, CEO",A - Grant,$0.00,82237,310413,+36%,+$0,,,,,DDD
+231,,2019-02-20 16:14:17,2019-02-15,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,23757,214204,+12%,+$0,,,,,DDD
+232,,2019-02-20 16:12:50,2019-02-15,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,16447,511400,+3%,+$0,,,,,DDD
+233,,2018-11-14 16:28:14,2018-11-13,DDD,McAlea Kevin,"EVP-COO, Healthcare",F - Tax,$12.66,-6916,243341,-3%,"-$87,557",,,,,DDD
+234,,2018-11-14 16:18:47,2018-11-13,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$12.66,-18378,190447,-9%,"-$232,665",,,,,DDD
+235,,2018-11-14 16:09:54,2018-11-13,DDD,Hull Charles W,"EVP, CTO",F - Tax,$12.66,-5764,105148,-5%,"-$72,972",,,,,DDD
+236,,2018-10-24 16:08:45,2018-10-24,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$17.80,-4200,208825,-2%,"-$74,760",,,,,DDD
+237,,2018-10-05 16:54:27,2018-10-04,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$17.95,-4200,213025,-2%,"-$75,390",,,,,DDD
+238,,2018-08-24 16:34:09,2018-08-22,DDD,McAlea Kevin,"EVP-COO, Healthcare",S - Sale,$21.21,-20000,250257,-7%,"-$424,200",,,,,DDD
+239,,2018-08-17 16:44:45,2018-08-15,DDD,McMullen John N,"EVP, CFO",F - Tax,$18.87,-3944,88130,-4%,"-$74,423",,,,,DDD
+240,,2018-08-17 16:43:18,2018-08-15,DDD,McAlea Kevin,"EVP-COO, Healthcare",F - Tax,$18.87,-3944,270257,-1%,"-$74,423",,,,,DDD
+241,,2018-08-17 16:40:53,2018-08-15,DDD,Joshi Vyomesh,"Pres, CEO",F - Tax,$18.87,-15324,228176,-6%,"-$289,164",,,,,DDD
+242,,2018-08-17 16:39:14,2018-08-15,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$18.87,-3914,217225,-2%,"-$73,857",,,,,DDD
+243,,2018-08-17 16:39:14,2018-08-17,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$19.01,-5000,217225,-2%,"-$95,050",,,,,DDD
+244,,2018-08-17 16:36:45,2018-08-15,DDD,Hull Charles W,"EVP, CTO",F - Tax,$18.87,-2629,500717,-1%,"-$49,609",,,,,DDD
+245,,2018-07-30 16:34:57,2018-07-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$13.17,-5226,226139,-2%,"-$68,826",,,,,DDD
+246,,2018-07-30 16:33:37,2018-07-26,DDD,McAlea Kevin,"EVP-COO, Healthcare",F - Tax,$13.17,-5764,274201,-2%,"-$75,912",,,,,DDD
+247,,2018-07-30 16:32:12,2018-07-26,DDD,Hull Charles W,"EVP, CTO",F - Tax,$13.17,-5764,503346,-1%,"-$75,912",,,,,DDD
+248,M,2018-07-03 16:14:55,2017-07-03,DDD,McMullen John N,"EVP, CFO",F - Tax,$16.20,-17134,92074,-16%,"-$277,577",,,,,DDD
+249,,2018-05-30 16:16:58,2018-05-29,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$12.06,4500,1920607,0%,"+$54,270",,,,,DDD
+250,,2018-05-16 16:34:22,2018-05-15,DDD,Wadsworth Jeffrey,Dir,A - Grant,$0.00,7758,14184,+121%,+$0,,,,,DDD
+251,,2018-05-16 16:33:16,2018-05-15,DDD,Tracy John J,Dir,A - Grant,$0.00,7758,12778,+155%,+$0,,,,,DDD
+252,,2018-05-16 16:31:08,2018-05-15,DDD,Moore Kevin S,Dir,A - Grant,$0.00,7758,103763,+8%,+$0,,,,,DDD
+253,,2018-05-16 16:29:10,2018-05-15,DDD,McClure Charles G,Dir,A - Grant,$0.00,7758,14184,+121%,+$0,,,,,DDD
+254,,2018-05-16 16:26:44,2018-05-15,DDD,Loewenbaum G Walter II,Dir,A - Grant,$0.00,7758,1916107,0%,+$0,,,,,DDD
+255,,2018-05-16 16:24:59,2018-05-15,DDD,Kever Jim D,Dir,A - Grant,$0.00,7758,425659,+2%,+$0,,,,,DDD
+256,,2018-05-16 16:21:55,2018-05-15,DDD,Humes William David,Dir,A - Grant,$0.00,7758,25902,+43%,+$0,,,,,DDD
+257,,2018-05-16 16:20:28,2018-05-15,DDD,Erickson Thomas W,Dir,A - Grant,$0.00,7758,81514,+11%,+$0,,,,,DDD
+258,,2018-05-16 16:17:12,2018-05-15,DDD,Curran William Edward,Dir,A - Grant,$0.00,7758,66723,+13%,+$0,,,,,DDD
+259,A,2018-05-09 16:33:45,2018-04-02,DDD,Joshi Vyomesh,"Pres, CEO",F - Tax,$11.14,-18790,243500,-7%,"-$209,321",,,,,DDD
+260,,2018-05-09 16:12:12,2018-05-07,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$10.12,16475,1908349,+1%,"+$166,727",,,,,DDD
+261,M,2018-04-03 17:03:22,2017-04-03,DDD,Joshi Vyomesh,"Pres, CEO",F - Tax,$12.93,-36376,243050,-13%,"-$470,345",,,,,DDD
+262,,2018-02-07 16:11:37,2018-02-05,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$9.07,-11160,231365,-5%,"-$101,221",,,,,DDD
+263,,2017-12-07 16:23:15,2017-12-06,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$9.33,1000,1891874,0%,"+$9,330",,,,,DDD
+264,,2017-12-06 16:30:38,2017-12-05,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$9.37,15000,1890874,+1%,"+$140,550",,,,,DDD
+265,A,2017-12-05 17:35:29,2017-12-04,DDD,McMullen John N,"EVP, CFO",A - Grant,$0.00,34208,109208,+46%,+$0,,,,,DDD
+266,A,2017-12-05 17:34:15,2017-12-04,DDD,McAlea Kevin,"EVP-COO, Healthcare",A - Grant,$0.00,34208,279239,+14%,+$0,,,,,DDD
+267,A,2017-12-05 17:32:48,2017-12-04,DDD,Joshi Vyomesh,"Pres, CEO",A - Grant,$0.00,114026,279426,+69%,+$0,,,,,DDD
+268,A,2017-12-05 17:31:27,2017-12-04,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,27081,242525,+13%,+$0,,,,,DDD
+269,A,2017-12-05 17:30:20,2017-12-04,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,22806,218478,+12%,+$0,,,,,DDD
+270,,2017-12-05 16:32:14,2017-12-04,DDD,McMullen John N,"EVP, CFO",A - Grant,$8.77,34208,109208,+46%,"+$300,004",,,,,DDD
+271,,2017-12-05 16:31:02,2017-12-04,DDD,McAlea Kevin,"EVP-COO, Healthcare",A - Grant,$8.77,34208,279239,+14%,"+$300,004",,,,,DDD
+272,,2017-12-05 16:29:48,2017-12-04,DDD,Joshi Vyomesh,"Pres, CEO",A - Grant,$8.77,114026,279426,+69%,"+$1,000,008",,,,,DDD
+273,,2017-12-05 16:28:38,2017-12-04,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$8.77,27081,242525,+13%,"+$237,500",,,,,DDD
+274,,2017-12-05 16:27:15,2017-12-04,DDD,Hull Charles W,"EVP, CTO",A - Grant,$8.77,22806,508493,+5%,"+$200,009",,,,,DDD
+275,,2017-12-05 16:25:39,2017-12-04,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$8.94,40500,1875874,+2%,"+$362,070",,,,,DDD
+276,A,2017-12-04 16:17:20,2017-11-17,DDD,McAlea Kevin,"EVP-COO, Healthcare",F - Tax,$8.34,-16933,245031,-6%,"-$141,221",,,,,DDD
+277,A,2017-12-04 16:16:08,2017-11-17,DDD,Hull Charles W,"EVP, CTO",F - Tax,$8.34,-13546,195672,-6%,"-$112,974",,,,,DDD
+278,,2017-12-04 16:12:23,2017-12-01,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$8.81,6430,1835374,0%,"+$56,648",,,,,DDD
+279,,2017-11-21 16:11:09,2017-11-17,DDD,McAlea Kevin,"EVP-COO, Healthcare",F - Tax,$8.34,-22929,239035,-9%,"-$191,228",,,,,DDD
+280,,2017-11-21 16:07:16,2017-11-17,DDD,Hull Charles W,"EVP, CTO",F - Tax,$8.34,-18343,480890,-4%,"-$152,981",,,,,DDD
+281,M,2017-11-15 17:21:00,2017-07-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$11.10,-26222,215444,-11%,"-$291,167",,,,,DDD
+282,M,2017-11-15 17:19:38,2017-07-26,DDD,McAlea Kevin,"EVP-COO, Healthcare",F - Tax,$12.35,-14110,261964,-5%,"-$174,262",,,,,DDD
+283,M,2017-11-15 17:17:54,2017-07-26,DDD,Hull Charles W,"EVP, CTO",F - Tax,$12.75,-12828,499233,-3%,"-$163,493",,,,,DDD
+284,M,2017-08-18 16:08:25,2017-08-17,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-10200,1828944,-1%,-$0,,,,,DDD
+285,,2017-08-16 16:29:07,2017-08-15,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-3000,1839144,0%,-$0,,,,,DDD
+286,,2017-08-09 16:22:41,2017-08-08,DDD,Joshi Vyomesh,"Pres, CEO",P - Purchase,$12.96,15400,165400,+10%,"+$199,584",,,,,DDD
+287,,2017-06-08 16:24:29,2017-06-08,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$21.19,-10000,241666,-4%,"-$211,900",,,,,DDD
+288,,2017-06-08 16:22:06,2017-06-07,DDD,Tracy John J,Dir,A - Grant,$0.00,5020,5020,New,+$0,,,,,DDD
+289,,2017-06-02 16:50:34,2017-06-01,DDD,McAlea Kevin,"EVP-COO, Healthcare",S - Sale,$20.63,-17500,276074,-6%,"-$361,025",,,,,DDD
+290,,2017-05-31 16:18:35,2017-05-30,DDD,Loewenbaum G Walter II,Dir,S - Sale,$21.50,-25000,1842144,-1%,"-$537,500",,,,,DDD
+291,,2017-05-25 16:35:33,2017-05-23,DDD,Loewenbaum G Walter II,Dir,S - Sale,$22.29,-25000,1867144,-1%,"-$557,250",,,,,DDD
+292,M,2017-05-19 16:22:34,2017-05-18,DDD,Loewenbaum G Walter II,Dir,S - Sale,$22.15,-25000,1892144,-1%,"-$553,851",,,,,DDD
+293,,2017-05-17 16:30:57,2017-05-16,DDD,Wadsworth Jeffrey,Dir,A - Grant,$0.00,4290,6426,+201%,+$0,,,,,DDD
+294,,2017-05-17 16:28:47,2017-05-16,DDD,Moore Kevin S,Dir,A - Grant,$0.00,4290,96005,+5%,+$0,,,,,DDD
+295,,2017-05-17 16:27:30,2017-05-16,DDD,McClure Charles G,Dir,A - Grant,$0.00,4290,6426,+201%,+$0,,,,,DDD
+296,,2017-05-17 16:26:06,2017-05-16,DDD,Loewenbaum G Walter II,Dir,A - Grant,$0.00,4290,1917144,0%,+$0,,,,,DDD
+297,,2017-05-17 16:26:06,2017-05-16,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-10000,1917144,-1%,-$0,,,,,DDD
+298,,2017-05-17 16:20:44,2017-05-16,DDD,Kever Jim D,Dir,A - Grant,$0.00,4290,417901,+1%,+$0,,,,,DDD
+299,,2017-05-17 16:19:43,2017-05-16,DDD,Humes William David,Dir,A - Grant,$0.00,4290,18144,+31%,+$0,,,,,DDD
+300,,2017-05-17 16:17:10,2017-05-16,DDD,Erickson Thomas W,Dir,A - Grant,$0.00,4290,73756,+6%,+$0,,,,,DDD
+301,,2017-05-17 16:15:47,2017-05-16,DDD,Curran William Edward,Dir,A - Grant,$0.00,4290,58965,+8%,+$0,,,,,DDD
+302,,2017-03-29 16:34:52,2017-03-27,DDD,Wadsworth Jeffrey,Dir,A - Grant,$0.00,2136,2136,New,+$0,0.0,-3.0,7.0,,DDD
+303,,2017-03-29 16:32:27,2017-03-27,DDD,McClure Charles G,Dir,A - Grant,$0.00,2136,2136,New,+$0,0.0,-3.0,7.0,,DDD
+304,,2017-03-10 16:15:01,2017-03-08,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$14.70,-4000,251666,-2%,"-$58,800",0.0,1.0,-2.0,,DDD
+305,,2017-03-02 16:20:44,2017-03-02,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-497752,1922854,-21%,-$0,-1.0,-1.0,1.0,,DDD
+306,,2017-02-08 09:11:00,2017-02-06,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$16.61,-9932,255666,-4%,"-$164,971",-1.0,5.0,-13.0,,DDD
+307,,2016-12-05 16:33:56,2016-12-02,DDD,Johnson Andrew Martin,"EVP, GC, Sec",G - Gift,$0.00,-1150,265598,0%,-$0,2.0,5.0,-4.0,,DDD
+308,,2016-11-22 16:20:15,2016-11-21,DDD,McAlea Kevin,"EVP-COO, Healthcare",F - Tax,$14.25,-4636,293574,-2%,"-$66,063",1.0,-6.0,-2.0,,DDD
+309,,2016-11-22 16:17:11,2016-11-21,DDD,Hull Charles W,"EVP, CTO",F - Tax,$14.25,-9471,512061,-2%,"-$134,962",1.0,-6.0,-2.0,,DDD
+310,,2016-11-18 16:20:45,2016-11-18,DDD,McAlea Kevin,"EVP-COO, Healthcare",F - Tax,$14.30,-6790,298210,-2%,"-$97,097",3.0,4.0,6.0,,DDD
+311,,2016-11-17 16:21:09,2016-11-17,DDD,Hull Charles W,"EVP, CTO",F - Tax,$14.30,-5659,521532,-1%,"-$80,924",1.0,7.0,7.0,,DDD
+312,,2016-11-17 16:17:18,2016-11-17,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$14.30,-15121,266748,-5%,"-$216,230",1.0,7.0,7.0,,DDD
+313,A,2016-08-10 16:18:28,2016-05-17,DDD,Moore Kevin S,Dir,A - Grant,$0.00,7824,88981,+10%,+$0,0.0,0.0,3.0,7.0,DDD
+314,D,2016-07-28 16:20:01,2016-07-26,DDD,McAlea Kevin,"EVP-COO, Healthcare",A - Grant,$0.00,50000,305000,+20%,+$0,2.0,9.0,22.0,26.0,DDD
+315,D,2016-07-28 16:18:41,2016-07-26,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,50000,527191,+10%,+$0,2.0,9.0,22.0,26.0,DDD
+316,D,2016-07-28 16:17:30,2016-07-26,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,50000,281869,+22%,+$0,2.0,9.0,22.0,26.0,DDD
+317,D,2016-07-01 16:47:40,2016-07-01,DDD,McMullen John N,"EVP, CFO",A - Grant,$0.00,75000,75000,New,+$0,-1.0,5.0,-5.0,0.0,DDD
+318,,2016-06-16 16:51:07,2016-06-15,DDD,Wright Mark William,"EVP, COO",D - Sale to issuer,$0.30,-91370,32797,-74%,"-$27,209",3.0,4.0,15.0,21.0,DDD
+319,,2016-06-16 16:51:07,2016-06-15,DDD,Wright Mark William,"EVP, COO",F - Tax,$12.92,-15833,32797,-33%,"-$204,562",3.0,4.0,15.0,21.0,DDD
+320,,2016-06-16 16:49:00,2016-06-15,DDD,Lewis Cathy L,EVP-CMO,D - Sale to issuer,$0.33,-36037,70957,-34%,"-$11,785",3.0,4.0,15.0,21.0,DDD
+321,,2016-06-16 16:49:00,2016-06-15,DDD,Lewis Cathy L,EVP-CMO,F - Tax,$12.92,-9223,70957,-12%,"-$119,161",3.0,4.0,15.0,21.0,DDD
+322,,2016-05-19 16:19:07,2016-05-17,DDD,Welke Karen E,Dir,A - Grant,$0.00,7824,51765,+18%,+$0,0.0,8.0,8.0,14.0,DDD
+323,,2016-05-19 16:18:03,2016-05-17,DDD,Van Riper Daniel S,Dir,A - Grant,$0.00,7824,55121,+17%,+$0,0.0,8.0,8.0,14.0,DDD
+324,,2016-05-19 16:16:46,2016-05-17,DDD,Moore Kevin S,Dir,A - Grant,$0.00,7824,85715,+10%,+$0,0.0,8.0,8.0,14.0,DDD
+325,,2016-05-19 16:15:50,2016-05-17,DDD,Loewenbaum G Walter II,Dir,A - Grant,$0.00,7824,2565136,0%,+$0,0.0,8.0,8.0,14.0,DDD
+326,,2016-05-19 16:14:45,2016-05-17,DDD,Kever Jim D,Dir,A - Grant,$0.00,7824,413611,+2%,+$0,0.0,8.0,8.0,14.0,DDD
+327,,2016-05-19 16:12:40,2016-05-17,DDD,Humes William David,Dir,A - Grant,$0.00,7824,13854,+130%,+$0,0.0,8.0,8.0,14.0,DDD
+328,,2016-05-19 16:11:31,2016-05-17,DDD,Erickson Thomas W,Dir,A - Grant,$0.00,7824,69466,+13%,+$0,0.0,8.0,8.0,14.0,DDD
+329,,2016-05-19 16:10:03,2016-05-17,DDD,Curran William Edward,Dir,A - Grant,$0.00,7824,54675,+17%,+$0,0.0,8.0,8.0,14.0,DDD
+330,,2016-05-13 16:23:16,2016-05-12,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$12.08,20000,2557312,+1%,"+$241,500",4.0,1.0,3.0,13.0,DDD
+331,D,2016-04-04 16:32:14,2016-04-01,DDD,Joshi Vyomesh,"Pres, CEO",A - Grant,$0.00,150000,150000,New,+$0,-1.0,0.0,5.0,12.0,DDD
+332,,2016-02-08 16:37:57,2016-02-04,DDD,Johnson Andrew Martin,"Interim Pres, CEO, CLO, Sec",F - Tax,$9.13,-8846,231869,-4%,"-$80,764",-1.0,0.0,36.0,69.0,DDD
+333,,2016-02-03 16:16:23,2016-02-01,DDD,Erickson Thomas W,Dir,A - Grant,$0.00,25000,61642,+68%,+$0,8.0,1.0,55.0,50.0,DDD
+334,,2015-12-11 16:15:04,2015-12-10,DDD,Johnson Andrew Martin,"Interim Pres, CEO, CLO, Sec",G - Gift,$0.00,-1000,240715,0%,-$0,-3.0,7.0,-16.0,33.0,DDD
+335,,2015-12-07 16:02:20,2015-12-04,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$9.07,10000,2537312,0%,"+$90,700",2.0,1.0,-1.0,51.0,DDD
+336,M,2015-12-02 18:10:59,2015-11-30,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$9.02,50500,2527312,+2%,"+$455,758",4.0,5.0,-3.0,53.0,DDD
+337,M,2015-12-02 16:19:04,2015-11-30,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$9.02,19900,2476812,+1%,"+$179,404",4.0,5.0,-3.0,53.0,DDD
+338,,2015-11-30 16:16:52,2015-11-27,DDD,Lewis Cathy L,EVP-CMO,F - Tax,$9.01,-7283,116217,-6%,"-$65,620",-2.0,-1.0,0.0,47.0,DDD
+339,,2015-11-30 16:15:42,2015-11-27,DDD,Hull Charles W,"EVP, CTO",F - Tax,$9.01,-9324,477191,-2%,"-$84,009",-2.0,-1.0,0.0,47.0,DDD
+340,,2015-11-19 16:23:29,2015-11-17,DDD,Erickson Thomas W,Dir,A - Grant,$0.00,2496,36642,+7%,+$0,1.0,9.0,18.0,40.0,DDD
+341,,2015-11-17 16:34:53,2015-11-13,DDD,Wright Mark William,"EVP, COO",A - Grant,$0.00,80000,140000,+133%,+$0,2.0,0.0,8.0,40.0,DDD
+342,,2015-11-17 16:33:55,2015-11-13,DDD,Styka David Robert,"EVP, CFO",A - Grant,$0.00,50000,100000,+100%,+$0,2.0,0.0,8.0,40.0,DDD
+343,,2015-11-17 16:32:43,2015-11-13,DDD,McAlea Kevin,"EVP-COO, Healthcare",A - Grant,$0.00,60000,255000,+31%,+$0,2.0,0.0,8.0,40.0,DDD
+344,,2015-11-17 16:31:34,2015-11-13,DDD,Lewis Cathy L,EVP-CMO,A - Grant,$0.00,30000,123500,+32%,+$0,2.0,0.0,8.0,40.0,DDD
+345,,2015-11-17 16:30:25,2015-11-13,DDD,Johnson Andrew Martin,"Interim Pres, CEO, CLO, Sec",A - Grant,$0.00,125000,241715,+107%,+$0,2.0,0.0,8.0,40.0,DDD
+346,,2015-11-17 16:29:06,2015-11-13,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,50000,486515,+11%,+$0,2.0,0.0,8.0,40.0,DDD
+347,M,2015-09-10 16:14:13,2015-09-08,DDD,Johnson Andrew Martin,"EVP, GC, Sec",S - Sale,$13.34,-8000,116715,-6%,"-$106,716",0.0,1.0,7.0,-11.0,DDD
+348,A,2015-09-04 16:18:37,2015-08-19,DDD,Moore Kevin S,Dir,P - Purchase,$12.94,6000,83891,+8%,"+$77,640",5.0,1.0,-6.0,0.0,DDD
+349,A,2015-09-04 16:06:31,2015-05-19,DDD,Moore Kevin S,Dir,A - Grant,$0.00,3000,77891,+4%,+$0,5.0,1.0,-6.0,0.0,DDD
+350,,2015-08-27 16:29:47,2015-08-25,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$11.87,8800,2456912,0%,"+$104,456",5.0,1.0,-6.0,-21.0,DDD
+351,M,2015-08-25 16:39:41,2015-08-21,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$11.63,16200,2448112,+1%,"+$188,344",1.0,15.0,2.0,-14.0,DDD
+352,,2015-08-19 16:49:41,2015-08-19,DDD,Moore Kevin S,Dir,P - Purchase,$12.94,6000,83891,+8%,"+$77,640",-4.0,-5.0,3.0,-23.0,DDD
+353,M,2015-08-12 16:49:42,2015-08-10,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$13.98,25000,2431912,+1%,"+$349,600",-2.0,-4.0,-7.0,-40.0,DDD
+354,,2015-06-17 16:39:06,2015-06-09,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-2984,2406912,0%,-$0,2.0,5.0,-20.0,-56.0,DDD
+355,,2015-06-04 17:02:43,2015-06-02,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-1140,1629275,0%,-$0,1.0,0.0,-13.0,-58.0,DDD
+356,,2015-05-21 16:21:50,2015-05-19,DDD,Styka David Robert,"EVP, CFO",A - Grant,$0.00,25000,50000,+100%,+$0,-1.0,1.0,-7.0,-61.0,DDD
+357,,2015-05-21 16:20:07,2015-05-19,DDD,Welke Karen E,Dir,A - Grant,$0.00,3000,43941,+7%,+$0,-1.0,1.0,-7.0,-61.0,DDD
+358,,2015-05-21 16:18:47,2015-05-19,DDD,Van Riper Daniel S,Dir,A - Grant,$0.00,3000,47297,+7%,+$0,-1.0,1.0,-7.0,-61.0,DDD
+359,,2015-05-21 16:17:15,2015-05-19,DDD,Moore Kevin S,Dir,A - Grant,$0.00,3000,77891,+4%,+$0,-1.0,1.0,-7.0,-61.0,DDD
+360,,2015-05-21 16:15:46,2015-05-19,DDD,Loewenbaum G Walter II,Dir,A - Grant,$0.00,3000,2409896,0%,+$0,-1.0,1.0,-7.0,-61.0,DDD
+361,,2015-05-21 16:15:46,2015-05-19,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-5100,2409896,0%,-$0,-1.0,1.0,-7.0,-61.0,DDD
+362,,2015-05-21 16:14:19,2015-05-19,DDD,Kever Jim D,Dir,A - Grant,$0.00,3000,405787,+1%,+$0,-1.0,1.0,-7.0,-61.0,DDD
+363,,2015-05-21 16:13:04,2015-05-19,DDD,Humes William David,Dir,A - Grant,$0.00,3000,6030,+99%,+$0,-1.0,1.0,-7.0,-61.0,DDD
+364,,2015-05-21 16:08:52,2015-05-19,DDD,Diamandis Peter,Dir,A - Grant,$0.00,3000,7730,+63%,+$0,-1.0,1.0,-7.0,-61.0,DDD
+365,,2015-05-21 16:06:37,2015-05-19,DDD,Curran William Edward,Dir,A - Grant,$0.00,3000,46851,+7%,+$0,-1.0,1.0,-7.0,-61.0,DDD
+366,,2015-05-15 16:43:05,2015-05-15,DDD,Reichental Abraham N,"Pres, CEO",P - Purchase,$21.71,5000,1630415,0%,"+$108,559",7.0,4.0,-3.0,-56.0,DDD
+367,,2015-05-15 16:40:35,2015-05-15,DDD,Hull Theodore A,"EVP, CFO",D - Sale to issuer,$1.00,-60000,0,-100%,"-$60,000",7.0,4.0,-3.0,-56.0,DDD
+368,,2015-05-15 16:38:55,2015-05-14,DDD,Johnson Andrew Martin,"EVP, GC, Sec",F - Tax,$22.01,-6435,124715,-5%,"-$141,634",7.0,4.0,-3.0,-56.0,DDD
+369,,2015-05-08 16:37:00,2015-05-08,DDD,Reichental Abraham N,"Pres, CEO",P - Purchase,$22.18,5000,1625415,0%,"+$110,908",0.0,-1.0,-4.0,-49.0,DDD
+370,,2015-03-04 16:36:27,2015-03-02,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-12397,1620415,-1%,-$0,0.0,-5.0,-5.0,-52.0,DDD
+371,,2015-03-02 16:55:06,2015-03-02,DDD,Hull Charles W,"EVP, CTO",S - Sale,$30.11,-40000,436515,-8%,"-$1,204,400",-3.0,-6.0,-10.0,-57.0,DDD
+372,,2015-02-03 17:21:07,2015-02-03,DDD,Johnson Andrew Martin,"EVP, GC, Sec",A - Grant,$0.00,35000,131150,+36%,+$0,1.0,1.0,1.0,-54.0,DDD
+373,,2015-01-15 16:38:37,2015-01-14,DDD,Styka David Robert,"VP, Chief Accounting Officer",A - Grant,$0.00,25000,25000,New,+$0,1.0,8.0,15.0,-40.0,DDD
+374,A,2014-12-02 16:44:50,2014-11-28,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$35.23,5000,2411996,0%,"+$176,143",1.0,-6.0,-4.0,-36.0,DDD
+375,,2014-12-01 16:41:24,2014-11-28,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$35.23,5000,2411996,0%,"+$176,143",2.0,1.0,-5.0,-33.0,DDD
+376,,2014-11-21 16:32:40,2014-11-19,DDD,Gregoire Damon Joseph,"EVP, Mergers, Acquisitions",S - Sale,$35.33,-45000,204000,-18%,"-$1,589,850",7.0,0.0,-11.0,-38.0,DDD
+377,,2014-11-20 16:54:45,2014-11-19,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$36.00,5000,2406996,0%,"+$180,000",-1.0,1.0,-10.0,-37.0,DDD
+378,,2014-11-19 16:51:55,2014-11-19,DDD,Moore Kevin S,Dir,P - Purchase,$35.98,5000,74891,+7%,"+$179,900",-2.0,2.0,-12.0,-39.0,DDD
+379,,2014-11-19 16:50:03,2014-11-17,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,40000,476515,+9%,+$0,-2.0,2.0,-12.0,-39.0,DDD
+380,,2014-11-19 16:50:03,2014-11-19,DDD,Hull Charles W,"EVP, CTO",S - Sale,$36.05,-10000,476515,-2%,"-$360,500",-2.0,2.0,-12.0,-39.0,DDD
+381,,2014-11-19 16:48:30,2014-11-17,DDD,Lewis Cathy L,EVP-CMO,A - Grant,$0.00,20000,93500,+27%,+$0,-2.0,2.0,-12.0,-39.0,DDD
+382,,2014-11-19 16:47:11,2014-11-17,DDD,McAlea Kevin,"EVP-COO, Healthcare",A - Grant,$0.00,50000,195000,+34%,+$0,-2.0,2.0,-12.0,-39.0,DDD
+383,,2014-11-19 16:45:53,2014-11-17,DDD,Reichental Abraham N,"Pres, CEO",A - Grant,$0.00,150000,1632812,+10%,+$0,-2.0,2.0,-12.0,-39.0,DDD
+384,,2014-11-19 16:45:53,2014-11-19,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-10000,1632812,-1%,-$0,-2.0,2.0,-12.0,-39.0,DDD
+385,M,2014-11-14 16:50:38,2014-11-13,DDD,Loewenbaum G Walter II,Dir,P - Purchase,$33.28,26479,2401996,+1%,"+$881,289",4.0,4.0,-17.0,-34.0,DDD
+386,,2014-11-04 16:49:27,2014-11-04,DDD,Hull Theodore A,"EVP, CFO on 11-11-2014",A - Grant,$0.00,60000,60000,New,+$0,-5.0,-4.0,-9.0,-40.0,DDD
+387,,2014-10-27 16:56:13,2014-10-27,DDD,Wright Mark William,"EVP, COO",A - Grant,$0.00,60000,60000,New,+$0,3.0,0.0,0.0,-31.0,DDD
+388,,2014-10-22 16:34:25,2014-10-20,DDD,Hull Charles W,"EVP, CTO",S - Sale,$41.90,-7500,446515,-2%,"-$314,250",2.0,5.0,-2.0,-15.0,DDD
+389,,2014-09-16 16:41:53,2014-09-15,DDD,Hull Charles W,"EVP, CTO",S - Sale,$49.65,-7500,454015,-2%,"-$372,404",1.0,-5.0,-19.0,-48.0,DDD
+390,,2014-08-29 16:51:04,2014-08-29,DDD,Reichental Abraham N,"Pres, CEO",S - Sale,$53.20,-52300,1492812,-3%,"-$2,782,360",-2.0,-4.0,-12.0,-44.0,DDD
+391,,2014-08-28 16:40:31,2014-08-27,DDD,Gregoire Damon Joseph,"SVP, CFO",S - Sale,$52.72,-50000,249000,-17%,"-$2,636,000",1.0,-3.0,-10.0,-43.0,DDD
+392,,2014-08-27 16:41:43,2014-08-26,DDD,Johnson Andrew Martin,"VP, GC, Secretar",S - Sale,$51.16,-5000,96150,-5%,"-$255,800",1.0,-2.0,-9.0,-44.0,DDD
+393,,2014-08-19 16:36:54,2014-08-18,DDD,Hull Charles W,"EVP, CTO",S - Sale,$49.07,-7500,461515,-2%,"-$368,025",1.0,5.0,4.0,-37.0,DDD
+394,,2014-07-22 16:42:29,2014-07-21,DDD,Hull Charles W,"EVP, CTO",S - Sale,$56.54,-7500,469015,-2%,"-$424,050",0.0,-4.0,-9.0,-44.0,DDD
+395,,2014-06-17 16:38:43,2014-06-16,DDD,Hull Charles W,"EVP, CTO",S - Sale,$50.41,-7500,476515,-2%,"-$378,048",1.0,8.0,6.0,-45.0,DDD
+396,,2014-05-20 16:53:02,2014-05-19,DDD,Welke Karen E,Dir,A - Grant,$0.00,2030,40941,+5%,+$0,3.0,15.0,9.0,-31.0,DDD
+397,,2014-05-20 16:52:07,2014-05-19,DDD,Van Riper Daniel S,Dir,A - Grant,$0.00,2030,44297,+5%,+$0,3.0,15.0,9.0,-31.0,DDD
+398,,2014-05-20 16:48:41,2014-05-19,DDD,Moore Kevin S,Dir,A - Grant,$0.00,2030,69891,+3%,+$0,3.0,15.0,9.0,-31.0,DDD
+399,,2014-05-20 16:45:48,2014-05-19,DDD,Loewenbaum G Walter II,Dir,A - Grant,$0.00,2030,2375517,0%,+$0,3.0,15.0,9.0,-31.0,DDD
+400,,2014-05-20 16:44:48,2014-05-19,DDD,Kever Jim D,Dir,A - Grant,$0.00,2030,402787,+1%,+$0,3.0,15.0,9.0,-31.0,DDD
+401,,2014-05-20 16:41:21,2014-05-19,DDD,Hull Charles W,"EVP, CTO",S - Sale,$48.78,-7500,484015,-2%,"-$365,814",3.0,15.0,9.0,-31.0,DDD
+402,,2014-05-20 16:39:57,2014-05-19,DDD,Diamandis Peter,Dir,A - Grant,$0.00,2030,4730,+75%,+$0,3.0,15.0,9.0,-31.0,DDD
+403,,2014-05-20 16:39:08,2014-05-19,DDD,Curran William Edward,Dir,A - Grant,$0.00,2030,43851,+5%,+$0,3.0,15.0,9.0,-31.0,DDD
+404,,2014-05-16 16:47:11,2014-05-16,DDD,Gregoire Damon Joseph,"SVP, CFO",G - Gift,$0.00,-2500,299000,-1%,-$0,2.0,14.0,7.0,-29.0,DDD
+405,,2014-05-08 16:43:59,2014-05-07,DDD,Gregoire Damon Joseph,"SVP, CFO",S - Sale,$49.00,-22500,301500,-7%,"-$1,102,520",0.0,3.0,5.0,-20.0,DDD
+406,,2014-03-17 17:09:11,2014-03-14,DDD,Johnson Andrew Martin,"VP, GC, Secretar",S - Sale,$60.86,-1500,101150,-1%,"-$91,290",3.0,-7.0,-25.0,-15.0,DDD
+407,,2014-03-17 16:52:27,2014-03-14,DDD,Reichental Abraham N,"Pres, CEO",S - Sale,$60.11,-66700,1545112,-4%,"-$4,009,337",3.0,-7.0,-25.0,-15.0,DDD
+408,,2014-03-14 16:41:34,2014-03-13,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-450,2373487,0%,-$0,2.0,1.0,-20.0,-12.0,DDD
+409,,2014-03-14 16:40:33,2014-03-13,DDD,Lewis Cathy L,VP,S - Sale,$62.53,-6000,73500,-8%,"-$375,180",2.0,1.0,-20.0,-12.0,DDD
+410,,2014-03-13 16:37:26,2014-03-13,DDD,Johnson Andrew Martin,"VP, GC, Secretar",G - Gift,$0.00,-300,102650,0%,-$0,-1.0,3.0,-19.0,-13.0,DDD
+411,,2014-03-07 16:43:55,2014-03-05,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-2242,1611812,0%,-$0,-5.0,-10.0,-17.0,-23.0,DDD
+412,M,2014-03-07 16:42:42,2014-03-06,DDD,Loewenbaum G Walter II,Dir,S - Sale,$71.01,-21479,2373937,-1%,"-$1,525,204",-5.0,-10.0,-17.0,-23.0,DDD
+413,,2014-03-06 17:02:14,2014-03-05,DDD,Loewenbaum G Walter II,Dir,S - Sale,$71.45,-50000,2395416,-2%,"-$3,572,500",-2.0,-10.0,-17.0,-23.0,DDD
+414,,2014-02-05 16:56:30,2014-02-04,DDD,Johnson Andrew Martin,"VP, GC, Secretar",A - Grant,$0.00,30000,102950,+41%,+$0,-2.0,1.0,3.0,-25.0,DDD
+415,,2013-12-16 16:45:56,2013-12-13,DDD,Reichental Abraham N,"Pres, CEO",S - Sale,$80.91,-25000,1614054,-2%,"-$2,022,750",0.0,6.0,10.0,-35.0,DDD
+416,,2013-12-13 16:32:10,2013-12-11,DDD,McAlea Kevin,VP,S - Sale,$77.50,-29658,145000,-17%,"-$2,298,495",0.0,3.0,13.0,-37.0,DDD
+417,,2013-12-12 16:45:30,2013-12-10,DDD,McAlea Kevin,VP,S - Sale,$80.35,-22526,174658,-11%,"-$1,809,911",1.0,2.0,15.0,-40.0,DDD
+418,,2013-12-06 16:16:38,2013-12-05,DDD,Reichental Abraham N,"Pres, CEO",A - Grant,$0.00,125000,1639054,+8%,+$0,1.0,7.0,23.0,-33.0,DDD
+419,,2013-11-25 16:33:11,2013-11-19,DDD,Lewis Cathy L,VP,S - Sale,$75.07,-2400,79500,-3%,"-$180,171",2.0,7.0,19.0,-30.0,DDD
+420,A,2013-11-25 16:32:20,2013-11-18,DDD,Lewis Cathy L,VP,A - Grant,$0.00,15000,81900,+22%,+$0,2.0,7.0,19.0,-30.0,DDD
+421,M,2013-11-25 16:30:49,2013-11-01,DDD,Lewis Cathy L,VP,S - Sale,$63.50,-12600,66900,-16%,"-$800,080",2.0,7.0,19.0,-30.0,DDD
+422,,2013-11-20 16:46:00,2013-11-18,DDD,McAlea Kevin,VP,A - Grant,$0.00,15000,197184,+8%,+$0,4.0,5.0,18.0,-19.0,DDD
+423,,2013-11-20 16:44:57,2013-11-18,DDD,Lewis Cathy L,VP,A - Grant,$0.00,15000,94500,+19%,+$0,4.0,5.0,18.0,-19.0,DDD
+424,,2013-11-20 16:44:16,2013-11-18,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,30000,491515,+7%,+$0,4.0,5.0,18.0,-19.0,DDD
+425,,2013-11-20 16:43:14,2013-11-18,DDD,Gregoire Damon Joseph,"SVP, CFO",A - Grant,$0.00,60000,324000,+23%,+$0,4.0,5.0,18.0,-19.0,DDD
+426,,2013-11-19 16:43:26,2013-11-15,DDD,Gregoire Damon Joseph,"SVP, CFO",S - Sale,$79.99,-45000,264000,-15%,"-$3,599,494",-8.0,-4.0,8.0,-31.0,DDD
+427,,2013-11-12 16:42:34,2013-11-11,DDD,Loewenbaum G Walter II,Dir,S - Sale,$76.56,-80000,2445416,-3%,"-$6,124,500",0.0,3.0,-1.0,-38.0,DDD
+428,,2013-11-08 16:41:39,2013-11-07,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-8100,1514054,-1%,-$0,8.0,12.0,8.0,-32.0,DDD
+429,,2013-11-06 16:47:16,2013-11-05,DDD,Moore Kevin S,Dir,G - Gift,$0.00,-1500,67861,-2%,-$0,-2.0,12.0,9.0,-31.0,DDD
+430,,2013-11-06 16:47:16,2013-11-05,DDD,Moore Kevin S,Dir,S - Sale,$68.44,-15000,67861,-18%,"-$1,026,600",-2.0,12.0,9.0,-31.0,DDD
+431,,2013-08-26 16:44:31,2013-08-26,DDD,Johnson Andrew Martin,"VP, GC, Secretar",S - Sale,$50.00,-4000,72950,-5%,"-$200,000",-5.0,-1.0,7.0,50.0,DDD
+432,,2013-08-15 16:48:03,2013-08-13,DDD,McAlea Kevin,VP,S - Sale,$49.58,-30000,182184,-14%,"-$1,487,400",0.0,5.0,9.0,51.0,DDD
+433,,2013-08-06 16:48:49,2013-08-05,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-7500,2574217,0%,-$0,0.0,7.0,15.0,62.0,DDD
+434,A,2013-06-18 16:52:11,2013-06-04,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-15000,2581717,-1%,-$0,-3.0,-11.0,-2.0,69.0,DDD
+435,,2013-06-18 16:50:59,2013-05-21,DDD,Loewenbaum G Walter II,Dir,A - Grant,$0.00,2064,2596717,0%,+$0,-3.0,-11.0,-2.0,69.0,DDD
+436,,2013-06-18 16:49:27,2013-05-21,DDD,Welke Karen E,Dir,A - Grant,$0.00,2064,38911,+6%,+$0,-3.0,-11.0,-2.0,69.0,DDD
+437,,2013-06-18 16:47:26,2013-05-21,DDD,Van Riper Daniel S,Dir,A - Grant,$0.00,2064,42267,+5%,+$0,-3.0,-11.0,-2.0,69.0,DDD
+438,,2013-06-18 16:46:29,2013-05-21,DDD,Moore Kevin S,Dir,A - Grant,$0.00,2064,84361,+3%,+$0,-3.0,-11.0,-2.0,69.0,DDD
+439,,2013-06-18 16:45:06,2013-05-21,DDD,Kever Jim D,Dir,A - Grant,$0.00,2064,400757,+1%,+$0,-3.0,-11.0,-2.0,69.0,DDD
+440,,2013-06-18 16:43:57,2013-05-21,DDD,Curran William Edward,Dir,A - Grant,$0.00,2064,41821,+5%,+$0,-3.0,-11.0,-2.0,69.0,DDD
+441,,2013-06-10 16:45:03,2013-06-07,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-664,1522154,0%,-$0,-1.0,0.0,0.0,64.0,DDD
+442,,2013-06-05 16:48:11,2013-06-04,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-15000,2579653,-1%,-$0,6.0,7.0,4.0,75.0,DDD
+443,,2013-05-31 16:43:37,2013-05-31,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-498,1522818,0%,-$0,-5.0,-5.0,-9.0,49.0,DDD
+444,,2013-05-30 16:54:08,2013-05-29,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-213,1523316,0%,-$0,-3.0,-14.0,-12.0,46.0,DDD
+445,,2013-05-28 16:55:44,2013-05-28,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-539,1523529,0%,-$0,2.0,-2.0,-6.0,54.0,DDD
+446,,2013-05-17 16:59:41,2013-05-17,DDD,Van Riper Daniel S,Dir,S - Sale,$45.80,-17220,40203,-30%,"-$788,594",4.0,0.0,3.0,69.0,DDD
+447,,2013-05-16 17:06:01,2013-05-15,DDD,Reichental Abraham N,"Pres, CEO",S - Sale,$40.00,-400000,1524068,-21%,"-$16,000,000",2.0,2.0,3.0,68.0,DDD
+448,,2013-05-16 17:04:45,2013-05-15,DDD,Loewenbaum G Walter II,Dir,S - Sale,$40.00,-800000,2594653,-24%,"-$32,000,000",2.0,2.0,3.0,68.0,DDD
+449,,2013-05-16 17:03:26,2013-05-15,DDD,Kever Jim D,Dir,S - Sale,$40.00,-38000,398693,-9%,"-$1,520,000",2.0,2.0,3.0,68.0,DDD
+450,,2013-05-16 17:02:13,2013-05-15,DDD,Gregoire Damon Joseph,"SVP, CFO",S - Sale,$40.00,-45000,309000,-13%,"-$1,800,000",2.0,2.0,3.0,68.0,DDD
+451,,2013-05-06 16:49:05,2013-05-03,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-750,3394653,0%,-$0,-1.0,2.0,4.0,48.0,DDD
+452,,2013-05-06 16:47:46,2013-05-03,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-10000,1924068,-1%,-$0,-1.0,2.0,4.0,48.0,DDD
+453,,2013-05-06 16:46:40,2013-05-03,DDD,Van Riper Daniel S,Dir,S - Sale,$41.00,-10393,57423,-15%,"-$426,115",-1.0,2.0,4.0,48.0,DDD
+454,,2013-03-14 16:45:56,2013-03-13,DDD,Loewenbaum G Walter II,Dir,S - Sale,$32.20,-15000,3395403,0%,"-$483,000",-5.0,-4.0,15.0,67.0,DDD
+455,,2013-03-13 17:25:40,2013-03-13,DDD,Hull Charles W,"EVP, CTO",S - Sale,$32.31,-100000,461515,-18%,"-$3,230,740",-4.0,-9.0,9.0,63.0,DDD
+456,,2013-03-13 17:23:22,2013-03-12,DDD,Hull Charles W,"EVP, CTO",S - Sale,$32.64,-400000,561515,-42%,"-$13,054,360",-4.0,-9.0,9.0,63.0,DDD
+457,,2013-02-22 16:48:58,2013-02-22,DDD,Welke Karen E,Dir,A - Grant,$0.00,12282,36847,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+458,,2013-02-22 16:47:51,2013-02-22,DDD,Van Riper Daniel S,Dir,A - Grant,$0.00,22605,67816,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+459,,2013-02-22 16:46:53,2013-02-22,DDD,Reichental Abraham N,"Pres, CEO",A - Grant,$0.00,644689,1934068,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+460,,2013-02-22 16:45:45,2013-02-22,DDD,Moore Kevin S,Dir,A - Grant,$0.00,27432,82297,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+461,,2013-02-22 16:44:50,2013-02-22,DDD,McAlea Kevin,VP,A - Grant,$0.00,70728,212184,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+462,,2013-02-22 16:43:52,2013-02-22,DDD,Loewenbaum G Walter II,Dir,A - Grant,$0.00,1136800,3410403,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+463,,2013-02-22 16:42:45,2013-02-22,DDD,Lewis Cathy L,VP,A - Grant,$0.00,26500,79500,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+464,,2013-02-22 16:41:38,2013-02-22,DDD,Kever Jim D,Dir,A - Grant,$0.00,145564,436693,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+465,,2013-02-22 16:39:13,2013-02-22,DDD,Johnson Andrew Martin,"VP, GC, Secretar",A - Grant,$0.00,25650,76950,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+466,,2013-02-22 16:38:04,2013-02-22,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,320505,961515,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+467,,2013-02-22 16:36:55,2013-02-22,DDD,Gregoire Damon Joseph,"VP, CFO",A - Grant,$0.00,118000,354000,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+468,,2013-02-22 16:35:12,2013-02-22,DDD,Curran William Edward,Dir,A - Grant,$0.00,13252,39757,+50%,+$0,-9.0,-3.0,-18.0,29.0,DDD
+469,,2013-02-12 16:57:59,2013-02-11,DDD,Hull Charles W,"EVP, CTO",S - Sale,$67.29,-2000,641010,0%,"-$134,580",4.0,-4.0,-22.0,17.0,DDD
+470,,2013-02-12 16:55:55,2013-02-11,DDD,Hull Charles W,"EVP, CTO",S - Sale,$66.72,-4000,572010,-1%,"-$266,884",4.0,-4.0,-22.0,17.0,DDD
+471,,2013-02-05 16:56:36,2013-02-04,DDD,Johnson Andrew Martin,"VP, GC, Secretar",A - Grant,$0.00,18000,51300,+54%,+$0,8.0,8.0,-23.0,14.0,DDD
+472,,2013-01-11 16:51:47,2013-01-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$59.64,-2450,647010,0%,"-$146,115",1.0,5.0,12.0,20.0,DDD
+473,,2013-01-11 16:49:08,2013-01-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$58.58,-3550,578460,-1%,"-$207,970",1.0,5.0,12.0,20.0,DDD
+474,,2012-12-11 16:58:46,2012-12-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$46.16,-6000,653010,-1%,"-$276,960",0.0,3.0,27.0,46.0,DDD
+475,D,2012-12-10 16:59:37,2012-12-07,DDD,Kever Jim D,Dir,M - OptEx,$4.07,20000,291129,+7%,"+$81,300",2.0,-1.0,31.0,52.0,DDD
+476,,2012-11-29 16:58:25,2012-11-28,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-6400,2273603,0%,-$0,-5.0,-7.0,8.0,53.0,DDD
+477,,2012-11-28 17:04:03,2012-11-27,DDD,Lewis Cathy L,VP,A - Grant,$0.00,13000,53000,+33%,+$0,-3.0,-10.0,5.0,60.0,DDD
+478,,2012-11-28 17:03:10,2012-11-27,DDD,Hull Charles W,"EVP, CTO",A - Grant,$0.00,20000,659010,+3%,+$0,-3.0,-10.0,5.0,60.0,DDD
+479,,2012-11-28 17:02:08,2012-11-27,DDD,McAlea Kevin,VP,A - Grant,$0.00,30000,141456,+27%,+$0,-3.0,-10.0,5.0,60.0,DDD
+480,,2012-11-28 17:00:49,2012-11-27,DDD,Gregoire Damon Joseph,"VP, CFO",A - Grant,$0.00,60000,236000,+34%,+$0,-3.0,-10.0,5.0,60.0,DDD
+481,,2012-11-28 16:59:07,2012-11-27,DDD,Reichental Abraham N,"Pres, CEO",A - Grant,$0.00,100000,1289379,+8%,+$0,-3.0,-10.0,5.0,60.0,DDD
+482,,2012-11-16 17:00:10,2012-11-15,DDD,Loewenbaum G Walter II,Dir,S - Sale,$39.36,-20000,2280003,-1%,"-$787,248",8.0,10.0,27.0,92.0,DDD
+483,,2012-11-13 16:26:51,2012-11-12,DDD,Hull Charles W,"EVP, CTO",S - Sale,$45.64,-2700,639010,0%,"-$123,235",0.0,-1.0,12.0,71.0,DDD
+484,,2012-11-13 16:24:10,2012-11-12,DDD,Hull Charles W,"EVP, CTO",S - Sale,$42.79,-3300,590710,-1%,"-$141,204",0.0,-1.0,12.0,71.0,DDD
+485,,2012-11-06 16:24:26,2012-11-05,DDD,Loewenbaum G Walter II,Dir,S - Sale,$42.46,-40000,2300003,-2%,"-$1,698,400",0.0,-3.0,0.0,52.0,DDD
+486,D,2012-10-31 16:19:28,2012-10-31,DDD,McAlea Kevin,VP,M - OptEx,$2.66,73000,111456,+190%,"+$193,815",4.0,0.0,9.0,37.0,DDD
+487,D,2012-10-31 16:19:28,2012-10-31,DDD,McAlea Kevin,VP,S - Sale+OE,$43.09,-73000,111456,-40%,"-$3,145,570",4.0,0.0,9.0,37.0,DDD
+488,,2012-10-11 09:39:47,2012-10-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$34.34,-286,645010,0%,"-$9,822",2.0,12.0,22.0,48.0,DDD
+489,,2012-10-11 09:37:35,2012-10-10,DDD,Hull Charles W,"EVP, CTO",P - Purchase,$34.11,200,594296,0%,"+$6,822",2.0,12.0,22.0,48.0,DDD
+490,,2012-10-11 09:37:35,2012-10-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$34.12,-5514,594296,-1%,"-$188,117",2.0,12.0,22.0,48.0,DDD
+491,A,2012-09-11 17:14:13,2012-09-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$38.73,-4362,601648,-1%,"-$168,935",-2.0,1.0,-13.0,18.0,DDD
+492,,2012-09-11 16:08:20,2012-09-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$39.30,-1638,651010,0%,"-$64,373",-2.0,1.0,-13.0,18.0,DDD
+493,,2012-09-11 16:06:55,2012-09-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$38.73,-4362,601648,-1%,"-$168,935",-2.0,1.0,-13.0,18.0,DDD
+494,,2012-09-07 16:28:00,2012-09-07,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-2500,1189379,0%,-$0,-4.0,-5.0,-11.0,19.0,DDD
+495,D,2012-09-07 16:26:51,2012-09-06,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-5000,1191879,0%,-$0,-4.0,-5.0,-11.0,19.0,DDD
+496,D,2012-09-07 16:26:51,2012-09-06,DDD,Reichental Abraham N,"Pres, CEO",M - OptEx,$3.61,611425,1191879,+105%,"+$2,206,939",-4.0,-5.0,-11.0,19.0,DDD
+497,D,2012-09-07 16:26:51,2012-09-06,DDD,Reichental Abraham N,"Pres, CEO",S - Sale+OE,$42.88,-132778,1191879,-10%,"-$5,693,521",-4.0,-5.0,-11.0,19.0,DDD
+498,D,2012-09-07 16:25:20,2012-09-05,DDD,Reichental Abraham N,"Pres, CEO",M - OptEx,$3.61,188575,718232,+36%,"+$680,661",-4.0,-5.0,-11.0,19.0,DDD
+499,D,2012-09-07 16:25:20,2012-09-05,DDD,Reichental Abraham N,"Pres, CEO",S - Sale+OE,$43.16,-188575,718232,-21%,"-$8,138,897",-4.0,-5.0,-11.0,19.0,DDD
+500,,2012-09-06 08:08:37,2012-09-04,DDD,Loewenbaum G Walter II,Dir,S - Sale,$43.82,-25000,2528791,-1%,"-$1,095,447",-1.0,-11.0,-15.0,15.0,DDD
+501,,2012-09-05 17:19:18,2012-08-31,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-2500,2553791,0%,-$0,-1.0,-9.0,-16.0,17.0,DDD
+502,,2012-09-05 17:09:49,2012-08-24,DDD,Loewenbaum G Walter II,Dir,S - Sale,$75.84,-25000,2556291,-1%,"-$1,896,013",-1.0,-9.0,-16.0,17.0,DDD
+503,,2012-08-27 10:04:36,2012-08-24,DDD,Loewenbaum G Walter II,Dir,S - Sale,$40.33,-3648,2581291,0%,"-$147,110",2.0,8.0,-15.0,37.0,DDD
+504,,2012-08-27 09:59:49,2012-04-30,DDD,Loewenbaum G Walter II,Dir,S - Sale,$29.48,-25000,2584939,-1%,"-$737,074",2.0,8.0,-15.0,37.0,DDD
+505,,2012-08-24 12:38:35,2012-08-23,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-6200,2609939,0%,-$0,-4.0,1.0,-15.0,30.0,DDD
+506,,2012-08-17 10:08:53,2012-08-16,DDD,Loewenbaum G Walter II,Dir,S - Sale,$40.42,-12500,2616139,0%,"-$505,255",0.0,3.0,-3.0,47.0,DDD
+507,,2012-08-16 11:29:23,2012-08-15,DDD,Loewenbaum G Walter II,Dir,S - Sale,$39.93,-12500,2628639,0%,"-$499,115",2.0,5.0,-1.0,51.0,DDD
+508,,2012-08-14 16:08:22,2012-08-14,DDD,Gregoire Damon Joseph,"VP, CFO",S - Sale,$40.30,-2500,176000,-1%,"-$100,756",1.0,4.0,-4.0,57.0,DDD
+509,,2012-08-14 13:04:51,2012-08-13,DDD,Gregoire Damon Joseph,"VP, CFO",S - Sale,$40.20,-12500,178500,-7%,"-$502,553",-1.0,3.0,-4.0,57.0,DDD
+510,,2012-08-13 11:50:29,2012-08-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$40.11,-1745,606010,0%,"-$69,987",0.0,2.0,-2.0,64.0,DDD
+511,,2012-08-13 11:48:21,2012-08-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$39.80,-4255,658755,-1%,"-$169,367",0.0,2.0,-2.0,64.0,DDD
+512,,2012-08-13 11:47:03,2012-08-10,DDD,Loewenbaum G Walter II,Dir,S - Sale,$39.93,-30000,2641139,-1%,"-$1,198,040",0.0,2.0,-2.0,64.0,DDD
+513,,2012-08-10 16:16:45,2012-08-10,DDD,Johnson Andrew Martin,"VP, GC, Secretar",S - Sale,$39.75,-2700,33300,-8%,"-$107,325",0.0,2.0,-3.0,58.0,DDD
+514,D,2012-08-08 09:23:27,2012-08-07,DDD,Moore Kevin S,Dir,M - OptEx,$4.07,20000,54865,+57%,"+$81,300",1.0,2.0,10.0,72.0,DDD
+515,D,2012-08-08 09:23:27,2012-08-07,DDD,Moore Kevin S,Dir,S - Sale+OE,$38.81,-20000,54865,-27%,"-$776,277",1.0,2.0,10.0,72.0,DDD
+516,,2012-08-01 17:07:08,2012-07-31,DDD,McAlea Kevin,VP,S - Sale,$37.96,-22000,111456,-16%,"-$835,170",-1.0,4.0,19.0,56.0,DDD
+517,,2012-08-01 17:06:03,2012-07-31,DDD,McAlea Kevin,VP,S - Sale,$37.69,-9700,133456,-7%,"-$365,564",-1.0,4.0,19.0,56.0,DDD
+518,D,2012-08-01 17:04:34,2012-07-31,DDD,McAlea Kevin,VP,M - OptEx,$2.66,37000,143156,+35%,"+$98,235",-1.0,4.0,19.0,56.0,DDD
+519,D,2012-08-01 17:04:34,2012-07-31,DDD,McAlea Kevin,VP,S - Sale+OE,$37.22,-5300,143156,-4%,"-$197,290",-1.0,4.0,19.0,56.0,DDD
+520,,2012-07-12 10:26:53,2012-07-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$34.70,-1617,612010,0%,"-$56,113",-2.0,8.0,20.0,83.0,DDD
+521,,2012-07-12 10:25:52,2012-07-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$33.77,-4383,664627,-1%,"-$148,005",-2.0,8.0,20.0,83.0,DDD
+522,,2012-06-13 08:14:02,2012-06-11,DDD,Hull Charles W,"EVP, CTO",S - Sale,$32.05,-324,618010,0%,"-$10,383",-7.0,-2.0,2.0,47.0,DDD
+523,,2012-06-13 08:11:49,2012-06-11,DDD,Hull Charles W,"EVP, CTO",S - Sale,$31.53,-5676,669334,-1%,"-$178,979",-7.0,-2.0,2.0,47.0,DDD
+524,,2012-06-01 11:32:18,2012-05-31,DDD,Loewenbaum G Walter II,Dir,S - Sale,$29.85,-13800,2671139,-1%,"-$411,930",-5.0,3.0,12.0,47.0,DDD
+525,,2012-06-01 11:30:53,2012-05-30,DDD,Loewenbaum G Walter II,Dir,S - Sale,$31.26,-20000,2684939,-1%,"-$625,291",-5.0,3.0,12.0,47.0,DDD
+526,,2012-05-31 11:37:38,2012-05-29,DDD,Loewenbaum G Walter II,Dir,S - Sale,$31.60,-20000,2704939,-1%,"-$631,900",-2.0,5.0,7.0,52.0,DDD
+527,,2012-05-16 13:11:55,2012-05-15,DDD,Welke Karen E,Dir,A - Grant,$0.00,1823,24565,+8%,+$0,-3.0,4.0,5.0,52.0,DDD
+528,,2012-05-16 13:10:51,2012-05-15,DDD,Van Riper Daniel S,Dir,A - Grant,$0.00,1823,45211,+4%,+$0,-3.0,4.0,5.0,52.0,DDD
+529,,2012-05-16 13:09:40,2012-05-15,DDD,Moore Kevin S,Dir,A - Grant,$0.00,1823,54865,+3%,+$0,-3.0,4.0,5.0,52.0,DDD
+530,,2012-05-16 13:08:22,2012-05-15,DDD,Loewenbaum G Walter II,Dir,A - Grant,$0.00,1823,2724939,0%,+$0,-3.0,4.0,5.0,52.0,DDD
+531,,2012-05-16 13:07:11,2012-05-15,DDD,Kever Jim D,Dir,A - Grant,$0.00,1823,271129,+1%,+$0,-3.0,4.0,5.0,52.0,DDD
+532,,2012-05-16 13:05:32,2012-05-15,DDD,Curran William Edward,Dir,A - Grant,$0.00,1823,26505,+7%,+$0,-3.0,4.0,5.0,52.0,DDD
+533,,2012-05-15 16:26:43,2012-05-14,DDD,Johnson Andrew Martin,"VP, GC, Secretar",A - Grant,$0.00,13000,36000,+57%,+$0,-3.0,0.0,8.0,52.0,DDD
+534,,2012-05-11 14:03:39,2012-05-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$28.58,-450,675010,0%,"-$12,863",-1.0,-6.0,13.0,66.0,DDD
+535,,2012-05-11 14:02:23,2012-05-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$28.01,-5550,624460,-1%,"-$155,432",-1.0,-6.0,13.0,66.0,DDD
+536,,2012-05-07 15:41:44,2012-05-04,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-12500,2723116,0%,-$0,2.0,-4.0,8.0,50.0,DDD
+537,,2012-05-04 09:02:06,2012-05-02,DDD,Grace Robert M Jr,"Officer until April 27, 2012",G - Gift,$0.00,-30000,10000,-75%,-$0,-2.0,-5.0,2.0,46.0,DDD
+538,,2012-05-03 14:25:38,2012-05-02,DDD,Loewenbaum G Walter II,Dir,S - Sale,$30.85,-5000,2735616,0%,"-$154,250",-3.0,-6.0,-4.0,51.0,DDD
+539,,2012-05-02 14:10:34,2012-05-01,DDD,Loewenbaum G Walter II,Dir,S - Sale,$30.98,-60442,2740616,-2%,"-$1,872,296",-3.0,-6.0,-2.0,40.0,DDD
+540,,2012-05-01 17:05:52,2012-04-30,DDD,Reichental Abraham N,"Pres, CEO",S - Sale,$29.53,-40000,718232,-5%,"-$1,181,200",-4.0,-6.0,0.0,39.0,DDD
+541,,2012-05-01 12:36:34,2012-04-30,DDD,Loewenbaum G Walter II,Dir,S - Sale,$29.44,-24558,2801058,-1%,"-$722,954",6.0,-1.0,5.0,45.0,DDD
+542,,2012-05-01 12:32:52,2012-04-30,DDD,Gregoire Damon Joseph,"VP, CFO",S - Sale,$29.36,-15000,191000,-7%,"-$440,425",6.0,-1.0,5.0,45.0,DDD
+543,,2012-04-12 12:51:39,2012-04-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$23.40,-1475,681010,0%,"-$34,509",6.0,19.0,20.0,47.0,DDD
+544,,2012-04-12 12:48:56,2012-04-10,DDD,Hull Charles W,"EVP, CTO",S - Sale,$22.55,-4525,631485,-1%,"-$102,020",6.0,19.0,20.0,47.0,DDD
+545,A,2012-03-21 11:15:23,2012-02-28,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-5000,758232,-1%,-$0,2.0,3.0,19.0,66.0,DDD
+546,,2012-03-21 10:41:07,2012-02-27,DDD,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-5000,758232,-1%,-$0,2.0,3.0,19.0,66.0,DDD
+547,,2012-03-16 15:30:45,2012-03-15,DDD,Hull Charles W,"EVP, CTO",S - Sale,$23.33,-600,687010,0%,"-$13,998",-1.0,0.0,13.0,66.0,DDD
+548,,2012-03-16 15:29:40,2012-03-15,DDD,Hull Charles W,"EVP, CTO",S - Sale,$23.20,-5400,636610,-1%,"-$125,298",-1.0,0.0,13.0,66.0,DDD
+549,,2012-03-13 14:26:21,2012-03-12,DDD,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-800,2148880,0%,-$0,1.0,7.0,6.0,80.0,DDD
+550,,2012-03-13 14:26:21,2012-03-12,DDD,Loewenbaum G Walter II,Dir,S - Sale,$21.70,-20000,2148880,-1%,"-$434,020",1.0,7.0,6.0,80.0,DDD
+551,,2012-03-07 14:22:04,2012-03-06,DDD,Loewenbaum G Walter II,Dir,S - Sale,$21.75,-10000,2846416,0%,"-$217,540",1.0,1.0,14.0,101.0,DDD
+552,AD,2012-03-01 13:55:32,2012-02-27,DDD,Grace Robert M Jr,"VP, GC, Secretar",G - Gift,$0.00,-70224,40000,-64%,-$0,2.0,-2.0,5.0,92.0,DDD
+553,AD,2012-03-01 13:55:32,2012-02-27,DDD,Grace Robert M Jr,"VP, GC, Secretar",M - OptEx,$4.80,80000,40000,-200%,"+$384,000",2.0,-2.0,5.0,92.0,DDD
+554,AD,2012-03-01 13:55:32,2012-02-27,DDD,Grace Robert M Jr,"VP, GC, Secretar",S - Sale+OE,$24.59,-80000,40000,-67%,"-$1,967,541",2.0,-2.0,5.0,92.0,DDD
+555,D,2012-02-29 11:43:53,2012-02-27,DDD,Moore Kevin S,Dir,M - OptEx,$7.12,20000,53042,+61%,"+$142,400",-5.0,-8.0,-2.0,74.0,DDD
+556,D,2012-02-29 11:43:53,2012-02-27,DDD,Moore Kevin S,Dir,S - Sale+OE,$24.68,-20000,53042,-27%,"-$493,502",-5.0,-8.0,-2.0,74.0,DDD
+557,,2012-02-29 10:14:19,2012-02-28,DDD,Loewenbaum G Walter II,Dir,S - Sale,$24.45,-1000,2856416,0%,"-$24,450",-5.0,-8.0,-2.0,74.0,DDD
+558,D,2012-02-28 17:06:25,2012-02-27,DDD,Grace Robert M Jr,"VP, GC, Secretar",G - Gift,$0.00,-70224,40000,-64%,-$0,-5.0,-6.0,-1.0,68.0,DDD
+559,,2012-02-28 16:22:47,2012-02-27,DDD,Loewenbaum G Walter II,Dir,S - Sale,$24.65,-34000,1904534,-2%,"-$838,211",-5.0,-6.0,-1.0,68.0,DDD
+560,,2012-02-27 13:01:48,2011-04-05,DDD,Hull Charles W,"EVP, CTO",S - Sale,$41.80,-9000,336505,-3%,"-$376,200",2.0,-7.0,-1.0,74.0,DDD
+561,,2011-12-12 16:59:11,2011-12-09,TDSC,Moore Kevin S,Dir,W - Inherited,$0.00,81250,2889506,-3%,$0,,,,,DDD
+562,A,2011-11-30 15:08:02,2011-11-16,TDSC,Moore Kevin S,Dir,S - Sale,$20.90,-204000,2970756,-6%,"-$4,263,600",,,,,DDD
+563,,2011-11-16 10:33:45,2011-11-15,TDSC,Reichental Abraham N,"Pres, CEO",A - Grant,$0.00,100000,763232,+15%,+$0,,,,,DDD
+564,,2011-11-16 10:32:37,2011-11-15,TDSC,McAlea Kevin,VP,A - Grant,$0.00,30000,111456,+37%,+$0,,,,,DDD
+565,,2011-11-16 10:30:18,2011-11-15,TDSC,Hull Charles W,"EVP, CTO",A - Grant,$0.00,20000,711010,+3%,+$0,,,,,DDD
+566,,2011-11-16 10:28:49,2011-11-15,TDSC,Gregoire Damon Joseph,"VP, CFO",A - Grant,$0.00,60000,206000,+41%,+$0,,,,,DDD
+567,,2011-11-16 10:27:30,2011-11-16,TDSC,Moore Kevin S,Dir,A - Grant,$0.00,2012,3174756,0%,+$0,,,,,DDD
+568,,2011-08-22 13:52:03,2011-08-18,TDSC,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-3078,2891416,0%,-$0,,,,,DDD
+569,,2011-08-04 13:51:51,2011-08-03,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$19.82,-18000,2894494,-1%,"-$356,751",,,,,DDD
+570,,2011-08-03 13:45:02,2011-08-02,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$20.28,-12000,2912494,0%,"-$243,400",,,,,DDD
+571,,2011-06-10 10:20:38,2011-06-09,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$17.88,-10000,2924494,0%,"-$178,800",,,,,DDD
+572,D,2011-06-09 10:48:54,2011-06-07,TDSC,McAlea Kevin,VP,M - OptEx,$7.58,50000,81456,+159%,"+$379,000",,,,,DDD
+573,D,2011-06-09 10:48:54,2011-06-07,TDSC,McAlea Kevin,VP,S - Sale+OE,$18.14,-50000,81456,-38%,"-$907,144",,,,,DDD
+574,,2011-06-09 09:44:35,2011-06-08,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$17.65,-20000,2934494,-1%,"-$353,016",,,,,DDD
+575,D,2011-05-20 14:34:14,2011-05-18,TDSC,Reichental Abraham N,"Pres, CEO",A - Grant,$0.00,331616,663232,+100%,+$0,,,,,DDD
+576,D,2011-05-20 14:33:15,2011-05-18,TDSC,McAlea Kevin,VP,A - Grant,$0.00,40728,81456,+100%,+$0,,,,,DDD
+577,D,2011-05-20 14:31:02,2011-05-18,TDSC,Grace Robert M Jr,Dir,A - Grant,$0.00,55112,110224,+100%,+$0,,,,,DDD
+578,,2011-05-19 17:01:39,2011-05-18,TDSC,Lewis Cathy L,VP,A - Grant,$0.00,20000,40000,+100%,+$0,,,,,DDD
+579,,2011-05-19 17:01:05,2011-05-18,TDSC,Hull Charles W,"EVP, CTO",A - Grant,$0.00,345505,691010,+100%,+$0,,,,,DDD
+580,,2011-05-19 17:00:00,2011-05-18,TDSC,Gregoire Damon Joseph,"VP, CFO",A - Grant,$0.00,73000,146000,+100%,+$0,,,,,DDD
+581,D,2011-05-19 15:12:14,2011-05-18,TDSC,Moore Kevin S,Dir,A - Grant,$0.00,1588749,3174756,+100%,+$0,,,,,DDD
+582,D,2011-05-19 15:11:08,2011-05-18,TDSC,Kever Jim D,Dir,A - Grant,$0.00,136024,269306,+102%,+$0,,,,,DDD
+583,,2011-05-19 15:09:48,2011-05-18,TDSC,Loewenbaum G Walter II,Dir,A - Grant,$0.00,1475344,2947946,+100%,+$0,,,,,DDD
+584,,2011-05-19 15:08:48,2011-05-18,TDSC,Welke Karen E,Dir,A - Grant,$0.00,12742,22742,+127%,+$0,,,,,DDD
+585,,2011-05-19 15:07:54,2011-05-18,TDSC,Van Riper Daniel S,Dir,A - Grant,$0.00,23065,43388,+113%,+$0,,,,,DDD
+586,,2011-05-19 15:06:53,2011-05-18,TDSC,Curran William Edward,Dir,A - Grant,$0.00,13712,24682,+125%,+$0,,,,,DDD
+587,D,2011-05-06 11:53:30,2011-05-05,TDSC,Moore Kevin S,Dir,M - OptEx,$16.06,10000,1586007,+1%,"+$160,550",,,,,DDD
+588,D,2011-05-06 11:53:30,2011-05-05,TDSC,Moore Kevin S,Dir,S - Sale+OE,$39.19,-10000,1586007,-1%,"-$391,875",,,,,DDD
+589,D,2011-05-06 11:52:11,2011-05-05,TDSC,Kever Jim D,Dir,M - OptEx,$16.06,10000,133282,+8%,"+$160,550",,,,,DDD
+590,D,2011-05-06 11:52:11,2011-05-05,TDSC,Kever Jim D,Dir,S - Sale+OE,$39.15,-10000,133282,-7%,"-$391,504",,,,,DDD
+591,,2011-03-16 16:58:32,2011-03-16,TDSC,Hull Charles W,"EVP, CTO",S - Sale,$41.80,-60000,345505,-15%,"-$2,508,000",,,,,DDD
+592,,2011-03-16 16:57:44,2011-03-16,TDSC,Moore Kevin S,Dir,S - Sale,$41.80,-680000,1586007,-30%,"-$28,424,000",,,,,DDD
+593,D,2011-03-02 16:42:11,2011-02-17,TDSC,Hull Charles W,"EVP, CTO",M - OptEx,$12.59,10000,405505,+3%,"+$125,938",,,,,DDD
+594,,2011-03-02 09:53:13,2011-03-01,TDSC,Hull Charles W,"EVP, CTO",S - Sale,$49.52,-3000,395505,-1%,"-$148,574",,,,,DDD
+595,,2011-02-24 15:50:37,2011-02-22,TDSC,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-1000,1472602,0%,-$0,,,,,DDD
+596,,2011-02-23 11:14:16,2011-02-22,TDSC,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-10000,1473602,-1%,-$0,,,,,DDD
+597,,2011-02-10 08:51:34,2011-02-08,TDSC,Lewis Cathy L,VP,A - Grant,$0.00,5000,20000,+33%,+$0,,,,,DDD
+598,,2011-02-02 13:25:37,2011-02-01,TDSC,Hull Charles W,"EVP, CTO",S - Sale,$29.02,-3000,398505,-1%,"-$87,057",,,,,DDD
+599,D,2011-01-06 14:06:32,2011-01-04,TDSC,Loewenbaum G Walter II,Dir,M - OptEx,$11.32,85000,1483602,+6%,"+$962,550",,,,,DDD
+600,,2011-01-05 08:11:17,2011-01-03,TDSC,Hull Charles W,"EVP, CTO",S - Sale,$32.05,-3000,401505,-1%,"-$96,151",,,,,DDD
+601,,2010-12-21 10:55:10,2010-12-20,TDSC,Reichental Abraham N,"Pres, CEO",G - Gift,$0.00,-1000,331616,0%,-$0,,,,,DDD
+602,,2010-12-15 11:01:18,2010-12-14,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$29.61,-3055,1428886,0%,"-$90,458",,,,,DDD
+603,,2010-12-14 16:47:49,2010-12-13,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$30.95,-7205,1431941,-1%,"-$222,961",,,,,DDD
+604,,2010-12-13 12:05:45,2010-12-10,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$30.87,-16740,1439146,-1%,"-$516,810",,,,,DDD
+605,,2010-12-02 09:49:50,2010-12-01,TDSC,Hull Charles W,"EVP, CTO",S - Sale,$28.98,-3000,404505,-1%,"-$86,945",,,,,DDD
+606,,2010-11-19 11:26:00,2010-11-17,TDSC,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-820,1455886,0%,-$0,,,,,DDD
+607,,2010-11-17 08:50:34,2010-11-15,TDSC,Gregoire Damon Joseph,"VP, CFO",A - Grant,$0.00,30000,73000,+70%,+$0,,,,,DDD
+608,,2010-11-17 08:49:24,2010-11-15,TDSC,McAlea Kevin,VP,A - Grant,$0.00,10000,40728,+33%,+$0,,,,,DDD
+609,,2010-11-17 08:47:55,2010-11-15,TDSC,Reichental Abraham N,"Pres, CEO",A - Grant,$0.00,50000,332616,+18%,+$0,,,,,DDD
+610,,2010-11-09 11:48:13,2010-11-08,TDSC,McAlea Kevin,VP,M - OptEx,$15.16,14749,30728,+92%,"+$223,595",,,,,DDD
+611,,2010-11-09 11:48:13,2010-11-08,TDSC,McAlea Kevin,VP,S - Sale,$27.11,-14749,30728,-32%,"-$399,812",,,,,DDD
+612,,2010-11-08 11:21:03,2010-11-05,TDSC,McAlea Kevin,VP,S - Sale,$27.99,-893,30728,-3%,"-$24,994",,,,,DDD
+613,,2010-11-08 11:18:18,2010-11-05,TDSC,McAlea Kevin,VP,M - OptEx,$15.16,18983,31621,+150%,"+$287,782",,,,,DDD
+614,,2010-11-08 11:18:18,2010-11-05,TDSC,McAlea Kevin,VP,S - Sale,$27.55,-18090,31621,-36%,"-$498,414",,,,,DDD
+615,,2010-11-05 14:24:54,2010-11-04,TDSC,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-25710,1456706,-2%,-$0,,,,,DDD
+616,,2010-11-05 11:28:34,2010-11-04,TDSC,McAlea Kevin,VP,M - OptEx,$15.16,16268,30728,+113%,"+$246,623",,,,,DDD
+617,,2010-11-05 11:28:34,2010-11-04,TDSC,McAlea Kevin,VP,S - Sale,$28.49,-16268,30728,-35%,"-$463,451",,,,,DDD
+618,,2010-11-05 09:58:59,2010-11-04,TDSC,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-190,1482416,0%,-$0,,,,,DDD
+619,,2010-11-04 12:28:28,2010-11-02,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$26.26,-20000,1119555,-2%,"-$525,231",,,,,DDD
+620,,2010-11-02 09:04:07,2010-11-01,TDSC,Hull Charles W,"EVP, CTO",S - Sale,$26.54,-3000,407505,-1%,"-$79,610",,,,,DDD
+621,,2010-10-04 10:01:06,2010-10-01,TDSC,Hull Charles W,"EVP, Chief Technical Officer",S - Sale,$15.70,-3000,410505,-1%,"-$47,090",,,,,DDD
+622,,2010-09-14 13:27:23,2010-09-13,TDSC,Hull Charles W,"EVP, Chief Technical Officer",S - Sale,$14.00,-3000,413505,-1%,"-$42,000",,,,,DDD
+623,,2010-09-13 13:58:35,2010-09-09,TDSC,Moore Kevin S,Dir,P - Purchase,$13.17,3400,2266007,0%,"+$44,765",,,,,DDD
+624,,2010-09-09 08:46:09,2010-09-08,TDSC,Moore Kevin S,Dir,P - Purchase,$13.19,3500,2262607,0%,"+$46,162",,,,,DDD
+625,,2010-09-08 10:33:41,2010-09-07,TDSC,Moore Kevin S,Dir,P - Purchase,$13.09,5700,2259107,0%,"+$74,612",,,,,DDD
+626,,2010-09-07 10:51:20,2010-09-03,TDSC,Moore Kevin S,Dir,P - Purchase,$13.19,400,2253407,0%,"+$5,276",,,,,DDD
+627,,2010-09-03 16:45:12,2010-09-02,TDSC,Moore Kevin S,Dir,P - Purchase,$13.10,4700,2253007,0%,"+$61,570",,,,,DDD
+628,,2010-08-03 10:22:11,2010-08-02,TDSC,Hull Charles W,"EVP, Chief Technical Officer",S - Sale,$15.39,-3000,416505,-1%,"-$46,159",,,,,DDD
+629,,2010-07-27 09:06:39,2010-07-26,TDSC,Hull Charles W,"EVP, Chief Technical Officer",S - Sale,$14.00,-3000,419505,-1%,"-$42,000",,,,,DDD
+630,,2010-06-22 09:35:21,2010-06-21,TDSC,Hull Charles W,"EVP, Chief Technical Officer",S - Sale,$14.09,-3000,422505,-1%,"-$42,270",,,,,DDD
+631,,2010-05-18 16:30:08,2010-05-18,TDSC,Welke Karen E,Dir,A - Grant,$0.00,3000,10000,+43%,+$0,,,,,DDD
+632,,2010-05-18 16:29:16,2010-05-18,TDSC,Van Riper Daniel S,Dir,A - Grant,$0.00,3000,20323,+17%,+$0,,,,,DDD
+633,,2010-05-18 16:28:29,2010-05-18,TDSC,Moore Kevin S,Dir,A - Grant,$0.00,3000,2248307,0%,+$0,,,,,DDD
+634,,2010-05-18 16:27:35,2010-05-18,TDSC,Loewenbaum G Walter II,Dir,A - Grant,$0.00,3000,1502606,0%,+$0,,,,,DDD
+635,,2010-05-18 16:26:06,2010-05-18,TDSC,Kever Jim D,Dir,A - Grant,$0.00,3000,133282,+2%,+$0,,,,,DDD
+636,,2010-05-18 16:24:46,2010-05-18,TDSC,Curran William Edward,Dir,A - Grant,$0.00,3000,10970,+38%,+$0,,,,,DDD
+637,,2010-05-04 10:48:11,2010-05-03,TDSC,Hull Charles W,"EVP, Chief Technical Officer",S - Sale,$15.41,-3000,425505,-1%,"-$46,220",,,,,DDD
+638,,2010-04-06 16:07:31,2010-04-05,TDSC,Hull Charles W,"EVP, Chief Technical Officer",S - Sale,$14.00,-3000,428505,-1%,"-$42,000",,,,,DDD
+639,D,2010-03-04 16:15:58,2010-03-03,TDSC,Gold Miriam V,Dir,M - OptEx,$10.69,7500,25800,+41%,"+$80,156",,,,,DDD
+640,D,2010-03-04 16:15:58,2010-03-03,TDSC,Gold Miriam V,Dir,S - Sale+OE,$14.75,-7500,25800,-23%,"-$110,605",,,,,DDD
+641,D,2010-03-02 16:18:35,2010-03-01,TDSC,Moore Kevin S,Dir,M - OptEx,$10.69,7500,2245307,0%,"+$80,156",,,,,DDD
+642,D,2010-03-02 16:18:35,2010-03-01,TDSC,Moore Kevin S,Dir,S - Sale+OE,$14.73,-7500,2245307,0%,"-$110,480",,,,,DDD
+643,A,2009-12-22 12:32:44,2008-05-13,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$8.76,50000,613020,+9%,"+$438,152",,,,,DDD
+644,A,2009-12-22 11:49:37,2009-09-03,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$8.02,2513,110847,+2%,"+$20,154",,,,,DDD
+645,,2009-11-20 12:15:47,2009-11-10,TDSC,Loewenbaum G Walter II,Dir,G - Gift,$0.00,-1000,1498906,0%,-$0,,,,,DDD
+646,,2009-11-20 12:15:47,2009-11-19,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$10.00,1053,1498906,0%,"+$10,526",,,,,DDD
+647,,2009-09-16 08:53:04,2009-09-15,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$9.16,800,1498853,0%,"+$7,324",,,,,DDD
+648,,2009-09-15 09:32:31,2009-09-14,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$8.79,5200,1498053,0%,"+$45,709",,,,,DDD
+649,,2009-09-14 11:34:19,2009-09-11,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$8.52,4979,1492853,0%,"+$42,437",,,,,DDD
+650,,2009-09-04 10:26:33,2009-09-03,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$8.01,1813,1487874,0%,"+$14,524",,,,,DDD
+651,,2009-08-17 14:54:59,2009-08-14,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$7.25,4116,1486061,0%,"+$29,851",,,,,DDD
+652,,2009-08-17 10:37:43,2009-08-14,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$7.28,5479,1481945,0%,"+$39,889",,,,,DDD
+653,,2009-08-14 10:36:43,2009-08-13,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$7.52,1250,1476466,0%,"+$9,404",,,,,DDD
+654,,2009-08-13 11:47:29,2009-08-12,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$7.77,1000,1475216,0%,"+$7,770",,,,,DDD
+655,,2009-08-12 14:03:23,2009-08-11,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$7.21,2801,1474216,0%,"+$20,195",,,,,DDD
+656,,2009-08-05 16:09:55,2009-07-21,TDSC,Gregoire Damon Joseph,"VP, CFO",A - Grant,$0.00,10000,43000,+30%,+$0,,,,,DDD
+657,,2009-05-20 15:49:43,2009-05-19,TDSC,Van Riper Daniel S,Dir,A - Grant,$0.00,3000,17323,+21%,+$0,,,,,DDD
+658,,2009-05-20 15:48:27,2009-05-19,TDSC,Welke Karen E,Dir,A - Grant,$0.00,3000,7000,+75%,+$0,,,,,DDD
+659,,2009-05-20 15:46:15,2009-05-19,TDSC,Moore Kevin S,Dir,A - Grant,$0.00,3000,2245307,0%,+$0,,,,,DDD
+660,D,2009-05-20 15:45:13,2009-05-19,TDSC,Kever Jim D,Dir,A - Grant,$0.00,3000,130282,+2%,+$0,,,,,DDD
+661,D,2009-05-20 15:45:13,2009-05-19,TDSC,Kever Jim D,Dir,M - OptEx,$5.63,7500,130282,+6%,"+$42,225",,,,,DDD
+662,,2009-05-20 15:44:15,2009-05-19,TDSC,Gold Miriam V,Dir,A - Grant,$0.00,3000,25800,+13%,+$0,,,,,DDD
+663,,2009-05-20 15:42:27,2009-05-19,TDSC,Curran William Edward,Dir,A - Grant,$0.00,3000,7970,+60%,+$0,,,,,DDD
+664,,2009-05-20 15:41:00,2009-05-19,TDSC,Loewenbaum G Walter II,Dir,A - Grant,$0.00,3000,1471415,0%,+$0,,,,,DDD
+665,D,2009-05-15 12:38:20,2009-05-14,TDSC,Gold Miriam V,Dir,M - OptEx,$5.63,7500,22800,+49%,"+$42,225",,,,,DDD
+666,D,2009-05-15 12:38:20,2009-05-14,TDSC,Gold Miriam V,Dir,S - Sale+OE,$6.65,-7500,22800,-25%,"-$49,853",,,,,DDD
+667,,2009-03-23 15:21:58,2009-03-20,TDSC,McAlea Kevin,VP,A - Grant,$0.68,15000,30728,+95%,"+$10,200",,,,,DDD
+668,,2009-03-23 15:08:32,2009-03-20,TDSC,Grace Robert M Jr,"VP, GC, Sec",A - Grant,$0.68,15000,55112,+37%,"+$10,200",,,,,DDD
+669,,2009-03-23 14:55:10,2009-03-20,TDSC,Hull Charles W,"EVP, Chief Technical Officer",A - Grant,$0.68,5000,431505,+1%,"+$3,400",,,,,DDD
+670,,2009-03-23 14:50:32,2009-03-20,TDSC,Gregoire Damon Joseph,"VP, CFO",A - Grant,$0.68,15000,33000,+83%,"+$10,200",,,,,DDD
+671,,2009-03-23 14:39:02,2009-03-20,TDSC,Reichental Abraham N,"Pres, CEO",A - Grant,$0.68,50000,282616,+21%,"+$34,000",,,,,DDD
+672,,2009-03-11 10:49:00,2009-03-10,TDSC,Reichental Abraham N,"Pres, CEO",P - Purchase,$4.74,2500,462732,+1%,"+$11,847",,,,,DDD
+673,,2009-03-10 12:38:24,2009-03-09,TDSC,Gregoire Damon Joseph,"VP, CFO",P - Purchase,$4.94,3000,33000,+10%,"+$14,827",,,,,DDD
+674,A,2009-01-15 13:40:17,2008-05-30,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$9.11,14031,3015589,0%,"+$127,805",,,,,DDD
+675,A,2009-01-15 11:26:27,2008-05-29,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$9.01,5000,1417016,0%,"+$45,050",,,,,DDD
+676,,2008-12-08 17:34:27,2008-12-05,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$5.77,437,1468415,0%,"+$2,521",,,,,DDD
+677,A,2008-11-26 12:31:59,2008-11-21,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$6.61,1959,1467978,0%,"+$12,949",,,,,DDD
+678,A,2008-11-26 12:19:05,2008-11-20,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$6.61,1041,1459088,0%,"+$6,881",,,,,DDD
+679,A,2008-11-26 12:06:52,2008-11-19,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$7.05,22000,1458047,+2%,"+$155,100",,,,,DDD
+680,,2008-11-24 11:01:38,2008-11-21,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$5.88,6931,1467978,0%,"+$40,738",,,,,DDD
+681,,2008-11-21 14:38:01,2008-11-20,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$6.61,1041,1459088,0%,"+$6,881",,,,,DDD
+682,,2008-11-20 14:56:01,2008-11-19,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$7.05,22000,1458047,+2%,"+$155,100",,,,,DDD
+683,,2008-06-09 14:39:24,2008-06-06,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$9.93,5000,1436047,0%,"+$49,650",,,,,DDD
+684,,2008-06-02 16:15:19,2008-05-30,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$9.11,14031,1431047,+1%,"+$127,805",,,,,DDD
+685,,2008-05-30 15:43:05,2008-05-29,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$9.01,5000,1417016,0%,"+$45,050",,,,,DDD
+686,,2008-05-29 14:29:27,2008-05-28,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$8.95,5000,1412016,0%,"+$44,743",,,,,DDD
+687,,2008-05-28 14:24:36,2008-05-27,TDSC,Loewenbaum G Walter II,Dir,A - Grant,$8.91,1500,1407016,0%,"+$13,365",,,,,DDD
+688,,2008-05-27 17:53:19,2008-05-23,TDSC,Loewenbaum G Walter II,Dir,A - Grant,$8.92,10000,1405516,+1%,"+$89,200",,,,,DDD
+689,,2008-05-21 16:24:59,2008-05-20,TDSC,Moore Kevin S,Dir,A - Grant,$0.00,3000,2242307,0%,+$0,,,,,DDD
+690,,2008-05-21 16:13:27,2008-05-20,TDSC,Kever Jim D,Dir,A - Grant,$0.00,3000,119782,+3%,+$0,,,,,DDD
+691,,2008-05-21 16:01:05,2008-05-20,TDSC,Gold Miriam V,Dir,A - Grant,$0.00,3000,22800,+15%,+$0,,,,,DDD
+692,,2008-05-21 15:51:46,2008-05-20,TDSC,Curran William Edward,Dir,A - Grant,$0.00,3000,4970,+152%,+$0,,,,,DDD
+693,,2008-05-21 15:42:09,2008-05-20,TDSC,Van Riper Daniel S,Dir,A - Grant,$0.00,3000,14323,+26%,+$0,,,,,DDD
+694,,2008-05-21 15:26:46,2008-05-20,TDSC,Loewenbaum G Walter II,Dir,A - Grant,$0.00,3000,1395516,0%,+$0,,,,,DDD
+695,,2008-05-20 17:48:20,2008-05-20,TDSC,Welke Karen E,Dir,A - Grant,$0.00,4000,4000,New,+$0,,,,,DDD
+696,,2008-05-15 17:29:59,2008-05-13,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$8.76,50000,1392516,+4%,"+$438,152",,,,,DDD
+697,,2008-05-14 17:43:33,2008-05-13,TDSC,Reichental Abraham N,"Pres, CEO",P - Purchase,$8.86,6000,230116,+3%,"+$53,140",,,,,DDD
+698,A,2008-05-13 17:14:16,2008-03-19,TDSC,McAlea Kevin,VP,A - Grant,$1.00,0,15728,0%,+$0,,,,,DDD
+699,A,2008-05-13 17:03:36,2008-03-19,TDSC,Hull Charles W,"EVP, Chief Tech Officer",A - Grant,$1.00,0,500,0%,+$0,,,,,DDD
+700,A,2008-05-13 16:51:12,2008-03-19,TDSC,Gregoire Damon Joseph,"VP, CFO",A - Grant,$1.00,0,15000,0%,+$0,,,,,DDD
+701,,2008-03-20 15:16:03,2008-03-19,TDSC,Hull Charles W,"EVP, Chief Tech Officer",A - Grant,$1.00,2600,429105,+1%,"+$2,600",,,,,DDD
+702,,2008-03-20 15:01:40,2008-03-19,TDSC,McAlea Kevin,VP,A - Grant,$1.00,4800,20528,+31%,"+$4,800",,,,,DDD
+703,,2008-03-20 14:45:10,2008-03-19,TDSC,Gregoire Damon Joseph,"VP, CFO",A - Grant,$1.00,4800,19800,+32%,"+$4,800",,,,,DDD
+704,,2008-01-25 15:52:33,2008-01-24,TDSC,Curran William Edward,Dir,A - Grant,$0.00,1970,1970,New,+$0,,,,,DDD
+705,D,2008-01-10 12:34:21,2008-01-09,TDSC,Kever Jim D,Dir,M - OptEx,$9.50,7500,116782,+7%,"+$71,250",,,,,DDD
+706,D,2008-01-08 12:46:29,2008-01-07,TDSC,Loewenbaum G Walter II,Dir,M - OptEx,$6.61,50000,1342516,+4%,"+$330,625",,,,,DDD
+707,D,2008-01-08 11:49:55,2008-01-07,TDSC,Moore Kevin S,Dir,M - OptEx,$5.94,3144,2239307,0%,"+$18,668",,,,,DDD
+708,D,2008-01-04 10:18:48,2008-01-02,TDSC,Loewenbaum G Walter II,Dir,M - OptEx,$6.61,100000,1292516,+8%,"+$661,250",,,,,DDD
+709,,2007-08-24 10:10:16,2007-08-23,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$20.34,-5778,1208586,0%,"-$117,501",,,,,DDD
+710,,2007-08-23 11:14:50,2007-08-22,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$21.21,-10888,1214364,-1%,"-$230,912",,,,,DDD
+711,,2007-08-22 09:50:54,2007-08-21,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$21.25,-9000,1225252,-1%,"-$191,257",,,,,DDD
+712,,2007-08-21 15:34:09,2007-08-20,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$22.99,-1600,1234252,0%,"-$36,780",,,,,DDD
+713,,2007-08-21 14:57:04,2007-08-20,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$22.38,-14992,1235852,-1%,"-$335,455",,,,,DDD
+714,,2007-08-20 11:38:44,2007-08-17,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$23.47,-7742,1250844,-1%,"-$181,693",,,,,DDD
+715,,2007-08-17 09:35:19,2007-08-16,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$22.06,-3000,1258586,0%,"-$66,185",,,,,DDD
+716,,2007-08-16 14:22:07,2007-08-15,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$22.07,-13000,1261586,-1%,"-$286,866",,,,,DDD
+717,,2007-08-15 12:39:51,2007-08-14,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$21.45,-6872,1274586,-1%,"-$147,435",,,,,DDD
+718,,2007-08-14 14:25:09,2007-08-13,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$22.92,-8883,1281458,-1%,"-$203,618",,,,,DDD
+719,M,2007-08-14 14:24:15,2007-08-10,TDSC,Loewenbaum G Walter II,Dir,S - Sale,$22.03,-18245,1290341,-1%,"-$401,885",,,,,DDD
+720,D,2007-08-10 15:52:48,2007-08-09,TDSC,Gold Miriam V,Dir,M - OptEx,$9.50,7500,19800,+61%,"+$71,250",,,,,DDD
+721,DM,2007-08-10 15:52:48,2007-08-09,TDSC,Gold Miriam V,Dir,S - Sale+OE,$24.10,-7500,19800,-27%,"-$180,762",,,,,DDD
+722,,2007-07-26 15:38:38,2007-07-24,TDSC,Grace Robert M Jr,"VP, GC, Sec",A - Grant,$1.00,2600,40112,+7%,"+$2,600",,,,,DDD
+723,D,2007-07-23 17:53:10,2007-07-20,TDSC,Reichental Abraham N,"Pres, CEO",C - Converted deriv,$10.18,49116,224116,-18%,"$500,001",,,,,DDD
+724,D,2007-07-23 17:43:33,2007-07-20,TDSC,Grace Robert M Jr,"VP, GC, Sec",C - Converted deriv,$10.18,4912,37512,-12%,"$50,004",,,,,DDD
+725,D,2007-07-23 17:33:41,2007-07-20,TDSC,McAlea Kevin,VP,C - Converted deriv,$10.18,1965,15728,-11%,"$20,004",,,,,DDD
+726,D,2007-07-23 17:30:13,2007-07-20,TDSC,Kever Jim D,Dir,C - Converted deriv,$10.18,49116,109282,-31%,"$500,001",,,,,DDD
+727,D,2007-07-23 17:07:27,2007-07-20,TDSC,Loewenbaum G Walter II,Dir,C - Converted deriv,$10.18,152265,1308586,-10%,"$1,550,058",,,,,DDD
+728,D,2007-07-23 17:05:39,2007-07-20,TDSC,Moore Kevin S,Dir,C - Converted deriv,$10.18,294696,2236163,-12%,"$3,000,005",,,,,DDD
+729,,2007-05-16 19:04:34,2007-05-15,TDSC,Loewenbaum G Walter II,Dir,A - Grant,$0.00,3000,1156321,0%,+$0,,,,,DDD
+730,,2007-05-16 18:55:46,2007-05-15,TDSC,Van Riper Daniel S,Dir,A - Grant,$0.00,3000,11323,+36%,+$0,,,,,DDD
+731,,2007-05-16 18:15:48,2007-05-15,TDSC,Moore Kevin S,Dir,A - Grant,$0.00,3000,1941467,0%,+$0,,,,,DDD
+732,D,2007-05-16 18:07:45,2007-05-15,TDSC,Kever Jim D,Dir,A - Grant,$0.00,3000,60166,+5%,+$0,,,,,DDD
+733,D,2007-05-16 18:07:45,2007-05-15,TDSC,Kever Jim D,Dir,M - OptEx,$8.00,7500,60166,+14%,"+$60,000",,,,,DDD
+734,,2007-05-16 17:57:55,2007-05-15,TDSC,Gold Miriam V,Dir,A - Grant,$0.00,3000,19800,+18%,+$0,,,,,DDD
+735,,2007-05-16 16:35:01,2007-05-14,TDSC,Tennison William Joseph,"VP, Controller, CAO",A - Grant,$1.00,4000,4000,New,"+$4,000",,,,,DDD
+736,,2007-05-16 16:23:29,2007-05-14,TDSC,Gregoire Damon Joseph,"VP, CFO",A - Grant,$1.00,15000,15000,New,"+$15,000",,,,,DDD
+737,D,2007-05-14 15:38:08,2007-05-10,TDSC,Gold Miriam V,Dir,M - OptEx,$8.00,7500,16800,+81%,"+$60,000",,,,,DDD
+738,,2006-09-08 14:53:25,2006-09-08,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$15.91,2500,1153321,0%,"+$39,778",,,,,DDD
+739,M,2006-09-01 17:09:32,2006-08-30,TDSC,Moore Kevin S,VP,P - Purchase,$16.10,59549,1938467,+3%,"+$958,905",,,,,DDD
+740,D,2006-08-30 19:54:55,2006-08-30,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",M - OptEx,$10.25,39500,426505,+10%,"+$404,875",,,,,DDD
+741,D,2006-08-30 19:54:55,2006-08-30,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale+OE,$16.08,-39500,426505,-8%,"-$635,153",,,,,DDD
+742,,2006-08-30 19:54:33,2006-08-30,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$16.13,2500,1150821,0%,"+$40,325",,,,,DDD
+743,M,2006-08-29 21:09:17,2006-08-28,TDSC,Moore Kevin S,Dir,P - Purchase,$15.28,15900,1878918,+1%,"+$242,956",,,,,DDD
+744,D,2006-08-29 21:08:56,2006-08-29,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",M - OptEx,$10.25,15000,426505,+4%,"+$153,750",,,,,DDD
+745,D,2006-08-29 21:08:56,2006-08-29,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale+OE,$15.38,-15000,426505,-3%,"-$230,764",,,,,DDD
+746,,2006-08-29 21:08:36,2006-08-29,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$15.40,2500,1148321,0%,"+$38,500",,,,,DDD
+747,,2006-08-29 21:08:22,2006-08-28,TDSC,Moore Kevin S,Dir,P - Purchase,$15.25,79000,1863018,+4%,"+$1,204,382",,,,,DDD
+748,D,2006-08-29 21:08:03,2006-08-28,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",M - OptEx,$10.25,20500,426505,+5%,"+$210,125",,,,,DDD
+749,D,2006-08-29 21:08:03,2006-08-28,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale+OE,$15.18,-20500,426505,-5%,"-$311,127",,,,,DDD
+750,M,2006-08-25 20:02:53,2006-08-24,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$14.65,5650,1145821,0%,"+$82,773",,,,,DDD
+751,M,2006-08-23 20:03:54,2006-08-22,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$14.73,6000,1140171,+1%,"+$88,360",,,,,DDD
+752,M,2006-08-21 21:35:05,2006-08-18,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$15.30,26781,1134171,+2%,"+$409,661",,,,,DDD
+753,,2006-08-17 20:16:17,2006-08-17,TDSC,Loewenbaum G Walter II,Dir,P - Purchase,$14.82,25000,1107390,+2%,"+$370,583",,,,,DDD
+754,,2006-08-17 20:12:29,2006-08-17,TDSC,Grace Robert M Jr,"VP,GC, Secretary",P - Purchase,$14.35,3000,32600,+10%,"+$43,050",,,,,DDD
+755,,2006-08-02 17:42:50,2006-08-01,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$16.59,-4000,426505,-1%,"-$66,350",,,,,DDD
+756,,2006-07-06 15:04:20,2006-07-03,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$20.15,-4000,430505,-1%,"-$80,588",,,,,DDD
+757,D,2006-06-09 15:59:39,2006-06-08,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",C - Converted deriv,$0.00,8407,434505,-2%,$0,,,,,DDD
+758,D,2006-06-09 15:59:23,2006-06-08,TDSC,Moore Kevin S,Dir,C - Converted deriv,$0.00,840740,1784018,-32%,$0,,,,,DDD
+759,D,2006-06-09 15:59:07,2006-06-08,TDSC,McAlea Kevin,VP,C - Converted deriv,$0.00,3363,13763,-20%,$0,,,,,DDD
+760,D,2006-06-09 15:58:41,2006-06-08,TDSC,Loewenbaum G Walter II,Dir,C - Converted deriv,$0.00,210186,1082390,-16%,$0,,,,,DDD
+761,D,2006-06-09 15:58:11,2006-06-08,TDSC,Saunders Ray,VP,C - Converted deriv,$0.00,2858,8858,-24%,$0,,,,,DDD
+762,A,2006-06-08 17:55:48,2006-03-24,TDSC,Saunders Ray,VP,A - Grant,$1.00,0,6000,0%,+$0,,,,,DDD
+763,A,2006-06-08 17:55:19,2006-03-24,TDSC,Goddard Stephen Melville,VP,A - Grant,$1.00,0,44488,0%,+$0,,,,,DDD
+764,A,2006-06-08 17:53:35,2006-03-24,TDSC,McAlea Kevin,VP,A - Grant,$1.00,0,10400,0%,+$0,,,,,DDD
+765,A,2006-06-08 17:53:09,2006-03-24,TDSC,Ansari Assad A,VP,A - Grant,$1.00,0,11594,0%,+$0,,,,,DDD
+766,,2006-06-01 20:55:07,2006-06-01,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$19.66,-4000,426098,-1%,"-$78,644",,,,,DDD
+767,,2006-05-22 14:32:37,2006-05-19,TDSC,Spalding Richard C,Dir,P - Purchase,$20.32,10000,19000,+111%,"+$203,223",,,,,DDD
+768,,2006-05-17 12:30:50,2006-05-16,TDSC,Van Riper Daniel S,Dir,A - Grant,$0.00,3000,8323,+56%,+$0,,,,,DDD
+769,,2006-05-17 12:30:30,2006-05-16,TDSC,Gold Miriam V,Dir,A - Grant,$0.00,3000,9300,+48%,+$0,,,,,DDD
+770,,2006-05-17 12:30:14,2006-05-16,TDSC,Spalding Richard C,Dir,A - Grant,$0.00,3000,9000,+50%,+$0,,,,,DDD
+771,,2006-05-17 12:29:52,2006-05-16,TDSC,Moore Kevin S,Dir,A - Grant,$0.00,3000,943278,0%,+$0,,,,,DDD
+772,,2006-05-17 12:29:27,2006-05-16,TDSC,Loewenbaum G Walter II,Dir,A - Grant,$0.00,3000,872204,0%,+$0,,,,,DDD
+773,,2006-05-17 12:29:09,2006-05-16,TDSC,Kever Jim D,Dir,A - Grant,$0.00,3000,49666,+6%,+$0,,,,,DDD
+774,,2006-05-02 15:13:17,2006-05-01,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$23.01,-4000,430098,-1%,"-$92,035",,,,,DDD
+775,,2006-04-04 12:45:52,2006-04-03,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$21.20,-4000,434098,-1%,"-$84,814",,,,,DDD
+776,,2006-03-28 18:17:16,2006-03-24,TDSC,Reichental Abraham N,"Pres, CEO",A - Grant,$1.00,50000,175000,+40%,"+$50,000",,,,,DDD
+777,,2006-03-28 18:17:01,2006-03-24,TDSC,Grace Robert M Jr,"VP,GC, Secretary",A - Grant,$1.00,12300,29600,+71%,"+$12,300",,,,,DDD
+778,,2006-03-28 18:16:50,2006-03-24,TDSC,Ansari Assad A,VP,A - Grant,$1.00,9600,15194,+172%,"+$9,600",,,,,DDD
+779,,2006-03-28 18:16:32,2006-03-24,TDSC,Goddard Stephen Melville,VP,A - Grant,$1.00,8900,47588,+23%,"+$8,900",,,,,DDD
+780,,2006-03-28 18:16:11,2006-03-24,TDSC,Jones Fred R,"VP, CFO",A - Grant,$1.00,12500,30870,+68%,"+$12,500",,,,,DDD
+781,,2006-03-28 18:15:52,2006-03-24,TDSC,Love Cary,VP,A - Grant,$1.00,7600,12600,+152%,"+$7,600",,,,,DDD
+782,,2006-03-28 18:15:40,2006-03-24,TDSC,McAlea Kevin,VP,A - Grant,$1.00,10600,13000,+442%,"+$10,600",,,,,DDD
+783,,2006-03-28 18:15:24,2006-03-24,TDSC,Saunders Ray,VP,A - Grant,$1.00,8400,8400,New,"+$8,400",,,,,DDD
+784,,2006-03-02 14:55:28,2006-03-01,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$19.00,-4000,438098,-1%,"-$76,001",,,,,DDD
+785,,2006-02-02 13:36:05,2006-02-01,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$19.41,-4000,442098,-1%,"-$77,624",,,,,DDD
+786,,2006-01-18 14:48:13,2006-01-16,TDSC,Fraser Brian Kenneth,VP,A - Grant,$1.00,7500,7500,New,"+$7,500",,,,,DDD
+787,,2006-01-04 13:28:47,2006-01-03,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$17.56,-4000,446098,-1%,"-$70,235",,,,,DDD
+788,,2005-12-02 13:29:37,2005-12-01,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$17.73,-4000,450098,-1%,"-$70,924",,,,,DDD
+789,,2005-11-01 19:57:19,2005-11-01,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$17.93,-4000,454098,-1%,"-$71,738",,,,,DDD
+790,,2005-10-04 12:52:44,2005-10-03,TDSC,Hull Charles W,"EVP., Chief Tech. Officer",S - Sale,$22.23,-4000,458098,-1%,"-$88,937",,,,,DDD
+791,M,2005-09-06 12:42:48,2005-09-01,TDSC,Hull Charles W,"Exec. VP, Chief Tech. Officer",S - Sale,$22.32,-4000,462098,-1%,"-$89,299",,,,,DDD
+792,,2005-08-03 17:44:06,2005-08-02,TDSC,Hull Charles W,"Exec. VP, Chief Tech. Officer",S - Sale,$19.99,-2000,466098,0%,"-$39,984",,,,,DDD
+793,,2005-07-05 17:27:17,2005-07-01,TDSC,Hull Charles W,"Exec. VP, Chief Tech. Officer",S - Sale,$23.86,-2000,468098,0%,"-$47,719",,,,,DDD
+794,,2005-06-02 14:30:46,2005-06-01,TDSC,Hull Charles W,"Exec. VP, Chief Tech. Officer",S - Sale,$21.20,-2000,470098,0%,"-$42,401",,,,,DDD
+795,,2005-05-19 15:21:23,2005-05-17,TDSC,Gold Miriam V,Dir,A - Grant,$0.00,3000,6300,+91%,+$0,,,,,DDD
+796,,2005-05-19 15:21:06,2005-05-17,TDSC,Kever Jim D,Dir,A - Grant,$0.00,3000,46666,+7%,+$0,,,,,DDD
+797,,2005-05-19 15:20:50,2005-05-17,TDSC,Loewenbaum G Walter II,Dir,A - Grant,$0.00,3000,869204,0%,+$0,,,,,DDD
+798,,2005-05-19 15:20:41,2005-05-17,TDSC,Spalding Richard C,Dir,A - Grant,$0.00,3000,6000,+100%,+$0,,,,,DDD
+799,,2005-05-19 15:20:24,2005-05-17,TDSC,Van Riper Daniel S,Dir,A - Grant,$0.00,3000,5323,+129%,+$0,,,,,DDD
+800,,2005-05-19 15:16:52,2005-05-17,TDSC,Moore Kevin S,Dir,A - Grant,$0.00,3000,940278,0%,+$0,,,,,DDD
+801,A,2005-05-18 15:07:17,2005-05-13,TDSC,Jones Fred R,"VP, CFO",P - Purchase,$19.34,5000,18370,+37%,"+$96,694",,,,,DDD
+802,,2005-05-17 11:56:22,2005-05-13,TDSC,Jones Fred R,"VP, CFO",P - Purchase,$19.34,5000,18370,+37%,"+$96,694",,,,,DDD
+803,DM,2005-05-12 13:21:28,2000-03-16,TDSC,Moore Kevin S,Dir,P - Purchase,$10.53,101900,794784,+15%,"+$1,073,490",,,,,DDD
+804,,2005-05-10 13:32:25,2005-05-09,TDSC,Grace Robert M Jr,"VP, Gen. Counsel, Sec.",P - Purchase,$16.61,2000,17300,+13%,"+$33,220",,,,,DDD
+805,,2005-05-03 21:52:57,2005-05-02,TDSC,Hull Charles W,"Exec. VP, Chief Tech. Officer",S - Sale,$20.00,-2000,945596,0%,"-$40,002",,,,,DDD
+806,A,2005-04-27 19:59:55,2005-02-24,TDSC,Saunders Ray,VP,A - Grant,$1.00,0,0,-32768%,+$0,,,,,DDD
+807,A,2005-04-27 19:59:42,2005-02-24,TDSC,Ansari Assad A,VP,A - Grant,$1.00,594,5594,+12%,+$594,,,,,DDD
+808,A,2005-04-27 19:59:22,2005-02-24,TDSC,Hull Charles W,"Exec. VP, Chief Tech. Officer",A - Grant,$1.00,0,4088,0%,+$0,,,,,DDD
+809,A,2005-04-27 19:59:05,2005-02-24,TDSC,Jones Fred R,"VP, CFO",A - Grant,$1.00,3370,13370,+34%,"+$3,370",,,,,DDD
+810,,2005-04-04 17:57:47,2005-04-01,TDSC,Hull Charles W,"VP, CTO",S - Sale,$19.15,-2000,476498,0%,"-$38,300",,,,,DDD
+811,D,2005-03-07 17:22:41,2005-03-04,TDSC,Gold Miriam V,Dir,M - OptEx,$17.63,3333,3300,-10100%,"+$58,744",,,,,DDD
+812,D,2005-03-07 17:22:41,2005-03-04,TDSC,Gold Miriam V,Dir,S - Sale+OE,$18.85,-3333,3300,-50%,"-$62,827",,,,,DDD
+813,,2005-03-03 14:16:52,2005-03-01,TDSC,Hull Charles W,"VP, CTO",S - Sale,$19.97,-2000,478498,0%,"-$39,949",,,,,DDD
+814,,2005-02-28 20:53:30,2005-02-24,TDSC,Ansari Assad A,VP,A - Grant,$1.00,1700,6700,+34%,"+$1,700",,,,,DDD
+815,,2005-02-28 20:42:52,2005-02-24,TDSC,Goddard Stephen Melville,VP,A - Grant,$1.00,4700,37188,+14%,"+$4,700",,,,,DDD
+816,,2005-02-28 20:41:17,2005-02-24,TDSC,Kayser Donald Robert Jr,VP,A - Grant,$1.00,2400,13900,+21%,"+$2,400",,,,,DDD
+817,,2005-02-28 20:37:46,2005-02-24,TDSC,Reichental Abraham N,"CEO, Pres",A - Grant,$1.00,25000,125000,+25%,"+$25,000",,,,,DDD
+818,,2005-02-28 20:36:29,2005-02-24,TDSC,Hull Charles W,"VP, CTO",A - Grant,$1.00,2400,480498,+1%,"+$2,400",,,,,DDD
+819,,2005-02-28 20:35:19,2005-02-24,TDSC,Jones Fred R,"VP, CFO",A - Grant,$1.00,5800,15800,+58%,"+$5,800",,,,,DDD
+820,,2005-02-28 20:33:07,2005-02-24,TDSC,McAlea Kevin,VP,A - Grant,$1.00,2400,2400,New,"+$2,400",,,,,DDD
+821,,2005-02-28 20:32:17,2005-02-24,TDSC,Saunders Ray,VP,A - Grant,$1.00,2100,2100,New,"+$2,100",,,,,DDD
+822,,2005-02-28 20:31:13,2005-02-24,TDSC,Grace Robert M Jr,"V. P., Gen. Counsel, Sec.",A - Grant,$1.00,5300,15300,+53%,"+$5,300",,,,,DDD
+823,A,2005-02-28 20:30:07,2004-09-09,TDSC,Hull Charles W,"VP, CTO",S - Sale,$11.02,-300,475710,0%,"-$3,306",,,,,DDD
+824,,2005-02-02 12:37:00,2005-02-01,TDSC,Hull Charles W,"VP, CTO",S - Sale,$22.38,-2000,478098,0%,"-$44,753",,,,,DDD
+825,,2005-01-05 17:19:59,2005-01-03,TDSC,Hull Charles W,"VP, CTO",S - Sale,$19.78,-2000,480098,0%,"-$39,560",,,,,DDD
+826,D,2005-01-03 17:33:17,2004-12-30,TDSC,Kever Jim D,Dir,C - Converted deriv,$12.00,29666,43666,-40%,"$355,992",,,,,DDD
+827,D,2005-01-03 17:32:54,2004-12-30,TDSC,Loewenbaum G Walter II,Dir,C - Converted deriv,$12.00,83332,866204,-9%,"$999,984",,,,,DDD
+828,,2004-12-09 16:46:39,2004-12-08,TDSC,Van Riper Daniel S,Dir,A - Grant,$0.00,2323,2323,New,+$0,,,,,DDD
+829,,2004-12-01 20:49:00,2004-12-01,TDSC,Hull Charles W,"VP, CTO",S - Sale,$16.03,-2000,482098,0%,"-$32,063",,,,,DDD
+830,,2004-11-05 20:06:24,2004-11-05,TDSC,Hull Charles W,"VP, CTO",S - Sale,$11.12,-2000,484098,0%,"-$22,240",,,,,DDD
+831,,2004-10-05 20:49:09,2004-10-04,TDSC,Hull Charles W,"VP, CTO",S - Sale,$11.60,-2000,486098,0%,"-$23,200",,,,,DDD
+832,M,2004-09-13 20:41:02,2004-09-09,TDSC,Hull Charles W,"Exec. VP, CTO",S - Sale,$11.01,-2000,474010,0%,"-$22,012",,,,,DDD
+833,,2004-05-21 16:03:27,2004-05-19,TDSC,Gold Miriam V,Dir,A - Grant,$0.00,3000,3300,>999%,+$0,,,,,DDD
+834,,2004-05-21 16:03:03,2004-05-19,TDSC,Kever Jim D,Dir,A - Grant,$0.00,3000,14500,+26%,+$0,,,,,DDD
+835,,2004-05-21 16:02:36,2004-05-19,TDSC,Loewenbaum G Walter II,Dir,A - Grant,$0.00,3000,782872,0%,+$0,,,,,DDD
+836,,2004-05-21 16:02:00,2004-05-19,TDSC,Moore Kevin S,Dir,A - Grant,$0.00,3000,936272,0%,+$0,,,,,DDD
+837,,2004-05-21 16:01:32,2004-05-19,TDSC,Spalding Richard C,Dir,A - Grant,$0.00,3000,3000,New,+$0,,,,,DDD
+838,D,2004-03-19 16:23:35,2004-03-18,TDSC,Gold Miriam V,Dir,M - OptEx,$7.31,3333,300,-110%,"+$24,373",,,,,DDD
+839,D,2004-03-19 16:23:35,2004-03-18,TDSC,Gold Miriam V,Dir,S - Sale+OE,$12.26,-3333,300,-92%,"-$40,863",,,,,DDD
+840,D,2003-12-29 16:46:46,2003-12-26,TDSC,Jones Fred R,"VP, CFO",A - Grant,$0.00,10000,10000,New,+$0,,,,,DDD
+841,D,2003-11-05 14:16:38,2003-11-03,TDSC,Grace Robert M Jr,"Vice Pres, Gen. Counsel, Sec.",A - Grant,$0.00,10000,10000,New,+$0,,,,,DDD
+842,D,2003-09-23 18:11:32,2003-09-19,TDSC,Reichental Abraham N,"Chief Exec. Officer, Pres",A - Grant,$0.00,100000,100000,New,+$0,,,,,DDD
+843,,2003-08-27 20:53:25,2003-07-11,TDSC,Hull Charles W,"Interim CEO, Exec. VP, CTO",S - Sale,$7.50,-6031,490098,-1%,"-$45,233",,,,,DDD

@@ -1,29 +1,587 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,D,2022-05-18 15:15:07,2022-05-16,AEL,Neugent Gerard D.,Dir,S - Sale+OE,$34.84,-4237,51003,-8%,"-$147,607",,,,,AEL
-1,,2022-04-14 16:58:14,2022-04-12,AEL,Grensteiner Ronald James,EVP,S - Sale,$38.31,-9188,103238,-8%,"-$352,023",,,,,AEL
-2,M,2022-03-16 19:19:17,2022-03-14,AEL,Grensteiner Ronald James,EVP,S - Sale,$38.23,-28807,113891,-20%,"-$1,101,392",,,,,AEL
-3,D,2022-03-11 19:39:14,2022-03-09,AEL,Chapman Joyce Ann,Dir,S - Sale+OE,$38.26,-3856,51279,-7%,"-$147,548",,,,,AEL
-4,,2022-01-24 17:38:30,2022-01-20,AEL,Grensteiner Ronald James,EVP,S - Sale,$42.05,-10894,142109,-7%,"-$458,087",,,,,AEL
-5,,2022-01-11 16:58:20,2022-01-07,AEL,Lorenzen Jeffrey D,EVP-Chief Risk Officer,S - Sale,$41.10,-20000,62372,-24%,"-$821,969",,,,,AEL
-6,,2021-12-02 17:01:03,2021-11-30,AEL,Bhalla Anant,"CEO, Pres",S - Sale,$29.64,-10214,77411,-12%,"-$302,760",,,,,AEL
-7,,2021-06-23 18:31:23,2021-06-22,AEL,Matovina John M,Dir,S - Sale,$32.26,-4200,255624,-2%,"-$135,495",,,,,AEL
-8,,2021-05-19 17:52:04,2021-05-18,AEL,Johnson Ted Morris,CFO,S - Sale,$31.91,-31380,96372,-25%,"-$1,001,336",,,,,AEL
-9,D,2021-05-14 13:12:53,2021-05-12,AEL,Howe Robert L,Dir,S - Sale+OE,$30.01,-6143,64357,-9%,"-$184,380",,,,,AEL
-10,D,2021-03-25 16:07:36,2021-03-24,AEL,Neugent Gerard D.,Dir,S - Sale+OE,$29.36,-6281,38219,-14%,"-$184,438",,,,,AEL
-11,,2021-03-22 17:15:21,2021-03-19,AEL,Matovina John M,Dir,S - Sale,$31.01,-23201,256803,-8%,"-$719,475",,,,,AEL
-12,D,2021-03-10 18:58:43,2021-03-09,AEL,Chapman Joyce Ann,Dir,S - Sale+OE,$30.61,-6036,38114,-14%,"-$184,773",,,,,AEL
-13,,2020-09-28 20:09:49,2020-09-25,AEL,Mulcahy David S.,Dir,P - Purchase,$19.57,10000,118439,+9%,"+$195,682",,,,,AEL
-14,D,2020-04-01 19:58:30,2020-03-31,AEL,Chapman Joyce Ann,Dir,S - Sale+OE,$19.26,-10000,24950,-29%,"-$192,646",,,,,AEL
-15,M,2020-03-20 18:33:10,2020-03-19,AEL,Bhalla Anant,"CEO, Pres",P - Purchase,$11.88,5714,5714,New,"+$67,856",,,,,AEL
-16,,2020-03-13 12:46:45,2020-03-12,AEL,Bhalla Anant,"CEO, Pres",P - Purchase,$16.30,5500,50171,+12%,"+$89,650",,,,,AEL
-17,M,2020-03-09 16:37:44,2020-03-06,AEL,Bhalla Anant,"CEO, Pres",P - Purchase,$20.96,8500,44671,+23%,"+$178,125",,,,,AEL
-18,M,2020-02-21 16:18:55,2020-02-19,AEL,Richardson Debra J,Dir,S - Sale,$33.21,-21962,104060,-17%,"-$729,259",,,,,AEL
-19,D,2020-02-19 12:25:44,2020-02-18,AEL,Matovina John M,CEO,S - Sale+OE,$33.08,-27750,243563,-10%,"-$918,014",,,,,AEL
-20,,2019-12-16 14:28:20,2019-12-12,AEL,Strickland Alonzo A J J,Dir,S - Sale,$30.11,-900,246400,0%,"-$27,099",,,,,AEL
-21,M,2019-12-10 09:43:13,2019-12-06,AEL,Matovina John M,"CEO, Pres",S - Sale,$29.76,-16000,248369,-6%,"-$476,153",,,,,AEL
-22,,2019-11-29 17:13:48,2019-11-27,AEL,Richardson Debra J,Dir,S - Sale,$29.77,-18000,128242,-12%,"-$535,932",,,,,AEL
-23,,2019-07-01 17:42:31,2019-06-28,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,S - Sale,$27.25,-12413,51912,-19%,"-$338,254",,,,,AEL
-24,,2019-07-01 17:40:47,2019-06-28,AEL,Chapman Joyce Ann,Dir,S - Sale,$26.90,-10000,24950,-29%,"-$269,000",,,,,AEL
-25,,2019-06-27 17:18:49,2019-06-26,AEL,Johnson Ted Morris,"CFO, Treasurer",S - Sale,$26.11,-10000,99301,-9%,"-$261,100",,,,,AEL
-26,D,2019-06-21 13:26:21,2019-06-20,AEL,Johnson Ted Morris,"CFO, Treasurer",S - Sale+OE,$27.59,-10000,109301,-8%,"-$275,851",,,,,AEL
-27,,2019-06-20 17:25:40,2019-06-18,AEL,Richardson Debra J,Dir,S - Sale,$27.40,-80000,146242,-35%,"-$2,192,144",,,,,AEL
+0,M,2022-03-16 19:19:17,2022-03-14,AEL,Grensteiner Ronald James,EVP,S - Sale,$38.23,-28807,113891,-20%,"-$1,101,392",,,,,AEL
+1,D,2022-03-11 19:39:14,2022-03-09,AEL,Chapman Joyce Ann,Dir,M - OptEx,$10.52,14000,51279,+38%,"+$147,280",,,,,AEL
+2,D,2022-03-11 19:39:14,2022-03-09,AEL,Chapman Joyce Ann,Dir,S - Sale+OE,$38.26,-3856,51279,-7%,"-$147,548",,,,,AEL
+3,D,2022-03-04 18:00:56,2022-03-02,AEL,Howe Robert L,Dir,M - OptEx,$10.52,5000,72378,+7%,"+$52,600",,,,,AEL
+4,,2022-03-02 17:20:28,2022-02-28,AEL,Grensteiner Ronald James,EVP,A - Grant,$0.00,22014,142698,+18%,+$0,,,,,AEL
+5,,2022-03-02 17:20:28,2022-02-28,AEL,Grensteiner Ronald James,EVP,F - Tax,$37.69,-9414,142698,-6%,"-$354,814",,,,,AEL
+6,,2022-03-02 16:41:50,2022-02-28,AEL,Lorenzen Jeffrey D,EVP-Chief Risk Officer,A - Grant,$0.00,19175,76477,+33%,+$0,,,,,AEL
+7,,2022-03-02 16:41:50,2022-02-28,AEL,Lorenzen Jeffrey D,EVP-Chief Risk Officer,F - Tax,$37.69,-8692,76477,-10%,"-$327,601",,,,,AEL
+8,,2022-02-25 18:46:26,2022-02-23,AEL,Bhalla Anant,"CEO, Pres",A - Grant,$0.00,24410,97507,+33%,+$0,,,,,AEL
+9,,2022-02-25 18:07:33,2022-02-23,AEL,Zanghi Phyllis Joy,"EVP, GC, Sec",A - Grant,$0.00,3255,5463,+147%,+$0,,,,,AEL
+10,,2022-02-25 17:40:24,2022-02-23,AEL,Lummus Dewayne,"SVP, Chief Accounting Officer",A - Grant,$0.00,3085,12600,+32%,+$0,,,,,AEL
+11,,2022-02-25 17:38:30,2022-02-23,AEL,Lorenzen Jeffrey D,EVP-Chief Risk Officer,A - Grant,$0.00,3445,65994,+6%,+$0,,,,,AEL
+12,,2022-02-25 17:36:44,2022-02-23,AEL,Andre Axel,CFO,A - Grant,$0.00,6509,6509,New,+$0,,,,,AEL
+13,,2022-02-25 17:34:03,2022-02-23,AEL,Hamalainen James Louis,"EVP, CIO, Insurance",A - Grant,$0.00,5370,26415,+26%,+$0,,,,,AEL
+14,,2022-01-31 18:11:44,2022-01-27,AEL,Bhalla Anant,"CEO, Pres",F - Tax,$39.89,-4325,73086,-6%,"-$172,524",,,,,AEL
+15,,2022-01-24 17:38:30,2022-01-20,AEL,Grensteiner Ronald James,EVP,S - Sale,$42.05,-10894,142109,-7%,"-$458,087",,,,,AEL
+16,,2022-01-11 16:58:20,2022-01-07,AEL,Lorenzen Jeffrey D,EVP-Chief Risk Officer,S - Sale,$41.10,-20000,62372,-24%,"-$821,969",,,,,AEL
+17,,2021-12-02 17:01:03,2021-11-30,AEL,Bhalla Anant,"CEO, Pres",A - Grant,$33.25,7500,77411,+11%,"+$249,375",,,,,AEL
+18,,2021-12-02 17:01:03,2021-11-30,AEL,Bhalla Anant,"CEO, Pres",S - Sale,$29.64,-10214,77411,-12%,"-$302,760",,,,,AEL
+19,,2021-12-02 16:51:04,2021-11-30,AEL,Lummus Dewayne,"SVP, Chief Accounting Officer",A - Grant,$0.00,9515,9515,New,+$0,,,,,AEL
+20,,2021-06-23 18:31:23,2021-06-22,AEL,Matovina John M,Dir,S - Sale,$32.26,-4200,255624,-2%,"-$135,495",,,,,AEL
+21,,2021-06-14 17:48:01,2021-06-10,AEL,Strickland Alonzo A J J,Dir,A - Grant,$0.00,3021,293121,+1%,+$0,,,,,AEL
+22,,2021-06-14 17:47:07,2021-06-10,AEL,Howe Robert L,Dir,A - Grant,$0.00,3021,67378,+5%,+$0,,,,,AEL
+23,,2021-06-14 17:41:19,2021-06-10,AEL,Matovina John M,Dir,A - Grant,$0.00,3021,259824,+1%,+$0,,,,,AEL
+24,,2021-06-14 17:39:39,2021-06-10,AEL,Kunkel William R.,Dir,A - Grant,$0.00,3021,26759,+13%,+$0,,,,,AEL
+25,,2021-06-14 17:33:55,2021-06-10,AEL,Mulcahy David S.,Dir,A - Grant,$0.00,3021,121460,+3%,+$0,,,,,AEL
+26,,2021-06-14 17:32:44,2021-06-10,AEL,Healy Douglas Taylor,Dir,A - Grant,$0.00,3021,6171,+96%,+$0,,,,,AEL
+27,,2021-06-14 17:29:30,2021-06-10,AEL,Neugent Gerard D.,Dir,A - Grant,$0.00,3021,41240,+8%,+$0,,,,,AEL
+28,,2021-06-14 17:28:33,2021-06-10,AEL,Keeley Michelle M.,Dir,A - Grant,$0.00,3021,7221,+72%,+$0,,,,,AEL
+29,,2021-06-14 17:27:13,2021-06-10,AEL,Cushing Brenda J,Dir,A - Grant,$0.00,3021,16021,+23%,+$0,,,,,AEL
+30,,2021-06-14 17:24:27,2021-06-10,AEL,Matula Alan David,Dir,A - Grant,$0.00,3021,29241,+12%,+$0,,,,,AEL
+31,,2021-06-14 17:23:05,2021-06-10,AEL,Chapman Joyce Ann,Dir,A - Grant,$0.00,3021,41135,+8%,+$0,,,,,AEL
+32,,2021-06-14 17:19:52,2021-06-10,AEL,Gerlach James M,Dir,A - Grant,$0.00,3021,232688,+1%,+$0,,,,,AEL
+33,,2021-05-19 17:52:04,2021-05-18,AEL,Johnson Ted Morris,CFO,S - Sale,$31.91,-31380,96372,-25%,"-$1,001,336",,,,,AEL
+34,D,2021-05-14 13:12:53,2021-05-12,AEL,Howe Robert L,Dir,M - OptEx,$12.26,15000,64357,+30%,"+$183,900",,,,,AEL
+35,D,2021-05-14 13:12:53,2021-05-12,AEL,Howe Robert L,Dir,S - Sale+OE,$30.01,-6143,64357,-9%,"-$184,380",,,,,AEL
+36,D,2021-03-25 16:07:36,2021-03-24,AEL,Neugent Gerard D.,Dir,M - OptEx,$12.26,15000,38219,+65%,"+$183,900",,,,,AEL
+37,D,2021-03-25 16:07:36,2021-03-24,AEL,Neugent Gerard D.,Dir,S - Sale+OE,$29.36,-6281,38219,-14%,"-$184,438",,,,,AEL
+38,,2021-03-22 17:15:21,2021-03-19,AEL,Matovina John M,Dir,S - Sale,$31.01,-23201,256803,-8%,"-$719,475",,,,,AEL
+39,D,2021-03-10 18:58:43,2021-03-09,AEL,Chapman Joyce Ann,Dir,M - OptEx,$12.26,15000,38114,+65%,"+$183,900",,,,,AEL
+40,D,2021-03-10 18:58:43,2021-03-09,AEL,Chapman Joyce Ann,Dir,S - Sale+OE,$30.61,-6036,38114,-14%,"-$184,773",,,,,AEL
+41,DM,2021-03-01 17:11:51,2021-02-25,AEL,Grensteiner Ronald James,EVP,A - Grant,$0.00,24088,152548,+19%,+$0,,,,,AEL
+42,D,2021-03-01 17:11:51,2021-02-27,AEL,Grensteiner Ronald James,EVP,F - Tax,$27.63,-7295,152548,-5%,"-$201,561",,,,,AEL
+43,D,2021-03-01 16:52:04,2021-02-25,AEL,Bhalla Anant,"CEO, Pres",A - Grant,$0.00,27372,73883,+59%,+$0,,,,,AEL
+44,DM,2021-03-01 16:46:30,2021-02-25,AEL,Samuelson Scott A.,VP-Controller,A - Grant,$0.00,6362,38777,+20%,+$0,,,,,AEL
+45,D,2021-03-01 16:46:30,2021-02-27,AEL,Samuelson Scott A.,VP-Controller,F - Tax,$27.63,-2540,38777,-6%,"-$70,180",,,,,AEL
+46,DM,2021-03-01 15:53:16,2021-02-25,AEL,Lorenzen Jeffrey D,EVP-Chief Risk Officer,A - Grant,$0.00,22722,81910,+38%,+$0,,,,,AEL
+47,D,2021-03-01 15:53:16,2021-02-27,AEL,Lorenzen Jeffrey D,EVP-Chief Risk Officer,F - Tax,$27.63,-5801,81910,-7%,"-$160,282",,,,,AEL
+48,DM,2021-03-01 13:51:17,2021-02-25,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",A - Grant,$0.00,8367,17012,+97%,+$0,,,,,AEL
+49,D,2021-03-01 13:51:17,2021-02-27,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",F - Tax,$27.63,-2941,17012,-15%,"-$81,260",,,,,AEL
+50,D,2021-03-01 13:33:33,2021-02-25,AEL,Hamalainen James Louis,"EVP, CIO, Insurance",A - Grant,$0.00,6615,20535,+48%,+$0,,,,,AEL
+51,D,2021-03-01 13:31:00,2021-02-25,AEL,Uzuner Tolga Ibrahim,"EVP-CIO, Asset Management",A - Grant,$0.00,8782,8782,New,+$0,,,,,AEL
+52,DM,2021-03-01 13:19:35,2021-02-25,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,25626,127752,+25%,+$0,,,,,AEL
+53,D,2021-03-01 13:19:35,2021-02-27,AEL,Johnson Ted Morris,"CFO, Treasurer",F - Tax,$27.63,-9776,127752,-7%,"-$270,111",,,,,AEL
+54,DM,2021-03-01 12:28:34,2021-02-25,AEL,Montz Renee Denise,"EVP-GC, Sec",A - Grant,$0.00,20623,54268,+61%,+$0,,,,,AEL
+55,D,2021-03-01 12:28:34,2021-02-27,AEL,Montz Renee Denise,"EVP-GC, Sec",F - Tax,$27.63,-8021,54268,-13%,"-$221,620",,,,,AEL
+56,,2021-03-01 12:04:00,2021-02-27,AEL,Matovina John M,Dir,A - Grant,$0.00,31006,280004,+12%,+$0,,,,,AEL
+57,,2021-03-01 12:04:00,2021-02-27,AEL,Matovina John M,Dir,F - Tax,$27.63,-7805,280004,-3%,"-$215,652",,,,,AEL
+58,,2021-01-29 15:15:33,2021-01-27,AEL,Bhalla Anant,"CEO, Pres",F - Tax,$29.27,-4284,45887,-9%,"-$125,393",,,,,AEL
+59,D,2020-11-05 11:04:54,2020-11-03,AEL,Strickland Alonzo A J J,Dir,M - OptEx,$10.52,14000,290100,+5%,"+$147,280",,,,,AEL
+60,,2020-09-28 20:09:49,2020-09-25,AEL,Mulcahy David S.,Dir,P - Purchase,$19.57,10000,118439,+9%,"+$195,682",,,,,AEL
+61,,2020-09-08 14:52:57,2020-09-08,AEL,Healy Douglas Taylor,Dir,A - Grant,$0.00,3150,3150,New,+$0,,,,,AEL
+62,,2020-06-08 17:14:56,2020-06-04,AEL,Keeley Michelle M.,Dir,A - Grant,$0.00,4200,4200,New,+$0,,,,,AEL
+63,,2020-06-08 15:43:09,2020-06-04,AEL,Mulcahy David S.,Dir,A - Grant,$0.00,4200,108439,+4%,+$0,,,,,AEL
+64,,2020-06-08 15:35:17,2020-06-04,AEL,Matovina John M,Dir,A - Grant,$0.00,4200,260763,+2%,+$0,,,,,AEL
+65,,2020-06-08 15:33:24,2020-06-04,AEL,Kunkel William R.,Dir,A - Grant,$0.00,4200,56225,+8%,+$0,,,,,AEL
+66,,2020-06-08 14:47:00,2020-06-04,AEL,Strickland Alonzo A J J,Dir,A - Grant,$0.00,4200,276100,+2%,+$0,,,,,AEL
+67,,2020-06-08 14:41:31,2020-06-04,AEL,Neugent Gerard D.,Dir,A - Grant,$0.00,4200,29500,+17%,+$0,,,,,AEL
+68,,2020-06-08 14:33:56,2020-06-04,AEL,Howe Robert L,Dir,A - Grant,$0.00,4200,55500,+8%,+$0,,,,,AEL
+69,,2020-06-08 14:27:58,2020-06-04,AEL,Gerlach James M,Dir,A - Grant,$0.00,4200,229667,+2%,+$0,,,,,AEL
+70,,2020-06-08 14:18:56,2020-06-04,AEL,Cushing Brenda J,Dir,A - Grant,$0.00,4200,13000,+48%,+$0,,,,,AEL
+71,,2020-06-08 14:16:46,2020-06-04,AEL,Chapman Joyce Ann,Dir,A - Grant,$0.00,4200,29150,+17%,+$0,,,,,AEL
+72,,2020-06-08 14:14:28,2020-06-04,AEL,Matula Alan David,Dir,A - Grant,$0.00,4200,26220,+19%,+$0,,,,,AEL
+73,D,2020-05-14 17:28:08,2020-05-13,AEL,Strickland Alonzo A J J,Dir,M - OptEx,$12.26,15000,271900,+6%,"+$183,900",,,,,AEL
+74,D,2020-04-01 19:58:30,2020-03-31,AEL,Chapman Joyce Ann,Dir,M - OptEx,$9.27,10000,24950,+67%,"+$92,700",,,,,AEL
+75,D,2020-04-01 19:58:30,2020-03-31,AEL,Chapman Joyce Ann,Dir,S - Sale+OE,$19.26,-10000,24950,-29%,"-$192,646",,,,,AEL
+76,A,2020-03-25 20:13:01,2020-03-09,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",F - Tax,$18.72,-454,15044,-3%,"-$8,499",,,,,AEL
+77,A,2020-03-25 20:10:30,2020-02-27,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",A - Grant,$0.00,7769,15498,+101%,+$0,,,,,AEL
+78,A,2020-03-25 20:10:30,2020-02-27,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",F - Tax,$26.80,-2559,15498,-14%,"-$68,581",,,,,AEL
+79,M,2020-03-20 18:33:10,2020-03-19,AEL,Bhalla Anant,"CEO, Pres",P - Purchase,$11.88,5714,5714,New,"+$67,856",,,,,AEL
+80,,2020-03-13 12:46:45,2020-03-12,AEL,Bhalla Anant,"CEO, Pres",P - Purchase,$16.30,5500,50171,+12%,"+$89,650",,,,,AEL
+81,,2020-03-10 19:45:28,2020-03-09,AEL,Johnson Ted Morris,"CFO, Treasurer",F - Tax,$18.72,-1341,111000,-1%,"-$25,104",,,,,AEL
+82,,2020-03-10 19:44:02,2020-03-09,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",F - Tax,$18.72,-454,14527,-3%,"-$8,499",,,,,AEL
+83,,2020-03-10 19:41:52,2020-03-09,AEL,Samuelson Scott A.,VP-Controller,F - Tax,$18.72,-481,34165,-1%,"-$9,004",,,,,AEL
+84,,2020-03-10 19:31:00,2020-03-09,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,F - Tax,$18.72,-1190,64118,-2%,"-$22,277",,,,,AEL
+85,,2020-03-10 19:17:31,2020-03-09,AEL,Montz Renee Denise,"EVP-GC, Sec",F - Tax,$18.72,-1101,40892,-3%,"-$20,611",,,,,AEL
+86,,2020-03-10 19:16:18,2020-03-09,AEL,Grensteiner Ronald James,EVP,F - Tax,$18.72,-1368,141231,-1%,"-$25,609",,,,,AEL
+87,D,2020-03-09 16:45:29,2020-03-09,AEL,Strickland Alonzo A J J,Dir,M - OptEx,$9.27,10500,256900,+4%,"+$97,335",,,,,AEL
+88,M,2020-03-09 16:37:44,2020-03-06,AEL,Bhalla Anant,"CEO, Pres",P - Purchase,$20.96,8500,44671,+23%,"+$178,125",,,,,AEL
+89,D,2020-03-04 15:07:14,2020-03-03,AEL,Howe Robert L,Dir,M - OptEx,$9.27,7500,51300,+17%,"+$69,525",,,,,AEL
+90,,2020-03-02 18:12:42,2020-02-27,AEL,Grensteiner Ronald James,EVP,A - Grant,$0.00,22248,142599,+18%,+$0,,,,,AEL
+91,,2020-03-02 18:12:42,2020-02-27,AEL,Grensteiner Ronald James,EVP,F - Tax,$26.80,-5546,142599,-4%,"-$148,633",,,,,AEL
+92,,2020-03-02 18:06:16,2020-02-27,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,A - Grant,$0.00,19852,65308,+44%,+$0,,,,,AEL
+93,,2020-03-02 18:06:16,2020-02-27,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,F - Tax,$26.80,-6506,65308,-9%,"-$174,361",,,,,AEL
+94,,2020-03-02 18:01:18,2020-02-27,AEL,Bhalla Anant,"CEO, Pres",A - Grant,$0.00,17444,36171,+93%,+$0,,,,,AEL
+95,,2020-03-02 17:46:22,2020-02-27,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,22290,112341,+25%,+$0,,,,,AEL
+96,,2020-03-02 17:46:22,2020-02-27,AEL,Johnson Ted Morris,"CFO, Treasurer",F - Tax,$26.80,-7297,112341,-6%,"-$195,560",,,,,AEL
+97,,2020-03-02 17:40:14,2020-02-27,AEL,Samuelson Scott A.,VP-Controller,A - Grant,$0.00,7076,34646,+26%,+$0,,,,,AEL
+98,,2020-03-02 17:40:14,2020-02-27,AEL,Samuelson Scott A.,VP-Controller,F - Tax,$26.80,-2664,34646,-7%,"-$71,395",,,,,AEL
+99,,2020-03-02 17:22:34,2020-02-27,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",A - Grant,$0.00,6822,14981,+84%,+$0,,,,,AEL
+100,,2020-03-02 17:22:34,2020-02-27,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",F - Tax,$26.80,-2129,14981,-12%,"-$57,057",,,,,AEL
+101,,2020-03-02 17:01:06,2020-02-27,AEL,Montz Renee Denise,"EVP-GC, Sec",A - Grant,$0.00,18006,41993,+75%,+$0,,,,,AEL
+102,,2020-03-02 17:01:06,2020-02-27,AEL,Montz Renee Denise,"EVP-GC, Sec",F - Tax,$26.80,-6007,41993,-13%,"-$160,988",,,,,AEL
+103,,2020-03-02 15:28:01,2020-02-27,AEL,Matovina John M,Dir,A - Grant,$0.00,23347,256563,+10%,+$0,,,,,AEL
+104,,2020-03-02 15:28:01,2020-02-27,AEL,Matovina John M,Dir,F - Tax,$26.80,-10347,256563,-4%,"-$277,300",,,,,AEL
+105,M,2020-02-21 16:18:55,2020-02-19,AEL,Richardson Debra J,Dir,S - Sale,$33.21,-21962,104060,-17%,"-$729,259",,,,,AEL
+106,D,2020-02-19 12:25:44,2020-02-18,AEL,Matovina John M,CEO,M - OptEx,$9.27,27750,243563,+13%,"+$257,243",,,,,AEL
+107,D,2020-02-19 12:25:44,2020-02-18,AEL,Matovina John M,CEO,S - Sale+OE,$33.08,-27750,243563,-10%,"-$918,014",,,,,AEL
+108,,2020-02-04 12:09:51,2020-01-01,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",F - Tax,$29.93,-357,10055,-3%,"-$10,685",,,,,AEL
+109,AD,2020-01-29 16:44:06,2019-10-22,AEL,Mulcahy David S,Dir,M - OptEx,$0.00,28125,104239,+37%,+$0,,,,,AEL
+110,D,2019-12-16 16:29:29,2019-10-22,AEL,Mulcahy David S,Dir,M - OptEx,$0.00,28125,90689,+45%,+$0,,,,,AEL
+111,,2019-12-16 14:28:20,2019-12-12,AEL,Strickland Alonzo A J J,Dir,S - Sale,$30.11,-900,246400,0%,"-$27,099",,,,,AEL
+112,M,2019-12-10 09:43:13,2019-12-06,AEL,Matovina John M,"CEO, Pres",S - Sale,$29.76,-16000,248369,-6%,"-$476,153",,,,,AEL
+113,,2019-11-29 17:13:48,2019-11-27,AEL,Richardson Debra J,Dir,S - Sale,$29.77,-18000,128242,-12%,"-$535,932",,,,,AEL
+114,,2019-08-20 17:05:36,2019-08-17,AEL,Johnson Ted Morris,"CFO, Treasurer",F - Tax,$22.35,-2721,96580,-3%,"-$60,814",,,,,AEL
+115,,2019-08-20 17:03:01,2019-08-17,AEL,Grensteiner Ronald James,EVP,F - Tax,$22.35,-1588,125134,-1%,"-$35,492",,,,,AEL
+116,,2019-08-20 16:59:54,2019-08-17,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,F - Tax,$22.35,-693,51219,-1%,"-$15,489",,,,,AEL
+117,,2019-08-20 16:18:32,2019-08-17,AEL,Montz Renee Denise,"EVP-GC, Sec",F - Tax,$22.35,-2000,29132,-6%,"-$44,700",,,,,AEL
+118,,2019-07-01 17:42:31,2019-06-28,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,S - Sale,$27.25,-12413,51912,-19%,"-$338,254",,,,,AEL
+119,,2019-07-01 17:40:47,2019-06-28,AEL,Chapman Joyce Ann,Dir,S - Sale,$26.90,-10000,24950,-29%,"-$269,000",,,,,AEL
+120,,2019-06-27 17:18:49,2019-06-26,AEL,Johnson Ted Morris,"CFO, Treasurer",S - Sale,$26.11,-10000,99301,-9%,"-$261,100",,,,,AEL
+121,D,2019-06-21 13:26:21,2019-06-20,AEL,Johnson Ted Morris,"CFO, Treasurer",M - OptEx,$9.27,10000,109301,+10%,"+$92,700",,,,,AEL
+122,D,2019-06-21 13:26:21,2019-06-20,AEL,Johnson Ted Morris,"CFO, Treasurer",S - Sale+OE,$27.59,-10000,109301,-8%,"-$275,851",,,,,AEL
+123,,2019-06-20 17:25:40,2019-06-18,AEL,Richardson Debra J,Dir,S - Sale,$27.40,-80000,146242,-35%,"-$2,192,144",,,,,AEL
+124,,2019-06-20 15:12:56,2019-06-18,AEL,Matovina John M,"CEO, Pres",F - Tax,$27.44,-5869,263730,-2%,"-$161,045",,,,,AEL
+125,,2019-06-06 17:11:32,2019-06-06,AEL,Kunkel William R.,Dir,A - Grant,$0.00,3200,52025,+7%,+$0,,,,,AEL
+126,,2019-06-06 17:06:31,2019-06-06,AEL,Richardson Debra J,Dir,A - Grant,$0.00,3200,226242,+1%,+$0,,,,,AEL
+127,,2019-06-06 16:57:27,2019-06-06,AEL,Howe Robert L,Dir,A - Grant,$0.00,3200,43800,+8%,+$0,,,,,AEL
+128,,2019-06-06 16:55:17,2019-06-06,AEL,Mulcahy David S,Dir,A - Grant,$0.00,3200,76114,+4%,+$0,,,,,AEL
+129,,2019-06-06 16:52:50,2019-06-06,AEL,Neugent Gerard D.,Dir,A - Grant,$0.00,3200,25300,+14%,+$0,,,,,AEL
+130,,2019-06-06 16:50:18,2019-06-06,AEL,Strickland Alonzo A J J,Dir,A - Grant,$0.00,3200,247300,+1%,+$0,,,,,AEL
+131,,2019-06-06 16:25:59,2019-06-06,AEL,Gerlach James M,Dir,A - Grant,$0.00,3200,225467,+1%,+$0,,,,,AEL
+132,,2019-06-06 16:00:18,2019-06-06,AEL,Cushing Brenda J,Dir,A - Grant,$0.00,3200,8800,+57%,+$0,,,,,AEL
+133,,2019-06-06 15:44:59,2019-06-06,AEL,Matula Alan David,Dir,A - Grant,$0.00,3200,22020,+17%,+$0,,,,,AEL
+134,,2019-06-06 15:30:16,2019-06-06,AEL,Chapman Joyce Ann,Dir,A - Grant,$0.00,3200,34950,+10%,+$0,,,,,AEL
+135,,2019-06-04 17:29:25,2019-06-02,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,F - Tax,$28.31,-1204,64325,-2%,"-$34,085",,,,,AEL
+136,,2019-06-04 17:27:37,2019-06-02,AEL,Grensteiner Ronald James,EVP,F - Tax,$28.31,-1384,126722,-1%,"-$39,181",,,,,AEL
+137,,2019-06-04 17:01:25,2019-06-02,AEL,Samuelson Scott A.,VP-Controller,F - Tax,$28.31,-740,29549,-2%,"-$20,949",,,,,AEL
+138,,2019-06-04 16:16:12,2019-06-02,AEL,Matovina John M,"CEO, Pres",F - Tax,$28.31,-1362,269599,-1%,"-$38,558",,,,,AEL
+139,,2019-06-04 16:12:12,2019-06-02,AEL,Johnson Ted Morris,"CFO, Treasurer",F - Tax,$28.31,-1356,109301,-1%,"-$38,388",,,,,AEL
+140,,2019-06-04 16:08:53,2019-06-02,AEL,Montz Renee Denise,"EVP-GC, Sec",F - Tax,$28.31,-994,31132,-3%,"-$28,140",,,,,AEL
+141,D,2019-06-04 12:57:29,2019-06-03,AEL,Chapman Joyce Ann,Dir,M - OptEx,$5.85,10000,31750,+46%,"+$58,500",,,,,AEL
+142,D,2019-05-07 12:03:01,2019-05-06,AEL,Strickland Alonzo A J J,Dir,M - OptEx,$5.85,10000,244100,+4%,"+$58,500",,,,,AEL
+143,D,2019-04-26 09:40:42,2019-04-24,AEL,Richardson Debra J,Dir,M - OptEx,$7.00,40000,223042,+22%,"+$280,000",,,,,AEL
+144,D,2019-04-26 06:27:33,2019-04-24,AEL,Johnson Ted Morris,"CFO, Treasurer",M - OptEx,$7.00,20000,110657,+22%,"+$140,000",,,,,AEL
+145,D,2019-03-20 15:04:54,2019-03-19,AEL,Matovina John M,"CEO, Pres",M - OptEx,$7.00,40000,270961,+17%,"+$280,000",,,,,AEL
+146,,2019-03-04 18:14:49,2019-02-28,AEL,Richardson Debra J,Dir,A - Grant,$0.00,3403,183042,+2%,+$0,,,,,AEL
+147,,2019-03-04 18:14:49,2019-02-28,AEL,Richardson Debra J,Dir,F - Tax,$31.65,-1214,183042,-1%,"-$38,423",,,,,AEL
+148,,2019-03-04 17:41:44,2019-02-28,AEL,Matovina John M,"CEO, Pres",A - Grant,$0.00,36881,230961,+19%,+$0,,,,,AEL
+149,,2019-03-04 17:41:44,2019-02-28,AEL,Matovina John M,"CEO, Pres",F - Tax,$31.65,-12350,230961,-5%,"-$390,878",,,,,AEL
+150,,2019-03-04 17:38:30,2019-02-28,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,24172,90657,+36%,+$0,,,,,AEL
+151,,2019-03-04 17:38:30,2019-02-28,AEL,Johnson Ted Morris,"CFO, Treasurer",F - Tax,$31.65,-8812,90657,-9%,"-$278,900",,,,,AEL
+152,,2019-03-04 17:33:07,2019-02-28,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",A - Grant,$0.00,1564,10024,+18%,+$0,,,,,AEL
+153,,2019-03-04 17:28:36,2019-02-28,AEL,Grensteiner Ronald James,EVP,A - Grant,$0.00,24653,128106,+24%,+$0,,,,,AEL
+154,,2019-03-04 17:28:36,2019-02-28,AEL,Grensteiner Ronald James,EVP,F - Tax,$31.65,-6981,128106,-5%,"-$220,949",,,,,AEL
+155,,2019-03-04 17:26:49,2019-02-28,AEL,Montz Renee Denise,"EVP-GC, Sec",A - Grant,$0.00,18181,32126,+130%,+$0,,,,,AEL
+156,,2019-03-04 17:26:49,2019-02-28,AEL,Montz Renee Denise,"EVP-GC, Sec",F - Tax,$31.65,-6472,32126,-17%,"-$204,839",,,,,AEL
+157,,2019-03-04 17:24:46,2019-02-28,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,A - Grant,$0.00,21454,65529,+49%,+$0,,,,,AEL
+158,,2019-03-04 17:24:46,2019-02-28,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,F - Tax,$31.65,-7818,65529,-11%,"-$247,440",,,,,AEL
+159,,2019-03-04 17:21:56,2019-02-28,AEL,Samuelson Scott A.,VP-Controller,A - Grant,$0.00,7555,30289,+33%,+$0,,,,,AEL
+160,,2019-03-04 17:21:56,2019-02-28,AEL,Samuelson Scott A.,VP-Controller,F - Tax,$31.65,-2000,30289,-6%,"-$63,300",,,,,AEL
+161,,2018-08-20 19:01:09,2018-08-17,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",A - Grant,$0.00,2500,7891,+46%,+$0,,,,,AEL
+162,,2018-08-20 18:55:02,2018-08-17,AEL,Grensteiner Ronald James,EVP,A - Grant,$0.00,3500,109866,+3%,+$0,,,,,AEL
+163,,2018-08-20 18:49:30,2018-08-17,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,A - Grant,$0.00,3500,51307,+7%,+$0,,,,,AEL
+164,,2018-08-20 18:45:24,2018-08-17,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,6000,74719,+9%,+$0,,,,,AEL
+165,,2018-08-20 18:39:27,2018-08-17,AEL,Montz Renee Denise,"EVP-GC, Sec",A - Grant,$0.00,6000,19887,+43%,+$0,,,,,AEL
+166,,2018-08-20 18:33:57,2018-08-17,AEL,Samuelson Scott A.,VP-Controller,A - Grant,$0.00,2500,24108,+12%,+$0,,,,,AEL
+167,D,2018-06-08 12:58:24,2018-06-07,AEL,Richardson Debra J,Dir,A - Grant,$0.00,2600,182853,+1%,+$0,,,,,AEL
+168,D,2018-06-08 12:58:24,2018-06-07,AEL,Richardson Debra J,Dir,M - OptEx,$10.85,40000,182853,+28%,"+$434,000",,,,,AEL
+169,,2018-06-08 12:39:29,2018-06-07,AEL,Cushing Brenda J,Dir,A - Grant,$0.00,2600,5600,+87%,+$0,,,,,AEL
+170,,2018-06-08 12:32:06,2018-06-07,AEL,Kunkel William R.,Dir,A - Grant,$0.00,2600,48825,+6%,+$0,,,,,AEL
+171,A,2018-06-08 10:38:52,2018-06-07,AEL,Howe Robert L,Dir,A - Grant,$0.00,2600,40600,+7%,+$0,,,,,AEL
+172,,2018-06-08 09:46:34,2018-06-07,AEL,Mulcahy David S,Dir,A - Grant,$0.00,2600,72914,+4%,+$0,,,,,AEL
+173,,2018-06-07 16:23:49,2018-06-07,AEL,Clark Alexander Meeker,Dir,A - Grant,$0.00,2600,8600,+43%,+$0,,,,,AEL
+174,,2018-06-07 15:39:33,2018-06-07,AEL,Strickland Alonzo A J J,Dir,A - Grant,$0.00,2600,234100,+1%,+$0,,,,,AEL
+175,,2018-06-07 15:35:32,2018-06-07,AEL,Chapman Joyce Ann,Dir,A - Grant,$0.00,2600,21750,+14%,+$0,,,,,AEL
+176,,2018-06-07 15:33:21,2018-06-07,AEL,Gerlach James M,Dir,A - Grant,$0.00,2600,222267,+1%,+$0,,,,,AEL
+177,,2018-06-07 15:30:44,2018-06-07,AEL,Matula Alan David,Dir,A - Grant,$0.00,2600,18820,+16%,+$0,,,,,AEL
+178,,2018-06-07 15:27:14,2018-06-07,AEL,Howe Robert L,Dir,A - Grant,$0.00,2600,40600,+7%,+$0,,,,,AEL
+179,,2018-06-07 15:21:51,2018-06-07,AEL,Neugent Gerard D.,Dir,A - Grant,$0.00,2600,22100,+13%,+$0,,,,,AEL
+180,DM,2018-03-26 17:35:25,2018-03-23,AEL,Grensteiner Ronald James,EVP,M - OptEx,$8.32,47750,106366,+81%,"+$397,243",,,,,AEL
+181,DM,2018-03-26 17:35:25,2018-03-23,AEL,Grensteiner Ronald James,EVP,S - Sale+OE,$30.20,-47750,106366,-31%,"-$1,441,899",,,,,AEL
+182,D,2018-03-26 17:26:31,2018-03-26,AEL,Strickland Alonzo A J J,Dir,M - OptEx,$10.85,10000,231500,+5%,"+$108,500",,,,,AEL
+183,D,2018-03-16 13:54:38,2018-03-15,AEL,Matovina John M,"CEO, Pres",F - Tax,$31.76,-8000,209266,-4%,"-$254,080",,,,,AEL
+184,DM,2018-03-16 13:54:38,2018-03-15,AEL,Matovina John M,"CEO, Pres",M - OptEx,$10.85,40000,209266,+24%,"+$434,000",,,,,AEL
+185,D,2018-03-16 13:54:38,2018-03-16,AEL,Matovina John M,"CEO, Pres",S - Sale+OE,$31.85,-20000,209266,-9%,"-$637,002",,,,,AEL
+186,,2018-03-12 19:26:55,2018-03-09,AEL,Samuelson Scott A.,VP-Controller,F - Tax,$32.54,-165,21608,-1%,"-$5,369",,,,,AEL
+187,,2018-03-12 19:17:58,2018-03-09,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,F - Tax,$32.54,-267,47807,-1%,"-$8,688",,,,,AEL
+188,,2018-03-12 17:31:19,2018-03-08,AEL,Richardson Debra J,Dir,S - Sale,$31.05,-108350,140253,-44%,"-$3,363,780",,,,,AEL
+189,,2018-03-01 17:10:50,2018-02-27,AEL,Grensteiner Ronald James,EVP,A - Grant,$0.00,3578,106366,+3%,+$0,,,,,AEL
+190,,2018-03-01 17:02:57,2018-02-27,AEL,Matovina John M,"CEO, Pres",A - Grant,$0.00,8047,197266,+4%,+$0,,,,,AEL
+191,,2018-03-01 17:00:08,2018-02-27,AEL,Bryant Jennifer Lynn,"EVP, CHRO, AEILIC",A - Grant,$0.00,1060,5391,+24%,+$0,,,,,AEL
+192,,2018-03-01 16:51:11,2018-02-27,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,3512,68719,+5%,+$0,,,,,AEL
+193,,2018-03-01 16:44:32,2018-02-27,AEL,Montz Renee Denise,"EVP-GC, Sec",A - Grant,$0.00,2883,13887,+26%,+$0,,,,,AEL
+194,,2018-03-01 16:36:58,2018-02-27,AEL,Samuelson Scott A.,VP-Controller,A - Grant,$0.00,915,21773,+4%,+$0,,,,,AEL
+195,,2018-03-01 16:29:45,2018-02-27,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,A - Grant,$0.00,3115,48074,+7%,+$0,,,,,AEL
+196,,2018-02-27 18:23:01,2018-02-24,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,F - Tax,$31.92,-429,44959,-1%,"-$13,694",,,,,AEL
+197,,2018-02-21 17:06:18,2018-02-21,AEL,Clark Alexander Meeker,Dir,S - Sale,$32.75,-2500,6000,-29%,"-$81,863",,,,,AEL
+198,,2017-06-01 18:50:15,2017-06-01,AEL,Richardson Debra J,Dir,A - Grant,$0.00,3000,258976,+1%,+$0,,,,,AEL
+199,,2017-06-01 18:10:52,2017-06-01,AEL,Strickland Alonzo A J J,Dir,A - Grant,$0.00,3000,221500,+1%,+$0,,,,,AEL
+200,,2017-06-01 18:08:13,2017-06-01,AEL,Kunkel William R.,Dir,A - Grant,$0.00,3000,46225,+7%,+$0,,,,,AEL
+201,,2017-06-01 17:57:05,2017-06-01,AEL,Gerlach James M,Dir,A - Grant,$0.00,3000,219667,+1%,+$0,,,,,AEL
+202,,2017-06-01 17:46:51,2017-06-01,AEL,Cushing Brenda J,Dir,A - Grant,$0.00,3000,0,-100%,+$0,,,,,AEL
+203,,2017-06-01 17:27:11,2017-06-01,AEL,Clark Alexander Meeker,Dir,A - Grant,$0.00,3000,8500,+55%,+$0,,,,,AEL
+204,,2017-06-01 17:25:57,2017-06-01,AEL,Neugent Gerard D.,Dir,A - Grant,$0.00,3000,19500,+18%,+$0,,,,,AEL
+205,,2017-06-01 17:24:58,2017-06-01,AEL,Mulcahy David S,Dir,A - Grant,$0.00,3000,70314,+4%,+$0,,,,,AEL
+206,,2017-06-01 16:50:03,2017-06-01,AEL,Matula Alan David,Dir,A - Grant,$0.00,3000,16220,+23%,+$0,,,,,AEL
+207,,2017-06-01 15:23:59,2017-06-01,AEL,Howe Robert L,Dir,A - Grant,$0.00,3000,38000,+9%,+$0,,,,,AEL
+208,,2017-06-01 15:13:16,2017-06-01,AEL,Chapman Joyce Ann,Dir,A - Grant,$0.00,3000,19150,+19%,+$0,,,,,AEL
+209,,2017-05-17 18:29:13,2017-05-17,AEL,Matula Alan David,Dir,P - Purchase,$23.96,6270,13220,+90%,"+$150,249",,,,,AEL
+210,D,2017-04-10 15:02:08,2017-04-06,AEL,Noble David J,Dir,M - OptEx,$0.00,3318,1546997,0%,+$0,0.0,-2.0,1.0,,AEL
+211,,2017-03-13 17:46:16,2017-03-09,AEL,Noble David J,Dir,A - Grant,$0.00,4914,1699512,0%,+$0,0.0,-1.0,-7.0,,AEL
+212,,2017-03-13 17:41:16,2017-03-09,AEL,Richardson Debra J,Dir,A - Grant,$0.00,3075,255976,+1%,+$0,0.0,-1.0,-7.0,,AEL
+213,,2017-03-13 16:57:47,2017-03-09,AEL,Kunkel William R.,Dir,A - Grant,$0.00,2168,45393,+5%,+$0,0.0,-1.0,-7.0,,AEL
+214,,2017-03-13 16:45:25,2017-03-09,AEL,Grensteiner Ronald James,EVP,A - Grant,$0.00,7215,102278,+8%,+$0,0.0,-1.0,-7.0,,AEL
+215,,2017-03-13 16:28:52,2017-03-09,AEL,Matovina John M,"CEO, Pres",A - Grant,$0.00,10781,189165,+6%,+$0,0.0,-1.0,-7.0,,AEL
+216,,2017-03-13 16:13:23,2017-03-09,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,A - Grant,$0.00,6408,44763,+17%,+$0,0.0,-1.0,-7.0,,AEL
+217,,2017-03-13 16:13:23,2017-03-09,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,F - Tax,$25.87,-965,44763,-2%,"-$24,965",0.0,-1.0,-7.0,,AEL
+218,,2017-03-13 14:52:50,2017-03-09,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,7176,64674,+12%,+$0,-1.0,-2.0,-8.0,,AEL
+219,,2017-03-13 14:47:40,2017-03-09,AEL,Montz Renee Denise,"EVP-GC, Sec",A - Grant,$0.00,3247,10229,+47%,+$0,-1.0,-2.0,-8.0,,AEL
+220,,2017-03-13 14:40:46,2017-03-09,AEL,Samuelson Scott A.,VP-Controller,A - Grant,$0.00,3335,19944,+20%,+$0,-1.0,-2.0,-8.0,,AEL
+221,,2017-02-24 13:59:38,2017-02-22,AEL,Noble David J,Dir,S - Sale,$27.53,-100000,1694475,-6%,"-$2,753,440",-2.0,-1.0,-13.0,,AEL
+222,D,2017-02-23 17:10:45,2017-02-21,AEL,Grensteiner Ronald James,EVP,M - OptEx,$10.85,10000,94947,+12%,"+$108,500",-2.0,2.0,-13.0,,AEL
+223,D,2017-02-23 17:10:45,2017-02-21,AEL,Grensteiner Ronald James,EVP,S - Sale+OE,$27.71,-10000,94947,-10%,"-$277,071",-2.0,2.0,-13.0,,AEL
+224,D,2017-02-15 15:22:12,2017-02-13,AEL,Clark Alexander Meeker,Dir,M - OptEx,$12.26,5000,5500,>999%,"+$61,300",1.0,2.0,-5.0,,AEL
+225,D,2017-02-15 15:22:12,2017-02-13,AEL,Clark Alexander Meeker,Dir,S - Sale+OE,$26.48,-5000,5500,-48%,"-$132,394",1.0,2.0,-5.0,,AEL
+226,D,2017-01-09 16:37:41,2017-01-06,AEL,Clark Alexander Meeker,Dir,M - OptEx,$12.26,5000,5500,>999%,"+$61,300",3.0,6.0,7.0,,AEL
+227,D,2017-01-09 16:37:41,2017-01-06,AEL,Clark Alexander Meeker,Dir,S - Sale+OE,$22.67,-5000,5500,-48%,"-$113,358",3.0,6.0,7.0,,AEL
+228,,2016-12-20 17:43:44,2016-12-19,AEL,Matula Alan David,Dir,P - Purchase,$22.60,2200,6950,+46%,"+$49,727",-1.0,-1.0,3.0,,AEL
+229,,2016-11-15 17:54:47,2016-11-14,AEL,Richardson Debra J,Dir,S - Sale,$21.55,-1000,251071,0%,"-$21,550",0.0,0.0,3.0,,AEL
+230,M,2016-11-14 17:31:06,2016-11-10,AEL,Clark Alexander Meeker,Dir,S - Sale,$20.57,-3000,5500,-35%,"-$61,720",3.0,2.0,8.0,,AEL
+231,M,2016-11-14 17:26:51,2016-11-10,AEL,Clark Alexander Meeker,Dir,S - Sale,$20.57,-3000,5500,-35%,"-$61,720",3.0,2.0,8.0,,AEL
+232,M,2016-09-27 17:43:13,2016-09-19,AEL,Whitfield Harley A,Dir,S - Sale,$18.00,-3000,29500,-9%,"-$54,000",1.0,-1.0,-2.0,34.0,AEL
+233,,2016-07-05 16:33:26,2016-06-30,AEL,Grensteiner Ronald James,EVP,P - Purchase,$14.08,1770,93286,+2%,"+$24,924",1.0,12.0,15.0,65.0,AEL
+234,,2016-06-17 12:38:12,2016-06-15,AEL,Kunkel William R.,Dir,A - Grant,$0.00,4750,43225,+12%,+$0,0.0,7.0,3.0,44.0,AEL
+235,,2016-06-08 17:21:16,2016-06-08,AEL,Clark Alexander Meeker,Dir,S - Sale,$16.66,-5000,8500,-37%,"-$83,280",-4.0,-8.0,-17.0,31.0,AEL
+236,A,2016-06-06 19:29:30,2016-06-02,AEL,Gerlach James M,Dir,A - Grant,$0.00,4750,216667,+2%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+237,,2016-06-06 19:23:14,2016-06-02,AEL,Samuelson Scott A.,VP-Controller,A - Grant,$0.00,2526,15647,+19%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+238,,2016-06-06 19:10:01,2016-06-02,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,A - Grant,$0.00,4067,37771,+12%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+239,,2016-06-06 19:06:59,2016-06-02,AEL,Grensteiner Ronald James,VP,A - Grant,$0.00,4567,91516,+5%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+240,,2016-06-06 19:01:29,2016-06-02,AEL,Montz Renee Denise,"EVP-GC, Sec",A - Grant,$0.00,3214,5906,+119%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+241,,2016-06-06 18:49:22,2016-06-02,AEL,Matula Alan David,Dir,A - Grant,$0.00,4750,4750,New,+$0,-1.0,-7.0,-20.0,33.0,AEL
+242,,2016-06-06 18:47:40,2016-06-02,AEL,Noble David J,Exec COB,A - Grant,$0.00,2722,1795478,0%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+243,,2016-06-06 18:46:19,2016-06-02,AEL,Clark Alexander Meeker,Dir,A - Grant,$0.00,4750,13500,+54%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+244,,2016-06-06 18:43:49,2016-06-02,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,4592,55748,+9%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+245,,2016-06-06 18:41:44,2016-06-02,AEL,Chapman Joyce Ann,Dir,A - Grant,$0.00,4750,16150,+42%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+246,,2016-06-06 18:39:02,2016-06-02,AEL,Howe Robert L,Dir,A - Grant,$0.00,4750,35000,+16%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+247,,2016-06-06 18:35:00,2016-06-02,AEL,Whitfield Harley A,Dir,A - Grant,$0.00,4750,32500,+17%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+248,,2016-06-06 18:30:48,2016-06-02,AEL,Strickland Alonzo A J J,Dir,A - Grant,$0.00,4750,218500,+2%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+249,,2016-06-06 18:13:52,2016-06-02,AEL,Mulcahy David S,Dir,A - Grant,$0.00,4750,67314,+8%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+250,,2016-06-06 18:11:14,2016-06-02,AEL,Neugent Gerard D.,Dir,A - Grant,$0.00,4750,16500,+40%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+251,,2016-06-06 18:03:25,2016-06-02,AEL,Matovina John M,"CEO, Pres",A - Grant,$0.00,6740,177006,+4%,+$0,-1.0,-7.0,-20.0,33.0,AEL
+252,,2016-06-06 14:26:59,2016-06-02,AEL,Gerlach James M,Dir,A - Grant,$0.00,4750,216667,+2%,+$0,5.0,-1.0,-15.0,38.0,AEL
+253,,2016-04-12 18:27:53,2016-04-11,AEL,Noble David J,Exec COB,D - Sale to issuer,$0.00,-2722,1792756,0%,-$0,4.0,7.0,0.0,27.0,AEL
+254,,2016-04-12 18:13:36,2016-04-11,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,D - Sale to issuer,$0.00,-1413,33704,-4%,-$0,4.0,7.0,0.0,27.0,AEL
+255,,2016-04-12 18:12:27,2016-04-11,AEL,Richardson Debra J,"EVP, Secretary",D - Sale to issuer,$0.00,-1723,243691,-1%,-$0,4.0,7.0,0.0,27.0,AEL
+256,,2016-04-12 17:39:14,2016-04-11,AEL,Montz Renee Denise,"EVP-GC, Asst Sec",D - Sale to issuer,$0.00,-1018,2692,-27%,-$0,4.0,7.0,0.0,27.0,AEL
+257,,2016-04-12 17:34:37,2016-04-11,AEL,Samuelson Scott A.,VP-Controller,D - Sale to issuer,$0.00,-879,13121,-6%,-$0,4.0,7.0,0.0,27.0,AEL
+258,,2016-04-12 17:29:28,2016-04-11,AEL,Grensteiner Ronald James,VP,D - Sale to issuer,$0.00,-1516,86949,-2%,-$0,4.0,7.0,0.0,27.0,AEL
+259,,2016-04-12 17:17:07,2016-04-11,AEL,Johnson Ted Morris,"CFO, Treasurer",D - Sale to issuer,$0.00,-1602,51156,-3%,-$0,4.0,7.0,0.0,27.0,AEL
+260,,2016-04-12 17:02:04,2016-04-11,AEL,Matovina John M,"CEO, Pres",D - Sale to issuer,$0.00,-2378,170266,-1%,-$0,4.0,7.0,0.0,27.0,AEL
+261,,2016-04-08 13:47:22,2016-04-06,AEL,Montz Renee Denise,"EVP-GC, Asst Sec",P - Purchase,$13.45,885,3710,+31%,"+$11,903",1.0,17.0,7.0,42.0,AEL
+262,,2016-04-08 13:35:50,2016-04-06,AEL,Samuelson Scott A.,VP-Controller,P - Purchase,$13.45,3000,14000,+27%,"+$40,343",1.0,17.0,7.0,42.0,AEL
+263,D,2016-03-31 16:47:53,2016-03-30,AEL,Noble David J,Exec COB,M - OptEx,$10.65,50000,1795165,+3%,"+$532,500",1.0,-19.0,-15.0,6.0,AEL
+264,D,2016-03-15 12:02:02,2016-03-11,AEL,Gerlach James M,Dir,M - OptEx,$9.74,135000,211917,+176%,"+$1,315,083",-6.0,4.0,-6.0,14.0,AEL
+265,D,2016-03-15 12:02:02,2016-03-11,AEL,Gerlach James M,Dir,S - Sale+OE,$15.32,-135000,211917,-39%,"-$2,067,728",-6.0,4.0,-6.0,14.0,AEL
+266,D,2016-03-14 16:17:48,2016-03-10,AEL,Matovina John M,"CEO, Pres",A - Grant,$0.00,13338,172644,+8%,+$0,-6.0,6.0,-10.0,14.0,AEL
+267,D,2016-03-14 16:17:48,2016-03-11,AEL,Matovina John M,"CEO, Pres",M - OptEx,$10.24,27250,172644,+19%,"+$279,040",-6.0,6.0,-10.0,14.0,AEL
+268,D,2016-03-14 16:17:48,2016-03-11,AEL,Matovina John M,"CEO, Pres",S - Sale+OE,$15.19,-15000,172644,-8%,"-$227,835",-6.0,6.0,-10.0,14.0,AEL
+269,D,2016-03-14 15:58:32,2016-03-10,AEL,Richardson Debra J,"EVP, Secretary",A - Grant,$0.00,9644,253726,+4%,+$0,2.0,8.0,-7.0,16.0,AEL
+270,D,2016-03-14 15:58:32,2016-03-11,AEL,Richardson Debra J,"EVP, Secretary",M - OptEx,$10.24,47250,253726,+23%,"+$483,840",2.0,8.0,-7.0,16.0,AEL
+271,D,2016-03-14 15:58:32,2016-03-11,AEL,Richardson Debra J,"EVP, Secretary",S - Sale+OE,$15.19,-47250,253726,-16%,"-$717,680",2.0,8.0,-7.0,16.0,AEL
+272,,2016-03-14 14:40:42,2016-03-10,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,A - Grant,$0.00,7490,34846,+27%,+$0,2.0,8.0,-7.0,16.0,AEL
+273,,2016-03-11 13:38:13,2016-03-10,AEL,Grensteiner Ronald James,VP,A - Grant,$0.00,8311,88261,+10%,+$0,10.0,10.0,-1.0,30.0,AEL
+274,,2016-03-11 13:29:46,2016-03-10,AEL,Noble David J,Exec COB,A - Grant,$0.00,15595,1745165,+1%,+$0,10.0,10.0,-1.0,30.0,AEL
+275,,2016-03-11 13:21:41,2016-03-10,AEL,Kunkel William R.,"EVP, GC",A - Grant,$0.00,7490,41267,+22%,+$0,10.0,10.0,-1.0,30.0,AEL
+276,,2016-03-11 13:14:20,2016-03-10,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,8003,52613,+18%,+$0,10.0,10.0,-1.0,30.0,AEL
+277,D,2016-03-02 17:34:14,2016-03-01,AEL,Matovina John M,"CEO, Pres",M - OptEx,$10.24,10000,147056,+7%,"+$102,400",0.0,-3.0,16.0,23.0,AEL
+278,D,2016-03-02 17:34:14,2016-03-01,AEL,Matovina John M,"CEO, Pres",S - Sale+OE,$14.42,-10000,147056,-6%,"-$144,241",0.0,-3.0,16.0,23.0,AEL
+279,D,2016-02-24 18:09:54,2016-02-23,AEL,Kunkel William R.,"EVP, GC",M - OptEx,$11.87,20000,33777,+145%,"+$237,400",0.0,7.0,18.0,21.0,AEL
+280,,2016-02-19 12:11:06,2016-02-18,AEL,Samuelson Scott A.,VP-Controller,P - Purchase,$13.54,2500,10387,+32%,"+$33,838",5.0,1.0,22.0,21.0,AEL
+281,D,2016-02-18 19:45:23,2016-02-17,AEL,Mulcahy David S,Dir,M - OptEx,$11.42,29000,62564,+86%,"+$331,180",5.0,0.0,12.0,19.0,AEL
+282,D,2016-02-18 17:34:37,2016-02-17,AEL,Howe Robert L,Dir,M - OptEx,$9.27,2000,30250,+7%,"+$18,540",5.0,0.0,12.0,19.0,AEL
+283,,2016-02-18 17:34:13,2016-02-18,AEL,Lorenzen Jeffrey D,EVP-Chief Inv Officer,P - Purchase,$13.70,1824,27356,+7%,"+$24,989",5.0,0.0,12.0,19.0,AEL
+284,,2016-01-07 17:34:27,2016-01-06,AEL,Lorenzen Jeffrey D,SVP-Investments,P - Purchase,$21.95,2680,17681,+18%,"+$58,826",0.0,-9.0,-25.0,-33.0,AEL
+285,D,2015-12-15 18:19:45,2015-12-14,AEL,Grensteiner Ronald James,VP,M - OptEx,$10.24,47250,71117,+198%,"+$483,840",1.0,-2.0,-21.0,-37.0,AEL
+286,D,2015-12-15 18:19:45,2015-12-14,AEL,Grensteiner Ronald James,VP,S - Sale+OE,$23.59,-47250,71117,-40%,"-$1,114,609",1.0,-2.0,-21.0,-37.0,AEL
+287,,2015-12-14 14:00:35,2015-12-09,AEL,Clark Alexander Meeker,Dir,S - Sale,$25.00,-1000,8750,-10%,"-$25,000",0.0,-3.0,-20.0,-36.0,AEL
+288,DM,2015-11-18 15:14:32,2015-02-23,AEL,Matovina John M,"CEO, Pres",G - Gift,$0.00,-1450,138012,-1%,-$0,1.0,1.0,-10.0,-43.0,AEL
+289,D,2015-11-18 15:14:32,2015-11-17,AEL,Matovina John M,"CEO, Pres",M - OptEx,$10.24,10000,138012,+8%,"+$102,400",1.0,1.0,-10.0,-43.0,AEL
+290,,2015-11-12 15:04:34,2015-11-10,AEL,Whitfield Harley A,Dir,S - Sale,$27.55,-4000,27750,-13%,"-$110,202",-3.0,-2.0,-13.0,-49.0,AEL
+291,,2015-10-06 16:07:11,2015-10-06,AEL,Clark Alexander Meeker,Dir,S - Sale,$24.15,-1000,9750,-9%,"-$24,154",3.0,4.0,9.0,-43.0,AEL
+292,,2015-10-05 15:47:22,2015-10-05,AEL,Whitfield Harley A,Dir,S - Sale,$23.79,-1000,31750,-3%,"-$23,789",2.0,8.0,14.0,-30.0,AEL
+293,,2015-09-11 14:33:57,2015-09-11,AEL,Lorenzen Jeffrey D,SVP-Investments,P - Purchase,$23.86,700,31080,+2%,"+$16,702",0.0,1.0,4.0,-36.0,AEL
+294,D,2015-09-03 15:21:47,2015-09-02,AEL,Howe Robert L,Dir,M - OptEx,$9.27,1000,28250,+4%,"+$9,270",-1.0,-1.0,-5.0,-42.0,AEL
+295,,2015-08-13 11:07:31,2015-08-12,AEL,Kunkel William R.,"EVP, GC",P - Purchase,$25.25,3800,9362,+68%,"+$95,950",2.0,0.0,-12.0,-53.0,AEL
+296,,2015-07-01 15:03:49,2015-06-29,AEL,Richardson Debra J,"EVP, Secretary",S - Sale,$26.87,-1000,243308,0%,"-$26,874",1.0,-4.0,7.0,-8.0,AEL
+297,,2015-06-08 14:06:41,2015-06-04,AEL,Mulcahy David S,Dir,A - Grant,$0.00,2750,33564,+9%,+$0,0.0,3.0,3.0,2.0,AEL
+298,,2015-06-05 15:47:10,2015-06-04,AEL,Whitfield Harley A,Dir,A - Grant,$0.00,2750,32750,+9%,+$0,1.0,4.0,4.0,6.0,AEL
+299,,2015-06-05 15:46:52,2015-06-04,AEL,Howe Robert L,Dir,A - Grant,$0.00,2750,27250,+11%,+$0,1.0,4.0,4.0,6.0,AEL
+300,,2015-06-05 15:46:26,2015-06-04,AEL,Chapman Joyce Ann,Dir,A - Grant,$0.00,2750,11400,+32%,+$0,1.0,4.0,4.0,6.0,AEL
+301,,2015-06-05 15:46:11,2015-06-04,AEL,Gerlach James M,Dir,A - Grant,$0.00,2750,211917,+1%,+$0,1.0,4.0,4.0,6.0,AEL
+302,,2015-06-05 15:45:55,2015-06-04,AEL,Strickland Alonzo A J J,Dir,A - Grant,$0.00,2750,213750,+1%,+$0,1.0,4.0,4.0,6.0,AEL
+303,,2015-06-05 15:45:40,2015-06-04,AEL,Clark Alexander Meeker,Dir,A - Grant,$0.00,2750,10750,+34%,+$0,1.0,4.0,4.0,6.0,AEL
+304,,2015-06-05 15:45:22,2015-06-04,AEL,Neugent Gerard D.,Dir,A - Grant,$0.00,2750,11750,+31%,+$0,1.0,4.0,4.0,6.0,AEL
+305,,2015-03-20 13:46:14,2015-03-18,AEL,Noble David J,Exec COB,S - Sale,$28.74,-30000,1477752,-2%,"-$862,302",1.0,0.0,3.0,-15.0,AEL
+306,,2015-03-19 12:38:39,2015-03-18,AEL,Grensteiner Ronald James,VP,S - Sale,$28.82,-3500,71117,-5%,"-$100,853",-1.0,-1.0,-2.0,-16.0,AEL
+307,,2015-03-17 14:35:58,2015-03-16,AEL,Clark Alexander Meeker,Dir,S - Sale,$29.00,-5000,8000,-38%,"-$145,000",0.0,1.0,0.0,-17.0,AEL
+308,M,2015-03-13 11:55:45,2015-03-11,AEL,Noble David J,Exec COB,S - Sale,$28.47,-50000,1507752,-3%,"-$1,423,640",0.0,-1.0,0.0,-17.0,AEL
+309,,2015-02-26 16:27:56,2015-02-24,AEL,Kunkel William R.,"EVP, GC",A - Grant,$0.00,1413,5562,+34%,+$0,-2.0,-3.0,-1.0,-18.0,AEL
+310,,2015-02-26 16:27:39,2015-02-24,AEL,Grensteiner Ronald James,VP,A - Grant,$0.00,1516,74617,+2%,+$0,-2.0,-3.0,-1.0,-18.0,AEL
+311,,2015-02-26 16:27:26,2015-02-24,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,1602,35148,+5%,+$0,-2.0,-3.0,-1.0,-18.0,AEL
+312,,2015-02-26 16:27:10,2015-02-24,AEL,Richardson Debra J,"EVP, Secretary",A - Grant,$0.00,1723,226521,+1%,+$0,-2.0,-3.0,-1.0,-18.0,AEL
+313,,2015-02-26 16:26:56,2015-02-24,AEL,Lorenzen Jeffrey D,SVP-Investments,A - Grant,$0.00,1413,30380,+5%,+$0,-2.0,-3.0,-1.0,-18.0,AEL
+314,,2015-02-26 16:26:42,2015-02-24,AEL,Matovina John M,"CEO, Pres",A - Grant,$0.00,2378,129462,+2%,+$0,-2.0,-3.0,-1.0,-18.0,AEL
+315,,2015-02-26 16:26:27,2015-02-24,AEL,Samuelson Scott A.,VP-Controller,A - Grant,$0.00,879,3388,+35%,+$0,-2.0,-3.0,-1.0,-18.0,AEL
+316,,2015-02-26 16:26:13,2015-02-24,AEL,Noble David J,Exec COB,A - Grant,$0.00,2722,1557752,0%,+$0,-2.0,-3.0,-1.0,-18.0,AEL
+317,,2015-01-05 17:35:09,2015-01-02,AEL,Clark Alexander Meeker,Dir,S - Sale,$29.13,-10000,13000,-43%,"-$291,274",-2.0,-2.0,-4.0,-7.0,AEL
+318,D,2014-12-30 11:31:23,2014-12-29,AEL,Strickland Alonzo A J J,Dir,M - OptEx,$10.77,1000,211000,0%,"+$10,770",1.0,-4.0,-10.0,-7.0,AEL
+319,,2014-12-23 16:00:27,2014-12-23,AEL,Richardson Debra J,"EVP, Secretary",S - Sale,$28.65,-1000,224798,0%,"-$28,650",0.0,3.0,-7.0,-3.0,AEL
+320,,2014-12-18 10:39:22,2014-12-17,AEL,Matovina John M,"CEO, Pres",S - Sale,$28.00,-8000,127084,-6%,"-$224,000",1.0,1.0,-9.0,-4.0,AEL
+321,D,2014-11-25 10:19:06,2014-11-24,AEL,Matovina John M,"CEO, Pres",M - OptEx,$10.77,10000,135084,+8%,"+$107,700",0.0,-1.0,5.0,-6.0,AEL
+322,,2014-11-19 18:02:50,2014-11-17,AEL,Lorenzen Jeffrey D,SVP-Investments,S - Sale,$27.04,-1900,28967,-6%,"-$51,376",1.0,2.0,8.0,1.0,AEL
+323,D,2014-11-13 16:10:48,2014-11-12,AEL,Johnson Ted Morris,"CFO, Treasurer",M - OptEx,$10.85,10000,33546,+42%,"+$108,500",0.0,-1.0,3.0,-2.0,AEL
+324,D,2014-11-13 16:10:48,2014-11-12,AEL,Johnson Ted Morris,"CFO, Treasurer",S - Sale+OE,$26.86,-10000,33546,-23%,"-$268,616",0.0,-1.0,3.0,-2.0,AEL
+325,D,2014-11-13 16:10:35,2014-11-12,AEL,Matovina John M,"CEO, Pres",M - OptEx,$10.77,6000,125084,+5%,"+$64,620",0.0,-1.0,3.0,-2.0,AEL
+326,D,2014-11-13 16:10:35,2014-11-12,AEL,Matovina John M,"CEO, Pres",S - Sale+OE,$26.84,-6000,125084,-5%,"-$161,037",0.0,-1.0,3.0,-2.0,AEL
+327,D,2014-08-29 13:21:55,2014-08-28,AEL,Matovina John M,"CEO, Pres",M - OptEx,$10.77,4000,125084,+3%,"+$43,080",1.0,0.0,-5.0,18.0,AEL
+328,D,2014-08-29 13:21:55,2014-08-28,AEL,Matovina John M,"CEO, Pres",S - Sale+OE,$24.64,-4000,125084,-3%,"-$98,566",1.0,0.0,-5.0,18.0,AEL
+329,D,2014-08-27 16:37:36,2014-08-26,AEL,Lorenzen Jeffrey D,SVP-Investments,F - Tax,$24.21,-2956,30867,-9%,"-$71,558",0.0,0.0,-5.0,19.0,AEL
+330,D,2014-08-27 16:37:36,2014-08-26,AEL,Lorenzen Jeffrey D,SVP-Investments,M - OptEx,$9.27,5000,30867,+19%,"+$46,350",0.0,0.0,-5.0,19.0,AEL
+331,D,2014-08-27 16:37:19,2014-08-27,AEL,Johnson Ted Morris,"CFO, Treasurer",F - Tax,$24.40,-9445,33546,-22%,"-$230,435",0.0,0.0,-5.0,19.0,AEL
+332,D,2014-08-27 16:37:19,2014-08-27,AEL,Johnson Ted Morris,"CFO, Treasurer",M - OptEx,$10.77,15000,33546,+81%,"+$161,550",0.0,0.0,-5.0,19.0,AEL
+333,,2014-07-03 16:27:07,2014-07-02,AEL,Neugent Gerard D.,Dir,S - Sale,$24.68,-10000,50303,-17%,"-$246,841",-2.0,-4.0,-12.0,18.0,AEL
+334,,2014-07-01 16:55:09,2014-06-30,AEL,Clark Alexander Meeker,Dir,S - Sale,$24.63,-5000,23000,-18%,"-$123,127",-1.0,-2.0,-6.0,19.0,AEL
+335,D,2014-06-19 09:57:01,2014-06-18,AEL,Richardson Debra J,"EVP, Secretary",M - OptEx,$10.77,20000,225798,+10%,"+$215,400",0.0,-2.0,-5.0,12.0,AEL
+336,D,2014-06-19 09:57:01,2014-06-18,AEL,Richardson Debra J,"EVP, Secretary",S - Sale+OE,$25.41,-20000,225798,-8%,"-$508,177",0.0,-2.0,-5.0,12.0,AEL
+337,,2014-06-09 16:38:10,2014-06-05,AEL,Neugent Gerard D.,Dir,A - Grant,$0.00,3000,9000,+50%,+$0,0.0,-1.0,0.0,13.0,AEL
+338,,2014-06-09 16:37:55,2014-06-05,AEL,Howe Robert L,Dir,A - Grant,$0.00,3000,24500,+14%,+$0,0.0,-1.0,0.0,13.0,AEL
+339,,2014-06-09 16:37:41,2014-06-05,AEL,Mulcahy David S,Dir,A - Grant,$0.00,3000,30814,+11%,+$0,0.0,-1.0,0.0,13.0,AEL
+340,,2014-06-09 16:37:23,2014-06-05,AEL,Strickland Alonzo A J J,Dir,A - Grant,$0.00,3000,210000,+1%,+$0,0.0,-1.0,0.0,13.0,AEL
+341,,2014-06-09 16:37:09,2014-06-05,AEL,Whitfield Harley A,Dir,A - Grant,$0.00,3000,30000,+11%,+$0,0.0,-1.0,0.0,13.0,AEL
+342,,2014-06-09 16:36:54,2014-06-05,AEL,Clark Alexander Meeker,Dir,A - Grant,$0.00,3000,28000,+12%,+$0,0.0,-1.0,0.0,13.0,AEL
+343,,2014-06-09 16:36:38,2014-06-05,AEL,Gerlach James M,Dir,A - Grant,$0.00,3000,209167,+1%,+$0,0.0,-1.0,0.0,13.0,AEL
+344,,2014-06-09 16:36:21,2014-06-05,AEL,Chapman Joyce Ann,Dir,A - Grant,$0.00,3000,8650,+53%,+$0,0.0,-1.0,0.0,13.0,AEL
+345,D,2014-06-06 09:57:26,2014-06-05,AEL,Strickland Alonzo A J J,Dir,M - OptEx,$11.00,1000,207000,0%,"+$11,000",0.0,0.0,3.0,16.0,AEL
+346,D,2014-05-22 14:39:00,2014-05-21,AEL,Matovina John M,"CEO, Pres",M - OptEx,$11.00,4000,125084,+3%,"+$44,000",1.0,3.0,14.0,24.0,AEL
+347,D,2014-04-01 17:02:05,2014-03-31,AEL,Matovina John M,"CEO, Pres",M - OptEx,$11.00,4000,121084,+3%,"+$44,000",1.0,-4.0,-2.0,-2.0,AEL
+348,D,2014-04-01 17:01:50,2014-03-31,AEL,Gerlach James M,Dir,M - OptEx,$10.88,32500,206167,+19%,"+$353,475",1.0,-4.0,-2.0,-2.0,AEL
+349,D,2014-04-01 17:01:50,2014-03-31,AEL,Gerlach James M,Dir,S - Sale+OE,$23.55,-32500,206167,-14%,"-$765,401",1.0,-4.0,-2.0,-2.0,AEL
+350,D,2014-04-01 17:01:32,2014-03-31,AEL,Richardson Debra J,"EVP, Secretary",M - OptEx,$11.00,20000,225798,+10%,"+$220,000",1.0,-4.0,-2.0,-2.0,AEL
+351,D,2014-04-01 17:01:32,2014-03-31,AEL,Richardson Debra J,"EVP, Secretary",S - Sale+OE,$23.55,-10000,225798,-4%,"-$235,514",1.0,-4.0,-2.0,-2.0,AEL
+352,D,2014-03-28 12:57:38,2014-03-27,AEL,Matovina John M,"CEO, Pres",M - OptEx,$11.00,8000,117084,+7%,"+$88,000",-1.0,0.0,-5.0,-3.0,AEL
+353,D,2014-03-24 15:40:52,2014-03-21,AEL,Johnson Ted Morris,"CFO, Treasurer",M - OptEx,$11.00,15000,27991,+115%,"+$165,000",0.0,-5.0,-6.0,-6.0,AEL
+354,D,2014-03-24 15:40:52,2014-03-21,AEL,Johnson Ted Morris,"CFO, Treasurer",S - Sale+OE,$25.00,-15000,27991,-35%,"-$375,000",0.0,-5.0,-6.0,-6.0,AEL
+355,D,2014-03-24 11:51:35,2014-03-21,AEL,Grensteiner Ronald James,VP,M - OptEx,$10.77,7500,73101,+11%,"+$80,775",0.0,-5.0,-6.0,-6.0,AEL
+356,D,2014-03-24 11:51:35,2014-03-21,AEL,Grensteiner Ronald James,VP,S - Sale+OE,$25.00,-7500,73101,-9%,"-$187,500",0.0,-5.0,-6.0,-6.0,AEL
+357,D,2014-03-21 12:16:36,2014-03-20,AEL,Matovina John M,"CEO, Pres",M - OptEx,$11.00,4000,109084,+4%,"+$44,000",1.0,-3.0,-6.0,-4.0,AEL
+358,D,2014-03-21 12:16:36,2014-03-20,AEL,Matovina John M,"CEO, Pres",S - Sale+OE,$24.49,-4000,109084,-4%,"-$97,960",1.0,-3.0,-6.0,-4.0,AEL
+359,,2014-03-21 12:16:19,2014-03-21,AEL,Howe Robert L,Dir,S - Sale,$24.83,-1000,21500,-4%,"-$24,832",1.0,-3.0,-6.0,-4.0,AEL
+360,,2014-03-19 15:42:52,2014-03-19,AEL,Howe Robert L,Dir,S - Sale,$23.97,-930,22500,-4%,"-$22,294",1.0,5.0,-4.0,-1.0,AEL
+361,,2014-03-07 15:27:04,2014-03-06,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,1848,27991,+7%,+$0,2.0,1.0,0.0,6.0,AEL
+362,,2014-03-07 15:26:49,2014-03-06,AEL,Noble David J,Exec COB,A - Grant,$0.00,3370,1567863,0%,+$0,2.0,1.0,0.0,6.0,AEL
+363,,2014-03-07 15:26:35,2014-03-06,AEL,Matovina John M,"CEO, Pres",A - Grant,$0.00,2891,109084,+3%,+$0,2.0,1.0,0.0,6.0,AEL
+364,,2014-03-07 15:26:19,2014-03-06,AEL,Lorenzen Jeffrey D,SVP-Investments,A - Grant,$0.00,1652,28823,+6%,+$0,2.0,1.0,0.0,6.0,AEL
+365,,2014-03-07 15:26:03,2014-03-06,AEL,Richardson Debra J,"EVP, Secretary",A - Grant,$0.00,2109,215798,+1%,+$0,2.0,1.0,0.0,6.0,AEL
+366,,2014-03-07 15:25:47,2014-03-06,AEL,Grensteiner Ronald James,VP,A - Grant,$0.00,1826,73101,+3%,+$0,2.0,1.0,0.0,6.0,AEL
+367,,2014-03-07 15:25:26,2014-03-06,AEL,Kunkel William R.,"EVP, GC",A - Grant,$0.00,1652,4149,+66%,+$0,2.0,1.0,0.0,6.0,AEL
+368,,2014-03-07 15:25:12,2014-03-06,AEL,Samuelson Scott A.,VP-Controller,A - Grant,$0.00,978,2509,+64%,+$0,2.0,1.0,0.0,6.0,AEL
+369,D,2014-01-06 17:12:59,2014-01-03,AEL,Lorenzen Jeffrey D,SVP-Investments,M - OptEx,$9.27,5000,27171,+23%,"+$46,350",0.0,-7.0,-19.0,-6.0,AEL
+370,D,2014-01-06 17:12:59,2014-01-03,AEL,Lorenzen Jeffrey D,SVP-Investments,S - Sale+OE,$25.70,-5000,27171,-16%,"-$128,500",0.0,-7.0,-19.0,-6.0,AEL
+371,,2013-12-12 09:32:04,2013-12-10,AEL,Gerlach James M,Dir,S - Sale,$24.70,-17000,206167,-8%,"-$419,815",-1.0,0.0,0.0,-3.0,AEL
+372,D,2013-12-06 14:09:49,2013-12-05,AEL,Lorenzen Jeffrey D,SVP-Investments,F - Tax,$24.24,-7760,27171,-22%,"-$188,073",1.0,-1.0,7.0,-1.0,AEL
+373,D,2013-12-06 14:09:49,2013-12-05,AEL,Lorenzen Jeffrey D,SVP-Investments,M - OptEx,$6.55,15000,27171,+123%,"+$98,250",1.0,-1.0,7.0,-1.0,AEL
+374,D,2013-11-27 11:04:11,2013-11-26,AEL,Howe Robert L,Dir,F - Tax,$23.71,-7070,23430,-23%,"-$167,594",0.0,2.0,10.0,-5.0,AEL
+375,D,2013-11-27 11:04:11,2013-11-26,AEL,Howe Robert L,Dir,M - OptEx,$8.35,20000,23430,+583%,"+$167,000",0.0,2.0,10.0,-5.0,AEL
+376,D,2013-11-22 10:39:18,2013-11-20,AEL,Richardson Debra J,"EVP, Secretary",M - OptEx,$9.00,20000,119924,+20%,"+$180,000",2.0,2.0,9.0,-4.0,AEL
+377,D,2013-11-22 10:39:18,2013-11-20,AEL,Richardson Debra J,"EVP, Secretary",S - Sale+OE,$22.80,-20000,119924,-14%,"-$456,000",2.0,2.0,9.0,-4.0,AEL
+378,D,2013-11-19 16:31:06,2013-11-18,AEL,Strickland Alonzo A J J,Dir,M - OptEx,$9.00,1000,206000,0%,"+$9,000",1.0,5.0,9.0,-3.0,AEL
+379,D,2013-10-07 16:52:43,2013-10-03,AEL,Noble David J,Exec COB,M - OptEx,$9.00,50000,1826797,+3%,"+$450,000",0.0,1.0,-5.0,7.0,AEL
+380,D,2013-09-27 12:58:11,2013-09-26,AEL,Grensteiner Ronald James,VP,M - OptEx,$11.00,15000,71275,+27%,"+$165,000",0.0,0.0,-1.0,12.0,AEL
+381,D,2013-09-27 12:58:11,2013-09-26,AEL,Grensteiner Ronald James,VP,S - Sale+OE,$21.17,-15000,71275,-17%,"-$317,601",0.0,0.0,-1.0,12.0,AEL
+382,D,2013-09-17 17:12:32,2013-09-16,AEL,Gerlach James M,Dir,M - OptEx,$9.00,15000,223167,+7%,"+$135,000",0.0,-2.0,1.0,13.0,AEL
+383,D,2013-09-17 17:12:32,2013-09-16,AEL,Gerlach James M,Dir,S - Sale+OE,$21.14,-15000,223167,-6%,"-$317,171",0.0,-2.0,1.0,13.0,AEL
+384,,2013-09-13 14:14:59,2013-09-12,AEL,Richardson Debra J,"EVP, Secretary",S - Sale,$20.85,-1000,119924,-1%,"-$20,853",-1.0,0.0,3.0,13.0,AEL
+385,D,2013-09-11 13:15:38,2013-09-10,AEL,Matovina John M,"CEO, Pres",G - Gift,$20.12,-500,106193,0%,"-$10,060",-1.0,0.0,0.0,10.0,AEL
+386,D,2013-09-11 13:15:38,2013-09-10,AEL,Matovina John M,"CEO, Pres",M - OptEx,$9.00,1000,106193,+1%,"+$9,000",-1.0,0.0,0.0,10.0,AEL
+387,D,2013-09-05 10:57:46,2013-09-04,AEL,Matovina John M,"CEO, Pres",M - OptEx,$9.00,4000,105693,+4%,"+$36,000",0.0,3.0,5.0,14.0,AEL
+388,D,2013-09-05 10:57:46,2013-09-04,AEL,Matovina John M,"CEO, Pres",S - Sale+OE,$20.21,-4000,105693,-4%,"-$80,840",0.0,3.0,5.0,14.0,AEL
+389,D,2013-07-01 15:36:14,2013-06-28,AEL,Clark Alexander Meeker,Dir,M - OptEx,$10.06,20000,25000,+400%,"+$201,200",1.0,3.0,16.0,67.0,AEL
+390,D,2013-07-01 15:36:14,2013-06-28,AEL,Clark Alexander Meeker,Dir,S - Sale+OE,$15.63,-15000,25000,-38%,"-$234,401",1.0,3.0,16.0,67.0,AEL
+391,A,2013-06-26 10:23:50,2013-06-06,AEL,Mulcahy David S,Dir,A - Grant,$0.00,5000,27814,+22%,+$0,0.0,0.0,15.0,63.0,AEL
+392,A,2013-06-26 10:23:36,2013-06-06,AEL,Hilton Robert L,Dir,A - Grant,$0.00,0,36000,0%,+$0,0.0,0.0,15.0,63.0,AEL
+393,,2013-06-10 11:36:57,2013-06-06,AEL,Mulcahy David S,Dir,A - Grant,$0.00,5000,22814,+28%,+$0,0.0,-1.0,-1.0,50.0,AEL
+394,,2013-06-10 11:36:44,2013-06-06,AEL,Chapman Joyce Ann,Dir,A - Grant,$0.00,5000,5650,+769%,+$0,0.0,-1.0,-1.0,50.0,AEL
+395,,2013-06-10 11:36:31,2013-06-06,AEL,Gerlach James M,Dir,A - Grant,$0.00,5000,223167,+2%,+$0,0.0,-1.0,-1.0,50.0,AEL
+396,,2013-06-10 11:36:18,2013-06-06,AEL,Hilton Robert L,Dir,A - Grant,$0.00,5000,41000,+14%,+$0,0.0,-1.0,-1.0,50.0,AEL
+397,,2013-06-10 11:36:04,2013-06-06,AEL,Strickland Alonzo A J J,Dir,A - Grant,$0.00,5000,205000,+3%,+$0,0.0,-1.0,-1.0,50.0,AEL
+398,,2013-06-10 11:35:52,2013-06-06,AEL,Whitfield Harley A,Dir,A - Grant,$0.00,5000,27000,+23%,+$0,0.0,-1.0,-1.0,50.0,AEL
+399,,2013-06-10 11:35:39,2013-06-06,AEL,Clark Alexander Meeker,Dir,A - Grant,$0.00,5000,20000,+33%,+$0,0.0,-1.0,-1.0,50.0,AEL
+400,,2013-06-10 11:35:27,2013-06-06,AEL,Neugent Gerard D.,Dir,A - Grant,$0.00,5000,6000,+500%,+$0,0.0,-1.0,-1.0,50.0,AEL
+401,,2013-06-10 11:35:14,2013-06-06,AEL,Howe Robert L,Dir,A - Grant,$0.00,5000,10500,+91%,+$0,0.0,-1.0,-1.0,50.0,AEL
+402,D,2013-04-03 15:30:22,2013-04-02,AEL,Hilton Robert L,Dir,M - OptEx,$8.60,23000,36000,+177%,"+$197,770",-2.0,-2.0,1.0,43.0,AEL
+403,D,2013-04-03 15:30:22,2013-04-02,AEL,Hilton Robert L,Dir,S - Sale+OE,$14.74,-23000,36000,-39%,"-$338,904",-2.0,-2.0,1.0,43.0,AEL
+404,D,2013-04-02 14:57:02,2013-04-01,AEL,Johnson Ted Morris,"CFO, Treasurer",F - Tax,$14.84,-8147,26143,-24%,"-$120,940",1.0,0.0,4.0,44.0,AEL
+405,D,2013-04-02 14:57:02,2013-04-01,AEL,Johnson Ted Morris,"CFO, Treasurer",M - OptEx,$9.00,11000,26143,+73%,"+$99,000",1.0,0.0,4.0,44.0,AEL
+406,D,2013-04-01 10:26:59,2013-03-28,AEL,Johnson Ted Morris,"CFO, Treasurer",M - OptEx,$9.00,4000,23290,+21%,"+$36,000",-2.0,-3.0,2.0,43.0,AEL
+407,D,2013-03-26 14:47:16,2013-03-25,AEL,Matovina John M,"CEO, Pres",M - OptEx,$9.00,10000,105693,+10%,"+$90,000",1.0,0.0,1.0,40.0,AEL
+408,DM,2013-03-19 12:47:02,2013-03-15,AEL,Grensteiner Ronald James,VP,F - Tax,$14.85,-11065,71275,-13%,"-$164,368",0.0,0.0,-4.0,42.0,AEL
+409,D,2013-03-19 12:47:02,2013-03-15,AEL,Grensteiner Ronald James,VP,M - OptEx,$9.00,15000,71275,+27%,"+$135,000",0.0,0.0,-4.0,42.0,AEL
+410,,2013-03-13 17:46:26,2013-03-11,AEL,Lorenzen Jeffrey D,SVP-Investments,A - Grant,$0.00,5906,13706,+76%,+$0,1.0,1.0,-1.0,44.0,AEL
+411,,2013-03-13 17:46:10,2013-03-11,AEL,Noble David J,Exec COB,A - Grant,$0.00,12297,1776797,+1%,+$0,1.0,1.0,-1.0,44.0,AEL
+412,,2013-03-13 17:45:49,2013-03-11,AEL,Kunkel William R.,"EVP, GC",A - Grant,$0.00,2497,2497,New,+$0,1.0,1.0,-1.0,44.0,AEL
+413,,2013-03-13 17:45:27,2013-03-11,AEL,Matovina John M,"CEO, Pres",A - Grant,$0.00,9934,95693,+12%,+$0,1.0,1.0,-1.0,44.0,AEL
+414,,2013-03-13 17:45:06,2013-03-11,AEL,Johnson Ted Morris,"CFO, Treasurer",A - Grant,$0.00,5774,19290,+43%,+$0,1.0,1.0,-1.0,44.0,AEL
+415,,2013-03-13 17:44:48,2013-03-11,AEL,Richardson Debra J,"EVP, Secretary",A - Grant,$0.00,7605,120924,+7%,+$0,1.0,1.0,-1.0,44.0,AEL
+416,,2013-03-13 17:43:34,2013-03-11,AEL,Grensteiner Ronald James,VP,A - Grant,$0.00,6553,67340,+11%,+$0,1.0,1.0,-1.0,44.0,AEL
+417,D,2013-03-01 18:05:30,2013-02-28,AEL,Clark Alexander Meeker,Dir,M - OptEx,$5.85,10000,15000,+200%,"+$58,500",0.0,3.0,6.0,41.0,AEL
+418,D,2013-02-28 16:01:06,2013-02-27,AEL,Whitfield Harley A,Dir,M - OptEx,$8.60,23000,22000,-2300%,"+$197,770",0.0,2.0,7.0,38.0,AEL
+419,D,2013-02-28 16:01:06,2013-02-27,AEL,Whitfield Harley A,Dir,S - Sale+OE,$13.59,-23000,22000,-51%,"-$312,634",0.0,2.0,7.0,38.0,AEL
+420,,2013-01-02 09:49:49,2012-12-31,AEL,Richardson Debra J,"EVP, Secretary",S - Sale,$11.96,-500,113319,0%,"-$5,980",4.0,6.0,10.0,29.0,AEL
+421,,2012-12-26 10:53:29,2012-12-24,AEL,Reimer Terry A,EVP,S - Sale,$12.25,-6792,158507,-4%,"-$83,175",-2.0,4.0,13.0,29.0,AEL
+422,,2012-12-21 12:33:37,2012-12-20,AEL,Reimer Terry A,EVP,F - Tax,$12.20,-833,165299,-1%,"-$10,162",-1.0,-4.0,10.0,27.0,AEL
+423,D,2012-12-20 11:52:23,2012-12-18,AEL,Reimer Terry A,EVP,F - Tax,$12.04,-67375,166132,-29%,"-$811,511",1.0,-3.0,10.0,31.0,AEL
+424,D,2012-12-20 11:52:23,2012-12-18,AEL,Reimer Terry A,EVP,M - OptEx,$9.88,75000,166132,+82%,"+$741,083",1.0,-3.0,10.0,31.0,AEL
+425,M,2012-12-19 15:28:47,2012-12-17,AEL,Samuelson Scott A.,VP-Controller,P - Purchase,$12.09,315,1531,+26%,"+$3,810",2.0,-1.0,10.0,34.0,AEL
+426,D,2012-12-05 16:32:15,2012-12-04,AEL,Reimer Terry A,EVP,M - OptEx,$9.40,52500,158507,+50%,"+$493,475",-1.0,0.0,10.0,39.0,AEL
+427,D,2012-12-05 16:32:15,2012-12-04,AEL,Reimer Terry A,EVP,S - Sale+OE,$11.71,-52500,158507,-25%,"-$614,801",-1.0,0.0,10.0,39.0,AEL
+428,,2012-09-05 16:23:19,2012-09-05,AEL,Gerlach James M,Dir,S - Sale,$11.63,-6500,218167,-3%,"-$75,599",1.0,4.0,0.0,27.0,AEL
+429,D,2012-07-09 10:45:37,2012-07-06,AEL,Neugent Gerard D.,Dir,C - Converted deriv,$8.10,14814,60303,-20%,"$119,993",0.0,1.0,0.0,17.0,AEL
+430,,2012-07-05 17:25:06,2012-07-03,AEL,Grensteiner Ronald James,VP,P - Purchase,$11.36,825,60787,+1%,"+$9,368",1.0,1.0,2.0,17.0,AEL
+431,D,2012-07-03 15:04:27,2012-06-29,AEL,Reimer Terry A,EVP,C - Converted deriv,$8.10,3703,158507,-2%,"$29,994",2.0,0.0,0.0,15.0,AEL
+432,D,2012-07-02 18:10:14,2012-06-29,AEL,Gerlach James M,Dir,C - Converted deriv,$8.10,3703,224667,-2%,"$29,994",2.0,1.0,5.0,15.0,AEL
+433,D,2012-06-29 09:53:13,2012-06-27,AEL,Mulcahy David S,Dir,C - Converted deriv,$8.10,14814,22814,-39%,"$119,993",3.0,5.0,8.0,16.0,AEL
+434,D,2012-06-29 09:52:53,2012-06-27,AEL,Richardson Debra J,"EVP, Secretary",C - Converted deriv,$8.10,3703,113819,-3%,"$29,994",3.0,5.0,8.0,16.0,AEL
+435,D,2012-06-29 09:52:35,2012-06-27,AEL,Noble David J,Exec COB,C - Converted deriv,$8.10,22221,1771742,-1%,"$179,990",3.0,5.0,8.0,16.0,AEL
+436,,2012-05-14 11:03:37,2012-05-10,AEL,Clark Alexander Meeker,Dir,S - Sale,$11.35,-5000,5000,-50%,"-$56,764",-2.0,-7.0,-10.0,-7.0,AEL
+437,D,2012-03-28 18:55:50,2012-03-28,AEL,Matovina John M,"Vice COB, CFO, Treasurer",M - OptEx,$12.77,5000,84759,+6%,"+$63,850",0.0,-1.0,-3.0,-9.0,AEL
+438,,2012-03-12 18:18:39,2012-03-09,AEL,Reimer Terry A,EVP,A - Grant,$0.00,3355,154804,+2%,+$0,2.0,4.0,-3.0,-2.0,AEL
+439,,2012-03-12 18:17:57,2012-03-09,AEL,Noble David J,Exec COB,A - Grant,$0.00,9211,1749521,+1%,+$0,2.0,4.0,-3.0,-2.0,AEL
+440,,2012-03-12 18:17:40,2012-03-09,AEL,Grensteiner Ronald James,VP,A - Grant,$0.00,5000,59962,+9%,+$0,2.0,4.0,-3.0,-2.0,AEL
+441,,2012-03-12 18:17:21,2012-03-09,AEL,Gerlach James M,Dir,A - Grant,$0.00,1875,217943,+1%,+$0,2.0,4.0,-3.0,-2.0,AEL
+442,,2012-03-12 18:17:03,2012-03-09,AEL,Matovina John M,"Vice COB, CFO, Treasurer",A - Grant,$0.00,6579,79759,+9%,+$0,2.0,4.0,-3.0,-2.0,AEL
+443,,2012-03-12 18:16:40,2012-03-09,AEL,Johnson Ted Morris,VP-Controller,A - Grant,$0.00,3355,13516,+33%,+$0,2.0,4.0,-3.0,-2.0,AEL
+444,,2012-03-12 18:16:23,2012-03-09,AEL,Carlson Wendy L,"Pres, CEO",A - Grant,$0.00,7895,139512,+6%,+$0,2.0,4.0,-3.0,-2.0,AEL
+445,,2012-03-12 18:16:05,2012-03-09,AEL,Richardson Debra J,"EVP, Secretary",A - Grant,$0.00,5855,110116,+6%,+$0,2.0,4.0,-3.0,-2.0,AEL
+446,,2012-01-04 16:38:18,2012-01-03,AEL,Clark Alexander Meeker,Dir,S - Sale,$10.72,-5000,10000,-33%,"-$53,582",-1.0,0.0,12.0,8.0,AEL
+447,,2011-09-26 10:14:43,2011-09-22,AEL,Neugent Gerard D.,Dir,P - Purchase,$8.45,17689,45489,+64%,"+$149,507",6.0,6.0,30.0,59.0,AEL
+448,,2011-08-10 18:30:51,2011-08-10,AEL,Mulcahy David S,Dir,P - Purchase,$9.48,3000,8000,+60%,"+$28,437",8.0,9.0,0.0,30.0,AEL
+449,,2011-06-30 16:14:26,2011-06-29,AEL,Richardson Debra J,"EVP, Secretary",S - Sale,$12.62,-700,107121,-1%,"-$8,837",2.0,3.0,-7.0,-17.0,AEL
+450,D,2011-05-25 14:21:07,2011-05-24,AEL,Reimer Terry A,EVP,F - Tax,$12.59,-6240,180303,-3%,"-$78,590",0.0,1.0,-1.0,-12.0,AEL
+451,D,2011-05-25 14:21:07,2011-05-24,AEL,Reimer Terry A,EVP,M - OptEx,$9.00,15000,180303,+9%,"+$135,000",0.0,1.0,-1.0,-12.0,AEL
+452,D,2011-04-08 14:15:46,2011-04-06,AEL,Johnson Ted Morris,VP-Controller,F - Tax,$13.27,-30000,10161,-75%,"-$398,162",-2.0,-8.0,-5.0,-31.0,AEL
+453,D,2011-04-08 14:15:46,2011-04-06,AEL,Johnson Ted Morris,VP-Controller,M - OptEx,$9.67,30000,10161,-151%,"+$290,100",-2.0,-8.0,-5.0,-31.0,AEL
+454,,2011-03-16 17:25:03,2011-03-15,AEL,Mulcahy David S,Dir,P - Purchase,$12.90,5000,5000,New,"+$64,503",1.0,3.0,0.0,-27.0,AEL
+455,,2011-03-01 19:52:57,2011-02-28,AEL,Richardson Debra J,"EVP, Secretary",A - Grant,$0.00,3003,107821,+3%,+$0,0.0,1.0,0.0,-26.0,AEL
+456,,2011-03-01 19:42:20,2011-02-28,AEL,Carlson Wendy L,"Pres, CEO",A - Grant,$0.00,3887,131617,+3%,+$0,0.0,1.0,0.0,-26.0,AEL
+457,,2011-03-01 19:28:36,2011-02-28,AEL,Matovina John M,"Vice COB, CFO, Treasurer",A - Grant,$0.00,3180,73180,+5%,+$0,0.0,1.0,0.0,-26.0,AEL
+458,,2011-03-01 19:19:09,2011-02-28,AEL,Grensteiner Ronald James,VP,A - Grant,$0.00,2120,54962,+4%,+$0,0.0,1.0,0.0,-26.0,AEL
+459,,2011-03-01 19:07:57,2011-02-28,AEL,Johnson Ted Morris,VP-Controller,A - Grant,$0.00,1661,10161,+20%,+$0,0.0,1.0,0.0,-26.0,AEL
+460,,2011-03-01 19:03:32,2011-02-28,AEL,Reimer Terry A,EVP,A - Grant,$0.00,1661,171543,+1%,+$0,0.0,1.0,0.0,-26.0,AEL
+461,,2011-03-01 18:54:37,2011-02-28,AEL,Gerlach James M,EVP,A - Grant,$0.00,1873,178643,+1%,+$0,0.0,1.0,0.0,-26.0,AEL
+462,,2011-03-01 18:54:01,2011-02-28,AEL,Noble David J,Exec COB,A - Grant,$0.00,4594,1641512,0%,+$0,0.0,1.0,0.0,-26.0,AEL
+463,D,2010-12-07 17:58:44,2010-12-06,AEL,Noble David J,Exec COB,D - Sale to issuer,$11.93,-98361,1636918,-6%,"-$1,173,447",1.0,5.0,9.0,1.0,AEL
+464,D,2010-12-06 17:52:30,2010-12-02,AEL,Reimer Terry A,EVP,F - Tax,$11.33,-27230,176266,-13%,"-$308,496",1.0,5.0,8.0,3.0,AEL
+465,D,2010-12-06 17:52:30,2010-12-02,AEL,Reimer Terry A,EVP,M - OptEx,$9.67,30000,176266,+21%,"+$290,100",1.0,5.0,8.0,3.0,AEL
+466,D,2010-12-06 17:52:30,2010-12-02,AEL,Reimer Terry A,EVP,S - Sale+OE,$11.33,-2770,176266,-2%,"-$31,380",1.0,5.0,8.0,3.0,AEL
+467,D,2010-12-03 18:19:17,2010-12-02,AEL,Richardson Debra J,"EVP, Secretary",F - Tax,$11.33,-27230,104818,-21%,"-$308,496",0.0,5.0,8.0,4.0,AEL
+468,D,2010-12-03 18:19:17,2010-12-02,AEL,Richardson Debra J,"EVP, Secretary",M - OptEx,$9.67,30000,104818,+40%,"+$290,100",0.0,5.0,8.0,4.0,AEL
+469,,2010-12-03 18:17:25,2010-11-24,AEL,Neugent Gerard D.,Dir,P - Purchase,$11.16,600,1000,+150%,"+$6,696",0.0,5.0,8.0,4.0,AEL
+470,DM,2010-12-03 17:51:17,2010-12-02,AEL,Gerlach James M,EVP,F - Tax,$11.33,-27230,182410,-13%,"-$308,496",0.0,5.0,8.0,4.0,AEL
+471,D,2010-12-03 17:51:17,2010-12-02,AEL,Gerlach James M,EVP,M - OptEx,$9.67,30000,182410,+20%,"+$290,100",0.0,5.0,8.0,4.0,AEL
+472,D,2010-12-03 17:08:50,2010-12-03,AEL,Carlson Wendy L,"Pres, CEO",F - Tax,$11.88,-26420,127730,-17%,"-$313,993",0.0,5.0,8.0,4.0,AEL
+473,D,2010-12-03 17:08:50,2010-12-03,AEL,Carlson Wendy L,"Pres, CEO",M - OptEx,$9.67,30000,127730,+31%,"+$290,100",0.0,5.0,8.0,4.0,AEL
+474,D,2010-11-24 16:10:11,2010-11-24,AEL,Grensteiner Ronald James,VP,F - Tax,$11.02,-27707,52842,-34%,"-$305,422",0.0,2.0,16.0,13.0,AEL
+475,D,2010-11-24 16:10:11,2010-11-24,AEL,Grensteiner Ronald James,VP,M - OptEx,$9.67,30000,52842,+131%,"+$290,100",0.0,2.0,16.0,13.0,AEL
+476,,2010-10-05 16:38:19,2010-10-01,AEL,Richardson Debra J,"EVP, Secretary",S - Sale,$10.33,-500,102048,0%,"-$5,165",1.0,2.0,4.0,29.0,AEL
+477,,2010-08-11 17:32:19,2010-08-11,AEL,Hilton Robert L,Dir,P - Purchase,$10.60,5000,36000,+16%,"+$52,995",-1.0,1.0,0.0,29.0,AEL
+478,,2010-08-11 17:26:30,2010-08-10,AEL,Hilton Robert L,Dir,P - Purchase,$10.86,5000,31000,+19%,"+$54,290",-1.0,1.0,0.0,29.0,AEL
+479,,2010-06-01 16:37:32,2010-06-01,AEL,Matovina John M,"Vice COB, CFO, Treasurer",P - Purchase,$9.25,2000,70000,+3%,"+$18,500",5.0,-3.0,16.0,22.0,AEL
+480,D,2010-04-07 17:32:31,2010-04-06,AEL,Gerlach James M,EVP,F - Tax,$10.85,-11610,179640,-6%,"-$126,002",-1.0,0.0,-8.0,-6.0,AEL
+481,D,2010-04-07 17:32:31,2010-04-06,AEL,Gerlach James M,EVP,M - OptEx,$9.67,17250,179640,+11%,"+$166,808",-1.0,0.0,-8.0,-6.0,AEL
+482,D,2010-04-07 17:19:26,2010-04-06,AEL,Reimer Terry A,EVP,F - Tax,$10.87,-13855,176266,-7%,"-$150,536",-1.0,0.0,-8.0,-6.0,AEL
+483,D,2010-04-07 17:19:26,2010-04-06,AEL,Reimer Terry A,EVP,M - OptEx,$9.67,17250,176266,+11%,"+$166,808",-1.0,0.0,-8.0,-6.0,AEL
+484,D,2010-04-07 17:10:24,2010-04-05,AEL,Richardson Debra J,"EVP, Secretary",F - Tax,$10.82,-16126,102548,-14%,"-$174,508",-1.0,0.0,-8.0,-6.0,AEL
+485,D,2010-04-07 17:10:24,2010-04-05,AEL,Richardson Debra J,"EVP, Secretary",M - OptEx,$9.67,17250,102548,+20%,"+$166,808",-1.0,0.0,-8.0,-6.0,AEL
+486,D,2010-04-07 16:59:59,2010-04-06,AEL,Carlson Wendy L,"Pres, CEO",F - Tax,$10.88,-13975,124150,-10%,"-$152,038",-1.0,0.0,-8.0,-6.0,AEL
+487,D,2010-04-07 16:59:59,2010-04-06,AEL,Carlson Wendy L,"Pres, CEO",M - OptEx,$9.67,15000,124150,+14%,"+$145,050",-1.0,0.0,-8.0,-6.0,AEL
+488,D,2010-04-07 16:52:47,2010-04-05,AEL,Grensteiner Ronald James,VP,F - Tax,$10.82,-14040,50549,-22%,"-$151,943",-1.0,0.0,-8.0,-6.0,AEL
+489,D,2010-04-07 16:52:47,2010-04-05,AEL,Grensteiner Ronald James,VP,M - OptEx,$9.67,15000,50549,+42%,"+$145,050",-1.0,0.0,-8.0,-6.0,AEL
+490,,2009-12-08 15:19:07,2009-12-04,AEL,Chapman Joyce Ann,Dir,P - Purchase,$7.81,650,650,New,"+$5,077",-1.0,5.0,1.0,13.0,AEL
+491,,2009-08-28 17:17:23,2009-08-27,AEL,Clark Alexander Meeker,Dir,S - Sale,$8.34,-5000,15000,-25%,"-$41,700",-5.0,-14.0,-13.0,10.0,AEL
+492,,2009-07-02 14:37:55,2009-07-02,AEL,Gerlach James M,EVP,P - Purchase,$5.42,2000,174000,+1%,"+$10,840",-8.0,-6.0,23.0,26.0,AEL
+493,,2009-06-17 11:08:12,2009-06-16,AEL,Carlson Wendy L,"Pres, CEO",P - Purchase,$4.86,5000,123125,+4%,"+$24,290",2.0,8.0,41.0,72.0,AEL
+494,,2009-03-31 12:22:42,2009-03-31,AEL,Clark Alexander Meeker,Dir,P - Purchase,$4.01,3000,20000,+18%,"+$12,030",4.0,27.0,40.0,83.0,AEL
+495,,2009-03-20 16:13:16,2009-03-20,AEL,Carlson Wendy L,"Pres, CEO",P - Purchase,$3.80,10000,118125,+9%,"+$38,019",16.0,28.0,32.0,101.0,AEL
+496,,2008-11-21 14:44:08,2008-11-21,AEL,Howe Robert L,Dir,P - Purchase,$4.00,2000,5500,+57%,"+$8,000",10.0,51.0,67.0,44.0,AEL
+497,,2008-11-19 17:51:44,2008-11-19,AEL,Strickland Alonzo A J J,Dir,P - Purchase,$4.50,2000,200000,+1%,"+$9,000",-4.0,25.0,37.0,34.0,AEL
+498,,2008-11-14 13:28:24,2008-11-13,AEL,Strickland Alonzo A J J,Dir,P - Purchase,$4.65,4346,198000,+2%,"+$20,195",-13.0,-17.0,11.0,20.0,AEL
+499,A,2008-11-14 13:26:53,2008-11-12,AEL,Strickland Alonzo A J J,Dir,P - Purchase,$4.95,3654,193654,+2%,"+$18,105",-13.0,-17.0,11.0,20.0,AEL
+500,,2008-11-13 13:57:02,2008-11-12,AEL,Strickland Alonzo A J J,Dir,P - Purchase,$4.95,3654,193654,+2%,"+$18,104",3.0,-11.0,20.0,29.0,AEL
+501,,2008-10-01 12:21:26,2008-09-30,AEL,Strickland Alonzo A J J,Dir,P - Purchase,$7.50,10000,190000,+6%,"+$75,000",-20.0,-1.0,-45.0,-38.0,AEL
+502,,2008-10-01 12:20:56,2008-09-30,AEL,Howe Robert L,Dir,P - Purchase,$7.56,1000,3500,+40%,"+$7,559",-20.0,-1.0,-45.0,-38.0,AEL
+503,DE,2008-09-22 17:16:04,2008-09-19,AEL,Wingert Kevin R,VP,F - Tax,$10.34,-2431,113407,-2%,"-$25,138",-2.0,-7.0,-50.0,-55.0,AEL
+504,DE,2008-09-22 17:16:04,2008-09-19,AEL,Wingert Kevin R,VP,M - OptEx,$7.33,2431,113407,+2%,"+$17,819",-2.0,-7.0,-50.0,-55.0,AEL
+505,,2008-09-18 16:46:59,2008-09-17,AEL,Chapman Steven Glen,Dir,P - Purchase,$8.57,7500,7500,New,"+$64,250",8.0,0.0,-46.0,-60.0,AEL
+506,,2008-02-29 11:05:21,2008-02-28,AEL,Hilton Robert L,Dir,P - Purchase,$9.78,10000,26000,+63%,"+$97,815",1.0,-8.0,-2.0,-4.0,AEL
+507,,2008-01-03 19:09:55,2008-01-02,AEL,Wingert Kevin R,VP,P - Purchase,$8.36,241,113648,0%,"+$2,014",1.0,-4.0,6.0,1.0,AEL
+508,,2007-11-09 13:52:31,2007-11-09,AEL,Reimer Terry A,EVP,P - Purchase,$8.49,3000,6000,+100%,"+$25,470",5.0,5.0,9.0,25.0,AEL
+509,,2007-11-09 13:19:43,2007-11-08,AEL,Howe Robert L,Dir,P - Purchase,$8.25,1000,2500,+67%,"+$8,250",5.0,5.0,9.0,25.0,AEL
+510,,2007-11-09 13:19:03,2007-11-08,AEL,Noble David J,"COB, CEO, Pres",P - Purchase,$8.22,10000,1735279,+1%,"+$82,248",5.0,5.0,9.0,25.0,AEL
+511,,2007-11-08 15:38:15,2007-11-07,AEL,Richardson Debra J,"SVP, Secretary",P - Purchase,$8.22,1500,101424,+2%,"+$12,330",2.0,10.0,12.0,26.0,AEL
+512,,2007-11-08 15:36:28,2007-11-07,AEL,Gerlach James M,EVP,P - Purchase,$8.30,2000,172000,+1%,"+$16,600",2.0,10.0,12.0,26.0,AEL
+513,,2007-10-09 16:36:44,2007-10-08,AEL,Whitfield Harley A,Dir,S - Sale,$11.10,-1000,22000,-4%,"-$11,100",-1.0,-5.0,-23.0,-13.0,AEL
+514,,2007-09-11 16:50:53,2007-09-10,AEL,Howe Robert L,Dir,P - Purchase,$9.89,500,1500,+50%,"+$4,943",-1.0,-1.0,11.0,-11.0,AEL
+515,,2007-08-31 13:33:11,2007-08-29,AEL,Noble David J,"COB, CEO, Pres",D - Sale to issuer,$10.77,-650000,1725279,-27%,"-$7,000,500",0.0,-3.0,8.0,-7.0,AEL
+516,,2007-06-26 12:26:11,2007-06-22,AEL,Hilton Robert L,Dir,P - Purchase,$12.01,2000,16000,+14%,"+$24,020",0.0,0.0,0.0,-27.0,AEL
+517,,2007-06-11 17:20:33,2007-06-11,AEL,Wingert Kevin R,VP,S - Sale,$12.00,-5500,113407,-5%,"-$66,000",0.0,3.0,-2.0,-24.0,AEL
+518,,2007-06-08 10:14:01,2007-06-08,AEL,Howe Robert L,Dir,P - Purchase,$11.65,500,1000,+100%,"+$5,825",2.0,5.0,5.0,-23.0,AEL
+519,D,2007-06-01 12:09:37,2007-05-30,AEL,Richardson Debra J,"SVP, Secretary",M - OptEx,$4.00,5250,99924,+6%,"+$21,000",1.0,-3.0,1.0,-25.0,AEL
+520,D,2007-05-21 16:13:48,2007-05-17,AEL,Wingert Kevin R,VP,M - OptEx,$4.00,3000,118907,+3%,"+$12,000",0.0,-2.0,5.0,-24.0,AEL
+521,AD,2007-05-16 17:45:04,2007-05-16,AEL,Gerlach James M,EVP,M - OptEx,$4.00,7500,7500,New,"+$30,000",-1.0,-2.0,2.0,-25.0,AEL
+522,A,2007-05-16 17:24:16,2007-05-15,AEL,Hilton Robert L,Dir,P - Purchase,$11.81,2000,14000,+17%,"+$23,620",-1.0,-2.0,2.0,-25.0,AEL
+523,D,2007-05-16 16:55:31,2005-05-16,AEL,Gerlach James M,EVP,M - OptEx,$4.00,7500,7500,New,"+$30,000",-1.0,-2.0,2.0,-25.0,AEL
+524,,2007-05-16 16:43:06,2005-05-15,AEL,Hilton Robert L,Dir,P - Purchase,$11.81,2000,14000,+17%,"+$23,620",-1.0,-2.0,2.0,-25.0,AEL
+525,D,2007-05-01 16:37:08,2007-04-30,AEL,Noble David J,"COB, CEO, Pres",F - Tax,$13.75,-337221,2375279,-12%,"-$4,636,789",0.0,-8.0,-14.0,-30.0,AEL
+526,D,2007-05-01 16:37:08,2007-04-30,AEL,Noble David J,"COB, CEO, Pres",M - OptEx,$4.83,960000,2375279,+68%,"+$4,636,800",0.0,-8.0,-14.0,-30.0,AEL
+527,,2007-03-27 10:21:42,2007-02-26,AEL,Anderson John C,Dir,S - Sale,$13.78,-5000,5650,-47%,"-$68,900",-1.0,-1.0,5.0,-18.0,AEL
+528,,2007-03-09 12:21:10,2007-03-09,AEL,Wingert Kevin R,VP,P - Purchase,$12.64,288,115907,0%,"+$3,639",0.0,0.0,5.0,-19.0,AEL
+529,D,2006-12-05 18:05:22,2006-12-01,AEL,Gerlach James M,EVP,F - Tax,$12.88,-39143,170000,-19%,"-$504,162",-1.0,-2.0,-5.0,-14.0,AEL
+530,D,2006-12-05 18:05:22,2006-12-01,AEL,Gerlach James M,EVP,M - OptEx,$3.33,75000,170000,+79%,"+$249,750",-1.0,-2.0,-5.0,-14.0,AEL
+531,DM,2006-11-15 17:12:36,2006-11-13,AEL,Wingert Kevin R,VP,F - Tax,$13.03,-30000,115619,-21%,"-$390,849",1.0,-1.0,0.0,-10.0,AEL
+532,DM,2006-11-15 17:12:36,2006-11-13,AEL,Wingert Kevin R,VP,M - OptEx,$3.33,30000,115619,+35%,"+$99,900",1.0,-1.0,0.0,-10.0,AEL
+533,,2006-11-07 16:09:45,2006-11-06,AEL,Whitfield Harley A,Dir,F - Tax,$12.75,-13000,23000,-36%,"-$165,776",1.0,0.0,2.0,-7.0,AEL
+534,D,2006-10-03 13:28:57,2006-09-29,AEL,Reimer Terry A,EVP,F - Tax,$12.11,-48860,166262,-23%,"-$591,890",0.0,4.0,6.0,11.0,AEL
+535,D,2006-10-03 13:28:57,2006-09-29,AEL,Reimer Terry A,EVP,G - Gift,$12.11,-2000,166262,-1%,"-$24,228",0.0,4.0,6.0,11.0,AEL
+536,DM,2006-10-03 13:28:57,2006-09-26,AEL,Reimer Terry A,EVP,M - OptEx,$3.39,79500,166262,+92%,"+$269,760",0.0,4.0,6.0,11.0,AEL
+537,D,2006-09-28 16:55:29,2006-09-26,AEL,Richardson Debra J,"SVP, Secretary",F - Tax,$12.45,-90423,94674,-49%,"-$1,125,766",0.0,0.0,4.0,7.0,AEL
+538,D,2006-09-28 16:55:29,2006-09-26,AEL,Richardson Debra J,"SVP, Secretary",M - OptEx,$3.33,52500,94674,+124%,"+$174,825",0.0,0.0,4.0,7.0,AEL
+539,,2006-09-28 16:52:41,2006-09-26,AEL,Gerlach James M,EVP,F - Tax,$12.45,-53107,134143,-28%,"-$661,182",0.0,0.0,4.0,7.0,AEL
+540,,2006-09-22 11:58:02,2006-09-20,AEL,Johnson Ted Morris,VP,F - Tax,$12.34,-12000,8500,-59%,"-$148,080",0.0,1.0,3.0,9.0,AEL
+541,,2006-09-13 14:02:59,2006-09-13,AEL,Carlson Wendy L,"CFO, GC",F - Tax,$11.96,-20000,98125,-17%,"-$239,200",1.0,3.0,3.0,5.0,AEL
+542,,2006-09-13 13:45:04,2006-09-13,AEL,Reimer Terry A,EVP,F - Tax,$11.96,-49134,137622,-26%,"-$587,643",1.0,3.0,3.0,5.0,AEL
+543,,2006-09-01 13:00:53,2006-08-30,AEL,Noble David J,"COB, CEO, Pres",F - Tax,$11.46,-533125,1752500,-23%,"-$6,109,613",0.0,-1.0,4.0,11.0,AEL
+544,,2006-06-14 14:42:40,2006-06-14,AEL,Matovina John M,Vice COB,P - Purchase,$11.55,4000,68000,+6%,"+$46,210",0.0,-5.0,-12.0,12.0,AEL
+545,,2006-03-24 14:17:41,2006-03-22,AEL,Johnson Ted Morris,VP,F - Tax,$14.00,-5000,20500,-20%,"-$70,000",-2.0,1.0,-7.0,-13.0,AEL
+546,,2006-03-24 14:17:10,2006-03-22,AEL,Gerlach James M,EVP,F - Tax,$14.00,-24000,187250,-11%,"-$336,000",-2.0,1.0,-7.0,-13.0,AEL
+547,,2006-03-24 14:16:22,2006-03-22,AEL,Reimer Terry A,EVP,F - Tax,$14.00,-23000,186756,-11%,"-$322,000",-2.0,1.0,-7.0,-13.0,AEL
+548,,2006-03-24 14:15:53,2006-03-22,AEL,Matovina John M,Vice COB,F - Tax,$14.00,-12000,64000,-16%,"-$168,000",-2.0,1.0,-7.0,-13.0,AEL
+549,,2006-03-01 11:51:07,2006-02-27,AEL,Wingert Kevin R,VP,P - Purchase,$13.88,1937,115619,+2%,"+$26,886",2.0,-2.0,3.0,-16.0,AEL
+550,D,2006-01-12 14:56:10,2006-01-06,AEL,Morris Benjamin T,Dir,M - OptEx,$10.26,3000,21750,+16%,"+$30,770",-3.0,-1.0,-3.0,-26.0,AEL
+551,D,2006-01-12 14:56:10,2006-01-11,AEL,Morris Benjamin T,Dir,S - Sale+OE,$13.34,-49269,21750,-69%,"-$657,293",-3.0,-1.0,-3.0,-26.0,AEL
+552,,2006-01-04 16:07:20,2006-01-03,AEL,Wingert Kevin R,VP,F - Tax,$13.14,-20000,113682,-15%,"-$262,800",1.0,1.0,6.0,-16.0,AEL
+553,D,2005-11-29 17:12:53,2005-11-29,AEL,Matovina John M,Vice COB,M - OptEx,$5.33,50000,76000,+192%,"+$266,500",1.0,-1.0,9.0,11.0,AEL
+554,D,2005-11-23 12:06:23,2005-11-22,AEL,Morris Benjamin T,Dir,M - OptEx,$5.33,18750,68019,+38%,"+$99,938",0.0,-1.0,9.0,9.0,AEL
+555,D,2005-11-16 16:22:47,2005-11-16,AEL,Gerlach James M,EVP,M - OptEx,$5.33,116250,211250,+122%,"+$619,613",1.0,0.0,7.0,5.0,AEL
+556,D,2005-11-16 11:02:06,2005-11-15,AEL,Reimer Terry A,EVP,M - OptEx,$5.33,110250,209750,+111%,"+$587,633",0.0,0.0,7.0,5.0,AEL
+557,D,2005-11-04 11:27:57,2005-11-03,AEL,Wingert Kevin R,VP,F - Tax,$11.94,-12276,133682,-8%,"-$146,575",-1.0,-1.0,-3.0,10.0,AEL
+558,D,2005-11-04 11:27:57,2005-11-03,AEL,Wingert Kevin R,VP,M - OptEx,$5.33,27500,133682,+26%,"+$146,575",-1.0,-1.0,-3.0,10.0,AEL
+559,D,2005-11-02 16:59:51,2005-11-01,AEL,Wingert Kevin R,VP,M - OptEx,$5.33,72500,118458,+158%,"+$386,425",-1.0,-2.0,-6.0,9.0,AEL
+560,D,2005-11-01 11:29:42,2005-10-31,AEL,Mulcahy David S,Dir,M - OptEx,$5.33,30000,121000,+33%,"+$159,900",0.0,2.0,1.0,13.0,AEL
+561,D,2005-11-01 11:29:24,2005-10-31,AEL,Whitfield Harley A,Dir,M - OptEx,$5.33,15000,36000,+71%,"+$79,950",0.0,2.0,1.0,13.0,AEL
+562,D,2005-10-04 15:27:57,2005-09-30,AEL,Strickland Alonzo A J J,Dir,M - OptEx,$5.33,105000,180000,+140%,"+$559,650",0.0,-2.0,0.0,25.0,AEL
+563,D,2005-09-26 16:49:51,2005-09-26,AEL,Richardson Debra J,"SVP, Secretary",M - OptEx,$5.33,116250,132597,+711%,"+$619,613",0.0,1.0,6.0,22.0,AEL
+564,D,2005-09-26 16:49:00,2005-09-26,AEL,Noble David J,"COB, CEO, Pres",M - OptEx,$5.33,1058125,2285625,+86%,"+$5,639,806",0.0,1.0,6.0,22.0,AEL
+565,D,2005-09-19 14:08:33,2005-09-16,AEL,Carlson Wendy L,"CFO, GC",M - OptEx,$5.33,100000,118125,+552%,"+$533,000",-1.0,-1.0,4.0,21.0,AEL
+566,,2005-05-24 17:06:49,2005-05-24,AEL,Carlson Wendy L,"CFO, GC",P - Purchase,$10.72,2325,18125,+15%,"+$24,924",-1.0,-1.0,15.0,15.0,AEL
+567,,2005-05-10 17:12:13,2005-05-06,AEL,Hilton Robert L,Dir,P - Purchase,$11.84,1900,12000,+19%,"+$22,496",3.0,-1.0,-7.0,3.0,AEL
+568,,2005-02-07 12:15:46,2005-01-19,AEL,Hilton Robert L,Dir,P - Purchase,$10.69,150,10100,+2%,"+$1,604",-1.0,-2.0,2.0,2.0,AEL
+569,,2004-08-05 16:30:28,2004-08-04,AEL,Mulcahy David S,Dir,P - Purchase,$9.56,5000,91000,+6%,"+$47,804",6.0,2.0,-3.0,13.0,AEL
+570,,2004-07-01 17:07:33,2004-06-30,AEL,Matovina John M,Vice COB,P - Purchase,$9.95,2000,26000,+8%,"+$19,902",-1.0,-5.0,-9.0,8.0,AEL
+571,D,2004-05-25 16:11:19,2004-05-24,AEL,Reimer Terry A,EVP,M - OptEx,$5.33,6000,99500,+6%,"+$31,980",-1.0,11.0,5.0,5.0,AEL
+572,,2004-05-18 16:08:20,2004-05-14,AEL,Hilton Robert L,Dir,P - Purchase,$11.25,1750,9950,+21%,"+$19,688",0.0,1.0,13.0,6.0,AEL
+573,,2004-05-10 15:07:18,2004-05-07,AEL,Wingert Kevin R,VP,P - Purchase,$11.44,563,45958,+1%,"+$6,441",-2.0,-1.0,-2.0,-6.0,AEL
+574,D,2004-04-29 18:24:21,2004-04-26,AEL,Farm Bureau Life Insurance Co,10%,C - Converted deriv,$8.10,277777,5520277,-5%,"$2,249,994",-2.0,-2.0,-12.0,-14.0,AEL
+575,,2004-04-28 15:43:52,2004-04-26,AEL,Hilton Robert L,Dir,P - Purchase,$12.05,2650,8200,+48%,"+$31,933",-3.0,-7.0,-17.0,-18.0,AEL
+576,,2003-12-11 12:19:57,2003-12-09,AEL,Noble David J,"COB, CEO",P - Purchase,$9.18,5000,1227500,0%,"+$45,900",0.0,0.0,23.0,20.0,AEL
+577,,2003-12-09 16:49:15,2003-12-09,AEL,Reimer Terry A,EVP,P - Purchase,$9.00,2000,93500,+2%,"+$18,000",0.0,-1.0,23.0,20.0,AEL
+578,,2003-12-09 16:48:33,2003-12-09,AEL,Mulcahy David S,Dir,P - Purchase,$9.00,20000,86000,+30%,"+$180,000",0.0,-1.0,23.0,20.0,AEL
+579,,2003-12-09 16:46:29,2003-12-09,AEL,Richardson Debra J,"SVP, Secretary",P - Purchase,$9.00,1500,16347,+10%,"+$13,500",0.0,-1.0,23.0,20.0,AEL
+580,,2003-12-09 16:43:49,2003-12-09,AEL,Carlson Wendy L,"CFO, GC",P - Purchase,$9.00,2000,15800,+14%,"+$18,000",0.0,-1.0,23.0,20.0,AEL
+581,,2003-12-09 16:41:16,2003-12-09,AEL,Hilton Robert L,Dir,P - Purchase,$9.00,1800,5550,+48%,"+$16,200",0.0,-1.0,23.0,20.0,AEL
+582,,2003-12-09 16:38:48,2003-12-09,AEL,Wingert Kevin R,VP,P - Purchase,$9.01,7295,45395,+19%,"+$65,719",0.0,-1.0,23.0,20.0,AEL
+583,,2003-12-09 16:36:29,2003-12-09,AEL,Matovina John M,Vice COB,P - Purchase,$9.02,7000,25000,+39%,"+$63,150",0.0,-1.0,23.0,20.0,AEL
+584,,2003-12-09 16:34:28,2003-12-09,AEL,Gerlach James M,EVP,P - Purchase,$9.00,2000,95000,+2%,"+$18,000",0.0,-1.0,23.0,20.0,AEL
+585,,2003-12-08 12:08:29,2003-12-03,AEL,Farm Bureau Life Insurance Co,10%,P - Purchase,$9.00,555000,5233500,+12%,"+$4,995,000",-1.0,-3.0,14.0,17.0,AEL

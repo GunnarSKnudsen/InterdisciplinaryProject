@@ -1,22 +1,319 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-05-16 18:06:04,2022-05-13,AMBC,Prieur C James,Dir,P - Purchase,$8.45,5004,65000,+8%,"+$42,284",,,,,AMBC
-1,,2022-05-16 06:06:05,2022-05-13,AMBC,Leblanc Claude,CEO,P - Purchase,$8.72,3000,406600,+1%,"+$26,160",,,,,AMBC
-2,,2022-05-16 06:03:32,2022-05-12,AMBC,Iglesias Lisa G,Dir,P - Purchase,$7.99,6250,14550,+75%,"+$49,938",,,,,AMBC
-3,M,2022-05-16 06:01:58,2022-05-12,AMBC,Prieur C James,Dir,P - Purchase,$8.23,34996,59996,+140%,"+$287,863",,,,,AMBC
-4,,2022-03-07 16:26:24,2022-03-04,AMBC,Prieur C James,Dir,P - Purchase,$12.50,10000,25000,+67%,"+$125,019",,,,,AMBC
-5,,2022-03-01 17:30:09,2022-03-01,AMBC,Trick David,"EVP, CFO, Treasurer",P - Purchase,$12.67,3000,123802,+2%,"+$38,010",,,,,AMBC
-6,,2021-11-29 16:29:11,2021-11-29,AMBC,Iglesias Lisa G,Dir,P - Purchase,$15.15,8300,8300,New,"+$125,745",,,,,AMBC
-7,,2021-11-12 08:38:25,2021-11-10,AMBC,Leblanc Claude,CEO,P - Purchase,$15.91,10000,313946,+3%,"+$159,060",,,,,AMBC
-8,,2020-05-14 16:04:22,2020-05-13,AMBC,Leblanc Claude,CEO,P - Purchase,$11.75,8425,143555,+6%,"+$98,994",,,,,AMBC
-9,,2019-06-10 16:06:16,2019-06-06,AMBC,Leblanc Claude,CEO,P - Purchase,$14.84,1000,102030,+1%,"+$14,840",,,,,AMBC
-10,,2019-06-03 16:11:58,2019-05-31,AMBC,Leblanc Claude,CEO,P - Purchase,$14.99,2000,101030,+2%,"+$29,980",,,,,AMBC
-11,,2019-06-03 16:09:10,2019-05-31,AMBC,Smith R Sharon,Senior MD,P - Purchase,$15.02,1330,10602,+14%,"+$19,977",,,,,AMBC
-12,,2019-06-03 16:06:28,2019-05-31,AMBC,Trick David,"EVP, CFO, Treasurer",P - Purchase,$15.16,2000,59046,+4%,"+$30,320",,,,,AMBC
-13,A,2019-05-31 18:43:14,2019-05-30,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",P - Purchase,$15.22,2000,23188,+9%,"+$30,430",,,,,AMBC
-14,,2019-05-30 16:18:11,2019-05-30,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",P - Purchase,$15.18,2000,23188,+9%,"+$30,350",,,,,AMBC
-15,,2019-05-30 16:13:24,2019-05-29,AMBC,Stein Jeffrey Scott,Dir,P - Purchase,$15.42,3000,10000,+43%,"+$46,260",,,,,AMBC
-16,,2019-05-23 16:16:26,2019-05-23,AMBC,Leblanc Claude,CEO,P - Purchase,$15.95,2000,99030,+2%,"+$31,900",,,,,AMBC
-17,D,2019-05-17 16:38:50,2019-05-17,AMBC,Leblanc Claude,CEO,P - Purchase,$16.48,3500,97030,+4%,"+$57,690",,,,,AMBC
-18,,2019-05-14 16:07:39,2019-05-14,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",P - Purchase,$17.28,3000,35944,+9%,"+$51,833",,,,,AMBC
-19,,2019-05-13 17:09:38,2019-05-13,AMBC,Leblanc Claude,CEO,P - Purchase,$16.81,13500,80625,+20%,"+$226,890",,,,,AMBC
-20,,2019-05-13 16:07:58,2019-05-13,AMBC,Trick David,"EVP, CFO, Treasurer",P - Purchase,$16.68,3000,53713,+6%,"+$50,040",,,,,AMBC
+0,D,2022-03-09 16:35:33,2022-03-08,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$12.85,-1261,59035,-2%,"-$16,204",,,,,AMBC
+1,D,2022-03-09 16:35:33,2022-03-08,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,2471,59035,+4%,+$0,,,,,AMBC
+2,D,2022-03-09 16:22:55,2022-03-08,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$12.85,-3153,92665,-3%,"-$40,516",,,,,AMBC
+3,D,2022-03-09 16:22:55,2022-03-08,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,6177,92665,+7%,+$0,,,,,AMBC
+4,D,2022-03-09 16:19:03,2022-03-08,AMBC,Leblanc Claude,CEO,F - Tax,$12.85,-17418,403600,-4%,"-$223,821",,,,,AMBC
+5,D,2022-03-09 16:19:03,2022-03-08,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,31498,403600,+8%,+$0,,,,,AMBC
+6,D,2022-03-09 16:16:15,2022-03-08,AMBC,Barranco David,Senior MD,F - Tax,$12.85,-3573,71376,-5%,"-$45,913",,,,,AMBC
+7,D,2022-03-09 16:16:15,2022-03-08,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,7000,71376,+11%,+$0,,,,,AMBC
+8,D,2022-03-09 16:12:50,2022-03-08,AMBC,Smith R Sharon,Senior MD,F - Tax,$12.85,-3363,55183,-6%,"-$43,215",,,,,AMBC
+9,D,2022-03-09 16:12:50,2022-03-08,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,6588,55183,+14%,+$0,,,,,AMBC
+10,D,2022-03-09 16:07:42,2022-03-08,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$12.85,-3888,127532,-3%,"-$49,961",,,,,AMBC
+11,D,2022-03-09 16:07:42,2022-03-08,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,7618,127532,+6%,+$0,,,,,AMBC
+12,,2022-03-07 16:26:24,2022-03-04,AMBC,Prieur C James,Dir,P - Purchase,$12.50,10000,25000,+67%,"+$125,019",,,,,AMBC
+13,,2022-03-01 17:30:09,2022-03-01,AMBC,Trick David,"EVP, CFO, Treasurer",P - Purchase,$12.67,3000,123802,+2%,"+$38,010",,,,,AMBC
+14,,2022-02-28 16:21:35,2022-02-24,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$14.35,-9743,89641,-10%,"-$139,812",,,,,AMBC
+15,,2022-02-28 16:21:35,2022-02-24,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,19124,89641,+27%,+$0,,,,,AMBC
+16,,2022-02-28 16:18:43,2022-02-24,AMBC,Smith R Sharon,Senior MD,F - Tax,$14.35,-9731,51958,-16%,"-$139,640",,,,,AMBC
+17,,2022-02-28 16:18:43,2022-02-24,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,19124,51958,+58%,+$0,,,,,AMBC
+18,,2022-02-28 16:15:06,2022-02-24,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$14.35,-11593,120802,-9%,"-$166,360",,,,,AMBC
+19,,2022-02-28 16:15:06,2022-02-24,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,22710,120802,+23%,+$0,,,,,AMBC
+20,,2022-02-28 16:11:07,2022-02-24,AMBC,Leblanc Claude,CEO,F - Tax,$14.35,-65793,389520,-14%,"-$944,130",,,,,AMBC
+21,,2022-02-28 16:11:07,2022-02-24,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,129085,389520,+50%,+$0,,,,,AMBC
+22,,2022-02-28 16:06:10,2022-02-24,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$14.35,-6782,57825,-10%,"-$97,322",,,,,AMBC
+23,,2022-02-28 16:06:10,2022-02-24,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,13147,57825,+29%,+$0,,,,,AMBC
+24,,2022-02-28 16:03:24,2022-02-24,AMBC,Barranco David,Senior MD,F - Tax,$14.35,-11572,67949,-15%,"-$166,058",,,,,AMBC
+25,,2022-02-28 16:03:24,2022-02-24,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,22710,67949,+50%,+$0,,,,,AMBC
+26,D,2022-01-04 16:17:32,2022-01-02,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$16.05,-3536,109685,-3%,"-$56,753",,,,,AMBC
+27,D,2022-01-04 16:17:32,2022-01-02,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,6230,109685,+6%,+$0,,,,,AMBC
+28,D,2022-01-04 16:10:25,2022-01-02,AMBC,Leblanc Claude,CEO,F - Tax,$16.05,-16270,326228,-5%,"-$261,134",,,,,AMBC
+29,D,2022-01-04 16:10:25,2022-01-02,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,28552,326228,+10%,+$0,,,,,AMBC
+30,D,2022-01-04 16:08:17,2022-01-02,AMBC,Smith R Sharon,Senior MD,F - Tax,$16.05,-2701,42565,-6%,"-$43,351",,,,,AMBC
+31,D,2022-01-04 16:08:17,2022-01-02,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,4752,42565,+13%,+$0,,,,,AMBC
+32,D,2022-01-04 16:06:01,2022-01-02,AMBC,Barranco David,Senior MD,F - Tax,$16.05,-3296,56811,-5%,"-$52,901",,,,,AMBC
+33,D,2022-01-04 16:06:01,2022-01-02,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,5803,56811,+11%,+$0,,,,,AMBC
+34,D,2022-01-04 16:03:10,2022-01-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$16.05,-1583,51460,-3%,"-$25,407",,,,,AMBC
+35,D,2022-01-04 16:03:10,2022-01-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,2786,51460,+6%,+$0,,,,,AMBC
+36,D,2022-01-04 16:00:26,2022-01-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$16.05,-2823,80260,-3%,"-$45,309",,,,,AMBC
+37,D,2022-01-04 16:00:26,2022-01-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,4965,80260,+7%,+$0,,,,,AMBC
+38,,2021-11-29 16:29:11,2021-11-29,AMBC,Iglesias Lisa G,Dir,P - Purchase,$15.15,8300,8300,New,"+$125,745",,,,,AMBC
+39,,2021-11-12 08:38:25,2021-11-10,AMBC,Leblanc Claude,CEO,P - Purchase,$15.91,10000,313946,+3%,"+$159,060",,,,,AMBC
+40,D,2021-03-08 19:58:34,2021-03-04,AMBC,Barranco David,Senior MD,F - Tax,$16.93,-975,54304,-2%,"-$16,507",,,,,AMBC
+41,D,2021-03-08 19:58:34,2021-03-04,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,2162,54304,+4%,+$0,,,,,AMBC
+42,D,2021-03-08 19:56:53,2021-03-04,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$16.93,-812,50257,-2%,"-$13,747",,,,,AMBC
+43,D,2021-03-08 19:56:53,2021-03-04,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,1813,50257,+4%,+$0,,,,,AMBC
+44,D,2021-03-08 19:55:28,2021-03-04,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$16.93,-1607,106991,-1%,"-$27,207",,,,,AMBC
+45,D,2021-03-08 19:55:28,2021-03-04,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,3470,106991,+3%,+$0,,,,,AMBC
+46,D,2021-03-08 19:52:44,2021-03-04,AMBC,Leblanc Claude,CEO,F - Tax,$16.93,-4752,303946,-2%,"-$80,451",,,,,AMBC
+47,D,2021-03-08 19:52:44,2021-03-04,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,9342,303946,+3%,+$0,,,,,AMBC
+48,D,2021-03-08 19:50:42,2021-03-04,AMBC,Smith R Sharon,Senior MD,F - Tax,$16.93,-895,40514,-2%,"-$15,152",,,,,AMBC
+49,D,2021-03-08 19:50:42,2021-03-04,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,1921,40514,+5%,+$0,,,,,AMBC
+50,D,2021-03-08 19:49:01,2021-03-04,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$16.93,-803,51134,-2%,"-$13,595",,,,,AMBC
+51,D,2021-03-08 19:49:01,2021-03-04,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,1723,51134,+3%,+$0,,,,,AMBC
+52,D,2021-03-08 19:47:08,2021-03-04,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$16.93,-1084,78118,-1%,"-$18,352",,,,,AMBC
+53,D,2021-03-08 19:47:08,2021-03-04,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,2389,78118,+3%,+$0,,,,,AMBC
+54,DM,2021-03-03 16:08:27,2021-03-01,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$17.34,-19413,105128,-16%,"-$336,712",,,,,AMBC
+55,DM,2021-03-03 16:08:27,2021-03-01,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,38289,105128,+57%,+$0,,,,,AMBC
+56,DM,2021-03-03 16:07:20,2021-03-01,AMBC,Leblanc Claude,CEO,F - Tax,$17.34,-132707,299356,-31%,"-$2,301,215",,,,,AMBC
+57,DM,2021-03-03 16:07:20,2021-03-01,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,258449,299356,+632%,+$0,,,,,AMBC
+58,DM,2021-03-03 16:06:17,2021-03-01,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$17.35,-15732,76813,-17%,"-$272,872",,,,,AMBC
+59,DM,2021-03-03 16:06:17,2021-03-01,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,31109,76813,+68%,+$0,,,,,AMBC
+60,DM,2021-03-03 16:05:13,2021-03-01,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$17.35,-13044,50214,-21%,"-$226,250",,,,,AMBC
+61,DM,2021-03-03 16:05:13,2021-03-01,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,26323,50214,+110%,+$0,,,,,AMBC
+62,DM,2021-03-03 16:04:10,2021-03-01,AMBC,Barranco David,Senior MD,F - Tax,$17.35,-14509,53117,-21%,"-$251,661",,,,,AMBC
+63,DM,2021-03-03 16:04:10,2021-03-01,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,28717,53117,+118%,+$0,,,,,AMBC
+64,DM,2021-03-03 16:03:03,2021-03-01,AMBC,Smith R Sharon,Senior MD,F - Tax,$17.34,-14034,39488,-26%,"-$243,381",,,,,AMBC
+65,DM,2021-03-03 16:03:03,2021-03-01,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,28717,39488,+267%,+$0,,,,,AMBC
+66,DM,2021-03-03 16:02:05,2021-03-01,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$17.35,-12143,49256,-20%,"-$210,629",,,,,AMBC
+67,DM,2021-03-03 16:02:05,2021-03-01,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,23931,49256,+94%,+$0,,,,,AMBC
+68,D,2021-01-04 16:13:13,2021-01-02,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$15.38,-1095,36935,-3%,"-$16,841",,,,,AMBC
+69,D,2021-01-04 16:13:13,2021-01-02,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,3411,36935,+10%,+$0,,,,,AMBC
+70,D,2021-01-04 16:11:09,2021-01-02,AMBC,Barranco David,Senior MD,F - Tax,$15.38,-3148,38909,-7%,"-$48,416",,,,,AMBC
+71,D,2021-01-04 16:11:09,2021-01-02,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,5803,38909,+18%,+$0,,,,,AMBC
+72,D,2021-01-04 16:09:35,2021-01-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$15.38,-1465,37468,-4%,"-$22,532",,,,,AMBC
+73,D,2021-01-04 16:09:35,2021-01-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,2786,37468,+8%,+$0,,,,,AMBC
+74,D,2021-01-04 16:07:58,2021-01-02,AMBC,Smith R Sharon,Senior MD,F - Tax,$15.38,-2602,24805,-9%,"-$40,019",,,,,AMBC
+75,D,2021-01-04 16:07:58,2021-01-02,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,4752,24805,+24%,+$0,,,,,AMBC
+76,D,2021-01-04 16:06:24,2021-01-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$15.38,-2676,61436,-4%,"-$41,157",,,,,AMBC
+77,D,2021-01-04 16:06:24,2021-01-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,4966,61436,+9%,+$0,,,,,AMBC
+78,D,2021-01-04 16:04:08,2021-01-02,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$15.38,-3382,86252,-4%,"-$52,015",,,,,AMBC
+79,D,2021-01-04 16:04:08,2021-01-02,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,6230,86252,+8%,+$0,,,,,AMBC
+80,D,2021-01-04 16:02:20,2021-01-02,AMBC,Leblanc Claude,CEO,F - Tax,$15.38,-11395,173614,-6%,"-$175,255",,,,,AMBC
+81,D,2021-01-04 16:02:20,2021-01-02,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,28549,173614,+20%,+$0,,,,,AMBC
+82,D,2020-05-20 16:31:58,2020-05-18,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$13.69,-2910,83404,-3%,"-$39,838",,,,,AMBC
+83,D,2020-05-20 16:31:58,2020-05-18,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,6244,83404,+8%,+$0,,,,,AMBC
+84,D,2020-05-20 16:29:39,2020-05-18,AMBC,Leblanc Claude,CEO,F - Tax,$13.69,-13362,156460,-8%,"-$182,926",,,,,AMBC
+85,D,2020-05-20 16:29:39,2020-05-18,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,26267,156460,+20%,+$0,,,,,AMBC
+86,D,2020-05-20 16:27:44,2020-05-18,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$13.69,-791,36147,-2%,"-$10,829",,,,,AMBC
+87,D,2020-05-20 16:27:44,2020-05-18,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,2502,36147,+7%,+$0,,,,,AMBC
+88,D,2020-05-20 16:25:54,2020-05-18,AMBC,Smith R Sharon,Senior MD,F - Tax,$13.69,-1186,22655,-5%,"-$16,236",,,,,AMBC
+89,D,2020-05-20 16:25:54,2020-05-18,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,3753,22655,+20%,+$0,,,,,AMBC
+90,D,2020-05-20 16:23:49,2020-05-18,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$13.69,-791,34619,-2%,"-$10,829",,,,,AMBC
+91,D,2020-05-20 16:23:49,2020-05-18,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,2502,34619,+8%,+$0,,,,,AMBC
+92,D,2020-05-20 16:21:54,2020-05-18,AMBC,Barranco David,Senior MD,F - Tax,$13.69,-1186,36254,-3%,"-$16,236",,,,,AMBC
+93,D,2020-05-20 16:21:54,2020-05-18,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,3753,36254,+12%,+$0,,,,,AMBC
+94,D,2020-05-20 16:19:56,2020-05-18,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$13.69,-1746,59146,-3%,"-$23,903",,,,,AMBC
+95,D,2020-05-20 16:19:56,2020-05-18,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,5004,59146,+9%,+$0,,,,,AMBC
+96,,2020-05-14 16:04:22,2020-05-13,AMBC,Leblanc Claude,CEO,P - Purchase,$11.75,8425,143555,+6%,"+$98,994",,,,,AMBC
+97,D,2020-03-06 16:24:39,2020-03-04,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$19.50,-1617,80070,-2%,"-$31,532",,,,,AMBC
+98,D,2020-03-06 16:24:39,2020-03-04,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,3470,80070,+5%,+$0,,,,,AMBC
+99,D,2020-03-06 16:23:24,2020-03-04,AMBC,Barranco David,Senior MD,F - Tax,$19.50,-683,33687,-2%,"-$13,319",,,,,AMBC
+100,D,2020-03-06 16:23:24,2020-03-04,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,2161,33687,+7%,+$0,,,,,AMBC
+101,D,2020-03-06 16:22:23,2020-03-04,AMBC,Smith R Sharon,Senior MD,F - Tax,$19.50,-607,20088,-3%,"-$11,837",,,,,AMBC
+102,D,2020-03-06 16:22:23,2020-03-04,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,1920,20088,+11%,+$0,,,,,AMBC
+103,D,2020-03-06 16:20:58,2020-03-04,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$19.50,-573,34436,-2%,"-$11,174",,,,,AMBC
+104,D,2020-03-06 16:20:58,2020-03-04,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,1813,34436,+6%,+$0,,,,,AMBC
+105,D,2020-03-06 16:18:53,2020-03-04,AMBC,Leblanc Claude,CEO,F - Tax,$19.50,-4752,135130,-3%,"-$92,664",,,,,AMBC
+106,D,2020-03-06 16:18:53,2020-03-04,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,9342,135130,+7%,+$0,,,,,AMBC
+107,D,2020-03-06 16:17:20,2020-03-04,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$19.50,-544,32908,-2%,"-$10,608",,,,,AMBC
+108,D,2020-03-06 16:17:20,2020-03-04,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,1723,32908,+6%,+$0,,,,,AMBC
+109,D,2020-03-06 16:14:43,2020-03-04,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$19.50,-755,55888,-1%,"-$14,723",,,,,AMBC
+110,D,2020-03-06 16:14:43,2020-03-04,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,2389,55888,+4%,+$0,,,,,AMBC
+111,D,2020-03-04 16:29:53,2020-03-02,AMBC,Smith R Sharon,Senior MD,F - Tax,$19.85,-3209,18775,-15%,"-$63,699",,,,,AMBC
+112,D,2020-03-04 16:29:53,2020-03-02,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,10053,18775,+115%,+$0,,,,,AMBC
+113,D,2020-03-04 16:26:25,2020-03-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$19.85,-7215,54254,-12%,"-$143,218",,,,,AMBC
+114,D,2020-03-04 16:26:25,2020-03-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,21525,54254,+66%,+$0,,,,,AMBC
+115,D,2020-03-04 16:25:24,2020-03-02,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$19.85,-5726,31729,-15%,"-$113,661",,,,,AMBC
+116,D,2020-03-04 16:25:24,2020-03-02,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,16811,31729,+113%,+$0,,,,,AMBC
+117,D,2020-03-04 16:22:10,2020-03-02,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$19.85,-8887,78217,-10%,"-$176,407",,,,,AMBC
+118,D,2020-03-04 16:22:10,2020-03-02,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,26479,78217,+51%,+$0,,,,,AMBC
+119,D,2020-03-04 16:19:41,2020-03-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$19.85,-4598,33196,-12%,"-$91,270",,,,,AMBC
+120,D,2020-03-04 16:19:41,2020-03-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,13692,33196,+70%,+$0,,,,,AMBC
+121,D,2020-03-04 16:11:01,2020-03-02,AMBC,Leblanc Claude,CEO,F - Tax,$19.85,-11697,130540,-8%,"-$232,185",,,,,AMBC
+122,D,2020-03-04 16:11:01,2020-03-02,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,31309,130540,+32%,+$0,,,,,AMBC
+123,D,2020-03-04 16:07:26,2020-03-02,AMBC,Barranco David,Senior MD,F - Tax,$19.85,-5901,32209,-15%,"-$117,135",,,,,AMBC
+124,D,2020-03-04 16:07:26,2020-03-02,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,17630,32209,+121%,+$0,,,,,AMBC
+125,D,2020-01-06 16:47:44,2020-01-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$21.76,-591,24102,-2%,"-$12,860",,,,,AMBC
+126,D,2020-01-06 16:47:44,2020-01-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,1505,24102,+7%,+$0,,,,,AMBC
+127,D,2020-01-06 16:46:33,2020-01-02,AMBC,Barranco David,Senior MD,F - Tax,$21.76,-1020,20480,-5%,"-$22,195",,,,,AMBC
+128,D,2020-01-06 16:46:33,2020-01-02,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,2599,20480,+15%,+$0,,,,,AMBC
+129,D,2020-01-06 16:45:32,2020-01-02,AMBC,Leblanc Claude,CEO,F - Tax,$21.76,-5870,110928,-5%,"-$127,731",,,,,AMBC
+130,D,2020-01-06 16:45:32,2020-01-02,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,14768,110928,+15%,+$0,,,,,AMBC
+131,D,2020-01-06 16:44:17,2020-01-02,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$21.76,-605,20644,-3%,"-$13,165",,,,,AMBC
+132,D,2020-01-06 16:44:17,2020-01-02,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,1915,20644,+10%,+$0,,,,,AMBC
+133,D,2020-01-06 16:42:46,2020-01-02,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$21.76,-1020,60625,-2%,"-$22,195",,,,,AMBC
+134,D,2020-01-06 16:42:46,2020-01-02,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,2599,60625,+4%,+$0,,,,,AMBC
+135,D,2020-01-06 16:41:19,2020-01-02,AMBC,Smith R Sharon,Senior MD,F - Tax,$21.76,-859,11931,-7%,"-$18,692",,,,,AMBC
+136,D,2020-01-06 16:41:19,2020-01-02,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,2188,11931,+22%,+$0,,,,,AMBC
+137,D,2020-01-06 16:39:45,2020-01-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$21.76,-859,39944,-2%,"-$18,692",,,,,AMBC
+138,D,2020-01-06 16:39:45,2020-01-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,2188,39944,+6%,+$0,,,,,AMBC
+139,,2019-06-10 16:06:16,2019-06-06,AMBC,Leblanc Claude,CEO,P - Purchase,$14.84,1000,102030,+1%,"+$14,840",,,,,AMBC
+140,,2019-06-03 16:11:58,2019-05-31,AMBC,Leblanc Claude,CEO,P - Purchase,$14.99,2000,101030,+2%,"+$29,980",,,,,AMBC
+141,,2019-06-03 16:09:10,2019-05-31,AMBC,Smith R Sharon,Senior MD,P - Purchase,$15.02,1330,10602,+14%,"+$19,977",,,,,AMBC
+142,,2019-06-03 16:06:28,2019-05-31,AMBC,Trick David,"EVP, CFO, Treasurer",P - Purchase,$15.16,2000,59046,+4%,"+$30,320",,,,,AMBC
+143,A,2019-05-31 18:43:14,2019-05-30,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",P - Purchase,$15.22,2000,23188,+9%,"+$30,430",,,,,AMBC
+144,,2019-05-30 16:18:11,2019-05-30,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",P - Purchase,$15.18,2000,23188,+9%,"+$30,350",,,,,AMBC
+145,,2019-05-30 16:13:24,2019-05-29,AMBC,Stein Jeffrey Scott,Dir,P - Purchase,$15.42,3000,10000,+43%,"+$46,260",,,,,AMBC
+146,,2019-05-23 16:16:26,2019-05-23,AMBC,Leblanc Claude,CEO,P - Purchase,$15.95,2000,99030,+2%,"+$31,900",,,,,AMBC
+147,D,2019-05-17 16:38:50,2019-05-16,AMBC,Leblanc Claude,CEO,F - Tax,$16.84,-13362,97030,-12%,"-$225,016",,,,,AMBC
+148,D,2019-05-17 16:38:50,2019-05-16,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,26267,97030,+37%,+$0,,,,,AMBC
+149,D,2019-05-17 16:38:50,2019-05-17,AMBC,Leblanc Claude,CEO,P - Purchase,$16.48,3500,97030,+4%,"+$57,690",,,,,AMBC
+150,D,2019-05-17 16:29:40,2019-05-16,AMBC,Barranco David,Senior MD,F - Tax,$16.84,-1186,18901,-6%,"-$19,972",,,,,AMBC
+151,D,2019-05-17 16:29:40,2019-05-16,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,3752,18901,+25%,+$0,,,,,AMBC
+152,D,2019-05-17 16:26:59,2019-05-16,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$16.84,-2332,38615,-6%,"-$39,271",,,,,AMBC
+153,D,2019-05-17 16:26:59,2019-05-16,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,5003,38615,+15%,+$0,,,,,AMBC
+154,D,2019-05-17 16:24:23,2019-05-16,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$16.84,-791,19334,-4%,"-$13,320",,,,,AMBC
+155,D,2019-05-17 16:24:23,2019-05-16,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,2502,19334,+15%,+$0,,,,,AMBC
+156,D,2019-05-17 16:18:25,2019-05-16,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$16.84,-791,21188,-4%,"-$13,320",,,,,AMBC
+157,D,2019-05-17 16:18:25,2019-05-16,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,2502,21188,+13%,+$0,,,,,AMBC
+158,D,2019-05-17 16:12:07,2019-05-16,AMBC,Smith R Sharon,Senior MD,F - Tax,$16.84,-1186,9272,-11%,"-$19,972",,,,,AMBC
+159,D,2019-05-17 16:12:07,2019-05-16,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,3752,9272,+68%,+$0,,,,,AMBC
+160,D,2019-05-17 16:07:49,2019-05-16,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$16.84,-2910,57046,-5%,"-$49,004",,,,,AMBC
+161,D,2019-05-17 16:07:49,2019-05-16,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,6243,57046,+12%,+$0,,,,,AMBC
+162,,2019-05-14 16:07:39,2019-05-14,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",P - Purchase,$17.28,3000,35944,+9%,"+$51,833",,,,,AMBC
+163,,2019-05-13 17:09:38,2019-05-13,AMBC,Leblanc Claude,CEO,P - Purchase,$16.81,13500,80625,+20%,"+$226,890",,,,,AMBC
+164,,2019-05-13 16:07:58,2019-05-13,AMBC,Trick David,"EVP, CFO, Treasurer",P - Purchase,$16.68,3000,53713,+6%,"+$50,040",,,,,AMBC
+165,D,2019-03-05 21:16:44,2019-03-04,AMBC,Smith R Sharon,Senior MD,F - Tax,$20.11,-3446,6706,-34%,"-$69,299",,,,,AMBC
+166,D,2019-03-05 21:16:44,2019-03-04,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,10152,6706,-295%,+$0,,,,,AMBC
+167,D,2019-03-05 21:06:21,2019-03-04,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$20.11,-1805,17623,-9%,"-$36,299",,,,,AMBC
+168,D,2019-03-05 21:06:21,2019-03-04,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,5447,17623,+45%,+$0,,,,,AMBC
+169,D,2019-03-05 20:57:21,2019-03-04,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$20.11,-1863,19477,-9%,"-$37,465",,,,,AMBC
+170,D,2019-03-05 20:57:21,2019-03-04,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,5481,19477,+39%,+$0,,,,,AMBC
+171,D,2019-03-05 20:40:23,2019-03-04,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$20.11,-2693,32944,-8%,"-$54,156",,,,,AMBC
+172,D,2019-03-05 20:40:23,2019-03-04,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,7975,32944,+32%,+$0,,,,,AMBC
+173,D,2019-03-05 20:27:11,2019-03-04,AMBC,Barranco David,Senior MD,F - Tax,$20.11,-2191,16335,-12%,"-$44,061",,,,,AMBC
+174,D,2019-03-05 20:27:11,2019-03-04,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,6440,16335,+65%,+$0,,,,,AMBC
+175,D,2019-03-05 20:24:11,2019-03-04,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$20.11,-3684,50713,-7%,"-$74,085",,,,,AMBC
+176,D,2019-03-05 20:24:11,2019-03-04,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,10904,50713,+27%,+$0,,,,,AMBC
+177,D,2019-03-05 20:17:55,2019-03-04,AMBC,Leblanc Claude,CEO,F - Tax,$20.11,-12394,67125,-16%,"-$249,243",,,,,AMBC
+178,D,2019-03-05 20:17:55,2019-03-04,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,32019,67125,+91%,+$0,,,,,AMBC
+179,,2019-02-27 16:34:51,2019-02-25,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",A - Grant,$0.00,9045,15859,+133%,+$0,,,,,AMBC
+180,,2019-02-27 16:34:51,2019-02-25,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$19.71,-3199,15859,-17%,"-$63,052",,,,,AMBC
+181,,2019-02-27 16:33:05,2019-02-25,AMBC,Barranco David,Senior MD,A - Grant,$0.00,10824,12086,+858%,+$0,,,,,AMBC
+182,,2019-02-27 16:33:05,2019-02-25,AMBC,Barranco David,Senior MD,F - Tax,$19.71,-3804,12086,-24%,"-$74,977",,,,,AMBC
+183,,2019-02-27 16:31:07,2019-02-25,AMBC,Reilly Michael Francis,Senior MD,A - Grant,$0.00,10553,13981,+308%,+$0,,,,,AMBC
+184,,2019-02-27 16:31:07,2019-02-25,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$19.71,-3730,13981,-21%,"-$73,518",,,,,AMBC
+185,,2019-02-27 16:29:10,2019-02-25,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",A - Grant,$0.00,13569,27662,+96%,+$0,,,,,AMBC
+186,,2019-02-27 16:29:10,2019-02-25,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$19.71,-4598,27662,-14%,"-$90,627",,,,,AMBC
+187,,2019-02-27 16:27:25,2019-02-25,AMBC,Trick David,"EVP, CFO, Treasurer",A - Grant,$0.00,15076,43493,+53%,+$0,,,,,AMBC
+188,,2019-02-27 16:27:25,2019-02-25,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$19.71,-5120,43493,-11%,"-$100,915",,,,,AMBC
+189,D,2019-02-22 16:55:41,2019-02-21,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$19.87,-1484,33537,-4%,"-$29,487",,,,,AMBC
+190,D,2019-02-22 16:55:41,2019-02-21,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,4296,33537,+15%,+$0,,,,,AMBC
+191,D,2019-02-22 16:54:11,2019-02-21,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$19.87,-1552,18691,-8%,"-$30,838",,,,,AMBC
+192,D,2019-02-22 16:54:11,2019-02-21,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,4296,18691,+30%,+$0,,,,,AMBC
+193,D,2018-05-18 16:15:11,2018-05-16,AMBC,Barranco David,Senior MD,F - Tax,$19.14,-332,5066,-6%,"-$6,354",,,,,AMBC
+194,D,2018-05-18 16:15:11,2018-05-16,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,332,5066,+7%,+$0,,,,,AMBC
+195,D,2018-05-18 16:13:16,2018-05-16,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$19.14,-575,30725,-2%,"-$11,006",,,,,AMBC
+196,D,2018-05-18 16:13:16,2018-05-16,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,575,30725,+2%,+$0,,,,,AMBC
+197,D,2018-05-18 16:12:10,2018-05-16,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$19.14,-221,10013,-2%,"-$4,230",,,,,AMBC
+198,D,2018-05-18 16:12:10,2018-05-16,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,221,10013,+2%,+$0,,,,,AMBC
+199,D,2018-05-18 16:10:52,2018-05-16,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$19.14,-443,15947,-3%,"-$8,479",,,,,AMBC
+200,D,2018-05-18 16:10:52,2018-05-16,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,443,15947,+3%,+$0,,,,,AMBC
+201,D,2018-05-18 16:09:29,2018-05-16,AMBC,Smith R Sharon,Senior MD,F - Tax,$19.14,-332,0,-100%,"-$6,354",,,,,AMBC
+202,D,2018-05-18 16:09:29,2018-05-16,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,332,0,-100%,+$0,,,,,AMBC
+203,D,2018-05-18 16:07:38,2018-05-16,AMBC,Leblanc Claude,CEO,F - Tax,$19.14,-2639,47500,-5%,"-$50,510",,,,,AMBC
+204,D,2018-05-18 16:07:38,2018-05-16,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,2639,47500,+6%,+$0,,,,,AMBC
+205,D,2018-05-18 16:06:22,2018-05-16,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$19.14,-221,7158,-3%,"-$4,230",,,,,AMBC
+206,D,2018-05-18 16:06:22,2018-05-16,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,221,7158,+3%,+$0,,,,,AMBC
+207,D,2018-03-06 18:00:28,2018-03-02,AMBC,Leblanc Claude,CEO,F - Tax,$15.09,-1068,47500,-2%,"-$16,116",,,,,AMBC
+208,D,2018-03-06 18:00:28,2018-03-02,AMBC,Leblanc Claude,CEO,M - OptEx,$0.00,1068,47500,+2%,+$0,,,,,AMBC
+209,D,2018-03-06 17:59:37,2018-03-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$15.09,-731,10013,-7%,"-$11,031",,,,,AMBC
+210,D,2018-03-06 17:59:37,2018-03-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,1384,10013,+16%,+$0,,,,,AMBC
+211,D,2018-03-06 17:58:53,2018-03-02,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$15.09,-1832,30725,-6%,"-$27,645",,,,,AMBC
+212,D,2018-03-06 17:58:53,2018-03-02,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,3612,30725,+13%,+$0,,,,,AMBC
+213,D,2018-03-06 17:57:45,2018-03-02,AMBC,Barranco David,Senior MD,F - Tax,$15.09,-842,5066,-14%,"-$12,706",,,,,AMBC
+214,D,2018-03-06 17:57:45,2018-03-02,AMBC,Barranco David,Senior MD,M - OptEx,$0.00,1589,5066,+46%,+$0,,,,,AMBC
+215,D,2018-03-06 17:57:00,2018-03-02,AMBC,Smith R Sharon,Senior MD,F - Tax,$15.09,-915,0,-100%,"-$13,807",,,,,AMBC
+216,D,2018-03-06 17:57:00,2018-03-02,AMBC,Smith R Sharon,Senior MD,M - OptEx,$0.00,915,0,-100%,+$0,,,,,AMBC
+217,D,2018-03-06 17:56:12,2018-03-02,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$15.90,-722,7158,-9%,"-$11,480",,,,,AMBC
+218,D,2018-03-06 17:56:12,2018-03-02,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,1390,7158,+24%,+$0,,,,,AMBC
+219,D,2018-03-06 17:54:45,2018-03-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$15.09,-1245,15947,-7%,"-$18,787",,,,,AMBC
+220,D,2018-03-06 17:54:45,2018-03-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,2432,15947,+18%,+$0,,,,,AMBC
+221,,2018-02-28 17:20:40,2018-02-26,AMBC,Barranco David,Senior MD,A - Grant,$0.00,6225,4319,-327%,+$0,,,,,AMBC
+222,,2018-02-28 17:20:40,2018-02-26,AMBC,Barranco David,Senior MD,F - Tax,$15.72,-3080,4319,-42%,"-$48,418",,,,,AMBC
+223,,2018-02-28 17:18:22,2018-02-26,AMBC,Reilly Michael Francis,Senior MD,A - Grant,$0.00,4271,6490,+192%,+$0,,,,,AMBC
+224,,2018-02-28 17:18:22,2018-02-26,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$15.72,-2207,6490,-25%,"-$34,694",,,,,AMBC
+225,,2018-02-28 17:18:00,2018-02-26,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",A - Grant,$0.00,5695,14760,+63%,+$0,,,,,AMBC
+226,,2018-02-28 17:18:00,2018-02-26,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$15.72,-2652,14760,-15%,"-$41,689",,,,,AMBC
+227,,2018-02-28 17:11:43,2018-02-26,AMBC,Trick David,"EVP, CFO, Treasurer",A - Grant,$0.00,14234,28945,+97%,+$0,,,,,AMBC
+228,,2018-02-28 17:11:43,2018-02-26,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$15.72,-6675,28945,-19%,"-$104,931",,,,,AMBC
+229,,2018-02-28 17:09:53,2018-02-26,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",A - Grant,$0.00,4271,9360,+84%,+$0,,,,,AMBC
+230,,2018-02-28 17:09:53,2018-02-26,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$15.72,-2180,9360,-19%,"-$34,270",,,,,AMBC
+231,D,2018-02-22 17:00:12,2018-02-21,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$15.84,-2126,11717,-15%,"-$33,676",,,,,AMBC
+232,D,2018-02-22 17:00:12,2018-02-21,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,4296,11717,+58%,+$0,,,,,AMBC
+233,D,2018-02-22 16:58:25,2018-02-21,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$15.84,-2040,21386,-9%,"-$32,314",,,,,AMBC
+234,D,2018-02-22 16:58:25,2018-02-21,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,4296,21386,+25%,+$0,,,,,AMBC
+235,,2017-11-14 16:31:25,2017-11-13,AMBC,Prieur C James,Dir,P - Purchase,$14.02,10000,15000,+200%,"+$140,200",,,,,AMBC
+236,,2017-10-05 16:03:29,2017-10-04,AMBC,Leblanc Claude,CEO,P - Purchase,$16.64,15000,47500,+46%,"+$249,570",,,,,AMBC
+237,,2017-05-22 16:16:40,2017-05-18,AMBC,Leblanc Claude,CEO,P - Purchase,$16.45,7500,32500,+30%,"+$123,365",,,,,AMBC
+238,A,2017-05-16 17:38:26,2017-05-15,AMBC,Leblanc Claude,CEO,P - Purchase,$17.32,5000,25000,+25%,"+$86,600",,,,,AMBC
+239,,2017-05-16 17:10:06,2017-05-15,AMBC,Leblanc Claude,CEO,P - Purchase,$17.32,5000,25000,+25%,"+$86,600",,,,,AMBC
+240,,2017-05-16 17:03:29,2017-05-12,AMBC,Reilly Michael Francis,Senior MD,A - Grant,$0.00,2979,4426,+206%,+$0,,,,,AMBC
+241,,2017-05-16 17:03:29,2017-05-12,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$17.18,-1399,4426,-24%,"-$24,035",,,,,AMBC
+242,,2017-05-16 17:01:46,2017-05-12,AMBC,Barranco David,Senior MD,A - Grant,$0.00,1862,1174,-271%,+$0,,,,,AMBC
+243,,2017-05-16 17:01:46,2017-05-12,AMBC,Barranco David,Senior MD,F - Tax,$17.18,-688,1174,-37%,"-$11,820",,,,,AMBC
+244,,2017-05-16 16:59:44,2017-05-12,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",A - Grant,$0.00,2979,7269,+69%,+$0,,,,,AMBC
+245,,2017-05-16 16:59:44,2017-05-12,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$17.18,-1399,7269,-16%,"-$24,035",,,,,AMBC
+246,,2017-05-16 16:57:09,2017-05-12,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",A - Grant,$0.00,2979,9547,+45%,+$0,,,,,AMBC
+247,,2017-05-16 16:57:09,2017-05-12,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$17.18,-1399,9547,-13%,"-$24,035",,,,,AMBC
+248,,2017-05-16 16:55:07,2017-05-12,AMBC,Trick David,"EVP, CFO, Treasurer",A - Grant,$0.00,4964,19130,+35%,+$0,,,,,AMBC
+249,,2017-05-16 16:55:07,2017-05-12,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$17.18,-2331,19130,-11%,"-$40,047",,,,,AMBC
+250,,2017-03-20 07:08:27,2017-03-17,AMBC,Leblanc Claude,CEO,P - Purchase,$19.55,20000,20000,New,"+$390,993",-4.0,-9.0,2.0,,AMBC
+251,D,2017-03-06 16:44:24,2017-03-02,AMBC,Barranco David,Senior MD,F - Tax,$22.35,-100,0,-100%,"-$2,235",-1.0,-7.0,-13.0,,AMBC
+252,D,2017-03-06 16:44:24,2017-03-02,AMBC,Barranco David,Senior MD,M - OptEx,$22.35,100,0,-100%,"+$2,235",-1.0,-7.0,-13.0,,AMBC
+253,D,2017-03-06 16:39:48,2017-03-02,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$22.35,-284,16497,-2%,"-$6,347",-1.0,-7.0,-13.0,,AMBC
+254,D,2017-03-06 16:39:48,2017-03-02,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$22.35,284,16497,+2%,"+$6,347",-1.0,-7.0,-13.0,,AMBC
+255,D,2017-03-06 16:37:18,2017-03-02,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$22.35,-106,2846,-4%,"-$2,369",-1.0,-7.0,-13.0,,AMBC
+256,D,2017-03-06 16:37:18,2017-03-02,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$22.35,106,2846,+4%,"+$2,369",-1.0,-7.0,-13.0,,AMBC
+257,D,2017-03-06 16:35:22,2017-03-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$22.35,-104,5689,-2%,"-$2,324",-1.0,-7.0,-13.0,,AMBC
+258,D,2017-03-06 16:35:22,2017-03-02,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$22.35,104,5689,+2%,"+$2,324",-1.0,-7.0,-13.0,,AMBC
+259,D,2017-03-06 16:33:10,2017-03-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$22.35,-189,7967,-2%,"-$4,224",-1.0,-7.0,-13.0,,AMBC
+260,D,2017-03-06 16:33:10,2017-03-02,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$22.35,189,7967,+2%,"+$4,224",-1.0,-7.0,-13.0,,AMBC
+261,D,2017-02-22 17:48:12,2017-02-21,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$22.18,-2017,7967,-20%,"-$44,737",0.0,-1.0,-20.0,,AMBC
+262,D,2017-02-22 17:48:12,2017-02-21,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,4295,7967,+117%,+$0,0.0,-1.0,-20.0,,AMBC
+263,D,2017-02-22 17:46:21,2017-02-21,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$22.18,-2017,16497,-11%,"-$44,737",0.0,-1.0,-20.0,,AMBC
+264,D,2017-02-22 17:46:21,2017-02-21,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,4295,16497,+35%,+$0,0.0,-1.0,-20.0,,AMBC
+265,D,2016-12-21 16:14:45,2016-12-20,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$22.07,-1042,2846,-27%,"-$22,997",1.0,0.0,-3.0,,AMBC
+266,D,2016-12-21 16:14:45,2016-12-20,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,2337,2846,+459%,+$0,1.0,0.0,-3.0,,AMBC
+267,D,2016-12-21 16:11:46,2016-12-20,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$22.07,-2085,5689,-27%,"-$46,016",1.0,0.0,-3.0,,AMBC
+268,D,2016-12-21 16:11:46,2016-12-20,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,4674,5689,+460%,+$0,1.0,0.0,-3.0,,AMBC
+269,D,2016-12-21 16:09:33,2016-12-20,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$22.07,-2085,5689,-27%,"-$46,016",1.0,0.0,-3.0,,AMBC
+270,D,2016-12-21 16:09:33,2016-12-20,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,4674,5689,+460%,+$0,1.0,0.0,-3.0,,AMBC
+271,D,2016-12-21 16:07:31,2016-12-20,AMBC,Trick David,"EVP, CFO, Treasurer",F - Tax,$22.07,-5213,14219,-27%,"-$115,051",1.0,0.0,-3.0,,AMBC
+272,D,2016-12-21 16:07:31,2016-12-20,AMBC,Trick David,"EVP, CFO, Treasurer",M - OptEx,$0.00,11684,14219,+461%,+$0,1.0,0.0,-3.0,,AMBC
+273,M,2016-09-20 17:31:06,2016-09-16,AMBC,Nader Tavakoli,CEO,P - Purchase,$18.06,12000,266742,+5%,"+$216,753",3.0,-1.0,6.0,1.0,AMBC
+274,M,2016-06-28 16:08:24,2016-06-24,AMBC,Nader Tavakoli,CEO,P - Purchase,$15.07,20000,254742,+9%,"+$301,450",5.0,5.0,22.0,52.0,AMBC
+275,M,2016-06-15 16:02:46,2016-06-13,AMBC,Nader Tavakoli,CEO,P - Purchase,$15.98,38855,234742,+20%,"+$620,896",2.0,-1.0,11.0,70.0,AMBC
+276,M,2016-05-20 17:13:40,2016-05-19,AMBC,Nader Tavakoli,CEO,P - Purchase,$16.15,16400,195887,+9%,"+$264,912",-2.0,0.0,-3.0,40.0,AMBC
+277,,2016-04-07 16:58:27,2016-04-06,AMBC,Greene Alexander David,Dir,P - Purchase,$15.05,10000,13000,+333%,"+$150,500",4.0,11.0,8.0,28.0,AMBC
+278,,2016-04-07 16:57:21,2016-04-06,AMBC,Nader Tavakoli,CEO,P - Purchase,$14.84,16200,179487,+10%,"+$240,408",4.0,11.0,8.0,28.0,AMBC
+279,M,2016-03-31 19:19:34,2016-03-30,AMBC,Nader Tavakoli,CEO,P - Purchase,$15.98,28390,163287,+21%,"+$453,562",6.0,-6.0,2.0,14.0,AMBC
+280,D,2016-03-31 19:18:33,2016-03-31,AMBC,Herzog David L,Dir,P - Purchase,$15.84,12820,12820,New,"+$203,069",6.0,-6.0,2.0,14.0,AMBC
+281,,2016-01-08 17:33:55,2016-01-07,AMBC,Stein Jeffrey Scott,Dir,P - Purchase,$12.88,4500,7000,+180%,"+$57,960",2.0,2.0,6.0,31.0,AMBC
+282,M,2016-01-08 17:28:42,2016-01-07,AMBC,Nader Tavakoli,CEO,P - Purchase,$12.82,61496,134897,+84%,"+$788,521",2.0,2.0,6.0,31.0,AMBC
+283,D,2016-01-05 16:10:14,2016-01-01,AMBC,Nader Tavakoli,CEO,F - Tax,$14.09,-690,73401,-1%,"-$9,722",-1.0,-6.0,-1.0,15.0,AMBC
+284,D,2016-01-05 16:10:14,2016-01-01,AMBC,Nader Tavakoli,CEO,M - OptEx,$0.00,11666,73401,+19%,+$0,-1.0,-6.0,-1.0,15.0,AMBC
+285,D,2015-12-21 19:10:21,2015-12-20,AMBC,Trick David,"Sr. MD., CFO, Treasurer",F - Tax,$14.39,-4102,7748,-35%,"-$59,028",3.0,1.0,-14.0,8.0,AMBC
+286,D,2015-12-21 19:10:21,2015-12-20,AMBC,Trick David,"Sr. MD., CFO, Treasurer",M - OptEx,$0.00,11850,7748,-289%,+$0,3.0,1.0,-14.0,8.0,AMBC
+287,D,2015-12-21 19:08:59,2015-12-20,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$14.39,-1640,3100,-35%,"-$23,600",3.0,1.0,-14.0,8.0,AMBC
+288,D,2015-12-21 19:08:59,2015-12-20,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$0.00,4740,3100,-289%,+$0,3.0,1.0,-14.0,8.0,AMBC
+289,D,2015-12-21 19:07:15,2015-12-20,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$14.39,-1640,3100,-35%,"-$23,600",3.0,1.0,-14.0,8.0,AMBC
+290,D,2015-12-21 19:07:15,2015-12-20,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$0.00,4740,3100,-289%,+$0,3.0,1.0,-14.0,8.0,AMBC
+291,D,2015-12-21 19:04:39,2015-12-20,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$14.39,-820,1551,-35%,"-$11,800",3.0,1.0,-14.0,8.0,AMBC
+292,D,2015-12-21 19:04:39,2015-12-20,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$0.00,2371,1551,-289%,+$0,3.0,1.0,-14.0,8.0,AMBC
+293,,2015-12-15 19:00:01,2015-12-14,AMBC,Nader Tavakoli,Interim Chief Exec. Officer,P - Purchase,$13.22,16100,62425,+35%,"+$212,842",7.0,10.0,-3.0,20.0,AMBC
+294,,2015-11-13 09:08:44,2015-11-12,AMBC,Nader Tavakoli,Interim Chief Exec. Officer,P - Purchase,$15.04,31325,46325,+209%,"+$471,128",2.0,2.0,-14.0,3.0,AMBC
+295,,2015-07-09 17:31:27,2015-07-08,AMBC,Stein Jeffrey Scott,Dir,P - Purchase,$17.99,2500,2500,New,"+$44,975",3.0,5.0,-14.0,-24.0,AMBC
+296,,2015-07-09 17:26:07,2015-07-08,AMBC,Greene Alexander David,Dir,P - Purchase,$17.69,3000,3000,New,"+$53,070",3.0,5.0,-14.0,-24.0,AMBC
+297,M,2015-07-07 19:21:23,2015-07-02,AMBC,Nader Tavakoli,Interim Chief Exec. Officer,P - Purchase,$16.54,15000,15000,New,"+$248,061",6.0,10.0,-10.0,-19.0,AMBC
+298,D,2014-12-22 17:21:59,2014-12-20,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$24.04,-87,0,-100%,"-$2,091",2.0,2.0,15.0,0.0,AMBC
+299,D,2014-12-22 17:21:59,2014-12-20,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$24.04,87,0,-100%,"+$2,091",2.0,2.0,15.0,0.0,AMBC
+300,D,2014-12-22 17:20:37,2014-12-20,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$24.04,-174,0,-100%,"-$4,183",2.0,2.0,15.0,0.0,AMBC
+301,D,2014-12-22 17:20:37,2014-12-20,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$24.04,174,0,-100%,"+$4,183",2.0,2.0,15.0,0.0,AMBC
+302,D,2014-12-22 17:17:55,2014-12-20,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$24.04,-174,0,-100%,"-$4,183",2.0,2.0,15.0,0.0,AMBC
+303,D,2014-12-22 17:17:55,2014-12-20,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$24.04,174,0,-100%,"+$4,183",2.0,2.0,15.0,0.0,AMBC
+304,D,2014-12-22 17:16:22,2014-12-20,AMBC,Trick David,"Sr. MD., CFO, Treasurer",F - Tax,$24.04,-435,0,-100%,"-$10,457",2.0,2.0,15.0,0.0,AMBC
+305,D,2014-12-22 17:16:22,2014-12-20,AMBC,Trick David,"Sr. MD., CFO, Treasurer",M - OptEx,$24.04,435,0,-100%,"+$10,457",2.0,2.0,15.0,0.0,AMBC
+306,D,2014-12-22 17:14:04,2014-12-20,AMBC,Adams Diana,CEO,F - Tax,$24.04,-652,0,-100%,"-$15,674",2.0,2.0,15.0,0.0,AMBC
+307,D,2014-12-22 17:14:04,2014-12-20,AMBC,Adams Diana,CEO,M - OptEx,$24.04,652,0,-100%,"+$15,674",2.0,2.0,15.0,0.0,AMBC
+308,D,2013-12-23 17:38:56,2013-12-20,AMBC,Reilly Michael Francis,Senior MD,F - Tax,$20.63,-53,0,-100%,"-$1,093",4.0,5.0,6.0,18.0,AMBC
+309,D,2013-12-23 17:38:56,2013-12-20,AMBC,Reilly Michael Francis,Senior MD,M - OptEx,$20.63,53,0,-100%,"+$1,093",4.0,5.0,6.0,18.0,AMBC
+310,D,2013-12-23 17:37:29,2013-12-20,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",F - Tax,$20.63,-107,0,-100%,"-$2,207",4.0,5.0,6.0,18.0,AMBC
+311,D,2013-12-23 17:37:29,2013-12-20,AMBC,Ksenak Stephen Michael,"Sr. MD, GC",M - OptEx,$20.63,107,0,-100%,"+$2,207",4.0,5.0,6.0,18.0,AMBC
+312,D,2013-12-23 17:35:56,2013-12-20,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",F - Tax,$20.63,-107,0,-100%,"-$2,207",4.0,5.0,6.0,18.0,AMBC
+313,D,2013-12-23 17:35:56,2013-12-20,AMBC,Eisman Robert Bryan,"Sr. MD, CAO",M - OptEx,$20.63,107,0,-100%,"+$2,207",4.0,5.0,6.0,18.0,AMBC
+314,D,2013-12-23 17:34:54,2013-12-20,AMBC,Trick David,"Sr. MD., CFO, Treasurer",F - Tax,$20.63,-268,0,-100%,"-$5,529",4.0,5.0,6.0,18.0,AMBC
+315,D,2013-12-23 17:34:54,2013-12-20,AMBC,Trick David,"Sr. MD., CFO, Treasurer",M - OptEx,$20.63,268,0,-100%,"+$5,529",4.0,5.0,6.0,18.0,AMBC
+316,D,2013-12-23 17:33:36,2013-12-20,AMBC,Adams Diana,CEO,F - Tax,$20.63,-402,0,-100%,"-$8,293",4.0,5.0,6.0,18.0,AMBC
+317,D,2013-12-23 17:33:36,2013-12-20,AMBC,Adams Diana,CEO,M - OptEx,$20.63,402,0,-100%,"+$8,293",4.0,5.0,6.0,18.0,AMBC

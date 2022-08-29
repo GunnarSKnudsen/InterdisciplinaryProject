@@ -1,6 +1,4 @@
-# Standard
 import pandas as pd
-
 
 def read_tickers_and_isins(_filename):
     print('Reading tickers')

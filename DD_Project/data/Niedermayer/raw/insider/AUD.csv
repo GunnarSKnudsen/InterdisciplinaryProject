@@ -1,52 +1,685 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,,2022-03-04 18:08:30,2022-03-02,AUD,Neely Susan K,Dir,P - Purchase,$3.10,3175,101955,+3%,"+$9,836",,,,,AUD
-1,,2021-12-27 16:38:09,2021-12-23,AUD,Field Joseph M,"COB Emeritus, 10%",S - Sale,$2.54,-393700,14373864,-3%,"-$999,998",,,,,AUD
-2,M,2021-11-24 17:05:24,2021-11-22,AUD,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$2.88,162914,14767564,+1%,"+$469,898",,,,,AUD
-3,,2021-11-19 17:12:33,2021-11-19,AUD,Field David J,"COB, Pres, CEO",P - Purchase,$2.92,20000,3660629,+1%,"+$58,344",,,,,AUD
-4,M,2021-11-18 17:02:47,2021-11-17,AUD,Field David J,"COB, Pres, CEO",P - Purchase,$2.88,116224,3640629,+3%,"+$334,802",,,,,AUD
-5,M,2021-08-19 16:32:20,2021-08-17,AUD,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$3.06,400000,14604650,+3%,"+$1,225,910",,,,,AUD
-6,,2021-08-12 17:07:34,2021-08-11,AUD,Field David J,"COB, Pres, CEO",P - Purchase,$3.06,125000,3524405,+4%,"+$382,513",,,,,AUD
-7,,2021-03-16 17:13:53,2021-03-12,ETM,Kramer Louise C,Dir,S - Sale,$6.10,-150000,354242,-30%,"-$915,135",,,,,AUD
-8,,2021-03-16 17:13:07,2021-03-12,ETM,Schmaeling Richard J,"EVP, CFO",S - Sale,$6.08,-55676,426416,-12%,"-$338,232",,,,,AUD
-9,D,2020-11-24 16:16:26,2020-11-23,ETM,Field Joseph M,"COB Emeritus, 10%",S - Sale+OE,$2.57,-1000000,14208547,-7%,"-$2,570,000",,,,,AUD
-10,,2020-09-25 17:11:05,2020-09-23,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$1.46,1929,2943572,0%,"+$2,809",,,,,AUD
-11,M,2020-09-22 16:27:44,2020-09-18,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$1.42,248071,2941643,+9%,"+$353,099",,,,,AUD
-12,,2020-09-18 16:16:21,2020-09-16,ETM,Philips Robert E,"Chief Rev. Officer, Pres EAN",P - Purchase,$1.36,37037,140330,+36%,"+$50,289",,,,,AUD
-13,M,2020-08-19 16:15:36,2020-08-17,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$1.65,77925,2693572,+3%,"+$128,427",,,,,AUD
-14,M,2020-08-12 19:21:59,2020-08-10,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$1.60,122075,2615647,+5%,"+$195,058",,,,,AUD
-15,M,2020-05-20 16:52:48,2020-05-18,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$1.32,1200000,15173547,+9%,"+$1,584,001",,,,,AUD
-16,,2020-03-26 17:16:34,2020-03-26,ETM,Selig Stefan M,Dir,P - Purchase,$1.77,100000,139711,+252%,"+$177,300",,,,,AUD
-17,,2020-03-26 17:16:01,2020-03-26,ETM,Creamer Sean R,Dir,P - Purchase,$1.75,25000,64711,+63%,"+$43,713",,,,,AUD
-18,,2020-03-26 17:15:25,2020-03-24,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$1.60,10826,13973547,0%,"+$17,322",,,,,AUD
-19,,2020-03-25 16:13:16,2020-03-23,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",P - Purchase,$1.51,2500,242028,+1%,"+$3,766",,,,,AUD
-20,M,2020-03-23 16:40:51,2020-03-19,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$1.71,69174,13962721,0%,"+$118,349",,,,,AUD
-21,M,2020-03-17 16:38:48,2020-03-13,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$1.72,57312,13893547,0%,"+$98,766",,,,,AUD
-22,M,2020-03-12 18:06:03,2020-03-10,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$2.24,532017,13836235,+4%,"+$1,189,112",,,,,AUD
-23,M,2020-03-12 18:04:44,2020-03-10,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$2.72,100000,2548730,+4%,"+$272,442",,,,,AUD
-24,M,2020-03-09 18:32:23,2020-03-05,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$2.92,50000,13304218,0%,"+$145,788",,,,,AUD
-25,M,2020-03-02 17:01:44,2020-02-27,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$3.24,27983,13254218,0%,"+$90,736",,,,,AUD
-26,,2020-03-02 15:52:23,2020-02-27,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$3.42,100000,2329730,+4%,"+$342,470",,,,,AUD
-27,,2019-08-15 18:13:38,2019-08-14,ETM,Neely Susan K,Dir,P - Purchase,$3.53,7000,34223,+26%,"+$24,695",,,,,AUD
-28,M,2019-08-14 16:25:09,2019-08-12,ETM,Schmaeling Richard J,"EVP, CFO",P - Purchase,$3.61,55676,307580,+22%,"+$201,143",,,,,AUD
-29,M,2019-06-25 17:24:19,2019-06-21,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$5.96,200000,12226235,+2%,"+$1,192,032",,,,,AUD
-30,M,2019-06-19 17:10:28,2019-06-17,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$5.98,200000,12026235,+2%,"+$1,195,551",,,,,AUD
-31,M,2019-06-14 16:34:16,2019-06-12,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$5.99,300000,11826235,+3%,"+$1,797,550",,,,,AUD
-32,,2019-06-14 16:24:05,2018-11-12,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$7.00,32162,11526235,0%,"+$225,134",,,,,AUD
-33,M,2019-06-11 17:16:55,2019-06-07,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$5.89,300000,11502822,+3%,"+$1,766,280",,,,,AUD
-34,M,2019-05-30 18:16:37,2019-05-29,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$5.85,30000,3229730,+1%,"+$175,420",,,,,AUD
-35,M,2019-03-26 17:01:54,2019-03-22,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$5.48,264257,11183591,+2%,"+$1,447,229",,,,,AUD
-36,,2019-03-11 16:14:47,2019-03-07,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.09,100000,10919334,+1%,"+$608,870",,,,,AUD
-37,M,2019-03-06 17:25:43,2019-03-04,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.17,400000,10819334,+4%,"+$2,469,660",,,,,AUD
-38,M,2019-03-01 17:40:05,2019-02-28,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.32,200000,10419334,+2%,"+$1,263,210",,,,,AUD
-39,,2018-12-26 16:39:57,2018-12-21,ETM,Field Joseph M,COB Emeritus,P - Purchase,$5.54,200000,10216334,+2%,"+$1,108,960",,,,,AUD
-40,,2018-12-18 17:27:04,2018-12-14,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.44,100000,10016334,+1%,"+$643,740",,,,,AUD
-41,M,2018-12-13 18:07:22,2018-12-11,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.61,300000,9916334,+3%,"+$1,981,550",,,,,AUD
-42,M,2018-12-10 17:16:23,2018-12-06,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.43,300000,9616334,+3%,"+$1,929,470",,,,,AUD
-43,,2018-12-06 18:02:06,2018-12-04,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.56,100000,9316334,+1%,"+$656,000",,,,,AUD
-44,M,2018-12-03 17:10:13,2018-11-29,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.53,400000,9216334,+5%,"+$2,613,413",,,,,AUD
-45,M,2018-11-19 18:18:57,2018-11-16,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.00,66738,8816334,+1%,"+$467,166",,,,,AUD
-46,D,2018-11-09 17:58:04,2018-11-07,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.00,1100,8749596,0%,"+$7,699",,,,,AUD
-47,M,2018-06-25 17:28:56,2018-06-21,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.79,370000,8748496,+4%,"+$2,884,060",,,,,AUD
-48,M,2018-06-08 16:48:15,2018-06-06,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.00,150000,8378496,+2%,"+$1,049,630",,,,,AUD
-49,M,2018-06-05 17:42:16,2018-06-01,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.92,400000,8228496,+5%,"+$2,769,560",,,,,AUD
-50,M,2018-05-31 17:32:50,2018-05-29,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.07,200000,7828496,+3%,"+$1,414,590",,,,,AUD
+1,,2022-03-02 18:30:07,2022-03-01,AUD,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$3.10,-2660,347088,-1%,"-$8,246",,,,,AUD
+2,,2022-03-02 18:29:39,2022-03-01,AUD,Philips Robert E,"Pres, Audacy Networks",F - Tax,$3.10,-3963,217616,-2%,"-$12,285",,,,,AUD
+3,,2022-03-02 18:29:20,2022-03-01,AUD,Larkin Susan,"EVP, COO",F - Tax,$3.10,-2305,358053,-1%,"-$7,146",,,,,AUD
+4,,2022-03-02 18:28:51,2022-03-01,AUD,Schmaeling Richard J,"CFO, EVP Strat. Initiatives",F - Tax,$3.10,-7322,612550,-1%,"-$22,698",,,,,AUD
+5,,2022-03-02 18:28:26,2022-03-01,AUD,Field David J,"COB, Pres, CEO",F - Tax,$3.10,-5052,3880577,0%,"-$15,661",,,,,AUD
+6,,2022-02-15 17:27:48,2022-02-12,AUD,Philips Robert E,"Pres, Audacy Networks",F - Tax,$2.35,-2725,221579,-1%,"-$6,404",,,,,AUD
+7,,2022-02-15 17:27:37,2022-02-12,AUD,Schmaeling Richard J,"CFO, EVP Strat. Initiatives",F - Tax,$2.35,-9294,619872,-1%,"-$21,841",,,,,AUD
+8,,2022-02-15 17:27:05,2022-02-12,AUD,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$2.35,-2941,349748,-1%,"-$6,911",,,,,AUD
+9,,2022-02-15 17:26:29,2022-02-14,AUD,Bramowski Elizabeth,"Principal Acctg Ofcr, Treasr",F - Tax,$2.35,-838,84024,-1%,"-$1,969",,,,,AUD
+10,,2022-02-15 17:24:52,2022-02-14,AUD,Larkin Susan,"EVP, COO",F - Tax,$2.35,-2495,360358,-1%,"-$5,863",,,,,AUD
+11,,2022-01-05 17:38:50,2022-01-05,AUD,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$2.63,-18115,352689,-5%,"-$47,642",,,,,AUD
+12,,2021-12-27 16:38:09,2021-12-23,AUD,Field Joseph M,"COB Emeritus, 10%",S - Sale,$2.54,-393700,14373864,-3%,"-$999,998",,,,,AUD
+13,,2021-12-03 17:24:55,2021-12-01,AUD,Bramowski Elizabeth,"Principal Acctg Ofcr, Treasr",A - Grant,$0.00,30000,84862,+55%,+$0,,,,,AUD
+14,,2021-12-03 17:24:37,2021-12-01,AUD,Larkin Susan,"EVP, COO",A - Grant,$0.00,116250,362853,+47%,+$0,,,,,AUD
+15,,2021-12-03 17:24:22,2021-12-01,AUD,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",A - Grant,$0.00,53614,370804,+17%,+$0,,,,,AUD
+16,,2021-12-03 17:24:13,2021-12-01,AUD,Philips Robert E,"Pres, Audacy Networks",A - Grant,$0.00,26806,224304,+14%,+$0,,,,,AUD
+17,,2021-12-03 17:23:48,2021-12-01,AUD,Schmaeling Richard J,"CFO, EVP Strat. Initiatives",A - Grant,$0.00,138750,627166,+28%,+$0,,,,,AUD
+18,,2021-12-03 17:23:23,2021-12-01,AUD,Field David J,"COB, Pres, CEO",A - Grant,$0.00,225000,3885629,+6%,+$0,,,,,AUD
+19,M,2021-11-24 17:05:24,2021-11-22,AUD,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$2.88,162914,14767564,+1%,"+$469,898",,,,,AUD
+20,,2021-11-19 17:12:33,2021-11-19,AUD,Field David J,"COB, Pres, CEO",P - Purchase,$2.92,20000,3660629,+1%,"+$58,344",,,,,AUD
+21,,2021-11-19 17:11:57,2021-11-18,AUD,Kramer Louise C,Dir,F - Tax,$3.02,-17825,365974,-5%,"-$53,832",,,,,AUD
+22,M,2021-11-18 17:02:47,2021-11-17,AUD,Field David J,"COB, Pres, CEO",P - Purchase,$2.88,116224,3640629,+3%,"+$334,802",,,,,AUD
+23,M,2021-08-19 16:32:20,2021-08-17,AUD,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$3.06,400000,14604650,+3%,"+$1,225,910",,,,,AUD
+24,,2021-08-12 17:07:34,2021-08-11,AUD,Field David J,"COB, Pres, CEO",P - Purchase,$3.06,125000,3524405,+4%,"+$382,513",,,,,AUD
+25,,2021-06-22 18:03:05,2021-06-18,ETM,Bramowski Elizabeth,"Principal Acctg Ofcr, Treasr",F - Tax,$4.24,-1329,54862,-2%,"-$5,635",,,,,AUD
+26,,2021-05-14 16:19:16,2021-05-14,AUD,Berkman David J,Dir,A - Grant,$0.00,29557,163040,+22%,+$0,,,,,AUD
+27,,2021-05-14 16:18:42,2021-05-14,AUD,Creamer Sean R,Dir,A - Grant,$0.00,29557,129268,+30%,+$0,,,,,AUD
+28,,2021-05-14 16:18:21,2021-05-14,AUD,Hollander Joel,Dir,A - Grant,$0.00,29557,134864,+28%,+$0,,,,,AUD
+29,,2021-05-14 16:17:38,2021-02-16,AUD,Kramer Louise C,Dir,A - Grant,$0.00,29557,383799,+8%,+$0,,,,,AUD
+30,,2021-05-14 16:17:05,2021-05-14,AUD,Laneve Mark R,Dir,A - Grant,$0.00,29557,133411,+28%,+$0,,,,,AUD
+31,,2021-05-14 16:16:25,2021-05-14,AUD,Levy David,Dir,A - Grant,$0.00,29557,126153,+31%,+$0,,,,,AUD
+32,,2021-05-14 16:15:54,2021-05-14,AUD,Neely Susan K,Dir,A - Grant,$0.00,29557,98780,+43%,+$0,,,,,AUD
+33,,2021-05-14 16:15:25,2021-05-14,AUD,Nelson Monique,Dir,A - Grant,$0.00,29557,33806,+696%,+$0,,,,,AUD
+34,,2021-05-14 16:13:05,2021-05-14,AUD,Field Joseph M,"COB Emeritus, 10%",A - Grant,$0.00,29557,14226228,0%,+$0,,,,,AUD
+35,,2021-05-06 17:02:03,2021-05-05,AUD,Field Joseph M,"COB Emeritus, 10%",F - Tax,$4.78,-11876,14196671,0%,"-$56,767",,,,,AUD
+36,,2021-05-03 16:59:48,2021-05-01,AUD,Schmaeling Richard J,"CFO, EVP Strat. Initiatives",A - Grant,$0.00,60000,486416,+14%,+$0,,,,,AUD
+37,,2021-03-16 17:13:53,2021-03-12,ETM,Kramer Louise C,Dir,S - Sale,$6.10,-150000,354242,-30%,"-$915,135",,,,,AUD
+38,,2021-03-16 17:13:07,2021-03-12,ETM,Schmaeling Richard J,"EVP, CFO",S - Sale,$6.08,-55676,426416,-12%,"-$338,232",,,,,AUD
+39,,2021-03-02 18:42:52,2021-03-01,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$4.47,-4034,317190,-1%,"-$18,032",,,,,AUD
+40,,2021-03-02 18:42:32,2021-03-01,ETM,Philips Robert E,"Chief Rev. Officer, Pres EAN",F - Tax,$4.47,-3422,197498,-2%,"-$15,296",,,,,AUD
+41,,2021-03-02 18:41:57,2021-03-01,ETM,Larkin Susan,"EVP, COO",F - Tax,$4.47,-6695,246603,-3%,"-$29,927",,,,,AUD
+42,,2021-03-02 18:41:27,2021-03-01,ETM,Schmaeling Richard J,"EVP, CFO",F - Tax,$4.47,-11134,482092,-2%,"-$49,769",,,,,AUD
+43,,2021-03-02 18:40:40,2021-03-01,ETM,Field David J,"COB, Pres, CEO",F - Tax,$4.47,-5057,3399405,0%,"-$22,605",,,,,AUD
+44,,2021-02-23 17:59:26,2021-02-23,ETM,Philips Robert E,"Chief Rev. Officer, Pres EAN",F - Tax,$6.20,-1148,200920,-1%,"-$7,118",,,,,AUD
+45,,2021-02-17 17:09:04,2021-02-16,ETM,Kramer Louise C,Dir,A - Grant,$0.00,16505,504242,+3%,+$0,,,,,AUD
+46,,2021-02-17 17:08:24,2021-02-16,ETM,Nelson Monique,Dir,A - Grant,$0.00,4249,4249,New,+$0,,,,,AUD
+47,,2021-02-17 17:07:23,2021-02-14,ETM,Bramowski Elizabeth,Principal Accounting Officer,F - Tax,$5.88,-1676,56191,-3%,"-$9,855",,,,,AUD
+48,,2021-02-17 17:06:39,2021-02-14,ETM,Larkin Susan,"EVP, COO",F - Tax,$5.88,-4881,253298,-2%,"-$28,700",,,,,AUD
+49,,2021-02-17 17:06:07,2021-02-12,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$5.82,-6518,321224,-2%,"-$37,935",,,,,AUD
+50,,2021-02-17 17:05:39,2021-02-12,ETM,Philips Robert E,"Chief Rev. Officer, Pres EAN",F - Tax,$5.82,-5405,202068,-3%,"-$31,457",,,,,AUD
+51,,2021-02-17 17:05:02,2021-02-12,ETM,Schmaeling Richard J,"EVP, CFO",F - Tax,$5.82,-16766,493226,-3%,"-$97,578",,,,,AUD
+52,,2021-02-17 17:04:41,2021-02-12,ETM,Field David J,"COB, Pres, CEO",F - Tax,$5.82,-39110,3404462,-1%,"-$227,620",,,,,AUD
+53,D,2020-11-24 16:16:26,2020-11-23,ETM,Field Joseph M,"COB Emeritus, 10%",S - Sale+OE,$2.57,-1000000,14208547,-7%,"-$2,570,000",,,,,AUD
+54,,2020-11-18 17:01:52,2020-11-18,ETM,Kramer Louise C,EVP,F - Tax,$2.18,-11790,557386,-2%,"-$25,702",,,,,AUD
+55,,2020-11-18 17:01:26,2020-11-16,ETM,Selig Stefan M,Dir,A - Grant,$0.00,35000,174711,+25%,+$0,,,,,AUD
+56,,2020-11-18 17:00:54,2020-11-16,ETM,Neely Susan K,Dir,A - Grant,$0.00,35000,69223,+102%,+$0,,,,,AUD
+57,,2020-11-18 17:00:15,2020-11-16,ETM,Levy David,Dir,A - Grant,$0.00,35000,96596,+57%,+$0,,,,,AUD
+58,,2020-11-18 16:59:43,2020-11-16,ETM,Laneve Mark R,Dir,A - Grant,$0.00,35000,103854,+51%,+$0,,,,,AUD
+59,,2020-11-18 16:59:14,2020-11-16,ETM,Hollander Joel,Dir,A - Grant,$0.00,35000,105307,+50%,+$0,,,,,AUD
+60,,2020-11-18 16:58:42,2020-11-16,ETM,Creamer Sean R,Dir,A - Grant,$0.00,35000,99711,+54%,+$0,,,,,AUD
+61,,2020-11-18 16:57:24,2020-11-16,ETM,Berkman David J,Dir,A - Grant,$0.00,35000,133483,+36%,+$0,,,,,AUD
+62,,2020-11-18 16:56:49,2020-11-16,ETM,Field Joseph M,"COB Emeritus, 10%",A - Grant,$0.00,35000,15208547,0%,+$0,,,,,AUD
+63,,2020-11-18 16:55:14,2020-11-16,ETM,Bramowski Elizabeth,Principal Accounting Officer,A - Grant,$0.00,25000,57867,+76%,+$0,,,,,AUD
+64,,2020-11-18 16:54:42,2020-11-16,ETM,Philips Robert E,"Chief Rev. Officer, Pres EAN",A - Grant,$0.00,67143,207473,+48%,+$0,,,,,AUD
+65,,2020-11-18 16:54:02,2020-11-16,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",A - Grant,$0.00,85714,327742,+35%,+$0,,,,,AUD
+66,,2020-11-18 16:53:24,2020-11-16,ETM,Larkin Susan,"EVP, COO",A - Grant,$0.00,164286,258179,+175%,+$0,,,,,AUD
+67,,2020-11-18 16:52:51,2020-11-16,ETM,Schmaeling Richard J,"EVP, CFO",A - Grant,$0.00,200000,509992,+65%,+$0,,,,,AUD
+68,,2020-11-18 16:52:14,2020-11-16,ETM,Field David J,"COB, Pres, CEO",A - Grant,$0.00,500000,3443572,+17%,+$0,,,,,AUD
+69,,2020-09-25 17:11:05,2020-09-23,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$1.46,1929,2943572,0%,"+$2,809",,,,,AUD
+70,M,2020-09-22 16:27:44,2020-09-18,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$1.42,248071,2941643,+9%,"+$353,099",,,,,AUD
+71,,2020-09-18 16:16:21,2020-09-16,ETM,Philips Robert E,"Chief Rev. Officer, Pres EAN",P - Purchase,$1.36,37037,140330,+36%,"+$50,289",,,,,AUD
+72,M,2020-08-19 16:15:36,2020-08-17,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$1.65,77925,2693572,+3%,"+$128,427",,,,,AUD
+73,M,2020-08-12 19:21:59,2020-08-10,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$1.60,122075,2615647,+5%,"+$195,058",,,,,AUD
+74,,2020-06-18 16:16:03,2020-06-18,ETM,Bramowski Elizabeth,Principal Accounting Officer,F - Tax,$1.92,-2728,32867,-8%,"-$5,238",,,,,AUD
+75,M,2020-05-20 16:52:48,2020-05-18,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$1.32,1200000,15173547,+9%,"+$1,584,001",,,,,AUD
+76,,2020-04-03 18:02:14,2020-04-03,ETM,Philips Robert E,"Chief Rev. Officer, Pres EAN",F - Tax,$1.30,-90,103293,0%,-$117,,,,,AUD
+77,,2020-03-26 17:16:34,2020-03-26,ETM,Selig Stefan M,Dir,P - Purchase,$1.77,100000,139711,+252%,"+$177,300",,,,,AUD
+78,,2020-03-26 17:16:01,2020-03-26,ETM,Creamer Sean R,Dir,P - Purchase,$1.75,25000,64711,+63%,"+$43,713",,,,,AUD
+79,,2020-03-26 17:15:25,2020-03-24,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$1.60,10826,13973547,0%,"+$17,322",,,,,AUD
+80,,2020-03-25 16:13:16,2020-03-23,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",P - Purchase,$1.51,2500,242028,+1%,"+$3,766",,,,,AUD
+81,M,2020-03-23 16:40:51,2020-03-19,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$1.71,69174,13962721,0%,"+$118,349",,,,,AUD
+82,,2020-03-17 16:42:55,2020-03-16,ETM,Bramowski Elizabeth,Principal Accounting Officer,F - Tax,$2.35,-2623,35595,-7%,"-$6,164",,,,,AUD
+83,,2020-03-17 16:42:21,2020-03-16,ETM,Philips Robert E,"Chief Rev. Officer, Pres EAN",F - Tax,$2.35,-4967,103383,-5%,"-$11,672",,,,,AUD
+84,,2020-03-17 16:41:46,2020-03-16,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$2.35,-3023,239528,-1%,"-$7,104",,,,,AUD
+85,,2020-03-17 16:41:14,2020-03-16,ETM,Schmaeling Richard J,"EVP, CFO",F - Tax,$2.35,-9092,307992,-3%,"-$21,366",,,,,AUD
+86,,2020-03-17 16:40:12,2020-03-16,ETM,Kramer Louise C,COO,F - Tax,$2.35,-7325,569176,-1%,"-$17,214",,,,,AUD
+87,,2020-03-17 16:39:36,2020-03-16,ETM,Field David J,"COB, Pres, CEO",F - Tax,$2.35,-55158,2493572,-2%,"-$129,621",,,,,AUD
+88,M,2020-03-17 16:38:48,2020-03-13,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$1.72,57312,13893547,0%,"+$98,766",,,,,AUD
+89,M,2020-03-12 18:06:03,2020-03-10,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$2.24,532017,13836235,+4%,"+$1,189,112",,,,,AUD
+90,M,2020-03-12 18:04:44,2020-03-10,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$2.72,100000,2548730,+4%,"+$272,442",,,,,AUD
+91,M,2020-03-09 18:32:23,2020-03-05,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$2.92,50000,13304218,0%,"+$145,788",,,,,AUD
+92,,2020-03-03 17:04:35,2020-03-02,ETM,Bramowski Elizabeth,Principal Accounting Officer,A - Grant,$0.00,8000,38218,+26%,+$0,,,,,AUD
+93,,2020-03-03 17:04:09,2020-03-02,ETM,Philips Robert E,Chief Revenue Officer,A - Grant,$0.00,15000,108350,+16%,+$0,,,,,AUD
+94,,2020-03-03 17:04:09,2020-03-01,ETM,Philips Robert E,Chief Revenue Officer,F - Tax,$3.47,-7017,108350,-6%,"-$24,349",,,,,AUD
+95,,2020-03-03 17:03:39,2020-03-02,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",A - Grant,$0.00,11000,242551,+5%,+$0,,,,,AUD
+96,,2020-03-03 17:03:39,2020-03-01,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$3.47,-7028,242551,-3%,"-$24,387",,,,,AUD
+97,,2020-03-03 17:03:07,2020-03-02,ETM,Kramer Louise C,COO,A - Grant,$0.00,25000,1128002,+2%,+$0,,,,,AUD
+98,,2020-03-03 17:03:07,2020-03-01,ETM,Kramer Louise C,COO,F - Tax,$3.47,-3663,1128002,0%,"-$12,711",,,,,AUD
+99,,2020-03-03 17:02:30,2020-03-02,ETM,Schmaeling Richard J,"EVP, CFO",A - Grant,$0.00,29000,317084,+10%,+$0,,,,,AUD
+100,,2020-03-03 17:02:30,2020-03-01,ETM,Schmaeling Richard J,"EVP, CFO",F - Tax,$3.47,-19497,317084,-6%,"-$67,655",,,,,AUD
+101,,2020-03-03 17:01:55,2020-03-02,ETM,Field David J,"COB, Pres, CEO",A - Grant,$0.00,119000,2448730,+5%,+$0,,,,,AUD
+102,M,2020-03-02 17:01:44,2020-02-27,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$3.24,27983,13254218,0%,"+$90,736",,,,,AUD
+103,,2020-03-02 15:52:23,2020-02-27,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$3.42,100000,2329730,+4%,"+$342,470",,,,,AUD
+104,,2020-02-24 16:18:00,2020-02-23,ETM,Philips Robert E,Chief Revenue Officer,F - Tax,$4.34,-1366,100367,-1%,"-$5,928",,,,,AUD
+105,,2020-02-21 17:20:19,2020-02-20,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",A - Grant,$0.00,100000,238579,+72%,+$0,,,,,AUD
+106,,2020-02-18 17:22:14,2020-02-18,ETM,Philips Robert E,Chief Revenue Officer,F - Tax,$4.63,-1485,101733,-1%,"-$6,876",,,,,AUD
+107,A,2020-02-12 17:32:14,2020-02-10,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$4.41,-1312,138579,-1%,"-$5,786",,,,,AUD
+108,,2020-02-11 18:05:45,2020-02-10,ETM,Kramer Louise C,COO,F - Tax,$4.41,-4950,555164,-1%,"-$21,830",,,,,AUD
+109,,2020-02-11 18:02:54,2020-02-10,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$4.41,-1450,138441,-1%,"-$6,395",,,,,AUD
+110,M,2020-02-11 17:50:19,2020-02-08,ETM,Levy David,Dir,F - Tax,$4.41,-53,61596,0%,-$234,,,,,AUD
+111,,2019-11-18 17:40:54,2019-11-18,ETM,Kramer Louise C,COO,F - Tax,$4.80,-35650,560114,-6%,"-$171,120",,,,,AUD
+112,,2019-08-15 18:13:38,2019-08-14,ETM,Neely Susan K,Dir,P - Purchase,$3.53,7000,34223,+26%,"+$24,695",,,,,AUD
+113,M,2019-08-14 16:25:09,2019-08-12,ETM,Schmaeling Richard J,"EVP, CFO",P - Purchase,$3.61,55676,307580,+22%,"+$201,143",,,,,AUD
+114,M,2019-06-25 17:24:19,2019-06-21,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$5.96,200000,12226235,+2%,"+$1,192,032",,,,,AUD
+115,M,2019-06-19 17:10:28,2019-06-17,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$5.98,200000,12026235,+2%,"+$1,195,551",,,,,AUD
+116,M,2019-06-14 16:34:16,2019-06-12,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$5.99,300000,11826235,+3%,"+$1,797,550",,,,,AUD
+117,,2019-06-14 16:24:05,2018-11-12,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$7.00,32162,11526235,0%,"+$225,134",,,,,AUD
+118,AM,2019-06-14 16:13:33,2017-05-18,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$9.84,294341,11463948,+3%,"+$2,897,257",,,,,AUD
+119,M,2019-06-11 17:16:55,2019-06-07,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$5.89,300000,11502822,+3%,"+$1,766,280",,,,,AUD
+120,M,2019-05-30 18:16:37,2019-05-29,ETM,Field David J,"COB, Pres, CEO",P - Purchase,$5.85,30000,3229730,+1%,"+$175,420",,,,,AUD
+121,,2019-05-23 18:45:26,2019-05-21,ETM,Berkman David J,Dir,A - Grant,$0.00,19231,98483,+24%,+$0,,,,,AUD
+122,,2019-05-23 18:29:25,2019-05-21,ETM,Neely Susan K,Dir,A - Grant,$0.00,19231,27223,+241%,+$0,,,,,AUD
+123,,2019-05-23 18:28:52,2019-05-21,ETM,Selig Stefan M,Dir,A - Grant,$0.00,19231,39711,+94%,+$0,,,,,AUD
+124,,2019-05-23 18:27:54,2019-05-21,ETM,Creamer Sean R,Dir,A - Grant,$0.00,19231,39711,+94%,+$0,,,,,AUD
+125,,2019-05-23 18:27:26,2019-05-21,ETM,Levy David,Dir,A - Grant,$0.00,19231,61649,+45%,+$0,,,,,AUD
+126,,2019-05-23 18:26:48,2019-05-21,ETM,Laneve Mark R,Dir,A - Grant,$0.00,19231,68854,+39%,+$0,,,,,AUD
+127,,2019-05-23 18:07:30,2019-05-21,ETM,Hollander Joel,Dir,A - Grant,$0.00,19231,70307,+38%,+$0,,,,,AUD
+128,,2019-05-23 18:06:54,2019-05-22,ETM,Field David J,"COB, Pres, CEO",F - Tax,$6.36,-127440,3199730,-4%,"-$810,518",,,,,AUD
+129,,2019-05-23 18:04:36,2019-05-21,ETM,Field Joseph M,"COB Emeritus, 10%",A - Grant,$0.00,19231,11202822,0%,+$0,,,,,AUD
+130,,2019-05-16 17:27:13,2019-05-16,ETM,Levy David,Dir,F - Tax,$6.41,-238,42418,-1%,"-$1,526",,,,,AUD
+131,,2019-05-06 16:11:08,2019-05-05,ETM,Levy David,Dir,F - Tax,$6.67,-19,42656,0%,-$127,,,,,AUD
+132,M,2019-04-03 17:29:38,2019-04-01,ETM,Philips Robert E,Chief Revenue Officer,F - Tax,$5.31,-184,103218,0%,-$977,,,,,AUD
+133,M,2019-03-26 17:01:54,2019-03-22,ETM,Field Joseph M,"COB Emeritus, 10%",P - Purchase,$5.48,264257,11183591,+2%,"+$1,447,229",,,,,AUD
+134,,2019-03-13 16:11:51,2019-03-12,ETM,Kramer Louise C,COO,F - Tax,$6.14,-3908,595764,-1%,"-$23,995",,,,,AUD
+135,,2019-03-11 16:14:47,2019-03-07,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.09,100000,10919334,+1%,"+$608,870",,,,,AUD
+136,M,2019-03-06 17:25:43,2019-03-04,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.17,400000,10819334,+4%,"+$2,469,660",,,,,AUD
+137,,2019-03-01 17:43:35,2019-03-01,ETM,Schmaeling Richard J,"EVP, CFO",F - Tax,$6.16,-7841,249222,-3%,"-$48,301",,,,,AUD
+138,,2019-03-01 17:41:37,2019-03-01,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$6.16,-2748,139891,-2%,"-$16,928",,,,,AUD
+139,,2019-03-01 17:41:05,2019-02-01,ETM,Kramer Louise C,COO,F - Tax,$6.16,-7325,606338,-1%,"-$45,122",,,,,AUD
+140,,2019-03-01 17:40:37,2019-02-01,ETM,Kramer Louise C,COO,F - Tax,$6.16,-7325,606338,-1%,"-$45,122",,,,,AUD
+141,M,2019-03-01 17:40:05,2019-02-28,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.32,200000,10419334,+2%,"+$1,263,210",,,,,AUD
+142,,2019-02-20 16:13:00,2019-02-19,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$7.35,-859,142639,-1%,"-$6,314",,,,,AUD
+143,,2019-02-20 16:12:35,2019-02-19,ETM,Kramer Louise C,COO,F - Tax,$7.35,-3297,613663,-1%,"-$24,233",,,,,AUD
+144,,2019-02-20 16:11:59,2019-02-19,ETM,Field David J,"COB, Pres, CEO",F - Tax,$7.35,-7965,3477170,0%,"-$58,543",,,,,AUD
+145,M,2019-02-20 16:11:31,2019-02-18,ETM,Philips Robert E,Chief Revenue Officer,F - Tax,$7.35,-1573,104471,-1%,"-$11,562",,,,,AUD
+146,,2019-02-13 17:19:06,2019-02-12,ETM,Hamill James N,Interim Chief Accounting Offic,A - Grant,$0.00,22825,26025,+713%,+$0,,,,,AUD
+147,,2019-02-13 17:18:45,2019-02-12,ETM,Philips Robert E,Chief Revenue Officer,A - Grant,$0.00,28531,106044,+37%,+$0,,,,,AUD
+148,,2019-02-13 17:14:40,2019-02-12,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",A - Grant,$0.00,42796,143498,+42%,+$0,,,,,AUD
+149,,2019-02-13 17:14:15,2019-02-12,ETM,Schmaeling Richard J,"EVP, CFO",A - Grant,$0.00,106990,257063,+71%,+$0,,,,,AUD
+150,D,2019-02-13 17:13:46,2019-02-01,ETM,Field Joseph M,COB Emeritus,M - OptEx,$1.34,3000,10219334,0%,"+$4,020",,,,,AUD
+151,D,2019-02-13 17:13:04,2019-02-12,ETM,Field David J,"COB, Pres, CEO",A - Grant,$0.00,250000,5359822,+5%,+$0,,,,,AUD
+152,D,2019-02-13 17:13:04,2019-02-06,ETM,Field David J,"COB, Pres, CEO",M - OptEx,$1.34,140000,5359822,+3%,"+$187,600",,,,,AUD
+153,,2019-02-12 17:03:16,2019-02-10,ETM,Kramer Louise C,COO,F - Tax,$6.90,-4309,616960,-1%,"-$29,732",,,,,AUD
+154,,2019-02-12 17:02:36,2019-02-10,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$6.90,-1100,100702,-1%,"-$7,590",,,,,AUD
+155,,2018-12-26 16:39:57,2018-12-21,ETM,Field Joseph M,COB Emeritus,P - Purchase,$5.54,200000,10216334,+2%,"+$1,108,960",,,,,AUD
+156,,2018-12-20 16:52:55,2018-12-18,ETM,Neely Susan K,Dir,A - Grant,$0.00,7992,7992,New,+$0,,,,,AUD
+157,,2018-12-18 17:27:04,2018-12-14,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.44,100000,10016334,+1%,"+$643,740",,,,,AUD
+158,M,2018-12-13 18:07:22,2018-12-11,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.61,300000,9916334,+3%,"+$1,981,550",,,,,AUD
+159,M,2018-12-10 17:16:23,2018-12-06,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.43,300000,9616334,+3%,"+$1,929,470",,,,,AUD
+160,,2018-12-06 18:02:06,2018-12-04,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.56,100000,9316334,+1%,"+$656,000",,,,,AUD
+161,M,2018-12-03 17:10:13,2018-11-29,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.53,400000,9216334,+5%,"+$2,613,413",,,,,AUD
+162,M,2018-11-19 18:18:57,2018-11-16,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.00,66738,8816334,+1%,"+$467,166",,,,,AUD
+163,D,2018-11-14 18:13:42,2018-11-14,ETM,Kramer Louise C,COO,M - OptEx,$1.34,5387,621269,+1%,"+$7,219",,,,,AUD
+164,D,2018-11-09 17:58:04,2018-11-07,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.00,1100,8749596,0%,"+$7,699",,,,,AUD
+165,M,2018-06-25 17:28:56,2018-06-21,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.79,370000,8748496,+4%,"+$2,884,060",,,,,AUD
+166,M,2018-06-08 16:48:15,2018-06-06,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.00,150000,8378496,+2%,"+$1,049,630",,,,,AUD
+167,M,2018-06-05 17:42:16,2018-06-01,ETM,Field Joseph M,COB Emeritus,P - Purchase,$6.92,400000,8228496,+5%,"+$2,769,560",,,,,AUD
+168,M,2018-05-31 17:32:50,2018-05-29,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.07,200000,7828496,+3%,"+$1,414,590",,,,,AUD
+169,D,2018-05-23 17:45:11,2018-05-21,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",M - OptEx,$1.34,15000,129756,+13%,"+$20,100",,,,,AUD
+170,DM,2018-05-23 17:45:11,2018-05-21,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",S - Sale+OE,$7.73,-85256,129756,-40%,"-$658,745",,,,,AUD
+171,,2018-05-18 17:30:42,2018-05-16,ETM,Selig Stefan M,Dir,A - Grant,$0.00,15484,20480,+310%,+$0,,,,,AUD
+172,,2018-05-18 17:24:47,2018-05-16,ETM,Levy David,Dir,A - Grant,$0.00,15484,42675,+57%,+$0,,,,,AUD
+173,,2018-05-18 17:24:25,2018-05-16,ETM,Laneve Mark R,Dir,A - Grant,$0.00,15484,49623,+45%,+$0,,,,,AUD
+174,,2018-05-18 17:23:59,2018-05-16,ETM,Hollander Joel,Dir,A - Grant,$0.00,15484,51076,+44%,+$0,,,,,AUD
+175,,2018-05-18 17:23:28,2018-05-16,ETM,Creamer Sean R,Dir,A - Grant,$0.00,15484,20480,+310%,+$0,,,,,AUD
+176,,2018-05-18 17:22:54,2018-05-16,ETM,Berkman David J,Dir,A - Grant,$0.00,15484,79252,+24%,+$0,,,,,AUD
+177,,2018-05-18 17:21:23,2018-05-16,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,13500,92506,+17%,+$0,,,,,AUD
+178,,2018-05-18 17:19:31,2018-05-16,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",A - Grant,$0.00,38710,101802,+61%,+$0,,,,,AUD
+179,,2018-05-18 17:17:30,2018-05-16,ETM,Schmaeling Richard J,"EVP, CFO",A - Grant,$0.00,96775,146775,+194%,+$0,,,,,AUD
+180,,2018-05-18 17:08:47,2018-05-16,ETM,Field David J,"COB, Pres, CEO",A - Grant,$0.00,64517,3095135,+2%,+$0,,,,,AUD
+181,,2018-05-18 17:08:05,2018-05-16,ETM,Philips Robert E,Chief Revenue Officer,A - Grant,$0.00,41291,77513,+114%,+$0,,,,,AUD
+182,,2018-05-18 17:08:05,2018-05-17,ETM,Philips Robert E,Chief Revenue Officer,P - Purchase,$7.95,6289,77513,+9%,"+$50,009",,,,,AUD
+183,,2018-05-18 17:07:15,2018-05-16,ETM,Field Joseph M,COB Emeritus,A - Grant,$0.00,15484,7628496,0%,+$0,,,,,AUD
+184,M,2018-05-18 17:07:15,2018-05-17,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.84,150000,7628496,+2%,"+$1,175,815",,,,,AUD
+185,M,2018-05-16 17:36:39,2018-05-14,ETM,Field Joseph M,COB Emeritus,P - Purchase,$7.52,150000,7463012,+2%,"+$1,127,725",,,,,AUD
+186,M,2018-05-10 17:52:06,2018-05-08,ETM,Field Joseph M,COB Emeritus,P - Purchase,$8.19,302562,7313012,+4%,"+$2,477,848",,,,,AUD
+187,,2018-05-03 17:19:12,2018-04-26,ETM,Field Joseph M,COB Emeritus,G - Gift,$0.00,-600000,7010350,-8%,-$0,,,,,AUD
+188,M,2018-05-03 17:19:12,2018-05-01,ETM,Field Joseph M,COB Emeritus,P - Purchase,$9.98,140500,7010350,+2%,"+$1,402,415",,,,,AUD
+189,,2018-04-24 16:31:26,2018-04-22,ETM,Field David J,"COB, Pres, CEO",F - Tax,$10.05,-47791,3030618,-2%,"-$480,300",,,,,AUD
+190,,2018-04-19 17:46:48,2018-04-17,ETM,Field Joseph M,COB Emeritus,P - Purchase,$10.00,16713,7469850,0%,"+$167,130",,,,,AUD
+191,M,2018-04-16 17:48:17,2018-04-12,ETM,Field Joseph M,COB Emeritus,P - Purchase,$9.65,415125,7453137,+6%,"+$4,005,105",,,,,AUD
+192,M,2018-04-11 17:52:34,2018-04-09,ETM,Field Joseph M,COB Emeritus,P - Purchase,$9.70,375000,7038012,+6%,"+$3,635,813",,,,,AUD
+193,M,2018-04-03 17:34:40,2018-04-01,ETM,Philips Robert E,Chief Revenue Officer,F - Tax,$9.58,-228,29933,-1%,"-$2,184",,,,,AUD
+194,M,2018-03-26 17:50:50,2018-03-22,ETM,Field Joseph M,COB Emeritus,P - Purchase,$9.59,640000,6663012,+11%,"+$6,140,410",,,,,AUD
+195,M,2018-03-20 16:48:21,2018-03-19,ETM,Field Joseph M,COB Emeritus,P - Purchase,$9.92,200000,6023012,+3%,"+$1,984,155",,,,,AUD
+196,M,2018-03-16 16:50:36,2018-03-14,ETM,Field Joseph M,COB Emeritus,P - Purchase,$9.98,300000,5823012,+5%,"+$2,994,600",,,,,AUD
+197,M,2018-03-13 18:07:41,2018-03-09,ETM,Field Joseph M,COB Emeritus,P - Purchase,$9.92,500000,5523012,+10%,"+$4,962,110",,,,,AUD
+198,,2018-02-27 18:04:38,2018-02-23,ETM,Philips Robert E,Chief Revenue Officer,F - Tax,$10.00,-1065,30161,-3%,"-$10,650",,,,,AUD
+199,M,2018-02-21 17:57:11,2018-02-18,ETM,Philips Robert E,Chief Revenue Officer,F - Tax,$10.40,-1941,31226,-6%,"-$20,186",,,,,AUD
+200,,2018-02-21 17:56:48,2018-02-19,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$10.40,-410,79006,-1%,"-$4,264",,,,,AUD
+201,,2018-02-21 17:56:17,2018-02-19,ETM,Kramer Louise C,COO,F - Tax,$10.40,-3304,625882,-1%,"-$34,362",,,,,AUD
+202,,2018-02-21 17:55:34,2018-02-19,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$10.40,-835,63092,-1%,"-$8,684",,,,,AUD
+203,,2018-02-21 17:54:20,2018-02-19,ETM,Field Joseph M,COB Emeritus,F - Tax,$10.40,-1133,5023012,0%,"-$11,783",,,,,AUD
+204,,2018-02-21 17:53:07,2018-02-19,ETM,Field David J,"COB, Pres, CEO",F - Tax,$10.40,-5111,3178409,0%,"-$53,154",,,,,AUD
+205,M,2018-02-13 16:53:17,2018-02-10,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",F - Tax,$10.05,-3454,63927,-5%,"-$34,713",,,,,AUD
+206,M,2018-02-13 16:50:16,2018-02-10,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$10.05,-1230,79416,-2%,"-$12,362",,,,,AUD
+207,M,2018-02-13 16:49:53,2018-02-10,ETM,Kramer Louise C,COO,F - Tax,$10.05,-10374,629186,-2%,"-$104,259",,,,,AUD
+208,,2018-02-13 16:48:22,2018-02-10,ETM,Field Joseph M,COB Emeritus,F - Tax,$10.05,-3570,5024145,0%,"-$35,879",,,,,AUD
+209,,2018-02-06 16:51:34,2018-02-03,ETM,Field Joseph M,COB Emeritus,F - Tax,$10.55,-1021,5027715,0%,"-$10,772",,,,,AUD
+210,,2017-12-01 16:43:31,2017-11-30,ETM,Philips Robert E,Chief Revenue Officer,A - Grant,$0.00,31667,33167,>999%,+$0,,,,,AUD
+211,,2017-11-30 17:17:59,2017-11-28,ETM,Schmaeling Richard J,"EVP, CFO",A - Grant,$0.00,50000,50000,New,+$0,,,,,AUD
+212,,2017-11-30 17:17:49,2017-11-28,ETM,Kramer Louise C,COO,A - Grant,$0.00,280594,639560,+78%,+$0,,,,,AUD
+213,,2017-11-30 17:12:25,2017-11-28,ETM,Sutor Andrew P IV,"Exec. Vice Pres, Secretary",A - Grant,$0.00,20000,67381,+42%,+$0,,,,,AUD
+214,,2017-11-30 17:11:52,2017-11-28,ETM,Creamer Sean R,Dir,A - Grant,$0.00,4996,4996,New,+$0,,,,,AUD
+215,,2017-11-30 17:11:25,2017-11-28,ETM,Selig Stefan M,Dir,A - Grant,$0.00,4996,4996,New,+$0,,,,,AUD
+216,D,2017-11-30 17:10:49,2017-11-28,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,5000,80646,+7%,+$0,,,,,AUD
+217,D,2017-11-30 17:10:49,2017-11-29,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",M - OptEx,$11.31,1750,80646,+2%,"+$19,793",,,,,AUD
+218,D,2017-11-30 17:10:49,2017-11-29,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",S - Sale+OE,$12.21,-1750,80646,-2%,"-$21,375",,,,,AUD
+219,M,2017-11-27 17:31:31,2017-11-22,ETM,Field Joseph M,COB Emeritus,P - Purchase,$11.81,168162,5028736,+3%,"+$1,985,665",,,,,AUD
+220,D,2017-11-21 18:23:57,2017-11-17,ETM,Field Joseph M,COB Emeritus,C - Converted deriv,$0.00,2852333,4860574,-37%,$0,,,,,AUD
+221,DM,2017-11-21 18:23:57,2017-11-20,ETM,Field Joseph M,COB Emeritus,P - Purchase,$11.72,180282,4860574,+4%,"+$2,112,957",,,,,AUD
+222,,2017-11-21 17:22:36,2017-11-17,ETM,Field David J,"Pres, CEO",P - Purchase,$11.60,25000,3183520,+1%,"+$290,030",,,,,AUD
+223,M,2017-06-23 16:21:43,2017-06-22,ETM,Field Joseph M,"COB, 10%",P - Purchase,$9.95,1632,1827959,0%,"+$16,238",,,,,AUD
+224,,2017-06-20 16:49:39,2017-06-16,ETM,Field Joseph M,"COB, 10%",P - Purchase,$9.95,4793,1826327,0%,"+$47,690",,,,,AUD
+225,,2017-06-15 17:21:40,2017-06-14,ETM,Field Joseph M,"COB, 10%",P - Purchase,$9.95,1596,1821534,0%,"+$15,880",,,,,AUD
+226,M,2017-05-25 16:47:32,2017-05-23,ETM,Field Joseph M,"COB, 10%",P - Purchase,$10.07,219073,1819938,+14%,"+$2,205,955",,,,,AUD
+227,M,2017-05-22 17:15:22,2017-05-19,ETM,Field Joseph M,"COB, 10%",P - Purchase,$9.84,151545,1600865,+10%,"+$1,490,643",,,,,AUD
+228,M,2017-05-18 16:32:13,2017-05-17,ETM,Field Joseph M,"COB, 10%",P - Purchase,$9.73,135832,1449320,+10%,"+$1,321,951",,,,,AUD
+229,,2017-05-16 17:36:06,2017-05-16,ETM,Kramer Louise C,COO,F - Tax,$10.00,-1714,358966,0%,"-$17,140",,,,,AUD
+230,M,2017-05-16 17:35:41,2017-05-12,ETM,Field Joseph M,"COB, 10%",P - Purchase,$9.87,68616,1313488,+6%,"+$677,046",,,,,AUD
+231,,2017-05-11 17:25:39,2017-05-10,ETM,Hollander Joel,Dir,A - Grant,$0.00,11707,35592,+49%,+$0,-1.0,,,,AUD
+232,,2017-05-11 17:25:17,2017-05-10,ETM,Berkman David J,Dir,A - Grant,$0.00,11707,63768,+22%,+$0,-1.0,,,,AUD
+233,,2017-05-11 17:24:53,2017-05-10,ETM,Levy David,Dir,A - Grant,$0.00,11707,27191,+76%,+$0,-1.0,,,,AUD
+234,,2017-05-11 17:24:24,2017-05-10,ETM,Laneve Mark R,Dir,A - Grant,$0.00,11707,34139,+52%,+$0,-1.0,,,,AUD
+235,,2017-05-11 17:23:58,2017-05-10,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,11707,1244872,+1%,+$0,-1.0,,,,AUD
+236,,2017-02-21 16:51:56,2017-02-19,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$15.50,-1906,47381,-4%,"-$29,543",4.0,3.0,-11.0,,AUD
+237,,2017-02-21 16:51:35,2017-02-19,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$15.50,-823,75646,-1%,"-$12,757",4.0,3.0,-11.0,,AUD
+238,,2017-02-21 16:51:16,2017-02-19,ETM,Kramer Louise C,COO,F - Tax,$15.50,-6170,360680,-2%,"-$95,635",4.0,3.0,-11.0,,AUD
+239,,2017-02-21 16:50:44,2017-02-19,ETM,Fisher Stephen F,"EVP, CFO",F - Tax,$15.50,-9117,498377,-2%,"-$141,314",4.0,3.0,-11.0,,AUD
+240,,2017-02-21 16:50:19,2017-02-19,ETM,Field Joseph M,"COB, 10%",F - Tax,$15.50,-2565,1233165,0%,"-$39,758",4.0,3.0,-11.0,,AUD
+241,,2017-02-21 16:49:53,2017-02-19,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$15.50,-39454,3158520,-1%,"-$611,537",4.0,3.0,-11.0,,AUD
+242,,2017-02-14 17:32:04,2017-02-11,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$15.10,-942,49287,-2%,"-$14,224",1.0,2.0,-4.0,,AUD
+243,,2017-02-14 17:30:21,2017-02-11,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$15.10,-448,76469,-1%,"-$6,765",1.0,2.0,-4.0,,AUD
+244,,2017-02-14 17:04:16,2017-02-11,ETM,Kramer Louise C,COO,F - Tax,$15.10,-3085,366850,-1%,"-$46,584",1.0,2.0,-4.0,,AUD
+245,,2017-02-08 18:03:08,2017-02-08,ETM,Laneve Mark R,Dir,A - Grant,$0.00,3974,22432,+22%,+$0,1.0,5.0,-1.0,,AUD
+246,,2017-02-08 18:02:40,2017-02-08,ETM,Levy David,Dir,A - Grant,$0.00,3974,15484,+35%,+$0,1.0,5.0,-1.0,,AUD
+247,,2017-02-08 17:59:58,2017-02-08,ETM,Hollander Joel,Dir,A - Grant,$0.00,3974,23885,+20%,+$0,1.0,5.0,-1.0,,AUD
+248,,2017-02-08 17:59:36,2017-02-08,ETM,Berkman David J,Dir,A - Grant,$0.00,3974,52061,+8%,+$0,1.0,5.0,-1.0,,AUD
+249,,2017-02-08 17:59:02,2017-02-08,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,11922,1235730,+1%,+$0,1.0,5.0,-1.0,,AUD
+250,,2017-02-08 17:58:38,2017-02-08,ETM,Kramer Louise C,COO,F - Tax,$15.10,-1200,369935,0%,"-$18,120",1.0,5.0,-1.0,,AUD
+251,,2017-02-06 16:40:16,2017-02-04,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$15.85,-672,76917,-1%,"-$10,651",-4.0,-3.0,-5.0,,AUD
+252,,2017-02-06 16:39:52,2017-02-04,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$15.85,-448,50229,-1%,"-$7,101",-4.0,-3.0,-5.0,,AUD
+253,M,2017-02-06 16:39:31,2017-02-03,ETM,Field Joseph M,"COB, 10%",F - Tax,$15.78,-2389,1223808,0%,"-$37,700",-4.0,-3.0,-5.0,,AUD
+254,M,2016-12-19 18:21:46,2016-12-16,ETM,Field David J,"Pres, CEO, 10%",S - Sale,$15.24,-73543,3197974,-2%,"-$1,120,807",3.0,2.0,-9.0,,AUD
+255,M,2016-12-16 16:21:33,2016-12-15,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",S - Sale,$15.31,-6000,50677,-11%,"-$91,889",1.0,2.0,-4.0,,AUD
+256,,2016-12-15 17:12:33,2016-12-15,ETM,Fisher Stephen F,"EVP, CFO",S - Sale,$15.50,-9151,507494,-2%,"-$141,841",1.0,3.0,-5.0,,AUD
+257,M,2016-12-15 17:12:05,2016-12-13,ETM,Field David J,"Pres, CEO, 10%",S - Sale,$15.39,-94288,3271517,-3%,"-$1,450,983",1.0,3.0,-5.0,,AUD
+258,,2016-12-14 16:08:46,2016-12-07,ETM,Kramer Louise C,COO,F - Tax,$15.60,-2101,371135,-1%,"-$32,776",-2.0,3.0,-2.0,,AUD
+259,M,2016-12-12 17:25:22,2016-12-08,ETM,Field David J,"Pres, CEO, 10%",S - Sale,$15.95,-79607,3365805,-2%,"-$1,269,333",-1.0,-2.0,-2.0,,AUD
+260,M,2016-12-07 17:10:55,2016-11-16,ETM,Field David J,"Pres, CEO, 10%",G - Gift,$0.00,-45000,3445412,-1%,-$0,2.0,-3.0,-6.0,,AUD
+261,M,2016-12-07 17:10:55,2016-12-05,ETM,Field David J,"Pres, CEO, 10%",S - Sale,$15.70,-52562,3445412,-2%,"-$824,967",2.0,-3.0,-6.0,,AUD
+262,D,2016-11-21 16:48:18,2016-11-21,ETM,Fisher Stephen F,"EVP, CFO",G - Gift,$0.00,-4952,516645,-1%,-$0,1.0,2.0,5.0,,AUD
+263,D,2016-11-21 16:48:18,2016-11-21,ETM,Fisher Stephen F,"EVP, CFO",M - OptEx,$1.34,10000,516645,+2%,"+$13,400",1.0,2.0,5.0,,AUD
+264,D,2016-11-21 16:48:18,2016-11-21,ETM,Fisher Stephen F,"EVP, CFO",S - Sale+OE,$15.16,-10000,516645,-2%,"-$151,614",1.0,2.0,5.0,,AUD
+265,DM,2016-11-21 16:47:52,2016-11-17,ETM,Kramer Louise C,COO,M - OptEx,$1.34,44613,787143,+6%,"+$59,781",1.0,2.0,5.0,,AUD
+266,DM,2016-11-21 16:47:52,2016-11-17,ETM,Kramer Louise C,COO,S - Sale+OE,$15.34,-44613,787143,-5%,"-$684,342",1.0,2.0,5.0,,AUD
+267,D,2016-11-16 16:43:56,2016-11-15,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",M - OptEx,$1.34,7500,56677,+15%,"+$10,050",-1.0,1.0,-1.0,,AUD
+268,D,2016-11-16 16:43:56,2016-11-15,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",S - Sale+OE,$14.26,-7500,56677,-12%,"-$106,974",-1.0,1.0,-1.0,,AUD
+269,,2016-11-01 16:08:01,2016-11-01,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$13.20,-763,56677,-1%,"-$10,072",-2.0,3.0,19.0,-9.0,AUD
+270,,2016-11-01 16:07:37,2016-11-01,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$13.20,-382,77589,0%,"-$5,042",-2.0,3.0,19.0,-9.0,AUD
+271,D,2016-05-16 16:50:32,2016-05-16,ETM,Fisher Stephen F,"EVP, CFO",M - OptEx,$1.34,20000,521597,+4%,"+$26,800",-4.0,-1.0,13.0,21.0,AUD
+272,D,2016-05-16 16:50:32,2016-05-16,ETM,Fisher Stephen F,"EVP, CFO",S - Sale+OE,$11.99,-20000,521597,-4%,"-$239,848",-4.0,-1.0,13.0,21.0,AUD
+273,,2016-05-16 16:14:17,2016-05-16,ETM,Kramer Louise C,COO,F - Tax,$12.03,-1714,373236,0%,"-$20,619",-4.0,-1.0,13.0,21.0,AUD
+274,,2016-04-26 17:02:17,2016-04-22,ETM,Field David J,"Pres, CEO, 10%",A - Grant,$0.00,675000,3749068,+22%,+$0,0.0,11.0,9.0,26.0,AUD
+275,,2016-03-28 11:57:52,2016-03-27,ETM,Kramer Louise C,COO,F - Tax,$10.32,-857,374950,0%,"-$8,844",1.0,4.0,7.0,27.0,AUD
+276,,2016-03-28 11:57:23,2016-03-27,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$10.32,-191,57440,0%,"-$1,971",1.0,4.0,7.0,27.0,AUD
+277,,2016-03-18 16:28:25,2016-03-17,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",S - Sale,$11.33,-5000,57631,-8%,"-$56,644",-3.0,-7.0,-5.0,21.0,AUD
+278,M,2016-03-14 16:19:05,2016-03-10,ETM,Fisher Stephen F,"EVP, CFO",S - Sale,$11.58,-25000,521597,-5%,"-$289,469",-3.0,-3.0,-7.0,16.0,AUD
+279,,2016-03-09 16:46:25,2016-03-01,ETM,Fisher Stephen F,"EVP, CFO",G - Gift,$0.00,-5066,546597,-1%,-$0,-4.0,-6.0,-12.0,19.0,AUD
+280,M,2016-03-09 16:46:25,2016-03-07,ETM,Fisher Stephen F,"EVP, CFO",S - Sale,$11.82,-25000,546597,-4%,"-$295,387",-4.0,-6.0,-12.0,19.0,AUD
+281,,2016-02-29 16:31:40,2016-02-29,ETM,Fisher Stephen F,"EVP, CFO",F - Tax,$11.45,-13334,576663,-2%,"-$152,674",1.0,2.0,-5.0,25.0,AUD
+282,,2016-02-19 16:38:53,2016-02-19,ETM,Fisher Stephen F,"EVP, CFO",F - Tax,$11.62,-10164,589997,-2%,"-$118,106",-1.0,-1.0,-5.0,21.0,AUD
+283,,2016-02-12 17:33:09,2016-02-10,ETM,Laneve Mark R,Dir,A - Grant,$0.00,6579,18458,+55%,+$0,5.0,10.0,9.0,34.0,AUD
+284,,2016-02-12 17:25:37,2016-02-10,ETM,Levy David,Dir,A - Grant,$0.00,6579,11510,+133%,+$0,5.0,10.0,9.0,34.0,AUD
+285,,2016-02-12 17:24:01,2016-02-10,ETM,Hollander Joel,Dir,A - Grant,$0.00,6579,19911,+49%,+$0,5.0,10.0,9.0,34.0,AUD
+286,,2016-02-12 17:22:53,2016-02-10,ETM,Berkman David J,Dir,A - Grant,$0.00,6579,48087,+16%,+$0,5.0,10.0,9.0,34.0,AUD
+287,,2016-02-12 17:22:21,2016-02-10,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,5000,156837,+3%,+$0,5.0,10.0,9.0,34.0,AUD
+288,,2016-02-12 17:22:21,2016-02-11,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$9.39,-895,156837,-1%,"-$8,404",5.0,10.0,9.0,34.0,AUD
+289,,2016-02-12 17:21:46,2016-02-10,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",A - Grant,$0.00,16000,127112,+14%,+$0,5.0,10.0,9.0,34.0,AUD
+290,,2016-02-12 17:21:46,2016-02-11,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$9.39,-1850,127112,-1%,"-$17,372",5.0,10.0,9.0,34.0,AUD
+291,,2016-02-12 17:21:13,2016-02-10,ETM,Kramer Louise C,COO,A - Grant,$0.00,80000,757784,+12%,+$0,5.0,10.0,9.0,34.0,AUD
+292,,2016-02-12 17:21:13,2016-02-11,ETM,Kramer Louise C,COO,F - Tax,$9.39,-6170,757784,-1%,"-$57,936",5.0,10.0,9.0,34.0,AUD
+293,,2016-02-12 17:20:38,2016-02-10,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,19737,1432291,+1%,+$0,5.0,10.0,9.0,34.0,AUD
+294,,2016-02-12 17:19:55,2016-02-10,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$9.12,-101453,3074068,-3%,"-$925,251",5.0,10.0,9.0,34.0,AUD
+295,,2016-02-12 17:19:55,2015-12-29,ETM,Field David J,"Pres, CEO, 10%",G - Gift,$0.00,-15000,3074068,0%,-$0,5.0,10.0,9.0,34.0,AUD
+296,,2016-02-08 16:32:41,2016-02-08,ETM,Kramer Louise C,COO,F - Tax,$9.34,-1200,301977,0%,"-$11,208",-2.0,15.0,25.0,52.0,AUD
+297,,2016-02-08 16:32:07,2016-02-07,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$9.34,-672,73866,-1%,"-$6,276",-2.0,15.0,25.0,52.0,AUD
+298,,2016-02-08 16:31:40,2016-02-07,ETM,Field Joseph M,"COB, 10%",F - Tax,$9.34,-1080,1412554,0%,"-$10,087",-2.0,15.0,25.0,52.0,AUD
+299,,2016-02-04 16:53:00,2016-02-04,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$10.02,-672,74538,-1%,"-$6,733",-6.0,-5.0,17.0,40.0,AUD
+300,,2016-02-04 16:52:36,2016-02-04,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$10.02,-448,48481,-1%,"-$4,489",-6.0,-5.0,17.0,40.0,AUD
+301,M,2016-02-04 16:51:14,2016-02-03,ETM,Field Joseph M,"COB, 10%",F - Tax,$9.94,-3151,1413634,0%,"-$31,334",-6.0,-5.0,17.0,40.0,AUD
+302,,2015-11-13 16:43:15,2015-11-12,ETM,Fisher Stephen F,"EVP, CFO",G - Gift,$0.00,-5000,600161,-1%,-$0,1.0,1.0,1.0,11.0,AUD
+303,,2015-11-02 17:02:45,2015-11-01,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$11.04,-763,48929,-2%,"-$8,424",2.0,6.0,14.0,14.0,AUD
+304,,2015-11-02 17:00:40,2015-11-01,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$11.04,-382,75210,-1%,"-$4,217",2.0,6.0,14.0,14.0,AUD
+305,,2015-10-30 16:42:47,2015-10-30,ETM,Fisher Stephen F,"EVP, CFO",A - Grant,$0.00,91666,605161,+18%,+$0,-4.0,-2.0,10.0,12.0,AUD
+306,,2015-08-10 17:15:19,2015-08-10,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$10.59,10000,3190521,0%,"+$105,866",-4.0,-5.0,-3.0,-13.0,AUD
+307,,2015-05-19 17:01:15,2015-05-16,ETM,Kramer Louise C,COO,F - Tax,$11.42,-3428,303177,-1%,"-$39,148",2.0,-1.0,3.0,-6.0,AUD
+308,,2015-05-06 16:19:11,2015-05-15,ETM,Levy David,Dir,A - Grant,$0.00,4931,4931,New,+$0,-1.0,-3.0,-4.0,-10.0,AUD
+309,,2015-04-24 16:23:54,2015-04-23,ETM,Kramer Louise C,Station Group Pres,F - Tax,$12.96,-1371,306605,0%,"-$17,768",-2.0,-8.0,-12.0,-15.0,AUD
+310,,2015-04-24 16:23:32,2015-04-23,ETM,Fisher Stephen F,"EVP, CFO",F - Tax,$12.96,-7515,513496,-1%,"-$97,394",-2.0,-8.0,-12.0,-15.0,AUD
+311,,2015-03-30 16:08:03,2015-03-27,ETM,Kramer Louise C,Station Group Pres,F - Tax,$11.49,-857,307976,0%,"-$9,847",1.0,7.0,8.0,-19.0,AUD
+312,,2015-03-30 16:05:25,2015-03-27,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$11.49,-185,49692,0%,"-$2,126",1.0,7.0,8.0,-19.0,AUD
+313,,2015-03-02 17:04:29,2015-02-28,ETM,Fisher Stephen F,"EVP, CFO",F - Tax,$11.38,-10692,521011,-2%,"-$121,675",0.0,-2.0,2.0,-17.0,AUD
+314,,2015-02-20 17:18:34,2015-02-19,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,5000,75592,+7%,+$0,-5.0,-7.0,-4.0,-11.0,AUD
+315,,2015-02-20 17:18:11,2015-02-19,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",A - Grant,$0.00,12500,49877,+33%,+$0,-5.0,-7.0,-4.0,-11.0,AUD
+316,,2015-02-20 17:17:49,2015-02-19,ETM,Fisher Stephen F,"EVP, CFO",A - Grant,$0.00,66666,531703,+14%,+$0,-5.0,-7.0,-4.0,-11.0,AUD
+317,,2015-02-20 17:17:19,2015-02-19,ETM,Kramer Louise C,Station Group Pres,A - Grant,$0.00,60000,308833,+24%,+$0,-5.0,-7.0,-4.0,-11.0,AUD
+318,,2015-02-20 17:16:52,2015-02-19,ETM,Field David J,"Pres, CEO, 10%",A - Grant,$0.00,225000,3180521,+8%,+$0,-5.0,-7.0,-4.0,-11.0,AUD
+319,,2015-02-20 17:16:25,2015-02-19,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,4955,33347,+17%,+$0,-5.0,-7.0,-4.0,-11.0,AUD
+320,,2015-02-20 17:16:03,2015-02-19,ETM,Laneve Mark R,Dir,A - Grant,$0.00,4955,11879,+72%,+$0,-5.0,-7.0,-4.0,-11.0,AUD
+321,,2015-02-20 17:15:35,2015-02-19,ETM,Hollander Joel,Dir,A - Grant,$0.00,4955,13332,+59%,+$0,-5.0,-7.0,-4.0,-11.0,AUD
+322,,2015-02-20 17:15:01,2015-02-19,ETM,Berkman David J,Dir,A - Grant,$0.00,4955,41508,+14%,+$0,-5.0,-7.0,-4.0,-11.0,AUD
+323,,2015-02-20 17:14:30,2015-02-19,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,14865,1416785,+1%,+$0,-5.0,-7.0,-4.0,-11.0,AUD
+324,M,2015-02-11 16:50:24,2015-02-10,ETM,Kramer Louise C,Station Group Pres,F - Tax,$11.62,-4113,247462,-2%,"-$47,793",2.0,4.0,3.0,-12.0,AUD
+325,M,2015-02-11 16:49:55,2015-02-10,ETM,Fisher Stephen F,"EVP, CFO",F - Tax,$11.62,-15246,459955,-3%,"-$177,159",2.0,4.0,3.0,-12.0,AUD
+326,M,2015-02-09 16:19:41,2015-02-07,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$11.97,-1605,70592,-2%,"-$19,212",4.0,6.0,0.0,-9.0,AUD
+327,,2015-02-09 16:18:42,2015-02-08,ETM,Kramer Louise C,Station Group Pres,F - Tax,$11.97,-3747,251575,-1%,"-$44,852",4.0,6.0,0.0,-9.0,AUD
+328,,2015-02-09 16:15:03,2015-02-08,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$11.97,-1121,37377,-3%,"-$13,418",4.0,6.0,0.0,-9.0,AUD
+329,M,2015-02-09 16:14:14,2015-02-07,ETM,Field Joseph M,"COB, 10%",F - Tax,$11.97,-1834,1401920,0%,"-$21,953",4.0,6.0,0.0,-9.0,AUD
+330,,2015-02-04 16:23:45,2015-02-04,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$12.03,-895,38498,-2%,"-$10,767",1.0,2.0,0.0,-11.0,AUD
+331,,2015-02-04 16:23:25,2015-02-04,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$12.03,-1343,72197,-2%,"-$16,156",1.0,2.0,0.0,-11.0,AUD
+332,,2015-02-04 16:22:52,2015-02-04,ETM,Field Joseph M,"COB, 10%",F - Tax,$12.03,-2315,1403754,0%,"-$27,849",1.0,2.0,0.0,-11.0,AUD
+333,,2015-01-15 16:27:35,2015-01-15,ETM,Donlevie John C,"EVP, Asst. Secretary",F - Tax,$12.36,-7644,142291,-5%,"-$94,480",3.0,-3.0,-2.0,-8.0,AUD
+334,,2014-12-23 17:17:20,2014-12-23,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$12.54,-45819,2955521,-2%,"-$574,570",1.0,0.0,-5.0,-6.0,AUD
+335,D,2014-12-16 16:47:47,2014-12-12,ETM,Donlevie John C,"EVP, Asst. Secretary",M - OptEx,$1.34,21300,149935,+17%,"+$28,542",5.0,12.0,11.0,5.0,AUD
+336,D,2014-12-16 16:47:47,2014-12-12,ETM,Donlevie John C,"EVP, Asst. Secretary",S - Sale+OE,$11.06,-21300,149935,-12%,"-$235,599",5.0,12.0,11.0,5.0,AUD
+337,D,2014-12-11 16:47:28,2014-12-10,ETM,Donlevie John C,"EVP, Asst. Secretary",M - OptEx,$1.34,3700,149935,+3%,"+$4,958",1.0,8.0,12.0,6.0,AUD
+338,D,2014-12-11 16:47:28,2014-12-10,ETM,Donlevie John C,"EVP, Asst. Secretary",S - Sale+OE,$11.20,-3700,149935,-2%,"-$41,447",1.0,8.0,12.0,6.0,AUD
+339,,2014-11-03 16:14:17,2014-11-01,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$10.28,-763,73540,-1%,"-$7,844",-4.0,-2.0,6.0,19.0,AUD
+340,,2014-11-03 16:13:23,2014-11-01,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$10.28,-1525,39393,-4%,"-$15,677",-4.0,-2.0,6.0,19.0,AUD
+341,,2014-09-08 16:15:33,2014-09-08,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$9.46,-115,40918,0%,"-$1,088",1.0,1.0,-8.0,25.0,AUD
+342,,2014-05-29 17:14:09,2014-05-29,ETM,Field David J,"Pres, CEO, 10%",G - Gift,$0.00,-25000,3001340,-1%,-$0,0.0,-4.0,1.0,0.0,AUD
+343,,2014-05-19 16:26:28,2014-05-18,ETM,Field Joseph M,"COB, 10%",F - Tax,$10.95,-587,1406069,0%,"-$6,428",-3.0,-3.0,-6.0,-8.0,AUD
+344,M,2014-05-19 16:25:37,2014-05-15,ETM,Fisher Stephen F,"EVP, CFO",S - Sale,$10.89,-15000,475201,-3%,"-$163,388",-3.0,-3.0,-6.0,-8.0,AUD
+345,,2014-03-27 16:16:31,2014-03-27,ETM,Kramer Louise C,Station Group Pres,F - Tax,$10.14,-1714,255322,-1%,"-$17,380",-1.0,6.0,7.0,-11.0,AUD
+346,,2014-03-27 16:15:45,2014-03-27,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$10.14,-370,41033,-1%,"-$3,752",-1.0,6.0,7.0,-11.0,AUD
+347,,2014-03-06 17:41:49,2014-03-06,ETM,Laneve Mark R,Dir,A - Grant,$0.00,6924,6924,New,+$0,1.0,1.0,4.0,-9.0,AUD
+348,,2014-02-28 16:04:08,2014-02-28,ETM,Fisher Stephen F,"EVP, CFO",F - Tax,$9.74,-20327,490201,-4%,"-$197,985",-1.0,2.0,-2.0,-6.0,AUD
+349,,2014-02-18 17:52:03,2014-02-13,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-200000,1406656,-12%,-$0,-4.0,2.0,10.0,-1.0,AUD
+350,,2014-02-11 18:07:31,2014-02-11,ETM,Fisher Stephen F,"EVP, CFO",A - Grant,$0.00,116667,510528,+30%,+$0,-3.0,-6.0,0.0,-3.0,AUD
+351,,2014-02-11 18:07:21,2014-02-11,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,5000,74303,+7%,+$0,-3.0,-6.0,0.0,-3.0,AUD
+352,M,2014-02-11 18:07:21,2014-02-07,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$9.38,-2417,74303,-3%,"-$22,661",-3.0,-6.0,0.0,-3.0,AUD
+353,,2014-02-11 17:34:54,2014-02-11,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",A - Grant,$0.00,12500,41403,+43%,+$0,-3.0,-6.0,0.0,-3.0,AUD
+354,,2014-02-11 17:34:54,2014-02-08,ETM,Sutor Andrew P IV,"Sr. Vice Pres, Secretary",F - Tax,$9.47,-1253,41403,-3%,"-$11,866",-3.0,-6.0,0.0,-3.0,AUD
+355,,2014-02-11 17:33:29,2014-02-11,ETM,Kramer Louise C,Station Group Pres,A - Grant,$0.00,60000,257036,+30%,+$0,-3.0,-6.0,0.0,-3.0,AUD
+356,,2014-02-11 17:33:29,2014-02-08,ETM,Kramer Louise C,Station Group Pres,F - Tax,$9.47,-1636,257036,-1%,"-$15,493",-3.0,-6.0,0.0,-3.0,AUD
+357,M,2014-02-11 17:32:39,2014-02-07,ETM,Field Joseph M,"COB, 10%",F - Tax,$9.35,-3174,1606656,0%,"-$29,669",-3.0,-6.0,0.0,-3.0,AUD
+358,,2014-02-11 17:29:52,2014-02-11,ETM,Field David J,"Pres, CEO, 10%",A - Grant,$0.00,225000,3026340,+8%,+$0,-3.0,-6.0,0.0,-3.0,AUD
+359,,2014-02-11 17:29:52,2014-02-09,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$9.47,-3065,3026340,0%,"-$29,026",-3.0,-6.0,0.0,-3.0,AUD
+360,M,2014-02-11 17:22:35,2014-02-07,ETM,Donlevie John C,"EVP, Asst. Secretary",F - Tax,$9.38,-4027,149935,-3%,"-$37,755",-3.0,-6.0,0.0,-3.0,AUD
+361,,2014-02-05 16:09:02,2014-02-03,ETM,Hollander Joel,Dir,A - Grant,$0.00,3712,8377,+80%,+$0,-1.0,9.0,8.0,3.0,AUD
+362,,2014-02-05 16:08:26,2014-02-03,ETM,Berkman David J,Dir,A - Grant,$0.00,3712,36553,+11%,+$0,-1.0,9.0,8.0,3.0,AUD
+363,,2014-02-05 16:07:36,2014-02-03,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,3712,28392,+15%,+$0,-1.0,9.0,8.0,3.0,AUD
+364,,2014-02-05 16:06:47,2014-02-03,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,11136,1609830,+1%,+$0,-1.0,9.0,8.0,3.0,AUD
+365,,2013-12-23 16:04:33,2013-12-22,ETM,Fisher Stephen F,"EVP, CFO",D - Sale to issuer,$0.00,-50000,393861,-11%,-$0,6.0,5.0,-1.0,2.0,AUD
+366,,2013-12-23 16:04:12,2013-12-22,ETM,Field David J,"Pres, CEO, 10%",D - Sale to issuer,$0.00,-150000,2804405,-5%,-$0,6.0,5.0,-1.0,2.0,AUD
+367,,2013-12-23 16:04:12,2013-12-23,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$9.95,-47362,2804405,-2%,"-$471,252",6.0,5.0,-1.0,2.0,AUD
+368,,2013-12-23 16:03:41,2013-12-23,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-50000,1598694,-3%,-$0,6.0,5.0,-1.0,2.0,AUD
+369,,2013-12-23 16:03:41,2013-12-20,ETM,Field Joseph M,"COB, 10%",S - Sale,$9.88,-9593,1598694,-1%,"-$94,768",6.0,5.0,-1.0,2.0,AUD
+370,M,2013-12-19 16:53:27,2013-12-17,ETM,Field Joseph M,"COB, 10%",S - Sale,$9.91,-26695,1658287,-2%,"-$264,451",1.0,9.0,1.0,6.0,AUD
+371,,2013-12-16 16:39:37,2013-12-16,ETM,Fisher Stephen F,"EVP, CFO",S - Sale,$9.89,-10000,443861,-2%,"-$98,880",0.0,0.0,4.0,3.0,AUD
+372,,2013-12-16 16:38:42,2013-12-12,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-100000,1684982,-6%,-$0,0.0,0.0,4.0,3.0,AUD
+373,M,2013-12-16 16:38:42,2013-12-12,ETM,Field Joseph M,"COB, 10%",S - Sale,$9.79,-16600,1684982,-1%,"-$162,547",0.0,0.0,4.0,3.0,AUD
+374,M,2013-12-09 16:36:40,2013-12-05,ETM,Field Joseph M,"COB, 10%",S - Sale,$9.82,-19008,1801582,-1%,"-$186,626",-3.0,-1.0,12.0,3.0,AUD
+375,M,2013-12-04 17:16:39,2013-12-02,ETM,Field Joseph M,"COB, 10%",S - Sale,$9.77,-28104,1820590,-2%,"-$274,530",1.0,-1.0,13.0,8.0,AUD
+376,,2013-11-22 16:18:01,2013-11-22,ETM,Gold Daniel E,Dir,S - Sale,$9.62,-4000,16605,-19%,"-$38,482",2.0,7.0,3.0,8.0,AUD
+377,M,2013-11-22 16:17:16,2013-11-21,ETM,Field Joseph M,"COB, 10%",S - Sale,$9.52,-3263,1848694,0%,"-$31,070",2.0,7.0,3.0,8.0,AUD
+378,M,2013-11-21 16:36:00,2013-11-19,ETM,Kramer Louise C,Station Group Pres,S - Sale,$9.50,-4000,198672,-2%,"-$37,986",3.0,11.0,5.0,11.0,AUD
+379,M,2013-11-20 16:32:51,2013-11-18,ETM,Fisher Stephen F,"EVP, CFO",S - Sale,$9.40,-10000,453861,-2%,"-$94,031",1.0,10.0,5.0,11.0,AUD
+380,M,2013-11-20 16:32:06,2013-11-18,ETM,Field Joseph M,"COB, 10%",S - Sale,$9.52,-1765,1851957,0%,"-$16,798",1.0,10.0,5.0,11.0,AUD
+381,,2013-11-15 16:09:20,2013-11-12,ETM,Hollander Joel,Dir,A - Grant,$0.00,4665,4665,New,+$0,0.0,1.0,5.0,15.0,AUD
+382,M,2013-11-08 16:53:58,2013-11-06,ETM,Field Joseph M,"COB, 10%",S - Sale,$9.51,-1972,1853722,0%,"-$18,745",-1.0,0.0,4.0,16.0,AUD
+383,M,2013-10-18 16:03:02,2013-10-16,ETM,Field Joseph M,"COB, 10%",S - Sale,$9.07,-2163,1855694,0%,"-$19,615",0.0,0.0,3.0,16.0,AUD
+384,M,2013-10-15 18:25:34,2013-10-11,ETM,Field Joseph M,"COB, 10%",S - Sale,$9.01,-2837,1857857,0%,"-$25,561",0.0,3.0,6.0,15.0,AUD
+385,M,2013-09-25 18:20:51,2013-09-24,ETM,Fisher Stephen F,"EVP, CFO",S - Sale,$9.08,-10000,463861,-2%,"-$90,831",2.0,0.0,4.0,14.0,AUD
+386,M,2013-09-16 17:09:52,2013-09-13,ETM,Fisher Stephen F,"EVP, CFO",S - Sale,$8.44,-10000,473861,-2%,"-$84,434",1.0,7.0,7.0,21.0,AUD
+387,,2013-09-09 16:24:43,2013-09-08,ETM,Sutor Andrew P IV,"Sr. Vice Pres,Asst. Sec.",F - Tax,$8.05,-115,30156,0%,-$926,2.0,1.0,0.0,23.0,AUD
+388,,2013-08-09 16:07:17,2013-08-07,ETM,Gold Daniel E,Dir,S - Sale,$10.07,-3579,20605,-15%,"-$36,034",1.0,-7.0,-11.0,0.0,AUD
+389,,2013-06-21 17:31:50,2013-06-19,ETM,Field David J,"Pres, CEO, 10%",G - Gift,$0.00,-20000,3001767,-1%,-$0,-3.0,3.0,18.0,8.0,AUD
+390,D,2013-06-18 19:18:54,2013-06-17,ETM,Fisher Stephen F,"EVP, CFO",M - OptEx,$1.34,10000,483861,+2%,"+$13,400",-2.0,-11.0,3.0,-3.0,AUD
+391,D,2013-06-18 19:18:54,2013-06-17,ETM,Fisher Stephen F,"EVP, CFO",S - Sale+OE,$9.98,-10000,483861,-2%,"-$99,778",-2.0,-11.0,3.0,-3.0,AUD
+392,M,2013-06-11 16:46:56,2013-06-10,ETM,Kramer Louise C,Station Group Pres,S - Sale,$9.92,-10000,202672,-5%,"-$99,216",-1.0,1.0,-1.0,0.0,AUD
+393,,2013-06-10 16:58:42,2013-06-10,ETM,Fisher Stephen F,"EVP, CFO",S - Sale,$9.93,-10000,483861,-2%,"-$99,253",-1.0,-2.0,-5.0,-3.0,AUD
+394,,2013-06-06 16:53:30,2013-06-05,ETM,Field David J,"Pres, CEO, 10%",G - Gift,$0.00,-15000,3021767,0%,-$0,1.0,0.0,-3.0,-3.0,AUD
+395,,2013-05-20 16:39:38,2013-05-18,ETM,Field Joseph M,"COB, 10%",F - Tax,$9.54,-605,1860694,0%,"-$5,772",-2.0,-4.0,5.0,-3.0,AUD
+396,,2013-05-20 16:38:41,2013-05-17,ETM,Donlevie John C,"EVP, Secretary",S - Sale,$9.50,-4000,153962,-3%,"-$38,010",-2.0,-4.0,5.0,-3.0,AUD
+397,,2013-05-20 16:37:44,2013-05-17,ETM,Sutor Andrew P IV,"Sr. Vice Pres,Asst. Sec.",S - Sale,$9.29,-1502,30271,-5%,"-$13,957",-2.0,-4.0,5.0,-3.0,AUD
+398,D,2013-05-16 16:18:40,2013-05-15,ETM,Fisher Stephen F,"EVP, CFO",F - Tax,$9.35,-10807,493861,-2%,"-$101,045",3.0,1.0,6.0,1.0,AUD
+399,D,2013-05-16 16:18:40,2013-05-14,ETM,Fisher Stephen F,"EVP, CFO",M - OptEx,$1.34,10000,493861,+2%,"+$13,400",3.0,1.0,6.0,1.0,AUD
+400,DM,2013-05-16 16:18:40,2013-05-14,ETM,Fisher Stephen F,"EVP, CFO",S - Sale+OE,$9.24,-20000,493861,-4%,"-$184,872",3.0,1.0,6.0,1.0,AUD
+401,,2013-05-16 16:17:48,2013-05-15,ETM,Sutor Andrew P IV,"Sr. Vice Pres,Asst. Sec.",F - Tax,$9.35,-99,31773,0%,-$926,3.0,1.0,6.0,1.0,AUD
+402,,2013-05-16 16:16:56,2013-05-16,ETM,Kramer Louise C,Radio Group Pres,A - Grant,$0.00,25000,212672,+13%,+$0,3.0,1.0,6.0,1.0,AUD
+403,,2013-05-16 16:16:56,2013-05-15,ETM,Kramer Louise C,Radio Group Pres,F - Tax,$9.35,-3047,212672,-1%,"-$28,489",3.0,1.0,6.0,1.0,AUD
+404,,2013-05-16 16:13:29,2013-05-15,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$9.35,-1019,71720,-1%,"-$9,528",3.0,1.0,6.0,1.0,AUD
+405,,2013-05-16 16:12:33,2013-05-15,ETM,Donlevie John C,"EVP, Secretary",F - Tax,$9.35,-3141,157962,-2%,"-$29,368",3.0,1.0,6.0,1.0,AUD
+406,,2013-05-16 16:11:33,2013-05-15,ETM,Field Joseph M,"COB, 10%",F - Tax,$9.35,-5272,1861299,0%,"-$49,293",3.0,1.0,6.0,1.0,AUD
+407,,2013-05-16 16:10:41,2013-05-15,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$9.35,-20185,3036767,-1%,"-$188,730",3.0,1.0,6.0,1.0,AUD
+408,,2013-02-28 16:05:13,2013-02-28,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$7.68,-20345,514668,-4%,"-$156,250",1.0,8.0,-1.0,11.0,AUD
+409,M,2013-02-11 16:51:33,2013-02-08,ETM,Field Joseph M,"COB, 10%",F - Tax,$7.81,-2311,1866571,0%,"-$18,057",-2.0,-3.0,-3.0,18.0,AUD
+410,M,2013-02-11 16:50:48,2013-02-09,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$8.09,-5906,3056952,0%,"-$47,780",-2.0,-3.0,-3.0,18.0,AUD
+411,,2013-02-08 16:17:32,2013-02-08,ETM,Sutor Andrew P IV,"Sr. Vice Pres,Asst. Sec.",F - Tax,$7.73,-2507,31872,-7%,"-$19,379",-1.0,-4.0,-3.0,22.0,AUD
+412,,2013-02-08 16:16:44,2013-02-08,ETM,Donlevie John C,"EVP, Secretary",F - Tax,$7.73,-3580,161103,-2%,"-$27,673",-1.0,-4.0,-3.0,22.0,AUD
+413,,2013-02-06 16:16:26,2013-02-04,ETM,Wolf Michael J,Dir,A - Grant,$0.00,4311,46513,+10%,+$0,-1.0,0.0,3.0,28.0,AUD
+414,,2013-02-06 16:12:46,2013-02-04,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,4311,24680,+21%,+$0,-1.0,0.0,3.0,28.0,AUD
+415,,2013-02-06 16:11:58,2013-02-04,ETM,Gold Daniel E,Dir,A - Grant,$0.00,4311,24184,+22%,+$0,-1.0,0.0,3.0,28.0,AUD
+416,,2013-02-06 16:11:04,2013-02-04,ETM,Berkman David J,Dir,A - Grant,$0.00,4311,32841,+15%,+$0,-1.0,0.0,3.0,28.0,AUD
+417,,2013-02-06 16:10:14,2013-02-04,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,7500,72739,+11%,+$0,-1.0,0.0,3.0,28.0,AUD
+418,,2013-02-06 16:09:12,2013-02-04,ETM,Sutor Andrew P IV,"Sr. Vice Pres,Asst. Sec.",A - Grant,$0.00,5000,34379,+17%,+$0,-1.0,0.0,3.0,28.0,AUD
+419,,2013-02-06 16:07:51,2013-02-04,ETM,Donlevie John C,"EVP, Secretary",A - Grant,$0.00,12500,164683,+8%,+$0,-1.0,0.0,3.0,28.0,AUD
+420,,2013-02-06 16:06:12,2013-02-04,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,12933,1868882,+1%,+$0,-1.0,0.0,3.0,28.0,AUD
+421,,2012-12-26 16:17:20,2012-12-23,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$7.13,-89100,3062858,-3%,"-$635,283",0.0,8.0,8.0,38.0,AUD
+422,,2012-12-20 16:17:47,2012-12-20,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-160000,1855949,-8%,-$0,0.0,-6.0,2.0,30.0,AUD
+423,,2012-12-19 17:46:46,2012-12-19,ETM,Donlevie John C,"EVP, Secretary",S - Sale,$6.93,-2000,152183,-1%,"-$13,860",3.0,-4.0,4.0,34.0,AUD
+424,,2012-12-17 17:31:40,2012-12-15,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$6.80,-29700,3151958,-1%,"-$201,960",1.0,3.0,4.0,46.0,AUD
+425,,2012-11-02 16:10:28,2012-11-01,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,5000,65239,+8%,+$0,3.0,-1.0,-4.0,30.0,AUD
+426,,2012-07-16 16:36:20,2012-07-15,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$6.32,-7400,535013,-1%,"-$46,768",-1.0,0.0,0.0,15.0,AUD
+427,,2012-05-15 16:07:51,2012-05-15,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$5.11,-1064,60239,-2%,"-$5,437",-1.0,-1.0,1.0,24.0,AUD
+428,,2012-05-15 16:07:29,2012-05-15,ETM,Donlevie John C,"EVP, Secretary",F - Tax,$5.11,-3061,154183,-2%,"-$15,642",-1.0,-1.0,1.0,24.0,AUD
+429,,2012-05-15 16:04:39,2012-05-15,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$5.11,-10492,542413,-2%,"-$53,614",-1.0,-1.0,1.0,24.0,AUD
+430,,2012-02-15 16:04:33,2012-02-15,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$7.81,-5142,552905,-1%,"-$40,159",2.0,-5.0,-16.0,-18.0,AUD
+431,M,2012-02-14 16:14:01,2012-02-09,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$8.26,-8325,3069290,0%,"-$68,737",-5.0,-9.0,-20.0,-19.0,AUD
+432,M,2012-02-14 16:13:13,2012-02-10,ETM,Field Joseph M,"COB, 10%",F - Tax,$8.01,-1014,2128317,0%,"-$8,117",-5.0,-9.0,-20.0,-19.0,AUD
+433,,2012-02-08 16:58:33,2012-02-07,ETM,Wolf Michael J,Dir,A - Grant,$0.00,4258,42202,+11%,+$0,-3.0,-6.0,-23.0,-26.0,AUD
+434,,2012-02-08 16:57:46,2012-02-07,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,4258,20369,+26%,+$0,-3.0,-6.0,-23.0,-26.0,AUD
+435,,2012-02-08 16:56:55,2012-02-07,ETM,Gold Daniel E,Dir,A - Grant,$0.00,4258,19873,+27%,+$0,-3.0,-6.0,-23.0,-26.0,AUD
+436,,2012-02-08 16:56:00,2012-02-07,ETM,Berkman David J,Dir,A - Grant,$0.00,4258,28530,+18%,+$0,-3.0,-6.0,-23.0,-26.0,AUD
+437,,2012-02-08 16:54:45,2012-02-07,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,7500,61303,+14%,+$0,-3.0,-6.0,-23.0,-26.0,AUD
+438,,2012-02-08 16:53:46,2012-02-07,ETM,Donlevie John C,"EVP, Secretary",A - Grant,$0.00,12500,157244,+9%,+$0,-3.0,-6.0,-23.0,-26.0,AUD
+439,,2012-02-08 16:52:56,2012-02-07,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,12774,2129331,+1%,+$0,-3.0,-6.0,-23.0,-26.0,AUD
+440,,2012-01-09 16:16:13,2012-01-08,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$6.97,-296,53803,-1%,"-$2,063",4.0,6.0,16.0,-11.0,AUD
+441,,2012-01-09 16:15:25,2012-01-08,ETM,Donlevie John C,"EVP, Secretary",F - Tax,$6.97,-1057,144744,-1%,"-$7,367",4.0,6.0,16.0,-11.0,AUD
+442,D,2011-12-27 16:03:35,2011-12-23,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,170000,2116557,-7%,$0,-4.0,4.0,25.0,-12.0,AUD
+443,D,2011-12-27 16:03:35,2011-12-23,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-170000,2116557,-7%,-$0,-4.0,4.0,25.0,-12.0,AUD
+444,,2011-11-15 16:21:02,2011-11-15,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$4.97,-6601,558047,-1%,"-$32,807",4.0,-2.0,14.0,-5.0,AUD
+445,,2011-09-14 16:49:32,2011-09-13,ETM,Wolf Michael J,Dir,P - Purchase,$4.97,5000,37944,+15%,"+$24,850",8.0,1.0,14.0,19.0,AUD
+446,M,2011-09-06 17:02:54,2011-09-02,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$5.48,19893,3077615,+1%,"+$109,016",4.0,-3.0,8.0,16.0,AUD
+447,A,2011-09-06 17:00:38,2011-08-26,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$5.35,5107,1491180,0%,"+$27,306",4.0,-3.0,8.0,16.0,AUD
+448,,2011-08-26 16:07:56,2011-08-26,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$5.35,5107,3057722,0%,"+$27,306",12.0,4.0,-11.0,27.0,AUD
+449,,2011-08-15 16:21:47,2011-08-15,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$6.30,-6601,564648,-1%,"-$41,586",-3.0,-13.0,-14.0,32.0,AUD
+450,,2011-05-31 16:24:19,2011-05-31,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$9.40,-6600,571249,-1%,"-$62,040",-10.0,-12.0,-13.0,-48.0,AUD
+451,,2011-05-16 16:15:39,2011-05-15,ETM,Donlevie John C,"EVP, Secretary",F - Tax,$9.17,-6122,145801,-4%,"-$56,139",1.0,2.0,-9.0,-40.0,AUD
+452,,2011-05-16 16:15:31,2011-05-15,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$9.17,-2038,54099,-4%,"-$18,688",1.0,2.0,-9.0,-40.0,AUD
+453,,2011-05-16 16:14:30,2011-05-15,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$9.17,-28073,577849,-5%,"-$257,429",1.0,2.0,-9.0,-40.0,AUD
+454,,2011-05-16 16:08:08,2011-05-15,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$9.17,-52435,3052615,-2%,"-$480,829",1.0,2.0,-9.0,-40.0,AUD
+455,,2011-02-28 16:13:23,2011-02-28,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$13.20,-16924,605922,-3%,"-$223,397",-9.0,-9.0,-20.0,-58.0,AUD
+456,,2011-02-25 16:16:55,2011-02-24,ETM,Fisher Stephen F,"EVP - Operations, CFO",S - Sale,$12.45,-10000,622846,-2%,"-$124,469",-1.0,-9.0,-22.0,-59.0,AUD
+457,,2011-02-23 16:09:30,2011-02-18,ETM,Fisher Stephen F,"EVP - Operations, CFO",S - Sale,$12.34,-15000,632846,-2%,"-$185,055",4.0,-3.0,-18.0,-56.0,AUD
+458,,2011-02-17 16:52:53,2011-02-16,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$11.97,-13189,647846,-2%,"-$157,872",2.0,5.0,-18.0,-49.0,AUD
+459,,2011-02-17 16:51:22,2011-02-16,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$11.97,-28232,3105050,-1%,"-$337,937",2.0,5.0,-18.0,-49.0,AUD
+460,,2011-02-14 16:02:15,2011-02-12,ETM,Field Joseph M,"COB, 10%",F - Tax,$12.50,-507,2116557,0%,"-$6,338",-4.0,0.0,-16.0,-49.0,AUD
+461,,2011-02-10 17:35:11,2011-02-08,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,12000,56137,+27%,+$0,0.0,-3.0,-16.0,-57.0,AUD
+462,,2011-02-10 17:35:11,2011-02-09,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$10.64,-296,56137,-1%,"-$3,149",0.0,-3.0,-16.0,-57.0,AUD
+463,,2011-02-10 17:34:28,2011-02-08,ETM,Fisher Stephen F,"EVP - Operations, CFO",A - Grant,$0.00,44557,661035,+7%,+$0,0.0,-3.0,-16.0,-57.0,AUD
+464,,2011-02-10 17:34:28,2011-02-10,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$10.64,-5322,661035,-1%,"-$56,626",0.0,-3.0,-16.0,-57.0,AUD
+465,,2011-02-10 17:33:42,2011-02-08,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,9906,2117064,0%,+$0,0.0,-3.0,-16.0,-57.0,AUD
+466,,2011-02-10 17:33:42,2011-02-10,ETM,Field Joseph M,"COB, 10%",F - Tax,$10.64,-1014,2117064,0%,"-$10,789",0.0,-3.0,-16.0,-57.0,AUD
+467,,2011-02-10 17:32:31,2011-02-08,ETM,Field David J,"Pres, CEO, 10%",A - Grant,$0.00,71292,3133282,+2%,+$0,0.0,-3.0,-16.0,-57.0,AUD
+468,,2011-02-10 17:32:31,2011-02-10,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$10.64,-22342,3133282,-1%,"-$237,719",0.0,-3.0,-16.0,-57.0,AUD
+469,,2011-02-10 17:31:41,2011-02-08,ETM,Donlevie John C,"EVP, Secretary",A - Grant,$0.00,20000,151923,+15%,+$0,0.0,-3.0,-16.0,-57.0,AUD
+470,,2011-02-10 17:31:41,2011-02-10,ETM,Donlevie John C,"EVP, Secretary",F - Tax,$10.64,-3072,151923,-2%,"-$32,686",0.0,-3.0,-16.0,-57.0,AUD
+471,,2011-02-10 17:30:13,2011-02-08,ETM,Wolf Michael J,Dir,A - Grant,$0.00,3302,32944,+11%,+$0,0.0,-3.0,-16.0,-57.0,AUD
+472,,2011-02-10 17:28:57,2011-02-08,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,3302,16111,+26%,+$0,0.0,-3.0,-16.0,-57.0,AUD
+473,,2011-02-10 17:27:41,2011-02-08,ETM,Gold Daniel E,Dir,A - Grant,$0.00,3302,15615,+27%,+$0,0.0,-3.0,-16.0,-57.0,AUD
+474,,2011-02-10 17:26:08,2011-02-08,ETM,Berkman David J,Dir,A - Grant,$0.00,3302,24272,+16%,+$0,0.0,-3.0,-16.0,-57.0,AUD
+475,,2011-01-31 17:57:12,2011-01-29,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$9.87,-4811,3084332,0%,"-$47,485",10.0,6.0,21.0,-19.0,AUD
+476,,2011-01-10 17:32:50,2011-01-08,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",F - Tax,$11.08,-296,44433,-1%,"-$3,280",-6.0,-6.0,0.0,-22.0,AUD
+477,,2011-01-10 17:31:10,2011-01-08,ETM,Donlevie John C,"EVP, Secretary",F - Tax,$11.08,-1057,134995,-1%,"-$11,712",-6.0,-6.0,0.0,-22.0,AUD
+478,,2011-01-10 17:27:21,2011-01-08,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$11.08,-3169,3089143,0%,"-$35,113",-6.0,-6.0,0.0,-22.0,AUD
+479,,2010-12-28 16:16:53,2010-12-23,ETM,Fisher Stephen F,"EVP - Operations, CFO",A - Grant,$0.00,275000,621800,+79%,+$0,-1.0,2.0,-11.0,-31.0,AUD
+480,,2010-12-28 16:01:59,2010-12-23,ETM,Field David J,"Pres, CEO, 10%",A - Grant,$0.00,675000,3092312,+28%,+$0,-1.0,2.0,-11.0,-31.0,AUD
+481,D,2010-12-22 16:26:21,2010-12-22,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,90000,2108172,-4%,$0,1.0,1.0,-11.0,-30.0,AUD
+482,D,2010-12-22 16:26:21,2010-12-22,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-90000,2108172,-4%,-$0,1.0,1.0,-11.0,-30.0,AUD
+483,M,2010-09-01 17:05:18,2010-08-31,ETM,Field Joseph M,"COB, 10%",P - Purchase,$5.70,134600,2108172,+7%,"+$767,534",13.0,20.0,35.0,107.0,AUD
+484,M,2010-08-30 16:39:15,2010-08-26,ETM,Field Joseph M,"COB, 10%",P - Purchase,$5.29,93900,1973572,+5%,"+$496,866",3.0,37.0,50.0,146.0,AUD
+485,,2010-07-02 09:49:04,2010-06-30,ETM,Field David J,"Pres, CEO, 10%",D - Sale to issuer,$0.00,-56250,2417312,-2%,-$0,-2.0,3.0,-1.0,31.0,AUD
+486,,2010-07-02 09:49:04,2010-06-30,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$9.35,-22275,2417312,-1%,"-$208,271",-2.0,3.0,-1.0,31.0,AUD
+487,,2010-07-02 09:49:04,2010-03-04,ETM,Field David J,"Pres, CEO, 10%",G - Gift,$0.00,-10000,2417312,0%,-$0,-2.0,3.0,-1.0,31.0,AUD
+488,,2010-05-20 11:43:37,2010-05-18,ETM,Wolf Michael J,Dir,A - Grant,$0.00,2642,29642,+10%,+$0,-7.0,-9.0,-19.0,-42.0,AUD
+489,,2010-05-20 11:36:43,2010-05-18,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,2642,12809,+26%,+$0,-7.0,-9.0,-19.0,-42.0,AUD
+490,,2010-05-20 11:35:47,2010-05-18,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,7926,1879672,0%,+$0,-7.0,-9.0,-19.0,-42.0,AUD
+491,,2010-05-20 11:18:54,2010-05-18,ETM,Berkman David J,Dir,A - Grant,$0.00,2642,20970,+14%,+$0,-7.0,-9.0,-19.0,-42.0,AUD
+492,,2010-05-20 10:37:35,2010-05-18,ETM,Gold Daniel E,Dir,A - Grant,$0.00,2642,12313,+27%,+$0,-7.0,-9.0,-19.0,-42.0,AUD
+493,,2010-05-14 09:24:03,2010-05-12,ETM,Fisher Stephen F,"EVP - Operations, CFO",S - Sale,$13.30,-10000,346800,-3%,"-$133,000",0.0,-9.0,-24.0,-40.0,AUD
+494,DM,2010-03-19 16:43:28,2010-03-17,ETM,Fisher Stephen F,"EVP - Operations, CFO",M - OptEx,$1.34,20000,356800,+6%,"+$26,800",-5.0,-6.0,24.0,-44.0,AUD
+495,DM,2010-03-19 16:43:28,2010-03-17,ETM,Fisher Stephen F,"EVP - Operations, CFO",S - Sale+OE,$11.02,-20000,356800,-5%,"-$220,321",-5.0,-6.0,24.0,-44.0,AUD
+496,,2010-03-02 16:37:50,2010-02-28,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$10.17,-12827,365800,-3%,"-$130,451",-1.0,-2.0,1.0,-57.0,AUD
+497,,2010-03-02 16:37:06,2010-03-01,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$10.17,-8910,3454042,0%,"-$90,615",-1.0,-2.0,1.0,-57.0,AUD
+498,,2010-03-02 16:37:06,2010-02-26,ETM,Field David J,"Pres, CEO, 10%",G - Gift,$0.00,-15000,3454042,0%,-$0,-1.0,-2.0,1.0,-57.0,AUD
+499,,2010-02-12 17:24:56,2010-02-10,ETM,Donlevie John C,"EVP, Secretary",F - Tax,$8.29,-2960,136052,-2%,"-$24,538",8.0,3.0,30.0,-18.0,AUD
+500,,2010-02-12 17:24:04,2010-02-12,ETM,Field Joseph M,"COB, 10%",F - Tax,$8.63,-1074,1871746,0%,"-$9,269",8.0,3.0,30.0,-18.0,AUD
+501,,2010-02-12 17:23:09,2010-02-10,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$8.29,-5180,369627,-1%,"-$42,942",8.0,3.0,30.0,-18.0,AUD
+502,,2010-02-12 17:22:26,2010-02-10,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$8.29,-18940,2529747,-1%,"-$157,013",8.0,3.0,30.0,-18.0,AUD
+503,,2010-02-09 17:53:52,2010-02-09,ETM,Field David J,"Pres, CEO, 10%",A - Grant,$0.00,37500,2548687,+1%,+$0,-2.0,9.0,39.0,-2.0,AUD
+504,,2010-01-29 16:52:17,2010-01-29,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$8.33,-4811,2511187,0%,"-$40,076",0.0,3.0,35.0,2.0,AUD
+505,,2010-01-11 16:27:12,2010-01-08,ETM,Donlevie John C,"EVP, Secretary",F - Tax,$7.66,-2238,139012,-2%,"-$17,143",-3.0,5.0,7.0,17.0,AUD
+506,,2010-01-11 16:26:21,2010-01-08,ETM,Field David J,"Pres, CEO, 10%",F - Tax,$7.66,-6415,2515998,0%,"-$49,139",-3.0,5.0,7.0,17.0,AUD
+507,,2010-01-11 16:26:21,2009-10-06,ETM,Field David J,"Pres, CEO, 10%",G - Gift,$0.00,-20000,2515998,-1%,-$0,-3.0,5.0,7.0,17.0,AUD
+508,D,2009-12-22 17:04:51,2009-12-21,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,150000,1872820,-7%,$0,-4.0,-10.0,4.0,27.0,AUD
+509,D,2009-12-22 17:04:51,2009-12-21,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-150000,1872820,-7%,-$0,-4.0,-10.0,4.0,27.0,AUD
+510,D,2009-05-15 11:08:03,2009-05-15,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,1111,10167,+12%,+$0,-18.0,-12.0,-16.0,211.0,AUD
+511,D,2009-05-15 11:07:14,2009-05-15,ETM,Gold Daniel E,Dir,A - Grant,$0.00,1111,9671,+13%,+$0,-18.0,-12.0,-16.0,211.0,AUD
+512,D,2009-05-15 11:06:22,2009-05-15,ETM,Berkman David J,Dir,A - Grant,$0.00,4198,18328,+30%,+$0,-18.0,-12.0,-16.0,211.0,AUD
+513,D,2009-05-15 11:05:03,2009-05-15,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,13766,44729,+44%,+$0,-18.0,-12.0,-16.0,211.0,AUD
+514,D,2009-05-15 11:03:22,2009-05-15,ETM,Donlevie John C,"EVP, Secretary",A - Grant,$0.00,41359,141250,+41%,+$0,-18.0,-12.0,-16.0,211.0,AUD
+515,D,2009-05-15 11:02:21,2009-05-15,ETM,Fisher Stephen F,"EVP - Operations, CFO",A - Grant,$0.00,141777,374807,+61%,+$0,-18.0,-12.0,-16.0,211.0,AUD
+516,D,2009-05-15 11:01:31,2009-05-15,ETM,Field David J,"Pres, CEO, 10%",A - Grant,$0.00,264815,2542413,+12%,+$0,-18.0,-12.0,-16.0,211.0,AUD
+517,D,2009-05-15 11:00:41,2009-05-15,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,69135,1872820,+4%,+$0,-18.0,-12.0,-16.0,211.0,AUD
+518,,2009-04-08 17:21:22,2009-04-06,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.20,1100,1803685,0%,"+$1,318",8.0,10.0,143.0,471.0,AUD
+519,M,2009-04-03 16:35:31,2009-04-01,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.18,19600,1802585,+1%,"+$23,097",2.0,12.0,69.0,316.0,AUD
+520,M,2009-03-30 16:32:17,2009-03-26,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.20,41900,1782985,+2%,"+$50,260",-7.0,4.0,15.0,314.0,AUD
+521,M,2009-03-25 16:53:50,2009-03-23,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.14,115000,1741085,+7%,"+$130,645",13.0,-5.0,18.0,331.0,AUD
+522,M,2009-03-20 17:08:44,2009-03-18,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.04,103800,1626085,+7%,"+$107,786",10.0,31.0,36.0,438.0,AUD
+523,M,2009-03-17 17:24:24,2009-03-13,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.03,97600,1522285,+7%,"+$100,568",5.0,9.0,42.0,392.0,AUD
+524,M,2009-03-12 17:55:12,2009-03-10,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.00,85200,1424685,+6%,"+$85,478",0.0,5.0,40.0,373.0,AUD
+525,M,2009-03-09 17:38:26,2009-03-05,ETM,Field Joseph M,"COB, 10%",P - Purchase,$0.96,85200,1339485,+7%,"+$81,573",9.0,9.0,35.0,384.0,AUD
+526,M,2009-03-04 16:42:37,2009-03-02,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.02,76552,1254285,+6%,"+$78,170",-10.0,1.0,27.0,406.0,AUD
+527,M,2009-03-04 16:41:47,2009-03-02,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.00,8648,2277598,0%,"+$8,629",-10.0,1.0,27.0,406.0,AUD
+528,,2009-03-02 17:10:50,2009-02-28,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$1.03,-12819,213651,-6%,"-$13,204",2.0,-1.0,23.0,389.0,AUD
+529,M,2009-02-27 17:08:28,2009-02-25,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.14,53286,1177733,+5%,"+$60,539",-9.0,-13.0,21.0,358.0,AUD
+530,M,2009-02-27 17:07:36,2009-02-25,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.14,21314,2268950,+1%,"+$24,215",-9.0,-13.0,21.0,358.0,AUD
+531,M,2009-02-24 17:49:15,2009-02-20,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.13,23401,2247636,+1%,"+$26,493",-9.0,-34.0,-12.0,308.0,AUD
+532,M,2009-02-24 17:48:20,2009-02-20,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.13,58499,1124447,+5%,"+$66,228",-9.0,-34.0,-12.0,308.0,AUD
+533,M,2009-02-19 17:15:32,2009-02-17,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.19,56857,1065948,+6%,"+$67,644",-1.0,5.0,-10.0,272.0,AUD
+534,M,2009-02-19 17:14:50,2009-02-17,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.19,22743,2224235,+1%,"+$27,058",-1.0,5.0,-10.0,272.0,AUD
+535,D,2009-02-12 16:50:20,2009-02-10,ETM,Gold Daniel E,Dir,A - Grant,$0.00,2000,8560,+30%,+$0,0.0,-13.0,-22.0,228.0,AUD
+536,D,2009-02-12 16:48:30,2009-02-10,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,2000,9056,+28%,+$0,0.0,-13.0,-22.0,228.0,AUD
+537,D,2009-02-12 16:46:55,2009-02-10,ETM,Wolf Michael J,Dir,A - Grant,$0.00,2000,27000,+8%,+$0,0.0,-13.0,-22.0,228.0,AUD
+538,D,2009-02-12 16:45:48,2009-02-10,ETM,Berkman David J,Dir,A - Grant,$0.00,2000,14130,+16%,+$0,0.0,-13.0,-22.0,228.0,AUD
+539,D,2009-02-12 16:41:09,2009-02-10,ETM,Fisher Stephen F,"EVP - Operations, CFO",A - Grant,$0.00,35000,226470,+18%,+$0,0.0,-13.0,-22.0,228.0,AUD
+540,D,2009-02-12 16:40:15,2009-02-10,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,6000,1009091,+1%,+$0,0.0,-13.0,-22.0,228.0,AUD
+541,D,2009-02-12 16:38:43,2009-02-10,ETM,Field David J,"Pres, CEO, 10%",A - Grant,$0.00,37500,2201492,+2%,+$0,0.0,-13.0,-22.0,228.0,AUD
+542,,2009-02-04 17:08:50,2009-02-02,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.18,675,1003091,0%,+$797,6.0,-2.0,-36.0,159.0,AUD
+543,,2009-02-04 17:06:42,2009-02-02,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.18,270,2163992,0%,+$319,6.0,-2.0,-36.0,159.0,AUD
+544,M,2009-01-30 16:58:57,2009-01-29,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.19,7504,1002416,+1%,"+$8,899",9.0,24.0,-19.0,112.0,AUD
+545,M,2009-01-30 16:57:53,2009-01-29,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.19,3002,2163722,0%,"+$3,560",9.0,24.0,-19.0,112.0,AUD
+546,M,2009-01-28 17:44:12,2009-01-16,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-520000,994912,-34%,-$0,-4.0,8.0,-13.0,86.0,AUD
+547,M,2009-01-28 17:44:12,2009-01-26,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.16,16300,994912,+2%,"+$18,861",-4.0,8.0,-13.0,86.0,AUD
+548,M,2009-01-28 17:42:59,2009-01-26,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.16,6520,2160720,0%,"+$7,545",-4.0,8.0,-13.0,86.0,AUD
+549,M,2009-01-23 17:06:15,2009-01-21,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.18,10975,1498612,+1%,"+$12,926",-3.0,5.0,-6.0,65.0,AUD
+550,M,2009-01-23 17:05:02,2009-01-21,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.18,4390,2154200,0%,"+$5,171",-3.0,5.0,-6.0,65.0,AUD
+551,,2009-01-05 17:08:30,2008-12-31,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.18,160,2149810,0%,+$189,10.0,11.0,-2.0,7.0,AUD
+552,,2009-01-05 17:07:23,2008-12-31,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.18,400,1487637,0%,+$473,10.0,11.0,-2.0,7.0,AUD
+553,M,2008-12-23 17:57:46,2008-12-22,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.09,7040,2149650,0%,"+$7,672",12.0,8.0,-7.0,20.0,AUD
+554,M,2008-12-23 17:56:40,2008-12-22,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.09,17600,1487237,+1%,"+$19,180",12.0,8.0,-7.0,20.0,AUD
+555,,2008-12-18 12:03:31,2008-12-18,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$0.97,-13854,191470,-7%,"-$13,438",3.0,39.0,23.0,77.0,AUD
+556,,2008-12-09 17:17:12,2008-12-05,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.00,3850,2142610,0%,"+$3,849",-4.0,-36.0,11.0,51.0,AUD
+557,,2008-12-09 17:15:38,2008-12-05,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.00,9625,1469637,+1%,"+$9,623",-4.0,-36.0,11.0,51.0,AUD
+558,,2008-12-05 15:00:19,2008-12-03,ETM,Wolf Michael J,Dir,P - Purchase,$1.10,10000,25000,+67%,"+$10,986",0.0,2.0,39.0,85.0,AUD
+559,M,2008-12-05 14:58:55,2008-12-03,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.06,7790,2138760,0%,"+$8,271",0.0,2.0,39.0,85.0,AUD
+560,M,2008-12-05 14:57:35,2008-12-03,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.06,19475,1460012,+1%,"+$20,678",0.0,2.0,39.0,85.0,AUD
+561,M,2008-12-03 15:47:59,2008-12-01,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.00,9790,2130970,0%,"+$9,762",1.0,30.0,23.0,76.0,AUD
+562,M,2008-12-03 15:46:31,2008-12-01,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.00,24475,1440537,+2%,"+$24,405",1.0,30.0,23.0,76.0,AUD
+563,M,2008-12-01 17:28:02,2008-11-26,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$1.01,3650,2121180,0%,"+$3,692",12.0,11.0,30.0,78.0,AUD
+564,M,2008-12-01 17:26:11,2008-11-26,ETM,Field Joseph M,"COB, 10%",P - Purchase,$1.01,9125,1416062,+1%,"+$9,231",12.0,11.0,30.0,78.0,AUD
+565,M,2008-11-25 17:11:18,2008-11-24,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$0.78,12190,2117530,+1%,"+$9,560",-1.0,12.0,40.0,96.0,AUD
+566,M,2008-11-25 17:10:02,2008-11-24,ETM,Field Joseph M,"COB, 10%",P - Purchase,$0.78,30475,1406937,+2%,"+$23,901",-1.0,12.0,40.0,96.0,AUD
+567,M,2008-11-24 18:21:00,2008-11-20,ETM,Field Joseph M,"COB, 10%",P - Purchase,$0.79,31475,1376462,+2%,"+$24,811",-3.0,-1.0,30.0,111.0,AUD
+568,M,2008-11-24 18:19:37,2008-11-20,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$0.79,12590,2105340,+1%,"+$9,924",-3.0,-1.0,30.0,111.0,AUD
+569,M,2008-11-20 12:26:21,2008-11-18,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$0.77,20690,2092750,+1%,"+$15,899",0.0,27.0,36.0,148.0,AUD
+570,M,2008-11-20 12:24:50,2008-11-18,ETM,Field Joseph M,"COB, 10%",P - Purchase,$0.77,51725,1344987,+4%,"+$39,747",0.0,27.0,36.0,148.0,AUD
+571,M,2008-11-18 10:40:18,2008-11-14,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$0.78,10890,2072060,+1%,"+$8,487",5.0,26.0,26.0,164.0,AUD
+572,M,2008-11-18 10:38:50,2008-11-14,ETM,Field Joseph M,"COB, 10%",P - Purchase,$0.78,27226,1293262,+2%,"+$21,217",5.0,26.0,26.0,164.0,AUD
+573,,2008-11-14 10:57:20,2008-11-13,ETM,Wolf Michael J,Dir,P - Purchase,$0.78,10000,15000,+200%,"+$7,771",-4.0,3.0,30.0,163.0,AUD
+574,M,2008-11-13 17:41:34,2008-11-12,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$0.74,8351,2061170,0%,"+$6,160",-8.0,-1.0,43.0,152.0,AUD
+575,M,2008-11-13 17:39:55,2008-11-12,ETM,Field Joseph M,"COB, 10%",P - Purchase,$0.74,20875,1266036,+2%,"+$15,397",-8.0,-1.0,43.0,152.0,AUD
+576,M,2008-11-12 11:11:44,2008-11-10,ETM,Field Joseph M,"COB, 10%",P - Purchase,$0.68,35226,1245161,+3%,"+$23,797",2.0,23.0,67.0,226.0,AUD
+577,M,2008-11-12 11:09:51,2008-11-10,ETM,Field David J,"Pres, CEO, 10%",P - Purchase,$0.68,14089,2052819,+1%,"+$9,518",2.0,23.0,67.0,226.0,AUD
+578,,2008-08-15 17:10:12,2008-08-08,ETM,Fisher Stephen F,"EVP - Operations, CFO",S - Sale,$6.71,-50000,230024,-18%,"-$335,375",-4.0,-12.0,-21.0,-80.0,AUD
+579,,2008-08-11 17:27:41,2008-08-08,ETM,Fisher Stephen F,"EVP - Operations, CFO",S - Sale,$6.71,-50000,230024,-18%,"-$335,375",-7.0,-8.0,-23.0,-87.0,AUD
+580,,2008-07-11 16:10:40,2008-07-10,ETM,Field Joseph M,"COB, 10%",P - Purchase,$5.52,51350,1209935,+4%,"+$283,363",-3.0,6.0,31.0,-71.0,AUD
+581,,2008-07-10 16:09:25,2008-07-09,ETM,Field Joseph M,"COB, 10%",P - Purchase,$6.73,75000,1158585,+7%,"+$504,750",4.0,-3.0,20.0,-50.0,AUD
+582,,2008-07-09 16:07:45,2008-07-08,ETM,Field Joseph M,"COB, 10%",P - Purchase,$6.53,75000,1083585,+7%,"+$489,750",-25.0,-27.0,3.0,-78.0,AUD
+583,,2008-07-08 16:38:11,2008-07-07,ETM,Field Joseph M,"COB, 10%",P - Purchase,$6.21,75000,1008585,+8%,"+$465,750",1.0,-27.0,2.0,-86.0,AUD
+584,,2008-07-07 16:12:03,2008-07-03,ETM,Field Joseph M,"COB, 10%",P - Purchase,$6.47,60000,933585,+7%,"+$388,200",9.0,-15.0,4.0,-74.0,AUD
+585,,2008-07-03 14:55:33,2008-07-02,ETM,Field Joseph M,"COB, 10%",P - Purchase,$6.59,75000,873585,+9%,"+$494,250",1.0,-21.0,-2.0,-80.0,AUD
+586,,2008-07-02 16:23:37,2008-07-01,ETM,Field Joseph M,"COB, 10%",P - Purchase,$6.76,75000,798585,+10%,"+$507,000",1.0,5.0,-4.0,-76.0,AUD
+587,,2008-06-25 16:14:22,2008-06-25,ETM,Field Joseph M,"COB, 10%",P - Purchase,$7.88,3400,723585,0%,"+$26,793",-4.0,-12.0,-21.0,-91.0,AUD
+588,,2008-06-25 16:12:48,2008-06-24,ETM,Field Joseph M,"COB, 10%",P - Purchase,$7.16,111000,720185,+18%,"+$794,667",-4.0,-12.0,-21.0,-91.0,AUD
+589,,2008-06-24 16:23:05,2008-06-23,ETM,Field Joseph M,"COB, 10%",P - Purchase,$7.41,101800,609185,+20%,"+$754,007",7.0,0.0,-6.0,-81.0,AUD
+590,,2008-06-24 16:20:52,2008-06-20,ETM,Field Joseph M,"COB, 10%",P - Purchase,$7.51,33800,507385,+7%,"+$253,974",7.0,0.0,-6.0,-81.0,AUD
+591,,2008-04-28 16:20:16,2008-04-25,ETM,Wolf Michael J,Dir,P - Purchase,$10.01,1000,5000,+25%,"+$10,014",3.0,2.0,4.0,-94.0,AUD
+592,D,2008-03-11 17:22:36,2008-03-07,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,6000,473585,+1%,+$0,-1.0,-7.0,-11.0,-45.0,AUD
+593,,2008-03-06 17:59:10,2008-02-29,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$11.80,-9895,278258,-3%,"-$116,761",-1.0,1.0,-3.0,-35.0,AUD
+594,,2008-02-25 16:03:10,2008-02-22,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$12.43,-24210,288153,-8%,"-$300,930",4.0,-9.0,-10.0,-50.0,AUD
+595,,2008-02-15 17:34:23,2008-02-15,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$12.31,-3567,312363,-1%,"-$43,910",-3.0,-4.0,-21.0,-44.0,AUD
+596,D,2008-02-14 17:00:11,2008-02-12,ETM,Wolf Michael J,Dir,A - Grant,$0.00,4000,4000,New,+$0,2.0,1.0,-14.0,-43.0,AUD
+597,D,2008-02-14 16:59:31,2008-02-12,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,2000,7056,+40%,+$0,2.0,1.0,-14.0,-43.0,AUD
+598,D,2008-02-14 16:58:53,2008-02-12,ETM,West Edward H,Dir,A - Grant,$0.00,2000,7802,+34%,+$0,2.0,1.0,-14.0,-43.0,AUD
+599,D,2008-02-14 16:58:25,2008-02-12,ETM,Gold Daniel E,Dir,A - Grant,$0.00,2000,6560,+44%,+$0,2.0,1.0,-14.0,-43.0,AUD
+600,D,2008-02-14 16:57:32,2008-02-12,ETM,Berkman David J,Dir,A - Grant,$0.00,2000,12130,+20%,+$0,2.0,1.0,-14.0,-43.0,AUD
+601,,2008-02-11 12:33:44,2008-02-10,ETM,Fisher Stephen F,"EVP - Operations, CFO",F - Tax,$11.69,-1184,315930,0%,"-$13,841",-3.0,8.0,-8.0,-39.0,AUD
+602,D,2008-01-09 17:39:32,2008-01-08,ETM,Levin Eugene D,"Princ. Acctg Officer, VP,Treas",A - Grant,$0.00,3500,23309,+18%,+$0,4.0,-3.0,7.0,-35.0,AUD
+603,D,2008-01-09 17:39:12,2008-01-08,ETM,Donlevie John C,"EVP, Secretary",A - Grant,$0.00,12500,86407,+17%,+$0,4.0,-3.0,7.0,-35.0,AUD
+604,,2008-01-09 17:38:46,2008-01-08,ETM,Field David J,"Pres, CEO",A - Grant,$0.00,37500,2038730,+2%,+$0,4.0,-3.0,7.0,-35.0,AUD
+605,D,2007-12-27 16:04:59,2007-12-24,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,439273,467585,-48%,$0,-3.0,-11.0,-14.0,-46.0,AUD
+606,D,2007-12-27 16:04:59,2007-12-24,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-450000,467585,-49%,-$0,-3.0,-11.0,-14.0,-46.0,AUD
+607,D,2007-12-21 16:27:31,2007-12-19,ETM,Fisher Stephen F,"EVP - Operations, CFO",A - Grant,$0.00,130000,317114,+69%,+$0,0.0,-9.0,-25.0,-49.0,AUD
+608,,2007-11-28 16:20:58,2007-11-27,ETM,Donlevie John C,"EVP, Secretary",S - Sale,$16.48,-133,73907,0%,"-$2,192",-2.0,-3.0,-16.0,-40.0,AUD
+609,D,2007-08-03 16:37:49,2007-08-02,ETM,Field David J,"Pres, CEO",A - Grant,$0.00,112500,2001230,+6%,+$0,5.0,18.0,5.0,-34.0,AUD
+610,,2007-05-03 16:46:29,2007-05-03,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,1242,5056,+33%,+$0,0.0,-4.0,-5.0,-32.0,AUD
+611,,2007-05-03 16:45:29,2007-05-03,ETM,West Edward H,Dir,A - Grant,$0.00,1242,5802,+27%,+$0,0.0,-4.0,-5.0,-32.0,AUD
+612,,2007-03-22 16:49:22,2007-03-21,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-20000,478312,-4%,-$0,0.0,-2.0,3.0,-26.0,AUD
+613,,2007-03-22 16:48:37,2007-03-21,ETM,Field David J,"Pres, CEO",G - Gift,$0.00,30000,1888730,-2%,+$0,0.0,-2.0,3.0,-26.0,AUD
+614,,2007-02-27 18:07:22,2007-02-25,ETM,Fisher Stephen F,"EVP, CFO",F - Tax,$30.12,-1174,186227,-1%,"-$35,361",-2.0,-5.0,-3.0,-25.0,AUD
+615,,2007-02-27 18:06:35,2007-02-25,ETM,Field David J,"Pres, CEO",F - Tax,$30.12,-1967,1878730,0%,"-$59,246",-2.0,-5.0,-3.0,-25.0,AUD
+616,,2007-02-20 17:36:35,2007-02-15,ETM,Donlevie John C,"EVP, Secretary",F - Tax,$30.40,-1674,73122,-2%,"-$50,890",0.0,0.0,-8.0,-27.0,AUD
+617,,2007-02-20 17:35:56,2007-02-15,ETM,Fisher Stephen F,"EVP, CFO",F - Tax,$30.40,-3527,187401,-2%,"-$107,221",0.0,0.0,-8.0,-27.0,AUD
+618,,2007-02-20 17:35:06,2007-02-15,ETM,Field David J,"Pres, CEO",F - Tax,$30.40,-5834,1880697,0%,"-$177,354",0.0,0.0,-8.0,-27.0,AUD
+619,,2007-02-20 17:34:01,2007-02-15,ETM,Field Joseph M,"COB, 10%",F - Tax,$30.40,-4717,498312,-1%,"-$143,397",0.0,0.0,-8.0,-27.0,AUD
+620,,2007-02-15 14:47:49,2007-02-13,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,1500,3814,+65%,+$0,1.0,0.0,-9.0,-31.0,AUD
+621,,2007-02-15 14:47:14,2007-02-13,ETM,West Edward H,Dir,A - Grant,$0.00,1500,4560,+49%,+$0,1.0,0.0,-9.0,-31.0,AUD
+622,,2007-02-15 14:46:34,2007-02-13,ETM,Gold Daniel E,Dir,A - Grant,$0.00,1500,4560,+49%,+$0,1.0,0.0,-9.0,-31.0,AUD
+623,,2007-02-15 14:45:43,2007-02-13,ETM,Berkman David J,Dir,A - Grant,$0.00,1500,10130,+17%,+$0,1.0,0.0,-9.0,-31.0,AUD
+624,,2007-01-31 17:03:48,2007-01-29,ETM,Donlevie John C,"EVP, Secretary",A - Grant,$0.00,12500,74796,+20%,+$0,0.0,2.0,3.0,-18.0,AUD
+625,,2007-01-31 17:03:13,2007-01-29,ETM,Fisher Stephen F,"EVP, CFO",A - Grant,$0.00,35000,190928,+22%,+$0,0.0,2.0,3.0,-18.0,AUD
+626,,2007-01-31 17:02:08,2007-01-29,ETM,Field David J,"Pres, CEO",A - Grant,$0.00,65000,1886531,+4%,+$0,0.0,2.0,3.0,-18.0,AUD
+627,D,2006-12-21 15:29:16,2006-12-20,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,225000,503029,-31%,$0,0.0,1.0,-1.0,-12.0,AUD
+628,D,2006-12-21 15:29:16,2006-12-20,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-225000,503029,-31%,-$0,0.0,1.0,-1.0,-12.0,AUD
+629,D,2006-08-17 17:07:17,2006-07-07,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,333,2314,+17%,+$0,1.0,-3.0,4.0,30.0,AUD
+630,D,2006-08-17 17:06:40,2006-07-07,ETM,West Edward H,Dir,A - Grant,$0.00,667,3060,+28%,+$0,1.0,-3.0,4.0,30.0,AUD
+631,D,2006-08-17 17:06:05,2006-07-07,ETM,Gold Daniel E,Dir,A - Grant,$0.00,667,3060,+28%,+$0,1.0,-3.0,4.0,30.0,AUD
+632,D,2006-08-17 17:05:35,2006-07-07,ETM,Berkman David J,Dir,A - Grant,$0.00,1500,8630,+21%,+$0,1.0,-3.0,4.0,30.0,AUD
+633,D,2006-08-17 17:04:57,2006-07-07,ETM,Fisher Stephen F,"EVP, CFO",A - Grant,$0.00,24111,155928,+18%,+$0,1.0,-3.0,4.0,30.0,AUD
+634,D,2006-08-17 17:04:20,2006-07-07,ETM,Donlevie John C,"EVP, Secretary",A - Grant,$0.00,11444,62012,+23%,+$0,1.0,-3.0,4.0,30.0,AUD
+635,D,2006-08-17 17:03:44,2006-07-07,ETM,Field David J,"Pres, CEO",A - Grant,$0.00,39889,1821531,+2%,+$0,1.0,-3.0,4.0,30.0,AUD
+636,D,2006-08-17 17:02:46,2006-07-07,ETM,Field Joseph M,"COB, 10%",A - Grant,$0.00,30889,503029,+7%,+$0,1.0,-3.0,4.0,30.0,AUD
+637,,2006-05-16 15:35:50,2006-05-16,ETM,Berkman David J,Dir,A - Grant,$0.00,1237,7130,+21%,+$0,0.0,-1.0,-10.0,7.0,AUD
+638,,2006-05-03 18:30:12,2006-05-03,ETM,Fisher Stephen F,"EVP, CFO",D - Sale to issuer,$0.00,-13500,131817,-9%,-$0,0.0,7.0,-2.0,7.0,AUD
+639,,2006-04-10 17:23:14,2006-04-06,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,1500,1981,+312%,+$0,-4.0,-4.0,2.0,-8.0,AUD
+640,,2006-04-10 17:22:43,2006-04-06,ETM,West Edward H,Dir,A - Grant,$0.00,1500,2393,+168%,+$0,-4.0,-4.0,2.0,-8.0,AUD
+641,,2006-04-10 17:22:15,2006-04-06,ETM,Gold Daniel E,Dir,A - Grant,$0.00,1500,2393,+168%,+$0,-4.0,-4.0,2.0,-8.0,AUD
+642,,2006-04-10 17:21:43,2006-04-06,ETM,Berkman David J,Dir,A - Grant,$0.00,1500,5893,+34%,+$0,-4.0,-4.0,2.0,-8.0,AUD
+643,,2006-04-10 17:20:57,2006-04-06,ETM,Donlevie John C,"EVP, Secretary",A - Grant,$0.00,40000,50283,+389%,+$0,-4.0,-4.0,2.0,-8.0,AUD
+644,,2006-04-10 17:20:13,2006-04-06,ETM,Fisher Stephen F,"EVP, CFO",A - Grant,$0.00,80000,145317,+122%,+$0,-4.0,-4.0,2.0,-8.0,AUD
+645,,2006-04-10 17:19:15,2006-04-06,ETM,Field David J,"Pres, CEO",A - Grant,$0.00,200000,1781642,+13%,+$0,-4.0,-4.0,2.0,-8.0,AUD
+646,,2005-01-25 14:48:42,2005-01-21,ETM,Field David J,"Pres, CEO",A - Grant,$0.00,5000,1581642,0%,+$0,-1.0,-2.0,8.0,2.0,AUD
+647,,2005-01-03 16:04:52,2004-12-31,ETM,Fisher Stephen F,"EVP, CFO",A - Grant,$0.00,43500,63307,+220%,+$0,-2.0,-6.0,-11.0,-5.0,AUD
+648,D,2004-12-30 13:32:57,2004-12-29,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,20000,472140,-4%,$0,2.0,-5.0,-12.0,-7.0,AUD
+649,D,2004-12-30 13:32:57,2004-12-29,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-20000,472140,-4%,-$0,2.0,-5.0,-12.0,-7.0,AUD
+650,D,2004-12-20 10:30:24,2004-12-17,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,40000,472140,-8%,$0,-1.0,1.0,-10.0,-5.0,AUD
+651,D,2004-12-20 10:30:24,2004-12-17,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-40000,472140,-8%,-$0,-1.0,1.0,-10.0,-5.0,AUD
+652,,2004-05-14 15:07:15,2004-05-13,ETM,Wiesenthal Robert S,Dir,A - Grant,$0.00,481,481,New,+$0,-1.0,-2.0,-8.0,-14.0,AUD
+653,,2004-05-14 14:49:11,2004-05-13,ETM,Gold Daniel E,Dir,A - Grant,$0.00,481,893,+117%,+$0,-1.0,-2.0,-8.0,-14.0,AUD
+654,,2004-05-14 14:46:34,2004-05-13,ETM,West Edward H,Dir,A - Grant,$0.00,481,893,+117%,+$0,-1.0,-2.0,-8.0,-14.0,AUD
+655,,2004-05-14 14:40:40,2004-05-13,ETM,Berkman David J,Dir,A - Grant,$0.00,481,4393,+12%,+$0,-1.0,-2.0,-8.0,-14.0,AUD
+656,,2004-04-14 18:49:31,2004-03-25,ETM,Berkman David J,Dir,P - Purchase,$44.32,1000,3912,+34%,"+$44,320",-1.0,0.0,-13.0,-33.0,AUD
+657,,2004-03-10 10:28:58,2004-03-08,ETM,Kean Herbert,Dir,S - Sale,$0.00,-30000,591566,-5%,-$0,-3.0,-5.0,0.0,-20.0,AUD
+658,D,2004-02-12 18:18:56,2004-02-10,ETM,Fisher Stephen F,"EVP, CFO",A - Grant,$0.00,4000,19807,+25%,+$0,-1.0,-2.0,-5.0,-22.0,AUD
+659,D,2004-02-12 18:17:07,2004-02-10,ETM,Field David J,"Pres, CEO",A - Grant,$0.00,5000,1576642,0%,+$0,-1.0,-2.0,-5.0,-22.0,AUD
+660,M,2004-01-05 15:08:04,2003-12-31,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,28000,372140,-7%,$0,2.0,-5.0,-10.0,-30.0,AUD
+661,M,2004-01-05 15:08:04,2003-12-31,ETM,Field Joseph M,"COB, 10%",S - Sale,$0.00,-28000,372140,-7%,-$0,2.0,-5.0,-10.0,-30.0,AUD
+662,M,2003-12-31 11:46:45,2003-12-29,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,149000,372140,-29%,$0,0.0,-2.0,-10.0,-30.0,AUD
+663,,2003-12-31 11:46:45,2003-12-31,ETM,Field Joseph M,"COB, 10%",G - Gift,$0.00,-217174,372140,-37%,-$0,0.0,-2.0,-10.0,-30.0,AUD
+664,M,2003-12-31 11:46:45,2003-12-29,ETM,Field Joseph M,"COB, 10%",S - Sale,$0.00,-69000,372140,-16%,-$0,0.0,-2.0,-10.0,-30.0,AUD
+665,,2003-12-24 13:06:25,2003-12-23,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,53000,509314,-9%,$0,-1.0,0.0,-4.0,-29.0,AUD
+666,,2003-12-24 13:06:25,2003-12-23,ETM,Field Joseph M,"COB, 10%",S - Sale,$0.00,-53000,509314,-9%,-$0,-1.0,0.0,-4.0,-29.0,AUD
+667,M,2003-12-22 17:42:14,2003-12-18,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,141600,509314,-22%,$0,0.0,0.0,-4.0,-33.0,AUD
+668,M,2003-12-22 17:42:14,2003-12-18,ETM,Field Joseph M,"COB, 10%",S - Sale,$0.00,-141600,509314,-22%,-$0,0.0,0.0,-4.0,-33.0,AUD
+669,,2003-12-17 16:09:39,2003-12-15,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,8400,509314,-2%,$0,1.0,3.0,-2.0,-29.0,AUD
+670,,2003-12-17 16:09:39,2003-12-15,ETM,Field Joseph M,"COB, 10%",S - Sale,$0.00,-8400,509314,-2%,-$0,1.0,3.0,-2.0,-29.0,AUD
+671,M,2003-12-12 15:44:32,2003-12-10,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,158400,509314,-24%,$0,0.0,1.0,-1.0,-26.0,AUD
+672,M,2003-12-12 15:44:32,2003-12-10,ETM,Field Joseph M,"COB, 10%",S - Sale,$0.00,-163400,509314,-24%,-$0,0.0,1.0,-1.0,-26.0,AUD
+673,M,2003-12-10 14:15:50,2003-12-08,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,141600,514314,-22%,$0,2.0,3.0,1.0,-21.0,AUD
+674,M,2003-12-10 14:15:50,2003-12-08,ETM,Field Joseph M,"COB, 10%",S - Sale,$0.00,-141600,514314,-22%,-$0,2.0,3.0,1.0,-21.0,AUD
+675,,2003-12-08 11:29:37,2003-12-04,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,76500,514314,-13%,$0,2.0,5.0,6.0,-20.0,AUD
+676,,2003-12-08 11:29:37,2003-12-04,ETM,Field Joseph M,"COB, 10%",S - Sale,$0.00,-76500,514314,-13%,-$0,2.0,5.0,6.0,-20.0,AUD
+677,M,2003-12-04 14:22:43,2003-12-02,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,72600,514314,-12%,$0,2.0,6.0,12.0,-19.0,AUD
+678,M,2003-12-04 14:22:43,2003-12-02,ETM,Field Joseph M,"COB, 10%",S - Sale,$0.00,-72600,514314,-12%,-$0,2.0,6.0,12.0,-19.0,AUD
+679,M,2003-09-17 13:09:09,2003-09-15,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,14800,514314,-3%,$0,-1.0,-4.0,-3.0,-8.0,AUD
+680,M,2003-09-17 13:09:09,2003-09-15,ETM,Field Joseph M,"COB, 10%",S - Sale,$0.00,-14800,514314,-3%,-$0,-1.0,-4.0,-3.0,-8.0,AUD
+681,M,2003-09-15 15:05:13,2003-09-11,ETM,Field Joseph M,"COB, 10%",C - Converted deriv,$0.00,36100,514314,-7%,$0,0.0,-2.0,-3.0,-10.0,AUD
+682,M,2003-09-15 15:05:13,2003-09-11,ETM,Field Joseph M,"COB, 10%",S - Sale,$12.76,-36100,514314,-7%,"-$460,808",0.0,-2.0,-3.0,-10.0,AUD
+683,,2003-08-14 10:20:22,2003-08-12,ETM,Field Joseph M,"COB, 10%",M - OptEx,$30.43,10695,137174,+8%,"+$325,479",1.0,5.0,5.0,4.0,AUD
