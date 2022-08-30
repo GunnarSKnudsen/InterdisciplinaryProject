@@ -1,31 +1,501 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2021-11-22 18:02:17,2021-11-22,OFIX,Paolucci Michael E,Dir,P - Purchase,$31.15,2000,27141,+8%,"+$62,300",,,,,OFIX
-1,,2021-11-19 16:05:54,2021-11-19,OFIX,Doug Rice,CFO,P - Purchase,$30.05,1400,73543,+2%,"+$42,070",,,,,OFIX
-2,,2021-11-19 16:04:37,2021-11-19,OFIX,Burzik Catherine M,Dir,P - Purchase,$30.27,1660,7947,+26%,"+$50,248",,,,,OFIX
-3,,2021-11-18 17:39:19,2021-11-18,OFIX,Serbousek Jon Carl,CEO,P - Purchase,$31.14,1670,112812,+2%,"+$52,004",,,,,OFIX
-4,,2021-11-18 17:22:55,2021-11-18,OFIX,Elting Kimberley A.,"Chief Legal, Develop. Officer",P - Purchase,$30.34,1000,46803,+2%,"+$30,340",,,,,OFIX
-5,D,2020-06-09 16:54:49,2020-06-05,OFIX,Finegan Michael,Chief Strategy Officer,S - Sale+OE,$37.41,-8750,47933,-15%,"-$327,323",,,,,OFIX
-6,,2020-03-18 07:08:52,2020-03-16,OFIX,Matricaria Ronald A,Dir,P - Purchase,$24.25,20000,154939,+15%,"+$485,000",,,,,OFIX
-7,,2020-03-16 07:05:05,2020-03-12,OFIX,Hinrichs James F.,Dir,P - Purchase,$26.85,10000,45574,+28%,"+$268,469",,,,,OFIX
-8,,2020-03-02 07:10:37,2020-02-27,OFIX,Serbousek Jon Carl,CEO,P - Purchase,$35.48,2900,41728,+7%,"+$102,895",,,,,OFIX
-9,,2019-11-04 16:10:12,2019-10-31,OFIX,Matricaria Ronald A,Dir,P - Purchase,$42.27,20000,134100,+18%,"+$845,305",,,,,OFIX
-10,,2019-08-29 17:11:35,2019-08-28,OFIX,Mason Brad,CEO,S - Sale,$50.97,-5805,165041,-3%,"-$295,874",,,,,OFIX
-11,,2019-06-17 16:52:13,2019-06-13,OFIX,Mason Brad,CEO,S - Sale,$51.11,-8890,155930,-5%,"-$454,327",,,,,OFIX
-12,,2019-05-16 16:21:00,2019-05-14,OFIX,Mason Brad,CEO,S - Sale,$53.71,-10668,164820,-6%,"-$572,962",,,,,OFIX
-13,,2019-04-19 11:30:13,2019-04-17,OFIX,Mason Brad,CEO,S - Sale,$52.35,-5949,175488,-3%,"-$311,444",,,,,OFIX
-14,M,2019-02-20 17:09:04,2019-02-15,OFIX,Bianchi Davide,"Pres, Global Extremities",S - Sale,$65.00,-24400,20666,-54%,"-$1,586,000",,,,,OFIX
-15,M,2019-01-16 16:50:06,2019-01-14,OFIX,Mason Brad,CEO,S - Sale,$50.13,-5000,133401,-4%,"-$250,665",,,,,OFIX
-16,,2018-11-06 16:35:56,2018-11-05,OFIX,Niemann Bradley V.,Pres of Global Spine,S - Sale,$61.63,-387,25361,-2%,"-$23,851",,,,,OFIX
-17,D,2018-11-06 16:34:29,2018-11-02,OFIX,Faulstick Luke T,Dir,S - Sale+OE,$61.05,-8450,6479,-57%,"-$515,911",,,,,OFIX
-18,D,2018-11-06 16:32:37,2018-11-02,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",S - Sale+OE,$61.05,-7000,15740,-31%,"-$427,337",,,,,OFIX
-19,,2018-11-06 16:27:07,2018-11-02,OFIX,Doug Rice,CFO,S - Sale,$61.25,-6057,26311,-19%,"-$371,004",,,,,OFIX
-20,,2018-10-15 16:29:09,2018-10-11,OFIX,Doug Rice,CFO,S - Sale,$55.65,-3949,32368,-11%,"-$219,754",,,,,OFIX
-21,,2018-09-07 16:05:43,2018-09-05,OFIX,Mason Brad,CEO,S - Sale,$53.02,-2500,147841,-2%,"-$132,555",,,,,OFIX
-22,,2018-08-09 18:45:37,2018-08-07,OFIX,Mason Brad,CEO,S - Sale,$53.27,-2500,150341,-2%,"-$133,168",,,,,OFIX
-23,,2018-07-11 16:27:27,2018-07-10,OFIX,Mason Brad,CEO,S - Sale,$58.62,-2500,134290,-2%,"-$146,554",,,,,OFIX
-24,D,2018-07-05 16:43:12,2018-07-03,OFIX,Niemann Bradley V.,Pres of Global Spine,S - Sale+OE,$57.02,-11250,26992,-29%,"-$641,435",,,,,OFIX
-25,D,2018-06-21 16:42:01,2018-06-20,OFIX,Fujikawa Raymond,Pres Spine Fixation,S - Sale+OE,$60.21,-32243,12859,-71%,"-$1,941,202",,,,,OFIX
-26,D,2018-06-19 17:28:44,2018-06-18,OFIX,Finegan Michael,Chief Strategy Officer,S - Sale+OE,$58.81,-30000,36844,-45%,"-$1,764,301",,,,,OFIX
-27,,2018-06-19 17:27:21,2018-06-19,OFIX,Bianchi Davide,Pres Extremity Fixation,S - Sale,$60.00,-14762,41260,-26%,"-$885,720",,,,,OFIX
-28,,2018-06-15 16:03:37,2018-06-14,OFIX,Mason Brad,CEO,S - Sale,$57.95,-2500,143221,-2%,"-$144,864",,,,,OFIX
-29,,2018-05-07 08:50:19,2018-05-03,OFIX,Matricaria Ronald A,Dir,P - Purchase,$51.97,10000,101613,+11%,"+$519,724",,,,,OFIX
+0,D,2022-02-03 16:51:17,2022-02-01,OFIX,Gonsalves Paul,"Pres, Global Orthopedics",A - Grant,$0.00,9836,26403,+59%,+$0,,,,,OFIX
+1,D,2022-02-03 16:50:04,2022-02-01,OFIX,Elting Kimberley A.,"Chief Legal, Develop. Officer",A - Grant,$0.00,20492,67295,+44%,+$0,,,,,OFIX
+2,D,2022-02-03 16:48:17,2022-02-01,OFIX,Serbousek Jon Carl,CEO,A - Grant,$0.00,81967,194779,+73%,+$0,,,,,OFIX
+3,D,2022-02-03 16:46:48,2022-02-01,OFIX,Kenny Kevin J.,Pres of Global Spine,A - Grant,$0.00,20492,56643,+57%,+$0,,,,,OFIX
+4,D,2022-02-03 16:45:18,2022-02-01,OFIX,Doug Rice,CFO,A - Grant,$0.00,22131,95674,+30%,+$0,,,,,OFIX
+5,,2021-12-07 17:52:46,2021-12-04,OFIX,Kenny Kevin J.,Pres of Global Spine,F - Tax,$30.24,-984,36151,-3%,"-$29,756",,,,,OFIX
+6,,2021-11-22 18:02:17,2021-11-22,OFIX,Paolucci Michael E,Dir,P - Purchase,$31.15,2000,27141,+8%,"+$62,300",,,,,OFIX
+7,,2021-11-19 16:05:54,2021-11-19,OFIX,Doug Rice,CFO,P - Purchase,$30.05,1400,73543,+2%,"+$42,070",,,,,OFIX
+8,,2021-11-19 16:04:37,2021-11-19,OFIX,Burzik Catherine M,Dir,P - Purchase,$30.27,1660,7947,+26%,"+$50,248",,,,,OFIX
+9,,2021-11-18 17:39:19,2021-11-18,OFIX,Serbousek Jon Carl,CEO,P - Purchase,$31.14,1670,112812,+2%,"+$52,004",,,,,OFIX
+10,,2021-11-18 17:22:55,2021-11-18,OFIX,Elting Kimberley A.,"Chief Legal, Develop. Officer",P - Purchase,$30.34,1000,46803,+2%,"+$30,340",,,,,OFIX
+11,,2021-11-01 21:18:13,2021-11-01,OFIX,Serbousek Jon Carl,CEO,F - Tax,$36.87,-2369,109903,-2%,"-$87,345",,,,,OFIX
+12,,2021-09-13 18:02:48,2021-09-11,OFIX,Gonsalves Paul,"Pres, Global Orthopedics",F - Tax,$40.59,-1045,16567,-6%,"-$42,417",,,,,OFIX
+13,,2021-09-07 18:34:02,2021-09-05,OFIX,Elting Kimberley A.,"Chief Legal, Develop. Officer",F - Tax,$42.69,-365,44953,-1%,"-$15,582",,,,,OFIX
+14,,2021-08-09 08:29:54,2021-08-05,OFIX,Serbousek Jon Carl,CEO,F - Tax,$37.98,-1450,112272,-1%,"-$55,071",,,,,OFIX
+15,,2021-07-07 17:15:40,2021-07-03,OFIX,Elting Kimberley A.,"Chief Legal, Develop. Officer",F - Tax,$40.48,-346,45318,-1%,"-$14,006",,,,,OFIX
+16,,2021-07-07 17:13:17,2021-07-03,OFIX,Doug Rice,CFO,F - Tax,$40.48,-373,70370,-1%,"-$15,099",,,,,OFIX
+17,D,2021-06-23 16:45:03,2021-06-21,OFIX,Burzik Catherine M,Dir,A - Grant,$0.00,5976,5976,New,+$0,,,,,OFIX
+18,,2021-06-23 16:37:03,2021-06-21,OFIX,Sicard John,Dir,A - Grant,$0.00,4313,15232,+39%,+$0,,,,,OFIX
+19,,2021-06-23 16:33:49,2021-06-21,OFIX,Lukianov Alexis V,Dir,A - Grant,$0.00,4313,21027,+26%,+$0,,,,,OFIX
+20,,2021-06-23 16:31:15,2021-06-21,OFIX,Marks Lilly,Dir,A - Grant,$0.00,4313,30573,+16%,+$0,,,,,OFIX
+21,,2021-06-23 16:29:16,2021-06-21,OFIX,Paolucci Michael E,Dir,A - Grant,$0.00,4313,24814,+21%,+$0,,,,,OFIX
+22,,2021-06-23 16:25:12,2021-06-21,OFIX,Hinrichs James F.,Dir,A - Grant,$0.00,4313,55594,+8%,+$0,,,,,OFIX
+23,,2021-06-23 16:21:55,2021-06-21,OFIX,Hannon Jason,Dir,A - Grant,$0.00,4313,9431,+84%,+$0,,,,,OFIX
+24,D,2021-04-05 18:40:17,2021-04-01,OFIX,Gonsalves Paul,"Pres, Global Extremities",A - Grant,$0.00,6988,17612,+66%,+$0,,,,,OFIX
+25,D,2021-04-05 18:37:58,2021-04-01,OFIX,Doug Rice,CFO,A - Grant,$0.00,13394,66478,+25%,+$0,,,,,OFIX
+26,DM,2021-04-05 18:37:58,2021-04-01,OFIX,Doug Rice,CFO,F - Tax,$42.93,-4644,66478,-7%,"-$199,367",,,,,OFIX
+27,D,2021-04-05 18:35:37,2021-04-01,OFIX,Elting Kimberley A.,"Chief Legal, Develop. Officer",A - Grant,$0.00,12229,44217,+38%,+$0,,,,,OFIX
+28,DM,2021-04-05 18:35:37,2021-04-01,OFIX,Elting Kimberley A.,"Chief Legal, Develop. Officer",F - Tax,$42.93,-4503,44217,-9%,"-$193,314",,,,,OFIX
+29,D,2021-04-05 18:33:52,2021-04-01,OFIX,Kenny Kevin J.,Pres of Global Spine,A - Grant,$0.00,12229,30268,+68%,+$0,,,,,OFIX
+30,D,2021-04-05 18:33:52,2021-04-01,OFIX,Kenny Kevin J.,Pres of Global Spine,F - Tax,$42.93,-753,30268,-2%,"-$32,326",,,,,OFIX
+31,D,2021-04-05 18:27:47,2021-04-01,OFIX,Serbousek Jon Carl,CEO,A - Grant,$0.00,40764,113722,+56%,+$0,,,,,OFIX
+32,D,2021-04-05 18:27:47,2021-04-01,OFIX,Serbousek Jon Carl,CEO,F - Tax,$42.93,-2784,113722,-2%,"-$119,517",,,,,OFIX
+33,,2020-12-07 16:52:14,2020-12-04,OFIX,Kenny Kevin J.,Pres of Global Spine,F - Tax,$37.09,-984,18792,-5%,"-$36,497",,,,,OFIX
+34,,2020-11-02 18:28:10,2020-11-01,OFIX,Serbousek Jon Carl,CEO,F - Tax,$31.26,-1466,74181,-2%,"-$45,827",,,,,OFIX
+35,,2020-09-28 17:29:00,2020-09-26,OFIX,Elting Kimberley A.,"Chief Legal, Develop. Officer",F - Tax,$29.40,-550,35965,-2%,"-$16,170",,,,,OFIX
+36,,2020-09-15 18:12:53,2020-09-05,OFIX,Elting Kimberley A.,"Chief Legal, Develop. Officer",F - Tax,$28.79,-365,36515,-1%,"-$10,508",,,,,OFIX
+37,D,2020-09-14 18:11:10,2020-09-11,OFIX,Gonsalves Paul,"Pres, Global Extremities",A - Grant,$0.00,10624,10624,New,+$0,,,,,OFIX
+38,,2020-08-11 17:56:15,2020-08-07,OFIX,Serbousek Jon Carl,CEO,F - Tax,$33.24,-897,75647,-1%,"-$29,816",,,,,OFIX
+39,,2020-07-09 16:17:49,2020-07-08,OFIX,Doug Rice,CFO,F - Tax,$30.34,-1456,55706,-3%,"-$44,175",,,,,OFIX
+40,M,2020-07-06 21:07:39,2020-07-01,OFIX,Finegan Michael,Chief Strategy Officer,F - Tax,$32.27,-758,47175,-2%,"-$24,459",,,,,OFIX
+41,,2020-07-06 19:44:08,2020-07-03,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",F - Tax,$32.19,-346,36880,-1%,"-$11,138",,,,,OFIX
+42,M,2020-07-06 19:42:11,2020-07-01,OFIX,Doug Rice,CFO,F - Tax,$32.27,-750,57162,-1%,"-$24,199",,,,,OFIX
+43,D,2020-06-10 18:12:28,2020-06-08,OFIX,Hannon Jason,Dir,A - Grant,$0.00,4588,4588,New,+$0,,,,,OFIX
+44,,2020-06-10 18:09:40,2020-06-08,OFIX,Matricaria Ronald A,Dir,A - Grant,$0.00,8520,164122,+5%,+$0,,,,,OFIX
+45,,2020-06-10 18:06:39,2020-06-08,OFIX,Hinrichs James F.,Dir,A - Grant,$0.00,4588,50514,+10%,+$0,,,,,OFIX
+46,,2020-06-10 18:04:46,2020-06-08,OFIX,Lukianov Alexis V,Dir,A - Grant,$0.00,4588,16083,+40%,+$0,,,,,OFIX
+47,,2020-06-10 18:02:45,2020-06-08,OFIX,Marks Lilly,Dir,A - Grant,$0.00,4588,25794,+22%,+$0,,,,,OFIX
+48,,2020-06-10 18:00:49,2020-06-08,OFIX,Paolucci Michael E,Dir,A - Grant,$0.00,4588,19779,+30%,+$0,,,,,OFIX
+49,,2020-06-10 17:59:02,2020-06-08,OFIX,Sainz Maria,Dir,A - Grant,$0.00,4588,40871,+13%,+$0,,,,,OFIX
+50,,2020-06-10 17:55:40,2020-06-08,OFIX,Sicard John,Dir,A - Grant,$0.00,4588,10919,+72%,+$0,,,,,OFIX
+51,D,2020-06-09 16:54:49,2020-06-05,OFIX,Finegan Michael,Chief Strategy Officer,M - OptEx,$21.78,8750,47933,+22%,"+$190,575",,,,,OFIX
+52,D,2020-06-09 16:54:49,2020-06-05,OFIX,Finegan Michael,Chief Strategy Officer,S - Sale+OE,$37.41,-8750,47933,-15%,"-$327,323",,,,,OFIX
+53,M,2020-04-03 17:27:41,2020-04-01,OFIX,Finegan Michael,Chief Strategy Officer,F - Tax,$26.36,-684,47933,-1%,"-$18,027",,,,,OFIX
+54,D,2020-04-03 17:25:42,2020-04-01,OFIX,Kenny Kevin J.,Pres of Global Spine,A - Grant,$0.00,7666,17675,+77%,+$0,,,,,OFIX
+55,D,2020-04-03 17:23:00,2020-04-01,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",A - Grant,$0.00,8432,36009,+31%,+$0,,,,,OFIX
+56,DM,2020-04-03 17:23:00,2020-04-01,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",F - Tax,$26.37,-685,36009,-2%,"-$18,063",,,,,OFIX
+57,D,2020-04-03 17:20:39,2020-04-01,OFIX,Doug Rice,CFO,A - Grant,$0.00,8816,55636,+19%,+$0,,,,,OFIX
+58,DM,2020-04-03 17:20:39,2020-04-01,OFIX,Doug Rice,CFO,F - Tax,$26.37,-744,55636,-1%,"-$19,618",,,,,OFIX
+59,D,2020-04-03 17:18:34,2020-04-01,OFIX,Serbousek Jon Carl,CEO,A - Grant,$0.00,33538,75266,+80%,+$0,,,,,OFIX
+60,,2020-03-18 07:08:52,2020-03-16,OFIX,Matricaria Ronald A,Dir,P - Purchase,$24.25,20000,154939,+15%,"+$485,000",,,,,OFIX
+61,,2020-03-16 07:05:05,2020-03-12,OFIX,Hinrichs James F.,Dir,P - Purchase,$26.85,10000,45574,+28%,"+$268,469",,,,,OFIX
+62,,2020-03-02 07:10:37,2020-02-27,OFIX,Serbousek Jon Carl,CEO,P - Purchase,$35.48,2900,41728,+7%,"+$102,895",,,,,OFIX
+63,D,2019-12-05 17:03:17,2019-12-04,OFIX,Kenny Kevin J.,Pres of Global Spine,A - Grant,$0.00,10009,10009,New,+$0,,,,,OFIX
+64,D,2019-11-05 17:04:08,2019-11-01,OFIX,Serbousek Jon Carl,CEO,A - Grant,$0.00,24085,38828,+163%,+$0,,,,,OFIX
+65,,2019-11-04 16:14:48,2019-10-31,OFIX,Mason Brad,CEO,F - Tax,$42.03,-5142,159899,-3%,"-$216,118",,,,,OFIX
+66,,2019-11-04 16:10:12,2019-10-31,OFIX,Matricaria Ronald A,Dir,P - Purchase,$42.27,20000,134100,+18%,"+$845,305",,,,,OFIX
+67,,2019-09-27 16:04:43,2019-09-26,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",F - Tax,$54.26,-550,26499,-2%,"-$29,843",,,,,OFIX
+68,,2019-09-13 16:02:27,2019-09-12,OFIX,Hinrichs James F.,Dir,G - Gift,$51.99,-1975,35023,-5%,"-$102,680",,,,,OFIX
+69,,2019-09-06 16:18:36,2019-09-05,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",F - Tax,$50.61,-365,27049,-1%,"-$18,473",,,,,OFIX
+70,,2019-08-29 17:11:35,2019-08-28,OFIX,Mason Brad,CEO,S - Sale,$50.97,-5805,165041,-3%,"-$295,874",,,,,OFIX
+71,D,2019-08-05 19:14:55,2019-08-05,OFIX,Serbousek Jon Carl,Pres of Global Spine,A - Grant,$0.00,14743,14743,New,+$0,,,,,OFIX
+72,,2019-07-15 17:38:56,2019-07-11,OFIX,Niemann Bradley V.,Pres of Global Spine,F - Tax,$52.33,-1269,38970,-3%,"-$66,408",,,,,OFIX
+73,,2019-07-15 17:36:28,2019-07-11,OFIX,Doug Rice,CFO,F - Tax,$52.36,-1185,44169,-3%,"-$62,045",,,,,OFIX
+74,,2019-07-15 17:34:52,2019-07-11,OFIX,Mason Brad,CEO,F - Tax,$52.07,-3234,170846,-2%,"-$168,399",,,,,OFIX
+75,,2019-07-15 17:33:07,2019-07-11,OFIX,Finegan Michael,Chief Strategy Officer,F - Tax,$52.37,-1210,48617,-2%,"-$63,366",,,,,OFIX
+76,,2019-07-15 17:31:23,2019-07-11,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",F - Tax,$51.84,-346,27414,-1%,"-$17,937",,,,,OFIX
+77,D,2019-07-10 17:30:14,2019-07-08,OFIX,Doug Rice,CFO,M - OptEx,$0.00,3937,45354,+10%,+$0,,,,,OFIX
+78,D,2019-07-10 17:28:08,2019-07-08,OFIX,Niemann Bradley V.,Pres of Global Spine,M - OptEx,$0.00,3330,40239,+9%,+$0,,,,,OFIX
+79,D,2019-07-10 17:26:20,2019-07-08,OFIX,Mason Brad,CEO,M - OptEx,$0.00,18150,174080,+12%,+$0,,,,,OFIX
+80,D,2019-07-10 17:24:21,2019-07-08,OFIX,Finegan Michael,Chief Strategy Officer,M - OptEx,$0.00,3625,49827,+8%,+$0,,,,,OFIX
+81,D,2019-07-10 17:22:45,2019-07-08,OFIX,Bianchi Davide,"Pres, Global Extremities",M - OptEx,$0.00,3330,38526,+9%,+$0,,,,,OFIX
+82,,2019-06-17 16:52:13,2019-06-13,OFIX,Mason Brad,CEO,S - Sale,$51.11,-8890,155930,-5%,"-$454,327",,,,,OFIX
+83,,2019-06-13 18:03:34,2019-06-11,OFIX,Sicard John,Dir,A - Grant,$0.00,3431,6331,+118%,+$0,,,,,OFIX
+84,,2019-06-13 18:02:16,2019-06-11,OFIX,Sainz Maria,Dir,A - Grant,$0.00,3431,35833,+11%,+$0,,,,,OFIX
+85,,2019-06-13 18:00:58,2019-06-11,OFIX,Paolucci Michael E,Dir,A - Grant,$0.00,3431,14860,+30%,+$0,,,,,OFIX
+86,,2019-06-13 17:59:36,2019-06-11,OFIX,Matricaria Ronald A,Dir,A - Grant,$0.00,6373,114100,+6%,+$0,,,,,OFIX
+87,,2019-06-13 17:58:04,2019-06-11,OFIX,Marks Lilly,Dir,A - Grant,$0.00,3431,20696,+20%,+$0,,,,,OFIX
+88,,2019-06-13 17:56:38,2019-06-11,OFIX,Lukianov Alexis V,Dir,A - Grant,$0.00,3431,10733,+47%,+$0,,,,,OFIX
+89,,2019-06-13 17:55:09,2019-06-11,OFIX,Hinrichs James F.,Dir,A - Grant,$0.00,3431,36998,+10%,+$0,,,,,OFIX
+90,,2019-05-16 16:21:00,2019-05-14,OFIX,Mason Brad,CEO,S - Sale,$53.71,-10668,164820,-6%,"-$572,962",,,,,OFIX
+91,,2019-04-26 16:29:06,2019-04-24,OFIX,Doug Rice,CFO,F - Tax,$0.00,-958,41417,-2%,-$0,,,,,OFIX
+92,,2019-04-19 11:30:13,2019-04-17,OFIX,Mason Brad,CEO,S - Sale,$52.35,-5949,175488,-3%,"-$311,444",,,,,OFIX
+93,,2019-04-11 16:41:11,2019-04-09,OFIX,Niemann Bradley V.,Pres of Global Spine,F - Tax,$0.00,-248,36909,-1%,-$0,,,,,OFIX
+94,,2019-04-11 16:39:56,2019-04-09,OFIX,Finegan Michael,Chief Strategy Officer,F - Tax,$0.00,-319,46202,-1%,-$0,,,,,OFIX
+95,,2019-04-11 16:36:19,2019-04-09,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",F - Tax,$0.00,-335,27760,-1%,-$0,,,,,OFIX
+96,,2019-04-11 16:34:23,2019-04-09,OFIX,Doug Rice,CFO,F - Tax,$0.00,-363,42375,-1%,-$0,,,,,OFIX
+97,D,2019-04-03 17:44:25,2019-04-01,OFIX,Bianchi Davide,"Pres, Global Extremities",A - Grant,$0.00,10480,35196,+42%,+$0,,,,,OFIX
+98,D,2019-04-03 17:43:13,2019-04-01,OFIX,Niemann Bradley V.,Pres of Global Spine,A - Grant,$0.00,11005,37157,+42%,+$0,,,,,OFIX
+99,D,2019-04-03 17:41:44,2019-04-01,OFIX,Finegan Michael,Chief Strategy Officer,A - Grant,$0.00,10885,46521,+31%,+$0,,,,,OFIX
+100,D,2019-04-03 17:38:38,2019-04-01,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",A - Grant,$0.00,11190,28095,+66%,+$0,,,,,OFIX
+101,D,2019-04-03 17:36:56,2019-04-01,OFIX,Doug Rice,CFO,A - Grant,$0.00,11613,42738,+37%,+$0,,,,,OFIX
+102,,2019-04-03 17:34:24,2019-04-01,OFIX,Mason Brad,CEO,A - Grant,$0.00,35587,181437,+24%,+$0,,,,,OFIX
+103,,2019-03-13 16:19:23,2019-03-11,OFIX,Bianchi Davide,"Pres, Global Extremities",A - Grant,$0.00,4050,24716,+20%,+$0,,,,,OFIX
+104,,2019-03-13 16:17:50,2019-03-11,OFIX,Finegan Michael,Chief Strategy Officer,A - Grant,$0.00,4050,35636,+13%,+$0,,,,,OFIX
+105,,2019-03-13 16:17:50,2019-03-11,OFIX,Finegan Michael,Chief Strategy Officer,F - Tax,$57.06,-3620,35636,-9%,"-$206,557",,,,,OFIX
+106,,2019-03-13 16:16:09,2019-03-11,OFIX,Niemann Bradley V.,Pres of Global Spine,A - Grant,$0.00,3700,26152,+16%,+$0,,,,,OFIX
+107,,2019-03-13 16:16:09,2019-03-11,OFIX,Niemann Bradley V.,Pres of Global Spine,F - Tax,$57.06,-2909,26152,-10%,"-$165,988",,,,,OFIX
+108,,2019-03-13 16:14:07,2019-03-11,OFIX,Doug Rice,CFO,A - Grant,$0.00,4425,31125,+17%,+$0,,,,,OFIX
+109,,2019-03-13 16:14:07,2019-03-11,OFIX,Doug Rice,CFO,F - Tax,$57.06,-3481,31125,-10%,"-$198,626",,,,,OFIX
+110,,2019-03-13 16:11:57,2019-03-11,OFIX,Mason Brad,CEO,A - Grant,$0.00,16700,145850,+13%,+$0,,,,,OFIX
+111,,2019-03-13 16:11:57,2019-03-11,OFIX,Mason Brad,CEO,F - Tax,$57.06,-13141,145850,-8%,"-$749,825",,,,,OFIX
+112,M,2019-02-20 17:09:04,2019-02-15,OFIX,Bianchi Davide,"Pres, Global Extremities",S - Sale,$65.00,-24400,20666,-54%,"-$1,586,000",,,,,OFIX
+113,M,2019-01-16 16:50:06,2019-01-14,OFIX,Mason Brad,CEO,S - Sale,$50.13,-5000,133401,-4%,"-$250,665",,,,,OFIX
+114,,2018-12-28 16:04:39,2018-12-26,OFIX,Mason Brad,CEO,F - Tax,$51.52,-9440,138401,-6%,"-$486,349",,,,,OFIX
+115,,2018-11-06 16:35:56,2018-11-04,OFIX,Niemann Bradley V.,Pres of Global Spine,F - Tax,$61.46,-966,25361,-4%,"-$59,370",,,,,OFIX
+116,,2018-11-06 16:35:56,2018-11-05,OFIX,Niemann Bradley V.,Pres of Global Spine,S - Sale,$61.63,-387,25361,-2%,"-$23,851",,,,,OFIX
+117,D,2018-11-06 16:34:29,2018-11-02,OFIX,Faulstick Luke T,Dir,M - OptEx,$32.13,4300,6479,+197%,"+$138,159",,,,,OFIX
+118,D,2018-11-06 16:34:29,2018-11-02,OFIX,Faulstick Luke T,Dir,S - Sale+OE,$61.05,-8450,6479,-57%,"-$515,911",,,,,OFIX
+119,D,2018-11-06 16:32:37,2018-11-02,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",M - OptEx,$42.89,7000,15740,+80%,"+$300,230",,,,,OFIX
+120,D,2018-11-06 16:32:37,2018-11-02,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",S - Sale+OE,$61.05,-7000,15740,-31%,"-$427,337",,,,,OFIX
+121,,2018-11-06 16:27:07,2018-11-02,OFIX,Doug Rice,CFO,S - Sale,$61.25,-6057,26311,-19%,"-$371,004",,,,,OFIX
+122,,2018-10-15 16:29:09,2018-10-11,OFIX,Doug Rice,CFO,S - Sale,$55.65,-3949,32368,-11%,"-$219,754",,,,,OFIX
+123,,2018-10-05 16:37:40,2018-10-03,OFIX,Doug Rice,CFO,F - Tax,$56.29,-590,36317,-2%,"-$33,211",,,,,OFIX
+124,,2018-09-28 16:47:57,2018-09-26,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",F - Tax,$56.79,-550,15740,-3%,"-$31,235",,,,,OFIX
+125,,2018-09-10 18:43:30,2018-09-05,OFIX,Elting Kimberley A.,"Chief Legal, Admin Officer",A - Grant,$0.00,3714,16290,+30%,+$0,,,,,OFIX
+126,,2018-09-07 16:05:43,2018-09-05,OFIX,Mason Brad,CEO,S - Sale,$53.02,-2500,147841,-2%,"-$132,555",,,,,OFIX
+127,,2018-09-06 19:16:18,2018-09-04,OFIX,Doug Rice,CFO,F - Tax,$53.35,-245,36907,-1%,"-$13,071",,,,,OFIX
+128,,2018-08-09 18:45:37,2018-08-07,OFIX,Mason Brad,CEO,S - Sale,$53.27,-2500,150341,-2%,"-$133,168",,,,,OFIX
+129,,2018-07-17 19:03:13,2018-07-17,OFIX,Sicard John,Dir,A - Grant,$0.00,2900,2900,New,+$0,,,,,OFIX
+130,,2018-07-17 19:02:30,2018-07-17,OFIX,Sainz Maria,Dir,A - Grant,$0.00,2900,32167,+10%,+$0,,,,,OFIX
+131,,2018-07-17 19:01:50,2018-07-17,OFIX,Paolucci Michael E,Dir,A - Grant,$0.00,2900,11429,+34%,+$0,,,,,OFIX
+132,,2018-07-17 19:01:04,2018-07-17,OFIX,Marks Lilly,Dir,A - Grant,$0.00,2900,16929,+21%,+$0,,,,,OFIX
+133,,2018-07-17 19:00:06,2018-07-17,OFIX,Lukianov Alexis V,Dir,A - Grant,$0.00,2900,6966,+71%,+$0,,,,,OFIX
+134,,2018-07-17 18:59:05,2018-07-17,OFIX,Hinrichs James F.,Dir,A - Grant,$0.00,2900,29197,+11%,+$0,,,,,OFIX
+135,,2018-07-17 18:58:16,2018-07-17,OFIX,Faulstick Luke T,Dir,A - Grant,$0.00,2900,10629,+38%,+$0,,,,,OFIX
+136,,2018-07-17 18:56:41,2018-07-17,OFIX,Matricaria Ronald A,Dir,A - Grant,$0.00,5274,106887,+5%,+$0,,,,,OFIX
+137,,2018-07-11 16:27:27,2018-07-10,OFIX,Mason Brad,CEO,S - Sale,$58.62,-2500,134290,-2%,"-$146,554",,,,,OFIX
+138,D,2018-07-05 16:43:12,2018-07-02,OFIX,Niemann Bradley V.,Pres of Global Spine,A - Grant,$0.00,2989,26992,+12%,+$0,,,,,OFIX
+139,D,2018-07-05 16:43:12,2018-07-03,OFIX,Niemann Bradley V.,Pres of Global Spine,M - OptEx,$24.26,11250,26992,+71%,"+$272,975",,,,,OFIX
+140,D,2018-07-05 16:43:12,2018-07-03,OFIX,Niemann Bradley V.,Pres of Global Spine,S - Sale+OE,$57.02,-11250,26992,-29%,"-$641,435",,,,,OFIX
+141,D,2018-06-21 16:42:01,2018-06-20,OFIX,Fujikawa Raymond,Pres Spine Fixation,M - OptEx,$22.30,18750,12859,-318%,"+$418,075",,,,,OFIX
+142,D,2018-06-21 16:42:01,2018-06-20,OFIX,Fujikawa Raymond,Pres Spine Fixation,S - Sale+OE,$60.21,-32243,12859,-71%,"-$1,941,202",,,,,OFIX
+143,D,2018-06-19 17:28:44,2018-06-18,OFIX,Finegan Michael,Chief Strategy Officer,M - OptEx,$26.32,30000,36844,+438%,"+$789,700",,,,,OFIX
+144,D,2018-06-19 17:28:44,2018-06-18,OFIX,Finegan Michael,Chief Strategy Officer,S - Sale+OE,$58.81,-30000,36844,-45%,"-$1,764,301",,,,,OFIX
+145,,2018-06-19 17:27:21,2018-06-19,OFIX,Bianchi Davide,Pres Extremity Fixation,S - Sale,$60.00,-14762,41260,-26%,"-$885,720",,,,,OFIX
+146,,2018-06-15 16:03:37,2018-06-14,OFIX,Mason Brad,CEO,S - Sale,$57.95,-2500,143221,-2%,"-$144,864",,,,,OFIX
+147,,2018-05-07 08:50:19,2018-05-03,OFIX,Matricaria Ronald A,Dir,P - Purchase,$51.97,10000,101613,+11%,"+$519,724",,,,,OFIX
+148,D,2018-04-03 18:44:24,2018-04-02,OFIX,Fujikawa Raymond,Pres Spine Fixation,A - Grant,$0.00,2308,26352,+10%,+$0,,,,,OFIX
+149,D,2018-04-03 18:43:00,2018-04-02,OFIX,Bianchi Davide,Pres Extremity Fixation,A - Grant,$0.00,2528,51972,+5%,+$0,,,,,OFIX
+150,D,2018-04-03 18:41:25,2018-04-02,OFIX,Goodwin Robert Allen II,Pres Biologics,A - Grant,$0.00,2198,22257,+11%,+$0,,,,,OFIX
+151,D,2018-04-03 18:39:39,2018-04-02,OFIX,Niemann Bradley V.,Pres Biostim,A - Grant,$0.00,2528,21296,+13%,+$0,,,,,OFIX
+152,D,2018-04-03 18:37:04,2018-04-02,OFIX,Finegan Michael,Chief Strategy Officer,A - Grant,$0.00,2857,32794,+10%,+$0,,,,,OFIX
+153,D,2018-04-03 18:34:03,2018-04-02,OFIX,Elting Kimberley A.,GC,A - Grant,$0.00,3407,12790,+36%,+$0,,,,,OFIX
+154,D,2018-04-03 18:30:31,2018-04-02,OFIX,Doug Rice,CFO,A - Grant,$0.00,3693,34870,+12%,+$0,,,,,OFIX
+155,D,2018-04-03 18:26:45,2018-04-02,OFIX,Mason Brad,CEO,A - Grant,$0.00,18551,147572,+14%,+$0,,,,,OFIX
+156,,2017-12-13 17:04:34,2017-12-11,OFIX,Niemann Bradley V.,Pres Biostim,S - Sale,$52.08,-5547,34631,-14%,"-$288,861",,,,,OFIX
+157,,2017-11-30 16:35:06,2017-11-28,OFIX,Mason Brad,CEO,S - Sale,$53.48,-5000,183053,-3%,"-$267,400",,,,,OFIX
+158,,2017-11-08 16:26:35,2017-11-06,OFIX,Faulstick Luke T,Dir,S - Sale,$51.22,-4800,7729,-38%,"-$245,846",,,,,OFIX
+159,,2017-09-13 16:39:41,2017-09-12,OFIX,Bianchi Davide,Pres Extremity Fixation,D - Sale to issuer,$49.72,-500,59103,-1%,"-$24,859",,,,,OFIX
+160,,2017-09-13 16:38:38,2017-09-11,OFIX,Niemann Bradley V.,Pres Biostim,S - Sale,$49.44,-6956,40178,-15%,"-$343,926",,,,,OFIX
+161,,2017-09-13 16:36:08,2017-09-11,OFIX,Doug Rice,CFO,S - Sale,$49.46,-7353,44743,-14%,"-$363,689",,,,,OFIX
+162,,2017-08-28 16:27:03,2017-08-24,OFIX,Goodwin Robert Allen II,Pres Biologics,D - Sale to issuer,$48.29,-6205,31127,-17%,"-$299,655",,,,,OFIX
+163,,2017-08-23 16:56:54,2017-08-21,OFIX,Mason Brad,CEO,S - Sale,$48.10,-2733,188053,-1%,"-$131,457",,,,,OFIX
+164,,2017-08-14 17:03:00,2017-08-10,OFIX,Fujikawa Raymond,Pres Spine Fixation,S - Sale,$47.06,-6364,31084,-17%,"-$299,502",,,,,OFIX
+165,D,2017-07-10 18:04:25,2017-07-03,OFIX,Fujikawa Raymond,Pres Spine Fixation,A - Grant,$0.00,2440,37448,+7%,+$0,,,,,OFIX
+166,D,2017-07-10 18:03:51,2017-07-03,OFIX,Goodwin Robert Allen II,Pres Biologics,A - Grant,$0.00,2440,37332,+7%,+$0,,,,,OFIX
+167,D,2017-07-10 18:03:01,2017-07-03,OFIX,Niemann Bradley V.,Pres Biostim,A - Grant,$0.00,2983,47134,+7%,+$0,,,,,OFIX
+168,D,2017-07-10 18:02:29,2017-07-03,OFIX,Bianchi Davide,Pres Extremity Fixation,A - Grant,$0.00,2983,59603,+5%,+$0,,,,,OFIX
+169,D,2017-07-10 18:02:00,2017-07-03,OFIX,Finegan Michael,Chief Strategy Officer,A - Grant,$0.00,3254,47522,+7%,+$0,,,,,OFIX
+170,D,2017-07-10 18:01:28,2017-07-03,OFIX,Elting Kimberley A.,GC,A - Grant,$0.00,3525,9125,+63%,+$0,,,,,OFIX
+171,D,2017-07-10 18:01:01,2017-07-03,OFIX,Doug Rice,CFO,A - Grant,$0.00,3796,52096,+8%,+$0,,,,,OFIX
+172,D,2017-07-10 18:00:20,2017-07-03,OFIX,Mason Brad,CEO,A - Grant,$0.00,15184,190786,+9%,+$0,,,,,OFIX
+173,,2017-07-10 17:59:23,2017-07-03,OFIX,Marks Lilly,Dir,A - Grant,$0.00,3579,14029,+34%,+$0,,,,,OFIX
+174,,2017-07-10 17:58:23,2017-07-03,OFIX,Sainz Maria,Dir,A - Grant,$0.00,3579,28812,+14%,+$0,,,,,OFIX
+175,,2017-07-10 17:57:19,2017-07-03,OFIX,Faulstick Luke T,Dir,A - Grant,$0.00,3579,12529,+40%,+$0,,,,,OFIX
+176,,2017-07-10 17:56:29,2017-07-03,OFIX,Lukianov Alexis V,Dir,A - Grant,$0.00,3579,3579,New,+$0,,,,,OFIX
+177,,2017-07-10 17:55:31,2017-07-03,OFIX,Paolucci Michael E,Dir,A - Grant,$0.00,3579,7529,+91%,+$0,,,,,OFIX
+178,,2017-07-10 17:54:31,2017-07-03,OFIX,Hinrichs James F.,Dir,A - Grant,$0.00,3579,29638,+14%,+$0,,,,,OFIX
+179,,2017-07-10 17:53:21,2017-07-03,OFIX,Matricaria Ronald A,Dir,A - Grant,$0.00,6508,90394,+8%,+$0,,,,,OFIX
+180,D,2017-06-27 18:40:57,2017-06-26,OFIX,Finegan Michael,Chief Strategy Officer,F - Tax,$46.32,-21961,45614,-32%,"-$1,017,234",,,,,OFIX
+181,D,2017-06-27 18:40:57,2017-06-26,OFIX,Finegan Michael,Chief Strategy Officer,M - OptEx,$44.97,22300,45614,+96%,"+$1,002,831",,,,,OFIX
+182,D,2017-06-27 18:40:07,2017-06-26,OFIX,Mason Brad,CEO,F - Tax,$46.32,-6555,180867,-3%,"-$303,628",,,,,OFIX
+183,D,2017-06-27 18:40:07,2017-06-26,OFIX,Mason Brad,CEO,M - OptEx,$44.97,6667,180867,+4%,"+$299,815",,,,,OFIX
+184,M,2016-11-10 17:01:21,2016-11-08,OFIX,Mason Brad,CEO,S - Sale,$36.83,-9538,146681,-6%,"-$351,267",0.0,0.0,6.0,13.0,OFIX
+185,,2016-11-07 16:53:31,2016-11-04,OFIX,Niemann Bradley V.,Pres Biostim,A - Grant,$0.00,9820,39534,+33%,+$0,0.0,0.0,5.0,12.0,OFIX
+186,D,2016-09-28 16:50:05,2016-09-26,OFIX,Elting Kimberley A.,GC,A - Grant,$0.00,5600,5600,New,+$0,-2.0,-4.0,-12.0,-10.0,OFIX
+187,D,2016-09-02 16:25:40,2016-09-01,OFIX,Finegan Michael,Chief Strategy Officer,M - OptEx,$24.66,25000,41670,+150%,"+$616,600",-1.0,-3.0,-7.0,-22.0,OFIX
+188,D,2016-09-02 16:25:40,2016-09-01,OFIX,Finegan Michael,Chief Strategy Officer,S - Sale+OE,$45.16,-25000,41670,-37%,"-$1,129,000",-1.0,-3.0,-7.0,-22.0,OFIX
+189,D,2016-07-06 18:58:35,2016-07-01,OFIX,Fujikawa Raymond,Pres Spine Fixation,A - Grant,$0.00,2659,27826,+11%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+190,D,2016-07-06 18:57:22,2016-07-01,OFIX,Goodwin Robert Allen II,Pres Biologics,A - Grant,$0.00,2659,30128,+10%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+191,D,2016-07-06 18:55:42,2016-07-01,OFIX,Niemann Bradley V.,Pres Biostim,A - Grant,$0.00,3249,30601,+12%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+192,D,2016-07-06 18:53:39,2016-07-01,OFIX,Bianchi Davide,"Pres, Extremity Fixation",A - Grant,$0.00,3249,41936,+8%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+193,D,2016-07-06 18:52:22,2016-07-01,OFIX,Finegan Michael,Chief Strategy Officer,A - Grant,$0.00,3537,41670,+9%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+194,D,2016-07-06 18:50:44,2016-07-01,OFIX,Doug Rice,CFO,A - Grant,$0.00,3841,36686,+12%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+195,D,2016-07-06 18:49:19,2016-07-01,OFIX,Mason Brad,CEO,A - Grant,$0.00,17707,156219,+13%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+196,,2016-07-06 18:47:53,2016-07-01,OFIX,Hinrichs James F.,Dir,A - Grant,$0.00,3950,25450,+18%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+197,,2016-07-06 18:46:32,2016-07-01,OFIX,Martin Anthony Francis,Dir,A - Grant,$0.00,3950,15450,+34%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+198,,2016-07-06 18:44:51,2016-07-01,OFIX,Paolucci Michael E,Dir,A - Grant,$0.00,3950,4950,+395%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+199,,2016-07-06 18:43:20,2016-07-01,OFIX,Faulstick Luke T,Dir,A - Grant,$0.00,3950,8950,+79%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+200,,2016-07-06 18:41:27,2016-07-01,OFIX,Sainz Maria,Dir,A - Grant,$0.00,3950,24778,+19%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+201,,2016-07-06 18:38:00,2016-07-01,OFIX,Marks Lilly,Dir,A - Grant,$0.00,3950,10450,+61%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+202,,2016-07-06 18:36:22,2016-07-01,OFIX,Guy Jordan J,Dir,A - Grant,$0.00,3950,19720,+25%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+203,,2016-07-06 18:34:14,2016-07-01,OFIX,Matricaria Ronald A,Dir,A - Grant,$0.00,7200,82667,+10%,+$0,1.0,5.0,-7.0,-22.0,OFIX
+204,,2016-06-13 18:14:57,2016-06-10,OFIX,Sainz Maria,Dir,S - Sale,$46.33,-4157,20828,-17%,"-$192,590",0.0,-3.0,3.0,-15.0,OFIX
+205,D,2016-06-10 17:40:10,2016-06-09,OFIX,Mason Brad,CEO,M - OptEx,$38.11,20000,141920,+16%,"+$762,200",-1.0,-2.0,2.0,-17.0,OFIX
+206,D,2016-06-10 17:40:10,2016-06-09,OFIX,Mason Brad,CEO,S - Sale+OE,$46.00,-18336,141920,-11%,"-$843,456",-1.0,-2.0,2.0,-17.0,OFIX
+207,AD,2016-06-09 20:59:17,2016-06-08,OFIX,Niemann Bradley V.,Pres Biostim,M - OptEx,$36.25,2775,28275,+11%,"+$100,594",-2.0,-4.0,-1.0,-19.0,OFIX
+208,AD,2016-06-09 20:59:17,2016-06-08,OFIX,Niemann Bradley V.,Pres Biostim,S - Sale+OE,$44.70,-3402,28275,-11%,"-$152,069",-2.0,-4.0,-1.0,-19.0,OFIX
+209,,2016-06-08 17:20:31,2016-06-08,OFIX,Niemann Bradley V.,Pres Biostim,S - Sale,$44.70,-3402,25500,-12%,"-$152,069",4.0,0.0,0.0,-16.0,OFIX
+210,D,2016-05-20 16:03:18,2016-05-20,OFIX,Goodwin Robert Allen II,Pres Biologics,M - OptEx,$39.11,13187,27920,+90%,"+$515,763",-1.0,0.0,2.0,-17.0,OFIX
+211,D,2016-05-20 16:03:18,2016-05-20,OFIX,Goodwin Robert Allen II,Pres Biologics,S - Sale+OE,$44.00,-13187,27920,-32%,"-$580,228",-1.0,0.0,2.0,-17.0,OFIX
+212,DM,2016-04-18 19:03:00,2016-04-14,OFIX,Finegan Michael,Chief Strategy Officer,M - OptEx,$32.97,78750,38774,-197%,"+$2,596,275",-3.0,0.0,-1.0,-9.0,OFIX
+213,DM,2016-04-18 19:03:00,2016-04-14,OFIX,Finegan Michael,Chief Strategy Officer,S - Sale+OE,$42.71,-80972,38774,-68%,"-$3,458,324",-3.0,0.0,-1.0,-9.0,OFIX
+214,,2015-11-12 08:20:04,2015-11-11,OFIX,Finegan Michael,Chief Strategy Officer,S - Sale,$42.00,-14140,58252,-20%,"-$593,880",-3.0,-5.0,-6.0,5.0,OFIX
+215,,2015-11-06 20:27:35,2015-11-06,OFIX,Schumm Jeffrey,Chief Administrative Officer,S - Sale,$40.67,-15000,68882,-18%,"-$610,022",0.0,-5.0,-5.0,4.0,OFIX
+216,,2015-11-06 20:26:00,2015-11-06,OFIX,Mason Brad,CEO,S - Sale,$40.60,-15018,140256,-10%,"-$609,779",0.0,-5.0,-5.0,4.0,OFIX
+217,,2015-07-01 18:56:44,2015-06-30,OFIX,Marks Lilly,Dir,A - Grant,$0.00,6500,6500,New,+$0,1.0,-3.0,2.0,21.0,OFIX
+218,,2015-07-01 18:56:05,2015-06-30,OFIX,Sainz Maria,Dir,A - Grant,$0.00,5000,23229,+27%,+$0,1.0,-3.0,2.0,21.0,OFIX
+219,,2015-07-01 18:55:21,2015-06-30,OFIX,Faulstick Luke T,Dir,A - Grant,$0.00,5000,5000,New,+$0,1.0,-3.0,2.0,21.0,OFIX
+220,,2015-07-01 18:54:41,2015-06-30,OFIX,Martin Anthony Francis,Dir,A - Grant,$0.00,5000,11500,+77%,+$0,1.0,-3.0,2.0,21.0,OFIX
+221,,2015-07-01 18:53:31,2015-06-30,OFIX,Hinrichs James F.,Dir,A - Grant,$0.00,5000,21500,+30%,+$0,1.0,-3.0,2.0,21.0,OFIX
+222,,2015-07-01 18:52:41,2015-06-30,OFIX,Guy Jordan J,Dir,A - Grant,$0.00,5000,21933,+30%,+$0,1.0,-3.0,2.0,21.0,OFIX
+223,,2015-07-01 18:51:59,2015-06-30,OFIX,Matricaria Ronald A,Dir,A - Grant,$0.00,8000,74000,+12%,+$0,1.0,-3.0,2.0,21.0,OFIX
+224,D,2015-07-01 18:37:42,2015-06-30,OFIX,Bianchi Davide,"Pres, Extremity Fixation",A - Grant,$0.00,12150,35590,+52%,+$0,1.0,-3.0,2.0,21.0,OFIX
+225,D,2015-07-01 18:37:00,2015-06-30,OFIX,Finegan Michael,Chief Strategy Officer,A - Grant,$0.00,12150,72392,+20%,+$0,1.0,-3.0,2.0,21.0,OFIX
+226,D,2015-07-01 18:36:08,2015-06-30,OFIX,Doug Rice,CFO,A - Grant,$0.00,13275,31525,+73%,+$0,1.0,-3.0,2.0,21.0,OFIX
+227,D,2015-07-01 18:35:29,2015-06-30,OFIX,Schumm Jeffrey,Chief Administrative Officer,A - Grant,$0.00,15450,83882,+23%,+$0,1.0,-3.0,2.0,21.0,OFIX
+228,D,2015-07-01 18:33:43,2015-06-30,OFIX,Mason Brad,CEO,A - Grant,$0.00,50100,155274,+48%,+$0,1.0,-3.0,2.0,21.0,OFIX
+229,M,2015-06-02 17:08:31,2015-06-01,OFIX,Matricaria Ronald A,Dir,P - Purchase,$32.65,50000,66000,+313%,"+$1,632,522",4.0,2.0,0.0,23.0,OFIX
+230,,2015-05-22 13:36:05,2015-05-21,OFIX,Hinrichs James F.,Dir,P - Purchase,$33.17,10000,16500,+154%,"+$331,694",1.0,-3.0,3.0,15.0,OFIX
+231,,2015-05-22 13:35:20,2015-05-21,OFIX,Scoon Davey,Dir,S - Sale,$32.38,-5709,10917,-34%,"-$184,857",1.0,-3.0,3.0,15.0,OFIX
+232,D,2015-05-01 12:39:57,2015-04-24,OFIX,Doug Rice,CFO,A - Grant,$0.00,9750,18250,+115%,+$0,3.0,-1.0,1.0,9.0,OFIX
+233,,2015-03-17 16:42:17,2015-03-11,OFIX,Schumm Jeffrey,Chief Administrative Officer,A - Grant,$0.00,13000,68432,+23%,+$0,-1.0,-1.0,17.0,13.0,OFIX
+234,,2014-10-06 18:18:44,2014-10-03,OFIX,Doug Rice,Interim CFO,A - Grant,$0.00,6000,8500,+240%,+$0,-1.0,-7.0,-6.0,20.0,OFIX
+235,D,2014-09-08 18:16:40,2014-09-04,OFIX,Doug Rice,Chief Accounting Officer,A - Grant,$0.00,2500,2500,New,+$0,-1.0,1.0,-4.0,3.0,OFIX
+236,A,2014-07-08 09:52:38,2014-06-30,OFIX,Sainz Maria,Dir,A - Grant,$0.00,6500,15400,+73%,+$0,-3.0,-6.0,-7.0,-19.0,OFIX
+237,A,2014-07-08 09:49:41,2014-06-30,OFIX,Scoon Davey,Dir,A - Grant,$0.00,6500,16626,+64%,+$0,-3.0,-6.0,-7.0,-19.0,OFIX
+238,A,2014-07-08 09:45:45,2014-06-30,OFIX,Regan Kathleen T,Dir,A - Grant,$0.00,7500,8450,+789%,+$0,-3.0,-6.0,-7.0,-19.0,OFIX
+239,A,2014-07-08 09:42:56,2014-06-30,OFIX,Martin Anthony Francis,Dir,A - Grant,$0.00,6500,6500,New,+$0,-3.0,-6.0,-7.0,-19.0,OFIX
+240,A,2014-07-08 09:39:32,2014-06-30,OFIX,Hinrichs James F.,Dir,A - Grant,$0.00,6500,6500,New,+$0,-3.0,-6.0,-7.0,-19.0,OFIX
+241,A,2014-07-08 09:35:23,2014-06-30,OFIX,Matricaria Ronald A,Dir,A - Grant,$0.00,8000,16000,+100%,+$0,-3.0,-6.0,-7.0,-19.0,OFIX
+242,A,2014-07-08 09:32:56,2014-06-30,OFIX,Guy Jordan J,Dir,A - Grant,$0.00,6500,15223,+75%,+$0,-3.0,-6.0,-7.0,-19.0,OFIX
+243,A,2014-07-08 09:29:18,2014-06-30,OFIX,Matricaria Ronald A,Dir,A - Grant,$0.00,8000,16000,+100%,+$0,-3.0,-6.0,-7.0,-19.0,OFIX
+244,D,2014-07-02 10:59:29,2014-06-30,OFIX,Finegan Michael,Chief Strategy Officer,A - Grant,$0.00,11100,60242,+23%,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+245,D,2014-07-02 10:53:42,2014-06-30,OFIX,Bianchi Davide,"Pres, Extremity Fixation",A - Grant,$0.00,11100,20350,+120%,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+246,D,2014-07-02 10:43:34,2014-06-30,OFIX,Schumm Jeffrey,Chief Administrative Officer,A - Grant,$0.00,15450,55432,+39%,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+247,D,2014-07-02 10:37:59,2014-06-30,OFIX,Heggestad Mark A,CFO,A - Grant,$0.00,12600,59296,+27%,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+248,D,2014-07-02 10:31:20,2014-06-30,OFIX,Mason Brad,CEO,A - Grant,$0.00,47300,97300,+95%,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+249,,2014-07-02 10:13:43,2014-06-30,OFIX,Sainz Maria,Dir,A - Grant,$0.00,6500,15400,+73%,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+250,,2014-07-02 10:10:21,2014-06-30,OFIX,Scoon Davey,Dir,A - Grant,$0.00,6500,16626,+64%,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+251,,2014-07-02 10:03:00,2014-06-30,OFIX,Regan Kathleen T,Dir,A - Grant,$0.00,7500,8450,+789%,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+252,,2014-07-02 10:00:04,2014-06-30,OFIX,Martin Anthony Francis,Dir,A - Grant,$0.00,6500,6500,New,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+253,,2014-07-02 09:55:29,2014-06-30,OFIX,Hinrichs James F.,Dir,A - Grant,$0.00,6500,6500,New,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+254,,2014-07-02 09:44:51,2014-06-30,OFIX,Guy Jordan J,Dir,A - Grant,$0.00,6500,15223,+75%,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+255,,2014-07-02 09:39:24,2014-06-30,OFIX,Matricaria Ronald A,Dir,A - Grant,$0.00,8000,16000,+100%,+$0,0.0,-3.0,-10.0,-16.0,OFIX
+256,,2014-06-12 12:08:26,2014-06-10,OFIX,Heggestad Mark A,CFO,P - Purchase,$33.25,13696,46696,+42%,"+$455,454",2.0,5.0,4.0,-7.0,OFIX
+257,D,2014-03-31 17:20:30,2014-03-20,OFIX,Matricaria Ronald A,Dir,A - Grant,$0.00,8000,8000,New,+$0,6.0,10.0,2.0,2.0,OFIX
+258,,2014-03-03 21:40:18,2014-02-27,OFIX,Sainz Maria,Dir,A - Grant,$0.00,1900,1900,New,+$0,3.0,3.0,35.0,49.0,OFIX
+259,,2014-03-03 21:37:51,2014-02-27,OFIX,Weisshaar Kenneth R,Dir,A - Grant,$0.00,1900,1900,New,+$0,3.0,3.0,35.0,49.0,OFIX
+260,,2014-03-03 21:32:49,2014-02-27,OFIX,Scoon Davey,Dir,A - Grant,$0.00,2500,2500,New,+$0,3.0,3.0,35.0,49.0,OFIX
+261,,2014-03-03 21:29:04,2014-02-27,OFIX,Regan Kathleen T,Dir,A - Grant,$0.00,950,950,New,+$0,3.0,3.0,35.0,49.0,OFIX
+262,,2014-03-03 19:27:25,2014-02-27,OFIX,Mason Brad,CEO,A - Grant,$0.00,35000,35000,New,+$0,3.0,3.0,35.0,49.0,OFIX
+263,,2013-09-30 21:54:00,2013-09-26,OFIX,Jordan Guy J,Dir,A - Grant,$0.00,3500,8723,+67%,+$0,1.0,-1.0,1.0,44.0,OFIX
+264,,2013-09-30 21:48:57,2013-09-26,OFIX,Scoon Davey,Dir,A - Grant,$0.00,3500,7626,+85%,+$0,1.0,-1.0,1.0,44.0,OFIX
+265,D,2013-09-30 13:51:54,2013-09-26,OFIX,Bianchi Davide,"Pres, Int'l Extremity Fixation",A - Grant,$0.00,6750,9250,+270%,+$0,-4.0,-4.0,-2.0,40.0,OFIX
+266,D,2013-09-27 18:25:28,2013-09-26,OFIX,Finegan Michael,Chief Strategy Officer,A - Grant,$0.00,18750,45610,+70%,+$0,-4.0,-4.0,-3.0,40.0,OFIX
+267,,2013-09-27 18:13:16,2013-09-26,OFIX,Von Wartburg Walter P,Dir,A - Grant,$0.00,3500,7000,+100%,+$0,-4.0,-4.0,-3.0,40.0,OFIX
+268,,2013-09-27 17:28:26,2013-09-26,OFIX,Gero James,Dir,A - Grant,$0.00,3500,160130,+2%,+$0,-4.0,-4.0,-3.0,40.0,OFIX
+269,D,2013-09-27 17:12:43,2013-09-26,OFIX,Buxton Emily,CFO,A - Grant,$0.00,18750,24789,+310%,+$0,-4.0,-4.0,-3.0,40.0,OFIX
+270,,2013-09-27 16:58:49,2013-09-26,OFIX,Weisshaar Kenneth R,Dir,A - Grant,$0.00,3500,10573,+49%,+$0,-4.0,-4.0,-3.0,40.0,OFIX
+271,D,2013-09-27 15:50:18,2013-09-26,OFIX,Schumm Jeffrey,Chief Administrative Officer,A - Grant,$0.00,18750,39982,+88%,+$0,-1.0,-5.0,-4.0,39.0,OFIX
+272,,2013-09-27 15:17:22,2013-09-26,OFIX,Sainz Maria,Dir,A - Grant,$0.00,3500,7000,+100%,+$0,-1.0,-5.0,-4.0,39.0,OFIX
+273,,2013-05-20 15:20:36,2013-05-17,OFIX,Mason Brad,"Pres, CEO",P - Purchase,$26.45,5000,15000,+50%,"+$132,258",0.0,0.0,9.0,-19.0,OFIX
+274,,2013-05-20 15:15:25,2013-05-20,OFIX,Buxton Emily,CFO,P - Purchase,$26.52,750,6039,+14%,"+$19,890",0.0,0.0,9.0,-19.0,OFIX
+275,,2013-05-20 15:09:37,2013-05-17,OFIX,Weisshaar Kenneth R,Dir,P - Purchase,$26.40,1000,7073,+16%,"+$26,396",0.0,0.0,9.0,-19.0,OFIX
+276,,2013-05-15 14:46:46,2013-05-14,OFIX,Mainelli Michael,Dir,P - Purchase,$26.36,500,6419,+8%,"+$13,179",0.0,2.0,7.0,-20.0,OFIX
+277,,2013-05-15 14:40:30,2013-05-14,OFIX,Gero James,Dir,P - Purchase,$26.37,20000,156630,+15%,"+$527,444",0.0,2.0,7.0,-20.0,OFIX
+278,D,2013-04-10 16:17:34,2013-04-01,OFIX,Buxton Emily,CFO,A - Grant,$0.00,2500,5289,+90%,+$0,0.0,-5.0,-10.0,-44.0,OFIX
+279,D,2013-03-15 14:17:38,2013-03-13,OFIX,Mason Brad,"Pres, CEO",A - Grant,$0.00,10000,10000,New,+$0,0.0,0.0,-9.0,-37.0,OFIX
+280,,2013-02-27 14:01:33,2013-02-27,OFIX,Vaters Robert S,"Pres, CEO",P - Purchase,$35.97,3000,65616,+5%,"+$107,910",1.0,6.0,1.0,-38.0,OFIX
+281,,2012-11-28 14:48:11,2012-11-27,OFIX,Sainz Maria,Dir,A - Grant,$0.00,3500,3500,New,+$0,1.0,0.0,4.0,-28.0,OFIX
+282,DM,2012-08-21 11:51:01,2012-08-17,OFIX,Ferrari Luigi,"Pres, Orthopedics",M - OptEx,$28.07,19270,15833,-561%,"+$540,834",1.0,-1.0,7.0,-11.0,OFIX
+283,DM,2012-08-21 11:51:01,2012-08-17,OFIX,Ferrari Luigi,"Pres, Orthopedics",S - Sale+OE,$41.40,-19270,15833,-55%,"-$797,778",1.0,-1.0,7.0,-11.0,OFIX
+284,DM,2012-08-17 17:59:38,2012-08-15,OFIX,Ferrari Luigi,"Pres, Orthopedics",M - OptEx,$28.51,6085,15833,+62%,"+$173,477",0.0,-2.0,5.0,-6.0,OFIX
+285,DM,2012-08-17 17:59:38,2012-08-15,OFIX,Ferrari Luigi,"Pres, Orthopedics",S - Sale+OE,$41.31,-7757,15833,-33%,"-$320,415",0.0,-2.0,5.0,-6.0,OFIX
+286,D,2012-08-17 17:18:33,2012-08-16,OFIX,Finegan Michael,"Pres, Biologics",M - OptEx,$18.44,3000,23860,+14%,"+$55,320",0.0,-2.0,5.0,-6.0,OFIX
+287,D,2012-08-17 17:18:33,2012-08-16,OFIX,Finegan Michael,"Pres, Biologics",S - Sale+OE,$41.20,-3000,23860,-11%,"-$123,603",0.0,-2.0,5.0,-6.0,OFIX
+288,D,2012-08-16 17:55:56,2012-08-15,OFIX,Finegan Michael,"Pres, Biologics",M - OptEx,$18.44,7000,23860,+42%,"+$129,080",1.0,0.0,5.0,-4.0,OFIX
+289,D,2012-08-16 17:55:56,2012-08-15,OFIX,Finegan Michael,"Pres, Biologics",S - Sale+OE,$41.00,-7000,23860,-23%,"-$287,014",1.0,0.0,5.0,-4.0,OFIX
+290,D,2012-08-15 11:21:41,2012-08-13,OFIX,Ferrari Luigi,"Pres, Orthopedics",M - OptEx,$23.58,1300,19150,+7%,"+$30,654",0.0,1.0,3.0,-6.0,OFIX
+291,D,2012-08-15 11:21:41,2012-08-13,OFIX,Ferrari Luigi,"Pres, Orthopedics",S - Sale+OE,$42.00,-1300,19150,-6%,"-$54,600",0.0,1.0,3.0,-6.0,OFIX
+292,D,2012-08-13 17:08:49,2012-08-10,OFIX,Finegan Michael,"Pres, Biologics",M - OptEx,$18.44,10000,23860,+72%,"+$184,400",-1.0,0.0,2.0,-6.0,OFIX
+293,D,2012-08-13 17:08:49,2012-08-10,OFIX,Finegan Michael,"Pres, Biologics",S - Sale+OE,$41.78,-10000,23860,-30%,"-$417,840",-1.0,0.0,2.0,-6.0,OFIX
+294,D,2012-08-06 14:53:47,2012-08-03,OFIX,Finegan Michael,"Pres, Biologics",M - OptEx,$15.15,11700,23860,+96%,"+$177,255",1.0,0.0,2.0,-9.0,OFIX
+295,D,2012-08-06 14:53:47,2012-08-03,OFIX,Finegan Michael,"Pres, Biologics",S - Sale+OE,$41.84,-11700,23860,-33%,"-$489,481",1.0,0.0,2.0,-9.0,OFIX
+296,,2012-08-06 14:42:35,2012-08-03,OFIX,Ferrari Luigi,"Pres, Orthopedics",S - Sale,$42.50,-329,19250,-2%,"-$13,983",1.0,0.0,2.0,-9.0,OFIX
+297,D,2012-08-03 16:15:49,2012-08-02,OFIX,Finegan Michael,"Pres, Biologics",M - OptEx,$15.15,3300,23860,+16%,"+$49,995",1.0,1.0,1.0,-9.0,OFIX
+298,D,2012-08-03 16:15:49,2012-08-02,OFIX,Finegan Michael,"Pres, Biologics",S - Sale+OE,$41.02,-3300,23860,-12%,"-$135,359",1.0,1.0,1.0,-9.0,OFIX
+299,,2012-08-01 19:23:58,2012-07-31,OFIX,Scoon Davey,Dir,A - Grant,$0.00,3500,3500,New,+$0,-1.0,2.0,2.0,-7.0,OFIX
+300,,2012-08-01 19:16:18,2012-07-31,OFIX,Von Wartburg Walter P,Dir,A - Grant,$0.00,3500,3500,New,+$0,-1.0,2.0,2.0,-7.0,OFIX
+301,,2012-08-01 19:10:21,2012-07-31,OFIX,Mainelli Michael,Dir,A - Grant,$0.00,3500,5419,+182%,+$0,-1.0,2.0,2.0,-7.0,OFIX
+302,,2012-08-01 19:00:48,2012-07-31,OFIX,Weisshaar Kenneth R,Dir,A - Grant,$0.00,3500,5531,+172%,+$0,-1.0,2.0,2.0,-7.0,OFIX
+303,,2012-08-01 18:56:21,2012-07-31,OFIX,Jordan Guy J,Dir,A - Grant,$0.00,3500,4756,+279%,+$0,-1.0,2.0,2.0,-7.0,OFIX
+304,,2012-08-01 18:43:56,2012-07-31,OFIX,Gero James,Dir,A - Grant,$0.00,3500,134794,+3%,+$0,-1.0,2.0,2.0,-7.0,OFIX
+305,,2012-08-01 18:27:28,2012-07-31,OFIX,Ferrari Luigi,"Pres, Orthopedics",A - Grant,$0.00,10500,19579,+116%,+$0,-1.0,2.0,2.0,-7.0,OFIX
+306,,2012-08-01 18:21:59,2012-07-31,OFIX,Schumm Jeffrey,"SVP, GC",A - Grant,$0.00,13500,21232,+175%,+$0,-1.0,2.0,2.0,-7.0,OFIX
+307,,2012-08-01 18:08:29,2012-07-31,OFIX,McMillan Bryan,"Pres, Spine GBU",A - Grant,$0.00,13500,13500,New,+$0,-1.0,2.0,2.0,-7.0,OFIX
+308,,2012-08-01 17:52:17,2012-07-31,OFIX,Finegan Michael,"Pres, Biologics",A - Grant,$0.00,15000,23860,+169%,+$0,-1.0,2.0,2.0,-7.0,OFIX
+309,,2012-08-01 17:29:39,2012-07-31,OFIX,McCollum Brian,CFO,A - Grant,$0.00,17500,27510,+175%,+$0,-1.0,2.0,2.0,-7.0,OFIX
+310,,2012-08-01 17:10:53,2012-07-31,OFIX,Trelles Vicente,"SVP, Worldwide Operations",A - Grant,$0.00,15000,15000,New,+$0,-1.0,2.0,2.0,-7.0,OFIX
+311,,2012-08-01 16:33:52,2012-07-31,OFIX,Vaters Robert S,"Pres, CEO",A - Grant,$0.00,40000,64367,+164%,+$0,-1.0,2.0,2.0,-7.0,OFIX
+312,D,2012-05-07 14:58:37,2012-05-03,OFIX,Lee Brad,"Pres, Sports Medicine GBU",M - OptEx,$28.27,20617,6481,-146%,"+$582,809",1.0,-2.0,-9.0,-1.0,OFIX
+313,D,2012-05-07 14:58:37,2012-05-03,OFIX,Lee Brad,"Pres, Sports Medicine GBU",S - Sale+OE,$40.45,-20617,6481,-76%,"-$833,999",1.0,-2.0,-9.0,-1.0,OFIX
+314,D,2012-05-04 13:27:08,2012-05-02,OFIX,Lee Brad,"Pres, Sports Medicine GBU",M - OptEx,$24.60,14050,6481,-186%,"+$345,599",-1.0,-2.0,-10.0,-3.0,OFIX
+315,D,2012-05-04 13:27:08,2012-05-02,OFIX,Lee Brad,"Pres, Sports Medicine GBU",S - Sale+OE,$40.69,-14811,6481,-70%,"-$602,599",-1.0,-2.0,-10.0,-3.0,OFIX
+316,D,2011-12-08 16:21:23,2011-12-06,OFIX,Ferrari Luigi,"Pres,Orthopedics",M - OptEx,$28.95,481,481,New,"+$13,925",5.0,-3.0,4.0,13.0,OFIX
+317,D,2011-12-02 16:18:21,2011-11-30,OFIX,Ferrari Luigi,"Pres,Orthopedics",M - OptEx,$25.41,21239,0,-100%,"+$539,667",7.0,2.0,10.0,14.0,OFIX
+318,D,2011-12-02 16:18:21,2011-11-30,OFIX,Ferrari Luigi,"Pres,Orthopedics",S - Sale+OE,$34.25,-21239,0,-100%,"-$727,436",7.0,2.0,10.0,14.0,OFIX
+319,,2011-02-24 11:27:24,2011-02-23,OFIX,Ferrari Luigi,"Pres, Orthopedics",S - Sale,$31.00,-1741,8000,-18%,"-$53,971",1.0,3.0,4.0,16.0,OFIX
+320,D,2011-02-17 17:44:16,2011-02-15,OFIX,McCollum Brian,Interim CFO,A - Grant,$0.00,8000,9892,+423%,+$0,-2.0,-1.0,2.0,22.0,OFIX
+321,D,2011-02-17 17:34:41,2011-02-15,OFIX,Finegan Michael,VP-Corporate Development,A - Grant,$0.00,10000,10000,New,+$0,-2.0,-1.0,2.0,22.0,OFIX
+322,D,2011-02-17 17:04:34,2011-02-15,OFIX,Ferrari Luigi,"Pres, Orthopedics",A - Grant,$0.00,8000,8000,New,+$0,-2.0,-1.0,2.0,22.0,OFIX
+323,D,2011-02-17 16:48:39,2011-02-15,OFIX,Milinazzo Alan,"Pres, CEO",A - Grant,$0.00,20000,48341,+71%,+$0,-2.0,-1.0,2.0,22.0,OFIX
+324,D,2011-02-17 16:31:47,2011-02-15,OFIX,Vaters Robert S,"EVP, COO",A - Grant,$0.00,17000,17000,New,+$0,-2.0,-1.0,2.0,22.0,OFIX
+325,D,2011-02-17 15:08:55,2011-02-15,OFIX,Lee Brad,"Pres, Sports Medicine",A - Grant,$29.23,8000,9137,+704%,"+$233,840",2.0,2.0,4.0,24.0,OFIX
+326,,2010-11-24 11:41:17,2010-11-22,OFIX,Mainelli Michael,Dir,P - Purchase,$26.73,500,500,New,"+$13,365",0.0,3.0,6.0,49.0,OFIX
+327,,2010-11-09 16:51:40,2010-11-08,OFIX,Milinazzo Alan,"Pres, CEO",P - Purchase,$26.59,1100,28341,+4%,"+$29,249",3.0,5.0,1.0,38.0,OFIX
+328,,2010-09-01 11:20:41,2010-08-31,OFIX,Sainz Maria,Dir,P - Purchase,$26.82,1000,1000,New,"+$26,815",3.0,8.0,18.0,18.0,OFIX
+329,D,2010-05-19 13:22:01,2010-03-03,OFIX,Ferrari Luigi,"Pres, Int'l Fixation",M - OptEx,$17.00,1497,0,-100%,"+$25,449",-1.0,-8.0,-5.0,-15.0,OFIX
+330,D,2010-05-19 13:22:01,2010-05-17,OFIX,Ferrari Luigi,"Pres, Int'l Fixation",S - Sale+OE,$34.39,-1497,0,-100%,"-$51,482",-1.0,-8.0,-5.0,-15.0,OFIX
+331,D,2010-03-12 09:47:31,2010-03-11,OFIX,Brown Eric,"Pres, Spinal Stimulation",M - OptEx,$13.45,6667,6522,-4598%,"+$89,671",-1.0,0.0,7.0,-18.0,OFIX
+332,D,2010-03-12 09:47:31,2010-03-11,OFIX,Brown Eric,"Pres, Spinal Stimulation",S - Sale+OE,$35.50,-6667,6522,-51%,"-$236,679",-1.0,0.0,7.0,-18.0,OFIX
+333,,2010-03-12 09:23:49,2010-03-10,OFIX,Lee Brad,"Pres, Breg, Inc.",S - Sale,$35.35,-2037,1137,-64%,"-$72,014",-1.0,0.0,7.0,-18.0,OFIX
+334,D,2010-03-11 17:01:55,2010-03-10,OFIX,Brown Eric,"Pres, Spinal Stimulation",M - OptEx,$25.09,8001,6522,-541%,"+$200,739",-1.0,1.0,7.0,-19.0,OFIX
+335,D,2010-03-11 17:01:55,2010-03-10,OFIX,Brown Eric,"Pres, Spinal Stimulation",S - Sale+OE,$35.42,-10803,6522,-62%,"-$382,690",-1.0,1.0,7.0,-19.0,OFIX
+336,,2010-03-11 14:59:12,2010-03-10,OFIX,Ferrari Luigi,"Pres,Int'l Fixation",S - Sale,$35.44,-955,0,-100%,"-$33,845",1.0,2.0,9.0,-18.0,OFIX
+337,,2008-12-02 12:00:38,2008-12-01,OFIX,Vaters Robert S,"EVP, CFO",P - Purchase,$10.94,9100,9100,New,"+$99,582",11.0,41.0,47.0,148.0,OFIX
+338,,2008-11-12 14:04:00,2008-11-11,OFIX,Gero James,COB,P - Purchase,$12.99,20000,122504,+20%,"+$259,764",-6.0,-5.0,15.0,78.0,OFIX
+339,,2008-08-20 09:39:35,2008-08-18,OFIX,Mason Bradley R,"Global Pres,North America",P - Purchase,$22.87,10000,85000,+13%,"+$228,700",1.0,5.0,-6.0,-19.0,OFIX
+340,,2008-08-19 10:01:24,2008-08-15,OFIX,Milinazzo Alan,"Pres, CEO",P - Purchase,$22.61,7625,25625,+42%,"+$172,401",2.0,5.0,-6.0,-22.0,OFIX
+341,,2008-05-13 12:38:15,2008-05-09,OFIX,Milinazzo Alan,"Pres, CEO",P - Purchase,$33.99,4600,31800,+17%,"+$156,350",2.0,-5.0,-7.0,-63.0,OFIX
+342,,2008-05-12 18:12:08,2008-05-09,OFIX,Kester Thomas J,Dir,P - Purchase,$33.11,2000,4000,+100%,"+$66,212",2.0,-3.0,-6.0,-69.0,OFIX
+343,,2008-05-08 17:37:36,2008-05-06,OFIX,Milinazzo Alan,"Pres, CEO",P - Purchase,$35.83,600,26600,+2%,"+$21,500",-12.0,-6.0,-13.0,-67.0,OFIX
+344,M,2008-05-08 17:15:48,2008-05-06,OFIX,Gero James,COB,P - Purchase,$36.90,15000,102504,+17%,"+$553,525",-12.0,-6.0,-13.0,-67.0,OFIX
+345,M,2008-05-07 19:04:53,2008-05-06,OFIX,Kolls Raymond C,"SVP, GC",P - Purchase,$37.14,1980,3180,+165%,"+$73,528",2.0,-5.0,-9.0,-65.0,OFIX
+346,,2007-11-13 15:56:10,2007-11-09,OFIX,Mason Bradley R,"Pres, Breg",S - Sale,$57.11,-25000,79773,-24%,"-$1,427,630",4.0,1.0,2.0,-38.0,OFIX
+347,D,2007-11-05 18:42:03,2007-11-05,OFIX,Hewett Peter J,Dir,M - OptEx,$10.63,5275,59800,+10%,"+$56,047",3.0,8.0,9.0,-30.0,OFIX
+348,D,2007-11-05 18:42:03,2007-11-05,OFIX,Hewett Peter J,Dir,S - Sale+OE,$52.36,-2875,59800,-5%,"-$150,540",3.0,8.0,9.0,-30.0,OFIX
+349,D,2007-10-31 16:20:06,2007-10-29,OFIX,Hewett Peter J,Dir,M - OptEx,$10.63,10550,57400,+23%,"+$112,094",-4.0,1.0,8.0,-36.0,OFIX
+350,D,2007-10-31 16:20:06,2007-10-29,OFIX,Hewett Peter J,Dir,S - Sale+OE,$53.08,-5750,57400,-9%,"-$305,218",-4.0,1.0,8.0,-36.0,OFIX
+351,D,2007-10-22 17:42:32,2007-10-22,OFIX,Hewett Peter J,Dir,M - OptEx,$10.63,10550,52600,+25%,"+$112,094",0.0,2.0,12.0,-44.0,OFIX
+352,D,2007-10-22 17:42:32,2007-10-22,OFIX,Hewett Peter J,Dir,S - Sale+OE,$51.55,-5750,52600,-10%,"-$296,425",0.0,2.0,12.0,-44.0,OFIX
+353,D,2007-10-16 18:37:04,2007-10-15,OFIX,Hewett Peter J,Dir,M - OptEx,$10.63,10550,47800,+28%,"+$112,094",2.0,2.0,18.0,-42.0,OFIX
+354,D,2007-10-16 18:37:04,2007-10-15,OFIX,Hewett Peter J,Dir,S - Sale+OE,$50.35,-5750,47800,-11%,"-$289,507",2.0,2.0,18.0,-42.0,OFIX
+355,D,2007-10-10 11:32:15,2007-10-08,OFIX,Hewett Peter J,Dir,M - OptEx,$10.63,10550,43000,+33%,"+$112,094",0.0,-1.0,12.0,-37.0,OFIX
+356,D,2007-10-10 11:32:15,2007-10-08,OFIX,Hewett Peter J,Dir,S - Sale+OE,$49.91,-5750,43000,-12%,"-$286,988",0.0,-1.0,12.0,-37.0,OFIX
+357,D,2007-10-01 17:28:36,2007-10-01,OFIX,Hewett Peter J,Dir,M - OptEx,$10.63,5275,38200,+16%,"+$56,047",2.0,2.0,7.0,-21.0,OFIX
+358,D,2007-10-01 17:28:36,2007-10-01,OFIX,Hewett Peter J,Dir,S - Sale+OE,$48.37,-2875,38200,-7%,"-$139,059",2.0,2.0,7.0,-21.0,OFIX
+359,D,2007-09-25 18:34:57,2007-09-24,OFIX,Hewett Peter J,Dir,M - OptEx,$10.63,5275,35800,+17%,"+$56,047",2.0,7.0,12.0,-11.0,OFIX
+360,D,2007-09-25 18:34:57,2007-09-24,OFIX,Hewett Peter J,Dir,S - Sale+OE,$46.70,-2875,35800,-7%,"-$134,262",2.0,7.0,12.0,-11.0,OFIX
+361,AD,2007-09-25 11:48:25,2007-09-17,OFIX,Hewett Peter J,Dir,M - OptEx,$10.63,2400,33400,+8%,"+$25,500",0.0,7.0,11.0,-12.0,OFIX
+362,D,2007-09-19 11:47:16,2007-09-17,OFIX,Hewett Peter J,Dir,M - OptEx,$10.63,2875,31000,+10%,"+$30,547",4.0,1.0,12.0,-12.0,OFIX
+363,D,2007-09-19 11:47:16,2007-09-17,OFIX,Hewett Peter J,Dir,S - Sale+OE,$45.49,-2875,31000,-8%,"-$130,792",4.0,1.0,12.0,-12.0,OFIX
+364,D,2007-09-13 11:27:43,2007-09-11,OFIX,Hein Thomas M,CFO,M - OptEx,$25.00,7500,3641,-194%,"+$187,500",-3.0,1.0,8.0,-14.0,OFIX
+365,D,2007-09-13 11:27:43,2007-09-11,OFIX,Hein Thomas M,CFO,S - Sale+OE,$47.19,-7500,3641,-67%,"-$353,927",-3.0,1.0,8.0,-14.0,OFIX
+366,D,2007-08-21 18:06:13,2007-08-20,OFIX,Hein Thomas M,CFO,M - OptEx,$16.63,15000,3641,-132%,"+$249,375",0.0,1.0,0.0,9.0,OFIX
+367,D,2007-08-21 18:06:13,2007-08-20,OFIX,Hein Thomas M,CFO,S - Sale+OE,$47.28,-15000,3641,-80%,"-$709,176",0.0,1.0,0.0,9.0,OFIX
+368,M,2007-06-15 15:32:28,2006-09-15,OFIX,Gaines Cooper Robert,"Dir, 10%",S - Sale,$46.94,-81700,1444000,-5%,"-$3,835,000",1.0,-1.0,4.0,29.0,OFIX
+369,M,2007-05-31 16:43:13,2007-05-29,OFIX,Mason Bradley R,"Pres, Breg",S - Sale,$47.39,-22674,103080,-18%,"-$1,074,484",0.0,-2.0,-3.0,24.0,OFIX
+370,,2007-05-23 11:08:33,2007-05-22,OFIX,Mason Bradley R,"Pres, Breg",S - Sale,$46.41,-20000,125754,-14%,"-$928,250",2.0,0.0,-4.0,24.0,OFIX
+371,,2007-05-21 15:06:30,2007-05-17,OFIX,Mason Bradley R,"Pres, Breg",S - Sale,$46.37,-10000,145754,-6%,"-$463,673",-1.0,2.0,-1.0,26.0,OFIX
+372,,2007-05-16 18:06:43,2007-05-14,OFIX,Mason Bradley R,"Pres, Breg",S - Sale,$47.29,-5000,465104,-1%,"-$236,426",-1.0,0.0,-3.0,23.0,OFIX
+373,,2007-05-16 16:40:49,2007-05-14,OFIX,Kester Thomas J,Dir,P - Purchase,$47.34,1000,2000,+100%,"+$47,340",-1.0,0.0,-3.0,23.0,OFIX
+374,,2007-05-14 11:43:53,2007-05-11,OFIX,Gero James,COB,P - Purchase,$47.29,10000,85572,+13%,"+$472,930",0.0,-2.0,-4.0,21.0,OFIX
+375,,2007-04-20 11:49:25,2007-04-18,OFIX,Gaines Cooper Robert,10%,S - Sale,$50.74,-9500,1446200,-1%,"-$481,994",3.0,3.0,-9.0,2.0,OFIX
+376,,2007-04-20 11:09:45,2007-04-18,OFIX,Gaines Cooper Robert,10%,S - Sale,$50.20,-17468,1455700,-1%,"-$876,834",3.0,3.0,-9.0,2.0,OFIX
+377,M,2007-04-18 17:26:41,2007-04-16,OFIX,Gaines Cooper Robert,10%,S - Sale,$50.03,-19432,1473168,-1%,"-$972,143",0.0,3.0,-8.0,-1.0,OFIX
+378,M,2007-04-13 18:59:26,2007-04-11,OFIX,Gaines Cooper Robert,10%,S - Sale,$50.01,-3100,1492600,0%,"-$155,043",1.0,2.0,-5.0,3.0,OFIX
+379,M,2007-04-11 16:52:58,2007-04-09,OFIX,Gaines Cooper Robert,10%,S - Sale,$50.79,-15000,1495700,-1%,"-$761,832",0.0,0.0,-4.0,1.0,OFIX
+380,M,2007-04-05 19:10:25,2007-04-04,OFIX,Gaines Cooper Robert,10%,S - Sale,$51.28,-15000,1510700,-1%,"-$769,238",0.0,-2.0,3.0,-1.0,OFIX
+381,,2007-03-14 12:42:58,2007-03-12,OFIX,Mason Bradley R,"Pres, Breg",S - Sale,$49.45,-10000,160754,-6%,"-$494,500",0.0,-1.0,1.0,-4.0,OFIX
+382,,2007-03-13 12:25:24,2007-03-09,OFIX,Kolls Raymond C,"SVP, GC",P - Purchase,$49.43,500,1200,+71%,"+$24,714",0.0,0.0,1.0,-4.0,OFIX
+383,,2006-12-13 17:46:41,2006-12-13,OFIX,Widensohler Stefan,Dir,P - Purchase,$46.87,2000,2000,New,"+$93,740",1.0,2.0,8.0,-4.0,OFIX
+384,D,2006-12-06 13:16:21,2006-12-05,OFIX,Federico Charles,Dir,M - OptEx,$41.98,43800,5225,-114%,"+$1,838,688",-1.0,0.0,10.0,1.0,OFIX
+385,D,2006-12-06 13:16:21,2006-12-05,OFIX,Federico Charles,Dir,S - Sale+OE,$45.08,-43800,5225,-89%,"-$1,974,576",-1.0,0.0,10.0,1.0,OFIX
+386,M,2006-12-04 16:51:40,2006-11-30,OFIX,Milinazzo Alan,"Pres, CEO",P - Purchase,$43.17,2750,23250,+13%,"+$118,720",3.0,4.0,15.0,5.0,OFIX
+387,M,2006-11-02 13:14:25,2006-10-31,OFIX,Milinazzo Alan,"Pres, CEO",P - Purchase,$44.04,5450,20750,+36%,"+$239,996",2.0,0.0,1.0,20.0,OFIX
+388,DM,2006-09-01 17:24:11,2006-08-30,OFIX,Federico Charles,Dir,M - OptEx,$21.33,250000,5225,-102%,"+$5,333,206",0.0,-1.0,14.0,23.0,OFIX
+389,DM,2006-09-01 17:24:11,2006-08-30,OFIX,Federico Charles,Dir,S - Sale+OE,$39.64,-250000,5225,-98%,"-$9,908,966",0.0,-1.0,14.0,23.0,OFIX
+390,,2006-08-31 15:46:01,2006-08-31,OFIX,Kolls Raymond C,"VP, GC",P - Purchase,$39.80,625,700,+833%,"+$24,875",-1.0,1.0,15.0,22.0,OFIX
+391,,2006-08-25 16:38:18,2006-08-25,OFIX,Gero James,COB,P - Purchase,$39.65,8676,75572,+13%,"+$344,015",1.0,-1.0,16.0,26.0,OFIX
+392,M,2006-08-18 17:00:01,2006-08-17,OFIX,Gero James,COB,P - Purchase,$38.79,16324,66896,+32%,"+$633,133",1.0,1.0,17.0,30.0,OFIX
+393,,2006-05-12 18:01:33,2005-11-02,OFIX,Milinazzo Alan,COO,P - Purchase,$37.78,200,200,New,"+$7,556",0.0,-1.0,0.0,11.0,OFIX
+394,A,2006-04-05 14:09:36,2006-03-10,OFIX,Gaines Cooper Robert,"Dir, 10%",S - Sale,$41.53,-2000,400000,0%,"-$83,069",-1.0,-2.0,1.0,12.0,OFIX
+395,AM,2006-04-04 18:09:20,2006-03-07,OFIX,Gaines Cooper Robert,"Dir, 10%",S - Sale,$42.06,-48000,402000,-11%,"-$2,018,924",-1.0,-2.0,1.0,11.0,OFIX
+396,DM,2006-03-20 14:28:20,2006-03-16,OFIX,Henley Gary,"Pres, Americas Division",M - OptEx,$35.73,4834,1823,-161%,"+$172,697",-4.0,-3.0,0.0,11.0,OFIX
+397,DM,2006-03-20 14:28:20,2006-03-16,OFIX,Henley Gary,"Pres, Americas Division",S - Sale+OE,$40.73,-4834,1823,-73%,"-$196,883",-4.0,-3.0,0.0,11.0,OFIX
+398,,2006-03-10 17:12:40,2006-03-10,OFIX,Gaines Cooper Robert,"Dir, 10%",S - Sale,$41.53,-800,1555700,0%,"-$33,228",0.0,-1.0,-4.0,-4.0,OFIX
+399,D,2006-03-10 16:52:36,2006-03-08,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$17.88,2500,5225,+92%,"+$44,688",0.0,-1.0,-4.0,-4.0,OFIX
+400,D,2006-03-10 16:52:36,2006-03-08,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$43.00,-2500,5225,-32%,"-$107,500",0.0,-1.0,-4.0,-4.0,OFIX
+401,M,2006-03-09 16:53:15,2006-03-07,OFIX,Gaines Cooper Robert,"Dir, 10%",S - Sale,$42.06,-19200,1556500,-1%,"-$807,569",-1.0,-3.0,-5.0,-6.0,OFIX
+402,D,2006-03-07 12:33:00,2006-03-03,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$17.88,3100,5225,+146%,"+$55,413",0.0,-2.0,-4.0,-6.0,OFIX
+403,D,2006-03-07 12:33:00,2006-03-03,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$43.60,-3100,5225,-37%,"-$135,160",0.0,-2.0,-4.0,-6.0,OFIX
+404,M,2005-12-06 15:28:51,2005-11-02,OFIX,Milinazzo Alan,COO,P - Purchase,$36.54,4200,5400,+350%,"+$153,482",-1.0,4.0,7.0,6.0,OFIX
+405,,2005-08-15 12:05:16,2005-08-12,OFIX,Weisshaar Kenneth R,Dir,P - Purchase,$44.70,500,500,New,"+$22,348",1.0,0.0,5.0,0.0,OFIX
+406,DM,2005-06-03 16:31:48,2005-06-02,OFIX,Hein Thomas M,CFO,M - OptEx,$14.88,5000,1403,-139%,"+$74,375",-4.0,-1.0,-6.0,-22.0,OFIX
+407,DM,2005-06-03 16:31:48,2005-06-02,OFIX,Hein Thomas M,CFO,S - Sale+OE,$47.00,-5000,1403,-78%,"-$235,000",-4.0,-1.0,-6.0,-22.0,OFIX
+408,D,2005-05-19 15:21:07,2005-05-17,OFIX,Hein Thomas M,CFO,M - OptEx,$14.88,5000,1403,-139%,"+$74,375",0.0,1.0,-2.0,-19.0,OFIX
+409,D,2005-05-19 15:21:07,2005-05-17,OFIX,Hein Thomas M,CFO,S - Sale+OE,$45.60,-5000,1403,-78%,"-$228,004",0.0,1.0,-2.0,-19.0,OFIX
+410,DM,2005-05-17 16:58:08,2005-05-13,OFIX,Henley Gary,"Pres, Americas Division",M - OptEx,$17.88,18500,1490,-109%,"+$330,688",1.0,2.0,1.0,-16.0,OFIX
+411,DM,2005-05-17 16:58:08,2005-05-13,OFIX,Henley Gary,"Pres, Americas Division",S - Sale+OE,$45.60,-18500,1490,-93%,"-$843,548",1.0,2.0,1.0,-16.0,OFIX
+412,DM,2005-05-12 17:39:24,2005-05-10,OFIX,Henley Gary,"Pres, Americas Division",M - OptEx,$17.88,25300,1490,-106%,"+$452,238",0.0,1.0,1.0,-15.0,OFIX
+413,DM,2005-05-12 17:39:24,2005-05-10,OFIX,Henley Gary,"Pres, Americas Division",S - Sale+OE,$45.24,-25300,1490,-94%,"-$1,144,453",0.0,1.0,1.0,-15.0,OFIX
+414,D,2005-05-12 17:12:12,2005-05-10,OFIX,Hein Thomas M,CFO,M - OptEx,$14.88,3800,1403,-159%,"+$56,525",0.0,1.0,1.0,-15.0,OFIX
+415,D,2005-05-12 17:12:12,2005-05-10,OFIX,Hein Thomas M,CFO,S - Sale+OE,$44.91,-3800,1403,-73%,"-$170,647",0.0,1.0,1.0,-15.0,OFIX
+416,D,2005-05-10 17:13:38,2005-05-06,OFIX,Henley Gary,"Pres, Americas Division",M - OptEx,$17.88,1000,1490,+204%,"+$17,875",0.0,2.0,0.0,-13.0,OFIX
+417,D,2005-05-10 17:13:38,2005-05-06,OFIX,Henley Gary,"Pres, Americas Division",S - Sale+OE,$45.97,-1000,1490,-40%,"-$45,967",0.0,2.0,0.0,-13.0,OFIX
+418,D,2005-05-09 16:05:27,2005-05-03,OFIX,Mould Galvin,"Pres, International Div",M - OptEx,$11.00,4000,0,-100%,"+$44,000",0.0,1.0,1.0,-13.0,OFIX
+419,D,2005-05-09 16:05:27,2005-05-03,OFIX,Mould Galvin,"Pres, International Div",S - Sale+OE,$46.33,-4000,0,-100%,"-$185,327",0.0,1.0,1.0,-13.0,OFIX
+420,DM,2005-05-09 15:43:54,2005-05-05,OFIX,Hein Thomas M,CFO,M - OptEx,$14.88,2400,1403,-241%,"+$35,700",0.0,1.0,0.0,-14.0,OFIX
+421,DM,2005-05-09 15:43:54,2005-05-05,OFIX,Hein Thomas M,CFO,S - Sale+OE,$45.69,-2400,1403,-63%,"-$109,667",0.0,1.0,0.0,-14.0,OFIX
+422,D,2005-05-05 13:09:43,2005-05-03,OFIX,Henley Gary,"Pres, Americas Division",M - OptEx,$17.88,5200,1490,-140%,"+$92,950",1.0,0.0,3.0,-17.0,OFIX
+423,D,2005-05-05 13:09:43,2005-05-03,OFIX,Henley Gary,"Pres, Americas Division",S - Sale+OE,$46.47,-5200,1490,-78%,"-$241,642",1.0,0.0,3.0,-17.0,OFIX
+424,DM,2005-05-04 18:02:28,2005-05-03,OFIX,Hein Thomas M,CFO,M - OptEx,$14.88,3800,1403,-159%,"+$56,525",0.0,-1.0,3.0,-16.0,OFIX
+425,DM,2005-05-04 18:02:28,2005-05-03,OFIX,Hein Thomas M,CFO,S - Sale+OE,$46.41,-3800,1403,-73%,"-$176,355",0.0,-1.0,3.0,-16.0,OFIX
+426,,2005-03-17 12:00:49,2005-03-17,OFIX,Kolls Raymond C,"VP, GC",P - Purchase,$39.61,75,75,New,"+$2,971",0.0,0.0,9.0,13.0,OFIX
+427,D,2004-12-01 15:13:41,2004-11-29,OFIX,Mould Galvin,"Pres, International Div",M - OptEx,$11.00,3000,0,-100%,"+$33,000",0.0,-3.0,4.0,20.0,OFIX
+428,D,2004-12-01 15:13:41,2004-11-29,OFIX,Mould Galvin,"Pres, International Div",S - Sale+OE,$37.80,-3000,0,-100%,"-$113,400",0.0,-3.0,4.0,20.0,OFIX
+429,,2004-11-10 18:24:27,2004-11-10,OFIX,Wallner Edgar,Deputy COB,S - Sale,$37.75,-30000,128300,-19%,"-$1,132,388",-2.0,-2.0,-3.0,19.0,OFIX
+430,D,2004-10-19 12:34:57,2004-10-19,OFIX,Gero James,Dir,M - OptEx,$17.88,12500,50572,+33%,"+$223,438",-1.0,2.0,11.0,24.0,OFIX
+431,,2004-09-13 17:13:21,2004-09-13,OFIX,Kester Thomas J,Dir,P - Purchase,$36.04,1000,1000,New,"+$36,040",-2.0,-1.0,-6.0,7.0,OFIX
+432,D,2004-09-01 12:12:39,2004-08-31,OFIX,Gero James,Dir,M - OptEx,$17.88,12500,38072,+49%,"+$223,438",2.0,8.0,2.0,18.0,OFIX
+433,D,2004-08-18 12:24:48,2004-08-16,OFIX,Wallner Edgar,Deputy COB,M - OptEx,$17.88,72500,158300,+84%,"+$1,295,938",1.0,2.0,15.0,31.0,OFIX
+434,D,2004-07-28 12:32:59,2004-07-27,OFIX,Wallner Edgar,Deputy COB,M - OptEx,$17.88,70000,85800,+443%,"+$1,251,250",-7.0,-5.0,4.0,22.0,OFIX
+435,D,2004-06-30 18:11:01,2004-06-30,OFIX,Dabreu De Paul Alberto C,Dir,M - OptEx,$14.40,10000,12000,+500%,"+$144,000",-10.0,-7.0,-29.0,-10.0,OFIX
+436,DM,2004-06-30 16:31:38,2004-06-28,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$14.40,25000,3691,-117%,"+$360,000",-10.0,-7.0,-29.0,-10.0,OFIX
+437,DM,2004-06-30 16:31:38,2004-06-28,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$42.77,-25000,3691,-87%,"-$1,069,270",-10.0,-7.0,-29.0,-10.0,OFIX
+438,D,2004-06-28 17:04:22,2004-06-24,OFIX,Hartsuiker Frederik,Dir,M - OptEx,$14.40,10000,18500,+118%,"+$144,000",1.0,-8.0,-26.0,-15.0,OFIX
+439,D,2004-06-28 16:50:41,2004-06-21,OFIX,Benjamin Jerry,Dir,M - OptEx,$14.40,10000,69282,+17%,"+$144,000",1.0,-8.0,-26.0,-15.0,OFIX
+440,D,2004-06-09 11:30:01,2004-06-08,OFIX,Clarke Peter,EVP,M - OptEx,$17.88,30700,0,-100%,"+$548,763",0.0,-2.0,-9.0,-14.0,OFIX
+441,D,2004-06-09 11:30:01,2004-06-08,OFIX,Clarke Peter,EVP,S - Sale+OE,$43.16,-30700,0,-100%,"-$1,325,164",0.0,-2.0,-9.0,-14.0,OFIX
+442,,2004-06-08 11:41:47,2004-06-07,OFIX,Wallner Edgar,Deputy COB,S - Sale,$43.55,-17000,15800,-52%,"-$740,429",0.0,-2.0,-8.0,-12.0,OFIX
+443,D,2004-06-08 10:07:35,2004-06-04,OFIX,Hein Thomas M,CFO,M - OptEx,$14.88,5000,621,-114%,"+$74,375",0.0,-2.0,-8.0,-12.0,OFIX
+444,D,2004-06-08 10:07:35,2004-06-04,OFIX,Hein Thomas M,CFO,S - Sale+OE,$44.00,-5000,621,-89%,"-$220,000",0.0,-2.0,-8.0,-12.0,OFIX
+445,DM,2004-06-07 17:33:28,2004-06-04,OFIX,Clarke Peter,EVP,M - OptEx,$17.88,52900,0,-100%,"+$945,588",0.0,-4.0,-7.0,-11.0,OFIX
+446,DM,2004-06-07 17:33:28,2004-06-04,OFIX,Clarke Peter,EVP,S - Sale+OE,$43.81,-52900,0,-100%,"-$2,317,561",0.0,-4.0,-7.0,-11.0,OFIX
+447,,2004-06-01 18:11:42,2004-05-28,OFIX,Wallner Edgar,Deputy COB,S - Sale,$44.75,-7600,32800,-19%,"-$340,100",1.0,-1.0,-1.0,-12.0,OFIX
+448,,2004-05-28 13:13:37,2004-05-27,OFIX,Wallner Edgar,Deputy COB,S - Sale,$44.75,-4600,40400,-10%,"-$205,850",0.0,-2.0,-4.0,-15.0,OFIX
+449,DM,2004-05-26 19:13:56,2004-05-25,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$14.40,25000,3691,-117%,"+$360,000",0.0,-2.0,-4.0,-15.0,OFIX
+450,DM,2004-05-26 19:13:56,2004-05-25,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$42.76,-25000,3691,-87%,"-$1,069,093",0.0,-2.0,-4.0,-15.0,OFIX
+451,D,2004-05-18 17:22:18,2004-05-10,OFIX,Clarke Peter,EVP,M - OptEx,$17.88,2600,0,-100%,"+$46,475",3.0,-2.0,-4.0,-15.0,OFIX
+452,D,2004-05-18 17:22:18,2004-05-10,OFIX,Clarke Peter,EVP,S - Sale+OE,$46.99,-2600,0,-100%,"-$122,174",3.0,-2.0,-4.0,-15.0,OFIX
+453,D,2004-05-10 14:56:48,2004-05-06,OFIX,Littlechild John W,Dir,M - OptEx,$14.40,10000,35861,+39%,"+$144,000",-5.0,-3.0,-9.0,-26.0,OFIX
+454,D,2004-05-10 14:56:48,2004-05-06,OFIX,Littlechild John W,Dir,S - Sale+OE,$47.10,-10000,35861,-22%,"-$471,000",-5.0,-3.0,-9.0,-26.0,OFIX
+455,D,2004-05-05 16:34:17,2004-05-05,OFIX,Hewett Peter J,Dir,M - OptEx,$14.40,10000,31000,+48%,"+$144,000",0.0,-6.0,-7.0,-25.0,OFIX
+456,D,2004-05-05 16:34:17,2004-05-05,OFIX,Hewett Peter J,Dir,S - Sale+OE,$47.23,-3000,31000,-9%,"-$141,696",0.0,-6.0,-7.0,-25.0,OFIX
+457,DM,2004-04-06 13:51:29,2004-04-02,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$14.40,25000,3691,-117%,"+$360,000",-1.0,0.0,-6.0,-33.0,OFIX
+458,DM,2004-04-06 13:51:29,2004-04-02,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$50.07,-25000,3691,-87%,"-$1,251,629",-1.0,0.0,-6.0,-33.0,OFIX
+459,D,2004-03-31 19:00:29,2004-03-30,OFIX,Wallner Edgar,Deputy COB,M - OptEx,$17.88,45000,45000,New,"+$804,375",1.0,0.0,-1.0,-31.0,OFIX
+460,D,2004-03-23 18:31:31,2004-03-23,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$10.00,25000,3691,-117%,"+$250,000",-1.0,6.0,7.0,-24.0,OFIX
+461,D,2004-03-23 18:31:31,2004-03-23,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$47.30,-25000,3691,-87%,"-$1,182,500",-1.0,6.0,7.0,-24.0,OFIX
+462,D,2004-03-22 18:07:36,2004-03-19,OFIX,Henley Gary,"Pres, Americas Division",M - OptEx,$17.88,50000,0,-100%,"+$893,750",-1.0,1.0,5.0,-24.0,OFIX
+463,D,2004-03-22 18:07:36,2004-03-19,OFIX,Henley Gary,"Pres, Americas Division",S - Sale+OE,$47.75,-50000,0,-100%,"-$2,387,500",-1.0,1.0,5.0,-24.0,OFIX
+464,,2004-03-19 18:03:50,2004-03-19,OFIX,Dabreu De Paul Alberto C,Dir,S - Sale,$47.75,-2000,2000,-50%,"-$95,500",-2.0,0.0,3.0,-26.0,OFIX
+465,,2004-03-19 17:30:12,2004-03-19,OFIX,Gaines Cooper Robert,COB,S - Sale,$48.03,-25000,432700,-5%,"-$1,200,700",-2.0,0.0,3.0,-26.0,OFIX
+466,,2004-03-18 15:24:50,2004-03-17,OFIX,Gaines Cooper Robert,COB,S - Sale,$48.03,-51300,457700,-10%,"-$2,463,979",-1.0,-4.0,3.0,-25.0,OFIX
+467,,2004-03-17 12:28:16,2004-03-16,OFIX,Wallner Edgar,Deputy COB,S - Sale,$47.27,-19200,156500,-11%,"-$907,565",0.0,-3.0,1.0,-25.0,OFIX
+468,,2004-03-16 17:00:26,2004-03-15,OFIX,Wallner Edgar,Deputy COB,S - Sale,$47.12,-2800,175700,-2%,"-$131,936",0.0,-2.0,2.0,-27.0,OFIX
+469,,2004-03-12 17:14:47,2004-03-11,OFIX,Wallner Edgar,Deputy COB,S - Sale,$47.20,-2000,178500,-1%,"-$94,400",0.0,0.0,6.0,-23.0,OFIX
+470,,2004-03-10 14:58:54,2004-03-09,OFIX,Wallner Edgar,Deputy COB,S - Sale,$47.09,-2000,180500,-1%,"-$94,180",0.0,2.0,8.0,-22.0,OFIX
+471,,2004-03-09 15:33:36,2004-03-08,OFIX,Wallner Edgar,Deputy COB,S - Sale,$47.06,-4000,182500,-2%,"-$188,256",0.0,1.0,6.0,-21.0,OFIX
+472,M,2004-03-05 12:02:55,2004-03-03,OFIX,Gaines Cooper Robert,COB,S - Sale,$49.07,-66000,509000,-11%,"-$3,238,405",-2.0,-1.0,5.0,-25.0,OFIX
+473,M,2004-03-04 15:59:32,2004-03-02,OFIX,Wallner Edgar,Deputy COB,S - Sale,$49.11,-30000,186500,-14%,"-$1,473,269",-4.0,-5.0,1.0,-30.0,OFIX
+474,D,2004-03-04 14:28:35,2004-03-02,OFIX,Brown Eric M,"SVP, Sales, Marketing",M - OptEx,$14.40,5000,441,-110%,"+$72,000",-4.0,-5.0,1.0,-30.0,OFIX
+475,D,2004-03-04 14:28:35,2004-03-02,OFIX,Brown Eric M,"SVP, Sales, Marketing",S - Sale+OE,$50.29,-5000,441,-92%,"-$251,427",-4.0,-5.0,1.0,-30.0,OFIX
+476,D,2004-03-04 11:25:52,2004-03-02,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$13.13,15000,3691,-133%,"+$196,875",-4.0,-5.0,1.0,-30.0,OFIX
+477,D,2004-03-04 11:25:52,2004-03-02,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$49.22,-15000,3691,-80%,"-$738,230",-4.0,-5.0,1.0,-30.0,OFIX
+478,DM,2004-02-26 12:59:16,2004-02-25,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$10.00,20300,3691,-122%,"+$203,000",6.0,9.0,6.0,-28.0,OFIX
+479,DM,2004-02-26 12:59:16,2004-02-25,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$45.99,-20300,3691,-85%,"-$933,697",6.0,9.0,6.0,-28.0,OFIX
+480,D,2004-02-25 15:00:58,2004-02-24,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$10.00,2500,3691,+210%,"+$25,000",0.0,9.0,2.0,-30.0,OFIX
+481,D,2004-02-25 15:00:58,2004-02-24,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$45.71,-2500,3691,-40%,"-$114,287",0.0,9.0,2.0,-30.0,OFIX
+482,D,2004-02-23 18:26:38,2004-02-23,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$10.00,2200,3691,+148%,"+$22,000",-4.0,2.0,0.0,-32.0,OFIX
+483,D,2004-02-23 18:26:38,2004-02-23,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$47.50,-2200,3691,-37%,"-$104,500",-4.0,2.0,0.0,-32.0,OFIX
+484,DM,2004-01-09 16:47:48,2004-01-07,OFIX,Federico Charles,"Pres, CEO",M - OptEx,$14.40,25000,3691,-117%,"+$360,000",-2.0,-4.0,-5.0,-30.0,OFIX
+485,DM,2004-01-09 16:47:48,2004-01-07,OFIX,Federico Charles,"Pres, CEO",S - Sale+OE,$49.15,-25000,3691,-87%,"-$1,228,706",-2.0,-4.0,-5.0,-30.0,OFIX
+486,D,2003-12-31 16:44:51,2003-12-30,OFIX,Mason Bradley R,Pres of Breg,A - Grant,$38.00,170754,170754,New,"+$6,488,652",2.0,0.0,4.0,-21.0,OFIX
+487,D,2003-12-31 16:44:51,2003-12-31,OFIX,Mason Bradley R,Pres of Breg,G - Gift,$0.00,-6160,170754,+4%,-$0,2.0,0.0,4.0,-21.0,OFIX
+488,,2003-12-22 15:56:34,2003-12-19,OFIX,Hartsuiker Frederik,Dir,S - Sale,$50.00,-1500,8500,-15%,"-$75,000",-3.0,-4.0,2.0,-14.0,OFIX
+489,,2003-12-18 17:17:10,2003-12-18,OFIX,Dabreu De Paul Alberto C,Dir,S - Sale,$48.25,-3500,4000,-47%,"-$168,875",0.0,-3.0,4.0,-16.0,OFIX
+490,,2003-12-16 18:09:14,2003-12-16,OFIX,Wallner Edgar,Deputy COB,S - Sale,$48.00,-12400,0,-100%,"-$595,200",0.0,1.0,7.0,-13.0,OFIX
+491,,2003-12-15 17:48:44,2003-12-15,OFIX,Wallner Edgar,Deputy COB,S - Sale,$47.34,-30000,12400,-71%,"-$1,420,293",1.0,5.0,10.0,-12.0,OFIX
+492,,2003-12-12 17:50:17,2003-12-12,OFIX,Wallner Edgar,Deputy COB,S - Sale,$47.00,-20000,42400,-32%,"-$940,000",1.0,6.0,10.0,-11.0,OFIX
+493,,2003-12-10 17:51:34,2003-12-10,OFIX,Wallner Edgar,Deputy COB,S - Sale,$44.00,-40000,62400,-39%,"-$1,760,000",0.0,8.0,21.0,-5.0,OFIX
+494,,2003-12-09 18:02:13,2003-12-09,OFIX,Hartsuiker Frederik,Dir,S - Sale,$44.00,-2000,10000,-17%,"-$88,000",2.0,8.0,16.0,-2.0,OFIX
+495,M,2003-12-05 15:24:25,2003-12-03,OFIX,Gaines Cooper Robert,COB,S - Sale,$43.23,-12644,360800,-3%,"-$546,623",-2.0,2.0,12.0,-2.0,OFIX
+496,AM,2003-12-04 15:38:49,2003-12-01,OFIX,Gaines Cooper Robert,COB,S - Sale,$42.17,-52356,885644,-6%,"-$2,207,805",0.0,2.0,13.0,1.0,OFIX
+497,M,2003-12-03 15:03:40,2003-12-01,OFIX,Gaines Cooper Robert,COB,S - Sale,$42.17,-52356,885644,-6%,"-$2,207,805",2.0,3.0,17.0,2.0,OFIX
+498,D,2003-12-02 17:32:03,2003-12-01,OFIX,Brown Eric M,"SVP, Sales, Marketing",M - OptEx,$14.07,16840,441,-103%,"+$236,964",2.0,4.0,15.0,3.0,OFIX
+499,D,2003-12-02 17:32:03,2003-12-01,OFIX,Brown Eric M,"SVP, Sales, Marketing",S - Sale+OE,$41.66,-16840,441,-97%,"-$701,506",2.0,4.0,15.0,3.0,OFIX

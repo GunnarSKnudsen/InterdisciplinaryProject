@@ -1,24 +1,429 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2021-12-20 17:17:17,2021-12-16,BWEN,Kushner Stephanie K,Dir,S - Sale,$2.10,-7088,291218,-2%,"-$14,861",,,,,BWEN
-1,M,2021-11-18 17:07:31,2021-11-16,BWEN,Kushner Stephanie K,Dir,S - Sale,$3.05,-15000,298306,-5%,"-$45,818",,,,,BWEN
-2,M,2021-10-20 16:58:42,2021-10-18,BWEN,Kushner Stephanie K,Dir,S - Sale,$3.06,-15000,313306,-5%,"-$45,972",,,,,BWEN
-3,M,2021-09-21 17:02:55,2021-09-17,BWEN,Kushner Stephanie K,Dir,S - Sale,$2.89,-15000,328306,-4%,"-$43,424",,,,,BWEN
-4,M,2021-08-19 16:35:59,2021-08-17,BWEN,Kushner Stephanie K,Dir,S - Sale,$3.12,-15000,343306,-4%,"-$46,825",,,,,BWEN
-5,M,2021-07-21 17:59:54,2021-07-19,BWEN,Kushner Stephanie K,Dir,S - Sale,$3.95,-27912,358306,-7%,"-$110,257",,,,,BWEN
-6,M,2021-06-21 17:50:31,2021-06-16,BWEN,Kushner Stephanie K,Dir,S - Sale,$4.70,-35000,386218,-8%,"-$164,341",,,,,BWEN
-7,,2021-06-01 15:37:06,2021-05-27,BWEN,Wagner Thomas A.,Dir,S - Sale,$4.47,-20000,70685,-22%,"-$89,356",,,,,BWEN
-8,M,2021-05-20 16:08:07,2021-05-18,BWEN,Kushner Stephanie K,Dir,S - Sale,$4.16,-35000,421218,-8%,"-$145,439",,,,,BWEN
-9,DM,2021-05-19 11:21:14,2021-05-17,BWEN,Reiland David P,Dir,S - Sale+OE,$4.28,-8000,130162,-6%,"-$34,276",,,,,BWEN
-10,M,2021-04-21 16:53:14,2021-04-19,BWEN,Kushner Stephanie K,Dir,S - Sale,$4.83,-35000,460536,-7%,"-$169,034",,,,,BWEN
-11,,2021-03-15 20:49:33,2021-03-15,BWEN,Kennedy Hayes M.,CHRO,P - Purchase,$6.10,4000,9889,+68%,"+$24,400",,,,,BWEN
-12,,2020-11-18 19:27:13,2020-11-16,BWEN,Wagner Thomas A.,Dir,S - Sale,$3.60,-5000,81349,-6%,"-$18,000",,,,,BWEN
-13,,2020-09-15 15:15:07,2020-09-11,BWEN,Kushner Stephanie K,Dir,S - Sale,$3.16,-19002,481785,-4%,"-$60,045",,,,,BWEN
-14,D,2020-03-17 15:39:14,2020-03-13,BWEN,Reiland David P,Dir,P - Purchase,$1.30,10000,106326,+10%,"+$13,000",,,,,BWEN
-15,D,2019-12-16 15:00:30,2019-12-13,BWEN,Reiland David P,Dir,P - Purchase,$1.85,10000,96326,+12%,"+$18,500",,,,,BWEN
-16,,2019-12-16 15:00:00,2019-12-13,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",P - Purchase,$1.84,2500,85918,+3%,"+$4,595",,,,,BWEN
-17,,2019-12-16 14:59:32,2019-12-12,BWEN,Blashford Eric B.,COO,P - Purchase,$1.85,3000,189378,+2%,"+$5,550",,,,,BWEN
-18,D,2019-08-23 14:04:03,2019-08-22,BWEN,Kushner Stephanie K,"Pres, CEO",P - Purchase,$1.80,10000,508040,+2%,"+$18,000",,,,,BWEN
-19,,2019-08-16 17:02:28,2019-08-16,BWEN,Blashford Eric B.,COO,P - Purchase,$1.62,2000,182013,+1%,"+$3,240",,,,,BWEN
-20,M,2019-08-16 17:02:13,2019-08-14,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",P - Purchase,$1.65,2000,80150,+3%,"+$3,301",,,,,BWEN
-21,M,2019-08-13 16:43:48,2019-08-09,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",P - Purchase,$1.86,3000,78150,+4%,"+$5,590",,,,,BWEN
-22,,2019-08-02 17:05:55,2019-04-24,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",S - Sale,$1.86,-3720,40869,-8%,"-$6,919",,,,,BWEN
+0,,2022-03-04 18:28:10,2022-03-02,BWEN,Hanna Wayne W.,"Pres, Brad Foote Gear Works",A - Grant,$0.00,28744,62591,+85%,+$0,,,,,BWEN
+1,,2022-03-04 18:26:53,2022-03-02,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",A - Grant,$0.00,40547,102452,+65%,+$0,,,,,BWEN
+2,,2022-03-04 18:26:53,2022-03-02,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",F - Tax,$2.22,-19955,102452,-16%,"-$44,300",,,,,BWEN
+3,,2022-03-04 18:25:37,2022-03-02,BWEN,Mayo Gilbert W. Jr.,"Pres, Broadwind Ind. Solution",A - Grant,$0.00,20504,76301,+37%,+$0,,,,,BWEN
+4,,2022-03-04 18:25:37,2022-03-02,BWEN,Mayo Gilbert W. Jr.,"Pres, Broadwind Ind. Solution",F - Tax,$2.22,-9462,76301,-11%,"-$21,006",,,,,BWEN
+5,,2022-03-04 18:24:21,2022-03-02,BWEN,Kushner Stephanie K,Dir,A - Grant,$0.00,261517,447639,+141%,+$0,,,,,BWEN
+6,,2022-03-04 18:24:21,2022-03-02,BWEN,Kushner Stephanie K,Dir,F - Tax,$2.22,-105096,447639,-19%,"-$233,313",,,,,BWEN
+7,,2022-03-04 18:23:12,2022-03-02,BWEN,Blashford Eric B.,"Pres, CEO",A - Grant,$0.00,113503,334286,+51%,+$0,,,,,BWEN
+8,,2022-03-04 18:23:12,2022-03-02,BWEN,Blashford Eric B.,"Pres, CEO",F - Tax,$2.22,-53407,334286,-14%,"-$118,564",,,,,BWEN
+9,,2021-12-20 17:17:17,2021-12-16,BWEN,Kushner Stephanie K,Dir,S - Sale,$2.10,-7088,291218,-2%,"-$14,861",,,,,BWEN
+10,M,2021-11-18 17:07:31,2021-11-16,BWEN,Kushner Stephanie K,Dir,S - Sale,$3.05,-15000,298306,-5%,"-$45,818",,,,,BWEN
+11,,2021-10-28 17:19:59,2021-10-26,BWEN,Kennedy Hayes M.,CHRO,F - Tax,$2.82,-738,16119,-4%,"-$2,081",,,,,BWEN
+12,M,2021-10-20 16:58:42,2021-10-18,BWEN,Kushner Stephanie K,Dir,S - Sale,$3.06,-15000,313306,-5%,"-$45,972",,,,,BWEN
+13,M,2021-09-21 17:02:55,2021-09-17,BWEN,Kushner Stephanie K,Dir,S - Sale,$2.89,-15000,328306,-4%,"-$43,424",,,,,BWEN
+14,M,2021-08-19 16:35:59,2021-08-17,BWEN,Kushner Stephanie K,Dir,S - Sale,$3.12,-15000,343306,-4%,"-$46,825",,,,,BWEN
+15,,2021-08-02 19:14:46,2021-07-29,BWEN,Hanna Wayne W.,"Pres, Brad Foote Gear Works",F - Tax,$3.92,-1111,31411,-3%,"-$4,355",,,,,BWEN
+16,M,2021-07-21 17:59:54,2021-07-19,BWEN,Kushner Stephanie K,Dir,S - Sale,$3.95,-27912,358306,-7%,"-$110,257",,,,,BWEN
+17,M,2021-06-21 17:50:31,2021-06-16,BWEN,Kushner Stephanie K,Dir,S - Sale,$4.70,-35000,386218,-8%,"-$164,341",,,,,BWEN
+18,,2021-06-01 15:37:06,2021-05-27,BWEN,Wagner Thomas A.,Dir,S - Sale,$4.47,-20000,70685,-22%,"-$89,356",,,,,BWEN
+19,M,2021-05-20 16:08:07,2021-05-18,BWEN,Kushner Stephanie K,Dir,S - Sale,$4.16,-35000,421218,-8%,"-$145,439",,,,,BWEN
+20,DM,2021-05-19 11:21:14,2021-05-17,BWEN,Reiland David P,Dir,S - Sale+OE,$4.28,-8000,130162,-6%,"-$34,276",,,,,BWEN
+21,,2021-05-11 17:03:40,2021-05-07,BWEN,Wood Cary B,Dir,A - Grant,$0.00,9336,77322,+14%,+$0,,,,,BWEN
+22,,2021-05-11 17:02:15,2021-05-07,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,9336,90685,+11%,+$0,,,,,BWEN
+23,,2021-05-11 17:00:16,2021-05-07,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",A - Grant,$0.00,9560,78382,+14%,+$0,,,,,BWEN
+24,D,2021-05-11 16:59:20,2021-05-07,BWEN,Reiland David P,Dir,A - Grant,$0.00,9336,138162,+7%,+$0,,,,,BWEN
+25,,2021-05-11 16:58:33,2021-05-07,BWEN,Mayo Gilbert W. Jr.,Pres Broadwind Ind. Solutions,A - Grant,$0.00,5770,62479,+10%,+$0,,,,,BWEN
+26,,2021-05-11 16:57:07,2021-05-07,BWEN,Kushner Stephanie K,Dir,A - Grant,$0.00,9336,456218,+2%,+$0,,,,,BWEN
+27,,2021-05-11 16:56:24,2021-05-07,BWEN,Kennedy Hayes M.,CHRO,A - Grant,$0.00,5882,15771,+59%,+$0,,,,,BWEN
+28,,2021-05-11 16:55:33,2021-05-07,BWEN,Hanna Wayne W.,"Pres, Brad Foote Gear Works",A - Grant,$0.00,6022,31996,+23%,+$0,,,,,BWEN
+29,D,2021-05-11 16:54:42,2021-05-07,BWEN,Fox Terence P,Dir,A - Grant,$0.00,9336,521588,+2%,+$0,,,,,BWEN
+30,,2021-05-11 16:53:48,2021-05-07,BWEN,Christman Philip J,Dir,A - Grant,$0.00,9336,59180,+19%,+$0,,,,,BWEN
+31,,2021-05-11 16:49:38,2021-05-07,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",A - Grant,$0.00,12837,137394,+10%,+$0,,,,,BWEN
+32,,2021-05-11 16:46:36,2021-05-07,BWEN,Blashford Eric B.,"Pres, CEO",A - Grant,$0.00,28008,270613,+12%,+$0,,,,,BWEN
+33,,2021-05-06 13:14:12,2021-05-04,BWEN,Blashford Eric B.,"Pres, CEO",F - Tax,$4.97,-22946,242605,-9%,"-$114,042",,,,,BWEN
+34,,2021-05-04 10:50:19,2021-04-30,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",F - Tax,$5.17,-3114,68822,-4%,"-$16,099",,,,,BWEN
+35,,2021-05-04 10:48:53,2021-04-30,BWEN,Blashford Eric B.,"Pres, CEO",F - Tax,$5.17,-10043,265551,-4%,"-$51,922",,,,,BWEN
+36,,2021-05-04 10:48:28,2021-04-30,BWEN,Mayo Gilbert W. Jr.,Pres Broadwind Ind. Solutions,F - Tax,$5.17,-1766,56709,-3%,"-$9,130",,,,,BWEN
+37,,2021-05-04 10:47:21,2021-04-30,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$5.17,-4221,124557,-3%,"-$21,823",,,,,BWEN
+38,,2021-05-04 10:45:43,2021-04-30,BWEN,Hanna Wayne W.,"Pres, Brad Foote Gear Works",F - Tax,$5.17,-1857,25974,-7%,"-$9,601",,,,,BWEN
+39,,2021-04-27 15:34:38,2021-04-23,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",F - Tax,$5.23,-2438,71936,-3%,"-$12,751",,,,,BWEN
+40,,2021-04-27 15:33:15,2021-04-23,BWEN,Mayo Gilbert W. Jr.,Pres Broadwind Ind. Solutions,F - Tax,$5.23,-1122,58475,-2%,"-$5,868",,,,,BWEN
+41,,2021-04-27 15:32:55,2021-04-23,BWEN,Kushner Stephanie K,Dir,F - Tax,$5.23,-13654,446882,-3%,"-$71,410",,,,,BWEN
+42,,2021-04-27 15:30:55,2021-04-23,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$5.23,-3407,128778,-3%,"-$17,819",,,,,BWEN
+43,,2021-04-27 15:29:14,2021-04-23,BWEN,Blashford Eric B.,"Pres, CEO",F - Tax,$5.23,-7670,275594,-3%,"-$40,114",,,,,BWEN
+44,M,2021-04-21 16:53:14,2021-04-19,BWEN,Kushner Stephanie K,Dir,S - Sale,$4.83,-35000,460536,-7%,"-$169,034",,,,,BWEN
+45,A,2021-04-01 16:13:09,2021-02-25,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",A - Grant,$0.00,22176,74380,+42%,+$0,,,,,BWEN
+46,A,2021-04-01 16:13:09,2021-02-25,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",F - Tax,$7.94,-10757,74380,-13%,"-$85,411",,,,,BWEN
+47,A,2021-04-01 16:12:24,2021-02-25,BWEN,Blashford Eric B.,"Pres, CEO",A - Grant,$0.00,54120,283282,+24%,+$0,,,,,BWEN
+48,A,2021-04-01 16:12:24,2021-02-25,BWEN,Blashford Eric B.,"Pres, CEO",F - Tax,$7.94,-25162,283282,-8%,"-$199,786",,,,,BWEN
+49,A,2021-04-01 16:11:33,2021-02-25,BWEN,Mayo Gilbert W. Jr.,Pres Broadwind Ind. Solutions,A - Grant,$0.00,22000,59610,+58%,+$0,,,,,BWEN
+50,A,2021-04-01 16:11:33,2021-02-25,BWEN,Mayo Gilbert W. Jr.,Pres Broadwind Ind. Solutions,F - Tax,$7.94,-9800,59610,-14%,"-$77,812",,,,,BWEN
+51,A,2021-04-01 16:08:43,2021-02-25,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",A - Grant,$0.00,39416,132202,+42%,+$0,,,,,BWEN
+52,A,2021-04-01 16:08:43,2021-02-25,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$7.94,-17422,132202,-12%,"-$138,331",,,,,BWEN
+53,A,2021-04-01 16:07:06,2021-02-25,BWEN,Kushner Stephanie K,Dir,A - Grant,$0.00,25544,495536,+5%,+$0,,,,,BWEN
+54,A,2021-04-01 16:07:06,2021-02-25,BWEN,Kushner Stephanie K,Dir,F - Tax,$7.94,-11793,495536,-2%,"-$93,636",,,,,BWEN
+55,,2021-03-15 20:49:33,2021-03-15,BWEN,Kennedy Hayes M.,CHRO,P - Purchase,$6.10,4000,9889,+68%,"+$24,400",,,,,BWEN
+56,,2021-03-01 17:20:38,2021-02-25,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",A - Grant,$0.00,22176,77385,+40%,+$0,,,,,BWEN
+57,,2021-03-01 17:20:38,2021-02-25,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",F - Tax,$7.94,-7752,77385,-9%,"-$61,551",,,,,BWEN
+58,,2021-03-01 17:19:28,2021-02-25,BWEN,Mayo Gilbert W. Jr.,Pres Broadwind Ind. Solutions,A - Grant,$0.00,22000,62336,+55%,+$0,,,,,BWEN
+59,,2021-03-01 17:19:28,2021-02-25,BWEN,Mayo Gilbert W. Jr.,Pres Broadwind Ind. Solutions,F - Tax,$7.94,-7074,62336,-10%,"-$56,168",,,,,BWEN
+60,,2021-03-01 17:18:09,2021-02-25,BWEN,Kushner Stephanie K,Dir,A - Grant,$0.00,25544,499058,+5%,+$0,,,,,BWEN
+61,,2021-03-01 17:18:09,2021-02-25,BWEN,Kushner Stephanie K,Dir,F - Tax,$7.94,-8271,499058,-2%,"-$65,672",,,,,BWEN
+62,,2021-03-01 17:17:23,2021-02-25,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",A - Grant,$0.00,39416,137762,+40%,+$0,,,,,BWEN
+63,,2021-03-01 17:17:23,2021-02-25,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$7.94,-11862,137762,-8%,"-$94,184",,,,,BWEN
+64,,2021-03-01 17:15:35,2021-02-25,BWEN,Blashford Eric B.,"Pres, CEO",A - Grant,$0.00,54120,293204,+23%,+$0,,,,,BWEN
+65,,2021-03-01 17:15:35,2021-02-25,BWEN,Blashford Eric B.,"Pres, CEO",F - Tax,$7.94,-15240,293204,-5%,"-$121,006",,,,,BWEN
+66,,2021-02-23 19:52:01,2021-02-22,BWEN,Mayo Gilbert W. Jr.,Pres Broadwind Ind. Solutions,F - Tax,$8.46,-1047,47184,-2%,"-$8,858",,,,,BWEN
+67,,2021-02-23 19:50:31,2021-02-22,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$8.46,-1860,109949,-2%,"-$15,736",,,,,BWEN
+68,,2021-02-23 19:49:21,2021-02-22,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",F - Tax,$8.46,-1087,62720,-2%,"-$9,196",,,,,BWEN
+69,,2021-02-23 19:48:31,2021-02-22,BWEN,Blashford Eric B.,"Pres, CEO",F - Tax,$8.46,-2651,254136,-1%,"-$22,427",,,,,BWEN
+70,,2020-11-18 19:27:13,2020-11-16,BWEN,Wagner Thomas A.,Dir,S - Sale,$3.60,-5000,81349,-6%,"-$18,000",,,,,BWEN
+71,,2020-10-28 17:07:10,2020-10-26,BWEN,Kennedy Hayes M.,Chief HR Officer,A - Grant,$0.00,5692,5692,New,+$0,,,,,BWEN
+72,,2020-09-15 15:15:07,2020-09-11,BWEN,Kushner Stephanie K,Dir,S - Sale,$3.16,-19002,481785,-4%,"-$60,045",,,,,BWEN
+73,,2020-08-13 15:22:20,2020-07-29,BWEN,Hanna Wayne W.,"Pres, Brad Foote Gear Works",F - Tax,$4.89,-1214,27644,-4%,"-$5,936",,,,,BWEN
+74,,2020-05-05 19:47:11,2020-05-01,BWEN,Wood Cary B,Dir,A - Grant,$0.00,22500,67986,+49%,+$0,,,,,BWEN
+75,,2020-05-05 19:46:55,2020-05-01,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,22500,86349,+35%,+$0,,,,,BWEN
+76,D,2020-05-05 19:46:25,2020-05-01,BWEN,Reiland David P,Dir,A - Grant,$0.00,22500,128826,+21%,+$0,,,,,BWEN
+77,,2020-05-05 19:46:10,2020-05-01,BWEN,Kushner Stephanie K,Dir,A - Grant,$0.00,22500,500853,+5%,+$0,,,,,BWEN
+78,,2020-05-05 19:46:10,2020-03-01,BWEN,Kushner Stephanie K,Dir,D - Sale to issuer,$0.00,-20900,500853,-4%,-$0,,,,,BWEN
+79,D,2020-05-05 19:45:56,2020-05-01,BWEN,Fox Terence P,Dir,A - Grant,$0.00,22500,512252,+5%,+$0,,,,,BWEN
+80,,2020-05-05 19:45:41,2020-05-01,BWEN,Christman Philip J,Dir,A - Grant,$0.00,22500,49844,+82%,+$0,,,,,BWEN
+81,,2020-05-04 21:44:09,2020-04-30,BWEN,Schueller Daniel E.,"Pres, Broadwind Heavy Fab.",A - Grant,$0.00,23040,63832,+56%,+$0,,,,,BWEN
+82,,2020-05-04 21:43:54,2020-04-30,BWEN,Mayo Gilbert W. Jr.,Pres Broadwind Ind. Solutions,A - Grant,$0.00,13905,48287,+40%,+$0,,,,,BWEN
+83,,2020-05-04 21:43:39,2020-04-30,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",A - Grant,$0.00,30938,111897,+38%,+$0,,,,,BWEN
+84,,2020-05-04 21:43:24,2020-04-30,BWEN,Blashford Eric B.,"Pres, CEO",A - Grant,$0.00,67500,256878,+36%,+$0,,,,,BWEN
+85,,2020-05-04 21:42:54,2020-04-30,BWEN,Hanna Wayne W.,"Pres, Brad Foote Gear Works",A - Grant,$0.00,14513,28858,+101%,+$0,,,,,BWEN
+86,,2020-04-27 18:26:10,2020-04-23,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",F - Tax,$1.37,-1770,40792,-4%,"-$2,425",,,,,BWEN
+87,,2020-04-27 18:25:55,2020-04-23,BWEN,Mayo Gilbert W. Jr.,"Pres, Red Wolf Company, LLC",F - Tax,$1.37,-1100,34382,-3%,"-$1,507",,,,,BWEN
+88,,2020-04-27 18:25:40,2020-04-23,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$1.37,-2481,80959,-3%,"-$3,399",,,,,BWEN
+89,D,2020-03-17 15:39:14,2020-03-13,BWEN,Reiland David P,Dir,P - Purchase,$1.30,10000,106326,+10%,"+$13,000",,,,,BWEN
+90,M,2020-02-24 17:48:44,2020-02-20,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",F - Tax,$2.17,-1701,42562,-4%,"-$3,689",,,,,BWEN
+91,M,2020-02-24 17:48:14,2020-02-20,BWEN,Mayo Gilbert W. Jr.,"Pres, Red Wolf Company, LLC",F - Tax,$2.17,-1550,35482,-4%,"-$3,364",,,,,BWEN
+92,DM,2020-02-24 17:47:59,2020-02-20,BWEN,Kushner Stephanie K,"Pres, CEO",F - Tax,$2.17,-12005,499253,-2%,"-$26,028",,,,,BWEN
+93,M,2020-02-24 17:47:45,2020-02-20,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$2.17,-2478,83440,-3%,"-$5,384",,,,,BWEN
+94,D,2019-12-16 15:00:30,2019-12-13,BWEN,Reiland David P,Dir,P - Purchase,$1.85,10000,96326,+12%,"+$18,500",,,,,BWEN
+95,,2019-12-16 15:00:00,2019-12-13,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",P - Purchase,$1.84,2500,85918,+3%,"+$4,595",,,,,BWEN
+96,,2019-12-16 14:59:32,2019-12-12,BWEN,Blashford Eric B.,COO,P - Purchase,$1.85,3000,189378,+2%,"+$5,550",,,,,BWEN
+97,D,2019-08-23 14:04:03,2019-08-22,BWEN,Kushner Stephanie K,"Pres, CEO",P - Purchase,$1.80,10000,508040,+2%,"+$18,000",,,,,BWEN
+98,,2019-08-16 17:02:28,2019-08-16,BWEN,Blashford Eric B.,COO,P - Purchase,$1.62,2000,182013,+1%,"+$3,240",,,,,BWEN
+99,M,2019-08-16 17:02:13,2019-08-14,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",P - Purchase,$1.65,2000,80150,+3%,"+$3,301",,,,,BWEN
+100,M,2019-08-13 16:43:48,2019-08-09,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",P - Purchase,$1.86,3000,78150,+4%,"+$5,590",,,,,BWEN
+101,,2019-08-02 17:05:55,2019-04-24,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",S - Sale,$1.86,-3720,40869,-8%,"-$6,919",,,,,BWEN
+102,,2019-07-29 16:46:57,2019-07-25,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$2.18,-1119,75155,-1%,"-$2,439",,,,,BWEN
+103,,2019-07-29 16:44:11,2019-07-25,BWEN,Mayo Gilbert W. Jr.,"Pres, Red Wolf Company, LLC",F - Tax,$2.18,-396,34502,-1%,-$863,,,,,BWEN
+104,,2019-07-29 16:41:42,2019-07-25,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",F - Tax,$2.18,-1315,40869,-3%,"-$2,867",,,,,BWEN
+105,,2019-04-25 16:35:12,2019-04-23,BWEN,Jensen Erik W.,"VP, Chief Human Capital Office",A - Grant,$0.00,15339,61612,+33%,+$0,,,,,BWEN
+106,D,2019-04-25 16:34:42,2019-04-23,BWEN,Reiland David P,Dir,A - Grant,$0.00,18324,86326,+27%,+$0,,,,,BWEN
+107,,2019-04-25 16:33:42,2019-04-23,BWEN,Christman Philip J,Dir,A - Grant,$0.00,18324,27344,+203%,+$0,,,,,BWEN
+108,D,2019-04-25 16:33:12,2019-04-23,BWEN,Kushner Stephanie K,"Pres, CEO",A - Grant,$0.00,96401,495830,+24%,+$0,,,,,BWEN
+109,,2019-04-25 16:11:12,2019-04-23,BWEN,Blashford Eric B.,COO,A - Grant,$0.00,52313,178390,+41%,+$0,,,,,BWEN
+110,,2019-04-25 16:10:27,2019-04-23,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,18324,63849,+40%,+$0,,,,,BWEN
+111,D,2019-04-25 16:09:57,2019-04-23,BWEN,Fox Terence P,Dir,A - Grant,$0.00,18324,489752,+4%,+$0,,,,,BWEN
+112,,2019-04-25 16:09:11,2019-04-23,BWEN,Mayo Gilbert W. Jr.,"Pres, Red Wolf Company, LLC",A - Grant,$0.00,9450,33011,+40%,+$0,,,,,BWEN
+113,,2019-04-25 16:08:42,2019-04-23,BWEN,Wood Cary B,Dir,A - Grant,$0.00,18324,45486,+67%,+$0,,,,,BWEN
+114,,2019-04-25 16:06:57,2019-04-23,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",A - Grant,$0.00,18688,44814,+72%,+$0,,,,,BWEN
+115,,2019-04-25 16:06:12,2019-04-23,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",A - Grant,$0.00,25397,75088,+51%,+$0,,,,,BWEN
+116,,2019-02-25 12:01:24,2019-02-22,BWEN,Blashford Eric B.,COO,F - Tax,$1.30,-4393,124506,-3%,"-$5,711",,,,,BWEN
+117,M,2019-02-22 17:08:19,2019-02-20,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$1.42,-2478,47917,-5%,"-$3,513",,,,,BWEN
+118,M,2019-02-22 17:07:49,2019-02-20,BWEN,Mayo Gilbert W. Jr.,"Pres, Red Wolf Company, LLC",F - Tax,$1.42,-1551,22326,-6%,"-$2,202",,,,,BWEN
+119,M,2019-02-22 17:07:19,2019-02-20,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",F - Tax,$1.42,-1701,24494,-6%,"-$2,418",,,,,BWEN
+120,M,2019-02-22 17:06:48,2019-02-20,BWEN,Blashford Eric B.,COO,F - Tax,$1.42,-4350,128899,-3%,"-$6,184",,,,,BWEN
+121,,2018-10-24 16:40:30,2018-10-22,BWEN,Christman Philip J,Dir,A - Grant,$0.00,9020,9020,New,+$0,,,,,BWEN
+122,,2018-07-27 11:27:49,2018-07-25,BWEN,Mayo Gilbert W. Jr.,"Pres, Process Systems",F - Tax,$2.44,-328,21845,-1%,-$800,,,,,BWEN
+123,,2018-07-27 11:25:34,2018-07-25,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$2.44,-919,48139,-2%,"-$2,242",,,,,BWEN
+124,,2018-07-27 11:23:34,2018-07-25,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",F - Tax,$2.44,-1187,27149,-4%,"-$2,896",,,,,BWEN
+125,,2018-07-25 18:57:53,2018-07-23,BWEN,Mayo Gilbert W. Jr.,"Pres, Process Systems",F - Tax,$2.45,-637,22173,-3%,"-$1,561",,,,,BWEN
+126,,2018-07-25 18:57:23,2018-07-23,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$2.45,-533,49058,-1%,"-$1,306",,,,,BWEN
+127,,2018-05-04 17:03:42,2018-05-02,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,13435,45525,+42%,+$0,,,,,BWEN
+128,,2018-05-04 17:03:12,2018-05-02,BWEN,Wood Cary B,Dir,A - Grant,$0.00,13435,27162,+98%,+$0,,,,,BWEN
+129,D,2018-05-04 17:02:57,2018-05-02,BWEN,Fox Terence P,Dir,A - Grant,$0.00,13435,471428,+3%,+$0,,,,,BWEN
+130,,2018-05-04 17:02:41,2018-05-04,BWEN,Blashford Eric B.,COO,A - Grant,$0.00,50000,128936,+63%,+$0,,,,,BWEN
+131,D,2018-05-04 17:02:27,2018-05-02,BWEN,Reiland David P,Dir,A - Grant,$0.00,13435,68002,+25%,+$0,,,,,BWEN
+132,,2018-02-23 16:59:11,2018-02-21,BWEN,Mayo Gilbert W. Jr.,"Pres, Process Systems",F - Tax,$2.31,-427,21085,-2%,-$986,,,,,BWEN
+133,,2018-02-23 16:56:56,2018-02-21,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",F - Tax,$2.31,-618,47794,-1%,"-$1,428",,,,,BWEN
+134,M,2018-02-23 16:53:57,2018-02-21,BWEN,Blashford Eric B.,"Pres, Broadwind Towers, Inc.",F - Tax,$2.30,-6091,78058,-7%,"-$14,026",,,,,BWEN
+135,,2018-02-23 16:51:56,2018-02-21,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",F - Tax,$2.31,-654,26652,-2%,"-$1,511",,,,,BWEN
+136,M,2018-02-23 16:49:42,2018-02-21,BWEN,Jensen Erik W.,"VP, Chief Human Capital Office",F - Tax,$2.30,-2842,39948,-7%,"-$6,545",,,,,BWEN
+137,DM,2018-02-23 16:46:41,2018-02-21,BWEN,Reisinger Joseph V.,"VP, Business Development",F - Tax,$2.30,-2137,38809,-5%,"-$4,921",,,,,BWEN
+138,,2018-02-21 19:01:28,2018-02-20,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",A - Grant,$0.00,9072,27306,+50%,+$0,,,,,BWEN
+139,,2018-02-21 18:58:44,2018-02-20,BWEN,Jensen Erik W.,"VP, Chief Human Capital Office",A - Grant,$0.00,9977,42790,+30%,+$0,,,,,BWEN
+140,,2018-02-21 18:58:44,2018-02-20,BWEN,Jensen Erik W.,"VP, Chief Human Capital Office",F - Tax,$2.39,-671,42790,-2%,"-$1,604",,,,,BWEN
+141,D,2018-02-21 18:56:15,2018-02-20,BWEN,Reisinger Joseph V.,"VP, Business Development",A - Grant,$0.00,8002,40946,+24%,+$0,,,,,BWEN
+142,D,2018-02-21 18:56:15,2018-02-20,BWEN,Reisinger Joseph V.,"VP, Business Development",F - Tax,$2.39,-495,40946,-1%,"-$1,183",,,,,BWEN
+143,,2018-02-21 18:55:13,2018-02-20,BWEN,Blashford Eric B.,"Pres, Broadwind Towers, Inc.",A - Grant,$0.00,22140,84149,+36%,+$0,,,,,BWEN
+144,,2018-02-21 18:55:13,2018-02-20,BWEN,Blashford Eric B.,"Pres, Broadwind Towers, Inc.",F - Tax,$2.39,-1439,84149,-2%,"-$3,439",,,,,BWEN
+145,,2018-02-21 18:52:43,2018-02-20,BWEN,Bonfigt Jason Lee,"VP, CFO, Treasurer",A - Grant,$0.00,16125,48412,+50%,+$0,,,,,BWEN
+146,D,2018-02-21 18:50:28,2018-02-20,BWEN,Kushner Stephanie K,"Pres, CEO",A - Grant,$0.00,62700,393117,+19%,+$0,,,,,BWEN
+147,DM,2017-08-18 14:00:33,2017-08-16,BWEN,Reiland David P,Dir,P - Purchase,$3.09,3000,54567,+6%,"+$9,255",,,,,BWEN
+148,DM,2017-08-09 18:32:28,2017-08-07,BWEN,Reiland David P,Dir,P - Purchase,$3.61,4592,51567,+10%,"+$16,555",,,,,BWEN
+149,A,2017-08-02 19:33:19,2017-07-25,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",F - Tax,$4.45,-1194,16876,-7%,"-$5,313",,,,,BWEN
+150,AM,2017-08-02 19:08:49,2017-07-24,BWEN,Bonfigt Jason Lee,"VP, Corporate Controller",F - Tax,$4.47,-1964,28469,-6%,"-$8,778",,,,,BWEN
+151,M,2017-07-26 15:59:29,2017-07-24,BWEN,Bonfigt Jason Lee,"VP, Corporate Controller",F - Tax,$4.47,-1960,30953,-6%,"-$8,761",,,,,BWEN
+152,,2017-07-26 15:41:59,2017-07-25,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",F - Tax,$4.45,-1384,16686,-8%,"-$6,159",,,,,BWEN
+153,,2017-05-03 18:26:39,2017-05-02,BWEN,Wagner Thomas A.,Dir,S - Sale,$7.50,-5441,32090,-14%,"-$40,834",-1.0,1.0,,,BWEN
+154,,2017-04-28 16:45:35,2017-04-27,BWEN,Lisboa Persio V,Dir,A - Grant,$0.00,3727,13727,+37%,+$0,-12.0,-34.0,,,BWEN
+155,D,2017-04-28 16:35:36,2017-04-27,BWEN,Reiland David P,Dir,A - Grant,$0.00,3727,46975,+9%,+$0,-12.0,-34.0,,,BWEN
+156,,2017-04-28 15:46:05,2017-04-27,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,3727,37531,+11%,+$0,-2.0,-36.0,,,BWEN
+157,,2017-04-28 15:45:20,2017-04-27,BWEN,Wood Cary B,Dir,A - Grant,$0.00,3727,13727,+37%,+$0,-2.0,-36.0,,,BWEN
+158,D,2017-04-28 15:44:50,2017-04-27,BWEN,Fox Terence P,Dir,A - Grant,$0.00,3727,457993,+1%,+$0,-2.0,-36.0,,,BWEN
+159,,2017-02-27 13:53:56,2017-02-24,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",S - Sale,$5.19,-1000,18070,-5%,"-$5,190",1.0,11.0,27.0,,BWEN
+160,D,2017-02-23 18:12:07,2017-02-21,BWEN,Kushner Stephanie K,"Pres, CEO, CFO, Treasurer",A - Grant,$0.00,41382,328972,+14%,+$0,2.0,9.0,25.0,,BWEN
+161,D,2017-02-23 18:11:53,2017-02-21,BWEN,Reisinger Joseph V.,"VP, Business Development",A - Grant,$0.00,5386,32689,+20%,+$0,2.0,9.0,25.0,,BWEN
+162,DM,2017-02-23 18:11:53,2017-02-21,BWEN,Reisinger Joseph V.,"VP, Business Development",F - Tax,$5.30,-2444,32689,-7%,"-$12,952",2.0,9.0,25.0,,BWEN
+163,,2017-02-23 17:55:07,2017-02-21,BWEN,Schueller Daniel E.,"Pres, Brad Foote Gear Works",A - Grant,$0.00,5670,17070,+50%,+$0,2.0,9.0,25.0,,BWEN
+164,,2017-02-23 17:46:22,2017-02-21,BWEN,Jensen Erik W.,"VP, Chief Human Capital Office",A - Grant,$0.00,6780,31991,+27%,+$0,2.0,9.0,25.0,,BWEN
+165,,2017-02-23 17:45:52,2017-02-21,BWEN,Fell David W.,"VP, GC, Secy",A - Grant,$0.00,2992,43071,+7%,+$0,2.0,9.0,25.0,,BWEN
+166,M,2017-02-23 17:45:52,2017-02-21,BWEN,Fell David W.,"VP, GC, Secy",F - Tax,$5.30,-3302,43071,-7%,"-$17,496",2.0,9.0,25.0,,BWEN
+167,,2017-02-23 17:44:37,2017-02-21,BWEN,Blashford Eric B.,"Pres, Broadwind Towers, Inc.",A - Grant,$0.00,14187,61460,+30%,+$0,2.0,9.0,25.0,,BWEN
+168,,2017-02-23 17:44:37,2017-02-21,BWEN,Blashford Eric B.,"Pres, Broadwind Towers, Inc.",F - Tax,$5.43,-1578,61460,-3%,"-$8,569",2.0,9.0,25.0,,BWEN
+169,,2017-02-23 17:44:08,2017-02-21,BWEN,Bonfigt Jason Lee,"VP, Corporate Controller",A - Grant,$0.00,5355,32913,+19%,+$0,2.0,9.0,25.0,,BWEN
+170,DM,2017-01-19 18:48:31,2016-08-19,BWEN,Fox Terence P,Dir,S - Sale+OE,$4.25,-30000,454266,-6%,"-$127,400",0.0,-1.0,21.0,,BWEN
+171,D,2016-06-15 15:30:10,2016-06-14,BWEN,Rogowski Robert R,"VP, Corporate Controller",S - Sale+OE,$4.35,-6000,37676,-14%,"-$26,100",3.0,-5.0,8.0,-6.0,BWEN
+172,,2016-05-19 19:51:06,2016-05-18,BWEN,Lisboa Persio V,Dir,A - Grant,$0.00,10000,10000,New,+$0,-1.0,8.0,27.0,16.0,BWEN
+173,,2016-05-19 19:50:06,2016-05-18,BWEN,Wood Cary B,Dir,A - Grant,$0.00,10000,10000,New,+$0,-1.0,8.0,27.0,16.0,BWEN
+174,D,2016-05-05 20:21:08,2016-05-04,BWEN,Rogowski Robert R,"VP, Corporate Controller",F - Tax,$3.30,-514,43676,-1%,"-$1,696",3.0,9.0,34.0,31.0,BWEN
+175,A,2016-05-05 19:55:08,2016-02-22,BWEN,Rogowski Robert R,"VP, Corporate Controller",A - Grant,$0.00,15838,40327,+65%,+$0,3.0,9.0,34.0,31.0,BWEN
+176,D,2016-04-27 15:26:30,2016-04-26,BWEN,Beynon Charles H.,Dir,A - Grant,$0.00,10736,42925,+33%,+$0,-4.0,1.0,16.0,37.0,BWEN
+177,D,2016-04-27 15:26:30,2016-04-25,BWEN,Beynon Charles H.,Dir,F - Tax,$3.25,-2534,42925,-6%,"-$8,236",-4.0,1.0,16.0,37.0,BWEN
+178,,2016-04-27 15:25:00,2016-04-26,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,10736,33804,+47%,+$0,-4.0,1.0,16.0,37.0,BWEN
+179,,2016-04-27 15:25:00,2016-04-25,BWEN,Wagner Thomas A.,Dir,F - Tax,$3.25,-2845,33804,-8%,"-$9,246",-4.0,1.0,16.0,37.0,BWEN
+180,D,2016-04-27 15:23:29,2016-04-26,BWEN,Reiland David P,Dir,A - Grant,$0.00,10736,43248,+33%,+$0,-4.0,1.0,16.0,37.0,BWEN
+181,D,2016-04-27 15:23:29,2016-04-25,BWEN,Reiland David P,Dir,F - Tax,$3.25,-2534,43248,-6%,"-$8,236",-4.0,1.0,16.0,37.0,BWEN
+182,D,2016-04-27 15:21:45,2016-04-26,BWEN,Fox Terence P,Dir,A - Grant,$0.00,10736,484266,+2%,+$0,-4.0,1.0,16.0,37.0,BWEN
+183,D,2016-04-27 15:21:45,2016-04-25,BWEN,Fox Terence P,Dir,F - Tax,$3.25,-2845,484266,-1%,"-$9,246",-4.0,1.0,16.0,37.0,BWEN
+184,M,2016-03-21 16:34:37,2016-03-17,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$2.43,-71300,1477722,-5%,"-$173,323",0.0,7.0,11.0,68.0,BWEN
+185,,2016-03-17 16:54:25,2016-03-16,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$2.27,-40000,1549022,-3%,"-$90,956",1.0,4.0,21.0,78.0,BWEN
+186,M,2016-03-16 16:30:06,2016-03-14,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$2.15,-23092,1589022,-1%,"-$49,648",3.0,15.0,28.0,83.0,BWEN
+187,M,2016-03-10 15:53:47,2016-03-08,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$2.19,-1200,1612114,0%,"-$2,630",-2.0,12.0,41.0,151.0,BWEN
+188,M,2016-03-08 15:49:11,2016-03-04,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$2.10,-9966,1613314,-1%,"-$20,929",-4.0,3.0,39.0,139.0,BWEN
+189,M,2016-03-04 13:15:53,2016-03-02,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$2.09,-700,1623280,0%,"-$1,460",1.0,4.0,49.0,141.0,BWEN
+190,,2016-02-23 19:34:24,2016-02-22,BWEN,Jensen Erik W.,"VP, Chief Human Capital Office",A - Grant,$0.00,16532,25211,+190%,+$0,0.0,2.0,52.0,157.0,BWEN
+191,D,2016-02-23 19:33:53,2016-02-22,BWEN,Kushner Stephanie K,"Interim Pres, CEO, CFO",A - Grant,$0.00,75419,287596,+36%,+$0,0.0,2.0,52.0,157.0,BWEN
+192,D,2016-02-23 19:33:38,2016-02-22,BWEN,Rogowski Robert R,"VP, Corporate Controller",A - Grant,$0.00,15939,44291,+56%,+$0,0.0,2.0,52.0,157.0,BWEN
+193,DM,2016-02-23 19:33:38,2016-02-19,BWEN,Rogowski Robert R,"VP, Corporate Controller",F - Tax,$1.78,-2204,44291,-5%,"-$3,914",0.0,2.0,52.0,157.0,BWEN
+194,,2016-02-23 19:33:08,2016-02-22,BWEN,Fell David W.,"VP, GC, Secy",A - Grant,$0.00,17870,43385,+70%,+$0,0.0,2.0,52.0,157.0,BWEN
+195,M,2016-02-23 19:33:08,2016-02-19,BWEN,Fell David W.,"VP, GC, Secy",F - Tax,$1.78,-1879,43385,-4%,"-$3,340",0.0,2.0,52.0,157.0,BWEN
+196,,2016-02-08 16:34:44,2016-02-05,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$2.00,-7500,1623980,0%,"-$15,000",-3.0,-9.0,3.0,116.0,BWEN
+197,M,2015-12-16 15:18:15,2015-12-14,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$2.10,-425991,1631480,-21%,"-$894,671",4.0,-5.0,1.0,116.0,BWEN
+198,DM,2015-12-11 16:28:55,2015-12-09,BWEN,Reiland David P,Dir,P - Purchase,$2.07,10000,35046,+40%,"+$20,683",-1.0,6.0,6.0,100.0,BWEN
+199,,2015-08-25 16:40:46,2015-08-24,BWEN,Fell David W.,"VP, GC, Secy",F - Tax,$3.17,-796,27394,-3%,"-$2,523",-1.0,0.0,-18.0,-43.0,BWEN
+200,,2015-07-29 17:03:42,2015-07-28,BWEN,Fell David W.,"VP, GC, Secy",F - Tax,$3.65,-316,28190,-1%,"-$1,153",-9.0,-5.0,-16.0,-44.0,BWEN
+201,,2015-07-28 16:11:29,2015-07-23,BWEN,Jensen Erik W.,"VP, Chief Human Capital Office",F - Tax,$3.55,-356,8679,-4%,"-$1,264",3.0,-1.0,-13.0,-41.0,BWEN
+202,,2015-06-26 16:23:11,2015-06-25,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$4.32,-71850,1469550,-5%,"-$310,176",-7.0,-14.0,-18.0,-51.0,BWEN
+203,M,2015-06-19 15:48:24,2015-06-17,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$4.16,-83450,1541400,-5%,"-$347,098",0.0,3.0,-11.0,-45.0,BWEN
+204,,2015-06-16 17:12:10,2015-06-12,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$4.05,-14800,1624850,-1%,"-$59,916",0.0,-4.0,-8.0,-49.0,BWEN
+205,,2015-06-12 15:35:19,2015-06-11,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$3.98,-40000,1639650,-2%,"-$159,360",7.0,2.0,-2.0,-48.0,BWEN
+206,M,2015-06-11 15:31:50,2015-06-09,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$4.09,-30500,1679650,-2%,"-$124,842",-2.0,2.0,-9.0,-51.0,BWEN
+207,M,2015-06-09 15:38:33,2015-06-05,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$4.39,-66200,1710150,-4%,"-$290,451",-4.0,-4.0,-17.0,-53.0,BWEN
+208,DM,2015-05-06 17:27:47,2015-05-04,BWEN,Rogowski Robert R,"VP, Corporate Controller",F - Tax,$3.98,-674,30556,-2%,"-$2,683",7.0,-3.0,14.0,-42.0,BWEN
+209,D,2015-05-06 17:27:21,2015-05-04,BWEN,Duprey Peter C.,"Pres, CEO",F - Tax,$3.98,-4517,326695,-1%,"-$17,978",7.0,-3.0,14.0,-42.0,BWEN
+210,D,2015-05-06 17:27:21,2015-05-06,BWEN,Duprey Peter C.,"Pres, CEO",P - Purchase,$3.90,10000,326695,+3%,"+$39,000",7.0,-3.0,14.0,-42.0,BWEN
+211,D,2015-04-27 17:28:26,2015-04-23,BWEN,Reiland David P,Dir,A - Grant,$0.00,7760,25046,+45%,+$0,1.0,-9.0,-13.0,-42.0,BWEN
+212,D,2015-04-27 17:28:26,2015-04-24,BWEN,Reiland David P,Dir,F - Tax,$4.38,-904,25046,-3%,"-$3,960",1.0,-9.0,-13.0,-42.0,BWEN
+213,,2015-04-27 17:28:02,2015-04-23,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,7760,25913,+43%,+$0,1.0,-9.0,-13.0,-42.0,BWEN
+214,,2015-04-27 17:28:02,2015-04-24,BWEN,Wagner Thomas A.,Dir,F - Tax,$4.38,-1014,25913,-4%,"-$4,441",1.0,-9.0,-13.0,-42.0,BWEN
+215,D,2015-04-27 17:27:41,2015-04-23,BWEN,Fox Terence P,Dir,A - Grant,$0.00,7760,476375,+2%,+$0,1.0,-9.0,-13.0,-42.0,BWEN
+216,D,2015-04-27 17:27:15,2015-04-23,BWEN,Beynon Charles H.,Dir,A - Grant,$0.00,7760,34723,+29%,+$0,1.0,-9.0,-13.0,-42.0,BWEN
+217,D,2015-04-27 17:27:15,2015-04-24,BWEN,Beynon Charles H.,Dir,F - Tax,$4.38,-904,34723,-3%,"-$3,960",1.0,-9.0,-13.0,-42.0,BWEN
+218,D,2015-03-11 16:50:26,2015-03-09,BWEN,Kushner Stephanie K,"EVP, CFO",F - Tax,$5.34,-899,212177,0%,"-$4,801",0.0,0.0,-7.0,-37.0,BWEN
+219,M,2015-02-24 17:22:01,2015-02-20,BWEN,Fell David W.,"VP, GC, Secy",F - Tax,$5.04,-1187,28506,-4%,"-$5,982",0.0,8.0,5.0,-27.0,BWEN
+220,DM,2015-02-24 17:19:59,2015-02-20,BWEN,Duprey Peter C.,"Pres, CEO",F - Tax,$5.03,-14163,321212,-4%,"-$71,254",0.0,8.0,5.0,-27.0,BWEN
+221,DM,2015-02-24 17:17:49,2015-02-20,BWEN,Rogowski Robert R,"VP, Corporate Controller",F - Tax,$5.03,-1563,31230,-5%,"-$7,864",0.0,8.0,5.0,-27.0,BWEN
+222,,2015-02-24 17:06:33,2015-02-23,BWEN,Fejes William Theodore Jr,Dir,F - Tax,$5.01,-1024,14356,-7%,"-$5,130",0.0,8.0,5.0,-27.0,BWEN
+223,DM,2015-02-24 17:04:29,2015-02-20,BWEN,Kushner Stephanie K,"EVP, CFO",F - Tax,$5.03,-9044,213076,-4%,"-$45,475",0.0,8.0,5.0,-27.0,BWEN
+224,D,2015-02-23 18:46:32,2015-02-19,BWEN,Duprey Peter C.,"Pres, CEO",A - Grant,$0.00,56651,335375,+20%,+$0,-8.0,-1.0,-2.0,-33.0,BWEN
+225,D,2015-02-23 18:46:06,2015-02-19,BWEN,Kushner Stephanie K,"EVP, CFO",A - Grant,$0.00,30566,222120,+16%,+$0,-8.0,-1.0,-2.0,-33.0,BWEN
+226,D,2015-02-23 18:45:37,2015-02-19,BWEN,Rogowski Robert R,"VP, Corporate Controller, 10%",A - Grant,$0.00,5281,32793,+19%,+$0,-8.0,-1.0,-2.0,-33.0,BWEN
+227,,2015-02-23 18:44:48,2015-02-19,BWEN,Fell David W.,"VP, GC, Secy",A - Grant,$0.00,5700,29693,+24%,+$0,-8.0,-1.0,-2.0,-33.0,BWEN
+228,,2015-02-23 16:29:20,2015-02-19,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$5.60,-8900,1776350,0%,"-$49,840",-8.0,-1.0,-2.0,-33.0,BWEN
+229,,2015-02-20 16:51:41,2015-02-19,BWEN,Jensen Erik W.,"VP, Chief Human Capital Office",A - Grant,$0.00,5505,9035,+156%,+$0,-2.0,-3.0,-6.0,-30.0,BWEN
+230,,2015-02-13 15:04:45,2015-02-11,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$5.60,-300,1785250,0%,"-$1,680",3.0,-5.0,-5.0,-32.0,BWEN
+231,M,2015-02-04 16:26:57,2015-02-02,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$5.00,-22646,1785550,-1%,"-$113,234",-2.0,2.0,-2.0,-34.0,BWEN
+232,,2015-01-30 16:38:47,2015-01-28,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$5.00,-2100,1808196,0%,"-$10,500",4.0,7.0,3.0,-30.0,BWEN
+233,,2015-01-28 16:48:11,2015-01-26,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$5.02,-50578,1810296,-3%,"-$253,932",3.0,9.0,4.0,-23.0,BWEN
+234,,2015-01-26 12:34:39,2015-01-23,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$5.05,-50700,1860874,-3%,"-$255,812",-4.0,-4.0,-8.0,-30.0,BWEN
+235,,2015-01-23 16:27:34,2015-01-21,BWEN,"Awm Investment Company, Inc.",10%,S - Sale,$5.00,-14998,1911574,-1%,"-$75,018",-4.0,-3.0,-1.0,-31.0,BWEN
+236,M,2015-01-12 16:15:28,2015-01-08,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$5.00,-185619,1926572,-9%,"-$928,978",-1.0,1.0,14.0,-18.0,BWEN
+237,D,2014-11-03 16:42:26,2014-10-31,BWEN,Duprey Peter C.,"Pres, CEO",P - Purchase,$6.57,10000,278724,+4%,"+$65,700",1.0,8.0,6.0,-34.0,BWEN
+238,,2014-08-26 16:36:50,2014-08-22,BWEN,Fell David W.,"VP, GC, Secy",F - Tax,$9.23,-852,20993,-4%,"-$7,864",2.0,1.0,-12.0,-50.0,BWEN
+239,,2014-08-07 16:41:20,2014-08-05,BWEN,Fell David W.,"VP, GC, Secy",F - Tax,$8.44,-95,21845,0%,-$802,2.0,2.0,0.0,-41.0,BWEN
+240,,2014-07-30 17:59:24,2014-07-28,BWEN,Fell David W.,"VP, GC, Secy",F - Tax,$8.89,-329,21940,-1%,"-$2,925",-1.0,-3.0,6.0,-45.0,BWEN
+241,D,2014-05-07 16:23:20,2014-05-05,BWEN,Duprey Peter C.,"Pres, CEO",F - Tax,$13.37,-4697,268724,-2%,"-$62,799",2.0,3.0,-8.0,-48.0,BWEN
+242,,2014-05-06 16:06:48,2014-05-02,BWEN,Wagner Thomas A.,Dir,F - Tax,$13.33,-1164,19167,-6%,"-$15,516",-4.0,3.0,-12.0,-47.0,BWEN
+243,DM,2014-05-06 16:06:20,2014-05-04,BWEN,Rogowski Robert R,Principal Accounting Officer,F - Tax,$13.37,-583,27512,-2%,"-$7,795",-4.0,3.0,-12.0,-47.0,BWEN
+244,D,2014-05-06 16:05:53,2014-05-02,BWEN,Reiland David P,Dir,F - Tax,$13.33,-2716,18190,-13%,"-$36,204",-4.0,3.0,-12.0,-47.0,BWEN
+245,D,2014-05-06 16:05:24,2014-05-04,BWEN,Kushner Stephanie K,"EVP, CFO",F - Tax,$13.37,-2761,191554,-1%,"-$36,915",-4.0,3.0,-12.0,-47.0,BWEN
+246,,2014-05-06 16:04:43,2014-05-02,BWEN,Fejes William Theodore Jr,Dir,F - Tax,$13.33,-3880,15380,-20%,"-$51,720",-4.0,3.0,-12.0,-47.0,BWEN
+247,D,2014-05-06 16:04:12,2014-05-02,BWEN,Beynon Charles H.,Dir,F - Tax,$13.33,-2328,27867,-8%,"-$31,032",-4.0,3.0,-12.0,-47.0,BWEN
+248,D,2014-05-05 16:43:45,2014-05-01,BWEN,Rogowski Robert R,Principal Accounting Officer,S - Sale+OE,$13.20,-1000,28095,-3%,"-$13,200",-5.0,-2.0,-17.0,-52.0,BWEN
+249,,2014-05-01 09:49:45,2014-04-29,BWEN,Fell David W.,"GC, Secretary",F - Tax,$12.05,-38,22269,0%,-$458,-3.0,-10.0,-17.0,-40.0,BWEN
+250,,2014-04-28 16:12:38,2014-04-24,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,2766,20331,+16%,+$0,-1.0,9.0,-10.0,-36.0,BWEN
+251,D,2014-04-28 16:12:13,2014-04-24,BWEN,Reiland David P,Dir,A - Grant,$0.00,2766,20906,+15%,+$0,-1.0,9.0,-10.0,-36.0,BWEN
+252,D,2014-04-28 16:11:43,2014-04-24,BWEN,Fox Terence P,Dir,A - Grant,$0.00,2766,468615,+1%,+$0,-1.0,9.0,-10.0,-36.0,BWEN
+253,,2014-04-28 16:11:17,2014-04-24,BWEN,Fejes William Theodore Jr,Dir,A - Grant,$0.00,2766,19260,+17%,+$0,-1.0,9.0,-10.0,-36.0,BWEN
+254,D,2014-04-28 16:10:45,2014-04-24,BWEN,Beynon Charles H.,Dir,A - Grant,$0.00,2766,30195,+10%,+$0,-1.0,9.0,-10.0,-36.0,BWEN
+255,M,2014-04-02 16:48:29,2014-03-31,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$12.93,-103752,2112191,-5%,"-$1,341,169",-8.0,-13.0,-3.0,-47.0,BWEN
+256,D,2014-03-17 19:07:11,2014-03-13,BWEN,Rogowski Robert R,Principal Accounting Officer,S - Sale+OE,$9.70,-3000,29095,-9%,"-$29,100",6.0,11.0,19.0,-9.0,BWEN
+257,D,2014-03-11 16:28:11,2014-03-07,BWEN,Kushner Stephanie K,"EVP, CFO",F - Tax,$10.75,-952,194566,0%,"-$10,234",-7.0,-9.0,13.0,-17.0,BWEN
+258,D,2014-03-03 16:17:20,2014-02-20,BWEN,Rogowski Robert R,Principal Accounting Officer,A - Grant,$0.00,3462,32095,+12%,+$0,3.0,10.0,25.0,-7.0,BWEN
+259,D,2014-03-03 16:16:46,2014-02-20,BWEN,Kushner Stephanie K,"EVP, CFO",A - Grant,$0.00,20491,195518,+12%,+$0,3.0,10.0,25.0,-7.0,BWEN
+260,D,2014-03-03 16:16:24,2014-02-20,BWEN,Duprey Peter C.,"Pres, CEO",A - Grant,$0.00,35890,274579,+15%,+$0,3.0,10.0,25.0,-7.0,BWEN
+261,D,2014-02-25 17:15:43,2014-02-21,BWEN,Kushner Stephanie K,"EVP, CFO",F - Tax,$8.60,-6925,175027,-4%,"-$59,555",4.0,12.0,19.0,6.0,BWEN
+262,D,2014-02-25 17:15:12,2014-02-21,BWEN,Rogowski Robert R,Principal Accounting Officer,F - Tax,$8.60,-1181,28633,-4%,"-$10,157",4.0,12.0,19.0,6.0,BWEN
+263,D,2014-02-25 17:14:39,2014-02-21,BWEN,Duprey Peter C.,"Pres, CEO",F - Tax,$8.60,-10722,238689,-4%,"-$92,209",4.0,12.0,19.0,6.0,BWEN
+264,M,2014-01-10 16:19:37,2014-01-08,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$11.05,-100000,2215943,-4%,"-$1,104,531",-5.0,0.0,-20.0,-19.0,BWEN
+265,A,2014-01-09 11:07:26,2014-01-03,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$10.18,-75100,2315943,-3%,"-$764,789",11.0,4.0,-22.0,-21.0,BWEN
+266,,2014-01-07 16:40:05,2014-01-03,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$10.18,-75100,1315943,-5%,"-$764,789",6.0,3.0,-18.0,-15.0,BWEN
+267,M,2013-12-24 12:24:36,2013-12-20,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$9.37,-63830,2391043,-3%,"-$597,856",-2.0,-2.0,-6.0,-5.0,BWEN
+268,,2013-12-20 16:09:16,2013-12-18,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$9.00,-8300,2454873,0%,"-$74,733",7.0,6.0,17.0,4.0,BWEN
+269,DM,2013-12-12 16:41:50,2013-12-11,BWEN,Kushner Stephanie K,"EVP, CFO",P - Purchase,$5.73,6170,181713,+4%,"+$35,371",12.0,50.0,82.0,94.0,BWEN
+270,D,2013-12-11 15:18:14,2013-12-11,BWEN,Duprey Peter C.,"Pres, CEO",P - Purchase,$5.33,10000,249071,+4%,"+$53,274",11.0,47.0,110.0,113.0,BWEN
+271,D,2013-12-10 17:35:47,2013-12-10,BWEN,Kushner Stephanie K,"EVP, CFO",P - Purchase,$5.25,3830,175543,+2%,"+$20,099",11.0,26.0,121.0,118.0,BWEN
+272,D,2013-11-13 17:05:58,2013-11-11,BWEN,Rogowski Robert R,Principal Accounting Officer,S - Sale+OE,$7.47,-2000,29631,-6%,"-$14,940",-1.0,-8.0,-26.0,46.0,BWEN
+273,D,2013-11-06 17:03:23,2013-11-04,BWEN,Collins Jesse E. Jr.,"EVP, COO",M - OptEx,$3.40,5400,24259,+29%,"+$18,360",-3.0,-4.0,-21.0,68.0,BWEN
+274,DM,2013-11-06 17:03:23,2013-11-04,BWEN,Collins Jesse E. Jr.,"EVP, COO",S - Sale+OE,$7.49,-61290,24259,-72%,"-$459,201",-3.0,-4.0,-21.0,68.0,BWEN
+275,D,2013-10-28 17:41:27,2013-10-24,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$7.99,-10671,80149,-12%,"-$85,261",1.0,-8.0,-14.0,53.0,BWEN
+276,D,2013-10-18 16:37:18,2013-10-17,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$10.00,-132,90820,0%,"-$1,320",-7.0,-19.0,-23.0,21.0,BWEN
+277,,2013-10-15 21:32:17,2013-10-11,BWEN,Gendell Jeffrey L Et Al,10%,S - Sale,$9.23,-45000,1446201,-3%,"-$415,350",5.0,-4.0,-24.0,18.0,BWEN
+278,M,2013-10-15 16:57:27,2013-10-11,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$9.83,-165000,2463173,-6%,"-$1,622,046",5.0,-4.0,-24.0,18.0,BWEN
+279,,2013-10-01 12:30:12,2013-09-27,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$8.01,-9000,2628173,0%,"-$72,057",-3.0,9.0,0.0,61.0,BWEN
+280,M,2013-09-27 16:11:23,2013-09-25,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$8.04,-23121,2637173,-1%,"-$185,898",0.0,5.0,4.0,45.0,BWEN
+281,,2013-09-18 16:29:00,2013-09-16,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$7.81,-16000,2660294,-1%,"-$124,930",1.0,-2.0,38.0,43.0,BWEN
+282,M,2013-09-16 16:55:24,2013-09-12,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$7.10,-38501,2676294,-1%,"-$273,279",-7.0,-2.0,27.0,25.0,BWEN
+283,M,2013-09-11 15:39:37,2013-09-09,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$6.82,-50468,2714795,-2%,"-$344,219",0.0,4.0,23.0,42.0,BWEN
+284,D,2013-09-10 16:47:02,2013-09-09,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$6.70,-274,90517,0%,"-$1,836",0.0,12.0,20.0,54.0,BWEN
+285,,2013-09-06 16:13:46,2013-09-04,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$6.35,-6400,2765263,0%,"-$40,656",7.0,12.0,29.0,69.0,BWEN
+286,,2013-08-28 11:02:44,2013-08-26,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$6.10,-53337,2771663,-2%,"-$325,112",1.0,5.0,36.0,62.0,BWEN
+287,M,2013-08-26 16:28:40,2013-08-22,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$6.01,-41246,2825000,-1%,"-$247,918",-4.0,-4.0,19.0,43.0,BWEN
+288,M,2013-08-21 16:37:30,2013-08-19,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$6.00,-55298,2866246,-2%,"-$331,810",1.0,-1.0,28.0,52.0,BWEN
+289,D,2013-05-07 17:10:47,2013-05-04,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$4.40,-1428,90181,-2%,"-$6,283",1.0,-5.0,2.0,62.0,BWEN
+290,,2013-05-06 17:07:31,2013-05-02,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,7760,17565,+79%,+$0,0.0,-5.0,5.0,64.0,BWEN
+291,,2013-05-06 17:07:31,2013-05-04,BWEN,Wagner Thomas A.,Dir,F - Tax,$4.40,-2059,17565,-10%,"-$9,060",0.0,-5.0,5.0,64.0,BWEN
+292,D,2013-05-06 17:06:57,2013-05-02,BWEN,Reiland David P,Dir,A - Grant,$0.00,7760,18140,+75%,+$0,0.0,-5.0,5.0,64.0,BWEN
+293,D,2013-05-06 17:06:57,2013-05-04,BWEN,Reiland David P,Dir,F - Tax,$4.40,-3088,18140,-15%,"-$13,587",0.0,-5.0,5.0,64.0,BWEN
+294,D,2013-05-06 17:06:25,2013-05-02,BWEN,Fox Terence P,Dir,A - Grant,$0.00,7760,465849,+2%,+$0,0.0,-5.0,5.0,64.0,BWEN
+295,,2013-05-06 17:05:29,2013-05-02,BWEN,Fejes William Theodore Jr,Dir,A - Grant,$0.00,7760,16494,+89%,+$0,0.0,-5.0,5.0,64.0,BWEN
+296,,2013-05-06 17:05:29,2013-05-04,BWEN,Fejes William Theodore Jr,Dir,F - Tax,$4.40,-4117,16494,-20%,"-$18,115",0.0,-5.0,5.0,64.0,BWEN
+297,D,2013-05-06 17:04:45,2013-05-02,BWEN,Beynon Charles H.,Dir,A - Grant,$0.00,7760,27429,+39%,+$0,0.0,-5.0,5.0,64.0,BWEN
+298,D,2013-05-01 16:58:51,2013-04-29,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$4.72,-76,91609,0%,-$359,2.0,0.0,11.0,75.0,BWEN
+299,DM,2013-03-11 17:08:23,2013-03-07,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$4.08,-623,90918,-1%,"-$2,543",7.0,22.0,6.0,49.0,BWEN
+300,D,2013-02-25 16:50:07,2013-02-21,BWEN,Kushner Stephanie K,"EVP, CFO",A - Grant,$0.00,83027,169788,+96%,+$0,0.0,26.0,58.0,95.0,BWEN
+301,D,2013-02-25 16:49:46,2013-02-21,BWEN,Collins Jesse E. Jr.,"EVP, COO",A - Grant,$0.00,56151,91542,+159%,+$0,0.0,26.0,58.0,95.0,BWEN
+302,D,2013-02-25 16:49:46,2013-02-21,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$3.00,-6144,91542,-6%,"-$18,432",0.0,26.0,58.0,95.0,BWEN
+303,D,2013-02-25 16:49:18,2013-02-21,BWEN,Duprey Peter C.,"Pres, CEO",A - Grant,$0.00,136650,236017,+138%,+$0,0.0,26.0,58.0,95.0,BWEN
+304,D,2013-01-22 17:28:04,2013-01-18,BWEN,Rubin Jonathan David,"VP, GC",F - Tax,$2.58,-8152,21827,-27%,"-$21,032",-2.0,-7.0,26.0,95.0,BWEN
+305,D,2012-10-19 17:06:22,2012-10-17,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$2.17,-133,39766,0%,-$289,-5.0,-8.0,-16.0,64.0,BWEN
+306,D,2012-09-12 16:48:46,2012-09-09,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$2.00,-235,39899,-1%,-$470,3.0,2.0,-7.0,133.0,BWEN
+307,D,2012-09-06 17:17:58,2012-09-04,BWEN,Duprey Peter C.,"Pres, CEO",P - Purchase,$1.78,10000,98705,+11%,"+$17,783",3.0,21.0,18.0,129.0,BWEN
+308,D,2012-08-20 16:43:39,2012-08-16,BWEN,Kushner Stephanie K,"EVP, CFO",P - Purchase,$0.22,100000,852283,+13%,"+$21,750",5.0,3.0,6.0,35.0,BWEN
+309,M,2012-06-28 16:47:48,2012-06-26,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$0.27,-968000,29215455,-3%,"-$258,431",0.0,24.0,10.0,-18.0,BWEN
+310,DM,2012-06-11 17:26:41,2012-06-06,BWEN,Duprey Peter C.,"Pres, CEO",P - Purchase,$0.29,80000,860838,+10%,"+$22,988",3.0,-11.0,7.0,-23.0,BWEN
+311,D,2012-06-06 16:27:03,2012-06-04,BWEN,Kushner Stephanie K,"EVP, CFO",P - Purchase,$0.26,100000,735989,+16%,"+$26,410",-3.0,-3.0,17.0,-30.0,BWEN
+312,,2012-05-11 16:44:16,2012-05-09,BWEN,Marxe Austin W & Greenhouse David M,10%,S - Sale,$0.41,-170000,30183455,-1%,"-$69,468",-8.0,-22.0,-27.0,-42.0,BWEN
+313,,2012-05-08 17:23:54,2012-05-04,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,102941,118645,+656%,+$0,-3.0,-9.0,-24.0,-32.0,BWEN
+314,,2012-05-08 17:23:54,2012-05-06,BWEN,Wagner Thomas A.,Dir,F - Tax,$0.34,-6731,118645,-5%,"-$2,289",-3.0,-9.0,-24.0,-32.0,BWEN
+315,D,2012-05-08 17:23:20,2012-05-04,BWEN,Reiland David P,Dir,A - Grant,$0.00,102941,134695,+324%,+$0,-3.0,-9.0,-24.0,-32.0,BWEN
+316,D,2012-05-08 17:22:23,2012-05-04,BWEN,Fox Terence P,Dir,A - Grant,$0.00,102941,4580897,+2%,+$0,-3.0,-9.0,-24.0,-32.0,BWEN
+317,D,2012-05-08 17:21:27,2012-05-04,BWEN,Beynon Charles H.,Dir,A - Grant,$0.00,102941,196702,+110%,+$0,-3.0,-9.0,-24.0,-32.0,BWEN
+318,,2012-05-08 17:18:40,2012-05-04,BWEN,Fejes William Theodore Jr,Dir,A - Grant,$0.00,102941,128528,+402%,+$0,-3.0,-9.0,-24.0,-32.0,BWEN
+319,,2012-05-08 17:18:40,2012-05-06,BWEN,Fejes William Theodore Jr,Dir,F - Tax,$0.34,-7852,128528,-6%,"-$2,670",-3.0,-9.0,-24.0,-32.0,BWEN
+320,D,2012-05-08 17:15:15,2012-05-04,BWEN,Rubin Jonathan David,"VP, GC",A - Grant,$0.34,161243,278228,+138%,"+$54,823",-3.0,-9.0,-24.0,-32.0,BWEN
+321,D,2012-05-08 17:14:50,2012-05-04,BWEN,Kushner Stephanie K,"EVP, CFO",A - Grant,$0.34,341296,635989,+116%,"+$116,041",-3.0,-9.0,-24.0,-32.0,BWEN
+322,D,2012-05-08 17:13:20,2012-05-04,BWEN,Duprey Peter C.,"Pres, CEO",A - Grant,$0.34,580838,780838,+290%,"+$197,485",-3.0,-9.0,-24.0,-32.0,BWEN
+323,D,2012-05-08 17:12:50,2012-05-04,BWEN,Collins Jesse E. Jr.,"EVP, COO",A - Grant,$0.34,216039,384651,+128%,"+$73,453",-3.0,-9.0,-24.0,-32.0,BWEN
+324,D,2012-05-01 17:59:31,2012-04-29,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$0.34,-759,168612,0%,-$258,-3.0,-9.0,-24.0,-41.0,BWEN
+325,DM,2012-03-09 17:23:35,2012-03-07,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$0.67,-6925,169371,-4%,"-$4,658",-4.0,-24.0,-42.0,-73.0,BWEN
+326,DM,2012-03-09 17:23:16,2012-03-07,BWEN,Kushner Stephanie K,"EVP, CFO",F - Tax,$0.67,-13010,294693,-4%,"-$8,754",-4.0,-24.0,-42.0,-73.0,BWEN
+327,DM,2012-03-09 17:22:52,2012-03-07,BWEN,Rubin Jonathan David,"VP, GC",F - Tax,$0.67,-6023,116985,-5%,"-$4,052",-4.0,-24.0,-42.0,-73.0,BWEN
+328,D,2011-11-18 16:29:48,2011-11-16,BWEN,Kushner Stephanie K,"EVP, CFO",P - Purchase,$0.40,60450,307703,+24%,"+$24,337",20.0,31.0,48.0,-27.0,BWEN
+329,D,2011-10-19 17:09:33,2011-10-17,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$0.38,-1323,176296,-1%,-$503,0.0,0.0,39.0,-9.0,BWEN
+330,D,2011-09-12 17:21:08,2011-09-09,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$0.53,-2645,177619,-1%,"-$1,402",8.0,-11.0,-30.0,26.0,BWEN
+331,M,2011-08-09 21:46:42,2011-08-05,BWEN,Gendell Jeffrey L Et Al,10%,S - Sale,$0.95,-287426,19325310,-1%,"-$273,697",-8.0,4.0,-28.0,-3.0,BWEN
+332,D,2011-08-09 17:10:51,2011-08-08,BWEN,Kushner Stephanie K,"EVP, CFO",P - Purchase,$0.90,50000,247253,+25%,"+$44,985",-8.0,4.0,-28.0,-3.0,BWEN
+333,D,2011-05-12 17:32:53,2011-05-12,BWEN,Duprey Peter C.,"Pres, CEO",P - Purchase,$1.50,20000,200000,+11%,"+$29,998",-1.0,14.0,-1.0,-70.0,BWEN
+334,D,2011-05-10 18:00:57,2011-05-06,BWEN,Beynon Charles H.,Dir,A - Grant,$0.00,22435,93761,+31%,+$0,-5.0,-6.0,-7.0,-70.0,BWEN
+335,D,2011-05-10 17:52:16,2011-05-06,BWEN,Reiland David P,Dir,A - Grant,$0.00,22435,31754,+241%,+$0,-5.0,-6.0,-7.0,-70.0,BWEN
+336,,2011-05-09 17:27:15,2011-05-06,BWEN,Fox Terence P,Dir,A - Grant,$0.00,22435,4551929,0%,+$0,-2.0,-8.0,-6.0,-72.0,BWEN
+337,,2011-05-09 17:17:19,2011-05-06,BWEN,Wagner Thomas A.,Dir,A - Grant,$0.00,22435,22435,New,+$0,-2.0,-8.0,-6.0,-72.0,BWEN
+338,,2011-05-09 17:14:45,2011-05-06,BWEN,Fejes William Theodore Jr,Dir,A - Grant,$0.00,22435,33439,+204%,+$0,-2.0,-8.0,-6.0,-72.0,BWEN
+339,,2011-05-09 17:14:45,2011-05-05,BWEN,Fejes William Theodore Jr,Dir,F - Tax,$1.50,-2321,33439,-6%,"-$3,482",-2.0,-8.0,-6.0,-72.0,BWEN
+340,D,2011-05-03 17:10:35,2011-04-29,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$1.66,-760,180264,0%,"-$1,262",-4.0,1.0,5.0,-72.0,BWEN
+341,D,2011-03-09 19:00:29,2011-03-07,BWEN,Rubin Jonathan David,"VP, GC",A - Grant,$0.00,55458,123008,+82%,+$0,-5.0,1.0,-2.0,-58.0,BWEN
+342,D,2011-03-09 19:00:08,2011-03-07,BWEN,Kushner Stephanie K,"EVP, CFO",A - Grant,$0.00,117606,197253,+148%,+$0,-5.0,1.0,-2.0,-58.0,BWEN
+343,D,2011-03-09 18:58:01,2011-03-07,BWEN,Collins Jesse E. Jr.,"EVP, COO",A - Grant,$0.00,73944,181024,+69%,+$0,-5.0,1.0,-2.0,-58.0,BWEN
+344,D,2011-03-09 18:58:01,2011-03-09,BWEN,Collins Jesse E. Jr.,"EVP, COO",F - Tax,$1.37,-1260,181024,-1%,"-$1,726",-5.0,1.0,-2.0,-58.0,BWEN
+345,,2011-01-07 17:51:50,2010-08-10,BWEN,Drecoll John Cameron,10%,G - Gift,$0.00,-604839,10694629,-5%,-$0,-1.0,-2.0,-17.0,-34.0,BWEN
+346,,2011-01-07 17:51:50,2011-01-06,BWEN,Drecoll John Cameron,10%,S - Sale,$2.32,-130000,10694629,-1%,"-$301,548",-1.0,-2.0,-17.0,-34.0,BWEN
+347,D,2010-11-16 19:49:50,2010-11-15,BWEN,Duprey Peter C.,"Pres, CEO",A - Grant,$0.00,180000,180000,New,+$0,-4.0,0.0,13.0,-2.0,BWEN
+348,D,2010-10-19 16:45:10,2010-10-17,BWEN,Collins Jesse E. Jr.,"EVP, COO, 10%",F - Tax,$2.22,-1323,103615,-1%,"-$2,937",-6.0,-6.0,-17.0,-24.0,BWEN
+349,D,2010-10-19 16:44:53,2010-10-17,BWEN,Johnson Kevin Edward,"Corp. Cont., Chief Acct. Off",F - Tax,$2.22,-589,19863,-3%,"-$1,308",-6.0,-6.0,-17.0,-24.0,BWEN
+350,D,2010-09-13 17:11:03,2010-09-09,BWEN,Collins Jesse E. Jr.,"EVP, COO, 10%",A - Grant,$1.73,40000,104938,+62%,"+$69,200",-5.0,-10.0,21.0,-29.0,BWEN
+351,D,2010-07-30 17:15:37,2010-07-29,BWEN,Kushner Stephanie K,CFO,F - Tax,$2.94,-1841,73824,-2%,"-$5,413",-3.0,-4.0,-47.0,-34.0,BWEN
+352,D,2010-06-11 18:16:31,2010-06-09,BWEN,Beynon Charles H.,Dir,F - Tax,$2.29,-807,71326,-1%,"-$1,848",4.0,10.0,35.0,-19.0,BWEN
+353,,2010-06-11 18:03:51,2010-06-09,BWEN,Fejes William Theodore Jr,Dir,F - Tax,$2.29,-941,13325,-7%,"-$2,155",4.0,10.0,35.0,-19.0,BWEN
+354,D,2010-05-21 17:19:30,2010-05-19,BWEN,Kushner Stephanie K,CFO,P - Purchase,$2.80,10000,73556,+16%,"+$28,000",-8.0,-23.0,-12.0,-49.0,BWEN
+355,D,2010-05-07 16:58:03,2010-05-05,BWEN,Beynon Charles H.,Dir,A - Grant,$3.77,6631,72133,+10%,"+$24,999",-3.0,9.0,-24.0,-38.0,BWEN
+356,D,2010-05-07 16:57:04,2010-05-05,BWEN,Reiland David P,Dir,A - Grant,$3.77,6631,9319,+247%,"+$24,999",-3.0,9.0,-24.0,-38.0,BWEN
+357,,2010-05-07 16:56:39,2010-05-05,BWEN,Lindstrom James M,Dir,A - Grant,$3.77,6631,9319,+247%,"+$24,999",-3.0,9.0,-24.0,-38.0,BWEN
+358,,2010-05-07 16:56:21,2010-05-05,BWEN,Fox Terence P,Dir,A - Grant,$3.77,6631,4604494,0%,"+$24,999",-3.0,9.0,-24.0,-38.0,BWEN
+359,,2010-05-07 16:56:02,2010-05-05,BWEN,Fejes William Theodore Jr,Dir,A - Grant,$3.77,6631,14266,+87%,"+$24,999",-3.0,9.0,-24.0,-38.0,BWEN
+360,D,2010-05-03 20:44:48,2010-04-29,BWEN,Paxton Robert,Former SVP of HR,F - Tax,$4.09,-754,64619,-1%,"-$3,084",-5.0,-20.0,-45.0,-55.0,BWEN
+361,D,2010-05-03 18:00:13,2010-04-29,BWEN,Johnson Kevin Edward,"Corp. Cont., Chief Acct. Off",F - Tax,$4.09,-231,20098,-1%,-$945,-5.0,-20.0,-45.0,-55.0,BWEN
+362,D,2010-05-03 17:59:49,2010-04-29,BWEN,Collins Jesse E. Jr.,Group Pres,F - Tax,$4.09,-760,63636,-1%,"-$3,108",-5.0,-20.0,-45.0,-55.0,BWEN
+363,D,2010-05-03 17:59:22,2010-04-29,BWEN,Moller Lars,"Pres-Technology, Int'l",F - Tax,$4.09,-1461,90640,-2%,"-$5,975",-5.0,-20.0,-45.0,-55.0,BWEN
+364,,2010-03-26 17:39:42,2010-03-19,BWEN,Fejes William Theodore Jr,Dir,F - Tax,$4.11,-2095,7635,-22%,"-$8,610",0.0,-2.0,-12.0,-68.0,BWEN
+365,D,2010-03-18 17:39:52,2010-03-16,BWEN,Kushner Stephanie K,CFO,P - Purchase,$4.23,10000,63556,+19%,"+$42,275",4.0,12.0,3.0,-60.0,BWEN
+366,D,2010-03-11 17:35:06,2010-03-09,BWEN,Moller Lars,"Pres-Technology, Int'l",A - Grant,$5.44,30561,91587,+50%,"+$166,252",-21.0,-29.0,-25.0,-73.0,BWEN
+367,D,2010-03-11 17:29:30,2010-03-09,BWEN,Collins Jesse E. Jr.,Group Pres,A - Grant,$5.44,16429,63912,+35%,"+$89,374",-21.0,-29.0,-25.0,-73.0,BWEN
+368,D,2010-03-11 17:26:58,2010-03-09,BWEN,Johnson Kevin Edward,"Corp. Cont., Chief Acct. Off",A - Grant,$5.44,7353,20021,+58%,"+$40,000",-21.0,-29.0,-25.0,-73.0,BWEN
+369,D,2010-03-11 17:21:24,2010-03-09,BWEN,Kushner Stephanie K,CFO,A - Grant,$5.44,28378,53556,+113%,"+$154,376",-21.0,-29.0,-25.0,-73.0,BWEN
+370,D,2010-03-11 17:20:37,2010-03-09,BWEN,Rubin Jonathan David,"VP, GC",A - Grant,$5.44,12845,62947,+26%,"+$69,877",-21.0,-29.0,-25.0,-73.0,BWEN
+371,D,2010-03-11 17:16:15,2010-03-09,BWEN,Paxton Robert,SVP of HR,A - Grant,$5.44,14637,64728,+29%,"+$79,625",-21.0,-29.0,-25.0,-73.0,BWEN
+372,,2010-01-22 17:25:40,2010-01-21,BWEN,Drecoll John Cameron,"CEO, 10%",S - Sale,$5.46,-1125000,11429468,-9%,"-$6,145,313",3.0,8.0,-10.0,-44.0,BWEN
+373,,2010-01-22 16:48:15,2010-01-21,BWEN,Gendell Jeffrey L Et Al,10%,S - Sale,$5.46,-6125000,39963635,-13%,"-$33,457,813",3.0,8.0,-10.0,-44.0,BWEN
+374,D,2009-12-21 17:08:04,2009-12-17,BWEN,Moller Lars,"EVP, COO",A - Grant,$0.00,50000,60839,+461%,+$0,2.0,-5.0,-40.0,-78.0,BWEN
+375,D,2009-12-21 17:08:04,2009-12-17,BWEN,Moller Lars,"EVP, COO",F - Tax,$8.63,-14000,60839,-19%,"-$120,820",2.0,-5.0,-40.0,-78.0,BWEN
+376,M,2009-10-21 18:20:59,2009-10-19,BWEN,Drecoll John Cameron,CEO,S - Sale,$7.33,-38100,12554468,0%,"-$279,376",-3.0,-14.0,-7.0,-39.0,BWEN
+377,D,2009-10-20 18:02:04,2009-10-17,BWEN,Rubin Jonathan David,"VP, GC",F - Tax,$7.29,-1400,49999,-3%,"-$10,206",-2.0,-12.0,-10.0,-40.0,BWEN
+378,D,2009-10-20 17:56:39,2009-10-17,BWEN,Paxton Robert,SVP of HR,F - Tax,$7.29,-1400,50091,-3%,"-$10,206",-2.0,-12.0,-10.0,-40.0,BWEN
+379,D,2009-10-20 17:56:10,2009-10-17,BWEN,Johnson Kevin Edward,Dir of Compliance,F - Tax,$7.29,-560,12572,-4%,"-$4,082",-2.0,-12.0,-10.0,-40.0,BWEN
+380,D,2009-10-20 17:53:28,2009-10-17,BWEN,Collins Jesse E. Jr.,Group Pres,F - Tax,$7.29,-1250,47332,-3%,"-$9,113",-2.0,-12.0,-10.0,-40.0,BWEN
+381,M,2009-10-16 17:31:50,2009-10-14,BWEN,Drecoll John Cameron,CEO,S - Sale,$7.26,-91300,12592568,-1%,"-$663,043",0.0,-6.0,-24.0,-44.0,BWEN
+382,M,2009-10-14 17:04:02,2009-10-12,BWEN,Drecoll John Cameron,CEO,S - Sale,$7.36,-17000,12683868,0%,"-$125,063",-2.0,-2.0,-23.0,-41.0,BWEN
+383,,2009-07-01 16:04:48,2009-06-29,BWEN,Gendell Jeffrey L Et Al,10%,S - Sale,$10.69,-915000,46088635,-2%,"-$9,781,167",-1.0,-4.0,-9.0,-29.0,BWEN
+384,D,2009-06-12 10:47:01,2009-06-09,BWEN,Beynon Charles H.,Dir,A - Grant,$0.00,2688,65502,+4%,+$0,3.0,-19.0,11.0,-17.0,BWEN
+385,,2009-06-11 17:48:19,2009-06-09,BWEN,Fox Terence P,Dir,A - Grant,$0.00,2688,4597863,0%,+$0,3.0,-13.0,8.0,-21.0,BWEN
+386,,2009-06-11 17:38:16,2009-06-09,BWEN,Lindstrom James M,Dir,A - Grant,$0.00,2688,2688,New,+$0,3.0,-13.0,8.0,-21.0,BWEN
+387,D,2009-06-11 17:28:15,2009-06-09,BWEN,Reiland David P,Dir,A - Grant,$0.00,2688,2688,New,+$0,3.0,-13.0,8.0,-21.0,BWEN
+388,,2009-06-11 17:12:00,2009-06-09,BWEN,Fejes William Theodore Jr,Dir,A - Grant,$0.00,2688,9730,+38%,+$0,3.0,-13.0,8.0,-21.0,BWEN
+389,D,2009-05-01 17:37:44,2009-04-29,BWEN,Moller Lars,"EVP, COO",A - Grant,$7.78,19839,24839,+397%,"+$154,347",7.0,2.0,27.0,-27.0,BWEN
+390,D,2009-05-01 17:34:11,2009-04-29,BWEN,Rubin Jonathan David,"VP, GC",A - Grant,$7.78,8980,51399,+21%,"+$69,864",7.0,2.0,27.0,-27.0,BWEN
+391,D,2009-05-01 17:30:52,2009-04-29,BWEN,Paxton Robert,SVP of HR,A - Grant,$7.78,10233,51491,+25%,"+$79,613",7.0,2.0,27.0,-27.0,BWEN
+392,,2009-03-23 17:50:28,2009-03-19,BWEN,Fejes William Theodore Jr,Dir,A - Grant,$0.00,7042,7042,New,+$0,1.0,14.0,86.0,108.0,BWEN
+393,D,2009-03-13 13:28:44,2009-03-11,BWEN,Rubin Jonathan David,GC,A - Grant,$0.00,24193,42419,+133%,+$0,-10.0,35.0,106.0,166.0,BWEN
+394,D,2009-03-13 13:28:44,2009-03-11,BWEN,Rubin Jonathan David,GC,F - Tax,$3.10,-6774,42419,-14%,"-$20,999",-10.0,35.0,106.0,166.0,BWEN
+395,D,2009-03-13 13:28:02,2009-03-11,BWEN,Paxton Robert,SVP of HR,A - Grant,$0.00,22580,41258,+121%,+$0,-10.0,35.0,106.0,166.0,BWEN
+396,D,2009-03-13 13:28:02,2009-03-11,BWEN,Paxton Robert,SVP of HR,F - Tax,$3.10,-6322,41258,-13%,"-$19,598",-10.0,35.0,106.0,166.0,BWEN
+397,D,2008-10-21 16:33:27,2008-10-17,BWEN,Paxton Robert,SVP of HR,A - Grant,$0.00,25000,25000,New,+$0,-5.0,-8.0,-29.0,-10.0,BWEN
+398,D,2008-10-21 16:10:59,2008-10-17,BWEN,Rubin Jonathan David,GC,A - Grant,$0.00,25000,25000,New,+$0,-5.0,-8.0,-29.0,-10.0,BWEN
+399,,2008-06-06 17:02:58,2008-06-05,BWEN,Gendell Jeffrey L Et Al,10%,P - Purchase,$7.96,7537688,47003635,+19%,"+$59,999,996",-3.0,-16.0,-43.0,-83.0,BWEN
+400,D,2008-04-28 17:39:07,2008-04-24,BWEN,Beynon Charles H.,Dir,P - Purchase,$7.96,62814,62814,New,"+$499,999",5.0,3.0,56.0,-41.0,BWEN
+401,D,2008-04-28 17:37:46,2008-04-24,BWEN,Gendell Jeffrey L Et Al,10%,C - Converted deriv,$7.50,3333332,39465947,-8%,"$24,999,990",5.0,3.0,56.0,-41.0,BWEN
+402,D,2008-04-28 17:37:46,2008-04-24,BWEN,Gendell Jeffrey L Et Al,10%,P - Purchase,$7.96,5025126,39465947,+15%,"+$40,000,003",5.0,3.0,56.0,-41.0,BWEN
+403,DE,2008-01-17 16:00:20,2008-01-16,TWRT,Gendell Jeffrey L Et Al,10%,P - Purchase,$8.48,2031250,31107489,+7%,"+$17,225,000",,,,,BWEN
+404,D,2007-12-17 15:44:52,2007-12-13,TWRT,Huntington Steven A,CFO,A - Grant,$0.00,5000,5000,New,+$0,,,,,BWEN
+405,D,2007-12-17 15:44:13,2007-12-13,TWRT,Moller Lars,EVP Business Development,A - Grant,$0.00,5000,5000,New,+$0,,,,,BWEN
+406,D,2007-12-17 15:43:35,2007-12-13,TWRT,Gadow Matthew J,EVP of Strategic Planning,A - Grant,$0.00,5000,5000,New,+$0,,,,,BWEN
+407,,2007-11-06 12:37:55,2007-11-01,TWRT,Gendell Jeffrey L Et Al,10%,P - Purchase,$6.00,1709572,29076239,+6%,"+$10,257,432",,,,,BWEN
+408,,2007-11-05 18:19:07,2007-11-01,TWRT,Wergin Daniel P,Dir,S - Sale,$6.00,-359572,4000000,-8%,"-$2,157,432",,,,,BWEN
+409,,2007-11-05 17:20:17,2007-11-01,TWRT,Brickner Raymond L III,Pres,S - Sale,$6.00,-1000000,4259833,-19%,"-$6,000,000",,,,,BWEN
+410,,2007-11-05 16:12:37,2007-11-01,TWRT,Fox Terence P,"Sec., Gen. Counsel, 10%",S - Sale,$6.00,-350000,4595175,-7%,"-$2,100,000",,,,,BWEN
+411,,2007-10-23 17:18:30,2007-10-19,TWRT,Gendell Jeffrey L Et Al,10%,P - Purchase,$4.00,12500000,27366667,+84%,"+$50,000,000",,,,,BWEN
+412,,2007-10-23 17:16:09,2007-10-19,TWRT,Drecoll John Cameron,CEO,A - Grant,$0.00,12700868,12700868,New,+$0,,,,,BWEN
+413,A,2007-09-05 16:11:29,2007-08-29,TWRT,Allie Christopher C,Dir,S - Sale,$4.00,-675000,2577717,-21%,"-$2,700,000",,,,,BWEN
+414,A,2007-09-04 17:25:53,2007-08-29,TWRT,Fox Terence P,"Sec., Gen. Counsel, 10%",S - Sale,$4.00,-310000,2945175,-10%,"-$1,240,000",,,,,BWEN
+415,A,2007-09-04 17:25:12,2007-08-29,TWRT,Wergin Daniel P,"VP, 10%",S - Sale,$4.00,-945000,4359572,-18%,"-$3,780,000",,,,,BWEN
+416,,2007-08-29 16:12:15,2007-08-28,TWRT,Gendell Jeffrey L Et Al,10%,P - Purchase,$4.00,2200000,2973333,+284%,"+$8,800,000",,,,,BWEN
+417,,2007-08-27 17:54:26,2007-08-23,TWRT,Wergin Daniel P,"VP, 10%",S - Sale,$4.00,-945000,4359572,-18%,"-$3,780,000",,,,,BWEN
+418,,2007-08-27 17:53:21,2007-08-23,TWRT,Fox Terence P,"Sec., Gen. Counsel, 10%",S - Sale,$4.00,-310000,2945175,-10%,"-$1,240,000",,,,,BWEN
+419,,2007-08-27 17:52:59,2007-08-23,TWRT,Allie Christopher C,Dir,S - Sale,$4.00,-675000,2577717,-21%,"-$2,700,000",,,,,BWEN
+420,,2007-03-05 16:59:45,2007-03-01,TWRT,Fox Terence P,"Sec, GC, 10%",A - Grant,$1.50,167675,5255175,+3%,"+$251,513",,,,,BWEN
+421,,2007-03-05 16:59:45,2007-03-01,TWRT,Fox Terence P,"Sec, GC, 10%",S - Sale,$1.50,-600000,5255175,-10%,"-$900,000",,,,,BWEN
+422,,2007-03-05 16:17:05,2007-03-01,TWRT,Brickner Raymond L III,"Pres, 10%",A - Grant,$1.50,172333,5259833,+3%,"+$258,500",,,,,BWEN
+423,,2007-03-05 16:17:05,2007-03-01,TWRT,Brickner Raymond L III,"Pres, 10%",S - Sale,$1.50,-600000,5259833,-10%,"-$900,000",,,,,BWEN
+424,,2007-03-05 11:44:56,2007-03-01,TWRT,Allie Christopher C,"Dir, 10%",A - Grant,$1.50,165217,5252717,+3%,"+$247,826",,,,,BWEN
+425,,2007-03-05 11:44:56,2007-03-01,TWRT,Allie Christopher C,"Dir, 10%",S - Sale,$1.50,-600000,5252717,-10%,"-$900,000",,,,,BWEN
+426,,2007-03-05 10:01:58,2007-03-01,TWRT,Wergin Daniel P,"VP, 10%",A - Grant,$1.50,217072,5304572,+4%,"+$325,608",,,,,BWEN
+427,,2007-03-05 10:01:58,2007-03-01,TWRT,Wergin Daniel P,"VP, 10%",S - Sale,$1.50,-600000,5304572,-10%,"-$900,000",,,,,BWEN

@@ -1,67 +1,527 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-02-03 16:38:28,2022-02-02,INFO,Easton Michael M,Chief Accounting Officer,S - Sale,$118.08,-5632,10891,-34%,"-$665,024",,,,,INFO
-1,AM,2021-08-11 16:06:20,2021-08-02,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$118.45,-63190,1272323,-5%,"-$7,484,599",,,,,INFO
-2,,2021-08-06 16:13:16,2021-08-05,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$118.85,-36810,1237513,-3%,"-$4,374,869",,,,,INFO
-3,M,2021-08-04 17:41:29,2021-08-02,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$118.45,-61190,1274323,-5%,"-$7,248,059",,,,,INFO
-4,D,2021-06-28 17:17:27,2021-06-25,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",S - Sale+OE,$112.88,-90000,65244,-58%,"-$10,159,200",,,,,INFO
-5,,2021-04-29 18:43:06,2021-04-28,INFO,Giadrossi Nicoletta,Dir,S - Sale,$106.25,-3377,5612,-38%,"-$358,806",,,,,INFO
-6,,2021-02-17 17:20:04,2021-02-12,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$93.17,-55000,1335513,-4%,"-$5,124,350",,,,,INFO
-7,,2021-02-03 17:45:22,2021-02-02,INFO,Easton Michael M,Chief Accounting Officer,S - Sale,$90.17,-11605,15045,-44%,"-$1,046,406",,,,,INFO
-8,,2021-02-03 17:40:20,2021-02-02,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$90.19,-61372,101208,-38%,"-$5,534,966",,,,,INFO
-9,M,2021-01-19 17:21:47,2021-01-15,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$85.01,-15993,105217,-13%,"-$1,359,495",,,,,INFO
-10,,2020-11-05 18:14:20,2020-11-03,INFO,Tavernier Edouard,"EVP, Transportation",S - Sale,$84.42,-889,27759,-3%,"-$75,049",,,,,INFO
-11,D,2020-07-22 17:17:16,2020-07-21,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",S - Sale+OE,$80.00,-60000,49898,-55%,"-$4,800,000",,,,,INFO
-12,,2020-07-14 19:21:46,2020-07-14,INFO,Hyatt Todd S.,EVP,S - Sale,$75.50,-40500,123211,-25%,"-$3,057,714",,,,,INFO
-13,,2020-07-01 19:30:27,2020-07-01,INFO,Kelly Robert P,Dir,P - Purchase,$75.88,2000,109641,+2%,"+$151,760",,,,,INFO
-14,,2020-06-29 19:16:13,2020-06-26,INFO,Kelly Robert P,Dir,P - Purchase,$72.29,5000,107641,+5%,"+$361,450",,,,,INFO
-15,D,2020-05-12 19:14:46,2020-05-11,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$67.75,-100000,125847,-44%,"-$6,775,225",,,,,INFO
-16,,2020-04-28 21:05:23,2020-04-27,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$67.50,-13948,130727,-10%,"-$941,490",,,,,INFO
-17,D,2020-04-20 16:32:00,2020-04-17,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale+OE,$67.03,-496764,1210588,-29%,"-$33,298,091",,,,,INFO
-18,M,2020-04-07 21:21:33,2020-04-06,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$65.00,-27689,144675,-16%,"-$1,799,681",,,,,INFO
-19,M,2020-04-01 16:50:41,2020-03-31,INFO,Ford William E,Dir,P - Purchase,$59.16,2983,45649,+7%,"+$176,473",,,,,INFO
-20,,2020-03-30 19:53:53,2020-03-26,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$58.84,-13880,172364,-7%,"-$816,650",,,,,INFO
-21,,2020-03-30 19:49:40,2020-03-26,INFO,Ford William E,Dir,P - Purchase,$58.46,20000,42666,+88%,"+$1,169,200",,,,,INFO
-22,,2020-02-20 18:26:11,2020-02-18,INFO,Tavernier Edouard,"EVP, Transportation",S - Sale,$80.34,-1370,28648,-5%,"-$110,066",,,,,INFO
-23,DM,2020-02-20 18:16:21,2020-02-18,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale+OE,$80.64,-587052,1387904,-30%,"-$47,341,347",,,,,INFO
-24,,2020-02-18 17:23:33,2020-02-14,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale,$80.63,-53820,125847,-30%,"-$4,339,507",,,,,INFO
-25,D,2020-02-12 16:37:45,2020-02-10,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$81.09,-100000,179667,-36%,"-$8,109,000",,,,,INFO
-26,D,2020-02-10 16:23:24,2020-02-06,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$80.46,-73400,179667,-29%,"-$5,905,558",,,,,INFO
-27,D,2020-02-04 20:01:25,2020-02-04,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$81.01,-26600,179667,-13%,"-$2,154,866",,,,,INFO
-28,,2020-02-04 19:53:33,2020-02-04,INFO,Hyatt Todd S.,EVP,S - Sale,$80.59,-46957,199257,-19%,"-$3,784,265",,,,,INFO
-29,,2020-02-04 19:50:01,2020-02-04,INFO,Easton Michael M,Chief Accounting Officer,S - Sale,$80.59,-20303,19419,-51%,"-$1,636,219",,,,,INFO
-30,,2020-02-04 19:46:58,2020-02-04,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$80.59,-14447,195563,-7%,"-$1,164,284",,,,,INFO
-31,,2020-02-03 16:45:59,2020-01-30,INFO,Roedel Richard,Dir,S - Sale,$79.90,-31000,199442,-13%,"-$2,476,900",,,,,INFO
-32,DM,2020-01-27 18:49:53,2020-01-24,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$79.83,-100000,119467,-46%,"-$7,983,232",,,,,INFO
-33,,2020-01-21 16:31:40,2020-01-16,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",S - Sale,$80.08,-16191,151960,-10%,"-$1,296,575",,,,,INFO
-34,D,2020-01-21 16:27:41,2020-01-16,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale+OE,$78.12,-1302933,1105143,-54%,"-$101,784,905",,,,,INFO
-35,,2020-01-21 16:23:57,2020-01-16,INFO,Ernst Ruann Faye,Dir,S - Sale,$77.96,-2500,72881,-3%,"-$194,900",,,,,INFO
-36,D,2020-01-21 16:20:53,2020-01-16,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",S - Sale+OE,$78.22,-75000,36141,-67%,"-$5,866,356",,,,,INFO
-37,D,2020-01-21 16:17:47,2020-01-16,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$78.10,-200000,119467,-63%,"-$15,620,089",,,,,INFO
-38,DM,2019-11-18 18:32:37,2019-11-15,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale+OE,$71.43,-245357,408076,-38%,"-$17,524,861",,,,,INFO
-39,,2019-08-05 19:59:14,2019-08-02,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$63.56,-25483,217600,-10%,"-$1,619,699",,,,,INFO
-40,D,2019-07-15 20:11:43,2019-07-12,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$65.53,-50000,119467,-30%,"-$3,276,500",,,,,INFO
-41,D,2019-07-11 16:22:08,2019-07-10,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",S - Sale+OE,$65.00,-25000,36141,-41%,"-$1,625,000",,,,,INFO
-42,D,2019-07-03 17:46:27,2019-07-03,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$65.09,-150000,119467,-56%,"-$9,763,500",,,,,INFO
-43,D,2019-07-01 19:07:10,2019-06-28,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$62.97,-263400,119467,-69%,"-$16,586,416",,,,,INFO
-44,D,2019-07-01 19:03:55,2019-06-28,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",S - Sale+OE,$63.04,-50000,36141,-58%,"-$3,152,000",,,,,INFO
-45,,2019-05-14 16:30:32,2019-05-13,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$54.50,-30000,287604,-9%,"-$1,635,000",,,,,INFO
-46,,2019-05-02 19:27:06,2019-05-02,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$56.24,-40000,243083,-14%,"-$2,249,600",,,,,INFO
-47,,2019-02-12 16:08:04,2019-02-11,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",S - Sale,$52.51,-15587,168151,-8%,"-$818,473",,,,,INFO
-48,,2019-02-06 17:52:48,2019-02-05,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$52.03,-7942,283083,-3%,"-$413,222",,,,,INFO
-49,,2019-02-06 17:46:35,2019-02-05,INFO,Easton Michael M,Chief Accounting Officer,S - Sale,$52.03,-12461,24721,-34%,"-$648,346",,,,,INFO
-50,,2019-02-06 17:43:19,2019-02-05,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",S - Sale,$52.03,-46460,183738,-20%,"-$2,417,314",,,,,INFO
-51,,2019-01-29 18:19:10,2018-12-28,INFO,Rosenthal James A,Dir,P - Purchase,$47.30,1000,11397,+10%,"+$47,300",,,,,INFO
-52,,2018-11-15 17:07:04,2018-11-14,INFO,Ford William E,Dir,S - Sale,$50.15,-5800000,16452,-100%,"-$290,870,000",,,,,INFO
-53,,2018-10-02 17:56:32,2018-10-01,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$54.01,-14517,341598,-4%,"-$784,063",,,,,INFO
-54,D,2018-07-12 19:28:39,2018-07-12,INFO,Granat Sari Beth,"EVP, GC",S - Sale+OE,$53.00,-24900,25580,-49%,"-$1,319,700",,,,,INFO
-55,D,2018-07-11 16:57:07,2018-07-09,INFO,Granat Sari Beth,"EVP, GC",S - Sale+OE,$53.00,-100,25580,0%,"-$5,300",,,,,INFO
-56,,2018-07-06 16:04:01,2018-07-05,INFO,Ford William E,Dir,S - Sale,$52.05,-2000000,5815907,-26%,"-$104,100,000",,,,,INFO
-57,D,2018-07-02 17:15:41,2018-06-29,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$52.00,-45910,111052,-29%,"-$2,387,320",,,,,INFO
-58,D,2018-07-02 17:11:36,2018-06-29,INFO,Granat Sari Beth,"EVP, GC",S - Sale+OE,$51.99,-25000,25580,-49%,"-$1,299,750",,,,,INFO
-59,M,2018-05-07 16:36:44,2018-05-03,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$48.81,-60000,346023,-15%,"-$2,928,804",,,,,INFO
-60,M,2018-05-03 16:20:44,2018-05-01,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$49.15,-60000,406023,-13%,"-$2,948,700",,,,,INFO
-61,,2018-05-03 16:19:08,2018-05-01,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$49.06,-25000,379379,-6%,"-$1,226,500",,,,,INFO
-62,D,2018-04-26 16:28:18,2018-04-24,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$49.50,-10000,111052,-8%,"-$495,000",,,,,INFO
-63,D,2018-04-18 19:08:03,2018-04-17,INFO,Kansler Adam Jason,"EVP, Financial Markets",S - Sale+OE,$49.04,-20000,111052,-15%,"-$980,800",,,,,INFO
-64,M,2018-04-18 18:52:23,2018-04-16,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$48.94,-140000,466023,-23%,"-$6,851,600",,,,,INFO
-65,M,2018-04-16 19:29:36,2018-04-12,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$48.54,-80000,606023,-12%,"-$3,882,891",,,,,INFO
+0,,2022-02-14 16:32:15,2022-02-11,INFO,Uggla Lance Darrell Gordon,"CEO, COB",F - Tax,$117.47,-39039,1578207,-2%,"-$4,585,911",,,,,INFO
+1,,2022-02-03 17:01:05,2022-02-01,INFO,Tavernier Edouard,"EVP, Transportation",A - Grant,$0.00,7782,36871,+27%,+$0,,,,,INFO
+2,,2022-02-03 17:01:05,2022-02-01,INFO,Tavernier Edouard,"EVP, Transportation",F - Tax,$117.47,-4468,36871,-11%,"-$524,856",,,,,INFO
+3,,2022-02-03 16:55:35,2022-02-01,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",A - Grant,$0.00,109226,245059,+80%,+$0,,,,,INFO
+4,,2022-02-03 16:55:35,2022-02-01,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",F - Tax,$117.47,-62738,245059,-20%,"-$7,369,833",,,,,INFO
+5,,2022-02-03 16:50:52,2022-02-01,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",A - Grant,$0.00,29188,71493,+69%,+$0,,,,,INFO
+6,,2022-02-03 16:50:52,2022-02-01,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",F - Tax,$117.47,-22080,71493,-24%,"-$2,593,738",,,,,INFO
+7,,2022-02-03 16:46:23,2022-02-01,INFO,Gear Jonathan,"EVP, CFO",A - Grant,$0.00,87750,132190,+197%,+$0,,,,,INFO
+8,,2022-02-03 16:46:23,2022-02-01,INFO,Gear Jonathan,"EVP, CFO",F - Tax,$117.47,-44398,132190,-25%,"-$5,215,433",,,,,INFO
+9,,2022-02-03 16:42:05,2022-02-01,INFO,Uggla Lance Darrell Gordon,"CEO, COB",A - Grant,$0.00,389180,1617246,+32%,+$0,,,,,INFO
+10,,2022-02-03 16:42:05,2022-02-01,INFO,Uggla Lance Darrell Gordon,"CEO, COB",F - Tax,$117.47,-7447,1617246,0%,"-$874,799",,,,,INFO
+11,,2022-02-03 16:38:28,2022-02-01,INFO,Easton Michael M,Chief Accounting Officer,A - Grant,$0.00,4864,10891,+81%,+$0,,,,,INFO
+12,,2022-02-03 16:38:28,2022-02-01,INFO,Easton Michael M,Chief Accounting Officer,F - Tax,$117.47,-3386,10891,-24%,"-$397,753",,,,,INFO
+13,,2022-02-03 16:38:28,2022-02-02,INFO,Easton Michael M,Chief Accounting Officer,S - Sale,$118.08,-5632,10891,-34%,"-$665,024",,,,,INFO
+14,,2022-01-03 18:11:04,2021-12-31,INFO,Gear Jonathan,"EVP, CFO",F - Tax,$132.92,-9988,88838,-10%,"-$1,327,605",,,,,INFO
+15,,2021-12-30 16:05:16,2021-12-28,INFO,Crotty Brian,"EVP, Resources",A - Grant,$0.00,26720,30487,+709%,+$0,,,,,INFO
+16,,2021-12-30 16:05:16,2021-12-28,INFO,Crotty Brian,"EVP, Resources",F - Tax,$133.31,-16198,30487,-35%,"-$2,159,355",,,,,INFO
+17,,2021-12-17 16:36:57,2021-12-15,INFO,Rosenthal James A,Dir,A - Grant,$0.00,171,21898,+1%,+$0,,,,,INFO
+18,,2021-12-17 16:34:28,2021-12-15,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,228,56475,0%,+$0,,,,,INFO
+19,,2021-12-17 16:31:45,2021-12-15,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,228,39511,+1%,+$0,,,,,INFO
+20,,2021-12-17 16:29:27,2021-12-15,INFO,Kelly Robert P,Dir,A - Grant,$0.00,266,113286,0%,+$0,,,,,INFO
+21,,2021-12-17 16:27:12,2021-12-15,INFO,Ford William E,Dir,A - Grant,$0.00,228,52119,0%,+$0,,,,,INFO
+22,,2021-12-17 16:24:35,2021-12-15,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,228,72396,0%,+$0,,,,,INFO
+23,,2021-11-22 16:47:03,2021-11-18,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",G - Gift,$0.00,-859,64385,-1%,-$0,,,,,INFO
+24,,2021-11-17 17:40:41,2021-11-16,INFO,Gear Jonathan,"EVP, CFO",G - Gift,$0.00,-2382,98826,-2%,-$0,,,,,INFO
+25,,2021-09-16 17:54:21,2021-09-15,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,246,72168,0%,+$0,,,,,INFO
+26,,2021-09-16 16:58:36,2021-09-15,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,246,39283,+1%,+$0,,,,,INFO
+27,,2021-09-16 16:55:56,2021-09-15,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,246,56247,0%,+$0,,,,,INFO
+28,,2021-09-16 16:49:23,2021-09-15,INFO,Kelly Robert P,Dir,A - Grant,$0.00,287,113020,0%,+$0,,,,,INFO
+29,,2021-09-16 16:46:55,2021-09-15,INFO,Ford William E,Dir,A - Grant,$0.00,246,51891,0%,+$0,,,,,INFO
+30,,2021-09-16 16:44:21,2021-09-15,INFO,Rosenthal James A,Dir,A - Grant,$0.00,185,21727,+1%,+$0,,,,,INFO
+31,AM,2021-08-11 16:06:20,2021-08-02,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$118.45,-63190,1272323,-5%,"-$7,484,599",,,,,INFO
+32,,2021-08-06 16:13:16,2021-08-05,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$118.85,-36810,1237513,-3%,"-$4,374,869",,,,,INFO
+33,M,2021-08-04 17:41:29,2021-08-02,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$118.45,-61190,1274323,-5%,"-$7,248,059",,,,,INFO
+34,D,2021-06-28 17:17:27,2021-06-25,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",M - OptEx,$27.61,90000,65244,-364%,"+$2,484,900",,,,,INFO
+35,D,2021-06-28 17:17:27,2021-06-25,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",S - Sale+OE,$112.88,-90000,65244,-58%,"-$10,159,200",,,,,INFO
+36,,2021-06-17 16:33:40,2021-06-15,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,280,39037,+1%,+$0,,,,,INFO
+37,,2021-06-17 16:28:03,2021-06-15,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,280,56001,+1%,+$0,,,,,INFO
+38,,2021-06-17 16:22:49,2021-06-15,INFO,Rosenthal James A,Dir,A - Grant,$0.00,210,21542,+1%,+$0,,,,,INFO
+39,,2021-06-17 16:18:44,2021-06-15,INFO,Ford William E,Dir,A - Grant,$0.00,280,51645,+1%,+$0,,,,,INFO
+40,,2021-06-17 16:14:55,2021-06-15,INFO,Kelly Robert P,Dir,A - Grant,$0.00,326,112733,0%,+$0,,,,,INFO
+41,,2021-06-17 16:09:27,2021-06-15,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,280,71922,0%,+$0,,,,,INFO
+42,,2021-05-07 16:43:51,2021-05-05,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,1680,38757,+5%,+$0,,,,,INFO
+43,,2021-05-07 16:40:56,2021-05-05,INFO,Esculier Jacques,Dir,A - Grant,$0.00,1680,4488,+60%,+$0,,,,,INFO
+44,,2021-05-07 16:38:35,2021-05-05,INFO,Browne Lord of Madingley,Dir,A - Grant,$0.00,1680,12750,+15%,+$0,,,,,INFO
+45,,2021-05-07 16:36:16,2021-05-05,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,1680,71642,+2%,+$0,,,,,INFO
+46,,2021-05-07 16:33:42,2021-05-05,INFO,Ernst Ruann Faye,Dir,A - Grant,$0.00,1680,75799,+2%,+$0,,,,,INFO
+47,,2021-05-07 16:30:28,2021-05-05,INFO,Kelly Robert P,Dir,A - Grant,$0.00,1680,112407,+2%,+$0,,,,,INFO
+48,,2021-05-07 16:27:42,2021-05-05,INFO,Evans Gay Huey,Dir,A - Grant,$0.00,1862,2481,+301%,+$0,,,,,INFO
+49,,2021-05-07 16:27:42,2021-05-05,INFO,Evans Gay Huey,Dir,F - Tax,$108.02,-649,2481,-21%,"-$70,105",,,,,INFO
+50,,2021-05-07 16:24:07,2021-05-05,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,1680,55721,+3%,+$0,,,,,INFO
+51,,2021-05-07 16:18:58,2021-05-05,INFO,Rosenthal James A,Dir,A - Grant,$0.00,1680,21332,+9%,+$0,,,,,INFO
+52,,2021-05-07 16:16:04,2021-05-05,INFO,Ford William E,Dir,A - Grant,$0.00,1680,51365,+3%,+$0,,,,,INFO
+53,,2021-05-07 16:10:44,2021-05-05,INFO,Giadrossi Nicoletta,Dir,A - Grant,$0.00,1680,7292,+30%,+$0,,,,,INFO
+54,,2021-04-29 18:43:06,2021-04-28,INFO,Giadrossi Nicoletta,Dir,S - Sale,$106.25,-3377,5612,-38%,"-$358,806",,,,,INFO
+55,,2021-04-20 16:13:22,2021-04-16,INFO,Browne Lord of Madingley,Dir,F - Tax,$103.94,-1254,11070,-10%,"-$130,341",,,,,INFO
+56,,2021-03-24 17:16:41,2021-03-15,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,324,37077,+1%,+$0,,,,,INFO
+57,,2021-03-17 18:10:57,2021-03-15,INFO,Rosenthal James A,Dir,A - Grant,$0.00,243,19652,+1%,+$0,,,,,INFO
+58,,2021-03-17 18:07:53,2021-03-15,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,324,54041,+1%,+$0,,,,,INFO
+59,,2021-03-17 18:02:44,2021-03-15,INFO,Kelly Robert P,Dir,A - Grant,$0.00,378,110727,0%,+$0,,,,,INFO
+60,,2021-03-17 17:59:15,2021-03-15,INFO,Ford William E,Dir,A - Grant,$0.00,324,49685,+1%,+$0,,,,,INFO
+61,,2021-03-17 17:56:02,2021-03-15,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,324,69962,0%,+$0,,,,,INFO
+62,,2021-02-17 17:26:07,2021-02-03,INFO,Ernst Ruann Faye,Dir,G - Gift,$89.66,-1159,74119,-2%,"-$103,916",,,,,INFO
+63,,2021-02-17 17:20:04,2021-02-12,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$93.17,-55000,1335513,-4%,"-$5,124,350",,,,,INFO
+64,,2021-02-03 17:53:51,2021-02-01,INFO,Crotty Brian,"EVP, Resources",A - Grant,$0.00,8168,19965,+69%,+$0,,,,,INFO
+65,,2021-02-03 17:53:51,2021-02-01,INFO,Crotty Brian,"EVP, Resources",F - Tax,$88.35,-3132,19965,-14%,"-$276,712",,,,,INFO
+66,,2021-02-03 17:45:22,2021-02-01,INFO,Easton Michael M,Chief Accounting Officer,A - Grant,$0.00,13255,15045,+741%,+$0,,,,,INFO
+67,,2021-02-03 17:45:22,2021-02-01,INFO,Easton Michael M,Chief Accounting Officer,F - Tax,$88.35,-6024,15045,-29%,"-$532,220",,,,,INFO
+68,,2021-02-03 17:45:22,2021-02-02,INFO,Easton Michael M,Chief Accounting Officer,S - Sale,$90.17,-11605,15045,-44%,"-$1,046,406",,,,,INFO
+69,,2021-02-03 17:40:20,2021-02-01,INFO,Gear Jonathan,"EVP, CFO",A - Grant,$0.00,104467,101208,-3205%,+$0,,,,,INFO
+70,,2021-02-03 17:40:20,2021-02-01,INFO,Gear Jonathan,"EVP, CFO",F - Tax,$88.35,-47104,101208,-32%,"-$4,161,638",,,,,INFO
+71,,2021-02-03 17:40:20,2021-02-02,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$90.19,-61372,101208,-38%,"-$5,534,966",,,,,INFO
+72,,2021-02-03 17:34:26,2021-02-01,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",A - Grant,$0.00,31960,65244,+96%,+$0,,,,,INFO
+73,,2021-02-03 17:34:26,2021-02-01,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",F - Tax,$88.35,-16614,65244,-20%,"-$1,467,847",,,,,INFO
+74,,2021-02-03 17:29:54,2021-02-01,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",A - Grant,$0.00,125975,198571,+174%,+$0,,,,,INFO
+75,,2021-02-03 17:29:54,2021-02-01,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",F - Tax,$0.00,-53251,198571,-21%,-$0,,,,,INFO
+76,,2021-02-03 17:23:28,2021-02-01,INFO,Tavernier Edouard,"EVP, Transportation",A - Grant,$0.00,12331,33557,+58%,+$0,,,,,INFO
+77,,2021-02-03 17:23:28,2021-02-01,INFO,Tavernier Edouard,"EVP, Transportation",F - Tax,$88.35,-6533,33557,-16%,"-$577,191",,,,,INFO
+78,,2021-02-03 17:17:02,2021-02-01,INFO,Uggla Lance Darrell Gordon,"CEO, COB",A - Grant,$0.00,336134,1390513,+32%,+$0,,,,,INFO
+79,,2021-02-03 17:17:02,2021-02-01,INFO,Uggla Lance Darrell Gordon,"CEO, COB",F - Tax,$88.35,-156209,1390513,-10%,"-$13,801,065",,,,,INFO
+80,M,2021-01-19 17:21:47,2021-01-15,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$85.01,-15993,105217,-13%,"-$1,359,495",,,,,INFO
+81,,2021-01-04 18:43:19,2020-12-31,INFO,Gear Jonathan,"EVP, CFO",F - Tax,$89.83,-9517,121210,-7%,"-$854,912",,,,,INFO
+82,,2020-12-17 17:29:27,2020-12-15,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,309,69638,0%,+$0,,,,,INFO
+83,,2020-12-17 17:21:39,2020-12-15,INFO,Ford William E,Dir,A - Grant,$0.00,309,49361,+1%,+$0,,,,,INFO
+84,,2020-12-17 17:00:48,2020-12-15,INFO,Kelly Robert P,Dir,A - Grant,$0.00,364,110349,0%,+$0,,,,,INFO
+85,,2020-12-17 16:48:09,2020-12-15,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,309,53717,+1%,+$0,,,,,INFO
+86,,2020-12-17 16:42:18,2020-12-15,INFO,Rosenthal James A,Dir,A - Grant,$0.00,227,19409,+1%,+$0,,,,,INFO
+87,,2020-11-05 18:14:20,2020-11-03,INFO,Tavernier Edouard,"EVP, Transportation",S - Sale,$84.42,-889,27759,-3%,"-$75,049",,,,,INFO
+88,,2020-09-14 18:42:57,2020-09-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,187,19182,+1%,+$0,,,,,INFO
+89,,2020-09-14 18:33:06,2020-09-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,281,49852,+1%,+$0,,,,,INFO
+90,,2020-09-14 18:27:06,2020-09-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,344,109985,0%,+$0,,,,,INFO
+91,,2020-09-14 18:24:06,2020-09-10,INFO,Ford William E,Dir,A - Grant,$0.00,281,49052,+1%,+$0,,,,,INFO
+92,,2020-09-14 18:20:33,2020-09-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,281,69329,0%,+$0,,,,,INFO
+93,,2020-08-25 19:13:22,2020-08-21,INFO,Evans Gay Huey,Dir,A - Grant,$0.00,1268,1268,New,+$0,,,,,INFO
+94,D,2020-07-22 17:17:16,2020-07-21,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",M - OptEx,$27.61,60000,49898,-594%,"+$1,656,600",,,,,INFO
+95,D,2020-07-22 17:17:16,2020-07-21,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",S - Sale+OE,$80.00,-60000,49898,-55%,"-$4,800,000",,,,,INFO
+96,,2020-07-14 19:21:46,2020-07-12,INFO,Hyatt Todd S.,EVP,F - Tax,$75.64,-35546,123211,-22%,"-$2,688,699",,,,,INFO
+97,,2020-07-14 19:21:46,2020-07-14,INFO,Hyatt Todd S.,EVP,S - Sale,$75.50,-40500,123211,-25%,"-$3,057,714",,,,,INFO
+98,,2020-07-01 19:30:27,2020-07-01,INFO,Kelly Robert P,Dir,P - Purchase,$75.88,2000,109641,+2%,"+$151,760",,,,,INFO
+99,,2020-06-29 19:16:13,2020-06-26,INFO,Kelly Robert P,Dir,P - Purchase,$72.29,5000,107641,+5%,"+$361,450",,,,,INFO
+100,A,2020-06-16 18:02:42,2020-06-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,314,53127,+1%,+$0,,,,,INFO
+101,A,2020-06-16 17:56:40,2020-06-10,INFO,Ford William E,Dir,A - Grant,$0.00,314,48771,+1%,+$0,,,,,INFO
+102,A,2020-06-16 17:51:07,2020-06-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,314,69048,0%,+$0,,,,,INFO
+103,A,2020-06-16 17:45:02,2020-06-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,383,102641,0%,+$0,,,,,INFO
+104,A,2020-06-16 17:37:36,2020-06-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,209,18995,+1%,+$0,,,,,INFO
+105,,2020-06-12 21:54:21,2020-06-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,279,102537,0%,+$0,,,,,INFO
+106,,2020-06-12 21:52:36,2020-06-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,209,68943,0%,+$0,,,,,INFO
+107,,2020-06-12 21:50:54,2020-06-10,INFO,Ford William E,Dir,A - Grant,$0.00,209,48666,0%,+$0,,,,,INFO
+108,,2020-06-12 21:48:24,2020-06-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,209,53022,0%,+$0,,,,,INFO
+109,,2020-06-12 21:46:17,2020-06-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,105,18891,+1%,+$0,,,,,INFO
+110,,2020-06-12 21:43:35,2020-04-16,INFO,Rosenthal James A,Dir,F - Tax,$64.84,-455,18786,-2%,"-$29,502",,,,,INFO
+111,A,2020-06-02 19:44:52,2020-04-26,INFO,Roedel Richard,Dir,A - Grant,$0.00,340,197680,0%,+$0,,,,,INFO
+112,A,2020-06-02 19:44:52,2020-04-26,INFO,Roedel Richard,Dir,F - Tax,$65.60,-2424,197680,-1%,"-$159,014",,,,,INFO
+113,DM,2020-05-12 19:14:46,2020-05-11,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$26.70,100000,125847,+387%,"+$2,670,000",,,,,INFO
+114,D,2020-05-12 19:14:46,2020-05-11,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$67.75,-100000,125847,-44%,"-$6,775,225",,,,,INFO
+115,,2020-04-28 21:05:23,2020-04-27,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$67.50,-13948,130727,-10%,"-$941,490",,,,,INFO
+116,,2020-04-28 21:01:04,2020-04-26,INFO,Roedel Richard,Dir,F - Tax,$65.60,-2424,197340,-1%,"-$159,014",,,,,INFO
+117,,2020-04-20 17:53:58,2020-04-16,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,2808,68734,+4%,+$0,,,,,INFO
+118,,2020-04-20 17:53:58,2020-04-03,INFO,Devitre Dinyar S,Dir,G - Gift,$0.00,-5810,68734,-8%,-$0,,,,,INFO
+119,,2020-04-20 17:47:28,2020-04-16,INFO,Kelly Robert P,Dir,A - Grant,$0.00,2808,102258,+3%,+$0,,,,,INFO
+120,,2020-04-20 17:38:25,2020-04-16,INFO,Browne Lord of Madingley,Dir,A - Grant,$0.00,2808,12324,+30%,+$0,,,,,INFO
+121,,2020-04-20 17:26:48,2020-04-16,INFO,Ford William E,Dir,A - Grant,$0.00,2808,48457,+6%,+$0,,,,,INFO
+122,,2020-04-20 17:21:02,2020-04-16,INFO,Giadrossi Nicoletta,Dir,A - Grant,$0.00,2808,8989,+45%,+$0,,,,,INFO
+123,,2020-04-20 17:14:21,2020-04-16,INFO,Rosenthal James A,Dir,A - Grant,$0.00,2808,19241,+17%,+$0,,,,,INFO
+124,,2020-04-20 17:08:24,2020-04-16,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,2808,36753,+8%,+$0,,,,,INFO
+125,,2020-04-20 17:01:49,2020-04-16,INFO,Ernst Ruann Faye,Dir,A - Grant,$0.00,2808,75278,+4%,+$0,,,,,INFO
+126,,2020-04-20 16:56:39,2020-04-16,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,2808,52813,+6%,+$0,,,,,INFO
+127,,2020-04-20 16:43:49,2020-04-16,INFO,Esculier Jacques,Dir,A - Grant,$0.00,2808,2808,New,+$0,,,,,INFO
+128,D,2020-04-20 16:32:00,2020-04-17,INFO,Uggla Lance Darrell Gordon,"CEO, COB",M - OptEx,$26.70,719448,1210588,+146%,"+$19,209,262",,,,,INFO
+129,D,2020-04-20 16:32:00,2020-04-17,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale+OE,$67.03,-496764,1210588,-29%,"-$33,298,091",,,,,INFO
+130,,2020-04-14 18:51:02,2020-04-11,INFO,Ernst Ruann Faye,Dir,F - Tax,$65.47,-411,72470,-1%,"-$26,908",,,,,INFO
+131,,2020-04-14 18:47:57,2020-04-11,INFO,Browne Lord of Madingley,Dir,F - Tax,$65.47,-1468,9516,-13%,"-$96,110",,,,,INFO
+132,,2020-04-14 18:44:39,2020-04-11,INFO,Giadrossi Nicoletta,Dir,F - Tax,$65.47,-665,6181,-10%,"-$43,538",,,,,INFO
+133,M,2020-04-07 21:21:33,2020-04-06,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$65.00,-27689,144675,-16%,"-$1,799,681",,,,,INFO
+134,M,2020-04-01 16:50:41,2020-03-31,INFO,Ford William E,Dir,P - Purchase,$59.16,2983,45649,+7%,"+$176,473",,,,,INFO
+135,,2020-03-31 16:09:37,2020-03-26,INFO,Uggla Lance Darrell Gordon,"CEO, COB",G - Gift,$0.00,-400000,987904,-29%,-$0,,,,,INFO
+136,,2020-03-30 19:53:53,2020-03-26,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$58.84,-13880,172364,-7%,"-$816,650",,,,,INFO
+137,,2020-03-30 19:49:40,2020-03-26,INFO,Ford William E,Dir,P - Purchase,$58.46,20000,42666,+88%,"+$1,169,200",,,,,INFO
+138,,2020-03-16 20:05:00,2020-03-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,500,99450,+1%,+$0,,,,,INFO
+139,,2020-03-16 19:56:18,2020-03-10,INFO,Ford William E,Dir,A - Grant,$0.00,429,22666,+2%,+$0,,,,,INFO
+140,,2020-03-16 19:51:42,2020-03-10,INFO,Roedel Richard,Dir,A - Grant,$0.00,644,199764,0%,+$0,,,,,INFO
+141,,2020-03-16 19:51:42,2020-03-10,INFO,Roedel Richard,Dir,G - Gift,$0.00,-322,199764,0%,-$0,,,,,INFO
+142,,2020-03-16 19:44:40,2020-03-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,429,50005,+1%,+$0,,,,,INFO
+143,,2020-03-16 19:41:52,2020-03-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,322,16433,+2%,+$0,,,,,INFO
+144,,2020-03-16 19:35:13,2020-03-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,429,71736,+1%,+$0,,,,,INFO
+145,A,2020-02-21 18:53:08,2019-09-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,404,49576,+1%,+$0,,,,,INFO
+146,,2020-02-21 16:59:29,2019-12-31,INFO,Gear Jonathan,"EVP, CFO",F - Tax,$75.35,-9319,186244,-5%,"-$702,187",,,,,INFO
+147,,2020-02-20 18:26:11,2020-02-18,INFO,Tavernier Edouard,"EVP, Transportation",S - Sale,$80.34,-1370,28648,-5%,"-$110,066",,,,,INFO
+148,DM,2020-02-20 18:16:21,2020-02-18,INFO,Uggla Lance Darrell Gordon,"CEO, COB",M - OptEx,$26.70,714723,1387904,+106%,"+$19,083,104",,,,,INFO
+149,DM,2020-02-20 18:16:21,2020-02-18,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale+OE,$80.64,-587052,1387904,-30%,"-$47,341,347",,,,,INFO
+150,,2020-02-18 17:23:33,2020-02-14,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale,$80.63,-53820,125847,-30%,"-$4,339,507",,,,,INFO
+151,D,2020-02-12 16:37:45,2020-02-10,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$26.70,100000,179667,+126%,"+$2,670,000",,,,,INFO
+152,D,2020-02-12 16:37:45,2020-02-10,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$81.09,-100000,179667,-36%,"-$8,109,000",,,,,INFO
+153,DM,2020-02-10 16:23:24,2020-02-06,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$26.70,73400,179667,+69%,"+$1,959,780",,,,,INFO
+154,D,2020-02-10 16:23:24,2020-02-06,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$80.46,-73400,179667,-29%,"-$5,905,558",,,,,INFO
+155,D,2020-02-04 20:01:25,2020-02-01,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",A - Grant,$0.00,120215,179667,+202%,+$0,,,,,INFO
+156,D,2020-02-04 20:01:25,2020-02-01,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",F - Tax,$78.86,-60015,179667,-25%,"-$4,732,783",,,,,INFO
+157,D,2020-02-04 20:01:25,2020-02-04,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$26.70,26600,179667,+17%,"+$710,220",,,,,INFO
+158,D,2020-02-04 20:01:25,2020-02-04,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$81.01,-26600,179667,-13%,"-$2,154,866",,,,,INFO
+159,,2020-02-04 19:53:33,2020-02-01,INFO,Hyatt Todd S.,EVP,A - Grant,$0.00,60567,199257,+44%,+$0,,,,,INFO
+160,,2020-02-04 19:53:33,2020-02-01,INFO,Hyatt Todd S.,EVP,F - Tax,$78.86,-31953,199257,-14%,"-$2,519,814",,,,,INFO
+161,,2020-02-04 19:53:33,2020-02-04,INFO,Hyatt Todd S.,EVP,S - Sale,$80.59,-46957,199257,-19%,"-$3,784,265",,,,,INFO
+162,,2020-02-04 19:50:01,2020-02-01,INFO,Easton Michael M,Chief Accounting Officer,A - Grant,$0.00,27669,19419,-335%,+$0,,,,,INFO
+163,,2020-02-04 19:50:01,2020-02-01,INFO,Easton Michael M,Chief Accounting Officer,F - Tax,$78.86,-12668,19419,-39%,"-$998,998",,,,,INFO
+164,,2020-02-04 19:50:01,2020-02-04,INFO,Easton Michael M,Chief Accounting Officer,S - Sale,$80.59,-20303,19419,-51%,"-$1,636,219",,,,,INFO
+165,,2020-02-04 19:46:58,2020-02-01,INFO,Gear Jonathan,"EVP, CFO",A - Grant,$0.00,112983,195563,+137%,+$0,,,,,INFO
+166,,2020-02-04 19:46:58,2020-02-01,INFO,Gear Jonathan,"EVP, CFO",F - Tax,$78.86,-54933,195563,-22%,"-$4,332,016",,,,,INFO
+167,,2020-02-04 19:46:58,2020-02-04,INFO,Gear Jonathan,"EVP, CFO",S - Sale,$80.59,-14447,195563,-7%,"-$1,164,284",,,,,INFO
+168,,2020-02-04 19:23:33,2020-02-01,INFO,Uggla Lance Darrell Gordon,"CEO, COB",A - Grant,$0.00,292623,1260233,+30%,+$0,,,,,INFO
+169,,2020-02-04 19:23:33,2020-02-01,INFO,Uggla Lance Darrell Gordon,"CEO, COB",F - Tax,$78.86,-137533,1260233,-10%,"-$10,845,852",,,,,INFO
+170,,2020-02-04 19:20:58,2020-02-01,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",A - Grant,$0.00,29738,49898,+148%,+$0,,,,,INFO
+171,,2020-02-04 19:20:58,2020-02-01,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",F - Tax,$78.86,-15981,49898,-24%,"-$1,260,262",,,,,INFO
+172,,2020-02-04 19:16:48,2020-02-01,INFO,Crotty Brian,"EVP, Resources",A - Grant,$0.00,7822,14929,+110%,+$0,,,,,INFO
+173,,2020-02-04 19:16:48,2020-02-01,INFO,Crotty Brian,"EVP, Resources",F - Tax,$78.86,-4335,14929,-23%,"-$341,858",,,,,INFO
+174,,2020-02-04 19:13:54,2020-02-01,INFO,Tavernier Edouard,"EVP, Transportation",A - Grant,$0.00,18531,30018,+161%,+$0,,,,,INFO
+175,,2020-02-04 19:13:54,2020-02-01,INFO,Tavernier Edouard,"EVP, Transportation",F - Tax,$78.86,-10909,30018,-27%,"-$860,284",,,,,INFO
+176,,2020-02-03 16:45:59,2020-01-30,INFO,Roedel Richard,Dir,S - Sale,$79.90,-31000,199442,-13%,"-$2,476,900",,,,,INFO
+177,DM,2020-01-27 18:49:53,2020-01-24,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$26.70,100000,119467,+514%,"+$2,670,000",,,,,INFO
+178,DM,2020-01-27 18:49:53,2020-01-24,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$79.83,-100000,119467,-46%,"-$7,983,232",,,,,INFO
+179,,2020-01-21 16:31:40,2020-01-16,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",S - Sale,$80.08,-16191,151960,-10%,"-$1,296,575",,,,,INFO
+180,D,2020-01-21 16:27:41,2020-01-16,INFO,Uggla Lance Darrell Gordon,"CEO, COB",M - OptEx,$26.70,2000000,1105143,-223%,"+$53,400,000",,,,,INFO
+181,D,2020-01-21 16:27:41,2020-01-16,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale+OE,$78.12,-1302933,1105143,-54%,"-$101,784,905",,,,,INFO
+182,,2020-01-21 16:23:57,2020-01-16,INFO,Ernst Ruann Faye,Dir,S - Sale,$77.96,-2500,72881,-3%,"-$194,900",,,,,INFO
+183,D,2020-01-21 16:20:53,2020-01-16,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",M - OptEx,$26.70,75000,36141,-193%,"+$2,002,500",,,,,INFO
+184,D,2020-01-21 16:20:53,2020-01-16,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",S - Sale+OE,$78.22,-75000,36141,-67%,"-$5,866,356",,,,,INFO
+185,D,2020-01-21 16:17:47,2020-01-16,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$26.70,200000,119467,-248%,"+$5,340,000",,,,,INFO
+186,D,2020-01-21 16:17:47,2020-01-16,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$78.10,-200000,119467,-63%,"-$15,620,089",,,,,INFO
+187,,2019-12-11 18:33:27,2019-12-10,INFO,Ford William E,Dir,A - Grant,$0.00,409,22237,+2%,+$0,,,,,INFO
+188,,2019-12-11 18:29:58,2019-12-10,INFO,Roedel Richard,Dir,A - Grant,$0.00,612,230442,0%,+$0,,,,,INFO
+189,,2019-12-11 18:29:58,2019-12-10,INFO,Roedel Richard,Dir,G - Gift,$0.00,-306,230442,0%,-$0,,,,,INFO
+190,,2019-12-11 18:25:44,2019-12-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,380,49623,+1%,+$0,,,,,INFO
+191,,2019-12-11 18:22:30,2019-12-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,477,98950,0%,+$0,,,,,INFO
+192,,2019-12-11 18:19:35,2019-12-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,306,16111,+2%,+$0,,,,,INFO
+193,,2019-12-11 18:16:48,2019-12-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,409,71307,+1%,+$0,,,,,INFO
+194,DM,2019-11-18 18:32:37,2019-11-15,INFO,Uggla Lance Darrell Gordon,"CEO, COB",M - OptEx,$26.70,365829,408076,+866%,"+$9,767,634",,,,,INFO
+195,DM,2019-11-18 18:32:37,2019-11-15,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale+OE,$71.43,-245357,408076,-38%,"-$17,524,861",,,,,INFO
+196,,2019-09-11 18:34:23,2019-09-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,338,15805,+2%,+$0,,,,,INFO
+197,,2019-09-11 18:28:13,2019-09-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,527,98473,+1%,+$0,,,,,INFO
+198,,2019-09-11 18:25:38,2019-09-10,INFO,Ford William E,Dir,A - Grant,$0.00,451,21828,+2%,+$0,,,,,INFO
+199,,2019-09-11 18:20:43,2019-09-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,451,49243,+1%,+$0,,,,,INFO
+200,,2019-09-11 18:17:22,2019-09-10,INFO,Roedel Richard,Dir,A - Grant,$0.00,902,230136,0%,+$0,,,,,INFO
+201,,2019-09-11 18:17:22,2019-09-10,INFO,Roedel Richard,Dir,G - Gift,$0.00,-451,230136,0%,-$0,,,,,INFO
+202,M,2019-09-11 18:11:56,2019-03-08,INFO,Rosenthal James A,Dir,A - Grant,$0.00,798,15467,+5%,+$0,,,,,INFO
+203,,2019-09-11 17:57:57,2019-09-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,451,70898,+1%,+$0,,,,,INFO
+204,M,2019-09-11 16:58:43,2019-03-08,INFO,Roedel Richard,Dir,A - Grant,$0.00,2126,229685,+1%,+$0,,,,,INFO
+205,M,2019-09-11 16:58:43,2019-03-08,INFO,Roedel Richard,Dir,G - Gift,$0.00,-1063,229685,0%,-$0,,,,,INFO
+206,M,2019-09-11 16:53:08,2019-03-08,INFO,Ford William E,Dir,A - Grant,$0.00,1063,21377,+5%,+$0,,,,,INFO
+207,M,2019-09-11 16:49:30,2019-03-08,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,953,48792,+2%,+$0,,,,,INFO
+208,M,2019-09-11 16:42:08,2019-03-08,INFO,Kelly Robert P,Dir,A - Grant,$0.00,1242,97946,+1%,+$0,,,,,INFO
+209,M,2019-09-11 16:38:00,2019-03-08,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,1063,70447,+2%,+$0,,,,,INFO
+210,,2019-08-05 19:59:14,2019-08-02,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$63.56,-25483,217600,-10%,"-$1,619,699",,,,,INFO
+211,D,2019-07-15 20:11:43,2019-07-12,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$26.70,50000,119467,+72%,"+$1,335,000",,,,,INFO
+212,D,2019-07-15 20:11:43,2019-07-12,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$65.53,-50000,119467,-30%,"-$3,276,500",,,,,INFO
+213,D,2019-07-11 16:22:08,2019-07-10,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",M - OptEx,$26.70,25000,36141,+224%,"+$667,500",,,,,INFO
+214,D,2019-07-11 16:22:08,2019-07-10,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",S - Sale+OE,$65.00,-25000,36141,-41%,"-$1,625,000",,,,,INFO
+215,D,2019-07-03 17:46:27,2019-07-03,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$26.70,150000,119467,-491%,"+$4,005,000",,,,,INFO
+216,D,2019-07-03 17:46:27,2019-07-03,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$65.09,-150000,119467,-56%,"-$9,763,500",,,,,INFO
+217,D,2019-07-01 19:07:10,2019-06-28,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$26.16,263400,119467,-183%,"+$6,890,764",,,,,INFO
+218,D,2019-07-01 19:07:10,2019-06-28,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$62.97,-263400,119467,-69%,"-$16,586,416",,,,,INFO
+219,D,2019-07-01 19:03:55,2019-06-28,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",M - OptEx,$26.70,50000,36141,-361%,"+$1,335,000",,,,,INFO
+220,D,2019-07-01 19:03:55,2019-06-28,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",S - Sale+OE,$63.04,-50000,36141,-58%,"-$3,152,000",,,,,INFO
+221,,2019-05-14 16:30:32,2019-05-13,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$54.50,-30000,287604,-9%,"-$1,635,000",,,,,INFO
+222,,2019-05-02 19:27:06,2019-05-02,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$56.24,-40000,243083,-14%,"-$2,249,600",,,,,INFO
+223,,2019-04-15 17:28:37,2019-04-11,INFO,Roedel Richard,Dir,A - Grant,$0.00,6544,228622,+3%,+$0,,,,,INFO
+224,,2019-04-15 17:28:37,2019-04-11,INFO,Roedel Richard,Dir,G - Gift,$0.00,-3272,228622,-1%,-$0,,,,,INFO
+225,,2019-04-15 17:21:46,2019-04-11,INFO,Ernst Ruann Faye,Dir,A - Grant,$0.00,3272,75381,+5%,+$0,,,,,INFO
+226,,2019-04-15 17:21:46,2019-04-11,INFO,Ernst Ruann Faye,Dir,F - Tax,$55.01,-444,75381,-1%,"-$24,424",,,,,INFO
+227,,2019-04-15 17:17:56,2019-04-11,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,3272,47839,+7%,+$0,,,,,INFO
+228,,2019-04-15 17:11:40,2019-04-11,INFO,Ford William E,Dir,A - Grant,$0.00,3272,20314,+19%,+$0,,,,,INFO
+229,,2019-04-15 17:05:34,2019-04-11,INFO,Rosenthal James A,Dir,A - Grant,$0.00,3272,14669,+29%,+$0,,,,,INFO
+230,,2019-04-15 17:00:36,2019-04-11,INFO,Iyer Balakrishnan S,Dir,F - Tax,$55.01,-343,138854,0%,"-$18,868",,,,,INFO
+231,,2019-04-15 16:54:15,2019-04-11,INFO,Giadrossi Nicoletta,Dir,A - Grant,$0.00,3272,6846,+92%,+$0,,,,,INFO
+232,,2019-04-15 16:54:15,2019-04-11,INFO,Giadrossi Nicoletta,Dir,F - Tax,$55.01,-745,6846,-10%,"-$40,982",,,,,INFO
+233,,2019-04-15 16:46:58,2019-04-11,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,3272,33945,+11%,+$0,,,,,INFO
+234,,2019-04-15 16:40:06,2019-04-11,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,3272,69384,+5%,+$0,,,,,INFO
+235,,2019-04-15 16:31:43,2019-04-11,INFO,Browne Lord of Madingley,Dir,A - Grant,$0.00,3272,10984,+42%,+$0,,,,,INFO
+236,,2019-04-15 16:31:43,2019-04-11,INFO,Browne Lord of Madingley,Dir,F - Tax,$55.01,-1757,10984,-14%,"-$96,653",,,,,INFO
+237,,2019-04-15 16:23:54,2019-04-11,INFO,Kelly Robert P,Dir,A - Grant,$0.00,3272,96704,+4%,+$0,,,,,INFO
+238,,2019-02-12 16:08:04,2019-02-11,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",S - Sale,$52.51,-15587,168151,-8%,"-$818,473",,,,,INFO
+239,,2019-02-06 17:52:48,2019-02-05,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$52.03,-7942,283083,-3%,"-$413,222",,,,,INFO
+240,,2019-02-06 17:46:35,2019-02-05,INFO,Easton Michael M,Chief Accounting Officer,S - Sale,$52.03,-12461,24721,-34%,"-$648,346",,,,,INFO
+241,,2019-02-06 17:43:19,2019-02-05,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",S - Sale,$52.03,-46460,183738,-20%,"-$2,417,314",,,,,INFO
+242,,2019-02-04 20:01:25,2019-02-01,INFO,Hyatt Todd S.,EVP CFO,A - Grant,$0.00,25509,291025,+10%,+$0,,,,,INFO
+243,,2019-02-04 20:01:25,2019-02-01,INFO,Hyatt Todd S.,EVP CFO,F - Tax,$51.77,-53785,291025,-16%,"-$2,784,449",,,,,INFO
+244,,2019-02-04 19:56:04,2019-02-01,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",A - Grant,$0.00,18364,230198,+9%,+$0,,,,,INFO
+245,,2019-02-04 19:56:04,2019-02-01,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",F - Tax,$51.77,-43695,230198,-16%,"-$2,262,090",,,,,INFO
+246,,2019-02-04 19:46:00,2019-02-01,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",A - Grant,$0.00,16905,119467,+16%,+$0,,,,,INFO
+247,,2019-02-04 19:46:00,2019-02-01,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",F - Tax,$51.77,-4349,119467,-4%,"-$225,148",,,,,INFO
+248,,2019-02-04 19:42:06,2019-02-01,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",A - Grant,$0.00,14594,36141,+68%,+$0,,,,,INFO
+249,,2019-02-04 19:42:06,2019-02-01,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",F - Tax,$51.77,-2611,36141,-7%,"-$135,171",,,,,INFO
+250,,2019-02-04 19:37:56,2019-02-01,INFO,Easton Michael M,Chief Accounting Officer,A - Grant,$0.00,12161,37182,+49%,+$0,,,,,INFO
+251,,2019-02-04 19:37:56,2019-02-01,INFO,Easton Michael M,Chief Accounting Officer,F - Tax,$51.77,-5225,37182,-12%,"-$270,498",,,,,INFO
+252,,2019-01-29 18:19:10,2018-12-28,INFO,Rosenthal James A,Dir,P - Purchase,$47.30,1000,11397,+10%,"+$47,300",,,,,INFO
+253,,2019-01-03 19:05:25,2019-01-01,INFO,Browne Lord of Madingley,Dir,F - Tax,$47.97,-249,9469,-3%,"-$11,945",,,,,INFO
+254,,2019-01-03 19:02:05,2019-01-01,INFO,Giadrossi Nicoletta,Dir,F - Tax,$47.97,-399,4319,-8%,"-$19,140",,,,,INFO
+255,,2019-01-03 18:58:56,2019-01-01,INFO,Uggla Lance Darrell Gordon,"CEO, COB",F - Tax,$47.97,-28419,317604,-8%,"-$1,363,259",,,,,INFO
+256,,2019-01-03 18:53:01,2019-01-01,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",F - Tax,$47.97,-4141,106911,-4%,"-$198,644",,,,,INFO
+257,,2019-01-03 18:47:46,2019-01-01,INFO,Granat Sari Beth,"EVP, Chief Admin Officer, GC",F - Tax,$47.97,-1422,24158,-6%,"-$68,213",,,,,INFO
+258,,2018-12-18 16:40:08,2018-12-15,INFO,Hyatt Todd S.,EVP CFO,F - Tax,$48.83,-22297,319301,-7%,"-$1,088,763",,,,,INFO
+259,,2018-12-11 18:52:57,2018-12-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,529,44567,+1%,+$0,,,,,INFO
+260,,2018-12-11 18:49:54,2018-12-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,689,92028,+1%,+$0,,,,,INFO
+261,,2018-12-11 18:46:13,2018-12-10,INFO,Roedel Richard,Dir,A - Grant,$0.00,1180,225350,+1%,+$0,,,,,INFO
+262,,2018-12-11 18:46:13,2018-12-10,INFO,Roedel Richard,Dir,G - Gift,$0.00,-590,225350,0%,-$0,,,,,INFO
+263,,2018-12-11 18:38:08,2018-12-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,443,10397,+4%,+$0,,,,,INFO
+264,,2018-12-11 18:34:25,2018-12-10,INFO,Ford William E,Dir,A - Grant,$0.00,590,17042,+4%,+$0,,,,,INFO
+265,,2018-12-11 18:29:16,2018-12-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,590,66112,+1%,+$0,,,,,INFO
+266,,2018-11-15 17:07:04,2018-11-14,INFO,Ford William E,Dir,S - Sale,$50.15,-5800000,16452,-100%,"-$290,870,000",,,,,INFO
+267,,2018-10-02 17:56:32,2018-10-01,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$54.01,-14517,341598,-4%,"-$784,063",,,,,INFO
+268,,2018-09-12 18:13:13,2018-09-10,INFO,Ford William E,Dir,A - Grant,$0.00,545,5816452,0%,+$0,,,,,INFO
+269,,2018-09-12 18:03:18,2018-09-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,636,91339,+1%,+$0,,,,,INFO
+270,,2018-09-12 17:53:50,2018-09-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,545,65522,+1%,+$0,,,,,INFO
+271,,2018-09-12 17:46:12,2018-09-10,INFO,Roedel Richard,Dir,A - Grant,$0.00,1090,224760,0%,+$0,,,,,INFO
+272,,2018-09-12 17:46:12,2018-09-10,INFO,Roedel Richard,Dir,G - Gift,$0.00,-545,224760,0%,-$0,,,,,INFO
+273,,2018-09-12 17:40:03,2018-09-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,409,9954,+4%,+$0,,,,,INFO
+274,,2018-09-12 17:34:02,2018-09-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,488,44038,+1%,+$0,,,,,INFO
+275,A,2018-08-08 13:44:22,2018-07-01,INFO,Hyatt Todd S.,EVP CFO,F - Tax,$0.00,-23264,356115,-6%,-$0,,,,,INFO
+276,D,2018-07-12 19:28:39,2018-07-12,INFO,Granat Sari Beth,"EVP, GC",M - OptEx,$24.46,24900,25580,>999%,"+$609,054",,,,,INFO
+277,D,2018-07-12 19:28:39,2018-07-12,INFO,Granat Sari Beth,"EVP, GC",S - Sale+OE,$53.00,-24900,25580,-49%,"-$1,319,700",,,,,INFO
+278,D,2018-07-11 16:57:07,2018-07-09,INFO,Granat Sari Beth,"EVP, GC",M - OptEx,$24.46,100,25580,0%,"+$2,446",,,,,INFO
+279,D,2018-07-11 16:57:07,2018-07-09,INFO,Granat Sari Beth,"EVP, GC",S - Sale+OE,$53.00,-100,25580,0%,"-$5,300",,,,,INFO
+280,,2018-07-06 16:04:01,2018-07-05,INFO,Ford William E,Dir,S - Sale,$52.05,-2000000,5815907,-26%,"-$104,100,000",,,,,INFO
+281,D,2018-07-02 17:15:41,2018-06-29,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$22.57,45910,111052,+70%,"+$1,036,189",,,,,INFO
+282,D,2018-07-02 17:15:41,2018-06-29,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$52.00,-45910,111052,-29%,"-$2,387,320",,,,,INFO
+283,,2018-07-02 17:13:12,2018-07-01,INFO,Hyatt Todd S.,EVP CFO,F - Tax,$0.00,-21294,358085,-6%,-$0,,,,,INFO
+284,D,2018-07-02 17:11:36,2018-06-29,INFO,Granat Sari Beth,"EVP, GC",M - OptEx,$24.46,25000,25580,>999%,"+$611,500",,,,,INFO
+285,D,2018-07-02 17:11:36,2018-06-29,INFO,Granat Sari Beth,"EVP, GC",S - Sale+OE,$51.99,-25000,25580,-49%,"-$1,299,750",,,,,INFO
+286,,2018-06-12 16:29:44,2018-06-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,439,9545,+5%,+$0,,,,,INFO
+287,,2018-06-12 16:28:41,2018-06-10,INFO,Roedel Richard,Dir,A - Grant,$0.00,1172,224215,+1%,+$0,,,,,INFO
+288,,2018-06-12 16:28:41,2018-06-10,INFO,Roedel Richard,Dir,G - Gift,$0.00,-586,224215,0%,-$0,,,,,INFO
+289,,2018-06-12 16:27:57,2018-06-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,525,43550,+1%,+$0,,,,,INFO
+290,,2018-06-12 16:27:14,2018-06-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,684,90703,+1%,+$0,,,,,INFO
+291,,2018-06-12 16:25:33,2018-06-10,INFO,Ford William E,Dir,A - Grant,$0.00,586,7815907,0%,+$0,,,,,INFO
+292,,2018-06-12 16:22:49,2018-06-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,586,64977,+1%,+$0,,,,,INFO
+293,M,2018-05-07 16:36:44,2018-05-03,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$48.81,-60000,346023,-15%,"-$2,928,804",,,,,INFO
+294,M,2018-05-03 16:20:44,2018-05-01,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$49.15,-60000,406023,-13%,"-$2,948,700",,,,,INFO
+295,,2018-05-03 16:19:08,2018-05-01,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$49.06,-25000,379379,-6%,"-$1,226,500",,,,,INFO
+296,D,2018-04-26 16:28:18,2018-04-24,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",M - OptEx,$20.31,10000,111052,+10%,"+$203,100",,,,,INFO
+297,D,2018-04-26 16:28:18,2018-04-24,INFO,Kansler Adam Jason,"EVP, Pres Financial Services",S - Sale+OE,$49.50,-10000,111052,-8%,"-$495,000",,,,,INFO
+298,D,2018-04-18 19:08:03,2018-04-17,INFO,Kansler Adam Jason,"EVP, Financial Markets",M - OptEx,$20.31,20000,111052,+22%,"+$406,200",,,,,INFO
+299,D,2018-04-18 19:08:03,2018-04-17,INFO,Kansler Adam Jason,"EVP, Financial Markets",S - Sale+OE,$49.04,-20000,111052,-15%,"-$980,800",,,,,INFO
+300,M,2018-04-18 18:52:23,2018-04-16,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$48.94,-140000,466023,-23%,"-$6,851,600",,,,,INFO
+301,M,2018-04-16 19:29:36,2018-04-12,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$48.54,-80000,606023,-12%,"-$3,882,891",,,,,INFO
+302,,2018-04-13 17:43:26,2018-04-11,INFO,Rosenthal James A,Dir,A - Grant,$0.00,3722,9106,+69%,+$0,,,,,INFO
+303,,2018-04-13 17:42:43,2018-04-11,INFO,Roedel Richard,Dir,A - Grant,$0.00,7444,223629,+3%,+$0,,,,,INFO
+304,,2018-04-13 17:42:43,2018-04-11,INFO,Roedel Richard,Dir,G - Gift,$0.00,-3722,223629,-2%,-$0,,,,,INFO
+305,,2018-04-13 17:41:55,2018-04-11,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,3722,43025,+9%,+$0,,,,,INFO
+306,,2018-04-13 17:41:11,2018-04-11,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,3722,30673,+14%,+$0,,,,,INFO
+307,,2018-04-13 17:40:26,2018-04-11,INFO,Kelly Robert P,Dir,A - Grant,$0.00,3722,90019,+4%,+$0,,,,,INFO
+308,,2018-04-13 17:39:38,2018-04-11,INFO,Iyer Balakrishnan S,Dir,A - Grant,$0.00,3722,139197,+3%,+$0,,,,,INFO
+309,,2018-04-13 17:39:18,2018-04-11,INFO,Giadrossi Nicoletta,Dir,A - Grant,$0.00,3722,4718,+374%,+$0,,,,,INFO
+310,,2018-04-13 17:39:02,2018-04-11,INFO,Ford William E,Dir,A - Grant,$0.00,3722,7815321,0%,+$0,,,,,INFO
+311,,2018-04-13 17:38:44,2018-04-11,INFO,Ernst Ruann Faye,Dir,A - Grant,$0.00,3722,72553,+5%,+$0,,,,,INFO
+312,,2018-04-13 17:38:26,2018-04-11,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,3722,64391,+6%,+$0,,,,,INFO
+313,,2018-04-13 17:37:38,2018-04-11,INFO,Browne Lord of Madingley,Dir,A - Grant,$0.00,3722,9718,+62%,+$0,,,,,INFO
+314,M,2018-04-12 18:40:23,2018-04-10,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$48.41,-80000,686023,-10%,"-$3,872,800",,,,,INFO
+315,D,2018-04-11 16:17:41,2018-04-10,INFO,Kansler Adam Jason,"EVP, Financial Markets",M - OptEx,$20.31,20000,111052,+22%,"+$406,200",,,,,INFO
+316,D,2018-04-11 16:17:41,2018-04-10,INFO,Kansler Adam Jason,"EVP, Financial Markets",S - Sale+OE,$48.50,-20000,111052,-15%,"-$970,000",,,,,INFO
+317,M,2018-04-10 17:02:13,2018-04-06,INFO,Uggla Lance Darrell Gordon,"CEO, COB",S - Sale,$48.36,-80000,766023,-9%,"-$3,868,800",,,,,INFO
+318,,2018-04-09 16:39:57,2018-04-05,INFO,Rosenthal James A,Dir,F - Tax,$48.71,-1503,5384,-22%,"-$73,211",,,,,INFO
+319,,2018-04-09 16:38:50,2018-04-05,INFO,Iyer Balakrishnan S,Dir,F - Tax,$48.71,-359,91019,0%,"-$17,487",,,,,INFO
+320,,2018-04-09 16:37:08,2018-04-05,INFO,Ernst Ruann Faye,Dir,F - Tax,$48.71,-481,68831,-1%,"-$23,430",,,,,INFO
+321,,2018-04-06 16:34:48,2018-04-04,INFO,Ernst Ruann Faye,Dir,S - Sale,$47.59,-7400,69312,-10%,"-$352,166",,,,,INFO
+322,,2018-03-13 16:30:32,2018-03-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,458,6887,+7%,+$0,,,,,INFO
+323,,2018-03-13 16:29:41,2018-03-10,INFO,Roedel Richard,Dir,A - Grant,$0.00,1222,219907,+1%,+$0,,,,,INFO
+324,,2018-03-13 16:29:41,2018-03-10,INFO,Roedel Richard,Dir,G - Gift,$0.00,-611,219907,0%,-$0,,,,,INFO
+325,,2018-03-13 16:29:07,2018-03-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,488,39303,+1%,+$0,,,,,INFO
+326,,2018-03-13 16:28:34,2018-03-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,772,86297,+1%,+$0,,,,,INFO
+327,,2018-03-13 16:26:22,2018-03-10,INFO,Ford William E,Dir,A - Grant,$0.00,509,7811599,0%,+$0,,,,,INFO
+328,,2018-03-13 16:25:24,2018-03-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,611,60669,+1%,+$0,,,,,INFO
+329,,2018-02-05 16:15:51,2018-02-01,INFO,Yergin Daniel,Vice COB,A - Grant,$0.00,17730,256974,+7%,+$0,,,,,INFO
+330,,2018-02-05 16:15:51,2018-02-01,INFO,Yergin Daniel,Vice COB,F - Tax,$47.60,-57610,256974,-18%,"-$2,742,236",,,,,INFO
+331,,2018-02-05 16:15:51,2018-02-02,INFO,Yergin Daniel,Vice COB,S - Sale,$47.46,-66871,256974,-21%,"-$3,173,698",,,,,INFO
+332,,2018-02-05 16:14:53,2018-02-01,INFO,Kansler Adam Jason,"EVP, Financial Markets",A - Grant,$0.00,17233,111052,+18%,+$0,,,,,INFO
+333,,2018-02-05 16:14:53,2018-02-01,INFO,Kansler Adam Jason,"EVP, Financial Markets",F - Tax,$47.60,-2793,111052,-2%,"-$132,947",,,,,INFO
+334,,2018-02-05 16:13:46,2018-02-01,INFO,Hyatt Todd S.,EVP CFO,A - Grant,$0.00,26887,404379,+7%,+$0,,,,,INFO
+335,,2018-02-05 16:13:46,2018-02-01,INFO,Hyatt Todd S.,EVP CFO,F - Tax,$47.60,-37636,404379,-9%,"-$1,791,474",,,,,INFO
+336,,2018-02-05 16:13:46,2018-02-01,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$47.40,-25000,404379,-6%,"-$1,185,000",,,,,INFO
+337,,2018-02-05 16:12:57,2018-02-01,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",A - Grant,$0.00,20017,255529,+8%,+$0,,,,,INFO
+338,,2018-02-05 16:12:57,2018-02-01,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",F - Tax,$47.60,-38838,255529,-13%,"-$1,848,689",,,,,INFO
+339,,2018-02-05 16:12:57,2018-02-02,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",S - Sale,$47.46,-54524,255529,-18%,"-$2,587,709",,,,,INFO
+340,,2018-02-05 16:11:56,2018-02-01,INFO,Easton Michael M,Chief Accounting Officer,A - Grant,$0.00,11029,30246,+57%,+$0,,,,,INFO
+341,,2018-02-05 16:11:56,2018-02-01,INFO,Easton Michael M,Chief Accounting Officer,F - Tax,$47.60,-4951,30246,-14%,"-$235,668",,,,,INFO
+342,,2018-02-05 16:11:56,2018-02-02,INFO,Easton Michael M,Chief Accounting Officer,S - Sale,$47.46,-12167,30246,-29%,"-$577,446",,,,,INFO
+343,A,2018-01-23 17:40:40,2018-01-01,INFO,Stead Jerre L,"CEO, COB",F - Tax,$45.15,-106973,1315961,-8%,"-$4,829,831",,,,,INFO
+344,D,2018-01-23 17:18:47,2018-01-19,INFO,Kansler Adam Jason,"EVP, Financial Markets",M - OptEx,$20.31,50000,96612,+107%,"+$1,015,500",,,,,INFO
+345,D,2018-01-23 17:18:47,2018-01-19,INFO,Kansler Adam Jason,"EVP, Financial Markets",S - Sale+OE,$48.00,-50000,96612,-34%,"-$2,400,000",,,,,INFO
+346,,2018-01-03 17:12:46,2018-01-01,INFO,Uggla Lance Darrell Gordon,"CEO, COB",F - Tax,$45.15,-61501,846023,-7%,"-$2,776,770",,,,,INFO
+347,,2018-01-03 17:12:30,2017-12-31,INFO,Stead Jerre L,"CEO, COB",F - Tax,$45.15,-115967,1306967,-8%,"-$5,235,910",,,,,INFO
+348,,2018-01-03 17:12:14,2018-01-01,INFO,Kansler Adam Jason,"EVP, Financial Markets",F - Tax,$45.15,-9521,96612,-9%,"-$429,873",,,,,INFO
+349,,2018-01-03 17:11:58,2018-01-01,INFO,Giadrossi Nicoletta,Dir,A - Grant,$0.00,996,996,New,+$0,,,,,INFO
+350,,2018-01-03 17:11:43,2018-01-01,INFO,Browne Lord of Madingley,Dir,A - Grant,$0.00,996,5996,+20%,+$0,,,,,INFO
+351,,2017-12-12 16:50:38,2017-12-08,INFO,Rosenthal James A,Dir,A - Grant,$0.00,493,6429,+8%,+$0,,,,,INFO
+352,,2017-12-12 16:49:58,2017-12-08,INFO,Roedel Richard,Dir,A - Grant,$0.00,1316,219296,+1%,+$0,,,,,INFO
+353,,2017-12-12 16:49:58,2017-12-08,INFO,Roedel Richard,Dir,G - Gift,$0.00,-658,219296,0%,-$0,,,,,INFO
+354,,2017-12-12 16:48:59,2017-12-08,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,493,38815,+1%,+$0,,,,,INFO
+355,,2017-12-12 16:48:08,2017-12-08,INFO,Kelly Robert P,Dir,A - Grant,$0.00,863,75525,+1%,+$0,,,,,INFO
+356,,2017-12-12 16:47:25,2017-12-08,INFO,Ford William E,Dir,A - Grant,$0.00,493,7811090,0%,+$0,,,,,INFO
+357,,2017-12-12 16:46:15,2017-12-08,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,658,60058,+1%,+$0,,,,,INFO
+358,,2017-12-05 17:30:26,2017-12-01,INFO,Iyer Balakrishnan S,Dir,F - Tax,$44.71,-76,91378,0%,"-$3,398",,,,,INFO
+359,,2017-12-05 17:24:26,2017-12-01,INFO,Ernst Ruann Faye,Dir,F - Tax,$44.71,-126,76712,0%,"-$5,633",,,,,INFO
+360,,2017-11-29 16:14:28,2017-05-05,INFO,Kelly Robert P,Dir,F - Tax,$43.73,-316,74662,0%,"-$13,819",,,,,INFO
+361,,2017-11-29 16:13:50,2017-05-05,INFO,Devitre Dinyar S,Dir,F - Tax,$43.73,-229,59400,0%,"-$10,014",,,,,INFO
+362,,2017-10-04 17:23:16,2017-10-02,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$44.20,-20000,440128,-4%,"-$884,000",,,,,INFO
+363,,2017-09-12 16:14:35,2017-09-08,INFO,Rosenthal James A,Dir,A - Grant,$0.00,473,5936,+9%,+$0,,,,,INFO
+364,,2017-09-12 16:14:04,2017-09-08,INFO,Roedel Richard,Dir,A - Grant,$0.00,1262,218638,+1%,+$0,,,,,INFO
+365,,2017-09-12 16:14:04,2017-09-08,INFO,Roedel Richard,Dir,G - Gift,$0.00,-631,218638,0%,-$0,,,,,INFO
+366,,2017-09-12 16:13:31,2017-09-08,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,473,38322,+1%,+$0,,,,,INFO
+367,,2017-09-12 16:12:49,2017-09-08,INFO,Kelly Robert P,Dir,A - Grant,$0.00,828,74978,+1%,+$0,,,,,INFO
+368,,2017-09-12 16:11:38,2017-09-08,INFO,Ford William E,Dir,A - Grant,$0.00,473,7810597,0%,+$0,,,,,INFO
+369,,2017-09-12 16:10:49,2017-09-08,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,631,59629,+1%,+$0,,,,,INFO
+370,D,2017-08-03 18:06:48,2017-08-01,INFO,Uggla Lance Darrell Gordon,Pres,M - OptEx,$16.17,1291820,907524,-336%,"+$20,884,161",,,,,INFO
+371,D,2017-08-03 18:06:48,2017-08-01,INFO,Uggla Lance Darrell Gordon,Pres,S - Sale+OE,$47.00,-845640,907524,-48%,"-$39,745,080",,,,,INFO
+372,,2017-07-18 16:00:28,2017-07-14,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",S - Sale,$44.43,-30004,328874,-8%,"-$1,333,078",,,,,INFO
+373,A,2017-07-10 16:14:59,2017-07-05,INFO,Uggla Lance Darrell Gordon,Pres,S - Sale,$44.27,-112162,461344,-20%,"-$4,965,412",,,,,INFO
+374,,2017-07-07 16:25:38,2017-07-05,INFO,Uggla Lance Darrell Gordon,Pres,S - Sale,$47.27,-112162,461344,-20%,"-$5,301,898",,,,,INFO
+375,,2017-07-05 18:15:31,2017-07-01,INFO,Yergin Daniel,Vice COB,F - Tax,$44.04,-45258,363725,-11%,"-$1,993,162",,,,,INFO
+376,,2017-07-05 18:15:31,2017-07-05,INFO,Yergin Daniel,Vice COB,S - Sale,$44.17,-43657,363725,-11%,"-$1,928,330",,,,,INFO
+377,,2017-06-13 16:05:10,2017-06-09,INFO,Rosenthal James A,Dir,A - Grant,$0.00,485,5463,+10%,+$0,,,,,INFO
+378,,2017-06-13 16:04:33,2017-06-09,INFO,Roedel Richard,Dir,A - Grant,$0.00,1294,218007,+1%,+$0,,,,,INFO
+379,,2017-06-13 16:04:33,2017-06-09,INFO,Roedel Richard,Dir,G - Gift,$0.00,-647,218007,0%,-$0,,,,,INFO
+380,,2017-06-13 16:04:02,2017-06-09,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,485,37849,+1%,+$0,,,,,INFO
+381,,2017-06-13 16:03:23,2017-06-09,INFO,Kelly Robert P,Dir,A - Grant,$0.00,850,74150,+1%,+$0,,,,,INFO
+382,,2017-06-13 16:02:35,2017-06-09,INFO,Ford William E,Dir,A - Grant,$0.00,485,7810124,0%,+$0,,,,,INFO
+383,,2017-06-13 16:01:48,2017-06-09,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,647,58998,+1%,+$0,,,,,INFO
+384,,2017-05-18 17:06:43,2017-05-17,INFO,Ford William E,Dir,S - Sale,$43.50,-1300000,7809639,-14%,"-$56,550,000",,,,,INFO
+385,D,2017-05-10 16:08:45,2017-05-08,INFO,Kansler Adam Jason,"EVP, Financial Markets",M - OptEx,$20.31,1406,106133,+1%,"+$28,556",0.0,,,,INFO
+386,D,2017-05-10 16:08:45,2017-05-08,INFO,Kansler Adam Jason,"EVP, Financial Markets",S - Sale+OE,$44.00,-1406,106133,-1%,"-$61,864",0.0,,,,INFO
+387,,2017-05-03 16:29:06,2017-05-01,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$43.31,-14000,460128,-3%,"-$606,340",1.0,0.0,,,INFO
+388,D,2017-04-28 17:37:44,2017-04-26,INFO,Kansler Adam Jason,"EVP, Financial Markets",M - OptEx,$20.31,56174,106133,+112%,"+$1,140,894",1.0,1.0,,,INFO
+389,D,2017-04-28 17:37:44,2017-04-26,INFO,Kansler Adam Jason,"EVP, Financial Markets",S - Sale+OE,$44.00,-56174,106133,-35%,"-$2,471,656",1.0,1.0,,,INFO
+390,,2017-04-21 17:53:37,2017-04-20,INFO,Ford William E,Dir,S - Sale,$43.20,-1400000,9109639,-13%,"-$60,480,000",1.0,1.0,,,INFO
+391,,2017-04-07 16:37:48,2017-04-05,INFO,Rosenthal James A,Dir,A - Grant,$0.00,4293,4978,+627%,+$0,0.0,0.0,4.0,,INFO
+392,,2017-04-07 16:36:53,2017-04-05,INFO,Ford William E,Dir,A - Grant,$0.00,4293,10509639,0%,+$0,0.0,0.0,4.0,,INFO
+393,,2017-04-07 16:31:35,2017-04-05,INFO,Roedel Richard,Dir,A - Grant,$0.00,8586,217360,+4%,+$0,0.0,0.0,4.0,,INFO
+394,,2017-04-07 16:31:35,2017-04-05,INFO,Roedel Richard,Dir,G - Gift,$0.00,-4293,217360,-2%,-$0,0.0,0.0,4.0,,INFO
+395,,2017-04-07 16:30:41,2017-04-05,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,4293,37364,+13%,+$0,0.0,0.0,4.0,,INFO
+396,,2017-04-07 16:29:55,2017-04-05,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,4293,26951,+19%,+$0,0.0,0.0,4.0,,INFO
+397,,2017-04-07 16:29:07,2017-04-05,INFO,Iyer Balakrishnan S,Dir,A - Grant,$0.00,4293,91454,+5%,+$0,0.0,0.0,4.0,,INFO
+398,,2017-04-07 16:28:16,2017-04-05,INFO,Kelly Robert P,Dir,A - Grant,$0.00,4293,73300,+6%,+$0,0.0,0.0,4.0,,INFO
+399,,2017-04-07 16:27:15,2017-04-05,INFO,Ernst Ruann Faye,Dir,A - Grant,$0.00,4293,76838,+6%,+$0,0.0,0.0,4.0,,INFO
+400,,2017-04-07 16:25:42,2017-04-05,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,4293,58351,+8%,+$0,0.0,0.0,4.0,,INFO
+401,,2017-04-07 16:24:40,2017-04-05,INFO,Gear Jonathan,"EVP, Cons Mkts, Rscs, Trans",A - Grant,$0.00,85103,358878,+31%,+$0,0.0,0.0,4.0,,INFO
+402,D,2017-04-06 17:36:20,2017-04-04,INFO,Mutnikas Yaacov,"EVP, Financial Market Technolo",M - OptEx,$29.02,80000,15823,-125%,"+$2,321,600",0.0,1.0,4.0,,INFO
+403,D,2017-04-06 17:36:20,2017-04-04,INFO,Mutnikas Yaacov,"EVP, Financial Market Technolo",S - Sale+OE,$41.88,-80000,15823,-83%,"-$3,350,400",0.0,1.0,4.0,,INFO
+404,,2017-04-05 16:19:38,2017-04-03,INFO,Harvey Randall P,EVP CTO,S - Sale,$41.72,-10000,99418,-9%,"-$417,200",1.0,1.0,5.0,,INFO
+405,D,2017-04-04 16:35:12,2017-03-31,INFO,Kansler Adam Jason,"EVP, Financial Markets",M - OptEx,$20.31,40690,106133,+62%,"+$826,414",0.0,1.0,4.0,,INFO
+406,D,2017-04-04 16:35:12,2017-03-31,INFO,Kansler Adam Jason,"EVP, Financial Markets",S - Sale+OE,$42.00,-40690,106133,-28%,"-$1,708,980",0.0,1.0,4.0,,INFO
+407,,2017-03-14 17:56:33,2017-03-10,INFO,Roedel Richard,Dir,A - Grant,$0.00,1494,213067,+1%,+$0,1.0,0.0,5.0,,INFO
+408,,2017-03-14 17:56:33,2017-03-10,INFO,Roedel Richard,Dir,G - Gift,$0.00,-747,213067,0%,-$0,1.0,0.0,5.0,,INFO
+409,,2017-03-14 17:55:44,2017-03-10,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,685,33071,+2%,+$0,1.0,0.0,5.0,,INFO
+410,,2017-03-14 17:54:42,2017-03-10,INFO,Rosenthal James A,Dir,A - Grant,$0.00,685,685,New,+$0,1.0,0.0,5.0,,INFO
+411,,2017-03-14 17:47:56,2017-03-10,INFO,Kelly Robert P,Dir,A - Grant,$0.00,1043,69007,+2%,+$0,1.0,0.0,5.0,,INFO
+412,,2017-03-14 17:45:39,2017-03-10,INFO,Ford William E,Dir,A - Grant,$0.00,654,10505346,0%,+$0,1.0,0.0,5.0,,INFO
+413,,2017-03-14 17:44:25,2017-03-10,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,872,54058,+2%,+$0,1.0,0.0,5.0,,INFO
+414,,2017-02-17 16:52:52,2017-02-15,INFO,Harvey Randall P,EVP CTO,F - Tax,$40.40,-2309,109418,-2%,"-$93,284",1.0,0.0,1.0,,INFO
+415,,2017-02-14 16:12:31,2017-02-10,INFO,Granat Sari Beth,"EVP, GC",S - Sale,$39.72,-2258,17846,-11%,"-$89,688",1.0,1.0,2.0,,INFO
+416,,2017-02-14 16:05:09,2017-02-10,INFO,Gear Jonathan,"EVP Resources, Transportation",S - Sale,$39.68,-25000,273775,-8%,"-$992,000",1.0,1.0,2.0,,INFO
+417,,2017-02-10 16:16:37,2017-02-08,INFO,Ford William E,Dir,S - Sale,$39.45,-2774059,10504692,-21%,"-$109,436,628",1.0,1.0,2.0,,INFO
+418,D,2017-02-09 17:53:34,2017-02-07,INFO,Trogni Michele Louise,"EVP, Markets, Solutions",M - OptEx,$26.70,150000,45715,-144%,"+$4,005,000",0.0,2.0,1.0,,INFO
+419,D,2017-02-09 17:53:34,2017-02-07,INFO,Trogni Michele Louise,"EVP, Markets, Solutions",S - Sale+OE,$39.48,-150000,45715,-77%,"-$5,922,000",0.0,2.0,1.0,,INFO
+420,,2017-02-09 17:48:57,2017-02-08,INFO,Sisson Jeffrey D,EVP Chief of Staff,S - Sale,$39.56,-29134,210883,-12%,"-$1,152,541",0.0,2.0,1.0,,INFO
+421,,2017-02-09 17:47:26,2017-02-07,INFO,Granat Sari Beth,"EVP, GC",S - Sale,$39.35,-3529,20104,-15%,"-$138,866",0.0,2.0,1.0,,INFO
+422,,2017-02-03 19:19:02,2017-02-01,INFO,Kansler Adam Jason,"EVP, Financial Markets",A - Grant,$0.00,17111,106133,+19%,+$0,0.0,0.0,2.0,,INFO
+423,,2017-02-03 19:14:28,2017-02-01,INFO,Mutnikas Yaacov,"EVP, Financial Market Technolo",A - Grant,$0.00,10140,15823,+178%,+$0,0.0,0.0,2.0,,INFO
+424,,2017-02-03 19:13:13,2017-02-01,INFO,Granat Sari Beth,"EVP, GC",A - Grant,$0.00,9506,23633,+67%,+$0,0.0,0.0,2.0,,INFO
+425,,2017-02-03 19:12:34,2017-02-01,INFO,Akeroyd Shane,"EVP, Head of Account Mngt",A - Grant,$0.00,10773,63377,+20%,+$0,0.0,0.0,2.0,,INFO
+426,,2017-02-03 19:11:55,2017-02-01,INFO,Trogni Michele Louise,"EVP, Markets, Solutions",A - Grant,$0.00,10140,45715,+29%,+$0,0.0,0.0,2.0,,INFO
+427,,2017-02-03 19:11:16,2017-02-01,INFO,Sisson Jeffrey D,EVP Chief of Staff,A - Grant,$0.00,9506,240017,+4%,+$0,0.0,0.0,2.0,,INFO
+428,,2017-02-03 19:11:16,2017-02-01,INFO,Sisson Jeffrey D,EVP Chief of Staff,F - Tax,$39.45,-21370,240017,-8%,"-$843,047",0.0,0.0,2.0,,INFO
+429,,2017-02-03 19:10:37,2017-02-01,INFO,Gear Jonathan,"EVP Resources, Transportation",A - Grant,$0.00,17427,298775,+6%,+$0,0.0,0.0,2.0,,INFO
+430,,2017-02-03 19:10:37,2017-02-01,INFO,Gear Jonathan,"EVP Resources, Transportation",F - Tax,$39.45,-34409,298775,-10%,"-$1,357,435",0.0,0.0,2.0,,INFO
+431,,2017-02-03 19:10:00,2017-02-01,INFO,Harvey Randall P,EVP CTO,A - Grant,$0.00,9506,111727,+9%,+$0,0.0,0.0,2.0,,INFO
+432,,2017-02-03 19:10:00,2017-02-01,INFO,Harvey Randall P,EVP CTO,F - Tax,$39.45,-3887,111727,-3%,"-$153,342",0.0,0.0,2.0,,INFO
+433,,2017-02-03 19:09:22,2017-02-01,INFO,Bomba Jane L Okun,EVP Chief Admin Officer,A - Grant,$0.00,9506,256359,+4%,+$0,0.0,0.0,2.0,,INFO
+434,,2017-02-03 19:09:22,2017-02-01,INFO,Bomba Jane L Okun,EVP Chief Admin Officer,F - Tax,$39.45,-20181,256359,-7%,"-$796,140",0.0,0.0,2.0,,INFO
+435,,2017-02-03 19:08:40,2017-02-01,INFO,Matzke-Hamlin Heather,Chief Accounting Officer,F - Tax,$39.45,-5711,64876,-8%,"-$225,299",0.0,0.0,2.0,,INFO
+436,,2017-02-03 19:08:40,2017-02-02,INFO,Matzke-Hamlin Heather,Chief Accounting Officer,S - Sale,$39.31,-11966,64876,-16%,"-$470,397",0.0,0.0,2.0,,INFO
+437,,2017-02-03 19:07:54,2017-02-01,INFO,Stead Jerre L,"CEO, COB",F - Tax,$39.45,-91866,1422934,-6%,"-$3,624,114",0.0,0.0,2.0,,INFO
+438,,2017-02-03 19:06:57,2017-02-01,INFO,Yergin Daniel,Vice COB,A - Grant,$0.00,15209,452640,+3%,+$0,0.0,0.0,2.0,,INFO
+439,,2017-02-03 19:06:57,2017-02-01,INFO,Yergin Daniel,Vice COB,F - Tax,$39.45,-48469,452640,-10%,"-$1,912,102",0.0,0.0,2.0,,INFO
+440,M,2017-02-03 19:06:57,2017-02-01,INFO,Yergin Daniel,Vice COB,S - Sale,$39.32,-52539,452640,-10%,"-$2,066,008",0.0,0.0,2.0,,INFO
+441,,2017-02-03 19:04:44,2017-02-01,INFO,Hyatt Todd S.,EVP CFO,A - Grant,$0.00,152092,474128,+47%,+$0,0.0,0.0,2.0,,INFO
+442,,2017-02-03 19:04:44,2017-02-01,INFO,Hyatt Todd S.,EVP CFO,F - Tax,$39.45,-31856,474128,-6%,"-$1,256,719",0.0,0.0,2.0,,INFO
+443,,2017-02-02 16:15:11,2017-01-31,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$39.38,-14000,353892,-4%,"-$551,320",1.0,1.0,3.0,,INFO
+444,,2017-01-26 16:27:36,2017-01-24,INFO,Yergin Daniel,Vice COB,A - Grant,$0.00,5241,538439,+1%,+$0,0.0,0.0,2.0,,INFO
+445,,2017-01-26 16:27:36,2017-01-24,INFO,Yergin Daniel,Vice COB,F - Tax,$39.00,-1990,538439,0%,"-$77,610",0.0,0.0,2.0,,INFO
+446,,2017-01-26 16:27:08,2017-01-24,INFO,Stead Jerre L,"CEO, COB",A - Grant,$0.00,9500,1514800,+1%,+$0,0.0,0.0,2.0,,INFO
+447,,2017-01-26 16:27:08,2017-01-24,INFO,Stead Jerre L,"CEO, COB",F - Tax,$39.00,-3091,1514800,0%,"-$120,549",0.0,0.0,2.0,,INFO
+448,,2017-01-26 16:25:16,2017-01-24,INFO,Sisson Jeffrey D,EVP Chief of Staff,A - Grant,$0.00,2635,251881,+1%,+$0,0.0,0.0,2.0,,INFO
+449,,2017-01-26 16:25:16,2017-01-24,INFO,Sisson Jeffrey D,EVP Chief of Staff,F - Tax,$39.00,-843,251881,0%,"-$32,877",0.0,0.0,2.0,,INFO
+450,,2017-01-26 16:24:26,2017-01-24,INFO,Matzke-Hamlin Heather,Chief Accounting Officer,A - Grant,$0.00,1078,82553,+1%,+$0,0.0,0.0,2.0,,INFO
+451,,2017-01-26 16:24:26,2017-01-24,INFO,Matzke-Hamlin Heather,Chief Accounting Officer,F - Tax,$39.00,-402,82553,0%,"-$15,678",0.0,0.0,2.0,,INFO
+452,,2017-01-26 16:21:58,2017-01-24,INFO,Hyatt Todd S.,EVP CFO,A - Grant,$0.00,3722,367892,+1%,+$0,0.0,0.0,2.0,,INFO
+453,,2017-01-26 16:21:58,2017-01-24,INFO,Hyatt Todd S.,EVP CFO,F - Tax,$39.00,-1289,367892,0%,"-$50,271",0.0,0.0,2.0,,INFO
+454,,2017-01-26 16:19:58,2017-01-24,INFO,Harvey Randall P,EVP CTO,A - Grant,$0.00,1863,106108,+2%,+$0,0.0,0.0,2.0,,INFO
+455,,2017-01-26 16:19:58,2017-01-24,INFO,Harvey Randall P,EVP CTO,F - Tax,$39.00,-674,106108,-1%,"-$26,286",0.0,0.0,2.0,,INFO
+456,,2017-01-26 16:19:19,2017-01-24,INFO,Gear Jonathan,"EVP Resources, Transportation",A - Grant,$0.00,3402,315757,+1%,+$0,0.0,0.0,2.0,,INFO
+457,,2017-01-26 16:19:19,2017-01-24,INFO,Gear Jonathan,"EVP Resources, Transportation",F - Tax,$39.00,-1088,315757,0%,"-$42,432",0.0,0.0,2.0,,INFO
+458,,2017-01-26 16:18:34,2017-01-24,INFO,Bomba Jane L Okun,EVP Chief Admin Officer,A - Grant,$0.00,2539,267034,+1%,+$0,0.0,0.0,2.0,,INFO
+459,,2017-01-26 16:18:34,2017-01-24,INFO,Bomba Jane L Okun,EVP Chief Admin Officer,F - Tax,$39.00,-931,267034,0%,"-$36,309",0.0,0.0,2.0,,INFO
+460,D,2017-01-24 16:33:39,2017-01-20,INFO,Trogni Michele Louise,"EVP, Markets, Solutions",M - OptEx,$26.70,100000,35575,-155%,"+$2,670,000",2.0,2.0,3.0,,INFO
+461,D,2017-01-24 16:33:39,2017-01-20,INFO,Trogni Michele Louise,"EVP, Markets, Solutions",S - Sale+OE,$38.70,-106437,35575,-75%,"-$4,119,082",2.0,2.0,3.0,,INFO
+462,,2017-01-20 18:00:50,2017-01-19,INFO,Kelly Robert P,Dir,P - Purchase,$38.62,10000,67964,+17%,"+$386,200",0.0,2.0,4.0,,INFO
+463,,2017-01-04 16:23:24,2017-01-01,INFO,Uggla Lance Darrell Gordon,Pres,F - Tax,$35.41,-99468,573506,-15%,"-$3,522,162",0.0,1.0,9.0,,INFO
+464,,2017-01-04 16:22:22,2017-01-01,INFO,Trogni Michele Louise,"EVP, Markets, Solutions",F - Tax,$35.41,-8370,42012,-17%,"-$296,382",0.0,1.0,9.0,,INFO
+465,,2017-01-04 16:21:39,2017-01-02,INFO,Sisson Jeffrey D,EVP Chief of Staff,F - Tax,$35.41,-3001,250089,-1%,"-$106,265",0.0,1.0,9.0,,INFO
+466,,2017-01-04 16:19:14,2017-01-01,INFO,Mutnikas Yaacov,"EVP, Financial Market Technolo",F - Tax,$35.41,-1056,5683,-16%,"-$37,393",0.0,1.0,9.0,,INFO
+467,,2017-01-04 16:17:16,2017-01-01,INFO,Kansler Adam Jason,"EVP, Financial Markets",F - Tax,$35.41,-15550,89022,-15%,"-$550,626",0.0,1.0,9.0,,INFO
+468,,2017-01-04 16:16:15,2017-01-01,INFO,Granat Sari Beth,"EVP, GC",F - Tax,$35.41,-2770,14127,-16%,"-$98,086",0.0,1.0,9.0,,INFO
+469,,2017-01-04 16:15:21,2017-01-02,INFO,Gear Jonathan,"EVP Resources, Transportation",F - Tax,$35.41,-5844,313443,-2%,"-$206,936",0.0,1.0,9.0,,INFO
+470,,2017-01-04 16:04:24,2017-01-01,INFO,Akeroyd Shane,"EVP, Head of Account Mngt",F - Tax,$35.41,-13102,52604,-20%,"-$463,942",0.0,1.0,9.0,,INFO
+471,A,2017-01-04 16:03:37,2016-07-12,INFO,Ernst Ruann Faye,Dir,A - Grant,$0.00,71058,71058,New,+$0,0.0,1.0,9.0,,INFO
+472,,2016-12-13 18:37:14,2016-12-09,INFO,Roedel Richard,Dir,A - Grant,$0.00,560,212320,0%,+$0,-3.0,-2.0,4.0,,INFO
+473,,2016-12-13 18:37:14,2016-12-09,INFO,Roedel Richard,Dir,G - Gift,$0.00,-280,212320,0%,-$0,-3.0,-2.0,4.0,,INFO
+474,,2016-12-13 18:36:37,2016-12-09,INFO,Kelly Robert P,Dir,A - Grant,$0.00,1563,57964,+3%,+$0,-3.0,-2.0,4.0,,INFO
+475,,2016-12-13 18:36:08,2016-12-09,INFO,Ford William E,Dir,A - Grant,$0.00,980,13278751,0%,+$0,-3.0,-2.0,4.0,,INFO
+476,,2016-12-05 16:19:34,2016-12-01,INFO,Roedel Richard,Dir,A - Grant,$0.00,3416,212040,+2%,+$0,1.0,2.0,4.0,,INFO
+477,,2016-12-05 16:19:34,2016-12-01,INFO,Roedel Richard,Dir,G - Gift,$0.00,-1708,212040,-1%,-$0,1.0,2.0,4.0,,INFO
+478,,2016-12-05 16:18:43,2016-12-01,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,1708,32386,+6%,+$0,1.0,2.0,4.0,,INFO
+479,,2016-12-05 16:16:29,2016-12-01,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,1708,22658,+8%,+$0,1.0,2.0,4.0,,INFO
+480,,2016-12-05 16:16:29,2016-12-01,INFO,McWhinney Deborah D,Dir,F - Tax,$35.58,-186,22658,-1%,"-$6,618",1.0,2.0,4.0,,INFO
+481,,2016-12-05 16:15:38,2016-12-01,INFO,Kelly Robert P,Dir,A - Grant,$0.00,1708,56401,+3%,+$0,1.0,2.0,4.0,,INFO
+482,,2016-12-05 16:15:38,2016-12-01,INFO,Kelly Robert P,Dir,F - Tax,$35.11,-47,56401,0%,"-$1,650",1.0,2.0,4.0,,INFO
+483,,2016-12-05 16:14:33,2016-12-01,INFO,Iyer Balakrishnan S,Dir,A - Grant,$0.00,1708,87161,+2%,+$0,1.0,2.0,4.0,,INFO
+484,,2016-12-05 16:14:33,2016-12-01,INFO,Iyer Balakrishnan S,Dir,F - Tax,$35.58,-159,87161,0%,"-$5,657",1.0,2.0,4.0,,INFO
+485,,2016-12-05 16:13:41,2016-12-01,INFO,Ford William E,Dir,A - Grant,$0.00,1708,13277771,0%,+$0,1.0,2.0,4.0,,INFO
+486,,2016-12-05 16:10:34,2016-12-01,INFO,Ernst Ruann Faye,Dir,A - Grant,$0.00,1708,77182,+2%,+$0,1.0,2.0,4.0,,INFO
+487,,2016-12-05 16:10:34,2016-12-01,INFO,Ernst Ruann Faye,Dir,F - Tax,$35.58,-221,77182,0%,"-$7,863",1.0,2.0,4.0,,INFO
+488,,2016-12-05 16:09:28,2016-12-01,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,1708,53186,+3%,+$0,1.0,2.0,4.0,,INFO
+489,,2016-12-05 16:09:28,2016-12-01,INFO,Devitre Dinyar S,Dir,F - Tax,$35.11,-72,53186,0%,"-$2,528",1.0,2.0,4.0,,INFO
+490,,2016-11-18 16:02:30,2016-11-16,INFO,Trogni Michele Louise,"EVP, Markets, Solutions",S - Sale,$34.58,-2756,50382,-5%,"-$95,302",3.0,1.0,-1.0,,INFO
+491,,2016-11-18 16:01:16,2016-11-16,INFO,Bomba Jane L Okun,EVP Chief Admin Officer,S - Sale,$34.94,-30000,265426,-10%,"-$1,048,200",3.0,1.0,-1.0,,INFO
+492,,2016-11-02 17:26:44,2016-10-31,INFO,Matzke-Hamlin Heather,Chief Accounting Officer,S - Sale,$36.82,-10080,81877,-11%,"-$371,146",-2.0,-3.0,-5.0,19.0,INFO
+493,,2016-11-02 17:25:51,2016-10-31,INFO,Hyatt Todd S.,EVP CFO,S - Sale,$36.83,-14000,365459,-4%,"-$515,620",-2.0,-3.0,-5.0,19.0,INFO
+494,,2016-10-04 17:28:31,2016-09-30,INFO,Yergin Daniel,Vice COB,S - Sale,$37.49,-50528,535188,-9%,"-$1,894,295",-1.0,-1.0,0.0,13.0,INFO
+495,,2016-10-04 17:27:29,2016-09-30,INFO,Bomba Jane L Okun,EVP Chief Admin Officer,S - Sale,$37.60,-50000,295426,-14%,"-$1,880,000",-1.0,-1.0,0.0,13.0,INFO
+496,,2016-10-03 17:32:42,2016-09-29,INFO,Stead Jerre L,"CEO, COB",S - Sale,$36.96,-145753,1508391,-9%,"-$5,387,031",-1.0,-3.0,-2.0,11.0,INFO
+497,,2016-09-13 16:17:28,2016-09-09,INFO,Kelly Robert P,Dir,A - Grant,$0.00,668,54740,+1%,+$0,-2.0,-1.0,-2.0,9.0,INFO
+498,,2016-09-13 16:14:37,2016-09-09,INFO,Ford William E,Dir,A - Grant,$0.00,2004,13276063,0%,+$0,-2.0,-1.0,-2.0,9.0,INFO
+499,,2016-09-13 16:13:20,2016-09-09,INFO,Devitre Dinyar S,Dir,A - Grant,$0.00,890,51550,+2%,+$0,-2.0,-1.0,-2.0,9.0,INFO
+500,,2016-08-17 16:51:02,2016-08-15,INFO,Harvey Randall P,EVP CTO,F - Tax,$35.25,-2305,104919,-2%,"-$81,251",1.0,2.0,2.0,13.0,INFO
+501,DM,2016-08-17 16:44:23,2016-08-15,INFO,Akeroyd Shane,"EVP, Head of Account Mngt",M - OptEx,$12.84,50000,65706,+318%,"+$642,000",1.0,2.0,2.0,13.0,INFO
+502,DM,2016-08-17 16:44:23,2016-08-15,INFO,Akeroyd Shane,"EVP, Head of Account Mngt",S - Sale+OE,$35.28,-50000,65706,-43%,"-$1,764,000",1.0,2.0,2.0,13.0,INFO
+503,DM,2016-08-15 16:35:08,2016-08-11,INFO,Akeroyd Shane,"EVP, Head of Account Mngt",M - OptEx,$12.84,50000,65706,+318%,"+$642,000",0.0,3.0,5.0,13.0,INFO
+504,DM,2016-08-15 16:35:08,2016-08-11,INFO,Akeroyd Shane,"EVP, Head of Account Mngt",S - Sale+OE,$35.29,-50000,65706,-43%,"-$1,764,500",0.0,3.0,5.0,13.0,INFO
+505,,2016-08-11 17:31:44,2016-08-09,INFO,Ford William E,Dir,S - Sale,$35.05,-3000000,13274059,-18%,"-$105,150,000",-1.0,1.0,4.0,12.0,INFO
+506,D,2016-08-11 17:06:10,2016-08-09,INFO,Akeroyd Shane,"EVP, Head of Account Mngt",M - OptEx,$12.84,15000,65706,+30%,"+$192,600",-1.0,1.0,4.0,12.0,INFO
+507,D,2016-08-11 17:06:10,2016-08-09,INFO,Akeroyd Shane,"EVP, Head of Account Mngt",S - Sale+OE,$35.04,-15000,65706,-19%,"-$525,600",-1.0,1.0,4.0,12.0,INFO
+508,,2016-07-22 16:35:47,2016-07-20,INFO,Trogni Michele Louise,"EVP, Markets, Solutions",S - Sale,$35.66,-7150,53138,-12%,"-$254,969",-2.0,-2.0,2.0,9.0,INFO
+509,,2016-07-22 16:32:04,2016-07-20,INFO,Stead Jerre L,"CEO, COB",S - Sale,$35.65,-72000,1654144,-4%,"-$2,566,800",-2.0,-2.0,2.0,9.0,INFO
+510,M,2016-07-21 16:41:40,2016-07-19,INFO,Ford William E,Dir,S - Sale,$35.69,-7001911,16274059,-30%,"-$249,909,032",-2.0,-5.0,0.0,5.0,INFO
+511,,2016-07-19 17:06:19,2016-07-15,INFO,Gear Jonathan,"EVP Resources, Transportation",S - Sale,$36.00,-15000,319287,-4%,"-$540,000",-2.0,-4.0,-3.0,6.0,INFO
+512,M,2016-07-19 17:04:42,2016-07-15,INFO,Stead Jerre L,"CEO, COB",S - Sale,$35.05,-70000,1726144,-4%,"-$2,453,180",-2.0,-4.0,-3.0,6.0,INFO
+513,,2016-07-14 19:24:29,2016-07-12,INFO,Yergin Daniel,Vice COB,A - Grant,$0.00,585716,585716,New,+$0,-2.0,-1.0,-1.0,2.0,INFO
+514,,2016-07-14 19:23:27,2016-07-12,INFO,Stead Jerre L,"CEO, COB",A - Grant,$0.00,1796144,1796144,New,+$0,-2.0,-1.0,-1.0,2.0,INFO
+515,,2016-07-14 19:22:38,2016-07-12,INFO,Sisson Jeffrey D,EVP Chief of Staff,A - Grant,$0.00,253090,253090,New,+$0,-2.0,-1.0,-1.0,2.0,INFO
+516,,2016-07-14 19:20:55,2016-07-12,INFO,Bomba Jane L Okun,EVP Chief Admin Officer,A - Grant,$0.00,345426,345426,New,+$0,-2.0,-1.0,-1.0,2.0,INFO
+517,,2016-07-14 19:20:12,2016-07-12,INFO,Matzke-Hamlin Heather,Chief Accounting Officer,A - Grant,$0.00,91957,91957,New,+$0,-2.0,-1.0,-1.0,2.0,INFO
+518,,2016-07-14 19:19:27,2016-07-12,INFO,Hyatt Todd S.,EVP CFO,A - Grant,$0.00,379459,379459,New,+$0,-2.0,-1.0,-1.0,2.0,INFO
+519,,2016-07-14 19:18:22,2016-07-12,INFO,Harvey Randall P,EVP CTO,A - Grant,$0.00,107224,107224,New,+$0,-2.0,-1.0,-1.0,2.0,INFO
+520,,2016-07-14 19:17:43,2016-07-12,INFO,Gear Jonathan,"EVP Resources, Transportation",A - Grant,$0.00,334287,334287,New,+$0,-2.0,-1.0,-1.0,2.0,INFO
+521,,2016-07-14 19:15:46,2016-07-12,INFO,Roedel Richard,Dir,A - Grant,$0.00,201381,210332,>999%,+$0,-2.0,-1.0,-1.0,2.0,INFO
+522,,2016-07-14 19:14:57,2016-07-12,INFO,Montupet Jean Paul L,Dir,A - Grant,$0.00,30679,30678,-32768%,+$0,-2.0,-1.0,-1.0,2.0,INFO
+523,,2016-07-14 19:14:09,2016-07-12,INFO,McWhinney Deborah D,Dir,A - Grant,$0.00,21136,21136,New,+$0,-2.0,-1.0,-1.0,2.0,INFO
+524,,2016-07-14 19:13:15,2016-07-12,INFO,Iyer Balakrishnan S,Dir,A - Grant,$0.00,130068,130068,New,+$0,-2.0,-1.0,-1.0,2.0,INFO
+525,,2016-07-14 19:12:33,2016-07-12,INFO,Ernst Ruann Faye,Dir,A - Grant,$0.00,75695,75695,New,+$0,-2.0,-1.0,-1.0,2.0,INFO

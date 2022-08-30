@@ -1,23 +1,971 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-04-05 16:09:19,2022-04-01,WTW,Gebauer Julie Jarecke,"Head of Health, Wealth,Career",S - Sale,$236.88,-1400,99272,-1%,"-$331,632",,,,,WTW
-1,,2022-03-02 16:00:36,2022-03-01,WLTW,Gebauer Julie Jarecke,"Head of Health, Wealth,Career",S - Sale,$222.30,-1400,99475,-1%,"-$311,220",,,,,WTW
+0,,2022-03-02 16:00:36,2022-03-01,WLTW,Gebauer Julie Jarecke,"Head of Health, Wealth,Career",S - Sale,$222.30,-1400,99475,-1%,"-$311,220",,,,,WTW
+1,DM,2022-03-01 17:00:42,2022-02-25,WLTW,Hess Carl Aaron,CEO,M - OptEx,$110.58,6600,44805,+17%,"+$729,828",,,,,WTW
 2,DM,2022-03-01 17:00:42,2022-02-25,WLTW,Hess Carl Aaron,CEO,S - Sale+OE,$220.10,-6600,44805,-13%,"-$1,452,660",,,,,WTW
-3,,2022-02-24 17:36:45,2022-02-22,WLTW,Bodnar Anne Donovan,Chief Administrative Officer,S - Sale,$223.86,-2000,40631,-5%,"-$447,715",,,,,WTW
-4,,2022-02-16 16:00:30,2022-02-14,WLTW,Gebauer Julie Jarecke,"Head of Health, Wealth,Career",S - Sale,$220.99,-2400,96464,-2%,"-$530,375",,,,,WTW
-5,D,2021-12-07 17:30:42,2021-12-03,WLTW,Haley John J,CEO,S - Sale+OE,$231.62,-28900,417987,-6%,"-$6,693,871",,,,,WTW
-6,M,2021-11-02 16:00:28,2021-11-01,WLTW,Garrard Adam,"Head of Risk, Broking",S - Sale,$236.40,-6110,9557,-39%,"-$1,444,398",,,,,WTW
-7,D,2019-12-04 16:00:42,2019-12-03,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",S - Sale+OE,$192.99,-36557,30445,-55%,"-$7,055,135",,,,,WTW
-8,D,2019-11-22 16:01:15,2019-11-20,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$189.07,-2690,15222,-15%,"-$508,598",,,,,WTW
-9,D,2019-11-08 16:04:07,2019-11-07,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$185.59,-3214,15222,-17%,"-$596,486",,,,,WTW
-10,,2019-11-06 15:55:52,2019-11-04,WLTW,Thomas Paul D,Dir,S - Sale,$189.88,-2350,10658,-18%,"-$446,218",,,,,WTW
-11,,2019-08-26 16:04:14,2019-08-22,WLTW,Aubert Nicolas,Head of Great Britain,S - Sale,$195.00,-7592,5875,-56%,"-$1,480,440",,,,,WTW
-12,,2019-05-03 16:00:28,2019-05-03,WLTW,Catalano Anna C,Dir,S - Sale,$180.35,-1110,5261,-17%,"-$200,189",,,,,WTW
-13,D,2019-02-14 16:12:16,2019-02-12,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",S - Sale+OE,$171.13,-3856,15096,-20%,"-$659,883",,,,,WTW
-14,D,2019-02-14 16:10:57,2019-02-12,WLTW,Morris Paul G,Head of Western Europe,S - Sale+OE,$170.73,-40531,37507,-52%,"-$6,919,987",,,,,WTW
-15,,2019-02-14 16:09:25,2019-02-13,WLTW,Garrard Adam,Head of International,S - Sale,$171.71,-3517,5542,-39%,"-$603,915",,,,,WTW
-16,D,2019-02-13 16:01:49,2019-02-11,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$168.30,-2042,15222,-12%,"-$343,677",,,,,WTW
-17,D,2018-11-30 16:01:04,2018-11-28,WLTW,Aubert Nicolas,Head of Great Britain,S - Sale+OE,$160.00,-16762,8720,-66%,"-$2,681,920",,,,,WTW
-18,D,2018-11-13 17:01:27,2018-11-13,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",S - Sale+OE,$160.15,-10000,80935,-11%,"-$1,601,525",,,,,WTW
-19,,2018-11-08 16:33:27,2018-11-07,WLTW,Garrard Adam,Head of International,S - Sale,$153.92,-2850,9059,-24%,"-$438,661",,,,,WTW
-20,D,2018-11-08 16:32:07,2018-11-07,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",S - Sale+OE,$155.56,-2450,15414,-14%,"-$381,122",,,,,WTW
-21,D,2018-09-05 16:02:10,2018-08-31,WLTW,Garrard Adam,Head of International,S - Sale+OE,$146.77,-1830,11909,-13%,"-$268,590",,,,,WTW
+3,,2022-02-24 17:36:45,2022-02-22,WLTW,Bodnar Anne Donovan,Chief Administrative Officer,A - Grant,$0.00,2958,40631,+8%,+$0,,,,,WTW
+4,,2022-02-24 17:36:45,2022-02-22,WLTW,Bodnar Anne Donovan,Chief Administrative Officer,F - Tax,$225.61,-82,40631,0%,"-$18,500",,,,,WTW
+5,,2022-02-24 17:36:45,2022-02-22,WLTW,Bodnar Anne Donovan,Chief Administrative Officer,S - Sale,$223.86,-2000,40631,-5%,"-$447,715",,,,,WTW
+6,,2022-02-24 17:35:50,2022-02-22,WLTW,Garrard Adam,"Head of Risk, Broking",A - Grant,$0.00,3274,12831,+34%,+$0,,,,,WTW
+7,,2022-02-24 17:34:58,2022-02-22,WLTW,Furman Matthew,GC,A - Grant,$0.00,3480,25798,+16%,+$0,,,,,WTW
+8,,2022-02-24 17:34:02,2022-02-22,WLTW,Gebauer Julie Jarecke,"Head of Health, Wealth,Career",A - Grant,$0.00,4525,100875,+5%,+$0,,,,,WTW
+9,,2022-02-24 17:34:02,2022-02-22,WLTW,Gebauer Julie Jarecke,"Head of Health, Wealth,Career",F - Tax,$225.61,-114,100875,0%,"-$25,720",,,,,WTW
+10,,2022-02-24 17:32:52,2022-02-22,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",A - Grant,$0.00,4525,79480,+6%,+$0,,,,,WTW
+11,,2022-02-24 17:32:52,2022-02-22,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",F - Tax,$225.61,-113,79480,0%,"-$25,494",,,,,WTW
+12,,2022-02-24 17:31:58,2022-02-22,WLTW,Pullum Anne,Head of Europe,A - Grant,$0.00,3248,13396,+32%,+$0,,,,,WTW
+13,,2022-02-24 17:30:59,2022-02-22,WLTW,Hess Carl Aaron,CEO,A - Grant,$0.00,4525,48105,+10%,+$0,,,,,WTW
+14,,2022-02-24 17:30:59,2022-02-22,WLTW,Hess Carl Aaron,CEO,F - Tax,$225.61,-105,48105,0%,"-$23,689",,,,,WTW
+15,,2022-02-16 16:00:30,2022-02-14,WLTW,Gebauer Julie Jarecke,"Head of Health, Wealth,Career",S - Sale,$220.99,-2400,96464,-2%,"-$530,375",,,,,WTW
+16,D,2022-01-20 16:01:10,2021-10-01,WLTW,Kurpis Joseph Stephen,"PAO, Controller",A - Grant,$0.00,311,311,New,+$0,,,,,WTW
+17,,2022-01-05 17:09:26,2022-01-03,WLTW,Ganzi Victor F,Dir,A - Grant,$0.00,265,22297,+1%,+$0,,,,,WTW
+18,,2022-01-05 17:08:23,2022-01-03,WLTW,Beale Inga K,Dir,A - Grant,$0.00,283,283,New,+$0,,,,,WTW
+19,,2022-01-05 17:07:16,2022-01-03,WLTW,Hammond Michael P.,Dir,A - Grant,$0.00,283,283,New,+$0,,,,,WTW
+20,,2022-01-05 17:05:43,2022-01-03,WLTW,Swanback Michelle R,Dir,A - Grant,$0.00,283,283,New,+$0,,,,,WTW
+21,M,2022-01-03 17:00:40,2021-12-29,WLTW,Haley John J,CEO,A - Grant,$0.00,49258,447860,+12%,+$0,,,,,WTW
+22,M,2022-01-03 17:00:40,2021-12-29,WLTW,Haley John J,CEO,F - Tax,$238.66,-19385,447860,-4%,"-$4,626,342",,,,,WTW
+23,,2022-01-03 16:00:21,2021-12-29,WLTW,Patel Jaymin B,Dir,F - Tax,$238.72,-291,5429,-5%,"-$69,468",,,,,WTW
+24,D,2021-12-07 17:30:42,2021-12-03,WLTW,Haley John J,CEO,F - Tax,$232.85,-102409,417987,-20%,"-$23,846,188",,,,,WTW
+25,D,2021-12-07 17:30:42,2021-12-03,WLTW,Haley John J,CEO,M - OptEx,$110.58,150235,417987,+56%,"+$16,612,986",,,,,WTW
+26,D,2021-12-07 17:30:42,2021-12-03,WLTW,Haley John J,CEO,S - Sale+OE,$231.62,-28900,417987,-6%,"-$6,693,871",,,,,WTW
+27,D,2021-11-17 16:01:48,2021-11-15,WLTW,Gebauer Julie Jarecke,"Head of Health, Wealth,Career",D - Sale to issuer,$229.62,-42010,98864,-30%,"-$9,646,279",,,,,WTW
+28,D,2021-11-17 16:01:48,2021-11-15,WLTW,Gebauer Julie Jarecke,"Head of Health, Wealth,Career",M - OptEx,$110.58,42010,98864,+74%,"+$4,645,466",,,,,WTW
+29,D,2021-11-17 16:00:31,2021-11-15,WLTW,Pullum Anne,Head of Europe,D - Sale to issuer,$230.91,-410,10149,-4%,"-$94,673",,,,,WTW
+30,D,2021-11-17 16:00:31,2021-11-15,WLTW,Pullum Anne,Head of Europe,X - OptEx,$0.00,41,10149,0%,$0,,,,,WTW
+31,M,2021-11-02 16:00:28,2021-11-01,WLTW,Garrard Adam,"Head of Risk, Broking",S - Sale,$236.40,-6110,9557,-39%,"-$1,444,398",,,,,WTW
+32,,2021-09-09 17:01:46,2021-09-07,WLTW,Krasner Andrew Jay,CFO,A - Grant,$0.00,13210,13709,>999%,+$0,,,,,WTW
+33,,2021-08-20 16:00:52,2021-08-18,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",G - Gift,$0.00,-3421,75068,+5%,-$0,,,,,WTW
+34,,2021-07-22 16:09:39,2021-07-20,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",F - Tax,$216.09,-1581,39756,-4%,"-$341,638",,,,,WTW
+35,,2021-07-22 16:08:50,2021-07-20,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",F - Tax,$216.09,-3388,98864,-3%,"-$732,113",,,,,WTW
+36,,2021-07-22 16:07:31,2021-07-20,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",F - Tax,$216.09,-2781,75889,-4%,"-$600,946",,,,,WTW
+37,,2021-07-22 16:06:24,2021-07-20,WLTW,Pullum Anne,Head of Western Europe,F - Tax,$216.09,-1656,10518,-14%,"-$357,845",,,,,WTW
+38,,2021-07-22 16:04:42,2021-07-20,WLTW,Gunn Joseph,Head of North America,F - Tax,$216.09,-1934,23727,-8%,"-$417,918",,,,,WTW
+39,,2021-07-22 16:03:39,2021-07-20,WLTW,Burwell Michael J,CFO,F - Tax,$216.09,-5085,23322,-18%,"-$1,098,818",,,,,WTW
+40,,2021-07-22 16:02:57,2021-07-20,WLTW,Furman Matthew,GC,F - Tax,$216.09,-3556,22318,-14%,"-$768,416",,,,,WTW
+41,,2021-07-22 16:02:01,2021-07-20,WLTW,Garrard Adam,"Head-Corporate Risk, Broking",F - Tax,$216.09,-2548,15667,-14%,"-$550,597",,,,,WTW
+42,,2021-07-22 16:01:05,2021-07-20,WLTW,Aubert Nicolas,Head of Great Britain,F - Tax,$216.09,-3627,16508,-18%,"-$783,758",,,,,WTW
+43,,2021-07-22 16:00:14,2021-07-20,WLTW,Hess Carl Aaron,Head of IRR,F - Tax,$216.09,-4140,43685,-9%,"-$894,613",,,,,WTW
+44,,2021-06-17 16:22:16,2021-06-15,WLTW,Aubert Nicolas,Head of Great Britain,A - Grant,$0.00,21,20135,0%,+$0,,,,,WTW
+45,D,2021-06-17 16:20:32,2021-06-15,WLTW,Pullum Anne,Head of Western Europe,A - Grant,$0.00,14,12174,0%,+$0,,,,,WTW
+46,D,2021-06-17 16:19:05,2021-06-15,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",A - Grant,$0.00,23,78670,0%,+$0,,,,,WTW
+47,D,2021-06-17 16:17:13,2021-06-15,WLTW,Hess Carl Aaron,Head of IRR,A - Grant,$0.00,22,47825,0%,+$0,,,,,WTW
+48,D,2021-06-17 16:16:12,2021-06-15,WLTW,Gunn Joseph,Head of North America,A - Grant,$0.00,14,25661,0%,+$0,,,,,WTW
+49,D,2021-06-17 16:12:25,2021-06-15,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",A - Grant,$0.00,23,102252,0%,+$0,,,,,WTW
+50,D,2021-06-17 16:09:37,2021-06-15,WLTW,Furman Matthew,GC,A - Grant,$0.00,18,25874,0%,+$0,,,,,WTW
+51,D,2021-06-17 16:05:21,2021-06-15,WLTW,Burwell Michael J,CFO,A - Grant,$0.00,36,28407,0%,+$0,,,,,WTW
+52,D,2021-06-17 16:03:28,2021-06-15,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",A - Grant,$0.00,14,41337,0%,+$0,,,,,WTW
+53,,2021-05-13 16:11:49,2021-05-11,WLTW,Rabbitt Linda D,Dir,A - Grant,$0.00,1078,14491,+8%,+$0,,,,,WTW
+54,,2021-05-13 16:11:49,2021-05-11,WLTW,Rabbitt Linda D,Dir,F - Tax,$264.25,-386,14491,-3%,"-$102,001",,,,,WTW
+55,,2021-05-13 16:10:44,2021-05-11,WLTW,Thomas Paul D,Dir,A - Grant,$0.00,605,11244,+6%,+$0,,,,,WTW
+56,,2021-05-13 16:10:44,2021-05-11,WLTW,Thomas Paul D,Dir,F - Tax,$264.25,-386,11244,-3%,"-$102,001",,,,,WTW
+57,,2021-05-13 16:09:52,2021-05-11,WLTW,Patel Jaymin B,Dir,A - Grant,$0.00,605,5720,+12%,+$0,,,,,WTW
+58,,2021-05-13 16:09:52,2021-05-11,WLTW,Patel Jaymin B,Dir,F - Tax,$264.25,-386,5720,-6%,"-$102,001",,,,,WTW
+59,,2021-05-13 16:07:23,2021-05-11,WLTW,Oneill Brendan R,Dir,A - Grant,$0.00,605,13331,+5%,+$0,,,,,WTW
+60,,2021-05-13 16:07:23,2021-05-11,WLTW,Oneill Brendan R,Dir,F - Tax,$264.25,-386,13331,-3%,"-$102,001",,,,,WTW
+61,,2021-05-13 16:06:18,2021-05-11,WLTW,Lane Wendy E,Dir,A - Grant,$0.00,605,7939,+8%,+$0,,,,,WTW
+62,,2021-05-13 16:06:18,2021-05-11,WLTW,Lane Wendy E,Dir,F - Tax,$264.25,-386,7939,-5%,"-$102,001",,,,,WTW
+63,,2021-05-13 16:04:04,2021-05-11,WLTW,Ganzi Victor F,Dir,A - Grant,$0.00,1646,22032,+8%,+$0,,,,,WTW
+64,,2021-05-13 16:04:04,2021-05-11,WLTW,Ganzi Victor F,Dir,F - Tax,$264.25,-1049,22032,-5%,"-$277,198",,,,,WTW
+65,,2021-05-13 16:02:25,2021-05-11,WLTW,Zeller Wilhelm,Dir,A - Grant,$0.00,605,9075,+7%,+$0,,,,,WTW
+66,,2021-05-13 16:02:25,2021-05-11,WLTW,Zeller Wilhelm,Dir,F - Tax,$264.25,-687,9075,-7%,"-$181,540",,,,,WTW
+67,,2021-05-13 16:01:16,2021-05-11,WLTW,Catalano Anna C,Dir,A - Grant,$0.00,605,6267,+11%,+$0,,,,,WTW
+68,,2021-05-13 16:01:16,2021-05-11,WLTW,Catalano Anna C,Dir,F - Tax,$264.25,-386,6267,-6%,"-$102,001",,,,,WTW
+69,,2021-04-19 16:16:07,2021-04-15,WLTW,Garrard Adam,"Head-Corporate Risk, Broking",A - Grant,$0.00,16,18215,0%,+$0,,,,,WTW
+70,D,2021-04-19 16:12:15,2021-04-15,WLTW,Gunn Joseph,Head of North America,A - Grant,$0.00,15,25647,0%,+$0,,,,,WTW
+71,D,2021-04-19 16:11:01,2021-04-15,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",A - Grant,$0.00,15,41323,0%,+$0,,,,,WTW
+72,D,2021-04-19 16:09:43,2021-04-15,WLTW,Furman Matthew,GC,A - Grant,$0.00,19,19,New,+$0,,,,,WTW
+73,D,2021-04-19 16:08:44,2021-04-15,WLTW,Hess Carl Aaron,Head of IRR,A - Grant,$0.00,23,47803,0%,+$0,,,,,WTW
+74,D,2021-04-19 16:07:25,2021-04-15,WLTW,Burwell Michael J,CFO,A - Grant,$0.00,38,28371,0%,+$0,,,,,WTW
+75,D,2021-04-19 16:06:27,2021-04-15,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",A - Grant,$0.00,24,102229,0%,+$0,,,,,WTW
+76,D,2021-04-19 16:05:36,2021-04-15,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",A - Grant,$0.00,24,78647,0%,+$0,,,,,WTW
+77,D,2021-04-19 16:04:18,2021-04-15,WLTW,Pullum Anne,Head of Western Europe,A - Grant,$0.00,15,12160,0%,+$0,,,,,WTW
+78,,2021-04-19 16:02:45,2021-04-15,WLTW,Aubert Nicolas,Head of Great Britain,A - Grant,$0.00,23,20114,0%,+$0,,,,,WTW
+79,D,2021-04-06 16:00:23,2021-04-02,WLTW,Davies Susan Dorrance,"PAO, Controller",D - Sale to issuer,$224.98,-646,1708,-27%,"-$145,377",,,,,WTW
+80,D,2021-04-06 16:00:23,2021-04-02,WLTW,Davies Susan Dorrance,"PAO, Controller",M - OptEx,$0.00,646,1708,+61%,+$0,,,,,WTW
+81,,2021-02-23 16:11:19,2021-02-21,WLTW,Hess Carl Aaron,Head of IRR,A - Grant,$0.00,8030,45623,+21%,+$0,,,,,WTW
+82,,2021-02-23 16:11:19,2021-02-21,WLTW,Hess Carl Aaron,Head of IRR,F - Tax,$224.98,-185,45623,0%,"-$41,621",,,,,WTW
+83,,2021-02-23 16:10:02,2021-02-21,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",A - Grant,$0.00,8351,76380,+12%,+$0,,,,,WTW
+84,,2021-02-23 16:10:02,2021-02-21,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",F - Tax,$224.98,-193,76380,0%,"-$43,421",,,,,WTW
+85,,2021-02-23 16:08:59,2021-02-21,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",A - Grant,$0.00,8351,102205,+9%,+$0,,,,,WTW
+86,,2021-02-23 16:08:59,2021-02-21,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",F - Tax,$224.98,-193,102205,0%,"-$43,421",,,,,WTW
+87,,2021-02-23 16:08:09,2021-02-21,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",A - Grant,$0.00,5310,39881,+15%,+$0,,,,,WTW
+88,,2021-02-23 16:08:09,2021-02-21,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",F - Tax,$224.98,-121,39881,0%,"-$27,223",,,,,WTW
+89,,2021-02-23 16:07:21,2021-02-21,WLTW,Aubert Nicolas,Head of Great Britain,A - Grant,$0.00,7673,20091,+62%,+$0,,,,,WTW
+90,,2021-02-23 16:06:25,2021-02-21,WLTW,Garrard Adam,"Head-Corporate Risk, Broking",A - Grant,$0.00,5390,18199,+42%,+$0,,,,,WTW
+91,,2021-02-23 16:05:33,2021-02-21,WLTW,Gunn Joseph,Head of North America,A - Grant,$0.00,5138,25631,+25%,+$0,,,,,WTW
+92,,2021-02-23 16:04:31,2021-02-21,WLTW,Furman Matthew,GC,A - Grant,$0.00,6423,25856,+33%,+$0,,,,,WTW
+93,,2021-02-23 16:03:38,2021-02-21,WLTW,Burwell Michael J,CFO,A - Grant,$0.00,12848,28333,+83%,+$0,,,,,WTW
+94,,2021-02-23 16:02:47,2021-02-21,WLTW,Pullum Anne,Head of Western Europe,A - Grant,$0.00,5085,12145,+72%,+$0,,,,,WTW
+95,D,2020-11-12 16:02:46,2020-11-09,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",G - Gift,$0.00,-1910,70465,+3%,-$0,,,,,WTW
+96,M,2020-08-31 16:00:17,2020-08-27,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",G - Gift,$0.00,-1590,71815,+2%,-$0,,,,,WTW
+97,D,2020-07-22 18:00:07,2020-07-20,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",F - Tax,$208.50,-5649,94047,-6%,"-$1,177,817",,,,,WTW
+98,D,2020-07-22 18:00:07,2020-07-20,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",X - OptEx,$0.00,93,94047,0%,$0,,,,,WTW
+99,D,2020-07-22 17:43:27,2020-07-20,WLTW,Hess Carl Aaron,Head of IRR,F - Tax,$0.00,-6334,39935,-14%,-$0,,,,,WTW
+100,D,2020-07-22 17:43:27,2020-07-20,WLTW,Hess Carl Aaron,Head of IRR,X - OptEx,$0.00,89,39935,0%,$0,,,,,WTW
+101,D,2020-07-22 17:40:32,2020-07-20,WLTW,Burwell Michael J,CFO,F - Tax,$208.50,-9165,15485,-37%,"-$1,910,903",,,,,WTW
+102,D,2020-07-22 17:40:32,2020-07-20,WLTW,Burwell Michael J,CFO,X - OptEx,$0.00,146,15485,-1%,$0,,,,,WTW
+103,D,2020-07-22 17:39:11,2020-07-20,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",F - Tax,$208.50,-4875,71815,-6%,"-$1,016,438",,,,,WTW
+104,D,2020-07-22 17:39:11,2020-07-20,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",X - OptEx,$0.00,93,71815,0%,$0,,,,,WTW
+105,D,2020-07-22 17:37:48,2020-07-20,WLTW,Gunn Joseph,Head of North America,F - Tax,$208.50,-3231,20493,-14%,"-$673,664",,,,,WTW
+106,D,2020-07-22 17:37:48,2020-07-20,WLTW,Gunn Joseph,Head of North America,X - OptEx,$0.00,58,20493,0%,$0,,,,,WTW
+107,D,2020-07-22 17:36:24,2020-07-20,WLTW,Furman Matthew,GC,F - Tax,$208.50,-5427,19433,-22%,"-$1,131,530",,,,,WTW
+108,D,2020-07-22 17:36:24,2020-07-20,WLTW,Furman Matthew,GC,X - OptEx,$0.00,73,19433,0%,$0,,,,,WTW
+109,D,2020-07-22 17:34:53,2020-07-20,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",F - Tax,$208.50,-2893,36118,-7%,"-$603,191",,,,,WTW
+110,D,2020-07-22 17:34:53,2020-07-20,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",X - OptEx,$0.00,59,36118,0%,$0,,,,,WTW
+111,D,2020-07-22 17:33:14,2020-07-20,WLTW,Garrard Adam,"Head-Corporate Risk, Broking",F - Tax,$208.50,-3837,12809,-23%,"-$800,015",,,,,WTW
+112,D,2020-07-22 17:33:14,2020-07-20,WLTW,Garrard Adam,"Head-Corporate Risk, Broking",X - OptEx,$0.00,56,12809,0%,$0,,,,,WTW
+113,D,2020-07-22 17:31:49,2020-07-20,WLTW,Aubert Nicolas,Head of Great Britain,F - Tax,$208.50,-5804,12418,-32%,"-$1,210,134",,,,,WTW
+114,D,2020-07-22 17:31:49,2020-07-20,WLTW,Aubert Nicolas,Head of Great Britain,X - OptEx,$0.00,85,12418,-1%,$0,,,,,WTW
+115,D,2020-07-22 17:30:18,2020-07-20,WLTW,Pullum Anne,Head of Western Europe,F - Tax,$208.50,-3851,7060,-35%,"-$802,934",,,,,WTW
+116,D,2020-07-22 17:30:18,2020-07-20,WLTW,Pullum Anne,Head of Western Europe,X - OptEx,$0.00,55,7060,-1%,$0,,,,,WTW
+117,,2020-06-11 17:09:17,2020-06-10,WLTW,Thomas Paul D,Dir,A - Grant,$0.00,803,11025,+8%,+$0,,,,,WTW
+118,,2020-06-11 17:08:14,2020-06-10,WLTW,Zeller Wilhelm,Dir,A - Grant,$0.00,1431,9157,+19%,+$0,,,,,WTW
+119,,2020-06-11 17:06:49,2020-06-10,WLTW,Ganzi Victor F,Dir,A - Grant,$0.00,2184,21435,+11%,+$0,,,,,WTW
+120,,2020-06-11 17:05:32,2020-06-10,WLTW,Rabbitt Linda D,Dir,A - Grant,$0.00,803,13799,+6%,+$0,,,,,WTW
+121,,2020-06-11 17:04:07,2020-06-10,WLTW,Oneill Brendan R,Dir,A - Grant,$0.00,803,13112,+7%,+$0,,,,,WTW
+122,,2020-06-11 17:03:00,2020-06-10,WLTW,Patel Jaymin B,Dir,A - Grant,$0.00,803,5501,+17%,+$0,,,,,WTW
+123,,2020-06-11 17:01:48,2020-06-10,WLTW,Lane Wendy E,Dir,A - Grant,$0.00,803,7720,+12%,+$0,,,,,WTW
+124,,2020-06-11 17:00:41,2020-06-10,WLTW,Catalano Anna C,Dir,A - Grant,$0.00,803,6048,+15%,+$0,,,,,WTW
+125,,2020-05-21 16:07:51,2020-05-20,WLTW,Rabbitt Linda D,Dir,F - Tax,$202.99,-436,12996,-3%,"-$88,504",,,,,WTW
+126,,2020-05-21 16:05:12,2020-05-20,WLTW,Zeller Wilhelm,Dir,F - Tax,$202.99,-436,7726,-5%,"-$88,504",,,,,WTW
+127,,2020-05-21 16:04:10,2020-05-20,WLTW,Thomas Paul D,Dir,F - Tax,$202.99,-436,10222,-4%,"-$88,504",,,,,WTW
+128,,2020-05-21 16:03:15,2020-05-20,WLTW,Patel Jaymin B,Dir,F - Tax,$202.99,-436,4698,-8%,"-$88,504",,,,,WTW
+129,,2020-05-21 16:01:58,2020-05-20,WLTW,Oneill Brendan R,Dir,F - Tax,$202.99,-436,12309,-3%,"-$88,504",,,,,WTW
+130,,2020-05-21 16:01:00,2020-05-20,WLTW,Lane Wendy E,Dir,F - Tax,$202.99,-436,6917,-6%,"-$88,504",,,,,WTW
+131,,2020-05-21 16:00:00,2020-05-20,WLTW,Catalano Anna C,Dir,F - Tax,$202.99,-436,5245,-8%,"-$88,504",,,,,WTW
+132,,2020-02-27 17:38:05,2020-02-25,WLTW,Aubert Nicolas,Head of Great Britain,A - Grant,$0.00,12262,18137,+209%,+$0,,,,,WTW
+133,,2020-02-27 17:37:17,2020-02-25,WLTW,Garrard Adam,"Head-Corporate Risk, Broking",A - Grant,$0.00,8106,16590,+96%,+$0,,,,,WTW
+134,,2020-02-27 17:36:32,2020-02-25,WLTW,Gunn Joseph,Head of North America,A - Grant,$0.00,8444,23666,+55%,+$0,,,,,WTW
+135,,2020-02-27 17:35:44,2020-02-25,WLTW,Furman Matthew,GC,A - Grant,$0.00,10555,24787,+74%,+$0,,,,,WTW
+136,,2020-02-27 17:34:55,2020-02-25,WLTW,Burwell Michael J,CFO,A - Grant,$0.00,21041,24504,+608%,+$0,,,,,WTW
+137,,2020-02-27 17:34:01,2020-02-25,WLTW,Pullum Anne,Head of Western Europe,A - Grant,$0.00,8004,10856,+281%,+$0,,,,,WTW
+138,,2020-02-27 17:33:14,2020-02-25,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",A - Grant,$0.00,13722,76597,+22%,+$0,,,,,WTW
+139,,2020-02-27 17:33:14,2020-02-25,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",F - Tax,$205.54,-328,76597,0%,"-$67,417",,,,,WTW
+140,,2020-02-27 17:32:19,2020-02-25,WLTW,Hess Carl Aaron,Head of IRR,A - Grant,$0.00,13193,46180,+40%,+$0,,,,,WTW
+141,,2020-02-27 17:32:19,2020-02-25,WLTW,Hess Carl Aaron,Head of IRR,F - Tax,$205.54,-316,46180,-1%,"-$64,951",,,,,WTW
+142,,2020-02-27 17:31:23,2020-02-25,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",A - Grant,$0.00,13722,99603,+16%,+$0,,,,,WTW
+143,,2020-02-27 17:31:23,2020-02-25,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",F - Tax,$205.54,-328,99603,0%,"-$67,417",,,,,WTW
+144,,2020-02-27 17:30:17,2020-02-25,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",A - Grant,$0.00,8724,38952,+29%,+$0,,,,,WTW
+145,,2020-02-27 17:30:17,2020-02-25,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",F - Tax,$205.54,-217,38952,-1%,"-$44,602",,,,,WTW
+146,D,2019-12-04 16:00:42,2019-12-03,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",M - OptEx,$110.58,36557,30445,-598%,"+$4,042,473",,,,,WTW
+147,D,2019-12-04 16:00:42,2019-12-03,WLTW,Bodnar Anne Donovan,"CAO, Head of HR",S - Sale+OE,$192.99,-36557,30445,-55%,"-$7,055,135",,,,,WTW
+148,,2019-11-22 16:02:27,2019-11-21,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",G - Gift,$0.00,-260,63203,0%,-$0,,,,,WTW
+149,D,2019-11-22 16:01:15,2019-11-20,WLTW,Gunn Joseph,Head of North America,M - OptEx,$117.40,2690,15222,+21%,"+$315,806",,,,,WTW
+150,D,2019-11-22 16:01:15,2019-11-20,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$189.07,-2690,15222,-15%,"-$508,598",,,,,WTW
+151,D,2019-11-08 16:04:07,2019-11-07,WLTW,Gunn Joseph,Head of North America,M - OptEx,$88.84,3214,15222,+27%,"+$285,532",,,,,WTW
+152,D,2019-11-08 16:04:07,2019-11-07,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$185.59,-3214,15222,-17%,"-$596,486",,,,,WTW
+153,,2019-11-06 15:55:52,2019-11-04,WLTW,Thomas Paul D,Dir,S - Sale,$189.88,-2350,10658,-18%,"-$446,218",,,,,WTW
+154,,2019-10-30 16:01:04,2019-10-28,WLTW,Haley John J,CEO,F - Tax,$184.98,-6668,399061,-2%,"-$1,233,447",,,,,WTW
+155,,2019-08-26 16:04:14,2019-08-22,WLTW,Aubert Nicolas,Head of Great Britain,S - Sale,$195.00,-7592,5875,-56%,"-$1,480,440",,,,,WTW
+156,,2019-08-20 16:02:46,2019-08-19,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",G - Gift,$0.00,-926,63203,-1%,-$0,,,,,WTW
+157,,2019-08-15 16:07:01,2019-08-13,WLTW,Oneill Brendan R,Dir,F - Tax,$192.93,-487,12745,-4%,"-$93,957",,,,,WTW
+158,,2019-08-15 16:06:02,2019-08-13,WLTW,Zeller Wilhelm,Dir,F - Tax,$192.93,-487,8162,-6%,"-$93,957",,,,,WTW
+159,,2019-08-15 16:05:10,2019-08-13,WLTW,Patel Jaymin B,Dir,F - Tax,$192.93,-487,5134,-9%,"-$93,957",,,,,WTW
+160,,2019-08-15 16:04:17,2019-08-13,WLTW,Thomas Paul D,Dir,F - Tax,$192.93,-487,13008,-4%,"-$93,957",,,,,WTW
+161,,2019-08-15 16:03:22,2019-08-13,WLTW,Lane Wendy E,Dir,F - Tax,$192.93,-487,7353,-6%,"-$93,957",,,,,WTW
+162,,2019-08-15 16:02:25,2019-08-13,WLTW,Catalano Anna C,Dir,F - Tax,$192.93,-487,5681,-8%,"-$93,957",,,,,WTW
+163,,2019-08-15 16:01:26,2019-08-13,WLTW,Rabbitt Linda D,Dir,F - Tax,$192.93,-487,13432,-3%,"-$93,957",,,,,WTW
+164,,2019-05-22 16:10:50,2019-05-20,WLTW,Patel Jaymin B,Dir,A - Grant,$0.00,907,5621,+19%,+$0,,,,,WTW
+165,,2019-05-22 16:09:53,2019-05-20,WLTW,Burwell Michael J,CFO,A - Grant,$0.00,600,3463,+21%,+$0,,,,,WTW
+166,,2019-05-22 16:09:53,2019-05-20,WLTW,Burwell Michael J,CFO,F - Tax,$176.37,-237,3463,-6%,"-$41,800",,,,,WTW
+167,,2019-05-22 16:08:56,2019-05-20,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",A - Grant,$0.00,600,64379,+1%,+$0,,,,,WTW
+168,,2019-05-22 16:08:56,2019-05-20,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",F - Tax,$176.37,-237,64379,0%,"-$41,800",,,,,WTW
+169,,2019-05-22 16:08:00,2019-05-20,WLTW,Catalano Anna C,Dir,A - Grant,$0.00,907,6168,+17%,+$0,,,,,WTW
+170,,2019-05-22 16:07:00,2019-05-20,WLTW,Lane Wendy E,Dir,A - Grant,$0.00,907,7840,+13%,+$0,,,,,WTW
+171,,2019-05-22 16:06:04,2019-05-20,WLTW,Oneill Brendan R,Dir,A - Grant,$0.00,907,13232,+7%,+$0,,,,,WTW
+172,,2019-05-22 16:05:17,2019-05-20,WLTW,Rabbitt Linda D,Dir,A - Grant,$0.00,907,13919,+7%,+$0,,,,,WTW
+173,,2019-05-22 16:04:27,2019-05-20,WLTW,Thomas Paul D,Dir,A - Grant,$0.00,907,13495,+7%,+$0,,,,,WTW
+174,,2019-05-22 16:03:14,2019-05-20,WLTW,Zeller Wilhelm,Dir,A - Grant,$0.00,907,8649,+12%,+$0,,,,,WTW
+175,,2019-05-22 16:02:03,2019-05-20,WLTW,Ganzi Victor F,Dir,A - Grant,$0.00,1757,19251,+10%,+$0,,,,,WTW
+176,,2019-05-13 16:01:01,2019-05-10,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",G - Gift,$0.00,-1060,64016,+2%,-$0,,,,,WTW
+177,,2019-05-08 16:02:14,2019-05-07,WLTW,Bodnar Anne Donovan,CHRO,G - Gift,$0.00,-1100,30445,-3%,-$0,,,,,WTW
+178,,2019-05-03 16:00:28,2019-05-03,WLTW,Catalano Anna C,Dir,S - Sale,$180.35,-1110,5261,-17%,"-$200,189",,,,,WTW
+179,A,2019-04-29 17:01:39,2019-03-15,WLTW,Bodnar Anne Donovan,CHRO,F - Tax,$172.25,-2086,31545,-6%,"-$359,314",,,,,WTW
+180,A,2019-04-29 17:00:38,2019-03-15,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",F - Tax,$172.25,-3591,61336,-6%,"-$618,550",,,,,WTW
+181,,2019-03-19 16:16:13,2019-03-15,WLTW,Morris Paul G,Head of Western Europe,F - Tax,$172.25,-3045,40940,-7%,"-$524,501",,,,,WTW
+182,,2019-03-19 16:14:54,2019-03-15,WLTW,Shalders David,"Head- Operations, Technology",F - Tax,$172.25,-3803,12961,-23%,"-$655,067",,,,,WTW
+183,,2019-03-19 16:13:17,2019-03-15,WLTW,Aubert Nicolas,Head of Great Britain,F - Tax,$172.25,-4210,13467,-24%,"-$725,173",,,,,WTW
+184,,2019-03-19 16:12:19,2019-03-15,WLTW,Garrard Adam,Head of International,F - Tax,$172.25,-2610,8484,-24%,"-$449,573",,,,,WTW
+185,,2019-03-19 16:11:19,2019-03-15,WLTW,Bodnar Anne Donovan,CHRO,F - Tax,$172.25,-2098,31533,-6%,"-$361,381",,,,,WTW
+186,,2019-03-19 16:09:37,2019-03-15,WLTW,Hess Carl Aaron,Head of IRR,F - Tax,$172.25,-4013,33303,-11%,"-$691,239",,,,,WTW
+187,,2019-03-19 16:08:26,2019-03-15,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",F - Tax,$172.25,-3979,86209,-4%,"-$685,383",,,,,WTW
+188,,2019-03-19 16:06:22,2019-03-15,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",F - Tax,$172.25,-3647,63960,-5%,"-$628,196",,,,,WTW
+189,,2019-03-19 16:04:52,2019-03-15,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",F - Tax,$172.25,-4488,20929,-18%,"-$773,058",,,,,WTW
+190,,2019-03-19 16:03:26,2019-03-15,WLTW,Furman Matthew,GC,F - Tax,$172.25,-3831,14232,-21%,"-$659,890",,,,,WTW
+191,,2019-02-28 16:14:49,2019-02-26,WLTW,Haley John J,CEO,A - Grant,$0.00,280802,405729,+225%,+$0,,,,,WTW
+192,,2019-02-28 16:13:59,2019-02-26,WLTW,Aubert Nicolas,Head of Great Britain,A - Grant,$0.00,8957,17677,+103%,+$0,,,,,WTW
+193,,2019-02-28 16:12:57,2019-02-26,WLTW,Bodnar Anne Donovan,CHRO,A - Grant,$0.00,6305,33631,+23%,+$0,,,,,WTW
+194,,2019-02-28 16:11:59,2019-02-26,WLTW,Furman Matthew,GC,A - Grant,$0.00,7626,18063,+73%,+$0,,,,,WTW
+195,,2019-02-28 16:11:03,2019-02-26,WLTW,Garrard Adam,Head of International,A - Grant,$0.00,5552,11094,+100%,+$0,,,,,WTW
+196,,2019-02-28 16:10:12,2019-02-26,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",A - Grant,$0.00,9253,90188,+11%,+$0,,,,,WTW
+197,,2019-02-28 16:08:46,2019-02-26,WLTW,Hess Carl Aaron,Head of IRR,A - Grant,$0.00,8327,37316,+29%,+$0,,,,,WTW
+198,,2019-02-28 16:07:52,2019-02-26,WLTW,Morris Paul G,Head of Western Europe,A - Grant,$0.00,6478,43985,+17%,+$0,,,,,WTW
+199,,2019-02-28 16:06:51,2019-02-26,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",A - Grant,$0.00,10321,25417,+68%,+$0,,,,,WTW
+200,,2019-02-28 16:06:00,2019-02-26,WLTW,Shalders David,"Head- Operations, Technology",A - Grant,$0.00,8090,16764,+93%,+$0,,,,,WTW
+201,,2019-02-28 16:05:13,2019-02-26,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",A - Grant,$0.00,9253,67607,+16%,+$0,,,,,WTW
+202,D,2019-02-14 16:12:16,2019-02-12,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",M - OptEx,$88.84,3856,15096,+34%,"+$342,567",,,,,WTW
+203,D,2019-02-14 16:12:16,2019-02-12,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",S - Sale+OE,$171.13,-3856,15096,-20%,"-$659,883",,,,,WTW
+204,D,2019-02-14 16:10:57,2019-02-12,WLTW,Morris Paul G,Head of Western Europe,M - OptEx,$110.58,40531,37507,-1340%,"+$4,481,918",,,,,WTW
+205,D,2019-02-14 16:10:57,2019-02-12,WLTW,Morris Paul G,Head of Western Europe,S - Sale+OE,$170.73,-40531,37507,-52%,"-$6,919,987",,,,,WTW
+206,,2019-02-14 16:09:25,2019-02-13,WLTW,Garrard Adam,Head of International,S - Sale,$171.71,-3517,5542,-39%,"-$603,915",,,,,WTW
+207,D,2019-02-13 16:01:49,2019-02-11,WLTW,Gunn Joseph,Head of North America,M - OptEx,$109.95,2042,15222,+15%,"+$224,518",,,,,WTW
+208,D,2019-02-13 16:01:49,2019-02-11,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$168.30,-2042,15222,-12%,"-$343,677",,,,,WTW
+209,D,2018-11-30 16:01:04,2018-11-28,WLTW,Aubert Nicolas,Head of Great Britain,M - OptEx,$116.68,16762,8720,-208%,"+$1,955,790",,,,,WTW
+210,D,2018-11-30 16:01:04,2018-11-28,WLTW,Aubert Nicolas,Head of Great Britain,S - Sale+OE,$160.00,-16762,8720,-66%,"-$2,681,920",,,,,WTW
+211,,2018-11-19 16:01:36,2018-11-15,WLTW,Pullum Anne,"Head of Strategy, CAO",A - Grant,$0.00,1000,2852,+54%,+$0,,,,,WTW
+212,D,2018-11-13 17:01:27,2018-11-13,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",G - Gift,$0.00,-720,80935,+1%,-$0,,,,,WTW
+213,D,2018-11-13 17:01:27,2018-11-13,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",S - Sale+OE,$160.15,-10000,80935,-11%,"-$1,601,525",,,,,WTW
+214,D,2018-11-13 16:29:46,2018-11-09,WLTW,Furman Matthew,GC,F - Tax,$160.35,-291,10437,-3%,"-$46,662",,,,,WTW
+215,D,2018-11-13 16:27:02,2018-11-09,WLTW,Gunn Joseph,Head of North America,F - Tax,$160.35,-344,15222,-2%,"-$55,160",,,,,WTW
+216,D,2018-11-13 16:19:59,2018-11-09,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",F - Tax,$160.35,-318,15096,-2%,"-$50,991",,,,,WTW
+217,D,2018-11-13 16:13:52,2018-11-09,WLTW,Pullum Anne,"Head of Strategy, CAO",F - Tax,$160.35,-132,1852,-7%,"-$21,166",,,,,WTW
+218,,2018-11-13 16:07:45,2018-11-09,WLTW,Shalders David,"Head- Operations, Technology",F - Tax,$160.35,-308,8673,-3%,"-$49,388",,,,,WTW
+219,,2018-11-13 16:04:48,2018-11-09,WLTW,Aubert Nicolas,Head of Great Britain,F - Tax,$160.35,-344,8720,-4%,"-$55,160",,,,,WTW
+220,,2018-11-08 16:33:27,2018-11-07,WLTW,Garrard Adam,Head of International,S - Sale,$153.92,-2850,9059,-24%,"-$438,661",,,,,WTW
+221,D,2018-11-08 16:32:07,2018-11-07,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",M - OptEx,$109.95,2450,15414,+19%,"+$269,378",,,,,WTW
+222,D,2018-11-08 16:32:07,2018-11-07,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",S - Sale+OE,$155.56,-2450,15414,-14%,"-$381,122",,,,,WTW
+223,A,2018-09-11 16:00:16,2018-08-13,WLTW,McCann James F,Dir,A - Grant,$0.00,676,676,New,+$0,,,,,WTW
+224,D,2018-09-05 16:02:10,2018-08-31,WLTW,Garrard Adam,Head of International,M - OptEx,$117.40,1830,11909,+18%,"+$214,842",,,,,WTW
+225,D,2018-09-05 16:02:10,2018-08-31,WLTW,Garrard Adam,Head of International,S - Sale+OE,$146.77,-1830,11909,-13%,"-$268,590",,,,,WTW
+226,,2018-08-27 16:02:25,2018-08-24,WLTW,Wickes Gene H,"Head of Benefits Deliv, Admin",G - Gift,$0.00,-1240,58354,+2%,-$0,,,,,WTW
+227,,2018-08-15 16:11:26,2018-08-13,WLTW,Zeller Wilhelm,Dir,A - Grant,$0.00,1013,7742,+15%,+$0,,,,,WTW
+228,,2018-08-15 16:11:26,2018-08-14,WLTW,Zeller Wilhelm,Dir,F - Tax,$147.95,-476,7742,-6%,"-$70,424",,,,,WTW
+229,,2018-08-15 16:10:27,2018-08-13,WLTW,Thomas Paul D,Dir,A - Grant,$0.00,1013,12588,+9%,+$0,,,,,WTW
+230,,2018-08-15 16:10:27,2018-08-14,WLTW,Thomas Paul D,Dir,F - Tax,$147.95,-476,12588,-4%,"-$70,424",,,,,WTW
+231,,2018-08-15 16:09:30,2018-08-13,WLTW,Oneill Brendan R,Dir,A - Grant,$0.00,1013,12325,+9%,+$0,,,,,WTW
+232,,2018-08-15 16:09:30,2018-08-14,WLTW,Oneill Brendan R,Dir,F - Tax,$147.95,-476,12325,-4%,"-$70,424",,,,,WTW
+233,,2018-08-15 16:08:26,2018-08-13,WLTW,Ganzi Victor F,Dir,A - Grant,$0.00,1013,17494,+6%,+$0,,,,,WTW
+234,,2018-08-15 16:08:26,2018-08-14,WLTW,Ganzi Victor F,Dir,F - Tax,$147.95,-476,17494,-3%,"-$70,424",,,,,WTW
+235,,2018-08-15 16:06:50,2018-08-13,WLTW,Patel Jaymin B,Dir,A - Grant,$0.00,1013,4714,+27%,+$0,,,,,WTW
+236,,2018-08-15 16:06:50,2018-08-14,WLTW,Patel Jaymin B,Dir,F - Tax,$147.95,-476,4714,-9%,"-$70,424",,,,,WTW
+237,,2018-08-15 16:05:37,2018-08-13,WLTW,McCann James F,Dir,A - Grant,$0.00,1013,12517,+9%,+$0,,,,,WTW
+238,,2018-08-15 16:05:37,2018-08-14,WLTW,McCann James F,Dir,F - Tax,$147.95,-793,12517,-6%,"-$117,324",,,,,WTW
+239,,2018-08-15 16:04:31,2018-08-13,WLTW,Lane Wendy E,Dir,A - Grant,$0.00,1013,6933,+17%,+$0,,,,,WTW
+240,,2018-08-15 16:04:31,2018-08-14,WLTW,Lane Wendy E,Dir,F - Tax,$147.95,-476,6933,-6%,"-$70,424",,,,,WTW
+241,,2018-08-15 16:02:53,2018-08-13,WLTW,Catalano Anna C,Dir,A - Grant,$0.00,1013,6371,+19%,+$0,,,,,WTW
+242,,2018-08-15 16:02:53,2018-08-14,WLTW,Catalano Anna C,Dir,F - Tax,$147.95,-476,6371,-7%,"-$70,424",,,,,WTW
+243,,2018-08-15 16:01:48,2018-08-13,WLTW,Rabbitt Linda D,Dir,A - Grant,$0.00,1013,13012,+8%,+$0,,,,,WTW
+244,,2018-08-15 16:01:48,2018-08-14,WLTW,Rabbitt Linda D,Dir,F - Tax,$147.95,-476,13012,-4%,"-$70,424",,,,,WTW
+245,,2018-04-03 16:00:19,2018-04-02,WLTW,Furman Matthew,GC,F - Tax,$152.19,-1587,10728,-13%,"-$241,526",,,,,WTW
+246,M,2018-03-06 16:30:41,2018-03-02,WLTW,Aubert Nicolas,Head of Great Britain,F - Tax,$154.96,-6735,9064,-43%,"-$1,043,654",,,,,WTW
+247,,2018-03-06 16:11:28,2018-03-02,WLTW,Furman Matthew,GC,F - Tax,$154.99,-2085,12315,-14%,"-$323,154",,,,,WTW
+248,,2018-03-06 16:09:50,2018-03-02,WLTW,Gunn Joseph,Head of North America,F - Tax,$154.99,-1924,15566,-11%,"-$298,201",,,,,WTW
+249,,2018-03-06 16:07:58,2018-03-02,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",F - Tax,$154.99,-2569,15414,-14%,"-$398,169",,,,,WTW
+250,,2018-03-06 16:04:19,2018-03-02,WLTW,Pullum Anne,"Head of Strategy, CAO",F - Tax,$154.99,-848,1984,-30%,"-$131,432",,,,,WTW
+251,,2018-03-06 16:03:32,2018-03-02,WLTW,Shalders David,"Head- Operations, Technology",F - Tax,$154.99,-3447,8981,-28%,"-$534,251",,,,,WTW
+252,,2018-03-05 17:39:31,2018-02-22,WLTW,Furman Matthew,GC,A - Grant,$0.00,6110,14400,+74%,+$0,,,,,WTW
+253,,2018-03-05 17:38:26,2018-02-22,WLTW,Shalders David,"Head- Operations, Technology",A - Grant,$0.00,7332,12428,+144%,+$0,,,,,WTW
+254,,2018-03-05 17:36:29,2018-02-22,WLTW,Pullum Anne,"Head of Strategy, CAO",A - Grant,$0.00,1628,2832,+135%,+$0,,,,,WTW
+255,,2018-03-05 17:35:11,2018-02-22,WLTW,Aubert Nicolas,Head of Great Britain,A - Grant,$0.00,8146,15799,+106%,+$0,,,,,WTW
+256,,2018-03-05 17:33:49,2018-02-22,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",A - Grant,$0.00,8146,17983,+83%,+$0,,,,,WTW
+257,,2018-03-05 17:32:28,2018-02-22,WLTW,Gunn Joseph,Head of North America,A - Grant,$0.00,4887,17490,+39%,+$0,,,,,WTW
+258,,2018-03-05 17:31:16,2018-02-22,WLTW,Garrard Adam,Head of International,A - Grant,$0.00,4073,11909,+52%,+$0,,,,,WTW
+259,D,2018-02-21 17:01:17,2018-02-20,WLTW,Gunn Joseph,Head of North America,M - OptEx,$82.17,9438,12603,+298%,"+$775,520",,,,,WTW
+260,D,2018-02-21 17:01:17,2018-02-20,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$159.95,-9438,12603,-43%,"-$1,509,639",,,,,WTW
+261,D,2018-02-20 17:03:16,2018-02-16,WLTW,Gunn Joseph,Head of North America,M - OptEx,$82.17,9437,12603,+298%,"+$775,438",,,,,WTW
+262,D,2018-02-20 17:03:16,2018-02-16,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$159.94,-9437,12603,-43%,"-$1,509,395",,,,,WTW
+263,,2017-12-20 16:08:09,2017-12-18,WLTW,Gunn Joseph,Head of North America,F - Tax,$156.00,-156,12603,-1%,"-$24,336",,,,,WTW
+264,,2017-12-20 16:06:09,2017-12-18,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",F - Tax,$156.00,-341,9837,-3%,"-$53,196",,,,,WTW
+265,,2017-12-20 16:04:59,2017-12-18,WLTW,Pullum Anne,"Head of Strategy, CAO",F - Tax,$156.00,-86,1204,-7%,"-$13,416",,,,,WTW
+266,,2017-12-20 16:03:32,2017-12-18,WLTW,Shalders David,"Head- Operations, Technology",F - Tax,$156.00,-261,5096,-5%,"-$40,716",,,,,WTW
+267,,2017-12-08 16:00:58,2017-12-07,WLTW,Wickes Gene H,Head of Exchange Solutions,G - Gift,$0.00,-680,58354,+1%,-$0,,,,,WTW
+268,,2017-11-22 09:05:06,2017-11-21,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",G - Gift,$0.00,-696,90938,+1%,-$0,,,,,WTW
+269,,2017-11-16 16:01:28,2017-11-14,WLTW,Bodnar Anne Donovan,CHRO,A - Grant,$0.00,700,27326,+3%,+$0,,,,,WTW
+270,,2017-11-16 16:01:28,2017-11-14,WLTW,Bodnar Anne Donovan,CHRO,F - Tax,$162.03,-294,27326,-1%,"-$47,637",,,,,WTW
+271,,2017-11-16 16:00:58,2017-11-14,WLTW,Garrard Adam,Head of International,A - Grant,$0.00,700,7836,+10%,+$0,,,,,WTW
+272,,2017-11-16 16:00:58,2017-11-14,WLTW,Garrard Adam,Head of International,F - Tax,$162.03,-329,7836,-4%,"-$53,308",,,,,WTW
+273,M,2017-11-13 17:12:10,2017-11-09,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$161.22,-440000,2244358,-16%,"-$70,934,800",,,,,WTW
+274,,2017-11-13 16:04:58,2017-11-09,WLTW,Shalders David,"Head- Operations, Technology",F - Tax,$160.99,-299,5357,-5%,"-$48,136",,,,,WTW
+275,,2017-11-13 16:03:49,2017-11-09,WLTW,Pullum Anne,"Head of Strategy, CAO",F - Tax,$160.99,-163,1290,-11%,"-$26,241",,,,,WTW
+276,,2017-11-13 16:03:31,2017-11-09,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",F - Tax,$160.99,-325,10178,-3%,"-$52,322",,,,,WTW
+277,,2017-11-13 16:03:03,2017-11-09,WLTW,Gunn Joseph,Head of North America,F - Tax,$160.99,-356,12759,-3%,"-$57,312",,,,,WTW
+278,,2017-11-13 16:02:46,2017-11-09,WLTW,Furman Matthew,GC,F - Tax,$160.99,-296,8290,-3%,"-$47,653",,,,,WTW
+279,,2017-11-13 16:02:27,2017-11-09,WLTW,Aubert Nicolas,Head of Great Britain,F - Tax,$160.99,-332,7653,-4%,"-$53,449",,,,,WTW
+280,,2017-11-08 17:15:29,2017-11-06,WLTW,Burwell Michael J,CFO,P - Purchase,$160.10,3100,3100,New,"+$496,303",,,,,WTW
+281,M,2017-10-13 18:29:54,2017-10-11,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$156.74,-287532,2684358,-10%,"-$45,066,346",,,,,WTW
+282,,2017-10-10 17:15:03,2017-10-06,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$156.05,-8118,2971890,0%,"-$1,266,814",,,,,WTW
+283,M,2017-09-28 16:40:35,2017-09-26,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$154.88,-304350,2980008,-9%,"-$47,139,084",,,,,WTW
+284,,2017-09-20 16:57:12,2017-09-18,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$152.38,-41348,3284358,-1%,"-$6,300,608",,,,,WTW
+285,,2017-09-19 16:12:12,2017-09-15,WLTW,Millay Roger F,CFO,A - Grant,$0.00,17558,22679,+343%,+$0,,,,,WTW
+286,,2017-09-19 16:12:12,2017-09-15,WLTW,Millay Roger F,CFO,F - Tax,$152.42,-8938,22679,-28%,"-$1,362,330",,,,,WTW
+287,,2017-09-19 16:08:51,2017-09-15,WLTW,Bodnar Anne Donovan,CHRO,A - Grant,$0.00,6832,26920,+34%,+$0,,,,,WTW
+288,,2017-09-19 16:08:51,2017-09-15,WLTW,Bodnar Anne Donovan,CHRO,F - Tax,$152.42,-2401,26920,-8%,"-$365,960",,,,,WTW
+289,,2017-09-19 16:07:01,2017-09-15,WLTW,Morris Paul G,Head of Western Europe,A - Grant,$0.00,16228,37507,+76%,+$0,,,,,WTW
+290,,2017-09-19 16:07:01,2017-09-15,WLTW,Morris Paul G,Head of Western Europe,F - Tax,$152.42,-7627,37507,-17%,"-$1,162,507",,,,,WTW
+291,,2017-09-19 16:05:50,2017-09-15,WLTW,Hess Carl Aaron,Head of IRR,A - Grant,$0.00,15999,28990,+123%,+$0,,,,,WTW
+292,,2017-09-19 16:05:50,2017-09-15,WLTW,Hess Carl Aaron,Head of IRR,F - Tax,$152.42,-8363,28990,-22%,"-$1,274,688",,,,,WTW
+293,M,2017-09-13 16:18:26,2017-09-11,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$152.31,-193000,3325706,-5%,"-$29,395,421",,,,,WTW
+294,M,2017-09-08 18:21:59,2017-09-06,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$148.59,-491652,3518706,-12%,"-$73,053,189",,,,,WTW
+295,M,2017-09-05 17:26:45,2017-08-31,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$148.64,-216000,4010358,-5%,"-$32,106,120",,,,,WTW
+296,M,2017-08-29 16:53:17,2017-08-25,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$149.02,-311000,4226358,-7%,"-$46,345,200",,,,,WTW
+297,M,2017-08-24 18:04:24,2017-08-22,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$149.34,-650000,4537358,-13%,"-$97,072,400",,,,,WTW
+298,M,2017-08-21 18:16:54,2017-08-17,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$149.05,-106000,5187358,-2%,"-$15,799,660",,,,,WTW
+299,,2017-08-17 16:04:21,2017-08-16,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",S - Sale,$151.11,-10000,90938,-10%,"-$1,511,100",,,,,WTW
+300,,2017-08-16 18:00:53,2017-08-14,WLTW,Ubben Jeffrey W,See Remarks,A - Grant,$0.00,991,5294904,0%,+$0,,,,,WTW
+301,,2017-08-16 18:00:53,2017-08-15,WLTW,Ubben Jeffrey W,See Remarks,F - Tax,$151.31,-514,5294904,0%,"-$77,773",,,,,WTW
+302,M,2017-08-16 18:00:53,2017-08-15,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$150.68,-316000,5294904,-6%,"-$47,615,640",,,,,WTW
+303,,2017-08-16 16:13:15,2017-08-14,WLTW,Rabbitt Linda D,Dir,A - Grant,$0.00,991,12475,+9%,+$0,,,,,WTW
+304,,2017-08-16 16:13:15,2017-08-15,WLTW,Rabbitt Linda D,Dir,F - Tax,$151.31,-514,12475,-4%,"-$77,773",,,,,WTW
+305,,2017-08-16 16:12:06,2017-08-14,WLTW,Catalano Anna C,Dir,A - Grant,$0.00,991,5834,+20%,+$0,,,,,WTW
+306,,2017-08-16 16:12:06,2017-08-15,WLTW,Catalano Anna C,Dir,F - Tax,$151.31,-514,5834,-8%,"-$77,773",,,,,WTW
+307,,2017-08-16 16:10:55,2017-08-14,WLTW,Lane Wendy E,Dir,A - Grant,$0.00,991,6396,+18%,+$0,,,,,WTW
+308,,2017-08-16 16:10:55,2017-08-15,WLTW,Lane Wendy E,Dir,F - Tax,$151.31,-514,6396,-7%,"-$77,773",,,,,WTW
+309,,2017-08-16 16:09:43,2017-08-14,WLTW,McCann James F,Dir,A - Grant,$0.00,1652,12297,+16%,+$0,,,,,WTW
+310,,2017-08-16 16:09:43,2017-08-15,WLTW,McCann James F,Dir,F - Tax,$151.31,-1304,12297,-10%,"-$197,308",,,,,WTW
+311,,2017-08-16 16:08:31,2017-08-14,WLTW,Patel Jaymin B,Dir,A - Grant,$0.00,991,4177,+31%,+$0,,,,,WTW
+312,,2017-08-16 16:08:31,2017-08-15,WLTW,Patel Jaymin B,Dir,F - Tax,$151.31,-514,4177,-11%,"-$77,773",,,,,WTW
+313,,2017-08-16 16:07:27,2017-08-14,WLTW,Ganzi Victor F,Dir,A - Grant,$0.00,991,16957,+6%,+$0,,,,,WTW
+314,,2017-08-16 16:06:14,2017-08-14,WLTW,Oneill Brendan R,Dir,A - Grant,$0.00,991,11788,+9%,+$0,,,,,WTW
+315,,2017-08-16 16:06:14,2017-08-15,WLTW,Oneill Brendan R,Dir,F - Tax,$151.31,-514,11788,-4%,"-$77,773",,,,,WTW
+316,,2017-08-16 16:06:14,2017-08-16,WLTW,Oneill Brendan R,Dir,S - Sale,$150.92,-5000,11788,-30%,"-$754,613",,,,,WTW
+317,,2017-08-16 16:04:54,2017-08-14,WLTW,Thomas Paul D,Dir,A - Grant,$0.00,991,12051,+9%,+$0,,,,,WTW
+318,,2017-08-16 16:04:54,2017-08-15,WLTW,Thomas Paul D,Dir,F - Tax,$151.31,-514,12051,-4%,"-$77,773",,,,,WTW
+319,,2017-08-16 16:03:55,2017-08-14,WLTW,Zeller Wilhelm,Dir,A - Grant,$0.00,991,7205,+16%,+$0,,,,,WTW
+320,,2017-08-16 16:03:55,2017-08-15,WLTW,Zeller Wilhelm,Dir,F - Tax,$151.31,-514,7205,-7%,"-$77,773",,,,,WTW
+321,M,2017-08-14 17:28:39,2017-08-10,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$149.09,-180000,5609358,-3%,"-$26,835,600",,,,,WTW
+322,M,2017-08-09 17:09:07,2017-08-07,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$149.59,-820000,5789358,-12%,"-$122,663,450",,,,,WTW
+323,,2017-08-09 16:10:48,2017-08-08,WLTW,Millay Roger F,CFO,S - Sale,$149.58,-20000,14059,-59%,"-$2,991,504",,,,,WTW
+324,,2017-06-02 18:34:45,2017-05-31,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$145.07,-55000,6609358,-1%,"-$7,978,850",,,,,WTW
+325,M,2017-05-30 18:38:41,2017-05-25,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$145.03,-445000,6664358,-6%,"-$64,540,200",,,,,WTW
+326,,2017-05-30 16:00:26,2017-05-26,WLTW,Aubert Nicolas,Head of Great Britain,S - Sale,$144.71,-3178,7985,-28%,"-$459,888",,,,,WTW
+327,M,2017-05-19 17:13:12,2017-05-17,WLTW,Ubben Jeffrey W,See Remarks,S - Sale,$140.53,-1000000,7109358,-12%,"-$140,532,000",,,,,WTW
+328,,2017-05-12 16:02:44,2017-05-10,WLTW,Thomas Paul D,Dir,S - Sale,$141.62,-2200,11574,-16%,"-$311,560",,,,,WTW
+329,,2017-05-10 16:03:04,2017-05-08,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",S - Sale,$145.85,-10000,100938,-9%,"-$1,458,488",0.0,,,,WTW
+330,,2017-04-05 16:00:30,2017-04-04,WLTW,Furman Matthew,GC,F - Tax,$130.89,-1296,8586,-13%,"-$169,633",0.0,-2.0,10.0,,WTW
+331,,2017-03-08 16:14:42,2017-03-06,WLTW,Aubert Nicolas,Head of Great Britain,F - Tax,$129.96,-2819,11163,-20%,"-$366,357",0.0,2.0,3.0,,WTW
+332,,2017-03-07 16:03:20,2017-03-06,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",S - Sale,$129.09,-10000,110938,-8%,"-$1,290,900",-1.0,1.0,3.0,,WTW
+333,,2017-03-07 16:02:48,2017-03-03,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",F - Tax,$129.52,-1554,10503,-13%,"-$201,274",-1.0,1.0,3.0,,WTW
+334,,2017-03-07 16:02:18,2017-03-03,WLTW,Pullum Anne,"Head of Strategy, CAO",F - Tax,$129.52,-204,1453,-12%,"-$26,422",-1.0,1.0,3.0,,WTW
+335,,2017-03-07 16:02:01,2017-03-03,WLTW,Shalders David,"Head- Operations, Technology",F - Tax,$129.52,-1533,5656,-21%,"-$198,554",-1.0,1.0,3.0,,WTW
+336,D,2017-03-06 16:03:05,2017-03-03,WLTW,Gunn Joseph,Head of North America,F - Tax,$129.52,-460,13115,-3%,"-$59,579",-1.0,0.0,2.0,,WTW
+337,D,2017-03-06 16:03:05,2017-03-02,WLTW,Gunn Joseph,Head of North America,M - OptEx,$69.32,18875,13115,-328%,"+$1,308,415",-1.0,0.0,2.0,,WTW
+338,D,2017-03-06 16:03:05,2017-03-02,WLTW,Gunn Joseph,Head of North America,S - Sale+OE,$129.88,-18875,13115,-59%,"-$2,451,485",-1.0,0.0,2.0,,WTW
+339,A,2017-02-15 16:17:42,2016-09-15,WLTW,Morris Paul G,Head of Western Europe,A - Grant,$0.00,9227,28906,+47%,+$0,1.0,1.0,3.0,,WTW
+340,A,2017-02-15 16:17:42,2016-09-15,WLTW,Morris Paul G,Head of Western Europe,F - Tax,$122.30,-4338,28906,-13%,"-$530,537",1.0,1.0,3.0,,WTW
+341,A,2017-01-05 16:12:10,2016-06-30,WLTW,Bodnar Anne Donovan,CHRO,F - Tax,$124.31,-108,22260,0%,"-$13,425",1.0,0.0,-1.0,,WTW
+342,,2016-12-08 16:04:53,2016-12-01,WLTW,Wickes Gene H,Head of Exchange Solutions,G - Gift,$0.00,-640,58354,+1%,-$0,0.0,-1.0,3.0,,WTW
+343,,2016-12-07 16:04:49,2016-12-05,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",S - Sale,$121.37,-20000,120938,-14%,"-$2,427,400",-1.0,0.0,2.0,,WTW
+344,,2016-12-06 16:02:05,2016-12-05,WLTW,Hess Carl Aaron,Head of IRR,S - Sale,$120.29,-1000,21354,-4%,"-$120,290",0.0,-3.0,1.0,,WTW
+345,A,2016-11-22 16:52:04,2016-05-11,WLTW,Casserley Dominic,"Pres, Deputy CEO",S - Sale,$125.50,-1781,83755,-2%,"-$223,516",0.0,0.0,-1.0,,WTW
+346,,2016-11-21 16:03:36,2016-11-17,WLTW,Davies Susan Dorrance,"PAO, Controller",P - Purchase,$124.04,200,1708,+13%,"+$24,808",1.0,0.0,0.0,,WTW
+347,,2016-11-16 16:04:20,2016-11-14,WLTW,Gunn Joseph,Head of North America,S - Sale,$121.63,-374,13575,-3%,"-$45,490",2.0,2.0,0.0,,WTW
+348,,2016-11-16 16:03:25,2016-11-14,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",S - Sale,$121.63,-570,12057,-5%,"-$69,329",2.0,2.0,0.0,,WTW
+349,,2016-11-16 16:01:50,2016-11-14,WLTW,Shalders David,"Head- Operations, Technology",S - Sale,$121.63,-383,7189,-5%,"-$46,584",2.0,2.0,0.0,,WTW
+350,,2016-11-14 09:14:10,2016-11-09,WLTW,Shalders David,"Head- Operations, Technology",S - Sale,$117.18,-305,7572,-4%,"-$35,740",1.0,3.0,2.0,,WTW
+351,,2016-11-14 09:13:27,2016-11-09,WLTW,Jones Todd J.,"Head- Corporate Risk, Broking",S - Sale,$117.18,-324,12538,-3%,"-$37,966",1.0,3.0,2.0,,WTW
+352,,2016-11-14 09:11:02,2016-11-09,WLTW,Gunn Joseph,Head of North America,S - Sale,$117.18,-446,13949,-3%,"-$52,262",1.0,3.0,2.0,,WTW
+353,,2016-11-14 09:07:43,2016-11-09,WLTW,Furman Matthew,GC,S - Sale,$117.18,-387,9882,-4%,"-$45,349",1.0,3.0,2.0,,WTW
+354,,2016-11-14 09:06:59,2016-11-09,WLTW,Aubert Nicolas,Head of Great Britain,S - Sale,$117.18,-338,13982,-2%,"-$39,607",1.0,3.0,2.0,,WTW
+355,,2016-09-19 16:03:53,2016-09-15,WLTW,Morris Paul G,Head of Western Europe,A - Grant,$0.00,9227,28173,+49%,+$0,1.0,3.0,2.0,5.0,WTW
+356,,2016-09-19 16:03:53,2016-09-15,WLTW,Morris Paul G,Head of Western Europe,F - Tax,$122.30,-4338,28173,-13%,"-$530,537",1.0,3.0,2.0,5.0,WTW
+357,,2016-09-19 16:03:37,2016-09-15,WLTW,Hess Carl Aaron,Co-Head of North America,A - Grant,$0.00,4271,22354,+24%,+$0,1.0,3.0,2.0,5.0,WTW
+358,,2016-09-19 16:03:37,2016-09-15,WLTW,Hess Carl Aaron,Co-Head of North America,F - Tax,$122.30,-1762,22354,-7%,"-$215,493",1.0,3.0,2.0,5.0,WTW
+359,,2016-09-19 16:03:20,2016-09-15,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",A - Grant,$0.00,9798,140938,+7%,+$0,1.0,3.0,2.0,5.0,WTW
+360,,2016-09-19 16:03:20,2016-09-15,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",F - Tax,$122.30,-3957,140938,-3%,"-$483,941",1.0,3.0,2.0,5.0,WTW
+361,,2016-09-19 16:03:05,2016-09-15,WLTW,Millay Roger F,CFO,A - Grant,$0.00,11199,34060,+49%,+$0,1.0,3.0,2.0,5.0,WTW
+362,,2016-09-19 16:03:05,2016-09-15,WLTW,Millay Roger F,CFO,F - Tax,$122.30,-4904,34060,-13%,"-$599,759",1.0,3.0,2.0,5.0,WTW
+363,,2016-09-19 16:02:46,2016-09-15,WLTW,Wickes Gene H,Head of Exchange Solutions,A - Grant,$0.00,11478,56955,+25%,+$0,1.0,3.0,2.0,5.0,WTW
+364,,2016-09-19 16:02:46,2016-09-15,WLTW,Wickes Gene H,Head of Exchange Solutions,F - Tax,$122.30,-4606,56955,-7%,"-$563,314",1.0,3.0,2.0,5.0,WTW
+365,,2016-09-08 16:04:37,2016-09-06,WLTW,Aubert Nicolas,Head of Great Britain,S - Sale,$126.65,-3149,14320,-18%,"-$398,821",-3.0,-2.0,6.0,2.0,WTW
+366,,2016-08-17 17:26:43,2016-08-15,WLTW,Ubben Jeffrey W,See Remarks,A - Grant,$0.00,1069,8110427,0%,+$0,1.0,1.0,3.0,4.0,WTW
+367,,2016-08-17 16:20:48,2016-08-15,WLTW,Rabbitt Linda D,Dir,A - Grant,$0.00,1069,11998,+10%,+$0,1.0,1.0,3.0,4.0,WTW
+368,,2016-08-17 16:17:56,2016-08-15,WLTW,Catalano Anna C,Dir,A - Grant,$0.00,1069,5357,+25%,+$0,1.0,1.0,3.0,4.0,WTW
+369,,2016-08-17 16:14:59,2016-08-15,WLTW,McCann James F,Dir,A - Grant,$0.00,2715,11949,+29%,+$0,1.0,1.0,3.0,4.0,WTW
+370,,2016-08-17 16:13:47,2016-08-15,WLTW,Patel Jaymin B,Dir,A - Grant,$0.00,1069,3700,+41%,+$0,1.0,1.0,3.0,4.0,WTW
+371,,2016-08-17 16:12:32,2016-08-15,WLTW,Lane Wendy E,Dir,A - Grant,$0.00,1069,5919,+22%,+$0,1.0,1.0,3.0,4.0,WTW
+372,,2016-08-17 16:11:26,2016-08-15,WLTW,Ganzi Victor F,Dir,A - Grant,$0.00,1069,15966,+7%,+$0,1.0,1.0,3.0,4.0,WTW
+373,,2016-08-17 16:10:11,2016-08-15,WLTW,Oneill Brendan R,Dir,A - Grant,$0.00,1069,16311,+7%,+$0,1.0,1.0,3.0,4.0,WTW
+374,,2016-08-17 16:08:41,2016-08-15,WLTW,Thomas Paul D,Dir,A - Grant,$0.00,1069,13774,+8%,+$0,1.0,1.0,3.0,4.0,WTW
+375,,2016-08-17 16:06:16,2016-08-15,WLTW,Zeller Wilhelm,Dir,A - Grant,$0.00,1069,6728,+19%,+$0,1.0,1.0,3.0,4.0,WTW
+376,,2016-08-12 16:35:33,2016-08-10,WLTW,Ubben Jeffrey W,See Remarks,F - Tax,$121.23,-391,8109358,0%,"-$47,401",0.0,1.0,3.0,3.0,WTW
+377,,2016-08-12 16:02:34,2016-03-07,WLTW,Davies Susan Dorrance,"PAO, Controller",P - Purchase,$116.73,200,1508,+15%,"+$23,346",0.0,1.0,3.0,3.0,WTW
+378,,2016-08-12 16:01:54,2016-08-10,WLTW,McCann James F,Dir,S - Sale,$122.00,-1168,9234,-11%,"-$142,496",0.0,1.0,3.0,3.0,WTW
+379,,2016-08-12 16:01:38,2016-08-10,WLTW,Lane Wendy E,Dir,S - Sale,$122.00,-390,4850,-7%,"-$47,580",0.0,1.0,3.0,3.0,WTW
+380,,2016-08-12 16:01:23,2016-08-10,WLTW,Catalano Anna C,Dir,S - Sale,$122.00,-390,4288,-8%,"-$47,580",0.0,1.0,3.0,3.0,WTW
+381,,2016-07-05 17:34:42,2016-06-30,WLTW,Hess Carl Aaron,Co-Head of North America,F - Tax,$124.31,-226,19821,-1%,"-$28,094",1.0,2.0,0.0,0.0,WTW
+382,,2016-07-05 17:33:06,2016-06-30,WLTW,Bodnar Anne Donovan,Head of HR,F - Tax,$124.31,-100,22161,0%,"-$12,431",1.0,2.0,0.0,0.0,WTW
+383,D,2016-05-18 17:13:13,2016-05-16,WLTW,Garrard Adam,Head of International,M - OptEx,$104.77,7989,7465,-1525%,"+$836,991",0.0,1.0,0.0,-1.0,WTW
+384,D,2016-05-18 17:13:13,2016-05-16,WLTW,Garrard Adam,Head of International,S - Sale+OE,$124.26,-7989,7465,-52%,"-$992,744",0.0,1.0,0.0,-1.0,WTW
+385,D,2016-05-16 18:26:35,2016-05-12,WLTW,Ubben Jeffrey W,See Remarks,X - OptEx,$116.70,428000,8108015,-5%,"$49,948,240",0.0,1.0,1.0,-1.0,WTW
+386,,2016-05-13 16:17:41,2016-05-11,WLTW,Casserley Dominic,"Pres, Deputy CEO",S - Sale,$125.50,-1781,89506,-2%,"-$223,516",1.0,2.0,2.0,-3.0,WTW
+387,,2016-05-12 16:58:25,2016-05-10,WLTW,Casserley Dominic,"Pres, Deputy CEO",S - Sale,$124.53,-4152,91287,-4%,"-$517,049",-1.0,1.0,3.0,-3.0,WTW
+388,,2016-05-12 16:49:51,2016-05-10,WLTW,Zeller Wilhelm,Dir,S - Sale,$123.11,-5000,5659,-47%,"-$615,550",-1.0,1.0,3.0,-3.0,WTW
+389,D,2016-05-12 16:46:11,2016-05-10,WLTW,Millay Roger F,CFO,M - OptEx,$35.88,12073,27765,+77%,"+$433,179",-1.0,1.0,3.0,-3.0,WTW
+390,D,2016-05-12 16:46:11,2016-05-10,WLTW,Millay Roger F,CFO,S - Sale+OE,$123.21,-12073,27765,-30%,"-$1,487,514",-1.0,1.0,3.0,-3.0,WTW
+391,,2016-04-06 16:06:52,2016-04-04,WLTW,Furman Matthew,GC,F - Tax,$118.66,-863,10269,-8%,"-$102,404",-2.0,0.0,10.0,16.0,WTW
+392,,2016-03-09 16:01:45,2016-03-07,WLTW,Aubert Nicolas,Head of Great Britain,S - Sale,$116.45,-2848,17469,-14%,"-$331,650",0.0,4.0,-2.0,10.0,WTW
+393,,2016-03-08 16:15:32,2016-03-05,WLTW,Garrard Adam,Head of International,A - Grant,$0.00,969,7465,+15%,+$0,0.0,3.0,-1.0,9.0,WTW
+394,,2016-03-08 16:10:20,2016-03-05,WLTW,Casserley Dominic,"Pres, Deputy CEO",A - Grant,$0.00,22284,89688,+33%,+$0,0.0,3.0,-1.0,9.0,WTW
+395,,2016-03-08 16:10:20,2016-03-07,WLTW,Casserley Dominic,"Pres, Deputy CEO",S - Sale,$116.45,-5751,89688,-6%,"-$669,704",0.0,3.0,-1.0,9.0,WTW
+396,,2016-03-08 16:08:33,2016-03-05,WLTW,Jones Todd J.,Co-Head of North America,A - Grant,$0.00,2910,12862,+29%,+$0,0.0,3.0,-1.0,9.0,WTW
+397,,2016-03-08 16:08:33,2016-03-07,WLTW,Jones Todd J.,Co-Head of North America,S - Sale,$116.45,-1152,12862,-8%,"-$134,150",0.0,3.0,-1.0,9.0,WTW
+398,,2016-03-08 16:06:36,2016-03-05,WLTW,Wright Timothy D,"Head, Corporate Risk, Broking",A - Grant,$0.00,4655,26615,+21%,+$0,0.0,3.0,-1.0,9.0,WTW
+399,,2016-03-08 16:06:36,2016-03-07,WLTW,Wright Timothy D,"Head, Corporate Risk, Broking",S - Sale,$116.45,-2211,26615,-8%,"-$257,471",0.0,3.0,-1.0,9.0,WTW
+400,,2016-03-08 16:04:05,2016-03-05,WLTW,Shalders David,"Operations, Technology Dir.",A - Grant,$0.00,1454,7877,+23%,+$0,0.0,3.0,-1.0,9.0,WTW
+401,,2016-03-08 16:04:05,2016-03-07,WLTW,Shalders David,"Operations, Technology Dir.",S - Sale,$116.45,-691,7877,-8%,"-$80,467",0.0,3.0,-1.0,9.0,WTW
+402,,2016-02-19 08:35:31,2016-02-17,WLTW,Hess Carl Aaron,Co-Head of North America,S - Sale,$111.47,-12499,20047,-38%,"-$1,393,264",-1.0,1.0,9.0,10.0,WTW
+403,,2016-01-29 16:05:56,2016-01-27,WLTW,Oneill Brendan R,Dir,F - Tax,$110.71,-3334,15122,-18%,"-$369,107",0.0,1.0,-1.0,9.0,WTW
+404,,2016-01-29 16:04:51,2016-01-27,WLTW,Zeller Wilhelm,Dir,F - Tax,$110.71,-1582,10481,-13%,"-$175,191",0.0,1.0,-1.0,9.0,WTW
+405,,2016-01-06 20:47:30,2016-01-04,WLTW,Jones Todd J.,Co-Head of North America,A - Grant,$0.00,4348,11104,+64%,+$0,-4.0,-4.0,-3.0,5.0,WTW
+406,,2016-01-06 20:46:48,2016-01-04,WLTW,Somers Michael J.,See Remarks,F - Tax,$124.97,-391,3762,-9%,"-$48,863",-4.0,-4.0,-3.0,5.0,WTW
+407,,2016-01-06 20:44:56,2016-01-04,WLTW,Greene John,See Remarks,A - Grant,$0.00,3913,14805,+36%,+$0,-4.0,-4.0,-3.0,5.0,WTW
+408,,2016-01-06 20:44:50,2016-01-04,WLTW,Casserley Dominic,See Remarks,A - Grant,$0.00,23826,73155,+48%,+$0,-4.0,-4.0,-3.0,5.0,WTW
+409,,2016-01-06 20:42:46,2016-01-04,WLTW,Kravit Robyn S,See Remarks,F - Tax,$124.97,-391,4729,-8%,"-$48,863",-4.0,-4.0,-3.0,5.0,WTW
+410,,2016-01-06 20:42:41,2016-01-04,WLTW,Roberts Douglas B,See Remarks,F - Tax,$124.97,-391,7845,-5%,"-$48,863",-4.0,-4.0,-3.0,5.0,WTW
+411,,2016-01-06 20:40:33,2016-01-04,WLTW,Lopez Francisco Luzon,See Remarks,F - Tax,$124.97,-391,3920,-9%,"-$48,863",-4.0,-4.0,-3.0,5.0,WTW
+412,,2016-01-06 20:40:21,2015-01-04,WLTW,Brown Celia,See Remarks,A - Grant,$0.00,3260,16023,+26%,+$0,-4.0,-4.0,-3.0,5.0,WTW
+413,,2016-01-06 20:35:12,2016-01-04,WLTW,Gardner Roy,See Remarks,F - Tax,$124.97,-391,7287,-5%,"-$48,863",-4.0,-4.0,-3.0,5.0,WTW
+414,,2016-01-06 20:32:46,2016-01-04,WLTW,Wright Timothy D,See Remarks,A - Grant,$0.00,5217,24009,+28%,+$0,-4.0,-4.0,-3.0,5.0,WTW
+415,,2016-01-06 20:32:40,2016-01-04,WLTW,Shalders David,"Operations, Tech. Dir",A - Grant,$0.00,3260,7114,+85%,+$0,-4.0,-4.0,-3.0,5.0,WTW
+416,,2016-01-06 17:10:08,2016-01-04,WLTW,Rabbitt Linda D,Dir,A - Grant,$0.00,10848,10848,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+417,,2016-01-06 17:09:37,2016-01-04,WLTW,Ganzi Victor F,Dir,A - Grant,$0.00,14827,14827,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+418,,2016-01-06 17:09:02,2016-01-04,WLTW,Oneill Brendan R,Dir,A - Grant,$0.00,18456,18456,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+419,,2016-01-06 17:08:27,2016-01-04,WLTW,Thomas Paul D,Dir,A - Grant,$0.00,12624,12624,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+420,D,2016-01-06 17:07:47,2016-01-04,WLTW,Bodnar Anne Donovan,Head of HR,A - Grant,$0.00,22261,22261,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+421,D,2016-01-06 17:06:53,2016-01-04,WLTW,Foreman James K,Head of Exchange Solutions,A - Grant,$0.00,25007,25007,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+422,D,2016-01-06 17:05:57,2016-01-04,WLTW,Haley John J,CEO,A - Grant,$0.00,124927,124927,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+423,D,2016-01-06 17:05:11,2016-01-04,WLTW,Hess Carl Aaron,Co-Head of North America,A - Grant,$0.00,32546,32546,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+424,D,2016-01-06 17:04:23,2016-01-04,WLTW,Millay Roger F,CFO,A - Grant,$0.00,27764,27764,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+425,D,2016-01-06 17:03:32,2016-01-04,WLTW,Morris Paul G,Head of Western Europe,A - Grant,$0.00,22909,22909,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+426,D,2016-01-06 17:02:33,2016-01-04,WLTW,Gebauer Julie Jarecke,"Head of Human Capital, Benefit",A - Grant,$0.00,135097,135097,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+427,,2016-01-06 17:01:34,2016-01-04,WLTW,Zeller Wilhelm,Dir,A - Grant,$0.00,12063,12063,New,+$0,-4.0,-4.0,-3.0,5.0,WTW
+428,AD,2015-11-13 16:06:30,2015-11-09,WSH,Shalders David,"Group Operations, Tech. Dir.",A - Grant,$0.00,5107,10216,+100%,+$0,2.0,4.0,5.0,,WTW
+429,AD,2015-11-13 16:06:30,2015-11-09,WSH,Shalders David,"Group Operations, Tech. Dir.",F - Tax,$44.14,-998,10216,-9%,"-$44,052",2.0,4.0,5.0,,WTW
+430,AD,2015-11-13 16:04:13,2015-11-09,WSH,Wright Timothy D,"CEO, Willis International",A - Grant,$0.00,6810,49787,+16%,+$0,2.0,4.0,5.0,,WTW
+431,AD,2015-11-13 16:04:13,2015-11-09,WSH,Wright Timothy D,"CEO, Willis International",F - Tax,$44.14,-9375,49787,-16%,"-$413,813",2.0,4.0,5.0,,WTW
+432,AD,2015-11-13 16:01:46,2015-11-09,WSH,Furman Matthew,Group GC,A - Grant,$0.00,4256,29492,+17%,+$0,2.0,4.0,5.0,,WTW
+433,D,2015-11-12 08:59:10,2015-11-09,WSH,Aubert Nicolas,"CEO, Willis GB",A - Grant,$0.00,5675,53822,+12%,+$0,-1.0,2.0,6.0,,WTW
+434,D,2015-11-12 08:58:10,2015-11-09,WSH,Furman Matthew,Group GC,A - Grant,$0.00,5107,30343,+20%,+$0,-1.0,2.0,6.0,,WTW
+435,D,2015-11-12 08:57:14,2015-11-09,WSH,Brown Celia,Group HR Dir,A - Grant,$0.00,12769,33817,+61%,+$0,-1.0,2.0,6.0,,WTW
+436,D,2015-11-12 08:57:14,2015-11-09,WSH,Brown Celia,Group HR Dir,F - Tax,$44.14,-2887,33817,-8%,"-$127,432",-1.0,2.0,6.0,,WTW
+437,D,2015-11-12 08:55:51,2015-11-09,WSH,Greene John,CFO,A - Grant,$0.00,15323,28855,+113%,+$0,-1.0,2.0,6.0,,WTW
+438,D,2015-11-12 08:55:51,2015-11-09,WSH,Greene John,CFO,F - Tax,$44.14,-804,28855,-3%,"-$35,489",-1.0,2.0,6.0,,WTW
+439,D,2015-11-12 08:54:23,2015-11-09,WSH,Jones Todd J.,"CEO, Willis North America",A - Grant,$0.00,5675,17902,+46%,+$0,-1.0,2.0,6.0,,WTW
+440,D,2015-11-12 08:54:23,2015-11-09,WSH,Jones Todd J.,"CEO, Willis North America",F - Tax,$44.14,-3024,17902,-14%,"-$133,479",-1.0,2.0,6.0,,WTW
+441,D,2015-11-12 08:52:39,2015-11-09,WSH,Shalders David,"Group Operations, Tech. Dir.",A - Grant,$0.00,4256,9365,+83%,+$0,-1.0,2.0,6.0,,WTW
+442,D,2015-11-12 08:52:39,2015-11-09,WSH,Shalders David,"Group Operations, Tech. Dir.",F - Tax,$44.14,-998,9365,-10%,"-$44,052",-1.0,2.0,6.0,,WTW
+443,D,2015-11-12 08:50:56,2015-11-09,WSH,Wright Timothy D,"CEO, Willis International",A - Grant,$0.00,7945,50922,+18%,+$0,-1.0,2.0,6.0,,WTW
+444,D,2015-11-12 08:50:56,2015-11-09,WSH,Wright Timothy D,"CEO, Willis International",F - Tax,$44.14,-9375,50922,-16%,"-$413,813",-1.0,2.0,6.0,,WTW
+445,,2015-09-02 15:01:54,2015-08-31,WSH,Roberts Douglas B,Dir,S - Sale,$43.06,-1185,21820,-5%,"-$51,026",0.0,2.0,-3.0,,WTW
+446,,2015-09-02 15:00:19,2015-08-31,WSH,Lopez Francisco Luzon,Dir,S - Sale,$43.06,-1185,11422,-9%,"-$51,026",0.0,2.0,-3.0,,WTW
+447,,2015-09-02 14:57:35,2015-08-31,WSH,Lane Wendy E,Dir,S - Sale,$43.06,-1185,13883,-8%,"-$51,026",0.0,2.0,-3.0,,WTW
+448,,2015-09-02 14:55:24,2015-08-31,WSH,Kravit Robyn S,Dir,S - Sale,$43.06,-1185,13566,-8%,"-$51,026",0.0,2.0,-3.0,,WTW
+449,,2015-09-02 14:52:16,2015-08-31,WSH,Gardner Roy,Dir,S - Sale,$43.06,-1185,20341,-6%,"-$51,026",0.0,2.0,-3.0,,WTW
+450,,2015-09-02 14:50:39,2015-08-31,WSH,Catalano Anna C,Dir,S - Sale,$43.06,-1185,12394,-9%,"-$51,026",0.0,2.0,-3.0,,WTW
+451,,2015-08-12 19:09:58,2015-08-10,WSH,Ubben Jeffrey W,"See Remarks, 10%",A - Grant,$0.00,2154,18428429,0%,+$0,0.0,1.0,-6.0,,WTW
+452,,2015-08-12 15:43:48,2015-08-10,WSH,Catalano Anna C,Dir,A - Grant,$0.00,2154,13579,+19%,+$0,0.0,1.0,-6.0,,WTW
+453,,2015-08-12 15:38:51,2015-08-10,WSH,Gardner Roy,Dir,A - Grant,$0.00,2154,21526,+11%,+$0,0.0,1.0,-6.0,,WTW
+454,,2015-08-12 15:35:12,2015-08-10,WSH,Hanley Jeremy,Dir,A - Grant,$0.00,2154,24645,+10%,+$0,0.0,1.0,-6.0,,WTW
+455,,2015-08-12 15:31:06,2015-08-10,WSH,Kravit Robyn S,Dir,A - Grant,$0.00,2154,14751,+17%,+$0,0.0,1.0,-6.0,,WTW
+456,,2015-08-12 15:27:42,2015-08-10,WSH,Lane Wendy E,Dir,A - Grant,$0.00,2154,15068,+17%,+$0,0.0,1.0,-6.0,,WTW
+457,,2015-08-12 15:24:15,2015-08-10,WSH,Lopez Francisco Luzon,Dir,A - Grant,$0.00,2154,12607,+21%,+$0,0.0,1.0,-6.0,,WTW
+458,,2015-08-12 15:20:39,2015-08-10,WSH,McCann James F,Dir,A - Grant,$0.00,6462,27560,+31%,+$0,0.0,1.0,-6.0,,WTW
+459,,2015-08-12 15:16:07,2015-08-10,WSH,Patel Jaymin B,Dir,A - Grant,$0.00,2154,6969,+45%,+$0,0.0,1.0,-6.0,,WTW
+460,,2015-08-12 15:12:42,2015-08-10,WSH,Roberts Douglas B,Dir,A - Grant,$0.00,2154,23005,+10%,+$0,0.0,1.0,-6.0,,WTW
+461,,2015-08-12 15:07:38,2015-08-10,WSH,Somers Michael J.,Dir,A - Grant,$0.00,2154,11003,+24%,+$0,0.0,1.0,-6.0,,WTW
+462,D,2015-05-13 09:43:23,2015-05-11,WSH,Casserley Dominic,CEO,A - Grant,$0.00,27603,130681,+27%,+$0,0.0,3.0,2.0,-5.0,WTW
+463,,2015-05-13 09:01:49,2015-05-11,WSH,Furman Matthew,Group GC,A - Grant,$0.00,25236,25236,New,+$0,0.0,3.0,2.0,-5.0,WTW
+464,,2015-03-03 16:37:19,2015-03-02,WSH,Hearn Stephen Patrick,Group Deputy CEO,S - Sale,$47.77,-1042,66452,-2%,"-$49,776",-1.0,-1.0,1.0,-9.0,WTW
+465,D,2015-02-18 16:04:52,2015-02-16,WSH,Jones Todd J.,"CEO, Willis North America",M - OptEx,$37.06,16666,14991,-995%,"+$617,642",1.0,0.0,4.0,-1.0,WTW
+466,D,2015-02-18 16:04:52,2015-02-17,WSH,Jones Todd J.,"CEO, Willis North America",S - Sale+OE,$47.42,-16666,14991,-53%,"-$790,302",1.0,0.0,4.0,-1.0,WTW
+467,D,2015-02-17 16:17:52,2015-02-13,WSH,Wright Timothy D,"CEO, Willis International",M - OptEx,$26.17,100000,52352,-210%,"+$2,617,000",0.0,0.0,3.0,-2.0,WTW
+468,D,2015-02-17 16:17:52,2015-02-13,WSH,Wright Timothy D,"CEO, Willis International",S - Sale+OE,$47.58,-100000,52352,-66%,"-$4,758,000",0.0,0.0,3.0,-2.0,WTW
+469,D,2015-02-17 16:16:45,2015-02-13,WSH,Catalano Anna C,Dir,M - OptEx,$36.19,30000,11425,-162%,"+$1,085,700",0.0,0.0,3.0,-2.0,WTW
+470,D,2015-02-17 16:16:45,2015-02-13,WSH,Catalano Anna C,Dir,S - Sale+OE,$47.75,-33000,11425,-74%,"-$1,575,660",0.0,0.0,3.0,-2.0,WTW
+471,D,2015-01-30 16:11:19,2015-01-29,WSH,Hearn Stephen Patrick,Group Deputy CEO,M - OptEx,$23.87,1069,67494,+2%,"+$25,517",2.0,4.0,11.0,9.0,WTW
+472,,2014-12-31 08:18:44,2014-12-26,WSH,Wright Timothy D,"CEO, Willis International",F - Tax,$45.28,-7252,52352,-12%,"-$328,371",-1.0,-1.0,-4.0,5.0,WTW
+473,,2014-12-31 08:17:13,2014-12-26,WSH,Jones Todd J.,"CEO, Willis North America",F - Tax,$45.28,-1592,14991,-10%,"-$72,086",-1.0,-1.0,-4.0,5.0,WTW
+474,,2014-12-31 08:16:05,2014-12-26,WSH,Brown Celia,Group HR Dir,F - Tax,$45.28,-1901,23675,-7%,"-$86,077",-1.0,-1.0,-4.0,5.0,WTW
+475,,2014-12-31 08:14:34,2014-12-26,WSH,Hearn Stephen Patrick,"CEO, COB, Willis Global",F - Tax,$45.28,-10637,66425,-14%,"-$481,643",-1.0,-1.0,-4.0,5.0,WTW
+476,D,2014-12-18 16:27:28,2014-12-16,WSH,Hearn Stephen Patrick,"CEO, COB, Willis Global",A - Grant,$0.00,12669,77062,+20%,+$0,1.0,1.0,-3.0,8.0,WTW
+477,D,2014-12-18 16:27:28,2014-12-16,WSH,Hearn Stephen Patrick,"CEO, COB, Willis Global",F - Tax,$43.50,-1924,77062,-2%,"-$83,694",1.0,1.0,-3.0,8.0,WTW
+478,D,2014-12-18 16:25:51,2014-12-16,WSH,Shalders David,"Group Operations, Tech. Dir.",A - Grant,$0.00,4319,6107,+242%,+$0,1.0,1.0,-3.0,8.0,WTW
+479,D,2014-12-18 16:25:51,2014-12-16,WSH,Shalders David,"Group Operations, Tech. Dir.",F - Tax,$43.50,-327,6107,-5%,"-$14,225",1.0,1.0,-3.0,8.0,WTW
+480,D,2014-12-18 16:23:46,2014-12-16,WSH,Wright Timothy D,"CEO, Willis International",A - Grant,$0.00,6910,59604,+13%,+$0,1.0,1.0,-3.0,8.0,WTW
+481,D,2014-12-18 16:23:46,2014-12-16,WSH,Wright Timothy D,"CEO, Willis International",F - Tax,$43.50,-1049,59604,-2%,"-$45,632",1.0,1.0,-3.0,8.0,WTW
+482,D,2014-12-18 16:21:31,2014-12-16,WSH,Greene John,CFO,A - Grant,$0.00,5183,14336,+57%,+$0,1.0,1.0,-3.0,8.0,WTW
+483,D,2014-12-18 16:19:56,2014-12-16,WSH,Brown Celia,Group HR Dir,A - Grant,$0.00,4319,25576,+20%,+$0,1.0,1.0,-3.0,8.0,WTW
+484,D,2014-12-18 16:19:56,2014-12-16,WSH,Brown Celia,Group HR Dir,F - Tax,$43.50,-515,25576,-2%,"-$22,403",1.0,1.0,-3.0,8.0,WTW
+485,D,2014-12-18 16:18:09,2014-12-16,WSH,Jones Todd J.,"CEO, Willis North America",A - Grant,$0.00,5759,16583,+53%,+$0,1.0,1.0,-3.0,8.0,WTW
+486,D,2014-12-18 16:18:09,2014-12-16,WSH,Jones Todd J.,"CEO, Willis North America",F - Tax,$43.50,-719,16583,-4%,"-$31,277",1.0,1.0,-3.0,8.0,WTW
+487,,2014-08-21 15:00:11,2014-08-19,WSH,Lopez Francisco Luzon,Dir,F - Tax,$40.97,-1122,10453,-10%,"-$45,968",1.0,1.0,3.0,17.0,WTW
+488,,2014-08-20 16:55:09,2014-08-18,WSH,Gardner Roy,Dir,F - Tax,$40.97,-1122,19372,-5%,"-$45,968",1.0,0.0,3.0,17.0,WTW
+489,D,2014-08-15 16:33:46,2014-08-13,WSH,Jones Todd J.,"CEO, Willis North America",M - OptEx,$26.17,50000,11460,-130%,"+$1,308,500",0.0,1.0,3.0,18.0,WTW
+490,D,2014-08-15 16:33:46,2014-08-13,WSH,Jones Todd J.,"CEO, Willis North America",S - Sale+OE,$41.03,-59588,11460,-84%,"-$2,445,108",0.0,1.0,3.0,18.0,WTW
+491,,2014-08-13 17:15:52,2014-08-11,WSH,Patel Jaymin B,Dir,A - Grant,$0.00,2440,4815,+103%,+$0,0.0,0.0,3.0,18.0,WTW
+492,,2014-08-13 17:15:12,2014-08-11,WSH,Catalano Anna C,Dir,A - Grant,$0.00,2440,14425,+20%,+$0,0.0,0.0,3.0,18.0,WTW
+493,,2014-08-13 17:15:12,2014-08-12,WSH,Catalano Anna C,Dir,S - Sale,$40.84,-1160,14425,-7%,"-$47,374",0.0,0.0,3.0,18.0,WTW
+494,,2014-08-13 17:13:45,2014-08-11,WSH,Kravit Robyn S,Dir,A - Grant,$0.00,2440,12597,+24%,+$0,0.0,0.0,3.0,18.0,WTW
+495,,2014-08-13 17:13:45,2014-08-12,WSH,Kravit Robyn S,Dir,S - Sale,$40.84,-1160,12597,-8%,"-$47,374",0.0,0.0,3.0,18.0,WTW
+496,,2014-08-13 17:13:01,2014-08-11,WSH,Lane Wendy E,Dir,A - Grant,$0.00,2440,12914,+23%,+$0,0.0,0.0,3.0,18.0,WTW
+497,,2014-08-13 17:13:01,2014-08-12,WSH,Lane Wendy E,Dir,S - Sale,$40.84,-1160,12914,-8%,"-$47,374",0.0,0.0,3.0,18.0,WTW
+498,,2014-08-13 17:12:19,2014-08-11,WSH,Greene John,CFO,A - Grant,$0.00,9153,9153,New,+$0,0.0,0.0,3.0,18.0,WTW
+499,,2014-08-13 17:11:30,2014-08-11,WSH,Lopez Francisco Luzon,Dir,A - Grant,$0.00,2440,11575,+27%,+$0,0.0,0.0,3.0,18.0,WTW
+500,,2014-08-13 17:05:59,2014-08-11,WSH,Gardner Roy,Dir,A - Grant,$0.00,2440,20494,+14%,+$0,0.0,0.0,3.0,18.0,WTW
+501,,2014-08-13 16:59:23,2014-08-11,WSH,Hanley Jeremy,Dir,A - Grant,$0.00,2440,22491,+12%,+$0,0.0,0.0,3.0,18.0,WTW
+502,,2014-08-13 16:57:45,2014-08-11,WSH,McCann James F,Dir,A - Grant,$0.00,7322,21098,+53%,+$0,0.0,0.0,3.0,18.0,WTW
+503,,2014-08-13 16:57:45,2014-08-12,WSH,McCann James F,Dir,S - Sale,$40.84,-2000,21098,-9%,"-$81,680",0.0,0.0,3.0,18.0,WTW
+504,,2014-08-13 16:54:20,2014-08-11,WSH,Roberts Douglas B,Dir,A - Grant,$0.00,2440,20851,+13%,+$0,0.0,0.0,3.0,18.0,WTW
+505,,2014-08-13 16:54:20,2014-08-12,WSH,Roberts Douglas B,Dir,S - Sale,$40.85,-1160,20851,-5%,"-$47,386",0.0,0.0,3.0,18.0,WTW
+506,,2014-08-13 16:51:28,2014-08-11,WSH,Somers Michael J.,Dir,A - Grant,$0.00,2440,8849,+38%,+$0,0.0,0.0,3.0,18.0,WTW
+507,,2014-08-13 16:43:26,2014-08-11,WSH,Ubben Jeffrey W,"See Remarks, 10%",A - Grant,$0.00,2440,18426275,0%,+$0,0.0,0.0,3.0,18.0,WTW
+508,,2014-08-13 16:43:26,2014-08-12,WSH,Ubben Jeffrey W,"See Remarks, 10%",F - Tax,$40.97,-1140,18426275,0%,"-$46,706",0.0,0.0,3.0,18.0,WTW
+509,,2014-06-03 12:58:07,2014-06-02,WSH,Rosman Adam L.,Group GC,S - Sale,$42.10,-675,15503,-4%,"-$28,418",1.0,2.0,5.0,3.0,WTW
+510,D,2014-05-13 21:28:14,2014-05-10,WSH,Casserley Dominic,CEO,A - Grant,$0.00,31558,103078,+44%,+$0,0.0,0.0,3.0,2.0,WTW
+511,D,2014-04-02 16:33:50,2014-03-31,WSH,Casserley Dominic,CEO,A - Grant,$0.00,12021,71520,+20%,+$0,0.0,-3.0,-5.0,-5.0,WTW
+512,,2014-03-07 15:13:10,2014-03-05,WSH,Jones Todd J.,"CEO, Willis North America",S - Sale,$42.31,-1151,20791,-5%,"-$48,701",0.0,-1.0,2.0,-1.0,WTW
+513,,2014-03-05 16:38:04,2014-03-03,WSH,Hearn Stephen Patrick,"Chrmn, CEO Willis Global",S - Sale,$41.14,-1013,66317,-2%,"-$41,675",2.0,2.0,5.0,2.0,WTW
+514,M,2014-03-04 16:49:49,2014-02-28,WSH,Ubben Jeffrey W,"See Remarks, 10%",P - Purchase,$40.97,207900,18422600,+1%,"+$8,518,478",1.0,2.0,7.0,2.0,WTW
+515,D,2014-02-27 15:59:47,2014-02-25,WSH,Lane Wendy E,Dir,D - Sale to issuer,$42.00,-30000,11634,-72%,"-$1,260,000",1.0,3.0,5.0,3.0,WTW
+516,D,2014-02-27 15:59:47,2014-02-25,WSH,Lane Wendy E,Dir,M - OptEx,$36.48,30000,11634,-163%,"+$1,094,400",1.0,3.0,5.0,3.0,WTW
+517,D,2014-02-25 16:13:03,2014-02-21,WSH,Roberts Douglas B,Dir,D - Sale to issuer,$42.27,-15000,19571,-43%,"-$634,050",-3.0,-2.0,2.0,1.0,WTW
+518,D,2014-02-25 16:13:03,2014-02-21,WSH,Roberts Douglas B,Dir,M - OptEx,$36.48,15000,19571,+328%,"+$547,200",-3.0,-2.0,2.0,1.0,WTW
+519,D,2014-02-24 17:08:11,2014-02-20,WSH,Jones Todd J.,"CEO, Willis North America",M - OptEx,$38.06,10000,21942,+84%,"+$380,600",0.0,-2.0,1.0,1.0,WTW
+520,D,2014-02-24 17:08:11,2014-02-20,WSH,Jones Todd J.,"CEO, Willis North America",S - Sale+OE,$42.02,-10000,21942,-31%,"-$420,226",0.0,-2.0,1.0,1.0,WTW
+521,D,2013-12-18 16:38:11,2013-12-16,WSH,Brown Celia,Group HR Dir,A - Grant,$0.00,4230,21515,+24%,+$0,0.0,1.0,0.0,-1.0,WTW
+522,D,2013-12-18 16:11:17,2013-12-16,WSH,Wright Timothy D,"CEO, Willis International",A - Grant,$0.00,6768,53743,+14%,+$0,0.0,1.0,0.0,-1.0,WTW
+523,D,2013-12-18 16:11:15,2013-12-16,WSH,Shalders David,"Group Operations, Tech Dir",A - Grant,$0.00,2115,2115,New,+$0,0.0,1.0,0.0,-1.0,WTW
+524,D,2013-12-18 16:11:13,2013-12-16,WSH,Rosman Adam L.,Group GC,A - Grant,$0.00,4230,16178,+35%,+$0,0.0,1.0,0.0,-1.0,WTW
+525,D,2013-12-18 16:11:11,2013-12-16,WSH,Neborak Michael K,CFO,A - Grant,$0.00,5640,37065,+18%,+$0,0.0,1.0,0.0,-1.0,WTW
+526,D,2013-12-18 16:11:10,2013-12-16,WSH,Jones Todd J.,"CEO, Willis North America",A - Grant,$0.00,4230,21942,+24%,+$0,0.0,1.0,0.0,-1.0,WTW
+527,D,2013-12-18 16:11:08,2013-12-16,WSH,Hearn Stephen Patrick,"Chrmn, CEO Willis Global",A - Grant,$0.00,12409,67330,+23%,+$0,0.0,1.0,0.0,-1.0,WTW
+528,D,2013-11-26 16:46:52,2013-11-22,WSH,Wright Timothy D,"CEO, Willis International",M - OptEx,$34.42,191518,46975,-132%,"+$6,592,050",0.0,1.0,1.0,-5.0,WTW
+529,D,2013-11-26 16:46:52,2013-11-22,WSH,Wright Timothy D,"CEO, Willis International",S - Sale+OE,$44.99,-191518,46975,-80%,"-$8,616,222",0.0,1.0,1.0,-5.0,WTW
+530,D,2013-11-25 17:07:21,2013-11-21,WSH,Wright Timothy D,"CEO, Willis International",M - OptEx,$34.42,36257,46975,+338%,"+$1,247,966",-2.0,0.0,0.0,-7.0,WTW
+531,D,2013-11-25 17:07:21,2013-11-21,WSH,Wright Timothy D,"CEO, Willis International",S - Sale+OE,$44.86,-36257,46975,-44%,"-$1,626,645",-2.0,0.0,0.0,-7.0,WTW
+532,,2013-11-06 16:05:58,2013-11-04,WSH,Lopez Francisco Luzon,Dir,P - Purchase,$44.92,3340,9135,+58%,"+$150,033",0.0,1.0,0.0,-6.0,WTW
+533,D,2013-11-05 16:44:11,2013-11-01,WSH,Roberts Douglas B,Dir,D - Sale to issuer,$44.91,-15000,19571,-43%,"-$673,650",1.0,2.0,0.0,-5.0,WTW
+534,D,2013-11-05 16:44:11,2013-11-01,WSH,Roberts Douglas B,Dir,M - OptEx,$36.48,15000,19571,+328%,"+$547,200",1.0,2.0,0.0,-5.0,WTW
+535,D,2013-11-05 16:35:45,2013-11-01,WSH,McCann James F,Dir,D - Sale to issuer,$44.91,-30000,15776,-66%,"-$1,347,300",1.0,2.0,0.0,-5.0,WTW
+536,D,2013-11-05 16:35:45,2013-11-01,WSH,McCann James F,Dir,M - OptEx,$36.48,30000,15776,-211%,"+$1,094,400",1.0,2.0,0.0,-5.0,WTW
+537,,2013-10-03 16:24:06,2013-10-01,WSH,Brown Celia,Group HR Dir,S - Sale,$43.80,-1221,17285,-7%,"-$53,480",1.0,-2.0,4.0,3.0,WTW
+538,,2013-08-14 17:59:41,2013-08-12,WSH,Ubben Jeffrey W,"See Remarks, 10%",A - Grant,$0.00,2375,18217075,0%,+$0,-2.0,0.0,1.0,-1.0,WTW
+539,,2013-08-14 17:51:06,2013-08-12,WSH,Somers Michael J.,Dir,A - Grant,$0.00,2375,6409,+59%,+$0,-2.0,0.0,1.0,-1.0,WTW
+540,,2013-08-14 17:50:42,2013-08-12,WSH,Roberts Douglas B,Dir,A - Grant,$0.00,2375,19571,+14%,+$0,-2.0,0.0,1.0,-1.0,WTW
+541,,2013-08-14 17:47:27,2013-08-12,WSH,Patel Jaymin B,Dir,A - Grant,$0.00,2375,2375,New,+$0,-2.0,0.0,1.0,-1.0,WTW
+542,,2013-08-14 17:46:59,2013-08-12,WSH,McCann James F,Dir,A - Grant,$0.00,4156,15776,+36%,+$0,-2.0,0.0,1.0,-1.0,WTW
+543,,2013-08-14 17:45:52,2013-08-12,WSH,Lopez Francisco Luzon,Dir,A - Grant,$0.00,2375,5795,+69%,+$0,-2.0,0.0,1.0,-1.0,WTW
+544,,2013-08-14 17:44:46,2013-08-12,WSH,Lane Wendy E,Dir,A - Grant,$0.00,2375,11634,+26%,+$0,-2.0,0.0,1.0,-1.0,WTW
+545,,2013-08-14 17:44:37,2013-08-12,WSH,Kravit Robyn S,Dir,A - Grant,$0.00,2375,11317,+27%,+$0,-2.0,0.0,1.0,-1.0,WTW
+546,,2013-08-14 17:43:18,2013-08-12,WSH,Hanley Jeremy,Dir,A - Grant,$0.00,2375,20051,+13%,+$0,-2.0,0.0,1.0,-1.0,WTW
+547,,2013-08-14 17:42:26,2013-08-12,WSH,Gardner Roy,Dir,A - Grant,$0.00,2375,18054,+15%,+$0,-2.0,0.0,1.0,-1.0,WTW
+548,,2013-08-14 17:39:37,2013-08-12,WSH,Catalano Anna C,Dir,A - Grant,$0.00,2375,13145,+22%,+$0,-2.0,0.0,1.0,-1.0,WTW
+549,,2013-08-06 17:13:46,2013-08-02,WSH,Neborak Michael K,CFO,S - Sale,$43.33,-2031,31425,-6%,"-$88,012",-1.0,-1.0,-2.0,0.0,WTW
+550,,2013-08-06 17:08:43,2013-08-02,WSH,Lopez Francisco Luzon,Dir,P - Purchase,$43.19,3420,3420,New,"+$147,710",-1.0,-1.0,-2.0,0.0,WTW
+551,D,2013-08-06 16:22:42,2013-08-02,WSH,Jones Todd J.,"CEO, Willis North America",M - OptEx,$30.35,3600,17712,+26%,"+$109,260",-1.0,-1.0,-2.0,0.0,WTW
+552,D,2013-08-06 16:22:42,2013-08-02,WSH,Jones Todd J.,"CEO, Willis North America",S - Sale+OE,$43.43,-3600,17712,-17%,"-$156,361",-1.0,-1.0,-2.0,0.0,WTW
+553,D,2013-08-06 16:19:37,2013-08-05,WSH,Rosman Adam L.,Group GC,M - OptEx,$24.54,30000,11948,-166%,"+$736,200",-1.0,-1.0,-2.0,0.0,WTW
+554,D,2013-08-06 16:19:37,2013-08-05,WSH,Rosman Adam L.,Group GC,S - Sale+OE,$42.89,-30000,11948,-72%,"-$1,286,562",-1.0,-1.0,-2.0,0.0,WTW
+555,,2013-07-03 16:44:26,2013-07-01,WSH,Hearn Stephen Patrick,"Chrmn, CEO Willis Global",S - Sale,$41.10,-1883,54921,-3%,"-$77,391",1.0,3.0,6.0,12.0,WTW
+556,M,2013-06-13 17:57:02,2013-06-11,WSH,"Valueact Holdings, L.P.",10%,P - Purchase,$39.23,289900,18214700,+2%,"+$11,372,119",0.0,4.0,9.0,14.0,WTW
+557,A,2013-06-11 17:06:28,2013-06-06,WSH,"Valueact Holdings, L.P.",10%,P - Purchase,$39.01,568400,17924800,+3%,"+$22,172,652",0.0,5.0,7.0,16.0,WTW
+558,,2013-06-10 19:25:13,2013-06-06,WSH,"Valueact Holdings, L.P.",10%,A - Grant,$39.01,568400,17924800,+3%,"+$22,172,652",0.0,2.0,7.0,15.0,WTW
+559,,2013-06-04 17:30:55,2013-06-03,WSH,Rosman Adam L.,Group GC,S - Sale,$38.98,-598,11948,-5%,"-$23,310",0.0,0.0,4.0,16.0,WTW
+560,D,2013-05-14 16:09:52,2013-05-10,WSH,Casserley Dominic,CEO,A - Grant,$0.00,32399,59499,+120%,+$0,1.0,0.0,-5.0,9.0,WTW
+561,,2013-05-09 16:04:43,2013-05-07,WSH,McCann James F,Dir,S - Sale,$40.58,-1341,11620,-10%,"-$54,411",0.0,3.0,-2.0,10.0,WTW
+562,,2013-05-09 16:04:40,2013-05-07,WSH,Somers Michael J.,Dir,S - Sale,$40.59,-1341,4034,-25%,"-$54,427",0.0,3.0,-2.0,10.0,WTW
+563,,2013-05-09 16:04:37,2013-05-07,WSH,Lane Jeffrey B/,Dir,S - Sale,$40.59,-1341,8942,-13%,"-$54,427",0.0,3.0,-2.0,10.0,WTW
+564,,2013-05-09 16:04:36,2013-05-07,WSH,Lane Wendy E,Dir,S - Sale,$40.57,-1341,9259,-13%,"-$54,406",0.0,3.0,-2.0,10.0,WTW
+565,,2013-05-09 16:04:29,2013-05-07,WSH,Roberts Douglas B,Dir,S - Sale,$40.57,-1341,17196,-7%,"-$54,403",0.0,3.0,-2.0,10.0,WTW
+566,,2013-05-09 16:04:26,2013-05-07,WSH,Kravit Robyn S,Dir,S - Sale,$40.58,-1341,8942,-13%,"-$54,411",0.0,3.0,-2.0,10.0,WTW
+567,,2013-05-09 16:04:26,2013-05-07,WSH,Gardner Roy,Dir,S - Sale,$40.58,-1341,15679,-8%,"-$54,423",0.0,3.0,-2.0,10.0,WTW
+568,,2013-05-09 16:04:23,2013-05-07,WSH,Catalano Anna C,Dir,S - Sale,$40.58,-1341,10770,-11%,"-$54,422",0.0,3.0,-2.0,10.0,WTW
+569,,2013-05-09 16:04:21,2013-05-07,WSH,Califano Joseph A,Dir,S - Sale,$40.59,-1341,12770,-10%,"-$54,429",0.0,3.0,-2.0,10.0,WTW
+570,,2013-05-03 16:16:14,2013-05-02,WSH,Krauze Vic,"COB, CEO, WNA",S - Sale,$40.81,-2737,62542,-4%,"-$111,685",0.0,-1.0,-4.0,11.0,WTW
+571,,2013-04-03 17:16:45,2012-05-01,WSH,Turvill Sarah J,"COB, Willis International",S - Sale,$36.41,-29000,111508,-21%,"-$1,055,832",0.0,1.0,5.0,14.0,WTW
+572,,2013-03-11 16:57:54,2013-03-07,WSH,Wright Timothy D,"CEO, Willis International",A - Grant,$0.00,19677,46975,+72%,+$0,0.0,0.0,2.0,12.0,WTW
+573,,2013-03-11 16:56:48,2013-03-07,WSH,Hearn Stephen Patrick,"Chrmn, CEO Willis Global",A - Grant,$0.00,28860,56804,+103%,+$0,0.0,0.0,2.0,12.0,WTW
+574,,2013-03-11 16:56:48,2013-03-07,WSH,Krauze Vic,"COB, CEO, WNA",A - Grant,$0.00,15743,65279,+32%,+$0,0.0,0.0,2.0,12.0,WTW
+575,,2013-03-11 16:55:43,2013-03-07,WSH,Brown Celia,Group HR Dir,A - Grant,$0.00,6559,18204,+56%,+$0,0.0,0.0,2.0,12.0,WTW
+576,,2013-03-11 16:55:42,2013-03-07,WSH,Rosman Adam L.,Group GC,A - Grant,$0.00,5247,12546,+72%,+$0,0.0,0.0,2.0,12.0,WTW
+577,,2013-03-11 16:55:36,2013-03-07,WSH,Neborak Michael K,CFO,A - Grant,$0.00,13119,33154,+65%,+$0,0.0,0.0,2.0,12.0,WTW
+578,,2013-03-11 16:55:34,2013-03-07,WSH,Plumeri Joseph J,Dir,A - Grant,$0.00,145374,2371719,+7%,+$0,0.0,0.0,2.0,12.0,WTW
+579,,2013-03-05 16:04:12,2013-03-01,WSH,Hearn Stephen Patrick,"Chrmn, CEO Willis Global",S - Sale,$37.85,-982,27944,-3%,"-$37,169",-1.0,0.0,1.0,10.0,WTW
+580,,2013-02-26 18:12:56,2013-02-22,WSH,Casserley Dominic,CEO,A - Grant,$36.80,27100,27100,New,"+$997,280",1.0,2.0,5.0,16.0,WTW
+581,M,2013-02-25 17:26:01,2013-02-21,WSH,Plumeri Joseph J,Dir,S - Sale,$36.85,-1185973,2226345,-35%,"-$43,704,015",1.0,3.0,5.0,16.0,WTW
+582,D,2013-02-21 17:14:25,2013-02-19,WSH,Krauze Vic,"COB, CEO, WNA",M - OptEx,$30.75,5000,49536,+11%,"+$153,750",0.0,2.0,5.0,16.0,WTW
+583,D,2013-02-21 17:14:25,2013-02-19,WSH,Krauze Vic,"COB, CEO, WNA",S - Sale+OE,$36.75,-5000,49536,-9%,"-$183,750",0.0,2.0,5.0,16.0,WTW
+584,M,2013-02-21 17:07:10,2013-02-19,WSH,Plumeri Joseph J,Dir,S - Sale,$36.72,-314027,3412318,-8%,"-$11,530,951",0.0,2.0,5.0,16.0,WTW
+585,D,2012-12-28 14:40:07,2012-12-26,WSH,Krauze Vic,"COB, CEO, WNA",A - Grant,$0.00,8944,49536,+22%,+$0,0.0,3.0,5.0,23.0,WTW
+586,D,2012-12-28 14:39:05,2012-12-26,WSH,Hearn Stephen Patrick,"Chrmn, CEO Willis Global",A - Grant,$0.00,16398,28926,+131%,+$0,0.0,3.0,5.0,23.0,WTW
+587,D,2012-12-28 14:36:03,2012-12-26,WSH,Turvill Sarah J,"COB, Willis International",A - Grant,$0.00,3726,136127,+3%,+$0,0.0,3.0,5.0,23.0,WTW
+588,D,2012-12-28 14:34:02,2012-12-26,WSH,Neborak Michael K,CFO,A - Grant,$0.00,7453,20035,+59%,+$0,0.0,3.0,5.0,23.0,WTW
+589,D,2012-12-28 13:16:33,2012-12-26,WSH,Sullivan Martin J,Deputy COB,A - Grant,$0.00,1863,95053,+2%,+$0,0.0,3.0,5.0,23.0,WTW
+590,D,2012-12-28 13:15:30,2012-12-26,WSH,Ghezzi Gioia,COO,A - Grant,$0.00,3726,3726,New,+$0,0.0,3.0,5.0,23.0,WTW
+591,D,2012-12-28 13:15:29,2012-12-26,WSH,Brown Celia,Group HR Dir,A - Grant,$0.00,3726,11645,+47%,+$0,0.0,3.0,5.0,23.0,WTW
+592,D,2012-12-28 13:14:26,2012-12-26,WSH,Wright Timothy D,"CEO, Willis International",A - Grant,$0.00,11180,27298,+69%,+$0,0.0,3.0,5.0,23.0,WTW
+593,D,2012-12-28 13:13:31,2012-12-26,WSH,Rosman Adam L.,Group GC,A - Grant,$0.00,2981,7299,+69%,+$0,0.0,3.0,5.0,23.0,WTW
+594,,2012-12-07 09:41:38,2012-11-08,WSH,Plumeri Joseph J,"COB, CEO",A - Grant,$0.00,39010,3726345,+1%,+$0,-2.0,-2.0,-1.0,14.0,WTW
+595,,2012-12-07 09:41:38,2012-11-08,WSH,Plumeri Joseph J,"COB, CEO",G - Gift,$0.00,-117030,3726345,-3%,-$0,-2.0,-2.0,-1.0,14.0,WTW
+596,,2012-11-05 15:45:05,2012-11-01,WSH,Sullivan Martin J,Deputy COB,S - Sale,$34.00,-11460,93190,-11%,"-$389,593",1.0,0.0,2.0,21.0,WTW
+597,,2012-10-02 14:49:15,2012-10-01,WSH,Brown Celia,Group HR Dir,S - Sale,$37.13,-1160,7919,-13%,"-$43,070",0.0,0.0,-8.0,5.0,WTW
+598,,2012-08-06 14:30:08,2012-08-02,WSH,Neborak Michael K,CFO,S - Sale,$34.50,-2040,12582,-14%,"-$70,372",-1.0,-1.0,3.0,3.0,WTW
+599,,2012-07-05 17:22:14,2012-07-02,WSH,Hearn Stephen Patrick,"Chrmn, CEO Willis Global",S - Sale,$36.81,-1972,12528,-14%,"-$72,583",0.0,-2.0,-8.0,-6.0,WTW
+600,,2012-06-04 15:41:31,2012-06-01,WSH,Rosman Adam L.,Group GC,A - Grant,$0.00,4318,4318,New,+$0,1.0,2.0,7.0,1.0,WTW
+601,A,2012-05-22 13:17:16,2011-03-23,WSH,Plumeri Joseph J,"COB, CEO",G - Gift,$0.00,0,3646181,0%,-$0,1.0,3.0,4.0,1.0,WTW
+602,AM,2012-05-22 13:15:14,2011-08-12,WSH,Plumeri Joseph J,"COB, CEO",G - Gift,$0.00,0,3646181,0%,-$0,1.0,3.0,4.0,1.0,WTW
+603,,2012-05-08 18:37:23,2012-05-07,WSH,Hearn Peter C,"COB, Willis Re",S - Sale,$36.22,-5940,66723,-8%,"-$215,157",0.0,-2.0,0.0,-2.0,WTW
+604,,2012-05-08 18:36:21,2012-05-07,WSH,Krauze Vic,"COB, CEO, WNA",S - Sale,$36.22,-1388,40851,-3%,"-$50,280",0.0,-2.0,0.0,-2.0,WTW
+605,,2012-05-08 18:21:15,2012-05-07,WSH,Ciongoli Adam Grey,GC,S - Sale,$36.22,-5557,28804,-16%,"-$201,284",0.0,-2.0,0.0,-2.0,WTW
+606,,2012-05-08 18:20:11,2012-05-07,WSH,Turvill Sarah J,"COB, Willis International",S - Sale,$36.19,-8107,132401,-6%,"-$293,387",0.0,-2.0,0.0,-2.0,WTW
+607,,2012-05-08 18:18:08,2012-05-07,WSH,Wright Timothy D,"CEO, Willis International",S - Sale,$36.19,-8107,16118,-33%,"-$293,383",0.0,-2.0,0.0,-2.0,WTW
+608,,2012-05-08 17:47:54,2012-05-07,WSH,Somers Michael J.,Dir,A - Grant,$0.00,2753,5375,+105%,+$0,0.0,-2.0,0.0,-2.0,WTW
+609,,2012-05-08 17:46:50,2012-05-07,WSH,Roberts Douglas B,Dir,A - Grant,$0.00,2753,18537,+17%,+$0,0.0,-2.0,0.0,-2.0,WTW
+610,,2012-05-08 17:46:47,2012-05-07,WSH,McCann James F,Dir,A - Grant,$0.00,2753,12961,+27%,+$0,0.0,-2.0,0.0,-2.0,WTW
+611,,2012-05-08 17:43:43,2012-05-07,WSH,Lane Wendy E,Dir,A - Grant,$0.00,2753,10600,+35%,+$0,0.0,-2.0,0.0,-2.0,WTW
+612,,2012-05-08 17:42:41,2012-05-07,WSH,Lane Jeffrey B/,Dir,A - Grant,$0.00,2753,10283,+37%,+$0,0.0,-2.0,0.0,-2.0,WTW
+613,,2012-05-08 17:42:38,2012-05-07,WSH,Kravit Robyn S,Dir,A - Grant,$0.00,2753,10283,+37%,+$0,0.0,-2.0,0.0,-2.0,WTW
+614,,2012-05-08 17:41:32,2012-05-07,WSH,Hanley Jeremy,Dir,A - Grant,$0.00,2753,17676,+18%,+$0,0.0,-2.0,0.0,-2.0,WTW
+615,,2012-05-08 17:40:29,2012-05-07,WSH,Gardner Roy,Dir,A - Grant,$0.00,2753,17020,+19%,+$0,0.0,-2.0,0.0,-2.0,WTW
+616,,2012-05-08 17:39:26,2012-05-07,WSH,Catalano Anna C,Dir,A - Grant,$0.00,2753,12111,+29%,+$0,0.0,-2.0,0.0,-2.0,WTW
+617,,2012-05-08 17:37:24,2012-05-07,WSH,Califano Joseph A,Dir,A - Grant,$0.00,2753,14111,+24%,+$0,0.0,-2.0,0.0,-2.0,WTW
+618,,2012-05-08 17:36:20,2012-05-07,WSH,Bradley William W,Dir,A - Grant,$0.00,2753,15485,+22%,+$0,0.0,-2.0,0.0,-2.0,WTW
+619,,2012-05-04 12:36:22,2012-05-02,WSH,Bradley William W,Dir,S - Sale,$36.37,-1180,12732,-8%,"-$42,920",0.0,-1.0,-4.0,-5.0,WTW
+620,,2012-05-04 12:36:18,2012-05-02,WSH,Califano Joseph A,Dir,S - Sale,$36.37,-1180,11358,-9%,"-$42,920",0.0,-1.0,-4.0,-5.0,WTW
+621,,2012-05-04 12:36:15,2012-05-02,WSH,Kravit Robyn S,Dir,S - Sale,$36.37,-1180,7530,-14%,"-$42,920",0.0,-1.0,-4.0,-5.0,WTW
+622,,2012-05-04 12:35:12,2012-05-02,WSH,McCann James F,Dir,S - Sale,$36.37,-1180,10208,-10%,"-$42,920",0.0,-1.0,-4.0,-5.0,WTW
+623,,2012-05-04 12:34:12,2012-05-02,WSH,Roberts Douglas B,Dir,S - Sale,$36.37,-1180,15784,-7%,"-$42,920",0.0,-1.0,-4.0,-5.0,WTW
+624,,2012-05-04 12:33:06,2012-05-02,WSH,Lane Wendy E,Dir,S - Sale,$36.37,-1180,7847,-13%,"-$42,920",0.0,-1.0,-4.0,-5.0,WTW
+625,,2012-05-04 12:32:03,2012-05-02,WSH,Lane Jeffrey B/,Dir,S - Sale,$36.37,-1180,7530,-14%,"-$42,920",0.0,-1.0,-4.0,-5.0,WTW
+626,,2012-05-04 12:29:59,2012-05-02,WSH,Gardner Roy,Dir,S - Sale,$36.37,-1270,14267,-8%,"-$46,189",0.0,-1.0,-4.0,-5.0,WTW
+627,,2012-05-04 12:28:56,2012-05-02,WSH,Somers Michael J.,Dir,S - Sale,$36.37,-1270,2622,-33%,"-$46,190",0.0,-1.0,-4.0,-5.0,WTW
+628,,2012-05-04 12:27:53,2012-05-02,WSH,Catalano Anna C,Dir,S - Sale,$36.37,-1180,9358,-11%,"-$42,920",0.0,-1.0,-4.0,-5.0,WTW
+629,,2012-05-04 12:25:50,2012-05-02,WSH,Sullivan Martin J,Deputy COB,S - Sale,$36.37,-6325,104650,-6%,"-$230,057",0.0,-1.0,-4.0,-5.0,WTW
+630,,2012-05-04 12:23:47,2012-05-02,WSH,Krauze Vic,"COB, CEO, WNA",S - Sale,$36.37,-2815,42239,-6%,"-$102,389",0.0,-1.0,-4.0,-5.0,WTW
+631,,2012-03-02 17:14:19,2012-03-01,WSH,Plumeri Joseph J,"COB, CEO",A - Grant,$0.00,25783,3837936,+1%,+$0,1.0,0.0,0.0,6.0,WTW
+632,,2012-03-01 17:01:25,2012-02-28,WSH,Sullivan Martin J,Deputy COB,A - Grant,$0.00,45800,110975,+70%,+$0,0.0,-2.0,0.0,5.0,WTW
+633,,2012-03-01 16:57:14,2012-02-28,WSH,Plumeri Joseph J,"COB, CEO",A - Grant,$0.00,132401,3812153,+4%,+$0,0.0,-2.0,0.0,5.0,WTW
+634,D,2012-03-01 15:11:51,2012-03-01,WSH,Hearn Stephen Patrick,"Chrmn, CEO Willis Global",A - Grant,$0.00,6500,11200,+138%,+$0,-1.0,-4.0,-2.0,4.0,WTW
+635,M,2011-12-02 13:22:07,2011-08-12,WSH,Plumeri Joseph J,"COB, CEO",G - Gift,$0.00,-53508,3679752,-1%,-$0,3.0,7.0,10.0,0.0,WTW
+636,,2011-11-02 15:43:57,2011-11-01,WSH,Sullivan Martin J,Deputy COB,S - Sale,$36.06,-9825,65175,-13%,"-$354,248",1.0,2.0,-2.0,3.0,WTW
+637,,2011-08-03 13:38:56,2011-08-02,WSH,Neborak Michael K,CFO,S - Sale,$40.34,-1950,14040,-12%,"-$78,667",0.0,-10.0,-2.0,1.0,WTW
+638,,2011-06-22 17:19:40,2011-06-20,WSH,Hearn Peter C,"COB, Willis Re",S - Sale,$40.01,-1445,72663,-2%,"-$57,813",0.0,0.0,0.0,-4.0,WTW
+639,D,2011-05-11 15:05:04,2011-05-10,WSH,Bradley William W,Dir,D - Sale to issuer,$40.59,-50000,13912,-78%,"-$2,029,500",0.0,-1.0,3.0,-10.0,WTW
+640,D,2011-05-11 15:05:04,2011-05-10,WSH,Bradley William W,Dir,M - OptEx,$31.70,50000,13912,-139%,"+$1,585,000",0.0,-1.0,3.0,-10.0,WTW
+641,M,2011-05-09 17:33:27,2011-05-05,WSH,Ciongoli Adam Grey,GC,S - Sale,$40.16,-6245,34361,-15%,"-$250,772",1.0,1.0,4.0,-9.0,WTW
+642,M,2011-05-09 17:28:01,2011-05-05,WSH,Turvill Sarah J,"COB, Willis International",S - Sale,$40.07,-7977,140508,-5%,"-$319,638",1.0,1.0,4.0,-9.0,WTW
+643,M,2011-05-09 17:27:57,2011-05-05,WSH,Wright Timothy D,COO,S - Sale,$40.07,-7977,24225,-25%,"-$319,638",1.0,1.0,4.0,-9.0,WTW
+644,M,2011-05-09 17:27:02,2011-05-05,WSH,Millwater Grahame J,"Pres, Chrmn, CEO, Willis Glbl",S - Sale,$40.07,-15962,139833,-10%,"-$639,598",1.0,1.0,4.0,-9.0,WTW
+645,M,2011-05-09 17:25:47,2011-05-05,WSH,Margrett David,"CEO, Willis Intl",S - Sale,$40.07,-7977,37079,-18%,"-$319,638",1.0,1.0,4.0,-9.0,WTW
+646,,2011-05-09 17:23:39,2011-05-05,WSH,Hearn Peter C,"COB, Willis Re",S - Sale,$40.09,-5375,74108,-7%,"-$215,458",1.0,1.0,4.0,-9.0,WTW
+647,,2011-05-09 17:21:36,2011-05-05,WSH,Krauze Vic,"COB, CEO, Willis North A",S - Sale,$40.09,-1370,44723,-3%,"-$54,917",1.0,1.0,4.0,-9.0,WTW
+648,,2011-05-04 14:43:05,2011-05-02,WSH,Catalano Anna C,Dir,A - Grant,$0.00,2409,10538,+30%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+649,,2011-05-04 14:43:05,2011-05-03,WSH,Catalano Anna C,Dir,S - Sale,$41.48,-1385,10538,-12%,"-$57,454",-2.0,-3.0,1.0,-12.0,WTW
+650,,2011-05-04 13:44:48,2011-05-02,WSH,Bradley William W,Dir,A - Grant,$0.00,2409,13912,+21%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+651,,2011-05-04 13:44:48,2011-05-03,WSH,Bradley William W,Dir,S - Sale,$41.48,-1385,13912,-9%,"-$57,454",-2.0,-3.0,1.0,-12.0,WTW
+652,,2011-05-04 13:43:46,2011-05-02,WSH,Califano Joseph A,Dir,A - Grant,$0.00,2409,12538,+24%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+653,,2011-05-04 13:43:46,2011-05-03,WSH,Califano Joseph A,Dir,S - Sale,$41.48,-1385,12538,-10%,"-$57,454",-2.0,-3.0,1.0,-12.0,WTW
+654,,2011-05-04 13:39:38,2011-05-02,WSH,Gardner Roy,Dir,A - Grant,$0.00,2409,15537,+18%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+655,,2011-05-04 13:39:38,2011-05-03,WSH,Gardner Roy,Dir,S - Sale,$41.48,-1386,15537,-8%,"-$57,495",-2.0,-3.0,1.0,-12.0,WTW
+656,,2011-05-04 13:39:36,2011-05-02,WSH,Hanley Jeremy,Dir,A - Grant,$0.00,2409,14923,+19%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+657,,2011-05-04 13:38:33,2011-05-02,WSH,Kravit Robyn S,Dir,A - Grant,$0.00,2409,8710,+38%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+658,,2011-05-04 13:38:33,2011-05-03,WSH,Kravit Robyn S,Dir,S - Sale,$41.48,-1385,8710,-14%,"-$57,454",-2.0,-3.0,1.0,-12.0,WTW
+659,,2011-05-04 13:37:29,2011-05-02,WSH,Lane Jeffrey B/,Dir,A - Grant,$0.00,2409,8710,+38%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+660,,2011-05-04 13:37:29,2011-05-03,WSH,Lane Jeffrey B/,Dir,S - Sale,$41.48,-1385,8710,-14%,"-$57,454",-2.0,-3.0,1.0,-12.0,WTW
+661,,2011-05-04 13:32:22,2011-05-02,WSH,Lane Wendy E,Dir,A - Grant,$0.00,2409,9027,+36%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+662,,2011-05-04 13:32:22,2011-05-03,WSH,Lane Wendy E,Dir,S - Sale,$41.48,-1385,9027,-13%,"-$57,454",-2.0,-3.0,1.0,-12.0,WTW
+663,,2011-05-04 13:31:24,2011-05-02,WSH,McCann James F,Dir,A - Grant,$0.00,2409,11388,+27%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+664,,2011-05-04 13:31:24,2011-05-03,WSH,McCann James F,Dir,S - Sale,$41.48,-1385,11388,-11%,"-$57,454",-2.0,-3.0,1.0,-12.0,WTW
+665,,2011-05-04 13:30:13,2011-05-02,WSH,Roberts Douglas B,Dir,A - Grant,$0.00,2409,16964,+17%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+666,,2011-05-04 13:30:13,2011-05-03,WSH,Roberts Douglas B,Dir,S - Sale,$41.48,-1385,16964,-8%,"-$57,454",-2.0,-3.0,1.0,-12.0,WTW
+667,,2011-05-04 13:27:03,2011-05-02,WSH,Somers Michael J.,Dir,A - Grant,$0.00,2409,3892,+162%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+668,,2011-05-04 13:27:03,2011-05-03,WSH,Somers Michael J.,Dir,S - Sale,$41.48,-1386,3892,-26%,"-$57,495",-2.0,-3.0,1.0,-12.0,WTW
+669,,2011-05-04 13:26:00,2011-05-02,WSH,Krauze Vic,"CEO, Willis North America",A - Grant,$0.00,25000,46093,+119%,+$0,-2.0,-3.0,1.0,-12.0,WTW
+670,,2011-05-02 20:34:42,2011-03-23,WSH,Plumeri Joseph J,"COB, CEO",G - Gift,$0.00,-62921,3733260,-2%,-$0,1.0,-2.0,0.0,-9.0,WTW
+671,,2011-05-02 20:34:42,2011-04-28,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$41.33,-83925,3733260,-2%,"-$3,468,419",1.0,-2.0,0.0,-9.0,WTW
+672,,2011-03-21 17:32:15,2011-03-17,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$38.96,-5525,3880106,0%,"-$215,253",0.0,1.0,3.0,-7.0,WTW
+673,D,2011-03-21 17:16:56,2011-03-18,WSH,Lane Wendy E,Dir,M - OptEx,$34.15,5000,8177,+157%,"+$170,750",0.0,1.0,3.0,-7.0,WTW
+674,D,2011-03-21 17:16:56,2011-03-18,WSH,Lane Wendy E,Dir,S - Sale+OE,$38.83,-4412,8177,-35%,"-$171,299",0.0,1.0,3.0,-7.0,WTW
+675,D,2011-03-21 17:14:47,2011-03-17,WSH,Califano Joseph A,Dir,M - OptEx,$34.15,5000,11514,+77%,"+$170,750",0.0,1.0,3.0,-7.0,WTW
+676,D,2011-03-21 17:14:47,2011-03-17,WSH,Califano Joseph A,Dir,S - Sale+OE,$38.99,-5000,11514,-30%,"-$194,959",0.0,1.0,3.0,-7.0,WTW
+677,D,2011-03-21 17:12:39,2011-03-18,WSH,Roberts Douglas B,Dir,M - OptEx,$34.15,5000,15940,+46%,"+$170,750",0.0,1.0,3.0,-7.0,WTW
+678,D,2011-03-21 17:12:39,2011-03-18,WSH,Roberts Douglas B,Dir,S - Sale+OE,$39.20,-5000,15940,-24%,"-$196,000",0.0,1.0,3.0,-7.0,WTW
+679,D,2011-03-21 17:02:21,2011-03-17,WSH,Bradley William W,Dir,M - OptEx,$34.15,5000,12888,+63%,"+$170,750",0.0,1.0,3.0,-7.0,WTW
+680,D,2011-03-21 17:02:21,2011-03-17,WSH,Bradley William W,Dir,S - Sale+OE,$38.93,-5000,12888,-28%,"-$194,642",0.0,1.0,3.0,-7.0,WTW
+681,,2011-03-21 16:55:07,2011-03-17,WSH,Ciongoli Adam Grey,GC,S - Sale,$39.00,-444,40606,-1%,"-$17,318",0.0,1.0,3.0,-7.0,WTW
+682,,2011-03-21 16:54:02,2011-03-17,WSH,Hearn Peter C,"CEO, Willis Re",S - Sale,$38.99,-1336,79483,-2%,"-$52,088",0.0,1.0,3.0,-7.0,WTW
+683,,2011-03-21 16:51:57,2011-03-17,WSH,Turvill Sarah J,"COB, CEO, Willis Intl",S - Sale,$39.11,-619,148485,0%,"-$24,209",0.0,1.0,3.0,-7.0,WTW
+684,,2011-03-21 16:45:21,2011-03-17,WSH,Margrett David,"COB, CEO, Willis Limited",S - Sale,$39.11,-687,45056,-2%,"-$26,869",0.0,1.0,3.0,-7.0,WTW
+685,,2011-03-21 16:43:22,2011-03-17,WSH,Millwater Grahame J,Pres,S - Sale,$39.11,-1511,155795,-1%,"-$59,095",0.0,1.0,3.0,-7.0,WTW
+686,D,2011-03-17 11:43:32,2011-03-16,WSH,McCann James F,Dir,M - OptEx,$34.15,5000,10364,+93%,"+$170,750",0.0,2.0,4.0,-7.0,WTW
+687,D,2011-03-17 11:43:32,2011-03-16,WSH,McCann James F,Dir,S - Sale+OE,$38.95,-4650,10364,-31%,"-$181,132",0.0,2.0,4.0,-7.0,WTW
+688,,2011-03-04 14:26:26,2011-03-02,WSH,Ciongoli Adam Grey,GC,S - Sale,$38.52,-1070,41050,-3%,"-$41,219",-1.0,-2.0,6.0,2.0,WTW
+689,,2011-03-04 13:58:31,2011-03-02,WSH,Margrett David,"COB, CEO, Willis Limited",S - Sale,$38.52,-1146,45743,-2%,"-$44,147",-1.0,-2.0,6.0,2.0,WTW
+690,,2011-03-04 13:58:28,2011-03-02,WSH,Millwater Grahame J,Pres,S - Sale,$38.52,-2520,157306,-2%,"-$97,076",-1.0,-2.0,6.0,2.0,WTW
+691,,2011-03-04 13:58:26,2011-03-02,WSH,Turvill Sarah J,"COB, CEO, Willis Intl",S - Sale,$38.52,-1146,149104,-1%,"-$44,147",-1.0,-2.0,6.0,2.0,WTW
+692,,2011-03-04 13:58:19,2011-03-02,WSH,Hearn Peter C,"CEO, Willis Re",S - Sale,$38.52,-2350,80819,-3%,"-$90,527",-1.0,-2.0,6.0,2.0,WTW
+693,,2011-03-03 14:38:28,2011-03-01,WSH,Plumeri Joseph J,"COB, CEO",A - Grant,$0.00,65693,3885631,+2%,+$0,1.0,-1.0,6.0,1.0,WTW
+694,D,2011-02-11 13:32:03,2011-02-09,WSH,Margrett David,"COB, CEO, Willis Limited",A - Grant,$0.00,625,46889,+1%,+$0,1.0,3.0,3.0,-3.0,WTW
+695,D,2011-02-11 13:30:56,2011-02-09,WSH,Plumeri Joseph J,"COB, CEO",A - Grant,$0.00,172166,3819938,+5%,+$0,1.0,3.0,3.0,-3.0,WTW
+696,,2011-02-11 13:28:49,2011-02-09,WSH,Neborak Michael K,CFO,A - Grant,$0.00,7995,15990,+100%,+$0,1.0,3.0,3.0,-3.0,WTW
+697,,2010-12-08 17:39:17,2010-12-07,WSH,Bailey Donald,"Former CEO, WNA",S - Sale,$32.92,-1960,31887,-6%,"-$64,523",0.0,3.0,6.0,27.0,WTW
+698,,2010-11-01 15:30:31,2010-11-01,WSH,Sullivan Martin J,Deputy COB,A - Grant,$0.00,75000,75000,New,+$0,0.0,3.0,0.0,32.0,WTW
+699,,2010-08-03 12:30:45,2010-08-02,WSH,Neborak Michael K,CFO,A - Grant,$0.00,7995,7995,New,+$0,-1.0,0.0,-7.0,22.0,WTW
+700,,2010-06-23 09:49:14,2010-06-21,WSH,Bailey Donald,"CEO, Willis North America",S - Sale,$32.60,-1675,64219,-3%,"-$54,605",-2.0,-5.0,1.0,8.0,WTW
+701,,2010-06-23 09:49:13,2010-06-21,WSH,Hearn Peter C,"CEO, Willis Re",S - Sale,$32.60,-1425,83169,-2%,"-$46,455",-2.0,-5.0,1.0,8.0,WTW
+702,A,2010-05-13 10:59:21,2010-05-03,WSH,Lane Wendy E,Dir,A - Grant,$0.00,2869,7589,+61%,+$0,-1.0,-5.0,-4.0,0.0,WTW
+703,,2010-05-07 17:19:23,2010-05-05,WSH,Sztuka Susan A,Group HR Dir,S - Sale,$33.39,-1352,14154,-9%,"-$45,149",4.0,3.0,-4.0,2.0,WTW
+704,,2010-05-07 17:19:19,2010-05-05,WSH,Ciongoli Adam Grey,GC,S - Sale,$33.36,-5780,42120,-12%,"-$192,805",4.0,3.0,-4.0,2.0,WTW
+705,,2010-05-07 17:19:18,2010-05-05,WSH,Bailey Donald,"CEO, Willis North America",S - Sale,$33.35,-6220,65894,-9%,"-$207,412",4.0,3.0,-4.0,2.0,WTW
+706,,2010-05-07 17:19:14,2010-05-06,WSH,Wright Timothy D,COO,S - Sale,$32.83,-7798,32202,-19%,"-$256,041",4.0,3.0,-4.0,2.0,WTW
+707,,2010-05-07 17:19:14,2010-05-06,WSH,Wood Stephen Edward,Interim CFO,S - Sale,$32.97,-971,4029,-19%,"-$32,017",4.0,3.0,-4.0,2.0,WTW
+708,,2010-05-07 17:19:08,2010-05-06,WSH,Turvill Sarah J,"COB, CEO, Willis Intl",S - Sale,$32.83,-7798,150250,-5%,"-$255,996",4.0,3.0,-4.0,2.0,WTW
+709,,2010-05-07 17:19:06,2010-05-05,WSH,Hearn Peter C,"CEO, Willis Re",S - Sale,$33.35,-5355,84173,-6%,"-$178,605",4.0,3.0,-4.0,2.0,WTW
+710,,2010-05-07 17:19:02,2010-05-06,WSH,Millwater Grahame J,Pres,S - Sale,$32.77,-15913,159826,-9%,"-$521,526",4.0,3.0,-4.0,2.0,WTW
+711,,2010-05-07 17:19:00,2010-05-06,WSH,Margrett David,"COB, CEO, Willis Limited",S - Sale,$32.83,-7796,46264,-14%,"-$255,929",4.0,3.0,-4.0,2.0,WTW
+712,,2010-05-05 17:12:59,2010-05-03,WSH,Lane Wendy E,Dir,A - Grant,$0.00,2869,12514,+30%,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+713,,2010-05-05 17:12:59,2010-05-03,WSH,Roberts Douglas B,Dir,A - Grant,$0.00,2869,15940,+22%,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+714,,2010-05-05 17:12:58,2010-05-03,WSH,Kravit Robyn S,Dir,A - Grant,$0.00,2869,7686,+60%,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+715,,2010-05-05 17:12:51,2010-05-03,WSH,Gardner Roy,Dir,A - Grant,$0.00,2869,14514,+25%,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+716,,2010-05-05 17:12:49,2010-05-03,WSH,Bradley William W,Dir,A - Grant,$0.00,2869,12888,+29%,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+717,,2010-05-05 17:12:49,2010-05-03,WSH,Califano Joseph A,Dir,A - Grant,$0.00,2869,11514,+33%,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+718,,2010-05-05 17:12:46,2010-05-03,WSH,Lane Jeffrey B/,Dir,A - Grant,$0.00,2869,7686,+60%,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+719,,2010-05-05 17:12:44,2010-05-03,WSH,Catalano Anna C,Dir,A - Grant,$0.00,2869,9514,+43%,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+720,,2010-05-05 17:12:44,2010-05-03,WSH,Hanley Jeremy,Dir,A - Grant,$0.00,2869,12514,+30%,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+721,,2010-05-05 17:12:39,2010-05-03,WSH,McCann James F,Dir,A - Grant,$0.00,2869,10014,+40%,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+722,,2010-05-05 17:12:31,2010-05-03,WSH,Somers Michael J.,Dir,A - Grant,$0.00,2869,2869,New,+$0,-2.0,-1.0,-5.0,-2.0,WTW
+723,,2010-03-24 16:28:19,2010-03-23,WSH,McCann James F,Dir,P - Purchase,$31.61,500,7145,+8%,"+$15,805",1.0,2.0,6.0,0.0,WTW
+724,,2010-03-22 09:48:22,2010-03-18,WSH,Sztuka Susan A,Group HR Dir,S - Sale,$31.92,-235,15504,-1%,"-$7,501",1.0,2.0,6.0,1.0,WTW
+725,M,2010-03-18 17:36:21,2010-03-16,WSH,Hearn Peter C,"CEO, Willis Re",S - Sale,$31.68,-4095,89528,-4%,"-$129,724",-1.0,-1.0,2.0,0.0,WTW
+726,M,2010-03-18 17:36:21,2010-03-16,WSH,Millwater Grahame J,Pres,S - Sale,$31.79,-3622,175739,-2%,"-$115,160",-1.0,-1.0,2.0,0.0,WTW
+727,M,2010-03-18 17:36:18,2010-03-16,WSH,Turvill Sarah J,"COB, CEO, Willis Intl",S - Sale,$31.80,-1482,158048,-1%,"-$47,132",-1.0,-1.0,2.0,0.0,WTW
+728,M,2010-03-18 17:36:17,2010-03-16,WSH,Margrett David,"COB, CEO, Willis Limited",S - Sale,$31.79,-1649,54060,-3%,"-$52,419",-1.0,-1.0,2.0,0.0,WTW
+729,M,2010-03-18 17:16:50,2010-03-16,WSH,Bailey Donald,"CEO, Willis North America",S - Sale,$31.70,-1705,72114,-2%,"-$54,054",-1.0,-1.0,2.0,0.0,WTW
+730,,2010-03-08 10:00:05,2010-03-04,WSH,Hearn Peter C,"CEO, Willis Re",S - Sale,$30.47,-2400,93623,-2%,"-$73,130",0.0,3.0,4.0,0.0,WTW
+731,,2010-03-04 16:48:19,2010-03-02,WSH,Turvill Sarah J,"COB, CEO, Willis Intl",S - Sale,$30.27,-932,159530,-1%,"-$28,212",1.0,2.0,4.0,-3.0,WTW
+732,,2010-03-04 16:48:12,2010-03-02,WSH,Bailey Donald,"CEO, Willis North America",S - Sale,$30.21,-1105,73819,-1%,"-$33,383",1.0,2.0,4.0,-3.0,WTW
+733,,2010-03-04 16:48:12,2010-03-02,WSH,Millwater Grahame J,Pres,S - Sale,$30.27,-2051,179361,-1%,"-$62,086",1.0,2.0,4.0,-3.0,WTW
+734,,2010-03-03 12:52:49,2010-03-01,WSH,Plumeri Joseph J,"COB, CEO",A - Grant,$0.00,69812,3647672,+2%,+$0,0.0,3.0,4.0,-2.0,WTW
+735,A,2010-02-23 16:12:05,2009-06-22,WSH,Hearn Peter C,"CEO, Willis Re",M - OptEx,$0.00,3571,19649,+22%,+$0,0.0,3.0,9.0,4.0,WTW
+736,A,2010-02-23 16:12:05,2009-06-24,WSH,Hearn Peter C,"CEO, Willis Re",S - Sale,$26.20,-1425,19649,-7%,"-$37,337",0.0,3.0,9.0,4.0,WTW
+737,A,2010-02-23 15:46:52,2010-02-03,WSH,Sztuka Susan A,Group HR Dir,A - Grant,$0.00,10000,15741,+174%,+$0,1.0,4.0,10.0,5.0,WTW
+738,A,2010-02-23 15:43:22,2009-03-17,WSH,Sztuka Susan A,Group HR Dir,M - OptEx,$0.00,578,1402,+70%,+$0,1.0,4.0,10.0,5.0,WTW
+739,AM,2010-02-23 15:43:22,2009-03-18,WSH,Sztuka Susan A,Group HR Dir,S - Sale,$22.28,-211,1402,-13%,"-$4,701",1.0,4.0,10.0,5.0,WTW
+740,A,2010-02-23 15:36:39,2010-02-03,WSH,Hearn Peter C,"CEO, Willis Re",A - Grant,$0.00,40000,96023,+71%,+$0,1.0,4.0,10.0,5.0,WTW
+741,D,2010-02-04 15:29:27,2010-02-03,WSH,Turvill Sarah J,"COB, CEO, Willis Intl",A - Grant,$0.00,40000,160462,+33%,+$0,3.0,1.0,12.0,14.0,WTW
+742,,2010-02-04 15:29:25,2010-02-03,WSH,Plumeri Joseph J,"COB, CEO",A - Grant,$0.00,200000,3577860,+6%,+$0,3.0,1.0,12.0,14.0,WTW
+743,D,2010-02-04 15:29:24,2010-02-03,WSH,Hearn Peter C,"CEO, Willis Re",A - Grant,$0.00,40000,94431,+73%,+$0,3.0,1.0,12.0,14.0,WTW
+744,D,2010-02-04 15:29:23,2010-02-03,WSH,Ciongoli Adam Grey,GC,A - Grant,$0.00,40000,47900,+506%,+$0,3.0,1.0,12.0,14.0,WTW
+745,D,2010-02-04 15:29:21,2010-02-03,WSH,Regan Patrick,"Group COO, CFO",A - Grant,$0.00,60000,82442,+267%,+$0,3.0,1.0,12.0,14.0,WTW
+746,D,2010-02-04 15:29:18,2010-02-03,WSH,Margrett David,"COB, CEO, Willis Limited",A - Grant,$0.00,40000,55709,+255%,+$0,3.0,1.0,12.0,14.0,WTW
+747,D,2010-02-04 15:29:17,2010-02-03,WSH,Sztuka Susan A,Group HR Dir,A - Grant,$0.00,10000,14868,+205%,+$0,3.0,1.0,12.0,14.0,WTW
+748,D,2010-02-04 15:29:15,2010-02-03,WSH,Millwater Grahame J,Pres,A - Grant,$0.00,80000,181412,+79%,+$0,3.0,1.0,12.0,14.0,WTW
+749,D,2010-02-04 15:29:14,2010-02-03,WSH,Wright Timothy D,COO,A - Grant,$0.00,40000,40000,New,+$0,3.0,1.0,12.0,14.0,WTW
+750,D,2010-02-04 15:29:12,2010-02-03,WSH,Bailey Donald,"CEO, Willis North America",A - Grant,$0.00,40000,74924,+115%,+$0,3.0,1.0,12.0,14.0,WTW
+751,D,2009-12-23 20:31:50,2009-12-23,WSH,Roberts Douglas B,Dir,M - OptEx,$0.00,6426,13071,+97%,+$0,0.0,1.0,3.0,20.0,WTW
+752,D,2009-12-23 20:30:40,2009-12-23,WSH,Bradley William W,Dir,M - OptEx,$0.00,3374,10019,+51%,+$0,0.0,1.0,3.0,20.0,WTW
+753,,2009-12-02 17:21:38,2009-12-01,WSH,Hanley Jeremy,Dir,M - OptEx,$0.00,681,9645,+8%,+$0,-1.0,-2.0,-3.0,17.0,WTW
+754,,2009-12-02 10:28:07,2009-12-01,WSH,McCann James F,Dir,M - OptEx,$0.00,681,6645,+11%,+$0,0.0,-2.0,-2.0,17.0,WTW
+755,,2009-12-02 10:28:05,2009-12-01,WSH,Catalano Anna C,Dir,M - OptEx,$0.00,681,6645,+11%,+$0,0.0,-2.0,-2.0,17.0,WTW
+756,,2009-12-02 10:28:04,2009-12-01,WSH,Kravit Robyn S,Dir,M - OptEx,$0.00,681,4817,+16%,+$0,0.0,-2.0,-2.0,17.0,WTW
+757,,2009-12-02 10:28:02,2009-12-01,WSH,Califano Joseph A,Dir,M - OptEx,$0.00,681,8645,+9%,+$0,0.0,-2.0,-2.0,17.0,WTW
+758,,2009-12-02 10:28:00,2009-12-01,WSH,Roberts Douglas B,Dir,M - OptEx,$0.00,681,6645,+11%,+$0,0.0,-2.0,-2.0,17.0,WTW
+759,,2009-12-02 10:28:00,2009-12-01,WSH,Bradley William W,Dir,M - OptEx,$0.00,681,6645,+11%,+$0,0.0,-2.0,-2.0,17.0,WTW
+760,D,2009-06-24 13:17:25,2009-06-22,WSH,Hearn Peter C,"CEO, Willis Re",C - Converted deriv,$0.00,3571,18164,-16%,$0,1.0,0.0,1.0,3.0,WTW
+761,D,2009-06-24 13:17:25,2009-06-24,WSH,Hearn Peter C,"CEO, Willis Re",S - Sale+OE,$26.20,-1425,18164,-7%,"-$37,337",1.0,0.0,1.0,3.0,WTW
+762,D,2009-06-24 13:04:55,2009-06-22,WSH,Bailey Donald,"CEO, Willis North America",C - Converted deriv,$0.00,3571,16602,-18%,$0,1.0,0.0,1.0,3.0,WTW
+763,D,2009-06-24 13:04:55,2009-06-24,WSH,Bailey Donald,"CEO, Willis North America",S - Sale+OE,$26.07,-1220,16602,-7%,"-$31,811",1.0,0.0,1.0,3.0,WTW
+764,D,2009-05-06 16:11:54,2009-05-05,WSH,Lane Wendy E,Dir,C - Converted deriv,$0.00,2042,6870,-23%,$0,-2.0,-2.0,3.0,5.0,WTW
+765,D,2009-05-06 13:55:48,2009-05-05,WSH,Lane Jeffrey B/,Dir,C - Converted deriv,$0.00,2042,2042,-50%,$0,1.0,-1.0,4.0,6.0,WTW
+766,D,2009-05-06 13:09:04,2009-05-05,WSH,Gardner Roy,Dir,C - Converted deriv,$0.00,2042,8870,-19%,$0,1.0,-1.0,4.0,6.0,WTW
+767,D,2009-03-19 12:05:44,2009-03-17,WSH,Ciongoli Adam Grey,GC,C - Converted deriv,$0.00,1092,648,-63%,$0,-3.0,0.0,7.0,27.0,WTW
+768,D,2009-03-19 12:05:44,2009-03-17,WSH,Ciongoli Adam Grey,GC,S - Sale+OE,$21.17,-444,648,-41%,"-$9,399",-3.0,0.0,7.0,27.0,WTW
+769,D,2009-03-19 11:54:53,2009-03-17,WSH,Sztuka Susan A,Group HR Dir,C - Converted deriv,$0.00,578,1030,-36%,$0,-3.0,0.0,7.0,27.0,WTW
+770,DM,2009-03-19 11:54:53,2009-03-18,WSH,Sztuka Susan A,Group HR Dir,S - Sale+OE,$22.28,-211,1030,-17%,"-$4,701",-3.0,0.0,7.0,27.0,WTW
+771,,2009-03-19 10:14:06,2009-03-18,WSH,Regan Patrick,"Group COO, CFO",S - Sale,$22.63,-733,9413,-7%,"-$16,584",-3.0,0.0,7.0,27.0,WTW
+772,DM,2009-03-18 15:25:47,2009-03-16,WSH,Turvill Sarah J,"COB, CEO, Willis Int'l.",C - Converted deriv,$0.00,3460,111670,-3%,$0,1.0,2.0,6.0,28.0,WTW
+773,DM,2009-03-18 15:18:40,2009-03-16,WSH,Regan Patrick,"Group COO, CFO",C - Converted deriv,$0.00,5383,10146,-35%,$0,1.0,2.0,6.0,28.0,WTW
+774,D,2009-03-18 15:18:40,2009-03-17,WSH,Regan Patrick,"Group COO, CFO",S - Sale+OE,$21.71,-1527,10146,-13%,"-$33,146",1.0,2.0,6.0,28.0,WTW
+775,DM,2009-03-18 14:32:15,2009-03-16,WSH,Millwater Grahame J,Pres,C - Converted deriv,$0.00,8461,80939,-9%,$0,1.0,2.0,6.0,28.0,WTW
+776,D,2009-03-18 14:32:15,2009-03-17,WSH,Millwater Grahame J,Pres,S - Sale+OE,$21.71,-3577,80939,-4%,"-$77,646",1.0,2.0,6.0,28.0,WTW
+777,DM,2009-03-18 14:23:47,2009-03-16,WSH,Plumeri Joseph J,"COB, CEO",C - Converted deriv,$0.00,33430,3233056,-1%,$0,1.0,2.0,6.0,28.0,WTW
+778,DM,2009-03-18 14:19:30,2009-03-16,WSH,Margrett David,"Chair., CEO, Willis Ltd. HRH",C - Converted deriv,$0.00,3845,6174,-38%,$0,1.0,2.0,6.0,28.0,WTW
+779,DM,2009-03-18 14:12:50,2009-03-16,WSH,Hearn Peter C,CEO WILLIS RE,C - Converted deriv,$0.00,10246,16018,-39%,$0,1.0,2.0,6.0,28.0,WTW
+780,DM,2009-03-18 14:12:50,2009-03-16,WSH,Hearn Peter C,CEO WILLIS RE,S - Sale+OE,$21.65,-3745,16018,-19%,"-$81,061",1.0,2.0,6.0,28.0,WTW
+781,DM,2009-03-18 14:08:28,2009-03-16,WSH,Gribben Allan Crawford Adamson,"Global Sales, Mrktg Dir",C - Converted deriv,$0.00,3845,12618,-23%,$0,1.0,2.0,6.0,28.0,WTW
+782,D,2009-03-18 14:08:28,2009-03-17,WSH,Gribben Allan Crawford Adamson,"Global Sales, Mrktg Dir",S - Sale+OE,$21.71,-1626,12618,-11%,"-$35,295",1.0,2.0,6.0,28.0,WTW
+783,DM,2009-03-18 14:06:29,2009-03-16,WSH,Bailey Donald,"COB, CEO, Willis HRH",C - Converted deriv,$0.00,3932,14251,-22%,$0,1.0,2.0,6.0,28.0,WTW
+784,,2008-10-31 12:17:54,2008-10-30,WSH,Crowley Michael F,"Pres, Willis HRH",S - Sale,$26.60,-7945,0,-100%,"-$211,322",0.0,-4.0,-18.0,5.0,WTW
+785,,2008-10-28 18:36:36,2008-10-28,WSH,Plumeri Joseph J,"COB, CEO",P - Purchase,$21.84,250000,3199626,+8%,"+$5,459,375",12.0,12.0,-4.0,16.0,WTW
+786,D,2008-08-04 12:11:32,2008-08-04,WSH,Millwater Grahame J,Pres,C - Converted deriv,$0.00,13902,76055,-15%,$0,-1.0,0.0,12.0,-19.0,WTW
+787,D,2008-08-04 12:11:32,2008-08-04,WSH,Millwater Grahame J,Pres,S - Sale+OE,$30.77,-5589,76055,-7%,"-$172,000",-1.0,0.0,12.0,-19.0,WTW
+788,,2008-06-27 11:49:33,2008-06-26,WSH,Hearn Peter C,"CEO, Willis Re",S - Sale,$33.00,-950,9517,-9%,"-$31,350",0.0,-2.0,-6.0,-27.0,WTW
+789,D,2008-06-24 11:24:13,2008-06-20,WSH,Hearn Peter C,"CEO, Willis Re",C - Converted deriv,$0.00,3571,10467,-25%,$0,-1.0,-5.0,-4.0,-26.0,WTW
+790,D,2008-06-24 11:23:23,2008-06-20,WSH,Bailey Donald,"CEO, Willis North America",C - Converted deriv,$0.00,3571,10319,-26%,$0,-1.0,-5.0,-4.0,-26.0,WTW
+791,D,2008-05-01 13:40:58,2008-04-30,WSH,Gardner Roy,Dir,C - Converted deriv,$0.00,1828,6828,-21%,$0,6.0,4.0,3.0,-32.0,WTW
+792,D,2008-05-01 13:35:02,2008-04-30,WSH,McCann James F,Dir,C - Converted deriv,$0.00,1828,1828,-50%,$0,6.0,4.0,3.0,-32.0,WTW
+793,D,2008-05-01 13:31:43,2008-04-30,WSH,Catalano Anna C,Dir,C - Converted deriv,$0.00,1828,1828,-50%,$0,6.0,4.0,3.0,-32.0,WTW
+794,D,2008-05-01 13:28:40,2008-04-30,WSH,Lane Wendy E,Dir,C - Converted deriv,$0.00,1828,4828,-27%,$0,6.0,4.0,3.0,-32.0,WTW
+795,D,2008-05-01 13:11:46,2008-04-30,WSH,Bradley William W,Dir,C - Converted deriv,$0.00,1828,1828,-50%,$0,6.0,4.0,3.0,-32.0,WTW
+796,D,2008-03-18 14:52:24,2008-03-14,WSH,Millwater Grahame J,Pres,C - Converted deriv,$0.00,5631,67742,-8%,$0,3.0,8.0,8.0,-1.0,WTW
+797,D,2008-03-18 14:45:09,2008-03-14,WSH,Plumeri Joseph J,"COB, CEO",C - Converted deriv,$0.00,22500,2949626,-1%,$0,3.0,8.0,8.0,-1.0,WTW
+798,D,2008-03-18 14:19:13,2008-03-14,WSH,Margrett David,"COB, CEO, Willis Limited",C - Converted deriv,$0.00,2559,2629,-49%,$0,3.0,8.0,8.0,-1.0,WTW
+799,D,2008-03-18 14:16:41,2008-03-14,WSH,Turvill Sarah J,"COB, Willis International",C - Converted deriv,$0.00,2303,108210,-2%,$0,3.0,8.0,8.0,-1.0,WTW
+800,D,2008-03-18 14:08:10,2008-03-14,WSH,Regan Patrick,"COO, CFO",C - Converted deriv,$0.00,3583,6290,-36%,$0,3.0,8.0,8.0,-1.0,WTW
+801,D,2008-03-18 13:49:20,2008-03-14,WSH,Gribben Allan Crawford Adamson,"CEO, Willis International",C - Converted deriv,$0.00,2559,10399,-20%,$0,3.0,8.0,8.0,-1.0,WTW
+802,D,2008-03-18 13:46:45,2008-03-14,WSH,Bailey Donald,"CEO, Willis North America",C - Converted deriv,$0.00,2647,6748,-28%,$0,3.0,8.0,8.0,-1.0,WTW
+803,D,2008-03-18 13:44:38,2008-03-14,WSH,Hearn Peter C,"CEO, Willis Re",C - Converted deriv,$0.00,6896,6896,-50%,$0,3.0,8.0,8.0,-1.0,WTW
+804,D,2007-11-07 13:17:55,2007-11-06,WSH,Gribben Allan Crawford Adamson,"CEO, Willis International",X - OptEx,$40.72,193,7840,-2%,"$7,859",-1.0,-1.0,-3.0,-10.0,WTW
+805,,2007-06-01 13:09:36,2007-05-31,WSH,London Christopher M,"Global Sales, Mktg Dir",D - Sale to issuer,$46.10,-50000,50365,-50%,"-$2,304,995",0.0,-2.0,-4.0,-13.0,WTW
+806,D,2007-03-30 13:40:19,2007-03-30,WSH,Gribben Allan Crawford Adamson,"CEO, Willis International",X - OptEx,$0.00,4153,7647,-35%,$0,1.0,2.0,5.0,6.0,WTW
+807,D,2007-03-05 13:56:58,2007-03-02,WSH,Margrett David,Chief Exec - Glbl Specialties,X - OptEx,$1.95,70,70,-50%,$136,-1.0,1.0,0.0,0.0,WTW
+808,D,2007-02-22 13:16:10,2007-02-20,WSH,Bartholomay William C,Group Vice COB,C - Converted deriv,$0.00,968,5968,-14%,$0,-1.0,-2.0,-1.0,-3.0,WTW
+809,,2007-02-14 09:33:55,2007-02-12,WSH,Bucknall Richard J S,Vice COB,S - Sale,$40.30,-250000,41909,-86%,"-$10,075,100",1.0,0.0,-1.0,0.0,WTW
+810,D,2006-12-21 13:23:37,2006-07-07,WSH,Colraine Thomas,"VC, Co-COO",P - Purchase,$32.04,2,164356,0%,+$64,0.0,0.0,4.0,14.0,WTW
+811,D,2006-12-21 13:23:37,2006-12-21,WSH,Colraine Thomas,"VC, Co-COO",X - OptEx,$30.75,98,164356,0%,"$3,014",0.0,0.0,4.0,14.0,WTW
+812,,2006-09-12 13:35:01,2006-09-12,WSH,Hanley Jeremy,Dir,P - Purchase,$35.86,3000,3000,New,"+$107,580",1.0,6.0,7.0,11.0,WTW
+813,D,2006-09-01 07:05:23,2006-08-30,WSH,Millwater Grahame J,COB - Willis Re,S - Sale+OE,$36.29,-30200,62111,-33%,"-$1,095,958",1.0,-1.0,5.0,10.0,WTW
+814,D,2006-09-01 07:05:23,2006-08-30,WSH,Millwater Grahame J,COB - Willis Re,X - OptEx,$3.81,64685,62111,-51%,"$246,450",1.0,-1.0,5.0,10.0,WTW
+815,,2006-08-15 07:08:35,2006-08-14,WSH,Gardner Roy,Dir,P - Purchase,$36.59,5000,5000,New,"+$182,966",1.0,1.0,1.0,14.0,WTW
+816,D,2006-08-14 08:22:05,2006-08-08,WSH,Vitale Mario,CEO North America,S - Sale+OE,$36.17,-80000,101101,-44%,"-$2,893,248",-1.0,1.0,-1.0,12.0,WTW
+817,D,2006-08-14 08:22:05,2006-08-07,WSH,Vitale Mario,CEO North America,X - OptEx,$3.74,50000,101101,-33%,"$187,000",-1.0,1.0,-1.0,12.0,WTW
+818,D,2006-08-10 11:36:14,2006-08-09,WSH,Turvill Sarah J,"CEO Int. Ops excl UK, NA",X - OptEx,$1.91,3050,105907,-3%,"$5,826",0.0,1.0,-1.0,12.0,WTW
+819,D,2006-05-12 12:36:33,2006-05-10,WSH,Maycock Stephen G,Group HR Dir,S - Sale+OE,$34.39,-30030,52455,-36%,"-$1,032,783",0.0,1.0,-3.0,16.0,WTW
+820,D,2006-05-12 12:36:33,2006-05-10,WSH,Maycock Stephen G,Group HR Dir,X - OptEx,$3.77,64685,52455,-55%,"$243,862",0.0,1.0,-3.0,16.0,WTW
+821,A,2006-03-02 07:23:24,2006-02-28,WSH,Colraine Thomas,"VC, Co-COO, Grp Chief FO",S - Sale,$34.57,-25000,164256,-13%,"-$864,130",0.0,-4.0,-2.0,5.0,WTW
+822,,2006-03-01 12:55:36,2006-02-28,WSH,Colraine Thomas,"VC, Co-COO, Grp Chief FO",S - Sale,$34.57,-2500,164256,-1%,"-$86,413",2.0,-1.0,-1.0,8.0,WTW
+823,,2006-02-27 12:37:35,2006-02-24,WSH,Colraine Thomas,"VC, Co-COO, Grp Chief FO",G - Gift,$0.00,-50000,189256,+36%,-$0,-1.0,0.0,-2.0,6.0,WTW
+824,,2006-02-27 12:37:35,2006-02-24,WSH,Colraine Thomas,"VC, Co-COO, Grp Chief FO",S - Sale,$34.67,-25000,189256,-12%,"-$866,850",-1.0,0.0,-2.0,6.0,WTW
+825,D,2005-12-13 14:21:52,2005-12-09,WSH,Vitale Mario,CEO North America,S - Sale+OE,$37.30,-53384,131101,-29%,"-$1,991,469",1.0,1.0,2.0,-10.0,WTW
+826,D,2005-12-13 14:21:52,2005-12-09,WSH,Vitale Mario,CEO North America,X - OptEx,$3.51,100000,131101,-43%,"$351,080",1.0,1.0,2.0,-10.0,WTW
+827,D,2005-12-13 14:20:06,2005-12-09,WSH,Bucknall Richard J S,"Vice COB, Co-COO",S - Sale+OE,$37.25,-30299,291909,-9%,"-$1,128,670",1.0,1.0,2.0,-10.0,WTW
+828,D,2005-12-13 14:20:06,2005-12-09,WSH,Bucknall Richard J S,"Vice COB, Co-COO",X - OptEx,$3.51,37500,291909,-11%,"$131,655",1.0,1.0,2.0,-10.0,WTW
+829,DM,2005-12-13 14:19:29,2005-12-09,WSH,London Christopher M,COO Global Specialties,D - Sale to issuer,$37.23,-141849,98544,-59%,"-$5,281,345",1.0,1.0,2.0,-10.0,WTW
+830,D,2005-12-13 14:19:29,2005-12-09,WSH,London Christopher M,COO Global Specialties,X - OptEx,$3.47,184130,98544,-65%,"$639,194",1.0,1.0,2.0,-10.0,WTW
+831,D,2005-12-12 14:21:59,2005-12-08,WSH,Maycock Stephen G,Grp HR Dir,S - Sale+OE,$37.76,-197,17796,-1%,"-$7,439",-1.0,0.0,0.0,-9.0,WTW
+832,D,2005-12-12 14:21:59,2005-12-08,WSH,Maycock Stephen G,Grp HR Dir,X - OptEx,$33.70,197,17796,-1%,"$6,639",-1.0,0.0,0.0,-9.0,WTW
+833,D,2005-11-18 12:04:47,2005-11-16,WSH,Nuttall Scott C,Dir,S - Sale+OE,$36.00,-7543303,1177487,-86%,"-$271,558,908",1.0,1.0,-2.0,-7.0,WTW
+834,D,2005-11-18 12:03:26,2005-11-16,WSH,Golkin Perry,Dir,S - Sale+OE,$36.00,-7543303,1194987,-86%,"-$271,558,908",1.0,1.0,-2.0,-7.0,WTW
+835,D,2005-11-18 10:52:22,2005-11-16,WSH,Fisher James R,Dir,S - Sale+OE,$36.00,-56697,35669,-61%,"-$2,041,092",1.0,1.0,-2.0,-7.0,WTW
+836,D,2005-11-18 10:52:22,2005-11-16,WSH,Fisher James R,Dir,X - OptEx,$3.48,56697,35669,-61%,"$197,306",1.0,1.0,-2.0,-7.0,WTW
+837,,2005-06-30 12:34:04,2005-06-28,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.08,-25500,2919384,-1%,"-$818,018",0.0,0.0,2.0,16.0,WTW
+838,,2005-06-29 12:36:25,2005-06-28,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.24,-16100,2944884,-1%,"-$519,095",1.0,1.0,6.0,15.0,WTW
+839,,2005-06-28 09:23:50,2005-06-27,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.22,-75500,2960984,-2%,"-$2,432,547",1.0,2.0,2.0,17.0,WTW
+840,,2005-06-27 09:44:35,2005-06-24,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.27,-141000,3036484,-4%,"-$4,549,830",0.0,3.0,0.0,16.0,WTW
+841,,2005-06-24 08:02:27,2005-06-23,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.25,-142200,3177484,-4%,"-$4,586,504",0.0,2.0,0.0,16.0,WTW
+842,,2005-06-23 09:05:46,2005-06-22,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.02,-103200,3319684,-3%,"-$3,303,977",0.0,2.0,1.0,16.0,WTW
+843,,2005-06-22 12:31:34,2005-06-22,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$31.82,-61700,3422884,-2%,"-$1,963,402",1.0,2.0,2.0,18.0,WTW
+844,,2005-06-21 11:45:43,2005-06-20,WSH,Plumeri Joseph J,"Chariman, CEO",S - Sale,$31.54,-69000,3484584,-2%,"-$2,176,215",1.0,2.0,3.0,19.0,WTW
+845,,2005-06-20 12:18:07,2005-06-17,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$31.60,-56400,3553584,-2%,"-$1,781,987",0.0,2.0,4.0,19.0,WTW
+846,,2005-06-17 13:01:28,2005-06-16,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$31.52,-40500,3609984,-1%,"-$1,276,596",1.0,3.0,5.0,21.0,WTW
+847,,2005-06-17 13:00:45,2005-06-16,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$31.64,-99100,3650484,-3%,"-$3,135,374",1.0,3.0,5.0,21.0,WTW
+848,,2005-06-17 12:59:43,2005-06-15,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$31.68,-64500,3749584,-2%,"-$2,043,555",1.0,3.0,5.0,21.0,WTW
+849,,2005-06-17 12:58:29,2005-06-15,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$31.54,-55400,3814084,-1%,"-$1,747,495",1.0,3.0,5.0,21.0,WTW
+850,,2005-06-15 11:17:21,2005-06-14,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.30,-42700,4008384,-1%,"-$1,379,224",-3.0,-2.0,3.0,16.0,WTW
+851,,2005-06-15 11:14:13,2005-06-14,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.39,-27100,4051084,-1%,"-$877,717",-3.0,-2.0,3.0,16.0,WTW
+852,,2005-06-15 11:11:11,2005-06-13,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.60,-41100,4078184,-1%,"-$1,339,718",-3.0,-2.0,3.0,16.0,WTW
+853,,2005-06-15 11:07:45,2005-06-13,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.60,-38500,4119284,-1%,"-$1,255,207",-3.0,-2.0,3.0,16.0,WTW
+854,,2005-06-13 14:48:37,2005-06-10,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.16,-55100,4018884,-1%,"-$1,772,198",2.0,-1.0,1.0,19.0,WTW
+855,,2005-06-13 14:47:33,2005-06-10,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.27,-48700,4073984,-1%,"-$1,571,589",2.0,-1.0,1.0,19.0,WTW
+856,,2005-06-13 14:46:22,2005-06-10,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$32.30,-35100,4122684,-1%,"-$1,133,841",2.0,-1.0,1.0,19.0,WTW
+857,,2005-06-13 13:22:05,2005-06-10,WSH,Maycock Stephen G,Grp HR Dir,S - Sale,$32.29,-40000,17788,-69%,"-$1,291,600",2.0,-1.0,1.0,19.0,WTW
+858,,2005-06-10 09:56:23,2005-06-09,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$33.08,-42100,4157784,-1%,"-$1,392,571",-2.0,-4.0,0.0,16.0,WTW
+859,,2005-06-10 09:54:07,2005-06-09,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$33.10,-61500,4199884,-1%,"-$2,035,528",-2.0,-4.0,0.0,16.0,WTW
+860,,2005-06-09 11:04:39,2005-06-08,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$33.37,-66200,4261384,-2%,"-$2,208,967",-1.0,-6.0,-1.0,15.0,WTW
+861,,2005-06-09 11:01:50,2005-06-08,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$33.53,-39300,4327584,-1%,"-$1,317,641",-1.0,-6.0,-1.0,15.0,WTW
+862,,2005-06-08 13:25:36,2005-06-07,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$33.66,-76400,4366884,-2%,"-$2,571,573",-1.0,-3.0,-2.0,14.0,WTW
+863,,2005-06-07 11:25:31,2005-06-06,WSH,Plumeri Joseph J,"COB, CEO",G - Gift,$0.00,-73800,4443284,-2%,-$0,0.0,-3.0,-3.0,13.0,WTW
+864,,2005-06-07 11:25:31,2005-06-06,WSH,Plumeri Joseph J,"COB, CEO",S - Sale,$33.68,-76100,4443284,-2%,"-$2,562,855",0.0,-3.0,-3.0,13.0,WTW
+865,M,2005-06-03 11:21:40,2003-04-16,WSH,Maycock Stephen G,Grp HR Dir,P - Purchase,$34.54,2570,57788,+5%,"+$88,780",0.0,-3.0,-2.0,11.0,WTW
+866,,2005-06-03 11:21:40,2005-06-01,WSH,Maycock Stephen G,Grp HR Dir,S - Sale,$34.30,-20000,57788,-26%,"-$686,000",0.0,-3.0,-2.0,11.0,WTW
+867,D,2005-05-05 09:01:53,2005-05-03,WSH,Colraine Thomas,"VC, Co-COO, Grp Chief FO",G - Gift,$0.00,-1000,0,-100%,-$0,-1.0,-3.0,-5.0,7.0,WTW
+868,D,2005-05-05 09:01:53,2005-05-03,WSH,Colraine Thomas,"VC, Co-COO, Grp Chief FO",S - Sale+OE,$34.53,-249744,0,-100%,"-$8,623,211",-1.0,-3.0,-5.0,7.0,WTW
+869,D,2005-05-05 09:01:53,2005-05-03,WSH,Colraine Thomas,"VC, Co-COO, Grp Chief FO",X - OptEx,$2.99,405547,0,-100%,"$1,212,000",-1.0,-3.0,-5.0,7.0,WTW
+870,D,2005-05-05 08:57:03,2005-05-03,WSH,Bucknall Richard J S,"Vice COB, Co-COO",S - Sale+OE,$34.53,-84460,397208,-18%,"-$2,916,252",-1.0,-3.0,-5.0,7.0,WTW
+871,D,2005-05-05 08:57:03,2005-05-03,WSH,Bucknall Richard J S,"Vice COB, Co-COO",X - OptEx,$3.03,181158,397208,-31%,"$548,909",-1.0,-3.0,-5.0,7.0,WTW
+872,D,2004-12-23 07:51:12,2004-12-22,WSH,Millwater Grahame J,"CEO Global Mkts, Willis Re",X - OptEx,$13.50,393,22908,-2%,"$5,306",0.0,1.0,-6.0,-20.0,WTW
+873,D,2004-12-03 10:20:10,2004-12-01,WSH,Turvill Sarah J,"CEO Int. Ops excl UK, NA",S - Sale+OE,$38.33,-52475,82107,-39%,"-$2,011,367",0.0,3.0,7.0,-12.0,WTW
+874,D,2004-12-03 10:20:10,2004-12-01,WSH,Turvill Sarah J,"CEO Int. Ops excl UK, NA",X - OptEx,$3.32,59189,82107,-42%,"$196,507",0.0,3.0,7.0,-12.0,WTW
+875,D,2004-12-03 10:18:31,2004-12-01,WSH,Millwater Grahame J,"CEO Global Mkts, Willis Re",S - Sale+OE,$38.33,-112800,22515,-83%,"-$4,323,624",0.0,3.0,7.0,-12.0,WTW
+876,D,2004-12-03 10:18:31,2004-12-01,WSH,Millwater Grahame J,"CEO Global Mkts, Willis Re",X - OptEx,$3.32,135315,22515,-86%,"$449,246",0.0,3.0,7.0,-12.0,WTW
+877,,2004-12-03 10:17:50,2004-12-01,WSH,Vitale Mario,CEO North America,S - Sale,$38.33,-60000,84485,-42%,"-$2,299,800",0.0,3.0,7.0,-12.0,WTW
+878,,2004-12-03 10:15:20,2004-12-01,WSH,Maycock Stephen G,Grp HR Dir,S - Sale,$38.33,-60000,75218,-44%,"-$2,299,800",0.0,3.0,7.0,-12.0,WTW
+879,,2004-12-03 10:14:22,2004-12-01,WSH,London Christopher M,COO Global Specialties,S - Sale,$38.33,-70000,56263,-55%,"-$2,683,100",0.0,3.0,7.0,-12.0,WTW
+880,,2004-12-03 10:12:18,2004-12-01,WSH,Bucknall Richard J S,"Vice COB, Co-COO",S - Sale,$38.33,-90000,300510,-23%,"-$3,449,700",0.0,3.0,7.0,-12.0,WTW
+881,D,2004-11-30 11:14:46,2004-11-29,WSH,Plumeri Joseph J,"COB, CEO",S - Sale+OE,$36.88,-910080,4593184,-17%,"-$33,563,750",1.0,3.0,10.0,-8.0,WTW
+882,D,2004-11-30 11:14:46,2004-11-29,WSH,Plumeri Joseph J,"COB, CEO",X - OptEx,$3.67,2204779,4593184,-32%,"$8,091,539",1.0,3.0,10.0,-8.0,WTW
+883,,2004-11-04 10:27:26,2004-11-03,WSH,Maycock Stephen G,Grp HR Dir,S - Sale,$35.92,-24,135218,0%,-$862,0.0,4.0,8.0,-1.0,WTW
+884,,2004-09-16 11:22:39,2004-09-14,WSH,Maycock Stephen G,Grp HR Dir,S - Sale,$36.25,-26,135242,0%,-$943,-1.0,1.0,-4.0,4.0,WTW
+885,,2004-09-16 11:19:46,2004-09-14,WSH,Colraine Thomas,"VC, Co-COO, Grp Chief FO",S - Sale,$36.25,-50,59443,0%,"-$1,813",-1.0,1.0,-4.0,4.0,WTW
+886,D,2004-08-09 12:18:01,2004-08-06,WSH,Bucknall Richard J S,"Vice COB, Co-COO",X - OptEx,$13.50,393,390510,0%,"$5,306",0.0,2.0,9.0,17.0,WTW
+887,D,2004-08-09 12:13:43,2004-08-06,WSH,Colraine Thomas,"VC, Co-COO, Grp Chief FO",X - OptEx,$13.50,393,59493,-1%,"$5,306",0.0,2.0,9.0,17.0,WTW
+888,D,2004-08-09 12:13:40,2004-08-06,WSH,Turvill Sarah J,"CEO Int. Ops excl UK, NA",X - OptEx,$13.50,393,75393,-1%,"$5,306",0.0,2.0,9.0,17.0,WTW
+889,D,2004-08-09 12:09:56,2004-08-06,WSH,London Christopher M,COO Global Specialties,X - OptEx,$13.50,393,126263,0%,"$5,306",0.0,2.0,9.0,17.0,WTW
+890,D,2004-08-09 12:09:31,2004-08-06,WSH,Pelly John M,"COB Global Mkts, Willis Re",X - OptEx,$13.50,393,211893,0%,"$5,306",0.0,2.0,9.0,17.0,WTW
+891,D,2004-08-09 12:07:41,2004-08-06,WSH,Maycock Stephen G,Grp HR Dir,X - OptEx,$13.50,393,135268,0%,"$5,306",0.0,2.0,9.0,17.0,WTW
+892,,2004-08-04 06:23:40,2004-08-03,WSH,Millwater Grahame J,"CEO Global Mkts, Willis Re",S - Sale,$34.52,-31138,0,-100%,"-$1,074,980",-1.0,-1.0,4.0,15.0,WTW
+893,,2004-08-04 06:19:12,2004-08-03,WSH,Colraine Thomas,"VC, CO-COO, GRP CHIEF FO.",S - Sale,$34.52,-50000,59100,-46%,"-$1,726,155",-1.0,-1.0,4.0,15.0,WTW
+894,,2004-06-22 11:46:30,2004-06-18,WSH,Coolick Janet,Group CEO,M - OptEx,$13.50,10000,24583,+69%,"+$135,000",1.0,2.0,-2.0,17.0,WTW
+895,,2004-06-22 11:46:30,2004-06-18,WSH,Coolick Janet,Group CEO,S - Sale,$37.06,-3550,24583,-13%,"-$131,563",1.0,2.0,-2.0,17.0,WTW
+896,D,2004-05-10 09:35:21,2004-05-06,WSH,Bucknall Richard J S,"Vice COB, Co-CEO",S - Sale+OE,$36.63,-43874,390117,-10%,"-$1,607,232",-2.0,-1.0,5.0,3.0,WTW
+897,D,2004-05-10 09:35:21,2004-05-06,WSH,Bucknall Richard J S,"Vice COB, Co-CEO",X - OptEx,$3.03,93842,390117,-19%,"$284,341",-2.0,-1.0,5.0,3.0,WTW
+898,D,2004-05-10 09:33:11,2004-05-06,WSH,Maycock Stephen G,Group HR Dir,S - Sale+OE,$36.63,-39694,134875,-23%,"-$1,454,106",-2.0,-1.0,5.0,3.0,WTW
+899,D,2004-05-10 09:33:11,2004-05-06,WSH,Maycock Stephen G,Group HR Dir,X - OptEx,$3.03,85315,134875,-39%,"$258,504",-2.0,-1.0,5.0,3.0,WTW
+900,D,2004-05-10 09:30:59,2004-05-06,WSH,Ratcliffe James A,CEO of Global Specialities,S - Sale+OE,$36.63,-10052,69754,-13%,"-$368,234",-2.0,-1.0,5.0,3.0,WTW
+901,D,2004-05-10 09:30:59,2004-05-06,WSH,Ratcliffe James A,CEO of Global Specialities,X - OptEx,$3.03,21189,69754,-23%,"$64,203",-2.0,-1.0,5.0,3.0,WTW
+902,,2004-05-04 09:29:33,2004-04-30,WSH,Maycock Stephen G,Group HR Dir,P - Purchase,$36.05,2,89254,0%,+$72,0.0,-6.0,-3.0,-2.0,WTW
+903,D,2004-03-24 12:23:25,2004-03-22,WSH,Fisher James R,Dir,S - Sale+OE,$37.03,-21836,35669,-38%,"-$808,500",-1.0,0.0,-1.0,-2.0,WTW
+904,D,2004-03-24 12:23:25,2004-03-22,WSH,Fisher James R,Dir,X - OptEx,$3.74,19385,35669,-35%,"$72,500",-1.0,0.0,-1.0,-2.0,WTW
+905,,2004-03-24 12:05:59,2004-03-22,WSH,Roberts George R,Dir,S - Sale,$37.03,-2980615,8717790,-25%,"-$110,360,251",-1.0,0.0,-1.0,-2.0,WTW
+906,,2004-03-24 11:55:55,2004-03-22,WSH,Golkin Perry,Dir,S - Sale,$37.03,-2980615,8751790,-25%,"-$110,360,251",-1.0,0.0,-1.0,-2.0,WTW
+907,,2004-03-24 11:54:25,2004-03-22,WSH,Nuttall Scott C,Dir,S - Sale,$37.03,-2980615,8720790,-25%,"-$110,360,251",-1.0,0.0,-1.0,-2.0,WTW
+908,,2004-03-24 11:13:54,2004-03-22,WSH,Kravis Henry R,Dir,S - Sale,$37.03,-2980615,8717790,-25%,"-$110,360,251",-1.0,0.0,-1.0,-2.0,WTW
+909,,2004-03-24 11:12:55,2004-03-22,WSH,Fisher Todd A,Dir,S - Sale,$37.03,-2980615,8725790,-25%,"-$110,360,251",-1.0,0.0,-1.0,-2.0,WTW
+910,D,2004-03-16 13:18:00,2004-03-15,WSH,Pelly John M,"Chairmn Willis Re, Global Mkts",S - Sale+OE,$36.82,-98500,211500,-32%,"-$3,626,662",2.0,1.0,-1.0,-1.0,WTW
+911,D,2004-03-16 13:18:00,2004-03-12,WSH,Pelly John M,"Chairmn Willis Re, Global Mkts",X - OptEx,$3.36,210000,211500,-50%,"$705,600",2.0,1.0,-1.0,-1.0,WTW
+912,,2004-02-27 12:46:20,2004-02-25,WSH,Stuart Scott M,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+913,,2004-02-27 12:44:54,2004-02-25,WSH,Tokarz Michael T,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+914,,2004-02-27 12:43:41,2004-02-25,WSH,Raether Paul E,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+915,,2004-02-27 12:41:53,2004-02-25,WSH,Navab Alexandar Jr,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+916,,2004-02-27 12:40:00,2004-02-25,WSH,Macdonnell Robert I,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+917,,2004-02-27 12:38:11,2004-02-25,WSH,Michelson Michael W,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+918,,2004-02-27 12:36:40,2004-02-25,WSH,Huth Johannes P,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+919,,2004-02-27 12:35:03,2004-02-25,WSH,Kravis Henry R,"Dir, 10%",S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+920,,2004-02-27 12:34:37,2004-02-25,WSH,Greene James H Jr,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+921,,2004-02-27 12:32:14,2004-02-25,WSH,Gilhuly Edward A,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+922,,2004-02-27 12:30:06,2004-02-25,WSH,Kkr Associates II 1996 L P,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+923,,2004-02-27 12:28:19,2004-02-25,WSH,Nuttall Scott C,Dir,S - Sale,$37.03,-23844923,11701405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+924,,2004-02-27 12:28:09,2004-02-25,WSH,Kkr 1996 Overseas Ltd,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+925,,2004-02-27 12:26:04,2004-02-25,WSH,Kkr 1996 Fund Overseas L P,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+926,,2004-02-27 12:24:27,2004-02-25,WSH,Profit Sharing Overseas L P,10%,S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+927,,2004-02-27 12:23:58,2004-02-25,WSH,Roberts George R,"Dir, 10%",S - Sale,$37.03,-23844923,11698405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+928,,2004-02-27 12:14:20,2004-02-25,WSH,Golkin Perry,"Dir, 10%",S - Sale,$37.03,-23844923,11732405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+929,,2004-02-27 12:14:03,2004-02-25,WSH,Fisher Todd A,"Dir, 10%",S - Sale,$37.03,-23844923,11706405,-67%,"-$882,882,119",0.0,-1.0,-4.0,-10.0,WTW
+930,D,2004-02-27 12:10:46,2004-02-25,WSH,Fisher James R,Dir,S - Sale+OE,$37.03,-174684,38120,-82%,"-$6,467,850",0.0,-1.0,-4.0,-10.0,WTW
+931,D,2004-02-27 12:10:46,2004-02-25,WSH,Fisher James R,Dir,X - OptEx,$3.64,155077,38120,-80%,"$564,480",0.0,-1.0,-4.0,-10.0,WTW
+932,,2004-02-12 11:05:24,2004-02-10,WSH,Pelly John M,"Ch'mn Willis Re., Global Mkts",S - Sale,$37.30,-140000,100000,-58%,"-$5,222,000",-1.0,3.0,0.0,-8.0,WTW
+933,D,2004-02-12 11:04:34,2004-02-10,WSH,Ratcliffe James A,CEO of GLOBAL SPECIALTIES,S - Sale+OE,$37.30,-28743,58617,-33%,"-$1,072,114",-1.0,3.0,0.0,-8.0,WTW
+934,D,2004-02-12 11:04:34,2004-02-10,WSH,Ratcliffe James A,CEO of GLOBAL SPECIALTIES,X - OptEx,$3.03,60000,58617,-51%,"$181,800",-1.0,3.0,0.0,-8.0,WTW
+935,M,2004-02-05 12:20:47,2003-05-06,WSH,Tokarz Michael T,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",-1.0,1.0,4.0,-7.0,WTW
+936,,2004-01-30 11:04:29,2004-01-28,WSH,Maycock Stephen G,Group HR Dir,P - Purchase,$36.72,1,89252,0%,+$37,1.0,-1.0,5.0,-4.0,WTW
+937,M,2004-01-28 06:11:06,2003-05-06,WSH,Kkr 1996 Fund Overseas L P,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",0.0,0.0,4.0,-7.0,WTW
+938,M,2004-01-28 06:09:26,2003-05-06,WSH,Kkr Associates II 1996 L P,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",0.0,0.0,4.0,-7.0,WTW
+939,M,2004-01-28 06:03:08,2003-05-06,WSH,Profit Sharing Overseas L P,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",0.0,0.0,4.0,-7.0,WTW
+940,M,2004-01-27 14:00:08,2003-05-06,WSH,Navab Alexandar Jr,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+941,DM,2004-01-27 13:57:42,2003-05-06,WSH,Fisher James R,Dir,S - Sale+OE,$31.00,-153001,0,-100%,"-$4,743,031",2.0,0.0,5.0,-6.0,WTW
+942,DM,2004-01-27 13:57:42,2003-05-02,WSH,Fisher James R,Dir,X - OptEx,$3.22,153001,0,-100%,"$492,663",2.0,0.0,5.0,-6.0,WTW
+943,M,2004-01-27 11:49:38,2003-05-06,WSH,Stuart Scott M,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+944,M,2004-01-27 11:27:33,2003-05-06,WSH,Richarrdson Neil A,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+945,M,2004-01-27 11:25:36,2003-05-06,WSH,Raether Paul E,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+946,M,2004-01-27 11:23:49,2003-05-06,WSH,Michelson Michael W,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+947,M,2004-01-27 11:21:54,2003-05-06,WSH,Macdonnell Robert I,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+948,M,2004-01-27 11:19:46,2003-05-06,WSH,Huth Johannes P,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+949,M,2004-01-27 11:17:25,2003-05-06,WSH,Greene James H Jr,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+950,M,2004-01-27 11:15:19,2003-05-06,WSH,Gilhuly Edward A,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+951,DM,2004-01-27 11:13:13,2003-05-06,WSH,Roberts George R,"Dir, 10%",S - Sale+OE,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+952,DM,2004-01-27 11:08:50,2003-05-06,WSH,Kravis Henry R,"Dir, 10%",S - Sale+OE,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+953,DM,2004-01-27 11:04:29,2003-05-06,WSH,Golkin Perry,"Dir, 10%",S - Sale+OE,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+954,DM,2004-01-27 11:02:09,2003-05-06,WSH,Fisher Todd A,"Dir, 10%",S - Sale+OE,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+955,M,2004-01-27 11:00:05,2003-05-06,WSH,Kkr 1996 Overseas Ltd,10%,S - Sale,$31.00,-23525709,35543328,-40%,"-$729,296,979",2.0,0.0,5.0,-6.0,WTW
+956,,2003-12-23 11:18:23,2003-12-23,WSH,Coolick Janet,Group CAO,M - OptEx,$13.50,10000,18133,+123%,"+$135,000",0.0,4.0,8.0,13.0,WTW
+957,,2003-12-23 11:18:23,2003-12-23,WSH,Coolick Janet,Group CAO,S - Sale,$32.45,-2720,18133,-13%,"-$88,264",0.0,4.0,8.0,13.0,WTW
+958,D,2003-11-13 06:04:46,2003-11-10,WSH,Bucknall Richard J S,COO,S - Sale+OE,$33.23,-127351,340149,-27%,"-$4,231,874",0.0,-2.0,-4.0,6.0,WTW
+959,D,2003-11-13 06:04:46,2003-11-10,WSH,Bucknall Richard J S,COO,X - OptEx,$3.36,275000,340149,-45%,"$924,000",0.0,-2.0,-4.0,6.0,WTW
+960,D,2003-11-13 06:02:30,2003-11-10,WSH,Vitale Mario,CEO North America,S - Sale+OE,$33.23,-50515,144485,-26%,"-$1,678,613",0.0,-2.0,-4.0,6.0,WTW
+961,D,2003-11-13 06:02:30,2003-11-10,WSH,Vitale Mario,CEO North America,X - OptEx,$3.36,100000,144485,-41%,"$336,000",0.0,-2.0,-4.0,6.0,WTW
+962,D,2003-11-12 17:09:18,2003-11-10,WSH,McSweeny Joseph M,"COB, Chief Exec",S - Sale+OE,$33.23,-101100,201069,-33%,"-$3,359,553",0.0,-2.0,-3.0,5.0,WTW
+963,D,2003-11-12 17:09:18,2003-11-10,WSH,McSweeny Joseph M,"COB, Chief Exec",X - OptEx,$3.36,200000,201069,-50%,"$672,000",0.0,-2.0,-3.0,5.0,WTW
+964,D,2003-11-12 17:00:08,2003-11-10,WSH,Plumeri Joseph J,"COB, CEO",S - Sale+OE,$33.23,-1482365,3298485,-31%,"-$49,258,989",0.0,-2.0,-3.0,5.0,WTW
+965,D,2003-11-12 17:00:08,2003-11-10,WSH,Plumeri Joseph J,"COB, CEO",X - OptEx,$3.36,2959443,3298485,-47%,"$9,943,728",0.0,-2.0,-3.0,5.0,WTW
+966,,2003-10-23 12:49:37,2003-10-22,WSH,Maycock Stephen G,Group HR Dir,P - Purchase,$31.84,2,150692,0%,+$64,2.0,4.0,4.0,12.0,WTW
+967,D,2003-09-19 12:19:35,2003-09-18,WSH,McSweeny Joseph M,"CHRMN, CEO, GLOB RISK SOLUTION",S - Sale+OE,$30.60,-10775,102169,-10%,"-$329,709",-1.0,2.0,4.0,25.0,WTW
+968,D,2003-09-19 12:19:35,2003-09-17,WSH,McSweeny Joseph M,"CHRMN, CEO, GLOB RISK SOLUTION",X - OptEx,$1.57,28055,102169,-22%,"$44,003",-1.0,2.0,4.0,25.0,WTW
+969,,2003-08-01 11:49:02,2003-07-30,WSH,Maycock Stephen G,Group HR Dir,P - Purchase,$30.52,2,150690,0%,+$61,0.0,-5.0,-4.0,24.0,WTW

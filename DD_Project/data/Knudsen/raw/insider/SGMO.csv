@@ -1,43 +1,815 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2021-12-30 17:12:27,2021-12-28,SGMO,Biogen Inc.,10%,S - Sale,$8.51,-2764,24152466,0%,"-$23,522",,,,,SGMO
-1,M,2021-12-28 08:11:20,2021-12-23,SGMO,Biogen Inc.,10%,S - Sale,$8.55,-81787,24155230,0%,"-$699,666",,,,,SGMO
-2,,2021-12-10 16:08:31,2021-12-09,SGMO,Biogen Inc.,10%,S - Sale,$8.56,-23660,24237017,0%,"-$202,541",,,,,SGMO
-3,M,2021-12-09 16:08:53,2021-12-07,SGMO,Biogen Inc.,10%,S - Sale,$8.59,-127992,24260677,-1%,"-$1,099,265",,,,,SGMO
-4,M,2021-12-03 16:09:21,2021-12-01,SGMO,Biogen Inc.,10%,S - Sale,$8.51,-2604,24388669,0%,"-$22,166",,,,,SGMO
-5,,2021-11-30 16:20:45,2021-11-26,SGMO,Biogen Inc.,10%,S - Sale,$8.60,-28884,24391273,0%,"-$248,434",,,,,SGMO
-6,D,2021-03-25 19:19:47,2021-03-23,SGMO,Loeb Gary,"EVP, GC, Sec.",S - Sale+OE,$13.13,-17524,83238,-17%,"-$230,042",,,,,SGMO
-7,,2021-01-06 16:27:10,2020-12-31,SGMO,Ramelmeier Rolf Andrew,"EVP, Technical Operations",S - Sale,$16.74,-2464,65978,-4%,"-$41,247",,,,,SGMO
-8,,2020-12-30 19:51:40,2020-12-24,SGMO,Ramelmeier Rolf Andrew,"EVP, Technical Operations",S - Sale,$18.13,-3331,68442,-5%,"-$60,391",,,,,SGMO
-9,D,2020-12-18 19:18:23,2020-12-17,SGMO,Ramasastry Saira,Dir,S - Sale+OE,$13.27,-10000,15000,-40%,"-$132,747",,,,,SGMO
-10,D,2020-03-20 17:00:12,2020-03-19,SGMO,Dilly Stephen George,Dir,S - Sale+OE,$6.00,-35000,5000,-88%,"-$210,000",,,,,SGMO
-11,,2020-03-19 19:55:10,2020-03-18,SGMO,Parker H Stewart,Dir,P - Purchase,$5.20,3000,13000,+30%,"+$15,585",,,,,SGMO
-12,,2020-03-19 17:00:15,2020-03-17,SGMO,Zakrzewski Joseph S,Dir,P - Purchase,$4.99,5000,30000,+20%,"+$24,950",,,,,SGMO
-13,D,2020-03-18 21:09:23,2020-03-16,SGMO,Dilly Stephen George,Dir,S - Sale+OE,$6.02,-15000,5000,-75%,"-$90,261",,,,,SGMO
-14,M,2020-03-13 17:41:46,2020-03-12,SGMO,Zakrzewski Joseph S,Dir,P - Purchase,$6.15,20000,25000,+400%,"+$123,000",,,,,SGMO
-15,D,2019-05-17 17:41:40,2019-05-15,SGMO,Yi Kathy,"EVP, CFO",S - Sale+OE,$10.00,-5000,25512,-16%,"-$50,000",,,,,SGMO
-16,D,2019-04-16 19:27:45,2019-04-15,SGMO,Yi Kathy,"EVP, CFO",S - Sale+OE,$12.11,-5000,25512,-16%,"-$60,550",,,,,SGMO
-17,D,2019-03-18 19:35:20,2019-03-15,SGMO,Yi Kathy,"EVP, CFO",S - Sale+OE,$10.00,-5000,25512,-16%,"-$50,000",,,,,SGMO
-18,D,2019-03-05 20:21:54,2019-03-01,SGMO,Yi Kathy,"EVP, CFO",S - Sale+OE,$10.00,-5000,25512,-16%,"-$50,000",,,,,SGMO
-19,D,2019-01-16 16:08:37,2019-01-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$11.04,-5000,7250,-41%,"-$55,200",,,,,SGMO
-20,D,2019-01-08 17:38:25,2019-01-07,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$12.33,-5000,12125,-29%,"-$61,631",,,,,SGMO
-21,D,2018-12-18 17:35:40,2018-12-17,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$11.44,-5000,7250,-41%,"-$57,200",,,,,SGMO
-22,D,2018-12-07 19:46:19,2018-12-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$11.49,-5000,12125,-29%,"-$57,433",,,,,SGMO
-23,D,2018-11-16 17:16:08,2018-11-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$10.00,-5000,7250,-41%,"-$50,000",,,,,SGMO
-24,,2018-11-15 19:08:47,2018-11-14,SGMO,Parker H Stewart,Dir,P - Purchase,$9.00,2000,7500,+36%,"+$18,002",,,,,SGMO
-25,D,2018-11-07 17:41:09,2018-11-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$13.73,-5000,12125,-29%,"-$68,650",,,,,SGMO
-26,D,2018-10-16 19:25:23,2018-10-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$13.97,-5000,7250,-41%,"-$69,850",,,,,SGMO
-27,D,2018-10-09 17:40:58,2018-10-08,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$14.55,-5000,10125,-33%,"-$72,774",,,,,SGMO
-28,D,2018-09-18 17:06:18,2018-09-17,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$14.66,-5000,7250,-41%,"-$73,285",,,,,SGMO
-29,,2018-09-07 19:18:12,2018-09-07,SGMO,Jeffs Roger,Dir,P - Purchase,$13.56,7408,9908,+296%,"+$100,487",,,,,SGMO
-30,,2018-09-07 17:45:50,2018-09-07,SGMO,Parker H Stewart,Dir,P - Purchase,$13.52,2000,5500,+57%,"+$27,040",,,,,SGMO
-31,D,2018-09-07 16:39:02,2018-09-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$14.17,-5000,10125,-33%,"-$70,845",,,,,SGMO
-32,D,2018-08-17 16:17:53,2018-08-16,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$15.39,-5000,7250,-41%,"-$76,952",,,,,SGMO
-33,D,2018-08-07 19:28:29,2018-08-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$13.45,-5000,10125,-33%,"-$67,250",,,,,SGMO
-34,D,2018-07-17 16:16:49,2018-07-16,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$14.77,-5000,7250,-41%,"-$73,860",,,,,SGMO
-35,D,2018-07-09 18:58:44,2018-07-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$15.80,-5000,10125,-33%,"-$78,975",,,,,SGMO
-36,D,2018-06-15 19:43:12,2018-06-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$15.67,-5000,7250,-41%,"-$78,365",,,,,SGMO
-37,D,2018-06-07 16:06:45,2018-06-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$16.67,-5000,10125,-33%,"-$83,350",,,,,SGMO
-38,D,2018-05-16 18:38:05,2018-05-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$15.38,-5000,7250,-41%,"-$76,920",,,,,SGMO
-39,D,2018-05-09 17:38:14,2018-05-07,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$16.36,-5000,10125,-33%,"-$81,814",,,,,SGMO
-40,D,2018-04-18 16:04:03,2018-04-16,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$19.83,-5000,7250,-41%,"-$99,144",,,,,SGMO
-41,D,2018-04-17 16:16:03,2018-04-13,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$20.00,-8163,14625,-36%,"-$163,260",,,,,SGMO
+0,D,2022-03-01 17:21:09,2022-02-25,SGMO,Willoughby Scott B.,"SVP, Gen. Counsel, Secretary",A - Grant,$0.00,41000,94825,+76%,+$0,,,,,SGMO
+1,D,2022-03-01 17:21:09,2022-02-25,SGMO,Willoughby Scott B.,"SVP, Gen. Counsel, Secretary",F - Tax,$5.90,-1566,94825,-2%,"-$9,239",,,,,SGMO
+2,D,2022-03-01 17:20:46,2022-02-25,SGMO,Schott Robert J.,"SVP, Head of Development",A - Grant,$0.00,41000,75537,+119%,+$0,,,,,SGMO
+3,D,2022-03-01 17:18:52,2022-02-25,SGMO,Fontenot Jason D.,"SVP, Chief Scientific Officer",A - Grant,$0.00,45100,103993,+77%,+$0,,,,,SGMO
+4,D,2022-03-01 17:18:52,2022-02-25,SGMO,Fontenot Jason D.,"SVP, Chief Scientific Officer",F - Tax,$5.90,-6248,103993,-6%,"-$36,863",,,,,SGMO
+5,D,2022-03-01 17:17:24,2022-02-25,SGMO,McClung David Mark,"EVP, COO",A - Grant,$0.00,59400,184984,+47%,+$0,,,,,SGMO
+6,D,2022-03-01 17:17:24,2022-02-25,SGMO,McClung David Mark,"EVP, COO",F - Tax,$5.90,-4610,184984,-2%,"-$27,199",,,,,SGMO
+7,D,2022-03-01 17:16:01,2022-02-25,SGMO,Macrae Sandy,"Pres, CEO, Dir",A - Grant,$0.00,224000,521176,+75%,+$0,,,,,SGMO
+8,D,2022-03-01 17:16:01,2022-02-25,SGMO,Macrae Sandy,"Pres, CEO, Dir",F - Tax,$5.90,-49890,521176,-9%,"-$294,351",,,,,SGMO
+9,D,2022-03-01 17:15:06,2022-02-25,SGMO,Zakrzewski Joseph S,Dir,A - Grant,$0.00,12500,60700,+26%,+$0,,,,,SGMO
+10,D,2022-03-01 17:14:00,2022-02-25,SGMO,Smith Karen L.,Dir,A - Grant,$0.00,12500,38200,+49%,+$0,,,,,SGMO
+11,D,2022-03-01 17:13:17,2022-02-25,SGMO,Ramasastry Saira,Dir,A - Grant,$0.00,12500,35700,+54%,+$0,,,,,SGMO
+12,D,2022-03-01 17:11:24,2022-02-25,SGMO,Meyers James R,Dir,A - Grant,$0.00,12500,35700,+54%,+$0,,,,,SGMO
+13,D,2022-03-01 17:10:25,2022-02-25,SGMO,Markels John,Dir,A - Grant,$0.00,12500,25700,+95%,+$0,,,,,SGMO
+14,D,2022-03-01 17:09:01,2022-02-25,SGMO,Hillan Kenneth J.,Dir,A - Grant,$0.00,12500,35700,+54%,+$0,,,,,SGMO
+15,D,2022-03-01 17:07:24,2022-02-25,SGMO,Carey Robert,Dir,A - Grant,$0.00,12500,35700,+54%,+$0,,,,,SGMO
+16,,2022-02-24 17:32:27,2022-02-12,SGMO,Schott Robert J.,"SVP, Head of Development",F - Tax,$5.76,-5463,34537,-14%,"-$31,467",,,,,SGMO
+17,,2021-12-30 17:12:27,2021-12-28,SGMO,Biogen Inc.,10%,S - Sale,$8.51,-2764,24152466,0%,"-$23,522",,,,,SGMO
+18,M,2021-12-28 08:11:20,2021-12-23,SGMO,Biogen Inc.,10%,S - Sale,$8.55,-81787,24155230,0%,"-$699,666",,,,,SGMO
+19,,2021-12-10 16:08:31,2021-12-09,SGMO,Biogen Inc.,10%,S - Sale,$8.56,-23660,24237017,0%,"-$202,541",,,,,SGMO
+20,M,2021-12-09 16:08:53,2021-12-07,SGMO,Biogen Inc.,10%,S - Sale,$8.59,-127992,24260677,-1%,"-$1,099,265",,,,,SGMO
+21,M,2021-12-03 16:09:21,2021-12-01,SGMO,Biogen Inc.,10%,S - Sale,$8.51,-2604,24388669,0%,"-$22,166",,,,,SGMO
+22,,2021-11-30 16:20:45,2021-11-26,SGMO,Biogen Inc.,10%,S - Sale,$8.60,-28884,24391273,0%,"-$248,434",,,,,SGMO
+23,,2021-11-03 15:30:12,2021-10-29,SGMO,Willoughby Scott B.,"SVP, Gen. Counsel, Secretary",F - Tax,$8.12,-140,54455,0%,"-$1,137",,,,,SGMO
+24,D,2021-08-17 17:57:09,2021-08-13,SGMO,Willoughby Scott B.,"SVP, Gen. Counsel, Secretary",A - Grant,$0.00,7500,54595,+16%,+$0,,,,,SGMO
+25,,2021-06-29 19:55:58,2021-06-25,SGMO,McClung David Mark,"EVP, Chief Business Officer",F - Tax,$12.02,-11525,129294,-8%,"-$138,531",,,,,SGMO
+26,D,2021-06-14 19:17:33,2021-06-11,SGMO,Duraibabu Prathyusha,"SVP, CFO, PFO, PAO",A - Grant,$0.00,7500,49827,+18%,+$0,,,,,SGMO
+27,,2021-04-27 20:49:57,2021-04-25,SGMO,Fontenot Jason D.,"SVP, Chief Scientific Officer",F - Tax,$11.71,-811,62496,-1%,"-$9,497",,,,,SGMO
+28,,2021-04-27 20:49:01,2021-04-25,SGMO,Duraibabu Prathyusha,"VP, PFO, PAO",F - Tax,$11.71,-662,40128,-2%,"-$7,752",,,,,SGMO
+29,A,2021-04-27 20:46:52,2021-03-25,SGMO,Duraibabu Prathyusha,"VP, PFO, PAO",F - Tax,$12.27,-345,40790,-1%,"-$4,233",,,,,SGMO
+30,AD,2021-04-27 20:45:56,2021-02-25,SGMO,Duraibabu Prathyusha,"VP, PFO, PAO",A - Grant,$0.00,13750,41135,+50%,+$0,,,,,SGMO
+31,AD,2021-04-27 20:45:56,2021-02-25,SGMO,Duraibabu Prathyusha,"VP, PFO, PAO",F - Tax,$11.19,-1863,41135,-4%,"-$20,847",,,,,SGMO
+32,,2021-03-29 19:11:35,2021-03-25,SGMO,Duraibabu Prathyusha,"VP, PFO, PAO",F - Tax,$12.27,-345,40790,-1%,"-$4,233",,,,,SGMO
+33,D,2021-03-25 19:19:47,2021-03-23,SGMO,Loeb Gary,"EVP, GC, Sec.",M - OptEx,$11.02,11981,83238,+17%,"+$132,031",,,,,SGMO
+34,D,2021-03-25 19:19:47,2021-03-23,SGMO,Loeb Gary,"EVP, GC, Sec.",S - Sale+OE,$13.13,-17524,83238,-17%,"-$230,042",,,,,SGMO
+35,D,2021-03-01 21:12:45,2021-02-25,SGMO,Duraibabu Prathyusha,VP Principal Acct. Officer,A - Grant,$0.00,13750,41135,+50%,+$0,,,,,SGMO
+36,D,2021-03-01 21:12:45,2021-02-25,SGMO,Duraibabu Prathyusha,VP Principal Acct. Officer,F - Tax,$11.19,-1863,41135,-4%,"-$20,847",,,,,SGMO
+37,D,2021-03-01 21:11:55,2021-02-25,SGMO,Ramelmeier Rolf Andrew,"EVP, Technical Operations",A - Grant,$0.00,40000,98199,+69%,+$0,,,,,SGMO
+38,D,2021-03-01 21:11:55,2021-02-25,SGMO,Ramelmeier Rolf Andrew,"EVP, Technical Operations",F - Tax,$11.19,-7779,98199,-7%,"-$87,047",,,,,SGMO
+39,D,2021-03-01 21:10:59,2021-02-25,SGMO,McClung David Mark,"EVP, Chief Business Officer",A - Grant,$0.00,40000,140000,+40%,+$0,,,,,SGMO
+40,D,2021-03-01 21:09:41,2021-02-25,SGMO,Loeb Gary,"EVP, GC, Sec.",A - Grant,$0.00,44000,88781,+98%,+$0,,,,,SGMO
+41,D,2021-03-01 21:09:41,2021-02-25,SGMO,Loeb Gary,"EVP, GC, Sec.",F - Tax,$11.19,-5762,88781,-6%,"-$64,477",,,,,SGMO
+42,D,2021-03-01 21:08:29,2021-02-25,SGMO,Macrae Sandy,"Pres, CEO",A - Grant,$0.00,138375,347066,+66%,+$0,,,,,SGMO
+43,D,2021-03-01 21:08:29,2021-02-25,SGMO,Macrae Sandy,"Pres, CEO",F - Tax,$11.19,-35311,347066,-9%,"-$395,130",,,,,SGMO
+44,D,2021-03-01 21:07:32,2021-02-25,SGMO,Zakrzewski Joseph S,Dir,A - Grant,$0.00,8200,48200,+21%,+$0,,,,,SGMO
+45,D,2021-03-01 21:05:56,2021-02-25,SGMO,Smith Karen L.,Dir,A - Grant,$0.00,8200,25700,+47%,+$0,,,,,SGMO
+46,D,2021-03-01 21:04:23,2021-02-25,SGMO,Ramasastry Saira,Dir,A - Grant,$0.00,8200,23200,+55%,+$0,,,,,SGMO
+47,D,2021-03-01 21:03:33,2021-02-25,SGMO,Parker H Stewart,Dir,A - Grant,$0.00,8200,31200,+36%,+$0,,,,,SGMO
+48,D,2021-03-01 21:01:29,2021-02-25,SGMO,Meyers James R,Dir,A - Grant,$0.00,8200,23200,+55%,+$0,,,,,SGMO
+49,D,2021-03-01 20:59:52,2021-02-25,SGMO,Markels John,Dir,A - Grant,$0.00,8200,13200,+164%,+$0,,,,,SGMO
+50,D,2021-03-01 20:57:56,2021-02-25,SGMO,Hillan Kenneth J.,Dir,A - Grant,$0.00,8200,23200,+55%,+$0,,,,,SGMO
+51,D,2021-03-01 20:56:25,2021-02-25,SGMO,Carey Robert,Dir,A - Grant,$0.00,8200,23200,+55%,+$0,,,,,SGMO
+52,D,2021-02-16 18:21:13,2021-02-12,SGMO,Schott Robert J.,"SVP, Head of Development",A - Grant,$0.00,40000,40000,New,+$0,,,,,SGMO
+53,,2021-01-26 20:24:01,2021-01-24,SGMO,Macrae Sandy,"Pres, CEO",F - Tax,$14.95,-3977,244002,-2%,"-$59,456",,,,,SGMO
+54,,2021-01-06 16:27:10,2020-12-31,SGMO,Ramelmeier Rolf Andrew,"EVP, Technical Operations",S - Sale,$16.74,-2464,65978,-4%,"-$41,247",,,,,SGMO
+55,,2020-12-30 19:51:40,2020-12-24,SGMO,Ramelmeier Rolf Andrew,"EVP, Technical Operations",S - Sale,$18.13,-3331,68442,-5%,"-$60,391",,,,,SGMO
+56,D,2020-12-18 19:18:23,2020-12-17,SGMO,Ramasastry Saira,Dir,M - OptEx,$5.99,10000,15000,+200%,"+$59,900",,,,,SGMO
+57,D,2020-12-18 19:18:23,2020-12-17,SGMO,Ramasastry Saira,Dir,S - Sale+OE,$13.27,-10000,15000,-40%,"-$132,747",,,,,SGMO
+58,,2020-11-30 19:46:14,2020-11-25,SGMO,Lee Sung,"EVP, CFO",F - Tax,$9.77,-5042,88708,-5%,"-$49,260",,,,,SGMO
+59,D,2020-09-11 18:18:53,2020-09-09,SGMO,Hillan Kenneth J.,Dir,A - Grant,$0.00,15000,15000,New,+$0,,,,,SGMO
+60,D,2020-06-29 21:11:52,2020-06-25,SGMO,McClung David Mark,"EVP, Chief Business Officer",A - Grant,$0.00,100000,100000,New,+$0,,,,,SGMO
+61,D,2020-06-05 21:29:27,2020-06-04,SGMO,Boissel Stephane,"EVP, Corp. Strategy",D - Sale to issuer,$11.23,-14907,70116,-18%,"-$167,406",,,,,SGMO
+62,D,2020-06-05 21:29:27,2020-06-04,SGMO,Boissel Stephane,"EVP, Corp. Strategy",M - OptEx,$0.00,14907,70116,+27%,+$0,,,,,SGMO
+63,AD,2020-06-03 16:30:52,2020-05-18,SGMO,Zakrzewski Joseph S,Dir,A - Grant,$0.00,10000,40000,+33%,+$0,,,,,SGMO
+64,AD,2020-06-03 16:30:18,2020-05-18,SGMO,Smith Karen L.,Dir,A - Grant,$0.00,10000,17500,+133%,+$0,,,,,SGMO
+65,AD,2020-06-03 16:29:34,2020-05-18,SGMO,Ramasastry Saira,Dir,A - Grant,$0.00,10000,15000,+200%,+$0,,,,,SGMO
+66,AD,2020-06-03 16:28:53,2020-05-18,SGMO,Parker H Stewart,Dir,A - Grant,$0.00,10000,23000,+77%,+$0,,,,,SGMO
+67,AD,2020-06-03 16:28:16,2020-05-18,SGMO,Meyers James R,Dir,A - Grant,$0.00,10000,15000,+200%,+$0,,,,,SGMO
+68,AD,2020-06-03 16:27:37,2020-05-18,SGMO,Dilly Stephen George,Dir,A - Grant,$0.00,10000,15000,+200%,+$0,,,,,SGMO
+69,AD,2020-06-03 16:27:04,2020-05-18,SGMO,Carey Robert,Dir,A - Grant,$0.00,10000,15000,+200%,+$0,,,,,SGMO
+70,D,2020-05-20 17:22:28,2020-05-18,SGMO,Zakrzewski Joseph S,Dir,A - Grant,$0.00,2500,32500,+8%,+$0,,,,,SGMO
+71,D,2020-05-20 17:21:43,2020-05-18,SGMO,Smith Karen L.,Dir,A - Grant,$0.00,2500,10000,+33%,+$0,,,,,SGMO
+72,D,2020-05-20 17:19:20,2020-05-18,SGMO,Ramasastry Saira,Dir,A - Grant,$0.00,2500,7500,+50%,+$0,,,,,SGMO
+73,D,2020-05-20 17:18:35,2020-05-18,SGMO,Parker H Stewart,Dir,A - Grant,$0.00,2500,15500,+19%,+$0,,,,,SGMO
+74,D,2020-05-20 17:17:46,2020-05-18,SGMO,Meyers James R,Dir,A - Grant,$0.00,2500,7500,+50%,+$0,,,,,SGMO
+75,D,2020-05-20 17:14:40,2020-05-18,SGMO,Dilly Stephen George,Dir,A - Grant,$0.00,2500,7500,+50%,+$0,,,,,SGMO
+76,D,2020-05-20 17:13:31,2020-05-18,SGMO,Carey Robert,Dir,A - Grant,$0.00,2500,7500,+50%,+$0,,,,,SGMO
+77,,2020-04-28 18:59:29,2020-04-25,SGMO,Duraibabu Prathyusha,VP Principal Acct. Officer,F - Tax,$8.32,-647,26603,-2%,"-$5,383",,,,,SGMO
+78,,2020-03-26 19:18:27,2020-03-25,SGMO,Duraibabu Prathyusha,VP Principal Acct. Officer,A - Grant,$0.00,3000,27250,+12%,+$0,,,,,SGMO
+79,D,2020-03-20 17:00:12,2020-03-19,SGMO,Dilly Stephen George,Dir,M - OptEx,$5.42,35000,5000,-117%,"+$189,700",,,,,SGMO
+80,D,2020-03-20 17:00:12,2020-03-19,SGMO,Dilly Stephen George,Dir,S - Sale+OE,$6.00,-35000,5000,-88%,"-$210,000",,,,,SGMO
+81,,2020-03-19 19:55:10,2020-03-18,SGMO,Parker H Stewart,Dir,P - Purchase,$5.20,3000,13000,+30%,"+$15,585",,,,,SGMO
+82,,2020-03-19 17:00:15,2020-03-17,SGMO,Zakrzewski Joseph S,Dir,P - Purchase,$4.99,5000,30000,+20%,"+$24,950",,,,,SGMO
+83,D,2020-03-18 21:09:23,2020-03-16,SGMO,Dilly Stephen George,Dir,M - OptEx,$5.42,15000,5000,-150%,"+$81,300",,,,,SGMO
+84,D,2020-03-18 21:09:23,2020-03-16,SGMO,Dilly Stephen George,Dir,S - Sale+OE,$6.02,-15000,5000,-75%,"-$90,261",,,,,SGMO
+85,M,2020-03-13 17:41:46,2020-03-12,SGMO,Zakrzewski Joseph S,Dir,P - Purchase,$6.15,20000,25000,+400%,"+$123,000",,,,,SGMO
+86,AD,2020-02-27 11:54:28,2020-02-25,SGMO,Loeb Gary,"EVP, GC, Sec.",A - Grant,$0.00,50000,50000,New,+$0,,,,,SGMO
+87,D,2020-02-27 10:40:43,2020-02-25,SGMO,Woolfson Adrian,"EVP Research, Development",A - Grant,$0.00,50000,50000,New,+$0,,,,,SGMO
+88,AD,2020-02-26 19:50:27,2020-02-25,SGMO,Duraibabu Prathyusha,VP Principal Acct. Officer,A - Grant,$0.00,16500,24250,+213%,+$0,,,,,SGMO
+89,D,2020-02-26 19:34:46,2020-02-25,SGMO,Duraibabu Prathyusha,VP Principal Acct. Officer,A - Grant,$0.00,16500,22250,+287%,+$0,,,,,SGMO
+90,D,2020-02-26 19:33:39,2020-02-25,SGMO,Ramelmeier Rolf Andrew,"EVP, Technical Operations",A - Grant,$0.00,55000,69128,+389%,+$0,,,,,SGMO
+91,D,2020-02-26 19:33:39,2020-02-25,SGMO,Ramelmeier Rolf Andrew,"EVP, Technical Operations",F - Tax,$6.80,-1703,69128,-2%,"-$11,580",,,,,SGMO
+92,D,2020-02-26 19:32:37,2020-02-25,SGMO,Loeb Gary,"EVP, GC, Sec.",A - Grant,$0.00,500000,50000,-111%,+$0,,,,,SGMO
+93,D,2020-02-26 19:31:52,2020-02-25,SGMO,Lee Sung,"EVP, CFO",A - Grant,$0.00,50000,93750,+114%,+$0,,,,,SGMO
+94,D,2020-02-26 19:31:10,2020-02-25,SGMO,Boissel Stephane,"EVP, Corp. Strategy",A - Grant,$0.00,55000,70116,+364%,+$0,,,,,SGMO
+95,D,2020-02-26 19:31:10,2020-02-25,SGMO,Boissel Stephane,"EVP, Corp. Strategy",F - Tax,$6.80,-2384,70116,-3%,"-$16,211",,,,,SGMO
+96,D,2020-02-26 19:29:59,2020-02-25,SGMO,Macrae Sandy,"Pres, CEO",A - Grant,$0.00,168750,247979,+213%,+$0,,,,,SGMO
+97,D,2020-02-26 19:29:59,2020-02-25,SGMO,Macrae Sandy,"Pres, CEO",F - Tax,$6.80,-7264,247979,-3%,"-$49,395",,,,,SGMO
+98,D,2020-02-13 20:15:26,2020-02-11,SGMO,Markels John,Dir,A - Grant,$0.00,5000,5000,New,+$0,,,,,SGMO
+99,,2020-01-28 19:11:14,2020-01-24,SGMO,Macrae Sandy,"Pres, CEO",F - Tax,$7.50,-4283,86493,-5%,"-$32,123",,,,,SGMO
+100,D,2019-11-26 16:15:10,2019-11-25,SGMO,Lee Sung,"EVP, CFO",A - Grant,$0.00,43750,43750,New,+$0,,,,,SGMO
+101,D,2019-11-26 16:13:12,2019-11-22,SGMO,Meyers James R,Dir,A - Grant,$0.00,5000,5000,New,+$0,,,,,SGMO
+102,D,2019-08-14 17:10:19,2019-08-12,SGMO,Boissel Stephane,"EVP, Corp. Strat., Int. CFO",D - Sale to issuer,$11.23,-11137,17500,-39%,"-$125,069",,,,,SGMO
+103,D,2019-08-14 17:10:19,2019-08-12,SGMO,Boissel Stephane,"EVP, Corp. Strat., Int. CFO",M - OptEx,$0.00,11137,17500,+175%,+$0,,,,,SGMO
+104,D,2019-06-12 17:13:10,2019-06-10,SGMO,Zakrzewski Joseph S,Dir,A - Grant,$0.00,2500,5000,+100%,+$0,,,,,SGMO
+105,D,2019-06-12 17:09:53,2019-06-10,SGMO,Smith Karen L.,Dir,A - Grant,$0.00,2500,7500,+50%,+$0,,,,,SGMO
+106,D,2019-06-12 17:08:45,2019-06-10,SGMO,Ramasastry Saira,Dir,A - Grant,$0.00,2500,5000,+100%,+$0,,,,,SGMO
+107,D,2019-06-12 17:07:36,2019-06-10,SGMO,Parker H Stewart,Dir,A - Grant,$0.00,2500,10000,+33%,+$0,,,,,SGMO
+108,D,2019-06-12 17:06:38,2019-06-10,SGMO,Dilly Stephen George,Dir,A - Grant,$0.00,2500,5000,+100%,+$0,,,,,SGMO
+109,D,2019-06-12 17:04:45,2019-06-10,SGMO,Carey Robert,Dir,A - Grant,$0.00,2500,5000,+100%,+$0,,,,,SGMO
+110,D,2019-05-17 17:41:40,2019-05-15,SGMO,Yi Kathy,"EVP, CFO",M - OptEx,$4.55,5000,25512,+24%,"+$22,750",,,,,SGMO
+111,D,2019-05-17 17:41:40,2019-05-15,SGMO,Yi Kathy,"EVP, CFO",S - Sale+OE,$10.00,-5000,25512,-16%,"-$50,000",,,,,SGMO
+112,D,2019-04-16 19:27:45,2019-04-15,SGMO,Yi Kathy,"EVP, CFO",M - OptEx,$4.55,5000,25512,+24%,"+$22,750",,,,,SGMO
+113,D,2019-04-16 19:27:45,2019-04-15,SGMO,Yi Kathy,"EVP, CFO",S - Sale+OE,$12.11,-5000,25512,-16%,"-$60,550",,,,,SGMO
+114,D,2019-03-18 19:35:20,2019-03-15,SGMO,Yi Kathy,"EVP, CFO",M - OptEx,$4.55,5000,25512,+24%,"+$22,750",,,,,SGMO
+115,D,2019-03-18 19:35:20,2019-03-15,SGMO,Yi Kathy,"EVP, CFO",S - Sale+OE,$10.00,-5000,25512,-16%,"-$50,000",,,,,SGMO
+116,D,2019-03-05 20:21:54,2019-03-01,SGMO,Yi Kathy,"EVP, CFO",M - OptEx,$4.55,5000,25512,+24%,"+$22,750",,,,,SGMO
+117,D,2019-03-05 20:21:54,2019-03-01,SGMO,Yi Kathy,"EVP, CFO",S - Sale+OE,$10.00,-5000,25512,-16%,"-$50,000",,,,,SGMO
+118,D,2019-02-27 20:20:00,2019-02-25,SGMO,Boissel Stephane,"EVP, Corporate Strategy",A - Grant,$0.00,17500,17500,New,+$0,,,,,SGMO
+119,D,2019-02-27 20:19:16,2019-02-25,SGMO,Turner Heather D,"EVP, GC, Sec.",A - Grant,$0.00,19250,19250,New,+$0,,,,,SGMO
+120,D,2019-02-27 20:18:30,2019-02-25,SGMO,Yi Kathy,"EVP, CFO",A - Grant,$0.00,19250,25512,+307%,+$0,,,,,SGMO
+121,D,2019-02-27 20:17:46,2019-02-25,SGMO,Macrae Sandy,"Pres, CEO",A - Grant,$0.00,63250,90776,+230%,+$0,,,,,SGMO
+122,,2019-01-28 17:46:59,2019-01-24,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",F - Tax,$11.10,-834,11291,-7%,"-$9,257",,,,,SGMO
+123,,2019-01-28 17:45:54,2019-01-24,SGMO,Yi Kathy,"SVP, CFO",F - Tax,$11.10,-988,6262,-14%,"-$10,967",,,,,SGMO
+124,,2019-01-28 17:45:07,2018-01-24,SGMO,Macrae Sandy,"Pres, CEO",F - Tax,$11.10,-3974,27526,-13%,"-$44,111",,,,,SGMO
+125,D,2019-01-16 16:08:37,2019-01-15,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+126,D,2019-01-16 16:08:37,2019-01-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$11.04,-5000,7250,-41%,"-$55,200",,,,,SGMO
+127,D,2019-01-08 17:38:25,2019-01-07,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,12125,+70%,"+$16,000",,,,,SGMO
+128,D,2019-01-08 17:38:25,2019-01-07,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$12.33,-5000,12125,-29%,"-$61,631",,,,,SGMO
+129,D,2018-12-18 17:35:40,2018-12-17,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+130,D,2018-12-18 17:35:40,2018-12-17,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$11.44,-5000,7250,-41%,"-$57,200",,,,,SGMO
+131,D,2018-12-07 19:46:19,2018-12-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,12125,+70%,"+$16,000",,,,,SGMO
+132,D,2018-12-07 19:46:19,2018-12-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$11.49,-5000,12125,-29%,"-$57,433",,,,,SGMO
+133,D,2018-11-16 17:16:08,2018-11-15,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+134,D,2018-11-16 17:16:08,2018-11-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$10.00,-5000,7250,-41%,"-$50,000",,,,,SGMO
+135,,2018-11-15 19:08:47,2018-11-14,SGMO,Parker H Stewart,Dir,P - Purchase,$9.00,2000,7500,+36%,"+$18,002",,,,,SGMO
+136,D,2018-11-07 17:41:09,2018-11-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,12125,+70%,"+$16,000",,,,,SGMO
+137,D,2018-11-07 17:41:09,2018-11-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$13.73,-5000,12125,-29%,"-$68,650",,,,,SGMO
+138,D,2018-10-16 19:25:23,2018-10-15,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+139,D,2018-10-16 19:25:23,2018-10-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$13.97,-5000,7250,-41%,"-$69,850",,,,,SGMO
+140,D,2018-10-09 17:40:58,2018-10-08,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,10125,+98%,"+$16,000",,,,,SGMO
+141,D,2018-10-09 17:40:58,2018-10-08,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$14.55,-5000,10125,-33%,"-$72,774",,,,,SGMO
+142,D,2018-09-18 17:06:18,2018-09-17,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+143,D,2018-09-18 17:06:18,2018-09-17,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$14.66,-5000,7250,-41%,"-$73,285",,,,,SGMO
+144,,2018-09-07 19:18:12,2018-09-07,SGMO,Jeffs Roger,Dir,P - Purchase,$13.56,7408,9908,+296%,"+$100,487",,,,,SGMO
+145,,2018-09-07 17:45:50,2018-09-07,SGMO,Parker H Stewart,Dir,P - Purchase,$13.52,2000,5500,+57%,"+$27,040",,,,,SGMO
+146,D,2018-09-07 16:39:02,2018-09-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,10125,+98%,"+$16,000",,,,,SGMO
+147,D,2018-09-07 16:39:02,2018-09-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$14.17,-5000,10125,-33%,"-$70,845",,,,,SGMO
+148,D,2018-08-17 16:17:53,2018-08-16,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+149,D,2018-08-17 16:17:53,2018-08-16,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$15.39,-5000,7250,-41%,"-$76,952",,,,,SGMO
+150,D,2018-08-07 19:28:29,2018-08-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,10125,+98%,"+$16,000",,,,,SGMO
+151,D,2018-08-07 19:28:29,2018-08-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$13.45,-5000,10125,-33%,"-$67,250",,,,,SGMO
+152,D,2018-07-17 16:16:49,2018-07-16,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+153,D,2018-07-17 16:16:49,2018-07-16,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$14.77,-5000,7250,-41%,"-$73,860",,,,,SGMO
+154,D,2018-07-09 18:58:44,2018-07-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,10125,+98%,"+$16,000",,,,,SGMO
+155,D,2018-07-09 18:58:44,2018-07-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$15.80,-5000,10125,-33%,"-$78,975",,,,,SGMO
+156,D,2018-06-28 19:33:16,2018-06-26,SGMO,Smith Karen L.,Dir,A - Grant,$0.00,5000,5000,New,+$0,,,,,SGMO
+157,D,2018-06-15 19:43:12,2018-06-15,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+158,D,2018-06-15 19:43:12,2018-06-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$15.67,-5000,7250,-41%,"-$78,365",,,,,SGMO
+159,D,2018-06-12 20:30:00,2018-06-11,SGMO,Zakrzewski Joseph S,Dir,A - Grant,$0.00,2500,2500,New,+$0,,,,,SGMO
+160,D,2018-06-12 20:28:34,2018-06-11,SGMO,Ramasastry Saira,Dir,A - Grant,$0.00,2500,2500,New,+$0,,,,,SGMO
+161,D,2018-06-12 20:27:41,2018-06-11,SGMO,Parker H Stewart,Dir,A - Grant,$0.00,2500,3500,+250%,+$0,,,,,SGMO
+162,D,2018-06-12 20:26:37,2018-06-11,SGMO,Mento Steven J,Dir,A - Grant,$0.00,2500,46546,+6%,+$0,,,,,SGMO
+163,D,2018-06-12 20:25:49,2018-06-11,SGMO,Jeffs Roger,Dir,A - Grant,$0.00,2500,2500,New,+$0,,,,,SGMO
+164,D,2018-06-12 20:24:55,2018-06-11,SGMO,Dilly Stephen George,Dir,A - Grant,$0.00,2500,2500,New,+$0,,,,,SGMO
+165,D,2018-06-12 20:24:08,2018-06-11,SGMO,Carey Robert,Dir,A - Grant,$0.00,2500,2500,New,+$0,,,,,SGMO
+166,D,2018-06-07 16:06:45,2018-06-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,10125,+98%,"+$16,000",,,,,SGMO
+167,D,2018-06-07 16:06:45,2018-06-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$16.67,-5000,10125,-33%,"-$83,350",,,,,SGMO
+168,D,2018-05-16 18:38:05,2018-05-15,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+169,D,2018-05-16 18:38:05,2018-05-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$15.38,-5000,7250,-41%,"-$76,920",,,,,SGMO
+170,D,2018-05-09 17:38:14,2018-05-07,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,10125,+98%,"+$16,000",,,,,SGMO
+171,D,2018-05-09 17:38:14,2018-05-07,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$16.36,-5000,10125,-33%,"-$81,814",,,,,SGMO
+172,D,2018-04-18 16:04:03,2018-04-16,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+173,D,2018-04-18 16:04:03,2018-04-16,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$19.83,-5000,7250,-41%,"-$99,144",,,,,SGMO
+174,D,2018-04-17 16:16:03,2018-04-13,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$14.07,8163,14625,+126%,"+$114,853",,,,,SGMO
+175,D,2018-04-17 16:16:03,2018-04-13,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$20.00,-8163,14625,-36%,"-$163,260",,,,,SGMO
+176,D,2018-04-09 18:43:30,2018-04-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,8125,+160%,"+$16,000",,,,,SGMO
+177,D,2018-04-09 18:43:30,2018-04-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$17.41,-5000,8125,-38%,"-$87,065",,,,,SGMO
+178,D,2018-04-04 16:10:29,2018-04-02,SGMO,Mento Steven J,Dir,M - OptEx,$7.77,10000,44046,+29%,"+$77,700",,,,,SGMO
+179,D,2018-04-04 16:10:29,2018-04-02,SGMO,Mento Steven J,Dir,S - Sale+OE,$18.40,-7215,44046,-14%,"-$132,758",,,,,SGMO
+180,D,2018-04-04 16:09:33,2018-04-02,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$5.35,2278,14625,+18%,"+$12,199",,,,,SGMO
+181,D,2018-04-04 16:09:33,2018-04-02,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$18.30,-2278,14625,-13%,"-$41,684",,,,,SGMO
+182,D,2018-03-16 19:41:59,2018-03-15,SGMO,Yi Kathy,"SVP, CFO",M - OptEx,$4.55,5000,7250,+222%,"+$22,750",,,,,SGMO
+183,D,2018-03-16 19:41:59,2018-03-15,SGMO,Yi Kathy,"SVP, CFO",S - Sale+OE,$25.56,-5000,7250,-41%,"-$127,812",,,,,SGMO
+184,D,2018-03-07 20:43:34,2018-03-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,8125,+160%,"+$16,000",,,,,SGMO
+185,D,2018-03-07 20:43:34,2018-03-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$24.78,-5000,8125,-38%,"-$123,878",,,,,SGMO
+186,D,2018-03-05 18:50:49,2018-03-01,SGMO,Mento Steven J,Dir,M - OptEx,$5.49,15000,41261,+57%,"+$82,350",,,,,SGMO
+187,D,2018-03-05 18:50:49,2018-03-01,SGMO,Mento Steven J,Dir,S - Sale+OE,$23.27,-9433,41261,-19%,"-$219,546",,,,,SGMO
+188,D,2018-03-05 18:39:40,2018-03-01,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$9.86,15000,14625,-4000%,"+$147,905",,,,,SGMO
+189,D,2018-03-05 18:39:40,2018-03-01,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$23.06,-15000,14625,-51%,"-$345,861",,,,,SGMO
+190,D,2018-02-27 18:41:09,2018-02-26,SGMO,Ramasastry Saira,Dir,M - OptEx,$5.03,9450,0,-100%,"+$47,534",,,,,SGMO
+191,D,2018-02-27 18:41:09,2018-02-26,SGMO,Ramasastry Saira,Dir,S - Sale+OE,$24.88,-9450,0,-100%,"-$235,080",,,,,SGMO
+192,D,2018-02-07 17:17:17,2018-02-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,8125,+160%,"+$16,000",,,,,SGMO
+193,D,2018-02-07 17:17:17,2018-02-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$18.49,-5000,8125,-38%,"-$92,436",,,,,SGMO
+194,D,2018-02-05 20:05:42,2018-02-01,SGMO,Mento Steven J,Dir,M - OptEx,$8.92,15000,35694,+72%,"+$133,750",,,,,SGMO
+195,D,2018-02-05 20:05:42,2018-02-01,SGMO,Mento Steven J,Dir,S - Sale+OE,$20.59,-11520,35694,-24%,"-$237,159",,,,,SGMO
+196,D,2018-02-05 20:04:45,2018-02-01,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$3.50,15000,14625,-4000%,"+$52,500",,,,,SGMO
+197,D,2018-02-05 20:04:45,2018-02-01,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$20.59,-15000,14625,-51%,"-$308,855",,,,,SGMO
+198,D,2018-01-31 20:12:17,2018-01-24,SGMO,Macrae Sandy,"Pres, CEO, Dir",A - Grant,$0.00,31500,31500,New,+$0,,,,,SGMO
+199,D,2018-01-31 20:11:36,2018-01-24,SGMO,Yi Kathy,"SVP, CFO",A - Grant,$0.00,7250,7250,New,+$0,,,,,SGMO
+200,D,2018-01-31 20:10:56,2018-01-24,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",A - Grant,$0.00,8375,14625,+134%,+$0,,,,,SGMO
+201,D,2018-01-31 20:10:04,2018-01-24,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",A - Grant,$0.00,6125,8125,+306%,+$0,,,,,SGMO
+202,D,2018-01-10 17:51:36,2018-01-08,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,2000,-167%,"+$16,000",,,,,SGMO
+203,D,2018-01-10 17:51:36,2018-01-08,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$17.11,-5000,2000,-71%,"-$85,545",,,,,SGMO
+204,DM,2018-01-04 19:34:49,2018-01-02,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$11.81,9017,6250,-326%,"+$106,488",,,,,SGMO
+205,DM,2018-01-04 19:34:49,2018-01-02,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$17.26,-15000,6250,-71%,"-$258,894",,,,,SGMO
+206,M,2017-12-12 18:08:49,2017-12-08,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",F - Tax,$16.53,-3600,12233,-23%,"-$59,525",,,,,SGMO
+207,D,2017-12-08 18:53:04,2017-12-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",M - OptEx,$3.20,5000,0,-100%,"+$16,000",,,,,SGMO
+208,D,2017-12-08 18:53:04,2017-12-06,SGMO,Conner Edward R.,"SVP, Chief Medical Officer",S - Sale+OE,$16.24,-5000,0,-100%,"-$81,200",,,,,SGMO
+209,D,2017-12-06 19:17:38,2017-12-04,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$12.12,11803,15833,+293%,"+$143,052",,,,,SGMO
+210,D,2017-12-06 19:17:38,2017-12-04,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$18.00,-11803,15833,-43%,"-$212,454",,,,,SGMO
+211,ADM,2017-12-04 20:06:27,2017-11-30,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$9.39,14630,15833,>999%,"+$137,444",,,,,SGMO
+212,ADM,2017-12-04 20:06:27,2017-11-30,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$16.13,-16630,15833,-51%,"-$268,318",,,,,SGMO
+213,DM,2017-12-04 19:39:14,2017-11-30,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$9.39,14630,15833,>999%,"+$137,444",,,,,SGMO
+214,DM,2017-12-04 19:39:14,2017-11-30,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$16.13,-16630,15833,-51%,"-$268,318",,,,,SGMO
+215,D,2017-11-21 17:01:28,2017-11-17,SGMO,Ramasastry Saira,Dir,M - OptEx,$5.03,5000,0,-100%,"+$25,150",,,,,SGMO
+216,D,2017-11-21 17:01:28,2017-11-17,SGMO,Ramasastry Saira,Dir,S - Sale+OE,$14.67,-5000,0,-100%,"-$73,339",,,,,SGMO
+217,D,2017-10-04 16:22:26,2017-10-02,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$7.66,15000,15833,>999%,"+$114,905",,,,,SGMO
+218,D,2017-10-04 16:22:26,2017-10-02,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$15.25,-15000,15833,-49%,"-$228,754",,,,,SGMO
+219,D,2017-09-22 16:04:42,2017-09-20,SGMO,Ringo William R,Dir,M - OptEx,$6.05,31000,800,-103%,"+$187,550",,,,,SGMO
+220,D,2017-09-22 16:04:42,2017-09-20,SGMO,Ringo William R,Dir,S - Sale+OE,$14.37,-31000,800,-97%,"-$445,597",,,,,SGMO
+221,D,2017-09-01 18:19:23,2017-09-01,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$5.41,10316,15833,+187%,"+$55,810",,,,,SGMO
+222,D,2017-09-01 18:19:23,2017-09-01,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$15.00,-15000,15833,-49%,"-$225,000",,,,,SGMO
+223,DM,2017-08-15 17:31:43,2017-08-11,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$4.11,11474,20517,+127%,"+$47,111",,,,,SGMO
+224,DM,2017-08-15 17:31:43,2017-08-11,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$10.44,-11474,20517,-36%,"-$119,740",,,,,SGMO
+225,D,2017-07-14 20:06:39,2017-07-14,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",M - OptEx,$3.99,172,20517,+1%,+$686,,,,,SGMO
+226,D,2017-07-14 20:06:39,2017-07-14,SGMO,Herberts Curt A. III,"Sr.VP, Chief Business Officer",S - Sale+OE,$10.00,-15000,20517,-42%,"-$150,000",,,,,SGMO
+227,,2017-06-02 20:26:49,2017-06-01,SGMO,Herberts Curt A. III,"SVP, CBO",S - Sale,$6.80,-2000,35345,-5%,"-$13,600",,,,,SGMO
+228,M,2017-05-15 19:42:46,2017-05-11,SGMO,Herberts Curt A. III,"SVP, CBO",S - Sale,$8.02,-2639,37345,-7%,"-$21,154",,,,,SGMO
+229,,2016-12-14 20:11:26,2016-12-12,SGMO,Herberts Curt A. III,"SVP, CBO",F - Tax,$3.05,-4852,33300,-13%,"-$14,799",1.0,-3.0,32.0,,SGMO
+230,,2016-12-14 20:03:38,2015-12-12,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$3.05,-13778,206829,-6%,"-$42,023",1.0,-3.0,32.0,,SGMO
+231,,2016-06-15 20:22:14,2016-06-13,SGMO,Lanphier Edward O II,Dir,F - Tax,$6.23,-84642,2556879,-3%,"-$527,320",-1.0,-6.0,-7.0,-49.0,SGMO
+232,M,2016-06-15 20:22:14,2016-03-11,SGMO,Lanphier Edward O II,Dir,G - Gift,$0.00,-58000,2556879,-2%,-$0,-1.0,-6.0,-7.0,-49.0,SGMO
+233,M,2015-12-15 17:12:42,2015-12-11,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",F - Tax,$8.68,-8348,107328,-7%,"-$72,461",5.0,5.0,-30.0,-34.0,SGMO
+234,M,2015-12-15 17:11:54,2015-12-11,SGMO,Lanphier Edward O II,"Pres, CEO",F - Tax,$8.68,-34786,1466427,-2%,"-$301,942",5.0,5.0,-30.0,-34.0,SGMO
+235,M,2015-12-15 17:11:03,2015-12-11,SGMO,Nichol Geoffrey,"EVP, R, D",F - Tax,$8.68,-9081,159676,-5%,"-$78,823",5.0,5.0,-30.0,-34.0,SGMO
+236,M,2015-12-15 17:09:55,2015-12-11,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$8.68,-12609,215703,-6%,"-$109,446",5.0,5.0,-30.0,-34.0,SGMO
+237,D,2015-12-09 16:53:44,2015-12-08,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",A - Grant,$0.00,25000,115676,+28%,+$0,-2.0,-5.0,-21.0,-28.0,SGMO
+238,D,2015-12-09 16:53:44,2015-12-07,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",F - Tax,$9.69,-6087,115676,-5%,"-$58,983",-2.0,-5.0,-21.0,-28.0,SGMO
+239,D,2015-12-09 16:51:44,2015-12-08,SGMO,Lanphier Edward O II,"Pres, CEO",A - Grant,$0.00,125000,1501213,+9%,+$0,-2.0,-5.0,-21.0,-28.0,SGMO
+240,D,2015-12-09 16:51:44,2015-12-07,SGMO,Lanphier Edward O II,"Pres, CEO",F - Tax,$9.69,-31308,1501213,-2%,"-$303,375",-2.0,-5.0,-21.0,-28.0,SGMO
+241,D,2015-12-09 16:51:44,2015-12-07,SGMO,Lanphier Edward O II,"Pres, CEO",G - Gift,$0.00,-13000,1501213,-1%,-$0,-2.0,-5.0,-21.0,-28.0,SGMO
+242,D,2015-12-09 16:50:16,2015-12-08,SGMO,Nichol Geoffrey,"EVP, R, D",A - Grant,$0.00,37500,168757,+29%,+$0,-2.0,-5.0,-21.0,-28.0,SGMO
+243,D,2015-12-09 16:50:16,2015-12-07,SGMO,Nichol Geoffrey,"EVP, R, D",F - Tax,$9.69,-6889,168757,-4%,"-$66,754",-2.0,-5.0,-21.0,-28.0,SGMO
+244,D,2015-12-09 16:47:48,2015-12-08,SGMO,Wolff Henry Ward,"EVP, CFO",A - Grant,$0.00,37500,228312,+20%,+$0,-2.0,-5.0,-21.0,-28.0,SGMO
+245,D,2015-12-09 16:47:48,2015-12-07,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$9.69,-7060,228312,-3%,"-$68,411",-2.0,-5.0,-21.0,-28.0,SGMO
+246,D,2015-07-17 16:49:34,2015-07-15,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$6.82,25000,1420521,+2%,"+$170,500",-2.0,-14.0,-20.0,-38.0,SGMO
+247,D,2015-07-17 16:49:34,2015-07-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$10.43,-25000,1420521,-2%,"-$260,770",-2.0,-14.0,-20.0,-38.0,SGMO
+248,DM,2015-07-14 16:46:56,2015-07-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,197872,+5%,"+$34,500",-7.0,-9.0,-30.0,-43.0,SGMO
+249,DM,2015-07-14 16:46:56,2015-07-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$10.00,-12000,197872,-6%,"-$120,000",-7.0,-9.0,-30.0,-43.0,SGMO
+250,D,2015-06-17 16:47:02,2015-06-15,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$6.82,25000,1420521,+2%,"+$170,500",3.0,4.0,-7.0,-23.0,SGMO
+251,D,2015-06-17 16:47:02,2015-06-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$11.08,-25000,1420521,-2%,"-$277,078",3.0,4.0,-7.0,-23.0,SGMO
+252,D,2015-06-12 16:50:54,2015-06-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,199872,+5%,"+$34,500",-9.0,-6.0,-13.0,-21.0,SGMO
+253,D,2015-06-12 16:50:54,2015-06-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$12.21,-12000,199872,-6%,"-$146,558",-9.0,-6.0,-13.0,-21.0,SGMO
+254,D,2015-06-09 17:26:32,2015-06-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.45,15000,96763,+18%,"+$51,750",0.0,-11.0,-21.0,-25.0,SGMO
+255,D,2015-06-09 17:26:32,2015-06-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$12.29,-15000,96763,-13%,"-$184,394",0.0,-11.0,-21.0,-25.0,SGMO
+256,D,2015-06-03 21:07:20,2015-06-03,SGMO,Ringo William R,Dir,M - OptEx,$6.05,2200,800,-157%,"+$13,310",-7.0,-8.0,-24.0,-39.0,SGMO
+257,D,2015-06-03 21:07:20,2015-06-03,SGMO,Ringo William R,Dir,S - Sale+OE,$12.44,-2200,800,-73%,"-$27,364",-7.0,-8.0,-24.0,-39.0,SGMO
+258,D,2015-06-03 21:06:27,2015-06-01,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.13,15000,116410,+15%,"+$77,000",-7.0,-8.0,-24.0,-39.0,SGMO
+259,D,2015-06-03 21:06:27,2015-06-01,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$12.39,-15000,116410,-11%,"-$185,816",-7.0,-8.0,-24.0,-39.0,SGMO
+260,D,2015-05-19 17:26:16,2015-05-15,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$6.82,25000,1420521,+2%,"+$170,500",2.0,2.0,-11.0,-39.0,SGMO
+261,D,2015-05-19 17:26:16,2015-05-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$11.51,-25000,1420521,-2%,"-$287,863",2.0,2.0,-11.0,-39.0,SGMO
+262,D,2015-05-13 16:40:50,2015-05-11,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,201872,+5%,"+$34,500",-8.0,-2.0,-1.0,-35.0,SGMO
+263,D,2015-05-13 16:40:50,2015-05-11,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$13.25,-12000,201872,-6%,"-$158,949",-8.0,-2.0,-1.0,-35.0,SGMO
+264,D,2015-05-05 19:26:55,2015-05-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.45,15000,95376,+19%,"+$51,750",2.0,6.0,8.0,-41.0,SGMO
+265,D,2015-05-05 19:26:55,2015-05-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$12.29,-15000,95376,-14%,"-$184,298",2.0,6.0,8.0,-41.0,SGMO
+266,D,2015-05-05 19:23:23,2015-05-04,SGMO,Ringo William R,Dir,M - OptEx,$6.19,3000,800,-136%,"+$18,582",2.0,6.0,8.0,-41.0,SGMO
+267,D,2015-05-05 19:23:23,2015-05-04,SGMO,Ringo William R,Dir,S - Sale+OE,$12.98,-3000,800,-79%,"-$38,927",2.0,6.0,8.0,-41.0,SGMO
+268,D,2015-05-05 19:05:58,2015-05-01,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.13,15000,116410,+15%,"+$77,000",2.0,6.0,8.0,-41.0,SGMO
+269,D,2015-05-05 19:05:58,2015-05-01,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$12.62,-15000,116410,-11%,"-$189,371",2.0,6.0,8.0,-41.0,SGMO
+270,D,2015-04-17 19:03:29,2015-04-15,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$6.82,25000,1420521,+2%,"+$170,500",-2.0,7.0,-19.0,-55.0,SGMO
+271,D,2015-04-17 19:03:29,2015-04-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$15.33,-25000,1420521,-2%,"-$383,260",-2.0,7.0,-19.0,-55.0,SGMO
+272,D,2015-04-14 19:03:14,2015-04-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,202849,+5%,"+$34,500",1.0,-7.0,-15.0,-60.0,SGMO
+273,D,2015-04-14 19:03:14,2015-04-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$15.31,-12000,202849,-6%,"-$183,771",1.0,-7.0,-15.0,-60.0,SGMO
+274,D,2015-04-08 19:06:23,2015-04-06,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.45,15000,95376,+19%,"+$51,750",-2.0,-1.0,-20.0,-63.0,SGMO
+275,D,2015-04-08 19:06:23,2015-04-06,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$14.94,-15000,95376,-14%,"-$224,172",-2.0,-1.0,-20.0,-63.0,SGMO
+276,D,2015-04-08 19:05:26,2015-04-06,SGMO,Ringo William R,Dir,M - OptEx,$6.41,2200,800,-157%,"+$14,102",-2.0,-1.0,-20.0,-63.0,SGMO
+277,D,2015-04-08 19:05:26,2015-04-06,SGMO,Ringo William R,Dir,S - Sale+OE,$14.95,-2200,800,-73%,"-$32,881",-2.0,-1.0,-20.0,-63.0,SGMO
+278,D,2015-04-03 19:53:03,2015-04-01,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.13,15000,116410,+15%,"+$77,000",0.0,3.0,-14.0,-62.0,SGMO
+279,D,2015-04-03 19:53:03,2015-04-01,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$15.15,-15000,116410,-11%,"-$227,192",0.0,3.0,-14.0,-62.0,SGMO
+280,D,2015-03-20 19:28:01,2015-03-19,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$14.27,10000,204849,+5%,"+$142,700",-4.0,-15.0,-19.0,-54.0,SGMO
+281,D,2015-03-20 19:28:01,2015-03-19,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$18.00,-10000,204849,-5%,"-$180,000",-4.0,-15.0,-19.0,-54.0,SGMO
+282,D,2015-03-18 20:02:18,2015-03-17,SGMO,Lanphier Edward O II,"Pres, CEO",G - Gift,$0.00,-3500,1420521,0%,-$0,11.0,-1.0,-7.0,-51.0,SGMO
+283,D,2015-03-18 20:02:18,2015-03-16,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$6.82,25000,1420521,+2%,"+$170,500",11.0,-1.0,-7.0,-51.0,SGMO
+284,D,2015-03-18 20:02:18,2015-03-16,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$17.29,-25000,1420521,-2%,"-$432,305",11.0,-1.0,-7.0,-51.0,SGMO
+285,D,2015-03-12 20:09:18,2015-03-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,204849,+5%,"+$34,500",2.0,-2.0,-10.0,-61.0,SGMO
+286,D,2015-03-12 20:09:18,2015-03-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$16.68,-12000,204849,-6%,"-$200,201",2.0,-2.0,-10.0,-61.0,SGMO
+287,D,2015-03-06 19:04:13,2015-03-04,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$14.27,10000,206849,+5%,"+$142,700",-3.0,-3.0,-15.0,-58.0,SGMO
+288,D,2015-03-06 19:04:13,2015-03-04,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$18.00,-10000,206849,-5%,"-$180,000",-3.0,-3.0,-15.0,-58.0,SGMO
+289,D,2015-03-06 18:51:15,2015-03-05,SGMO,Mento Steven J,Dir,M - OptEx,$4.54,10000,32214,+45%,"+$45,400",-3.0,-3.0,-15.0,-58.0,SGMO
+290,D,2015-03-06 18:51:15,2015-03-05,SGMO,Mento Steven J,Dir,S - Sale+OE,$18.30,-6501,32214,-17%,"-$118,939",-3.0,-3.0,-15.0,-58.0,SGMO
+291,D,2015-03-06 18:49:25,2015-03-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.45,15000,95376,+19%,"+$51,750",-3.0,-3.0,-15.0,-58.0,SGMO
+292,D,2015-03-06 18:49:25,2015-03-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$18.29,-15000,95376,-14%,"-$274,283",-3.0,-3.0,-15.0,-58.0,SGMO
+293,D,2015-03-04 20:06:13,2015-03-03,SGMO,Ringo William R,Dir,M - OptEx,$6.41,2200,800,-157%,"+$14,102",0.0,-7.0,-16.0,-61.0,SGMO
+294,D,2015-03-04 20:06:13,2015-03-03,SGMO,Ringo William R,Dir,S - Sale+OE,$17.21,-2200,800,-73%,"-$37,862",0.0,-7.0,-16.0,-61.0,SGMO
+295,D,2015-03-04 20:04:26,2015-03-02,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$7.34,15000,116410,+15%,"+$110,120",0.0,-7.0,-16.0,-61.0,SGMO
+296,D,2015-03-04 20:04:26,2015-03-02,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$17.26,-15000,116410,-11%,"-$258,938",0.0,-7.0,-16.0,-61.0,SGMO
+297,D,2015-02-19 20:05:46,2015-02-17,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$6.82,25000,1424021,+2%,"+$170,500",1.0,1.0,11.0,-50.0,SGMO
+298,D,2015-02-19 20:05:46,2015-02-17,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$15.69,-25000,1424021,-2%,"-$392,150",1.0,1.0,11.0,-50.0,SGMO
+299,,2015-02-18 21:54:28,2014-07-17,SGMO,"Ra Capital Management, LLC",Former 10% Owner,P - Purchase,$12.26,37215,1829426,+2%,"+$456,211",-1.0,-2.0,-1.0,-53.0,SGMO
+300,M,2015-02-18 21:54:28,2014-06-05,SGMO,"Ra Capital Management, LLC",Former 10% Owner,S - Sale,$14.36,-1037230,1829426,-36%,"-$14,892,135",-1.0,-2.0,-1.0,-53.0,SGMO
+301,,2015-02-18 21:53:23,2014-05-07,SGMO,"Ra Capital Management, LLC",Former 10% Owner,P - Purchase,$12.09,35736,2829441,+1%,"+$431,870",-1.0,-2.0,-1.0,-53.0,SGMO
+302,M,2015-02-18 21:53:23,2014-05-08,SGMO,"Ra Capital Management, LLC",Former 10% Owner,S - Sale,$13.18,-2028531,2829441,-42%,"-$26,743,790",-1.0,-2.0,-1.0,-53.0,SGMO
+303,M,2015-02-18 21:52:09,2014-04-03,SGMO,"Ra Capital Management, LLC",Former 10% Owner,P - Purchase,$14.67,1205929,4822236,+33%,"+$17,694,558",-1.0,-2.0,-1.0,-53.0,SGMO
+304,M,2015-02-18 21:52:09,2014-04-09,SGMO,"Ra Capital Management, LLC",Former 10% Owner,S - Sale,$15.05,-450893,4822236,-9%,"-$6,786,112",-1.0,-2.0,-1.0,-53.0,SGMO
+305,M,2015-02-18 21:51:03,2014-03-07,SGMO,"Ra Capital Management, LLC",Former 10% Owner,P - Purchase,$19.83,1130387,4067200,+38%,"+$22,410,076",-1.0,-2.0,-1.0,-53.0,SGMO
+306,M,2015-02-18 21:51:03,2014-03-06,SGMO,"Ra Capital Management, LLC",Former 10% Owner,S - Sale,$21.05,-536771,4067200,-12%,"-$11,300,356",-1.0,-2.0,-1.0,-53.0,SGMO
+307,DM,2015-02-18 21:49:57,2014-02-05,SGMO,"Ra Capital Management, LLC",Former 10% Owner,P - Purchase,$19.78,326195,3683000,+10%,"+$6,451,357",-1.0,-2.0,-1.0,-53.0,SGMO
+308,DM,2015-02-18 21:49:57,2014-02-06,SGMO,"Ra Capital Management, LLC",Former 10% Owner,S - Sale+OE,$21.11,-535613,3683000,-13%,"-$11,309,099",-1.0,-2.0,-1.0,-53.0,SGMO
+309,M,2015-02-18 18:38:38,2013-12-12,SGMO,"Ra Capital Management, LLC",Former 10% Owner.,P - Purchase,$12.09,14640,3970562,0%,"+$176,992",-1.0,-2.0,-1.0,-53.0,SGMO
+310,,2015-02-18 18:38:38,2014-01-09,SGMO,"Ra Capital Management, LLC",Former 10% Owner.,S - Sale,$18.35,-72440,3970562,-2%,"-$1,329,365",-1.0,-2.0,-1.0,-53.0,SGMO
+311,,2015-02-18 18:37:41,2013-07-17,SGMO,"Ra Capital Management, LLC",Former 10% Owner,P - Purchase,$9.79,19200,3118218,+1%,"+$187,895",-1.0,-2.0,-1.0,-53.0,SGMO
+312,M,2015-02-18 18:37:41,2013-07-17,SGMO,"Ra Capital Management, LLC",Former 10% Owner,S - Sale,$9.78,-817444,3118218,-21%,"-$7,996,009",-1.0,-2.0,-1.0,-53.0,SGMO
+313,D,2015-02-13 19:45:40,2015-02-12,SGMO,Ramasastry Saira,Dir,M - OptEx,$5.03,10000,0,-100%,"+$50,300",3.0,10.0,13.0,-47.0,SGMO
+314,D,2015-02-13 19:45:40,2015-02-12,SGMO,Ramasastry Saira,Dir,S - Sale+OE,$15.00,-10000,0,-100%,"-$150,000",3.0,10.0,13.0,-47.0,SGMO
+315,D,2015-02-12 20:14:05,2015-02-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,206849,+5%,"+$34,500",1.0,11.0,15.0,-54.0,SGMO
+316,D,2015-02-12 20:14:05,2015-02-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$12.65,-12000,206849,-5%,"-$151,750",1.0,11.0,15.0,-54.0,SGMO
+317,D,2015-02-06 19:50:06,2015-02-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$6.10,15000,95376,+19%,"+$91,509",-1.0,19.0,33.0,-40.0,SGMO
+318,D,2015-02-06 19:50:06,2015-02-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$12.93,-15000,95376,-14%,"-$193,950",-1.0,19.0,33.0,-40.0,SGMO
+319,D,2015-02-05 20:19:32,2015-02-03,SGMO,Ringo William R,Dir,M - OptEx,$6.41,2200,800,-157%,"+$14,102",-2.0,7.0,35.0,-30.0,SGMO
+320,D,2015-02-05 20:19:32,2015-02-03,SGMO,Ringo William R,Dir,S - Sale+OE,$12.70,-2200,800,-73%,"-$27,940",-2.0,7.0,35.0,-30.0,SGMO
+321,D,2015-02-04 19:31:31,2015-02-02,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.13,15000,116410,+15%,"+$77,000",2.0,-1.0,41.0,-28.0,SGMO
+322,D,2015-02-04 19:31:31,2015-02-02,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$12.86,-15000,116410,-11%,"-$192,830",2.0,-1.0,41.0,-28.0,SGMO
+323,DM,2015-01-16 20:20:07,2015-01-15,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$6.82,25000,1424021,+2%,"+$170,500",-1.0,-8.0,10.0,-31.0,SGMO
+324,DM,2015-01-16 20:20:07,2015-01-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$14.22,-25000,1424021,-2%,"-$355,622",-1.0,-8.0,10.0,-31.0,SGMO
+325,D,2015-01-14 19:02:34,2015-01-12,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,208849,+5%,"+$34,500",-8.0,-12.0,1.0,-33.0,SGMO
+326,D,2015-01-14 19:02:34,2015-01-12,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$15.87,-12000,208849,-5%,"-$190,450",-8.0,-12.0,1.0,-33.0,SGMO
+327,D,2015-01-06 19:27:27,2015-01-05,SGMO,Ringo William R,Dir,M - OptEx,$6.41,2200,800,-157%,"+$14,102",4.0,7.0,-13.0,-33.0,SGMO
+328,D,2015-01-06 19:27:27,2015-01-05,SGMO,Ringo William R,Dir,S - Sale+OE,$15.20,-2200,800,-73%,"-$33,430",4.0,7.0,-13.0,-33.0,SGMO
+329,D,2015-01-06 19:26:45,2015-01-05,SGMO,Larson John William,Dir,M - OptEx,$6.86,15000,214660,+8%,"+$102,850",4.0,7.0,-13.0,-33.0,SGMO
+330,D,2015-01-06 19:26:45,2015-01-05,SGMO,Larson John William,Dir,S - Sale+OE,$15.10,-15000,214660,-7%,"-$226,550",4.0,7.0,-13.0,-33.0,SGMO
+331,D,2015-01-06 19:25:50,2015-01-02,SGMO,Gregory Philip D,"SVP, Research, CSO",M - OptEx,$7.34,15000,116410,+15%,"+$110,120",4.0,7.0,-13.0,-33.0,SGMO
+332,D,2015-01-06 19:25:50,2015-01-02,SGMO,Gregory Philip D,"SVP, Research, CSO",S - Sale+OE,$15.78,-15000,116410,-11%,"-$236,664",4.0,7.0,-13.0,-33.0,SGMO
+333,D,2015-01-06 19:24:13,2015-01-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$6.82,15000,95376,+19%,"+$102,300",4.0,7.0,-13.0,-33.0,SGMO
+334,D,2015-01-06 19:24:13,2015-01-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$15.19,-15000,95376,-14%,"-$227,854",4.0,7.0,-13.0,-33.0,SGMO
+335,AD,2014-12-17 20:00:18,2014-12-15,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$14.74,-40004,210849,-16%,"-$589,587",5.0,-6.0,-3.0,-26.0,SGMO
+336,AD,2014-12-17 20:00:18,2014-12-11,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$0.00,37500,210849,+22%,+$0,5.0,-6.0,-3.0,-26.0,SGMO
+337,D,2014-12-15 21:51:18,2014-12-11,SGMO,Nichol Geoffrey,"EVP, R, D",A - Grant,$0.00,37500,138146,+37%,+$0,-3.0,4.0,2.0,-22.0,SGMO
+338,D,2014-12-15 21:51:18,2014-12-15,SGMO,Nichol Geoffrey,"EVP, R, D",F - Tax,$14.74,-41743,138146,-23%,"-$615,217",-3.0,4.0,2.0,-22.0,SGMO
+339,D,2014-12-15 21:49:45,2014-12-11,SGMO,Lanphier Edward O II,"Pres, CEO",A - Grant,$0.00,125000,1839521,+7%,+$0,-3.0,4.0,2.0,-22.0,SGMO
+340,D,2014-12-15 21:49:45,2014-12-15,SGMO,Lanphier Edward O II,"Pres, CEO",F - Tax,$14.74,-96533,1839521,-5%,"-$1,422,723",-3.0,4.0,2.0,-22.0,SGMO
+341,D,2014-12-15 21:49:45,2014-12-15,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$4.11,25000,1839521,+1%,"+$102,750",-3.0,4.0,2.0,-22.0,SGMO
+342,D,2014-12-15 21:49:45,2014-12-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$15.40,-25000,1839521,-1%,"-$384,912",-3.0,4.0,2.0,-22.0,SGMO
+343,D,2014-12-15 21:23:52,2014-12-15,SGMO,Larson John William,Dir,M - OptEx,$5.95,15000,214660,+8%,"+$89,250",-3.0,4.0,2.0,-22.0,SGMO
+344,D,2014-12-15 21:23:52,2014-12-15,SGMO,Larson John William,Dir,S - Sale+OE,$16.28,-10000,214660,-4%,"-$162,829",-3.0,4.0,2.0,-22.0,SGMO
+345,D,2014-12-15 21:23:41,2014-12-11,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",A - Grant,$0.00,25000,95376,+36%,+$0,-3.0,4.0,2.0,-22.0,SGMO
+346,D,2014-12-15 21:23:41,2014-12-15,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",F - Tax,$14.74,-27480,95376,-22%,"-$405,006",-3.0,4.0,2.0,-22.0,SGMO
+347,D,2014-12-15 21:22:54,2014-12-11,SGMO,Gregory Philip D,"VP, Research, CSO",A - Grant,$0.00,37500,116410,+48%,+$0,-3.0,4.0,2.0,-22.0,SGMO
+348,D,2014-12-15 21:22:54,2014-12-15,SGMO,Gregory Philip D,"VP, Research, CSO",F - Tax,$14.74,-30437,116410,-21%,"-$448,587",-3.0,4.0,2.0,-22.0,SGMO
+349,D,2014-12-15 21:20:42,2014-12-15,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$14.74,-40004,210849,-16%,"-$589,587",-3.0,4.0,2.0,-22.0,SGMO
+350,D,2014-12-15 21:20:42,2014-12-11,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$0.00,37500,210849,+22%,+$0,-3.0,4.0,2.0,-22.0,SGMO
+351,D,2014-12-15 20:00:54,2014-12-11,SGMO,Mento Steven J,Dir,M - OptEx,$4.10,10000,28715,+53%,"+$41,000",-3.0,4.0,2.0,-22.0,SGMO
+352,D,2014-12-15 20:00:54,2014-12-11,SGMO,Mento Steven J,Dir,S - Sale+OE,$15.00,-6354,28715,-18%,"-$95,310",-3.0,4.0,2.0,-22.0,SGMO
+353,D,2014-12-09 20:00:32,2014-12-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$6.82,15000,97856,+18%,"+$102,300",-6.0,7.0,17.0,-15.0,SGMO
+354,D,2014-12-09 20:00:32,2014-12-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$11.21,-15000,97856,-13%,"-$168,197",-6.0,7.0,17.0,-15.0,SGMO
+355,D,2014-12-09 20:00:25,2014-12-09,SGMO,Larson John William,Dir,M - OptEx,$4.54,10000,214660,+5%,"+$45,400",-6.0,7.0,17.0,-15.0,SGMO
+356,D,2014-12-09 20:00:25,2014-12-09,SGMO,Larson John William,Dir,S - Sale+OE,$12.00,-10000,214660,-4%,"-$120,000",-6.0,7.0,17.0,-15.0,SGMO
+357,D,2014-12-03 20:00:25,2014-12-01,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.13,15000,109347,+16%,"+$77,000",-3.0,20.0,31.0,7.0,SGMO
+358,D,2014-12-03 20:00:25,2014-12-01,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$11.68,-15000,109347,-12%,"-$175,191",-3.0,20.0,31.0,7.0,SGMO
+359,D,2014-11-19 20:01:00,2014-11-17,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$4.11,25000,1811054,+1%,"+$102,750",2.0,6.0,40.0,10.0,SGMO
+360,D,2014-11-19 20:01:00,2014-11-17,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$11.23,-25000,1811054,-1%,"-$280,843",2.0,6.0,40.0,10.0,SGMO
+361,,2014-11-13 20:00:48,2014-11-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale,$11.37,-2000,213353,-1%,"-$22,748",-4.0,-3.0,40.0,-2.0,SGMO
+362,D,2014-11-13 20:00:29,2014-11-12,SGMO,Larson John William,Dir,M - OptEx,$4.10,10000,214660,+5%,"+$41,000",-4.0,-3.0,40.0,-2.0,SGMO
+363,D,2014-11-13 20:00:29,2014-11-12,SGMO,Larson John William,Dir,S - Sale+OE,$12.00,-10000,214660,-4%,"-$120,007",-4.0,-3.0,40.0,-2.0,SGMO
+364,D,2014-11-07 20:00:22,2014-11-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$5.59,15000,97856,+18%,"+$83,877",5.0,4.0,2.0,15.0,SGMO
+365,D,2014-11-07 20:00:22,2014-11-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$11.35,-15000,97856,-13%,"-$170,258",5.0,4.0,2.0,15.0,SGMO
+366,D,2014-11-05 20:00:54,2014-11-03,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.28,15000,109347,+16%,"+$79,240",5.0,6.0,1.0,14.0,SGMO
+367,D,2014-11-05 20:00:54,2014-11-03,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$11.91,-15000,109347,-12%,"-$178,704",5.0,6.0,1.0,14.0,SGMO
+368,D,2014-10-30 20:00:26,2014-03-11,SGMO,Larson John William,Dir,G - Gift,$0.00,-2500,214660,-1%,-$0,2.0,-7.0,1.0,8.0,SGMO
+369,D,2014-10-30 20:00:26,2014-10-28,SGMO,Larson John William,Dir,M - OptEx,$7.28,10000,214660,+5%,"+$72,800",2.0,-7.0,1.0,8.0,SGMO
+370,D,2014-10-30 20:00:26,2014-10-28,SGMO,Larson John William,Dir,S - Sale+OE,$12.02,-10000,214660,-4%,"-$120,153",2.0,-7.0,1.0,8.0,SGMO
+371,D,2014-10-17 20:00:20,2014-10-15,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$4.11,25000,1811054,+1%,"+$102,750",2.0,7.0,6.0,33.0,SGMO
+372,D,2014-10-17 20:00:20,2014-10-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$10.49,-25000,1811054,-1%,"-$262,365",2.0,7.0,6.0,33.0,SGMO
+373,,2014-10-14 20:00:22,2014-10-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale,$10.10,-2000,214347,-1%,"-$20,200",5.0,5.0,16.0,53.0,SGMO
+374,D,2014-10-08 20:00:20,2014-10-06,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$4.11,15000,96579,+18%,"+$61,650",-4.0,-5.0,5.0,44.0,SGMO
+375,D,2014-10-08 20:00:20,2014-10-06,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$10.72,-15000,96579,-13%,"-$160,865",-4.0,-5.0,5.0,44.0,SGMO
+376,D,2014-10-03 20:00:36,2014-10-01,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.66,15000,109347,+16%,"+$84,840",-4.0,-9.0,9.0,35.0,SGMO
+377,D,2014-10-03 20:00:36,2014-10-01,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$10.80,-15000,109347,-12%,"-$162,029",-4.0,-9.0,9.0,35.0,SGMO
+378,D,2014-09-17 20:00:21,2014-09-15,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$4.11,25000,1811054,+1%,"+$102,750",-5.0,-8.0,-14.0,35.0,SGMO
+379,D,2014-09-17 20:00:21,2014-09-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$12.14,-25000,1811054,-1%,"-$303,383",-5.0,-8.0,-14.0,35.0,SGMO
+380,,2014-09-12 20:00:19,2014-09-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale,$12.31,-2000,216347,-1%,"-$24,620",-4.0,-7.0,-21.0,38.0,SGMO
+381,D,2014-09-05 21:45:17,2014-09-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$4.11,15000,96579,+18%,"+$61,650",3.0,4.0,-10.0,41.0,SGMO
+382,D,2014-09-05 21:45:17,2014-09-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$12.20,-15000,96579,-13%,"-$183,072",3.0,4.0,-10.0,41.0,SGMO
+383,D,2014-09-05 17:00:21,2014-09-02,SGMO,Larson John William,Dir,G - Gift,$0.00,-1000,217160,0%,-$0,3.0,4.0,-10.0,41.0,SGMO
+384,D,2014-09-05 17:00:21,2014-09-04,SGMO,Larson John William,Dir,M - OptEx,$7.73,10000,217160,+5%,"+$77,300",3.0,4.0,-10.0,41.0,SGMO
+385,D,2014-09-05 17:00:21,2014-09-04,SGMO,Larson John William,Dir,S - Sale+OE,$12.81,-10000,217160,-4%,"-$128,082",3.0,4.0,-10.0,41.0,SGMO
+386,D,2014-09-04 17:00:28,2014-09-02,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.66,15000,109347,+16%,"+$84,840",-2.0,2.0,-13.0,42.0,SGMO
+387,D,2014-09-04 17:00:28,2014-09-02,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$13.45,-15000,109347,-12%,"-$201,798",-2.0,2.0,-13.0,42.0,SGMO
+388,D,2014-08-15 20:00:32,2014-08-15,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$4.11,25000,1811054,+1%,"+$102,750",5.0,-5.0,-13.0,10.0,SGMO
+389,D,2014-08-15 20:00:32,2014-08-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$13.95,-25000,1811054,-1%,"-$348,798",5.0,-5.0,-13.0,10.0,SGMO
+390,D,2014-08-12 20:00:23,2014-08-08,SGMO,Ramasastry Saira,Dir,M - OptEx,$5.03,10000,0,-100%,"+$50,300",1.0,7.0,-6.0,-8.0,SGMO
+391,D,2014-08-12 20:00:23,2014-08-08,SGMO,Ramasastry Saira,Dir,S - Sale+OE,$14.00,-10000,0,-100%,"-$140,000",1.0,7.0,-6.0,-8.0,SGMO
+392,D,2014-08-12 20:00:20,2014-08-11,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$7.28,8000,218347,+4%,"+$58,240",1.0,7.0,-6.0,-8.0,SGMO
+393,D,2014-08-12 20:00:20,2014-08-11,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$14.17,-10000,218347,-4%,"-$141,677",1.0,7.0,-6.0,-8.0,SGMO
+394,D,2014-08-05 20:00:28,2014-08-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$4.11,13202,96579,+16%,"+$54,260",-2.0,4.0,-5.0,-6.0,SGMO
+395,D,2014-08-05 20:00:28,2014-08-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$12.99,-15000,96579,-13%,"-$194,846",-2.0,4.0,-5.0,-6.0,SGMO
+396,D,2014-08-05 20:00:22,2014-08-04,SGMO,Larson John William,Dir,M - OptEx,$4.00,10000,218160,+5%,"+$40,000",-2.0,4.0,-5.0,-6.0,SGMO
+397,D,2014-08-05 20:00:22,2014-08-04,SGMO,Larson John William,Dir,S - Sale+OE,$12.56,-10000,218160,-4%,"-$125,578",-2.0,4.0,-5.0,-6.0,SGMO
+398,D,2014-08-05 20:00:21,2014-08-01,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.66,15000,109347,+16%,"+$84,840",-2.0,4.0,-5.0,-6.0,SGMO
+399,D,2014-08-05 20:00:21,2014-08-01,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$12.54,-15000,109347,-12%,"-$188,150",-2.0,4.0,-5.0,-6.0,SGMO
+400,D,2014-07-18 20:00:22,2014-07-18,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$4.11,25000,1811054,+1%,"+$102,750",-3.0,-3.0,11.0,10.0,SGMO
+401,D,2014-07-18 20:00:22,2014-07-18,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$12.16,-25000,1811054,-1%,"-$303,940",-3.0,-3.0,11.0,10.0,SGMO
+402,D,2014-07-11 20:00:21,2014-07-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$7.66,13000,220347,+6%,"+$99,590",-2.0,-14.0,0.0,15.0,SGMO
+403,D,2014-07-11 20:00:21,2014-07-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$13.26,-15000,220347,-6%,"-$198,902",-2.0,-14.0,0.0,15.0,SGMO
+404,D,2014-07-03 20:00:20,2014-07-01,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.66,15000,109347,+16%,"+$84,840",-8.0,-16.0,-23.0,-6.0,SGMO
+405,D,2014-07-03 20:00:20,2014-07-01,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$15.66,-15000,109347,-12%,"-$234,866",-8.0,-16.0,-23.0,-6.0,SGMO
+406,D,2014-06-25 20:00:29,2014-06-23,SGMO,Ramasastry Saira,Dir,M - OptEx,$5.03,5550,0,-100%,"+$27,917",0.0,4.0,-20.0,0.0,SGMO
+407,D,2014-06-25 20:00:29,2014-06-23,SGMO,Ramasastry Saira,Dir,S - Sale+OE,$15.53,-5550,0,-100%,"-$86,217",0.0,4.0,-20.0,0.0,SGMO
+408,,2014-06-18 20:00:30,2014-06-16,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$16.41,-25000,1811054,-1%,"-$410,138",-1.0,-4.0,-26.0,-10.0,SGMO
+409,D,2014-06-11 20:00:28,2014-06-09,SGMO,Mento Steven J,Dir,M - OptEx,$7.28,5834,25069,+30%,"+$42,472",-1.0,3.0,-16.0,-29.0,SGMO
+410,D,2014-06-11 20:00:28,2014-06-09,SGMO,Mento Steven J,Dir,S - Sale+OE,$15.00,-4328,25069,-15%,"-$64,920",-1.0,3.0,-16.0,-29.0,SGMO
+411,D,2014-06-11 20:00:20,2014-06-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$7.73,13000,222347,+6%,"+$100,490",-1.0,3.0,-16.0,-29.0,SGMO
+412,D,2014-06-11 20:00:20,2014-06-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$15.62,-15000,222347,-6%,"-$234,328",-1.0,3.0,-16.0,-29.0,SGMO
+413,D,2014-06-04 20:00:24,2014-06-02,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.66,15000,109347,+16%,"+$84,840",8.0,24.0,25.0,-13.0,SGMO
+414,D,2014-06-04 20:00:24,2014-06-02,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$12.85,-15000,109347,-12%,"-$192,723",8.0,24.0,25.0,-13.0,SGMO
+415,D,2014-05-29 20:00:25,2014-05-27,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.68,15000,98377,+18%,"+$55,230",-3.0,-3.0,14.0,-8.0,SGMO
+416,D,2014-05-29 20:00:25,2014-05-27,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$13.57,-15000,98377,-13%,"-$203,531",-3.0,-3.0,14.0,-8.0,SGMO
+417,,2014-05-16 20:00:27,2014-05-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$13.14,-25000,1936054,-1%,"-$328,543",1.0,2.0,28.0,-7.0,SGMO
+418,D,2014-05-14 20:00:18,2014-05-12,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$7.73,13000,224347,+6%,"+$100,490",-1.0,-3.0,21.0,-11.0,SGMO
+419,D,2014-05-14 20:00:18,2014-05-12,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$12.85,-15000,224347,-6%,"-$192,756",-1.0,-3.0,21.0,-11.0,SGMO
+420,D,2014-05-02 20:00:29,2014-05-01,SGMO,Gregory Philip D,"SVP of Research, CSO",M - OptEx,$5.66,15000,109347,+16%,"+$84,840",0.0,-11.0,-7.0,-10.0,SGMO
+421,D,2014-05-02 20:00:29,2014-05-01,SGMO,Gregory Philip D,"SVP of Research, CSO",S - Sale+OE,$13.68,-15000,109347,-12%,"-$205,179",0.0,-11.0,-7.0,-10.0,SGMO
+422,D,2014-04-30 20:00:30,2014-04-28,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.68,15000,97015,+18%,"+$55,230",-1.0,-7.0,-2.0,-16.0,SGMO
+423,D,2014-04-30 20:00:30,2014-04-28,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$13.64,-15000,97015,-13%,"-$204,532",-1.0,-7.0,-2.0,-16.0,SGMO
+424,D,2014-04-30 20:00:23,2014-04-28,SGMO,Larson John William,Dir,M - OptEx,$5.66,10000,218160,+5%,"+$56,600",-1.0,-7.0,-2.0,-16.0,SGMO
+425,D,2014-04-30 20:00:23,2014-04-28,SGMO,Larson John William,Dir,S - Sale+OE,$13.48,-10000,218160,-4%,"-$134,786",-1.0,-7.0,-2.0,-16.0,SGMO
+426,,2014-04-17 20:00:17,2014-04-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$14.20,-25000,1961054,-1%,"-$355,013",2.0,1.0,-7.0,-23.0,SGMO
+427,D,2014-04-11 20:00:21,2014-04-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$7.73,13000,225347,+6%,"+$100,490",1.0,0.0,-7.0,-25.0,SGMO
+428,D,2014-04-11 20:00:21,2014-04-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$15.72,-15000,225347,-6%,"-$235,798",1.0,0.0,-7.0,-25.0,SGMO
+429,D,2014-04-03 20:01:30,2014-04-01,SGMO,Gregory Philip D,"SVP Res., CSO",M - OptEx,$7.57,15000,109347,+16%,"+$113,480",-8.0,-2.0,-20.0,-33.0,SGMO
+430,D,2014-04-03 20:01:30,2014-04-01,SGMO,Gregory Philip D,"SVP Res., CSO",S - Sale+OE,$17.80,-15000,109347,-12%,"-$267,000",-8.0,-2.0,-20.0,-33.0,SGMO
+431,D,2014-03-28 20:00:23,2014-03-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.68,15000,97015,+18%,"+$55,230",8.0,0.0,-19.0,-32.0,SGMO
+432,D,2014-03-28 20:00:23,2014-03-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$18.65,-15000,97015,-13%,"-$279,695",8.0,0.0,-19.0,-32.0,SGMO
+433,D,2014-03-25 20:00:27,2014-03-21,SGMO,Gregory Philip D,See Remarks,M - OptEx,$7.64,15000,109347,+16%,"+$114,662",-3.0,-4.0,-24.0,-41.0,SGMO
+434,D,2014-03-25 20:00:27,2014-03-21,SGMO,Gregory Philip D,See Remarks,S - Sale+OE,$22.38,-15000,109347,-12%,"-$335,763",-3.0,-4.0,-24.0,-41.0,SGMO
+435,D,2014-03-17 20:02:12,2014-03-17,SGMO,Ramasastry Saira,Dir,M - OptEx,$5.03,10000,0,-100%,"+$50,300",3.0,-7.0,-38.0,-45.0,SGMO
+436,D,2014-03-17 20:02:12,2014-03-17,SGMO,Ramasastry Saira,Dir,S - Sale+OE,$23.26,-10000,0,-100%,"-$232,608",3.0,-7.0,-38.0,-45.0,SGMO
+437,D,2014-03-17 20:00:47,2014-03-14,SGMO,Mento Steven J,Dir,M - OptEx,$3.87,9722,23563,+70%,"+$37,624",3.0,-7.0,-38.0,-45.0,SGMO
+438,D,2014-03-17 20:00:47,2014-03-14,SGMO,Mento Steven J,Dir,S - Sale+OE,$22.77,-6103,23563,-21%,"-$138,955",3.0,-7.0,-38.0,-45.0,SGMO
+439,D,2014-03-17 20:00:31,2014-03-10,SGMO,Lanphier Edward O II,"Pres, CEO",G - Gift,$0.00,-4000,1986054,0%,-$0,3.0,-7.0,-38.0,-45.0,SGMO
+440,D,2014-03-17 20:00:31,2014-03-17,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$5.19,50000,1986054,+3%,"+$259,500",3.0,-7.0,-38.0,-45.0,SGMO
+441,D,2014-03-17 20:00:31,2014-03-17,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$23.22,-50000,1986054,-2%,"-$1,160,930",3.0,-7.0,-38.0,-45.0,SGMO
+442,D,2014-03-12 20:00:20,2014-03-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,227347,+5%,"+$34,500",-3.0,1.0,-31.0,-49.0,SGMO
+443,D,2014-03-12 20:00:20,2014-03-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$22.31,-10000,227347,-4%,"-$223,071",-3.0,1.0,-31.0,-49.0,SGMO
+444,D,2014-02-28 20:01:01,2014-02-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.68,15000,97015,+18%,"+$55,230",0.0,25.0,-8.0,-19.0,SGMO
+445,D,2014-02-28 20:01:01,2014-02-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$19.72,-15000,97015,-13%,"-$295,752",0.0,25.0,-8.0,-19.0,SGMO
+446,D,2014-02-19 20:00:37,2014-02-18,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$5.19,50000,1990054,+3%,"+$259,500",1.0,11.0,30.0,-19.0,SGMO
+447,D,2014-02-19 20:00:37,2014-02-18,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$18.09,-50000,1990054,-2%,"-$904,350",1.0,11.0,30.0,-19.0,SGMO
+448,D,2014-02-19 20:00:23,2014-02-14,SGMO,Ringo William R,Dir,M - OptEx,$5.64,25000,800,-103%,"+$141,050",1.0,11.0,30.0,-19.0,SGMO
+449,D,2014-02-19 20:00:23,2014-02-14,SGMO,Ringo William R,Dir,S - Sale+OE,$18.06,-25000,800,-97%,"-$451,575",1.0,11.0,30.0,-19.0,SGMO
+450,D,2014-02-12 20:02:15,2014-02-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,227347,+5%,"+$34,500",3.0,1.0,25.0,-22.0,SGMO
+451,D,2014-02-12 20:02:15,2014-02-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$19.26,-10000,227347,-4%,"-$192,638",3.0,1.0,25.0,-22.0,SGMO
+452,D,2014-02-05 20:00:22,2014-02-03,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$3.76,15000,109347,+16%,"+$56,370",-2.0,6.0,24.0,-24.0,SGMO
+453,D,2014-02-05 20:00:22,2014-02-03,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$18.83,-15000,109347,-12%,"-$282,516",-2.0,6.0,24.0,-24.0,SGMO
+454,D,2014-01-29 20:00:20,2014-01-27,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.68,15000,97015,+18%,"+$55,230",3.0,0.0,0.0,-36.0,SGMO
+455,D,2014-01-29 20:00:20,2014-01-27,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$18.58,-15000,97015,-13%,"-$278,729",3.0,0.0,0.0,-36.0,SGMO
+456,D,2014-01-17 20:01:02,2014-01-15,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$6.39,50000,1990054,+3%,"+$319,500",1.0,-4.0,-7.0,-35.0,SGMO
+457,D,2014-01-17 20:01:02,2014-01-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$18.51,-50000,1990054,-2%,"-$925,675",1.0,-4.0,-7.0,-35.0,SGMO
+458,D,2014-01-17 20:00:35,2014-01-15,SGMO,Cleveland Paul B,Dir,M - OptEx,$5.03,8333,0,-100%,"+$41,915",1.0,-4.0,-7.0,-35.0,SGMO
+459,D,2014-01-17 20:00:35,2014-01-15,SGMO,Cleveland Paul B,Dir,S - Sale+OE,$18.68,-8333,0,-100%,"-$155,694",1.0,-4.0,-7.0,-35.0,SGMO
+460,D,2014-01-14 20:00:24,2014-01-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,227347,+5%,"+$34,500",4.0,6.0,-3.0,-33.0,SGMO
+461,D,2014-01-14 20:00:24,2014-01-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$18.69,-10000,227347,-4%,"-$186,893",4.0,6.0,-3.0,-33.0,SGMO
+462,D,2014-01-03 20:38:16,2014-01-02,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$3.76,15000,109347,+16%,"+$56,370",-2.0,39.0,39.0,19.0,SGMO
+463,D,2014-01-03 20:38:16,2014-01-02,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$13.56,-15000,109347,-12%,"-$203,340",-2.0,39.0,39.0,19.0,SGMO
+464,D,2013-12-30 20:00:33,2013-12-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.68,15000,97015,+18%,"+$55,230",-1.0,-6.0,37.0,8.0,SGMO
+465,D,2013-12-30 20:00:33,2013-12-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$14.37,-15000,97015,-13%,"-$215,477",-1.0,-6.0,37.0,8.0,SGMO
+466,D,2013-12-20 20:02:09,2013-12-18,SGMO,Lanphier Edward O II,"Pres, CEO",M - OptEx,$6.39,50000,1990054,+3%,"+$319,500",5.0,2.0,43.0,13.0,SGMO
+467,D,2013-12-20 20:02:09,2013-12-18,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale+OE,$12.47,-50000,1990054,-2%,"-$623,705",5.0,2.0,43.0,13.0,SGMO
+468,D,2013-12-13 20:55:07,2013-12-12,SGMO,Gregory Philip D,"VP, Research, CSO",A - Grant,$0.00,35000,109347,+47%,+$0,3.0,6.0,53.0,38.0,SGMO
+469,D,2013-12-13 20:55:07,2013-12-12,SGMO,Gregory Philip D,"VP, Research, CSO",F - Tax,$12.12,-15653,109347,-13%,"-$189,714",3.0,6.0,53.0,38.0,SGMO
+470,D,2013-12-13 20:03:08,2013-12-12,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",A - Grant,$0.00,23000,97015,+31%,+$0,3.0,6.0,53.0,38.0,SGMO
+471,D,2013-12-13 20:03:08,2013-12-12,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",F - Tax,$12.12,-14783,97015,-13%,"-$179,170",3.0,6.0,53.0,38.0,SGMO
+472,D,2013-12-13 19:59:46,2013-12-12,SGMO,Lanphier Edward O II,"Pres, CEO",A - Grant,$0.00,75000,1990054,+4%,+$0,3.0,6.0,53.0,38.0,SGMO
+473,D,2013-12-13 19:59:46,2013-12-12,SGMO,Lanphier Edward O II,"Pres, CEO",F - Tax,$12.12,-57398,1990054,-3%,"-$695,664",3.0,6.0,53.0,38.0,SGMO
+474,D,2013-12-13 19:58:09,2013-12-12,SGMO,Nichol Geoffrey,"EVP, R, D",A - Grant,$0.00,35000,142389,+33%,+$0,3.0,6.0,53.0,38.0,SGMO
+475,D,2013-12-13 19:58:09,2013-12-12,SGMO,Nichol Geoffrey,"EVP, R, D",F - Tax,$12.12,-22611,142389,-14%,"-$274,045",3.0,6.0,53.0,38.0,SGMO
+476,D,2013-12-13 19:58:05,2013-12-12,SGMO,Wolff Henry Ward,"EVP, CFO",A - Grant,$0.00,35000,227347,+18%,+$0,3.0,6.0,53.0,38.0,SGMO
+477,D,2013-12-13 19:58:05,2013-12-12,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$12.12,-20872,227347,-8%,"-$252,969",3.0,6.0,53.0,38.0,SGMO
+478,D,2013-12-12 20:00:25,2013-12-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,213219,+5%,"+$34,500",1.0,4.0,51.0,30.0,SGMO
+479,D,2013-12-12 20:00:25,2013-12-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$11.97,-10000,213219,-4%,"-$119,670",1.0,4.0,51.0,30.0,SGMO
+480,D,2013-12-04 20:01:33,2013-12-02,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$3.76,15000,90000,+20%,"+$56,370",0.0,-3.0,6.0,11.0,SGMO
+481,D,2013-12-04 20:01:33,2013-12-02,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$11.66,-15000,90000,-14%,"-$174,836",0.0,-3.0,6.0,11.0,SGMO
+482,D,2013-12-04 20:00:26,2013-12-02,SGMO,Cleveland Paul B,Dir,M - OptEx,$6.41,10000,0,-100%,"+$64,100",0.0,-3.0,6.0,11.0,SGMO
+483,D,2013-12-04 20:00:26,2013-12-02,SGMO,Cleveland Paul B,Dir,S - Sale+OE,$11.64,-10000,0,-100%,"-$116,393",0.0,-3.0,6.0,11.0,SGMO
+484,D,2013-11-29 20:00:17,2013-11-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.90,15000,88798,+20%,"+$58,570",-3.0,4.0,16.0,1.0,SGMO
+485,D,2013-11-29 20:00:17,2013-11-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$11.83,-15000,88798,-14%,"-$177,378",-3.0,4.0,16.0,1.0,SGMO
+486,D,2013-11-15 20:01:15,2013-11-13,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,213219,+5%,"+$34,500",-4.0,4.0,20.0,26.0,SGMO
+487,D,2013-11-15 20:01:15,2013-11-13,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$10.00,-10000,213219,-4%,"-$100,000",-4.0,4.0,20.0,26.0,SGMO
+488,,2013-11-15 20:00:49,2013-11-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$10.11,-25000,1972452,-1%,"-$252,723",-4.0,4.0,20.0,26.0,SGMO
+489,DM,2013-11-05 20:02:10,2013-11-01,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$3.76,15000,90000,+20%,"+$56,370",-7.0,-2.0,29.0,19.0,SGMO
+490,DM,2013-11-05 20:02:10,2013-11-01,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$9.60,-15000,90000,-14%,"-$144,065",-7.0,-2.0,29.0,19.0,SGMO
+491,D,2013-10-30 20:00:32,2013-10-28,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.90,15000,86798,+21%,"+$58,570",-5.0,0.0,18.0,36.0,SGMO
+492,D,2013-10-30 20:00:32,2013-10-28,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$10.39,-15000,86798,-15%,"-$155,780",-5.0,0.0,18.0,36.0,SGMO
+493,D,2013-10-23 21:01:38,2013-10-21,SGMO,Cleveland Paul B,Dir,M - OptEx,$4.54,10000,0,-100%,"+$45,400",-2.0,-2.0,-4.0,34.0,SGMO
+494,D,2013-10-23 21:01:38,2013-10-21,SGMO,Cleveland Paul B,Dir,S - Sale+OE,$10.93,-10000,0,-100%,"-$109,336",-2.0,-2.0,-4.0,34.0,SGMO
+495,,2013-10-17 20:01:16,2013-10-03,SGMO,Lanphier Edward O II,"Pres, CEO",G - Gift,$0.00,-13500,1997452,-1%,-$0,-6.0,-10.0,-16.0,20.0,SGMO
+496,,2013-10-17 20:01:16,2013-10-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$11.32,-25000,1997452,-1%,"-$283,083",-6.0,-10.0,-16.0,20.0,SGMO
+497,D,2013-10-15 20:02:17,2013-10-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,209219,+5%,"+$34,500",1.0,-5.0,-15.0,26.0,SGMO
+498,D,2013-10-15 20:02:17,2013-10-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$11.28,-10000,209219,-5%,"-$112,763",1.0,-5.0,-15.0,26.0,SGMO
+499,D,2013-10-04 06:00:56,2013-10-01,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$4.26,15000,90000,+20%,"+$63,930",-2.0,-13.0,-27.0,20.0,SGMO
+500,D,2013-10-04 06:00:56,2013-10-01,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$10.54,-15000,90000,-14%,"-$158,081",-2.0,-13.0,-27.0,20.0,SGMO
+501,D,2013-09-30 20:00:32,2013-09-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.90,15000,84798,+21%,"+$58,570",14.0,20.0,1.0,70.0,SGMO
+502,D,2013-09-30 20:00:32,2013-09-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$10.57,-15000,84798,-15%,"-$158,574",14.0,20.0,1.0,70.0,SGMO
+503,,2013-09-18 21:45:31,2013-09-16,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$11.29,-25000,2035952,-1%,"-$282,128",-3.0,-7.0,2.0,121.0,SGMO
+504,D,2013-09-12 20:01:14,2013-09-10,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,209219,+5%,"+$34,500",7.0,6.0,7.0,116.0,SGMO
+505,D,2013-09-12 20:01:14,2013-09-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$10.86,-10000,209219,-5%,"-$108,593",7.0,6.0,7.0,116.0,SGMO
+506,D,2013-09-05 20:02:38,2013-09-03,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$4.26,15000,90000,+20%,"+$63,930",-1.0,1.0,24.0,119.0,SGMO
+507,D,2013-09-05 20:02:38,2013-09-03,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$10.33,-15000,90000,-14%,"-$154,982",-1.0,1.0,24.0,119.0,SGMO
+508,D,2013-09-05 20:00:52,2013-09-03,SGMO,Cleveland Paul B,Dir,M - OptEx,$2.04,7278,0,-100%,"+$14,847",-1.0,1.0,24.0,119.0,SGMO
+509,D,2013-09-05 20:00:52,2013-09-03,SGMO,Cleveland Paul B,Dir,S - Sale+OE,$10.30,-7278,0,-100%,"-$74,978",-1.0,1.0,24.0,119.0,SGMO
+510,D,2013-08-28 20:01:15,2013-08-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.84,13000,84798,+18%,"+$49,930",1.0,6.0,9.0,98.0,SGMO
+511,D,2013-08-28 20:01:15,2013-08-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$10.04,-15000,84798,-15%,"-$150,606",1.0,6.0,9.0,98.0,SGMO
+512,,2013-08-16 20:00:28,2013-08-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$10.12,-25000,2060952,-1%,"-$252,880",-1.0,3.0,9.0,84.0,SGMO
+513,D,2013-08-15 20:01:46,2013-08-13,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,209219,+5%,"+$34,500",0.0,0.0,13.0,81.0,SGMO
+514,D,2013-08-15 20:01:46,2013-08-13,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$10.00,-10000,209219,-5%,"-$100,000",0.0,0.0,13.0,81.0,SGMO
+515,D,2013-08-05 16:20:13,2013-08-01,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$4.26,15000,90000,+20%,"+$63,930",-3.0,-3.0,2.0,87.0,SGMO
+516,D,2013-08-05 16:20:13,2013-08-01,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$9.89,-15000,90000,-14%,"-$148,322",-3.0,-3.0,2.0,87.0,SGMO
+517,D,2013-07-30 16:20:38,2013-07-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.84,13000,86798,+18%,"+$49,930",-1.0,5.0,-3.0,95.0,SGMO
+518,D,2013-07-30 16:20:38,2013-07-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$10.09,-15000,86798,-15%,"-$151,308",-1.0,5.0,-3.0,95.0,SGMO
+519,D,2013-07-30 16:20:35,2013-07-29,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$4.21,15000,90000,+20%,"+$63,120",-1.0,5.0,-3.0,95.0,SGMO
+520,D,2013-07-30 16:20:35,2013-07-29,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$10.04,-15000,90000,-14%,"-$150,556",-1.0,5.0,-3.0,95.0,SGMO
+521,,2013-07-19 18:13:08,2013-07-17,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$10.00,-25000,2085952,-1%,"-$250,003",-1.0,7.0,2.0,105.0,SGMO
+522,D,2013-07-19 18:07:44,2013-07-17,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,209219,+5%,"+$34,500",-1.0,7.0,2.0,105.0,SGMO
+523,D,2013-07-19 18:07:44,2013-07-17,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$10.00,-10000,209219,-5%,"-$100,000",-1.0,7.0,2.0,105.0,SGMO
+524,D,2013-07-17 16:30:28,2013-07-15,SGMO,Cleveland Paul B,Dir,M - OptEx,$2.04,8000,0,-100%,"+$16,320",-5.0,-9.0,5.0,87.0,SGMO
+525,D,2013-07-17 16:30:28,2013-07-15,SGMO,Cleveland Paul B,Dir,S - Sale+OE,$9.59,-8000,0,-100%,"-$76,718",-5.0,-9.0,5.0,87.0,SGMO
+526,D,2013-06-05 16:30:29,2013-06-03,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$3.45,3000,90000,+3%,"+$10,350",1.0,5.0,3.0,50.0,SGMO
+527,D,2013-06-05 16:30:29,2013-06-03,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$7.88,-3000,90000,-3%,"-$23,640",1.0,5.0,3.0,50.0,SGMO
+528,D,2013-05-30 16:31:35,2013-05-28,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,88798,+20%,"+$54,150",-5.0,-8.0,-12.0,39.0,SGMO
+529,D,2013-05-30 16:31:35,2013-05-28,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$8.32,-15000,88798,-14%,"-$124,818",-5.0,-8.0,-12.0,39.0,SGMO
+530,D,2013-05-09 16:50:28,2013-05-07,SGMO,Larson John William,Dir,M - OptEx,$2.45,10000,218160,+5%,"+$24,500",3.0,1.0,-6.0,18.0,SGMO
+531,D,2013-05-03 17:36:02,2013-05-01,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$3.45,6000,90000,+7%,"+$20,700",-4.0,-2.0,-7.0,13.0,SGMO
+532,D,2013-05-03 17:36:02,2013-05-01,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$10.09,-6000,90000,-6%,"-$60,557",-4.0,-2.0,-7.0,13.0,SGMO
+533,D,2013-04-29 18:16:15,2013-04-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,88798,+20%,"+$54,150",-2.0,-17.0,-21.0,0.0,SGMO
+534,D,2013-04-29 18:16:15,2013-04-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$10.72,-15000,88798,-14%,"-$160,746",-2.0,-17.0,-21.0,0.0,SGMO
+535,,2013-04-19 06:00:34,2013-03-28,SGMO,Lanphier Edward O II,"Pres, CEO",G - Gift,$0.00,-12000,2210952,-1%,-$0,4.0,12.0,-11.0,19.0,SGMO
+536,M,2013-04-19 06:00:34,2013-04-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$10.00,-5190,2210952,0%,"-$51,900",4.0,12.0,-11.0,19.0,SGMO
+537,D,2013-04-12 16:30:33,2013-04-10,SGMO,Wolff Henry Ward,"EVP, CFO",A - Grant,$3.45,10000,209219,+5%,"+$34,500",-4.0,-6.0,-14.0,8.0,SGMO
+538,D,2013-04-12 16:30:33,2013-04-10,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$10.00,-10000,209219,-5%,"-$100,000",-4.0,-6.0,-14.0,8.0,SGMO
+539,D,2013-04-03 18:06:05,2013-04-01,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$3.45,6000,90000,+7%,"+$20,700",-2.0,5.0,1.0,12.0,SGMO
+540,D,2013-04-03 18:06:05,2013-04-01,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$9.54,-6000,90000,-6%,"-$57,240",-2.0,5.0,1.0,12.0,SGMO
+541,D,2013-03-28 17:44:18,2013-03-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,88798,+20%,"+$54,150",-3.0,-3.0,10.0,10.0,SGMO
+542,D,2013-03-28 17:44:18,2013-03-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$9.18,-15000,88798,-14%,"-$137,724",-3.0,-3.0,10.0,10.0,SGMO
+543,D,2013-03-01 18:36:31,2013-03-01,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$4.92,6000,90000,+7%,"+$29,520",4.0,-7.0,-11.0,-4.0,SGMO
+544,D,2013-03-01 18:36:31,2013-03-01,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$10.00,-6000,90000,-6%,"-$60,005",4.0,-7.0,-11.0,-4.0,SGMO
+545,D,2013-03-01 18:34:24,2013-02-28,SGMO,Wolff Henry Ward,"EVP, CFO",M - OptEx,$3.45,10000,209219,+5%,"+$34,500",4.0,-7.0,-11.0,-4.0,SGMO
+546,D,2013-03-01 18:34:24,2013-02-28,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$10.00,-10000,209219,-5%,"-$100,000",4.0,-7.0,-11.0,-4.0,SGMO
+547,,2013-03-01 18:32:37,2013-02-28,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$10.00,-25000,2228142,-1%,"-$250,000",4.0,-7.0,-11.0,-4.0,SGMO
+548,D,2013-02-28 18:15:36,2013-02-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,88798,+20%,"+$54,150",2.0,-3.0,-7.0,-7.0,SGMO
+549,D,2013-02-28 18:15:36,2013-02-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$8.64,-15000,88798,-14%,"-$129,600",2.0,-3.0,-7.0,-7.0,SGMO
+550,AD,2013-02-28 18:11:27,2013-01-28,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,88798,+20%,"+$54,150",2.0,-3.0,-7.0,-7.0,SGMO
+551,AD,2013-02-28 18:11:27,2013-01-28,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$9.68,-15000,88798,-14%,"-$145,158",2.0,-3.0,-7.0,-7.0,SGMO
+552,D,2013-02-05 16:15:35,2013-02-01,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$4.92,6000,90000,+7%,"+$29,520",1.0,-3.0,5.0,10.0,SGMO
+553,D,2013-02-05 16:15:35,2013-02-01,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$9.53,-6000,90000,-6%,"-$57,195",1.0,-3.0,5.0,10.0,SGMO
+554,D,2013-01-30 16:17:51,2012-01-28,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,88798,+20%,"+$54,150",0.0,-2.0,7.0,3.0,SGMO
+555,D,2013-01-30 16:17:51,2012-01-28,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$9.68,-15000,88798,-14%,"-$145,158",0.0,-2.0,7.0,3.0,SGMO
+556,D,2013-01-28 06:01:25,2013-01-23,SGMO,Wolff Henry Ward,"EVP, CFO",A - Grant,$3.45,8000,209219,+4%,"+$27,600",-1.0,-2.0,-10.0,4.0,SGMO
+557,D,2013-01-28 06:01:25,2013-01-23,SGMO,Wolff Henry Ward,"EVP, CFO",S - Sale+OE,$10.00,-10000,209219,-5%,"-$100,000",-1.0,-2.0,-10.0,4.0,SGMO
+558,M,2013-01-28 06:01:04,2013-01-23,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$10.00,-8600,2253142,0%,"-$86,008",-1.0,-2.0,-10.0,4.0,SGMO
+559,D,2013-01-04 18:14:37,2013-01-02,SGMO,Gregory Philip D,"VP, Research, CSO",M - OptEx,$4.92,6000,90000,+7%,"+$29,520",-3.0,4.0,41.0,29.0,SGMO
+560,D,2013-01-04 18:14:37,2013-01-02,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$6.05,-6000,90000,-6%,"-$36,300",-3.0,4.0,41.0,29.0,SGMO
+561,D,2012-12-28 16:06:11,2012-12-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,88798,+20%,"+$54,150",1.0,11.0,60.0,31.0,SGMO
+562,D,2012-12-28 16:06:11,2012-12-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$5.92,-17000,88798,-16%,"-$100,718",1.0,11.0,60.0,31.0,SGMO
+563,D,2012-12-10 20:40:21,2012-12-06,SGMO,Gregory Philip D,"VP, Research, CSO",A - Grant,$0.00,40000,90000,+80%,+$0,0.0,-1.0,13.0,36.0,SGMO
+564,D,2012-12-10 20:40:21,2012-12-10,SGMO,Gregory Philip D,"VP, Research, CSO",S - Sale+OE,$5.46,-24000,90000,-21%,"-$131,040",0.0,-1.0,13.0,36.0,SGMO
+565,D,2012-12-10 20:39:12,2012-12-06,SGMO,Lanphier Edward O II,"Pres, CEO",A - Grant,$0.00,180000,2289742,+9%,+$0,0.0,-1.0,13.0,36.0,SGMO
+566,D,2012-12-10 20:39:12,2012-06-13,SGMO,Lanphier Edward O II,"Pres, CEO",G - Gift,$0.00,-11000,2289742,0%,-$0,0.0,-1.0,13.0,36.0,SGMO
+567,D,2012-12-10 20:33:46,2012-12-06,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",A - Grant,$0.00,35000,90798,+63%,+$0,0.0,-1.0,13.0,36.0,SGMO
+568,D,2012-12-10 20:31:45,2012-12-06,SGMO,Wolff Henry Ward,"EVP, CFO",A - Grant,$0.00,45000,211219,+27%,+$0,0.0,-1.0,13.0,36.0,SGMO
+569,D,2012-12-10 20:28:28,2012-12-06,SGMO,Nichol Geoffrey,"EVP, R, D",A - Grant,$0.00,55000,130000,+73%,+$0,0.0,-1.0,13.0,36.0,SGMO
+570,,2012-12-05 18:06:08,2012-12-03,SGMO,Larson John William,Dir,S - Sale,$5.64,-15000,208160,-7%,"-$84,634",0.0,12.0,23.0,45.0,SGMO
+571,D,2012-11-28 19:35:50,2012-11-27,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,55798,+37%,"+$54,150",1.0,-5.0,6.0,48.0,SGMO
+572,DM,2012-11-28 19:35:50,2012-11-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$5.53,-19736,55798,-26%,"-$109,232",1.0,-5.0,6.0,48.0,SGMO
+573,,2012-11-05 18:15:43,2012-11-01,SGMO,Larson John William,Dir,S - Sale,$5.52,-15000,223160,-6%,"-$82,764",-1.0,-5.0,1.0,49.0,SGMO
+574,D,2012-10-29 21:53:47,2012-10-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,58534,+34%,"+$54,150",-1.0,-5.0,3.0,72.0,SGMO
+575,D,2012-10-29 21:53:47,2012-10-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$5.70,-20000,58534,-25%,"-$113,935",-1.0,-5.0,3.0,72.0,SGMO
+576,D,2012-10-17 21:05:20,2012-10-17,SGMO,Gregory Philip D,"VP, Therapeutic Dev., CMO",M - OptEx,$4.92,6000,50000,+14%,"+$29,520",-2.0,-7.0,-17.0,71.0,SGMO
+577,D,2012-10-17 21:05:20,2012-10-17,SGMO,Gregory Philip D,"VP, Therapeutic Dev., CMO",S - Sale+OE,$6.00,-6000,50000,-11%,"-$36,000",-2.0,-7.0,-17.0,71.0,SGMO
+578,,2012-10-17 17:58:31,2012-10-15,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale,$5.66,-5000,63534,-7%,"-$28,283",-2.0,-7.0,-17.0,71.0,SGMO
+579,,2012-10-03 17:51:41,2012-10-01,SGMO,Larson John William,Dir,S - Sale,$6.20,-15000,238160,-6%,"-$93,035",0.0,-2.0,-13.0,56.0,SGMO
+580,D,2012-09-06 17:51:19,2012-09-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,68534,+28%,"+$54,150",1.0,6.0,6.0,66.0,SGMO
+581,D,2012-09-06 17:51:19,2012-09-05,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$5.60,-15000,68534,-18%,"-$84,000",1.0,6.0,6.0,66.0,SGMO
+582,,2012-09-06 17:46:21,2012-09-04,SGMO,Larson John William,Dir,S - Sale,$5.30,-15000,253160,-6%,"-$79,494",1.0,6.0,6.0,66.0,SGMO
+583,,2012-08-29 19:07:58,2012-08-27,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale,$5.18,-5000,68534,-7%,"-$25,903",-2.0,3.0,11.0,102.0,SGMO
+584,,2012-08-03 17:27:52,2012-08-01,SGMO,Larson John William,Dir,S - Sale,$5.25,-15000,268160,-5%,"-$78,825",-3.0,-1.0,3.0,82.0,SGMO
+585,D,2012-07-30 16:58:05,2012-07-27,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",M - OptEx,$3.61,15000,73534,+26%,"+$54,150",-2.0,-3.0,-2.0,71.0,SGMO
+586,DM,2012-07-30 16:58:05,2012-07-26,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",S - Sale+OE,$5.47,-20000,73534,-21%,"-$109,320",-2.0,-3.0,-2.0,71.0,SGMO
+587,,2012-07-03 16:02:58,2012-07-02,SGMO,Larson John William,Dir,S - Sale,$5.24,-15000,283160,-5%,"-$78,556",-1.0,-4.0,-12.0,13.0,SGMO
+588,,2012-06-19 17:18:25,2012-06-15,SGMO,Larson John William,Dir,S - Sale,$5.00,-15000,298160,-5%,"-$75,000",-5.0,-8.0,-6.0,10.0,SGMO
+589,,2012-01-04 18:08:13,2011-12-30,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$2.84,-2234,162219,-1%,"-$6,345",1.0,7.0,50.0,90.0,SGMO
+590,,2011-12-12 21:02:14,2011-12-08,SGMO,Lanphier Edward O II,"Pres, CEO",A - Grant,$0.00,150000,2160742,+7%,+$0,3.0,6.0,24.0,69.0,SGMO
+591,,2011-12-12 21:02:14,2011-06-01,SGMO,Lanphier Edward O II,"Pres, CEO",G - Gift,$0.00,-15000,2160742,-1%,-$0,3.0,6.0,24.0,69.0,SGMO
+592,,2011-12-12 20:59:38,2011-12-08,SGMO,Wolff Henry Ward,"EVP, CFO",A - Grant,$0.00,75000,164453,+84%,+$0,3.0,6.0,24.0,69.0,SGMO
+593,,2011-12-12 20:57:42,2011-12-08,SGMO,Nichol Geoffrey,"EVP, R, D",A - Grant,$0.00,75000,75000,New,+$0,3.0,6.0,24.0,69.0,SGMO
+594,,2011-12-12 20:55:21,2011-12-08,SGMO,Gregory Philip D,"CSO, VP, Research",A - Grant,$0.00,50000,50000,New,+$0,3.0,6.0,24.0,69.0,SGMO
+595,,2011-12-12 20:53:03,2011-12-08,SGMO,Ichikawa David G,"SVP, Bus. Dev.",A - Grant,$0.00,25000,25000,New,+$0,3.0,6.0,24.0,69.0,SGMO
+596,,2011-12-12 20:50:23,2011-12-08,SGMO,Ando Dale G,"VP, Therapeutic Dev., CMO",A - Grant,$0.00,50000,76534,+188%,+$0,3.0,6.0,24.0,69.0,SGMO
+597,,2011-10-04 16:48:40,2011-09-30,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$4.35,-2234,87453,-2%,"-$9,718",4.0,1.0,-10.0,55.0,SGMO
+598,AD,2011-09-14 19:18:54,2011-09-09,SGMO,Gregory Philip D,"CSO, VP, Research",M - OptEx,$3.45,2500,2500,New,"+$8,625",0.0,-10.0,-43.0,-20.0,SGMO
+599,D,2011-09-13 20:48:41,2011-09-09,SGMO,Gregory Philip D,"CSO, VP, Research",M - OptEx,$3.00,2500,0,-100%,"+$7,500",0.0,-6.0,-47.0,-19.0,SGMO
+600,D,2011-09-13 20:48:41,2011-09-09,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale+OE,$6.00,-2500,0,-100%,"-$15,000",0.0,-6.0,-47.0,-19.0,SGMO
+601,D,2011-07-11 20:04:41,2011-07-07,SGMO,Ichikawa David G,"SVP, Bus. Dev.",M - OptEx,$5.19,4000,0,-100%,"+$20,760",-1.0,1.0,-28.0,-46.0,SGMO
+602,D,2011-07-11 20:04:41,2011-07-07,SGMO,Ichikawa David G,"SVP, Bus. Dev.",S - Sale+OE,$6.47,-4000,0,-100%,"-$25,880",-1.0,1.0,-28.0,-46.0,SGMO
+603,,2011-07-05 17:17:05,2011-06-30,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$5.89,-2234,89687,-2%,"-$13,158",5.0,-2.0,-16.0,-54.0,SGMO
+604,D,2011-07-05 17:15:47,2011-07-01,SGMO,Gregory Philip D,"CSO, VP, Research",M - OptEx,$3.45,15000,0,-100%,"+$51,750",5.0,-2.0,-16.0,-54.0,SGMO
+605,D,2011-07-05 17:15:47,2011-07-01,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale+OE,$6.00,-15000,0,-100%,"-$90,000",5.0,-2.0,-16.0,-54.0,SGMO
+606,D,2011-06-08 18:05:08,2011-06-06,SGMO,Ichikawa David G,"SVP, Bus. Dev.",M - OptEx,$5.19,4000,0,-100%,"+$20,760",2.0,-5.0,6.0,-50.0,SGMO
+607,D,2011-06-08 18:05:08,2011-06-06,SGMO,Ichikawa David G,"SVP, Bus. Dev.",S - Sale+OE,$6.52,-4000,0,-100%,"-$26,080",2.0,-5.0,6.0,-50.0,SGMO
+608,D,2011-06-03 17:32:56,2011-06-01,SGMO,Gregory Philip D,"CSO, VP, Research",M - OptEx,$3.45,15000,0,-100%,"+$51,750",-5.0,-4.0,-9.0,-52.0,SGMO
+609,D,2011-06-03 17:32:56,2011-06-01,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale+OE,$6.80,-15000,0,-100%,"-$102,012",-5.0,-4.0,-9.0,-52.0,SGMO
+610,D,2011-05-09 17:20:45,2011-05-05,SGMO,Ichikawa David G,"SVP, Bus. Dev.",M - OptEx,$5.19,4000,0,-100%,"+$20,760",0.0,-5.0,-8.0,-57.0,SGMO
+611,D,2011-05-09 17:20:45,2011-05-05,SGMO,Ichikawa David G,"SVP, Bus. Dev.",S - Sale+OE,$6.74,-4000,0,-100%,"-$26,960",0.0,-5.0,-8.0,-57.0,SGMO
+612,D,2011-05-04 17:57:56,2011-05-02,SGMO,Gregory Philip D,"CSO, VP, Research",M - OptEx,$3.45,15000,0,-100%,"+$51,750",-2.0,1.0,-2.0,-50.0,SGMO
+613,D,2011-05-04 17:57:56,2011-05-02,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale+OE,$7.33,-15000,0,-100%,"-$109,930",-2.0,1.0,-2.0,-50.0,SGMO
+614,D,2011-04-27 19:10:10,2011-04-25,SGMO,Gregory Philip D,"CSO, VP, Research",M - OptEx,$3.32,15000,0,-100%,"+$49,856",-2.0,-8.0,-17.0,-56.0,SGMO
+615,D,2011-04-27 19:10:10,2011-04-25,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale+OE,$7.54,-19433,0,-100%,"-$146,508",-2.0,-8.0,-17.0,-56.0,SGMO
+616,D,2011-04-25 17:32:39,2011-04-21,SGMO,Ichikawa David G,"SVP, Bus. Dev.",M - OptEx,$5.19,8000,0,-100%,"+$41,520",1.0,-6.0,-16.0,-57.0,SGMO
+617,D,2011-04-25 17:32:39,2011-04-21,SGMO,Ichikawa David G,"SVP, Bus. Dev.",S - Sale+OE,$7.70,-8000,0,-100%,"-$61,625",1.0,-6.0,-16.0,-57.0,SGMO
+618,,2011-04-04 17:34:59,2011-03-31,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$8.33,-2235,89921,-2%,"-$18,618",0.0,-9.0,-16.0,-50.0,SGMO
+619,D,2011-03-02 18:46:07,2011-02-28,SGMO,Cleveland Paul B,Dir,M - OptEx,$2.04,1388,0,-100%,"+$2,832",-2.0,-4.0,-1.0,-36.0,SGMO
+620,D,2011-03-02 18:46:07,2011-02-28,SGMO,Cleveland Paul B,Dir,S - Sale+OE,$9.00,-1388,0,-100%,"-$12,492",-2.0,-4.0,-1.0,-36.0,SGMO
+621,M,2011-03-02 18:45:04,2011-02-28,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale,$8.64,-5000,4433,-53%,"-$43,215",-2.0,-4.0,-1.0,-36.0,SGMO
+622,,2011-02-03 17:14:46,2011-02-01,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale,$7.97,-2500,9433,-21%,"-$19,925",-1.0,-1.0,2.0,-34.0,SGMO
+623,,2011-01-05 16:42:39,2011-01-03,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale,$6.80,-2500,11933,-17%,"-$17,001",-2.0,3.0,10.0,-8.0,SGMO
+624,,2011-01-04 16:36:13,2010-12-31,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$6.64,-2234,92156,-2%,"-$14,834",1.0,3.0,11.0,-11.0,SGMO
+625,D,2010-12-23 19:52:53,2010-12-22,SGMO,Cleveland Paul B,Dir,M - OptEx,$2.68,32037,0,-100%,"+$85,955",0.0,-1.0,6.0,-17.0,SGMO
+626,D,2010-12-23 19:52:53,2010-12-22,SGMO,Cleveland Paul B,Dir,S - Sale+OE,$7.00,-32037,0,-100%,"-$224,259",0.0,-1.0,6.0,-17.0,SGMO
+627,D,2010-12-22 17:27:04,2010-12-20,SGMO,Cleveland Paul B,Dir,M - OptEx,$2.04,11297,0,-100%,"+$23,046",-1.0,0.0,5.0,-20.0,SGMO
+628,D,2010-12-22 17:27:04,2010-12-20,SGMO,Cleveland Paul B,Dir,S - Sale+OE,$7.00,-11297,0,-100%,"-$79,079",-1.0,0.0,5.0,-20.0,SGMO
+629,D,2010-12-10 17:04:40,2010-12-08,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale+OE,$6.00,-2500,12433,-17%,"-$15,000",-3.0,6.0,25.0,5.0,SGMO
+630,,2010-10-04 16:15:57,2010-09-30,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$3.43,-2239,92390,-2%,"-$7,680",7.0,8.0,14.0,135.0,SGMO
+631,,2010-08-30 18:09:37,2010-08-30,SGMO,Lanphier Edward O II,"Pres, CEO",P - Purchase,$3.01,10000,2161242,0%,"+$30,050",0.0,8.0,16.0,177.0,SGMO
+632,,2010-08-30 18:09:06,2010-08-30,SGMO,Wolff Henry Ward,"EVP, CFO",P - Purchase,$3.00,9000,94629,+11%,"+$27,000",0.0,8.0,16.0,177.0,SGMO
+633,,2010-07-02 16:05:14,2010-06-30,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$3.71,-2234,85629,-3%,"-$8,288",-2.0,7.0,7.0,91.0,SGMO
+634,,2010-05-05 16:05:20,2010-05-03,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale,$6.27,-2500,14933,-14%,"-$15,687",-5.0,2.0,-10.0,-26.0,SGMO
+635,D,2010-04-20 21:21:49,2010-04-16,SGMO,Ringo William R,Dir,A - Grant,$6.05,10000,10000,New,"+$60,500",0.0,3.0,-17.0,-38.0,SGMO
+636,,2010-04-16 17:01:08,2010-04-14,SGMO,Gregory Philip D,"CSO, VP, Research",S - Sale,$6.15,-2500,17433,-13%,"-$15,370",0.0,0.0,-17.0,-38.0,SGMO
+637,,2010-04-02 16:10:24,2010-03-31,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$5.42,-2233,85863,-3%,"-$12,103",1.0,-2.0,17.0,-38.0,SGMO
+638,,2010-01-05 16:01:42,2009-12-31,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$5.92,-2233,88096,-2%,"-$13,219",0.0,1.0,-11.0,-42.0,SGMO
+639,,2009-10-02 16:15:52,2009-09-30,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$8.21,-2233,88329,-2%,"-$18,333",5.0,-5.0,-32.0,-29.0,SGMO
+640,,2009-07-02 16:37:40,2009-06-30,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$4.94,-2234,90562,-2%,"-$11,036",2.0,-10.0,18.0,17.0,SGMO
+641,,2009-04-02 17:26:37,2009-03-31,SGMO,Wolff Henry Ward,"EVP, CFO",F - Tax,$4.23,-2237,90872,-2%,"-$9,463",1.0,0.0,-10.0,87.0,SGMO
+642,A,2009-02-09 18:21:11,2007-11-15,SGMO,Mento Steven J,Dir,S - Sale,$14.75,-15000,19944,-43%,"-$221,264",-5.0,-1.0,-26.0,14.0,SGMO
+643,,2009-01-05 18:19:01,2008-12-31,SGMO,Wolff Henry Ward,"Exe VP, CFO",F - Tax,$3.48,-8938,93109,-9%,"-$31,104",2.0,3.0,34.0,32.0,SGMO
+644,D,2008-09-04 21:30:19,2008-09-02,SGMO,Gregory Philip D,"VP, Research",M - OptEx,$3.00,1000,19933,+5%,"+$3,000",-2.0,-9.0,-27.0,-71.0,SGMO
+645,D,2008-09-04 21:30:19,2008-09-02,SGMO,Gregory Philip D,"VP, Research",S - Sale+OE,$10.12,-1000,19933,-5%,"-$10,120",-2.0,-9.0,-27.0,-71.0,SGMO
+646,,2008-08-19 21:30:20,2008-08-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$10.61,-25000,2339742,-1%,"-$265,191",-3.0,-8.0,-32.0,-54.0,SGMO
+647,,2008-08-19 21:11:49,2008-08-15,SGMO,Gregory Philip D,"VP, Research",S - Sale,$10.62,-10000,19933,-33%,"-$106,218",-3.0,-8.0,-32.0,-54.0,SGMO
+648,D,2008-08-05 19:38:12,2008-08-01,SGMO,Gregory Philip D,"VP, Research",S - Sale+OE,$10.85,-1000,29933,-3%,"-$10,845",0.0,2.0,-6.0,-55.0,SGMO
+649,,2008-08-01 18:43:34,2008-07-31,SGMO,Larson John William,Dir,S - Sale,$11.02,-5700,313160,-2%,"-$62,814",0.0,-1.0,-3.0,-56.0,SGMO
+650,M,2008-07-31 20:38:19,2008-07-29,SGMO,Larson John William,Dir,S - Sale,$11.20,-22500,318860,-7%,"-$252,102",-6.0,-4.0,-10.0,-64.0,SGMO
+651,,2008-07-17 21:30:18,2008-07-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$10.26,-25000,2364742,-1%,"-$256,454",1.0,0.0,0.0,-66.0,SGMO
+652,D,2008-07-03 16:31:47,2008-07-01,SGMO,Gregory Philip D,"VP, Research",M - OptEx,$4.92,1000,29933,+3%,"+$4,920",0.0,7.0,2.0,-64.0,SGMO
+653,D,2008-07-03 16:31:47,2008-07-01,SGMO,Gregory Philip D,"VP, Research",S - Sale+OE,$10.01,-1000,29933,-3%,"-$10,005",0.0,7.0,2.0,-64.0,SGMO
+654,,2008-07-02 21:30:53,2008-06-30,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$10.07,-25000,2402242,-1%,"-$251,775",-2.0,6.0,7.0,-70.0,SGMO
+655,D,2008-06-04 16:07:07,2008-06-02,SGMO,Gregory Philip D,"VP, Research",M - OptEx,$4.92,1000,29933,+3%,"+$4,920",9.0,-14.0,1.0,-81.0,SGMO
+656,D,2008-06-04 16:07:07,2008-06-02,SGMO,Gregory Philip D,"VP, Research",S - Sale+OE,$10.71,-1000,29933,-3%,"-$10,710",9.0,-14.0,1.0,-81.0,SGMO
+657,D,2008-05-23 13:02:18,2008-05-20,SGMO,Ichikawa David G,"SVP, Bus. Dev.",M - OptEx,$5.19,15000,0,-100%,"+$77,850",-5.0,-14.0,-31.0,-84.0,SGMO
+658,D,2008-05-23 13:02:18,2008-05-20,SGMO,Ichikawa David G,"SVP, Bus. Dev.",S - Sale+OE,$13.36,-15000,0,-100%,"-$200,460",-5.0,-14.0,-31.0,-84.0,SGMO
+659,,2008-05-19 18:12:02,2008-05-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$13.37,-25000,2427242,-1%,"-$334,311",-2.0,-10.0,-31.0,-82.0,SGMO
+660,D,2008-05-05 18:18:41,2008-05-01,SGMO,Gregory Philip D,"VP, Research",M - OptEx,$4.92,1000,29933,+3%,"+$4,920",-1.0,-3.0,-25.0,-45.0,SGMO
+661,D,2008-05-05 18:18:41,2008-05-01,SGMO,Gregory Philip D,"VP, Research",S - Sale+OE,$12.69,-1000,29933,-3%,"-$12,690",-1.0,-3.0,-25.0,-45.0,SGMO
+662,,2008-04-17 18:22:34,2008-04-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$11.44,-22700,1854542,-1%,"-$259,787",2.0,11.0,17.0,-39.0,SGMO
+663,,2008-04-17 18:22:19,2008-04-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$11.62,-2300,2452242,0%,"-$26,736",2.0,11.0,17.0,-39.0,SGMO
+664,D,2008-04-03 18:07:08,2008-04-01,SGMO,Gregory Philip D,"VP, Research",M - OptEx,$4.92,1000,27933,+4%,"+$4,920",1.0,-2.0,25.0,-27.0,SGMO
+665,D,2008-04-03 18:07:08,2008-04-01,SGMO,Gregory Philip D,"VP, Research",S - Sale+OE,$10.20,-1000,27933,-3%,"-$10,196",1.0,-2.0,25.0,-27.0,SGMO
+666,D,2008-03-21 18:17:31,2008-03-19,SGMO,Gregory Philip D,"VP, Research",M - OptEx,$4.92,1000,27933,+4%,"+$4,920",0.0,0.0,15.0,-21.0,SGMO
+667,D,2008-03-21 18:17:31,2008-03-19,SGMO,Gregory Philip D,"VP, Research",S - Sale+OE,$10.01,-1000,27933,-3%,"-$10,010",0.0,0.0,15.0,-21.0,SGMO
+668,,2008-03-19 19:23:34,2008-03-17,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$8.70,-24300,1877942,-1%,"-$211,366",1.0,6.0,14.0,-30.0,SGMO
+669,,2008-03-19 19:23:13,2008-03-17,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$8.87,-700,2477242,0%,"-$6,206",1.0,6.0,14.0,-30.0,SGMO
+670,D,2008-03-12 19:41:56,2008-02-14,SGMO,Zante Greg,"VP, Finance, Administration",M - OptEx,$4.11,100,693,+17%,+$411,0.0,-6.0,12.0,-10.0,SGMO
+671,D,2008-03-12 19:41:56,2008-02-14,SGMO,Zante Greg,"VP, Finance, Administration",S - Sale+OE,$12.00,-100,693,-13%,"-$1,200",0.0,-6.0,12.0,-10.0,SGMO
+672,D,2008-03-07 19:20:31,2008-03-05,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",M - OptEx,$0.17,400000,2502242,+19%,"+$68,000",-11.0,-11.0,-7.0,-15.0,SGMO
+673,DM,2008-03-07 19:20:31,2008-03-05,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale+OE,$12.60,-75000,2502242,-3%,"-$944,706",-11.0,-11.0,-7.0,-15.0,SGMO
+674,DM,2008-02-22 18:07:47,2008-02-20,SGMO,Ichikawa David G,"SVP, Bus. Dev.",M - OptEx,$5.19,15000,0,-100%,"+$77,850",-2.0,8.0,-8.0,-12.0,SGMO
+675,DM,2008-02-22 18:07:47,2008-02-20,SGMO,Ichikawa David G,"SVP, Bus. Dev.",S - Sale+OE,$12.05,-15000,0,-100%,"-$180,800",-2.0,8.0,-8.0,-12.0,SGMO
+676,,2008-02-20 18:00:24,2008-02-15,SGMO,Lanphier Edward O II,"Pres, Chief Exec Officer",S - Sale,$11.76,-25000,2177242,-1%,"-$294,034",-1.0,-4.0,-17.0,-13.0,SGMO
+677,D,2008-02-19 18:03:32,2008-02-14,SGMO,Zante Greg,"VP, Fin., Admin.",M - OptEx,$4.97,5000,693,-116%,"+$24,826",4.0,-2.0,-17.0,-7.0,SGMO
+678,D,2008-02-19 18:03:32,2008-02-14,SGMO,Zante Greg,"VP, Fin., Admin.",S - Sale+OE,$12.02,-5000,693,-88%,"-$60,095",4.0,-2.0,-17.0,-7.0,SGMO
+679,,2008-01-17 18:07:00,2008-01-15,SGMO,Lanphier Edward O II,"Pres, Chief Exec Officer",S - Sale,$13.13,-25000,2202242,-1%,"-$328,250",-5.0,-9.0,-8.0,-13.0,SGMO
+680,D,2008-01-17 18:06:18,2008-01-15,SGMO,Ichikawa David G,"SVP, Bus. Dev.",M - OptEx,$5.19,15000,0,-100%,"+$77,850",-5.0,-9.0,-8.0,-13.0,SGMO
+681,D,2008-01-17 18:06:18,2008-01-15,SGMO,Ichikawa David G,"SVP, Bus. Dev.",S - Sale+OE,$12.97,-15000,0,-100%,"-$194,588",-5.0,-9.0,-8.0,-13.0,SGMO
+682,D,2008-01-17 18:05:03,2008-01-15,SGMO,Gregory Philip D,"VP, Research",M - OptEx,$4.11,20000,27933,+252%,"+$82,200",-5.0,-9.0,-8.0,-13.0,SGMO
+683,D,2008-01-10 18:13:18,2008-01-08,SGMO,Zante Greg,"VP, Fin., Admin.",M - OptEx,$4.78,5000,693,-116%,"+$23,920",-2.0,-6.0,-18.0,-20.0,SGMO
+684,D,2008-01-10 18:13:18,2008-01-08,SGMO,Zante Greg,"VP, Fin., Admin.",S - Sale+OE,$12.87,-5000,693,-88%,"-$64,370",-2.0,-6.0,-18.0,-20.0,SGMO
+685,,2007-12-19 13:01:07,2007-12-17,SGMO,Lanphier Edward O II,"Pres, Chief Exec Officer",S - Sale,$13.13,-25000,2244492,-1%,"-$328,250",-1.0,2.0,-11.0,-32.0,SGMO
+686,D,2007-12-11 18:07:19,2007-12-07,SGMO,Zante Greg,"VP, Fin., Admin.",M - OptEx,$4.38,5000,693,-116%,"+$21,887",1.0,-10.0,-4.0,-35.0,SGMO
+687,D,2007-12-11 18:07:19,2007-12-07,SGMO,Zante Greg,"VP, Fin., Admin.",S - Sale+OE,$15.80,-5000,693,-88%,"-$78,995",1.0,-10.0,-4.0,-35.0,SGMO
+688,,2007-12-10 18:39:46,2007-12-06,SGMO,Gerber William G,Dir,S - Sale,$16.00,-6100,68300,-8%,"-$97,600",-2.0,-5.0,-10.0,-36.0,SGMO
+689,D,2007-12-10 18:35:36,2007-12-06,SGMO,Gregory Philip D,"VP, Research",M - OptEx,$4.92,5000,7933,+170%,"+$24,600",-2.0,-5.0,-10.0,-36.0,SGMO
+690,D,2007-12-10 18:35:36,2007-12-06,SGMO,Gregory Philip D,"VP, Research",S - Sale+OE,$16.00,-5000,7933,-39%,"-$80,000",-2.0,-5.0,-10.0,-36.0,SGMO
+691,D,2007-12-05 17:50:05,2007-12-03,SGMO,Wolff Henry Ward,"EVP, CFO",A - Grant,$0.00,100000,101000,>999%,+$0,5.0,-9.0,-22.0,-29.0,SGMO
+692,,2007-11-19 18:06:46,2007-11-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$14.86,-25000,1669492,-1%,"-$371,520",-5.0,-9.0,-6.0,-6.0,SGMO
+693,,2007-11-19 18:06:25,2007-11-15,SGMO,Mento Steven J,Dir,S - Sale,$14.75,-15000,24344,-38%,"-$221,264",-5.0,-9.0,-6.0,-6.0,SGMO
+694,,2007-11-16 18:03:14,2007-11-14,SGMO,Mento Steven J,Dir,S - Sale,$14.85,-19500,34944,-36%,"-$289,505",-3.0,-13.0,-15.0,-7.0,SGMO
+695,D,2007-11-15 18:05:43,2007-11-13,SGMO,Mento Steven J,Dir,M - OptEx,$4.84,54444,54444,New,"+$263,504",0.0,-14.0,-8.0,-9.0,SGMO
+696,D,2007-11-13 18:04:43,2007-11-08,SGMO,Gregory Philip D,"VP, Research",M - OptEx,$3.21,25000,7933,-146%,"+$80,182",-3.0,-6.0,-7.0,-10.0,SGMO
+697,D,2007-11-13 18:04:43,2007-11-08,SGMO,Gregory Philip D,"VP, Research",S - Sale+OE,$17.58,-25000,7933,-76%,"-$439,500",-3.0,-6.0,-7.0,-10.0,SGMO
+698,,2007-11-13 18:04:22,2007-11-08,SGMO,Larson John William,Dir,S - Sale,$18.93,-10000,341360,-3%,"-$189,265",-3.0,-6.0,-7.0,-10.0,SGMO
+699,D,2007-11-13 18:03:49,2007-11-08,SGMO,Zante Greg,"VP, Fin., Admin.",M - OptEx,$3.76,11858,0,-100%,"+$44,574",-3.0,-6.0,-7.0,-10.0,SGMO
+700,D,2007-11-13 18:03:49,2007-11-08,SGMO,Zante Greg,"VP, Fin., Admin.",S - Sale+OE,$18.03,-12500,0,-100%,"-$225,375",-3.0,-6.0,-7.0,-10.0,SGMO
+701,,2007-10-17 17:13:05,2007-10-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$16.15,-25000,2294492,-1%,"-$403,783",0.0,-2.0,-10.0,-31.0,SGMO
+702,,2007-09-26 17:56:23,2007-09-24,SGMO,Gerber William G,Dir,S - Sale,$13.34,-5000,74400,-6%,"-$66,700",3.0,4.0,13.0,-22.0,SGMO
+703,,2007-09-19 18:10:56,2007-09-17,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$12.09,-25000,2320492,-1%,"-$302,205",0.0,5.0,25.0,-21.0,SGMO
+704,,2007-08-28 17:01:07,2007-08-24,SGMO,Gerber William G,Dir,S - Sale,$10.87,-5000,79400,-6%,"-$54,346",1.0,0.0,25.0,8.0,SGMO
+705,,2007-08-17 18:12:31,2007-08-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$10.01,-25000,2345492,-1%,"-$250,295",5.0,10.0,20.0,14.0,SGMO
+706,,2007-07-25 19:53:42,2007-07-23,SGMO,Gerber William G,Dir,S - Sale,$9.66,-5000,84400,-6%,"-$48,300",-5.0,-9.0,18.0,13.0,SGMO
+707,,2007-07-18 20:00:15,2007-07-16,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$10.05,-25000,2370492,-1%,"-$251,250",3.0,0.0,5.0,33.0,SGMO
+708,M,2007-07-11 13:23:16,2000-08-24,SGMO,Kopp Leroy C,10%,P - Purchase,$9.02,277000,277000,New,"+$2,499,290",19.0,13.0,15.0,45.0,SGMO
+709,M,2007-07-11 13:21:35,2002-11-07,SGMO,Kopp Leroy C,10%,P - Purchase,$5.61,650000,735000,+765%,"+$3,644,900",19.0,13.0,15.0,45.0,SGMO
+710,M,2007-07-11 13:20:58,2000-08-22,SGMO,Kopp Leroy C,10%,P - Purchase,$20.25,90000,85000,-1800%,"+$1,822,081",19.0,13.0,15.0,45.0,SGMO
+711,,2007-07-11 13:20:58,2002-10-23,SGMO,Kopp Leroy C,10%,S - Sale,$1.82,-5000,85000,-6%,"-$9,100",19.0,13.0,15.0,45.0,SGMO
+712,,2007-06-27 17:42:35,2007-06-25,SGMO,Gerber William G,Dir,S - Sale,$8.50,-5000,89400,-5%,"-$42,500",-1.0,2.0,11.0,70.0,SGMO
+713,,2007-06-20 21:05:17,2007-06-18,SGMO,Gerber William G,Dir,S - Sale,$8.00,-5000,89400,-5%,"-$40,000",0.0,-8.0,18.0,48.0,SGMO
+714,,2007-06-19 18:10:16,2007-06-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$7.32,-25000,2413992,-1%,"-$182,880",5.0,2.0,19.0,65.0,SGMO
+715,,2007-05-17 16:43:23,2007-05-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$6.79,-25000,2438992,-1%,"-$169,864",3.0,2.0,13.0,118.0,SGMO
+716,,2007-04-18 16:13:46,2007-04-16,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$6.92,-25000,2463992,-1%,"-$172,956",2.0,3.0,0.0,133.0,SGMO
+717,,2007-03-19 16:28:47,2007-03-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$6.67,-25000,2488992,-1%,"-$166,658",0.0,4.0,2.0,89.0,SGMO
+718,,2007-02-20 16:29:00,2007-02-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$8.00,-25000,2513992,-1%,"-$200,107",-2.0,-5.0,-19.0,27.0,SGMO
+719,D,2007-02-15 16:17:19,2007-02-13,SGMO,Gregory Philip D,"VP, Research",M - OptEx,$3.20,6000,4000,-300%,"+$19,200",0.0,-3.0,-21.0,28.0,SGMO
+720,D,2007-02-15 16:17:19,2007-02-13,SGMO,Gregory Philip D,"VP, Research",S - Sale+OE,$8.18,-8000,4000,-67%,"-$65,464",0.0,-3.0,-21.0,28.0,SGMO
+721,,2007-01-18 18:05:50,2007-01-16,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$6.38,-25000,2538992,-1%,"-$159,621",3.0,4.0,18.0,44.0,SGMO
+722,,2006-12-19 16:06:05,2006-12-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$6.52,-25000,2624592,-1%,"-$163,070",1.0,2.0,11.0,36.0,SGMO
+723,D,2006-12-13 20:12:49,2006-12-11,SGMO,Zante Greg,"VP, Finance, Administration",D - Sale to issuer,$7.04,-827,0,-100%,"-$5,822",-1.0,-9.0,-7.0,14.0,SGMO
+724,DM,2006-12-13 20:12:49,2006-12-11,SGMO,Zante Greg,"VP, Finance, Administration",M - OptEx,$4.59,39917,0,-100%,"+$183,413",-1.0,-9.0,-7.0,14.0,SGMO
+725,DM,2006-12-13 20:12:49,2006-12-11,SGMO,Zante Greg,"VP, Finance, Administration",S - Sale+OE,$7.02,-39917,0,-100%,"-$280,266",-1.0,-9.0,-7.0,14.0,SGMO
+726,,2006-11-15 17:48:24,2006-11-15,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$5.43,-25000,2649492,-1%,"-$135,778",9.0,25.0,23.0,30.0,SGMO
+727,M,2006-10-17 20:08:45,2006-10-16,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$5.45,-25000,2674492,-1%,"-$136,259",-1.0,-5.0,-1.0,28.0,SGMO
+728,,2006-09-29 19:13:45,2006-09-28,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$5.90,-25000,2699492,-1%,"-$147,544",-5.0,-9.0,-8.0,19.0,SGMO
+729,,2006-08-31 21:18:57,2006-08-31,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$5.46,-25000,2724492,-1%,"-$136,594",-1.0,-8.0,1.0,20.0,SGMO
+730,,2006-06-06 12:26:01,2006-06-02,SGMO,Gregory Philip D,"VP, Research",S - Sale,$7.43,-6000,4000,-60%,"-$44,581",0.0,-8.0,-22.0,-3.0,SGMO
+731,D,2006-06-05 19:21:20,2006-06-01,SGMO,Zante Greg,"Sr. Dir Finance, Admin",M - OptEx,$3.00,8000,0,-100%,"+$24,000",0.0,-5.0,-21.0,3.0,SGMO
+732,D,2006-06-05 19:21:20,2006-06-01,SGMO,Zante Greg,"Sr. Dir Finance, Admin",S - Sale+OE,$7.90,-8000,0,-100%,"-$63,200",0.0,-5.0,-21.0,3.0,SGMO
+733,,2006-05-26 17:33:21,2006-05-24,SGMO,Lanphier Edward O II,"Pres, CEO, 10%",S - Sale,$5.41,-25000,2749492,-1%,"-$135,243",4.0,18.0,-4.0,19.0,SGMO
+734,,2005-12-16 17:28:49,2005-12-16,SGMO,Lanphier Edward O II,"Pres, CEO",G - Gift,$0.00,-48500,2779492,-2%,-$0,9.0,6.0,25.0,59.0,SGMO
+735,,2005-03-02 11:17:42,2005-03-01,SGMO,Larson John William,Dir,S - Sale,$5.15,-3000,351360,-1%,"-$15,440",4.0,-16.0,-25.0,-19.0,SGMO
+736,,2005-02-28 15:03:57,2005-02-25,SGMO,Larson John William,Dir,S - Sale,$5.17,-3000,354360,-1%,"-$15,500",-2.0,-2.0,-24.0,-24.0,SGMO
+737,,2005-02-09 17:56:20,2005-02-09,SGMO,Larson John William,Dir,S - Sale,$5.37,-3000,357360,-1%,"-$16,110",0.0,3.0,-22.0,-21.0,SGMO
+738,M,2005-02-09 15:35:16,2005-02-07,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$5.41,-20000,2827992,-1%,"-$108,100",0.0,3.0,-22.0,-21.0,SGMO
+739,,2005-02-02 12:12:59,2005-02-01,SGMO,Larson John William,Dir,S - Sale,$5.34,-3000,360360,-1%,"-$16,020",-3.0,1.0,-1.0,-18.0,SGMO
+740,,2005-01-28 19:50:14,2005-01-28,SGMO,Larson John William,Dir,S - Sale,$5.07,-3000,363360,-1%,"-$15,210",0.0,6.0,5.0,-7.0,SGMO
+741,,2005-01-20 11:17:47,2005-01-19,SGMO,Larson John William,Dir,S - Sale,$5.31,-3000,366360,-1%,"-$15,930",-6.0,-7.0,-1.0,-22.0,SGMO
+742,,2005-01-11 16:37:21,2005-01-11,SGMO,Larson John William,Dir,S - Sale,$5.45,-3000,369360,-1%,"-$16,350",-1.0,1.0,2.0,-23.0,SGMO
+743,,2005-01-04 19:24:04,2005-01-04,SGMO,Larson John William,Dir,S - Sale,$5.51,-3000,372360,-1%,"-$16,530",4.0,-1.0,-7.0,-35.0,SGMO
+744,,2005-01-03 15:15:22,2004-12-29,SGMO,Larson John William,Dir,S - Sale,$5.80,-3000,375360,-1%,"-$17,400",-3.0,-11.0,-11.0,-39.0,SGMO
+745,,2004-12-22 19:47:00,2004-12-22,SGMO,Larson John William,Dir,S - Sale,$5.52,-3000,378360,-1%,"-$16,560",7.0,5.0,-13.0,-29.0,SGMO
+746,,2004-12-22 18:50:56,2004-12-22,SGMO,Lanphier Edward O II,"Pres, CEO",G - Gift,$0.00,-39000,2668492,-1%,-$0,7.0,5.0,-13.0,-29.0,SGMO
+747,,2004-12-17 18:09:21,2004-12-16,SGMO,Larson John William,Dir,S - Sale,$5.26,-3000,381360,-1%,"-$15,780",-2.0,13.0,2.0,-23.0,SGMO
+748,,2004-11-30 12:36:24,2004-11-24,SGMO,Lanphier Edward O II,"Pres, CEO",G - Gift,$0.00,-15000,2707492,-1%,-$0,3.0,3.0,29.0,-18.0,SGMO
+749,M,2004-10-12 08:22:06,2004-10-07,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$5.01,-9150,2922492,0%,"-$45,833",-9.0,-10.0,-18.0,-14.0,SGMO
+750,,2004-10-08 18:34:58,2004-09-29,SGMO,Larson John William,Dir,S - Sale,$5.03,-3000,384360,-1%,"-$15,090",-2.0,-11.0,-21.0,-17.0,SGMO
+751,,2004-10-06 17:38:46,2004-09-27,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.00,-500,136991,0%,"-$2,500",0.0,-12.0,-22.0,-22.0,SGMO
+752,,2004-10-01 18:21:23,2004-09-29,SGMO,Larson John William,Dir,S - Sale,$5.06,-3000,387360,-1%,"-$15,182",0.0,3.0,-22.0,-20.0,SGMO
+753,D,2004-10-01 18:20:37,2004-09-29,SGMO,Zante Greg,"Sr Dir., Finance, Admin",M - OptEx,$3.00,5416,0,-100%,"+$16,248",0.0,3.0,-22.0,-20.0,SGMO
+754,D,2004-10-01 18:20:37,2004-09-29,SGMO,Zante Greg,"Sr Dir., Finance, Admin",S - Sale+OE,$5.05,-5416,0,-100%,"-$27,351",0.0,3.0,-22.0,-20.0,SGMO
+755,,2004-09-29 10:43:07,2004-09-27,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.30,-500,137491,0%,"-$2,649",-4.0,-6.0,-28.0,-24.0,SGMO
+756,,2004-09-23 15:26:46,2004-09-21,SGMO,Larson John William,Dir,S - Sale,$5.04,-3000,390360,-1%,"-$15,114",2.0,-1.0,-19.0,-30.0,SGMO
+757,,2004-09-22 14:22:42,2004-09-20,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.00,-500,137991,0%,"-$2,500",2.0,5.0,-18.0,-24.0,SGMO
+758,M,2004-09-17 20:52:13,2004-09-16,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$5.10,-7600,2931642,0%,"-$38,760",0.0,4.0,-13.0,-25.0,SGMO
+759,,2004-09-16 21:05:41,2004-09-15,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.15,-500,138491,0%,"-$2,575",4.0,5.0,-8.0,-19.0,SGMO
+760,,2004-09-16 21:04:51,2004-09-15,SGMO,Larson John William,Dir,S - Sale,$5.36,-3000,393360,-1%,"-$16,080",4.0,5.0,-8.0,-19.0,SGMO
+761,,2004-07-14 12:42:56,2004-07-12,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.56,-500,138991,0%,"-$2,778",-9.0,-16.0,-37.0,-3.0,SGMO
+762,,2004-07-07 18:12:42,2004-07-06,SGMO,Larson John William,Dir,S - Sale,$5.65,-3000,396360,-1%,"-$16,950",-2.0,0.0,-36.0,1.0,SGMO
+763,,2004-07-07 18:11:58,2004-07-06,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.50,-500,139491,0%,"-$2,752",-2.0,0.0,-36.0,1.0,SGMO
+764,,2004-07-02 15:58:09,2004-06-30,SGMO,Larson John William,Dir,S - Sale,$5.90,-3000,399360,-1%,"-$17,700",0.0,-1.0,-38.0,2.0,SGMO
+765,,2004-06-30 16:42:42,2004-06-28,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.64,-500,139491,0%,"-$2,820",-2.0,-4.0,-40.0,-1.0,SGMO
+766,,2004-06-25 20:40:25,2004-06-23,SGMO,Larson John William,Dir,S - Sale,$5.90,-3000,402360,-1%,"-$17,707",0.0,-1.0,-41.0,-5.0,SGMO
+767,,2004-06-23 17:05:56,2004-06-21,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.80,-500,139991,0%,"-$2,900",0.0,0.0,-23.0,-12.0,SGMO
+768,,2004-06-18 12:43:04,2004-06-17,SGMO,Larson John William,Dir,S - Sale,$5.81,-3000,405360,-1%,"-$17,444",-2.0,-1.0,-18.0,-10.0,SGMO
+769,,2004-06-16 16:21:01,2004-06-14,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.41,-500,140491,0%,"-$2,704",2.0,-1.0,-16.0,-14.0,SGMO
+770,,2004-06-09 12:13:58,2004-06-08,SGMO,Larson John William,Dir,S - Sale,$6.24,-3000,408360,-1%,"-$18,720",-5.0,-7.0,-8.0,-25.0,SGMO
+771,,2004-06-08 17:22:37,2004-06-07,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$6.17,-500,140991,0%,"-$3,087",-5.0,-4.0,-10.0,-25.0,SGMO
+772,,2004-06-07 20:36:10,2004-06-04,SGMO,Larson John William,Dir,S - Sale,$6.06,-3000,411360,-1%,"-$18,180",0.0,-11.0,-9.0,-26.0,SGMO
+773,M,2004-06-04 15:29:22,2004-06-02,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$6.03,-18000,2928742,-1%,"-$108,477",3.0,-6.0,-6.0,-21.0,SGMO
+774,,2004-06-01 20:29:22,2004-06-01,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.95,-500,141491,0%,"-$2,973",-3.0,1.0,-4.0,-27.0,SGMO
+775,,2004-05-25 06:59:45,2004-05-24,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.65,-500,141991,0%,"-$2,825",-1.0,0.0,-5.0,-33.0,SGMO
+776,M,2004-05-19 14:29:19,2004-05-17,SGMO,Lanphier Edward O II,"Pres, Chief Ex Officer",S - Sale,$6.17,-20000,2946742,-1%,"-$123,302",-4.0,3.0,-3.0,-34.0,SGMO
+777,,2004-05-17 21:54:26,2004-05-17,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.95,-500,142491,0%,"-$2,974",-3.0,-9.0,-5.0,-38.0,SGMO
+778,,2004-05-10 19:31:37,2004-05-10,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$6.12,-500,142991,0%,"-$3,060",2.0,-1.0,-1.0,-40.0,SGMO
+779,,2004-05-04 06:02:40,2004-05-03,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$6.41,-500,143491,0%,"-$3,204",-3.0,-3.0,-8.0,-41.0,SGMO
+780,,2004-04-26 18:40:46,2004-04-26,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$6.54,-500,143991,0%,"-$3,271",-2.0,2.0,-8.0,-42.0,SGMO
+781,,2004-04-20 06:15:57,2004-04-19,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.87,-500,144491,0%,"-$2,934",-1.0,0.0,-11.0,-36.0,SGMO
+782,,2004-04-13 18:33:48,2004-04-12,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$6.18,-500,144991,0%,"-$3,090",5.0,16.0,13.0,-16.0,SGMO
+783,,2004-04-06 14:23:29,2004-04-05,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$6.51,-500,145491,0%,"-$3,256",4.0,-8.0,0.0,-22.0,SGMO
+784,M,2004-04-05 11:34:15,2004-04-01,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$6.20,-20000,2966742,-1%,"-$123,938",-7.0,-11.0,-6.0,-28.0,SGMO
+785,,2004-03-30 17:33:07,2004-03-29,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.67,-500,145991,0%,"-$2,833",0.0,2.0,8.0,-16.0,SGMO
+786,,2004-03-23 07:41:37,2004-03-22,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.71,-500,146491,0%,"-$2,856",0.0,2.0,8.0,-15.0,SGMO
+787,M,2004-03-18 06:06:25,2004-03-16,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$6.05,-20000,2986742,-1%,"-$120,954",0.0,-2.0,1.0,-21.0,SGMO
+788,,2004-03-16 16:43:02,2004-03-15,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$6.21,-500,146991,0%,"-$3,107",0.0,-3.0,0.0,-21.0,SGMO
+789,,2004-03-09 14:29:26,2004-03-08,SGMO,Bluford Peter,"VP, Corporate Finance",S - Sale,$6.57,-500,147491,0%,"-$3,284",-4.0,-11.0,-4.0,-38.0,SGMO
+790,,2004-03-01 20:23:12,2004-03-01,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.53,-500,147991,0%,"-$2,766",5.0,10.0,0.0,-31.0,SGMO
+791,,2004-02-24 16:22:20,2004-02-23,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.91,-500,148491,0%,"-$2,955",-2.0,3.0,1.0,-28.0,SGMO
+792,,2004-02-18 19:30:30,2004-02-17,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$6.26,-500,148991,0%,"-$3,130",-2.0,-5.0,-1.0,-31.0,SGMO
+793,,2004-02-11 17:09:42,2004-02-11,SGMO,Jacoby Jon E M,Dir,P - Purchase,$0.00,10500,90001,+13%,+$0,-9.0,-13.0,-9.0,-53.0,SGMO
+794,,2004-02-11 17:09:42,2004-02-11,SGMO,Jacoby Jon E M,Dir,S - Sale,$0.00,-10500,90001,-10%,-$0,-9.0,-13.0,-9.0,-53.0,SGMO
+795,,2004-02-10 14:18:31,2004-02-09,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.56,-500,149491,0%,"-$2,781",8.0,14.0,9.0,-36.0,SGMO
+796,M,2004-02-04 20:46:03,2004-02-03,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$5.90,-20000,3046242,-1%,"-$118,025",0.0,6.0,19.0,-32.0,SGMO
+797,,2004-02-02 18:26:26,2004-02-02,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.92,-500,149991,0%,"-$2,959",-3.0,-10.0,0.0,-42.0,SGMO
+798,,2004-01-27 17:40:46,2004-01-26,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$6.74,-500,150491,0%,"-$3,369",-8.0,-10.0,-18.0,-45.0,SGMO
+799,M,2004-01-20 20:55:26,2004-01-16,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$7.29,-20000,3066242,-1%,"-$145,816",2.0,2.0,-11.0,-28.0,SGMO
+800,,2004-01-20 20:48:40,2004-01-20,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$7.17,-500,150991,0%,"-$3,585",2.0,2.0,-11.0,-28.0,SGMO
+801,,2004-01-14 19:52:06,2004-01-14,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$7.50,-1000,151491,-1%,"-$7,500",-4.0,-15.0,-26.0,-46.0,SGMO
+802,,2004-01-13 14:13:36,2004-01-12,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$6.15,-500,152491,0%,"-$3,075",8.0,11.0,10.0,-16.0,SGMO
+803,,2004-01-06 14:15:06,2004-01-05,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.34,-500,152991,0%,"-$2,670",0.0,18.0,8.0,9.0,SGMO
+804,,2003-12-30 13:38:16,2003-12-29,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.10,-500,153491,0%,"-$2,550",-1.0,-1.0,18.0,12.0,SGMO
+805,,2003-12-22 18:49:55,2003-12-22,SGMO,Bluford Peter,Vice President: Corp Develop,S - Sale,$5.00,-500,153991,0%,"-$2,500",5.0,2.0,33.0,13.0,SGMO
+806,,2003-12-17 21:05:54,2003-12-15,SGMO,Lanphier Edward O II,"Pres, CEO",S - Sale,$5.00,-7000,3086242,0%,"-$35,000",2.0,12.0,48.0,19.0,SGMO
+807,,2003-12-16 14:19:06,2003-12-15,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.00,-500,154491,0%,"-$2,500",5.0,8.0,59.0,24.0,SGMO
+808,,2003-12-11 18:33:12,2003-12-09,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.00,-300,154991,0%,"-$1,500",-3.0,0.0,29.0,15.0,SGMO
+809,,2003-12-09 15:53:28,2003-12-05,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.00,-500,155291,0%,"-$2,500",0.0,0.0,15.0,23.0,SGMO
+810,,2003-11-12 19:51:14,2003-11-10,SGMO,Bluford Peter,VP,S - Sale,$5.05,-500,155791,0%,"-$2,527",-1.0,-7.0,-3.0,28.0,SGMO
+811,,2003-11-04 13:10:36,2003-11-03,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.00,-500,156291,0%,"-$2,500",6.0,-5.0,-11.0,22.0,SGMO
+812,,2003-10-28 19:58:48,2003-10-28,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.09,-500,156791,0%,"-$2,545",0.0,5.0,-8.0,34.0,SGMO
+813,M,2003-10-20 19:04:42,2003-10-16,SGMO,Bluford Peter,"VP, Corporate Development",S - Sale,$5.09,-1000,157291,-1%,"-$5,085",-7.0,-6.0,-6.0,29.0,SGMO

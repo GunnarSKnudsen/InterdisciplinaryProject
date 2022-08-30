@@ -1,4 +1,651 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2021-12-02 17:16:07,2021-12-02,CTIC,Craig Adam R,"Pres, CEO",P - Purchase,$1.52,3500,13500,+35%,"+$5,337",,,,,CTIC
-1,D,2021-04-05 20:15:27,2021-04-01,CTIC,Bvf Partners L P/il,"See Remarks, 10%",P - Purchase,$2.50,2000000,1827600,-1160%,"+$5,000,000",,,,,CTIC
-2,,2021-01-11 16:46:15,2021-01-07,CTIC,Orbimed Advisors LLC,10%,S - Sale,$3.50,-2000000,7520600,-21%,"-$7,000,000",,,,,CTIC
+0,DM,2022-03-11 19:41:18,2021-06-30,CTIC,Kirske David,"EVP, CFO",A - Grant,$2.12,3599,7397,+95%,"+$7,617",,,,,CTIC
+1,DM,2022-03-11 19:40:31,2021-06-30,CTIC,Seeley Bruce J.,"EVP, COO",A - Grant,$2.12,6405,43905,+17%,"+$13,556",,,,,CTIC
+2,D,2022-03-11 19:39:15,2021-12-31,CTIC,Craig Adam R,"Pres, CEO",A - Grant,$2.11,3178,16678,+24%,"+$6,699",,,,,CTIC
+3,,2021-12-02 17:16:07,2021-06-30,CTIC,Craig Adam R,"Pres, CEO",A - Grant,$2.13,5000,13500,+59%,"+$10,625",,,,,CTIC
+4,,2021-12-02 17:16:07,2021-12-02,CTIC,Craig Adam R,"Pres, CEO",P - Purchase,$1.52,3500,13500,+35%,"+$5,337",,,,,CTIC
+5,D,2021-04-05 20:15:27,2021-04-01,CTIC,Bvf Partners L P/il,"See Remarks, 10%",P - Purchase,$2.50,2000000,1827600,-1160%,"+$5,000,000",,,,,CTIC
+6,D,2021-03-12 18:45:03,2020-07-01,CTIC,Seeley Bruce J.,"EVP, COO",A - Grant,$0.98,5000,37500,+15%,"+$4,900",,,,,CTIC
+7,D,2021-03-12 18:41:38,2020-07-01,CTIC,Kirske David,"EVP, CFO",A - Grant,$0.98,3798,3798,New,"+$3,722",,,,,CTIC
+8,D,2021-03-12 18:38:07,2020-07-01,CTIC,Craig Adam R,"Pres, CEO",A - Grant,$0.98,5000,5000,New,"+$4,900",,,,,CTIC
+9,,2021-01-11 16:46:15,2021-01-07,CTIC,Orbimed Advisors LLC,10%,S - Sale,$3.50,-2000000,7520600,-21%,"-$7,000,000",,,,,CTIC
+10,,2020-07-02 17:22:46,2020-06-30,CTIC,Seeley Bruce J.,"EVP, COO",A - Grant,$0.99,500,32500,+2%,+$493,,,,,CTIC
+11,,2019-01-03 16:31:10,2018-12-31,CTIC,Seeley Bruce J.,"EVP, COO",A - Grant,$0.62,500,32000,+2%,+$312,,,,,CTIC
+12,,2018-07-02 16:49:09,2018-06-30,CTIC,Seeley Bruce J.,"EVP, COO",A - Grant,$2.30,500,31500,+2%,"+$1,148",,,,,CTIC
+13,D,2018-02-12 21:59:43,2018-02-09,CTIC,Bvf Partners L P/il,10%,D - Sale to issuer,$0.00,-8000000,1779290,-82%,-$0,,,,,CTIC
+14,D,2018-02-12 21:59:43,2018-02-09,CTIC,Bvf Partners L P/il,10%,P - Purchase,$3.00,6333333,1779290,-139%,"+$18,999,999",,,,,CTIC
+15,D,2018-01-22 18:28:39,2018-01-20,CTIC,Metzger Michael A,Dir,M - OptEx,$0.00,20121,20121,New,+$0,,,,,CTIC
+16,M,2017-10-02 17:25:03,2017-09-28,CTIC,Love Richard L,Dir,S - Sale,$3.21,-14600,73718,-17%,"-$46,837",,,,,CTIC
+17,D,2017-06-15 17:40:03,2017-06-13,CTIC,Orbimed Advisors LLC,10%,C - Converted deriv,$0.00,5000000,5000000,-50%,$0,,,,,CTIC
+18,D,2017-06-14 16:02:39,2017-06-09,CTIC,Bvf Partners L P/il,10%,C - Converted deriv,$0.00,4116666,2734725,-60%,$0,,,,,CTIC
+19,D,2017-05-02 18:12:09,2017-04-28,CTI,Perry Matthew D,See Explanation of Responses,M - OptEx,$0.00,34736,43139,+413%,+$0,,,,,CTIC
+20,D,2017-05-02 17:48:36,2017-04-29,CTIC,Love Richard L,Dir,M - OptEx,$0.00,34736,88318,+65%,+$0,0.0,-3.0,,,CTIC
+21,D,2017-05-02 17:46:55,2017-04-29,CTIC,Telling Fred,Dir,M - OptEx,$0.00,34736,78874,+79%,+$0,0.0,-3.0,,,CTIC
+22,D,2017-05-02 17:46:37,2017-04-29,CTIC,Nudelman Phillip M Phd,Dir,M - OptEx,$0.00,39698,73129,+119%,+$0,0.0,-3.0,,,CTIC
+23,D,2017-05-02 17:45:26,2017-04-29,CTIC,Tuckson Reed Vaughn,Dir,M - OptEx,$0.00,34736,92424,+60%,+$0,0.0,-3.0,,,CTIC
+24,D,2017-01-13 18:00:26,2017-01-11,CTI,Perry Matthew D,See Explanation of Responses,M - OptEx,$0.00,8403,8403,New,+$0,,,,,CTIC
+25,,2017-01-03 19:21:06,2016-12-31,CTIC,Seeley Bruce J.,"EVP, Chief Commercial Officer",A - Grant,$0.30,5000,310000,+2%,"+$1,523",1.0,45.0,18.0,,CTIC
+26,,2016-07-01 17:21:24,2016-06-30,CTIC,Seeley Bruce J.,"EVP, Chief Commercial Officer",A - Grant,$0.29,5000,305000,+2%,"+$1,445",-5.0,-3.0,-6.0,+12,CTIC
+27,,2016-06-24 18:16:38,2016-06-24,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.37,-10000,1780133,-1%,"-$3,654",-16.0,-8.0,-5.0,+12,CTIC
+28,,2016-05-27 17:34:59,2016-05-27,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.45,-10000,1790133,-1%,"-$4,471",-2.0,-7.0,-33.0,-11,CTIC
+29,D,2016-04-29 19:40:23,2016-04-29,CTIC,Tuckson Reed Vaughn,Dir,M - OptEx,$0.00,63695,576881,+12%,+$0,1.0,-10.0,-8.0,-18,CTIC
+30,D,2016-04-29 19:19:27,2016-04-29,CTIC,Telling Fred,Dir,M - OptEx,$0.00,63695,441389,+17%,+$0,1.0,-10.0,-8.0,-18,CTIC
+31,D,2016-04-29 18:47:42,2016-04-29,CTIC,Nudelman Phillip M Phd,Dir,M - OptEx,$0.00,79618,334311,+31%,+$0,1.0,-10.0,-8.0,-18,CTIC
+32,D,2016-04-29 18:26:30,2016-04-29,CTIC,Love Richard L,Dir,M - OptEx,$0.00,63695,535824,+13%,+$0,1.0,-10.0,-8.0,-18,CTIC
+33,D,2016-04-29 17:45:19,2016-04-29,CTIC,Mundinger Mary Oneil,Dir,M - OptEx,$0.00,63695,360019,+21%,+$0,1.0,-10.0,-8.0,-18,CTIC
+34,,2016-04-29 16:47:18,2016-04-29,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.52,-10000,1800133,-1%,"-$5,162",1.0,-10.0,-8.0,-18,CTIC
+35,,2016-03-30 17:16:48,2016-03-28,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.49,-10000,1810133,-1%,"-$4,941",2.0,-2.0,0.0,-27,CTIC
+36,,2016-03-23 18:47:40,2016-03-21,CTIC,Plunkett Matthew,"EVP, Chief Business Officer",F - Tax,$0.55,-63874,526210,-11%,"-$35,016",-2.0,0.0,7.0,-29,CTIC
+37,,2016-03-23 18:36:46,2016-03-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",F - Tax,$0.55,-46556,622970,-7%,"-$25,522",-2.0,0.0,7.0,-29,CTIC
+38,,2016-03-23 18:27:19,2016-03-21,CTIC,Singer Jack W,"EVP, Chief Scientific Officer",F - Tax,$0.55,-45935,994057,-4%,"-$25,182",-2.0,0.0,7.0,-29,CTIC
+39,,2016-03-23 18:17:03,2016-03-21,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.55,-318169,1820133,-15%,"-$174,866",-2.0,0.0,7.0,-29,CTIC
+40,,2016-03-04 18:30:33,2016-03-04,CTIC,Plunkett Matthew,"EVP, Chief Business Officer",S - Sale,$0.59,-10000,590084,-2%,"-$5,904",3.0,-12.0,-10.0,-33,CTIC
+41,,2016-02-26 18:18:09,2016-02-26,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.63,-10000,2138302,0%,"-$6,294",-14.0,-5.0,-21.0,-44,CTIC
+42,,2016-02-26 17:44:50,2016-02-26,CTIC,Singer Jack W,"EVP, Chief Scientific Officer",S - Sale,$0.63,-15000,1039992,-1%,"-$9,517",-14.0,-5.0,-21.0,-44,CTIC
+43,,2016-02-18 17:23:16,2016-02-16,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.42,-100000,2148302,-4%,"-$41,920",4.0,13.0,-11.0,-51,CTIC
+44,,2016-02-05 17:10:47,2016-02-04,CTIC,Plunkett Matthew,"EVP, Chief Business Officer",S - Sale,$1.15,-10000,600084,-2%,"-$11,539",-61.0,-70.0,-45.0,-66,CTIC
+45,,2016-01-29 17:41:37,2016-01-29,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.20,-10000,2248302,0%,"-$12,012",-1.0,-10.0,-60.0,-78,CTIC
+46,,2016-01-29 17:30:07,2016-01-29,CTIC,Singer Jack W,"EVP, Chief Scientific Officer",S - Sale,$1.18,-15000,1054992,-1%,"-$17,730",-1.0,-10.0,-60.0,-78,CTIC
+47,M,2016-01-11 08:17:38,2016-01-07,CTIC,Bvf Partners L P/il,10%,P - Purchase,$1.22,1001327,20353944,+5%,"+$1,218,715",-1.0,-1.0,-58.0,-70,CTIC
+48,,2016-01-06 17:57:05,2016-01-04,CTIC,Plunkett Matthew,"EVP, Chief Business Officer",S - Sale,$1.21,-10000,610084,-2%,"-$12,134",-2.0,5.0,-6.0,-69,CTIC
+49,M,2015-12-30 16:46:16,2015-12-28,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.26,-110000,2258302,-5%,"-$138,631",-3.0,-4.0,-1.0,-71,CTIC
+50,D,2015-12-23 20:09:26,2015-12-23,CTIC,Bianco Louis A,"EVP, Finance, Administration",D - Sale to issuer,$0.00,-236858,669526,-26%,-$0,4.0,2.0,-1.0,-67,CTIC
+51,D,2015-12-23 19:56:32,2015-12-23,CTIC,Bianco James A,"Pres, CEO",D - Sale to issuer,$0.00,-583217,2368302,-20%,-$0,4.0,2.0,-1.0,-67,CTIC
+52,D,2015-12-23 19:40:46,2015-12-23,CTIC,Singer Jack W,"EVP, Chief Scientific Officer",D - Sale to issuer,$0.00,-236858,1069992,-18%,-$0,4.0,2.0,-1.0,-67,CTIC
+53,,2015-12-18 16:41:58,2015-12-18,CTIC,Singer Jack W,EVP Global Medical Affairs,S - Sale,$1.18,-15000,1306850,-1%,"-$17,673",5.0,8.0,-4.0,-66,CTIC
+54,,2015-12-11 18:35:09,2015-12-10,CTIC,Tuckson Reed Vaughn,Dir,D - Sale to issuer,$0.00,-58320,513186,-10%,-$0,0.0,7.0,16.0,-63,CTIC
+55,,2015-12-11 18:19:18,2015-12-10,CTIC,Telling Fred,Dir,D - Sale to issuer,$0.00,-58320,377694,-13%,-$0,0.0,7.0,16.0,-63,CTIC
+56,,2015-12-11 18:01:05,2015-12-10,CTIC,Nudelman Phillip M Phd,Dir,D - Sale to issuer,$0.00,-87481,254693,-26%,-$0,0.0,7.0,16.0,-63,CTIC
+57,,2015-12-11 17:42:47,2015-12-10,CTIC,Mundinger Mary Oneil,Dir,D - Sale to issuer,$0.00,-58320,296324,-16%,-$0,0.0,7.0,16.0,-63,CTIC
+58,,2015-12-11 17:15:43,2015-12-10,CTIC,Love Richard L,Dir,D - Sale to issuer,$0.00,-58320,472129,-11%,-$0,0.0,7.0,16.0,-63,CTIC
+59,,2015-12-04 18:30:30,2015-12-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.00,-10000,620084,-2%,"-$9,969",3.0,3.0,18.0,-54,CTIC
+60,,2015-11-30 18:22:57,2015-11-27,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.23,-10000,2951519,0%,"-$12,253",-2.0,-15.0,3.0,-65,CTIC
+61,,2015-11-30 18:01:14,2015-11-27,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.21,-15000,1321850,-1%,"-$18,157",-2.0,-15.0,3.0,-65,CTIC
+62,,2015-11-20 17:39:39,2015-11-19,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.13,-15000,906384,-2%,"-$16,891",9.0,9.0,13.0,-59,CTIC
+63,,2015-11-06 18:08:44,2015-11-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.38,-10000,630084,-2%,"-$13,814",-2.0,-9.0,-17.0,-65,CTIC
+64,,2015-10-30 18:02:42,2015-10-30,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.35,-260000,2961519,-8%,"-$351,520",4.0,3.0,-7.0,-60,CTIC
+65,,2015-10-30 17:49:01,2015-10-29,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.41,-10000,921384,-1%,"-$14,073",4.0,3.0,-7.0,-60,CTIC
+66,,2015-10-23 17:42:49,2015-10-22,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.58,-10000,931384,-1%,"-$15,800",0.0,-18.0,-35.0,-70,CTIC
+67,,2015-10-23 17:23:34,2015-10-23,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.62,-15000,1336850,-1%,"-$24,335",0.0,-18.0,-35.0,-70,CTIC
+68,,2015-10-07 18:10:29,2015-10-05,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.52,-10000,640084,-2%,"-$15,204",1.0,1.0,-13.0,-73,CTIC
+69,M,2015-10-01 19:26:12,2015-09-29,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$1.45,-150000,342174,-30%,"-$217,502",3.0,12.0,-5.0,-64,CTIC
+70,,2015-10-01 19:13:51,2015-09-30,CTIC,Love Richard L,Dir,S - Sale,$1.45,-13660,530449,-3%,"-$19,853",3.0,12.0,-5.0,-64,CTIC
+71,M,2015-10-01 18:49:13,2015-09-29,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.43,-600000,3221519,-16%,"-$860,180",3.0,12.0,-5.0,-64,CTIC
+72,,2015-10-01 18:36:12,2015-09-29,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.41,-75000,650084,-10%,"-$106,052",3.0,12.0,-5.0,-64,CTIC
+73,M,2015-10-01 18:21:54,2015-09-29,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.42,-100000,1351850,-7%,"-$141,791",3.0,12.0,-5.0,-64,CTIC
+74,,2015-10-01 17:58:00,2015-09-29,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.41,-170000,941384,-15%,"-$239,541",3.0,12.0,-5.0,-64,CTIC
+75,,2015-09-25 19:00:49,2015-09-24,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.52,-10000,1111384,-1%,"-$15,200",-6.0,-6.0,8.0,-65,CTIC
+76,,2015-09-25 18:51:37,2015-09-25,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.64,-15000,1451850,-1%,"-$24,584",-6.0,-6.0,8.0,-65,CTIC
+77,,2015-09-25 16:42:32,2015-09-24,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.57,-75869,725084,-9%,"-$119,041",-6.0,-6.0,8.0,-65,CTIC
+78,,2015-09-23 18:38:56,2015-09-21,CTIC,Plunkett Matthew,"EVP, Corporate Development",A - Grant,$0.00,151739,800953,+23%,+$0,3.0,-12.0,2.0,-73,CTIC
+79,,2015-09-23 18:20:15,2015-09-21,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,507603,3821519,+15%,+$0,3.0,-12.0,2.0,-73,CTIC
+80,,2015-09-23 18:03:13,2015-09-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,205931,1121384,+22%,+$0,3.0,-12.0,2.0,-73,CTIC
+81,,2015-09-23 17:14:02,2015-09-21,CTIC,Singer Jack W,"EVP, Global Medical Affairs",A - Grant,$0.00,205931,1466850,+16%,+$0,3.0,-12.0,2.0,-73,CTIC
+82,,2015-09-04 18:54:30,2015-09-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",F - Tax,$1.52,-12526,649214,-2%,"-$19,040",4.0,6.0,5.0,-59,CTIC
+83,,2015-09-04 18:54:30,2015-09-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.54,-10000,649214,-2%,"-$15,355",4.0,6.0,5.0,-59,CTIC
+84,,2015-08-28 18:41:26,2015-08-28,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.58,-15000,1260919,-1%,"-$23,718",-1.0,-3.0,-9.0,-68,CTIC
+85,,2015-08-06 19:00:30,2015-08-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.84,-10000,671740,-1%,"-$18,426",-1.0,0.0,-13.0,-36,CTIC
+86,D,2015-07-29 18:03:55,2015-07-27,CTIC,Seeley Bruce J.,"EVP, Chief Commercial Officer",A - Grant,$0.00,300000,300000,New,+$0,-1.0,-3.0,-19.0,-35,CTIC
+87,,2015-07-24 18:30:02,2015-07-23,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.91,-10000,915453,-1%,"-$19,100",-1.0,-2.0,-10.0,-38,CTIC
+88,,2015-07-24 18:29:29,2015-07-24,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.91,-15000,1275919,-1%,"-$28,664",-1.0,-2.0,-10.0,-38,CTIC
+89,,2015-07-08 17:54:25,2015-07-06,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.95,-10000,681740,-1%,"-$19,493",1.0,5.0,-4.0,-30,CTIC
+90,,2015-06-26 18:50:09,2015-06-26,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$2.07,-15000,1290919,-1%,"-$31,024",-7.0,-4.0,-10.0,-39,CTIC
+91,,2015-06-26 18:22:29,2015-06-25,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$2.18,-10000,925453,-1%,"-$21,800",-7.0,-4.0,-10.0,-39,CTIC
+92,,2015-06-05 17:30:20,2015-06-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.06,-10000,691740,-1%,"-$20,613",0.0,2.0,-4.0,-42,CTIC
+93,,2015-05-22 17:15:26,2015-05-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.80,-10000,935453,-1%,"-$18,000",-3.0,13.0,32.0,-34,CTIC
+94,,2015-05-22 17:00:25,2015-05-22,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.74,-15000,1305919,-1%,"-$26,045",-3.0,13.0,32.0,-34,CTIC
+95,,2015-05-04 18:34:29,2015-05-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.86,-10000,701740,-1%,"-$18,553",-3.0,-1.0,16.0,-26,CTIC
+96,,2015-04-27 17:46:55,2015-04-24,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.96,-15000,1320919,-1%,"-$29,443",1.0,-4.0,-11.0,-11,CTIC
+97,,2015-04-24 17:15:57,2015-04-23,CTIC,Bianco Louis A,"EVP,Finance, Administration",S - Sale,$1.93,-10000,945453,-1%,"-$19,300",-5.0,-9.0,-13.0,-18,CTIC
+98,,2015-04-08 17:43:42,2015-04-06,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.88,-16569,711740,-2%,"-$31,182",-2.0,-1.0,-10.0,-18,CTIC
+99,,2015-03-24 18:56:44,2015-03-21,CTIC,Plunkett Matthew,"EVP, Corporate Development",F - Tax,$1.94,-59784,728309,-8%,"-$115,682",-2.0,-4.0,-1.0,-24,CTIC
+100,,2015-03-24 18:56:44,2015-03-23,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$1.96,-59130,728309,-8%,"-$116,029",-2.0,-4.0,-1.0,-24,CTIC
+101,,2015-03-24 18:08:30,2015-03-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",F - Tax,$1.94,-66736,955453,-7%,"-$129,134",-2.0,-4.0,-1.0,-24,CTIC
+102,,2015-03-24 17:51:45,2015-03-21,CTIC,Bianco James A,"Pres, CEO",F - Tax,$1.94,-12461,3313916,0%,"-$24,112",-2.0,-4.0,-1.0,-24,CTIC
+103,,2015-03-24 17:51:45,2015-03-23,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.95,-175199,3313916,-5%,"-$341,112",-2.0,-4.0,-1.0,-24,CTIC
+104,,2015-03-24 17:23:43,2015-03-21,CTIC,Singer Jack W,"EVP, Global Medical Affairs",F - Tax,$1.94,-93970,1335919,-7%,"-$181,832",-2.0,-4.0,-1.0,-24,CTIC
+105,,2015-03-24 17:23:43,2015-03-20,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.94,-67600,1335919,-5%,"-$131,125",-2.0,-4.0,-1.0,-24,CTIC
+106,,2015-03-20 17:56:14,2015-03-20,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.94,-63000,1022189,-6%,"-$122,011",0.0,-7.0,-5.0,-18,CTIC
+107,,2015-03-11 16:17:17,2012-08-08,CTIC,Mundinger Mary Oneil,Dir,G - Gift,$0.00,-46535,354644,-12%,-$0,-3.0,-27.0,-28.0,-40,CTIC
+108,,2015-03-06 17:12:50,2015-03-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.41,-12000,847223,-1%,"-$28,939",6.0,-2.0,-28.0,-39,CTIC
+109,,2015-02-27 17:07:40,2015-02-27,CTIC,Singer Jack W,EVP Global Medical Affairs,S - Sale,$2.35,-15000,1497489,-1%,"-$35,251",2.0,16.0,-22.0,-35,CTIC
+110,,2015-02-06 18:42:12,2015-02-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.22,-12000,859223,-1%,"-$26,651",-2.0,0.0,25.0,-20,CTIC
+111,,2015-02-06 17:53:20,2015-02-05,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$2.22,-10000,1085189,-1%,"-$22,201",-2.0,0.0,25.0,-20,CTIC
+112,,2015-01-09 19:10:15,2015-01-08,CTIC,Plunkett Matthew,"EVP, Corporate Development",A - Grant,$0.00,477255,871223,+121%,+$0,-3.0,-2.0,-7.0,-19,CTIC
+113,,2015-01-09 19:10:05,2015-01-08,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,477255,1095189,+77%,+$0,-3.0,-2.0,-7.0,-19,CTIC
+114,,2015-01-09 19:10:05,2015-01-08,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$2.32,-10000,1095189,-1%,"-$23,206",-3.0,-2.0,-7.0,-19,CTIC
+115,,2015-01-09 19:07:07,2015-01-08,CTIC,Singer Jack W,"EVP, Global Medical Affairs",A - Grant,$0.00,477255,1512489,+46%,+$0,-3.0,-2.0,-7.0,-19,CTIC
+116,,2015-01-09 18:56:10,2015-01-08,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,1590850,3501576,+83%,+$0,-3.0,-2.0,-7.0,-19,CTIC
+117,,2015-01-07 19:40:40,2015-01-05,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.36,-12000,393968,-3%,"-$28,365",3.0,4.0,0.0,-19,CTIC
+118,M,2014-12-19 18:39:08,2014-12-18,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.44,-40000,1910726,-2%,"-$97,550",-2.0,-2.0,-9.0,-8,CTIC
+119,,2014-12-05 18:44:09,2014-12-04,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$2.25,-10000,627934,-2%,"-$22,530",1.0,3.0,-1.0,-12,CTIC
+120,,2014-12-05 17:55:43,2014-12-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.23,-12000,405968,-3%,"-$26,808",1.0,3.0,-1.0,-12,CTIC
+121,,2014-11-07 18:23:38,2014-11-06,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$2.37,-10000,637934,-2%,"-$23,700",-1.0,0.0,8.0,-15,CTIC
+122,,2014-11-06 20:01:50,2014-11-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.39,-12000,417968,-3%,"-$28,665",-10.0,-8.0,-2.0,-22,CTIC
+123,,2014-10-08 17:59:32,2014-10-06,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.39,-12000,429968,-3%,"-$28,733",-4.0,-3.0,1.0,-20,CTIC
+124,,2014-09-24 18:57:08,2014-09-22,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.53,-307068,1950726,-14%,"-$776,575",-5.0,-8.0,-13.0,-28,CTIC
+125,M,2014-09-24 18:46:05,2014-09-22,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.56,-103635,441968,-19%,"-$264,918",-5.0,-8.0,-13.0,-28,CTIC
+126,,2014-09-19 19:18:07,2014-09-19,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$2.59,-145000,647934,-18%,"-$375,895",-6.0,-8.0,-15.0,-28,CTIC
+127,,2014-09-05 18:11:39,2014-09-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.48,-27301,545603,-5%,"-$67,617",1.0,9.0,-2.0,+8,CTIC
+128,,2014-08-15 19:38:39,2014-08-15,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.54,-40000,2257794,-2%,"-$101,720",0.0,-2.0,-3.0,-13,CTIC
+129,,2014-08-06 18:31:23,2014-08-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.48,-12000,572904,-2%,"-$29,722",3.0,1.0,0.0,-11,CTIC
+130,,2014-07-11 18:11:03,2014-07-10,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$2.73,-10000,792934,-1%,"-$27,300",5.0,-7.0,-7.0,-12,CTIC
+131,,2014-07-09 18:24:39,2014-07-07,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.89,-12000,584904,-2%,"-$34,699",-3.0,-3.0,-12.0,-17,CTIC
+132,,2014-06-27 18:11:30,2014-06-27,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.84,-50000,2297794,-2%,"-$142,000",-2.0,5.0,-11.0,-17,CTIC
+133,,2014-06-06 18:07:41,2014-06-05,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$2.97,-10000,802934,-1%,"-$29,724",1.0,4.0,-6.0,-27,CTIC
+134,,2014-06-06 17:38:45,2014-06-04,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.99,-55000,2347794,-2%,"-$164,450",1.0,4.0,-6.0,-27,CTIC
+135,,2014-06-06 17:27:27,2014-06-04,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$3.02,-12000,596904,-2%,"-$36,256",1.0,4.0,-6.0,-27,CTIC
+136,,2014-05-23 18:31:14,2014-05-22,CTIC,Tuckson Reed Vaughn,Dir,A - Grant,$0.00,34844,571506,+6%,+$0,10.0,3.0,2.0,-24,CTIC
+137,,2014-05-23 18:21:26,2014-05-22,CTIC,Telling Fred,Dir,A - Grant,$0.00,34844,436014,+9%,+$0,10.0,3.0,2.0,-24,CTIC
+138,,2014-05-23 18:13:52,2014-05-22,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,43555,492174,+10%,+$0,10.0,3.0,2.0,-24,CTIC
+139,,2014-05-23 17:56:39,2014-05-22,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,34844,401179,+10%,+$0,10.0,3.0,2.0,-24,CTIC
+140,,2014-05-23 17:47:24,2014-05-22,CTIC,Love Richard L,Dir,A - Grant,$0.00,34844,544109,+7%,+$0,10.0,3.0,2.0,-24,CTIC
+141,,2014-05-23 17:31:27,2014-05-22,CTIC,Ignagni Karen,Dir,A - Grant,$0.00,34844,66192,+111%,+$0,10.0,3.0,2.0,-24,CTIC
+142,,2014-05-23 17:19:53,2014-05-22,CTIC,Bauer John H,Dir,A - Grant,$0.00,34844,599011,+6%,+$0,10.0,3.0,2.0,-24,CTIC
+143,,2014-05-07 18:10:40,2014-05-05,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$2.96,-12000,608904,-2%,"-$35,497",-5.0,-1.0,8.0,-14,CTIC
+144,,2014-05-02 17:55:41,2014-05-01,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$2.91,-10000,812934,-1%,"-$29,068",2.0,-11.0,-3.0,-18,CTIC
+145,,2014-03-28 18:41:16,2014-03-28,CTIC,Gregorian Vartan,Dir,S - Sale,$3.41,-82000,468937,-15%,"-$279,780",1.0,-1.0,-10.0,-26,CTIC
+146,,2014-03-26 19:05:30,2014-03-25,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$3.56,-100000,448619,-18%,"-$356,126",2.0,6.0,-5.0,-25,CTIC
+147,,2014-03-26 18:25:52,2014-03-24,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$3.47,-60000,1035234,-5%,"-$208,315",2.0,6.0,-5.0,-25,CTIC
+148,,2014-03-21 19:26:38,2014-03-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$3.80,-125000,822934,-13%,"-$475,431",-6.0,-10.0,-21.0,-30,CTIC
+149,M,2014-03-21 19:10:36,2014-03-20,CTIC,Bianco James A,"Pres, CEO",S - Sale,$3.83,-395000,2402794,-14%,"-$1,514,325",-6.0,-10.0,-21.0,-30,CTIC
+150,,2014-03-21 18:53:22,2014-03-21,CTIC,Plunkett Matthew,"EVP, Corporate Development",S - Sale,$3.73,-170000,620904,-21%,"-$633,384",-6.0,-10.0,-21.0,-30,CTIC
+151,,2014-03-07 21:00:09,2014-03-07,CTIC,Love Richard L,Dir,S - Sale,$3.77,-40000,509265,-7%,"-$150,973",0.0,4.0,-12.0,-35,CTIC
+152,,2014-03-07 20:34:51,2014-03-07,CTIC,Telling Fred,Dir,S - Sale,$3.75,-72095,401170,-15%,"-$270,522",0.0,4.0,-12.0,-35,CTIC
+153,,2014-02-03 20:21:23,2014-01-31,CTIC,Ignagni Karen,Dir,A - Grant,$0.00,31348,31348,New,+$0,-2.0,7.0,22.0,-21,CTIC
+154,,2014-01-31 19:41:15,2014-01-30,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,146000,550937,+36%,+$0,-2.0,-11.0,13.0,-18,CTIC
+155,,2014-01-31 19:35:00,2014-01-30,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,146000,366335,+66%,+$0,-2.0,-11.0,13.0,-18,CTIC
+156,,2014-01-31 19:34:27,2014-01-30,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,219000,548619,+66%,+$0,-2.0,-11.0,13.0,-18,CTIC
+157,,2014-01-31 19:32:24,2014-01-30,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,1313997,2797794,+89%,+$0,-2.0,-11.0,13.0,-18,CTIC
+158,,2014-01-31 19:30:12,2014-01-30,CTIC,Singer Jack W,See Remarks,A - Grant,$0.00,394199,1095234,+56%,+$0,-2.0,-11.0,13.0,-18,CTIC
+159,,2014-01-31 19:28:09,2014-01-30,CTIC,Love Richard L,Dir,A - Grant,$0.00,146000,549265,+36%,+$0,-2.0,-11.0,13.0,-18,CTIC
+160,,2014-01-31 19:27:59,2014-01-30,CTIC,Tuckson Reed Vaughn,Dir,A - Grant,$0.00,146000,536662,+37%,+$0,-2.0,-11.0,13.0,-18,CTIC
+161,,2014-01-31 19:25:51,2014-01-30,CTIC,Telling Fred,Dir,A - Grant,$0.00,146000,473265,+45%,+$0,-2.0,-11.0,13.0,-18,CTIC
+162,,2014-01-31 19:24:34,2014-01-30,CTIC,Bauer John H,Dir,A - Grant,$0.00,146000,564167,+35%,+$0,-2.0,-11.0,13.0,-18,CTIC
+163,,2014-01-31 19:24:29,2014-01-30,CTIC,Plunkett Matthew,"EVP, Corporate Development",A - Grant,$0.00,394199,790904,+99%,+$0,-2.0,-11.0,13.0,-18,CTIC
+164,,2014-01-31 19:23:28,2014-01-30,CTIC,Bianco Louis A,See Remarks,A - Grant,$0.00,394199,947934,+71%,+$0,-2.0,-11.0,13.0,-18,CTIC
+165,,2013-12-20 18:11:48,2013-12-17,CTIC,Love Richard L,Dir,S - Sale,$1.71,-6000,403265,-1%,"-$10,266",1.0,6.0,129.0,+66,CTIC
+166,D,2013-11-25 16:30:48,2013-11-25,CTIC,Baxter Healthcare Sa,10%,C - Converted deriv,$1.91,15673981,15673981,-50%,"$30,000,000",-2.0,1.0,-4.0,+58,CTIC
+167,,2013-09-25 19:22:39,2013-09-23,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.50,-130551,1483797,-8%,"-$195,435",-7.0,-4.0,7.0,+104,CTIC
+168,,2013-08-30 18:45:16,2013-08-30,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.08,-25925,1614348,-2%,"-$27,999",-1.0,-1.0,47.0,+230,CTIC
+169,,2013-08-09 18:33:29,2013-08-09,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.07,-40000,1640273,-2%,"-$42,800",-2.0,-5.0,0.0,+205,CTIC
+170,,2013-08-09 18:20:18,2013-08-07,CTIC,Mundinger Mary Oneil,Dir,S - Sale,$1.06,-125000,220335,-36%,"-$132,549",-2.0,-5.0,0.0,+205,CTIC
+171,,2013-08-08 18:34:01,2013-08-06,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$1.09,-50000,329619,-13%,"-$54,507",1.0,-2.0,0.0,+167,CTIC
+172,,2013-07-26 18:22:29,2013-07-26,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.09,-25688,1680273,-2%,"-$28,000",-2.0,0.0,5.0,+265,CTIC
+173,,2013-06-28 19:10:53,2013-06-28,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.08,-26053,1705961,-2%,"-$28,007",-6.0,-2.0,2.0,+77,CTIC
+174,,2013-06-28 18:58:15,2013-06-26,CTIC,Tuckson Reed Vaughn,Dir,A - Grant,$0.00,86957,390662,+29%,+$0,-6.0,-2.0,2.0,+77,CTIC
+175,,2013-06-28 18:57:17,2013-06-26,CTIC,Telling Fred,Dir,A - Grant,$0.00,86957,327265,+36%,+$0,-6.0,-2.0,2.0,+77,CTIC
+176,,2013-06-28 18:42:13,2013-06-26,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,108696,379619,+40%,+$0,-6.0,-2.0,2.0,+77,CTIC
+177,,2013-06-28 18:37:14,2013-06-26,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,86957,345335,+34%,+$0,-6.0,-2.0,2.0,+77,CTIC
+178,,2013-06-28 18:30:18,2013-06-26,CTIC,Love Richard L,Dir,A - Grant,$0.00,86957,409265,+27%,+$0,-6.0,-2.0,2.0,+77,CTIC
+179,,2013-06-28 18:19:07,2013-06-26,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,86957,404937,+27%,+$0,-6.0,-2.0,2.0,+77,CTIC
+180,,2013-06-28 18:08:08,2013-06-26,CTIC,Bauer John H,Dir,A - Grant,$0.00,86957,418167,+26%,+$0,-6.0,-2.0,2.0,+77,CTIC
+181,,2013-06-07 18:37:55,2013-06-05,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.26,-10000,701035,-1%,"-$12,600",1.0,-2.0,-13.0,+59,CTIC
+182,,2013-05-31 19:47:16,2013-05-29,CTIC,Bianco James A,"Pres, CEO",G - Gift,$0.00,-17000,1732014,-1%,-$0,6.0,2.0,-15.0,+57,CTIC
+183,,2013-05-31 19:47:16,2013-05-31,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.22,-28000,1732014,-2%,"-$34,104",6.0,2.0,-15.0,+57,CTIC
+184,,2013-05-31 18:35:09,2013-05-31,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.24,-33712,553735,-6%,"-$41,670",6.0,2.0,-15.0,+57,CTIC
+185,,2013-05-31 18:11:33,2013-05-30,CTIC,Telling Fred,Dir,S - Sale,$1.24,-64798,240308,-21%,"-$80,102",6.0,2.0,-15.0,+57,CTIC
+186,,2013-05-24 18:33:22,2013-05-24,CTIC,Love Richard L,Dir,S - Sale,$1.21,-23000,322308,-7%,"-$27,853",-1.0,-1.0,-12.0,+59,CTIC
+187,M,2013-05-10 19:04:33,2013-05-08,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.16,-25000,1777014,-1%,"-$29,004",1.0,-3.0,3.0,+46,CTIC
+188,,2013-05-10 18:51:59,2013-05-09,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.15,-50000,587447,-8%,"-$57,346",1.0,-3.0,3.0,+46,CTIC
+189,,2013-03-22 18:16:46,2013-03-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,296705,637447,+87%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+190,,2013-03-22 18:16:46,2013-03-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",D - Sale to issuer,$0.00,-68174,637447,-10%,-$0,-13.0,-7.0,-6.0,+12,CTIC
+191,,2013-03-22 18:12:10,2013-03-21,CTIC,Singer Jack W,"EVP, Global Medical Affairs",A - Grant,$0.00,296705,711035,+72%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+192,,2013-03-22 18:12:10,2013-03-21,CTIC,Singer Jack W,"EVP, Global Medical Affairs",D - Sale to issuer,$0.00,-68174,711035,-9%,-$0,-13.0,-7.0,-6.0,+12,CTIC
+193,D,2013-03-22 18:01:26,2013-03-21,CTIC,Plunkett Matthew,"EVP, Corporate Development",A - Grant,$0.00,296705,396705,+297%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+194,D,2013-03-22 17:53:27,2013-03-21,CTIC,Benner Steven E,"EVP, Chief Medical Officer",A - Grant,$0.00,296705,396705,+297%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+195,,2013-03-22 17:31:05,2013-03-21,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,989017,1802014,+122%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+196,,2013-03-22 17:31:05,2013-03-21,CTIC,Bianco James A,"Pres, CEO",D - Sale to issuer,$0.00,-168562,1802014,-9%,-$0,-13.0,-7.0,-6.0,+12,CTIC
+197,,2013-03-22 17:27:51,2013-03-21,CTIC,Tuckson Reed Vaughn,Dir,A - Grant,$0.00,109891,303705,+57%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+198,,2013-03-22 17:27:51,2013-03-21,CTIC,Tuckson Reed Vaughn,Dir,D - Sale to issuer,$0.00,-28093,303705,-8%,-$0,-13.0,-7.0,-6.0,+12,CTIC
+199,,2013-03-22 17:16:00,2013-03-21,CTIC,Telling Fred,Dir,A - Grant,$0.00,109891,305106,+56%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+200,,2013-03-22 17:16:00,2013-03-21,CTIC,Telling Fred,Dir,D - Sale to issuer,$0.00,-28093,305106,-8%,-$0,-13.0,-7.0,-6.0,+12,CTIC
+201,,2013-03-22 17:09:44,2013-03-21,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,164836,270923,+155%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+202,,2013-03-22 17:09:44,2013-03-21,CTIC,Nudelman Phillip M Phd,Dir,D - Sale to issuer,$0.00,-42328,270923,-14%,-$0,-13.0,-7.0,-6.0,+12,CTIC
+203,,2013-03-22 17:02:12,2013-03-21,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,109891,258378,+74%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+204,,2013-03-22 17:02:12,2013-03-21,CTIC,Mundinger Mary Oneil,Dir,D - Sale to issuer,$0.00,-28093,258378,-10%,-$0,-13.0,-7.0,-6.0,+12,CTIC
+205,,2013-03-22 16:47:56,2013-03-21,CTIC,Love Richard L,Dir,A - Grant,$0.00,109891,345308,+47%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+206,,2013-03-22 16:47:56,2013-03-21,CTIC,Love Richard L,Dir,D - Sale to issuer,$0.00,-28093,345308,-8%,-$0,-13.0,-7.0,-6.0,+12,CTIC
+207,,2013-03-22 16:43:50,2013-03-21,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,109891,317980,+53%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+208,,2013-03-22 16:43:50,2013-03-21,CTIC,Gregorian Vartan,Dir,D - Sale to issuer,$0.00,-28093,317980,-8%,-$0,-13.0,-7.0,-6.0,+12,CTIC
+209,,2013-03-22 16:36:55,2013-03-21,CTIC,Bauer John H,Dir,A - Grant,$0.00,109891,331210,+50%,+$0,-13.0,-7.0,-6.0,+12,CTIC
+210,,2013-03-22 16:36:55,2013-03-21,CTIC,Bauer John H,Dir,D - Sale to issuer,$0.00,-28093,331210,-8%,-$0,-13.0,-7.0,-6.0,+12,CTIC
+211,,2013-03-13 17:55:35,2013-03-11,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$1.28,-13000,482504,-3%,"-$16,640",4.0,0.0,-7.0,-10,CTIC
+212,M,2013-03-08 20:21:48,2013-03-07,CTIC,Mundinger Mary Oneil,Dir,S - Sale,$1.28,-75000,176580,-30%,"-$95,700",-1.0,0.0,-18.0,-15,CTIC
+213,,2013-03-08 20:08:48,2013-03-08,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.28,-33712,408916,-8%,"-$43,274",-1.0,0.0,-18.0,-15,CTIC
+214,M,2013-03-08 20:00:07,2013-03-07,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$1.29,-150000,148415,-50%,"-$193,590",-1.0,0.0,-18.0,-15,CTIC
+215,,2013-03-07 19:05:11,2013-03-06,CTIC,Benner Steven E,"EVP, Chief Medical Officer",G - Gift,$0.00,-66668,100000,+200%,-$0,0.0,-4.0,-18.0,-15,CTIC
+216,,2013-03-07 18:30:29,2013-03-05,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.26,-75000,981559,-7%,"-$94,650",0.0,-4.0,-18.0,-15,CTIC
+217,,2012-12-05 19:48:09,2012-12-03,CTIC,Tuckson Reed Vaughn,Dir,A - Grant,$0.00,71429,221907,+47%,+$0,0.0,-5.0,-5.0,-8,CTIC
+218,,2012-12-05 19:36:36,2012-12-03,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,71429,251580,+40%,+$0,0.0,-5.0,-5.0,-8,CTIC
+219,,2012-12-05 19:36:08,2012-12-03,CTIC,Telling Fred,Dir,A - Grant,$0.00,71429,223308,+47%,+$0,0.0,-5.0,-5.0,-8,CTIC
+220,,2012-12-05 18:46:04,2012-12-03,CTIC,Love Richard L,Dir,A - Grant,$0.00,71429,263510,+37%,+$0,0.0,-5.0,-5.0,-8,CTIC
+221,,2012-12-05 18:46:03,2012-12-03,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,89286,298415,+43%,+$0,0.0,-5.0,-5.0,-8,CTIC
+222,,2012-12-05 18:08:54,2012-12-03,CTIC,Bauer John H,Dir,A - Grant,$0.00,71429,249412,+40%,+$0,0.0,-5.0,-5.0,-8,CTIC
+223,,2012-12-05 18:07:55,2012-12-03,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,71429,236182,+43%,+$0,0.0,-5.0,-5.0,-8,CTIC
+224,,2012-11-19 21:07:09,2012-11-19,CTIC,Philips Craig,Former President,S - Sale,$1.25,-65000,414,-99%,"-$81,253",1.0,16.0,8.0,+7,CTIC
+225,,2012-10-18 20:28:13,2012-10-16,CTIC,Plunkett Matthew,"EVP, Corporate Development",A - Grant,$0.00,100000,100000,New,+$0,-1.0,-1.0,-18.0,-28,CTIC
+226,,2012-09-26 20:08:18,2012-09-25,CTIC,Philips Craig,former President,S - Sale,$2.65,-35000,132646,-21%,"-$92,663",-1.0,2.0,-37.0,-51,CTIC
+227,,2012-09-26 19:03:35,2012-09-26,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.44,-10000,1056559,-1%,"-$24,400",-1.0,2.0,-37.0,-51,CTIC
+228,,2012-09-21 19:52:29,2012-09-20,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.69,-40000,1066559,-4%,"-$107,708",-4.0,-11.0,-46.0,-61,CTIC
+229,,2012-09-21 19:35:26,2012-09-20,CTIC,Eramian Daniel G,"EVP, Corporate Communications",S - Sale,$2.68,-15000,354350,-4%,"-$40,200",-4.0,-11.0,-46.0,-61,CTIC
+230,,2012-09-20 19:15:02,2012-09-18,CTIC,Telling Fred,Dir,S - Sale,$2.86,-18874,151879,-11%,"-$53,913",2.0,-7.0,-41.0,-57,CTIC
+231,,2012-09-17 14:50:28,2012-09-17,CTIC,Philips Craig,former president,S - Sale,$2.93,-30000,167839,-15%,"-$87,902",4.0,-6.0,-47.0,-56,CTIC
+232,,2012-08-31 18:58:30,2012-08-31,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.43,-50000,5532809,-1%,"-$21,500",-10.0,5.0,1.0,-41,CTIC
+233,,2012-08-28 12:02:42,2012-08-27,CTIC,Philips Craig,former President,S - Sale,$0.44,-175000,814197,-18%,"-$76,258",4.0,-12.0,10.0,-44,CTIC
+234,,2012-08-24 18:54:43,2012-08-24,CTIC,Eramian Daniel G,"EVP, Corporate Communications",S - Sale,$0.39,-95000,1846761,-5%,"-$37,213",12.0,15.0,30.0,-34,CTIC
+235,,2012-08-24 18:28:55,2012-08-23,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$0.40,-120000,2213155,-5%,"-$48,012",12.0,15.0,30.0,-34,CTIC
+236,,2012-08-24 18:09:57,2012-08-22,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.40,-244805,5582809,-4%,"-$97,922",12.0,15.0,30.0,-34,CTIC
+237,,2012-08-20 12:28:02,2012-08-15,CTIC,Philips Craig,former President,S - Sale,$0.40,-175000,989197,-15%,"-$69,929",-2.0,-2.0,40.0,-33,CTIC
+238,M,2012-08-17 18:45:51,2012-08-16,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$0.40,-50000,2333155,-2%,"-$20,031",-2.0,0.0,47.0,-33,CTIC
+239,,2012-08-10 18:57:21,2012-08-10,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.42,-50000,5827614,-1%,"-$21,100",-2.0,-5.0,22.0,-31,CTIC
+240,,2012-08-01 18:55:30,2012-07-30,CTIC,Bianco James A,"Pres, CEO",S - Sale,$0.51,-50000,5877614,-1%,"-$25,400",-6.0,-4.0,4.0,-39,CTIC
+241,,2012-07-03 20:04:48,2012-06-29,CTIC,Philips Craig,Pres,S - Sale,$0.57,-92000,3931669,-2%,"-$52,594",-5.0,0.0,-21.0,-59,CTIC
+242,,2012-06-29 19:36:15,2012-06-27,CTIC,Singer Jack W,"EVP, Global Medical Affairs",A - Grant,$0.00,37161,2477534,+2%,+$0,5.0,3.0,-12.0,-55,CTIC
+243,,2012-06-29 19:36:15,2012-06-29,CTIC,Singer Jack W,"EVP, Global Medical Affairs",S - Sale,$0.60,-50000,2477534,-2%,"-$29,997",5.0,3.0,-12.0,-55,CTIC
+244,,2012-06-29 19:08:15,2012-06-27,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,37161,2383155,+2%,+$0,5.0,3.0,-12.0,-55,CTIC
+245,,2012-06-29 19:08:15,2012-06-29,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$0.60,-105000,2383155,-4%,"-$62,634",5.0,3.0,-12.0,-55,CTIC
+246,,2012-06-29 18:54:19,2012-06-27,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,27415,1941761,+1%,+$0,5.0,3.0,-12.0,-55,CTIC
+247,,2012-06-29 18:54:19,2012-06-28,CTIC,Eramian Daniel G,"EVP, Corporate Communications",S - Sale,$0.58,-50000,1941761,-3%,"-$28,764",5.0,3.0,-12.0,-55,CTIC
+248,,2012-06-29 18:25:49,2012-06-27,CTIC,Bianco James A,CEO,A - Grant,$0.00,91380,5927614,+2%,+$0,5.0,3.0,-12.0,-55,CTIC
+249,M,2012-06-29 18:25:49,2012-06-28,CTIC,Bianco James A,CEO,S - Sale,$0.56,-206710,5927614,-3%,"-$116,714",5.0,3.0,-12.0,-55,CTIC
+250,,2012-06-29 18:05:38,2012-06-29,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.58,-200000,1045659,-16%,"-$116,335",5.0,3.0,-12.0,-55,CTIC
+251,,2012-06-28 20:00:45,2012-06-27,CTIC,Tuckson Reed Vaughn,Dir,A - Grant,$0.00,27415,752400,+4%,+$0,0.0,2.0,-10.0,-54,CTIC
+252,,2012-06-28 19:48:56,2012-06-27,CTIC,Telling Fred,Dir,A - Grant,$0.00,27415,853775,+3%,+$0,0.0,2.0,-10.0,-54,CTIC
+253,,2012-06-28 19:10:21,2012-06-27,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,41426,1245659,+3%,+$0,0.0,2.0,-10.0,-54,CTIC
+254,,2012-06-28 19:05:04,2012-06-27,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,27415,900765,+3%,+$0,0.0,2.0,-10.0,-54,CTIC
+255,,2012-06-28 18:57:58,2012-06-27,CTIC,Philips Craig,Pres,A - Grant,$0.00,54828,4023669,+1%,+$0,0.0,2.0,-10.0,-54,CTIC
+256,,2012-06-28 18:53:13,2012-06-27,CTIC,Love Richard L,Dir,A - Grant,$0.00,27415,960419,+3%,+$0,0.0,2.0,-10.0,-54,CTIC
+257,,2012-06-28 18:38:44,2012-06-27,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,27415,823779,+3%,+$0,0.0,2.0,-10.0,-54,CTIC
+258,,2012-06-28 18:06:00,2012-06-27,CTIC,Bauer John H,Dir,A - Grant,$0.00,27415,889925,+3%,+$0,0.0,2.0,-10.0,-54,CTIC
+259,,2012-06-15 20:11:46,2012-06-13,CTIC,Benner Steven E,"EVP, Chief Medical Officer",A - Grant,$0.00,500000,500000,New,+$0,-1.0,-3.0,-7.0,-61,CTIC
+260,,2012-04-27 17:43:21,2012-04-27,CTIC,Bianco James A,CEO,S - Sale,$1.13,-10000,6042944,0%,"-$11,330",-2.0,-6.0,-19.0,-73,CTIC
+261,,2012-04-20 18:00:46,2012-04-19,CTIC,Philips Craig,Pres,S - Sale,$1.20,-12000,3968841,0%,"-$14,415",-4.0,-4.0,-27.0,-74,CTIC
+262,,2012-04-02 18:54:38,2012-03-30,CTIC,Gregorian Vartan,Dir,S - Sale,$1.31,-77000,796364,-9%,"-$101,159",-2.0,-11.0,-20.0,-63,CTIC
+263,,2012-03-30 18:36:17,2012-03-30,CTIC,Bianco James A,CEO,S - Sale,$1.30,-10000,6052944,0%,"-$13,010",0.0,-8.0,-16.0,-64,CTIC
+264,,2012-03-23 19:10:17,2012-03-21,CTIC,Singer Jack W,"EVP, Chief Medical Officer",F - Tax,$1.31,-7593,2490373,0%,"-$9,947",6.0,-1.0,-15.0,-62,CTIC
+265,,2012-03-23 19:02:51,2012-03-21,CTIC,Bianco James A,CEO,F - Tax,$1.31,-2682,6062944,0%,"-$3,513",6.0,-1.0,-15.0,-62,CTIC
+266,,2012-03-23 19:02:51,2012-03-21,CTIC,Bianco James A,CEO,S - Sale,$1.30,-76041,6062944,-1%,"-$99,005",6.0,-1.0,-15.0,-62,CTIC
+267,,2012-03-23 18:12:46,2012-03-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",F - Tax,$1.31,-7593,2450994,0%,"-$9,947",6.0,-1.0,-15.0,-62,CTIC
+268,,2012-03-23 17:52:15,2012-03-21,CTIC,Philips Craig,Pres,F - Tax,$1.31,-7593,3980841,0%,"-$9,947",6.0,-1.0,-15.0,-62,CTIC
+269,,2012-03-23 17:26:39,2012-03-21,CTIC,Eramian Daniel G,"EVP, Corporate Communications",F - Tax,$1.31,-7593,1964346,0%,"-$9,947",6.0,-1.0,-15.0,-62,CTIC
+270,,2012-02-24 19:21:27,2012-02-24,CTIC,Bianco James A,CEO,S - Sale,$1.29,-10000,6141667,0%,"-$12,850",-4.0,-1.0,3.0,-69,CTIC
+271,,2012-01-31 19:06:43,2012-01-27,CTIC,Bianco James A,CEO,S - Sale,$1.31,-10000,6151667,0%,"-$13,050",-2.0,1.0,17.0,-54,CTIC
+272,,2012-01-04 20:10:02,2012-01-03,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,1639414,2458587,+200%,+$0,4.0,-1.0,-6.0,-43,CTIC
+273,,2012-01-04 20:10:02,2011-12-31,CTIC,Bianco Louis A,"EVP, Finance, Administration",D - Sale to issuer,$0.00,-673636,2458587,-22%,-$0,4.0,-1.0,-6.0,-43,CTIC
+274,,2012-01-04 19:53:15,2012-01-03,CTIC,Philips Craig,Pres,A - Grant,$0.00,2423906,3988434,+155%,+$0,4.0,-1.0,-6.0,-43,CTIC
+275,,2012-01-04 19:53:15,2011-12-31,CTIC,Philips Craig,Pres,D - Sale to issuer,$0.00,-996659,3988434,-20%,-$0,4.0,-1.0,-6.0,-43,CTIC
+276,,2012-01-04 19:45:58,2012-01-03,CTIC,Bianco James A,CEO,A - Grant,$0.00,4039843,6161667,+190%,+$0,4.0,-1.0,-6.0,-43,CTIC
+277,,2012-01-04 19:45:58,2011-12-31,CTIC,Bianco James A,CEO,D - Sale to issuer,$0.00,-1661100,6161667,-21%,-$0,4.0,-1.0,-6.0,-43,CTIC
+278,,2012-01-04 19:37:36,2012-01-03,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,1211953,1971939,+159%,+$0,4.0,-1.0,-6.0,-43,CTIC
+279,,2012-01-04 19:37:36,2011-12-31,CTIC,Eramian Daniel G,"EVP, Corporate Communications",D - Sale to issuer,$0.00,-498329,1971939,-20%,-$0,4.0,-1.0,-6.0,-43,CTIC
+280,,2012-01-04 19:13:48,2012-01-03,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,1639414,2497966,+191%,+$0,4.0,-1.0,-6.0,-43,CTIC
+281,,2012-01-04 19:13:48,2011-12-31,CTIC,Singer Jack W,"EVP, Chief Medical Officer",D - Sale to issuer,$0.00,-673636,2497966,-21%,-$0,4.0,-1.0,-6.0,-43,CTIC
+282,,2012-01-04 18:51:23,2012-01-03,CTIC,Tuckson Reed Vaughn,Dir,A - Grant,$0.00,516360,724985,+248%,+$0,4.0,-1.0,-6.0,-43,CTIC
+283,,2012-01-04 18:43:31,2012-01-03,CTIC,Telling Fred,Dir,A - Grant,$0.00,516360,826360,+167%,+$0,4.0,-1.0,-6.0,-43,CTIC
+284,,2012-01-04 18:43:31,2011-12-31,CTIC,Telling Fred,Dir,D - Sale to issuer,$0.00,-166109,826360,-17%,-$0,4.0,-1.0,-6.0,-43,CTIC
+285,,2012-01-04 18:33:39,2012-01-03,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,776411,1204233,+181%,+$0,4.0,-1.0,-6.0,-43,CTIC
+286,,2012-01-04 18:33:39,2011-12-31,CTIC,Nudelman Phillip M Phd,Dir,D - Sale to issuer,$0.00,-249759,1204233,-17%,-$0,4.0,-1.0,-6.0,-43,CTIC
+287,,2012-01-04 18:18:35,2012-01-03,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,516360,873350,+145%,+$0,4.0,-1.0,-6.0,-43,CTIC
+288,,2012-01-04 18:18:35,2011-12-31,CTIC,Mundinger Mary Oneil,Dir,D - Sale to issuer,$0.00,-166109,873350,-16%,-$0,4.0,-1.0,-6.0,-43,CTIC
+289,,2012-01-04 18:13:11,2012-01-03,CTIC,Love Richard L,Dir,A - Grant,$0.00,516360,933004,+124%,+$0,4.0,-1.0,-6.0,-43,CTIC
+290,,2012-01-04 18:13:11,2011-12-31,CTIC,Love Richard L,Dir,D - Sale to issuer,$0.00,-166109,933004,-15%,-$0,4.0,-1.0,-6.0,-43,CTIC
+291,,2012-01-04 17:41:21,2012-01-03,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,516360,873364,+145%,+$0,4.0,-1.0,-6.0,-43,CTIC
+292,,2012-01-04 17:41:21,2011-12-31,CTIC,Gregorian Vartan,Dir,D - Sale to issuer,$0.00,-166109,873364,-16%,-$0,4.0,-1.0,-6.0,-43,CTIC
+293,,2012-01-04 17:08:40,2012-01-03,CTIC,Bauer John H,Dir,A - Grant,$0.00,516360,862510,+149%,+$0,4.0,-1.0,-6.0,-43,CTIC
+294,,2012-01-04 17:08:40,2011-12-31,CTIC,Bauer John H,Dir,D - Sale to issuer,$0.00,-166109,862510,-16%,-$0,4.0,-1.0,-6.0,-43,CTIC
+295,,2011-12-30 17:39:15,2011-12-27,CTIC,Bianco James A,CEO,G - Gift,$0.00,-20000,3782924,-1%,-$0,0.0,-4.0,-5.0,-52,CTIC
+296,,2011-12-30 17:39:15,2011-12-29,CTIC,Bianco James A,CEO,S - Sale,$1.11,-10000,3782924,0%,"-$11,110",0.0,-4.0,-5.0,-52,CTIC
+297,,2011-12-01 19:32:45,2011-11-29,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,505688,1532188,+49%,+$0,2.0,23.0,6.0,-20,CTIC
+298,,2011-12-01 19:12:36,2011-11-29,CTIC,Philips Craig,Pres,A - Grant,$0.00,1011376,2561187,+65%,+$0,2.0,23.0,6.0,-20,CTIC
+299,,2011-12-01 19:07:39,2011-11-29,CTIC,Bianco James A,CEO,A - Grant,$0.00,1685626,3812924,+79%,+$0,2.0,23.0,6.0,-20,CTIC
+300,,2011-12-01 19:07:39,2011-11-30,CTIC,Bianco James A,CEO,S - Sale,$1.08,-10000,3812924,0%,"-$10,820",2.0,23.0,6.0,-20,CTIC
+301,,2011-12-01 18:55:34,2011-11-29,CTIC,Eramian Daniel G,"EVP, Corporate Communication",A - Grant,$0.00,505688,1258315,+67%,+$0,2.0,23.0,6.0,-20,CTIC
+302,,2011-12-01 18:53:01,2011-11-29,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,505688,1492809,+51%,+$0,2.0,23.0,6.0,-20,CTIC
+303,,2011-12-01 18:40:15,2011-11-29,CTIC,Tuckson Reed Vaughn,Dir,A - Grant,$0.00,187292,208625,+878%,+$0,2.0,23.0,6.0,-20,CTIC
+304,,2011-12-01 18:23:09,2011-11-29,CTIC,Love Richard L,Dir,A - Grant,$0.00,187292,582753,+47%,+$0,2.0,23.0,6.0,-20,CTIC
+305,,2011-12-01 18:12:42,2011-11-29,CTIC,Telling Fred,Dir,A - Grant,$0.00,187292,476109,+65%,+$0,2.0,23.0,6.0,-20,CTIC
+306,,2011-12-01 18:03:37,2011-11-29,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,187292,523113,+56%,+$0,2.0,23.0,6.0,-20,CTIC
+307,,2011-12-01 17:59:07,2011-11-29,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,280938,677581,+71%,+$0,2.0,23.0,6.0,-20,CTIC
+308,,2011-12-01 17:50:20,2011-11-29,CTIC,Bauer John H,Dir,A - Grant,$0.00,187292,512259,+58%,+$0,2.0,23.0,6.0,-20,CTIC
+309,,2011-12-01 17:44:31,2011-11-29,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,187292,523099,+56%,+$0,2.0,23.0,6.0,-20,CTIC
+310,D,2011-11-15 18:27:29,2011-11-11,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,3333,396643,+1%,+$0,-1.0,-6.0,-3.0,-13,CTIC
+311,D,2011-11-15 18:24:04,2011-11-11,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,3333,335821,+1%,+$0,-1.0,-6.0,-3.0,-13,CTIC
+312,D,2011-11-15 18:03:43,2011-11-11,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,3333,335807,+1%,+$0,-1.0,-6.0,-3.0,-13,CTIC
+313,D,2011-11-15 17:57:58,2011-11-11,CTIC,Tuckson Reed Vaughn,Dir,A - Grant,$0.00,3333,21333,+19%,+$0,-1.0,-6.0,-3.0,-13,CTIC
+314,D,2011-11-15 17:34:39,2011-11-11,CTIC,Telling Fred,Dir,A - Grant,$0.00,3333,288817,+1%,+$0,-1.0,-6.0,-3.0,-13,CTIC
+315,D,2011-11-15 17:22:12,2011-11-11,CTIC,Love Richard L,Dir,A - Grant,$0.00,3333,395461,+1%,+$0,-1.0,-6.0,-3.0,-13,CTIC
+316,D,2011-11-15 17:12:30,2011-11-11,CTIC,Bauer John H,Dir,A - Grant,$0.00,3333,324967,+1%,+$0,-1.0,-6.0,-3.0,-13,CTIC
+317,,2011-10-28 17:24:22,2011-10-28,CTIC,Bianco James A,CEO,S - Sale,$1.26,-25000,2137298,-1%,"-$31,550",1.0,-8.0,-12.0,-12,CTIC
+318,,2011-09-30 18:52:30,2011-09-30,CTIC,Bianco James A,CEO,S - Sale,$1.04,-10000,2162298,0%,"-$10,400",-8.0,6.0,20.0,+25,CTIC
+319,D,2011-09-26 20:54:39,2011-09-22,CTIC,Tuckson Reed Vaughn,Dir,A - Grant,$0.00,18000,18000,New,+$0,8.0,4.0,22.0,+37,CTIC
+320,,2011-09-23 20:13:20,2011-09-21,CTIC,Singer Jack W,"EVP, Chief Medical Officer",F - Tax,$1.02,-7593,1026500,-1%,"-$7,745",1.0,4.0,22.0,+32,CTIC
+321,,2011-09-23 20:03:45,2011-09-21,CTIC,Philips Craig,Pres,F - Tax,$1.02,-7593,1549811,0%,"-$7,745",1.0,4.0,22.0,+32,CTIC
+322,,2011-09-23 19:52:13,2011-09-21,CTIC,Bianco James A,CEO,S - Sale,$1.05,-76041,2172298,-3%,"-$79,919",1.0,4.0,22.0,+32,CTIC
+323,,2011-09-23 19:24:46,2011-09-21,CTIC,Eramian Daniel G,"EVP, Corporate Communications",F - Tax,$1.02,-7593,752627,-1%,"-$7,745",1.0,4.0,22.0,+32,CTIC
+324,,2011-09-23 19:01:06,2011-09-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",F - Tax,$1.02,-5510,987121,-1%,"-$5,620",1.0,4.0,22.0,+32,CTIC
+325,,2011-09-16 19:03:46,2011-09-16,CTIC,Bianco James A,CEO,S - Sale,$1.11,-50000,2248339,-2%,"-$55,550",-5.0,-18.0,4.0,+14,CTIC
+326,,2011-08-26 17:52:38,2011-08-26,CTIC,Bianco James A,CEO,S - Sale,$1.12,-30000,2298339,-1%,"-$33,600",4.0,4.0,-11.0,+8,CTIC
+327,,2011-07-29 18:09:37,2011-07-29,CTIC,Bianco James A,CEO,S - Sale,$1.34,-10000,2328339,0%,"-$13,400",-1.0,-14.0,-16.0,-2,CTIC
+328,,2011-05-13 19:24:04,2011-05-13,CTIC,Bianco James A,CEO,S - Sale,$0.28,-300000,14030039,-2%,"-$83,100",-2.0,3.0,33.0,-31,CTIC
+329,,2011-04-28 18:38:32,2011-04-26,CTIC,Philips Craig,Pres,F - Tax,$0.39,-2620,9344428,0%,"-$1,032",-3.0,-2.0,5.0,-37,CTIC
+330,A,2011-04-08 21:52:50,2011-03-21,CTIC,Telling Fred,Dir,A - Grant,$0.00,125000,1712907,+8%,+$0,3.0,-5.0,-26.0,-54,CTIC
+331,A,2011-04-08 21:52:11,2011-03-21,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,125000,2359865,+6%,+$0,3.0,-5.0,-26.0,-54,CTIC
+332,A,2011-04-08 21:47:07,2011-03-21,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,125000,1994849,+7%,+$0,3.0,-5.0,-26.0,-54,CTIC
+333,A,2011-04-08 21:45:35,2011-03-21,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,250000,4666899,+6%,+$0,3.0,-5.0,-26.0,-54,CTIC
+334,A,2011-04-08 21:40:14,2011-03-21,CTIC,Love Richard L,Dir,A - Grant,$0.00,125000,2352773,+6%,+$0,3.0,-5.0,-26.0,-54,CTIC
+335,A,2011-04-08 21:38:27,2011-03-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,250000,6060249,+4%,+$0,3.0,-5.0,-26.0,-54,CTIC
+336,A,2011-04-08 21:34:10,2011-03-21,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,125000,1994933,+7%,+$0,3.0,-5.0,-26.0,-54,CTIC
+337,A,2011-04-08 21:27:30,2011-03-21,CTIC,Bauer John H,Dir,A - Grant,$0.00,125000,1929808,+7%,+$0,3.0,-5.0,-26.0,-54,CTIC
+338,A,2011-04-08 21:26:45,2011-03-21,CTIC,Bianco James A,CEO,A - Grant,$0.00,2500000,14698638,+20%,+$0,3.0,-5.0,-26.0,-54,CTIC
+339,A,2011-04-08 21:09:27,2011-03-21,CTIC,Philips Craig,Pres,A - Grant,$0.00,250000,9558206,+3%,+$0,3.0,-5.0,-26.0,-54,CTIC
+340,A,2011-04-08 20:08:21,2011-03-21,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,250000,6318827,+4%,+$0,3.0,-5.0,-26.0,-54,CTIC
+341,A,2011-04-08 19:41:28,2011-03-21,CTIC,Telling Fred,Dir,A - Grant,$0.44,125000,1712907,+8%,"+$54,375",3.0,-5.0,-26.0,-54,CTIC
+342,A,2011-04-08 19:31:00,2011-03-21,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.44,125000,2359865,+6%,"+$54,375",3.0,-5.0,-26.0,-54,CTIC
+343,A,2011-04-08 19:10:40,2011-03-21,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.44,125000,1994849,+7%,"+$54,375",3.0,-5.0,-26.0,-54,CTIC
+344,A,2011-04-08 18:58:12,2011-03-21,CTIC,Love Richard L,Dir,A - Grant,$0.44,125000,2352773,+6%,"+$54,375",3.0,-5.0,-26.0,-54,CTIC
+345,A,2011-04-08 18:37:23,2011-03-21,CTIC,Gregorian Vartan,Dir,A - Grant,$0.44,125000,1994933,+7%,"+$54,375",3.0,-5.0,-26.0,-54,CTIC
+346,A,2011-04-08 18:20:30,2011-03-21,CTIC,Bauer John H,Dir,A - Grant,$0.44,125000,1929808,+7%,"+$54,375",3.0,-5.0,-26.0,-54,CTIC
+347,,2011-03-25 19:27:46,2011-03-25,CTIC,Bianco James A,CEO,S - Sale,$0.39,-368621,11830039,-3%,"-$143,762",-8.0,-2.0,0.0,-50,CTIC
+348,,2011-03-25 19:12:40,2011-03-25,CTIC,Eramian Daniel G,"EVP, Corporate Communications",F - Tax,$0.38,-105579,4311320,-2%,"-$40,120",-8.0,-2.0,0.0,-50,CTIC
+349,,2011-03-25 19:01:29,2011-03-25,CTIC,Bianco Louis A,"EVP, Finance, Administration",F - Tax,$0.38,-105579,5705788,-2%,"-$40,120",-8.0,-2.0,0.0,-50,CTIC
+350,,2011-03-25 18:50:32,2011-03-25,CTIC,Philips Craig,Pres,F - Tax,$0.38,-211158,9097048,-2%,"-$80,240",-8.0,-2.0,0.0,-50,CTIC
+351,,2011-03-25 18:42:20,2011-03-25,CTIC,Singer Jack W,"EVP, Chief Medical Officer",F - Tax,$0.38,-114268,5954559,-2%,"-$43,422",-8.0,-2.0,0.0,-50,CTIC
+352,,2011-03-02 19:02:12,2011-02-28,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.29,-40000,2234865,-2%,"-$11,610",4.0,-11.0,41.0,-27,CTIC
+353,,2011-02-25 18:59:25,2011-02-23,CTIC,Bianco James A,CEO,S - Sale,$0.29,-50000,12198660,0%,"-$14,550",0.0,0.0,37.0,-31,CTIC
+354,,2011-02-24 19:18:28,2011-02-22,CTIC,Love Richard L,Dir,S - Sale,$0.30,-75000,2227773,-3%,"-$22,402",3.0,0.0,55.0,-25,CTIC
+355,,2011-02-02 19:21:08,2011-01-31,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.35,-40000,2274865,-2%,"-$14,095",0.0,3.0,-18.0,-38,CTIC
+356,M,2011-01-28 19:01:39,2011-01-26,CTIC,Bianco James A,CEO,S - Sale,$0.36,-50000,12248660,0%,"-$18,060",0.0,-3.0,-20.0,-36,CTIC
+357,M,2011-01-03 19:19:58,2010-12-30,CTIC,Bianco James A,CEO,S - Sale,$0.37,-250000,12298660,-2%,"-$92,100",3.0,8.0,-8.0,-25,CTIC
+358,,2011-01-03 19:02:19,2010-12-31,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.37,-40000,2314865,-2%,"-$14,676",3.0,8.0,-8.0,-25,CTIC
+359,,2010-12-29 19:14:30,2010-12-28,CTIC,Gregorian Vartan,Dir,S - Sale,$0.37,-40000,1869933,-2%,"-$14,882",0.0,3.0,-3.0,-10,CTIC
+360,,2010-12-29 19:07:05,2010-12-27,CTIC,Eramian Daniel G,"EVP, Corporate Communications",D - Sale to issuer,$0.00,-8000,4416899,0%,-$0,0.0,3.0,-3.0,-10,CTIC
+361,,2010-12-29 19:00:51,2010-12-27,CTIC,Bianco James A,CEO,D - Sale to issuer,$0.00,-24000,12548660,0%,-$0,0.0,3.0,-3.0,-10,CTIC
+362,,2010-12-29 18:53:03,2010-12-27,CTIC,Bianco Louis A,"EVP, Finance, Administration",D - Sale to issuer,$0.00,-8000,5811367,0%,-$0,0.0,3.0,-3.0,-10,CTIC
+363,,2010-12-29 18:43:42,2010-12-27,CTIC,Singer Jack W,"EVP, Chief Medical Officer",D - Sale to issuer,$0.00,-8000,6068827,0%,-$0,0.0,3.0,-3.0,-10,CTIC
+364,,2010-12-17 19:02:24,2010-12-16,CTIC,Eramian Daniel G,"EVP, Corporate Communications",S - Sale,$0.36,-250000,4424899,-5%,"-$90,000",0.0,0.0,3.0,-9,CTIC
+365,M,2010-12-17 18:51:55,2010-12-15,CTIC,Bianco James A,CEO,S - Sale,$0.36,-200000,12572660,-2%,"-$72,400",0.0,0.0,3.0,-9,CTIC
+366,M,2010-12-10 18:26:56,2010-12-09,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$0.37,-250000,5819367,-4%,"-$92,974",3.0,-3.0,5.0,-4,CTIC
+367,,2010-12-10 18:13:41,2010-12-10,CTIC,Bianco James A,CEO,S - Sale,$0.37,-150000,12772660,-1%,"-$56,100",3.0,-3.0,5.0,-4,CTIC
+368,,2010-12-02 19:22:49,2010-11-30,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.35,-40000,2354865,-2%,"-$14,146",3.0,3.0,0.0,0,CTIC
+369,,2010-11-24 16:49:01,2010-11-22,CTIC,Love Richard L,Dir,S - Sale,$0.39,-75000,2302773,-3%,"-$28,919",0.0,0.0,0.0,-6,CTIC
+370,,2010-11-08 19:21:10,2010-11-05,CTIC,Telling Fred,Dir,S - Sale,$0.39,-216016,1587907,-12%,"-$84,246",-2.0,-3.0,-5.0,-28,CTIC
+371,,2010-11-05 19:02:55,2010-11-05,CTIC,Bianco James A,CEO,S - Sale,$0.39,-100000,12922660,-1%,"-$38,600",3.0,0.0,-3.0,-24,CTIC
+372,,2010-10-29 19:20:56,2010-10-29,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.38,-40000,2394865,-2%,"-$15,110",5.0,0.0,0.0,-11,CTIC
+373,M,2010-10-01 19:10:40,2010-09-29,CTIC,Bianco James A,CEO,S - Sale,$0.38,-400000,13022660,-3%,"-$151,250",0.0,0.0,0.0,-3,CTIC
+374,,2010-10-01 18:56:24,2010-09-30,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.38,-40000,2434865,-2%,"-$15,310",0.0,0.0,0.0,-3,CTIC
+375,D,2010-09-17 20:31:54,2010-09-16,CTIC,Telling Fred,Dir,A - Grant,$0.00,20000,1803923,+1%,+$0,3.0,11.0,21.0,+24,CTIC
+376,D,2010-09-17 20:20:49,2010-09-16,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,20000,2474865,+1%,+$0,3.0,11.0,21.0,+24,CTIC
+377,D,2010-09-17 20:08:38,2010-09-16,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,20000,1869849,+1%,+$0,3.0,11.0,21.0,+24,CTIC
+378,D,2010-09-17 19:53:53,2010-09-16,CTIC,Love Richard L,Dir,A - Grant,$0.00,20000,2377773,+1%,+$0,3.0,11.0,21.0,+24,CTIC
+379,D,2010-09-17 19:36:49,2010-09-16,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,20000,1909933,+1%,+$0,3.0,11.0,21.0,+24,CTIC
+380,D,2010-09-17 19:21:31,2010-09-16,CTIC,Bauer John H,Dir,A - Grant,$0.00,20000,1804808,+1%,+$0,3.0,11.0,21.0,+24,CTIC
+381,,2010-09-02 19:14:10,2010-08-31,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.36,-40000,2454865,-2%,"-$14,497",3.0,3.0,0.0,-26,CTIC
+382,,2010-08-25 19:29:05,2010-08-23,CTIC,Love Richard L,Dir,S - Sale,$0.37,-75000,2357773,-3%,"-$27,885",0.0,3.0,8.0,-19,CTIC
+383,M,2010-08-11 19:14:48,2010-08-09,CTIC,Bianco James A,CEO,S - Sale,$0.40,-250000,13422660,-2%,"-$100,000",-3.0,0.0,0.0,-10,CTIC
+384,,2010-07-30 19:36:44,2010-07-30,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.40,-40000,2494865,-2%,"-$15,809",3.0,5.0,-5.0,-8,CTIC
+385,,2010-07-14 20:07:45,2010-07-12,CTIC,Singer Jack W,Chief Medical Officer,A - Grant,$0.00,4041827,6076827,+199%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+386,,2010-07-14 20:07:41,2010-07-12,CTIC,Telling Fred,Dir,A - Grant,$0.00,996661,1783923,+127%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+387,,2010-07-14 20:01:59,2010-07-12,CTIC,Philips Craig,Pres,A - Grant,$0.00,5979967,9308206,+180%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+388,,2010-07-14 20:01:17,2010-07-12,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,1498559,2534865,+145%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+389,,2010-07-14 19:56:19,2010-07-12,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,996661,1849849,+117%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+390,,2010-07-14 19:55:38,2010-07-12,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,2989983,4674899,+177%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+391,,2010-07-14 19:51:14,2010-07-12,CTIC,Love Richard L,Dir,A - Grant,$0.00,996661,2432773,+69%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+392,,2010-07-14 19:48:58,2010-07-12,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,4041827,6069367,+199%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+393,,2010-07-14 19:44:05,2010-07-12,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,996661,1889933,+112%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+394,,2010-07-14 19:40:26,2010-07-12,CTIC,Bianco James A,CEO,A - Grant,$0.00,9966610,13672660,+269%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+395,,2010-07-14 19:38:23,2010-07-12,CTIC,Bauer John H,Dir,A - Grant,$0.00,996661,1784808,+126%,+$0,-2.0,-3.0,-12.0,-12,CTIC
+396,,2010-07-02 19:19:38,2010-06-30,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.39,-40000,1036306,-4%,"-$15,476",-2.0,2.0,2.0,-5,CTIC
+397,M,2010-07-01 19:25:49,2010-06-28,CTIC,Telling Fred,Dir,S - Sale,$0.42,-105823,787262,-12%,"-$44,446",-7.0,-8.0,-8.0,-13,CTIC
+398,M,2010-07-01 19:15:03,2010-06-29,CTIC,Bianco James A,CEO,S - Sale,$0.37,-500000,3706050,-12%,"-$185,681",-7.0,-8.0,-8.0,-13,CTIC
+399,,2010-05-28 18:48:41,2010-05-28,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.39,-40000,1076306,-4%,"-$15,485",-6.0,-5.0,10.0,+2,CTIC
+400,,2010-05-26 19:25:09,2010-05-24,CTIC,Love Richard L,Dir,S - Sale,$0.38,-11300,1436112,-1%,"-$4,238",8.0,3.0,17.0,+11,CTIC
+401,,2010-05-26 19:11:53,2010-05-24,CTIC,Love Richard L,Dir,S - Sale,$0.35,-63700,1447412,-4%,"-$22,209",8.0,3.0,17.0,+11,CTIC
+402,,2010-05-05 19:39:39,2010-05-03,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$0.60,-40000,1116306,-3%,"-$23,939",-9.0,-2.0,-29.0,-24,CTIC
+403,,2010-03-26 19:48:13,2010-03-25,CTIC,Singer Jack W,Chief Medical Officer,F - Tax,$0.67,-105579,2035000,-5%,"-$70,738",-6.0,-17.0,-2.0,-37,CTIC
+404,,2010-03-26 19:39:36,2010-03-25,CTIC,Philips Craig,Pres,F - Tax,$0.67,-211158,3328239,-6%,"-$141,476",-6.0,-17.0,-2.0,-37,CTIC
+405,,2010-03-26 19:27:58,2010-03-25,CTIC,Bianco James A,CEO,F - Tax,$0.67,-351931,4206050,-8%,"-$235,794",-6.0,-17.0,-2.0,-37,CTIC
+406,,2010-03-26 19:12:23,2010-03-25,CTIC,Bianco Louis A,"EVP, Finance, Administration",F - Tax,$0.67,-105579,2027540,-5%,"-$70,738",-6.0,-17.0,-2.0,-37,CTIC
+407,,2010-03-26 19:03:01,2010-03-25,CTIC,Eramian Daniel G,"EVP, Corporate Communications",F - Tax,$0.67,-105579,1684916,-6%,"-$70,738",-6.0,-17.0,-2.0,-37,CTIC
+408,,2010-01-04 20:20:39,2009-12-31,CTIC,Singer Jack W,"EVP, Chief Medical Officer",D - Sale to issuer,$0.00,-6048,2140579,0%,-$0,-1.0,-1.0,-7.0,-71,CTIC
+409,,2010-01-04 20:08:28,2009-12-31,CTIC,Eramian Daniel G,"EVP, Corporate Communications",D - Sale to issuer,$0.00,-5040,1790495,0%,-$0,-1.0,-1.0,-7.0,-71,CTIC
+410,,2010-01-04 19:57:47,2009-12-31,CTIC,Bianco Louis A,"EVP, Finance, Administration",D - Sale to issuer,$0.00,-6048,2133119,0%,-$0,-1.0,-1.0,-7.0,-71,CTIC
+411,,2010-01-04 19:39:23,2009-12-31,CTIC,Bianco James A,CEO,D - Sale to issuer,$0.00,-20162,4557981,0%,-$0,-1.0,-1.0,-7.0,-71,CTIC
+412,,2009-12-30 19:27:20,2009-12-23,CTIC,Bianco James A,CEO,G - Gift,$0.00,-25000,4578143,-1%,-$0,-1.0,2.0,-3.0,-66,CTIC
+413,,2009-12-30 19:09:46,2009-12-23,CTIC,Mundinger Mary Oneil,Dir,G - Gift,$0.00,-25000,853188,-3%,-$0,-1.0,2.0,-3.0,-66,CTIC
+414,,2009-11-24 19:31:47,2009-11-24,CTIC,Love Richard L,Dir,A - Grant,$0.00,653690,1511112,+76%,+$0,-2.0,-3.0,2.0,-69,CTIC
+415,,2009-11-13 19:57:25,2009-11-13,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,290017,878188,+49%,+$0,2.0,12.0,12.0,-55,CTIC
+416,,2009-11-13 19:51:57,2009-11-13,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,290017,893272,+48%,+$0,2.0,12.0,12.0,-55,CTIC
+417,,2009-11-13 19:46:16,2009-11-13,CTIC,Love Richard L,Dir,A - Grant,$0.00,290017,857422,+51%,+$0,2.0,12.0,12.0,-55,CTIC
+418,,2009-11-13 19:37:23,2009-11-13,CTIC,Bauer John H,Dir,A - Grant,$0.00,290017,788147,+58%,+$0,2.0,12.0,12.0,-55,CTIC
+419,,2009-11-13 19:35:50,2009-11-13,CTIC,Telling Fred,Dir,A - Grant,$0.00,290017,893085,+48%,+$0,2.0,12.0,12.0,-55,CTIC
+420,,2009-11-13 19:28:30,2009-11-13,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,435025,1156306,+60%,+$0,2.0,12.0,12.0,-55,CTIC
+421,,2009-11-12 20:00:23,2009-11-10,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,870050,1795535,+94%,+$0,2.0,16.0,16.0,-47,CTIC
+422,,2009-11-12 20:00:23,2009-11-10,CTIC,Eramian Daniel G,"EVP, Corporate Communications",F - Tax,$0.99,-317133,1795535,-15%,"-$313,962",2.0,16.0,16.0,-47,CTIC
+423,,2009-11-12 19:53:27,2009-11-10,CTIC,Philips Craig,Pres,A - Grant,$0.00,1740101,3539397,+97%,+$0,2.0,16.0,16.0,-47,CTIC
+424,,2009-11-12 19:53:27,2009-11-10,CTIC,Philips Craig,Pres,F - Tax,$0.99,-634266,3539397,-15%,"-$627,923",2.0,16.0,16.0,-47,CTIC
+425,,2009-11-12 19:45:37,2009-11-10,CTIC,Bianco James A,CEO,A - Grant,$0.00,2900168,4603143,+170%,+$0,2.0,16.0,16.0,-47,CTIC
+426,,2009-11-12 19:45:37,2009-11-10,CTIC,Bianco James A,CEO,F - Tax,$0.99,-1057111,4603143,-19%,"-$1,046,540",2.0,16.0,16.0,-47,CTIC
+427,,2009-11-12 19:34:33,2009-11-10,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,1177468,2139167,+122%,+$0,2.0,16.0,16.0,-47,CTIC
+428,,2009-11-12 19:34:33,2009-11-10,CTIC,Bianco Louis A,"EVP, Finance, Administration",F - Tax,$0.99,-429187,2139167,-17%,"-$424,895",2.0,16.0,16.0,-47,CTIC
+429,,2009-11-12 19:34:00,2009-11-10,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,1177468,2146627,+121%,+$0,2.0,16.0,16.0,-47,CTIC
+430,,2009-11-12 19:34:00,2009-11-10,CTIC,Singer Jack W,"EVP, Chief Medical Officer",F - Tax,$0.99,-429187,2146627,-17%,"-$424,895",2.0,16.0,16.0,-47,CTIC
+431,,2009-10-23 20:31:56,2009-10-22,CTIC,Bianco James A,CEO,F - Tax,$1.11,-54675,2760086,-2%,"-$60,689",-5.0,-5.0,1.0,-40,CTIC
+432,,2009-10-23 20:14:08,2009-10-22,CTIC,Philips Craig,Pres,F - Tax,$1.11,-27337,2433562,-1%,"-$30,344",-5.0,-5.0,1.0,-40,CTIC
+433,,2009-10-23 19:58:31,2009-10-22,CTIC,Bianco Louis A,"EVP, Finance, Administration",F - Tax,$1.11,-27337,1390886,-2%,"-$30,344",-5.0,-5.0,1.0,-40,CTIC
+434,,2009-10-23 19:45:21,2009-10-22,CTIC,Eramian Daniel G,"EVP, Corporate Communications",F - Tax,$1.11,-27337,1242618,-2%,"-$30,344",-5.0,-5.0,1.0,-40,CTIC
+435,,2009-10-23 19:33:55,2009-10-22,CTIC,Singer Jack W,"EVP, Chief Medical Officer",F - Tax,$1.11,-27337,1398346,-2%,"-$30,344",-5.0,-5.0,1.0,-40,CTIC
+436,D,2009-10-21 20:24:05,2009-10-20,CTIC,Telling Fred,Dir,A - Grant,$0.00,20000,603068,+3%,+$0,0.0,-8.0,2.0,-43,CTIC
+437,D,2009-10-21 20:07:37,2009-10-20,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,20000,721281,+3%,+$0,0.0,-8.0,2.0,-43,CTIC
+438,D,2009-10-21 19:58:06,2009-10-20,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,20000,588171,+4%,+$0,0.0,-8.0,2.0,-43,CTIC
+439,D,2009-10-21 19:45:19,2009-10-20,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,20000,603255,+3%,+$0,0.0,-8.0,2.0,-43,CTIC
+440,D,2009-10-21 19:33:50,2009-10-20,CTIC,Love Richard L,Dir,A - Grant,$0.00,20000,567405,+4%,+$0,0.0,-8.0,2.0,-43,CTIC
+441,D,2009-10-21 19:22:23,2009-10-20,CTIC,Bauer John H,Dir,A - Grant,$0.00,20000,498130,+4%,+$0,0.0,-8.0,2.0,-43,CTIC
+442,,2009-09-25 20:31:24,2009-09-25,CTIC,Philips Craig,Pres,S - Sale,$1.24,-211500,2460899,-8%,"-$262,450",2.0,-2.0,-13.0,-45,CTIC
+443,,2009-09-25 20:19:27,2009-09-25,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.23,-105580,1418223,-7%,"-$129,889",2.0,-2.0,-13.0,-45,CTIC
+444,,2009-09-25 20:02:17,2009-09-25,CTIC,Eramian Daniel G,"EVP, Corporate Communications",S - Sale,$1.25,-104276,1269955,-8%,"-$130,345",2.0,-2.0,-13.0,-45,CTIC
+445,,2009-09-25 19:49:21,2009-09-25,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$1.23,-101380,1425683,-7%,"-$124,722",2.0,-2.0,-13.0,-45,CTIC
+446,,2009-09-25 19:24:33,2009-09-25,CTIC,Bianco James A,CEO,S - Sale,$1.19,-318621,2814761,-10%,"-$379,733",2.0,-2.0,-13.0,-45,CTIC
+447,,2009-09-11 19:25:40,2009-09-11,CTIC,Bianco James A,CEO,S - Sale,$1.43,-1366108,3133382,-30%,"-$1,953,534",-4.0,0.0,-21.0,-30,CTIC
+448,,2009-08-14 19:30:07,2009-08-14,CTIC,Nudelman Phillip M Phd,Dir,S - Sale,$1.57,-164000,701281,-19%,"-$257,480",-1.0,4.0,-13.0,-55,CTIC
+449,,2009-08-13 16:49:04,2009-08-12,CTIC,Love Richard L,Dir,S - Sale,$1.64,-70000,547405,-11%,"-$114,800",1.0,11.0,-9.0,-49,CTIC
+450,,2009-08-11 18:21:36,2009-08-10,CTIC,Bauer John H,Dir,S - Sale,$1.50,-80000,478130,-14%,"-$120,000",10.0,7.0,0.0,-46,CTIC
+451,A,2009-07-31 18:25:38,2009-07-31,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,644897,1374231,+88%,+$0,1.0,5.0,5.0,-25,CTIC
+452,A,2009-07-31 18:25:38,2009-07-31,CTIC,Eramian Daniel G,"EVP, Corporate Communications",F - Tax,$1.48,-235064,1374231,-15%,"-$347,895",1.0,5.0,5.0,-25,CTIC
+453,,2009-07-31 18:05:33,2009-07-31,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,644897,964398,+202%,+$0,1.0,5.0,5.0,-25,CTIC
+454,,2009-07-31 18:05:33,2009-07-31,CTIC,Eramian Daniel G,"EVP, Corporate Communications",F - Tax,$1.48,-235064,964398,-20%,"-$347,895",1.0,5.0,5.0,-25,CTIC
+455,,2009-07-31 17:53:48,2009-07-31,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,875981,1527063,+135%,+$0,1.0,5.0,5.0,-25,CTIC
+456,,2009-07-31 17:53:48,2009-07-31,CTIC,Singer Jack W,"EVP, Chief Medical Officer",F - Tax,$1.48,-319295,1527063,-17%,"-$472,557",1.0,5.0,5.0,-25,CTIC
+457,,2009-07-31 17:42:09,2009-07-31,CTIC,Telling Fred,Dir,A - Grant,$0.00,214966,583068,+58%,+$0,1.0,5.0,5.0,-25,CTIC
+458,,2009-07-31 17:29:37,2009-07-31,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,322449,865281,+59%,+$0,1.0,5.0,5.0,-25,CTIC
+459,,2009-07-31 17:27:34,2009-07-31,CTIC,Philips Craig,Pres,A - Grant,$0.00,1289795,2672399,+93%,+$0,1.0,5.0,5.0,-25,CTIC
+460,,2009-07-31 17:27:34,2009-07-31,CTIC,Philips Craig,Pres,F - Tax,$1.48,-470130,2672399,-15%,"-$695,792",1.0,5.0,5.0,-25,CTIC
+461,,2009-07-31 17:23:01,2009-07-31,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,214966,568171,+61%,+$0,1.0,5.0,5.0,-25,CTIC
+462,,2009-07-31 17:15:14,2009-07-31,CTIC,Love Richard L,Dir,A - Grant,$0.00,214966,617405,+53%,+$0,1.0,5.0,5.0,-25,CTIC
+463,,2009-07-31 17:13:45,2009-07-31,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,875981,1523803,+135%,+$0,1.0,5.0,5.0,-25,CTIC
+464,,2009-07-31 17:13:45,2009-07-31,CTIC,Bianco Louis A,"EVP, Finance, Administration",F - Tax,$1.48,-319295,1523803,-17%,"-$472,557",1.0,5.0,5.0,-25,CTIC
+465,,2009-07-31 17:03:45,2009-07-31,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,214966,583255,+58%,+$0,1.0,5.0,5.0,-25,CTIC
+466,,2009-07-31 16:59:35,2009-07-31,CTIC,Bianco James A,CEO,A - Grant,$0.00,2149658,4499490,+91%,+$0,1.0,5.0,5.0,-25,CTIC
+467,,2009-07-31 16:59:35,2009-07-31,CTIC,Bianco James A,CEO,F - Tax,$1.48,-783550,4499490,-15%,"-$1,159,654",1.0,5.0,5.0,-25,CTIC
+468,,2009-07-31 16:47:53,2009-07-31,CTIC,Bauer John H,Dir,A - Grant,$0.00,214966,558130,+63%,+$0,1.0,5.0,5.0,-25,CTIC
+469,,2009-06-09 13:01:23,2009-06-02,CTIC,Bauer John H,Dir,S - Sale,$1.76,-25000,343164,-7%,"-$44,000",-2.0,-6.0,-23.0,-31,CTIC
+470,,2009-04-02 17:32:48,2009-04-01,CTIC,Bauer John H,Dir,A - Grant,$0.00,321839,368164,+695%,+$0,13.0,4.0,38.0,+246,CTIC
+471,,2009-04-02 17:24:01,2009-04-01,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,321839,368289,+693%,+$0,13.0,4.0,38.0,+246,CTIC
+472,,2009-04-02 17:16:26,2009-04-01,CTIC,Love Richard L,Dir,A - Grant,$0.00,321839,402439,+399%,+$0,13.0,4.0,38.0,+246,CTIC
+473,,2009-04-02 17:06:56,2009-04-01,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,482759,542832,+804%,+$0,13.0,4.0,38.0,+246,CTIC
+474,,2009-04-02 16:58:39,2009-04-01,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,321839,353205,>999%,+$0,13.0,4.0,38.0,+246,CTIC
+475,,2009-04-02 16:46:37,2009-04-01,CTIC,Telling Fred,Dir,A - Grant,$0.00,321839,368102,+696%,+$0,13.0,4.0,38.0,+246,CTIC
+476,,2009-03-27 18:41:23,2009-03-25,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,868967,964398,+911%,+$0,24.0,5.0,11.0,+156,CTIC
+477,,2009-03-27 18:25:16,2009-03-25,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,868967,970377,+857%,+$0,24.0,5.0,11.0,+156,CTIC
+478,,2009-03-27 18:14:15,2009-03-25,CTIC,Philips Craig,Pres,A - Grant,$0.00,1737934,1852734,>999%,+$0,24.0,5.0,11.0,+156,CTIC
+479,,2009-03-27 17:54:44,2009-03-25,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,868967,967117,+885%,+$0,24.0,5.0,11.0,+156,CTIC
+480,,2009-03-27 17:37:57,2009-03-25,CTIC,Bianco James A,CEO,A - Grant,$0.00,2896557,3133382,>999%,+$0,24.0,5.0,11.0,+156,CTIC
+481,,2009-03-11 12:50:07,2008-08-05,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$2.71,-35,28849,0%,-$95,33.0,50.0,500.0,>999,CTIC
+482,A,2009-01-29 20:17:36,2009-01-07,CTIC,Love Richard L,Dir,A - Grant,$0.00,0,80600,0%,+$0,-9.0,-9.0,-27.0,>999,CTIC
+483,,2009-01-09 16:48:36,2009-01-07,CTIC,Love Richard L,Dir,A - Grant,$0.00,4451513,4532113,>999%,+$0,0.0,-8.0,-25.0,>999,CTIC
+484,,2009-01-06 17:20:21,2009-01-05,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$0.13,-1520,101445,-1%,-$192,-8.0,-17.0,-42.0,>999,CTIC
+485,,2008-12-31 14:53:14,2008-12-29,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$0.13,-919,102965,-1%,-$115,0.0,-14.0,-43.0,>999,CTIC
+486,,2008-12-19 17:36:28,2008-12-14,CTIC,Bianco James A,CEO,D - Sale to issuer,$0.00,-3125,236825,-1%,-$0,0.0,0.0,-40.0,+907,CTIC
+487,,2008-10-24 19:16:54,2008-10-22,CTIC,Bianco James A,CEO,A - Grant,$0.00,150000,239950,+167%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+488,,2008-10-24 19:01:18,2008-10-22,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,75000,98150,+324%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+489,,2008-10-24 18:48:31,2008-10-22,CTIC,Philips Craig,Pres,A - Grant,$0.00,75000,114800,+188%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+490,,2008-10-24 18:37:20,2008-10-22,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,75000,103884,+260%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+491,,2008-10-24 18:27:21,2008-10-22,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,75000,95431,+367%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+492,,2008-10-24 18:11:59,2008-10-22,CTIC,Telling Fred,Dir,A - Grant,$0.00,40000,46263,+639%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+493,,2008-10-24 17:59:49,2008-10-22,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,50000,60073,+496%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+494,,2008-10-24 17:50:06,2008-10-22,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,25000,31366,+393%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+495,,2008-10-24 17:38:42,2008-10-22,CTIC,Love Richard L,Dir,A - Grant,$0.00,25000,80600,+45%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+496,,2008-10-24 17:05:05,2008-10-22,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,40000,46450,+620%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+497,,2008-10-24 16:40:40,2008-10-22,CTIC,Bauer John H,Dir,A - Grant,$0.00,40000,46325,+632%,+$0,-10.0,-23.0,-55.0,-3,CTIC
+498,D,2008-06-23 18:48:07,2008-06-19,CTIC,Telling Fred,Dir,A - Grant,$0.00,9000,62625,+17%,+$0,-2.0,0.0,-22.0,-93,CTIC
+499,D,2008-06-23 18:30:29,2008-06-19,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,9000,100726,+10%,+$0,-2.0,0.0,-22.0,-93,CTIC
+500,D,2008-06-23 18:12:53,2008-06-19,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,9000,63663,+16%,+$0,-2.0,0.0,-22.0,-93,CTIC
+501,D,2008-06-23 17:55:34,2008-06-19,CTIC,Love Richard L,Dir,A - Grant,$0.00,9000,555996,+2%,+$0,-2.0,0.0,-22.0,-93,CTIC
+502,D,2008-06-23 17:44:45,2008-06-19,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,9000,64500,+16%,+$0,-2.0,0.0,-22.0,-93,CTIC
+503,D,2008-06-23 17:17:43,2008-06-19,CTIC,Bauer John H,Dir,A - Grant,$0.00,9000,63250,+17%,+$0,-2.0,0.0,-22.0,-93,CTIC
+504,,2008-04-08 17:30:51,2008-04-04,CTIC,Stromatt Scott,"EVP,Clinical Dev, Reg Affair",D - Sale to issuer,$0.00,-130402,65786,-66%,-$0,4.0,-4.0,-12.0,-90,CTIC
+505,A,2008-04-04 17:53:57,2008-03-18,CTIC,Bianco James A,"Pres, CEO",P - Purchase,$0.58,35600,796377,+5%,"+$20,648",1.0,-1.0,-10.0,-88,CTIC
+506,,2008-03-20 17:09:01,2008-03-18,CTIC,Nudelman Phillip M Phd,Dir,P - Purchase,$0.57,25000,91726,+37%,"+$14,250",6.0,22.0,41.0,-105,CTIC
+507,M,2008-03-19 17:27:29,2008-03-18,CTIC,Bianco James A,"Pres, CEO",P - Purchase,$0.55,177900,913891,+24%,"+$97,016",28.0,36.0,58.0,-67,CTIC
+508,D,2007-12-31 20:13:02,2007-12-27,CTIC,Stromatt Scott,"EMP Clinical Dev, Reg Affair",A - Grant,$0.00,120000,196188,+158%,+$0,2.0,-7.0,-25.0,-75,CTIC
+509,D,2007-12-31 20:02:29,2007-12-27,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,120000,288841,+71%,+$0,2.0,-7.0,-25.0,-75,CTIC
+510,D,2007-12-31 19:50:26,2007-12-27,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,120000,204313,+142%,+$0,2.0,-7.0,-25.0,-75,CTIC
+511,D,2007-12-31 19:33:43,2007-12-27,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,120000,231493,+108%,+$0,2.0,-7.0,-25.0,-75,CTIC
+512,D,2007-12-31 19:18:32,2007-12-27,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,360000,735991,+96%,+$0,2.0,-7.0,-25.0,-75,CTIC
+513,,2007-12-31 17:48:49,2007-12-27,CTIC,Telling Fred,Dir,A - Grant,$0.00,50000,53625,>999%,+$0,2.0,-7.0,-25.0,-75,CTIC
+514,,2007-12-31 17:33:18,2007-12-27,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,50000,66726,+299%,+$0,2.0,-7.0,-25.0,-75,CTIC
+515,,2007-12-31 17:25:15,2007-12-27,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,50000,54663,>999%,+$0,2.0,-7.0,-25.0,-75,CTIC
+516,,2007-12-31 17:16:18,2007-12-27,CTIC,Love Richard L,Dir,A - Grant,$0.00,50000,546996,+10%,+$0,2.0,-7.0,-25.0,-75,CTIC
+517,,2007-12-31 17:03:30,2007-12-27,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,50000,55500,+909%,+$0,2.0,-7.0,-25.0,-75,CTIC
+518,,2007-12-31 16:48:26,2007-12-27,CTIC,Bauer John H,Dir,A - Grant,$0.00,50000,54250,>999%,+$0,2.0,-7.0,-25.0,-75,CTIC
+519,,2007-12-17 19:11:37,2007-12-14,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.99,-750,111493,-1%,"-$1,493",10.0,-6.0,-24.0,-72,CTIC
+520,D,2007-09-27 20:32:26,2007-09-25,CTIC,Telling Fred,Dir,A - Grant,$0.00,3000,3625,+480%,+$0,-2.0,-1.0,-2.0,-83,CTIC
+521,D,2007-09-27 20:03:08,2007-09-25,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,3000,16726,+22%,+$0,-2.0,-1.0,-2.0,-83,CTIC
+522,D,2007-09-27 19:43:32,2007-09-25,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,3000,4663,+180%,+$0,-2.0,-1.0,-2.0,-83,CTIC
+523,D,2007-09-27 19:26:46,2007-09-25,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,3000,5500,+120%,+$0,-2.0,-1.0,-2.0,-83,CTIC
+524,D,2007-09-27 18:47:32,2007-09-25,CTIC,Bauer John H,Dir,A - Grant,$0.00,3000,4250,+240%,+$0,-2.0,-1.0,-2.0,-83,CTIC
+525,D,2007-09-27 18:03:18,2007-09-25,CTIC,Love Richard L,Dir,A - Grant,$0.00,3000,496996,+1%,+$0,-2.0,-1.0,-2.0,-83,CTIC
+526,,2007-09-26 20:24:40,2007-09-25,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,70563,84313,+513%,+$0,1.0,-1.0,-2.0,-80,CTIC
+527,,2007-09-26 20:11:56,2007-09-25,CTIC,Stromatt Scott,"EVP, Clinical Dev, Reg Affair",A - Grant,$0.00,70563,76188,>999%,+$0,1.0,-1.0,-2.0,-80,CTIC
+528,,2007-09-26 20:00:34,2007-09-25,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,84675,168841,+101%,+$0,1.0,-1.0,-2.0,-80,CTIC
+529,,2007-09-26 19:35:57,2007-09-25,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,84675,112243,+307%,+$0,1.0,-1.0,-2.0,-80,CTIC
+530,,2007-09-26 19:20:41,2007-09-25,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,282257,375991,+301%,+$0,1.0,-1.0,-2.0,-80,CTIC
+531,D,2007-09-21 18:32:10,2007-09-21,CTIC,Love Richard L,Dir,A - Grant,$0.00,3000,493996,+1%,+$0,2.0,0.0,-5.0,-83,CTIC
+532,,2007-09-04 19:29:47,2007-08-31,CTIC,Stromatt Scott,"EVP, Clinical Dev, Reg Affair",S - Sale,$3.87,-625,5625,-10%,"-$2,419",-3.0,-5.0,-4.0,-81,CTIC
+533,,2007-06-15 17:26:01,2007-06-14,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$3.47,-700,84166,-1%,"-$2,427",-3.0,-18.0,31.0,-30,CTIC
+534,,2007-06-15 17:14:29,2007-06-14,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$3.48,-750,27568,-3%,"-$2,610",-3.0,-18.0,31.0,-30,CTIC
+535,D,2007-04-20 16:49:30,2007-04-18,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,625,13726,+5%,+$0,1.0,1.0,-6.0,-31,CTIC
+536,D,2007-04-11 19:44:10,2007-04-09,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,2500,6650,+60%,+$0,-19.0,-23.0,-29.0,-55,CTIC
+537,,2007-03-28 19:43:46,2007-03-26,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.58,-30000,113273,-21%,"-$47,520",-1.0,1.0,-14.0,-43,CTIC
+538,M,2007-03-28 19:20:50,2007-03-26,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.60,-75740,374936,-17%,"-$121,184",-1.0,1.0,-14.0,-43,CTIC
+539,D,2007-03-26 21:25:30,2007-01-01,CTIC,Bianco Louis A,"EVP, Finance, Administration",D - Sale to issuer,$0.00,-100000,143273,-41%,-$0,-2.0,-1.0,-13.0,-41,CTIC
+540,D,2007-03-26 20:41:53,2007-01-01,CTIC,Singer Jack W,"EVP, Chief Medical Officer",D - Sale to issuer,$0.00,-100000,339465,-23%,-$0,-2.0,-1.0,-13.0,-41,CTIC
+541,D,2007-03-26 20:25:02,2007-01-01,CTIC,Bianco James A,"Pres, CEO",D - Sale to issuer,$0.00,-200000,450676,-31%,-$0,-2.0,-1.0,-13.0,-41,CTIC
+542,D,2007-03-26 20:25:02,2007-01-02,CTIC,Bianco James A,"Pres, CEO",G - Gift,$0.00,-6667,450676,-1%,-$0,-2.0,-1.0,-13.0,-41,CTIC
+543,,2006-12-22 18:55:50,2006-12-22,CTIC,Stromatt Scott,"EVP, Clinical Dev, Reg Affair",S - Sale,$1.81,-20000,25000,-44%,"-$36,200",2.0,1.0,-1.0,-52,CTIC
+544,M,2006-12-15 18:39:48,2006-12-13,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$1.89,-16025,439465,-4%,"-$30,209",3.0,2.0,-4.0,-51,CTIC
+545,,2006-12-15 18:25:08,2006-12-13,CTIC,Stromatt Scott,"EVP, Clinical Dev, Reg Affair",S - Sale,$1.89,-7500,45000,-14%,"-$14,181",3.0,2.0,-4.0,-51,CTIC
+546,,2006-12-15 18:01:43,2006-12-14,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.80,-37893,705676,-5%,"-$68,170",3.0,2.0,-4.0,-51,CTIC
+547,M,2006-12-15 17:45:42,2006-12-13,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.88,-20499,243273,-8%,"-$38,518",3.0,2.0,-4.0,-51,CTIC
+548,,2006-12-12 19:41:33,2006-12-11,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$1.92,-8667,263772,-3%,"-$16,641",2.0,-2.0,-4.0,-52,CTIC
+549,,2006-12-12 19:20:52,2006-12-11,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$1.92,-1600,455490,0%,"-$3,072",2.0,-2.0,-4.0,-52,CTIC
+550,D,2006-12-12 19:05:02,2006-12-10,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,2500,10000,+33%,+$0,2.0,-2.0,-4.0,-52,CTIC
+551,D,2006-12-05 19:29:45,2006-12-01,CTIC,Telling Fred,Dir,A - Grant,$0.00,2500,2500,New,+$0,-3.0,-2.0,-11.0,-53,CTIC
+552,,2006-10-30 19:31:08,2006-10-26,CTIC,Brown Jade,"EVP, Chief Business Officer",D - Sale to issuer,$0.00,-57329,10667,-84%,-$0,2.0,2.0,18.0,-14,CTIC
+553,D,2006-10-19 17:26:19,2006-10-17,CTIC,Bauer John H,Dir,A - Grant,$0.00,2500,5000,+100%,+$0,1.0,-1.0,-5.0,-15,CTIC
+554,,2006-10-02 19:35:05,2006-09-29,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.72,-37500,743569,-5%,"-$64,325",-4.0,-3.0,-2.0,-2,CTIC
+555,,2006-09-20 19:10:05,2006-09-18,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.14,-37500,781069,-5%,"-$80,348",5.0,5.0,1.0,-2,CTIC
+556,,2006-09-01 17:47:40,2006-08-30,CTIC,Stromatt Scott,"EVP, Clinical Dev, Reg Affair",S - Sale,$1.54,-2500,52500,-5%,"-$3,850",2.0,7.0,9.0,-3,CTIC
+557,D,2006-06-26 20:21:21,2006-06-23,CTIC,Brown Jade,"EVP, Chief Business Officer",S - Sale+OE,$1.41,-9500,67996,-12%,"-$13,406",-4.0,1.0,-9.0,+28,CTIC
+558,D,2006-06-26 18:52:44,2006-06-23,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,15000,55000,+38%,+$0,-4.0,1.0,-9.0,+28,CTIC
+559,,2006-06-22 19:29:25,2006-06-21,CTIC,Brown Jade,"EVP, Chief Business Officer",S - Sale,$1.45,-12500,77496,-14%,"-$18,136",-3.0,-3.0,-15.0,+32,CTIC
+560,,2006-06-22 18:38:25,2006-06-20,CTIC,Stromatt Scott,"EVP, Clinical Dev, Reg Affair",S - Sale,$1.40,-20000,55000,-27%,"-$27,900",-3.0,-3.0,-15.0,+32,CTIC
+561,,2006-05-09 19:36:51,2006-05-08,CTIC,Bianco James A,"Pres, CEO",S - Sale,$1.77,-65000,818569,-7%,"-$115,180",-2.0,-11.0,-17.0,-8,CTIC
+562,D,2006-04-19 19:38:53,2006-04-18,CTIC,Nudelman Phillip M Phd,Dir,A - Grant,$0.00,2500,52405,+5%,+$0,-1.0,-1.0,-11.0,-12,CTIC
+563,D,2006-04-11 17:57:47,2006-04-09,CTIC,Mundinger Mary Oneil,Dir,A - Grant,$0.00,2500,4150,+152%,+$0,4.0,5.0,3.0,-6,CTIC
+564,D,2006-04-04 19:55:04,2006-03-31,CTIC,Eramian Daniel G,"EVP, Corporate Communications",A - Grant,$0.00,40000,40000,New,+$0,-2.0,0.0,-7.0,-16,CTIC
+565,,2006-04-03 14:58:37,2006-03-31,CTIC,Brown Jade,"EVP, Chief Business Officer",S - Sale,$1.96,-1500,89996,-2%,"-$2,940",4.0,-6.0,-5.0,-10,CTIC
+566,,2006-01-05 19:10:39,2006-01-03,CTIC,Bianco Louis A,"EVP,Finance, Administration",S - Sale,$2.25,-4000,272439,-1%,"-$9,000",2.0,0.0,-18.0,-38,CTIC
+567,,2006-01-05 18:59:57,2006-01-03,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.24,-14635,883569,-2%,"-$32,801",2.0,0.0,-18.0,-38,CTIC
+568,M,2005-12-30 18:30:37,2005-12-28,CTIC,Brown Jade,"EVP, Chief Business Officer",S - Sale,$2.18,-18667,91496,-17%,"-$40,762",4.0,6.0,-7.0,-34,CTIC
+569,,2005-12-21 18:50:07,2005-12-20,CTIC,Stromatt Scott,"EVP, Clinical Dev, Reg Affairs",S - Sale,$2.24,-20000,75000,-21%,"-$44,700",1.0,-2.0,-7.0,-36,CTIC
+570,D,2005-12-16 20:42:33,2005-12-14,CTIC,Stromatt Scott,"EVP, Clinical Dev, Reg Affairs",A - Grant,$0.00,30000,95000,+46%,+$0,-5.0,-4.0,-8.0,-41,CTIC
+571,D,2005-12-16 20:18:41,2005-12-14,CTIC,Brown Jade,"EVP, Chief Business Officer",A - Grant,$0.00,50000,110163,+83%,+$0,-5.0,-4.0,-8.0,-41,CTIC
+572,D,2005-12-16 19:44:02,2005-12-14,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,30000,456290,+7%,+$0,-5.0,-4.0,-8.0,-41,CTIC
+573,D,2005-12-16 19:24:27,2005-12-14,CTIC,Bianco Louis A,"EVP,Finance, Administration",A - Grant,$0.00,30000,276439,+12%,+$0,-5.0,-4.0,-8.0,-41,CTIC
+574,D,2005-12-16 19:08:06,2005-12-14,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,250000,898204,+39%,+$0,-5.0,-4.0,-8.0,-41,CTIC
+575,D,2005-12-13 20:03:45,2005-12-10,CTIC,Gregorian Vartan,Dir,A - Grant,$0.00,2500,7500,+50%,+$0,-2.0,-7.0,-5.0,-43,CTIC
+576,,2005-12-13 19:47:43,2005-12-12,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$2.39,-7583,426290,-2%,"-$18,123",-2.0,-7.0,-5.0,-43,CTIC
+577,,2005-12-13 19:38:09,2005-12-09,CTIC,Bianco Louis A,"EVP,Finance, Administration",S - Sale,$2.39,-6667,246439,-3%,"-$15,934",-2.0,-7.0,-5.0,-43,CTIC
+578,,2005-12-13 19:26:28,2005-12-12,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.39,-25000,648204,-4%,"-$59,750",-2.0,-7.0,-5.0,-43,CTIC
+579,,2005-10-27 20:28:48,2005-10-18,CTIC,Singer Jack W,"EVP, Chief Medical Officer",G - Gift,$0.00,-7843,433873,-2%,-$0,-1.0,2.0,-6.0,-22,CTIC
+580,D,2005-10-27 20:06:53,2005-10-17,CTIC,Bauer John H,Dir,A - Grant,$0.00,2500,2500,New,+$0,-1.0,2.0,-6.0,-22,CTIC
+581,,2005-10-04 18:33:31,2005-09-30,CTIC,Link Max,Dir,D - Sale to issuer,$0.00,-2500,73572,-3%,-$0,-2.0,1.0,-4.0,-24,CTIC
+582,,2005-09-15 17:06:30,2005-09-15,CTIC,Leigh Richard Jr,"EVP, GC",D - Sale to issuer,$0.00,-100000,13300,-88%,-$0,-1.0,-7.0,17.0,-16,CTIC
+583,,2005-08-31 17:39:22,2005-08-29,CTIC,Stromatt Scott,"EVP, Clinical Dev, Reg Affair",S - Sale,$2.51,-27500,65000,-30%,"-$68,915",1.0,-6.0,15.0,-25,CTIC
+584,D,2005-07-12 21:25:55,2005-07-10,CTIC,Link Max,Dir,A - Grant,$0.00,2500,76072,+3%,+$0,1.0,0.0,-2.0,-19,CTIC
+585,,2005-07-06 19:20:40,2005-07-01,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$2.70,-3200,441716,-1%,"-$8,640",-3.0,-1.0,1.0,-21,CTIC
+586,,2005-07-06 19:11:42,2005-07-01,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$2.70,-4000,253106,-2%,"-$10,800",-3.0,-1.0,1.0,-21,CTIC
+587,,2005-07-06 18:08:31,2005-07-01,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.70,-9625,673204,-1%,"-$25,988",-3.0,-1.0,1.0,-21,CTIC
+588,,2005-07-05 20:30:14,2005-06-30,CTIC,Aselage Steve,"EVP, Global Commercial Ops",D - Sale to issuer,$0.00,-106667,24133,-82%,-$0,4.0,1.0,6.0,-20,CTIC
+589,,2005-06-02 19:13:54,2005-05-31,CTIC,Bianco James A,"Pres, CEO",S - Sale,$2.95,-18000,682829,-3%,"-$53,100",0.0,-5.0,-1.0,-20,CTIC
+590,,2005-04-08 20:01:28,2005-04-05,CTIC,Bianco James A,"Pres, CEO",S - Sale,$3.69,-30000,700829,-4%,"-$110,600",7.0,4.0,-5.0,-28,CTIC
+591,,2005-04-05 20:59:26,2005-04-01,CTIC,Canfield James,Chief Administrative Officer,D - Sale to issuer,$0.00,-116667,39499,-75%,-$0,4.0,5.0,-7.0,-24,CTIC
+592,,2005-03-16 18:19:23,2005-03-14,CTIC,Fluke John M Jr,Dir,P - Purchase,$4.00,5000,10000,+100%,"+$20,000",4.0,1.0,-11.0,-46,CTIC
+593,,2005-03-14 19:08:42,2005-03-10,CTIC,Link Max,Dir,P - Purchase,$5.20,5000,73572,+7%,"+$26,000",3.0,6.0,-3.0,-41,CTIC
+594,D,2005-03-03 20:38:33,2005-03-01,CTIC,Singer Jack W,"EVP, Chief Medical Officer",M - OptEx,$2.91,7500,444178,+2%,"+$21,795",-1.0,-47.0,-62.0,-72,CTIC
+595,D,2005-03-03 20:38:33,2005-03-01,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale+OE,$9.98,-7500,444178,-2%,"-$74,875",-1.0,-47.0,-62.0,-72,CTIC
+596,D,2005-02-03 19:52:06,2005-02-01,CTIC,Singer Jack W,"EVP, Chief Medical Officer",M - OptEx,$2.91,7500,444178,+2%,"+$21,795",7.0,1.0,6.0,-66,CTIC
+597,D,2005-02-03 19:52:06,2005-02-01,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale+OE,$9.98,-7500,444178,-2%,"-$74,850",7.0,1.0,6.0,-66,CTIC
+598,,2005-02-01 19:50:38,2005-01-28,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,100000,444178,+29%,+$0,-1.0,0.0,6.0,-74,CTIC
+599,,2005-02-01 19:28:31,2005-01-28,CTIC,Aselage Steve,EVP Global Comm Operations,A - Grant,$0.00,100000,130800,+325%,+$0,-1.0,0.0,6.0,-74,CTIC
+600,,2005-02-01 19:09:53,2005-01-28,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,100000,257954,+63%,+$0,-1.0,0.0,6.0,-74,CTIC
+601,,2005-02-01 18:52:45,2005-01-28,CTIC,Canfield James,Chief Administrative Officer,A - Grant,$0.00,100000,156166,+178%,+$0,-1.0,0.0,6.0,-74,CTIC
+602,,2005-02-01 18:40:55,2005-01-28,CTIC,Leigh Richard Jr,"Exec. VP, GC",A - Grant,$0.00,100000,113300,+752%,+$0,-1.0,0.0,6.0,-74,CTIC
+603,,2005-01-11 20:50:37,2005-01-10,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,200000,730829,+38%,+$0,1.0,5.0,22.0,-61,CTIC
+604,,2005-01-05 20:29:00,2005-01-04,CTIC,Spinelli Silvano,"EVP, Development",S - Sale,$7.80,-40000,456760,-8%,"-$311,941",1.0,0.0,22.0,-66,CTIC
+605,,2005-01-05 19:57:36,2004-12-30,CTIC,Bianco James A,"Pres, CEO",G - Gift,$0.00,-35000,530829,-6%,-$0,1.0,0.0,22.0,-66,CTIC
+606,,2005-01-05 19:57:36,2005-01-03,CTIC,Bianco James A,"Pres, CEO",S - Sale,$8.06,-9625,530829,-2%,"-$77,578",1.0,0.0,22.0,-66,CTIC
+607,,2005-01-05 19:33:36,2005-01-03,CTIC,Canfield James,Chief Administrative Officer,S - Sale,$8.02,-1000,56166,-2%,"-$8,023",1.0,0.0,22.0,-66,CTIC
+608,,2005-01-05 19:08:57,2005-01-03,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$8.14,-4000,157954,-2%,"-$32,569",1.0,0.0,22.0,-66,CTIC
+609,,2005-01-05 18:01:13,2005-01-03,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$8.06,-3200,343676,-1%,"-$25,780",1.0,0.0,22.0,-66,CTIC
+610,D,2005-01-03 19:49:17,2004-12-30,CTIC,Link Max,Dir,M - OptEx,$6.63,15000,68572,+28%,"+$99,450",-3.0,11.0,26.0,-63,CTIC
+611,D,2004-12-22 18:42:57,2004-12-20,CTIC,Aselage Steve,EVP Global Comm Operations,A - Grant,$0.00,10000,30000,+50%,+$0,-1.0,-1.0,9.0,-69,CTIC
+612,D,2004-12-22 18:11:29,2004-12-20,CTIC,Leigh Richard Jr,"EVP, GC",A - Grant,$0.00,3300,13300,+33%,+$0,-1.0,-1.0,9.0,-69,CTIC
+613,,2004-12-14 17:58:49,2004-12-13,CTIC,Canfield James,Chief Administrative Officer,S - Sale,$7.55,-3334,57166,-6%,"-$25,172",-3.0,4.0,-4.0,-70,CTIC
+614,,2004-12-14 15:06:20,2004-12-13,CTIC,Singer Jack W,"EVP, Chief Medical Officer",S - Sale,$7.55,-1600,346876,0%,"-$12,080",3.0,7.0,-1.0,-67,CTIC
+615,,2004-12-14 14:48:50,2004-12-13,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$7.55,-6667,161954,-4%,"-$50,336",3.0,7.0,-1.0,-67,CTIC
+616,,2004-12-14 14:04:12,2004-12-10,CTIC,Bianco James A,"Pres, CEO",S - Sale,$7.56,-20000,575454,-3%,"-$151,173",3.0,7.0,-1.0,-67,CTIC
+617,D,2004-10-01 19:38:23,2004-09-29,CTIC,Leigh Richard Jr,"Exec. VP, GC",A - Grant,$0.00,10000,10000,New,+$0,1.0,-9.0,-10.0,-48,CTIC
+618,D,2004-08-27 14:41:05,2004-08-25,CTIC,Nudelman Phillip M Phd,Dir,M - OptEx,$2.91,21905,49905,+78%,"+$63,656",4.0,4.0,17.0,+73,CTIC
+619,,2004-08-03 17:31:50,2004-08-03,CTIC,Aselage Steve,EVP Global Commercial Ops,P - Purchase,$5.25,4000,20000,+25%,"+$21,000",1.0,-12.0,9.0,+83,CTIC
+620,,2004-07-01 16:19:04,2004-07-01,CTIC,Bianco Louis A,"EVP, Finance, Administration",S - Sale,$7.25,-4000,168621,-2%,"-$29,001",1.0,-7.0,-23.0,+15,CTIC
+621,,2004-07-01 16:04:11,2004-07-01,CTIC,Bianco James A,"Pres, CEO",S - Sale,$7.25,-10000,595454,-2%,"-$72,500",1.0,-7.0,-23.0,+15,CTIC
+622,,2004-07-01 15:46:34,2004-07-01,CTIC,Canfield James,Chief Administrative Officer,S - Sale,$7.26,-1000,60500,-2%,"-$7,260",-3.0,-10.0,-26.0,+12,CTIC
+623,,2004-05-21 20:42:00,2004-05-21,CTIC,Canfield James,"EVP, Chief Admin. Officer",A - Grant,$0.00,25000,61500,+68%,+$0,-1.0,3.0,8.0,+10,CTIC
+624,,2004-05-21 20:26:53,2004-05-21,CTIC,Singer Jack W,"EVP, Chief Medical Officer",A - Grant,$0.00,15000,348476,+4%,+$0,-1.0,3.0,8.0,+10,CTIC
+625,,2004-05-21 20:11:34,2004-05-21,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,15000,172621,+10%,+$0,-1.0,3.0,8.0,+10,CTIC
+626,,2004-05-21 19:48:38,2004-05-21,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,20000,605454,+3%,+$0,-1.0,3.0,8.0,+10,CTIC
+627,D,2004-05-21 19:09:28,2004-05-21,CTIC,Aselage Steve,"EVP, Global Commercial Ops",A - Grant,$0.00,10000,16000,+167%,+$0,-1.0,3.0,8.0,+10,CTIC
+628,,2004-02-20 16:03:26,2004-02-18,CTIC,Aselage Steve,"EVP, Global Commercial Ops",P - Purchase,$9.00,6000,6000,New,"+$54,000",-3.0,1.0,-5.0,-40,CTIC
+629,A,2004-01-09 19:37:03,2004-01-02,CTIC,Spinelli Silvano,"EVP, Development",S - Sale,$9.52,-20000,536760,-4%,"-$190,400",1.0,-1.0,-4.0,-31,CTIC
+630,,2004-01-07 20:12:17,2004-01-05,CTIC,Spinelli Silvano,"EVP, Development",S - Sale,$10.19,-40000,496760,-7%,"-$407,500",0.0,-3.0,-7.0,-33,CTIC
+631,D,2004-01-07 19:51:59,2004-01-05,CTIC,Singer Jack W,"EVP, Research Program COB",M - OptEx,$2.91,5000,333476,+2%,"+$14,530",0.0,-3.0,-7.0,-33,CTIC
+632,D,2004-01-07 19:51:59,2004-01-05,CTIC,Singer Jack W,"EVP, Research Program COB",S - Sale+OE,$10.00,-5000,333476,-1%,"-$50,000",0.0,-3.0,-7.0,-33,CTIC
+633,,2004-01-06 19:29:59,2004-01-02,CTIC,Spinelli Silvano,"EVP, Development",S - Sale,$9.57,-20000,536760,-4%,"-$191,400",2.0,1.0,-4.0,-27,CTIC
+634,,2004-01-05 19:25:00,2004-01-01,CTIC,Canfield James,Chief Administrative Officer,A - Grant,$0.00,10000,36500,+38%,+$0,-2.0,-1.0,-1.0,-31,CTIC
+635,,2004-01-05 19:13:24,2004-01-01,CTIC,Singer Jack W,"EVP, Research Program COB",A - Grant,$0.00,40000,333476,+14%,+$0,-2.0,-1.0,-1.0,-31,CTIC
+636,,2004-01-05 19:03:13,2004-01-01,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,110000,585454,+23%,+$0,-2.0,-1.0,-1.0,-31,CTIC
+637,,2004-01-05 18:27:04,2004-01-01,CTIC,Kenney Edward F,"EVP, COO",A - Grant,$0.00,10000,25374,+65%,+$0,-2.0,-1.0,-1.0,-31,CTIC
+638,,2004-01-05 18:14:31,2004-01-01,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,40000,157621,+34%,+$0,-2.0,-1.0,-1.0,-31,CTIC
+639,D,2003-12-15 20:13:09,2003-12-11,CTIC,Bianco James A,"Pres, CEO",A - Grant,$0.00,145000,475454,+44%,+$0,2.0,7.0,25.0,-2,CTIC
+640,D,2003-12-15 19:34:36,2003-12-11,CTIC,Singer Jack W,"EVP, Research Program COB",A - Grant,$0.00,50000,293271,+21%,+$0,2.0,7.0,25.0,-2,CTIC
+641,D,2003-12-15 18:43:34,2003-12-11,CTIC,Canfield James,Chief Administrative Officer,A - Grant,$0.00,25000,26500,>999%,+$0,2.0,7.0,25.0,-2,CTIC
+642,D,2003-12-15 18:19:20,2003-12-11,CTIC,Bianco Louis A,"EVP, Finance, Administration",A - Grant,$0.00,50000,117621,+74%,+$0,2.0,7.0,25.0,-2,CTIC
+643,D,2003-09-26 16:38:50,2003-09-25,CTIC,Link Max,Dir,M - OptEx,$11.81,15000,53572,+39%,"+$177,150",1.0,6.0,-14.0,-27,CTIC
+644,,2003-08-01 06:07:00,2003-07-30,CTIC,Bianco James A,"Pres, CEO",M - OptEx,$2.95,67528,330454,+26%,"+$199,030",0.0,-11.0,1.0,-10,CTIC
+645,M,2003-08-01 06:07:00,2003-07-30,CTIC,Bianco James A,"Pres, CEO",S - Sale,$11.28,-67528,330454,-17%,"-$761,888",0.0,-11.0,1.0,-10,CTIC
+646,A,2003-08-01 06:01:02,2003-07-29,CTIC,Bianco James A,"Pres, CEO",M - OptEx,$2.91,172440,330454,+109%,"+$501,111",0.0,-11.0,1.0,-10,CTIC
+647,A,2003-08-01 06:01:02,2003-07-29,CTIC,Bianco James A,"Pres, CEO",S - Sale,$11.16,-152630,330454,-32%,"-$1,703,479",0.0,-11.0,1.0,-10,CTIC
+648,D,2003-07-31 21:54:38,2003-07-29,CTIC,Bianco James A,"Pres, CEO",M - OptEx,$2.91,172440,330454,+109%,"+$501,111",0.0,-12.0,-1.0,-7,CTIC
+649,D,2003-07-31 21:54:38,2003-07-29,CTIC,Bianco James A,"Pres, CEO",S - Sale+OE,$11.16,-152630,330454,-32%,"-$1,703,479",0.0,-12.0,-1.0,-7,CTIC

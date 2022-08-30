@@ -1,19 +1,244 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,DM,2022-03-02 16:53:45,2022-03-01,BLBD,Yousif Paul,"GC, Treasurer",S - Sale+OE,$20.90,-5245,30420,-15%,"-$109,596",,,,,BLBD
-1,,2021-08-19 13:34:58,2021-08-19,BLBD,Horlock Phil,CEO,P - Purchase,$20.26,5000,432475,+1%,"+$101,300",,,,,BLBD
-2,DM,2021-06-16 16:38:07,2021-06-14,BLBD,Horlock Phil,"Pres, CEO",S - Sale+OE,$26.39,-11140,427475,-3%,"-$293,955",,,,,BLBD
-3,D,2021-06-04 18:41:27,2021-06-03,BLBD,Horlock Phil,"Pres, CEO",S - Sale+OE,$26.45,-4119,422959,-1%,"-$108,948",,,,,BLBD
-4,D,2021-05-19 16:56:30,2021-05-17,BLBD,Horlock Phil,"Pres, CEO",S - Sale+OE,$27.33,-14125,421282,-3%,"-$386,036",,,,,BLBD
-5,,2021-05-18 18:00:30,2021-05-17,BLBD,Yousif Paul,"GC, Treasurer",S - Sale,$27.40,-2500,16040,-13%,"-$68,500",,,,,BLBD
-6,AD,2021-04-05 16:23:43,2021-03-19,BLBD,Horlock Phil,"Pres, CEO",S - Sale+OE,$26.99,-8628,415188,-2%,"-$232,830",,,,,BLBD
-7,D,2021-03-19 16:22:16,2021-03-19,BLBD,Horlock Phil,"Pres, CEO",S - Sale+OE,$26.99,-8628,431430,-2%,"-$232,830",,,,,BLBD
-8,,2021-03-10 10:32:51,2021-03-09,BLBD,Asp Bb Holdings LLC,10%,S - Sale,$25.90,-1500000,9530150,-14%,"-$38,850,000",,,,,BLBD
-9,D,2021-03-09 17:04:45,2021-03-08,BLBD,Yousif Paul,"GC, Treasurer",S - Sale+OE,$27.03,-4053,18540,-18%,"-$109,553",,,,,BLBD
-10,,2020-06-19 08:29:49,2020-06-18,BLBD,Yousif Paul,"GC, Treasurer",S - Sale,$14.66,-10000,15583,-39%,"-$146,600",,,,,BLBD
-11,,2020-06-10 14:14:45,2020-06-08,BLBD,Terry Mark Ashburn,Chief Commercial Officer,S - Sale,$16.08,-15000,38055,-28%,"-$241,200",,,,,BLBD
-12,M,2020-03-10 16:26:37,2020-03-06,BLBD,Horlock Phil,"Pres, CEO",S - Sale,$16.67,-24150,415166,-5%,"-$402,699",,,,,BLBD
-13,,2018-10-22 16:10:47,2018-10-18,BLBD,Asp Bb Holdings LLC,10%,S - Sale,$28.00,-969850,11030150,-8%,"-$27,155,800",,,,,BLBD
-14,,2018-09-05 19:26:55,2018-09-04,BLBD,Hennessy Daniel J,Dir,S - Sale,$22.84,-27887,5053,-85%,"-$636,939",,,,,BLBD
-15,A,2018-09-05 19:13:16,2018-08-30,BLBD,Hennessy Daniel J,Dir,S - Sale,$22.91,-8031,50160,-14%,"-$183,990",,,,,BLBD
-16,,2018-09-04 12:18:45,2018-08-31,BLBD,Hennessy Daniel J,Dir,S - Sale,$22.87,-17220,32958,-34%,"-$393,821",,,,,BLBD
-17,,2018-08-31 13:32:34,2018-08-30,BLBD,Hennessy Daniel J,Dir,S - Sale,$22.91,-8013,50178,-14%,"-$183,578",,,,,BLBD
+0,DM,2022-03-02 16:53:45,2022-03-01,BLBD,Yousif Paul,"GC, Treasurer",M - OptEx,$18.91,5663,30420,+23%,"+$107,071",,,,,BLBD
+1,DM,2022-03-02 16:53:45,2022-03-01,BLBD,Yousif Paul,"GC, Treasurer",S - Sale+OE,$20.90,-5245,30420,-15%,"-$109,596",,,,,BLBD
+2,D,2021-12-14 15:05:25,2021-12-11,BLBD,Radulescu Razvan,CFO,A - Grant,$20.00,46406,46406,New,"+$928,120",,,,,BLBD
+3,,2021-12-14 15:03:55,2021-12-11,BLBD,Stevenson Matthew,"Pres, CEO",A - Grant,$20.00,60000,220000,+38%,"+$1,200,000",,,,,BLBD
+4,D,2021-12-14 14:18:15,2021-12-11,BLBD,Yousif Paul,"GC, Treasurer",A - Grant,$20.00,16738,30002,+126%,"+$334,760",,,,,BLBD
+5,D,2021-12-14 14:18:15,2021-12-11,BLBD,Yousif Paul,"GC, Treasurer",D - Sale to issuer,$17.48,-2276,30002,-7%,"-$39,790",,,,,BLBD
+6,D,2021-12-14 14:18:15,2021-12-11,BLBD,Yousif Paul,"GC, Treasurer",F - Tax,$17.94,-500,30002,-2%,"-$8,969",,,,,BLBD
+7,D,2021-11-02 17:37:17,2021-10-31,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,A - Grant,$19.61,15262,61050,+33%,"+$299,288",,,,,BLBD
+8,D,2021-11-02 17:37:17,2021-10-31,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,F - Tax,$19.61,-12534,61050,-17%,"-$245,792",,,,,BLBD
+9,D,2021-11-02 17:34:54,2021-10-31,BLBD,Horlock Phil,CEO,A - Grant,$19.61,59869,422238,+17%,"+$1,174,031",,,,,BLBD
+10,D,2021-11-02 17:34:54,2021-10-31,BLBD,Horlock Phil,CEO,F - Tax,$19.61,-60106,422238,-12%,"-$1,178,679",,,,,BLBD
+11,,2021-08-19 13:34:58,2021-08-19,BLBD,Horlock Phil,CEO,P - Purchase,$20.26,5000,432475,+1%,"+$101,300",,,,,BLBD
+12,,2021-07-01 09:13:43,2021-07-01,BLBD,Stevenson Matthew,Pres,A - Grant,$0.00,160000,160000,New,+$0,,,,,BLBD
+13,DM,2021-06-16 16:38:07,2021-06-14,BLBD,Horlock Phil,"Pres, CEO",M - OptEx,$15.50,15656,427475,+4%,"+$242,668",,,,,BLBD
+14,DM,2021-06-16 16:38:07,2021-06-14,BLBD,Horlock Phil,"Pres, CEO",S - Sale+OE,$26.39,-11140,427475,-3%,"-$293,955",,,,,BLBD
+15,D,2021-06-04 18:41:27,2021-06-03,BLBD,Horlock Phil,"Pres, CEO",M - OptEx,$15.50,5796,422959,+1%,"+$89,838",,,,,BLBD
+16,D,2021-06-04 18:41:27,2021-06-03,BLBD,Horlock Phil,"Pres, CEO",S - Sale+OE,$26.45,-4119,422959,-1%,"-$108,948",,,,,BLBD
+17,D,2021-05-19 16:56:30,2021-05-17,BLBD,Horlock Phil,"Pres, CEO",M - OptEx,$15.50,20219,421282,+5%,"+$313,395",,,,,BLBD
+18,D,2021-05-19 16:56:30,2021-05-17,BLBD,Horlock Phil,"Pres, CEO",S - Sale+OE,$27.33,-14125,421282,-3%,"-$386,036",,,,,BLBD
+19,,2021-05-18 18:00:30,2021-05-17,BLBD,Yousif Paul,"GC, Treasurer",S - Sale,$27.40,-2500,16040,-13%,"-$68,500",,,,,BLBD
+20,AD,2021-04-05 16:23:43,2021-03-19,BLBD,Horlock Phil,"Pres, CEO",M - OptEx,$15.50,12273,415188,+3%,"+$190,232",,,,,BLBD
+21,AD,2021-04-05 16:23:43,2021-03-19,BLBD,Horlock Phil,"Pres, CEO",S - Sale+OE,$26.99,-8628,415188,-2%,"-$232,830",,,,,BLBD
+22,,2021-04-02 13:58:03,2021-04-01,BLBD,Grimm Douglas J.,Dir,A - Grant,$0.00,1869,14296,+15%,+$0,,,,,BLBD
+23,,2021-04-02 13:52:06,2021-04-01,BLBD,Shaw Kathleen,Dir,A - Grant,$0.00,1869,9243,+25%,+$0,,,,,BLBD
+24,,2021-04-02 13:47:35,2021-04-01,BLBD,Bedi Gurminder S,Dir,A - Grant,$0.00,1869,23015,+9%,+$0,,,,,BLBD
+25,,2021-04-02 13:43:48,2021-04-01,BLBD,Galbato Chan,Dir,A - Grant,$0.00,1869,27375,+7%,+$0,,,,,BLBD
+26,,2021-04-02 13:40:25,2021-04-01,BLBD,Schumacher Alan H,Dir,A - Grant,$0.00,1869,23015,+9%,+$0,,,,,BLBD
+27,D,2021-03-19 16:22:16,2021-03-19,BLBD,Horlock Phil,"Pres, CEO",M - OptEx,$15.50,12273,431430,+3%,"+$190,232",,,,,BLBD
+28,D,2021-03-19 16:22:16,2021-03-19,BLBD,Horlock Phil,"Pres, CEO",S - Sale+OE,$26.99,-8628,431430,-2%,"-$232,830",,,,,BLBD
+29,AD,2021-03-16 08:57:22,2020-12-11,BLBD,Jenkins Charles R III,COO,A - Grant,$16.20,11285,30834,+58%,"+$182,817",,,,,BLBD
+30,AD,2021-03-16 08:57:22,2020-12-11,BLBD,Jenkins Charles R III,COO,D - Sale to issuer,$19.09,-1283,30834,-4%,"-$24,493",,,,,BLBD
+31,AD,2021-03-16 08:57:22,2020-12-11,BLBD,Jenkins Charles R III,COO,F - Tax,$16.20,-1736,30834,-5%,"-$28,123",,,,,BLBD
+32,,2021-03-10 10:32:51,2021-03-09,BLBD,Asp Bb Holdings LLC,10%,S - Sale,$25.90,-1500000,9530150,-14%,"-$38,850,000",,,,,BLBD
+33,D,2021-03-09 17:04:45,2021-03-08,BLBD,Yousif Paul,"GC, Treasurer",M - OptEx,$17.53,5240,18540,+39%,"+$91,844",,,,,BLBD
+34,D,2021-03-09 17:04:45,2021-03-08,BLBD,Yousif Paul,"GC, Treasurer",S - Sale+OE,$27.03,-4053,18540,-18%,"-$109,553",,,,,BLBD
+35,D,2020-12-15 15:59:32,2020-12-11,BLBD,Taylor Jeffery L,CFO,A - Grant,$16.20,15625,21842,+251%,"+$253,125",,,,,BLBD
+36,D,2020-12-15 15:59:32,2020-12-11,BLBD,Taylor Jeffery L,CFO,F - Tax,$16.20,-1283,21842,-6%,"-$20,785",,,,,BLBD
+37,D,2020-12-15 15:57:44,2020-12-11,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,A - Grant,$16.20,13021,58322,+29%,"+$210,940",,,,,BLBD
+38,D,2020-12-15 15:57:44,2020-12-11,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,D - Sale to issuer,$18.35,-3832,58322,-6%,"-$70,327",,,,,BLBD
+39,D,2020-12-15 15:57:44,2020-12-11,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,F - Tax,$16.20,-5185,58322,-8%,"-$83,997",,,,,BLBD
+40,D,2020-12-15 15:56:24,2020-12-11,BLBD,Jenkins Charles R III,COO,A - Grant,$16.20,11285,14398,+363%,"+$182,817",,,,,BLBD
+41,D,2020-12-15 15:56:24,2020-12-11,BLBD,Jenkins Charles R III,COO,D - Sale to issuer,$19.09,-1283,14398,-8%,"-$24,493",,,,,BLBD
+42,D,2020-12-15 15:56:24,2020-12-11,BLBD,Jenkins Charles R III,COO,F - Tax,$16.20,-1736,14398,-11%,"-$28,123",,,,,BLBD
+43,D,2020-12-15 15:54:33,2020-12-11,BLBD,Horlock Phil,"Pres, CEO",A - Grant,$16.20,64815,411543,+19%,"+$1,050,003",,,,,BLBD
+44,D,2020-12-15 15:54:33,2020-12-11,BLBD,Horlock Phil,"Pres, CEO",D - Sale to issuer,$18.35,-14304,411543,-3%,"-$262,515",,,,,BLBD
+45,D,2020-12-15 15:54:33,2020-12-11,BLBD,Horlock Phil,"Pres, CEO",F - Tax,$16.20,-20182,411543,-5%,"-$326,948",,,,,BLBD
+46,D,2020-12-15 15:52:23,2020-12-11,BLBD,Yousif Paul,"GC, Treasurer",A - Grant,$16.20,3684,17353,+27%,"+$59,681",,,,,BLBD
+47,D,2020-12-15 15:52:23,2020-12-11,BLBD,Yousif Paul,"GC, Treasurer",D - Sale to issuer,$18.35,-814,17353,-4%,"-$14,940",,,,,BLBD
+48,D,2020-12-15 15:52:23,2020-12-11,BLBD,Yousif Paul,"GC, Treasurer",F - Tax,$16.20,-1100,17353,-6%,"-$17,820",,,,,BLBD
+49,,2020-06-19 08:29:49,2020-06-18,BLBD,Yousif Paul,"GC, Treasurer",S - Sale,$14.66,-10000,15583,-39%,"-$146,600",,,,,BLBD
+50,,2020-06-10 14:14:45,2020-06-08,BLBD,Terry Mark Ashburn,Chief Commercial Officer,S - Sale,$16.08,-15000,38055,-28%,"-$241,200",,,,,BLBD
+51,,2020-05-06 17:36:49,2020-05-05,BLBD,Grimm Douglas J.,Dir,A - Grant,$0.00,4421,12427,+55%,+$0,,,,,BLBD
+52,,2020-05-06 17:34:46,2020-05-05,BLBD,Schumacher Alan H,Dir,A - Grant,$0.00,4421,21146,+26%,+$0,,,,,BLBD
+53,,2020-05-06 17:33:00,2020-05-05,BLBD,Bedi Gurminder S,Dir,A - Grant,$0.00,4421,21146,+26%,+$0,,,,,BLBD
+54,,2020-05-06 17:31:04,2020-05-05,BLBD,Shaw Kathleen,Dir,A - Grant,$0.00,4421,7374,+150%,+$0,,,,,BLBD
+55,,2020-05-06 17:28:44,2020-05-05,BLBD,Galbato Chan,Dir,A - Grant,$0.00,4421,25506,+21%,+$0,,,,,BLBD
+56,M,2020-03-10 16:26:37,2020-03-06,BLBD,Horlock Phil,"Pres, CEO",S - Sale,$16.67,-24150,415166,-5%,"-$402,699",,,,,BLBD
+57,D,2020-01-10 12:41:03,2020-01-08,BLBD,Terry Mark Ashburn,Chief Commercial Officer,F - Tax,$23.88,-25464,52724,-33%,"-$608,080",,,,,BLBD
+58,D,2020-01-10 12:41:03,2020-01-08,BLBD,Terry Mark Ashburn,Chief Commercial Officer,M - OptEx,$16.54,31230,52724,+145%,"+$516,671",,,,,BLBD
+59,D,2020-01-08 17:49:09,2020-01-06,BLBD,Horlock Phil,"Pres, CEO",F - Tax,$23.84,-158314,439316,-26%,"-$3,774,206",,,,,BLBD
+60,D,2020-01-08 17:49:09,2020-01-06,BLBD,Horlock Phil,"Pres, CEO",M - OptEx,$10.08,231919,439316,+112%,"+$2,337,808",,,,,BLBD
+61,D,2020-01-08 17:23:06,2020-01-06,BLBD,Yousif Paul,"GC, Treasurer",F - Tax,$23.84,-15102,25585,-37%,"-$360,032",,,,,BLBD
+62,D,2020-01-08 17:23:06,2020-01-06,BLBD,Yousif Paul,"GC, Treasurer",M - OptEx,$16.67,17814,25585,+229%,"+$296,872",,,,,BLBD
+63,D,2020-01-06 15:32:31,2020-01-03,BLBD,Horlock Phil,"Pres, CEO",F - Tax,$0.00,-10355,365711,-3%,-$0,,,,,BLBD
+64,D,2020-01-06 15:30:43,2020-01-03,BLBD,Tighe Phillip,CFO,F - Tax,$0.00,-3625,116212,-3%,-$0,,,,,BLBD
+65,D,2020-01-06 15:28:07,2020-01-03,BLBD,Terry Mark Ashburn,Chief Commercial Officer,F - Tax,$0.00,-2913,46958,-6%,-$0,,,,,BLBD
+66,D,2020-01-06 15:25:50,2020-01-03,BLBD,Yousif Paul,"GC, Treasurer",F - Tax,$0.00,-781,22873,-3%,-$0,,,,,BLBD
+67,D,2020-01-06 15:24:09,2020-01-03,BLBD,Jenkins Charles R III,COO,F - Tax,$0.00,-580,22568,-3%,-$0,,,,,BLBD
+68,D,2020-01-06 15:21:58,2020-01-03,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,F - Tax,$0.00,-2915,63520,-4%,-$0,,,,,BLBD
+69,D,2019-12-13 16:44:54,2019-12-11,BLBD,Horlock Phil,"Pres, CEO",A - Grant,$0.00,51826,376066,+16%,+$0,,,,,BLBD
+70,D,2019-12-13 16:44:54,2019-12-11,BLBD,Horlock Phil,"Pres, CEO",F - Tax,$0.00,-17874,376066,-5%,-$0,,,,,BLBD
+71,D,2019-12-13 16:43:19,2019-12-11,BLBD,Yousif Paul,"GC, Treasurer",A - Grant,$0.00,2945,23654,+14%,+$0,,,,,BLBD
+72,D,2019-12-13 16:43:19,2019-12-11,BLBD,Yousif Paul,"GC, Treasurer",F - Tax,$0.00,-866,23654,-4%,-$0,,,,,BLBD
+73,D,2019-12-13 16:41:41,2019-12-11,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,A - Grant,$0.00,13882,66435,+26%,+$0,,,,,BLBD
+74,D,2019-12-13 16:41:41,2019-12-11,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,F - Tax,$0.00,-4680,66435,-7%,-$0,,,,,BLBD
+75,D,2019-12-13 16:40:38,2019-12-11,BLBD,Terry Mark Ashburn,Chief Commercial Officer,A - Grant,$0.00,13882,49871,+39%,+$0,,,,,BLBD
+76,D,2019-12-13 16:40:38,2019-12-11,BLBD,Terry Mark Ashburn,Chief Commercial Officer,F - Tax,$0.00,-4677,49871,-9%,-$0,,,,,BLBD
+77,D,2019-12-13 16:39:14,2019-12-11,BLBD,Jenkins Charles R III,COO,A - Grant,$0.00,9023,23148,+64%,+$0,,,,,BLBD
+78,D,2019-12-13 16:39:14,2019-12-11,BLBD,Jenkins Charles R III,COO,F - Tax,$0.00,-805,23148,-3%,-$0,,,,,BLBD
+79,D,2019-12-13 16:35:57,2019-12-11,BLBD,Tighe Phillip,CFO,A - Grant,$0.00,17584,119837,+17%,+$0,,,,,BLBD
+80,D,2019-12-13 16:35:57,2019-12-11,BLBD,Tighe Phillip,CFO,F - Tax,$0.00,-5963,119837,-5%,-$0,,,,,BLBD
+81,,2019-04-11 16:11:44,2019-04-09,BLBD,Shaw Kathleen,Dir,A - Grant,$0.00,2953,2953,New,+$0,,,,,BLBD
+82,,2019-04-11 16:09:16,2019-04-09,BLBD,Galbato Chan,Dir,A - Grant,$0.00,2953,21085,+16%,+$0,,,,,BLBD
+83,,2019-04-11 16:02:39,2019-04-09,BLBD,Grimm Douglas J.,Dir,A - Grant,$0.00,2953,8006,+58%,+$0,,,,,BLBD
+84,,2019-04-11 15:59:00,2019-04-09,BLBD,Schumacher Alan H,Dir,A - Grant,$0.00,2953,16725,+21%,+$0,,,,,BLBD
+85,,2019-04-11 15:56:55,2019-04-09,BLBD,Bedi Gurminder S,Dir,A - Grant,$0.00,2953,16725,+21%,+$0,,,,,BLBD
+86,D,2019-01-04 13:29:32,2019-01-03,BLBD,Horlock Phil,"Pres, CEO",D - Sale to issuer,$0.00,-5646,342114,-2%,-$0,,,,,BLBD
+87,D,2019-01-04 13:29:32,2019-01-03,BLBD,Horlock Phil,"Pres, CEO",F - Tax,$0.00,-7885,342114,-2%,-$0,,,,,BLBD
+88,D,2019-01-04 13:26:55,2019-01-03,BLBD,Tighe Phillip,CFO,D - Sale to issuer,$0.00,-1915,108216,-2%,-$0,,,,,BLBD
+89,D,2019-01-04 13:26:55,2019-01-03,BLBD,Tighe Phillip,CFO,F - Tax,$0.00,-2742,108216,-2%,-$0,,,,,BLBD
+90,D,2019-01-04 13:21:56,2019-01-03,BLBD,Yousif Paul,"GC, Treasurer",D - Sale to issuer,$0.00,-385,21575,-2%,-$0,,,,,BLBD
+91,D,2019-01-04 13:21:56,2019-01-03,BLBD,Yousif Paul,"GC, Treasurer",F - Tax,$0.00,-413,21575,-2%,-$0,,,,,BLBD
+92,D,2019-01-04 13:19:10,2019-01-03,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,D - Sale to issuer,$0.00,-1512,57233,-3%,-$0,,,,,BLBD
+93,D,2019-01-04 13:19:10,2019-01-03,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,F - Tax,$0.00,-2133,57233,-4%,-$0,,,,,BLBD
+94,D,2019-01-04 13:16:15,2019-01-03,BLBD,Terry Mark Ashburn,Chief Commercial Officer,D - Sale to issuer,$0.00,-1512,40666,-4%,-$0,,,,,BLBD
+95,D,2019-01-04 13:16:15,2019-01-03,BLBD,Terry Mark Ashburn,Chief Commercial Officer,F - Tax,$0.00,-2130,40666,-5%,-$0,,,,,BLBD
+96,D,2018-12-13 09:44:11,2018-12-11,BLBD,Tighe Phillip,CFO,A - Grant,$0.00,20968,112873,+23%,+$0,,,,,BLBD
+97,D,2018-12-13 09:44:11,2018-12-11,BLBD,Tighe Phillip,CFO,D - Sale to issuer,$0.00,-1640,112873,-1%,-$0,,,,,BLBD
+98,D,2018-12-13 09:44:11,2018-12-11,BLBD,Tighe Phillip,CFO,F - Tax,$0.00,-2033,112873,-2%,-$0,,,,,BLBD
+99,D,2018-12-13 09:41:53,2018-12-11,BLBD,Horlock Phil,"Pres, CEO",A - Grant,$0.00,61801,355645,+21%,+$0,,,,,BLBD
+100,D,2018-12-13 09:41:53,2018-12-11,BLBD,Horlock Phil,"Pres, CEO",D - Sale to issuer,$0.00,-4834,355645,-1%,-$0,,,,,BLBD
+101,D,2018-12-13 09:41:53,2018-12-11,BLBD,Horlock Phil,"Pres, CEO",F - Tax,$0.00,-6417,355645,-2%,-$0,,,,,BLBD
+102,D,2018-12-13 09:39:39,2018-12-11,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,A - Grant,$0.00,16554,60878,+37%,+$0,,,,,BLBD
+103,D,2018-12-13 09:39:39,2018-12-11,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,D - Sale to issuer,$0.00,-1295,60878,-2%,-$0,,,,,BLBD
+104,D,2018-12-13 09:39:39,2018-12-11,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,F - Tax,$0.00,-1593,60878,-3%,-$0,,,,,BLBD
+105,D,2018-12-13 09:34:58,2018-12-11,BLBD,Terry Mark Ashburn,Chief Commercial Officer,A - Grant,$0.00,16554,44308,+60%,+$0,,,,,BLBD
+106,D,2018-12-13 09:34:58,2018-12-11,BLBD,Terry Mark Ashburn,Chief Commercial Officer,D - Sale to issuer,$0.00,-1295,44308,-3%,-$0,,,,,BLBD
+107,D,2018-12-13 09:34:58,2018-12-11,BLBD,Terry Mark Ashburn,Chief Commercial Officer,F - Tax,$0.00,-1590,44308,-3%,-$0,,,,,BLBD
+108,D,2018-12-13 09:26:48,2018-12-11,BLBD,Yousif Paul,"GC, Treasurer",A - Grant,$0.00,3512,22373,+19%,+$0,,,,,BLBD
+109,D,2018-12-13 09:26:48,2018-12-11,BLBD,Yousif Paul,"GC, Treasurer",D - Sale to issuer,$0.00,-275,22373,-1%,-$0,,,,,BLBD
+110,D,2018-12-13 09:26:48,2018-12-11,BLBD,Yousif Paul,"GC, Treasurer",F - Tax,$0.00,-248,22373,-1%,-$0,,,,,BLBD
+111,,2018-10-23 20:57:17,2018-10-19,BLBD,Galbato Chan,Dir,D - Sale to issuer,$28.00,-1150,18132,-6%,"-$32,200",,,,,BLBD
+112,,2018-10-23 09:52:31,2018-10-19,BLBD,Terry Mark Ashburn,Chief Commercial Officer,D - Sale to issuer,$28.00,-242,30639,-1%,"-$6,776",,,,,BLBD
+113,,2018-10-23 09:50:20,2018-10-19,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,D - Sale to issuer,$28.00,-1721,47212,-4%,"-$48,188",,,,,BLBD
+114,,2018-10-22 17:52:27,2018-10-19,BLBD,Horlock Phil,"Pres, CEO",D - Sale to issuer,$28.00,-17292,305095,-5%,"-$484,176",,,,,BLBD
+115,,2018-10-22 17:49:35,2018-10-19,BLBD,Bedi Gurminder S,Dir,D - Sale to issuer,$28.00,-767,13772,-5%,"-$21,476",,,,,BLBD
+116,,2018-10-22 17:47:40,2018-10-19,BLBD,Schumacher Alan H,Dir,D - Sale to issuer,$28.00,-767,13772,-5%,"-$21,476",,,,,BLBD
+117,,2018-10-22 17:42:21,2018-10-19,BLBD,Yousif Paul,"GC, Treasurer",D - Sale to issuer,$28.00,-1143,19384,-6%,"-$32,004",,,,,BLBD
+118,,2018-10-22 17:40:37,2018-10-19,BLBD,Tighe Phillip,CFO,D - Sale to issuer,$28.00,-5325,95578,-5%,"-$149,100",,,,,BLBD
+119,,2018-10-22 16:10:47,2018-10-18,BLBD,Asp Bb Holdings LLC,10%,S - Sale,$28.00,-969850,11030150,-8%,"-$27,155,800",,,,,BLBD
+120,D,2018-09-18 17:46:26,2018-09-14,BLBD,Tighe Phillip,CFO,F - Tax,$25.40,-5398,100903,-5%,"-$137,109",,,,,BLBD
+121,D,2018-09-18 17:46:26,2018-09-14,BLBD,Tighe Phillip,CFO,M - OptEx,$15.50,6860,100903,+7%,"+$106,330",,,,,BLBD
+122,D,2018-09-18 17:44:09,2018-09-14,BLBD,Horlock Phil,"Pres, CEO",F - Tax,$25.40,-133946,322387,-29%,"-$3,402,228",,,,,BLBD
+123,D,2018-09-18 17:44:09,2018-09-14,BLBD,Horlock Phil,"Pres, CEO",M - OptEx,$10.05,200000,322387,+163%,"+$2,010,000",,,,,BLBD
+124,D,2018-09-18 17:42:13,2018-09-14,BLBD,Yousif Paul,"GC, Treasurer",F - Tax,$25.40,-3252,20527,-14%,"-$82,601",,,,,BLBD
+125,D,2018-09-18 17:42:13,2018-09-14,BLBD,Yousif Paul,"GC, Treasurer",M - OptEx,$15.50,4137,20527,+25%,"+$64,124",,,,,BLBD
+126,D,2018-09-18 17:40:23,2018-09-14,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,F - Tax,$25.40,-14104,48933,-22%,"-$358,242",,,,,BLBD
+127,D,2018-09-18 17:40:23,2018-09-14,BLBD,Roberts Thomas Arthur,Chief Adminstrative Officer,M - OptEx,$11.69,20007,48933,+69%,"+$233,798",,,,,BLBD
+128,,2018-09-05 19:26:55,2018-09-04,BLBD,Hennessy Daniel J,Dir,S - Sale,$22.84,-27887,5053,-85%,"-$636,939",,,,,BLBD
+129,A,2018-09-05 19:13:16,2018-08-30,BLBD,Hennessy Daniel J,Dir,S - Sale,$22.91,-8031,50160,-14%,"-$183,990",,,,,BLBD
+130,,2018-09-04 12:18:45,2018-08-31,BLBD,Hennessy Daniel J,Dir,S - Sale,$22.87,-17220,32958,-34%,"-$393,821",,,,,BLBD
+131,,2018-08-31 13:32:34,2018-08-30,BLBD,Hennessy Daniel J,Dir,S - Sale,$22.91,-8013,50178,-14%,"-$183,578",,,,,BLBD
+132,D,2018-08-31 13:01:06,2018-08-28,BLBD,Hennessy Daniel J,Dir,M - OptEx,$11.50,43652,58191,+300%,"+$501,998",,,,,BLBD
+133,,2018-04-10 09:45:41,2018-04-09,BLBD,Hennessy Daniel J,Dir,A - Grant,$0.00,2146,14539,+17%,+$0,,,,,BLBD
+134,,2018-04-10 09:44:03,2018-04-09,BLBD,Galbato Chan,Dir,A - Grant,$0.00,2146,19282,+13%,+$0,,,,,BLBD
+135,,2018-04-10 09:41:44,2018-04-09,BLBD,Grimm Douglas J.,Dir,A - Grant,$0.00,2146,5053,+74%,+$0,,,,,BLBD
+136,,2018-04-10 09:40:06,2018-04-09,BLBD,Bedi Gurminder S,Dir,A - Grant,$0.00,2146,14539,+17%,+$0,,,,,BLBD
+137,,2018-04-10 09:36:07,2018-04-09,BLBD,Schumacher Alan H,Dir,A - Grant,$0.00,2146,14539,+17%,+$0,,,,,BLBD
+138,AD,2018-01-09 16:54:56,2018-01-03,BLBD,Tighe Phillip,CFO,D - Sale to issuer,$0.00,-966,99441,-1%,-$0,,,,,BLBD
+139,AD,2018-01-09 16:54:56,2018-01-03,BLBD,Tighe Phillip,CFO,F - Tax,$0.00,-2583,99441,-3%,-$0,,,,,BLBD
+140,AD,2018-01-09 16:53:36,2018-01-03,BLBD,Roberts Thomas Arthur,Chief Adminstration Officer,D - Sale to issuer,$0.00,-762,43030,-2%,-$0,,,,,BLBD
+141,AD,2018-01-09 16:53:36,2018-01-03,BLBD,Roberts Thomas Arthur,Chief Adminstration Officer,F - Tax,$0.00,-2041,43030,-5%,-$0,,,,,BLBD
+142,AD,2018-01-09 16:50:14,2018-01-03,BLBD,Terry Mark Ashburn,Chief Commercial Officer,D - Sale to issuer,$0.00,-762,30881,-2%,-$0,,,,,BLBD
+143,AD,2018-01-09 16:50:14,2018-01-03,BLBD,Terry Mark Ashburn,Chief Commercial Officer,F - Tax,$0.00,-2041,30881,-6%,-$0,,,,,BLBD
+144,D,2018-01-05 11:54:02,2018-01-03,BLBD,Tighe Phillip,CFO,D - Sale to issuer,$0.00,-966,99441,-1%,-$0,,,,,BLBD
+145,D,2018-01-05 11:54:02,2018-01-03,BLBD,Tighe Phillip,CFO,F - Tax,$0.00,-2583,99441,-3%,-$0,,,,,BLBD
+146,D,2018-01-05 11:50:11,2018-01-03,BLBD,Terry Mark Ashburn,Chief Commercial Officer,D - Sale to issuer,$0.00,-762,30881,-2%,-$0,,,,,BLBD
+147,D,2018-01-05 11:50:11,2018-01-03,BLBD,Terry Mark Ashburn,Chief Commercial Officer,F - Tax,$0.00,-2041,30881,-6%,-$0,,,,,BLBD
+148,D,2018-01-05 11:47:30,2018-01-03,BLBD,Horlock Phil,"Pres, CEO",D - Sale to issuer,$0.00,-2845,256333,-1%,-$0,,,,,BLBD
+149,D,2018-01-05 11:47:30,2018-01-03,BLBD,Horlock Phil,"Pres, CEO",F - Tax,$0.00,-2583,256333,-1%,-$0,,,,,BLBD
+150,D,2018-01-05 11:36:00,2018-01-03,BLBD,Roberts Thomas Arthur,Chief Adminstration Officer,D - Sale to issuer,$0.00,-762,43030,-2%,-$0,,,,,BLBD
+151,D,2018-01-05 11:36:00,2018-01-03,BLBD,Roberts Thomas Arthur,Chief Adminstration Officer,F - Tax,$0.00,-2041,43030,-5%,-$0,,,,,BLBD
+152,D,2018-01-05 11:33:10,2018-01-03,BLBD,Yousif Paul,"GC, Treasurer",D - Sale to issuer,$0.00,-194,19642,-1%,-$0,,,,,BLBD
+153,D,2018-01-05 11:33:10,2018-01-03,BLBD,Yousif Paul,"GC, Treasurer",F - Tax,$0.00,-519,19642,-3%,-$0,,,,,BLBD
+154,,2017-12-12 17:43:33,2017-12-11,BLBD,Roberts Thomas Arthur,Chief Adminstration Officer,A - Grant,$0.00,15539,45833,+51%,+$0,,,,,BLBD
+155,,2017-12-12 17:41:55,2017-12-11,BLBD,Terry Mark Ashburn,Chief Commercial Officer,A - Grant,$0.00,15539,33684,+86%,+$0,,,,,BLBD
+156,,2017-12-12 17:40:11,2017-12-11,BLBD,Tighe Phillip,CFO,A - Grant,$0.00,19682,102990,+24%,+$0,,,,,BLBD
+157,,2017-12-12 17:38:26,2017-12-11,BLBD,Yousif Paul,"GC, Treasurer",A - Grant,$0.00,3297,20355,+19%,+$0,,,,,BLBD
+158,,2017-12-12 17:35:26,2017-12-11,BLBD,Horlock Phil,"Pres, CEO",A - Grant,$0.00,58011,261761,+28%,+$0,,,,,BLBD
+159,D,2017-09-29 06:08:47,2017-09-27,BLBD,"Coliseum Capital Management, LLC",Former Director,D - Sale to issuer,$19.65,-2907,0,-100%,"-$57,123",,,,,BLBD
+160,D,2017-09-29 06:08:47,2017-09-27,BLBD,"Coliseum Capital Management, LLC",Former Director,M - OptEx,$0.00,2907,0,-100%,+$0,,,,,BLBD
+161,D,2017-09-26 17:10:07,2017-09-23,BLBD,"Coliseum Capital Management, LLC",Dir,S - Sale+OE,$18.65,-742566,0,-100%,"-$13,848,856",,,,,BLBD
+162,,2017-06-20 19:10:52,2017-06-16,BLBD,"Coliseum Capital Management, LLC",Dir,S - Sale,$18.00,-219680,742566,-23%,"-$3,954,240",,,,,BLBD
+163,M,2017-06-08 20:06:53,2017-06-06,BLBD,"Coliseum Capital Management, LLC",Dir,S - Sale,$18.26,-5000,962246,-1%,"-$91,300",,,,,BLBD
+164,M,2017-06-02 19:33:37,2017-05-31,BLBD,"Coliseum Capital Management, LLC",Dir,S - Sale,$18.01,-27000,967246,-3%,"-$486,400",,,,,BLBD
+165,,2017-05-18 19:52:17,2017-05-16,BLBD,"Coliseum Capital Management, LLC",Dir,S - Sale,$18.80,-128369,994246,-11%,"-$2,413,337",,,,,BLBD
+166,,2017-04-04 17:35:31,2017-04-03,BLBD,Galbato Chan,Dir,A - Grant,$0.00,2907,17136,+20%,+$0,0.0,4.0,9.0,,BLBD
+167,,2017-04-04 17:33:31,2017-04-03,BLBD,Grimm Douglas J.,Dir,A - Grant,$0.00,2907,2907,New,+$0,0.0,4.0,9.0,,BLBD
+168,,2017-04-04 17:32:01,2017-04-03,BLBD,Schumacher Alan H,Dir,A - Grant,$0.00,2907,12393,+31%,+$0,0.0,4.0,9.0,,BLBD
+169,,2017-04-04 17:30:17,2017-04-03,BLBD,Hennessy Daniel J,Dir,A - Grant,$0.00,2907,12393,+31%,+$0,0.0,4.0,9.0,,BLBD
+170,,2017-04-04 17:28:18,2017-04-03,BLBD,Bedi Gurminder S,Dir,A - Grant,$0.00,2907,12393,+31%,+$0,0.0,4.0,9.0,,BLBD
+171,M,2017-03-22 16:48:08,2017-03-20,BLBD,"Coliseum Capital Management, LLC","Dir, 10%",S - Sale,$17.00,-514570,1122615,-31%,"-$8,747,690",2.0,5.0,11.0,,BLBD
+172,,2017-03-13 11:02:13,2017-03-09,BLBD,Hennessy Daniel J,Dir,S - Sale,$16.70,-133911,9486,-93%,"-$2,236,314",-3.0,2.0,10.0,,BLBD
+173,A,2017-03-13 11:00:27,2016-04-05,BLBD,Hennessy Daniel J,Dir,A - Grant,$0.00,4608,143397,+3%,+$0,-3.0,2.0,10.0,,BLBD
+174,M,2017-03-10 17:59:34,2017-03-08,BLBD,"Coliseum Capital Management, LLC","Dir, 10%",S - Sale,$17.00,-594421,1637185,-27%,"-$10,105,157",-3.0,1.0,7.0,,BLBD
+175,M,2017-03-03 18:48:49,2017-03-01,BLBD,"Coliseum Capital Management, LLC","Dir, 10%",S - Sale,$17.04,-25489,2231606,-1%,"-$434,273",-1.0,-1.0,1.0,,BLBD
+176,,2017-02-23 19:27:16,2017-02-21,BLBD,"Coliseum Capital Management, LLC","Dir, 10%",S - Sale,$17.00,-116100,2257095,-5%,"-$1,973,700",0.0,2.0,-1.0,,BLBD
+177,M,2017-02-16 17:33:48,2017-02-14,BLBD,"Coliseum Capital Management, LLC","Dir, 10%",S - Sale,$17.00,-243409,2373195,-9%,"-$4,137,953",1.0,-1.0,0.0,,BLBD
+178,D,2017-01-05 17:12:47,2017-01-03,BLBD,Horlock Phil,"Pres, CEO",A - Grant,$0.00,67742,203750,+50%,+$0,2.0,4.0,8.0,,BLBD
+179,D,2017-01-05 17:06:25,2017-01-03,BLBD,Roberts Thomas Arthur,Chief Adminstration Officer,A - Grant,$0.00,18145,30294,+149%,+$0,2.0,4.0,8.0,,BLBD
+180,D,2017-01-05 17:04:20,2017-01-03,BLBD,Yousif Paul,"VP of Legal Affairs, Treasurer",A - Grant,$0.00,4620,17058,+37%,+$0,2.0,4.0,8.0,,BLBD
+181,D,2017-01-05 16:57:46,2017-01-03,BLBD,Tighe Phillip,CFO,A - Grant,$0.00,22984,83308,+38%,+$0,2.0,4.0,8.0,,BLBD
+182,D,2017-01-05 16:42:00,2017-01-03,BLBD,Terry Mark Ashburn,Chief Commercial Officer,A - Grant,$0.00,18145,18145,New,+$0,2.0,4.0,8.0,,BLBD
+183,D,2016-10-13 13:50:06,2016-10-12,BLBD,McCurdy Michael,VP of HR,F - Tax,$14.96,-19492,13383,-59%,"-$291,600",-1.0,-1.0,0.0,18.0,BLBD
+184,D,2016-10-13 13:50:06,2016-10-12,BLBD,McCurdy Michael,VP of HR,M - OptEx,$10.09,23940,13383,-227%,"+$241,464",-1.0,-1.0,0.0,18.0,BLBD
+185,AD,2016-10-13 12:02:16,2016-09-20,BLBD,Yousif Paul,"VP of Legal Affairs, Treasurer",F - Tax,$13.53,-20415,12438,-62%,"-$276,215",-1.0,-1.0,0.0,18.0,BLBD
+186,AD,2016-10-13 12:02:16,2016-09-20,BLBD,Yousif Paul,"VP of Legal Affairs, Treasurer",M - OptEx,$10.09,23940,12438,-208%,"+$241,464",-1.0,-1.0,0.0,18.0,BLBD
+187,D,2016-10-11 10:31:10,2016-10-07,BLBD,Tighe Phillip,CFO,F - Tax,$14.76,-99980,60324,-62%,"-$1,475,705",0.0,0.0,0.0,24.0,BLBD
+188,D,2016-10-11 10:31:10,2016-10-07,BLBD,Tighe Phillip,CFO,M - OptEx,$10.07,121089,60324,-199%,"+$1,219,384",0.0,0.0,0.0,24.0,BLBD
+189,AD,2016-10-07 11:56:06,2016-09-20,BLBD,Yousif Paul,"VP of Legal Affairs, Treasurer",F - Tax,$13.53,-20415,12438,-62%,"-$276,215",-1.0,0.0,-2.0,19.0,BLBD
+190,AD,2016-10-07 11:56:06,2016-09-20,BLBD,Yousif Paul,"VP of Legal Affairs, Treasurer",M - OptEx,$10.09,23940,12438,-208%,"+$241,464",-1.0,0.0,-2.0,19.0,BLBD
+191,D,2016-09-23 13:35:31,2016-09-20,BLBD,Yousif Paul,"VP of Legal Affairs, Treasurer",F - Tax,$13.53,-18869,12438,-60%,"-$255,298",3.0,3.0,5.0,19.0,BLBD
+192,D,2016-09-23 13:35:31,2016-09-20,BLBD,Yousif Paul,"VP of Legal Affairs, Treasurer",M - OptEx,$10.07,22394,12438,-225%,"+$225,586",3.0,3.0,5.0,19.0,BLBD
+193,,2016-06-13 10:47:31,2016-06-10,BLBD,Horlock Phil,"Pres, CEO",F - Tax,$11.11,-112836,136008,-45%,"-$1,253,608",-3.0,1.0,9.0,49.0,BLBD
+194,,2016-06-13 10:44:12,2016-06-10,BLBD,Kwapis John,COO,F - Tax,$11.11,-29568,35768,-45%,"-$328,500",-3.0,1.0,9.0,49.0,BLBD
+195,,2016-06-13 10:41:40,2016-06-10,BLBD,McCurdy Michael,VP of HR,F - Tax,$11.11,-6980,8935,-44%,"-$77,548",-3.0,1.0,9.0,49.0,BLBD
+196,,2016-06-13 10:39:34,2016-06-10,BLBD,Roberts Thomas Arthur,Chief Adminstration Officer,F - Tax,$11.11,-9759,12149,-45%,"-$108,422",-3.0,1.0,9.0,49.0,BLBD
+197,,2016-06-13 10:36:53,2016-06-10,BLBD,Tighe Phillip,CFO,F - Tax,$11.11,-32435,39215,-45%,"-$360,353",-3.0,1.0,9.0,49.0,BLBD
+198,,2016-06-13 10:34:19,2016-06-10,BLBD,Wendell Dale,Chief Commercial Officer,F - Tax,$11.11,-29568,36779,-45%,"-$328,500",-3.0,1.0,9.0,49.0,BLBD
+199,,2016-06-13 10:28:36,2016-06-10,BLBD,Yousif Paul,"VP of Legal Affairs, Treasurer",F - Tax,$11.11,-7002,8913,-44%,"-$77,792",-3.0,1.0,9.0,49.0,BLBD
+200,D,2016-06-10 21:04:37,2016-06-08,BLBD,"Coliseum Capital Management, LLC","Dir, 10%",D - Sale to issuer,$11.11,-9486,2616604,0%,"-$105,389",-3.0,0.0,8.0,49.0,BLBD
+201,D,2016-06-10 21:04:37,2016-06-08,BLBD,"Coliseum Capital Management, LLC","Dir, 10%",M - OptEx,$0.00,9486,2616604,0%,+$0,-3.0,0.0,8.0,49.0,BLBD
+202,,2016-06-10 14:16:11,2016-06-08,BLBD,Asp Bb Holdings LLC,10%,P - Purchase,$11.00,5000000,12000000,+71%,"+$55,000,000",1.0,2.0,9.0,50.0,BLBD
+203,,2016-06-10 14:14:43,2016-06-08,BLBD,Feinberg Stephen,Former 10% Owner,S - Sale,$11.00,-5000000,0,-100%,"-$55,000,000",1.0,2.0,9.0,50.0,BLBD
+204,,2016-06-07 16:52:57,2016-06-03,BLBD,Feinberg Stephen,10%,S - Sale,$10.10,-7000000,5000000,-58%,"-$70,700,000",1.0,0.0,8.0,50.0,BLBD
+205,D,2016-04-20 09:29:55,2015-12-19,BLBD,Roberts Thomas Arthur,Chief Adminstration Officer,A - Grant,$0.00,21908,21908,New,+$0,0.0,-1.0,-7.0,38.0,BLBD
+206,A,2016-04-05 15:54:28,2016-04-05,BLBD,Bedi Gurminder S,Dir,A - Grant,$0.00,4608,9486,+94%,+$0,0.0,-1.0,0.0,35.0,BLBD
+207,A,2016-04-05 15:52:05,2016-04-05,BLBD,Kapadia Dev,Dir,A - Grant,$0.00,4608,9486,+94%,+$0,0.0,-1.0,0.0,35.0,BLBD
+208,A,2016-04-05 15:49:22,2016-04-05,BLBD,Donovan Dennis M,Dir,A - Grant,$0.00,4608,9486,+94%,+$0,0.0,-1.0,0.0,35.0,BLBD
+209,A,2016-04-05 15:48:06,2016-04-05,BLBD,Schumacher Alan H,Dir,A - Grant,$0.00,4608,9486,+94%,+$0,0.0,-1.0,0.0,35.0,BLBD
+210,A,2016-04-05 15:45:15,2016-04-05,BLBD,Galbato Chan,Dir,A - Grant,$0.00,6912,14229,+94%,+$0,0.0,-1.0,0.0,35.0,BLBD
+211,,2016-04-05 15:41:44,2016-04-05,BLBD,Hennessy Daniel J,Dir,A - Grant,$0.00,4608,9486,+94%,+$0,0.0,-1.0,0.0,35.0,BLBD
+212,,2016-04-05 15:32:04,2016-04-05,BLBD,Bedi Gurminder S,Dir,A - Grant,$0.00,4608,4608,New,+$0,0.0,-1.0,0.0,35.0,BLBD
+213,,2016-04-05 15:29:45,2016-04-05,BLBD,Kapadia Dev,Dir,A - Grant,$0.00,4608,4608,New,+$0,0.0,-1.0,0.0,35.0,BLBD
+214,,2016-04-05 15:27:29,2016-04-05,BLBD,Donovan Dennis M,Dir,A - Grant,$0.00,4608,4608,New,+$0,0.0,-1.0,0.0,35.0,BLBD
+215,,2016-04-05 15:25:19,2016-04-05,BLBD,Schumacher Alan H,Dir,A - Grant,$0.00,4608,4608,New,+$0,0.0,-1.0,0.0,35.0,BLBD
+216,,2016-04-05 15:22:06,2016-04-05,BLBD,Galbato Chan,Dir,A - Grant,$0.00,6912,6912,New,+$0,0.0,-1.0,0.0,35.0,BLBD
+217,D,2015-12-21 13:06:43,2015-12-19,BLBD,Horlock Phil,"Pres, CEO",A - Grant,$0.00,47925,247925,+24%,+$0,-1.0,0.0,-10.0,14.0,BLBD
+218,D,2015-12-21 12:59:48,2015-12-19,BLBD,Kwapis John,COO,A - Grant,$0.00,15336,65336,+31%,+$0,-1.0,0.0,-10.0,14.0,BLBD
+219,D,2015-12-21 12:54:14,2015-12-19,BLBD,McCurdy Michael,VP of HR,A - Grant,$0.00,5915,15915,+59%,+$0,-1.0,0.0,-10.0,14.0,BLBD
+220,D,2015-12-21 12:48:02,2015-12-19,BLBD,Tighe Phillip,CFO,A - Grant,$0.00,16650,71650,+30%,+$0,-1.0,0.0,-10.0,14.0,BLBD
+221,D,2015-12-21 12:39:24,2015-12-19,BLBD,Wendell Dale,Chief Commercial Officer,A - Grant,$0.00,15336,65336,+31%,+$0,-1.0,0.0,-10.0,14.0,BLBD
+222,D,2015-12-21 12:26:30,2015-12-19,BLBD,Yousif Paul,"VP of Legal Affairs, Treasurer",A - Grant,$0.00,5915,15915,+59%,+$0,-1.0,0.0,-10.0,14.0,BLBD
+223,,2015-06-29 09:05:37,2015-06-23,BLBD,McCurdy Michael,VP of HR,A - Grant,$0.00,10000,10000,New,+$0,-2.0,1.0,0.0,-23.0,BLBD
+224,,2015-06-29 09:05:18,2015-06-23,BLBD,Yousif Paul,"VP of Legal Affairs, Treasurer",A - Grant,$0.00,10000,10000,New,+$0,-2.0,1.0,0.0,-23.0,BLBD
+225,,2015-06-29 09:05:01,2015-06-23,BLBD,Horlock Phil,"Pres, CEO",A - Grant,$0.00,200000,200000,New,+$0,-2.0,1.0,0.0,-23.0,BLBD
+226,,2015-06-29 09:04:43,2015-06-23,BLBD,Kwapis John,COO,A - Grant,$0.00,50000,50000,New,+$0,-2.0,1.0,0.0,-23.0,BLBD
+227,,2015-06-29 09:04:30,2015-06-23,BLBD,Tighe Phillip,CFO,A - Grant,$0.00,55000,55000,New,+$0,-2.0,1.0,0.0,-23.0,BLBD
+228,,2015-06-29 09:04:14,2015-06-23,BLBD,Wendell Dale,Chief Commercial Officer,A - Grant,$0.00,50000,50000,New,+$0,-2.0,1.0,0.0,-23.0,BLBD
+229,,2015-06-02 13:51:49,2015-05-30,BLBD,Galbato Chan,Dir,A - Grant,$0.00,7317,7317,New,+$0,0.0,-5.0,-3.0,-20.0,BLBD
+230,,2015-06-02 13:51:31,2015-05-30,BLBD,Marcotuli James,Dir,A - Grant,$0.00,4878,4878,New,+$0,0.0,-5.0,-3.0,-20.0,BLBD
+231,,2015-06-02 13:51:14,2015-05-30,BLBD,Bedi Gurminder S,Dir,A - Grant,$0.00,4878,4878,New,+$0,0.0,-5.0,-3.0,-20.0,BLBD
+232,,2015-06-02 13:50:59,2015-05-30,BLBD,Donovan Dennis M,Dir,A - Grant,$0.00,4878,4878,New,+$0,0.0,-5.0,-3.0,-20.0,BLBD
+233,,2015-06-02 13:50:47,2015-05-30,BLBD,Kapadia Dev,Dir,A - Grant,$0.00,4878,4878,New,+$0,0.0,-5.0,-3.0,-20.0,BLBD
+234,,2015-06-02 13:50:34,2015-05-30,BLBD,Schumacher Alan H,Dir,A - Grant,$0.00,4878,4878,New,+$0,0.0,-5.0,-3.0,-20.0,BLBD
+235,,2015-06-02 13:50:17,2015-05-30,BLBD,Hennessy Daniel J,Dir,A - Grant,$0.00,4878,4878,New,+$0,0.0,-5.0,-3.0,-20.0,BLBD
+236,D,2015-03-19 20:02:15,2015-03-17,BLBD,Hennessy Capital LLC,10%,P - Purchase,$0.00,943453,1615703,+140%,+$0,6.0,10.0,17.0,25.0,BLBD
+237,D,2015-03-19 20:00:43,2015-03-17,BLBD,"Hennessy Capital Partners I, LLC",10%,P - Purchase,$0.00,943453,1615703,+140%,+$0,6.0,10.0,17.0,25.0,BLBD
+238,D,2015-03-19 20:00:13,2015-03-17,BLBD,Hennessy Daniel J,"Dir, 10%",P - Purchase,$0.00,943453,1615703,+140%,+$0,6.0,10.0,17.0,25.0,BLBD
+239,,2015-03-09 21:08:51,2015-03-05,BLBD,"Coliseum Capital Management, LLC","Dir, 10%",P - Purchase,$9.03,61000,2561000,+2%,"+$550,830",-2.0,0.0,11.0,29.0,BLBD
+240,D,2015-02-26 21:47:58,2015-02-24,BLBD,"Coliseum Capital Management, LLC","Dir, 10%",P - Purchase,$10.00,2500000,2500000,New,"+$25,000,000",1.0,-5.0,4.0,23.0,BLBD
+241,,2014-06-13 16:45:43,2014-06-11,HCAC,Lowrey Charles B II,"EVP, CFO, Secretary",P - Purchase,$0.01,8000,18000,+80%,+$72,,,,,BLBD
+242,,2014-06-13 16:44:46,2014-06-11,HCAC,Charlton Kevin M.,"Pres, COO",P - Purchase,$0.01,17000,67000,+34%,+$153,,,,,BLBD

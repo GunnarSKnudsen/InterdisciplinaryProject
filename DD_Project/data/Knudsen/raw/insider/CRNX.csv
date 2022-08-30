@@ -1,48 +1,66 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-04-07 17:58:19,2022-04-05,CRNX,Struthers Richard Scott,"Pres, CEO",S - Sale,$25.34,-21357,1197848,-2%,"-$541,225",,,,,CRNX
-1,,2022-04-06 19:08:05,2022-04-04,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$23.97,-9000,116509,-7%,"-$215,762",,,,,CRNX
-2,M,2022-04-01 17:39:05,2022-03-31,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$21.43,-8328,125509,-6%,"-$178,475",,,,,CRNX
-3,,2022-03-17 16:33:06,2022-03-15,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$18.94,-3123,133837,-2%,"-$59,150",,,,,CRNX
-4,D,2022-03-02 21:00:35,2022-03-01,CRNX,Madan Ajay,Chief Development Officer,S - Sale+OE,$19.88,-9000,176995,-5%,"-$178,920",,,,,CRNX
+0,D,2022-03-02 21:00:50,2022-02-28,CRNX,Struthers Richard Scott,"Pres, CEO",A - Grant,$0.00,53400,1219205,+5%,+$0,,,,,CRNX
+1,D,2022-03-02 21:00:47,2022-02-28,CRNX,Knight Jeff E.,COO,A - Grant,$0.00,4950,4950,New,+$0,,,,,CRNX
+2,D,2022-03-02 21:00:41,2022-02-28,CRNX,Wilson Marc,CFO,A - Grant,$0.00,19500,81618,+31%,+$0,,,,,CRNX
+3,D,2022-03-02 21:00:35,2022-03-01,CRNX,Madan Ajay,Chief Development Officer,S - Sale+OE,$19.88,-9000,176995,-5%,"-$178,920",,,,,CRNX
+4,D,2022-03-02 21:00:35,2022-02-28,CRNX,Madan Ajay,Chief Development Officer,A - Grant,$0.00,13950,176995,+9%,+$0,,,,,CRNX
 5,D,2022-03-02 21:00:31,2022-03-01,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale+OE,$19.73,-3123,136960,-2%,"-$61,617",,,,,CRNX
-6,,2022-02-17 16:34:58,2022-02-15,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$18.64,-3123,123583,-2%,"-$58,213",,,,,CRNX
-7,,2022-02-09 17:00:20,2022-02-07,CRNX,Madan Ajay,Chief Development Officer,S - Sale,$17.83,-13411,172045,-7%,"-$239,085",,,,,CRNX
-8,,2022-02-03 16:30:39,2022-02-01,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$18.79,-3123,126706,-2%,"-$58,681",,,,,CRNX
-9,D,2022-01-21 16:54:05,2022-01-19,CRNX,Krasner Alan Seth,Chief Medical Officer,S - Sale+OE,$21.21,-6700,8311,-45%,"-$142,080",,,,,CRNX
-10,,2022-01-20 16:47:53,2022-01-18,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$23.29,-4168,128875,-3%,"-$97,073",,,,,CRNX
-11,,2022-01-06 16:37:22,2022-01-03,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$28.02,-7168,133043,-5%,"-$200,847",,,,,CRNX
-12,,2021-12-30 19:19:38,2021-12-28,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$27.95,-3000,140211,-2%,"-$83,852",,,,,CRNX
-13,,2021-12-17 16:28:44,2021-12-15,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$24.14,-5668,143211,-4%,"-$136,826",,,,,CRNX
-14,,2021-12-03 16:36:33,2021-12-01,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$27.38,-5668,148879,-4%,"-$155,190",,,,,CRNX
-15,M,2021-11-17 17:01:06,2021-11-15,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$27.01,-7168,154547,-4%,"-$193,574",,,,,CRNX
-16,M,2021-11-09 17:44:59,2021-11-05,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$28.06,-16500,161715,-9%,"-$463,041",,,,,CRNX
-17,,2021-11-03 16:57:15,2021-11-01,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$24.79,-5668,178215,-3%,"-$140,510",,,,,CRNX
-18,D,2021-11-03 16:55:44,2021-11-01,CRNX,Fust Matthew K,Dir,S - Sale+OE,$25.50,-8954,12536,-42%,"-$228,327",,,,,CRNX
-19,,2021-10-28 17:00:25,2021-10-27,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$24.00,-3000,183883,-2%,"-$71,991",,,,,CRNX
-20,,2021-10-25 16:28:18,2021-10-21,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$21.10,-1042,186883,-1%,"-$21,984",,,,,CRNX
-21,,2021-10-25 14:47:16,2021-10-25,CRNX,Perceptive Advisors LLC,10%,P - Purchase,$19.80,1200000,5163517,+30%,"+$23,760,000",,,,,CRNX
-22,D,2021-09-09 17:00:37,2021-09-08,CRNX,Fust Matthew K,Dir,S - Sale+OE,$25.50,-6046,12536,-33%,"-$154,173",,,,,CRNX
-23,,2021-09-09 17:00:31,2021-09-07,CRNX,Struthers Richard Scott,"Pres, CEO",S - Sale,$25.00,-30000,1165805,-3%,"-$750,000",,,,,CRNX
-24,D,2021-07-27 20:00:21,2021-07-26,CRNX,Fust Matthew K,Dir,S - Sale+OE,$19.59,-5000,12536,-29%,"-$97,950",,,,,CRNX
-25,D,2021-07-20 17:00:32,2021-07-19,CRNX,Fust Matthew K,Dir,S - Sale+OE,$19.50,-5000,12536,-29%,"-$97,500",,,,,CRNX
-26,D,2021-07-13 17:00:31,2021-07-12,CRNX,Fust Matthew K,Dir,S - Sale+OE,$20.71,-5000,12536,-29%,"-$103,550",,,,,CRNX
-27,,2021-04-09 09:00:30,2021-04-08,CRNX,Perceptive Advisors LLC,10%,P - Purchase,$16.44,304136,3963517,+8%,"+$4,999,996",,,,,CRNX
-28,M,2020-12-04 16:59:53,2020-12-02,CRNX,Struthers Richard Scott,"Pres, CEO",P - Purchase,$13.00,5000,1195805,0%,"+$65,000",,,,,CRNX
-29,M,2020-07-17 17:05:14,2020-07-15,CRNX,Struthers Richard Scott,"Pres, CEO",S - Sale,$14.88,-35000,1190805,-3%,"-$520,830",,,,,CRNX
-30,,2020-04-20 08:30:36,2020-04-17,CRNX,Perceptive Advisors LLC,10%,P - Purchase,$14.00,1071428,3659381,+41%,"+$14,999,992",,,,,CRNX
-31,M,2020-04-17 18:38:45,2020-04-15,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$15.45,-330598,298625,-53%,"-$5,106,752",,,,,CRNX
-32,M,2020-04-07 19:27:40,2020-04-03,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$13.81,-306115,338738,-47%,"-$4,226,833",,,,,CRNX
-33,,2020-03-11 17:12:05,2020-03-09,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$19.50,-528,168165,0%,"-$10,296",,,,,CRNX
-34,M,2020-02-11 20:00:51,2020-02-07,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$21.66,-13460,168298,-7%,"-$291,587",,,,,CRNX
-35,,2020-02-06 19:22:54,2020-02-04,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$22.80,-13460,178816,-7%,"-$306,888",,,,,CRNX
-36,M,2020-01-31 20:00:42,2020-01-29,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$22.07,-26920,189335,-12%,"-$594,164",,,,,CRNX
-37,D,2019-12-18 18:32:51,2019-12-16,CRNX,Fust Matthew K,Dir,S - Sale+OE,$22.50,-3500,12536,-22%,"-$78,750",,,,,CRNX
-38,,2019-06-25 19:03:23,2019-06-21,CRNX,"5Am Ventures Iv, L.P.",Former 10% holder,S - Sale,$22.20,-250000,94489,-73%,"-$5,550,000",,,,,CRNX
-39,,2019-03-25 06:04:38,2019-03-20,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$22.25,-417000,210373,-66%,"-$9,278,250",,,,,CRNX
-40,,2019-03-20 16:48:43,2019-03-18,CRNX,"5Am Ventures Iv, L.P.",10%,S - Sale,$24.25,-154839,104489,-60%,"-$3,754,954",,,,,CRNX
-41,,2019-01-24 19:01:54,2019-01-22,CRNX,"5Am Ventures Iv, L.P.",10%,S - Sale,$21.88,-262153,129483,-67%,"-$5,734,597",,,,,CRNX
-42,ADM,2018-08-27 18:12:28,2018-07-18,CRNX,Perceptive Advisors LLC,"Dir, 10%",P - Purchase,$18.87,707648,2587953,+38%,"+$13,352,902",,,,,CRNX
-43,D,2018-07-20 19:02:15,2018-07-20,CRNX,"5Am Ventures Iv, L.P.",10%,P - Purchase,$17.00,115000,139969,+461%,"+$1,955,000",,,,,CRNX
-44,D,2018-07-20 17:19:19,2018-07-20,CRNX,Perceptive Advisors LLC,"Dir, 10%",P - Purchase,$17.00,400000,2280305,+21%,"+$6,800,000",,,,,CRNX
-45,D,2018-07-20 16:50:19,2018-07-20,CRNX,"Vivo Capital Viii, LLC",10%,P - Purchase,$18.62,353180,294357,-600%,"+$6,575,421",,,,,CRNX
-46,,2018-07-20 16:06:25,2018-07-20,CRNX,Krasner Alan Seth,Chief Medical Officer,P - Purchase,$17.00,2000,2000,New,"+$34,000",,,,,CRNX
+6,D,2022-03-02 21:00:31,2022-02-28,CRNX,Betz Stephen F.,Chief Scientific Officer,A - Grant,$0.00,16500,136960,+14%,+$0,,,,,CRNX
+7,D,2022-03-02 21:00:25,2022-02-28,CRNX,Krasner Alan Seth,Chief Medical Officer,A - Grant,$0.00,14250,22561,+171%,+$0,,,,,CRNX
+8,,2022-02-17 16:34:58,2022-02-15,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$18.64,-3123,123583,-2%,"-$58,213",,,,,CRNX
+9,,2022-02-09 17:00:20,2022-02-07,CRNX,Madan Ajay,Chief Development Officer,S - Sale,$17.83,-13411,172045,-7%,"-$239,085",,,,,CRNX
+10,,2022-02-03 16:30:39,2022-02-01,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$18.79,-3123,126706,-2%,"-$58,681",,,,,CRNX
+11,D,2022-01-21 16:54:05,2022-01-19,CRNX,Krasner Alan Seth,Chief Medical Officer,S - Sale+OE,$21.21,-6700,8311,-45%,"-$142,080",,,,,CRNX
+12,D,2022-01-21 16:54:05,2022-01-19,CRNX,Krasner Alan Seth,Chief Medical Officer,M - OptEx,$12.01,6700,8311,+416%,"+$80,467",,,,,CRNX
+13,,2022-01-20 16:47:53,2022-01-18,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$23.29,-4168,128875,-3%,"-$97,073",,,,,CRNX
+14,,2022-01-06 16:37:22,2022-01-03,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$28.02,-7168,133043,-5%,"-$200,847",,,,,CRNX
+15,,2021-12-30 19:19:38,2021-12-28,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$27.95,-3000,140211,-2%,"-$83,852",,,,,CRNX
+16,,2021-12-17 16:28:44,2021-12-15,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$24.14,-5668,143211,-4%,"-$136,826",,,,,CRNX
+17,,2021-12-03 16:36:33,2021-12-01,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$27.38,-5668,148879,-4%,"-$155,190",,,,,CRNX
+18,M,2021-11-17 17:01:06,2021-11-15,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$27.01,-7168,154547,-4%,"-$193,574",,,,,CRNX
+19,M,2021-11-09 17:44:59,2021-11-05,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$28.06,-16500,161715,-9%,"-$463,041",,,,,CRNX
+20,,2021-11-03 16:57:15,2021-11-01,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$24.79,-5668,178215,-3%,"-$140,510",,,,,CRNX
+21,D,2021-11-03 16:55:44,2021-11-01,CRNX,Fust Matthew K,Dir,S - Sale+OE,$25.50,-8954,12536,-42%,"-$228,327",,,,,CRNX
+22,D,2021-11-03 16:55:44,2021-11-01,CRNX,Fust Matthew K,Dir,M - OptEx,$1.91,8954,12536,+250%,"+$17,102",,,,,CRNX
+23,D,2021-11-01 19:11:16,2021-10-28,CRNX,Madan Ajay,Chief Development Officer,M - OptEx,$0.73,106383,184671,+136%,"+$77,660",,,,,CRNX
+24,,2021-10-28 17:00:25,2021-10-27,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$24.00,-3000,183883,-2%,"-$71,991",,,,,CRNX
+25,,2021-10-25 16:28:18,2021-10-21,CRNX,Betz Stephen F.,Chief Scientific Officer,S - Sale,$21.10,-1042,186883,-1%,"-$21,984",,,,,CRNX
+26,,2021-10-25 14:47:16,2021-10-25,CRNX,Perceptive Advisors LLC,10%,P - Purchase,$19.80,1200000,5163517,+30%,"+$23,760,000",,,,,CRNX
+27,D,2021-09-09 17:00:37,2021-09-08,CRNX,Fust Matthew K,Dir,S - Sale+OE,$25.50,-6046,12536,-33%,"-$154,173",,,,,CRNX
+28,D,2021-09-09 17:00:37,2021-09-08,CRNX,Fust Matthew K,Dir,M - OptEx,$1.91,6046,12536,+93%,"+$11,548",,,,,CRNX
+29,,2021-09-09 17:00:31,2021-09-07,CRNX,Struthers Richard Scott,"Pres, CEO",S - Sale,$25.00,-30000,1165805,-3%,"-$750,000",,,,,CRNX
+30,D,2021-07-27 20:00:21,2021-07-26,CRNX,Fust Matthew K,Dir,S - Sale+OE,$19.59,-5000,12536,-29%,"-$97,950",,,,,CRNX
+31,D,2021-07-27 20:00:21,2021-07-26,CRNX,Fust Matthew K,Dir,M - OptEx,$1.91,5000,12536,+66%,"+$9,550",,,,,CRNX
+32,D,2021-07-20 17:00:32,2021-07-19,CRNX,Fust Matthew K,Dir,S - Sale+OE,$19.50,-5000,12536,-29%,"-$97,500",,,,,CRNX
+33,D,2021-07-20 17:00:32,2021-07-19,CRNX,Fust Matthew K,Dir,M - OptEx,$1.91,5000,12536,+66%,"+$9,550",,,,,CRNX
+34,D,2021-07-13 17:00:31,2021-07-12,CRNX,Fust Matthew K,Dir,S - Sale+OE,$20.71,-5000,12536,-29%,"-$103,550",,,,,CRNX
+35,D,2021-07-13 17:00:31,2021-07-12,CRNX,Fust Matthew K,Dir,M - OptEx,$1.91,5000,12536,+66%,"+$9,550",,,,,CRNX
+36,,2021-04-09 09:00:30,2021-04-08,CRNX,Perceptive Advisors LLC,10%,P - Purchase,$16.44,304136,3963517,+8%,"+$4,999,996",,,,,CRNX
+37,M,2020-12-04 16:59:53,2020-12-02,CRNX,Struthers Richard Scott,"Pres, CEO",P - Purchase,$13.00,5000,1195805,0%,"+$65,000",,,,,CRNX
+38,M,2020-07-17 17:05:14,2020-07-15,CRNX,Struthers Richard Scott,"Pres, CEO",S - Sale,$14.88,-35000,1190805,-3%,"-$520,830",,,,,CRNX
+39,D,2020-04-29 17:01:32,2020-04-28,CRNX,Wierenga Wendall,Dir,M - OptEx,$0.73,25329,99846,+34%,"+$18,490",,,,,CRNX
+40,,2020-04-20 08:30:36,2020-04-17,CRNX,Perceptive Advisors LLC,10%,P - Purchase,$14.00,1071428,3659381,+41%,"+$14,999,992",,,,,CRNX
+41,M,2020-04-17 18:38:45,2020-04-15,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$15.45,-330598,298625,-53%,"-$5,106,752",,,,,CRNX
+42,M,2020-04-07 19:27:40,2020-04-03,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$13.81,-306115,338738,-47%,"-$4,226,833",,,,,CRNX
+43,,2020-03-11 17:12:05,2020-03-09,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$19.50,-528,168165,0%,"-$10,296",,,,,CRNX
+44,M,2020-02-11 20:00:51,2020-02-07,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$21.66,-13460,168298,-7%,"-$291,587",,,,,CRNX
+45,,2020-02-06 19:22:54,2020-02-04,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$22.80,-13460,178816,-7%,"-$306,888",,,,,CRNX
+46,M,2020-01-31 20:00:42,2020-01-29,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$22.07,-26920,189335,-12%,"-$594,164",,,,,CRNX
+47,D,2019-12-18 18:32:51,2019-12-16,CRNX,Fust Matthew K,Dir,M - OptEx,$1.91,3500,12536,+39%,"+$6,685",,,,,CRNX
+48,D,2019-12-18 18:32:51,2019-12-16,CRNX,Fust Matthew K,Dir,S - Sale+OE,$22.50,-3500,12536,-22%,"-$78,750",,,,,CRNX
+49,D,2019-08-07 19:31:33,2019-08-05,CRNX,Struthers Richard Scott,"Pres, CEO",M - OptEx,$1.91,10000,1225805,+1%,"+$19,100",,,,,CRNX
+50,D,2019-08-07 19:31:33,2019-05-08,CRNX,Struthers Richard Scott,"Pres, CEO",G - Gift,$0.00,-2431610,1225805,-202%,-$0,,,,,CRNX
+51,,2019-06-25 19:03:23,2019-06-21,CRNX,"5Am Ventures Iv, L.P.",Former 10% holder,S - Sale,$22.20,-250000,94489,-73%,"-$5,550,000",,,,,CRNX
+52,,2019-03-25 06:04:38,2019-03-20,CRNX,"Vivo Capital Viii, LLC",10%,S - Sale,$22.25,-417000,210373,-66%,"-$9,278,250",,,,,CRNX
+53,,2019-03-20 16:48:43,2019-03-18,CRNX,"5Am Ventures Iv, L.P.",10%,S - Sale,$24.25,-154839,104489,-60%,"-$3,754,954",,,,,CRNX
+54,,2019-01-24 19:01:54,2019-01-22,CRNX,"5Am Ventures Iv, L.P.",10%,S - Sale,$21.88,-262153,129483,-67%,"-$5,734,597",,,,,CRNX
+55,ADM,2018-08-27 18:12:28,2018-07-18,CRNX,Perceptive Advisors LLC,"Dir, 10%",P - Purchase,$18.87,707648,2587953,+38%,"+$13,352,902",,,,,CRNX
+56,AD,2018-08-27 18:12:28,2018-07-20,CRNX,Perceptive Advisors LLC,"Dir, 10%",C - Converted deriv,$0.00,1880305,2587953,-42%,$0,,,,,CRNX
+57,D,2018-07-20 19:02:15,2018-07-20,CRNX,"5Am Ventures Iv, L.P.",10%,P - Purchase,$17.00,115000,139969,+461%,"+$1,955,000",,,,,CRNX
+58,D,2018-07-20 19:02:15,2018-07-20,CRNX,"5Am Ventures Iv, L.P.",10%,C - Converted deriv,$0.00,3384278,139969,-96%,$0,,,,,CRNX
+59,D,2018-07-20 17:19:19,2018-07-20,CRNX,Perceptive Advisors LLC,"Dir, 10%",P - Purchase,$17.00,400000,2280305,+21%,"+$6,800,000",,,,,CRNX
+60,D,2018-07-20 17:19:19,2018-07-20,CRNX,Perceptive Advisors LLC,"Dir, 10%",C - Converted deriv,$0.00,1880305,2280305,-45%,$0,,,,,CRNX
+61,D,2018-07-20 16:50:19,2018-07-20,CRNX,"Vivo Capital Viii, LLC",10%,P - Purchase,$18.62,353180,294357,-600%,"+$6,575,421",,,,,CRNX
+62,D,2018-07-20 16:50:19,2018-07-20,CRNX,"Vivo Capital Viii, LLC",10%,C - Converted deriv,$0.00,3384278,294357,-92%,$0,,,,,CRNX
+63,D,2018-07-20 16:34:06,2018-07-20,CRNX,"Versant Venture Capital V, L.P.",10%,C - Converted deriv,$0.00,3384276,226025,-94%,$0,,,,,CRNX
+64,,2018-07-20 16:06:25,2018-07-20,CRNX,Krasner Alan Seth,Chief Medical Officer,P - Purchase,$17.00,2000,2000,New,"+$34,000",,,,,CRNX

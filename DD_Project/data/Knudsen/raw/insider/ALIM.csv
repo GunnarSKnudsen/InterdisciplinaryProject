@@ -1,20 +1,307 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,,2022-02-10 21:11:11,2022-02-08,ALIM,Morgan Stanley,10%,S - Sale,$4.55,-250000,557551,-31%,"-$1,137,500",,,,,ALIM
-1,,2021-12-16 07:36:32,2021-12-15,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.50,484,110518,0%,"+$2,177",,,,,ALIM
-2,,2021-12-07 10:33:53,2021-12-03,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.80,5000,110034,+5%,"+$23,981",,,,,ALIM
-3,,2021-12-06 11:24:09,2021-12-02,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.89,5000,105034,+5%,"+$24,428",,,,,ALIM
-4,M,2021-11-08 16:01:36,2021-11-04,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.54,11486,100034,+13%,"+$52,146",,,,,ALIM
-5,D,2021-11-04 20:09:49,2021-11-03,ALIM,Largent James R,Dir,P - Purchase,$4.31,10000,13000,+333%,"+$43,090",,,,,ALIM
-6,,2021-11-04 16:50:56,2021-11-03,ALIM,Jones John Philip,CFO,P - Purchase,$4.08,5000,24965,+25%,"+$20,399",,,,,ALIM
-7,,2021-11-04 16:43:21,2021-11-03,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.45,28005,88548,+46%,"+$124,745",,,,,ALIM
-8,,2021-11-04 16:31:16,2021-11-03,ALIM,Holland David,"CMO, SVP",P - Purchase,$4.08,5000,31130,+19%,"+$20,392",,,,,ALIM
-9,,2021-04-12 16:56:40,2021-04-08,ALIM,Ashman Philip,"COO, SVP",S - Sale,$9.62,-45,19379,0%,-$433,,,,,ALIM
-10,,2020-11-05 14:46:36,2020-11-04,ALIM,Ashman Philip,"COO, SVP",P - Purchase,$4.50,1316,11957,+12%,"+$5,922",,,,,ALIM
-11,,2020-11-04 16:53:14,2020-11-02,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.15,2500,42043,+6%,"+$10,377",,,,,ALIM
-12,,2020-08-24 16:25:54,2020-08-20,ALIM,Myers C. Daniel,Dir,S - Sale,$6.73,-5000,5578,-47%,"-$33,650",,,,,ALIM
-13,,2019-12-11 16:20:58,2019-12-10,ALIM,Jones John Philip,CFO,P - Purchase,$9.29,1000,9536,+12%,"+$9,294",,,,,ALIM
-14,,2019-11-25 16:17:21,2019-11-21,ALIM,Snisarenko John,Dir,P - Purchase,$4.95,10000,10000,New,"+$49,500",,,,,ALIM
-15,,2019-11-20 17:19:29,2019-11-19,ALIM,Largent James R,Dir,P - Purchase,$5.11,3000,3000,New,"+$15,344",,,,,ALIM
-16,A,2019-11-19 16:20:36,2019-11-01,ALIM,Jones John Philip,CFO,P - Purchase,$0.30,10000,124590,+9%,"+$3,008",,,,,ALIM
-17,A,2019-11-19 16:18:16,2019-11-14,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$0.30,100000,463901,+27%,"+$29,890",,,,,ALIM
-18,,2018-05-07 16:29:46,2018-05-07,ALIM,Eiswirth Richard S Jr,"Pres, CFO",P - Purchase,$1.05,10000,171770,+6%,"+$10,500",,,,,ALIM
+1,,2022-01-12 10:03:33,2022-01-10,ALIM,Ashman Philip,"COO, SVP",F - Tax,$4.65,-1175,33204,-3%,"-$5,464",,,,,ALIM
+2,D,2022-01-06 18:17:03,2022-01-04,ALIM,Holland David,"CMO, SVP",A - Grant,$0.00,8750,39880,+28%,+$0,,,,,ALIM
+3,D,2022-01-06 17:58:36,2022-01-04,ALIM,Ashman Philip,"COO, SVP",A - Grant,$0.00,15000,34379,+77%,+$0,,,,,ALIM
+4,D,2022-01-06 17:27:08,2022-01-04,ALIM,Jones John Philip,CFO,A - Grant,$0.00,8750,31387,+39%,+$0,,,,,ALIM
+5,D,2022-01-06 16:23:04,2022-01-04,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$0.00,25000,135518,+23%,+$0,,,,,ALIM
+6,,2021-12-16 07:36:32,2021-12-15,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.50,484,110518,0%,"+$2,177",,,,,ALIM
+7,,2021-12-07 10:33:53,2021-12-03,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.80,5000,110034,+5%,"+$23,981",,,,,ALIM
+8,,2021-12-06 11:24:09,2021-12-02,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.89,5000,105034,+5%,"+$24,428",,,,,ALIM
+9,M,2021-11-08 16:01:36,2021-11-04,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.54,11486,100034,+13%,"+$52,146",,,,,ALIM
+10,D,2021-11-04 20:09:49,2021-11-03,ALIM,Largent James R,Dir,P - Purchase,$4.31,10000,13000,+333%,"+$43,090",,,,,ALIM
+11,,2021-11-04 16:50:56,2021-11-03,ALIM,Jones John Philip,CFO,P - Purchase,$4.08,5000,24965,+25%,"+$20,399",,,,,ALIM
+12,,2021-11-04 16:43:21,2021-11-03,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.45,28005,88548,+46%,"+$124,745",,,,,ALIM
+13,,2021-11-04 16:31:16,2021-11-03,ALIM,Holland David,"CMO, SVP",P - Purchase,$4.08,5000,31130,+19%,"+$20,392",,,,,ALIM
+14,,2021-11-02 16:58:27,2021-10-29,ALIM,Holland David,"CMO, SVP",A - Grant,$3.76,500,26130,+2%,"+$1,879",,,,,ALIM
+15,,2021-11-02 16:47:24,2021-10-29,ALIM,Jones John Philip,CFO,A - Grant,$3.76,399,19965,+2%,"+$1,499",,,,,ALIM
+16,,2021-11-02 16:37:03,2021-10-29,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$3.76,500,60543,+1%,"+$1,879",,,,,ALIM
+17,,2021-05-04 16:26:33,2021-04-30,ALIM,Holland David,"CMO, SVP",A - Grant,$3.56,500,25630,+2%,"+$1,781",,,,,ALIM
+18,,2021-05-04 16:17:26,2021-04-30,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$3.56,500,60043,+1%,"+$1,781",,,,,ALIM
+19,,2021-05-04 16:12:12,2021-04-30,ALIM,Jones John Philip,CFO,A - Grant,$3.56,421,19566,+2%,"+$1,499",,,,,ALIM
+20,,2021-04-12 16:56:40,2021-04-08,ALIM,Ashman Philip,"COO, SVP",S - Sale,$9.62,-45,19379,0%,-$433,,,,,ALIM
+21,,2021-03-10 16:18:50,2021-03-09,ALIM,Jones John Philip,CFO,F - Tax,$7.64,-1164,19145,-6%,"-$8,893",,,,,ALIM
+22,,2021-03-10 16:10:30,2021-03-08,ALIM,Holland David,"COO, SVP",F - Tax,$7.42,-1935,25130,-7%,"-$14,348",,,,,ALIM
+23,,2021-03-08 17:31:45,2021-03-04,ALIM,Ashman Philip,"COO, SVP",F - Tax,$7.77,-2533,19424,-12%,"-$19,681",,,,,ALIM
+24,D,2021-01-11 17:16:32,2021-01-07,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$0.00,17500,59543,+42%,+$0,,,,,ALIM
+25,D,2021-01-11 17:02:08,2021-01-07,ALIM,Jones John Philip,CFO,A - Grant,$0.00,5625,17981,+46%,+$0,,,,,ALIM
+26,D,2021-01-11 16:45:15,2021-01-07,ALIM,Ashman Philip,"COO, SVP",A - Grant,$0.00,10000,21957,+84%,+$0,,,,,ALIM
+27,D,2021-01-11 16:34:38,2021-01-07,ALIM,Kaba Samer,Chief Medical Officer,A - Grant,$0.00,6250,14929,+72%,+$0,,,,,ALIM
+28,D,2021-01-11 16:22:03,2021-01-07,ALIM,Holland David,"CMO, SVP",A - Grant,$0.00,5625,27065,+26%,+$0,,,,,ALIM
+29,,2020-11-05 14:46:36,2020-11-04,ALIM,Ashman Philip,"COO, SVP",P - Purchase,$4.50,1316,11957,+12%,"+$5,922",,,,,ALIM
+30,,2020-11-04 16:53:14,2020-11-02,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$4.15,2500,42043,+6%,"+$10,377",,,,,ALIM
+31,,2020-11-03 09:57:39,2020-10-30,ALIM,Jones John Philip,CFO,A - Grant,$3.56,421,12356,+4%,"+$1,499",,,,,ALIM
+32,,2020-11-03 09:53:04,2020-10-30,ALIM,Holland David,"CMO, SVP",A - Grant,$3.56,500,21440,+2%,"+$1,781",,,,,ALIM
+33,,2020-11-03 09:47:32,2020-10-30,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$3.56,500,39543,+1%,"+$1,781",,,,,ALIM
+34,,2020-08-24 16:25:54,2020-08-20,ALIM,Myers C. Daniel,Dir,S - Sale,$6.73,-5000,5578,-47%,"-$33,650",,,,,ALIM
+35,,2020-05-01 12:24:32,2020-04-30,ALIM,Holland David,"CMO, SVP",A - Grant,$3.61,167,20940,+1%,+$603,,,,,ALIM
+36,,2020-05-01 12:22:29,2020-04-30,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$3.61,167,39043,0%,+$603,,,,,ALIM
+37,,2020-05-01 12:21:01,2020-04-30,ALIM,Jones John Philip,CFO,A - Grant,$3.61,167,11935,+1%,+$603,,,,,ALIM
+38,,2020-03-19 16:56:16,2020-03-18,ALIM,Ashman Philip,"COO, SVP",A - Grant,$0.00,5389,10641,+103%,+$0,,,,,ALIM
+39,,2020-03-19 16:52:26,2020-03-18,ALIM,Jones John Philip,CFO,A - Grant,$0.00,3958,11768,+51%,+$0,,,,,ALIM
+40,,2020-03-19 16:51:31,2020-03-18,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$0.00,10884,38876,+39%,+$0,,,,,ALIM
+41,,2020-03-19 16:49:50,2020-03-18,ALIM,Holland David,"CMO, SVP",A - Grant,$0.00,5172,20773,+33%,+$0,,,,,ALIM
+42,,2020-03-19 16:48:31,2020-03-18,ALIM,Kaba Samer,Chief Medical Officer,A - Grant,$0.00,4683,8679,+117%,+$0,,,,,ALIM
+43,M,2020-03-11 16:10:25,2020-03-09,ALIM,Kaba Samer,Chief Medical Officer,F - Tax,$5.88,-1676,3996,-30%,"-$9,854",,,,,ALIM
+44,M,2020-03-09 16:19:54,2020-03-05,ALIM,Eiswirth Richard S Jr,"Pres, CEO",F - Tax,$6.52,-3916,27992,-12%,"-$25,532",,,,,ALIM
+45,M,2020-03-05 16:08:02,2020-03-03,ALIM,Holland David,"CMO, SVP",F - Tax,$6.50,-2540,15601,-14%,"-$16,497",,,,,ALIM
+46,M,2020-03-03 16:31:58,2020-02-28,ALIM,Jones John Philip,CFO,F - Tax,$6.60,-1876,7810,-19%,"-$12,382",,,,,ALIM
+47,M,2020-03-03 16:30:26,2020-02-28,ALIM,Ashman Philip,"COO, SVP",F - Tax,$6.60,-2894,5252,-36%,"-$19,100",,,,,ALIM
+48,,2020-01-02 16:22:23,2019-12-31,ALIM,Jones John Philip,CFO,A - Grant,$7.58,78,9686,+1%,+$591,,,,,ALIM
+49,,2020-01-02 16:21:27,2019-12-31,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$7.58,202,31908,+1%,"+$1,531",,,,,ALIM
+50,,2020-01-02 16:20:31,2019-12-31,ALIM,Kaba Samer,Chief Medical Officer,A - Grant,$7.58,93,5672,+2%,+$705,,,,,ALIM
+51,,2020-01-02 16:19:39,2019-12-31,ALIM,Holland David,"CMO, SVP",A - Grant,$7.58,106,18141,+1%,+$803,,,,,ALIM
+52,,2019-12-16 16:51:38,2019-12-13,ALIM,Jones John Philip,CFO,A - Grant,$8.24,72,9608,+1%,+$593,,,,,ALIM
+53,,2019-12-16 16:49:20,2019-12-13,ALIM,Holland David,"CMO, SVP",A - Grant,$8.24,98,18035,+1%,+$808,,,,,ALIM
+54,,2019-12-16 16:47:39,2019-12-13,ALIM,Kaba Samer,Chief Medical Officer,A - Grant,$8.24,86,5579,+2%,+$709,,,,,ALIM
+55,,2019-12-16 16:46:38,2019-12-13,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$8.24,186,31706,+1%,"+$1,533",,,,,ALIM
+56,,2019-12-11 16:20:58,2019-12-10,ALIM,Jones John Philip,CFO,P - Purchase,$9.29,1000,9536,+12%,"+$9,294",,,,,ALIM
+57,,2019-12-02 16:18:55,2019-11-29,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$5.66,271,31520,+1%,"+$1,534",,,,,ALIM
+58,,2019-12-02 16:17:36,2019-11-29,ALIM,Holland David,"CMO, SVP",A - Grant,$5.66,142,17937,+1%,+$804,,,,,ALIM
+59,,2019-12-02 16:16:20,2019-11-29,ALIM,Kaba Samer,Chief Medical Officer,A - Grant,$5.66,126,5493,+2%,+$713,,,,,ALIM
+60,,2019-12-02 16:15:13,2019-11-29,ALIM,Jones John Philip,CFO,A - Grant,$5.66,105,8536,+1%,+$594,,,,,ALIM
+61,,2019-11-25 16:17:21,2019-11-21,ALIM,Snisarenko John,Dir,P - Purchase,$4.95,10000,10000,New,"+$49,500",,,,,ALIM
+62,,2019-11-20 17:19:29,2019-11-19,ALIM,Largent James R,Dir,P - Purchase,$5.11,3000,3000,New,"+$15,344",,,,,ALIM
+63,,2019-11-19 16:30:51,2019-11-15,ALIM,Kaba Samer,Chief Medical Officer,A - Grant,$4.75,149,5367,+3%,+$708,,,,,ALIM
+64,,2019-11-19 16:29:45,2019-11-15,ALIM,Holland David,"CMO, SVP",A - Grant,$4.75,170,17795,+1%,+$808,,,,,ALIM
+65,,2019-11-19 16:28:06,2019-11-15,ALIM,Jones John Philip,CFO,A - Grant,$4.75,125,8431,+2%,+$594,,,,,ALIM
+66,,2019-11-19 16:22:16,2019-11-15,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$4.75,323,31249,+1%,"+$1,534",,,,,ALIM
+67,A,2019-11-19 16:20:36,2019-11-01,ALIM,Jones John Philip,CFO,P - Purchase,$0.30,10000,124590,+9%,"+$3,008",,,,,ALIM
+68,A,2019-11-19 16:18:16,2019-11-14,ALIM,Eiswirth Richard S Jr,"Pres, CEO",P - Purchase,$0.30,100000,463901,+27%,"+$29,890",,,,,ALIM
+69,,2019-11-14 17:30:56,2019-11-14,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$0.30,100000,463901,+27%,"+$29,890",,,,,ALIM
+70,,2019-11-04 08:58:42,2019-10-31,ALIM,Kaba Samer,Chief Medical Officer,A - Grant,$0.28,2513,78277,+3%,+$712,,,,,ALIM
+71,M,2019-11-04 08:58:23,2019-10-31,ALIM,Jones John Philip,CFO,A - Grant,$0.29,14604,124590,+13%,"+$4,207",,,,,ALIM
+72,,2019-11-04 08:58:03,2019-10-31,ALIM,Holland David,"CMO, SVP",A - Grant,$0.26,5350,264379,+2%,"+$1,410",,,,,ALIM
+73,,2019-11-04 08:57:43,2019-10-31,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$0.27,7919,363901,+2%,"+$2,138",,,,,ALIM
+74,,2019-10-16 16:42:31,2019-10-15,ALIM,Holland David,"CMO, SVP",A - Grant,$0.40,2020,259029,+1%,+$808,,,,,ALIM
+75,,2019-10-16 16:35:50,2019-10-15,ALIM,Jones John Philip,CFO,A - Grant,$0.40,1490,109986,+1%,+$596,,,,,ALIM
+76,,2019-10-16 16:33:27,2019-10-15,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$0.40,3839,355982,+1%,"+$1,536",,,,,ALIM
+77,,2019-10-16 16:31:03,2019-10-15,ALIM,Kaba Samer,Chief Medical Officer,A - Grant,$0.40,1779,75764,+2%,+$712,,,,,ALIM
+78,,2019-10-02 16:30:30,2019-09-30,ALIM,Holland David,"CMO, SVP",A - Grant,$0.57,1417,257009,+1%,+$808,,,,,ALIM
+79,,2019-10-02 16:28:25,2019-09-30,ALIM,Kaba Samer,Chief Medical Officer,A - Grant,$0.57,1249,73985,+2%,+$712,,,,,ALIM
+80,,2019-10-02 16:25:33,2019-09-30,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$0.57,2694,352143,+1%,"+$1,536",,,,,ALIM
+81,,2019-10-02 16:23:13,2019-09-30,ALIM,Jones John Philip,CFO,A - Grant,$0.57,1046,108496,+1%,+$596,,,,,ALIM
+82,,2019-09-17 17:41:45,2019-09-13,ALIM,Kaba Samer,Chief Medical Officer,A - Grant,$0.41,1736,72736,+2%,+$712,,,,,ALIM
+83,,2019-09-17 17:40:31,2019-09-13,ALIM,Holland David,"CMO, SVP",A - Grant,$0.41,1970,255592,+1%,+$808,,,,,ALIM
+84,,2019-09-17 17:38:54,2019-09-13,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$0.41,3745,349449,+1%,"+$1,535",,,,,ALIM
+85,,2019-09-17 17:37:41,2019-09-13,ALIM,Jones John Philip,CFO,A - Grant,$0.41,1454,107450,+1%,+$596,,,,,ALIM
+86,,2019-05-01 21:14:09,2019-04-30,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$0.82,2500,345704,+1%,"+$2,061",,,,,ALIM
+87,,2019-05-01 21:13:31,2019-04-30,ALIM,Jones John Philip,CFO,A - Grant,$0.82,1633,110229,+2%,"+$1,346",,,,,ALIM
+88,M,2019-02-08 17:25:56,2019-02-06,ALIM,Eiswirth Richard S Jr,"Pres, CEO",F - Tax,$0.96,-29666,142104,-17%,"-$28,344",,,,,ALIM
+89,M,2019-02-06 16:35:40,2019-02-04,ALIM,Myers C. Daniel,Dir,F - Tax,$0.96,-43932,158676,-22%,"-$42,120",,,,,ALIM
+90,M,2019-02-05 10:36:14,2019-01-31,ALIM,Green Kenneth,Chief Scientific Officer,F - Tax,$0.89,-21630,210104,-9%,"-$19,293",,,,,ALIM
+91,M,2019-01-31 16:58:38,2019-01-29,ALIM,Ashman Philip,"COO, SVP",F - Tax,$0.83,-26508,29892,-47%,"-$22,051",,,,,ALIM
+92,M,2019-01-31 16:58:01,2019-01-29,ALIM,Holland David,"CMO, SVP",F - Tax,$0.83,-19966,146022,-12%,"-$16,609",,,,,ALIM
+93,M,2019-01-28 20:00:48,2019-01-24,ALIM,Jones John Philip,CFO,F - Tax,$0.85,-4233,24963,-14%,"-$3,586",,,,,ALIM
+94,D,2019-01-25 17:04:29,2019-01-23,ALIM,Jones John Philip,CFO,A - Grant,$0.00,79400,108596,+272%,+$0,,,,,ALIM
+95,D,2019-01-25 16:55:17,2019-01-23,ALIM,Holland David,"CMO, SVP",A - Grant,$0.00,107600,247600,+77%,+$0,,,,,ALIM
+96,D,2019-01-25 16:43:14,2019-01-23,ALIM,Eiswirth Richard S Jr,"Pres, CEO",A - Grant,$0.00,201100,372870,+117%,+$0,,,,,ALIM
+97,D,2019-01-25 16:30:45,2019-01-23,ALIM,Ashman Philip,"COO, SVP",A - Grant,$0.00,92300,148700,+164%,+$0,,,,,ALIM
+98,M,2019-01-24 20:18:03,2019-01-22,ALIM,Jones John Philip,CFO,F - Tax,$0.83,-2822,29196,-9%,"-$2,338",,,,,ALIM
+99,,2018-05-07 16:29:46,2018-05-07,ALIM,Eiswirth Richard S Jr,"Pres, CFO",P - Purchase,$1.05,10000,171770,+6%,"+$10,500",,,,,ALIM
+100,M,2018-02-09 18:31:41,2018-02-02,ALIM,"Armistice Capital, LLC",10%,P - Purchase,$1.14,20000,13872000,0%,"+$22,800",,,,,ALIM
+101,D,2018-01-25 16:44:45,2018-01-22,ALIM,Myers C. Daniel,CEO,A - Grant,$0.00,124100,199161,+165%,+$0,,,,,ALIM
+102,D,2018-01-25 16:44:28,2018-01-22,ALIM,Holland David,"SVP of Sales, Marketing",A - Grant,$0.00,56400,165988,+51%,+$0,,,,,ALIM
+103,D,2018-01-25 16:44:11,2018-01-22,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",A - Grant,$0.00,61100,231734,+36%,+$0,,,,,ALIM
+104,D,2018-01-25 16:43:54,2018-01-22,ALIM,Eiswirth Richard S Jr,"Pres, CFO",A - Grant,$0.00,83800,161770,+107%,+$0,,,,,ALIM
+105,D,2018-01-25 16:43:38,2018-01-22,ALIM,Ashman Philip,"SVP, EU MD",A - Grant,$0.00,56400,56400,New,+$0,,,,,ALIM
+106,M,2018-01-19 16:40:30,2018-01-18,ALIM,Myers C. Daniel,CEO,S - Sale,$1.20,-52900,75061,-41%,"-$63,379",,,,,ALIM
+107,M,2018-01-19 16:40:13,2018-01-18,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale,$1.20,-25500,109588,-19%,"-$30,552",,,,,ALIM
+108,M,2018-01-19 16:39:56,2018-01-18,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",S - Sale,$1.20,-10638,170634,-6%,"-$12,742",,,,,ALIM
+109,M,2018-01-19 16:39:39,2018-01-18,ALIM,Eiswirth Richard S Jr,"Pres, CFO",S - Sale,$1.20,-13410,77970,-15%,"-$16,063",,,,,ALIM
+110,M,2018-01-19 16:39:22,2018-01-18,ALIM,Ashman Philip,"SVP, EU MD",S - Sale,$1.20,-25500,0,-100%,"-$30,552",,,,,ALIM
+111,M,2018-01-18 16:54:30,2018-01-16,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale,$1.23,-25500,135088,-16%,"-$31,475",,,,,ALIM
+112,M,2018-01-18 16:54:14,2018-01-16,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",S - Sale,$1.23,-11489,181272,-6%,"-$14,181",,,,,ALIM
+113,M,2018-01-18 16:53:56,2018-01-16,ALIM,Ashman Philip,"SVP, EU MD",S - Sale,$1.23,-25500,25500,-50%,"-$31,475",,,,,ALIM
+114,M,2018-01-18 16:53:40,2018-01-16,ALIM,Myers C. Daniel,CEO,S - Sale,$1.23,-52900,127961,-29%,"-$65,294",,,,,ALIM
+115,M,2018-01-18 16:53:23,2018-01-16,ALIM,Eiswirth Richard S Jr,"Pres, CFO",S - Sale,$1.23,-14494,91380,-14%,"-$17,890",,,,,ALIM
+116,,2017-03-13 16:56:30,2017-03-10,ALIM,Myers C. Daniel,CEO,S - Sale,$1.39,-21172,180861,-10%,"-$29,429",-3.0,-4.0,-10.0,,ALIM
+117,D,2017-01-23 17:01:17,2017-01-20,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",A - Grant,$0.00,56200,192761,+41%,+$0,1.0,3.0,8.0,,ALIM
+118,D,2017-01-23 17:00:59,2017-01-20,ALIM,Myers C. Daniel,CEO,A - Grant,$0.00,105800,202033,+110%,+$0,1.0,3.0,8.0,,ALIM
+119,D,2017-01-23 17:00:37,2017-01-20,ALIM,Eiswirth Richard S Jr,"Pres, CFO",A - Grant,$0.00,70900,105874,+203%,+$0,1.0,3.0,8.0,,ALIM
+120,D,2017-01-23 17:00:20,2017-01-20,ALIM,Holland David,"SVP of Sales, Marketing",A - Grant,$0.00,51000,160588,+47%,+$0,1.0,3.0,8.0,,ALIM
+121,D,2017-01-23 17:00:02,2017-01-20,ALIM,Ashman Philip,"SVP, EU MD",A - Grant,$0.00,51000,51000,New,+$0,1.0,3.0,8.0,,ALIM
+122,,2016-12-14 16:30:46,2016-12-12,ALIM,Roberts Calvin W.,Dir,S - Sale,$1.11,-50000,141440,-26%,"-$55,500",0.0,0.0,17.0,,ALIM
+123,D,2016-10-13 16:14:05,2016-10-11,ALIM,Myers C. Daniel,CEO,F - Tax,$1.50,-48898,96233,-34%,"-$73,347",-3.0,-8.0,-19.0,-3.0,ALIM
+124,D,2016-10-13 16:14:05,2016-10-11,ALIM,Myers C. Daniel,CEO,M - OptEx,$1.33,55147,96233,+134%,"+$73,346",-3.0,-8.0,-19.0,-3.0,ALIM
+125,D,2016-10-13 16:13:47,2016-10-11,ALIM,Holland David,"SVP of Sales, Marketing",F - Tax,$1.50,-24801,109588,-18%,"-$37,202",-3.0,-8.0,-19.0,-3.0,ALIM
+126,D,2016-10-13 16:13:47,2016-10-11,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$1.33,27971,109588,+34%,"+$37,201",-3.0,-8.0,-19.0,-3.0,ALIM
+127,D,2016-10-13 16:13:32,2016-10-11,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",M - OptEx,$1.33,44208,136561,+48%,"+$58,797",-3.0,-8.0,-19.0,-3.0,ALIM
+128,D,2016-09-16 16:25:39,2016-09-15,ALIM,Eiswirth Richard S Jr,"Pres, CFO",M - OptEx,$1.33,51471,34974,-312%,"+$68,456",4.0,1.0,-14.0,-5.0,ALIM
+129,D,2016-09-16 16:25:39,2016-09-15,ALIM,Eiswirth Richard S Jr,"Pres, CFO",S - Sale+OE,$1.51,-51471,34974,-60%,"-$77,726",4.0,1.0,-14.0,-5.0,ALIM
+130,M,2016-04-22 20:12:21,2016-04-20,ALIM,"Bavp, L.P.",10%,S - Sale,$2.59,-478673,3998718,-11%,"-$1,239,687",-9.0,-9.0,-46.0,-53.0,ALIM
+131,DM,2015-12-17 16:19:49,2015-12-15,ALIM,Eiswirth Richard S Jr,"COO, CFO",M - OptEx,$1.33,46669,34974,-399%,"+$62,070",-4.0,-11.0,-39.0,-57.0,ALIM
+132,DM,2015-12-17 16:19:49,2015-12-15,ALIM,Eiswirth Richard S Jr,"COO, CFO",S - Sale+OE,$2.31,-46669,34974,-57%,"-$107,919",-4.0,-11.0,-39.0,-57.0,ALIM
+133,D,2015-12-17 16:18:14,2015-12-16,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",M - OptEx,$1.33,44118,92353,+91%,"+$58,677",-4.0,-11.0,-39.0,-57.0,ALIM
+134,M,2015-12-08 18:35:26,2015-12-04,ALIM,Flynn James E,"Possible Member of 10% Group, 10%",P - Purchase,$3.01,272249,5878015,+5%,"+$819,578",-3.0,-22.0,-24.0,-44.0,ALIM
+135,M,2015-12-03 18:14:23,2015-12-01,ALIM,Flynn James E,"Possible Member of 10% Group, 10%",P - Purchase,$3.00,243252,5605766,+5%,"+$729,477",1.0,-1.0,-18.0,-46.0,ALIM
+136,,2015-11-16 16:24:07,2015-10-30,ALIM,Myers C. Daniel,"Pres, CEO",A - Grant,$2.56,989,89984,+1%,"+$2,530",0.0,-1.0,-30.0,-52.0,ALIM
+137,,2015-11-16 16:22:56,2015-10-30,ALIM,Holland David,"SVP of Sales, Marketing",A - Grant,$2.56,2500,106418,+2%,"+$6,396",0.0,-1.0,-30.0,-52.0,ALIM
+138,A,2015-11-16 16:21:23,2015-04-30,ALIM,Eiswirth Richard S Jr,"COO, CFO",A - Grant,$3.71,2500,34974,+8%,"+$9,265",0.0,-1.0,-30.0,-52.0,ALIM
+139,A,2015-11-16 16:19:51,2015-04-30,ALIM,Holland David,"SVP of Sales, Marketing",A - Grant,$3.71,1834,103918,+2%,"+$6,797",0.0,-1.0,-30.0,-52.0,ALIM
+140,A,2015-11-16 16:15:36,2015-04-30,ALIM,Myers C. Daniel,"Pres, CEO",A - Grant,$3.71,678,88995,+1%,"+$2,513",0.0,-1.0,-30.0,-52.0,ALIM
+141,A,2015-11-16 16:15:36,2015-05-01,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$4.37,-2000,88995,-2%,"-$8,740",0.0,-1.0,-30.0,-52.0,ALIM
+142,,2015-11-10 16:12:51,2015-11-06,ALIM,Flynn James E,"Possible Member of 10% Group, 10%",P - Purchase,$2.98,73250,5362514,+1%,"+$218,483",-2.0,-1.0,-9.0,-49.0,ALIM
+143,,2015-11-03 17:22:52,2015-10-30,ALIM,Flynn James E,"Possible Member of 10% Group, 10%",P - Purchase,$3.00,16542,5289264,0%,"+$49,626",0.0,5.0,-5.0,-28.0,ALIM
+144,M,2015-10-29 18:05:45,2015-10-27,ALIM,Flynn James E,"Possible Member of 10% Group, 10%",P - Purchase,$3.00,59342,5272722,+1%,"+$177,763",-2.0,4.0,5.0,-27.0,ALIM
+145,M,2015-10-26 17:48:30,2015-10-22,ALIM,Flynn James E,"Possible Member of 10% Group, 10%",P - Purchase,$3.00,60364,5213380,+1%,"+$181,113",-1.0,-1.0,4.0,-23.0,ALIM
+146,M,2015-10-21 18:55:44,2015-10-19,ALIM,Flynn James E,"Possible Member of 10% Group, 10%",P - Purchase,$2.97,390040,5153016,+8%,"+$1,159,854",1.0,-1.0,8.0,-25.0,ALIM
+147,D,2015-10-16 17:17:54,2015-10-15,ALIM,Eiswirth Richard S Jr,"COO, CFO",M - OptEx,$2.04,13625,34974,+64%,"+$27,795",6.0,7.0,13.0,-31.0,ALIM
+148,D,2015-10-16 17:17:54,2015-10-15,ALIM,Eiswirth Richard S Jr,"COO, CFO",S - Sale+OE,$2.69,-13625,34974,-28%,"-$36,616",6.0,7.0,13.0,-31.0,ALIM
+149,M,2015-10-09 21:39:30,2015-10-07,ALIM,Flynn James E,"Possible Member of 10% Group, 10%",P - Purchase,$2.42,321785,4762976,+7%,"+$779,951",12.0,10.0,25.0,-26.0,ALIM
+150,,2015-09-08 16:28:35,2015-09-03,ALIM,Roberts Calvin W.,Dir,P - Purchase,$3.00,6424,302024,+2%,"+$19,272",-4.0,-4.0,-32.0,-40.0,ALIM
+151,,2015-09-01 16:05:36,2015-08-24,ALIM,Roberts Calvin W.,Dir,P - Purchase,$3.00,8539,295600,+3%,"+$25,617",2.0,-4.0,-27.0,-28.0,ALIM
+152,,2015-08-21 16:03:59,2015-08-21,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",S - Sale,$3.29,-20000,48235,-29%,"-$65,808",-4.0,7.0,-15.0,-23.0,ALIM
+153,,2015-08-19 16:07:06,2015-08-17,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",S - Sale,$3.90,-20000,68235,-23%,"-$78,053",-8.0,-13.0,-20.0,-33.0,ALIM
+154,M,2015-07-23 19:19:59,2015-07-21,ALIM,"Bavp, L.P.",10%,S - Sale,$5.00,-932,4477391,0%,"-$4,660",-1.0,2.0,-27.0,-49.0,ALIM
+155,,2015-06-30 18:24:59,2015-06-26,ALIM,"Bavp, L.P.",10%,S - Sale,$5.00,-1024,4478323,0%,"-$5,120",0.0,-2.0,2.0,-44.0,ALIM
+156,M,2015-06-22 19:48:14,2015-06-18,ALIM,"Bavp, L.P.",10%,S - Sale,$5.00,-5568,4479347,0%,"-$27,840",-1.0,-3.0,0.0,-41.0,ALIM
+157,,2015-05-04 16:30:38,2015-04-30,ALIM,Eiswirth Richard S Jr,"COO, CFO",A - Grant,$3.79,2500,34974,+8%,"+$9,478",0.0,7.0,-2.0,-28.0,ALIM
+158,,2015-05-04 16:30:33,2015-04-30,ALIM,Myers C. Daniel,"Pres, CEO",A - Grant,$3.79,663,88980,+1%,"+$2,513",0.0,7.0,-2.0,-28.0,ALIM
+159,,2015-05-04 16:30:33,2015-05-01,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$4.37,-2000,88980,-2%,"-$8,740",0.0,7.0,-2.0,-28.0,ALIM
+160,,2015-05-04 16:30:15,2015-04-30,ALIM,Holland David,"SVP of Sales, Marketing",A - Grant,$3.79,1793,103877,+2%,"+$6,797",0.0,7.0,-2.0,-28.0,ALIM
+161,M,2015-04-28 19:59:16,2015-04-24,ALIM,"Bavp, L.P.",10%,S - Sale,$5.02,-3114,4484915,0%,"-$15,624",0.0,-7.0,-5.0,-33.0,ALIM
+162,M,2015-04-23 19:59:24,2015-04-21,ALIM,"Bavp, L.P.",10%,S - Sale,$5.00,-4362,4488029,0%,"-$21,828",-1.0,-8.0,-11.0,-41.0,ALIM
+163,M,2015-04-20 18:18:10,2015-04-16,ALIM,"Bavp, L.P.",10%,S - Sale,$5.03,-30300,4492391,-1%,"-$152,541",1.0,0.0,-10.0,-42.0,ALIM
+164,M,2015-04-15 19:14:07,2015-04-13,ALIM,"Bavp, L.P.",10%,S - Sale,$5.03,-35800,4522691,-1%,"-$180,207",0.0,-2.0,-15.0,-43.0,ALIM
+165,,2015-04-03 16:31:17,2015-04-01,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$4.92,-2000,90317,-2%,"-$9,840",-4.0,3.0,-5.0,-53.0,ALIM
+166,,2015-03-09 16:30:52,2015-03-06,ALIM,Eiswirth Richard S Jr,"COO, CFO",P - Purchase,$4.84,10000,32474,+44%,"+$48,400",-1.0,-1.0,-13.0,-40.0,ALIM
+167,,2015-03-03 16:40:31,2015-02-19,ALIM,Myers C. Daniel,"Pres, CEO",G - Gift,$0.00,-2000,92317,-2%,-$0,1.0,-3.0,-3.0,-33.0,ALIM
+168,,2015-03-03 16:40:31,2015-03-02,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$5.21,-2000,92317,-2%,"-$10,420",1.0,-3.0,-3.0,-33.0,ALIM
+169,,2015-02-04 16:31:19,2015-01-07,ALIM,Myers C. Daniel,"Pres, CEO",G - Gift,$0.00,-4500,96317,-4%,-$0,1.0,0.0,-4.0,-6.0,ALIM
+170,,2015-02-04 16:31:19,2015-02-02,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$5.43,-2000,96317,-2%,"-$10,860",1.0,0.0,-4.0,-6.0,ALIM
+171,,2015-01-06 18:10:30,2015-01-02,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$5.51,-2000,102817,-2%,"-$11,020",2.0,2.0,-7.0,-17.0,ALIM
+172,D,2015-01-06 16:30:12,2015-01-02,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$1.33,5000,102084,+5%,"+$6,650",2.0,2.0,-7.0,-17.0,ALIM
+173,D,2015-01-06 16:30:12,2015-01-02,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale+OE,$5.56,-5000,102084,-5%,"-$27,800",2.0,2.0,-7.0,-17.0,ALIM
+174,D,2014-12-10 16:30:48,2014-12-09,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",M - OptEx,$2.04,14706,88235,+20%,"+$30,000",-2.0,-2.0,2.0,-19.0,ALIM
+175,D,2014-12-03 17:58:45,2014-12-01,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$1.33,5000,102084,+5%,"+$6,650",0.0,-1.0,2.0,-24.0,ALIM
+176,D,2014-12-03 17:58:45,2014-12-01,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale+OE,$5.71,-5000,102084,-5%,"-$28,550",0.0,-1.0,2.0,-24.0,ALIM
+177,,2014-12-02 16:30:26,2014-12-01,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$5.99,-2000,104817,-2%,"-$11,980",3.0,3.0,0.0,-20.0,ALIM
+178,,2014-11-05 16:31:48,2014-10-31,ALIM,Myers C. Daniel,"Pres, CEO",A - Grant,$4.85,460,106817,0%,"+$2,229",6.0,8.0,18.0,-7.0,ALIM
+179,,2014-11-05 16:31:48,2014-11-03,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$5.35,-2000,106817,-2%,"-$10,700",6.0,8.0,18.0,-7.0,ALIM
+180,D,2014-11-05 16:31:19,2014-10-31,ALIM,Holland David,"SVP of Sales, Marketing",A - Grant,$4.85,1222,102084,+1%,"+$5,921",6.0,8.0,18.0,-7.0,ALIM
+181,D,2014-11-05 16:31:19,2014-11-03,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$1.33,5000,102084,+5%,"+$6,650",6.0,8.0,18.0,-7.0,ALIM
+182,D,2014-11-05 16:31:19,2014-11-03,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale+OE,$5.34,-5000,102084,-5%,"-$26,700",6.0,8.0,18.0,-7.0,ALIM
+183,M,2014-11-05 16:30:37,2014-04-30,ALIM,Eiswirth Richard S Jr,"COO, CFO",A - Grant,$3.33,5000,22474,+29%,"+$16,660",6.0,8.0,18.0,-7.0,ALIM
+184,M,2014-11-05 16:30:21,2014-04-30,ALIM,Caballa Susan,See Remarks,A - Grant,$2.65,1988,79420,+3%,"+$5,259",6.0,8.0,18.0,-7.0,ALIM
+185,,2014-10-29 18:54:13,2014-10-27,ALIM,"Bavp, L.P.",10%,S - Sale,$6.34,-57918,4558491,-1%,"-$366,934",-1.0,-18.0,-1.0,-29.0,ALIM
+186,D,2014-10-02 18:41:45,2014-10-01,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$1.33,5000,100862,+5%,"+$6,650",-2.0,-1.0,17.0,-10.0,ALIM
+187,D,2014-10-02 18:41:45,2014-10-01,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale+OE,$5.26,-5000,100862,-5%,"-$26,300",-2.0,-1.0,17.0,-10.0,ALIM
+188,,2014-10-02 18:40:29,2014-10-01,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$5.42,-2000,108357,-2%,"-$10,840",-2.0,-1.0,17.0,-10.0,ALIM
+189,M,2014-10-01 21:06:31,2014-09-29,ALIM,Lee Patrick,10%,S - Sale,$5.42,-621191,3013793,-17%,"-$3,369,943",2.0,-4.0,19.0,-5.0,ALIM
+190,D,2014-09-15 16:41:29,2014-09-11,ALIM,"Sofinnova Management Viii, L.L.C.",10%,C - Converted deriv,$2.66,2506270,546290,-82%,"$6,666,678",-4.0,-6.0,-4.0,-7.0,ALIM
+191,M,2014-09-12 18:24:05,2014-09-10,ALIM,"Bavp, L.P.",10%,S - Sale,$6.25,-2816,4616409,0%,"-$17,602",-10.0,-12.0,-15.0,-15.0,ALIM
+192,M,2014-09-04 18:34:56,2014-09-02,ALIM,"Bavp, L.P.",10%,S - Sale,$6.33,-39500,4619225,-1%,"-$250,207",0.0,0.0,-16.0,-20.0,ALIM
+193,D,2014-09-04 16:30:30,2014-09-02,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$1.33,5000,100862,+5%,"+$6,650",0.0,0.0,-16.0,-20.0,ALIM
+194,D,2014-09-04 16:30:30,2014-09-02,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale+OE,$6.19,-5000,100862,-5%,"-$30,950",0.0,0.0,-16.0,-20.0,ALIM
+195,,2014-09-04 16:30:21,2014-09-02,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$6.19,-2000,110357,-2%,"-$12,380",0.0,0.0,-16.0,-20.0,ALIM
+196,M,2014-08-29 18:16:20,2014-08-28,ALIM,"Bavp, L.P.",10%,S - Sale,$6.27,-7400,4658725,0%,"-$46,395",0.0,-2.0,-15.0,-17.0,ALIM
+197,D,2014-08-04 16:30:24,2014-08-01,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$1.33,5000,100862,+5%,"+$6,650",2.0,6.0,18.0,-1.0,ALIM
+198,D,2014-08-04 16:30:24,2014-08-01,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale+OE,$5.64,-5000,100862,-5%,"-$28,200",2.0,6.0,18.0,-1.0,ALIM
+199,DM,2014-07-30 16:30:38,2014-02-11,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",G - Gift,$0.00,-20040,81049,-20%,-$0,-6.0,-12.0,-4.0,-13.0,ALIM
+200,D,2014-07-30 16:30:38,2014-07-28,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",M - OptEx,$2.04,73529,81049,+978%,"+$149,999",-6.0,-12.0,-4.0,-13.0,ALIM
+201,,2014-07-02 20:08:19,2014-06-30,ALIM,"Bavp, L.P.",10%,S - Sale,$6.25,-600,4666125,0%,"-$3,750",2.0,-1.0,-3.0,-8.0,ALIM
+202,D,2014-07-02 16:30:32,2014-07-01,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$1.33,5000,98362,+5%,"+$6,650",2.0,-1.0,-3.0,-8.0,ALIM
+203,D,2014-07-02 16:30:32,2014-07-01,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale+OE,$6.02,-5000,98362,-5%,"-$30,100",2.0,-1.0,-3.0,-8.0,ALIM
+204,,2014-06-10 16:30:18,2014-06-06,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$5.56,-5000,111130,-4%,"-$27,800",2.0,6.0,4.0,4.0,ALIM
+205,D,2014-06-04 16:30:24,2014-06-02,ALIM,Holland David,SVP of Sales,M - OptEx,$1.58,5000,98362,+5%,"+$7,924",5.0,7.0,13.0,6.0,ALIM
+206,D,2014-06-04 16:30:24,2014-06-02,ALIM,Holland David,SVP of Sales,S - Sale+OE,$5.73,-5000,98362,-5%,"-$28,650",5.0,7.0,13.0,6.0,ALIM
+207,M,2014-06-03 21:28:37,2014-04-03,ALIM,"Bavp, L.P.",10%,S - Sale,$6.56,-196369,4666725,-4%,"-$1,288,899",-2.0,3.0,8.0,8.0,ALIM
+208,D,2014-05-02 16:30:20,2014-05-01,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$2.04,5000,98362,+5%,"+$10,200",1.0,-7.0,-3.0,4.0,ALIM
+209,D,2014-05-02 16:30:20,2014-05-01,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale+OE,$5.93,-5000,98362,-5%,"-$29,650",1.0,-7.0,-3.0,4.0,ALIM
+210,D,2014-04-03 16:30:25,2014-04-01,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$2.04,10000,98362,+11%,"+$20,400",-9.0,-8.0,-20.0,-30.0,ALIM
+211,D,2014-04-03 16:30:25,2014-04-01,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale+OE,$8.01,-10000,98362,-9%,"-$80,100",-9.0,-8.0,-20.0,-30.0,ALIM
+212,D,2014-03-05 17:51:30,2014-03-04,ALIM,Myers C. Daniel,"Pres, CEO",M - OptEx,$2.04,22775,116130,+24%,"+$46,461",-2.0,-8.0,10.0,-12.0,ALIM
+213,D,2014-03-05 17:51:30,2014-03-04,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale+OE,$7.10,-22775,116130,-16%,"-$161,703",-2.0,-8.0,10.0,-12.0,ALIM
+214,D,2014-03-05 17:45:53,2014-03-04,ALIM,Caballa Susan,See Remarks,M - OptEx,$2.04,8931,77432,+13%,"+$18,219",-2.0,-8.0,10.0,-12.0,ALIM
+215,D,2014-03-05 17:45:53,2014-03-04,ALIM,Caballa Susan,See Remarks,S - Sale+OE,$7.01,-8931,77432,-10%,"-$62,606",-2.0,-8.0,10.0,-12.0,ALIM
+216,DM,2014-03-05 17:39:12,2014-03-03,ALIM,Holland David,"SVP of Sales, Marketing",M - OptEx,$2.04,10000,98362,+11%,"+$20,400",-2.0,-8.0,10.0,-12.0,ALIM
+217,DM,2014-03-05 17:39:12,2014-03-03,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale+OE,$6.84,-10000,98362,-9%,"-$68,350",-2.0,-8.0,10.0,-12.0,ALIM
+218,D,2014-01-22 18:05:42,2014-01-17,ALIM,Eiswirth Richard S Jr,"COO, CFO",M - OptEx,$1.33,50000,17474,-154%,"+$66,500",-3.0,-3.0,-8.0,-16.0,ALIM
+219,D,2014-01-22 18:05:42,2014-01-17,ALIM,Eiswirth Richard S Jr,"COO, CFO",S - Sale+OE,$8.10,-50000,17474,-74%,"-$405,005",-3.0,-3.0,-8.0,-16.0,ALIM
+220,M,2014-01-17 16:19:42,2014-01-15,ALIM,"Domain Partners Vi, L.P.",10%,S - Sale,$6.39,-296760,3590931,-8%,"-$1,895,901",-4.0,-20.0,-17.0,-28.0,ALIM
+221,M,2014-01-17 16:16:02,2014-01-15,ALIM,"Dp VI Associates, L.P.",10%,S - Sale,$6.39,-3240,34907,-8%,"-$20,699",-4.0,-20.0,-17.0,-28.0,ALIM
+222,,2013-07-19 18:39:44,2013-07-17,ALIM,Polaris Venture Management Co IV LLC,"May be part of 13(d) group., 10%",S - Sale,$4.80,-122937,3090769,-4%,"-$590,565",-2.0,-3.0,-36.0,43.0,ALIM
+223,,2013-06-24 16:28:48,2013-06-20,ALIM,"Dp VI Associates, L.P.",10%,S - Sale,$5.01,-114,38147,0%,-$571,1.0,0.0,0.0,-15.0,ALIM
+224,,2013-06-24 16:25:59,2013-06-20,ALIM,"Domain Partners Vi, L.P.",10%,S - Sale,$5.01,-10516,3887691,0%,"-$52,685",1.0,0.0,0.0,-15.0,ALIM
+225,M,2013-06-20 17:19:52,2013-06-18,ALIM,"Dp VI Associates, L.P.",10%,S - Sale,$5.39,-603,38261,-2%,"-$3,249",-1.0,-4.0,0.0,-46.0,ALIM
+226,M,2013-06-20 17:12:30,2013-06-18,ALIM,"Domain Partners Vi, L.P.",10%,S - Sale,$5.39,-55278,3898207,-1%,"-$297,829",-1.0,-4.0,0.0,-46.0,ALIM
+227,M,2013-06-19 16:30:28,2013-06-17,ALIM,Polaris Venture Management Co IV LLC,"May be part of 13(d) group., 10%",S - Sale,$5.44,-37063,3211433,-1%,"-$201,603",-7.0,-9.0,-7.0,-54.0,ALIM
+228,M,2013-06-18 17:07:59,2013-06-14,ALIM,"Dp VI Associates, L.P.",10%,S - Sale,$5.29,-1384,38864,-3%,"-$7,316",0.0,-9.0,-7.0,-57.0,ALIM
+229,M,2013-06-18 17:06:07,2013-06-14,ALIM,"Domain Partners Vi, L.P.",10%,S - Sale,$5.29,-126709,3953485,-3%,"-$669,837",0.0,-9.0,-7.0,-57.0,ALIM
+230,,2013-06-13 17:07:24,2013-06-11,ALIM,"Dp VI Associates, L.P.",10%,S - Sale,$5.00,-59,40248,0%,-$295,3.0,11.0,5.0,-55.0,ALIM
+231,,2013-06-13 16:56:47,2013-06-11,ALIM,"Domain Partners Vi, L.P.",10%,S - Sale,$5.00,-5337,4080194,0%,"-$26,685",3.0,11.0,5.0,-55.0,ALIM
+232,,2013-05-20 16:27:08,2013-05-17,ALIM,Holland David,"SVP of Sales, Marketing",S - Sale,$4.13,-30000,98362,-23%,"-$124,008",1.0,1.0,24.0,-60.0,ALIM
+233,M,2013-05-17 17:36:19,2013-05-15,ALIM,"Dp VI Associates, L.P.",10%,S - Sale,$4.60,-483,40307,-1%,"-$2,224",5.0,6.0,29.0,-53.0,ALIM
+234,M,2013-05-17 17:32:15,2013-05-15,ALIM,"Domain Partners Vi, L.P.",10%,S - Sale,$4.60,-44242,4085531,-1%,"-$203,682",5.0,6.0,29.0,-53.0,ALIM
+235,A,2012-12-21 18:09:06,2012-08-13,ALIM,Holland David,"SVP of Sales, Marketing",F - Tax,$2.28,-3630,126366,-3%,"-$8,276",5.0,5.0,10.0,191.0,ALIM
+236,A,2012-12-21 18:06:20,2012-07-18,ALIM,Caballa Susan,"SVP,Regulatory, Medical Affair",A - Grant,$0.00,10520,70987,+17%,+$0,5.0,5.0,10.0,191.0,ALIM
+237,,2012-12-17 17:26:12,2012-12-13,ALIM,Eiswirth Richard S Jr,"COO, CFO",P - Purchase,$1.44,5000,15299,+49%,"+$7,220",4.0,1.0,7.0,209.0,ALIM
+238,,2012-12-17 17:20:24,2012-12-13,ALIM,Bradley Glen,Dir,P - Purchase,$1.42,10047,10047,New,"+$14,255",4.0,1.0,7.0,209.0,ALIM
+239,,2012-12-17 17:10:09,2012-12-13,ALIM,Pizzo Peter J. III,Dir,P - Purchase,$1.44,5000,7500,+200%,"+$7,190",4.0,1.0,7.0,209.0,ALIM
+240,,2012-12-05 16:43:59,2012-12-03,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$1.95,-7700,117900,-6%,"-$14,997",0.0,-15.0,-4.0,139.0,ALIM
+241,,2012-11-05 17:22:15,2012-10-26,ALIM,Myers C. Daniel,"Pres, CEO",G - Gift,$0.00,-4000,124616,-3%,-$0,-2.0,-3.0,-21.0,25.0,ALIM
+242,,2012-11-05 17:22:15,2012-11-01,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$2.52,-5950,124616,-5%,"-$14,979",-2.0,-3.0,-21.0,25.0,ALIM
+243,,2012-10-03 16:49:14,2012-10-01,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$2.52,-5900,139066,-4%,"-$14,851",0.0,2.0,0.0,18.0,ALIM
+244,,2012-09-05 17:13:13,2012-09-04,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$2.36,-6350,144966,-4%,"-$14,986",5.0,4.0,7.0,36.0,ALIM
+245,,2012-08-14 19:08:14,2012-08-13,ALIM,Eiswirth Richard S Jr,"COO, CFO",F - Tax,$2.28,-4463,10299,-30%,"-$10,176",2.0,5.0,12.0,10.0,ALIM
+246,,2012-08-14 19:06:15,2012-08-13,ALIM,Green Kenneth,"SVP, Chief Science Officer",F - Tax,$2.28,-3612,7520,-32%,"-$8,235",2.0,5.0,12.0,10.0,ALIM
+247,,2012-08-14 19:02:32,2012-08-13,ALIM,Holland David,"SVP of Sales, Marketing",F - Tax,$2.28,-3630,125585,-3%,"-$8,276",2.0,5.0,12.0,10.0,ALIM
+248,,2012-08-14 19:02:30,2012-08-13,ALIM,Myers C. Daniel,"Pres, CEO",F - Tax,$2.28,-6388,151316,-4%,"-$14,565",2.0,5.0,12.0,10.0,ALIM
+249,,2012-08-14 19:02:30,2012-08-13,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$2.22,-6745,151316,-4%,"-$14,985",2.0,5.0,12.0,10.0,ALIM
+250,,2012-07-20 16:41:50,2012-07-18,ALIM,Caballa Susan,"SVP,Regulatory, Medical Affair",A - Grant,$0.00,10520,67797,+18%,+$0,-2.0,-3.0,-27.0,-47.0,ALIM
+251,,2012-07-20 16:41:03,2012-07-18,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",A - Grant,$0.00,11132,11132,New,+$0,-2.0,-3.0,-27.0,-47.0,ALIM
+252,,2012-07-20 16:34:32,2012-07-18,ALIM,Holland David,"SVP of Sales, Marketing",A - Grant,$0.00,11187,129215,+9%,+$0,-2.0,-3.0,-27.0,-47.0,ALIM
+253,,2012-07-20 16:33:20,2012-07-18,ALIM,Eiswirth Richard S Jr,"COO, CFO",A - Grant,$0.00,13753,14762,>999%,+$0,-2.0,-3.0,-27.0,-47.0,ALIM
+254,,2012-07-20 16:30:46,2012-07-18,ALIM,Myers C. Daniel,"Pres, CEO",A - Grant,$0.00,19685,164449,+14%,+$0,-2.0,-3.0,-27.0,-47.0,ALIM
+255,M,2011-11-16 18:29:23,2011-11-14,ALIM,Polaris Venture Management Co IV LLC,"May be part of 13(d) group, 10%",S - Sale,$1.57,-470331,3247811,-13%,"-$740,431",-4.0,-7.0,-2.0,68.0,ALIM
+256,A,2011-08-31 19:38:49,2011-08-19,ALIM,Caballa Susan,SEE REMARKS,P - Purchase,$7.15,3000,57277,+6%,"+$21,450",-1.0,2.0,9.0,-44.0,ALIM
+257,,2011-08-24 06:13:01,2011-08-19,ALIM,Caballa Susan,SEE REMARKS,P - Purchase,$7.15,3000,57277,+6%,"+$21,450",4.0,0.0,-3.0,-78.0,ALIM
+258,D,2011-06-29 17:37:37,2011-06-28,ALIM,Roberts Calvin W.,Dir,M - OptEx,$2.04,8824,226861,+4%,"+$18,001",-1.0,1.0,3.0,-87.0,ALIM
+259,D,2011-06-08 19:48:04,2011-06-07,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",M - OptEx,$1.33,21969,0,-100%,"+$29,219",1.0,2.0,11.0,-78.0,ALIM
+260,D,2011-06-08 19:48:04,2011-06-07,ALIM,Green Kenneth,"SVP, Chief Scientific Officer",S - Sale+OE,$8.00,-21969,0,-100%,"-$175,752",1.0,2.0,11.0,-78.0,ALIM
+261,,2011-06-03 13:48:08,2011-06-02,ALIM,Vitullo Nicole,10%,S - Sale,$8.04,-6914,4189427,0%,"-$55,589",-1.0,-6.0,3.0,-84.0,ALIM
+262,,2011-06-03 13:42:56,2011-06-02,ALIM,Schoemaker Kathleen K,10%,S - Sale,$8.04,-6914,4189427,0%,"-$55,589",-1.0,-6.0,3.0,-84.0,ALIM
+263,,2011-06-03 13:38:26,2011-06-02,ALIM,Treu Jesse I,10%,S - Sale,$8.04,-6914,4189427,0%,"-$55,589",-1.0,-6.0,3.0,-84.0,ALIM
+264,,2011-06-03 12:44:20,2011-06-02,ALIM,Dovey Brian H,10%,S - Sale,$8.04,-6914,4189427,0%,"-$55,589",-1.0,-6.0,3.0,-84.0,ALIM
+265,,2011-06-03 12:40:46,2011-06-02,ALIM,Blair James C,10%,S - Sale,$8.04,-6914,4189427,0%,"-$55,589",-1.0,-6.0,3.0,-84.0,ALIM
+266,,2011-06-03 12:35:37,2011-06-02,ALIM,"Dp VI Associates, L.P.",10%,S - Sale,$8.04,-6914,40790,-14%,"-$55,589",-1.0,-6.0,3.0,-84.0,ALIM
+267,A,2011-05-04 19:43:19,2010-04-27,ALIM,Polaris Venture Management Co IV LLC,"May be part of 13(d) group, 10%",P - Purchase,$11.00,378028,4789727,+9%,"+$4,158,308",4.0,4.0,0.0,-11.0,ALIM
+268,,2011-03-16 17:20:03,2011-03-15,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale,$7.06,-45523,149264,-23%,"-$321,324",-1.0,1.0,8.0,8.0,ALIM
+269,,2011-03-14 17:31:56,2011-03-10,ALIM,Roberts Calvin W.,Dir,P - Purchase,$7.75,30000,20000,-300%,"+$232,500",4.0,-2.0,11.0,0.0,ALIM
+270,,2011-03-14 17:29:13,2011-02-25,ALIM,Roberts Calvin W.,Dir,P - Purchase,$7.92,17600,10000,-232%,"+$139,324",4.0,-2.0,11.0,0.0,ALIM
+271,D,2011-03-14 17:26:15,2011-03-10,ALIM,Myers C. Daniel,"Pres, CEO",M - OptEx,$1.33,55147,194787,+39%,"+$73,346",4.0,-2.0,11.0,0.0,ALIM
+272,D,2011-03-14 17:26:15,2011-03-10,ALIM,Myers C. Daniel,"Pres, CEO",S - Sale+OE,$7.66,-9624,194787,-5%,"-$73,720",4.0,-2.0,11.0,0.0,ALIM
+273,,2010-11-10 11:57:00,2010-11-09,ALIM,Pizzo Peter J. III,Dir,P - Purchase,$9.95,2500,2500,New,"+$24,876",1.0,9.0,3.0,-17.0,ALIM
+274,,2010-11-09 13:52:34,2010-11-05,ALIM,Roberts Calvin W.,Dir,P - Purchase,$10.47,12600,2600,-126%,"+$131,884",0.0,3.0,7.0,-17.0,ALIM
+275,D,2010-04-29 19:47:19,2010-04-27,ALIM,Polaris Venture Management Co IV LLC,"May be part of 13(d) group., 10%",C - Converted deriv,$0.00,4499453,4789895,-48%,$0,0.0,-2.0,-26.0,-1.0,ALIM
+276,D,2010-04-29 19:47:19,2010-04-27,ALIM,Polaris Venture Management Co IV LLC,"May be part of 13(d) group., 10%",P - Purchase,$11.00,378028,4789895,+9%,"+$4,158,308",0.0,-2.0,-26.0,-1.0,ALIM
+277,D,2010-04-29 19:41:41,2010-04-27,ALIM,"Intersouth Associates Vi, LLC","May be part of 13(d) group, 10%",C - Converted deriv,$0.00,1962472,2053381,-49%,$0,0.0,-2.0,-26.0,-1.0,ALIM
+278,D,2010-04-29 19:41:41,2010-04-27,ALIM,"Intersouth Associates Vi, LLC","May be part of 13(d) group, 10%",P - Purchase,$11.00,90909,2053381,+5%,"+$999,999",0.0,-2.0,-26.0,-1.0,ALIM
+279,D,2010-04-29 19:40:44,2010-04-27,ALIM,"Intersouth Associates Vii, LLC","May be part of 13(d) group, 10%",C - Converted deriv,$0.00,948556,1144766,-45%,$0,0.0,-2.0,-26.0,-1.0,ALIM
+280,D,2010-04-29 19:40:44,2010-04-27,ALIM,"Intersouth Associates Vii, LLC","May be part of 13(d) group, 10%",P - Purchase,$11.00,196210,1144766,+21%,"+$2,158,310",0.0,-2.0,-26.0,-1.0,ALIM
+281,D,2010-04-29 19:37:27,2010-04-27,ALIM,"Intersouth Associates V, LLC","May be part of 13(d) group., 10%",C - Converted deriv,$0.00,1588424,1605743,-50%,$0,0.0,-2.0,-26.0,-1.0,ALIM
+282,D,2010-04-29 19:37:27,2010-04-27,ALIM,"Intersouth Associates V, LLC","May be part of 13(d) group., 10%",P - Purchase,$11.00,90909,1605743,+6%,"+$999,999",0.0,-2.0,-26.0,-1.0,ALIM
+283,D,2010-04-29 16:49:45,2010-04-27,ALIM,Roberts Calvin W.,Dir,C - Converted deriv,$0.00,170389,258624,-40%,$0,0.0,-2.0,-26.0,-1.0,ALIM
+284,D,2010-04-28 17:53:12,2010-04-27,ALIM,Brooks Mark J,"Dir, 10%",C - Converted deriv,$0.00,4499458,4863094,-48%,$0,-1.0,-2.0,-26.0,-3.0,ALIM
+285,D,2010-04-28 17:53:12,2010-04-27,ALIM,Brooks Mark J,"Dir, 10%",P - Purchase,$11.00,363636,4863094,+8%,"+$3,999,996",-1.0,-2.0,-26.0,-3.0,ALIM
+286,D,2010-04-28 17:51:42,2010-04-27,ALIM,"Bavp, L.P.",10%,C - Converted deriv,$0.00,4499458,4863094,-48%,$0,-1.0,-2.0,-26.0,-3.0,ALIM
+287,D,2010-04-28 17:51:42,2010-04-27,ALIM,"Bavp, L.P.",10%,P - Purchase,$11.00,363636,4863094,+8%,"+$3,999,996",-1.0,-2.0,-26.0,-3.0,ALIM
+288,D,2010-04-28 17:09:56,2010-04-27,ALIM,Venrock Associates IV L P,10%,C - Converted deriv,$0.00,3642999,3949070,-48%,$0,-1.0,-2.0,-26.0,-3.0,ALIM
+289,D,2010-04-28 17:09:56,2010-04-27,ALIM,Venrock Associates IV L P,10%,P - Purchase,$11.00,306071,3949070,+8%,"+$3,366,781",-1.0,-2.0,-26.0,-3.0,ALIM
+290,D,2010-04-28 17:04:40,2010-04-27,ALIM,Hove Anders D,"Dir, 10%",C - Converted deriv,$0.00,3642999,3949070,-48%,$0,-1.0,-2.0,-26.0,-3.0,ALIM
+291,D,2010-04-28 17:04:40,2010-04-27,ALIM,Hove Anders D,"Dir, 10%",P - Purchase,$11.00,306071,3949070,+8%,"+$3,366,781",-1.0,-2.0,-26.0,-3.0,ALIM
+292,,2010-04-28 16:54:50,2010-04-26,ALIM,Eiswirth Richard S Jr,CFO,P - Purchase,$11.04,300,300,New,"+$3,311",-1.0,-2.0,-26.0,-3.0,ALIM
+293,D,2010-04-27 17:21:30,2010-04-27,ALIM,Treu Jesse I,10%,C - Converted deriv,$0.00,4499449,4877477,-48%,$0,0.0,-1.0,-25.0,-4.0,ALIM
+294,D,2010-04-27 17:21:30,2010-04-27,ALIM,Treu Jesse I,10%,P - Purchase,$11.00,378028,4877477,+8%,"+$4,158,308",0.0,-1.0,-25.0,-4.0,ALIM
+295,D,2010-04-27 17:17:18,2010-04-27,ALIM,Schoemaker Kathleen K,10%,C - Converted deriv,$0.00,4499449,4877477,-48%,$0,0.0,-1.0,-25.0,-4.0,ALIM
+296,D,2010-04-27 17:17:18,2010-04-27,ALIM,Schoemaker Kathleen K,10%,P - Purchase,$11.00,378028,4877477,+8%,"+$4,158,308",0.0,-1.0,-25.0,-4.0,ALIM
+297,D,2010-04-27 17:13:45,2010-04-27,ALIM,Vitullo Nicole,10%,C - Converted deriv,$0.00,4499449,4877477,-48%,$0,0.0,-1.0,-25.0,-4.0,ALIM
+298,D,2010-04-27 17:13:45,2010-04-27,ALIM,Vitullo Nicole,10%,P - Purchase,$11.00,378028,4877477,+8%,"+$4,158,308",0.0,-1.0,-25.0,-4.0,ALIM
+299,D,2010-04-27 17:05:36,2010-04-27,ALIM,Dovey Brian H,10%,C - Converted deriv,$0.00,4499449,4877477,-48%,$0,0.0,-1.0,-25.0,-4.0,ALIM
+300,D,2010-04-27 17:05:36,2010-04-27,ALIM,Dovey Brian H,10%,P - Purchase,$11.00,378028,4877477,+8%,"+$4,158,308",0.0,-1.0,-25.0,-4.0,ALIM
+301,D,2010-04-27 17:00:59,2010-04-27,ALIM,"Domain Partners Vi, L.P.",10%,C - Converted deriv,$0.00,4451745,4829773,-48%,$0,0.0,-1.0,-25.0,-4.0,ALIM
+302,D,2010-04-27 17:00:59,2010-04-27,ALIM,"Domain Partners Vi, L.P.",10%,P - Purchase,$11.00,378028,4829773,+8%,"+$4,158,308",0.0,-1.0,-25.0,-4.0,ALIM
+303,D,2010-04-27 16:55:50,2010-04-27,ALIM,"Dp VI Associates, L.P.",10%,C - Converted deriv,$0.00,47704,47704,-50%,$0,0.0,-1.0,-25.0,-4.0,ALIM
+304,D,2010-04-27 16:51:10,2010-04-27,ALIM,Blair James C,10%,C - Converted deriv,$0.00,4499449,4877477,-48%,$0,0.0,-1.0,-25.0,-4.0,ALIM
+305,D,2010-04-27 16:51:10,2010-04-27,ALIM,Blair James C,10%,P - Purchase,$11.00,378028,4877477,+8%,"+$4,158,308",0.0,-1.0,-25.0,-4.0,ALIM

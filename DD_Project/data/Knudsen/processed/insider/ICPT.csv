@@ -1,59 +1,913 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,M,2021-03-12 19:51:29,2021-03-10,ICPT,Akkaraju Srinivas,Dir,P - Purchase,21.17,237000,663809,+56%,5016252.0,,,,,ICPT
-1,,2021-01-05 19:01:15,2021-01-05,ICPT,Kapadia Sandip,"CFO, Treasurer",S - Sale,24.47,-2193,23764,-8%,-53663.0,,,,,ICPT
-2,,2020-12-16 19:00:32,2020-12-15,ICPT,Kapadia Sandip,"CFO, Treasurer",S - Sale,32.78,-1763,27158,-6%,-57791.0,,,,,ICPT
-3,,2020-08-20 19:00:59,2020-08-18,ICPT,Campagna Jason,Chief Medical Officer,S - Sale,47.44,-1192,8778,-12%,-56543.0,,,,,ICPT
-4,M,2020-08-17 20:13:16,2020-08-13,ICPT,Genextra S.P.A.,10%,S - Sale,47.5,-1500000,4000000,-27%,-71248662.0,,,,,ICPT
-5,M,2020-08-17 20:10:08,2020-08-13,ICPT,Micheli Francesco,10%,S - Sale,47.5,-1500000,4000000,-27%,-71248662.0,,,,,ICPT
-6,M,2020-08-17 20:06:36,2020-08-13,ICPT,Fundaro Paolo,"Dir, 10%",S - Sale,47.5,-1500000,4021028,-27%,-71248662.0,,,,,ICPT
-7,,2020-05-15 17:19:17,2020-05-13,ICPT,Fundaro Paolo,"Dir, 10%",S - Sale,84.6,-595578,5519433,-10%,-50385899.0,,,,,ICPT
-8,,2020-05-15 16:55:28,2020-05-13,ICPT,Micheli Francesco,10%,S - Sale,84.6,-595578,5500000,-10%,-50385899.0,,,,,ICPT
-9,,2020-05-15 16:46:03,2020-05-13,ICPT,Genextra S.P.A.,10%,S - Sale,84.6,-595578,5500000,-10%,-50385899.0,,,,,ICPT
-10,,2020-04-29 19:00:20,2020-04-27,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,85.95,-181,17140,-1%,-15557.0,,,,,ICPT
-11,,2020-04-10 19:00:26,2020-04-09,ICPT,Ford David A,CHRO,S - Sale,70.0,-58,13882,0%,-4060.0,,,,,ICPT
-12,,2020-02-28 19:00:36,2020-02-27,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,87.62,-113,17367,-1%,-9901.0,,,,,ICPT
-13,D,2020-01-27 19:01:46,2020-01-27,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale+OE,94.04,-723,17837,-4%,-67991.0,,,,,ICPT
-14,,2020-01-08 19:00:49,2020-01-07,ICPT,Campagna Jason,Chief Medical Officer,S - Sale,113.02,-732,6303,-10%,-82731.0,,,,,ICPT
-15,D,2020-01-03 19:00:52,2019-12-31,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,125.0,-100,566829,0%,-12500.0,,,,,ICPT
-16,,2020-01-03 19:00:51,2019-01-03,ICPT,Ford David A,CHRO,S - Sale,117.16,-259,10580,-2%,-30344.0,,,,,ICPT
-17,D,2020-01-03 19:00:51,2019-12-31,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",S - Sale+OE,125.0,-262,18373,-1%,-32750.0,,,,,ICPT
-18,D,2019-12-30 19:01:06,2019-12-27,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale+OE,123.24,-1581,14178,-10%,-194842.0,,,,,ICPT
-19,D,2019-12-30 19:00:56,2019-12-26,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,125.0,-417,569126,0%,-52125.0,,,,,ICPT
-20,D,2019-12-30 19:00:45,2019-12-26,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",S - Sale+OE,125.0,-54,18722,0%,-6750.0,,,,,ICPT
-21,,2019-12-20 19:00:21,2019-12-19,ICPT,Campagna Jason,Chief Medical Officer,S - Sale,119.45,-154,7444,-2%,-18395.0,,,,,ICPT
-22,D,2019-12-02 19:00:54,2019-11-27,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale+OE,101.65,-1040,15289,-6%,-105716.0,,,,,ICPT
-23,DM,2019-11-27 19:00:51,2019-11-25,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale+OE,100.0,-6228,15759,-28%,-622800.0,,,,,ICPT
-24,DM,2019-11-27 19:00:20,2019-11-25,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,100.0,-50000,569126,-8%,-5000000.0,,,,,ICPT
-25,,2019-11-19 19:01:01,2019-11-19,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,85.0,-1550,15759,-9%,-131750.0,,,,,ICPT
-26,D,2019-11-19 19:00:29,2019-11-19,ICPT,Sullivan Ryan T,"GC, Secretary",S - Sale+OE,85.0,-12154,21889,-36%,-1033090.0,,,,,ICPT
-27,D,2019-11-15 19:02:30,2019-11-13,ICPT,Sullivan Ryan T,"GC, Secretary",S - Sale+OE,85.0,-500,25718,-2%,-42500.0,,,,,ICPT
-28,,2019-11-15 19:01:55,2019-11-13,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,85.0,-946,17309,-5%,-80410.0,,,,,ICPT
-29,,2019-10-31 19:00:25,2019-10-29,ICPT,Bright Lisa,"Pres, International",S - Sale,75.0,-595,18732,-3%,-44625.0,,,,,ICPT
-30,,2019-10-25 19:00:34,2019-10-23,ICPT,Ford David A,CHRO,S - Sale,70.0,-58,11396,-1%,-4060.0,,,,,ICPT
-31,,2019-09-18 19:00:32,2019-09-16,ICPT,Ford David A,CHRO,S - Sale,70.0,-800,11546,-6%,-56000.0,,,,,ICPT
-32,,2019-08-30 14:32:12,2019-08-28,ICPT,Akkaraju Srinivas,Dir,P - Purchase,60.32,5207,425214,+1%,314086.0,,,,,ICPT
-33,AM,2019-08-23 20:14:02,2019-08-20,ICPT,Akkaraju Srinivas,Dir,P - Purchase,66.37,67784,420007,+19%,4498577.0,,,,,ICPT
-34,,2019-07-03 17:00:41,2019-07-03,ICPT,Bright Lisa,"Pres, International",S - Sale,78.66,-595,19857,-3%,-46803.0,,,,,ICPT
-35,,2019-05-14 19:00:18,2019-05-14,ICPT,Benatti Luca,Dir,P - Purchase,83.5,1200,7556,+19%,100200.0,,,,,ICPT
-36,D,2019-05-03 19:00:23,2019-05-01,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,86.28,-2000,39499,-5%,-172560.0,,,,,ICPT
-37,D,2019-04-16 19:01:00,2019-04-15,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,95.0,-2000,39499,-5%,-190000.0,,,,,ICPT
-38,,2019-04-03 19:01:33,2019-04-03,ICPT,Bright Lisa,"Pres, International",S - Sale,115.01,-594,20982,-3%,-68316.0,,,,,ICPT
-39,,2019-04-03 19:00:25,2019-04-03,ICPT,Shapiro David,Chief Medical Officer,S - Sale,115.01,-562,39499,-1%,-64636.0,,,,,ICPT
-40,,2019-03-29 19:00:18,2019-03-29,ICPT,Fundaro Paolo,Dir,S - Sale,107.45,-2171,11114,-16%,-233272.0,,,,,ICPT
-41,,2019-03-01 19:00:38,2019-03-01,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,103.16,-333,19107,-2%,-34352.0,,,,,ICPT
-42,D,2019-03-01 19:00:25,2019-03-01,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,103.16,-2000,40543,-5%,-206320.0,,,,,ICPT
-43,,2019-02-21 20:33:33,2019-02-19,ICPT,Akkaraju Srinivas,Dir,S - Sale,128.78,-23438,210937,-10%,-3018346.0,,,,,ICPT
-44,D,2019-02-20 21:01:02,2019-02-15,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,111.51,-2000,40543,-5%,-223020.0,,,,,ICPT
-45,,2019-01-09 20:00:39,2019-01-07,ICPT,Bright Lisa,"Pres, International",S - Sale,104.93,-1313,18807,-7%,-137773.0,,,,,ICPT
-46,,2019-01-04 19:01:13,2019-01-04,ICPT,Shapiro David,Chief Medical Officer,S - Sale,97.48,-474,37243,-1%,-46206.0,,,,,ICPT
-47,DM,2019-01-03 19:04:00,2019-01-02,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,98.07,-2699,37717,-7%,-264678.0,,,,,ICPT
-48,D,2018-12-19 19:00:25,2018-12-17,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,106.62,-2000,39152,-5%,-213240.0,,,,,ICPT
-49,M,2018-12-06 19:00:28,2018-12-03,ICPT,Bright Lisa,"Pres, International",S - Sale,111.42,-5000,21288,-19%,-557121.0,,,,,ICPT
-50,,2018-12-03 16:34:09,2018-11-29,ICPT,Micheli Francesco,10%,S - Sale,105.07,-750000,6095578,-11%,-78802500.0,,,,,ICPT
-51,,2018-12-03 16:31:37,2018-11-29,ICPT,Genextra S.P.A.,10%,S - Sale,105.07,-750000,6095578,-11%,-78802500.0,,,,,ICPT
-52,,2018-11-29 19:00:27,2018-11-29,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,113.78,-1343,15819,-8%,-152807.0,,,,,ICPT
-53,DM,2018-11-16 19:00:24,2018-11-15,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,101.07,-50000,566805,-8%,-5053713.0,,,,,ICPT
-54,D,2018-11-02 19:01:47,2018-11-01,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,96.32,-2000,39152,-5%,-192640.0,,,,,ICPT
-55,D,2018-10-16 19:00:07,2018-10-15,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,102.95,-3425,39152,-8%,-352604.0,,,,,ICPT
-56,,2018-10-05 19:01:01,2018-10-05,ICPT,Shapiro David,Chief Medical Officer,S - Sale,110.65,-759,39152,-2%,-83983.0,,,,,ICPT
-57,,2018-09-07 18:00:44,2018-09-05,ICPT,Shapiro David,Chief Medical Officer,S - Sale,111.43,-4917,42196,-10%,-547891.0,,,,,ICPT
+0,,2022-02-17 16:01:28,2022-02-15,ICPT,Richardson Linda M,"EVP, Chief Commercial Officer",F - Tax,15.93,-171,33922,-1%,-2724.0,,,,,ICPT
+1,,2022-02-15 16:48:49,2022-02-14,ICPT,Richardson Linda M,"EVP, Chief Commercial Officer",F - Tax,14.85,-529,34093,-2%,-7856.0,,,,,ICPT
+2,,2022-02-15 16:48:04,2022-02-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,15.8,-320,35740,-1%,-5056.0,,,,,ICPT
+3,,2022-02-03 16:04:29,2022-02-01,ICPT,Freedberg Jared,GC,F - Tax,16.91,-4072,50505,-7%,-68858.0,,,,,ICPT
+4,D,2022-01-31 16:16:40,2022-01-27,ICPT,Venezia Rocco,Chief Accounting Officer,A - Grant,0.0,3600,16755,+27%,0.0,,,,,ICPT
+5,D,2022-01-31 16:16:00,2022-01-27,ICPT,Saik Andrew,"EVP, CFO",A - Grant,0.0,10300,62456,+20%,0.0,,,,,ICPT
+6,D,2022-01-31 16:15:46,2022-01-27,ICPT,Richardson Linda M,"EVP, Chief Commercial Officer",A - Grant,0.0,10300,34622,+42%,0.0,,,,,ICPT
+7,D,2022-01-31 16:15:28,2022-01-27,ICPT,Freedberg Jared,GC,A - Grant,0.0,10300,54577,+23%,0.0,,,,,ICPT
+8,D,2022-01-31 16:14:47,2022-01-27,ICPT,Ford David A,CHRO,A - Grant,0.0,6600,28415,+30%,0.0,,,,,ICPT
+9,D,2022-01-31 16:14:27,2022-01-27,ICPT,Durso Jerome Benedict,"Pres, CEO",A - Grant,0.0,35700,111323,+47%,0.0,,,,,ICPT
+10,D,2022-01-31 16:14:12,2022-01-27,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",A - Grant,0.0,6600,36060,+22%,0.0,,,,,ICPT
+11,D,2022-01-31 16:13:55,2022-01-27,ICPT,Berrey M Michelle,"Pres, R, D, CMO",A - Grant,0.0,10300,77418,+15%,0.0,,,,,ICPT
+12,D,2022-01-31 16:13:05,2022-01-27,ICPT,Ball Bryan,"Chief Qual. Officer, SVP Ops.",A - Grant,0.0,3600,26145,+16%,0.0,,,,,ICPT
+13,,2022-01-13 19:04:40,2022-01-11,ICPT,Ball Bryan,"Chief Qual. Officer, SVP Ops.",F - Tax,16.83,-2455,22545,-10%,-41318.0,,,,,ICPT
+14,,2022-01-04 16:19:18,2021-12-31,ICPT,Richardson Linda M,"EVP, Chief Commercial Officer",F - Tax,16.29,-1211,24322,-5%,-19727.0,,,,,ICPT
+15,,2022-01-04 16:18:42,2021-12-31,ICPT,Defrancesco Lisa,"SVP, IR, Corp. Affairs",F - Tax,16.29,-542,10308,-5%,-8829.0,,,,,ICPT
+16,M,2022-01-04 16:18:13,2021-12-31,ICPT,Venezia Rocco,Chief Accounting Officer,F - Tax,16.29,-550,13155,-4%,-8960.0,,,,,ICPT
+17,M,2022-01-04 16:17:33,2021-12-31,ICPT,Ford David A,CHRO,F - Tax,16.29,-1712,21815,-7%,-27888.0,,,,,ICPT
+18,M,2022-01-04 16:16:14,2021-12-31,ICPT,Durso Jerome Benedict,"Pres, CEO",F - Tax,16.29,-5941,75623,-7%,-96779.0,,,,,ICPT
+19,,2022-01-04 16:14:21,2021-12-31,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,16.29,-2455,29460,-8%,-39992.0,,,,,ICPT
+20,,2021-12-02 16:05:26,2021-11-30,ICPT,Pruzanski Mark,Dir,A - Grant,17.21,6138,618894,+1%,105635.0,,,,,ICPT
+21,,2021-12-02 16:05:26,2021-11-30,ICPT,Pruzanski Mark,Dir,F - Tax,17.21,-3817,618894,-1%,-65691.0,,,,,ICPT
+22,,2021-11-17 07:00:39,2021-11-15,ICPT,Richardson Linda M,"EVP, Chief Commercial Officer",F - Tax,17.67,-171,25533,-1%,-3022.0,,,,,ICPT
+23,,2021-11-16 16:58:20,2021-11-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,19.04,-319,31915,-1%,-6074.0,,,,,ICPT
+24,,2021-11-02 16:01:48,2021-10-29,ICPT,Pruzanski Mark,Dir,A - Grant,16.86,6138,616573,+1%,103487.0,,,,,ICPT
+25,,2021-11-02 16:01:48,2021-10-29,ICPT,Pruzanski Mark,Dir,F - Tax,16.86,-3817,616573,-1%,-64355.0,,,,,ICPT
+26,,2021-10-05 17:29:05,2021-10-01,ICPT,Venezia Rocco,Chief Accounting Officer,F - Tax,15.22,-30,13705,0%,-457.0,,,,,ICPT
+27,,2021-10-05 17:28:40,2021-10-01,ICPT,Ford David A,CHRO,F - Tax,15.22,-92,23527,0%,-1400.0,,,,,ICPT
+28,,2021-10-05 17:28:09,2021-10-01,ICPT,Durso Jerome Benedict,"Pres, CEO",F - Tax,15.22,-289,81564,0%,-4399.0,,,,,ICPT
+29,,2021-10-04 17:04:09,2021-09-30,ICPT,Defrancesco Lisa,"SVP, IR, Corp. Affairs",F - Tax,14.85,-204,10850,-2%,-3029.0,,,,,ICPT
+30,,2021-10-04 17:02:48,2021-09-30,ICPT,Pruzanski Mark,Dir,A - Grant,14.85,6136,614252,+1%,91120.0,,,,,ICPT
+31,,2021-10-04 17:02:48,2021-09-30,ICPT,Pruzanski Mark,Dir,F - Tax,14.85,-3816,614252,-1%,-56668.0,,,,,ICPT
+32,,2021-09-03 19:01:58,2021-09-01,ICPT,Venezia Rocco,Chief Accounting Officer,F - Tax,15.05,-524,13735,-4%,-7886.0,,,,,ICPT
+33,,2021-09-03 19:01:12,2021-09-01,ICPT,Richardson Linda M,"EVP, Chief Commercial Officer",F - Tax,15.05,-820,25704,-3%,-12341.0,,,,,ICPT
+34,,2021-09-03 19:00:50,2021-09-01,ICPT,Defrancesco Lisa,"SVP, IR, Corp. Affairs",F - Tax,15.05,-538,11054,-5%,-8097.0,,,,,ICPT
+35,,2021-09-01 19:01:02,2021-08-31,ICPT,Pruzanski Mark,Dir,A - Grant,14.91,6138,611932,+1%,91518.0,,,,,ICPT
+36,,2021-09-01 19:01:02,2021-08-31,ICPT,Pruzanski Mark,Dir,F - Tax,14.91,-3817,611932,-1%,-56911.0,,,,,ICPT
+37,,2021-08-16 19:00:44,2021-08-15,ICPT,Richardson Linda M,"EVP, Chief Commercial Officer",F - Tax,14.92,-171,26524,-1%,-2551.0,,,,,ICPT
+38,,2021-08-13 19:01:26,2021-08-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,15.28,-319,32234,-1%,-4874.0,,,,,ICPT
+39,,2021-08-02 19:00:43,2021-07-30,ICPT,Pruzanski Mark,Dir,A - Grant,17.28,6138,609611,+1%,106065.0,,,,,ICPT
+40,,2021-08-02 19:00:43,2021-07-30,ICPT,Pruzanski Mark,Dir,F - Tax,17.28,-3817,609611,-1%,-65958.0,,,,,ICPT
+41,,2021-07-02 19:01:24,2021-07-01,ICPT,Venezia Rocco,Chief Accounting Officer,F - Tax,20.47,-30,14259,0%,-614.0,,,,,ICPT
+42,,2021-07-02 19:01:00,2021-07-01,ICPT,Ford David A,CHRO,F - Tax,20.47,-92,23619,0%,-1883.0,,,,,ICPT
+43,,2021-07-02 19:00:52,2021-07-01,ICPT,Durso Jerome Benedict,"Pres, CEO",F - Tax,20.47,-289,81853,0%,-5916.0,,,,,ICPT
+44,,2021-07-01 19:01:27,2021-06-30,ICPT,Pruzanski Mark,Dir,A - Grant,19.97,6136,607290,+1%,122536.0,,,,,ICPT
+45,,2021-07-01 19:01:27,2021-06-30,ICPT,Pruzanski Mark,Dir,F - Tax,19.97,-3816,607290,-1%,-76206.0,,,,,ICPT
+46,D,2021-06-22 19:01:42,2021-06-21,ICPT,Saik Andrew,"EVP, CFO",A - Grant,0.0,52156,52156,New,0.0,,,,,ICPT
+47,D,2021-06-15 19:01:34,2021-06-14,ICPT,Berrey M Michelle,"Pres, R, D, CMO",A - Grant,0.0,67118,67118,New,0.0,,,,,ICPT
+48,,2021-06-02 19:00:43,2021-05-28,ICPT,Pruzanski Mark,Dir,A - Grant,16.63,6138,604970,+1%,102075.0,,,,,ICPT
+49,,2021-06-02 19:00:43,2021-05-28,ICPT,Pruzanski Mark,Dir,F - Tax,16.63,-3817,604970,-1%,-63477.0,,,,,ICPT
+50,D,2021-06-01 19:03:54,2021-05-27,ICPT,Sblendorio Glenn,Dir,A - Grant,0.0,7029,15710,+81%,0.0,,,,,ICPT
+51,D,2021-06-01 19:03:16,2021-05-27,ICPT,Santini Gino,Dir,A - Grant,0.0,7029,15908,+79%,0.0,,,,,ICPT
+52,D,2021-06-01 19:02:38,2021-05-27,ICPT,Miller-Rich Nancy,Dir,A - Grant,0.0,7029,14567,+93%,0.0,,,,,ICPT
+53,D,2021-06-01 19:02:25,2021-05-27,ICPT,Gottesdiener Keith Michael,Dir,A - Grant,0.0,7029,16982,+71%,0.0,,,,,ICPT
+54,D,2021-06-01 19:01:54,2021-05-27,ICPT,Fundaro Paolo,"Dir, 10%",A - Grant,0.0,7029,4028057,0%,0.0,,,,,ICPT
+55,D,2021-06-01 19:01:39,2021-05-27,ICPT,Rosa-Bjorkeson Dagmar,Dir,A - Grant,0.0,10543,10543,New,0.0,,,,,ICPT
+56,D,2021-06-01 19:01:22,2021-05-27,ICPT,Bradbury Daniel,Dir,A - Grant,0.0,7029,23623,+42%,0.0,,,,,ICPT
+57,D,2021-06-01 19:00:47,2021-05-27,ICPT,Benatti Luca,Dir,A - Grant,0.0,7029,17750,+66%,0.0,,,,,ICPT
+58,D,2021-06-01 19:00:31,2021-05-27,ICPT,Akkaraju Srinivas,Dir,A - Grant,0.0,7029,670838,+1%,0.0,,,,,ICPT
+59,,2021-05-17 19:00:41,2021-05-15,ICPT,Richardson Linda M,"EVP, Chief Commercial Officer",F - Tax,18.15,-171,26695,-1%,-3104.0,,,,,ICPT
+60,,2021-05-13 19:01:04,2021-05-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,17.75,-319,32553,-1%,-5662.0,,,,,ICPT
+61,,2021-05-11 19:00:25,2021-05-08,ICPT,Ford David A,CHRO,F - Tax,17.15,-128,23711,-1%,-2195.0,,,,,ICPT
+62,,2021-05-04 19:00:48,2021-04-30,ICPT,Pruzanski Mark,Dir,A - Grant,19.78,6138,602649,+1%,121410.0,,,,,ICPT
+63,,2021-05-04 19:00:48,2021-04-30,ICPT,Pruzanski Mark,Dir,F - Tax,19.78,-3817,602649,-1%,-75500.0,,,,,ICPT
+64,,2021-04-05 19:03:30,2021-04-01,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,24.28,-46,27341,0%,-1117.0,,,,,ICPT
+65,,2021-04-05 19:03:08,2021-04-01,ICPT,Venezia Rocco,Chief Accounting Officer,F - Tax,24.28,-29,14289,0%,-704.0,,,,,ICPT
+66,,2021-04-05 19:02:55,2021-04-01,ICPT,Ford David A,CHRO,F - Tax,24.28,-92,23839,0%,-2234.0,,,,,ICPT
+67,,2021-04-05 19:02:27,2021-04-01,ICPT,Durso Jerome Benedict,"Pres, CEO",F - Tax,24.28,-289,82142,0%,-7017.0,,,,,ICPT
+68,,2021-04-01 19:00:48,2021-03-31,ICPT,Pruzanski Mark,Dir,A - Grant,23.08,6136,600328,+1%,141619.0,,,,,ICPT
+69,,2021-04-01 19:00:48,2021-03-31,ICPT,Pruzanski Mark,Dir,F - Tax,23.08,-3658,600328,-1%,-84427.0,,,,,ICPT
+70,M,2021-03-12 19:51:29,2021-03-10,ICPT,Akkaraju Srinivas,Dir,P - Purchase,21.17,237000,663809,+56%,5016252.0,,,,,ICPT
+71,,2021-03-02 19:01:55,2021-02-26,ICPT,Pruzanski Mark,Dir,A - Grant,21.66,6138,597850,+1%,132949.0,,,,,ICPT
+72,,2021-03-02 19:01:55,2021-02-26,ICPT,Pruzanski Mark,Dir,F - Tax,21.66,-2741,597850,0%,-59370.0,,,,,ICPT
+73,,2021-03-02 19:00:51,2021-02-27,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,21.66,-357,27387,-1%,-7733.0,,,,,ICPT
+74,,2021-02-25 19:01:04,2021-02-23,ICPT,Durso Jerome Benedict,"Pres, CEO",F - Tax,28.12,-319,82431,0%,-8970.0,,,,,ICPT
+75,D,2021-02-17 19:04:36,2021-02-15,ICPT,Richardson Linda M,"EVP, Chief Commercial Officer",A - Grant,0.0,5531,26866,+26%,0.0,,,,,ICPT
+76,,2021-02-17 19:00:41,2021-02-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,31.32,-319,32872,-1%,-9991.0,,,,,ICPT
+77,,2021-02-10 19:00:48,2021-02-08,ICPT,Ford David A,CHRO,F - Tax,36.04,-148,23931,-1%,-5334.0,,,,,ICPT
+78,,2021-02-02 19:00:22,2021-01-29,ICPT,Pruzanski Mark,Dir,A - Grant,35.24,6138,594453,+1%,216303.0,,,,,ICPT
+79,,2021-02-02 19:00:22,2021-01-29,ICPT,Pruzanski Mark,Dir,F - Tax,35.24,-2741,594453,0%,-96593.0,,,,,ICPT
+80,D,2021-02-01 19:02:42,2021-02-01,ICPT,Freedberg Jared,"GC, Secretary",A - Grant,0.0,44277,44277,New,0.0,,,,,ICPT
+81,D,2021-01-26 19:02:04,2021-01-22,ICPT,Weyer Christian,"EVP, Research, Development",A - Grant,0.0,12600,27744,+83%,0.0,,,,,ICPT
+82,D,2021-01-26 19:01:50,2021-01-22,ICPT,Kapadia Sandip,"CFO, Treasurer",A - Grant,0.0,17200,40964,+72%,0.0,,,,,ICPT
+83,D,2021-01-26 19:01:32,2021-01-22,ICPT,Ford David A,CHRO,A - Grant,0.0,11500,24079,+91%,0.0,,,,,ICPT
+84,D,2021-01-26 19:01:17,2021-01-22,ICPT,Campagna Jason,Chief Medical Officer,A - Grant,0.0,12600,20531,+159%,0.0,,,,,ICPT
+85,D,2021-01-26 19:01:01,2021-01-22,ICPT,Durso Jerome Benedict,"Pres, CEO",A - Grant,0.0,46000,82750,+125%,0.0,,,,,ICPT
+86,D,2021-01-26 19:00:37,2021-01-22,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",A - Grant,0.0,12600,33191,+61%,0.0,,,,,ICPT
+87,D,2021-01-11 19:01:24,2021-01-11,ICPT,Ball Bryan,Chief Quality Officer,A - Grant,0.0,25000,25000,New,0.0,,,,,ICPT
+88,M,2021-01-05 19:01:47,2020-12-31,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,24.7,-833,15144,-5%,-20575.0,,,,,ICPT
+89,,2021-01-05 19:01:36,2020-12-31,ICPT,Pruzanski Mark,Dir,A - Grant,24.7,41236,591056,+7%,1018529.0,,,,,ICPT
+90,M,2021-01-05 19:01:36,2020-12-31,ICPT,Pruzanski Mark,Dir,F - Tax,24.7,-25697,591056,-4%,-634716.0,,,,,ICPT
+91,M,2021-01-05 19:01:26,2020-12-31,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,24.7,-1058,19770,-5%,-26133.0,,,,,ICPT
+92,M,2021-01-05 19:01:15,2020-12-31,ICPT,Kapadia Sandip,"CFO, Treasurer",F - Tax,24.7,-1201,23764,-5%,-29665.0,,,,,ICPT
+93,,2021-01-05 19:01:15,2021-01-05,ICPT,Kapadia Sandip,"CFO, Treasurer",S - Sale,24.47,-2193,23764,-8%,-53663.0,,,,,ICPT
+94,M,2021-01-05 19:01:03,2020-12-31,ICPT,Ford David A,CHRO,F - Tax,24.7,-735,12579,-6%,-18155.0,,,,,ICPT
+95,M,2021-01-05 19:00:51,2020-12-31,ICPT,Campagna Jason,Chief Medical Officer,F - Tax,24.7,-666,7931,-8%,-16450.0,,,,,ICPT
+96,M,2021-01-05 19:00:39,2020-12-31,ICPT,Durso Jerome Benedict,"Pres, CEO",F - Tax,24.7,-2034,36750,-5%,-50240.0,,,,,ICPT
+97,,2021-01-05 19:00:29,2020-12-31,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,24.7,-706,20591,-3%,-17438.0,,,,,ICPT
+98,,2020-12-16 19:00:32,2020-12-15,ICPT,Kapadia Sandip,"CFO, Treasurer",S - Sale,32.78,-1763,27158,-6%,-57791.0,,,,,ICPT
+99,,2020-11-30 19:00:23,2020-11-27,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,37.27,-357,15977,-2%,-13305.0,,,,,ICPT
+100,,2020-11-25 19:00:18,2020-11-23,ICPT,Durso Jerome Benedict,COO,F - Tax,35.47,-319,38784,-1%,-11315.0,,,,,ICPT
+101,,2020-11-16 19:00:41,2020-11-13,ICPT,Sullivan Ryan T,"GC, Secretary",F - Tax,37.87,-493,24708,-2%,-18670.0,,,,,ICPT
+102,,2020-11-16 19:00:21,2020-11-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,38.52,-319,21297,-1%,-12288.0,,,,,ICPT
+103,,2020-11-10 19:00:16,2020-11-08,ICPT,Ford David A,CHRO,F - Tax,28.15,-128,13314,-1%,-3603.0,,,,,ICPT
+104,,2020-10-05 19:02:27,2020-10-01,ICPT,Campagna Jason,Chief Medical Officer,F - Tax,42.08,-112,8597,-1%,-4713.0,,,,,ICPT
+105,,2020-10-05 19:02:05,2020-10-01,ICPT,Durso Jerome Benedict,COO,F - Tax,42.08,-289,39103,-1%,-12161.0,,,,,ICPT
+106,,2020-10-05 19:02:04,2020-10-01,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,42.08,-46,16334,0%,-1936.0,,,,,ICPT
+107,,2020-10-05 19:01:46,2020-10-01,ICPT,Pruzanski Mark,"Pres, CEO",F - Tax,42.08,-772,575517,0%,-32486.0,,,,,ICPT
+108,,2020-10-05 19:01:08,2020-10-01,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,42.08,-223,20828,-1%,-9384.0,,,,,ICPT
+109,,2020-10-05 19:00:46,2020-10-01,ICPT,Kapadia Sandip,"CFO, Treasurer",F - Tax,42.08,-296,28921,-1%,-12456.0,,,,,ICPT
+110,,2020-10-05 19:00:43,2020-10-01,ICPT,Ford David A,CHRO,F - Tax,42.08,-92,13442,-1%,-3871.0,,,,,ICPT
+111,,2020-09-17 19:00:17,2020-09-15,ICPT,Campagna Jason,Chief Medical Officer,F - Tax,43.41,-69,8709,-1%,-2995.0,,,,,ICPT
+112,,2020-08-31 19:00:15,2020-08-27,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,48.81,-357,16380,-2%,-17425.0,,,,,ICPT
+113,,2020-08-25 19:00:24,2020-08-23,ICPT,Durso Jerome Benedict,COO,F - Tax,48.21,-319,39392,-1%,-15379.0,,,,,ICPT
+114,,2020-08-20 19:00:59,2020-08-18,ICPT,Campagna Jason,Chief Medical Officer,S - Sale,47.44,-1192,8778,-12%,-56543.0,,,,,ICPT
+115,M,2020-08-17 20:13:16,2020-08-13,ICPT,Genextra S.P.A.,10%,S - Sale,47.5,-1500000,4000000,-27%,-71248662.0,,,,,ICPT
+116,M,2020-08-17 20:10:08,2020-08-13,ICPT,Micheli Francesco,10%,S - Sale,47.5,-1500000,4000000,-27%,-71248662.0,,,,,ICPT
+117,M,2020-08-17 20:06:36,2020-08-13,ICPT,Fundaro Paolo,"Dir, 10%",S - Sale,47.5,-1500000,4021028,-27%,-71248662.0,,,,,ICPT
+118,,2020-08-14 19:01:12,2020-08-13,ICPT,Sullivan Ryan T,"GC, Secretary",F - Tax,51.86,-493,25201,-2%,-25567.0,,,,,ICPT
+119,,2020-08-14 19:00:32,2020-08-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,53.44,-319,21616,-1%,-17047.0,,,,,ICPT
+120,,2020-08-11 19:00:27,2020-08-08,ICPT,Ford David A,CHRO,F - Tax,48.75,-128,13534,-1%,-6240.0,,,,,ICPT
+121,,2020-07-06 19:03:03,2020-07-01,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,46.52,-46,16737,0%,-2140.0,,,,,ICPT
+122,,2020-07-06 19:02:39,2020-07-01,ICPT,Pruzanski Mark,"Pres, CEO",F - Tax,46.52,-772,576289,0%,-35913.0,,,,,ICPT
+123,,2020-07-06 19:02:17,2020-07-01,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,46.52,-224,21051,-1%,-10420.0,,,,,ICPT
+124,,2020-07-06 19:01:58,2020-07-01,ICPT,Kapadia Sandip,"CFO, Treasurer",F - Tax,46.52,-615,29217,-2%,-28610.0,,,,,ICPT
+125,,2020-07-06 19:01:16,2020-07-01,ICPT,Ford David A,CHRO,F - Tax,46.52,-92,13662,-1%,-4280.0,,,,,ICPT
+126,,2020-07-06 19:00:56,2020-07-01,ICPT,Campagna Jason,Chief Medical Officer,F - Tax,46.52,-112,9970,-1%,-5210.0,,,,,ICPT
+127,,2020-07-06 19:00:34,2020-07-01,ICPT,Bright Lisa,"Pres, International",F - Tax,46.52,-301,22012,-1%,-14003.0,,,,,ICPT
+128,,2020-07-06 19:00:17,2020-07-01,ICPT,Durso Jerome Benedict,COO,F - Tax,46.52,-289,39711,-1%,-13444.0,,,,,ICPT
+129,,2020-06-17 19:00:31,2020-06-15,ICPT,Campagna Jason,Chief Medical Officer,F - Tax,77.4,-70,10082,-1%,-5418.0,,,,,ICPT
+130,D,2020-06-01 19:07:11,2020-05-28,ICPT,Akkaraju Srinivas,Dir,A - Grant,0.0,1595,426809,0%,0.0,,,,,ICPT
+131,D,2020-06-01 19:05:56,2020-05-28,ICPT,Benatti Luca,Dir,A - Grant,0.0,1595,10721,+17%,0.0,,,,,ICPT
+132,D,2020-06-01 19:05:09,2020-05-28,ICPT,Bradbury Daniel,Dir,A - Grant,0.0,1595,16594,+11%,0.0,,,,,ICPT
+133,D,2020-06-01 19:04:23,2020-05-28,ICPT,Gottesdiener Keith Michael,Dir,A - Grant,0.0,1595,9953,+19%,0.0,,,,,ICPT
+134,D,2020-06-01 19:03:20,2020-05-28,ICPT,Miller-Rich Nancy,Dir,A - Grant,0.0,1595,7538,+27%,0.0,,,,,ICPT
+135,D,2020-06-01 19:02:19,2020-05-28,ICPT,Santini Gino,Dir,A - Grant,0.0,1595,8879,+22%,0.0,,,,,ICPT
+136,D,2020-06-01 19:01:30,2020-05-28,ICPT,Sblendorio Glenn,Dir,A - Grant,0.0,1595,8681,+23%,0.0,,,,,ICPT
+137,D,2020-06-01 19:01:07,2020-05-28,ICPT,Welch Daniel G,Dir,A - Grant,0.0,1595,8060,+25%,0.0,,,,,ICPT
+138,D,2020-06-01 19:00:35,2020-05-28,ICPT,Fundaro Paolo,"Dir, 10%",A - Grant,0.0,1595,5521028,0%,0.0,,,,,ICPT
+139,,2020-05-29 19:00:21,2020-05-27,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,74.43,-357,16783,-2%,-26572.0,,,,,ICPT
+140,,2020-05-27 19:00:26,2020-05-23,ICPT,Durso Jerome Benedict,COO,F - Tax,80.51,-319,40000,-1%,-25683.0,,,,,ICPT
+141,,2020-05-15 17:19:17,2020-05-13,ICPT,Fundaro Paolo,"Dir, 10%",S - Sale,84.6,-595578,5519433,-10%,-50385899.0,,,,,ICPT
+142,,2020-05-15 16:55:28,2020-05-13,ICPT,Micheli Francesco,10%,S - Sale,84.6,-595578,5500000,-10%,-50385899.0,,,,,ICPT
+143,,2020-05-15 16:46:03,2020-05-13,ICPT,Genextra S.P.A.,10%,S - Sale,84.6,-595578,5500000,-10%,-50385899.0,,,,,ICPT
+144,,2020-05-14 19:01:21,2020-05-13,ICPT,Sullivan Ryan T,"GC, Secretary",F - Tax,85.08,-493,25694,-2%,-41944.0,,,,,ICPT
+145,,2020-05-14 19:00:28,2020-05-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,89.05,-319,21935,-1%,-28407.0,,,,,ICPT
+146,,2020-05-12 19:02:59,2020-05-08,ICPT,Ford David A,CHRO,F - Tax,87.8,-128,13754,-1%,-11238.0,,,,,ICPT
+147,,2020-04-29 19:00:20,2020-04-27,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,85.95,-181,17140,-1%,-15557.0,,,,,ICPT
+148,,2020-04-10 19:00:26,2020-04-09,ICPT,Ford David A,CHRO,S - Sale,70.0,-58,13882,0%,-4060.0,,,,,ICPT
+149,,2020-04-03 19:08:34,2020-04-01,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,58.4,-46,17321,0%,-2686.0,,,,,ICPT
+150,,2020-04-03 19:06:53,2020-04-01,ICPT,Pruzanski Mark,"Pres, CEO",F - Tax,58.4,-568,577061,0%,-33171.0,,,,,ICPT
+151,,2020-04-03 19:06:16,2020-04-01,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,58.4,-223,21275,-1%,-13023.0,,,,,ICPT
+152,,2020-04-03 19:05:37,2020-04-01,ICPT,Kapadia Sandip,"CFO, Treasurer",F - Tax,58.4,-615,29832,-2%,-35916.0,,,,,ICPT
+153,,2020-04-03 19:02:59,2020-04-01,ICPT,Ford David A,CHRO,F - Tax,58.4,-92,13940,-1%,-5373.0,,,,,ICPT
+154,,2020-04-03 19:02:31,2020-04-01,ICPT,Durso Jerome Benedict,COO,F - Tax,58.4,-289,40319,-1%,-16878.0,,,,,ICPT
+155,,2020-04-03 19:02:10,2020-04-01,ICPT,Campagna Jason,Chief Medical Officer,F - Tax,58.4,-112,10152,-1%,-6541.0,,,,,ICPT
+156,,2020-04-03 19:01:48,2020-04-01,ICPT,Bright Lisa,"Pres, International",F - Tax,58.4,-301,22313,-1%,-17578.0,,,,,ICPT
+157,,2020-03-17 19:00:44,2020-03-15,ICPT,Campagna Jason,Chief Medical Officer,F - Tax,71.82,-69,10264,-1%,-4956.0,,,,,ICPT
+158,,2020-02-28 19:00:36,2020-02-27,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,85.39,-357,17367,-2%,-30484.0,,,,,ICPT
+159,,2020-02-28 19:00:36,2020-02-27,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,87.62,-113,17367,-1%,-9901.0,,,,,ICPT
+160,,2020-02-24 19:00:24,2020-02-23,ICPT,Durso Jerome Benedict,COO,F - Tax,94.99,-319,40608,-1%,-30302.0,,,,,ICPT
+161,,2020-02-21 19:00:19,2020-02-19,ICPT,Campagna Jason,Chief Medical Officer,F - Tax,96.24,-170,10333,-2%,-16361.0,,,,,ICPT
+162,,2020-02-14 19:01:50,2020-02-13,ICPT,Sullivan Ryan T,"GC, Secretary",F - Tax,94.69,-493,26187,-2%,-46682.0,,,,,ICPT
+163,,2020-02-14 19:00:27,2020-02-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,96.74,-319,22254,-1%,-30860.0,,,,,ICPT
+164,,2020-02-11 19:00:23,2020-02-08,ICPT,Ford David A,CHRO,F - Tax,95.17,-148,14032,-1%,-14085.0,,,,,ICPT
+165,D,2020-01-27 19:08:31,2020-01-23,ICPT,Sullivan Ryan T,"GC, Secretary",A - Grant,0.0,5600,26680,+27%,0.0,,,,,ICPT
+166,D,2020-01-27 19:07:47,2020-01-23,ICPT,Pruzanski Mark,"Pres, CEO",A - Grant,0.0,10800,577629,+2%,0.0,,,,,ICPT
+167,D,2020-01-27 19:06:48,2020-01-23,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",A - Grant,0.0,5400,21498,+34%,0.0,,,,,ICPT
+168,D,2020-01-27 19:06:07,2020-01-23,ICPT,Kapadia Sandip,"CFO, Treasurer",A - Grant,0.0,5600,30447,+23%,0.0,,,,,ICPT
+169,D,2020-01-27 19:05:34,2020-01-23,ICPT,Ford David A,CHRO,A - Grant,0.0,3600,14180,+34%,0.0,,,,,ICPT
+170,D,2020-01-27 19:05:05,2020-01-23,ICPT,Durso Jerome Benedict,COO,A - Grant,0.0,10600,40927,+35%,0.0,,,,,ICPT
+171,D,2020-01-27 19:04:28,2020-01-23,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",A - Grant,0.0,4200,22573,+23%,0.0,,,,,ICPT
+172,D,2020-01-27 19:03:44,2020-01-23,ICPT,Campagna Jason,Chief Medical Officer,A - Grant,0.0,4200,10503,+67%,0.0,,,,,ICPT
+173,D,2020-01-27 19:02:44,2020-01-23,ICPT,Bright Lisa,"Pres, International",A - Grant,0.0,4800,22614,+27%,0.0,,,,,ICPT
+174,D,2020-01-27 19:01:46,2020-01-23,ICPT,Weyer Christian,"EVP, Research, Development",A - Grant,0.0,4800,17837,+37%,0.0,,,,,ICPT
+175,D,2020-01-27 19:01:46,2020-01-27,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale+OE,94.04,-723,17837,-4%,-67991.0,,,,,ICPT
+176,,2020-01-08 19:00:49,2020-01-07,ICPT,Campagna Jason,Chief Medical Officer,S - Sale,113.02,-732,6303,-10%,-82731.0,,,,,ICPT
+177,M,2020-01-03 19:00:54,2019-12-31,ICPT,Durso Jerome Benedict,COO,F - Tax,123.92,-1485,30327,-5%,-184021.0,,,,,ICPT
+178,DM,2020-01-03 19:00:52,2019-12-31,ICPT,Pruzanski Mark,"Pres, CEO",F - Tax,123.92,-2297,566829,0%,-284644.0,,,,,ICPT
+179,D,2020-01-03 19:00:52,2019-12-31,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,21.5,100,566829,0%,2150.0,,,,,ICPT
+180,D,2020-01-03 19:00:52,2019-12-31,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,125.0,-100,566829,0%,-12500.0,,,,,ICPT
+181,M,2020-01-03 19:00:52,2019-12-31,ICPT,Bright Lisa,"Pres, International",F - Tax,123.92,-918,17814,-5%,-113759.0,,,,,ICPT
+182,M,2020-01-03 19:00:52,2019-12-31,ICPT,Kapadia Sandip,"CFO, Treasurer",F - Tax,123.92,-1220,24847,-5%,-151182.0,,,,,ICPT
+183,M,2020-01-03 19:00:52,2019-12-31,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,123.92,-649,16098,-4%,-80424.0,,,,,ICPT
+184,M,2020-01-03 19:00:52,2019-12-31,ICPT,Campagna Jason,Chief Medical Officer,F - Tax,123.92,-409,7035,-5%,-50683.0,,,,,ICPT
+185,M,2020-01-03 19:00:51,2019-12-31,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,123.92,-418,13760,-3%,-51799.0,,,,,ICPT
+186,,2020-01-03 19:00:51,2019-12-31,ICPT,Sullivan Ryan T,"GC, Secretary",F - Tax,123.92,-809,21080,-4%,-100251.0,,,,,ICPT
+187,M,2020-01-03 19:00:51,2019-12-31,ICPT,Ford David A,CHRO,F - Tax,123.92,-429,10580,-4%,-53162.0,,,,,ICPT
+188,,2020-01-03 19:00:51,2019-01-03,ICPT,Ford David A,CHRO,S - Sale,117.16,-259,10580,-2%,-30344.0,,,,,ICPT
+189,D,2020-01-03 19:00:51,2019-12-31,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,123.92,-349,18373,-2%,-43248.0,,,,,ICPT
+190,D,2020-01-03 19:00:51,2019-12-31,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",M - OptEx,54.63,262,18373,+1%,14313.0,,,,,ICPT
+191,D,2020-01-03 19:00:51,2019-12-31,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",S - Sale+OE,125.0,-262,18373,-1%,-32750.0,,,,,ICPT
+192,D,2019-12-30 19:01:06,2019-12-27,ICPT,Weyer Christian,"EVP, Research, Development",M - OptEx,59.08,470,14178,+3%,27766.0,,,,,ICPT
+193,D,2019-12-30 19:01:06,2019-12-27,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale+OE,123.24,-1581,14178,-10%,-194842.0,,,,,ICPT
+194,D,2019-12-30 19:00:56,2019-12-26,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,21.5,417,569126,0%,8966.0,,,,,ICPT
+195,D,2019-12-30 19:00:56,2019-12-26,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,125.0,-417,569126,0%,-52125.0,,,,,ICPT
+196,D,2019-12-30 19:00:45,2019-12-26,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",M - OptEx,54.63,54,18722,0%,2950.0,,,,,ICPT
+197,D,2019-12-30 19:00:45,2019-12-26,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",S - Sale+OE,125.0,-54,18722,0%,-6750.0,,,,,ICPT
+198,,2019-12-20 19:00:21,2019-12-19,ICPT,Campagna Jason,Chief Medical Officer,S - Sale,119.45,-154,7444,-2%,-18395.0,,,,,ICPT
+199,,2019-12-17 19:00:23,2019-12-15,ICPT,Campagna Jason,Chief Medical Officer,F - Tax,114.16,-80,7598,-1%,-9133.0,,,,,ICPT
+200,D,2019-12-05 19:00:28,2019-12-03,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",M - OptEx,54.63,80,18722,0%,4370.0,,,,,ICPT
+201,D,2019-12-02 19:00:54,2019-11-27,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,109.16,-357,15289,-2%,-38970.0,,,,,ICPT
+202,D,2019-12-02 19:00:54,2019-11-27,ICPT,Weyer Christian,"EVP, Research, Development",M - OptEx,59.1,927,15289,+6%,54784.0,,,,,ICPT
+203,D,2019-12-02 19:00:54,2019-11-27,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale+OE,101.65,-1040,15289,-6%,-105716.0,,,,,ICPT
+204,DM,2019-11-27 19:00:51,2019-11-25,ICPT,Weyer Christian,"EVP, Research, Development",M - OptEx,59.11,6228,15759,+65%,368119.0,,,,,ICPT
+205,DM,2019-11-27 19:00:51,2019-11-25,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale+OE,100.0,-6228,15759,-28%,-622800.0,,,,,ICPT
+206,DM,2019-11-27 19:00:20,2019-11-25,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,12.66,50000,569126,+10%,632983.0,,,,,ICPT
+207,DM,2019-11-27 19:00:20,2019-11-25,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,100.0,-50000,569126,-8%,-5000000.0,,,,,ICPT
+208,,2019-11-26 19:00:38,2019-11-23,ICPT,Durso Jerome Benedict,COO,F - Tax,88.89,-460,31812,-1%,-40889.0,,,,,ICPT
+209,,2019-11-19 19:01:01,2019-11-19,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,85.0,-1550,15759,-9%,-131750.0,,,,,ICPT
+210,D,2019-11-19 19:00:29,2019-11-19,ICPT,Sullivan Ryan T,"GC, Secretary",M - OptEx,53.41,8325,21889,+61%,444638.0,,,,,ICPT
+211,D,2019-11-19 19:00:29,2019-11-19,ICPT,Sullivan Ryan T,"GC, Secretary",S - Sale+OE,85.0,-12154,21889,-36%,-1033090.0,,,,,ICPT
+212,D,2019-11-15 19:02:30,2019-11-13,ICPT,Sullivan Ryan T,"GC, Secretary",F - Tax,83.92,-711,25718,-3%,-59667.0,,,,,ICPT
+213,D,2019-11-15 19:02:30,2019-11-13,ICPT,Sullivan Ryan T,"GC, Secretary",M - OptEx,53.41,500,25718,+2%,26705.0,,,,,ICPT
+214,D,2019-11-15 19:02:30,2019-11-13,ICPT,Sullivan Ryan T,"GC, Secretary",S - Sale+OE,85.0,-500,25718,-2%,-42500.0,,,,,ICPT
+215,,2019-11-15 19:01:55,2019-11-13,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,85.0,-946,17309,-5%,-80410.0,,,,,ICPT
+216,,2019-11-14 19:00:35,2019-11-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,83.02,-319,18642,-2%,-26483.0,,,,,ICPT
+217,,2019-11-12 19:00:21,2019-11-08,ICPT,Ford David A,CHRO,F - Tax,82.76,-128,11268,-1%,-10593.0,,,,,ICPT
+218,,2019-10-31 19:00:25,2019-10-29,ICPT,Bright Lisa,"Pres, International",S - Sale,75.0,-595,18732,-3%,-44625.0,,,,,ICPT
+219,,2019-10-25 19:00:34,2019-10-23,ICPT,Ford David A,CHRO,S - Sale,70.0,-58,11396,-1%,-4060.0,,,,,ICPT
+220,,2019-10-03 19:04:25,2019-10-01,ICPT,Ford David A,CHRO,F - Tax,65.87,-92,11454,-1%,-6060.0,,,,,ICPT
+221,,2019-10-03 19:03:55,2019-10-01,ICPT,Durso Jerome Benedict,COO,F - Tax,65.87,-417,32272,-1%,-27468.0,,,,,ICPT
+222,,2019-10-03 19:03:15,2019-10-01,ICPT,Bright Lisa,"Pres, International",F - Tax,65.87,-530,19327,-3%,-34911.0,,,,,ICPT
+223,,2019-10-03 19:02:48,2019-10-01,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,65.87,-46,18255,0%,-3030.0,,,,,ICPT
+224,,2019-10-03 19:02:07,2019-10-01,ICPT,Pruzanski Mark,"Pres, CEO",F - Tax,65.87,-1547,569126,0%,-101901.0,,,,,ICPT
+225,,2019-10-03 19:01:36,2019-10-01,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,65.87,-267,16747,-2%,-17587.0,,,,,ICPT
+226,,2019-10-03 19:00:23,2019-10-01,ICPT,Kapadia Sandip,"CFO, Treasurer",F - Tax,65.87,-626,26067,-2%,-41235.0,,,,,ICPT
+227,,2019-09-18 19:00:32,2019-09-16,ICPT,Ford David A,CHRO,S - Sale,70.0,-800,11546,-6%,-56000.0,,,,,ICPT
+228,,2019-08-30 14:32:12,2019-08-28,ICPT,Akkaraju Srinivas,Dir,P - Purchase,60.32,5207,425214,+1%,314086.0,,,,,ICPT
+229,,2019-08-29 19:00:21,2019-08-27,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,60.5,-357,18301,-2%,-21599.0,,,,,ICPT
+230,,2019-08-27 19:00:22,2019-08-23,ICPT,Durso Jerome Benedict,COO,F - Tax,60.9,-319,32689,-1%,-19427.0,,,,,ICPT
+231,AM,2019-08-23 20:14:02,2019-08-20,ICPT,Akkaraju Srinivas,Dir,P - Purchase,66.37,67784,420007,+19%,4498577.0,,,,,ICPT
+232,M,2019-08-22 19:53:04,2019-08-20,ICPT,Akkaraju Srinivas,Dir,A - Grant,66.37,67784,420007,+19%,4498577.0,,,,,ICPT
+233,,2019-08-14 19:01:28,2019-08-13,ICPT,Sullivan Ryan T,"GC, Secretary",F - Tax,66.03,-689,26429,-3%,-45495.0,,,,,ICPT
+234,,2019-08-14 19:01:10,2019-08-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,65.89,-319,18961,-2%,-21019.0,,,,,ICPT
+235,,2019-08-09 19:00:33,2019-08-08,ICPT,Ford David A,CHRO,F - Tax,66.05,-128,12346,-1%,-8454.0,,,,,ICPT
+236,,2019-07-15 19:00:58,2019-07-13,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,69.71,-111,17014,-1%,-7738.0,,,,,ICPT
+237,,2019-07-03 17:00:42,2019-07-01,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,79.17,-46,18658,0%,-3642.0,,,,,ICPT
+238,,2019-07-03 17:00:41,2019-07-01,ICPT,Pruzanski Mark,"Pres, CEO",F - Tax,79.17,-1548,570673,0%,-122555.0,,,,,ICPT
+239,,2019-07-03 17:00:41,2019-07-01,ICPT,Bright Lisa,"Pres, International",F - Tax,79.17,-530,19857,-3%,-41960.0,,,,,ICPT
+240,,2019-07-03 17:00:41,2019-07-03,ICPT,Bright Lisa,"Pres, International",S - Sale,78.66,-595,19857,-3%,-46803.0,,,,,ICPT
+241,,2019-07-03 17:00:41,2019-07-01,ICPT,Kapadia Sandip,"CFO, Treasurer",F - Tax,79.17,-615,26693,-2%,-48690.0,,,,,ICPT
+242,,2019-07-03 17:00:41,2019-07-01,ICPT,Durso Jerome Benedict,COO,F - Tax,79.17,-289,33008,-1%,-22880.0,,,,,ICPT
+243,,2019-07-03 17:00:41,2019-07-01,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,79.17,-268,17125,-2%,-21218.0,,,,,ICPT
+244,,2019-07-03 17:00:41,2019-07-01,ICPT,Ford David A,CHRO,F - Tax,79.17,-92,12474,-1%,-7284.0,,,,,ICPT
+245,D,2019-06-21 19:01:37,2019-06-20,ICPT,Welch Daniel G,Dir,A - Grant,0.0,1570,6465,+32%,0.0,,,,,ICPT
+246,D,2019-06-21 19:01:37,2019-06-20,ICPT,Akkaraju Srinivas,Dir,A - Grant,0.0,1570,352223,0%,0.0,,,,,ICPT
+247,D,2019-06-21 19:01:37,2019-06-20,ICPT,Bradbury Daniel,Dir,A - Grant,0.0,1570,14999,+12%,0.0,,,,,ICPT
+248,D,2019-06-21 19:01:37,2019-06-20,ICPT,Santini Gino,Dir,A - Grant,0.0,1570,7284,+27%,0.0,,,,,ICPT
+249,D,2019-06-21 19:01:37,2019-06-20,ICPT,Sblendorio Glenn,Dir,A - Grant,0.0,1570,7086,+28%,0.0,,,,,ICPT
+250,D,2019-06-21 19:01:37,2019-06-20,ICPT,Fundaro Paolo,Dir,A - Grant,0.0,1570,19433,+9%,0.0,,,,,ICPT
+251,D,2019-06-21 19:01:37,2019-06-20,ICPT,Benatti Luca,Dir,A - Grant,0.0,1570,9126,+21%,0.0,,,,,ICPT
+252,D,2019-06-21 19:01:37,2019-06-20,ICPT,Gottesdiener Keith Michael,Dir,A - Grant,0.0,1570,8358,+23%,0.0,,,,,ICPT
+253,D,2019-06-21 19:01:37,2019-06-20,ICPT,Miller-Rich Nancy,Dir,A - Grant,0.0,1570,5943,+36%,0.0,,,,,ICPT
+254,,2019-05-29 19:00:18,2019-05-27,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,87.83,-357,18704,-2%,-31355.0,,,,,ICPT
+255,,2019-05-28 19:00:27,2019-05-23,ICPT,Durso Jerome Benedict,COO,F - Tax,85.51,-460,33297,-1%,-39335.0,,,,,ICPT
+256,D,2019-05-22 19:00:48,2019-05-20,ICPT,Fundaro Paolo,Dir,M - OptEx,15.24,6749,17863,+61%,102887.0,,,,,ICPT
+257,,2019-05-14 19:00:18,2019-05-14,ICPT,Akkaraju Srinivas,Dir,A - Grant,83.5,119760,350653,+52%,9999960.0,,,,,ICPT
+258,,2019-05-14 19:00:18,2019-05-13,ICPT,Sullivan Ryan T,"GC, Secretary",F - Tax,83.73,-711,27118,-3%,-59532.0,,,,,ICPT
+259,,2019-05-14 19:00:18,2019-05-14,ICPT,Benatti Luca,Dir,P - Purchase,83.5,1200,7556,+19%,100200.0,,,,,ICPT
+260,,2019-05-14 19:00:18,2019-05-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,86.66,-319,19280,-2%,-27645.0,,,,,ICPT
+261,,2019-05-10 19:00:21,2019-05-08,ICPT,Ford David A,CHRO,F - Tax,87.57,-128,12566,-1%,-11209.0,,,,,ICPT
+262,D,2019-05-03 19:00:23,2019-05-01,ICPT,Shapiro David,Chief Medical Officer,M - OptEx,31.9,2000,39499,+5%,63800.0,,,,,ICPT
+263,D,2019-05-03 19:00:23,2019-05-01,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,86.28,-2000,39499,-5%,-172560.0,,,,,ICPT
+264,D,2019-04-29 19:00:27,2019-04-25,ICPT,Akkaraju Srinivas,Dir,M - OptEx,24.47,3500,230893,+2%,85660.0,,,,,ICPT
+265,D,2019-04-22 19:01:57,2019-04-18,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",M - OptEx,54.63,1750,19599,+10%,95603.0,,,,,ICPT
+266,D,2019-04-16 19:01:00,2019-04-15,ICPT,Shapiro David,Chief Medical Officer,M - OptEx,31.9,2000,39499,+5%,63800.0,,,,,ICPT
+267,D,2019-04-16 19:01:00,2019-04-15,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,95.0,-2000,39499,-5%,-190000.0,,,,,ICPT
+268,,2019-04-16 19:00:19,2019-04-13,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,95.21,-77,17393,0%,-7331.0,,,,,ICPT
+269,,2019-04-03 19:01:33,2019-04-01,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,111.5,-46,19061,0%,-5129.0,,,,,ICPT
+270,,2019-04-03 19:01:33,2019-04-01,ICPT,Bright Lisa,"Pres, International",F - Tax,111.5,-531,20982,-2%,-59207.0,,,,,ICPT
+271,,2019-04-03 19:01:33,2019-04-03,ICPT,Bright Lisa,"Pres, International",S - Sale,115.01,-594,20982,-3%,-68316.0,,,,,ICPT
+272,,2019-04-03 19:01:33,2019-04-01,ICPT,Durso Jerome Benedict,COO,F - Tax,111.5,-289,33757,-1%,-32224.0,,,,,ICPT
+273,,2019-04-03 19:00:25,2019-04-01,ICPT,Pruzanski Mark,"Pres, CEO",F - Tax,111.5,-1547,572221,0%,-172491.0,,,,,ICPT
+274,,2019-04-03 19:00:25,2019-04-01,ICPT,Shapiro David,Chief Medical Officer,F - Tax,111.5,-482,39499,-1%,-53743.0,,,,,ICPT
+275,,2019-04-03 19:00:25,2019-04-03,ICPT,Shapiro David,Chief Medical Officer,S - Sale,115.01,-562,39499,-1%,-64636.0,,,,,ICPT
+276,,2019-04-03 19:00:25,2019-04-01,ICPT,Kapadia Sandip,"CFO, Treasurer",F - Tax,111.5,-615,27308,-2%,-68573.0,,,,,ICPT
+277,,2019-04-03 19:00:25,2019-04-01,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,111.5,-267,17470,-2%,-29771.0,,,,,ICPT
+278,,2019-04-03 19:00:25,2019-04-01,ICPT,Ford David A,CHRO,F - Tax,111.5,-92,12694,-1%,-10258.0,,,,,ICPT
+279,,2019-03-29 19:00:18,2019-03-29,ICPT,Fundaro Paolo,Dir,S - Sale,107.45,-2171,11114,-16%,-233272.0,,,,,ICPT
+280,,2019-03-01 19:00:38,2019-02-27,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,92.76,-364,19107,-2%,-33765.0,,,,,ICPT
+281,,2019-03-01 19:00:38,2019-03-01,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,103.16,-333,19107,-2%,-34352.0,,,,,ICPT
+282,D,2019-03-01 19:00:25,2019-03-01,ICPT,Shapiro David,Chief Medical Officer,M - OptEx,31.9,2000,40543,+5%,63800.0,,,,,ICPT
+283,D,2019-03-01 19:00:25,2019-03-01,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,103.16,-2000,40543,-5%,-206320.0,,,,,ICPT
+284,,2019-02-21 20:33:33,2019-02-19,ICPT,Akkaraju Srinivas,Dir,S - Sale,128.78,-23438,210937,-10%,-3018346.0,,,,,ICPT
+285,D,2019-02-20 21:01:02,2019-02-15,ICPT,Shapiro David,Chief Medical Officer,M - OptEx,31.9,2000,40543,+5%,63800.0,,,,,ICPT
+286,D,2019-02-20 21:01:02,2019-02-15,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,111.51,-2000,40543,-5%,-223020.0,,,,,ICPT
+287,,2019-02-14 19:01:05,2019-02-13,ICPT,Sullivan Ryan T,"GC, Secretary",F - Tax,110.35,-1971,27829,-7%,-217500.0,,,,,ICPT
+288,,2019-02-14 19:00:28,2019-02-12,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",F - Tax,111.05,-1276,17849,-7%,-141700.0,,,,,ICPT
+289,,2019-02-11 19:00:17,2019-02-08,ICPT,Ford David A,CHRO,F - Tax,118.9,-125,12786,-1%,-14863.0,,,,,ICPT
+290,D,2019-01-18 19:05:31,2019-01-16,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",A - Grant,0.0,4000,17737,+29%,0.0,,,,,ICPT
+291,D,2019-01-18 19:04:59,2019-01-16,ICPT,Weyer Christian,"EVP, Research, Development",A - Grant,0.0,4200,19804,+27%,0.0,,,,,ICPT
+292,D,2019-01-18 19:04:34,2019-01-16,ICPT,Sullivan Ryan T,"GC, Secretary",A - Grant,0.0,6600,29800,+28%,0.0,,,,,ICPT
+293,D,2019-01-18 19:04:17,2019-01-16,ICPT,Shapiro David,Chief Medical Officer,A - Grant,0.0,3300,40543,+9%,0.0,,,,,ICPT
+294,D,2019-01-18 19:03:40,2019-01-16,ICPT,Pruzanski Mark,"Pres, CEO",A - Grant,0.0,8500,573768,+2%,0.0,,,,,ICPT
+295,D,2019-01-18 19:03:05,2019-01-16,ICPT,Kapadia Sandip,"CFO, Treasurer",A - Grant,0.0,4500,27923,+19%,0.0,,,,,ICPT
+296,D,2019-01-18 19:02:16,2019-01-16,ICPT,Ford David A,CHRO,A - Grant,0.0,3800,12911,+42%,0.0,,,,,ICPT
+297,D,2019-01-18 19:01:30,2019-01-16,ICPT,Durso Jerome Benedict,COO,A - Grant,0.0,9400,34365,+38%,0.0,,,,,ICPT
+298,D,2019-01-18 19:00:43,2019-01-16,ICPT,Cawkwell Gail,"SVP, Med Affairs, Safety, PV",A - Grant,0.0,4100,19125,+27%,0.0,,,,,ICPT
+299,D,2019-01-18 19:00:22,2019-01-16,ICPT,Bright Lisa,"Pres, International",A - Grant,0.0,3300,22107,+18%,0.0,,,,,ICPT
+300,,2019-01-15 19:00:03,2019-01-13,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,109.73,-77,13737,-1%,-8449.0,,,,,ICPT
+301,,2019-01-09 20:00:39,2019-01-07,ICPT,Bright Lisa,"Pres, International",S - Sale,104.93,-1313,18807,-7%,-137773.0,,,,,ICPT
+302,,2019-01-04 19:01:13,2019-01-04,ICPT,Shapiro David,Chief Medical Officer,S - Sale,97.48,-474,37243,-1%,-46206.0,,,,,ICPT
+303,,2019-01-03 19:04:36,2019-01-01,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,100.79,-215,15604,-1%,-21670.0,,,,,ICPT
+304,D,2019-01-03 19:04:00,2019-01-01,ICPT,Shapiro David,Chief Medical Officer,F - Tax,100.79,-736,37717,-2%,-74181.0,,,,,ICPT
+305,D,2019-01-03 19:04:00,2019-01-02,ICPT,Shapiro David,Chief Medical Officer,M - OptEx,31.9,2000,37717,+6%,63800.0,,,,,ICPT
+306,DM,2019-01-03 19:04:00,2019-01-02,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,98.07,-2699,37717,-7%,-264678.0,,,,,ICPT
+307,,2019-01-03 19:03:36,2019-01-01,ICPT,Pruzanski Mark,"Pres, CEO",F - Tax,100.79,-1537,565268,0%,-154914.0,,,,,ICPT
+308,,2019-01-03 19:03:10,2019-01-01,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,100.79,-702,13814,-5%,-70755.0,,,,,ICPT
+309,,2019-01-03 19:02:40,2019-01-01,ICPT,Kapadia Sandip,"CFO, Treasurer",F - Tax,100.79,-1118,23423,-5%,-112683.0,,,,,ICPT
+310,,2019-01-03 19:02:07,2019-01-01,ICPT,Ford David A,CHRO,F - Tax,100.79,-423,9111,-4%,-42634.0,,,,,ICPT
+311,,2019-01-03 19:01:41,2019-01-01,ICPT,Durso Jerome Benedict,COO,F - Tax,100.79,-1219,24965,-5%,-122863.0,,,,,ICPT
+312,,2019-01-03 19:00:25,2019-01-01,ICPT,Bright Lisa,"Pres, International",F - Tax,100.79,-1168,20120,-5%,-117723.0,,,,,ICPT
+313,D,2018-12-19 19:00:25,2018-12-17,ICPT,Shapiro David,Chief Medical Officer,M - OptEx,31.9,2000,39152,+5%,63800.0,,,,,ICPT
+314,D,2018-12-19 19:00:25,2018-12-17,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,106.62,-2000,39152,-5%,-213240.0,,,,,ICPT
+315,M,2018-12-06 19:00:28,2018-12-03,ICPT,Bright Lisa,"Pres, International",S - Sale,111.42,-5000,21288,-19%,-557121.0,,,,,ICPT
+316,,2018-12-03 16:34:09,2018-11-29,ICPT,Micheli Francesco,10%,S - Sale,105.07,-750000,6095578,-11%,-78802500.0,,,,,ICPT
+317,,2018-12-03 16:31:37,2018-11-29,ICPT,Genextra S.P.A.,10%,S - Sale,105.07,-750000,6095578,-11%,-78802500.0,,,,,ICPT
+318,,2018-11-29 19:00:27,2018-11-27,ICPT,Weyer Christian,"EVP, Research, Development",F - Tax,108.66,-1438,15819,-8%,-156253.0,,,,,ICPT
+319,,2018-11-29 19:00:27,2018-11-29,ICPT,Weyer Christian,"EVP, Research, Development",S - Sale,113.78,-1343,15819,-8%,-152807.0,,,,,ICPT
+320,,2018-11-27 19:01:16,2018-11-23,ICPT,Durso Jerome Benedict,COO,F - Tax,111.07,-460,26184,-2%,-51092.0,,,,,ICPT
+321,,2018-11-27 19:00:46,2018-11-24,ICPT,Bright Lisa,"Pres, International",F - Tax,111.07,-247,26288,-1%,-27434.0,,,,,ICPT
+322,DM,2018-11-16 19:00:24,2018-11-15,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,8.67,50000,566805,+10%,433335.0,,,,,ICPT
+323,DM,2018-11-16 19:00:24,2018-11-15,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,101.07,-50000,566805,-8%,-5053713.0,,,,,ICPT
+324,,2018-11-09 19:00:12,2018-11-08,ICPT,Ford David A,CHRO,F - Tax,113.79,-128,9534,-1%,-14565.0,,,,,ICPT
+325,D,2018-11-02 19:01:47,2018-11-01,ICPT,Shapiro David,Chief Medical Officer,M - OptEx,21.5,2000,39152,+5%,43000.0,,,,,ICPT
+326,D,2018-11-02 19:01:47,2018-11-01,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,96.32,-2000,39152,-5%,-192640.0,,,,,ICPT
+327,,2018-10-16 19:00:30,2018-10-13,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,103.73,-77,14516,-1%,-7987.0,,,,,ICPT
+328,D,2018-10-16 19:00:07,2018-10-15,ICPT,Shapiro David,Chief Medical Officer,M - OptEx,21.5,3425,39152,+10%,73638.0,,,,,ICPT
+329,D,2018-10-16 19:00:07,2018-10-15,ICPT,Shapiro David,Chief Medical Officer,S - Sale+OE,102.95,-3425,39152,-8%,-352604.0,,,,,ICPT
+330,,2018-10-05 19:01:01,2018-10-05,ICPT,Shapiro David,Chief Medical Officer,S - Sale,110.65,-759,39152,-2%,-83983.0,,,,,ICPT
+331,M,2018-10-03 19:03:08,2018-01-01,ICPT,Shapiro David,Chief Medical Officer,F - Tax,76.32,-2285,39911,-5%,-174390.0,,,,,ICPT
+332,M,2018-10-03 19:02:46,2017-10-13,ICPT,Kim Richard J,"Pres US Comm, Strat Mktg",F - Tax,64.09,-2412,14593,-14%,-154580.0,,,,,ICPT
+333,,2018-10-03 19:02:16,2018-05-31,ICPT,Bright Lisa,"Pres, International",A - Grant,0.0,879,26535,+3%,0.0,,,,,ICPT
+334,M,2018-10-03 19:02:16,2017-11-24,ICPT,Bright Lisa,"Pres, International",F - Tax,73.65,-4729,26535,-15%,-348274.0,,,,,ICPT
+335,M,2018-10-03 19:01:45,2018-01-01,ICPT,Kapadia Sandip,"CFO, Treasurer",F - Tax,77.65,-2574,24541,-9%,-199882.0,,,,,ICPT
+336,M,2018-10-03 19:01:15,2018-02-23,ICPT,Durso Jerome Benedict,COO,F - Tax,70.77,-1956,26644,-7%,-138420.0,,,,,ICPT
+337,M,2018-10-03 19:00:54,2018-05-08,ICPT,Ford David A,CHRO,F - Tax,79.52,-638,9662,-6%,-50732.0,,,,,ICPT
+338,M,2018-10-03 19:00:25,2018-01-01,ICPT,Pruzanski Mark,"Pres, CEO",F - Tax,78.71,-9759,566805,-2%,-768170.0,,,,,ICPT
+339,,2018-09-07 18:00:44,2018-09-05,ICPT,Shapiro David,Chief Medical Officer,S - Sale,111.43,-4917,42196,-10%,-547891.0,,,,,ICPT
+340,D,2018-06-22 17:04:38,2018-06-20,ICPT,Sblendorio Glenn,Dir,A - Grant,0.0,1787,5516,+48%,0.0,,,,,ICPT
+341,D,2018-06-22 17:03:55,2018-06-20,ICPT,Akkaraju Srinivas,Dir,A - Grant,0.0,1787,250831,+1%,0.0,,,,,ICPT
+342,D,2018-06-22 17:03:18,2018-06-20,ICPT,Santini Gino,Dir,A - Grant,0.0,1787,5714,+46%,0.0,,,,,ICPT
+343,D,2018-06-22 17:02:43,2018-06-20,ICPT,Fundaro Paolo,Dir,A - Grant,0.0,1787,13285,+16%,0.0,,,,,ICPT
+344,D,2018-06-22 17:02:18,2018-06-20,ICPT,Welch Daniel G,Dir,A - Grant,0.0,1787,4895,+57%,0.0,,,,,ICPT
+345,D,2018-06-22 17:01:53,2018-06-20,ICPT,Miller-Rich Nancy,Dir,A - Grant,0.0,4373,4373,New,0.0,,,,,ICPT
+346,D,2018-06-22 17:01:21,2018-06-20,ICPT,Gottesdiener Keith Michael,Dir,A - Grant,0.0,1787,6788,+36%,0.0,,,,,ICPT
+347,D,2018-06-22 17:00:52,2018-06-20,ICPT,Bradbury Daniel,Dir,A - Grant,0.0,1787,13429,+15%,0.0,,,,,ICPT
+348,D,2018-06-22 17:00:24,2018-06-20,ICPT,Benatti Luca,Dir,A - Grant,0.0,1787,6356,+39%,0.0,,,,,ICPT
+349,,2018-04-09 19:37:17,2018-04-09,ICPT,Gottesdiener Keith Michael,Dir,P - Purchase,64.0,1171,5001,+31%,74944.0,,,,,ICPT
+350,,2018-04-09 19:36:47,2018-04-09,ICPT,Pruzanski Mark,"CEO, Pres",P - Purchase,64.0,7812,576564,+1%,499968.0,,,,,ICPT
+351,,2018-04-09 19:36:22,2018-04-09,ICPT,Bradbury Daniel,Dir,P - Purchase,64.0,7812,11642,+204%,499968.0,,,,,ICPT
+352,,2018-04-09 17:20:53,2018-04-09,ICPT,Genextra S.P.A.,10%,P - Purchase,64.0,390625,6845578,+6%,25000000.0,,,,,ICPT
+353,,2018-04-09 17:19:51,2018-04-09,ICPT,Micheli Francesco,10%,P - Purchase,64.0,390625,6845578,+6%,25000000.0,,,,,ICPT
+354,,2018-04-09 17:10:05,2018-04-05,ICPT,Akkaraju Srinivas,Dir,A - Grant,64.0,234375,249044,>999%,15000000.0,,,,,ICPT
+355,D,2018-02-22 21:03:01,2018-02-05,ICPT,Bright Lisa,Pres International,A - Grant,0.0,5500,30385,+22%,0.0,,,,,ICPT
+356,D,2018-02-22 21:02:37,2018-02-05,ICPT,Ford David A,CHRO,A - Grant,0.0,4300,10300,+72%,0.0,,,,,ICPT
+357,D,2018-02-22 21:01:52,2018-02-05,ICPT,Weyer Christian,"EVP Research, Development",A - Grant,0.0,2100,18600,+13%,0.0,,,,,ICPT
+358,D,2018-02-22 21:01:24,2018-02-05,ICPT,Durso Jerome Benedict,COO,A - Grant,0.0,13600,28600,+91%,0.0,,,,,ICPT
+359,D,2018-02-22 21:01:01,2018-02-05,ICPT,Kim Richard J,Pres U.S. Commercial,A - Grant,0.0,5800,17005,+52%,0.0,,,,,ICPT
+360,D,2018-02-22 21:00:34,2018-02-05,ICPT,Kapadia Sandip,CFO,A - Grant,0.0,6900,27115,+34%,0.0,,,,,ICPT
+361,D,2018-02-22 21:00:11,2018-02-05,ICPT,Shapiro David,Chief Medical Officer,A - Grant,0.0,2900,47113,+7%,0.0,,,,,ICPT
+362,D,2018-02-15 16:33:54,2018-02-13,ICPT,Sullivan Ryan T,GC,A - Grant,0.0,23200,23200,New,0.0,,,,,ICPT
+363,M,2018-01-26 21:00:25,2017-08-01,ICPT,Bright Lisa,Pres International,A - Grant,0.0,2051,24885,+9%,0.0,,,,,ICPT
+364,D,2017-12-11 21:01:35,2017-11-27,ICPT,Weyer Christian,"EVP Research, Development",A - Grant,0.0,16500,16500,New,0.0,,,,,ICPT
+365,,2017-10-04 21:02:44,2017-10-02,ICPT,Kim Richard J,"SVP, Commercial US",S - Sale,58.1,-48,11205,0%,-2789.0,,,,,ICPT
+366,,2017-10-04 21:02:19,2017-10-02,ICPT,Kapadia Sandip,CFO,S - Sale,58.83,-354,20215,-2%,-20827.0,,,,,ICPT
+367,,2017-10-04 21:01:58,2017-10-02,ICPT,Bright Lisa,Pres International,S - Sale,58.92,-390,22834,-2%,-22980.0,,,,,ICPT
+368,,2017-10-04 21:01:25,2017-10-02,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,58.9,-349,44213,-1%,-20556.0,,,,,ICPT
+369,,2017-10-04 21:01:03,2017-10-02,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale,58.87,-1532,568752,0%,-90189.0,,,,,ICPT
+370,,2017-10-04 21:00:19,2017-10-02,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,58.89,-283,16875,-2%,-16667.0,,,,,ICPT
+371,D,2017-09-05 21:00:31,2017-09-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,31.9,1250,44562,+3%,39875.0,,,,,ICPT
+372,D,2017-09-05 21:00:31,2017-09-01,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,117.43,-1250,44562,-3%,-146788.0,,,,,ICPT
+373,,2017-08-29 21:00:53,2017-08-25,ICPT,Bright Lisa,Pres International,S - Sale,111.31,-253,23224,-1%,-28161.0,,,,,ICPT
+374,,2017-08-02 21:01:02,2017-08-02,ICPT,Bright Lisa,Pres International,S - Sale,110.29,-142,23477,-1%,-15661.0,,,,,ICPT
+375,D,2017-08-02 21:00:33,2017-08-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,1118,44562,+3%,9689.0,,,,,ICPT
+376,D,2017-08-02 21:00:33,2017-08-01,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,119.0,-1118,44562,-2%,-133042.0,,,,,ICPT
+377,,2017-08-02 21:00:04,2017-07-31,ICPT,Welch Daniel G,Dir,S - Sale,123.93,-602,3108,-16%,-74604.0,,,,,ICPT
+378,,2017-08-02 20:59:38,2017-07-31,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,123.12,-130,17158,-1%,-16005.0,,,,,ICPT
+379,,2017-07-21 21:00:16,2017-07-20,ICPT,Welch Daniel G,Dir,S - Sale,126.76,-217,3710,-6%,-27507.0,,,,,ICPT
+380,,2017-07-18 21:00:14,2017-07-14,ICPT,Kim Richard J,"SVP, Commercial US",S - Sale,128.64,-89,11253,-1%,-11449.0,,,,,ICPT
+381,,2017-07-13 21:00:20,2017-07-11,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,124.01,-553,44562,-1%,-68578.0,,,,,ICPT
+382,,2017-07-05 21:02:05,2017-07-03,ICPT,Kapadia Sandip,CFO,S - Sale,121.59,-1431,20569,-7%,-173999.0,,,,,ICPT
+383,,2017-07-05 21:01:46,2017-07-03,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,121.24,-350,45115,-1%,-42435.0,,,,,ICPT
+384,,2017-07-05 21:01:16,2017-07-03,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale,121.78,-1434,570284,0%,-174633.0,,,,,ICPT
+385,,2017-07-05 21:00:52,2017-07-03,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,121.78,-257,17288,-1%,-31297.0,,,,,ICPT
+386,,2017-07-05 21:00:21,2017-07-03,ICPT,Bright Lisa,Pres International,S - Sale,121.33,-394,23619,-2%,-47802.0,,,,,ICPT
+387,,2017-07-05 20:59:53,2017-07-03,ICPT,Kim Richard J,"SVP, Commercial US",S - Sale,121.69,-50,11342,0%,-6085.0,,,,,ICPT
+388,D,2017-06-29 21:04:06,2017-06-27,ICPT,Sblendorio Glenn,Dir,A - Grant,0.0,1423,3729,+62%,0.0,,,,,ICPT
+389,D,2017-06-29 21:03:31,2017-06-27,ICPT,Santini Gino,Dir,A - Grant,0.0,1423,3927,+57%,0.0,,,,,ICPT
+390,D,2017-06-29 21:02:56,2017-06-27,ICPT,Welch Daniel G,Dir,A - Grant,0.0,1423,3927,+57%,0.0,,,,,ICPT
+391,D,2017-06-29 21:02:23,2017-06-27,ICPT,Bradbury Daniel,Dir,A - Grant,0.0,1423,3830,+59%,0.0,,,,,ICPT
+392,D,2017-06-29 21:01:48,2017-06-27,ICPT,Akkaraju Srinivas,Dir,A - Grant,0.0,1423,14669,+11%,0.0,,,,,ICPT
+393,D,2017-06-29 21:01:14,2017-06-27,ICPT,Fundaro Paolo,Dir,A - Grant,0.0,1423,11498,+14%,0.0,,,,,ICPT
+394,D,2017-06-29 21:00:41,2017-06-27,ICPT,Benatti Luca,Dir,A - Grant,0.0,1423,4569,+45%,0.0,,,,,ICPT
+395,D,2017-06-29 21:00:06,2017-06-27,ICPT,Gottesdiener Keith Michael,Dir,A - Grant,0.0,1423,3830,+59%,0.0,,,,,ICPT
+396,D,2017-06-28 21:00:00,2017-06-26,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.67,40000,571718,+8%,346668.0,,,,,ICPT
+397,D,2017-06-28 21:00:00,2017-06-26,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,130.8,-40000,571718,-7%,-5231864.0,,,,,ICPT
+398,,2017-06-02 21:00:28,2017-06-01,ICPT,Bright Lisa,Pres International,A - Grant,0.0,1465,24013,+6%,0.0,,,,,ICPT
+399,,2017-06-02 21:00:28,2017-06-01,ICPT,Bright Lisa,Pres International,S - Sale,110.73,-698,24013,-3%,-77289.0,,,,,ICPT
+400,,2017-05-30 21:00:33,2017-05-25,ICPT,Bright Lisa,Pres International,S - Sale,117.52,-254,23246,-1%,-29850.0,,,,,ICPT
+401,,2017-05-18 21:00:21,2017-05-16,ICPT,Bright Lisa,Pres International,A - Grant,0.0,235,23500,+1%,0.0,,,,,ICPT
+402,,2017-05-18 21:00:21,2017-05-16,ICPT,Bright Lisa,Pres International,S - Sale,119.74,-113,23500,0%,-13531.0,,,,,ICPT
+403,,2017-05-10 21:05:46,2017-05-02,ICPT,Bright Lisa,Pres International,A - Grant,0.0,879,23378,+4%,0.0,0.0,,,,ICPT
+404,,2017-05-10 21:05:46,2017-05-02,ICPT,Bright Lisa,Pres International,S - Sale,114.0,-426,23378,-2%,-48564.0,0.0,,,,ICPT
+405,D,2017-05-10 21:05:22,2017-05-08,ICPT,Ford David A,CHRO,A - Grant,0.0,6000,6000,New,0.0,0.0,,,,ICPT
+406,D,2017-05-03 21:01:47,2017-05-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,1117,45465,+3%,9681.0,4.0,3.0,,,ICPT
+407,D,2017-05-03 21:01:47,2017-05-01,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,112.18,-1117,45465,-2%,-125305.0,4.0,3.0,,,ICPT
+408,,2017-05-03 21:01:13,2017-05-01,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,113.12,-114,17545,-1%,-12896.0,4.0,3.0,,,ICPT
+409,,2017-04-11 21:00:36,2017-04-10,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,108.51,-558,45465,-1%,-60549.0,-3.0,-2.0,7.0,,ICPT
+410,,2017-04-05 21:01:26,2017-04-03,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,115.0,-257,17659,-1%,-29554.0,-1.0,-1.0,7.0,,ICPT
+411,,2017-04-05 21:01:04,2017-04-03,ICPT,Bright Lisa,Pres International,S - Sale,115.0,-389,22925,-2%,-44734.0,-1.0,-1.0,7.0,,ICPT
+412,,2017-04-05 21:00:45,2017-04-03,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,115.0,-346,46023,-1%,-39789.0,-1.0,-1.0,7.0,,ICPT
+413,,2017-04-05 21:00:17,2017-04-03,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale,115.0,-1,571718,0%,-137.0,-1.0,-1.0,7.0,,ICPT
+414,,2017-03-06 21:01:06,2017-03-02,ICPT,Bright Lisa,Pres International,A - Grant,0.0,2814,23314,+14%,0.0,-3.0,1.0,-11.0,,ICPT
+415,,2017-03-06 21:01:06,2017-03-02,ICPT,Bright Lisa,Pres International,S - Sale,130.16,-1313,23314,-5%,-170903.0,-3.0,1.0,-11.0,,ICPT
+416,D,2017-03-03 21:01:40,2017-03-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,21.5,1350,46369,+3%,29025.0,-1.0,-1.0,-11.0,,ICPT
+417,D,2017-03-03 21:01:40,2017-03-01,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,128.66,-1350,46369,-3%,-173691.0,-1.0,-1.0,-11.0,,ICPT
+418,,2017-03-03 21:00:40,2017-03-01,ICPT,Bright Lisa,Pres International,A - Grant,0.0,293,21813,+1%,0.0,-1.0,-1.0,-11.0,,ICPT
+419,,2017-03-03 21:00:40,2017-03-01,ICPT,Bright Lisa,Pres International,S - Sale,130.16,-136,21813,-1%,-17702.0,-1.0,-1.0,-11.0,,ICPT
+420,,2017-03-01 21:00:22,2017-02-27,ICPT,Bright Lisa,Pres International,S - Sale,119.48,-254,21695,-1%,-30348.0,-2.0,-6.0,-10.0,,ICPT
+421,D,2017-02-27 21:01:15,2017-02-23,ICPT,Durso Jerome Benedict,COO,A - Grant,0.0,15000,15000,New,0.0,2.0,2.0,-6.0,,ICPT
+422,D,2017-02-03 21:02:13,2017-02-01,ICPT,McMinn Rachel,Chief Strategy Officer,A - Grant,0.0,5000,17916,+39%,0.0,2.0,2.0,15.0,,ICPT
+423,D,2017-02-03 21:01:41,2017-02-01,ICPT,Bright Lisa,Pres International,A - Grant,0.0,4700,21949,+27%,0.0,2.0,2.0,15.0,,ICPT
+424,D,2017-02-03 21:01:18,2017-02-01,ICPT,Kapadia Sandip,CFO,A - Grant,0.0,7000,22000,+47%,0.0,2.0,2.0,15.0,,ICPT
+425,D,2017-02-03 21:00:49,2017-02-01,ICPT,Shapiro David,"CMO, EVP - Development",A - Grant,0.0,6000,46369,+15%,0.0,2.0,2.0,15.0,,ICPT
+426,D,2017-02-03 21:00:17,2017-02-01,ICPT,Pruzanski Mark,"CEO, Pres",A - Grant,0.0,23200,575905,+4%,0.0,2.0,2.0,15.0,,ICPT
+427,,2017-02-02 21:00:26,2017-01-31,ICPT,Bright Lisa,Pres International,A - Grant,0.0,293,17249,+2%,0.0,2.0,5.0,18.0,,ICPT
+428,,2017-02-02 21:00:26,2017-01-31,ICPT,Bright Lisa,Pres International,S - Sale,108.96,-134,17249,-1%,-14601.0,2.0,5.0,18.0,,ICPT
+429,,2017-01-11 21:00:42,2017-01-09,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,106.01,-1565,40369,-4%,-165906.0,4.0,10.0,7.0,,ICPT
+430,,2017-01-05 21:01:39,2017-01-03,ICPT,Bright Lisa,Pres International,S - Sale,103.92,-1119,17090,-6%,-116285.0,0.0,0.0,4.0,,ICPT
+431,,2017-01-05 21:01:09,2017-01-03,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,103.92,-988,41934,-2%,-102672.0,0.0,0.0,4.0,,ICPT
+432,,2017-01-05 21:00:44,2017-01-03,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale,103.92,-2802,552705,-1%,-291181.0,0.0,0.0,4.0,,ICPT
+433,,2017-01-05 21:00:16,2017-01-03,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,103.92,-816,12916,-6%,-84798.0,0.0,0.0,4.0,,ICPT
+434,D,2016-12-08 21:00:19,2016-12-06,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,28.67,3487,555507,+1%,99983.0,3.0,2.0,3.0,,ICPT
+435,,2016-12-06 21:00:25,2016-12-02,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,99.75,-1350,42922,-3%,-134663.0,-2.0,1.0,0.0,,ICPT
+436,,2016-11-29 21:00:19,2016-11-25,ICPT,Bright Lisa,Pres International,S - Sale,113.6,-249,18209,-1%,-28286.0,-3.0,-1.0,8.0,,ICPT
+437,,2016-11-17 21:39:08,2016-11-14,ICPT,Bright Lisa,Pres International,A - Grant,0.0,293,18458,+2%,0.0,-1.0,-1.0,-5.0,,ICPT
+438,,2016-11-17 21:39:08,2016-11-15,ICPT,Bright Lisa,Pres International,S - Sale,112.27,-140,18458,-1%,-15718.0,-1.0,-1.0,-5.0,,ICPT
+439,,2016-11-02 21:00:17,2016-10-31,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,123.82,-129,13732,-1%,-15972.0,-16.0,-16.0,-14.0,0.0,ICPT
+440,,2016-10-12 21:00:37,2016-10-10,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,153.34,-411,44272,-1%,-63023.0,0.0,-3.0,-21.0,-26.0,ICPT
+441,,2016-10-05 21:07:58,2016-10-03,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale,163.2,-705,552020,0%,-115056.0,0.0,-1.0,-24.0,-29.0,ICPT
+442,D,2016-10-05 21:06:33,2016-10-03,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,21.5,1350,44683,+3%,29025.0,0.0,-1.0,-24.0,-29.0,ICPT
+443,D,2016-10-05 21:06:33,2016-10-03,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,163.08,-1513,44683,-3%,-246733.0,0.0,-1.0,-24.0,-29.0,ICPT
+444,,2016-10-05 21:04:41,2016-10-03,ICPT,Duncan Barbara Gayle,Chief Accounting Officer,S - Sale,163.2,-147,30661,0%,-23990.0,0.0,-1.0,-24.0,-29.0,ICPT
+445,,2016-10-05 21:02:15,2016-10-03,ICPT,Bright Lisa,See Remarks,S - Sale,163.2,-155,18305,-1%,-25296.0,0.0,-1.0,-24.0,-29.0,ICPT
+446,,2016-09-28 21:00:19,2016-09-26,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,165.08,-3545,44846,-7%,-585200.0,-4.0,-9.0,-22.0,-30.0,ICPT
+447,D,2016-09-22 21:00:23,2016-09-20,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.94,35000,552725,+7%,313054.0,-2.0,-2.0,-19.0,-32.0,ICPT
+448,D,2016-09-22 21:00:23,2016-09-20,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,165.0,-35000,552725,-6%,-5775000.0,-2.0,-2.0,-19.0,-32.0,ICPT
+449,,2016-08-25 21:00:16,2016-08-25,ICPT,Bright Lisa,Pres of International,S - Sale,159.0,-246,18460,-1%,-39114.0,1.0,-3.0,8.0,-22.0,ICPT
+450,,2016-08-02 21:00:40,2016-08-01,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,176.57,-125,13861,-1%,-22071.0,1.0,-5.0,-12.0,-36.0,ICPT
+451,D,2016-07-21 21:04:45,2016-07-19,ICPT,Akkaraju Srinivas,Dir,A - Grant,0.0,1204,13246,+10%,0.0,3.0,10.0,11.0,-26.0,ICPT
+452,D,2016-07-21 21:04:18,2016-07-19,ICPT,Santini Gino,Dir,A - Grant,0.0,1204,2504,+93%,0.0,3.0,10.0,11.0,-26.0,ICPT
+453,D,2016-07-21 21:03:52,2016-07-19,ICPT,Fundaro Paolo,Dir,A - Grant,0.0,1204,10075,+14%,0.0,3.0,10.0,11.0,-26.0,ICPT
+454,D,2016-07-21 21:03:25,2016-07-19,ICPT,Welch Daniel G,Dir,A - Grant,0.0,1204,2504,+93%,0.0,3.0,10.0,11.0,-26.0,ICPT
+455,D,2016-07-21 21:03:04,2016-07-19,ICPT,Sblendorio Glenn,Dir,A - Grant,0.0,1204,2306,+109%,0.0,3.0,10.0,11.0,-26.0,ICPT
+456,D,2016-07-21 21:02:37,2016-07-19,ICPT,Benatti Luca,Dir,A - Grant,0.0,1204,3146,+62%,0.0,3.0,10.0,11.0,-26.0,ICPT
+457,D,2016-07-21 21:02:13,2016-07-19,ICPT,Gottesdiener Keith Michael,Dir,A - Grant,0.0,2407,2407,New,0.0,3.0,10.0,11.0,-26.0,ICPT
+458,D,2016-07-21 21:01:38,2016-07-19,ICPT,Bradbury Daniel,Dir,A - Grant,0.0,2407,2407,New,0.0,3.0,10.0,11.0,-26.0,ICPT
+459,D,2016-07-19 21:00:31,2016-07-15,ICPT,Pruzanski Mark,"CEO, Pres",F - Tax,148.73,-7341,552725,-1%,-1091827.0,2.0,9.0,13.0,-21.0,ICPT
+460,D,2016-07-19 21:00:31,2016-07-15,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,9.82,12500,552725,+2%,122779.0,2.0,9.0,13.0,-21.0,ICPT
+461,,2016-07-07 21:03:23,2016-07-05,ICPT,Duncan Barbara Gayle,Chief Accounting Officer,S - Sale,145.11,-146,30808,0%,-21186.0,6.0,1.0,14.0,-25.0,ICPT
+462,,2016-07-07 21:02:44,2016-07-05,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,145.11,-163,48391,0%,-23653.0,6.0,1.0,14.0,-25.0,ICPT
+463,,2016-07-07 21:02:04,2016-07-05,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale,145.11,-714,547566,0%,-103608.0,6.0,1.0,14.0,-25.0,ICPT
+464,,2016-07-07 21:01:23,2016-07-05,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,145.11,-106,13986,-1%,-15382.0,6.0,1.0,14.0,-25.0,ICPT
+465,,2016-07-07 21:00:41,2016-07-05,ICPT,Bright Lisa,See Remarks,S - Sale,145.11,-155,18706,-1%,-22492.0,6.0,1.0,14.0,-25.0,ICPT
+466,D,2016-07-06 21:02:28,2016-07-01,ICPT,Kapadia Sandip,CFO,A - Grant,0.0,15000,15000,New,0.0,1.0,8.0,21.0,-28.0,ICPT
+467,,2016-05-26 21:00:28,2016-05-25,ICPT,Bright Lisa,See Remarks,S - Sale,137.5,-251,18855,-1%,-34512.0,3.0,21.0,4.0,-18.0,ICPT
+468,D,2016-05-17 21:00:18,2016-05-13,ICPT,Akkaraju Srinivas,Dir,M - OptEx,21.5,1500,12042,+14%,32250.0,1.0,4.0,7.0,-16.0,ICPT
+469,,2016-05-04 21:00:29,2016-05-02,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,147.49,-130,14087,-1%,-19174.0,-1.0,1.0,19.0,-10.0,ICPT
+470,,2016-04-06 21:02:47,2016-04-04,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,130.76,-165,48546,0%,-21575.0,0.0,-11.0,-16.0,-1.0,ICPT
+471,,2016-04-06 21:02:07,2016-04-04,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale,130.76,-708,548248,0%,-92578.0,0.0,-11.0,-16.0,-1.0,ICPT
+472,,2016-04-06 21:01:40,2016-04-04,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,130.76,-104,14217,-1%,-13599.0,0.0,-11.0,-16.0,-1.0,ICPT
+473,,2016-04-06 21:01:01,2016-04-04,ICPT,Bright Lisa,See Remarks,S - Sale,130.76,-153,19106,-1%,-20006.0,0.0,-11.0,-16.0,-1.0,ICPT
+474,,2016-04-06 21:00:26,2016-04-04,ICPT,Duncan Barbara Gayle,CFO,S - Sale,130.76,-144,30948,0%,-18829.0,0.0,-11.0,-16.0,-1.0,ICPT
+475,,2016-02-29 21:00:17,2016-02-25,ICPT,Bright Lisa,See Remarks,S - Sale,115.22,-241,19259,-1%,-27768.0,10.0,12.0,11.0,37.0,ICPT
+476,D,2016-02-12 21:02:07,2016-02-10,ICPT,Pruzanski Mark,See Remarks,A - Grant,0.0,23300,552856,+4%,0.0,-1.0,9.0,1.0,40.0,ICPT
+477,D,2016-02-12 21:01:43,2016-02-10,ICPT,McMinn Rachel,Chief Strategy Officer,A - Grant,0.0,6700,14321,+88%,0.0,-1.0,9.0,1.0,40.0,ICPT
+478,D,2016-02-12 21:01:19,2016-02-10,ICPT,Bright Lisa,See Remarks,A - Grant,0.0,7800,19500,+67%,0.0,-1.0,9.0,1.0,40.0,ICPT
+479,D,2016-02-12 21:00:59,2016-02-10,ICPT,Duncan Barbara Gayle,CFO,A - Grant,0.0,6200,31092,+25%,0.0,-1.0,9.0,1.0,40.0,ICPT
+480,D,2016-02-12 21:00:27,2016-02-10,ICPT,Shapiro David,"CMO, EVP - Development",A - Grant,0.0,7800,48711,+19%,0.0,-1.0,9.0,1.0,40.0,ICPT
+481,,2016-02-03 21:00:21,2016-02-01,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,103.56,-128,7621,-2%,-13256.0,5.0,-4.0,28.0,77.0,ICPT
+482,M,2016-01-14 21:00:20,2016-01-12,ICPT,Bright Lisa,See Remarks,S - Sale,125.52,-728,11700,-6%,-91381.0,-2.0,-10.0,-3.0,17.0,ICPT
+483,,2016-01-05 21:01:04,2016-01-04,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,145.9,-469,7749,-6%,-68429.0,-8.0,-19.0,-36.0,-5.0,ICPT
+484,D,2016-01-05 21:00:50,2016-01-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,0.0,1298,24892,+6%,0.0,-8.0,-19.0,-36.0,-5.0,ICPT
+485,D,2016-01-05 21:00:50,2016-01-04,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,145.9,-468,24892,-2%,-68283.0,-8.0,-19.0,-36.0,-5.0,ICPT
+486,D,2016-01-05 21:00:37,2016-01-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,0.0,1623,40911,+4%,0.0,-8.0,-19.0,-36.0,-5.0,ICPT
+487,D,2016-01-05 21:00:37,2016-01-04,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,145.9,-533,40911,-1%,-77767.0,-8.0,-19.0,-36.0,-5.0,ICPT
+488,D,2016-01-05 21:00:15,2016-01-01,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,0.0,4868,529556,+1%,0.0,-8.0,-19.0,-36.0,-5.0,ICPT
+489,D,2016-01-05 21:00:15,2016-01-04,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,145.9,-2126,529556,0%,-310191.0,-8.0,-19.0,-36.0,-5.0,ICPT
+490,D,2015-12-22 10:00:38,2015-12-18,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,17.5,11426,39821,+40%,199991.0,-5.0,-5.0,-29.0,-9.0,ICPT
+491,D,2015-12-17 21:00:18,2015-12-15,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,3500,28395,+14%,30333.0,-6.0,-6.0,-30.0,-16.0,ICPT
+492,D,2015-12-17 21:00:18,2015-12-15,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,157.4,-3500,28395,-11%,-550900.0,-6.0,-6.0,-30.0,-16.0,ICPT
+493,,2015-11-30 21:00:15,2015-11-25,ICPT,Bright Lisa,See Remarks,S - Sale,182.97,-1150,12428,-8%,-210409.0,-3.0,-12.0,-12.0,-15.0,ICPT
+494,D,2015-11-27 21:02:59,2015-11-24,ICPT,Akkaraju Srinivas,Dir,A - Grant,0.0,650,10542,+7%,0.0,-4.0,-16.0,-17.0,-23.0,ICPT
+495,D,2015-11-27 21:02:38,2015-11-24,ICPT,Silverstein Jonathan,Dir,A - Grant,0.0,650,1121583,0%,0.0,-4.0,-16.0,-17.0,-23.0,ICPT
+496,D,2015-11-27 21:02:24,2015-11-24,ICPT,Fundaro Paolo,Dir,A - Grant,0.0,650,8871,+8%,0.0,-4.0,-16.0,-17.0,-23.0,ICPT
+497,D,2015-11-27 21:02:08,2015-11-24,ICPT,Benatti Luca,Dir,A - Grant,0.0,650,1942,+50%,0.0,-4.0,-16.0,-17.0,-23.0,ICPT
+498,D,2015-11-27 21:01:45,2015-11-24,ICPT,Veitinger Klaus R Dr,Dir,A - Grant,0.0,650,2816,+30%,0.0,-4.0,-16.0,-17.0,-23.0,ICPT
+499,D,2015-11-27 21:01:25,2015-11-24,ICPT,Sblendorio Glenn,Dir,A - Grant,0.0,650,1102,+144%,0.0,-4.0,-16.0,-17.0,-23.0,ICPT
+500,D,2015-11-27 21:01:09,2015-11-24,ICPT,Santini Gino,Dir,A - Grant,0.0,1300,1300,New,0.0,-4.0,-16.0,-17.0,-23.0,ICPT
+501,D,2015-11-27 21:00:27,2015-11-24,ICPT,Welch Daniel G,Dir,A - Grant,0.0,1300,1300,New,0.0,-4.0,-16.0,-17.0,-23.0,ICPT
+502,D,2015-11-23 21:01:15,2015-11-20,ICPT,Williams Nicole,Dir,M - OptEx,9.82,973,962,-8845%,9557.0,1.0,-3.0,-17.0,-25.0,ICPT
+503,D,2015-11-23 21:01:15,2015-11-20,ICPT,Williams Nicole,Dir,S - Sale+OE,167.0,-973,962,-50%,-162491.0,1.0,-3.0,-17.0,-25.0,ICPT
+504,D,2015-11-18 21:00:13,2015-11-16,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,3500,28395,+14%,30333.0,-1.0,9.0,-2.0,-22.0,ICPT
+505,D,2015-11-18 21:00:13,2015-11-16,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,178.53,-4264,28395,-13%,-761237.0,-1.0,9.0,-2.0,-22.0,ICPT
+506,D,2015-11-12 21:01:40,2015-11-10,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,1000,2166,+86%,21500.0,0.0,-7.0,-20.0,-28.0,ICPT
+507,D,2015-11-12 21:01:40,2015-11-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,198.25,-1000,2166,-32%,-198250.0,0.0,-7.0,-20.0,-28.0,ICPT
+508,D,2015-11-12 21:00:54,2015-11-10,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,3500,29159,+14%,30333.0,0.0,-7.0,-20.0,-28.0,ICPT
+509,D,2015-11-12 21:00:54,2015-11-10,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,204.15,-3500,29159,-11%,-714525.0,0.0,-7.0,-20.0,-28.0,ICPT
+510,,2015-11-04 21:00:20,2015-11-02,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,160.24,-125,8218,-1%,-20029.0,-2.0,12.0,-16.0,-26.0,ICPT
+511,D,2015-10-30 11:59:58,2015-10-28,ICPT,Akkaraju Srinivas,Dir,M - OptEx,21.5,1250,9892,+14%,26875.0,-5.0,9.0,7.0,-9.0,ICPT
+512,D,2015-10-22 21:00:18,2015-10-20,ICPT,Williams Nicole,Dir,M - OptEx,9.82,974,962,-8117%,9567.0,-3.0,-5.0,-3.0,-9.0,ICPT
+513,D,2015-10-22 21:00:18,2015-10-20,ICPT,Williams Nicole,Dir,S - Sale+OE,182.22,-974,962,-50%,-177482.0,-3.0,-5.0,-3.0,-9.0,ICPT
+514,D,2015-10-05 21:02:36,2015-10-01,ICPT,Duncan Barbara Gayle,CFO,A - Grant,0.0,4050,24062,+20%,0.0,-4.0,5.0,-2.0,-12.0,ICPT
+515,D,2015-10-05 21:02:36,2015-10-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,3.77,2298,24062,+11%,8667.0,-4.0,5.0,-2.0,-12.0,ICPT
+516,DM,2015-10-05 21:02:36,2015-10-01,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,163.17,-1054,24062,-4%,-171978.0,-4.0,5.0,-2.0,-12.0,ICPT
+517,D,2015-10-05 21:02:09,2015-10-01,ICPT,Shapiro David,"CMO, EVP - Development",A - Grant,0.0,5150,29159,+21%,0.0,-4.0,5.0,-2.0,-12.0,ICPT
+518,D,2015-10-05 21:02:09,2015-10-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,0.0,1622,29159,+6%,0.0,-4.0,5.0,-2.0,-12.0,ICPT
+519,DM,2015-10-05 21:02:09,2015-10-01,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,160.12,-1140,29159,-4%,-182532.0,-4.0,5.0,-2.0,-12.0,ICPT
+520,D,2015-10-05 21:01:44,2015-10-01,ICPT,Adorini Luciano,Chief Scientific Officer,A - Grant,0.0,1250,12608,+11%,0.0,-4.0,5.0,-2.0,-12.0,ICPT
+521,D,2015-10-05 21:01:44,2015-10-01,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,649,12608,+5%,0.0,-4.0,5.0,-2.0,-12.0,ICPT
+522,D,2015-10-05 21:01:21,2015-10-01,ICPT,Pruzanski Mark,"CEO, Pres",A - Grant,0.0,15100,526814,+3%,0.0,-4.0,5.0,-2.0,-12.0,ICPT
+523,D,2015-10-05 21:01:21,2015-10-01,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,0.0,4867,526814,+1%,0.0,-4.0,5.0,-2.0,-12.0,ICPT
+524,D,2015-10-05 21:01:21,2015-10-02,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,159.04,-167,526814,0%,-26560.0,-4.0,5.0,-2.0,-12.0,ICPT
+525,D,2015-10-05 21:00:55,2015-10-01,ICPT,McMinn Rachel,Chief Strategy Officer,A - Grant,0.0,4050,8343,+94%,0.0,-4.0,5.0,-2.0,-12.0,ICPT
+526,D,2015-10-05 21:00:19,2015-10-01,ICPT,Bright Lisa,See Remarks,A - Grant,0.0,5200,13578,+62%,0.0,-4.0,5.0,-2.0,-12.0,ICPT
+527,D,2015-09-23 21:00:15,2015-09-21,ICPT,Williams Nicole,Dir,M - OptEx,9.82,973,962,-8845%,9557.0,-2.0,-13.0,-5.0,-33.0,ICPT
+528,D,2015-09-23 21:00:15,2015-09-21,ICPT,Williams Nicole,Dir,S - Sale+OE,194.82,-973,962,-50%,-189560.0,-2.0,-13.0,-5.0,-33.0,ICPT
+529,D,2015-09-17 21:00:19,2015-09-15,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,8794,23527,+60%,76215.0,1.0,-6.0,-7.0,-40.0,ICPT
+530,D,2015-09-17 21:00:19,2015-09-15,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,191.28,-3500,23527,-13%,-669480.0,1.0,-6.0,-7.0,-40.0,ICPT
+531,D,2015-09-11 21:00:15,2015-09-09,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,500,2166,+30%,10750.0,-2.0,-3.0,-8.0,-42.0,ICPT
+532,D,2015-09-11 21:00:15,2015-09-09,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,198.25,-500,2166,-19%,-99125.0,-2.0,-3.0,-8.0,-42.0,ICPT
+533,D,2015-08-24 21:00:15,2015-08-20,ICPT,Williams Nicole,Dir,M - OptEx,9.82,974,962,-8117%,9567.0,-3.0,4.0,0.0,-33.0,ICPT
+534,D,2015-08-24 21:00:15,2015-08-20,ICPT,Williams Nicole,Dir,S - Sale+OE,206.85,-974,962,-50%,-201472.0,-3.0,4.0,0.0,-33.0,ICPT
+535,D,2015-08-19 21:00:13,2015-08-17,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,3500,18233,+24%,30333.0,-7.0,-15.0,-8.0,-40.0,ICPT
+536,D,2015-08-19 21:00:13,2015-08-17,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,209.37,-4272,18233,-19%,-894429.0,-7.0,-15.0,-8.0,-40.0,ICPT
+537,D,2015-08-05 21:00:16,2015-08-03,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,500,2166,+30%,10750.0,-8.0,-9.0,-27.0,-62.0,ICPT
+538,D,2015-08-05 21:00:16,2015-08-03,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,261.17,-500,2166,-19%,-130585.0,-8.0,-9.0,-27.0,-62.0,ICPT
+539,,2015-08-04 21:02:10,2015-07-31,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,262.09,-127,4293,-3%,-33286.0,0.0,-7.0,-30.0,-64.0,ICPT
+540,,2015-07-24 21:12:03,2015-07-24,ICPT,Fundaro Paolo,Dir,S - Sale,285.0,-582,8221,-7%,-165870.0,-3.0,-4.0,-29.0,-56.0,ICPT
+541,D,2015-07-22 21:00:38,2015-07-20,ICPT,Williams Nicole,Dir,M - OptEx,9.82,973,962,-8845%,9557.0,4.0,2.0,-22.0,-55.0,ICPT
+542,D,2015-07-22 21:00:38,2015-07-20,ICPT,Williams Nicole,Dir,S - Sale+OE,279.01,-973,962,-50%,-271477.0,4.0,2.0,-22.0,-55.0,ICPT
+543,,2015-07-21 21:25:55,2015-07-17,ICPT,Orbimed Advisors LLC,Dir,A - Grant,0.0,285,1120609,0%,0.0,-1.0,-2.0,-22.0,-57.0,ICPT
+544,,2015-07-17 21:00:12,2015-05-01,ICPT,McMinn Rachel,Chief Strategy Officer,S - Sale,255.12,-503,4420,-10%,-128327.0,0.0,1.0,-24.0,-56.0,ICPT
+545,D,2015-07-14 21:00:23,2015-07-10,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.67,12500,507014,+3%,108334.0,1.0,8.0,-8.0,-54.0,ICPT
+546,D,2015-07-14 21:00:23,2015-07-10,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,250.0,-12500,507014,-2%,-3125000.0,1.0,8.0,-8.0,-54.0,ICPT
+547,DE,2015-07-08 21:00:16,2015-07-06,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,21.29,4067,10709,+61%,86581.0,4.0,9.0,10.0,-35.0,ICPT
+548,DE,2015-07-08 21:00:16,2015-07-06,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,206.13,-4067,10709,-28%,-838315.0,4.0,9.0,10.0,-35.0,ICPT
+549,D,2015-07-07 21:00:57,2015-07-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,0.0,1623,19005,+9%,0.0,-3.0,2.0,8.0,-39.0,ICPT
+550,D,2015-07-07 21:00:57,2015-07-02,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,236.29,-851,19005,-4%,-201083.0,-3.0,2.0,8.0,-39.0,ICPT
+551,D,2015-07-07 21:00:39,2015-07-01,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,649,10709,+6%,0.0,-3.0,2.0,8.0,-39.0,ICPT
+552,D,2015-07-07 21:00:28,2015-07-01,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,0.0,4868,507014,+1%,0.0,-3.0,2.0,8.0,-39.0,ICPT
+553,D,2015-07-07 21:00:28,2015-07-02,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,236.26,-158,507014,0%,-37328.0,-3.0,2.0,8.0,-39.0,ICPT
+554,D,2015-07-07 21:00:13,2015-07-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,0.0,1298,18768,+7%,0.0,-3.0,2.0,8.0,-39.0,ICPT
+555,D,2015-07-07 21:00:13,2015-07-02,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,236.26,-53,18768,0%,-12522.0,-3.0,2.0,8.0,-39.0,ICPT
+556,D,2015-07-06 21:00:29,2015-07-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,8.67,1000,17523,+6%,8667.0,1.0,3.0,8.0,-37.0,ICPT
+557,D,2015-07-06 21:00:29,2015-07-01,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,242.1,-1000,17523,-5%,-242100.0,1.0,3.0,8.0,-37.0,ICPT
+558,D,2015-07-06 21:00:15,2015-07-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,3500,18233,+24%,30333.0,1.0,3.0,8.0,-37.0,ICPT
+559,D,2015-07-06 21:00:15,2015-07-01,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,238.66,-3781,18233,-17%,-902378.0,1.0,3.0,8.0,-37.0,ICPT
+560,D,2015-06-24 21:00:19,2015-06-22,ICPT,Williams Nicole,Dir,M - OptEx,9.82,974,962,-8117%,9567.0,0.0,-8.0,7.0,-37.0,ICPT
+561,D,2015-06-24 21:00:19,2015-06-22,ICPT,Williams Nicole,Dir,S - Sale+OE,265.14,-974,962,-50%,-258246.0,0.0,-8.0,7.0,-37.0,ICPT
+562,D,2015-06-17 21:00:51,2015-06-15,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,3500,18514,+23%,30333.0,3.0,4.0,8.0,-46.0,ICPT
+563,D,2015-06-17 21:00:51,2015-06-15,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,241.59,-3500,18514,-16%,-845546.0,3.0,4.0,8.0,-46.0,ICPT
+564,D,2015-06-12 21:00:13,2015-06-10,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,391,2166,+22%,8407.0,0.0,7.0,1.0,-36.0,ICPT
+565,D,2015-06-12 21:00:13,2015-06-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,238.21,-391,2166,-15%,-93140.0,0.0,7.0,1.0,-36.0,ICPT
+566,D,2015-06-10 21:00:13,2015-06-08,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,8.67,4000,10060,+66%,34667.0,3.0,3.0,1.0,-37.0,ICPT
+567,D,2015-06-10 21:00:13,2015-06-08,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,248.4,-4000,10060,-28%,-993598.0,3.0,3.0,1.0,-37.0,ICPT
+568,D,2015-06-05 21:00:19,2015-06-03,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,17.76,6561,502304,+1%,116550.0,-1.0,0.0,-3.0,-35.0,ICPT
+569,D,2015-05-22 21:00:58,2015-05-20,ICPT,Williams Nicole,Dir,M - OptEx,9.82,973,962,-8845%,9557.0,0.0,-2.0,1.0,-35.0,ICPT
+570,D,2015-05-22 21:00:58,2015-05-20,ICPT,Williams Nicole,Dir,S - Sale+OE,260.2,-973,962,-50%,-253175.0,0.0,-2.0,1.0,-35.0,ICPT
+571,D,2015-05-22 21:00:19,2015-05-19,ICPT,Akkaraju Srinivas,Dir,M - OptEx,21.5,1000,8642,+13%,21500.0,0.0,-2.0,1.0,-35.0,ICPT
+572,D,2015-05-19 21:01:52,2015-05-15,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,3500,18514,+23%,30333.0,3.0,0.0,-2.0,-26.0,ICPT
+573,D,2015-05-19 21:01:52,2015-05-15,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,306.91,-4279,18514,-19%,-1313244.0,3.0,0.0,-2.0,-26.0,ICPT
+574,D,2015-05-18 21:00:18,2015-05-14,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.67,5000,495743,+1%,43334.0,-16.0,-17.0,-21.0,-43.0,ICPT
+575,D,2015-05-18 21:00:18,2015-05-14,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,300.0,-5000,495743,-1%,-1500000.0,-16.0,-17.0,-21.0,-43.0,ICPT
+576,D,2015-05-13 21:00:17,2015-05-11,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,391,2166,+22%,8407.0,3.0,-12.0,-17.0,-36.0,ICPT
+577,D,2015-05-13 21:00:17,2015-05-11,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,279.07,-391,2166,-15%,-109117.0,3.0,-12.0,-17.0,-36.0,ICPT
+578,D,2015-05-08 21:00:14,2015-05-06,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,8.67,4000,10060,+66%,34667.0,1.0,11.0,-11.0,-34.0,ICPT
+579,D,2015-05-08 21:00:14,2015-05-06,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,259.97,-4000,10060,-28%,-1039863.0,1.0,11.0,-11.0,-34.0,ICPT
+580,D,2015-05-05 21:00:18,2015-05-01,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.67,12500,495743,+3%,108334.0,3.0,8.0,-4.0,-38.0,ICPT
+581,D,2015-05-05 21:00:18,2015-05-01,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,253.56,-12500,495743,-2%,-3169495.0,3.0,8.0,-4.0,-38.0,ICPT
+582,D,2015-04-22 21:00:18,2015-04-20,ICPT,Williams Nicole,Dir,M - OptEx,9.82,974,962,-8117%,9567.0,2.0,-5.0,-4.0,-33.0,ICPT
+583,D,2015-04-22 21:00:18,2015-04-20,ICPT,Williams Nicole,Dir,S - Sale+OE,278.5,-974,962,-50%,-271259.0,2.0,-5.0,-4.0,-33.0,ICPT
+584,D,2015-04-14 21:00:22,2015-04-10,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,391,2166,+22%,8407.0,-1.0,3.0,7.0,-33.0,ICPT
+585,D,2015-04-14 21:00:22,2015-04-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,272.1,-391,2166,-15%,-106391.0,-1.0,3.0,7.0,-33.0,ICPT
+586,D,2015-04-08 21:00:19,2015-04-06,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,8.67,4000,10060,+66%,34667.0,0.0,1.0,-3.0,-37.0,ICPT
+587,D,2015-04-08 21:00:19,2015-04-06,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,269.64,-4000,10060,-28%,-1078570.0,0.0,1.0,-3.0,-37.0,ICPT
+588,D,2015-04-03 21:01:20,2015-04-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,5.2,3956,19293,+26%,20580.0,-2.0,2.0,-3.0,-42.0,ICPT
+589,DM,2015-04-03 21:01:20,2015-04-01,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,275.25,-3459,19293,-15%,-952102.0,-2.0,2.0,-3.0,-42.0,ICPT
+590,D,2015-04-03 21:01:03,2015-04-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,0.0,1298,17523,+8%,0.0,-2.0,2.0,-3.0,-42.0,ICPT
+591,D,2015-04-03 21:01:03,2015-04-02,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,277.7,-39,17523,0%,-10830.0,-2.0,2.0,-3.0,-42.0,ICPT
+592,D,2015-04-03 21:00:41,2015-04-01,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,649,10060,+7%,0.0,-2.0,2.0,-3.0,-42.0,ICPT
+593,D,2015-04-03 21:00:20,2015-04-01,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,0.0,4868,495743,+1%,0.0,-2.0,2.0,-3.0,-42.0,ICPT
+594,D,2015-04-03 21:00:20,2015-04-02,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,277.7,-157,495743,0%,-43599.0,-2.0,2.0,-3.0,-42.0,ICPT
+595,,2015-04-01 10:00:04,2015-03-27,ICPT,Duncan Barbara Gayle,CFO,S - Sale,289.82,-1000,16264,-6%,-289817.0,-2.0,-3.0,-10.0,-44.0,ICPT
+596,,2015-03-30 15:59:45,2015-03-26,ICPT,Silverstein Jonathan,Dir,S - Sale,286.75,-157200,1120324,-12%,-45076442.0,1.0,-7.0,-9.0,-42.0,ICPT
+597,,2015-03-30 15:58:16,2015-03-26,ICPT,Orbimed Advisors LLC,Dir,S - Sale,286.75,-157200,1120324,-12%,-45076442.0,1.0,-7.0,-9.0,-42.0,ICPT
+598,M,2015-03-25 19:34:25,2015-03-23,ICPT,Silverstein Jonathan,Dir,S - Sale,274.41,-207800,1277524,-14%,-57022706.0,8.0,8.0,9.0,-30.0,ICPT
+599,M,2015-03-25 19:28:41,2015-03-23,ICPT,Orbimed Advisors LLC,Dir,S - Sale,274.41,-207800,1277524,-14%,-57022706.0,8.0,8.0,9.0,-30.0,ICPT
+600,D,2015-03-24 21:00:15,2015-03-20,ICPT,Williams Nicole,Dir,M - OptEx,9.82,973,962,-8845%,9557.0,-3.0,10.0,5.0,-32.0,ICPT
+601,D,2015-03-24 21:00:15,2015-03-20,ICPT,Williams Nicole,Dir,S - Sale+OE,305.36,-973,962,-50%,-297115.0,-3.0,10.0,5.0,-32.0,ICPT
+602,D,2015-03-18 21:00:49,2015-03-16,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,3500,18796,+23%,36400.0,1.0,-6.0,-4.0,-34.0,ICPT
+603,D,2015-03-18 21:00:49,2015-03-16,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,286.9,-3500,18796,-16%,-1004140.0,1.0,-6.0,-4.0,-34.0,ICPT
+604,D,2015-03-16 21:00:14,2015-03-12,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,5000,18796,+36%,43334.0,-5.0,-1.0,-7.0,-34.0,ICPT
+605,D,2015-03-16 21:00:14,2015-03-12,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,285.99,-5000,18796,-21%,-1429938.0,-5.0,-1.0,-7.0,-34.0,ICPT
+606,D,2015-03-12 21:00:18,2015-03-10,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,391,2166,+22%,8407.0,-1.0,0.0,-2.0,-33.0,ICPT
+607,D,2015-03-12 21:00:18,2015-03-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,262.06,-391,2166,-15%,-102465.0,-1.0,0.0,-2.0,-33.0,ICPT
+608,D,2015-02-26 21:00:27,2015-02-24,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,632,2166,+41%,13588.0,1.0,22.0,29.0,-19.0,ICPT
+609,D,2015-02-26 21:00:27,2015-02-24,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,222.5,-632,2166,-23%,-140620.0,1.0,22.0,29.0,-19.0,ICPT
+610,D,2015-02-24 21:00:28,2015-02-20,ICPT,Williams Nicole,Dir,M - OptEx,9.82,974,962,-8117%,9567.0,2.0,5.0,24.0,-11.0,ICPT
+611,D,2015-02-24 21:00:28,2015-02-20,ICPT,Williams Nicole,Dir,S - Sale+OE,216.0,-974,962,-50%,-210384.0,2.0,5.0,24.0,-11.0,ICPT
+612,D,2015-02-19 21:02:19,2015-02-17,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,9.36,8794,18796,+88%,82282.0,2.0,2.0,34.0,-2.0,ICPT
+613,D,2015-02-19 21:02:19,2015-02-17,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,209.41,-4646,18796,-20%,-972921.0,2.0,2.0,34.0,-2.0,ICPT
+614,D,2015-02-12 21:00:31,2015-02-10,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,233,2166,+12%,5010.0,4.0,7.0,40.0,15.0,ICPT
+615,D,2015-02-12 21:00:31,2015-02-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,195.52,-233,2166,-10%,-45556.0,4.0,7.0,40.0,15.0,ICPT
+616,D,2015-02-03 21:01:10,2015-01-30,ICPT,Regan Daniel Paul,Chief Commercial Officer,M - OptEx,37.69,9847,1264,-115%,371133.0,-3.0,2.0,41.0,37.0,ICPT
+617,D,2015-02-03 21:01:10,2015-01-30,ICPT,Regan Daniel Paul,Chief Commercial Officer,S - Sale+OE,201.07,-9847,1264,-89%,-1979963.0,-3.0,2.0,41.0,37.0,ICPT
+618,D,2015-02-03 21:00:26,2015-01-30,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,9.48,7500,14648,+105%,71067.0,-3.0,2.0,41.0,37.0,ICPT
+619,D,2015-02-03 21:00:26,2015-01-30,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,205.84,-7500,14648,-34%,-1543832.0,-3.0,2.0,41.0,37.0,ICPT
+620,D,2015-01-22 21:00:24,2015-01-20,ICPT,Williams Nicole,Dir,M - OptEx,9.82,973,1465,+198%,9557.0,6.0,8.0,38.0,70.0,ICPT
+621,D,2015-01-22 21:00:24,2015-01-20,ICPT,Williams Nicole,Dir,S - Sale+OE,151.32,-973,1465,-40%,-147234.0,6.0,8.0,38.0,70.0,ICPT
+622,D,2015-01-14 21:00:20,2015-01-12,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,233,2166,+12%,5010.0,-4.0,4.0,31.0,68.0,ICPT
+623,D,2015-01-14 21:00:20,2015-01-12,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,150.01,-233,2166,-10%,-34952.0,-4.0,4.0,31.0,68.0,ICPT
+624,,2015-01-07 21:03:44,2015-01-05,ICPT,Regan Daniel Paul,Chief Commercial Officer,S - Sale,176.49,-146,1264,-10%,-25767.0,-4.0,-3.0,27.0,48.0,ICPT
+625,,2015-01-07 21:02:41,2015-01-05,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale,176.49,-461,491032,0%,-81360.0,-4.0,-3.0,27.0,48.0,ICPT
+626,,2015-01-07 21:01:34,2015-01-05,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale,172.63,-664,14648,-4%,-114627.0,-4.0,-3.0,27.0,48.0,ICPT
+627,,2015-01-07 21:00:18,2015-01-05,ICPT,Duncan Barbara Gayle,CFO,S - Sale,176.49,-141,17264,-1%,-24884.0,-4.0,-3.0,27.0,48.0,ICPT
+628,D,2015-01-05 21:01:32,2015-01-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,0.0,1623,15312,+12%,0.0,-10.0,-17.0,7.0,39.0,ICPT
+629,D,2015-01-05 21:01:32,2015-01-02,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,158.71,-376,15312,-2%,-59675.0,-10.0,-17.0,7.0,39.0,ICPT
+630,D,2015-01-05 21:01:09,2015-01-01,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,0.0,4868,491493,+1%,0.0,-10.0,-17.0,7.0,39.0,ICPT
+631,DM,2015-01-05 21:00:49,2015-01-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,13.88,2298,17405,+15%,31900.0,-10.0,-17.0,7.0,39.0,ICPT
+632,D,2015-01-05 21:00:49,2015-01-02,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,156.4,-1000,17405,-5%,-156400.0,-10.0,-17.0,7.0,39.0,ICPT
+633,D,2015-01-05 21:00:29,2015-01-01,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,649,9411,+7%,0.0,-10.0,-17.0,7.0,39.0,ICPT
+634,,2014-12-15 21:00:18,2014-12-15,ICPT,Benatti Luca,Dir,P - Purchase,139.86,800,1292,+163%,111888.0,-4.0,16.0,15.0,84.0,ICPT
+635,D,2014-12-12 21:00:30,2014-12-10,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,233,2166,+12%,5010.0,-3.0,9.0,11.0,76.0,ICPT
+636,D,2014-12-12 21:00:30,2014-12-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,144.16,-233,2166,-10%,-33589.0,-3.0,9.0,11.0,76.0,ICPT
+637,D,2014-11-20 21:00:29,2014-11-19,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.73,6716,486625,+1%,58603.0,-1.0,-4.0,0.0,68.0,ICPT
+638,D,2014-11-19 21:00:21,2014-11-17,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,4000,14065,+40%,41600.0,0.0,-4.0,-4.0,68.0,ICPT
+639,D,2014-11-19 21:00:21,2014-11-17,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,158.82,-4790,14065,-25%,-760730.0,0.0,-4.0,-4.0,68.0,ICPT
+640,D,2014-11-13 09:32:21,2014-11-11,ICPT,Akkaraju Srinivas,Dir,M - OptEx,21.5,2500,7642,+49%,53750.0,-3.0,-4.0,-16.0,88.0,ICPT
+641,D,2014-11-13 09:32:21,2014-11-12,ICPT,Akkaraju Srinivas,Dir,P - Purchase,167.19,2000,7642,+35%,334387.0,-3.0,-4.0,-16.0,88.0,ICPT
+642,D,2014-11-12 21:00:24,2014-11-10,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,233,2166,+12%,5010.0,-2.0,0.0,-13.0,83.0,ICPT
+643,D,2014-11-12 21:00:24,2014-11-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,175.95,-233,2166,-10%,-40996.0,-2.0,0.0,-13.0,83.0,ICPT
+644,D,2014-11-05 21:00:34,2014-10-16,ICPT,Akkaraju Srinivas,Dir,M - OptEx,0.0,324,3142,+11%,0.0,0.0,-28.0,-41.0,9.0,ICPT
+645,D,2014-11-05 21:00:17,2014-11-03,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.67,10000,479909,+2%,86667.0,0.0,-28.0,-41.0,9.0,ICPT
+646,D,2014-11-05 21:00:17,2014-11-03,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,259.41,-10000,479909,-2%,-2594124.0,0.0,-28.0,-41.0,9.0,ICPT
+647,D,2014-10-15 21:00:57,2014-10-10,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,391,2166,+22%,8407.0,9.0,15.0,-19.0,41.0,ICPT
+648,D,2014-10-15 21:00:57,2014-10-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,223.65,-391,2166,-15%,-87447.0,9.0,15.0,-19.0,41.0,ICPT
+649,D,2014-10-03 21:01:15,2014-10-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,13.88,2299,16107,+17%,31900.0,-5.0,-7.0,6.0,13.0,ICPT
+650,D,2014-10-03 21:01:15,2014-10-01,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,233.12,-1000,16107,-6%,-233119.0,-5.0,-7.0,6.0,13.0,ICPT
+651,D,2014-10-03 21:00:59,2014-10-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,7.4,5622,14855,+61%,41600.0,-5.0,-7.0,6.0,13.0,ICPT
+652,DM,2014-10-03 21:00:59,2014-10-01,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,231.63,-5020,14855,-25%,-1162794.0,-5.0,-7.0,6.0,13.0,ICPT
+653,D,2014-10-03 21:00:44,2014-10-01,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,649,8762,+8%,0.0,-5.0,-7.0,6.0,13.0,ICPT
+654,D,2014-10-03 21:00:27,2014-10-01,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,5.83,14867,479909,+3%,86667.0,-5.0,-7.0,6.0,13.0,ICPT
+655,D,2014-10-03 21:00:27,2014-10-01,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,228.82,-10000,479909,-2%,-2288187.0,-5.0,-7.0,6.0,13.0,ICPT
+656,D,2014-09-17 21:04:23,2014-09-15,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,4000,14253,+39%,41600.0,-2.0,-9.0,-27.0,6.0,ICPT
+657,D,2014-09-17 21:04:23,2014-09-15,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,281.19,-4000,14253,-22%,-1124751.0,-2.0,-9.0,-27.0,6.0,ICPT
+658,D,2014-09-12 21:00:18,2014-09-10,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,391,2166,+22%,8407.0,-7.0,-7.0,-29.0,-2.0,ICPT
+659,D,2014-09-12 21:00:18,2014-09-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,280.5,-391,2166,-15%,-109676.0,-7.0,-7.0,-29.0,-2.0,ICPT
+660,D,2014-09-04 21:11:43,2014-09-02,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.67,10000,475042,+2%,86667.0,0.0,0.0,-18.0,-9.0,ICPT
+661,D,2014-09-04 21:11:43,2014-09-02,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,286.49,-10000,475042,-2%,-2864883.0,0.0,0.0,-18.0,-9.0,ICPT
+662,D,2014-08-29 21:00:23,2014-08-27,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,8.67,10000,14253,+235%,86667.0,-1.0,-1.0,-17.0,-22.0,ICPT
+663,D,2014-08-29 21:00:23,2014-08-27,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,293.93,-10000,14253,-41%,-2939286.0,-1.0,-1.0,-17.0,-22.0,ICPT
+664,M,2014-08-27 21:06:49,2014-08-25,ICPT,Silverstein Jonathan,Dir,S - Sale,298.06,-111258,1485324,-7%,-33161087.0,-2.0,-2.0,-16.0,-25.0,ICPT
+665,M,2014-08-27 21:05:25,2014-08-25,ICPT,Orbimed Advisors LLC,Dir,S - Sale,298.06,-111258,1485324,-7%,-33161087.0,-2.0,-2.0,-16.0,-25.0,ICPT
+666,,2014-08-27 21:00:16,2014-08-25,ICPT,Williams Nicole,Dir,S - Sale,295.08,-2433,1465,-62%,-717919.0,-2.0,-2.0,-16.0,-25.0,ICPT
+667,,2014-08-18 21:13:47,2014-08-14,ICPT,Silverstein Jonathan,Dir,S - Sale,299.82,-60000,1596582,-4%,-17989207.0,0.0,1.0,-5.0,-25.0,ICPT
+668,,2014-08-18 21:07:02,2014-08-14,ICPT,Orbimed Advisors LLC,Dir,S - Sale,299.82,-60000,1596582,-4%,-17989207.0,0.0,1.0,-5.0,-25.0,ICPT
+669,D,2014-08-15 21:00:58,2014-08-15,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,4000,14253,+39%,41600.0,0.0,-1.0,-5.0,-25.0,ICPT
+670,D,2014-08-15 21:00:58,2014-08-15,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,291.49,-4774,14253,-25%,-1391568.0,0.0,-1.0,-5.0,-25.0,ICPT
+671,D,2014-08-15 21:00:46,2014-08-12,ICPT,Regan Daniel Paul,Chief Commercial Officer,M - OptEx,37.69,8124,1410,-121%,306194.0,0.0,-1.0,-5.0,-25.0,ICPT
+672,D,2014-08-15 21:00:46,2014-08-12,ICPT,Regan Daniel Paul,Chief Commercial Officer,S - Sale+OE,325.7,-8124,1410,-85%,-2645963.0,0.0,-1.0,-5.0,-25.0,ICPT
+673,D,2014-08-15 21:00:32,2014-08-12,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,316,2166,+17%,6794.0,0.0,-1.0,-5.0,-25.0,ICPT
+674,D,2014-08-15 21:00:32,2014-08-12,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,345.62,-316,2166,-13%,-109216.0,0.0,-1.0,-5.0,-25.0,ICPT
+675,D,2014-08-15 21:00:14,2014-08-12,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,8.67,11038,8113,-377%,95663.0,0.0,-1.0,-5.0,-25.0,ICPT
+676,D,2014-08-15 21:00:14,2014-08-12,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,321.62,-11038,8113,-58%,-3550078.0,0.0,-1.0,-5.0,-25.0,ICPT
+677,D,2014-08-12 21:05:01,2014-08-09,ICPT,Silverstein Jonathan,Dir,M - OptEx,0.0,324,1656867,0%,0.0,3.0,-6.0,-4.0,-42.0,ICPT
+678,D,2014-08-12 21:03:45,2014-08-09,ICPT,Fundaro Paolo,Dir,M - OptEx,0.0,324,8803,+4%,0.0,3.0,-6.0,-4.0,-42.0,ICPT
+679,D,2014-08-12 21:03:45,2014-08-11,ICPT,Fundaro Paolo,Dir,S - Sale+OE,239.49,-324,8803,-4%,-77595.0,3.0,-6.0,-4.0,-42.0,ICPT
+680,D,2014-08-12 21:02:21,2014-08-09,ICPT,Williams Nicole,Dir,M - OptEx,0.0,368,3898,+10%,0.0,3.0,-6.0,-4.0,-42.0,ICPT
+681,DM,2014-08-12 21:00:34,2014-08-09,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,11.76,715,2166,+49%,8407.0,3.0,-6.0,-4.0,-42.0,ICPT
+682,D,2014-08-12 21:00:34,2014-08-11,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,238.72,-555,2166,-20%,-132488.0,3.0,-6.0,-4.0,-42.0,ICPT
+683,D,2014-08-11 16:39:58,2014-08-09,ICPT,Orbimed Advisors LLC,Dir,M - OptEx,0.0,324,1656582,0%,0.0,17.0,20.0,20.0,-19.0,ICPT
+684,D,2014-08-06 21:00:21,2014-08-01,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.67,10000,475042,+2%,86667.0,0.0,23.0,28.0,-17.0,ICPT
+685,D,2014-08-06 21:00:21,2014-08-01,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,226.72,-10000,475042,-2%,-2267198.0,0.0,23.0,28.0,-17.0,ICPT
+686,D,2014-07-21 21:02:25,2014-07-17,ICPT,Silverstein Jonathan,Dir,A - Grant,0.0,285,1656543,0%,0.0,2.0,1.0,30.0,-31.0,ICPT
+687,D,2014-07-21 21:02:04,2014-07-17,ICPT,Patel Sanj K,Dir,A - Grant,0.0,452,452,New,0.0,2.0,1.0,30.0,-31.0,ICPT
+688,D,2014-07-21 21:01:46,2014-07-17,ICPT,Fundaro Paolo,Dir,A - Grant,0.0,226,8803,+3%,0.0,2.0,1.0,30.0,-31.0,ICPT
+689,D,2014-07-21 21:01:27,2014-07-17,ICPT,Williams Nicole,Dir,A - Grant,0.0,226,3530,+7%,0.0,2.0,1.0,30.0,-31.0,ICPT
+690,D,2014-07-21 21:01:10,2014-07-17,ICPT,Luca Benatti,Dir,A - Grant,0.0,452,492,>999%,0.0,2.0,1.0,30.0,-31.0,ICPT
+691,D,2014-07-21 21:00:49,2014-07-17,ICPT,Veitinger Klaus R Dr,Dir,A - Grant,0.0,226,2006,+13%,0.0,2.0,1.0,30.0,-31.0,ICPT
+692,D,2014-07-21 21:00:28,2014-07-17,ICPT,Sblendorio Glenn,Dir,A - Grant,0.0,452,452,New,0.0,2.0,1.0,30.0,-31.0,ICPT
+693,D,2014-07-18 21:00:24,2014-07-17,ICPT,Akkaraju Srinivas,Dir,A - Grant,0.0,226,2818,+9%,0.0,0.0,4.0,31.0,-34.0,ICPT
+694,D,2014-07-18 21:00:24,2014-07-16,ICPT,Akkaraju Srinivas,Dir,M - OptEx,0.0,325,2818,+13%,0.0,0.0,4.0,31.0,-34.0,ICPT
+695,D,2014-07-11 21:00:21,2014-07-10,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,21.5,391,1780,+28%,8407.0,2.0,-5.0,6.0,-32.0,ICPT
+696,D,2014-07-11 21:00:21,2014-07-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,219.15,-391,1780,-18%,-85688.0,2.0,-5.0,6.0,-32.0,ICPT
+697,D,2014-07-09 21:00:52,2014-07-07,ICPT,Tallarigo Lorenzo,Dir,M - OptEx,9.82,2000,0,-100%,19645.0,-2.0,-3.0,-2.0,-30.0,ICPT
+698,D,2014-07-09 21:00:52,2014-07-07,ICPT,Tallarigo Lorenzo,Dir,S - Sale+OE,243.06,-2000,0,-100%,-486110.0,-2.0,-3.0,-2.0,-30.0,ICPT
+699,D,2014-07-08 21:00:44,2014-07-03,ICPT,Regan Daniel Paul,Chief Commercial Officer,M - OptEx,37.69,1,1410,0%,38.0,2.0,1.0,2.0,-19.0,ICPT
+700,D,2014-07-08 21:00:44,2014-07-03,ICPT,Regan Daniel Paul,Chief Commercial Officer,S - Sale+OE,250.0,-1,1410,0%,-250.0,2.0,1.0,2.0,-19.0,ICPT
+701,D,2014-07-03 21:03:35,2014-07-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,0.0,1298,14808,+10%,0.0,-3.0,-9.0,-7.0,-36.0,ICPT
+702,D,2014-07-03 21:01:52,2014-07-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,7.4,5623,15027,+60%,41600.0,-3.0,-9.0,-7.0,-36.0,ICPT
+703,DM,2014-07-03 21:01:52,2014-07-01,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,244.73,-5036,15027,-25%,-1232452.0,-3.0,-9.0,-7.0,-36.0,ICPT
+704,D,2014-07-03 21:01:29,2014-07-01,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,5.83,14868,475042,+3%,86667.0,-3.0,-9.0,-7.0,-36.0,ICPT
+705,D,2014-07-03 21:01:29,2014-07-01,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,250.61,-10000,475042,-2%,-2506121.0,-3.0,-9.0,-7.0,-36.0,ICPT
+706,D,2014-07-03 21:00:43,2014-07-01,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,649,8113,+9%,0.0,-3.0,-9.0,-7.0,-36.0,ICPT
+707,D,2014-06-18 21:02:25,2014-06-16,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,4000,14440,+38%,41600.0,-3.0,-4.0,-27.0,-54.0,ICPT
+708,D,2014-06-18 21:02:25,2014-06-16,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,278.15,-4000,14440,-22%,-1112588.0,-3.0,-4.0,-27.0,-54.0,ICPT
+709,D,2014-06-04 21:00:24,2014-06-02,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.67,10000,470174,+2%,86667.0,-2.0,14.0,-6.0,-54.0,ICPT
+710,D,2014-06-04 21:00:24,2014-06-02,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,230.6,-10000,470174,-2%,-2305993.0,-2.0,14.0,-6.0,-54.0,ICPT
+711,D,2014-05-19 21:02:31,2014-05-15,ICPT,Fundaro Paolo,Dir,M - OptEx,9.82,6922,8577,+418%,67990.0,-14.0,-11.0,7.0,-36.0,ICPT
+712,D,2014-05-19 21:00:45,2014-05-15,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,4000,14440,+38%,41600.0,-14.0,-11.0,7.0,-36.0,ICPT
+713,D,2014-05-19 21:00:45,2014-05-15,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,276.03,-4743,14440,-25%,-1309200.0,-14.0,-11.0,7.0,-36.0,ICPT
+714,D,2014-05-09 21:04:38,2014-05-09,ICPT,Silverstein Jonathan,Dir,M - OptEx,0.0,325,1656258,0%,0.0,6.0,20.0,22.0,5.0,ICPT
+715,D,2014-05-09 21:03:47,2014-05-09,ICPT,Fundaro Paolo,Dir,M - OptEx,0.0,325,1655,+24%,0.0,6.0,20.0,22.0,5.0,ICPT
+716,D,2014-05-09 21:03:47,2014-05-09,ICPT,Fundaro Paolo,Dir,S - Sale+OE,232.0,-325,1655,-16%,-75400.0,6.0,20.0,22.0,5.0,ICPT
+717,D,2014-05-09 21:03:00,2014-05-09,ICPT,Williams Nicole,Dir,M - OptEx,0.0,367,3304,+12%,0.0,6.0,20.0,22.0,5.0,ICPT
+718,D,2014-05-09 21:02:21,2014-05-09,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,0.0,325,1780,+22%,0.0,6.0,20.0,22.0,5.0,ICPT
+719,DM,2014-05-09 21:02:21,2014-05-07,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,249.78,-827,1780,-32%,-206564.0,6.0,20.0,22.0,5.0,ICPT
+720,D,2014-05-09 21:01:40,2014-05-09,ICPT,Tallarigo Lorenzo,Dir,M - OptEx,0.0,367,6454953,0%,0.0,6.0,20.0,22.0,5.0,ICPT
+721,DM,2014-05-09 21:01:40,2014-05-07,ICPT,Tallarigo Lorenzo,Dir,S - Sale+OE,254.69,-2007,6454953,0%,-511152.0,6.0,20.0,22.0,5.0,ICPT
+722,D,2014-05-09 21:00:55,2014-05-07,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,2000,7464,+37%,20800.0,6.0,20.0,22.0,5.0,ICPT
+723,D,2014-05-09 21:00:55,2014-05-07,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,259.44,-2000,7464,-21%,-518875.0,6.0,20.0,22.0,5.0,ICPT
+724,DM,2014-05-09 17:07:55,2014-05-07,ICPT,Orbimed Advisors LLC,Dir,M - OptEx,0.0,1655,1656258,0%,0.0,6.0,20.0,22.0,5.0,ICPT
+725,D,2014-05-02 21:02:46,2014-05-01,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,8.67,10000,470174,+2%,86667.0,0.0,-12.0,-11.0,-4.0,ICPT
+726,D,2014-05-02 21:02:46,2014-05-01,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,263.17,-10000,470174,-2%,-2631661.0,0.0,-12.0,-11.0,-4.0,ICPT
+727,D,2014-05-02 21:01:28,2014-04-30,ICPT,McMinn Rachel,Chief Strategy Officer,A - Grant,0.0,4923,4923,New,0.0,0.0,-12.0,-11.0,-4.0,ICPT
+728,D,2014-04-18 21:00:20,2014-04-16,ICPT,Akkaraju Srinivas,Dir,M - OptEx,0.0,324,2267,+17%,0.0,17.0,8.0,7.0,-11.0,ICPT
+729,DM,2014-04-17 21:00:12,2014-04-15,ICPT,Pruzanski Mark,"CEO, Pres",M - OptEx,6.79,40309,470174,+9%,273593.0,1.0,13.0,17.0,-18.0,ICPT
+730,D,2014-04-17 21:00:12,2014-04-16,ICPT,Pruzanski Mark,"CEO, Pres",S - Sale+OE,242.22,-10000,470174,-2%,-2422166.0,1.0,13.0,17.0,-18.0,ICPT
+731,D,2014-04-15 21:03:09,2014-04-11,ICPT,Regan Daniel Paul,Chief Commercial Officer,A - Grant,0.0,1410,1410,New,0.0,-5.0,13.0,9.0,-22.0,ICPT
+732,D,2014-04-15 21:02:26,2014-04-11,ICPT,Pruzanski Mark,"CEO, Pres",A - Grant,0.0,4699,439865,+1%,0.0,-5.0,13.0,9.0,-22.0,ICPT
+733,D,2014-04-15 21:01:46,2014-04-11,ICPT,Duncan Barbara Gayle,CFO,A - Grant,0.0,1504,13510,+13%,0.0,-5.0,13.0,9.0,-22.0,ICPT
+734,D,2014-04-15 21:01:46,2014-04-14,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,21.5,1154,13510,+9%,24811.0,-5.0,13.0,9.0,-22.0,ICPT
+735,D,2014-04-15 21:01:46,2014-04-14,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,279.0,-1154,13510,-8%,-321966.0,-5.0,13.0,9.0,-22.0,ICPT
+736,D,2014-04-15 21:01:03,2014-04-11,ICPT,Shapiro David,"CMO, EVP - Development",A - Grant,0.0,1504,15183,+11%,0.0,-5.0,13.0,9.0,-22.0,ICPT
+737,D,2014-04-15 21:00:18,2014-04-11,ICPT,Adorini Luciano,Chief Scientific Officer,A - Grant,0.0,423,7464,+6%,0.0,-5.0,13.0,9.0,-22.0,ICPT
+738,DM,2014-04-11 21:03:52,2014-04-09,ICPT,Micheli Francesco,10%,S - Sale+OE,317.71,-349318,6454953,-5%,-110982806.0,-4.0,-10.0,-6.0,-14.0,ICPT
+739,D,2014-04-11 21:03:52,2014-04-10,ICPT,Micheli Francesco,10%,X - OptEx,10.4,865381,6454953,-12%,8999962.0,-4.0,-10.0,-6.0,-14.0,ICPT
+740,DM,2014-04-11 21:02:52,2014-04-09,ICPT,Genextra S.P.A.,10%,S - Sale+OE,317.71,-349318,6454953,-5%,-110982806.0,-4.0,-10.0,-6.0,-14.0,ICPT
+741,D,2014-04-11 21:02:52,2014-04-10,ICPT,Genextra S.P.A.,10%,X - OptEx,10.4,865381,6454953,-12%,8999962.0,-4.0,-10.0,-6.0,-14.0,ICPT
+742,DM,2014-04-11 21:01:38,2014-04-09,ICPT,Tallarigo Lorenzo,"Dir, 10%",S - Sale+OE,317.71,-349318,6456593,-5%,-110982806.0,-4.0,-10.0,-6.0,-14.0,ICPT
+743,D,2014-04-11 21:01:38,2014-04-10,ICPT,Tallarigo Lorenzo,"Dir, 10%",X - OptEx,10.4,865381,6456593,-12%,8999962.0,-4.0,-10.0,-6.0,-14.0,ICPT
+744,,2014-04-11 21:00:19,2014-04-09,ICPT,Silverstein Jonathan,Dir,S - Sale,320.0,-81305,1655933,-5%,-26017600.0,-4.0,-10.0,-6.0,-14.0,ICPT
+745,,2014-04-11 17:27:09,2014-04-09,ICPT,Orbimed Advisors LLC,Dir,S - Sale,320.0,-81305,1654603,-5%,-26017600.0,-4.0,-10.0,-6.0,-14.0,ICPT
+746,D,2014-04-09 21:00:26,2014-04-07,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,2000,7041,+40%,20800.0,-12.0,-17.0,-23.0,-26.0,ICPT
+747,D,2014-04-09 21:00:26,2014-04-07,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,283.9,-2000,7041,-22%,-567800.0,-12.0,-17.0,-23.0,-26.0,ICPT
+748,D,2014-04-03 21:02:14,2014-04-01,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,0.0,4868,435166,+1%,0.0,-10.0,-7.0,-18.0,-28.0,ICPT
+749,D,2014-04-03 21:01:41,2014-04-01,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,649,7041,+10%,0.0,-10.0,-7.0,-18.0,-28.0,ICPT
+750,D,2014-04-03 21:01:14,2014-04-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,7.56,5948,13679,+77%,44991.0,-10.0,-7.0,-18.0,-28.0,ICPT
+751,DM,2014-04-03 21:01:14,2014-04-01,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,331.84,-5393,13679,-28%,-1789584.0,-10.0,-7.0,-18.0,-28.0,ICPT
+752,D,2014-04-03 21:00:23,2014-04-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,0.0,1298,12006,+12%,0.0,-10.0,-7.0,-18.0,-28.0,ICPT
+753,D,2014-03-19 21:00:14,2014-03-17,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,8917,13124,+212%,92738.0,-5.0,-20.0,-46.0,-39.0,ICPT
+754,D,2014-03-19 21:00:14,2014-03-17,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,437.49,-4456,13124,-25%,-1949450.0,-5.0,-20.0,-46.0,-39.0,ICPT
+755,D,2014-03-11 21:00:35,2014-03-07,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,2000,6392,+46%,20800.0,3.0,-7.0,-33.0,-34.0,ICPT
+756,D,2014-03-11 21:00:35,2014-03-07,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,421.31,-2000,6392,-24%,-842620.0,3.0,-7.0,-33.0,-34.0,ICPT
+757,D,2014-03-07 21:00:50,2014-03-05,ICPT,Regan Daniel Paul,Chief Commercial Officer,M - OptEx,37.69,20000,0,-100%,753800.0,8.0,9.0,-29.0,-30.0,ICPT
+758,D,2014-03-07 21:00:50,2014-03-05,ICPT,Regan Daniel Paul,Chief Commercial Officer,S - Sale+OE,434.69,-20000,0,-100%,-8693821.0,8.0,9.0,-29.0,-30.0,ICPT
+759,D,2014-02-18 21:46:10,2014-02-14,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,4327,7218,+150%,45001.0,-2.0,2.0,20.0,-23.0,ICPT
+760,D,2014-02-18 21:46:10,2014-02-14,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,367.11,-5772,7218,-44%,-2118947.0,-2.0,2.0,20.0,-23.0,ICPT
+761,D,2014-02-14 21:00:25,2014-02-12,ICPT,Fundaro Paolo,Dir,M - OptEx,8.67,6922,1655,-131%,59991.0,5.0,6.0,17.0,-14.0,ICPT
+762,DM,2014-02-14 21:00:25,2014-02-12,ICPT,Fundaro Paolo,Dir,S - Sale+OE,375.26,-7246,1655,-81%,-2719103.0,5.0,6.0,17.0,-14.0,ICPT
+763,D,2014-02-11 21:33:48,2014-02-09,ICPT,Orbimed Advisors LLC,Dir,M - OptEx,0.0,324,1735908,0%,0.0,-1.0,-3.0,21.0,-37.0,ICPT
+764,D,2014-02-11 21:02:50,2014-02-09,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,0.0,324,2282,+17%,0.0,-1.0,-3.0,21.0,-37.0,ICPT
+765,D,2014-02-11 21:02:50,2014-02-10,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,377.72,-162,2282,-7%,-61190.0,-1.0,-3.0,21.0,-37.0,ICPT
+766,D,2014-02-11 21:02:24,2014-02-09,ICPT,Tallarigo Lorenzo,"Dir, 10%",M - OptEx,0.0,368,5940530,0%,0.0,-1.0,-3.0,21.0,-37.0,ICPT
+767,D,2014-02-11 21:02:24,2014-02-10,ICPT,Tallarigo Lorenzo,"Dir, 10%",S - Sale+OE,354.52,-368,5940530,0%,-130463.0,-1.0,-3.0,21.0,-37.0,ICPT
+768,D,2014-02-11 21:01:56,2014-02-09,ICPT,Silverstein Jonathan,Dir,M - OptEx,0.0,324,1737238,0%,0.0,-1.0,-3.0,21.0,-37.0,ICPT
+769,D,2014-02-11 21:01:28,2014-02-09,ICPT,Fundaro Paolo,Dir,M - OptEx,0.0,324,1979,+20%,0.0,-1.0,-3.0,21.0,-37.0,ICPT
+770,D,2014-02-11 21:00:56,2014-02-07,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,2000,6392,+46%,20800.0,-1.0,-3.0,21.0,-37.0,ICPT
+771,D,2014-02-11 21:00:56,2014-02-07,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,305.15,-2000,6392,-24%,-610300.0,-1.0,-3.0,21.0,-37.0,ICPT
+772,D,2014-02-11 21:00:30,2014-02-09,ICPT,Williams Nicole,Dir,M - OptEx,0.0,368,2937,+14%,0.0,-1.0,-3.0,21.0,-37.0,ICPT
+773,D,2014-01-17 21:01:48,2014-01-16,ICPT,Akkaraju Srinivas,Dir,M - OptEx,19.03,2825,1943,-320%,53750.0,11.0,0.0,26.0,-27.0,ICPT
+774,D,2014-01-17 21:01:48,2014-01-16,ICPT,Akkaraju Srinivas,Dir,S - Sale+OE,267.94,-3250,1943,-63%,-870805.0,11.0,0.0,26.0,-27.0,ICPT
+775,D,2014-01-17 21:01:22,2014-01-15,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,31.9,5625,10708,+111%,179438.0,11.0,0.0,26.0,-27.0,ICPT
+776,D,2014-01-17 21:01:22,2014-01-15,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,259.19,-5625,10708,-34%,-1457915.0,11.0,0.0,26.0,-27.0,ICPT
+777,D,2014-01-17 21:00:49,2014-01-16,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,8.67,10000,430298,+2%,86667.0,11.0,0.0,26.0,-27.0,ICPT
+778,D,2014-01-17 21:00:49,2014-01-16,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,273.68,-10000,430298,-2%,-2736767.0,11.0,0.0,26.0,-27.0,ICPT
+779,D,2014-01-17 21:00:15,2013-12-26,ICPT,Pruzanski Mark,"Pres, CEO",G - Gift,0.0,-7840,430298,-2%,-0.0,11.0,0.0,26.0,-27.0,ICPT
+780,D,2014-01-17 21:00:15,2013-12-30,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,2.89,21503,430298,+5%,62120.0,11.0,0.0,26.0,-27.0,ICPT
+781,D,2014-01-10 21:00:19,2014-01-08,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,9.67,8968,8663,-2940%,86681.0,-15.0,-54.0,-22.0,-74.0,ICPT
+782,D,2014-01-10 21:00:19,2014-01-08,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,71.85,-4928,8663,-36%,-354065.0,-15.0,-54.0,-22.0,-74.0,ICPT
+783,D,2014-01-09 21:30:25,2014-01-07,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,1634,6392,+34%,16994.0,82.0,49.0,146.0,-31.0,ICPT
+784,D,2014-01-09 21:30:25,2014-01-07,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,67.41,-1634,6392,-20%,-110148.0,82.0,49.0,146.0,-31.0,ICPT
+785,,2014-01-09 21:30:16,2014-01-07,ICPT,Tallarigo Lorenzo,"Dir, 10%",S - Sale,67.41,-1839,5940530,0%,-123967.0,82.0,49.0,146.0,-31.0,ICPT
+786,D,2014-01-03 21:01:28,2014-01-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,0.0,1623,4623,+54%,0.0,-2.0,301.0,316.0,256.0,ICPT
+787,D,2014-01-03 21:01:06,2014-01-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,0.0,1298,10708,+14%,0.0,-2.0,301.0,316.0,256.0,ICPT
+788,D,2014-01-03 21:00:43,2014-01-01,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,0.0,4868,416635,+1%,0.0,-2.0,301.0,316.0,256.0,ICPT
+789,D,2014-01-03 21:00:18,2014-01-01,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,649,6392,+11%,0.0,-2.0,301.0,316.0,256.0,ICPT
+790,,2013-12-19 21:00:21,2013-12-18,ICPT,Akkaraju Srinivas,Dir,S - Sale,55.53,-260,2368,-10%,-14437.0,9.0,15.0,469.0,376.0,ICPT
+791,D,2013-12-17 21:00:17,2013-12-16,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,3750,3000,-500%,39000.0,-3.0,8.0,369.0,382.0,ICPT
+792,D,2013-12-17 21:00:17,2013-12-16,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,62.11,-5016,3000,-63%,-311550.0,-3.0,8.0,369.0,382.0,ICPT
+793,D,2013-11-25 06:02:13,2013-11-20,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,2000,5743,+53%,20800.0,-2.0,6.0,28.0,354.0,ICPT
+794,D,2013-11-25 06:02:13,2013-11-20,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,50.64,-2000,5743,-26%,-101285.0,-2.0,6.0,28.0,354.0,ICPT
+795,D,2013-11-19 21:30:17,2013-11-15,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,3750,4266,+727%,39000.0,-1.0,-1.0,13.0,338.0,ICPT
+796,D,2013-11-19 21:30:17,2013-11-15,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,48.08,-4730,4266,-53%,-227412.0,-1.0,-1.0,13.0,338.0,ICPT
+797,D,2013-11-12 21:32:05,2013-11-09,ICPT,Williams Nicole,Dir,M - OptEx,0.0,368,2569,+17%,0.0,0.0,-5.0,12.0,418.0,ICPT
+798,D,2013-11-12 21:31:38,2013-11-09,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,0.0,325,2120,+18%,0.0,0.0,-5.0,12.0,418.0,ICPT
+799,D,2013-11-12 21:31:38,2013-11-11,ICPT,Veitinger Klaus R Dr,Dir,S - Sale+OE,48.93,-162,2120,-7%,-7927.0,0.0,-5.0,12.0,418.0,ICPT
+800,D,2013-11-12 21:31:08,2013-11-09,ICPT,Silverstein Jonathan,Dir,M - OptEx,0.0,325,1736914,0%,0.0,0.0,-5.0,12.0,418.0,ICPT
+801,D,2013-11-12 21:30:42,2013-11-09,ICPT,Tallarigo Lorenzo,"Dir, 10%",M - OptEx,0.0,368,5942369,0%,0.0,0.0,-5.0,12.0,418.0,ICPT
+802,D,2013-11-12 21:30:17,2013-11-09,ICPT,Fundaro Paolo,Dir,M - OptEx,0.0,325,1655,+24%,0.0,0.0,-5.0,12.0,418.0,ICPT
+803,D,2013-11-12 21:29:21,2013-11-09,ICPT,Orbimed Advisors LLC,"Dir, 10%",M - OptEx,0.0,325,1735584,0%,0.0,0.0,-5.0,12.0,418.0,ICPT
+804,,2013-10-23 21:32:43,2013-10-21,ICPT,Orbimed Advisors LLC,Dir,S - Sale,62.5,-40088,1735259,-2%,-2505500.0,8.0,4.0,-8.0,410.0,ICPT
+805,,2013-10-23 21:32:37,2013-10-21,ICPT,Genextra S.P.A.,10%,S - Sale,62.5,-124912,5938890,-2%,-7807000.0,8.0,4.0,-8.0,410.0,ICPT
+806,,2013-10-23 21:32:12,2013-10-21,ICPT,Micheli Francesco,10%,S - Sale,62.5,-124912,5938890,-2%,-7807000.0,8.0,4.0,-8.0,410.0,ICPT
+807,D,2013-10-23 21:31:44,2013-10-21,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,2000,5743,+53%,20800.0,8.0,4.0,-8.0,410.0,ICPT
+808,D,2013-10-23 21:31:44,2013-10-21,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,55.51,-2000,5743,-26%,-111027.0,8.0,4.0,-8.0,410.0,ICPT
+809,,2013-10-23 21:31:15,2013-10-21,ICPT,Tallarigo Lorenzo,"Dir, 10%",S - Sale,62.5,-124912,5942001,-2%,-7807000.0,8.0,4.0,-8.0,410.0,ICPT
+810,,2013-10-23 21:30:32,2013-10-21,ICPT,Silverstein Jonathan,Dir,S - Sale,62.5,-40088,1736589,-2%,-2505500.0,8.0,4.0,-8.0,410.0,ICPT
+811,D,2013-10-21 06:13:20,2013-10-16,ICPT,Akkaraju Srinivas,Dir,M - OptEx,0.0,324,2628,+14%,0.0,-4.0,6.0,-11.0,408.0,ICPT
+812,,2013-10-17 21:33:00,2013-10-15,ICPT,Tallarigo Lorenzo,"Dir, 10%",S - Sale,62.5,-1123415,6066913,-16%,-70213438.0,-7.0,-8.0,-18.0,300.0,ICPT
+813,,2013-10-17 21:32:18,2013-10-15,ICPT,Silverstein Jonathan,Dir,S - Sale,62.5,-376585,1776677,-17%,-23536563.0,-7.0,-8.0,-18.0,300.0,ICPT
+814,,2013-10-17 21:31:43,2013-10-15,ICPT,Genextra S.P.A.,10%,S - Sale,62.5,-1123415,6063802,-16%,-70213438.0,-7.0,-8.0,-18.0,300.0,ICPT
+815,,2013-10-17 21:31:04,2013-10-15,ICPT,Micheli Francesco,10%,S - Sale,62.5,-1123415,6063802,-16%,-70213438.0,-7.0,-8.0,-18.0,300.0,ICPT
+816,,2013-10-17 21:28:30,2013-10-15,ICPT,Orbimed Advisors LLC,"Dir, 10%",S - Sale,62.5,-376585,1775347,-17%,-23536563.0,-7.0,-8.0,-18.0,300.0,ICPT
+817,D,2013-10-11 21:30:52,2013-10-10,ICPT,Tallarigo Lorenzo,"Dir, 10%",M - OptEx,0.0,1471,7190328,0%,0.0,0.0,0.0,-18.0,337.0,ICPT
+818,,2013-10-03 21:32:01,2013-10-01,ICPT,Veitinger Klaus R Dr,Dir,S - Sale,73.42,-671,1957,-26%,-49262.0,0.0,-13.0,-20.0,351.0,ICPT
+819,D,2013-10-03 21:31:30,2013-10-01,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,0.0,4867,406899,+1%,0.0,0.0,-13.0,-20.0,351.0,ICPT
+820,DM,2013-10-03 21:30:57,2013-10-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,7.26,5372,5246,-4263%,39000.0,0.0,-13.0,-20.0,351.0,ICPT
+821,D,2013-10-03 21:30:57,2013-10-02,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,72.8,-4392,5246,-46%,-319720.0,0.0,-13.0,-20.0,351.0,ICPT
+822,D,2013-10-03 21:30:27,2013-10-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,0.0,1298,9410,+16%,0.0,0.0,-13.0,-20.0,351.0,ICPT
+823,D,2013-10-03 21:29:55,2013-10-01,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,649,5743,+13%,0.0,0.0,-13.0,-20.0,351.0,ICPT
+824,D,2013-09-20 21:30:36,2013-09-20,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,2000,5094,+65%,20800.0,1.0,8.0,-14.0,580.0,ICPT
+825,D,2013-09-20 21:30:36,2013-09-20,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,61.07,-2000,5094,-28%,-122134.0,1.0,8.0,-14.0,580.0,ICPT
+826,D,2013-09-18 21:31:48,2013-09-17,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,9.82,25000,402032,+7%,245558.0,3.0,17.0,10.0,707.0,ICPT
+827,D,2013-09-18 21:31:48,2013-09-17,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,52.0,-25000,402032,-6%,-1300000.0,3.0,17.0,10.0,707.0,ICPT
+828,D,2013-09-18 21:30:20,2013-09-16,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,3750,4266,+727%,39000.0,3.0,17.0,10.0,707.0,ICPT
+829,D,2013-09-18 21:30:20,2013-08-16,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,49.2,-5016,4266,-54%,-246784.0,3.0,17.0,10.0,707.0,ICPT
+830,DM,2013-09-13 21:31:04,2013-09-12,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,9.82,12500,402032,+3%,122779.0,2.0,14.0,22.0,835.0,ICPT
+831,DM,2013-09-13 21:31:04,2013-09-12,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,49.02,-12500,402032,-3%,-612694.0,2.0,14.0,22.0,835.0,ICPT
+832,,2013-09-06 21:30:37,2013-09-05,ICPT,Williams Nicole,Dir,S - Sale,46.43,-600,2201,-21%,-27856.0,4.0,3.0,44.0,775.0,ICPT
+833,D,2013-08-22 21:30:39,2013-08-20,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,2000,5094,+65%,20800.0,-2.0,2.0,44.0,736.0,ICPT
+834,D,2013-08-22 21:30:39,2013-08-20,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,44.18,-2000,5094,-28%,-88360.0,-2.0,2.0,44.0,736.0,ICPT
+835,D,2013-08-16 21:30:41,2013-08-15,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,3750,2532,-308%,39000.0,0.0,1.0,13.0,675.0,ICPT
+836,D,2013-08-16 21:30:41,2013-08-15,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,45.04,-4754,2532,-65%,-214120.0,0.0,1.0,13.0,675.0,ICPT
+837,D,2013-08-13 21:32:56,2013-08-09,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,0.0,325,2628,+14%,0.0,0.0,-4.0,9.0,708.0,ICPT
+838,D,2013-08-13 21:32:14,2013-08-09,ICPT,Silverstein Jonathan,"Dir, 10%",M - OptEx,0.0,325,2153262,0%,0.0,0.0,-4.0,9.0,708.0,ICPT
+839,D,2013-08-13 21:31:33,2013-08-12,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,9.82,12500,402032,+3%,122779.0,0.0,-4.0,9.0,708.0,ICPT
+840,D,2013-08-13 21:31:33,2013-08-12,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,45.98,-12500,402032,-3%,-574724.0,0.0,-4.0,9.0,708.0,ICPT
+841,DM,2013-08-13 21:30:55,2013-08-09,ICPT,Fundaro Paolo,Dir,M - OptEx,9.24,3786,1330,-154%,34995.0,0.0,-4.0,9.0,708.0,ICPT
+842,D,2013-08-13 21:30:55,2013-08-12,ICPT,Fundaro Paolo,Dir,S - Sale+OE,46.13,-4759,1330,-78%,-219552.0,0.0,-4.0,9.0,708.0,ICPT
+843,D,2013-08-13 21:30:16,2013-08-09,ICPT,Williams Nicole,Dir,M - OptEx,0.0,368,2801,+15%,0.0,0.0,-4.0,9.0,708.0,ICPT
+844,D,2013-08-13 16:50:06,2013-08-09,ICPT,Orbimed Advisors LLC,"Dir, 10%",M - OptEx,0.0,325,2151932,0%,0.0,0.0,-4.0,9.0,708.0,ICPT
+845,D,2013-07-24 21:30:54,2013-07-22,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,2000,5094,+65%,20800.0,-3.0,-5.0,-6.0,600.0,ICPT
+846,D,2013-07-24 21:30:54,2013-07-22,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,49.44,-2000,5094,-28%,-98884.0,-3.0,-5.0,-6.0,600.0,ICPT
+847,D,2013-07-16 21:31:28,2013-07-16,ICPT,Akkaraju Srinivas,Dir,M - OptEx,0.0,325,2304,+16%,0.0,3.0,-1.0,-7.0,633.0,ICPT
+848,DM,2013-07-16 21:31:08,2013-07-12,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,9.82,25000,402032,+7%,245558.0,3.0,-1.0,-7.0,633.0,ICPT
+849,DM,2013-07-16 21:31:08,2013-07-12,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,50.05,-25000,402032,-6%,-1251128.0,3.0,-1.0,-7.0,633.0,ICPT
+850,D,2013-07-10 21:33:20,2013-07-08,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,9.82,25000,8112,-148%,245558.0,5.0,-1.0,-7.0,44.0,ICPT
+851,D,2013-07-10 21:33:20,2013-07-08,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,45.39,-25000,8112,-76%,-1134840.0,5.0,-1.0,-7.0,44.0,ICPT
+852,DM,2013-07-10 21:32:29,2013-07-08,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,9.82,37500,402032,+10%,368336.0,5.0,-1.0,-7.0,44.0,ICPT
+853,DM,2013-07-10 21:32:29,2013-07-08,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,46.36,-37500,402032,-9%,-1738459.0,5.0,-1.0,-7.0,44.0,ICPT
+854,D,2013-07-03 21:35:57,2013-07-01,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,0.0,1298,8112,+19%,0.0,2.0,13.0,5.0,55.0,ICPT
+855,DM,2013-07-03 21:34:03,2013-07-01,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,7.26,5373,3536,-292%,39000.0,2.0,13.0,5.0,55.0,ICPT
+856,D,2013-07-03 21:34:03,2013-07-02,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,43.63,-4369,3536,-55%,-190623.0,2.0,13.0,5.0,55.0,ICPT
+857,D,2013-07-03 21:32:22,2013-07-01,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,0.0,4868,406900,+1%,0.0,2.0,13.0,5.0,55.0,ICPT
+858,D,2013-07-03 21:30:57,2013-07-01,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,649,5094,+15%,0.0,2.0,13.0,5.0,55.0,ICPT
+859,DM,2013-06-27 21:30:28,2013-06-25,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,9.82,12500,402032,+3%,122779.0,1.0,-1.0,3.0,53.0,ICPT
+860,DM,2013-06-27 21:30:28,2013-06-25,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,40.06,-12500,402032,-3%,-500745.0,1.0,-1.0,3.0,53.0,ICPT
+861,D,2013-06-24 21:30:44,2013-06-20,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,10.4,2000,4445,+82%,20800.0,1.0,15.0,22.0,48.0,ICPT
+862,D,2013-06-24 21:30:44,2013-06-20,ICPT,Adorini Luciano,Chief Scientific Officer,S - Sale+OE,37.07,-2000,4445,-31%,-74136.0,1.0,15.0,22.0,48.0,ICPT
+863,DM,2013-06-21 21:31:29,2013-06-19,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,9.82,25000,402032,+7%,245558.0,0.0,14.0,25.0,47.0,ICPT
+864,DM,2013-06-21 21:31:29,2013-06-19,ICPT,Pruzanski Mark,"Pres, CEO",S - Sale+OE,38.25,-25000,402032,-6%,-956347.0,0.0,14.0,25.0,47.0,ICPT
+865,D,2013-06-21 21:30:43,2013-06-19,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,9.63,50575,6814,-116%,486874.0,0.0,14.0,25.0,47.0,ICPT
+866,D,2013-06-21 21:30:43,2013-06-19,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,34.5,-50575,6814,-88%,-1744838.0,0.0,14.0,25.0,47.0,ICPT
+867,D,2013-06-19 21:31:37,2013-06-17,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,3750,2532,-308%,39000.0,1.0,4.0,37.0,64.0,ICPT
+868,D,2013-06-19 21:31:37,2013-06-17,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,32.72,-5016,2532,-66%,-164124.0,1.0,4.0,37.0,64.0,ICPT
+869,DM,2013-05-28 21:30:51,2013-05-23,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,8.67,6225,6814,>999%,53950.0,0.0,-9.0,15.0,51.0,ICPT
+870,DM,2013-05-28 21:30:51,2013-05-23,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,34.5,-6225,6814,-48%,-214767.0,0.0,-9.0,15.0,51.0,ICPT
+871,D,2013-05-22 21:30:33,2013-05-20,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,10.64,28200,6814,-132%,299931.0,4.0,4.0,17.0,48.0,ICPT
+872,D,2013-05-22 21:30:33,2013-05-20,ICPT,Duncan Barbara Gayle,CFO,S - Sale+OE,34.5,-28200,6814,-81%,-972900.0,4.0,4.0,17.0,48.0,ICPT
+873,DM,2013-05-20 06:06:22,2013-05-15,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,10.4,3750,3798,>999%,39000.0,2.0,3.0,-1.0,48.0,ICPT
+874,DM,2013-05-20 06:06:22,2013-05-15,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,31.31,-5016,3798,-57%,-157027.0,2.0,3.0,-1.0,48.0,ICPT
+875,D,2013-05-13 17:19:31,2013-05-09,ICPT,Orbimed Advisors LLC,"Dir, 10%",M - OptEx,0.0,324,2151607,0%,0.0,0.0,5.0,0.0,54.0,ICPT
+876,D,2013-05-09 21:38:35,2013-05-07,ICPT,Veitinger Klaus R Dr,Dir,A - Grant,0.0,1330,2303,+137%,0.0,1.0,1.0,8.0,66.0,ICPT
+877,D,2013-05-09 21:38:35,2013-05-09,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,0.0,324,2303,+16%,0.0,1.0,1.0,8.0,66.0,ICPT
+878,D,2013-05-09 21:37:44,2013-05-07,ICPT,Tallarigo Lorenzo,"Dir, 10%",A - Grant,0.0,1640,1640,New,0.0,1.0,1.0,8.0,66.0,ICPT
+879,D,2013-05-09 21:36:31,2013-05-07,ICPT,Silverstein Jonathan,"Dir, 10%",A - Grant,0.0,1330,2303,+137%,0.0,1.0,1.0,8.0,66.0,ICPT
+880,D,2013-05-09 21:36:31,2013-05-09,ICPT,Silverstein Jonathan,"Dir, 10%",M - OptEx,0.0,324,2303,+16%,0.0,1.0,1.0,8.0,66.0,ICPT
+881,D,2013-05-09 21:35:46,2013-05-07,ICPT,Shapiro David,SEE REMARKS,A - Grant,0.0,3000,8064,+59%,0.0,1.0,1.0,8.0,66.0,ICPT
+882,D,2013-05-09 21:35:02,2013-05-07,ICPT,Pruzanski Mark,"Pres, CEO",A - Grant,0.0,7700,402032,+2%,0.0,1.0,1.0,8.0,66.0,ICPT
+883,D,2013-05-09 21:33:48,2013-05-07,ICPT,Fundaro Paolo,Dir,A - Grant,0.0,1330,2303,+137%,0.0,1.0,1.0,8.0,66.0,ICPT
+884,D,2013-05-09 21:33:48,2013-05-09,ICPT,Fundaro Paolo,Dir,M - OptEx,0.0,324,2303,+16%,0.0,1.0,1.0,8.0,66.0,ICPT
+885,D,2013-05-09 21:32:51,2013-05-07,ICPT,Duncan Barbara Gayle,CFO,A - Grant,0.0,3000,6814,+79%,0.0,1.0,1.0,8.0,66.0,ICPT
+886,D,2013-05-09 21:32:09,2013-05-07,ICPT,Akkaraju Srinivas,Dir,A - Grant,0.0,1330,1979,+205%,0.0,1.0,1.0,8.0,66.0,ICPT
+887,D,2013-05-09 21:31:28,2013-05-07,ICPT,Adorini Luciano,Chief Scientific Officer,A - Grant,0.0,1200,4445,+37%,0.0,1.0,1.0,8.0,66.0,ICPT
+888,D,2013-05-09 21:30:45,2013-05-07,ICPT,Williams Nicole,Dir,A - Grant,0.0,1330,2433,+121%,0.0,1.0,1.0,8.0,66.0,ICPT
+889,D,2013-05-09 21:30:45,2013-05-09,ICPT,Williams Nicole,Dir,M - OptEx,0.0,368,2433,+18%,0.0,1.0,1.0,8.0,66.0,ICPT
+890,D,2013-04-17 21:31:35,2013-04-16,ICPT,Akkaraju Srinivas,Dir,M - OptEx,0.0,324,649,+100%,0.0,0.0,10.0,-1.0,87.0,ICPT
+891,D,2013-04-15 21:01:41,2013-04-09,ICPT,Orbimed Advisors LLC,"Dir, 10%",M - OptEx,0.0,649,2151283,0%,0.0,-3.0,-6.0,-5.0,82.0,ICPT
+892,D,2013-04-11 21:52:30,2013-04-09,ICPT,Silverstein Jonathan,"Dir, 10%",M - OptEx,0.0,649,649,New,0.0,-2.0,-9.0,-10.0,86.0,ICPT
+893,D,2013-04-11 21:36:35,2013-04-09,ICPT,Duncan Barbara Gayle,CFO,F - Tax,34.57,-2676,3814,-41%,-92509.0,-2.0,-9.0,-10.0,86.0,ICPT
+894,D,2013-04-11 21:36:35,2013-04-09,ICPT,Duncan Barbara Gayle,CFO,M - OptEx,0.0,6490,3814,-243%,0.0,-2.0,-9.0,-10.0,86.0,ICPT
+895,D,2013-04-11 21:34:36,2013-04-09,ICPT,Shapiro David,"CMO, EVP - Development",F - Tax,34.57,-3049,5064,-38%,-105404.0,-2.0,-9.0,-10.0,86.0,ICPT
+896,D,2013-04-11 21:34:36,2013-04-09,ICPT,Shapiro David,"CMO, EVP - Development",M - OptEx,3.29,11863,5064,-174%,39000.0,-2.0,-9.0,-10.0,86.0,ICPT
+897,D,2013-04-11 21:34:36,2013-04-09,ICPT,Shapiro David,"CMO, EVP - Development",S - Sale+OE,34.41,-3750,5064,-43%,-129053.0,-2.0,-9.0,-10.0,86.0,ICPT
+898,D,2013-04-11 21:33:55,2013-04-09,ICPT,Akkaraju Srinivas,Dir,M - OptEx,0.0,325,325,New,0.0,-2.0,-9.0,-10.0,86.0,ICPT
+899,D,2013-04-11 21:33:08,2013-04-09,ICPT,Pruzanski Mark,"Pres, CEO",F - Tax,34.57,-10774,394332,-3%,-372457.0,-2.0,-9.0,-10.0,86.0,ICPT
+900,D,2013-04-11 21:33:08,2013-04-09,ICPT,Pruzanski Mark,"Pres, CEO",M - OptEx,0.0,24339,394332,+7%,0.0,-2.0,-9.0,-10.0,86.0,ICPT
+901,D,2013-04-11 21:32:32,2013-04-09,ICPT,Adorini Luciano,Chief Scientific Officer,M - OptEx,0.0,3245,3245,New,0.0,-2.0,-9.0,-10.0,86.0,ICPT
+902,D,2013-04-11 21:31:58,2013-04-09,ICPT,Veitinger Klaus R Dr,Dir,M - OptEx,0.0,649,649,New,0.0,-2.0,-9.0,-10.0,86.0,ICPT
+903,D,2013-04-11 21:31:22,2013-04-09,ICPT,Fundaro Paolo,Dir,M - OptEx,0.0,649,649,New,0.0,-2.0,-9.0,-10.0,86.0,ICPT
+904,D,2013-04-11 21:30:33,2013-04-09,ICPT,Williams Nicole,Dir,M - OptEx,0.0,735,735,New,0.0,-2.0,-9.0,-10.0,86.0,ICPT
+905,D,2012-10-16 18:07:24,2012-10-16,ICPT,Orbimed Advisors LLC,10%,C - Converted deriv,0.0,1817300,2150634,-46%,0.0,1.0,-1.0,13.0,61.0,ICPT
+906,D,2012-10-16 18:07:24,2012-10-16,ICPT,Orbimed Advisors LLC,10%,P - Purchase,15.0,333334,2150634,+18%,5000010.0,1.0,-1.0,13.0,61.0,ICPT
+907,D,2012-10-16 18:04:19,2012-10-16,ICPT,Tallarigo Lorenzo,"Dir, 10%",C - Converted deriv,0.0,5586517,7187217,-44%,0.0,1.0,-1.0,13.0,61.0,ICPT
+908,,2012-10-16 18:03:48,2012-10-16,ICPT,Akkaraju Srinivas,Dir,P - Purchase,15.0,700000,700000,New,10500000.0,1.0,-1.0,13.0,61.0,ICPT
+909,D,2012-10-16 18:02:19,2012-10-16,ICPT,Silverstein Jonathan,"Dir, 10%",C - Converted deriv,0.0,1817300,2150634,-46%,0.0,1.0,-1.0,13.0,61.0,ICPT
+910,D,2012-10-16 18:02:19,2012-10-16,ICPT,Silverstein Jonathan,"Dir, 10%",P - Purchase,15.0,333334,2150634,+18%,5000010.0,1.0,-1.0,13.0,61.0,ICPT
+911,D,2012-10-16 18:01:24,2012-10-16,ICPT,Genextra S.P.A.,10%,C - Converted deriv,0.0,5586517,7187217,-44%,0.0,1.0,-1.0,13.0,61.0,ICPT

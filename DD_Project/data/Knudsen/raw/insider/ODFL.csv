@@ -1,14 +1,522 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,M,2021-11-22 16:04:14,2021-11-18,ODFL,Congdon David S,Exec COB,S - Sale,$352.56,-42525,5797864,-1%,"-$14,992,384",,,,,ODFL
-1,,2021-11-03 16:27:55,2021-11-01,ODFL,Suggs Leo H,Dir,S - Sale,$345.03,-3000,3772,-44%,"-$1,035,090",,,,,ODFL
-2,,2021-08-18 16:03:47,2021-08-17,ODFL,Wray D. Michael,Dir,S - Sale,$277.17,-2363,8984,-21%,"-$654,953",,,,,ODFL
-3,,2020-11-18 16:24:33,2020-11-17,ODFL,Plemmons Gregory B,SVP - Sales,S - Sale,$205.59,-1102,9939,-10%,"-$226,560",,,,,ODFL
-4,,2020-11-16 16:59:20,2020-11-13,ODFL,Suggs Leo H,Dir,S - Sale,$200.00,-4500,6227,-42%,"-$900,000",,,,,ODFL
-5,,2020-02-11 16:30:59,2020-02-11,ODFL,Bates David J.,SVP - Operations,S - Sale,$220.62,-339,5568,-6%,"-$74,790",,,,,ODFL
-6,,2019-11-04 17:02:10,2019-10-31,ODFL,Congdon Earl E,Senior Exec COB,S - Sale,$181.94,-23500,1808474,-1%,"-$4,275,590",,,,,ODFL
-7,,2019-11-04 17:00:03,2019-10-31,ODFL,Congdon David S,Exec COB,S - Sale,$181.94,-23500,4202293,-1%,"-$4,275,590",,,,,ODFL
-8,,2019-08-21 16:37:21,2019-08-20,ODFL,Congdon David S,Exec COB,S - Sale,$165.51,-30150,4227124,-1%,"-$4,990,251",,,,,ODFL
-9,,2019-08-07 16:56:45,2019-08-06,ODFL,Plemmons Gregory B,SVP - Sales,S - Sale,$163.39,-1249,5885,-18%,"-$204,074",,,,,ODFL
-10,,2019-08-05 16:33:12,2019-08-01,ODFL,Congdon Earl E,Senior Exec COB,S - Sale,$166.53,-56400,1912110,-3%,"-$9,392,292",,,,,ODFL
-11,,2019-02-22 16:34:05,2019-02-21,ODFL,Bates David J.,SVP - Operations,S - Sale,$151.84,-1951,6357,-23%,"-$296,240",,,,,ODFL
-12,,2018-05-25 16:40:06,2018-05-23,ODFL,Suggs Leo H,Dir,S - Sale,$148.44,-800,5679,-12%,"-$118,752",,,,,ODFL
+0,M,2022-02-15 16:21:28,2022-02-11,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",F - Tax,$294.83,-548,9352,-6%,"-$161,566",,,,,ODFL
+1,M,2022-02-15 16:20:42,2022-02-11,ODFL,Plemmons Gregory B,SVP - Sales,F - Tax,$294.89,-1654,14238,-10%,"-$487,752",,,,,ODFL
+2,M,2022-02-15 16:19:39,2022-02-11,ODFL,Bates David J.,SVP - Operations,F - Tax,$294.92,-1719,15321,-10%,"-$506,969",,,,,ODFL
+3,M,2022-02-15 16:17:41,2022-02-11,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,F - Tax,$294.92,-1719,21845,-7%,"-$506,969",,,,,ODFL
+4,M,2022-02-15 16:17:07,2022-02-11,ODFL,Brooks Christopher T,"SVP - HR, Safety",F - Tax,$294.92,-1719,17007,-9%,"-$506,969",,,,,ODFL
+5,M,2022-02-15 16:15:43,2022-02-11,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",F - Tax,$294.92,-1719,18304,-9%,"-$506,969",,,,,ODFL
+6,,2022-02-15 16:15:17,2022-02-11,ODFL,Congdon Earl E,"Chair Emeritus, Sr. Advisor",F - Tax,$295.65,-559,2451142,0%,"-$165,268",,,,,ODFL
+7,,2022-02-15 16:14:26,2022-02-11,ODFL,Congdon David S,Exec COB,F - Tax,$295.65,-1164,6012461,0%,"-$344,137",,,,,ODFL
+8,M,2022-02-15 16:12:49,2022-02-11,ODFL,Freeman Kevin M.,"EVP, COO",F - Tax,$295.14,-3136,29930,-9%,"-$925,555",,,,,ODFL
+9,M,2022-02-15 16:11:32,2022-02-11,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",F - Tax,$295.12,-2572,33049,-7%,"-$759,055",,,,,ODFL
+10,M,2022-02-15 16:10:18,2022-02-11,ODFL,Gantt Greg C,"Pres, CEO",F - Tax,$295.14,-4141,44077,-9%,"-$1,222,158",,,,,ODFL
+11,,2022-02-11 16:14:19,2022-02-09,ODFL,Plemmons Gregory B,SVP - Sales,A - Grant,$0.00,1483,15892,+10%,+$0,,,,,ODFL
+12,,2022-02-11 16:13:21,2022-02-09,ODFL,Bates David J.,SVP - Operations,A - Grant,$0.00,1413,17040,+9%,+$0,,,,,ODFL
+13,,2022-02-11 16:12:15,2022-02-09,ODFL,Brooks Christopher T,"SVP - HR, Safety",A - Grant,$0.00,1413,18726,+8%,+$0,,,,,ODFL
+14,,2022-02-11 16:11:48,2022-02-09,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,A - Grant,$0.00,1413,23564,+6%,+$0,,,,,ODFL
+15,,2022-02-11 16:09:41,2022-02-09,ODFL,Freeman Kevin M.,"EVP, COO",A - Grant,$0.00,1807,33066,+6%,+$0,,,,,ODFL
+16,,2022-02-11 16:09:07,2022-02-09,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",A - Grant,$0.00,1528,35621,+4%,+$0,,,,,ODFL
+17,,2022-02-11 16:08:03,2022-02-09,ODFL,Gantt Greg C,"Pres, CEO",A - Grant,$0.00,2754,48218,+6%,+$0,,,,,ODFL
+18,,2022-01-28 16:43:17,2022-01-26,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,A - Grant,$0.00,2258,22147,+11%,+$0,,,,,ODFL
+19,,2022-01-28 16:42:12,2022-01-26,ODFL,Brooks Christopher T,"SVP - HR, Safety",A - Grant,$0.00,2258,17312,+15%,+$0,,,,,ODFL
+20,,2022-01-28 16:41:13,2022-01-26,ODFL,Bates David J.,SVP - Operations,A - Grant,$0.00,2258,15627,+17%,+$0,,,,,ODFL
+21,,2022-01-28 16:40:27,2022-01-26,ODFL,Plemmons Gregory B,SVP - Sales,A - Grant,$0.00,2258,14409,+19%,+$0,,,,,ODFL
+22,,2022-01-28 16:39:20,2022-01-26,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",A - Grant,$0.00,2258,18610,+14%,+$0,,,,,ODFL
+23,,2022-01-28 16:38:38,2022-01-26,ODFL,Freeman Kevin M.,"EVP, COO",A - Grant,$0.00,5776,31254,+23%,+$0,,,,,ODFL
+24,,2022-01-28 16:37:26,2022-01-26,ODFL,Congdon Earl E,"Chair Emeritus, Sr. Advisor",A - Grant,$0.00,2294,2456921,0%,+$0,,,,,ODFL
+25,,2022-01-28 16:36:39,2022-01-26,ODFL,Congdon David S,Exec COB,A - Grant,$0.00,5378,6010529,0%,+$0,,,,,ODFL
+26,,2022-01-28 16:35:10,2022-01-26,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",A - Grant,$0.00,4883,34093,+17%,+$0,,,,,ODFL
+27,,2022-01-28 16:33:25,2022-01-26,ODFL,Gantt Greg C,"Pres, CEO",A - Grant,$0.00,7667,45462,+20%,+$0,,,,,ODFL
+28,,2021-11-24 16:35:39,2021-11-22,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,G - Gift,$0.00,-400,19876,-2%,-$0,,,,,ODFL
+29,M,2021-11-22 16:04:14,2021-11-18,ODFL,Congdon David S,Exec COB,S - Sale,$352.56,-42525,5797864,-1%,"-$14,992,384",,,,,ODFL
+30,,2021-11-05 16:01:52,2021-11-03,ODFL,Plemmons Gregory B,SVP - Sales,G - Gift,$0.00,-230,12148,-2%,-$0,,,,,ODFL
+31,,2021-11-03 16:27:55,2021-11-01,ODFL,Suggs Leo H,Dir,S - Sale,$345.03,-3000,3772,-44%,"-$1,035,090",,,,,ODFL
+32,,2021-08-18 16:03:47,2021-08-17,ODFL,Wray D. Michael,Dir,S - Sale,$277.17,-2363,8984,-21%,"-$654,953",,,,,ODFL
+33,,2021-05-21 16:46:09,2021-05-19,ODFL,Stith Thomas A. III,Dir,A - Grant,$0.00,545,545,New,+$0,,,,,ODFL
+34,,2021-05-21 16:44:43,2021-05-19,ODFL,Stallings Wendy T.,Dir,A - Grant,$0.00,545,1545,+55%,+$0,,,,,ODFL
+35,,2021-05-21 16:43:29,2021-05-19,ODFL,Aaholm Sherry A,Dir,A - Grant,$0.00,545,4006,+16%,+$0,,,,,ODFL
+36,,2021-05-21 16:42:06,2021-05-19,ODFL,Wray D. Michael,Dir,A - Grant,$0.00,545,11347,+5%,+$0,,,,,ODFL
+37,,2021-05-21 16:40:50,2021-05-19,ODFL,Suggs Leo H,Dir,A - Grant,$0.00,545,6772,+9%,+$0,,,,,ODFL
+38,,2021-05-21 16:39:19,2021-05-19,ODFL,Kasarda John D.,Dir,A - Grant,$0.00,545,13720,+4%,+$0,,,,,ODFL
+39,,2021-05-21 16:36:41,2021-05-19,ODFL,Gabosch Bradley R,Dir,A - Grant,$0.00,545,7972,+7%,+$0,,,,,ODFL
+40,,2021-05-21 16:35:38,2021-05-19,ODFL,Hanley Patrick D,Dir,A - Grant,$0.00,545,7972,+7%,+$0,,,,,ODFL
+41,,2021-05-21 16:33:50,2021-05-19,ODFL,Congdon John R Jr,Dir,A - Grant,$0.00,545,2262108,0%,+$0,,,,,ODFL
+42,,2021-05-21 16:33:50,2021-02-11,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-1573,2262108,0%,-$0,,,,,ODFL
+43,,2021-02-16 16:43:29,2021-02-11,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",A - Grant,$0.00,1219,9137,+15%,+$0,,,,,ODFL
+44,M,2021-02-16 16:43:29,2021-02-13,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",F - Tax,$212.21,-586,9137,-6%,"-$124,355",,,,,ODFL
+45,,2021-02-16 16:42:28,2021-02-11,ODFL,Plemmons Gregory B,SVP - Sales,A - Grant,$0.00,2258,12347,+22%,+$0,,,,,ODFL
+46,M,2021-02-16 16:42:28,2021-02-13,ODFL,Plemmons Gregory B,SVP - Sales,F - Tax,$212.21,-1545,12347,-11%,"-$327,864",,,,,ODFL
+47,,2021-02-16 16:41:16,2021-02-11,ODFL,Brooks Christopher T,"SVP - HR, Safety",A - Grant,$0.00,2258,15037,+18%,+$0,,,,,ODFL
+48,M,2021-02-16 16:41:16,2021-02-13,ODFL,Brooks Christopher T,"SVP - HR, Safety",F - Tax,$212.21,-1256,15037,-8%,"-$266,536",,,,,ODFL
+49,,2021-02-16 16:37:57,2021-02-11,ODFL,Freeman Kevin M.,"EVP, COO",A - Grant,$0.00,2888,25304,+13%,+$0,,,,,ODFL
+50,M,2021-02-16 16:37:57,2021-02-13,ODFL,Freeman Kevin M.,"EVP, COO",F - Tax,$212.21,-2140,25304,-8%,"-$454,129",,,,,ODFL
+51,,2021-02-16 16:35:40,2021-02-11,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",A - Grant,$0.00,2258,16351,+16%,+$0,,,,,ODFL
+52,M,2021-02-16 16:35:40,2021-02-13,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",F - Tax,$212.21,-1251,16351,-7%,"-$265,475",,,,,ODFL
+53,,2021-02-16 16:34:00,2021-02-11,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",A - Grant,$0.00,2441,29137,+9%,+$0,,,,,ODFL
+54,M,2021-02-16 16:34:00,2021-02-13,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",F - Tax,$212.21,-1722,29137,-6%,"-$365,426",,,,,ODFL
+55,,2021-02-16 16:33:08,2021-02-11,ODFL,Gantt Greg C,"Pres, CEO",A - Grant,$0.00,3833,37725,+11%,+$0,,,,,ODFL
+56,M,2021-02-16 16:33:08,2021-02-13,ODFL,Gantt Greg C,"Pres, CEO",F - Tax,$212.21,-3387,37725,-8%,"-$718,755",,,,,ODFL
+57,,2021-02-16 16:30:40,2021-02-11,ODFL,Congdon David S,Exec COB,A - Grant,$0.00,2689,5787434,0%,+$0,,,,,ODFL
+58,,2021-02-16 16:29:09,2021-02-11,ODFL,Congdon Earl E,"Chair Emeritus, Sr. Advisor",A - Grant,$0.00,1147,2458624,0%,+$0,,,,,ODFL
+59,,2021-02-11 16:34:12,2020-11-06,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-4850,2262453,0%,-$0,,,,,ODFL
+60,,2021-01-29 17:25:23,2021-01-27,ODFL,Congdon Earl E,"Chair Emeritus, Sr. Advisor",A - Grant,$0.00,3147,2460997,0%,+$0,,,,,ODFL
+61,M,2021-01-29 17:25:23,2020-05-07,ODFL,Congdon Earl E,"Chair Emeritus, Sr. Advisor",G - Gift,$0.00,-52892,2460997,-2%,-$0,,,,,ODFL
+62,,2021-01-29 17:23:43,2021-01-27,ODFL,Congdon David S,Exec COB,A - Grant,$0.00,5743,5781798,0%,+$0,,,,,ODFL
+63,,2021-01-29 17:23:43,2020-05-07,ODFL,Congdon David S,Exec COB,G - Gift,$0.00,-26300,5781798,0%,-$0,,,,,ODFL
+64,,2021-01-29 17:21:30,2021-01-27,ODFL,Plemmons Gregory B,SVP - Sales,A - Grant,$0.00,1690,11633,+17%,+$0,,,,,ODFL
+65,,2021-01-29 17:20:39,2021-01-27,ODFL,Brooks Christopher T,"SVP - HR, Safety",A - Grant,$0.00,1690,14035,+14%,+$0,,,,,ODFL
+66,,2021-01-29 17:19:57,2021-01-27,ODFL,Bates David J.,SVP - Operations,A - Grant,$0.00,1690,12380,+16%,+$0,,,,,ODFL
+67,,2021-01-29 17:19:21,2021-01-27,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",A - Grant,$0.00,1690,15344,+12%,+$0,,,,,ODFL
+68,,2021-01-29 17:18:29,2021-01-27,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,A - Grant,$0.00,1690,19126,+10%,+$0,,,,,ODFL
+69,,2021-01-29 17:17:41,2021-01-27,ODFL,Freeman Kevin M.,"EVP, COO",A - Grant,$0.00,4327,24550,+21%,+$0,,,,,ODFL
+70,,2021-01-29 17:16:53,2021-01-27,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",A - Grant,$0.00,3658,28417,+15%,+$0,,,,,ODFL
+71,,2021-01-29 17:15:51,2021-01-27,ODFL,Gantt Greg C,"Pres, CEO",A - Grant,$0.00,5743,37277,+18%,+$0,,,,,ODFL
+72,,2020-11-18 16:24:33,2020-11-17,ODFL,Plemmons Gregory B,SVP - Sales,S - Sale,$205.59,-1102,9939,-10%,"-$226,560",,,,,ODFL
+73,,2020-11-16 16:59:20,2020-11-13,ODFL,Suggs Leo H,Dir,S - Sale,$200.00,-4500,6227,-42%,"-$900,000",,,,,ODFL
+74,,2020-05-22 17:05:05,2020-05-20,ODFL,Wray D. Michael,Dir,A - Grant,$0.00,1000,10802,+10%,+$0,,,,,ODFL
+75,,2020-05-22 17:04:18,2020-05-20,ODFL,Suggs Leo H,Dir,A - Grant,$0.00,1000,10727,+10%,+$0,,,,,ODFL
+76,,2020-05-22 17:03:09,2020-05-20,ODFL,Stallings Wendy T.,Dir,A - Grant,$0.00,1000,1000,New,+$0,,,,,ODFL
+77,,2020-05-22 17:02:03,2020-05-20,ODFL,Kasarda John D.,Dir,A - Grant,$0.00,1000,13175,+8%,+$0,,,,,ODFL
+78,,2020-05-22 17:01:26,2020-05-20,ODFL,Hanley Patrick D,Dir,A - Grant,$0.00,1000,7427,+16%,+$0,,,,,ODFL
+79,,2020-05-22 16:58:03,2020-05-20,ODFL,Gabosch Bradley R,Dir,A - Grant,$0.00,1000,7427,+16%,+$0,,,,,ODFL
+80,,2020-05-22 16:57:14,2020-05-20,ODFL,Congdon John R Jr,Dir,A - Grant,$0.00,1000,2341470,0%,+$0,,,,,ODFL
+81,,2020-05-22 16:57:14,2020-02-26,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-994,2341470,0%,-$0,,,,,ODFL
+82,,2020-05-22 16:55:29,2020-05-20,ODFL,Aaholm Sherry A,Dir,A - Grant,$0.00,1000,3461,+41%,+$0,,,,,ODFL
+83,,2020-02-18 17:13:03,2020-02-13,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",A - Grant,$0.00,1096,5670,+24%,+$0,,,,,ODFL
+84,M,2020-02-18 17:13:03,2020-02-14,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",F - Tax,$221.91,-283,5670,-5%,"-$62,801",,,,,ODFL
+85,,2020-02-18 17:12:06,2020-02-13,ODFL,Plemmons Gregory B,SVP - Sales,A - Grant,$0.00,2030,7326,+38%,+$0,,,,,ODFL
+86,M,2020-02-18 17:12:06,2020-02-14,ODFL,Plemmons Gregory B,SVP - Sales,F - Tax,$221.91,-446,7326,-6%,"-$98,972",,,,,ODFL
+87,,2020-02-18 17:11:06,2020-02-13,ODFL,Brooks Christopher T,"SVP - HR, Safety",A - Grant,$0.00,2030,8494,+31%,+$0,,,,,ODFL
+88,M,2020-02-18 17:11:06,2020-02-14,ODFL,Brooks Christopher T,"SVP - HR, Safety",F - Tax,$221.91,-465,8494,-5%,"-$103,188",,,,,ODFL
+89,,2020-02-18 17:09:59,2020-02-13,ODFL,Bates David J.,SVP - Operations,A - Grant,$0.00,2030,7127,+40%,+$0,,,,,ODFL
+90,M,2020-02-18 17:09:59,2020-02-14,ODFL,Bates David J.,SVP - Operations,F - Tax,$221.91,-471,7127,-6%,"-$104,520",,,,,ODFL
+91,,2020-02-18 17:08:50,2020-02-13,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",A - Grant,$0.00,2030,9102,+29%,+$0,,,,,ODFL
+92,M,2020-02-18 17:08:50,2020-02-14,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",F - Tax,$221.91,-462,9102,-5%,"-$102,522",,,,,ODFL
+93,,2020-02-18 17:07:47,2020-02-13,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,A - Grant,$0.00,2030,11428,+22%,+$0,,,,,ODFL
+94,M,2020-02-18 17:07:47,2020-02-14,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,F - Tax,$221.91,-474,11428,-4%,"-$105,185",,,,,ODFL
+95,,2020-02-18 17:06:44,2020-02-13,ODFL,Freeman Kevin M.,"EVP, COO",A - Grant,$0.00,2596,13285,+24%,+$0,,,,,ODFL
+96,M,2020-02-18 17:06:44,2020-02-14,ODFL,Freeman Kevin M.,"EVP, COO",F - Tax,$221.91,-565,13285,-4%,"-$125,379",,,,,ODFL
+97,,2020-02-18 17:05:38,2020-02-13,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",A - Grant,$0.00,2195,16431,+15%,+$0,,,,,ODFL
+98,M,2020-02-18 17:05:38,2020-02-14,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",F - Tax,$221.91,-498,16431,-3%,"-$110,511",,,,,ODFL
+99,,2020-02-18 17:04:33,2020-02-13,ODFL,Gantt Greg C,"Pres, CEO",A - Grant,$0.00,3446,20949,+20%,+$0,,,,,ODFL
+100,M,2020-02-18 17:04:33,2020-02-14,ODFL,Gantt Greg C,"Pres, CEO",F - Tax,$221.91,-1138,20949,-5%,"-$252,534",,,,,ODFL
+101,,2020-02-18 17:03:15,2020-02-13,ODFL,Congdon David S,Exec COB,A - Grant,$0.00,3446,4190407,0%,+$0,,,,,ODFL
+102,,2020-02-18 16:59:03,2020-02-13,ODFL,Congdon Earl E,Senior Exec COB,A - Grant,$0.00,1888,1808658,0%,+$0,,,,,ODFL
+103,,2020-02-12 18:09:30,2019-11-11,ODFL,Congdon David S,Exec COB,G - Gift,$0.00,-15500,4186961,0%,-$0,,,,,ODFL
+104,,2020-02-11 16:34:40,2020-02-09,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",F - Tax,$220.59,-147,4857,-3%,"-$32,427",,,,,ODFL
+105,,2020-02-11 16:33:34,2020-02-09,ODFL,Plemmons Gregory B,SVP - Sales,F - Tax,$220.59,-152,5742,-3%,"-$33,530",,,,,ODFL
+106,,2020-02-11 16:32:14,2020-02-09,ODFL,Brooks Christopher T,"SVP - HR, Safety",F - Tax,$220.59,-168,6929,-2%,"-$37,059",,,,,ODFL
+107,,2020-02-11 16:30:59,2020-02-09,ODFL,Bates David J.,SVP - Operations,F - Tax,$220.59,-184,5568,-3%,"-$40,589",,,,,ODFL
+108,,2020-02-11 16:30:59,2020-02-11,ODFL,Bates David J.,SVP - Operations,S - Sale,$220.62,-339,5568,-6%,"-$74,790",,,,,ODFL
+109,,2020-02-11 16:29:16,2020-02-09,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",F - Tax,$220.59,-173,7534,-2%,"-$38,162",,,,,ODFL
+110,,2020-02-11 16:28:00,2020-02-09,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",F - Tax,$220.59,-185,14734,-1%,"-$40,809",,,,,ODFL
+111,,2020-02-11 16:26:48,2020-02-09,ODFL,Freeman Kevin M.,"EVP, COO",F - Tax,$220.59,-190,11254,-2%,"-$41,912",,,,,ODFL
+112,,2020-02-11 16:25:31,2020-02-09,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,F - Tax,$220.59,-187,9872,-2%,"-$41,250",,,,,ODFL
+113,,2020-02-11 16:23:49,2020-02-09,ODFL,Gantt Greg C,"Pres, CEO",F - Tax,$220.59,-378,18641,-2%,"-$83,383",,,,,ODFL
+114,M,2020-02-11 16:22:03,2019-08-08,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-2800,1561308,0%,-$0,,,,,ODFL
+115,,2019-11-04 17:02:10,2019-08-23,ODFL,Congdon Earl E,Senior Exec COB,G - Gift,$0.00,-80136,1808474,-4%,-$0,,,,,ODFL
+116,,2019-11-04 17:02:10,2019-10-31,ODFL,Congdon Earl E,Senior Exec COB,S - Sale,$181.94,-23500,1808474,-1%,"-$4,275,590",,,,,ODFL
+117,,2019-11-04 17:00:03,2019-08-22,ODFL,Congdon David S,Exec COB,G - Gift,$0.00,-1334,4202293,0%,-$0,,,,,ODFL
+118,,2019-11-04 17:00:03,2019-10-31,ODFL,Congdon David S,Exec COB,S - Sale,$181.94,-23500,4202293,-1%,"-$4,275,590",,,,,ODFL
+119,M,2019-08-21 16:37:21,2019-02-22,ODFL,Congdon David S,Exec COB,G - Gift,$0.00,-115865,4227124,-3%,-$0,,,,,ODFL
+120,,2019-08-21 16:37:21,2019-08-20,ODFL,Congdon David S,Exec COB,S - Sale,$165.51,-30150,4227124,-1%,"-$4,990,251",,,,,ODFL
+121,,2019-08-07 16:56:45,2019-08-06,ODFL,Plemmons Gregory B,SVP - Sales,S - Sale,$163.39,-1249,5885,-18%,"-$204,074",,,,,ODFL
+122,,2019-08-05 16:33:12,2019-02-28,ODFL,Congdon Earl E,Senior Exec COB,G - Gift,$0.00,-5400,1912110,0%,-$0,,,,,ODFL
+123,,2019-08-05 16:33:12,2019-08-01,ODFL,Congdon Earl E,Senior Exec COB,S - Sale,$166.53,-56400,1912110,-3%,"-$9,392,292",,,,,ODFL
+124,,2019-05-29 17:00:39,2019-05-28,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",F - Tax,$138.48,-196,5004,-4%,"-$27,142",,,,,ODFL
+125,,2019-05-29 16:59:27,2019-05-28,ODFL,Plemmons Gregory B,SVP - Sales,F - Tax,$138.48,-197,7121,-3%,"-$27,281",,,,,ODFL
+126,,2019-05-29 16:57:50,2019-05-28,ODFL,Brooks Christopher T,"SVP - HR, Safety",F - Tax,$138.48,-98,7086,-1%,"-$13,571",,,,,ODFL
+127,,2019-05-29 16:56:34,2019-05-28,ODFL,Bates David J.,SVP - Operations,F - Tax,$138.48,-266,6091,-4%,"-$36,836",,,,,ODFL
+128,,2019-05-29 16:55:10,2019-05-28,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",F - Tax,$138.48,-224,7706,-3%,"-$31,020",,,,,ODFL
+129,,2019-05-29 16:53:48,2019-05-28,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",F - Tax,$138.48,-227,14873,-2%,"-$31,435",,,,,ODFL
+130,,2019-05-29 16:52:13,2019-05-28,ODFL,Freeman Kevin M.,"EVP, COO",F - Tax,$138.48,-364,11354,-3%,"-$50,407",,,,,ODFL
+131,,2019-05-29 16:50:21,2019-05-28,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,F - Tax,$138.48,-271,9941,-3%,"-$37,528",,,,,ODFL
+132,,2019-05-29 16:48:44,2019-05-28,ODFL,Gantt Greg C,"Pres, CEO",F - Tax,$138.48,-725,18986,-4%,"-$100,398",,,,,ODFL
+133,,2019-05-15 17:48:02,2019-05-15,ODFL,Aaholm Sherry A,Dir,A - Grant,$0.00,806,1641,+97%,+$0,,,,,ODFL
+134,,2019-05-15 17:47:04,2019-05-15,ODFL,Wray D. Michael,Dir,A - Grant,$0.00,806,6535,+14%,+$0,,,,,ODFL
+135,,2019-05-15 17:46:04,2019-05-15,ODFL,Suggs Leo H,Dir,A - Grant,$0.00,806,6485,+14%,+$0,,,,,ODFL
+136,,2019-05-15 17:44:53,2019-05-15,ODFL,Kasarda John D.,Dir,A - Grant,$0.00,806,8117,+11%,+$0,,,,,ODFL
+137,,2019-05-15 17:31:44,2019-05-15,ODFL,Gabosch Bradley R,Dir,A - Grant,$0.00,806,4285,+23%,+$0,,,,,ODFL
+138,,2019-05-15 17:30:11,2019-05-15,ODFL,Hanley Patrick D,Dir,A - Grant,$0.00,806,4285,+23%,+$0,,,,,ODFL
+139,,2019-05-15 17:28:35,2019-05-15,ODFL,Congdon John R Jr,Dir,A - Grant,$0.00,806,1610172,0%,+$0,,,,,ODFL
+140,M,2019-05-15 17:28:35,2019-02-12,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-2706,1610172,0%,-$0,,,,,ODFL
+141,,2019-02-22 16:34:05,2019-02-21,ODFL,Bates David J.,SVP - Operations,S - Sale,$151.84,-1951,6357,-23%,"-$296,240",,,,,ODFL
+142,,2019-02-19 16:58:55,2019-02-14,ODFL,Bates David J.,SVP - Operations,A - Grant,$0.00,3298,8308,+66%,+$0,,,,,ODFL
+143,,2019-02-19 16:58:55,2019-02-15,ODFL,Bates David J.,SVP - Operations,F - Tax,$146.37,-144,8308,-2%,"-$21,077",,,,,ODFL
+144,,2019-02-19 16:56:46,2019-02-14,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",A - Grant,$0.00,1781,5200,+52%,+$0,,,,,ODFL
+145,,2019-02-19 16:56:46,2019-02-15,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",F - Tax,$146.37,-107,5200,-2%,"-$15,662",,,,,ODFL
+146,,2019-02-19 16:55:49,2019-02-14,ODFL,Gantt Greg C,"Pres, CEO",A - Grant,$0.00,5599,19645,+40%,+$0,,,,,ODFL
+147,,2019-02-19 16:55:49,2019-02-15,ODFL,Gantt Greg C,"Pres, CEO",F - Tax,$146.37,-291,19645,-1%,"-$42,594",,,,,ODFL
+148,,2019-02-19 16:54:48,2019-02-14,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",A - Grant,$0.00,3567,15046,+31%,+$0,,,,,ODFL
+149,,2019-02-19 16:54:48,2019-02-15,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",F - Tax,$146.37,-144,15046,-1%,"-$21,077",,,,,ODFL
+150,,2019-02-19 16:53:45,2019-02-14,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,A - Grant,$0.00,3298,10048,+49%,+$0,,,,,ODFL
+151,,2019-02-19 16:53:45,2019-02-15,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,F - Tax,$146.37,-147,10048,-1%,"-$21,516",,,,,ODFL
+152,,2019-02-19 16:52:41,2019-02-14,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",A - Grant,$0.00,3298,7930,+71%,+$0,,,,,ODFL
+153,,2019-02-19 16:52:41,2019-02-15,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",F - Tax,$146.37,-136,7930,-2%,"-$19,906",,,,,ODFL
+154,,2019-02-19 16:51:41,2019-02-14,ODFL,Brooks Christopher T,"SVP - HR, Safety",A - Grant,$0.00,3298,7171,+85%,+$0,,,,,ODFL
+155,,2019-02-19 16:51:41,2019-02-15,ODFL,Brooks Christopher T,"SVP - HR, Safety",F - Tax,$146.37,-138,7171,-2%,"-$20,199",,,,,ODFL
+156,,2019-02-19 16:50:39,2019-02-14,ODFL,Freeman Kevin M.,"EVP, COO",A - Grant,$0.00,4219,11521,+58%,+$0,,,,,ODFL
+157,,2019-02-19 16:50:39,2019-02-15,ODFL,Freeman Kevin M.,"EVP, COO",F - Tax,$146.37,-147,11521,-1%,"-$21,516",,,,,ODFL
+158,,2019-02-19 16:49:38,2019-02-14,ODFL,Plemmons Gregory B,SVP - Sales,A - Grant,$0.00,3298,7286,+83%,+$0,,,,,ODFL
+159,,2019-02-19 16:49:38,2019-02-15,ODFL,Plemmons Gregory B,SVP - Sales,F - Tax,$146.37,-119,7286,-2%,"-$17,418",,,,,ODFL
+160,,2019-02-19 16:48:24,2019-02-14,ODFL,Congdon David S,Exec COB,A - Grant,$0.00,5599,4371586,0%,+$0,,,,,ODFL
+161,,2019-02-19 16:44:53,2019-02-14,ODFL,Congdon Earl E,Senior Exec COB,A - Grant,$0.00,3068,1973831,0%,+$0,,,,,ODFL
+162,,2019-02-12 16:57:53,2019-02-09,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",F - Tax,$141.75,-150,3526,-4%,"-$21,263",,,,,ODFL
+163,,2019-02-12 16:56:49,2019-02-09,ODFL,Plemmons Gregory B,SVP - Sales,F - Tax,$141.75,-159,4107,-4%,"-$22,538",,,,,ODFL
+164,,2019-02-12 16:55:52,2019-02-09,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",F - Tax,$141.75,-184,11623,-2%,"-$26,082",,,,,ODFL
+165,,2019-02-12 16:54:39,2019-02-09,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",F - Tax,$141.75,-173,4768,-4%,"-$24,523",,,,,ODFL
+166,,2019-02-12 16:53:20,2019-02-09,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,F - Tax,$141.75,-188,6897,-3%,"-$26,649",,,,,ODFL
+167,,2019-02-12 16:52:00,2019-02-09,ODFL,Freeman Kevin M.,"EVP, COO",F - Tax,$141.75,-190,7449,-2%,"-$26,933",,,,,ODFL
+168,,2019-02-12 16:50:08,2019-02-09,ODFL,Brooks Christopher T,"SVP - HR, Safety",F - Tax,$141.75,-168,4011,-4%,"-$23,814",,,,,ODFL
+169,,2019-02-12 16:47:45,2019-02-09,ODFL,Bates David J.,SVP - Operations,F - Tax,$141.75,-184,5154,-3%,"-$26,082",,,,,ODFL
+170,,2019-02-12 16:46:40,2019-02-09,ODFL,Gantt Greg C,"Pres, CEO",F - Tax,$141.75,-378,14337,-3%,"-$53,582",,,,,ODFL
+171,M,2019-02-12 16:42:13,2018-05-29,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-106017,1612072,-6%,-$0,,,,,ODFL
+172,M,2019-02-12 16:38:38,2018-05-22,ODFL,Congdon David S,Exec COB,G - Gift,$0.00,221197,4365938,-5%,+$0,,,,,ODFL
+173,,2018-11-30 16:37:19,2018-11-27,ODFL,Culp Robert G III,Dir,G - Gift,$0.00,-2350,4897,-32%,-$0,,,,,ODFL
+174,,2018-05-31 17:19:05,2018-05-29,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",F - Tax,$154.70,-196,3676,-5%,"-$30,321",,,,,ODFL
+175,,2018-05-31 17:18:17,2018-05-29,ODFL,Brooks Christopher T,"SVP - HR, Safety",F - Tax,$154.70,-99,4166,-2%,"-$15,315",,,,,ODFL
+176,,2018-05-31 17:17:25,2018-05-29,ODFL,Bates David J.,SVP - Operations,F - Tax,$154.70,-265,5338,-5%,"-$40,996",,,,,ODFL
+177,,2018-05-31 17:16:23,2018-05-29,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",F - Tax,$154.70,-226,4941,-4%,"-$34,962",,,,,ODFL
+178,,2018-05-31 17:15:21,2018-05-29,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",F - Tax,$154.70,-227,11752,-2%,"-$35,117",,,,,ODFL
+179,,2018-05-31 17:14:27,2018-05-29,ODFL,Freeman Kevin M.,"EVP, COO",F - Tax,$154.70,-244,7479,-3%,"-$37,747",,,,,ODFL
+180,,2018-05-31 17:13:25,2018-05-29,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,F - Tax,$154.70,-270,6921,-4%,"-$41,769",,,,,ODFL
+181,,2018-05-31 17:10:59,2018-05-29,ODFL,Gantt Greg C,"Pres, CEO",F - Tax,$154.70,-729,14670,-5%,"-$112,776",,,,,ODFL
+182,,2018-05-25 16:40:06,2018-05-23,ODFL,Suggs Leo H,Dir,S - Sale,$148.44,-800,5679,-12%,"-$118,752",,,,,ODFL
+183,,2018-05-18 16:42:02,2018-05-16,ODFL,Congdon John R Jr,Dir,A - Grant,$0.00,835,1718089,0%,+$0,,,,,ODFL
+184,M,2018-05-18 16:42:02,2018-05-01,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-81541,1718089,-5%,-$0,,,,,ODFL
+185,,2018-05-18 16:39:33,2018-05-16,ODFL,Aaholm Sherry A,Dir,A - Grant,$0.00,835,835,New,+$0,,,,,ODFL
+186,,2018-05-18 16:36:17,2018-05-16,ODFL,Wray D. Michael,Dir,A - Grant,$0.00,835,5729,+17%,+$0,,,,,ODFL
+187,,2018-05-18 16:35:40,2018-05-16,ODLF,Suggs Leo H,Dir,A - Grant,$0.00,835,6479,+15%,+$0,,,,,ODFL
+188,,2018-05-18 16:35:11,2018-05-16,ODFL,Kasarda John D.,Dir,A - Grant,$0.00,835,7311,+13%,+$0,,,,,ODFL
+189,,2018-05-18 16:34:22,2018-05-16,ODFL,Hanley Patrick D,Dir,A - Grant,$0.00,835,3479,+32%,+$0,,,,,ODFL
+190,,2018-05-18 16:33:13,2018-05-16,ODFL,Gabosch Bradley R,Dir,A - Grant,$0.00,835,3479,+32%,+$0,,,,,ODFL
+191,,2018-05-18 16:31:44,2018-05-16,ODFL,Culp Robert G III,Dir,A - Grant,$0.00,835,7247,+13%,+$0,,,,,ODFL
+192,,2018-02-20 16:39:37,2018-02-15,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",A - Grant,$0.00,1069,3872,+38%,+$0,,,,,ODFL
+193,,2018-02-20 16:38:43,2018-02-15,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,A - Grant,$0.00,1475,7082,+26%,+$0,,,,,ODFL
+194,,2018-02-20 16:37:34,2018-02-15,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",A - Grant,$0.00,1448,11946,+14%,+$0,,,,,ODFL
+195,,2018-02-20 16:36:29,2018-02-15,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",A - Grant,$0.00,1363,5167,+36%,+$0,,,,,ODFL
+196,,2018-02-20 16:29:52,2018-02-15,ODFL,Gantt Greg C,"Pres, COO",A - Grant,$0.00,2937,15352,+24%,+$0,,,,,ODFL
+197,,2018-02-20 16:28:43,2018-02-15,ODFL,Freeman Kevin M.,SVP of Sales,A - Grant,$0.00,1475,7613,+24%,+$0,,,,,ODFL
+198,,2018-02-20 16:27:13,2018-02-15,ODFL,Brooks Christopher T,"SVP - HR, Safety",A - Grant,$0.00,1390,4257,+48%,+$0,,,,,ODFL
+199,,2018-02-20 16:25:45,2018-02-15,ODFL,Bates David J.,SVP - Operations,A - Grant,$0.00,1448,5603,+35%,+$0,,,,,ODFL
+200,,2018-02-20 16:24:15,2018-02-15,ODFL,Congdon David S,"Vice COB, CEO",A - Grant,$0.00,3220,4260185,0%,+$0,,,,,ODFL
+201,,2018-02-20 16:19:39,2018-02-15,ODFL,Congdon Earl E,Exec COB,A - Grant,$0.00,3220,2202404,0%,+$0,,,,,ODFL
+202,,2018-02-13 16:30:17,2018-02-09,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",F - Tax,$130.14,-159,2803,-5%,"-$20,692",,,,,ODFL
+203,,2018-02-13 16:29:19,2018-02-09,ODFL,Booker John P III,VP - Controller,F - Tax,$130.14,-164,2961,-5%,"-$21,343",,,,,ODFL
+204,,2018-02-13 16:28:35,2018-02-09,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",F - Tax,$130.14,-186,10498,-2%,"-$24,206",,,,,ODFL
+205,,2018-02-13 16:27:08,2018-02-09,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",F - Tax,$130.14,-176,3804,-4%,"-$22,905",,,,,ODFL
+206,,2018-02-13 16:25:01,2018-02-09,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,F - Tax,$130.14,-190,5607,-3%,"-$24,727",,,,,ODFL
+207,,2018-02-13 16:22:25,2018-02-09,ODFL,Freeman Kevin M.,SVP of Sales,F - Tax,$130.14,-189,6138,-3%,"-$24,596",,,,,ODFL
+208,,2018-02-13 16:20:41,2018-02-09,ODFL,Brooks Christopher T,"SVP - HR, Safety",F - Tax,$130.14,-188,2867,-6%,"-$24,466",,,,,ODFL
+209,,2018-02-13 16:19:24,2018-02-09,ODFL,Bates David J.,SVP - Operations,F - Tax,$130.14,-187,4155,-4%,"-$24,336",,,,,ODFL
+210,,2018-02-13 16:17:42,2018-02-09,ODFL,Gantt Greg C,"Pres, COO",F - Tax,$130.14,-381,12415,-3%,"-$49,583",,,,,ODFL
+211,M,2018-02-12 17:26:27,2017-02-15,ODFL,Congdon David S,"Vice COB, CEO",G - Gift,$0.00,-113011,4256965,-3%,-$0,,,,,ODFL
+212,,2018-02-12 17:23:25,2017-11-29,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-444,2199184,0%,-$0,,,,,ODFL
+213,M,2018-02-12 17:22:23,2017-08-07,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-74781,1798795,-4%,-$0,,,,,ODFL
+214,M,2017-11-06 16:19:18,2017-02-23,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-32038,2199600,-1%,-$0,,,,,ODFL
+215,,2017-08-17 17:07:06,2017-08-15,ODFL,Congdon David S,"Vice COB, CEO",S - Sale,$97.83,-575,4310090,0%,"-$56,252",,,,,ODFL
+216,,2017-05-31 17:00:21,2017-05-26,ODFL,Maready Kimberly S,"VP - Accounting, Fin. (PAO)",F - Tax,$89.06,-196,2962,-6%,"-$17,456",,,,,ODFL
+217,,2017-05-31 16:59:14,2017-05-26,ODFL,Booker John P III,VP - Controller,F - Tax,$89.06,-205,4530,-4%,"-$18,257",,,,,ODFL
+218,,2017-05-31 16:58:38,2017-05-26,ODFL,Bates David J.,SVP - Operations,F - Tax,$89.06,-266,4342,-6%,"-$23,690",,,,,ODFL
+219,,2017-05-31 16:57:40,2017-05-26,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",F - Tax,$89.06,-249,3979,-6%,"-$22,176",,,,,ODFL
+220,,2017-05-31 16:57:07,2017-05-26,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",F - Tax,$89.06,-228,10622,-2%,"-$20,306",,,,,ODFL
+221,,2017-05-31 16:56:36,2017-05-26,ODFL,Freeman Kevin M.,SVP of Sales,F - Tax,$89.06,-269,6142,-4%,"-$23,957",,,,,ODFL
+222,,2017-05-31 16:55:59,2017-05-26,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,F - Tax,$89.06,-271,5648,-5%,"-$24,135",,,,,ODFL
+223,,2017-05-31 16:54:51,2017-05-26,ODFL,Gantt Greg C,"Pres, COO",F - Tax,$89.06,-714,12747,-5%,"-$63,589",,,,,ODFL
+224,,2017-05-08 16:50:56,2017-05-04,ODFL,Wray D. Michael,Dir,A - Grant,$0.00,1150,4894,+31%,+$0,0.0,-2.0,,,ODFL
+225,,2017-05-08 16:50:04,2017-05-04,ODFL,Suggs Leo H,Dir,A - Grant,$0.00,1150,5644,+26%,+$0,0.0,-2.0,,,ODFL
+226,,2017-05-08 16:49:28,2017-05-04,ODFL,Kasarda John D.,Dir,A - Grant,$0.00,1150,6476,+22%,+$0,0.0,-2.0,,,ODFL
+227,,2017-05-08 16:48:50,2017-05-04,ODFL,Gabosch Bradley R,Dir,A - Grant,$0.00,1150,2644,+77%,+$0,0.0,-2.0,,,ODFL
+228,,2017-05-08 16:48:14,2017-05-04,ODFL,Hanley Patrick D,Dir,A - Grant,$0.00,1150,2644,+77%,+$0,0.0,-2.0,,,ODFL
+229,,2017-05-08 16:47:43,2017-05-04,ODFL,Congdon John R Jr,Dir,A - Grant,$0.00,1150,1872656,0%,+$0,0.0,-2.0,,,ODFL
+230,,2017-05-08 16:43:43,2017-05-04,ODFL,Culp Robert G III,Dir,A - Grant,$0.00,1150,6412,+22%,+$0,0.0,-2.0,,,ODFL
+231,,2017-02-10 17:50:47,2017-02-09,ODFL,Congdon Earl E,Exec COB,A - Grant,$0.00,4182,2233504,0%,+$0,0.0,0.0,-3.0,,ODFL
+232,M,2017-02-10 17:50:47,2016-02-18,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-35810,2233504,-2%,-$0,0.0,0.0,-3.0,,ODFL
+233,M,2017-02-10 17:04:17,2016-02-22,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-1310950,1871506,+234%,-$0,0.0,0.0,-3.0,,ODFL
+234,,2017-02-10 16:59:38,2017-02-09,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",A - Grant,$0.00,1880,10798,+21%,+$0,0.0,0.0,-3.0,,ODFL
+235,,2017-02-10 16:57:47,2017-02-09,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",A - Grant,$0.00,1770,4228,+72%,+$0,0.0,0.0,-3.0,,ODFL
+236,,2017-02-10 16:51:48,2017-02-09,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,A - Grant,$0.00,1915,5766,+50%,+$0,0.0,0.0,-3.0,,ODFL
+237,,2017-02-10 16:49:42,2017-02-09,ODFL,Gantt Greg C,"Pres, COO",A - Grant,$0.00,3814,13384,+40%,+$0,0.0,0.0,-3.0,,ODFL
+238,,2017-02-10 16:47:48,2017-02-09,ODFL,Freeman Kevin M.,SVP of Sales,A - Grant,$0.00,1915,6236,+44%,+$0,0.0,0.0,-3.0,,ODFL
+239,,2017-02-10 16:38:10,2017-02-09,ODFL,Congdon David S,"Vice COB, CEO",A - Grant,$0.00,4182,4341591,0%,+$0,0.0,0.0,-3.0,,ODFL
+240,M,2017-02-10 16:38:10,2016-02-18,ODFL,Congdon David S,"Vice COB, CEO",G - Gift,$0.00,12033,4341591,0%,+$0,0.0,0.0,-3.0,,ODFL
+241,,2017-02-10 16:34:58,2017-02-09,ODFL,Booker John P III,VP - Controller,A - Grant,$0.00,1464,4733,+45%,+$0,0.0,0.0,-3.0,,ODFL
+242,,2017-02-10 16:33:36,2017-02-09,ODFL,Bates David J.,SVP - Operations,A - Grant,$0.00,1880,4608,+69%,+$0,0.0,0.0,-3.0,,ODFL
+243,,2016-11-22 16:49:20,2016-11-21,ODFL,Congdon David S,"Vice COB, CEO",S - Sale,$86.56,-2400,4339194,0%,"-$207,744",2.0,0.0,1.0,,ODFL
+244,,2016-11-17 17:20:19,2016-11-16,ODFL,Congdon David S,"Vice COB, CEO",S - Sale,$85.27,-40000,4341594,-1%,"-$3,410,800",-1.0,2.0,1.0,,ODFL
+245,,2016-11-14 17:43:09,2016-11-11,ODFL,Suggs Leo H,Dir,S - Sale,$81.35,-3800,4494,-46%,"-$309,130",1.0,2.0,4.0,,ODFL
+246,,2016-11-02 18:02:08,2016-11-01,ODFL,Congdon David S,"Vice COB, CEO",S - Sale,$74.67,-815,4381594,0%,"-$60,856",0.0,2.0,21.0,19.0,ODFL
+247,,2016-08-24 18:35:50,2016-08-23,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$69.84,-24555,3693534,-1%,"-$1,714,921",-1.0,1.0,-4.0,29.0,ODFL
+248,,2016-08-17 19:23:03,2016-06-16,ODFL,Congdon David S,"Vice COB, CEO",G - Gift,$0.00,-3475,4382390,0%,-$0,0.0,0.0,-1.0,33.0,ODFL
+249,,2016-08-17 19:23:03,2016-08-16,ODFL,Congdon David S,"Vice COB, CEO",S - Sale,$69.77,-1660,4382390,0%,"-$115,818",0.0,0.0,-1.0,33.0,ODFL
+250,,2016-08-15 17:49:42,2016-08-12,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-2000,3718089,0%,-$0,0.0,0.0,-3.0,33.0,ODFL
+251,,2016-08-15 17:49:42,2016-08-12,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$69.64,-18500,3718089,0%,"-$1,288,340",0.0,0.0,-3.0,33.0,ODFL
+252,,2016-08-15 17:42:45,2016-08-12,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$69.64,-6000,1793440,0%,"-$417,840",0.0,0.0,-3.0,33.0,ODFL
+253,,2016-08-12 17:11:07,2016-08-11,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-1100,3738589,0%,-$0,1.0,0.0,-1.0,33.0,ODFL
+254,,2016-08-12 17:11:07,2016-08-11,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$70.04,-21300,3738589,-1%,"-$1,491,852",1.0,0.0,-1.0,33.0,ODFL
+255,,2016-08-12 17:10:12,2016-08-11,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$70.04,-7100,1799440,0%,"-$497,284",1.0,0.0,-1.0,33.0,ODFL
+256,M,2016-08-11 17:09:56,2016-08-09,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-3500,3760989,0%,-$0,-1.0,-1.0,-4.0,29.0,ODFL
+257,M,2016-08-11 17:09:56,2016-08-09,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$69.92,-69500,3760989,-2%,"-$4,859,265",-1.0,-1.0,-4.0,29.0,ODFL
+258,M,2016-08-11 17:08:44,2016-08-09,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$69.92,-23100,1806540,-1%,"-$1,615,089",-1.0,-1.0,-4.0,29.0,ODFL
+259,,2016-08-10 17:00:53,2016-08-08,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-578,3833989,0%,-$0,0.0,0.0,1.0,27.0,ODFL
+260,,2016-08-10 17:00:53,2016-08-08,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$70.87,-11632,3833989,0%,"-$824,360",0.0,0.0,1.0,27.0,ODFL
+261,,2016-08-10 16:48:41,2016-08-08,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$70.87,-3800,1829640,0%,"-$269,306",0.0,0.0,1.0,27.0,ODFL
+262,,2016-05-31 18:01:52,2016-05-26,ODFL,Satterfield Adam N,"CFO, SVP-Finance, Asst. Sec.",A - Grant,$0.00,2054,8853,+30%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+263,,2016-05-31 17:57:42,2016-05-26,ODFL,Parr Ross H.,"SVP - Legal Affairs, GC, Sec.",A - Grant,$0.00,2258,2436,>999%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+264,,2016-05-31 17:57:05,2016-05-26,ODFL,Overbey Cecil E. Jr.,SVP - Strategic Development,A - Grant,$0.00,2443,3586,+214%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+265,,2016-05-31 17:54:39,2016-05-26,ODFL,Gantt Greg C,"Pres, COO",A - Grant,$0.00,4864,9520,+104%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+266,,2016-05-31 17:54:02,2016-05-26,ODFL,Freeman Kevin M.,SVP of Sales,A - Grant,$0.00,2443,21089,+13%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+267,,2016-05-31 17:52:59,2016-05-26,ODFL,Congdon Earl E,Exec COB,A - Grant,$0.00,5334,2262493,0%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+268,,2016-05-31 17:52:20,2016-05-26,ODFL,Congdon David S,"Vice COB, CEO",A - Grant,$0.00,5334,4387465,0%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+269,,2016-05-31 17:51:33,2016-05-26,ODFL,Booker John P III,VP - Controller,A - Grant,$0.00,1866,11086,+20%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+270,,2016-05-31 17:50:47,2016-05-26,ODFL,Bates David J.,SVP - Operations,A - Grant,$0.00,2398,2728,+727%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+271,,2016-05-31 17:44:03,2016-05-26,ODFL,Wray D. Michael,Dir,A - Grant,$0.00,1494,3744,+66%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+272,,2016-05-31 17:43:21,2016-05-26,ODFL,Suggs Leo H,Dir,A - Grant,$0.00,1494,8294,+22%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+273,,2016-05-31 17:42:47,2016-05-26,ODFL,Kasarda John D.,Dir,A - Grant,$0.00,1494,5326,+39%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+274,,2016-05-31 17:42:08,2016-05-26,ODFL,Hanley Patrick D,Dir,A - Grant,$0.00,1494,1494,New,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+275,,2016-05-31 17:40:05,2016-05-26,ODFL,Gabosch Bradley R,Dir,A - Grant,$0.00,1494,1494,New,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+276,,2016-05-31 17:39:23,2016-05-26,ODFL,Culp Robert G III,Dir,A - Grant,$0.00,1494,5262,+40%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+277,,2016-05-31 17:38:34,2016-05-26,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",A - Grant,$0.00,1494,1833440,0%,+$0,-1.0,-2.0,-10.0,38.0,ODFL
+278,,2016-05-31 17:38:34,2016-05-25,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-7250,1833440,0%,-$0,-1.0,-2.0,-10.0,38.0,ODFL
+279,,2016-05-11 17:34:35,2016-05-10,ODFL,Congdon David S,"Vice COB, CEO",S - Sale,$65.41,-2200,4381817,0%,"-$143,902",-1.0,-3.0,-5.0,16.0,ODFL
+280,,2016-05-06 18:53:27,2016-05-05,ODFL,Suggs Leo H,Dir,P - Purchase,$63.00,1000,6800,+17%,"+$63,000",1.0,0.0,-1.0,15.0,ODFL
+281,,2016-02-23 18:01:25,2016-02-19,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$62.07,-10000,3863709,0%,"-$620,700",0.0,2.0,8.0,10.0,ODFL
+282,M,2016-02-12 16:34:33,2015-08-12,ODFL,Congdon David S,"Vice COB, CEO",G - Gift,$0.00,-125233,4380025,-3%,-$0,3.0,4.0,11.0,16.0,ODFL
+283,M,2016-02-12 16:24:48,2015-05-22,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-1261188,1840486,-41%,-$0,3.0,4.0,11.0,16.0,ODFL
+284,,2016-02-12 16:24:48,2015-08-28,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",W - Inherited,$0.00,226754,1840486,-11%,$0,3.0,4.0,11.0,16.0,ODFL
+285,M,2016-02-12 16:20:06,2015-05-22,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-3005205,3264832,-48%,-$0,3.0,4.0,11.0,16.0,ODFL
+286,,2016-02-12 16:20:06,2015-08-28,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",W - Inherited,$0.00,283444,3264832,-8%,$0,3.0,4.0,11.0,16.0,ODFL
+287,M,2015-11-30 16:12:31,2015-05-07,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-354017,2262043,-14%,-$0,-1.0,-1.0,-7.0,1.0,ODFL
+288,,2015-08-24 16:44:22,2015-08-21,ODFL,Suggs Leo H,Dir,P - Purchase,$69.92,3000,5800,+107%,"+$209,760",-2.0,2.0,-3.0,-4.0,ODFL
+289,M,2015-08-11 16:24:00,2015-05-22,ODFL,Congdon David S,"Vice COB, CEO",G - Gift,$0.00,-59279,4436084,+1%,-$0,-1.0,0.0,-9.0,-17.0,ODFL
+290,,2015-08-11 16:24:00,2015-08-10,ODFL,Congdon David S,"Vice COB, CEO",S - Sale,$72.73,-3780,4436084,0%,"-$274,919",-1.0,0.0,-9.0,-17.0,ODFL
+291,D,2015-06-01 17:17:59,2015-05-29,ODFL,Suggs Leo H,Dir,P - Purchase,$71.19,400,2800,+17%,"+$28,476",-1.0,3.0,-1.0,-6.0,ODFL
+292,M,2015-02-27 17:08:37,2015-02-25,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$78.38,-72500,5857184,-1%,"-$5,682,272",2.0,-1.0,-1.0,-15.0,ODFL
+293,,2015-02-24 16:21:01,2015-02-23,ODFL,Congdon David S,"Pres, CEO",S - Sale,$77.35,-2260,4467770,0%,"-$174,811",0.0,1.0,0.0,-13.0,ODFL
+294,M,2015-02-10 16:28:16,2014-02-27,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-314761,5929684,-5%,-$0,0.0,3.0,5.0,-2.0,ODFL
+295,M,2015-02-10 16:27:06,2014-02-27,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-218089,3200768,-6%,-$0,0.0,3.0,5.0,-2.0,ODFL
+296,M,2015-02-10 16:25:34,2014-11-24,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-39970,2619554,-2%,-$0,0.0,3.0,5.0,-2.0,ODFL
+297,,2015-02-10 16:24:32,2014-11-25,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,699,4470030,0%,+$0,0.0,3.0,5.0,-2.0,ODFL
+298,M,2014-11-19 16:36:51,2014-08-21,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,566032,4469331,+15%,+$0,1.0,3.0,2.0,-6.0,ODFL
+299,,2014-11-19 16:36:51,2014-11-18,ODFL,Congdon David S,"Pres, CEO",S - Sale,$77.16,-3500,4469331,0%,"-$270,062",1.0,3.0,2.0,-6.0,ODFL
+300,M,2014-08-29 16:29:40,2014-02-28,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-430104,2659524,-14%,-$0,2.0,5.0,7.0,19.0,ODFL
+301,M,2014-08-11 17:11:12,2014-02-28,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,2035,4189815,0%,+$0,0.0,1.0,8.0,14.0,ODFL
+302,,2014-08-11 17:11:12,2014-08-07,ODFL,Congdon David S,"Pres, CEO",S - Sale,$63.34,-100,4189815,0%,"-$6,334",0.0,1.0,8.0,14.0,ODFL
+303,,2014-05-29 16:11:22,2014-05-28,ODFL,Kasarda John D.,Dir,P - Purchase,$63.21,1582,3832,+70%,"+$99,996",1.0,-1.0,-1.0,25.0,ODFL
+304,,2014-02-24 16:10:59,2014-02-20,ODFL,Congdon Earl E,Exec COB,S - Sale,$52.67,-14343,3091487,0%,"-$755,489",0.0,1.0,6.0,26.0,ODFL
+305,M,2014-02-20 16:25:05,2014-02-18,ODFL,Congdon Earl E,Exec COB,S - Sale,$52.85,-70127,3105830,-2%,"-$3,705,962",0.0,2.0,7.0,28.0,ODFL
+306,,2014-02-20 16:21:32,2014-02-19,ODFL,Congdon David S,"Pres, CEO",S - Sale,$52.98,-14900,4187880,0%,"-$789,387",0.0,2.0,7.0,28.0,ODFL
+307,M,2014-02-12 18:17:50,2013-08-30,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-922658,6543673,+16%,-$0,0.0,-2.0,5.0,22.0,ODFL
+308,M,2014-02-12 18:15:27,2013-08-30,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-920959,3912475,+31%,-$0,0.0,-2.0,5.0,22.0,ODFL
+309,,2014-02-12 18:13:48,2013-08-21,ODFL,Congdon John R,"Vice COB, 10%",G - Gift,$0.00,-426690,2988259,+17%,-$0,0.0,-2.0,5.0,22.0,ODFL
+310,,2014-02-12 18:10:33,2013-11-26,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,7966,4202780,0%,+$0,0.0,-2.0,5.0,22.0,ODFL
+311,M,2013-12-02 16:12:22,2013-11-26,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-25531,3175957,-1%,-$0,-1.0,0.0,3.0,23.0,ODFL
+312,,2013-08-07 16:24:38,2013-08-07,ODFL,Kasarda John D.,Dir,P - Purchase,$44.45,2250,2250,New,"+$100,004",1.0,3.0,1.0,19.0,ODFL
+313,,2013-08-07 16:23:55,2013-08-06,ODFL,Congdon David S,"Pres, CEO",S - Sale,$44.89,-55000,4201142,-1%,"-$2,468,807",1.0,3.0,1.0,19.0,ODFL
+314,,2013-08-05 11:41:32,2013-08-01,ODFL,Congdon David S,"Pres, CEO",S - Sale,$45.07,-4600,4256142,0%,"-$207,304",0.0,1.0,-2.0,16.0,ODFL
+315,,2013-02-28 16:27:00,2013-02-18,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,-114890,4260742,+3%,-$0,-2.0,0.0,6.0,22.0,ODFL
+316,,2013-02-28 16:27:00,2013-02-27,ODFL,Congdon David S,"Pres, CEO",S - Sale,$35.63,-3600,4260742,0%,"-$128,251",-2.0,0.0,6.0,22.0,ODFL
+317,M,2013-02-12 17:21:21,2012-04-19,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-314458,3202368,-9%,-$0,2.0,1.0,5.0,27.0,ODFL
+318,M,2013-02-12 17:19:30,2012-02-23,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,647587,4264342,-13%,+$0,2.0,1.0,5.0,27.0,ODFL
+319,,2013-02-12 17:07:54,2012-12-28,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",G - Gift,$0.00,-395984,2275436,-15%,-$0,2.0,1.0,5.0,27.0,ODFL
+320,M,2013-02-12 17:03:34,2012-04-30,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",G - Gift,$0.00,319969,1448757,-18%,+$0,2.0,1.0,5.0,27.0,ODFL
+321,M,2013-02-12 17:00:52,2012-04-30,ODFL,Congdon John R,"Vice COB, 10%",G - Gift,$0.00,-315749,2988259,-10%,-$0,2.0,1.0,5.0,27.0,ODFL
+322,,2012-11-16 16:48:48,2012-11-14,ODFL,Booker John P III,VP - Controller,S - Sale,$33.45,-20500,0,-100%,"-$685,725",1.0,1.0,0.0,27.0,ODFL
+323,,2012-08-22 14:15:52,2012-08-21,ODFL,Suggs Leo H,Dir,P - Purchase,$45.99,600,1600,+60%,"+$27,594",0.0,-2.0,-4.0,13.0,ODFL
+324,,2012-05-15 13:46:01,2012-05-04,ODFL,Breitbach J Paul,Dir,G - Gift,$0.00,-4300,3087,-58%,-$0,3.0,0.0,-4.0,17.0,ODFL
+325,M,2012-02-06 13:25:44,2011-08-19,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,18099,1011511,+2%,+$0,-1.0,-2.0,0.0,-1.0,ODFL
+326,M,2012-02-06 13:24:52,2011-08-19,ODFL,Congdon John R,Vice COB,G - Gift,$0.00,-183989,2307922,+9%,-$0,-1.0,-2.0,0.0,-1.0,ODFL
+327,M,2012-02-06 13:23:41,2011-05-17,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-219883,2446525,-8%,-$0,-1.0,-2.0,0.0,-1.0,ODFL
+328,M,2012-02-06 13:21:50,2011-05-17,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,219638,2818777,+8%,+$0,-1.0,-2.0,0.0,-1.0,ODFL
+329,,2011-08-12 12:00:30,2011-08-11,ODFL,McCarty Joel B Jr,"SVP, Gen. Counsel, Sec.",P - Purchase,$30.10,500,12243,+4%,"+$15,050",4.0,-8.0,-2.0,41.0,ODFL
+330,M,2011-08-10 10:53:46,2011-08-08,ODFL,Frye J Wes,"SVP - Finance, CFO",P - Purchase,$29.83,1398,28474,+5%,"+$41,702",-3.0,2.0,2.0,44.0,ODFL
+331,,2011-02-10 11:48:15,2011-02-08,ODFL,Suggs Leo H,Dir,P - Purchase,$30.10,700,1000,+233%,"+$21,070",2.0,5.0,9.0,-2.0,ODFL
+332,,2011-02-04 16:25:21,2010-11-15,ODFL,Yowell John B,"EVP, COO",G - Gift,$0.00,3720,2104189,0%,+$0,-1.0,1.0,5.0,6.0,ODFL
+333,,2011-02-04 16:23:18,2010-11-08,ODFL,McCarty Joel B Jr,"SVP, Gen. Counsel, Sec.",G - Gift,$0.00,-1400,11743,+14%,-$0,-1.0,1.0,5.0,6.0,ODFL
+334,M,2011-02-04 16:22:30,2010-11-15,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-4204,998812,0%,-$0,-1.0,1.0,5.0,6.0,ODFL
+335,,2011-02-04 16:21:51,2010-11-15,ODFL,Congdon John R,Vice COB,G - Gift,$0.00,-6510,2639234,0%,-$0,-1.0,1.0,5.0,6.0,ODFL
+336,M,2011-02-04 16:21:13,2010-11-15,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-40470,2666405,-1%,-$0,-1.0,1.0,5.0,6.0,ODFL
+337,M,2011-02-04 16:20:35,2010-11-15,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,9150,2135651,0%,+$0,-1.0,1.0,5.0,6.0,ODFL
+338,,2010-11-05 16:58:35,2010-11-03,ODFL,Yowell John B,"EVP, COO, 10%",S - Sale,$28.08,-61437,2100469,-3%,"-$1,725,292",0.0,-2.0,8.0,30.0,ODFL
+339,,2010-11-05 16:57:52,2010-11-03,ODFL,Yowell Audrey C,"Member of Section 13(d) group, 10%",S - Sale,$28.08,-92314,2446495,-4%,"-$2,592,389",0.0,-2.0,8.0,30.0,ODFL
+340,,2010-11-05 16:56:48,2010-11-03,ODFL,Pigman Karen C,"Member of Section 13(d) group, 10%",S - Sale,$28.08,-107807,1734436,-6%,"-$3,027,469",0.0,-2.0,8.0,30.0,ODFL
+341,,2010-11-05 16:55:35,2010-11-03,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$28.08,-21128,1002086,-2%,"-$593,323",0.0,-2.0,8.0,30.0,ODFL
+342,,2010-11-05 16:54:58,2010-11-03,ODFL,Congdon John R,"Vice COB, 10%",S - Sale,$28.08,-109058,2645744,-4%,"-$3,062,599",0.0,-2.0,8.0,30.0,ODFL
+343,,2010-11-05 16:53:59,2010-11-03,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$28.08,-220294,1956461,-10%,"-$6,186,362",0.0,-2.0,8.0,30.0,ODFL
+344,M,2010-11-05 16:52:55,2010-11-03,ODFL,Congdon Helen S,"Member of Section 13(d) group, 10%",S - Sale,$28.08,-75702,2300582,-3%,"-$2,125,887",0.0,-2.0,8.0,30.0,ODFL
+345,,2010-11-05 16:51:21,2010-11-03,ODFL,Congdon Earl E,"Exec COB, 10%",S - Sale,$28.08,-105520,2706875,-4%,"-$2,963,244",0.0,-2.0,8.0,30.0,ODFL
+346,M,2010-11-05 16:50:35,2010-11-03,ODFL,Congdon David S,"Pres, CEO, 10%",S - Sale,$28.08,-46388,2131961,-2%,"-$1,302,683",0.0,-2.0,8.0,30.0,ODFL
+347,M,2010-11-02 16:59:40,2010-10-29,ODFL,Yowell John B,"EVP, COO, 10%",S - Sale,$28.01,-14153,2161906,-1%,"-$396,447",2.0,2.0,6.0,34.0,ODFL
+348,M,2010-11-02 16:58:29,2010-10-29,ODFL,Yowell Audrey C,"Member of Section 13(d) group, 10%",S - Sale,$28.01,-21265,2522981,-1%,"-$595,665",2.0,2.0,6.0,34.0,ODFL
+349,M,2010-11-02 16:57:21,2010-10-29,ODFL,Pigman Karen C,"Member of Section 13(d) group, 10%",S - Sale,$28.01,-24843,1842243,-1%,"-$695,891",2.0,2.0,6.0,34.0,ODFL
+350,M,2010-11-02 16:56:12,2010-10-29,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$28.01,-4866,1023214,0%,"-$136,304",2.0,2.0,6.0,34.0,ODFL
+351,M,2010-11-02 16:55:07,2010-10-29,ODFL,Congdon John R,"Vice COB, 10%",S - Sale,$28.01,-25130,2754802,-1%,"-$703,930",2.0,2.0,6.0,34.0,ODFL
+352,M,2010-11-02 16:54:31,2010-10-29,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$28.01,-50756,2041839,-2%,"-$1,421,754",2.0,2.0,6.0,34.0,ODFL
+353,M,2010-11-02 16:53:30,2010-10-29,ODFL,Congdon Helen S,"Member of Section 13(d) group, 10%",S - Sale,$28.01,-17443,2376284,-1%,"-$488,605",2.0,2.0,6.0,34.0,ODFL
+354,M,2010-11-02 16:52:33,2010-10-29,ODFL,Congdon Earl E,"Exec COB, 10%",S - Sale,$28.01,-24313,2812395,-1%,"-$681,045",2.0,2.0,6.0,34.0,ODFL
+355,M,2010-11-02 16:51:36,2010-10-29,ODFL,Congdon David S,"Pres, CEO, 10%",S - Sale,$28.01,-10691,2223724,0%,"-$299,472",2.0,2.0,6.0,34.0,ODFL
+356,M,2010-10-29 16:35:55,2010-10-27,ODFL,Yowell John B,"EVP, COO, 10%",S - Sale,$28.00,-22409,2176059,-1%,"-$627,551",-2.0,2.0,4.0,33.0,ODFL
+357,M,2010-10-29 16:35:29,2010-10-27,ODFL,Yowell Audrey C,"Member of Section 13(d) group, 10%",S - Sale,$28.00,-33670,2540600,-1%,"-$942,908",-2.0,2.0,4.0,33.0,ODFL
+358,M,2010-10-29 16:35:01,2010-10-27,ODFL,Pigman Karen C,"Member of Section 13(d) group, 10%",S - Sale,$28.00,-39349,1867086,-2%,"-$1,101,945",-2.0,2.0,4.0,33.0,ODFL
+359,M,2010-10-29 16:34:29,2010-10-27,ODFL,Congdon John R,"Vice COB, 10%",S - Sale,$28.00,-39785,2779932,-1%,"-$1,114,155",-2.0,2.0,4.0,33.0,ODFL
+360,M,2010-10-29 16:33:16,2010-10-27,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$28.00,-7706,1028080,-1%,"-$215,802",-2.0,2.0,4.0,33.0,ODFL
+361,M,2010-10-29 16:31:21,2010-10-27,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$28.00,-80351,2061515,-4%,"-$2,250,182",-2.0,2.0,4.0,33.0,ODFL
+362,M,2010-10-29 16:29:43,2010-10-27,ODFL,Congdon Helen S,"Member of Section 13(d) group, 10%",S - Sale,$28.00,-27608,2393727,-1%,"-$773,145",-2.0,2.0,4.0,33.0,ODFL
+363,M,2010-10-29 16:29:09,2010-10-27,ODFL,Congdon Earl E,"Exec COB, 10%",S - Sale,$28.00,-38492,2836708,-1%,"-$1,077,945",-2.0,2.0,4.0,33.0,ODFL
+364,M,2010-10-29 16:27:51,2010-10-27,ODFL,Congdon David S,"Pres, CEO, 10%",S - Sale,$28.00,-16924,2234727,-1%,"-$473,946",-2.0,2.0,4.0,33.0,ODFL
+365,M,2010-10-19 16:36:39,2010-10-15,ODFL,Yowell John B,"EVP, COO, 10%",S - Sale,$26.01,-10522,2198468,0%,"-$273,657",2.0,4.0,7.0,33.0,ODFL
+366,M,2010-10-19 16:31:20,2010-10-15,ODFL,Yowell Audrey C,"Member of Section 13(d) group, 10%",S - Sale,$26.01,-15809,2568494,-1%,"-$411,162",2.0,4.0,7.0,33.0,ODFL
+367,M,2010-10-19 16:30:32,2010-10-15,ODFL,Pigman Karen C,"Member of Section 13(d) group, 10%",S - Sale,$26.01,-18469,1906435,-1%,"-$480,344",2.0,4.0,7.0,33.0,ODFL
+368,M,2010-10-19 16:29:10,2010-10-15,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$26.01,-3834,1035786,0%,"-$99,715",2.0,4.0,7.0,33.0,ODFL
+369,M,2010-10-19 16:28:40,2010-10-15,ODFL,Congdon John R,"Vice COB, 10%",S - Sale,$26.01,-19165,2819717,-1%,"-$498,445",2.0,4.0,7.0,33.0,ODFL
+370,M,2010-10-19 16:28:19,2010-10-15,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$26.01,-37039,2089384,-2%,"-$963,314",2.0,4.0,7.0,33.0,ODFL
+371,M,2010-10-19 16:27:36,2010-10-15,ODFL,Congdon Helen S,"Member of Section 13(d) group, 10%",S - Sale,$26.01,-12966,2421335,-1%,"-$337,221",2.0,4.0,7.0,33.0,ODFL
+372,M,2010-10-19 16:26:32,2010-10-15,ODFL,Congdon Earl E,"Exec COB, 10%",S - Sale,$26.01,-18074,2875200,-1%,"-$470,070",2.0,4.0,7.0,33.0,ODFL
+373,M,2010-10-19 16:26:12,2010-10-15,ODFL,Congdon David S,"Pres, CEO, 10%",S - Sale,$26.01,-7945,2205964,0%,"-$206,634",2.0,4.0,7.0,33.0,ODFL
+374,,2010-10-15 16:47:23,2010-10-13,ODFL,Yowell John B,"EVP, COO, 10%",S - Sale,$26.11,-10823,2208990,0%,"-$282,608",0.0,0.0,7.0,34.0,ODFL
+375,,2010-10-15 16:46:24,2010-10-13,ODFL,Yowell Audrey C,"Member of Section 13(d) group, 10%",S - Sale,$26.11,-16262,2581593,-1%,"-$424,630",0.0,0.0,7.0,34.0,ODFL
+376,,2010-10-15 16:45:47,2010-10-13,ODFL,Pigman Karen C,"Member of Section 13(d) group, 10%",S - Sale,$26.11,-18993,1924904,-1%,"-$495,941",0.0,0.0,7.0,34.0,ODFL
+377,,2010-10-15 16:42:38,2010-10-13,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$26.11,-3942,1039620,0%,"-$102,933",0.0,0.0,7.0,34.0,ODFL
+378,,2010-10-15 16:41:50,2010-10-13,ODFL,Congdon John R,"Vice COB, 10%",S - Sale,$26.11,-19710,2838882,-1%,"-$514,664",0.0,0.0,7.0,34.0,ODFL
+379,,2010-10-15 16:41:21,2010-10-13,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$26.11,-38086,2105892,-2%,"-$994,494",0.0,0.0,7.0,34.0,ODFL
+380,,2010-10-15 16:39:21,2010-10-13,ODFL,Congdon Helen S,"Member of Section 13(d) group, 10%",S - Sale,$26.11,-13333,2434301,-1%,"-$348,149",0.0,0.0,7.0,34.0,ODFL
+381,,2010-10-15 16:37:52,2010-10-13,ODFL,Congdon Earl E,"Exec COB, 10%",S - Sale,$26.11,-18589,2893274,-1%,"-$485,392",0.0,0.0,7.0,34.0,ODFL
+382,,2010-10-15 16:37:19,2010-10-13,ODFL,Congdon David S,"Pres, CEO, 10%",S - Sale,$26.11,-8172,2213909,0%,"-$213,386",0.0,0.0,7.0,34.0,ODFL
+383,A,2010-09-23 20:43:43,2010-09-21,ODFL,Congdon Helen S,"Member of Section 13(d) group, 10%",S - Sale,$26.09,-10152,2447634,0%,"-$264,826",4.0,4.0,5.0,36.0,ODFL
+384,,2010-09-23 17:27:27,2010-09-21,ODFL,Yowell John B,"EVP, COO, 10%",S - Sale,$26.09,-8239,2219813,0%,"-$214,923",4.0,4.0,5.0,36.0,ODFL
+385,,2010-09-23 17:26:14,2010-09-21,ODFL,Yowell Audrey C,"Member of Section 13(d) group, 10%",S - Sale,$26.09,-12380,2595066,0%,"-$322,946",4.0,4.0,5.0,36.0,ODFL
+386,,2010-09-23 17:21:58,2010-09-21,ODFL,Pigman Karen C,"Member of Section 13(d) group, 10%",S - Sale,$26.09,-14461,1943897,-1%,"-$377,231",4.0,4.0,5.0,36.0,ODFL
+387,,2010-09-23 17:18:38,2010-09-21,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$26.09,-3001,1043562,0%,"-$78,284",4.0,4.0,5.0,36.0,ODFL
+388,,2010-09-23 17:14:41,2010-09-21,ODFL,Congdon John R,"Vice COB, 10%",S - Sale,$26.09,-15004,2858592,-1%,"-$391,396",4.0,4.0,5.0,36.0,ODFL
+389,,2010-09-23 17:14:01,2010-09-21,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$26.09,-28994,2119497,-1%,"-$756,340",4.0,4.0,5.0,36.0,ODFL
+390,,2010-09-23 17:04:46,2010-09-21,ODFL,Congdon Helen S,"Member of Section 13(d) group, 10%",S - Sale,$26.09,-10152,2447634,0%,"-$264,826",4.0,4.0,5.0,36.0,ODFL
+391,,2010-09-23 17:03:58,2010-09-21,ODFL,Congdon Earl E,"Exec COB, 10%",S - Sale,$26.09,-14151,2911863,0%,"-$369,144",4.0,4.0,5.0,36.0,ODFL
+392,,2010-09-23 17:03:19,2010-09-21,ODFL,Congdon David S,"Pres, CEO, 10%",S - Sale,$26.09,-6221,2222081,0%,"-$162,282",4.0,4.0,5.0,36.0,ODFL
+393,,2010-09-21 17:26:44,2010-09-17,ODFL,Yowell John B,"EVP, COO, 10%",S - Sale,$26.13,-14585,2228052,-1%,"-$381,109",-1.0,0.0,-1.0,33.0,ODFL
+394,,2010-09-21 17:26:10,2010-09-17,ODFL,Pigman Karen C,"Member of Section 13(d) group, 10%",S - Sale,$26.13,-25598,1958358,-1%,"-$668,881",-1.0,0.0,-1.0,33.0,ODFL
+395,,2010-09-21 17:25:28,2010-09-17,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$26.13,-5313,1046563,-1%,"-$138,830",-1.0,0.0,-1.0,33.0,ODFL
+396,,2010-09-21 17:24:54,2010-09-17,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$26.13,-51326,2129854,-2%,"-$1,341,159",-1.0,0.0,-1.0,33.0,ODFL
+397,,2010-09-21 17:23:58,2010-09-17,ODFL,Congdon John R,"Vice COB, 10%",S - Sale,$26.13,-26560,2873596,-1%,"-$694,018",-1.0,0.0,-1.0,33.0,ODFL
+398,,2010-09-21 17:23:29,2010-09-17,ODFL,Congdon Helen S,"Member of Section 13(d) group, 10%",S - Sale,$26.13,-17971,2457786,-1%,"-$469,586",-1.0,0.0,-1.0,33.0,ODFL
+399,,2010-09-21 17:22:57,2010-09-17,ODFL,Congdon Earl E,"Exec COB, 10%",S - Sale,$26.13,-25050,2926014,-1%,"-$654,562",-1.0,0.0,-1.0,33.0,ODFL
+400,,2010-09-21 17:22:22,2010-09-17,ODFL,Congdon David S,"Pres, CEO, 10%",S - Sale,$26.13,-11013,2228302,0%,"-$287,772",-1.0,0.0,-1.0,33.0,ODFL
+401,,2010-09-21 17:21:32,2010-09-17,ODFL,Yowell Audrey C,"Member of Section 13(d) group, 10%",S - Sale,$26.13,-21915,2605323,-1%,"-$572,643",-1.0,0.0,-1.0,33.0,ODFL
+402,M,2010-09-17 18:23:20,2010-09-15,ODFL,Yowell John B,"EVP, COO, 10%",S - Sale,$25.89,-24812,2242637,-1%,"-$642,410",0.0,-4.0,0.0,30.0,ODFL
+403,,2010-09-17 18:21:17,2010-09-16,ODFL,Yowell Audrey C,"Member of Section 13(d) group, 10%",S - Sale,$26.00,-31355,2623480,-1%,"-$815,079",0.0,-4.0,0.0,30.0,ODFL
+404,,2010-09-17 18:17:31,2010-09-15,ODFL,Yowell Audrey C,"Member of Section 13(d) group, 10%",S - Sale,$25.34,-5926,2649458,0%,"-$150,167",0.0,-4.0,0.0,30.0,ODFL
+405,M,2010-09-17 18:14:31,2010-09-15,ODFL,Pigman Karen C,"Member of Section 13(d) group, 10%",S - Sale,$25.89,-43547,1983956,-2%,"-$1,127,479",0.0,-4.0,0.0,30.0,ODFL
+406,M,2010-09-17 18:12:52,2010-09-15,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$25.89,-9039,976876,-1%,"-$234,029",0.0,-4.0,0.0,30.0,ODFL
+407,M,2010-09-17 18:10:25,2010-09-15,ODFL,Congdon John R,"Vice COB, 10%",S - Sale,$25.89,-48763,2900156,-2%,"-$1,262,342",0.0,-4.0,0.0,30.0,ODFL
+408,,2010-09-17 18:07:41,2010-09-16,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$26.00,-73445,2148188,-3%,"-$1,909,216",0.0,-4.0,0.0,30.0,ODFL
+409,,2010-09-17 18:05:56,2010-09-15,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$25.34,-13880,2174423,-1%,"-$351,725",0.0,-4.0,0.0,30.0,ODFL
+410,M,2010-09-17 18:03:50,2010-09-15,ODFL,Congdon Helen S,"Member of Section 13(d) group, 10%",S - Sale,$25.89,-30571,2475757,-1%,"-$791,517",0.0,-4.0,0.0,30.0,ODFL
+411,M,2010-09-17 18:01:10,2010-09-15,ODFL,Congdon Earl E,"Exec COB, 10%",S - Sale,$25.89,-42618,2951064,-1%,"-$1,103,427",0.0,-4.0,0.0,30.0,ODFL
+412,M,2010-09-17 17:58:10,2010-09-15,ODFL,Congdon David S,"Pres, CEO, 10%",S - Sale,$25.89,-18736,2239315,-1%,"-$485,096",0.0,-4.0,0.0,30.0,ODFL
+413,M,2010-09-15 17:19:43,2010-09-13,ODFL,Yowell John B,"EVP, COO, 10%",S - Sale,$25.43,-29020,2267449,-1%,"-$738,099",2.0,2.0,3.0,30.0,ODFL
+414,M,2010-09-15 17:17:17,2010-09-13,ODFL,Yowell Audrey C,"Member of Section 13(d) group, 10%",S - Sale,$25.43,-43604,2654368,-2%,"-$1,109,030",2.0,2.0,3.0,30.0,ODFL
+415,M,2010-09-15 17:15:19,2010-09-13,ODFL,Pigman Karen C,"Member of Section 13(d) group, 10%",S - Sale,$25.43,-50933,2027503,-2%,"-$1,295,437",2.0,2.0,3.0,30.0,ODFL
+416,M,2010-09-15 17:13:39,2010-09-13,ODFL,Congdon John R Jr,"Member of Section 13(d) group, 10%",S - Sale,$25.43,-10571,985915,-1%,"-$268,864",2.0,2.0,3.0,30.0,ODFL
+417,M,2010-09-15 17:11:38,2010-09-13,ODFL,Congdon John R,"Vice COB, 10%",S - Sale,$25.43,-58042,2948919,-2%,"-$1,476,248",2.0,2.0,3.0,30.0,ODFL
+418,M,2010-09-15 17:09:47,2010-09-13,ODFL,Congdon Jeffrey W,"Member of Section 13(d) group, 10%",S - Sale,$25.43,-102129,2984302,-3%,"-$2,597,563",2.0,2.0,3.0,30.0,ODFL
+419,M,2010-09-15 17:08:09,2010-09-13,ODFL,Congdon Helen S,"Member of Section 13(d) group, 10%",S - Sale,$25.43,-35754,2506328,-1%,"-$909,372",2.0,2.0,3.0,30.0,ODFL
+420,,2010-09-15 17:06:36,2010-05-12,ODFL,Congdon Earl E,"Exec COB, 10%",G - Gift,$0.00,-65789,2993682,-2%,-$0,2.0,2.0,3.0,30.0,ODFL
+421,M,2010-09-15 17:06:36,2010-09-13,ODFL,Congdon Earl E,"Exec COB, 10%",S - Sale,$25.43,-49843,2993682,-2%,"-$1,267,714",2.0,2.0,3.0,30.0,ODFL
+422,M,2010-09-15 17:05:02,2010-02-16,ODFL,Congdon David S,"Pres, CEO, 10%",G - Gift,$0.00,-21083,2258051,-1%,-$0,2.0,2.0,3.0,30.0,ODFL
+423,M,2010-09-15 17:05:02,2010-09-13,ODFL,Congdon David S,"Pres, CEO, 10%",S - Sale,$25.43,-21910,2258051,-1%,"-$557,262",2.0,2.0,3.0,30.0,ODFL
+424,,2010-05-19 10:07:48,2010-01-06,ODFL,Congdon John R,Vice COB,G - Gift,$0.00,-24064,2010829,+1%,-$0,0.0,-7.0,-2.0,11.0,ODFL
+425,,2010-05-19 10:07:48,2010-05-17,ODFL,Congdon John R,Vice COB,S - Sale,$36.81,-10687,2010829,-1%,"-$393,376",0.0,-7.0,-2.0,11.0,ODFL
+426,,2010-05-14 17:20:09,2010-05-13,ODFL,Booker John P III,VP - Controller,S - Sale,$37.34,-9376,0,-100%,"-$350,100",1.0,-7.0,-1.0,12.0,ODFL
+427,,2010-03-19 11:57:39,2009-10-29,ODFL,Wray D. Michael,Dir,P - Purchase,$27.21,1000,1000,New,"+$27,210",-1.0,-2.0,9.0,15.0,ODFL
+428,DM,2010-02-10 11:16:39,2009-10-27,ODFL,Yowell John B,"EVP, COO",G - Gift,$0.00,9312,1552035,+1%,+$0,0.0,2.0,19.0,30.0,ODFL
+429,M,2010-02-10 11:11:13,2009-11-03,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-3935,714325,+1%,-$0,0.0,2.0,19.0,30.0,ODFL
+430,DM,2010-02-10 11:10:03,2009-11-05,ODFL,Congdon John R,Vice COB,G - Gift,$0.00,-86163,2009484,-4%,-$0,0.0,2.0,19.0,30.0,ODFL
+431,D,2010-02-10 11:08:56,2009-10-27,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-10656,2094807,-1%,-$0,0.0,2.0,19.0,30.0,ODFL
+432,DM,2010-02-10 11:05:10,2009-10-27,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,8552,1644141,+1%,+$0,0.0,2.0,19.0,30.0,ODFL
+433,,2009-09-16 11:18:01,2009-08-21,ODFL,Suggs Leo H,Dir,P - Purchase,$37.00,200,200,New,"+$7,400",-3.0,-4.0,-13.0,-3.0,ODFL
+434,,2009-08-11 16:16:46,2009-08-10,ODFL,Breitbach J Paul,Dir,S - Sale,$35.82,-2000,4925,-29%,"-$71,634",3.0,-5.0,-4.0,-24.0,ODFL
+435,M,2009-01-30 15:12:00,2008-02-14,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,44862,1640589,+3%,+$0,-5.0,0.0,-24.0,24.0,ODFL
+436,,2009-01-30 15:10:35,2008-12-15,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-990375,2106727,-32%,-$0,-5.0,0.0,-24.0,24.0,ODFL
+437,M,2009-01-30 15:08:18,2008-02-14,ODFL,Yowell John B,"EVP, COO",G - Gift,$0.00,-71623,1548483,+5%,-$0,-4.0,0.0,-24.0,24.0,ODFL
+438,,2009-01-30 15:05:13,2008-11-25,ODFL,Congdon John R,Vice COB,G - Gift,$0.00,-6252,2095647,0%,-$0,-5.0,0.0,-24.0,24.0,ODFL
+439,,2009-01-30 15:00:25,2008-11-25,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,1042,716126,0%,+$0,-5.0,0.0,-24.0,24.0,ODFL
+440,,2008-11-26 10:22:40,2008-11-24,ODFL,Frye J Wes,"SVP - Finance, CFO",P - Purchase,$22.51,1545,17634,+10%,"+$34,771",7.0,5.0,11.0,31.0,ODFL
+441,,2008-08-18 14:15:17,2008-08-14,ODFL,Ebeling John A,Dir,S - Sale,$36.81,-10000,2725,-79%,"-$368,115",-5.0,-9.0,-9.0,-35.0,ODFL
+442,,2008-08-01 08:39:55,2008-07-30,ODFL,Booker John P III,VP - Controller,S - Sale,$36.86,-13642,0,-100%,"-$502,844",-3.0,-1.0,-9.0,-32.0,ODFL
+443,,2008-05-02 14:08:55,2008-05-01,ODFL,Ebeling John A,Dir,S - Sale,$31.72,-5000,12725,-28%,"-$158,610",-1.0,-4.0,-8.0,-16.0,ODFL
+444,,2008-02-11 13:07:26,2007-11-19,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,1080,715084,0%,+$0,-3.0,-3.0,0.0,25.0,ODFL
+445,,2008-02-11 13:05:57,2007-11-19,ODFL,Congdon John R,Vice COB,G - Gift,$0.00,-28982,2101899,-1%,-$0,-3.0,-3.0,0.0,25.0,ODFL
+446,M,2008-02-11 13:04:01,2007-11-20,ODFL,Yowell John B,"EVP, COO",G - Gift,$0.00,6000,1544480,0%,+$0,-3.0,-3.0,0.0,25.0,ODFL
+447,M,2008-02-11 13:00:44,2007-11-20,ODFL,Congdon David S,"Pres, CEO",G - Gift,$0.00,-1665224,1625265,-51%,-$0,-3.0,-3.0,0.0,25.0,ODFL
+448,M,2008-02-11 12:59:30,2007-11-20,ODFL,Congdon Earl E,Exec COB,G - Gift,$0.00,-2688000,2118728,-472%,-$0,-3.0,-3.0,0.0,25.0,ODFL
+449,,2007-11-06 13:49:31,2007-11-05,ODFL,Breitbach J Paul,Dir,P - Purchase,$22.50,2000,6925,+41%,"+$44,995",1.0,4.0,0.0,36.0,ODFL
+450,,2007-11-05 13:13:35,2007-11-01,ODFL,Congdon John R,Vice COB,P - Purchase,$22.33,9000,2130881,0%,"+$200,983",-1.0,1.0,-3.0,40.0,ODFL
+451,,2007-11-02 12:38:34,2007-10-31,ODFL,Ebeling John A,Dir,P - Purchase,$23.00,4350,21225,+26%,"+$100,067",3.0,7.0,4.0,43.0,ODFL
+452,,2007-11-02 12:32:58,2007-10-31,ODFL,McCarty Joel B Jr,"SVP, Gen. Counsel, Sec.",P - Purchase,$22.37,400,7962,+5%,"+$8,946",3.0,7.0,4.0,43.0,ODFL
+453,,2007-11-02 12:31:14,2007-10-05,ODFL,Yowell John B,EVP,G - Gift,$0.00,287101,1540773,+23%,+$0,3.0,7.0,4.0,43.0,ODFL
+454,,2007-11-02 12:30:04,2007-10-05,ODFL,Congdon David S,"Pres, COO",G - Gift,$0.00,287101,3074700,+10%,+$0,3.0,7.0,4.0,43.0,ODFL
+455,AD,2007-04-02 13:54:09,2005-09-13,ODFL,Frye J Wes,"SVP - Finance, CFO",X - OptEx,$4.44,3375,6429,-34%,"$15,000",0.0,0.0,0.0,-17.0,ODFL
+456,,2007-03-14 16:04:56,2006-12-18,ODFL,Culp Robert G III,Dir,P - Purchase,$25.27,1000,1675,+148%,"+$25,270",1.0,0.0,1.0,-8.0,ODFL
+457,M,2007-02-02 16:35:22,2006-12-08,ODFL,Yowell John B,EVP,G - Gift,$0.00,7504,1236090,+1%,+$0,-2.0,0.0,-8.0,-7.0,ODFL
+458,M,2007-02-02 16:31:35,2006-12-14,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-1610,714004,0%,-$0,-2.0,0.0,-8.0,-7.0,ODFL
+459,M,2007-02-02 16:24:24,2006-12-14,ODFL,Congdon John R,Vice COB,G - Gift,$0.00,-6753,2120194,0%,-$0,-2.0,0.0,-8.0,-7.0,ODFL
+460,M,2007-02-02 16:21:37,2006-12-01,ODFL,Congdon David S,"Pres, COO",G - Gift,$0.00,136530,2770017,+5%,+$0,-2.0,0.0,-8.0,-7.0,ODFL
+461,M,2007-02-02 16:09:49,2006-12-01,ODFL,Congdon Earl E,"COB, CEO",G - Gift,$0.00,247184,2109009,-10%,+$0,-2.0,0.0,-8.0,-7.0,ODFL
+462,,2006-07-28 14:52:56,2006-05-30,ODFL,Yowell John B,EVP,G - Gift,$0.00,-124170,1233090,+11%,-$0,6.0,8.0,-2.0,-12.0,ODFL
+463,,2006-07-28 14:50:47,2006-05-30,ODFL,Congdon Earl E,"COB, CEO",G - Gift,$0.00,-684792,2118009,+48%,-$0,6.0,8.0,-2.0,-12.0,ODFL
+464,,2006-07-28 14:49:24,2006-05-30,ODFL,Congdon David S,"Pres, COO",G - Gift,$0.00,-358862,2656925,+16%,-$0,6.0,8.0,-2.0,-12.0,ODFL
+465,,2006-05-11 12:41:10,2006-05-04,ODFL,Breitbach J Paul,Dir,G - Gift,$0.00,-2950,4925,-37%,-$0,-4.0,-8.0,-8.0,-18.0,ODFL
+466,D,2006-02-08 16:35:19,2006-02-02,ODFL,Congdon Earl E,"COB, CEO",G - Gift,$0.00,-40000,2118009,-2%,-$0,0.0,-2.0,-8.0,13.0,ODFL
+467,D,2006-02-08 16:34:25,2006-02-02,ODFL,Congdon David S,"Pres, COO",G - Gift,$0.00,-40000,2418359,-2%,-$0,0.0,-2.0,-8.0,13.0,ODFL
+468,M,2006-01-23 14:10:56,2005-12-19,ODFL,Yowell John B,EVP,G - Gift,$0.00,-129491,1353090,-9%,-$0,2.0,1.0,0.0,18.0,ODFL
+469,,2006-01-19 09:05:56,2005-12-09,ODFL,McCarty Joel B Jr,"SVP, Gen. Counsel, Sec.",G - Gift,$0.00,-1400,7562,+23%,-$0,1.0,2.0,3.0,33.0,ODFL
+470,M,2006-01-18 16:24:48,2005-11-15,ODFL,Congdon Earl E,"COB, CEO",G - Gift,$0.00,-1205360,2158009,-36%,-$0,2.0,4.0,2.0,28.0,ODFL
+471,M,2006-01-18 16:23:53,2005-11-15,ODFL,Congdon David S,"Pres, COO",G - Gift,$0.00,-619360,2458359,+34%,-$0,2.0,4.0,2.0,28.0,ODFL
+472,,2006-01-18 16:22:53,2005-12-08,ODFL,Congdon John R,Vice COB,G - Gift,$0.00,-12600,2126947,-1%,-$0,2.0,4.0,2.0,28.0,ODFL
+473,M,2006-01-18 16:21:58,2005-11-23,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-1900,714394,0%,-$0,2.0,4.0,2.0,28.0,ODFL
+474,D,2005-09-15 15:13:40,2005-09-13,ODFL,McCarty Joel B Jr,"SVP, Gen. Counsel, Sec.",X - OptEx,$4.44,3375,4575,-42%,"$15,000",1.0,-2.0,3.0,28.0,ODFL
+475,D,2005-09-15 15:12:53,2005-09-13,ODFL,Frye J Wes,"SVP - Finance, CFO",X - OptEx,$4.44,3375,5411,-38%,"$15,000",1.0,-2.0,3.0,28.0,ODFL
+476,D,2005-09-15 15:11:56,2005-09-13,ODFL,Yowell John B,EVP,X - OptEx,$4.44,2250,823056,0%,"$10,000",1.0,-2.0,3.0,28.0,ODFL
+477,D,2005-09-15 15:10:45,2005-09-13,ODFL,Congdon David S,"Pres, COO",X - OptEx,$4.44,2250,2051269,0%,"$10,000",1.0,-2.0,3.0,28.0,ODFL
+478,,2005-08-12 11:09:24,2005-08-04,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-301,476330,0%,-$0,0.0,1.0,-6.0,27.0,ODFL
+479,,2005-07-27 11:31:41,2005-05-19,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-535,476631,0%,-$0,2.0,6.0,-2.0,27.0,ODFL
+480,,2005-07-27 11:21:38,2005-05-26,ODFL,Congdon David S,"Pres, COO",G - Gift,$0.00,221736,2049019,+12%,+$0,2.0,6.0,-2.0,27.0,ODFL
+481,,2005-07-27 11:20:36,2005-05-26,ODFL,Congdon Earl E,"COB, CEO",G - Gift,$0.00,-443472,1459033,+44%,-$0,2.0,6.0,-2.0,27.0,ODFL
+482,,2005-03-29 15:27:22,2005-03-24,ODFL,Congdon Earl E,"COB, CEO",G - Gift,$0.00,-306926,1459033,+27%,-$0,-6.0,-8.0,-17.0,-9.0,ODFL
+483,,2005-03-29 15:24:14,2005-03-24,ODFL,Congdon David S,"Pres, COO",G - Gift,$0.00,47654,1827283,+3%,+$0,-6.0,-8.0,-17.0,-9.0,ODFL
+484,,2005-03-02 11:12:53,2005-02-28,ODFL,Breitbach J Paul,Dir,P - Purchase,$34.99,1500,5250,+40%,"+$52,480",1.0,1.0,-13.0,-12.0,ODFL
+485,D,2004-10-12 11:42:12,2004-10-11,ODFL,Congdon David S,"Pres, COO",X - OptEx,$8.44,4500,1784909,0%,"$38,000",-1.0,3.0,-1.0,8.0,ODFL
+486,D,2004-10-12 11:24:52,2004-10-11,ODFL,Yowell John B,EVP,X - OptEx,$8.44,4500,818166,-1%,"$38,000",-1.0,3.0,-1.0,8.0,ODFL
+487,,2004-07-28 13:39:50,2004-07-26,ODFL,Yowell John B,EVP,S - Sale,$28.65,-185000,813666,-19%,"-$5,300,250",-2.0,2.0,-6.0,16.0,ODFL
+488,,2004-07-28 13:39:13,2004-07-26,ODFL,Congdon John R Jr,Dir,S - Sale,$28.65,-185000,478829,-28%,"-$5,300,250",-2.0,2.0,-6.0,16.0,ODFL
+489,,2004-07-28 13:38:21,2004-07-26,ODFL,Congdon John R,Vice COB,S - Sale,$28.65,-480000,1454274,-25%,"-$13,752,000",-2.0,2.0,-6.0,16.0,ODFL
+490,,2004-07-28 13:37:53,2004-07-26,ODFL,Congdon Earl E,"COB, CEO",S - Sale,$28.65,-480000,1466953,-25%,"-$13,752,000",-2.0,2.0,-6.0,16.0,ODFL
+491,,2004-07-28 13:36:35,2004-07-26,ODFL,Congdon David S,"Pres, COO",S - Sale,$28.65,-665000,1780409,-27%,"-$19,052,250",-2.0,2.0,-6.0,16.0,ODFL
+492,,2004-06-08 13:21:44,2004-05-26,ODFL,Congdon John R Jr,Dir,G - Gift,$0.00,-538,663829,0%,-$0,1.0,-4.0,2.0,16.0,ODFL
+493,M,2004-06-07 18:40:34,2004-03-25,ODFL,Congdon David S,"Pres, COO, 10%",G - Gift,$0.00,577691,2437410,-19%,+$0,1.0,-7.0,2.0,16.0,ODFL
+494,,2004-06-07 18:39:34,2004-05-28,ODFL,Yowell John B,EVP,G - Gift,$0.00,-80000,998666,-7%,-$0,1.0,-7.0,2.0,16.0,ODFL
+495,M,2004-06-07 18:38:48,2004-03-25,ODFL,Congdon Earl E,"COB, CEO",G - Gift,$0.00,-497691,2049262,-20%,-$0,1.0,-7.0,2.0,16.0,ODFL
+496,D,2004-05-17 15:20:09,2004-05-13,ODFL,Frye J Wes,"SVP - Finance, CFO",M - OptEx,$12.67,750,2036,+58%,"+$9,500",0.0,-2.0,8.0,21.0,ODFL
+497,D,2004-05-17 15:20:09,2004-05-13,ODFL,Frye J Wes,"SVP - Finance, CFO",S - Sale+OE,$37.00,-750,2036,-27%,"-$27,750",0.0,-2.0,8.0,21.0,ODFL
+498,A,2004-05-17 15:19:24,2004-04-29,ODFL,Frye J Wes,"SVP - Finance, CFO",M - OptEx,$12.67,3000,4461,+205%,"+$38,000",0.0,-2.0,8.0,21.0,ODFL
+499,D,2004-05-07 10:23:07,2004-05-05,ODFL,McCarty Joel B Jr,"SVP, Gen. Counsel, Sec.",M - OptEx,$12.67,750,1200,+167%,"+$9,500",-3.0,2.0,14.0,16.0,ODFL
+500,D,2004-05-07 10:23:07,2004-05-05,ODFL,McCarty Joel B Jr,"SVP, Gen. Counsel, Sec.",S - Sale+OE,$37.54,-750,1200,-38%,"-$28,155",-3.0,2.0,14.0,16.0,ODFL
+501,D,2004-05-03 10:44:52,2004-04-29,ODFL,McCarty Joel B Jr,"SVP, Gen. Counsel, Sec.",M - OptEx,$12.67,3000,1200,-167%,"+$38,000",1.0,-4.0,10.0,13.0,ODFL
+502,D,2004-05-03 10:44:52,2004-04-29,ODFL,McCarty Joel B Jr,"SVP, Gen. Counsel, Sec.",S - Sale+OE,$37.23,-3000,1200,-71%,"-$111,690",1.0,-4.0,10.0,13.0,ODFL
+503,D,2004-05-03 10:44:03,2003-04-29,ODFL,Frye J Wes,"SVP - Finance, CFO",M - OptEx,$12.67,3000,2036,-311%,"+$38,000",1.0,-4.0,10.0,13.0,ODFL
+504,D,2004-05-03 10:44:03,2004-04-29,ODFL,Frye J Wes,"SVP - Finance, CFO",S - Sale+OE,$37.33,-3000,2036,-60%,"-$112,005",1.0,-4.0,10.0,13.0,ODFL
+505,,2004-02-04 10:34:10,2004-02-03,ODFL,Breitbach J Paul,Dir,P - Purchase,$30.95,1000,2500,+67%,"+$30,954",-2.0,5.0,4.0,40.0,ODFL
+506,D,2003-08-14 18:23:49,2003-08-14,ODFL,Frye J Wes,"SVP - Finance, CFO",S - Sale+OE,$32.54,-1750,150,-92%,"-$56,945",0.0,6.0,5.0,0.0,ODFL
+507,D,2003-08-14 18:23:49,2003-08-14,ODFL,Frye J Wes,"SVP - Finance, CFO",X - OptEx,$12.83,1750,150,-92%,"$22,458",0.0,6.0,5.0,0.0,ODFL
+508,M,2003-08-13 09:48:55,2003-07-30,ODFL,Breitbach J Paul,Dir,P - Purchase,$31.52,1500,1500,New,"+$47,277",-1.0,6.0,7.0,3.0,ODFL
+509,D,2003-08-04 16:23:10,2003-07-31,ODFL,Frye J Wes,"SVP - Finance, CFO",S - Sale+OE,$32.00,-3500,150,-96%,"-$112,000",-2.0,0.0,12.0,-2.0,ODFL
+510,D,2003-08-04 16:23:10,2003-07-31,ODFL,Frye J Wes,"SVP - Finance, CFO",X - OptEx,$12.83,3500,150,-96%,"$44,917",-2.0,0.0,12.0,-2.0,ODFL
+511,AD,2003-08-04 11:36:43,2003-07-30,ODFL,Congdon David S,"Pres, COO, 10%",S - Sale+OE,$32.47,-4500,1887983,0%,"-$146,115",-1.0,-1.0,11.0,-3.0,ODFL
+512,AD,2003-08-04 11:36:43,2003-07-30,ODFL,Congdon David S,"Pres, COO, 10%",X - OptEx,$12.83,4500,1887983,0%,"$57,750",-1.0,-1.0,11.0,-3.0,ODFL
+513,AD,2003-08-04 09:51:38,2003-07-30,ODFL,Yowell John B,EVP,S - Sale+OE,$31.81,-4500,663978,-1%,"-$143,124",-1.0,-1.0,11.0,-3.0,ODFL
+514,AD,2003-08-04 09:51:38,2003-07-30,ODFL,Yowell John B,EVP,X - OptEx,$12.83,4500,663978,-1%,"$57,750",-1.0,-1.0,11.0,-3.0,ODFL
+515,AD,2003-08-01 18:39:16,2003-07-30,ODFL,Congdon David S,"Pres, COO, 10%",S - Sale+OE,$32.47,-4500,1878986,0%,"-$146,115",-1.0,-1.0,12.0,-2.0,ODFL
+516,AD,2003-08-01 18:39:16,2003-07-30,ODFL,Congdon David S,"Pres, COO, 10%",X - OptEx,$12.83,4500,1878986,0%,"$57,750",-1.0,-1.0,12.0,-2.0,ODFL
+517,D,2003-08-01 13:23:17,2003-07-30,ODFL,Yowell John B,EVP,S - Sale+OE,$31.81,-4500,442654,-1%,"-$143,124",-1.0,-2.0,12.0,-3.0,ODFL
+518,D,2003-08-01 13:23:17,2003-07-30,ODFL,Yowell John B,EVP,X - OptEx,$12.83,4500,442654,-1%,"$57,750",-1.0,-2.0,12.0,-3.0,ODFL
+519,D,2003-08-01 11:17:42,2003-07-30,ODFL,Congdon David S,"Pres, COO, 10%",S - Sale+OE,$32.47,-4500,1258659,0%,"-$146,115",-1.0,-2.0,12.0,-3.0,ODFL
+520,D,2003-08-01 11:17:42,2003-07-30,ODFL,Congdon David S,"Pres, COO, 10%",X - OptEx,$12.83,4500,1258659,0%,"$57,750",-1.0,-2.0,12.0,-3.0,ODFL

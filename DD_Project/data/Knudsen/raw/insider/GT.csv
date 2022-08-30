@@ -1,7 +1,931 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,D,2021-12-10 16:39:35,2021-12-08,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",S - Sale+OE,$22.33,-175197,584201,-23%,"-$3,912,149",,,,,GT
-1,D,2021-11-22 16:17:37,2021-11-19,GT,McClellan Stephen R,"Pres, Americas",S - Sale+OE,$21.88,-54302,111525,-33%,"-$1,188,128",,,,,GT
-2,D,2021-11-15 16:42:45,2021-11-10,GT,McClellan Stephen R,"Pres, Americas",S - Sale+OE,$23.36,-36177,111522,-24%,"-$845,095",,,,,GT
-3,D,2021-05-25 16:06:34,2021-05-21,GT,McClellan Stephen R,"Pres, Americas",S - Sale+OE,$19.44,-5357,111527,-5%,"-$104,140",,,,,GT
-4,,2020-03-12 16:11:26,2020-03-10,GT,Bellissimo Jonathan,"SVP Global Operations, Tech",P - Purchase,$7.38,500,5248,+11%,"+$3,690",,,,,GT
-5,,2019-02-14 14:05:54,2019-02-13,GT,Geissler Werner,Dir,P - Purchase,$18.65,35000,50000,+233%,"+$652,628",,,,,GT
+0,D,2022-03-01 16:25:48,2022-02-25,GT,Wells Darren R,"EVP, CFO",F - Tax,$15.51,-20711,68919,-23%,"-$321,228",,,,,GT
+1,D,2022-03-01 16:25:48,2022-02-25,GT,Wells Darren R,"EVP, CFO",M - OptEx,$0.00,45669,68919,+196%,+$0,,,,,GT
+2,D,2022-03-01 16:23:24,2022-02-25,GT,Vanderlind Gary,"SVP, Chief Human Res. Ofcr.",F - Tax,$15.51,-4999,20206,-20%,"-$77,534",,,,,GT
+3,D,2022-03-01 16:23:24,2022-02-25,GT,Vanderlind Gary,"SVP, Chief Human Res. Ofcr.",M - OptEx,$0.00,11023,20206,+120%,+$0,,,,,GT
+4,D,2022-03-01 16:18:10,2022-02-25,GT,Phillips David Emmitt,"SVP, GC",F - Tax,$15.51,-834,11118,-7%,"-$12,935",,,,,GT
+5,D,2022-03-01 16:18:10,2022-02-25,GT,Phillips David Emmitt,"SVP, GC",M - OptEx,$0.00,1837,11118,+20%,+$0,,,,,GT
+6,D,2022-03-01 16:14:16,2022-02-25,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$15.51,-19283,150759,-11%,"-$299,079",,,,,GT
+7,D,2022-03-01 16:14:16,2022-02-25,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$0.00,42520,150759,+39%,+$0,,,,,GT
+8,D,2022-03-01 16:11:57,2022-02-25,GT,Madarang Nathaniel,"Pres, Asia Pacific",F - Tax,$15.51,-457,5604,-8%,"-$7,088",,,,,GT
+9,D,2022-03-01 16:11:57,2022-02-25,GT,Madarang Nathaniel,"Pres, Asia Pacific",M - OptEx,$0.00,1014,5604,+22%,+$0,,,,,GT
+10,D,2022-03-01 16:10:19,2022-02-25,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$15.51,-76062,732730,-9%,"-$1,179,722",,,,,GT
+11,D,2022-03-01 16:10:19,2022-02-25,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,167720,732730,+30%,+$0,,,,,GT
+12,D,2022-03-01 16:08:15,2022-02-25,GT,Helsel Christopher P,SVP Glbl Ops Chief Tech Ofcr,F - Tax,$15.51,-4999,15871,-24%,"-$77,534",,,,,GT
+13,D,2022-03-01 16:08:15,2022-02-25,GT,Helsel Christopher P,SVP Glbl Ops Chief Tech Ofcr,M - OptEx,$0.00,11023,15871,+227%,+$0,,,,,GT
+14,D,2022-03-01 16:06:30,2022-02-25,GT,Duda Laura P,"SVP, Chief Comm. Officer",F - Tax,$15.51,-3121,19610,-14%,"-$48,407",,,,,GT
+15,D,2022-03-01 16:06:30,2022-02-25,GT,Duda Laura P,"SVP, Chief Comm. Officer",M - OptEx,$0.00,10279,19610,+110%,+$0,,,,,GT
+16,D,2022-02-07 16:48:18,2022-02-03,GT,Wells Darren R,"EVP, CFO",F - Tax,$20.97,-7729,43961,-15%,"-$162,077",,,,,GT
+17,D,2022-02-07 16:48:18,2022-02-03,GT,Wells Darren R,"EVP, CFO",M - OptEx,$0.00,24877,43961,+130%,+$0,,,,,GT
+18,D,2022-02-07 16:45:39,2022-02-03,GT,Vanderlind Gary,"SVP, Chief Human Res. Ofcr.",F - Tax,$20.97,-2071,14182,-13%,"-$43,429",,,,,GT
+19,D,2022-02-07 16:45:39,2022-02-03,GT,Vanderlind Gary,"SVP, Chief Human Res. Ofcr.",M - OptEx,$0.00,6004,14182,+73%,+$0,,,,,GT
+20,D,2022-02-07 16:43:16,2022-02-03,GT,Scocos Evan M,"VP, Controller",F - Tax,$20.97,-1070,15425,-6%,"-$22,438",,,,,GT
+21,D,2022-02-07 16:43:16,2022-02-03,GT,Scocos Evan M,"VP, Controller",M - OptEx,$0.00,3001,15425,+24%,+$0,,,,,GT
+22,D,2022-02-07 16:41:47,2022-02-03,GT,Phillips David Emmitt,"SVP, GC",F - Tax,$20.97,-2988,10115,-23%,"-$62,658",,,,,GT
+23,D,2022-02-07 16:41:47,2022-02-03,GT,Phillips David Emmitt,"SVP, GC",M - OptEx,$0.00,9103,10115,+900%,+$0,,,,,GT
+24,D,2022-02-07 16:40:00,2022-02-03,GT,Patterson Ryan G,"SVP, CO, Int Ofcr, Americas",F - Tax,$20.97,-4117,30820,-12%,"-$86,333",,,,,GT
+25,D,2022-02-07 16:40:00,2022-02-03,GT,Patterson Ryan G,"SVP, CO, Int Ofcr, Americas",M - OptEx,$0.00,12868,30820,+72%,+$0,,,,,GT
+26,D,2022-02-07 16:37:15,2022-02-03,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$20.97,-7217,127481,-5%,"-$151,340",,,,,GT
+27,D,2022-02-07 16:37:15,2022-02-03,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$0.00,23162,127481,+22%,+$0,,,,,GT
+28,D,2022-02-07 16:35:38,2022-02-03,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$20.97,-34495,641071,-5%,"-$723,360",,,,,GT
+29,D,2022-02-07 16:35:38,2022-02-03,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,91364,641071,+17%,+$0,,,,,GT
+30,D,2022-02-07 16:33:21,2022-02-03,GT,Helsel Christopher P,SVP Glbl Ops Chief Tech Ofcr,F - Tax,$20.97,-2065,9847,-17%,"-$43,303",,,,,GT
+31,D,2022-02-07 16:33:21,2022-02-03,GT,Helsel Christopher P,SVP Glbl Ops Chief Tech Ofcr,M - OptEx,$0.00,6004,9847,+156%,+$0,,,,,GT
+32,D,2022-02-07 16:30:34,2022-02-03,GT,Duda Laura P,"SVP, Chief Comm. Officer",F - Tax,$20.97,-1147,12452,-8%,"-$24,053",,,,,GT
+33,D,2022-02-07 16:30:34,2022-02-03,GT,Duda Laura P,"SVP, Chief Comm. Officer",M - OptEx,$0.00,3216,12452,+35%,+$0,,,,,GT
+34,D,2022-02-07 16:29:03,2022-02-03,GT,Delaney Christopher R,"Pres, EMEA",F - Tax,$20.97,-10275,55391,-16%,"-$215,467",,,,,GT
+35,D,2022-02-07 16:29:03,2022-02-03,GT,Delaney Christopher R,"Pres, EMEA",M - OptEx,$0.00,23162,55391,+72%,+$0,,,,,GT
+36,D,2021-12-10 16:39:35,2021-12-08,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$22.33,-175298,584201,-23%,"-$3,914,404",,,,,GT
+37,D,2021-12-10 16:39:35,2021-12-08,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$10.12,250000,584201,+75%,"+$2,530,000",,,,,GT
+38,D,2021-12-10 16:39:35,2021-12-08,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",S - Sale+OE,$22.33,-175197,584201,-23%,"-$3,912,149",,,,,GT
+39,D,2021-11-22 16:17:37,2021-11-19,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$21.88,-12280,111525,-10%,"-$268,686",,,,,GT
+40,D,2021-11-22 16:17:37,2021-11-19,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$12.98,66582,111525,+148%,"+$864,234",,,,,GT
+41,D,2021-11-22 16:17:37,2021-11-19,GT,McClellan Stephen R,"Pres, Americas",S - Sale+OE,$21.88,-54302,111525,-33%,"-$1,188,128",,,,,GT
+42,D,2021-11-15 16:47:24,2021-11-10,GT,Vanderlind Gary,"SVP, Chief Human Res. Ofcr.",F - Tax,$23.62,-4716,10249,-32%,"-$111,392",,,,,GT
+43,D,2021-11-15 16:47:24,2021-11-10,GT,Vanderlind Gary,"SVP, Chief Human Res. Ofcr.",M - OptEx,$12.96,6813,10249,+198%,"+$88,301",,,,,GT
+44,D,2021-11-15 16:45:06,2021-11-11,GT,Patterson Ryan G,"SVP, Business Integration",F - Tax,$23.40,-4630,22069,-17%,"-$108,342",,,,,GT
+45,D,2021-11-15 16:45:06,2021-11-11,GT,Patterson Ryan G,"SVP, Business Integration",M - OptEx,$12.96,6097,22069,+38%,"+$79,029",,,,,GT
+46,D,2021-11-15 16:42:45,2021-11-10,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$23.36,-9176,111522,-8%,"-$214,351",,,,,GT
+47,D,2021-11-15 16:42:45,2021-11-10,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$12.94,45353,111522,+69%,"+$586,868",,,,,GT
+48,D,2021-11-15 16:42:45,2021-11-10,GT,McClellan Stephen R,"Pres, Americas",S - Sale+OE,$23.36,-36177,111522,-24%,"-$845,095",,,,,GT
+49,D,2021-09-22 16:06:17,2021-09-20,GT,Wells Darren R,"EVP, CFO",F - Tax,$16.51,-12995,26813,-33%,"-$214,547",,,,,GT
+50,D,2021-09-22 16:06:17,2021-09-20,GT,Wells Darren R,"EVP, CFO",M - OptEx,$0.00,28654,26813,-1556%,+$0,,,,,GT
+51,D,2021-08-10 09:36:07,2021-08-07,GT,Madarang Nathaniel,"Pres, Asia Pacific",F - Tax,$16.26,-962,5047,-16%,"-$15,642",,,,,GT
+52,D,2021-08-10 09:36:07,2021-08-07,GT,Madarang Nathaniel,"Pres, Asia Pacific",M - OptEx,$0.00,2137,5047,+73%,+$0,,,,,GT
+53,D,2021-08-06 16:11:12,2021-08-04,GT,Madarang Nathaniel,"Pres, Asia Pacific",F - Tax,$14.97,-1680,3872,-30%,"-$25,150",,,,,GT
+54,D,2021-08-06 16:11:12,2021-08-04,GT,Madarang Nathaniel,"Pres, Asia Pacific",M - OptEx,$0.00,3733,3872,>999%,+$0,,,,,GT
+55,D,2021-06-08 16:20:14,2021-06-04,GT,Scocos Evan M,"VP, Controller",F - Tax,$20.46,-1660,13489,-11%,"-$33,964",,,,,GT
+56,D,2021-06-08 16:20:14,2021-06-04,GT,Scocos Evan M,"VP, Controller",M - OptEx,$0.00,5467,13489,+68%,+$0,,,,,GT
+57,D,2021-05-25 16:06:34,2021-05-21,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$9.88,5357,111527,+5%,"+$52,927",,,,,GT
+58,D,2021-05-25 16:06:34,2021-05-21,GT,McClellan Stephen R,"Pres, Americas",S - Sale+OE,$19.44,-5357,111527,-5%,"-$104,140",,,,,GT
+59,D,2021-03-22 16:17:53,2021-03-19,GT,Duda Laura P,"SVP, Chief Comm. Officer",F - Tax,$17.22,-390,10383,-4%,"-$6,716",,,,,GT
+60,D,2021-03-22 16:17:53,2021-03-19,GT,Duda Laura P,"SVP, Chief Comm. Officer",M - OptEx,$0.00,1285,10383,+14%,+$0,,,,,GT
+61,D,2021-03-17 16:29:50,2021-03-15,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$17.48,-686500,684697,-50%,"-$12,000,020",,,,,GT
+62,D,2021-03-17 16:29:50,2021-03-15,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$12.96,795429,684697,-718%,"+$10,310,540",,,,,GT
+63,D,2021-03-02 18:27:12,2021-02-26,GT,Vanderlind Gary,"SVP, Chief Human Res. Ofcr.",F - Tax,$16.81,-579,8152,-7%,"-$9,733",,,,,GT
+64,D,2021-03-02 18:27:12,2021-02-26,GT,Vanderlind Gary,"SVP, Chief Human Res. Ofcr.",M - OptEx,$0.00,1905,8152,+30%,+$0,,,,,GT
+65,D,2021-03-02 18:16:50,2021-02-26,GT,Scocos Evan M,"VP, Controller",F - Tax,$16.81,-1108,9698,-10%,"-$18,625",,,,,GT
+66,D,2021-03-02 18:16:50,2021-02-26,GT,Scocos Evan M,"VP, Controller",M - OptEx,$0.00,3648,9698,+60%,+$0,,,,,GT
+67,D,2021-03-02 18:11:47,2021-02-26,GT,Phillips David Emmitt,"SVP, GC",F - Tax,$16.81,-523,4000,-12%,"-$8,792",,,,,GT
+68,D,2021-03-02 18:11:47,2021-02-26,GT,Phillips David Emmitt,"SVP, GC",M - OptEx,$0.00,1723,4000,+76%,+$0,,,,,GT
+69,D,2021-03-02 18:06:14,2021-02-26,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",F - Tax,$16.81,-4831,20602,-19%,"-$81,209",,,,,GT
+70,D,2021-03-02 18:06:14,2021-02-26,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",M - OptEx,$0.00,10891,20602,+112%,+$0,,,,,GT
+71,D,2021-03-02 17:55:55,2021-02-26,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$16.81,-11237,111538,-9%,"-$188,894",,,,,GT
+72,D,2021-03-02 17:55:55,2021-02-26,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$0.00,24778,111538,+29%,+$0,,,,,GT
+73,D,2021-03-02 17:44:55,2021-02-26,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$16.81,-52605,575768,-8%,"-$884,290",,,,,GT
+74,D,2021-03-02 17:44:55,2021-02-26,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,115997,575768,+25%,+$0,,,,,GT
+75,D,2021-03-02 17:37:41,2021-02-26,GT,Helsel Christopher P,SVP CTO,F - Tax,$16.81,-1818,5908,-24%,"-$30,561",,,,,GT
+76,D,2021-03-02 17:37:41,2021-02-26,GT,Helsel Christopher P,SVP CTO,M - OptEx,$0.00,5990,5908,-7305%,+$0,,,,,GT
+77,D,2021-03-02 17:32:46,2021-02-26,GT,Duda Laura P,"SVP, Chief Comm. Officer",F - Tax,$16.81,-537,9488,-5%,"-$9,027",,,,,GT
+78,D,2021-03-02 17:32:46,2021-02-26,GT,Duda Laura P,"SVP, Chief Comm. Officer",M - OptEx,$0.00,1769,9488,+23%,+$0,,,,,GT
+79,D,2021-03-02 17:29:44,2021-02-26,GT,Delaney Christopher R,"Pres, EMEA",F - Tax,$16.81,-9444,42504,-18%,"-$158,754",,,,,GT
+80,D,2021-03-02 17:29:44,2021-02-26,GT,Delaney Christopher R,"Pres, EMEA",M - OptEx,$0.00,21293,42504,+100%,+$0,,,,,GT
+81,D,2021-03-02 17:24:24,2021-02-26,GT,Bellissimo Jonathan,"SVP Global Operations, Tech",F - Tax,$16.81,-579,12382,-4%,"-$9,733",,,,,GT
+82,D,2021-03-02 17:24:24,2021-02-26,GT,Bellissimo Jonathan,"SVP Global Operations, Tech",M - OptEx,$0.00,1905,12382,+18%,+$0,,,,,GT
+83,D,2021-03-01 17:11:43,2021-02-25,GT,Phillips David Emmitt,"SVP, GC",F - Tax,$16.51,-558,2800,-17%,"-$9,213",,,,,GT
+84,D,2021-03-01 17:11:43,2021-02-25,GT,Phillips David Emmitt,"SVP, GC",M - OptEx,$0.00,1837,2800,+191%,+$0,,,,,GT
+85,D,2021-03-01 16:56:36,2021-02-25,GT,Duda Laura P,"SVP, Chief Comm. Officer",F - Tax,$16.51,-1328,8256,-14%,"-$21,925",,,,,GT
+86,D,2021-03-01 16:56:36,2021-02-25,GT,Duda Laura P,"SVP, Chief Comm. Officer",M - OptEx,$0.00,4374,8256,+113%,+$0,,,,,GT
+87,D,2021-02-24 16:42:16,2021-02-22,GT,Vanderlind Gary,"SVP, Chief Human Res. Ofcr.",F - Tax,$16.82,-2701,6826,-28%,"-$45,431",,,,,GT
+88,D,2021-02-24 16:42:16,2021-02-22,GT,Vanderlind Gary,"SVP, Chief Human Res. Ofcr.",M - OptEx,$13.91,3039,6826,+80%,"+$42,272",,,,,GT
+89,D,2021-02-24 16:37:59,2021-02-22,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$16.82,-20319,97924,-17%,"-$341,766",,,,,GT
+90,D,2021-02-24 16:37:59,2021-02-22,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$13.91,23108,97924,+31%,"+$321,432",,,,,GT
+91,D,2021-02-24 16:32:24,2021-02-22,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$16.82,-233313,512376,-31%,"-$3,924,325",,,,,GT
+92,D,2021-02-24 16:32:24,2021-02-22,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$13.91,264833,512376,+107%,"+$3,683,827",,,,,GT
+93,D,2021-02-08 17:39:51,2021-02-04,GT,Wells Darren R,"EVP, CFO",F - Tax,$11.76,-1904,11154,-15%,"-$22,391",,,,,GT
+94,D,2021-02-08 17:39:51,2021-02-04,GT,Wells Darren R,"EVP, CFO",M - OptEx,$0.00,5808,11154,+109%,+$0,,,,,GT
+95,D,2021-02-08 17:28:56,2021-02-04,GT,Scocos Evan M,"VP, Controller",F - Tax,$11.76,-260,7131,-4%,"-$3,058",,,,,GT
+96,D,2021-02-08 17:28:56,2021-02-04,GT,Scocos Evan M,"VP, Controller",M - OptEx,$0.00,729,7131,+11%,+$0,,,,,GT
+97,D,2021-02-08 17:15:48,2021-02-04,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",F - Tax,$11.76,-1040,14542,-7%,"-$12,230",,,,,GT
+98,D,2021-02-08 17:15:48,2021-02-04,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",M - OptEx,$0.00,2181,14542,+18%,+$0,,,,,GT
+99,D,2021-02-08 16:59:20,2021-02-04,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$11.76,-1684,95134,-2%,"-$19,804",,,,,GT
+100,D,2021-02-08 16:59:20,2021-02-04,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$0.00,4963,95134,+6%,+$0,,,,,GT
+101,D,2021-02-08 16:51:10,2021-02-04,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$11.76,-7044,480859,-1%,"-$82,837",,,,,GT
+102,D,2021-02-08 16:51:10,2021-02-04,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,23237,480859,+5%,+$0,,,,,GT
+103,D,2021-02-08 16:44:43,2021-02-04,GT,Helsel Christopher P,SVP CTO,F - Tax,$11.76,-428,1736,-20%,"-$5,033",,,,,GT
+104,D,2021-02-08 16:44:43,2021-02-04,GT,Helsel Christopher P,SVP CTO,M - OptEx,$0.00,1199,1736,+223%,+$0,,,,,GT
+105,D,2021-02-08 16:39:54,2021-02-04,GT,Delaney Christopher R,"Pres, EMEA",F - Tax,$11.76,-2118,30299,-7%,"-$24,908",,,,,GT
+106,D,2021-02-08 16:39:54,2021-02-04,GT,Delaney Christopher R,"Pres, EMEA",M - OptEx,$0.00,4264,30299,+16%,+$0,,,,,GT
+107,D,2020-10-13 16:45:43,2020-10-09,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",F - Tax,$9.62,-7406,13401,-36%,"-$71,246",,,,,GT
+108,D,2020-10-13 16:45:43,2020-10-09,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",M - OptEx,$0.00,16698,13401,-506%,+$0,,,,,GT
+109,D,2020-10-13 16:42:07,2020-10-09,GT,Helsel Christopher P,SVP CTO,F - Tax,$9.62,-149,965,-13%,"-$1,433",,,,,GT
+110,D,2020-10-13 16:42:07,2020-10-09,GT,Helsel Christopher P,SVP CTO,M - OptEx,$0.00,490,965,+103%,+$0,,,,,GT
+111,D,2020-10-13 16:38:55,2020-10-09,GT,Delaney Christopher R,"Pres, EMEA",F - Tax,$9.62,-7406,28153,-21%,"-$71,246",,,,,GT
+112,D,2020-10-13 16:38:55,2020-10-09,GT,Delaney Christopher R,"Pres, EMEA",M - OptEx,$0.00,16698,28153,+146%,+$0,,,,,GT
+113,D,2020-10-13 16:36:01,2020-10-09,GT,Bellissimo Jonathan,"SVP Global Operations, Tech",F - Tax,$9.62,-2534,11062,-19%,"-$24,377",,,,,GT
+114,D,2020-10-13 16:36:01,2020-10-09,GT,Bellissimo Jonathan,"SVP Global Operations, Tech",M - OptEx,$0.00,8348,11062,+308%,+$0,,,,,GT
+115,,2020-09-22 14:43:07,2020-09-21,GT,Wells Darren R,"EVP, CFO",F - Tax,$8.59,-5471,7250,-43%,"-$46,996",,,,,GT
+116,D,2020-03-23 12:20:50,2020-03-19,GT,Duda Laura P,SVP Global Communications,F - Tax,$5.10,-390,5210,-7%,"-$1,989",,,,,GT
+117,D,2020-03-23 12:20:50,2020-03-19,GT,Duda Laura P,SVP Global Communications,M - OptEx,$0.00,1285,5210,+33%,+$0,,,,,GT
+118,,2020-03-12 16:11:26,2020-03-10,GT,Bellissimo Jonathan,"SVP Global Operations, Tech",P - Purchase,$7.38,500,5248,+11%,"+$3,690",,,,,GT
+119,D,2020-03-02 16:41:03,2020-02-27,GT,Vanderlind Gary,SVP Global HR,F - Tax,$9.91,-137,6386,-2%,"-$1,358",,,,,GT
+120,D,2020-03-02 16:41:03,2020-02-27,GT,Vanderlind Gary,SVP Global HR,M - OptEx,$0.00,449,6386,+8%,+$0,,,,,GT
+121,D,2020-03-02 16:39:06,2020-02-27,GT,Phillips David Emmitt,"SVP, GC",F - Tax,$9.91,-91,1521,-6%,-$902,,,,,GT
+122,D,2020-03-02 16:39:06,2020-02-27,GT,Phillips David Emmitt,"SVP, GC",M - OptEx,$0.00,299,1521,+24%,+$0,,,,,GT
+123,D,2020-03-02 16:36:42,2020-02-27,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",F - Tax,$9.91,-381,4052,-9%,"-$3,776",,,,,GT
+124,D,2020-03-02 16:36:42,2020-02-27,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",M - OptEx,$0.00,858,4052,+27%,+$0,,,,,GT
+125,D,2020-03-02 16:34:59,2020-02-27,GT,Helsel Christopher P,SVP CTO,F - Tax,$9.91,-59,616,-9%,-$585,,,,,GT
+126,D,2020-03-02 16:34:59,2020-02-27,GT,Helsel Christopher P,SVP CTO,M - OptEx,$0.00,192,616,+45%,+$0,,,,,GT
+127,D,2020-03-02 16:33:27,2020-02-27,GT,Duda Laura P,SVP Global Communications,F - Tax,$9.91,-127,4294,-3%,"-$1,259",,,,,GT
+128,D,2020-03-02 16:33:27,2020-02-27,GT,Duda Laura P,SVP Global Communications,M - OptEx,$0.00,418,4294,+11%,+$0,,,,,GT
+129,D,2020-03-02 16:32:18,2020-02-27,GT,Bellissimo Jonathan,"SVP Global Operations, Tech",F - Tax,$9.91,-137,4674,-3%,"-$1,358",,,,,GT
+130,D,2020-03-02 16:32:18,2020-02-27,GT,Bellissimo Jonathan,"SVP Global Operations, Tech",M - OptEx,$0.00,449,4674,+11%,+$0,,,,,GT
+131,D,2020-02-26 16:51:39,2020-02-25,GT,Phillips David Emmitt,"SVP, GC",F - Tax,$10.12,-549,1313,-29%,"-$5,556",,,,,GT
+132,D,2020-02-26 16:51:39,2020-02-25,GT,Phillips David Emmitt,"SVP, GC",M - OptEx,$0.00,1806,1313,-366%,+$0,,,,,GT
+133,D,2020-02-26 16:50:00,2020-02-25,GT,Duda Laura P,SVP Global Communications,F - Tax,$10.12,-1534,4003,-28%,"-$15,524",,,,,GT
+134,D,2020-02-26 16:50:00,2020-02-25,GT,Duda Laura P,SVP Global Communications,M - OptEx,$0.00,4301,4003,-1443%,+$0,,,,,GT
+135,D,2020-02-06 17:08:21,2020-02-04,GT,Scocos Evan M,"VP, Controller",F - Tax,$13.45,-143,6574,-2%,"-$1,923",,,,,GT
+136,D,2020-02-06 17:08:21,2020-02-04,GT,Scocos Evan M,"VP, Controller",M - OptEx,$0.00,399,6574,+6%,+$0,,,,,GT
+137,D,2020-02-06 17:06:08,2020-02-04,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",F - Tax,$13.45,-196,3367,-6%,"-$2,636",,,,,GT
+138,D,2020-02-06 17:06:08,2020-02-04,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",M - OptEx,$0.00,410,3367,+14%,+$0,,,,,GT
+139,D,2020-02-06 17:01:32,2020-02-04,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$13.45,-974,91580,-1%,"-$13,100",,,,,GT
+140,D,2020-02-06 17:01:32,2020-02-04,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$0.00,2731,91580,+3%,+$0,,,,,GT
+141,D,2020-02-06 16:58:56,2020-02-04,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$13.45,-4183,464659,-1%,"-$56,261",,,,,GT
+142,D,2020-02-06 16:58:56,2020-02-04,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,13530,464659,+3%,+$0,,,,,GT
+143,D,2020-02-06 16:56:53,2020-02-04,GT,Delaney Christopher R,"Pres, EMEA",F - Tax,$13.45,-1176,18720,-6%,"-$15,817",,,,,GT
+144,D,2020-02-06 16:56:53,2020-02-04,GT,Delaney Christopher R,"Pres, EMEA",M - OptEx,$0.00,2368,18720,+14%,+$0,,,,,GT
+145,D,2019-09-24 17:10:45,2019-09-20,GT,Wells Darren R,"EVP, CFO",F - Tax,$13.82,-294,12205,-2%,"-$4,063",,,,,GT
+146,D,2019-09-24 17:10:45,2019-09-20,GT,Wells Darren R,"EVP, CFO",M - OptEx,$0.00,12499,12205,-4251%,+$0,,,,,GT
+147,D,2019-08-06 16:42:31,2019-08-02,GT,Vanderlind Gary,SVP Global HR,F - Tax,$12.73,-1169,5905,-17%,"-$14,881",,,,,GT
+148,D,2019-08-06 16:42:31,2019-08-02,GT,Vanderlind Gary,SVP Global HR,M - OptEx,$0.00,3850,5905,+187%,+$0,,,,,GT
+149,D,2019-08-06 16:38:40,2019-08-02,GT,Phillips David Emmitt,"SVP, GC",F - Tax,$12.73,-25,55,-31%,-$318,,,,,GT
+150,D,2019-08-06 16:38:40,2019-08-02,GT,Phillips David Emmitt,"SVP, GC",M - OptEx,$0.00,80,55,-320%,+$0,,,,,GT
+151,D,2019-08-06 16:36:14,2019-08-02,GT,Bellissimo Jonathan,"SVP Global Operations, Tech",F - Tax,$12.73,-1169,3731,-24%,"-$14,881",,,,,GT
+152,D,2019-08-06 16:36:14,2019-08-02,GT,Bellissimo Jonathan,"SVP Global Operations, Tech",M - OptEx,$0.00,3850,3731,-3235%,+$0,,,,,GT
+153,D,2019-03-21 16:39:41,2019-03-19,GT,Duda Laura P,SVP Global Communications,F - Tax,$17.92,-359,1193,-23%,"-$6,433",,,,,GT
+154,D,2019-03-21 16:39:41,2019-03-19,GT,Duda Laura P,SVP Global Communications,M - OptEx,$0.00,1219,1193,-4688%,+$0,,,,,GT
+155,,2019-02-14 14:05:54,2019-02-13,GT,Geissler Werner,Dir,P - Purchase,$18.65,35000,50000,+233%,"+$652,628",,,,,GT
+156,D,2019-02-06 17:06:07,2019-02-04,GT,Scocos Evan M,"VP, Controller",F - Tax,$21.00,-125,5841,-2%,"-$2,625",,,,,GT
+157,D,2019-02-06 17:06:07,2019-02-04,GT,Scocos Evan M,"VP, Controller",M - OptEx,$0.00,350,5841,+6%,+$0,,,,,GT
+158,D,2019-02-06 17:03:00,2019-02-04,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$21.00,-1765,89626,-2%,"-$37,065",,,,,GT
+159,D,2019-02-06 17:03:00,2019-02-04,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$0.00,5301,89626,+6%,+$0,,,,,GT
+160,D,2019-02-06 17:01:54,2019-02-04,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$21.00,-8121,455299,-2%,"-$170,541",,,,,GT
+161,D,2019-02-06 17:01:54,2019-02-04,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,26640,455299,+6%,+$0,,,,,GT
+162,D,2019-02-06 16:59:57,2019-02-04,GT,Delaney Christopher R,"Pres, EMEA",F - Tax,$21.00,-1990,13608,-13%,"-$41,790",,,,,GT
+163,D,2019-02-06 16:59:57,2019-02-04,GT,Delaney Christopher R,"Pres, EMEA",M - OptEx,$0.00,4008,13608,+42%,+$0,,,,,GT
+164,D,2019-02-06 16:58:40,2019-02-04,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$21.00,-1429,93412,-2%,"-$30,009",,,,,GT
+165,D,2019-02-06 16:58:40,2019-02-04,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$0.00,4008,93412,+4%,+$0,,,,,GT
+166,D,2018-08-28 16:33:14,2018-08-24,GT,Delaney Christopher R,"Pres, EMEA",F - Tax,$23.58,-3275,11590,-22%,"-$77,225",,,,,GT
+167,D,2018-08-28 16:33:14,2018-08-24,GT,Delaney Christopher R,"Pres, EMEA",M - OptEx,$0.00,7383,11590,+175%,+$0,,,,,GT
+168,D,2018-05-30 16:32:40,2018-05-25,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$25.14,-17653,78996,-18%,"-$443,796",,,,,GT
+169,D,2018-05-30 16:32:40,2018-05-25,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",M - OptEx,$4.81,31535,78996,+66%,"+$151,683",,,,,GT
+170,D,2018-02-27 16:17:28,2018-02-23,GT,Scocos Evan M,"VP, Controller",F - Tax,$29.52,-137,5511,-2%,"-$4,044",,,,,GT
+171,D,2018-02-27 16:17:28,2018-02-23,GT,Scocos Evan M,"VP, Controller",M - OptEx,$0.00,384,5511,+7%,+$0,,,,,GT
+172,D,2018-02-27 16:16:12,2018-02-23,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",F - Tax,$29.52,-527,899,-37%,"-$15,557",,,,,GT
+173,D,2018-02-27 16:16:12,2018-02-23,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",M - OptEx,$0.00,1061,899,-655%,+$0,,,,,GT
+174,D,2018-02-06 16:51:50,2018-02-02,GT,Lucas John,"SVP, Global HR",F - Tax,$34.35,-13014,51708,-20%,"-$447,031",,,,,GT
+175,D,2018-02-06 16:51:50,2018-02-02,GT,Lucas John,"SVP, Global HR",M - OptEx,$0.00,33916,51708,+191%,+$0,,,,,GT
+176,D,2018-02-05 17:40:37,2018-02-01,GT,Zekoski Joseph,"SVP Opers, Technology",F - Tax,$34.51,-1565,19925,-7%,"-$54,008",,,,,GT
+177,D,2018-02-05 17:40:37,2018-02-01,GT,Zekoski Joseph,"SVP Opers, Technology",M - OptEx,$0.00,4744,19925,+31%,+$0,,,,,GT
+178,D,2018-02-05 17:39:10,2018-02-01,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$34.51,-4127,65114,-6%,"-$142,423",,,,,GT
+179,D,2018-02-05 17:39:10,2018-02-01,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",M - OptEx,$0.00,13253,65114,+26%,+$0,,,,,GT
+180,D,2018-02-05 17:37:35,2018-02-01,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$34.51,-5806,85957,-6%,"-$200,365",,,,,GT
+181,D,2018-02-05 17:37:35,2018-02-01,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$0.00,18776,85957,+28%,+$0,,,,,GT
+182,D,2018-02-05 17:36:28,2018-02-01,GT,Lucas John,"SVP, Global HR",F - Tax,$34.51,-4148,30806,-12%,"-$143,147",,,,,GT
+183,D,2018-02-05 17:36:28,2018-02-01,GT,Lucas John,"SVP, Global HR",M - OptEx,$0.00,13253,30806,+76%,+$0,,,,,GT
+184,D,2018-02-05 17:34:44,2018-02-01,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$34.51,-36046,436771,-8%,"-$1,243,947",,,,,GT
+185,D,2018-02-05 17:34:44,2018-02-01,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,86596,436771,+25%,+$0,,,,,GT
+186,D,2018-02-05 17:33:37,2018-02-01,GT,King Scott H,"SVP, Strategy, Bus Develop",F - Tax,$34.51,-1534,5315,-22%,"-$52,938",,,,,GT
+187,D,2018-02-05 17:33:37,2018-02-01,GT,King Scott H,"SVP, Strategy, Bus Develop",M - OptEx,$0.00,4589,5315,+632%,+$0,,,,,GT
+188,D,2018-02-05 17:32:15,2018-02-01,GT,Kellam Richard,"SVP Global Sales, Marketing",F - Tax,$34.51,-4043,19819,-17%,"-$139,524",,,,,GT
+189,D,2018-02-05 17:32:15,2018-02-01,GT,Kellam Richard,"SVP Global Sales, Marketing",M - OptEx,$0.00,8835,19819,+80%,+$0,,,,,GT
+190,D,2018-02-05 17:31:11,2018-02-01,GT,Fitzhenry Paul,"SVP, Global Communications",F - Tax,$34.51,-1269,14957,-8%,"-$43,793",,,,,GT
+191,D,2018-02-05 17:31:11,2018-02-01,GT,Fitzhenry Paul,"SVP, Global Communications",M - OptEx,$0.00,3710,14957,+33%,+$0,,,,,GT
+192,D,2018-02-05 17:29:54,2018-02-01,GT,Delaney Christopher R,"Pres, EMEA",F - Tax,$34.51,-6185,7482,-45%,"-$213,444",,,,,GT
+193,D,2018-02-05 17:29:54,2018-02-01,GT,Delaney Christopher R,"Pres, EMEA",M - OptEx,$0.00,13667,7482,-221%,+$0,,,,,GT
+194,D,2018-02-05 17:28:45,2018-02-01,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$34.51,-5424,90833,-6%,"-$187,182",,,,,GT
+195,D,2018-02-05 17:28:45,2018-02-01,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$0.00,17495,90833,+24%,+$0,,,,,GT
+196,,2017-12-05 16:50:05,2017-12-01,GT,Kihn Jean Claude,SVP,S - Sale,$32.12,-7500,52127,-13%,"-$240,866",,,,,GT
+197,,2017-11-03 16:12:34,2017-11-01,GT,Kihn Jean Claude,SVP,S - Sale,$30.53,-7500,60716,-11%,"-$228,991",,,,,GT
+198,D,2017-10-10 16:34:56,2017-10-06,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",A - Grant,$0.00,646,365,-230%,+$0,,,,,GT
+199,D,2017-10-10 16:34:56,2017-10-06,GT,Patterson Ryan G,"Pres, Asia-Pacific Region",F - Tax,$32.77,-281,365,-43%,"-$9,208",,,,,GT
+200,,2017-10-04 16:36:11,2017-10-02,GT,Kihn Jean Claude,SVP,S - Sale,$33.26,-7500,68211,-10%,"-$249,456",,,,,GT
+201,,2017-09-19 16:24:24,2017-09-18,GT,Kihn Jean Claude,SVP,S - Sale,$32.44,-7500,75713,-9%,"-$243,285",,,,,GT
+202,D,2017-09-15 16:26:23,2017-09-13,GT,Zekoski Joseph,"SVP Opers, Chief Tech Ofcr",F - Tax,$32.45,-5735,16744,-26%,"-$186,092",,,,,GT
+203,D,2017-09-15 16:26:23,2017-09-13,GT,Zekoski Joseph,"SVP Opers, Chief Tech Ofcr",M - OptEx,$13.58,8192,16744,+96%,"+$111,268",,,,,GT
+204,D,2017-08-28 17:33:32,2017-08-24,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$29.97,-3720,72979,-5%,"-$111,504",,,,,GT
+205,D,2017-08-28 17:33:32,2017-08-24,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$26.74,3932,72979,+6%,"+$105,142",,,,,GT
+206,D,2017-08-28 17:33:32,2017-08-24,GT,McClellan Stephen R,"Pres, Americas",S - Sale+OE,$29.97,-212,72979,0%,"-$6,355",,,,,GT
+207,D,2017-08-17 16:34:37,2017-08-15,GT,Kihn Jean Claude,"Pres, EMEA",F - Tax,$30.32,-4505,83211,-5%,"-$136,592",,,,,GT
+208,D,2017-08-17 16:34:37,2017-08-15,GT,Kihn Jean Claude,"Pres, EMEA",M - OptEx,$26.74,4794,83211,+6%,"+$128,192",,,,,GT
+209,D,2017-08-17 16:34:37,2017-08-15,GT,Kihn Jean Claude,"Pres, EMEA",S - Sale+OE,$30.32,-289,83211,0%,"-$8,762",,,,,GT
+210,D,2017-08-11 16:16:31,2017-08-09,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$31.30,-2414,55988,-4%,"-$75,558",,,,,GT
+211,D,2017-08-11 16:16:31,2017-08-09,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",M - OptEx,$26.74,2606,55988,+5%,"+$69,684",,,,,GT
+212,,2017-07-12 16:45:11,2017-07-10,GT,McClellan Stephen R,"Pres, Americas",S - Sale,$35.46,-6250,72972,-8%,"-$221,609",,,,,GT
+213,,2017-06-13 10:01:41,2017-06-09,GT,McClellan Stephen R,"Pres, Americas",S - Sale,$35.29,-6250,79222,-7%,"-$220,566",,,,,GT
+214,,2017-05-11 16:32:13,2017-05-09,GT,McClellan Stephen R,"Pres, Americas",S - Sale,$35.32,-6250,85468,-7%,"-$220,766",-3.0,,,,GT
+215,,2017-04-12 16:18:33,2017-04-10,GT,McClellan Stephen R,"Pres, Americas",S - Sale,$35.25,-6250,91718,-6%,"-$220,316",-1.0,1.0,3.0,,GT
+216,D,2017-04-05 16:31:15,2017-02-24,GT,Zekoski Joseph,"SVP Opers, Chief Tech Ofcr",F - Tax,$35.36,-203,14264,-1%,"-$7,178",1.0,2.0,1.0,,GT
+217,D,2017-04-05 16:31:15,2017-02-24,GT,Zekoski Joseph,"SVP Opers, Chief Tech Ofcr",M - OptEx,$0.00,608,14264,+4%,+$0,1.0,2.0,1.0,,GT
+218,D,2017-04-05 16:28:29,2017-02-24,GT,Scocos Evan M,"VP, Controller",F - Tax,$35.36,-119,5210,-2%,"-$4,208",1.0,2.0,1.0,,GT
+219,D,2017-04-05 16:28:29,2017-02-24,GT,Scocos Evan M,"VP, Controller",M - OptEx,$0.00,358,5210,+7%,+$0,1.0,2.0,1.0,,GT
+220,D,2017-03-16 16:38:56,2017-03-15,GT,Noechel Richard J,"SVP, Business Transformation",F - Tax,$36.89,-9242,49889,-16%,"-$340,897",0.0,-2.0,-7.0,,GT
+221,D,2017-03-16 16:38:56,2017-03-15,GT,Noechel Richard J,"SVP, Business Transformation",M - OptEx,$12.94,13963,49889,+39%,"+$180,681",0.0,-2.0,-7.0,,GT
+222,D,2017-03-16 16:38:56,2017-03-15,GT,Noechel Richard J,"SVP, Business Transformation",S - Sale+OE,$36.89,-4721,49889,-9%,"-$174,137",0.0,-2.0,-7.0,,GT
+223,,2017-02-16 16:20:15,2017-02-14,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",S - Sale,$35.68,-25000,78762,-24%,"-$891,985",0.0,-2.0,1.0,,GT
+224,D,2017-02-06 21:18:02,2017-02-02,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$32.07,-3377,55796,-6%,"-$108,300",0.0,5.0,9.0,,GT
+225,D,2017-02-06 21:18:02,2017-02-02,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",M - OptEx,$0.00,9870,55796,+21%,+$0,0.0,5.0,9.0,,GT
+226,D,2017-02-06 21:16:25,2017-02-02,GT,Noechel Richard J,"SVP, Business Transformation",F - Tax,$32.07,-2053,49889,-4%,"-$65,840",0.0,5.0,9.0,,GT
+227,D,2017-02-06 21:16:25,2017-02-02,GT,Noechel Richard J,"SVP, Business Transformation",M - OptEx,$0.00,6197,49889,+14%,+$0,0.0,5.0,9.0,,GT
+228,D,2017-02-06 21:15:03,2017-02-02,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$32.07,-4772,97922,-5%,"-$153,038",0.0,5.0,9.0,,GT
+229,D,2017-02-06 21:15:03,2017-02-02,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$0.00,14065,97922,+17%,+$0,0.0,5.0,9.0,,GT
+230,D,2017-02-06 21:13:39,2017-02-02,GT,Lucas John,"SVP, Global HR",F - Tax,$32.07,-11674,21701,-35%,"-$374,385",0.0,5.0,9.0,,GT
+231,D,2017-02-06 21:13:39,2017-02-02,GT,Lucas John,"SVP, Global HR",M - OptEx,$0.00,33375,21701,-286%,+$0,0.0,5.0,9.0,,GT
+232,D,2017-02-06 21:12:24,2017-02-02,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$32.07,-36922,386204,-9%,"-$1,184,089",0.0,5.0,9.0,,GT
+233,D,2017-02-06 21:12:24,2017-02-02,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,86867,386204,+29%,+$0,0.0,5.0,9.0,,GT
+234,D,2017-02-06 21:10:50,2017-02-02,GT,Kihn Jean Claude,"Pres, EMEA",F - Tax,$32.07,-4852,83144,-6%,"-$155,604",0.0,5.0,9.0,,GT
+235,D,2017-02-06 21:10:50,2017-02-02,GT,Kihn Jean Claude,"Pres, EMEA",M - OptEx,$0.00,10296,83144,+14%,+$0,0.0,5.0,9.0,,GT
+236,D,2017-02-06 21:09:39,2017-02-02,GT,Kellam Richard,"SVP Global Sales, Marketing",F - Tax,$32.07,-3991,15027,-21%,"-$127,991",0.0,5.0,9.0,,GT
+237,D,2017-02-06 21:09:39,2017-02-02,GT,Kellam Richard,"SVP Global Sales, Marketing",M - OptEx,$0.00,11718,15027,+354%,+$0,0.0,5.0,9.0,,GT
+238,D,2017-02-06 21:08:24,2017-02-02,GT,Fitzhenry Paul,"SVP, Global Communications",F - Tax,$32.07,-1460,12516,-10%,"-$46,822",0.0,5.0,9.0,,GT
+239,D,2017-02-06 21:08:24,2017-02-02,GT,Fitzhenry Paul,"SVP, Global Communications",M - OptEx,$0.00,3947,12516,+46%,+$0,0.0,5.0,9.0,,GT
+240,D,2017-02-06 21:07:32,2017-02-02,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$32.07,-4956,103762,-5%,"-$158,939",0.0,5.0,9.0,,GT
+241,D,2017-02-06 21:07:32,2017-02-02,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$0.00,14608,103762,+16%,+$0,0.0,5.0,9.0,,GT
+242,D,2016-12-15 16:23:29,2016-12-13,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",A - Grant,$0.00,41051,49303,+497%,+$0,-2.0,-3.0,-7.0,,GT
+243,D,2016-12-15 16:23:29,2016-12-13,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$33.21,-19582,49303,-28%,"-$650,318",-2.0,-3.0,-7.0,,GT
+244,D,2016-12-15 16:21:35,2016-12-13,GT,McClellan Stephen R,"Pres, Americas",A - Grant,$0.00,25656,88621,+41%,+$0,-2.0,-3.0,-7.0,,GT
+245,D,2016-12-15 16:21:35,2016-12-13,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$33.21,-12239,88621,-12%,"-$406,457",-2.0,-3.0,-7.0,,GT
+246,D,2016-12-02 16:28:27,2016-11-30,GT,Kihn Jean Claude,"Pres, EMEA",F - Tax,$30.72,-3129,77697,-4%,"-$96,108",1.0,7.0,5.0,,GT
+247,D,2016-12-02 16:28:27,2016-11-30,GT,Kihn Jean Claude,"Pres, EMEA",M - OptEx,$24.71,3500,77697,+5%,"+$86,485",1.0,7.0,5.0,,GT
+248,D,2016-12-02 16:28:27,2016-11-30,GT,Kihn Jean Claude,"Pres, EMEA",S - Sale+OE,$30.72,-371,77697,0%,"-$11,395",1.0,7.0,5.0,,GT
+249,D,2016-11-23 11:51:00,2016-11-22,GT,Scocos Evan M,"VP, Controller",F - Tax,$30.42,-4490,4965,-47%,"-$136,586",1.0,1.0,3.0,,GT
+250,D,2016-11-23 11:51:00,2016-11-22,GT,Scocos Evan M,"VP, Controller",M - OptEx,$17.00,6322,4965,-466%,"+$107,474",1.0,1.0,3.0,,GT
+251,D,2016-11-18 16:26:57,2016-11-16,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$30.56,-2718,27834,-9%,"-$83,062",-1.0,3.0,6.0,,GT
+252,D,2016-11-18 16:26:57,2016-11-16,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",M - OptEx,$24.71,3000,27834,+12%,"+$74,130",-1.0,3.0,6.0,,GT
+253,D,2016-11-16 16:22:31,2016-11-15,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$31.07,-4029,75203,-5%,"-$125,163",0.0,0.0,8.0,,GT
+254,D,2016-11-16 16:22:31,2016-11-15,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$24.71,4500,75203,+6%,"+$111,195",0.0,0.0,8.0,,GT
+255,D,2016-11-16 16:22:31,2016-11-15,GT,McClellan Stephen R,"Pres, Americas",S - Sale+OE,$31.07,-471,75203,-1%,"-$14,632",0.0,0.0,8.0,,GT
+256,D,2016-11-04 16:23:37,2016-11-02,GT,Zekoski Joseph,"SVP Opers, Chief Tech Ofcr",F - Tax,$28.02,-2648,13862,-16%,"-$74,188",1.0,5.0,8.0,27.0,GT
+257,D,2016-11-04 16:23:37,2016-11-02,GT,Zekoski Joseph,"SVP Opers, Chief Tech Ofcr",M - OptEx,$24.71,2800,13862,+25%,"+$69,188",1.0,5.0,8.0,27.0,GT
+258,D,2016-08-16 20:43:15,2016-08-12,GT,Smith Gregory L,"SVP, Global Operations",F - Tax,$29.31,-119122,81199,-59%,"-$3,491,466",-1.0,1.0,7.0,24.0,GT
+259,D,2016-08-16 20:43:15,2016-08-12,GT,Smith Gregory L,"SVP, Global Operations",M - OptEx,$16.24,154991,81199,-210%,"+$2,517,243",-1.0,1.0,7.0,24.0,GT
+260,D,2016-08-16 20:43:15,2016-08-12,GT,Smith Gregory L,"SVP, Global Operations",S - Sale+OE,$29.31,-35869,81199,-31%,"-$1,051,320",-1.0,1.0,7.0,24.0,GT
+261,,2016-05-06 16:15:12,2016-05-05,GT,Morell Michael J,Dir,P - Purchase,$27.99,875,2800,+45%,"+$24,491",0.0,-1.0,-4.0,0.0,GT
+262,D,2016-03-07 16:35:38,2016-03-03,GT,Smith Gregory L,"SVP, Global Operations",F - Tax,$32.00,-48172,81199,-37%,"-$1,541,504",-1.0,2.0,-4.0,-10.0,GT
+263,D,2016-03-07 16:35:38,2016-03-03,GT,Smith Gregory L,"SVP, Global Operations",M - OptEx,$12.94,69807,81199,+613%,"+$903,303",-1.0,2.0,-4.0,-10.0,GT
+264,D,2016-03-07 16:35:38,2016-03-03,GT,Smith Gregory L,"SVP, Global Operations",S - Sale+OE,$32.00,-21635,81199,-21%,"-$692,320",-1.0,2.0,-4.0,-10.0,GT
+265,D,2016-02-08 17:06:06,2016-02-04,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$27.61,-4017,27552,-13%,"-$110,909",4.0,12.0,22.0,7.0,GT
+266,D,2016-02-08 17:06:06,2016-02-04,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",M - OptEx,$0.00,11794,27552,+75%,+$0,4.0,12.0,22.0,7.0,GT
+267,D,2016-02-08 17:04:53,2016-02-04,GT,Smith Gregory L,"SVP, Global Operations",F - Tax,$27.61,-8265,81199,-9%,"-$228,197",4.0,12.0,22.0,7.0,GT
+268,D,2016-02-08 17:04:53,2016-02-04,GT,Smith Gregory L,"SVP, Global Operations",M - OptEx,$0.00,24622,81199,+44%,+$0,4.0,12.0,22.0,7.0,GT
+269,D,2016-02-08 17:03:16,2016-02-04,GT,Noechel Richard J,"VP, Controller",F - Tax,$27.61,-3322,45745,-7%,"-$91,720",4.0,12.0,22.0,7.0,GT
+270,D,2016-02-08 17:03:16,2016-02-04,GT,Noechel Richard J,"VP, Controller",M - OptEx,$0.00,9676,45745,+27%,+$0,4.0,12.0,22.0,7.0,GT
+271,D,2016-02-08 17:01:56,2016-02-04,GT,McClellan Stephen R,"Pres, Americas",F - Tax,$27.61,-6863,75142,-8%,"-$189,487",4.0,12.0,22.0,7.0,GT
+272,D,2016-02-08 17:01:56,2016-02-04,GT,McClellan Stephen R,"Pres, Americas",M - OptEx,$0.00,20416,75142,+37%,+$0,4.0,12.0,22.0,7.0,GT
+273,D,2016-02-08 16:59:47,2016-02-04,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$27.61,-59417,336257,-15%,"-$1,640,503",4.0,12.0,22.0,7.0,GT
+274,D,2016-02-08 16:59:47,2016-02-04,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,135592,336257,+68%,+$0,4.0,12.0,22.0,7.0,GT
+275,D,2016-02-08 16:58:36,2016-02-04,GT,Kihn Jean Claude,"Pres, EMEA",F - Tax,$27.61,-4696,77609,-6%,"-$129,657",4.0,12.0,22.0,7.0,GT
+276,D,2016-02-08 16:58:36,2016-02-04,GT,Kihn Jean Claude,"Pres, EMEA",M - OptEx,$0.00,13866,77609,+22%,+$0,4.0,12.0,22.0,7.0,GT
+277,D,2016-02-08 16:57:16,2016-02-04,GT,Fitzhenry Paul,"SVP, Global Communications",F - Tax,$27.61,-2180,10029,-18%,"-$60,190",4.0,12.0,22.0,7.0,GT
+278,D,2016-02-08 16:57:16,2016-02-04,GT,Fitzhenry Paul,"SVP, Global Communications",M - OptEx,$0.00,6162,10029,+159%,+$0,4.0,12.0,22.0,7.0,GT
+279,D,2016-02-08 16:55:44,2016-02-04,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$27.61,-7663,94110,-8%,"-$211,575",4.0,12.0,22.0,7.0,GT
+280,D,2016-02-08 16:55:44,2016-02-04,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$0.00,22804,94110,+32%,+$0,4.0,12.0,22.0,7.0,GT
+281,,2016-02-03 16:12:04,2016-02-01,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",S - Sale,$28.04,-29000,260082,-10%,"-$813,169",-1.0,-2.0,15.0,-1.0,GT
+282,,2016-01-06 16:06:20,2016-01-04,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",S - Sale,$31.31,-29000,289081,-9%,"-$907,880",-5.0,-4.0,-9.0,-16.0,GT
+283,D,2015-12-15 17:04:56,2015-12-11,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",F - Tax,$32.48,-25416,46484,-35%,"-$825,438",2.0,-3.0,-14.0,-18.0,GT
+284,D,2015-12-15 17:04:56,2015-12-11,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",M - OptEx,$16.32,34392,46484,+284%,"+$561,104",2.0,-3.0,-14.0,-18.0,GT
+285,D,2015-12-15 17:04:56,2015-12-11,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",S - Sale+OE,$32.48,-4484,46484,-9%,"-$145,627",2.0,-3.0,-14.0,-18.0,GT
+286,,2015-12-10 16:10:33,2015-12-09,GT,Wells Darren R,"Pres, EMEA",S - Sale,$33.61,-30914,85950,-26%,"-$1,039,038",-4.0,0.0,-14.0,-18.0,GT
+287,D,2015-12-07 17:06:32,2015-12-03,GT,Wells Darren R,"Pres, EMEA",F - Tax,$34.63,-65999,116864,-36%,"-$2,285,493",0.0,-6.0,-11.0,-20.0,GT
+288,D,2015-12-07 17:06:32,2015-12-03,GT,Wells Darren R,"Pres, EMEA",M - OptEx,$18.80,86793,116864,+289%,"+$1,631,282",0.0,-6.0,-11.0,-20.0,GT
+289,D,2015-12-07 17:06:32,2015-12-03,GT,Wells Darren R,"Pres, EMEA",S - Sale+OE,$34.63,-20794,116864,-15%,"-$720,080",0.0,-6.0,-11.0,-20.0,GT
+290,,2015-12-02 16:30:52,2015-12-01,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",S - Sale,$34.95,-29000,318080,-8%,"-$1,013,440",-1.0,-2.0,-6.0,-21.0,GT
+291,,2015-11-09 16:17:44,2015-11-06,GT,Noechel Richard J,"VP, Controller",G - Gift,$0.00,-1800,39391,-4%,-$0,0.0,-2.0,5.0,-12.0,GT
+292,,2015-11-09 16:17:44,2015-11-05,GT,Noechel Richard J,"VP, Controller",S - Sale,$32.76,-600,39391,-2%,"-$19,658",0.0,-2.0,5.0,-12.0,GT
+293,D,2015-11-05 16:16:40,2015-11-03,GT,Kihn Jean Claude,"Pres, Latin America",F - Tax,$33.18,-1874,68414,-3%,"-$62,188",1.0,0.0,7.0,-13.0,GT
+294,D,2015-11-05 16:16:40,2015-11-03,GT,Kihn Jean Claude,"Pres, Latin America",M - OptEx,$17.15,2500,68414,+4%,"+$42,875",1.0,0.0,7.0,-13.0,GT
+295,D,2015-11-05 16:16:40,2015-11-03,GT,Kihn Jean Claude,"Pres, Latin America",S - Sale+OE,$33.18,-626,68414,-1%,"-$20,773",1.0,0.0,7.0,-13.0,GT
+296,,2015-11-04 16:10:45,2015-11-02,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",S - Sale,$33.36,-29000,347080,-8%,"-$967,388",-1.0,-1.0,5.0,-15.0,GT
+297,,2015-10-05 16:21:39,2015-10-01,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",S - Sale,$29.54,-29000,376081,-7%,"-$856,689",1.0,6.0,11.0,4.0,GT
+298,,2015-09-08 17:18:16,2015-09-03,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",S - Sale,$29.37,-29000,405081,-7%,"-$851,840",-1.0,-3.0,1.0,8.0,GT
+299,D,2015-08-19 16:07:48,2015-08-17,GT,Fitzhenry Paul,"SVP, Global Communications",F - Tax,$32.50,-2971,6047,-33%,"-$96,558",-3.0,-13.0,-3.0,-6.0,GT
+300,D,2015-08-19 16:07:48,2015-08-17,GT,Fitzhenry Paul,"SVP, Global Communications",M - OptEx,$12.56,5000,6047,+478%,"+$62,800",-3.0,-13.0,-3.0,-6.0,GT
+301,,2015-08-11 16:09:38,2015-08-10,GT,Smith Gregory L,"SVP, Global Operations",S - Sale,$31.60,-15000,64842,-19%,"-$473,999",1.0,4.0,-4.0,-11.0,GT
+302,D,2015-08-05 16:29:34,2015-08-05,GT,Zekoski Joseph,"SVP, Chief Technical Officer",F - Tax,$31.18,-1056,13665,-7%,"-$32,926",-1.0,1.0,-6.0,-10.0,GT
+303,D,2015-08-05 16:29:34,2015-08-05,GT,Zekoski Joseph,"SVP, Chief Technical Officer",M - OptEx,$17.15,1500,13665,+12%,"+$25,725",-1.0,1.0,-6.0,-10.0,GT
+304,D,2015-08-05 16:25:12,2015-08-04,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$30.61,-1940,19775,-9%,"-$59,383",-1.0,1.0,-6.0,-10.0,GT
+305,D,2015-08-05 16:25:12,2015-08-04,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",M - OptEx,$17.15,2500,19775,+14%,"+$42,875",-1.0,1.0,-6.0,-10.0,GT
+306,D,2015-08-05 16:23:17,2015-08-03,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$30.20,-137224,434081,-24%,"-$4,144,796",-1.0,1.0,-6.0,-10.0,GT
+307,D,2015-08-05 16:23:17,2015-08-03,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$24.35,152413,434081,+54%,"+$3,711,645",-1.0,1.0,-6.0,-10.0,GT
+308,D,2015-08-05 16:23:17,2015-08-03,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",S - Sale+OE,$30.20,-15189,434081,-3%,"-$458,778",-1.0,1.0,-6.0,-10.0,GT
+309,D,2015-08-05 16:21:37,2015-08-04,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$30.56,-24510,78969,-24%,"-$749,035",-1.0,1.0,-6.0,-10.0,GT
+310,D,2015-08-05 16:21:37,2015-08-04,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$16.86,31948,78969,+68%,"+$538,643",-1.0,1.0,-6.0,-10.0,GT
+311,DM,2015-08-05 16:21:37,2015-08-03,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",S - Sale+OE,$30.38,-22776,78969,-22%,"-$691,939",-1.0,1.0,-6.0,-10.0,GT
+312,D,2015-06-12 16:07:47,2015-06-11,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",F - Tax,$31.43,-50140,41979,-54%,"-$1,576,061",-2.0,-2.0,-7.0,7.0,GT
+313,D,2015-06-12 16:07:47,2015-06-11,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",M - OptEx,$13.11,72219,41979,-239%,"+$946,641",-2.0,-2.0,-7.0,7.0,GT
+314,D,2015-06-12 16:07:47,2015-06-11,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",S - Sale+OE,$31.43,-22079,41979,-34%,"-$694,014",-2.0,-2.0,-7.0,7.0,GT
+315,D,2015-06-10 16:23:51,2015-06-08,GT,Wells Darren R,"Pres, EMEA",F - Tax,$31.17,-151359,116864,-56%,"-$4,717,572",0.0,-1.0,-8.0,10.0,GT
+316,D,2015-06-10 16:23:51,2015-06-08,GT,Wells Darren R,"Pres, EMEA",M - OptEx,$12.45,220969,116864,-212%,"+$2,750,400",0.0,-1.0,-8.0,10.0,GT
+317,D,2015-06-10 16:23:51,2015-06-08,GT,Wells Darren R,"Pres, EMEA",S - Sale+OE,$31.17,-69610,116864,-37%,"-$2,169,611",0.0,-1.0,-8.0,10.0,GT
+318,D,2015-06-10 16:22:43,2015-06-08,GT,Noechel Richard J,"VP, Controller",F - Tax,$31.21,-59593,41791,-59%,"-$1,860,100",0.0,-1.0,-8.0,10.0,GT
+319,D,2015-06-10 16:22:43,2015-06-08,GT,Noechel Richard J,"VP, Controller",M - OptEx,$15.65,80446,41791,-208%,"+$1,258,665",0.0,-1.0,-8.0,10.0,GT
+320,D,2015-06-10 16:22:43,2015-06-08,GT,Noechel Richard J,"VP, Controller",S - Sale+OE,$31.21,-20853,41791,-33%,"-$650,893",0.0,-1.0,-8.0,10.0,GT
+321,D,2015-06-10 16:21:36,2015-06-08,GT,McClellan Stephen R,"Pres, North America",F - Tax,$31.22,-48154,61566,-44%,"-$1,503,498",0.0,-1.0,-8.0,10.0,GT
+322,D,2015-06-10 16:21:36,2015-06-08,GT,McClellan Stephen R,"Pres, North America",M - OptEx,$8.94,76632,61566,-509%,"+$685,082",0.0,-1.0,-8.0,10.0,GT
+323,D,2015-06-10 16:21:36,2015-06-08,GT,McClellan Stephen R,"Pres, North America",S - Sale+OE,$31.22,-28478,61566,-32%,"-$889,160",0.0,-1.0,-8.0,10.0,GT
+324,D,2015-02-25 16:45:40,2015-02-23,GT,Wells Darren R,"Pres, EMEA",A - Grant,$0.00,6749,116863,+6%,+$0,1.0,0.0,-4.0,4.0,GT
+325,D,2015-02-25 16:45:40,2015-02-23,GT,Wells Darren R,"Pres, EMEA",F - Tax,$27.16,-3125,116863,-3%,"-$84,875",1.0,0.0,-4.0,4.0,GT
+326,D,2015-02-25 16:42:05,2015-02-23,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",A - Grant,$0.00,5062,37308,+16%,+$0,1.0,0.0,-4.0,4.0,GT
+327,D,2015-02-25 16:42:05,2015-02-23,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",F - Tax,$27.16,-2344,37308,-6%,"-$63,663",1.0,0.0,-4.0,4.0,GT
+328,D,2015-02-25 16:38:28,2015-02-23,GT,Noechel Richard J,"VP, Controller",A - Grant,$0.00,5062,41791,+14%,+$0,1.0,0.0,-4.0,4.0,GT
+329,D,2015-02-25 16:38:28,2015-02-23,GT,Noechel Richard J,"VP, Controller",F - Tax,$27.16,-1676,41791,-4%,"-$45,520",1.0,0.0,-4.0,4.0,GT
+330,D,2015-02-25 16:37:13,2015-02-23,GT,McClellan Stephen R,"Pres, North America",A - Grant,$0.00,6749,61518,+12%,+$0,1.0,0.0,-4.0,4.0,GT
+331,D,2015-02-25 16:37:13,2015-02-23,GT,McClellan Stephen R,"Pres, North America",F - Tax,$27.16,-2235,61518,-4%,"-$60,703",1.0,0.0,-4.0,4.0,GT
+332,D,2015-02-25 16:30:46,2015-02-23,GT,Kihn Jean Claude,"Pres, Latin America",A - Grant,$0.00,6749,68332,+11%,+$0,1.0,0.0,-4.0,4.0,GT
+333,D,2015-02-25 16:30:46,2015-02-23,GT,Kihn Jean Claude,"Pres, Latin America",F - Tax,$27.16,-2235,68332,-3%,"-$60,703",1.0,0.0,-4.0,4.0,GT
+334,D,2015-02-09 18:11:39,2015-02-05,GT,Wells Darren R,"Pres, EMEA",F - Tax,$24.98,-12477,113240,-10%,"-$311,675",0.0,1.0,-1.0,21.0,GT
+335,D,2015-02-09 18:11:39,2015-02-05,GT,Wells Darren R,"Pres, EMEA",M - OptEx,$0.00,26740,113240,+31%,+$0,0.0,1.0,-1.0,21.0,GT
+336,D,2015-02-09 18:10:19,2015-02-05,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$24.98,-2137,19215,-10%,"-$53,382",0.0,1.0,-1.0,21.0,GT
+337,D,2015-02-09 18:10:19,2015-02-05,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",M - OptEx,$0.00,6058,19215,+46%,+$0,0.0,1.0,-1.0,21.0,GT
+338,D,2015-02-09 18:09:01,2015-02-05,GT,Szulc Jaime Cohen,"SVP, Strategic Initiatives",F - Tax,$24.98,-6205,6896,-47%,"-$155,001",0.0,1.0,-1.0,21.0,GT
+339,D,2015-02-09 18:09:01,2015-02-05,GT,Szulc Jaime Cohen,"SVP, Strategic Initiatives",M - OptEx,$0.00,13101,6896,-211%,+$0,0.0,1.0,-1.0,21.0,GT
+340,D,2015-02-09 18:07:33,2015-02-05,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",F - Tax,$24.98,-6460,34590,-16%,"-$161,371",0.0,1.0,-1.0,21.0,GT
+341,D,2015-02-09 18:07:33,2015-02-05,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",M - OptEx,$0.00,13632,34590,+65%,+$0,0.0,1.0,-1.0,21.0,GT
+342,D,2015-02-09 18:06:11,2015-02-05,GT,Smith Gregory L,"SVP, Global Operations",F - Tax,$24.98,-7558,79842,-9%,"-$188,799",0.0,1.0,-1.0,21.0,GT
+343,D,2015-02-09 18:06:11,2015-02-05,GT,Smith Gregory L,"SVP, Global Operations",M - OptEx,$0.00,22450,79842,+39%,+$0,0.0,1.0,-1.0,21.0,GT
+344,D,2015-02-09 18:05:03,2015-02-05,GT,Noechel Richard J,"VP, Controller",F - Tax,$24.98,-3240,38405,-8%,"-$80,935",0.0,1.0,-1.0,21.0,GT
+345,D,2015-02-09 18:05:03,2015-02-05,GT,Noechel Richard J,"VP, Controller",M - OptEx,$0.00,9314,38405,+32%,+$0,0.0,1.0,-1.0,21.0,GT
+346,D,2015-02-09 18:03:50,2015-02-05,GT,McClellan Stephen R,"Pres, North America",F - Tax,$24.98,-4956,57001,-8%,"-$123,801",0.0,1.0,-1.0,21.0,GT
+347,D,2015-02-09 18:03:50,2015-02-05,GT,McClellan Stephen R,"Pres, North America",M - OptEx,$0.00,14586,57001,+34%,+$0,0.0,1.0,-1.0,21.0,GT
+348,D,2015-02-09 18:02:27,2015-02-05,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$24.98,-48373,434081,-10%,"-$1,208,358",0.0,1.0,-1.0,21.0,GT
+349,D,2015-02-09 18:02:27,2015-02-05,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,113599,434081,+35%,+$0,0.0,1.0,-1.0,21.0,GT
+350,D,2015-02-09 18:01:12,2015-02-05,GT,Kihn Jean Claude,"Pres, Latin America",F - Tax,$24.98,-4634,63812,-7%,"-$115,757",0.0,1.0,-1.0,21.0,GT
+351,D,2015-02-09 18:01:12,2015-02-05,GT,Kihn Jean Claude,"Pres, Latin America",M - OptEx,$0.00,13632,63812,+27%,+$0,0.0,1.0,-1.0,21.0,GT
+352,D,2015-02-09 17:59:55,2015-02-05,GT,Fitzhenry Paul,"SVP, Global Communications",F - Tax,$24.98,-2223,4018,-36%,"-$55,531",0.0,1.0,-1.0,21.0,GT
+353,D,2015-02-09 17:59:55,2015-02-05,GT,Fitzhenry Paul,"SVP, Global Communications",M - OptEx,$0.00,6241,4018,-281%,+$0,0.0,1.0,-1.0,21.0,GT
+354,D,2015-02-09 17:58:45,2015-02-05,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$24.98,-7128,94307,-7%,"-$178,057",0.0,1.0,-1.0,21.0,GT
+355,D,2015-02-09 17:58:45,2015-02-05,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$0.00,21156,94307,+29%,+$0,0.0,1.0,-1.0,21.0,GT
+356,D,2014-12-09 17:11:17,2014-12-06,GT,Wells Darren R,"Pres, EMEA",F - Tax,$27.58,-26514,98978,-21%,"-$731,256",-1.0,-2.0,5.0,16.0,GT
+357,D,2014-12-09 17:11:17,2014-12-06,GT,Wells Darren R,"Pres, EMEA",M - OptEx,$0.00,55584,98978,+128%,+$0,-1.0,-2.0,5.0,16.0,GT
+358,D,2014-12-09 17:11:17,2014-12-09,GT,Wells Darren R,"Pres, EMEA",S - Sale+OE,$26.74,-29070,98978,-23%,"-$777,390",-1.0,-2.0,5.0,16.0,GT
+359,D,2014-12-09 17:09:25,2014-12-06,GT,Ruocco Joseph B,"SVP, Global Human Res",F - Tax,$27.58,-19283,0,-100%,"-$531,825",-1.0,-2.0,5.0,16.0,GT
+360,D,2014-12-09 17:09:25,2014-12-06,GT,Ruocco Joseph B,"SVP, Global Human Res",M - OptEx,$0.00,40424,0,-100%,+$0,-1.0,-2.0,5.0,16.0,GT
+361,D,2014-12-09 17:09:25,2014-12-09,GT,Ruocco Joseph B,"SVP, Global Human Res",S - Sale+OE,$26.26,-21141,0,-100%,"-$555,205",-1.0,-2.0,5.0,16.0,GT
+362,D,2014-12-09 17:07:13,2014-12-06,GT,Kihn Jean Claude,"Pres, Latin America",F - Tax,$27.58,-18711,54807,-25%,"-$516,049",-1.0,-2.0,5.0,16.0,GT
+363,D,2014-12-09 17:07:13,2014-12-06,GT,Kihn Jean Claude,"Pres, Latin America",M - OptEx,$0.00,40424,54807,+281%,+$0,-1.0,-2.0,5.0,16.0,GT
+364,,2014-11-10 16:26:04,2014-11-06,GT,Smith Gregory L,"SVP, Global Operations",S - Sale,$25.00,-15000,64950,-19%,"-$375,000",0.0,1.0,7.0,17.0,GT
+365,,2014-11-05 16:31:14,2014-11-03,GT,Morell Michael J,Dir,P - Purchase,$24.51,825,1925,+75%,"+$20,221",3.0,4.0,12.0,19.0,GT
+366,,2014-10-28 16:46:17,2014-10-24,GT,Smith Gregory L,"SVP, Global Operations",F - Tax,$20.81,-15520,79950,-16%,"-$322,971",5.0,13.0,23.0,32.0,GT
+367,D,2014-09-03 16:47:57,2014-08-29,GT,Wells Darren R,"Pres, EMEA",F - Tax,$25.89,-3778,98976,-4%,"-$97,812",0.0,-4.0,-15.0,3.0,GT
+368,D,2014-09-03 16:47:57,2014-08-29,GT,Wells Darren R,"Pres, EMEA",M - OptEx,$12.54,7800,98976,+9%,"+$97,812",0.0,-4.0,-15.0,3.0,GT
+369,D,2014-09-03 16:46:01,2014-08-29,GT,Szulc Jaime Cohen,"Pres, Latin America",F - Tax,$25.74,-64600,46573,-58%,"-$1,662,804",0.0,-4.0,-15.0,3.0,GT
+370,D,2014-09-03 16:46:01,2014-08-29,GT,Szulc Jaime Cohen,"Pres, Latin America",M - OptEx,$12.49,87830,46573,-213%,"+$1,096,602",0.0,-4.0,-15.0,3.0,GT
+371,D,2014-08-12 16:17:54,2014-08-11,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$24.89,-2560,15294,-14%,"-$63,718",1.0,4.0,2.0,6.0,GT
+372,D,2014-08-12 16:17:54,2014-08-11,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",M - OptEx,$15.43,3169,15294,+26%,"+$48,898",1.0,4.0,2.0,6.0,GT
+373,,2014-08-07 16:17:09,2014-08-06,GT,Geissler Werner,Dir,P - Purchase,$24.39,15000,15000,New,"+$365,786",2.0,2.0,4.0,4.0,GT
+374,D,2014-07-23 16:35:07,2014-07-22,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$28.15,-874,368854,0%,"-$24,603",0.0,-3.0,-10.0,-10.0,GT
+375,D,2014-07-23 16:35:07,2014-07-22,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$27.93,875,368854,0%,"+$24,439",0.0,-3.0,-10.0,-10.0,GT
+376,D,2014-07-17 17:08:23,2014-07-16,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$28.10,-6332,368853,-2%,"-$177,929",2.0,3.0,-9.0,-7.0,GT
+377,D,2014-07-17 17:08:23,2014-07-16,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$27.93,6339,368853,+2%,"+$177,048",2.0,3.0,-9.0,-7.0,GT
+378,D,2014-07-02 16:07:23,2014-07-01,GT,Wells Darren R,"Pres, EMEA",F - Tax,$28.00,-16360,94954,-15%,"-$458,080",0.0,0.0,-9.0,3.0,GT
+379,D,2014-07-02 16:07:23,2014-07-01,GT,Wells Darren R,"Pres, EMEA",M - OptEx,$15.46,21300,94954,+29%,"+$329,337",0.0,0.0,-9.0,3.0,GT
+380,,2014-06-17 17:17:09,2014-06-13,GT,Ruocco Joseph B,"SVP, Global Human Res",S - Sale,$26.16,-41055,0,-100%,"-$1,074,032",0.0,1.0,3.0,-2.0,GT
+381,,2014-06-12 12:53:27,2014-06-10,GT,Morell Michael J,Dir,P - Purchase,$26.80,350,1100,+47%,"+$9,380",-2.0,4.0,6.0,4.0,GT
+382,D,2014-06-12 12:52:04,2014-06-11,GT,Wells Darren R,"Pres, EMEA",F - Tax,$26.56,-37900,90015,-30%,"-$1,006,453",-2.0,4.0,6.0,4.0,GT
+383,D,2014-06-12 12:52:04,2014-06-11,GT,Wells Darren R,"Pres, EMEA",M - OptEx,$4.81,63874,90015,+244%,"+$307,234",-2.0,4.0,6.0,4.0,GT
+384,,2014-06-06 16:25:24,2014-02-19,GT,Ruocco Joseph B,"SVP, Global Human Res",G - Gift,$0.00,-4000,41055,-9%,-$0,-1.0,-6.0,0.0,1.0,GT
+385,,2014-06-06 16:25:24,2014-06-04,GT,Ruocco Joseph B,"SVP, Global Human Res",S - Sale,$26.40,-61799,41055,-60%,"-$1,631,382",-1.0,-6.0,0.0,1.0,GT
+386,D,2014-06-06 16:24:11,2014-06-04,GT,Noechel Richard J,"VP, Controller",F - Tax,$26.45,-11500,32331,-26%,"-$304,119",-1.0,-6.0,0.0,1.0,GT
+387,D,2014-06-06 16:24:11,2014-06-04,GT,Noechel Richard J,"VP, Controller",M - OptEx,$11.06,16378,32331,+103%,"+$181,220",-1.0,-6.0,0.0,1.0,GT
+388,D,2014-06-06 16:24:11,2014-06-04,GT,Noechel Richard J,"VP, Controller",S - Sale+OE,$26.45,-22000,32331,-40%,"-$581,792",-1.0,-6.0,0.0,1.0,GT
+389,D,2014-03-14 16:23:18,2014-03-12,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$26.96,-117100,368845,-24%,"-$3,157,016",0.0,0.0,-8.0,-8.0,GT
+390,D,2014-03-14 16:23:18,2014-03-12,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$6.70,191547,368845,+108%,"+$1,283,635",0.0,0.0,-8.0,-8.0,GT
+391,D,2014-03-13 16:13:25,2014-03-11,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$27.56,-40260,80279,-33%,"-$1,109,566",2.0,2.0,-5.0,-6.0,GT
+392,D,2014-03-13 16:13:25,2014-03-11,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$12.74,55598,80279,+225%,"+$708,319",2.0,2.0,-5.0,-6.0,GT
+393,D,2014-03-11 16:38:25,2014-03-07,GT,Kihn Jean Claude,SVP,F - Tax,$27.66,-5020,33072,-13%,"-$138,853",0.0,0.0,-7.0,-7.0,GT
+394,D,2014-03-11 16:38:25,2014-03-07,GT,Kihn Jean Claude,SVP,M - OptEx,$12.54,7000,33072,+27%,"+$87,780",0.0,0.0,-7.0,-7.0,GT
+395,D,2014-03-07 16:28:07,2014-03-05,GT,McClellan Stephen R,"Pres, North America",F - Tax,$27.51,-5550,47353,-10%,"-$152,681",1.0,-3.0,-7.0,-6.0,GT
+396,D,2014-03-07 16:28:07,2014-03-05,GT,McClellan Stephen R,"Pres, North America",M - OptEx,$12.54,9100,47353,+24%,"+$114,114",1.0,-3.0,-7.0,-6.0,GT
+397,,2014-03-07 16:26:40,2014-03-06,GT,Morell Michael J,Dir,P - Purchase,$27.76,750,750,New,"+$20,820",1.0,-3.0,-7.0,-6.0,GT
+398,D,2014-03-05 17:50:12,2014-03-03,GT,De Bok Arthur,SVP,F - Tax,$26.36,-41417,6911,-86%,"-$1,091,690",2.0,-1.0,-3.0,-6.0,GT
+399,D,2014-03-05 17:50:12,2014-03-03,GT,De Bok Arthur,SVP,M - OptEx,$13.13,82835,6911,-109%,"+$1,087,524",2.0,-1.0,-3.0,-6.0,GT
+400,D,2014-03-05 17:50:12,2014-03-03,GT,De Bok Arthur,SVP,S - Sale+OE,$26.36,-141523,6911,-95%,"-$3,730,334",2.0,-1.0,-3.0,-6.0,GT
+401,D,2014-03-04 17:12:48,2014-02-28,GT,Ruocco Joseph B,"SVP, Global Human Res",F - Tax,$26.81,-67559,106854,-39%,"-$1,811,453",0.0,2.0,-1.0,-5.0,GT
+402,D,2014-03-04 17:12:48,2014-02-28,GT,Ruocco Joseph B,"SVP, Global Human Res",M - OptEx,$15.93,85576,106854,+402%,"+$1,363,015",0.0,2.0,-1.0,-5.0,GT
+403,D,2014-03-04 17:12:48,2014-02-28,GT,Ruocco Joseph B,"SVP, Global Human Res",S - Sale+OE,$26.81,-13217,106854,-11%,"-$354,386",0.0,2.0,-1.0,-5.0,GT
+404,D,2014-02-25 17:31:27,2014-02-21,GT,McClellan Stephen R,"Pres, North America",F - Tax,$26.54,-2212,43773,-5%,"-$58,706",-1.0,1.0,-1.0,-5.0,GT
+405,D,2014-02-25 17:31:27,2014-02-21,GT,McClellan Stephen R,"Pres, North America",M - OptEx,$0.00,6681,43773,+18%,+$0,-1.0,1.0,-1.0,-5.0,GT
+406,D,2014-02-25 17:29:05,2014-02-21,GT,De Bok Arthur,SVP,M - OptEx,$0.00,6681,107016,+7%,+$0,-1.0,1.0,-1.0,-5.0,GT
+407,D,2014-02-25 17:26:29,2014-02-21,GT,Wells Darren R,"Pres, EMEA",F - Tax,$26.54,-2212,64040,-3%,"-$58,706",-1.0,1.0,-1.0,-5.0,GT
+408,D,2014-02-25 17:26:29,2014-02-21,GT,Wells Darren R,"Pres, EMEA",M - OptEx,$0.00,6681,64040,+12%,+$0,-1.0,1.0,-1.0,-5.0,GT
+409,D,2014-02-25 17:22:46,2014-02-21,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",F - Tax,$26.54,-2315,27418,-8%,"-$61,440",-1.0,1.0,-1.0,-5.0,GT
+410,D,2014-02-25 17:22:46,2014-02-21,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",M - OptEx,$0.00,5011,27418,+22%,+$0,-1.0,1.0,-1.0,-5.0,GT
+411,D,2014-02-25 17:20:23,2014-02-21,GT,Noechel Richard J,"VP, Controller",F - Tax,$26.54,-1659,49453,-3%,"-$44,030",-1.0,1.0,-1.0,-5.0,GT
+412,D,2014-02-25 17:20:23,2014-02-21,GT,Noechel Richard J,"VP, Controller",M - OptEx,$0.00,5011,49453,+11%,+$0,-1.0,1.0,-1.0,-5.0,GT
+413,D,2014-02-25 17:17:56,2014-02-21,GT,Kihn Jean Claude,SVP,F - Tax,$26.54,-3076,31010,-9%,"-$81,637",-1.0,1.0,-1.0,-5.0,GT
+414,D,2014-02-25 17:17:56,2014-02-21,GT,Kihn Jean Claude,SVP,M - OptEx,$0.00,6681,31010,+27%,+$0,-1.0,1.0,-1.0,-5.0,GT
+415,,2014-02-21 16:41:48,2014-02-19,GT,Ruocco Joseph B,"SVP, Global Human Res",S - Sale,$26.62,-92884,102054,-48%,"-$2,472,386",0.0,1.0,1.0,-4.0,GT
+416,D,2014-02-21 16:38:26,2014-02-20,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",F - Tax,$26.73,-12490,24722,-34%,"-$333,858",0.0,1.0,1.0,-4.0,GT
+417,D,2014-02-21 16:38:26,2014-02-20,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",M - OptEx,$8.24,19440,24722,+368%,"+$160,223",0.0,1.0,1.0,-4.0,GT
+418,D,2014-02-21 16:36:35,2014-02-19,GT,Noechel Richard J,"VP, Controller",F - Tax,$26.60,-23150,46101,-33%,"-$615,790",0.0,1.0,1.0,-4.0,GT
+419,D,2014-02-21 16:36:35,2014-02-19,GT,Noechel Richard J,"VP, Controller",M - OptEx,$7.86,45750,46101,>999%,"+$359,793",0.0,1.0,1.0,-4.0,GT
+420,D,2014-02-10 17:42:08,2014-02-06,GT,Wells Darren R,"Pres, EMEA",F - Tax,$23.23,-7064,59571,-11%,"-$164,097",2.0,14.0,16.0,6.0,GT
+421,D,2014-02-10 17:42:08,2014-02-06,GT,Wells Darren R,"Pres, EMEA",M - OptEx,$0.00,21027,59571,+55%,+$0,2.0,14.0,16.0,6.0,GT
+422,D,2014-02-10 17:40:42,2014-02-06,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",F - Tax,$23.23,-1825,14685,-11%,"-$42,395",2.0,14.0,16.0,6.0,GT
+423,D,2014-02-10 17:40:42,2014-02-06,GT,Thompson Laura K,"EVP, Chief Fin Ofcr",M - OptEx,$0.00,5025,14685,+52%,+$0,2.0,14.0,16.0,6.0,GT
+424,D,2014-02-10 17:38:51,2014-02-06,GT,Szulc Jaime Cohen,"Pres, Latin America",F - Tax,$23.23,-4972,23343,-18%,"-$115,500",2.0,14.0,16.0,6.0,GT
+425,D,2014-02-10 17:38:51,2014-02-06,GT,Szulc Jaime Cohen,"Pres, Latin America",M - OptEx,$0.00,10351,23343,+80%,+$0,2.0,14.0,16.0,6.0,GT
+426,D,2014-02-10 17:37:13,2014-02-06,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",F - Tax,$23.23,-5946,17772,-25%,"-$138,126",2.0,14.0,16.0,6.0,GT
+427,D,2014-02-10 17:37:13,2014-02-06,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",M - OptEx,$0.00,12556,17772,+241%,+$0,2.0,14.0,16.0,6.0,GT
+428,D,2014-02-10 17:35:29,2014-02-06,GT,Smith Gregory L,"SVP, Global Operations",F - Tax,$23.23,-6594,95470,-6%,"-$153,179",2.0,14.0,16.0,6.0,GT
+429,D,2014-02-10 17:35:29,2014-02-06,GT,Smith Gregory L,"SVP, Global Operations",M - OptEx,$0.00,19513,95470,+26%,+$0,2.0,14.0,16.0,6.0,GT
+430,D,2014-02-10 17:33:33,2014-02-06,GT,Ruocco Joseph B,"SVP, Global Human Res",F - Tax,$23.23,-5120,245994,-2%,"-$118,938",2.0,14.0,16.0,6.0,GT
+431,D,2014-02-10 17:33:33,2014-02-06,GT,Ruocco Joseph B,"SVP, Global Human Res",M - OptEx,$0.00,15048,245994,+7%,+$0,2.0,14.0,16.0,6.0,GT
+432,D,2014-02-10 17:32:03,2014-02-06,GT,Noechel Richard J,"VP, Controller",F - Tax,$23.23,-2669,23501,-10%,"-$62,001",2.0,14.0,16.0,6.0,GT
+433,D,2014-02-10 17:32:03,2014-02-06,GT,Noechel Richard J,"VP, Controller",M - OptEx,$0.00,7569,23501,+48%,+$0,2.0,14.0,16.0,6.0,GT
+434,D,2014-02-10 17:30:39,2014-02-06,GT,McClellan Stephen R,"Pres, North America",F - Tax,$23.23,-4583,39304,-10%,"-$106,463",2.0,14.0,16.0,6.0,GT
+435,D,2014-02-10 17:30:39,2014-02-06,GT,McClellan Stephen R,"Pres, North America",M - OptEx,$0.00,13419,39304,+52%,+$0,2.0,14.0,16.0,6.0,GT
+436,D,2014-02-10 17:26:08,2014-02-06,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$23.23,-31403,294399,-10%,"-$729,492",2.0,14.0,16.0,6.0,GT
+437,D,2014-02-10 17:26:08,2014-02-06,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,78935,294399,+37%,+$0,2.0,14.0,16.0,6.0,GT
+438,D,2014-02-10 17:24:00,2014-02-06,GT,Kihn Jean Claude,SVP,F - Tax,$23.23,-4027,27409,-13%,"-$93,547",2.0,14.0,16.0,6.0,GT
+439,D,2014-02-10 17:24:00,2014-02-06,GT,Kihn Jean Claude,SVP,M - OptEx,$0.00,8319,27409,+44%,+$0,2.0,14.0,16.0,6.0,GT
+440,D,2014-02-10 17:22:10,2014-02-06,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$23.23,-5574,64941,-8%,"-$129,484",2.0,14.0,16.0,6.0,GT
+441,D,2014-02-10 17:22:10,2014-02-06,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$0.00,16437,64941,+34%,+$0,2.0,14.0,16.0,6.0,GT
+442,D,2013-11-05 18:08:38,2013-11-01,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",F - Tax,$21.00,-8977,45609,-16%,"-$188,517",-2.0,0.0,1.0,18.0,GT
+443,D,2013-11-05 18:08:38,2013-11-01,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$10.02,12327,45609,+37%,"+$123,534",-2.0,0.0,1.0,18.0,GT
+444,D,2013-11-05 18:07:08,2013-11-01,GT,Ruocco Joseph B,"SVP, Global Human Res",F - Tax,$20.85,-117873,236161,-33%,"-$2,457,652",-2.0,0.0,1.0,18.0,GT
+445,D,2013-11-05 18:07:08,2013-11-01,GT,Ruocco Joseph B,"SVP, Global Human Res",M - OptEx,$8.60,169701,236161,+255%,"+$1,460,090",-2.0,0.0,1.0,18.0,GT
+446,D,2013-11-05 18:05:35,2013-11-01,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$21.00,-17220,246868,-7%,"-$361,620",-2.0,0.0,1.0,18.0,GT
+447,D,2013-11-05 18:05:35,2013-11-01,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$14.66,20425,246868,+9%,"+$299,443",-2.0,0.0,1.0,18.0,GT
+448,D,2013-11-05 18:04:08,2013-11-01,GT,Kihn Jean Claude,SVP,F - Tax,$20.74,-4165,23102,-15%,"-$86,382",-2.0,0.0,1.0,18.0,GT
+449,D,2013-11-05 18:04:08,2013-11-01,GT,Kihn Jean Claude,SVP,M - OptEx,$10.16,5627,23102,+32%,"+$57,153",-2.0,0.0,1.0,18.0,GT
+450,D,2013-11-05 18:02:51,2013-11-01,GT,De Bok Arthur,"Pres, EMEA",F - Tax,$20.78,-232746,195360,-54%,"-$4,836,462",-2.0,0.0,1.0,18.0,GT
+451,D,2013-11-05 18:02:51,2013-11-01,GT,De Bok Arthur,"Pres, EMEA",M - OptEx,$10.71,310190,195360,-270%,"+$3,323,220",-2.0,0.0,1.0,18.0,GT
+452,D,2013-11-05 18:02:51,2013-11-01,GT,De Bok Arthur,"Pres, EMEA",S - Sale+OE,$20.78,-57023,195360,-23%,"-$1,184,938",-2.0,0.0,1.0,18.0,GT
+453,,2013-10-08 16:35:17,2013-10-04,GT,Szulc Jaime Cohen,"Pres, Latin America",F - Tax,$23.01,-11359,17964,-39%,"-$261,371",1.0,3.0,-3.0,16.0,GT
+454,,2013-09-25 16:31:58,2013-09-23,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$22.11,-23189,54078,-30%,"-$512,709",-2.0,1.0,-5.0,10.0,GT
+455,D,2013-06-28 16:47:13,2013-06-26,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$5.52,2500,42261,+6%,"+$13,800",1.0,4.0,12.0,55.0,GT
+456,D,2013-06-04 16:48:31,2013-05-31,GT,Noechel Richard J,"VP, Controller",F - Tax,$15.45,-9628,18601,-34%,"-$148,753",-3.0,-2.0,2.0,47.0,GT
+457,D,2013-06-04 16:48:31,2013-05-31,GT,Noechel Richard J,"VP, Controller",M - OptEx,$11.19,11250,18601,+153%,"+$125,888",-3.0,-2.0,2.0,47.0,GT
+458,D,2013-05-22 16:35:12,2013-05-20,GT,McClellan Stephen R,"Pres, NAT",F - Tax,$14.77,-2890,30470,-9%,"-$42,685",1.0,5.0,2.0,48.0,GT
+459,D,2013-05-22 16:35:12,2013-05-20,GT,McClellan Stephen R,"Pres, NAT",M - OptEx,$6.81,4000,30470,+15%,"+$27,240",1.0,5.0,2.0,48.0,GT
+460,D,2013-02-26 17:48:26,2013-02-22,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",F - Tax,$13.45,-2316,11162,-17%,"-$31,150",0.0,-2.0,-1.0,46.0,GT
+461,D,2013-02-26 17:48:26,2013-02-22,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",M - OptEx,$0.00,5000,11162,+81%,+$0,0.0,-2.0,-1.0,46.0,GT
+462,D,2013-02-26 17:46:58,2013-02-22,GT,De Bok Arthur,"Pres, EMEA",F - Tax,$13.45,-3036,79914,-4%,"-$40,834",0.0,-2.0,-1.0,46.0,GT
+463,D,2013-02-26 17:46:58,2013-02-22,GT,De Bok Arthur,"Pres, EMEA",M - OptEx,$0.00,6667,79914,+9%,+$0,0.0,-2.0,-1.0,46.0,GT
+464,D,2013-02-26 17:45:19,2013-02-22,GT,Noechel Richard J,"VP, Controller",F - Tax,$13.45,-1611,16979,-9%,"-$21,668",0.0,-2.0,-1.0,46.0,GT
+465,D,2013-02-26 17:45:19,2013-02-22,GT,Noechel Richard J,"VP, Controller",M - OptEx,$0.00,5000,16979,+42%,+$0,0.0,-2.0,-1.0,46.0,GT
+466,D,2013-02-26 17:43:38,2013-02-22,GT,McClellan Stephen R,"Pres, NAT",F - Tax,$13.45,-2168,29302,-7%,"-$29,160",0.0,-2.0,-1.0,46.0,GT
+467,D,2013-02-26 17:43:38,2013-02-22,GT,McClellan Stephen R,"Pres, NAT",M - OptEx,$0.00,6667,29302,+29%,+$0,0.0,-2.0,-1.0,46.0,GT
+468,D,2013-02-26 17:42:04,2013-02-22,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",F - Tax,$13.45,-2207,39778,-5%,"-$29,684",0.0,-2.0,-1.0,46.0,GT
+469,D,2013-02-26 17:42:04,2013-02-22,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$0.00,6667,39778,+20%,+$0,0.0,-2.0,-1.0,46.0,GT
+470,D,2013-02-26 17:40:03,2013-02-22,GT,Kihn Jean Claude,SVP,F - Tax,$13.45,-3088,21517,-13%,"-$41,534",0.0,-2.0,-1.0,46.0,GT
+471,D,2013-02-26 17:40:03,2013-02-22,GT,Kihn Jean Claude,SVP,M - OptEx,$0.00,6667,21517,+45%,+$0,0.0,-2.0,-1.0,46.0,GT
+472,D,2013-02-11 17:26:50,2013-02-07,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",F - Tax,$13.53,-6049,35318,-15%,"-$81,843",0.0,1.0,-7.0,38.0,GT
+473,D,2013-02-11 17:26:50,2013-02-07,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$0.00,17661,35318,+100%,+$0,0.0,1.0,-7.0,38.0,GT
+474,D,2013-02-11 17:24:57,2013-02-07,GT,Szulc Jaime Cohen,"Pres, Latin America",F - Tax,$13.53,-5450,29323,-16%,"-$73,739",0.0,1.0,-7.0,38.0,GT
+475,D,2013-02-11 17:24:57,2013-02-07,GT,Szulc Jaime Cohen,"Pres, Latin America",M - OptEx,$0.00,11038,29323,+60%,+$0,0.0,1.0,-7.0,38.0,GT
+476,D,2013-02-11 17:20:15,2013-02-07,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",F - Tax,$13.53,-3428,8478,-29%,"-$46,381",0.0,1.0,-7.0,38.0,GT
+477,D,2013-02-11 17:20:15,2013-02-07,GT,Smytka Daniel L,"Pres, Asia-Pacific Region",M - OptEx,$0.00,6898,8478,+437%,+$0,0.0,1.0,-7.0,38.0,GT
+478,D,2013-02-11 17:18:31,2013-02-07,GT,Ruocco Joseph B,"SVP, Global Human Res",F - Tax,$13.53,-4483,184968,-2%,"-$60,655",0.0,1.0,-7.0,38.0,GT
+479,D,2013-02-11 17:18:31,2013-02-07,GT,Ruocco Joseph B,"SVP, Global Human Res",M - OptEx,$0.00,12975,184968,+8%,+$0,0.0,1.0,-7.0,38.0,GT
+480,D,2013-02-11 17:16:14,2013-02-07,GT,Noechel Richard J,"VP, Controller",F - Tax,$13.53,-2465,13590,-15%,"-$33,351",0.0,1.0,-7.0,38.0,GT
+481,D,2013-02-11 17:16:14,2013-02-07,GT,Noechel Richard J,"VP, Controller",M - OptEx,$0.00,6475,13590,+91%,+$0,0.0,1.0,-7.0,38.0,GT
+482,D,2013-02-11 17:14:04,2013-02-07,GT,McClellan Stephen R,"Pres, NAT",F - Tax,$13.53,-2224,24795,-8%,"-$30,091",0.0,1.0,-7.0,38.0,GT
+483,D,2013-02-11 17:14:04,2013-02-07,GT,McClellan Stephen R,"Pres, NAT",M - OptEx,$0.00,5875,24795,+31%,+$0,0.0,1.0,-7.0,38.0,GT
+484,D,2013-02-11 17:12:41,2013-02-07,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$13.53,-18752,243665,-7%,"-$253,715",0.0,1.0,-7.0,38.0,GT
+485,D,2013-02-11 17:12:41,2013-02-07,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,56514,243665,+30%,+$0,0.0,1.0,-7.0,38.0,GT
+486,D,2013-02-11 17:11:07,2013-02-07,GT,Kihn Jean Claude,SVP,F - Tax,$13.53,-3657,17908,-17%,"-$49,479",0.0,1.0,-7.0,38.0,GT
+487,D,2013-02-11 17:11:07,2013-02-07,GT,Kihn Jean Claude,SVP,M - OptEx,$0.00,7359,17908,+70%,+$0,0.0,1.0,-7.0,38.0,GT
+488,D,2013-02-11 17:09:28,2013-02-07,GT,De Bok Arthur,"Pres, EMEA",F - Tax,$13.53,-8603,76283,-10%,"-$116,399",0.0,1.0,-7.0,38.0,GT
+489,D,2013-02-11 17:09:28,2013-02-07,GT,De Bok Arthur,"Pres, EMEA",M - OptEx,$0.00,18897,76283,+33%,+$0,0.0,1.0,-7.0,38.0,GT
+490,D,2013-02-11 17:08:08,2013-02-07,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$13.53,-4987,77267,-6%,"-$67,474",0.0,1.0,-7.0,38.0,GT
+491,D,2013-02-11 17:08:08,2013-02-07,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$0.00,14422,77267,+23%,+$0,0.0,1.0,-7.0,38.0,GT
+492,D,2012-12-05 12:06:05,2012-12-03,GT,Kihn Jean Claude,SVP,F - Tax,$12.62,-3355,14180,-19%,"-$42,340",0.0,3.0,12.0,15.0,GT
+493,D,2012-12-05 12:06:05,2012-12-03,GT,Kihn Jean Claude,SVP,M - OptEx,$7.94,4200,14180,+42%,"+$33,348",0.0,3.0,12.0,15.0,GT
+494,D,2012-11-19 16:35:36,2012-11-15,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",F - Tax,$11.07,-11428,29305,-28%,"-$126,508",1.0,5.0,20.0,31.0,GT
+495,D,2012-11-19 16:35:36,2012-11-15,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$7.94,13000,29305,+80%,"+$103,220",1.0,5.0,20.0,31.0,GT
+496,,2012-09-25 15:51:40,2012-09-21,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$12.73,-11505,67832,-15%,"-$146,459",-5.0,-4.0,-4.0,-1.0,GT
+497,D,2012-09-14 14:04:53,2012-09-12,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$13.03,-2786,205904,-1%,"-$36,302",2.0,1.0,-8.0,0.0,GT
+498,D,2012-09-14 14:04:53,2012-09-12,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$12.21,2861,205904,+1%,"+$34,933",2.0,1.0,-8.0,0.0,GT
+499,D,2012-09-14 14:02:55,2012-09-12,GT,De Bok Arthur,"Pres, EMEA",F - Tax,$13.05,-10185,65989,-13%,"-$132,914",2.0,1.0,-8.0,0.0,GT
+500,D,2012-09-14 14:02:55,2012-09-12,GT,De Bok Arthur,"Pres, EMEA",M - OptEx,$7.94,13500,65989,+26%,"+$107,190",2.0,1.0,-8.0,0.0,GT
+501,,2012-08-07 15:23:20,2012-08-04,GT,McClellan Stephen R,"Pres, NAT",F - Tax,$11.16,-5817,21134,-22%,"-$64,918",2.0,5.0,11.0,20.0,GT
+502,,2012-02-23 17:18:53,2012-02-21,GT,De Bok Arthur,"Pres, EMEA",F - Tax,$13.60,-12235,62674,-16%,"-$166,396",-1.0,-3.0,,,GT
+503,D,2012-02-08 17:42:22,2012-02-06,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",F - Tax,$13.98,-5026,27731,-15%,"-$70,263",2.0,-5.0,-11.0,,GT
+504,D,2012-02-08 17:42:22,2012-02-06,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$0.00,15000,27731,+118%,+$0,2.0,-5.0,-11.0,,GT
+505,D,2012-02-08 17:40:41,2012-02-06,GT,Rzonzef Michel,"VP, EMEA",F - Tax,$13.98,-2227,8626,-21%,"-$31,133",2.0,-5.0,-11.0,,GT
+506,D,2012-02-08 17:40:41,2012-02-06,GT,Rzonzef Michel,"VP, EMEA",M - OptEx,$0.00,5440,8626,+171%,+$0,2.0,-5.0,-11.0,,GT
+507,D,2012-02-08 17:38:46,2012-02-06,GT,Ruocco Joseph B,"SVP, Global Human Res, Comm",F - Tax,$13.98,-4357,176428,-2%,"-$60,911",2.0,-5.0,-11.0,,GT
+508,D,2012-02-08 17:38:46,2012-02-06,GT,Ruocco Joseph B,"SVP, Global Human Res, Comm",M - OptEx,$0.00,12879,176428,+8%,+$0,2.0,-5.0,-11.0,,GT
+509,D,2012-02-08 17:33:47,2012-02-06,GT,Purtilar Mark Wayne,"VP, Chief Procurement Ofcr",F - Tax,$13.98,-1225,16682,-7%,"-$17,126",2.0,-5.0,-11.0,,GT
+510,D,2012-02-08 17:33:47,2012-02-06,GT,Purtilar Mark Wayne,"VP, Chief Procurement Ofcr",M - OptEx,$0.00,3364,16682,+25%,+$0,2.0,-5.0,-11.0,,GT
+511,D,2012-02-08 17:32:14,2012-02-06,GT,Noechel Richard J,"VP, Controller",F - Tax,$13.98,-1833,9580,-16%,"-$25,625",2.0,-5.0,-11.0,,GT
+512,D,2012-02-08 17:32:14,2012-02-06,GT,Noechel Richard J,"VP, Controller",M - OptEx,$0.00,5035,9580,+111%,+$0,2.0,-5.0,-11.0,,GT
+513,D,2012-02-08 17:30:45,2012-02-06,GT,McClellan Stephen R,"Pres, NAT",F - Tax,$13.98,-2488,26877,-8%,"-$34,782",2.0,-5.0,-11.0,,GT
+514,D,2012-02-08 17:30:45,2012-02-06,GT,McClellan Stephen R,"Pres, NAT",M - OptEx,$0.00,7077,26877,+36%,+$0,2.0,-5.0,-11.0,,GT
+515,D,2012-02-08 17:28:22,2012-02-06,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",F - Tax,$13.98,-8768,205827,-4%,"-$122,577",2.0,-5.0,-11.0,,GT
+516,D,2012-02-08 17:28:22,2012-02-06,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,26731,205827,+15%,+$0,2.0,-5.0,-11.0,,GT
+517,D,2012-02-08 17:26:13,2012-02-06,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",F - Tax,$13.98,-2402,13145,-15%,"-$33,580",2.0,-5.0,-11.0,,GT
+518,D,2012-02-08 17:26:13,2012-02-06,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",M - OptEx,$0.00,6730,13145,+105%,+$0,2.0,-5.0,-11.0,,GT
+519,D,2012-02-08 17:24:37,2012-02-06,GT,Jasinowski Isabel H,VP Gov Rel,F - Tax,$13.98,-1215,14785,-8%,"-$16,986",2.0,-5.0,-11.0,,GT
+520,D,2012-02-08 17:24:37,2012-02-06,GT,Jasinowski Isabel H,VP Gov Rel,M - OptEx,$0.00,3505,14785,+31%,+$0,2.0,-5.0,-11.0,,GT
+521,D,2012-02-08 17:22:32,2012-02-06,GT,De Bok Arthur,"Pres, EMEA",F - Tax,$13.98,-6427,74909,-8%,"-$89,849",2.0,-5.0,-11.0,,GT
+522,D,2012-02-08 17:22:32,2012-02-06,GT,De Bok Arthur,"Pres, EMEA",M - OptEx,$0.00,15703,74909,+27%,+$0,2.0,-5.0,-11.0,,GT
+523,D,2012-02-08 17:20:40,2012-02-06,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$13.98,-1919,79337,-2%,"-$26,828",2.0,-5.0,-11.0,,GT
+524,D,2012-02-08 17:20:40,2012-02-06,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$0.00,5337,79337,+7%,+$0,2.0,-5.0,-11.0,,GT
+525,D,2012-02-08 17:19:24,2012-02-06,GT,Audia Damon J,"SVP of Finance, Asia Pacific",F - Tax,$13.98,-2485,11152,-18%,"-$34,740",2.0,-5.0,-11.0,,GT
+526,D,2012-02-08 17:19:24,2012-02-06,GT,Audia Damon J,"SVP of Finance, Asia Pacific",M - OptEx,$0.00,5335,11152,+92%,+$0,2.0,-5.0,-11.0,,GT
+527,D,2011-10-26 16:32:55,2011-10-24,GT,Smith Gregory L,"SVP, Global Operations",A - Grant,$0.01,32551,82551,+65%,+$326,5.0,1.0,-11.0,,GT
+528,D,2011-05-12 15:05:12,2011-05-11,GT,Purtilar Mark Wayne,"VP, Chief Procurement Ofcr",F - Tax,$17.82,-9843,14543,-40%,"-$175,415",1.0,-2.0,-16.0,-20.0,GT
+529,D,2011-05-12 15:05:12,2011-05-11,GT,Purtilar Mark Wayne,"VP, Chief Procurement Ofcr",M - OptEx,$6.37,17260,14543,-635%,"+$110,014",1.0,-2.0,-16.0,-20.0,GT
+530,D,2011-03-02 15:17:13,2011-02-28,GT,Connell Thomas A,"Vice Pres, Controller",F - Tax,$14.02,-12179,38826,-24%,"-$170,753",2.0,3.0,9.0,-9.0,GT
+531,D,2011-03-02 15:17:13,2011-02-28,GT,Connell Thomas A,"Vice Pres, Controller",M - OptEx,$7.66,17320,38826,+81%,"+$132,610",2.0,3.0,9.0,-9.0,GT
+532,,2011-02-23 15:18:45,2011-02-21,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$14.95,-7919,107509,-7%,"-$118,389",-2.0,-1.0,7.0,-23.0,GT
+533,,2011-02-23 15:17:14,2011-02-21,GT,De Bok Arthur,"Pres, EMEA",F - Tax,$14.95,-11616,65633,-15%,"-$173,659",-2.0,-1.0,7.0,-23.0,GT
+534,,2011-02-23 15:17:14,2011-01-28,GT,De Bok Arthur,"Pres, EMEA",P - Purchase,$12.27,1280,65633,+2%,"+$15,706",-2.0,-1.0,7.0,-23.0,GT
+535,D,2011-02-22 11:17:40,2011-02-17,GT,Connell Thomas A,"Vice Pres, Controller",F - Tax,$14.81,-3883,33685,-10%,"-$57,507",-7.0,-5.0,1.0,-27.0,GT
+536,D,2011-02-22 11:17:40,2011-02-17,GT,Connell Thomas A,"Vice Pres, Controller",M - OptEx,$12.54,4375,33685,+15%,"+$54,863",-7.0,-5.0,1.0,-27.0,GT
+537,D,2011-02-09 17:32:20,2011-02-07,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",D - Sale to issuer,$11.88,-3539,17758,-17%,"-$42,057",14.0,15.0,12.0,-1.0,GT
+538,D,2011-02-09 17:32:20,2011-02-07,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$0.00,7077,17758,+66%,+$0,14.0,15.0,12.0,-1.0,GT
+539,D,2011-02-09 17:31:08,2011-02-07,GT,Sinclair Charles L,Sr Vice Pres Global Comm,D - Sale to issuer,$11.90,-1119,17858,-6%,"-$13,316",14.0,15.0,12.0,-1.0,GT
+540,D,2011-02-09 17:31:08,2011-02-07,GT,Sinclair Charles L,Sr Vice Pres Global Comm,M - OptEx,$0.00,2237,17858,+14%,+$0,14.0,15.0,12.0,-1.0,GT
+541,D,2011-02-09 17:30:06,2011-02-07,GT,Rzonzef Michel,"Pres, EEME, A Countries",D - Sale to issuer,$11.90,-1814,5413,-25%,"-$21,587",14.0,15.0,12.0,-1.0,GT
+542,D,2011-02-09 17:30:06,2011-02-07,GT,Rzonzef Michel,"Pres, EEME, A Countries",M - OptEx,$0.00,3627,5413,+203%,+$0,14.0,15.0,12.0,-1.0,GT
+543,D,2011-02-09 17:29:08,2011-02-07,GT,Ruocco Joseph B,"Sr Vice Pres, HR",D - Sale to issuer,$11.85,-4293,168243,-2%,"-$50,872",14.0,15.0,12.0,-1.0,GT
+544,D,2011-02-09 17:29:08,2011-02-07,GT,Ruocco Joseph B,"Sr Vice Pres, HR",M - OptEx,$0.00,8586,168243,+5%,+$0,14.0,15.0,12.0,-1.0,GT
+545,D,2011-02-09 17:28:14,2011-02-07,GT,Purtilar Mark Wayne,"VP, Chief Procurement Ofcr",D - Sale to issuer,$11.90,-1122,7126,-14%,"-$13,352",14.0,15.0,12.0,-1.0,GT
+546,D,2011-02-09 17:28:14,2011-02-07,GT,Purtilar Mark Wayne,"VP, Chief Procurement Ofcr",M - OptEx,$0.00,2243,7126,+46%,+$0,14.0,15.0,12.0,-1.0,GT
+547,D,2011-02-09 17:27:14,2011-02-07,GT,Noechel Richard J,"VP, Finance NAT",D - Sale to issuer,$11.90,-1679,6378,-21%,"-$19,980",14.0,15.0,12.0,-1.0,GT
+548,D,2011-02-09 17:27:14,2011-02-07,GT,Noechel Richard J,"VP, Finance NAT",M - OptEx,$0.00,3357,6378,+111%,+$0,14.0,15.0,12.0,-1.0,GT
+549,D,2011-02-09 17:25:23,2011-02-07,GT,McClellan Stephen R,"Pres, NAT Consumer Business",D - Sale to issuer,$11.90,-2359,22220,-10%,"-$28,072",14.0,15.0,12.0,-1.0,GT
+550,D,2011-02-09 17:25:23,2011-02-07,GT,McClellan Stephen R,"Pres, NAT Consumer Business",M - OptEx,$0.00,4718,22220,+27%,+$0,14.0,15.0,12.0,-1.0,GT
+551,D,2011-02-09 17:23:42,2011-02-07,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",D - Sale to issuer,$11.90,-8056,187866,-4%,"-$95,866",14.0,15.0,12.0,-1.0,GT
+552,D,2011-02-09 17:23:42,2011-02-07,GT,Kramer Richard J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,16111,187866,+9%,+$0,14.0,15.0,12.0,-1.0,GT
+553,D,2011-02-09 17:22:22,2011-02-07,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",D - Sale to issuer,$11.90,-2244,8654,-21%,"-$26,704",14.0,15.0,12.0,-1.0,GT
+554,D,2011-02-09 17:22:22,2011-02-07,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",M - OptEx,$0.00,4487,8654,+108%,+$0,14.0,15.0,12.0,-1.0,GT
+555,D,2011-02-09 17:20:34,2011-02-07,GT,Jasinowski Isabel H,VP Gov Rel,D - Sale to issuer,$11.90,-1169,12514,-9%,"-$13,911",14.0,15.0,12.0,-1.0,GT
+556,D,2011-02-09 17:20:34,2011-02-07,GT,Jasinowski Isabel H,VP Gov Rel,M - OptEx,$0.00,2337,12514,+23%,+$0,14.0,15.0,12.0,-1.0,GT
+557,D,2011-02-09 17:19:23,2011-02-07,GT,De Bok Arthur,"Pres, EMEA",D - Sale to issuer,$11.90,-5235,75969,-6%,"-$62,297",14.0,15.0,12.0,-1.0,GT
+558,D,2011-02-09 17:19:23,2011-02-07,GT,De Bok Arthur,"Pres, EMEA",M - OptEx,$0.00,10469,75969,+16%,+$0,14.0,15.0,12.0,-1.0,GT
+559,D,2011-02-09 17:18:23,2011-02-07,GT,Connell Thomas A,"Vice Pres, Controller",D - Sale to issuer,$11.90,-2185,33193,-6%,"-$26,002",14.0,15.0,12.0,-1.0,GT
+560,D,2011-02-09 17:18:23,2011-02-07,GT,Connell Thomas A,"Vice Pres, Controller",M - OptEx,$0.00,4370,33193,+15%,+$0,14.0,15.0,12.0,-1.0,GT
+561,D,2011-02-09 17:15:43,2011-02-07,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",D - Sale to issuer,$11.90,-3914,115428,-3%,"-$46,577",14.0,15.0,12.0,-1.0,GT
+562,D,2011-02-09 17:15:43,2011-02-07,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$0.00,7827,115428,+7%,+$0,14.0,15.0,12.0,-1.0,GT
+563,D,2011-02-09 17:14:15,2011-02-07,GT,Audia Damon J,"SVP of Finance, Asia Pacific",D - Sale to issuer,$11.90,-1779,8246,-18%,"-$21,170",14.0,15.0,12.0,-1.0,GT
+564,D,2011-02-09 17:14:15,2011-02-07,GT,Audia Damon J,"SVP of Finance, Asia Pacific",M - OptEx,$0.00,3558,8246,+76%,+$0,14.0,15.0,12.0,-1.0,GT
+565,D,2011-01-24 15:56:38,2011-01-20,GT,Purtilar Mark Wayne,"VP, Chief Procurement Ofcr",F - Tax,$11.72,-764,6005,-11%,"-$8,954",2.0,1.0,20.0,54.0,GT
+566,D,2011-01-24 15:56:38,2011-01-20,GT,Purtilar Mark Wayne,"VP, Chief Procurement Ofcr",M - OptEx,$0.00,2678,6005,+80%,+$0,2.0,1.0,20.0,54.0,GT
+567,D,2011-01-24 15:54:38,2011-01-20,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$11.72,-4938,111515,-4%,"-$57,873",2.0,1.0,20.0,54.0,GT
+568,D,2011-01-24 15:54:38,2011-01-20,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$0.00,12383,111515,+12%,+$0,2.0,1.0,20.0,54.0,GT
+569,D,2010-10-07 15:57:28,2010-10-05,GT,Szulc Jaime Cohen,"Pres, Latin America",A - Grant,$0.01,23735,23735,New,+$237,0.0,9.0,-4.0,39.0,GT
+570,,2010-10-05 14:00:37,2010-10-02,GT,Purtilar Mark Wayne,"VP, Chief Procurement Ofcr",F - Tax,$10.93,-1609,4091,-28%,"-$17,586",3.0,12.0,-5.0,42.0,GT
+571,,2010-10-01 15:03:09,2010-09-30,GT,Keegan Robert J,Exec COB,F - Tax,$10.75,-82733,494140,-14%,"-$889,380",1.0,2.0,-5.0,39.0,GT
+572,D,2010-09-09 17:15:42,2010-09-08,GT,Connell Thomas A,"Vice Pres, Controller",F - Tax,$9.75,-7427,31008,-19%,"-$72,413",2.0,7.0,9.0,43.0,GT
+573,D,2010-09-09 17:15:42,2010-09-08,GT,Connell Thomas A,"Vice Pres, Controller",M - OptEx,$4.81,11103,31008,+56%,"+$53,405",2.0,7.0,9.0,43.0,GT
+574,,2010-08-27 16:40:01,2010-08-26,GT,Ruocco Joseph B,"Sr Vice Pres, HR",F - Tax,$9.61,-35058,164598,-18%,"-$336,907",-4.0,5.0,12.0,44.0,GT
+575,,2010-08-06 16:47:49,2010-08-05,GT,Ruocco Joseph B,"Sr Vice Pres, HR",F - Tax,$11.45,-15421,199375,-7%,"-$176,570",0.0,-10.0,-7.0,10.0,GT
+576,D,2010-02-25 18:42:11,2010-02-25,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",D - Sale to issuer,$14.28,-2350,14221,-14%,"-$33,558",2.0,4.0,3.0,-26.0,GT
+577,D,2010-02-25 18:42:11,2010-02-25,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$0.00,4700,14221,+49%,+$0,2.0,4.0,3.0,-26.0,GT
+578,D,2010-02-25 18:40:48,2010-02-25,GT,Sinclair Charles L,Sr Vice Pres Global Comm,D - Sale to issuer,$14.28,-1100,7584,-13%,"-$15,708",2.0,4.0,3.0,-26.0,GT
+579,D,2010-02-25 18:40:48,2010-02-25,GT,Sinclair Charles L,Sr Vice Pres Global Comm,M - OptEx,$0.00,2200,7584,+41%,+$0,2.0,4.0,3.0,-26.0,GT
+580,D,2010-02-25 18:39:47,2010-02-25,GT,Rzonzef Michel,"Pres, EEME, A Countries",D - Sale to issuer,$14.28,-1800,3600,-33%,"-$25,704",2.0,4.0,3.0,-26.0,GT
+581,D,2010-02-25 18:39:47,2010-02-25,GT,Rzonzef Michel,"Pres, EEME, A Countries",M - OptEx,$0.00,3600,3600,New,+$0,2.0,4.0,3.0,-26.0,GT
+582,D,2010-02-25 18:35:44,2010-02-25,GT,Noechel Richard J,"VP, Finance NAT",D - Sale to issuer,$14.28,-3000,4700,-39%,"-$42,840",2.0,4.0,3.0,-26.0,GT
+583,D,2010-02-25 18:35:44,2010-02-25,GT,Noechel Richard J,"VP, Finance NAT",M - OptEx,$0.00,6000,4700,-462%,+$0,2.0,4.0,3.0,-26.0,GT
+584,D,2010-02-25 18:34:36,2010-02-25,GT,McClellan Stephen R,"Pres, NAT Consumer Business",D - Sale to issuer,$14.28,-2700,19791,-12%,"-$38,556",2.0,4.0,3.0,-26.0,GT
+585,D,2010-02-25 18:34:36,2010-02-25,GT,McClellan Stephen R,"Pres, NAT Consumer Business",M - OptEx,$0.00,5400,19791,+38%,+$0,2.0,4.0,3.0,-26.0,GT
+586,D,2010-02-25 18:33:20,2010-02-25,GT,Kramer Richard J,COO,D - Sale to issuer,$14.28,-7925,179812,-4%,"-$113,169",2.0,4.0,3.0,-26.0,GT
+587,D,2010-02-25 18:33:20,2010-02-25,GT,Kramer Richard J,COO,M - OptEx,$0.00,15850,179812,+10%,+$0,2.0,4.0,3.0,-26.0,GT
+588,D,2010-02-25 18:32:01,2010-02-25,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",D - Sale to issuer,$14.28,-2100,6222,-25%,"-$29,988",2.0,4.0,3.0,-26.0,GT
+589,D,2010-02-25 18:32:01,2010-02-25,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",M - OptEx,$0.00,4200,6222,+208%,+$0,2.0,4.0,3.0,-26.0,GT
+590,D,2010-02-25 18:30:36,2010-02-23,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",A - Grant,$0.01,196232,576871,+52%,"+$1,962",2.0,4.0,3.0,-26.0,GT
+591,D,2010-02-25 18:30:36,2010-02-25,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",D - Sale to issuer,$14.28,-10000,576871,-2%,"-$142,800",2.0,4.0,3.0,-26.0,GT
+592,D,2010-02-25 18:30:36,2010-02-25,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,20000,576871,+4%,+$0,2.0,4.0,3.0,-26.0,GT
+593,D,2010-02-25 18:29:27,2010-02-25,GT,Jasinowski Isabel H,VP Gov Rel,D - Sale to issuer,$14.28,-1150,11361,-9%,"-$16,422",2.0,4.0,3.0,-26.0,GT
+594,D,2010-02-25 18:29:27,2010-02-25,GT,Jasinowski Isabel H,VP Gov Rel,M - OptEx,$0.00,2300,11361,+25%,+$0,2.0,4.0,3.0,-26.0,GT
+595,D,2010-02-25 18:28:29,2010-02-25,GT,Fortunato Eduardo A,"Pres, Latin America Reg",D - Sale to issuer,$14.28,-2950,15115,-16%,"-$42,126",2.0,4.0,3.0,-26.0,GT
+596,D,2010-02-25 18:28:29,2010-02-25,GT,Fortunato Eduardo A,"Pres, Latin America Reg",M - OptEx,$0.00,5900,15115,+64%,+$0,2.0,4.0,3.0,-26.0,GT
+597,D,2010-02-25 18:24:56,2010-02-25,GT,De Bok Arthur,"Pres, EMEA",D - Sale to issuer,$14.28,-5150,70735,-7%,"-$73,542",2.0,4.0,3.0,-26.0,GT
+598,D,2010-02-25 18:24:56,2010-02-25,GT,De Bok Arthur,"Pres, EMEA",M - OptEx,$0.00,10300,70735,+17%,+$0,2.0,4.0,3.0,-26.0,GT
+599,D,2010-02-25 18:23:57,2010-02-25,GT,Connell Thomas A,"Vice Pres, Controller",D - Sale to issuer,$14.28,-2150,27332,-7%,"-$30,702",2.0,4.0,3.0,-26.0,GT
+600,D,2010-02-25 18:23:57,2010-02-25,GT,Connell Thomas A,"Vice Pres, Controller",M - OptEx,$0.00,4300,27332,+19%,+$0,2.0,4.0,3.0,-26.0,GT
+601,D,2010-02-25 18:22:37,2010-02-25,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",D - Sale to issuer,$14.28,-3850,104070,-4%,"-$54,978",2.0,4.0,3.0,-26.0,GT
+602,D,2010-02-25 18:22:37,2010-02-25,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$0.00,7700,104070,+8%,+$0,2.0,4.0,3.0,-26.0,GT
+603,D,2010-02-25 18:19:06,2010-02-25,GT,Audia Damon J,"SVP of Finance, Treasurer",D - Sale to issuer,$14.28,-1750,6406,-21%,"-$24,990",2.0,4.0,3.0,-26.0,GT
+604,D,2010-02-25 18:19:06,2010-02-25,GT,Audia Damon J,"SVP of Finance, Treasurer",M - OptEx,$0.00,3500,6406,+120%,+$0,2.0,4.0,3.0,-26.0,GT
+605,D,2010-02-25 18:16:31,2010-02-23,GT,Andersson Curt J,"Pres, NAT",A - Grant,$0.01,62794,63294,>999%,+$628,2.0,4.0,3.0,-26.0,GT
+606,D,2009-11-23 15:20:00,2009-11-19,GT,Kramer Richard J,"COO, Pres, NAT",F - Tax,$14.32,-10338,171886,-6%,"-$148,040",-1.0,-3.0,2.0,-20.0,GT
+607,D,2009-11-23 15:20:00,2009-11-19,GT,Kramer Richard J,"COO, Pres, NAT",M - OptEx,$12.54,11250,171886,+7%,"+$141,075",-1.0,-3.0,2.0,-20.0,GT
+608,D,2009-11-20 16:35:41,2009-11-18,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",F - Tax,$14.57,-2427,4092,-37%,"-$35,361",-1.0,-3.0,2.0,-21.0,GT
+609,D,2009-11-20 16:35:41,2009-11-18,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",M - OptEx,$6.81,3800,4092,>999%,"+$25,878",-1.0,-3.0,2.0,-21.0,GT
+610,,2009-11-16 14:19:59,2009-11-12,GT,Sinclair Charles L,Sr Vice Pres Global Comm,P - Purchase,$13.75,750,6482,+13%,"+$10,313",2.0,-2.0,3.0,-14.0,GT
+611,D,2009-09-25 14:21:24,2009-09-23,GT,Bialosky David L,"Sr Vice Pres, Gen Cnsl, Sec'y",A - Grant,$0.01,75919,75919,New,+$759,-3.0,-2.0,8.0,-21.0,GT
+612,D,2009-08-11 16:58:40,2009-08-07,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$18.03,-12340,77729,-14%,"-$222,490",2.0,-3.0,-5.0,-27.0,GT
+613,D,2009-08-11 16:58:40,2009-08-07,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$7.34,20950,77729,+37%,"+$153,843",2.0,-3.0,-5.0,-27.0,GT
+614,D,2009-08-10 13:53:00,2009-08-06,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$18.10,-60613,370632,-14%,"-$1,097,095",-1.0,-2.0,-8.0,-31.0,GT
+615,D,2009-08-10 13:53:00,2009-08-06,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$17.15,62500,370632,+20%,"+$1,071,875",-1.0,-2.0,-8.0,-31.0,GT
+616,D,2009-08-07 15:02:15,2009-08-05,GT,Audia Damon J,"SVP of Finance, Treasurer",F - Tax,$18.03,-1435,4635,-24%,"-$25,873",2.0,4.0,-7.0,-28.0,GT
+617,D,2009-08-07 15:02:15,2009-08-05,GT,Audia Damon J,"SVP of Finance, Treasurer",M - OptEx,$12.54,2050,4635,+79%,"+$25,707",2.0,4.0,-7.0,-28.0,GT
+618,,2009-08-06 16:52:37,2009-08-04,GT,McClellan Stephen R,"Pres, NAT Consumer Business",A - Grant,$0.01,13796,17055,+423%,+$138,3.0,3.0,-9.0,-26.0,GT
+619,D,2009-06-12 16:02:26,2009-06-11,GT,Kramer Richard J,"COO, Pres, NAT",F - Tax,$13.22,-7486,170974,-4%,"-$98,965",-4.0,-2.0,-9.0,13.0,GT
+620,D,2009-06-12 16:02:26,2009-06-11,GT,Kramer Richard J,"COO, Pres, NAT",M - OptEx,$6.81,10400,170974,+6%,"+$70,824",-4.0,-2.0,-9.0,13.0,GT
+621,D,2009-06-12 16:01:21,2009-06-10,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$13.29,-56302,368749,-13%,"-$748,254",-4.0,-2.0,-9.0,13.0,GT
+622,D,2009-06-12 16:01:21,2009-06-10,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$12.54,58250,368749,+19%,"+$730,455",-4.0,-2.0,-9.0,13.0,GT
+623,D,2009-05-19 16:45:00,2009-05-15,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$11.47,-105279,366807,-22%,"-$1,207,550",-4.0,0.0,-4.0,17.0,GT
+624,D,2009-05-19 16:45:00,2009-05-15,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$7.10,135000,366807,+58%,"+$958,900",-4.0,0.0,-4.0,17.0,GT
+625,D,2009-03-05 17:42:44,2009-03-03,GT,Sinclair Charles L,Sr Vice Pres Global Comm,D - Sale to issuer,$5.84,-500,5349,-9%,"-$2,920",-1.0,32.0,90.0,315.0,GT
+626,D,2009-03-05 17:42:44,2009-03-03,GT,Sinclair Charles L,Sr Vice Pres Global Comm,M - OptEx,$0.00,1000,5349,+23%,+$0,-1.0,32.0,90.0,315.0,GT
+627,D,2009-03-05 17:41:29,2009-03-03,GT,Jasinowski Isabel H,VP Gov Rel,D - Sale to issuer,$5.84,-500,8539,-6%,"-$2,920",-1.0,32.0,90.0,315.0,GT
+628,D,2009-03-05 17:41:29,2009-03-03,GT,Jasinowski Isabel H,VP Gov Rel,M - OptEx,$0.00,1000,8539,+13%,+$0,-1.0,32.0,90.0,315.0,GT
+629,D,2009-03-05 17:39:55,2009-03-03,GT,Noechel Richard J,"VP, Finance NAT",D - Sale to issuer,$5.84,-500,1700,-23%,"-$2,920",-1.0,32.0,90.0,315.0,GT
+630,D,2009-03-05 17:39:55,2009-03-03,GT,Noechel Richard J,"VP, Finance NAT",M - OptEx,$0.00,1000,1700,+143%,+$0,-1.0,32.0,90.0,315.0,GT
+631,D,2009-03-05 17:37:56,2009-03-03,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",D - Sale to issuer,$5.84,-1300,11776,-10%,"-$7,592",-1.0,32.0,90.0,315.0,GT
+632,D,2009-03-05 17:37:56,2009-03-03,GT,Wells Darren R,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$0.00,2600,11776,+28%,+$0,-1.0,32.0,90.0,315.0,GT
+633,D,2009-03-05 17:35:59,2009-03-03,GT,Connell Thomas A,"Vice Pres, Controller",D - Sale to issuer,$5.84,-1350,25182,-5%,"-$7,884",-1.0,32.0,90.0,315.0,GT
+634,D,2009-03-05 17:35:59,2009-03-03,GT,Connell Thomas A,"Vice Pres, Controller",M - OptEx,$0.00,2700,25182,+12%,+$0,-1.0,32.0,90.0,315.0,GT
+635,D,2009-03-05 17:33:33,2009-03-03,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",D - Sale to issuer,$5.84,-1500,2529,-37%,"-$8,760",-1.0,32.0,90.0,315.0,GT
+636,D,2009-03-05 17:33:33,2009-03-03,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",M - OptEx,$0.00,3000,2529,-637%,+$0,-1.0,32.0,90.0,315.0,GT
+637,D,2009-03-05 17:31:27,2009-03-03,GT,Fortunato Eduardo A,"Pres, Latin America Reg",D - Sale to issuer,$5.84,-1650,12165,-12%,"-$9,636",-1.0,32.0,90.0,315.0,GT
+638,D,2009-03-05 17:31:27,2009-03-03,GT,Fortunato Eduardo A,"Pres, Latin America Reg",M - OptEx,$0.00,3300,12165,+37%,+$0,-1.0,32.0,90.0,315.0,GT
+639,D,2009-03-05 17:29:25,2009-03-03,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",D - Sale to issuer,$5.84,-2500,100220,-2%,"-$14,600",-1.0,32.0,90.0,315.0,GT
+640,D,2009-03-05 17:29:25,2009-03-03,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$0.00,5000,100220,+5%,+$0,-1.0,32.0,90.0,315.0,GT
+641,D,2009-03-05 17:27:52,2009-03-03,GT,McClellan Stephen R,"Pres, NAT Consumer Business",D - Sale to issuer,$5.84,-2700,2907,-48%,"-$15,768",-1.0,32.0,90.0,315.0,GT
+642,D,2009-03-05 17:27:52,2009-03-03,GT,McClellan Stephen R,"Pres, NAT Consumer Business",M - OptEx,$0.00,5400,2907,-217%,+$0,-1.0,32.0,90.0,315.0,GT
+643,D,2009-03-05 17:26:14,2009-03-03,GT,De Bok Arthur,"Pres, EMEA",D - Sale to issuer,$5.84,-2750,65585,-4%,"-$16,060",-1.0,32.0,90.0,315.0,GT
+644,D,2009-03-05 17:26:14,2009-03-03,GT,De Bok Arthur,"Pres, EMEA",M - OptEx,$0.00,5500,65585,+9%,+$0,-1.0,32.0,90.0,315.0,GT
+645,D,2009-03-05 17:24:19,2009-03-03,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",D - Sale to issuer,$5.84,-2775,68478,-4%,"-$16,206",-1.0,32.0,90.0,315.0,GT
+646,D,2009-03-05 17:24:19,2009-03-03,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$0.00,5550,68478,+9%,+$0,-1.0,32.0,90.0,315.0,GT
+647,D,2009-03-05 17:22:50,2009-03-03,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",D - Sale to issuer,$5.84,-7500,336816,-2%,"-$43,800",-1.0,32.0,90.0,315.0,GT
+648,D,2009-03-05 17:22:50,2009-03-03,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$0.00,15000,336816,+5%,+$0,-1.0,32.0,90.0,315.0,GT
+649,D,2009-03-05 17:18:45,2009-03-03,GT,Audia Damon J,"SVP of Finance, Treasurer",D - Sale to issuer,$5.84,-1500,3858,-28%,"-$8,760",-1.0,32.0,90.0,315.0,GT
+650,D,2009-03-05 17:18:45,2009-03-03,GT,Audia Damon J,"SVP of Finance, Treasurer",M - OptEx,$0.00,3000,3858,+350%,+$0,-1.0,32.0,90.0,315.0,GT
+651,D,2009-03-05 17:17:14,2009-03-03,GT,Rzonzef Michel,"Pres, EEME, A Countries",D - Sale to issuer,$5.84,-1800,1800,-50%,"-$10,512",-1.0,32.0,90.0,315.0,GT
+652,D,2009-03-05 17:17:14,2009-03-03,GT,Rzonzef Michel,"Pres, EEME, A Countries",M - OptEx,$0.00,3600,1800,-200%,+$0,-1.0,32.0,90.0,315.0,GT
+653,D,2009-03-05 17:14:36,2009-03-03,GT,Clark Christopher W,Sr Vice Pres Global Sourcing,D - Sale to issuer,$5.84,-2500,45657,-5%,"-$14,600",-1.0,32.0,90.0,315.0,GT
+654,D,2009-03-05 17:14:36,2009-03-03,GT,Clark Christopher W,Sr Vice Pres Global Sourcing,M - OptEx,$0.00,5000,45657,+12%,+$0,-1.0,32.0,90.0,315.0,GT
+655,D,2009-03-05 17:12:23,2009-03-03,GT,Kramer Richard J,"Pres, NA Tire",D - Sale to issuer,$5.84,-4875,167932,-3%,"-$28,470",-1.0,32.0,90.0,315.0,GT
+656,D,2009-03-05 17:12:23,2009-03-03,GT,Kramer Richard J,"Pres, NA Tire",M - OptEx,$0.00,9750,167932,+6%,+$0,-1.0,32.0,90.0,315.0,GT
+657,D,2009-03-02 18:07:15,2009-02-26,GT,Ruocco Joseph B,"Sr Vice Pres, HR",A - Grant,$0.01,83160,162354,+105%,+$832,-4.0,-9.0,51.0,294.0,GT
+658,,2009-02-09 16:42:13,2009-02-05,GT,Ruocco Joseph B,"Sr Vice Pres, HR",F - Tax,$6.93,-15682,79194,-17%,"-$108,676",-6.0,-4.0,-38.0,152.0,GT
+659,D,2009-01-15 14:41:21,2009-01-13,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$6.45,-7415,97720,-7%,"-$47,827",11.0,-1.0,14.0,108.0,GT
+660,D,2009-01-15 14:41:21,2009-01-13,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$0.00,17708,97720,+22%,+$0,11.0,-1.0,14.0,108.0,GT
+661,D,2008-09-25 16:24:55,2008-09-23,GT,Jasinowski Isabel H,VP Gov Rel,F - Tax,$16.57,-5167,9580,-35%,"-$85,617",1.0,-8.0,-43.0,-58.0,GT
+662,D,2008-09-25 16:24:55,2008-09-23,GT,Jasinowski Isabel H,VP Gov Rel,M - OptEx,$7.03,8335,9580,+669%,"+$58,626",1.0,-8.0,-43.0,-58.0,GT
+663,D,2008-08-07 16:02:16,2008-08-05,GT,Ruocco Joseph B,"Sr Vice Pres, HR",A - Grant,$0.01,94876,94876,New,+$949,11.0,8.0,6.0,-61.0,GT
+664,,2008-07-01 14:13:01,2008-06-30,GT,Kihn Jean Claude,"SVP, Chief Technical Ofcr",P - Purchase,$17.97,1000,1000,New,"+$17,970",1.0,4.0,10.0,-70.0,GT
+665,D,2008-03-27 14:35:18,2008-03-25,GT,Clark Christopher W,Sr Vice Pres Global Sourcing,F - Tax,$26.27,-27899,43990,-39%,"-$732,907",-1.0,7.0,7.0,-35.0,GT
+666,D,2008-03-27 14:35:18,2008-03-25,GT,Clark Christopher W,Sr Vice Pres Global Sourcing,M - OptEx,$11.10,42522,43990,>999%,"+$471,860",-1.0,7.0,7.0,-35.0,GT
+667,A,2008-03-27 14:31:38,2007-10-05,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$29.84,-12810,42363,-23%,"-$382,250",-1.0,7.0,7.0,-35.0,GT
+668,A,2008-03-27 14:31:38,2007-10-05,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",S - Sale,$29.84,-182,42363,0%,"-$5,431",-1.0,7.0,7.0,-35.0,GT
+669,D,2008-03-26 15:50:34,2008-03-24,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$26.85,-50491,66285,-43%,"-$1,355,683",-3.0,3.0,2.0,-39.0,GT
+670,D,2008-03-26 15:50:34,2008-03-24,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$14.54,69300,66285,-2299%,"+$1,007,356",-3.0,3.0,2.0,-39.0,GT
+671,D,2008-03-20 16:35:33,2008-03-18,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$24.77,-40418,587889,-6%,"-$1,001,154",1.0,-4.0,5.0,-41.0,GT
+672,D,2008-03-20 16:35:33,2008-03-18,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$12.73,60750,587889,+12%,"+$773,330",1.0,-4.0,5.0,-41.0,GT
+673,D,2008-02-25 20:20:47,2008-02-21,GT,Kramer Richard J,"Pres, NA Tire",A - Grant,$0.01,93492,163171,+134%,+$935,2.0,-2.0,-6.0,-31.0,GT
+674,D,2008-02-25 20:08:15,2008-02-21,GT,De Bok Arthur,"Pres, EU Business",A - Grant,$0.01,59835,62835,>999%,+$598,2.0,-2.0,-6.0,-31.0,GT
+675,D,2008-02-25 20:04:46,2008-02-21,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",A - Grant,$0.01,37397,87427,+75%,+$374,2.0,-2.0,-6.0,-31.0,GT
+676,D,2007-12-21 16:38:35,2007-12-21,GT,De Bok Arthur,"Pres, EU Business",D - Sale to issuer,$28.37,-4000,3000,-57%,"-$113,480",2.0,-1.0,-13.0,-31.0,GT
+677,D,2007-12-21 16:38:35,2007-12-21,GT,De Bok Arthur,"Pres, EU Business",M - OptEx,$6.81,4000,3000,-400%,"+$27,240",2.0,-1.0,-13.0,-31.0,GT
+678,D,2007-12-21 16:38:35,2007-12-21,GT,De Bok Arthur,"Pres, EU Business",P - Purchase,$28.20,2000,3000,+200%,"+$56,400",2.0,-1.0,-13.0,-31.0,GT
+679,D,2007-12-21 15:48:45,2007-12-19,GT,Kaplan Jaroslav,"Pres, EEME, A Business",D - Sale to issuer,$27.45,-42200,9639,-81%,"-$1,158,390",1.0,0.0,-11.0,-29.0,GT
+680,D,2007-12-21 15:48:45,2007-12-19,GT,Kaplan Jaroslav,"Pres, EEME, A Business",M - OptEx,$15.31,42200,9639,-130%,"+$646,066",1.0,0.0,-11.0,-29.0,GT
+681,D,2007-12-21 15:47:01,2007-12-19,GT,Sinclair Charles L,Sr Vice Pres Global Comm,F - Tax,$27.45,-2419,5186,-32%,"-$66,402",1.0,0.0,-11.0,-29.0,GT
+682,D,2007-12-21 15:47:01,2007-12-19,GT,Sinclair Charles L,Sr Vice Pres Global Comm,M - OptEx,$17.03,3350,5186,+182%,"+$57,038",1.0,0.0,-11.0,-29.0,GT
+683,D,2007-12-20 15:54:16,2007-12-18,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",F - Tax,$26.68,-9158,27035,-25%,"-$244,335",2.0,3.0,-13.0,-27.0,GT
+684,D,2007-12-20 15:54:16,2007-12-18,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",M - OptEx,$11.06,14500,27035,+116%,"+$160,440",2.0,3.0,-13.0,-27.0,GT
+685,D,2007-12-20 15:47:08,2007-12-18,GT,Miller Gary A,VP Purch,F - Tax,$26.68,-916,21516,-4%,"-$24,439",2.0,3.0,-13.0,-27.0,GT
+686,D,2007-12-20 15:47:08,2007-12-18,GT,Miller Gary A,VP Purch,M - OptEx,$12.54,1950,21516,+10%,"+$24,453",2.0,3.0,-13.0,-27.0,GT
+687,D,2007-12-19 17:08:29,2007-12-17,GT,Connell Thomas A,"VP, Controller",F - Tax,$26.66,-15914,23832,-40%,"-$424,267",2.0,7.0,-13.0,-24.0,GT
+688,D,2007-12-19 17:08:29,2007-12-17,GT,Connell Thomas A,"VP, Controller",M - OptEx,$11.35,24475,23832,-3806%,"+$277,724",2.0,7.0,-13.0,-24.0,GT
+689,A,2007-12-19 16:51:16,2007-03-15,GT,Connell Thomas A,"VP, Controller",F - Tax,$28.39,-8598,15271,-36%,"-$244,097",2.0,7.0,-13.0,-24.0,GT
+690,A,2007-12-19 16:51:16,2007-03-15,GT,Connell Thomas A,"VP, Controller",M - OptEx,$8.13,17900,15271,-681%,"+$145,566",2.0,7.0,-13.0,-24.0,GT
+691,A,2007-12-19 16:41:26,2007-03-29,GT,Connell Thomas A,"VP, Controller",A - Grant,$17.45,2539,5969,+74%,"+$44,306",2.0,7.0,-13.0,-24.0,GT
+692,D,2007-12-18 16:03:39,2007-12-14,GT,Fortunato Eduardo A,"Pres, Latin America Reg",D - Sale to issuer,$26.61,-7340,10515,-41%,"-$195,317",3.0,9.0,-13.0,-22.0,GT
+693,D,2007-12-18 16:03:39,2007-12-14,GT,Fortunato Eduardo A,"Pres, Latin America Reg",M - OptEx,$17.58,7340,10515,+231%,"+$129,029",3.0,9.0,-13.0,-22.0,GT
+694,D,2007-12-18 16:03:39,2007-12-14,GT,Fortunato Eduardo A,"Pres, Latin America Reg",P - Purchase,$26.37,1700,10515,+19%,"+$44,829",3.0,9.0,-13.0,-22.0,GT
+695,D,2007-12-17 16:43:04,2007-12-13,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$27.02,-47332,309219,-13%,"-$1,278,911",0.0,7.0,-9.0,-19.0,GT
+696,D,2007-12-17 16:43:04,2007-12-13,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$17.15,60000,309219,+24%,"+$1,029,000",0.0,7.0,-9.0,-19.0,GT
+697,DM,2007-12-17 16:39:25,2007-12-13,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$26.91,-17778,50030,-26%,"-$478,332",0.0,7.0,-9.0,-19.0,GT
+698,DM,2007-12-17 16:39:25,2007-12-13,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$13.05,25445,50030,+103%,"+$332,105",0.0,7.0,-9.0,-19.0,GT
+699,A,2007-12-17 16:36:04,2007-10-05,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$29.84,-12992,42363,-23%,"-$387,681",0.0,7.0,-9.0,-19.0,GT
+700,D,2007-12-14 16:26:27,2007-12-12,GT,Kramer Richard J,"Pres, NA Tire",F - Tax,$27.93,-17314,69679,-20%,"-$483,580",1.0,7.0,-8.0,-15.0,GT
+701,D,2007-12-14 16:26:27,2007-12-12,GT,Kramer Richard J,"Pres, NA Tire",M - OptEx,$15.01,24250,69679,+53%,"+$364,025",1.0,7.0,-8.0,-15.0,GT
+702,D,2007-12-14 16:23:08,2007-12-12,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$27.93,-2285,47474,-5%,"-$63,820",1.0,7.0,-8.0,-15.0,GT
+703,D,2007-12-14 16:23:08,2007-12-12,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$17.68,2900,47474,+7%,"+$51,272",1.0,7.0,-8.0,-15.0,GT
+704,D,2007-12-13 17:07:18,2007-12-11,GT,Hopkins William M,"Vice Pres Tech, Strat Init",F - Tax,$28.56,-10420,29910,-26%,"-$297,595",-1.0,3.0,-5.0,-13.0,GT
+705,D,2007-12-13 17:07:18,2007-12-11,GT,Hopkins William M,"Vice Pres Tech, Strat Init",M - OptEx,$15.54,14775,29910,+98%,"+$229,653",-1.0,3.0,-5.0,-13.0,GT
+706,D,2007-12-13 17:04:56,2007-12-11,GT,Geier Kathleen T,SVP HR,F - Tax,$28.56,-11611,37044,-24%,"-$331,610",-1.0,3.0,-5.0,-13.0,GT
+707,D,2007-12-13 17:04:56,2007-12-11,GT,Geier Kathleen T,SVP HR,M - OptEx,$13.96,17330,37044,+88%,"+$241,892",-1.0,3.0,-5.0,-13.0,GT
+708,,2007-12-07 16:56:46,2007-12-06,GT,Morrison Denise M,Dir,S - Sale,$27.62,-1100,0,-100%,"-$30,384",0.0,-6.0,-17.0,-20.0,GT
+709,,2007-11-27 15:03:48,2007-11-27,GT,Peterson Shirley D,Dir,P - Purchase,$25.99,1000,1000,New,"+$25,990",2.0,10.0,15.0,-4.0,GT
+710,,2007-10-09 12:23:06,2007-10-05,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$29.84,-12992,38347,-25%,"-$387,681",0.0,-1.0,0.0,-16.0,GT
+711,D,2007-10-04 16:14:36,2007-10-02,GT,Purtilar Mark Wayne,"VP, Chief Procurement Ofcr",A - Grant,$0.01,5000,5700,+714%,+$50,2.0,3.0,0.0,-10.0,GT
+712,D,2007-09-28 15:26:33,2007-09-26,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",F - Tax,$29.81,-24785,38328,-39%,"-$738,841",0.0,-3.0,-10.0,-15.0,GT
+713,DM,2007-09-28 15:26:33,2007-09-26,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",M - OptEx,$13.19,39105,38328,-5033%,"+$515,782",0.0,-3.0,-10.0,-15.0,GT
+714,,2007-09-26 16:32:24,2007-09-25,GT,De Bok Arthur,"Pres, EU Business",P - Purchase,$28.82,1000,1000,New,"+$28,820",1.0,1.0,-10.0,-17.0,GT
+715,D,2007-09-26 16:30:33,2007-09-24,GT,Clark Christopher W,Sr Vice Pres Global Sourcing,F - Tax,$29.29,-23442,29362,-44%,"-$686,616",1.0,1.0,-10.0,-17.0,GT
+716,D,2007-09-26 16:30:33,2007-09-24,GT,Clark Christopher W,Sr Vice Pres Global Sourcing,M - OptEx,$16.71,33032,29362,-900%,"+$552,085",1.0,1.0,-10.0,-17.0,GT
+717,D,2007-09-21 12:43:10,2007-09-19,GT,Fortunato Eduardo A,"Pres, Latin America Reg",D - Sale to issuer,$27.90,-3100,8815,-26%,"-$86,490",3.0,8.0,1.0,-6.0,GT
+718,D,2007-09-21 12:43:10,2007-09-19,GT,Fortunato Eduardo A,"Pres, Latin America Reg",M - OptEx,$17.68,3100,8815,+54%,"+$54,808",3.0,8.0,1.0,-6.0,GT
+719,D,2007-09-21 12:43:10,2007-09-19,GT,Fortunato Eduardo A,"Pres, Latin America Reg",P - Purchase,$28.39,2000,8815,+29%,"+$56,780",3.0,8.0,1.0,-6.0,GT
+720,D,2007-09-19 15:36:11,2007-09-17,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$25.26,-227112,296745,-43%,"-$5,736,849",5.0,7.0,12.0,-9.0,GT
+721,D,2007-09-19 15:36:11,2007-09-17,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$17.90,273850,296745,>999%,"+$4,902,438",5.0,7.0,12.0,-9.0,GT
+722,D,2007-09-17 15:54:17,2007-09-13,GT,Kramer Richard J,"Pres, NA Tire",F - Tax,$25.33,-20182,62743,-24%,"-$511,210",-2.0,14.0,17.0,-7.0,GT
+723,D,2007-09-17 15:54:17,2007-09-13,GT,Kramer Richard J,"Pres, NA Tire",M - OptEx,$15.60,26475,62743,+73%,"+$413,086",-2.0,14.0,17.0,-7.0,GT
+724,D,2007-08-22 15:07:59,2007-08-20,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$27.51,-28597,46856,-38%,"-$786,703",3.0,-6.0,-2.0,-7.0,GT
+725,D,2007-08-22 15:07:59,2007-08-20,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$22.16,33000,46856,+238%,"+$731,150",3.0,-6.0,-2.0,-7.0,GT
+726,D,2007-08-13 17:35:19,2007-08-10,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$25.62,-3352,55355,-6%,"-$85,878",-5.0,-5.0,-13.0,-16.0,GT
+727,D,2007-08-13 17:35:19,2007-08-10,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$11.19,5000,55355,+10%,"+$55,950",-5.0,-5.0,-13.0,-16.0,GT
+728,,2007-08-07 16:38:55,2007-08-07,GT,Fortunato Eduardo A,"Pres, Latin America Reg",P - Purchase,$25.80,2000,6815,+42%,"+$51,600",7.0,14.0,7.0,-3.0,GT
+729,D,2007-06-29 14:14:49,2007-06-08,GT,Toppen Timothy R,"Pres, Engineered Products",G - Gift,$35.13,-1000,26062,-4%,"-$35,130",3.0,8.0,-14.0,-15.0,GT
+730,D,2007-06-29 14:14:49,2007-06-27,GT,Toppen Timothy R,"Pres, Engineered Products",M - OptEx,$20.94,55913,26062,-187%,"+$1,170,745",3.0,8.0,-14.0,-15.0,GT
+731,D,2007-06-29 14:14:49,2007-06-27,GT,Toppen Timothy R,"Pres, Engineered Products",S - Sale+OE,$33.01,-55913,26062,-68%,"-$1,845,688",3.0,8.0,-14.0,-15.0,GT
+732,D,2007-06-20 16:29:09,2007-06-18,GT,Sinclair Charles L,SVP,F - Tax,$35.11,-1838,4244,-30%,"-$64,532",1.0,-2.0,4.0,-21.0,GT
+733,D,2007-06-20 16:29:09,2007-06-18,GT,Sinclair Charles L,SVP,M - OptEx,$8.53,4350,4244,-4104%,"+$37,119",1.0,-2.0,4.0,-21.0,GT
+734,D,2007-04-03 11:30:45,2007-03-30,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",D - Sale to issuer,$31.08,-6250,53707,-10%,"-$194,250",1.0,5.0,6.0,-4.0,GT
+735,D,2007-04-03 11:30:45,2007-03-30,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$17.15,6250,53707,+13%,"+$107,188",1.0,5.0,6.0,-4.0,GT
+736,D,2007-04-03 11:30:45,2007-03-30,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",P - Purchase,$31.19,2000,53707,+4%,"+$62,380",1.0,5.0,6.0,-4.0,GT
+737,D,2007-03-22 12:57:14,2007-03-20,GT,De Bok Arthur,"Pres, EU Business",D - Sale to issuer,$29.93,-3500,0,-100%,"-$104,755",1.0,5.0,8.0,-6.0,GT
+738,D,2007-03-22 12:57:14,2007-03-20,GT,De Bok Arthur,"Pres, EU Business",M - OptEx,$7.94,3500,0,-100%,"+$27,790",1.0,5.0,8.0,-6.0,GT
+739,AD,2007-03-21 16:32:56,2007-03-14,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$27.74,-2493,236386,-1%,"-$69,156",1.0,5.0,8.0,-10.0,GT
+740,AD,2007-03-21 16:32:56,2007-03-14,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$17.68,3911,236386,+2%,"+$69,146",1.0,5.0,8.0,-10.0,GT
+741,D,2007-03-20 12:20:06,2007-03-16,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$28.53,-11327,51707,-18%,"-$323,159",0.0,6.0,8.0,-16.0,GT
+742,D,2007-03-20 12:20:06,2007-03-16,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$11.19,28880,51707,+127%,"+$323,167",0.0,6.0,8.0,-16.0,GT
+743,D,2007-03-19 14:46:49,2007-03-15,GT,Connell Thomas A,"VP, Controller",F - Tax,$28.39,-5124,13221,-28%,"-$145,470",6.0,7.0,17.0,-10.0,GT
+744,D,2007-03-19 14:46:49,2007-03-15,GT,Connell Thomas A,"VP, Controller",M - OptEx,$8.13,17900,13221,-383%,"+$145,566",6.0,7.0,17.0,-10.0,GT
+745,D,2007-03-16 16:37:27,2007-03-14,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$27.74,-26564,250204,-10%,"-$736,885",6.0,7.0,19.0,-9.0,GT
+746,D,2007-03-16 16:37:27,2007-03-14,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$18.01,40900,250204,+20%,"+$736,792",6.0,7.0,19.0,-9.0,GT
+747,D,2007-03-16 16:35:25,2007-03-14,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$27.74,-8130,43067,-16%,"-$225,526",6.0,7.0,19.0,-9.0,GT
+748,D,2007-03-16 16:35:25,2007-03-14,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$17.48,12900,43067,+43%,"+$225,506",6.0,7.0,19.0,-9.0,GT
+749,D,2007-03-16 16:33:06,2007-03-14,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",D - Sale to issuer,$27.74,-15000,41544,-27%,"-$416,100",6.0,7.0,19.0,-9.0,GT
+750,D,2007-03-16 16:33:06,2007-03-14,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$12.54,15000,41544,+57%,"+$188,100",6.0,7.0,19.0,-9.0,GT
+751,D,2007-03-16 16:33:06,2007-03-14,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",P - Purchase,$27.91,5000,41544,+14%,"+$139,540",6.0,7.0,19.0,-9.0,GT
+752,D,2007-03-15 17:10:02,2007-03-13,GT,Fortunato Eduardo A,"Pres, Latin America Reg",D - Sale to issuer,$28.60,-6300,4815,-57%,"-$180,180",-1.0,5.0,17.0,-12.0,GT
+753,D,2007-03-15 17:10:02,2007-03-13,GT,Fortunato Eduardo A,"Pres, Latin America Reg",M - OptEx,$6.81,6300,4815,-424%,"+$42,903",-1.0,5.0,17.0,-12.0,GT
+754,D,2007-03-15 17:10:02,2007-03-15,GT,Fortunato Eduardo A,"Pres, Latin America Reg",P - Purchase,$28.23,3315,4815,+221%,"+$93,582",-1.0,5.0,17.0,-12.0,GT
+755,D,2007-03-09 16:47:59,2007-03-07,GT,Geier Kathleen T,SVP,F - Tax,$28.59,-16348,31314,-34%,"-$467,389",2.0,0.0,15.0,-5.0,GT
+756,D,2007-03-09 16:47:59,2007-03-07,GT,Geier Kathleen T,SVP,M - OptEx,$14.15,33030,31314,-1925%,"+$467,496",2.0,0.0,15.0,-5.0,GT
+757,D,2007-03-09 16:45:41,2007-03-07,GT,Miller Gary A,VP,F - Tax,$28.59,-11747,20457,-36%,"-$335,847",2.0,0.0,15.0,-5.0,GT
+758,D,2007-03-09 16:45:41,2007-03-07,GT,Miller Gary A,VP,M - OptEx,$18.67,18000,20457,+733%,"+$335,992",2.0,0.0,15.0,-5.0,GT
+759,D,2007-03-08 16:47:43,2007-03-06,GT,Hopkins William M,VP,F - Tax,$28.03,-14732,25549,-37%,"-$412,938",-1.0,-3.0,14.0,-6.0,GT
+760,D,2007-03-08 16:47:43,2007-03-06,GT,Hopkins William M,VP,M - OptEx,$15.49,26675,25549,-2369%,"+$413,073",-1.0,-3.0,14.0,-6.0,GT
+761,D,2007-03-08 16:22:14,2007-03-06,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",F - Tax,$28.03,-29298,56448,-34%,"-$821,223",-1.0,-3.0,14.0,-6.0,GT
+762,D,2007-03-08 16:22:14,2007-03-06,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$15.97,51425,56448,>999%,"+$821,323",-1.0,-3.0,14.0,-6.0,GT
+763,D,2007-03-08 16:20:51,2007-03-06,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",F - Tax,$28.03,-16713,24006,-41%,"-$468,465",-1.0,-3.0,14.0,-6.0,GT
+764,D,2007-03-08 16:20:51,2007-03-06,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",M - OptEx,$21.25,22050,24006,>999%,"+$468,504",-1.0,-3.0,14.0,-6.0,GT
+765,D,2007-03-08 16:19:25,2007-03-06,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$28.03,-147145,239901,-38%,"-$4,124,474",-1.0,-3.0,14.0,-6.0,GT
+766,D,2007-03-08 16:19:25,2007-03-06,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$18.25,226000,239901,>999%,"+$4,124,500",-1.0,-3.0,14.0,-6.0,GT
+767,D,2007-03-07 16:48:20,2007-03-05,GT,Toppen Timothy R,"Pres, Engineered Products",F - Tax,$27.37,-11062,28254,-28%,"-$302,767",1.0,-1.0,15.0,-3.0,GT
+768,D,2007-03-07 16:48:20,2007-03-05,GT,Toppen Timothy R,"Pres, Engineered Products",M - OptEx,$9.90,30595,28254,-1307%,"+$302,764",1.0,-1.0,15.0,-3.0,GT
+769,D,2007-03-07 16:46:34,2007-03-05,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",F - Tax,$27.37,-5861,21693,-21%,"-$160,416",1.0,-1.0,15.0,-3.0,GT
+770,D,2007-03-07 16:46:34,2007-03-05,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",M - OptEx,$11.06,14500,21693,+202%,"+$160,440",1.0,-1.0,15.0,-3.0,GT
+771,D,2007-03-05 15:37:06,2007-03-01,GT,Clark Christopher W,SVP,F - Tax,$25.66,-14091,19772,-42%,"-$361,575",0.0,5.0,16.0,0.0,GT
+772,D,2007-03-05 15:37:06,2007-03-01,GT,Clark Christopher W,SVP,M - OptEx,$18.27,19793,19772,-32768%,"+$361,540",0.0,5.0,16.0,0.0,GT
+773,D,2007-03-02 16:47:19,2007-02-28,GT,Rich Jonathan D,"Pres, North American Tire",F - Tax,$24.66,-39595,66922,-37%,"-$976,413",0.0,6.0,15.0,2.0,GT
+774,D,2007-03-02 16:47:19,2007-02-28,GT,Rich Jonathan D,"Pres, North American Tire",M - OptEx,$13.92,70900,66922,-1782%,"+$986,768",0.0,6.0,15.0,2.0,GT
+775,D,2007-03-01 16:43:02,2007-03-01,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",G - Gift,$24.41,-2317,15579,-13%,"-$56,558",4.0,9.0,20.0,3.0,GT
+776,,2006-10-16 14:50:48,2006-10-13,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",F - Tax,$14.52,-3218,17896,-15%,"-$46,725",-2.0,1.0,25.0,122.0,GT
+777,,2006-08-08 15:47:00,2006-08-04,GT,Wells Darren R,"Sr Vice Pres Bus Dev, Treas",F - Tax,$11.78,-1609,10564,-13%,"-$18,954",-3.0,-6.0,16.0,109.0,GT
+778,AD,2006-06-01 14:45:16,2006-05-15,GT,Harper Donald D,VP,F - Tax,$14.35,-3327,6082,-35%,"-$47,742",-1.0,-5.0,-13.0,32.0,GT
+779,AD,2006-06-01 14:45:16,2006-05-15,GT,Harper Donald D,VP,M - OptEx,$9.10,5250,6082,+631%,"+$47,758",-1.0,-5.0,-13.0,32.0,GT
+780,D,2006-05-17 14:42:22,2006-05-15,GT,Harper Donald D,VP,F - Tax,$14.35,-3327,3937,-46%,"-$47,742",-5.0,-7.0,-16.0,29.0,GT
+781,D,2006-05-17 14:42:22,2006-05-15,GT,Harper Donald D,VP,M - OptEx,$9.10,5250,3937,-400%,"+$47,758",-5.0,-7.0,-16.0,29.0,GT
+782,D,2006-05-15 15:01:00,2006-05-11,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",F - Tax,$14.81,-10329,20213,-34%,"-$152,972",-3.0,-7.0,-21.0,21.0,GT
+783,D,2006-05-15 15:01:00,2006-05-11,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",M - OptEx,$7.69,19895,20213,>999%,"+$153,003",-3.0,-7.0,-21.0,21.0,GT
+784,,2006-05-12 16:28:49,2006-05-12,GT,Minter Steven A,Dir,P - Purchase,$14.61,1000,4580,+28%,"+$14,610",-2.0,-8.0,-20.0,5.0,GT
+785,,2006-05-10 15:53:20,2006-05-09,GT,Sullivan G Craig,Dir,P - Purchase,$14.81,5000,5000,New,"+$74,050",-2.0,-6.0,-20.0,2.0,GT
+786,D,2006-03-31 16:02:10,2006-03-29,GT,Wells Darren R,"Sr Vice Pres Bus Dev, Treas",A - Grant,$17.45,1918,12172,+19%,"+$33,469",-1.0,-3.0,-4.0,1.0,GT
+787,D,2006-03-31 16:00:08,2006-03-29,GT,Toppen Timothy R,"Pres, Engineered Products",A - Grant,$17.45,1975,13311,+17%,"+$34,464",-1.0,-3.0,-4.0,1.0,GT
+788,D,2006-03-31 15:57:11,2006-03-29,GT,Sinclair Charles L,SVP,A - Grant,$17.45,1129,1758,+179%,"+$19,701",0.0,-1.0,-3.0,3.0,GT
+789,D,2006-03-31 15:55:52,2006-03-29,GT,Rich Jonathan D,"Pres, North American Tire",A - Grant,$17.45,7561,44109,+21%,"+$131,939",0.0,-1.0,-3.0,3.0,GT
+790,D,2006-03-31 15:54:30,2006-03-29,GT,Miller Gary A,VP,A - Grant,$17.45,1580,15454,+11%,"+$27,571",0.0,-1.0,-3.0,3.0,GT
+791,D,2006-03-31 15:49:33,2006-03-29,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",A - Grant,$17.45,2991,41201,+8%,"+$52,193",0.0,-1.0,-3.0,3.0,GT
+792,D,2006-03-31 15:48:03,2006-03-29,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",A - Grant,$17.45,33855,186451,+22%,"+$590,770",0.0,-1.0,-3.0,3.0,GT
+793,D,2006-03-31 15:45:55,2006-03-29,GT,Kaplan Jaroslav,"Pres, EEME, A Business",A - Grant,$17.45,3950,10040,+65%,"+$68,928",0.0,-1.0,-3.0,3.0,GT
+794,D,2006-03-31 15:44:13,2006-03-29,GT,Jasinowski Isabel H,VP,A - Grant,$17.45,1580,6397,+33%,"+$27,571",0.0,-1.0,-3.0,3.0,GT
+795,D,2006-03-31 15:42:06,2006-03-29,GT,Hopkins William M,VP,A - Grant,$17.45,2370,16373,+17%,"+$41,357",0.0,-1.0,-3.0,3.0,GT
+796,D,2006-03-31 15:41:04,2006-03-29,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",A - Grant,$17.45,6771,37711,+22%,"+$118,154",0.0,-1.0,-3.0,3.0,GT
+797,D,2006-03-31 15:39:53,2006-03-29,GT,Harper Donald D,VP,A - Grant,$17.45,1411,2563,+122%,"+$24,622",0.0,-1.0,-3.0,3.0,GT
+798,D,2006-03-31 15:37:13,2006-03-29,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",A - Grant,$17.45,3950,13708,+40%,"+$68,928",0.0,-1.0,-3.0,3.0,GT
+799,D,2006-03-31 15:36:01,2006-03-29,GT,Geier Kathleen T,SVP,A - Grant,$17.45,3386,18994,+22%,"+$59,086",0.0,-1.0,-3.0,3.0,GT
+800,D,2006-03-31 15:34:48,2006-03-29,GT,Connell Thomas A,"VP, Controller",A - Grant,$17.45,2539,3919,+184%,"+$44,306",0.0,-1.0,-3.0,3.0,GT
+801,D,2006-03-31 15:33:28,2006-03-29,GT,Clark Christopher W,SVP,A - Grant,$17.45,3950,15539,+34%,"+$68,928",0.0,-1.0,-3.0,3.0,GT
+802,D,2006-03-28 16:05:28,2006-03-24,GT,Jasinowski Isabel H,VP,F - Tax,$14.02,-1270,4819,-21%,"-$17,805",2.0,2.0,-1.0,3.0,GT
+803,D,2006-03-28 16:05:28,2006-03-24,GT,Jasinowski Isabel H,VP,M - OptEx,$6.81,2615,4819,+119%,"+$17,808",2.0,2.0,-1.0,3.0,GT
+804,D,2006-03-23 15:45:25,2006-03-21,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$13.67,-982,36544,-3%,"-$13,424",2.0,3.0,1.0,7.0,GT
+805,D,2006-03-23 15:45:25,2006-03-21,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$11.19,1200,36544,+3%,"+$13,428",2.0,3.0,1.0,7.0,GT
+806,D,2006-03-23 15:45:25,2006-03-21,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",P - Purchase,$13.60,1000,36544,+3%,"+$13,600",2.0,3.0,1.0,7.0,GT
+807,D,2006-03-15 15:00:49,2006-03-13,GT,Rich Jonathan D,"Pres, North American Tire",F - Tax,$13.16,-14031,33028,-30%,"-$184,648",5.0,5.0,5.0,15.0,GT
+808,D,2006-03-15 15:00:49,2006-03-13,GT,Rich Jonathan D,"Pres, North American Tire",M - OptEx,$7.69,23996,33028,+266%,"+$184,600",5.0,5.0,5.0,15.0,GT
+809,D,2006-03-15 14:58:58,2006-03-13,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$13.16,-1964,35430,-5%,"-$25,846",5.0,5.0,5.0,15.0,GT
+810,D,2006-03-15 14:58:58,2006-03-13,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$11.19,2310,35430,+7%,"+$25,849",5.0,5.0,5.0,15.0,GT
+811,,2006-03-08 15:29:48,2006-03-08,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",P - Purchase,$12.84,2000,35249,+6%,"+$25,680",2.0,0.0,11.0,9.0,GT
+812,D,2006-03-07 16:02:30,2006-03-06,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",F - Tax,$13.53,-2824,33249,-8%,"-$38,209",1.0,0.0,10.0,6.0,GT
+813,D,2006-03-07 16:02:30,2006-03-06,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",M - OptEx,$11.19,3415,33249,+11%,"+$38,214",1.0,0.0,10.0,6.0,GT
+814,D,2006-01-05 15:22:44,2006-01-03,GT,Hopkins William M,VP,F - Tax,$0.00,-854,13990,-6%,-$0,3.0,3.0,-15.0,-40.0,GT
+815,D,2006-01-05 15:22:44,2006-01-03,GT,Hopkins William M,VP,M - OptEx,$0.00,2994,13990,+27%,+$0,3.0,3.0,-15.0,-40.0,GT
+816,D,2006-01-05 15:18:43,2006-01-03,GT,Rich Jonathan D,"Pres, North American Tire",F - Tax,$0.00,-6671,29414,-18%,-$0,3.0,3.0,-15.0,-40.0,GT
+817,D,2006-01-05 15:18:43,2006-01-03,GT,Rich Jonathan D,"Pres, North American Tire",M - OptEx,$0.00,23405,29414,+389%,+$0,3.0,3.0,-15.0,-40.0,GT
+818,D,2005-12-22 15:48:44,2005-12-20,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$17.35,-17294,30928,-36%,"-$300,051",1.0,0.0,3.0,-38.0,GT
+819,D,2005-12-22 15:48:44,2005-12-20,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$8.65,34675,30928,-925%,"+$300,057",1.0,0.0,3.0,-38.0,GT
+820,D,2005-12-22 15:47:40,2005-12-21,GT,Hopkins William M,VP,F - Tax,$17.73,-4747,18479,-20%,"-$84,164",1.0,0.0,3.0,-38.0,GT
+821,D,2005-12-22 15:47:40,2005-12-21,GT,Hopkins William M,VP,M - OptEx,$9.20,9150,18479,+98%,"+$84,189",1.0,0.0,3.0,-38.0,GT
+822,D,2005-12-22 15:46:47,2005-12-20,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",F - Tax,$17.35,-17064,38208,-31%,"-$296,060",1.0,0.0,3.0,-38.0,GT
+823,D,2005-12-22 15:46:47,2005-12-20,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$10.25,28900,38208,+310%,"+$296,099",1.0,0.0,3.0,-38.0,GT
+824,D,2005-12-22 15:45:32,2005-12-21,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",F - Tax,$17.73,-5420,21114,-20%,"-$96,097",1.0,0.0,3.0,-38.0,GT
+825,D,2005-12-22 15:45:32,2005-12-21,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",M - OptEx,$8.94,10750,21114,+104%,"+$96,128",1.0,0.0,3.0,-38.0,GT
+826,D,2005-12-22 15:44:33,2005-12-20,GT,Miller Gary A,VP,F - Tax,$17.35,-1983,13844,-13%,"-$34,405",1.0,0.0,3.0,-38.0,GT
+827,D,2005-12-22 15:44:33,2005-12-20,GT,Miller Gary A,VP,M - OptEx,$10.67,7809,13844,+129%,"+$83,330",1.0,0.0,3.0,-38.0,GT
+828,D,2005-12-22 15:43:32,2005-12-20,GT,Rich Jonathan D,"Pres, North American Tire",F - Tax,$17.35,-4553,12689,-26%,"-$78,995",1.0,0.0,3.0,-38.0,GT
+829,D,2005-12-22 15:43:32,2005-12-20,GT,Rich Jonathan D,"Pres, North American Tire",M - OptEx,$6.81,11600,12689,>999%,"+$78,996",1.0,0.0,3.0,-38.0,GT
+830,D,2005-12-22 15:42:24,2005-12-20,GT,Toppen Timothy R,"Pres, Engineered Products",F - Tax,$17.35,-4643,11314,-29%,"-$80,556",1.0,0.0,3.0,-38.0,GT
+831,D,2005-12-22 15:42:24,2005-12-20,GT,Toppen Timothy R,"Pres, Engineered Products",M - OptEx,$7.35,10955,11314,>999%,"+$80,570",1.0,0.0,3.0,-38.0,GT
+832,D,2005-12-22 15:41:13,2005-12-21,GT,Wells Darren R,"Sr Vice Pres Bus Dev, Treas",F - Tax,$17.73,-2347,10252,-19%,"-$41,612",1.0,0.0,3.0,-38.0,GT
+833,D,2005-12-22 15:41:13,2005-12-21,GT,Wells Darren R,"Sr Vice Pres Bus Dev, Treas",M - OptEx,$6.56,6350,10252,+163%,"+$41,631",1.0,0.0,3.0,-38.0,GT
+834,D,2005-12-21 15:51:38,2005-12-19,GT,Clark Christopher W,SVP,F - Tax,$17.32,-6590,11580,-36%,"-$114,139",0.0,0.0,1.0,-37.0,GT
+835,D,2005-12-21 15:51:38,2005-12-19,GT,Clark Christopher W,SVP,M - OptEx,$9.17,12452,11580,-1428%,"+$114,179",0.0,0.0,1.0,-37.0,GT
+836,D,2005-12-21 15:50:07,2005-12-19,GT,Geier Kathleen T,SVP,F - Tax,$17.32,-5650,15591,-27%,"-$97,858",0.0,0.0,1.0,-37.0,GT
+837,D,2005-12-21 15:50:07,2005-12-19,GT,Geier Kathleen T,SVP,M - OptEx,$10.06,14586,15591,>999%,"+$146,765",0.0,0.0,1.0,-37.0,GT
+838,D,2005-12-15 15:35:43,2005-12-13,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$17.18,-77111,152592,-34%,"-$1,324,767",2.0,2.0,4.0,-33.0,GT
+839,D,2005-12-15 15:35:43,2005-12-13,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$9.49,144673,152592,>999%,"+$1,373,302",2.0,2.0,4.0,-33.0,GT
+840,,2005-12-13 16:15:40,2005-12-12,GT,Toppen Timothy R,"Pres, Engineered Products",G - Gift,$0.00,-1000,7036,-12%,-$0,1.0,-1.0,5.0,-34.0,GT
+841,D,2005-11-08 13:48:39,2005-11-07,GT,Connell Thomas A,"VP, Controller",M - OptEx,$7.05,5500,3430,-266%,"+$38,775",-2.0,-1.0,6.0,-6.0,GT
+842,D,2005-11-08 13:48:39,2005-11-07,GT,Connell Thomas A,"VP, Controller",S - Sale+OE,$15.78,-3450,3430,-50%,"-$54,441",-2.0,-1.0,6.0,-6.0,GT
+843,,2005-11-08 13:46:10,2005-11-07,GT,Breen John G,Dir,S - Sale,$15.86,-5000,200,-96%,"-$79,302",-2.0,-1.0,6.0,-6.0,GT
+844,D,2005-09-29 16:14:15,2005-09-27,GT,Harper Donald D,VP,F - Tax,$15.48,-1142,5904,-16%,"-$17,678",1.0,-6.0,-1.0,-8.0,GT
+845,D,2005-09-29 16:14:15,2005-09-27,GT,Harper Donald D,VP,M - OptEx,$7.94,2226,5904,+61%,"+$17,674",1.0,-6.0,-1.0,-8.0,GT
+846,D,2005-09-26 16:03:13,2005-09-22,GT,Roney Michael J,"Pres, European Union",M - OptEx,$15.15,23325,32916,+243%,"+$353,374",1.0,1.0,-11.0,-9.0,GT
+847,D,2005-06-13 16:41:39,2005-06-09,GT,Geier Kathleen T,SVP,F - Tax,$14.13,-3502,11286,-24%,"-$49,483",0.0,4.0,9.0,18.0,GT
+848,D,2005-06-13 16:41:39,2005-06-09,GT,Geier Kathleen T,SVP,M - OptEx,$7.82,6330,11286,+128%,"+$49,482",0.0,4.0,9.0,18.0,GT
+849,D,2005-06-08 11:53:55,2005-06-06,GT,Hopkins William M,VP,F - Tax,$14.32,-4354,8692,-33%,"-$62,349",0.0,0.0,5.0,21.0,GT
+850,D,2005-06-08 11:53:55,2005-06-06,GT,Hopkins William M,VP,M - OptEx,$7.49,8325,8692,>999%,"+$62,343",0.0,0.0,5.0,21.0,GT
+851,,2005-06-01 10:49:20,2005-05-31,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",P - Purchase,$14.39,1000,32940,+3%,"+$14,390",0.0,-1.0,6.0,19.0,GT
+852,,2005-05-26 10:18:25,2005-05-25,GT,Fortunato Eduardo A,"Pres, Latin America Reg",P - Purchase,$14.14,1500,1500,New,"+$21,213",2.0,1.0,0.0,19.0,GT
+853,D,2005-05-24 15:44:22,2005-05-20,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",F - Tax,$14.12,-2893,9755,-23%,"-$40,849",0.0,0.0,3.0,12.0,GT
+854,D,2005-05-24 15:44:22,2005-05-20,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",M - OptEx,$6.81,6000,9755,+160%,"+$40,860",0.0,0.0,3.0,12.0,GT
+855,D,2005-05-20 16:22:26,2005-05-18,GT,Miller Gary A,VP,F - Tax,$14.08,-2110,11656,-15%,"-$29,709",1.0,2.0,7.0,9.0,GT
+856,D,2005-05-20 16:22:26,2005-05-18,GT,Miller Gary A,VP,M - OptEx,$7.30,4075,11656,+54%,"+$29,728",1.0,2.0,7.0,9.0,GT
+857,,2005-05-20 14:52:13,2005-05-19,GT,Geier Kathleen T,SVP,P - Purchase,$13.92,1500,9369,+19%,"+$20,880",2.0,4.0,9.0,10.0,GT
+858,D,2005-05-19 16:38:17,2005-05-17,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",F - Tax,$13.80,-3331,17137,-16%,"-$45,951",2.0,2.0,6.0,12.0,GT
+859,D,2005-05-19 16:38:17,2005-05-17,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",M - OptEx,$6.81,6750,17137,+65%,"+$45,968",2.0,2.0,6.0,12.0,GT
+860,D,2005-05-17 11:35:18,2005-05-13,GT,Toppen Timothy R,"Pres, Engineered Products",F - Tax,$13.38,-2888,8062,-26%,"-$38,641",-1.0,3.0,4.0,12.0,GT
+861,D,2005-05-17 11:35:18,2005-05-13,GT,Toppen Timothy R,"Pres, Engineered Products",M - OptEx,$6.81,5675,8062,+238%,"+$38,647",-1.0,3.0,4.0,12.0,GT
+862,D,2005-05-17 11:34:14,2005-05-13,GT,Clark Christopher W,SVP,F - Tax,$13.38,-3501,7617,-31%,"-$46,843",-1.0,3.0,4.0,12.0,GT
+863,D,2005-05-17 11:34:14,2005-05-13,GT,Clark Christopher W,SVP,M - OptEx,$6.86,6826,7617,+863%,"+$46,853",-1.0,3.0,4.0,12.0,GT
+864,D,2005-05-17 11:33:12,2005-05-13,GT,Wells Darren R,"Sr Vice Pres Bus Dev, Treas",F - Tax,$13.38,-1345,7541,-15%,"-$17,996",-1.0,3.0,4.0,12.0,GT
+865,D,2005-05-17 11:33:12,2005-05-13,GT,Wells Darren R,"Sr Vice Pres Bus Dev, Treas",M - OptEx,$6.25,2882,7541,+62%,"+$18,014",-1.0,3.0,4.0,12.0,GT
+866,,2005-05-12 15:31:19,2005-05-10,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",P - Purchase,$13.29,5000,15000,+50%,"+$66,450",-2.0,6.0,7.0,17.0,GT
+867,,2005-05-12 15:29:17,2005-05-11,GT,Copeland Marland J,"SVP Bus Dev, Strat, Rstrctr",P - Purchase,$13.38,600,1111,+117%,"+$8,028",-2.0,6.0,7.0,17.0,GT
+868,,2005-05-10 16:03:47,2005-05-10,GT,Minter Steven A,Dir,P - Purchase,$13.21,2000,3580,+127%,"+$26,415",2.0,5.0,7.0,19.0,GT
+869,D,2005-04-01 14:01:10,2005-03-30,GT,Rich Jonathan D,"Pres, North American Tire",F - Tax,$13.36,-2882,7697,-27%,"-$38,504",-2.0,-2.0,-11.0,16.0,GT
+870,D,2005-04-01 14:01:10,2005-03-30,GT,Rich Jonathan D,"Pres, North American Tire",M - OptEx,$6.81,5654,7697,+277%,"+$38,504",-2.0,-2.0,-11.0,16.0,GT
+871,D,2005-04-01 13:59:45,2005-03-30,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$13.36,-5441,19156,-22%,"-$72,692",-2.0,-2.0,-11.0,16.0,GT
+872,D,2005-04-01 13:59:45,2005-03-30,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$6.81,10675,19156,+126%,"+$72,697",-2.0,-2.0,-11.0,16.0,GT
+873,D,2005-03-31 15:26:01,2005-03-29,GT,Geier Kathleen T,SVP,F - Tax,$13.46,-2017,7875,-20%,"-$27,149",-1.0,-4.0,-13.0,16.0,GT
+874,D,2005-03-31 15:26:01,2005-03-29,GT,Geier Kathleen T,SVP,M - OptEx,$6.81,3986,7875,+102%,"+$27,145",-1.0,-4.0,-13.0,16.0,GT
+875,,2005-03-30 15:13:04,2005-03-30,GT,Roney Michael J,"Pres, European Union",P - Purchase,$13.25,3800,9593,+66%,"+$50,350",2.0,-2.0,-9.0,17.0,GT
+876,D,2005-03-30 15:12:10,2005-03-29,GT,Connell Thomas A,"VP, Controller",M - OptEx,$6.81,4250,1380,-148%,"+$28,943",2.0,-2.0,-9.0,17.0,GT
+877,D,2005-03-30 15:12:10,2005-03-29,GT,Connell Thomas A,"VP, Controller",S - Sale+OE,$13.59,-2870,1380,-68%,"-$39,003",2.0,-2.0,-9.0,17.0,GT
+878,D,2005-03-30 15:11:26,2005-03-28,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",F - Tax,$13.83,-7275,30012,-20%,"-$100,613",2.0,-2.0,-9.0,17.0,GT
+879,D,2005-03-30 15:11:26,2005-03-28,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$7.11,14150,30012,+89%,"+$100,599",2.0,-2.0,-9.0,17.0,GT
+880,D,2005-03-29 17:05:53,2005-03-24,GT,Harper Donald D,VP,F - Tax,$13.81,-1594,5170,-24%,"-$22,013",2.0,-2.0,-12.0,17.0,GT
+881,D,2005-03-29 17:05:53,2005-03-24,GT,Harper Donald D,VP,M - OptEx,$7.29,3024,5170,+141%,"+$22,033",2.0,-2.0,-12.0,17.0,GT
+882,D,2005-03-24 13:29:30,2005-03-22,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$13.62,-45402,114968,-28%,"-$618,375",3.0,-1.0,-13.0,11.0,GT
+883,D,2005-03-24 13:29:30,2005-03-22,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$7.28,85000,114968,+284%,"+$618,400",3.0,-1.0,-13.0,11.0,GT
+884,,2005-03-22 16:28:13,2005-03-21,GT,Weidemeyer Thomas H,Dir,P - Purchase,$13.42,1000,1000,New,"+$13,420",0.0,-2.0,-16.0,18.0,GT
+885,,2005-03-22 16:26:32,2005-03-21,GT,Morrison Denise M,Dir,P - Purchase,$13.40,1100,1100,New,"+$14,740",0.0,-2.0,-16.0,18.0,GT
+886,D,2005-03-15 11:10:48,2005-03-11,GT,Wells Darren R,"VP, Treasurer",A - Grant,$14.63,1345,6499,+26%,"+$19,677",-2.0,-10.0,-15.0,14.0,GT
+887,D,2005-03-15 11:09:44,2005-03-11,GT,Toppen Timothy R,"Pres, Engineered Products",A - Grant,$14.63,2689,6158,+78%,"+$39,340",-2.0,-10.0,-15.0,14.0,GT
+888,D,2005-03-15 11:08:49,2005-03-11,GT,Roney Michael J,"Pres, European Union",A - Grant,$14.63,5378,5791,>999%,"+$78,680",-2.0,-10.0,-15.0,14.0,GT
+889,D,2005-03-15 11:07:55,2005-03-11,GT,Rich Jonathan D,"Pres, North American Tire",A - Grant,$14.63,1882,5743,+49%,"+$27,534",-2.0,-10.0,-15.0,14.0,GT
+890,D,2005-03-15 11:06:58,2005-03-11,GT,Miller Gary A,VP,A - Grant,$14.63,1255,10314,+14%,"+$18,361",-2.0,-10.0,-15.0,14.0,GT
+891,D,2005-03-15 11:06:02,2005-03-11,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",A - Grant,$14.63,2689,25351,+12%,"+$39,340",-2.0,-10.0,-15.0,14.0,GT
+892,D,2005-03-15 11:05:08,2005-03-11,GT,Kaplan Jaroslav,"Pres, EEA, ME Region",A - Grant,$14.63,2689,5689,+90%,"+$39,340",-2.0,-10.0,-15.0,14.0,GT
+893,D,2005-03-15 11:04:21,2005-03-11,GT,Jasinowski Isabel H,VP,A - Grant,$14.63,986,3998,+33%,"+$14,425",-2.0,-10.0,-15.0,14.0,GT
+894,D,2005-03-15 11:03:26,2005-03-11,GT,Hopkins William M,VP,A - Grant,$14.63,1882,5997,+46%,"+$27,534",-2.0,-10.0,-15.0,14.0,GT
+895,D,2005-03-15 11:02:17,2005-03-11,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",A - Grant,$14.63,5378,15604,+53%,"+$78,680",-2.0,-10.0,-15.0,14.0,GT
+896,D,2005-03-15 11:01:13,2005-03-11,GT,Harper Donald D,VP,A - Grant,$14.63,1120,4192,+36%,"+$16,386",-2.0,-10.0,-15.0,14.0,GT
+897,D,2005-03-15 11:00:18,2005-03-11,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",A - Grant,$14.63,3137,7647,+70%,"+$45,894",-2.0,-10.0,-15.0,14.0,GT
+898,D,2005-03-15 10:57:59,2005-03-11,GT,Geier Kathleen T,SVP,A - Grant,$14.63,2017,5896,+52%,"+$29,509",-2.0,-10.0,-15.0,14.0,GT
+899,D,2005-03-15 10:56:48,2005-03-11,GT,Clark Christopher W,SVP,A - Grant,$14.63,3137,5357,+141%,"+$45,894",-2.0,-10.0,-15.0,14.0,GT
+900,D,2005-03-15 10:55:16,2005-03-11,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",A - Grant,$14.63,16135,88203,+22%,"+$236,055",-2.0,-10.0,-15.0,14.0,GT
+901,DM,2005-01-28 16:40:18,2005-01-03,GT,Miller Gary A,VP,F - Tax,$0.00,-1551,9051,-15%,-$0,0.0,4.0,-6.0,15.0,GT
+902,DM,2005-01-28 16:40:18,2005-01-03,GT,Miller Gary A,VP,M - OptEx,$0.00,5440,9051,+151%,+$0,0.0,4.0,-6.0,15.0,GT
+903,D,2005-01-28 16:38:52,2005-01-03,GT,Toppen Timothy R,"Pres, Engineered Products",F - Tax,$0.00,-461,3463,-12%,-$0,0.0,4.0,-6.0,15.0,GT
+904,D,2005-01-28 16:38:52,2005-01-03,GT,Toppen Timothy R,"Pres, Engineered Products",M - OptEx,$0.00,1618,3463,+88%,+$0,0.0,4.0,-6.0,15.0,GT
+905,D,2005-01-28 16:38:09,2005-01-03,GT,Hopkins William M,VP,F - Tax,$0.00,-623,4113,-13%,-$0,0.0,4.0,-6.0,15.0,GT
+906,D,2005-01-28 16:38:09,2005-01-03,GT,Hopkins William M,VP,M - OptEx,$0.00,2185,4113,+113%,+$0,0.0,4.0,-6.0,15.0,GT
+907,D,2005-01-28 16:36:37,2005-01-03,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",F - Tax,$0.00,-661,22662,-3%,-$0,0.0,4.0,-6.0,15.0,GT
+908,D,2005-01-28 16:36:37,2005-01-03,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$0.00,2318,22662,+11%,+$0,0.0,4.0,-6.0,15.0,GT
+909,D,2005-01-28 16:34:49,2005-01-14,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",D - Sale to issuer,$0.00,-1416,10223,-12%,-$0,0.0,4.0,-6.0,15.0,GT
+910,D,2005-01-28 16:33:41,2005-01-14,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",D - Sale to issuer,$0.00,-843,4508,-16%,-$0,0.0,4.0,-6.0,15.0,GT
+911,D,2005-01-28 16:30:56,2005-01-14,GT,Harper Donald D,VP,D - Sale to issuer,$0.00,-169,3064,-5%,-$0,0.0,4.0,-6.0,15.0,GT
+912,D,2005-01-28 16:30:56,2005-01-14,GT,Harper Donald D,VP,M - OptEx,$0.00,168,3064,+6%,+$0,0.0,4.0,-6.0,15.0,GT
+913,D,2004-11-24 15:41:17,2004-11-23,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",F - Tax,$12.21,-2438,21007,-10%,"-$29,768",0.0,3.0,19.0,15.0,GT
+914,D,2004-11-24 15:41:17,2004-11-23,GT,Kramer Richard J,"Exec Vice Pres, Chf Fin Ofcr",M - OptEx,$7.94,3750,21007,+22%,"+$29,775",0.0,3.0,19.0,15.0,GT
+915,D,2004-11-23 14:53:16,2004-11-22,GT,Connell Thomas A,"VP, Controller",M - OptEx,$7.05,5500,0,-100%,"+$38,775",2.0,4.0,21.0,19.0,GT
+916,D,2004-11-23 14:53:16,2004-11-22,GT,Connell Thomas A,"VP, Controller",S - Sale+OE,$12.10,-5500,0,-100%,"-$66,528",2.0,4.0,21.0,19.0,GT
+917,D,2004-11-19 17:05:56,2004-11-18,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",F - Tax,$12.27,-5178,10233,-34%,"-$63,508",-1.0,2.0,19.0,16.0,GT
+918,D,2004-11-19 17:05:56,2004-11-18,GT,Harvie C Thomas,"Sr Vice Pres, Gen Cnsl, Sec'y",M - OptEx,$7.94,8000,10233,+358%,"+$63,520",-1.0,2.0,19.0,16.0,GT
+919,D,2004-10-07 14:56:57,2004-10-05,GT,Cohade Pierre E,"Pres, Asia-Pacific Region",A - Grant,$0.01,30000,31940,>999%,+$300,-2.0,-12.0,-7.0,20.0,GT
+920,D,2004-09-16 13:25:12,2004-09-14,GT,Miller Gary A,VP,F - Tax,$11.27,-1232,5200,-19%,"-$13,885",0.0,-2.0,-15.0,27.0,GT
+921,D,2004-09-16 13:25:12,2004-09-14,GT,Miller Gary A,VP,M - OptEx,$7.94,1750,5200,+51%,"+$13,895",0.0,-2.0,-15.0,27.0,GT
+922,D,2004-08-25 13:59:22,2004-08-23,GT,Geier Kathleen T,SVP,F - Tax,$10.69,-1009,3901,-21%,"-$10,786",3.0,4.0,0.0,32.0,GT
+923,D,2004-08-25 13:59:22,2004-08-23,GT,Geier Kathleen T,SVP,M - OptEx,$7.94,1359,3901,+53%,"+$10,790",3.0,4.0,0.0,32.0,GT
+924,D,2004-08-20 15:38:58,2004-08-19,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",F - Tax,$10.91,-28548,72074,-28%,"-$311,459",1.0,0.0,0.0,26.0,GT
+925,D,2004-08-20 15:38:58,2004-08-19,GT,Keegan Robert J,"COB of the Bd, CEO, Pres",M - OptEx,$7.94,35000,72074,+94%,"+$277,900",1.0,0.0,0.0,26.0,GT
+926,,2004-01-16 15:45:46,2004-01-15,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",A - Grant,$8.83,1396,4532,+45%,"+$12,327",0.0,16.0,-6.0,10.0,GT
+927,,2004-01-16 15:45:46,2004-01-15,GT,Gingo Joseph M,"Exec Vice Pres, Chf Tech Ofcr",F - Tax,$8.83,-398,4532,-8%,"-$3,514",0.0,16.0,-6.0,10.0,GT
+928,,2003-10-14 11:10:43,2003-10-13,GT,Mason Lawrence D,"Pres, NA Tire Cons Bus",A - Grant,$0.01,10000,10000,New,+$100,-1.0,-5.0,-7.0,22.0,GT
+929,,2003-08-05 14:46:33,2003-08-05,GT,Wells Darren R,"VP, Treasurer",A - Grant,$0.01,5000,5161,>999%,+$50,-5.0,-9.0,33.0,64.0,GT

@@ -1,29 +1,1031 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2022-03-02 17:17:00,2022-03-01,RGLD,Libner Paul,"CFO, Treasurer",S - Sale,125.0,-1200,13998,-8%,-150000.0,,,,,RGLD
-1,,2021-08-31 17:59:38,2021-08-31,RGLD,Shefman Randy,"VP, GC",S - Sale,111.2,-1000,8006,-11%,-111195.0,,,,,RGLD
-2,,2021-08-30 16:16:47,2021-08-27,RGLD,Libner Paul,"CFO, Treasurer",S - Sale,112.58,-921,15198,-6%,-103690.0,,,,,RGLD
-3,,2021-02-11 16:53:17,2021-02-10,RGLD,Shefman Randy,"VP, GC",S - Sale,109.19,-900,6188,-13%,-98267.0,,,,,RGLD
-4,D,2020-08-19 18:01:33,2020-08-18,RGLD,Libner Paul,"CFO, Treasurer",S - Sale+OE,140.0,-300,13542,-2%,-42000.0,,,,,RGLD
-5,D,2020-06-12 16:50:14,2020-06-10,RGLD,Shefman Randy,"VP, GC",S - Sale+OE,126.0,-5032,6268,-45%,-634032.0,,,,,RGLD
-6,D,2019-09-04 16:53:57,2019-09-03,RGLD,Isto Mark,VP Operations,S - Sale+OE,135.0,-2497,22239,-10%,-337095.0,,,,,RGLD
-7,D,2019-08-29 12:05:51,2019-08-27,RGLD,Jensen Tony A,"CEO, Pres",S - Sale+OE,134.08,-14984,41771,-26%,-2009035.0,,,,,RGLD
-8,,2019-08-28 12:47:48,2019-08-27,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale,132.72,-1593,43450,-4%,-211423.0,,,,,RGLD
-9,,2019-08-20 14:08:20,2019-08-20,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale,127.16,-1417,46295,-3%,-180186.0,,,,,RGLD
-10,D,2019-08-15 10:53:29,2019-08-13,RGLD,Isto Mark,VP Operations,S - Sale+OE,125.02,-2173,22798,-9%,-271668.0,,,,,RGLD
-11,,2019-08-14 18:26:19,2019-08-13,RGLD,Jensen Tony A,"CEO, Pres",S - Sale,124.59,-46570,52416,-47%,-5802156.0,,,,,RGLD
-12,,2019-08-14 18:17:57,2019-08-13,RGLD,Hayes William M.,Dir,S - Sale,125.0,-18369,7656,-71%,-2296125.0,,,,,RGLD
-13,,2019-06-14 16:11:34,2019-06-14,RGLD,Vance Ronald J,Dir,S - Sale,94.77,-1930,8234,-19%,-182906.0,,,,,RGLD
-14,,2019-06-12 16:36:13,2019-06-12,RGLD,Jensen Tony A,"CEO, Pres",S - Sale,93.62,-31936,98986,-24%,-2989848.0,,,,,RGLD
-15,DM,2019-06-10 16:52:24,2019-06-07,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale+OE,93.18,-9471,45348,-17%,-882473.0,,,,,RGLD
-16,DM,2019-06-07 16:55:30,2019-06-05,RGLD,Jensen Tony A,"CEO, Pres",S - Sale+OE,92.42,-38821,274073,-12%,-3587655.0,,,,,RGLD
-17,,2018-09-27 12:20:39,2018-09-26,RGLD,Veenman Sybil E,Dir,P - Purchase,78.11,500,2515,+25%,39055.0,,,,,RGLD
-18,,2018-09-17 15:15:11,2018-09-17,RGLD,Sokalsky Jamie C,Dir,P - Purchase,77.18,2000,10185,+24%,154360.0,,,,,RGLD
-19,,2018-08-15 17:20:00,2018-08-15,RGLD,Sokalsky Jamie C,Dir,P - Purchase,77.25,2000,9200,+28%,154500.0,,,,,RGLD
-20,,2018-07-03 17:21:55,2018-07-03,RGLD,Jensen Tony A,"CEO, Pres",S - Sale,95.11,-20000,145934,-12%,-1902200.0,,,,,RGLD
-21,,2018-06-29 18:33:02,2018-06-29,RGLD,Heissenbuttel William Holmes,"CFO, VP",S - Sale,93.14,-4091,69581,-6%,-381036.0,,,,,RGLD
-22,,2018-06-28 17:12:28,2018-06-27,RGLD,Heissenbuttel William Holmes,"CFO, VP",S - Sale,91.87,-6360,73672,-8%,-584293.0,,,,,RGLD
-23,,2018-06-20 17:14:09,2018-06-20,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",S - Sale,91.91,-6480,80032,-7%,-595577.0,,,,,RGLD
-24,D,2018-06-05 17:33:49,2018-06-01,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,90.04,-6256,124210,-5%,-563276.0,,,,,RGLD
-25,,2018-06-01 15:54:51,2018-06-01,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale,89.93,-760,43758,-2%,-68347.0,,,,,RGLD
-26,,2018-06-01 15:40:03,2018-06-01,RGLD,Anderson Karli S.,VP Investor Relations,S - Sale,89.77,-1049,19744,-5%,-94169.0,,,,,RGLD
-27,,2018-05-03 16:16:57,2018-05-01,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,88.16,-1500,56020,-3%,-132240.0,,,,,RGLD
+0,,2022-03-07 15:46:08,2022-03-03,RGLD,Breeze Daniel,VP Corp Dev of RGLD Gold AG,A - Grant,0.0,1670,9898,+20%,0.0,,,,,RGLD
+1,,2022-03-07 15:45:22,2022-03-03,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",A - Grant,0.0,2080,27291,+8%,0.0,,,,,RGLD
+2,,2022-03-07 15:44:46,2022-03-03,RGLD,Gill Laura,"VP, Corp. Sec., CCO",A - Grant,0.0,980,980,New,0.0,,,,,RGLD
+3,,2022-03-07 15:44:11,2022-03-03,RGLD,Shefman Randy,"VP, GC",A - Grant,0.0,1450,9456,+18%,0.0,,,,,RGLD
+4,,2022-03-07 15:42:40,2022-03-03,RGLD,Libner Paul,"CFO, Treasurer",A - Grant,0.0,1450,15448,+10%,0.0,,,,,RGLD
+5,,2022-03-07 15:42:14,2022-03-03,RGLD,Heissenbuttel William Holmes,"Pres, CEO",A - Grant,0.0,4670,91714,+5%,0.0,,,,,RGLD
+6,,2022-03-07 15:34:16,2022-03-03,RGLD,Hayes William M.,Dir,A - Grant,0.0,688,10767,+7%,0.0,,,,,RGLD
+7,,2022-03-02 17:17:00,2022-03-01,RGLD,Libner Paul,"CFO, Treasurer",S - Sale,125.0,-1200,13998,-8%,-150000.0,,,,,RGLD
+8,,2021-08-31 17:59:38,2021-08-31,RGLD,Shefman Randy,"VP, GC",S - Sale,111.2,-1000,8006,-11%,-111195.0,,,,,RGLD
+9,,2021-08-30 16:16:47,2021-08-27,RGLD,Libner Paul,"CFO, Treasurer",S - Sale,112.58,-921,15198,-6%,-103690.0,,,,,RGLD
+10,,2021-08-26 17:35:31,2021-08-24,RGLD,Shefman Randy,"VP, GC",A - Grant,0.0,3471,9006,+63%,0.0,,,,,RGLD
+11,,2021-08-26 17:35:31,2021-08-24,RGLD,Shefman Randy,"VP, GC",F - Tax,111.28,-93,9006,-1%,-10349.0,,,,,RGLD
+12,,2021-08-26 17:35:02,2021-08-24,RGLD,Libner Paul,"CFO, Treasurer",A - Grant,0.0,3506,16119,+28%,0.0,,,,,RGLD
+13,,2021-08-26 17:35:02,2021-08-24,RGLD,Libner Paul,"CFO, Treasurer",F - Tax,111.28,-108,16119,-1%,-12018.0,,,,,RGLD
+14,,2021-08-26 17:34:36,2021-08-24,RGLD,McCandless Margaret,"Asst. GC, CCO, Corp. Sec.",A - Grant,0.0,2310,3385,+215%,0.0,,,,,RGLD
+15,,2021-08-26 17:34:36,2021-08-24,RGLD,McCandless Margaret,"Asst. GC, CCO, Corp. Sec.",F - Tax,111.28,-45,3385,-1%,-5008.0,,,,,RGLD
+16,,2021-08-26 17:34:13,2021-08-24,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",A - Grant,0.0,4354,25211,+21%,0.0,,,,,RGLD
+17,,2021-08-26 17:34:13,2021-08-24,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",F - Tax,111.28,-217,25211,-1%,-24148.0,,,,,RGLD
+18,,2021-08-26 17:33:52,2021-08-24,RGLD,Heissenbuttel William Holmes,"Pres, CEO",A - Grant,0.0,10455,87044,+14%,0.0,,,,,RGLD
+19,,2021-08-26 17:33:52,2021-08-24,RGLD,Heissenbuttel William Holmes,"Pres, CEO",F - Tax,111.28,-315,87044,0%,-35053.0,,,,,RGLD
+20,,2021-08-26 17:33:22,2021-08-24,RGLD,Breeze Daniel,VP Corp Dev of RGLD Gold AG,A - Grant,0.0,3465,8228,+73%,0.0,,,,,RGLD
+21,,2021-08-26 17:33:22,2021-08-24,RGLD,Breeze Daniel,VP Corp Dev of RGLD Gold AG,F - Tax,111.28,-17,8228,0%,-1892.0,,,,,RGLD
+22,,2021-08-25 16:40:50,2021-08-24,RGLD,Hayes William M.,Dir,A - Grant,0.0,1299,10079,+15%,0.0,,,,,RGLD
+23,,2021-08-24 16:46:20,2021-08-23,RGLD,Heissenbuttel William Holmes,"Pres, CEO",F - Tax,112.1,-490,76904,-1%,-54929.0,,,,,RGLD
+24,,2021-08-24 16:46:04,2021-08-23,RGLD,Libner Paul,"CFO, Treasurer",F - Tax,112.1,-196,12721,-2%,-21972.0,,,,,RGLD
+25,,2021-08-24 16:45:47,2021-08-23,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",F - Tax,112.1,-563,21074,-3%,-63112.0,,,,,RGLD
+26,,2021-08-24 16:45:37,2021-08-23,RGLD,Shefman Randy,"VP, GC",F - Tax,112.1,-196,5628,-3%,-21972.0,,,,,RGLD
+27,,2021-08-23 16:29:59,2021-08-21,RGLD,Heissenbuttel William Holmes,"Pres, CEO",F - Tax,108.66,-472,77394,-1%,-51288.0,,,,,RGLD
+28,,2021-08-23 16:29:20,2021-08-21,RGLD,Shefman Randy,"VP, GC",F - Tax,108.66,-196,5824,-3%,-21297.0,,,,,RGLD
+29,,2021-08-23 16:28:48,2021-08-21,RGLD,Libner Paul,"CFO, Treasurer",F - Tax,108.66,-196,12917,-1%,-21297.0,,,,,RGLD
+30,,2021-08-23 16:28:17,2021-08-21,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",F - Tax,108.66,-497,21637,-2%,-54004.0,,,,,RGLD
+31,,2021-08-17 16:46:47,2021-08-16,RGLD,Shefman Randy,"VP, GC",F - Tax,114.56,-168,6020,-3%,-19246.0,,,,,RGLD
+32,,2021-08-17 16:46:26,2021-08-16,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",F - Tax,114.56,-493,22134,-2%,-56478.0,,,,,RGLD
+33,,2021-08-17 16:46:05,2021-08-16,RGLD,Heissenbuttel William Holmes,"Pres, CEO",F - Tax,114.56,-461,77866,-1%,-52812.0,,,,,RGLD
+34,,2021-08-17 16:45:56,2021-08-16,RGLD,Libner Paul,"CFO, Treasurer",F - Tax,114.56,-168,13113,-1%,-19246.0,,,,,RGLD
+35,,2021-02-11 16:53:17,2021-02-10,RGLD,Shefman Randy,"VP, GC",S - Sale,109.19,-900,6188,-13%,-98267.0,,,,,RGLD
+36,D,2021-01-05 18:24:29,2021-01-02,RGLD,Sokalsky Jamie C,Dir,M - OptEx,0.0,2030,11200,+22%,0.0,,,,,RGLD
+37,,2020-08-25 16:52:16,2020-08-23,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",A - Grant,0.0,589,22627,+3%,0.0,,,,,RGLD
+38,,2020-08-25 16:52:16,2020-08-23,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",F - Tax,137.81,-879,22627,-4%,-121135.0,,,,,RGLD
+39,,2020-08-25 16:51:59,2020-08-23,RGLD,Shefman Randy,"VP, GC",A - Grant,0.0,252,7088,+4%,0.0,,,,,RGLD
+40,,2020-08-25 16:51:59,2020-08-23,RGLD,Shefman Randy,"VP, GC",F - Tax,137.81,-303,7088,-4%,-41756.0,,,,,RGLD
+41,,2020-08-25 16:51:33,2020-08-23,RGLD,Libner Paul,"CFO, Treasurer",A - Grant,0.0,252,13281,+2%,0.0,,,,,RGLD
+42,,2020-08-25 16:51:33,2020-08-23,RGLD,Libner Paul,"CFO, Treasurer",F - Tax,137.81,-303,13281,-2%,-41756.0,,,,,RGLD
+43,,2020-08-25 16:50:58,2020-08-23,RGLD,Heissenbuttel William Holmes,"Pres, CEO",A - Grant,0.0,628,78327,+1%,0.0,,,,,RGLD
+44,,2020-08-25 16:50:58,2020-08-23,RGLD,Heissenbuttel William Holmes,"Pres, CEO",F - Tax,137.81,-769,78327,-1%,-105976.0,,,,,RGLD
+45,,2020-08-25 16:50:21,2020-08-23,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",A - Grant,0.0,589,22627,+3%,0.0,,,,,RGLD
+46,,2020-08-25 16:50:21,2020-08-23,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",F - Tax,137.81,-879,22627,-4%,-121135.0,,,,,RGLD
+47,,2020-08-24 16:32:38,2020-08-21,RGLD,Vance Ronald J,Dir,G - Gift,0.0,-250,7484,-3%,-0.0,,,,,RGLD
+48,,2020-08-21 16:23:54,2020-08-20,RGLD,Shefman Randy,"VP, GC",F - Tax,139.34,-281,7139,-4%,-39155.0,,,,,RGLD
+49,,2020-08-21 16:22:59,2020-08-20,RGLD,Libner Paul,"CFO, Treasurer",F - Tax,139.34,-210,13332,-2%,-29261.0,,,,,RGLD
+50,,2020-08-21 16:11:20,2020-08-20,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",F - Tax,139.34,-893,22917,-4%,-124431.0,,,,,RGLD
+51,,2020-08-21 16:11:03,2020-08-20,RGLD,Heissenbuttel William Holmes,"Pres, CEO",F - Tax,139.34,-764,78468,-1%,-106456.0,,,,,RGLD
+52,,2020-08-20 16:45:07,2020-08-19,RGLD,Hayes William M.,Dir,A - Grant,0.0,1124,8780,+15%,0.0,,,,,RGLD
+53,D,2020-08-19 18:04:04,2020-08-18,RGLD,Breeze Daniel,VP Corp Dev of RGLD Gold AG,A - Grant,0.0,1810,4780,+61%,0.0,,,,,RGLD
+54,D,2020-08-19 18:03:39,2020-08-18,RGLD,Isto Mark,"EVP, COO of Royal Gold Corp",A - Grant,0.0,2370,23810,+11%,0.0,,,,,RGLD
+55,D,2020-08-19 18:03:05,2020-08-18,RGLD,McCandless Margaret,"Asst. GC, CCO, Corp. Sec.",A - Grant,0.0,1120,1120,New,0.0,,,,,RGLD
+56,D,2020-08-19 18:01:52,2020-08-18,RGLD,Shefman Randy,"VP, GC",A - Grant,0.0,1320,7420,+22%,0.0,,,,,RGLD
+57,D,2020-08-19 18:01:33,2020-08-18,RGLD,Libner Paul,"CFO, Treasurer",A - Grant,0.0,1570,13542,+13%,0.0,,,,,RGLD
+58,D,2020-08-19 18:01:33,2020-08-18,RGLD,Libner Paul,"CFO, Treasurer",S - Sale+OE,140.0,-300,13542,-2%,-42000.0,,,,,RGLD
+59,D,2020-08-19 18:01:05,2020-08-18,RGLD,Heissenbuttel William Holmes,"Pres, CEO",A - Grant,0.0,4500,79232,+6%,0.0,,,,,RGLD
+60,,2020-08-17 16:43:08,2020-08-16,RGLD,Shefman Randy,"VP, GC",F - Tax,131.35,-168,6100,-3%,-22067.0,,,,,RGLD
+61,,2020-08-17 16:42:58,2020-08-16,RGLD,Isto Mark,"EVP, COO",F - Tax,131.35,-493,21440,-2%,-64756.0,,,,,RGLD
+62,,2020-08-17 16:42:52,2020-08-16,RGLD,Heissenbuttel William Holmes,"Pres, CEO",F - Tax,131.35,-462,74732,-1%,-60684.0,,,,,RGLD
+63,,2020-08-17 16:42:40,2020-08-16,RGLD,Libner Paul,"CFO, Treasurer",F - Tax,131.35,-168,12272,-1%,-22067.0,,,,,RGLD
+64,D,2020-06-12 16:50:14,2020-06-10,RGLD,Shefman Randy,"VP, GC",D - Sale to issuer,126.0,-405,6268,-6%,-51030.0,,,,,RGLD
+65,D,2020-06-12 16:50:14,2020-06-10,RGLD,Shefman Randy,"VP, GC",F - Tax,126.0,-165,6268,-3%,-20790.0,,,,,RGLD
+66,D,2020-06-12 16:50:14,2020-06-10,RGLD,Shefman Randy,"VP, GC",M - OptEx,68.25,5602,6268,+841%,382323.0,,,,,RGLD
+67,D,2020-06-12 16:50:14,2020-06-10,RGLD,Shefman Randy,"VP, GC",S - Sale+OE,126.0,-5032,6268,-45%,-634032.0,,,,,RGLD
+68,D,2020-01-06 13:06:55,2020-01-02,RGLD,Libner Paul,"CFO, Treasurer",A - Grant,0.0,440,12440,+4%,0.0,,,,,RGLD
+69,D,2020-01-06 13:05:45,2020-01-02,RGLD,Shefman Randy,"VP, GC",A - Grant,0.0,300,6268,+5%,0.0,,,,,RGLD
+70,D,2020-01-06 13:04:47,2020-01-02,RGLD,Isto Mark,"EVP, COO",A - Grant,0.0,140,21933,+1%,0.0,,,,,RGLD
+71,D,2020-01-06 13:04:47,2020-01-05,RGLD,Isto Mark,"EVP, COO",F - Tax,120.13,-446,21933,-2%,-53578.0,,,,,RGLD
+72,D,2020-01-06 13:01:59,2020-01-02,RGLD,Heissenbuttel William Holmes,"Pres, CEO",A - Grant,0.0,1170,75194,+2%,0.0,,,,,RGLD
+73,,2019-09-10 15:55:49,2019-09-09,RGLD,Vance Ronald J,Dir,G - Gift,0.0,-500,7734,-6%,-0.0,,,,,RGLD
+74,D,2019-09-04 16:53:57,2019-09-03,RGLD,Isto Mark,VP Operations,D - Sale to issuer,135.0,-4474,22239,-17%,-603990.0,,,,,RGLD
+75,D,2019-09-04 16:53:57,2019-09-03,RGLD,Isto Mark,VP Operations,F - Tax,135.0,-770,22239,-3%,-103950.0,,,,,RGLD
+76,D,2019-09-04 16:53:57,2019-09-03,RGLD,Isto Mark,VP Operations,M - OptEx,82.92,7741,22239,+53%,641864.0,,,,,RGLD
+77,D,2019-09-04 16:53:57,2019-09-03,RGLD,Isto Mark,VP Operations,S - Sale+OE,135.0,-2497,22239,-10%,-337095.0,,,,,RGLD
+78,D,2019-08-29 12:05:51,2019-08-27,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,131.67,-18852,41771,-31%,-2482243.0,,,,,RGLD
+79,D,2019-08-29 12:05:51,2019-08-27,RGLD,Jensen Tony A,"CEO, Pres",M - OptEx,82.62,25014,41771,+149%,2066706.0,,,,,RGLD
+80,D,2019-08-29 12:05:51,2019-08-27,RGLD,Jensen Tony A,"CEO, Pres",S - Sale+OE,134.08,-14984,41771,-26%,-2009035.0,,,,,RGLD
+81,,2019-08-28 12:47:48,2019-08-27,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale,132.72,-1593,43450,-4%,-211423.0,,,,,RGLD
+82,,2019-08-26 19:02:34,2019-08-26,RGLD,Heissenbuttel William Holmes,"CFO, VP",F - Tax,131.67,-616,74024,-1%,-81109.0,,,,,RGLD
+83,,2019-08-26 19:02:01,2019-08-26,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,131.67,-1584,50593,-3%,-208565.0,,,,,RGLD
+84,,2019-08-26 19:00:27,2019-08-26,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,131.67,-616,45043,-1%,-81109.0,,,,,RGLD
+85,,2019-08-21 11:22:56,2019-08-20,RGLD,Isto Mark,VP Operations,F - Tax,127.52,-892,22239,-4%,-113748.0,,,,,RGLD
+86,,2019-08-21 11:22:16,2019-08-20,RGLD,Heissenbuttel William Holmes,"CFO, VP",F - Tax,127.52,-764,74640,-1%,-97425.0,,,,,RGLD
+87,,2019-08-21 11:21:33,2019-08-20,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,127.52,-1866,52177,-3%,-237952.0,,,,,RGLD
+88,,2019-08-21 11:20:40,2019-08-20,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,127.52,-636,45659,-1%,-81103.0,,,,,RGLD
+89,,2019-08-20 14:11:31,2019-08-16,RGLD,Isto Mark,VP Operations,A - Grant,0.0,1779,23131,+8%,0.0,,,,,RGLD
+90,,2019-08-20 14:11:31,2019-08-16,RGLD,Isto Mark,VP Operations,F - Tax,124.64,-1446,23131,-6%,-180229.0,,,,,RGLD
+91,,2019-08-20 14:09:39,2019-08-16,RGLD,Heissenbuttel William Holmes,"CFO, VP",A - Grant,0.0,2034,75404,+3%,0.0,,,,,RGLD
+92,,2019-08-20 14:09:39,2019-08-16,RGLD,Heissenbuttel William Holmes,"CFO, VP",F - Tax,124.64,-1357,75404,-2%,-169136.0,,,,,RGLD
+93,,2019-08-20 14:09:05,2019-08-16,RGLD,Jensen Tony A,"CEO, Pres",A - Grant,0.0,4892,54043,+10%,0.0,,,,,RGLD
+94,,2019-08-20 14:09:05,2019-08-16,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,124.64,-3265,54043,-6%,-406950.0,,,,,RGLD
+95,,2019-08-20 14:08:20,2019-08-16,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",A - Grant,0.0,1668,46295,+4%,0.0,,,,,RGLD
+96,,2019-08-20 14:08:20,2019-08-16,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,124.64,-1114,46295,-2%,-138849.0,,,,,RGLD
+97,,2019-08-20 14:08:20,2019-08-20,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale,127.16,-1417,46295,-3%,-180186.0,,,,,RGLD
+98,D,2019-08-15 11:01:42,2019-08-13,RGLD,Breeze Daniel,VP Corp Dev of RGLD Gold AG,A - Grant,0.0,1770,2970,+148%,0.0,,,,,RGLD
+99,D,2019-08-15 10:59:10,2019-08-13,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",A - Grant,0.0,1810,47158,+4%,0.0,,,,,RGLD
+100,D,2019-08-15 10:54:45,2019-08-13,RGLD,Heissenbuttel William Holmes,"CFO, VP",A - Grant,0.0,2530,74727,+4%,0.0,,,,,RGLD
+101,D,2019-08-15 10:53:29,2019-08-13,RGLD,Isto Mark,VP Operations,A - Grant,0.0,2300,22798,+11%,0.0,,,,,RGLD
+102,D,2019-08-15 10:53:29,2019-08-13,RGLD,Isto Mark,VP Operations,D - Sale to issuer,128.13,-6501,22798,-22%,-832973.0,,,,,RGLD
+103,D,2019-08-15 10:53:29,2019-08-13,RGLD,Isto Mark,VP Operations,F - Tax,128.13,-2446,22798,-10%,-313406.0,,,,,RGLD
+104,D,2019-08-15 10:53:29,2019-08-13,RGLD,Isto Mark,VP Operations,M - OptEx,74.9,11120,22798,+95%,832924.0,,,,,RGLD
+105,D,2019-08-15 10:53:29,2019-08-13,RGLD,Isto Mark,VP Operations,S - Sale+OE,125.02,-2173,22798,-9%,-271668.0,,,,,RGLD
+106,,2019-08-14 18:26:19,2019-08-13,RGLD,Jensen Tony A,"CEO, Pres",S - Sale,124.59,-46570,52416,-47%,-5802156.0,,,,,RGLD
+107,D,2019-08-14 18:23:21,2019-08-14,RGLD,Thompson Christopher M.T.,Dir,A - Grant,0.0,1386,40470,+4%,0.0,,,,,RGLD
+108,,2019-08-14 18:17:57,2019-08-14,RGLD,Hayes William M.,Dir,A - Grant,0.0,1386,7656,+22%,0.0,,,,,RGLD
+109,,2019-08-14 18:17:57,2019-08-13,RGLD,Hayes William M.,Dir,S - Sale,125.0,-18369,7656,-71%,-2296125.0,,,,,RGLD
+110,,2019-06-14 16:11:34,2019-06-14,RGLD,Vance Ronald J,Dir,S - Sale,94.77,-1930,8234,-19%,-182906.0,,,,,RGLD
+111,,2019-06-12 16:36:13,2019-06-12,RGLD,Jensen Tony A,"CEO, Pres",S - Sale,93.62,-31936,98986,-24%,-2989848.0,,,,,RGLD
+112,D,2019-06-10 16:52:24,2019-06-07,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",D - Sale to issuer,94.3,-23629,45348,-34%,-2228215.0,,,,,RGLD
+113,D,2019-06-10 16:52:24,2019-06-07,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",M - OptEx,68.93,33100,45348,+270%,2281445.0,,,,,RGLD
+114,DM,2019-06-10 16:52:24,2019-06-07,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale+OE,93.18,-9471,45348,-17%,-882473.0,,,,,RGLD
+115,D,2019-06-07 16:55:30,2019-06-05,RGLD,Jensen Tony A,"CEO, Pres",D - Sale to issuer,92.26,-89537,274073,-25%,-8260684.0,,,,,RGLD
+116,D,2019-06-07 16:55:30,2019-06-05,RGLD,Jensen Tony A,"CEO, Pres",M - OptEx,72.5,106746,274073,+64%,7738929.0,,,,,RGLD
+117,DM,2019-06-07 16:55:30,2019-06-05,RGLD,Jensen Tony A,"CEO, Pres",S - Sale+OE,92.42,-38821,274073,-12%,-3587655.0,,,,,RGLD
+118,,2019-01-07 17:57:32,2019-01-05,RGLD,Isto Mark,VP Operations,F - Tax,84.72,-273,20498,-1%,-23129.0,,,,,RGLD
+119,D,2019-01-04 17:50:08,2019-01-02,RGLD,Breeze Daniel,VP Corp Dev of RGLD Gold AG,A - Grant,0.0,1200,1200,New,0.0,,,,,RGLD
+120,,2018-09-27 12:20:39,2018-09-26,RGLD,Veenman Sybil E,Dir,P - Purchase,78.11,500,2515,+25%,39055.0,,,,,RGLD
+121,,2018-09-17 15:15:11,2018-09-17,RGLD,Sokalsky Jamie C,Dir,P - Purchase,77.18,2000,10185,+24%,154360.0,,,,,RGLD
+122,M,2018-08-28 15:12:32,2018-08-26,RGLD,Heissenbuttel William Holmes,"CFO, VP",F - Tax,78.49,-1232,72197,-2%,-96694.0,,,,,RGLD
+123,M,2018-08-28 15:08:08,2018-08-26,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,78.49,-3344,152534,-2%,-262483.0,,,,,RGLD
+124,M,2018-08-28 14:59:43,2018-08-26,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,78.49,-1232,45348,-3%,-96694.0,,,,,RGLD
+125,,2018-08-28 14:51:40,2018-08-26,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,78.32,-385,22021,-2%,-30153.0,,,,,RGLD
+126,D,2018-08-23 13:36:35,2018-08-21,RGLD,Anderson Karli S.,VP Investor Relations,A - Grant,0.0,2230,22406,+11%,0.0,,,,,RGLD
+127,D,2018-08-23 13:36:35,2018-08-21,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,0.0,-754,22406,-3%,-0.0,,,,,RGLD
+128,D,2018-08-23 13:36:35,2018-08-21,RGLD,Anderson Karli S.,VP Investor Relations,M - OptEx,0.0,1713,22406,+8%,0.0,,,,,RGLD
+129,D,2018-08-23 13:36:07,2018-08-21,RGLD,Heissenbuttel William Holmes,"CFO, VP",A - Grant,0.0,3220,73429,+5%,0.0,,,,,RGLD
+130,D,2018-08-23 13:36:07,2018-08-21,RGLD,Heissenbuttel William Holmes,"CFO, VP",F - Tax,0.0,-1094,73429,-1%,-0.0,,,,,RGLD
+131,D,2018-08-23 13:36:07,2018-08-21,RGLD,Heissenbuttel William Holmes,"CFO, VP",M - OptEx,0.0,2486,73429,+4%,0.0,,,,,RGLD
+132,D,2018-08-23 13:34:58,2018-08-21,RGLD,Isto Mark,VP Operations,A - Grant,0.0,2780,20771,+15%,0.0,,,,,RGLD
+133,D,2018-08-23 13:34:58,2018-08-21,RGLD,Isto Mark,VP Operations,F - Tax,0.0,-1229,20771,-6%,-0.0,,,,,RGLD
+134,D,2018-08-23 13:34:58,2018-08-21,RGLD,Isto Mark,VP Operations,M - OptEx,0.0,2295,20771,+12%,0.0,,,,,RGLD
+135,D,2018-08-23 13:34:44,2018-08-21,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",A - Grant,0.0,2300,46580,+5%,0.0,,,,,RGLD
+136,D,2018-08-23 13:34:44,2018-08-21,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,0.0,-911,46580,-2%,-0.0,,,,,RGLD
+137,D,2018-08-23 13:34:44,2018-08-21,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",M - OptEx,0.0,2069,46580,+5%,0.0,,,,,RGLD
+138,D,2018-08-23 13:34:30,2018-08-21,RGLD,Jensen Tony A,"CEO, Pres",A - Grant,0.0,8410,155878,+6%,0.0,,,,,RGLD
+139,D,2018-08-23 13:34:30,2018-08-21,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,0.0,-2672,155878,-2%,-0.0,,,,,RGLD
+140,D,2018-08-23 13:34:30,2018-08-21,RGLD,Jensen Tony A,"CEO, Pres",M - OptEx,0.0,6072,155878,+4%,0.0,,,,,RGLD
+141,,2018-08-22 20:03:53,2018-08-22,RGLD,Thompson Christopher M.T.,Dir,A - Grant,77.88,1770,41114,+4%,137848.0,,,,,RGLD
+142,,2018-08-22 20:03:12,2018-08-22,RGLD,Hayes William M.,Dir,A - Grant,77.88,1770,24639,+8%,137848.0,,,,,RGLD
+143,,2018-08-21 11:55:07,2018-08-20,RGLD,Isto Mark,VP Operations,F - Tax,77.65,-893,16925,-5%,-69341.0,,,,,RGLD
+144,,2018-08-21 11:47:30,2018-08-20,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,77.65,-527,19217,-3%,-40922.0,,,,,RGLD
+145,,2018-08-21 11:46:49,2018-08-20,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,77.65,-1866,144068,-1%,-144895.0,,,,,RGLD
+146,,2018-08-21 11:46:14,2018-08-20,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,77.65,-636,43122,-1%,-49385.0,,,,,RGLD
+147,,2018-08-21 11:45:05,2018-08-20,RGLD,Heissenbuttel William Holmes,"CFO, VP",F - Tax,77.65,-764,68817,-1%,-59325.0,,,,,RGLD
+148,,2018-08-15 17:20:00,2018-08-15,RGLD,Sokalsky Jamie C,Dir,P - Purchase,77.25,2000,9200,+28%,154500.0,,,,,RGLD
+149,,2018-07-03 17:21:55,2018-07-03,RGLD,Jensen Tony A,"CEO, Pres",S - Sale,95.11,-20000,145934,-12%,-1902200.0,,,,,RGLD
+150,AD,2018-07-03 13:25:30,2018-05-29,RGLD,Isto Mark,VP Operations,F - Tax,88.63,-335,17818,-2%,-29691.0,,,,,RGLD
+151,AD,2018-07-03 13:25:30,2018-05-29,RGLD,Isto Mark,VP Operations,M - OptEx,0.0,625,17818,+4%,0.0,,,,,RGLD
+152,,2018-06-29 18:33:02,2018-06-29,RGLD,Heissenbuttel William Holmes,"CFO, VP",S - Sale,93.14,-4091,69581,-6%,-381036.0,,,,,RGLD
+153,,2018-06-28 17:12:28,2018-06-27,RGLD,Heissenbuttel William Holmes,"CFO, VP",S - Sale,91.87,-6360,73672,-8%,-584293.0,,,,,RGLD
+154,,2018-06-20 17:14:09,2018-06-20,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",S - Sale,91.91,-6480,80032,-7%,-595577.0,,,,,RGLD
+155,D,2018-06-18 19:51:32,2018-06-14,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",D - Sale to issuer,93.3,-28368,86512,-25%,-2646734.0,,,,,RGLD
+156,D,2018-06-18 19:51:32,2018-06-14,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",F - Tax,93.3,-5280,86512,-6%,-492624.0,,,,,RGLD
+157,D,2018-06-18 19:51:32,2018-06-14,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",M - OptEx,64.94,49950,86512,+137%,3243684.0,,,,,RGLD
+158,D,2018-06-05 17:33:49,2018-06-01,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,89.87,-32686,124210,-21%,-2937491.0,,,,,RGLD
+159,D,2018-06-05 17:33:49,2018-06-01,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,67.49,43520,124210,+54%,2937261.0,,,,,RGLD
+160,D,2018-06-05 17:33:49,2018-06-01,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,90.04,-6256,124210,-5%,-563276.0,,,,,RGLD
+161,,2018-06-01 15:54:51,2018-06-01,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale,89.93,-760,43758,-2%,-68347.0,,,,,RGLD
+162,,2018-06-01 15:40:03,2018-06-01,RGLD,Anderson Karli S.,VP Investor Relations,S - Sale,89.77,-1049,19744,-5%,-94169.0,,,,,RGLD
+163,D,2018-05-31 19:09:54,2018-05-29,RGLD,Isto Mark,VP Operations,M - OptEx,0.0,625,18153,+4%,0.0,,,,,RGLD
+164,D,2018-05-31 17:52:35,2018-05-29,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,88.63,-590,44518,-1%,-52292.0,,,,,RGLD
+165,D,2018-05-31 17:52:35,2018-05-29,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",M - OptEx,0.0,1350,44518,+3%,0.0,,,,,RGLD
+166,D,2018-05-31 17:49:55,2018-05-29,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",F - Tax,88.63,-594,70210,-1%,-52646.0,,,,,RGLD
+167,D,2018-05-31 17:49:55,2018-05-29,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",M - OptEx,0.0,1350,70210,+2%,0.0,,,,,RGLD
+168,D,2018-05-31 17:47:25,2018-05-29,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,88.63,-593,56777,-1%,-52558.0,,,,,RGLD
+169,D,2018-05-31 17:47:25,2018-05-29,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,1350,56777,+2%,0.0,,,,,RGLD
+170,D,2018-05-31 17:44:15,2018-05-29,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,88.63,-368,20793,-2%,-32616.0,,,,,RGLD
+171,D,2018-05-31 17:44:15,2018-05-29,RGLD,Anderson Karli S.,VP Investor Relations,M - OptEx,0.0,850,20793,+4%,0.0,,,,,RGLD
+172,D,2018-05-31 17:43:08,2018-05-29,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,88.63,-1540,165934,-1%,-136490.0,,,,,RGLD
+173,D,2018-05-31 17:43:08,2018-05-29,RGLD,Jensen Tony A,"CEO, Pres",M - OptEx,0.0,3500,165934,+2%,0.0,,,,,RGLD
+174,,2018-05-16 18:20:50,2018-05-15,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,88.54,-433,20311,-2%,-38338.0,,,,,RGLD
+175,,2018-05-03 16:16:57,2018-05-01,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,88.16,-1500,56020,-3%,-132240.0,,,,,RGLD
+176,,2018-04-03 18:43:19,2018-04-02,RGLD,Wenger Stefan,"CFO, Dir",S - Sale,85.94,-1500,57520,-3%,-128910.0,,,,,RGLD
+177,,2018-03-26 17:03:16,2018-03-23,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,85.0,-1500,59020,-2%,-127500.0,,,,,RGLD
+178,,2018-02-02 15:24:50,2018-02-01,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,88.5,-1500,60520,-2%,-132750.0,,,,,RGLD
+179,,2018-01-16 17:05:12,2018-01-11,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,85.0,-1500,62020,-2%,-127500.0,,,,,RGLD
+180,,2017-12-14 17:47:11,2017-12-13,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,85.0,-1500,63520,-2%,-127500.0,,,,,RGLD
+181,,2017-11-03 18:25:28,2017-11-02,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,85.0,-1500,65020,-2%,-127500.0,,,,,RGLD
+182,A,2017-11-03 18:19:14,2017-08-28,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale,90.76,-6190,43758,-12%,-561817.0,,,,,RGLD
+183,,2017-10-04 18:23:32,2017-10-02,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,85.88,-1500,66520,-2%,-128820.0,,,,,RGLD
+184,D,2017-08-30 18:23:17,2017-08-28,RGLD,Anderson Karli S.,VP Investor Relations,D - Sale to issuer,92.11,-10190,20744,-33%,-938601.0,,,,,RGLD
+185,D,2017-08-30 18:23:17,2017-08-28,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,92.11,-1943,20744,-9%,-178970.0,,,,,RGLD
+186,D,2017-08-30 18:23:17,2017-08-28,RGLD,Anderson Karli S.,VP Investor Relations,M - OptEx,63.05,18058,20744,+672%,1138572.0,,,,,RGLD
+187,D,2017-08-30 18:23:17,2017-08-30,RGLD,Anderson Karli S.,VP Investor Relations,S - Sale+OE,91.45,-2262,20744,-10%,-206860.0,,,,,RGLD
+188,,2017-08-29 18:09:14,2017-08-25,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,88.74,-386,17081,-2%,-34254.0,,,,,RGLD
+189,A,2017-08-29 18:02:14,2017-08-23,RGLD,Isto Mark,VP Operations,F - Tax,87.42,-1669,17528,-9%,-145904.0,,,,,RGLD
+190,,2017-08-29 17:55:40,2017-08-25,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,88.74,-1248,69454,-2%,-110748.0,,,,,RGLD
+191,,2017-08-29 17:50:07,2017-08-25,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,88.74,-3515,163974,-2%,-311921.0,,,,,RGLD
+192,,2017-08-29 17:50:07,2017-08-28,RGLD,Jensen Tony A,"CEO, Pres",S - Sale,90.0,-25000,163974,-13%,-2250000.0,,,,,RGLD
+193,,2017-08-29 17:40:01,2017-08-25,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,88.74,-1275,42483,-3%,-113144.0,,,,,RGLD
+194,,2017-08-29 17:40:01,2017-08-28,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale,90.76,-6190,42483,-13%,-561817.0,,,,,RGLD
+195,,2017-08-29 17:31:39,2017-08-25,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,88.74,-1272,68020,-2%,-112877.0,,,,,RGLD
+196,AD,2017-08-25 21:32:44,2017-08-23,RGLD,McArthur C. Kevin,Dir,A - Grant,0.0,1015,11829,+9%,0.0,,,,,RGLD
+197,D,2017-08-25 21:24:40,2017-08-23,RGLD,Veenman Sybil E,Dir,A - Grant,0.0,1015,2015,+102%,0.0,,,,,RGLD
+198,D,2017-08-25 21:18:16,2017-08-23,RGLD,Vance Ronald J,Dir,A - Grant,0.0,1015,11179,+10%,0.0,,,,,RGLD
+199,D,2017-08-25 21:10:29,2017-08-23,RGLD,Thompson Christopher M.T.,Dir,A - Grant,0.0,1015,38329,+3%,0.0,,,,,RGLD
+200,D,2017-08-25 21:00:19,2017-08-23,RGLD,Sokalsky Jamie C,Dir,A - Grant,0.0,1015,7270,+16%,0.0,,,,,RGLD
+201,D,2017-08-25 20:50:28,2017-08-23,RGLD,McArthur C. Kevin,Dir,A - Grant,0.0,1015,12844,+9%,0.0,,,,,RGLD
+202,,2017-08-25 20:40:40,2017-08-23,RGLD,Haase M Craig,Dir,A - Grant,0.0,2030,28054,+8%,0.0,,,,,RGLD
+203,,2017-08-25 20:33:02,2017-08-23,RGLD,Hayes William M.,Chairman of the Board,A - Grant,0.0,2030,22869,+10%,0.0,,,,,RGLD
+204,D,2017-08-25 20:20:36,2017-08-23,RGLD,Wenger Stefan,"CFO, Treasurer",A - Grant,0.0,3110,135474,+2%,0.0,,,,,RGLD
+205,D,2017-08-25 20:20:36,2017-08-23,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,87.42,-3121,135474,-2%,-272838.0,,,,,RGLD
+206,D,2017-08-25 20:20:36,2017-08-23,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,6772,135474,+5%,0.0,,,,,RGLD
+207,D,2017-08-25 20:04:30,2017-08-23,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corporate Secretary",A - Grant,0.0,2610,49948,+6%,0.0,,,,,RGLD
+208,D,2017-08-25 20:04:30,2017-08-23,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corporate Secretary",F - Tax,87.42,-2901,49948,-5%,-253605.0,,,,,RGLD
+209,D,2017-08-25 20:04:30,2017-08-23,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corporate Secretary",M - OptEx,0.0,6291,49948,+14%,0.0,,,,,RGLD
+210,D,2017-08-25 19:45:31,2017-08-23,RGLD,Isto Mark,VP Operations,A - Grant,0.0,3150,19197,+20%,0.0,,,,,RGLD
+211,D,2017-08-25 19:45:31,2017-08-23,RGLD,Isto Mark,VP Operations,M - OptEx,0.0,3256,19197,+20%,0.0,,,,,RGLD
+212,D,2017-08-25 19:29:37,2017-08-23,RGLD,Heissenbuttel William Holmes,VP Corporate Development,A - Grant,0.0,3350,70702,+5%,0.0,,,,,RGLD
+213,D,2017-08-25 19:29:37,2017-08-23,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,87.42,-3166,70702,-4%,-276772.0,,,,,RGLD
+214,D,2017-08-25 19:29:37,2017-08-23,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,6918,70702,+11%,0.0,,,,,RGLD
+215,D,2017-08-25 19:11:33,2017-08-23,RGLD,Anderson Karli S.,VP Investor Relations,A - Grant,0.0,2530,17467,+17%,0.0,,,,,RGLD
+216,D,2017-08-25 19:11:33,2017-08-23,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,87.42,-1498,17467,-8%,-130955.0,,,,,RGLD
+217,D,2017-08-25 19:11:33,2017-08-23,RGLD,Anderson Karli S.,VP Investor Relations,M - OptEx,0.0,3265,17467,+23%,0.0,,,,,RGLD
+218,D,2017-08-25 18:56:01,2017-08-23,RGLD,Jensen Tony A,"CEO, Pres",A - Grant,0.0,9320,385076,+2%,0.0,,,,,RGLD
+219,D,2017-08-25 18:56:01,2017-08-23,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,87.42,-9418,385076,-2%,-823322.0,,,,,RGLD
+220,D,2017-08-25 18:56:01,2017-08-23,RGLD,Jensen Tony A,"CEO, Pres",M - OptEx,0.0,20274,385076,+6%,0.0,,,,,RGLD
+221,D,2017-08-25 18:36:56,2017-08-16,RGLD,Jensen Tony A,"CEO, Pres",D - Sale to issuer,87.36,-58399,172313,-25%,-5101737.0,,,,,RGLD
+222,D,2017-08-25 18:36:56,2017-08-16,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,87.36,-13181,172313,-7%,-1151492.0,,,,,RGLD
+223,D,2017-08-25 18:36:56,2017-08-16,RGLD,Jensen Tony A,"CEO, Pres",M - OptEx,58.78,91891,172313,+114%,5401171.0,,,,,RGLD
+224,D,2017-08-25 18:36:56,2017-08-16,RGLD,Jensen Tony A,"CEO, Pres",S - Sale+OE,87.03,-3523,172313,-2%,-306607.0,,,,,RGLD
+225,D,2017-08-18 21:48:34,2017-08-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",D - Sale to issuer,87.01,-16625,43948,-27%,-1446541.0,,,,,RGLD
+226,D,2017-08-18 21:48:34,2017-08-16,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,87.36,-663,43948,-1%,-57920.0,,,,,RGLD
+227,D,2017-08-18 21:48:34,2017-08-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",M - OptEx,56.84,31324,43948,+248%,1780599.0,,,,,RGLD
+228,D,2017-08-18 21:48:34,2017-08-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale+OE,86.28,-28805,43948,-40%,-2485388.0,,,,,RGLD
+229,D,2017-08-18 20:37:25,2017-08-18,RGLD,Wenger Stefan,"CFO, Treasurer",D - Sale to issuer,87.01,-5399,61209,-8%,-469767.0,,,,,RGLD
+230,DM,2017-08-18 20:37:25,2017-08-16,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,87.09,-3028,61209,-5%,-263698.0,,,,,RGLD
+231,D,2017-08-18 20:37:25,2017-08-18,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,54.94,12189,61209,+25%,669617.0,,,,,RGLD
+232,D,2017-08-18 20:37:25,2017-08-18,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,87.49,-2086,61209,-3%,-182513.0,,,,,RGLD
+233,M,2017-08-18 19:23:37,2017-08-16,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,0.0,-1352,63600,-2%,-0.0,,,,,RGLD
+234,,2017-08-18 18:38:31,2017-08-16,RGLD,Hayes William M.,Chairman of the Board,S - Sale,86.35,-10850,20839,-34%,-936938.0,,,,,RGLD
+235,,2017-07-27 18:40:03,2017-07-25,RGLD,Jensen Tony A,"CEO, Pres",S - Sale,85.0,-25000,155525,-14%,-2125000.0,,,,,RGLD
+236,,2017-07-27 18:31:24,2017-07-25,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,85.0,-1129,59533,-2%,-95965.0,,,,,RGLD
+237,,2017-07-17 09:01:42,2017-07-12,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,80.0,-500,60662,-1%,-40000.0,,,,,RGLD
+238,,2017-07-05 18:05:24,2017-07-03,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,77.05,-1500,60662,-2%,-115575.0,,,,,RGLD
+239,,2017-06-02 17:16:24,2017-06-01,RGLD,Bogden Gordon,Dir,S - Sale,79.47,-2000,12339,-14%,-158940.0,,,,,RGLD
+240,,2017-06-02 17:09:41,2017-06-01,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,80.06,-2000,62662,-3%,-160120.0,,,,,RGLD
+241,,2017-05-19 18:53:56,2017-05-17,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,80.0,-2500,64662,-4%,-200000.0,,,,,RGLD
+242,,2017-05-19 18:47:48,2017-05-17,RGLD,Jensen Tony A,"CEO, Pres",S - Sale,80.0,-25000,180525,-12%,-2000000.0,,,,,RGLD
+243,,2017-05-17 18:00:24,2017-05-15,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,0.0,-432,13170,-3%,-0.0,,,,,RGLD
+244,,2017-05-12 16:44:27,2017-05-11,RGLD,Wenger Stefan,"CFO, Tresurer",S - Sale,75.0,-500,67162,-1%,-37500.0,,,,,RGLD
+245,,2017-05-03 17:06:45,2017-05-01,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,70.4,-1000,67662,-1%,-70400.0,-1.0,2.0,,,RGLD
+246,,2017-04-13 17:25:33,2017-04-13,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,75.0,-2000,68662,-3%,-150000.0,0.0,-2.0,3.0,,RGLD
+247,M,2017-04-04 18:01:20,2017-03-31,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,70.1,-2000,70622,-3%,-140200.0,-1.0,1.0,-3.0,,RGLD
+248,,2017-03-08 11:32:45,2017-03-07,RGLD,Veenman Sybil E,Dir,P - Purchase,62.76,1000,1000,New,62760.0,0.0,-1.0,14.0,,RGLD
+249,D,2017-03-06 16:44:39,2017-03-02,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,64.58,-1592,205525,-1%,-102811.0,-2.0,-1.0,10.0,,RGLD
+250,D,2017-03-06 16:44:39,2017-03-02,RGLD,Jensen Tony A,"CEO, Pres",M - OptEx,0.0,3500,205525,+2%,0.0,-2.0,-1.0,10.0,,RGLD
+251,D,2017-03-06 16:35:17,2017-03-02,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,64.58,-622,64952,-1%,-40169.0,-2.0,-1.0,10.0,,RGLD
+252,D,2017-03-06 16:35:17,2017-03-02,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,1350,64952,+2%,0.0,-2.0,-1.0,10.0,,RGLD
+253,D,2017-03-06 16:35:17,2017-03-06,RGLD,Heissenbuttel William Holmes,VP Corporate Development,S - Sale+OE,63.26,-10067,64952,-13%,-636838.0,-2.0,-1.0,10.0,,RGLD
+254,D,2017-03-06 16:20:28,2017-03-02,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,64.58,-625,72622,-1%,-40363.0,-2.0,-1.0,10.0,,RGLD
+255,D,2017-03-06 16:20:28,2017-03-02,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,1350,72622,+2%,0.0,-2.0,-1.0,10.0,,RGLD
+256,D,2017-03-06 16:10:09,2017-03-02,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,64.58,-637,58717,-1%,-41137.0,-2.0,-1.0,10.0,,RGLD
+257,D,2017-03-06 16:10:09,2017-03-02,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",M - OptEx,0.0,1350,58717,+2%,0.0,-2.0,-1.0,10.0,,RGLD
+258,D,2017-03-06 15:59:20,2017-03-02,RGLD,Isto Mark,VP Operations,F - Tax,64.58,-359,12791,-3%,-23184.0,-3.0,-4.0,7.0,,RGLD
+259,D,2017-03-06 15:59:20,2017-03-02,RGLD,Isto Mark,VP Operations,M - OptEx,0.0,625,12791,+5%,0.0,-3.0,-4.0,7.0,,RGLD
+260,D,2017-03-06 15:50:09,2017-03-02,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,64.58,-411,13602,-3%,-26542.0,-3.0,-4.0,7.0,,RGLD
+261,D,2017-03-06 15:50:09,2017-03-02,RGLD,Anderson Karli S.,VP Investor Relations,M - OptEx,0.0,850,13602,+7%,0.0,-3.0,-4.0,7.0,,RGLD
+262,,2017-02-03 18:15:35,2017-02-01,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,70.0,-1000,71937,-1%,-70000.0,2.0,0.0,-9.0,,RGLD
+263,,2017-01-25 18:03:09,2017-01-23,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,70.0,-1000,54771,-2%,-70000.0,-3.0,1.0,-4.0,,RGLD
+264,D,2016-12-23 14:21:51,2016-12-21,RGLD,Heissenbuttel William Holmes,VP Corporate Development,D - Sale to issuer,62.59,-3463,74291,-4%,-216749.0,1.0,2.0,16.0,,RGLD
+265,D,2016-12-23 14:21:51,2016-12-21,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,62.59,-1704,74291,-2%,-106653.0,1.0,2.0,16.0,,RGLD
+266,D,2016-12-23 14:21:51,2016-12-21,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,30.36,20000,74291,+37%,607100.0,1.0,2.0,16.0,,RGLD
+267,D,2016-12-23 14:21:51,2016-12-23,RGLD,Heissenbuttel William Holmes,VP Corporate Development,S - Sale+OE,61.89,-7817,74291,-10%,-483768.0,1.0,2.0,16.0,,RGLD
+268,DM,2016-11-17 21:17:21,2016-11-15,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,68.6,-1477,73937,-2%,-101318.0,0.0,-1.0,-10.0,,RGLD
+269,D,2016-11-17 21:17:21,2016-11-15,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,1350,73937,+2%,0.0,0.0,-1.0,-10.0,,RGLD
+270,D,2016-11-17 21:17:21,2016-11-17,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,68.03,-9917,73937,-12%,-674604.0,0.0,-1.0,-10.0,,RGLD
+271,DM,2016-11-17 20:36:49,2016-11-15,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,68.6,-1486,58004,-2%,-101937.0,0.0,-1.0,-10.0,,RGLD
+272,D,2016-11-17 20:36:49,2016-11-15,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",M - OptEx,0.0,1350,58004,+2%,0.0,0.0,-1.0,-10.0,,RGLD
+273,D,2016-11-17 20:28:14,2016-11-15,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,69.26,-1598,203617,-1%,-110677.0,0.0,-1.0,-10.0,,RGLD
+274,D,2016-11-17 20:28:14,2016-11-15,RGLD,Jensen Tony A,"CEO, Pres",M - OptEx,0.0,3500,203617,+2%,0.0,0.0,-1.0,-10.0,,RGLD
+275,D,2016-11-17 20:20:55,2016-11-15,RGLD,Isto Mark,VP Operations,F - Tax,69.26,-335,12525,-3%,-23202.0,0.0,-1.0,-10.0,,RGLD
+276,D,2016-11-17 20:20:55,2016-11-15,RGLD,Isto Mark,VP Operations,M - OptEx,0.0,625,12525,+5%,0.0,0.0,-1.0,-10.0,,RGLD
+277,DM,2016-11-17 20:13:27,2016-11-15,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,68.6,-1482,67275,-2%,-101662.0,0.0,-1.0,-10.0,,RGLD
+278,D,2016-11-17 20:13:27,2016-11-15,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,1350,67275,+2%,0.0,0.0,-1.0,-10.0,,RGLD
+279,D,2016-11-17 19:52:27,2016-11-15,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,69.26,-368,13163,-3%,-25488.0,0.0,-1.0,-10.0,,RGLD
+280,D,2016-11-17 19:52:27,2016-11-15,RGLD,Anderson Karli S.,VP Investor Relations,M - OptEx,0.0,850,13163,+7%,0.0,0.0,-1.0,-10.0,,RGLD
+281,,2016-08-30 19:18:37,2016-08-27,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,75.9,-611,83981,-1%,-46375.0,0.0,12.0,8.0,-8.0,RGLD
+282,,2016-08-30 19:09:55,2016-08-27,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,75.9,-618,58140,-1%,-46906.0,0.0,12.0,8.0,-8.0,RGLD
+283,,2016-08-30 18:56:10,2016-08-27,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,75.9,-1834,201715,-1%,-139201.0,0.0,12.0,8.0,-8.0,RGLD
+284,,2016-08-30 18:46:46,2016-08-27,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,75.9,-610,67407,-1%,-46299.0,0.0,12.0,8.0,-8.0,RGLD
+285,,2016-08-22 19:26:32,2016-08-18,RGLD,Sokalsky Jamie C,Dir,A - Grant,0.0,1930,5170,+60%,0.0,0.0,-9.0,-7.0,-14.0,RGLD
+286,,2016-08-22 19:19:32,2016-08-18,RGLD,Vance Ronald J,Dir,A - Grant,0.0,1930,10164,+23%,0.0,0.0,-9.0,-7.0,-14.0,RGLD
+287,,2016-08-22 19:13:49,2016-08-18,RGLD,Thompson Christopher M.T.,Dir,A - Grant,0.0,1930,37314,+5%,0.0,0.0,-9.0,-7.0,-14.0,RGLD
+288,,2016-08-22 19:07:26,2016-08-18,RGLD,McArthur C. Kevin,Dir,A - Grant,0.0,1930,10814,+22%,0.0,0.0,-9.0,-7.0,-14.0,RGLD
+289,,2016-08-22 18:58:40,2016-08-18,RGLD,Hayes William M.,Dir,A - Grant,0.0,1930,31689,+6%,0.0,0.0,-9.0,-7.0,-14.0,RGLD
+290,,2016-08-22 18:51:39,2016-08-18,RGLD,Haase M Craig,Dir,A - Grant,0.0,1930,26024,+8%,0.0,0.0,-9.0,-7.0,-14.0,RGLD
+291,,2016-08-22 18:19:31,2016-08-18,RGLD,Bogden Gordon,Dir,A - Grant,0.0,1930,14339,+16%,0.0,0.0,-9.0,-7.0,-14.0,RGLD
+292,,2016-08-19 18:03:35,2016-08-18,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,84.36,-739,84592,-1%,-62342.0,0.0,-9.0,-7.0,-15.0,RGLD
+293,,2016-08-19 17:58:57,2016-08-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corp Secretary",F - Tax,84.36,-746,58758,-1%,-62933.0,0.0,-9.0,-7.0,-15.0,RGLD
+294,,2016-08-19 17:53:46,2016-08-18,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,84.36,-744,68017,-1%,-62764.0,0.0,-9.0,-7.0,-15.0,RGLD
+295,D,2016-08-18 20:57:57,2016-08-16,RGLD,Wenger Stefan,"CFO, Treasurer",A - Grant,0.0,3080,85331,+4%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+296,D,2016-08-18 20:57:57,2016-08-16,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,0.0,-1403,85331,-2%,-0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+297,D,2016-08-18 20:57:57,2016-08-16,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,3091,85331,+4%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+298,D,2016-08-18 20:43:27,2016-08-16,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corp Secretary",A - Grant,0.0,2590,59504,+5%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+299,D,2016-08-18 20:43:27,2016-08-16,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corp Secretary",F - Tax,0.0,-1238,59504,-2%,-0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+300,D,2016-08-18 20:43:27,2016-08-16,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corp Secretary",M - OptEx,0.0,2724,59504,+5%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+301,D,2016-08-18 20:30:07,2016-08-16,RGLD,Jensen Tony A,"CEO, Pres",A - Grant,0.0,7590,203549,+4%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+302,D,2016-08-18 20:30:07,2016-08-16,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,0.0,-3697,203549,-2%,-0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+303,D,2016-08-18 20:30:07,2016-08-16,RGLD,Jensen Tony A,"CEO, Pres",M - OptEx,0.0,7995,203549,+4%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+304,D,2016-08-18 20:14:20,2016-08-16,RGLD,Isto Mark,VP Operations,A - Grant,0.0,2760,12235,+29%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+305,D,2016-08-18 20:14:20,2016-08-16,RGLD,Isto Mark,VP Operations,F - Tax,0.0,-179,12235,-1%,-0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+306,D,2016-08-18 20:14:20,2016-08-16,RGLD,Isto Mark,VP Operations,M - OptEx,0.0,3022,12235,+33%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+307,D,2016-08-18 20:00:27,2016-08-16,RGLD,Heissenbuttel William Holmes,VP Corporate Development,A - Grant,0.0,3150,68761,+5%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+308,D,2016-08-18 20:00:27,2016-08-16,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,0.0,-1491,68761,-2%,-0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+309,D,2016-08-18 20:00:27,2016-08-16,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,3272,68761,+5%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+310,D,2016-08-18 19:44:55,2016-08-16,RGLD,Anderson Karli S.,VP Investor Relations,A - Grant,0.0,2210,12681,+21%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+311,D,2016-08-18 19:44:55,2016-08-16,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,0.0,-1027,12681,-7%,-0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+312,D,2016-08-18 19:44:55,2016-08-16,RGLD,Anderson Karli S.,VP Investor Relations,M - OptEx,0.0,2255,12681,+22%,0.0,-1.0,-10.0,-11.0,-15.0,RGLD
+313,,2016-08-16 19:04:14,2016-08-13,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,83.26,-662,80563,-1%,-55118.0,0.0,0.0,-9.0,-14.0,RGLD
+314,,2016-08-16 18:52:43,2016-08-13,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corp Secretary",F - Tax,83.26,-668,55428,-1%,-55618.0,0.0,0.0,-9.0,-14.0,RGLD
+315,,2016-08-16 18:40:52,2016-08-13,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,83.26,-666,63830,-1%,-55451.0,0.0,0.0,-9.0,-14.0,RGLD
+316,D,2016-06-22 20:07:04,2016-06-20,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corp Secretary",D - Sale to issuer,67.51,-3211,56111,-5%,-216775.0,1.0,4.0,19.0,-6.0,RGLD
+317,D,2016-06-22 20:07:04,2016-06-20,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corp Secretary",F - Tax,67.51,-1727,56111,-3%,-116590.0,1.0,4.0,19.0,-6.0,RGLD
+318,D,2016-06-22 20:07:04,2016-06-20,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corp Secretary",M - OptEx,30.96,7000,56111,+14%,216720.0,1.0,4.0,19.0,-6.0,RGLD
+319,D,2016-06-22 20:07:04,2016-06-22,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Corp Secretary",S - Sale+OE,66.19,-3333,56111,-6%,-220611.0,1.0,4.0,19.0,-6.0,RGLD
+320,,2016-05-18 19:18:36,2016-05-16,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,0.0,-425,9243,-4%,-0.0,2.0,0.0,20.0,22.0,RGLD
+321,D,2016-05-16 21:18:19,2016-05-12,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",F - Tax,57.57,-535,65113,-1%,-30800.0,-2.0,-6.0,11.0,24.0,RGLD
+322,D,2016-05-16 21:18:19,2016-05-12,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",M - OptEx,28.78,2500,65113,+4%,71950.0,-2.0,-6.0,11.0,24.0,RGLD
+323,D,2016-05-16 21:18:19,2016-05-13,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",S - Sale+OE,57.64,-1250,65113,-2%,-72050.0,-2.0,-6.0,11.0,24.0,RGLD
+324,D,2016-02-26 18:37:17,2016-02-26,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,45.23,-617,81225,-1%,-27907.0,3.0,10.0,10.0,71.0,RGLD
+325,D,2016-02-26 18:37:17,2016-02-25,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,1350,81225,+2%,0.0,3.0,10.0,10.0,71.0,RGLD
+326,D,2016-02-26 18:37:17,2016-02-26,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,45.23,-733,81225,-1%,-33154.0,3.0,10.0,10.0,71.0,RGLD
+327,D,2016-02-26 17:52:56,2016-02-25,RGLD,Anderson Karli S.,VP Investor Relations,F - Tax,0.0,-397,9668,-4%,-0.0,3.0,10.0,10.0,71.0,RGLD
+328,D,2016-02-26 17:52:56,2016-02-25,RGLD,Anderson Karli S.,VP Investor Relations,M - OptEx,0.0,850,9668,+10%,0.0,3.0,10.0,10.0,71.0,RGLD
+329,D,2016-02-26 17:34:49,2016-02-25,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,0.0,-617,57382,-1%,-0.0,3.0,10.0,10.0,71.0,RGLD
+330,D,2016-02-26 17:34:49,2016-02-25,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",M - OptEx,0.0,1350,57382,+2%,0.0,3.0,10.0,10.0,71.0,RGLD
+331,D,2016-02-26 17:12:15,2016-02-25,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",F - Tax,0.0,-617,63781,-1%,-0.0,3.0,10.0,10.0,71.0,RGLD
+332,D,2016-02-26 17:12:15,2016-02-25,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",M - OptEx,0.0,1350,63781,+2%,0.0,3.0,10.0,10.0,71.0,RGLD
+333,D,2016-02-26 16:52:41,2016-02-25,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,0.0,-1567,191661,-1%,-0.0,3.0,10.0,10.0,71.0,RGLD
+334,D,2016-02-26 16:52:41,2016-02-25,RGLD,Jensen Tony A,"CEO, Pres",M - OptEx,0.0,3500,191661,+2%,0.0,3.0,10.0,10.0,71.0,RGLD
+335,,2016-02-17 17:55:53,2016-02-17,RGLD,Hayes William M.,Dir,A - Grant,41.27,1350,29759,+5%,55715.0,7.0,7.0,23.0,107.0,RGLD
+336,M,2015-11-19 18:39:15,2015-11-18,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,35.9,-1924,81225,-2%,-69074.0,-3.0,-2.0,-2.0,53.0,RGLD
+337,M,2015-11-19 18:27:09,2015-11-18,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",F - Tax,35.9,-1944,63048,-3%,-69790.0,-3.0,-2.0,-2.0,53.0,RGLD
+338,M,2015-11-19 18:10:55,2015-11-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,35.9,-1940,56649,-3%,-69647.0,-3.0,-2.0,-2.0,53.0,RGLD
+339,,2015-11-13 17:18:31,2015-11-11,RGLD,Thompson Christopher M.T.,Dir,A - Grant,37.54,20000,35384,+130%,750800.0,0.0,0.0,-4.0,63.0,RGLD
+340,,2015-09-17 19:57:47,2015-09-15,RGLD,Jensen Tony A,"CEO, Pres",S - Sale,44.85,-30500,189728,-14%,-1367925.0,-1.0,-3.0,10.0,7.0,RGLD
+341,D,2015-08-24 20:44:44,2015-08-20,RGLD,Wenger Stefan,"CFO, Treasurer",A - Grant,0.0,4919,83149,+6%,0.0,-3.0,-3.0,-8.0,-10.0,RGLD
+342,D,2015-08-24 20:30:38,2015-08-20,RGLD,Jensen Tony A,"CEO, Pres",A - Grant,0.0,12726,220228,+6%,0.0,-3.0,-3.0,-8.0,-10.0,RGLD
+343,D,2015-08-24 20:10:51,2015-08-20,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",A - Grant,0.0,5210,64992,+9%,0.0,-3.0,-3.0,-8.0,-10.0,RGLD
+344,D,2015-08-24 19:48:00,2015-08-20,RGLD,Anderson Karli S.,VP Investor Relations,A - Grant,0.0,3590,9215,+64%,0.0,-3.0,-3.0,-8.0,-10.0,RGLD
+345,D,2015-08-24 19:23:52,2015-08-20,RGLD,Kirchhoff Bruce Christopher,"VP,GC, Secretary",A - Grant,0.0,4337,58589,+8%,0.0,-3.0,-3.0,-8.0,-10.0,RGLD
+346,,2015-08-21 21:08:48,2015-08-20,RGLD,Sokalsky Jamie C,Dir,A - Grant,0.0,3240,3240,New,0.0,-8.0,-12.0,-14.0,-18.0,RGLD
+347,,2015-08-21 21:01:07,2015-08-20,RGLD,Vance Ronald J,Dir,A - Grant,0.0,3240,8234,+65%,0.0,-8.0,-12.0,-14.0,-18.0,RGLD
+348,,2015-08-21 20:55:05,2015-08-20,RGLD,Thompson Christopher M.T.,Dir,A - Grant,0.0,3240,15384,+27%,0.0,-8.0,-12.0,-14.0,-18.0,RGLD
+349,,2015-08-21 20:45:25,2015-08-20,RGLD,McArthur C. Kevin,Dir,A - Grant,0.0,3240,8884,+57%,0.0,-8.0,-12.0,-14.0,-18.0,RGLD
+350,,2015-08-21 20:36:24,2015-08-20,RGLD,Hayes William M.,Dir,A - Grant,0.0,3240,28409,+13%,0.0,-8.0,-12.0,-14.0,-18.0,RGLD
+351,,2015-08-21 20:29:29,2015-08-20,RGLD,Haase M Craig,Dir,A - Grant,0.0,3240,22409,+17%,0.0,-8.0,-12.0,-14.0,-18.0,RGLD
+352,,2015-08-21 20:17:07,2015-08-20,RGLD,Bogden Gordon,Dir,A - Grant,0.0,3240,9717,+50%,0.0,-8.0,-12.0,-14.0,-18.0,RGLD
+353,,2015-08-19 19:07:41,2015-08-19,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,54.7,-720,78230,-1%,-39384.0,2.0,-12.0,-13.0,-20.0,RGLD
+354,,2015-08-19 18:59:04,2015-08-19,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,54.7,-726,54252,-1%,-39712.0,2.0,-12.0,-13.0,-20.0,RGLD
+355,,2015-08-19 18:48:57,2015-08-19,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",F - Tax,54.7,-727,59782,-1%,-39767.0,2.0,-12.0,-13.0,-20.0,RGLD
+356,,2015-08-14 18:45:32,2015-08-14,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,52.9,-646,78950,-1%,-34172.0,4.0,6.0,-16.0,-21.0,RGLD
+357,,2015-08-14 18:05:06,2015-08-14,RGLD,Heissenbuttel William Holmes,"VP Corp Dev, Ops",F - Tax,52.9,-653,60509,-1%,-34543.0,4.0,6.0,-16.0,-21.0,RGLD
+358,,2015-08-14 17:47:25,2015-08-14,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,52.9,-651,54978,-1%,-34437.0,4.0,6.0,-16.0,-21.0,RGLD
+359,,2015-08-13 19:29:05,2015-08-12,RGLD,Thompson Christopher M.T.,Dir,A - Grant,53.89,10000,12144,+466%,538900.0,0.0,5.0,-16.0,-22.0,RGLD
+360,D,2014-12-11 19:06:26,2014-12-09,RGLD,Zisch William M,VP Operations,D - Sale to issuer,70.84,-13512,38967,-26%,-957190.0,0.0,-8.0,4.0,-6.0,RGLD
+361,D,2014-12-11 19:06:26,2014-12-10,RGLD,Zisch William M,VP Operations,F - Tax,70.89,-1396,38967,-3%,-98967.0,0.0,-8.0,4.0,-6.0,RGLD
+362,D,2014-12-11 19:06:26,2014-12-09,RGLD,Zisch William M,VP Operations,M - OptEx,58.57,18615,38967,+91%,1090274.0,0.0,-8.0,4.0,-6.0,RGLD
+363,D,2014-12-11 19:06:26,2014-12-10,RGLD,Zisch William M,VP Operations,S - Sale+OE,70.89,-2003,38967,-5%,-141999.0,0.0,-8.0,4.0,-6.0,RGLD
+364,D,2014-11-26 19:02:50,2014-11-25,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,69.54,-2122,55629,-4%,-147573.0,-9.0,-1.0,-9.0,-7.0,RGLD
+365,D,2014-11-26 19:02:50,2014-11-25,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",M - OptEx,30.29,14600,55629,+36%,442220.0,-9.0,-1.0,-9.0,-7.0,RGLD
+366,D,2014-11-26 19:02:50,2014-11-25,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",S - Sale+OE,69.54,-6278,55629,-10%,-436599.0,-9.0,-1.0,-9.0,-7.0,RGLD
+367,,2014-11-20 19:11:26,2014-11-19,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,69.68,-444,207502,0%,-30936.0,0.0,-1.0,-10.0,-8.0,RGLD
+368,M,2014-11-20 18:57:23,2014-11-18,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,69.91,-3388,79596,-4%,-236854.0,0.0,-1.0,-10.0,-8.0,RGLD
+369,M,2014-11-20 18:39:30,2014-11-18,RGLD,Zisch William M,VP Operations,F - Tax,70.07,-2040,37263,-5%,-142935.0,0.0,-1.0,-10.0,-8.0,RGLD
+370,M,2014-11-20 18:18:00,2014-11-18,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,70.07,-2042,61162,-3%,-143075.0,0.0,-1.0,-10.0,-8.0,RGLD
+371,M,2014-11-20 18:01:31,2014-11-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,70.07,-2040,49429,-4%,-142935.0,0.0,-1.0,-10.0,-8.0,RGLD
+372,,2014-11-06 20:07:54,2014-11-06,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,58.91,-1501,82984,-2%,-88430.0,7.0,8.0,10.0,8.0,RGLD
+373,,2014-11-06 19:57:18,2014-11-06,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,58.91,-1506,51469,-3%,-88724.0,7.0,8.0,10.0,8.0,RGLD
+374,,2014-11-06 19:39:05,2014-11-06,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,58.91,-3068,207946,-1%,-180748.0,7.0,8.0,10.0,8.0,RGLD
+375,,2014-11-06 19:25:12,2014-11-06,RGLD,Jensen Tony A,"CEO, Pres",F - Tax,58.91,-3068,207946,-1%,-180748.0,7.0,8.0,10.0,8.0,RGLD
+376,D,2014-09-26 19:51:56,2014-09-25,RGLD,Zisch William M,VP Operations,M - OptEx,51.28,3886,39303,+11%,199278.0,0.0,2.0,2.0,-1.0,RGLD
+377,A,2014-09-04 14:12:23,2014-08-28,RGLD,Haase M Craig,Dir,A - Grant,0.0,2144,19169,+13%,0.0,-1.0,-3.0,-11.0,-6.0,RGLD
+378,,2014-09-02 20:32:48,2014-08-28,RGLD,Haase M Craig,Dir,A - Grant,0.0,2144,22514,+11%,0.0,0.0,-4.0,-12.0,-5.0,RGLD
+379,,2014-09-02 19:51:53,2014-08-28,RGLD,Vance Ronald J,Dir,A - Grant,0.0,2144,4994,+75%,0.0,0.0,-4.0,-12.0,-5.0,RGLD
+380,,2014-09-02 19:11:54,2014-08-28,RGLD,Thompson Christopher M.T.,Dir,A - Grant,0.0,2144,2144,New,0.0,0.0,-4.0,-12.0,-5.0,RGLD
+381,,2014-09-02 19:04:40,2014-08-28,RGLD,McArthur C. Kevin,Dir,A - Grant,0.0,2144,5644,+61%,0.0,0.0,-4.0,-12.0,-5.0,RGLD
+382,,2014-09-02 18:13:07,2014-08-28,RGLD,Hayes William M.,Dir,A - Grant,0.0,2144,25169,+9%,0.0,0.0,-4.0,-12.0,-5.0,RGLD
+383,,2014-09-02 17:58:15,2014-08-28,RGLD,Bogden Gordon,Dir,A - Grant,0.0,2144,9169,+31%,0.0,0.0,-4.0,-12.0,-5.0,RGLD
+384,D,2014-08-28 19:13:47,2014-08-26,RGLD,Jensen Tony A,"Pres, CEO",A - Grant,0.0,10800,211014,+5%,0.0,2.0,-4.0,-15.0,-5.0,RGLD
+385,D,2014-08-28 19:03:11,2014-08-26,RGLD,Anderson Karli S.,VP Investor Relations,A - Grant,75.71,2625,5625,+88%,198739.0,2.0,-4.0,-15.0,-5.0,RGLD
+386,D,2014-08-28 18:53:34,2014-08-26,RGLD,Wenger Stefan,"CFO, Treasurer",A - Grant,0.0,4200,84485,+5%,0.0,2.0,-4.0,-15.0,-5.0,RGLD
+387,D,2014-08-28 18:44:25,2014-08-26,RGLD,Zisch William M,VP Operations,A - Grant,0.0,4200,35417,+13%,0.0,2.0,-4.0,-15.0,-5.0,RGLD
+388,D,2014-08-28 18:33:34,2014-08-26,RGLD,Heissenbuttel William Holmes,VP Corporate Development,A - Grant,0.0,4200,64711,+7%,0.0,2.0,-4.0,-15.0,-5.0,RGLD
+389,D,2014-08-28 18:21:55,2014-08-26,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",A - Grant,0.0,4200,52975,+9%,0.0,2.0,-4.0,-15.0,-5.0,RGLD
+390,D,2014-02-25 20:46:25,2014-02-25,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,42.43,6886,80285,+9%,292158.0,2.0,3.0,-3.0,14.0,RGLD
+391,D,2014-02-25 20:46:25,2014-02-21,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,66.91,-14875,80285,-16%,-995319.0,2.0,3.0,-3.0,14.0,RGLD
+392,D,2014-02-20 18:53:29,2014-02-19,RGLD,Howell S Oden Jr,Dir,M - OptEx,23.4,7500,444755,+2%,175475.0,-1.0,0.0,2.0,19.0,RGLD
+393,,2013-12-20 17:00:01,2013-12-20,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-6000,437255,-1%,-0.0,0.0,6.0,25.0,73.0,RGLD
+394,,2013-11-20 18:34:13,2013-11-19,RGLD,Zisch William M,VP Operations,F - Tax,47.54,-1110,31217,-3%,-52769.0,0.0,-3.0,-6.0,39.0,RGLD
+395,,2013-11-20 18:27:55,2013-11-19,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,47.54,-1000,88274,-1%,-47540.0,0.0,-3.0,-6.0,39.0,RGLD
+396,,2013-11-20 18:21:28,2013-11-19,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,47.54,-1108,48775,-2%,-52674.0,0.0,-3.0,-6.0,39.0,RGLD
+397,,2013-11-20 18:14:32,2013-11-19,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,47.54,-1109,60511,-2%,-52722.0,0.0,-3.0,-6.0,39.0,RGLD
+398,,2013-11-14 18:35:10,2013-11-13,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,47.0,-3042,89274,-3%,-142974.0,-3.0,-5.0,-7.0,32.0,RGLD
+399,,2013-11-14 18:28:38,2013-11-13,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",F - Tax,47.0,-3048,49883,-6%,-143256.0,-3.0,-5.0,-7.0,32.0,RGLD
+400,,2013-11-14 18:21:30,2013-11-13,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,47.0,-3049,61620,-5%,-143303.0,-3.0,-5.0,-7.0,32.0,RGLD
+401,,2013-11-14 18:14:09,2013-11-13,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,47.44,-6200,200214,-3%,-294128.0,-3.0,-5.0,-7.0,32.0,RGLD
+402,D,2013-11-04 17:21:01,2013-11-04,RGLD,Howell S Oden Jr,Dir,M - OptEx,18.75,5000,443255,+1%,93750.0,-2.0,-4.0,-13.0,35.0,RGLD
+403,D,2013-08-28 21:42:36,2013-08-27,RGLD,Zisch William M,VP Operations,A - Grant,0.0,4200,32327,+15%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+404,,2013-08-28 21:38:58,2013-08-27,RGLD,Stuckert James W,Dir,A - Grant,0.0,2850,1324945,0%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+405,D,2013-08-28 21:31:54,2013-08-27,RGLD,Wenger Stefan,"CFO, Treasurer",A - Grant,0.0,4200,92316,+5%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+406,,2013-08-28 21:27:40,2013-08-27,RGLD,Howell S Oden Jr,Dir,A - Grant,0.0,2850,438255,+1%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+407,D,2013-08-28 21:21:18,2013-08-27,RGLD,Jensen Tony A,"Pres, CEO",A - Grant,0.0,12000,206414,+6%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+408,,2013-08-28 21:12:51,2013-08-27,RGLD,Vance Ronald J,Dir,A - Grant,0.0,2850,2850,New,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+409,D,2013-08-28 21:08:49,2013-08-27,RGLD,Heissenbuttel William Holmes,VP Corporate Development,A - Grant,0.0,4200,64669,+7%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+410,D,2013-08-28 20:52:01,2013-08-27,RGLD,Kirchhoff Bruce Christopher,"VP, GC, Secretary",A - Grant,0.0,4200,52931,+9%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+411,,2013-08-28 20:33:18,2013-08-27,RGLD,Hayes William M.,Dir,A - Grant,0.0,2850,23025,+14%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+412,,2013-08-28 20:18:46,2013-08-27,RGLD,Haase M Craig,Dir,A - Grant,0.0,2850,18685,+18%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+413,,2013-08-28 20:07:20,2013-08-27,RGLD,Bogden Gordon,Dir,A - Grant,0.0,2850,7025,+68%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+414,,2013-08-28 19:54:07,2013-08-27,RGLD,Dempsey Stanley,Dir,A - Grant,0.0,2850,83906,+4%,0.0,-2.0,-5.0,-18.0,14.0,RGLD
+415,M,2013-07-01 16:33:42,2013-06-27,RGLD,Stuckert James W,Dir,S - Sale,40.25,-121505,1322095,-8%,-4891054.0,-5.0,-8.0,19.0,8.0,RGLD
+416,,2013-06-26 18:13:09,2013-06-26,RGLD,Jensen Tony A,"Pres, CEO",P - Purchase,39.69,2000,194414,+1%,79380.0,3.0,6.0,25.0,13.0,RGLD
+417,M,2013-06-26 17:58:38,2013-06-24,RGLD,Stuckert James W,Dir,S - Sale,41.71,-142074,1443600,-9%,-5925769.0,3.0,6.0,25.0,13.0,RGLD
+418,,2013-03-27 16:56:48,2013-03-25,RGLD,Stuckert James W,Dir,S - Sale,70.0,-5000,1772095,0%,-350000.0,0.0,-9.0,-22.0,-31.0,RGLD
+419,,2013-02-22 17:28:48,2013-02-20,RGLD,Haase M Craig,Dir,P - Purchase,66.51,1000,15835,+7%,66510.0,2.0,-1.0,7.0,-8.0,RGLD
+420,,2013-02-20 17:18:33,2013-02-15,RGLD,Howell S Oden Jr,Dir,S - Sale,70.3,-5000,435405,-1%,-351500.0,2.0,3.0,5.0,-7.0,RGLD
+421,,2013-01-17 16:58:48,2013-01-15,RGLD,Howell S Oden Jr,Dir,S - Sale,80.9,-5000,440405,-1%,-404500.0,0.0,-1.0,-12.0,-44.0,RGLD
+422,,2013-01-03 16:42:38,2012-12-31,RGLD,Gross Karen,"VP, Secretary",S - Sale,80.27,-29990,65087,-32%,-2407297.0,-1.0,-1.0,-7.0,-44.0,RGLD
+423,,2012-12-19 17:19:28,2012-12-17,RGLD,Howell S Oden Jr,Dir,S - Sale,80.77,-5000,445405,-1%,-403850.0,0.0,0.0,2.0,-42.0,RGLD
+424,,2012-11-29 17:16:19,2012-11-27,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,83.57,-4076,88116,-4%,-340631.0,-4.0,-5.0,-6.0,-35.0,RGLD
+425,,2012-11-29 17:16:19,2012-11-27,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale,83.57,-904,88116,-1%,-75547.0,-4.0,-5.0,-6.0,-35.0,RGLD
+426,,2012-11-29 16:54:03,2012-11-27,RGLD,Kirchhoff Bruce Christopher,"VP, GC",F - Tax,83.52,-2718,48731,-5%,-227007.0,-4.0,-5.0,-6.0,-35.0,RGLD
+427,,2012-11-29 16:46:43,2012-11-27,RGLD,Heissenbuttel William Holmes,VP of Corporate Development,F - Tax,83.52,-3403,60469,-5%,-284219.0,-4.0,-5.0,-6.0,-35.0,RGLD
+428,,2012-11-29 16:33:18,2012-11-27,RGLD,Gross Karen,"VP, Secretary",F - Tax,83.52,-3402,95077,-3%,-284135.0,-4.0,-5.0,-6.0,-35.0,RGLD
+429,,2012-11-29 16:33:18,2012-11-27,RGLD,Gross Karen,"VP, Secretary",S - Sale,83.52,-4932,95077,-5%,-411921.0,-4.0,-5.0,-6.0,-35.0,RGLD
+430,,2012-11-29 16:21:45,2012-11-27,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,83.25,-7960,192414,-4%,-662670.0,-4.0,-5.0,-6.0,-35.0,RGLD
+431,,2012-11-19 17:50:11,2012-11-15,RGLD,Howell S Oden Jr,Dir,S - Sale,81.11,-5000,450405,-1%,-405550.0,-1.0,0.0,-5.0,-40.0,RGLD
+432,D,2012-11-06 18:37:35,2012-11-02,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,29.75,2240,93096,+2%,66640.0,0.0,-1.0,-9.0,-37.0,RGLD
+433,D,2012-10-26 17:02:55,2012-10-24,RGLD,Howell S Oden Jr,Dir,M - OptEx,19.77,5000,455405,+1%,98850.0,4.0,1.0,-2.0,-36.0,RGLD
+434,,2012-10-17 17:12:03,2012-10-15,RGLD,Howell S Oden Jr,Dir,S - Sale,87.25,-5000,450405,-1%,-436250.0,-3.0,-4.0,-9.0,-40.0,RGLD
+435,D,2012-10-01 17:49:36,2012-09-27,RGLD,Wenger Stefan,"CFO, Treasurer",D - Sale to issuer,98.63,-2198,90856,-2%,-216789.0,0.0,0.0,-10.0,-31.0,RGLD
+436,D,2012-10-01 17:49:36,2012-09-27,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,96.13,-1953,90856,-2%,-187742.0,0.0,0.0,-10.0,-31.0,RGLD
+437,D,2012-10-01 17:49:36,2012-09-27,RGLD,Wenger Stefan,"CFO, Treasurer",G - Gift,0.0,-1000,90856,-1%,-0.0,0.0,0.0,-10.0,-31.0,RGLD
+438,D,2012-10-01 17:49:36,2012-06-27,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,30.96,7000,90856,+8%,216720.0,0.0,0.0,-10.0,-31.0,RGLD
+439,D,2012-10-01 17:49:36,2012-09-27,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,96.13,-1347,90856,-1%,-129487.0,0.0,0.0,-10.0,-31.0,RGLD
+440,D,2012-09-25 18:53:27,2012-09-21,RGLD,Gross Karen,"VP, Secretary",D - Sale to issuer,97.27,-6884,103411,-6%,-669607.0,0.0,5.0,-8.0,-23.0,RGLD
+441,D,2012-09-25 18:53:27,2012-09-21,RGLD,Gross Karen,"VP, Secretary",F - Tax,96.8,-4575,103411,-4%,-442860.0,0.0,5.0,-8.0,-23.0,RGLD
+442,D,2012-09-25 18:53:27,2012-09-21,RGLD,Gross Karen,"VP, Secretary",M - OptEx,37.19,18000,103411,+21%,669480.0,0.0,5.0,-8.0,-23.0,RGLD
+443,D,2012-09-25 18:53:27,2012-09-21,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,96.8,-3225,103411,-3%,-312180.0,0.0,5.0,-8.0,-23.0,RGLD
+444,,2012-09-24 16:57:47,2012-09-20,RGLD,Kirchhoff Bruce Christopher,"VP, GC",S - Sale,94.24,-3755,51449,-7%,-353871.0,-3.0,3.0,-10.0,-26.0,RGLD
+445,D,2012-09-18 20:31:23,2012-09-14,RGLD,Jensen Tony A,"Pres, CEO",D - Sale to issuer,94.55,-21189,200374,-10%,-2003420.0,-1.0,2.0,-5.0,-26.0,RGLD
+446,D,2012-09-18 20:31:23,2012-09-14,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,94.33,-11553,200374,-5%,-1089794.0,-1.0,2.0,-5.0,-26.0,RGLD
+447,D,2012-09-18 20:31:23,2012-09-14,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,44.39,55880,200374,+39%,2480386.0,-1.0,2.0,-5.0,-26.0,RGLD
+448,D,2012-09-18 20:31:23,2012-09-14,RGLD,Jensen Tony A,"Pres, CEO",S - Sale+OE,94.33,-5902,200374,-3%,-556736.0,-1.0,2.0,-5.0,-26.0,RGLD
+449,D,2012-09-18 17:59:20,2012-09-14,RGLD,Gross Karen,"VP, Secretary",F - Tax,94.37,-8437,100095,-8%,-796200.0,-1.0,2.0,-5.0,-26.0,RGLD
+450,D,2012-09-18 17:59:20,2012-09-14,RGLD,Gross Karen,"VP, Secretary",M - OptEx,26.69,28690,100095,+40%,765684.0,-1.0,2.0,-5.0,-26.0,RGLD
+451,D,2012-09-18 17:59:20,2012-09-14,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,94.37,-20253,100095,-17%,-1911276.0,-1.0,2.0,-5.0,-26.0,RGLD
+452,D,2012-09-17 18:27:30,2012-09-13,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,90.81,-1812,90354,-2%,-164548.0,2.0,4.0,-5.0,-26.0,RGLD
+453,D,2012-09-17 18:27:30,2012-09-13,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,29.75,6640,90354,+8%,197540.0,2.0,4.0,-5.0,-26.0,RGLD
+454,D,2012-09-17 18:27:30,2012-09-13,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,90.81,-4828,90354,-5%,-438431.0,2.0,4.0,-5.0,-26.0,RGLD
+455,,2012-09-14 17:24:48,2012-09-12,RGLD,Dempsey Stanley,Dir,S - Sale,87.51,-5000,79969,-6%,-437550.0,-1.0,0.0,-6.0,-29.0,RGLD
+456,D,2012-08-15 18:50:29,2012-08-13,RGLD,Zisch William M,VP of Operations,A - Grant,0.0,4500,28127,+19%,0.0,3.0,8.0,21.0,-7.0,RGLD
+457,D,2012-08-15 18:37:13,2012-08-13,RGLD,Wenger Stefan,"CFO, Treasurer",A - Grant,0.0,4500,90354,+5%,0.0,3.0,8.0,21.0,-7.0,RGLD
+458,D,2012-08-15 18:23:28,2012-08-13,RGLD,Kirchhoff Bruce Christopher,"VP, GC",A - Grant,0.0,4500,55204,+9%,0.0,3.0,8.0,21.0,-7.0,RGLD
+459,D,2012-08-15 17:59:19,2012-08-13,RGLD,Heissenbuttel William Holmes,VP of Corporate Development,A - Grant,0.0,4500,63872,+8%,0.0,3.0,8.0,21.0,-7.0,RGLD
+460,,2012-08-15 17:34:57,2012-08-13,RGLD,Stuckert James W,Dir,A - Grant,0.0,2175,1777095,0%,0.0,3.0,8.0,21.0,-7.0,RGLD
+461,,2012-08-15 17:29:14,2012-08-13,RGLD,Howell S Oden Jr,Dir,A - Grant,0.0,2175,455405,0%,0.0,3.0,8.0,21.0,-7.0,RGLD
+462,,2012-08-15 17:23:39,2012-08-13,RGLD,Hayes William M.,Dir,A - Grant,0.0,2175,20175,+12%,0.0,3.0,8.0,21.0,-7.0,RGLD
+463,,2012-08-15 17:16:13,2012-08-13,RGLD,Haase M Craig,Dir,A - Grant,0.0,2175,14835,+17%,0.0,3.0,8.0,21.0,-7.0,RGLD
+464,,2012-08-15 16:58:45,2012-08-13,RGLD,Dempsey Stanley,Dir,A - Grant,0.0,2175,86056,+3%,0.0,3.0,8.0,21.0,-7.0,RGLD
+465,,2012-08-15 16:48:08,2012-08-13,RGLD,Bogden Gordon,Dir,A - Grant,0.0,2175,4175,+109%,0.0,3.0,8.0,21.0,-7.0,RGLD
+466,,2012-08-10 17:59:32,2012-08-09,RGLD,Dempsey Stanley,Dir,S - Sale,76.57,-5000,83881,-6%,-382850.0,0.0,3.0,17.0,-2.0,RGLD
+467,,2012-07-13 16:56:47,2012-07-11,RGLD,Dempsey Stanley,Dir,S - Sale,74.45,-5000,88881,-5%,-372250.0,-1.0,-3.0,1.0,8.0,RGLD
+468,,2012-06-13 16:43:59,2012-06-11,RGLD,Dempsey Stanley,Dir,S - Sale,78.91,-5000,93881,-5%,-394550.0,-2.0,0.0,-7.0,5.0,RGLD
+469,,2012-05-11 16:45:56,2012-05-09,RGLD,Dempsey Stanley,Dir,S - Sale,57.63,-5000,98881,-5%,-288150.0,-2.0,0.0,25.0,42.0,RGLD
+470,,2012-04-12 17:00:11,2012-04-10,RGLD,Dempsey Stanley,Dir,S - Sale,61.31,-5000,103881,-5%,-306550.0,0.0,-5.0,-5.0,50.0,RGLD
+471,D,2012-03-21 18:14:47,2012-03-19,RGLD,Gross Karen,"VP, Secretary",M - OptEx,42.43,6886,100095,+7%,292158.0,-1.0,1.0,-5.0,49.0,RGLD
+472,D,2012-02-24 18:22:40,2012-02-23,RGLD,Zisch William M,VP of Operations,F - Tax,71.59,-493,23627,-2%,-35294.0,-1.0,-2.0,-11.0,17.0,RGLD
+473,D,2012-02-24 18:22:40,2012-02-22,RGLD,Zisch William M,VP of Operations,M - OptEx,0.0,1150,23627,+5%,0.0,-1.0,-2.0,-11.0,17.0,RGLD
+474,D,2012-02-24 18:13:15,2012-02-23,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,71.59,-489,85854,-1%,-35008.0,-1.0,-2.0,-11.0,17.0,RGLD
+475,D,2012-02-24 18:13:15,2012-02-22,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,1150,85854,+1%,0.0,-1.0,-2.0,-11.0,17.0,RGLD
+476,D,2012-02-24 18:13:15,2012-02-23,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,71.59,-661,85854,-1%,-47321.0,-1.0,-2.0,-11.0,17.0,RGLD
+477,D,2012-02-24 18:02:23,2012-02-23,RGLD,Kirchhoff Bruce Christopher,"VP, GC",F - Tax,71.59,-493,50704,-1%,-35294.0,-1.0,-2.0,-11.0,17.0,RGLD
+478,D,2012-02-24 18:02:23,2012-02-22,RGLD,Kirchhoff Bruce Christopher,"VP, GC",M - OptEx,0.0,1150,50704,+2%,0.0,-1.0,-2.0,-11.0,17.0,RGLD
+479,D,2012-02-24 17:51:02,2012-02-23,RGLD,Heissenbuttel William Holmes,VP of Corporate Development,F - Tax,71.59,-493,59372,-1%,-35294.0,-1.0,-2.0,-11.0,17.0,RGLD
+480,D,2012-02-24 17:51:02,2012-02-22,RGLD,Heissenbuttel William Holmes,VP of Corporate Development,M - OptEx,0.0,1150,59372,+2%,0.0,-1.0,-2.0,-11.0,17.0,RGLD
+481,D,2012-02-24 17:36:42,2012-02-23,RGLD,Gross Karen,"VP, Secretary",F - Tax,71.59,-498,93209,-1%,-35652.0,-1.0,-2.0,-11.0,17.0,RGLD
+482,D,2012-02-24 17:36:42,2012-02-22,RGLD,Gross Karen,"VP, Secretary",M - OptEx,0.0,1150,93209,+1%,0.0,-1.0,-2.0,-11.0,17.0,RGLD
+483,D,2012-02-24 17:36:42,2012-02-23,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,71.59,-652,93209,-1%,-46677.0,-1.0,-2.0,-11.0,17.0,RGLD
+484,D,2012-02-24 17:25:58,2012-02-23,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,71.59,-2224,183138,-1%,-159216.0,-1.0,-2.0,-11.0,17.0,RGLD
+485,D,2012-02-24 17:25:58,2012-02-22,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,0.0,5400,183138,+3%,0.0,-1.0,-2.0,-11.0,17.0,RGLD
+486,D,2012-02-24 17:25:58,2012-02-23,RGLD,Jensen Tony A,"Pres, CEO",S - Sale+OE,71.59,-176,183138,0%,-12600.0,-1.0,-2.0,-11.0,17.0,RGLD
+487,,2012-02-13 17:07:41,2012-02-09,RGLD,Dempsey Stanley,Dir,S - Sale,71.38,-5000,108881,-4%,-356900.0,-2.0,-1.0,-6.0,7.0,RGLD
+488,D,2012-01-23 17:00:04,2012-01-19,RGLD,Stuckert James W,Dir,M - OptEx,21.03,17500,1774920,+1%,368075.0,0.0,11.0,4.0,10.0,RGLD
+489,,2012-01-12 18:12:31,2012-01-10,RGLD,Dempsey Stanley,Dir,S - Sale,71.89,-5000,113881,-4%,-359450.0,-1.0,-1.0,3.0,8.0,RGLD
+490,,2011-12-13 17:34:53,2011-12-09,RGLD,Dempsey Stanley,Dir,S - Sale,77.49,-5000,118881,-4%,-387450.0,-4.0,-8.0,-7.0,8.0,RGLD
+491,,2011-12-13 17:23:38,2011-12-09,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-3000,453230,-1%,-0.0,-4.0,-8.0,-7.0,8.0,RGLD
+492,D,2011-12-02 18:46:15,2011-11-30,RGLD,Worth Donald J,Dir,M - OptEx,0.0,7500,34250,+28%,0.0,-1.0,-2.0,-13.0,-3.0,RGLD
+493,,2011-11-28 17:38:00,2011-11-23,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,-1500,123881,-1%,-0.0,0.0,3.0,-12.0,-11.0,RGLD
+494,D,2011-11-17 18:23:03,2011-11-16,RGLD,Zisch William M,VP of Operations,F - Tax,80.76,-500,22970,-2%,-40380.0,-2.0,-3.0,-10.0,-19.0,RGLD
+495,D,2011-11-17 18:23:03,2011-11-15,RGLD,Zisch William M,VP of Operations,M - OptEx,0.0,1250,22970,+6%,0.0,-2.0,-3.0,-10.0,-19.0,RGLD
+496,D,2011-11-17 18:14:42,2011-11-16,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,80.76,-488,85854,-1%,-39411.0,-2.0,-3.0,-10.0,-19.0,RGLD
+497,D,2011-11-17 18:14:42,2011-11-15,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,1250,85854,+1%,0.0,-2.0,-3.0,-10.0,-19.0,RGLD
+498,D,2011-11-17 18:06:23,2011-11-16,RGLD,Kirchhoff Bruce Christopher,"VP, GC",F - Tax,80.76,-491,50047,-1%,-39653.0,-2.0,-3.0,-10.0,-19.0,RGLD
+499,D,2011-11-17 18:06:23,2011-11-15,RGLD,Kirchhoff Bruce Christopher,"VP, GC",M - OptEx,0.0,1250,50047,+3%,0.0,-2.0,-3.0,-10.0,-19.0,RGLD
+500,D,2011-11-17 17:56:15,2011-11-16,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,80.76,-488,58715,-1%,-39411.0,-2.0,-3.0,-10.0,-19.0,RGLD
+501,D,2011-11-17 17:56:15,2011-11-15,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,1250,58715,+2%,0.0,-2.0,-3.0,-10.0,-19.0,RGLD
+502,D,2011-11-17 17:47:26,2011-11-16,RGLD,Gross Karen,"VP, Secretary",F - Tax,80.76,-394,93209,0%,-31819.0,-2.0,-3.0,-10.0,-19.0,RGLD
+503,D,2011-11-17 17:47:26,2011-11-15,RGLD,Gross Karen,"VP, Secretary",M - OptEx,0.0,1000,93209,+1%,0.0,-2.0,-3.0,-10.0,-19.0,RGLD
+504,D,2011-11-17 17:47:26,2011-11-16,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,80.76,-606,93209,-1%,-48941.0,-2.0,-3.0,-10.0,-19.0,RGLD
+505,D,2011-11-17 17:38:00,2011-11-16,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,80.76,-3100,180138,-2%,-250356.0,-2.0,-3.0,-10.0,-19.0,RGLD
+506,D,2011-11-17 17:38:00,2011-11-15,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,0.0,7500,180138,+4%,0.0,-2.0,-3.0,-10.0,-19.0,RGLD
+507,D,2011-11-16 17:23:32,2011-11-14,RGLD,Worth Donald J,Dir,M - OptEx,18.75,5000,28750,+21%,93750.0,-2.0,-3.0,-13.0,-20.0,RGLD
+508,D,2011-11-14 18:29:13,2011-11-09,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,80.85,-4076,85092,-5%,-329545.0,1.0,-4.0,-7.0,-22.0,RGLD
+509,D,2011-11-14 18:29:13,2011-11-09,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,26.32,7570,85092,+10%,199271.0,1.0,-4.0,-7.0,-22.0,RGLD
+510,D,2011-11-14 18:29:13,2011-11-09,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,80.85,-5924,85092,-7%,-478955.0,1.0,-4.0,-7.0,-22.0,RGLD
+511,,2011-11-14 18:09:18,2011-11-09,RGLD,Kirchhoff Bruce Christopher,"VP, GC",F - Tax,80.85,-1348,49288,-3%,-108986.0,1.0,-4.0,-7.0,-22.0,RGLD
+512,,2011-11-14 18:02:15,2011-11-09,RGLD,Heissenbuttel William Holmes,VP of Corporate Development,F - Tax,80.85,-2034,57953,-3%,-164449.0,1.0,-4.0,-7.0,-22.0,RGLD
+513,,2011-11-14 17:55:20,2011-11-09,RGLD,Gross Karen,"VP, Secretary",F - Tax,80.85,-3739,93209,-4%,-302298.0,1.0,-4.0,-7.0,-22.0,RGLD
+514,,2011-11-14 17:55:20,2011-11-09,RGLD,Gross Karen,"VP, Secretary",S - Sale,80.85,-5427,93209,-6%,-438773.0,1.0,-4.0,-7.0,-22.0,RGLD
+515,,2011-11-14 17:46:51,2011-11-09,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,80.85,-7497,175738,-4%,-606132.0,1.0,-4.0,-7.0,-22.0,RGLD
+516,,2011-11-14 17:46:51,2011-11-09,RGLD,Jensen Tony A,"Pres, CEO",S - Sale,80.85,-203,175738,0%,-16413.0,1.0,-4.0,-7.0,-22.0,RGLD
+517,,2011-11-14 17:36:58,2011-11-09,RGLD,Dempsey Stanley,Dir,S - Sale,80.1,-5000,125381,-4%,-400500.0,1.0,-4.0,-7.0,-22.0,RGLD
+518,,2011-10-13 16:58:23,2011-10-11,RGLD,Dempsey Stanley,Dir,S - Sale,64.76,-5000,130381,-4%,-323800.0,2.0,-3.0,21.0,-1.0,RGLD
+519,D,2011-10-07 18:31:26,2011-10-05,RGLD,Howell S Oden Jr,Dir,M - OptEx,5.43,5000,456230,+1%,27150.0,3.0,3.0,25.0,-3.0,RGLD
+520,D,2011-10-06 17:53:53,2011-10-04,RGLD,Gross Karen,"VP, Secretary",M - OptEx,26.46,11310,102375,+12%,299241.0,-2.0,2.0,22.0,-4.0,RGLD
+521,,2011-09-16 18:09:52,2011-09-14,RGLD,Wenger Stefan,"CFO, Treasurer",G - Gift,0.0,-1500,87522,-2%,-0.0,-1.0,-5.0,-18.0,-21.0,RGLD
+522,,2011-09-15 18:09:34,2011-09-13,RGLD,Worth Donald J,Dir,S - Sale,80.35,-5000,18750,-21%,-401750.0,0.0,1.0,-19.0,-19.0,RGLD
+523,,2011-09-14 17:56:44,2011-09-12,RGLD,Dempsey Stanley,Dir,S - Sale,80.66,-5000,135381,-4%,-403300.0,-2.0,0.0,-19.0,-19.0,RGLD
+524,DM,2011-09-07 18:31:34,2011-09-02,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,79.18,-14824,183438,-7%,-1173820.0,4.0,4.0,-19.0,-15.0,RGLD
+525,D,2011-09-07 18:31:34,2011-09-02,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,21.41,70988,183438,+63%,1520164.0,4.0,4.0,-19.0,-15.0,RGLD
+526,DM,2011-09-07 18:31:34,2011-09-02,RGLD,Jensen Tony A,"Pres, CEO",S - Sale+OE,79.18,-22956,183438,-11%,-1817655.0,4.0,4.0,-19.0,-15.0,RGLD
+527,,2011-09-01 17:19:29,2011-08-30,RGLD,Gross Karen,"VP, Secretary",S - Sale,75.73,-3000,91065,-3%,-227190.0,3.0,7.0,-16.0,-9.0,RGLD
+528,,2011-08-29 17:58:09,2011-08-25,RGLD,Dempsey Stanley,Dir,S - Sale,71.45,-1500,140381,-1%,-107175.0,3.0,6.0,-7.0,-3.0,RGLD
+529,,2011-08-26 17:11:23,2011-08-24,RGLD,Howell S Oden Jr,Dir,S - Sale,70.33,-15000,451230,-3%,-1054950.0,0.0,3.0,-7.0,-5.0,RGLD
+530,D,2011-08-24 18:26:52,2011-08-22,RGLD,Gross Karen,"VP, Secretary",F - Tax,72.43,-9387,94065,-9%,-679900.0,5.0,12.0,11.0,5.0,RGLD
+531,D,2011-08-24 18:26:52,2011-08-22,RGLD,Gross Karen,"VP, Secretary",M - OptEx,19.12,31120,94065,+49%,594920.0,5.0,12.0,11.0,5.0,RGLD
+532,D,2011-08-24 18:26:52,2011-08-22,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,72.43,-21733,94065,-19%,-1574121.0,5.0,12.0,11.0,5.0,RGLD
+533,D,2011-08-24 18:23:01,2011-08-22,RGLD,Worth Donald J,Dir,M - OptEx,19.77,5000,28750,+21%,98850.0,5.0,12.0,11.0,5.0,RGLD
+534,D,2011-08-24 17:13:37,2011-08-19,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,69.66,-1553,89022,-2%,-108182.0,5.0,12.0,11.0,5.0,RGLD
+535,D,2011-08-24 17:13:37,2011-08-19,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,24.7,13030,89022,+17%,321837.0,5.0,12.0,11.0,5.0,RGLD
+536,D,2011-08-24 17:13:37,2011-08-19,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,69.66,-4997,89022,-5%,-348091.0,5.0,12.0,11.0,5.0,RGLD
+537,,2011-08-22 20:04:14,2011-08-18,RGLD,Worth Donald J,Dir,A - Grant,0.0,2000,18750,+12%,0.0,-2.0,3.0,13.0,-3.0,RGLD
+538,,2011-08-22 19:53:32,2011-08-18,RGLD,Stuckert James W,Dir,A - Grant,0.0,2000,1588585,0%,0.0,-2.0,3.0,13.0,-3.0,RGLD
+539,,2011-08-22 19:46:40,2011-08-18,RGLD,Howell S Oden Jr,Dir,A - Grant,0.0,2000,446230,0%,0.0,-2.0,3.0,13.0,-3.0,RGLD
+540,,2011-08-22 19:37:35,2011-08-18,RGLD,Hayes William M.,Dir,A - Grant,0.0,2000,18000,+13%,0.0,-2.0,3.0,13.0,-3.0,RGLD
+541,,2011-08-22 19:29:37,2011-08-18,RGLD,Haase M Craig,Dir,A - Grant,0.0,2000,12660,+19%,0.0,-2.0,3.0,13.0,-3.0,RGLD
+542,,2011-08-22 19:22:30,2011-08-18,RGLD,Bogden Gordon,Dir,A - Grant,0.0,2000,2000,New,0.0,-2.0,3.0,13.0,-3.0,RGLD
+543,,2011-08-22 19:13:16,2011-08-18,RGLD,Dempsey Stanley,Dir,A - Grant,0.0,2000,141881,+1%,0.0,-2.0,3.0,13.0,-3.0,RGLD
+544,D,2011-08-22 19:12:40,2011-08-18,RGLD,Zisch William M,VP of Operations,A - Grant,0.0,5000,22220,+29%,0.0,-2.0,3.0,13.0,-3.0,RGLD
+545,D,2011-08-22 18:43:28,2011-08-18,RGLD,Wenger Stefan,"CFO, Treasurer",A - Grant,0.0,5000,82542,+6%,0.0,-2.0,3.0,13.0,-3.0,RGLD
+546,D,2011-08-22 18:28:41,2011-08-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC",A - Grant,0.0,5000,50636,+11%,0.0,-2.0,3.0,13.0,-3.0,RGLD
+547,D,2011-08-22 17:31:08,2011-08-18,RGLD,Heissenbuttel William Holmes,VP of Corporate Development,A - Grant,0.0,5000,59987,+9%,0.0,-2.0,3.0,13.0,-3.0,RGLD
+548,,2011-08-11 17:54:10,2011-08-09,RGLD,Dempsey Stanley,Dir,S - Sale,66.51,-5000,139881,-3%,-332550.0,-1.0,0.0,18.0,2.0,RGLD
+549,,2011-07-14 16:44:24,2011-07-12,RGLD,Dempsey Stanley,Dir,S - Sale,60.75,-5000,144881,-3%,-303750.0,2.0,3.0,9.0,9.0,RGLD
+550,,2011-06-13 17:28:53,2011-06-09,RGLD,Dempsey Stanley,Dir,S - Sale,58.19,-5000,149881,-3%,-290950.0,1.0,-1.0,10.0,37.0,RGLD
+551,D,2011-05-20 18:06:14,2011-05-19,RGLD,Zisch William M,VP Operations,F - Tax,59.47,-992,17220,-5%,-58994.0,0.0,2.0,-6.0,34.0,RGLD
+552,D,2011-05-20 18:06:14,2011-05-18,RGLD,Zisch William M,VP Operations,M - OptEx,0.0,2500,17220,+17%,0.0,0.0,2.0,-6.0,34.0,RGLD
+553,D,2011-05-20 18:06:14,2011-05-19,RGLD,Zisch William M,VP Operations,S - Sale+OE,59.47,-8,17220,0%,-476.0,0.0,2.0,-6.0,34.0,RGLD
+554,D,2011-05-20 17:52:16,2011-05-19,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,59.47,-2538,77542,-3%,-150935.0,0.0,2.0,-6.0,34.0,RGLD
+555,D,2011-05-20 17:52:16,2011-05-18,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,6250,77542,+9%,0.0,0.0,2.0,-6.0,34.0,RGLD
+556,D,2011-05-20 17:52:16,2011-05-19,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,59.47,-1837,77542,-2%,-109246.0,0.0,2.0,-6.0,34.0,RGLD
+557,D,2011-05-20 17:33:47,2011-05-19,RGLD,Kirchhoff Bruce Christopher,"VP, GC",F - Tax,59.47,-2531,45636,-5%,-150519.0,0.0,2.0,-6.0,34.0,RGLD
+558,D,2011-05-20 17:33:47,2011-05-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC",M - OptEx,0.0,6250,45636,+16%,0.0,0.0,2.0,-6.0,34.0,RGLD
+559,D,2011-05-20 17:33:47,2011-05-19,RGLD,Kirchhoff Bruce Christopher,"VP, GC",S - Sale+OE,59.47,-421,45636,-1%,-25037.0,0.0,2.0,-6.0,34.0,RGLD
+560,D,2011-05-20 17:14:08,2011-05-19,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,59.47,-8698,150230,-5%,-517270.0,0.0,2.0,-6.0,34.0,RGLD
+561,D,2011-05-20 17:14:08,2011-05-18,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,0.0,21250,150230,+16%,0.0,0.0,2.0,-6.0,34.0,RGLD
+562,D,2011-05-20 17:14:08,2011-05-18,RGLD,Jensen Tony A,"Pres, CEO",S - Sale+OE,59.47,-6551,150230,-4%,-389588.0,0.0,2.0,-6.0,34.0,RGLD
+563,D,2011-05-20 16:53:06,2011-05-19,RGLD,Heissenbuttel William Holmes,VP of Corporate Development,F - Tax,59.47,-2534,54987,-4%,-150697.0,0.0,2.0,-6.0,34.0,RGLD
+564,D,2011-05-20 16:53:06,2011-05-18,RGLD,Heissenbuttel William Holmes,VP of Corporate Development,M - OptEx,0.0,6250,54987,+13%,0.0,0.0,2.0,-6.0,34.0,RGLD
+565,D,2011-05-20 16:34:57,2011-05-19,RGLD,Gross Karen,"VP, Secretary",F - Tax,59.47,-1821,94065,-2%,-108295.0,0.0,2.0,-6.0,34.0,RGLD
+566,D,2011-05-20 16:34:57,2011-05-18,RGLD,Gross Karen,"VP, Secretary",M - OptEx,0.0,4500,94065,+5%,0.0,0.0,2.0,-6.0,34.0,RGLD
+567,D,2011-05-20 16:34:57,2011-05-19,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,59.47,-2679,94065,-3%,-159320.0,0.0,2.0,-6.0,34.0,RGLD
+568,,2011-05-17 17:21:46,2011-05-13,RGLD,Haase M Craig,Dir,P - Purchase,57.27,270,10660,+3%,15463.0,3.0,3.0,-2.0,41.0,RGLD
+569,,2011-05-12 17:17:58,2011-05-10,RGLD,Dempsey Stanley,Dir,S - Sale,59.05,-5000,154881,-3%,-295250.0,-1.0,3.0,0.0,41.0,RGLD
+570,,2011-04-13 17:28:27,2011-04-11,RGLD,Dempsey Stanley,Dir,S - Sale,53.85,-5000,159881,-3%,-269250.0,1.0,7.0,9.0,25.0,RGLD
+571,,2011-03-11 16:43:15,2011-03-09,RGLD,Dempsey Stanley,Dir,S - Sale,49.99,-5000,164881,-3%,-249950.0,2.0,1.0,11.0,70.0,RGLD
+572,D,2011-02-17 18:50:18,2011-02-16,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,48.92,-739,75667,-1%,-36152.0,-1.0,-3.0,1.0,39.0,RGLD
+573,D,2011-02-17 18:50:18,2011-02-15,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,1875,75667,+3%,0.0,-1.0,-3.0,1.0,39.0,RGLD
+574,D,2011-02-17 18:50:18,2011-02-16,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,48.92,-136,75667,0%,-6653.0,-1.0,-3.0,1.0,39.0,RGLD
+575,D,2011-02-17 18:39:11,2011-02-16,RGLD,Kirchhoff Bruce Christopher,"VP, GC",F - Tax,48.92,-801,42338,-2%,-39185.0,-1.0,-3.0,1.0,39.0,RGLD
+576,D,2011-02-17 18:39:11,2011-02-15,RGLD,Kirchhoff Bruce Christopher,"VP, GC",M - OptEx,0.0,1875,42338,+5%,0.0,-1.0,-3.0,1.0,39.0,RGLD
+577,D,2011-02-17 18:29:24,2011-02-16,RGLD,Heissenbuttel William Holmes,VP of Corporate Development,F - Tax,48.92,-737,51271,-1%,-36054.0,-1.0,-3.0,1.0,39.0,RGLD
+578,D,2011-02-17 18:29:24,2011-02-15,RGLD,Heissenbuttel William Holmes,VP of Corporate Development,M - OptEx,0.0,1875,51271,+4%,0.0,-1.0,-3.0,1.0,39.0,RGLD
+579,D,2011-02-17 18:17:50,2011-02-16,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,48.92,-750,144229,-1%,-36690.0,-1.0,-3.0,1.0,39.0,RGLD
+580,D,2011-02-17 18:17:50,2011-02-15,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,0.0,3750,144229,+3%,0.0,-1.0,-3.0,1.0,39.0,RGLD
+581,D,2011-02-17 18:08:12,2011-02-16,RGLD,Gross Karen,"VP, Secretary",F - Tax,48.92,-487,94065,-1%,-23824.0,-1.0,-3.0,1.0,39.0,RGLD
+582,D,2011-02-17 18:08:12,2011-02-15,RGLD,Gross Karen,"VP, Secretary",M - OptEx,0.0,1250,94065,+1%,0.0,-1.0,-3.0,1.0,39.0,RGLD
+583,D,2011-02-17 18:08:12,2011-02-16,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,48.92,-763,94065,-1%,-37326.0,-1.0,-3.0,1.0,39.0,RGLD
+584,D,2010-12-30 17:15:24,2010-12-28,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,54.7,-3552,74667,-5%,-194294.0,0.0,-6.0,-14.0,8.0,RGLD
+585,D,2010-12-30 17:15:24,2010-12-28,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,22.22,5500,74667,+8%,122210.0,0.0,-6.0,-14.0,8.0,RGLD
+586,D,2010-12-30 17:15:24,2010-12-28,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,54.7,-1948,74667,-3%,-106556.0,0.0,-6.0,-14.0,8.0,RGLD
+587,M,2010-12-30 16:46:31,2010-12-29,RGLD,Gross Karen,"VP, Secretary",S - Sale,55.03,-12500,94065,-12%,-687904.0,0.0,-6.0,-14.0,8.0,RGLD
+588,,2010-12-30 16:34:10,2010-12-30,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-6000,464230,-1%,-0.0,0.0,-6.0,-14.0,8.0,RGLD
+589,,2010-12-15 16:51:51,2010-12-13,RGLD,Dempsey Stanley,Dir,S - Sale,54.33,-6000,169881,-3%,-325980.0,-1.0,1.0,-7.0,7.0,RGLD
+590,,2010-12-13 18:34:30,2010-12-09,RGLD,Dempsey Stanley,Dir,S - Sale,52.91,-12000,175881,-6%,-634920.0,1.0,-1.0,-5.0,5.0,RGLD
+591,D,2010-11-19 20:00:58,2010-11-17,RGLD,Zisch William M,VP Operations,A - Grant,0.0,6000,15720,+62%,0.0,2.0,1.0,6.0,19.0,RGLD
+592,,2010-11-19 20:00:46,2010-11-17,RGLD,Dempsey Stanley,Dir,A - Grant,0.0,2000,187881,+1%,0.0,2.0,1.0,6.0,19.0,RGLD
+593,,2010-11-19 19:49:12,2010-11-17,RGLD,Stuckert James W,Dir,A - Grant,0.0,2000,1759421,0%,0.0,2.0,1.0,6.0,19.0,RGLD
+594,,2010-11-19 19:34:20,2010-11-17,RGLD,Howell S Oden Jr,Dir,A - Grant,0.0,2000,470230,0%,0.0,2.0,1.0,6.0,19.0,RGLD
+595,D,2010-11-19 19:33:45,2010-11-17,RGLD,Wenger Stefan,"CFO, Treasurer",A - Grant,0.0,6000,74667,+9%,0.0,2.0,1.0,6.0,19.0,RGLD
+596,A,2010-11-19 19:07:19,2010-11-17,RGLD,Heissenbuttel William Holmes,VP Corporate Development,A - Grant,0.0,6000,50133,+14%,0.0,2.0,1.0,6.0,19.0,RGLD
+597,D,2010-11-19 18:55:47,2010-11-17,RGLD,Kirchhoff Bruce Christopher,"VP, GC",A - Grant,0.0,6000,41264,+17%,0.0,2.0,1.0,6.0,19.0,RGLD
+598,,2010-11-19 18:50:26,2010-11-17,RGLD,Hayes William M.,Dir,A - Grant,0.0,2000,16000,+14%,0.0,2.0,1.0,6.0,19.0,RGLD
+599,D,2010-11-19 18:29:59,2010-11-17,RGLD,Heissenbuttel William Holmes,VP Corporate Development,A - Grant,0.0,2000,50133,+4%,0.0,2.0,1.0,6.0,19.0,RGLD
+600,,2010-11-19 18:18:17,2010-11-17,RGLD,Haase M Craig,Dir,A - Grant,0.0,2000,10390,+24%,0.0,2.0,1.0,6.0,19.0,RGLD
+601,D,2010-11-19 18:02:36,2010-11-17,RGLD,Gross Karen,"VP, Secretary",A - Grant,0.0,3000,106565,+3%,0.0,2.0,1.0,6.0,19.0,RGLD
+602,,2010-11-19 17:09:33,2010-11-17,RGLD,Worth Donald J,Dir,A - Grant,0.0,2000,21750,+10%,0.0,2.0,1.0,6.0,19.0,RGLD
+603,,2010-11-15 17:44:43,2010-11-11,RGLD,Dempsey Stanley,Dir,S - Sale,51.97,-6000,185881,-3%,-311820.0,-1.0,0.0,7.0,13.0,RGLD
+604,,2010-11-15 17:33:31,2010-11-11,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,51.74,-2250,141229,-2%,-116415.0,-1.0,0.0,7.0,13.0,RGLD
+605,,2010-11-15 17:23:36,2010-11-11,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,51.74,-1084,68667,-2%,-56086.0,-1.0,0.0,7.0,13.0,RGLD
+606,,2010-11-12 18:51:01,2010-11-10,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,51.34,-2666,69751,-4%,-136872.0,-2.0,-3.0,4.0,10.0,RGLD
+607,,2010-11-12 18:31:58,2010-11-10,RFLG,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,51.34,-654,44133,-1%,-33576.0,,,,,RGLD
+608,,2010-11-12 18:14:22,2010-11-10,RGLD,Gross Karen,"VP, Secretary",F - Tax,51.34,-5833,103565,-5%,-299466.0,-2.0,-3.0,4.0,10.0,RGLD
+609,,2010-11-12 17:48:51,2010-11-10,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,51.34,-6300,143479,-4%,-323442.0,-2.0,-3.0,4.0,10.0,RGLD
+610,,2010-11-12 17:00:19,2010-11-09,RGLD,Dempsey Stanley,Dir,S - Sale,53.59,-12000,191881,-6%,-643080.0,-2.0,-3.0,4.0,10.0,RGLD
+611,,2010-10-15 16:45:27,2010-10-13,RGLD,Dempsey Stanley,spouse,S - Sale,50.74,-6000,203881,-3%,-304440.0,1.0,-5.0,4.0,8.0,RGLD
+612,,2010-10-13 17:19:25,2010-10-11,RGLD,Dempsey Stanley,Dir,S - Sale,49.75,-12000,215881,-5%,-597000.0,0.0,-5.0,3.0,4.0,RGLD
+613,,2010-09-29 18:31:13,2010-09-28,RGLD,Wenger Stefan,"CFO, Treasurer",G - Gift,0.0,-1000,72417,-1%,-0.0,-1.0,1.0,-4.0,4.0,RGLD
+614,,2010-09-29 18:05:54,2010-09-27,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-4000,468230,-1%,-0.0,-1.0,1.0,-4.0,4.0,RGLD
+615,M,2010-09-29 18:05:54,2010-09-27,RGLD,Howell S Oden Jr,Dir,S - Sale,49.46,-20000,468230,-4%,-989180.0,-1.0,1.0,-4.0,4.0,RGLD
+616,D,2010-09-28 20:37:21,2010-09-24,RGLD,Howell S Oden Jr,Dir,M - OptEx,2.81,5000,492230,+1%,14050.0,-1.0,-2.0,-4.0,1.0,RGLD
+617,,2010-09-23 17:20:46,2010-09-21,RGLD,Haase M Craig,Dir,P - Purchase,50.6,775,8390,+10%,39215.0,0.0,1.0,-5.0,5.0,RGLD
+618,M,2010-09-14 18:46:31,2010-09-10,RGLD,Dempsey Stanley,Dir,S - Sale,48.83,-18000,221881,-8%,-878940.0,-1.0,0.0,-1.0,-1.0,RGLD
+619,A,2010-08-23 18:09:40,2010-08-18,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,46.83,-3815,73417,-5%,-178656.0,-1.0,4.0,5.0,3.0,RGLD
+620,A,2010-08-23 18:09:40,2010-08-18,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,7500,73417,+11%,0.0,-1.0,4.0,5.0,3.0,RGLD
+621,D,2010-08-20 19:50:59,2010-08-18,RGLD,Zisch William M,VP Operations,F - Tax,46.83,-1530,9720,-14%,-71650.0,-2.0,0.0,3.0,2.0,RGLD
+622,D,2010-08-20 19:50:59,2010-08-18,RGLD,Zisch William M,VP Operations,M - OptEx,0.0,3750,9720,+63%,0.0,-2.0,0.0,3.0,2.0,RGLD
+623,D,2010-08-20 19:39:37,2010-08-18,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,46.83,-3815,71192,-5%,-178656.0,-2.0,0.0,3.0,2.0,RGLD
+624,D,2010-08-20 19:39:37,2010-08-18,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,9375,71192,+15%,0.0,-2.0,0.0,3.0,2.0,RGLD
+625,AD,2010-08-20 19:03:51,2010-08-18,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,46.83,-6750,109398,-6%,-316103.0,-2.0,0.0,3.0,2.0,RGLD
+626,D,2010-08-20 18:50:43,2010-08-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC",F - Tax,46.83,-3816,35264,-10%,-178703.0,-2.0,0.0,3.0,2.0,RGLD
+627,D,2010-08-20 18:50:43,2010-08-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC",M - OptEx,0.0,9375,35264,+36%,0.0,-2.0,0.0,3.0,2.0,RGLD
+628,D,2010-08-20 18:34:37,2010-08-18,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,46.83,-3817,44787,-8%,-178750.0,-2.0,0.0,3.0,2.0,RGLD
+629,D,2010-08-20 18:34:37,2010-08-18,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,9375,44787,+26%,0.0,-2.0,0.0,3.0,2.0,RGLD
+630,D,2010-08-20 18:12:03,2010-08-18,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,46.83,-12800,149779,-8%,-599424.0,-2.0,0.0,3.0,2.0,RGLD
+631,D,2010-08-20 18:12:03,2010-08-18,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,0.0,30000,149779,+25%,0.0,-2.0,0.0,3.0,2.0,RGLD
+632,D,2010-08-20 17:44:32,2010-08-18,RGLD,Gross Karen,"VP, Secretary",M - OptEx,0.0,6750,109398,+7%,0.0,-2.0,0.0,3.0,2.0,RGLD
+633,D,2010-08-20 17:44:32,2010-08-18,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,46.83,-6750,109398,-6%,-316103.0,-2.0,0.0,3.0,2.0,RGLD
+634,M,2010-08-12 17:27:57,2010-08-10,RGLD,Dempsey Stanley,Dir,S - Sale,46.0,-18000,239881,-7%,-828000.0,-1.0,3.0,4.0,4.0,RGLD
+635,,2010-07-14 17:47:39,2010-07-14,RGLD,Dempsey Stanley,Dir,S - Sale,44.28,-6000,257881,-2%,-265680.0,0.0,-1.0,3.0,14.0,RGLD
+636,,2010-07-12 19:56:10,2010-07-12,RGLD,Dempsey Stanley,Dir,S - Sale,45.63,-11549,263881,-4%,-526981.0,0.0,-2.0,3.0,12.0,RGLD
+637,D,2010-07-06 17:06:27,2010-07-01,RGLD,Gross Karen,"VP, Secretary",M - OptEx,20.08,4980,109398,+5%,99998.0,2.0,0.0,0.0,22.0,RGLD
+638,,2010-06-14 17:17:56,2010-06-11,RGLD,Dempsey Stanley,Dir,S - Sale,51.17,-6000,275430,-2%,-307020.0,3.0,5.0,-12.0,4.0,RGLD
+639,,2010-06-09 17:26:04,2010-06-09,RGLD,Dempsey Stanley,Dir,S - Sale,51.28,-10000,281430,-3%,-512800.0,1.0,3.0,-11.0,5.0,RGLD
+640,,2010-05-24 18:08:26,2010-05-24,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,-11770,291430,+4%,-0.0,4.0,4.0,6.0,5.0,RGLD
+641,D,2010-05-24 17:55:43,2010-05-20,RGLD,Gross Karen,"VP, Secretary",M - OptEx,17.38,3900,104418,+4%,67782.0,4.0,4.0,6.0,5.0,RGLD
+642,,2010-05-14 17:30:56,2010-05-13,RGLD,Dempsey Stanley,Dir,S - Sale,52.28,-6000,291430,-2%,-313680.0,-1.0,-8.0,-1.0,1.0,RGLD
+643,,2010-05-11 18:11:09,2010-05-10,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,-5250,297430,+2%,-0.0,2.0,-1.0,-1.0,1.0,RGLD
+644,,2010-05-11 18:11:09,2010-05-11,RGLD,Dempsey Stanley,Dir,S - Sale,50.88,-10000,297430,-3%,-508800.0,2.0,-1.0,-1.0,1.0,RGLD
+645,,2010-04-15 17:00:17,2010-04-14,RGLD,Dempsey Stanley,Dir,S - Sale,49.54,-6000,312180,-2%,-297240.0,-2.0,-3.0,6.0,2.0,RGLD
+646,,2010-04-12 19:05:53,2010-04-12,RGLD,Dempsey Stanley,Dir,S - Sale,51.31,-10000,318180,-3%,-513100.0,-3.0,-6.0,-3.0,-3.0,RGLD
+647,,2010-03-31 17:37:21,2010-03-31,RGLD,Dempsey Stanley,Dir,S - Sale,46.3,-500,328180,0%,-23150.0,6.0,10.0,10.0,10.0,RGLD
+648,,2010-03-12 17:59:47,2010-03-11,RGLD,Dempsey Stanley,Dir,S - Sale,44.68,-6000,328680,-2%,-268080.0,1.0,6.0,13.0,7.0,RGLD
+649,,2010-03-11 17:35:48,2010-03-09,RGLD,Dempsey Stanley,Dir,S - Sale,45.74,-10000,334680,-3%,-457400.0,0.0,4.0,13.0,8.0,RGLD
+650,,2010-03-08 18:21:52,2010-03-08,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,-40970,344680,+13%,-0.0,-1.0,-2.0,8.0,6.0,RGLD
+651,D,2010-02-26 19:52:35,2010-02-25,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,43.44,-1494,67857,-2%,-64899.0,1.0,3.0,2.0,10.0,RGLD
+652,D,2010-02-26 19:52:35,2010-02-24,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,3750,67857,+6%,0.0,1.0,3.0,2.0,10.0,RGLD
+653,D,2010-02-26 19:31:54,2010-02-25,RGLD,Kirchhoff Bruce Christopher,"VP, GC",F - Tax,43.44,-818,29705,-3%,-35534.0,1.0,3.0,2.0,10.0,RGLD
+654,D,2010-02-26 19:31:54,2010-02-24,RGLD,Kirchhoff Bruce Christopher,"VP, GC",M - OptEx,0.0,1875,29705,+7%,0.0,1.0,3.0,2.0,10.0,RGLD
+655,D,2010-02-26 19:19:04,2010-02-25,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,43.44,-1600,39229,-4%,-69504.0,1.0,3.0,2.0,10.0,RGLD
+656,D,2010-02-26 19:19:04,2010-02-24,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,3750,39229,+11%,0.0,1.0,3.0,2.0,10.0,RGLD
+657,D,2010-02-26 18:58:05,2010-02-24,RGLD,Gross Karen,"VP, Secretary",M - OptEx,0.0,2500,100518,+3%,0.0,1.0,3.0,2.0,10.0,RGLD
+658,D,2010-02-26 18:58:05,2010-02-25,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,43.44,-2500,100518,-2%,-108600.0,1.0,3.0,2.0,10.0,RGLD
+659,D,2010-02-26 18:34:34,2010-02-25,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,43.44,-3050,132579,-2%,-132492.0,1.0,3.0,2.0,10.0,RGLD
+660,D,2010-02-26 18:34:34,2010-02-24,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,0.0,7500,132579,+6%,0.0,1.0,3.0,2.0,10.0,RGLD
+661,D,2010-02-11 18:48:53,2010-02-11,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,17.38,2600,65601,+4%,45188.0,-1.0,0.0,3.0,4.0,RGLD
+662,M,2010-02-11 18:28:13,2010-02-09,RGLD,Dempsey Stanley,Dir,S - Sale,43.36,-16000,344680,-4%,-693800.0,-1.0,0.0,3.0,4.0,RGLD
+663,,2010-01-15 18:14:16,2010-01-14,RGLD,Dempsey Stanley,Dir,S - Sale,48.35,-6000,360680,-2%,-290100.0,1.0,-6.0,-6.0,-7.0,RGLD
+664,,2010-01-12 19:14:10,2010-01-08,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,-114800,366680,+46%,-0.0,1.0,-1.0,-10.0,-7.0,RGLD
+665,,2010-01-12 19:14:10,2010-01-12,RGLD,Dempsey Stanley,Dir,S - Sale,49.3,-10000,366680,-3%,-493000.0,1.0,-1.0,-10.0,-7.0,RGLD
+666,D,2010-01-04 17:54:17,2009-12-30,RGLD,Goth John W,Dir,M - OptEx,18.75,5000,48250,+12%,93750.0,0.0,3.0,-9.0,-5.0,RGLD
+667,D,2010-01-04 17:54:17,2009-12-30,RGLD,Goth John W,Dir,S - Sale+OE,46.71,-5000,48250,-9%,-233550.0,0.0,3.0,-9.0,-5.0,RGLD
+668,,2009-12-29 16:59:06,2009-12-24,RGLD,Dempsey Stanley,Dir,S - Sale,48.9,-200,376680,0%,-9780.0,-1.0,1.0,-7.0,3.0,RGLD
+669,,2009-12-28 19:15:39,2009-12-24,RGLD,Dempsey Stanley,Dir,F - Tax,48.89,-6122,376880,-2%,-299305.0,-2.0,0.0,-8.0,3.0,RGLD
+670,D,2009-12-28 18:58:38,2009-12-24,RGLD,Wenger Stefan,"CFO, Treasurer",F - Tax,48.89,-1683,63001,-3%,-82282.0,-2.0,0.0,-8.0,3.0,RGLD
+671,D,2009-12-28 18:58:38,2009-12-23,RGLD,Wenger Stefan,"CFO, Treasurer",M - OptEx,0.0,1875,63001,+3%,0.0,-2.0,0.0,-8.0,3.0,RGLD
+672,D,2009-12-28 18:58:38,2009-12-24,RGLD,Wenger Stefan,"CFO, Treasurer",S - Sale+OE,48.89,-3333,63001,-5%,-162950.0,-2.0,0.0,-8.0,3.0,RGLD
+673,D,2009-12-28 18:35:58,2009-12-24,RGLD,Heissenbuttel William Holmes,VP Corporate Development,F - Tax,48.89,-732,37079,-2%,-35787.0,-2.0,0.0,-8.0,3.0,RGLD
+674,D,2009-12-28 18:35:58,2009-12-23,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,1875,37079,+5%,0.0,-2.0,0.0,-8.0,3.0,RGLD
+675,D,2009-12-28 18:17:46,2009-12-24,RGLD,Kirchhoff Bruce Christopher,"VP, GC",F - Tax,48.89,-727,28648,-2%,-35543.0,-2.0,0.0,-8.0,3.0,RGLD
+676,D,2009-12-28 18:17:46,2009-12-23,RGLD,Kirchhoff Bruce Christopher,"VP, GC",M - OptEx,0.0,1875,28648,+7%,0.0,-2.0,0.0,-8.0,3.0,RGLD
+677,D,2009-12-28 18:01:44,2009-12-24,RGLD,Jensen Tony A,"Pres, CEO",F - Tax,48.89,-5231,128129,-4%,-255744.0,-2.0,0.0,-8.0,3.0,RGLD
+678,D,2009-12-28 18:01:44,2009-12-23,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,0.0,3750,128129,+3%,0.0,-2.0,0.0,-8.0,3.0,RGLD
+679,D,2009-12-28 17:20:02,2009-12-23,RGLD,Gross Karen,"VP, Secretary",M - OptEx,0.0,1250,100518,+1%,0.0,-2.0,0.0,-8.0,3.0,RGLD
+680,D,2009-12-28 17:20:02,2009-12-24,RGLD,Gross Karen,"VP, Secretary",S - Sale+OE,48.89,-3750,100518,-4%,-183338.0,-2.0,0.0,-8.0,3.0,RGLD
+681,,2009-12-28 16:52:58,2009-12-23,RGLD,Haase M Craig,Dir,P - Purchase,48.77,365,7615,+5%,17801.0,-2.0,0.0,-8.0,3.0,RGLD
+682,,2009-12-28 16:38:15,2009-12-23,RGLD,Marcus Merritt E,Dir,S - Sale,48.91,-10000,39338,-20%,-489100.0,-2.0,0.0,-8.0,3.0,RGLD
+683,,2009-12-15 17:16:09,2009-12-11,RGLD,Dempsey Stanley,Dir,S - Sale,51.35,-6000,383002,-2%,-308100.0,0.0,-5.0,-4.0,5.0,RGLD
+684,,2009-12-10 18:15:57,2009-12-09,RGLD,Dempsey Stanley,Dir,S - Sale,51.02,-10000,389002,-3%,-510200.0,-3.0,-3.0,-3.0,1.0,RGLD
+685,A,2009-12-10 17:47:00,2007-10-26,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,325,5525,+6%,0.0,-3.0,-3.0,-3.0,1.0,RGLD
+686,,2009-12-07 18:06:39,2009-12-04,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-3000,487230,-1%,-0.0,-1.0,-2.0,-5.0,0.0,RGLD
+687,D,2009-11-20 18:48:57,2009-11-18,RGLD,Wenger Stefan,CFO,A - Grant,0.0,7500,66142,+13%,0.0,2.0,1.0,-10.0,-8.0,RGLD
+688,D,2009-11-20 18:23:09,2009-11-18,RGLD,Kirchhoff Bruce Christopher,"VP, GC",A - Grant,0.0,7500,27500,+38%,0.0,2.0,1.0,-10.0,-8.0,RGLD
+689,D,2009-11-20 17:58:26,2009-11-18,RGLD,Jensen Tony A,"Pres, CEO",A - Grant,0.0,3000,129610,+2%,0.0,2.0,1.0,-10.0,-8.0,RGLD
+690,D,2009-11-20 17:35:20,2009-11-18,RGLD,Zisch William M,VP Operations,A - Grant,0.0,7500,7500,New,0.0,2.0,1.0,-10.0,-8.0,RGLD
+691,D,2009-11-20 17:03:45,2009-11-18,RGLD,Heissenbuttel William Holmes,VP Corporate Development,A - Grant,0.0,7500,35936,+26%,0.0,2.0,1.0,-10.0,-8.0,RGLD
+692,D,2009-11-20 16:31:47,2009-11-18,RGLD,Gross Karen,"VP, Secretary",A - Grant,0.0,4000,103018,+4%,0.0,2.0,1.0,-10.0,-8.0,RGLD
+693,,2009-11-19 19:22:14,2009-11-18,RGLD,Stuckert James W,Dir,A - Grant,0.0,2000,1757420,0%,0.0,-1.0,3.0,-10.0,-10.0,RGLD
+694,,2009-11-19 19:05:17,2009-11-18,RGLD,Haase M Craig,Dir,A - Grant,0.0,2000,7250,+38%,0.0,-1.0,3.0,-10.0,-10.0,RGLD
+695,,2009-11-19 18:52:23,2009-11-18,RGLD,Hayes William M.,Dir,A - Grant,0.0,2000,14000,+17%,0.0,-1.0,3.0,-10.0,-10.0,RGLD
+696,,2009-11-19 18:39:52,2009-11-18,RGLD,Dempsey Stanley,Dir,A - Grant,0.0,2000,398677,+1%,0.0,-1.0,3.0,-10.0,-10.0,RGLD
+697,,2009-11-19 17:59:23,2009-11-18,RGLD,Howell S Oden Jr,Dir,A - Grant,0.0,2000,490230,0%,0.0,-1.0,3.0,-10.0,-10.0,RGLD
+698,,2009-11-19 17:49:27,2009-11-18,RGLD,Worth Donald J,Dir,A - Grant,0.0,2000,19750,+11%,0.0,-1.0,3.0,-10.0,-10.0,RGLD
+699,D,2009-11-17 18:35:15,2009-11-17,RGLD,Marcus Merritt E,Dir,G - Gift,0.0,-35000,207493,+20%,-0.0,0.0,3.0,-5.0,-6.0,RGLD
+700,D,2009-11-17 18:35:15,2009-11-17,RGLD,Marcus Merritt E,Dir,M - OptEx,21.02,17500,207493,+9%,367775.0,0.0,3.0,-5.0,-6.0,RGLD
+701,,2009-11-13 18:06:59,2009-11-12,RGLD,Goth John W,Dir,G - Gift,0.0,-1000,48250,-2%,-0.0,2.0,5.0,0.0,1.0,RGLD
+702,,2009-11-13 17:51:21,2009-11-12,RGLD,Dempsey Stanley,Dir,S - Sale,50.68,-6000,396677,-1%,-304080.0,2.0,5.0,0.0,1.0,RGLD
+703,,2009-11-13 17:37:42,2009-11-12,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,-2000,402677,0%,-0.0,2.0,5.0,0.0,1.0,RGLD
+704,,2009-11-10 17:44:15,2009-11-10,RGLD,Dempsey Stanley,Dir,S - Sale,51.05,-10000,404677,-2%,-510500.0,0.0,2.0,1.0,3.0,RGLD
+705,D,2009-11-05 18:07:13,2009-11-03,RGLD,Dempsey Stanley,Dir,F - Tax,47.79,-74430,414677,-15%,-3557010.0,7.0,7.0,8.0,4.0,RGLD
+706,D,2009-11-05 18:07:13,2009-11-03,RGLD,Dempsey Stanley,Dir,M - OptEx,25.19,141210,414677,+52%,3557011.0,7.0,7.0,8.0,4.0,RGLD
+707,,2009-10-13 18:21:35,2009-10-13,RGLD,Dempsey Stanley,Dir,S - Sale,48.52,-6000,347897,-2%,-291120.0,-2.0,-2.0,3.0,1.0,RGLD
+708,,2009-10-13 17:57:38,2009-10-09,RGLD,Dempsey Stanley,Dir,S - Sale,48.64,-10000,353897,-3%,-486400.0,-2.0,-2.0,3.0,1.0,RGLD
+709,D,2009-09-28 17:36:31,2009-09-25,RGLD,Howell S Oden Jr,Dir,M - OptEx,4.88,5000,488230,+1%,24375.0,2.0,-2.0,3.0,5.0,RGLD
+710,D,2009-09-24 17:36:40,2009-09-22,RGLD,Goth John W,Dir,M - OptEx,4.12,10000,49250,+25%,41200.0,-1.0,3.0,6.0,1.0,RGLD
+711,,2009-09-15 17:29:28,2009-09-14,RGLD,Dempsey Stanley,Dir,S - Sale,47.59,-6000,363897,-2%,-285540.0,-1.0,-5.0,5.0,0.0,RGLD
+712,,2009-09-11 17:57:03,2009-09-10,RGLD,Dempsey Stanley,Dir,S - Sale,45.3,-10000,369897,-3%,-453000.0,-3.0,-6.0,1.0,-6.0,RGLD
+713,,2009-09-08 17:37:55,2009-09-03,RGLD,Howell S Oden Jr,Dir,S - Sale,43.37,-10000,483230,-2%,-433650.0,-2.0,1.0,3.0,0.0,RGLD
+714,,2009-09-04 17:35:11,2009-09-02,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale,40.45,-15500,99018,-14%,-626920.0,1.0,5.0,-2.0,1.0,RGLD
+715,,2009-09-01 17:43:31,2009-08-28,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale,40.0,-5000,114518,-4%,-200000.0,9.0,18.0,17.0,19.0,RGLD
+716,,2009-08-24 18:06:43,2009-08-24,RGLD,Marcus Merritt E,Dir,S - Sale,39.7,-10000,189993,-5%,-397000.0,0.0,2.0,19.0,10.0,RGLD
+717,,2009-08-21 17:18:22,2009-08-21,RGLD,Hayes William M.,Dir,P - Purchase,39.6,1500,12000,+14%,59400.0,-1.0,0.0,14.0,12.0,RGLD
+718,,2009-08-17 17:38:16,2009-08-17,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,-8450,379897,+2%,-0.0,-1.0,1.0,21.0,14.0,RGLD
+719,,2009-08-14 17:40:05,2009-08-13,RGLD,Dempsey Stanley,Dir,S - Sale,41.83,-6000,387697,-2%,-250980.0,-3.0,-3.0,16.0,9.0,RGLD
+720,,2009-08-12 17:47:47,2009-08-11,RGLD,Dempsey Stanley,Dir,S - Sale,40.85,-10000,393697,-2%,-408500.0,1.0,-6.0,14.0,5.0,RGLD
+721,,2009-07-15 18:05:27,2009-07-14,RGLD,Dempsey Stanley,Dir,S - Sale,39.79,-6000,40418,-13%,-238740.0,0.0,2.0,2.0,21.0,RGLD
+722,D,2009-07-10 16:33:44,2009-07-08,RGLD,Gross Karen,"VP, Corporate Secretary",M - OptEx,10.65,12300,119518,+11%,131041.0,1.0,4.0,8.0,25.0,RGLD
+723,,2009-07-08 17:53:41,2009-07-07,RGLD,Dempsey Stanley,Dir,S - Sale,39.37,-10800,357879,-3%,-425196.0,-1.0,2.0,8.0,24.0,RGLD
+724,D,2009-07-08 16:43:18,2009-07-06,RGLD,Gross Karen,"VP, Corporate Secretary",M - OptEx,2.88,10000,107218,+10%,28750.0,-1.0,2.0,8.0,24.0,RGLD
+725,,2009-06-12 17:33:00,2009-06-11,RGLD,Dempsey Stanley,Dir,S - Sale,43.41,-6000,46418,-11%,-260460.0,-2.0,-1.0,-7.0,21.0,RGLD
+726,,2009-05-14 17:43:14,2009-05-13,RGLD,Dempsey Stanley,Dir,S - Sale,41.65,-6000,52418,-10%,-249900.0,-1.0,5.0,5.0,26.0,RGLD
+727,,2009-04-15 18:43:15,2009-04-14,RGLD,Dempsey Stanley,Dir,S - Sale,36.95,-6000,58418,-9%,-221700.0,-2.0,-4.0,11.0,32.0,RGLD
+728,,2009-03-27 17:32:45,2009-03-26,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-2500,473230,-1%,-0.0,0.0,6.0,-16.0,0.0,RGLD
+729,,2009-03-13 18:24:25,2009-03-12,RGLD,Dempsey Stanley,Dir,S - Sale,38.4,-6000,64418,-9%,-230400.0,-2.0,13.0,-6.0,19.0,RGLD
+730,,2009-02-13 18:43:08,2009-02-12,RGLD,Dempsey Stanley,Dir,S - Sale,43.39,-6000,70418,-8%,-260340.0,9.0,6.0,-8.0,-2.0,RGLD
+731,,2009-02-11 17:44:58,2009-02-10,RGLD,Dempsey Stanley,Dir,S - Sale,43.2,-8500,368679,-2%,-367200.0,-1.0,3.0,-12.0,-7.0,RGLD
+732,,2009-01-29 20:21:43,2009-01-27,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,-5400,377179,-1%,-0.0,-1.0,-5.0,-18.0,-20.0,RGLD
+733,A,2009-01-23 19:23:03,2008-11-05,RGLD,Dempsey Stanley,Exec COB,A - Grant,0.0,15000,391789,+4%,0.0,-6.0,-1.0,-9.0,-15.0,RGLD
+734,,2009-01-12 19:03:26,2009-01-12,RGLD,Dempsey Stanley,Dir,S - Sale,42.0,-8500,382579,-2%,-357002.0,1.0,6.0,4.0,-4.0,RGLD
+735,,2009-01-12 18:54:06,2009-01-09,RGLD,Dempsey Stanley,Dir,S - Sale,44.28,-20000,76418,-21%,-885537.0,1.0,6.0,4.0,-4.0,RGLD
+736,AD,2009-01-08 16:01:35,2008-11-25,RGLD,Wenger Stefan,CFO,M - OptEx,17.38,5733,58642,+11%,99640.0,-3.0,-9.0,3.0,-13.0,RGLD
+737,AD,2009-01-08 16:01:35,2008-11-25,RGLD,Wenger Stefan,CFO,S - Sale+OE,38.27,-5733,58642,-9%,-219402.0,-3.0,-9.0,3.0,-13.0,RGLD
+738,A,2009-01-08 15:06:00,2008-11-11,RGLD,Wenger Stefan,CFO,S - Sale,30.59,-1083,57342,-2%,-33131.0,-4.0,-9.0,2.0,-14.0,RGLD
+739,AD,2009-01-08 14:16:23,2008-11-07,RGLD,Wenger Stefan,CFO,M - OptEx,0.0,1875,58425,+3%,0.0,-4.0,-9.0,2.0,-14.0,RGLD
+740,AD,2009-01-08 14:16:23,2008-11-10,RGLD,Wenger Stefan,CFO,S - Sale+OE,31.53,-875,58425,-1%,-27591.0,-4.0,-9.0,2.0,-14.0,RGLD
+741,,2008-12-17 18:00:16,2008-12-17,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-10000,475730,-2%,-0.0,-4.0,7.0,0.0,-3.0,RGLD
+742,D,2008-12-16 18:26:06,2008-12-12,RGLD,Dempsey Stanley,Exec COB,M - OptEx,24.51,16290,408079,+4%,399239.0,1.0,4.0,-1.0,1.0,RGLD
+743,D,2008-12-15 20:08:01,2008-12-12,RGLD,Goth John W,Dir,M - OptEx,4.88,5000,39250,+15%,24375.0,10.0,13.0,3.0,9.0,RGLD
+744,D,2008-12-15 20:08:01,2008-12-12,RGLD,Goth John W,Dir,S - Sale+OE,38.51,-5000,39250,-11%,-192563.0,10.0,13.0,3.0,9.0,RGLD
+745,,2008-12-11 18:31:19,2008-12-11,RGLD,Stuckert James W,Dir,S - Sale,39.5,-3000,1582585,0%,-118500.0,5.0,17.0,11.0,15.0,RGLD
+746,,2008-12-11 18:17:31,2008-12-09,RGLD,Dempsey Stanley,Exec COB,S - Sale,36.86,-8500,374789,-2%,-313310.0,5.0,17.0,11.0,15.0,RGLD
+747,,2008-12-04 19:08:58,2008-12-04,RGLD,Dempsey Stanley,Exec COB,G - Gift,0.0,-5200,96418,-5%,-0.0,1.0,4.0,25.0,19.0,RGLD
+748,,2008-12-04 16:54:15,2008-12-02,RGLD,Stuckert James W,Dir,S - Sale,35.48,-32965,149035,-18%,-1169720.0,1.0,4.0,25.0,19.0,RGLD
+749,,2008-11-26 18:30:17,2008-11-26,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale,38.45,-6148,97217,-6%,-236408.0,1.0,-5.0,23.0,19.0,RGLD
+750,D,2008-11-26 18:18:35,2008-11-26,RGLD,Gross Karen,"VP, Corporate Secretary",M - OptEx,10.17,15200,103366,+17%,154584.0,1.0,-5.0,23.0,19.0,RGLD
+751,D,2008-11-26 18:18:35,2008-11-26,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale+OE,38.79,-9052,103366,-8%,-351162.0,1.0,-5.0,23.0,19.0,RGLD
+752,AD,2008-11-26 17:14:19,2008-11-25,RGLD,Wenger Stefan,CFO,M - OptEx,17.38,5733,57342,+11%,99640.0,1.0,-5.0,23.0,19.0,RGLD
+753,AD,2008-11-26 17:14:19,2008-11-25,RGLD,Wenger Stefan,CFO,S - Sale+OE,38.27,-5733,57342,-9%,-219402.0,1.0,-5.0,23.0,19.0,RGLD
+754,D,2008-11-26 17:01:33,2008-11-25,RGLD,Wenger Stefan,CFO,M - OptEx,17.38,1300,58642,+2%,22594.0,1.0,-5.0,23.0,19.0,RGLD
+755,D,2008-11-26 16:49:50,2008-11-25,RGLD,Wenger Stefan,CFO,M - OptEx,17.38,5733,57425,+11%,99640.0,1.0,-5.0,23.0,19.0,RGLD
+756,D,2008-11-26 16:49:50,2008-11-25,RGLD,Wenger Stefan,CFO,S - Sale+OE,38.27,-5733,57425,-9%,-219402.0,1.0,-5.0,23.0,19.0,RGLD
+757,,2008-11-19 17:19:50,2008-11-18,RGLD,Hayes William M.,Dir,P - Purchase,30.0,8000,10500,+320%,240000.0,-2.0,28.0,38.0,48.0,RGLD
+758,,2008-11-13 17:48:41,2008-11-11,RGLD,Jensen Tony A,"Pres, CEO",S - Sale,30.96,-1740,126610,-1%,-53873.0,-4.0,-6.0,24.0,28.0,RGLD
+759,,2008-11-13 16:18:59,2008-11-11,RGLD,Dempsey Stanley,Exec COB,S - Sale,31.0,-8500,383289,-2%,-263500.0,-4.0,-6.0,24.0,28.0,RGLD
+760,,2008-11-12 21:35:25,2008-11-11,RGLD,Wenger Stefan,CFO,D - Sale to issuer,30.59,-1083,58550,-2%,-33131.0,11.0,5.0,26.0,38.0,RGLD
+761,D,2008-11-12 21:17:53,2008-11-10,RGLD,Wenger Stefan,CFO,D - Sale to issuer,31.53,-875,59633,-1%,-27591.0,11.0,5.0,26.0,38.0,RGLD
+762,D,2008-11-12 21:17:53,2008-11-07,RGLD,Wenger Stefan,CFO,M - OptEx,0.0,1875,59633,+3%,0.0,11.0,5.0,26.0,38.0,RGLD
+763,D,2008-11-12 20:07:13,2008-11-07,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,0.0,3750,128350,+3%,0.0,11.0,5.0,26.0,38.0,RGLD
+764,,2008-11-12 19:20:01,2008-11-10,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale,31.41,-15036,97218,-13%,-472248.0,11.0,5.0,26.0,38.0,RGLD
+765,D,2008-11-12 18:25:59,2008-11-07,RGLD,Gross Karen,"VP, Corporate Secretary",M - OptEx,0.0,1250,112254,+1%,0.0,11.0,5.0,26.0,38.0,RGLD
+766,D,2008-11-12 18:25:59,2008-11-10,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale+OE,32.01,-1250,112254,-1%,-40016.0,11.0,5.0,26.0,38.0,RGLD
+767,D,2008-11-12 16:44:28,2008-11-07,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,1875,28436,+7%,0.0,11.0,5.0,26.0,38.0,RGLD
+768,D,2008-11-12 16:44:28,2008-11-11,RGLD,Heissenbuttel William Holmes,VP Corporate Development,S - Sale+OE,30.24,-729,28436,-2%,-22042.0,11.0,5.0,26.0,38.0,RGLD
+769,D,2008-11-10 16:54:13,2008-11-07,RGLD,Howell S Oden Jr,Dir,M - OptEx,4.59,5000,485730,+1%,22970.0,0.0,-2.0,16.0,34.0,RGLD
+770,AD,2008-11-07 20:20:17,2008-11-05,RGLD,Wenger Stefan,"CFO, Treasurer",A - Grant,0.0,10000,57425,+21%,0.0,3.0,5.0,22.0,30.0,RGLD
+771,D,2008-11-07 20:08:21,2008-11-05,RGLD,Gross Karen,"VP, Corporate Secretary",A - Grant,0.0,5000,112254,+5%,0.0,3.0,5.0,22.0,30.0,RGLD
+772,D,2008-11-07 19:51:56,2008-11-07,RGLD,Heissenbuttel William Holmes,VP Corporate Development,A - Grant,0.0,10000,27290,+58%,0.0,3.0,5.0,22.0,30.0,RGLD
+773,D,2008-11-07 19:37:37,2008-11-05,RGLD,Kirchhoff Bruce Christopher,"V.P, GC",A - Grant,0.0,10000,20000,+100%,0.0,3.0,5.0,22.0,30.0,RGLD
+774,D,2008-11-07 19:17:59,2008-11-05,RGLD,Jensen Tony A,"Pres, CEO",A - Grant,0.0,20000,124600,+19%,0.0,3.0,5.0,22.0,30.0,RGLD
+775,,2008-11-07 18:43:41,2008-11-05,RGLD,Dempsey Stanley,Exec COB,A - Grant,0.0,15000,391789,+4%,0.0,3.0,5.0,22.0,30.0,RGLD
+776,,2008-11-06 19:40:13,2008-11-05,RGLD,Howell S Oden Jr,Dir,A - Grant,0.0,2500,478230,+1%,0.0,4.0,-2.0,26.0,35.0,RGLD
+777,,2008-11-06 19:32:51,2008-11-05,RGLD,Marcus Merritt E,Dir,A - Grant,0.0,2500,56838,+5%,0.0,4.0,-2.0,26.0,35.0,RGLD
+778,,2008-11-06 19:21:56,2008-11-05,RGLD,Stuckert James W,Dir,A - Grant,0.0,2500,1583085,0%,0.0,4.0,-2.0,26.0,35.0,RGLD
+779,,2008-11-06 19:01:57,2008-11-05,RGLD,Haase M Craig,Dir,A - Grant,0.0,2500,5250,+91%,0.0,4.0,-2.0,26.0,35.0,RGLD
+780,,2008-11-06 18:55:00,2008-11-05,RGLD,Hayes William M.,Dir,A - Grant,0.0,2500,2500,New,0.0,4.0,-2.0,26.0,35.0,RGLD
+781,,2008-11-06 18:47:27,2008-11-05,RGLD,Goth John W,Dir,A - Grant,0.0,2500,39250,+7%,0.0,4.0,-2.0,26.0,35.0,RGLD
+782,,2008-11-06 17:49:41,2008-11-05,RGLD,Worth Donald J,Dir,A - Grant,0.0,2500,12750,+24%,0.0,4.0,-2.0,26.0,35.0,RGLD
+783,,2008-10-10 18:27:38,2008-10-09,RGLD,Dempsey Stanley,Exec COB,S - Sale,38.77,-8500,376789,-2%,-329554.0,-2.0,-15.0,-17.0,0.0,RGLD
+784,,2008-09-12 19:56:06,2008-09-10,RGLD,Dempsey Stanley,Exec COB,S - Sale,27.54,-8500,385289,-2%,-234090.0,1.0,24.0,23.0,31.0,RGLD
+785,,2008-08-12 19:57:58,2008-08-11,RGLD,Dempsey Stanley,Exec COB,S - Sale,32.77,-8500,393789,-2%,-278545.0,8.0,4.0,-11.0,34.0,RGLD
+786,,2008-08-05 13:55:29,2008-08-01,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-10000,478230,-2%,-0.0,-5.0,-8.0,-7.0,34.0,RGLD
+787,,2008-07-11 19:30:36,2008-07-10,RGLD,Dempsey Stanley,Exec COB,S - Sale,31.1,-8500,402289,-2%,-264350.0,5.0,0.0,-4.0,33.0,RGLD
+788,,2008-06-11 19:07:08,2008-06-11,RGLD,Dempsey Stanley,Exec COB,G - Gift,0.0,-3500,101618,-3%,-0.0,-1.0,-1.0,8.0,23.0,RGLD
+789,,2008-06-11 18:54:16,2008-06-10,RGLD,Dempsey Stanley,Exec COB,S - Sale,30.65,-8500,410789,-2%,-260537.0,-1.0,-1.0,8.0,23.0,RGLD
+790,D,2008-06-11 16:48:37,2008-06-09,RGLD,Goth John W,Dir,M - OptEx,4.59,5000,36750,+16%,22970.0,-1.0,-1.0,8.0,23.0,RGLD
+791,D,2008-06-11 16:48:37,2008-06-09,RGLD,Goth John W,Dir,S - Sale+OE,31.34,-2500,36750,-6%,-78347.0,-1.0,-1.0,8.0,23.0,RGLD
+792,M,2008-06-06 18:28:42,2008-06-04,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale,30.03,-15000,107254,-12%,-450441.0,0.0,-4.0,3.0,21.0,RGLD
+793,,2008-06-04 17:25:56,2008-06-02,RGLD,Dempsey Stanley,Exec COB,S - Sale,30.5,-8500,105118,-7%,-259285.0,3.0,2.0,13.0,18.0,RGLD
+794,,2008-05-29 19:11:33,2008-05-28,RGLD,Marcus Merritt E,Dir,S - Sale,30.27,-40995,56838,-42%,-1240727.0,3.0,-1.0,-1.0,27.0,RGLD
+795,M,2008-05-27 19:12:23,2008-05-22,RGLD,Marcus Merritt E,Dir,S - Sale,31.07,-84005,97833,-46%,-2609631.0,2.0,1.0,-3.0,-1.0,RGLD
+796,,2008-05-12 17:26:44,2008-05-09,RGLD,Dempsey Stanley,Exec COB,S - Sale,28.65,-8500,419289,-2%,-243525.0,-1.0,2.0,3.0,1.0,RGLD
+797,,2008-04-09 16:38:55,2008-04-09,RGLD,Dempsey Stanley,Exec Dir,S - Sale,30.77,-8500,427789,-2%,-261545.0,2.0,2.0,-10.0,12.0,RGLD
+798,AD,2008-04-01 20:19:33,2008-02-20,RGLD,Marcus Merritt E,Dir,M - OptEx,4.43,20000,221838,+10%,88560.0,4.0,6.0,-5.0,26.0,RGLD
+799,D,2008-03-12 18:32:26,2008-03-10,RGLD,Gross Karen,"VP, Corp. Secretary",M - OptEx,4.88,20500,121754,+20%,99938.0,4.0,2.0,3.0,-9.0,RGLD
+800,,2008-03-12 17:31:59,2008-03-11,RGLD,Dempsey Stanley,Exec Dir,S - Sale,29.56,-8500,436289,-2%,-251260.0,4.0,2.0,3.0,-9.0,RGLD
+801,,2008-03-12 17:20:18,2008-03-10,RGLD,Marcus Merritt E,Dir,G - Gift,0.0,-20000,180588,-10%,-0.0,4.0,2.0,3.0,-9.0,RGLD
+802,D,2008-03-03 18:24:12,2008-02-28,RGLD,Stuckert James W,Dir,M - OptEx,4.43,20000,1583085,+1%,88560.0,-3.0,-5.0,-7.0,11.0,RGLD
+803,,2008-02-28 17:04:41,2008-02-27,RGLD,Marcus Merritt E,Dir,S - Sale,31.47,-20000,201838,-9%,-629320.0,-1.0,-3.0,-3.0,9.0,RGLD
+804,D,2008-02-21 19:21:54,2008-02-20,RGLD,Marcus Merritt E,Dir,M - OptEx,4.43,20000,221838,+10%,88565.0,1.0,2.0,-5.0,11.0,RGLD
+805,,2008-02-13 18:53:49,2008-02-11,RGLD,Marcus Merritt E,Dir,S - Sale,28.0,-20000,201838,-9%,-560000.0,0.0,7.0,13.0,14.0,RGLD
+806,A,2008-01-16 19:35:14,2007-10-26,RGLD,Dempsey Stanley,Exec Dir,G - Gift,0.0,-8450,113618,-7%,-0.0,0.0,-2.0,-11.0,10.0,RGLD
+807,,2007-12-27 17:17:25,2007-12-26,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-3000,486980,-1%,-0.0,3.0,6.0,4.0,-1.0,RGLD
+808,,2007-12-13 17:55:43,2007-12-11,RGLD,Dempsey Stanley,Exec COB,S - Sale,28.98,-7500,444789,-2%,-217387.0,-3.0,2.0,21.0,9.0,RGLD
+809,D,2007-11-20 18:37:21,2007-11-07,RGLD,Heissenbuttel William Holmes,VP Corporate Development,A - Grant,0.0,10000,17290,+137%,0.0,1.0,1.0,-7.0,6.0,RGLD
+810,AD,2007-11-20 18:21:09,2007-11-07,RGLD,Kirchhoff Bruce Christopher,"VP, GC",A - Grant,0.0,10000,10000,New,0.0,1.0,1.0,-7.0,6.0,RGLD
+811,D,2007-11-09 19:39:58,2007-11-07,RGLD,Heissenbuttel William Holmes,VP Corporate Development,A - Grant,0.0,10000,17290,+137%,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+812,,2007-11-09 19:29:39,2007-11-07,RGLD,Goth John W,Dir,A - Grant,0.0,2500,34250,+8%,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+813,,2007-11-09 19:17:20,2007-11-09,RGLD,Dempsey Stanley,Exec Dir,S - Sale,30.75,-7500,452289,-2%,-230642.0,-6.0,-6.0,-4.0,-4.0,RGLD
+814,D,2007-11-09 19:02:22,2007-11-07,RGLD,Gross Karen,"VP, Corporate Secretary",A - Grant,0.0,10000,101104,+11%,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+815,D,2007-11-09 18:51:54,2007-11-07,RGLD,Jensen Tony A,"Pres, CEO",A - Grant,0.0,20000,104600,+24%,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+816,D,2007-11-09 18:03:31,2007-11-07,RGLD,Kirchhoff Bruce Christopher,"VP, GC",A - Grant,0.0,10000,10000,New,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+817,D,2007-11-09 17:49:43,2007-11-07,RGLD,Wenger Stefan,"CFO, Treasurer",A - Grant,0.0,10000,47425,+27%,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+818,,2007-11-09 17:00:35,2007-11-07,RGLD,Haase M Craig,Dir,A - Grant,0.0,2500,2750,>999%,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+819,,2007-11-09 16:52:30,2007-11-07,RGLD,Marcus Merritt E,Dir,A - Grant,0.0,2500,221838,+1%,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+820,,2007-11-09 16:45:34,2007-11-07,RGLD,Howell S Oden Jr,Dir,A - Grant,0.0,2500,491230,+1%,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+821,,2007-11-09 16:38:29,2007-11-07,RGLD,Stuckert James W,Dir,A - Grant,0.0,2500,1563085,0%,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+822,,2007-11-09 16:22:26,2007-11-07,RGLD,Worth Donald J,Dir,A - Grant,0.0,2500,10250,+32%,0.0,-6.0,-6.0,-4.0,-4.0,RGLD
+823,,2007-10-30 20:03:54,2007-10-26,RGLD,Dempsey Stanley,Exec Dir,G - Gift,0.0,-11950,110118,-10%,-0.0,4.0,-13.0,-10.0,-16.0,RGLD
+824,,2007-10-10 17:45:31,2007-10-09,RGLD,Dempsey Stanley,Exec Dir,S - Sale,33.2,-7500,459789,-2%,-249000.0,-1.0,-1.0,-12.0,-7.0,RGLD
+825,D,2007-10-01 18:06:02,2007-09-27,RGLD,Goth John W,Dir,M - OptEx,5.63,5000,31750,+19%,28125.0,-4.0,1.0,4.0,-11.0,RGLD
+826,D,2007-10-01 18:06:02,2007-09-27,RGLD,Goth John W,Dir,S - Sale+OE,32.7,-2500,31750,-7%,-81750.0,-4.0,1.0,4.0,-11.0,RGLD
+827,,2007-09-21 18:26:19,2007-09-19,RGLD,Gross Karen,"VP,Corporate Secretary",S - Sale,32.25,-9363,91104,-9%,-301957.0,-1.0,-2.0,-4.0,-15.0,RGLD
+828,E,2007-09-14 18:51:52,2007-09-12,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale,0.55,-5637,100467,-5%,-3124.0,0.0,8.0,10.0,2.0,RGLD
+829,,2007-09-14 18:39:44,2007-09-12,RGLD,Dempsey Stanley,Exec COB,S - Sale,31.24,-7500,467289,-2%,-234315.0,0.0,8.0,10.0,2.0,RGLD
+830,,2007-09-05 16:20:10,2007-09-04,RGLD,Marcus Merritt E,Dir,S - Sale,28.75,-5000,120655,-4%,-143750.0,6.0,11.0,11.0,8.0,RGLD
+831,D,2007-08-27 19:01:45,2007-08-23,RGLD,Gross Karen,"VP, Corporate Secretary",M - OptEx,0.0,1250,106104,+1%,0.0,-2.0,4.0,23.0,18.0,RGLD
+832,D,2007-08-27 19:01:45,2007-08-24,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale+OE,27.57,-1250,106104,-1%,-34463.0,-2.0,4.0,23.0,18.0,RGLD
+833,D,2007-08-27 18:43:26,2007-08-23,RGLD,Jensen Tony A,"Preident, CEO",M - OptEx,0.0,3750,84600,+5%,0.0,-2.0,4.0,23.0,18.0,RGLD
+834,D,2007-08-27 18:43:26,2007-08-24,RGLD,Jensen Tony A,"Preident, CEO",S - Sale+OE,27.66,-750,84600,-1%,-20744.0,-2.0,4.0,23.0,18.0,RGLD
+835,D,2007-08-27 18:07:20,2007-08-23,RGLD,Wenger Stefan,CFO,M - OptEx,0.0,1875,37425,+5%,0.0,-2.0,4.0,23.0,18.0,RGLD
+836,D,2007-08-27 18:07:20,2007-08-24,RGLD,Wenger Stefan,CFO,S - Sale+OE,27.63,-875,37425,-2%,-24174.0,-2.0,4.0,23.0,18.0,RGLD
+837,D,2007-08-27 17:53:37,2007-08-23,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,1875,7290,+35%,0.0,-2.0,4.0,23.0,18.0,RGLD
+838,D,2007-08-27 17:53:37,2007-08-24,RGLD,Heissenbuttel William Holmes,VP Corporate Development,S - Sale+OE,27.52,-715,7290,-9%,-19678.0,-2.0,4.0,23.0,18.0,RGLD
+839,,2007-08-10 17:41:44,2007-08-09,RGLD,Dempsey Stanley,Exec COB,S - Sale,32.19,-7500,474789,-2%,-241451.0,-4.0,-3.0,0.0,-6.0,RGLD
+840,,2007-08-03 17:09:58,2007-08-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,24.31,-5000,55380,-8%,-121550.0,3.0,21.0,5.0,13.0,RGLD
+841,,2007-07-13 16:38:38,2007-07-11,RGLD,Dempsey Stanley,Exec Chiarman,S - Sale,25.37,-7500,482289,-2%,-190243.0,-1.0,4.0,13.0,25.0,RGLD
+842,D,2007-06-14 17:11:53,2007-06-13,RGLD,Dempsey Stanley,Exec COB,M - OptEx,17.38,3900,489789,+1%,67782.0,2.0,-2.0,8.0,12.0,RGLD
+843,,2007-06-12 17:14:00,2007-06-11,RGLD,Dempsey Stanley,Exec COB,S - Sale,25.11,-7500,485889,-2%,-188346.0,1.0,2.0,4.0,17.0,RGLD
+844,,2007-06-01 17:20:49,2007-06-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,27.07,-5000,61005,-8%,-135350.0,-2.0,-9.0,-15.0,11.0,RGLD
+845,AD,2007-05-22 18:46:36,2007-05-14,RGLD,Marcus Merritt E,Dir,M - OptEx,5.63,5000,219338,+2%,28125.0,1.0,-3.0,-11.0,7.0,RGLD
+846,DM,2007-05-18 20:17:53,2007-05-16,RGLD,Gross Karen,"VP, Corporate Secretary",M - OptEx,8.64,10750,109854,+11%,92920.0,3.0,-1.0,-7.0,13.0,RGLD
+847,D,2007-05-18 20:17:53,2007-05-17,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale+OE,26.58,-6750,109854,-6%,-179384.0,3.0,-1.0,-7.0,13.0,RGLD
+848,D,2007-05-18 19:47:49,2007-05-16,RGLD,Dempsey Stanley,Dir,M - OptEx,0.0,7500,493389,+2%,0.0,3.0,-1.0,-7.0,13.0,RGLD
+849,D,2007-05-18 19:29:29,2007-05-16,RGLD,Jensen Tony A,"Pres, CEO",M - OptEx,0.0,15000,92850,+19%,0.0,3.0,-1.0,-7.0,13.0,RGLD
+850,D,2007-05-18 19:29:29,2007-05-17,RGLD,Jensen Tony A,"Pres, CEO",S - Sale+OE,26.56,-1100,92850,-1%,-29217.0,3.0,-1.0,-7.0,13.0,RGLD
+851,D,2007-05-18 15:44:29,2007-05-16,RGLD,Heissenbuttel William Holmes,VP Corporate Development,M - OptEx,0.0,1875,11755,+19%,0.0,2.0,0.0,-5.0,14.0,RGLD
+852,D,2007-05-18 15:44:29,2007-05-17,RGLD,Heissenbuttel William Holmes,VP Corporate Development,S - Sale+OE,26.45,-745,11755,-6%,-19705.0,2.0,0.0,-5.0,14.0,RGLD
+853,D,2007-05-18 14:41:09,2007-05-16,RGLD,Wenger Stefan,CFO,M - OptEx,0.0,7500,42050,+22%,0.0,2.0,0.0,-5.0,14.0,RGLD
+854,D,2007-05-18 14:41:09,2007-05-17,RGLD,Wenger Stefan,CFO,S - Sale+OE,26.66,-3200,42050,-7%,-85320.0,2.0,0.0,-5.0,14.0,RGLD
+855,DE,2007-05-16 16:55:30,2007-05-14,RGLD,Marcus Merritt E,Dir,M - OptEx,1.13,5000,219338,+2%,5625.0,-2.0,2.0,-8.0,8.0,RGLD
+856,,2007-05-14 19:50:28,2007-05-09,RGLD,Dempsey Stanley,Dir,S - Sale,29.03,-7500,486514,-2%,-217725.0,-1.0,-1.0,-10.0,13.0,RGLD
+857,D,2007-04-19 17:19:57,2007-04-18,RGLD,Howell S Oden Jr,Dir,M - OptEx,5.63,5000,488730,+1%,28125.0,1.0,0.0,-11.0,13.0,RGLD
+858,D,2007-04-16 16:31:05,2007-04-12,RGLD,Stuckert James W,Dir,M - OptEx,5.63,5000,1560585,0%,28125.0,-1.0,-2.0,-11.0,10.0,RGLD
+859,,2007-04-11 16:47:45,2007-04-11,RGLD,Dempsey Stanley,Exec COB,S - Sale,29.89,-7500,494014,-1%,-224175.0,1.0,3.0,-1.0,13.0,RGLD
+860,,2007-04-04 18:36:27,2007-04-02,RGLD,Peiker Edwin W Jr,Dir,S - Sale,30.02,-5000,65380,-7%,-150100.0,2.0,0.0,0.0,8.0,RGLD
+861,,2007-03-12 17:49:08,2007-03-09,RGLD,Dempsey Stanley,Exec COB,S - Sale,31.27,-7500,501514,-1%,-234525.0,-5.0,-3.0,-4.0,-3.0,RGLD
+862,D,2007-02-20 21:26:24,2007-02-20,RGLD,Parcel Randy L,Retired V.P. General Counsel,M - OptEx,17.38,67,29975,0%,1164.0,8.0,10.0,-4.0,-6.0,RGLD
+863,D,2007-02-20 21:26:24,2007-02-20,RGLD,Parcel Randy L,Retired V.P. General Counsel,S - Sale+OE,32.06,-67,29975,0%,-2148.0,8.0,10.0,-4.0,-6.0,RGLD
+864,,2007-02-20 20:41:36,2007-02-20,RGLD,Peiker Edwin W Jr,Dir,S - Sale,32.02,-6170,17580,-26%,-197540.0,8.0,10.0,-4.0,-6.0,RGLD
+865,,2007-02-20 20:09:03,2007-02-06,RGLD,Dempsey Stanley,Exec COB,S - Sale,33.02,-1500,5200,-22%,-49532.0,8.0,10.0,-4.0,-6.0,RGLD
+866,DM,2007-02-14 20:38:53,2007-02-13,RGLD,Parcel Randy L,"V.P, GC",M - OptEx,19.53,7500,29975,+33%,146482.0,0.0,7.0,-6.0,-12.0,RGLD
+867,D,2007-02-14 20:38:53,2007-02-14,RGLD,Parcel Randy L,"V.P, GC",S - Sale+OE,32.77,-6000,29975,-17%,-196627.0,0.0,7.0,-6.0,-12.0,RGLD
+868,,2007-02-12 17:45:42,2007-02-09,RGLD,Dempsey Stanley,Dir,S - Sale,32.75,-7500,509014,-1%,-245625.0,2.0,1.0,-6.0,-5.0,RGLD
+869,,2007-01-12 18:45:58,2007-01-11,RGLD,Dempsey Stanley,Dir,S - Sale,30.74,-7500,516514,-1%,-230550.0,-2.0,-5.0,-1.0,-17.0,RGLD
+870,,2006-12-22 17:47:21,2006-12-21,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-10000,483730,-2%,-0.0,1.0,1.0,-9.0,-34.0,RGLD
+871,,2006-12-20 14:19:13,2006-12-20,RGLD,Stuckert James W,Dir,G - Gift,0.0,-1860,1555585,0%,-0.0,-1.0,3.0,-12.0,-31.0,RGLD
+872,,2006-12-12 19:48:15,2006-12-11,RGLD,Dempsey Stanley,Dir,S - Sale,32.24,-7500,524014,-1%,-241800.0,2.0,2.0,-3.0,-25.0,RGLD
+873,,2006-12-11 20:00:39,2006-12-08,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-3000,493730,-1%,-0.0,0.0,2.0,-6.0,-26.0,RGLD
+874,,2006-12-07 17:55:30,2006-12-06,RGLD,Goth John W,Dir,G - Gift,0.0,-1000,29250,-3%,-0.0,-1.0,3.0,-3.0,-23.0,RGLD
+875,,2006-12-07 17:04:26,2006-12-05,RGLD,Marcus Merritt E,Dir,S - Sale,34.2,-2000,213713,-1%,-68400.0,-1.0,3.0,-3.0,-23.0,RGLD
+876,,2006-12-05 16:12:58,2006-12-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,31.86,-5000,70380,-7%,-159300.0,-1.0,0.0,-2.0,-22.0,RGLD
+877,D,2006-11-13 19:53:44,2006-11-08,RGLD,Stuckert James W,Dir,A - Grant,0.0,1250,1557445,0%,0.0,-1.0,-2.0,14.0,-7.0,RGLD
+878,AD,2006-11-13 19:45:37,2006-10-27,RGLD,Stuckert James W,Dir,M - OptEx,14.13,5000,1556195,0%,70625.0,-1.0,-2.0,14.0,-7.0,RGLD
+879,D,2006-11-13 19:36:00,2006-11-08,RGLD,Peiker Edwin W Jr,Dir,A - Grant,0.0,1250,23750,+6%,0.0,-1.0,-2.0,14.0,-7.0,RGLD
+880,AD,2006-11-13 19:29:02,2006-11-06,RGLD,Peiker Edwin W Jr,Dir,M - OptEx,14.13,5000,22500,+29%,70625.0,-1.0,-2.0,14.0,-7.0,RGLD
+881,D,2006-11-13 19:21:15,2006-11-08,RGLD,Howell S Oden Jr,Dir,A - Grant,0.0,1250,496730,0%,0.0,-1.0,-2.0,14.0,-7.0,RGLD
+882,AD,2006-11-13 19:11:55,2006-10-31,RGLD,Howell S Oden Jr,Dir,M - OptEx,14.13,5000,495480,+1%,70625.0,-1.0,-2.0,14.0,-7.0,RGLD
+883,D,2006-11-13 18:50:37,2006-11-08,RGLD,Marcus Merritt E,Dir,A - Grant,0.0,1250,216338,+1%,0.0,-1.0,-2.0,14.0,-7.0,RGLD
+884,D,2006-11-13 18:40:17,2006-11-08,RGLD,Goth John W,Dir,A - Grant,0.0,1250,30250,+4%,0.0,-1.0,-2.0,14.0,-7.0,RGLD
+885,D,2006-11-13 18:30:49,2006-11-08,RGLD,Worth Donald J,Dir,A - Grant,0.0,1250,7750,+19%,0.0,-1.0,-2.0,14.0,-7.0,RGLD
+886,,2006-11-13 18:12:09,2006-11-09,RGLD,Dempsey Stanley,Exec COB,S - Sale,29.49,-7500,531514,-1%,-221175.0,-1.0,-2.0,14.0,-7.0,RGLD
+887,D,2006-11-09 19:47:25,2006-11-07,RGLD,Gross Karen,"VP, Corporate Secretary",A - Grant,0.0,10000,118604,+9%,0.0,-2.0,-1.0,8.0,-9.0,RGLD
+888,D,2006-11-09 19:34:02,2006-11-07,RGLD,Jensen Tony A,"Pres, CEO",A - Grant,0.0,20000,93950,+27%,0.0,-2.0,-1.0,8.0,-9.0,RGLD
+889,D,2006-11-09 19:17:22,2006-11-07,RGLD,Wenger Stefan,CFO,A - Grant,0.0,10000,45250,+28%,0.0,-2.0,-1.0,8.0,-9.0,RGLD
+890,,2006-11-09 17:41:03,2006-11-07,RGLD,Marcus Merritt E,Dir,G - Gift,0.0,-10000,340743,+3%,-0.0,-2.0,-1.0,8.0,-9.0,RGLD
+891,D,2006-11-09 17:31:48,2006-11-07,RGLD,Marcus Merritt E,Dir,M - OptEx,14.13,5000,220088,+2%,70625.0,-2.0,-1.0,8.0,-9.0,RGLD
+892,D,2006-11-07 19:45:08,2006-11-06,RGLD,Peiker Edwin W Jr,Dir,M - OptEx,14.13,5000,20000,+33%,70625.0,1.0,1.0,14.0,-3.0,RGLD
+893,,2006-11-07 16:54:04,2006-11-06,RGLD,Marcus Merritt E,Dir,S - Sale,29.24,-2000,212588,-1%,-58480.0,1.0,1.0,14.0,-3.0,RGLD
+894,AD,2006-11-02 20:11:19,2006-10-27,RGLD,Stuckert James W,Dir,M - OptEx,14.13,5000,1553695,0%,70625.0,1.0,1.0,12.0,2.0,RGLD
+895,,2006-11-02 19:59:03,2006-11-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,30.15,-5000,75380,-6%,-150750.0,1.0,1.0,12.0,2.0,RGLD
+896,D,2006-11-01 21:06:19,2006-10-31,RGLD,Howell S Oden Jr,Dir,M - OptEx,14.13,5000,492980,+1%,70625.0,0.0,-1.0,10.0,2.0,RGLD
+897,D,2006-11-01 20:53:24,2006-10-27,RGLD,Stuckert James W,Dir,M - OptEx,14.13,5000,739395,+1%,70625.0,0.0,-1.0,10.0,2.0,RGLD
+898,,2006-10-10 17:05:00,2006-10-05,RGLD,Marcus Merritt E,Dir,S - Sale,25.95,-2000,214588,-1%,-51900.0,0.0,7.0,8.0,12.0,RGLD
+899,,2006-10-03 17:59:39,2006-10-02,RGLD,Peiker Edwin W Jr,Dir,S - Sale,27.0,-5000,80380,-6%,-135000.0,2.0,5.0,17.0,18.0,RGLD
+900,,2006-09-08 19:37:17,2006-09-08,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,-23850,122068,-16%,-0.0,-7.0,-9.0,-8.0,9.0,RGLD
+901,,2006-09-07 17:49:43,2006-09-05,RGLD,Marcus Merritt E,Dir,S - Sale,30.25,-2000,216588,-1%,-60500.0,-2.0,-7.0,-9.0,6.0,RGLD
+902,,2006-09-05 18:41:24,2006-09-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,29.26,-5000,85380,-6%,-146306.0,-1.0,-14.0,-20.0,2.0,RGLD
+903,,2006-08-18 14:28:18,2006-08-16,RGLD,Dempsey Stanley,Dir,G - Gift,0.0,-5065,539014,-1%,-0.0,0.0,3.0,-3.0,13.0,RGLD
+904,A,2006-08-08 19:35:22,2006-08-07,RGLD,Marcus Merritt E,Dir,S - Sale,29.82,-2000,218588,-1%,-59640.0,1.0,-3.0,5.0,12.0,RGLD
+905,,2006-08-08 19:25:26,2006-08-07,RGLD,Marcus Merritt E,Dir,S - Sale,29.82,-5000,215588,-2%,-149100.0,1.0,-3.0,5.0,12.0,RGLD
+906,,2006-08-02 17:29:09,2006-08-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,29.86,-5000,90380,-5%,-149286.0,-1.0,-4.0,-4.0,8.0,RGLD
+907,,2006-07-07 17:40:58,2006-07-05,RGLD,Marcus Merritt E,Dir,S - Sale,28.48,-2000,220588,-1%,-56960.0,-1.0,1.0,6.0,15.0,RGLD
+908,,2006-07-05 18:32:10,2006-07-03,RGLD,Peiker Edwin W Jr,Dir,S - Sale,28.59,-5000,95380,-5%,-142938.0,3.0,3.0,8.0,21.0,RGLD
+909,,2006-06-05 16:17:43,2006-06-05,RGLD,Marcus Merritt E,Dir,S - Sale,28.6,-2000,222588,-1%,-57200.0,-3.0,-7.0,5.0,16.0,RGLD
+910,,2006-06-02 18:53:57,2006-05-31,RGLD,Gross Karen,"VP, Corporate Secretary",A - Grant,28.28,7500,103604,+8%,212100.0,-4.0,-8.0,-2.0,5.0,RGLD
+911,,2006-06-02 18:53:57,2006-06-02,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale,28.64,-7500,103604,-7%,-214765.0,-4.0,-8.0,-2.0,5.0,RGLD
+912,,2006-06-02 18:40:57,2006-05-31,RGLD,Dempsey Stanley,"COB, CEO",A - Grant,28.28,7500,550954,+1%,212100.0,-4.0,-8.0,-2.0,5.0,RGLD
+913,,2006-06-02 18:22:28,2006-05-31,RGLD,Baker Donald J,VP Corporate Development,A - Grant,28.28,8125,58003,+16%,229775.0,-4.0,-8.0,-2.0,5.0,RGLD
+914,,2006-06-02 18:22:28,2006-06-01,RGLD,Baker Donald J,VP Corporate Development,S - Sale,28.0,-3400,58003,-6%,-95200.0,-4.0,-8.0,-2.0,5.0,RGLD
+915,,2006-06-02 17:59:37,2006-05-31,RGLD,Jensen Tony A,"Pres, COO",A - Grant,28.28,11250,58950,+24%,318150.0,-4.0,-8.0,-2.0,5.0,RGLD
+916,,2006-06-02 17:59:37,2006-06-01,RGLD,Jensen Tony A,"Pres, COO",S - Sale,28.05,-1550,58950,-3%,-43478.0,-4.0,-8.0,-2.0,5.0,RGLD
+917,,2006-06-02 17:38:12,2006-05-31,RGLD,Parcel Randy L,VP GC,A - Grant,28.28,5625,34100,+20%,159075.0,-4.0,-8.0,-2.0,5.0,RGLD
+918,,2006-06-02 17:26:16,2006-05-31,RGLD,Wenger Stefan,"Treasurer, CAO",A - Grant,28.28,5625,27750,+25%,159075.0,-4.0,-8.0,-2.0,5.0,RGLD
+919,,2006-06-02 17:26:16,2006-06-01,RGLD,Wenger Stefan,"Treasurer, CAO",S - Sale,27.9,-2250,27750,-8%,-62779.0,-4.0,-8.0,-2.0,5.0,RGLD
+920,,2006-06-02 16:38:00,2006-06-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,28.06,-5000,100380,-5%,-140283.0,-4.0,-8.0,-2.0,5.0,RGLD
+921,D,2006-05-24 18:14:57,2006-05-22,RGLD,Baker Donald J,VP Corporate Development,M - OptEx,20.08,4980,45153,+12%,99998.0,2.0,1.0,-7.0,0.0,RGLD
+922,,2006-05-09 16:41:22,2006-05-05,RGLD,Marcus Merritt E,Dir,S - Sale,31.25,-2000,224588,-1%,-62500.0,2.0,-11.0,-25.0,-15.0,RGLD
+923,,2006-05-03 16:30:53,2006-05-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,34.55,-5000,105380,-5%,-172750.0,-5.0,6.0,-13.0,-9.0,RGLD
+924,,2006-04-24 16:13:11,2006-04-20,RGLD,Dempsey Stanley,"COB, CEO",G - Gift,0.0,-3630,145918,-2%,-0.0,-2.0,1.0,-14.0,-15.0,RGLD
+925,,2006-04-05 18:48:07,2006-03-31,RGLD,Howell S Oden Jr,Dir,S - Sale,36.26,-10000,487980,-2%,-362600.0,0.0,-9.0,-16.0,-32.0,RGLD
+926,,2006-04-05 18:03:07,2006-04-05,RGLD,Marcus Merritt E,Dir,S - Sale,35.99,-2000,226588,-1%,-71980.0,0.0,-9.0,-16.0,-32.0,RGLD
+927,,2006-04-05 17:34:30,2006-04-03,RGLD,Peiker Edwin W Jr,Dir,S - Sale,35.86,-5000,110380,-4%,-179285.0,0.0,-9.0,-16.0,-32.0,RGLD
+928,,2006-04-04 19:14:45,2006-03-31,RGLD,Peiker Edwin W Jr,Dir,S - Sale,36.92,-3000,15000,-17%,-110754.0,2.0,-3.0,-10.0,-25.0,RGLD
+929,D,2006-03-16 18:12:32,2006-03-16,RGLD,Goth John W,Dir,M - OptEx,14.13,2500,29000,+9%,35313.0,0.0,-6.0,19.0,-7.0,RGLD
+930,D,2006-03-16 18:12:32,2006-03-16,RGLD,Goth John W,Dir,S - Sale+OE,29.96,-2500,29000,-8%,-74892.0,0.0,-6.0,19.0,-7.0,RGLD
+931,D,2006-03-16 17:19:42,2006-03-15,RGLD,Goth John W,Dir,M - OptEx,14.13,2500,29000,+9%,35313.0,0.0,-6.0,19.0,-7.0,RGLD
+932,,2006-03-06 19:03:35,2006-03-06,RGLD,Marcus Merritt E,Dir,S - Sale,31.35,-2000,228607,-1%,-62700.0,-2.0,-3.0,16.0,0.0,RGLD
+933,,2006-03-02 16:03:32,2006-03-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,31.26,-5000,115380,-4%,-156295.0,2.0,-7.0,20.0,-8.0,RGLD
+934,D,2006-02-10 15:26:58,2006-02-08,RGLD,Baker Donald J,VP Corporate Development,M - OptEx,10.17,9800,40173,+32%,99666.0,-2.0,-2.0,-15.0,-13.0,RGLD
+935,,2006-02-02 17:50:00,2006-02-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,39.0,-5000,120380,-4%,-195000.0,-2.0,-9.0,-13.0,-16.0,RGLD
+936,AM,2006-01-03 21:50:06,2005-12-29,RGLD,Parcel Randy L,"VP, GC",M - OptEx,14.97,10000,22850,+78%,149700.0,0.0,4.0,6.0,-22.0,RGLD
+937,AM,2006-01-03 21:35:06,2005-12-29,RGLD,Wenger Stefan,"Treas., Chief Acctg Officer",M - OptEx,15.13,5367,18750,+40%,81203.0,0.0,4.0,6.0,-22.0,RGLD
+938,A,2006-01-03 21:35:06,2005-12-29,RGLD,Wenger Stefan,"Treas., Chief Acctg Officer",S - Sale,35.48,-2867,18750,-13%,-101721.0,0.0,4.0,6.0,-22.0,RGLD
+939,AM,2006-01-03 21:26:55,2005-12-29,RGLD,Jensen Tony A,"Pres, COO",M - OptEx,23.73,50000,38000,-417%,1186500.0,0.0,4.0,6.0,-22.0,RGLD
+940,DM,2006-01-03 21:04:44,2005-12-29,RGLD,Gross Karen,"VP, Corporate Secretary",M - OptEx,5.01,55744,96104,+138%,279254.0,0.0,4.0,6.0,-22.0,RGLD
+941,D,2006-01-03 21:04:44,2005-12-29,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale+OE,34.99,-32708,96104,-25%,-1144331.0,0.0,4.0,6.0,-22.0,RGLD
+942,D,2006-01-03 20:28:41,2005-12-29,RGLD,Baker Donald J,VP Corporate Development,M - OptEx,19.2,25686,30373,+548%,493232.0,0.0,4.0,6.0,-22.0,RGLD
+943,D,2006-01-03 20:28:41,2005-12-29,RGLD,Baker Donald J,VP Corporate Development,S - Sale+OE,35.1,-22653,30373,-43%,-795091.0,0.0,4.0,6.0,-22.0,RGLD
+944,DM,2006-01-03 19:57:32,2005-12-29,RGLD,Dempsey Stanley,"COB, CEO",M - OptEx,14.1,58600,535954,+12%,826143.0,0.0,4.0,6.0,-22.0,RGLD
+945,D,2006-01-03 19:57:32,2005-12-29,RGLD,Dempsey Stanley,"COB, CEO",S - Sale+OE,35.03,-46300,535954,-8%,-1621850.0,0.0,4.0,6.0,-22.0,RGLD
+946,DM,2006-01-03 19:26:30,2005-12-29,RGLD,Jensen Tony A,"Pres, COO",M - OptEx,23.73,50000,8000,-119%,1186500.0,0.0,4.0,6.0,-22.0,RGLD
+947,D,2006-01-03 19:26:30,2005-12-29,RGLD,Jensen Tony A,"Pres, COO",S - Sale+OE,35.06,-42000,8000,-84%,-1472600.0,0.0,4.0,6.0,-22.0,RGLD
+948,DM,2006-01-03 18:54:21,2005-12-29,RGLD,Wenger Stefan,"Treas.,Chief Acctg Officer",M - OptEx,15.13,5367,2500,-187%,81203.0,0.0,4.0,6.0,-22.0,RGLD
+949,D,2006-01-03 18:54:21,2005-12-29,RGLD,Wenger Stefan,"Treas.,Chief Acctg Officer",S - Sale+OE,35.48,-2867,2500,-53%,-101721.0,0.0,4.0,6.0,-22.0,RGLD
+950,D,2006-01-03 18:35:42,2006-01-03,RGLD,Parcel Randy L,"V.P, GC",A - Grant,14.97,6600,6600,New,98802.0,0.0,4.0,6.0,-22.0,RGLD
+951,DM,2006-01-03 18:35:42,2005-12-29,RGLD,Parcel Randy L,"V.P, GC",M - OptEx,16.29,7500,6600,-833%,122156.0,0.0,4.0,6.0,-22.0,RGLD
+952,DM,2006-01-03 18:35:42,2005-12-29,RGLD,Parcel Randy L,"V.P, GC",S - Sale+OE,35.13,-7500,6600,-53%,-263446.0,0.0,4.0,6.0,-22.0,RGLD
+953,,2006-01-03 17:25:25,2005-12-29,RGLD,Marcus Merritt E,Dir,S - Sale,35.27,-15000,233107,-6%,-529050.0,0.0,4.0,6.0,-22.0,RGLD
+954,,2006-01-03 17:08:27,2005-12-29,RGLD,Goth John W,Dir,S - Sale,34.89,-1000,26500,-4%,-34894.0,0.0,4.0,6.0,-22.0,RGLD
+955,,2006-01-03 16:58:32,2006-01-03,RGLD,Peiker Edwin W Jr,Dir,S - Sale,35.95,-5000,125380,-4%,-179752.0,0.0,4.0,6.0,-22.0,RGLD
+956,,2005-12-29 12:57:17,2005-12-27,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-700,500480,0%,-0.0,-1.0,2.0,9.0,-22.0,RGLD
+957,,2005-12-21 19:16:36,2005-12-20,RGLD,Dempsey Stanley,"COB, CEO",G - Gift,0.0,-4000,523654,-1%,-0.0,6.0,15.0,19.0,-18.0,RGLD
+958,,2005-12-21 15:50:18,2005-12-20,RGLD,Goth John W,Dir,G - Gift,0.0,1000,27500,+4%,0.0,5.0,20.0,24.0,-13.0,RGLD
+959,,2005-12-21 15:23:59,2005-12-19,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,3000,501180,+1%,0.0,5.0,20.0,24.0,-13.0,RGLD
+960,,2005-12-01 14:20:19,2005-12-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,26.29,-5000,130380,-4%,-131450.0,5.0,13.0,33.0,10.0,RGLD
+961,D,2005-11-28 13:58:25,2005-11-23,RGLD,Peiker Edwin W Jr,Dir,G - Gift,0.0,-10000,39700,+34%,-0.0,0.0,0.0,25.0,3.0,RGLD
+962,D,2005-11-28 13:58:25,2005-11-23,RGLD,Peiker Edwin W Jr,Dir,M - OptEx,5.11,10000,39700,+34%,51095.0,0.0,0.0,25.0,3.0,RGLD
+963,D,2005-11-14 14:01:22,2005-11-09,RGLD,Howell S Oden Jr,Dir,A - Grant,0.0,1250,504180,0%,0.0,-1.0,9.0,28.0,30.0,RGLD
+964,D,2005-11-14 13:46:34,2005-11-09,RGLD,Marcus Merritt E,Dir,A - Grant,0.0,1250,248107,+1%,0.0,-1.0,9.0,28.0,30.0,RGLD
+965,D,2005-11-14 13:30:29,2005-11-09,RGLD,Stuckert James W,Dir,A - Grant,0.0,1250,1551195,0%,0.0,-1.0,9.0,28.0,30.0,RGLD
+966,D,2005-11-14 13:12:54,2005-11-09,RGLD,Worth Donald J,Dir,A - Grant,0.0,1250,6500,+24%,0.0,-1.0,9.0,28.0,30.0,RGLD
+967,D,2005-11-14 12:54:54,2005-11-09,RGLD,Goth John W,Dir,A - Grant,0.0,1250,28500,+5%,0.0,-1.0,9.0,28.0,30.0,RGLD
+968,D,2005-11-14 12:24:09,2005-11-09,RGLD,Peiker Edwin W Jr,Dir,A - Grant,0.0,1250,15500,+9%,0.0,-1.0,9.0,28.0,30.0,RGLD
+969,D,2005-11-10 19:53:25,2005-11-08,RGLD,Gross Karen,"VP, Corporate Secretary",A - Grant,0.0,7500,65568,+13%,0.0,3.0,8.0,30.0,38.0,RGLD
+970,D,2005-11-10 19:40:09,2005-11-08,RGLD,Wenger Stefan,"Treasurer, Chief Acct Officer",A - Grant,0.0,10000,16250,+160%,0.0,3.0,8.0,30.0,38.0,RGLD
+971,D,2005-11-10 19:28:27,2005-11-08,RGLD,Jensen Tony A,"Pres, COO",A - Grant,0.0,15000,30000,+100%,0.0,3.0,8.0,30.0,38.0,RGLD
+972,D,2005-11-10 19:14:35,2005-11-08,RGLD,Baker Donald J,VP Corporate Development,A - Grant,0.0,10000,33590,+42%,0.0,3.0,8.0,30.0,38.0,RGLD
+973,D,2005-11-10 19:07:06,2005-11-08,RGLD,Parcel Randy L,VP GC,A - Grant,0.0,10000,22500,+80%,0.0,3.0,8.0,30.0,38.0,RGLD
+974,,2005-11-02 12:03:41,2005-11-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,23.0,-5000,135380,-4%,-115000.0,6.0,-1.0,22.0,37.0,RGLD
+975,,2005-10-20 18:40:52,2005-10-18,RGLD,Dempsey Stanley,"COB, CEO",G - Gift,0.0,-4000,149548,-3%,-0.0,4.0,8.0,19.0,59.0,RGLD
+976,,2005-10-05 14:46:32,2005-10-03,RGLD,Peiker Edwin W Jr,Dir,S - Sale,26.8,-5000,140380,-3%,-134000.0,-5.0,-5.0,-9.0,40.0,RGLD
+977,,2005-09-02 16:52:42,2005-09-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,24.33,-5000,145380,-3%,-121634.0,1.0,4.0,9.0,22.0,RGLD
+978,,2005-08-03 17:02:01,2005-08-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,19.41,-5000,150380,-3%,-97061.0,-1.0,0.0,13.0,89.0,RGLD
+979,,2005-07-05 12:08:46,2005-07-01,RGLD,Peiker Edwin W Jr,Dir,S - Sale,19.6,-5000,155380,-3%,-97987.0,-2.0,2.0,0.0,75.0,RGLD
+980,,2005-06-14 19:21:56,2005-06-13,RGLD,Peiker Edwin W Jr,Dir,S - Sale,19.0,-1212,160380,-1%,-23028.0,2.0,4.0,6.0,59.0,RGLD
+981,,2005-06-09 17:48:14,2005-06-07,RGLD,Peiker Edwin W Jr,Dir,S - Sale,19.0,-3788,161592,-2%,-71972.0,2.0,5.0,9.0,57.0,RGLD
+982,,2005-06-09 17:36:13,2005-05-04,RGLD,Peiker Edwin W Jr,Dir,S - Sale,19.0,-5000,165380,-3%,-95000.0,2.0,5.0,9.0,57.0,RGLD
+983,,2005-06-09 17:26:17,2005-04-19,RGLD,Peiker Edwin W Jr,Dir,S - Sale,19.0,-5000,170380,-3%,-95000.0,2.0,5.0,9.0,57.0,RGLD
+984,DM,2005-03-14 19:00:51,2005-03-10,RGLD,Dempsey Stanley,"COB, CEO",M - OptEx,4.93,141257,527654,+37%,696456.0,0.0,-3.0,-6.0,33.0,RGLD
+985,DM,2005-03-14 19:00:51,2005-03-10,RGLD,Dempsey Stanley,"COB, CEO",S - Sale+OE,19.07,-94045,527654,-15%,-1793009.0,0.0,-3.0,-6.0,33.0,RGLD
+986,,2005-03-11 17:41:19,2005-03-09,RGLD,Peiker Edwin W Jr,Dir,S - Sale,19.0,-5000,175380,-3%,-95000.0,0.0,-1.0,-5.0,32.0,RGLD
+987,,2005-02-18 17:51:34,2005-02-16,RGLD,Dempsey Stanley,"COB, CEO",G - Gift,0.0,-7200,153548,-4%,-0.0,3.0,3.0,5.0,22.0,RGLD
+988,,2005-02-18 17:13:08,2005-02-16,RGLD,Peiker Edwin W Jr,Dir,G - Gift,0.0,-6409,180380,-3%,-0.0,3.0,3.0,5.0,22.0,RGLD
+989,D,2005-01-24 18:46:02,2005-01-20,RGLD,Gross Karen,"VP, Corporate Secretary",M - OptEx,3.7,15082,75568,+25%,55756.0,-2.0,-3.0,11.0,22.0,RGLD
+990,D,2004-12-30 17:26:52,2004-12-29,RGLD,Gross Karen,"VP, Corporate Secretary",M - OptEx,5.38,6864,60486,+13%,36894.0,0.0,-9.0,-14.0,12.0,RGLD
+991,D,2004-12-30 17:26:52,2004-12-29,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale+OE,17.98,-6864,60486,-10%,-123384.0,0.0,-9.0,-14.0,12.0,RGLD
+992,D,2004-12-29 17:17:30,2004-12-27,RGLD,Gross Karen,"VP, Corporate Secretary",M - OptEx,5.38,6000,60486,+11%,32250.0,1.0,-7.0,-11.0,8.0,RGLD
+993,D,2004-12-29 17:17:30,2004-12-27,RGLD,Gross Karen,"VP, Corporate Secretary",S - Sale+OE,18.0,-6000,60486,-9%,-108025.0,1.0,-7.0,-11.0,8.0,RGLD
+994,,2004-12-16 13:33:34,2004-12-15,RGLD,Stuckert James W,Dir,G - Gift,0.0,-17960,1549945,-1%,-0.0,-3.0,0.0,-7.0,17.0,RGLD
+995,,2004-11-19 16:22:58,2004-11-17,RGLD,Peiker Edwin W Jr,Dir,G - Gift,0.0,-94606,186790,-34%,-0.0,-1.0,-2.0,-10.0,-12.0,RGLD
+996,D,2004-11-19 15:44:04,2004-11-17,RGLD,Gousseland Pierre,Dir,M - OptEx,4.09,15000,22750,+194%,61410.0,2.0,0.0,-9.0,-10.0,RGLD
+997,D,2004-11-19 15:44:04,2004-11-17,RGLD,Gousseland Pierre,Dir,S - Sale+OE,18.86,-15000,22750,-40%,-282838.0,2.0,0.0,-9.0,-10.0,RGLD
+998,D,2004-11-12 18:32:49,2004-11-10,RGLD,Stuckert James W,Dir,A - Grant,0.0,1250,1567905,0%,0.0,0.0,1.0,-6.0,-6.0,RGLD
+999,D,2004-11-12 18:24:16,2004-11-10,RGLD,Howell S Oden Jr,Dir,A - Grant,0.0,1250,502930,0%,0.0,0.0,1.0,-6.0,-6.0,RGLD
+1000,D,2004-11-12 18:16:34,2004-11-10,RGLD,Goth John W,Dir,A - Grant,0.0,1250,27250,+5%,0.0,0.0,1.0,-6.0,-6.0,RGLD
+1001,D,2004-11-12 18:02:18,2004-11-10,RGLD,Gousseland Pierre,Dir,A - Grant,0.0,1250,22750,+6%,0.0,0.0,1.0,-6.0,-6.0,RGLD
+1002,D,2004-11-12 17:54:15,2004-11-10,RGLD,Marcus Merritt E,Dir,A - Grant,0.0,1250,246857,+1%,0.0,0.0,1.0,-6.0,-6.0,RGLD
+1003,D,2004-11-12 17:44:45,2004-11-10,RGLD,Peiker Edwin W Jr,Dir,A - Grant,0.0,1250,14250,+10%,0.0,0.0,1.0,-6.0,-6.0,RGLD
+1004,D,2004-11-12 17:30:39,2004-11-10,RGLD,Worth Donald J,Dir,A - Grant,0.0,1250,5250,+31%,0.0,0.0,1.0,-6.0,-6.0,RGLD
+1005,D,2004-11-12 17:12:16,2004-11-10,RGLD,Parcel Randy L,"VP, GC",A - Grant,0.0,12500,12500,New,0.0,0.0,1.0,-6.0,-6.0,RGLD
+1006,D,2004-11-12 16:56:39,2004-11-10,RGLD,Gross Karen,"VP, Corporate Secretary",A - Grant,0.0,10000,60486,+20%,0.0,0.0,1.0,-6.0,-6.0,RGLD
+1007,D,2004-11-12 16:36:03,2004-11-10,RGLD,Wenger Stefan,"Treasurer, Chief Acct Officer",A - Grant,0.0,12500,12500,New,0.0,0.0,1.0,-6.0,-6.0,RGLD
+1008,D,2004-11-12 15:25:02,2004-11-10,RGLD,Jensen Tony A,"Pres, COO",A - Grant,0.0,25000,27500,>999%,0.0,3.0,4.0,-3.0,-3.0,RGLD
+1009,D,2004-11-12 15:01:55,2004-11-10,RGLD,Baker Donald J,VP of Corporate Development,A - Grant,0.0,12500,23590,+113%,0.0,3.0,4.0,-3.0,-3.0,RGLD
+1010,D,2004-11-12 14:36:21,2004-11-10,RGLD,Dempsey Stanley,"COB, CEO",A - Grant,0.0,15000,495442,+3%,0.0,3.0,4.0,-3.0,-3.0,RGLD
+1011,,2004-10-05 18:31:18,2004-10-04,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-2000,501680,0%,-0.0,0.0,-3.0,-5.0,9.0,RGLD
+1012,,2004-06-16 13:05:55,2004-06-15,RGLD,Dempsey Stanley,"COB, CEO",G - Gift,0.0,-8250,480442,-2%,-0.0,-1.0,6.0,20.0,36.0,RGLD
+1013,,2004-06-15 11:47:34,2004-06-15,RGLD,Dempsey Stanley,"COB, CEO",G - Gift,0.0,-8250,160748,-5%,-0.0,6.0,11.0,28.0,44.0,RGLD
+1014,,2004-05-14 10:49:42,2004-05-12,RGLD,Jensen Tony A,Pres,P - Purchase,11.94,2500,2500,New,29841.0,3.0,7.0,9.0,52.0,RGLD
+1015,,2004-01-06 16:48:32,2004-01-02,RGLD,Peiker Edwin W Jr,Dir,S - Sale,21.03,-5000,279926,-2%,-105151.0,-2.0,-5.0,-21.0,-27.0,RGLD
+1016,,2003-12-17 15:14:41,2003-12-15,RGLD,Stuckert James W,Dir,G - Gift,0.0,-1720,1566655,0%,-0.0,1.0,0.0,-11.0,-33.0,RGLD
+1017,,2003-12-17 15:14:41,2003-12-15,RGLD,Stuckert James W,Dir,P - Purchase,20.7,1720,1566655,0%,35604.0,1.0,0.0,-11.0,-33.0,RGLD
+1018,,2003-12-11 14:42:11,2003-12-09,RGLD,Howell S Oden Jr,Dir,G - Gift,0.0,-5000,503680,-1%,-0.0,3.0,2.0,-2.0,-40.0,RGLD
+1019,D,2003-11-13 13:46:58,2003-11-11,RLGD,Worth Donald J,Dir,G - Gift,0.0,-5000,14000,-26%,-0.0,,,,,RGLD
+1020,D,2003-11-13 13:46:58,2003-11-11,RLGD,Worth Donald J,Dir,M - OptEx,5.43,5000,14000,+56%,27150.0,,,,,RGLD
+1021,,2003-11-12 19:08:40,2003-11-10,RGLD,Dempsey Stanley,"COB, CEO",G - Gift,0.0,-11000,657690,-2%,-0.0,-2.0,4.0,5.0,-44.0,RGLD
+1022,,2003-08-29 12:28:53,2003-08-27,RGLD,Marcus Merritt E,Dir,S - Sale,24.0,-15000,245588,-6%,-360009.0,0.0,0.0,-26.0,-30.0,RGLD
+1023,,2003-08-28 18:07:49,2003-08-26,RGLD,Gousseland Pierre,Dir,S - Sale,23.31,-10000,21500,-32%,-233100.0,0.0,1.0,-24.0,-31.0,RGLD
+1024,D,2003-08-25 19:00:36,2003-08-21,RGLD,Dempsey Stanley,"COB, CEO",M - OptEx,4.0,74423,494192,+18%,297544.0,1.0,6.0,-8.0,-26.0,RGLD
+1025,D,2003-08-25 19:00:36,2003-08-21,RGLD,Dempsey Stanley,"COB, CEO",S - Sale+OE,23.49,-74423,494192,-13%,-1747993.0,1.0,6.0,-8.0,-26.0,RGLD
+1026,,2003-08-25 18:04:16,2003-08-21,RGLD,Baker Donald J,VP Corporate Development,S - Sale,23.3,-30804,11090,-74%,-717584.0,1.0,6.0,-8.0,-26.0,RGLD
+1027,D,2003-08-21 17:14:13,2003-08-19,RGLD,Skadow John,"V.P, CFO",M - OptEx,7.35,36941,10813,-141%,271442.0,-1.0,3.0,-11.0,-24.0,RGLD
+1028,DM,2003-08-21 17:14:13,2003-08-19,RGLD,Skadow John,"V.P, CFO",S - Sale+OE,23.65,-74166,10813,-87%,-1754272.0,-1.0,3.0,-11.0,-24.0,RGLD
+1029,,2003-08-15 13:15:17,2003-08-13,RGLD,Dempsey Stanley,"COB, CEO",G - Gift,0.0,-5000,174498,-3%,-0.0,-1.0,-1.0,-10.0,-25.0,RGLD

@@ -1,12 +1,22 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,D,2021-05-21 21:10:49,2021-05-20,SPRB,Simpson Camilla V,Dir,S - Sale+OE,$15.29,-334,0,-100%,"-$5,107",,,,,SPRB
-1,,2021-05-21 16:32:39,2021-05-19,SPRB,Novo Holdings A/s,10%,S - Sale,$13.90,-475000,4514336,-10%,"-$6,602,500",,,,,SPRB
-2,D,2021-05-04 21:09:00,2021-04-30,SPRB,Simpson Camilla V,Dir,S - Sale+OE,$16.14,-14045,0,-100%,"-$226,664",,,,,SPRB
-3,D,2020-10-16 16:49:14,2020-10-14,SPRB,Novo Holdings A/s,10%,P - Purchase,$15.00,250000,4989336,+5%,"+$3,750,000",,,,,SPRB
-4,D,2020-10-16 12:34:13,2020-10-14,SPRB,"Rivervest Venture Fund Iii, L.P.",10%,P - Purchase,$15.00,250000,4046562,+7%,"+$3,750,000",,,,,SPRB
-5,D,2020-10-16 12:24:58,2020-10-14,SPRB,Muralidhar Bali,Dir,P - Purchase,$15.00,200000,1792518,+13%,"+$3,000,000",,,,,SPRB
-6,D,2020-10-16 12:21:06,2020-10-14,SPRB,O'Donnell Niall,Dir,P - Purchase,$15.00,250000,695905,+56%,"+$3,750,000",,,,,SPRB
-7,D,2020-10-16 12:15:26,2020-10-14,SPRB,"Omega Fund Vi, L.P.",Former 10% Owner,P - Purchase,$15.00,250000,2161022,+13%,"+$3,750,000",,,,,SPRB
-8,D,2020-10-16 12:14:38,2020-10-14,SPRB,Chaya Moghrabi Dina,Dir,P - Purchase,$15.00,250000,2161022,+13%,"+$3,750,000",,,,,SPRB
-9,D,2020-10-16 12:08:37,2020-10-14,SPRB,"Healthcap Viii, L.P.",Former 10% Owner,P - Purchase,$15.00,250000,2033621,+14%,"+$3,750,000",,,,,SPRB
-10,D,2020-10-16 12:07:48,2020-10-14,SPRB,Hansson Jonas,Dir,P - Purchase,$15.00,250000,2033621,+14%,"+$3,750,000",,,,,SPRB
+1,D,2021-05-21 21:10:49,2021-05-20,SPRB,Simpson Camilla V,Dir,M - OptEx,$0.85,334,0,-100%,+$284,,,,,SPRB
+2,,2021-05-21 16:32:39,2021-05-19,SPRB,Novo Holdings A/s,10%,S - Sale,$13.90,-475000,4514336,-10%,"-$6,602,500",,,,,SPRB
+3,D,2021-05-04 21:09:00,2021-04-30,SPRB,Simpson Camilla V,Dir,S - Sale+OE,$16.14,-14045,0,-100%,"-$226,664",,,,,SPRB
+4,D,2021-05-04 21:09:00,2021-04-30,SPRB,Simpson Camilla V,Dir,M - OptEx,$0.85,14045,0,-100%,"+$11,938",,,,,SPRB
+5,D,2020-10-16 16:49:14,2020-10-14,SPRB,Novo Holdings A/s,10%,P - Purchase,$15.00,250000,4989336,+5%,"+$3,750,000",,,,,SPRB
+6,D,2020-10-16 16:49:14,2020-10-14,SPRB,Novo Holdings A/s,10%,C - Converted deriv,$0.00,4739336,4989336,-49%,$0,,,,,SPRB
+7,D,2020-10-16 12:34:13,2020-10-14,SPRB,"Rivervest Venture Fund Iii, L.P.",10%,P - Purchase,$15.00,250000,4046562,+7%,"+$3,750,000",,,,,SPRB
+8,D,2020-10-16 12:34:13,2020-10-14,SPRB,"Rivervest Venture Fund Iii, L.P.",10%,C - Converted deriv,$0.00,1898281,4046562,-32%,$0,,,,,SPRB
+9,D,2020-10-16 12:24:58,2020-10-14,SPRB,Muralidhar Bali,Dir,C - Converted deriv,$0.00,1592518,1792518,-47%,$0,,,,,SPRB
+10,D,2020-10-16 12:24:58,2020-10-14,SPRB,Muralidhar Bali,Dir,P - Purchase,$15.00,200000,1792518,+13%,"+$3,000,000",,,,,SPRB
+11,D,2020-10-16 12:21:06,2020-10-14,SPRB,O'Donnell Niall,Dir,P - Purchase,$15.00,250000,695905,+56%,"+$3,750,000",,,,,SPRB
+12,D,2020-10-16 12:21:06,2020-10-14,SPRB,O'Donnell Niall,Dir,C - Converted deriv,$0.00,445905,695905,-39%,$0,,,,,SPRB
+13,D,2020-10-16 12:15:26,2020-10-14,SPRB,"Omega Fund Vi, L.P.",Former 10% Owner,P - Purchase,$15.00,250000,2161022,+13%,"+$3,750,000",,,,,SPRB
+14,D,2020-10-16 12:15:26,2020-10-14,SPRB,"Omega Fund Vi, L.P.",Former 10% Owner,C - Converted deriv,$0.00,1911022,2161022,-47%,$0,,,,,SPRB
+15,D,2020-10-16 12:14:38,2020-10-14,SPRB,Chaya Moghrabi Dina,Dir,P - Purchase,$15.00,250000,2161022,+13%,"+$3,750,000",,,,,SPRB
+16,D,2020-10-16 12:14:38,2020-10-14,SPRB,Chaya Moghrabi Dina,Dir,C - Converted deriv,$0.00,1911022,2161022,-47%,$0,,,,,SPRB
+17,D,2020-10-16 12:08:37,2020-10-14,SPRB,"Healthcap Viii, L.P.",Former 10% Owner,P - Purchase,$15.00,250000,2033621,+14%,"+$3,750,000",,,,,SPRB
+18,D,2020-10-16 12:08:37,2020-10-14,SPRB,"Healthcap Viii, L.P.",Former 10% Owner,C - Converted deriv,$0.00,1783621,2033621,-47%,$0,,,,,SPRB
+19,D,2020-10-16 12:07:48,2020-10-14,SPRB,Hansson Jonas,Dir,C - Converted deriv,$0.00,1783621,2033621,-47%,$0,,,,,SPRB
+20,D,2020-10-16 12:07:48,2020-10-14,SPRB,Hansson Jonas,Dir,P - Purchase,$15.00,250000,2033621,+14%,"+$3,750,000",,,,,SPRB

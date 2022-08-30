@@ -1,5 +1,417 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,M,2021-07-19 18:15:37,2021-07-01,KEQU,Rhind David S.,Dir,S - Sale,$13.89,-400,132992,0%,"-$5,557",,,,,KEQU
-1,,2020-12-21 10:11:03,2020-12-17,KEQU,Shaw Donald F.,Dir,P - Purchase,$10.46,2000,25000,+9%,"+$20,920",,,,,KEQU
-2,,2020-12-17 11:53:12,2020-12-15,KEQU,Russell John,Dir,P - Purchase,$9.68,4500,19000,+31%,"+$43,560",,,,,KEQU
-3,,2019-03-18 08:51:45,2019-03-15,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",P - Purchase,$21.41,232,232,New,"+$4,967",,,,,KEQU
+0,D,2021-08-23 12:29:21,2021-08-20,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$13.71,-939,5746,-14%,"-$12,874",,,,,KEQU
+1,D,2021-08-23 12:29:21,2021-08-20,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$8.59,1500,5746,+35%,"+$12,885",,,,,KEQU
+2,M,2021-07-19 18:15:37,2021-07-01,KEQU,Rhind David S.,Dir,S - Sale,$13.89,-400,132992,0%,"-$5,557",,,,,KEQU
+3,D,2021-07-19 15:39:32,2021-07-16,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",F - Tax,$13.34,-57,2461,-2%,-$760,,,,,KEQU
+4,D,2021-07-19 15:39:32,2021-07-16,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",M - OptEx,$0.00,197,2461,+9%,+$0,,,,,KEQU
+5,,2021-07-09 15:50:35,2021-07-08,KEQU,Ranade Mandar,VP-Information Technology,A - Grant,$0.00,884,2114,+72%,+$0,,,,,KEQU
+6,,2021-07-09 15:50:35,2021-07-08,KEQU,Ranade Mandar,VP-Information Technology,F - Tax,$13.75,-255,2114,-11%,"-$3,506",,,,,KEQU
+7,,2021-07-09 15:43:45,2021-07-08,KEQU,Batdorff Douglas J.,VP of Manufacturing Operations,A - Grant,$0.00,911,1350,+208%,+$0,,,,,KEQU
+8,,2021-07-09 15:43:45,2021-07-08,KEQU,Batdorff Douglas J.,VP of Manufacturing Operations,F - Tax,$13.75,-263,1350,-16%,"-$3,616",,,,,KEQU
+9,,2021-07-09 15:41:10,2021-07-08,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",A - Grant,$0.00,589,1817,+48%,+$0,,,,,KEQU
+10,,2021-07-09 15:41:10,2021-07-08,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",F - Tax,$13.75,-170,1817,-9%,"-$2,338",,,,,KEQU
+11,,2021-07-09 15:39:42,2021-07-08,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",A - Grant,$0.00,881,2321,+61%,+$0,,,,,KEQU
+12,,2021-07-09 15:39:42,2021-07-08,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",F - Tax,$13.75,-254,2321,-10%,"-$3,493",,,,,KEQU
+13,,2021-07-09 15:37:01,2021-07-08,KEQU,Gardner Donald T. III,CFO,A - Grant,$0.00,1309,6727,+24%,+$0,,,,,KEQU
+14,,2021-07-09 15:37:01,2021-07-08,KEQU,Gardner Donald T. III,CFO,F - Tax,$13.75,-378,6727,-5%,"-$5,198",,,,,KEQU
+15,,2021-07-09 15:33:48,2021-07-08,KEQU,Phillips Elizabeth D,VP - HR,A - Grant,$0.00,811,5185,+19%,+$0,,,,,KEQU
+16,,2021-07-09 15:33:48,2021-07-08,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$13.75,-234,5185,-4%,"-$3,218",,,,,KEQU
+17,,2021-07-09 15:32:15,2021-07-08,KEQU,Hull Thomas David III,"Pres, CEO",A - Grant,$0.00,2749,13189,+26%,+$0,,,,,KEQU
+18,,2021-07-09 15:32:15,2021-07-08,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$13.75,-792,13189,-6%,"-$10,890",,,,,KEQU
+19,,2021-07-09 15:30:02,2021-07-08,KEQU,Rindoks Kurt P,VP - Global Prod Development,A - Grant,$0.00,645,14546,+5%,+$0,,,,,KEQU
+20,,2021-07-09 15:30:02,2021-07-08,KEQU,Rindoks Kurt P,VP - Global Prod Development,F - Tax,$13.75,-186,14546,-1%,"-$2,558",,,,,KEQU
+21,D,2021-06-29 14:55:33,2021-06-28,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$14.70,-50,4608,-1%,-$735,,,,,KEQU
+22,D,2021-06-29 14:55:33,2021-06-28,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$0.00,172,4608,+4%,+$0,,,,,KEQU
+23,D,2021-06-29 14:52:16,2021-06-28,KEQU,Rindoks Kurt P,VP - Global Prod Development,F - Tax,$14.70,-53,14087,0%,-$779,,,,,KEQU
+24,D,2021-06-29 14:52:16,2021-06-28,KEQU,Rindoks Kurt P,VP - Global Prod Development,M - OptEx,$0.00,181,14087,+1%,+$0,,,,,KEQU
+25,D,2021-06-29 14:49:17,2021-06-28,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$14.70,-88,11232,-1%,"-$1,294",,,,,KEQU
+26,D,2021-06-29 14:49:17,2021-06-28,KEQU,Hull Thomas David III,"Pres, CEO",M - OptEx,$0.00,303,11232,+3%,+$0,,,,,KEQU
+27,D,2021-06-29 14:44:58,2021-06-28,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",F - Tax,$14.70,-47,1398,-3%,-$691,,,,,KEQU
+28,D,2021-06-29 14:44:58,2021-06-28,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",M - OptEx,$0.00,160,1398,+13%,+$0,,,,,KEQU
+29,D,2021-06-24 15:25:23,2021-06-23,KEQU,Rindoks Kurt P,VP - Global Prod Development,F - Tax,$13.74,-269,13959,-2%,"-$3,696",,,,,KEQU
+30,D,2021-06-24 15:25:23,2021-06-23,KEQU,Rindoks Kurt P,VP - Global Prod Development,M - OptEx,$0.00,932,13959,+7%,+$0,,,,,KEQU
+31,D,2021-06-24 15:23:22,2021-06-23,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$13.74,-254,4486,-5%,"-$3,490",,,,,KEQU
+32,D,2021-06-24 15:23:22,2021-06-23,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$0.00,879,4486,+24%,+$0,,,,,KEQU
+33,D,2021-06-24 15:21:11,2021-06-23,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",F - Tax,$13.74,-276,1694,-14%,"-$3,792",,,,,KEQU
+34,D,2021-06-24 15:21:11,2021-06-23,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",M - OptEx,$0.00,955,1694,+129%,+$0,,,,,KEQU
+35,D,2021-06-24 15:17:42,2021-06-23,KEQU,Gardner Donald T. III,CFO,A - Grant,$0.00,2000,5796,+53%,+$0,,,,,KEQU
+36,D,2021-06-24 15:17:42,2021-06-23,KEQU,Gardner Donald T. III,CFO,F - Tax,$13.74,-985,5796,-15%,"-$13,534",,,,,KEQU
+37,D,2021-06-24 15:17:42,2021-06-23,KEQU,Gardner Donald T. III,CFO,M - OptEx,$0.00,1418,5796,+32%,+$0,,,,,KEQU
+38,D,2021-06-24 15:15:38,2021-06-23,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$13.74,-858,11017,-7%,"-$11,789",,,,,KEQU
+39,D,2021-06-24 15:15:38,2021-06-23,KEQU,Hull Thomas David III,"Pres, CEO",M - OptEx,$0.00,2978,11017,+37%,+$0,,,,,KEQU
+40,D,2021-06-24 15:12:23,2021-06-23,KEQU,Batdorff Douglas J.,VP of Manufacturing Operations,F - Tax,$13.74,-285,702,-29%,"-$3,916",,,,,KEQU
+41,D,2021-06-24 15:12:23,2021-06-23,KEQU,Batdorff Douglas J.,VP of Manufacturing Operations,M - OptEx,$0.00,987,702,-346%,+$0,,,,,KEQU
+42,D,2021-06-24 15:07:59,2021-06-23,KEQU,Ranade Mandar,VP-Information Technology,M - OptEx,$0.00,894,1485,+151%,+$0,,,,,KEQU
+43,D,2021-06-24 15:04:31,2021-06-23,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",F - Tax,$13.74,-245,1285,-16%,"-$3,366",,,,,KEQU
+44,D,2021-06-24 15:04:31,2021-06-23,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",M - OptEx,$0.00,851,1285,+196%,+$0,,,,,KEQU
+45,D,2021-06-22 16:46:05,2021-06-21,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",F - Tax,$12.60,-106,1015,-9%,"-$1,336",,,,,KEQU
+46,D,2021-06-22 16:46:05,2021-06-21,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",M - OptEx,$0.00,366,1015,+56%,+$0,,,,,KEQU
+47,D,2021-06-22 16:45:53,2021-06-21,KEQU,Gardner Donald T. III,CFO,F - Tax,$12.60,-160,3363,-5%,"-$2,016",,,,,KEQU
+48,D,2021-06-22 16:45:53,2021-06-21,KEQU,Gardner Donald T. III,CFO,M - OptEx,$0.00,554,3363,+20%,+$0,,,,,KEQU
+49,D,2021-06-22 16:43:19,2021-06-21,KEQU,Ranade Mandar,VP-Information Technology,M - OptEx,$0.00,383,591,+184%,+$0,,,,,KEQU
+50,D,2021-06-22 16:40:27,2021-06-21,KEQU,Rindoks Kurt P,VP - Global Prod Development,F - Tax,$12.60,-103,13296,-1%,"-$1,298",,,,,KEQU
+51,D,2021-06-22 16:40:27,2021-06-21,KEQU,Rindoks Kurt P,VP - Global Prod Development,M - OptEx,$0.00,357,13296,+3%,+$0,,,,,KEQU
+52,D,2021-06-22 16:40:01,2021-06-21,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$12.60,-98,3861,-2%,"-$1,235",,,,,KEQU
+53,D,2021-06-22 16:40:01,2021-06-21,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$0.00,337,3861,+10%,+$0,,,,,KEQU
+54,D,2021-06-22 16:38:07,2021-06-21,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",F - Tax,$12.60,-84,679,-11%,"-$1,058",,,,,KEQU
+55,D,2021-06-22 16:38:07,2021-06-21,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",M - OptEx,$0.00,291,679,+75%,+$0,,,,,KEQU
+56,D,2021-06-22 16:34:54,2021-06-21,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$12.60,-336,8897,-4%,"-$4,234",,,,,KEQU
+57,D,2021-06-22 16:34:54,2021-06-21,KEQU,Hull Thomas David III,"Pres, CEO",M - OptEx,$0.00,1164,8897,+15%,+$0,,,,,KEQU
+58,D,2021-05-21 13:40:56,2021-05-20,KEQU,Gardner Donald T. III,CFO,F - Tax,$12.18,-524,2969,-15%,"-$6,382",,,,,KEQU
+59,D,2021-05-21 13:40:56,2021-05-20,KEQU,Gardner Donald T. III,CFO,M - OptEx,$0.00,1817,2969,+158%,+$0,,,,,KEQU
+60,D,2021-05-21 13:38:09,2021-05-20,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$12.18,-1212,8069,-13%,"-$14,762",,,,,KEQU
+61,D,2021-05-21 13:38:09,2021-05-20,KEQU,Hull Thomas David III,"Pres, CEO",M - OptEx,$0.00,4205,8069,+109%,+$0,,,,,KEQU
+62,,2021-05-14 10:53:55,2021-05-03,KEQU,Gehl Keith M,Dir,A - Grant,$0.00,3420,12053,+40%,+$0,,,,,KEQU
+63,,2020-12-21 10:11:03,2020-12-17,KEQU,Shaw Donald F.,Dir,P - Purchase,$10.46,2000,25000,+9%,"+$20,920",,,,,KEQU
+64,,2020-12-17 11:53:12,2020-12-15,KEQU,Russell John,Dir,P - Purchase,$9.68,4500,19000,+31%,"+$43,560",,,,,KEQU
+65,D,2020-11-23 13:20:04,2020-11-20,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$9.33,-1212,5076,-19%,"-$11,308",,,,,KEQU
+66,D,2020-11-23 13:20:04,2020-11-20,KEQU,Hull Thomas David III,"Pres, CEO",M - OptEx,$0.00,4206,5076,+483%,+$0,,,,,KEQU
+67,D,2020-11-23 13:18:54,2020-11-20,KEQU,Gardner Donald T. III,CFO,F - Tax,$9.33,-524,1676,-24%,"-$4,889",,,,,KEQU
+68,D,2020-11-23 13:18:54,2020-11-20,KEQU,Gardner Donald T. III,CFO,M - OptEx,$0.00,1817,1676,-1289%,+$0,,,,,KEQU
+69,D,2020-07-17 11:02:55,2020-07-16,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",F - Tax,$9.43,-61,755,-7%,-$575,,,,,KEQU
+70,D,2020-07-17 11:02:55,2020-07-16,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",M - OptEx,$0.00,197,755,+35%,+$0,,,,,KEQU
+71,A,2020-07-01 09:39:23,2020-06-19,KEQU,Ranade Mandar,VP-Information Technology,M - OptEx,$0.00,208,208,New,+$0,,,,,KEQU
+72,D,2020-06-29 15:36:52,2020-06-27,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",F - Tax,$9.32,-50,472,-10%,-$466,,,,,KEQU
+73,D,2020-06-29 15:36:52,2020-06-27,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",M - OptEx,$0.00,160,472,+51%,+$0,,,,,KEQU
+74,D,2020-06-29 15:35:38,2020-06-27,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",F - Tax,$9.32,-50,472,-10%,-$466,,,,,KEQU
+75,D,2020-06-29 15:35:38,2020-06-27,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",M - OptEx,$0.00,160,472,+51%,+$0,,,,,KEQU
+76,D,2020-06-29 15:27:06,2020-06-27,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$9.32,-94,2082,-4%,-$876,,,,,KEQU
+77,D,2020-06-29 15:27:06,2020-06-27,KEQU,Hull Thomas David III,"Pres, CEO",M - OptEx,$0.00,304,2082,+17%,+$0,,,,,KEQU
+78,D,2020-06-29 15:23:54,2020-06-27,KEQU,Rindoks Kurt P,VP - Global Prod Development,F - Tax,$9.32,-57,13042,0%,-$531,,,,,KEQU
+79,D,2020-06-29 15:23:54,2020-06-27,KEQU,Rindoks Kurt P,VP - Global Prod Development,M - OptEx,$0.00,182,13042,+1%,+$0,,,,,KEQU
+80,D,2020-06-23 14:53:26,2020-06-21,KEQU,Rindoks Kurt P,VP - Global Prod Development,F - Tax,$9.67,-76,12917,-1%,-$735,,,,,KEQU
+81,D,2020-06-23 14:53:26,2020-06-21,KEQU,Rindoks Kurt P,VP - Global Prod Development,M - OptEx,$0.00,244,12917,+2%,+$0,,,,,KEQU
+82,D,2020-06-23 14:51:21,2020-06-21,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$9.67,-69,3504,-2%,-$667,,,,,KEQU
+83,D,2020-06-23 14:51:21,2020-06-21,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$0.00,222,3504,+7%,+$0,,,,,KEQU
+84,D,2020-06-23 14:49:01,2020-06-21,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$9.67,-126,1872,-6%,"-$1,218",,,,,KEQU
+85,D,2020-06-23 14:49:01,2020-06-21,KEQU,Hull Thomas David III,"Pres, CEO",M - OptEx,$0.00,406,1872,+28%,+$0,,,,,KEQU
+86,D,2020-06-22 17:07:27,2020-06-19,KEQU,Ranade Mandar,VP-Information Technology,F - Tax,$9.67,-65,143,-31%,-$629,,,,,KEQU
+87,D,2020-06-22 17:07:27,2020-06-19,KEQU,Ranade Mandar,VP-Information Technology,M - OptEx,$0.00,208,143,-320%,+$0,,,,,KEQU
+88,D,2020-06-22 17:06:24,2020-06-19,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$9.67,-104,3351,-3%,"-$1,006",,,,,KEQU
+89,D,2020-06-22 17:06:24,2020-06-19,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$0.00,337,3351,+11%,+$0,,,,,KEQU
+90,D,2020-06-22 17:04:32,2020-06-19,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$9.67,-359,1592,-18%,"-$3,472",,,,,KEQU
+91,D,2020-06-22 17:04:32,2020-06-19,KEQU,Hull Thomas David III,"Pres, CEO",M - OptEx,$0.00,1164,1592,+272%,+$0,,,,,KEQU
+92,D,2020-06-22 17:03:33,2020-06-19,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",F - Tax,$9.67,-90,362,-20%,-$870,,,,,KEQU
+93,D,2020-06-22 17:03:33,2020-06-19,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",M - OptEx,$0.00,291,362,+410%,+$0,,,,,KEQU
+94,D,2020-06-22 17:02:18,2020-06-19,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",F - Tax,$9.67,-110,12749,-1%,"-$1,064",,,,,KEQU
+95,D,2020-06-22 17:02:18,2020-06-19,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",M - OptEx,$0.00,357,12749,+3%,+$0,,,,,KEQU
+96,D,2020-06-22 17:00:58,2020-06-19,KEQU,Gardner Donald T. III,CFO,F - Tax,$9.67,-171,383,-31%,"-$1,654",,,,,KEQU
+97,D,2020-06-22 17:00:58,2020-06-19,KEQU,Gardner Donald T. III,CFO,M - OptEx,$0.00,554,383,-324%,+$0,,,,,KEQU
+98,D,2020-06-22 16:59:55,2020-06-19,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",F - Tax,$9.67,-113,619,-15%,"-$1,093",,,,,KEQU
+99,D,2020-06-22 16:59:55,2020-06-19,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",M - OptEx,$0.00,366,619,+145%,+$0,,,,,KEQU
+100,,2020-05-04 17:55:39,2020-05-01,KEQU,Gehl Keith M,Dir,A - Grant,$0.00,4008,8633,+87%,+$0,,,,,KEQU
+101,,2020-03-03 11:22:28,2019-12-31,KEQU,Pyle Margaret B,Dir,G - Gift,$0.00,-890,53974,-2%,-$0,,,,,KEQU
+102,,2019-09-03 15:59:29,2019-07-17,KEQU,Pyle Margaret B,Dir,G - Gift,$0.00,-1620,54864,-3%,-$0,,,,,KEQU
+103,D,2019-07-17 16:32:49,2019-07-16,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",F - Tax,$18.43,-63,366,-15%,"-$1,161",,,,,KEQU
+104,D,2019-07-17 16:32:49,2019-07-16,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",M - OptEx,$0.00,197,366,+117%,+$0,,,,,KEQU
+105,D,2019-07-01 16:21:48,2019-06-27,KEQU,Ryan Lisa L.,"VP-Construction, Cust. Servs.",M - OptEx,$0.00,160,161,>999%,+$0,,,,,KEQU
+106,D,2019-06-28 17:15:15,2019-06-27,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$19.49,-88,787,-10%,"-$1,715",,,,,KEQU
+107,D,2019-06-28 17:15:15,2019-06-27,KEQU,Hull Thomas David III,"Pres, CEO",M - OptEx,$0.00,304,787,+63%,+$0,,,,,KEQU
+108,D,2019-06-28 17:14:53,2019-06-27,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$19.49,-54,3118,-2%,"-$1,052",,,,,KEQU
+109,D,2019-06-28 17:14:53,2019-06-27,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$0.00,171,3118,+6%,+$0,,,,,KEQU
+110,D,2019-06-28 17:14:12,2019-06-27,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",F - Tax,$19.49,-58,12502,0%,"-$1,130",,,,,KEQU
+111,D,2019-06-28 17:14:12,2019-06-27,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",M - OptEx,$0.00,182,12502,+1%,+$0,,,,,KEQU
+112,D,2019-06-28 17:13:53,2019-06-27,KEQU,Rok Michael G.,VP of Manufacturing Operations,F - Tax,$19.49,-63,468,-12%,"-$1,228",,,,,KEQU
+113,D,2019-06-28 17:13:53,2019-06-27,KEQU,Rok Michael G.,VP of Manufacturing Operations,M - OptEx,$0.00,199,468,+74%,+$0,,,,,KEQU
+114,D,2019-06-24 19:01:37,2019-06-21,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$18.52,-71,3001,-2%,"-$1,315",,,,,KEQU
+115,D,2019-06-24 19:01:37,2019-06-21,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$0.00,223,3001,+8%,+$0,,,,,KEQU
+116,D,2019-06-24 18:55:50,2019-06-21,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",F - Tax,$18.52,-77,12378,-1%,"-$1,426",,,,,KEQU
+117,D,2019-06-24 18:55:50,2019-06-21,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",M - OptEx,$0.00,244,12378,+2%,+$0,,,,,KEQU
+118,D,2019-06-24 18:49:51,2019-06-21,KEQU,Rok Michael G.,VP of Manufacturing Operations,F - Tax,$18.52,-84,332,-20%,"-$1,556",,,,,KEQU
+119,D,2019-06-24 18:49:51,2019-06-21,KEQU,Rok Michael G.,VP of Manufacturing Operations,M - OptEx,$0.00,267,332,+411%,+$0,,,,,KEQU
+120,D,2019-06-24 18:44:53,2019-06-21,KEQU,Hull Thomas David III,"Pres, CEO",F - Tax,$18.52,-117,571,-17%,"-$2,167",,,,,KEQU
+121,D,2019-06-24 18:44:53,2019-06-21,KEQU,Hull Thomas David III,"Pres, CEO",M - OptEx,$0.00,406,571,+246%,+$0,,,,,KEQU
+122,,2019-05-02 16:19:28,2019-05-01,KEQU,Gehl Keith M,Dir,A - Grant,$0.00,1800,4625,+64%,+$0,,,,,KEQU
+123,,2019-03-18 08:51:45,2019-03-15,KEQU,Noble Ryan S.,"VP-Sales, Marketing-Americas",P - Purchase,$21.41,232,232,New,"+$4,967",,,,,KEQU
+124,D,2019-03-08 13:19:49,2019-03-06,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",F - Tax,$25.55,-1915,12211,-14%,"-$48,928",,,,,KEQU
+125,D,2019-03-08 13:19:49,2019-03-06,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",M - OptEx,$13.05,3750,12211,+44%,"+$48,945",,,,,KEQU
+126,D,2018-10-03 12:31:11,2018-10-02,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$30.42,-387,17021,-2%,"-$11,773",,,,,KEQU
+127,D,2018-10-03 12:31:11,2018-10-02,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$11.78,1000,17021,+6%,"+$11,780",,,,,KEQU
+128,D,2018-09-12 13:33:12,2018-09-11,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$32.80,-718,16408,-4%,"-$23,550",,,,,KEQU
+129,D,2018-09-12 13:33:12,2018-09-11,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$11.78,2000,16408,+14%,"+$23,560",,,,,KEQU
+130,D,2018-07-11 09:58:53,2018-07-10,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$33.30,-1415,15126,-9%,"-$47,120",,,,,KEQU
+131,D,2018-07-11 09:58:53,2018-07-10,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$11.78,4000,15126,+36%,"+$47,120",,,,,KEQU
+132,D,2018-07-06 08:30:50,2018-07-05,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",F - Tax,$35.15,-2513,10376,-19%,"-$88,332",,,,,KEQU
+133,D,2018-07-06 08:30:50,2018-07-05,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",M - OptEx,$16.83,5250,10376,+102%,"+$88,365",,,,,KEQU
+134,D,2018-06-22 17:21:46,2018-06-21,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$34.16,-71,2849,-2%,"-$2,425",,,,,KEQU
+135,D,2018-06-22 17:21:46,2018-06-21,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$0.00,223,2849,+8%,+$0,,,,,KEQU
+136,D,2018-06-22 17:15:36,2018-06-21,KEQU,Rok Michael G.,VP of Manufacturing Operations,F - Tax,$34.16,-118,149,-44%,"-$4,031",,,,,KEQU
+137,D,2018-06-22 17:15:36,2018-06-21,KEQU,Rok Michael G.,VP of Manufacturing Operations,M - OptEx,$0.00,267,149,-226%,+$0,,,,,KEQU
+138,D,2018-06-22 17:09:17,2018-06-21,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",F - Tax,$34.16,-108,7639,-1%,"-$3,689",,,,,KEQU
+139,D,2018-06-22 17:09:17,2018-06-21,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",M - OptEx,$0.00,244,7639,+3%,+$0,,,,,KEQU
+140,D,2018-06-22 17:02:28,2018-06-21,KEQU,Dahlgren Dana L,"VP-Sales, Marketing-Americas",F - Tax,$34.16,-150,12712,-1%,"-$5,124",,,,,KEQU
+141,D,2018-06-22 17:02:28,2018-06-21,KEQU,Dahlgren Dana L,"VP-Sales, Marketing-Americas",M - OptEx,$0.00,341,12712,+3%,+$0,,,,,KEQU
+142,D,2018-06-22 16:54:19,2018-06-21,KEQU,Hull Thomas David III,CFO,F - Tax,$34.16,-124,282,-31%,"-$4,236",,,,,KEQU
+143,D,2018-06-22 16:54:19,2018-06-21,KEQU,Hull Thomas David III,CFO,M - OptEx,$0.00,406,282,-327%,+$0,,,,,KEQU
+144,D,2018-06-22 16:46:45,2018-06-21,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$34.16,-286,12541,-2%,"-$9,770",,,,,KEQU
+145,D,2018-06-22 16:46:45,2018-06-21,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$0.00,909,12541,+8%,+$0,,,,,KEQU
+146,,2018-05-02 15:42:39,2018-05-01,KEQU,Gehl Keith M,Dir,A - Grant,$0.00,1201,2825,+74%,+$0,,,,,KEQU
+147,D,2018-03-21 11:14:06,2018-03-20,KEQU,Dahlgren Dana L,"VP-Sales, Marketing-Americas",F - Tax,$31.70,-4291,12521,-26%,"-$136,025",,,,,KEQU
+148,D,2018-03-21 11:14:06,2018-03-20,KEQU,Dahlgren Dana L,"VP-Sales, Marketing-Americas",M - OptEx,$12.37,11000,12521,+723%,"+$136,045",,,,,KEQU
+149,M,2018-01-05 11:22:12,2017-12-26,KEQU,Shaw Donald F.,Dir,P - Purchase,$28.79,2000,23000,+10%,"+$57,581",,,,,KEQU
+150,,2017-12-28 17:44:16,2017-12-28,KEQU,Rhind David S.,Dir,W - Inherited,$0.00,329103,133392,-71%,$0,,,,,KEQU
+151,D,2017-10-02 12:58:56,2017-09-28,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$29.25,-402,11918,-3%,"-$11,759",,,,,KEQU
+152,D,2017-10-02 12:58:56,2017-09-28,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$11.78,1000,11918,+9%,"+$11,780",,,,,KEQU
+153,,2017-09-12 15:27:36,2017-09-11,KEQU,Shaw Donald F.,Dir,P - Purchase,$27.75,1000,21000,+5%,"+$27,750",,,,,KEQU
+154,D,2017-09-08 17:27:27,2017-09-08,KEQU,Dahlgren Dana L,"VP-Sales, Marketing-Americas",F - Tax,$26.85,-3127,5812,-35%,"-$83,960",,,,,KEQU
+155,D,2017-09-08 17:27:27,2017-09-08,KEQU,Dahlgren Dana L,"VP-Sales, Marketing-Americas",M - OptEx,$18.66,4500,5812,+343%,"+$83,985",,,,,KEQU
+156,D,2017-09-06 08:22:20,2017-09-05,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$25.90,-619,11320,-5%,"-$16,032",,,,,KEQU
+157,D,2017-09-06 08:22:20,2017-09-05,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$10.72,1500,11320,+15%,"+$16,075",,,,,KEQU
+158,,2017-08-31 21:59:35,2017-08-30,KEQU,Gehl Keith M,Dir,A - Grant,$0.00,1624,1624,New,+$0,,,,,KEQU
+159,D,2017-03-06 17:15:18,2017-03-03,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$22.75,-188,10439,-2%,"-$4,277",6.0,4.0,5.0,,KEQU
+160,D,2017-03-06 17:15:18,2017-03-03,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$8.59,500,10439,+5%,"+$4,295",6.0,4.0,5.0,,KEQU
+161,D,2017-01-06 14:46:25,2017-01-05,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$25.55,-168,10127,-2%,"-$4,292",2.0,1.0,1.0,,KEQU
+162,D,2017-01-06 14:46:25,2017-01-05,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$8.59,500,10127,+5%,"+$4,295",2.0,1.0,1.0,,KEQU
+163,D,2016-12-06 16:38:18,2016-12-02,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$24.35,-176,9795,-2%,"-$4,286",3.0,0.0,0.0,,KEQU
+164,D,2016-12-06 16:38:18,2016-12-02,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$8.59,500,9795,+5%,"+$4,295",3.0,0.0,0.0,,KEQU
+165,D,2016-09-02 09:04:58,2016-08-31,KEQU,Shaw Donald F.,Dir,M - OptEx,$13.12,2500,20000,+14%,"+$32,800",6.0,5.0,-5.0,-9.0,KEQU
+166,D,2016-08-10 09:31:58,2016-08-09,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$21.90,-607,9471,-6%,"-$13,293",-1.0,-2.0,14.0,11.0,KEQU
+167,D,2016-08-10 09:31:58,2016-08-09,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$10.64,1250,9471,+15%,"+$13,300",-1.0,-2.0,14.0,11.0,KEQU
+168,D,2016-08-08 18:27:35,2016-08-05,KEQU,Dahlgren Dana L,"VP-Sales, Marketing-Americas",F - Tax,$22.23,-1423,4439,-24%,"-$31,633",1.0,-3.0,18.0,15.0,KEQU
+169,D,2016-08-08 18:27:35,2016-08-05,KEQU,Dahlgren Dana L,"VP-Sales, Marketing-Americas",M - OptEx,$12.66,2500,4439,+129%,"+$31,650",1.0,-3.0,18.0,15.0,KEQU
+170,D,2016-08-08 18:20:27,2016-08-05,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",F - Tax,$22.23,-1247,7503,-14%,"-$27,721",1.0,-3.0,18.0,15.0,KEQU
+171,D,2016-08-08 18:20:27,2016-08-05,KEQU,Rindoks Kurt P,"VP - Engineering, Prod. Dev.",M - OptEx,$10.08,2750,7503,+58%,"+$27,723",1.0,-3.0,18.0,15.0,KEQU
+172,D,2016-07-12 13:54:20,2016-07-12,KEQU,Shumaker William A,Dir,F - Tax,$19.50,-2825,42016,-6%,"-$55,088",0.0,-2.0,14.0,30.0,KEQU
+173,D,2016-07-12 13:54:20,2016-07-12,KEQU,Shumaker William A,Dir,M - OptEx,$14.69,3750,42016,+10%,"+$55,088",0.0,-2.0,14.0,30.0,KEQU
+174,D,2016-07-08 10:27:58,2016-07-07,KEQU,Shumaker William A,Dir,F - Tax,$18.85,-2922,41091,-7%,"-$55,080",0.0,4.0,17.0,32.0,KEQU
+175,D,2016-07-08 10:27:58,2016-07-07,KEQU,Shumaker William A,Dir,M - OptEx,$14.69,3750,41091,+10%,"+$55,088",0.0,4.0,17.0,32.0,KEQU
+176,D,2016-06-22 17:09:37,2016-06-21,KEQU,Shumaker William A,Dir,F - Tax,$16.93,-1869,40263,-4%,"-$31,642",4.0,3.0,5.0,41.0,KEQU
+177,D,2016-06-22 17:09:37,2016-06-21,KEQU,Shumaker William A,Dir,M - OptEx,$12.66,2500,40263,+7%,"+$31,650",4.0,3.0,5.0,41.0,KEQU
+178,D,2016-05-31 17:28:47,2016-05-27,KEQU,Russell John,Dir,M - OptEx,$10.32,10000,14500,+222%,"+$103,200",-1.0,1.0,15.0,44.0,KEQU
+179,D,2015-12-10 17:41:23,2015-12-08,KEQU,Shumaker William A,Dir,F - Tax,$16.99,-1862,39632,-4%,"-$31,635",0.0,-3.0,-6.0,-7.0,KEQU
+180,D,2015-12-10 17:41:23,2015-12-08,KEQU,Shumaker William A,Dir,M - OptEx,$12.66,2500,39632,+7%,"+$31,650",0.0,-3.0,-6.0,-7.0,KEQU
+181,D,2015-09-30 14:09:20,2015-09-28,KEQU,Smith Keith D,VP - Manufacturing,F - Tax,$16.27,-5269,11145,-32%,"-$85,727",1.0,1.0,4.0,4.0,KEQU
+182,D,2015-09-30 14:09:20,2015-09-28,KEQU,Smith Keith D,VP - Manufacturing,M - OptEx,$11.83,7250,11145,+186%,"+$85,740",1.0,1.0,4.0,4.0,KEQU
+183,M,2015-09-24 17:46:59,2015-09-23,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$16.50,-500,6000,-8%,"-$8,251",-1.0,0.0,1.0,3.0,KEQU
+184,,2015-09-17 17:39:34,2015-09-16,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$16.50,-500,6500,-7%,"-$8,250",1.0,0.0,1.0,4.0,KEQU
+185,,2015-09-14 08:21:16,2015-09-10,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$16.50,-413,7000,-6%,"-$6,815",0.0,2.0,-1.0,4.0,KEQU
+186,M,2015-09-11 11:35:52,2015-09-09,KEQU,Rhind David,"Dir, 10%",S - Sale,$16.35,-10000,266902,-4%,"-$163,500",0.0,0.0,0.0,5.0,KEQU
+187,,2015-09-02 10:01:13,2015-09-01,KEQU,Shaw Donald F.,Dir,P - Purchase,$16.61,1000,17500,+6%,"+$16,610",0.0,-1.0,0.0,3.0,KEQU
+188,D,2015-08-26 13:56:55,2015-08-25,KEQU,Shaw Donald F.,Dir,M - OptEx,$13.12,2500,16500,+18%,"+$32,800",2.0,0.0,0.0,2.0,KEQU
+189,DM,2015-08-26 13:43:52,2014-12-04,KEQU,Pyle Margaret B,Dir,G - Gift,$0.00,-106268,56134,-212%,-$0,2.0,0.0,0.0,2.0,KEQU
+190,D,2015-08-26 13:43:52,2015-08-25,KEQU,Pyle Margaret B,Dir,M - OptEx,$10.64,10000,56134,+22%,"+$106,400",2.0,0.0,0.0,2.0,KEQU
+191,D,2015-08-18 15:48:31,2015-08-17,KEQU,Rindoks Kurt P,"VP Engineering, Product Dev.",F - Tax,$17.30,-744,7413,-9%,"-$12,871",0.0,-2.0,-2.0,0.0,KEQU
+192,D,2015-08-18 15:48:31,2015-08-17,KEQU,Rindoks Kurt P,"VP Engineering, Product Dev.",M - OptEx,$8.59,1500,7413,+25%,"+$12,885",0.0,-2.0,-2.0,0.0,KEQU
+193,D,2015-08-14 11:41:48,2015-08-13,KEQU,Rhind David,"Dir, 10%",M - OptEx,$10.64,10000,276902,+4%,"+$106,400",0.0,-2.0,-4.0,-3.0,KEQU
+194,D,2015-08-12 11:18:30,2015-08-11,KEQU,Campbell John C Jr,Dir,M - OptEx,$10.64,10000,51667,+24%,"+$106,400",0.0,0.0,-2.0,1.0,KEQU
+195,D,2015-08-11 12:12:07,2015-08-07,KEQU,Parker David Michael,"SVP - Finance, CFO",F - Tax,$17.32,-9804,19911,-33%,"-$169,805",0.0,0.0,-3.0,1.0,KEQU
+196,D,2015-08-11 12:12:07,2015-08-07,KEQU,Parker David Michael,"SVP - Finance, CFO",M - OptEx,$11.71,14500,19911,+268%,"+$169,820",0.0,0.0,-3.0,1.0,KEQU
+197,,2015-07-22 13:33:16,2015-07-21,KEQU,Parker David Michael,"SVP - Finance, CFO",S - Sale,$16.96,-4000,15215,-21%,"-$67,840",-2.0,-2.0,2.0,1.0,KEQU
+198,D,2015-01-20 15:40:17,2015-01-16,KEQU,Shumaker William A,Dir,F - Tax,$18.10,-2058,38994,-5%,"-$37,250",-2.0,-3.0,0.0,-3.0,KEQU
+199,D,2015-01-20 15:40:17,2015-01-16,KEQU,Shumaker William A,Dir,M - OptEx,$14.90,2500,38994,+7%,"+$37,250",-2.0,-3.0,0.0,-3.0,KEQU
+200,,2015-01-06 17:24:56,2014-12-23,KEQU,Rhind David,Dir,W - Inherited,$0.00,5456,27911,-16%,$0,0.0,6.0,6.0,2.0,KEQU
+201,,2015-01-06 17:18:10,2014-12-23,KEQU,Rhind Laura Campbell,10%,W - Inherited,$0.00,94564,319443,-23%,$0,0.0,6.0,6.0,2.0,KEQU
+202,,2014-12-17 15:14:00,2014-12-17,KEQU,Shaw Donald F.,Dir,P - Purchase,$18.40,202,14000,+1%,"+$3,717",-1.0,-6.0,0.0,-7.0,KEQU
+203,,2014-12-16 11:44:11,2014-12-12,KEQU,Shaw Donald F.,Dir,P - Purchase,$17.75,798,13798,+6%,"+$14,165",1.0,-5.0,2.0,-6.0,KEQU
+204,,2014-09-29 14:38:56,2014-09-26,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$17.90,-100,6657,-1%,"-$1,790",1.0,0.0,0.0,2.0,KEQU
+205,,2014-09-04 14:56:44,2014-09-02,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$18.00,-1024,6757,-13%,"-$18,432",2.0,1.0,-1.0,-2.0,KEQU
+206,D,2014-08-28 15:46:40,2014-08-27,KEQU,Shaw Donald F.,Dir,M - OptEx,$13.12,2500,13000,+24%,"+$32,800",-4.0,0.0,-2.0,1.0,KEQU
+207,,2014-07-25 16:13:52,2014-07-24,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",S - Sale,$18.05,-1200,3362,-26%,"-$21,660",-1.0,-1.0,1.0,0.0,KEQU
+208,,2014-07-25 16:08:24,2014-07-23,KEQU,Shaw Donald F.,Dir,P - Purchase,$17.90,2500,10500,+31%,"+$44,750",-1.0,-1.0,1.0,0.0,KEQU
+209,D,2014-07-17 15:37:18,2014-07-16,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$17.55,-1247,8828,-12%,"-$21,885",0.0,2.0,4.0,1.0,KEQU
+210,D,2014-07-17 15:37:18,2014-07-16,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$9.73,2250,8828,+34%,"+$21,890",0.0,2.0,4.0,1.0,KEQU
+211,D,2014-07-03 15:37:47,2014-07-02,KEQU,Smith Keith D,VP - Manufacturing,F - Tax,$17.82,-8417,9164,-48%,"-$149,991",-2.0,-1.0,2.0,3.0,KEQU
+212,D,2014-07-03 15:37:47,2014-07-02,KEQU,Smith Keith D,VP - Manufacturing,M - OptEx,$13.33,11250,9164,-539%,"+$150,000",-2.0,-1.0,2.0,3.0,KEQU
+213,D,2014-05-23 11:35:13,2014-05-21,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$16.81,-446,2697,-14%,"-$7,497",1.0,-2.0,0.0,9.0,KEQU
+214,D,2014-05-23 11:35:13,2014-05-21,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$8.83,850,2697,+46%,"+$7,507",1.0,-2.0,0.0,9.0,KEQU
+215,D,2014-04-10 12:51:38,2014-04-10,KEQU,Shaw Donald F.,Dir,M - OptEx,$13.12,2500,8000,+45%,"+$32,800",0.0,-1.0,3.0,10.0,KEQU
+216,D,2013-12-17 13:43:04,2013-12-16,KEQU,Shumaker William A,Dir,F - Tax,$15.75,-2009,38552,-5%,"-$31,642",2.0,0.0,3.0,9.0,KEQU
+217,D,2013-12-17 13:43:04,2013-12-16,KEQU,Shumaker William A,Dir,M - OptEx,$12.66,2500,38552,+7%,"+$31,650",2.0,0.0,3.0,9.0,KEQU
+218,D,2013-12-06 16:30:06,2013-12-04,KEQU,Shumaker William A,Dir,F - Tax,$18.35,-2029,38061,-5%,"-$37,232",-4.0,-5.0,-5.0,-1.0,KEQU
+219,D,2013-12-06 16:30:06,2013-12-04,KEQU,Shumaker William A,Dir,M - OptEx,$14.90,2500,38061,+7%,"+$37,250",-4.0,-5.0,-5.0,-1.0,KEQU
+220,D,2013-12-06 16:19:25,2013-12-06,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$16.36,-3095,7825,-28%,"-$50,634",-4.0,-5.0,-5.0,-1.0,KEQU
+221,D,2013-12-06 16:19:25,2013-12-06,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$12.66,4000,7825,+105%,"+$50,640",-4.0,-5.0,-5.0,-1.0,KEQU
+222,D,2013-11-08 09:39:37,2013-11-06,KEQU,Rindoks Kurt P,"VP Engineering, Product Dev.",F - Tax,$17.80,-5824,7781,-43%,"-$103,667",0.0,-1.0,-10.0,-4.0,KEQU
+223,D,2013-11-08 09:39:37,2013-11-06,KEQU,Rindoks Kurt P,"VP Engineering, Product Dev.",M - OptEx,$14.81,7000,7781,+896%,"+$103,670",0.0,-1.0,-10.0,-4.0,KEQU
+224,D,2013-11-08 09:30:10,2013-11-06,KEQU,Parker David Michael,"SVP - Finance, CFO",F - Tax,$17.80,-8323,19215,-30%,"-$148,149",0.0,-1.0,-10.0,-4.0,KEQU
+225,D,2013-11-08 09:30:10,2013-11-06,KEQU,Parker David Michael,"SVP - Finance, CFO",M - OptEx,$14.82,10000,19215,+109%,"+$148,160",0.0,-1.0,-10.0,-4.0,KEQU
+226,,2013-09-26 16:36:15,2013-09-25,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",S - Sale,$17.32,-1040,4562,-19%,"-$18,015",-1.0,-2.0,1.0,-4.0,KEQU
+227,D,2013-09-24 16:49:35,2013-09-23,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",F - Tax,$17.70,-6458,5602,-54%,"-$114,307",-1.0,-2.0,-1.0,-5.0,KEQU
+228,D,2013-09-24 16:49:35,2013-09-23,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",M - OptEx,$14.29,8000,5602,-334%,"+$114,310",-1.0,-2.0,-1.0,-5.0,KEQU
+229,DM,2013-09-24 16:49:35,2013-09-20,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",S - Sale+OE,$17.61,-980,5602,-15%,"-$17,260",-1.0,-2.0,-1.0,-5.0,KEQU
+230,D,2013-09-24 16:33:27,2013-09-23,KEQU,Rindoks Kurt P,"VP Engineering, Product Dev.",F - Tax,$17.70,-2145,6605,-25%,"-$37,967",-1.0,-2.0,-1.0,-5.0,KEQU
+231,D,2013-09-24 16:33:27,2013-09-23,KEQU,Rindoks Kurt P,"VP Engineering, Product Dev.",M - OptEx,$12.66,3000,6605,+83%,"+$37,980",-1.0,-2.0,-1.0,-5.0,KEQU
+232,D,2013-09-20 10:32:00,2013-09-18,KEQU,Rausch David M.,"Pres, CEO",F - Tax,$17.05,-6080,6920,-47%,"-$103,664",2.0,-1.0,-1.0,-3.0,KEQU
+233,D,2013-09-20 10:32:00,2013-09-18,KEQU,Rausch David M.,"Pres, CEO",M - OptEx,$14.81,7000,6920,-8750%,"+$103,670",2.0,-1.0,-1.0,-3.0,KEQU
+234,D,2013-09-13 15:50:35,2013-09-12,KEQU,Shumaker William A,Dir,F - Tax,$16.33,-4562,37590,-11%,"-$74,497",2.0,7.0,5.0,3.0,KEQU
+235,D,2013-09-13 15:50:35,2013-09-12,KEQU,Shumaker William A,Dir,M - OptEx,$14.90,5100,37590,+16%,"+$75,990",2.0,7.0,5.0,3.0,KEQU
+236,,2013-09-09 15:34:48,2013-09-06,KEQU,Rindoks Kurt P,"VP Engineering, Product Dev.",S - Sale,$16.20,-4000,5750,-41%,"-$64,800",0.0,2.0,1.0,3.0,KEQU
+237,D,2013-09-09 15:31:02,2013-09-06,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",F - Tax,$16.11,-1460,5040,-22%,"-$23,521",0.0,2.0,1.0,3.0,KEQU
+238,D,2013-09-09 15:31:02,2013-09-06,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",M - OptEx,$9.41,2500,5040,+98%,"+$23,525",0.0,2.0,1.0,3.0,KEQU
+239,D,2013-09-09 15:18:00,2013-09-05,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$16.15,-5825,2293,-72%,"-$94,074",0.0,2.0,1.0,3.0,KEQU
+240,D,2013-09-09 15:18:00,2013-09-05,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$13.34,7050,2293,-148%,"+$94,077",0.0,2.0,1.0,3.0,KEQU
+241,M,2013-09-06 10:24:00,2013-09-04,KEQU,Shaw Donald F.,Dir,P - Purchase,$16.13,1000,5500,+22%,"+$16,127",2.0,2.0,6.0,4.0,KEQU
+242,D,2013-08-30 16:34:55,2013-08-30,KEQU,Parker David Michael,"SVP - Finance, CFO",S - Sale+OE,$16.09,-2899,17538,-14%,"-$46,645",0.0,2.0,7.0,5.0,KEQU
+243,D,2013-07-26 15:05:29,2013-07-25,KEQU,Smith Keith D,VP - Manufacturing,F - Tax,$13.24,-5526,6331,-47%,"-$73,164",-2.0,2.0,3.0,22.0,KEQU
+244,D,2013-07-26 15:05:29,2013-07-25,KEQU,Smith Keith D,VP - Manufacturing,M - OptEx,$11.26,6500,6331,-3846%,"+$73,170",-2.0,2.0,3.0,22.0,KEQU
+245,,2013-07-18 11:42:48,2013-07-17,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",P - Purchase,$12.65,300,4000,+8%,"+$3,795",0.0,3.0,9.0,27.0,KEQU
+246,D,2013-07-15 17:58:23,2013-07-12,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$12.70,-1072,1068,-50%,"-$13,614",1.0,0.0,9.0,28.0,KEQU
+247,D,2013-07-15 17:58:23,2013-07-12,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$9.76,1750,1068,-257%,"+$17,083",1.0,0.0,9.0,28.0,KEQU
+248,M,2013-07-10 17:41:43,2013-07-08,KEQU,Rausch David M.,"Pres, CEO",P - Purchase,$12.63,1000,6000,+20%,"+$12,625",0.0,2.0,10.0,27.0,KEQU
+249,,2013-07-10 17:37:41,2013-07-10,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",P - Purchase,$12.75,520,3700,+16%,"+$6,630",0.0,2.0,10.0,27.0,KEQU
+250,D,2013-06-24 12:34:01,2013-06-21,KEQU,Rindoks Kurt P,VP - Engineering,M - OptEx,$10.08,2750,9750,+39%,"+$27,723",-1.0,-6.0,-3.0,13.0,KEQU
+251,D,2013-06-13 10:47:29,2013-06-11,KEQU,Shumaker William A,CEO,F - Tax,$13.38,-2485,37692,-6%,"-$33,249",0.0,0.0,-4.0,21.0,KEQU
+252,D,2013-06-13 10:47:29,2013-06-11,KEQU,Shumaker William A,CEO,M - OptEx,$10.64,3125,37692,+9%,"+$33,250",0.0,0.0,-4.0,21.0,KEQU
+253,D,2013-05-17 14:44:43,2013-05-15,KEQU,Parker David Michael,"VP Finance, CFO",M - OptEx,$10.23,2500,20437,+14%,"+$25,575",2.0,0.0,2.0,36.0,KEQU
+254,D,2013-05-01 10:33:21,2013-04-29,KEQU,Parker David Michael,"VP Finance, CFO",M - OptEx,$8.59,1000,17937,+6%,"+$8,590",0.0,0.0,1.0,34.0,KEQU
+255,,2013-04-01 16:04:02,2013-03-28,KEQU,Shumaker William A,CEO,P - Purchase,$13.00,90,37052,0%,"+$1,170",0.0,-1.0,1.0,34.0,KEQU
+256,,2013-03-27 14:49:47,2013-03-27,KEQU,Rausch David M.,"Pres, COO",P - Purchase,$12.90,250,5000,+5%,"+$3,225",3.0,2.0,3.0,40.0,KEQU
+257,D,2013-02-21 16:35:21,2013-02-20,KEQU,Shumaker William A,CEO,F - Tax,$12.70,-2618,36962,-7%,"-$33,249",2.0,5.0,5.0,13.0,KEQU
+258,D,2013-02-21 16:35:21,2013-02-20,KEQU,Shumaker William A,CEO,M - OptEx,$10.64,3125,36962,+9%,"+$33,250",2.0,5.0,5.0,13.0,KEQU
+259,,2012-12-19 15:55:27,2012-12-19,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",P - Purchase,$11.81,700,3180,+28%,"+$8,267",2.0,2.0,9.0,11.0,KEQU
+260,,2012-12-18 11:19:34,2012-12-17,KEQU,McCrory Patrick Lloyd,Dir,S - Sale,$11.79,-2240,0,-100%,"-$26,413",0.0,2.0,7.0,14.0,KEQU
+261,D,2012-12-13 13:01:26,2012-12-12,KEQU,McCrory Patrick Lloyd,Dir,M - OptEx,$10.64,2500,2240,-962%,"+$26,600",1.0,1.0,3.0,14.0,KEQU
+262,D,2012-12-13 13:01:26,2012-12-12,KEQU,McCrory Patrick Lloyd,Dir,S - Sale+OE,$11.74,-2500,2240,-53%,"-$29,338",1.0,1.0,3.0,14.0,KEQU
+263,,2012-12-13 12:52:59,2012-12-12,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",P - Purchase,$11.86,1000,2480,+68%,"+$11,858",1.0,1.0,3.0,14.0,KEQU
+264,,2012-12-06 14:07:11,2012-12-05,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$12.00,-533,7000,-7%,"-$6,396",1.0,-1.0,1.0,13.0,KEQU
+265,,2012-12-05 11:23:53,2012-12-04,KEQU,Rausch David M.,"Pres, COO",P - Purchase,$12.00,250,4750,+6%,"+$3,000",7.0,6.0,9.0,18.0,KEQU
+266,,2012-12-04 11:05:31,2012-11-30,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",P - Purchase,$12.19,500,1480,+51%,"+$6,095",-7.0,-3.0,-2.0,11.0,KEQU
+267,D,2012-09-28 11:23:23,2012-09-26,KEQU,Shumaker William A,CEO,F - Tax,$11.82,-1816,36455,-5%,"-$21,465",0.0,3.0,0.0,15.0,KEQU
+268,D,2012-09-28 11:23:23,2012-09-26,KEQU,Shumaker William A,CEO,M - OptEx,$8.59,2500,36455,+7%,"+$21,475",0.0,3.0,0.0,15.0,KEQU
+269,D,2012-09-28 11:15:22,2012-09-26,KEQU,Rausch David M.,"Pres, COO",F - Tax,$11.82,-2500,4500,-36%,"-$29,550",0.0,3.0,0.0,15.0,KEQU
+270,D,2012-09-28 11:15:22,2012-09-26,KEQU,Rausch David M.,"Pres, COO",M - OptEx,$9.96,3000,4500,+200%,"+$29,870",0.0,3.0,0.0,15.0,KEQU
+271,D,2012-08-16 12:30:10,2012-08-14,KEQU,Rindoks Kurt P,VP - Engineering,M - OptEx,$9.10,3000,7533,+66%,"+$27,300",0.0,-11.0,-12.0,0.0,KEQU
+272,D,2012-07-25 11:52:51,2012-07-24,KEQU,Phillips Elizabeth D,VP - HR,F - Tax,$12.97,-820,390,-68%,"-$10,635",2.0,-6.0,-9.0,-1.0,KEQU
+273,D,2012-07-25 11:52:51,2012-07-24,KEQU,Phillips Elizabeth D,VP - HR,M - OptEx,$10.64,1000,390,-164%,"+$10,640",2.0,-6.0,-9.0,-1.0,KEQU
+274,,2012-07-23 10:53:12,2012-07-19,KEQU,Parker David Michael,"VP - Finance, CFO",S - Sale,$13.10,-2000,16937,-11%,"-$26,200",0.0,-1.0,1.0,-1.0,KEQU
+275,D,2012-07-16 14:31:04,2012-07-12,KEQU,Rausch David M.,"Pres, COO",M - OptEx,$10.64,500,4000,+14%,"+$5,320",0.0,6.0,4.0,3.0,KEQU
+276,D,2012-07-13 12:04:33,2012-07-11,KEQU,Shumaker William A,CEO,F - Tax,$12.19,-2727,35771,-7%,"-$33,242",5.0,12.0,8.0,7.0,KEQU
+277,D,2012-07-13 12:04:33,2012-07-11,KEQU,Shumaker William A,CEO,M - OptEx,$10.64,3125,35771,+10%,"+$33,250",5.0,12.0,8.0,7.0,KEQU
+278,D,2012-07-12 18:27:09,2012-07-10,KEQU,McCrory Patrick Lloyd,Dir,M - OptEx,$10.64,2500,2240,-962%,"+$26,600",5.0,3.0,7.0,6.0,KEQU
+279,DM,2012-07-12 18:27:09,2012-07-10,KEQU,McCrory Patrick Lloyd,Dir,S - Sale+OE,$12.26,-1200,2240,-35%,"-$14,706",5.0,3.0,7.0,6.0,KEQU
+280,D,2012-07-12 11:48:19,2012-07-10,KEQU,Shumaker William A,CEO,F - Tax,$12.48,-2916,35373,-8%,"-$36,392",-3.0,0.0,4.0,3.0,KEQU
+281,D,2012-07-12 11:48:19,2012-07-10,KEQU,Shumaker William A,CEO,M - OptEx,$9.10,4000,35373,+13%,"+$36,400",-3.0,0.0,4.0,3.0,KEQU
+282,D,2012-07-12 11:48:19,2012-07-11,KEQU,Shumaker William A,CEO,P - Purchase,$12.20,250,35373,+1%,"+$3,049",-3.0,0.0,4.0,3.0,KEQU
+283,,2012-07-02 16:48:52,2012-06-29,KEQU,Russell John,Dir,P - Purchase,$11.35,2000,4500,+80%,"+$22,700",0.0,5.0,-1.0,4.0,KEQU
+284,,2012-03-30 15:40:06,2012-03-30,KEQU,Phillips Elizabeth D,VP - HR,P - Purchase,$8.60,110,210,+110%,+$946,2.0,4.0,0.0,36.0,KEQU
+285,,2012-03-16 18:03:42,2012-03-16,KEQU,Black K Bain,VP,P - Purchase,$8.41,313,2363,+15%,"+$2,632",0.0,0.0,2.0,38.0,KEQU
+286,,2012-03-16 12:56:19,2012-03-15,KEQU,Rausch David M.,"Pres, COO Off",P - Purchase,$8.29,500,3500,+17%,"+$4,145",2.0,2.0,4.0,39.0,KEQU
+287,,2012-01-03 14:49:57,2011-12-30,KEQU,Smith Keith D,VP - Manufacturing,P - Purchase,$8.10,300,5357,+6%,"+$2,430",2.0,7.0,16.0,49.0,KEQU
+288,M,2011-12-28 10:07:25,2011-12-21,KEQU,Rausch David M.,VP - Construction Services,P - Purchase,$7.95,500,3000,+20%,"+$3,975",0.0,2.0,15.0,17.0,KEQU
+289,D,2011-11-18 17:32:34,2011-11-17,KEQU,Shumaker William A,"Pres, CEO",F - Tax,$9.85,-4619,34039,-12%,"-$45,497",-3.0,-2.0,-15.0,-11.0,KEQU
+290,D,2011-11-18 17:32:34,2011-11-17,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$9.10,5000,34039,+17%,"+$45,500",-3.0,-2.0,-15.0,-11.0,KEQU
+291,M,2011-09-23 16:32:53,2011-09-21,KEQU,Smith Keith D,VP - Manufacturing,P - Purchase,$8.78,2001,5057,+65%,"+$17,579",0.0,0.0,-2.0,-1.0,KEQU
+292,,2011-09-22 10:50:34,2011-09-21,KEQU,Black K Bain,VP,P - Purchase,$8.98,700,2050,+52%,"+$6,286",-3.0,-1.0,-2.0,-2.0,KEQU
+293,M,2011-09-20 10:56:59,2011-09-16,KEQU,Smith Keith D,VP - Manufacturing,P - Purchase,$8.75,403,3056,+15%,"+$3,526",2.0,0.0,2.0,0.0,KEQU
+294,M,2011-09-01 16:36:56,2011-08-31,KEQU,Russell John,Dir,P - Purchase,$9.00,2500,2500,New,"+$22,506",1.0,2.0,-2.0,-9.0,KEQU
+295,,2011-07-25 13:27:13,2011-07-21,KEQU,Shumaker William A,"Pres, CEO",P - Purchase,$10.19,100,33658,0%,"+$1,019",1.0,-1.0,-16.0,-10.0,KEQU
+296,,2011-07-19 11:45:54,2011-07-15,KEQU,Rausch David M.,VP - Construction Services,P - Purchase,$10.30,500,2500,+25%,"+$5,150",2.0,0.0,-12.0,-10.0,KEQU
+297,D,2011-07-11 12:44:55,2011-07-07,KEQU,Rindoks Kurt P,VP - Engineering,F - Tax,$10.49,-2731,4533,-38%,"-$28,648",2.0,-1.0,-15.0,-13.0,KEQU
+298,D,2011-07-11 12:44:55,2011-07-07,KEQU,Rindoks Kurt P,VP - Engineering,M - OptEx,$9.55,3000,4533,+196%,"+$28,650",2.0,-1.0,-15.0,-13.0,KEQU
+299,,2011-07-01 11:30:23,2011-06-29,KEQU,Shumaker William A,"Pres, CEO",P - Purchase,$9.82,300,33558,+1%,"+$2,946",5.0,4.0,2.0,-16.0,KEQU
+300,D,2011-06-08 14:04:48,2011-06-07,KEQU,Parker David Michael,"VP - Finance, CFO",F - Tax,$10.42,-1374,18937,-7%,"-$14,317",1.0,0.0,2.0,-19.0,KEQU
+301,D,2011-06-08 14:04:48,2011-06-07,KEQU,Parker David Michael,"VP - Finance, CFO",M - OptEx,$9.55,1500,18937,+9%,"+$14,325",1.0,0.0,2.0,-19.0,KEQU
+302,D,2011-06-08 13:52:46,2011-06-07,KEQU,Shumaker William A,"Pres, CEO",F - Tax,$10.42,-4582,33258,-12%,"-$47,744",1.0,0.0,2.0,-19.0,KEQU
+303,D,2011-06-08 13:52:46,2011-06-07,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$9.55,5000,33258,+18%,"+$47,750",1.0,0.0,2.0,-19.0,KEQU
+304,,2011-03-31 09:59:27,2011-03-30,KEQU,Phillips Elizabeth D,VP - HR,P - Purchase,$11.60,100,100,New,"+$1,160",0.0,-1.0,-3.0,-22.0,KEQU
+305,D,2011-02-10 14:37:09,2011-02-08,KEQU,Shumaker William A,"Pres, CEO",F - Tax,$14.25,-1675,32840,-5%,"-$23,869",-3.0,-2.0,-14.0,-34.0,KEQU
+306,D,2011-02-10 14:37:09,2011-02-08,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$9.55,2500,32840,+8%,"+$23,875",-3.0,-2.0,-14.0,-34.0,KEQU
+307,D,2011-02-10 14:34:59,2011-02-08,KEQU,Parker David Michael,"VP - Finance, CFO",F - Tax,$14.25,-1005,18811,-5%,"-$14,321",-3.0,-2.0,-14.0,-34.0,KEQU
+308,D,2011-02-10 14:34:59,2011-02-08,KEQU,Parker David Michael,"VP - Finance, CFO",M - OptEx,$9.55,1500,18811,+9%,"+$14,325",-3.0,-2.0,-14.0,-34.0,KEQU
+309,,2011-01-06 15:25:13,2011-01-05,KEQU,Rausch David M.,VP - Construction Services,P - Purchase,$13.70,250,2000,+14%,"+$3,425",-1.0,0.0,2.0,-22.0,KEQU
+310,,2010-12-20 17:44:15,2010-12-20,KEQU,Parker David Michael,"VP - Finance, CFO",S - Sale,$13.60,-1000,18316,-5%,"-$13,600",-1.0,0.0,-2.0,-23.0,KEQU
+311,,2010-12-10 11:22:58,2010-12-09,KEQU,Parker David Michael,"VP - Finance, CFO",S - Sale,$13.97,-4000,19316,-17%,"-$55,880",1.0,1.0,-2.0,-23.0,KEQU
+312,D,2010-12-10 11:02:29,2010-12-08,KEQU,Shumaker William A,"Pres, CEO",F - Tax,$13.90,-1717,32015,-5%,"-$23,866",1.0,1.0,-2.0,-23.0,KEQU
+313,D,2010-12-10 11:02:29,2010-12-08,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$9.55,2500,32015,+8%,"+$23,875",1.0,1.0,-2.0,-23.0,KEQU
+314,D,2010-12-06 14:29:27,2010-12-02,KEQU,Parker David Michael,"VP - Finance, CFO",M - OptEx,$9.55,3000,23316,+15%,"+$28,650",0.0,0.0,-5.0,-24.0,KEQU
+315,,2010-09-24 16:32:42,2010-09-24,KEQU,Rausch David M.,VP - Construction Services,P - Purchase,$11.35,250,1750,+17%,"+$2,838",-2.0,-3.0,-4.0,1.0,KEQU
+316,,2010-09-21 10:42:32,2010-09-14,KEQU,Black K Bain,VP,P - Purchase,$10.49,750,1350,+125%,"+$7,868",-3.0,-4.0,-8.0,-2.0,KEQU
+317,,2010-09-08 16:03:03,2010-09-07,KEQU,McCrory Patrick Lloyd,Dir,P - Purchase,$10.50,940,940,New,"+$9,870",1.0,1.0,5.0,13.0,KEQU
+318,,2010-09-01 14:10:25,2010-08-31,KEQU,Shumaker William A,"Pres, CEO",P - Purchase,$10.76,250,31232,+1%,"+$2,690",1.0,0.0,7.0,14.0,KEQU
+319,,2010-07-26 11:02:31,2010-07-23,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$11.20,-500,4264,-10%,"-$5,600",3.0,-1.0,-5.0,22.0,KEQU
+320,D,2010-07-07 15:27:02,2010-07-02,KEQU,Rindoks Kurt P,VP - Engineering,F - Tax,$11.10,-2736,4764,-36%,"-$30,370",-3.0,-2.0,3.0,23.0,KEQU
+321,D,2010-07-07 15:27:02,2010-07-02,KEQU,Rindoks Kurt P,VP - Engineering,M - OptEx,$10.13,3000,4764,+170%,"+$30,375",-3.0,-2.0,3.0,23.0,KEQU
+322,D,2010-07-07 15:02:23,2010-07-02,KEQU,Smith Keith D,VP - Manufacturing,F - Tax,$11.10,-547,2653,-17%,"-$6,072",-3.0,-2.0,3.0,23.0,KEQU
+323,D,2010-07-07 15:02:23,2010-07-02,KEQU,Smith Keith D,VP - Manufacturing,M - OptEx,$10.13,600,2653,+29%,"+$6,075",-3.0,-2.0,3.0,23.0,KEQU
+324,,2010-07-06 11:13:10,2010-07-01,KEQU,McCanless Ross W,Dir,P - Purchase,$11.10,4800,4800,New,"+$53,280",4.0,1.0,4.0,30.0,KEQU
+325,,2010-03-29 15:35:18,2010-03-29,KEQU,Rausch David M.,VP - Construction Services,P - Purchase,$13.99,250,1500,+20%,"+$3,498",0.0,4.0,-2.0,-17.0,KEQU
+326,D,2010-02-23 10:02:31,2010-02-22,KEQU,Manchester Eli Jr,Dir,F - Tax,$15.37,-3294,112002,-3%,"-$50,629",1.0,-11.0,-12.0,-28.0,KEQU
+327,D,2010-02-23 10:02:31,2010-02-22,KEQU,Manchester Eli Jr,Dir,M - OptEx,$10.13,5000,112002,+5%,"+$50,625",1.0,-11.0,-12.0,-28.0,KEQU
+328,D,2010-01-08 12:28:29,2010-01-06,KEQU,Manchester Eli Jr,Dir,F - Tax,$14.69,-3446,110296,-3%,"-$50,622",1.0,1.0,3.0,-23.0,KEQU
+329,D,2010-01-08 12:28:29,2010-01-06,KEQU,Manchester Eli Jr,Dir,M - OptEx,$10.13,5000,110296,+5%,"+$50,625",1.0,1.0,3.0,-23.0,KEQU
+330,D,2009-11-19 14:47:33,2009-11-17,KEQU,Shumaker William A,"Pres, CEO",F - Tax,$15.88,-4782,30982,-13%,"-$75,938",-5.0,-6.0,-6.0,-19.0,KEQU
+331,D,2009-11-19 14:47:33,2009-11-17,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$10.13,7500,30982,+32%,"+$75,938",-5.0,-6.0,-6.0,-19.0,KEQU
+332,D,2009-11-10 17:29:09,2009-11-06,KEQU,Parker David Michael,"SVP - Finance, CFO",M - OptEx,$10.13,2000,20316,+11%,"+$20,250",-1.0,6.0,-1.0,-14.0,KEQU
+333,,2009-09-28 13:44:05,2009-09-25,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$14.20,-566,4500,-11%,"-$8,035",3.0,7.0,5.0,4.0,KEQU
+334,,2009-09-28 13:38:34,2009-09-25,KEQU,Rausch David M.,VP - Construction Services,P - Purchase,$14.19,250,1250,+25%,"+$3,548",3.0,7.0,5.0,4.0,KEQU
+335,M,2009-09-25 12:39:42,2009-09-23,KEQU,Parker David Michael,"SVP - Finance, CFO",S - Sale,$14.09,-2500,18316,-12%,"-$35,220",-6.0,0.0,1.0,-2.0,KEQU
+336,,2009-09-21 17:15:03,2009-09-21,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$13.69,-934,5066,-16%,"-$12,789",2.0,0.0,5.0,1.0,KEQU
+337,M,2009-09-14 17:03:39,2009-09-10,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$13.33,-2000,6000,-25%,"-$26,650",0.0,-3.0,12.0,0.0,KEQU
+338,D,2009-08-27 16:58:14,2009-08-25,KEQU,Shumaker William A,"Pres, CEO",F - Tax,$12.55,-1033,28264,-4%,"-$12,964",1.0,2.0,5.0,7.0,KEQU
+339,D,2009-08-27 16:58:14,2009-08-25,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$10.38,1250,28264,+5%,"+$12,969",1.0,2.0,5.0,7.0,KEQU
+340,D,2009-08-27 16:42:11,2009-08-25,KEQU,Parker David Michael,"SVP - Finance, CFO",M - OptEx,$10.13,3000,20816,+17%,"+$30,375",1.0,2.0,5.0,7.0,KEQU
+341,D,2009-08-17 15:19:19,2009-08-14,KEQU,Parker David Michael,"SVP - Finance, CFO",F - Tax,$12.65,-1640,17816,-8%,"-$20,746",0.0,-1.0,11.0,23.0,KEQU
+342,D,2009-08-17 15:19:19,2009-08-14,KEQU,Parker David Michael,"SVP - Finance, CFO",M - OptEx,$10.38,2000,17816,+13%,"+$20,750",0.0,-1.0,11.0,23.0,KEQU
+343,D,2009-08-17 15:10:28,2009-08-14,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",F - Tax,$12.65,-820,980,-46%,"-$10,373",0.0,-1.0,11.0,23.0,KEQU
+344,D,2009-08-17 15:10:28,2009-08-14,KEQU,Dahlgren Dana L,"VP - Sales, Marketing",M - OptEx,$10.38,1000,980,-5000%,"+$10,375",0.0,-1.0,11.0,23.0,KEQU
+345,D,2009-08-17 14:57:13,2009-08-14,KEQU,Shumaker William A,"Pres, CEO",F - Tax,$12.65,-1025,28047,-4%,"-$12,966",0.0,-1.0,11.0,23.0,KEQU
+346,D,2009-08-17 14:57:13,2009-08-14,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$10.38,1250,28047,+5%,"+$12,969",0.0,-1.0,11.0,23.0,KEQU
+347,D,2009-08-12 16:21:18,2009-08-11,KEQU,Rindoks Kurt P,VP - Engineering,M - OptEx,$10.38,3000,8000,+60%,"+$31,125",2.0,2.0,7.0,22.0,KEQU
+348,D,2009-08-12 16:03:08,2009-08-11,KEQU,Shumaker William A,"Pres, CEO",F - Tax,$12.40,-2091,27822,-7%,"-$25,928",2.0,2.0,7.0,22.0,KEQU
+349,D,2009-08-12 16:03:08,2009-08-11,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$10.38,2500,27822,+10%,"+$25,938",2.0,2.0,7.0,22.0,KEQU
+350,D,2009-08-12 15:35:11,2009-08-11,KEQU,Parker David Michael,"SVP - Finance, CFO",F - Tax,$12.40,-1673,17456,-9%,"-$20,745",0.0,2.0,7.0,23.0,KEQU
+351,D,2009-08-12 15:35:11,2009-08-11,KEQU,Parker David Michael,"SVP - Finance, CFO",M - OptEx,$10.38,2000,17456,+13%,"+$20,750",0.0,2.0,7.0,23.0,KEQU
+352,,2009-07-22 12:47:48,2009-07-20,KEQU,Dahlgren Dana L,VP,P - Purchase,$11.33,200,800,+33%,"+$2,266",2.0,3.0,9.0,29.0,KEQU
+353,,2009-07-09 18:12:44,2009-07-09,KEQU,Shumaker William A,"Pres, CEO",P - Purchase,$10.97,1075,27413,+4%,"+$11,795",-1.0,0.0,12.0,36.0,KEQU
+354,,2009-07-02 10:23:42,2009-07-01,KEQU,Rausch David M.,VP - Construction Services,P - Purchase,$11.44,300,1000,+43%,"+$3,433",-3.0,-5.0,3.0,28.0,KEQU
+355,,2009-01-09 14:27:59,2009-01-07,KEQU,Dahlgren Dana L,VP,P - Purchase,$9.25,200,600,+50%,"+$1,850",-2.0,-7.0,-7.0,17.0,KEQU
+356,,2009-01-09 14:22:24,2009-01-07,KEQU,Rausch David M.,VP - Construction Services,P - Purchase,$9.48,200,700,+40%,"+$1,895",-2.0,-7.0,-7.0,17.0,KEQU
+357,,2008-12-29 10:30:26,2008-12-23,KEQU,Black K Bain,VP,P - Purchase,$8.25,600,600,New,"+$4,950",-1.0,10.0,3.0,29.0,KEQU
+358,,2008-12-23 10:59:31,2008-12-19,KEQU,Smith Keith D,VP - Manufacturing,P - Purchase,$8.20,2600,2600,New,"+$21,320",3.0,3.0,5.0,45.0,KEQU
+359,,2008-09-18 16:01:48,2008-09-17,KEQU,Rausch David M.,VP - Construction Services,P - Purchase,$11.93,250,950,+36%,"+$2,982",-4.0,-2.0,-35.0,-29.0,KEQU
+360,,2008-09-09 16:04:36,2008-09-05,KEQU,Campbell John C Jr,Dir,G - Gift,$0.00,-2000,41667,+5%,-$0,1.0,0.0,-28.0,-37.0,KEQU
+361,,2008-09-09 15:13:01,2008-09-05,KEQU,Rhind Laura Campbell,10%,S - Sale,$14.09,-5000,228079,-2%,"-$70,450",-2.0,-2.0,-30.0,-39.0,KEQU
+362,,2008-09-09 14:34:20,2008-09-05,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$14.00,-1000,5000,-17%,"-$14,000",-2.0,-2.0,-30.0,-39.0,KEQU
+363,D,2008-08-28 16:19:09,2008-08-26,KEQU,Manchester Eli Jr,Dir,F - Tax,$12.40,-7258,108742,-6%,"-$89,999",-1.0,-3.0,-15.0,-37.0,KEQU
+364,D,2008-08-28 16:19:09,2008-08-26,KEQU,Manchester Eli Jr,Dir,M - OptEx,$12.00,7500,108742,+7%,"+$90,000",-1.0,-3.0,-15.0,-37.0,KEQU
+365,D,2008-08-28 15:50:10,2008-08-26,KEQU,Parker David Michael,"SVP - Finance, CFO",F - Tax,$12.40,-3871,17129,-18%,"-$48,000",-1.0,-4.0,-16.0,-38.0,KEQU
+366,D,2008-08-28 15:50:10,2008-08-26,KEQU,Parker David Michael,"SVP - Finance, CFO",M - OptEx,$12.00,4000,17129,+30%,"+$48,000",-1.0,-4.0,-16.0,-38.0,KEQU
+367,D,2008-08-28 15:23:01,2008-08-26,KEQU,Shumaker William A,"Pres, CEO",F - Tax,$12.40,-4839,26342,-16%,"-$60,004",-1.0,-4.0,-16.0,-38.0,KEQU
+368,D,2008-08-28 15:23:01,2008-08-26,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$12.00,5000,26342,+23%,"+$60,000",-1.0,-4.0,-16.0,-38.0,KEQU
+369,D,2008-08-21 12:48:04,2008-08-20,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$9.10,1000,26181,+4%,"+$9,100",0.0,15.0,-6.0,-31.0,KEQU
+370,D,2008-08-20 15:31:03,2008-08-19,KEQU,Rindoks Kurt P,VP - Engineering,M - OptEx,$12.00,3000,6000,+100%,"+$36,000",0.0,0.0,-5.0,-33.0,KEQU
+371,M,2008-07-14 14:59:51,2008-07-10,KEQU,Shumaker William A,"Pres, CEO",P - Purchase,$10.04,279,25181,+1%,"+$2,800",-1.0,2.0,6.0,-7.0,KEQU
+372,,2008-07-11 09:20:21,2008-07-09,KEQU,Parker David Michael,"SVP - Finance, CFO",P - Purchase,$9.95,282,17000,+2%,"+$2,806",3.0,1.0,8.0,-3.0,KEQU
+373,,2008-07-11 09:07:06,2008-07-09,KEQU,Shumaker William A,"Pres, CEO",P - Purchase,$10.04,800,24902,+3%,"+$8,032",3.0,1.0,8.0,-3.0,KEQU
+374,,2008-07-10 12:34:47,2008-07-08,KEQU,Dahlgren Dana L,VP,P - Purchase,$10.25,400,400,New,"+$4,100",-2.0,-1.0,3.0,-4.0,KEQU
+375,,2007-12-18 16:25:32,2007-12-14,KEQU,Smith Keith D,VP - Manufacturing,S - Sale,$17.78,-2150,0,-100%,"-$38,227",-3.0,15.0,6.0,3.0,KEQU
+376,M,2007-12-17 15:20:16,2007-12-13,KEQU,Shumaker William A,"Pres, CEO",S - Sale,$18.80,-1500,24102,-6%,"-$28,200",-3.0,1.0,1.0,1.0,KEQU
+377,,2007-12-14 16:46:38,2007-12-12,KEQU,Parker David Michael,SVP - Finance,S - Sale,$19.19,-1282,16718,-7%,"-$24,602",-3.0,1.0,1.0,1.0,KEQU
+378,M,2007-12-11 16:26:48,2007-11-27,KEQU,Dahlgren Dana L,VP,S - Sale,$18.88,-3000,0,-100%,"-$56,650",-1.0,-10.0,0.0,-4.0,KEQU
+379,,2007-12-10 10:46:16,2007-12-06,KEQU,Shumaker William A,"Pres, CEO",S - Sale,$19.75,-1718,25602,-6%,"-$33,931",-1.0,-9.0,-4.0,-6.0,KEQU
+380,,2007-12-06 12:02:01,2007-12-04,KEQU,Rhind Laura Campbell,10%,S - Sale,$18.90,-10000,233079,-4%,"-$189,000",2.0,-2.0,-3.0,-3.0,KEQU
+381,,2007-12-05 15:23:04,2007-12-03,KEQU,Shumaker William A,"Pres, CEO",S - Sale,$19.75,-1282,27320,-4%,"-$25,320",3.0,2.0,3.0,0.0,KEQU
+382,D,2007-12-04 11:23:30,2007-12-03,KEQU,Rausch David M.,VP - Construction Services,M - OptEx,$12.00,250,250,New,"+$3,000",-3.0,-1.0,1.0,-7.0,KEQU
+383,DM,2007-12-04 11:23:30,2007-11-30,KEQU,Rausch David M.,VP - Construction Services,S - Sale+OE,$19.72,-750,250,-75%,"-$14,787",-3.0,-1.0,1.0,-7.0,KEQU
+384,,2007-11-29 10:53:21,2007-11-27,KEQU,Rausch David M.,VP - Construction Services,S - Sale,$18.35,-250,750,-25%,"-$4,588",0.0,2.0,5.0,-9.0,KEQU
+385,D,2007-11-29 10:41:54,2007-11-28,KEQU,Smith Keith D,VP - Manufacturing,M - OptEx,$10.26,2150,2150,New,"+$22,050",0.0,2.0,5.0,-9.0,KEQU
+386,D,2007-11-21 09:32:54,2007-11-19,KEQU,Parker David Michael,SVP - Finance,M - OptEx,$9.10,6000,18000,+50%,"+$54,600",-1.0,8.0,2.0,-3.0,KEQU
+387,D,2007-11-07 15:00:14,2007-11-05,KEQU,Dahlgren Dana L,VP,M - OptEx,$10.21,3000,3000,New,"+$30,625",-1.0,-8.0,25.0,-2.0,KEQU
+388,D,2007-10-29 17:06:59,2007-10-26,KEQU,Rausch David M.,VP - Construction Services,M - OptEx,$10.02,750,1000,+300%,"+$7,513",-3.0,-2.0,17.0,-7.0,KEQU
+389,,2007-09-06 14:49:12,2007-09-04,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale,$16.57,-2000,3000,-40%,"-$33,140",2.0,1.0,5.0,0.0,KEQU
+390,M,2007-08-31 16:05:50,2007-08-29,KEQU,Dahlgren Dana L,VP,S - Sale,$15.38,-2000,0,-100%,"-$30,752",9.0,10.0,14.0,13.0,KEQU
+391,D,2007-08-29 16:03:37,2007-08-28,KEQU,Rausch David M.,VP - Construction Services,M - OptEx,$9.10,250,250,New,"+$2,275",2.0,12.0,12.0,20.0,KEQU
+392,D,2007-08-14 18:28:04,2007-08-10,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$8.13,500,28602,+2%,"+$4,063",-1.0,-8.0,21.0,27.0,KEQU
+393,D,2007-08-02 17:27:10,2007-07-31,KEQU,Dahlgren Dana L,VP,M - OptEx,$9.55,2000,2000,New,"+$19,100",-1.0,3.0,17.0,32.0,KEQU
+394,D,2007-07-25 18:58:03,2007-07-24,KEQU,Rindoks Kurt P,VP - Engineering,M - OptEx,$8.13,2000,5000,+67%,"+$16,250",-11.0,-3.0,-1.0,14.0,KEQU
+395,D,2007-07-24 16:33:39,2007-07-20,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$8.13,500,28102,+2%,"+$4,063",0.0,-3.0,-7.0,14.0,KEQU
+396,,2007-07-18 18:09:55,2007-07-16,KEQU,Parker David Michael,SVP - Finance,S - Sale,$15.25,-3500,12000,-23%,"-$53,375",0.0,-3.0,-7.0,19.0,KEQU
+397,M,2007-07-18 17:32:06,2007-07-16,KEQU,Shumaker William A,"Pres, CEO",S - Sale,$15.29,-4184,27602,-13%,"-$63,972",0.0,-3.0,-7.0,19.0,KEQU
+398,D,2007-07-11 12:02:02,2007-07-09,KEQU,Rausch David M.,VP - Construction Services,S - Sale+OE,$13.70,-250,0,-100%,"-$3,425",3.0,4.0,-6.0,37.0,KEQU
+399,D,2007-07-03 12:21:45,2007-06-29,KEQU,Rindoks Kurt P,VP - Engineering,S - Sale+OE,$12.61,-2785,3000,-48%,"-$35,117",2.0,10.0,1.0,50.0,KEQU
+400,D,2007-07-03 11:39:23,2007-06-29,KEQU,Dahlgren Dana L,VP,S - Sale+OE,$12.70,-2250,0,-100%,"-$28,572",2.0,10.0,1.0,50.0,KEQU
+401,D,2007-06-27 16:13:36,2007-06-25,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$8.13,500,31786,+2%,"+$4,063",1.0,4.0,3.0,54.0,KEQU
+402,D,2007-06-26 12:06:18,2007-06-22,KEQU,Parker David Michael,SVP - Finance,M - OptEx,$8.13,2500,15500,+19%,"+$20,313",16.0,14.0,29.0,56.0,KEQU
+403,D,2007-06-20 16:57:56,2007-06-18,KEQU,Manchester Eli Jr,Dir,M - OptEx,$8.13,2500,108500,+2%,"+$20,313",3.0,19.0,35.0,52.0,KEQU
+404,D,2007-06-11 12:26:32,2007-06-08,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$8.13,500,31286,+2%,"+$4,063",0.0,1.0,26.0,74.0,KEQU
+405,D,2007-06-07 11:44:32,2007-06-05,KEQU,Dahlgren Dana L,VP,M - OptEx,$8.99,2250,2250,New,"+$20,231",1.0,0.0,18.0,66.0,KEQU
+406,D,2007-05-29 15:49:40,2007-05-25,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$8.13,500,30786,+2%,"+$4,063",0.0,3.0,23.0,60.0,KEQU
+407,D,2007-03-12 16:26:56,2007-03-08,KEQU,Shumaker William A,"Pres, CEO",M - OptEx,$8.13,500,30286,+2%,"+$4,063",-4.0,-3.0,0.0,58.0,KEQU
+408,,2004-12-07 19:41:01,2004-12-06,KEQU,Rossi James,VP HR,S - Sale,$8.96,-2000,5000,-29%,"-$17,920",1.0,0.0,1.0,-9.0,KEQU
+409,,2004-12-07 12:40:52,2004-12-06,KEQU,Parker David Michael,"SVP Finance, CFO",S - Sale,$8.96,-4500,13000,-26%,"-$40,320",0.0,1.0,1.0,-9.0,KEQU
+410,,2004-12-01 16:53:36,2004-11-29,KEQU,Rossi James,VP HR,S - Sale,$8.92,-2000,7000,-22%,"-$17,835",0.0,-2.0,-6.0,-15.0,KEQU
+411,,2004-09-16 12:44:24,2004-09-14,KEQU,Rossi James,VP HR,S - Sale,$8.94,-2000,9000,-18%,"-$17,880",1.0,-1.0,4.0,-9.0,KEQU
+412,D,2004-08-02 17:18:18,2004-07-29,KEQU,Parker David Michael,"SVP Finance, CFO",M - OptEx,$3.88,1000,17500,+6%,"+$3,875",4.0,1.0,-3.0,-10.0,KEQU
+413,D,2004-05-27 16:24:59,2004-05-27,KEQU,Rossi James,VP HR,M - OptEx,$3.88,2000,11000,+22%,"+$7,750",0.0,1.0,0.0,-14.0,KEQU
+414,,2004-03-22 13:12:18,2004-03-08,KEQU,Rossi James,VP HR,S - Sale,$11.20,-1077,9000,-11%,"-$12,062",0.0,-3.0,-1.0,-21.0,KEQU
+415,D,2003-08-26 15:37:50,2003-08-25,KEQU,Rossi James,VP HR,M - OptEx,$4.63,1000,10077,+11%,"+$4,625",1.0,1.0,0.0,15.0,KEQU

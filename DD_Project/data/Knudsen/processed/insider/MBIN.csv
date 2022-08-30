@@ -1,30 +1,191 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2022-03-21 16:02:36,2022-03-15,MBIN,Rogers Randall D.,Vice COB,P - Purchase,24.5,12145,3656311,0%,297553.0,,,,,MBIN
-1,,2022-02-16 16:49:21,2022-02-16,MBIN,Rogers Randall D.,Vice COB,P - Purchase,24.5,1010,3644081,0%,24745.0,,,,,MBIN
-2,,2021-11-17 16:13:08,2021-11-16,MBIN,Dunlap Michael J.,"Pres, COO",S - Sale,28.0,-1200,84227,-1%,-33600.0,,,,,MBIN
-3,,2021-11-08 16:47:27,2021-11-05,MBIN,Rogers Randall D.,Vice COB,S - Sale,48.0,-10304,2518045,0%,-494592.0,,,,,MBIN
-4,M,2021-11-03 16:34:10,2021-11-01,MBIN,Rogers Randall D.,Vice COB,S - Sale,46.45,-32533,2528349,-1%,-1511189.0,,,,,MBIN
-5,,2021-03-18 16:06:52,2021-03-16,MBIN,Shane David N.,Dir,P - Purchase,25.0,2000,12572,+19%,50000.0,,,,,MBIN
-6,,2021-03-18 16:06:36,2021-03-16,MBIN,Sellers Anne E.,Dir,P - Purchase,25.0,12000,14072,+579%,300000.0,,,,,MBIN
-7,M,2021-03-18 16:06:03,2020-03-11,MBIN,O'Brien Patrick D.,Dir,P - Purchase,25.04,164000,338447,+94%,4106200.0,,,,,MBIN
-8,,2021-03-18 16:05:33,2021-03-16,MBIN,Juster Andrew,Dir,P - Purchase,25.0,20000,32031,+166%,500000.0,,,,,MBIN
-9,,2021-03-18 16:04:27,2021-03-16,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,P - Purchase,25.0,8000,38862,+26%,200000.0,,,,,MBIN
-10,,2021-03-18 16:04:17,2021-03-16,MBIN,Koors Jerry F.,Merchants Mortgage Pres,P - Purchase,25.0,400,30354,+1%,10000.0,,,,,MBIN
-11,A,2021-02-02 16:13:05,2020-09-15,MBIN,O'Brien Patrick D.,Dir,P - Purchase,20.53,3000,73447,+4%,61590.0,,,,,MBIN
-12,,2020-05-15 16:06:35,2020-05-13,MBIN,O'Brien Patrick D.,Dir,P - Purchase,13.87,1000,170821,+1%,13870.0,,,,,MBIN
-13,,2020-05-13 16:08:15,2020-05-11,MBIN,O'Brien Patrick D.,Dir,P - Purchase,14.45,1500,169821,+1%,21675.0,,,,,MBIN
-14,,2020-01-03 16:10:49,2020-01-02,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,S - Sale,19.7,-1518,21521,-7%,-29898.0,,,,,MBIN
-15,,2020-01-03 16:10:34,2020-01-02,MBIN,Koors Jerry F.,Merchants Mortgage Pres,S - Sale,19.7,-816,19894,-4%,-16072.0,,,,,MBIN
-16,,2020-01-03 16:10:21,2020-01-02,MBIN,Evans Scott A.,Lynn Market Pres,S - Sale,19.7,-1368,13251,-9%,-26944.0,,,,,MBIN
-17,,2020-01-03 16:10:10,2020-01-02,MBIN,Dury Michael R.,Pres of Merchants Capital,S - Sale,19.7,-2500,52476,-5%,-49239.0,,,,,MBIN
-18,,2020-01-03 16:09:56,2020-01-02,MBIN,Dunlap Michael J.,"Pres, COO",S - Sale,19.7,-3331,51284,-6%,-65606.0,,,,,MBIN
-19,M,2019-09-13 16:09:46,2019-09-11,MBIN,Dury Michael R.,Pres of Merchants Capital,P - Purchase,16.71,12000,94976,+14%,200557.0,,,,,MBIN
-20,,2019-03-26 16:55:35,2019-03-22,MBIN,O'Brien Patrick D.,Dir,P - Purchase,25.0,100000,167866,+147%,2500000.0,,,,,MBIN
-21,,2019-03-26 16:55:04,2019-03-22,MBIN,Kucer Susan Dehner,Indianapolis Mkt. Pres,P - Purchase,25.0,8000,23039,+53%,200000.0,,,,,MBIN
-22,,2019-03-26 16:54:50,2019-03-22,MBIN,Koors Jerry F.,Merchants Mortgage Pres,P - Purchase,25.0,300,21010,+1%,7500.0,,,,,MBIN
-23,,2019-03-26 16:54:35,2019-03-22,MBIN,Belser Richard L.,"SVP, Chief Credit Officer",P - Purchase,25.0,400,400,New,10000.0,,,,,MBIN
-24,,2019-03-26 16:54:20,2019-03-22,MBIN,Shane David N.,Dir,P - Purchase,25.0,1000,9491,+12%,25000.0,,,,,MBIN
-25,,2019-03-26 16:53:50,2019-03-22,MBIN,Dury Michael R.,Pres of Merchants Capital,P - Purchase,25.0,4000,42976,+10%,100000.0,,,,,MBIN
-26,,2019-03-26 16:53:35,2019-03-22,MBIN,Dunlap Michael J.,"Pres, COO",P - Purchase,25.0,1200,54615,+2%,30000.0,,,,,MBIN
-27,,2018-12-06 08:53:25,2018-12-04,MBIN,O'Brien Patrick D.,Dir,P - Purchase,22.99,3000,67866,+5%,68970.0,,,,,MBIN
-28,,2018-11-29 17:55:36,2018-11-26,MBIN,O'Brien Patrick D.,Dir,P - Purchase,23.0,1000,64866,+2%,23000.0,,,,,MBIN
+0,,2022-02-17 16:12:08,2022-02-17,MBIN,Shane David N.,Dir,A - Grant,30.47,411,19142,+2%,12523.0,,,,,MBIN
+1,,2022-02-17 16:11:48,2022-02-17,MBIN,Sellers Anne E.,Dir,A - Grant,30.47,411,16893,+2%,12523.0,,,,,MBIN
+2,,2022-02-17 16:11:42,2022-02-17,MBIN,O'Brien Patrick D.,Dir,A - Grant,30.47,411,376955,0%,12523.0,,,,,MBIN
+3,,2022-02-17 16:11:04,2022-02-17,MBIN,Juster Andrew,Dir,A - Grant,30.47,411,38606,+1%,12523.0,,,,,MBIN
+4,,2022-02-17 16:10:37,2022-02-17,MBIN,Gilroy Sue Anne,Dir,A - Grant,30.47,411,7375,+6%,12523.0,,,,,MBIN
+5,,2022-02-16 16:49:21,2022-02-16,MBIN,Rogers Randall D.,Vice COB,P - Purchase,24.5,1010,3644081,0%,24745.0,,,,,MBIN
+6,,2022-02-03 16:59:16,2022-02-01,MBIN,Dunlap Michael J.,"Pres, COO",F - Tax,30.4,-8052,151342,-5%,-244781.0,,,,,MBIN
+7,,2022-02-03 16:57:48,2022-02-01,MBIN,Petrie Michael F.,"COB, CEO, 10%",F - Tax,30.4,-4869,13994919,0%,-148018.0,,,,,MBIN
+8,,2022-02-03 16:57:23,2022-02-01,MBIN,Macke John F.,CFO,F - Tax,30.4,-2098,50539,-4%,-63779.0,,,,,MBIN
+9,,2022-02-03 16:57:05,2022-02-01,MBIN,Langford Kevin T,Chief Administrative Officer,F - Tax,30.4,-1699,24220,-7%,-51650.0,,,,,MBIN
+10,,2022-02-03 16:56:44,2022-02-01,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,F - Tax,30.4,-2004,56474,-3%,-60922.0,,,,,MBIN
+11,,2022-02-03 16:56:00,2022-02-01,MBIN,Koors Jerry F.,Merchants Mortgage Pres,F - Tax,30.4,-2060,51059,-4%,-62624.0,,,,,MBIN
+12,,2022-02-03 16:51:53,2022-02-01,MBIN,Evans Scott A.,Lynn Market Pres,F - Tax,30.4,-2004,40879,-5%,-60922.0,,,,,MBIN
+13,,2022-02-03 16:51:21,2022-02-01,MBIN,Dury Michael R.,CEO of Merchants Capital,F - Tax,30.4,-3052,104979,-3%,-92781.0,,,,,MBIN
+14,,2022-02-03 16:50:42,2022-02-01,MBIN,Oznick Terry A,"SVP, GC",F - Tax,30.4,-1397,21627,-6%,-42469.0,,,,,MBIN
+15,,2022-02-03 16:48:00,2022-02-01,MBIN,Schroeter Martin A,Pres-Warehouse Lending,F - Tax,30.4,-1435,21254,-6%,-43624.0,,,,,MBIN
+16,,2022-01-26 16:16:43,2022-01-24,MBIN,Petrie Michael F.,"COB, CEO, 10%",A - Grant,0.0,36483,13309699,0%,0.0,,,,,MBIN
+17,,2022-01-26 16:16:30,2022-01-24,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,A - Grant,0.0,8513,58478,+17%,0.0,,,,,MBIN
+18,,2022-01-26 16:16:23,2022-01-24,MBIN,Dury Michael R.,CEO of Merchants Capital,A - Grant,0.0,10641,108050,+11%,0.0,,,,,MBIN
+19,,2022-01-26 16:16:17,2022-01-24,MBIN,Koors Jerry F.,Merchants Mortgage Pres,A - Grant,0.0,8513,54613,+18%,0.0,,,,,MBIN
+20,,2022-01-26 16:16:05,2022-01-24,MBIN,Dunlap Michael J.,"Pres, COO",A - Grant,0.0,32834,161396,+26%,0.0,,,,,MBIN
+21,,2022-01-26 16:15:51,2022-01-24,MBIN,Langford Kevin T,Chief Administrative Officer,A - Grant,0.0,8513,25919,+49%,0.0,,,,,MBIN
+22,,2022-01-26 16:15:51,2022-01-24,MBIN,Schroeter Martin A,Pres-Warehouse Lending,A - Grant,0.0,8513,22689,+60%,0.0,,,,,MBIN
+23,,2022-01-26 16:15:41,2022-01-24,MBIN,Macke John F.,CFO,A - Grant,0.0,8513,52637,+19%,0.0,,,,,MBIN
+24,,2022-01-26 16:15:29,2022-01-24,MBIN,Evans Scott A.,Lynn Market Pres,A - Grant,0.0,8513,42883,+25%,0.0,,,,,MBIN
+25,,2022-01-26 16:15:26,2022-01-24,MBIN,Oznick Terry A,"SVP, GC",A - Grant,0.0,8513,23024,+59%,0.0,,,,,MBIN
+26,,2021-11-17 16:13:57,2021-11-17,MBIN,Shane David N.,Dir,A - Grant,46.47,269,13488,+2%,12500.0,,,,,MBIN
+27,,2021-11-17 16:13:45,2021-11-17,MBIN,Sellers Anne E.,Dir,A - Grant,46.47,269,14988,+2%,12500.0,,,,,MBIN
+28,,2021-11-17 16:13:37,2021-11-17,MBIN,O'Brien Patrick D.,Dir,A - Grant,46.47,269,338363,0%,12500.0,,,,,MBIN
+29,,2021-11-17 16:13:25,2021-11-17,MBIN,Juster Andrew,Dir,A - Grant,46.47,269,32197,+1%,12500.0,,,,,MBIN
+30,,2021-11-17 16:13:13,2021-11-17,MBIN,Gilroy Sue Anne,Dir,A - Grant,46.47,269,3925,+7%,12500.0,,,,,MBIN
+31,,2021-11-17 16:13:08,2021-11-16,MBIN,Dunlap Michael J.,"Pres, COO",S - Sale,28.0,-1200,84227,-1%,-33600.0,,,,,MBIN
+32,,2021-11-08 16:47:27,2021-11-05,MBIN,Rogers Randall D.,Vice COB,S - Sale,48.0,-10304,2518045,0%,-494592.0,,,,,MBIN
+33,,2021-11-03 16:34:10,2021-02-03,MBIN,Rogers Randall D.,Vice COB,A - Grant,0.0,96,2528349,0%,0.0,,,,,MBIN
+34,M,2021-11-03 16:34:10,2021-11-01,MBIN,Rogers Randall D.,Vice COB,S - Sale,46.45,-32533,2528349,-1%,-1511189.0,,,,,MBIN
+35,,2021-09-01 16:10:36,2021-08-19,MBIN,O'Brien Patrick D.,Dir,A - Grant,35.27,355,338094,0%,12521.0,,,,,MBIN
+36,,2021-09-01 16:10:24,2021-08-19,MBIN,Sellers Anne E.,Dir,A - Grant,35.27,355,14719,+2%,12521.0,,,,,MBIN
+37,,2021-09-01 16:10:01,2021-08-19,MBIN,Shane David N.,Dir,A - Grant,35.27,355,13219,+3%,12521.0,,,,,MBIN
+38,,2021-09-01 16:09:52,2021-08-19,MBIN,Gilroy Sue Anne,Dir,A - Grant,35.27,355,3656,+11%,12521.0,,,,,MBIN
+39,,2021-09-01 16:09:47,2021-08-19,MBIN,Juster Andrew,Dir,A - Grant,35.27,355,31928,+1%,12521.0,,,,,MBIN
+40,M,2021-06-24 21:42:47,2021-06-22,MBIN,Petrie Michael F.,"COB, CEO, 10%",G - Gift,0.0,-352069,9760115,+4%,-0.0,,,,,MBIN
+41,,2021-05-24 16:07:46,2021-05-20,MBIN,Shane David N.,Dir,A - Grant,42.95,292,12864,+2%,12541.0,,,,,MBIN
+42,,2021-05-24 16:07:18,2021-05-20,MBIN,Sellers Anne E.,Dir,A - Grant,42.95,292,14364,+2%,12541.0,,,,,MBIN
+43,,2021-05-24 16:06:37,2021-05-20,MBIN,O'Brien Patrick D.,Dir,A - Grant,42.95,292,337739,0%,12541.0,,,,,MBIN
+44,,2021-05-24 16:06:12,2021-05-20,MBIN,Juster Andrew,Dir,A - Grant,42.95,292,31573,+1%,12541.0,,,,,MBIN
+45,,2021-05-24 16:05:48,2021-05-20,MBIN,Gilroy Sue Anne,Dir,A - Grant,42.95,292,3301,+10%,12541.0,,,,,MBIN
+46,,2021-05-10 16:32:19,2021-04-15,MBIN,O'Brien Patrick D.,Dir,D - Sale to issuer,1000.0,-1000,337447,0%,-1000000.0,,,,,MBIN
+47,,2021-05-10 16:29:48,2021-04-15,MBIN,Juster Andrew,Dir,D - Sale to issuer,1000.0,-750,31281,-2%,-750000.0,,,,,MBIN
+48,,2021-05-10 16:24:32,2021-05-06,MBIN,Rogers Randall D.,Vice COB,A - Grant,25.0,268000,2560786,+12%,6700000.0,,,,,MBIN
+49,,2021-05-10 16:24:32,2021-04-15,MBIN,Rogers Randall D.,Vice COB,D - Sale to issuer,1000.0,-5000,2560786,0%,-5000000.0,,,,,MBIN
+50,,2021-05-10 16:24:25,2021-04-15,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,D - Sale to issuer,1000.0,-250,38612,-1%,-250000.0,,,,,MBIN
+51,M,2021-05-10 16:24:07,2021-05-06,MBIN,Petrie Michael F.,"COB, CEO, 10%",A - Grant,24.97,120145,9688884,+1%,3000000.0,,,,,MBIN
+52,,2021-05-10 16:24:07,2021-04-15,MBIN,Petrie Michael F.,"COB, CEO, 10%",D - Sale to issuer,1000.0,-5000,9688884,0%,-5000000.0,,,,,MBIN
+53,,2021-05-10 16:24:07,2021-03-12,MBIN,Petrie Michael F.,"COB, CEO, 10%",G - Gift,0.0,-372000,9688884,+4%,-0.0,,,,,MBIN
+54,M,2021-05-10 16:23:54,2021-05-06,MBIN,Dury Michael R.,CEO of Merchants Capital,A - Grant,24.7,12145,70259,+21%,300000.0,,,,,MBIN
+55,,2021-05-10 16:23:54,2021-04-15,MBIN,Dury Michael R.,CEO of Merchants Capital,D - Sale to issuer,1000.0,-300,70259,0%,-300000.0,,,,,MBIN
+56,,2021-03-18 16:06:52,2021-03-16,MBIN,Shane David N.,Dir,P - Purchase,25.0,2000,12572,+19%,50000.0,,,,,MBIN
+57,,2021-03-18 16:06:36,2021-03-16,MBIN,Sellers Anne E.,Dir,P - Purchase,25.0,12000,14072,+579%,300000.0,,,,,MBIN
+58,M,2021-03-18 16:06:03,2020-03-11,MBIN,O'Brien Patrick D.,Dir,P - Purchase,25.04,164000,338447,+94%,4106200.0,,,,,MBIN
+59,,2021-03-18 16:05:33,2021-03-16,MBIN,Juster Andrew,Dir,P - Purchase,25.0,20000,32031,+166%,500000.0,,,,,MBIN
+60,,2021-03-18 16:04:27,2021-01-01,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,A - Grant,0.0,145,38862,0%,0.0,,,,,MBIN
+61,,2021-03-18 16:04:27,2021-03-16,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,P - Purchase,25.0,8000,38862,+26%,200000.0,,,,,MBIN
+62,,2021-03-18 16:04:17,2021-01-01,MBIN,Koors Jerry F.,Merchants Mortgage Pres,A - Grant,0.0,145,30354,0%,0.0,,,,,MBIN
+63,,2021-03-18 16:04:17,2021-03-16,MBIN,Koors Jerry F.,Merchants Mortgage Pres,P - Purchase,25.0,400,30354,+1%,10000.0,,,,,MBIN
+64,A,2021-02-02 16:13:05,2020-09-15,MBIN,O'Brien Patrick D.,Dir,P - Purchase,20.53,3000,73447,+4%,61590.0,,,,,MBIN
+65,,2021-02-02 16:12:53,2021-02-01,MBIN,Oznick Terry A,"SVP, GC",F - Tax,31.92,-300,9528,-3%,-9576.0,,,,,MBIN
+66,,2021-02-02 16:12:44,2021-02-01,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,F - Tax,31.92,-544,30717,-2%,-17364.0,,,,,MBIN
+67,,2021-02-02 16:12:40,2021-02-01,MBIN,Langford Kevin T,Chief Administrative Officer,F - Tax,31.92,-524,11458,-4%,-16726.0,,,,,MBIN
+68,,2021-02-02 16:12:34,2021-02-01,MBIN,Koors Jerry F.,Merchants Mortgage Pres,F - Tax,31.92,-580,29809,-2%,-18514.0,,,,,MBIN
+69,,2021-02-02 16:12:33,2021-02-01,MBIN,Evans Scott A.,Lynn Market Pres,F - Tax,31.92,-544,22767,-2%,-17364.0,,,,,MBIN
+70,,2021-02-02 16:12:17,2021-02-01,MBIN,Macke John F.,CFO,F - Tax,31.92,-604,29270,-2%,-19280.0,,,,,MBIN
+71,,2021-02-02 16:12:09,2021-02-01,MBIN,Dunlap Michael J.,"Pres, COO",F - Tax,31.92,-2469,85427,-3%,-78810.0,,,,,MBIN
+72,,2021-02-02 16:12:06,2021-02-01,MBIN,Dury Michael R.,CEO of Merchants Capital,F - Tax,31.92,-1184,58414,-2%,-37793.0,,,,,MBIN
+73,,2021-01-21 16:10:26,2021-01-19,MBIN,Schroeter Martin A,Pres-Warehouse Lending,A - Grant,0.0,8245,9845,+515%,0.0,,,,,MBIN
+74,,2021-01-21 16:10:18,2021-01-19,MBIN,Oznick Terry A,"SVP, GC",A - Grant,0.0,6596,9828,+204%,0.0,,,,,MBIN
+75,,2021-01-21 16:10:10,2021-01-19,MBIN,Macke John F.,CFO,A - Grant,0.0,8245,29874,+38%,0.0,,,,,MBIN
+76,,2021-01-21 16:10:05,2021-01-19,MBIN,Langford Kevin T,Chief Administrative Officer,A - Grant,0.0,6596,11982,+122%,0.0,,,,,MBIN
+77,,2021-01-21 16:09:54,2021-01-19,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,A - Grant,0.0,8245,31261,+36%,0.0,,,,,MBIN
+78,,2021-01-21 16:09:47,2021-01-19,MBIN,Koors Jerry F.,Merchants Mortgage Pres,A - Grant,0.0,8245,30389,+37%,0.0,,,,,MBIN
+79,,2021-01-21 16:09:38,2021-01-19,MBIN,Evans Scott A.,Lynn Market Pres,A - Grant,0.0,8245,23311,+55%,0.0,,,,,MBIN
+80,,2021-01-21 16:09:23,2021-01-19,MBIN,Dury Michael R.,CEO of Merchants Capital,A - Grant,0.0,5772,59598,+11%,0.0,,,,,MBIN
+81,,2021-01-21 16:09:16,2021-01-19,MBIN,Dunlap Michael J.,"Pres, COO",A - Grant,0.0,26637,87896,+43%,0.0,,,,,MBIN
+82,,2021-01-21 16:09:04,2021-01-19,MBIN,Petrie Michael F.,"COB, CEO, 10%",A - Grant,0.0,33296,9573739,0%,0.0,,,,,MBIN
+83,M,2021-01-21 16:09:04,2020-08-31,MBIN,Petrie Michael F.,"COB, CEO, 10%",G - Gift,0.0,-490604,9573739,+5%,-0.0,,,,,MBIN
+84,,2020-12-01 21:09:26,2020-11-30,MBIN,Koors Jerry F.,Merchants Mortgage Pres,F - Tax,26.64,-602,22144,-3%,-16037.0,,,,,MBIN
+85,,2020-12-01 21:09:01,2020-11-30,MBIN,Evans Scott A.,Lynn Market Pres,F - Tax,26.64,-1021,15066,-6%,-27199.0,,,,,MBIN
+86,,2020-12-01 21:08:14,2020-11-30,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,F - Tax,26.64,-1118,23016,-5%,-29784.0,,,,,MBIN
+87,,2020-12-01 21:07:46,2020-11-30,MBIN,Dury Michael R.,CEO of Merchants Capital,F - Tax,26.64,-2289,53826,-4%,-60979.0,,,,,MBIN
+88,,2020-12-01 21:07:14,2020-11-30,MBIN,Dunlap Michael J.,"Pres, COO",F - Tax,26.64,-2631,61259,-4%,-70090.0,,,,,MBIN
+89,,2020-09-17 16:38:07,2020-09-15,MBIN,O'Brien Patrick D.,Dir,A - Grant,20.53,3000,174447,+2%,61590.0,,,,,MBIN
+90,,2020-05-22 16:07:07,2020-05-21,MBIN,Shane David N.,Dir,A - Grant,15.99,626,10572,+6%,10010.0,,,,,MBIN
+91,,2020-05-22 16:06:52,2020-05-21,MBIN,Sellers Anne E.,Dir,A - Grant,15.99,626,2072,+43%,10010.0,,,,,MBIN
+92,,2020-05-22 16:06:22,2020-05-21,MBIN,O'Brien Patrick D.,Dir,A - Grant,15.99,626,171447,0%,10010.0,,,,,MBIN
+93,,2020-05-22 16:06:07,2020-05-21,MBIN,Juster Andrew,Dir,A - Grant,15.99,626,12031,+5%,10010.0,,,,,MBIN
+94,,2020-05-22 16:05:38,2020-05-21,MBIN,Gilroy Sue Anne,Dir,A - Grant,15.99,626,3009,+26%,10010.0,,,,,MBIN
+95,,2020-05-15 16:06:35,2020-05-13,MBIN,O'Brien Patrick D.,Dir,P - Purchase,13.87,1000,170821,+1%,13870.0,,,,,MBIN
+96,,2020-05-13 16:08:15,2020-05-11,MBIN,O'Brien Patrick D.,Dir,P - Purchase,14.45,1500,169821,+1%,21675.0,,,,,MBIN
+97,,2020-03-16 21:55:03,2020-03-15,MBIN,Evans Scott A.,Lynn Market Pres,F - Tax,16.05,-296,16087,-2%,-4751.0,,,,,MBIN
+98,,2020-03-16 21:54:43,2020-03-15,MBIN,Dury Michael R.,CEO of Merchants Capital,F - Tax,16.05,-570,56115,-1%,-9149.0,,,,,MBIN
+99,,2020-03-16 21:54:24,2020-03-15,MBIN,Langford Kevin T,Chief Administrative Officer,F - Tax,16.05,-287,5386,-5%,-4606.0,,,,,MBIN
+100,,2020-03-16 21:54:12,2020-03-15,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,F - Tax,16.05,-268,24134,-1%,-4301.0,,,,,MBIN
+101,,2020-03-16 21:53:57,2020-03-15,MBIN,Macke John F.,CFO,F - Tax,16.05,-304,21629,-1%,-4879.0,,,,,MBIN
+102,,2020-03-16 21:53:27,2020-03-15,MBIN,Dunlap Michael J.,"Pres, COO",F - Tax,16.05,-1172,63890,-2%,-18811.0,,,,,MBIN
+103,,2020-03-16 21:53:07,2020-03-15,MBIN,Koors Jerry F.,Merchants Mortgage Pres,F - Tax,16.05,-280,22746,-1%,-4494.0,,,,,MBIN
+104,,2020-01-24 16:05:34,2020-01-22,MBIN,Oznick Terry A,"SVP, GC",A - Grant,0.0,3132,3232,>999%,0.0,,,,,MBIN
+105,,2020-01-24 16:03:46,2020-01-22,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,A - Grant,0.0,2881,24402,+13%,0.0,,,,,MBIN
+106,,2020-01-24 16:03:40,2020-01-22,MBIN,Koors Jerry F.,Merchants Mortgage Pres,A - Grant,0.0,3132,23026,+16%,0.0,,,,,MBIN
+107,,2020-01-24 16:03:33,2020-01-22,MBIN,Evans Scott A.,Lynn Market Pres,A - Grant,0.0,3132,16383,+24%,0.0,,,,,MBIN
+108,,2020-01-24 16:03:02,2020-01-22,MBIN,Dunlap Michael J.,"Pres, COO",A - Grant,0.0,13778,65062,+27%,0.0,,,,,MBIN
+109,,2020-01-24 16:02:53,2020-01-22,MBIN,Dury Michael R.,CEO of Merchants Capital,A - Grant,0.0,4209,56685,+8%,0.0,,,,,MBIN
+110,,2020-01-24 16:02:45,2020-01-22,MBIN,Langford Kevin T,Chief Administrative Officer,A - Grant,0.0,3132,5673,+123%,0.0,,,,,MBIN
+111,,2020-01-24 16:02:40,2020-01-22,MBIN,Macke John F.,CFO,A - Grant,0.0,3132,21933,+17%,0.0,,,,,MBIN
+112,,2020-01-03 16:10:49,2020-01-02,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,S - Sale,19.7,-1518,21521,-7%,-29898.0,,,,,MBIN
+113,,2020-01-03 16:10:34,2020-01-02,MBIN,Koors Jerry F.,Merchants Mortgage Pres,S - Sale,19.7,-816,19894,-4%,-16072.0,,,,,MBIN
+114,,2020-01-03 16:10:21,2020-01-02,MBIN,Evans Scott A.,Lynn Market Pres,S - Sale,19.7,-1368,13251,-9%,-26944.0,,,,,MBIN
+115,,2020-01-03 16:10:10,2020-01-02,MBIN,Dury Michael R.,Pres of Merchants Capital,S - Sale,19.7,-2500,52476,-5%,-49239.0,,,,,MBIN
+116,,2020-01-03 16:09:56,2020-01-02,MBIN,Dunlap Michael J.,"Pres, COO",S - Sale,19.7,-3331,51284,-6%,-65606.0,,,,,MBIN
+117,,2019-09-25 08:37:12,2019-09-23,MBIN,Petrie Jody J.,10%,D - Sale to issuer,25.0,-200000,9969077,-2%,-5000000.0,,,,,MBIN
+118,,2019-09-25 08:37:12,2019-08-16,MBIN,Petrie Jody J.,10%,G - Gift,0.0,-23700,9969077,0%,-0.0,,,,,MBIN
+119,,2019-09-23 20:49:35,2019-09-23,MBIN,Petrie Michael F.,"COB, CEO, 10%",D - Sale to issuer,25.0,-200000,9969077,-2%,-5000000.0,,,,,MBIN
+120,,2019-09-23 20:49:35,2019-08-16,MBIN,Petrie Michael F.,"COB, CEO, 10%",G - Gift,0.0,-23700,9969077,0%,-0.0,,,,,MBIN
+121,,2019-09-23 20:41:42,2019-09-23,MBIN,Rogers Randall D.,Vice COB,D - Sale to issuer,25.0,-132000,2297786,-5%,-3300000.0,,,,,MBIN
+122,,2019-09-23 20:40:37,2019-09-23,MBIN,Dury Michael R.,Pres of Merchants Capital,D - Sale to issuer,25.0,-40000,54976,-42%,-1000000.0,,,,,MBIN
+123,M,2019-09-13 16:09:46,2019-09-11,MBIN,Dury Michael R.,Pres of Merchants Capital,P - Purchase,16.71,12000,94976,+14%,200557.0,,,,,MBIN
+124,,2019-07-01 16:11:39,2019-06-27,MBIN,Rogers Randall D.,Vice COB,A - Grant,25.0,132000,2429786,+6%,3300000.0,,,,,MBIN
+125,,2019-07-01 16:11:25,2019-06-27,MBIN,Dury Michael R.,Pres of Merchants Capital,A - Grant,25.0,40000,82976,+93%,1000000.0,,,,,MBIN
+126,,2019-07-01 16:11:11,2019-06-27,MBIN,Petrie Jody J.,10%,A - Grant,25.0,200000,10192777,+2%,5000000.0,,,,,MBIN
+127,,2019-07-01 16:08:57,2019-06-27,MBIN,Petrie Michael F.,"COB, CEO, 10%",A - Grant,25.0,200000,10192777,+2%,5000000.0,,,,,MBIN
+128,,2019-05-20 16:11:26,2019-05-16,MBIN,Shane David N.,Dir,A - Grant,22.02,455,9946,+5%,10019.0,,,,,MBIN
+129,,2019-05-20 16:09:26,2019-05-16,MBIN,O'Brien Patrick D.,Dir,A - Grant,22.02,455,168321,0%,10019.0,,,,,MBIN
+130,,2019-05-20 16:08:41,2019-05-16,MBIN,Sellers Anne E.,Dir,A - Grant,22.02,455,1446,+46%,10019.0,,,,,MBIN
+131,,2019-05-20 16:07:26,2019-05-16,MBIN,Juster Andrew,Dir,A - Grant,22.02,455,11205,+4%,10019.0,,,,,MBIN
+132,,2019-05-20 16:06:11,2019-05-16,MBIN,Gilroy Sue Anne,Dir,A - Grant,22.02,455,2383,+24%,10019.0,,,,,MBIN
+133,,2019-03-26 16:55:35,2019-03-22,MBIN,O'Brien Patrick D.,Dir,P - Purchase,25.0,100000,167866,+147%,2500000.0,,,,,MBIN
+134,,2019-03-26 16:55:04,2019-03-22,MBIN,Kucer Susan Dehner,Indianapolis Mkt. Pres,P - Purchase,25.0,8000,23039,+53%,200000.0,,,,,MBIN
+135,,2019-03-26 16:54:50,2019-03-22,MBIN,Koors Jerry F.,Merchants Mortgage Pres,P - Purchase,25.0,300,21010,+1%,7500.0,,,,,MBIN
+136,,2019-03-26 16:54:35,2019-03-22,MBIN,Belser Richard L.,"SVP, Chief Credit Officer",P - Purchase,25.0,400,400,New,10000.0,,,,,MBIN
+137,,2019-03-26 16:54:20,2019-03-22,MBIN,Shane David N.,Dir,P - Purchase,25.0,1000,9491,+12%,25000.0,,,,,MBIN
+138,,2019-03-26 16:53:50,2019-03-22,MBIN,Dury Michael R.,Pres of Merchants Capital,P - Purchase,25.0,4000,42976,+10%,100000.0,,,,,MBIN
+139,,2019-03-26 16:53:35,2019-03-22,MBIN,Dunlap Michael J.,"Pres, COO",P - Purchase,25.0,1200,54615,+2%,30000.0,,,,,MBIN
+140,,2019-02-25 16:07:25,2019-02-21,MBIN,Langford Kevin T,Chief Administrative Officer,A - Grant,0.0,2541,2541,New,0.0,,,,,MBIN
+141,,2019-02-25 16:07:10,2019-02-21,MBIN,Koors Jerry F.,Merchants Mortgage Pres,A - Grant,0.0,2922,20710,+16%,0.0,,,,,MBIN
+142,,2019-02-25 16:06:39,2019-02-21,MBIN,Kucer Susan Dehner,Indianpolis Market Pres,A - Grant,0.0,2795,15039,+23%,0.0,,,,,MBIN
+143,,2019-02-25 16:06:24,2019-02-21,MBIN,Evans Scott A.,Lynn Market Pres,A - Grant,0.0,2541,14619,+21%,0.0,,,,,MBIN
+144,,2019-02-25 16:06:09,2019-02-21,MBIN,Dury Michael R.,Pres of Merchants Capital,A - Grant,0.0,3913,38976,+11%,0.0,,,,,MBIN
+145,,2019-02-25 16:05:54,2019-02-21,MBIN,Dunlap Michael J.,"Pres, COO",A - Grant,0.0,12703,53415,+31%,0.0,,,,,MBIN
+146,,2019-02-25 16:05:39,2019-02-21,MBIN,Macke John F.,CFO,A - Grant,0.0,3176,18801,+20%,0.0,,,,,MBIN
+147,,2019-01-22 16:06:51,2019-01-18,MBIN,Kucer Susan Dehner,Indianapolis Market Pres,A - Grant,0.0,637,12244,+5%,0.0,,,,,MBIN
+148,,2019-01-22 16:06:35,2019-01-18,MBIN,Koors Jerry F.,Merchants Mortgage Pres,A - Grant,0.0,684,17104,+4%,0.0,,,,,MBIN
+149,,2019-01-22 16:06:21,2019-01-18,MBIN,Evans Scott A.,Lynn Market Pres,A - Grant,0.0,1146,12078,+10%,0.0,,,,,MBIN
+150,,2019-01-22 16:05:51,2019-01-18,MBIN,Dunlap Michael J.,"Pres, COO",A - Grant,0.0,2864,40712,+8%,0.0,,,,,MBIN
+151,,2019-01-22 16:05:36,2019-01-18,MBIN,Dury Michael R.,Pres of Merchants Capital,A - Grant,0.0,1336,35063,+4%,0.0,,,,,MBIN
+152,,2018-12-10 17:30:17,2018-12-07,MBIN,Petrie Michael F.,"COB, CEO, 10%",G - Gift,0.0,-15273,9992777,0%,-0.0,,,,,MBIN
+153,,2018-12-10 17:29:46,2018-12-07,MBIN,Petrie Jody J.,10%,G - Gift,0.0,-15273,9992777,0%,-0.0,,,,,MBIN
+154,,2018-12-06 08:53:25,2018-12-04,MBIN,O'Brien Patrick D.,Dir,P - Purchase,22.99,3000,67866,+5%,68970.0,,,,,MBIN
+155,,2018-11-29 17:55:36,2018-11-26,MBIN,O'Brien Patrick D.,Dir,P - Purchase,23.0,1000,64866,+2%,23000.0,,,,,MBIN
+156,,2018-06-12 16:18:00,2018-06-08,MBIN,Shane David N.,Dir,A - Grant,27.37,366,8491,+5%,10017.0,,,,,MBIN
+157,,2018-06-12 16:16:57,2018-06-08,MBIN,Gilroy Sue Anne,Dir,A - Grant,27.37,366,1928,+23%,10017.0,,,,,MBIN
+158,,2018-06-12 16:16:18,2018-06-08,MBIN,Perry John W.,Dir,A - Grant,27.37,366,14616,+3%,10017.0,,,,,MBIN
+159,,2018-06-12 16:15:59,2018-06-08,MBIN,Sellers Anne E.,Dir,A - Grant,27.37,366,991,+59%,10017.0,,,,,MBIN
+160,,2018-06-12 16:15:39,2018-06-08,MBIN,O'Brien Patrick D.,Dir,A - Grant,27.37,366,63866,+1%,10017.0,,,,,MBIN
+161,,2018-02-26 16:21:37,2018-02-22,MBIN,Dunlap Michael J.,"Pres, COO",A - Grant,0.0,12033,27822,+76%,0.0,,,,,MBIN
+162,,2018-02-26 16:21:18,2018-02-22,MBIN,Evans Scott A.,"Lynn Market Pres, Co-COO (A)",A - Grant,0.0,4575,6921,+195%,0.0,,,,,MBIN
+163,,2018-02-26 16:21:03,2018-02-22,MBIN,Buchanan Bill D.,"SVP, CAO",A - Grant,0.0,1442,2001,+258%,0.0,,,,,MBIN
+164,,2018-02-26 16:20:45,2018-02-22,MBIN,Kucer Susan Dehner,Indianapolis Market Pres (A),A - Grant,0.0,5013,7150,+235%,0.0,,,,,MBIN
+165,,2018-02-26 16:20:25,2018-02-22,MBIN,Koors Jerry F.,Pres (A),A - Grant,0.0,2692,14025,+24%,0.0,,,,,MBIN
+166,,2018-02-26 16:20:03,2018-02-22,MBIN,Dury Michael R.,"Pres P, R Mortgage, Invest (A)",A - Grant,0.0,6737,29048,+30%,0.0,,,,,MBIN
+167,,2018-02-09 19:20:49,2018-01-03,MBIN,Randall D. Rogers Grantor Retained Annuity Trust,10%,G - Gift,0.0,-7624812,0,-100%,-0.0,,,,,MBIN
+168,,2018-02-09 19:19:53,2018-01-03,MBIN,Petrie Jody J.,10%,G - Gift,0.0,9914500,10008050,>999%,0.0,,,,,MBIN
+169,,2018-02-09 19:18:38,2018-01-03,MBIN,Petrie Michael F.,"COB, CEO",G - Gift,0.0,9914500,10008050,>999%,0.0,,,,,MBIN
+170,,2018-02-09 19:17:04,2018-01-03,MBIN,Rogers Mary H.,10%,G - Gift,0.0,7902371,2297786,-77%,0.0,,,,,MBIN
+171,,2018-02-09 19:16:13,2018-01-03,MBIN,Rogers Randall D.,Vice COB,G - Gift,0.0,7902411,2297786,-77%,0.0,,,,,MBIN
+172,,2018-02-09 19:15:00,2018-01-03,MBIN,Michael F. Petrie Grantor Retained Annuity Trust,10%,G - Gift,0.0,-4957250,0,-100%,-0.0,,,,,MBIN
+173,,2018-01-23 17:31:24,2018-01-19,MBIN,Kucer Susan Dehner,Indianapolis Market Pres (1),A - Grant,0.0,637,2137,+42%,0.0,,,,,MBIN
+174,,2018-01-23 17:31:10,2018-01-19,MBIN,Koors Jerry F.,Pres (1),A - Grant,0.0,684,11333,+6%,0.0,,,,,MBIN
+175,,2018-01-23 17:30:54,2018-01-19,MBIN,Evans Scott A.,"Lynn Market Pres, Co-COO (1)",A - Grant,0.0,1146,2346,+96%,0.0,,,,,MBIN
+176,,2018-01-23 17:30:39,2018-01-19,MBIN,Dury Michael R.,"Pres P, R Mortgage, Invest (1)",A - Grant,0.0,1336,22311,+6%,0.0,,,,,MBIN
+177,,2018-01-23 17:30:23,2018-01-19,MBIN,Dunlap Michael J.,"Pres, COO",A - Grant,0.0,2864,15789,+22%,0.0,,,,,MBIN
+178,,2018-01-23 17:30:08,2018-01-19,MBIN,Buchanan Bill D.,"SVP, CAO",A - Grant,0.0,372,559,+199%,0.0,,,,,MBIN
+179,A,2017-10-31 16:10:02,2017-10-26,MBIN,Belser Richard L.,SVP (A),P - Purchase,0.0,0,0,-32768%,0.0,,,,,MBIN
+180,,2017-10-31 16:09:16,2017-10-27,MBIN,Shane David N.,Dir,P - Purchase,16.0,3125,8125,+63%,50000.0,,,,,MBIN
+181,,2017-10-31 16:08:56,2017-10-27,MBIN,Sellers Anne E.,Dir,P - Purchase,16.0,625,625,New,10000.0,,,,,MBIN
+182,,2017-10-31 16:08:36,2017-10-27,MBIN,Perry John W.,Dir,P - Purchase,16.0,4250,14250,+43%,68000.0,,,,,MBIN
+183,,2017-10-31 16:08:14,2017-10-27,MBIN,O'Brien Patrick D.,Dir,P - Purchase,16.0,37500,62500,+150%,600000.0,,,,,MBIN
+184,,2017-10-31 16:07:55,2017-10-27,MBIN,Macke John F.,CFO,P - Purchase,16.0,15625,15625,New,250000.0,,,,,MBIN
+185,,2017-10-31 16:07:32,2017-10-27,MBIN,Kucer Susan Dehner,Indianapolis Market Pres (1),P - Purchase,16.0,1250,1250,New,20000.0,,,,,MBIN
+186,,2017-10-31 16:06:56,2017-10-27,MBIN,Koors Jerry F.,Pres (1),P - Purchase,16.0,312,10649,+3%,4992.0,,,,,MBIN
+187,,2017-10-31 16:06:33,2017-10-27,MBIN,Gilroy Sue Anne,Dir,P - Purchase,16.0,1562,1562,New,24992.0,,,,,MBIN
+188,,2017-10-31 16:06:08,2017-10-27,MBIN,Evans Scott A.,"Lynn Market Pres, Co-COO (1)",P - Purchase,16.0,625,1200,+109%,10000.0,,,,,MBIN
+189,,2017-10-31 16:05:45,2017-10-27,MBIN,Dunlap Michael J.,"Pres, Co-COO (1)",P - Purchase,16.0,1500,12925,+13%,24000.0,,,,,MBIN

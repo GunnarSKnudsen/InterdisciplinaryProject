@@ -1,17 +1,575 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2019-11-08 16:11:41,2019-11-07,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$2.28,-2000,13000,-13%,"-$4,561",,,,,INAPQ
-1,,2019-05-14 16:02:52,2019-04-16,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$4.68,-37,12000,0%,-$173,,,,,INAPQ
-2,,2019-04-16 16:08:05,2019-04-15,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$4.63,-75,12037,-1%,-$348,,,,,INAPQ
-3,,2018-11-14 16:53:01,2018-11-12,INAP,Rogers Peter J Jr,Dir,P - Purchase,$6.38,4000,47390,+9%,"+$25,520",,,,,INAPQ
-4,,2018-11-14 16:52:26,2018-11-12,INAP,Pfeiffer Gary M,Dir,P - Purchase,$6.56,10000,53969,+23%,"+$65,600",,,,,INAPQ
-5,,2018-11-08 16:23:28,2018-11-06,INAP,Potts David,Dir,P - Purchase,$6.56,2500,21667,+13%,"+$16,400",,,,,INAPQ
-6,,2018-11-08 16:23:02,2018-11-06,INAP,Wilson Debora J,Dir,P - Purchase,$7.19,7000,96302,+8%,"+$50,330",,,,,INAPQ
-7,M,2018-11-08 16:22:35,2018-11-06,INAP,Aquino Peter D,"Pres, CEO",P - Purchase,$7.06,25000,696296,+4%,"+$176,605",,,,,INAPQ
-8,,2018-11-08 16:22:10,2018-11-07,INAP,Dufresne Joseph,"VP, Corporate Development",P - Purchase,$7.15,3500,15852,+28%,"+$25,025",,,,,INAPQ
-9,,2018-11-08 16:21:41,2018-11-08,INAP,Ramlall Richard,VP Investor Relations,P - Purchase,$7.00,500,24956,+2%,"+$3,500",,,,,INAPQ
-10,,2018-06-14 16:37:50,2018-06-13,INAP,Aquino Peter D,"Pres, CEO",P - Purchase,$11.16,4470,671296,+1%,"+$49,885",,,,,INAPQ
-11,,2018-05-25 16:25:09,2018-05-24,INAP,Wilson Debora J,Dir,P - Purchase,$9.76,2500,78133,+3%,"+$24,400",,,,,INAPQ
-12,,2018-05-23 16:57:12,2018-05-23,INAP,Ramlall Richard,VP Investor Relations,P - Purchase,$9.01,300,25082,+1%,"+$2,703",,,,,INAPQ
-13,,2018-05-09 16:48:51,2018-05-08,INAP,Rogers Peter J Jr,Dir,P - Purchase,$10.63,2500,32253,+8%,"+$26,575",,,,,INAPQ
-14,,2018-05-09 16:47:47,2018-05-08,INAP,Ramlall Richard,VP Investor Relations,P - Purchase,$10.85,100,24782,0%,"+$1,085",,,,,INAPQ
-15,,2018-05-09 16:46:48,2018-05-08,INAP,Dennerlein Robert,CFO,P - Purchase,$10.95,2200,46574,+5%,"+$24,090",,,,,INAPQ
+0,,2020-04-08 16:09:23,2020-04-07,INAP,Sicoli Michael,"Pres, CFO",D - Sale to issuer,$0.00,-75000,75000,-50%,-$0,,,,,INAPQ
+1,,2020-03-24 16:27:02,2020-03-21,INAP,Day Andrew,"EVP, COO",D - Sale to issuer,$0.00,-35112,52175,-40%,-$0,,,,,INAPQ
+2,,2020-03-24 16:27:02,2020-03-21,INAP,Day Andrew,"EVP, COO",F - Tax,$0.12,-6438,52175,-11%,-$773,,,,,INAPQ
+3,,2020-03-24 16:26:37,2020-03-21,INAP,Filipowicz John D,Chief Administrative Officer,D - Sale to issuer,$0.00,-18726,34949,-35%,-$0,,,,,INAPQ
+4,,2020-03-24 16:26:37,2020-03-21,INAP,Filipowicz John D,Chief Administrative Officer,F - Tax,$0.12,-2043,34949,-6%,-$245,,,,,INAPQ
+5,,2020-03-24 16:26:17,2020-03-21,INAP,Herren Christine,"VP, Accounting, Controller",D - Sale to issuer,$0.00,-7959,14287,-36%,-$0,,,,,INAPQ
+6,,2020-03-24 16:26:17,2020-03-21,INAP,Herren Christine,"VP, Accounting, Controller",F - Tax,$0.12,-946,14287,-6%,-$114,,,,,INAPQ
+7,,2020-03-24 16:25:54,2020-03-21,INAP,Diegnan Richard P. Jr,"EVP, GC",D - Sale to issuer,$0.00,-29260,48281,-38%,-$0,,,,,INAPQ
+8,,2020-03-24 16:25:54,2020-03-21,INAP,Diegnan Richard P. Jr,"EVP, GC",F - Tax,$0.12,-5426,48281,-10%,-$651,,,,,INAPQ
+9,,2020-03-24 16:25:32,2020-03-21,INAP,Aquino Peter D,CEO,D - Sale to issuer,$0.00,-168519,576195,-23%,-$0,,,,,INAPQ
+10,,2020-03-24 16:25:32,2020-03-21,INAP,Aquino Peter D,CEO,F - Tax,$0.12,-28312,576195,-5%,"-$3,397",,,,,INAPQ
+11,,2020-03-23 16:08:12,2020-03-19,INAP,Herren Christine,"VP, Accounting, Controller",F - Tax,$0.11,-696,23192,-3%,-$77,,,,,INAPQ
+12,,2020-03-23 16:07:48,2020-03-19,INAP,Diegnan Richard P. Jr,"EVP, GC",F - Tax,$0.11,-2868,82967,-3%,-$315,,,,,INAPQ
+13,,2020-03-23 16:07:22,2020-03-19,INAP,Filipowicz John D,Chief Administrative Officer,F - Tax,$0.11,-1312,55718,-2%,-$144,,,,,INAPQ
+14,,2020-03-23 16:07:01,2020-03-19,INAP,Aquino Peter D,CEO,F - Tax,$0.11,-26558,773026,-3%,"-$2,921",,,,,INAPQ
+15,,2020-03-23 16:06:40,2020-03-19,INAP,Day Andrew,"EVP, COO",F - Tax,$0.11,-3208,93725,-3%,-$353,,,,,INAPQ
+16,,2020-02-18 16:05:55,2020-02-13,INAP,Day Andrew,"EVP, COO",F - Tax,$0.00,-4048,96933,-4%,-$0,,,,,INAPQ
+17,,2020-02-18 16:05:36,2020-02-13,INAP,Filipowicz John D,Chief Administrative Officer,F - Tax,$0.00,-1428,57030,-2%,-$0,,,,,INAPQ
+18,,2020-02-18 16:05:17,2020-02-13,INAP,Diegnan Richard P. Jr,"EVP, GC",F - Tax,$0.00,-2890,85835,-3%,-$0,,,,,INAPQ
+19,,2020-02-18 16:04:56,2020-02-13,INAP,Herren Christine,"VP, Accounting, Controller",F - Tax,$0.00,-522,23888,-2%,-$0,,,,,INAPQ
+20,,2019-11-08 16:11:41,2019-11-07,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$2.28,-2000,13000,-13%,"-$4,561",,,,,INAPQ
+21,,2019-10-01 16:32:37,2019-10-01,INAP,Sicoli Michael,"Pres, CFO",A - Grant,$0.00,150000,150000,New,+$0,,,,,INAPQ
+22,,2019-09-23 16:13:21,2019-09-19,INAP,Aquino Peter D,CEO,D - Sale to issuer,$0.00,-183750,799584,-19%,-$0,,,,,INAPQ
+23,,2019-06-12 16:06:35,2019-06-11,INAP,Keeley James C,CFO,F - Tax,$2.54,-1266,76099,-2%,"-$3,216",,,,,INAPQ
+24,,2019-06-10 16:19:46,2019-06-06,INAP,Potts David,Dir,A - Grant,$0.00,26726,48393,+123%,+$0,,,,,INAPQ
+25,,2019-06-10 16:19:24,2019-06-06,INAP,Wilson Debora J,Dir,A - Grant,$0.00,26726,123028,+28%,+$0,,,,,INAPQ
+26,,2019-06-10 16:19:06,2019-06-06,INAP,Weaver Lance L,Dir,A - Grant,$0.00,26726,45733,+141%,+$0,,,,,INAPQ
+27,,2019-06-10 16:18:49,2019-06-06,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,26726,74116,+56%,+$0,,,,,INAPQ
+28,,2019-06-10 16:18:29,2019-06-06,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,26726,80695,+50%,+$0,,,,,INAPQ
+29,,2019-05-14 16:02:52,2019-04-16,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$4.68,-37,12000,0%,-$173,,,,,INAPQ
+30,,2019-04-16 16:08:05,2019-04-15,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$4.63,-75,12037,-1%,-$348,,,,,INAPQ
+31,,2019-03-25 16:36:11,2019-03-21,INAP,Keeley James C,CFO,A - Grant,$0.00,64373,77365,+495%,+$0,,,,,INAPQ
+32,,2019-03-25 16:35:33,2019-03-21,INAP,Aquino Peter D,"Pres, CEO",A - Grant,$0.00,337038,983334,+52%,+$0,,,,,INAPQ
+33,,2019-03-25 16:34:56,2019-03-21,INAP,Diegnan Richard P. Jr,"EVP, GC",A - Grant,$0.00,58521,88725,+194%,+$0,,,,,INAPQ
+34,,2019-03-25 16:34:18,2019-03-21,INAP,Day Andrew,"EVP, COO",A - Grant,$0.00,70225,100981,+228%,+$0,,,,,INAPQ
+35,,2019-03-25 16:33:40,2019-03-21,INAP,Lanni Joanna E,"VP, Corporate Controller",A - Grant,$0.00,37453,49429,+313%,+$0,,,,,INAPQ
+36,,2019-03-25 16:33:02,2019-03-21,INAP,Dufresne Joseph,"VP, Corporate Development",A - Grant,$0.00,34644,48627,+248%,+$0,,,,,INAPQ
+37,,2019-03-25 16:32:20,2019-03-21,INAP,Ramlall Richard,Chief Communications Officer,A - Grant,$0.00,32772,54762,+149%,+$0,,,,,INAPQ
+38,,2019-03-25 16:31:38,2019-03-21,INAP,Filipowicz John D,Chief Administrative Officer,A - Grant,$0.00,37453,58458,+178%,+$0,,,,,INAPQ
+39,,2019-03-21 16:22:42,2019-03-19,INAP,Ramlall Richard,Chief Communications Officer,F - Tax,$4.80,-1420,21990,-6%,"-$6,816",,,,,INAPQ
+40,,2019-03-21 16:22:03,2019-03-19,INAP,Lanni Joanna E,"VP, Corporate Controller",F - Tax,$4.80,-1770,11976,-13%,"-$8,496",,,,,INAPQ
+41,,2019-03-21 16:21:19,2019-03-19,INAP,Filipowicz John D,Chief Administrative Officer,F - Tax,$4.80,-1314,21005,-6%,"-$6,307",,,,,INAPQ
+42,,2019-03-21 16:20:34,2019-03-19,INAP,Day Andrew,"EVP, COO",F - Tax,$4.80,-2916,30756,-9%,"-$13,997",,,,,INAPQ
+43,,2019-03-21 16:19:55,2019-03-19,INAP,Dufresne Joseph,"VP, Corporate Development",F - Tax,$4.80,-1544,13983,-10%,"-$7,411",,,,,INAPQ
+44,,2019-03-21 16:18:06,2019-03-19,INAP,Diegnan Richard P. Jr,"EVP, GC",F - Tax,$4.80,-1992,30204,-6%,"-$9,562",,,,,INAPQ
+45,,2019-02-15 16:18:09,2019-02-13,INAP,Day Andrew,"EVP, COO",F - Tax,$6.27,-4044,33672,-11%,"-$25,356",,,,,INAPQ
+46,,2019-02-15 16:17:34,2019-02-13,INAP,Diegnan Richard P. Jr,"EVP, GC",F - Tax,$6.27,-2888,32196,-8%,"-$18,108",,,,,INAPQ
+47,,2019-02-15 16:17:00,2019-02-13,INAP,Ramlall Richard,Chief Communications Officer,F - Tax,$6.27,-1546,23410,-6%,"-$9,693",,,,,INAPQ
+48,,2019-02-15 16:16:27,2019-02-13,INAP,Filipowicz John D,Chief Administrative Officer,F - Tax,$6.27,-1428,22319,-6%,"-$8,954",,,,,INAPQ
+49,,2018-11-14 16:53:01,2018-11-12,INAP,Rogers Peter J Jr,Dir,P - Purchase,$6.38,4000,47390,+9%,"+$25,520",,,,,INAPQ
+50,,2018-11-14 16:52:26,2018-11-12,INAP,Pfeiffer Gary M,Dir,P - Purchase,$6.56,10000,53969,+23%,"+$65,600",,,,,INAPQ
+51,,2018-11-08 16:23:28,2018-11-06,INAP,Potts David,Dir,P - Purchase,$6.56,2500,21667,+13%,"+$16,400",,,,,INAPQ
+52,,2018-11-08 16:23:02,2018-11-06,INAP,Wilson Debora J,Dir,P - Purchase,$7.19,7000,96302,+8%,"+$50,330",,,,,INAPQ
+53,M,2018-11-08 16:22:35,2018-11-06,INAP,Aquino Peter D,"Pres, CEO",P - Purchase,$7.06,25000,696296,+4%,"+$176,605",,,,,INAPQ
+54,,2018-11-08 16:22:10,2018-11-07,INAP,Dufresne Joseph,"VP, Corporate Development",P - Purchase,$7.15,3500,15852,+28%,"+$25,025",,,,,INAPQ
+55,,2018-11-08 16:21:41,2018-11-08,INAP,Ramlall Richard,VP Investor Relations,P - Purchase,$7.00,500,24956,+2%,"+$3,500",,,,,INAPQ
+56,,2018-10-02 20:02:43,2018-09-30,INAP,Wilson Debora J,Dir,A - Grant,$0.00,808,89302,+1%,+$0,,,,,INAPQ
+57,,2018-10-02 20:02:19,2018-09-30,INAP,Potts David,Dir,A - Grant,$0.00,909,19167,+5%,+$0,,,,,INAPQ
+58,,2018-10-02 20:01:54,2018-09-30,INAP,Weaver Lance L,Dir,A - Grant,$0.00,707,19007,+4%,+$0,,,,,INAPQ
+59,,2018-10-02 20:01:31,2018-09-30,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,1819,43969,+4%,+$0,,,,,INAPQ
+60,,2018-10-02 16:29:46,2018-09-30,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,758,43390,+2%,+$0,,,,,INAPQ
+61,,2018-07-03 21:47:12,2018-06-30,INAP,Potts David,Dir,A - Grant,$0.00,877,18258,+5%,+$0,,,,,INAPQ
+62,,2018-07-03 21:13:07,2018-06-30,INAP,Wilson Debora J,Dir,A - Grant,$0.00,804,88494,+1%,+$0,,,,,INAPQ
+63,,2018-07-03 19:14:08,2018-06-30,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,822,42632,+2%,+$0,,,,,INAPQ
+64,,2018-07-03 16:35:12,2018-06-30,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,1316,42150,+3%,+$0,,,,,INAPQ
+65,,2018-07-03 16:34:41,2018-06-30,INAP,Weaver Lance L,Dir,A - Grant,$0.00,768,18300,+4%,+$0,,,,,INAPQ
+66,,2018-06-25 16:28:16,2018-06-21,INAP,Filipowicz John D,"VP, HR",F - Tax,$12.98,-568,23747,-2%,"-$7,373",,,,,INAPQ
+67,,2018-06-25 16:27:44,2018-06-21,INAP,Needles Corey J.,"SVP, GM INAP USA",F - Tax,$12.98,-1182,39340,-3%,"-$15,342",,,,,INAPQ
+68,,2018-06-25 16:27:15,2018-06-21,INAP,Dennerlein Robert,Former CFO,F - Tax,$12.98,-1494,45080,-3%,"-$19,392",,,,,INAPQ
+69,,2018-06-25 16:26:40,2018-06-21,INAP,Diegnan Richard P. Jr,"SVP, GC",F - Tax,$12.98,-1222,35084,-3%,"-$15,862",,,,,INAPQ
+70,,2018-06-25 16:26:13,2018-06-21,INAP,Ramlall Richard,VP Investor Relations,F - Tax,$12.98,-626,24456,-2%,"-$8,125",,,,,INAPQ
+71,,2018-06-25 16:25:45,2018-06-21,INAP,Day Andrew,"SVP, GM INAP International",F - Tax,$12.98,-2138,37716,-5%,"-$27,751",,,,,INAPQ
+72,,2018-06-14 16:37:50,2018-06-13,INAP,Aquino Peter D,"Pres, CEO",P - Purchase,$11.16,4470,671296,+1%,"+$49,885",,,,,INAPQ
+73,,2018-06-13 17:01:20,2018-06-11,INAP,Keeley James C,CFO,A - Grant,$0.00,12992,12992,New,+$0,,,,,INAPQ
+74,,2018-06-11 21:52:53,2018-06-07,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,1683,63995,+3%,+$0,,,,,INAPQ
+75,,2018-06-11 20:59:48,2018-06-07,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,9557,40834,+31%,+$0,,,,,INAPQ
+76,,2018-06-11 17:17:26,2018-06-07,INAP,Weaver Lance L,Dir,A - Grant,$0.00,9557,17532,+120%,+$0,,,,,INAPQ
+77,,2018-06-11 17:16:07,2018-06-07,INAP,Coe Charles B,Dir,A - Grant,$0.00,977,37972,+3%,+$0,,,,,INAPQ
+78,,2018-06-11 17:15:43,2018-06-07,INAP,Wilson Debora J,Dir,A - Grant,$0.00,9557,87690,+12%,+$0,,,,,INAPQ
+79,,2018-06-11 17:15:22,2018-06-07,INAP,Potts David,Dir,A - Grant,$0.00,9557,17381,+122%,+$0,,,,,INAPQ
+80,,2018-06-11 17:14:57,2018-06-07,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,9557,41810,+30%,+$0,,,,,INAPQ
+81,,2018-06-11 17:14:34,2018-06-07,INAP,Higgins Patricia,Dir,A - Grant,$0.00,923,38884,+2%,+$0,,,,,INAPQ
+82,,2018-05-25 16:25:09,2018-05-24,INAP,Wilson Debora J,Dir,P - Purchase,$9.76,2500,78133,+3%,"+$24,400",,,,,INAPQ
+83,,2018-05-23 16:57:12,2018-05-23,INAP,Ramlall Richard,VP Investor Relations,P - Purchase,$9.01,300,25082,+1%,"+$2,703",,,,,INAPQ
+84,,2018-05-09 16:48:51,2018-05-08,INAP,Rogers Peter J Jr,Dir,P - Purchase,$10.63,2500,32253,+8%,"+$26,575",,,,,INAPQ
+85,,2018-05-09 16:47:47,2018-05-08,INAP,Ramlall Richard,VP Investor Relations,P - Purchase,$10.85,100,24782,0%,"+$1,085",,,,,INAPQ
+86,,2018-05-09 16:46:48,2018-05-08,INAP,Dennerlein Robert,CFO,P - Purchase,$10.95,2200,46574,+5%,"+$24,090",,,,,INAPQ
+87,,2018-04-09 16:19:52,2018-04-05,INAP,Pfeiffer Gary M,Dir,F - Tax,$11.07,-66,31211,0%,-$731,,,,,INAPQ
+88,,2018-04-03 16:22:35,2018-03-31,INAP,Weaver Lance L,Dir,A - Grant,$0.00,624,7975,+8%,+$0,,,,,INAPQ
+89,,2018-04-03 16:22:17,2018-03-31,INAP,Potts David,Dir,A - Grant,$0.00,669,7824,+9%,+$0,,,,,INAPQ
+90,,2018-04-03 16:22:01,2018-03-31,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,669,29753,+2%,+$0,,,,,INAPQ
+91,,2018-04-03 16:21:18,2018-03-31,INAP,Higgins Patricia,Dir,A - Grant,$0.00,758,37961,+2%,+$0,,,,,INAPQ
+92,,2018-04-03 16:21:01,2018-03-31,INAP,Coe Charles B,Dir,A - Grant,$0.00,713,36995,+2%,+$0,,,,,INAPQ
+93,,2018-04-03 16:20:44,2018-03-31,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,802,31277,+3%,+$0,,,,,INAPQ
+94,,2018-04-03 16:20:06,2018-03-31,INAP,Wilson Debora J,Dir,A - Grant,$0.00,624,75633,+1%,+$0,,,,,INAPQ
+95,,2018-04-03 16:19:23,2018-03-31,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,1382,62312,+2%,+$0,,,,,INAPQ
+96,,2018-03-21 16:30:28,2018-03-19,INAP,Diegnan Richard P. Jr,"SVP, GC",A - Grant,$0.00,15464,36306,+74%,+$0,,,,,INAPQ
+97,,2018-03-21 16:30:28,2018-03-19,INAP,Diegnan Richard P. Jr,"SVP, GC",F - Tax,$12.54,-793,36306,-2%,"-$9,944",,,,,INAPQ
+98,,2018-03-21 16:24:45,2018-03-19,INAP,Lanni Joanna E,"VP, Corporate Controller",A - Grant,$0.00,13746,13746,New,+$0,,,,,INAPQ
+99,,2018-03-21 16:24:29,2018-03-19,INAP,Day Andrew,"SVP, GM INAP International",A - Grant,$0.00,17498,39854,+78%,+$0,,,,,INAPQ
+100,,2018-03-21 16:24:29,2018-03-19,INAP,Day Andrew,"SVP, GM INAP International",F - Tax,$12.54,-953,39854,-2%,"-$11,951",,,,,INAPQ
+101,,2018-03-21 16:23:53,2018-03-19,INAP,Dufresne Joseph,"VP, Corporate Development",A - Grant,$0.00,12027,12352,>999%,+$0,,,,,INAPQ
+102,,2018-03-21 16:23:32,2018-03-19,INAP,Aquino Peter D,"Pres, CEO",A - Grant,$0.00,158076,666826,+31%,+$0,,,,,INAPQ
+103,,2018-03-21 16:23:14,2018-03-19,INAP,Filipowicz John D,"VP, HR",A - Grant,$0.00,12027,24315,+98%,+$0,,,,,INAPQ
+104,,2018-03-21 16:23:14,2018-03-19,INAP,Filipowicz John D,"VP, HR",F - Tax,$12.54,-397,24315,-2%,"-$4,978",,,,,INAPQ
+105,,2018-03-21 16:22:55,2018-03-19,INAP,Dennerlein Robert,CFO,A - Grant,$0.00,18900,44374,+74%,+$0,,,,,INAPQ
+106,,2018-03-21 16:22:55,2018-03-19,INAP,Dennerlein Robert,CFO,F - Tax,$12.54,-969,44374,-2%,"-$12,151",,,,,INAPQ
+107,,2018-03-21 16:22:19,2018-03-19,INAP,Horne Mary Jane,"SVP, Global Network",A - Grant,$0.00,15464,15464,New,+$0,,,,,INAPQ
+108,,2018-03-21 16:22:01,2018-03-19,INAP,Ramlall Richard,VP Investor Relations,A - Grant,$0.00,12027,24682,+95%,+$0,,,,,INAPQ
+109,,2018-03-21 16:21:20,2018-03-19,INAP,Needles Corey J.,"SVP, GM INAP USA",A - Grant,$0.00,17182,40522,+74%,+$0,,,,,INAPQ
+110,,2018-03-21 16:21:20,2018-03-19,INAP,Needles Corey J.,"SVP, GM INAP USA",F - Tax,$12.54,-790,40522,-2%,"-$9,907",,,,,INAPQ
+111,,2018-02-15 16:35:27,2018-02-13,INAP,Filipowicz John D,"VP, HR",F - Tax,$12.66,-397,12685,-3%,"-$5,026",,,,,INAPQ
+112,,2018-02-15 16:35:08,2018-02-13,INAP,Day Andrew,"SVP, GM",F - Tax,$12.66,-953,23309,-4%,"-$12,065",,,,,INAPQ
+113,,2018-02-15 16:34:49,2018-02-13,INAP,Ramlall Richard,VP Investor Relations,F - Tax,$12.66,-427,12655,-3%,"-$5,406",,,,,INAPQ
+114,,2018-02-15 16:34:29,2018-02-13,INAP,Needles Corey J.,"SVP, GM",F - Tax,$12.66,-790,24130,-3%,"-$10,001",,,,,INAPQ
+115,,2018-02-15 16:34:04,2018-02-13,INAP,Diegnan Richard P. Jr,"SVP, GC",F - Tax,$12.66,-793,21635,-4%,"-$10,039",,,,,INAPQ
+116,,2018-02-15 16:33:46,2018-02-13,INAP,Dennerlein Robert,CFO,F - Tax,$12.66,-969,26443,-4%,"-$12,268",,,,,INAPQ
+117,,2018-01-03 16:29:49,2017-12-31,INAP,Weaver Lance L,Dir,A - Grant,$0.00,318,7351,+5%,+$0,,,,,INAPQ
+118,,2018-01-03 16:29:33,2017-12-31,INAP,Potts David,Dir,A - Grant,$0.00,438,7155,+7%,+$0,,,,,INAPQ
+119,,2018-01-03 16:29:15,2017-12-31,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,438,29084,+2%,+$0,,,,,INAPQ
+120,,2018-01-03 16:28:59,2017-12-31,INAP,Wilson Debora J,Dir,A - Grant,$0.00,398,75009,+1%,+$0,,,,,INAPQ
+121,,2018-01-03 16:28:43,2017-12-31,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,1074,60930,+2%,+$0,,,,,INAPQ
+122,,2018-01-03 16:28:24,2017-12-31,INAP,Coe Charles B,Dir,A - Grant,$0.00,477,36282,+1%,+$0,,,,,INAPQ
+123,,2018-01-03 16:28:06,2017-12-31,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,557,30475,+2%,+$0,,,,,INAPQ
+124,,2018-01-03 16:27:49,2017-12-31,INAP,Higgins Patricia,Dir,A - Grant,$0.00,438,37203,+1%,+$0,,,,,INAPQ
+125,,2017-11-20 16:40:27,2017-11-16,INAP,Weaver Lance L,Dir,A - Grant,$0.00,28133,28133,New,+$0,,,,,INAPQ
+126,,2017-10-03 16:49:00,2017-09-30,INAP,Wilson Debora J,Dir,A - Grant,$0.00,1437,298449,0%,+$0,,,,,INAPQ
+127,,2017-10-03 16:48:44,2017-09-30,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,3879,239433,+2%,+$0,,,,,INAPQ
+128,,2017-10-03 16:48:27,2017-09-30,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,1580,114588,+1%,+$0,,,,,INAPQ
+129,,2017-10-03 16:48:11,2017-09-30,INAP,Coe Charles B,Dir,A - Grant,$0.00,1724,143226,+1%,+$0,,,,,INAPQ
+130,,2017-10-03 16:47:56,2017-09-30,INAP,Higgins Patricia,Dir,A - Grant,$0.00,1868,147071,+1%,+$0,,,,,INAPQ
+131,,2017-10-03 16:47:38,2017-09-30,INAP,Potts David,Dir,A - Grant,$0.00,1580,26868,+6%,+$0,,,,,INAPQ
+132,,2017-10-03 16:47:21,2017-09-30,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,2011,119668,+2%,+$0,,,,,INAPQ
+133,A,2017-08-24 18:12:35,2017-06-21,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,32258,113008,+40%,+$0,,,,,INAPQ
+134,A,2017-08-24 18:12:15,2017-06-21,INAP,Higgins Patricia,Dir,A - Grant,$0.00,32258,145203,+29%,+$0,,,,,INAPQ
+135,A,2017-08-24 18:11:56,2017-06-21,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,32258,235554,+16%,+$0,,,,,INAPQ
+136,A,2017-08-24 18:11:38,2017-06-21,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,32258,117657,+38%,+$0,,,,,INAPQ
+137,A,2017-08-24 18:11:21,2017-06-21,INAP,Wilson Debora J,Dir,A - Grant,$0.00,32258,297012,+12%,+$0,,,,,INAPQ
+138,A,2017-08-24 18:11:01,2017-06-21,INAP,Coe Charles B,Dir,A - Grant,$0.00,32258,141502,+30%,+$0,,,,,INAPQ
+139,,2017-08-24 17:04:21,2017-08-22,INAP,Potts David,Dir,A - Grant,$0.00,25288,25288,New,+$0,,,,,INAPQ
+140,,2017-07-27 21:32:39,2017-07-25,INAP,Park West Asset Management LLC,Former 10% Owner,S - Sale,$3.88,-2250000,8203729,-22%,"-$8,723,250",,,,,INAPQ
+141,M,2017-07-25 21:30:16,2017-07-21,INAP,Park West Asset Management LLC,10%,S - Sale,$3.96,-1107700,10453729,-10%,"-$4,385,365",,,,,INAPQ
+142,,2017-07-24 21:31:08,2017-07-20,INAP,Park West Asset Management LLC,10%,S - Sale,$4.19,-125000,11561429,-1%,"-$523,250",,,,,INAPQ
+143,,2017-06-23 11:23:54,2017-06-21,INAP,Weaver Mark,"VP, Corporate Controller",A - Grant,$0.00,27126,55327,+96%,+$0,,,,,INAPQ
+144,,2017-06-23 11:22:44,2017-06-21,INAP,Ramlall Richard,VP Investor Relations,A - Grant,$0.00,25660,52337,+96%,+$0,,,,,INAPQ
+145,,2017-06-23 11:21:26,2017-06-21,INAP,Needles Corey J.,"SVP, GM",A - Grant,$0.00,48876,99689,+96%,+$0,,,,,INAPQ
+146,,2017-06-23 11:19:08,2017-06-21,INAP,Diegnan Richard P. Jr,"SVP, GC",A - Grant,$0.00,43988,89720,+96%,+$0,,,,,INAPQ
+147,,2017-06-23 11:17:52,2017-06-21,INAP,Dennerlein Robert,CFO,A - Grant,$0.00,53763,109657,+96%,+$0,,,,,INAPQ
+148,,2017-06-23 11:16:55,2017-06-21,INAP,Day Andrew,"SVP, GM",A - Grant,$0.00,51320,97052,+112%,+$0,,,,,INAPQ
+149,,2017-06-23 09:19:39,2017-06-21,INAP,Wilson Debora J,Dir,A - Grant,$0.00,35618,297012,+14%,+$0,,,,,INAPQ
+150,,2017-06-23 09:19:04,2017-06-21,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,34702,113008,+44%,+$0,,,,,INAPQ
+151,,2017-06-23 09:18:13,2017-06-21,INAP,Higgins Patricia,Dir,A - Grant,$0.00,36229,145203,+33%,+$0,,,,,INAPQ
+152,,2017-06-23 09:18:13,2017-06-21,INAP,Higgins Patricia,Dir,F - Tax,$3.44,-7642,145203,-5%,"-$26,288",,,,,INAPQ
+153,,2017-06-23 09:17:29,2017-06-21,INAP,Coe Charles B,Dir,A - Grant,$0.00,35924,141502,+34%,+$0,,,,,INAPQ
+154,,2017-06-23 09:16:54,2017-06-21,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,36535,117657,+45%,+$0,,,,,INAPQ
+155,,2017-06-23 09:16:54,2017-06-21,INAP,Pfeiffer Gary M,Dir,F - Tax,$3.44,-7817,117657,-6%,"-$26,890",,,,,INAPQ
+156,,2017-06-23 09:16:00,2017-06-21,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,40506,235554,+21%,+$0,,,,,INAPQ
+157,,2017-06-23 09:15:20,2017-06-21,INAP,Aquino Peter D,"Pres, CEO",A - Grant,$0.00,250000,1835000,+16%,+$0,,,,,INAPQ
+158,M,2017-05-31 12:02:04,2017-05-27,INAP,Rogers Peter J Jr,Dir,P - Purchase,$3.29,15280,78306,+24%,"+$50,314",,,,,INAPQ
+159,,2017-04-07 18:14:39,2017-04-05,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,448,63026,+1%,+$0,-5.0,-2.0,-6.0,,INAPQ
+160,,2017-04-07 18:13:05,2017-04-05,INAP,Higgins Patricia,Dir,A - Grant,$0.00,728,116616,+1%,+$0,-5.0,-2.0,-6.0,,INAPQ
+161,,2017-04-07 18:12:26,2017-04-05,INAP,Coe Charles B,Dir,A - Grant,$0.00,672,105578,+1%,+$0,-5.0,-2.0,-6.0,,INAPQ
+162,,2017-04-07 18:11:40,2017-04-05,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,784,88939,+1%,+$0,-5.0,-2.0,-6.0,,INAPQ
+163,,2017-04-07 18:11:01,2017-04-05,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,1512,195048,+1%,+$0,-5.0,-2.0,-6.0,,INAPQ
+164,,2017-04-07 17:59:20,2017-04-05,INAP,Wilson Debora J,Dir,A - Grant,$0.00,616,261394,0%,+$0,-5.0,-2.0,-6.0,,INAPQ
+165,,2017-02-14 17:21:03,2017-02-13,INAP,Diegnan Richard P. Jr,"SVP, GC",A - Grant,$0.00,45732,45732,New,+$0,-1.0,2.0,86.0,,INAPQ
+166,,2017-02-14 17:04:56,2017-02-13,INAP,Needles Corey J.,"SVP, GM",A - Grant,$0.00,50813,50813,New,+$0,-1.0,2.0,86.0,,INAPQ
+167,,2017-01-17 16:41:12,2017-01-12,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$1.92,-3000,193088,-2%,"-$5,760",-5.0,-9.0,-1.0,,INAPQ
+168,,2017-01-13 17:09:53,2016-12-31,INAP,Bell Peter George,"SVP, Global Sales",F - Tax,$1.86,-5784,72232,-7%,"-$10,758",-5.0,-13.0,-3.0,,INAPQ
+169,,2016-12-05 16:06:01,2016-12-01,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",F - Tax,$1.03,-8468,117181,-7%,"-$8,722",9.0,0.0,82.0,,INAPQ
+170,,2016-12-05 16:04:48,2016-12-01,INAP,Hemachandran Satish,"SVP, GM, Cloud, Hosting",F - Tax,$1.03,-5205,62784,-8%,"-$5,361",9.0,0.0,82.0,,INAPQ
+171,,2016-12-05 16:03:47,2016-12-01,INAP,Dotts Kevin M,CFO,F - Tax,$1.03,-9057,191515,-5%,"-$9,329",9.0,0.0,82.0,,INAPQ
+172,,2016-10-03 18:02:39,2016-09-29,INAP,Hemachandran Satish,"SVP, GM, Cloud, Hosting",F - Tax,$1.72,-1668,67989,-2%,"-$2,869",2.0,5.0,-24.0,125.0,INAPQ
+173,,2016-10-03 18:01:43,2016-10-01,INAP,Bell Peter George,"SVP, Global Sales",F - Tax,$1.65,-2399,78016,-3%,"-$3,958",2.0,5.0,-24.0,125.0,INAPQ
+174,,2016-09-21 16:11:22,2016-09-19,INAP,Rogers Peter J Jr,Dir,A - Grant,$0.00,62578,62578,New,+$0,-2.0,-6.0,-23.0,96.0,INAPQ
+175,,2016-09-21 16:06:59,2016-09-19,INAP,Aquino Peter D,"Pres, CEO",A - Grant,$0.00,1585000,1785000,+793%,+$0,-2.0,-6.0,-23.0,96.0,INAPQ
+176,,2016-09-15 16:23:46,2016-09-14,INAP,Stanzione Daniel,Dir,P - Purchase,$1.93,50000,193536,+35%,"+$96,450",6.0,6.0,-9.0,93.0,INAPQ
+177,,2016-09-01 17:06:32,2016-08-30,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",F - Tax,$2.16,-3631,125649,-3%,"-$7,843",3.0,-2.0,-28.0,0.0,INAPQ
+178,,2016-09-01 17:05:12,2016-08-30,INAP,Hemachandran Satish,"SVP, GM, Cloud, Hosting",F - Tax,$2.16,-2232,69657,-3%,"-$4,821",3.0,-2.0,-28.0,0.0,INAPQ
+179,,2016-09-01 17:00:58,2016-08-30,INAP,Dotts Kevin M,CFO,F - Tax,$2.16,-12221,200572,-6%,"-$26,397",3.0,-2.0,-28.0,0.0,INAPQ
+180,,2016-09-01 17:00:13,2016-08-30,INAP,Bell Peter George,"SVP, Global Sales",F - Tax,$2.16,-2141,80415,-3%,"-$4,625",3.0,-2.0,-28.0,0.0,INAPQ
+181,,2016-06-22 16:18:11,2016-06-21,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",F - Tax,$2.40,-2366,129280,-2%,"-$5,678",3.0,-8.0,4.0,-53.0,INAPQ
+182,,2016-05-27 17:59:54,2016-05-27,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,23404,88155,+36%,+$0,-3.0,1.0,-5.0,-50.0,INAPQ
+183,,2016-05-27 17:59:54,2016-05-26,INAP,Pfeiffer Gary M,Dir,F - Tax,$2.20,-4059,88155,-4%,"-$8,930",-3.0,1.0,-5.0,-50.0,INAPQ
+184,,2016-05-27 17:49:31,2016-05-27,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,23404,143536,+19%,+$0,-3.0,1.0,-5.0,-50.0,INAPQ
+185,,2016-05-27 17:45:35,2016-05-27,INAP,Wilson Debora J,Dir,A - Grant,$0.00,23404,260778,+10%,+$0,-3.0,1.0,-5.0,-50.0,INAPQ
+186,,2016-05-27 17:41:09,2016-05-27,INAP,Coe Charles B,Dir,A - Grant,$0.00,23404,104906,+29%,+$0,-3.0,1.0,-5.0,-50.0,INAPQ
+187,,2016-05-27 17:15:35,2016-05-27,INAP,Higgins Patricia,Dir,A - Grant,$0.00,23404,115888,+25%,+$0,-3.0,1.0,-5.0,-50.0,INAPQ
+188,,2016-05-12 16:34:25,2016-05-11,INAP,Ruffolo Michael,"Pres, CEO",F - Tax,$2.41,-41531,400184,-9%,"-$100,090",-2.0,-6.0,3.0,-50.0,INAPQ
+189,,2016-04-21 14:05:16,2016-04-19,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$2.63,-2000,196088,-1%,"-$5,261",0.0,1.0,-22.0,-46.0,INAPQ
+190,M,2016-04-05 17:16:30,2016-04-01,INAP,Avenir Corp,10%,S - Sale,$2.49,-75243,5575145,-1%,"-$187,387",4.0,-1.0,-22.0,-32.0,INAPQ
+191,M,2016-03-31 17:45:15,2016-03-29,INAP,Avenir Corp,10%,S - Sale,$2.70,-5641,5650388,0%,"-$15,236",-7.0,-6.0,-5.0,-35.0,INAPQ
+192,,2016-03-31 14:28:10,2016-03-30,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$2.75,-3000,198088,-1%,"-$8,250",-1.0,-7.0,-6.0,-37.0,INAPQ
+193,A,2016-03-28 21:22:02,2016-03-22,INAP,Avenir Corp,10%,S - Sale,$2.65,-6298,5666592,0%,"-$16,690",6.0,1.0,4.0,-28.0,INAPQ
+194,,2016-03-24 21:43:31,2016-03-22,INAP,Avenir Corp,10%,S - Sale,$2.65,-6298,5666592,0%,"-$16,690",-2.0,6.0,10.0,-28.0,INAPQ
+195,,2016-03-07 15:50:04,2016-03-04,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$2.88,-2000,201088,-1%,"-$5,760",1.0,-9.0,-17.0,-22.0,INAPQ
+196,,2016-02-26 17:19:42,2016-02-24,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",F - Tax,$2.26,-1125,131646,-1%,"-$2,543",0.0,10.0,-1.0,-15.0,INAPQ
+197,,2016-02-24 07:22:45,2016-02-23,INAP,Wilson Debora J,Dir,P - Purchase,$2.14,100000,237374,+73%,"+$213,740",8.0,29.0,23.0,8.0,INAPQ
+198,,2016-02-24 07:21:48,2016-02-23,INAP,Stanzione Daniel,Dir,P - Purchase,$2.11,20000,120132,+20%,"+$42,200",8.0,29.0,23.0,8.0,INAPQ
+199,,2016-02-24 07:20:45,2016-02-23,INAP,Dotts Kevin M,CFO,P - Purchase,$2.08,24000,212793,+13%,"+$49,838",8.0,29.0,23.0,8.0,INAPQ
+200,,2016-02-24 07:19:41,2016-02-23,INAP,Ruffolo Michael,"Pres, CEO",P - Purchase,$2.15,25000,441715,+6%,"+$53,723",8.0,29.0,23.0,8.0,INAPQ
+201,D,2016-02-23 18:43:57,2016-02-22,INAP,Ruffolo Michael,"Pres, CEO",A - Grant,$0.00,83118,416715,+25%,+$0,8.0,23.0,31.0,10.0,INAPQ
+202,D,2016-02-23 18:16:25,2016-02-22,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",A - Grant,$0.00,47464,132771,+56%,+$0,8.0,23.0,31.0,10.0,INAPQ
+203,DM,2016-02-23 18:16:25,2016-02-20,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",F - Tax,$2.11,-3239,132771,-2%,"-$6,834",8.0,23.0,31.0,10.0,INAPQ
+204,D,2016-02-23 18:15:25,2016-02-22,INAP,Hemachandran Satish,"SVP, GM, Cloud, Hosting",A - Grant,$0.00,44489,71889,+162%,+$0,8.0,23.0,31.0,10.0,INAPQ
+205,D,2016-02-23 18:14:05,2016-02-22,INAP,Dotts Kevin M,CFO,A - Grant,$0.00,73266,188793,+63%,+$0,8.0,23.0,31.0,10.0,INAPQ
+206,DM,2016-02-23 18:14:05,2016-02-20,INAP,Dotts Kevin M,CFO,F - Tax,$2.11,-3518,188793,-2%,"-$7,423",8.0,23.0,31.0,10.0,INAPQ
+207,D,2016-02-23 18:11:47,2016-02-22,INAP,Bell Peter George,"SVP, Global Sales",A - Grant,$0.00,44489,82556,+117%,+$0,8.0,23.0,31.0,10.0,INAPQ
+208,D,2016-02-23 18:11:47,2016-02-20,INAP,Bell Peter George,"SVP, Global Sales",F - Tax,$2.11,-900,82556,-1%,"-$1,899",8.0,23.0,31.0,10.0,INAPQ
+209,,2016-02-22 16:04:09,2016-02-19,INAP,"Gamco Investors, Inc. Et Al",10%,P - Purchase,$1.93,18000,203088,+10%,"+$34,740",4.0,27.0,37.0,12.0,INAPQ
+210,,2016-01-14 16:42:20,2016-01-12,INAP,Hemachandran Satish,"SVP, GM, Cloud, Hosting",F - Tax,$4.73,-967,27400,-3%,"-$4,574",-6.0,-13.0,-34.0,-45.0,INAPQ
+211,,2015-10-05 16:18:19,2015-10-01,INAP,Bell Peter George,"SVP, Global Sales",F - Tax,$6.02,-2052,38967,-5%,"-$12,353",0.0,2.0,15.0,-62.0,INAPQ
+212,,2015-10-01 21:22:13,2015-09-29,INAP,Hemachandran Satish,"SVP, GM, Cloud, Hosting",F - Tax,$5.81,-1633,28367,-5%,"-$9,480",3.0,7.0,9.0,-57.0,INAPQ
+213,,2015-09-14 16:00:32,2015-09-10,INAP,"Gamco Investors, Inc. Et Al",10%,P - Purchase,$9.05,150,32450,0%,"+$1,358",0.0,-1.0,-29.0,-66.0,INAPQ
+214,,2015-09-04 10:24:39,2015-09-01,INAP,"Gamco Investors, Inc. Et Al",10%,P - Purchase,$8.93,7200,32300,+29%,"+$64,296",1.0,0.0,-31.0,-67.0,INAPQ
+215,,2015-08-31 16:16:07,2015-08-30,INAP,Dotts Kevin M,CFO,F - Tax,$8.05,-8338,119045,-7%,"-$67,121",13.0,16.0,-27.0,-65.0,INAPQ
+216,,2015-08-11 17:20:14,2015-08-09,INAP,Ruffolo Michael,"Pres, CEO",F - Tax,$8.65,-42756,333597,-11%,"-$369,839",-1.0,0.0,4.0,-67.0,INAPQ
+217,,2015-06-22 18:42:46,2015-06-21,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",F - Tax,$9.27,-2401,88546,-3%,"-$22,257",0.0,1.0,5.0,-32.0,INAPQ
+218,,2015-06-01 16:41:42,2015-05-30,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,12152,68810,+21%,+$0,-3.0,-4.0,-4.0,-26.0,INAPQ
+219,,2015-06-01 16:41:42,2015-05-29,INAP,Pfeiffer Gary M,Dir,F - Tax,$9.74,-4486,68810,-6%,"-$43,694",-3.0,-4.0,-4.0,-26.0,INAPQ
+220,,2015-06-01 16:40:29,2015-05-29,INAP,Ruffolo Michael,"Pres, CEO",F - Tax,$9.74,-5514,376353,-1%,"-$53,706",-3.0,-4.0,-4.0,-26.0,INAPQ
+221,,2015-06-01 16:34:24,2015-05-30,INAP,Coe Charles B,Dir,A - Grant,$0.00,12152,81502,+18%,+$0,-3.0,-4.0,-4.0,-26.0,INAPQ
+222,,2015-06-01 16:33:23,2015-05-30,INAP,Higgins Patricia,Dir,A - Grant,$0.00,12152,92484,+15%,+$0,-3.0,-4.0,-4.0,-26.0,INAPQ
+223,,2015-06-01 16:32:33,2015-05-30,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,12152,100132,+14%,+$0,-3.0,-4.0,-4.0,-26.0,INAPQ
+224,,2015-06-01 16:31:36,2015-05-30,INAP,Wilson Debora J,Dir,A - Grant,$0.00,12152,137374,+10%,+$0,-3.0,-4.0,-4.0,-26.0,INAPQ
+225,,2015-05-13 16:05:49,2015-05-12,INAP,Ruffolo Michael,"Pres, CEO",P - Purchase,$9.48,10560,381867,+3%,"+$100,123",3.0,3.0,-3.0,-24.0,INAPQ
+226,D,2015-05-12 20:59:51,2015-05-11,INAP,Ruffolo Michael,"Pres, CEO",A - Grant,$0.00,300000,371307,+421%,+$0,0.0,5.0,-6.0,-21.0,INAPQ
+227,D,2015-04-16 16:57:01,2015-04-15,INAP,Stanzione Daniel,Dir,M - OptEx,$4.60,27000,87980,+44%,"+$124,200",-2.0,1.0,-8.0,-42.0,INAPQ
+228,D,2015-04-16 16:57:01,2015-04-15,INAP,Stanzione Daniel,Dir,S - Sale+OE,$10.48,-27000,87980,-23%,"-$283,052",-2.0,1.0,-8.0,-42.0,INAPQ
+229,,2015-03-18 18:11:05,2015-03-16,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$9.86,-23975,923288,-3%,"-$236,394",1.0,-1.0,7.0,-10.0,INAPQ
+230,D,2015-03-18 16:09:28,2015-03-16,INAP,Coe Charles B,Dir,M - OptEx,$4.60,2000,69350,+3%,"+$9,200",1.0,-1.0,7.0,-10.0,INAPQ
+231,D,2015-02-24 17:29:51,2015-02-20,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",A - Grant,$0.00,13216,90947,+17%,+$0,1.0,3.0,5.0,-12.0,INAPQ
+232,DM,2015-02-24 17:29:51,2015-02-21,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",F - Tax,$9.17,-1891,90947,-2%,"-$17,332",1.0,3.0,5.0,-12.0,INAPQ
+233,D,2015-02-24 17:22:01,2015-02-20,INAP,Cooney James Eric,"CEO, Pres",A - Grant,$0.00,47496,947263,+5%,+$0,1.0,3.0,5.0,-12.0,INAPQ
+234,DM,2015-02-24 17:22:01,2015-02-21,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$9.17,-6537,947263,-1%,"-$59,953",1.0,3.0,5.0,-12.0,INAPQ
+235,D,2015-02-24 17:20:39,2015-02-20,INAP,Dotts Kevin M,CFO,A - Grant,$0.00,19777,127383,+18%,+$0,1.0,3.0,5.0,-12.0,INAPQ
+236,D,2015-02-24 17:20:39,2015-02-21,INAP,Dotts Kevin M,CFO,F - Tax,$9.04,-1606,127383,-1%,"-$14,518",1.0,3.0,5.0,-12.0,INAPQ
+237,D,2015-02-24 17:17:32,2015-02-20,INAP,Bell Peter George,"SVP, Global Sales",A - Grant,$0.00,11019,41019,+37%,+$0,1.0,3.0,5.0,-12.0,INAPQ
+238,D,2015-01-12 16:31:50,2015-01-12,INAP,Hemachandran Satish,"SVP, GM, Cloud, Hosting",A - Grant,$0.00,10000,30000,+50%,+$0,2.0,6.0,8.0,17.0,INAPQ
+239,,2014-12-10 17:43:57,2014-12-09,INAP,Primeau Christian,"SVP, GM, Cloud, Hosting",F - Tax,$7.75,-16667,83333,-17%,"-$129,169",1.0,-5.0,8.0,20.0,INAPQ
+240,D,2014-11-13 19:11:38,2014-11-11,INAP,Higgins Patricia,Dir,M - OptEx,$4.60,27000,80332,+51%,"+$124,200",0.0,-4.0,-8.0,22.0,INAPQ
+241,D,2014-11-13 19:11:38,2014-11-11,INAP,Higgins Patricia,Dir,S - Sale+OE,$8.06,-20377,80332,-20%,"-$164,332",0.0,-4.0,-8.0,22.0,INAPQ
+242,D,2014-10-03 21:07:57,2014-10-01,INAP,Bell Peter George,"SVP, Global Sales",A - Grant,$0.00,30000,30000,New,+$0,-1.0,-3.0,17.0,50.0,INAPQ
+243,,2014-09-03 17:17:30,2014-08-30,INAP,Dotts Kevin M,CFO,F - Tax,$6.84,-8338,109212,-7%,"-$57,032",1.0,1.0,-2.0,44.0,INAPQ
+244,,2014-06-23 16:32:27,2014-06-21,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",F - Tax,$7.18,-1696,79622,-2%,"-$12,177",-1.0,0.0,-5.0,10.0,INAPQ
+245,,2014-06-18 16:30:18,2014-06-16,INAP,Coe Charles B,Dir,P - Purchase,$6.86,12000,67350,+22%,"+$82,355",3.0,1.0,-4.0,4.0,INAPQ
+246,,2014-06-03 16:56:50,2014-05-31,INAP,Wilson Debora J,Dir,A - Grant,$0.00,13430,125222,+12%,+$0,0.0,8.0,8.0,18.0,INAPQ
+247,,2014-06-03 16:56:03,2014-05-31,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,13430,87980,+18%,+$0,0.0,8.0,8.0,18.0,INAPQ
+248,,2014-06-03 16:54:37,2014-05-31,INAP,Ruffolo Michael,Dir,A - Grant,$0.00,13430,71307,+23%,+$0,0.0,8.0,8.0,18.0,INAPQ
+249,,2014-06-03 16:53:16,2014-05-31,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,13430,61144,+28%,+$0,0.0,8.0,8.0,18.0,INAPQ
+250,,2014-06-03 16:53:16,2014-05-30,INAP,Pfeiffer Gary M,Dir,F - Tax,$7.16,-3908,61144,-6%,"-$27,981",0.0,8.0,8.0,18.0,INAPQ
+251,,2014-06-03 16:52:14,2014-05-31,INAP,Higgins Patricia,Dir,A - Grant,$0.00,13430,73709,+22%,+$0,0.0,8.0,8.0,18.0,INAPQ
+252,,2014-06-03 16:51:32,2014-05-31,INAP,Coe Charles B,Dir,A - Grant,$0.00,13430,55350,+32%,+$0,0.0,8.0,8.0,18.0,INAPQ
+253,,2014-05-05 07:13:46,2014-05-02,INAP,Cooney James Eric,"CEO, Pres",P - Purchase,$6.73,15000,906304,+2%,"+$101,010",4.0,6.0,0.0,15.0,INAPQ
+254,,2014-04-30 16:40:56,2014-04-29,INAP,Wilson Debora J,Dir,P - Purchase,$6.79,10000,111792,+10%,"+$67,900",-1.0,2.0,6.0,3.0,INAPQ
+255,,2014-04-29 12:52:51,2014-04-28,INAP,"Gamco Investors, Inc. Et Al",10%,P - Purchase,$6.60,300,25300,+1%,"+$1,980",0.0,5.0,7.0,2.0,INAPQ
+256,,2014-03-18 18:17:56,2014-03-14,INAP,Dotts Kevin M,CFO,P - Purchase,$7.34,10000,117550,+9%,"+$73,416",1.0,-1.0,-9.0,-10.0,INAPQ
+257,,2014-03-18 18:16:18,2014-03-16,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$7.40,-34474,891304,-4%,"-$255,108",1.0,-1.0,-9.0,-10.0,INAPQ
+258,,2014-03-03 17:10:17,2014-02-28,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$7.77,-1000,25000,-4%,"-$7,770",3.0,1.0,-7.0,-11.0,INAPQ
+259,M,2014-02-27 17:14:33,2014-02-25,INAP,Orchard Steven Andrew,"SVP, GM, Data Ctr, Ntwk Svcs",F - Tax,$7.68,-1536,81318,-2%,"-$11,798",0.0,1.0,-8.0,-10.0,INAPQ
+260,,2014-02-27 17:13:38,2014-02-26,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$7.66,-2633,925778,0%,"-$20,169",0.0,1.0,-8.0,-10.0,INAPQ
+261,D,2014-02-25 20:39:25,2014-02-21,INAP,Orchard Steven Andrew,"SVP, Development, Operations",A - Grant,$0.00,11105,82854,+15%,+$0,-1.0,-2.0,-6.0,-11.0,INAPQ
+262,D,2014-02-25 20:39:25,2014-02-24,INAP,Orchard Steven Andrew,"SVP, Development, Operations",F - Tax,$7.91,-817,82854,-1%,"-$6,462",-1.0,-2.0,-6.0,-11.0,INAPQ
+263,D,2014-02-25 18:32:36,2014-02-21,INAP,Dotts Kevin M,CFO,A - Grant,$0.00,16618,107550,+18%,+$0,-1.0,-2.0,-6.0,-11.0,INAPQ
+264,D,2014-02-25 18:32:03,2014-02-21,INAP,Cooney James Eric,"CEO, Pres",A - Grant,$0.00,39909,928411,+4%,+$0,-1.0,-2.0,-6.0,-11.0,INAPQ
+265,D,2014-02-25 18:32:03,2014-02-24,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$7.91,-3133,928411,0%,"-$24,782",-1.0,-2.0,-6.0,-11.0,INAPQ
+266,,2014-01-02 18:40:54,2013-12-30,INAP,Orchard Steven Andrew,"SVP, Development, Operations",F - Tax,$7.34,-5559,72566,-7%,"-$40,803",2.0,3.0,12.0,-1.0,INAPQ
+267,,2014-01-02 18:35:49,2013-12-30,INAP,Callahan Stephen David,"SVP, Global Sales",F - Tax,$7.34,-3027,32822,-8%,"-$22,218",2.0,3.0,12.0,-1.0,INAPQ
+268,D,2013-10-30 18:30:23,2013-10-28,INAP,Callahan Stephen David,"SVP, Global Sales",A - Grant,$0.00,25000,35849,+230%,+$0,2.0,3.0,7.0,-7.0,INAPQ
+269,,2013-09-23 17:46:54,2013-09-19,INAP,Shank Richard Anthony,"SVP, Global Sales",F - Tax,$6.97,-3382,35393,-9%,"-$23,573",1.0,-4.0,-5.0,1.0,INAPQ
+270,,2013-08-30 19:07:05,2013-08-30,INAP,Dotts Kevin M,CFO,F - Tax,$7.30,-9068,90932,-9%,"-$66,196",1.0,-2.0,-5.0,4.0,INAPQ
+271,,2013-07-16 16:16:15,2013-07-14,INAP,Orchard Steven Andrew,"SVP, Development, Operations",F - Tax,$8.82,-503,78125,-1%,"-$4,436",0.0,-1.0,-9.0,-14.0,INAPQ
+272,,2013-06-24 18:28:02,2013-06-21,INAP,Orchard Steven Andrew,"SVP, Development, Operations",F - Tax,$7.87,-1846,78628,-2%,"-$14,528",1.0,4.0,11.0,-12.0,INAPQ
+273,,2013-06-18 16:47:47,2013-06-17,INAP,Pfeiffer Gary M,Dir,F - Tax,$7.94,-916,51622,-2%,"-$7,273",-3.0,-4.0,6.0,-14.0,INAPQ
+274,,2013-05-20 17:34:28,2013-05-17,INAP,Coe Charles B,Dir,A - Grant,$0.00,11700,41920,+39%,+$0,3.0,1.0,5.0,-9.0,INAPQ
+275,,2013-05-20 17:33:56,2013-05-17,INAP,Higgins Patricia,Dir,A - Grant,$0.00,11700,60279,+24%,+$0,3.0,1.0,5.0,-9.0,INAPQ
+276,,2013-05-20 17:33:15,2013-05-17,INAP,Ruffolo Michael,Dir,A - Grant,$0.00,11700,57877,+25%,+$0,3.0,1.0,5.0,-9.0,INAPQ
+277,,2013-05-20 17:32:16,2013-05-17,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,11700,74550,+19%,+$0,3.0,1.0,5.0,-9.0,INAPQ
+278,,2013-05-20 17:27:17,2013-05-17,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,11700,52538,+29%,+$0,3.0,1.0,5.0,-9.0,INAPQ
+279,,2013-05-20 17:27:17,2013-05-16,INAP,Pfeiffer Gary M,Dir,F - Tax,$8.20,-3875,52538,-7%,"-$31,775",3.0,1.0,5.0,-9.0,INAPQ
+280,,2013-05-20 17:25:23,2013-05-17,INAP,Wilson Debora J,Dir,A - Grant,$0.00,11700,101792,+13%,+$0,3.0,1.0,5.0,-9.0,INAPQ
+281,,2013-03-27 18:15:35,2013-03-25,INAP,Orchard Steven Andrew,"SVP, Development, Operations",F - Tax,$9.43,-1334,80474,-2%,"-$12,580",1.0,-7.0,-9.0,-22.0,INAPQ
+282,,2013-03-26 16:15:37,2013-03-25,INAP,"Gamco Investors, Inc. Et Al",10%,S - Sale,$9.46,-1000,26000,-4%,"-$9,460",-1.0,-1.0,-10.0,-23.0,INAPQ
+283,,2013-03-19 17:25:58,2013-03-16,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$8.73,-83913,891635,-9%,"-$732,560",1.0,7.0,-5.0,-24.0,INAPQ
+284,D,2013-03-18 17:49:58,2013-03-14,INAP,Ober Kevin,Dir,M - OptEx,$5.40,5000,39449,+15%,"+$27,000",1.0,5.0,-2.0,-19.0,INAPQ
+285,D,2013-03-18 17:49:58,2013-03-14,INAP,Ober Kevin,Dir,S - Sale+OE,$8.75,-5000,39449,-11%,"-$43,750",1.0,5.0,-2.0,-19.0,INAPQ
+286,M,2013-03-07 18:09:45,2013-03-06,INAP,Coe Charles B,Dir,S - Sale,$8.94,-28630,74070,-28%,"-$256,032",0.0,-3.0,-6.0,-19.0,INAPQ
+287,DM,2013-02-26 18:38:12,2013-02-24,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$8.62,-6736,975548,-1%,"-$58,036",0.0,1.0,10.0,-8.0,INAPQ
+288,D,2013-02-26 18:33:26,2013-02-24,INAP,Shank Richard Anthony,"SVP, Global Sales",F - Tax,$8.72,-748,38775,-2%,"-$6,523",0.0,1.0,10.0,-8.0,INAPQ
+289,DM,2013-02-26 18:30:49,2013-02-24,INAP,Orchard Steven Andrew,"SVP, Development, Operations",F - Tax,$8.68,-2353,81808,-3%,"-$20,422",0.0,1.0,10.0,-8.0,INAPQ
+290,,2012-12-31 16:55:03,2012-12-30,INAP,Orchard Steven Andrew,"SVP, Development, Operations",F - Tax,$6.83,-2909,84161,-3%,"-$19,868",3.0,3.0,12.0,25.0,INAPQ
+291,D,2012-12-13 16:38:04,2012-12-11,INAP,Ober Kevin,Dir,M - OptEx,$3.51,4133,39449,+12%,"+$14,507",-3.0,1.0,13.0,26.0,INAPQ
+292,D,2012-12-13 16:38:04,2012-12-11,INAP,Ober Kevin,Dir,S - Sale+OE,$6.20,-4133,39449,-9%,"-$25,625",-3.0,1.0,13.0,26.0,INAPQ
+293,,2012-11-19 17:31:25,2012-11-16,INAP,Cooney James Eric,"CEO, Pres",P - Purchase,$5.62,20000,982284,+2%,"+$112,416",2.0,6.0,11.0,41.0,INAPQ
+294,,2012-11-13 16:47:24,2012-11-09,INAP,Wilson Debora J,Dir,P - Purchase,$5.81,10000,90092,+12%,"+$58,072",-2.0,-5.0,3.0,34.0,INAPQ
+295,,2012-09-20 18:19:39,2012-09-19,INAP,Shank Richard Anthony,"SVP, Global Sales",F - Tax,$7.37,-3207,39523,-8%,"-$23,636",2.0,2.0,8.0,33.0,INAPQ
+296,D,2012-09-13 17:52:03,2012-09-11,INAP,Orchard Steven Andrew,"SVP, Development, Operations",M - OptEx,$4.80,3535,87070,+4%,"+$16,968",-2.0,0.0,1.0,18.0,INAPQ
+297,D,2012-09-13 17:52:03,2012-09-11,INAP,Orchard Steven Andrew,"SVP, Development, Operations",S - Sale+OE,$7.20,-3535,87070,-4%,"-$25,458",-2.0,0.0,1.0,18.0,INAPQ
+298,D,2012-08-31 16:40:12,2012-08-30,INAP,Dotts Kevin M,CFO,A - Grant,$0.00,100000,100000,New,+$0,0.0,0.0,-2.0,25.0,INAPQ
+299,,2012-08-03 18:00:56,2012-08-01,INAP,Wilson Debora J,Dir,P - Purchase,$6.35,10000,80092,+14%,"+$63,514",4.0,9.0,11.0,25.0,INAPQ
+300,,2012-07-17 20:02:38,2012-07-14,INAP,Orchard Steven Andrew,"SVP, Development, Operations",F - Tax,$7.07,-569,87070,-1%,"-$4,023",0.0,-5.0,3.0,3.0,INAPQ
+301,,2012-06-25 16:13:54,2012-06-21,INAP,Orchard Steven Andrew,"SVP, Development, Operations",A - Grant,$0.00,20000,87639,+30%,+$0,2.0,3.0,-1.0,4.0,INAPQ
+302,,2012-06-18 17:38:13,2012-06-15,INAP,Wilson Debora J,Dir,A - Grant,$0.00,11600,70092,+20%,+$0,2.0,-1.0,3.0,-6.0,INAPQ
+303,,2012-06-18 17:37:46,2012-06-15,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,11600,62850,+23%,+$0,2.0,-1.0,3.0,-6.0,INAPQ
+304,,2012-06-18 17:37:17,2012-06-15,INAP,Ruffolo Michael,Dir,A - Grant,$0.00,11600,46177,+34%,+$0,2.0,-1.0,3.0,-6.0,INAPQ
+305,,2012-06-18 17:36:44,2012-06-15,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,11600,44713,+35%,+$0,2.0,-1.0,3.0,-6.0,INAPQ
+306,M,2012-06-18 17:36:44,2012-06-14,INAP,Pfeiffer Gary M,Dir,F - Tax,$6.60,-5351,44713,-11%,"-$35,334",2.0,-1.0,3.0,-6.0,INAPQ
+307,,2012-06-18 17:36:06,2012-06-15,INAP,Ober Kevin,Dir,A - Grant,$0.00,11600,39449,+42%,+$0,2.0,-1.0,3.0,-6.0,INAPQ
+308,,2012-06-18 17:35:29,2012-06-15,INAP,Higgins Patricia,Dir,A - Grant,$0.00,11600,48579,+31%,+$0,2.0,-1.0,3.0,-6.0,INAPQ
+309,,2012-06-18 17:34:55,2012-06-15,INAP,Coe Charles B,Dir,A - Grant,$0.00,11600,58850,+25%,+$0,2.0,-1.0,3.0,-6.0,INAPQ
+310,,2012-04-09 17:02:12,2012-04-07,INAP,Kilguss George E III,CFO,F - Tax,$7.17,-16225,201359,-7%,"-$116,333",-4.0,1.0,11.0,3.0,INAPQ
+311,,2012-03-26 18:45:27,2012-03-25,INAP,Kilguss George E III,CFO,F - Tax,$7.35,-3403,217584,-2%,"-$25,012",-3.0,-4.0,-10.0,-6.0,INAPQ
+312,M,2012-03-26 18:39:46,2012-03-20,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$7.35,-1319,67639,-2%,"-$9,700",-3.0,-4.0,-10.0,-6.0,INAPQ
+313,,2012-03-20 17:30:15,2012-03-16,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$7.45,-61969,962284,-6%,"-$461,669",0.0,2.0,-6.0,-2.0,INAPQ
+314,D,2012-02-28 16:54:19,2012-02-24,INAP,Shank Richard Anthony,"SVP, Global Sales",A - Grant,$0.00,7730,42730,+22%,+$0,-3.0,-4.0,-4.0,-9.0,INAPQ
+315,D,2012-02-28 16:53:32,2012-02-24,INAP,Orchard Steven Andrew,"SVP, Operations, Support",A - Grant,$0.00,8449,68958,+14%,+$0,-3.0,-4.0,-4.0,-9.0,INAPQ
+316,DM,2012-02-28 16:53:32,2012-02-25,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$7.77,-1455,68958,-2%,"-$11,305",-3.0,-4.0,-4.0,-9.0,INAPQ
+317,D,2012-02-28 16:52:53,2012-02-24,INAP,Kilguss George E III,CFO,A - Grant,$0.00,18841,220987,+9%,+$0,-3.0,-4.0,-4.0,-9.0,INAPQ
+318,DM,2012-02-28 16:52:53,2012-02-25,INAP,Kilguss George E III,CFO,F - Tax,$7.77,-2355,220987,-1%,"-$18,298",-3.0,-4.0,-4.0,-9.0,INAPQ
+319,D,2012-02-28 16:52:07,2012-02-24,INAP,Cooney James Eric,"CEO, Pres",A - Grant,$0.00,35950,1024253,+4%,+$0,-3.0,-4.0,-4.0,-9.0,INAPQ
+320,D,2012-02-28 16:52:07,2012-02-26,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$7.77,-2940,1024253,0%,"-$22,844",-3.0,-4.0,-4.0,-9.0,INAPQ
+321,,2012-01-18 17:21:15,2012-01-16,INAP,Orchard Steven Andrew,"SVP, Operations, Support",A - Grant,$0.00,25000,61964,+68%,+$0,4.0,3.0,13.0,7.0,INAPQ
+322,,2011-12-21 18:24:31,2011-12-20,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$5.78,-53,36964,0%,-$306,1.0,3.0,14.0,9.0,INAPQ
+323,,2011-09-21 16:56:17,2011-09-20,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$5.12,-53,37017,0%,-$271,-1.0,5.0,13.0,51.0,INAPQ
+324,D,2011-09-20 16:43:36,2011-09-19,INAP,Shank Richard Anthony,"SVP, Global Sales",A - Grant,$0.00,35000,35000,New,+$0,-5.0,-2.0,13.0,44.0,INAPQ
+325,,2011-09-07 16:20:54,2011-09-06,INAP,Wilson Debora J,Dir,P - Purchase,$4.59,10915,58492,+23%,"+$50,100",-1.0,5.0,7.0,55.0,INAPQ
+326,,2011-08-16 17:09:45,2011-08-15,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$5.60,-843,88271,-1%,"-$4,721",0.0,-16.0,-5.0,33.0,INAPQ
+327,,2011-08-11 17:19:41,2011-08-09,INAP,Cooney James Eric,"CEO, Pres",P - Purchase,$4.90,53000,991243,+6%,"+$259,944",3.0,4.0,-13.0,40.0,INAPQ
+328,,2011-08-09 16:36:22,2011-08-05,INAP,Stanzione Daniel,Dir,P - Purchase,$5.25,5000,51250,+11%,"+$26,250",-7.0,9.0,-8.0,40.0,INAPQ
+329,,2011-07-18 17:38:48,2011-07-14,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$6.98,-568,37070,-2%,"-$3,965",3.0,0.0,-18.0,-13.0,INAPQ
+330,,2011-06-21 18:37:15,2011-06-20,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$7.28,-53,37638,0%,-$386,-2.0,-3.0,-9.0,-26.0,INAPQ
+331,,2011-06-21 18:33:33,2011-06-20,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$7.28,-319,89114,0%,"-$2,322",-2.0,-3.0,-9.0,-26.0,INAPQ
+332,,2011-06-21 18:30:03,2011-06-17,INAP,Coe Charles B,Dir,A - Grant,$0.00,10400,47250,+28%,+$0,-2.0,-3.0,-9.0,-26.0,INAPQ
+333,,2011-06-21 17:52:02,2011-06-17,INAP,Higgins Patricia,Dir,A - Grant,$0.00,10400,36979,+39%,+$0,-2.0,-3.0,-9.0,-26.0,INAPQ
+334,,2011-06-21 16:49:27,2011-06-17,INAP,Ober Kevin,Dir,A - Grant,$0.00,10400,27849,+60%,+$0,-2.0,-3.0,-9.0,-26.0,INAPQ
+335,,2011-06-21 16:46:09,2011-06-17,INAP,Ruffolo Michael,Dir,A - Grant,$0.00,10400,34577,+43%,+$0,-2.0,-3.0,-9.0,-26.0,INAPQ
+336,,2011-06-21 16:34:31,2011-06-17,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,10400,46250,+29%,+$0,-2.0,-3.0,-9.0,-26.0,INAPQ
+337,,2011-06-21 16:29:02,2011-06-17,INAP,Wilson Debora J,Dir,A - Grant,$0.00,10400,47577,+28%,+$0,-2.0,-3.0,-9.0,-26.0,INAPQ
+338,,2011-06-21 16:25:35,2011-06-17,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,10400,38464,+37%,+$0,-2.0,-3.0,-9.0,-26.0,INAPQ
+339,M,2011-06-21 16:25:35,2011-06-17,INAP,Pfeiffer Gary M,Dir,F - Tax,$7.05,-1704,38464,-4%,"-$12,019",-2.0,-3.0,-9.0,-26.0,INAPQ
+340,D,2011-06-20 16:37:23,2011-06-16,INAP,Eidenberg Eugene,Dir,F - Tax,$7.52,-5429,124434,-4%,"-$40,826",3.0,-3.0,-3.0,-24.0,INAPQ
+341,,2011-05-17 17:47:45,2011-05-15,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$7.42,-916,89433,-1%,"-$6,797",1.0,3.0,0.0,-28.0,INAPQ
+342,,2011-04-11 17:16:55,2011-04-07,INAP,Kilguss George E III,CFO,F - Tax,$7.01,-16353,204501,-7%,"-$114,594",-1.0,-1.0,7.0,-25.0,INAPQ
+343,,2011-03-29 16:38:17,2011-03-25,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$6.47,-2134,90349,-2%,"-$13,807",0.0,4.0,21.0,-25.0,INAPQ
+344,,2011-03-29 16:36:13,2011-03-25,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$6.47,-1264,37691,-3%,"-$8,178",0.0,4.0,21.0,-25.0,INAPQ
+345,,2011-03-29 16:34:37,2011-03-25,INAP,Kilguss George E III,CFO,F - Tax,$6.47,-3454,220854,-2%,"-$22,347",0.0,4.0,21.0,-25.0,INAPQ
+346,M,2011-03-22 18:17:02,2011-03-19,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$6.11,-167,38955,0%,"-$1,020",2.0,0.0,5.0,-18.0,INAPQ
+347,,2011-03-22 18:16:10,2011-03-20,INAP,Thompson Randal R,SVP Global Sales,D - Sale to issuer,$0.00,-2325,92483,-2%,-$0,2.0,0.0,5.0,-18.0,INAPQ
+348,M,2011-03-22 18:16:10,2011-03-19,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$6.11,-433,92483,0%,"-$2,646",2.0,0.0,5.0,-18.0,INAPQ
+349,,2011-03-18 16:12:48,2011-03-16,INAP,Cooney James Eric,"CEO, Pres",A - Grant,$0.00,200000,938243,+27%,+$0,6.0,6.0,12.0,-15.0,INAPQ
+350,,2011-03-18 16:12:48,2011-03-16,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$6.10,-40909,938243,-4%,"-$249,545",6.0,6.0,12.0,-15.0,INAPQ
+351,D,2011-03-01 17:08:58,2011-02-25,INAP,Orchard Steven Andrew,"SVP, Operations, Support",A - Grant,$0.00,8300,39122,+27%,+$0,2.0,-2.0,0.0,-27.0,INAPQ
+352,D,2011-03-01 17:08:58,2011-02-26,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$7.03,-696,39122,-2%,"-$4,893",2.0,-2.0,0.0,-27.0,INAPQ
+353,D,2011-03-01 17:07:54,2011-02-26,INAP,Cooney James Eric,"CEO, Pres",F - Tax,$7.03,-2940,779152,0%,"-$20,668",2.0,-2.0,0.0,-27.0,INAPQ
+354,D,2011-03-01 17:02:40,2011-02-25,INAP,Thompson Randal R,SVP Global Sales,A - Grant,$0.00,5062,95241,+6%,+$0,2.0,-2.0,0.0,-27.0,INAPQ
+355,D,2011-03-01 17:02:40,2011-02-26,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$7.03,-696,95241,-1%,"-$4,893",2.0,-2.0,0.0,-27.0,INAPQ
+356,D,2011-03-01 17:01:45,2011-02-25,INAP,Kilguss George E III,CFO,A - Grant,$0.00,12360,224308,+6%,+$0,2.0,-2.0,0.0,-27.0,INAPQ
+357,D,2011-03-01 17:01:45,2011-02-26,INAP,Kilguss George E III,CFO,F - Tax,$7.03,-1223,224308,-1%,"-$8,598",2.0,-2.0,0.0,-27.0,INAPQ
+358,,2011-02-17 16:27:32,2011-02-15,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$7.74,-916,90875,-1%,"-$7,090",0.0,-9.0,-16.0,-26.0,INAPQ
+359,M,2010-12-21 16:35:55,2010-12-19,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$5.81,-383,91791,0%,"-$2,227",2.0,5.0,14.0,31.0,INAPQ
+360,M,2010-12-21 16:34:30,2010-12-19,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$5.79,-148,31518,0%,-$857,2.0,5.0,14.0,31.0,INAPQ
+361,,2010-12-21 16:33:46,2010-12-20,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$5.83,-351,90744,0%,"-$2,046",2.0,5.0,14.0,31.0,INAPQ
+362,,2010-12-16 17:30:20,2010-12-14,INAP,Eidenberg Eugene,Dir,S - Sale,$5.88,-479,129863,0%,"-$2,817",-3.0,-1.0,19.0,28.0,INAPQ
+363,,2010-11-17 17:14:48,2010-11-15,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$4.94,-811,92174,-1%,"-$4,006",2.0,1.0,24.0,63.0,INAPQ
+364,,2010-09-22 06:23:04,2010-09-20,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$4.70,-350,91095,0%,"-$1,645",-2.0,3.0,3.0,35.0,INAPQ
+365,M,2010-09-22 06:21:15,2010-09-19,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$4.65,-383,92985,0%,"-$1,782",-2.0,3.0,3.0,35.0,INAPQ
+366,M,2010-09-22 06:20:10,2010-09-19,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$4.58,-148,31666,0%,-$677,-2.0,3.0,3.0,35.0,INAPQ
+367,,2010-09-15 16:12:41,2010-09-13,INAP,Ober Kevin,Dir,S - Sale,$4.50,-2840,17449,-14%,"-$12,780",1.0,4.0,4.0,37.0,INAPQ
+368,,2010-08-24 17:10:30,2010-08-21,INAP,Pfeiffer Gary M,Dir,F - Tax,$4.45,-1102,29768,-4%,"-$4,904",1.0,1.0,15.0,72.0,INAPQ
+369,,2010-08-17 16:14:31,2010-08-15,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$4.37,-811,93368,-1%,"-$3,544",0.0,-6.0,5.0,78.0,INAPQ
+370,,2010-07-16 16:50:27,2010-07-14,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$4.80,-502,31814,-2%,"-$2,410",3.0,6.0,4.0,63.0,INAPQ
+371,,2010-06-24 17:10:44,2010-06-22,INAP,Eidenberg Eugene,Dir,F - Tax,$5.02,-305,130342,0%,"-$1,531",2.0,-8.0,6.0,25.0,INAPQ
+372,M,2010-06-21 16:42:46,2010-06-19,INAP,Orchard Steven Andrew,"SVP, Operations, Support",F - Tax,$5.16,-148,32316,0%,-$764,-1.0,-9.0,-12.0,16.0,INAPQ
+373,D,2010-06-21 16:42:08,2010-06-17,INAP,Wilson Debora J,Dir,A - Grant,$0.00,8220,37177,+28%,+$0,-1.0,-9.0,-12.0,16.0,INAPQ
+374,M,2010-06-21 16:41:25,2010-06-19,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$5.16,-383,94179,0%,"-$1,976",-1.0,-9.0,-12.0,16.0,INAPQ
+375,D,2010-06-21 16:40:42,2010-06-17,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,8220,35850,+30%,+$0,-1.0,-9.0,-12.0,16.0,INAPQ
+376,D,2010-06-21 16:39:49,2010-06-17,INAP,Ruffolo Michael,Dir,A - Grant,$0.00,8220,24177,+52%,+$0,-1.0,-9.0,-12.0,16.0,INAPQ
+377,D,2010-06-21 16:38:50,2010-06-17,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,8220,30870,+36%,+$0,-1.0,-9.0,-12.0,16.0,INAPQ
+378,DM,2010-06-21 16:38:50,2010-06-18,INAP,Pfeiffer Gary M,Dir,F - Tax,$5.16,-980,30870,-3%,"-$5,057",-1.0,-9.0,-12.0,16.0,INAPQ
+379,D,2010-06-21 16:38:04,2010-06-17,INAP,Ober Kevin,Dir,A - Grant,$0.00,8220,20289,+68%,+$0,-1.0,-9.0,-12.0,16.0,INAPQ
+380,D,2010-06-21 16:36:57,2010-06-17,INAP,Higgins Patricia,Dir,A - Grant,$0.00,8220,26579,+45%,+$0,-1.0,-9.0,-12.0,16.0,INAPQ
+381,D,2010-06-21 16:36:16,2010-06-17,INAP,Eidenberg Eugene,Dir,A - Grant,$0.00,8220,130647,+7%,+$0,-1.0,-9.0,-12.0,16.0,INAPQ
+382,DM,2010-06-21 16:36:16,2010-06-18,INAP,Eidenberg Eugene,Dir,F - Tax,$5.16,-1360,130647,-1%,"-$7,018",-1.0,-9.0,-12.0,16.0,INAPQ
+383,,2010-06-21 16:35:14,2010-06-20,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$5.16,-350,91445,0%,"-$1,806",-1.0,-9.0,-12.0,16.0,INAPQ
+384,D,2010-06-21 16:34:41,2010-06-17,INAP,Coe Charles B,Dir,A - Grant,$0.00,8220,36850,+29%,+$0,-1.0,-9.0,-12.0,16.0,INAPQ
+385,,2010-05-18 19:41:21,2010-05-15,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$5.48,-811,94562,-1%,"-$4,444",-1.0,-10.0,-6.0,-9.0,INAPQ
+386,,2010-04-09 17:20:24,2010-04-07,INAP,Kilguss George E III,CFO,F - Tax,$5.57,-16225,213171,-7%,"-$90,373",2.0,6.0,-11.0,-23.0,INAPQ
+387,,2010-04-06 18:24:14,2010-04-02,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$5.60,-2433,91795,-3%,"-$13,625",-1.0,5.0,6.0,-16.0,INAPQ
+388,,2010-03-29 17:21:52,2010-03-25,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$5.77,-1890,95373,-2%,"-$10,905",1.0,2.0,2.0,-13.0,INAPQ
+389,,2010-03-29 17:16:30,2010-03-25,INAP,Kilguss George E III,CFO,F - Tax,$5.77,-3058,229396,-1%,"-$17,645",1.0,2.0,2.0,-13.0,INAPQ
+390,,2010-03-29 17:12:47,2010-03-25,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$5.77,-3034,94228,-3%,"-$17,506",1.0,2.0,2.0,-13.0,INAPQ
+391,,2010-03-23 17:52:13,2010-03-20,INAP,Thompson Randal R,SVP Global Sales,D - Sale to issuer,$0.00,-2326,97263,-2%,-$0,-3.0,-5.0,-3.0,-21.0,INAPQ
+392,M,2010-03-23 17:52:13,2010-03-19,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$5.73,-383,97263,0%,"-$2,195",-3.0,-5.0,-3.0,-21.0,INAPQ
+393,,2010-03-23 17:34:26,2010-03-20,INAP,Dobb Richard,Chief Administrative Officer,D - Sale to issuer,$0.00,-2884,97262,-3%,-$0,-3.0,-5.0,-3.0,-21.0,INAPQ
+394,,2010-03-23 17:34:26,2010-03-20,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$5.73,-351,97262,0%,"-$2,011",-3.0,-5.0,-3.0,-21.0,INAPQ
+395,D,2010-03-17 17:17:04,2010-03-16,INAP,Cooney James Eric,"CEO, Pres",A - Grant,$0.00,200000,1414184,+16%,+$0,-1.0,-1.0,2.0,-25.0,INAPQ
+396,D,2010-03-17 17:17:04,2010-03-16,INAP,Cooney James Eric,"CEO, Pres",M - OptEx,$2.24,150000,1414184,+12%,"+$336,000",-1.0,-1.0,2.0,-25.0,INAPQ
+397,D,2010-03-10 17:06:21,2010-03-08,INAP,Ober Kevin,Dir,M - OptEx,$3.51,13137,24138,+119%,"+$46,111",3.0,0.0,-5.0,-30.0,INAPQ
+398,D,2010-03-10 17:06:21,2010-03-08,INAP,Ober Kevin,Dir,S - Sale+OE,$5.56,-14698,24138,-38%,"-$81,761",3.0,0.0,-5.0,-30.0,INAPQ
+399,D,2010-03-02 17:24:40,2010-02-26,INAP,Thompson Randal R,SVP Global Sales,A - Grant,$0.00,7597,99972,+8%,+$0,6.0,11.0,13.0,-15.0,INAPQ
+400,D,2010-03-02 17:24:40,2010-02-27,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$5.03,-483,99972,0%,"-$2,429",6.0,11.0,13.0,-15.0,INAPQ
+401,D,2010-03-02 17:23:44,2010-02-26,INAP,Dobb Richard,Chief Administrative Officer,A - Grant,$0.00,7597,100497,+8%,+$0,6.0,11.0,13.0,-15.0,INAPQ
+402,D,2010-03-02 17:22:45,2010-02-26,INAP,Kilguss George E III,CFO,A - Grant,$0.00,13352,232454,+6%,+$0,6.0,11.0,13.0,-15.0,INAPQ
+403,D,2010-03-02 17:21:46,2010-02-26,INAP,Cooney James Eric,"CEO, Pres",A - Grant,$0.00,32092,432092,+8%,+$0,6.0,11.0,13.0,-15.0,INAPQ
+404,,2010-02-17 20:26:46,2010-02-15,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$4.60,-966,92858,-1%,"-$4,444",4.0,1.0,18.0,-15.0,INAPQ
+405,,2010-01-05 17:12:04,2010-01-01,INAP,Wilson Debora J,Dir,A - Grant,$0.00,15957,28957,+123%,+$0,-1.0,4.0,-5.0,-12.0,INAPQ
+406,,2010-01-05 17:11:31,2010-01-01,INAP,Ruffolo Michael,Dir,A - Grant,$0.00,15957,15957,New,+$0,-1.0,4.0,-5.0,-12.0,INAPQ
+407,,2009-12-22 07:53:37,2009-12-20,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$4.30,-350,92900,0%,"-$1,505",1.0,3.0,8.0,1.0,INAPQ
+408,M,2009-12-22 07:50:05,2009-12-19,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$4.30,-383,93824,0%,"-$1,647",1.0,3.0,8.0,1.0,INAPQ
+409,,2009-12-14 16:54:59,2009-12-11,INAP,Stanzione Daniel,Dir,P - Purchase,$3.81,5000,27630,+22%,"+$19,050",5.0,8.0,25.0,28.0,INAPQ
+410,,2009-11-16 19:45:45,2009-11-15,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$3.67,-811,94207,-1%,"-$2,976",3.0,5.0,16.0,51.0,INAPQ
+411,,2009-11-12 16:48:30,2009-11-10,INAP,Eidenberg Eugene,Dir,P - Purchase,$3.76,13000,123787,+12%,"+$48,816",-1.0,0.0,6.0,46.0,INAPQ
+412,M,2009-09-22 15:59:38,2009-09-19,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$3.76,-383,95018,0%,"-$1,440",2.0,-6.0,-14.0,60.0,INAPQ
+413,,2009-09-22 15:53:27,2009-09-20,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$3.76,-351,93250,0%,"-$1,320",2.0,-6.0,-14.0,60.0,INAPQ
+414,,2009-08-28 18:32:37,2009-08-27,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$3.06,-405,95401,0%,"-$1,239",-2.0,1.0,13.0,66.0,INAPQ
+415,,2009-08-17 12:17:28,2009-08-15,INAP,Thompson Randal R,SVP Global Sales,F - Tax,$2.83,-811,95806,-1%,"-$2,295",-6.0,8.0,20.0,82.0,INAPQ
+416,M,2009-06-23 16:27:32,2009-06-19,INAP,Thompson Randal R,VP Global Sales,F - Tax,$3.54,-383,96617,0%,"-$1,356",1.0,10.0,-6.0,30.0,INAPQ
+417,,2009-06-23 13:39:58,2009-03-20,INAP,Sullivan Timothy Patrick,CTO,D - Sale to issuer,$0.00,-4442,118924,-4%,-$0,0.0,10.0,-5.0,30.0,INAPQ
+418,,2009-06-23 13:39:58,2009-06-20,INAP,Sullivan Timothy Patrick,CTO,F - Tax,$3.54,-568,118924,0%,"-$2,011",0.0,10.0,-5.0,30.0,INAPQ
+419,,2009-06-23 13:32:17,2009-03-20,INAP,Dobb Richard,Chief Administrative Officer,D - Sale to issuer,$0.00,-2884,93601,-3%,-$0,0.0,10.0,-5.0,30.0,INAPQ
+420,,2009-06-23 13:32:17,2009-06-20,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$3.54,-350,93601,0%,"-$1,239",0.0,10.0,-5.0,30.0,INAPQ
+421,D,2009-06-22 21:18:28,2009-06-18,INAP,Ober Kevin,Dir,A - Grant,$0.00,8630,13630,+173%,+$0,0.0,14.0,-6.0,24.0,INAPQ
+422,D,2009-06-22 20:39:38,2009-06-18,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,8630,22630,+62%,+$0,0.0,14.0,-6.0,24.0,INAPQ
+423,D,2009-06-22 20:26:42,2009-06-18,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,8630,23630,+58%,+$0,0.0,14.0,-6.0,24.0,INAPQ
+424,D,2009-06-22 19:58:23,2009-06-18,INAP,Higgins Patricia,Dir,A - Grant,$0.00,8630,18359,+89%,+$0,0.0,14.0,-6.0,24.0,INAPQ
+425,D,2009-06-22 19:40:53,2009-06-18,INAP,Harding William J,Dir,A - Grant,$0.00,8630,35912,+32%,+$0,0.0,14.0,-6.0,24.0,INAPQ
+426,D,2009-06-22 19:10:52,2009-06-18,INAP,Eidenberg Eugene,Dir,A - Grant,$0.00,8630,110787,+8%,+$0,0.0,14.0,-6.0,24.0,INAPQ
+427,D,2009-06-22 18:25:33,2009-06-18,INAP,Coe Charles B,Dir,A - Grant,$0.00,8630,28630,+43%,+$0,0.0,14.0,-6.0,24.0,INAPQ
+428,,2009-05-18 17:50:06,2009-05-14,INAP,Sullivan Timothy Patrick,CTO,S - Sale,$2.33,-5000,123934,-4%,"-$11,642",0.0,0.0,43.0,52.0,INAPQ
+429,A,2009-04-27 16:39:13,2009-04-07,INAP,Kilguss George E III,CFO,F - Tax,$2.79,-18598,219102,-8%,"-$51,888",0.0,10.0,3.0,42.0,INAPQ
+430,,2009-04-09 17:19:04,2009-04-07,INAP,Kilguss George E III,CFO,F - Tax,$2.79,-19325,218375,-8%,"-$53,917",4.0,-10.0,-23.0,2.0,INAPQ
+431,,2009-04-06 18:04:47,2009-04-02,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$2.74,-2898,104335,-3%,"-$7,941",-4.0,12.0,0.0,7.0,INAPQ
+432,,2009-04-01 20:07:19,2009-03-30,INAP,Sullivan Timothy Patrick,CTO,F - Tax,$2.50,-3530,128934,-3%,"-$8,825",0.0,2.0,2.0,24.0,INAPQ
+433,D,2009-03-27 17:07:01,2009-03-25,INAP,Sullivan Timothy Patrick,CTO,A - Grant,$0.00,37700,132464,+40%,+$0,-4.0,5.0,-3.0,33.0,INAPQ
+434,D,2009-03-27 17:06:15,2009-03-25,INAP,Kilguss George E III,CFO,A - Grant,$0.00,37700,237700,+19%,+$0,-4.0,5.0,-3.0,33.0,INAPQ
+435,D,2009-03-27 17:05:37,2009-03-25,INAP,Dobb Richard,Chief Administrative Officer,A - Grant,$0.00,37400,107233,+54%,+$0,-4.0,5.0,-3.0,33.0,INAPQ
+436,,2009-03-24 18:37:35,2009-03-20,INAP,Sullivan Timothy Patrick,CTO,F - Tax,$2.64,-671,94764,-1%,"-$1,771",-1.0,-2.0,0.0,43.0,INAPQ
+437,,2009-03-24 18:35:53,2009-03-20,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$2.64,-418,69833,-1%,"-$1,104",-1.0,-2.0,0.0,43.0,INAPQ
+438,,2009-03-17 18:20:27,2009-03-16,INAP,Deblasio James P,Former Officer,F - Tax,$2.55,-76050,245284,-24%,"-$193,928",6.0,12.0,15.0,32.0,INAPQ
+439,D,2009-03-17 18:19:12,2009-03-16,INAP,Cooney James Eric,"CEO, Pres",A - Grant,$0.00,300000,400000,+300%,+$0,6.0,12.0,15.0,32.0,INAPQ
+440,M,2008-12-22 13:39:17,2008-12-19,INAP,Deblasio James P,CEO,F - Tax,$2.55,-4266,321334,-1%,"-$10,878",2.0,-1.0,7.0,30.0,INAPQ
+441,,2008-12-22 13:37:44,2008-12-20,INAP,Dobb Richard,Chief Administrative Officer,F - Tax,$2.55,-350,70251,0%,-$893,2.0,-1.0,7.0,30.0,INAPQ
+442,,2008-12-22 13:35:35,2008-12-20,INAP,Sullivan Timothy Patrick,CTO,F - Tax,$2.55,-568,95435,-1%,"-$1,448",2.0,-1.0,7.0,30.0,INAPQ
+443,,2008-10-01 17:37:50,2008-09-30,INAP,Deblasio James P,CEO,F - Tax,$3.48,-5692,325600,-2%,"-$19,808",-13.0,-33.0,-35.0,-28.0,INAPQ
+444,,2008-09-22 17:07:32,2008-09-20,INAP,Dobb Richard,"VP, GC",F - Tax,$3.61,-351,70601,0%,"-$1,267",-5.0,12.0,-25.0,-24.0,INAPQ
+445,M,2008-09-22 17:06:00,2008-09-19,INAP,Deblasio James P,CEO,F - Tax,$3.61,-4265,331292,-1%,"-$15,397",-5.0,12.0,-25.0,-24.0,INAPQ
+446,,2008-09-22 17:04:23,2008-09-20,INAP,Sullivan Timothy Patrick,CTO,F - Tax,$3.61,-568,96003,-1%,"-$2,050",-5.0,12.0,-25.0,-24.0,INAPQ
+447,,2008-06-24 16:11:37,2008-06-20,INAP,Dobb Richard,"VP, GC",F - Tax,$5.40,-350,70952,0%,"-$1,890",3.0,-5.0,2.0,-45.0,INAPQ
+448,,2008-06-24 16:11:02,2008-06-20,INAP,Sullivan Timothy Patrick,CTO,F - Tax,$5.40,-568,96571,-1%,"-$3,067",3.0,-5.0,2.0,-45.0,INAPQ
+449,M,2008-06-23 17:13:15,2008-06-19,INAP,Deblasio James P,CEO,F - Tax,$5.39,-4266,335557,-1%,"-$23,010",-6.0,-6.0,-7.0,-53.0,INAPQ
+450,D,2008-06-23 16:07:44,2008-06-20,INAP,Harding William J,Dir,A - Grant,$0.00,2500,27283,+10%,+$0,-6.0,-6.0,-7.0,-53.0,INAPQ
+451,D,2008-06-23 16:07:03,2008-06-20,INAP,Coe Charles B,Dir,A - Grant,$0.00,2500,20000,+14%,+$0,-6.0,-6.0,-7.0,-53.0,INAPQ
+452,D,2008-06-20 17:36:35,2008-06-20,INAP,Eidenberg Eugene,Dir,A - Grant,$0.00,2500,102157,+3%,+$0,-3.0,-11.0,-15.0,-56.0,INAPQ
+453,D,2008-06-20 17:35:25,2008-06-20,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,2500,14000,+22%,+$0,-3.0,-11.0,-15.0,-56.0,INAPQ
+454,D,2008-06-20 17:34:14,2008-06-20,INAP,Pfeiffer Gary M,Dir,A - Grant,$0.00,2500,15000,+20%,+$0,-3.0,-11.0,-15.0,-56.0,INAPQ
+455,D,2008-06-20 17:33:11,2008-06-20,INAP,Ober Kevin,Dir,A - Grant,$0.00,2500,5000,+100%,+$0,-3.0,-11.0,-15.0,-56.0,INAPQ
+456,D,2008-06-20 17:32:02,2008-06-20,INAP,Higgins Patricia,Dir,A - Grant,$0.00,2500,9729,+35%,+$0,-3.0,-11.0,-15.0,-56.0,INAPQ
+457,D,2008-04-24 16:22:36,2008-04-02,INAP,Dobb Richard,"VP, GC",F - Tax,$5.00,-2433,71302,-3%,"-$12,165",4.0,6.0,8.0,-41.0,INAPQ
+458,D,2008-04-24 16:22:36,2008-04-02,INAP,Dobb Richard,"VP, GC",M - OptEx,$0.00,7500,71302,+12%,+$0,4.0,6.0,8.0,-41.0,INAPQ
+459,,2008-03-24 16:17:35,2008-03-20,INAP,Dobb Richard,"VP, GC",A - Grant,$0.00,34607,66235,+109%,+$0,6.0,9.0,3.0,-22.0,INAPQ
+460,,2008-03-24 16:16:47,2008-03-20,INAP,Kaplan Philip N,Chief Strategy Officer,A - Grant,$0.00,34048,363369,+10%,+$0,6.0,9.0,3.0,-22.0,INAPQ
+461,,2008-03-24 16:16:08,2008-03-20,INAP,Augustyn Tamara,"VP, Finance, Chief Accountant",A - Grant,$0.00,3980,21480,+23%,+$0,6.0,9.0,3.0,-22.0,INAPQ
+462,,2008-03-24 16:15:20,2008-03-20,INAP,Molinaro Vincent,COO,A - Grant,$0.00,69771,194771,+56%,+$0,6.0,9.0,3.0,-22.0,INAPQ
+463,,2008-03-24 16:14:04,2008-03-20,INAP,Deblasio James P,CEO,A - Grant,$0.00,149776,339823,+79%,+$0,6.0,9.0,3.0,-22.0,INAPQ
+464,,2008-03-18 16:03:22,2008-03-15,INAP,Dobb Richard,"VP, GC",A - Grant,$0.00,2409,31628,+8%,+$0,-33.0,-26.0,-28.0,-50.0,INAPQ
+465,,2008-03-18 16:03:22,2008-03-15,INAP,Dobb Richard,"VP, GC",F - Tax,$6.05,-781,31628,-2%,"-$4,725",-33.0,-26.0,-28.0,-50.0,INAPQ
+466,,2008-03-18 16:02:32,2008-03-15,INAP,Kaplan Philip N,Chief Strategy Officer,A - Grant,$0.00,1931,329321,+1%,+$0,-33.0,-26.0,-28.0,-50.0,INAPQ
+467,,2008-03-18 16:02:32,2008-03-15,INAP,Kaplan Philip N,Chief Strategy Officer,F - Tax,$6.05,-690,329321,0%,"-$4,175",-33.0,-26.0,-28.0,-50.0,INAPQ
+468,,2008-03-18 16:01:22,2008-03-15,INAP,Deblasio James P,CEO,A - Grant,$0.00,6638,190047,+4%,+$0,-33.0,-26.0,-28.0,-50.0,INAPQ
+469,,2008-03-18 16:01:22,2008-03-15,INAP,Deblasio James P,CEO,F - Tax,$6.05,-2266,190047,-1%,"-$13,709",-33.0,-26.0,-28.0,-50.0,INAPQ
+470,,2007-12-03 16:10:53,2007-11-30,INAP,Stanzione Daniel,Dir,P - Purchase,$10.00,4000,11500,+53%,"+$40,000",1.0,5.0,-16.0,-44.0,INAPQ
+471,,2007-11-08 16:05:45,2007-11-06,INAP,Deblasio James P,CEO,S - Sale,$17.00,-6000,185675,-3%,"-$102,000",-3.0,-8.0,-25.0,-63.0,INAPQ
+472,,2007-11-02 16:07:33,2007-11-01,INAP,Buckel David,"VP, CFO",S - Sale,$16.41,-2400,107885,-2%,"-$39,384",0.0,-17.0,-42.0,-70.0,INAPQ
+473,,2007-10-23 16:10:19,2007-10-22,INAP,Kaplan Philip N,Chief Strategy Officer,S - Sale,$15.88,-9500,335187,-3%,"-$150,860",-5.0,-4.0,-39.0,-77.0,INAPQ
+474,,2007-10-12 16:12:08,2007-10-11,INAP,Deblasio James P,CEO,S - Sale,$17.00,-6000,191675,-3%,"-$102,000",1.0,2.0,-18.0,-73.0,INAPQ
+475,,2007-10-09 16:45:42,2007-10-08,INAP,Buckel David,"VP, CFO",S - Sale,$15.00,-2400,110285,-2%,"-$36,000",7.0,7.0,9.0,-74.0,INAPQ
+476,,2007-09-24 16:01:29,2007-09-21,INAP,Kaplan Philip N,Chief Strategy Officer,S - Sale,$15.17,-9500,344687,-3%,"-$144,115",-2.0,-4.0,11.0,-67.0,INAPQ
+477,,2007-09-19 16:43:41,2007-09-19,INAP,Buckel David,"VP, CFO",S - Sale,$15.14,-2400,112685,-2%,"-$36,336",-1.0,-5.0,12.0,-74.0,INAPQ
+478,,2007-09-14 16:06:35,2007-09-13,INAP,Coe Charles B,Dir,P - Purchase,$13.49,5000,17500,+40%,"+$67,471",2.0,6.0,16.0,-58.0,INAPQ
+479,,2007-08-22 16:52:56,2007-08-21,INAP,Stanzione Daniel,Dir,P - Purchase,$14.79,2500,7500,+50%,"+$36,975",0.0,-5.0,1.0,-51.0,INAPQ
+480,,2007-08-21 16:24:25,2007-08-21,INAP,Kaplan Philip N,Chief Strategy Officer,S - Sale,$14.56,-9500,354187,-3%,"-$138,320",0.0,-2.0,2.0,-48.0,INAPQ
+481,,2007-08-08 16:07:21,2007-08-08,INAP,Buckel David,"VP, CFO",S - Sale,$15.00,-2400,115085,-2%,"-$36,000",4.0,-2.0,-6.0,-48.0,INAPQ
+482,D,2007-08-03 16:53:39,2007-08-03,INAP,Eidenberg Eugene,Dir,M - OptEx,$0.30,40000,99657,+67%,"+$12,000",-4.0,10.0,0.0,-35.0,INAPQ
+483,,2007-07-20 16:20:44,2007-07-19,INAP,Buckel David,"VP, CFO",S - Sale,$15.00,-2400,117485,-2%,"-$36,000",-1.0,-9.0,0.0,-49.0,INAPQ
+484,D,2007-06-26 18:41:37,2007-06-22,INAP,Harding William J,Dir,A - Grant,$0.00,2500,27283,+10%,+$0,-1.0,8.0,6.0,-30.0,INAPQ
+485,D,2007-06-26 16:02:44,2007-06-22,INAP,Coe Charles B,Dir,A - Grant,$0.00,2500,12500,+25%,+$0,-1.0,8.0,6.0,-30.0,INAPQ
+486,D,2007-06-25 16:31:01,2007-06-22,INAP,Eidenberg Eugene,Dir,A - Grant,$0.00,2500,59657,+4%,+$0,1.0,8.0,10.0,-30.0,INAPQ
+487,D,2007-06-25 16:30:09,2007-06-22,INAP,Higgins Patricia,Dir,A - Grant,$0.00,2500,7229,+53%,+$0,1.0,8.0,10.0,-30.0,INAPQ
+488,D,2007-06-25 16:29:10,2007-06-22,INAP,Ober Kevin,Dir,A - Grant,$0.00,2500,2500,New,+$0,1.0,8.0,10.0,-30.0,INAPQ
+489,D,2007-06-25 16:28:09,2007-06-22,INAP,Stanzione Daniel,Dir,A - Grant,$0.00,2500,5000,+100%,+$0,1.0,8.0,10.0,-30.0,INAPQ
+490,D,2007-06-15 15:38:38,2007-06-14,INAP,Ober Kevin,Dir,M - OptEx,$5.40,2000,0,-100%,"+$10,800",2.0,-2.0,5.0,-38.0,INAPQ
+491,D,2007-06-15 15:38:38,2007-06-14,INAP,Ober Kevin,Dir,S - Sale+OE,$14.00,-2000,0,-100%,"-$28,000",2.0,-2.0,5.0,-38.0,INAPQ
+492,,2007-06-14 12:15:39,2007-06-13,INAP,Stanzione Daniel,Dir,P - Purchase,$13.58,2500,2500,New,"+$33,950",4.0,4.0,12.0,-30.0,INAPQ
+493,,2007-06-04 16:52:24,2007-06-01,INAP,Buckel David,"VP, CFO",S - Sale,$15.00,-2400,119885,-2%,"-$36,000",1.0,-8.0,-2.0,-33.0,INAPQ
+494,M,2007-05-23 17:19:54,2007-05-22,INAP,Kaplan Philip N,Chief Strategy Officer,S - Sale,$15.46,-47943,363687,-12%,"-$741,328",0.0,-3.0,-10.0,-23.0,INAPQ
+495,,2007-05-07 10:55:47,2007-05-04,INAP,Deblasio James P,CEO,S - Sale,$17.00,-3000,197675,-1%,"-$51,000",-8.0,-10.0,-20.0,-13.0,INAPQ
+496,,2007-05-03 13:42:30,2007-05-01,INAP,Buckel David,"VP, CFO",S - Sale,$15.57,-1100,122285,-1%,"-$17,127",-4.0,6.0,-9.0,-1.0,INAPQ
+497,M,2007-04-19 14:26:25,2007-04-17,INAP,Kaplan Philip N,Chief Strategy Officer,S - Sale,$16.60,-41916,411630,-9%,"-$695,658",-2.0,-3.0,-8.0,1.0,INAPQ
+498,,2007-04-18 11:19:17,2007-04-16,INAP,Kaplan Philip N,Chief Strategy Officer,S - Sale,$17.23,-30000,453546,-6%,"-$516,900",-1.0,-3.0,-7.0,1.0,INAPQ
+499,,2007-04-13 14:40:15,2007-04-11,INAP,Abrahamson David L,VP Sales,S - Sale,$17.15,-1250,75000,-2%,"-$21,438",1.0,-5.0,0.0,-2.0,INAPQ
+500,,2007-04-09 14:59:28,2007-04-09,INAP,Deblasio James P,CEO,S - Sale,$17.00,-3000,200675,-1%,"-$51,000",0.0,2.0,4.0,-14.0,INAPQ
+501,,2007-04-04 15:05:35,2007-04-02,INAP,Abrahamson David L,VP Sales,S - Sale,$16.04,-1250,76250,-2%,"-$20,050",0.0,5.0,-4.0,-9.0,INAPQ
+502,,2007-04-04 14:31:00,2007-04-02,INAP,Buckel David,"VP, CFO",S - Sale,$16.05,-1100,123385,-1%,"-$17,655",0.0,5.0,-4.0,-9.0,INAPQ
+503,A,2007-03-16 16:55:18,2007-03-15,INAP,Buckel David,"VP, CFO",A - Grant,$0.00,75000,124485,+152%,+$0,3.0,2.0,6.0,-12.0,INAPQ
+504,,2007-03-16 16:48:54,2007-03-15,INAP,Deblasio James P,CEO,A - Grant,$0.00,125000,203657,+159%,+$0,3.0,2.0,6.0,-12.0,INAPQ
+505,,2007-03-16 16:42:32,2007-03-15,INAP,Abrahamson David L,VP Sales,A - Grant,$0.00,25000,80200,+45%,+$0,3.0,2.0,6.0,-12.0,INAPQ
+506,,2007-03-16 16:36:53,2007-03-15,INAP,Suddith Eric,VP HR,A - Grant,$0.00,25000,62730,+66%,+$0,3.0,2.0,6.0,-12.0,INAPQ
+507,,2007-03-16 16:29:25,2007-03-15,INAP,Buckel David,"VP, CFO",A - Grant,$0.00,75000,124485,+152%,+$0,3.0,2.0,6.0,-12.0,INAPQ
+508,D,2007-03-15 15:11:18,2007-03-13,INAP,Suddith Eric,VP HR,M - OptEx,$16.75,9376,37730,+33%,"+$157,048",0.0,0.0,3.0,-20.0,INAPQ
+509,D,2007-03-15 15:11:18,2007-03-13,INAP,Suddith Eric,VP HR,S - Sale+OE,$16.75,-18604,37730,-33%,"-$311,617",0.0,0.0,3.0,-20.0,INAPQ
+510,D,2007-03-06 17:34:33,2007-03-05,INAP,Abrahamson David L,VP Sales,M - OptEx,$2.10,2500,55200,+5%,"+$5,250",2.0,-4.0,-6.0,-20.0,INAPQ
+511,D,2007-03-06 17:34:33,2007-03-05,INAP,Abrahamson David L,VP Sales,S - Sale+OE,$17.60,-2500,55200,-4%,"-$44,000",2.0,-4.0,-6.0,-20.0,INAPQ
+512,,2007-03-02 16:48:38,2007-03-02,INAP,Buckel David,"VP, CFO",S - Sale,$19.05,-1100,49485,-2%,"-$20,955",-8.0,-7.0,-15.0,-24.0,INAPQ
+513,,2007-03-02 12:14:20,2007-03-01,INAP,Deblasio James P,CEO,S - Sale,$18.15,-3000,78657,-4%,"-$54,450",-2.0,-8.0,-16.0,-25.0,INAPQ
+514,D,2007-02-06 16:03:34,2007-02-01,INAP,Abrahamson David L,VP Sales,M - OptEx,$2.10,2500,55200,+5%,"+$5,250",3.0,-2.0,-7.0,-30.0,INAPQ
+515,D,2007-02-06 16:03:34,2007-02-01,INAP,Abrahamson David L,VP Sales,S - Sale+OE,$17.83,-2500,55200,-4%,"-$44,579",3.0,-2.0,-7.0,-30.0,INAPQ
+516,,2007-02-06 16:01:26,2007-02-01,INAP,Buckel David,"VP, CFO",S - Sale,$17.88,-1100,50585,-2%,"-$19,664",3.0,-2.0,-7.0,-30.0,INAPQ
+517,,2007-02-05 15:00:13,2007-02-01,INAP,Deblasio James P,CEO,S - Sale,$18.21,-3000,81657,-4%,"-$54,630",1.0,4.0,-4.0,-23.0,INAPQ
+518,,2007-01-18 12:20:37,2007-01-12,INAP,Buckel David,"VP, CFO",S - Sale,$20.47,-2200,51685,-4%,"-$45,039",-13.0,-4.0,-3.0,-22.0,INAPQ
+519,D,2007-01-09 21:33:59,2007-01-05,INAP,Abrahamson David L,VP Sales,M - OptEx,$2.10,5000,55200,+10%,"+$10,500",2.0,-1.0,-3.0,-31.0,INAPQ
+520,D,2007-01-09 21:33:59,2007-01-05,INAP,Abrahamson David L,VP Sales,S - Sale+OE,$20.28,-5000,55200,-8%,"-$101,385",2.0,-1.0,-3.0,-31.0,INAPQ
+521,,2007-01-09 18:12:06,2007-01-05,INAP,Suddith Eric,VP HR,S - Sale,$19.87,-1014,46958,-2%,"-$20,148",2.0,-1.0,-3.0,-31.0,INAPQ
+522,,2007-01-05 17:09:49,2007-01-03,INAP,Deblasio James P,CEO,S - Sale,$19.95,-3000,84675,-3%,"-$59,850",0.0,0.0,-10.0,-30.0,INAPQ
+523,D,2006-11-28 19:51:28,2006-11-24,INAP,Ober Kevin,Dir,M - OptEx,$4.60,4000,0,-100%,"+$18,400",3.0,10.0,6.0,-22.0,INAPQ
+524,D,2006-11-28 19:51:28,2006-11-24,INAP,Ober Kevin,Dir,S - Sale+OE,$19.21,-4833,0,-100%,"-$92,829",3.0,10.0,6.0,-22.0,INAPQ
+525,,2006-11-27 19:37:40,2006-11-21,INAP,Buckel David,"VP, CFO",S - Sale,$18.00,-2000,53885,-4%,"-$36,000",1.0,4.0,5.0,-21.0,INAPQ
+526,D,2006-11-22 16:10:25,2006-11-21,INAP,Klinker Eric,CTO,M - OptEx,$11.10,3000,48986,+7%,"+$33,300",2.0,4.0,2.0,-21.0,INAPQ
+527,D,2006-11-22 16:10:25,2006-11-21,INAP,Klinker Eric,CTO,S - Sale+OE,$18.14,-3500,48986,-7%,"-$63,475",2.0,4.0,2.0,-21.0,INAPQ
+528,D,2006-11-16 21:12:21,2006-11-16,INAP,Abrahamson David L,VP Sales,M - OptEx,$2.10,10000,55200,+22%,"+$21,000",1.0,5.0,9.0,-13.0,INAPQ
+529,D,2006-11-16 21:12:21,2006-11-16,INAP,Abrahamson David L,VP Sales,S - Sale+OE,$16.86,-10000,55200,-15%,"-$168,578",1.0,5.0,9.0,-13.0,INAPQ
+530,D,2006-11-15 07:40:28,2006-11-10,INAP,Abrahamson David L,VP Sales,M - OptEx,$2.10,20000,55200,+57%,"+$42,000",3.0,10.0,15.0,-10.0,INAPQ
+531,D,2006-11-15 07:40:28,2006-11-10,INAP,Abrahamson David L,VP Sales,S - Sale+OE,$16.51,-20000,55200,-27%,"-$330,298",3.0,10.0,15.0,-10.0,INAPQ
+532,D,2006-10-27 17:27:08,2006-09-11,INAP,Eidenberg Eugene,Dir,F - Tax,$12.13,-1501,114966,-1%,"-$18,209",1.0,1.0,17.0,-1.0,INAPQ
+533,D,2006-10-27 17:27:08,2006-09-11,INAP,Eidenberg Eugene,Dir,M - OptEx,$12.13,1917,114966,+2%,"+$23,255",1.0,1.0,17.0,-1.0,INAPQ
+534,,2006-10-26 18:24:04,2006-10-02,INAP,Suddith Eric,VP HR,F - Tax,$12.86,-2028,47972,-4%,"-$26,080",1.0,0.0,21.0,-4.0,INAPQ
+535,,2006-10-26 18:22:45,2006-10-02,INAP,Deblasio James P,CEO,F - Tax,$15.22,-17325,87675,-17%,"-$263,687",1.0,0.0,21.0,-4.0,INAPQ
+536,,2006-10-26 18:20:50,2006-10-02,INAP,Buckel David,"VP, CFO",F - Tax,$15.22,-1115,55885,-2%,"-$16,970",1.0,0.0,21.0,-4.0,INAPQ
+537,D,2006-09-12 17:37:57,2006-09-08,IIP,Harman Frederic W,Dir,F - Tax,$11.96,-235543,670309,-26%,"-$2,815,917",,,,,INAPQ
+538,D,2006-09-12 17:37:57,2006-09-08,IIP,Harman Frederic W,Dir,M - OptEx,$11.96,296413,670309,+79%,"+$3,543,617",,,,,INAPQ
+539,,2006-03-21 18:32:04,2006-03-17,IIP,Higgins Patricia,Dir,A - Grant,$0.00,10715,47301,+29%,+$0,,,,,INAPQ
+540,A,2006-01-24 20:50:07,2006-01-24,IIP,Buckel David,"VP, CFO",A - Grant,$0.00,550000,570000,>999%,+$0,,,,,INAPQ
+541,,2006-01-20 18:23:53,2006-01-18,IIP,Buckel David,"VP, CFO",A - Grant,$0.00,550000,576872,>999%,+$0,,,,,INAPQ
+542,,2006-01-20 18:14:42,2006-01-18,IIP,Klinker Eric,CTO,A - Grant,$0.00,500000,505000,>999%,+$0,,,,,INAPQ
+543,,2006-01-20 18:10:17,2006-01-18,IIP,Suddith Eric,VP Operations,A - Grant,$0.00,500000,500000,New,+$0,,,,,INAPQ
+544,,2006-01-20 18:04:20,2006-01-18,IIP,Smith Robert Palmer,CMO,A - Grant,$0.00,500000,520000,>999%,+$0,,,,,INAPQ
+545,,2006-01-20 17:46:01,2006-01-18,IIP,Abrahamson David L,VP Sales,A - Grant,$0.00,500000,552000,+962%,+$0,,,,,INAPQ
+546,,2005-12-30 16:57:27,2005-12-30,IIP,Higgins Patricia,Dir,A - Grant,$0.00,36586,36586,New,+$0,,,,,INAPQ
+547,,2005-12-01 09:10:56,2005-11-23,IIP,Smith Robert Palmer,CMO,P - Purchase,$0.46,20000,20000,New,"+$9,200",,,,,INAPQ
+548,,2005-11-28 17:16:48,2005-11-23,IIP,Deblasio James P,"Pres, CEO",A - Grant,$0.44,50000,1050000,+5%,"+$22,000",,,,,INAPQ
+549,,2005-11-22 13:24:36,2005-11-21,IIP,Buckel David,CFO,P - Purchase,$0.38,20000,26872,+291%,"+$7,600",,,,,INAPQ
+550,,2005-11-21 16:12:49,2005-11-17,IIP,Abrahamson David L,VP Sales,P - Purchase,$0.39,25000,52000,+93%,"+$9,750",,,,,INAPQ
+551,D,2005-10-04 17:37:18,2005-09-30,IIP,Deblasio James P,"Pres, COO",A - Grant,$0.00,1000000,1000000,New,+$0,,,,,INAPQ
+552,D,2005-09-16 13:12:13,2005-09-13,IIP,Ober Kevin,Dir,S - Sale+OE,$0.50,-25000,8333,-75%,"-$12,500",,,,,INAPQ
+553,D,2005-08-18 16:44:06,2005-08-16,IIP,Ober Kevin,Dir,S - Sale+OE,$0.49,-25000,33333,-43%,"-$12,250",,,,,INAPQ
+554,,2005-06-07 08:58:59,2005-06-06,IIP,Coe Charles B,Dir,P - Purchase,$0.47,50000,204166,+32%,"+$23,500",,,,,INAPQ
+555,D,2004-09-16 12:09:45,2004-09-14,IIP,Harman Frederic W,Dir,C - Converted deriv,$0.00,18503154,6833754,-73%,$0,,,,,INAPQ
+556,D,2004-09-13 17:49:29,2004-09-09,IIP,Marashi Ali,CTO,M - OptEx,$0.48,250000,0,-100%,"+$120,000",,,,,INAPQ
+557,D,2004-09-13 17:49:29,2004-09-09,IIP,Marashi Ali,CTO,S - Sale+OE,$0.58,-250000,0,-100%,"-$145,000",,,,,INAPQ
+558,D,2004-06-16 16:41:06,2004-06-15,IIP,Peters Gregory A,"Pres, CEO",M - OptEx,$0.72,1554689,0,-100%,"+$1,113,063",,,,,INAPQ
+559,D,2004-06-16 16:41:06,2004-06-15,IIP,Peters Gregory A,"Pres, CEO",S - Sale+OE,$1.16,-1554689,0,-100%,"-$1,807,015",,,,,INAPQ
+560,DM,2004-06-14 19:16:00,2004-06-09,IIP,Peters Gregory A,"Pres, CEO",M - OptEx,$0.44,2120312,0,-100%,"+$927,521",,,,,INAPQ
+561,DM,2004-06-14 19:16:00,2004-06-09,IIP,Peters Gregory A,"Pres, CEO",S - Sale+OE,$1.22,-2120312,0,-100%,"-$2,587,731",,,,,INAPQ
+562,D,2004-06-10 19:14:50,2004-06-08,IIP,Abrahamson David L,"VP Sales, Marketing",M - OptEx,$0.21,70000,27000,-163%,"+$14,700",,,,,INAPQ
+563,D,2004-06-10 19:14:50,2004-06-08,IIP,Abrahamson David L,"VP Sales, Marketing",S - Sale+OE,$1.45,-70000,27000,-72%,"-$101,531",,,,,INAPQ
+564,M,2004-06-04 17:08:04,2004-06-02,IIP,Shurtleff Robert D Jr,Dir,S - Sale,$1.50,-240000,1031075,-19%,"-$360,000",,,,,INAPQ
+565,DM,2004-06-03 17:50:58,2004-05-28,IIP,Abrahamson David L,"VP Sales, Marketing",M - OptEx,$0.21,30000,27000,-1000%,"+$6,300",,,,,INAPQ
+566,DM,2004-06-03 17:50:58,2004-05-28,IIP,Abrahamson David L,"VP Sales, Marketing",S - Sale+OE,$1.50,-30000,27000,-53%,"-$45,000",,,,,INAPQ
+567,DM,2004-06-02 12:32:03,2004-06-01,IIP,Desocio Walter G,Chief Administrative Officer,M - OptEx,$0.36,500000,572916,+686%,"+$181,600",,,,,INAPQ
+568,DM,2004-06-02 12:32:03,2004-05-27,IIP,Desocio Walter G,Chief Administrative Officer,S - Sale+OE,$1.48,-500000,572916,-47%,"-$739,000",,,,,INAPQ
+569,,2003-12-23 10:42:22,2003-11-26,INAP,Shurtleff Robert D Jr,Dir,G - Gift,$0.00,-50000,1271075,-4%,-$0,0.0,12.0,9.0,-50.0,INAPQ
+570,,2003-11-18 09:47:12,2003-11-14,INAP,Harman Frederic W,"Dir, 10%",S - Sale,$2.06,-3059838,160328,-95%,"-$6,303,266",-4.0,-5.0,10.0,-13.0,INAPQ
+571,M,2003-11-17 14:30:35,2003-11-13,INAP,Shurtleff Robert D Jr,Dir,S - Sale,$1.68,-120000,1321075,-8%,"-$201,631",-9.0,-15.0,2.0,-24.0,INAPQ
+572,M,2003-11-12 15:59:49,2003-11-10,INAP,Naughtin Anthony C,Dir,S - Sale,$1.54,-100000,4262087,-2%,"-$154,050",3.0,7.0,29.0,-10.0,INAPQ
+573,,2003-11-06 12:33:42,2003-11-04,INAP,Coe Charles B,Dir,P - Purchase,$1.34,50000,50000,New,"+$67,000",6.0,36.0,76.0,26.0,INAPQ

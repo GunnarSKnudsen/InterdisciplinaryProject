@@ -1,1 +1,917 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
+0,,2015-10-22 15:43:32,2008-06-16,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,3582,31076,+13%,0.0,,,,,CYBX
+1,,2015-10-19 17:17:43,2015-10-19,CYBX,Morrison Hugh M,Dir,D - Sale to issuer,0.0,-8815,0,-100%,-0.0,,,,,CYBX
+2,,2015-10-19 17:10:44,2015-10-19,CYBX,Laptewicz Joseph E,Dir,D - Sale to issuer,0.0,-17196,0,-100%,-0.0,,,,,CYBX
+3,,2015-10-19 17:08:26,2015-10-19,CYBX,Tremmel Jon T,Dir,D - Sale to issuer,0.0,-7075,0,-100%,-0.0,,,,,CYBX
+4,D,2015-10-19 16:50:18,2015-10-19,CYBX,Alch Darren,VP Genl Counsel Asst Sec,D - Sale to issuer,0.0,-9164,0,-100%,-0.0,,,,,CYBX
+5,D,2015-10-19 16:50:18,2015-10-19,CYBX,Alch Darren,VP Genl Counsel Asst Sec,F - Tax,0.0,-1314,0,-100%,-0.0,,,,,CYBX
+6,D,2015-10-19 16:38:50,2015-10-19,CYBX,Hoare Rohan,"SVP, COO",D - Sale to issuer,0.0,-7505,0,-100%,-0.0,,,,,CYBX
+7,D,2015-10-19 16:38:50,2015-10-19,CYBX,Hoare Rohan,"SVP, COO",F - Tax,0.0,-2292,0,-100%,-0.0,,,,,CYBX
+8,,2015-10-19 16:35:24,2015-10-19,CYBX,Jackson Guy C.,Dir,D - Sale to issuer,0.0,-36603,0,-100%,-0.0,,,,,CYBX
+9,,2015-10-19 16:33:32,2015-10-19,CYBX,Rosenthal Arthur L,Dir,D - Sale to issuer,0.0,-15265,0,-100%,-0.0,,,,,CYBX
+10,D,2015-10-19 16:26:52,2015-10-19,CYBX,Wise David S,"SVP, Chief Admin Officer",D - Sale to issuer,0.0,-34174,0,-100%,-0.0,,,,,CYBX
+11,D,2015-10-19 16:26:52,2015-10-19,CYBX,Wise David S,"SVP, Chief Admin Officer",F - Tax,0.0,-3088,0,-100%,-0.0,,,,,CYBX
+12,D,2015-10-19 16:21:51,2015-10-19,CYBX,Browne Gregory H,"SVP Finance, CFO",D - Sale to issuer,0.0,-30917,0,-100%,-0.0,,,,,CYBX
+13,D,2015-10-19 16:21:51,2015-10-19,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-3086,0,-100%,-0.0,,,,,CYBX
+14,,2015-10-19 16:11:20,2015-10-19,CYBX,Novak Alfred J,Dir,D - Sale to issuer,0.0,-17020,0,-100%,-0.0,,,,,CYBX
+15,D,2015-10-19 15:56:36,2015-10-19,CYBX,Moore Daniel Jeffrey,"Pres, CEO (Former)",D - Sale to issuer,0.0,-76023,0,-100%,-0.0,,,,,CYBX
+16,D,2015-10-19 15:56:36,2015-10-19,CYBX,Moore Daniel Jeffrey,"Pres, CEO (Former)",F - Tax,0.0,-14880,0,-100%,-0.0,,,,,CYBX
+17,,2015-10-16 18:47:45,2015-10-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,68.65,-2500,90903,-3%,-171629.0,,,,,CYBX
+18,,2015-10-02 08:47:28,2015-09-30,CYBX,Tremmel Jon T,Dir,S - Sale,60.29,-2000,7075,-22%,-120580.0,,,,,CYBX
+19,,2015-10-02 08:45:16,2015-10-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,60.2,-2000,34003,-6%,-120397.0,,,,,CYBX
+20,,2015-10-02 08:42:53,2015-09-30,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,61.38,-375,10478,-3%,-23018.0,,,,,CYBX
+21,,2015-09-18 15:55:01,2015-09-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,67.49,-2500,93403,-3%,-168731.0,,,,,CYBX
+22,,2015-09-09 14:52:38,2015-09-08,CYBX,Laptewicz Joseph E,Dir,S - Sale,66.95,-3687,17196,-18%,-246845.0,,,,,CYBX
+23,,2015-09-02 10:56:00,2015-08-31,CYBX,Morrison Hugh M,Dir,S - Sale,65.41,-1500,8815,-15%,-98111.0,,,,,CYBX
+24,,2015-09-02 10:53:25,2015-09-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,63.88,-2000,36003,-5%,-127753.0,,,,,CYBX
+25,M,2015-08-28 11:26:56,2015-08-26,CYBX,Tremmel Jon T,Dir,S - Sale,66.27,-5050,9075,-36%,-334659.0,,,,,CYBX
+26,,2015-08-26 09:58:17,2015-08-24,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,62.18,-1000,10853,-8%,-62180.0,,,,,CYBX
+27,,2015-08-19 10:11:28,2015-08-17,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,59.05,-2500,95902,-3%,-147616.0,,,,,CYBX
+28,,2015-08-05 12:34:43,2015-08-03,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,60.3,-2000,37262,-5%,-120609.0,,,,,CYBX
+29,,2015-08-04 09:38:49,2015-08-03,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,60.42,-2000,38003,-5%,-120849.0,,,,,CYBX
+30,A,2015-07-27 10:24:34,2015-06-15,CYBX,Hoare Rohan,"SVP, COO",D - Sale to issuer,0.0,-5837,9797,-37%,-0.0,,,,,CYBX
+31,A,2015-07-23 17:46:43,2015-06-15,CYBX,Wise David S,"SVP, Chief Admin Officer",D - Sale to issuer,0.0,-1624,41262,-4%,-0.0,,,,,CYBX
+32,A,2015-07-23 17:44:45,2015-06-15,CYBX,Browne Gregory H,"SVP Finance, CFO",D - Sale to issuer,0.0,-1624,42003,-4%,-0.0,,,,,CYBX
+33,,2015-07-17 08:16:29,2015-07-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,60.9,-2500,98402,-2%,-152250.0,,,,,CYBX
+34,,2015-07-02 12:03:58,2015-07-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,59.84,-2000,39261,-5%,-119680.0,,,,,CYBX
+35,,2015-07-02 12:01:22,2015-07-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,61.11,-2000,40002,-5%,-122229.0,,,,,CYBX
+36,,2015-06-25 14:37:21,2015-06-23,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,62.58,-236,11853,-2%,-14769.0,,,,,CYBX
+37,,2015-06-17 18:45:34,2015-06-15,CYBX,Wise David S,"SVP, Chief Admin Officer",D - Sale to issuer,0.0,-4875,41261,-11%,-0.0,,,,,CYBX
+38,,2015-06-17 18:45:34,2015-06-15,CYBX,Wise David S,"SVP, Chief Admin Officer",F - Tax,61.76,-2871,41261,-7%,-177313.0,,,,,CYBX
+39,,2015-06-17 18:38:44,2015-06-15,CYBX,Hoare Rohan,"SVP, COO",D - Sale to issuer,0.0,-1946,13688,-12%,-0.0,,,,,CYBX
+40,,2015-06-17 18:38:44,2015-06-15,CYBX,Hoare Rohan,"SVP, COO",F - Tax,61.76,-532,13688,-4%,-32856.0,,,,,CYBX
+41,,2015-06-17 18:34:02,2015-06-15,CYBX,Browne Gregory H,"SVP Finance, CFO",D - Sale to issuer,0.0,-4875,42002,-10%,-0.0,,,,,CYBX
+42,,2015-06-17 18:34:02,2015-06-15,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,61.76,-2839,42002,-6%,-175337.0,,,,,CYBX
+43,,2015-06-17 18:29:14,2015-06-15,CYBX,Alch Darren,VP Genl Counsel Asst Sec,D - Sale to issuer,0.0,-1251,12089,-9%,-0.0,,,,,CYBX
+44,,2015-06-17 18:29:14,2015-06-15,CYBX,Alch Darren,VP Genl Counsel Asst Sec,F - Tax,61.76,-1237,12089,-9%,-76397.0,,,,,CYBX
+45,D,2015-06-17 18:18:29,2015-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",D - Sale to issuer,0.0,-4989,100902,-5%,-0.0,,,,,CYBX
+46,D,2015-06-17 18:18:29,2015-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,61.76,-10519,100902,-9%,-649653.0,,,,,CYBX
+47,D,2015-06-17 18:18:29,2015-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,61.34,-2500,100902,-2%,-153356.0,,,,,CYBX
+48,,2015-06-10 12:20:00,2015-06-08,CYBX,Tremmel Jon T,Dir,S - Sale,62.09,-4307,14125,-23%,-267424.0,,,,,CYBX
+49,,2015-06-10 12:17:45,2015-06-08,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,-14560,118910,-11%,-0.0,,,,,CYBX
+50,,2015-06-10 12:15:26,2015-06-08,CYBX,Laptewicz Joseph E,Dir,G - Gift,0.0,-3082,20883,-13%,-0.0,,,,,CYBX
+51,,2015-06-03 10:27:42,2015-06-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,65.36,-2000,49007,-4%,-130711.0,,,,,CYBX
+52,,2015-06-03 10:25:22,2015-06-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,65.31,-2000,49716,-4%,-130618.0,,,,,CYBX
+53,,2015-05-28 12:37:57,2015-05-26,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,62.32,-235,14577,-2%,-14645.0,,,,,CYBX
+54,,2015-05-19 11:53:29,2015-05-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,61.17,-2500,133470,-2%,-152930.0,,,,,CYBX
+55,,2015-05-05 15:13:44,2015-05-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,60.99,-2000,51007,-4%,-121979.0,,,,,CYBX
+56,,2015-05-05 15:08:07,2015-05-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,61.11,-2000,51716,-4%,-122229.0,,,,,CYBX
+57,D,2015-05-01 11:20:44,2015-04-29,CYBX,Morris Milton Mayo,Consultant,M - OptEx,44.79,7468,21146,+55%,334457.0,,,,,CYBX
+58,D,2015-05-01 11:20:44,2015-04-29,CYBX,Morris Milton Mayo,Consultant,S - Sale+OE,63.55,-7468,21146,-26%,-474603.0,,,,,CYBX
+59,,2015-04-24 10:10:55,2015-04-23,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,63.82,-236,14812,-2%,-15062.0,,,,,CYBX
+60,,2015-04-16 17:13:48,2015-04-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,65.39,-2500,135970,-2%,-163473.0,,,,,CYBX
+61,D,2015-04-09 10:16:48,2015-03-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-5770,138470,-4%,-0.0,,,,,CYBX
+62,A,2015-04-07 15:23:57,2014-11-24,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale,54.18,-7547,21146,-26%,-408883.0,,,,,CYBX
+63,,2015-04-02 15:14:28,2015-04-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,64.43,-2000,53007,-4%,-128861.0,,,,,CYBX
+64,,2015-04-02 15:12:19,2015-04-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,64.63,-2000,53716,-4%,-129256.0,,,,,CYBX
+65,A,2015-03-31 11:53:46,2015-02-23,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,58.33,-236,15283,-2%,-13766.0,,,,,CYBX
+66,,2015-03-25 14:59:57,2015-03-23,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,65.33,-235,15048,-2%,-15353.0,,,,,CYBX
+67,,2015-03-18 09:39:51,2015-03-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,66.76,-2500,192538,-1%,-166900.0,,,,,CYBX
+68,,2015-03-09 17:27:35,2015-03-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,71.76,-1500,195038,-1%,-107633.0,,,,,CYBX
+69,,2015-03-04 16:04:24,2015-03-02,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,69.3,-2000,55716,-3%,-138605.0,,,,,CYBX
+70,,2015-03-03 16:48:36,2015-03-02,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,69.02,-2000,55007,-4%,-138035.0,,,,,CYBX
+71,,2015-02-25 13:10:03,2015-02-23,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,58.33,-236,15283,-2%,-13766.0,,,,,CYBX
+72,,2015-02-19 13:26:30,2015-02-17,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,56.54,-2500,196538,-1%,-141350.0,,,,,CYBX
+73,,2015-02-09 10:15:26,2015-02-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,56.64,-1500,28823,-5%,-84962.0,,,,,CYBX
+74,,2015-02-03 11:40:36,2015-02-02,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,55.12,-2000,57007,-3%,-110236.0,,,,,CYBX
+75,,2015-01-26 12:55:21,2015-01-23,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,57.72,-235,15519,-1%,-13564.0,,,,,CYBX
+76,,2015-01-20 10:32:11,2015-01-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,55.67,-2500,200538,-1%,-139171.0,,,,,CYBX
+77,,2015-01-07 11:00:01,2015-01-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,54.12,-1500,203038,-1%,-81184.0,,,,,CYBX
+78,,2015-01-06 11:44:03,2015-01-02,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,54.67,-2000,59007,-3%,-109336.0,,,,,CYBX
+79,,2014-12-23 14:02:43,2014-12-23,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,54.85,-236,15754,-1%,-12945.0,,,,,CYBX
+80,,2014-12-03 10:32:26,2014-12-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,53.65,-2000,61007,-3%,-107308.0,,,,,CYBX
+81,,2014-11-25 20:58:41,2014-11-24,CYBX,Morrison Hugh M,Dir,S - Sale,53.79,-2454,10315,-19%,-132009.0,,,,,CYBX
+82,,2014-11-25 20:56:20,2014-11-24,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale,54.18,-7547,26599,-22%,-408883.0,,,,,CYBX
+83,,2014-11-25 09:29:42,2014-11-24,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,54.47,-2422,15990,-13%,-131922.0,,,,,CYBX
+84,,2014-11-04 18:02:26,2014-11-01,CYBX,Wise David S,"SVP, Chief Admin Officer",F - Tax,0.0,-5113,63007,-8%,-0.0,,,,,CYBX
+85,,2014-11-04 18:02:26,2014-11-03,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,52.19,-2000,63007,-3%,-104388.0,,,,,CYBX
+86,,2014-11-04 17:54:33,2014-11-01,CYBX,Morris Milton Mayo,"SVP Research, Development",F - Tax,0.0,-5453,28693,-16%,-0.0,,,,,CYBX
+87,,2014-11-04 17:51:12,2014-11-01,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-20975,183563,-10%,-0.0,,,,,CYBX
+88,,2014-11-04 17:49:05,2014-11-01,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-5195,57716,-8%,-0.0,,,,,CYBX
+89,,2014-11-04 17:46:51,2014-11-01,CYBX,Alch Darren,VP Genl Counsel Asst Sec,F - Tax,0.0,-911,18412,-5%,-0.0,,,,,CYBX
+90,,2014-10-24 12:22:14,2014-10-23,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,51.56,-236,19323,-1%,-12168.0,,,,,CYBX
+91,D,2014-10-17 11:08:54,2014-10-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,25.71,4000,204538,+2%,102840.0,,,,,CYBX
+92,D,2014-10-17 11:08:54,2014-10-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,50.04,-7000,204538,-3%,-350276.0,,,,,CYBX
+93,,2014-10-02 11:09:22,2014-10-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,50.09,-2000,70120,-3%,-100172.0,,,,,CYBX
+94,,2014-09-25 11:38:08,2014-09-23,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,51.95,-235,19559,-1%,-12208.0,,,,,CYBX
+95,,2014-09-22 13:51:21,2014-09-18,CYBX,Tremmel Jon T,Dir,A - Grant,0.0,2315,18432,+14%,0.0,,,,,CYBX
+96,,2014-09-22 13:49:23,2014-09-18,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,2315,15265,+18%,0.0,,,,,CYBX
+97,,2014-09-22 13:47:49,2014-09-18,CYBX,Novak Alfred J,Dir,A - Grant,0.0,2315,17020,+16%,0.0,,,,,CYBX
+98,,2014-09-22 13:44:44,2014-09-18,CYBX,Morrison Hugh M,Dir,A - Grant,0.0,2315,12769,+22%,0.0,,,,,CYBX
+99,,2014-09-22 13:41:45,2014-09-18,CYBX,Laptewicz Joseph E,Dir,A - Grant,0.0,2315,23965,+11%,0.0,,,,,CYBX
+100,,2014-09-22 13:39:43,2014-09-18,CYBX,Jackson Guy C.,Dir,A - Grant,0.0,2315,36603,+7%,0.0,,,,,CYBX
+101,,2014-09-18 14:38:12,2014-09-16,CYBX,Laptewicz Joseph E,Dir,G - Gift,0.0,-2414,21650,-10%,-0.0,,,,,CYBX
+102,D,2014-09-17 10:20:27,2014-09-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,25.71,4000,207538,+2%,102840.0,,,,,CYBX
+103,D,2014-09-17 10:20:27,2014-09-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,54.32,-7000,207538,-3%,-380246.0,,,,,CYBX
+104,,2014-09-12 17:00:44,2014-09-10,CYBX,Morrison Hugh M,Dir,S - Sale,54.13,-500,10454,-5%,-27063.0,,,,,CYBX
+105,D,2014-09-12 16:59:03,2014-09-11,CYBX,Alch Darren,VP Genl Counsel Asst Sec,M - OptEx,14.72,1000,19794,+5%,14720.0,,,,,CYBX
+106,D,2014-09-12 16:59:03,2014-09-11,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale+OE,53.72,-1000,19794,-5%,-53720.0,,,,,CYBX
+107,,2014-09-09 17:03:44,2014-09-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,55.3,-4750,210538,-2%,-262665.0,,,,,CYBX
+108,,2014-09-04 11:03:03,2014-09-02,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,56.33,-2000,72120,-3%,-112655.0,,,,,CYBX
+109,D,2014-09-03 13:52:28,2014-08-29,CYBX,Morris Milton Mayo,"SVP Research, Development",M - OptEx,16.38,13000,34146,+61%,212940.0,,,,,CYBX
+110,D,2014-09-03 13:52:28,2014-08-29,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale+OE,57.15,-13000,34146,-28%,-743011.0,,,,,CYBX
+111,,2014-08-27 13:10:53,2014-08-25,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,56.96,-236,19794,-1%,-13443.0,,,,,CYBX
+112,D,2014-08-19 09:48:52,2014-08-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,25.71,4000,215288,+2%,102840.0,,,,,CYBX
+113,D,2014-08-19 09:48:52,2014-08-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,60.74,-7000,215288,-3%,-425160.0,,,,,CYBX
+114,,2014-08-07 10:06:21,2014-08-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,60.56,-4750,218288,-2%,-287677.0,,,,,CYBX
+115,,2014-07-24 15:48:14,2014-07-23,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,58.62,-235,20030,-1%,-13776.0,,,,,CYBX
+116,D,2014-07-17 07:29:26,2014-07-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,25.71,4000,223038,+2%,102840.0,,,,,CYBX
+117,D,2014-07-17 07:29:26,2014-07-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,59.36,-7000,223038,-3%,-415510.0,,,,,CYBX
+118,,2014-07-08 17:35:32,2014-07-07,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,61.73,-4750,226038,-2%,-293226.0,,,,,CYBX
+119,,2014-06-24 10:33:32,2014-06-20,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale,58.06,-9224,34146,-21%,-535521.0,,,,,CYBX
+120,D,2014-06-18 17:25:48,2014-06-15,CYBX,Simpson Randal L,VP Operations,A - Grant,0.0,3230,43669,+8%,0.0,,,,,CYBX
+121,DM,2014-06-18 17:25:48,2014-06-15,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-1846,43669,-4%,-0.0,,,,,CYBX
+122,D,2014-06-18 17:21:28,2014-06-15,CYBX,Verratti Mark,VP Global Sales,A - Grant,0.0,3740,54663,+7%,0.0,,,,,CYBX
+123,DM,2014-06-18 17:21:28,2014-06-15,CYBX,Verratti Mark,VP Global Sales,F - Tax,0.0,-1796,54663,-3%,-0.0,,,,,CYBX
+124,D,2014-06-18 17:18:59,2014-06-15,CYBX,Browne Gregory H,"SVP Finance, CFO",A - Grant,0.0,4524,62911,+8%,0.0,,,,,CYBX
+125,DM,2014-06-18 17:18:59,2014-06-15,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-3555,62911,-5%,-0.0,,,,,CYBX
+126,D,2014-06-18 17:16:26,2014-06-15,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,0.0,4524,74120,+7%,0.0,,,,,CYBX
+127,DM,2014-06-18 17:16:26,2014-06-15,CYBX,Wise David S,"SVP, Chief Admin Officer",F - Tax,0.0,-3459,74120,-4%,-0.0,,,,,CYBX
+128,D,2014-06-18 17:12:48,2014-06-15,CYBX,Morris Milton Mayo,"SVP Research, Development",A - Grant,0.0,3653,43370,+9%,0.0,,,,,CYBX
+129,DM,2014-06-18 17:12:48,2014-06-15,CYBX,Morris Milton Mayo,"SVP Research, Development",F - Tax,0.0,-3469,43370,-7%,-0.0,,,,,CYBX
+130,D,2014-06-18 17:10:59,2014-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,21424,230788,+10%,0.0,,,,,CYBX
+131,DM,2014-06-18 17:10:59,2014-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-11906,230788,-5%,-0.0,,,,,CYBX
+132,D,2014-06-18 17:10:59,2014-06-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,25.71,4000,230788,+2%,102840.0,,,,,CYBX
+133,D,2014-06-18 17:10:59,2014-06-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,57.18,-7000,230788,-3%,-400238.0,,,,,CYBX
+134,D,2014-06-18 17:08:44,2014-06-15,CYBX,Kenknight Bruce H,"VP, Emerging Therapies",A - Grant,0.0,3049,38519,+9%,0.0,,,,,CYBX
+135,D,2014-06-18 17:07:19,2014-06-15,CYBX,Hoare Rohan,"SVP, COO",A - Grant,0.0,11674,16166,+260%,0.0,,,,,CYBX
+136,D,2014-06-18 17:00:35,2014-06-15,CYBX,Alch Darren,VP Genl Counsel Asst Sec,A - Grant,0.0,2879,20265,+17%,0.0,,,,,CYBX
+137,DM,2014-06-18 17:00:35,2014-06-15,CYBX,Alch Darren,VP Genl Counsel Asst Sec,F - Tax,0.0,-1488,20265,-7%,-0.0,,,,,CYBX
+138,,2014-06-13 17:44:07,2014-06-11,CYBX,Olin Bryan D,VP Clinical Quality Regulatory,S - Sale,58.17,-10000,53424,-16%,-581704.0,,,,,CYBX
+139,,2014-06-09 09:22:06,2014-06-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,57.2,-4750,224270,-2%,-271713.0,,,,,CYBX
+140,,2014-05-20 08:56:28,2014-05-16,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,59.23,-1500,61942,-2%,-88845.0,,,,,CYBX
+141,D,2014-05-19 18:02:31,2014-05-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,25.23,4000,229020,+2%,100914.0,,,,,CYBX
+142,D,2014-05-19 18:02:31,2014-05-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,59.25,-7000,229020,-3%,-414735.0,,,,,CYBX
+143,,2014-05-07 13:10:39,2014-05-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,62.08,-4750,226132,-2%,-294890.0,,,,,CYBX
+144,,2014-05-07 13:05:08,2014-05-05,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,62.09,-2000,73055,-3%,-124180.0,,,,,CYBX
+145,,2014-04-17 17:13:24,2014-04-16,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,61.61,-1500,63442,-2%,-92418.0,,,,,CYBX
+146,D,2014-04-17 17:11:12,2014-04-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,24.33,4000,230882,+2%,97320.0,,,,,CYBX
+147,D,2014-04-17 17:11:12,2014-04-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,61.22,-7000,230882,-3%,-428572.0,,,,,CYBX
+148,,2014-04-09 11:45:32,2014-04-07,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,61.81,-4750,233882,-2%,-293615.0,,,,,CYBX
+149,,2014-04-03 10:23:01,2014-04-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,65.56,-2000,75055,-3%,-131130.0,,,,,CYBX
+150,D,2014-03-18 18:50:50,2014-03-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-6620,238632,-3%,-0.0,,,,,CYBX
+151,D,2014-03-18 18:50:50,2014-03-17,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,24.33,4000,238632,+2%,97320.0,,,,,CYBX
+152,D,2014-03-18 18:50:50,2014-03-17,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,66.62,-7000,238632,-3%,-466309.0,,,,,CYBX
+153,,2014-03-18 18:48:39,2014-03-17,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,66.6,-1500,64942,-2%,-99895.0,,,,,CYBX
+154,,2014-03-06 16:01:41,2014-03-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,69.59,-4750,248252,-2%,-330530.0,,,,,CYBX
+155,,2014-03-05 10:54:03,2014-03-03,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,67.58,-2000,77055,-3%,-135156.0,,,,,CYBX
+156,D,2014-03-04 12:06:36,2014-02-28,CYBX,Jackson Guy C.,Dir,M - OptEx,19.75,8000,34288,+30%,158000.0,,,,,CYBX
+157,D,2014-03-04 12:06:36,2014-02-28,CYBX,Jackson Guy C.,Dir,S - Sale+OE,69.08,-8000,34288,-19%,-552671.0,,,,,CYBX
+158,,2014-03-03 12:02:19,2014-02-27,CYBX,Novak Alfred J,Dir,S - Sale,67.96,-1274,14705,-8%,-86581.0,,,,,CYBX
+159,D,2014-02-28 10:15:42,2014-02-26,CYBX,Olin Bryan D,VP Clinical Quality Regulatory,M - OptEx,20.93,10672,63424,+20%,223416.0,,,,,CYBX
+160,D,2014-02-28 10:15:42,2014-02-26,CYBX,Olin Bryan D,VP Clinical Quality Regulatory,S - Sale+OE,68.34,-10672,63424,-14%,-729315.0,,,,,CYBX
+161,,2014-02-27 15:29:31,2014-02-25,CYBX,Novak Alfred J,Dir,S - Sale,68.75,-3621,15979,-18%,-248944.0,,,,,CYBX
+162,,2014-02-26 10:23:14,2014-02-24,CYBX,Morrison Hugh M,Dir,S - Sale,69.35,-500,10954,-4%,-34675.0,,,,,CYBX
+163,D,2014-02-26 10:21:25,2014-02-24,CYBX,Alch Darren,VP Genl Counsel Asst Sec,M - OptEx,16.72,1750,18874,+10%,29263.0,,,,,CYBX
+164,D,2014-02-26 10:21:25,2014-02-24,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale+OE,69.19,-1750,18874,-8%,-121091.0,,,,,CYBX
+165,D,2014-02-20 17:03:54,2014-02-18,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,24.33,4000,253002,+2%,97320.0,,,,,CYBX
+166,D,2014-02-20 17:03:54,2014-02-18,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,72.48,-7000,253002,-3%,-507366.0,,,,,CYBX
+167,,2014-02-20 17:01:56,2014-02-18,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,72.45,-1500,66442,-2%,-108675.0,,,,,CYBX
+168,,2014-02-07 10:34:01,2014-02-06,CYBX,Simpson Randal L,VP Operations,S - Sale,66.17,-3000,42285,-7%,-198510.0,,,,,CYBX
+169,,2014-02-07 10:31:58,2014-02-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,66.36,-4750,256002,-2%,-315188.0,,,,,CYBX
+170,,2014-02-05 10:30:09,2014-02-03,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,65.57,-2000,79055,-2%,-131133.0,,,,,CYBX
+171,,2014-01-21 10:13:17,2014-01-16,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,69.32,-1500,67942,-2%,-103979.0,,,,,CYBX
+172,D,2014-01-17 11:37:00,2014-01-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,24.33,4000,260752,+2%,97320.0,,,,,CYBX
+173,D,2014-01-17 11:37:00,2014-01-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,68.81,-7000,260752,-3%,-481691.0,,,,,CYBX
+174,,2014-01-08 16:08:50,2014-01-06,CYBX,Simpson Randal L,VP Operations,S - Sale,64.89,-3000,45285,-6%,-194670.0,,,,,CYBX
+175,,2014-01-08 16:06:59,2014-01-06,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,64.72,-4750,263752,-2%,-307402.0,,,,,CYBX
+176,,2014-01-06 13:48:50,2014-01-02,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,63.65,-2000,81055,-2%,-127295.0,,,,,CYBX
+177,D,2013-12-18 10:20:29,2013-12-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,24.33,4000,268502,+2%,97320.0,,,,,CYBX
+178,D,2013-12-18 10:20:29,2013-12-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,64.59,-7000,268502,-3%,-452134.0,,,,,CYBX
+179,,2013-12-18 10:12:34,2013-12-16,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,64.6,-1500,69442,-2%,-96903.0,,,,,CYBX
+180,,2013-12-12 09:30:39,2013-12-10,CYBX,Morrison Hugh M,Dir,S - Sale,66.54,-1000,11454,-8%,-66540.0,,,,,CYBX
+181,,2013-12-11 10:28:22,2013-12-09,CYBX,Novak Alfred J,Dir,S - Sale,67.49,-2750,19600,-12%,-185592.0,,,,,CYBX
+182,,2013-12-11 10:26:10,2013-12-09,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,68.01,-10000,70942,-12%,-680097.0,,,,,CYBX
+183,,2013-12-09 10:56:03,2013-12-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,69.48,-4750,271502,-2%,-330042.0,,,,,CYBX
+184,D,2013-12-05 10:05:38,2013-12-03,CYBX,Verratti Mark,VP Global Sales,M - OptEx,37.9,18750,52719,+55%,710625.0,,,,,CYBX
+185,D,2013-12-05 10:05:38,2013-12-03,CYBX,Verratti Mark,VP Global Sales,S - Sale+OE,71.12,-18750,52719,-26%,-1333478.0,,,,,CYBX
+186,,2013-12-04 12:33:26,2013-12-02,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,69.62,-2000,83055,-2%,-139249.0,,,,,CYBX
+187,D,2013-12-04 12:31:25,2013-12-02,CYBX,Simpson Randal L,VP Operations,M - OptEx,13.88,5000,48285,+12%,69400.0,,,,,CYBX
+188,D,2013-12-04 12:31:25,2013-12-02,CYBX,Simpson Randal L,VP Operations,S - Sale+OE,69.23,-5000,48285,-9%,-346169.0,,,,,CYBX
+189,D,2013-12-02 16:04:00,2013-11-27,CYBX,Verratti Mark,VP Global Sales,M - OptEx,37.9,2559,52719,+5%,96986.0,,,,,CYBX
+190,D,2013-12-02 16:04:00,2013-11-27,CYBX,Verratti Mark,VP Global Sales,S - Sale+OE,68.65,-2559,52719,-5%,-175675.0,,,,,CYBX
+191,D,2013-11-29 09:58:14,2013-11-26,CYBX,Wise David S,"SVP, Chief Admin Officer",M - OptEx,14.72,20788,85055,+32%,305999.0,,,,,CYBX
+192,D,2013-11-29 09:58:14,2013-11-26,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,68.7,-20788,85055,-20%,-1428221.0,,,,,CYBX
+193,D,2013-11-29 09:54:19,2013-11-26,CYBX,Verratti Mark,VP Global Sales,M - OptEx,37.9,16191,52719,+44%,613639.0,,,,,CYBX
+194,D,2013-11-29 09:54:19,2013-11-26,CYBX,Verratti Mark,VP Global Sales,S - Sale+OE,68.84,-16191,52719,-23%,-1114541.0,,,,,CYBX
+195,,2013-11-29 09:52:09,2013-11-26,CYBX,Laptewicz Joseph E,Dir,G - Gift,0.0,-1273,24064,-5%,-0.0,,,,,CYBX
+196,D,2013-11-29 09:49:35,2013-11-26,CYBX,Browne Gregory H,"SVP Finance, CFO",M - OptEx,32.35,6716,80942,+9%,217248.0,,,,,CYBX
+197,D,2013-11-29 09:49:35,2013-11-26,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale+OE,68.64,-6716,80942,-8%,-460973.0,,,,,CYBX
+198,,2013-11-27 08:46:53,2013-11-25,CYBX,Verratti Mark,VP Global Sales,S - Sale,67.96,-3661,52719,-6%,-248784.0,,,,,CYBX
+199,D,2013-11-27 08:43:22,2013-11-25,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",M - OptEx,14.72,4000,24161,+20%,58880.0,,,,,CYBX
+200,D,2013-11-27 08:43:22,2013-11-25,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",S - Sale+OE,68.63,-4000,24161,-14%,-274537.0,,,,,CYBX
+201,D,2013-11-27 08:40:20,2013-11-25,CYBX,Alch Darren,VP Genl Counsel Asst Sec,M - OptEx,14.72,1250,18874,+7%,18400.0,,,,,CYBX
+202,D,2013-11-27 08:40:20,2013-11-25,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale+OE,68.52,-1250,18874,-6%,-85650.0,,,,,CYBX
+203,,2013-11-20 09:12:11,2013-11-18,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,61.75,-1500,80942,-2%,-92625.0,,,,,CYBX
+204,D,2013-11-19 13:07:05,2013-11-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,24.33,4000,276252,+1%,97320.0,,,,,CYBX
+205,D,2013-11-19 13:07:05,2013-11-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,60.21,-7000,276252,-2%,-421481.0,,,,,CYBX
+206,,2013-11-07 16:48:38,2013-11-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,56.77,-4750,279252,-2%,-269679.0,,,,,CYBX
+207,D,2013-11-04 20:16:23,2013-11-01,CYBX,Simpson Randal L,VP Operations,M - OptEx,13.88,5000,48285,+12%,69400.0,,,,,CYBX
+208,D,2013-11-04 20:16:23,2013-11-01,CYBX,Simpson Randal L,VP Operations,S - Sale+OE,56.87,-5000,48285,-9%,-284329.0,,,,,CYBX
+209,,2013-11-04 10:18:33,2013-11-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,56.83,-2000,85055,-2%,-113663.0,,,,,CYBX
+210,,2013-10-18 13:40:57,2013-10-16,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,54.09,-1500,82442,-2%,-81131.0,,,,,CYBX
+211,D,2013-10-17 10:12:50,2013-10-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,24.33,4000,284002,+1%,97320.0,,,,,CYBX
+212,D,2013-10-17 10:12:50,2013-10-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,53.07,-7000,284002,-2%,-371478.0,,,,,CYBX
+213,,2013-10-09 10:21:37,2013-10-07,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,50.96,-4750,287002,-2%,-242048.0,,,,,CYBX
+214,D,2013-10-07 14:16:06,2013-10-03,CYBX,Simpson Randal L,VP Operations,M - OptEx,13.88,5000,48285,+12%,69400.0,,,,,CYBX
+215,D,2013-10-07 14:16:06,2013-10-03,CYBX,Simpson Randal L,VP Operations,S - Sale+OE,50.84,-5000,48285,-9%,-254202.0,,,,,CYBX
+216,,2013-10-03 15:38:18,2013-10-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,50.62,-2000,87055,-2%,-101236.0,,,,,CYBX
+217,D,2013-10-03 15:33:32,2013-10-01,CYBX,Morris Milton Mayo,"SVP Research, Development",M - OptEx,16.38,5000,43643,+13%,81900.0,,,,,CYBX
+218,D,2013-10-03 15:33:32,2013-10-01,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale+OE,50.35,-5000,43643,-10%,-251770.0,,,,,CYBX
+219,,2013-09-30 10:11:16,2013-09-26,CYBX,Morrison Hugh M,Dir,S - Sale,51.0,-3105,12454,-20%,-158357.0,,,,,CYBX
+220,,2013-09-24 11:56:37,2013-09-19,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,2454,12950,+23%,0.0,,,,,CYBX
+221,,2013-09-23 14:54:34,2013-09-19,CYBX,Tremmel Jon T,Dir,A - Grant,0.0,2454,16117,+18%,0.0,,,,,CYBX
+222,,2013-09-23 14:47:01,2013-09-19,CYBX,Novak Alfred J,Dir,A - Grant,0.0,2454,22350,+12%,0.0,,,,,CYBX
+223,,2013-09-23 14:42:16,2013-09-19,CYBX,Morrison Hugh M,Dir,A - Grant,0.0,2454,15559,+19%,0.0,,,,,CYBX
+224,,2013-09-23 14:32:23,2013-09-19,CYBX,Laptewicz Joseph E,Dir,A - Grant,0.0,2454,25337,+11%,0.0,,,,,CYBX
+225,,2013-09-23 14:27:52,2013-09-19,CYBX,Jackson Guy C.,Dir,A - Grant,0.0,2454,34288,+8%,0.0,,,,,CYBX
+226,D,2013-09-18 11:55:11,2013-09-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,-200,291752,0%,-0.0,,,,,CYBX
+227,D,2013-09-18 11:55:11,2013-09-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,24.33,4000,291752,+1%,97320.0,,,,,CYBX
+228,D,2013-09-18 11:55:11,2013-09-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,51.74,-7000,291752,-2%,-362145.0,,,,,CYBX
+229,,2013-09-18 11:52:55,2013-09-16,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,51.71,-1500,83942,-2%,-77570.0,,,,,CYBX
+230,D,2013-09-18 11:51:07,2013-09-15,CYBX,Hoare Rohan,SVP Strategic Planning,A - Grant,0.0,4492,4492,New,0.0,,,,,CYBX
+231,,2013-09-11 12:14:32,2013-09-09,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,51.26,-932,18874,-5%,-47778.0,,,,,CYBX
+232,,2013-09-09 10:45:52,2013-09-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,51.89,-3000,294752,-1%,-155673.0,,,,,CYBX
+233,,2013-09-05 15:37:35,2013-09-03,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,51.02,-2000,89055,-2%,-102032.0,,,,,CYBX
+234,D,2013-08-28 10:24:00,2013-08-26,CYBX,Wise David S,"SVP, Chief Admin Officer",M - OptEx,19.39,21273,91055,+30%,412483.0,,,,,CYBX
+235,D,2013-08-28 10:24:00,2013-08-26,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,55.02,-21273,91055,-19%,-1170464.0,,,,,CYBX
+236,,2013-08-28 10:22:24,2013-08-26,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,55.57,-9413,85442,-10%,-523090.0,,,,,CYBX
+237,D,2013-08-23 09:59:47,2013-08-21,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",M - OptEx,19.45,3000,24161,+14%,58360.0,,,,,CYBX
+238,D,2013-08-23 09:59:47,2013-08-21,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",S - Sale+OE,55.0,-3000,24161,-11%,-165000.0,,,,,CYBX
+239,,2013-08-20 10:05:29,2013-08-16,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,52.66,-1500,94855,-2%,-78987.0,,,,,CYBX
+240,D,2013-08-16 15:03:58,2013-08-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,19.07,4000,297752,+1%,76274.0,,,,,CYBX
+241,D,2013-08-16 15:03:58,2013-08-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,53.58,-7000,297752,-2%,-375066.0,,,,,CYBX
+242,M,2013-08-07 13:47:56,2013-08-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,-71260,321722,-18%,-0.0,,,,,CYBX
+243,,2013-08-07 13:47:56,2013-08-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,52.63,-3000,321722,-1%,-157888.0,,,,,CYBX
+244,AD,2013-08-07 13:40:21,2013-03-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-2470,180698,-1%,-0.0,,,,,CYBX
+245,AD,2013-08-07 13:40:21,2013-03-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,46.5,5888,180698,+3%,273792.0,,,,,CYBX
+246,AD,2013-08-07 13:36:11,2012-09-14,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-7998,227512,-3%,-0.0,,,,,CYBX
+247,AD,2013-08-07 13:36:11,2012-09-14,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,50.1,21941,227512,+11%,1099244.0,,,,,CYBX
+248,,2013-08-05 13:48:14,2013-08-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,50.88,-2000,91055,-2%,-101769.0,,,,,CYBX
+249,,2013-07-18 11:30:03,2013-07-16,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,53.43,-1500,96355,-2%,-80147.0,,,,,CYBX
+250,D,2013-07-17 12:36:54,2013-07-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,14.72,4000,299172,+1%,58880.0,,,,,CYBX
+251,D,2013-07-17 12:36:54,2013-07-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,53.1,-7000,299172,-2%,-371725.0,,,,,CYBX
+252,D,2013-07-11 09:34:36,2013-07-10,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",M - OptEx,30.78,1415,24161,+6%,43554.0,,,,,CYBX
+253,D,2013-07-11 09:34:36,2013-07-10,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",S - Sale+OE,53.0,-1415,24161,-6%,-74995.0,,,,,CYBX
+254,,2013-07-09 13:30:15,2013-07-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,52.28,-3000,302172,-1%,-156854.0,,,,,CYBX
+255,,2013-07-03 11:27:52,2013-07-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,52.35,-2000,93055,-2%,-104700.0,,,,,CYBX
+256,D,2013-07-03 11:23:26,2013-07-01,CYBX,Morris Milton Mayo,"SVP Research, Development",M - OptEx,16.38,5000,43643,+13%,81900.0,,,,,CYBX
+257,D,2013-07-03 11:23:26,2013-07-01,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale+OE,52.03,-5000,43643,-10%,-260174.0,,,,,CYBX
+258,D,2013-07-03 11:14:02,2013-07-01,CYBX,Morris Milton Mayo,"SVP Research, Development",M - OptEx,16.38,5000,43643,+13%,81900.0,,,,,CYBX
+259,D,2013-07-03 11:14:02,2013-07-01,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale+OE,52.03,-5000,43643,-10%,-260174.0,,,,,CYBX
+260,,2013-07-01 11:31:15,2013-06-27,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale,51.69,-4608,43643,-10%,-238192.0,,,,,CYBX
+261,,2013-06-25 14:30:58,2013-06-21,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale,51.47,-4569,48251,-9%,-235161.0,,,,,CYBX
+262,,2013-06-25 14:29:18,2013-06-24,CYBX,Alch Darren,VP Genl Counsel Asst Sec,S - Sale,51.59,-1500,19806,-7%,-77392.0,,,,,CYBX
+263,D,2013-06-21 17:30:10,2013-06-19,CYBX,Moore Daniel Jeffrey,"Pres, CEO",D - Sale to issuer,51.02,-18348,305172,-6%,-936115.0,,,,,CYBX
+264,D,2013-06-21 17:30:10,2013-06-19,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-2790,305172,-1%,-0.0,,,,,CYBX
+265,D,2013-06-21 17:30:10,2013-06-19,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,0.0,18348,305172,+6%,0.0,,,,,CYBX
+266,,2013-06-21 16:52:53,2013-06-19,CYBX,Wise David S,"SVP, Chief Admin Officer",F - Tax,0.0,-2266,95055,-2%,-0.0,,,,,CYBX
+267,,2013-06-21 16:46:32,2013-06-19,CYBX,Verratti Mark,VP Global Sales,F - Tax,0.0,-1554,56380,-3%,-0.0,,,,,CYBX
+268,,2013-06-21 16:45:12,2013-06-19,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-682,48285,-1%,-0.0,,,,,CYBX
+269,,2013-06-21 16:43:29,2013-06-19,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",F - Tax,0.0,-454,24161,-2%,-0.0,,,,,CYBX
+270,,2013-06-21 16:41:41,2013-06-19,CYBX,Olin Bryan D,VP Clinical Quality Regulatory,F - Tax,0.0,-1907,63424,-3%,-0.0,,,,,CYBX
+271,,2013-06-21 16:29:07,2013-06-19,CYBX,Morris Milton Mayo,"SVP Research, Development",F - Tax,0.0,-1892,53251,-3%,-0.0,,,,,CYBX
+272,,2013-06-21 16:15:37,2013-06-19,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-2726,97855,-3%,-0.0,,,,,CYBX
+273,,2013-06-21 15:06:32,2013-06-19,CYBX,Alch Darren,VP Genl Counsel Asst Sec,F - Tax,0.0,-454,21306,-2%,-0.0,,,,,CYBX
+274,A,2013-06-18 17:49:36,2013-06-11,CYBX,Morrison Hugh M,Dir,S - Sale,51.92,-500,13105,-4%,-25960.0,,,,,CYBX
+275,D,2013-06-18 17:46:31,2013-06-15,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,0.0,4816,189826,+3%,0.0,,,,,CYBX
+276,D,2013-06-18 17:46:31,2013-06-14,CYBX,Wise David S,"SVP, Chief Admin Officer",F - Tax,0.0,-2377,189826,-1%,-0.0,,,,,CYBX
+277,D,2013-06-18 17:43:04,2013-06-15,CYBX,Verratti Mark,VP Global Sales,A - Grant,0.0,3853,57934,+7%,0.0,,,,,CYBX
+278,D,2013-06-18 17:43:04,2013-06-14,CYBX,Verratti Mark,VP Global Sales,F - Tax,0.0,-99,57934,0%,-0.0,,,,,CYBX
+279,D,2013-06-18 17:39:30,2013-06-15,CYBX,Simpson Randal L,VP Operations,A - Grant,0.0,2890,48967,+6%,0.0,,,,,CYBX
+280,D,2013-06-18 17:39:30,2013-06-14,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-1376,48967,-3%,-0.0,,,,,CYBX
+281,D,2013-06-18 17:35:27,2013-06-15,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",A - Grant,0.0,2890,24615,+13%,0.0,,,,,CYBX
+282,D,2013-06-18 17:35:27,2013-06-14,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",F - Tax,0.0,-215,24615,-1%,-0.0,,,,,CYBX
+283,AD,2013-06-18 17:30:39,2013-06-07,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",M - OptEx,30.78,1085,23161,+5%,33396.0,,,,,CYBX
+284,D,2013-06-18 17:28:26,2013-06-15,CYBX,Olin Bryan D,VP Clinical Quality Regulatory,A - Grant,0.0,3131,65331,+5%,0.0,,,,,CYBX
+285,D,2013-06-18 17:28:26,2013-06-14,CYBX,Olin Bryan D,VP Clinical Quality Regulatory,F - Tax,0.0,-1686,65331,-3%,-0.0,,,,,CYBX
+286,D,2013-06-18 17:26:36,2013-06-15,CYBX,Morris Milton Mayo,"SVP Research, Development",A - Grant,0.0,3853,55143,+8%,0.0,,,,,CYBX
+287,D,2013-06-18 17:26:36,2013-06-14,CYBX,Morris Milton Mayo,"SVP Research, Development",F - Tax,0.0,-1719,55143,-3%,-0.0,,,,,CYBX
+288,D,2013-06-18 17:24:04,2013-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,21194,290601,+8%,0.0,,,,,CYBX
+289,D,2013-06-18 17:24:04,2013-06-14,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-9879,290601,-3%,-0.0,,,,,CYBX
+290,D,2013-06-18 17:24:04,2013-06-17,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,14.72,4000,290601,+1%,58880.0,,,,,CYBX
+291,D,2013-06-18 17:24:04,2013-06-17,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,51.61,-7000,290601,-2%,-361243.0,,,,,CYBX
+292,D,2013-06-18 17:22:13,2013-06-15,CYBX,Kenknight Bruce H,"VP, Emerging Therapies",A - Grant,0.0,2890,35470,+9%,0.0,,,,,CYBX
+293,D,2013-06-18 17:20:02,2013-06-15,CYBX,Browne Gregory H,"SVP Finance, CFO",A - Grant,0.0,4816,100581,+5%,0.0,,,,,CYBX
+294,D,2013-06-18 17:20:02,2013-06-14,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-2326,100581,-2%,-0.0,,,,,CYBX
+295,D,2013-06-18 17:20:02,2013-06-17,CYBX,Browne Gregory H,"SVP Finance, CFO",M - OptEx,21.05,14926,100581,+17%,314261.0,,,,,CYBX
+296,D,2013-06-18 17:20:02,2013-06-17,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale+OE,51.69,-16426,100581,-14%,-848997.0,,,,,CYBX
+297,D,2013-06-18 17:17:39,2013-06-15,CYBX,Alch Darren,VP Genl Counsel Asst Sec,A - Grant,0.0,2890,21760,+15%,0.0,,,,,CYBX
+298,D,2013-06-18 17:17:39,2013-06-14,CYBX,Alch Darren,VP Genl Counsel Asst Sec,F - Tax,0.0,-85,21760,0%,-0.0,,,,,CYBX
+299,D,2013-06-14 07:52:55,2013-06-12,CYBX,Olin Bryan D,VP Clinical Quality Regulatory,M - OptEx,14.72,7000,63886,+12%,103040.0,,,,,CYBX
+300,D,2013-06-14 07:52:55,2013-06-12,CYBX,Olin Bryan D,VP Clinical Quality Regulatory,S - Sale+OE,52.3,-7000,63886,-10%,-366077.0,,,,,CYBX
+301,,2013-06-13 08:47:16,2013-06-11,CYBX,Morrison Hugh M,Dir,S - Sale,51.92,-500,13105,-4%,-25960.0,,,,,CYBX
+302,D,2013-06-11 15:50:57,2013-06-07,CYBX,Wise David S,"SVP, Chief Admin Officer",M - OptEx,19.75,5000,94882,+6%,98750.0,,,,,CYBX
+303,D,2013-06-11 15:50:57,2013-06-07,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,52.21,-5000,94882,-5%,-261074.0,,,,,CYBX
+304,,2013-06-11 15:39:29,2013-06-10,CYBX,Verratti Mark,VP Global Sales,F - Tax,0.0,-340,54180,-1%,-0.0,,,,,CYBX
+305,D,2013-06-11 15:33:13,2013-06-10,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",F - Tax,0.0,-136,21940,-1%,-0.0,,,,,CYBX
+306,D,2013-06-11 15:33:13,2013-06-07,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",M - OptEx,20.46,1085,21940,+5%,22196.0,,,,,CYBX
+307,D,2013-06-11 15:33:13,2013-06-07,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",S - Sale+OE,53.0,-1085,21940,-5%,-57505.0,,,,,CYBX
+308,,2013-06-11 15:29:47,2013-06-07,CYBX,Novak Alfred J,Dir,S - Sale,52.49,-7213,19896,-27%,-378583.0,,,,,CYBX
+309,D,2013-06-11 15:07:07,2013-06-07,CYBX,Jackson Guy C.,Dir,M - OptEx,21.56,7500,31834,+31%,161700.0,,,,,CYBX
+310,D,2013-06-11 15:07:07,2013-06-07,CYBX,Jackson Guy C.,Dir,S - Sale+OE,51.75,-7500,31834,-19%,-388111.0,,,,,CYBX
+311,,2013-06-11 14:58:47,2013-06-10,CYBX,Alch Darren,"VP, Asst Secretary",F - Tax,0.0,-221,18955,-1%,-0.0,,,,,CYBX
+312,,2013-06-07 10:24:34,2013-06-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,49.86,-3000,282286,-1%,-149587.0,,,,,CYBX
+313,,2013-06-05 09:07:03,2013-06-03,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,47.44,-2000,94882,-2%,-94880.0,,,,,CYBX
+314,D,2013-05-22 10:30:01,2013-05-20,CYBX,Morris Milton Mayo,"SVP Research, Development",M - OptEx,16.38,5000,53009,+10%,81900.0,,,,,CYBX
+315,D,2013-05-22 10:30:01,2013-05-20,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale+OE,49.19,-5000,53009,-9%,-245936.0,,,,,CYBX
+316,D,2013-05-17 11:15:28,2013-05-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,19.54,4000,285286,+1%,78153.0,,,,,CYBX
+317,D,2013-05-17 11:15:28,2013-05-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,48.16,-7000,285286,-2%,-337121.0,,,,,CYBX
+318,,2013-05-08 14:30:16,2013-05-06,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,43.03,-3000,288286,-1%,-129104.0,,,,,CYBX
+319,D,2013-04-17 11:48:45,2013-04-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,19.39,4000,291286,+1%,77560.0,,,,,CYBX
+320,D,2013-04-17 11:48:45,2013-04-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,44.78,-7000,291286,-2%,-313476.0,,,,,CYBX
+321,,2013-04-09 14:25:58,2013-04-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,45.97,-3000,294286,-1%,-137916.0,,,,,CYBX
+322,D,2013-03-19 13:05:27,2013-03-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-8433,297286,-3%,-0.0,,,,,CYBX
+323,D,2013-03-19 13:05:27,2013-03-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,19.39,4000,297286,+1%,77560.0,,,,,CYBX
+324,D,2013-03-19 13:05:27,2013-03-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,46.55,-7000,297286,-2%,-325822.0,,,,,CYBX
+325,D,2013-03-11 10:55:38,2013-03-07,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",M - OptEx,19.39,3250,22076,+17%,63018.0,,,,,CYBX
+326,D,2013-03-11 10:55:38,2013-03-07,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",S - Sale+OE,48.08,-3250,22076,-13%,-156251.0,,,,,CYBX
+327,D,2013-03-08 08:26:32,2013-03-06,CYBX,Jackson Guy C.,Dir,M - OptEx,21.56,7500,31834,+31%,161700.0,,,,,CYBX
+328,D,2013-03-08 08:26:32,2013-03-06,CYBX,Jackson Guy C.,Dir,S - Sale+OE,48.33,-7500,31834,-19%,-362467.0,,,,,CYBX
+329,,2013-03-07 11:06:55,2013-03-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,47.85,-3000,308719,-1%,-143554.0,,,,,CYBX
+330,,2013-03-05 10:54:54,2013-03-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,45.18,-2000,96882,-2%,-90360.0,,,,,CYBX
+331,,2013-03-05 10:53:19,2013-03-01,CYBX,Alch Darren,"VP, Asst Secretary",S - Sale,45.41,-500,19176,-3%,-22705.0,,,,,CYBX
+332,,2013-02-28 12:11:15,2013-02-26,CYBX,Morrison Hugh M,Dir,S - Sale,46.3,-394,13605,-3%,-18243.0,,,,,CYBX
+333,D,2013-02-19 17:15:26,2013-02-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",M - OptEx,19.39,4000,311719,+1%,77560.0,,,,,CYBX
+334,D,2013-02-19 17:15:26,2013-02-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,45.37,-7000,311719,-2%,-317608.0,,,,,CYBX
+335,A,2013-02-14 18:19:52,2012-01-03,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,34.25,-5000,417880,-1%,-171250.0,,,,,CYBX
+336,A,2013-02-14 18:17:27,2012-01-03,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,34.25,-2500,140938,-2%,-85625.0,,,,,CYBX
+337,,2013-02-07 12:07:31,2013-02-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,46.68,-3000,314719,-1%,-140033.0,,,,,CYBX
+338,A,2013-02-07 11:51:51,2012-12-19,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,-227,28086,-1%,-0.0,,,,,CYBX
+339,,2013-02-05 14:40:32,2013-02-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,43.4,-2000,98882,-2%,-86800.0,,,,,CYBX
+340,D,2013-01-17 11:20:35,2013-01-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",P - Purchase,19.39,4000,317663,+1%,77560.0,,,,,CYBX
+341,D,2013-01-17 11:20:35,2013-01-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,52.72,-7000,317663,-2%,-369049.0,,,,,CYBX
+342,,2013-01-09 14:54:12,2013-01-07,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,52.89,-3000,320663,-1%,-158663.0,,,,,CYBX
+343,,2013-01-04 11:29:05,2013-01-02,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,53.52,-2000,100882,-2%,-107040.0,,,,,CYBX
+344,,2012-12-26 19:10:12,2012-12-21,CYBX,Novak Alfred J,Dir,S - Sale,52.51,-4000,27109,-13%,-210032.0,,,,,CYBX
+345,D,2012-12-20 14:04:06,2012-12-18,CYBX,Olin Bryan D,"VP, Quality",P - Purchase,24.81,9505,63886,+17%,235866.0,,,,,CYBX
+346,D,2012-12-20 14:04:06,2012-12-18,CYBX,Olin Bryan D,"VP, Quality",S - Sale+OE,51.89,-9505,63886,-13%,-493190.0,,,,,CYBX
+347,D,2012-12-19 16:42:54,2012-12-19,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,-283,323663,0%,-0.0,,,,,CYBX
+348,D,2012-12-19 16:42:54,2012-12-17,CYBX,Moore Daniel Jeffrey,"Pres, CEO",P - Purchase,19.39,4000,323663,+1%,77560.0,,,,,CYBX
+349,D,2012-12-19 16:42:54,2012-12-17,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,51.24,-7000,323663,-2%,-358652.0,,,,,CYBX
+350,,2012-12-19 15:04:32,2012-12-18,CYBX,Morrison Hugh M,Dir,S - Sale,51.92,-800,13999,-5%,-41533.0,,,,,CYBX
+351,,2012-12-18 14:51:06,2012-12-14,CYBX,Verratti Mark,VP Global Sales,F - Tax,0.0,-1314,54520,-2%,-0.0,,,,,CYBX
+352,,2012-12-18 14:48:14,2012-12-14,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",F - Tax,0.0,-385,22076,-2%,-0.0,,,,,CYBX
+353,D,2012-12-14 11:27:46,2012-12-12,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",P - Purchase,30.78,2500,22461,+13%,76950.0,,,,,CYBX
+354,D,2012-12-14 11:27:46,2012-12-12,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",S - Sale+OE,52.58,-2500,22461,-10%,-131459.0,,,,,CYBX
+355,,2012-12-10 12:32:30,2012-12-06,CYBX,Morris Milton Mayo,"SVP Research, Development",S - Sale,52.0,-3615,53009,-6%,-187987.0,,,,,CYBX
+356,D,2012-12-10 12:30:28,2012-12-06,CYBX,Simpson Randal L,VP Operations,P - Purchase,19.75,10000,47453,+27%,197500.0,,,,,CYBX
+357,D,2012-12-10 12:30:28,2012-12-06,CYBX,Simpson Randal L,VP Operations,S - Sale+OE,51.65,-16000,47453,-25%,-826382.0,,,,,CYBX
+358,,2012-12-07 12:13:07,2012-12-05,CYBX,Alch Darren,"VP, Asst Secretary",S - Sale,51.78,-1000,19676,-5%,-51780.0,,,,,CYBX
+359,,2012-12-07 12:09:20,2012-11-30,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,-27886,326946,+9%,-0.0,,,,,CYBX
+360,,2012-12-07 12:09:20,2012-12-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,51.84,-3000,326946,-1%,-155529.0,,,,,CYBX
+361,D,2012-12-06 13:03:46,2012-12-04,CYBX,Browne Gregory H,"SVP Finance, CFO",G - Gift,0.0,-2000,99591,-2%,-0.0,,,,,CYBX
+362,D,2012-12-06 13:03:46,2012-12-04,CYBX,Browne Gregory H,"SVP Finance, CFO",P - Purchase,22.94,10531,99591,+12%,241597.0,,,,,CYBX
+363,D,2012-12-06 13:03:46,2012-12-04,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale+OE,51.88,-10531,99591,-10%,-546396.0,,,,,CYBX
+364,,2012-12-05 14:32:09,2012-12-03,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,51.76,-2000,102882,-2%,-103520.0,,,,,CYBX
+365,,2012-12-03 14:30:58,2012-11-29,CYBX,Rosenthal Arthur L,Dir,S - Sale,51.92,-5052,10496,-32%,-262283.0,,,,,CYBX
+366,,2012-11-29 09:06:10,2012-11-27,CYBX,Tremmel Jon T,Dir,S - Sale,52.39,-1400,13663,-9%,-73339.0,,,,,CYBX
+367,M,2012-11-28 17:19:49,2012-11-26,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,-3438,329946,-1%,-0.0,,,,,CYBX
+368,D,2012-11-19 16:18:30,2012-11-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",P - Purchase,19.39,4000,333384,+1%,77560.0,,,,,CYBX
+369,D,2012-11-19 16:18:30,2012-11-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,46.41,-7000,333384,-2%,-324841.0,,,,,CYBX
+370,,2012-11-07 16:38:36,2012-11-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,44.72,-3000,336384,-1%,-134159.0,,,,,CYBX
+371,,2012-11-05 14:14:43,2012-11-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,46.14,-2000,104882,-2%,-92280.0,,,,,CYBX
+372,D,2012-10-17 15:48:00,2012-10-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",P - Purchase,18.95,4000,339384,+1%,75785.0,,,,,CYBX
+373,D,2012-10-17 15:48:00,2012-10-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,51.1,-7000,339384,-2%,-357728.0,,,,,CYBX
+374,,2012-10-09 16:34:13,2012-09-18,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,-28740,342384,+9%,-0.0,,,,,CYBX
+375,,2012-10-09 16:34:13,2012-10-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,53.06,-3000,342384,-1%,-159182.0,,,,,CYBX
+376,,2012-10-02 17:34:02,2012-10-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,52.16,-2000,106882,-2%,-104320.0,,,,,CYBX
+377,M,2012-10-02 17:30:25,2012-09-28,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,52.2,-5000,101591,-5%,-260975.0,,,,,CYBX
+378,D,2012-10-01 15:20:14,2012-09-27,CYBX,Verratti Mark,VP Global Sales,P - Purchase,37.9,12500,55834,+29%,473750.0,,,,,CYBX
+379,D,2012-10-01 15:20:14,2012-09-27,CYBX,Verratti Mark,VP Global Sales,S - Sale+OE,52.54,-12500,55834,-18%,-656779.0,,,,,CYBX
+380,,2012-09-26 12:53:07,2012-09-19,CYBX,Tremmel Jon T,Dir,A - Grant,0.0,1429,15063,+10%,0.0,,,,,CYBX
+381,,2012-09-26 12:48:14,2012-09-19,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,1429,15548,+10%,0.0,,,,,CYBX
+382,,2012-09-26 12:44:26,2012-09-19,CYBX,Novak Alfred J,Dir,A - Grant,0.0,1429,31109,+5%,0.0,,,,,CYBX
+383,,2012-09-26 12:41:04,2012-09-19,CYBX,Laptewicz Joseph E,Dir,A - Grant,0.0,1429,22883,+7%,0.0,,,,,CYBX
+384,,2012-09-26 12:38:38,2012-09-19,CYBX,Jackson Guy C.,Dir,A - Grant,0.0,1429,31834,+5%,0.0,,,,,CYBX
+385,,2012-09-26 12:28:46,2012-09-19,CYBX,Morrison Hugh M,Dir,A - Grant,0.0,1906,14799,+15%,0.0,,,,,CYBX
+386,,2012-09-26 12:28:46,2012-09-24,CYBX,Morrison Hugh M,Dir,S - Sale,52.43,-4828,14799,-25%,-253122.0,,,,,CYBX
+387,D,2012-09-18 18:55:28,2012-09-14,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-7998,345384,-2%,-0.0,,,,,CYBX
+388,D,2012-09-18 18:55:28,2012-09-17,CYBX,Moore Daniel Jeffrey,"Pres, CEO",P - Purchase,14.72,4000,345384,+1%,58880.0,,,,,CYBX
+389,D,2012-09-18 18:55:28,2012-09-17,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,50.45,-7000,345384,-2%,-353150.0,,,,,CYBX
+390,D,2012-09-18 18:39:50,2012-09-14,CYBX,Browne Gregory H,"SVP Finance, CFO",P - Purchase,19.39,10000,106591,+10%,193900.0,,,,,CYBX
+391,D,2012-09-18 18:39:50,2012-09-14,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale+OE,50.12,-10000,106591,-9%,-501215.0,,,,,CYBX
+392,D,2012-09-17 15:14:49,2012-09-14,CYBX,Jackson Guy C.,Dir,P - Purchase,21.56,5000,30405,+20%,107800.0,,,,,CYBX
+393,D,2012-09-17 15:14:49,2012-09-14,CYBX,Jackson Guy C.,Dir,S - Sale+OE,50.41,-5000,30405,-14%,-252050.0,,,,,CYBX
+394,,2012-09-07 14:02:01,2012-09-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,51.02,-3000,356382,-1%,-153048.0,,,,,CYBX
+395,,2012-09-05 16:45:02,2012-09-04,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,50.03,-2000,108882,-2%,-100060.0,,,,,CYBX
+396,,2012-09-05 16:37:34,2012-09-04,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,49.86,-2500,106591,-2%,-124650.0,,,,,CYBX
+397,D,2012-08-31 15:12:18,2012-08-30,CYBX,Olin Bryan D,"VP, Quality",P - Purchase,14.72,18750,63886,+42%,276000.0,,,,,CYBX
+398,D,2012-08-31 15:12:18,2012-08-30,CYBX,Olin Bryan D,"VP, Quality",S - Sale+OE,49.49,-18750,63886,-23%,-927906.0,,,,,CYBX
+399,D,2012-08-17 12:00:46,2012-08-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",P - Purchase,14.72,4000,359382,+1%,58880.0,,,,,CYBX
+400,D,2012-08-17 12:00:46,2012-08-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,44.66,-7000,359382,-2%,-312589.0,,,,,CYBX
+401,,2012-08-08 17:26:50,2012-08-03,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,57480,362382,+19%,0.0,,,,,CYBX
+402,,2012-08-08 17:26:50,2012-08-06,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,44.13,-3000,362382,-1%,-132400.0,,,,,CYBX
+403,,2012-08-03 10:56:31,2012-08-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,43.31,-2000,110882,-2%,-86620.0,,,,,CYBX
+404,,2012-08-03 10:52:19,2012-08-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,43.31,-2500,109091,-2%,-108275.0,,,,,CYBX
+405,D,2012-07-18 15:34:18,2012-07-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",P - Purchase,14.72,4000,365382,+1%,58880.0,,,,,CYBX
+406,D,2012-07-18 15:34:18,2012-07-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,43.71,-7000,365382,-2%,-305946.0,,,,,CYBX
+407,,2012-07-09 14:20:56,2012-07-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,46.65,-3000,368382,-1%,-139940.0,,,,,CYBX
+408,,2012-07-03 10:04:05,2012-07-02,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,44.62,-2000,112882,-2%,-89240.0,,,,,CYBX
+409,,2012-07-03 09:59:25,2012-07-02,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,44.62,-2500,111591,-2%,-111550.0,,,,,CYBX
+410,D,2012-06-29 14:36:14,2012-06-27,CYBX,Wise David S,"SVP, Chief Admin Officer",P - Purchase,13.88,29500,114882,+35%,409460.0,,,,,CYBX
+411,D,2012-06-29 14:36:14,2012-06-27,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,44.71,-29500,114882,-20%,-1319036.0,,,,,CYBX
+412,,2012-06-27 17:27:02,2012-06-26,CYBX,Morris Milton Mayo,"VP Research, Development",S - Sale,45.05,-10000,56624,-15%,-450504.0,,,,,CYBX
+413,,2012-06-27 17:22:11,2012-06-25,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,-72366,371382,+24%,-0.0,,,,,CYBX
+414,D,2012-06-27 17:20:07,2012-06-26,CYBX,Browne Gregory H,"SVP Finance, CFO",A - Grant,17.21,12148,114091,+12%,209071.0,,,,,CYBX
+415,D,2012-06-27 17:20:07,2012-06-26,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale+OE,45.44,-12148,114091,-10%,-551965.0,,,,,CYBX
+416,,2012-06-26 20:10:29,2012-06-22,CYBX,Reinstein James A.,Former SR VP,S - Sale,44.23,-14000,4761,-75%,-619220.0,,,,,CYBX
+417,D,2012-06-25 09:36:40,2012-06-21,CYBX,Reinstein James A.,Former SR VP,A - Grant,18.42,40449,18761,-187%,745095.0,,,,,CYBX
+418,DM,2012-06-25 09:36:40,2012-06-21,CYBX,Reinstein James A.,Former SR VP,S - Sale+OE,43.8,-25665,18761,-58%,-1123999.0,,,,,CYBX
+419,,2012-06-22 19:41:36,2012-06-21,CYBX,Morris Milton Mayo,"VP Research, Development",S - Sale,43.57,-21630,66624,-25%,-942519.0,,,,,CYBX
+420,D,2012-06-19 19:30:16,2012-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,3.31,17781,371382,+5%,58880.0,,,,,CYBX
+421,D,2012-06-19 19:30:16,2012-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-2119,371382,-1%,-0.0,,,,,CYBX
+422,D,2012-06-19 19:30:16,2012-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,42.59,-7000,371382,-2%,-298154.0,,,,,CYBX
+423,D,2012-06-19 18:10:28,2012-06-15,CYBX,Simpson Randal L,VP Operations,A - Grant,0.0,3104,53453,+6%,0.0,,,,,CYBX
+424,D,2012-06-19 18:10:28,2012-06-15,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-796,53453,-1%,-0.0,,,,,CYBX
+425,D,2012-06-19 15:05:11,2012-06-15,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",A - Grant,0.0,2528,22461,+13%,0.0,,,,,CYBX
+426,D,2012-06-19 15:05:11,2012-06-15,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",F - Tax,0.0,-207,22461,-1%,-0.0,,,,,CYBX
+427,D,2012-06-19 14:54:44,2012-06-15,CYBX,Olin Bryan D,"VP, Quality",A - Grant,0.0,3339,63886,+6%,0.0,,,,,CYBX
+428,D,2012-06-19 14:54:44,2012-06-15,CYBX,Olin Bryan D,"VP, Quality",F - Tax,0.0,-2072,63886,-3%,-0.0,,,,,CYBX
+429,D,2012-06-19 14:52:27,2012-06-15,CYBX,Morris Milton Mayo,"VP Research, Development",A - Grant,0.0,4703,87366,+6%,0.0,,,,,CYBX
+430,D,2012-06-19 14:52:27,2012-06-15,CYBX,Morris Milton Mayo,"VP Research, Development",F - Tax,0.0,-2072,87366,-2%,-0.0,,,,,CYBX
+431,D,2012-06-19 13:15:04,2012-06-15,CYBX,Verratti Mark,VP Global Sales,A - Grant,0.0,3280,55834,+6%,0.0,,,,,CYBX
+432,D,2012-06-19 13:15:04,2012-06-15,CYBX,Verratti Mark,VP Global Sales,F - Tax,0.0,-110,55834,0%,-0.0,,,,,CYBX
+433,D,2012-06-19 12:38:54,2012-06-15,CYBX,Browne Gregory H,"SVP Finance, CFO",A - Grant,0.0,4821,114091,+4%,0.0,,,,,CYBX
+434,D,2012-06-19 12:38:54,2012-06-15,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-2072,114091,-2%,-0.0,,,,,CYBX
+435,D,2012-06-19 12:11:25,2012-06-15,CYBX,Alch Darren,"VP, Asst Secretary",A - Grant,0.0,2528,41352,+7%,0.0,,,,,CYBX
+436,D,2012-06-19 12:11:25,2012-06-15,CYBX,Alch Darren,"VP, Asst Secretary",F - Tax,0.0,-467,41352,-1%,-0.0,,,,,CYBX
+437,D,2012-06-19 12:11:25,2012-06-18,CYBX,Alch Darren,"VP, Asst Secretary",P - Purchase,37.01,35000,41352,+551%,1295350.0,,,,,CYBX
+438,D,2012-06-19 12:11:25,2012-06-18,CYBX,Alch Darren,"VP, Asst Secretary",S - Sale+OE,44.57,-35000,41352,-46%,-1560080.0,,,,,CYBX
+439,D,2012-06-19 12:08:52,2012-06-15,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,0.0,4938,114882,+4%,0.0,,,,,CYBX
+440,D,2012-06-19 12:08:52,2012-06-15,CYBX,Wise David S,"SVP, Chief Admin Officer",F - Tax,0.0,-2072,114882,-2%,-0.0,,,,,CYBX
+441,D,2012-06-19 12:05:42,2012-06-18,CYBX,Jackson Guy C.,Dir,P - Purchase,21.56,5000,30405,+20%,107800.0,,,,,CYBX
+442,D,2012-06-19 12:05:42,2012-06-18,CYBX,Jackson Guy C.,Dir,S - Sale+OE,42.92,-5000,30405,-14%,-214613.0,,,,,CYBX
+443,,2012-06-18 16:11:20,2012-06-14,CYBX,Reinstein James A.,Former SR VP,S - Sale,41.92,-4000,3977,-50%,-167676.0,,,,,CYBX
+444,D,2012-06-14 12:27:21,2012-06-12,CYBX,Jackson Guy C.,Dir,P - Purchase,21.56,10000,30405,+49%,215600.0,,,,,CYBX
+445,D,2012-06-14 12:27:21,2012-06-12,CYBX,Jackson Guy C.,Dir,S - Sale+OE,40.94,-10000,30405,-25%,-409444.0,,,,,CYBX
+446,D,2012-06-13 14:43:42,2012-02-24,CYBX,Reinstein James A.,Former SR VP,D - Sale to issuer,0.0,-69259,40340,-63%,-0.0,,,,,CYBX
+447,,2012-06-12 21:57:28,2012-06-08,CYBX,Reinstein James A.,Former SR VP,F - Tax,0.0,-11363,7977,-59%,-0.0,,,,,CYBX
+448,,2012-06-12 21:54:30,2012-06-08,CYBX,Verratti Mark,VP Global Sales,F - Tax,0.0,-382,52664,-1%,-0.0,,,,,CYBX
+449,,2012-06-12 21:50:10,2012-06-08,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-24195,362720,-6%,-0.0,,,,,CYBX
+450,,2012-06-12 21:00:32,2012-06-08,CYBX,Wise David S,"SVP, Chief Admin Officer",F - Tax,0.0,-19386,112016,-15%,-0.0,,,,,CYBX
+451,,2012-06-12 20:58:35,2012-06-08,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-2971,51145,-5%,-0.0,,,,,CYBX
+452,,2012-06-12 20:56:23,2012-06-08,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",F - Tax,0.0,-132,20140,-1%,-0.0,,,,,CYBX
+453,,2012-06-12 20:53:33,2012-06-08,CYBX,Olin Bryan D,"VP, Quality",F - Tax,0.0,-4226,62619,-6%,-0.0,,,,,CYBX
+454,,2012-06-12 20:51:42,2012-06-08,CYBX,Morris Milton Mayo,"VP Research, Development",F - Tax,0.0,-16732,84735,-16%,-0.0,,,,,CYBX
+455,,2012-06-12 20:47:45,2012-06-08,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-17096,111342,-13%,-0.0,,,,,CYBX
+456,,2012-06-12 20:44:36,2012-06-08,CYBX,Alch Darren,"VP, Asst Secretary",F - Tax,0.0,-214,18615,-1%,-0.0,,,,,CYBX
+457,,2012-06-12 14:05:26,2012-06-08,CYBX,Reinstein James A.,Former SR VP,S - Sale,41.12,-21000,19340,-52%,-863436.0,,,,,CYBX
+458,,2012-06-12 14:00:17,2012-06-08,CYBX,Rosenthal Arthur L,Dir,S - Sale,41.24,-15561,14119,-52%,-641664.0,,,,,CYBX
+459,,2012-06-12 13:58:23,2012-06-08,CYBX,Morrison Hugh M,Dir,S - Sale,41.62,-1698,17721,-9%,-70673.0,,,,,CYBX
+460,D,2012-06-11 14:47:08,2012-06-07,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",A - Grant,17.49,5667,20272,+39%,99116.0,,,,,CYBX
+461,D,2012-06-11 14:47:08,2012-06-07,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",S - Sale+OE,41.0,-5667,20272,-22%,-232347.0,,,,,CYBX
+462,,2012-06-07 17:25:33,2012-06-05,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,37.8,-3000,386915,-1%,-113415.0,,,,,CYBX
+463,,2012-06-04 18:06:20,2012-06-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,37.7,-2000,131402,-1%,-75400.0,,,,,CYBX
+464,,2012-06-04 16:52:02,2012-06-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,37.7,-2500,128438,-2%,-94250.0,,,,,CYBX
+465,D,2012-05-18 16:21:05,2012-05-17,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",S - Sale+OE,28.75,-10000,20272,-33%,-287450.0,,,,,CYBX
+466,D,2012-05-16 19:22:12,2012-05-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,14.72,4000,649830,+1%,58880.0,,,,,CYBX
+467,D,2012-05-16 19:22:12,2012-05-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,39.61,-7000,649830,-1%,-277295.0,,,,,CYBX
+468,,2012-05-09 13:50:57,2012-05-07,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,38.43,-3000,392915,-1%,-115290.0,,,,,CYBX
+469,AD,2012-05-02 09:24:19,2011-12-15,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",A - Grant,0.0,12114,20272,+148%,0.0,,,,,CYBX
+470,,2012-05-02 09:22:18,2012-05-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,38.1,-2500,130938,-2%,-95250.0,,,,,CYBX
+471,,2012-05-02 09:18:25,2012-05-01,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,38.1,-2000,133402,-1%,-76200.0,,,,,CYBX
+472,AD,2012-05-02 09:16:02,2011-12-15,CYBX,Verratti Mark,VP Global Sales,A - Grant,0.0,37984,55129,+222%,0.0,,,,,CYBX
+473,,2012-04-04 09:58:56,2012-04-02,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale,37.8,-2000,135402,-1%,-75600.0,,,,,CYBX
+474,,2012-04-04 09:56:53,2012-04-02,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,37.8,-5000,395915,-1%,-189000.0,,,,,CYBX
+475,,2012-04-04 09:53:17,2012-04-02,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,37.8,-2500,133438,-2%,-94500.0,,,,,CYBX
+476,,2012-04-02 17:30:07,2012-03-29,CYBX,Verratti Mark,VP Global Sales,S - Sale,38.25,-2083,53046,-4%,-79675.0,,,,,CYBX
+477,D,2012-03-29 15:54:25,2012-03-27,CYBX,Alch Darren,"VP, Asst Secretary",A - Grant,24.33,781,18829,+4%,19002.0,,,,,CYBX
+478,D,2012-03-29 15:54:25,2012-03-27,CYBX,Alch Darren,"VP, Asst Secretary",S - Sale+OE,39.17,-781,18829,-4%,-30590.0,,,,,CYBX
+479,D,2012-03-21 14:47:56,2012-03-19,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",A - Grant,12.95,2333,20273,+13%,30212.0,,,,,CYBX
+480,D,2012-03-21 14:47:56,2012-03-19,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",S - Sale+OE,39.5,-2333,20273,-10%,-92154.0,,,,,CYBX
+481,,2012-03-19 21:34:14,2012-03-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-6965,400915,-2%,-0.0,,,,,CYBX
+482,D,2012-03-19 12:24:22,2012-03-15,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",A - Grant,12.95,7000,20273,+53%,90650.0,,,,,CYBX
+483,D,2012-03-19 12:24:22,2012-03-15,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",S - Sale+OE,39.0,-7000,20273,-26%,-273000.0,,,,,CYBX
+484,DM,2012-03-09 08:33:02,2012-03-07,CYBX,Olin Bryan D,"VP Clinical Reg, Quality",A - Grant,14.72,15000,66845,+29%,220800.0,1.0,,,,CYBX
+485,DM,2012-03-09 08:33:02,2012-03-07,CYBX,Olin Bryan D,"VP Clinical Reg, Quality",S - Sale+OE,37.14,-15000,66845,-18%,-557106.0,1.0,,,,CYBX
+486,D,2012-03-09 08:29:30,2012-03-07,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,28.45,819,137402,+1%,23301.0,1.0,,,,CYBX
+487,D,2012-03-09 08:29:30,2012-03-07,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,37.23,-819,137402,-1%,-30491.0,1.0,,,,CYBX
+488,D,2012-03-08 16:29:36,2012-03-06,CYBX,Simpson Randal L,VP Operations,A - Grant,24.84,89000,54116,-255%,2211058.0,1.0,,,,CYBX
+489,D,2012-03-08 16:29:36,2012-03-06,CYBX,Simpson Randal L,VP Operations,S - Sale+OE,37.27,-89000,54116,-62%,-3316736.0,1.0,,,,CYBX
+490,DM,2012-03-06 21:26:10,2012-03-05,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,28.45,24947,137402,+22%,709742.0,1.0,,,,CYBX
+491,DM,2012-03-06 21:26:10,2012-03-05,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,37.5,-24947,137402,-15%,-935534.0,1.0,,,,CYBX
+492,D,2012-03-02 15:19:43,2012-03-01,CYBX,Browne Gregory H,"SVP Finance, CFO",A - Grant,16.0,7818,135938,+6%,125112.0,-1.0,0.0,,,CYBX
+493,D,2012-03-02 15:19:43,2012-03-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale+OE,37.22,-10318,135938,-7%,-384021.0,-1.0,0.0,,,CYBX
+494,D,2012-03-02 15:15:30,2012-02-29,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,19.39,6000,407880,+1%,116340.0,-1.0,0.0,,,CYBX
+495,DM,2012-03-02 15:15:30,2012-02-29,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,37.26,-11000,407880,-3%,-409820.0,-1.0,0.0,,,CYBX
+496,,2012-03-02 13:51:49,2012-02-29,CYBX,Morris Milton Mayo,"VP Research, Development",S - Sale,37.46,-10159,101467,-9%,-380576.0,-1.0,0.0,,,CYBX
+497,DM,2012-03-02 13:48:02,2012-02-29,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,28.45,24234,137402,+21%,689457.0,-1.0,0.0,,,CYBX
+498,DM,2012-03-02 13:48:02,2012-02-29,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,37.5,-24234,137402,-15%,-908775.0,-1.0,0.0,,,CYBX
+499,D,2012-03-01 18:09:55,2012-02-28,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,28.45,50000,137402,+57%,1422500.0,-1.0,0.0,,,CYBX
+500,D,2012-03-01 18:09:55,2012-02-28,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,37.61,-50000,137402,-27%,-1880475.0,-1.0,0.0,,,CYBX
+501,,2012-03-01 11:14:52,2012-02-28,CYBX,Reinstein James A.,Former SR VP,S - Sale,38.08,-54819,109599,-33%,-2087666.0,0.0,0.0,,,CYBX
+502,D,2012-02-09 18:11:32,2012-02-08,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,28.45,47292,137402,+52%,1345457.0,0.0,1.0,10.0,,CYBX
+503,D,2012-02-09 18:11:32,2012-02-08,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,35.38,-47292,137402,-26%,-1673120.0,0.0,1.0,10.0,,CYBX
+504,AD,2012-02-09 18:08:39,2012-01-03,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,28.45,2708,137402,+2%,77043.0,0.0,1.0,10.0,,CYBX
+505,AD,2012-02-09 18:08:39,2012-01-03,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,35.01,-2708,137402,-2%,-94797.0,0.0,1.0,10.0,,CYBX
+506,,2012-02-02 12:00:19,2012-02-01,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,32.4,-5000,412880,-1%,-162000.0,0.0,4.0,10.0,,CYBX
+507,,2012-02-02 11:58:08,2012-02-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,32.4,-2500,138438,-2%,-81000.0,0.0,4.0,10.0,,CYBX
+508,,2012-01-17 11:15:12,2012-01-12,CYBX,Morris Milton Mayo,"VP Research, Development",F - Tax,0.0,-4841,111626,-4%,-0.0,0.0,0.0,7.0,,CYBX
+509,D,2012-01-05 15:36:51,2012-01-03,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,35.01,2708,137402,+2%,94797.0,0.0,0.0,2.0,,CYBX
+510,D,2012-01-05 15:36:51,2012-01-03,CYBX,Wise David S,"SVP, Chief Admin Officer",S - Sale+OE,35.01,-2708,137402,-2%,-94797.0,0.0,0.0,2.0,,CYBX
+511,,2012-01-05 15:34:43,2012-01-03,CYBX,Moore Daniel Jeffrey,"Pres, CEO",D - Sale to issuer,34.25,-5000,417880,-1%,-171250.0,0.0,0.0,2.0,,CYBX
+512,,2012-01-05 15:31:14,2012-01-03,CYBX,Browne Gregory H,"SVP Finance, CFO",D - Sale to issuer,34.25,-2500,140938,-2%,-85625.0,0.0,0.0,2.0,,CYBX
+513,D,2011-12-29 13:31:49,2011-12-27,CYBX,Alch Darren,"VP, Asst Secretary",A - Grant,16.19,2375,18829,+14%,38463.0,1.0,0.0,0.0,,CYBX
+514,D,2011-12-29 13:31:49,2011-12-27,CYBX,Alch Darren,"VP, Asst Secretary",S - Sale+OE,34.09,-2375,18829,-11%,-80975.0,1.0,0.0,0.0,,CYBX
+515,,2011-12-22 13:10:05,2011-12-22,CYBX,Moore Daniel Jeffrey,"Pres, CEO",G - Gift,0.0,-586,422880,0%,-0.0,-2.0,-2.0,-5.0,,CYBX
+516,,2011-12-22 12:25:59,2011-12-21,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,33.9,-2500,143438,-2%,-84750.0,-2.0,-2.0,-5.0,,CYBX
+517,D,2011-12-20 18:10:24,2011-12-15,CYBX,Perkins Sherrie L,"VP, Mktg, NBD",A - Grant,0.0,12115,30546,+66%,0.0,1.0,0.0,-5.0,,CYBX
+518,,2011-12-20 10:07:04,2011-12-16,CYBX,Morrison Hugh M,Dir,S - Sale,32.5,-6000,19419,-24%,-195000.0,3.0,4.0,-1.0,,CYBX
+519,D,2011-12-19 15:11:08,2011-12-15,CYBX,Verratti Mark,VP Global Sales,A - Grant,0.0,37984,55129,+222%,0.0,1.0,4.0,1.0,,CYBX
+520,,2011-12-05 13:27:26,2011-12-01,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,29.36,-5000,423466,-1%,-146800.0,3.0,8.0,11.0,,CYBX
+521,,2011-12-05 13:24:14,2011-12-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,29.36,-2500,145398,-2%,-73400.0,3.0,8.0,11.0,,CYBX
+522,,2011-11-29 11:21:19,2011-11-25,CYBX,Alch Darren,"VP, Asst Secretary",S - Sale,30.11,-500,18829,-3%,-15056.0,-1.0,5.0,13.0,,CYBX
+523,,2011-11-03 08:06:17,2011-11-01,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,27.66,-5000,428466,-1%,-138300.0,3.0,1.0,7.0,,CYBX
+524,,2011-11-03 08:02:38,2011-11-01,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,27.86,-2500,148438,-2%,-69650.0,3.0,1.0,7.0,,CYBX
+525,,2011-10-14 09:11:45,2011-10-13,CYBX,Morrison Hugh M,Dir,S - Sale,27.75,-8077,25419,-24%,-224104.0,2.0,-3.0,4.0,,CYBX
+526,,2011-10-04 17:20:05,2011-10-03,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,28.41,-5000,433466,-1%,-142047.0,-1.0,0.0,-4.0,,CYBX
+527,,2011-10-03 18:01:11,2011-10-03,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,27.94,-2500,150938,-2%,-69850.0,6.0,3.0,7.0,,CYBX
+528,,2011-09-29 14:24:08,2011-09-26,CYBX,Alch Darren,"VP, Asst Secretary",S - Sale,25.49,-462,19329,-2%,-11775.0,,,,,CYBX
+529,,2011-09-29 13:40:17,2011-09-27,CYBX,Browne Gregory H,"SVP Finance, CFO",S - Sale,27.93,-2500,153438,-2%,-69825.0,,,,,CYBX
+530,,2011-09-26 18:11:15,2011-09-22,CYBX,Morrison Hugh M,Dir,A - Grant,0.0,4828,33496,+17%,0.0,,,,,CYBX
+531,,2011-09-26 15:48:40,2011-09-22,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,3621,29680,+14%,0.0,,,,,CYBX
+532,,2011-09-26 15:43:34,2011-09-22,CYBX,Jackson Guy C.,Dir,A - Grant,0.0,3621,30405,+14%,0.0,,,,,CYBX
+533,,2011-09-26 15:41:19,2011-09-22,CYBX,Laptewicz Joseph E,Dir,A - Grant,0.0,3621,21454,+20%,0.0,,,,,CYBX
+534,,2011-09-26 15:35:03,2011-09-22,CYBX,Novak Alfred J,Dir,A - Grant,0.0,3621,29680,+14%,0.0,,,,,CYBX
+535,,2011-09-26 15:31:04,2011-09-22,CYBX,Tremmel Jon T,Dir,A - Grant,0.0,3621,10799,+50%,0.0,,,,,CYBX
+536,,2011-09-21 08:28:34,2011-09-19,CYBX,Reinstein James A.,"SVP, Chief Commercial Ofc",S - Sale,27.16,-7000,164418,-4%,-190120.0,,,,,CYBX
+537,,2011-09-13 11:54:39,2011-09-12,CYBX,Alch Darren,"VP, Asst Secretary",F - Tax,0.0,-163,19791,-1%,-0.0,,,,,CYBX
+538,,2011-09-02 15:17:24,2011-09-01,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,28.04,-5000,438466,-1%,-140200.0,,,,,CYBX
+539,,2011-09-02 09:35:03,2011-08-31,CYBX,Alch Darren,"VP, Asst Secretary",S - Sale,28.23,-500,19954,-2%,-14115.0,,,,,CYBX
+540,,2011-09-01 18:05:35,2011-09-01,CYBX,Jackson Guy C.,Dir,S - Sale,27.85,-1075,26784,-4%,-29939.0,,,,,CYBX
+541,,2011-08-03 14:36:13,2011-08-01,CYBX,Reinstein James A.,"SVP, Chief Commercial Ofc",F - Tax,0.0,-3304,171418,-2%,-0.0,,,,,CYBX
+542,,2011-08-03 14:34:11,2011-08-01,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,27.3,-5000,443466,-1%,-136500.0,,,,,CYBX
+543,AD,2011-07-28 17:00:34,2011-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,100000,453466,+28%,0.0,,,,,CYBX
+544,AD,2011-07-28 17:00:34,2011-06-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-9110,453466,-2%,-0.0,,,,,CYBX
+545,A,2011-07-28 16:52:40,2011-07-01,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,27.79,-5000,448466,-1%,-138950.0,,,,,CYBX
+546,A,2011-07-28 16:50:46,2011-06-01,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,32.66,-5000,362576,-1%,-163300.0,,,,,CYBX
+547,A,2011-07-28 16:49:55,2011-05-02,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-8494,367576,-2%,-0.0,,,,,CYBX
+548,A,2011-07-28 16:49:55,2011-05-02,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,35.26,-5000,367576,-1%,-176300.0,,,,,CYBX
+549,A,2011-07-28 16:48:52,2011-03-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,76449,381070,+25%,0.0,,,,,CYBX
+550,A,2011-07-26 16:19:23,2011-07-11,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-1981,155938,-1%,-0.0,,,,,CYBX
+551,AD,2011-07-26 16:16:50,2011-06-15,CYBX,Browne Gregory H,"SVP Finance, CFO",A - Grant,0.0,47129,157919,+43%,0.0,,,,,CYBX
+552,AD,2011-07-26 16:16:50,2011-06-16,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-2282,157919,-1%,-0.0,,,,,CYBX
+553,,2011-07-19 16:07:13,2011-07-15,CYBX,Alch Darren,"VP, Asst Secretary",S - Sale,30.0,-570,20454,-3%,-17100.0,,,,,CYBX
+554,,2011-07-13 16:21:17,2011-07-11,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-1981,161608,-1%,-0.0,,,,,CYBX
+555,,2011-07-06 14:39:09,2011-07-01,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,27.79,-5000,545412,-1%,-138950.0,,,,,CYBX
+556,,2011-06-22 10:07:29,2011-06-20,CYBX,Wise David S,"SVP, Chief Admin Officer",F - Tax,0.0,-989,137402,-1%,-0.0,,,,,CYBX
+557,,2011-06-22 10:02:41,2011-06-20,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-725,54116,-1%,-0.0,,,,,CYBX
+558,D,2011-06-17 16:56:31,2011-06-15,CYBX,Verratti Mark,VP Sales,A - Grant,0.0,1944,17145,+13%,0.0,,,,,CYBX
+559,D,2011-06-17 16:54:18,2011-06-15,CYBX,Wise David S,"SVP, Chief Admin Officer",A - Grant,0.0,46779,138391,+51%,0.0,,,,,CYBX
+560,D,2011-06-17 16:54:18,2011-06-16,CYBX,Wise David S,"SVP, Chief Admin Officer",F - Tax,0.0,-1873,138391,-1%,-0.0,,,,,CYBX
+561,D,2011-06-17 16:50:55,2011-06-15,CYBX,Simpson Randal L,VP Operations,A - Grant,0.0,19881,54841,+57%,0.0,,,,,CYBX
+562,D,2011-06-17 16:50:55,2011-06-16,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-1634,54841,-3%,-0.0,,,,,CYBX
+563,D,2011-06-17 16:48:20,2011-06-15,CYBX,Reinstein James A.,"SVP, Chief Commercial Ofc",A - Grant,0.0,48295,174722,+38%,0.0,,,,,CYBX
+564,D,2011-06-17 16:48:20,2011-06-16,CYBX,Reinstein James A.,"SVP, Chief Commercial Ofc",F - Tax,0.0,-2078,174722,-1%,-0.0,,,,,CYBX
+565,D,2011-06-17 16:40:53,2011-06-15,CYBX,Olin Bryan D,VP Clinical Quality Regulatory,A - Grant,0.0,45680,66845,+216%,0.0,,,,,CYBX
+566,D,2011-06-17 16:38:55,2011-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,173395,550412,+46%,0.0,,,,,CYBX
+567,D,2011-06-17 16:38:55,2011-06-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-9110,550412,-2%,-0.0,,,,,CYBX
+568,D,2011-06-17 16:36:47,2011-06-15,CYBX,Browne Gregory H,"SVP Finance, CFO",A - Grant,0.0,47129,163589,+40%,0.0,,,,,CYBX
+569,D,2011-06-17 16:36:47,2011-06-16,CYBX,Browne Gregory H,"SVP Finance, CFO",F - Tax,0.0,-2282,163589,-1%,-0.0,,,,,CYBX
+570,D,2011-06-17 16:34:16,2011-06-15,CYBX,Alch Darren,"VP, Asst Secretary",A - Grant,0.0,13889,21024,+195%,0.0,,,,,CYBX
+571,DM,2011-06-17 16:34:16,2011-06-15,CYBX,Alch Darren,"VP, Asst Secretary",F - Tax,0.0,-342,21024,-2%,-0.0,,,,,CYBX
+572,D,2011-06-17 11:32:31,2011-06-15,CYBX,Morris Milton Mayo,"VP Research, Development",A - Grant,0.0,46817,116467,+67%,0.0,,,,,CYBX
+573,A,2011-06-14 16:02:48,2011-06-08,CYBX,Alch Darren,"VP, Asst Secretary",F - Tax,0.0,-212,7477,-3%,-0.0,,,,,CYBX
+574,,2011-06-09 17:40:11,2011-06-08,CYBX,Alch Darren,"VP, Asst Secretary",F - Tax,0.0,-263,7426,-3%,-0.0,,,,,CYBX
+575,,2011-06-02 18:00:54,2011-06-01,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,32.66,-5000,386127,-1%,-163300.0,,,,,CYBX
+576,,2011-05-03 17:06:44,2011-05-02,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-8494,391127,-2%,-0.0,,,,,CYBX
+577,,2011-05-03 17:06:44,2011-05-02,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,35.26,-5000,391127,-1%,-176300.0,,,,,CYBX
+578,,2011-04-06 15:18:45,2011-04-06,CYBX,Laptewicz Joseph E,Dir,G - Gift,0.0,-2413,17833,-12%,-0.0,,,,,CYBX
+579,,2011-03-16 17:53:33,2011-03-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,100000,404621,+33%,0.0,,,,,CYBX
+580,D,2011-03-10 12:05:16,2011-03-08,CYBX,Morris Milton Mayo,"VP Research, Development",S - Sale+OE,33.21,-17000,69650,-20%,-564650.0,,,,,CYBX
+581,,2011-02-03 13:14:02,2010-09-23,CYBX,Tremmel Jon T,Dir,F - Tax,0.0,-7178,7178,-50%,-0.0,,,,,CYBX
+582,D,2011-01-13 13:12:07,2011-01-13,CYBX,Moore Daniel Jeffrey,"Pres, CEO",P - Purchase,18.39,47690,304621,+19%,877122.0,,,,,CYBX
+583,D,2011-01-13 13:12:07,2011-01-11,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale+OE,34.83,-44700,304621,-13%,-1556825.0,,,,,CYBX
+584,D,2011-01-12 13:50:48,2011-01-10,CYBX,Browne Gregory H,"VP Finance, CFO",A - Grant,16.74,10000,113072,+10%,167421.0,,,,,CYBX
+585,D,2011-01-12 13:50:48,2011-01-10,CYBX,Browne Gregory H,"VP Finance, CFO",S - Sale+OE,34.84,-10000,113072,-8%,-348400.0,,,,,CYBX
+586,,2010-12-29 14:39:00,2010-12-27,CYBX,Reinstein James A.,"VP Sales, Mktg, Genl Mgr Intl",S - Sale,32.87,-15000,128505,-10%,-493031.0,,,,,CYBX
+587,,2010-12-28 14:56:29,2010-12-23,CYBX,Morrison Hugh M,Dir,S - Sale,32.72,-1000,28668,-3%,-32719.0,,,,,CYBX
+588,,2010-12-08 15:08:57,2010-12-07,CYBX,Browne Gregory H,"VP Finance, CFO",S - Sale,28.57,-5000,113072,-4%,-142828.0,,,,,CYBX
+589,,2010-12-01 17:07:46,2010-11-29,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,27.72,-6696,301631,-2%,-185637.0,,,,,CYBX
+590,,2010-12-01 17:05:33,2010-11-29,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,27.53,-11104,308327,-3%,-305662.0,,,,,CYBX
+591,,2010-11-12 11:14:15,2010-11-09,CYBX,Reinstein James A.,"VP Sales, Mktg, Genl Mgr Intl",F - Tax,0.0,-3860,143505,-3%,-0.0,,,,,CYBX
+592,,2010-11-12 09:26:26,2010-11-09,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-11388,319431,-3%,-0.0,,,,,CYBX
+593,,2010-11-12 09:23:18,2010-11-09,CYBX,Browne Gregory H,"VP Finance, CFO",F - Tax,0.0,-1981,118072,-2%,-0.0,,,,,CYBX
+594,,2010-08-04 13:59:45,2010-08-02,CYBX,Reinstein James A.,"VP Sales, Mktg, Genl Mgr Intl",F - Tax,0.0,-3304,147365,-2%,-0.0,,,,,CYBX
+595,M,2010-07-15 17:40:46,2010-07-13,CYBX,Morrison Hugh M,Dir,S - Sale,23.29,-13311,29668,-31%,-310067.0,,,,,CYBX
+596,,2010-07-13 09:16:23,2010-07-09,CYBX,Browne Gregory H,"VP Finance, CFO",F - Tax,0.0,-1981,120053,-2%,-0.0,,,,,CYBX
+597,,2010-06-22 15:47:59,2010-06-18,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-725,36594,-2%,-0.0,,,,,CYBX
+598,D,2010-06-22 15:45:48,2010-06-17,CYBX,Simpson Randal L,VP Operations,A - Grant,14.54,35500,83805,+73%,516159.0,,,,,CYBX
+599,DM,2010-06-22 15:45:48,2010-06-17,CYBX,Simpson Randal L,VP Operations,S - Sale+OE,23.92,-33500,83805,-29%,-801403.0,,,,,CYBX
+600,,2010-06-17 20:03:33,2010-06-16,CYBX,Moore Daniel Jeffrey,"Dir, Pres, CEO",D - Sale to issuer,23.92,-25000,330819,-7%,-598098.0,,,,,CYBX
+601,D,2010-06-17 20:00:53,2010-06-15,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,23551,355819,+7%,0.0,,,,,CYBX
+602,,2010-06-17 19:57:30,2010-06-16,CYBX,Wise David S,"VP, GC",D - Sale to issuer,24.09,-2000,93485,-2%,-48180.0,,,,,CYBX
+603,D,2010-06-17 19:45:46,2010-06-15,CYBX,Wise David S,"VP, GC",A - Grant,0.0,8692,95485,+10%,0.0,,,,,CYBX
+604,,2010-06-17 19:40:14,2010-06-16,CYBX,Browne Gregory H,"VP Finance, CFO",D - Sale to issuer,23.87,-6000,122034,-5%,-143220.0,,,,,CYBX
+605,D,2010-06-17 19:36:35,2010-06-15,CYBX,Browne Gregory H,"VP Finance, CFO",A - Grant,0.0,8508,128034,+7%,0.0,,,,,CYBX
+606,,2010-06-17 19:30:47,2010-06-16,CYBX,Reinstein James A.,"VP Sales, Mktg, Genl Mgr Intl",D - Sale to issuer,23.97,-15000,150669,-9%,-359607.0,,,,,CYBX
+607,D,2010-06-17 19:26:15,2010-06-15,CYBX,Reinstein James A.,"VP Sales, Mktg, Genl Mgr Intl",A - Grant,0.0,8220,165669,+5%,0.0,,,,,CYBX
+608,D,2010-06-17 19:22:37,2010-06-15,CYBX,Simpson Randal L,VP Operations,A - Grant,0.0,5034,35319,+17%,0.0,,,,,CYBX
+609,,2010-06-17 19:20:02,2010-06-15,CYBX,Novak Alfred J,Dir,A - Grant,0.0,3082,26059,+13%,0.0,,,,,CYBX
+610,,2010-06-17 19:17:45,2010-06-15,CYBX,Laptewicz Joseph E,Dir,A - Grant,0.0,3082,20246,+18%,0.0,,,,,CYBX
+611,,2010-06-17 19:12:02,2010-06-15,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,3082,26059,+13%,0.0,,,,,CYBX
+612,,2010-06-17 19:09:20,2010-06-15,CYBX,Morrison Hugh M,Dir,A - Grant,0.0,4110,42979,+11%,0.0,,,,,CYBX
+613,,2010-06-17 19:06:11,2010-06-15,CYBX,Jackson Guy C.,Dir,A - Grant,0.0,3082,27859,+12%,0.0,,,,,CYBX
+614,D,2010-06-17 19:02:47,2010-06-15,CYBX,Morris Milton Mayo,"VP Research, Development",A - Grant,0.0,6288,69650,+10%,0.0,,,,,CYBX
+615,D,2010-06-17 18:58:23,2010-06-15,CYBX,Olin Bryan D,"VP, Quality, Clinical Affairs",A - Grant,0.0,6165,21165,+41%,0.0,,,,,CYBX
+616,,2010-06-14 13:20:57,2010-06-10,CYBX,Terry Reese S Jr,Dir,D - Sale to issuer,23.56,-15000,373307,-4%,-353357.0,,,,,CYBX
+617,,2010-06-02 16:54:19,2010-06-01,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-579,30285,-2%,-0.0,,,,,CYBX
+618,,2009-12-23 17:09:57,2009-12-23,CYBX,Terry Reese S Jr,Dir,G - Gift,0.0,-400,447657,0%,-0.0,,,,,CYBX
+619,,2009-07-02 12:22:40,2009-07-01,CYBX,Terry Reese S Jr,Dir,S - Sale,16.7,-2000,448007,0%,-33400.0,,,,,CYBX
+620,,2009-06-30 14:09:36,2009-06-26,CYBX,Olsen Alan J,Dir,D - Sale to issuer,16.05,-2150,13432,-14%,-34508.0,,,,,CYBX
+621,,2009-06-22 13:30:40,2009-06-18,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-725,30864,-2%,-0.0,,,,,CYBX
+622,,2009-06-22 13:27:58,2009-06-18,CYBX,Wise David S,"VP, GC",F - Tax,0.0,-989,86793,-1%,-0.0,,,,,CYBX
+623,,2009-06-15 14:19:43,2009-06-12,CYBX,Terry Reese S Jr,Dir,S - Sale,14.35,-2000,450007,0%,-28701.0,,,,,CYBX
+624,E,2009-06-15 14:16:28,2009-06-12,CYBX,Terry Reese S Jr,Dir,S - Sale,13.79,-2000,452057,0%,-27570.0,,,,,CYBX
+625,D,2009-06-10 17:05:03,2009-06-08,CYBX,Wise David S,"VP, GC",A - Grant,0.0,53191,87782,+154%,0.0,,,,,CYBX
+626,,2009-06-10 17:03:42,2009-06-08,CYBX,Terry Reese S Jr,Dir,A - Grant,0.0,5095,454057,+1%,0.0,,,,,CYBX
+627,D,2009-06-10 17:02:35,2009-06-08,CYBX,Simpson Randal L,VP Operations,A - Grant,0.0,8152,31589,+35%,0.0,,,,,CYBX
+628,,2009-06-10 17:01:24,2009-06-08,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,5095,22977,+28%,0.0,,,,,CYBX
+629,D,2009-06-10 17:00:13,2009-06-08,CYBX,Reinstein James A.,"VP Sales, Mktg, Genl Mgr Intl",A - Grant,0.0,49584,157449,+46%,0.0,,,,,CYBX
+630,D,2009-06-10 16:59:01,2009-06-08,CYBX,Olin Bryan D,"VP, Quality",A - Grant,0.0,15000,15000,New,0.0,,,,,CYBX
+631,,2009-06-10 16:57:25,2009-06-08,CYBX,Novak Alfred J,Dir,A - Grant,0.0,5095,22977,+28%,0.0,,,,,CYBX
+632,,2009-06-10 16:56:20,2009-06-08,CYBX,Morrison Hugh M,Dir,A - Grant,0.0,6793,38869,+21%,0.0,,,,,CYBX
+633,D,2009-06-10 16:54:35,2009-06-08,CYBX,Morris Milton Mayo,"VP Research, Development",A - Grant,0.0,48362,63362,+322%,0.0,,,,,CYBX
+634,D,2009-06-10 16:53:27,2009-06-08,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,66380,618536,+12%,0.0,,,,,CYBX
+635,,2009-06-10 16:52:20,2009-06-08,CYBX,Laptewicz Joseph E,Dir,A - Grant,0.0,5095,17164,+42%,0.0,,,,,CYBX
+636,,2009-06-10 16:51:13,2009-06-08,CYBX,Jackson Guy C.,Dir,A - Grant,0.0,5095,24777,+26%,0.0,,,,,CYBX
+637,D,2009-06-10 16:48:40,2009-06-08,CYBX,Browne Gregory H,"VP Finance, CFO",A - Grant,0.0,50888,119526,+74%,0.0,,,,,CYBX
+638,,2009-06-03 17:29:41,2009-06-01,CYBX,Simpson Randal L,VP Operations,F - Tax,0.0,-560,23437,-2%,-0.0,,,,,CYBX
+639,,2009-06-03 17:27:55,2009-06-01,CYBX,Parker George E,"VP, HR",D - Sale to issuer,0.0,-16939,752,-96%,-0.0,,,,,CYBX
+640,,2009-06-03 17:27:55,2009-06-01,CYBX,Parker George E,"VP, HR",F - Tax,0.0,-298,752,-28%,-0.0,,,,,CYBX
+641,,2009-04-09 16:44:34,2009-04-08,CYBX,Parker George E,"VP, HR",S - Sale,12.83,-1000,17987,-5%,-12833.0,,,,,CYBX
+642,,2009-03-19 17:10:55,2009-03-18,CYBX,Olsen Alan J,Dir,S - Sale,15.0,-1000,15582,-6%,-15000.0,,,,,CYBX
+643,,2009-03-11 15:02:59,2009-03-10,CYBX,Olsen Alan J,Dir,D - Sale to issuer,15.0,-1000,16582,-6%,-15000.0,,,,,CYBX
+644,,2009-03-11 08:59:06,2009-03-09,CYBX,Laptewicz Joseph E,Dir,A - Grant,0.0,12069,12069,New,0.0,,,,,CYBX
+645,,2009-02-27 14:00:02,2009-02-26,CYBX,Parker George E,"VP, HR",S - Sale,14.72,-3300,18987,-15%,-48578.0,,,,,CYBX
+646,D,2009-01-21 13:51:25,2009-01-16,CYBX,Morris Milton Mayo,"VP Research, Development",A - Grant,0.0,15000,15000,New,0.0,,,,,CYBX
+647,A,2008-10-03 21:24:11,2008-09-25,CYBX,Schwarz Jeffrey E,Former Director,D - Sale to issuer,0.0,-14807,8670,-63%,-0.0,,,,,CYBX
+648,,2008-09-03 17:42:14,2008-08-29,CYBX,Morrison Hugh M,Dir,P - Purchase,20.96,1000,32076,+3%,20960.0,,,,,CYBX
+649,,2008-07-02 17:13:59,2008-07-01,CYBX,Parker George E,"VP, HR, GENL MGR DEPRESSION",S - Sale,21.56,-2000,22287,-8%,-43120.0,,,,,CYBX
+650,D,2008-07-02 17:10:28,2008-06-30,CYBX,Parker George E,"VP, HR, GENL MGR DEPRESSION",A - Grant,13.88,19617,24287,+420%,272284.0,,,,,CYBX
+651,D,2008-07-02 17:10:28,2008-06-30,CYBX,Parker George E,"VP, HR, GENL MGR DEPRESSION",S - Sale+OE,21.58,-19617,24287,-45%,-423259.0,,,,,CYBX
+652,D,2008-06-30 16:54:15,2008-06-26,CYBX,Strauss Michael J Md,Dir,A - Grant,7.94,9500,37682,+34%,75406.0,,,,,CYBX
+653,D,2008-06-30 16:54:15,2008-06-26,CYBX,Strauss Michael J Md,Dir,P - Purchase,11.47,13000,37682,+53%,149110.0,,,,,CYBX
+654,D,2008-06-30 16:54:15,2008-06-26,CYBX,Strauss Michael J Md,Dir,S - Sale+OE,21.64,-9500,37682,-20%,-205610.0,,,,,CYBX
+655,D,2008-06-30 16:52:10,2008-06-26,CYBX,Strauss Michael J Md,Dir,A - Grant,7.94,15500,24682,+169%,123031.0,,,,,CYBX
+656,D,2008-06-30 16:52:10,2008-06-26,CYBX,Strauss Michael J Md,Dir,S - Sale+OE,21.12,-15500,24682,-39%,-327302.0,,,,,CYBX
+657,,2008-06-26 13:55:27,2008-06-24,CYBX,Terry Reese S Jr,Dir,D - Sale to issuer,22.34,-5000,448962,-1%,-111696.0,,,,,CYBX
+658,,2008-06-26 09:39:25,2008-06-24,CYBX,Terry Reese S Jr,Dir,D - Sale to issuer,22.32,-2500,453962,-1%,-55807.0,,,,,CYBX
+659,,2008-06-23 12:13:03,2008-06-19,CYBX,Olsen Alan J,Dir,D - Sale to issuer,21.65,-3075,17582,-15%,-66578.0,,,,,CYBX
+660,A,2008-06-19 15:59:05,2008-06-16,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,3582,17882,+25%,0.0,,,,,CYBX
+661,,2008-06-18 17:46:01,2008-06-16,CYBX,Terry Reese S Jr,Dir,A - Grant,0.0,3582,488262,+1%,0.0,,,,,CYBX
+662,,2008-06-18 17:32:12,2008-06-16,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,3582,31076,+13%,0.0,,,,,CYBX
+663,,2008-06-18 17:30:19,2008-06-16,CYBX,Novak Alfred J,Dir,A - Grant,0.0,3582,17882,+25%,0.0,,,,,CYBX
+664,,2008-06-18 17:12:38,2008-06-16,CYBX,Schwarz Jeffrey E,Dir,A - Grant,0.0,3582,59957,+6%,0.0,,,,,CYBX
+665,,2008-06-18 17:08:59,2008-06-16,CYBX,Jackson Guy C.,Dir,A - Grant,0.0,3582,19682,+22%,0.0,,,,,CYBX
+666,D,2008-06-18 14:29:53,2008-06-16,CYBX,Simpson Randal L,"VP Operations, R, D",A - Grant,0.0,6189,23997,+35%,0.0,,,,,CYBX
+667,D,2008-06-18 14:20:21,2008-06-16,CYBX,Wise David S,"VP, GC",A - Grant,0.0,7091,34591,+26%,0.0,,,,,CYBX
+668,,2008-06-18 14:15:40,2008-06-16,CYBX,Strauss Michael J Md,Dir,A - Grant,0.0,3582,24682,+17%,0.0,,,,,CYBX
+669,D,2008-06-18 14:13:33,2008-06-16,CYBX,Reinstein James A.,"VP Sales, Mktg, Genl Mgr Intl",A - Grant,0.0,7865,107865,+8%,0.0,,,,,CYBX
+670,D,2008-06-18 14:10:49,2008-06-16,CYBX,Parker George E,"VP, HR, GENL MGR DEPRESSION",A - Grant,0.0,6189,24287,+34%,0.0,,,,,CYBX
+671,,2008-06-18 13:31:14,2008-06-16,CYBX,Olsen Alan J,Dir,A - Grant,0.0,3582,20657,+21%,0.0,,,,,CYBX
+672,,2008-06-18 13:24:20,2008-06-16,CYBX,Morrison Hugh M,Dir,A - Grant,0.0,4776,31076,+18%,0.0,,,,,CYBX
+673,D,2008-06-18 13:21:05,2008-06-16,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,25000,265888,+10%,0.0,,,,,CYBX
+674,D,2008-06-18 13:17:37,2008-06-16,CYBX,Browne Gregory H,"VP Finance, CFO",A - Grant,0.0,8638,68638,+14%,0.0,,,,,CYBX
+675,,2008-01-18 17:59:34,2008-01-16,CYBX,Schwarz Jeffrey E,Dir,S - Sale,13.09,-5895,42075,-12%,-77166.0,,,,,CYBX
+676,,2007-12-03 12:15:54,2007-10-02,CYBX,Lunney Shawn P,Former VP Market Development,A - Grant,8.61,27916,77287,+57%,240474.0,,,,,CYBX
+677,,2007-12-03 12:15:54,2007-10-02,CYBX,Lunney Shawn P,Former VP Market Development,D - Sale to issuer,14.62,-27916,77287,-27%,-408139.0,,,,,CYBX
+678,,2007-11-28 10:06:08,2007-11-26,CYBX,Terry Reese S Jr,Dir,S - Sale,13.32,-1000,484680,0%,-13320.0,,,,,CYBX
+679,,2007-11-27 16:17:54,2007-11-23,CYBX,Schwarz Jeffrey E,Dir,P - Purchase,13.45,4100,1947318,0%,55160.0,,,,,CYBX
+680,,2007-10-05 13:21:39,2007-10-04,CYBX,Boston Scientific Corp,10%,S - Sale,13.6,-3570000,0,-100%,-48552000.0,,,,,CYBX
+681,,2007-09-17 15:59:51,2007-09-13,CYBX,Morrison Hugh M,Dir,P - Purchase,13.37,2000,26300,+8%,26740.0,,,,,CYBX
+682,,2007-09-12 17:37:54,2007-09-10,CYBX,Browne Gregory H,"VP, Finance, CFO",A - Grant,0.0,30000,60000,+100%,0.0,,,,,CYBX
+683,,2007-09-12 17:15:25,2007-09-10,CYBX,Reinstein James A.,"VP Sales, Mktg-Genl Mgr Intl",A - Grant,0.0,50000,100000,+100%,0.0,,,,,CYBX
+684,,2007-09-12 16:20:57,2007-09-10,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,125000,240888,+108%,0.0,,,,,CYBX
+685,,2007-09-12 15:42:37,2007-08-01,CYBX,Reinstein James A.,"VP Sales, Mktg-Genl Mgr Intl",A - Grant,0.0,50000,50000,New,0.0,,,,,CYBX
+686,,2007-09-12 15:27:28,2007-07-09,CYBX,Browne Gregory H,"VP, Finance, CFO",A - Grant,0.0,30000,30000,New,0.0,,,,,CYBX
+687,D,2007-07-12 17:17:30,2007-07-10,CYBX,Lunney Shawn P,"VP, Mkt Development",A - Grant,15.13,50000,38472,-434%,756250.0,,,,,CYBX
+688,D,2007-07-12 17:17:30,2007-07-10,CYBX,Lunney Shawn P,"VP, Mkt Development",S - Sale+OE,17.04,-50000,38472,-57%,-852128.0,,,,,CYBX
+689,,2007-07-11 17:04:55,2007-07-10,CYBX,Schwarz Jeffrey E,Dir,P - Purchase,17.34,10000,1943218,+1%,173426.0,,,,,CYBX
+690,,2007-07-11 17:02:42,2007-07-09,CYBX,Schwarz Jeffrey E,Dir,P - Purchase,17.6,10000,1933218,+1%,175980.0,,,,,CYBX
+691,,2007-07-10 17:17:09,2007-07-06,CYBX,Schwarz Jeffrey E,Dir,P - Purchase,17.36,16182,1923218,+1%,280854.0,,,,,CYBX
+692,,2007-07-10 17:17:09,2007-07-06,CYBX,Schwarz Jeffrey E,Dir,S - Sale,17.33,-14600,1923218,-1%,-252945.0,,,,,CYBX
+693,,2007-07-10 17:15:21,2007-07-05,CYBX,Schwarz Jeffrey E,Dir,P - Purchase,17.32,8054,1921636,0%,139455.0,,,,,CYBX
+694,,2007-07-10 17:03:56,2007-07-02,CYBX,Schwarz Jeffrey E,Dir,P - Purchase,16.83,1200,1913582,0%,20196.0,,,,,CYBX
+695,,2007-07-10 17:01:04,2007-06-15,CYBX,Schwarz Jeffrey E,Dir,P - Purchase,17.24,65100,1912382,+4%,1122480.0,,,,,CYBX
+696,,2007-07-10 17:01:04,2007-06-15,CYBX,Schwarz Jeffrey E,Dir,S - Sale,17.25,-35300,1912382,-2%,-608925.0,,,,,CYBX
+697,A,2007-06-27 08:36:09,2007-06-18,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,125000,115888,-1372%,0.0,,,,,CYBX
+698,A,2007-06-27 08:36:09,2007-06-18,CYBX,Moore Daniel Jeffrey,"Pres, CEO",F - Tax,0.0,-6612,115888,-5%,-0.0,,,,,CYBX
+699,A,2007-06-27 08:36:09,2007-06-18,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,17.37,-2500,115888,-2%,-43420.0,,,,,CYBX
+700,,2007-06-25 16:42:56,2007-06-18,CYBX,Jackson Guy C,Dir,A - Grant,0.0,8600,16100,+115%,0.0,,,,,CYBX
+701,AD,2007-06-21 14:46:19,2007-02-28,CYBX,Strauss Michael J Md,Dir,A - Grant,5.0,15000,7500,-200%,75000.0,,,,,CYBX
+702,AD,2007-06-21 14:46:19,2007-02-28,CYBX,Strauss Michael J Md,Dir,S - Sale+OE,20.57,-7500,7500,-50%,-154310.0,,,,,CYBX
+703,,2007-06-20 17:52:03,2007-06-18,CYBX,Schwarz Jeffrey E,Dir,A - Grant,0.0,4300,1926682,0%,0.0,,,,,CYBX
+704,,2007-06-20 17:32:42,2007-06-18,CYBX,Novak Alfred J,Dir,A - Grant,0.0,4300,14300,+43%,0.0,,,,,CYBX
+705,A,2007-06-20 17:31:27,2007-06-15,CYBX,Morrison Hugh M,Dir,P - Purchase,17.35,10000,20000,+100%,173478.0,,,,,CYBX
+706,,2007-06-20 16:24:09,2007-06-18,CYBX,Strauss Michael J Md,Dir,A - Grant,0.0,8600,21100,+69%,0.0,,,,,CYBX
+707,,2007-06-20 15:55:33,2007-06-18,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,4300,14300,+43%,0.0,,,,,CYBX
+708,,2007-06-20 15:53:13,2007-06-18,CYBX,Simpson Randal L,"VP, Operations",A - Grant,0.0,11000,17808,+162%,0.0,,,,,CYBX
+709,,2007-06-20 15:52:04,2007-06-18,CYBX,Parker George E,Interim Principal Acctg Ofcr,A - Grant,0.0,13000,18100,+255%,0.0,,,,,CYBX
+710,,2007-06-20 15:50:37,2007-06-18,CYBX,Wise David S,"VP, GC",A - Grant,0.0,15000,27500,+120%,0.0,,,,,CYBX
+711,,2007-06-20 15:48:46,2007-06-18,CYBX,Olsen Alan J,Dir,A - Grant,0.0,8600,17075,+101%,0.0,,,,,CYBX
+712,,2007-06-20 15:46:10,2007-06-18,CYBX,Lunney Shawn P,"VP, Mkt Development",A - Grant,0.0,6000,38472,+18%,0.0,,,,,CYBX
+713,,2007-06-20 14:12:27,2007-06-18,CYBX,Terry Reese S Jr,Dir,A - Grant,0.0,8600,485680,+2%,0.0,,,,,CYBX
+714,,2007-06-19 16:49:16,2007-06-18,CYBX,Moore Daniel Jeffrey,"Pres, CEO",A - Grant,0.0,125000,122500,-5000%,0.0,,,,,CYBX
+715,,2007-06-19 16:49:16,2007-06-18,CYBX,Moore Daniel Jeffrey,"Pres, CEO",S - Sale,17.37,-2500,122500,-2%,-43420.0,,,,,CYBX
+716,,2007-06-19 15:17:48,2007-06-18,CYBX,Morrison Hugh M,Dir,A - Grant,0.0,4300,24300,+22%,0.0,,,,,CYBX
+717,,2007-06-19 14:28:09,2007-06-15,CYBX,Morrison Hugh M,Dir,P - Purchase,17.35,9900,20000,+98%,171732.0,,,,,CYBX
+718,,2007-06-04 15:58:07,2007-06-01,CYBX,Rudolph Richard,"VP, Clinical, Medical Affairs",S - Sale,18.71,-2500,7500,-25%,-46775.0,,,,,CYBX
+719,,2007-06-04 15:52:55,2007-06-01,CYBX,Simpson Randal L,"VP, Operations",S - Sale,18.71,-2000,6808,-23%,-37420.0,,,,,CYBX
+720,,2007-05-04 09:03:42,2007-05-02,CYBX,Coelho Tony,Former Director,S - Sale,21.79,-22000,89256,-20%,-479353.0,,,,,CYBX
+721,D,2007-04-30 17:03:18,2007-04-26,CYBX,Cheney Michael A,"VP, Marketing",M - OptEx,15.18,87000,63300,-367%,1320334.0,,,,,CYBX
+722,D,2007-04-30 17:03:18,2007-04-26,CYBX,Cheney Michael A,"VP, Marketing",S - Sale+OE,22.0,-87000,63300,-58%,-1914037.0,,,,,CYBX
+723,D,2007-04-26 16:36:07,2007-04-23,CYBX,Moore Kevin S,Former Director,M - OptEx,19.75,4266,834133,+1%,84254.0,,,,,CYBX
+724,D,2007-04-26 16:36:07,2007-04-23,CYBX,Moore Kevin S,Former Director,S - Sale+OE,20.2,-4266,834133,-1%,-86194.0,,,,,CYBX
+725,D,2007-04-23 17:20:15,2007-04-20,CYBX,Appel Stanley H Md,Former Director,M - OptEx,19.75,1266,0,-100%,25004.0,,,,,CYBX
+726,D,2007-04-23 17:20:15,2007-04-20,CYBX,Appel Stanley H Md,Former Director,S - Sale+OE,20.71,-1266,0,-100%,-26219.0,,,,,CYBX
+727,D,2007-04-23 17:19:12,2007-04-19,CYBX,Appel Stanley H Md,Former Director,A - Grant,20.55,2200,0,-100%,45217.0,,,,,CYBX
+728,D,2007-04-23 17:19:12,2007-04-19,CYBX,Appel Stanley H Md,Former Director,M - OptEx,19.75,3000,0,-100%,59250.0,,,,,CYBX
+729,D,2007-04-23 17:19:12,2007-04-19,CYBX,Appel Stanley H Md,Former Director,S - Sale+OE,20.07,-800,0,-100%,-16053.0,,,,,CYBX
+730,,2007-04-17 15:49:21,2007-04-13,CYBX,Terry Reese S Jr,Interim CEO,S - Sale,19.96,-750,477080,0%,-14968.0,,,,,CYBX
+731,D,2007-04-13 15:16:57,2007-04-12,CYBX,Appel Stanley H Md,Former Director,M - OptEx,12.42,18294,0,-100%,227144.0,,,,,CYBX
+732,D,2007-04-13 15:16:57,2007-04-12,CYBX,Appel Stanley H Md,Former Director,S - Sale+OE,19.51,-18294,0,-100%,-356998.0,,,,,CYBX
+733,D,2007-04-13 08:10:13,2007-04-11,CYBX,Appel Stanley H Md,Former Director,M - OptEx,14.74,17539,0,-100%,258525.0,,,,,CYBX
+734,D,2007-04-13 08:10:13,2007-04-11,CYBX,Appel Stanley H Md,Former Director,S - Sale+OE,19.59,-17539,0,-100%,-343596.0,,,,,CYBX
+735,D,2007-04-12 17:00:03,2007-04-10,CYBX,Appel Stanley H Md,Former Director,M - OptEx,10.07,31233,0,-100%,314391.0,,,,,CYBX
+736,D,2007-04-12 17:00:03,2007-04-10,CYBX,Appel Stanley H Md,Former Director,S - Sale+OE,19.57,-31233,0,-100%,-611212.0,,,,,CYBX
+737,,2007-03-14 17:41:09,2007-03-12,CYBX,Schwarz Jeffrey E,Dir,A - Grant,0.0,10000,10000,New,0.0,,,,,CYBX
+738,,2007-03-14 17:40:00,2007-03-12,CYBX,Novak Alfred J,Dir,A - Grant,0.0,10000,10000,New,0.0,,,,,CYBX
+739,,2007-03-14 17:38:42,2007-03-12,CYBX,Rosenthal Arthur L,Dir,A - Grant,0.0,10000,10000,New,0.0,,,,,CYBX
+740,,2007-03-14 17:18:44,2007-03-12,CYBX,Morrison Hugh M,Dir,A - Grant,0.0,10000,10000,New,0.0,,,,,CYBX
+741,,2007-03-14 15:47:10,2007-03-12,CYBX,Wise David S,"VP, GC",A - Grant,0.0,2500,12500,+25%,0.0,,,,,CYBX
+742,,2007-03-13 11:01:14,2007-03-09,CYBX,Schwarz Jeffrey E,Dir,P - Purchase,18.69,4570,4570,New,85412.0,,,,,CYBX
+743,D,2007-03-08 10:20:47,2007-03-06,CYBX,Appel Stanley H Md,Former Director,A - Grant,3.0,9732,0,-100%,29196.0,,,,,CYBX
+744,D,2007-03-08 10:20:47,2007-03-06,CYBX,Appel Stanley H Md,Former Director,S - Sale+OE,18.56,-9732,0,-100%,-180605.0,,,,,CYBX
+745,D,2007-03-07 09:53:43,2007-03-05,CYBX,Appel Stanley H Md,Former Director,A - Grant,3.0,5268,0,-100%,15804.0,,,,,CYBX
+746,D,2007-03-07 09:53:43,2007-03-05,CYBX,Appel Stanley H Md,Former Director,S - Sale+OE,18.84,-5268,0,-100%,-99243.0,,,,,CYBX
+747,AD,2007-03-06 17:39:03,2007-02-28,CYBX,Coelho Tony,Former Director,A - Grant,9.88,106332,80732,-415%,1050562.0,,,,,CYBX
+748,AD,2007-03-06 17:39:03,2007-02-28,CYBX,Coelho Tony,Former Director,S - Sale+OE,20.53,-34100,80732,-30%,-699984.0,,,,,CYBX
+749,,2007-03-06 17:14:01,2007-03-02,CYBX,Coelho Tony,Former Director,S - Sale,20.16,-17554,63178,-22%,-353930.0,,,,,CYBX
+750,D,2007-03-05 16:31:35,2007-03-01,CYBX,Lunney Shawn P,"VP, Mkt Development",A - Grant,3.06,17625,0,-100%,53977.0,,,,,CYBX
+751,D,2007-03-05 16:31:35,2007-03-01,CYBX,Lunney Shawn P,"VP, Mkt Development",S - Sale+OE,20.25,-17625,0,-100%,-356972.0,,,,,CYBX
+752,D,2007-03-02 18:33:32,2007-02-28,CYBX,Strauss Michael J Md,Dir,A - Grant,5.0,7500,0,-100%,37500.0,,,,,CYBX
+753,D,2007-03-02 18:33:32,2007-02-28,CYBX,Strauss Michael J Md,Dir,S - Sale+OE,20.57,-7500,0,-100%,-154310.0,,,,,CYBX
+754,D,2007-03-02 17:40:50,2007-02-28,CYBX,Jennings William Steven,"VP, Sales",A - Grant,18.94,3700,4000,>999%,70078.0,,,,,CYBX
+755,D,2007-03-02 17:40:50,2007-02-28,CYBX,Jennings William Steven,"VP, Sales",S - Sale+OE,20.55,-3700,4000,-48%,-76035.0,,,,,CYBX
+756,D,2007-03-02 17:29:34,2007-02-28,CYBX,Coelho Tony,Former Director,A - Grant,9.88,106332,72232,-312%,1050562.0,,,,,CYBX
+757,D,2007-03-02 17:29:34,2007-02-28,CYBX,Coelho Tony,Former Director,S - Sale+OE,16.0,-34100,72232,-32%,-545574.0,,,,,CYBX
+758,D,2007-03-02 17:25:44,2007-02-28,CYBX,Jennings William Steven,"VP, Sales",A - Grant,18.94,3700,4000,>999%,70078.0,,,,,CYBX
+759,D,2007-03-02 17:25:44,2007-02-28,CYBX,Jennings William Steven,"VP, Sales",S - Sale+OE,20.55,-3700,4000,-48%,-76035.0,,,,,CYBX
+760,D,2007-03-02 17:21:56,2007-02-28,CYBX,Jennings William Steven,"VP, Sales",A - Grant,18.94,61302,4000,-107%,1161060.0,,,,,CYBX
+761,D,2007-03-02 17:21:56,2007-02-28,CYBX,Jennings William Steven,"VP, Sales",S - Sale+OE,20.41,-61302,4000,-94%,-1250911.0,,,,,CYBX
+762,,2006-07-26 16:16:33,2006-07-24,CYBX,Rudolph Richard,"VP, Clinical, Medical Affairs",S - Sale,20.36,-11933,10000,-54%,-242910.0,,,,,CYBX
+763,,2006-06-12 16:58:33,2006-06-09,CYBX,Terry Reese S Jr,Dir,S - Sale,22.83,-8500,477830,-2%,-194082.0,,,,,CYBX
+764,D,2006-06-07 16:18:51,2006-06-05,CYBX,Lunney Shawn P,"VP, Mkt Development",M - OptEx,3.06,15000,32472,+86%,45938.0,,,,,CYBX
+765,D,2006-06-07 16:18:51,2006-06-06,CYBX,Lunney Shawn P,"VP, Mkt Development",S - Sale+OE,24.0,-15000,32472,-32%,-360000.0,,,,,CYBX
+766,,2006-06-02 17:16:31,2006-06-01,CYBX,Simpson Randal L,"VP, Operations",S - Sale,25.0,-2000,8808,-19%,-50000.0,,,,,CYBX
+767,,2006-06-02 17:13:50,2006-06-01,CYBX,Rudolph Richard,"VP, Clinical, Medical Affairs",S - Sale,24.62,-2500,21933,-10%,-61551.0,,,,,CYBX
+768,,2006-06-02 17:09:12,2006-06-01,CYBX,Cheney Michael A,"VP, Marketing",S - Sale,24.38,-1000,9000,-10%,-24384.0,,,,,CYBX
+769,D,2006-06-02 16:13:40,2006-06-01,CYBX,Jennings William Steven,"VP, Sales",A - Grant,18.94,20000,4000,-125%,378800.0,,,,,CYBX
+770,DM,2006-06-02 16:13:40,2006-06-01,CYBX,Jennings William Steven,"VP, Sales",S - Sale+OE,25.17,-21000,4000,-84%,-528512.0,,,,,CYBX
+771,D,2006-04-11 18:05:09,2006-04-11,CYBX,Terry Reese S Jr,Dir,M - OptEx,3.06,33500,486330,+7%,102594.0,,,,,CYBX
+772,D,2006-03-17 16:07:58,2006-03-16,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",M - OptEx,13.15,18000,9773,-219%,236756.0,,,,,CYBX
+773,D,2006-03-17 16:07:58,2006-03-16,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",S - Sale+OE,26.64,-18000,9773,-65%,-479595.0,,,,,CYBX
+774,D,2006-03-16 16:39:44,2006-03-14,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",M - OptEx,12.45,16684,9773,-241%,207716.0,,,,,CYBX
+775,D,2006-03-16 16:39:44,2006-03-14,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",S - Sale+OE,26.11,-16684,9773,-63%,-435591.0,,,,,CYBX
+776,A,2006-02-14 14:58:35,2005-03-29,CYBX,Boston Scientific Corp,10%,P - Purchase,40.23,134860,3570000,+4%,5425471.0,,,,,CYBX
+777,D,2006-01-06 17:21:06,2006-01-05,CYBX,Olsen Alan J,Dir,M - OptEx,11.56,19000,8475,-181%,219700.0,,,,,CYBX
+778,DM,2006-01-06 17:21:06,2006-01-05,CYBX,Olsen Alan J,Dir,S - Sale+OE,31.22,-19000,8475,-69%,-593087.0,,,,,CYBX
+779,D,2005-12-23 16:02:21,2005-12-22,CYBX,Lunney Shawn P,"VP, Mkt Development",M - OptEx,3.06,10000,32472,+44%,30625.0,,,,,CYBX
+780,D,2005-12-23 16:02:21,2005-12-22,CYBX,Lunney Shawn P,"VP, Mkt Development",S - Sale+OE,32.83,-10000,32472,-24%,-328261.0,,,,,CYBX
+781,,2005-12-15 11:34:02,2005-12-13,CYBX,Moore Kevin S,Dir,P - Purchase,29.66,6800,1661166,0%,201713.0,,,,,CYBX
+782,,2005-12-15 11:30:09,2005-12-13,CYBX,Moore Kevin S,Dir,P - Purchase,29.36,38100,1643866,+2%,1118679.0,,,,,CYBX
+783,,2005-12-13 16:04:46,2005-12-12,CYBX,Moore Kevin S,Dir,P - Purchase,29.7,55100,793233,+7%,1636414.0,,,,,CYBX
+784,,2005-10-12 15:31:08,2005-10-12,CYBX,Jackson Guy C,Dir,P - Purchase,27.51,1000,7500,+15%,27509.0,,,,,CYBX
+785,,2005-10-12 13:17:34,2005-10-11,CYBX,Coelho Tony,Dir,P - Purchase,28.73,3400,12500,+37%,97697.0,,,,,CYBX
+786,,2005-10-12 12:43:19,2005-10-12,CYBX,Cummins Robert P,"Chief Exec Officer, COB",P - Purchase,27.9,5000,173750,+3%,139500.0,,,,,CYBX
+787,M,2005-10-11 12:09:40,2005-10-07,CYBX,Cummins Robert P,"Chief Exec Officer, COB",P - Purchase,28.93,12500,168750,+8%,361624.0,,,,,CYBX
+788,,2005-10-11 11:49:50,2005-10-07,CYBX,Westbrook Pamela B,CFO,P - Purchase,28.2,1100,13409,+9%,31020.0,,,,,CYBX
+789,,2005-08-09 16:37:28,2005-08-05,CYBX,Cummins Robert P,"Chief Exec Officer, COB",A - Grant,0.0,100000,156250,+178%,0.0,,,,,CYBX
+790,,2005-07-26 15:33:10,2005-07-22,CYBX,Rudolph Richard,"VP, Clinical, Medical Affairs",A - Grant,0.0,11933,24433,+95%,0.0,,,,,CYBX
+791,,2005-07-26 15:22:31,2005-07-22,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",A - Grant,0.0,4773,9773,+95%,0.0,,,,,CYBX
+792,,2005-06-03 16:36:03,2005-06-01,CYBX,Wise David S,"VP, GC",A - Grant,0.0,10000,10000,New,0.0,,,,,CYBX
+793,,2005-06-03 16:32:17,2005-06-01,CYBX,Westbrook Pamela B,CFO,A - Grant,0.0,5000,12309,+68%,0.0,,,,,CYBX
+794,,2005-06-03 16:28:34,2005-06-01,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",A - Grant,0.0,5000,5000,New,0.0,,,,,CYBX
+795,,2005-06-03 16:20:11,2005-06-01,CYBX,Simpson Randal L,"VP, Operations",A - Grant,0.0,10000,10808,>999%,0.0,,,,,CYBX
+796,,2005-06-03 16:14:35,2005-06-01,CYBX,Rudolph Richard,"VP, Clinical, Medical Affairs",A - Grant,0.0,12500,12500,New,0.0,,,,,CYBX
+797,,2005-06-03 16:10:31,2005-06-01,CYBX,Parker George E,"VP, HR",A - Grant,0.0,5000,5100,>999%,0.0,,,,,CYBX
+798,,2005-06-03 16:04:58,2005-06-01,CYBX,Lunney Shawn P,"VP, Mkt Development",A - Grant,0.0,10000,32472,+44%,0.0,,,,,CYBX
+799,,2005-06-03 15:58:00,2005-06-01,CYBX,Jennings William Steven,"VP, Sales",A - Grant,0.0,5000,5000,New,0.0,,,,,CYBX
+800,,2005-06-03 15:51:32,2005-06-01,CYBX,Cheney Michael A,"VP, Marketing",A - Grant,0.0,5000,5150,>999%,0.0,,,,,CYBX
+801,,2005-06-03 14:24:58,2005-06-01,CYBX,Terry Reese S Jr,Dir,A - Grant,0.0,5000,452830,+1%,0.0,,,,,CYBX
+802,,2005-06-03 14:19:35,2005-06-01,CYBX,Strauss Michael J Md,Dir,A - Grant,0.0,5000,5000,New,0.0,,,,,CYBX
+803,,2005-06-03 14:14:56,2005-06-01,CYBX,Olsen Alan J,Dir,A - Grant,0.0,5000,8475,+144%,0.0,,,,,CYBX
+804,,2005-06-03 14:07:35,2005-06-01,CYBX,Moore Kevin S,Dir,A - Grant,0.0,5000,738133,+1%,0.0,,,,,CYBX
+805,,2005-06-03 14:02:31,2005-06-01,CYBX,Matricaria Ronald A,Dir,A - Grant,0.0,5000,30000,+20%,0.0,,,,,CYBX
+806,,2005-06-03 13:54:17,2005-06-01,CYBX,Jackson Guy C,Dir,A - Grant,0.0,5000,6500,+333%,0.0,,,,,CYBX
+807,,2005-06-03 13:49:16,2005-06-01,CYBX,Coelho Tony,Dir,A - Grant,0.0,5000,9100,+122%,0.0,,,,,CYBX
+808,,2005-06-03 13:41:52,2005-06-01,CYBX,Appel Stanley H Md,Dir,A - Grant,0.0,5000,68800,+8%,0.0,,,,,CYBX
+809,D,2005-04-08 17:26:59,2005-04-07,CYBX,Simpson Randal L,"VP, Operations",M - OptEx,9.96,10000,808,-109%,99600.0,,,,,CYBX
+810,D,2005-04-08 17:26:59,2005-04-07,CYBX,Simpson Randal L,"VP, Operations",S - Sale+OE,45.0,-10000,808,-93%,-450000.0,,,,,CYBX
+811,D,2005-04-08 17:18:54,2005-04-07,CYBX,Parker George E,"VP, HR",M - OptEx,20.77,10000,100,-101%,207680.0,,,,,CYBX
+812,D,2005-04-08 17:18:54,2005-04-07,CYBX,Parker George E,"VP, HR",S - Sale+OE,45.0,-10000,100,-99%,-450000.0,,,,,CYBX
+813,,2005-03-31 14:22:40,2005-03-29,CYBX,Boston Scientific Corp,10%,P - Purchase,39.83,75140,3435140,+2%,2992856.0,,,,,CYBX
+814,,2005-03-30 16:55:00,2005-03-28,CYBX,Boston Scientific Corp,10%,P - Purchase,38.97,60000,3360000,+2%,2338230.0,,,,,CYBX
+815,D,2005-02-22 15:08:15,2005-02-18,CYBX,Cheney Michael A,"VP, Marketing",M - OptEx,15.1,11753,150,-101%,177470.0,,,,,CYBX
+816,D,2005-02-22 15:08:15,2005-02-18,CYBX,Cheney Michael A,"VP, Marketing",S - Sale+OE,40.11,-11753,150,-99%,-471373.0,,,,,CYBX
+817,A,2005-02-22 12:43:54,2005-02-15,CYBX,Advanced Neuromodulation Systems Inc,10%,S - Sale,39.08,-510000,2643000,-16%,-19932950.0,,,,,CYBX
+818,,2005-02-18 19:36:10,2005-02-17,CYBX,Advanced Neuromodulation Systems Inc,10%,S - Sale,38.64,-1083000,0,-100%,-41845350.0,,,,,CYBX
+819,M,2005-02-18 19:35:14,2005-02-16,CYBX,Advanced Neuromodulation Systems Inc,10%,S - Sale,38.18,-1560000,1083000,-59%,-59558800.0,,,,,CYBX
+820,D,2005-02-18 16:25:34,2005-02-17,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",M - OptEx,20.94,19050,0,-100%,398859.0,,,,,CYBX
+821,DM,2005-02-18 16:25:34,2005-02-17,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",S - Sale+OE,39.95,-19050,0,-100%,-761083.0,,,,,CYBX
+822,D,2005-02-17 11:59:54,2005-02-15,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",M - OptEx,20.94,950,0,-100%,19891.0,,,,,CYBX
+823,D,2005-02-17 11:59:54,2005-02-15,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",S - Sale+OE,41.0,-950,0,-100%,-38950.0,,,,,CYBX
+824,,2005-02-16 19:12:13,2005-02-14,CYBX,Advanced Neuromodulation Systems Inc,10%,S - Sale,39.71,-857000,2643000,-24%,-34028160.0,,,,,CYBX
+825,AD,2005-02-16 14:46:35,2005-02-10,CYBX,Simpson Randal L,"VP, Operations",M - OptEx,13.75,20000,808,-104%,275000.0,,,,,CYBX
+826,AD,2005-02-16 14:46:35,2005-02-10,CYBX,Simpson Randal L,"VP, Operations",S - Sale+OE,40.75,-20000,808,-96%,-815004.0,,,,,CYBX
+827,D,2005-02-16 14:26:04,2005-02-10,CYBX,Simpson Randal L,"VP, Operations",M - OptEx,13.75,20000,149500,+15%,275000.0,,,,,CYBX
+828,D,2005-02-16 14:26:04,2005-02-10,CYBX,Simpson Randal L,"VP, Operations",S - Sale+OE,40.75,-20000,149500,-12%,-815004.0,,,,,CYBX
+829,,2005-02-16 14:23:25,2005-02-14,CYBX,Coelho Tony,Dir,S - Sale,40.57,-5700,4100,-58%,-231232.0,,,,,CYBX
+830,D,2005-02-16 14:19:36,2005-02-14,CYBX,Cheney Michael A,"SVP, Marketing, Sales",M - OptEx,15.1,23247,150,-101%,351030.0,,,,,CYBX
+831,D,2005-02-16 14:19:36,2005-02-14,CYBX,Cheney Michael A,"SVP, Marketing, Sales",P - Purchase,41.25,300,150,-200%,12375.0,,,,,CYBX
+832,D,2005-02-16 14:19:36,2005-02-14,CYBX,Cheney Michael A,"SVP, Marketing, Sales",S - Sale+OE,41.13,-22947,150,-99%,-943877.0,,,,,CYBX
+833,,2005-02-14 16:01:28,2005-02-10,CYBX,Cheney Michael A,"SVP, Marketing, Sales",S - Sale,42.38,-1461,150,-91%,-61918.0,,,,,CYBX
+834,,2005-02-14 15:03:51,2005-02-10,CYBX,Terry Reese S Jr,Dir,S - Sale,42.82,-25000,447830,-5%,-1070408.0,,,,,CYBX
+835,A,2005-02-14 14:15:25,2005-02-10,CYBX,Lunney Shawn P,"VP, Mkt Development",S - Sale,43.55,-7500,22472,-25%,-326652.0,,,,,CYBX
+836,,2005-02-14 13:38:23,2005-02-10,CYBX,Lunney Shawn P,"VP, Mkt Development",S - Sale,43.55,-7800,22472,-26%,-339725.0,,,,,CYBX
+837,D,2005-02-14 13:04:52,2005-02-10,CYBX,Westbrook Pamela B,CFO,M - OptEx,5.13,30000,7309,-132%,153750.0,,,,,CYBX
+838,D,2005-02-14 13:04:52,2005-02-10,CYBX,Westbrook Pamela B,CFO,S - Sale+OE,42.57,-30000,7309,-80%,-1277017.0,,,,,CYBX
+839,D,2005-02-14 13:00:56,2005-02-10,CYBX,Jennings William Steven,"VP, Sales",M - OptEx,18.94,20000,0,-100%,378800.0,,,,,CYBX
+840,D,2005-02-14 13:00:56,2005-02-10,CYBX,Jennings William Steven,"VP, Sales",S - Sale+OE,41.26,-20000,0,-100%,-825118.0,,,,,CYBX
+841,D,2005-02-14 12:57:52,2005-02-10,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",M - OptEx,20.94,43010,0,-100%,900522.0,,,,,CYBX
+842,DM,2005-02-14 12:57:52,2005-02-10,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",S - Sale+OE,42.19,-43010,0,-100%,-1814579.0,,,,,CYBX
+843,D,2005-02-14 12:55:33,2005-02-10,CYBX,Appel Stanley H Md,Dir,M - OptEx,3.0,20000,63800,+46%,60000.0,,,,,CYBX
+844,D,2005-02-14 12:55:33,2005-02-10,CYBX,Appel Stanley H Md,Dir,S - Sale+OE,39.42,-20000,63800,-24%,-788424.0,,,,,CYBX
+845,M,2005-02-14 12:48:27,2005-02-10,CYBX,Cummins Robert P,"Chief Exec Officer, COB",S - Sale,44.24,-50200,36250,-58%,-2221092.0,,,,,CYBX
+846,,2005-02-14 12:43:03,2005-02-10,CYBX,Cummins Robert P,"Chief Exec Officer, COB",S - Sale,43.08,-119351,86450,-58%,-5141398.0,,,,,CYBX
+847,D,2005-02-14 12:41:15,2005-02-10,CYBX,Cummins Robert P,"Chief Exec Officer, COB",M - OptEx,12.43,350000,205801,-243%,4349500.0,,,,,CYBX
+848,D,2005-02-14 12:41:15,2005-02-10,CYBX,Cummins Robert P,"Chief Exec Officer, COB",S - Sale+OE,40.67,-180449,205801,-47%,-7338702.0,,,,,CYBX
+849,,2004-09-16 17:48:18,2004-09-16,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",S - Sale,22.58,-1000,0,-100%,-22585.0,,,,,CYBX
+850,D,2004-09-16 10:53:55,2004-09-14,CYBX,Terry Reese S Jr,Dir,M - OptEx,3.06,11000,472830,+2%,33688.0,,,,,CYBX
+851,D,2004-09-16 10:53:55,2004-09-14,CYBX,Terry Reese S Jr,Dir,S - Sale+OE,18.35,-4500,472830,-1%,-82590.0,,,,,CYBX
+852,,2004-09-15 14:23:36,2004-09-14,CYBX,Moore Kevin S,Dir,P - Purchase,17.04,3000,733133,0%,51110.0,,,,,CYBX
+853,A,2004-09-14 13:06:57,2004-09-03,CYBX,Jackson Guy C,Dir,P - Purchase,16.87,1500,1500,New,25306.0,,,,,CYBX
+854,AM,2004-09-14 13:05:13,2004-09-07,CYBX,Matricaria Ronald A,Dir,P - Purchase,17.0,25000,25000,New,425000.0,,,,,CYBX
+855,AM,2004-09-14 12:56:12,2004-09-10,CYBX,Moore Kevin S,Dir,P - Purchase,16.88,100000,730133,+16%,1687876.0,,,,,CYBX
+856,M,2004-09-14 09:52:29,2004-09-10,CYBX,Moore Kevin S,Dir,A - Grant,16.88,100000,730133,+16%,1687876.0,,,,,CYBX
+857,M,2004-09-08 19:05:32,2004-09-07,CYBX,Matricaria Ronald A,Dir,A - Grant,17.0,25000,25000,New,425000.0,,,,,CYBX
+858,,2004-09-03 14:58:09,2004-09-03,CYBX,Jackson Guy C,Dir,A - Grant,16.87,1500,1500,New,25306.0,,,,,CYBX
+859,,2004-08-31 17:19:04,2004-08-30,CYBX,Lunney Shawn P,"VP, Mkt Development",S - Sale,17.63,-30975,29972,-51%,-546216.0,,,,,CYBX
+860,,2004-06-30 14:01:18,2004-06-28,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",S - Sale,36.2,-1410,1000,-59%,-51042.0,,,,,CYBX
+861,,2004-06-30 13:58:35,2004-06-28,CYBX,Cheney Michael A,"SVP, Marketing, Sales",S - Sale,35.0,-1000,1611,-38%,-35000.0,,,,,CYBX
+862,A,2004-06-25 19:10:06,2004-06-25,CYBX,Cheney Michael A,"SVP, Marketing, Sales",S - Sale,34.53,-1000,2611,-28%,-34526.0,,,,,CYBX
+863,D,2004-06-25 16:44:34,2004-06-25,CYBX,Rudolph Richard,"VP, Clinical, Medical Affairs",M - OptEx,15.56,50000,0,-100%,778000.0,,,,,CYBX
+864,D,2004-06-25 16:44:34,2004-06-25,CYBX,Rudolph Richard,"VP, Clinical, Medical Affairs",S - Sale+OE,36.05,-50000,0,-100%,-1802602.0,,,,,CYBX
+865,,2004-06-25 16:02:24,2004-06-25,CYBX,Cheney Michael A,"SVP, Marketing, Sales",S - Sale,34.53,-1000,2611,-28%,-34526.0,,,,,CYBX
+866,D,2004-06-25 15:42:01,2004-06-23,CYBX,Jennings William Steven,"VP, Sales",M - OptEx,18.94,5000,0,-100%,94700.0,,,,,CYBX
+867,D,2004-06-25 15:42:01,2004-06-23,CYBX,Jennings William Steven,"VP, Sales",S - Sale+OE,33.6,-5000,0,-100%,-168000.0,,,,,CYBX
+868,D,2004-06-22 12:50:11,2004-06-21,CYBX,Appel Stanley H Md,Dir,M - OptEx,3.06,40000,63800,+168%,122500.0,,,,,CYBX
+869,D,2004-06-22 12:50:11,2004-06-21,CYBX,Appel Stanley H Md,Dir,S - Sale+OE,35.02,-20000,63800,-24%,-700499.0,,,,,CYBX
+870,,2004-06-22 12:39:18,2004-06-18,CYBX,Rudolph Richard,"VP, Clinical, Medical Affairs",S - Sale,37.0,-2905,0,-100%,-107485.0,,,,,CYBX
+871,D,2004-06-22 12:30:50,2004-06-18,CYBX,Olsen Alan J,Dir,M - OptEx,11.63,18000,3475,-124%,209250.0,,,,,CYBX
+872,D,2004-06-22 12:30:50,2004-06-18,CYBX,Olsen Alan J,Dir,S - Sale+OE,37.4,-18000,3475,-84%,-673152.0,,,,,CYBX
+873,EM,2004-06-17 18:18:42,2004-06-16,CYBX,Terry Reese S Jr,Dir,S - Sale,31.22,-20000,466330,-4%,-624406.0,,,,,CYBX
+874,D,2004-06-09 07:49:57,2004-06-08,CYBX,Lunney Shawn P,"VP, Mkt Development",M - OptEx,3.06,7500,60947,+14%,22969.0,,,,,CYBX
+875,,2004-04-02 09:41:41,2004-04-01,CYBX,Terry Reese S Jr,Dir,S - Sale,27.33,-10000,486330,-2%,-273307.0,,,,,CYBX
+876,,2004-02-10 18:25:51,2004-02-09,CYBX,Terry Reese S Jr,Dir,S - Sale,26.95,-10000,496330,-2%,-269462.0,,,,,CYBX
+877,,2004-01-12 15:48:34,2004-01-09,CYBX,Terry Reese S Jr,Dir,S - Sale,34.46,-10000,506330,-2%,-344556.0,,,,,CYBX
+878,,2004-01-12 15:27:27,2004-01-09,CYBX,Olsen Alan J,Dir,M - OptEx,11.63,18000,3475,-124%,209250.0,,,,,CYBX
+879,,2004-01-12 15:27:27,2004-01-09,CYBX,Olsen Alan J,Dir,S - Sale,34.05,-18000,3475,-84%,-612968.0,,,,,CYBX
+880,,2003-12-17 12:26:33,2003-12-08,CYBX,Duerden Thomas A Phd,Retired Director,M - OptEx,14.74,5000,21500,+30%,73700.0,,,,,CYBX
+881,,2003-12-17 12:26:33,2003-12-08,CYBX,Duerden Thomas A Phd,Retired Director,S - Sale,29.55,-5000,21500,-19%,-147750.0,,,,,CYBX
+882,,2003-12-15 14:49:00,2003-12-12,CYBX,Terry Reese S Jr,Dir,G - Gift,32.1,-1520,516330,0%,-48792.0,,,,,CYBX
+883,,2003-12-15 11:52:13,2003-12-12,CYBX,Duerden Thomas A Phd,Retired Director,M - OptEx,29.88,5000,21500,+30%,149375.0,,,,,CYBX
+884,,2003-12-15 11:52:13,2003-12-12,CYBX,Duerden Thomas A Phd,Retired Director,S - Sale,32.05,-5000,21500,-19%,-160250.0,,,,,CYBX
+885,,2003-12-09 15:34:08,2003-12-09,CYBX,Cheney Michael A,"SVP, Marketing, Sales",M - OptEx,15.1,15000,3611,-132%,226500.0,,,,,CYBX
+886,,2003-12-09 15:34:08,2003-12-09,CYBX,Cheney Michael A,"SVP, Marketing, Sales",S - Sale,30.12,-15000,3611,-81%,-451838.0,,,,,CYBX
+887,,2003-12-09 15:04:31,2003-12-09,CYBX,Terry Reese S Jr,Dir,S - Sale,30.04,-10000,517850,-2%,-300397.0,,,,,CYBX
+888,A,2003-12-09 14:40:06,2003-12-08,CYBX,Rudolph Richard,"VP, Clinical,amp; Medical Affa",S - Sale,29.7,-2500,2905,-46%,-74250.0,,,,,CYBX
+889,M,2003-12-08 17:35:51,2003-12-01,CYBX,Duerden Thomas A Phd,Dir,M - OptEx,6.36,10000,21500,+87%,63623.0,,,,,CYBX
+890,M,2003-12-08 17:35:51,2003-12-01,CYBX,Duerden Thomas A Phd,Dir,S - Sale,27.53,-10000,21500,-32%,-275280.0,,,,,CYBX
+891,E,2003-12-08 16:49:04,2003-12-08,CYBX,Rudolph Richard,"VP, Clinical, Medical Affairs",S - Sale,29.7,-2500,2905,-46%,-74250.0,,,,,CYBX
+892,A,2003-11-25 18:30:55,2003-11-13,CYBX,Cheney Michael A,"SVP, Marketing, Sales",M - OptEx,13.99,19700,3611,-122%,275550.0,,,,,CYBX
+893,AM,2003-11-25 18:30:55,2003-11-13,CYBX,Cheney Michael A,"SVP, Marketing, Sales",S - Sale,29.61,-19700,3611,-85%,-583330.0,,,,,CYBX
+894,,2003-11-25 15:56:18,2003-11-24,CYBX,Coelho Tony,Dir,M - OptEx,5.25,20000,9800,-196%,105000.0,,,,,CYBX
+895,,2003-11-25 15:56:18,2003-11-24,CYBX,Coelho Tony,Dir,S - Sale,27.47,-20000,9800,-67%,-549420.0,,,,,CYBX
+896,,2003-11-21 17:54:14,2003-11-20,CYBX,Duerden Thomas A Phd,Dir,M - OptEx,3.0,6000,21500,+39%,18000.0,,,,,CYBX
+897,,2003-11-21 17:54:14,2003-11-20,CYBX,Duerden Thomas A Phd,Dir,S - Sale,27.64,-6000,21500,-22%,-165810.0,,,,,CYBX
+898,,2003-11-14 18:44:29,2003-11-13,CYBX,Cheney Michael A,"SVP, Marketing, Sales",M - OptEx,14.47,35000,16911,-193%,506580.0,,,,,CYBX
+899,M,2003-11-14 18:44:29,2003-11-13,CYBX,Cheney Michael A,"SVP, Marketing, Sales",S - Sale,29.61,-19700,16911,-54%,-583330.0,,,,,CYBX
+900,,2003-11-14 18:01:34,2003-11-12,CYBX,Duerden Thomas A Phd,Dir,M - OptEx,3.0,24000,21500,-960%,72000.0,,,,,CYBX
+901,M,2003-11-14 18:01:34,2003-11-12,CYBX,Duerden Thomas A Phd,Dir,S - Sale,29.23,-24000,21500,-53%,-701580.0,,,,,CYBX
+902,,2003-11-10 17:14:12,2003-11-10,CYBX,Terry Reese S Jr,Dir,S - Sale,29.68,-10000,527850,-2%,-296825.0,,,,,CYBX
+903,,2003-11-10 17:09:32,2003-11-10,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",M - OptEx,12.45,15000,2410,-119%,186750.0,,,,,CYBX
+904,,2003-11-10 17:09:32,2003-11-10,CYBX,Totah Alan D,"VP, Regulatory Affairs,Quality",S - Sale,29.48,-15000,2410,-86%,-442143.0,,,,,CYBX
+905,,2003-10-02 15:41:37,2003-10-01,CYBX,Terry Reese S Jr,Dir,S - Sale,30.7,-10000,537850,-2%,-307033.0,,,,,CYBX
+906,A,2003-09-09 17:40:06,2003-09-08,CYBX,Terry Reese S Jr,Dir,S - Sale,28.2,-5000,547850,-1%,-140991.0,,,,,CYBX
+907,,2003-09-09 11:22:12,2003-09-08,CYBX,Terry Reese S Jr,Dir,S - Sale,28.2,-5000,545450,-1%,-140991.0,,,,,CYBX
+908,,2003-09-03 12:09:44,2003-09-02,CYBX,Terry Reese S Jr,Dir,S - Sale,27.61,-10000,550450,-2%,-276144.0,,,,,CYBX
+909,D,2003-08-22 15:26:34,2003-08-21,CYBX,Cummins Robert P,CEO,M - OptEx,3.06,100000,36250,-157%,306250.0,,,,,CYBX
+910,D,2003-08-22 15:26:34,2003-08-21,CYBX,Cummins Robert P,CEO,S - Sale+OE,27.83,-100000,36250,-73%,-2782800.0,,,,,CYBX
+911,D,2003-08-21 15:28:42,2003-08-19,CYBX,Westbrook Pamela B,CFO,M - OptEx,6.23,21000,7309,-153%,130750.0,,,,,CYBX
+912,D,2003-08-21 15:28:42,2003-08-19,CYBX,Westbrook Pamela B,CFO,S - Sale+OE,28.14,-19000,7309,-72%,-534696.0,,,,,CYBX
+913,M,2003-08-20 14:00:56,2003-08-18,CYBX,Cummins Robert P,CEO,S - Sale,28.72,-63950,36250,-64%,-1836599.0,,,,,CYBX
+914,D,2003-08-12 15:10:17,2003-08-08,CYBX,Strauss Michael J Md,Dir,M - OptEx,5.0,20000,0,-100%,100000.0,,,,,CYBX
+915,D,2003-08-12 15:10:17,2003-08-08,CYBX,Strauss Michael J Md,Dir,S - Sale+OE,27.1,-27500,0,-100%,-745370.0,,,,,CYBX

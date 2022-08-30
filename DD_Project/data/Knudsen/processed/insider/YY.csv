@@ -1,4 +1,493 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2019-05-30 16:00:43,2019-05-30,FE,Pappas Christopher D,Dir,P - Purchase,41.14,3000,19488,+18%,123419.0,,,,,YY
-1,,2019-03-12 10:55:39,2019-03-11,FE,Vespoli Leila L,"EVP, GC",S - Sale,41.33,-24400,180923,-12%,-1008493.0,,,,,YY
-2,,2019-01-10 15:47:18,2019-01-09,FE,Pearson James F,"EVP, Finance",S - Sale,37.87,-40000,146036,-22%,-1514844.0,,,,,YY
+0,,2022-03-07 16:59:45,2022-03-03,FE,Lisowski Jason,"VP, Controller, CAO",D - Sale to issuer,42.42,-3500,567,-86%,-148481.0,,,,,YY
+1,D,2022-03-03 21:43:00,2022-03-01,FE,Walker Christine,"SVP, CHRO, Corporate Services",D - Sale to issuer,41.57,-4760,57004,-8%,-197856.0,,,,,YY
+2,D,2022-03-03 21:43:00,2022-03-01,FE,Walker Christine,"SVP, CHRO, Corporate Services",F - Tax,41.57,-4182,57004,-7%,-173846.0,,,,,YY
+3,D,2022-03-03 21:43:00,2022-03-01,FE,Walker Christine,"SVP, CHRO, Corporate Services",M - OptEx,0.0,14151,57004,+33%,0.0,,,,,YY
+4,D,2022-03-03 21:40:54,2022-03-01,FE,Strah Steven E,"Pres, CEO",D - Sale to issuer,41.57,-17868,96648,-16%,-742784.0,,,,,YY
+5,D,2022-03-03 21:40:54,2022-03-01,FE,Strah Steven E,"Pres, CEO",F - Tax,41.57,-16311,96648,-14%,-678048.0,,,,,YY
+6,D,2022-03-03 21:40:54,2022-03-01,FE,Strah Steven E,"Pres, CEO",M - OptEx,0.0,53835,96648,+126%,0.0,,,,,YY
+7,D,2022-03-03 21:38:33,2022-03-01,FE,Park Hyun,"SVP, CLO",F - Tax,41.57,-5458,9171,-37%,-226889.0,,,,,YY
+8,D,2022-03-03 21:38:33,2022-03-01,FE,Park Hyun,"SVP, CLO",M - OptEx,0.0,14385,9171,-276%,0.0,,,,,YY
+9,D,2022-03-03 20:48:03,2022-03-01,FE,K. Jon Taylor,"SVP, CFO, Strategy",D - Sale to issuer,14.44,-15339,24225,-39%,-221517.0,,,,,YY
+10,D,2022-03-03 20:48:03,2022-03-01,FE,K. Jon Taylor,"SVP, CFO, Strategy",F - Tax,41.57,-649,24225,-3%,-26979.0,,,,,YY
+11,D,2022-03-03 20:48:03,2022-03-01,FE,K. Jon Taylor,"SVP, CFO, Strategy",M - OptEx,0.0,15988,24225,+194%,0.0,,,,,YY
+12,D,2022-03-03 20:43:50,2022-03-01,FE,Lisowski Jason,"VP, Controller, CAO",D - Sale to issuer,13.6,-8595,6866,-56%,-116912.0,,,,,YY
+13,D,2022-03-03 20:43:50,2022-03-01,FE,Lisowski Jason,"VP, Controller, CAO",F - Tax,41.57,-393,6866,-5%,-16337.0,,,,,YY
+14,D,2022-03-03 20:43:50,2022-03-01,FE,Lisowski Jason,"VP, Controller, CAO",M - OptEx,0.0,8988,6866,-423%,0.0,,,,,YY
+15,D,2022-03-03 20:40:33,2022-03-01,FE,Belcher Samuel,"SVP, Operations",D - Sale to issuer,14.53,-44280,56728,-44%,-643453.0,,,,,YY
+16,D,2022-03-03 20:40:33,2022-03-01,FE,Belcher Samuel,"SVP, Operations",F - Tax,41.57,-1943,56728,-3%,-80771.0,,,,,YY
+17,D,2022-03-03 20:40:33,2022-03-01,FE,Belcher Samuel,"SVP, Operations",M - OptEx,0.0,46223,56728,+440%,0.0,,,,,YY
+18,,2022-01-05 16:13:38,2022-01-03,FE,Williams Melvin D.,Dir,A - Grant,41.22,909,2439,+59%,37469.0,,,,,YY
+19,,2022-01-05 16:07:59,2022-01-03,FE,Teno Andrew,Dir,A - Grant,41.22,909,3220,+39%,37469.0,,,,,YY
+20,,2022-01-05 15:47:26,2022-01-03,FE,Lynn Jesse,Dir,A - Grant,41.22,909,3220,+39%,37469.0,,,,,YY
+21,,2022-01-05 15:43:38,2022-01-03,FE,Kaleta Paul J,Dir,A - Grant,41.22,909,2051,+80%,37469.0,,,,,YY
+22,D,2022-01-05 15:38:10,2022-01-03,FE,Johnson Julia L,Dir,A - Grant,41.22,909,17558,+5%,37469.0,,,,,YY
+23,,2022-01-05 15:33:48,2022-01-03,FE,Hicks Lisa Winston,Dir,A - Grant,41.22,909,2551,+55%,37469.0,,,,,YY
+24,,2021-10-05 10:27:38,2021-10-01,FE,Williams Melvin D.,Dir,A - Grant,35.97,1042,1515,+220%,37481.0,,,,,YY
+25,,2021-10-05 10:20:31,2021-10-01,FE,Teno Andrew,Dir,A - Grant,35.97,1042,2311,+82%,37481.0,,,,,YY
+26,,2021-10-05 09:52:15,2021-10-01,FE,Lynn Jesse,Dir,A - Grant,35.97,1042,2311,+82%,37481.0,,,,,YY
+27,,2021-10-05 09:47:42,2021-10-01,FE,Kaleta Paul J,Dir,A - Grant,35.97,1042,1142,>999%,37481.0,,,,,YY
+28,,2021-10-05 09:44:18,2021-10-01,FE,Johnson Julia L,Dir,A - Grant,35.97,1042,16590,+7%,37481.0,,,,,YY
+29,,2021-10-05 09:41:22,2021-10-01,FE,Hicks Lisa Winston,Dir,A - Grant,35.97,1042,1642,+174%,37481.0,,,,,YY
+30,,2021-07-06 11:14:00,2021-07-01,FE,Williams Melvin D.,Dir,A - Grant,37.48,473,473,New,17728.0,,,,,YY
+31,,2021-07-06 11:08:43,2021-07-01,FE,Teno Andrew,Dir,A - Grant,37.48,1000,1269,+372%,37480.0,,,,,YY
+32,,2021-07-06 10:54:39,2021-07-01,FE,Lynn Jesse,Dir,A - Grant,37.48,1000,1269,+372%,37480.0,,,,,YY
+33,,2021-07-06 10:52:40,2021-07-01,FE,Johnson Julia L,Dir,A - Grant,37.48,1000,15501,+7%,37480.0,,,,,YY
+34,,2021-04-05 15:50:32,2021-04-01,FE,K. Jon Taylor,"SVP, CFO",F - Tax,34.35,-3949,24116,-14%,-135648.0,,,,,YY
+35,,2021-04-05 15:32:45,2021-04-01,FE,Teno Andrew,Dir,A - Grant,34.35,169,269,+169%,5805.0,,,,,YY
+36,,2021-04-05 15:03:34,2021-04-01,FE,Lynn Jesse,Dir,A - Grant,34.35,169,269,+169%,5805.0,,,,,YY
+37,,2021-04-05 15:00:23,2021-04-01,FE,Johnson Julia L,Dir,A - Grant,34.35,1091,14433,+8%,37476.0,,,,,YY
+38,D,2021-03-03 19:57:25,2021-03-01,FE,Walker Christine,"SVP, CHRO",D - Sale to issuer,33.73,-3942,50920,-7%,-132943.0,,,,,YY
+39,D,2021-03-03 19:57:25,2021-03-01,FE,Walker Christine,"SVP, CHRO",F - Tax,33.73,-3774,50920,-7%,-127278.0,,,,,YY
+40,D,2021-03-03 19:57:25,2021-03-01,FE,Walker Christine,"SVP, CHRO",M - OptEx,0.0,11985,50920,+31%,0.0,,,,,YY
+41,D,2021-03-03 19:53:57,2021-03-01,FE,K. Jon Taylor,"SVP, CFO",D - Sale to issuer,11.72,-21082,27765,-43%,-247017.0,,,,,YY
+42,D,2021-03-03 19:53:57,2021-03-01,FE,K. Jon Taylor,"SVP, CFO",F - Tax,33.73,-892,27765,-3%,-30083.0,,,,,YY
+43,D,2021-03-03 19:53:57,2021-03-01,FE,K. Jon Taylor,"SVP, CFO",M - OptEx,0.0,21974,27765,+380%,0.0,,,,,YY
+44,D,2021-03-03 19:51:16,2021-03-01,FE,Strah Steven E,"Pres, Acting CEO",D - Sale to issuer,11.73,-68454,73064,-48%,-802805.0,,,,,YY
+45,D,2021-03-03 19:51:16,2021-03-01,FE,Strah Steven E,"Pres, Acting CEO",F - Tax,33.73,-3266,73064,-4%,-110146.0,,,,,YY
+46,D,2021-03-03 19:51:16,2021-03-01,FE,Strah Steven E,"Pres, Acting CEO",M - OptEx,0.0,71720,73064,>999%,0.0,,,,,YY
+47,D,2021-03-03 19:47:26,2021-03-01,FE,Lisowski Jason,"VP, Controller, CAO",D - Sale to issuer,0.71,-10067,6390,-61%,-7178.0,,,,,YY
+48,D,2021-03-03 19:47:26,2021-03-01,FE,Lisowski Jason,"VP, Controller, CAO",F - Tax,33.73,-426,6390,-6%,-14367.0,,,,,YY
+49,D,2021-03-03 19:47:26,2021-03-01,FE,Lisowski Jason,"VP, Controller, CAO",M - OptEx,0.0,10493,6390,-256%,0.0,,,,,YY
+50,D,2021-03-03 19:44:33,2021-03-01,FE,Benz Gary D,"SVP, Strategy",D - Sale to issuer,24.57,-14244,56227,-20%,-350026.0,,,,,YY
+51,D,2021-03-03 19:44:33,2021-03-01,FE,Benz Gary D,"SVP, Strategy",F - Tax,33.73,-8092,56227,-13%,-272903.0,,,,,YY
+52,D,2021-03-03 19:44:33,2021-03-01,FE,Benz Gary D,"SVP, Strategy",M - OptEx,0.0,31137,56227,+124%,0.0,,,,,YY
+53,D,2021-03-03 19:41:35,2021-03-01,FE,Belcher Samuel,"SVP, Pres, FE Utilities",D - Sale to issuer,33.73,-17243,55808,-24%,-581519.0,,,,,YY
+54,D,2021-03-03 19:41:35,2021-03-01,FE,Belcher Samuel,"SVP, Pres, FE Utilities",F - Tax,33.73,-16213,55808,-23%,-546783.0,,,,,YY
+55,D,2021-03-03 19:41:35,2021-03-01,FE,Belcher Samuel,"SVP, Pres, FE Utilities",M - OptEx,0.0,51731,55808,>999%,0.0,,,,,YY
+56,,2021-03-03 17:56:20,2021-03-01,FE,Somerhalder John W II,"Vice Chair, Exec Dir",A - Grant,0.0,37139,37139,New,0.0,,,,,YY
+57,D,2021-01-05 09:56:51,2021-01-01,FE,Johnson Julia L,Dir,A - Grant,30.26,1239,13342,+10%,37492.0,,,,,YY
+58,,2020-10-05 13:29:49,2020-10-01,FE,Johnson Julia L,Dir,A - Grant,28.74,1305,12084,+12%,37506.0,,,,,YY
+59,,2020-07-06 15:25:46,2020-07-01,FE,Johnson Julia L,Dir,A - Grant,39.33,953,10751,+10%,37481.0,,,,,YY
+60,D,2020-04-03 13:13:53,2020-04-01,FE,Johnson Julia L,Dir,A - Grant,38.73,968,9756,+11%,37491.0,,,,,YY
+61,,2020-03-12 09:49:57,2020-03-10,FE,Benz Gary D,"SVP, Strategy",G - Gift,0.0,-550,46688,-1%,-0.0,,,,,YY
+62,,2020-03-10 14:01:29,2020-03-08,FE,Belcher Samuel,"SVP, Pres, FE Utilities",F - Tax,45.71,-5569,36038,-13%,-254559.0,,,,,YY
+63,D,2020-03-03 17:38:04,2020-03-01,FE,Walker Christine,"SVP, CHRO",D - Sale to issuer,44.4,-4834,45525,-10%,-214636.0,,,,,YY
+64,D,2020-03-03 17:38:04,2020-03-01,FE,Walker Christine,"SVP, CHRO",F - Tax,44.4,-2994,45525,-6%,-132934.0,,,,,YY
+65,D,2020-03-03 17:38:04,2020-03-01,FE,Walker Christine,"SVP, CHRO",M - OptEx,0.0,14698,45525,+48%,0.0,,,,,YY
+66,D,2020-03-03 17:35:48,2020-03-01,FE,Strah Steven E,"SVP, CFO",D - Sale to issuer,15.29,-69730,69275,-50%,-1066472.0,,,,,YY
+67,D,2020-03-03 17:35:48,2020-03-01,FE,Strah Steven E,"SVP, CFO",F - Tax,44.4,-2330,69275,-3%,-103449.0,,,,,YY
+68,D,2020-03-03 17:35:48,2020-03-01,FE,Strah Steven E,"SVP, CFO",M - OptEx,0.0,72060,69275,-2588%,0.0,,,,,YY
+69,D,2020-03-03 17:32:18,2020-03-01,FE,Reffner Robert,"SVP, GC",D - Sale to issuer,44.4,-9207,84013,-10%,-408799.0,,,,,YY
+70,D,2020-03-03 17:32:18,2020-03-01,FE,Reffner Robert,"SVP, GC",F - Tax,44.4,-8052,84013,-9%,-357509.0,,,,,YY
+71,D,2020-03-03 17:32:18,2020-03-01,FE,Reffner Robert,"SVP, GC",M - OptEx,0.0,27901,84013,+50%,0.0,,,,,YY
+72,D,2020-03-03 17:29:46,2020-03-01,FE,Lisowski Jason,"VP, Controller, CAO",D - Sale to issuer,0.0,-4318,5891,-42%,-0.0,,,,,YY
+73,D,2020-03-03 17:29:46,2020-03-01,FE,Lisowski Jason,"VP, Controller, CAO",F - Tax,44.4,-220,5891,-4%,-9773.0,,,,,YY
+74,D,2020-03-03 17:29:46,2020-03-01,FE,Lisowski Jason,"VP, Controller, CAO",M - OptEx,0.0,4538,5891,+335%,0.0,,,,,YY
+75,D,2020-03-03 17:22:18,2020-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",D - Sale to issuer,44.4,-134576,608898,-18%,-5975174.0,,,,,YY
+76,D,2020-03-03 17:22:18,2020-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",F - Tax,44.4,-123757,608898,-17%,-5494811.0,,,,,YY
+77,D,2020-03-03 17:22:18,2020-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",M - OptEx,0.0,407467,608898,+202%,0.0,,,,,YY
+78,D,2020-03-03 17:18:38,2020-03-01,FE,Benz Gary D,"SVP, Strategy",D - Sale to issuer,32.16,-18590,47039,-28%,-597840.0,,,,,YY
+79,D,2020-03-03 17:18:38,2020-03-01,FE,Benz Gary D,"SVP, Strategy",F - Tax,44.4,-9710,47039,-17%,-431134.0,,,,,YY
+80,D,2020-03-03 17:18:38,2020-03-01,FE,Benz Gary D,"SVP, Strategy",M - OptEx,0.0,40396,47039,+608%,0.0,,,,,YY
+81,D,2020-03-03 17:15:47,2020-03-01,FE,Belcher Samuel,"SVP, Pres, FE Utilities",D - Sale to issuer,0.0,-21157,41081,-34%,-0.0,,,,,YY
+82,D,2020-03-03 17:15:47,2020-03-01,FE,Belcher Samuel,"SVP, Pres, FE Utilities",F - Tax,44.4,-1078,41081,-3%,-47881.0,,,,,YY
+83,D,2020-03-03 17:15:47,2020-03-01,FE,Belcher Samuel,"SVP, Pres, FE Utilities",M - OptEx,0.0,22235,41081,+118%,0.0,,,,,YY
+84,,2020-02-26 09:54:32,2020-02-25,FE,Pappas Christopher D,Dir,G - Gift,0.0,-3000,16489,-15%,-0.0,,,,,YY
+85,,2019-11-08 09:53:35,2019-11-06,FE,Turner Leslie M,Dir,A - Grant,47.18,794,4497,+21%,37461.0,,,,,YY
+86,,2019-11-08 09:26:32,2019-11-06,FE,Johnson Julia L,Dir,A - Grant,47.18,794,8729,+10%,37461.0,,,,,YY
+87,,2019-07-30 12:06:39,2019-07-26,FE,Turner Leslie M,Dir,A - Grant,43.95,853,3703,+30%,37489.0,,,,,YY
+88,,2019-07-30 11:46:29,2019-07-26,FE,Johnson Julia L,Dir,A - Grant,43.95,853,7913,+12%,37489.0,,,,,YY
+89,,2019-05-30 16:00:43,2019-05-30,FE,Pappas Christopher D,Dir,P - Purchase,41.14,3000,19488,+18%,123419.0,,,,,YY
+90,,2019-04-30 13:50:12,2019-04-26,FE,Turner Leslie M,Dir,A - Grant,41.49,903,2850,+46%,37465.0,,,,,YY
+91,,2019-04-30 13:22:26,2019-04-26,FE,Johnson Julia L,Dir,A - Grant,41.49,903,7043,+15%,37465.0,,,,,YY
+92,,2019-03-12 10:55:39,2019-03-11,FE,Vespoli Leila L,"EVP, GC",S - Sale,41.33,-24400,180923,-12%,-1008493.0,,,,,YY
+93,D,2019-03-05 19:40:21,2019-03-01,FE,Dowling Michael J,"SVP, External Affairs",D - Sale to issuer,35.14,-12108,72970,-14%,-425461.0,,,,,YY
+94,D,2019-03-05 19:40:21,2019-03-01,FE,Dowling Michael J,"SVP, External Affairs",F - Tax,40.73,-8629,72970,-11%,-351476.0,,,,,YY
+95,D,2019-03-05 19:40:21,2019-03-01,FE,Dowling Michael J,"SVP, External Affairs",M - OptEx,0.0,33243,72970,+84%,0.0,,,,,YY
+96,D,2019-03-05 19:38:01,2019-03-01,FE,Belcher Samuel,"SVP, Pres, FE Utilities",D - Sale to issuer,40.73,-32730,39544,-45%,-1333141.0,,,,,YY
+97,D,2019-03-05 19:38:01,2019-03-01,FE,Belcher Samuel,"SVP, Pres, FE Utilities",F - Tax,40.9,-960,39544,-2%,-39264.0,,,,,YY
+98,D,2019-03-05 19:38:01,2019-03-01,FE,Belcher Samuel,"SVP, Pres, FE Utilities",M - OptEx,0.0,35098,39544,+789%,0.0,,,,,YY
+99,D,2019-03-05 19:35:37,2019-03-01,FE,Yeboah-Amankwah Ebony,"VP DGC Cor. Sec., Chf Eth Off",D - Sale to issuer,40.73,-4052,17558,-19%,-165024.0,,,,,YY
+100,D,2019-03-05 19:35:37,2019-03-01,FE,Yeboah-Amankwah Ebony,"VP DGC Cor. Sec., Chf Eth Off",F - Tax,40.73,-2572,17558,-13%,-104758.0,,,,,YY
+101,D,2019-03-05 19:35:37,2019-03-01,FE,Yeboah-Amankwah Ebony,"VP DGC Cor. Sec., Chf Eth Off",M - OptEx,0.0,12524,17558,+249%,0.0,,,,,YY
+102,D,2019-03-05 19:33:38,2019-03-01,FE,Walker Christine,"VP, HR",D - Sale to issuer,40.73,-4610,37243,-11%,-187767.0,,,,,YY
+103,D,2019-03-05 19:33:38,2019-03-01,FE,Walker Christine,"VP, HR",F - Tax,40.73,-2855,37243,-7%,-116284.0,,,,,YY
+104,D,2019-03-05 19:33:38,2019-03-01,FE,Walker Christine,"VP, HR",M - OptEx,0.0,14015,37243,+60%,0.0,,,,,YY
+105,D,2019-03-05 19:31:35,2019-03-01,FE,Vespoli Leila L,"EVP, GC",D - Sale to issuer,40.73,-42234,205323,-17%,-1720189.0,,,,,YY
+106,D,2019-03-05 19:31:35,2019-03-01,FE,Vespoli Leila L,"EVP, GC",F - Tax,40.73,-38308,205323,-16%,-1560285.0,,,,,YY
+107,D,2019-03-05 19:31:35,2019-03-01,FE,Vespoli Leila L,"EVP, GC",M - OptEx,0.0,126704,205323,+161%,0.0,,,,,YY
+108,D,2019-03-05 19:29:32,2019-03-01,FE,Strah Steven E,"SVP, CFO",D - Sale to issuer,40.73,-23823,66599,-26%,-970292.0,,,,,YY
+109,D,2019-03-05 19:29:32,2019-03-01,FE,Strah Steven E,"SVP, CFO",F - Tax,40.73,-21608,66599,-24%,-880094.0,,,,,YY
+110,D,2019-03-05 19:29:32,2019-03-01,FE,Strah Steven E,"SVP, CFO",M - OptEx,0.0,71469,66599,-1468%,0.0,,,,,YY
+111,D,2019-03-05 19:27:19,2019-03-01,FE,Reffner Robert,"SVP, GC",D - Sale to issuer,40.73,-9132,72224,-11%,-371931.0,,,,,YY
+112,D,2019-03-05 19:27:19,2019-03-01,FE,Reffner Robert,"SVP, GC",F - Tax,40.73,-7362,72224,-9%,-299854.0,,,,,YY
+113,D,2019-03-05 19:27:19,2019-03-01,FE,Reffner Robert,"SVP, GC",M - OptEx,0.0,27673,72224,+62%,0.0,,,,,YY
+114,D,2019-03-05 19:25:06,2019-03-01,FE,Prezelj Irena,"VP, Investor Relations",D - Sale to issuer,40.73,-3700,21796,-15%,-150715.0,,,,,YY
+115,D,2019-03-05 19:25:06,2019-03-01,FE,Prezelj Irena,"VP, Investor Relations",F - Tax,40.73,-2247,21796,-9%,-91520.0,,,,,YY
+116,D,2019-03-05 19:25:06,2019-03-01,FE,Prezelj Irena,"VP, Investor Relations",M - OptEx,0.0,11101,21796,+104%,0.0,,,,,YY
+117,D,2019-03-05 19:19:37,2019-03-01,FE,Pearson James F,"EVP, Finance",D - Sale to issuer,40.73,-46246,196362,-19%,-1883613.0,,,,,YY
+118,D,2019-03-05 19:19:37,2019-03-01,FE,Pearson James F,"EVP, Finance",F - Tax,40.73,-41751,196362,-18%,-1700518.0,,,,,YY
+119,D,2019-03-05 19:19:37,2019-03-01,FE,Pearson James F,"EVP, Finance",M - OptEx,0.0,138309,196362,+238%,0.0,,,,,YY
+120,D,2019-03-05 19:16:53,2019-03-01,FE,Lisowski Jason,"VP, Controller, CAO",D - Sale to issuer,38.69,-3892,5526,-41%,-150581.0,,,,,YY
+121,D,2019-03-05 19:16:53,2019-03-01,FE,Lisowski Jason,"VP, Controller, CAO",M - OptEx,0.0,3892,5526,+238%,0.0,,,,,YY
+122,D,2019-03-05 19:14:02,2019-03-01,FE,Mikkelsen Eileen,"VP, Rates, Regulatory Affairs",D - Sale to issuer,40.74,-644,21083,-3%,-26232.0,,,,,YY
+123,D,2019-03-05 19:14:02,2019-03-01,FE,Mikkelsen Eileen,"VP, Rates, Regulatory Affairs",F - Tax,40.74,-680,21083,-3%,-27704.0,,,,,YY
+124,D,2019-03-05 19:14:02,2019-03-01,FE,Mikkelsen Eileen,"VP, Rates, Regulatory Affairs",M - OptEx,0.0,2906,21083,+16%,0.0,,,,,YY
+125,D,2019-03-05 19:11:20,2019-03-01,FE,Lasky Charles D,"SVP, HR, CHRO",D - Sale to issuer,40.73,-12533,101425,-11%,-510469.0,,,,,YY
+126,D,2019-03-05 19:11:20,2019-03-01,FE,Lasky Charles D,"SVP, HR, CHRO",F - Tax,40.73,-10699,101425,-10%,-435770.0,,,,,YY
+127,D,2019-03-05 19:11:20,2019-03-01,FE,Lasky Charles D,"SVP, HR, CHRO",M - OptEx,0.0,37600,101425,+59%,0.0,,,,,YY
+128,D,2019-03-05 19:04:52,2019-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",D - Sale to issuer,40.73,-148302,445495,-25%,-6040333.0,,,,,YY
+129,D,2019-03-05 19:04:52,2019-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",F - Tax,40.73,-134511,445495,-23%,-5478633.0,,,,,YY
+130,D,2019-03-05 19:04:52,2019-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",M - OptEx,0.0,444907,445495,>999%,0.0,,,,,YY
+131,D,2019-03-05 19:02:36,2019-03-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",D - Sale to issuer,40.73,-12118,63219,-16%,-493551.0,,,,,YY
+132,D,2019-03-05 19:02:36,2019-03-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,40.73,-10346,63219,-14%,-421393.0,,,,,YY
+133,D,2019-03-05 19:02:36,2019-03-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",M - OptEx,0.0,36066,63219,+133%,0.0,,,,,YY
+134,D,2019-03-05 19:00:32,2019-03-01,FE,Chack Dennis M,"SVP, Prod Dev, Mktng, Brndng",D - Sale to issuer,40.73,-10145,38043,-21%,-413214.0,,,,,YY
+135,D,2019-03-05 19:00:32,2019-03-01,FE,Chack Dennis M,"SVP, Prod Dev, Mktng, Brndng",F - Tax,40.73,-8371,38043,-18%,-340951.0,,,,,YY
+136,D,2019-03-05 19:00:32,2019-03-01,FE,Chack Dennis M,"SVP, Prod Dev, Mktng, Brndng",M - OptEx,0.0,30672,38043,+416%,0.0,,,,,YY
+137,D,2019-03-05 18:57:47,2019-03-01,FE,Benz Gary D,"SVP, Strategy",D - Sale to issuer,40.73,-13354,34487,-28%,-543923.0,,,,,YY
+138,D,2019-03-05 18:57:47,2019-03-01,FE,Benz Gary D,"SVP, Strategy",F - Tax,40.73,-11472,34487,-25%,-467255.0,,,,,YY
+139,D,2019-03-05 18:57:47,2019-03-01,FE,Benz Gary D,"SVP, Strategy",M - OptEx,0.0,40064,34487,-718%,0.0,,,,,YY
+140,,2019-02-26 11:43:08,2019-02-22,FE,Turner Leslie M,Dir,A - Grant,40.39,928,1947,+91%,37482.0,,,,,YY
+141,D,2019-02-26 11:21:14,2019-02-22,FE,Johnson Julia L,Dir,A - Grant,40.39,928,6140,+18%,37482.0,,,,,YY
+142,,2019-01-10 15:47:18,2019-01-09,FE,Pearson James F,"EVP, Finance",S - Sale,37.87,-40000,146036,-22%,-1514844.0,,,,,YY
+143,,2018-12-21 13:31:59,2018-12-20,FE,Pappas Christopher D,Dir,G - Gift,0.0,-32976,16488,-200%,-0.0,,,,,YY
+144,,2018-11-01 14:51:29,2018-10-30,FE,Pianalto Sandra,Dir,A - Grant,37.38,902,3262,+38%,33717.0,,,,,YY
+145,,2018-11-01 14:39:37,2018-10-30,FE,Turner Leslie M,Dir,A - Grant,37.38,1019,1019,New,38090.0,,,,,YY
+146,,2018-11-01 14:25:49,2018-10-30,FE,Mitchell Thomas N,Dir,A - Grant,37.38,1637,7271,+29%,61191.0,,,,,YY
+147,D,2018-08-08 13:42:49,2018-08-06,FE,Reyes Luis A,Dir,A - Grant,36.33,82,311,+36%,2979.0,,,,,YY
+148,,2018-08-08 13:39:15,2018-08-06,FE,Pianalto Sandra,Dir,A - Grant,36.33,928,2360,+65%,33714.0,,,,,YY
+149,,2018-08-08 13:29:38,2018-08-06,FE,Mitchell Thomas N,Dir,A - Grant,36.33,1766,5580,+46%,64159.0,,,,,YY
+150,,2018-04-30 16:10:00,2018-04-26,FE,Pianalto Sandra,Dir,A - Grant,34.1,989,1432,+223%,33725.0,,,,,YY
+151,,2018-04-30 15:57:29,2018-04-26,FE,Mitchell Thomas N,Dir,A - Grant,34.1,1794,3775,+91%,61175.0,,,,,YY
+152,,2018-04-30 15:39:11,2018-04-26,FE,Cottle William T,Dir,A - Grant,34.1,489,11684,+4%,16675.0,,,,,YY
+153,D,2018-03-05 16:34:17,2018-03-01,FE,Dowling Michael J,"SVP, External Affairs",D - Sale to issuer,31.01,-9144,59578,-13%,-283534.0,,,,,YY
+154,D,2018-03-05 16:34:17,2018-03-01,FE,Dowling Michael J,"SVP, External Affairs",F - Tax,32.48,-5375,59578,-8%,-174591.0,,,,,YY
+155,D,2018-03-05 16:34:17,2018-03-01,FE,Dowling Michael J,"SVP, External Affairs",M - OptEx,0.0,26820,59578,+82%,0.0,,,,,YY
+156,D,2018-03-05 16:24:20,2018-03-01,FE,K. Jon Taylor,"VP, Controller, CAO",D - Sale to issuer,20.18,-12435,17856,-41%,-250914.0,,,,,YY
+157,D,2018-03-05 16:24:20,2018-03-01,FE,K. Jon Taylor,"VP, Controller, CAO",F - Tax,32.48,-3427,17856,-16%,-111320.0,,,,,YY
+158,D,2018-03-05 16:24:20,2018-03-01,FE,K. Jon Taylor,"VP, Controller, CAO",M - OptEx,0.0,23174,17856,-436%,0.0,,,,,YY
+159,D,2018-03-05 15:38:22,2018-03-01,FE,Yeboah-Amankwah Ebony,"VP, Corp. Sec., Chf Ethc Offc",D - Sale to issuer,32.48,-3456,11015,-24%,-112245.0,,,,,YY
+160,D,2018-03-05 15:38:22,2018-03-01,FE,Yeboah-Amankwah Ebony,"VP, Corp. Sec., Chf Ethc Offc",F - Tax,32.48,-2194,11015,-17%,-71267.0,,,,,YY
+161,D,2018-03-05 15:38:22,2018-03-01,FE,Yeboah-Amankwah Ebony,"VP, Corp. Sec., Chf Ethc Offc",M - OptEx,0.0,10682,11015,>999%,0.0,,,,,YY
+162,D,2018-03-05 15:35:31,2018-03-01,FE,Vespoli Leila L,"EVP, GC",D - Sale to issuer,32.48,-36367,153179,-19%,-1181275.0,,,,,YY
+163,D,2018-03-05 15:35:31,2018-03-01,FE,Vespoli Leila L,"EVP, GC",F - Tax,32.48,-31691,153179,-17%,-1029403.0,,,,,YY
+164,D,2018-03-05 15:35:31,2018-03-01,FE,Vespoli Leila L,"EVP, GC",M - OptEx,0.0,109101,153179,+248%,0.0,,,,,YY
+165,D,2018-03-05 15:32:16,2018-03-01,FE,Strah Steven E,"SVP, Pres FE Utilities",D - Sale to issuer,22.07,-18169,38303,-32%,-401049.0,,,,,YY
+166,D,2018-03-05 15:32:16,2018-03-01,FE,Strah Steven E,"SVP, Pres FE Utilities",F - Tax,32.48,-12716,38303,-25%,-413047.0,,,,,YY
+167,D,2018-03-05 15:32:16,2018-03-01,FE,Strah Steven E,"SVP, Pres FE Utilities",M - OptEx,0.0,54213,38303,-341%,0.0,,,,,YY
+168,D,2018-03-05 15:29:35,2018-03-01,FE,Reffner Robert,"VP, GC",D - Sale to issuer,32.48,-7978,59210,-12%,-259148.0,,,,,YY
+169,D,2018-03-05 15:29:35,2018-03-01,FE,Reffner Robert,"VP, GC",F - Tax,32.48,-4917,59210,-8%,-159716.0,,,,,YY
+170,D,2018-03-05 15:29:35,2018-03-01,FE,Reffner Robert,"VP, GC",M - OptEx,0.0,24176,59210,+69%,0.0,,,,,YY
+171,D,2018-03-05 15:26:57,2018-03-01,FE,Pearson James F,"EVP, CFO",D - Sale to issuer,32.48,-39821,182195,-18%,-1293501.0,,,,,YY
+172,D,2018-03-05 15:26:57,2018-03-01,FE,Pearson James F,"EVP, CFO",F - Tax,32.48,-33629,182195,-16%,-1092354.0,,,,,YY
+173,D,2018-03-05 15:26:57,2018-03-01,FE,Pearson James F,"EVP, CFO",M - OptEx,0.0,119093,182195,+189%,0.0,,,,,YY
+174,D,2018-03-05 15:24:11,2018-03-01,FE,Lasky Charles D,"SVP, HR",D - Sale to issuer,32.48,-9055,86777,-9%,-294129.0,,,,,YY
+175,D,2018-03-05 15:24:11,2018-03-01,FE,Lasky Charles D,"SVP, HR",F - Tax,32.48,-5497,86777,-6%,-178556.0,,,,,YY
+176,D,2018-03-05 15:24:11,2018-03-01,FE,Lasky Charles D,"SVP, HR",M - OptEx,0.0,27165,86777,+46%,0.0,,,,,YY
+177,D,2018-03-05 15:21:00,2018-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",D - Sale to issuer,32.48,-116045,273383,-30%,-3769420.0,,,,,YY
+178,D,2018-03-05 15:21:00,2018-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",F - Tax,32.48,-106716,273383,-28%,-3466402.0,,,,,YY
+179,D,2018-03-05 15:21:00,2018-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",M - OptEx,0.0,351359,273383,-451%,0.0,,,,,YY
+180,D,2018-03-05 15:17:36,2018-03-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",D - Sale to issuer,32.48,-10535,49370,-18%,-342218.0,,,,,YY
+181,D,2018-03-05 15:17:36,2018-03-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,32.48,-6344,49370,-11%,-206069.0,,,,,YY
+182,D,2018-03-05 15:17:36,2018-03-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",M - OptEx,0.0,31358,49370,+174%,0.0,,,,,YY
+183,D,2018-03-05 15:14:42,2018-03-01,FE,Chack Dennis M,"SVP, Prod Dev, Mktng, Brndng",D - Sale to issuer,32.48,-3815,24957,-13%,-123934.0,,,,,YY
+184,D,2018-03-05 15:14:42,2018-03-01,FE,Chack Dennis M,"SVP, Prod Dev, Mktng, Brndng",F - Tax,32.48,-2372,24957,-9%,-77048.0,,,,,YY
+185,D,2018-03-05 15:14:42,2018-03-01,FE,Chack Dennis M,"SVP, Prod Dev, Mktng, Brndng",M - OptEx,0.0,11628,24957,+87%,0.0,,,,,YY
+186,D,2018-03-05 15:02:53,2018-03-01,FE,Benz Gary D,"SVP, Strategy",D - Sale to issuer,32.48,-4040,18317,-18%,-131241.0,,,,,YY
+187,D,2018-03-05 15:02:53,2018-03-01,FE,Benz Gary D,"SVP, Strategy",F - Tax,32.48,-2503,18317,-12%,-81304.0,,,,,YY
+188,D,2018-03-05 15:02:53,2018-03-01,FE,Benz Gary D,"SVP, Strategy",M - OptEx,0.0,12284,18317,+204%,0.0,,,,,YY
+189,,2018-02-28 16:25:44,2018-02-26,FE,Pianalto Sandra,Dir,A - Grant,33.81,443,443,New,14978.0,,,,,YY
+190,D,2018-02-28 16:09:22,2018-02-26,FE,Mitchell Thomas N,Dir,A - Grant,33.81,1810,1979,>999%,61196.0,,,,,YY
+191,D,2018-02-28 15:53:39,2018-02-26,FE,Cottle William T,Dir,A - Grant,33.81,998,11145,+10%,33742.0,,,,,YY
+192,,2017-11-03 09:39:27,2017-11-01,FE,Oneil James F,Dir,A - Grant,32.73,1031,4190,+33%,33745.0,,,,,YY
+193,,2017-11-03 09:24:19,2017-11-01,FE,Demetriou Steven J.,Dir,A - Grant,32.73,1031,4130,+33%,33745.0,,,,,YY
+194,,2017-11-03 09:21:57,2017-11-01,FE,Cottle William T,Dir,A - Grant,32.73,1031,10064,+11%,33745.0,,,,,YY
+195,,2017-09-13 10:11:06,2017-09-11,FE,Misheff Donald T,Dir,P - Purchase,32.53,100,100,New,3253.0,,,,,YY
+196,,2017-09-01 13:42:16,2017-08-31,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,32.62,-2318,34826,-6%,-75613.0,,,,,YY
+197,D,2017-08-04 13:43:11,2017-08-02,FE,Reyes Luis A,Dir,A - Grant,31.96,93,219,+74%,2972.0,,,,,YY
+198,,2017-08-04 13:32:22,2017-08-02,FE,Oneil James F,Dir,A - Grant,31.96,1056,3124,+51%,33750.0,,,,,YY
+199,,2017-08-04 13:20:03,2017-08-02,FE,Demetriou Steven J.,Dir,A - Grant,31.96,1056,3099,+52%,33750.0,,,,,YY
+200,,2017-08-04 13:16:56,2017-08-02,FE,Cottle William T,Dir,A - Grant,31.96,1056,8960,+13%,33750.0,,,,,YY
+201,,2017-05-05 09:10:15,2017-05-03,FE,Oneil James F,Dir,A - Grant,28.64,1178,2043,+136%,33738.0,0.0,0.0,,,YY
+202,,2017-05-05 08:53:58,2017-05-03,FE,Demetriou Steven J.,Dir,A - Grant,28.64,1178,2043,+136%,33738.0,0.0,0.0,,,YY
+203,,2017-05-05 08:51:30,2017-05-03,FE,Cottle William T,Dir,A - Grant,28.64,1178,7836,+18%,33738.0,0.0,0.0,,,YY
+204,D,2017-03-03 16:56:58,2017-03-01,FE,K. Jon Taylor,"VP, Controller, CAO",D - Sale to issuer,0.0,-13698,9839,-58%,-0.0,-1.0,-2.0,0.0,,YY
+205,D,2017-03-03 16:56:58,2017-03-01,FE,K. Jon Taylor,"VP, Controller, CAO",F - Tax,31.74,-660,9839,-6%,-20964.0,-1.0,-2.0,0.0,,YY
+206,D,2017-03-03 16:56:58,2017-03-01,FE,K. Jon Taylor,"VP, Controller, CAO",M - OptEx,0.0,14358,9839,-318%,0.0,-1.0,-2.0,0.0,,YY
+207,D,2017-03-03 16:46:47,2017-03-01,FE,Vespoli Leila L,"EVP, GC",F - Tax,31.74,-25803,107328,-19%,-818987.0,-1.0,-2.0,0.0,,YY
+208,D,2017-03-03 16:46:47,2017-03-01,FE,Vespoli Leila L,"EVP, GC",M - OptEx,0.0,54501,107328,+103%,0.0,-1.0,-2.0,0.0,,YY
+209,D,2017-03-03 16:44:02,2017-03-01,FE,Strah Steven E,"SVP, Pres FE Utilities",F - Tax,31.74,-2454,13408,-15%,-77890.0,-1.0,-2.0,0.0,,YY
+210,D,2017-03-03 16:44:02,2017-03-01,FE,Strah Steven E,"SVP, Pres FE Utilities",M - OptEx,0.0,7413,13408,+124%,0.0,-1.0,-2.0,0.0,,YY
+211,D,2017-03-03 16:41:43,2017-03-01,FE,Schneider Donald R,"Pres, FE Solutions",F - Tax,31.74,-15643,45732,-25%,-496509.0,-1.0,-2.0,0.0,,YY
+212,D,2017-03-03 16:41:43,2017-03-01,FE,Schneider Donald R,"Pres, FE Solutions",M - OptEx,0.0,37019,45732,+425%,0.0,-1.0,-2.0,0.0,,YY
+213,D,2017-03-03 16:39:15,2017-03-01,FE,Reffner Robert,"VP, GC",F - Tax,31.74,-5175,44981,-10%,-164255.0,-1.0,-2.0,0.0,,YY
+214,D,2017-03-03 16:39:15,2017-03-01,FE,Reffner Robert,"VP, GC",M - OptEx,0.0,15633,44981,+53%,0.0,-1.0,-2.0,0.0,,YY
+215,D,2017-03-03 16:33:51,2017-03-01,FE,Pearson James F,"EVP, CFO",F - Tax,31.74,-25092,130760,-16%,-796420.0,-1.0,-2.0,0.0,,YY
+216,D,2017-03-03 16:33:51,2017-03-01,FE,Pearson James F,"EVP, CFO",M - OptEx,0.0,55935,130760,+75%,0.0,-1.0,-2.0,0.0,,YY
+217,D,2017-03-03 16:30:54,2017-03-01,FE,Lasky Charles D,"SVP, HR",F - Tax,31.74,-5942,73878,-7%,-188599.0,-1.0,-2.0,0.0,,YY
+218,D,2017-03-03 16:30:54,2017-03-01,FE,Lasky Charles D,"SVP, HR",M - OptEx,0.0,17948,73878,+32%,0.0,-1.0,-2.0,0.0,,YY
+219,D,2017-03-03 16:16:59,2017-03-01,FE,Lash James H,"EVP, Pres FE Generation",F - Tax,31.74,-16699,101176,-14%,-530026.0,-1.0,-2.0,0.0,,YY
+220,D,2017-03-03 16:16:59,2017-03-01,FE,Lash James H,"EVP, Pres FE Generation",M - OptEx,0.0,39156,101176,+63%,0.0,-1.0,-2.0,0.0,,YY
+221,D,2017-03-03 16:14:19,2017-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",F - Tax,31.74,-24485,138524,-15%,-777154.0,-1.0,-2.0,0.0,,YY
+222,D,2017-03-03 16:14:19,2017-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",M - OptEx,0.0,51329,138524,+59%,0.0,-1.0,-2.0,0.0,,YY
+223,D,2017-03-03 16:11:25,2017-03-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,31.74,-5241,36824,-12%,-166349.0,-1.0,-2.0,0.0,,YY
+224,D,2017-03-03 16:11:25,2017-03-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",M - OptEx,0.0,15832,36824,+75%,0.0,-1.0,-2.0,0.0,,YY
+225,D,2017-03-03 16:08:50,2017-03-01,FE,Dowling Michael J,"SVP, External Affairs",F - Tax,31.74,-5007,46106,-10%,-158922.0,-1.0,-2.0,0.0,,YY
+226,D,2017-03-03 16:08:50,2017-03-01,FE,Dowling Michael J,"SVP, External Affairs",M - OptEx,0.0,15124,46106,+49%,0.0,-1.0,-2.0,0.0,,YY
+227,D,2017-03-03 16:06:24,2017-03-01,FE,Chack Dennis M,"SVP, Marketing, Branding",F - Tax,31.74,-2555,18753,-12%,-81096.0,-1.0,-2.0,0.0,,YY
+228,D,2017-03-03 16:06:24,2017-03-01,FE,Chack Dennis M,"SVP, Marketing, Branding",M - OptEx,0.0,7717,18753,+70%,0.0,-1.0,-2.0,0.0,,YY
+229,D,2017-03-03 16:04:01,2017-03-01,FE,Cavalier Lynnette M,Chief Human Resource Officer,F - Tax,31.74,-9311,69186,-12%,-295531.0,-1.0,-2.0,0.0,,YY
+230,D,2017-03-03 16:04:01,2017-03-01,FE,Cavalier Lynnette M,Chief Human Resource Officer,M - OptEx,0.0,24625,69186,+55%,0.0,-1.0,-2.0,0.0,,YY
+231,D,2017-03-03 16:01:08,2017-03-01,FE,Benz Gary D,"SVP, Strategy",F - Tax,31.74,-2632,11841,-18%,-83540.0,-1.0,-2.0,0.0,,YY
+232,D,2017-03-03 16:01:08,2017-03-01,FE,Benz Gary D,"SVP, Strategy",M - OptEx,0.0,7950,11841,+204%,0.0,-1.0,-2.0,0.0,,YY
+233,,2017-03-01 15:07:22,2017-02-27,FE,Oneil James F,Dir,A - Grant,32.06,865,865,New,27732.0,-3.0,-4.0,-3.0,,YY
+234,,2017-03-01 14:46:41,2017-02-27,FE,Demetriou Steven J.,Dir,A - Grant,32.06,865,865,New,27732.0,-3.0,-4.0,-3.0,,YY
+235,D,2017-03-01 14:44:08,2017-02-27,FE,Cottle William T,Dir,A - Grant,32.06,1052,6609,+19%,33727.0,-3.0,-4.0,-3.0,,YY
+236,,2016-12-21 10:36:06,2016-12-20,FE,Schneider Donald R,"Pres, FE Solutions",S - Sale,31.36,-6525,24317,-21%,-204627.0,0.0,-1.0,-5.0,,YY
+237,,2016-12-21 10:07:41,2016-12-20,FE,Lasky Charles D,"SVP, HR",S - Sale,31.36,-5149,61843,-8%,-161475.0,0.0,-1.0,-5.0,,YY
+238,,2016-09-06 13:28:31,2016-09-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,32.52,-20,26048,0%,-650.0,1.0,1.0,-4.0,-3.0,YY
+239,,2016-09-01 16:32:51,2016-08-31,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,32.44,-1782,26009,-6%,-57808.0,1.0,4.0,2.0,0.0,YY
+240,,2016-08-23 17:27:50,2016-08-19,FE,Dowling Michael J,"SVP, External Affairs",A - Grant,32.8,12195,35299,+53%,399996.0,0.0,-1.0,5.0,-4.0,YY
+241,D,2016-08-05 12:33:49,2016-08-03,FE,Reyes Luis A,Dir,A - Grant,33.03,90,121,+295%,2973.0,-2.0,0.0,0.0,-7.0,YY
+242,,2016-03-16 14:57:51,2016-03-14,FE,Strah Steven E,"SVP, Pres FE Utilities",P - Purchase,35.59,560,7878,+8%,19929.0,1.0,0.0,-1.0,-6.0,YY
+243,D,2016-03-03 20:05:29,2016-03-01,FE,Pearson James F,"EVP, CFO",D - Sale to issuer,0.0,-6006,95717,-6%,-0.0,2.0,5.0,6.0,-3.0,YY
+244,D,2016-03-03 20:05:29,2016-03-01,FE,Pearson James F,"EVP, CFO",F - Tax,33.54,-7820,95717,-8%,-262244.0,2.0,5.0,6.0,-3.0,YY
+245,D,2016-03-03 20:05:29,2016-03-01,FE,Pearson James F,"EVP, CFO",M - OptEx,0.0,25181,95717,+36%,0.0,2.0,5.0,6.0,-3.0,YY
+246,D,2016-03-03 20:02:03,2016-03-01,FE,Vespoli Leila L,"EVP, GC",F - Tax,33.54,-18213,75202,-19%,-610773.0,2.0,5.0,6.0,-3.0,YY
+247,D,2016-03-03 20:02:03,2016-03-01,FE,Vespoli Leila L,"EVP, GC",M - OptEx,0.0,38555,75202,+105%,0.0,2.0,5.0,6.0,-3.0,YY
+248,D,2016-03-03 19:59:18,2016-03-01,FE,K. Jon Taylor,"VP, Controller, CAO",F - Tax,33.54,-2522,9257,-21%,-84575.0,2.0,5.0,6.0,-3.0,YY
+249,D,2016-03-03 19:59:18,2016-03-01,FE,K. Jon Taylor,"VP, Controller, CAO",M - OptEx,0.0,7618,9257,+465%,0.0,2.0,5.0,6.0,-3.0,YY
+250,D,2016-03-03 19:56:37,2016-03-01,FE,Strah Steven E,"SVP, Pres FE Utilities",D - Sale to issuer,33.45,-23,6307,0%,-772.0,2.0,5.0,6.0,-3.0,YY
+251,D,2016-03-03 19:56:37,2016-03-01,FE,Strah Steven E,"SVP, Pres FE Utilities",F - Tax,33.53,-1694,6307,-21%,-56802.0,2.0,5.0,6.0,-3.0,YY
+252,D,2016-03-03 19:56:37,2016-03-01,FE,Strah Steven E,"SVP, Pres FE Utilities",M - OptEx,0.0,5171,6307,+455%,0.0,2.0,5.0,6.0,-3.0,YY
+253,D,2016-03-03 19:52:34,2016-03-01,FE,Schneider Donald R,"Pres, FE Solutions",F - Tax,33.54,-10697,29943,-26%,-358724.0,2.0,5.0,6.0,-3.0,YY
+254,D,2016-03-03 19:52:34,2016-03-01,FE,Schneider Donald R,"Pres, FE Solutions",M - OptEx,0.0,26188,29943,+697%,0.0,2.0,5.0,6.0,-3.0,YY
+255,D,2016-03-03 19:48:07,2016-03-01,FE,Lasky Charles D,"SVP, HR",F - Tax,33.54,-4203,66150,-6%,-140948.0,2.0,5.0,6.0,-3.0,YY
+256,D,2016-03-03 19:48:07,2016-03-01,FE,Lasky Charles D,"SVP, HR",M - OptEx,0.0,12696,66150,+24%,0.0,2.0,5.0,6.0,-3.0,YY
+257,D,2016-03-03 19:43:04,2016-03-01,FE,Lash James H,"EVP, Pres FE Generation",F - Tax,33.54,-11504,75225,-13%,-385787.0,2.0,5.0,6.0,-3.0,YY
+258,D,2016-03-03 19:43:04,2016-03-01,FE,Lash James H,"EVP, Pres FE Generation",M - OptEx,0.0,27698,75225,+58%,0.0,2.0,5.0,6.0,-3.0,YY
+259,D,2016-03-03 19:39:09,2016-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",F - Tax,33.54,-17321,106802,-14%,-580860.0,2.0,5.0,6.0,-3.0,YY
+260,D,2016-03-03 19:39:09,2016-03-01,FE,Jones Charles E,"Pres, Chief Exec. Officer",M - OptEx,0.0,36311,106802,+52%,0.0,2.0,5.0,6.0,-3.0,YY
+261,D,2016-03-03 19:35:40,2016-03-01,FE,Dowling Michael J,"SVP, External Affairs",D - Sale to issuer,33.45,-15,22457,0%,-496.0,2.0,5.0,6.0,-3.0,YY
+262,D,2016-03-03 19:35:40,2016-03-01,FE,Dowling Michael J,"SVP, External Affairs",F - Tax,33.53,-3590,22457,-14%,-120387.0,2.0,5.0,6.0,-3.0,YY
+263,D,2016-03-03 19:35:40,2016-03-01,FE,Dowling Michael J,"SVP, External Affairs",M - OptEx,0.0,10881,22457,+94%,0.0,2.0,5.0,6.0,-3.0,YY
+264,D,2016-03-03 19:31:00,2016-03-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,33.54,-3708,27498,-12%,-124348.0,2.0,5.0,6.0,-3.0,YY
+265,D,2016-03-03 19:31:00,2016-03-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",M - OptEx,0.0,11200,27498,+69%,0.0,2.0,5.0,6.0,-3.0,YY
+266,D,2016-03-03 19:24:05,2016-03-01,FE,Chack Dennis M,"SVP, Marketing, Branding",F - Tax,33.54,-1808,13082,-12%,-60631.0,2.0,5.0,6.0,-3.0,YY
+267,D,2016-03-03 19:24:05,2016-03-01,FE,Chack Dennis M,"SVP, Marketing, Branding",M - OptEx,0.0,5461,13082,+72%,0.0,2.0,5.0,6.0,-3.0,YY
+268,D,2016-03-03 19:17:08,2016-03-01,FE,Cavalier Lynnette M,Chief Human Resource Officer,F - Tax,33.54,-6060,53567,-10%,-203222.0,2.0,5.0,6.0,-3.0,YY
+269,D,2016-03-03 19:17:08,2016-03-01,FE,Cavalier Lynnette M,Chief Human Resource Officer,M - OptEx,0.0,17419,53567,+48%,0.0,2.0,5.0,6.0,-3.0,YY
+270,D,2016-03-03 19:11:13,2016-03-01,FE,Benz Gary D,"SVP, Strategy",F - Tax,33.54,-1822,6020,-23%,-61101.0,2.0,5.0,6.0,-3.0,YY
+271,D,2016-03-03 19:11:13,2016-03-01,FE,Benz Gary D,"SVP, Strategy",M - OptEx,0.0,5503,6020,>999%,0.0,2.0,5.0,6.0,-3.0,YY
+272,D,2016-02-24 15:05:53,2016-02-22,FE,Mitchell Thomas N,Dir,A - Grant,33.18,156,156,New,5176.0,-1.0,1.0,9.0,1.0,YY
+273,D,2016-02-18 17:08:21,2016-02-16,FE,Vespoli Leila L,"EVP, GC",A - Grant,31.91,3099,54860,+6%,98905.0,-3.0,-4.0,7.0,-2.0,YY
+274,D,2016-02-18 17:08:21,2016-02-16,FE,Vespoli Leila L,"EVP, GC",D - Sale to issuer,31.91,-3099,54860,-5%,-98905.0,-3.0,-4.0,7.0,-2.0,YY
+275,D,2016-02-18 17:05:20,2016-02-16,FE,K. Jon Taylor,"VP, Controller, CAO",A - Grant,31.91,627,2906,+27%,19992.0,-3.0,-4.0,7.0,-2.0,YY
+276,D,2016-02-18 17:05:20,2016-02-16,FE,K. Jon Taylor,"VP, Controller, CAO",D - Sale to issuer,31.91,-627,2906,-18%,-19992.0,-3.0,-4.0,7.0,-2.0,YY
+277,D,2016-02-18 17:01:15,2016-02-16,FE,Strah Steven E,"SVP, Pres FE Utilities",A - Grant,31.91,383,2853,+15%,12217.0,-3.0,-4.0,7.0,-2.0,YY
+278,D,2016-02-18 17:01:15,2016-02-16,FE,Strah Steven E,"SVP, Pres FE Utilities",D - Sale to issuer,31.91,-383,2853,-12%,-12217.0,-3.0,-4.0,7.0,-2.0,YY
+279,D,2016-02-18 16:56:26,2016-02-16,FE,Schneider Donald R,"Pres, FE Solutions",A - Grant,31.91,2136,14452,+17%,68151.0,-3.0,-4.0,7.0,-2.0,YY
+280,D,2016-02-18 16:56:26,2016-02-16,FE,Schneider Donald R,"Pres, FE Solutions",D - Sale to issuer,31.91,-2136,14452,-13%,-68151.0,-3.0,-4.0,7.0,-2.0,YY
+281,D,2016-02-18 16:52:11,2016-02-16,FE,Pearson James F,"EVP, CFO",A - Grant,31.91,2054,84362,+2%,65529.0,-3.0,-4.0,7.0,-2.0,YY
+282,D,2016-02-18 16:52:11,2016-02-16,FE,Pearson James F,"EVP, CFO",D - Sale to issuer,31.91,-2054,84362,-2%,-65529.0,-3.0,-4.0,7.0,-2.0,YY
+283,D,2016-02-18 16:48:18,2016-02-16,FE,Lasky Charles D,"SVP, HR",A - Grant,31.91,1044,57657,+2%,33320.0,-3.0,-4.0,7.0,-2.0,YY
+284,D,2016-02-18 16:48:18,2016-02-16,FE,Lasky Charles D,"SVP, HR",D - Sale to issuer,31.91,-1044,57657,-2%,-33320.0,-3.0,-4.0,7.0,-2.0,YY
+285,D,2016-02-18 16:43:06,2016-02-16,FE,Lash James H,"EVP, Pres FE Generation",A - Grant,31.91,2259,59031,+4%,72082.0,-3.0,-4.0,7.0,-2.0,YY
+286,D,2016-02-18 16:43:06,2016-02-16,FE,Lash James H,"EVP, Pres FE Generation",D - Sale to issuer,31.91,-2259,59031,-4%,-72082.0,-3.0,-4.0,7.0,-2.0,YY
+287,D,2016-02-18 16:16:16,2016-02-16,FE,Jones Charles E,"Pres, Chief Exec. Officer",A - Grant,31.91,2965,87812,+3%,94629.0,-3.0,-4.0,7.0,-2.0,YY
+288,D,2016-02-18 16:16:16,2016-02-16,FE,Jones Charles E,"Pres, Chief Exec. Officer",D - Sale to issuer,31.91,-2965,87812,-3%,-94629.0,-3.0,-4.0,7.0,-2.0,YY
+289,D,2016-02-18 16:12:10,2016-02-16,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",A - Grant,31.91,907,20006,+5%,28955.0,-3.0,-4.0,7.0,-2.0,YY
+290,D,2016-02-18 16:12:10,2016-02-16,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",D - Sale to issuer,31.91,-907,20006,-4%,-28955.0,-3.0,-4.0,7.0,-2.0,YY
+291,D,2016-02-18 16:08:55,2016-02-16,FE,Dowling Michael J,"SVP, External Affairs",A - Grant,31.91,869,15181,+6%,27722.0,-3.0,-4.0,7.0,-2.0,YY
+292,D,2016-02-18 16:08:55,2016-02-16,FE,Dowling Michael J,"SVP, External Affairs",D - Sale to issuer,31.91,-869,15181,-5%,-27722.0,-3.0,-4.0,7.0,-2.0,YY
+293,D,2016-02-18 16:05:12,2016-02-16,FE,Chack Dennis M,"SVP, Marketing, Branding",A - Grant,31.91,439,9429,+5%,13994.0,-3.0,-4.0,7.0,-2.0,YY
+294,D,2016-02-18 16:05:12,2016-02-16,FE,Chack Dennis M,"SVP, Marketing, Branding",D - Sale to issuer,31.91,-439,9429,-4%,-13994.0,-3.0,-4.0,7.0,-2.0,YY
+295,D,2016-02-18 15:58:18,2016-02-16,FE,Cavalier Lynnette M,Chief Human Resource Officer,A - Grant,31.91,1403,42208,+3%,44782.0,5.0,1.0,12.0,3.0,YY
+296,D,2016-02-18 15:58:18,2016-02-16,FE,Cavalier Lynnette M,Chief Human Resource Officer,D - Sale to issuer,31.91,-1403,42208,-3%,-44782.0,5.0,1.0,12.0,3.0,YY
+297,D,2016-02-18 15:54:34,2016-02-16,FE,Benz Gary D,"SVP, Strategy",A - Grant,31.91,444,2339,+23%,14161.0,5.0,1.0,12.0,3.0,YY
+298,D,2016-02-18 15:54:34,2016-02-16,FE,Benz Gary D,"SVP, Strategy",D - Sale to issuer,31.91,-444,2339,-16%,-14161.0,5.0,1.0,12.0,3.0,YY
+299,,2015-09-03 15:12:40,2015-09-01,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,31.96,-20,19734,0%,-639.0,1.0,-1.0,0.0,15.0,YY
+300,,2015-09-02 15:41:31,2015-08-31,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,31.96,-1706,19696,-8%,-54524.0,0.0,-1.0,-1.0,12.0,YY
+301,,2015-08-12 13:40:41,2015-08-10,FE,Pearson James F,"SVP, CFO",A - Grant,0.0,30000,82867,+57%,0.0,1.0,1.0,-11.0,1.0,YY
+302,D,2015-05-08 15:44:33,2015-05-06,FE,Thornton Jerry Sue,Dir,A - Grant,34.93,173,173,New,6043.0,1.0,1.0,-1.0,-9.0,YY
+303,,2015-05-08 15:00:45,2015-05-06,FE,Schneider Donald R,"Pres, FE Solutions",S - Sale,34.63,-10775,13989,-44%,-373153.0,1.0,1.0,-1.0,-9.0,YY
+304,D,2015-05-04 16:28:28,2015-04-30,FE,Alexander Anthony J,Exec COB,D - Sale to issuer,35.91,-49184,627846,-7%,-1766198.0,-3.0,-3.0,-4.0,-14.0,YY
+305,D,2015-05-04 16:28:28,2015-04-30,FE,Alexander Anthony J,Exec COB,M - OptEx,0.0,49184,627846,+8%,0.0,-3.0,-3.0,-4.0,-14.0,YY
+306,D,2015-05-04 16:28:28,2015-05-04,FE,Alexander Anthony J,Exec COB,S - Sale+OE,36.85,-54436,627846,-8%,-2006212.0,-3.0,-3.0,-4.0,-14.0,YY
+307,D,2015-03-09 16:31:26,2015-03-05,FE,Jones Charles E,"Pres, Chief Exec. Officer",A - Grant,0.0,11167,84251,+15%,0.0,1.0,1.0,5.0,-7.0,YY
+308,D,2015-03-09 16:31:26,2015-03-05,FE,Jones Charles E,"Pres, Chief Exec. Officer",F - Tax,34.64,-10654,84251,-11%,-369055.0,1.0,1.0,5.0,-7.0,YY
+309,D,2015-03-09 16:31:26,2015-03-05,FE,Jones Charles E,"Pres, Chief Exec. Officer",M - OptEx,0.0,11167,84251,+15%,0.0,1.0,1.0,5.0,-7.0,YY
+310,D,2015-03-09 16:17:28,2015-03-05,FE,Vespoli Leila L,"EVP, GC",A - Grant,0.0,11858,52704,+29%,0.0,1.0,1.0,5.0,-7.0,YY
+311,D,2015-03-09 16:17:28,2015-03-05,FE,Vespoli Leila L,"EVP, GC",F - Tax,34.64,-11313,52704,-18%,-391882.0,1.0,1.0,5.0,-7.0,YY
+312,D,2015-03-09 16:17:28,2015-03-05,FE,Vespoli Leila L,"EVP, GC",M - OptEx,0.0,11857,52704,+29%,0.0,1.0,1.0,5.0,-7.0,YY
+313,D,2015-03-09 16:09:32,2015-03-05,FE,K. Jon Taylor,"VP, Controller, CAO",A - Grant,0.0,456,2578,+21%,0.0,1.0,1.0,5.0,-7.0,YY
+314,D,2015-03-09 16:09:32,2015-03-05,FE,K. Jon Taylor,"VP, Controller, CAO",F - Tax,34.64,-302,2578,-10%,-10461.0,1.0,1.0,5.0,-7.0,YY
+315,D,2015-03-09 16:09:32,2015-03-05,FE,K. Jon Taylor,"VP, Controller, CAO",M - OptEx,0.0,456,2578,+21%,0.0,1.0,1.0,5.0,-7.0,YY
+316,D,2015-03-09 16:03:12,2015-03-05,FE,Strah Steven E,"SVP, Pres FE Utilities",A - Grant,0.0,1503,2504,+150%,0.0,1.0,1.0,5.0,-7.0,YY
+317,D,2015-03-09 16:03:12,2015-03-05,FE,Strah Steven E,"SVP, Pres FE Utilities",F - Tax,34.64,-993,2504,-28%,-34398.0,1.0,1.0,5.0,-7.0,YY
+318,D,2015-03-09 16:03:12,2015-03-05,FE,Strah Steven E,"SVP, Pres FE Utilities",M - OptEx,0.0,1503,2504,+150%,0.0,1.0,1.0,5.0,-7.0,YY
+319,D,2015-03-09 15:58:01,2015-03-05,FE,Lash James H,Pres FE Generation,A - Grant,0.0,8518,56818,+18%,0.0,0.0,1.0,5.0,-6.0,YY
+320,D,2015-03-09 15:58:01,2015-03-05,FE,Lash James H,Pres FE Generation,F - Tax,34.64,-5640,56818,-9%,-195370.0,0.0,1.0,5.0,-6.0,YY
+321,D,2015-03-09 15:58:01,2015-03-05,FE,Lash James H,Pres FE Generation,M - OptEx,0.0,8518,56818,+18%,0.0,0.0,1.0,5.0,-6.0,YY
+322,D,2015-03-09 15:52:03,2015-03-05,FE,Pearson James F,"SVP, CFO",A - Grant,0.0,2958,26173,+13%,0.0,0.0,1.0,5.0,-6.0,YY
+323,D,2015-03-09 15:52:03,2015-03-05,FE,Pearson James F,"SVP, CFO",D - Sale to issuer,0.0,-706,26173,-3%,-0.0,0.0,1.0,5.0,-6.0,YY
+324,D,2015-03-09 15:52:03,2015-03-05,FE,Pearson James F,"SVP, CFO",F - Tax,34.64,-1748,26173,-6%,-60551.0,0.0,1.0,5.0,-6.0,YY
+325,D,2015-03-09 15:52:03,2015-03-05,FE,Pearson James F,"SVP, CFO",M - OptEx,0.0,2957,26173,+13%,0.0,0.0,1.0,5.0,-6.0,YY
+326,D,2015-03-09 15:13:24,2015-03-05,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",A - Grant,0.0,3226,20914,+18%,0.0,0.0,1.0,5.0,-6.0,YY
+327,D,2015-03-09 15:13:24,2015-03-05,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,34.64,-2136,20914,-9%,-73991.0,0.0,1.0,5.0,-6.0,YY
+328,D,2015-03-09 15:13:24,2015-03-05,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",M - OptEx,0.0,3226,20914,+18%,0.0,0.0,1.0,5.0,-6.0,YY
+329,D,2015-03-09 14:59:59,2015-03-05,FE,Dowling Michael J,"SVP, External Affairs",A - Grant,0.0,3290,14380,+30%,0.0,0.0,1.0,5.0,-6.0,YY
+330,D,2015-03-09 14:59:59,2015-03-05,FE,Dowling Michael J,"SVP, External Affairs",F - Tax,34.64,-2179,14380,-13%,-75481.0,0.0,1.0,5.0,-6.0,YY
+331,D,2015-03-09 14:59:59,2015-03-05,FE,Dowling Michael J,"SVP, External Affairs",M - OptEx,0.0,3290,14380,+30%,0.0,0.0,1.0,5.0,-6.0,YY
+332,D,2015-03-09 14:53:17,2015-03-05,FE,Cavalier Lynnette M,"SVP, HR",A - Grant,0.0,5357,41972,+15%,0.0,0.0,1.0,5.0,-6.0,YY
+333,D,2015-03-09 14:53:17,2015-03-05,FE,Cavalier Lynnette M,"SVP, HR",F - Tax,34.64,-3547,41972,-8%,-122868.0,0.0,1.0,5.0,-6.0,YY
+334,D,2015-03-09 14:53:17,2015-03-05,FE,Cavalier Lynnette M,"SVP, HR",M - OptEx,0.0,5356,41972,+15%,0.0,0.0,1.0,5.0,-6.0,YY
+335,D,2015-03-09 14:44:54,2015-03-05,FE,Alexander Anthony J,Exec COB,A - Grant,0.0,67144,680474,+11%,0.0,0.0,1.0,5.0,-6.0,YY
+336,D,2015-03-09 14:44:54,2015-03-05,FE,Alexander Anthony J,Exec COB,F - Tax,34.64,-64055,680474,-9%,-2218865.0,0.0,1.0,5.0,-6.0,YY
+337,D,2015-03-09 14:44:54,2015-03-05,FE,Alexander Anthony J,Exec COB,M - OptEx,0.0,67143,680474,+11%,0.0,0.0,1.0,5.0,-6.0,YY
+338,D,2015-03-09 14:29:01,2015-03-05,FE,Schneider Donald R,"Pres, FE Solutions",A - Grant,0.0,8054,24404,+49%,0.0,0.0,1.0,5.0,-6.0,YY
+339,D,2015-03-09 14:29:01,2015-03-05,FE,Schneider Donald R,"Pres, FE Solutions",F - Tax,34.64,-5332,24404,-18%,-184700.0,0.0,1.0,5.0,-6.0,YY
+340,D,2015-03-09 14:29:01,2015-03-05,FE,Schneider Donald R,"Pres, FE Solutions",M - OptEx,0.0,8053,24404,+49%,0.0,0.0,1.0,5.0,-6.0,YY
+341,,2015-03-05 17:01:09,2015-03-03,FE,Jones Charles E,"Pres, Chief Exec. Officer",S - Sale,34.36,-16366,72571,-18%,-562270.0,-2.0,-2.0,2.0,-9.0,YY
+342,,2015-03-05 16:54:53,2015-03-03,FE,Vespoli Leila L,"EVP, GC",S - Sale,34.36,-16631,40302,-29%,-571373.0,-2.0,-2.0,2.0,-9.0,YY
+343,D,2015-03-03 17:54:38,2015-03-01,FE,Dowling Michael J,"SVP, External Affairs",D - Sale to issuer,34.98,-18,9979,0%,-616.0,0.0,-1.0,2.0,-3.0,YY
+344,D,2015-03-03 17:54:38,2015-03-01,FE,Dowling Michael J,"SVP, External Affairs",F - Tax,34.98,-94,9979,-1%,-3288.0,0.0,-1.0,2.0,-3.0,YY
+345,D,2015-03-03 17:54:38,2015-03-01,FE,Dowling Michael J,"SVP, External Affairs",M - OptEx,34.98,345,9979,+4%,12055.0,0.0,-1.0,2.0,-3.0,YY
+346,,2015-02-27 13:50:18,2015-02-26,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",S - Sale,35.78,-5400,16598,-25%,-193187.0,-2.0,-2.0,-3.0,-8.0,YY
+347,,2015-01-06 17:00:03,2015-01-02,FE,Alexander Anthony J,Exec COB,S - Sale,38.84,-28032,610242,-4%,-1088802.0,1.0,0.0,6.0,-10.0,YY
+348,,2014-12-30 13:39:06,2014-12-26,FE,Cavalier Lynnette M,"SVP, HR",S - Sale,40.0,-10000,34804,-22%,-400000.0,-1.0,-6.0,1.0,-19.0,YY
+349,,2014-12-22 16:18:28,2014-08-01,FE,Pearson James F,"SVP, CFO",W - Inherited,0.0,2100,22525,-9%,0.0,2.0,7.0,7.0,-11.0,YY
+350,,2014-12-15 14:21:04,2014-12-11,FE,Cavalier Lynnette M,"SVP, HR",S - Sale,38.0,-7500,44804,-14%,-285000.0,0.0,3.0,6.0,-9.0,YY
+351,,2014-11-12 14:44:20,2014-11-07,FE,Rein Catherin A,Dir,A - Grant,36.93,826,10470,+9%,30504.0,-2.0,-2.0,1.0,-4.0,YY
+352,,2014-10-10 15:52:51,2014-10-09,FE,Cavalier Lynnette M,"SVP, HR",S - Sale,35.0,-5000,52304,-9%,-175000.0,1.0,0.0,9.0,5.0,YY
+353,,2014-08-13 15:34:31,2014-08-13,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",A - Grant,0.0,15000,21824,+220%,0.0,0.0,3.0,7.0,18.0,YY
+354,,2014-08-13 15:34:31,2014-08-13,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",S - Sale,32.25,-5400,21824,-20%,-174127.0,0.0,3.0,7.0,18.0,YY
+355,,2014-08-12 15:11:20,2014-08-08,FE,Rein Catherin A,Dir,A - Grant,31.97,955,9554,+11%,30531.0,0.0,1.0,5.0,21.0,YY
+356,,2014-06-02 10:39:43,2014-05-29,FE,Schneider Donald R,"Pres, FE Solutions",S - Sale,33.48,-13264,13217,-50%,-444108.0,-1.0,3.0,3.0,10.0,YY
+357,,2014-05-19 10:03:51,2014-05-15,FE,Jones Charles E,"EVP, Pres, FE Utilities",S - Sale,32.28,-14010,85905,-14%,-452194.0,-3.0,-2.0,6.0,14.0,YY
+358,,2014-05-13 16:32:40,2014-05-09,FE,Rein Catherin A,Dir,A - Grant,33.86,901,8517,+12%,30508.0,0.0,-3.0,5.0,17.0,YY
+359,,2014-05-13 16:26:50,2014-05-09,FE,Cartwright Carol A,Dir,A - Grant,33.86,495,36919,+1%,16761.0,0.0,-3.0,5.0,17.0,YY
+360,,2014-03-14 15:51:57,2014-03-12,FE,Dowling Michael J,"SVP, External Affairs",S - Sale,30.8,-4379,9431,-32%,-134873.0,0.0,1.0,6.0,12.0,YY
+361,D,2014-03-06 18:07:31,2014-03-04,FE,Cartwright Carol A,Dir,A - Grant,30.67,995,36424,+3%,30517.0,-1.0,1.0,10.0,13.0,YY
+362,D,2014-03-06 17:59:50,2014-03-04,FE,Rein Catherin A,Dir,A - Grant,30.67,995,7540,+15%,30517.0,-1.0,1.0,10.0,13.0,YY
+363,D,2014-03-06 17:36:58,2014-03-04,FE,Vespoli Leila L,"EVP, GC",A - Grant,0.0,16656,54208,+44%,0.0,-1.0,1.0,10.0,13.0,YY
+364,D,2014-03-06 17:36:58,2014-03-04,FE,Vespoli Leila L,"EVP, GC",F - Tax,30.67,-10585,54208,-16%,-324642.0,-1.0,1.0,10.0,13.0,YY
+365,D,2014-03-06 17:36:58,2014-03-04,FE,Vespoli Leila L,"EVP, GC",M - OptEx,0.0,8184,54208,+18%,0.0,-1.0,1.0,10.0,13.0,YY
+366,D,2014-03-06 17:36:12,2014-03-04,FE,K. Jon Taylor,"VP, Controller, CAO",A - Grant,0.0,781,1804,+76%,0.0,-1.0,1.0,10.0,13.0,YY
+367,D,2014-03-06 17:36:12,2014-03-04,FE,K. Jon Taylor,"VP, Controller, CAO",F - Tax,30.67,-386,1804,-18%,-11839.0,-1.0,1.0,10.0,13.0,YY
+368,D,2014-03-06 17:36:12,2014-03-04,FE,K. Jon Taylor,"VP, Controller, CAO",M - OptEx,0.0,383,1804,+27%,0.0,-1.0,1.0,10.0,13.0,YY
+369,D,2014-03-06 17:35:21,2014-03-04,FE,Schneider Donald R,"Pres, FE Solutions",A - Grant,0.0,13947,26164,+114%,0.0,-1.0,1.0,10.0,13.0,YY
+370,D,2014-03-06 17:35:21,2014-03-04,FE,Schneider Donald R,"Pres, FE Solutions",F - Tax,30.67,-7536,26164,-22%,-231129.0,-1.0,1.0,10.0,13.0,YY
+371,D,2014-03-06 17:35:21,2014-03-04,FE,Schneider Donald R,"Pres, FE Solutions",M - OptEx,0.0,6853,26164,+35%,0.0,-1.0,1.0,10.0,13.0,YY
+372,D,2014-03-06 17:34:27,2014-03-04,FE,Pearson James F,"SVP, CFO",A - Grant,0.0,3947,21773,+22%,0.0,-1.0,1.0,10.0,13.0,YY
+373,D,2014-03-06 17:34:27,2014-03-04,FE,Pearson James F,"SVP, CFO",F - Tax,30.67,-1949,21773,-8%,-59776.0,-1.0,1.0,10.0,13.0,YY
+374,D,2014-03-06 17:34:27,2014-03-04,FE,Pearson James F,"SVP, CFO",M - OptEx,0.0,1939,21773,+10%,0.0,-1.0,1.0,10.0,13.0,YY
+375,D,2014-03-06 17:33:34,2014-03-04,FE,Lash James H,Pres FE Generation,A - Grant,0.0,13234,43539,+44%,0.0,-1.0,1.0,10.0,13.0,YY
+376,D,2014-03-06 17:33:34,2014-03-04,FE,Lash James H,Pres FE Generation,F - Tax,30.67,-6978,43539,-14%,-214015.0,-1.0,1.0,10.0,13.0,YY
+377,D,2014-03-06 17:33:34,2014-03-04,FE,Lash James H,Pres FE Generation,M - OptEx,0.0,6503,43539,+18%,0.0,-1.0,1.0,10.0,13.0,YY
+378,D,2014-03-06 17:32:46,2014-03-04,FE,Jones Charles E,"EVP, Pres, FE Utilities",A - Grant,0.0,15369,98777,+18%,0.0,-1.0,1.0,10.0,13.0,YY
+379,D,2014-03-06 17:32:46,2014-03-04,FE,Jones Charles E,"EVP, Pres, FE Utilities",F - Tax,30.67,-8911,98777,-8%,-273300.0,-1.0,1.0,10.0,13.0,YY
+380,D,2014-03-06 17:32:46,2014-03-04,FE,Jones Charles E,"EVP, Pres, FE Utilities",M - OptEx,0.0,7552,98777,+8%,0.0,-1.0,1.0,10.0,13.0,YY
+381,D,2014-03-06 17:31:54,2014-03-04,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",A - Grant,0.0,6069,12153,+100%,0.0,-1.0,1.0,10.0,13.0,YY
+382,D,2014-03-06 17:31:54,2014-03-04,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,30.67,-2997,12153,-20%,-91918.0,-1.0,1.0,10.0,13.0,YY
+383,D,2014-03-06 17:31:54,2014-03-04,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",M - OptEx,0.0,2982,12153,+33%,0.0,-1.0,1.0,10.0,13.0,YY
+384,D,2014-03-06 17:30:57,2014-03-04,FE,Dowling Michael J,"SVP, External Affairs",A - Grant,0.0,4390,13562,+48%,0.0,-1.0,1.0,10.0,13.0,YY
+385,D,2014-03-06 17:30:57,2014-03-04,FE,Dowling Michael J,"SVP, External Affairs",F - Tax,30.67,-2167,13562,-14%,-66462.0,-1.0,1.0,10.0,13.0,YY
+386,D,2014-03-06 17:30:57,2014-03-04,FE,Dowling Michael J,"SVP, External Affairs",M - OptEx,0.0,2156,13562,+19%,0.0,-1.0,1.0,10.0,13.0,YY
+387,D,2014-03-06 17:30:07,2014-03-04,FE,Cavalier Lynnette M,"SVP, HR",A - Grant,0.0,7453,57174,+15%,0.0,-1.0,1.0,10.0,13.0,YY
+388,D,2014-03-06 17:30:07,2014-03-04,FE,Cavalier Lynnette M,"SVP, HR",F - Tax,30.67,-3680,57174,-6%,-112866.0,-1.0,1.0,10.0,13.0,YY
+389,D,2014-03-06 17:30:07,2014-03-04,FE,Cavalier Lynnette M,"SVP, HR",M - OptEx,0.0,3662,57174,+7%,0.0,-1.0,1.0,10.0,13.0,YY
+390,D,2014-03-06 17:29:24,2014-03-04,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",A - Grant,0.0,85705,629449,+16%,0.0,-1.0,1.0,10.0,13.0,YY
+391,D,2014-03-06 17:29:24,2014-03-04,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",F - Tax,30.67,-60970,629449,-9%,-1869950.0,-1.0,1.0,10.0,13.0,YY
+392,D,2014-03-06 17:29:24,2014-03-04,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",M - OptEx,0.0,42113,629449,+7%,0.0,-1.0,1.0,10.0,13.0,YY
+393,D,2014-03-04 17:37:21,2014-03-01,FE,Pearson James F,"SVP, CFO",D - Sale to issuer,30.78,-17,17836,0%,-533.0,1.0,1.0,9.0,14.0,YY
+394,D,2014-03-04 17:37:21,2014-03-01,FE,Pearson James F,"SVP, CFO",F - Tax,30.78,-423,17836,-2%,-13020.0,1.0,1.0,9.0,14.0,YY
+395,D,2014-03-04 17:37:21,2014-03-01,FE,Pearson James F,"SVP, CFO",M - OptEx,30.78,1499,17836,+9%,46149.0,1.0,1.0,9.0,14.0,YY
+396,D,2014-02-27 17:58:24,2014-02-25,FE,Vespoli Leila L,"EVP, GC",A - Grant,32.29,4215,39953,+12%,136113.0,0.0,1.0,9.0,10.0,YY
+397,D,2014-02-27 17:58:24,2014-02-25,FE,Vespoli Leila L,"EVP, GC",D - Sale to issuer,32.29,-4215,39953,-10%,-136113.0,0.0,1.0,9.0,10.0,YY
+398,D,2014-02-27 17:57:38,2014-02-25,FE,K. Jon Taylor,"VP, Controller, CAO",A - Grant,32.29,197,1026,+24%,6370.0,0.0,1.0,9.0,10.0,YY
+399,D,2014-02-27 17:57:38,2014-02-25,FE,K. Jon Taylor,"VP, Controller, CAO",D - Sale to issuer,32.29,-197,1026,-16%,-6370.0,0.0,1.0,9.0,10.0,YY
+400,D,2014-02-27 17:56:48,2014-02-25,FE,Schneider Donald R,"Pres, FE Solutions",A - Grant,32.29,3530,12900,+38%,113976.0,0.0,1.0,9.0,10.0,YY
+401,D,2014-02-27 17:56:48,2014-02-25,FE,Schneider Donald R,"Pres, FE Solutions",D - Sale to issuer,32.29,-3530,12900,-21%,-113976.0,0.0,1.0,9.0,10.0,YY
+402,D,2014-02-27 17:55:49,2014-02-25,FE,Pearson James F,"SVP, CFO",A - Grant,32.29,999,16777,+6%,32254.0,0.0,1.0,9.0,10.0,YY
+403,D,2014-02-27 17:55:49,2014-02-25,FE,Pearson James F,"SVP, CFO",D - Sale to issuer,32.29,-999,16777,-6%,-32254.0,0.0,1.0,9.0,10.0,YY
+404,D,2014-02-27 17:54:55,2014-02-25,FE,Lash James H,Pres FE Generation,A - Grant,32.29,3350,30780,+12%,108161.0,0.0,1.0,9.0,10.0,YY
+405,D,2014-02-27 17:54:55,2014-02-25,FE,Lash James H,Pres FE Generation,D - Sale to issuer,32.29,-3350,30780,-10%,-108161.0,0.0,1.0,9.0,10.0,YY
+406,D,2014-02-27 17:54:06,2014-02-25,FE,Jones Charles E,"EVP, Pres, FE Utilities",A - Grant,32.29,3890,84767,+5%,125607.0,0.0,1.0,9.0,10.0,YY
+407,D,2014-02-27 17:54:06,2014-02-25,FE,Jones Charles E,"EVP, Pres, FE Utilities",D - Sale to issuer,32.29,-3890,84767,-4%,-125607.0,0.0,1.0,9.0,10.0,YY
+408,D,2014-02-27 17:53:11,2014-02-25,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",A - Grant,32.29,1536,6099,+34%,49592.0,0.0,1.0,9.0,10.0,YY
+409,D,2014-02-27 17:53:11,2014-02-25,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",D - Sale to issuer,32.29,-1536,6099,-20%,-49592.0,0.0,1.0,9.0,10.0,YY
+410,D,2014-02-27 17:52:03,2014-02-25,FE,Dowling Michael J,"SVP, External Affairs",A - Grant,32.29,1111,9183,+14%,35871.0,0.0,1.0,9.0,10.0,YY
+411,D,2014-02-27 17:52:03,2014-02-25,FE,Dowling Michael J,"SVP, External Affairs",D - Sale to issuer,32.29,-1111,9183,-11%,-35871.0,0.0,1.0,9.0,10.0,YY
+412,D,2014-02-27 17:51:16,2014-02-25,FE,Cavalier Lynnette M,"SVP, HR",A - Grant,32.29,1886,49739,+4%,60908.0,0.0,1.0,9.0,10.0,YY
+413,D,2014-02-27 17:51:16,2014-02-25,FE,Cavalier Lynnette M,"SVP, HR",D - Sale to issuer,32.29,-1886,49739,-4%,-60908.0,0.0,1.0,9.0,10.0,YY
+414,D,2014-02-27 17:50:17,2014-02-25,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",A - Grant,32.29,21692,562601,+4%,700428.0,0.0,1.0,9.0,10.0,YY
+415,D,2014-02-27 17:50:17,2014-02-25,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",D - Sale to issuer,32.29,-21692,562601,-4%,-700428.0,0.0,1.0,9.0,10.0,YY
+416,M,2014-01-06 16:14:24,2013-12-23,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",G - Gift,0.0,-41872,562601,+8%,-0.0,0.0,2.0,-3.0,5.0,YY
+417,,2014-01-06 16:14:24,2014-01-02,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",S - Sale,32.36,-26740,562601,-5%,-865317.0,0.0,2.0,-3.0,5.0,YY
+418,D,2014-01-03 16:20:29,2014-01-01,FE,Cottle William T,Dir,M - OptEx,32.91,756,5585,+16%,24880.0,-1.0,-1.0,-2.0,4.0,YY
+419,,2013-12-27 17:03:14,2013-12-23,FE,Clark Mark T,"EVP, Finance, Strategy",G - Gift,0.0,-3000,118593,-2%,-0.0,0.0,-2.0,-7.0,6.0,YY
+420,D,2013-12-27 16:40:40,2013-12-24,FE,Rein Catherin A,Dir,A - Grant,32.26,946,6545,+17%,30518.0,0.0,-2.0,-7.0,6.0,YY
+421,D,2013-12-27 16:38:53,2013-12-24,FE,Cartwright Carol A,Dir,A - Grant,32.26,946,35429,+3%,30518.0,0.0,-2.0,-7.0,6.0,YY
+422,D,2013-09-30 16:21:05,2013-09-26,FE,Reyes Luis A,Dir,A - Grant,37.16,27,27,New,1003.0,1.0,1.0,4.0,-4.0,YY
+423,D,2013-09-30 16:16:55,2013-09-26,FE,Rein Catherin A,Dir,A - Grant,37.16,821,5439,+18%,30512.0,1.0,1.0,4.0,-4.0,YY
+424,D,2013-09-30 16:00:40,2013-09-26,FE,Cartwright Carol A,Dir,A - Grant,37.16,821,34483,+2%,30512.0,1.0,1.0,4.0,-4.0,YY
+425,,2013-08-07 10:03:26,2013-08-05,FE,Cavalier Lynnette M,"SVP, HR",S - Sale,37.34,-12838,49698,-21%,-479397.0,1.0,-3.0,-4.0,-18.0,YY
+426,D,2013-07-02 10:04:04,2013-07-01,FE,Cartwright Carol A,Dir,M - OptEx,36.88,1881,33662,+6%,69371.0,0.0,1.0,5.0,-7.0,YY
+427,A,2013-06-28 16:20:55,2013-06-28,FE,Jones Charles E,"SVP, Pres, FE Utilities",S - Sale,37.11,-2000,81000,-2%,-74220.0,-3.0,-4.0,5.0,-12.0,YY
+428,,2013-06-28 15:43:11,2013-06-28,FE,Jones Charles E,"SVP, Pres, FE Utilities",S - Sale,37.11,-2000,81000,-2%,-74220.0,1.0,-3.0,6.0,-11.0,YY
+429,D,2013-05-14 13:21:39,2013-05-10,FE,Rein Catherin A,Dir,A - Grant,42.75,714,4564,+19%,30524.0,0.0,2.0,-11.0,-6.0,YY
+430,D,2013-05-14 13:05:06,2013-05-10,FE,Cartwright Carol A,Dir,A - Grant,42.75,714,31781,+2%,30524.0,0.0,2.0,-11.0,-6.0,YY
+431,,2013-03-21 17:55:46,2013-03-19,FE,Cavalier Lynnette M,"SVP, HR",S - Sale,41.48,-20808,61732,-25%,-863091.0,-2.0,0.0,10.0,-5.0,YY
+432,,2013-03-21 15:47:53,2013-03-19,FE,Pearson James F,"SVP, CFO",S - Sale,41.58,-2000,15835,-11%,-83160.0,-1.0,-1.0,9.0,-6.0,YY
+433,,2013-03-19 10:49:21,2013-03-15,FE,Vespoli Leila L,"Exec. Vice Pres, Gen. Counsel",S - Sale,42.03,-30080,37297,-45%,-1264190.0,0.0,-2.0,8.0,-8.0,YY
+434,,2013-03-19 10:47:51,2013-03-18,FE,Schneider Donald R,"Pres, FE Solutions",S - Sale,41.85,-12461,12036,-51%,-521455.0,0.0,-2.0,8.0,-8.0,YY
+435,,2013-03-19 10:46:32,2013-03-15,FE,Dowling Michael J,"SVP, External Affairs",S - Sale,42.01,-3500,8522,-29%,-147020.0,0.0,-2.0,8.0,-8.0,YY
+436,,2013-03-18 16:39:47,2013-03-18,FE,Jones Charles E,"SVP, Pres, FE Utilities",S - Sale,41.78,-13367,81737,-14%,-558467.0,0.0,-2.0,10.0,-9.0,YY
+437,,2013-03-18 11:21:36,2013-03-15,FE,Wagner Harvey L,"Vice Pres Controller, CAO",S - Sale,41.76,-2006,12922,-13%,-83769.0,-1.0,-3.0,9.0,-9.0,YY
+438,D,2013-03-12 16:49:16,2013-03-08,FE,Wagner Harvey L,"Vice Pres Controller, CAO",A - Grant,40.82,4026,14928,+37%,164341.0,0.0,1.0,10.0,-7.0,YY
+439,D,2013-03-12 16:49:16,2013-03-08,FE,Wagner Harvey L,"Vice Pres Controller, CAO",F - Tax,40.82,-1986,14928,-12%,-81069.0,0.0,1.0,10.0,-7.0,YY
+440,D,2013-03-12 16:49:16,2013-03-08,FE,Wagner Harvey L,"Vice Pres Controller, CAO",M - OptEx,40.82,1972,14928,+15%,80497.0,0.0,1.0,10.0,-7.0,YY
+441,D,2013-03-12 16:49:16,2013-03-12,FE,Wagner Harvey L,"Vice Pres Controller, CAO",S - Sale+OE,41.09,-526,14928,-3%,-21612.0,0.0,1.0,10.0,-7.0,YY
+442,D,2013-03-12 16:45:06,2013-03-08,FE,Vespoli Leila L,"Exec. Vice Pres, Gen. Counsel",A - Grant,40.82,13952,67377,+26%,569521.0,0.0,1.0,10.0,-7.0,YY
+443,D,2013-03-12 16:45:06,2013-03-08,FE,Vespoli Leila L,"Exec. Vice Pres, Gen. Counsel",F - Tax,40.82,-7783,67377,-10%,-317702.0,0.0,1.0,10.0,-7.0,YY
+444,D,2013-03-12 16:45:06,2013-03-08,FE,Vespoli Leila L,"Exec. Vice Pres, Gen. Counsel",M - OptEx,40.82,6833,67377,+11%,278923.0,0.0,1.0,10.0,-7.0,YY
+445,D,2013-03-12 16:43:44,2013-03-08,FE,Schneider Donald R,"Pres, FE Solutions",A - Grant,40.82,12504,24497,+104%,510413.0,0.0,1.0,10.0,-7.0,YY
+446,D,2013-03-12 16:43:44,2013-03-08,FE,Schneider Donald R,"Pres, FE Solutions",F - Tax,40.82,-6167,24497,-20%,-251737.0,0.0,1.0,10.0,-7.0,YY
+447,D,2013-03-12 16:43:44,2013-03-08,FE,Schneider Donald R,"Pres, FE Solutions",M - OptEx,40.82,6124,24497,+33%,249982.0,0.0,1.0,10.0,-7.0,YY
+448,D,2013-03-12 16:41:21,2013-03-08,FE,Pearson James F,"SVP, CFO",A - Grant,40.82,3292,17835,+23%,134379.0,0.0,1.0,10.0,-7.0,YY
+449,D,2013-03-12 16:41:21,2013-03-08,FE,Pearson James F,"SVP, CFO",F - Tax,40.82,-1623,17835,-8%,-66251.0,0.0,1.0,10.0,-7.0,YY
+450,D,2013-03-12 16:41:21,2013-03-08,FE,Pearson James F,"SVP, CFO",M - OptEx,40.82,1611,17835,+10%,65761.0,0.0,1.0,10.0,-7.0,YY
+451,D,2013-03-12 16:39:48,2013-03-08,FE,Lash James H,Pres FE Generation,A - Grant,40.82,9718,28920,+51%,396689.0,0.0,1.0,10.0,-7.0,YY
+452,D,2013-03-12 16:39:48,2013-03-08,FE,Lash James H,Pres FE Generation,F - Tax,40.82,-6906,28920,-19%,-281903.0,0.0,1.0,10.0,-7.0,YY
+453,D,2013-03-12 16:39:48,2013-03-08,FE,Lash James H,Pres FE Generation,M - OptEx,40.82,4759,28920,+20%,194262.0,0.0,1.0,10.0,-7.0,YY
+454,D,2013-03-12 16:39:48,2013-03-12,FE,Lash James H,Pres FE Generation,S - Sale+OE,41.18,-12500,28920,-30%,-514724.0,0.0,1.0,10.0,-7.0,YY
+455,D,2013-03-12 16:38:25,2013-03-08,FE,Jones Charles E,"SVP, Pres, FE Utilities",A - Grant,40.82,13821,95104,+17%,564173.0,0.0,1.0,10.0,-7.0,YY
+456,D,2013-03-12 16:38:25,2013-03-08,FE,Jones Charles E,"SVP, Pres, FE Utilities",F - Tax,40.82,-7223,95104,-7%,-294843.0,0.0,1.0,10.0,-7.0,YY
+457,D,2013-03-12 16:38:25,2013-03-08,FE,Jones Charles E,"SVP, Pres, FE Utilities",M - OptEx,40.82,6769,95104,+8%,276311.0,0.0,1.0,10.0,-7.0,YY
+458,D,2013-03-12 16:36:22,2013-03-08,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",A - Grant,40.82,4764,6434,+285%,194466.0,0.0,1.0,10.0,-7.0,YY
+459,D,2013-03-12 16:36:22,2013-03-08,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",F - Tax,40.82,-2350,6434,-27%,-95927.0,0.0,1.0,10.0,-7.0,YY
+460,D,2013-03-12 16:36:22,2013-03-08,FE,Gaines Bennett L,"SVP Corp Svcs, CIO",M - OptEx,40.82,2333,6434,+57%,95233.0,0.0,1.0,10.0,-7.0,YY
+461,D,2013-03-12 16:34:47,2013-03-08,FE,Dowling Michael J,"SVP, External Affairs",A - Grant,40.82,2681,12022,+29%,109438.0,0.0,1.0,10.0,-7.0,YY
+462,D,2013-03-12 16:34:47,2013-03-08,FE,Dowling Michael J,"SVP, External Affairs",F - Tax,40.82,-1320,12022,-10%,-53882.0,0.0,1.0,10.0,-7.0,YY
+463,D,2013-03-12 16:34:47,2013-03-08,FE,Dowling Michael J,"SVP, External Affairs",M - OptEx,40.82,1313,12022,+12%,53597.0,0.0,1.0,10.0,-7.0,YY
+464,D,2013-03-12 16:32:52,2013-03-08,FE,Clark Mark T,"EVP, Finance, Strategy",A - Grant,40.82,18084,105385,+21%,738189.0,0.0,1.0,10.0,-7.0,YY
+465,D,2013-03-12 16:32:52,2013-03-08,FE,Clark Mark T,"EVP, Finance, Strategy",F - Tax,40.82,-10921,105385,-9%,-445795.0,0.0,1.0,10.0,-7.0,YY
+466,DM,2013-03-12 16:32:52,2013-01-16,FE,Clark Mark T,"EVP, Finance, Strategy",G - Gift,0.0,-3500,105385,-3%,-0.0,0.0,1.0,10.0,-7.0,YY
+467,D,2013-03-12 16:32:52,2013-03-08,FE,Clark Mark T,"EVP, Finance, Strategy",M - OptEx,40.82,8857,105385,+9%,361543.0,0.0,1.0,10.0,-7.0,YY
+468,D,2013-03-12 16:28:09,2013-03-08,FE,Cavalier Lynnette M,"SVP, HR",A - Grant,40.82,6620,89122,+8%,270228.0,0.0,1.0,10.0,-7.0,YY
+469,D,2013-03-12 16:28:09,2013-03-08,FE,Cavalier Lynnette M,"SVP, HR",F - Tax,40.82,-3265,89122,-4%,-133277.0,0.0,1.0,10.0,-7.0,YY
+470,D,2013-03-12 16:28:09,2013-03-08,FE,Cavalier Lynnette M,"SVP, HR",M - OptEx,40.82,3241,89122,+4%,132298.0,0.0,1.0,10.0,-7.0,YY
+471,D,2013-03-12 16:26:31,2013-03-08,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",A - Grant,40.82,74959,601900,+14%,3059826.0,0.0,1.0,10.0,-7.0,YY
+472,D,2013-03-12 16:26:31,2013-03-08,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",F - Tax,40.82,-53268,601900,-8%,-2174400.0,0.0,1.0,10.0,-7.0,YY
+473,D,2013-03-12 16:26:31,2013-03-08,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",M - OptEx,40.82,36712,601900,+6%,1498584.0,0.0,1.0,10.0,-7.0,YY
+474,D,2013-03-11 14:19:11,2013-03-08,FE,Rein Catherin A,Dir,A - Grant,40.82,748,3807,+24%,30533.0,1.0,3.0,9.0,-7.0,YY
+475,D,2013-03-11 13:58:18,2013-03-08,FE,Cartwright Carol A,Dir,A - Grant,40.82,748,31067,+2%,30533.0,1.0,3.0,9.0,-7.0,YY
+476,,2013-03-11 09:39:27,2013-03-07,FE,Lash James H,Pres FE Generation,S - Sale,40.6,-9414,33849,-22%,-382236.0,1.0,3.0,9.0,-7.0,YY
+477,D,2013-03-05 15:50:01,2013-03-01,FE,Wagner Harvey L,"Vice Pres Controller, CAO",F - Tax,39.5,-420,11862,-3%,-16590.0,1.0,3.0,5.0,-3.0,YY
+478,D,2013-03-05 15:50:01,2013-03-01,FE,Wagner Harvey L,"Vice Pres Controller, CAO",M - OptEx,39.5,1472,11862,+14%,58144.0,1.0,3.0,5.0,-3.0,YY
+479,D,2013-03-05 15:44:42,2013-03-01,FE,Pearson James F,"SVP, CFO",F - Tax,39.5,-262,14817,-2%,-10349.0,1.0,3.0,5.0,-3.0,YY
+480,D,2013-03-05 15:44:42,2013-03-01,FE,Pearson James F,"SVP, CFO",M - OptEx,39.5,916,14817,+7%,36182.0,1.0,3.0,5.0,-3.0,YY
+481,,2013-01-09 14:33:33,2013-01-07,FE,Schneider Donald R,"Pres, FE Solutions",S - Sale,41.5,-12599,11619,-52%,-522905.0,-3.0,-3.0,-1.0,-9.0,YY
+482,,2013-01-07 15:30:00,2013-01-03,FE,Vespoli Leila L,"Exec. Vice Pres, Gen. Counsel",S - Sale,42.05,-11914,53563,-18%,-500929.0,-1.0,-5.0,-4.0,-11.0,YY
+483,,2013-01-07 15:27:51,2013-01-03,FE,Schneider Donald R,"Pres, FE Solutions",S - Sale,42.05,-8873,24218,-27%,-373103.0,-1.0,-5.0,-4.0,-11.0,YY
+484,,2013-01-07 15:25:12,2013-01-03,FE,Lash James H,Pres FE Generation,S - Sale,42.05,-8501,42610,-17%,-357483.0,-1.0,-5.0,-4.0,-11.0,YY
+485,,2013-01-07 15:22:22,2013-01-03,FE,Jones Charles E,"SVP, Pres, FE Utilities",S - Sale,42.05,-8936,80782,-10%,-375762.0,-1.0,-5.0,-4.0,-11.0,YY
+486,,2013-01-07 15:20:46,2013-01-03,FE,Clark Mark T,"EVP, Finance, Strategy",S - Sale,42.05,-14892,108429,-12%,-626222.0,-1.0,-5.0,-4.0,-11.0,YY
+487,,2013-01-07 15:18:30,2012-12-12,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",G - Gift,0.0,-25000,538842,-4%,-0.0,-1.0,-5.0,-4.0,-11.0,YY
+488,,2013-01-07 15:18:30,2013-01-03,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",S - Sale,42.05,-29744,538842,-5%,-1250652.0,-1.0,-5.0,-4.0,-11.0,YY
+489,D,2013-01-03 18:28:48,2013-01-01,FE,Pappas Christopher D,Dir,M - OptEx,41.34,3024,16373,+23%,125012.0,0.0,-4.0,-4.0,-12.0,YY
+490,D,2013-01-03 18:26:21,2013-01-01,FE,Cottle William T,Dir,M - OptEx,41.34,711,4628,+18%,29393.0,0.0,-4.0,-4.0,-12.0,YY
+491,,2012-11-27 09:08:07,2012-11-14,FE,Alexander Anthony J,"Pres, Chief Exec. Officer",G - Gift,0.0,75250,593090,-11%,0.0,0.0,1.0,0.0,-4.0,YY

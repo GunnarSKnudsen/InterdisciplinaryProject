@@ -1,23 +1,791 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2021-10-26 19:42:04,2021-10-22,WDFC,Clampitt Richard T,"VP, GC",S - Sale,$218.24,-3420,6734,-34%,"-$746,388",,,,,WDFC
-1,,2021-07-23 17:06:04,2021-07-22,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$240.93,-1345,6329,-18%,"-$324,051",,,,,WDFC
-2,M,2021-07-21 20:42:01,2021-07-19,WDFC,Ridge Garry O,"CEO, COB",S - Sale,$248.46,-48075,65986,-42%,"-$11,944,563",,,,,WDFC
-3,,2021-01-27 15:04:28,2021-01-26,WDFC,Noble William B,"MD, Europe",S - Sale,$305.46,-583,7636,-7%,"-$178,082",,,,,WDFC
-4,,2020-11-16 11:29:30,2020-11-12,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$254.32,-1507,7674,-16%,"-$383,260",,,,,WDFC
-5,M,2020-10-29 18:34:51,2020-10-27,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale,$237.37,-3281,39541,-8%,"-$778,795",,,,,WDFC
-6,,2020-10-27 18:36:14,2020-10-26,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$236.27,-1603,9181,-15%,"-$378,741",,,,,WDFC
-7,,2020-10-22 20:16:26,2020-10-21,WDFC,Noble William B,"MD, Europe",S - Sale,$217.50,-1000,8607,-10%,"-$217,500",,,,,WDFC
-8,,2020-08-19 18:23:15,2020-08-18,WDFC,Noble William B,"MD, Europe",S - Sale,$199.70,-500,8681,-5%,"-$99,850",,,,,WDFC
-9,,2020-01-23 18:05:39,2020-01-22,WDFC,Brass Steven A,"Pres, COO",S - Sale,$189.14,-677,6165,-10%,"-$128,048",,,,,WDFC
-10,,2019-08-19 16:06:13,2019-08-15,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$182.28,-1408,8228,-15%,"-$256,650",,,,,WDFC
-11,,2019-04-19 18:24:18,2019-04-18,WDFC,Brass Steven A,Section 16 Officer,S - Sale,$164.30,-822,4591,-15%,"-$135,055",,,,,WDFC
-12,,2019-04-19 17:14:33,2019-04-18,WDFC,Pittard Daniel E,Dir,P - Purchase,$165.00,400,3791,+12%,"+$66,000",,,,,WDFC
-13,,2018-11-20 16:16:20,2018-11-16,WDFC,Freeman Michael L,Chief Strategy Officer,S - Sale,$167.36,-6000,13351,-31%,"-$1,004,166",,,,,WDFC
-14,,2018-11-15 14:05:48,2018-11-14,WDFC,Freeman Michael L,Chief Strategy Officer,S - Sale,$169.23,-5386,19351,-22%,"-$911,473",,,,,WDFC
-15,,2018-10-31 18:49:26,2018-10-29,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",S - Sale,$166.15,-2167,6308,-26%,"-$360,047",,,,,WDFC
-16,A,2018-10-29 16:00:21,2018-10-25,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",S - Sale,$0.00,-2167,9259,-19%,-$0,,,,,WDFC
-17,,2018-10-26 13:02:31,2018-10-25,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",S - Sale,$163.80,-2167,7092,-23%,"-$354,963",,,,,WDFC
-18,,2018-08-15 20:13:46,2018-08-15,WDFC,Noble William B,"MD, Europe",S - Sale,$166.13,-2000,10081,-17%,"-$332,260",,,,,WDFC
-19,,2018-07-20 15:01:27,2018-07-18,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$157.90,-1592,8657,-16%,"-$251,377",,,,,WDFC
-20,,2018-05-14 13:17:28,2018-05-10,WDFC,Pittard Daniel E,Dir,P - Purchase,$132.65,530,2999,+21%,"+$70,305",,,,,WDFC
-21,,2018-04-17 19:13:29,2018-04-13,WDFC,Brass Steven A,Section 16 Officer,S - Sale,$130.83,-1000,4711,-18%,"-$130,825",,,,,WDFC
+0,,2021-12-22 16:30:11,2021-12-14,WDFC,Monteagudo Graciela,Dir,A - Grant,$0.00,332,970,+52%,+$0,,,,,WDFC
+1,,2021-12-16 13:52:48,2021-12-14,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,581,17982,+3%,+$0,,,,,WDFC
+2,,2021-12-15 20:09:43,2021-12-14,WDFC,Saunders Anne,Dir,A - Grant,$0.00,332,1460,+29%,+$0,,,,,WDFC
+3,,2021-12-15 20:07:41,2021-12-14,WDFC,Pendarvis David,Dir,A - Grant,$0.00,581,3360,+21%,+$0,,,,,WDFC
+4,,2021-12-15 20:06:13,2021-12-14,WDFC,Lee Lara L,Dir,A - Grant,$0.00,332,600,+124%,+$0,,,,,WDFC
+5,,2021-12-15 20:05:06,2021-12-14,WDFC,Mihalik Trevor I,Dir,A - Grant,$0.00,581,1994,+41%,+$0,,,,,WDFC
+6,,2021-12-15 20:04:24,2021-12-14,WDFC,Etchart Eric,Dir,A - Grant,$0.00,581,5192,+13%,+$0,,,,,WDFC
+7,,2021-12-15 20:03:26,2021-12-14,WDFC,Claassen Melissa,Dir,A - Grant,$0.00,581,5901,+11%,+$0,,,,,WDFC
+8,,2021-12-15 20:02:48,2021-12-14,WDFC,Carter Daniel T,Dir,A - Grant,$0.00,581,4554,+15%,+$0,,,,,WDFC
+9,,2021-10-26 19:52:04,2021-10-22,WDFC,Ridge Garry O,"CEO, Board Chair",F - Tax,$0.00,-7665,73168,-9%,-$0,,,,,WDFC
+10,,2021-10-26 19:50:53,2021-10-22,WDFC,Rembolt Jay,"VP Finance, CFO",F - Tax,$0.00,-1183,41695,-3%,-$0,,,,,WDFC
+11,,2021-10-26 19:49:56,2021-10-22,WDFC,Partlo Rae Ann,"VP, Corporate Controller",F - Tax,$0.00,-269,1727,-13%,-$0,,,,,WDFC
+12,,2021-10-26 19:48:36,2021-10-22,WDFC,Olsem Patricia Q,"Division Pres, Americas",F - Tax,$0.00,-683,5492,-11%,-$0,,,,,WDFC
+13,,2021-10-26 19:47:08,2021-10-22,WDFC,Noble William B,"MD, Europe",F - Tax,$0.00,-782,8511,-8%,-$0,,,,,WDFC
+14,,2021-10-26 19:43:11,2021-10-22,WDFC,Lindeman Jeffrey G,VP Global Org Development,F - Tax,$0.00,-201,1040,-16%,-$0,,,,,WDFC
+15,,2021-10-26 19:42:04,2021-10-22,WDFC,Clampitt Richard T,"VP, GC",F - Tax,$0.00,-734,6734,-10%,-$0,,,,,WDFC
+16,,2021-10-26 19:42:04,2021-10-20,WDFC,Clampitt Richard T,"VP, GC",G - Gift,$209.20,-6840,6734,-6453%,"-$1,430,928",,,,,WDFC
+17,,2021-10-26 19:42:04,2021-10-22,WDFC,Clampitt Richard T,"VP, GC",S - Sale,$218.24,-3420,6734,-34%,"-$746,388",,,,,WDFC
+18,,2021-10-26 19:40:29,2021-10-22,WDFC,Brass Steven A,"Pres, COO",F - Tax,$0.00,-2030,11637,-15%,-$0,,,,,WDFC
+19,,2021-10-14 21:01:50,2021-10-12,WDFC,Partlo Rae Ann,"VP, Corporate Controller",A - Grant,$0.00,738,1996,+59%,+$0,,,,,WDFC
+20,,2021-10-14 20:58:42,2021-10-12,WDFC,Lindeman Jeffrey G,VP Global Org Development,A - Grant,$0.00,757,1241,+156%,+$0,,,,,WDFC
+21,,2021-10-14 20:57:35,2021-10-12,WDFC,Clampitt Richard T,"VP, GC",A - Grant,$0.00,2063,10888,+23%,+$0,,,,,WDFC
+22,,2021-10-14 20:48:59,2021-10-12,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,1908,8237,+30%,+$0,,,,,WDFC
+23,,2021-10-14 20:47:25,2021-10-12,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,1657,9293,+22%,+$0,,,,,WDFC
+24,,2021-10-14 20:31:32,2021-10-12,WDFC,Olsem Patricia Q,"Division Pres, Americas",A - Grant,$0.00,2088,6175,+51%,+$0,,,,,WDFC
+25,,2021-10-14 20:30:12,2021-10-12,WDFC,Brass Steven A,"Pres, COO",A - Grant,$0.00,4749,13667,+53%,+$0,,,,,WDFC
+26,,2021-10-14 20:29:09,2021-10-12,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,3266,42878,+8%,+$0,,,,,WDFC
+27,,2021-10-14 20:25:46,2021-10-12,WDFC,Ridge Garry O,"CEO, Board Chair",A - Grant,$0.00,14836,80833,+22%,+$0,,,,,WDFC
+28,,2021-07-23 17:06:04,2021-07-22,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$240.93,-1345,6329,-18%,"-$324,051",,,,,WDFC
+29,M,2021-07-21 20:42:01,2021-07-19,WDFC,Ridge Garry O,"CEO, COB",S - Sale,$248.46,-48075,65986,-42%,"-$11,944,563",,,,,WDFC
+30,,2021-01-27 15:04:28,2021-01-26,WDFC,Noble William B,"MD, Europe",S - Sale,$305.46,-583,7636,-7%,"-$178,082",,,,,WDFC
+31,,2020-12-10 19:55:36,2020-12-08,WDFC,Claassen Melissa,Dir,A - Grant,$0.00,475,5320,+10%,+$0,,,,,WDFC
+32,,2020-12-10 19:53:54,2020-12-08,WDFC,Saunders Anne,Dir,A - Grant,$0.00,364,1128,+48%,+$0,,,,,WDFC
+33,,2020-12-10 19:52:28,2020-12-08,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,475,17401,+3%,+$0,,,,,WDFC
+34,,2020-12-10 19:51:39,2020-12-08,WDFC,Pendarvis David,Dir,A - Grant,$0.00,475,2779,+21%,+$0,,,,,WDFC
+35,,2020-12-10 19:50:37,2020-12-08,WDFC,Monteagudo Graciela,Dir,A - Grant,$0.00,268,638,+72%,+$0,,,,,WDFC
+36,,2020-12-10 19:47:19,2020-12-08,WDFC,Mihalik Trevor I,Dir,A - Grant,$0.00,475,1413,+51%,+$0,,,,,WDFC
+37,,2020-12-10 19:45:28,2020-12-08,WDFC,Etchart Eric,Dir,A - Grant,$0.00,475,4611,+11%,+$0,,,,,WDFC
+38,,2020-12-10 19:44:07,2020-12-08,WDFC,Carter Daniel T,Dir,A - Grant,$0.00,268,3973,+7%,+$0,,,,,WDFC
+39,,2020-11-16 11:29:30,2020-11-12,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$254.32,-1507,7674,-16%,"-$383,260",,,,,WDFC
+40,,2020-10-30 16:11:38,2020-10-28,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",F - Tax,$0.00,-645,8597,-7%,-$0,,,,,WDFC
+41,,2020-10-30 16:10:02,2020-10-28,WDFC,Ridge Garry O,"Pres, CEO",F - Tax,$0.00,-6502,114050,-5%,-$0,,,,,WDFC
+42,,2020-10-30 16:10:02,2020-10-26,WDFC,Ridge Garry O,"Pres, CEO",G - Gift,$235.74,-1250,114050,-1%,"-$294,675",,,,,WDFC
+43,,2020-10-30 16:08:22,2020-10-28,WDFC,Partlo Rae Ann,"VP, Corporate Controller",F - Tax,$0.00,-213,1258,-14%,-$0,,,,,WDFC
+44,M,2020-10-30 16:07:16,2020-10-28,WDFC,Olsem Patricia Q,"Division Pres, Americas",F - Tax,$0.00,-342,4087,-8%,-$0,,,,,WDFC
+45,,2020-10-30 16:06:15,2020-10-29,WDFC,Noble William B,"MD, Europe",F - Tax,$0.00,-388,8219,-5%,-$0,,,,,WDFC
+46,,2020-10-30 16:04:29,2020-10-28,WDFC,Clampitt Richard T,"VP, GC",F - Tax,$0.00,-662,8825,-7%,-$0,,,,,WDFC
+47,,2020-10-30 16:04:29,2020-10-27,WDFC,Clampitt Richard T,"VP, GC",G - Gift,$238.61,-320,8825,-3%,"-$76,355",,,,,WDFC
+48,,2020-10-30 16:03:10,2020-10-28,WDFC,Brass Steven A,Section 16 Officer,F - Tax,$0.00,-973,8918,-10%,-$0,,,,,WDFC
+49,,2020-10-29 18:34:51,2020-10-28,WDFC,Rembolt Jay,"VP Finance, CFO",F - Tax,$0.00,-836,39541,-2%,-$0,,,,,WDFC
+50,M,2020-10-29 18:34:51,2020-10-27,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale,$237.37,-3281,39541,-8%,"-$778,795",,,,,WDFC
+51,,2020-10-27 18:36:14,2020-10-26,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$236.27,-1603,9181,-15%,"-$378,741",,,,,WDFC
+52,,2020-10-22 20:16:26,2020-10-21,WDFC,Noble William B,"MD, Europe",S - Sale,$217.50,-1000,8607,-10%,"-$217,500",,,,,WDFC
+53,,2020-10-14 21:50:03,2020-10-12,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",A - Grant,$0.00,1767,9242,+24%,+$0,,,,,WDFC
+54,,2020-10-14 21:49:08,2020-10-12,WDFC,Ridge Garry O,"CEO, Board Chair",A - Grant,$0.00,12864,121802,+12%,+$0,,,,,WDFC
+55,,2020-10-14 21:48:28,2020-10-12,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,2345,43658,+6%,+$0,,,,,WDFC
+56,,2020-10-14 21:47:40,2020-10-12,WDFC,Partlo Rae Ann,"VP, Corporate Controller",A - Grant,$0.00,569,1471,+63%,+$0,,,,,WDFC
+57,,2020-10-14 21:46:38,2020-10-12,WDFC,Olsem Patricia Q,"Division Pres, Americas",A - Grant,$0.00,1392,4429,+46%,+$0,,,,,WDFC
+58,,2020-10-14 21:45:46,2020-10-12,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,926,9607,+11%,+$0,,,,,WDFC
+59,,2020-10-14 21:44:39,2020-10-12,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,1260,10784,+13%,+$0,,,,,WDFC
+60,,2020-10-14 21:43:33,2020-10-12,WDFC,Clampitt Richard T,"VP, GC",A - Grant,$0.00,1904,9807,+24%,+$0,,,,,WDFC
+61,,2020-10-14 21:29:42,2020-10-12,WDFC,Brass Steven A,"Pres, COO",A - Grant,$0.00,3726,9891,+60%,+$0,,,,,WDFC
+62,,2020-08-19 18:23:15,2020-08-18,WDFC,Noble William B,"MD, Europe",S - Sale,$199.70,-500,8681,-5%,"-$99,850",,,,,WDFC
+63,,2020-01-23 18:05:39,2020-01-22,WDFC,Brass Steven A,"Pres, COO",S - Sale,$189.14,-677,6165,-10%,"-$128,048",,,,,WDFC
+64,,2019-12-12 20:52:43,2019-12-10,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,359,27973,+1%,+$0,,,,,WDFC
+65,,2019-12-12 20:51:38,2019-12-10,WDFC,Saunders Anne,Dir,A - Grant,$0.00,359,764,+89%,+$0,,,,,WDFC
+66,,2019-12-12 20:49:21,2019-12-10,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,636,16926,+4%,+$0,,,,,WDFC
+67,,2019-12-12 20:45:43,2019-12-10,WDFC,Pittard Daniel E,Dir,A - Grant,$0.00,359,4150,+9%,+$0,,,,,WDFC
+68,,2019-12-12 20:35:01,2019-12-10,WDFC,Pendarvis David,Dir,A - Grant,$0.00,636,2304,+38%,+$0,,,,,WDFC
+69,,2019-12-12 20:30:24,2019-12-10,WDFC,Carter Daniel T,Dir,A - Grant,$0.00,359,3705,+11%,+$0,,,,,WDFC
+70,,2019-12-12 20:27:37,2019-12-10,WDFC,Etchart Eric,Dir,A - Grant,$0.00,636,4136,+18%,+$0,,,,,WDFC
+71,,2019-12-12 20:23:18,2019-12-10,WDFC,Claassen Melissa,Dir,A - Grant,$0.00,636,4845,+15%,+$0,,,,,WDFC
+72,,2019-10-28 21:18:40,2019-10-24,WDFC,Noble William B,"MD, Europe",F - Tax,$0.00,-347,9181,-4%,-$0,,,,,WDFC
+73,,2019-10-28 17:53:39,2019-10-24,WDFC,Olsem Patricia Q,"Division Pres, Americas",F - Tax,$0.00,-225,3037,-7%,-$0,,,,,WDFC
+74,,2019-10-28 17:50:26,2019-10-24,WDFC,Clampitt Richard T,"VP, GC",F - Tax,$0.00,-673,7903,-8%,-$0,,,,,WDFC
+75,,2019-10-28 17:48:42,2019-10-24,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",F - Tax,$0.00,-673,7460,-8%,-$0,,,,,WDFC
+76,,2019-10-28 17:46:37,2019-10-24,WDFC,Brass Steven A,Section 16 Officer,F - Tax,$0.00,-669,6842,-9%,-$0,,,,,WDFC
+77,,2019-10-28 17:44:44,2019-10-24,WDFC,Rembolt Jay,"VP Finance, CFO",F - Tax,$0.00,-822,41230,-2%,-$0,,,,,WDFC
+78,,2019-10-28 17:43:05,2019-10-24,WDFC,Ridge Garry O,"Pres, CEO",F - Tax,$0.00,-6311,108918,-5%,-$0,,,,,WDFC
+79,,2019-10-08 21:35:09,2019-10-07,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",A - Grant,$0.00,1811,8133,+29%,+$0,,,,,WDFC
+80,,2019-10-08 21:31:50,2019-10-07,WDFC,Clampitt Richard T,"VP, GC",A - Grant,$0.00,1959,8576,+30%,+$0,,,,,WDFC
+81,,2019-10-08 21:30:33,2019-10-07,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,1296,9524,+16%,+$0,,,,,WDFC
+82,,2019-10-08 21:29:22,2019-10-07,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,1432,10020,+17%,+$0,,,,,WDFC
+83,,2019-10-08 21:27:32,2019-10-07,WDFC,Olsem Patricia Q,"Division Pres, Americas",A - Grant,$0.00,1042,3262,+47%,+$0,,,,,WDFC
+84,,2019-10-08 21:25:49,2019-10-07,WDFC,Brass Steven A,"Pres, COO",A - Grant,$0.00,2920,7511,+64%,+$0,,,,,WDFC
+85,,2019-10-08 21:24:23,2019-10-07,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,2369,42052,+6%,+$0,,,,,WDFC
+86,,2019-10-08 21:22:36,2019-10-07,WDFC,Ridge Garry O,CEO,A - Grant,$0.00,12795,115229,+12%,+$0,,,,,WDFC
+87,,2019-10-08 21:22:36,2019-09-16,WDFC,Ridge Garry O,CEO,G - Gift,$182.04,-1500,115229,-1%,"-$273,060",,,,,WDFC
+88,,2019-08-19 16:06:13,2019-08-15,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$182.28,-1408,8228,-15%,"-$256,650",,,,,WDFC
+89,,2019-04-19 18:24:18,2019-04-18,WDFC,Brass Steven A,Section 16 Officer,S - Sale,$164.30,-822,4591,-15%,"-$135,055",,,,,WDFC
+90,,2019-04-19 17:14:33,2019-04-18,WDFC,Pittard Daniel E,Dir,P - Purchase,$165.00,400,3791,+12%,"+$66,000",,,,,WDFC
+91,,2018-12-13 17:56:08,2018-12-11,WDFC,Carter Daniel T,Dir,A - Grant,$0.00,694,3346,+26%,+$0,,,,,WDFC
+92,,2018-12-13 17:54:44,2018-12-11,WDFC,Claassen Melissa,Dir,A - Grant,$0.00,694,4209,+20%,+$0,,,,,WDFC
+93,,2018-12-13 17:46:00,2018-12-11,WDFC,Etchart Eric,Dir,A - Grant,$0.00,694,3500,+25%,+$0,,,,,WDFC
+94,,2018-12-13 17:44:07,2018-12-11,WDFC,Lang Linda,Dir,A - Grant,$0.00,694,20008,+4%,+$0,,,,,WDFC
+95,,2018-12-13 17:31:58,2018-12-11,WDFC,Pendarvis David,Dir,A - Grant,$0.00,694,1668,+71%,+$0,,,,,WDFC
+96,,2018-12-13 17:23:18,2018-12-11,WDFC,Pittard Daniel E,Dir,A - Grant,$0.00,392,3391,+13%,+$0,,,,,WDFC
+97,,2018-12-13 17:21:01,2018-12-11,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,694,16290,+4%,+$0,,,,,WDFC
+98,,2018-12-13 17:07:50,2018-12-11,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,392,27614,+1%,+$0,,,,,WDFC
+99,,2018-11-20 16:16:20,2018-11-16,WDFC,Freeman Michael L,Chief Strategy Officer,G - Gift,$168.79,-12000,13351,+888%,"-$2,025,480",,,,,WDFC
+100,,2018-11-20 16:16:20,2018-11-16,WDFC,Freeman Michael L,Chief Strategy Officer,S - Sale,$167.36,-6000,13351,-31%,"-$1,004,166",,,,,WDFC
+101,,2018-11-15 14:05:48,2018-11-14,WDFC,Freeman Michael L,Chief Strategy Officer,S - Sale,$169.23,-5386,19351,-22%,"-$911,473",,,,,WDFC
+102,,2018-10-31 18:49:26,2018-10-29,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",S - Sale,$166.15,-2167,6308,-26%,"-$360,047",,,,,WDFC
+103,,2018-10-30 19:37:04,2018-10-26,WDFC,Clampitt Richard T,"VP, GC",F - Tax,$0.00,-784,6617,-11%,-$0,,,,,WDFC
+104,,2018-10-30 19:35:35,2018-10-26,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",F - Tax,$0.00,-784,8475,-8%,-$0,,,,,WDFC
+105,,2018-10-30 19:32:50,2018-10-26,WDFC,Noble William B,"MD, Europe",F - Tax,$0.00,-786,10326,-7%,-$0,,,,,WDFC
+106,,2018-10-30 19:31:39,2018-10-26,WDFC,Brass Steven A,Section 16 Officer,F - Tax,$0.00,-397,5413,-7%,-$0,,,,,WDFC
+107,,2018-10-30 19:30:03,2018-10-26,WDFC,Rembolt Jay,"VP Finance, CFO",F - Tax,$0.00,-918,39614,-2%,-$0,,,,,WDFC
+108,,2018-10-30 19:28:43,2018-10-26,WDFC,Freeman Michael L,"Division Pres, Americas",F - Tax,$0.00,-912,24730,-4%,-$0,,,,,WDFC
+109,,2018-10-30 18:59:32,2018-10-26,WDFC,Ridge Garry O,"Pres, CEO",F - Tax,$0.00,-6548,103922,-6%,-$0,,,,,WDFC
+110,A,2018-10-29 16:00:21,2018-10-25,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",S - Sale,$0.00,-2167,9259,-19%,-$0,,,,,WDFC
+111,,2018-10-26 13:02:31,2018-10-25,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",S - Sale,$163.80,-2167,7092,-23%,"-$354,963",,,,,WDFC
+112,,2018-10-10 19:22:45,2018-10-08,WDFC,Clampitt Richard T,"VP, GC",A - Grant,$0.00,1239,7401,+20%,+$0,,,,,WDFC
+113,,2018-10-10 19:20:39,2018-10-08,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",A - Grant,$0.00,1239,9259,+15%,+$0,,,,,WDFC
+114,,2018-10-10 19:18:06,2018-10-08,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,979,9636,+11%,+$0,,,,,WDFC
+115,,2018-10-10 19:12:31,2018-10-08,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,1031,11112,+10%,+$0,,,,,WDFC
+116,,2018-10-10 19:09:48,2018-10-08,WDFC,Brass Steven A,Section 16 Officer,A - Grant,$0.00,1099,5810,+23%,+$0,,,,,WDFC
+117,,2018-10-10 19:07:20,2018-10-08,WDFC,Freeman Michael L,Chief Strategy Officer,A - Grant,$0.00,1431,25642,+6%,+$0,,,,,WDFC
+118,,2018-10-10 19:03:55,2018-10-08,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,1754,40532,+5%,+$0,,,,,WDFC
+119,,2018-10-10 19:00:48,2018-10-08,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,8412,110470,+8%,+$0,,,,,WDFC
+120,,2018-08-15 20:13:46,2018-08-15,WDFC,Noble William B,"MD, Europe",S - Sale,$166.13,-2000,10081,-17%,"-$332,260",,,,,WDFC
+121,,2018-07-20 15:01:27,2018-07-18,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$157.90,-1592,8657,-16%,"-$251,377",,,,,WDFC
+122,,2018-05-14 13:17:28,2018-05-10,WDFC,Pittard Daniel E,Dir,P - Purchase,$132.65,530,2999,+21%,"+$70,305",,,,,WDFC
+123,,2018-04-17 19:13:29,2018-04-13,WDFC,Brass Steven A,Section 16 Officer,S - Sale,$130.83,-1000,4711,-18%,"-$130,825",,,,,WDFC
+124,,2018-02-14 16:39:28,2018-02-13,WDFC,Freeman Michael L,Chief Strategy Officer,S - Sale,$119.58,-4861,24193,-17%,"-$581,278",,,,,WDFC
+125,,2018-01-31 15:41:48,2018-01-29,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$126.85,-1690,10249,-14%,"-$214,377",,,,,WDFC
+126,,2017-12-13 19:21:22,2017-12-12,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,974,27222,+4%,+$0,,,,,WDFC
+127,,2017-12-13 19:19:56,2017-12-12,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,974,15510,+7%,+$0,,,,,WDFC
+128,,2017-12-13 19:18:34,2017-12-12,WDFC,Pittard Daniel E,Dir,A - Grant,$0.00,593,2469,+32%,+$0,,,,,WDFC
+129,,2017-12-13 19:08:32,2017-12-12,WDFC,Lang Linda,Dir,A - Grant,$0.00,974,19314,+5%,+$0,,,,,WDFC
+130,,2017-12-13 19:05:30,2017-12-12,WDFC,Etchart Eric,Dir,A - Grant,$0.00,974,2806,+53%,+$0,,,,,WDFC
+131,,2017-12-13 19:04:32,2017-12-12,WDFC,Claassen Melissa,Dir,A - Grant,$0.00,974,3515,+38%,+$0,,,,,WDFC
+132,,2017-12-13 19:02:46,2017-12-12,WDFC,Carter Daniel T,Dir,A - Grant,$0.00,974,2652,+58%,+$0,,,,,WDFC
+133,,2017-12-13 19:01:35,2017-12-12,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,974,25736,+4%,+$0,,,,,WDFC
+134,,2017-10-31 14:41:57,2017-10-27,WDFC,Clampitt Richard T,"VP, GC",F - Tax,$0.00,-889,6162,-13%,-$0,,,,,WDFC
+135,,2017-10-31 14:41:15,2017-10-27,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",F - Tax,$0.00,-890,7970,-10%,-$0,,,,,WDFC
+136,,2017-10-31 14:40:05,2017-10-27,WDFC,Noble William B,"MD, Europe",F - Tax,$0.00,-1051,12081,-8%,-$0,,,,,WDFC
+137,,2017-10-31 13:15:14,2017-10-27,WDFC,Brass Steven A,Section 16 Officer,F - Tax,$0.00,-402,5711,-7%,-$0,,,,,WDFC
+138,,2017-10-31 13:14:06,2017-10-27,WDFC,Freeman Michael L,"Division Pres, Americas",F - Tax,$0.00,-1177,29033,-4%,-$0,,,,,WDFC
+139,,2017-10-31 13:12:44,2017-10-27,WDFC,Rembolt Jay,"VP Finance, CFO",F - Tax,$0.00,-1177,38675,-3%,-$0,,,,,WDFC
+140,,2017-10-31 11:34:26,2017-10-27,WDFC,Ridge Garry O,"Pres, CEO",F - Tax,$0.00,-5967,103524,-5%,-$0,,,,,WDFC
+141,,2017-10-11 19:48:41,2017-10-09,WDFC,Clampitt Richard T,"VP, GC",A - Grant,$0.00,1471,7051,+26%,+$0,,,,,WDFC
+142,,2017-10-11 19:46:47,2017-10-09,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",A - Grant,$0.00,1471,8860,+20%,+$0,,,,,WDFC
+143,,2017-10-11 19:44:55,2017-10-09,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,992,11939,+9%,+$0,,,,,WDFC
+144,,2017-10-11 19:43:26,2017-10-09,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,1315,13132,+11%,+$0,,,,,WDFC
+145,,2017-10-11 19:40:31,2017-10-09,WDFC,Brass Steven A,Section 16 Officer,A - Grant,$0.00,1433,6113,+31%,+$0,,,,,WDFC
+146,,2017-10-11 19:37:58,2017-10-09,WDFC,Freeman Michael L,Chief Strategy Officer,A - Grant,$0.00,1852,30210,+7%,+$0,,,,,WDFC
+147,D,2017-10-11 19:35:48,2017-10-09,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,1897,39852,+5%,+$0,,,,,WDFC
+148,D,2017-10-11 19:35:48,2017-10-09,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$36.03,1160,39852,+3%,"+$41,795",,,,,WDFC
+149,D,2017-10-11 19:35:48,2017-10-09,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$112.60,-676,39852,-2%,"-$76,118",,,,,WDFC
+150,,2017-10-11 19:30:19,2017-10-09,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,9199,109491,+9%,+$0,,,,,WDFC
+151,D,2017-09-20 20:13:58,2017-09-14,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$36.03,1000,37471,+3%,"+$36,030",,,,,WDFC
+152,D,2017-09-20 20:13:58,2017-09-14,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$112.00,-579,37471,-2%,"-$64,848",,,,,WDFC
+153,D,2017-09-15 17:38:30,2017-09-14,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$36.03,1000,37050,+3%,"+$36,030",,,,,WDFC
+154,D,2017-09-15 17:38:30,2017-09-14,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$110.00,-582,37050,-2%,"-$64,020",,,,,WDFC
+155,D,2017-06-21 10:40:55,2017-06-19,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$36.03,1000,36604,+3%,"+$36,030",,,,,WDFC
+156,D,2017-06-21 10:40:55,2017-06-19,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$112.00,-615,36604,-2%,"-$68,880",,,,,WDFC
+157,D,2017-06-13 13:52:25,2017-06-09,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$36.03,1000,36219,+3%,"+$36,030",,,,,WDFC
+158,D,2017-06-13 13:52:25,2017-06-09,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$110.00,-618,36219,-2%,"-$67,980",,,,,WDFC
+159,D,2017-06-05 20:54:29,2017-06-02,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$36.03,1000,35807,+3%,"+$36,030",,,,,WDFC
+160,D,2017-06-05 20:54:29,2017-06-02,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$108.00,-621,35807,-2%,"-$67,068",,,,,WDFC
+161,,2017-05-10 17:12:14,2017-05-08,WDFC,Crivello Mario L,Dir,S - Sale,$104.25,-4726,269361,-2%,"-$492,676",0.0,,,,WDFC
+162,,2016-12-15 13:24:15,2016-12-13,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,832,26248,+3%,+$0,1.0,3.0,-6.0,,WDFC
+163,,2016-12-15 13:21:50,2016-12-13,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,832,14536,+6%,+$0,1.0,3.0,-6.0,,WDFC
+164,,2016-12-15 13:20:41,2016-12-13,WDFC,Pittard Daniel E,Dir,A - Grant,$0.00,497,1876,+36%,+$0,1.0,3.0,-6.0,,WDFC
+165,,2016-12-15 13:19:32,2016-12-13,WDFC,Lang Linda,Dir,A - Grant,$0.00,832,18340,+5%,+$0,1.0,3.0,-6.0,,WDFC
+166,,2016-12-15 13:15:47,2016-12-13,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,497,274087,0%,+$0,1.0,3.0,-6.0,,WDFC
+167,,2016-12-15 13:11:05,2016-12-13,WDFC,Claassen Melissa,Dir,A - Grant,$0.00,832,2541,+49%,+$0,1.0,3.0,-6.0,,WDFC
+168,,2016-12-15 13:09:04,2016-12-13,WDFC,Carter Daniel T,Dir,A - Grant,$0.00,832,1678,+98%,+$0,1.0,3.0,-6.0,,WDFC
+169,,2016-12-15 13:07:49,2016-12-13,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,832,24762,+3%,+$0,1.0,3.0,-6.0,,WDFC
+170,,2016-11-09 14:03:28,2016-11-08,WDFC,Pittard Daniel E,Dir,P - Purchase,$104.00,600,1379,+77%,"+$62,400",2.0,3.0,7.0,1.0,WDFC
+171,,2016-11-01 16:55:38,2016-10-28,WDFC,Clampitt Richard T,"VP, GC",F - Tax,$0.00,-370,5580,-6%,-$0,-1.0,0.0,4.0,0.0,WDFC
+172,,2016-10-31 20:05:13,2016-10-28,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",D - Sale to issuer,$0.00,-697,7371,-9%,-$0,-3.0,-3.0,6.0,-2.0,WDFC
+173,,2016-10-31 19:51:33,2016-10-28,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$0.00,-1255,28316,-4%,-$0,-3.0,-3.0,6.0,-2.0,WDFC
+174,,2016-10-31 19:48:56,2016-10-28,WDFC,Noble William B,"MD, Europe",D - Sale to issuer,$0.00,-1135,11817,-9%,-$0,-3.0,-3.0,6.0,-2.0,WDFC
+175,,2016-10-31 19:45:37,2016-10-28,WDFC,Rembolt Jay,"VP Finance, CFO",D - Sale to issuer,$0.00,-1255,35375,-3%,-$0,-3.0,-3.0,6.0,-2.0,WDFC
+176,,2016-10-31 19:40:52,2016-10-28,WDFC,Ridge Garry O,"Pres, CEO",D - Sale to issuer,$0.00,-5800,100250,-5%,-$0,-3.0,-3.0,6.0,-2.0,WDFC
+177,A,2016-10-27 18:34:32,2016-10-10,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",A - Grant,$0.00,361,7397,+5%,+$0,1.0,-2.0,6.0,1.0,WDFC
+178,A,2016-10-27 18:31:26,2015-10-12,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",A - Grant,$0.00,489,7698,+7%,+$0,1.0,-2.0,6.0,1.0,WDFC
+179,D,2016-10-26 11:37:14,2016-10-25,WDFC,Bateman Giles H,Dir,M - OptEx,$32.78,3800,17401,+28%,"+$124,564",-2.0,-4.0,1.0,-2.0,WDFC
+180,D,2016-10-26 11:37:14,2016-10-25,WDFC,Bateman Giles H,Dir,S - Sale+OE,$108.02,-1176,17401,-6%,"-$127,028",-2.0,-4.0,1.0,-2.0,WDFC
+181,M,2016-10-12 21:51:36,2016-10-11,WDFC,Clampitt Richard T,"VP, GC",A - Grant,$0.00,850,5950,+17%,+$0,-1.0,-3.0,-5.0,-7.0,WDFC
+182,M,2016-10-12 21:40:24,2016-10-11,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,2234,36630,+6%,+$0,-1.0,-3.0,-5.0,-7.0,WDFC
+183,M,2016-10-12 21:36:38,2016-10-11,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,2258,29571,+8%,+$0,-1.0,-3.0,-5.0,-7.0,WDFC
+184,M,2016-10-12 21:30:05,2016-10-11,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,9788,106050,+10%,+$0,-1.0,-3.0,-5.0,-7.0,WDFC
+185,M,2016-10-12 21:19:58,2016-10-11,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",A - Grant,$0.00,1583,8917,+22%,+$0,-1.0,-3.0,-5.0,-7.0,WDFC
+186,M,2016-10-12 21:10:46,2016-10-11,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,1610,12952,+14%,+$0,-1.0,-3.0,-5.0,-7.0,WDFC
+187,M,2016-10-12 21:04:38,2016-10-11,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,1266,10947,+13%,+$0,-1.0,-3.0,-5.0,-7.0,WDFC
+188,,2016-09-13 14:53:37,2016-09-12,WDFC,Pittard Daniel E,Dir,P - Purchase,$115.00,295,779,+61%,"+$33,925",-2.0,-1.0,-3.0,-4.0,WDFC
+189,,2016-08-30 11:31:05,2016-08-26,WDFC,Crivello Mario L,Dir,S - Sale,$120.06,-9000,273590,-3%,"-$1,080,540",0.0,1.0,-5.0,-6.0,WDFC
+190,,2016-08-25 17:38:08,2016-08-24,WDFC,Crivello Mario L,Dir,S - Sale,$117.61,-1000,282590,0%,"-$117,610",0.0,-1.0,-3.0,-8.0,WDFC
+191,,2016-08-18 13:30:22,2016-08-17,WDFC,Crivello Mario L,Dir,S - Sale,$115.39,-1000,283590,0%,"-$115,390",1.0,2.0,-1.0,-3.0,WDFC
+192,D,2016-08-11 10:55:12,2016-08-10,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$35.99,1000,34396,+3%,"+$35,990",-1.0,-1.0,-2.0,-7.0,WDFC
+193,D,2016-08-11 10:55:12,2016-08-10,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$117.00,-570,34396,-2%,"-$66,690",-1.0,-1.0,-2.0,-7.0,WDFC
+194,,2016-08-08 17:04:26,2016-08-05,WDFC,Noble William B,"MD, Europe",S - Sale,$115.14,-1000,11342,-8%,"-$115,140",1.0,0.0,4.0,-6.0,WDFC
+195,,2016-07-26 20:25:13,2016-07-22,WDFC,Crivello Mario L,Dir,S - Sale,$119.57,-400,284190,0%,"-$47,828",-1.0,0.0,2.0,-9.0,WDFC
+196,,2016-07-15 15:15:49,2016-07-15,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$120.27,-1427,9681,-13%,"-$171,621",0.0,-2.0,-3.0,-14.0,WDFC
+197,D,2016-07-15 12:39:25,2016-07-14,WDFC,Bewley Peter D,Dir,M - OptEx,$37.82,3800,23930,+19%,"+$143,716",0.0,-2.0,-3.0,-14.0,WDFC
+198,,2016-06-21 18:30:28,2016-06-20,WDFC,Carter Daniel T,Dir,A - Grant,$0.00,327,846,+63%,+$0,1.0,-2.0,4.0,-2.0,WDFC
+199,,2016-05-04 16:57:54,2016-05-03,WDFC,Bateman Giles H,Dir,G - Gift,$104.33,-100,14777,-1%,"-$10,433",0.0,2.0,6.0,2.0,WDFC
+200,D,2016-02-19 16:27:02,2016-02-19,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$35.99,1000,33920,+3%,"+$35,990",-1.0,1.0,0.0,8.0,WDFC
+201,D,2016-02-19 16:27:02,2016-02-19,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$107.00,-588,33920,-2%,"-$62,916",-1.0,1.0,0.0,8.0,WDFC
+202,D,2016-02-10 14:47:27,2016-02-10,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$35.99,2000,33508,+6%,"+$71,980",0.0,1.0,-1.0,13.0,WDFC
+203,D,2016-02-10 14:47:27,2016-02-10,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$105.00,-1202,33508,-3%,"-$126,210",0.0,1.0,-1.0,13.0,WDFC
+204,D,2016-02-01 18:34:38,2016-01-29,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$35.99,1000,32710,+3%,"+$35,990",-1.0,-3.0,3.0,11.0,WDFC
+205,D,2016-02-01 18:34:38,2016-01-29,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$100.02,-637,32710,-2%,"-$63,713",-1.0,-3.0,3.0,11.0,WDFC
+206,,2015-12-10 12:30:14,2015-12-08,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,925,25416,+4%,+$0,-1.0,2.0,-1.0,16.0,WDFC
+207,,2015-12-10 12:28:32,2015-12-08,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,925,13704,+7%,+$0,-1.0,2.0,-1.0,16.0,WDFC
+208,,2015-12-10 12:22:18,2015-12-08,WDFC,Lang Linda,Dir,A - Grant,$0.00,925,17508,+6%,+$0,-1.0,2.0,-1.0,16.0,WDFC
+209,,2015-12-10 12:21:32,2015-12-08,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,552,284990,0%,+$0,-1.0,2.0,-1.0,16.0,WDFC
+210,,2015-12-10 12:19:38,2015-12-08,WDFC,Collato Richard A,Dir,A - Grant,$0.00,552,13990,+4%,+$0,-1.0,2.0,-1.0,16.0,WDFC
+211,,2015-12-10 12:18:30,2015-12-08,WDFC,Collato Richard A,Dir,A - Grant,$0.00,552,13990,+4%,+$0,-1.0,2.0,-1.0,16.0,WDFC
+212,,2015-12-10 12:17:38,2015-12-08,WDFC,Claassen Melissa,Dir,A - Grant,$0.00,925,1709,+118%,+$0,-1.0,2.0,-1.0,16.0,WDFC
+213,,2015-12-10 12:16:37,2015-12-08,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,925,20130,+5%,+$0,-1.0,2.0,-1.0,16.0,WDFC
+214,,2015-12-10 12:15:26,2015-12-08,WDFC,Bateman Giles H,Dir,A - Grant,$0.00,552,14877,+4%,+$0,-1.0,2.0,-1.0,16.0,WDFC
+215,,2015-11-24 16:59:42,2015-11-23,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$100.00,-843,11108,-7%,"-$84,300",1.0,-1.0,-1.0,11.0,WDFC
+216,,2015-11-17 11:31:25,2015-11-16,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale,$94.86,-3709,27286,-12%,"-$351,836",0.0,4.0,6.0,11.0,WDFC
+217,,2015-10-27 19:01:03,2015-10-23,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",D - Sale to issuer,$0.00,-867,7319,-11%,-$0,3.0,3.0,6.0,9.0,WDFC
+218,,2015-10-27 19:00:00,2015-10-23,WDFC,Clampitt Richard T,"VP, GC",D - Sale to issuer,$0.00,-271,5100,-5%,-$0,3.0,3.0,6.0,9.0,WDFC
+219,,2015-10-27 18:57:55,2015-10-23,WDFC,Noble William B,"MD, Europe",D - Sale to issuer,$0.00,-1482,12342,-11%,-$0,3.0,3.0,6.0,9.0,WDFC
+220,,2015-10-27 18:56:28,2015-10-23,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$0.00,-1679,30986,-5%,-$0,3.0,3.0,6.0,9.0,WDFC
+221,,2015-10-27 18:55:11,2015-10-23,WDFC,Rembolt Jay,"VP Finance, CFO",D - Sale to issuer,$0.00,-1446,32300,-4%,-$0,3.0,3.0,6.0,9.0,WDFC
+222,,2015-10-27 18:53:36,2015-10-23,WDFC,Ridge Garry O,"Pres, CEO",D - Sale to issuer,$0.00,-9382,96244,-9%,-$0,3.0,3.0,6.0,9.0,WDFC
+223,DM,2015-10-26 14:35:02,2015-10-22,WDFC,Collato Richard A,Dir,M - OptEx,$32.78,3800,13438,+39%,"+$124,564",0.0,1.0,5.0,9.0,WDFC
+224,DM,2015-10-26 14:35:02,2015-10-22,WDFC,Collato Richard A,Dir,S - Sale+OE,$95.05,-3800,13438,-22%,"-$361,178",0.0,1.0,5.0,9.0,WDFC
+225,D,2015-10-22 16:00:17,2015-10-20,WDFC,Bateman Giles H,Dir,M - OptEx,$27.87,3500,14325,+32%,"+$97,545",0.0,2.0,4.0,7.0,WDFC
+226,D,2015-10-22 16:00:17,2015-10-20,WDFC,Bateman Giles H,Dir,S - Sale+OE,$92.65,-1076,14325,-7%,"-$99,691",0.0,2.0,4.0,7.0,WDFC
+227,,2015-10-14 19:14:35,2015-10-12,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",A - Grant,$0.00,2535,8186,+45%,+$0,0.0,0.0,4.0,9.0,WDFC
+228,,2015-10-14 19:13:26,2015-10-12,WDFC,Clampitt Richard T,"VP, GC",A - Grant,$0.00,1558,5371,+41%,+$0,0.0,0.0,4.0,9.0,WDFC
+229,,2015-10-14 19:09:58,2015-10-12,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,1834,11951,+18%,+$0,0.0,0.0,4.0,9.0,WDFC
+230,,2015-10-14 19:07:36,2015-10-12,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,2257,13824,+20%,+$0,0.0,0.0,4.0,9.0,WDFC
+231,,2015-10-14 19:02:43,2015-10-12,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,3411,32665,+12%,+$0,0.0,0.0,4.0,9.0,WDFC
+232,,2015-10-14 19:01:16,2015-10-12,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,3145,33746,+10%,+$0,0.0,0.0,4.0,9.0,WDFC
+233,,2015-10-14 18:59:24,2015-10-12,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,15209,105626,+17%,+$0,0.0,0.0,4.0,9.0,WDFC
+234,D,2015-07-21 16:05:09,2015-07-20,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$27.27,1000,30576,+3%,"+$27,270",1.0,-1.0,0.0,12.0,WDFC
+235,D,2015-07-21 16:05:09,2015-07-20,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$89.80,-570,30576,-2%,"-$51,186",1.0,-1.0,0.0,12.0,WDFC
+236,,2015-06-24 15:56:09,2015-06-22,WDFC,Claassen Melissa,Dir,A - Grant,$0.00,199,784,+34%,+$0,-1.0,0.0,2.0,16.0,WDFC
+237,D,2015-06-22 13:47:57,2015-06-18,WDFC,Collato Richard A,Dir,M - OptEx,$27.87,3500,13438,+35%,"+$97,545",0.0,0.0,2.0,18.0,WDFC
+238,D,2015-06-22 13:47:57,2015-06-18,WDFC,Collato Richard A,Dir,S - Sale+OE,$87.00,-3500,13438,-21%,"-$304,500",0.0,0.0,2.0,18.0,WDFC
+239,DM,2015-06-17 14:34:47,2015-06-16,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$36.03,10270,89756,+13%,"+$370,028",1.0,2.0,5.0,16.0,WDFC
+240,DM,2015-06-17 14:34:47,2015-06-16,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$86.03,-10270,89756,-10%,"-$883,528",1.0,2.0,5.0,16.0,WDFC
+241,D,2015-06-01 19:22:20,2015-05-28,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$36.03,273,89756,0%,"+$9,836",-1.0,-1.0,2.0,20.0,WDFC
+242,D,2015-06-01 19:22:20,2015-05-28,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$86.03,-273,89756,0%,"-$23,486",-1.0,-1.0,2.0,20.0,WDFC
+243,D,2015-05-27 16:55:22,2015-05-22,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$36.03,1765,89756,+2%,"+$63,593",0.0,-2.0,1.0,16.0,WDFC
+244,D,2015-05-27 16:55:22,2015-05-22,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$86.03,-1765,89756,-2%,"-$151,843",0.0,-2.0,1.0,16.0,WDFC
+245,DM,2015-05-20 19:22:01,2015-05-18,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$36.03,7692,89756,+9%,"+$277,143",-1.0,0.0,2.0,13.0,WDFC
+246,DM,2015-05-20 19:22:01,2015-05-18,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$86.03,-7692,89756,-8%,"-$661,743",-1.0,0.0,2.0,13.0,WDFC
+247,,2015-05-20 13:40:10,2015-05-18,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$85.01,-2004,10117,-17%,"-$170,360",0.0,0.0,2.0,13.0,WDFC
+248,D,2015-04-30 17:08:47,2015-04-29,WDFC,Lang Linda,Dir,M - OptEx,$30.43,7300,16583,+79%,"+$222,109",1.0,2.0,4.0,17.0,WDFC
+249,D,2015-04-30 17:08:47,2015-04-29,WDFC,Lang Linda,Dir,S - Sale+OE,$83.29,-7300,16583,-31%,"-$608,017",1.0,2.0,4.0,17.0,WDFC
+250,DM,2015-03-26 13:18:31,2015-03-24,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$27.27,2000,30120,+7%,"+$54,540",-1.0,2.0,-2.0,3.0,WDFC
+251,DM,2015-03-26 13:18:31,2015-03-24,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$88.03,-1212,30120,-4%,"-$106,692",-1.0,2.0,-2.0,3.0,WDFC
+252,,2014-12-30 11:11:30,2014-12-26,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$85.01,-1812,12121,-13%,"-$154,038",0.0,-3.0,-2.0,2.0,WDFC
+253,,2014-12-11 15:54:58,2014-12-09,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,1113,24491,+5%,+$0,1.0,5.0,7.0,10.0,WDFC
+254,,2014-12-11 15:53:17,2014-12-09,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,1113,12611,+10%,+$0,1.0,5.0,7.0,10.0,WDFC
+255,,2014-12-11 15:49:50,2014-12-09,WDFC,Lang Linda,Dir,A - Grant,$0.00,1113,16583,+7%,+$0,1.0,5.0,7.0,10.0,WDFC
+256,,2014-12-11 15:48:08,2014-12-09,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,651,284438,0%,+$0,1.0,5.0,7.0,10.0,WDFC
+257,,2014-12-11 15:43:22,2014-12-09,WDFC,Collato Richard A,Dir,A - Grant,$0.00,651,13438,+5%,+$0,1.0,5.0,7.0,10.0,WDFC
+258,,2014-12-11 15:31:32,2014-12-09,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,1113,19205,+6%,+$0,1.0,5.0,7.0,10.0,WDFC
+259,,2014-12-11 15:29:57,2014-12-09,WDFC,Bateman Giles H,Dir,A - Grant,$0.00,651,12183,+6%,+$0,1.0,5.0,7.0,10.0,WDFC
+260,D,2014-12-04 17:06:38,2014-12-03,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$27.27,2000,29305,+7%,"+$54,540",1.0,-1.0,7.0,8.0,WDFC
+261,D,2014-12-04 17:06:38,2014-12-03,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$78.00,-1191,29305,-4%,"-$92,898",1.0,-1.0,7.0,8.0,WDFC
+262,M,2014-11-21 18:33:16,2014-10-15,WDFC,Crivello Mario L,Dir,G - Gift,$0.00,-639767,283787,-180%,-$0,0.0,0.0,11.0,11.0,WDFC
+263,,2014-10-28 18:16:24,2014-10-24,WDFC,Clampitt Richard T,"VP, GC",D - Sale to issuer,$0.00,-171,3813,-4%,-$0,0.0,2.0,1.0,12.0,WDFC
+264,,2014-10-28 18:14:45,2014-10-24,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",D - Sale to issuer,$0.00,-212,5634,-4%,-$0,0.0,2.0,1.0,12.0,WDFC
+265,,2014-10-28 18:12:47,2014-10-24,WDFC,Noble William B,"MD, Europe",D - Sale to issuer,$0.00,-457,11567,-4%,-$0,0.0,2.0,1.0,12.0,WDFC
+266,,2014-10-28 18:08:11,2014-10-24,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$0.00,-523,29215,-2%,-$0,0.0,2.0,1.0,12.0,WDFC
+267,,2014-10-28 18:06:06,2014-10-24,WDFC,Rembolt Jay,"VP Finance, CFO",D - Sale to issuer,$0.00,-490,28471,-2%,-$0,0.0,2.0,1.0,12.0,WDFC
+268,,2014-10-28 18:03:00,2014-10-24,WDFC,Ridge Garry O,"Pres, CEO",D - Sale to issuer,$0.00,-1968,89740,-2%,-$0,0.0,2.0,1.0,12.0,WDFC
+269,D,2014-10-27 16:35:05,2014-10-23,WDFC,Bewley Peter D,Dir,M - OptEx,$28.47,6000,18092,+50%,"+$170,845",1.0,3.0,2.0,14.0,WDFC
+270,D,2014-10-27 16:35:05,2014-10-23,WDFC,Bewley Peter D,Dir,S - Sale+OE,$74.67,-6000,18092,-25%,"-$448,020",1.0,3.0,2.0,14.0,WDFC
+271,M,2014-10-23 13:59:51,2014-10-21,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale,$75.00,-1774,29738,-6%,"-$133,050",0.0,1.0,2.0,14.0,WDFC
+272,DM,2014-10-23 13:56:02,2014-10-21,WDFC,Collato Richard A,Dir,M - OptEx,$29.11,2500,12787,+24%,"+$72,775",0.0,1.0,2.0,14.0,WDFC
+273,DM,2014-10-23 13:56:02,2014-10-21,WDFC,Collato Richard A,Dir,S - Sale+OE,$75.00,-2500,12787,-16%,"-$187,500",0.0,1.0,2.0,14.0,WDFC
+274,D,2014-10-21 17:34:45,2014-10-17,WDFC,Schmale Neal E,Dir,M - OptEx,$30.43,7300,23378,+45%,"+$222,109",-1.0,0.0,1.0,13.0,WDFC
+275,D,2014-10-21 17:34:45,2014-10-17,WDFC,Schmale Neal E,Dir,S - Sale+OE,$70.75,-5264,23378,-18%,"-$372,428",-1.0,0.0,1.0,13.0,WDFC
+276,,2014-10-15 20:05:03,2014-10-13,WDFC,Clampitt Richard T,"VP, GC",A - Grant,$0.00,1612,3984,+68%,+$0,2.0,12.0,16.0,25.0,WDFC
+277,,2014-10-15 20:03:19,2014-10-13,WDFC,Sewitch Stanley Jr,"VP, Global Org. Dev.",A - Grant,$0.00,1612,5846,+38%,+$0,2.0,12.0,16.0,25.0,WDFC
+278,,2014-10-15 19:53:35,2014-10-13,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,1612,12024,+15%,+$0,2.0,12.0,16.0,25.0,WDFC
+279,,2014-10-15 19:43:07,2014-10-13,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,9530,91708,+12%,+$0,2.0,12.0,16.0,25.0,WDFC
+280,,2014-10-15 19:20:12,2014-10-13,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,1098,13933,+9%,+$0,2.0,12.0,16.0,25.0,WDFC
+281,,2014-10-15 19:14:05,2014-10-13,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,2198,31512,+7%,+$0,2.0,12.0,16.0,25.0,WDFC
+282,,2014-10-15 18:59:05,2014-10-13,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,2198,28961,+8%,+$0,2.0,12.0,16.0,25.0,WDFC
+283,D,2014-10-14 16:41:37,2014-10-13,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$27.67,1000,26763,+4%,"+$27,670",-1.0,10.0,15.0,25.0,WDFC
+284,D,2014-10-14 16:41:37,2014-10-13,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$66.82,-709,26763,-3%,"-$47,375",-1.0,10.0,15.0,25.0,WDFC
+285,,2014-08-04 16:53:48,2014-08-01,WDFC,Noble William B,"MD, Europe",S - Sale,$66.69,-1793,10412,-15%,"-$119,575",1.0,3.0,4.0,25.0,WDFC
+286,M,2014-02-12 19:20:24,2014-02-11,WDFC,Noble William B,"MD, Europe",S - Sale,$69.04,-4325,12205,-26%,"-$298,619",1.0,1.0,9.0,1.0,WDFC
+287,,2013-12-12 19:51:36,2013-12-10,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,1174,21342,+6%,+$0,2.0,0.0,1.0,0.0,WDFC
+288,,2013-12-12 17:53:12,2013-12-10,WDFC,Lang Linda,Dir,A - Grant,$0.00,1174,15470,+8%,+$0,2.0,0.0,1.0,0.0,WDFC
+289,,2013-12-12 17:51:15,2013-12-10,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,687,721148,0%,+$0,2.0,0.0,1.0,0.0,WDFC
+290,,2013-12-12 17:48:03,2013-12-10,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,1174,18092,+7%,+$0,2.0,0.0,1.0,0.0,WDFC
+291,,2013-12-12 17:46:02,2013-12-10,WDFC,Bateman Giles H,Dir,A - Grant,$0.00,687,11457,+6%,+$0,2.0,0.0,1.0,0.0,WDFC
+292,,2013-12-12 16:09:53,2013-12-10,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,1174,11498,+11%,+$0,2.0,0.0,1.0,0.0,WDFC
+293,,2013-12-12 16:02:36,2013-12-10,WDFC,Collato Richard A,Dir,A - Grant,$0.00,687,12787,+6%,+$0,2.0,0.0,1.0,0.0,WDFC
+294,A,2013-10-30 20:07:30,2013-10-14,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,2284,30505,+8%,+$0,0.0,0.0,4.0,2.0,WDFC
+295,A,2013-10-30 20:07:30,2013-10-14,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$0.00,-413,30505,-1%,-$0,0.0,0.0,4.0,2.0,WDFC
+296,A,2013-10-30 20:05:30,2013-10-14,WDFC,Irwin Michael J,EVP,A - Grant,$0.00,1218,22616,+6%,+$0,0.0,0.0,4.0,2.0,WDFC
+297,A,2013-10-30 20:05:30,2013-10-14,WDFC,Irwin Michael J,EVP,D - Sale to issuer,$0.00,-276,22616,-1%,-$0,0.0,0.0,4.0,2.0,WDFC
+298,,2013-10-30 18:59:32,2013-10-30,WDFC,Irwin Michael J,EVP,S - Sale,$72.18,-12176,9551,-56%,"-$878,803",0.0,0.0,4.0,2.0,WDFC
+299,D,2013-10-30 18:48:42,2013-10-28,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$36.03,10000,70412,+17%,"+$360,300",0.0,0.0,4.0,2.0,WDFC
+300,D,2013-10-30 18:48:42,2013-10-28,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$69.21,-10000,70412,-12%,"-$692,090",0.0,0.0,4.0,2.0,WDFC
+301,,2013-10-29 20:15:58,2013-10-25,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$0.00,-1233,29272,-4%,-$0,-1.0,-2.0,2.0,1.0,WDFC
+302,,2013-10-29 20:12:25,2013-10-25,WDFC,Milner Graham P,EVP,D - Sale to issuer,$0.00,-889,10344,-8%,-$0,-1.0,-2.0,2.0,1.0,WDFC
+303,,2013-10-29 19:57:27,2013-10-25,WDFC,Noble William B,"MD, Europe",D - Sale to issuer,$0.00,-1121,16530,-6%,-$0,-1.0,-2.0,2.0,1.0,WDFC
+304,,2013-10-29 19:39:11,2013-10-25,WDFC,Mitchell Maria,"VP, Corporate Secretary",D - Sale to issuer,$0.00,-580,13851,-4%,-$0,-1.0,-2.0,2.0,1.0,WDFC
+305,,2013-10-29 19:22:26,2013-10-25,WDFC,Rembolt Jay,"VP Finance, CFO",D - Sale to issuer,$0.00,-1199,26360,-4%,-$0,-1.0,-2.0,2.0,1.0,WDFC
+306,,2013-10-29 19:20:49,2013-10-25,WDFC,Irwin Michael J,EVP,D - Sale to issuer,$0.00,-889,21727,-4%,-$0,-1.0,-2.0,2.0,1.0,WDFC
+307,,2013-10-29 19:18:49,2013-10-25,WDFC,Ridge Garry O,"Pres, CEO",D - Sale to issuer,$0.00,-5188,70412,-7%,-$0,-1.0,-2.0,2.0,1.0,WDFC
+308,D,2013-10-25 16:20:29,2013-10-24,WDFC,Noble William B,"MD, Europe",M - OptEx,$36.03,10000,17651,+131%,"+$360,300",2.0,4.0,7.0,5.0,WDFC
+309,D,2013-10-25 16:20:29,2013-10-24,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$70.06,-10000,17651,-36%,"-$700,620",2.0,4.0,7.0,5.0,WDFC
+310,,2013-10-24 17:32:54,2013-10-22,WDFC,Milner Graham P,EVP,S - Sale,$69.85,-12240,11233,-52%,"-$855,013",0.0,3.0,6.0,4.0,WDFC
+311,,2013-10-16 20:28:13,2013-10-14,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,1142,12835,+10%,+$0,1.0,7.0,12.0,9.0,WDFC
+312,,2013-10-16 20:28:13,2013-10-14,WDFC,Holdsworth Geoffrey,MD AsiaPacific,D - Sale to issuer,$0.00,-276,12835,-2%,-$0,1.0,7.0,12.0,9.0,WDFC
+313,,2013-10-16 20:27:15,2013-10-14,WDFC,Milner Graham P,EVP,A - Grant,$0.00,1218,23473,+5%,+$0,1.0,7.0,12.0,9.0,WDFC
+314,,2013-10-16 20:27:15,2013-10-14,WDFC,Milner Graham P,EVP,D - Sale to issuer,$0.00,-276,23473,-1%,-$0,1.0,7.0,12.0,9.0,WDFC
+315,,2013-10-16 20:26:18,2013-10-14,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,1676,17651,+10%,+$0,1.0,7.0,12.0,9.0,WDFC
+316,,2013-10-16 20:26:18,2013-10-14,WDFC,Noble William B,"MD, Europe",D - Sale to issuer,$0.00,-276,17651,-2%,-$0,1.0,7.0,12.0,9.0,WDFC
+317,,2013-10-16 20:25:15,2013-10-14,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,2284,27319,+9%,+$0,1.0,7.0,12.0,9.0,WDFC
+318,,2013-10-16 20:25:15,2013-10-14,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$0.00,-413,27319,-1%,-$0,1.0,7.0,12.0,9.0,WDFC
+319,,2013-10-16 20:23:33,2013-10-14,WDFC,Irwin Michael J,EVP,A - Grant,$0.00,1218,20492,+6%,+$0,1.0,7.0,12.0,9.0,WDFC
+320,,2013-10-16 20:23:33,2013-10-14,WDFC,Irwin Michael J,EVP,D - Sale to issuer,$0.00,-276,20492,-1%,-$0,1.0,7.0,12.0,9.0,WDFC
+321,,2013-10-16 20:22:23,2013-10-14,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,2284,27559,+9%,+$0,1.0,7.0,12.0,9.0,WDFC
+322,,2013-10-16 20:22:23,2013-10-14,WDFC,Rembolt Jay,"VP Finance, CFO",D - Sale to issuer,$0.00,-413,27559,-1%,-$0,1.0,7.0,12.0,9.0,WDFC
+323,,2013-10-16 20:20:22,2013-10-14,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,9142,75600,+14%,+$0,1.0,7.0,12.0,9.0,WDFC
+324,,2013-10-16 20:20:22,2013-10-14,WDFC,Ridge Garry O,"Pres, CEO",D - Sale to issuer,$0.00,-1378,75600,-2%,-$0,1.0,7.0,12.0,9.0,WDFC
+325,D,2013-09-23 18:15:50,2013-09-20,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$27.67,1898,25688,+8%,"+$52,518",-1.0,0.0,8.0,21.0,WDFC
+326,D,2013-09-23 18:15:50,2013-09-20,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$64.00,-1229,25688,-5%,"-$78,656",-1.0,0.0,8.0,21.0,WDFC
+327,D,2013-09-18 14:26:03,2013-09-16,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$27.67,102,25019,0%,"+$2,822",1.0,2.0,5.0,23.0,WDFC
+328,D,2013-09-18 14:26:03,2013-09-16,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$64.00,-66,25019,0%,"-$4,224",1.0,2.0,5.0,23.0,WDFC
+329,D,2013-08-09 16:04:53,2013-08-08,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$36.03,2539,67836,+4%,"+$91,480",0.0,-2.0,2.0,19.0,WDFC
+330,D,2013-08-09 16:04:53,2013-08-08,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$58.53,-2539,67836,-4%,"-$148,608",0.0,-2.0,2.0,19.0,WDFC
+331,DM,2013-08-07 19:11:22,2013-08-06,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$36.03,7461,67836,+12%,"+$268,820",1.0,0.0,1.0,16.0,WDFC
+332,DM,2013-08-07 19:11:22,2013-08-06,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$53.53,-7461,67836,-10%,"-$399,387",1.0,0.0,1.0,16.0,WDFC
+333,,2013-08-05 18:09:16,2013-08-02,WDFC,Mitchell Maria,"VP, Corporate Secretary",P - Purchase,$58.19,52,14431,0%,"+$3,026",0.0,-1.0,-1.0,16.0,WDFC
+334,D,2013-07-18 15:10:51,2013-01-07,WDFC,Crivello Mario L,Dir,G - Gift,$47.59,11466,720461,-2%,"+$545,667",0.0,0.0,-1.0,27.0,WDFC
+335,D,2013-07-18 15:10:51,2013-07-16,WDFC,Crivello Mario L,Dir,M - OptEx,$34.74,2000,720461,0%,"+$69,480",0.0,0.0,-1.0,27.0,WDFC
+336,D,2013-07-18 15:10:51,2013-07-16,WDFC,Crivello Mario L,Dir,S - Sale+OE,$57.90,-2000,720461,0%,"-$115,800",0.0,0.0,-1.0,27.0,WDFC
+337,,2013-07-17 15:11:28,2013-07-15,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$58.22,-2804,11969,-19%,"-$163,249",0.0,0.0,1.0,28.0,WDFC
+338,D,2013-07-11 19:15:01,2013-07-09,WDFC,Noble William B,"MD, Europe",M - OptEx,$36.01,10000,16251,+160%,"+$360,100",2.0,1.0,2.0,33.0,WDFC
+339,D,2013-07-11 19:15:01,2013-07-09,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$62.66,-10000,16251,-38%,"-$626,600",2.0,1.0,2.0,33.0,WDFC
+340,D,2013-07-11 19:12:55,2013-07-09,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$27.67,2000,24952,+9%,"+$55,340",2.0,1.0,2.0,33.0,WDFC
+341,D,2013-07-11 19:12:55,2013-07-09,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$62.66,-1323,24952,-5%,"-$82,899",2.0,1.0,2.0,33.0,WDFC
+342,D,2013-06-20 17:40:26,2013-06-18,WDFC,Noble William B,"MD, Europe",M - OptEx,$36.03,2025,16251,+14%,"+$72,961",1.0,0.0,8.0,37.0,WDFC
+343,D,2013-06-20 17:40:26,2013-06-18,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$57.00,-2025,16251,-11%,"-$115,425",1.0,0.0,8.0,37.0,WDFC
+344,D,2013-06-12 14:22:22,2013-06-10,WDFC,Noble William B,"MD, Europe",M - OptEx,$36.03,2440,16251,+18%,"+$87,913",-2.0,2.0,3.0,35.0,WDFC
+345,D,2013-06-12 14:22:22,2013-06-10,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$57.00,-2440,16251,-13%,"-$139,080",-2.0,2.0,3.0,35.0,WDFC
+346,D,2013-05-21 19:21:25,2013-05-17,WDFC,Noble William B,"MD, Europe",M - OptEx,$36.03,535,16251,+3%,"+$19,276",-1.0,2.0,0.0,34.0,WDFC
+347,D,2013-05-21 19:21:25,2013-05-17,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$57.00,-535,16251,-3%,"-$30,495",-1.0,2.0,0.0,34.0,WDFC
+348,,2013-05-21 17:17:02,2013-05-21,WDFC,Bateman Giles H,Dir,S - Sale,$55.77,-600,10770,-5%,"-$33,462",-1.0,2.0,0.0,34.0,WDFC
+349,D,2013-05-20 17:20:00,2013-05-16,WDFC,Bateman Giles H,Dir,M - OptEx,$30.72,6500,11370,+133%,"+$199,695",-1.0,-1.0,3.0,33.0,WDFC
+350,D,2013-05-20 17:20:00,2013-05-16,WDFC,Bateman Giles H,Dir,S - Sale+OE,$56.83,-3718,11370,-25%,"-$211,294",-1.0,-1.0,3.0,33.0,WDFC
+351,D,2013-05-13 17:41:17,2013-05-10,WDFC,Noble William B,"MD, Europe",M - OptEx,$35.99,2352,16251,+17%,"+$84,648",1.0,1.0,0.0,29.0,WDFC
+352,D,2013-05-13 17:41:17,2013-05-10,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$55.95,-2352,16251,-13%,"-$131,594",1.0,1.0,0.0,29.0,WDFC
+353,D,2013-05-13 17:35:22,2013-05-10,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$29.30,1000,24275,+4%,"+$29,300",1.0,1.0,0.0,29.0,WDFC
+354,D,2013-05-13 17:35:22,2013-05-10,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$56.00,-702,24275,-3%,"-$39,312",1.0,1.0,0.0,29.0,WDFC
+355,D,2013-05-09 14:29:07,2013-05-07,WDFC,Noble William B,"MD, Europe",M - OptEx,$35.99,2648,16251,+19%,"+$95,302",-1.0,2.0,1.0,30.0,WDFC
+356,D,2013-05-09 14:29:07,2013-05-07,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$55.95,-2648,16251,-14%,"-$148,156",-1.0,2.0,1.0,30.0,WDFC
+357,,2013-05-02 16:39:43,2013-05-01,WDFC,Mitchell Maria,"VP, Corporate Secretary",P - Purchase,$52.75,57,14376,0%,"+$3,007",3.0,4.0,1.0,38.0,WDFC
+358,,2013-04-18 18:53:33,2013-04-16,WDFC,Milner Graham P,EVP,S - Sale,$54.34,-2000,22514,-8%,"-$108,689",1.0,1.0,5.0,23.0,WDFC
+359,D,2013-02-21 18:45:33,2013-02-19,WDFC,Noble William B,"MD, Europe",M - OptEx,$29.30,2000,16251,+14%,"+$58,600",0.0,0.0,-1.0,11.0,WDFC
+360,D,2013-02-21 18:45:33,2013-02-19,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$54.75,-2000,16251,-11%,"-$109,500",0.0,0.0,-1.0,11.0,WDFC
+361,DM,2013-02-21 16:21:33,2013-02-19,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$29.30,2000,23944,+9%,"+$58,600",0.0,0.0,-1.0,11.0,WDFC
+362,DM,2013-02-21 16:21:33,2013-02-19,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$55.00,-1470,23944,-6%,"-$80,850",0.0,0.0,-1.0,11.0,WDFC
+363,D,2013-02-20 18:48:45,2013-02-19,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$29.30,101,23450,0%,"+$2,959",0.0,0.0,0.0,10.0,WDFC
+364,D,2013-02-20 18:48:45,2013-02-19,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$55.00,-65,23450,0%,"-$3,575",0.0,0.0,0.0,10.0,WDFC
+365,D,2013-02-19 19:59:19,2013-02-14,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$29.30,2000,23414,+9%,"+$58,600",-2.0,-3.0,-3.0,8.0,WDFC
+366,D,2013-02-19 19:59:19,2013-02-14,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$54.01,-1481,23414,-6%,"-$79,983",-2.0,-3.0,-3.0,8.0,WDFC
+367,D,2013-02-12 16:23:27,2013-02-08,WDFC,Noble William B,"MD, Europe",M - OptEx,$29.30,3000,16251,+23%,"+$87,900",1.0,2.0,0.0,10.0,WDFC
+368,D,2013-02-12 16:23:27,2013-02-08,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$53.95,-3000,16251,-16%,"-$161,850",1.0,2.0,0.0,10.0,WDFC
+369,,2013-02-06 19:48:30,2013-02-04,WDFC,Mitchell Maria,"VP, Corporate Secretary",P - Purchase,$52.67,57,14315,0%,"+$3,002",0.0,1.0,3.0,11.0,WDFC
+370,DM,2013-02-06 19:47:14,2013-02-04,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$36.03,9608,67816,+17%,"+$346,176",0.0,1.0,3.0,11.0,WDFC
+371,DM,2013-02-06 19:47:14,2013-02-05,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$53.03,-9608,67816,-12%,"-$509,512",0.0,1.0,3.0,11.0,WDFC
+372,D,2013-02-01 17:43:38,2013-01-30,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$36.03,132,67816,0%,"+$4,756",-3.0,0.0,1.0,11.0,WDFC
+373,D,2013-02-01 17:43:38,2013-01-30,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$54.03,-132,67816,0%,"-$7,132",-3.0,0.0,1.0,11.0,WDFC
+374,DM,2013-01-29 20:05:52,2013-01-25,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$36.03,10260,67816,+18%,"+$369,668",-1.0,-3.0,0.0,9.0,WDFC
+375,DM,2013-01-29 20:05:52,2013-01-25,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$54.03,-10260,67816,-13%,"-$554,348",-1.0,-3.0,0.0,9.0,WDFC
+376,,2012-12-27 14:55:57,2012-12-24,WDFC,Crivello Mario L,Dir,S - Sale,$45.75,-9000,730835,-1%,"-$411,786",1.0,7.0,18.0,22.0,WDFC
+377,,2012-12-18 19:08:38,2012-12-17,WDFC,Crivello Mario L,Dir,S - Sale,$46.63,-10000,739835,-1%,"-$466,281",-1.0,-3.0,12.0,20.0,WDFC
+378,,2012-12-13 19:30:27,2012-12-11,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,1771,20168,+10%,+$0,-1.0,-1.0,9.0,21.0,WDFC
+379,,2012-12-13 18:59:54,2012-12-11,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,1771,10324,+21%,+$0,-1.0,-1.0,9.0,21.0,WDFC
+380,,2012-12-13 18:59:07,2012-12-11,WDFC,Lang Linda,Dir,A - Grant,$0.00,1771,14296,+14%,+$0,-1.0,-1.0,9.0,21.0,WDFC
+381,,2012-12-13 18:58:13,2012-12-11,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,1033,749835,0%,+$0,-1.0,-1.0,9.0,21.0,WDFC
+382,,2012-12-13 18:57:11,2012-12-11,WDFC,Collato Richard A,Dir,A - Grant,$0.00,1033,12100,+9%,+$0,-1.0,-1.0,9.0,21.0,WDFC
+383,,2012-12-13 18:53:46,2012-12-11,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,1771,16918,+12%,+$0,-1.0,-1.0,9.0,21.0,WDFC
+384,,2012-12-13 18:52:44,2012-12-11,WDFC,Bateman Giles H,Dir,A - Grant,$0.00,1033,8588,+14%,+$0,-1.0,-1.0,9.0,21.0,WDFC
+385,,2012-12-10 18:46:46,2012-12-10,WDFC,Crivello Mario L,Dir,S - Sale,$46.28,-10000,748802,-1%,"-$462,792",2.0,0.0,14.0,23.0,WDFC
+386,M,2012-12-04 19:47:43,2012-12-03,WDFC,Crivello Mario L,Dir,S - Sale,$29.07,-10000,758802,-1%,"-$290,658",0.0,-1.0,4.0,20.0,WDFC
+387,M,2012-11-28 19:14:58,2012-11-26,WDFC,Crivello Mario L,Dir,S - Sale,$47.31,-10000,768802,-1%,"-$473,072",0.0,0.0,-1.0,19.0,WDFC
+388,,2012-11-21 17:11:57,2012-11-19,WDFC,Crivello Mario L,Dir,S - Sale,$46.75,-10000,778802,-1%,"-$467,538",0.0,-1.0,-2.0,17.0,WDFC
+389,,2012-11-19 11:43:06,2012-11-13,WDFC,Mitchell Maria,"VP, Corporate Secretary",P - Purchase,$47.23,68,14255,0%,"+$3,212",1.0,2.0,1.0,21.0,WDFC
+390,DM,2012-11-16 17:21:22,2012-11-14,WDFC,Crivello Mario L,Dir,M - OptEx,$29.44,9800,788802,+1%,"+$288,501",1.0,1.0,0.0,22.0,WDFC
+391,DM,2012-11-16 17:21:22,2012-11-14,WDFC,Crivello Mario L,Dir,S - Sale+OE,$46.15,-9800,788802,-1%,"-$452,263",1.0,1.0,0.0,22.0,WDFC
+392,M,2012-11-14 19:12:50,2012-11-12,WDFC,Crivello Mario L,Dir,S - Sale,$47.21,-10000,788802,-1%,"-$472,129",0.0,2.0,2.0,23.0,WDFC
+393,,2012-11-07 11:20:50,2012-11-05,WDFC,Mitchell Maria,"VP, Corporate Secretary",P - Purchase,$46.94,639,14187,+5%,"+$29,995",-1.0,0.0,-2.0,19.0,WDFC
+394,,2012-10-29 19:40:38,2012-10-25,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,12746,67809,+23%,+$0,1.0,-1.0,-2.0,14.0,WDFC
+395,,2012-10-29 19:39:35,2012-10-25,WDFC,Milner Graham P,EVP,A - Grant,$0.00,2124,24495,+9%,+$0,1.0,-1.0,-2.0,14.0,WDFC
+396,,2012-10-29 19:38:35,2012-10-25,WDFC,Irwin Michael J,EVP,A - Grant,$0.00,2124,21656,+11%,+$0,1.0,-1.0,-2.0,14.0,WDFC
+397,,2012-10-29 19:37:51,2012-10-25,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,3186,28584,+13%,+$0,1.0,-1.0,-2.0,14.0,WDFC
+398,,2012-10-29 19:37:01,2012-10-25,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,1592,14773,+12%,+$0,1.0,-1.0,-2.0,14.0,WDFC
+399,,2012-10-29 19:36:17,2012-10-25,WDFC,Mitchell Maria,"VP, Corporate Secretary",A - Grant,$0.00,1252,13544,+10%,+$0,1.0,-1.0,-2.0,14.0,WDFC
+400,,2012-10-29 19:35:35,2012-10-25,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,2230,16251,+16%,+$0,1.0,-1.0,-2.0,14.0,WDFC
+401,,2012-10-29 19:34:43,2012-10-25,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,2654,22827,+13%,+$0,1.0,-1.0,-2.0,14.0,WDFC
+402,,2012-10-23 19:36:34,2012-10-08,WDFC,Holdsworth Geoffrey,MD AsiaPacific,D - Sale to issuer,$0.00,-1248,13181,-9%,-$0,-1.0,1.0,0.0,16.0,WDFC
+403,M,2012-10-23 19:34:34,2012-10-08,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$0.00,-2238,25398,-8%,-$0,-1.0,1.0,0.0,16.0,WDFC
+404,M,2012-10-23 19:30:51,2012-10-08,WDFC,Irwin Michael J,EVP,D - Sale to issuer,$0.00,-2178,19532,-10%,-$0,-1.0,1.0,0.0,16.0,WDFC
+405,,2012-10-23 19:28:58,2012-10-22,WDFC,Mitchell Maria,"VP, Corporate Secretary",D - Sale to issuer,$0.00,-802,12232,-6%,-$0,-1.0,1.0,0.0,16.0,WDFC
+406,M,2012-10-23 19:24:07,2012-10-08,WDFC,Noble William B,"MD, Europe",D - Sale to issuer,$0.00,-2567,14021,-15%,-$0,-1.0,1.0,0.0,16.0,WDFC
+407,M,2012-10-22 21:59:54,2012-10-08,WDFC,Rembolt Jay,"VP Finance, CFO",D - Sale to issuer,$0.00,-2238,20173,-10%,-$0,0.0,0.0,0.0,15.0,WDFC
+408,M,2012-10-22 21:59:13,2012-10-08,WDFC,Ridge Garry O,"Pres, CEO",D - Sale to issuer,$0.00,-8828,55063,-14%,-$0,0.0,0.0,0.0,15.0,WDFC
+409,M,2012-10-22 21:58:22,2012-10-08,WDFC,Milner Graham P,EVP,D - Sale to issuer,$0.00,-2178,22371,-9%,-$0,0.0,0.0,0.0,15.0,WDFC
+410,A,2012-10-15 20:02:03,2009-12-08,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,986,838291,0%,+$0,-7.0,-6.0,-10.0,6.0,WDFC
+411,DM,2012-09-13 19:32:14,2012-09-11,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$36.03,3500,27636,+15%,"+$126,105",-1.0,1.0,-1.0,2.0,WDFC
+412,DM,2012-09-13 19:32:14,2012-09-11,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$51.99,-3500,27636,-11%,"-$181,965",-1.0,1.0,-1.0,2.0,WDFC
+413,D,2012-09-06 11:33:45,2012-09-04,WDFC,Collato Richard A,Dir,M - OptEx,$32.32,4000,11067,+57%,"+$129,280",1.0,3.0,5.0,9.0,WDFC
+414,D,2012-09-06 11:33:45,2012-09-04,WDFC,Collato Richard A,Dir,S - Sale+OE,$50.00,-4000,11067,-27%,"-$200,000",1.0,3.0,5.0,9.0,WDFC
+415,D,2012-09-05 12:25:01,2012-09-04,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$36.03,1,27636,0%,+$36,-1.0,1.0,3.0,9.0,WDFC
+416,D,2012-09-05 12:25:01,2012-09-04,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$49.99,-1,27636,0%,-$50,-1.0,1.0,3.0,9.0,WDFC
+417,,2012-08-28 19:14:47,2012-08-23,WDFC,Mitchell Maria,"VP, Corporate Secretary",P - Purchase,$48.95,1142,13094,+10%,"+$55,901",2.0,5.0,9.0,15.0,WDFC
+418,D,2012-08-23 19:29:06,2012-08-21,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$36.03,3499,27636,+14%,"+$126,069",-1.0,1.0,8.0,12.0,WDFC
+419,D,2012-08-23 19:29:06,2012-08-21,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$49.99,-3499,27636,-11%,"-$174,915",-1.0,1.0,8.0,12.0,WDFC
+420,DM,2012-08-21 17:07:37,2012-08-17,WDFC,Holdsworth Geoffrey,MD AsiaPacific,M - OptEx,$36.03,20000,14429,-359%,"+$720,600",-1.0,-3.0,6.0,10.0,WDFC
+421,DM,2012-08-21 17:07:37,2012-08-17,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale+OE,$49.77,-20000,14429,-58%,"-$995,465",-1.0,-3.0,6.0,10.0,WDFC
+422,,2012-08-08 16:31:33,2012-08-07,WDFC,Sandfort Gregory A,Dir,P - Purchase,$49.03,5100,8553,+148%,"+$250,033",1.0,1.0,6.0,13.0,WDFC
+423,DM,2012-07-27 16:10:56,2012-07-26,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$35.99,10823,63885,+20%,"+$389,520",1.0,-2.0,0.0,13.0,WDFC
+424,DM,2012-07-27 16:10:56,2012-07-26,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$47.72,-10823,63885,-14%,"-$516,474",1.0,-2.0,0.0,13.0,WDFC
+425,D,2012-07-27 16:07:54,2012-07-26,WDFC,Schmale Neal E,Dir,M - OptEx,$31.09,6500,18397,+55%,"+$202,055",1.0,-2.0,0.0,13.0,WDFC
+426,D,2012-07-27 16:07:54,2012-07-26,WDFC,Schmale Neal E,Dir,S - Sale+OE,$47.51,-4495,18397,-20%,"-$213,559",1.0,-2.0,0.0,13.0,WDFC
+427,,2012-07-26 15:33:22,2012-07-02,WDFC,Crivello Mario L,Dir,G - Gift,$50.20,-258,797944,0%,"-$12,952",1.0,0.0,4.0,16.0,WDFC
+428,DM,2012-07-20 16:51:44,2012-07-18,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$35.99,3177,63885,+5%,"+$114,340",-1.0,0.0,5.0,14.0,WDFC
+429,DM,2012-07-20 16:51:44,2012-07-18,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$47.72,-3177,63885,-5%,"-$151,606",-1.0,0.0,5.0,14.0,WDFC
+430,D,2012-07-18 12:45:26,2012-07-16,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$35.99,21000,63885,+49%,"+$755,790",1.0,0.0,4.0,11.0,WDFC
+431,D,2012-07-18 12:45:26,2012-07-16,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$47.86,-21000,63885,-25%,"-$1,005,142",1.0,0.0,4.0,11.0,WDFC
+432,D,2012-07-17 19:24:56,2012-07-13,WDFC,Lang Linda,Dir,M - OptEx,$31.43,4500,12525,+56%,"+$141,455",1.0,0.0,3.0,9.0,WDFC
+433,D,2012-07-17 19:24:56,2012-07-13,WDFC,Lang Linda,Dir,S - Sale+OE,$48.28,-4500,12525,-26%,"-$217,251",1.0,0.0,3.0,9.0,WDFC
+434,D,2012-07-16 09:53:18,2012-07-13,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$36.02,7700,27623,+39%,"+$277,351",-3.0,-2.0,0.0,5.0,WDFC
+435,D,2012-07-16 09:53:18,2012-07-13,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$47.99,-7700,27623,-22%,"-$369,523",-3.0,-2.0,0.0,5.0,WDFC
+436,,2012-06-22 14:10:10,2012-06-19,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,401,3453,+13%,+$0,1.0,3.0,-1.0,-3.0,WDFC
+437,D,2012-05-29 14:38:38,2012-03-14,WDFC,Mitchell Maria,"VP, Corporate Secretary",M - OptEx,$36.03,6160,11948,+106%,"+$221,945",0.0,1.0,4.0,1.0,WDFC
+438,D,2012-05-29 14:38:38,2012-05-24,WDFC,Mitchell Maria,"VP, Corporate Secretary",S - Sale+OE,$47.00,-5311,11948,-31%,"-$249,617",0.0,1.0,4.0,1.0,WDFC
+439,D,2012-05-15 16:34:29,2012-05-11,WDFC,Crivello Mario L,Dir,M - OptEx,$29.90,2000,798202,0%,"+$59,800",-1.0,-2.0,2.0,2.0,WDFC
+440,D,2012-05-15 16:34:29,2012-05-11,WDFC,Crivello Mario L,Dir,S - Sale+OE,$46.51,-2000,798202,0%,"-$93,020",-1.0,-2.0,2.0,2.0,WDFC
+441,D,2012-05-15 16:19:01,2012-05-14,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$27.56,5000,22377,+29%,"+$137,800",-1.0,-2.0,2.0,2.0,WDFC
+442,D,2012-05-15 16:19:01,2012-05-14,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$46.00,-3842,22377,-15%,"-$176,732",-1.0,-2.0,2.0,2.0,WDFC
+443,DM,2012-03-15 19:17:01,2012-03-13,WDFC,Mitchell Maria,"VP, Corporate Secretary",M - OptEx,$35.99,5000,11095,+82%,"+$179,950",-1.0,-1.0,-2.0,17.0,WDFC
+444,DM,2012-03-15 19:17:01,2012-03-13,WDFC,Mitchell Maria,"VP, Corporate Secretary",S - Sale+OE,$45.39,-4392,11095,-28%,"-$199,353",-1.0,-1.0,-2.0,17.0,WDFC
+445,D,2012-03-15 14:05:07,2012-03-13,WDFC,Milner Graham P,EVP,M - OptEx,$36.01,22700,24530,>999%,"+$817,481",0.0,-1.0,-2.0,17.0,WDFC
+446,D,2012-03-15 14:05:07,2012-03-13,WDFC,Milner Graham P,EVP,S - Sale+OE,$45.03,-22700,24530,-48%,"-$1,022,160",0.0,-1.0,-2.0,17.0,WDFC
+447,,2012-02-03 17:59:30,2012-01-10,WDFC,Crivello Mario L,Dir,A - Grant,$40.23,646,798202,0%,"+$25,989",1.0,2.0,-1.0,11.0,WDFC
+448,,2012-02-03 17:59:30,2012-01-10,WDFC,Crivello Mario L,Dir,G - Gift,$40.23,-12597,798202,-2%,"-$506,777",1.0,2.0,-1.0,11.0,WDFC
+449,,2012-01-17 11:50:33,2012-01-13,WDFC,Crivello Mario L,Dir,S - Sale,$39.90,-2000,108024,-2%,"-$79,800",2.0,5.0,9.0,19.0,WDFC
+450,,2011-12-14 18:33:32,2011-12-13,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,1955,16392,+14%,+$0,2.0,4.0,3.0,26.0,WDFC
+451,,2011-12-14 18:32:25,2011-12-13,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,1955,3052,+178%,+$0,2.0,4.0,3.0,26.0,WDFC
+452,,2011-12-14 18:31:04,2011-12-13,WDFC,Lang Linda,Dir,A - Grant,$0.00,1955,12525,+18%,+$0,2.0,4.0,3.0,26.0,WDFC
+453,,2011-12-14 18:30:07,2011-12-13,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,1153,812153,0%,+$0,2.0,4.0,3.0,26.0,WDFC
+454,,2011-12-14 18:28:50,2011-12-13,WDFC,Collato Richard A,Dir,A - Grant,$0.00,1153,11067,+12%,+$0,2.0,4.0,3.0,26.0,WDFC
+455,,2011-12-14 18:27:27,2011-12-13,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,1955,15147,+15%,+$0,2.0,4.0,3.0,26.0,WDFC
+456,,2011-12-14 18:22:56,2011-12-13,WDFC,Bateman Giles H,Dir,A - Grant,$0.00,1153,7555,+18%,+$0,2.0,4.0,3.0,26.0,WDFC
+457,D,2011-12-12 18:42:51,2011-12-09,WDFC,Crivello Mario L,Dir,M - OptEx,$23.63,2000,108871,+2%,"+$47,260",0.0,1.0,1.0,22.0,WDFC
+458,D,2011-10-26 11:14:19,2011-10-24,WDFC,Holdsworth Geoffrey,MD AsiaPacific,M - OptEx,$35.99,10000,14429,+226%,"+$359,900",0.0,-6.0,-14.0,3.0,WDFC
+459,D,2011-10-26 11:14:19,2011-10-24,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale+OE,$47.01,-10000,14429,-41%,"-$470,100",0.0,-6.0,-14.0,3.0,WDFC
+460,,2011-10-24 21:57:14,2011-10-20,WDFC,Mitchell Maria,"VP, Corporate Secretary",D - Sale to issuer,$44.93,-782,10480,-7%,"-$35,135",-5.0,-6.0,-16.0,-5.0,WDFC
+461,,2011-10-24 21:55:57,2011-10-20,WDFC,Noble William B,"MD, Europe",D - Sale to issuer,$44.93,-2087,16588,-11%,"-$93,769",-5.0,-6.0,-16.0,-5.0,WDFC
+462,,2011-10-24 21:41:39,2011-10-20,WDFC,Milner Graham P,EVP,D - Sale to issuer,$44.93,-1501,24510,-6%,"-$67,440",-5.0,-6.0,-16.0,-5.0,WDFC
+463,,2011-10-24 21:40:28,2011-10-20,WDFC,Irwin Michael J,EVP,D - Sale to issuer,$44.93,-1501,21690,-6%,"-$67,440",-5.0,-6.0,-16.0,-5.0,WDFC
+464,,2011-10-24 21:39:18,2011-10-20,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$44.93,-1501,27582,-5%,"-$67,440",-5.0,-6.0,-16.0,-5.0,WDFC
+465,,2011-10-24 21:38:00,2011-10-20,WDFC,Rembolt Jay,"VP Finance, CFO",D - Sale to issuer,$44.93,-1501,21111,-7%,"-$67,440",-5.0,-6.0,-16.0,-5.0,WDFC
+466,,2011-10-24 21:36:55,2011-10-20,WDFC,Ridge Garry O,"Pres, CEO",D - Sale to issuer,$44.93,-6249,63863,-9%,"-$280,768",-5.0,-6.0,-16.0,-5.0,WDFC
+467,,2011-10-13 21:59:18,2011-10-11,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,2386,18675,+15%,+$0,3.0,4.0,-2.0,3.0,WDFC
+468,,2011-10-13 21:59:18,2011-10-11,WDFC,Noble William B,"MD, Europe",D - Sale to issuer,$0.00,-1116,18675,-6%,-$0,3.0,4.0,-2.0,3.0,WDFC
+469,,2011-10-13 21:58:30,2011-10-11,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,2386,14429,+20%,+$0,3.0,4.0,-2.0,3.0,WDFC
+470,,2011-10-13 21:58:30,2011-10-11,WDFC,Holdsworth Geoffrey,MD AsiaPacific,D - Sale to issuer,$0.00,-1116,14429,-7%,-$0,3.0,4.0,-2.0,3.0,WDFC
+471,,2011-10-13 21:57:39,2011-10-11,WDFC,Milner Graham P,EVP,A - Grant,$0.00,2386,26011,+10%,+$0,3.0,4.0,-2.0,3.0,WDFC
+472,,2011-10-13 21:57:39,2011-10-11,WDFC,Milner Graham P,EVP,D - Sale to issuer,$0.00,-1116,26011,-4%,-$0,3.0,4.0,-2.0,3.0,WDFC
+473,,2011-10-13 21:56:27,2011-10-11,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,3579,29083,+14%,+$0,3.0,4.0,-2.0,3.0,WDFC
+474,,2011-10-13 21:56:27,2011-10-11,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$0.00,-1116,29083,-4%,-$0,3.0,4.0,-2.0,3.0,WDFC
+475,,2011-10-13 21:55:02,2011-10-11,WDFC,Irwin Michael J,EVP,A - Grant,$0.00,2386,23191,+11%,+$0,3.0,4.0,-2.0,3.0,WDFC
+476,,2011-10-13 21:55:02,2011-10-11,WDFC,Irwin Michael J,EVP,D - Sale to issuer,$0.00,-1116,23191,-5%,-$0,3.0,4.0,-2.0,3.0,WDFC
+477,,2011-10-13 21:54:17,2011-10-11,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,3579,22612,+19%,+$0,3.0,4.0,-2.0,3.0,WDFC
+478,,2011-10-13 21:54:17,2011-10-11,WDFC,Rembolt Jay,"VP Finance, CFO",D - Sale to issuer,$0.00,-1116,22612,-5%,-$0,3.0,4.0,-2.0,3.0,WDFC
+479,,2011-10-13 19:51:19,2011-10-11,WDFC,Sandfort Gregory A,Dir,A - Grant,$0.00,1097,1097,New,+$0,3.0,4.0,-2.0,3.0,WDFC
+480,,2011-10-13 19:48:09,2011-10-11,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,11930,70112,+21%,+$0,3.0,4.0,-2.0,3.0,WDFC
+481,,2011-10-13 19:48:09,2011-10-11,WDFC,Ridge Garry O,"Pres, CEO",D - Sale to issuer,$0.00,-4464,70112,-6%,-$0,3.0,4.0,-2.0,3.0,WDFC
+482,,2011-10-12 18:52:14,2011-10-10,WDFC,Mitchell Maria,"VP, Corporate Secretary",A - Grant,$41.66,1320,11262,+13%,"+$54,991",1.0,6.0,-2.0,5.0,WDFC
+483,D,2011-09-12 12:26:01,2011-09-08,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$20.75,1504,20149,+8%,"+$31,208",0.0,2.0,9.0,17.0,WDFC
+484,D,2011-07-27 16:34:47,2011-07-25,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$35.99,8000,26607,+43%,"+$287,920",0.0,-2.0,-8.0,0.0,WDFC
+485,D,2011-07-27 16:34:47,2011-07-25,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$46.24,-8000,26607,-23%,"-$369,920",0.0,-2.0,-8.0,0.0,WDFC
+486,D,2011-07-26 15:27:42,2011-07-22,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$27.40,36000,62639,+135%,"+$986,520",-3.0,-5.0,-12.0,-6.0,WDFC
+487,D,2011-07-26 15:27:42,2011-07-22,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$47.50,-36000,62639,-36%,"-$1,710,000",-3.0,-5.0,-12.0,-6.0,WDFC
+488,D,2011-07-12 13:27:22,2011-07-08,WDFC,Noble William B,"MD, Europe",M - OptEx,$29.42,5094,17405,+41%,"+$149,864",3.0,3.0,-7.0,-7.0,WDFC
+489,D,2011-07-12 13:27:22,2011-07-08,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$44.30,-5000,17405,-22%,"-$221,500",3.0,3.0,-7.0,-7.0,WDFC
+490,D,2011-05-03 19:30:17,2011-04-29,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$20.75,3496,18611,+23%,"+$72,542",-1.0,1.0,2.0,11.0,WDFC
+491,D,2011-05-03 19:30:17,2011-04-29,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$41.45,-2517,18611,-12%,"-$104,317",-1.0,1.0,2.0,11.0,WDFC
+492,DM,2011-05-02 17:06:17,2011-04-28,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$29.30,23200,62632,+59%,"+$679,760",-1.0,-2.0,3.0,10.0,WDFC
+493,DM,2011-05-02 17:06:17,2011-04-28,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$41.37,-23200,62632,-27%,"-$959,708",-1.0,-2.0,3.0,10.0,WDFC
+494,DM,2011-04-28 19:25:31,2011-04-26,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$29.30,6800,62632,+12%,"+$199,240",0.0,-3.0,-1.0,9.0,WDFC
+495,DM,2011-04-28 19:25:31,2011-04-26,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$41.15,-6800,62632,-10%,"-$279,787",0.0,-3.0,-1.0,9.0,WDFC
+496,DM,2011-04-26 17:18:04,2011-04-21,WDFC,Milner Graham P,EVP,M - OptEx,$27.98,37000,24722,-301%,"+$1,035,390",1.0,1.0,-1.0,14.0,WDFC
+497,DM,2011-04-26 17:18:04,2011-04-21,WDFC,Milner Graham P,EVP,S - Sale+OE,$40.34,-37000,24722,-60%,"-$1,492,749",1.0,1.0,-1.0,14.0,WDFC
+498,,2011-04-21 17:36:36,2011-01-31,WDFC,Mitchell Maria,"VP, Corporate Secretary",P - Purchase,$39.44,17,8536,0%,+$660,-1.0,2.0,0.0,11.0,WDFC
+499,DM,2011-04-07 18:15:42,2011-04-05,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.67,5153,17405,+42%,"+$142,584",-1.0,-1.0,-1.0,1.0,WDFC
+500,DM,2011-04-07 18:15:42,2011-04-05,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$43.71,-5153,17405,-23%,"-$225,217",-1.0,-1.0,-1.0,1.0,WDFC
+501,D,2011-04-04 18:21:01,2011-03-31,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.27,3000,17405,+21%,"+$81,810",0.0,-6.0,-5.0,-6.0,WDFC
+502,D,2011-04-04 18:21:01,2011-03-31,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$42.30,-3000,17405,-15%,"-$126,900",0.0,-6.0,-5.0,-6.0,WDFC
+503,D,2011-02-17 19:19:02,2011-02-15,WDFC,Mitchell Maria,"VP, Corporate Secretary",M - OptEx,$28.03,8000,9917,+417%,"+$224,250",1.0,0.0,1.0,2.0,WDFC
+504,D,2011-02-17 19:19:02,2011-02-15,WDFC,Mitchell Maria,"VP, Corporate Secretary",S - Sale+OE,$40.07,-6602,9917,-40%,"-$264,542",1.0,0.0,1.0,2.0,WDFC
+505,D,2011-01-27 19:45:20,2011-01-26,WDFC,Holdsworth Geoffrey,MD AsiaPacific,M - OptEx,$27.56,10000,13159,+317%,"+$275,600",0.0,1.0,3.0,13.0,WDFC
+506,D,2011-01-27 19:45:20,2011-01-26,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale+OE,$39.34,-10000,13159,-43%,"-$393,400",0.0,1.0,3.0,13.0,WDFC
+507,,2010-12-17 12:46:52,2010-12-14,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,1762,13192,+15%,+$0,-1.0,-3.0,-8.0,0.0,WDFC
+508,D,2010-12-16 19:19:29,2010-12-15,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$27.56,2400,62625,+4%,"+$66,144",-1.0,-2.0,-8.0,-2.0,WDFC
+509,D,2010-12-16 19:19:29,2010-12-15,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$41.39,-2400,62625,-4%,"-$99,336",-1.0,-2.0,-8.0,-2.0,WDFC
+510,,2010-12-16 14:08:34,2010-12-14,WDFC,Collato Richard A,Dir,A - Grant,$0.00,979,9914,+11%,+$0,1.0,-2.0,-8.0,-1.0,WDFC
+511,,2010-12-16 14:05:42,2010-12-14,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,1762,14437,+14%,+$0,1.0,-2.0,-8.0,-1.0,WDFC
+512,,2010-12-16 14:04:32,2010-12-14,WDFC,Lang Linda,Dir,A - Grant,$0.00,979,10570,+10%,+$0,1.0,-2.0,-8.0,-1.0,WDFC
+513,,2010-12-16 14:03:27,2010-12-14,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,979,837307,0%,+$0,1.0,-2.0,-8.0,-1.0,WDFC
+514,,2010-12-16 14:01:17,2010-12-14,WDFC,Collato Richard A,Dir,A - Grant,$0.00,979,9914,+11%,+$0,1.0,-2.0,-8.0,-1.0,WDFC
+515,,2010-12-16 13:59:57,2010-12-14,WDFC,Bateman Giles H,Dir,A - Grant,$0.00,979,6402,+18%,+$0,1.0,-2.0,-8.0,-1.0,WDFC
+516,,2010-12-16 13:57:53,2010-12-14,WDFC,Adams John C Jr,Dir,A - Grant,$0.00,979,11051,+10%,+$0,1.0,-2.0,-8.0,-1.0,WDFC
+517,DM,2010-12-15 19:09:44,2010-12-13,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$27.56,4600,62625,+8%,"+$126,776",1.0,-1.0,-9.0,-3.0,WDFC
+518,DM,2010-12-15 19:09:44,2010-12-13,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$40.96,-4600,62625,-7%,"-$188,404",1.0,-1.0,-9.0,-3.0,WDFC
+519,D,2010-12-13 16:27:39,2010-12-09,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$27.56,10000,62625,+19%,"+$275,600",0.0,1.0,-8.0,-2.0,WDFC
+520,D,2010-12-13 16:27:39,2010-12-09,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$40.46,-10000,62625,-14%,"-$404,616",0.0,1.0,-8.0,-2.0,WDFC
+521,DM,2010-12-08 19:20:49,2010-12-06,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$29.30,10000,26580,+60%,"+$293,000",1.0,2.0,1.0,1.0,WDFC
+522,DM,2010-12-08 19:20:49,2010-12-06,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$40.15,-10000,26580,-27%,"-$401,547",1.0,2.0,1.0,1.0,WDFC
+523,D,2010-11-15 17:06:02,2010-11-10,WDFC,Holdsworth Geoffrey,MD AsiaPacific,M - OptEx,$29.30,10000,13159,+317%,"+$293,000",-2.0,2.0,6.0,8.0,WDFC
+524,DM,2010-11-15 17:06:02,2010-11-10,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale+OE,$38.27,-12277,13159,-48%,"-$469,868",-2.0,2.0,6.0,8.0,WDFC
+525,DM,2010-11-12 15:27:31,2010-10-21,WDFC,Irwin Michael J,EVP,M - OptEx,$30.22,72300,21906,-143%,"+$2,185,029",-1.0,0.0,5.0,9.0,WDFC
+526,D,2010-11-12 15:27:31,2010-11-09,WDFC,Irwin Michael J,EVP,S - Sale+OE,$39.64,-72300,21906,-77%,"-$2,865,797",-1.0,0.0,5.0,9.0,WDFC
+527,D,2010-11-12 14:50:42,2010-11-09,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$27.56,13000,62625,+26%,"+$358,280",-1.0,0.0,5.0,9.0,WDFC
+528,D,2010-11-12 14:50:42,2010-11-09,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$40.90,-13000,62625,-17%,"-$531,680",-1.0,0.0,5.0,9.0,WDFC
+529,D,2010-11-12 14:36:31,2010-11-09,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$19.65,3500,17095,+26%,"+$68,775",-1.0,0.0,5.0,9.0,WDFC
+530,D,2010-11-12 14:36:31,2010-11-09,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$40.00,-3500,17095,-17%,"-$140,000",-1.0,0.0,5.0,9.0,WDFC
+531,D,2010-10-25 20:52:05,2010-10-21,WDFC,Milner Graham P,EVP,M - OptEx,$20.75,10000,24713,+68%,"+$207,500",-2.0,-2.0,4.0,9.0,WDFC
+532,D,2010-10-25 20:52:05,2010-10-21,WDFC,Milner Graham P,EVP,S - Sale+OE,$37.91,-10000,24713,-29%,"-$379,130",-2.0,-2.0,4.0,9.0,WDFC
+533,D,2010-10-25 19:18:34,2010-10-21,WDFC,Irwin Michael J,EVP,M - OptEx,$24.11,3300,21907,+18%,"+$79,559",-2.0,-2.0,4.0,9.0,WDFC
+534,D,2010-10-25 19:18:34,2010-10-21,WDFC,Irwin Michael J,EVP,S - Sale+OE,$39.02,-3300,21907,-13%,"-$128,767",-2.0,-2.0,4.0,9.0,WDFC
+535,,2010-10-22 18:38:23,2010-10-20,WDFC,Noble William B,"MD, Europe",D - Sale to issuer,$39.16,-1162,17405,-6%,"-$45,504",0.0,-4.0,3.0,9.0,WDFC
+536,,2010-10-22 18:36:37,2010-10-20,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$39.16,-836,26581,-3%,"-$32,738",0.0,-4.0,3.0,9.0,WDFC
+537,,2010-10-22 18:35:06,2010-10-20,WDFC,Irwin Michael J,EVP,D - Sale to issuer,$39.16,-836,21907,-4%,"-$32,738",0.0,-4.0,3.0,9.0,WDFC
+538,,2010-10-22 18:32:56,2010-10-20,WDFC,Rembolt Jay,"VP Finance, CFO",D - Sale to issuer,$39.16,-836,17098,-5%,"-$32,738",0.0,-4.0,3.0,9.0,WDFC
+539,,2010-10-22 18:31:44,2010-10-20,WDFC,Ridge Garry O,"Pres, CEO",D - Sale to issuer,$39.16,-2252,62625,-3%,"-$88,188",0.0,-4.0,3.0,9.0,WDFC
+540,,2010-10-22 18:28:56,2010-10-20,WDFC,Milner Graham P,EVP,D - Sale to issuer,$39.16,-836,24713,-3%,"-$32,738",0.0,-4.0,3.0,9.0,WDFC
+541,,2010-10-22 18:28:56,2010-10-20,WDFC,Milner Graham P,EVP,S - Sale,$39.72,-13200,24713,-35%,"-$524,304",0.0,-4.0,3.0,9.0,WDFC
+542,,2010-10-14 19:36:00,2010-10-12,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,4000,18567,+27%,+$0,-1.0,-2.0,-3.0,3.0,WDFC
+543,,2010-10-14 19:35:12,2010-10-12,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,4000,15436,+35%,+$0,-1.0,-2.0,-3.0,3.0,WDFC
+544,,2010-10-14 19:33:48,2010-10-12,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,16000,64877,+33%,+$0,-1.0,-2.0,-3.0,3.0,WDFC
+545,,2010-10-14 19:32:55,2010-10-12,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,4000,17934,+29%,+$0,-1.0,-2.0,-3.0,3.0,WDFC
+546,,2010-10-14 19:32:14,2010-10-12,WDFC,Milner Graham P,EVP,A - Grant,$0.00,4000,38749,+12%,+$0,-1.0,-2.0,-3.0,3.0,WDFC
+547,,2010-10-14 19:31:22,2010-10-12,WDFC,Irwin Michael J,EVP,A - Grant,$0.00,4000,22743,+21%,+$0,-1.0,-2.0,-3.0,3.0,WDFC
+548,,2010-10-14 19:29:58,2010-10-12,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,4000,27417,+17%,+$0,-1.0,-2.0,-3.0,3.0,WDFC
+549,D,2010-10-13 12:45:58,2010-10-11,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$27.27,4299,23411,+22%,"+$117,234",1.0,2.0,-1.0,6.0,WDFC
+550,D,2010-10-13 12:45:58,2010-10-11,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$39.50,-4299,23411,-16%,"-$169,811",1.0,2.0,-1.0,6.0,WDFC
+551,D,2010-10-12 11:55:22,2010-10-08,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.27,1000,14567,+7%,"+$27,270",0.0,4.0,-1.0,6.0,WDFC
+552,D,2010-10-12 11:55:22,2010-10-08,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$39.50,-1000,14567,-6%,"-$39,500",0.0,4.0,-1.0,6.0,WDFC
+553,D,2010-10-12 11:53:49,2010-10-08,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$27.27,4701,23411,+25%,"+$128,196",0.0,4.0,-1.0,6.0,WDFC
+554,D,2010-10-12 11:53:49,2010-10-08,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$39.54,-4701,23411,-17%,"-$185,878",0.0,4.0,-1.0,6.0,WDFC
+555,D,2010-10-07 18:54:03,2010-10-05,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.27,2000,14567,+16%,"+$54,540",1.0,2.0,-1.0,13.0,WDFC
+556,D,2010-10-07 18:54:03,2010-10-05,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$38.50,-1422,14567,-9%,"-$54,747",1.0,2.0,-1.0,13.0,WDFC
+557,D,2010-09-30 18:44:50,2010-09-28,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$27.67,380,23411,+2%,"+$10,515",0.0,3.0,-4.0,13.0,WDFC
+558,D,2010-09-30 18:44:50,2010-09-28,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$37.50,-380,23411,-2%,"-$14,250",0.0,3.0,-4.0,13.0,WDFC
+559,D,2010-09-14 19:14:18,2010-09-10,WDFC,Milner Graham P,EVP,M - OptEx,$20.81,13200,34742,+61%,"+$274,732",1.0,3.0,10.0,16.0,WDFC
+560,D,2010-07-29 15:05:22,2010-07-27,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$27.67,4620,23405,+25%,"+$127,835",1.0,0.0,-4.0,9.0,WDFC
+561,D,2010-07-29 15:05:22,2010-07-27,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$37.50,-4620,23405,-16%,"-$173,250",1.0,0.0,-4.0,9.0,WDFC
+562,D,2010-07-29 13:47:43,2010-07-27,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.27,3000,13989,+27%,"+$81,810",1.0,0.0,-4.0,9.0,WDFC
+563,D,2010-07-29 13:47:43,2010-07-27,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$37.06,-3000,13989,-18%,"-$111,180",1.0,0.0,-4.0,9.0,WDFC
+564,D,2010-07-28 17:50:08,2010-07-26,WDFC,Rembolt Jay,"VP Finance, CFO",M - OptEx,$20.81,4000,13890,+40%,"+$83,240",1.0,-1.0,-4.0,8.0,WDFC
+565,D,2010-07-28 17:50:08,2010-07-26,WDFC,Rembolt Jay,"VP Finance, CFO",S - Sale+OE,$37.00,-4000,13890,-22%,"-$148,000",1.0,-1.0,-4.0,8.0,WDFC
+566,D,2010-07-27 18:33:17,2010-07-23,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.56,100,13989,+1%,"+$2,756",-1.0,-3.0,-6.0,6.0,WDFC
+567,D,2010-07-27 18:33:17,2010-07-23,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$36.50,-100,13989,-1%,"-$3,650",-1.0,-3.0,-6.0,6.0,WDFC
+568,DM,2010-07-23 17:25:27,2010-07-21,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$27.56,10000,23406,+75%,"+$275,600",2.0,2.0,-3.0,7.0,WDFC
+569,DM,2010-07-23 17:25:27,2010-07-21,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$35.69,-10000,23406,-30%,"-$356,890",2.0,2.0,-3.0,7.0,WDFC
+570,D,2010-07-22 14:02:07,2010-07-21,WDFC,Adams John C Jr,Dir,M - OptEx,$23.63,2000,10072,+25%,"+$47,260",2.0,4.0,0.0,10.0,WDFC
+571,D,2010-07-15 19:16:30,2010-07-13,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.56,500,13989,+4%,"+$13,780",-3.0,-1.0,0.0,6.0,WDFC
+572,D,2010-07-15 19:16:30,2010-07-13,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$36.50,-500,13989,-3%,"-$18,250",-3.0,-1.0,0.0,6.0,WDFC
+573,D,2010-07-14 15:50:31,2010-07-13,WDFC,Schmale Neal E,Dir,M - OptEx,$23.63,2000,12675,+19%,"+$47,260",0.0,-1.0,-3.0,12.0,WDFC
+574,D,2010-04-21 18:54:14,2010-04-19,WDFC,Milner Graham P,EVP,M - OptEx,$20.81,4000,21532,+23%,"+$83,252",-1.0,-4.0,-4.0,13.0,WDFC
+575,D,2010-04-21 18:54:14,2010-04-19,WDFC,Milner Graham P,EVP,S - Sale+OE,$35.14,-4000,21532,-16%,"-$140,560",-1.0,-4.0,-4.0,13.0,WDFC
+576,,2010-04-14 15:46:31,2010-04-13,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$34.22,-1426,11436,-11%,"-$48,801",2.0,3.0,3.0,13.0,WDFC
+577,D,2010-04-13 15:57:52,2010-04-12,WDFC,Holdsworth Geoffrey,MD AsiaPacific,M - OptEx,$27.51,17000,12862,-411%,"+$467,590",3.0,5.0,4.0,16.0,WDFC
+578,D,2010-04-13 15:57:52,2010-04-12,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale+OE,$34.07,-17000,12862,-57%,"-$579,139",3.0,5.0,4.0,16.0,WDFC
+579,,2009-12-09 18:14:48,2009-12-07,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,16000,48850,+49%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+580,,2009-12-09 18:14:48,2009-10-19,WDFC,Ridge Garry O,"Pres, CEO",D - Sale to issuer,$33.05,-1459,48850,-3%,"-$48,220",-2.0,-4.0,-3.0,-2.0,WDFC
+581,,2009-12-09 17:58:42,2009-12-08,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,1972,10675,+23%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+582,,2009-12-09 17:57:50,2009-12-08,WDFC,Lang Linda,Dir,A - Grant,$0.00,1972,9591,+26%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+583,,2009-12-09 17:56:37,2009-12-08,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,986,836328,0%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+584,,2009-12-09 17:54:44,2009-12-08,WDFC,Collato Richard A,Dir,A - Grant,$0.00,986,8935,+12%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+585,,2009-12-09 17:53:57,2009-12-08,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,1972,11430,+21%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+586,,2009-12-09 17:53:00,2009-12-08,WDFC,Bateman Giles H,Dir,A - Grant,$0.00,1355,5423,+33%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+587,,2009-12-09 17:52:19,2009-12-08,WDFC,Adams John C Jr,Dir,A - Grant,$0.00,986,8072,+14%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+588,,2009-12-09 17:50:19,2009-12-07,WDFC,Rembolt Jay,"VP Finance, CFO",A - Grant,$0.00,4000,13117,+44%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+589,,2009-12-09 17:50:19,2009-10-19,WDFC,Rembolt Jay,"VP Finance, CFO",D - Sale to issuer,$33.05,-639,13117,-5%,"-$21,119",-2.0,-4.0,-3.0,-2.0,WDFC
+590,,2009-12-09 17:49:19,2009-12-07,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,4000,13989,+40%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+591,,2009-12-09 17:49:19,2009-10-19,WDFC,Noble William B,"MD, Europe",D - Sale to issuer,$33.05,-732,13989,-5%,"-$24,193",-2.0,-4.0,-3.0,-2.0,WDFC
+592,,2009-12-09 17:48:19,2009-12-07,WDFC,Irwin Michael J,EVP,A - Grant,$0.00,4000,18720,+27%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+593,,2009-12-09 17:48:19,2009-10-19,WDFC,Irwin Michael J,EVP,D - Sale to issuer,$33.05,-639,18720,-3%,"-$21,119",-2.0,-4.0,-3.0,-2.0,WDFC
+594,,2009-12-09 17:47:12,2009-12-07,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,4000,12862,+45%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+595,,2009-12-09 17:47:12,2009-10-19,WDFC,Holdsworth Geoffrey,MD AsiaPacific,D - Sale to issuer,$33.05,-359,12862,-3%,"-$11,865",-2.0,-4.0,-3.0,-2.0,WDFC
+596,,2009-12-09 17:46:07,2009-12-07,WDFC,Milner Graham P,EVP,A - Grant,$0.00,4000,21506,+23%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+597,,2009-12-09 17:45:10,2009-12-07,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,4000,23355,+21%,+$0,-2.0,-4.0,-3.0,-2.0,WDFC
+598,A,2009-12-09 17:43:17,2009-10-19,WDFC,Milner Graham P,EVP,D - Sale to issuer,$33.05,-639,17506,-4%,"-$21,119",-2.0,-4.0,-3.0,-2.0,WDFC
+599,A,2009-12-09 17:43:17,2009-10-19,WDFC,Milner Graham P,EVP,S - Sale,$32.47,-10000,17506,-36%,"-$324,736",-2.0,-4.0,-3.0,-2.0,WDFC
+600,AD,2009-12-09 17:40:25,2009-10-19,WDFC,Freeman Michael L,"Division Pres, Americas",D - Sale to issuer,$33.05,-639,19355,-3%,"-$21,119",-2.0,-4.0,-3.0,-2.0,WDFC
+601,ADM,2009-12-09 17:40:25,2009-10-16,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$20.75,10000,19355,+107%,"+$207,500",-2.0,-4.0,-3.0,-2.0,WDFC
+602,ADM,2009-12-09 17:40:25,2009-10-16,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$33.12,-10000,19355,-34%,"-$331,151",-2.0,-4.0,-3.0,-2.0,WDFC
+603,DM,2009-10-23 11:04:50,2009-10-16,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$20.75,10000,19994,+100%,"+$207,500",1.0,-3.0,-1.0,9.0,WDFC
+604,DM,2009-10-23 11:04:50,2009-10-16,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$33.12,-10000,19994,-33%,"-$331,151",1.0,-3.0,-1.0,9.0,WDFC
+605,,2009-10-21 18:25:34,2009-10-19,WDFC,Milner Graham P,EVP,S - Sale,$32.47,-10000,18145,-36%,"-$324,736",0.0,-1.0,0.0,10.0,WDFC
+606,,2009-10-09 12:26:02,2009-10-08,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$31.50,-2349,9221,-20%,"-$73,994",1.0,5.0,5.0,12.0,WDFC
+607,D,2009-09-28 19:06:15,2009-09-25,WDFC,Rembolt Jay,Principal Accounting Officer,M - OptEx,$23.50,3000,9756,+44%,"+$70,500",-1.0,2.0,17.0,15.0,WDFC
+608,D,2009-09-28 19:06:15,2009-09-25,WDFC,Rembolt Jay,Principal Accounting Officer,S - Sale+OE,$28.20,-3000,9756,-24%,"-$84,609",-1.0,2.0,17.0,15.0,WDFC
+609,D,2009-09-24 16:50:44,2009-09-22,WDFC,Milner Graham P,EVP,M - OptEx,$23.50,10000,28145,+55%,"+$235,000",0.0,0.0,19.0,18.0,WDFC
+610,,2009-08-03 17:42:17,2009-07-30,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale,$31.50,-151,11570,-1%,"-$4,757",-1.0,-6.0,-13.0,2.0,WDFC
+611,D,2009-07-24 17:00:06,2009-07-23,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$20.81,14503,34308,+73%,"+$301,851",-1.0,-1.0,-6.0,4.0,WDFC
+612,D,2009-07-24 17:00:06,2009-07-23,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$31.39,-14503,34308,-30%,"-$455,194",-1.0,-1.0,-6.0,4.0,WDFC
+613,D,2009-07-23 16:30:28,2009-07-22,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$20.81,900,34308,+3%,"+$18,732",-1.0,-2.0,-9.0,2.0,WDFC
+614,D,2009-07-23 16:30:28,2009-07-22,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$31.25,-900,34308,-3%,"-$28,127",-1.0,-2.0,-9.0,2.0,WDFC
+615,D,2009-07-22 12:24:15,2009-07-21,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$20.81,597,34308,+2%,"+$12,425",0.0,0.0,-8.0,6.0,WDFC
+616,D,2009-07-22 12:24:15,2009-07-21,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$31.27,-597,34308,-2%,"-$18,665",0.0,0.0,-8.0,6.0,WDFC
+617,D,2009-07-20 18:54:45,2009-07-17,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$20.81,4000,34308,+13%,"+$83,252",0.0,0.0,-9.0,4.0,WDFC
+618,D,2009-07-20 18:54:45,2009-07-17,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$31.32,-4000,34308,-10%,"-$125,299",0.0,0.0,-9.0,4.0,WDFC
+619,,2009-04-23 16:34:00,2009-04-23,WDFC,Bewley Peter D,Dir,P - Purchase,$24.68,500,9458,+6%,"+$12,340",3.0,8.0,2.0,35.0,WDFC
+620,,2009-04-21 19:05:15,2009-04-21,WDFC,Bewley Peter D,Dir,P - Purchase,$24.32,500,8958,+6%,"+$12,162",2.0,3.0,5.0,32.0,WDFC
+621,,2009-04-21 14:07:46,2009-04-20,WDFC,Bewley Peter D,Dir,P - Purchase,$24.00,500,8458,+6%,"+$11,998",4.0,7.0,9.0,37.0,WDFC
+622,,2009-04-17 13:26:43,2009-04-17,WDFC,Bewley Peter D,Dir,P - Purchase,$24.50,500,7958,+7%,"+$12,249",1.0,2.0,5.0,33.0,WDFC
+623,,2009-01-29 15:00:05,2009-01-21,WDFC,Crivello Mario L,Dir,G - Gift,$0.00,-20746,837305,+3%,-$0,-5.0,-3.0,-10.0,16.0,WDFC
+624,,2009-01-16 14:04:04,2009-01-15,WDFC,Bewley Peter D,Dir,P - Purchase,$24.90,500,7458,+7%,"+$12,451",0.0,-2.0,-5.0,21.0,WDFC
+625,,2008-12-11 19:25:10,2008-12-09,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,2442,8703,+39%,+$0,5.0,3.0,1.0,17.0,WDFC
+626,,2008-12-11 19:24:11,2008-12-09,WDFC,Collato Richard A,Dir,A - Grant,$0.00,2442,7949,+44%,+$0,5.0,3.0,1.0,17.0,WDFC
+627,,2008-12-11 19:18:13,2008-12-09,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,1221,856027,0%,+$0,5.0,3.0,1.0,17.0,WDFC
+628,,2008-12-11 18:56:50,2008-12-09,WDFC,Lang Linda,Dir,A - Grant,$0.00,2442,7619,+47%,+$0,5.0,3.0,1.0,17.0,WDFC
+629,,2008-12-11 18:51:54,2008-12-09,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,2442,6958,+54%,+$0,5.0,3.0,1.0,17.0,WDFC
+630,,2008-12-11 18:48:54,2008-12-09,WDFC,Bateman Giles H,Dir,A - Grant,$0.00,1221,4068,+43%,+$0,5.0,3.0,1.0,17.0,WDFC
+631,,2008-12-11 18:45:34,2008-12-09,WDFC,Adams John C Jr,Dir,A - Grant,$0.00,1221,7086,+21%,+$0,5.0,3.0,1.0,17.0,WDFC
+632,,2008-10-16 17:52:22,2008-10-14,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,12000,34265,+54%,+$0,-1.0,-5.0,-1.0,-10.0,WDFC
+633,,2008-10-16 17:51:30,2008-10-14,WDFC,Irwin Michael J,"EVP, CFO",A - Grant,$0.00,5250,15331,+52%,+$0,-1.0,-5.0,-1.0,-10.0,WDFC
+634,,2008-10-16 17:50:31,2008-10-14,WDFC,Rembolt Jay,Principal Accounting Officer,A - Grant,$0.00,5250,8919,+143%,+$0,-1.0,-5.0,-1.0,-10.0,WDFC
+635,,2008-10-16 17:49:36,2008-10-14,WDFC,Milner Graham P,EVP,A - Grant,$0.00,5250,18093,+41%,+$0,-1.0,-5.0,-1.0,-10.0,WDFC
+636,,2008-10-16 17:48:20,2008-10-14,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,5250,11721,+81%,+$0,-1.0,-5.0,-1.0,-10.0,WDFC
+637,,2008-10-16 17:47:13,2008-10-14,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,5250,19920,+36%,+$0,-1.0,-5.0,-1.0,-10.0,WDFC
+638,,2008-10-16 17:46:08,2008-10-14,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,5250,10721,+96%,+$0,-1.0,-5.0,-1.0,-10.0,WDFC
+639,AD,2008-10-15 15:28:03,2008-09-18,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.67,4800,5471,+715%,"+$132,816",-13.0,-14.0,-20.0,-23.0,WDFC
+640,AD,2008-10-15 15:28:03,2008-09-18,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$38.50,-4800,5471,-47%,"-$184,800",-13.0,-14.0,-20.0,-23.0,WDFC
+641,A,2008-10-15 15:26:18,2007-10-26,WDFC,Rembolt Jay,Principal Accounting Officer,M - OptEx,$23.06,2400,3601,+200%,"+$55,351",-13.0,-14.0,-20.0,-23.0,WDFC
+642,A,2008-10-15 15:26:18,2007-10-26,WDFC,Rembolt Jay,Principal Accounting Officer,S - Sale,$39.00,-2400,3601,-40%,"-$93,600",-13.0,-14.0,-20.0,-23.0,WDFC
+643,D,2008-09-22 18:11:26,2008-09-18,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.67,4800,5471,+715%,"+$132,816",-6.0,-5.0,-23.0,-37.0,WDFC
+644,D,2008-09-22 18:11:26,2008-09-18,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$38.50,-4800,5471,-47%,"-$184,800",-6.0,-5.0,-23.0,-37.0,WDFC
+645,D,2008-08-13 11:42:42,2008-08-11,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$20.81,17600,22260,+378%,"+$366,309",0.0,-7.0,-1.0,-31.0,WDFC
+646,D,2008-08-13 11:42:42,2008-08-11,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$37.90,-17600,22260,-44%,"-$667,054",0.0,-7.0,-1.0,-31.0,WDFC
+647,D,2008-08-08 17:28:20,2008-08-07,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.56,3695,5471,+208%,"+$101,834",0.0,-1.0,-5.0,-30.0,WDFC
+648,D,2008-08-08 17:28:20,2008-08-07,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$34.90,-3695,5471,-40%,"-$128,956",0.0,-1.0,-5.0,-30.0,WDFC
+649,D,2008-08-08 16:04:17,2008-08-06,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.56,2305,5471,+73%,"+$63,526",0.0,-1.0,-5.0,-30.0,WDFC
+650,D,2008-08-08 16:04:17,2008-08-06,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$34.90,-2305,5471,-30%,"-$80,445",0.0,-1.0,-5.0,-30.0,WDFC
+651,,2008-05-06 17:55:58,2008-05-06,WDFC,Holdsworth Geoffrey,MD AsiaPacific,P - Purchase,$31.16,500,6471,+8%,"+$15,580",0.0,4.0,11.0,-6.0,WDFC
+652,,2008-05-06 17:26:19,2008-05-05,WDFC,Holdsworth Geoffrey,MD AsiaPacific,P - Purchase,$30.86,500,5971,+9%,"+$15,432",0.0,4.0,11.0,-6.0,WDFC
+653,,2008-03-27 18:34:03,2008-03-25,WDFC,Ridge Garry O,"Pres, CEO",A - Grant,$0.00,5884,22236,+36%,+$0,-1.0,-1.0,-8.0,7.0,WDFC
+654,,2008-03-27 18:32:35,2008-03-25,WDFC,Holdsworth Geoffrey,MD AsiaPacific,A - Grant,$0.00,3971,5471,+265%,+$0,-1.0,-1.0,-8.0,7.0,WDFC
+655,,2008-03-27 18:30:58,2008-03-25,WDFC,Irwin Michael J,"EVP, CFO",A - Grant,$0.00,3971,10062,+65%,+$0,-1.0,-1.0,-8.0,7.0,WDFC
+656,,2008-03-27 18:30:11,2008-03-25,WDFC,Milner Graham P,EVP,A - Grant,$0.00,3971,12799,+45%,+$0,-1.0,-1.0,-8.0,7.0,WDFC
+657,,2008-03-27 18:17:12,2008-03-25,WDFC,Freeman Michael L,"Division Pres, Americas",A - Grant,$0.00,3971,14546,+38%,+$0,-1.0,-1.0,-8.0,7.0,WDFC
+658,,2008-03-27 16:36:51,2008-03-25,WDFC,Noble William B,"MD, Europe",A - Grant,$0.00,3971,5471,+265%,+$0,-1.0,-1.0,-8.0,7.0,WDFC
+659,,2008-01-15 18:23:01,2008-01-14,WDFC,Ridge Garry O,"Pres, CEO",P - Purchase,$32.17,3000,16352,+22%,"+$96,515",1.0,0.0,6.0,-6.0,WDFC
+660,,2008-01-15 17:06:06,2008-01-14,WDFC,Milner Graham P,EVP,P - Purchase,$32.30,400,8828,+5%,"+$12,920",1.0,0.0,6.0,-6.0,WDFC
+661,,2008-01-15 17:03:50,2008-01-15,WDFC,Holdsworth Geoffrey,MD AsiaPacific,P - Purchase,$32.26,500,1500,+50%,"+$16,131",1.0,0.0,6.0,-6.0,WDFC
+662,,2008-01-15 17:00:57,2008-01-15,WDFC,Irwin Michael J,"EVP, CFO",P - Purchase,$32.43,1000,6091,+20%,"+$32,429",1.0,0.0,6.0,-6.0,WDFC
+663,,2008-01-15 16:58:25,2008-01-11,WDFC,Crivello Mario L,Dir,G - Gift,$0.00,-15457,854806,+2%,-$0,1.0,0.0,6.0,-6.0,WDFC
+664,,2007-12-13 18:25:07,2007-12-11,WDFC,Collato Richard A,Dir,A - Grant,$0.00,1535,5507,+39%,+$0,-3.0,-2.0,-18.0,-21.0,WDFC
+665,,2007-12-13 15:27:47,2007-12-11,WDFC,Schmale Neal E,Dir,A - Grant,$0.00,1535,6261,+32%,+$0,-1.0,-3.0,-19.0,-21.0,WDFC
+666,,2007-12-13 15:02:40,2007-12-11,WDFC,Olson Kenneth E,Dir,A - Grant,$0.00,742,5718,+15%,+$0,-1.0,-3.0,-19.0,-21.0,WDFC
+667,,2007-12-13 14:55:52,2007-12-11,WDFC,Crivello Mario L,Dir,A - Grant,$0.00,742,868755,0%,+$0,-1.0,-3.0,-19.0,-21.0,WDFC
+668,,2007-12-13 14:53:33,2007-12-11,WDFC,Lang Linda,Dir,A - Grant,$0.00,1535,5177,+42%,+$0,-1.0,-3.0,-19.0,-21.0,WDFC
+669,,2007-12-13 14:51:22,2007-12-11,WDFC,Bewley Peter D,Dir,A - Grant,$0.00,1535,4516,+51%,+$0,-1.0,-3.0,-19.0,-21.0,WDFC
+670,,2007-12-13 14:49:05,2007-12-11,WDFC,Bateman Giles H,Dir,A - Grant,$0.00,1139,2847,+67%,+$0,-1.0,-3.0,-19.0,-21.0,WDFC
+671,,2007-12-13 14:46:48,2007-12-11,WDFC,Adams John C Jr,Dir,A - Grant,$0.00,1139,5865,+24%,+$0,-1.0,-3.0,-19.0,-21.0,WDFC
+672,D,2007-10-29 19:24:45,2007-10-26,WDFC,Rembolt Jay,Principal Accounting Officer,M - OptEx,$23.06,2400,0,-100%,"+$55,351",-1.0,-1.0,-1.0,-19.0,WDFC
+673,D,2007-10-29 19:24:45,2007-10-26,WDFC,Rembolt Jay,Principal Accounting Officer,S - Sale+OE,$39.00,-2400,0,-100%,"-$93,600",-1.0,-1.0,-1.0,-19.0,WDFC
+674,D,2007-10-26 15:06:08,2007-10-26,WDFC,Milner Graham P,EVP,M - OptEx,$23.06,6000,8428,+247%,"+$138,378",1.0,-3.0,-3.0,-19.0,WDFC
+675,D,2007-10-26 15:06:08,2007-10-26,WDFC,Milner Graham P,EVP,S - Sale+OE,$38.64,-6000,8428,-42%,"-$231,813",1.0,-3.0,-3.0,-19.0,WDFC
+676,D,2007-10-19 17:30:18,2007-10-18,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$23.50,5319,13352,+66%,"+$124,997",3.0,5.0,7.0,-17.0,WDFC
+677,D,2007-10-19 17:30:18,2007-10-18,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$37.00,-5319,13352,-28%,"-$196,803",3.0,5.0,7.0,-17.0,WDFC
+678,DM,2007-08-23 18:32:12,2007-08-09,WDFC,Noble William B,"MD, Europe",M - OptEx,$27.56,3400,1500,-179%,"+$93,704",1.0,2.0,2.0,-7.0,WDFC
+679,D,2007-08-23 18:32:12,2007-08-09,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$36.70,-3100,1500,-67%,"-$113,779",1.0,2.0,2.0,-7.0,WDFC
+680,D,2007-08-14 17:53:38,2007-08-13,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$23.50,341,13345,+3%,"+$8,014",1.0,4.0,0.0,1.0,WDFC
+681,D,2007-08-14 17:53:38,2007-08-13,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$37.05,-341,13345,-2%,"-$12,635",1.0,4.0,0.0,1.0,WDFC
+682,D,2007-08-08 19:09:17,2007-08-07,WDFC,Irwin Michael J,"EVP, CFO",M - OptEx,$18.75,19804,5086,-135%,"+$371,246",1.0,-6.0,-4.0,-6.0,WDFC
+683,D,2007-08-08 19:09:17,2007-08-07,WDFC,Irwin Michael J,"EVP, CFO",S - Sale+OE,$35.51,-19804,5086,-80%,"-$703,278",1.0,-6.0,-4.0,-6.0,WDFC
+684,DM,2007-08-08 14:19:03,2007-08-06,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$23.43,11913,10533,-863%,"+$279,083",1.0,-5.0,-3.0,-5.0,WDFC
+685,D,2007-08-08 14:19:03,2007-08-06,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$35.32,-11913,10533,-53%,"-$420,716",1.0,-5.0,-3.0,-5.0,WDFC
+686,D,2007-07-24 18:53:27,2007-07-23,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$23.06,3903,10533,+59%,"+$90,015",0.0,-1.0,3.0,-4.0,WDFC
+687,D,2007-07-24 18:53:27,2007-07-23,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$35.26,-3903,10533,-27%,"-$137,602",0.0,-1.0,3.0,-4.0,WDFC
+688,D,2007-07-20 17:54:46,2007-07-19,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$23.26,184,10533,+2%,"+$4,280",1.0,-2.0,3.0,-5.0,WDFC
+689,D,2007-07-20 17:54:46,2007-07-19,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$35.25,-184,10533,-2%,"-$6,486",1.0,-2.0,3.0,-5.0,WDFC
+690,D,2007-07-11 18:22:13,2007-07-09,WDFC,Irwin Michael J,"EVP, CFO",M - OptEx,$27.00,11013,5081,-186%,"+$297,391",4.0,4.0,10.0,11.0,WDFC
+691,D,2007-07-11 18:22:13,2007-07-09,WDFC,Irwin Michael J,"EVP, CFO",S - Sale+OE,$35.50,-11013,5081,-68%,"-$390,962",4.0,4.0,10.0,11.0,WDFC
+692,D,2007-05-08 15:05:54,2007-05-07,WDFC,Noble William B,"MD, Europe",M - OptEx,$24.58,21000,1200,-106%,"+$516,130",0.0,-1.0,-5.0,13.0,WDFC
+693,D,2007-05-08 15:05:54,2007-05-07,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$34.29,-21000,1200,-95%,"-$720,150",0.0,-1.0,-5.0,13.0,WDFC
+694,D,2007-05-04 17:48:20,2007-05-03,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$20.81,2400,13331,+22%,"+$49,951",-2.0,-4.0,-4.0,15.0,WDFC
+695,D,2007-04-27 17:48:57,2007-04-25,WDFC,Irwin Michael J,"EVP, CFO",M - OptEx,$23.51,5967,5081,-673%,"+$140,267",-2.0,-1.0,-6.0,13.0,WDFC
+696,D,2007-04-27 17:48:57,2007-04-25,WDFC,Irwin Michael J,"EVP, CFO",S - Sale+OE,$35.50,-5967,5081,-54%,"-$211,829",-2.0,-1.0,-6.0,13.0,WDFC
+697,AD,2007-04-20 17:40:58,2007-04-10,WDFC,Holdsworth Geoffrey,MD AsiaPacific,M - OptEx,$31.75,6000,1000,-120%,"+$190,500",0.0,0.0,-5.0,5.0,WDFC
+698,AD,2007-04-20 17:40:58,2007-04-10,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale+OE,$36.39,-6000,1000,-86%,"-$218,360",0.0,0.0,-5.0,5.0,WDFC
+699,D,2007-04-19 14:07:41,2007-04-17,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$23.50,100,10931,+1%,"+$2,350",-1.0,0.0,-5.0,4.0,WDFC
+700,D,2007-04-19 14:07:41,2007-04-17,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$36.50,-100,10931,-1%,"-$3,650",-1.0,0.0,-5.0,4.0,WDFC
+701,D,2007-04-18 16:50:14,2007-04-16,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$28.11,14840,10931,-380%,"+$417,215",-1.0,0.0,-5.0,3.0,WDFC
+702,D,2007-04-18 16:50:14,2007-04-16,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$36.51,-14840,10931,-58%,"-$541,841",-1.0,0.0,-5.0,3.0,WDFC
+703,D,2007-04-17 18:07:49,2007-04-13,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$27.63,3600,10931,+49%,"+$99,450",-1.0,0.0,-6.0,4.0,WDFC
+704,D,2007-04-17 18:07:49,2007-04-13,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$36.52,-3600,10931,-25%,"-$131,483",-1.0,0.0,-6.0,4.0,WDFC
+705,D,2007-04-12 19:25:46,2007-04-10,WDFC,Milner Graham P,EVP,M - OptEx,$31.75,6000,8365,+254%,"+$190,500",0.0,-3.0,-8.0,1.0,WDFC
+706,D,2007-04-12 19:25:46,2007-04-10,WDFC,Milner Graham P,EVP,S - Sale+OE,$36.19,-6000,8365,-42%,"-$217,141",0.0,-3.0,-8.0,1.0,WDFC
+707,D,2007-04-12 16:53:03,2007-04-10,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$27.63,11800,10931,-1358%,"+$325,975",0.0,-3.0,-8.0,1.0,WDFC
+708,D,2007-04-12 16:53:03,2007-04-10,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$36.56,-11800,10931,-52%,"-$431,379",0.0,-3.0,-8.0,1.0,WDFC
+709,D,2007-04-12 16:29:14,2007-04-10,WDFC,Holdsworth Geoffrey,MD AsiaPacific,M - OptEx,$31.75,6000,1000,-120%,"+$190,500",0.0,-3.0,-8.0,1.0,WDFC
+710,D,2007-04-12 16:29:14,2007-04-10,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale+OE,$36.39,-1000,1000,-50%,"-$36,393",0.0,-3.0,-8.0,1.0,WDFC
+711,D,2007-04-10 18:20:50,2007-04-09,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$31.75,6000,10533,+132%,"+$190,500",-2.0,1.0,-5.0,0.0,WDFC
+712,D,2007-04-10 18:20:50,2007-04-09,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$35.00,-6000,10533,-36%,"-$210,000",-2.0,1.0,-5.0,0.0,WDFC
+713,,2007-03-05 19:24:48,2007-03-01,WDFC,Bewley Peter D,Dir,A - Grant,$32.08,1108,2981,+59%,"+$35,545",1.0,3.0,2.0,13.0,WDFC
+714,,2007-03-05 19:20:31,2007-03-01,WDFC,Collato Richard A,Dir,A - Grant,$32.08,1108,3972,+39%,"+$35,545",1.0,3.0,2.0,13.0,WDFC
+715,,2007-03-05 19:14:11,2007-03-01,WDFC,Bateman Giles H,Dir,A - Grant,$32.08,572,1708,+50%,"+$18,350",1.0,3.0,2.0,13.0,WDFC
+716,,2007-03-05 19:06:56,2007-03-01,WDFC,Lang Linda,Dir,A - Grant,$32.08,1108,3642,+44%,"+$35,545",1.0,3.0,2.0,13.0,WDFC
+717,,2007-01-19 17:09:18,2007-01-17,WDFC,Crivello Mario L,Dir,G - Gift,$0.00,-14033,868013,+2%,-$0,-1.0,-1.0,0.0,7.0,WDFC
+718,D,2006-08-31 18:01:48,2006-08-29,WDFC,Holdsworth Geoffrey,MD AsiaPacific,M - OptEx,$21.89,25000,1000,-104%,"+$547,195",0.0,1.0,3.0,-9.0,WDFC
+719,D,2006-08-31 18:01:48,2006-08-29,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale+OE,$34.91,-25000,1000,-96%,"-$872,705",0.0,1.0,3.0,-9.0,WDFC
+720,D,2006-04-27 17:58:54,2006-04-26,WDFC,Noble William B,"MD, Europe",M - OptEx,$20.81,5000,1200,-132%,"+$104,065",0.0,2.0,7.0,10.0,WDFC
+721,D,2006-04-27 17:58:54,2006-04-26,WDFC,Noble William B,"MD, Europe",S - Sale+OE,$31.66,-5000,1200,-81%,"-$158,300",0.0,2.0,7.0,10.0,WDFC
+722,D,2006-04-20 14:28:13,2006-04-18,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$20.75,20000,10911,-220%,"+$415,000",0.0,-1.0,0.0,14.0,WDFC
+723,D,2006-04-20 14:28:13,2006-04-18,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$32.70,-20000,10911,-65%,"-$654,000",0.0,-1.0,0.0,14.0,WDFC
+724,,2006-03-29 19:03:27,2006-03-27,WDFC,Bewley Peter D,Dir,A - Grant,$27.28,1099,1873,+142%,"+$29,981",-2.0,4.0,4.0,25.0,WDFC
+725,,2006-03-29 18:58:20,2006-03-27,WDFC,Schmale Neal E,Dir,A - Grant,$27.28,1099,4726,+30%,"+$29,981",-2.0,4.0,4.0,25.0,WDFC
+726,,2006-03-29 18:56:50,2006-03-27,WDFC,Adams John C Jr,Dir,A - Grant,$27.28,1099,4726,+30%,"+$29,981",-2.0,4.0,4.0,25.0,WDFC
+727,,2006-03-29 18:54:53,2006-03-27,WDFC,Luick Gary L,Dir,A - Grant,$27.28,201,1759,+13%,"+$5,483",-2.0,4.0,4.0,25.0,WDFC
+728,,2006-03-29 18:53:14,2006-03-27,WDFC,Collato Richard A,Dir,A - Grant,$27.28,1099,2864,+62%,"+$29,981",-2.0,4.0,4.0,25.0,WDFC
+729,,2006-03-29 18:52:06,2006-03-27,WDFC,Bateman Giles H,Dir,A - Grant,$27.28,403,1136,+55%,"+$10,994",-2.0,4.0,4.0,25.0,WDFC
+730,,2006-03-29 18:50:52,2006-03-27,WDFC,Lang Linda,Dir,A - Grant,$27.28,1099,2534,+77%,"+$29,981",-2.0,4.0,4.0,25.0,WDFC
+731,D,2006-02-24 17:16:00,2006-02-22,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$20.81,2406,10489,+30%,"+$50,076",-2.0,-1.0,1.0,11.0,WDFC
+732,D,2006-02-21 18:09:51,2006-02-21,WDFC,Milner Graham P,EVP,M - OptEx,$23.00,5000,8365,+149%,"+$115,000",0.0,0.0,0.0,12.0,WDFC
+733,D,2006-02-21 18:09:51,2006-02-21,WDFC,Milner Graham P,EVP,S - Sale+OE,$30.18,-5000,8365,-37%,"-$150,899",0.0,0.0,0.0,12.0,WDFC
+734,D,2006-02-10 16:30:08,2006-02-08,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$20.81,17594,8083,-185%,"+$366,184",-1.0,5.0,-2.0,9.0,WDFC
+735,D,2006-02-10 16:30:08,2006-02-08,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$30.00,-17594,8083,-69%,"-$527,862",-1.0,5.0,-2.0,9.0,WDFC
+736,D,2006-02-10 12:46:06,2006-02-08,WDFC,Irwin Michael J,"EVP, CFO",M - OptEx,$23.00,2400,5058,+90%,"+$55,200",0.0,5.0,-1.0,9.0,WDFC
+737,D,2006-02-10 12:46:06,2006-02-08,WDFC,Irwin Michael J,"EVP, CFO",S - Sale+OE,$30.22,-2400,5058,-32%,"-$72,530",0.0,5.0,-1.0,9.0,WDFC
+738,D,2006-02-09 14:59:31,2006-02-07,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$23.00,5000,8083,+162%,"+$115,000",1.0,5.0,0.0,8.0,WDFC
+739,D,2006-02-09 14:59:31,2006-02-07,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$30.06,-5000,8083,-38%,"-$150,304",1.0,5.0,0.0,8.0,WDFC
+740,,2006-01-31 18:59:17,2006-01-27,WDFC,Crivello Mario L,Dir,G - Gift,$0.00,-14880,880708,+2%,-$0,0.0,-2.0,-4.0,5.0,WDFC
+741,D,2005-08-12 16:58:04,2005-08-10,WDFC,Milner Graham P,EVP,M - OptEx,$21.19,5000,8347,+149%,"+$105,938",0.0,-1.0,1.0,11.0,WDFC
+742,D,2005-08-12 16:58:04,2005-08-10,WDFC,Milner Graham P,EVP,S - Sale+OE,$28.10,-5000,8347,-37%,"-$140,500",0.0,-1.0,1.0,11.0,WDFC
+743,,2005-08-03 13:24:09,2005-08-01,WDFC,Bewley Peter D,Dir,A - Grant,$29.04,774,774,New,"+$22,477",-1.0,-4.0,-1.0,10.0,WDFC
+744,D,2005-07-29 14:17:44,2005-07-27,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$21.19,1000,8177,+14%,"+$21,188",-2.0,-2.0,-4.0,8.0,WDFC
+745,D,2005-07-29 14:17:44,2005-07-27,WDFC,Freeman Michael L,"Division Pres, Americas",S - Sale+OE,$28.83,-1000,8177,-11%,"-$28,832",-2.0,-2.0,-4.0,8.0,WDFC
+746,,2005-04-21 19:18:18,2005-03-16,WDFC,Crivello Mario L,Dir,G - Gift,$0.00,-14626,894100,+2%,-$0,0.0,-1.0,-1.0,-8.0,WDFC
+747,,2005-03-03 17:49:59,2005-03-01,WDFC,Schmale Neal E,Dir,A - Grant,$29.97,901,3627,+33%,"+$27,003",0.0,-1.0,1.0,-11.0,WDFC
+748,,2005-03-03 17:47:54,2005-03-01,WDFC,Adams John C Jr,Dir,A - Grant,$29.97,901,3627,+33%,"+$27,003",0.0,-1.0,1.0,-11.0,WDFC
+749,,2005-03-03 17:46:18,2005-03-01,WDFC,Luick Gary L,Dir,A - Grant,$29.97,225,1558,+17%,"+$6,743",0.0,-1.0,1.0,-11.0,WDFC
+750,,2005-03-03 17:44:09,2005-03-01,WDFC,Collato Richard A,Dir,A - Grant,$29.97,901,1765,+104%,"+$27,003",0.0,-1.0,1.0,-11.0,WDFC
+751,,2005-03-03 17:42:35,2005-03-01,WDFC,Bateman Giles H,Dir,A - Grant,$29.97,225,733,+44%,"+$6,743",0.0,-1.0,1.0,-11.0,WDFC
+752,,2005-03-03 17:42:08,2005-03-01,WDFC,Lang Linda,Dir,A - Grant,$29.97,901,1435,+169%,"+$27,003",0.0,-1.0,1.0,-11.0,WDFC
+753,D,2005-02-09 15:48:28,2005-02-07,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$20.75,10000,10876,>999%,"+$207,500",-5.0,1.0,-3.0,-15.0,WDFC
+754,D,2005-02-09 15:48:28,2005-02-07,WDFC,Ridge Garry O,"Pres, CEO",S - Sale+OE,$32.75,-10000,10876,-48%,"-$327,500",-5.0,1.0,-3.0,-15.0,WDFC
+755,D,2005-02-02 17:21:42,2005-01-31,WDFC,Holdsworth Geoffrey,MD AsiaPacific,M - OptEx,$20.75,9300,11300,+465%,"+$192,975",-1.0,3.0,1.0,-9.0,WDFC
+756,D,2005-02-02 17:21:42,2005-01-31,WDFC,Holdsworth Geoffrey,MD AsiaPacific,S - Sale+OE,$32.00,-9300,11300,-45%,"-$297,600",-1.0,3.0,1.0,-9.0,WDFC
+757,,2004-04-20 18:13:12,2004-04-20,WDFC,Schleif Gerald C,Dir,S - Sale,$31.68,-10238,20000,-34%,"-$324,312",1.0,-2.0,-4.0,-10.0,WDFC
+758,,2004-03-03 20:48:22,2004-01-06,WDFC,Crivello Mario L,Dir,G - Gift,$0.00,-13885,907364,+2%,-$0,0.0,0.0,2.0,-16.0,WDFC
+759,,2004-03-03 19:51:04,2004-03-01,WDFC,Olson Kenneth E,Dir,A - Grant,$30.90,534,4976,+12%,"+$16,501",0.0,0.0,2.0,-16.0,WDFC
+760,,2004-03-03 19:48:24,2004-03-01,WDFC,Schmale Neal E,Dir,A - Grant,$30.90,534,2726,+24%,"+$16,501",0.0,0.0,2.0,-16.0,WDFC
+761,,2004-03-03 19:44:13,2004-03-01,WDFC,Adams John C Jr,Dir,A - Grant,$30.90,534,2726,+24%,"+$16,501",0.0,0.0,2.0,-16.0,WDFC
+762,,2004-03-03 18:25:31,2004-03-01,WDFC,Walsh Edward J,Dir,A - Grant,$30.90,178,4583,+4%,"+$5,500",0.0,0.0,2.0,-16.0,WDFC
+763,D,2004-03-03 18:21:40,2004-03-01,WDFC,Lang Linda,Dir,A - Grant,$30.90,534,534,New,"+$16,501",0.0,0.0,2.0,-16.0,WDFC
+764,,2004-03-03 18:09:42,2004-03-01,WDFC,Luick Gary L,Dir,A - Grant,$30.90,178,1333,+15%,"+$5,500",0.0,0.0,2.0,-16.0,WDFC
+765,,2004-03-03 18:01:08,2004-03-01,WDFC,Collato Richard A,Dir,A - Grant,$30.90,534,864,+162%,"+$16,501",0.0,0.0,2.0,-16.0,WDFC
+766,,2004-03-03 17:57:55,2004-03-01,WDFC,Bateman Giles H,Dir,A - Grant,$30.90,178,508,+54%,"+$5,500",0.0,0.0,2.0,-16.0,WDFC
+767,,2004-01-08 20:09:02,2003-10-06,WDFC,Freeman Michael L,"Division Pres, Americas",M - OptEx,$21.19,1150,7701,+18%,"+$24,366",-10.0,-12.0,-11.0,-18.0,WDFC
+768,,2003-12-15 13:08:15,2003-12-11,WDFC,Milner Graham P,EVP,M - OptEx,$20.81,2800,8280,+51%,"+$58,276",-3.0,0.0,-13.0,-15.0,WDFC
+769,,2003-12-01 18:03:11,2003-11-25,WDFC,Milner Graham P,EVP,M - OptEx,$18.08,14610,5497,-160%,"+$264,207",0.0,1.0,1.0,-14.0,WDFC
+770,,2003-12-01 18:03:11,2003-11-25,WDFC,Milner Graham P,EVP,S - Sale,$35.00,-14610,5497,-73%,"-$511,350",0.0,1.0,1.0,-14.0,WDFC
+771,,2003-11-25 13:40:05,2003-11-24,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$23.06,16000,10843,-310%,"+$368,960",0.0,3.0,1.0,-10.0,WDFC
+772,,2003-11-25 13:40:05,2003-11-24,WDFC,Ridge Garry O,"Pres, CEO",S - Sale,$34.50,-16000,10843,-60%,"-$552,000",0.0,3.0,1.0,-10.0,WDFC
+773,,2003-11-18 14:18:17,2003-11-14,WDFC,Noble William B,"MD, Europe",M - OptEx,$20.75,100,1200,+9%,"+$2,075",0.0,4.0,7.0,-8.0,WDFC
+774,,2003-11-12 14:23:08,2003-11-10,WDFC,Noble William B,"MD, Europe",M - OptEx,$20.75,9900,1100,-113%,"+$205,425",3.0,2.0,10.0,-6.0,WDFC
+775,,2003-11-12 14:23:08,2003-11-10,WDFC,Noble William B,"MD, Europe",S - Sale,$32.99,-9900,1100,-90%,"-$326,595",3.0,2.0,10.0,-6.0,WDFC
+776,,2003-10-14 14:16:28,2003-09-30,WDFC,Noble William B,"MD, Europe",M - OptEx,$23.06,200,1100,+22%,"+$4,613",0.0,-1.0,3.0,-1.0,WDFC
+777,,2003-10-14 14:14:28,2003-10-09,WDFC,Crivello Mario L,Dir,G - Gift,$31.87,-345,934639,0%,"-$10,995",0.0,-1.0,3.0,-1.0,WDFC
+778,A,2003-10-06 17:26:55,2003-09-25,WDFC,Noble William B,"MD, Europe",M - OptEx,$23.06,5800,900,-118%,"+$133,765",0.0,-1.0,5.0,11.0,WDFC
+779,A,2003-10-06 17:26:55,2003-09-25,WDFC,Noble William B,"MD, Europe",S - Sale,$31.00,-5800,900,-87%,"-$179,800",0.0,-1.0,5.0,11.0,WDFC
+780,,2003-10-01 13:02:14,2003-09-25,WDFC,Noble William B,"MD, Europe",M - OptEx,$23.06,5800,300,-105%,"+$133,765",1.0,0.0,2.0,11.0,WDFC
+781,,2003-10-01 13:02:14,2003-09-25,WDFC,Noble William B,"MD, Europe",S - Sale,$31.00,-5800,300,-95%,"-$179,800",1.0,0.0,2.0,11.0,WDFC
+782,,2003-09-26 17:14:08,2003-09-25,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$22.37,10705,10843,>999%,"+$239,502",1.0,4.0,1.0,13.0,WDFC
+783,,2003-09-26 17:14:08,2003-09-25,WDFC,Ridge Garry O,"Pres, CEO",S - Sale,$30.00,-10705,10843,-50%,"-$321,150",1.0,4.0,1.0,13.0,WDFC
+784,,2003-09-04 16:51:09,2003-09-02,WDFC,Ridge Garry O,"Pres, CEO",M - OptEx,$21.19,275,10843,+3%,"+$5,827",-3.0,-5.0,7.0,17.0,WDFC
+785,,2003-09-04 16:51:09,2003-09-02,WDFC,Ridge Garry O,"Pres, CEO",S - Sale,$30.00,-275,10843,-2%,"-$8,250",-3.0,-5.0,7.0,17.0,WDFC
+786,M,2003-08-26 17:02:20,2003-08-19,WDFC,Noble William B,"MD, Europe",M - OptEx,$22.01,13400,900,-107%,"+$294,940",0.0,2.0,-2.0,15.0,WDFC
+787,,2003-08-26 17:02:20,2003-08-19,WDFC,Noble William B,"MD, Europe",S - Sale,$29.50,-12800,900,-93%,"-$377,600",0.0,2.0,-2.0,15.0,WDFC
+788,,2003-08-21 14:03:13,2003-08-01,WDFC,Bateman Giles H,Dir,A - Grant,$24.99,330,330,New,"+$8,247",0.0,-1.0,-3.0,11.0,WDFC
+789,,2003-08-21 14:02:37,2003-08-01,WDFC,Collato Richard A,Dir,A - Grant,$24.99,330,330,New,"+$8,247",0.0,-1.0,-3.0,11.0,WDFC

@@ -1,13 +1,843 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-01-12 16:44:55,2022-01-12,ANGO,Trowbridge Stephen A,"EVP, CFO",P - Purchase,$22.64,1000,76081,+1%,"+$22,640",,,,,ANGO
-1,,2022-01-12 16:35:13,2022-01-11,ANGO,Clemmer James C,"Pres, CEO",P - Purchase,$22.84,10000,390764,+3%,"+$228,400",,,,,ANGO
-2,,2021-10-21 16:50:13,2021-10-20,ANGO,Helsel Dave,"SVP Global Operations, R, D",S - Sale,$27.97,-3494,26387,-12%,"-$97,727",,,,,ANGO
-3,D,2021-10-18 16:45:10,2021-10-15,ANGO,Centea Scott,"SVP, GM, Global VIT",S - Sale+OE,$27.92,-12000,46244,-21%,"-$335,040",,,,,ANGO
-4,D,2021-10-06 18:39:20,2021-10-05,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",S - Sale+OE,$27.15,-10748,31741,-25%,"-$291,808",,,,,ANGO
-5,,2021-04-15 16:20:59,2021-04-14,ANGO,Helsel Dave,"SVP Global Operations, R, D",S - Sale,$23.93,-3500,19115,-15%,"-$83,755",,,,,ANGO
-6,,2021-01-21 10:15:13,2021-01-20,ANGO,Johnson Wesley,Dir,S - Sale,$18.53,-6500,77911,-8%,"-$120,445",,,,,ANGO
-7,,2020-08-12 16:14:05,2020-08-11,ANGO,Trowbridge Stephen A,"EVP, CFO",P - Purchase,$9.38,1013,60273,+2%,"+$9,502",,,,,ANGO
-8,,2020-08-03 17:27:43,2020-07-31,ANGO,Clemmer James C,"Pres, CEO",P - Purchase,$8.26,40000,343319,+13%,"+$330,400",,,,,ANGO
-9,,2019-10-28 08:13:43,2019-10-25,ANGO,Clemmer James C,"Pres, CEO",P - Purchase,$14.19,15000,260418,+6%,"+$212,850",,,,,ANGO
-10,D,2019-07-18 16:12:05,2019-07-16,ANGO,Gould Kevin J,Dir,S - Sale+OE,$21.45,-13650,55124,-20%,"-$292,793",,,,,ANGO
-11,,2018-11-08 16:06:19,2018-11-07,ANGO,Greiner Michael,"EVP, CFO",S - Sale,$21.53,-1939,20731,-9%,"-$41,747",,,,,ANGO
+0,,2022-02-04 16:38:56,2022-02-03,ANGO,Trowbridge Stephen A,"EVP, CFO",F - Tax,$20.48,-583,75498,-1%,"-$11,940",,,,,ANGO
+1,,2022-02-03 16:14:41,2022-02-01,ANGO,Rosenzweig Richard C,"SVP, GC",F - Tax,$21.31,-1194,12904,-8%,"-$25,444",,,,,ANGO
+2,,2022-01-12 16:44:55,2022-01-12,ANGO,Trowbridge Stephen A,"EVP, CFO",P - Purchase,$22.64,1000,76081,+1%,"+$22,640",,,,,ANGO
+3,,2022-01-12 16:35:13,2022-01-11,ANGO,Clemmer James C,"Pres, CEO",P - Purchase,$22.84,10000,390764,+3%,"+$228,400",,,,,ANGO
+4,AD,2021-12-30 17:59:37,2021-07-21,ANGO,Clemmer James C,"Pres, CEO",A - Grant,$0.00,37420,372503,+11%,+$0,,,,,ANGO
+5,,2021-11-05 16:28:43,2021-10-31,ANGO,Centea Scott,"SVP, GM, Global VIT",F - Tax,$29.37,-953,45291,-2%,"-$27,990",,,,,ANGO
+6,,2021-10-21 16:50:13,2021-10-20,ANGO,Helsel Dave,"SVP Global Operations, R, D",S - Sale,$27.97,-3494,26387,-12%,"-$97,727",,,,,ANGO
+7,D,2021-10-21 16:43:59,2021-07-21,ANGO,Piccinini Laura,SVP International,A - Grant,$0.00,2952,2952,New,+$0,,,,,ANGO
+8,D,2021-10-18 16:45:10,2021-10-15,ANGO,Centea Scott,"SVP, GM, Global VIT",M - OptEx,$16.77,12000,46244,+35%,"+$201,240",,,,,ANGO
+9,D,2021-10-18 16:45:10,2021-10-15,ANGO,Centea Scott,"SVP, GM, Global VIT",S - Sale+OE,$27.92,-12000,46244,-21%,"-$335,040",,,,,ANGO
+10,D,2021-10-06 18:39:20,2021-10-05,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",M - OptEx,$16.59,10748,31741,+51%,"+$178,309",,,,,ANGO
+11,D,2021-10-06 18:39:20,2021-10-05,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",S - Sale+OE,$27.15,-10748,31741,-25%,"-$291,808",,,,,ANGO
+12,AD,2021-08-18 07:11:31,2021-08-12,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$27.29,-3130,31741,-9%,"-$85,418",,,,,ANGO
+13,AD,2021-08-18 07:11:31,2021-08-12,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",M - OptEx,$0.00,8210,31741,+35%,+$0,,,,,ANGO
+14,AD,2021-08-18 07:08:17,2021-08-12,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$27.29,-21532,378163,-5%,"-$587,608",,,,,ANGO
+15,AD,2021-08-18 07:08:17,2021-08-12,ANGO,Clemmer James C,"Pres, CEO",M - OptEx,$0.00,40528,378163,+12%,+$0,,,,,ANGO
+16,AD,2021-08-18 07:02:18,2021-08-12,ANGO,Trowbridge Stephen A,"EVP, CFO",F - Tax,$27.29,-4173,75081,-5%,"-$113,881",,,,,ANGO
+17,AD,2021-08-18 07:02:18,2021-08-12,ANGO,Trowbridge Stephen A,"EVP, CFO",M - OptEx,$0.00,10946,75081,+17%,+$0,,,,,ANGO
+18,AD,2021-08-18 06:59:07,2021-08-12,ANGO,Helsel Dave,"SVP Global Operations, R, D",F - Tax,$27.29,-3347,29881,-10%,"-$91,340",,,,,ANGO
+19,AD,2021-08-18 06:59:07,2021-08-12,ANGO,Helsel Dave,"SVP Global Operations, R, D",M - OptEx,$0.00,11406,29881,+62%,+$0,,,,,ANGO
+20,D,2021-08-17 06:50:17,2021-08-12,ANGO,Helsel Dave,"SVP Global Operations, R, D",F - Tax,$27.29,-788,23719,-3%,"-$21,505",,,,,ANGO
+21,D,2021-08-17 06:50:17,2021-08-12,ANGO,Helsel Dave,"SVP Global Operations, R, D",M - OptEx,$0.00,2685,23719,+13%,+$0,,,,,ANGO
+22,D,2021-08-17 06:49:20,2021-08-12,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$27.29,-9021,369533,-2%,"-$246,183",,,,,ANGO
+23,D,2021-08-17 06:49:20,2021-08-12,ANGO,Clemmer James C,"Pres, CEO",M - OptEx,$0.00,19387,369533,+6%,+$0,,,,,ANGO
+24,D,2021-08-17 06:48:14,2021-08-12,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$27.29,-702,28354,-2%,"-$19,158",,,,,ANGO
+25,D,2021-08-17 06:48:14,2021-08-12,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",M - OptEx,$0.00,2395,28354,+9%,+$0,,,,,ANGO
+26,D,2021-08-17 06:23:36,2021-08-12,ANGO,Trowbridge Stephen A,"EVP, CFO",F - Tax,$27.29,-1231,70308,-2%,"-$33,594",,,,,ANGO
+27,D,2021-08-17 06:23:36,2021-08-12,ANGO,Trowbridge Stephen A,"EVP, CFO",M - OptEx,$0.00,3231,70308,+5%,+$0,,,,,ANGO
+28,D,2021-07-30 18:31:41,2021-07-28,ANGO,Meteny Dennis S,Dir,F - Tax,$26.43,-3171,114694,-3%,"-$83,810",,,,,ANGO
+29,D,2021-07-30 18:31:41,2021-07-28,ANGO,Meteny Dennis S,Dir,M - OptEx,$14.64,5726,114694,+5%,"+$83,829",,,,,ANGO
+30,D,2021-07-30 18:27:14,2021-07-28,ANGO,Johnson Wesley,Dir,F - Tax,$26.43,-3171,86204,-4%,"-$83,810",,,,,ANGO
+31,D,2021-07-30 18:27:14,2021-07-28,ANGO,Johnson Wesley,Dir,M - OptEx,$14.64,5726,86204,+7%,"+$83,829",,,,,ANGO
+32,,2021-07-27 19:05:33,2021-07-26,ANGO,Centea Scott,"SVP, GM, Global VIT",F - Tax,$26.10,-419,46244,-1%,"-$10,936",,,,,ANGO
+33,,2021-07-27 19:01:39,2021-07-26,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$26.10,-318,26661,-1%,"-$8,300",,,,,ANGO
+34,,2021-07-27 19:01:20,2021-07-26,ANGO,Trowbridge Stephen A,"EVP, CFO",F - Tax,$26.10,-353,68308,-1%,"-$9,213",,,,,ANGO
+35,,2021-07-27 18:43:00,2021-07-26,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$26.10,-2105,359167,-1%,"-$54,941",,,,,ANGO
+36,,2021-07-23 19:14:13,2021-07-21,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,5738,83649,+7%,+$0,,,,,ANGO
+37,,2021-07-23 19:08:09,2021-07-21,ANGO,Reed Jan Stern,Dir,A - Grant,$0.00,5738,42717,+16%,+$0,,,,,ANGO
+38,,2021-07-23 19:04:29,2021-07-21,ANGO,Auen Eileen O'Shea,Dir,A - Grant,$0.00,5738,42401,+16%,+$0,,,,,ANGO
+39,,2021-07-23 18:59:22,2021-07-21,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,5738,98712,+6%,+$0,,,,,ANGO
+40,D,2021-07-23 18:53:00,2021-07-21,ANGO,Trowbridge Stephen A,"EVP, CFO",A - Grant,$0.00,7408,68661,+12%,+$0,,,,,ANGO
+41,DM,2021-07-23 18:53:00,2021-07-14,ANGO,Trowbridge Stephen A,"EVP, CFO",F - Tax,$25.81,-2038,68661,-3%,"-$52,605",,,,,ANGO
+42,,2021-07-23 18:51:49,2021-07-21,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,5738,112139,+5%,+$0,,,,,ANGO
+43,D,2021-07-23 18:50:28,2021-07-21,ANGO,Helsel Dave,"SVP Global Operations, R, D",A - Grant,$0.00,4058,21822,+23%,+$0,,,,,ANGO
+44,DM,2021-07-23 18:50:28,2021-07-14,ANGO,Helsel Dave,"SVP Global Operations, R, D",F - Tax,$25.55,-1351,21822,-6%,"-$34,520",,,,,ANGO
+45,D,2021-07-23 18:47:47,2021-07-21,ANGO,Centea Scott,"SVP, GM, VIT",A - Grant,$0.00,2842,46663,+6%,+$0,,,,,ANGO
+46,DM,2021-07-23 18:47:47,2021-07-14,ANGO,Centea Scott,"SVP, GM, VIT",F - Tax,$25.47,-1183,46663,-2%,"-$30,126",,,,,ANGO
+47,,2021-07-23 18:45:59,2021-07-21,ANGO,Licitra Karen A,Dir,A - Grant,$0.00,5738,28118,+26%,+$0,,,,,ANGO
+48,D,2021-07-23 18:45:18,2021-07-21,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",A - Grant,$0.00,4388,26979,+19%,+$0,,,,,ANGO
+49,DM,2021-07-23 18:45:18,2021-07-14,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$25.60,-1133,26979,-4%,"-$29,007",,,,,ANGO
+50,D,2021-07-23 18:42:38,2021-07-21,ANGO,Clemmer James C,"Pres, CEO",A - Grant,$0.00,26189,361272,+8%,+$0,,,,,ANGO
+51,DM,2021-07-23 18:42:38,2021-07-14,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$25.70,-8236,361272,-2%,"-$211,642",,,,,ANGO
+52,,2021-07-23 18:40:24,2021-07-21,ANGO,Tarnoff Michael E,Dir,A - Grant,$0.00,5738,21061,+37%,+$0,,,,,ANGO
+53,D,2021-07-23 18:39:39,2021-07-21,ANGO,Rosenzweig Richard C,"SVP, GC",A - Grant,$0.00,3098,14098,+28%,+$0,,,,,ANGO
+54,D,2021-04-16 17:39:13,2021-04-15,ANGO,Trowbridge Stephen A,"EVP, CFO",F - Tax,$24.21,-10080,63291,-14%,"-$244,037",,,,,ANGO
+55,D,2021-04-16 17:39:13,2021-04-15,ANGO,Trowbridge Stephen A,"EVP, CFO",M - OptEx,$14.07,13625,63291,+27%,"+$191,704",,,,,ANGO
+56,,2021-04-15 16:20:59,2021-04-14,ANGO,Helsel Dave,"SVP Global Operations, R, D",S - Sale,$23.93,-3500,19115,-15%,"-$83,755",,,,,ANGO
+57,D,2021-04-05 17:53:53,2021-04-01,ANGO,Donnelly Howard W,Dir,F - Tax,$23.15,-3621,92974,-4%,"-$83,826",,,,,ANGO
+58,D,2021-04-05 17:53:53,2021-04-01,ANGO,Donnelly Howard W,Dir,M - OptEx,$14.64,5726,92974,+7%,"+$83,829",,,,,ANGO
+59,,2021-02-04 16:27:55,2021-02-03,ANGO,Trowbridge Stephen A,"EVP, CFO",F - Tax,$19.24,-527,59746,-1%,"-$10,139",,,,,ANGO
+60,D,2021-02-03 20:44:10,2021-02-01,ANGO,Rosenzweig Richard C,"SVP, GC",A - Grant,$0.00,11000,11000,New,+$0,,,,,ANGO
+61,,2021-01-21 10:15:13,2021-01-20,ANGO,Johnson Wesley,Dir,S - Sale,$18.53,-6500,77911,-8%,"-$120,445",,,,,ANGO
+62,,2020-12-21 18:05:25,2020-12-18,ANGO,Helsel Dave,"SVP Global Operations, R, D",F - Tax,$14.29,-733,22615,-3%,"-$10,475",,,,,ANGO
+63,,2020-11-03 16:22:00,2020-10-31,ANGO,Centea Scott,"SVP, GM, VIT",F - Tax,$10.62,-849,45004,-2%,"-$9,016",,,,,ANGO
+64,,2020-09-16 16:17:13,2020-07-14,ANGO,Tarnoff Michael E,Dir,A - Grant,$0.00,15323,15323,New,+$0,,,,,ANGO
+65,,2020-08-12 16:14:05,2020-08-11,ANGO,Trowbridge Stephen A,"EVP, CFO",P - Purchase,$9.38,1013,60273,+2%,"+$9,502",,,,,ANGO
+66,,2020-08-03 17:27:43,2020-07-31,ANGO,Clemmer James C,"Pres, CEO",P - Purchase,$8.26,40000,343319,+13%,"+$330,400",,,,,ANGO
+67,M,2020-07-28 16:43:05,2020-07-26,ANGO,Trowbridge Stephen A,"EVP, CFO",F - Tax,$8.80,-606,59260,-1%,"-$5,333",,,,,ANGO
+68,M,2020-07-28 16:38:12,2020-07-26,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$8.80,-3675,303319,-1%,"-$32,340",,,,,ANGO
+69,M,2020-07-28 16:27:12,2020-07-26,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$8.80,-542,23724,-2%,"-$4,770",,,,,ANGO
+70,M,2020-07-21 19:36:04,2020-07-17,ANGO,Trowbridge Stephen A,"EVP, CFO",F - Tax,$9.33,-754,59866,-1%,"-$7,033",,,,,ANGO
+71,M,2020-07-21 19:34:42,2020-07-17,ANGO,Helsel Dave,"SVP Global Operations, R, D",F - Tax,$9.31,-616,23348,-3%,"-$5,737",,,,,ANGO
+72,M,2020-07-21 19:33:06,2020-07-17,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$9.36,-3614,306994,-1%,"-$33,818",,,,,ANGO
+73,M,2020-07-21 19:31:15,2020-07-17,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$9.33,-562,24266,-2%,"-$5,242",,,,,ANGO
+74,D,2020-07-17 21:44:53,2020-07-14,ANGO,Trowbridge Stephen A,"EVP, CFO",A - Grant,$0.00,15121,60620,+33%,+$0,,,,,ANGO
+75,D,2020-07-17 21:43:40,2020-07-14,ANGO,Helsel Dave,"SVP Global Operations, R, D",A - Grant,$0.00,7540,23962,+46%,+$0,,,,,ANGO
+76,D,2020-07-17 21:35:57,2020-07-14,ANGO,Clemmer James C,"Pres, CEO",A - Grant,$0.00,54435,310608,+21%,+$0,,,,,ANGO
+77,D,2020-07-17 21:34:59,2020-07-14,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",A - Grant,$0.00,6726,24828,+37%,+$0,,,,,ANGO
+78,,2020-07-16 19:28:18,2020-07-14,ANGO,Reed Jan Stern,Dir,A - Grant,$0.00,15323,36979,+71%,+$0,,,,,ANGO
+79,,2020-07-16 19:22:59,2020-07-14,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,15323,106401,+17%,+$0,,,,,ANGO
+80,,2020-07-16 19:17:10,2020-07-14,ANGO,Licitra Karen A,Dir,A - Grant,$0.00,15323,22380,+217%,+$0,,,,,ANGO
+81,,2020-07-16 19:11:49,2020-07-14,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,15323,84411,+22%,+$0,,,,,ANGO
+82,,2020-07-16 19:06:28,2020-07-14,ANGO,Gould Kevin J,Dir,A - Grant,$0.00,15323,77504,+25%,+$0,,,,,ANGO
+83,,2020-07-16 18:58:24,2020-07-14,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,15323,90869,+20%,+$0,,,,,ANGO
+84,,2020-07-16 18:52:09,2020-07-14,ANGO,Auen Eileen O'Shea,Dir,A - Grant,$0.00,15323,36663,+72%,+$0,,,,,ANGO
+85,,2020-05-27 20:56:06,2020-05-23,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$11.21,-826,18102,-4%,"-$9,259",,,,,ANGO
+86,,2020-04-07 16:11:33,2020-04-04,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$10.23,-4245,256173,-2%,"-$43,426",,,,,ANGO
+87,,2020-02-18 19:03:16,2020-02-12,ANGO,Boucher Brent J.,"SVP, GM of Oncology",F - Tax,$12.99,-490,15416,-3%,"-$6,365",,,,,ANGO
+88,D,2020-02-07 08:27:27,2020-02-03,ANGO,Trowbridge Stephen A,"EVP, GC, CFO",A - Grant,$0.00,5376,45499,+13%,+$0,,,,,ANGO
+89,,2020-01-21 16:17:37,2020-01-17,ANGO,Boucher Brent J.,"SVP, GM of Oncology",F - Tax,$15.48,-490,15906,-3%,"-$7,585",,,,,ANGO
+90,,2019-12-20 17:14:17,2019-12-18,ANGO,Helsel Dave,"SVP Global Operations, R, D",F - Tax,$15.57,-736,16422,-4%,"-$11,460",,,,,ANGO
+91,,2019-10-28 08:13:43,2019-10-25,ANGO,Clemmer James C,"Pres, CEO",P - Purchase,$14.19,15000,260418,+6%,"+$212,850",,,,,ANGO
+92,,2019-08-20 18:52:46,2019-08-18,ANGO,Greiner Michael,"EVP, CFO",F - Tax,$19.10,-826,33438,-2%,"-$15,777",,,,,ANGO
+93,D,2019-08-20 06:14:54,2019-07-12,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$21.68,-1185,40123,-3%,"-$25,691",,,,,ANGO
+94,D,2019-08-20 06:14:54,2019-07-12,ANGO,Trowbridge Stephen A,"SVP, GC",M - OptEx,$0.00,3585,40123,+10%,+$0,,,,,ANGO
+95,D,2019-08-20 06:08:04,2019-07-12,ANGO,Greiner Michael,"EVP, CFO",F - Tax,$21.68,-3440,34264,-9%,"-$74,579",,,,,ANGO
+96,D,2019-08-20 06:08:04,2019-07-12,ANGO,Greiner Michael,"EVP, CFO",M - OptEx,$0.00,10400,34264,+44%,+$0,,,,,ANGO
+97,D,2019-08-19 22:00:02,2019-07-12,ANGO,Simpson Robert Arthur,"SVP, GM, Global Vascular",F - Tax,$21.68,-5158,25883,-17%,"-$111,825",,,,,ANGO
+98,D,2019-08-19 22:00:02,2019-07-12,ANGO,Simpson Robert Arthur,"SVP, GM, Global Vascular",M - OptEx,$0.00,15600,25883,+152%,+$0,,,,,ANGO
+99,D,2019-08-19 21:59:26,2019-07-12,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$21.68,-96140,245418,-28%,"-$2,084,315",,,,,ANGO
+100,D,2019-08-19 21:59:26,2019-07-12,ANGO,Clemmer James C,"Pres, CEO",M - OptEx,$0.00,200000,245418,+440%,+$0,,,,,ANGO
+101,D,2019-08-19 21:58:02,2019-07-12,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$21.68,-1050,21052,-5%,"-$22,764",,,,,ANGO
+102,D,2019-08-19 21:58:02,2019-07-12,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",M - OptEx,$0.00,3174,21052,+18%,+$0,,,,,ANGO
+103,D,2019-08-09 17:41:59,2019-08-06,ANGO,Johnson Wesley,Dir,F - Tax,$19.83,-3581,69088,-5%,"-$71,011",,,,,ANGO
+104,D,2019-08-09 17:41:59,2019-08-06,ANGO,Johnson Wesley,Dir,M - OptEx,$10.68,6650,69088,+11%,"+$71,022",,,,,ANGO
+105,M,2019-08-02 16:33:16,2019-07-26,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$20.90,-3578,141558,-2%,"-$74,779",,,,,ANGO
+106,M,2019-08-02 16:31:28,2019-07-26,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$20.90,-528,18928,-3%,"-$11,035",,,,,ANGO
+107,,2019-08-02 16:29:16,2019-07-26,ANGO,Simpson Robert Arthur,"SVP, GM, Global Vascular",F - Tax,$20.89,-309,15441,-2%,"-$6,455",,,,,ANGO
+108,M,2019-08-02 16:26:15,2019-07-22,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$21.08,-946,37723,-2%,"-$19,942",,,,,ANGO
+109,,2019-08-02 16:22:34,2019-07-26,ANGO,Greiner Michael,"EVP, CFO",F - Tax,$20.89,-511,27304,-2%,"-$10,675",,,,,ANGO
+110,,2019-07-25 16:59:42,2019-07-18,ANGO,Greiner Michael,"EVP, CFO",F - Tax,$21.53,-576,27815,-2%,"-$12,401",,,,,ANGO
+111,,2019-07-25 16:56:54,2019-07-18,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$21.53,-1444,145136,-1%,"-$31,089",,,,,ANGO
+112,,2019-07-25 16:54:20,2019-07-18,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$21.53,-292,19456,-1%,"-$6,287",,,,,ANGO
+113,M,2019-07-25 16:51:24,2019-07-18,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$21.46,-744,38669,-2%,"-$15,965",,,,,ANGO
+114,,2019-07-25 16:48:40,2019-07-18,ANGO,Boucher Brent J.,"SVP, GM of Oncology",F - Tax,$21.53,-373,16396,-2%,"-$8,031",,,,,ANGO
+115,,2019-07-25 16:46:24,2019-07-18,ANGO,Helsel Dave,"SVP Global Operations, R, D",F - Tax,$21.53,-405,17158,-2%,"-$8,720",,,,,ANGO
+116,,2019-07-25 16:42:28,2019-07-18,ANGO,Simpson Robert Arthur,"SVP, GM, Global Vascular",F - Tax,$21.53,-392,15750,-2%,"-$8,440",,,,,ANGO
+117,,2019-07-19 21:44:29,2019-07-17,ANGO,Licitra Karen A,Dir,A - Grant,$0.00,7057,7057,New,+$0,,,,,ANGO
+118,D,2019-07-19 21:38:49,2019-07-17,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",A - Grant,$0.00,3098,19748,+19%,+$0,,,,,ANGO
+119,D,2019-07-19 21:36:35,2019-07-17,ANGO,Boucher Brent J.,"SVP, GM of Oncology",A - Grant,$0.00,3226,16769,+24%,+$0,,,,,ANGO
+120,D,2019-07-19 21:34:57,2019-07-17,ANGO,Helsel Dave,"SVP Global Operations, R, D",A - Grant,$0.00,3473,17563,+25%,+$0,,,,,ANGO
+121,D,2019-07-19 21:32:22,2019-07-17,ANGO,Trowbridge Stephen A,"SVP, GC",A - Grant,$0.00,4178,39413,+12%,+$0,,,,,ANGO
+122,D,2019-07-19 21:28:31,2019-07-17,ANGO,Greiner Michael,"EVP, CFO",A - Grant,$0.00,7660,28391,+37%,+$0,,,,,ANGO
+123,D,2019-07-19 21:25:57,2019-07-17,ANGO,Clemmer James C,"Pres, CEO",A - Grant,$0.00,25104,146580,+21%,+$0,,,,,ANGO
+124,,2019-07-19 21:24:15,2019-07-17,ANGO,Reed Jan Stern,Dir,A - Grant,$0.00,7057,21656,+48%,+$0,,,,,ANGO
+125,,2019-07-19 21:22:17,2019-07-17,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,7057,66019,+12%,+$0,,,,,ANGO
+126,,2019-07-19 21:20:00,2019-07-17,ANGO,Gold Jeffrey,Dir,A - Grant,$0.00,7057,83640,+9%,+$0,,,,,ANGO
+127,,2019-07-19 21:18:22,2019-07-17,ANGO,Gould Kevin J,Dir,A - Grant,$0.00,7057,62181,+13%,+$0,,,,,ANGO
+128,,2019-07-19 21:16:57,2019-07-17,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,7057,91078,+8%,+$0,,,,,ANGO
+129,,2019-07-19 21:15:09,2019-07-17,ANGO,Auen Eileen O'Shea,Dir,A - Grant,$0.00,7057,21340,+49%,+$0,,,,,ANGO
+130,,2019-07-19 21:13:23,2019-07-17,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,7057,75546,+10%,+$0,,,,,ANGO
+131,D,2019-07-18 16:15:42,2019-07-12,ANGO,Gold Jeffrey,Dir,F - Tax,$21.68,-3276,76583,-4%,"-$71,024",,,,,ANGO
+132,D,2019-07-18 16:15:42,2019-07-12,ANGO,Gold Jeffrey,Dir,M - OptEx,$10.68,6650,76583,+10%,"+$71,022",,,,,ANGO
+133,D,2019-07-18 16:12:05,2019-07-16,ANGO,Gould Kevin J,Dir,M - OptEx,$11.32,13650,55124,+33%,"+$154,462",,,,,ANGO
+134,D,2019-07-18 16:12:05,2019-07-16,ANGO,Gould Kevin J,Dir,S - Sale+OE,$21.45,-13650,55124,-20%,"-$292,793",,,,,ANGO
+135,AD,2019-07-16 16:26:30,2019-06-28,ANGO,Meteny Dennis S,Dir,F - Tax,$19.69,-3607,84021,-4%,"-$71,022",,,,,ANGO
+136,AD,2019-07-16 16:26:30,2019-06-28,ANGO,Meteny Dennis S,Dir,M - OptEx,$10.68,6650,84021,+9%,"+$71,022",,,,,ANGO
+137,D,2019-07-03 17:58:14,2019-05-31,ANGO,Meteny Dennis S,Dir,F - Tax,$18.79,-3780,83848,-4%,"-$71,026",,,,,ANGO
+138,D,2019-07-03 17:58:14,2019-05-31,ANGO,Meteny Dennis S,Dir,M - OptEx,$10.68,6650,83848,+9%,"+$71,022",,,,,ANGO
+139,,2019-05-24 12:53:33,2019-05-23,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$19.15,-858,16650,-5%,"-$16,431",,,,,ANGO
+140,,2019-04-25 20:21:45,2019-04-24,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$20.64,-1319,35235,-4%,"-$27,224",,,,,ANGO
+141,,2019-04-08 16:09:39,2019-04-04,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$22.95,-4232,121476,-3%,"-$97,124",,,,,ANGO
+142,,2019-02-14 18:14:29,2019-02-12,ANGO,Boucher Brent J.,"SVP, GM of Oncology",F - Tax,$22.90,-490,13543,-3%,"-$11,221",,,,,ANGO
+143,,2019-02-01 16:24:37,2019-01-31,ANGO,Simpson Robert Arthur,"SVP, GM, Global Vascular",F - Tax,$21.10,-981,16142,-6%,"-$20,699",,,,,ANGO
+144,,2018-11-08 16:06:19,2018-11-07,ANGO,Greiner Michael,"EVP, CFO",S - Sale,$21.53,-1939,20731,-9%,"-$41,747",,,,,ANGO
+145,D,2018-08-22 19:05:45,2018-07-12,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$20.50,-1175,38935,-3%,"-$24,088",,,,,ANGO
+146,D,2018-08-22 19:05:45,2018-07-12,ANGO,Trowbridge Stephen A,"SVP, GC",M - OptEx,$0.00,3556,38935,+10%,+$0,,,,,ANGO
+147,,2018-07-30 18:57:41,2018-07-27,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$21.42,-285,36554,-1%,"-$6,105",,,,,ANGO
+148,,2018-07-30 18:56:06,2018-07-27,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$21.42,-1752,125708,-1%,"-$37,528",,,,,ANGO
+149,,2018-07-30 18:53:07,2018-07-27,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$21.42,-252,17508,-1%,"-$5,398",,,,,ANGO
+150,M,2018-07-27 20:13:22,2018-07-22,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$21.67,-1052,36839,-3%,"-$22,795",,,,,ANGO
+151,,2018-07-27 20:08:46,2018-07-26,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$21.88,-276,17760,-2%,"-$6,039",,,,,ANGO
+152,,2018-07-27 20:01:54,2018-07-26,ANGO,Greiner Michael,"EVP, CFO",F - Tax,$21.88,-511,22670,-2%,"-$11,181",,,,,ANGO
+153,,2018-07-27 19:58:24,2018-07-26,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$21.88,-1826,127460,-1%,"-$39,953",,,,,ANGO
+154,,2018-07-27 19:55:12,2018-07-26,ANGO,Simpson Robert Arthur,"SVP, GM, Global Vascular",F - Tax,$21.88,-308,17123,-2%,"-$6,739",,,,,ANGO
+155,D,2018-07-20 21:43:13,2018-07-18,ANGO,Simpson Robert Arthur,"SVP, GM, Global Vascular",A - Grant,$0.00,4748,17431,+37%,+$0,,,,,ANGO
+156,D,2018-07-20 21:41:00,2018-07-18,ANGO,Trowbridge Stephen A,"SVP, GC",A - Grant,$0.00,4719,37891,+14%,+$0,,,,,ANGO
+157,D,2018-07-20 21:38:55,2018-07-18,ANGO,Greiner Michael,"EVP, CFO",A - Grant,$0.00,6988,23181,+43%,+$0,,,,,ANGO
+158,D,2018-07-20 21:36:53,2018-07-18,ANGO,Clemmer James C,"Pres, CEO",A - Grant,$0.00,17469,129286,+16%,+$0,,,,,ANGO
+159,D,2018-07-20 21:34:56,2018-07-18,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",A - Grant,$0.00,3539,18036,+24%,+$0,,,,,ANGO
+160,,2018-07-20 21:32:41,2018-07-18,ANGO,Reed Jan Stern,Dir,A - Grant,$0.00,6307,14599,+76%,+$0,,,,,ANGO
+161,,2018-07-20 21:29:54,2018-07-18,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,6307,80978,+8%,+$0,,,,,ANGO
+162,,2018-07-20 21:27:34,2018-07-18,ANGO,Laporte Steve,Dir,A - Grant,$0.00,6307,48484,+15%,+$0,,,,,ANGO
+163,,2018-07-20 21:25:09,2018-07-18,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,6307,58962,+12%,+$0,,,,,ANGO
+164,,2018-07-20 21:23:04,2018-07-18,ANGO,Gould Kevin J,Dir,A - Grant,$0.00,6307,55124,+13%,+$0,,,,,ANGO
+165,,2018-07-20 21:20:48,2018-07-18,ANGO,Auen Eileen O'Shea,Dir,A - Grant,$0.00,6307,14283,+79%,+$0,,,,,ANGO
+166,,2018-07-20 21:18:25,2018-07-18,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,6307,68489,+10%,+$0,,,,,ANGO
+167,,2018-07-20 21:15:35,2018-07-18,ANGO,Gold Jeffrey,Dir,A - Grant,$0.00,6307,73209,+9%,+$0,,,,,ANGO
+168,D,2018-07-10 18:44:53,2018-07-06,ANGO,Gold Jeffrey,Dir,F - Tax,$23.65,-4004,66902,-6%,"-$94,695",,,,,ANGO
+169,D,2018-07-10 18:44:53,2018-07-06,ANGO,Gold Jeffrey,Dir,M - OptEx,$13.53,7000,66902,+12%,"+$94,710",,,,,ANGO
+170,D,2018-06-25 16:30:19,2018-06-21,ANGO,Meteny Dennis S,Dir,F - Tax,$22.40,-8456,74671,-10%,"-$189,414",,,,,ANGO
+171,D,2018-06-25 16:30:19,2018-06-21,ANGO,Meteny Dennis S,Dir,M - OptEx,$13.53,14000,74671,+23%,"+$189,420",,,,,ANGO
+172,D,2018-06-25 16:26:45,2018-06-21,ANGO,Donnelly Howard W,Dir,F - Tax,$22.40,-3171,62182,-5%,"-$71,030",,,,,ANGO
+173,D,2018-06-25 16:26:45,2018-06-21,ANGO,Donnelly Howard W,Dir,M - OptEx,$10.68,6650,62182,+12%,"+$71,022",,,,,ANGO
+174,D,2018-06-25 16:23:48,2018-06-21,ANGO,Gold Jeffrey,Dir,F - Tax,$22.40,-4228,63906,-6%,"-$94,707",,,,,ANGO
+175,D,2018-06-25 16:23:48,2018-06-21,ANGO,Gold Jeffrey,Dir,M - OptEx,$13.53,7000,63906,+12%,"+$94,710",,,,,ANGO
+176,D,2018-06-25 16:20:28,2018-06-22,ANGO,Johnson Wesley,Dir,F - Tax,$22.77,-8319,52655,-14%,"-$189,424",,,,,ANGO
+177,D,2018-06-25 16:20:28,2018-06-22,ANGO,Johnson Wesley,Dir,M - OptEx,$13.53,14000,52655,+36%,"+$189,420",,,,,ANGO
+178,,2018-05-24 20:58:03,2018-05-23,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$20.37,-827,14497,-5%,"-$16,846",,,,,ANGO
+179,,2018-04-25 16:57:03,2018-04-24,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$19.76,-1280,33172,-4%,"-$25,293",,,,,ANGO
+180,,2018-02-02 15:12:56,2018-01-31,ANGO,Simpson Robert Arthur,"SVP, GM, Global Vascular",F - Tax,$17.41,-1056,12683,-8%,"-$18,385",,,,,ANGO
+181,D,2017-11-22 13:48:37,2017-11-21,ANGO,Donnelly Howard W,Dir,F - Tax,$17.42,-10873,58703,-16%,"-$189,408",,,,,ANGO
+182,D,2017-11-22 13:48:37,2017-11-21,ANGO,Donnelly Howard W,Dir,M - OptEx,$13.53,14000,58703,+31%,"+$189,420",,,,,ANGO
+183,D,2017-11-17 16:08:36,2017-11-15,ANGO,Richard Stark,"SVP, GM - Oncology",M - OptEx,$11.45,27409,20754,-412%,"+$313,815",,,,,ANGO
+184,D,2017-11-17 16:08:36,2017-11-15,ANGO,Richard Stark,"SVP, GM - Oncology",S - Sale+OE,$16.29,-27409,20754,-57%,"-$446,493",,,,,ANGO
+185,D,2017-09-14 15:24:02,2017-09-12,ANGO,Gould Kevin J,Dir,F - Tax,$18.09,-30247,48817,-38%,"-$547,168",,,,,ANGO
+186,D,2017-09-14 15:24:02,2017-09-12,ANGO,Gould Kevin J,Dir,M - OptEx,$14.03,39000,48817,+397%,"+$547,170",,,,,ANGO
+187,,2017-08-08 17:49:28,2017-08-06,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$16.56,-495,34452,-1%,"-$8,197",,,,,ANGO
+188,D,2017-08-08 17:48:12,2017-07-25,ANGO,Johnson Wesley,Dir,F - Tax,$17.12,-12879,48095,-21%,"-$220,488",,,,,ANGO
+189,D,2017-08-08 17:48:12,2017-07-25,ANGO,Johnson Wesley,Dir,M - OptEx,$15.75,14000,48095,+41%,"+$220,500",,,,,ANGO
+190,,2017-08-08 17:46:24,2017-08-06,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$16.56,-502,20754,-2%,"-$8,313",,,,,ANGO
+191,D,2017-08-08 17:44:51,2017-07-25,ANGO,Meteny Dennis S,Dir,F - Tax,$17.12,-12879,70248,-15%,"-$220,488",,,,,ANGO
+192,D,2017-08-08 17:44:51,2017-07-25,ANGO,Meteny Dennis S,Dir,M - OptEx,$15.75,14000,70248,+25%,"+$220,500",,,,,ANGO
+193,D,2017-07-28 17:38:54,2017-07-26,ANGO,Clemmer James C,"Pres, CEO",A - Grant,$0.00,22092,111817,+25%,+$0,,,,,ANGO
+194,D,2017-07-28 17:38:54,2017-07-27,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$16.36,-1958,111817,-2%,"-$32,033",,,,,ANGO
+195,D,2017-07-28 17:35:29,2017-07-26,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",A - Grant,$0.00,3342,15324,+28%,+$0,,,,,ANGO
+196,D,2017-07-28 17:35:29,2017-07-27,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$16.36,-282,15324,-2%,"-$4,614",,,,,ANGO
+197,D,2017-07-28 15:47:43,2017-07-26,ANGO,Gold Jeffrey,Dir,A - Grant,$0.00,7976,61134,+15%,+$0,,,,,ANGO
+198,D,2017-07-28 15:47:43,2017-07-25,ANGO,Gold Jeffrey,Dir,F - Tax,$17.12,-12879,61134,-17%,"-$220,488",,,,,ANGO
+199,D,2017-07-28 15:47:43,2017-07-25,ANGO,Gold Jeffrey,Dir,M - OptEx,$15.75,14000,61134,+30%,"+$220,500",,,,,ANGO
+200,,2017-07-28 15:43:12,2017-07-26,ANGO,Reed Jan Stern,Dir,A - Grant,$0.00,7976,8292,>999%,+$0,,,,,ANGO
+201,,2017-07-28 15:41:29,2017-07-26,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,7976,69127,+13%,+$0,,,,,ANGO
+202,,2017-07-28 15:39:28,2017-07-26,ANGO,Laporte Steve,Dir,A - Grant,$0.00,7976,42177,+23%,+$0,,,,,ANGO
+203,,2017-07-28 15:37:46,2017-07-26,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,7976,46974,+20%,+$0,,,,,ANGO
+204,,2017-07-28 15:33:49,2017-07-26,ANGO,Gould Kevin J,Dir,A - Grant,$0.00,7976,40064,+25%,+$0,,,,,ANGO
+205,,2017-07-28 15:20:39,2017-07-26,ANGO,Auen Eileen O'Shea,Dir,A - Grant,$0.00,7976,7976,New,+$0,,,,,ANGO
+206,,2017-07-28 15:17:58,2017-07-26,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,7976,55576,+17%,+$0,,,,,ANGO
+207,D,2017-07-28 15:15:21,2017-07-26,ANGO,Richard Stark,"SVP, GM - Oncology",A - Grant,$0.00,3648,21256,+21%,+$0,,,,,ANGO
+208,DM,2017-07-28 15:15:21,2017-07-22,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$16.97,-825,21256,-4%,"-$13,998",,,,,ANGO
+209,D,2017-07-28 15:12:01,2017-07-26,ANGO,Simpson Robert Arthur,"SVP, GM, Global Vascular",A - Grant,$0.00,3739,13739,+37%,+$0,,,,,ANGO
+210,D,2017-07-28 15:08:29,2017-07-26,ANGO,Greiner Michael,"EVP, CFO",A - Grant,$0.00,6193,16193,+62%,+$0,,,,,ANGO
+211,D,2017-07-28 15:05:38,2017-07-26,ANGO,Trowbridge Stephen A,"SVP, GC",A - Grant,$0.00,3705,34947,+12%,+$0,,,,,ANGO
+212,DM,2017-07-28 15:05:38,2017-07-22,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$16.97,-834,34947,-2%,"-$14,151",,,,,ANGO
+213,,2017-07-25 14:33:37,2017-07-24,ANGO,Reed Jan Stern,Dir,P - Purchase,$16.00,316,316,New,"+$5,056",,,,,ANGO
+214,,2017-07-21 21:46:25,2017-07-21,ANGO,Donnelly Howard W,Dir,P - Purchase,$15.72,5000,47600,+12%,"+$78,600",,,,,ANGO
+215,M,2017-07-21 18:43:07,2017-07-20,ANGO,Clemmer James C,"Pres, CEO",P - Purchase,$15.67,25000,91683,+37%,"+$391,750",,,,,ANGO
+216,D,2017-06-21 21:42:07,2017-06-19,ANGO,Donnelly Howard W,Dir,F - Tax,$16.28,-13544,42600,-24%,"-$220,496",,,,,ANGO
+217,D,2017-06-21 21:42:07,2017-06-19,ANGO,Donnelly Howard W,Dir,M - OptEx,$15.75,14000,42600,+49%,"+$220,500",,,,,ANGO
+218,,2017-05-25 18:07:39,2017-05-23,ANGO,Campbell Chad Thomas,"SVP, GM, Vascular Access",F - Tax,$15.82,-788,12264,-6%,"-$12,466",,,,,ANGO
+219,,2017-04-25 16:14:23,2017-04-24,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$15.78,-1585,32076,-5%,"-$25,011",-2.0,0.0,,,ANGO
+220,,2017-04-14 16:48:37,2017-04-12,ANGO,Burgstahler David F,"Dir, 10%",S - Sale,$16.00,-2350000,405394,-85%,"-$37,600,000",0.0,1.0,,,ANGO
+221,,2017-04-14 16:40:59,2017-04-12,ANGO,"Avista Capital Partners Gp, LLC",10%,S - Sale,$16.00,-2350000,381406,-86%,"-$37,600,000",0.0,1.0,,,ANGO
+222,,2017-04-10 14:00:00,2017-04-04,ANGO,Clemmer James C,"Pres, CEO",F - Tax,$17.06,-4508,66683,-6%,"-$76,906",0.0,-5.0,-2.0,,ANGO
+223,D,2017-01-17 14:34:07,2017-01-13,ANGO,Laporte Steve,Dir,F - Tax,$17.92,-14000,34201,-29%,"-$250,880",-1.0,-7.0,-7.0,,ANGO
+224,D,2017-01-17 14:34:07,2017-01-13,ANGO,Laporte Steve,Dir,M - OptEx,$15.75,14000,34201,+69%,"+$220,500",-1.0,-7.0,-7.0,,ANGO
+225,,2016-11-22 16:21:24,2016-11-18,ANGO,Burgstahler David F,"Dir, 10%",S - Sale,$15.68,-2091294,789578,-73%,"-$32,791,490",1.0,1.0,2.0,,ANGO
+226,,2016-11-22 16:20:46,2016-11-18,ANGO,"Avista Capital Partners Gp, LLC",10%,S - Sale,$15.68,-2091294,765590,-73%,"-$32,791,490",1.0,1.0,2.0,,ANGO
+227,D,2016-09-06 18:54:17,2016-08-31,ANGO,Meteny Dennis S,Dir,F - Tax,$16.54,-9642,61151,-14%,"-$159,479",2.0,-1.0,2.0,-3.0,ANGO
+228,D,2016-09-06 18:54:17,2016-08-31,ANGO,Meteny Dennis S,Dir,M - OptEx,$13.29,12000,61151,+24%,"+$159,480",2.0,-1.0,2.0,-3.0,ANGO
+229,D,2016-09-06 18:51:55,2016-08-31,ANGO,Gold Jeffrey,Dir,F - Tax,$16.54,-9642,52037,-16%,"-$159,479",2.0,-1.0,2.0,-3.0,ANGO
+230,D,2016-09-06 18:51:55,2016-08-31,ANGO,Gold Jeffrey,Dir,M - OptEx,$13.29,12000,52037,+30%,"+$159,480",2.0,-1.0,2.0,-3.0,ANGO
+231,D,2016-08-22 18:52:59,2016-08-18,ANGO,Greiner Michael,"EVP, CFO",A - Grant,$0.00,10000,10000,New,+$0,0.0,-1.0,1.0,-3.0,ANGO
+232,D,2016-08-18 21:15:20,2016-07-11,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$14.48,-1698,33661,-5%,"-$24,587",1.0,3.0,4.0,3.0,ANGO
+233,D,2016-08-18 21:15:20,2016-07-11,ANGO,Trowbridge Stephen A,"SVP, GC",M - OptEx,$0.00,4576,33661,+16%,+$0,1.0,3.0,4.0,3.0,ANGO
+234,,2016-08-09 17:25:04,2016-08-08,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$15.49,-497,30783,-2%,"-$7,699",-1.0,2.0,10.0,3.0,ANGO
+235,,2016-08-05 16:42:14,2016-08-05,ANGO,Burgstahler David F,"Dir, 10%",S - Sale,$14.62,-2250000,1579395,-59%,"-$32,895,000",2.0,3.0,10.0,7.0,ANGO
+236,,2016-08-05 16:39:03,2016-08-05,ANGO,"Avista Capital Partners Gp, LLC",10%,S - Sale,$14.62,-2241000,1555407,-59%,"-$32,763,420",2.0,3.0,10.0,7.0,ANGO
+237,D,2016-07-29 16:48:59,2016-07-27,ANGO,Burgstahler David F,Dir,A - Grant,$0.00,5063,9456996,0%,+$0,0.0,-8.0,0.0,0.0,ANGO
+238,D,2016-07-29 16:44:13,2016-07-27,ANGO,Gould Kevin J,Dir,A - Grant,$0.00,5063,32088,+19%,+$0,0.0,-8.0,0.0,0.0,ANGO
+239,D,2016-07-29 16:41:22,2016-07-27,ANGO,Laporte Steve,Dir,A - Grant,$0.00,5063,34201,+17%,+$0,0.0,-8.0,0.0,0.0,ANGO
+240,D,2016-07-29 16:37:45,2016-07-27,ANGO,Trowbridge Stephen A,"SVP, GC",A - Grant,$0.00,3447,31280,+12%,+$0,0.0,-8.0,0.0,0.0,ANGO
+241,D,2016-07-29 16:30:08,2016-07-27,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,5063,42144,+14%,+$0,0.0,-8.0,0.0,0.0,ANGO
+242,D,2016-07-29 16:27:42,2016-07-27,ANGO,Gold Jeffrey,Dir,A - Grant,$0.00,5063,49679,+11%,+$0,0.0,-8.0,0.0,0.0,ANGO
+243,D,2016-07-29 16:25:05,2016-07-27,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,5063,38998,+15%,+$0,0.0,-8.0,0.0,0.0,ANGO
+244,D,2016-07-29 16:21:53,2016-07-27,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,5063,58793,+9%,+$0,0.0,-8.0,0.0,0.0,ANGO
+245,D,2016-07-29 16:18:43,2016-07-27,ANGO,Clemmer James C,"Pres, CEO",A - Grant,$0.00,21191,71191,+42%,+$0,0.0,-8.0,0.0,0.0,ANGO
+246,,2016-07-27 17:13:21,2016-07-25,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$16.49,-439,27833,-2%,"-$7,239",0.0,-8.0,-1.0,0.0,ANGO
+247,,2016-07-26 18:19:07,2016-07-22,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$16.52,-399,28272,-1%,"-$6,591",0.0,-1.0,1.0,-1.0,ANGO
+248,D,2016-07-18 20:16:34,2016-07-15,ANGO,Donnelly Howard W,Dir,F - Tax,$16.20,-9844,37081,-21%,"-$159,473",1.0,0.0,-3.0,8.0,ANGO
+249,D,2016-07-18 20:16:34,2016-07-15,ANGO,Donnelly Howard W,Dir,M - OptEx,$13.29,12000,37081,+48%,"+$159,480",1.0,0.0,-3.0,8.0,ANGO
+250,D,2016-07-18 20:14:28,2016-07-15,ANGO,Johnson Wesley,Dir,F - Tax,$16.20,-9844,33935,-22%,"-$159,473",1.0,0.0,-3.0,8.0,ANGO
+251,D,2016-07-18 20:14:28,2016-07-15,ANGO,Johnson Wesley,Dir,M - OptEx,$13.29,12000,33935,+55%,"+$159,480",1.0,0.0,-3.0,8.0,ANGO
+252,D,2016-07-15 19:25:44,2016-07-13,ANGO,Laporte Steve,Dir,F - Tax,$15.94,-10005,29138,-26%,"-$159,480",2.0,3.0,-3.0,7.0,ANGO
+253,D,2016-07-15 19:25:44,2016-07-13,ANGO,Laporte Steve,Dir,M - OptEx,$13.29,12000,29138,+70%,"+$159,480",2.0,3.0,-3.0,7.0,ANGO
+254,,2016-05-09 16:05:37,2016-05-06,ANGO,Greiner Charles R,VP - Global Franchise,S - Sale,$12.31,-3508,20910,-14%,"-$43,183",1.0,-4.0,4.0,25.0,ANGO
+255,,2016-04-25 18:59:43,2016-04-25,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$12.23,-1358,28671,-5%,"-$16,608",1.0,0.0,-4.0,41.0,ANGO
+256,M,2016-04-25 18:59:43,2016-04-21,ANGO,Trowbridge Stephen A,"SVP, GC",S - Sale,$12.30,-12940,28671,-31%,"-$159,184",1.0,0.0,-4.0,41.0,ANGO
+257,D,2016-04-05 16:06:38,2016-04-04,ANGO,Clemmer James C,"Pres, CEO",A - Grant,$0.00,50000,50000,New,+$0,2.0,-2.0,12.0,53.0,ANGO
+258,,2015-09-11 20:39:03,2015-09-10,ANGO,Soto John,"SVP, CCO",F - Tax,$14.51,-816,22452,-4%,"-$11,840",-1.0,2.0,-16.0,-21.0,ANGO
+259,,2015-09-11 20:36:57,2015-09-08,ANGO,Devivo Joseph,"Pres, CEO",F - Tax,$14.52,-2320,198451,-1%,"-$33,686",-1.0,2.0,-16.0,-21.0,ANGO
+260,,2015-08-07 16:51:53,2015-08-06,ANGO,Soto John,"SVP, CCO",F - Tax,$15.91,-492,23268,-2%,"-$7,828",-1.0,-3.0,-6.0,-32.0,ANGO
+261,,2015-08-07 16:49:03,2015-08-06,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$15.91,-485,42969,-1%,"-$7,716",-1.0,-3.0,-6.0,-32.0,ANGO
+262,,2015-08-07 16:47:22,2015-08-06,ANGO,Greiner Charles R,VP - Global Franchise,F - Tax,$15.91,-465,24418,-2%,"-$7,398",-1.0,-3.0,-6.0,-32.0,ANGO
+263,,2015-08-07 16:45:42,2015-08-06,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$15.91,-477,30528,-2%,"-$7,589",-1.0,-3.0,-6.0,-32.0,ANGO
+264,,2015-08-07 16:44:03,2015-08-06,ANGO,Frost Mark T,"EVP, CFO",F - Tax,$15.91,-797,38389,-2%,"-$12,680",-1.0,-3.0,-6.0,-32.0,ANGO
+265,,2015-08-07 16:42:07,2015-08-06,ANGO,Devivo Joseph,"Pres, CEO",F - Tax,$15.91,-1660,200771,-1%,"-$26,411",-1.0,-3.0,-6.0,-32.0,ANGO
+266,D,2015-08-07 16:39:21,2015-08-05,ANGO,Meteny Dennis S,Dir,F - Tax,$15.81,-5795,53730,-10%,"-$91,619",-1.0,-3.0,-6.0,-32.0,ANGO
+267,D,2015-08-07 16:39:21,2015-08-05,ANGO,Meteny Dennis S,Dir,M - OptEx,$15.27,6000,53730,+13%,"+$91,620",-1.0,-3.0,-6.0,-32.0,ANGO
+268,D,2015-08-06 14:05:13,2015-08-05,ANGO,Johnson Wesley,Dir,F - Tax,$15.81,-5795,31779,-15%,"-$91,619",1.0,-6.0,-8.0,-33.0,ANGO
+269,D,2015-08-06 14:05:13,2015-08-05,ANGO,Johnson Wesley,Dir,M - OptEx,$15.27,6000,31779,+23%,"+$91,620",1.0,-6.0,-8.0,-33.0,ANGO
+270,D,2015-08-06 13:58:34,2015-08-05,ANGO,Gold Jeffrey,Dir,F - Tax,$15.81,-5795,44616,-11%,"-$91,619",1.0,-6.0,-8.0,-33.0,ANGO
+271,D,2015-08-06 13:58:34,2015-08-05,ANGO,Gold Jeffrey,Dir,M - OptEx,$15.27,6000,44616,+16%,"+$91,620",1.0,-6.0,-8.0,-33.0,ANGO
+272,D,2015-08-06 13:54:40,2015-07-22,ANGO,Laporte Steve,Dir,A - Grant,$0.00,5266,27143,+24%,+$0,1.0,-6.0,-8.0,-33.0,ANGO
+273,D,2015-08-06 13:54:40,2015-08-05,ANGO,Laporte Steve,Dir,F - Tax,$15.81,-5795,27143,-18%,"-$91,619",1.0,-6.0,-8.0,-33.0,ANGO
+274,D,2015-08-06 13:54:40,2015-08-05,ANGO,Laporte Steve,Dir,M - OptEx,$15.27,6000,27143,+28%,"+$91,620",1.0,-6.0,-8.0,-33.0,ANGO
+275,,2015-08-05 21:57:37,2015-08-03,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$15.54,-1652,31005,-5%,"-$25,672",1.0,-5.0,-7.0,-32.0,ANGO
+276,,2015-08-05 21:57:02,2015-08-03,ANGO,Devivo Joseph,"Pres, CEO",F - Tax,$15.54,-2014,202431,-1%,"-$31,298",1.0,-5.0,-7.0,-32.0,ANGO
+277,DM,2015-08-05 21:48:56,2015-08-03,ANGO,Greiner Charles R,VP - Global Franchise,F - Tax,$15.79,-14987,24883,-38%,"-$236,622",1.0,-5.0,-7.0,-32.0,ANGO
+278,D,2015-08-05 21:48:56,2015-08-05,ANGO,Greiner Charles R,VP - Global Franchise,M - OptEx,$15.27,14100,24883,+131%,"+$215,307",1.0,-5.0,-7.0,-32.0,ANGO
+279,DM,2015-08-05 21:47:25,2015-08-03,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$15.76,-6986,43454,-14%,"-$110,094",1.0,-5.0,-7.0,-32.0,ANGO
+280,D,2015-08-05 21:47:25,2015-08-05,ANGO,Trowbridge Stephen A,"SVP, GC",M - OptEx,$15.27,5800,43454,+15%,"+$88,566",1.0,-5.0,-7.0,-32.0,ANGO
+281,,2015-07-29 20:57:43,2015-07-27,ANGO,Frost Mark T,"EVP, CFO",F - Tax,$15.63,-696,39186,-2%,"-$10,878",-1.0,2.0,-4.0,-29.0,ANGO
+282,,2015-07-29 20:56:18,2015-07-27,ANGO,Devivo Joseph,"Pres, CEO",F - Tax,$15.63,-2796,204445,-1%,"-$43,701",-1.0,2.0,-4.0,-29.0,ANGO
+283,,2015-07-29 20:55:23,2015-07-27,ANGO,Soto John,"SVP, CCO",F - Tax,$15.63,-566,23760,-2%,"-$8,847",-1.0,2.0,-4.0,-29.0,ANGO
+284,,2015-07-29 20:54:16,2015-07-27,ANGO,Greiner Charles R,VP - Global Franchise,F - Tax,$15.63,-411,25770,-2%,"-$6,424",-1.0,2.0,-4.0,-29.0,ANGO
+285,,2015-07-29 20:53:30,2015-07-27,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$15.63,-421,32567,-1%,"-$6,580",-1.0,2.0,-4.0,-29.0,ANGO
+286,,2015-07-29 20:51:03,2015-07-27,ANGO,Trowbridge Stephen A,"SVP, GC",F - Tax,$15.63,-428,44640,-1%,"-$6,690",-1.0,2.0,-4.0,-29.0,ANGO
+287,D,2015-07-24 21:35:37,2015-07-22,ANGO,Gold Jeffrey,Dir,A - Grant,$0.00,5266,44411,+13%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+288,D,2015-07-24 21:34:54,2015-07-22,ANGO,Gould Kevin J,Dir,A - Grant,$0.00,5266,27025,+24%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+289,D,2015-07-24 21:34:07,2015-07-22,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,5266,31574,+20%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+290,D,2015-07-24 21:33:26,2015-07-22,ANGO,Greiner Charles R,VP - Global Franchise,A - Grant,$0.00,4126,26181,+19%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+291,D,2015-07-24 21:32:43,2015-07-22,ANGO,Trowbridge Stephen A,"SVP, GC",A - Grant,$0.00,4303,45068,+11%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+292,D,2015-07-24 21:31:52,2015-07-22,ANGO,Soto John,"EVP, CCO",A - Grant,$0.00,5428,24326,+29%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+293,D,2015-07-24 21:30:43,2015-07-22,ANGO,Richard Stark,"SVP, GM - Oncology",A - Grant,$0.00,4287,32988,+15%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+294,D,2015-07-24 21:28:49,2015-07-22,ANGO,Frost Mark T,"EVP, CFO",A - Grant,$0.00,5969,39882,+18%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+295,D,2015-07-24 21:28:08,2015-07-22,ANGO,Devivo Joseph,"Pres, CEO",A - Grant,$0.00,28061,207241,+16%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+296,D,2015-07-24 21:27:27,2015-07-22,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,5266,53525,+11%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+297,D,2015-07-24 21:26:47,2015-07-22,ANGO,Burgstahler David F,Dir,A - Grant,$0.00,5266,9451933,0%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+298,D,2015-07-24 21:26:01,2015-07-22,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,5266,34925,+18%,+$0,0.0,-3.0,-6.0,-27.0,ANGO
+299,D,2015-07-17 19:02:41,2015-07-16,ANGO,Donnelly Howard W,Dir,M - OptEx,$15.27,6000,29659,+25%,"+$91,620",-1.0,0.0,-4.0,-28.0,ANGO
+300,D,2015-06-10 17:47:03,2015-06-08,ANGO,Johnson Wesley,Dir,M - OptEx,$16.55,4649,26308,+21%,"+$76,941",0.0,1.0,-1.0,-26.0,ANGO
+301,,2015-04-28 18:43:13,2015-04-24,ANGO,Trowbridge Stephen A,"SVP, GC",A - Grant,$0.00,15000,40765,+58%,+$0,-1.0,0.0,-5.0,-28.0,ANGO
+302,D,2015-02-19 16:20:09,2015-02-13,ANGO,Richard Stark,"SVP, GM - Oncology",M - OptEx,$15.27,18100,28701,+171%,"+$276,387",0.0,-1.0,-3.0,-22.0,ANGO
+303,D,2015-02-19 16:20:09,2015-02-13,ANGO,Richard Stark,"SVP, GM - Oncology",S - Sale+OE,$18.53,-18100,28701,-39%,"-$335,393",0.0,-1.0,-3.0,-22.0,ANGO
+304,,2015-01-29 19:59:13,2015-01-28,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$19.42,-419,28701,-1%,"-$8,137",-2.0,-5.0,-6.0,-22.0,ANGO
+305,,2014-12-02 17:01:07,2014-12-01,ANGO,Frost Mark T,"EVP, CFO",F - Tax,$17.45,-1856,33913,-5%,"-$32,387",1.0,1.0,10.0,-5.0,ANGO
+306,,2014-11-19 16:08:25,2014-11-17,ANGO,Kapusta Matthew C,"SVP, Business Development",F - Tax,$16.85,-1392,30062,-4%,"-$23,455",2.0,1.0,12.0,-7.0,ANGO
+307,D,2014-11-04 12:01:54,2014-08-12,ANGO,Burgstahler David F,Dir,A - Grant,$0.00,6193,9446667,0%,+$0,0.0,0.0,3.0,-3.0,ANGO
+308,,2014-10-21 18:21:47,2014-10-20,ANGO,Greiner Charles R,VP - Global Franchise,S - Sale,$15.63,-3298,22055,-13%,"-$51,548",1.0,1.0,5.0,4.0,ANGO
+309,,2014-09-11 19:35:01,2014-09-10,ANGO,Soto John,"EVP, CCO",F - Tax,$13.36,-816,18898,-4%,"-$10,902",0.0,0.0,4.0,30.0,ANGO
+310,,2014-09-10 17:51:56,2014-09-08,ANGO,Devivo Joseph,"Pres, CEO",F - Tax,$13.55,-2320,179180,-1%,"-$31,436",1.0,0.0,5.0,30.0,ANGO
+311,D,2014-08-14 21:19:54,2014-08-12,ANGO,Gold Jeffrey,Dir,A - Grant,$0.00,6193,39145,+19%,+$0,-4.0,-4.0,-7.0,28.0,ANGO
+312,D,2014-08-14 21:19:54,2014-07-07,ANGO,Gold Jeffrey,Dir,F - Tax,$15.90,-5405,39145,-12%,"-$85,940",-4.0,-4.0,-7.0,28.0,ANGO
+313,D,2014-08-14 21:19:54,2014-07-07,ANGO,Gold Jeffrey,Dir,M - OptEx,$13.18,6000,39145,+18%,"+$79,080",-4.0,-4.0,-7.0,28.0,ANGO
+314,D,2014-08-14 21:18:30,2014-08-12,ANGO,Gould Kevin J,Dir,A - Grant,$0.00,6193,21759,+40%,+$0,-4.0,-4.0,-7.0,28.0,ANGO
+315,D,2014-08-14 21:17:20,2014-08-12,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,6193,21659,+40%,+$0,-4.0,-4.0,-7.0,28.0,ANGO
+316,D,2014-08-14 21:15:40,2014-08-12,ANGO,Laporte Steve,Dir,A - Grant,$0.00,6193,21672,+40%,+$0,-4.0,-4.0,-7.0,28.0,ANGO
+317,D,2014-08-14 21:14:27,2014-08-12,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,6193,48259,+15%,+$0,-4.0,-4.0,-7.0,28.0,ANGO
+318,D,2014-08-14 21:12:59,2014-08-12,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,6193,23659,+35%,+$0,-4.0,-4.0,-7.0,28.0,ANGO
+319,,2014-08-08 21:45:40,2014-08-06,ANGO,Bourne George W. IV,"CTO, COO",F - Tax,$14.75,-574,23613,-2%,"-$8,467",-1.0,-3.0,-9.0,27.0,ANGO
+320,M,2014-08-08 21:43:19,2014-08-03,ANGO,Greiner Charles R,VP - Global Franchise,F - Tax,$14.70,-2316,25353,-8%,"-$34,050",-1.0,-3.0,-9.0,27.0,ANGO
+321,M,2014-08-08 21:38:24,2014-08-03,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$14.70,-2486,29120,-8%,"-$36,548",-1.0,-3.0,-9.0,27.0,ANGO
+322,M,2014-08-08 21:35:39,2014-08-03,ANGO,Kapusta Matthew C,"SVP, Business Development",F - Tax,$14.72,-1106,30704,-3%,"-$16,282",-1.0,-3.0,-9.0,27.0,ANGO
+323,M,2014-08-08 21:29:14,2014-08-03,ANGO,Devivo Joseph,"Pres, CEO",F - Tax,$14.72,-3674,181500,-2%,"-$54,071",-1.0,-3.0,-9.0,27.0,ANGO
+324,,2014-08-08 19:33:14,2014-08-06,ANGO,Frost Mark T,"EVP, CFO",F - Tax,$14.75,-797,33291,-2%,"-$11,756",-1.0,-3.0,-9.0,27.0,ANGO
+325,,2014-08-08 19:09:54,2014-08-06,ANGO,Soto John,SVP - Global Franchise Leader,F - Tax,$14.75,-550,19714,-3%,"-$8,113",-1.0,-3.0,-9.0,27.0,ANGO
+326,D,2014-07-29 21:53:46,2014-07-25,ANGO,Soto John,SVP - Global Franchise Leader,A - Grant,$0.00,5974,20264,+42%,+$0,1.0,1.0,-5.0,34.0,ANGO
+327,D,2014-07-29 21:50:32,2014-07-25,ANGO,Richard Stark,"SVP, GM - Oncology",A - Grant,$0.00,4718,31606,+18%,+$0,1.0,1.0,-5.0,34.0,ANGO
+328,D,2014-07-29 21:49:16,2014-07-25,ANGO,Greiner Charles R,VP - Global Finance,A - Grant,$0.00,4541,27669,+20%,+$0,1.0,1.0,-5.0,34.0,ANGO
+329,D,2014-07-29 21:34:11,2014-07-25,ANGO,Kapusta Matthew C,"SVP, Business Development",A - Grant,$0.00,4805,31810,+18%,+$0,1.0,1.0,-5.0,34.0,ANGO
+330,D,2014-07-29 21:32:40,2014-07-25,ANGO,Frost Mark T,"EVP, CFO",A - Grant,$0.00,6569,34088,+24%,+$0,1.0,1.0,-5.0,34.0,ANGO
+331,D,2014-07-29 21:30:51,2014-07-25,ANGO,Bourne George W. IV,"CTO, COO",A - Grant,$0.00,5344,24187,+28%,+$0,1.0,1.0,-5.0,34.0,ANGO
+332,D,2014-07-29 20:57:08,2014-07-25,ANGO,Devivo Joseph,"Pres, CEO",A - Grant,$0.00,30884,185174,+20%,+$0,1.0,1.0,-5.0,34.0,ANGO
+333,,2014-05-23 16:16:53,2014-05-21,ANGO,Bourne George W. IV,"CTO, COO",F - Tax,$14.12,-948,18843,-5%,"-$13,386",1.0,1.0,14.0,21.0,ANGO
+334,D,2014-05-19 16:15:37,2014-04-14,ANGO,Meteny Dennis S,Dir,M - OptEx,$11.00,15500,42066,+58%,"+$170,500",-1.0,-1.0,0.0,18.0,ANGO
+335,,2014-04-16 14:14:12,2014-04-14,ANGO,Kapusta Matthew C,"SVP, Business Development",P - Purchase,$13.90,1000,27005,+4%,"+$13,900",4.0,4.0,3.0,16.0,ANGO
+336,,2014-01-30 14:04:22,2014-01-28,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$16.67,-357,26888,-1%,"-$5,951",1.0,-6.0,-5.0,-10.0,ANGO
+337,,2014-01-30 14:01:35,2014-01-28,ANGO,McGill Stephen,"SVP, GM - International",F - Tax,$16.67,-1175,20715,-5%,"-$19,587",1.0,-6.0,-5.0,-10.0,ANGO
+338,,2013-12-20 17:55:09,2013-12-20,ANGO,Devivo Joseph,"Pres, CEO",A - Grant,$0.00,80000,154290,+108%,+$0,1.0,2.0,4.0,-2.0,ANGO
+339,,2013-12-18 14:21:18,2013-12-17,ANGO,Bourne George W. IV,"CTO, COO",F - Tax,$15.63,-163,17855,-1%,"-$2,548",2.0,6.0,8.0,2.0,ANGO
+340,,2013-11-18 17:02:54,2013-11-15,ANGO,Kapusta Matthew C,"SVP, Business Development",F - Tax,$15.62,-1392,23158,-6%,"-$21,743",-1.0,-1.0,-1.0,-10.0,ANGO
+341,D,2013-11-15 17:23:22,2013-11-14,ANGO,Greiner Charles R,VP - Global Finance,M - OptEx,$13.18,4373,23128,+23%,"+$57,636",1.0,0.0,0.0,-8.0,ANGO
+342,DM,2013-11-15 17:23:22,2013-11-13,ANGO,Greiner Charles R,VP - Global Finance,S - Sale+OE,$15.44,-6765,23128,-23%,"-$104,453",1.0,0.0,0.0,-8.0,ANGO
+343,,2013-10-25 11:11:37,2013-10-23,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,1616,15466,+12%,+$0,-1.0,-1.0,-2.0,-14.0,ANGO
+344,,2013-10-25 11:08:31,2013-10-23,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,1616,26566,+6%,+$0,-1.0,-1.0,-2.0,-14.0,ANGO
+345,,2013-10-25 11:05:09,2013-10-23,ANGO,Burgstahler David F,Dir,A - Grant,$0.00,1616,9440474,0%,+$0,-1.0,-1.0,-2.0,-14.0,ANGO
+346,,2013-10-25 10:58:39,2013-10-23,ANGO,Gold Jeffrey,Dir,A - Grant,$0.00,1616,32357,+5%,+$0,-1.0,-1.0,-2.0,-14.0,ANGO
+347,,2013-10-25 10:54:51,2013-10-23,ANGO,Bucci Vincent,Dir,A - Grant,$0.00,1616,143312,+1%,+$0,-1.0,-1.0,-2.0,-14.0,ANGO
+348,,2013-10-25 10:49:56,2013-10-23,ANGO,Laporte Steve,Dir,A - Grant,$0.00,1616,15479,+12%,+$0,-1.0,-1.0,-2.0,-14.0,ANGO
+349,,2013-10-25 10:45:17,2013-10-23,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,1616,17466,+10%,+$0,-1.0,-1.0,-2.0,-14.0,ANGO
+350,,2013-10-25 10:41:21,2013-10-23,ANGO,Gould Kevin J,Dir,A - Grant,$0.00,1616,15566,+12%,+$0,-1.0,-1.0,-2.0,-14.0,ANGO
+351,,2013-10-21 12:03:37,2013-10-18,ANGO,Bucci Vincent,Dir,P - Purchase,$15.20,5000,141696,+4%,"+$75,990",1.0,3.0,3.0,-6.0,ANGO
+352,D,2013-10-21 12:00:33,2013-10-17,ANGO,Donnelly Howard W,Dir,M - OptEx,$11.00,20000,15850,-482%,"+$220,000",1.0,3.0,3.0,-6.0,ANGO
+353,D,2013-10-21 12:00:33,2013-10-17,ANGO,Donnelly Howard W,Dir,S - Sale+OE,$15.06,-20000,15850,-56%,"-$301,200",1.0,3.0,3.0,-6.0,ANGO
+354,,2013-09-11 16:39:49,2013-09-10,ANGO,Soto John,SVP - Global Franchise Leader,F - Tax,$11.26,-905,14290,-6%,"-$10,190",1.0,2.0,23.0,50.0,ANGO
+355,,2013-09-11 16:37:22,2013-09-09,ANGO,Devivo Joseph,"Pres, CEO",F - Tax,$11.10,-2261,74290,-3%,"-$25,097",1.0,2.0,23.0,50.0,ANGO
+356,,2013-09-06 17:06:38,2013-09-04,ANGO,Greiner Charles R,VP - Global Franchise,F - Tax,$10.96,-795,25520,-3%,"-$8,713",1.0,2.0,22.0,41.0,ANGO
+357,,2013-09-06 17:03:00,2013-09-04,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$10.96,-835,27245,-3%,"-$9,152",1.0,2.0,22.0,41.0,ANGO
+358,D,2013-08-08 20:35:21,2013-08-06,ANGO,Soto John,SVP - Global Franchise Leader,A - Grant,$0.00,5195,15195,+52%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+359,D,2013-08-08 20:33:42,2013-08-06,ANGO,Bucci Vincent,Dir,A - Grant,$0.00,3000,136696,+2%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+360,D,2013-08-08 20:31:12,2013-08-06,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,3000,24950,+14%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+361,D,2013-08-08 20:31:08,2013-08-06,ANGO,Burgstahler David F,"Dir, 10%",A - Grant,$0.00,3000,9438858,0%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+362,D,2013-08-08 20:29:19,2013-08-06,ANGO,Gold Jeffrey,Dir,A - Grant,$0.00,3000,30741,+11%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+363,D,2013-08-08 20:28:25,2013-08-06,ANGO,Laporte Steve,Dir,A - Grant,$0.00,3000,13863,+28%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+364,D,2013-08-08 20:27:33,2013-08-06,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,3000,15850,+23%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+365,D,2013-08-08 20:27:24,2013-08-06,ANGO,Bourne George W. IV,"CTO, COO",A - Grant,$0.00,6055,18018,+51%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+366,D,2013-08-08 20:26:17,2013-08-06,ANGO,Kapusta Matthew C,"SVP, Business Development",A - Grant,$0.00,5438,24550,+28%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+367,D,2013-08-08 20:26:06,2013-08-06,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,3000,13850,+28%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+368,D,2013-08-08 20:25:50,2013-08-06,ANGO,Frost Mark T,"EVP, CFO",A - Grant,$0.00,7519,27519,+38%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+369,D,2013-08-08 20:24:43,2013-08-06,ANGO,McGill Stephen,"SVP, GM - International",A - Grant,$0.00,5382,21890,+33%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+370,D,2013-08-08 20:24:06,2013-08-06,ANGO,Devivo Joseph,"Pres, Chief Exec",A - Grant,$0.00,18388,76551,+32%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+371,D,2013-08-08 20:23:30,2013-08-06,ANGO,Richard Stark,"SVP, GM - Oncology",A - Grant,$0.00,5345,28080,+24%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+372,D,2013-08-08 20:22:54,2013-08-06,ANGO,Gould Kevin J,Dir,A - Grant,$0.00,3000,13950,+27%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+373,D,2013-08-08 20:21:36,2013-08-06,ANGO,Greiner Charles R,VP - Global Finance,A - Grant,$0.00,5139,26315,+24%,+$0,-2.0,-2.0,-8.0,29.0,ANGO
+374,,2013-08-06 21:32:06,2013-08-03,ANGO,Kapusta Matthew C,"SVP, Business Development",F - Tax,$12.04,-530,19112,-3%,"-$6,381",0.0,-1.0,-8.0,28.0,ANGO
+375,,2013-08-06 21:31:02,2013-08-03,ANGO,Devivo Joseph,"Pres, Chief Exec",F - Tax,$12.04,-2358,58213,-4%,"-$28,390",0.0,-1.0,-8.0,28.0,ANGO
+376,,2013-08-06 21:29:48,2013-08-03,ANGO,Greiner Charles R,VP - Global Franchise,F - Tax,$12.04,-2045,21176,-9%,"-$24,622",0.0,-1.0,-8.0,28.0,ANGO
+377,,2013-08-06 21:28:45,2013-08-03,ANGO,McGill Stephen,"SVP, GM - International",F - Tax,$12.04,-2878,16508,-15%,"-$34,651",0.0,-1.0,-8.0,28.0,ANGO
+378,,2013-08-06 21:27:12,2013-08-03,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$12.04,-2358,22735,-9%,"-$28,390",0.0,-1.0,-8.0,28.0,ANGO
+379,,2013-07-23 09:36:13,2013-07-22,ANGO,Gould Kevin J,Dir,P - Purchase,$12.00,2700,10950,+33%,"+$32,400",1.0,-2.0,-8.0,39.0,ANGO
+380,,2013-05-22 17:45:24,2013-05-21,ANGO,Bourne George W. IV,"CTO, COO",F - Tax,$10.96,-948,11963,-7%,"-$10,390",0.0,2.0,3.0,46.0,ANGO
+381,,2013-05-16 14:36:22,2013-05-09,ANGO,Greiner Charles R,VP - Global Franchise,S - Sale,$10.38,-1495,23221,-6%,"-$15,518",0.0,0.0,4.0,37.0,ANGO
+382,D,2013-03-27 16:02:31,2013-03-25,ANGO,Gold Jeffrey,Dir,M - OptEx,$6.52,2508,27741,+10%,"+$16,356",0.0,-2.0,-11.0,19.0,ANGO
+383,,2013-03-13 15:33:58,2013-03-12,ANGO,Bucci Vincent,Dir,P - Purchase,$10.77,85000,133696,+175%,"+$915,800",5.0,5.0,-5.0,5.0,ANGO
+384,,2013-03-12 18:05:31,2013-03-12,ANGO,Meteny Dennis S,Dir,P - Purchase,$10.82,4600,21950,+27%,"+$49,772",5.0,5.0,-6.0,3.0,ANGO
+385,,2013-02-15 18:00:20,2013-02-14,ANGO,Bucci Vincent,Dir,P - Purchase,$12.17,2000,48696,+4%,"+$24,332",3.0,1.0,-8.0,-7.0,ANGO
+386,D,2013-02-05 08:44:05,2013-02-01,ANGO,Frost Mark T,"EVP, CFO",A - Grant,$0.00,20000,20000,New,+$0,0.0,-1.0,3.0,-1.0,ANGO
+387,,2013-01-30 11:28:42,2013-01-28,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$12.35,-838,25093,-3%,"-$10,349",-1.0,-2.0,0.0,-3.0,ANGO
+388,,2013-01-30 11:22:18,2013-01-28,ANGO,McGill Stephen,"SVP, GM - International",F - Tax,$12.35,-2600,19386,-12%,"-$32,110",-1.0,-2.0,0.0,-3.0,ANGO
+389,,2013-01-14 12:07:50,2013-01-11,ANGO,Gould Kevin J,Dir,P - Purchase,$11.58,2700,8250,+49%,"+$31,277",1.0,3.0,5.0,4.0,ANGO
+390,D,2012-12-19 18:38:21,2012-12-17,ANGO,Bourne George W. IV,"SVP, CT, OO",A - Grant,$0.00,2000,12000,+20%,+$0,1.0,0.0,8.0,0.0,ANGO
+391,,2012-11-16 09:38:02,2012-11-15,ANGO,Kapusta Matthew C,"SVP, Business Development",F - Tax,$10.12,-1358,19642,-6%,"-$13,743",2.0,5.0,7.0,6.0,ANGO
+392,,2012-11-13 10:08:50,2012-11-05,ANGO,Gold Jeffrey,Dir,P - Purchase,$10.56,1000,25233,+4%,"+$10,560",-2.0,0.0,2.0,1.0,ANGO
+393,,2012-11-09 12:13:27,2012-11-05,ANGO,Richard Stark,"SVP, GM - Oncology",S - Sale,$10.36,-3160,25931,-11%,"-$32,738",3.0,0.0,7.0,3.0,ANGO
+394,D,2012-10-25 16:06:48,2012-10-23,ANGO,Soto John,SVP - Global Franchise Leader,A - Grant,$0.00,10000,10000,New,+$0,1.0,-2.0,-2.0,-5.0,ANGO
+395,,2012-09-11 18:57:29,2012-09-04,ANGO,Gersuk D Joseph,EVP - CFO,F - Tax,$11.61,-1086,47275,-2%,"-$12,608",1.0,2.0,-4.0,-5.0,ANGO
+396,,2012-09-11 18:54:31,2012-09-04,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$11.61,-715,29091,-2%,"-$8,301",1.0,2.0,-4.0,-5.0,ANGO
+397,,2012-09-10 18:24:12,2012-09-07,ANGO,Devivo Joseph,"Pres, CEO",F - Tax,$12.12,-2526,60571,-4%,"-$30,615",0.0,3.0,7.0,-5.0,ANGO
+398,D,2012-08-21 18:34:32,2012-08-17,ANGO,Kapusta Matthew C,"SVP, Business Development",A - Grant,$0.00,5000,21000,+31%,+$0,-1.0,3.0,14.0,15.0,ANGO
+399,D,2012-08-21 18:33:22,2012-08-17,ANGO,Panzer Alan,"SVP, GM - Vascular",A - Grant,$0.00,7500,27500,+38%,+$0,-1.0,3.0,14.0,15.0,ANGO
+400,D,2012-08-21 18:32:12,2012-08-17,ANGO,Devivo Joseph,"Pres, CEO",A - Grant,$0.00,22247,63097,+54%,+$0,-1.0,3.0,14.0,15.0,ANGO
+401,D,2012-08-21 18:30:37,2012-08-17,ANGO,Richard Stark,"SVP, GM - Oncology",A - Grant,$0.00,10000,29806,+50%,+$0,-1.0,3.0,14.0,15.0,ANGO
+402,D,2012-08-21 18:29:03,2012-08-17,ANGO,Etlinger Richard Scott,SVP - Global Operations,A - Grant,$0.00,6500,11957,+119%,+$0,-1.0,3.0,14.0,15.0,ANGO
+403,D,2012-08-21 18:26:40,2012-08-17,ANGO,McGill Stephen,"SVP, GM - International",A - Grant,$0.00,15000,21986,+215%,+$0,-1.0,3.0,14.0,15.0,ANGO
+404,D,2012-08-21 18:24:28,2012-08-17,ANGO,Gersuk D Joseph,EVP - CFO,A - Grant,$0.00,12000,48361,+33%,+$0,-1.0,3.0,14.0,15.0,ANGO
+405,D,2012-08-09 16:36:23,2012-08-07,ANGO,Burgstahler David F,"Dir, 10%",A - Grant,$0.00,2850,9435858,0%,+$0,0.0,-2.0,13.0,12.0,ANGO
+406,D,2012-08-09 16:30:36,2012-08-07,ANGO,Laporte Steve,Dir,A - Grant,$0.00,2850,10863,+36%,+$0,0.0,-2.0,13.0,12.0,ANGO
+407,D,2012-08-09 16:27:28,2012-08-07,ANGO,Gould Kevin J,Dir,A - Grant,$0.00,2850,5550,+106%,+$0,0.0,-2.0,13.0,12.0,ANGO
+408,D,2012-08-09 16:25:31,2012-08-07,ANGO,Bucci Vincent,Dir,A - Grant,$0.00,2850,46696,+7%,+$0,0.0,-2.0,13.0,12.0,ANGO
+409,D,2012-08-09 16:24:51,2012-08-07,ANGO,Devivo Joseph,"Pres, CEO",A - Grant,$0.00,2850,40850,+8%,+$0,0.0,-2.0,13.0,12.0,ANGO
+410,D,2012-08-09 16:23:11,2012-08-07,ANGO,Meteny Dennis S,Dir,A - Grant,$0.00,2850,17350,+20%,+$0,0.0,-2.0,13.0,12.0,ANGO
+411,D,2012-08-09 16:21:30,2012-08-07,ANGO,Donnelly Howard W,Dir,A - Grant,$0.00,2850,12850,+29%,+$0,0.0,-2.0,13.0,12.0,ANGO
+412,D,2012-08-09 16:20:52,2012-08-07,ANGO,Gold Jeffrey,Dir,A - Grant,$0.00,2850,24233,+13%,+$0,0.0,-2.0,13.0,12.0,ANGO
+413,D,2012-08-09 16:18:14,2012-08-07,ANGO,Johnson Wesley,Dir,A - Grant,$0.00,2850,10850,+36%,+$0,0.0,-2.0,13.0,12.0,ANGO
+414,,2012-08-07 08:29:23,2012-08-03,ANGO,Richard Stark,"SVP, GM - Oncology",F - Tax,$10.70,-1116,19806,-5%,"-$11,941",0.0,0.0,10.0,12.0,ANGO
+415,,2012-08-07 08:28:30,2012-08-03,ANGO,McGill Stephen,"SVP, GM - International",F - Tax,$10.70,-997,6986,-12%,"-$10,668",0.0,0.0,10.0,12.0,ANGO
+416,,2012-08-07 08:27:43,2012-08-03,ANGO,Gersuk D Joseph,EVP - CFO,F - Tax,$10.70,-2172,36361,-6%,"-$23,240",0.0,0.0,10.0,12.0,ANGO
+417,,2012-08-07 08:26:41,2012-08-23,ANGO,Etlinger Richard Scott,SVP - Global Operations,F - Tax,$10.70,-543,5457,-9%,"-$5,810",0.0,0.0,10.0,12.0,ANGO
+418,,2012-07-18 14:30:31,2012-07-17,ANGO,Devivo Joseph,"Pres, CEO",P - Purchase,$11.67,2000,38000,+6%,"+$23,340",0.0,-5.0,-8.0,3.0,ANGO
+419,D,2012-05-31 19:01:47,2012-05-21,ANGO,Bourne George W. IV,"SVP, CTO",A - Grant,$0.00,10000,10000,New,+$0,-1.0,3.0,0.0,-11.0,ANGO
+420,,2012-05-17 15:12:38,2012-05-16,ANGO,Richard Stark,"SVP, GM - Oncology",S - Sale,$12.42,-2080,20922,-9%,"-$25,827",-1.0,-1.0,-1.0,-18.0,ANGO
+421,A,2012-05-15 18:24:07,2012-04-12,ANGO,Bucci Vincent,Dir,P - Purchase,$11.87,2000,33846,+6%,"+$23,735",0.0,0.0,-4.0,-17.0,ANGO
+422,D,2012-04-27 19:15:50,2012-04-23,ANGO,Echenberg Paul S,Director Emeritus,M - OptEx,$6.52,2091,154412,+1%,"+$13,637",-1.0,-2.0,-2.0,-16.0,ANGO
+423,D,2012-04-27 19:11:13,2012-04-25,ANGO,Gold Jeffrey,Dir,M - OptEx,$6.52,418,21383,+2%,"+$2,726",-1.0,-2.0,-2.0,-16.0,ANGO
+424,,2012-04-13 19:00:40,2012-04-12,ANGO,Bucci Vincent,Dir,P - Purchase,$11.82,4000,41846,+11%,"+$47,280",1.0,2.0,3.0,-5.0,ANGO
+425,,2012-04-12 11:43:49,2012-04-11,ANGO,Gould Kevin J,Dir,P - Purchase,$11.72,2700,2700,New,"+$31,636",2.0,2.0,4.0,-3.0,ANGO
+426,,2012-04-10 14:27:57,2012-04-09,ANGO,Devivo Joseph,"Pres, CEO",P - Purchase,$11.82,5000,36000,+16%,"+$59,094",1.0,3.0,5.0,8.0,ANGO
+427,,2012-04-10 14:22:43,2012-04-10,ANGO,Kapusta Matthew C,"SVP, Business Development",P - Purchase,$11.40,1000,16000,+7%,"+$11,397",1.0,3.0,5.0,8.0,ANGO
+428,,2012-04-10 14:16:58,2012-04-09,ANGO,Bucci Vincent,Dir,P - Purchase,$11.80,2000,37846,+6%,"+$23,596",1.0,3.0,5.0,8.0,ANGO
+429,,2012-02-21 17:45:00,2012-02-21,ANGO,Bucci Vincent,Dir,P - Purchase,$13.44,2000,35846,+6%,"+$26,878",0.0,-1.0,-5.0,-20.0,ANGO
+430,M,2012-02-15 14:36:07,2012-02-13,ANGO,Bucci Vincent,Dir,P - Purchase,$13.14,3000,33846,+10%,"+$39,421",1.0,1.0,-5.0,-19.0,ANGO
+431,,2012-02-13 18:19:10,2012-02-13,ANGO,Devivo Joseph,"Pres, CEO",P - Purchase,$12.95,3000,31000,+11%,"+$38,850",1.0,4.0,-3.0,-18.0,ANGO
+432,D,2012-02-03 16:19:45,2012-02-02,ANGO,Kapusta Matthew C,"SVP, Business Development",A - Grant,$0.00,15000,15000,New,+$0,0.0,-4.0,-6.0,-22.0,ANGO
+433,,2011-11-17 09:04:20,2011-11-16,ANGO,Devivo Joseph,"Pres, CEO",P - Purchase,$14.15,2500,28000,+10%,"+$35,363",1.0,-4.0,4.0,-11.0,ANGO
+434,D,2011-10-20 10:50:54,2011-10-18,ANGO,Panzer Alan,"SVP, GM - Vascular",A - Grant,$0.00,20000,20000,New,+$0,-1.0,3.0,-8.0,-19.0,ANGO
+435,D,2011-09-09 16:57:46,2011-09-07,ANGO,Devivo Joseph,"Pres, CEO",A - Grant,$0.00,25000,25000,New,+$0,-1.0,4.0,3.0,-8.0,ANGO
+436,D,2011-09-08 17:11:12,2011-09-06,ANGO,Gersuk D Joseph,EVP - CFO,F - Tax,$13.49,-1086,38533,-3%,"-$14,650",-3.0,1.0,3.0,-11.0,ANGO
+437,D,2011-09-08 17:11:12,2011-09-06,ANGO,Gersuk D Joseph,EVP - CFO,M - OptEx,$13.49,3000,38533,+8%,"+$40,470",-3.0,1.0,3.0,-11.0,ANGO
+438,D,2011-09-01 15:10:44,2011-08-31,ANGO,Meteny Dennis S,Dir,M - OptEx,$11.00,5000,14500,+53%,"+$55,000",-1.0,-3.0,-9.0,-14.0,ANGO
+439,,2011-08-17 17:46:18,2011-08-16,ANGO,Bucci Vincent,Dir,P - Purchase,$14.06,6000,30846,+24%,"+$84,355",-3.0,1.0,0.0,-6.0,ANGO
+440,D,2011-08-05 20:27:58,2011-08-03,ANGO,McGill Stephen,"SVP, GM - International",A - Grant,$0.00,6000,7983,+303%,+$0,-1.0,1.0,-2.0,-4.0,ANGO
+441,D,2011-08-05 20:27:58,2011-08-03,ANGO,McGill Stephen,"SVP, GM - International",F - Tax,$13.53,-367,7983,-4%,"-$4,966",-1.0,1.0,-2.0,-4.0,ANGO
+442,D,2011-08-05 20:24:22,2011-08-03,ANGO,Gersuk D Joseph,EVP - CFO,A - Grant,$0.00,9000,36619,+33%,+$0,-1.0,1.0,-2.0,-4.0,ANGO
+443,D,2011-08-05 20:24:22,2011-08-03,ANGO,Gersuk D Joseph,EVP - CFO,F - Tax,$13.53,-1358,36619,-4%,"-$18,374",-1.0,1.0,-2.0,-4.0,ANGO
+444,D,2011-08-05 20:12:46,2011-08-03,ANGO,Solano Scott J.,Interim CEO,A - Grant,$0.00,10617,8945,-635%,+$0,-1.0,1.0,-2.0,-4.0,ANGO
+445,D,2011-08-05 20:12:46,2011-08-03,ANGO,Solano Scott J.,Interim CEO,F - Tax,$13.53,-1672,8945,-16%,"-$22,622",-1.0,1.0,-2.0,-4.0,ANGO
+446,D,2011-08-05 20:09:54,2011-08-03,ANGO,Etlinger Richard Scott,SVP - Global Operations,A - Grant,$0.00,6000,6000,New,+$0,-1.0,1.0,-2.0,-4.0,ANGO
+447,D,2011-06-03 12:48:27,2011-06-01,ANGO,Echenberg Paul S,Director Emeritus,M - OptEx,$4.35,2091,152321,+1%,"+$9,091",-1.0,-2.0,-8.0,-3.0,ANGO
+448,AD,2011-02-02 16:59:03,2011-01-28,ANGO,McGill Stephen,"SVP, GM - International",A - Grant,$0.00,10000,12475,+404%,+$0,-1.0,0.0,3.0,-18.0,ANGO
+449,AD,2011-02-02 16:59:03,2011-01-28,ANGO,McGill Stephen,"SVP, GM - International",F - Tax,$16.24,-1025,12475,-8%,"-$16,646",-1.0,0.0,3.0,-18.0,ANGO
+450,D,2011-02-01 21:07:00,2011-01-28,ANGO,McGill Stephen,"SVP, GM - International",A - Grant,$0.00,10000,13500,+286%,+$0,-1.0,0.0,3.0,-18.0,ANGO
+451,,2011-01-21 12:29:25,2011-01-19,ANGO,Keltjens Jan,"Pres, CEO",F - Tax,$16.56,-9094,109276,-8%,"-$150,597",-1.0,1.0,3.0,-9.0,ANGO
+452,,2010-10-20 16:55:07,2010-10-19,ANGO,Laporte Steve,Dir,P - Purchase,$14.29,500,8013,+7%,"+$7,143",0.0,0.0,0.0,7.0,ANGO
+453,,2010-10-20 16:48:46,2010-10-19,ANGO,Laporte Steve,Dir,P - Purchase,$14.29,500,8013,+7%,"+$7,143",0.0,0.0,0.0,7.0,ANGO
+454,D,2010-09-07 17:56:32,2010-09-07,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$15.23,2250,16636,+16%,"+$34,268",-8.0,-8.0,-2.0,7.0,ANGO
+455,D,2010-09-07 17:49:18,2010-09-07,ANGO,Gersuk D Joseph,EVP - CFO,F - Tax,$15.23,-1086,27565,-4%,"-$16,540",-8.0,-8.0,-2.0,7.0,ANGO
+456,D,2010-09-07 17:49:18,2010-09-07,ANGO,Gersuk D Joseph,EVP - CFO,M - OptEx,$15.23,3000,27565,+12%,"+$45,690",-8.0,-8.0,-2.0,7.0,ANGO
+457,D,2010-09-07 17:43:47,2010-09-07,ANGO,Mapes Harold,VP - Operations,F - Tax,$15.23,-452,14934,-3%,"-$6,884",-8.0,-8.0,-2.0,7.0,ANGO
+458,D,2010-09-07 17:43:47,2010-09-07,ANGO,Mapes Harold,VP - Operations,M - OptEx,$15.23,1250,14934,+9%,"+$19,038",-8.0,-8.0,-2.0,7.0,ANGO
+459,A,2010-08-30 17:27:09,2010-08-17,ANGO,McCarthy Shawn P,SVP - GM,F - Tax,$16.04,-1358,10392,-12%,"-$21,782",1.0,3.0,0.0,11.0,ANGO
+460,D,2010-08-26 09:57:53,2010-08-03,ANGO,McGill Stephen,SVP - GM,A - Grant,$0.00,3500,3500,New,+$0,-2.0,0.0,-1.0,7.0,ANGO
+461,D,2010-08-17 17:27:27,2010-08-17,ANGO,McCarthy Shawn P,SVP - GM,F - Tax,$16.04,-1590,10160,-14%,"-$25,504",2.0,0.0,-13.0,3.0,ANGO
+462,D,2010-08-17 17:27:27,2010-08-17,ANGO,McCarthy Shawn P,SVP - GM,M - OptEx,$0.00,3750,10160,+59%,+$0,2.0,0.0,-13.0,3.0,ANGO
+463,D,2010-08-05 15:08:03,2010-08-03,ANGO,Gersuk D Joseph,EVP - CFO,A - Grant,$0.00,15000,25651,+141%,+$0,-1.0,-1.0,-3.0,3.0,ANGO
+464,DM,2010-08-05 15:06:41,2009-01-19,ANGO,Keltjens Jan,"Pres, CEO",A - Grant,$0.00,110000,117675,>999%,+$0,-1.0,-1.0,-3.0,3.0,ANGO
+465,D,2010-08-05 15:06:41,2010-01-19,ANGO,Keltjens Jan,"Pres, CEO",F - Tax,$17.22,-8149,117675,-6%,"-$140,326",-1.0,-1.0,-3.0,3.0,ANGO
+466,D,2010-08-05 14:58:50,2010-08-03,ANGO,McCarthy Shawn P,SVP - GM,A - Grant,$0.00,8000,8000,New,+$0,-1.0,-1.0,-3.0,3.0,ANGO
+467,D,2010-08-05 14:46:37,2010-08-03,ANGO,Mapes Harold,VP - Operations,A - Grant,$0.00,4000,14136,+39%,+$0,-1.0,-1.0,-3.0,3.0,ANGO
+468,D,2010-07-20 11:07:53,2010-07-20,ANGO,Laporte Steve,Dir,P - Purchase,$14.69,500,7513,+7%,"+$7,347",2.0,6.0,6.0,12.0,ANGO
+469,,2010-04-29 14:52:26,2010-01-19,ANGO,Keltjens Jan,"Pres, CEO",F - Tax,$17.22,-8149,97675,-8%,"-$140,326",2.0,-1.0,-6.0,-10.0,ANGO
+470,D,2010-04-29 13:22:43,2010-04-27,ANGO,Echenberg Paul S,Dir,M - OptEx,$4.35,2091,150230,+1%,"+$9,091",2.0,-1.0,-6.0,-10.0,ANGO
+471,D,2010-04-09 09:25:58,2010-04-07,ANGO,Laporte Steve,Dir,P - Purchase,$15.52,500,7013,+8%,"+$7,760",1.0,1.0,-2.0,-5.0,ANGO
+472,D,2010-02-16 15:39:34,2010-02-12,ANGO,Laporte Steve,Dir,P - Purchase,$16.35,500,6513,+8%,"+$8,177",0.0,1.0,-5.0,-4.0,ANGO
+473,D,2010-02-08 12:16:32,2010-02-05,ANGO,Johnson Wesley,Dir,P - Purchase,$15.81,4000,8000,+100%,"+$63,240",1.0,3.0,-1.0,1.0,ANGO
+474,D,2009-10-13 17:42:47,2009-10-08,ANGO,Rossell Robert M,VP - Marketing,A - Grant,$0.00,2814,8945,+46%,+$0,1.0,3.0,-1.0,7.0,ANGO
+475,D,2009-10-13 17:41:25,2009-08-19,ANGO,Appling William M,Vice-Pres - Research,A - Grant,$0.00,4500,12600,+56%,+$0,1.0,3.0,-1.0,7.0,ANGO
+476,D,2009-10-13 17:41:02,2009-10-08,ANGO,Mapes Harold,VP - Operations,A - Grant,$0.00,2814,8351,+51%,+$0,1.0,3.0,-1.0,7.0,ANGO
+477,D,2009-10-13 17:40:38,2009-08-28,ANGO,Gersuk D Joseph,SVP - CFO,A - Grant,$0.00,1409,8865,+19%,+$0,1.0,3.0,-1.0,7.0,ANGO
+478,D,2009-07-23 17:28:18,2009-07-22,ANGO,Laporte Steve,Dir,P - Purchase,$11.42,2000,6013,+50%,"+$22,847",3.0,5.0,11.0,47.0,ANGO
+479,D,2009-07-23 17:27:54,2009-07-22,ANGO,Donnelly Howard W,Dir,P - Purchase,$11.50,2000,10000,+25%,"+$23,000",3.0,5.0,11.0,47.0,ANGO
+480,D,2009-07-23 17:27:14,2009-07-21,ANGO,Keltjens Jan,"Pres, CEO",P - Purchase,$11.25,5000,15000,+50%,"+$56,250",3.0,5.0,11.0,47.0,ANGO
+481,D,2009-05-04 15:09:32,2009-05-01,ANGO,Echenberg Paul S,Dir,M - OptEx,$4.35,2091,148139,+1%,"+$9,091",2.0,5.0,9.0,25.0,ANGO
+482,D,2009-05-01 11:57:30,2009-04-17,ANGO,Orsatti Charles Thomas,Dir,P - Purchase,$12.00,2000,2000,New,"+$24,000",-3.0,-1.0,-2.0,20.0,ANGO
+483,DM,2009-04-14 11:55:30,2009-02-11,ANGO,Keltjens Jan,"Pres, CEO",P - Purchase,$12.73,10000,10000,New,"+$127,331",-1.0,-4.0,13.0,20.0,ANGO
+484,D,2009-02-23 17:23:02,2009-02-23,ANGO,Meteny Dennis S,Dir,M - OptEx,$11.00,3500,9500,+58%,"+$38,500",4.0,-1.0,-4.0,8.0,ANGO
+485,D,2009-02-17 17:50:01,2009-02-13,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$12.99,-15000,100401,-13%,"-$194,775",2.0,-5.0,-17.0,-2.0,ANGO
+486,D,2009-02-09 11:52:04,2009-02-06,ANGO,Bucci Vincent,Dir,M - OptEx,$5.80,3767,24846,+18%,"+$21,849",-4.0,-6.0,-25.0,-9.0,ANGO
+487,D,2009-01-29 16:57:39,2009-01-27,ANGO,Johnson Wesley,Dir,P - Purchase,$13.89,2426,4000,+154%,"+$33,697",0.0,0.0,-13.0,-9.0,ANGO
+488,D,2009-01-23 17:16:49,2009-01-23,ANGO,Donnelly Howard W,Dir,P - Purchase,$11.84,3000,8000,+60%,"+$35,513",12.0,13.0,0.0,-2.0,ANGO
+489,D,2009-01-13 11:13:04,2009-01-09,ANGO,Laporte Steve,Dir,P - Purchase,$12.00,1000,4013,+33%,"+$12,000",-4.0,-5.0,11.0,6.0,ANGO
+490,D,2009-01-13 11:09:46,2009-01-09,ANGO,Laporte Steve,Dir,P - Purchase,$12.00,1000,4013,+33%,"+$12,000",-4.0,-5.0,11.0,6.0,ANGO
+491,D,2008-08-08 16:40:40,2008-08-06,ANGO,Gersuk D Joseph,SVP - CFO,A - Grant,$0.00,282,5920,+5%,+$0,3.0,8.0,-1.0,-11.0,ANGO
+492,D,2008-08-08 16:40:17,2008-08-06,ANGO,Mapes Harold,VP - Operations,A - Grant,$0.00,500,4001,+14%,+$0,3.0,8.0,-1.0,-11.0,ANGO
+493,D,2008-08-08 16:39:45,2008-08-06,ANGO,Appling William M,Vice-Pres - Research,A - Grant,$0.00,500,6564,+8%,+$0,3.0,8.0,-1.0,-11.0,ANGO
+494,D,2008-08-08 16:39:19,2008-08-06,ANGO,Hobbs Eamonn P,"Pres, CEO",A - Grant,$0.00,1031,87257,+1%,+$0,3.0,8.0,-1.0,-11.0,ANGO
+495,D,2008-08-07 16:23:41,2008-08-05,ANGO,Laporte Steve,Dir,P - Purchase,$15.92,1000,3013,+50%,"+$15,920",3.0,10.0,1.0,-8.0,ANGO
+496,D,2008-05-15 14:56:21,2008-05-15,ANGO,Laporte Steve,Dir,P - Purchase,$15.13,1300,2013,+182%,"+$19,666",2.0,2.0,-2.0,-17.0,ANGO
+497,D,2008-05-12 16:49:02,2008-05-08,ANGO,Echenberg Paul S,Dir,M - OptEx,$4.35,2091,146048,+1%,"+$9,091",-2.0,-1.0,-3.0,-21.0,ANGO
+498,D,2008-04-18 07:57:14,2008-04-16,ANGO,Hobbs Eamonn P,"Pres, CEO",P - Purchase,$12.97,2715,86226,+3%,"+$35,206",4.0,7.0,19.0,-4.0,ANGO
+499,D,2008-03-05 09:35:07,2008-03-03,ANGO,Donnelly Howard W,Dir,M - OptEx,$11.00,2000,5000,+67%,"+$22,000",-2.0,-38.0,-22.0,-1.0,ANGO
+500,D,2008-02-20 13:55:14,2008-02-15,ANGO,Meteny Dennis S,Dir,A - Grant,$17.92,3000,6000,+100%,"+$53,748",0.0,-5.0,-37.0,-10.0,ANGO
+501,D,2007-08-20 19:47:02,2007-08-17,ANGO,Mapes Harold,VP - Operations,A - Grant,$0.00,500,2678,+23%,+$0,0.0,-3.0,1.0,-6.0,ANGO
+502,D,2007-08-20 19:42:18,2007-08-17,ANGO,Rossell Robert M,VP - Marketing,A - Grant,$0.00,500,4416,+13%,+$0,0.0,-3.0,1.0,-6.0,ANGO
+503,D,2007-08-20 19:40:02,2007-08-17,ANGO,Hobbs Eamonn P,"Pres, CEO",A - Grant,$0.00,1031,82571,+1%,+$0,0.0,-3.0,1.0,-6.0,ANGO
+504,D,2007-08-20 19:37:54,2007-08-17,ANGO,Mitchell Robert D,"EVP, COO",A - Grant,$0.00,667,1242,+116%,+$0,0.0,-3.0,1.0,-6.0,ANGO
+505,D,2007-08-20 19:33:37,2007-08-17,ANGO,Recinella Daniel,VP - Product Development,A - Grant,$0.00,187,1196,+19%,+$0,0.0,-3.0,1.0,-6.0,ANGO
+506,D,2007-08-20 19:29:59,2007-08-17,ANGO,Kunst Brian,VP - Regulatory Affairs,A - Grant,$0.00,500,1500,+50%,+$0,0.0,-3.0,1.0,-6.0,ANGO
+507,D,2007-08-20 19:26:11,2007-08-17,ANGO,Gerardi Joseph G,VP,A - Grant,$0.00,500,5052,+11%,+$0,0.0,-3.0,1.0,-6.0,ANGO
+508,D,2007-08-20 18:58:11,2007-08-17,ANGO,Appling William M,Vice-Pres - Research,A - Grant,$0.00,500,5548,+10%,+$0,0.0,-3.0,1.0,-6.0,ANGO
+509,D,2007-08-10 15:36:39,2007-08-09,ANGO,Shea Paul J,VP - Sales,M - OptEx,$13.18,5100,2562,-201%,"+$67,218",-6.0,-12.0,-7.0,-11.0,ANGO
+510,D,2007-08-10 15:36:39,2007-08-09,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$20.64,-5100,2562,-67%,"-$105,258",-6.0,-12.0,-7.0,-11.0,ANGO
+511,D,2007-05-31 15:35:25,2007-05-29,ANGO,Echenberg Paul S,Dir,M - OptEx,$9.80,391,143957,0%,"+$3,831",1.0,6.0,18.0,28.0,ANGO
+512,D,2007-05-21 09:18:36,2007-05-18,ANGO,Rossell Robert M,VP - Marketing,A - Grant,$16.59,1000,3736,+37%,"+$16,594",0.0,-2.0,7.0,21.0,ANGO
+513,D,2007-05-07 10:45:40,2007-05-03,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$13.18,2500,4942,+102%,"+$32,950",1.0,-2.0,-5.0,12.0,ANGO
+514,D,2007-04-09 13:41:56,2007-04-04,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$13.18,1000,4552,+28%,"+$13,180",-2.0,-1.0,0.0,21.0,ANGO
+515,D,2007-04-02 15:56:59,2007-04-02,ANGO,Mapes Harold,VP - Operations,A - Grant,$17.10,500,1998,+33%,"+$8,550",1.0,-2.0,-2.0,12.0,ANGO
+516,D,2007-04-02 15:47:00,2007-04-02,ANGO,Rossell Robert M,VP - Marketing,A - Grant,$17.03,500,2736,+22%,"+$8,515",1.0,-2.0,-2.0,12.0,ANGO
+517,D,2007-04-02 15:46:47,2007-04-02,ANGO,Mitchell Robert D,"EVP, COO",A - Grant,$17.00,575,575,New,"+$9,775",1.0,-2.0,-2.0,12.0,ANGO
+518,D,2007-04-02 14:33:04,2007-03-30,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,8364,81540,+11%,"+$36,365",1.0,-2.0,-2.0,12.0,ANGO
+519,D,2007-01-29 08:36:32,2007-01-25,ANGO,Echenberg Paul S,Dir,M - OptEx,$4.35,78409,143566,+120%,"+$340,907",2.0,5.0,-6.0,-29.0,ANGO
+520,D,2007-01-23 08:40:36,2007-01-22,ANGO,Flaherty Robert E,Dir,M - OptEx,$11.00,2500,3700,+208%,"+$27,500",3.0,7.0,2.0,-27.0,ANGO
+521,D,2007-01-19 11:02:52,2007-01-16,ANGO,Recinella Daniel,VP - Product Development,M - OptEx,$4.35,3455,892,-135%,"+$15,022",0.0,7.0,5.0,-25.0,ANGO
+522,D,2007-01-19 11:02:52,2007-01-16,ANGO,Recinella Daniel,VP - Product Development,S - Sale+OE,$25.00,-3455,892,-79%,"-$86,375",0.0,7.0,5.0,-25.0,ANGO
+523,D,2007-01-11 18:21:44,2007-01-10,ANGO,Hobbs Eamonn P,"Pres, CEO",P - Purchase,$24.48,1000,73176,+1%,"+$24,480",-1.0,-5.0,4.0,-27.0,ANGO
+524,D,2006-12-21 16:59:06,2006-12-20,ANGO,Stern Linda B,10%,M - OptEx,$13.04,92772,1573687,+6%,"+$1,209,513",0.0,2.0,17.0,-15.0,ANGO
+525,D,2006-12-21 16:26:52,2006-12-20,ANGO,Stern Linda B,10%,M - OptEx,$13.04,92774,1573687,+6%,"+$1,209,539",0.0,2.0,17.0,-15.0,ANGO
+526,D,2006-11-29 07:44:59,2006-11-28,ANGO,Stern Linda B,10%,S - Sale+OE,$21.55,-2750,1573687,0%,"-$59,255",-3.0,-2.0,-3.0,-27.0,ANGO
+527,D,2006-11-20 08:18:10,2006-11-17,ANGO,Stern Linda B,10%,S - Sale+OE,$21.15,-2750,1576437,0%,"-$58,163",2.0,4.0,1.0,-24.0,ANGO
+528,D,2006-11-13 16:57:41,2006-11-13,ANGO,Stern Linda B,10%,S - Sale+OE,$20.19,-2750,1579187,0%,"-$55,527",8.0,6.0,1.0,-18.0,ANGO
+529,D,2006-11-13 07:44:33,2006-11-09,ANGO,Stern Linda B,10%,S - Sale+OE,$20.87,-2750,1581937,0%,"-$57,390",-2.0,5.0,-1.0,-20.0,ANGO
+530,D,2006-11-02 12:02:33,2006-11-01,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,4082,72176,+6%,"+$17,748",-1.0,-3.0,-3.0,-22.0,ANGO
+531,D,2006-11-02 12:02:33,2006-11-01,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$21.62,-4082,72176,-5%,"-$88,268",-1.0,-3.0,-3.0,-22.0,ANGO
+532,D,2006-10-27 10:02:48,2006-10-25,ANGO,Graham Peter J,Dir,M - OptEx,$2.57,1539,94005,+2%,"+$3,952",-1.0,-6.0,-3.0,-28.0,ANGO
+533,D,2006-10-25 13:47:19,2006-10-24,ANGO,Stern Linda B,10%,S - Sale+OE,$22.93,-2750,1584687,0%,"-$63,070",-1.0,-6.0,-3.0,-25.0,ANGO
+534,D,2006-10-19 08:19:34,2006-10-17,ANGO,Stern Linda B,10%,S - Sale+OE,$23.56,-2750,1587437,0%,"-$64,794",0.0,-2.0,-8.0,-24.0,ANGO
+535,D,2006-10-17 15:00:26,2006-10-16,ANGO,Echenberg Paul S,Dir,M - OptEx,$3.55,2748,65157,+4%,"+$9,750",2.0,-2.0,-8.0,-32.0,ANGO
+536,D,2006-10-11 09:30:25,2006-10-09,ANGO,Stern Linda B,10%,S - Sale+OE,$22.89,-2750,1590187,0%,"-$62,938",-1.0,-1.0,-12.0,-30.0,ANGO
+537,D,2006-10-04 13:52:10,2006-10-03,ANGO,Stern Linda B,10%,S - Sale+OE,$21.02,-2750,1592937,0%,"-$57,810",2.0,14.0,3.0,-19.0,ANGO
+538,D,2006-10-04 13:51:59,2006-10-02,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,15000,72176,+26%,"+$65,217",2.0,14.0,3.0,-19.0,ANGO
+539,D,2006-10-04 13:51:59,2006-10-02,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$20.73,-15000,72176,-17%,"-$310,967",2.0,14.0,3.0,-19.0,ANGO
+540,D,2006-09-28 08:25:09,2006-09-26,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,15000,72176,+26%,"+$65,217",-3.0,0.0,6.0,-22.0,ANGO
+541,D,2006-09-28 08:25:09,2006-09-26,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$21.11,-15000,72176,-17%,"-$316,601",-3.0,0.0,6.0,-22.0,ANGO
+542,D,2006-09-28 08:24:58,2006-09-26,ANGO,Stern Linda B,10%,S - Sale+OE,$21.32,-2750,1595687,0%,"-$58,617",-3.0,0.0,6.0,-22.0,ANGO
+543,D,2006-09-25 11:15:23,2006-09-22,ANGO,Stern Linda B,10%,S - Sale+OE,$18.28,-2750,1598437,0%,"-$50,261",3.0,11.0,23.0,21.0,ANGO
+544,D,2006-09-21 08:39:31,2006-09-20,ANGO,Stern Linda B,10%,S - Sale+OE,$18.28,-2750,1601187,0%,"-$50,260",-2.0,15.0,24.0,17.0,ANGO
+545,D,2006-09-21 08:39:21,2006-09-20,ANGO,Gold Jeffrey,Dir,M - OptEx,$5.93,4600,20965,+28%,"+$27,274",-2.0,15.0,24.0,17.0,ANGO
+546,D,2006-09-15 14:56:18,2006-09-13,ANGO,Stern Linda B,10%,S - Sale+OE,$16.14,-2750,1603937,0%,"-$44,374",4.0,11.0,44.0,31.0,ANGO
+547,D,2006-09-14 14:57:46,2006-09-11,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,10000,72176,+16%,"+$43,478",3.0,16.0,50.0,32.0,ANGO
+548,D,2006-09-14 14:36:03,2006-09-11,ANGO,Gerardi Joseph G,VP - CFO,A - Grant,$13.18,1000,3390,+42%,"+$13,180",3.0,16.0,50.0,32.0,ANGO
+549,D,2006-08-30 15:06:35,2006-08-29,ANGO,Meteny Dennis S,Dir,M - OptEx,$11.00,1000,3000,+50%,"+$11,000",2.0,-4.0,19.0,32.0,ANGO
+550,D,2006-08-29 07:30:28,2006-08-25,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$13.18,1000,2390,+72%,"+$13,180",1.0,1.0,24.0,38.0,ANGO
+551,D,2006-08-28 07:35:46,2006-08-24,ANGO,Stern Linda B,10%,S - Sale+OE,$16.99,-2750,1606687,0%,"-$46,721",1.0,5.0,20.0,40.0,ANGO
+552,D,2006-08-17 10:24:06,2006-08-15,ANGO,Kunst Brian,VP - Regulatory Affairs,A - Grant,$0.00,1000,1000,New,+$0,1.0,-6.0,-5.0,38.0,ANGO
+553,D,2006-08-17 10:23:47,2006-08-15,ANGO,Mapes Harold,VP - Operations,A - Grant,$0.00,1000,1000,New,+$0,1.0,-6.0,-5.0,38.0,ANGO
+554,D,2006-08-17 10:23:23,2006-08-15,ANGO,Recinella Daniel,VP - Product Development,A - Grant,$0.00,375,766,+96%,+$0,1.0,-6.0,-5.0,38.0,ANGO
+555,D,2006-08-17 10:23:03,2006-08-15,ANGO,Rossell Robert M,VP - Marketing,A - Grant,$0.00,1000,2100,+91%,+$0,1.0,-6.0,-5.0,38.0,ANGO
+556,D,2006-08-17 10:22:34,2006-08-15,ANGO,Shea Paul J,VP - Sales,A - Grant,$0.00,1000,1953,+105%,+$0,1.0,-6.0,-5.0,38.0,ANGO
+557,D,2006-08-17 10:22:09,2006-08-15,ANGO,Hobbs Eamonn P,"Pres, CEO",A - Grant,$0.00,2062,62176,+3%,+$0,1.0,-6.0,-5.0,38.0,ANGO
+558,D,2006-08-17 10:21:53,2006-08-15,ANGO,Gerardi Joseph G,VP - CFO,A - Grant,$0.00,1000,1390,+256%,+$0,1.0,-6.0,-5.0,38.0,ANGO
+559,D,2006-08-17 10:21:38,2006-08-15,ANGO,Appling William M,Vice-Pres - Research,A - Grant,$0.00,1000,1944,+106%,+$0,1.0,-6.0,-5.0,38.0,ANGO
+560,D,2006-08-17 09:19:03,2006-08-16,ANGO,Stern Linda B,10%,S - Sale+OE,$18.29,-2750,1609437,0%,"-$50,305",1.0,-6.0,-5.0,38.0,ANGO
+561,D,2006-08-14 10:20:15,2006-08-11,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,10000,60114,+20%,"+$43,478",5.0,4.0,-8.0,43.0,ANGO
+562,D,2006-08-11 09:48:10,2006-08-10,ANGO,Stern Linda B,10%,S - Sale+OE,$21.77,-2750,1612187,0%,"-$59,874",-15.0,-11.0,-25.0,24.0,ANGO
+563,D,2006-08-08 09:40:01,2006-08-07,ANGO,Stern Linda B,10%,S - Sale+OE,$23.94,-2750,1614937,0%,"-$65,840",-2.0,-22.0,-29.0,9.0,ANGO
+564,D,2006-08-03 10:05:32,2006-08-01,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,10000,50114,+25%,"+$43,478",0.0,-1.0,-23.0,12.0,ANGO
+565,D,2006-08-03 10:05:32,2006-08-01,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$21.94,-10000,50114,-17%,"-$219,403",0.0,-1.0,-23.0,12.0,ANGO
+566,D,2006-08-02 07:34:06,2006-05-25,ANGO,Rossell Robert M,VP - Marketing,W - Inherited,$0.00,100,1100,-8%,$0,6.0,5.0,-19.0,20.0,ANGO
+567,D,2006-07-31 17:40:19,2006-07-28,ANGO,Stern Linda B,10%,S - Sale+OE,$23.43,-3750,1617687,0%,"-$87,851",-3.0,5.0,-24.0,13.0,ANGO
+568,D,2006-07-25 09:15:35,2006-07-24,ANGO,Stern Linda B,10%,S - Sale+OE,$24.07,-3750,1621437,0%,"-$90,272",0.0,-4.0,-27.0,3.0,ANGO
+569,D,2006-07-21 08:42:38,2006-07-20,ANGO,Stern Linda B,10%,S - Sale+OE,$24.31,-3750,1625187,0%,"-$91,169",-2.0,-4.0,-23.0,0.0,ANGO
+570,D,2006-07-19 07:25:27,2006-07-18,ANGO,Stern Linda B,10%,S - Sale+OE,$23.99,-3750,1628937,0%,"-$89,968",4.0,0.0,-24.0,-1.0,ANGO
+571,D,2006-07-18 07:46:06,2006-07-17,ANGO,Stern Linda B,10%,S - Sale+OE,$24.26,-3750,1632687,0%,"-$90,986",0.0,0.0,-24.0,0.0,ANGO
+572,D,2006-07-14 06:38:01,2006-07-11,ANGO,Stern Linda B,10%,S - Sale+OE,$25.92,-3750,1636437,0%,"-$97,209",1.0,-2.0,-28.0,1.0,ANGO
+573,D,2006-07-11 14:09:46,2006-07-07,ANGO,Stern Linda B,10%,S - Sale+OE,$26.62,-3750,1640187,0%,"-$99,843",-1.0,-8.0,-11.0,-8.0,ANGO
+574,D,2006-07-06 14:40:20,2006-07-05,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,20000,50114,+66%,"+$86,956",2.0,-2.0,-11.0,-4.0,ANGO
+575,D,2006-07-06 14:40:20,2006-07-05,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$26.37,-20000,50114,-29%,"-$527,334",2.0,-2.0,-11.0,-4.0,ANGO
+576,D,2006-07-05 14:31:16,2006-07-03,ANGO,Stern Linda B,10%,S - Sale+OE,$26.87,-3750,1643937,0%,"-$100,776",-2.0,-3.0,-12.0,-18.0,ANGO
+577,D,2006-06-27 13:46:29,2006-06-23,ANGO,Stern Linda B,10%,M - OptEx,$6.31,2343,1647687,0%,"+$14,774",-1.0,6.0,-8.0,-18.0,ANGO
+578,D,2006-06-27 13:46:29,2006-06-23,ANGO,Stern Linda B,10%,S - Sale+OE,$26.00,-2343,1647687,0%,"-$60,913",-1.0,6.0,-8.0,-18.0,ANGO
+579,D,2006-06-02 13:30:24,2006-06-01,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,20000,50114,+66%,"+$86,956",4.0,-4.0,-3.0,-23.0,ANGO
+580,D,2006-06-02 13:30:24,2006-06-01,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$27.56,-20000,50114,-29%,"-$551,150",4.0,-4.0,-3.0,-23.0,ANGO
+581,D,2006-05-26 11:20:19,2006-05-25,ANGO,Echenberg Paul S,Dir,M - OptEx,$8.12,804,62409,+1%,"+$6,531",0.0,12.0,-3.0,-16.0,ANGO
+582,D,2006-05-26 11:20:05,2006-05-25,ANGO,Stern Linda B,10%,M - OptEx,$9.80,781,1647687,0%,"+$7,653",0.0,12.0,-3.0,-16.0,ANGO
+583,D,2006-05-26 11:20:05,2006-05-25,ANGO,Stern Linda B,10%,S - Sale+OE,$25.95,-781,1647687,0%,"-$20,265",0.0,12.0,-3.0,-16.0,ANGO
+584,D,2006-05-23 08:43:07,2006-05-19,ANGO,Meyers David P,Dir,M - OptEx,$4.35,10000,356980,+3%,"+$43,478",6.0,6.0,6.0,-15.0,ANGO
+585,D,2006-05-15 11:21:41,2006-05-12,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,5000,50114,+11%,"+$21,739",3.0,-1.0,-1.0,-21.0,ANGO
+586,D,2006-05-15 11:21:30,2006-05-12,ANGO,Meyers David P,Dir,M - OptEx,$4.35,10000,346980,+3%,"+$43,478",3.0,-1.0,-1.0,-21.0,ANGO
+587,D,2006-05-03 08:46:48,2006-05-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,4500,242,-106%,"+$19,565",-3.0,1.0,-6.0,-26.0,ANGO
+588,D,2006-05-03 08:46:48,2006-05-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$29.84,-4500,242,-95%,"-$134,280",-3.0,1.0,-6.0,-26.0,ANGO
+589,DM,2006-05-03 08:46:42,2006-04-24,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,34000,42889,+382%,"+$147,825",-3.0,1.0,-6.0,-26.0,ANGO
+590,DM,2006-05-03 08:46:42,2006-04-24,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$29.73,-34000,42889,-44%,"-$1,010,926",-3.0,1.0,-6.0,-26.0,ANGO
+591,D,2006-04-25 15:14:17,2006-04-20,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,5500,42889,+15%,"+$23,913",0.0,4.0,-18.0,-21.0,ANGO
+592,D,2006-04-25 15:14:17,2006-04-20,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$30.00,-5500,42889,-11%,"-$165,000",0.0,4.0,-18.0,-21.0,ANGO
+593,D,2006-04-10 10:20:36,2006-04-07,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,500,42889,+1%,"+$2,174",-1.0,2.0,4.0,-20.0,ANGO
+594,D,2006-04-10 10:20:36,2006-04-07,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$30.02,-500,42889,-1%,"-$15,010",-1.0,2.0,4.0,-20.0,ANGO
+595,DM,2006-04-04 08:23:18,2006-03-31,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,30000,42889,+233%,"+$130,434",-2.0,-1.0,-2.0,-28.0,ANGO
+596,DM,2006-04-04 08:23:18,2006-03-31,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$28.91,-30000,42889,-41%,"-$867,250",-2.0,-1.0,-2.0,-28.0,ANGO
+597,D,2006-04-04 08:23:11,2006-04-03,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,5000,242,-105%,"+$21,739",-2.0,-1.0,-2.0,-28.0,ANGO
+598,D,2006-04-04 08:23:11,2006-04-03,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$28.76,-5000,242,-95%,"-$143,800",-2.0,-1.0,-2.0,-28.0,ANGO
+599,DM,2006-03-30 12:51:45,2006-03-28,ANGO,Meyers David P,Dir,S - Sale+OE,$29.79,-6162,336980,-2%,"-$183,542",3.0,-1.0,7.0,-26.0,ANGO
+600,D,2006-03-28 11:41:53,2006-03-24,ANGO,Meyers David P,Dir,S - Sale+OE,$28.76,-6000,343142,-2%,"-$172,560",0.0,1.0,1.0,-34.0,ANGO
+601,D,2006-03-27 09:52:05,2006-03-23,ANGO,Meyers David P,Dir,S - Sale+OE,$29.00,-19000,349142,-5%,"-$551,000",1.0,5.0,1.0,-35.0,ANGO
+602,D,2006-03-23 16:37:13,2006-03-22,ANGO,Meyers David P,Dir,S - Sale+OE,$28.19,-57000,368142,-13%,"-$1,606,830",-1.0,0.0,3.0,-36.0,ANGO
+603,D,2006-03-23 10:47:56,2006-03-22,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,2500,242,-111%,"+$10,870",0.0,2.0,4.0,-34.0,ANGO
+604,D,2006-03-23 10:47:56,2006-03-22,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$28.17,-2500,242,-91%,"-$70,425",0.0,2.0,4.0,-34.0,ANGO
+605,DM,2006-03-22 09:44:01,2006-03-20,ANGO,Meyers David P,Dir,S - Sale+OE,$26.12,-4000,425142,-1%,"-$104,480",9.0,9.0,12.0,-31.0,ANGO
+606,D,2006-03-17 07:56:33,2006-03-15,ANGO,Meyers David P,Dir,S - Sale+OE,$25.58,-3000,429142,-1%,"-$76,740",5.0,17.0,18.0,-33.0,ANGO
+607,D,2006-03-16 07:06:43,2006-03-14,ANGO,Meyers David P,Dir,M - OptEx,$4.58,10000,432142,+2%,"+$45,769",-2.0,13.0,13.0,-37.0,ANGO
+608,D,2006-03-16 07:06:30,2006-03-14,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,9000,42889,+27%,"+$39,130",-2.0,13.0,13.0,-37.0,ANGO
+609,D,2006-03-16 07:06:30,2006-03-14,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$25.02,-9000,42889,-17%,"-$225,180",-2.0,13.0,13.0,-37.0,ANGO
+610,D,2006-03-14 10:46:46,2006-03-13,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,10000,42889,+30%,"+$43,478",16.0,18.0,30.0,-29.0,ANGO
+611,D,2006-03-08 17:30:30,2006-03-07,ANGO,Donnelly Howard W,Dir,M - OptEx,$11.00,2000,3000,+200%,"+$22,000",-2.0,5.0,19.0,-28.0,ANGO
+612,D,2006-03-06 08:48:53,2006-03-02,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,10000,32889,+44%,"+$43,478",-2.0,-7.0,19.0,-26.0,ANGO
+613,D,2006-03-03 09:40:57,2006-03-01,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,11000,22889,+93%,"+$47,826",-1.0,-1.0,25.0,-25.0,ANGO
+614,D,2006-03-03 09:40:57,2006-03-01,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$24.76,-11000,22889,-32%,"-$272,340",-1.0,-1.0,25.0,-25.0,ANGO
+615,D,2006-03-03 09:40:44,2006-03-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,2500,242,-111%,"+$10,870",-1.0,-1.0,25.0,-25.0,ANGO
+616,D,2006-03-03 09:40:44,2006-03-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$24.97,-2500,242,-91%,"-$62,418",-1.0,-1.0,25.0,-25.0,ANGO
+617,D,2006-02-22 16:21:49,2006-02-17,ANGO,Meyers David P,Dir,S - Sale+OE,$27.25,-200,422142,0%,"-$5,450",-1.0,-1.0,13.0,-28.0,ANGO
+618,D,2006-02-16 13:13:40,2006-02-14,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,9100,22889,+66%,"+$39,565",2.0,-5.0,-6.0,-32.0,ANGO
+619,D,2006-02-03 08:01:00,2006-02-01,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,15000,13789,-1239%,"+$65,217",3.0,5.0,-6.0,-7.0,ANGO
+620,D,2006-02-03 08:01:00,2006-02-01,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$26.87,-15000,13789,-52%,"-$403,001",3.0,5.0,-6.0,-7.0,ANGO
+621,D,2006-02-03 08:00:51,2006-02-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,5000,214,-104%,"+$21,739",3.0,5.0,-6.0,-7.0,ANGO
+622,D,2006-02-03 08:00:51,2006-02-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$27.20,-5000,214,-96%,"-$136,000",3.0,5.0,-6.0,-7.0,ANGO
+623,D,2006-02-03 08:00:39,2006-02-01,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,4000,654,-120%,"+$17,391",3.0,5.0,-6.0,-7.0,ANGO
+624,D,2006-02-03 08:00:39,2006-02-01,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$27.01,-4000,654,-86%,"-$108,050",3.0,5.0,-6.0,-7.0,ANGO
+625,D,2006-01-31 15:25:37,2006-01-27,ANGO,Meyers David P,Dir,S - Sale+OE,$29.76,-1000,422342,0%,"-$29,760",-4.0,-6.0,-12.0,-18.0,ANGO
+626,D,2006-01-30 12:32:20,2006-01-26,ANGO,Meyers David P,Dir,S - Sale+OE,$29.81,-2938,423342,-1%,"-$87,582",0.0,-7.0,-10.0,-16.0,ANGO
+627,D,2006-01-30 12:28:28,2006-01-25,ANGO,Meyers David P,Dir,S - Sale+OE,$28.70,-4100,426280,-1%,"-$117,670",0.0,-7.0,-10.0,-16.0,ANGO
+628,D,2006-01-26 13:39:27,2006-01-25,ANGO,Meyers David P,Dir,S - Sale+OE,$28.70,-4100,426280,-1%,"-$117,670",-3.0,-7.0,-12.0,-18.0,ANGO
+629,D,2006-01-26 13:39:18,2006-01-24,ANGO,Meyers David P,Dir,S - Sale+OE,$28.30,-2900,430380,-1%,"-$82,078",-3.0,-7.0,-12.0,-18.0,ANGO
+630,D,2006-01-13 14:38:20,2006-01-12,ANGO,Meyers David P,Dir,S - Sale+OE,$29.17,-3700,433280,-1%,"-$107,929",-2.0,-7.0,-15.0,-15.0,ANGO
+631,D,2006-01-11 13:47:45,2006-01-10,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,2500,214,-109%,"+$10,870",1.0,-1.0,-7.0,-10.0,ANGO
+632,D,2006-01-11 13:47:45,2006-01-10,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$27.00,-2500,214,-92%,"-$67,500",1.0,-1.0,-7.0,-10.0,ANGO
+633,D,2006-01-09 14:15:22,2006-01-06,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,5000,654,-115%,"+$21,739",10.0,5.0,-3.0,0.0,ANGO
+634,D,2006-01-09 14:15:22,2006-01-06,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$26.75,-5000,654,-88%,"-$133,750",10.0,5.0,-3.0,0.0,ANGO
+635,D,2006-01-09 14:15:14,2006-01-06,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,2000,13789,+17%,"+$8,696",10.0,5.0,-3.0,0.0,ANGO
+636,D,2006-01-09 14:15:14,2006-01-06,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$26.75,-2000,13789,-13%,"-$53,500",10.0,5.0,-3.0,0.0,ANGO
+637,D,2006-01-05 09:38:18,2006-01-03,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,13000,13789,>999%,"+$56,521",11.0,23.0,10.0,14.0,ANGO
+638,D,2006-01-05 09:38:18,2006-01-03,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$25.17,-13000,13789,-49%,"-$327,250",11.0,23.0,10.0,14.0,ANGO
+639,D,2006-01-05 09:38:06,2006-01-03,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,2000,214,-112%,"+$8,696",11.0,23.0,10.0,14.0,ANGO
+640,D,2006-01-05 09:38:06,2006-01-03,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$25.33,-2000,214,-90%,"-$50,650",11.0,23.0,10.0,14.0,ANGO
+641,D,2006-01-05 09:37:56,2006-01-03,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,5000,654,-115%,"+$21,739",11.0,23.0,10.0,14.0,ANGO
+642,D,2006-01-05 09:37:56,2006-01-03,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$25.21,-5000,654,-88%,"-$126,050",11.0,23.0,10.0,14.0,ANGO
+643,D,2005-12-29 10:00:06,2005-12-27,ANGO,Stern Howard S,"Dir, 10%",G - Gift,$0.00,-3450,1647687,0%,-$0,0.0,-5.0,10.0,13.0,ANGO
+644,D,2005-12-29 10:00:06,2005-12-28,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$24.98,-1624,1647687,0%,"-$40,569",0.0,-5.0,10.0,13.0,ANGO
+645,D,2005-12-22 10:50:26,2005-12-21,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$24.25,-1624,1652761,0%,"-$39,382",2.0,3.0,15.0,4.0,ANGO
+646,D,2005-12-16 13:55:51,2005-12-14,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$24.23,-1624,1654385,0%,"-$39,350",-2.0,2.0,15.0,7.0,ANGO
+647,D,2005-12-16 13:55:41,2005-12-14,ANGO,Rossell Robert M,VP - Marketing,M - OptEx,$13.18,2550,1000,-165%,"+$33,609",-2.0,2.0,15.0,7.0,ANGO
+648,D,2005-12-16 13:55:41,2005-12-14,ANGO,Rossell Robert M,VP - Marketing,S - Sale+OE,$25.02,-2550,1000,-72%,"-$63,812",-2.0,2.0,15.0,7.0,ANGO
+649,D,2005-12-16 13:55:29,2005-12-14,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,7500,13789,+119%,"+$32,609",-2.0,2.0,15.0,7.0,ANGO
+650,D,2005-12-16 13:55:29,2005-12-14,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$25.01,-7500,13789,-35%,"-$187,560",-2.0,2.0,15.0,7.0,ANGO
+651,DM,2005-12-16 13:55:17,2005-12-14,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,7000,654,-110%,"+$30,435",-2.0,2.0,15.0,7.0,ANGO
+652,DM,2005-12-16 13:55:17,2005-12-14,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$26.32,-7000,654,-91%,"-$184,250",-2.0,2.0,15.0,7.0,ANGO
+653,D,2005-12-08 08:13:07,2005-12-07,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1500,214,-117%,"+$6,522",4.0,8.0,11.0,14.0,ANGO
+654,D,2005-12-08 08:13:07,2005-12-07,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$24.00,-1500,214,-88%,"-$36,000",4.0,8.0,11.0,14.0,ANGO
+655,D,2005-12-08 08:12:54,2005-12-06,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,2000,654,-149%,"+$8,696",4.0,8.0,11.0,14.0,ANGO
+656,D,2005-12-08 08:12:54,2005-12-06,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$23.00,-2000,654,-75%,"-$46,000",4.0,8.0,11.0,14.0,ANGO
+657,D,2005-12-08 08:12:43,2005-12-07,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$22.92,-1624,1656009,0%,"-$37,222",4.0,8.0,11.0,14.0,ANGO
+658,D,2005-12-02 10:13:33,2005-11-30,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$19.70,-1624,1657633,0%,"-$31,993",-1.0,11.0,10.0,30.0,ANGO
+659,D,2005-12-02 10:13:20,2005-12-01,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,7500,13789,+119%,"+$32,609",-1.0,11.0,10.0,30.0,ANGO
+660,D,2005-12-02 10:13:20,2005-12-01,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$20.62,-7500,13789,-35%,"-$154,650",-1.0,11.0,10.0,30.0,ANGO
+661,D,2005-12-02 10:13:10,2005-12-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1000,214,-127%,"+$4,348",-1.0,11.0,10.0,30.0,ANGO
+662,D,2005-12-02 10:13:10,2005-12-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$20.62,-1000,214,-82%,"-$20,620",-1.0,11.0,10.0,30.0,ANGO
+663,D,2005-12-02 10:12:58,2005-12-01,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,1000,654,-289%,"+$4,348",-1.0,11.0,10.0,30.0,ANGO
+664,D,2005-12-02 10:12:58,2005-12-01,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$21.50,-1000,654,-60%,"-$21,500",-1.0,11.0,10.0,30.0,ANGO
+665,D,2005-11-23 14:29:23,2005-11-23,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$19.97,-1624,1659257,0%,"-$32,431",-2.0,3.0,25.0,31.0,ANGO
+666,D,2005-11-17 11:31:47,2005-11-16,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$19.85,-1624,1660881,0%,"-$32,236",0.0,-1.0,20.0,28.0,ANGO
+667,D,2005-11-15 08:31:40,2005-11-11,ANGO,Stern Howard S,"Dir, 10%",M - OptEx,$4.56,1562,1662505,0%,"+$7,121",-1.0,-2.0,28.0,26.0,ANGO
+668,D,2005-11-10 10:24:20,2005-11-09,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$22.08,-1624,1660943,0%,"-$35,858",-6.0,-10.0,8.0,17.0,ANGO
+669,D,2005-11-03 08:08:55,2005-11-02,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$23.22,-1624,1662567,0%,"-$37,709",-2.0,-3.0,-4.0,27.0,ANGO
+670,D,2005-11-03 08:08:41,2005-11-01,ANGO,Meyers David P,Dir,S - Sale+OE,$23.26,-4639,436980,-1%,"-$107,910",-2.0,-3.0,-4.0,27.0,ANGO
+671,D,2005-11-02 11:44:01,2005-11-01,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,7500,13789,+119%,"+$32,609",-2.0,-4.0,-5.0,22.0,ANGO
+672,D,2005-11-02 11:44:01,2005-11-01,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$21.51,-7500,13789,-35%,"-$161,289",-2.0,-4.0,-5.0,22.0,ANGO
+673,D,2005-11-02 11:43:52,2005-11-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1000,183,-122%,"+$4,348",-2.0,-4.0,-5.0,22.0,ANGO
+674,D,2005-11-02 11:43:52,2005-11-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$21.50,-1000,183,-85%,"-$21,500",-2.0,-4.0,-5.0,22.0,ANGO
+675,D,2005-11-02 11:43:40,2005-11-01,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,3000,474,-119%,"+$13,043",-2.0,-4.0,-5.0,22.0,ANGO
+676,D,2005-11-02 11:43:40,2005-11-01,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$22.50,-3000,474,-86%,"-$67,500",-2.0,-4.0,-5.0,22.0,ANGO
+677,D,2005-10-27 08:02:58,2005-10-26,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$22.63,-1624,1664191,0%,"-$36,751",-5.0,2.0,-11.0,38.0,ANGO
+678,D,2005-10-25 09:13:08,2005-10-21,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,1000,474,-190%,"+$4,348",2.0,-3.0,-11.0,30.0,ANGO
+679,D,2005-10-25 09:13:08,2005-10-21,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$21.50,-1000,474,-68%,"-$21,500",2.0,-3.0,-11.0,30.0,ANGO
+680,D,2005-10-21 08:35:21,2005-10-19,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$21.23,-1624,1665815,0%,"-$34,478",0.0,-2.0,-8.0,35.0,ANGO
+681,D,2005-10-14 07:34:19,2005-10-12,ANGO,Meyers David P,Dir,M - OptEx,$4.56,780,441619,0%,"+$3,556",1.0,13.0,9.0,52.0,ANGO
+682,D,2005-10-13 13:38:29,2005-10-12,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$19.67,-1624,1667439,0%,"-$31,944",4.0,17.0,14.0,56.0,ANGO
+683,D,2005-10-06 09:47:28,2005-10-05,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$19.55,-1624,1669063,0%,"-$31,749",-1.0,-7.0,14.0,48.0,ANGO
+684,D,2005-10-06 09:19:19,2005-10-03,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1000,183,-122%,"+$4,348",-1.0,-7.0,14.0,48.0,ANGO
+685,D,2005-10-06 09:19:19,2005-10-03,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$20.67,-1000,183,-85%,"-$20,670",-1.0,-7.0,14.0,48.0,ANGO
+686,D,2005-10-06 09:19:10,2005-10-03,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,7500,13789,+119%,"+$32,609",-1.0,-7.0,14.0,48.0,ANGO
+687,D,2005-10-06 09:19:10,2005-10-03,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$20.67,-7500,13789,-35%,"-$155,025",-1.0,-7.0,14.0,48.0,ANGO
+688,D,2005-09-29 11:03:58,2005-09-27,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1500,183,-114%,"+$6,522",5.0,-2.0,6.0,46.0,ANGO
+689,D,2005-09-29 11:03:58,2005-09-27,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$24.08,-1500,183,-89%,"-$36,120",5.0,-2.0,6.0,46.0,ANGO
+690,D,2005-09-29 11:03:48,2005-09-28,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$23.02,-1624,1670687,0%,"-$37,384",5.0,-2.0,6.0,46.0,ANGO
+691,D,2005-09-22 12:10:10,2005-09-21,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$22.01,-1624,1672311,0%,"-$35,744",-1.0,-9.0,-2.0,31.0,ANGO
+692,D,2005-09-15 07:24:41,2005-09-14,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$22.51,-1624,1673935,0%,"-$36,556",0.0,-3.0,-15.0,9.0,ANGO
+693,D,2005-09-09 08:34:58,2005-09-07,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$22.69,-1624,1675559,0%,"-$36,849",-3.0,2.0,-10.0,2.0,ANGO
+694,D,2005-09-02 12:06:27,2005-09-01,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,7500,13789,+119%,"+$32,609",-1.0,-1.0,-8.0,9.0,ANGO
+695,D,2005-09-02 12:06:27,2005-09-01,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$20.95,-7500,13789,-35%,"-$157,125",-1.0,-1.0,-8.0,9.0,ANGO
+696,D,2005-09-02 12:06:13,2005-09-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1000,183,-122%,"+$4,348",-1.0,-1.0,-8.0,9.0,ANGO
+697,D,2005-09-02 12:06:13,2005-09-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$20.95,-1000,183,-85%,"-$20,950",-1.0,-1.0,-8.0,9.0,ANGO
+698,D,2005-09-01 13:17:32,2005-08-31,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$21.16,-1624,1677183,0%,"-$34,364",2.0,4.0,-3.0,14.0,ANGO
+699,D,2005-08-26 08:58:02,2005-08-24,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$21.59,-1624,1678807,0%,"-$35,069",-1.0,-3.0,3.0,12.0,ANGO
+700,D,2005-08-18 08:22:39,2005-08-17,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$23.10,-1624,1680431,0%,"-$37,514",1.0,-3.0,1.0,18.0,ANGO
+701,D,2005-08-11 16:23:01,2005-08-10,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$22.84,-1624,1682055,0%,"-$37,092",-2.0,-5.0,-9.0,12.0,ANGO
+702,D,2005-08-08 14:47:29,2005-08-04,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1500,131,-110%,"+$6,522",-2.0,-2.0,-3.0,11.0,ANGO
+703,D,2005-08-08 14:47:29,2005-08-04,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$24.00,-1500,131,-92%,"-$36,000",-2.0,-2.0,-3.0,11.0,ANGO
+704,D,2005-08-04 11:56:55,2005-08-03,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$23.58,-1624,1683679,0%,"-$38,294",0.0,-2.0,-9.0,6.0,ANGO
+705,D,2005-08-02 15:49:01,2005-08-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1000,131,-115%,"+$4,348",1.0,-1.0,-8.0,19.0,ANGO
+706,D,2005-08-02 15:49:01,2005-08-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$23.10,-1000,131,-88%,"-$23,101",1.0,-1.0,-8.0,19.0,ANGO
+707,D,2005-08-02 15:48:38,2005-08-01,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,7500,13789,+119%,"+$32,609",1.0,-1.0,-8.0,19.0,ANGO
+708,D,2005-08-02 15:48:38,2005-08-01,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$23.21,-7500,13789,-35%,"-$174,076",1.0,-1.0,-8.0,19.0,ANGO
+709,D,2005-08-02 15:48:15,2005-07-29,ANGO,Mapes Harold,VP - Operations,M - OptEx,$4.35,20000,0,-100%,"+$86,956",1.0,-1.0,-8.0,19.0,ANGO
+710,D,2005-08-02 15:48:15,2005-07-29,ANGO,Mapes Harold,VP - Operations,S - Sale+OE,$23.60,-20000,0,-100%,"-$472,000",1.0,-1.0,-8.0,19.0,ANGO
+711,D,2005-07-28 09:53:42,2005-07-27,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$21.75,-1624,1685303,0%,"-$35,322",5.0,7.0,0.0,31.0,ANGO
+712,D,2005-07-21 07:15:34,2005-07-20,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$24.78,-1624,1686927,0%,"-$40,243",-3.0,-11.0,-8.0,12.0,ANGO
+713,D,2005-07-18 07:44:38,2005-07-15,ANGO,Mapes Harold,VP - Operations,M - OptEx,$4.35,1000,0,-100%,"+$4,348",7.0,6.0,-3.0,14.0,ANGO
+714,D,2005-07-18 07:44:38,2005-07-15,ANGO,Mapes Harold,VP - Operations,S - Sale+OE,$24.06,-1000,0,-100%,"-$24,061",7.0,6.0,-3.0,14.0,ANGO
+715,D,2005-07-14 16:27:53,2005-07-13,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$24.49,-1624,1688551,0%,"-$39,772",0.0,4.0,-2.0,21.0,ANGO
+716,D,2005-07-13 07:46:15,2005-07-11,ANGO,Meyers David P,Dir,S - Sale+OE,$24.93,-35720,440839,-7%,"-$890,467",0.0,2.0,-4.0,18.0,ANGO
+717,D,2005-07-12 12:01:02,2005-07-08,ANGO,Shea Paul J,VP - Sales,M - OptEx,$4.35,4000,299,-108%,"+$17,391",-5.0,2.0,-10.0,3.0,ANGO
+718,D,2005-07-12 12:01:02,2005-07-08,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$22.34,-4000,299,-93%,"-$89,373",-5.0,2.0,-10.0,3.0,ANGO
+719,D,2005-07-12 11:58:40,2005-07-11,ANGO,Recinella Daniel,VP - Product Development,M - OptEx,$4.35,5000,110,-102%,"+$21,739",-5.0,2.0,-10.0,3.0,ANGO
+720,D,2005-07-12 11:58:40,2005-07-11,ANGO,Recinella Daniel,VP - Product Development,S - Sale+OE,$25.00,-5000,110,-98%,"-$125,000",-5.0,2.0,-10.0,3.0,ANGO
+721,D,2005-07-12 11:51:54,2005-07-08,ANGO,Meyers David P,Dir,S - Sale+OE,$22.93,-25000,476559,-5%,"-$573,333",-5.0,2.0,-10.0,3.0,ANGO
+722,D,2005-07-12 11:51:25,2005-07-11,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,7500,13789,+119%,"+$32,609",-5.0,2.0,-10.0,3.0,ANGO
+723,D,2005-07-12 11:51:25,2005-07-11,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$25.00,-7500,13789,-35%,"-$187,500",-5.0,2.0,-10.0,3.0,ANGO
+724,D,2005-07-12 11:51:01,2005-07-11,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1500,131,-110%,"+$6,522",-5.0,2.0,-10.0,3.0,ANGO
+725,D,2005-07-12 11:51:01,2005-07-11,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$24.28,-1500,131,-92%,"-$36,420",-5.0,2.0,-10.0,3.0,ANGO
+726,D,2005-07-12 11:50:35,2005-07-11,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,8000,294,-104%,"+$34,782",-5.0,2.0,-10.0,3.0,ANGO
+727,D,2005-07-12 11:50:35,2005-07-11,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$24.28,-8000,294,-96%,"-$194,240",-5.0,2.0,-10.0,3.0,ANGO
+728,D,2005-07-08 07:24:32,2005-07-06,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$21.15,-1624,1690175,0%,"-$34,348",8.0,13.0,11.0,13.0,ANGO
+729,D,2005-07-05 15:53:10,2005-07-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1000,131,-115%,"+$4,348",1.0,20.0,12.0,19.0,ANGO
+730,D,2005-07-05 15:53:10,2005-07-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$21.14,-1000,131,-88%,"-$21,137",1.0,20.0,12.0,19.0,ANGO
+731,D,2005-07-05 15:53:00,2005-07-01,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,7500,13789,+119%,"+$32,609",1.0,20.0,12.0,19.0,ANGO
+732,D,2005-07-05 15:53:00,2005-07-01,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$21.14,-7500,13789,-35%,"-$158,525",1.0,20.0,12.0,19.0,ANGO
+733,D,2005-07-05 15:52:47,2005-07-01,ANGO,Shea Paul J,VP - Sales,M - OptEx,$4.35,4000,299,-108%,"+$17,391",1.0,20.0,12.0,19.0,ANGO
+734,D,2005-07-05 15:52:47,2005-07-01,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$21.14,-4000,299,-93%,"-$84,546",1.0,20.0,12.0,19.0,ANGO
+735,D,2005-07-01 08:21:15,2005-06-29,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$21.73,-1624,1691799,0%,"-$35,290",-2.0,7.0,9.0,17.0,ANGO
+736,D,2005-06-24 14:16:54,2005-06-22,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$21.51,-1624,1693423,0%,"-$34,932",-5.0,-1.0,3.0,12.0,ANGO
+737,D,2005-06-17 06:53:12,2005-06-16,ANGO,Mapes Harold,VP - Operations,M - OptEx,$4.35,500,0,-100%,"+$2,174",1.0,3.0,22.0,21.0,ANGO
+738,D,2005-06-17 06:53:12,2005-06-16,ANGO,Mapes Harold,VP - Operations,S - Sale+OE,$21.00,-500,0,-100%,"-$10,500",1.0,3.0,22.0,21.0,ANGO
+739,D,2005-06-17 06:52:59,2005-06-16,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,1000,294,-142%,"+$4,348",1.0,3.0,22.0,21.0,ANGO
+740,D,2005-06-17 06:52:59,2005-06-16,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$21.00,-1000,294,-77%,"-$21,000",1.0,3.0,22.0,21.0,ANGO
+741,D,2005-06-14 15:18:46,2005-06-13,ANGO,Meyers David P,Dir,S - Sale+OE,$20.78,-4480,501559,-1%,"-$93,084",0.0,2.0,18.0,16.0,ANGO
+742,D,2005-06-09 14:53:56,2005-06-08,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$20.70,-1624,1696671,0%,"-$33,617",1.0,-2.0,12.0,11.0,ANGO
+743,D,2005-06-09 14:53:49,2005-06-08,ANGO,Donnelly Howard W,Dir,M - OptEx,$11.00,1000,1000,New,"+$11,000",1.0,-2.0,12.0,11.0,ANGO
+744,D,2005-06-08 16:49:43,2005-06-07,ANGO,Shea Paul J,VP - Sales,M - OptEx,$4.35,7000,299,-104%,"+$30,435",1.0,0.0,4.0,8.0,ANGO
+745,D,2005-06-08 16:49:43,2005-06-07,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$22.08,-7000,299,-96%,"-$154,540",1.0,0.0,4.0,8.0,ANGO
+746,D,2005-06-08 16:49:33,2005-06-06,ANGO,Meyers David P,Dir,S - Sale+OE,$21.24,-11084,506039,-2%,"-$235,424",1.0,0.0,4.0,8.0,ANGO
+747,D,2005-06-07 07:14:40,2005-06-06,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,2000,294,-117%,"+$8,696",-5.0,-5.0,-2.0,1.0,ANGO
+748,D,2005-06-07 07:14:40,2005-06-06,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$21.35,-2000,294,-87%,"-$42,700",-5.0,-5.0,-2.0,1.0,ANGO
+749,D,2005-06-07 07:14:31,2005-06-06,ANGO,Mapes Harold,VP - Operations,M - OptEx,$4.35,1000,0,-100%,"+$4,348",-5.0,-5.0,-2.0,1.0,ANGO
+750,D,2005-06-07 07:14:31,2005-06-06,ANGO,Mapes Harold,VP - Operations,S - Sale+OE,$21.00,-1000,0,-100%,"-$21,000",-5.0,-5.0,-2.0,1.0,ANGO
+751,D,2005-06-07 07:14:17,2005-06-06,ANGO,Shea Paul J,VP - Sales,M - OptEx,$4.35,8000,299,-104%,"+$34,782",-5.0,-5.0,-2.0,1.0,ANGO
+752,D,2005-06-07 07:14:17,2005-06-06,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$22.01,-8000,299,-96%,"-$176,090",-5.0,-5.0,-2.0,1.0,ANGO
+753,D,2005-06-06 07:24:24,2005-06-02,ANGO,Shea Paul J,VP - Sales,M - OptEx,$4.35,2000,299,-118%,"+$8,696",10.0,1.0,10.0,13.0,ANGO
+754,D,2005-06-06 07:24:24,2005-06-02,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$20.00,-2000,299,-87%,"-$40,000",10.0,1.0,10.0,13.0,ANGO
+755,D,2005-06-03 08:04:25,2005-06-01,ANGO,Shea Paul J,VP - Sales,M - OptEx,$4.35,2000,299,-118%,"+$8,696",-1.0,5.0,8.0,4.0,ANGO
+756,D,2005-06-03 08:04:25,2005-06-01,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$19.09,-2000,299,-87%,"-$38,182",-1.0,5.0,8.0,4.0,ANGO
+757,D,2005-06-03 08:04:19,2005-06-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1000,131,-115%,"+$4,348",-1.0,5.0,8.0,4.0,ANGO
+758,D,2005-06-03 08:04:19,2005-06-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$19.04,-1000,131,-88%,"-$19,037",-1.0,5.0,8.0,4.0,ANGO
+759,D,2005-06-02 08:00:25,2005-06-01,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$19.50,-1624,1698295,0%,"-$31,668",4.0,9.0,14.0,4.0,ANGO
+760,D,2005-06-02 08:00:22,2005-05-31,ANGO,Meyers David P,Dir,S - Sale+OE,$20.50,-1416,517123,0%,"-$29,028",4.0,9.0,14.0,4.0,ANGO
+761,DM,2005-05-31 12:07:00,2005-05-26,ANGO,Meyers David P,Dir,S - Sale+OE,$20.35,-5000,518539,-1%,"-$101,750",-3.0,7.0,7.0,-2.0,ANGO
+762,D,2005-05-26 11:17:20,2005-05-25,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$19.31,-1624,1699919,0%,"-$31,364",3.0,0.0,6.0,2.0,ANGO
+763,D,2005-05-26 11:17:07,2005-05-24,ANGO,Meyers David P,Dir,S - Sale+OE,$20.50,-1601,523539,0%,"-$32,821",3.0,0.0,6.0,2.0,ANGO
+764,D,2005-05-24 13:28:31,2005-05-23,ANGO,Meyers David P,Dir,S - Sale+OE,$20.50,-1285,525140,0%,"-$26,343",-1.0,-2.0,12.0,0.0,ANGO
+765,D,2005-05-24 07:33:40,2005-05-20,ANGO,Shea Paul J,VP - Sales,M - OptEx,$4.35,2000,124,-107%,"+$8,696",-1.0,-2.0,12.0,0.0,ANGO
+766,D,2005-05-24 07:33:40,2005-05-20,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$20.00,-2000,124,-94%,"-$40,000",-1.0,-2.0,12.0,0.0,ANGO
+767,DM,2005-05-23 15:51:44,2005-05-19,ANGO,Rossell Robert M,VP - Marketing,M - OptEx,$4.35,40273,1000,-103%,"+$175,099",0.0,1.0,8.0,-1.0,ANGO
+768,DM,2005-05-23 15:51:44,2005-05-19,ANGO,Rossell Robert M,VP - Marketing,S - Sale+OE,$19.98,-40273,1000,-98%,"-$804,733",0.0,1.0,8.0,-1.0,ANGO
+769,DM,2005-05-23 15:51:30,2005-05-19,ANGO,Meyers David P,Dir,S - Sale+OE,$19.44,-20000,526425,-4%,"-$388,854",0.0,1.0,8.0,-1.0,ANGO
+770,D,2005-05-19 15:36:32,2005-05-18,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$18.27,-1624,1701543,0%,"-$29,670",4.0,7.0,16.0,8.0,ANGO
+771,D,2005-05-19 15:36:17,2005-05-17,ANGO,Mapes Harold,VP - Operations,M - OptEx,$4.35,500,0,-100%,"+$2,174",4.0,7.0,16.0,8.0,ANGO
+772,D,2005-05-19 15:36:17,2005-05-17,ANGO,Mapes Harold,VP - Operations,S - Sale+OE,$18.51,-500,0,-100%,"-$9,255",4.0,7.0,16.0,8.0,ANGO
+773,D,2005-05-17 16:37:17,2005-05-13,ANGO,Rossell Robert M,VP - Marketing,M - OptEx,$4.35,2000,1000,-200%,"+$8,696",0.0,9.0,10.0,13.0,ANGO
+774,D,2005-05-17 16:37:17,2005-05-13,ANGO,Rossell Robert M,VP - Marketing,S - Sale+OE,$19.22,-2000,1000,-67%,"-$38,440",0.0,9.0,10.0,13.0,ANGO
+775,D,2005-05-17 16:36:31,2005-05-13,ANGO,Hobbs Eamonn P,"Pres, CEO",M - OptEx,$4.35,100000,13789,-116%,"+$434,780",0.0,9.0,10.0,13.0,ANGO
+776,D,2005-05-17 16:36:31,2005-05-13,ANGO,Hobbs Eamonn P,"Pres, CEO",S - Sale+OE,$18.57,-100000,13789,-88%,"-$1,857,000",0.0,9.0,10.0,13.0,ANGO
+777,D,2005-05-16 10:37:21,2005-05-13,ANGO,Meyers David P,Dir,S - Sale+OE,$19.13,-1000,546425,0%,"-$19,130",-2.0,10.0,12.0,14.0,ANGO
+778,D,2005-05-12 09:47:45,2005-05-11,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$18.50,-1624,1703167,0%,"-$30,044",1.0,-1.0,7.0,20.0,ANGO
+779,D,2005-05-12 08:52:44,2005-05-10,ANGO,Meyers David P,Dir,S - Sale+OE,$19.00,-1075,547425,0%,"-$20,425",1.0,-1.0,7.0,20.0,ANGO
+780,D,2005-05-09 16:08:55,2005-05-06,ANGO,Echenberg Paul S,Dir,M - OptEx,$2.14,29629,61605,+93%,"+$63,318",1.0,-1.0,11.0,21.0,ANGO
+781,DM,2005-05-09 14:28:01,2005-05-05,ANGO,Rossell Robert M,VP - Marketing,M - OptEx,$4.35,7000,1000,-117%,"+$30,435",0.0,-1.0,11.0,21.0,ANGO
+782,DM,2005-05-09 14:28:01,2005-05-05,ANGO,Rossell Robert M,VP - Marketing,S - Sale+OE,$18.36,-7000,1000,-88%,"-$128,500",0.0,-1.0,11.0,21.0,ANGO
+783,D,2005-05-05 14:09:44,2004-12-15,ANGO,Stern Howard S,"Dir, 10%",G - Gift,$0.00,-16700,1704791,-1%,-$0,2.0,5.0,11.0,32.0,ANGO
+784,D,2005-05-05 14:09:44,2005-05-04,ANGO,Stern Howard S,"Dir, 10%",S - Sale+OE,$17.40,-1624,1704791,0%,"-$28,263",2.0,5.0,11.0,32.0,ANGO
+785,D,2005-05-05 14:09:33,2005-04-06,ANGO,Gold Jeffrey,Dir,S - Sale+OE,$17.93,-20000,16365,-55%,"-$358,506",2.0,5.0,11.0,32.0,ANGO
+786,D,2005-05-04 14:32:51,2005-05-03,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1000,131,-115%,"+$4,348",0.0,6.0,11.0,23.0,ANGO
+787,D,2005-05-04 14:32:51,2005-05-03,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$18.01,-1000,131,-88%,"-$18,008",0.0,6.0,11.0,23.0,ANGO
+788,D,2005-05-04 14:15:47,2005-05-03,ANGO,Rossell Robert M,VP - Marketing,M - OptEx,$4.35,3000,1000,-150%,"+$13,043",0.0,6.0,11.0,23.0,ANGO
+789,D,2005-05-04 14:15:47,2005-05-03,ANGO,Rossell Robert M,VP - Marketing,S - Sale+OE,$18.00,-3000,1000,-75%,"-$54,000",0.0,6.0,11.0,23.0,ANGO
+790,D,2005-05-02 17:24:45,2005-04-25,ANGO,Meyers David P,Dir,S - Sale+OE,$19.01,-10000,548500,-2%,"-$190,140",3.0,8.0,15.0,24.0,ANGO
+791,D,2005-04-26 15:54:10,2005-04-22,ANGO,Mapes Harold,VP - Operations,M - OptEx,$4.35,500,0,-100%,"+$2,174",-1.0,-3.0,13.0,23.0,ANGO
+792,D,2005-04-26 15:54:10,2005-04-22,ANGO,Mapes Harold,VP - Operations,S - Sale+OE,$18.50,-500,0,-100%,"-$9,250",-1.0,-3.0,13.0,23.0,ANGO
+793,D,2005-04-07 15:21:16,2005-04-05,ANGO,Gold Jeffrey,Dir,M - OptEx,$4.48,35338,35338,New,"+$158,190",1.0,0.0,-1.0,8.0,ANGO
+794,D,2005-04-04 14:24:15,2005-04-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1000,131,-115%,"+$4,348",-2.0,-2.0,-8.0,14.0,ANGO
+795,D,2005-04-04 14:24:15,2005-04-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$18.27,-1000,131,-88%,"-$18,270",-2.0,-2.0,-8.0,14.0,ANGO
+796,D,2005-03-22 10:05:15,2005-03-21,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,1000,132,-115%,"+$4,348",-6.0,-7.0,-14.0,16.0,ANGO
+797,D,2005-03-22 10:05:15,2005-03-21,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$21.00,-1000,132,-88%,"-$21,000",-6.0,-7.0,-14.0,16.0,ANGO
+798,D,2005-03-22 10:05:06,2005-03-21,ANGO,Mapes Harold,VP - Operations,M - OptEx,$4.35,500,0,-100%,"+$2,174",-6.0,-7.0,-14.0,16.0,ANGO
+799,D,2005-03-22 10:05:06,2005-03-21,ANGO,Mapes Harold,VP - Operations,S - Sale+OE,$21.00,-500,0,-100%,"-$10,500",-6.0,-7.0,-14.0,16.0,ANGO
+800,D,2005-03-17 11:09:34,2005-03-15,ANGO,Mapes Harold,VP - Operations,M - OptEx,$4.35,500,0,-100%,"+$2,174",3.0,-3.0,-11.0,16.0,ANGO
+801,D,2005-03-17 11:09:34,2005-03-15,ANGO,Mapes Harold,VP - Operations,S - Sale+OE,$19.00,-500,0,-100%,"-$9,500",3.0,-3.0,-11.0,16.0,ANGO
+802,D,2005-03-03 07:51:14,2005-03-01,ANGO,Shea Paul J,VP - Sales,M - OptEx,$4.35,1000,124,-114%,"+$4,348",0.0,0.0,-16.0,-2.0,ANGO
+803,D,2005-03-03 07:51:14,2005-03-01,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$22.03,-1000,124,-89%,"-$22,030",0.0,0.0,-16.0,-2.0,ANGO
+804,D,2005-03-03 07:50:56,2005-03-01,ANGO,Recinella Daniel,VP - Product Development,M - OptEx,$4.35,2000,54,-103%,"+$8,696",0.0,0.0,-16.0,-2.0,ANGO
+805,D,2005-03-03 07:50:56,2005-03-01,ANGO,Recinella Daniel,VP - Product Development,S - Sale+OE,$22.03,-2000,54,-97%,"-$44,060",0.0,0.0,-16.0,-2.0,ANGO
+806,DM,2005-03-03 07:50:43,2005-03-01,ANGO,Kunst Brian,VP - Regulatory Affairs,M - OptEx,$4.35,20909,0,-100%,"+$90,908",0.0,0.0,-16.0,-2.0,ANGO
+807,DM,2005-03-03 07:50:43,2005-03-01,ANGO,Kunst Brian,VP - Regulatory Affairs,S - Sale+OE,$22.08,-24764,0,-100%,"-$546,885",0.0,0.0,-16.0,-2.0,ANGO
+808,D,2005-03-03 07:50:34,2005-03-01,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,1000,131,-115%,"+$4,348",0.0,0.0,-16.0,-2.0,ANGO
+809,D,2005-03-03 07:50:34,2005-03-01,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$22.03,-1000,131,-88%,"-$22,030",0.0,0.0,-16.0,-2.0,ANGO
+810,DM,2005-02-08 14:32:28,2005-02-04,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,7973,17,-100%,"+$34,665",-3.0,-7.0,-3.0,2.0,ANGO
+811,DM,2005-02-08 14:32:28,2005-02-04,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$20.54,-7973,17,-100%,"-$163,750",-3.0,-7.0,-3.0,2.0,ANGO
+812,DM,2005-02-08 14:32:19,2005-02-04,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,7973,131,-102%,"+$34,665",-3.0,-7.0,-3.0,2.0,ANGO
+813,DM,2005-02-08 14:32:19,2005-02-04,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$20.54,-7973,131,-98%,"-$163,750",-3.0,-7.0,-3.0,2.0,ANGO
+814,DM,2005-02-08 14:32:02,2005-02-04,ANGO,Kunst Brian,VP - Regulatory Affairs,M - OptEx,$4.35,27064,3855,-117%,"+$117,669",-3.0,-7.0,-3.0,2.0,ANGO
+815,DM,2005-02-08 14:32:02,2005-02-04,ANGO,Kunst Brian,VP - Regulatory Affairs,S - Sale+OE,$20.44,-27064,3855,-88%,"-$553,206",-3.0,-7.0,-3.0,2.0,ANGO
+816,DM,2005-02-08 14:31:49,2005-02-04,ANGO,Mapes Harold,VP - Operations,M - OptEx,$4.35,22973,0,-100%,"+$99,882",-3.0,-7.0,-3.0,2.0,ANGO
+817,DM,2005-02-08 14:31:49,2005-02-04,ANGO,Mapes Harold,VP - Operations,S - Sale+OE,$21.21,-22973,0,-100%,"-$487,178",-3.0,-7.0,-3.0,2.0,ANGO
+818,DM,2005-02-08 14:31:36,2005-02-04,ANGO,Shea Paul J,VP - Sales,M - OptEx,$4.35,17973,0,-100%,"+$78,143",-3.0,-7.0,-3.0,2.0,ANGO
+819,DM,2005-02-08 14:31:36,2005-02-04,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$21.11,-17973,0,-100%,"-$379,450",-3.0,-7.0,-3.0,2.0,ANGO
+820,DM,2005-02-04 13:53:58,2005-02-02,ANGO,Shea Paul J,VP - Sales,M - OptEx,$4.35,4300,0,-100%,"+$18,696",1.0,1.0,16.0,20.0,ANGO
+821,DM,2005-02-04 13:53:58,2005-02-02,ANGO,Shea Paul J,VP - Sales,S - Sale+OE,$20.60,-4300,0,-100%,"-$88,574",1.0,1.0,16.0,20.0,ANGO
+822,DM,2005-02-04 13:53:45,2005-02-02,ANGO,Mapes Harold,VP - Operations,M - OptEx,$4.35,4300,0,-100%,"+$18,696",1.0,1.0,16.0,20.0,ANGO
+823,DM,2005-02-04 13:53:45,2005-02-02,ANGO,Mapes Harold,VP - Operations,S - Sale+OE,$20.60,-4300,0,-100%,"-$88,574",1.0,1.0,16.0,20.0,ANGO
+824,DM,2005-02-04 13:53:33,2005-02-02,ANGO,Kunst Brian,VP - Regulatory Affairs,M - OptEx,$4.35,4300,3855,-966%,"+$18,696",1.0,1.0,16.0,20.0,ANGO
+825,DM,2005-02-04 13:53:33,2005-02-02,ANGO,Kunst Brian,VP - Regulatory Affairs,S - Sale+OE,$20.60,-4300,3855,-53%,"-$88,574",1.0,1.0,16.0,20.0,ANGO
+826,DM,2005-02-04 13:53:24,2005-02-02,ANGO,Gerardi Joseph G,VP - CFO,M - OptEx,$4.35,4300,131,-103%,"+$18,696",1.0,1.0,16.0,20.0,ANGO
+827,DM,2005-02-04 13:53:24,2005-02-02,ANGO,Gerardi Joseph G,VP - CFO,S - Sale+OE,$20.60,-4300,131,-97%,"-$88,574",1.0,1.0,16.0,20.0,ANGO
+828,DM,2005-02-04 12:48:43,2005-02-02,ANGO,Appling William M,Vice-Pres - Research,M - OptEx,$4.35,4300,17,-100%,"+$18,696",1.0,1.0,16.0,20.0,ANGO
+829,DM,2005-02-04 12:48:43,2005-02-02,ANGO,Appling William M,Vice-Pres - Research,S - Sale+OE,$20.60,-4300,17,-100%,"-$88,574",1.0,1.0,16.0,20.0,ANGO
+830,,2004-12-29 15:11:09,2004-12-27,ANGO,Meyers David P,Dir,S - Sale,$19.42,-102806,455694,-18%,"-$1,996,965",-3.0,-7.0,-5.0,1.0,ANGO
+831,A,2004-12-16 16:57:04,2004-05-27,ANGO,Meteny Dennis S,Dir,P - Purchase,$11.00,2000,2000,New,"+$22,000",3.0,17.0,34.0,41.0,ANGO
+832,A,2004-12-16 16:51:07,2004-05-27,ANGO,Flaherty Robert E,Dir,P - Purchase,$11.00,1200,1200,New,"+$13,200",3.0,17.0,34.0,41.0,ANGO
+833,A,2004-12-16 16:26:46,2004-05-27,ANGO,Casciaro Gregory D,Dir,P - Purchase,$11.00,500,500,New,"+$5,500",3.0,17.0,34.0,41.0,ANGO
+834,,2004-11-15 10:42:47,2004-11-12,ANGO,Hobbs Eamonn P,CEO,P - Purchase,$13.98,5175,13789,+60%,"+$72,349",1.0,1.0,0.0,29.0,ANGO
+835,M,2004-11-03 12:58:34,2004-10-12,ANGO,Meyers David P,Dir,S - Sale,$9.42,-9421,558500,-2%,"-$88,780",2.0,40.0,47.0,73.0,ANGO
+836,,2004-11-03 12:45:55,2004-10-26,ANGO,Echenberg Paul S,Dir,S - Sale,$7.50,-3426,31976,-10%,"-$25,695",2.0,40.0,47.0,73.0,ANGO
+837,,2004-11-03 12:29:57,2004-10-15,ANGO,Stern Howard S,Dir,S - Sale,$8.60,-6851,1729966,0%,"-$58,919",2.0,40.0,47.0,73.0,ANGO
+838,,2004-10-26 14:58:33,2004-10-25,ANGO,Rossell Robert M,VP - Marketing,P - Purchase,$9.62,1000,1000,New,"+$9,620",2.0,8.0,49.0,84.0,ANGO
+839,,2004-06-01 15:41:26,2004-05-27,ANGO,Meteny Dennis S,Dir,P - Purchase,$11.00,2000,27000,+8%,"+$22,000",,,,,ANGO
+840,,2004-06-01 15:37:49,2004-05-27,ANGO,Flaherty Robert E,Dir,P - Purchase,$11.00,1200,26200,+5%,"+$13,200",,,,,ANGO
+841,,2004-06-01 15:20:50,2004-05-27,ANGO,Casciaro Gregory D,Dir,P - Purchase,$11.00,500,25500,+2%,"+$5,500",,,,,ANGO

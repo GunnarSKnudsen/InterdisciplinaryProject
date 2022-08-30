@@ -1,29 +1,236 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2021-12-29 21:32:18,2021-12-28,NBRV,Schroeder Theodore R,CEO,P - Purchase,0.57,100000,325879,+44%,57320.0,,,,,NBRV
-1,,2021-12-28 19:04:16,2021-12-27,NBRV,Naftzger J. Christopher,"GC, Corp Sec",P - Purchase,0.59,7000,7000,New,4130.0,,,,,NBRV
-2,,2021-09-15 20:00:20,2021-09-14,NBRV,Schroeder Theodore R,CEO,P - Purchase,1.13,50000,226875,+28%,56500.0,,,,,NBRV
-3,,2021-08-04 21:08:16,2021-08-02,NBRV,Webster Stephen W,Dir,S - Sale,1.2,-777,19273,-4%,-932.0,,,,,NBRV
-4,,2021-08-04 21:07:10,2021-08-02,NBRV,Burgess Daniel D,Dir,S - Sale,1.2,-1125,21725,-5%,-1350.0,,,,,NBRV
-5,,2021-08-04 21:06:36,2021-08-02,NBRV,Broom Colin Md,Dir,S - Sale,1.2,-531,41862,-1%,-637.0,,,,,NBRV
-6,,2021-08-04 21:05:35,2021-08-02,NBRV,Rowland Charles A Jr,Dir,S - Sale,1.2,-777,23773,-3%,-932.0,,,,,NBRV
-7,,2021-08-04 21:04:33,2021-08-02,NBRV,Bourdow Carrie L.,Dir,S - Sale,1.2,-777,18473,-4%,-932.0,,,,,NBRV
-8,D,2020-08-21 19:02:43,2020-08-20,NBRV,Broom Colin Md,Dir,S - Sale+OE,0.65,-11064,248936,-4%,-7165.0,,,,,NBRV
-9,,2019-09-03 16:04:29,2019-08-30,NBRV,Broom Colin Md,Dir,P - Purchase,2.03,10177,208750,+5%,20668.0,,,,,NBRV
-10,,2019-08-28 16:01:58,2019-08-27,NBRV,Schroeder Theodore R,CEO,P - Purchase,1.79,50000,123275,+68%,89500.0,,,,,NBRV
-11,,2019-08-26 21:49:19,2019-08-22,NBRV,Lavino Francesco Maria,Chief Commercial Officer,P - Purchase,2.04,4800,15972,+43%,9780.0,,,,,NBRV
-12,A,2019-08-26 21:36:19,2019-08-21,NBRV,Broom Colin Md,Dir,S - Sale,2.07,-10177,125724,-7%,-21066.0,,,,,NBRV
-13,A,2019-08-26 21:35:49,2019-08-21,NBRV,Gelone Steven P.,"Pres, COO",S - Sale,2.08,-8206,47570,-15%,-17068.0,,,,,NBRV
-14,A,2019-08-26 21:35:19,2019-08-21,NBRV,Crotty Robert,"GC, Corp Secretary",S - Sale,2.08,-3797,23239,-14%,-7898.0,,,,,NBRV
-15,A,2019-08-26 21:35:03,2019-08-21,NBRV,Sender Gary,CFO,S - Sale,2.08,-3390,19214,-15%,-7051.0,,,,,NBRV
-16,A,2019-08-26 21:34:34,2019-08-21,NBRV,Lavino Francesco Maria,Chief Commercial Officer,S - Sale,2.08,-3797,11172,-25%,-7898.0,,,,,NBRV
-17,,2018-12-27 16:05:59,2018-12-24,NBRV,Rowland Charles A Jr,Dir,P - Purchase,1.31,53000,53000,New,69430.0,,,,,NBRV
-18,,2018-08-02 17:52:22,2018-07-31,NBRV,Talbot George Harrison,Dir,P - Purchase,2.75,14500,47640,+44%,39875.0,,,,,NBRV
-19,D,2018-08-02 17:51:52,2018-07-31,NBRV,Burgess Daniel D,Dir,P - Purchase,2.75,36000,36000,New,99000.0,,,,,NBRV
-20,,2018-06-26 09:09:23,2018-06-23,NBRV,Gelone Steven P.,Chief Scientific Officer,P - Purchase,3.82,10000,22740,+78%,38200.0,,,,,NBRV
-21,,2018-06-25 09:47:45,2018-06-22,NBRV,Schranz Jennifer,Chief Medical Officer,P - Purchase,3.73,5500,5500,New,20515.0,,,,,NBRV
-22,,2018-06-25 09:47:15,2018-06-22,NBRV,Broom Colin Md,"CEO, Dir",P - Purchase,3.72,5000,175000,+3%,18600.0,,,,,NBRV
-23,,2018-05-29 13:48:25,2018-05-23,NBRV,Lavino Francesco Maria,Chief Commercial Officer,P - Purchase,4.6,2160,3719,+139%,9936.0,,,,,NBRV
-24,,2018-05-23 20:38:10,2018-05-23,NBRV,Sender Gary,CFO,P - Purchase,4.57,2000,6200,+48%,9140.0,,,,,NBRV
-25,,2018-05-23 20:37:25,2018-05-23,NBRV,Webster Stephen W,Dir,P - Purchase,4.59,8000,8000,New,36720.0,,,,,NBRV
-26,,2018-05-23 20:36:10,2018-05-23,NBRV,Broom Colin Md,"CEO, Dir",P - Purchase,4.6,10000,170000,+6%,46000.0,,,,,NBRV
-27,,2018-05-23 12:29:25,2018-05-23,NBRV,Crotty Robert,"GC, Secretary",P - Purchase,4.48,10000,10000,New,44800.0,,,,,NBRV
+0,,2022-03-08 16:14:04,2022-03-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.43,-89,362211,0%,-38.0,,,,,NBRV
+1,,2022-03-08 16:12:43,2022-03-06,NBRV,Schroeder Theodore R,CEO,F - Tax,0.43,-263,313960,0%,-113.0,,,,,NBRV
+2,,2022-03-02 19:51:36,2022-02-28,NBRV,Schroeder Theodore R,CEO,F - Tax,0.45,-125,314223,0%,-56.0,,,,,NBRV
+3,,2022-03-02 19:50:54,2022-02-28,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.45,-61,362300,0%,-27.0,,,,,NBRV
+4,,2022-02-08 16:26:43,2022-02-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.48,-106,362361,0%,-51.0,,,,,NBRV
+5,,2022-02-08 16:25:48,2022-02-06,NBRV,Schroeder Theodore R,CEO,F - Tax,0.48,-263,314348,0%,-126.0,,,,,NBRV
+6,M,2022-02-01 20:47:10,2022-01-29,NBRV,Schroeder Theodore R,CEO,F - Tax,0.45,-10891,314611,-3%,-4905.0,,,,,NBRV
+7,M,2022-02-01 20:44:55,2022-01-29,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.45,-3556,362467,-1%,-1602.0,,,,,NBRV
+8,,2022-01-10 16:19:35,2022-01-06,NBRV,Schroeder Theodore R,CEO,F - Tax,0.58,-270,325502,0%,-157.0,,,,,NBRV
+9,,2022-01-10 16:18:43,2022-01-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.58,-110,366023,0%,-64.0,,,,,NBRV
+10,,2022-01-04 17:06:40,2021-12-31,NBRV,Schroeder Theodore R,CEO,F - Tax,0.6,-107,325772,0%,-64.0,,,,,NBRV
+11,,2022-01-04 17:05:05,2021-12-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.6,-63,366133,0%,-38.0,,,,,NBRV
+12,,2021-12-29 21:32:18,2021-12-28,NBRV,Schroeder Theodore R,CEO,P - Purchase,0.57,100000,325879,+44%,57320.0,,,,,NBRV
+13,,2021-12-28 19:04:16,2021-12-27,NBRV,Naftzger J. Christopher,"GC, Corp Sec",P - Purchase,0.59,7000,7000,New,4130.0,,,,,NBRV
+14,,2021-12-08 17:14:26,2021-12-06,NBRV,Schroeder Theodore R,CEO,F - Tax,0.72,-225,225879,0%,-162.0,,,,,NBRV
+15,,2021-12-08 17:13:14,2021-12-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.72,-92,366196,0%,-66.0,,,,,NBRV
+16,,2021-12-02 18:31:04,2021-11-30,NBRV,Schroeder Theodore R,CEO,F - Tax,0.78,-107,226104,0%,-83.0,,,,,NBRV
+17,,2021-12-02 18:28:59,2021-11-30,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.78,-63,366288,0%,-49.0,,,,,NBRV
+18,,2021-11-09 17:38:42,2021-11-06,NBRV,Schroeder Theodore R,CEO,F - Tax,1.33,-225,226211,0%,-299.0,,,,,NBRV
+19,,2021-11-09 17:36:30,2021-11-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.33,-92,366351,0%,-122.0,,,,,NBRV
+20,,2021-11-01 19:51:30,2021-10-31,NBRV,Schroeder Theodore R,CEO,F - Tax,1.15,-107,226436,0%,-123.0,,,,,NBRV
+21,,2021-11-01 19:50:11,2021-10-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.15,-63,366443,0%,-72.0,,,,,NBRV
+22,,2021-10-08 16:41:19,2021-10-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.08,-92,366506,0%,-99.0,,,,,NBRV
+23,,2021-10-08 16:39:59,2021-10-06,NBRV,Schroeder Theodore R,CEO,F - Tax,1.08,-225,226543,0%,-243.0,,,,,NBRV
+24,,2021-10-04 16:14:40,2021-09-30,NBRV,Schroeder Theodore R,CEO,F - Tax,1.19,-107,226768,0%,-127.0,,,,,NBRV
+25,,2021-10-04 16:09:54,2021-09-30,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.19,-63,366598,0%,-75.0,,,,,NBRV
+26,,2021-09-15 20:00:20,2021-09-14,NBRV,Schroeder Theodore R,CEO,P - Purchase,1.13,50000,226875,+28%,56500.0,,,,,NBRV
+27,,2021-09-08 17:27:25,2021-09-06,NBRV,Schroeder Theodore R,CEO,F - Tax,1.11,-225,176875,0%,-250.0,,,,,NBRV
+28,,2021-09-08 17:25:44,2021-09-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.11,-93,366661,0%,-103.0,,,,,NBRV
+29,,2021-09-02 16:09:28,2021-08-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.06,-63,366754,0%,-67.0,,,,,NBRV
+30,,2021-09-02 16:07:56,2021-08-31,NBRV,Schroeder Theodore R,CEO,F - Tax,1.06,-107,177100,0%,-113.0,,,,,NBRV
+31,,2021-09-02 16:06:35,2021-08-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.06,-37,41194,0%,-39.0,,,,,NBRV
+32,,2021-08-10 17:16:23,2021-08-06,NBRV,Schroeder Theodore R,CEO,F - Tax,1.17,-225,177207,0%,-263.0,,,,,NBRV
+33,,2021-08-10 17:15:44,2021-08-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.17,-92,366817,0%,-108.0,,,,,NBRV
+34,,2021-08-10 17:13:33,2021-08-06,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.17,-74,41231,0%,-87.0,,,,,NBRV
+35,,2021-08-04 21:08:16,2021-08-02,NBRV,Webster Stephen W,Dir,S - Sale,1.2,-777,19273,-4%,-932.0,,,,,NBRV
+36,,2021-08-04 21:07:10,2021-08-02,NBRV,Burgess Daniel D,Dir,S - Sale,1.2,-1125,21725,-5%,-1350.0,,,,,NBRV
+37,,2021-08-04 21:06:36,2021-08-02,NBRV,Broom Colin Md,Dir,S - Sale,1.2,-531,41862,-1%,-637.0,,,,,NBRV
+38,,2021-08-04 21:05:35,2021-08-02,NBRV,Rowland Charles A Jr,Dir,S - Sale,1.2,-777,23773,-3%,-932.0,,,,,NBRV
+39,,2021-08-04 21:04:33,2021-08-02,NBRV,Bourdow Carrie L.,Dir,S - Sale,1.2,-777,18473,-4%,-932.0,,,,,NBRV
+40,,2021-08-03 16:09:15,2021-07-31,NBRV,Schroeder Theodore R,CEO,F - Tax,1.1,-107,177432,0%,-118.0,,,,,NBRV
+41,,2021-08-03 16:07:34,2021-07-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.1,-63,366909,0%,-69.0,,,,,NBRV
+42,,2021-08-03 16:06:45,2021-07-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.1,-37,41305,0%,-41.0,,,,,NBRV
+43,D,2021-07-30 20:23:14,2021-07-28,NBRV,Burgess Daniel D,Dir,A - Grant,0.0,17500,22850,+327%,0.0,,,,,NBRV
+44,D,2021-07-30 20:22:02,2021-07-28,NBRV,Broom Colin Md,Dir,A - Grant,0.0,17500,42393,+70%,0.0,,,,,NBRV
+45,D,2021-07-30 20:21:10,2021-07-28,NBRV,Rowland Charles A Jr,Dir,A - Grant,0.0,17500,24550,+248%,0.0,,,,,NBRV
+46,D,2021-07-30 20:20:29,2021-07-28,NBRV,Bourdow Carrie L.,Dir,A - Grant,0.0,17500,19250,>999%,0.0,,,,,NBRV
+47,D,2021-07-30 20:19:32,2021-07-28,NBRV,Webster Stephen W,Dir,A - Grant,0.0,17500,20050,+686%,0.0,,,,,NBRV
+48,D,2021-07-30 20:18:55,2021-07-28,NBRV,Corrigan Mark,Dir,A - Grant,0.0,17500,17500,New,0.0,,,,,NBRV
+49,D,2021-07-30 20:17:44,2021-07-28,NBRV,Dalton Lisa,Dir,A - Grant,0.0,17500,17500,New,0.0,,,,,NBRV
+50,,2021-07-08 16:11:14,2021-07-06,NBRV,Schroeder Theodore R,CEO,F - Tax,1.27,-225,177539,0%,-286.0,,,,,NBRV
+51,,2021-07-08 16:09:56,2021-07-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.27,-92,366972,0%,-117.0,,,,,NBRV
+52,,2021-07-08 16:09:01,2021-07-06,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.27,-74,41342,0%,-94.0,,,,,NBRV
+53,,2021-07-02 16:06:52,2021-06-30,NBRV,Schroeder Theodore R,CEO,F - Tax,1.35,-107,177764,0%,-144.0,,,,,NBRV
+54,,2021-07-02 16:05:50,2021-06-30,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.35,-63,367064,0%,-85.0,,,,,NBRV
+55,,2021-07-02 16:04:49,2021-06-30,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.35,-37,41416,0%,-50.0,,,,,NBRV
+56,,2021-06-08 16:10:25,2021-06-06,NBRV,Schroeder Theodore R,CEO,F - Tax,1.34,-225,177871,0%,-302.0,,,,,NBRV
+57,,2021-06-08 16:09:24,2021-06-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.34,-92,367127,0%,-123.0,,,,,NBRV
+58,,2021-06-08 16:05:46,2021-06-06,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.34,-73,41453,0%,-98.0,,,,,NBRV
+59,,2021-06-02 16:12:10,2021-05-31,NBRV,Schroeder Theodore R,CEO,F - Tax,1.38,-107,178096,0%,-148.0,,,,,NBRV
+60,,2021-06-02 16:11:10,2021-05-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.38,-37,41526,0%,-51.0,,,,,NBRV
+61,,2021-06-02 16:10:37,2021-05-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.38,-63,367219,0%,-87.0,,,,,NBRV
+62,,2021-05-10 17:53:15,2021-05-06,NBRV,Schroeder Theodore R,CEO,F - Tax,1.49,-225,178203,0%,-335.0,,,,,NBRV
+63,,2021-05-10 17:52:13,2021-05-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.49,-92,367282,0%,-137.0,,,,,NBRV
+64,,2021-05-10 17:51:22,2021-05-06,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.49,-74,41563,0%,-110.0,,,,,NBRV
+65,,2021-05-04 16:04:58,2021-04-30,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.78,-37,41637,0%,-66.0,,,,,NBRV
+66,,2021-05-04 16:04:04,2021-04-30,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.78,-63,367374,0%,-112.0,,,,,NBRV
+67,,2021-05-04 16:03:31,2021-04-30,NBRV,Schroeder Theodore R,CEO,F - Tax,1.78,-107,178428,0%,-190.0,,,,,NBRV
+68,,2021-04-30 16:47:58,2021-04-28,NBRV,Gelone Steven P.,"Pres, COO",A - Grant,0.0,290697,367437,+379%,0.0,,,,,NBRV
+69,M,2021-04-08 21:48:52,2021-02-06,NBRV,Schroeder Theodore R,CEO,F - Tax,2.74,-3145,178535,-2%,-8608.0,,,,,NBRV
+70,M,2021-04-08 21:47:56,2021-02-06,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,2.74,-1288,76740,-2%,-3525.0,,,,,NBRV
+71,M,2021-04-08 21:46:53,2021-02-06,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,2.74,-1015,41674,-2%,-2778.0,,,,,NBRV
+72,,2021-04-02 18:14:01,2021-03-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.66,-63,78028,0%,-105.0,,,,,NBRV
+73,,2021-04-02 18:12:32,2021-03-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.66,-37,42689,0%,-61.0,,,,,NBRV
+74,,2021-04-02 18:11:20,2021-03-31,NBRV,Schroeder Theodore R,CEO,F - Tax,1.66,-107,181680,0%,-178.0,,,,,NBRV
+75,,2021-03-02 19:43:15,2021-02-28,NBRV,Sender Gary,CFO,F - Tax,2.39,-31,20472,0%,-74.0,,,,,NBRV
+76,,2021-03-02 19:42:02,2021-02-28,NBRV,Schroeder Theodore R,CEO,F - Tax,2.39,-106,181787,0%,-253.0,,,,,NBRV
+77,,2021-03-02 19:40:35,2021-02-28,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,2.39,-33,39125,0%,-79.0,,,,,NBRV
+78,,2021-03-02 19:39:05,2021-02-28,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,2.39,-63,78091,0%,-151.0,,,,,NBRV
+79,,2021-03-02 19:37:46,2021-02-28,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,2.39,-38,42726,0%,-91.0,,,,,NBRV
+80,,2021-02-02 20:06:10,2021-01-29,NBRV,Crotty Robert,"GC, Corp Secretary",A - Grant,0.0,22500,42764,+111%,0.0,,,,,NBRV
+81,,2021-02-02 20:06:10,2021-01-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,2.62,-43,42764,0%,-113.0,,,,,NBRV
+82,,2021-02-02 20:01:54,2021-01-31,NBRV,Sender Gary,CFO,F - Tax,2.62,-37,20503,0%,-97.0,,,,,NBRV
+83,,2021-02-02 20:01:06,2021-01-29,NBRV,Schroeder Theodore R,CEO,A - Grant,0.0,117500,181893,+182%,0.0,,,,,NBRV
+84,,2021-02-02 20:01:06,2021-01-31,NBRV,Schroeder Theodore R,CEO,F - Tax,2.62,-125,181893,0%,-328.0,,,,,NBRV
+85,,2021-02-02 20:00:20,2021-01-29,NBRV,Schranz Jennifer,Chief Medical Officer,A - Grant,0.0,22500,39158,+135%,0.0,,,,,NBRV
+86,,2021-02-02 20:00:20,2021-01-31,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,2.62,-36,39158,0%,-94.0,,,,,NBRV
+87,,2021-02-02 19:57:26,2021-01-29,NBRV,Gelone Steven P.,"Pres, COO",A - Grant,0.0,42500,78154,+119%,0.0,,,,,NBRV
+88,,2021-02-02 19:57:26,2021-01-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,2.62,-75,78154,0%,-197.0,,,,,NBRV
+89,,2021-01-05 17:16:03,2020-12-31,NBRV,Sender Gary,CFO,F - Tax,2.42,-32,20540,0%,-77.0,,,,,NBRV
+90,,2021-01-05 17:15:03,2020-12-31,NBRV,Schroeder Theodore R,CEO,F - Tax,2.42,-121,64518,0%,-293.0,,,,,NBRV
+91,,2021-01-05 17:14:27,2020-12-31,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,2.42,-30,16694,0%,-73.0,,,,,NBRV
+92,,2021-01-05 17:13:30,2020-12-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,2.42,-63,35729,0%,-152.0,,,,,NBRV
+93,,2021-01-05 17:12:48,2020-12-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,2.42,-37,20307,0%,-90.0,,,,,NBRV
+94,,2020-12-01 20:22:40,2020-11-30,NBRV,Sender Gary,CFO,F - Tax,0.43,-312,205728,0%,-133.0,,,,,NBRV
+95,,2020-12-01 20:21:53,2020-11-30,NBRV,Schroeder Theodore R,CEO,F - Tax,0.43,-1211,646396,0%,-517.0,,,,,NBRV
+96,,2020-12-01 20:21:23,2020-11-30,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,0.43,-301,167240,0%,-129.0,,,,,NBRV
+97,,2020-12-01 20:20:38,2020-11-30,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.43,-628,357926,0%,-268.0,,,,,NBRV
+98,,2020-12-01 20:20:09,2020-11-30,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,0.43,-368,203444,0%,-157.0,,,,,NBRV
+99,,2020-11-02 19:07:45,2020-10-31,NBRV,Sender Gary,CFO,F - Tax,0.5,-312,206040,0%,-155.0,,,,,NBRV
+100,,2020-11-02 19:07:33,2020-10-31,NBRV,Schroeder Theodore R,CEO,F - Tax,0.5,-1211,647607,0%,-600.0,,,,,NBRV
+101,,2020-11-02 19:07:15,2020-10-31,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,0.5,-301,167541,0%,-149.0,,,,,NBRV
+102,,2020-11-02 19:06:44,2020-10-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.5,-628,358554,0%,-311.0,,,,,NBRV
+103,,2020-11-02 19:06:17,2020-10-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,0.5,-366,203812,0%,-181.0,,,,,NBRV
+104,,2020-10-01 16:32:20,2020-09-30,NBRV,Sender Gary,CFO,F - Tax,0.53,-312,206352,0%,-166.0,,,,,NBRV
+105,,2020-10-01 16:32:05,2020-09-30,NBRV,Schroeder Theodore R,CEO,F - Tax,0.53,-1211,648818,0%,-645.0,,,,,NBRV
+106,,2020-10-01 16:31:35,2020-09-30,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,0.53,-301,167842,0%,-160.0,,,,,NBRV
+107,,2020-10-01 16:30:51,2020-09-30,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,0.53,-366,185393,0%,-195.0,,,,,NBRV
+108,,2020-10-01 16:30:35,2020-09-30,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.53,-628,359182,0%,-335.0,,,,,NBRV
+109,,2020-10-01 16:30:06,2020-09-30,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,0.53,-366,204178,0%,-195.0,,,,,NBRV
+110,,2020-09-02 17:16:27,2020-08-31,NBRV,Sender Gary,CFO,F - Tax,0.62,-312,206664,0%,-193.0,,,,,NBRV
+111,,2020-09-02 17:15:57,2020-08-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.62,-628,359810,0%,-389.0,,,,,NBRV
+112,,2020-09-02 17:15:41,2020-08-31,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,0.62,-366,185759,0%,-227.0,,,,,NBRV
+113,,2020-09-02 17:15:27,2020-08-31,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,0.62,-301,168143,0%,-186.0,,,,,NBRV
+114,,2020-09-02 17:15:01,2020-08-31,NBRV,Schroeder Theodore R,CEO,F - Tax,0.62,-1211,650029,0%,-750.0,,,,,NBRV
+115,,2020-09-02 17:14:42,2020-08-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,0.62,-366,204544,0%,-227.0,,,,,NBRV
+116,D,2020-08-21 19:04:59,2020-08-20,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.65,-7761,360438,-2%,-5026.0,,,,,NBRV
+117,D,2020-08-21 19:04:59,2020-08-19,NBRV,Gelone Steven P.,"Pres, COO",M - OptEx,0.0,27250,360438,+8%,0.0,,,,,NBRV
+118,D,2020-08-21 19:03:43,2020-08-20,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,0.65,-3759,186125,-2%,-2434.0,,,,,NBRV
+119,D,2020-08-21 19:03:43,2020-08-19,NBRV,Lavino Francesco Maria,Chief Commercial Officer,M - OptEx,0.0,11250,186125,+6%,0.0,,,,,NBRV
+120,D,2020-08-21 19:03:15,2020-08-20,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,0.65,-3759,204910,-2%,-2434.0,,,,,NBRV
+121,D,2020-08-21 19:03:15,2020-08-19,NBRV,Crotty Robert,"GC, Corp Secretary",M - OptEx,0.0,11250,204910,+6%,0.0,,,,,NBRV
+122,D,2020-08-21 19:02:43,2020-08-19,NBRV,Broom Colin Md,Dir,M - OptEx,0.0,33750,248936,+16%,0.0,,,,,NBRV
+123,D,2020-08-21 19:02:43,2020-08-20,NBRV,Broom Colin Md,Dir,S - Sale+OE,0.65,-11064,248936,-4%,-7165.0,,,,,NBRV
+124,D,2020-08-21 19:02:28,2020-08-20,NBRV,Sender Gary,CFO,F - Tax,0.65,-3204,206976,-2%,-2075.0,,,,,NBRV
+125,D,2020-08-21 19:02:28,2020-08-19,NBRV,Sender Gary,CFO,M - OptEx,0.0,11250,206976,+6%,0.0,,,,,NBRV
+126,,2020-08-04 16:57:41,2020-07-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,0.76,-366,197419,0%,-278.0,,,,,NBRV
+127,,2020-08-04 16:56:49,2020-07-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.76,-628,340949,0%,-477.0,,,,,NBRV
+128,,2020-08-04 16:09:21,2020-07-31,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,0.76,-366,178634,0%,-278.0,,,,,NBRV
+129,,2020-08-04 16:08:42,2020-07-31,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,0.76,-301,168444,0%,-229.0,,,,,NBRV
+130,,2020-08-04 16:08:03,2020-07-31,NBRV,Schroeder Theodore R,CEO,F - Tax,0.76,-1211,651240,0%,-920.0,,,,,NBRV
+131,,2020-08-04 16:07:57,2020-07-31,NBRV,Sender Gary,CFO,F - Tax,0.76,-312,198930,0%,-237.0,,,,,NBRV
+132,D,2020-07-31 16:56:44,2020-07-29,NBRV,Bourdow Carrie L.,Dir,A - Grant,0.0,17500,17500,New,0.0,,,,,NBRV
+133,D,2020-07-31 16:55:50,2020-07-29,NBRV,Webster Stephen W,Dir,A - Grant,0.0,17500,25500,+219%,0.0,,,,,NBRV
+134,D,2020-07-31 16:55:20,2020-07-29,NBRV,Rowland Charles A Jr,Dir,A - Grant,0.0,17500,70500,+33%,0.0,,,,,NBRV
+135,D,2020-07-31 16:54:50,2020-07-29,NBRV,Talbot George Harrison,Dir,A - Grant,0.0,17500,65140,+37%,0.0,,,,,NBRV
+136,D,2020-07-31 16:54:20,2020-07-29,NBRV,Burgess Daniel D,Dir,A - Grant,0.0,17500,53500,+49%,0.0,,,,,NBRV
+137,D,2020-07-31 16:53:51,2020-07-29,NBRV,Broom Colin Md,Dir,A - Grant,0.0,17500,226250,+8%,0.0,,,,,NBRV
+138,,2020-07-02 16:22:27,2020-06-30,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.67,-628,341577,0%,-424.0,,,,,NBRV
+139,,2020-07-02 16:08:23,2020-06-30,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,0.67,-366,197785,0%,-247.0,,,,,NBRV
+140,,2020-07-02 16:07:38,2020-06-30,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,0.67,-366,179000,0%,-247.0,,,,,NBRV
+141,,2020-07-02 16:07:02,2020-06-30,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,0.67,-301,168745,0%,-203.0,,,,,NBRV
+142,,2020-07-02 16:06:55,2020-06-30,NBRV,Schroeder Theodore R,CEO,F - Tax,0.67,-1211,652451,0%,-817.0,,,,,NBRV
+143,,2020-07-02 16:06:15,2020-06-30,NBRV,Sender Gary,CFO,F - Tax,0.67,-312,199242,0%,-210.0,,,,,NBRV
+144,,2020-06-03 06:08:05,2020-05-31,NBRV,Sender Gary,CFO,F - Tax,1.14,-312,199554,0%,-356.0,,,,,NBRV
+145,,2020-06-03 06:07:36,2020-05-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.14,-628,342205,0%,-716.0,,,,,NBRV
+146,,2020-06-03 06:07:05,2020-05-31,NBRV,Schroeder Theodore R,CEO,F - Tax,1.14,-1211,653662,0%,-1381.0,,,,,NBRV
+147,,2020-06-03 06:06:35,2020-05-31,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,1.14,-301,169046,0%,-343.0,,,,,NBRV
+148,,2020-06-03 06:06:05,2020-05-31,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,1.14,-366,179366,0%,-417.0,,,,,NBRV
+149,,2020-06-03 06:05:35,2020-05-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.14,-366,198151,0%,-417.0,,,,,NBRV
+150,,2020-05-04 18:33:14,2020-04-30,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,0.55,-366,198517,0%,-201.0,,,,,NBRV
+151,,2020-05-04 18:32:38,2020-04-30,NBRV,Sender Gary,CFO,F - Tax,0.55,-301,193679,0%,-165.0,,,,,NBRV
+152,,2020-05-04 18:32:09,2020-04-30,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,0.55,-301,169347,0%,-165.0,,,,,NBRV
+153,,2020-05-04 18:31:55,2020-04-30,NBRV,Schroeder Theodore R,CEO,F - Tax,0.55,-1211,648686,0%,-664.0,,,,,NBRV
+154,,2020-05-04 18:31:24,2020-04-30,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.55,-606,336646,0%,-332.0,,,,,NBRV
+155,,2020-05-04 18:30:54,2020-04-30,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,0.55,-366,179732,0%,-201.0,,,,,NBRV
+156,,2020-04-02 17:49:47,2020-03-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,0.58,-606,337252,0%,-348.0,,,,,NBRV
+157,,2020-04-02 17:49:17,2020-03-31,NBRV,Sender Gary,CFO,F - Tax,0.58,-301,193980,0%,-173.0,,,,,NBRV
+158,,2020-04-02 17:49:02,2020-03-31,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,0.58,-366,180098,0%,-210.0,,,,,NBRV
+159,,2020-04-02 17:48:32,2020-03-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,0.58,-366,198883,0%,-210.0,,,,,NBRV
+160,,2020-04-02 17:48:17,2020-03-31,NBRV,Schroeder Theodore R,CEO,F - Tax,0.58,-1211,649897,0%,-696.0,,,,,NBRV
+161,,2020-04-02 17:47:48,2020-03-31,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,0.58,-301,169648,0%,-173.0,,,,,NBRV
+162,,2020-03-03 21:32:47,2020-02-28,NBRV,Schroeder Theodore R,CEO,F - Tax,1.35,-1211,651108,0%,-1635.0,,,,,NBRV
+163,,2020-03-03 21:32:32,2020-02-28,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.35,-606,337858,0%,-818.0,,,,,NBRV
+164,,2020-03-03 21:32:02,2020-02-28,NBRV,Sender Gary,CFO,F - Tax,1.35,-301,194281,0%,-406.0,,,,,NBRV
+165,,2020-03-03 21:31:47,2020-02-28,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,1.35,-301,169949,0%,-406.0,,,,,NBRV
+166,,2020-03-03 21:31:32,2020-02-28,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,1.35,-366,180464,0%,-494.0,,,,,NBRV
+167,,2020-03-03 21:31:03,2020-02-28,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.35,-366,199276,0%,-494.0,,,,,NBRV
+168,D,2020-02-10 20:30:30,2020-02-06,NBRV,Schranz Jennifer,Chief Medical Officer,A - Grant,0.0,105000,158705,+196%,0.0,,,,,NBRV
+169,D,2020-02-10 20:30:00,2020-02-06,NBRV,Gelone Steven P.,"Pres, COO",A - Grant,0.0,155000,326919,+90%,0.0,,,,,NBRV
+170,D,2020-02-10 20:29:15,2020-02-06,NBRV,Sender Gary,CFO,A - Grant,0.0,105000,183669,+133%,0.0,,,,,NBRV
+171,D,2020-02-10 20:28:15,2020-02-06,NBRV,Lavino Francesco Maria,Chief Commercial Officer,A - Grant,0.0,105000,180830,+138%,0.0,,,,,NBRV
+172,D,2020-02-10 20:27:00,2020-02-06,NBRV,Schroeder Theodore R,CEO,A - Grant,0.0,343800,646560,+114%,0.0,,,,,NBRV
+173,D,2020-02-10 20:26:31,2020-02-06,NBRV,Crotty Robert,"GC, Corp Secretary",A - Grant,0.0,105000,188097,+126%,0.0,,,,,NBRV
+174,,2020-02-04 20:56:55,2020-01-31,NBRV,Schranz Jennifer,Chief Medical Officer,F - Tax,1.35,-4295,111705,-4%,-5798.0,,,,,NBRV
+175,,2020-02-04 20:56:41,2020-01-31,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,1.35,-8651,352489,-2%,-11679.0,,,,,NBRV
+176,,2020-02-04 20:56:10,2020-01-31,NBRV,Sender Gary,CFO,F - Tax,1.35,-4295,161633,-3%,-5798.0,,,,,NBRV
+177,,2020-02-04 20:55:55,2020-01-31,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,1.35,-3892,155552,-2%,-5254.0,,,,,NBRV
+178,,2020-02-04 20:55:25,2020-01-31,NBRV,Schroeder Theodore R,CEO,F - Tax,1.35,-16276,621796,-3%,-21973.0,,,,,NBRV
+179,,2020-02-04 20:55:10,2020-01-31,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,1.35,-3892,170086,-2%,-5254.0,,,,,NBRV
+180,,2019-09-03 16:04:29,2019-08-30,NBRV,Broom Colin Md,Dir,P - Purchase,2.03,10177,208750,+5%,20668.0,,,,,NBRV
+181,,2019-08-28 16:01:58,2019-08-27,NBRV,Schroeder Theodore R,CEO,P - Purchase,1.79,50000,123275,+68%,89500.0,,,,,NBRV
+182,,2019-08-26 21:49:19,2019-08-22,NBRV,Lavino Francesco Maria,Chief Commercial Officer,P - Purchase,2.04,4800,15972,+43%,9780.0,,,,,NBRV
+183,A,2019-08-26 21:36:19,2019-08-21,NBRV,Broom Colin Md,Dir,S - Sale,2.07,-10177,125724,-7%,-21066.0,,,,,NBRV
+184,A,2019-08-26 21:35:49,2019-08-21,NBRV,Gelone Steven P.,"Pres, COO",S - Sale,2.08,-8206,47570,-15%,-17068.0,,,,,NBRV
+185,A,2019-08-26 21:35:19,2019-08-21,NBRV,Crotty Robert,"GC, Corp Secretary",S - Sale,2.08,-3797,23239,-14%,-7898.0,,,,,NBRV
+186,A,2019-08-26 21:35:03,2019-08-21,NBRV,Sender Gary,CFO,S - Sale,2.08,-3390,19214,-15%,-7051.0,,,,,NBRV
+187,A,2019-08-26 21:34:34,2019-08-21,NBRV,Lavino Francesco Maria,Chief Commercial Officer,S - Sale,2.08,-3797,11172,-25%,-7898.0,,,,,NBRV
+188,D,2019-08-21 21:22:34,2019-08-21,NBRV,Sender Gary,CFO,F - Tax,2.08,-3390,19214,-15%,-7051.0,,,,,NBRV
+189,D,2019-08-21 21:22:34,2019-08-19,NBRV,Sender Gary,CFO,M - OptEx,0.0,11250,19214,+141%,0.0,,,,,NBRV
+190,D,2019-08-21 21:22:19,2019-08-21,NBRV,Broom Colin Md,Dir,F - Tax,2.07,-10177,125724,-7%,-21066.0,,,,,NBRV
+191,D,2019-08-21 21:22:19,2019-08-19,NBRV,Broom Colin Md,Dir,M - OptEx,0.0,33750,125724,+37%,0.0,,,,,NBRV
+192,D,2019-08-21 21:22:04,2019-08-21,NBRV,Crotty Robert,"GC, Corp Secretary",F - Tax,2.08,-3797,23239,-14%,-7898.0,,,,,NBRV
+193,D,2019-08-21 21:22:04,2019-08-19,NBRV,Crotty Robert,"GC, Corp Secretary",M - OptEx,0.0,11250,23239,+94%,0.0,,,,,NBRV
+194,D,2019-08-21 21:21:49,2019-08-21,NBRV,Lavino Francesco Maria,Chief Commercial Officer,F - Tax,2.08,-3797,11172,-25%,-7898.0,,,,,NBRV
+195,D,2019-08-21 21:21:49,2019-08-19,NBRV,Lavino Francesco Maria,Chief Commercial Officer,M - OptEx,0.0,11250,11172,-14423%,0.0,,,,,NBRV
+196,D,2019-08-21 21:21:34,2019-08-21,NBRV,Gelone Steven P.,"Pres, COO",F - Tax,2.08,-8206,47570,-15%,-17068.0,,,,,NBRV
+197,D,2019-08-21 21:21:34,2019-08-19,NBRV,Gelone Steven P.,"Pres, COO",M - OptEx,0.0,27250,47570,+134%,0.0,,,,,NBRV
+198,,2019-07-25 17:16:22,2019-07-25,NBRV,Schroeder Theodore R,CEO,A - Grant,0.0,6748,73275,+10%,0.0,,,,,NBRV
+199,,2018-12-27 16:05:59,2018-12-24,NBRV,Rowland Charles A Jr,Dir,P - Purchase,1.31,53000,53000,New,69430.0,,,,,NBRV
+200,,2018-08-02 17:52:22,2018-07-31,NBRV,Talbot George Harrison,Dir,P - Purchase,2.75,14500,47640,+44%,39875.0,,,,,NBRV
+201,D,2018-08-02 17:51:52,2018-07-31,NBRV,Burgess Daniel D,Dir,P - Purchase,2.75,36000,36000,New,99000.0,,,,,NBRV
+202,,2018-06-26 09:09:23,2018-06-23,NBRV,Gelone Steven P.,Chief Scientific Officer,P - Purchase,3.82,10000,22740,+78%,38200.0,,,,,NBRV
+203,,2018-06-25 09:47:45,2018-06-22,NBRV,Schranz Jennifer,Chief Medical Officer,P - Purchase,3.73,5500,5500,New,20515.0,,,,,NBRV
+204,,2018-06-25 09:47:15,2018-06-22,NBRV,Broom Colin Md,"CEO, Dir",P - Purchase,3.72,5000,175000,+3%,18600.0,,,,,NBRV
+205,,2018-05-29 13:48:25,2018-05-23,NBRV,Lavino Francesco Maria,Chief Commercial Officer,P - Purchase,4.6,2160,3719,+139%,9936.0,,,,,NBRV
+206,,2018-05-23 20:38:10,2018-05-23,NBRV,Sender Gary,CFO,P - Purchase,4.57,2000,6200,+48%,9140.0,,,,,NBRV
+207,,2018-05-23 20:37:25,2018-05-23,NBRV,Webster Stephen W,Dir,P - Purchase,4.59,8000,8000,New,36720.0,,,,,NBRV
+208,,2018-05-23 20:36:10,2018-05-23,NBRV,Broom Colin Md,"CEO, Dir",P - Purchase,4.6,10000,170000,+6%,46000.0,,,,,NBRV
+209,,2018-05-23 12:29:25,2018-05-23,NBRV,Crotty Robert,"GC, Secretary",P - Purchase,4.48,10000,10000,New,44800.0,,,,,NBRV
+210,,2017-12-01 16:07:15,2017-11-29,NBRV,Lavino Francesco Maria,Chief Commercial Officer,P - Purchase,6.29,1569,1569,New,9869.0,,,,,NBRV
+211,D,2017-09-29 19:34:49,2017-09-27,NBRV,Talbot George Harrison,Dir,M - OptEx,0.0,1350,33140,+4%,0.0,,,,,NBRV
+212,,2017-09-26 17:01:47,2017-09-22,NBRV,Sender Gary,CFO,P - Purchase,8.21,2000,4200,+91%,16420.0,,,,,NBRV
+213,,2017-09-26 17:01:03,2017-09-22,NBRV,Broom Colin Md,CEO,P - Purchase,8.35,2588,160000,+2%,21610.0,,,,,NBRV
+214,,2017-09-18 21:13:19,2017-09-18,NBRV,"Vivo Capital Viii, LLC",10%,P - Purchase,9.46,52631,4074190,+1%,497889.0,,,,,NBRV
+215,M,2017-09-14 20:21:16,2017-09-12,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,8.56,-36608,2334128,-2%,-313415.0,,,,,NBRV
+216,,2017-09-05 20:18:25,2017-08-31,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,9.5,-639,2370735,0%,-6071.0,,,,,NBRV
+217,M,2017-08-09 20:54:44,2017-08-07,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,10.5,-19803,2371374,-1%,-207932.0,,,,,NBRV
+218,,2017-08-01 21:21:34,2017-07-28,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,10.51,-6585,2391177,0%,-69195.0,,,,,NBRV
+219,,2017-07-26 21:03:28,2017-07-24,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,10.5,-160,2397762,0%,-1680.0,,,,,NBRV
+220,M,2017-07-24 21:10:53,2017-07-19,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,10.5,-44231,2397922,-2%,-464426.0,,,,,NBRV
+221,M,2017-07-05 20:58:17,2017-06-30,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,10.94,-13127,2571877,-1%,-143670.0,,,,,NBRV
+222,M,2017-06-29 21:33:40,2017-06-27,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,10.96,-8558,2585004,0%,-93804.0,,,,,NBRV
+223,M,2017-06-19 18:14:19,2017-06-15,NBRV,Talbot George Harrison,Dir,S - Sale,93.18,-170,3179,-5%,-15840.0,,,,,NBRV
+224,,2017-06-05 21:41:08,2017-06-01,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,11.27,-400,2593562,0%,-4508.0,,,,,NBRV
+225,,2017-06-01 20:49:21,2017-05-30,NBRV,Talbot George Harrison,Dir,S - Sale,101.26,-210,3349,-6%,-21265.0,,,,,NBRV
+226,M,2017-05-25 20:58:22,2017-05-23,NBRV,Talbot George Harrison,Dir,S - Sale,100.57,-325,3559,-8%,-32684.0,,,,,NBRV
+227,D,2017-05-17 19:01:18,2017-02-16,NBRV,Talbot George Harrison,Dir,M - OptEx,0.0,1235,3884,+47%,0.0,,,,,NBRV
+228,DM,2017-05-17 19:01:18,2017-05-15,NBRV,Talbot George Harrison,Dir,S - Sale+OE,102.44,-200,3884,-5%,-20488.0,,,,,NBRV
+229,M,2017-04-28 19:13:04,2017-04-26,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,11.02,-15939,2593962,-1%,-175712.0,-1.0,-4.0,,,NBRV
+230,,2017-04-25 19:19:42,2017-04-21,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,11.04,-2622,2609901,0%,-28937.0,3.0,1.0,,,NBRV
+231,M,2017-04-20 20:29:17,2017-04-18,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,11.11,-23932,2612523,-1%,-265889.0,2.0,2.0,,,NBRV
+232,M,2017-04-13 21:12:33,2017-04-11,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,11.24,-32831,2636455,-1%,-368919.0,3.0,-3.0,-12.0,,NBRV
+233,AM,2017-04-11 06:04:28,2017-04-06,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,10.96,-90594,2669286,-3%,-992542.0,7.0,3.0,-10.0,,NBRV
+234,M,2017-04-10 21:38:01,2017-04-06,NBRV,Hbm Healthcare Investments (Cayman) Ltd.,10%,S - Sale,10.96,-90594,185394,-33%,-992542.0,7.0,6.0,-10.0,,NBRV

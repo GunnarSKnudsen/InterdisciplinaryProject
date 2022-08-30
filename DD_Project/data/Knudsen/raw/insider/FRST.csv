@@ -1,129 +1,387 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,D,2022-03-31 17:04:58,2022-03-31,FRST,Brockwell Bruce Todd,"EVP, Head of Commercial",S - Sale+OE,$13.98,-147,10757,-1%,"-$2,055",,,,,FRST
-1,,2022-03-15 18:36:10,2022-03-15,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$14.26,740,43317,+2%,"+$10,552",,,,,FRST
-2,D,2022-03-10 17:35:08,2022-03-08,FRST,Almond Barry P,"EVP, Chief Retail Officer",P - Purchase,$13.79,1874,5930,+46%,"+$25,842",,,,,FRST
-3,D,2022-03-10 15:15:05,2022-03-08,FRST,Colantoni Jr John,"EVP, Chief Risk Officer",P - Purchase,$13.79,1754,24275,+8%,"+$24,188",,,,,FRST
-4,,2022-03-10 14:59:45,2022-03-08,FRST,Gore Ann-Stanton C,"EVP, CMO",P - Purchase,$13.79,1116,6116,+22%,"+$15,390",,,,,FRST
-5,D,2022-03-10 14:51:16,2022-03-08,FRST,Sheflett George Cody Jr,"EVP, CIO, COO",P - Purchase,$13.79,3190,18940,+20%,"+$43,990",,,,,FRST
-6,,2022-03-10 14:40:03,2022-03-08,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$13.79,4786,42577,+13%,"+$65,999",,,,,FRST
-7,D,2022-03-10 14:13:10,2022-03-08,FRST,Wood Cheryl,"EVP, Chief Admin Officer",P - Purchase,$13.79,1695,7520,+29%,"+$23,374",,,,,FRST
-8,AD,2022-03-10 14:03:32,2022-03-08,FRST,Switzer Matthew Alan,"EVP, CFO",P - Purchase,$13.79,7976,79226,+11%,"+$109,989",,,,,FRST
-9,AD,2022-03-10 12:37:00,2022-02-01,FRST,Switzer Matthew Alan,"EVP, CFO",P - Purchase,$14.71,10000,71250,+16%,"+$147,108",,,,,FRST
-10,D,2022-03-10 12:22:15,2022-03-08,FRST,Zember Dennis J Jr,"Pres, CEO",P - Purchase,$13.79,24767,199767,+14%,"+$341,537",,,,,FRST
+0,,2022-03-15 18:36:10,2022-03-15,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$14.26,740,43317,+2%,"+$10,552",,,,,FRST
+1,D,2022-03-10 17:35:08,2022-03-08,FRST,Almond Barry P,"EVP, Chief Retail Officer",P - Purchase,$13.79,1874,5930,+46%,"+$25,842",,,,,FRST
+2,D,2022-03-10 15:15:05,2022-03-08,FRST,Colantoni Jr John,"EVP, Chief Risk Officer",P - Purchase,$13.79,1754,24275,+8%,"+$24,188",,,,,FRST
+3,,2022-03-10 14:59:45,2022-03-08,FRST,Gore Ann-Stanton C,"EVP, CMO",P - Purchase,$13.79,1116,6116,+22%,"+$15,390",,,,,FRST
+4,D,2022-03-10 14:51:16,2022-03-08,FRST,Sheflett George Cody Jr,"EVP, CIO, COO",P - Purchase,$13.79,3190,18940,+20%,"+$43,990",,,,,FRST
+5,,2022-03-10 14:40:03,2022-03-08,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$13.79,4786,42577,+13%,"+$65,999",,,,,FRST
+6,D,2022-03-10 14:13:10,2022-03-08,FRST,Wood Cheryl,"EVP, Chief Admin Officer",P - Purchase,$13.79,1695,7520,+29%,"+$23,374",,,,,FRST
+7,AD,2022-03-10 14:03:32,2022-03-08,FRST,Switzer Matthew Alan,"EVP, CFO",P - Purchase,$13.79,7976,79226,+11%,"+$109,989",,,,,FRST
+8,AD,2022-03-10 12:37:00,2022-02-01,FRST,Switzer Matthew Alan,"EVP, CFO",P - Purchase,$14.71,10000,71250,+16%,"+$147,108",,,,,FRST
+9,D,2022-03-10 12:22:15,2022-03-08,FRST,Zember Dennis J Jr,"Pres, CEO",P - Purchase,$13.79,24767,199767,+14%,"+$341,537",,,,,FRST
+10,D,2022-03-10 10:06:31,2022-03-08,FRST,Switzer Matthew Alan,"EVP, CFO",A - Grant,$13.79,7976,79226,+11%,"+$109,989",,,,,FRST
 11,D,2022-03-03 13:27:48,2022-03-01,FRST,Brockwell Bruce Todd,"EVP, Head of Commercial",S - Sale+OE,$14.01,-107,10904,-1%,"-$1,499",,,,,FRST
 12,D,2022-02-16 15:00:38,2022-02-14,FRST,Brockwell Bruce Todd,"EVP, Head of Commercial",S - Sale+OE,$14.44,-284,11011,-3%,"-$4,101",,,,,FRST
 13,,2022-02-08 19:23:49,2022-02-07,FRST,Kabbash Charles A,Dir,P - Purchase,$15.29,2480,99419,+3%,"+$37,925",,,,,FRST
 14,D,2022-02-04 11:07:36,2022-02-03,FRST,Jennings W. Bruce,Dir,P - Purchase,$14.89,1671,45683,+4%,"+$24,885",,,,,FRST
 15,D,2022-02-03 20:29:58,2022-02-02,FRST,Jennings W. Bruce,Dir,P - Purchase,$14.89,1337,44012,+3%,"+$19,907",,,,,FRST
-16,,2021-12-09 16:46:43,2021-12-09,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$14.95,700,25955,+3%,"+$10,465",,,,,FRST
-17,,2021-11-29 15:57:56,2021-11-26,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$15.28,1430,25255,+6%,"+$21,850",,,,,FRST
-18,,2021-11-10 14:12:09,2021-11-10,FRST,Garrett F L III,Dir,P - Purchase,$16.05,1550,29759,+5%,"+$24,876",,,,,FRST
-19,,2021-11-09 19:12:42,2021-11-09,FRST,Garrett F L III,Dir,P - Purchase,$16.14,1250,28209,+5%,"+$20,179",,,,,FRST
-20,,2021-11-04 16:43:37,2021-11-03,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$15.82,8081,23825,+51%,"+$127,841",,,,,FRST
-21,,2021-08-31 16:42:33,2021-08-27,FRST,Kabbash Charles A,Dir,P - Purchase,$15.56,2360,40139,+6%,"+$36,731",,,,,FRST
-22,,2021-08-06 16:12:06,2021-08-04,FRST,Eggemeyer John M III,Dir,P - Purchase,$15.51,413,413,New,"+$6,406",,,,,FRST
-23,M,2021-06-15 12:51:03,2021-06-14,FRST,Diaz Deborah,Dir,P - Purchase,$15.55,2896,6611,+78%,"+$45,045",,,,,FRST
-24,,2021-06-10 10:44:47,2021-06-09,FRST,Cook William Rand,Dir,P - Purchase,$15.53,1650,24321,+7%,"+$25,625",,,,,FRST
-25,,2021-06-07 16:47:23,2021-06-04,FRST,Cook William Rand,Dir,P - Purchase,$15.56,1300,22671,+6%,"+$20,228",,,,,FRST
-26,,2021-05-14 10:08:35,2021-05-13,FRST,Biagas John Fitzgerald,Dir,P - Purchase,$14.68,1695,62754,+3%,"+$24,880",,,,,FRST
-27,M,2021-05-13 14:50:11,2021-05-12,FRST,Biagas John Fitzgerald,Dir,P - Purchase,$14.30,1730,61059,+3%,"+$24,736",,,,,FRST
-28,M,2021-05-10 18:08:47,2021-05-07,FRST,Clagett Robert Yates,Dir,P - Purchase,$14.51,3090,33578,+10%,"+$44,836",,,,,FRST
-29,,2021-05-10 17:05:23,2021-05-07,FRST,Kabbash Charles A,Dir,P - Purchase,$14.98,1675,145917,+1%,"+$25,092",,,,,FRST
-30,,2021-05-07 16:56:54,2021-05-06,FRST,Johnson Eric Alan,Dir,P - Purchase,$14.75,1715,32471,+6%,"+$25,296",,,,,FRST
-31,,2021-05-06 20:16:06,2021-05-05,FRST,Kabbash Charles A,Dir,P - Purchase,$15.01,1880,39914,+5%,"+$28,215",,,,,FRST
-32,,2021-05-05 17:12:52,2021-05-04,FRST,Johnson Eric Alan,Dir,P - Purchase,$14.59,1360,30756,+5%,"+$19,842",,,,,FRST
-33,,2021-05-04 18:03:32,2021-05-04,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$14.70,4650,15744,+42%,"+$68,355",,,,,FRST
-34,D,2021-03-16 11:31:49,2021-03-15,SONA,Leibson Marie Taylor,"EVP, Chief SBA Lending Officer",P - Purchase,$7.56,8000,54991,+17%,"+$60,480",,,,,FRST
-35,D,2021-03-02 09:55:47,2021-03-01,SONA,Sheflett George Cody Jr,"EVP, CIO, COO",P - Purchase,$7.20,1000,12500,+9%,"+$7,200",,,,,FRST
-36,M,2021-02-17 17:53:56,2021-02-16,SONA,Switzer Matthew Alan,"EVP, CFO",P - Purchase,$12.88,50000,58000,+625%,"+$644,000",,,,,FRST
-37,,2021-02-12 21:35:03,2021-02-12,SONA,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$12.54,550,11094,+5%,"+$6,897",,,,,FRST
-38,,2021-02-03 12:27:36,2021-02-03,SONA,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$12.16,425,10575,+4%,"+$5,168",,,,,FRST
-39,,2020-12-18 07:40:47,2020-10-30,SONA,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$9.66,8800,10150,+652%,"+$85,008",,,,,FRST
-40,,2020-12-17 11:58:48,2020-12-14,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$11.30,8880,57879,+18%,"+$100,344",,,,,FRST
-41,,2020-12-16 18:06:57,2020-12-16,SONA,Zember Dennis J Jr,"Pres, CEO",P - Purchase,$11.57,100000,150000,+200%,"+$1,157,000",,,,,FRST
-42,,2020-12-15 13:50:54,2020-12-14,SONA,Kabbash Charles A,Dir,P - Purchase,$12.07,290,134965,0%,"+$3,501",,,,,FRST
-43,,2020-12-14 15:05:11,2020-12-14,SONA,Kabbash Charles A,Dir,P - Purchase,$11.94,190,134675,0%,"+$2,268",,,,,FRST
-44,,2020-12-14 11:47:57,2020-12-14,SONA,Kabbash Charles A,Dir,P - Purchase,$11.87,1200,89707,+1%,"+$14,249",,,,,FRST
-45,,2020-12-03 16:57:39,2020-12-02,SONA,Clagett Robert Yates,Dir,P - Purchase,$11.20,1780,30488,+6%,"+$19,934",,,,,FRST
-46,,2020-11-20 19:37:50,2020-11-18,SONA,Diaz Deborah,Dir,P - Purchase,$11.65,1751,3715,+89%,"+$20,396",,,,,FRST
-47,,2020-11-19 16:03:29,2020-11-17,SONA,"Castle Creek Capital Partners Iv, LP",10%,S - Sale,$11.06,-469000,2225876,-17%,"-$5,187,140",,,,,FRST
-48,,2020-11-10 16:06:06,2020-11-06,SONA,"Castle Creek Capital Partners Iv, LP",10%,S - Sale,$10.00,-531000,2694876,-16%,"-$5,310,000",,,,,FRST
-49,,2020-11-06 17:18:10,2020-11-06,SONA,Diaz Deborah,Dir,P - Purchase,$10.14,1964,1964,New,"+$19,914",,,,,FRST
-50,,2020-11-03 15:47:27,2020-10-30,SONA,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$9.70,1350,1350,New,"+$13,100",,,,,FRST
-51,,2020-09-08 11:30:24,2020-09-08,SONA,Kabbash Charles A,Dir,P - Purchase,$9.04,1595,89317,+2%,"+$14,421",,,,,FRST
-52,,2020-08-28 16:30:02,2020-08-28,SONA,Zember Dennis J Jr,"Pres, CEO",P - Purchase,$8.79,10000,50000,+25%,"+$87,865",,,,,FRST
-53,D,2020-08-24 15:24:58,2020-07-21,SONA,Sheflett George Cody Jr,"EVP, CIO, COO",P - Purchase,$7.04,1000,11500,+10%,"+$7,040",,,,,FRST
-54,D,2020-08-24 14:20:16,2020-07-09,SONA,Stevens William H,"EVP, Chief Credit Risk Officer",P - Purchase,$7.04,1500,22065,+7%,"+$10,560",,,,,FRST
-55,,2020-06-19 08:05:47,2020-06-18,SONA,Kabbash Charles A,Dir,P - Purchase,$10.08,235,131690,0%,"+$2,370",,,,,FRST
-56,,2020-06-03 08:34:28,2020-06-02,SONA,Kabbash Charles A,Dir,P - Purchase,$10.69,450,131455,0%,"+$4,810",,,,,FRST
-57,,2020-05-28 15:39:33,2020-05-27,SONA,Kabbash Charles A,Dir,P - Purchase,$10.82,425,131005,0%,"+$4,597",,,,,FRST
-58,DM,2020-05-04 13:16:35,2020-05-01,SONA,Jennings W. Bruce,Dir,P - Purchase,$9.82,4057,42675,+11%,"+$39,846",,,,,FRST
-59,D,2020-04-28 16:17:48,2020-03-31,SONA,Derrico Georgia S,Exec COB,P - Purchase,$0.00,54000,721719,+8%,+$0,,,,,FRST
-60,,2020-03-13 10:53:00,2020-03-13,SONA,Zember Dennis J Jr,"Pres, CEO",P - Purchase,$10.90,5000,40000,+14%,"+$54,500",,,,,FRST
-61,,2020-03-13 09:02:42,2020-03-10,SONA,Kabbash Charles A,Dir,P - Purchase,$12.31,475,88162,+1%,"+$5,848",,,,,FRST
-62,A,2020-03-10 15:27:01,2020-02-26,SONA,Shearin Joe A,EVP,P - Purchase,$15.75,9215,79907,+13%,"+$145,175",,,,,FRST
-63,,2020-03-09 09:44:20,2020-03-06,SONA,Clagett Robert Yates,Dir,P - Purchase,$13.89,717,28708,+3%,"+$9,959",,,,,FRST
-64,,2020-03-03 19:38:56,2020-03-03,SONA,Clagett Robert Yates,Dir,P - Purchase,$14.41,692,27991,+3%,"+$9,971",,,,,FRST
-65,,2020-03-03 14:19:43,2020-03-03,SONA,Kabbash Charles A,Dir,P - Purchase,$14.80,1400,130105,+1%,"+$20,720",,,,,FRST
-66,,2020-03-03 07:42:17,2020-03-02,SONA,Kabbash Charles A,Dir,P - Purchase,$14.74,1600,128705,+1%,"+$23,578",,,,,FRST
-67,,2020-02-28 09:31:33,2020-02-26,SONA,Kabbash Charles A,Dir,P - Purchase,$15.71,400,127105,0%,"+$6,285",,,,,FRST
-68,,2020-02-28 09:04:13,2020-02-26,SONA,Garrett F L III,Dir,P - Purchase,$15.29,1300,26959,+5%,"+$19,877",,,,,FRST
-69,DM,2020-02-27 11:15:52,2020-02-25,SONA,Derrico Georgia S,Exec COB,P - Purchase,$15.09,5289,727008,+1%,"+$79,791",,,,,FRST
-70,,2020-02-27 10:22:54,2020-02-26,SONA,Zember Dennis J Jr,"Pres, CEO",P - Purchase,$15.14,15000,35000,+75%,"+$227,100",,,,,FRST
-71,,2020-02-26 09:43:36,2020-02-26,SONA,Shearin Joe A,Consultant,P - Purchase,$15.75,9215,81167,+13%,"+$145,175",,,,,FRST
-72,,2020-02-26 09:23:28,2020-02-26,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$15.02,1330,48999,+3%,"+$19,971",,,,,FRST
-73,,2020-02-26 09:14:34,2020-02-26,SONA,Johnson Eric Alan,Dir,P - Purchase,$15.17,1315,27899,+5%,"+$19,949",,,,,FRST
-74,,2020-02-26 09:05:28,2020-02-26,SONA,Garrett F L III,Dir,P - Purchase,$15.04,1322,25659,+5%,"+$19,878",,,,,FRST
-75,,2020-02-24 15:10:47,2020-02-21,SONA,Johnson Eric Alan,Dir,P - Purchase,$15.87,1260,26584,+5%,"+$20,000",,,,,FRST
-76,,2020-02-24 14:39:39,2020-02-21,SONA,Shearin Joe A,Consultant,P - Purchase,$15.88,1260,87752,+1%,"+$20,007",,,,,FRST
-77,,2020-02-19 13:59:08,2020-02-19,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$15.81,65,47669,0%,"+$1,028",,,,,FRST
-78,,2020-02-19 13:49:55,2020-02-19,SONA,Cook William Rand,Dir,P - Purchase,$15.81,75,19306,0%,"+$1,186",,,,,FRST
-79,,2020-02-18 12:56:45,2020-02-14,SONA,Cook William Rand,Dir,P - Purchase,$16.00,1250,19231,+7%,"+$20,000",,,,,FRST
-80,D,2020-02-10 09:39:21,2020-02-10,SONA,Derrico Georgia S,Exec COB,P - Purchase,$7.20,40000,701719,+6%,"+$288,000",,,,,FRST
-81,,2019-12-13 08:27:10,2019-12-13,SONA,Garrett F L III,Dir,P - Purchase,$16.16,650,24337,+3%,"+$10,504",,,,,FRST
-82,,2019-12-06 13:29:44,2019-12-05,SONA,Garrett F L III,Dir,P - Purchase,$16.05,925,23687,+4%,"+$14,846",,,,,FRST
-83,,2019-12-02 11:45:06,2019-11-25,SONA,Cook William Rand,Dir,P - Purchase,$15.57,450,17981,+3%,"+$7,005",,,,,FRST
-84,,2019-11-21 08:31:08,2019-11-18,SONA,Cook William Rand,Dir,P - Purchase,$15.95,624,17531,+4%,"+$9,950",,,,,FRST
-85,,2019-11-18 09:09:27,2019-11-13,SONA,Clagett Robert Yates,Dir,P - Purchase,$15.84,660,27299,+2%,"+$10,456",,,,,FRST
-86,,2019-11-08 15:46:55,2019-11-08,SONA,Clagett Robert Yates,Dir,P - Purchase,$15.89,941,26639,+4%,"+$14,957",,,,,FRST
-87,,2019-11-08 08:34:12,2019-11-05,SONA,Johnson Eric Alan,Dir,P - Purchase,$15.91,878,25324,+4%,"+$13,973",,,,,FRST
-88,,2019-11-06 09:00:33,2019-11-04,SONA,Johnson Eric Alan,Dir,P - Purchase,$15.89,100,24446,0%,"+$1,589",,,,,FRST
-89,D,2019-11-01 10:18:23,2019-10-31,SONA,Jennings W. Bruce,Dir,P - Purchase,$15.75,885,38618,+2%,"+$13,939",,,,,FRST
-90,D,2019-10-31 13:22:08,2019-10-31,SONA,Jennings W. Bruce,Dir,P - Purchase,$15.81,1260,37733,+3%,"+$19,918",,,,,FRST
-91,,2019-10-31 12:59:31,2019-10-29,SONA,Kabbash Charles A,Dir,P - Purchase,$15.62,850,126705,+1%,"+$13,279",,,,,FRST
-92,D,2019-10-29 10:30:52,2019-10-29,SONA,Derrico Georgia S,Exec COB,P - Purchase,$7.04,10000,653074,+2%,"+$70,400",,,,,FRST
-93,D,2019-09-27 09:34:54,2019-09-27,SONA,Kabbash Charles A,Dir,P - Purchase,$9.32,700,113455,+1%,"+$6,524",,,,,FRST
-94,M,2019-02-13 11:24:03,2019-02-11,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$15.27,2225,47604,+5%,"+$33,971",,,,,FRST
-95,,2019-02-04 13:54:27,2019-01-31,SONA,Shearin Joe A,CEO,P - Purchase,$14.79,945,76434,+1%,"+$13,975",,,,,FRST
-96,,2019-02-04 13:53:26,2019-01-31,SONA,Cook William Rand,Dir,P - Purchase,$14.96,462,16907,+3%,"+$6,910",,,,,FRST
-97,D,2019-02-04 11:08:21,2019-01-31,SONA,Kabbash Charles A,Dir,P - Purchase,$15.30,950,112755,+1%,"+$14,538",,,,,FRST
-98,,2019-02-01 10:04:25,2019-01-30,SONA,Cook William Rand,Dir,P - Purchase,$14.85,672,16445,+4%,"+$9,978",,,,,FRST
-99,,2019-01-31 14:56:36,2019-01-30,SONA,Shearin Joe A,CEO,P - Purchase,$14.87,1345,75489,+2%,"+$19,998",,,,,FRST
-100,D,2019-01-31 14:55:47,2019-01-29,SONA,Kabbash Charles A,Dir,P - Purchase,$15.28,1350,111805,+1%,"+$20,632",,,,,FRST
-101,DM,2019-01-31 13:53:02,2019-01-29,SONA,Derrico Georgia S,Exec COB,P - Purchase,$14.88,4862,650583,+1%,"+$72,348",,,,,FRST
-102,D,2019-01-28 15:18:54,2019-01-27,SONA,Stevens William H,EVP,P - Purchase,$5.50,1500,16264,+10%,"+$8,250",,,,,FRST
-103,D,2019-01-28 15:18:02,2019-01-24,SONA,Derrico Georgia S,Exec COB,P - Purchase,$0.00,20000,645721,+3%,+$0,,,,,FRST
-104,D,2019-01-28 15:15:44,2019-01-24,SONA,Lagos William H,EVP,P - Purchase,$5.50,2000,43494,+5%,"+$11,000",,,,,FRST
-105,D,2019-01-28 15:13:36,2019-01-24,SONA,Leibson Marie Taylor,Chief Credit Officer,P - Purchase,$0.00,4000,38101,+12%,+$0,,,,,FRST
-106,D,2019-01-04 10:47:56,2019-01-04,SONA,Leibson Marie Taylor,Chief Credit Officer,P - Purchase,$6.87,6500,34101,+24%,"+$44,640",,,,,FRST
-107,,2018-12-18 13:51:00,2018-12-14,SONA,Burch Daniel H,Dir,P - Purchase,$13.77,1500,1500,New,"+$20,655",,,,,FRST
-108,,2018-12-18 11:25:58,2018-12-17,SONA,Johnson Eric Alan,Dir,P - Purchase,$13.92,1027,24346,+4%,"+$14,299",,,,,FRST
-109,D,2018-11-20 09:21:46,2018-11-16,SONA,Kabbash Charles A,Dir,P - Purchase,$15.74,1020,74212,+1%,"+$16,059",,,,,FRST
-110,,2018-11-09 15:58:09,2018-11-09,SONA,Culver Jeffrey,"Pres, COO",P - Purchase,$15.45,1000,11000,+10%,"+$15,450",,,,,FRST
-111,A,2018-11-07 15:20:14,2018-09-05,SONA,Culver Jeffrey,"Pres, COO",P - Purchase,$17.52,1000,1000,New,"+$17,520",,,,,FRST
-112,,2018-11-06 13:24:50,2018-11-02,SONA,Clagett Robert Yates,Dir,P - Purchase,$15.15,300,25698,+1%,"+$4,544",,,,,FRST
-113,M,2018-11-06 13:24:05,2018-11-01,SONA,Culver Jeffrey,Pres,P - Purchase,$15.38,1000,10000,+11%,"+$15,375",,,,,FRST
-114,D,2018-11-02 11:15:52,2018-10-30,SONA,Derrico Georgia S,Exec COB,P - Purchase,$15.25,2000,625721,0%,"+$30,500",,,,,FRST
-115,,2018-11-01 14:41:16,2018-10-30,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$15.20,3290,45379,+8%,"+$50,008",,,,,FRST
-116,,2018-11-01 14:38:49,2018-10-30,SONA,Shearin Joe A,CEO,P - Purchase,$15.24,300,64144,0%,"+$4,571",,,,,FRST
-117,DM,2018-05-31 13:18:48,2018-05-29,SONA,Jennings W. Bruce,Dir,P - Purchase,$17.29,1440,36473,+4%,"+$24,903",,,,,FRST
-118,,2018-05-30 16:48:39,2018-05-29,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$16.98,1470,42089,+4%,"+$24,961",,,,,FRST
-119,,2018-05-16 16:36:46,2018-05-16,SONA,Shearin Joe A,CEO,P - Purchase,$16.70,1491,63844,+2%,"+$24,894",,,,,FRST
-120,,2018-05-09 18:28:06,2018-05-09,SONA,Cook William Rand,Dir,P - Purchase,$17.00,583,15773,+4%,"+$9,910",,,,,FRST
-121,D,2018-05-09 18:27:15,2018-05-09,SONA,Call Neil J,Dir,P - Purchase,$17.02,586,123384,0%,"+$9,974",,,,,FRST
-122,,2018-05-09 14:49:05,2018-05-07,SONA,Cook William Rand,Dir,P - Purchase,$17.04,881,15190,+6%,"+$15,015",,,,,FRST
-123,D,2018-05-07 16:52:05,2018-05-04,SONA,Call Neil J,Dir,P - Purchase,$16.85,1000,122798,+1%,"+$16,850",,,,,FRST
-124,,2018-05-04 15:28:37,2018-05-04,SONA,Garrett F L III,Dir,P - Purchase,$16.78,575,22762,+3%,"+$9,649",,,,,FRST
-125,D,2018-05-03 18:27:08,2018-05-02,SONA,Kabbash Charles A,Dir,P - Purchase,$16.75,590,109435,+1%,"+$9,882",,,,,FRST
-126,,2018-05-03 13:01:48,2018-05-02,SONA,Garrett F L III,Dir,P - Purchase,$16.44,932,22187,+4%,"+$15,319",,,,,FRST
-127,D,2018-05-02 15:21:18,2018-05-01,SONA,Derrico Georgia S,Exec COB,P - Purchase,$16.08,3100,623721,0%,"+$49,848",,,,,FRST
+16,D,2022-02-02 13:58:12,2022-02-01,FRST,Switzer Matthew Alan,"EVP, CFO",A - Grant,$14.71,10000,71250,+16%,"+$147,108",,,,,FRST
+17,,2021-12-09 16:46:43,2021-12-09,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$14.95,700,25955,+3%,"+$10,465",,,,,FRST
+18,,2021-11-29 15:57:56,2021-11-26,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$15.28,1430,25255,+6%,"+$21,850",,,,,FRST
+19,,2021-11-10 14:12:09,2021-11-10,FRST,Garrett F L III,Dir,P - Purchase,$16.05,1550,29759,+5%,"+$24,876",,,,,FRST
+20,,2021-11-09 19:12:42,2021-11-09,FRST,Garrett F L III,Dir,P - Purchase,$16.14,1250,28209,+5%,"+$20,179",,,,,FRST
+21,,2021-11-04 16:43:37,2021-11-03,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$15.82,8081,23825,+51%,"+$127,841",,,,,FRST
+22,D,2021-09-02 19:52:58,2021-09-01,FRST,Sheflett George Cody Jr,"EVP, CIO, COO",A - Grant,$0.00,3250,15750,+26%,+$0,,,,,FRST
+23,D,2021-09-02 19:42:07,2021-09-01,FRST,Colantoni Jr John,"EVP, Chief Risk Officer",A - Grant,$0.00,1500,20773,+8%,+$0,,,,,FRST
+24,D,2021-09-02 19:25:01,2021-09-01,FRST,Almond Barry P,"EVP, Head of Retail, Marketing",A - Grant,$0.00,1500,3613,+71%,+$0,,,,,FRST
+25,D,2021-09-02 19:13:28,2021-09-01,FRST,Weber Stephen B,"EVP, Chief Strategy Officer",A - Grant,$0.00,3250,15750,+26%,+$0,,,,,FRST
+26,D,2021-09-02 19:03:33,2021-09-01,FRST,Wood Cheryl,"EVP, Chief Admin Officer",A - Grant,$0.00,1500,5825,+35%,+$0,,,,,FRST
+27,D,2021-09-02 18:42:41,2021-09-01,FRST,Switzer Matthew Alan,"EVP, CFO",A - Grant,$0.00,3250,61250,+6%,+$0,,,,,FRST
+28,D,2021-09-02 16:28:39,2021-09-01,FRST,Leibson Marie Taylor,"EVP, Chief Credit Officer",A - Grant,$0.00,1500,56491,+3%,+$0,,,,,FRST
+29,D,2021-09-02 15:34:41,2021-09-01,FRST,Brockwell Bruce Todd,"EVP, Head of Commercial",A - Grant,$0.00,1500,11295,+15%,+$0,,,,,FRST
+30,,2021-08-31 16:42:33,2021-08-27,FRST,Kabbash Charles A,Dir,P - Purchase,$15.56,2360,40139,+6%,"+$36,731",,,,,FRST
+31,,2021-08-06 16:12:06,2021-08-04,FRST,Eggemeyer John M III,Dir,P - Purchase,$15.51,413,413,New,"+$6,406",,,,,FRST
+32,,2021-07-16 09:17:07,2021-07-16,FRST,Avant Keith,"EVP, Chief Credit Officer",D - Sale to issuer,$0.00,-4000,1316,-75%,-$0,,,,,FRST
+33,M,2021-06-15 12:51:03,2021-06-14,FRST,Diaz Deborah,Dir,P - Purchase,$15.55,2896,6611,+78%,"+$45,045",,,,,FRST
+34,,2021-06-10 10:44:47,2021-06-09,FRST,Cook William Rand,Dir,P - Purchase,$15.53,1650,24321,+7%,"+$25,625",,,,,FRST
+35,,2021-06-07 16:47:23,2021-06-04,FRST,Cook William Rand,Dir,P - Purchase,$15.56,1300,22671,+6%,"+$20,228",,,,,FRST
+36,,2021-05-19 12:38:11,2021-05-18,FRST,Avant Keith,"EVP, Chief Credit Officer",F - Tax,$15.00,-298,5316,-5%,"-$4,470",,,,,FRST
+37,,2021-05-14 10:08:35,2021-05-13,FRST,Biagas John Fitzgerald,Dir,P - Purchase,$14.68,1695,62754,+3%,"+$24,880",,,,,FRST
+38,M,2021-05-13 14:50:11,2021-05-12,FRST,Biagas John Fitzgerald,Dir,P - Purchase,$14.30,1730,61059,+3%,"+$24,736",,,,,FRST
+39,M,2021-05-10 18:08:47,2021-05-07,FRST,Clagett Robert Yates,Dir,P - Purchase,$14.51,3090,33578,+10%,"+$44,836",,,,,FRST
+40,,2021-05-10 17:05:23,2021-05-07,FRST,Kabbash Charles A,Dir,P - Purchase,$14.98,1675,145917,+1%,"+$25,092",,,,,FRST
+41,,2021-05-07 16:56:54,2021-05-06,FRST,Johnson Eric Alan,Dir,P - Purchase,$14.75,1715,32471,+6%,"+$25,296",,,,,FRST
+42,,2021-05-06 20:16:06,2021-05-05,FRST,Kabbash Charles A,Dir,P - Purchase,$15.01,1880,39914,+5%,"+$28,215",,,,,FRST
+43,,2021-05-05 17:12:52,2021-05-04,FRST,Johnson Eric Alan,Dir,P - Purchase,$14.59,1360,30756,+5%,"+$19,842",,,,,FRST
+44,,2021-05-04 18:03:32,2021-05-04,FRST,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$14.70,4650,15744,+42%,"+$68,355",,,,,FRST
+45,,2021-03-31 18:54:55,2021-03-31,FRST,Brockwell Bruce Todd,"EVP, Head of Commercial",F - Tax,$14.54,-178,9795,-2%,"-$2,588",,,,,FRST
+46,D,2021-03-16 11:31:49,2021-03-15,SONA,Leibson Marie Taylor,"EVP, Chief SBA Lending Officer",P - Purchase,$7.56,8000,54991,+17%,"+$60,480",,,,,FRST
+47,,2021-03-16 10:04:24,2021-03-15,SONA,Zember Dennis J Jr,"Pres, CEO",A - Grant,$15.73,25000,175000,+17%,"+$393,250",,,,,FRST
+48,D,2021-03-02 09:55:47,2021-03-01,SONA,Sheflett George Cody Jr,"EVP, CIO, COO",P - Purchase,$7.20,1000,12500,+9%,"+$7,200",,,,,FRST
+49,M,2021-02-17 17:53:56,2021-02-16,SONA,Switzer Matthew Alan,"EVP, CFO",P - Purchase,$12.88,50000,58000,+625%,"+$644,000",,,,,FRST
+50,,2021-02-16 17:41:11,2021-02-16,SONA,Brockwell Bruce Todd,"EVP, Head of Commercial",F - Tax,$12.91,-283,9973,-3%,"-$3,654",,,,,FRST
+51,,2021-02-12 21:35:03,2021-02-12,SONA,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$12.54,550,11094,+5%,"+$6,897",,,,,FRST
+52,A,2021-02-10 13:44:11,2021-02-03,SONA,Stafford Clinton Tyler,Pres Panacea Financial,A - Grant,$12.16,425,10544,+4%,"+$5,168",,,,,FRST
+53,,2021-02-03 12:27:36,2021-02-03,SONA,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$12.16,425,10575,+4%,"+$5,168",,,,,FRST
+54,,2021-01-25 18:44:16,2021-01-25,SONA,Brockwell Bruce Todd,"EVP, Head of Commercial",F - Tax,$12.58,-284,10256,-3%,"-$3,573",,,,,FRST
+55,,2021-01-12 12:50:48,2021-01-11,SONA,Switzer Matthew Alan,"EVP, CFO",A - Grant,$0.00,8000,8000,New,+$0,,,,,FRST
+56,,2020-12-18 07:40:47,2020-10-30,SONA,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$9.66,8800,10150,+652%,"+$85,008",,,,,FRST
+57,,2020-12-17 11:58:48,2020-12-14,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$11.30,8880,57879,+18%,"+$100,344",,,,,FRST
+58,,2020-12-16 18:06:57,2020-12-16,SONA,Zember Dennis J Jr,"Pres, CEO",P - Purchase,$11.57,100000,150000,+200%,"+$1,157,000",,,,,FRST
+59,,2020-12-15 13:50:54,2020-12-14,SONA,Kabbash Charles A,Dir,P - Purchase,$12.07,290,134965,0%,"+$3,501",,,,,FRST
+60,,2020-12-14 15:05:11,2020-12-14,SONA,Kabbash Charles A,Dir,P - Purchase,$11.94,190,134675,0%,"+$2,268",,,,,FRST
+61,,2020-12-14 11:47:57,2020-12-14,SONA,Kabbash Charles A,Dir,P - Purchase,$11.87,1200,89707,+1%,"+$14,249",,,,,FRST
+62,,2020-12-03 16:57:39,2020-12-02,SONA,Clagett Robert Yates,Dir,P - Purchase,$11.20,1780,30488,+6%,"+$19,934",,,,,FRST
+63,,2020-11-20 19:37:50,2020-11-18,SONA,Diaz Deborah,Dir,P - Purchase,$11.65,1751,3715,+89%,"+$20,396",,,,,FRST
+64,,2020-11-19 16:03:29,2020-11-17,SONA,"Castle Creek Capital Partners Iv, LP",10%,S - Sale,$11.06,-469000,2225876,-17%,"-$5,187,140",,,,,FRST
+65,,2020-11-10 16:06:06,2020-11-06,SONA,"Castle Creek Capital Partners Iv, LP",10%,S - Sale,$10.00,-531000,2694876,-16%,"-$5,310,000",,,,,FRST
+66,,2020-11-06 17:18:10,2020-11-06,SONA,Diaz Deborah,Dir,P - Purchase,$10.14,1964,1964,New,"+$19,914",,,,,FRST
+67,,2020-11-03 15:47:27,2020-10-30,SONA,Stafford Clinton Tyler,Pres Panacea Financial,P - Purchase,$9.70,1350,1350,New,"+$13,100",,,,,FRST
+68,,2020-10-27 12:15:23,2020-10-23,SONA,Karafa Jeffrey L,"EVP, CFO",F - Tax,$10.01,-241,6173,-4%,"-$2,412",,,,,FRST
+69,,2020-09-08 11:30:24,2020-09-08,SONA,Kabbash Charles A,Dir,P - Purchase,$9.04,1595,89317,+2%,"+$14,421",,,,,FRST
+70,,2020-08-28 16:30:02,2020-08-28,SONA,Zember Dennis J Jr,"Pres, CEO",P - Purchase,$8.79,10000,50000,+25%,"+$87,865",,,,,FRST
+71,D,2020-08-24 15:24:58,2020-07-21,SONA,Sheflett George Cody Jr,"EVP, CIO, COO",P - Purchase,$7.04,1000,11500,+10%,"+$7,040",,,,,FRST
+72,D,2020-08-24 14:20:16,2020-07-09,SONA,Stevens William H,"EVP, Chief Credit Risk Officer",P - Purchase,$7.04,1500,22065,+7%,"+$10,560",,,,,FRST
+73,,2020-06-19 08:05:47,2020-06-18,SONA,Kabbash Charles A,Dir,P - Purchase,$10.08,235,131690,0%,"+$2,370",,,,,FRST
+74,,2020-06-03 08:34:28,2020-06-02,SONA,Kabbash Charles A,Dir,P - Purchase,$10.69,450,131455,0%,"+$4,810",,,,,FRST
+75,,2020-05-28 15:39:33,2020-05-27,SONA,Kabbash Charles A,Dir,P - Purchase,$10.82,425,131005,0%,"+$4,597",,,,,FRST
+76,DM,2020-05-04 13:16:35,2020-05-01,SONA,Jennings W. Bruce,Dir,P - Purchase,$9.82,4057,42675,+11%,"+$39,846",,,,,FRST
+77,D,2020-04-28 16:17:48,2020-03-31,SONA,Derrico Georgia S,Exec COB,P - Purchase,$0.00,54000,721719,+8%,+$0,,,,,FRST
+78,,2020-03-13 10:53:00,2020-03-13,SONA,Zember Dennis J Jr,"Pres, CEO",P - Purchase,$10.90,5000,40000,+14%,"+$54,500",,,,,FRST
+79,,2020-03-13 09:02:42,2020-03-10,SONA,Kabbash Charles A,Dir,P - Purchase,$12.31,475,88162,+1%,"+$5,848",,,,,FRST
+80,A,2020-03-10 15:27:01,2020-02-26,SONA,Shearin Joe A,EVP,P - Purchase,$15.75,9215,79907,+13%,"+$145,175",,,,,FRST
+81,AD,2020-03-10 15:16:04,2020-02-14,SONA,Derrico Georgia S,Exec COB,A - Grant,$0.00,20000,721719,+3%,+$0,,,,,FRST
+82,A,2020-03-10 14:29:16,2020-02-14,SONA,Shearin Joe A,CEO,A - Grant,$0.00,10000,86492,+13%,+$0,,,,,FRST
+83,AD,2020-03-10 14:18:16,2020-02-14,SONA,Sheflett George Cody Jr,COO,A - Grant,$0.00,4000,10500,+62%,+$0,,,,,FRST
+84,A,2020-03-10 14:01:10,2020-02-14,SONA,Karafa Jeffrey L,CFO,A - Grant,$0.00,2000,6414,+45%,+$0,,,,,FRST
+85,AD,2020-03-10 13:53:19,2020-02-14,SONA,Stevens William H,EVP,A - Grant,$0.00,3000,20565,+17%,+$0,,,,,FRST
+86,,2020-03-09 09:44:20,2020-03-06,SONA,Clagett Robert Yates,Dir,P - Purchase,$13.89,717,28708,+3%,"+$9,959",,,,,FRST
+87,,2020-03-03 19:38:56,2020-03-03,SONA,Clagett Robert Yates,Dir,P - Purchase,$14.41,692,27991,+3%,"+$9,971",,,,,FRST
+88,,2020-03-03 14:19:43,2020-03-03,SONA,Kabbash Charles A,Dir,P - Purchase,$14.80,1400,130105,+1%,"+$20,720",,,,,FRST
+89,,2020-03-03 07:42:17,2020-03-02,SONA,Kabbash Charles A,Dir,P - Purchase,$14.74,1600,128705,+1%,"+$23,578",,,,,FRST
+90,,2020-02-28 09:31:33,2020-02-26,SONA,Kabbash Charles A,Dir,P - Purchase,$15.71,400,127105,0%,"+$6,285",,,,,FRST
+91,,2020-02-28 09:04:13,2020-02-26,SONA,Garrett F L III,Dir,P - Purchase,$15.29,1300,26959,+5%,"+$19,877",,,,,FRST
+92,DM,2020-02-27 11:15:52,2020-02-25,SONA,Derrico Georgia S,Exec COB,P - Purchase,$15.09,5289,727008,+1%,"+$79,791",,,,,FRST
+93,,2020-02-27 10:22:54,2020-02-26,SONA,Zember Dennis J Jr,"Pres, CEO",P - Purchase,$15.14,15000,35000,+75%,"+$227,100",,,,,FRST
+94,,2020-02-26 09:43:36,2020-02-26,SONA,Shearin Joe A,Consultant,P - Purchase,$15.75,9215,81167,+13%,"+$145,175",,,,,FRST
+95,,2020-02-26 09:23:28,2020-02-26,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$15.02,1330,48999,+3%,"+$19,971",,,,,FRST
+96,,2020-02-26 09:14:34,2020-02-26,SONA,Johnson Eric Alan,Dir,P - Purchase,$15.17,1315,27899,+5%,"+$19,949",,,,,FRST
+97,,2020-02-26 09:05:28,2020-02-26,SONA,Garrett F L III,Dir,P - Purchase,$15.04,1322,25659,+5%,"+$19,878",,,,,FRST
+98,,2020-02-24 15:10:47,2020-02-21,SONA,Johnson Eric Alan,Dir,P - Purchase,$15.87,1260,26584,+5%,"+$20,000",,,,,FRST
+99,,2020-02-24 14:39:39,2020-02-21,SONA,Shearin Joe A,Consultant,P - Purchase,$15.88,1260,87752,+1%,"+$20,007",,,,,FRST
+100,,2020-02-20 14:51:36,2020-02-19,SONA,Zember Dennis J Jr,"Pres, CEO",A - Grant,$0.00,20000,20000,New,+$0,,,,,FRST
+101,,2020-02-19 13:59:08,2020-02-19,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$15.81,65,47669,0%,"+$1,028",,,,,FRST
+102,,2020-02-19 13:49:55,2020-02-19,SONA,Cook William Rand,Dir,P - Purchase,$15.81,75,19306,0%,"+$1,186",,,,,FRST
+103,,2020-02-18 12:56:45,2020-02-14,SONA,Cook William Rand,Dir,P - Purchase,$16.00,1250,19231,+7%,"+$20,000",,,,,FRST
+104,D,2020-02-10 09:39:21,2020-02-10,SONA,Derrico Georgia S,Exec COB,P - Purchase,$7.20,40000,701719,+6%,"+$288,000",,,,,FRST
+105,,2019-12-13 08:27:10,2019-12-13,SONA,Garrett F L III,Dir,P - Purchase,$16.16,650,24337,+3%,"+$10,504",,,,,FRST
+106,,2019-12-06 13:29:44,2019-12-05,SONA,Garrett F L III,Dir,P - Purchase,$16.05,925,23687,+4%,"+$14,846",,,,,FRST
+107,,2019-12-02 11:45:06,2019-11-25,SONA,Cook William Rand,Dir,P - Purchase,$15.57,450,17981,+3%,"+$7,005",,,,,FRST
+108,,2019-11-21 08:31:08,2019-11-18,SONA,Cook William Rand,Dir,P - Purchase,$15.95,624,17531,+4%,"+$9,950",,,,,FRST
+109,,2019-11-18 09:09:27,2019-11-13,SONA,Clagett Robert Yates,Dir,P - Purchase,$15.84,660,27299,+2%,"+$10,456",,,,,FRST
+110,,2019-11-08 15:46:55,2019-11-08,SONA,Clagett Robert Yates,Dir,P - Purchase,$15.89,941,26639,+4%,"+$14,957",,,,,FRST
+111,,2019-11-08 08:34:12,2019-11-05,SONA,Johnson Eric Alan,Dir,P - Purchase,$15.91,878,25324,+4%,"+$13,973",,,,,FRST
+112,,2019-11-06 09:00:33,2019-11-04,SONA,Johnson Eric Alan,Dir,P - Purchase,$15.89,100,24446,0%,"+$1,589",,,,,FRST
+113,D,2019-11-01 10:18:23,2019-10-31,SONA,Jennings W. Bruce,Dir,P - Purchase,$15.75,885,38618,+2%,"+$13,939",,,,,FRST
+114,D,2019-10-31 13:22:08,2019-10-31,SONA,Jennings W. Bruce,Dir,P - Purchase,$15.81,1260,37733,+3%,"+$19,918",,,,,FRST
+115,,2019-10-31 12:59:31,2019-10-29,SONA,Kabbash Charles A,Dir,P - Purchase,$15.62,850,126705,+1%,"+$13,279",,,,,FRST
+116,D,2019-10-29 10:30:52,2019-10-29,SONA,Derrico Georgia S,Exec COB,P - Purchase,$7.04,10000,653074,+2%,"+$70,400",,,,,FRST
+117,D,2019-09-27 09:34:54,2019-09-27,SONA,Kabbash Charles A,Dir,P - Purchase,$9.32,700,113455,+1%,"+$6,524",,,,,FRST
+118,M,2019-02-13 11:24:03,2019-02-11,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$15.27,2225,47604,+5%,"+$33,971",,,,,FRST
+119,,2019-02-04 13:54:27,2019-01-31,SONA,Shearin Joe A,CEO,P - Purchase,$14.79,945,76434,+1%,"+$13,975",,,,,FRST
+120,,2019-02-04 13:53:26,2019-01-31,SONA,Cook William Rand,Dir,P - Purchase,$14.96,462,16907,+3%,"+$6,910",,,,,FRST
+121,D,2019-02-04 11:08:21,2019-01-31,SONA,Kabbash Charles A,Dir,P - Purchase,$15.30,950,112755,+1%,"+$14,538",,,,,FRST
+122,,2019-02-01 10:04:25,2019-01-30,SONA,Cook William Rand,Dir,P - Purchase,$14.85,672,16445,+4%,"+$9,978",,,,,FRST
+123,,2019-01-31 14:56:36,2019-01-30,SONA,Shearin Joe A,CEO,P - Purchase,$14.87,1345,75489,+2%,"+$19,998",,,,,FRST
+124,D,2019-01-31 14:55:47,2019-01-29,SONA,Kabbash Charles A,Dir,P - Purchase,$15.28,1350,111805,+1%,"+$20,632",,,,,FRST
+125,DM,2019-01-31 13:53:02,2019-01-29,SONA,Derrico Georgia S,Exec COB,P - Purchase,$14.88,4862,650583,+1%,"+$72,348",,,,,FRST
+126,D,2019-01-28 15:18:54,2019-01-27,SONA,Stevens William H,EVP,P - Purchase,$5.50,1500,16264,+10%,"+$8,250",,,,,FRST
+127,D,2019-01-28 15:18:02,2019-01-24,SONA,Derrico Georgia S,Exec COB,P - Purchase,$0.00,20000,645721,+3%,+$0,,,,,FRST
+128,D,2019-01-28 15:15:44,2019-01-24,SONA,Lagos William H,EVP,P - Purchase,$5.50,2000,43494,+5%,"+$11,000",,,,,FRST
+129,,2019-01-28 15:14:25,2019-01-24,SONA,Shearin Joe A,CEO,A - Grant,$0.00,10000,74144,+16%,+$0,,,,,FRST
+130,D,2019-01-28 15:13:36,2019-01-24,SONA,Leibson Marie Taylor,Chief Credit Officer,P - Purchase,$0.00,4000,38101,+12%,+$0,,,,,FRST
+131,D,2019-01-04 10:47:56,2019-01-04,SONA,Leibson Marie Taylor,Chief Credit Officer,P - Purchase,$6.87,6500,34101,+24%,"+$44,640",,,,,FRST
+132,,2018-12-18 13:51:00,2018-12-14,SONA,Burch Daniel H,Dir,P - Purchase,$13.77,1500,1500,New,"+$20,655",,,,,FRST
+133,,2018-12-18 11:25:58,2018-12-17,SONA,Johnson Eric Alan,Dir,P - Purchase,$13.92,1027,24346,+4%,"+$14,299",,,,,FRST
+134,D,2018-11-20 09:21:46,2018-11-16,SONA,Kabbash Charles A,Dir,P - Purchase,$15.74,1020,74212,+1%,"+$16,059",,,,,FRST
+135,,2018-11-09 15:58:09,2018-11-09,SONA,Culver Jeffrey,"Pres, COO",P - Purchase,$15.45,1000,11000,+10%,"+$15,450",,,,,FRST
+136,A,2018-11-07 15:20:14,2018-09-05,SONA,Culver Jeffrey,"Pres, COO",P - Purchase,$17.52,1000,1000,New,"+$17,520",,,,,FRST
+137,,2018-11-06 13:24:50,2018-11-02,SONA,Clagett Robert Yates,Dir,P - Purchase,$15.15,300,25698,+1%,"+$4,544",,,,,FRST
+138,M,2018-11-06 13:24:05,2018-11-01,SONA,Culver Jeffrey,Pres,P - Purchase,$15.38,1000,10000,+11%,"+$15,375",,,,,FRST
+139,D,2018-11-02 11:15:52,2018-10-30,SONA,Derrico Georgia S,Exec COB,P - Purchase,$15.25,2000,625721,0%,"+$30,500",,,,,FRST
+140,,2018-11-01 14:41:16,2018-10-30,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$15.20,3290,45379,+8%,"+$50,008",,,,,FRST
+141,,2018-11-01 14:38:49,2018-10-30,SONA,Shearin Joe A,CEO,P - Purchase,$15.24,300,64144,0%,"+$4,571",,,,,FRST
+142,,2018-10-05 13:31:59,2018-10-05,SONA,Pennington Joseph Darrell,"SVP, CFO",D - Sale to issuer,$0.00,-4000,0,-100%,-$0,,,,,FRST
+143,,2018-09-06 09:40:01,2018-09-05,SONA,Culver Jeffrey,"Pres, COO",A - Grant,$17.52,1000,9000,+13%,"+$17,520",,,,,FRST
+144,DM,2018-05-31 13:18:48,2018-05-29,SONA,Jennings W. Bruce,Dir,P - Purchase,$17.29,1440,36473,+4%,"+$24,903",,,,,FRST
+145,,2018-05-30 16:48:39,2018-05-29,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$16.98,1470,42089,+4%,"+$24,961",,,,,FRST
+146,,2018-05-16 16:36:46,2018-05-16,SONA,Shearin Joe A,CEO,P - Purchase,$16.70,1491,63844,+2%,"+$24,894",,,,,FRST
+147,,2018-05-16 16:03:33,2018-05-15,SONA,Pennington Joseph Darrell,"SVP, CFO",A - Grant,$0.00,4000,4000,New,+$0,,,,,FRST
+148,D,2018-05-16 16:02:19,2018-05-15,SONA,Lagos William H,EVP,A - Grant,$0.00,1000,41494,+2%,+$0,,,,,FRST
+149,,2018-05-16 16:01:06,2018-05-15,SONA,Culver Jeffrey,"Pres, COO",A - Grant,$0.00,8000,8000,New,+$0,,,,,FRST
+150,,2018-05-09 18:28:06,2018-05-09,SONA,Cook William Rand,Dir,P - Purchase,$17.00,583,15773,+4%,"+$9,910",,,,,FRST
+151,D,2018-05-09 18:27:15,2018-05-09,SONA,Call Neil J,Dir,P - Purchase,$17.02,586,123384,0%,"+$9,974",,,,,FRST
+152,D,2018-05-09 16:59:23,2018-05-07,SONA,Lagos William H,EVP,A - Grant,$0.00,1000,40494,+3%,+$0,,,,,FRST
+153,,2018-05-09 14:49:05,2018-05-07,SONA,Cook William Rand,Dir,P - Purchase,$17.04,881,15190,+6%,"+$15,015",,,,,FRST
+154,D,2018-05-07 16:52:05,2018-05-04,SONA,Call Neil J,Dir,P - Purchase,$16.85,1000,122798,+1%,"+$16,850",,,,,FRST
+155,,2018-05-04 15:28:37,2018-05-04,SONA,Garrett F L III,Dir,P - Purchase,$16.78,575,22762,+3%,"+$9,649",,,,,FRST
+156,D,2018-05-03 18:27:08,2018-05-02,SONA,Kabbash Charles A,Dir,P - Purchase,$16.75,590,109435,+1%,"+$9,882",,,,,FRST
+157,,2018-05-03 13:01:48,2018-05-02,SONA,Garrett F L III,Dir,P - Purchase,$16.44,932,22187,+4%,"+$15,319",,,,,FRST
+158,D,2018-05-02 15:21:18,2018-05-01,SONA,Derrico Georgia S,Exec COB,P - Purchase,$16.08,3100,623721,0%,"+$49,848",,,,,FRST
+159,D,2018-04-10 16:33:30,2018-03-19,SONA,Kabbash Charles A,Dir,P - Purchase,$16.27,1775,108845,+2%,"+$28,879",,,,,FRST
+160,,2018-04-03 19:00:24,2018-04-02,SONA,Shearin Joe A,"Pres, CEO",A - Grant,$0.00,10000,62353,+19%,+$0,,,,,FRST
+161,D,2018-04-03 18:59:54,2018-04-02,SONA,Derrico Georgia S,Exec COB,A - Grant,$0.00,20000,620621,+3%,+$0,,,,,FRST
+162,,2018-03-13 17:59:44,2018-03-13,SONA,Johnson Eric Alan,Dir,P - Purchase,$16.21,615,25373,+2%,"+$9,969",,,,,FRST
+163,,2018-03-13 17:22:44,2018-03-12,SONA,Biagas John Fitzgerald,Dir,P - Purchase,$16.29,613,40619,+2%,"+$9,986",,,,,FRST
+164,D,2018-03-13 17:21:39,2018-03-12,SONA,Kabbash Charles A,Dir,P - Purchase,$9.32,2800,107070,+3%,"+$26,096",,,,,FRST
+165,,2018-03-12 17:12:54,2018-03-08,SONA,Clagett Robert Yates,Dir,P - Purchase,$15.55,1603,25398,+7%,"+$24,930",,,,,FRST
+166,,2018-03-05 16:33:50,2018-03-01,SONA,Johnson Eric Alan,Dir,P - Purchase,$15.86,1000,24758,+4%,"+$15,860",,,,,FRST
+167,D,2018-02-28 14:35:38,2018-02-26,SONA,Derrico Georgia S,COB,P - Purchase,$6.29,32000,600621,+6%,"+$201,200",,,,,FRST
+168,AD,2018-02-01 09:45:30,2017-11-30,SONA,Derrico Georgia S,COB,P - Purchase,$9.20,20000,402124,+5%,"+$184,000",,,,,FRST
+169,D,2018-01-24 09:31:21,2018-01-18,SONA,Stevens William H,EVP,P - Purchase,$9.20,1500,15517,+11%,"+$13,800",,,,,FRST
+170,D,2018-01-16 15:26:29,2018-01-16,SONA,Lagos William H,SVP,P - Purchase,$9.20,3500,39452,+10%,"+$32,200",,,,,FRST
+171,D,2018-01-16 14:58:18,2018-01-11,SONA,Baker Thomas Preston,Chief Credit Officer,P - Purchase,$9.20,2000,29139,+7%,"+$18,400",,,,,FRST
+172,D,2017-12-05 21:03:28,2017-11-30,SONA,Derrico Georgia S,Chairman of the Board,P - Purchase,$9.20,10000,553343,+2%,"+$92,000",,,,,FRST
+173,DM,2017-08-23 11:38:39,2017-08-18,SONA,Derrico Georgia S,Exec. COB,P - Purchase,$15.75,4000,543343,+1%,"+$63,010",,,,,FRST
+174,,2017-08-22 09:49:47,2017-08-18,SONA,Shearin Joe A,Chief Exec Office,P - Purchase,$15.64,200,52293,0%,"+$3,129",,,,,FRST
+175,,2017-06-26 20:55:15,2017-06-23,SONA,Taylor Douglas Robert,"EVP, Chief Risk Officer",A - Grant,$0.00,11384,11384,New,+$0,,,,,FRST
+176,,2017-06-26 20:54:36,2017-06-23,SONA,Thomas James Stanley,EVP,A - Grant,$0.00,11170,11170,New,+$0,,,,,FRST
+177,,2017-06-26 20:52:34,2017-06-23,SONA,Sothen James Adam,CFO,A - Grant,$0.00,12352,12352,New,+$0,,,,,FRST
+178,,2017-06-26 20:51:58,2017-06-23,SONA,Johnson Eric Alan,Dir,A - Grant,$0.00,23760,23760,New,+$0,,,,,FRST
+179,,2017-06-26 20:51:22,2017-06-23,SONA,Garrett F L III,Dir,A - Grant,$0.00,21258,21258,New,+$0,,,,,FRST
+180,,2017-06-26 20:50:50,2017-06-23,SONA,Cook William Rand,Dir,A - Grant,$0.00,14310,14310,New,+$0,,,,,FRST
+181,,2017-06-26 20:50:18,2017-06-23,SONA,Biagas John Fitzgerald,Dir,A - Grant,$0.00,35599,35599,New,+$0,,,,,FRST
+182,,2017-06-26 20:49:37,2017-06-23,SONA,Shearin Joe A,"Pres, CEO",A - Grant,$0.00,52126,52126,New,+$0,,,,,FRST
+183,D,2017-05-16 11:45:27,2017-05-16,SONA,Forch John J,Dir,P - Purchase,$8.08,6800,106012,+7%,"+$54,976",,,,,FRST
+184,D,2017-03-31 11:42:01,2017-03-29,SONA,Bollerer Frederick L,Dir,P - Purchase,$8.56,3800,27746,+16%,"+$32,528",0.0,-1.0,4.0,,FRST
+185,D,2017-03-10 10:51:23,2017-03-09,SONA,Kabbash Charles A,Dir,P - Purchase,$6.24,2000,104270,+2%,"+$12,480",0.0,0.0,1.0,,FRST
+186,D,2017-03-01 11:14:00,2017-02-28,SONA,Forch John J,Dir,P - Purchase,$17.05,1488,50511,+3%,"+$25,365",2.0,-1.0,-2.0,,FRST
+187,D,2017-02-17 13:34:11,2017-02-17,SONA,Kabbash Charles A,Dir,P - Purchase,$16.60,600,102270,+1%,"+$9,960",0.0,1.0,1.0,,FRST
+188,DM,2017-02-14 14:40:58,2017-02-10,SONA,Kabbash Charles A,Dir,P - Purchase,$12.66,1900,101040,+2%,"+$24,050",1.0,2.0,0.0,,FRST
+189,D,2017-02-08 09:56:20,2017-02-07,SONA,Call Neil J,Dir,P - Purchase,$16.30,1100,121798,+1%,"+$17,930",-2.0,2.0,2.0,,FRST
+190,DM,2017-02-03 12:38:33,2017-02-02,SONA,Derrico Georgia S,COB,P - Purchase,$10.20,19600,537832,+4%,"+$199,867",3.0,2.0,6.0,,FRST
+191,DM,2017-02-03 11:12:01,2017-02-02,SONA,Call Neil J,Dir,P - Purchase,$16.24,900,120698,+1%,"+$14,619",3.0,2.0,6.0,,FRST
+192,DM,2017-02-03 10:44:09,2017-02-01,SONA,Bollerer Frederick L,Dir,P - Purchase,$16.15,1556,23946,+7%,"+$25,123",3.0,2.0,6.0,,FRST
+193,DM,2017-02-02 11:58:25,2017-02-01,SONA,Jennings W. Bruce,Dir,P - Purchase,$16.10,3098,35033,+10%,"+$49,892",0.0,1.0,6.0,,FRST
+194,M,2017-02-02 10:52:53,2017-02-01,SONA,Clagett Robert Yates,Dir,P - Purchase,$16.12,1547,23795,+7%,"+$24,939",0.0,1.0,6.0,,FRST
+195,D,2017-01-31 09:34:46,2017-01-25,SONA,Kabbash Charles A,Dir,P - Purchase,$14.73,1100,99140,+1%,"+$16,203",2.0,5.0,11.0,,FRST
+196,D,2017-01-04 14:02:12,2017-01-04,SONA,Kabbash Charles A,Dir,P - Purchase,$9.09,11000,98040,+13%,"+$99,990",1.0,0.0,-2.0,,FRST
+197,D,2016-10-31 14:01:56,2016-10-27,SONA,Call Neil J,Dir,P - Purchase,$8.20,2000,220596,+1%,"+$16,400",0.0,-1.0,13.0,36.0,FRST
+198,D,2016-07-27 09:51:16,2016-07-26,SONA,Call Neil J,Dir,P - Purchase,$9.09,11000,117798,+10%,"+$99,990",2.0,-1.0,0.0,29.0,FRST
+199,D,2016-07-07 09:42:00,2016-07-06,SONA,Kabbash Charles A,Dir,P - Purchase,$7.20,1000,87040,+1%,"+$7,200",-2.0,0.0,3.0,35.0,FRST
+200,D,2016-06-29 09:48:12,2016-06-28,SONA,Call Neil J,Dir,P - Purchase,$11.90,230,106798,0%,"+$2,737",2.0,4.0,9.0,39.0,FRST
+201,DM,2016-06-09 10:02:48,2016-06-07,SONA,Forch John J,Dir,P - Purchase,$11.94,2086,49023,+4%,"+$24,917",1.0,0.0,0.0,29.0,FRST
+202,D,2016-06-03 13:56:45,2016-06-01,SONA,Derrico Georgia S,COB,P - Purchase,$11.89,1000,518232,0%,"+$11,886",-1.0,5.0,3.0,27.0,FRST
+203,D,2016-03-30 09:14:06,2016-03-28,SONA,Call Neil J,Dir,P - Purchase,$12.24,224,106568,0%,"+$2,742",0.0,-2.0,2.0,6.0,FRST
+204,D,2016-03-02 09:43:32,2016-02-29,SONA,Kabbash Charles A,Dir,P - Purchase,$6.27,2000,86040,+2%,"+$12,540",-1.0,-1.0,-6.0,3.0,FRST
+205,D,2016-03-01 13:09:13,2016-02-26,SONA,Call Neil J,Dir,P - Purchase,$12.76,782,198746,0%,"+$9,975",1.0,0.0,-3.0,3.0,FRST
+206,DM,2016-02-26 10:58:32,2016-02-25,SONA,Call Neil J,Dir,P - Purchase,$12.79,1390,197964,+1%,"+$17,776",-1.0,-1.0,-4.0,2.0,FRST
+207,D,2016-02-25 10:39:41,2016-02-24,SONA,Bollerer Frederick L,Dir,P - Purchase,$12.80,1948,22390,+10%,"+$24,939",0.0,-1.0,-5.0,2.0,FRST
+208,M,2016-02-25 10:19:27,2016-02-22,SONA,Clagett Robert Yates,Dir,P - Purchase,$12.66,787,44254,+2%,"+$9,966",0.0,-1.0,-5.0,2.0,FRST
+209,,2016-02-22 13:25:28,2016-02-19,SONA,Clagett Robert Yates,Dir,P - Purchase,$12.50,1205,21461,+6%,"+$15,067",2.0,1.0,-2.0,4.0,FRST
+210,D,2016-02-18 11:06:10,2016-02-16,SONA,Kabbash Charles A,Dir,P - Purchase,$12.59,800,84040,+1%,"+$10,072",-1.0,2.0,0.0,3.0,FRST
+211,D,2016-02-08 15:30:02,2016-02-05,SONA,Kabbash Charles A,Dir,P - Purchase,$12.97,150,83240,0%,"+$1,946",-1.0,-3.0,-3.0,1.0,FRST
+212,D,2016-02-05 15:12:14,2016-02-03,SONA,Kabbash Charles A,Dir,P - Purchase,$12.95,1100,83090,+1%,"+$14,245",-1.0,-6.0,-4.0,-2.0,FRST
+213,D,2016-01-29 11:35:28,2016-01-28,SONA,Derrico Georgia S,COB,P - Purchase,$13.05,3822,520025,+1%,"+$49,878",0.0,1.0,-3.0,1.0,FRST
+214,D,2015-12-31 09:31:18,2015-12-30,SONA,Jennings W. Bruce,Dir,P - Purchase,$13.26,1123,31935,+4%,"+$14,890",-1.0,1.0,-1.0,-6.0,FRST
+215,D,2015-12-29 09:56:31,2015-12-28,SONA,Call Neil J,Dir,P - Purchase,$12.75,215,196574,0%,"+$2,741",2.0,3.0,1.0,-6.0,FRST
+216,D,2015-12-22 09:29:55,2015-12-21,SONA,Bollerer Frederick L,Dir,P - Purchase,$7.00,5000,20442,+32%,"+$34,988",2.0,4.0,1.0,-1.0,FRST
+217,D,2015-12-03 09:57:37,2015-12-02,SONA,Forch John J,Dir,P - Purchase,$7.04,1000,46937,+2%,"+$7,040",0.0,7.0,9.0,-2.0,FRST
+218,D,2015-11-17 13:15:51,2015-11-17,SONA,Lagos William H,SVP,P - Purchase,$9.09,1650,35689,+5%,"+$14,999",1.0,2.0,10.0,5.0,FRST
+219,D,2015-11-09 09:46:00,2015-11-05,SONA,Bollerer Frederick L,Dir,P - Purchase,$11.45,425,15442,+3%,"+$4,866",0.0,2.0,14.0,6.0,FRST
+220,D,2015-11-05 11:18:52,2015-11-04,SONA,Bollerer Frederick L,Dir,P - Purchase,$11.51,860,15017,+6%,"+$9,894",2.0,4.0,10.0,10.0,FRST
+221,D,2015-11-05 10:53:21,2015-11-04,SONA,Baker Thomas Preston,Chief Credit Officer,P - Purchase,$9.09,22000,25622,+607%,"+$199,980",2.0,4.0,10.0,10.0,FRST
+222,D,2015-11-04 09:57:57,2015-11-03,SONA,Call Neil J,Dir,P - Purchase,$7.04,1000,196359,+1%,"+$7,040",0.0,3.0,9.0,10.0,FRST
+223,D,2015-10-09 15:32:09,2015-10-07,SONA,Kabbash Charles A,Dir,P - Purchase,$11.50,900,81990,+1%,"+$10,350",-1.0,2.0,3.0,9.0,FRST
+224,D,2015-10-08 13:04:49,2015-09-29,SONA,Call Neil J,Dir,P - Purchase,$11.10,247,195359,0%,"+$2,742",0.0,0.0,3.0,10.0,FRST
+225,D,2015-08-11 09:16:29,2015-08-07,SONA,Call Neil J,Dir,P - Purchase,$5.50,1000,195112,+1%,"+$5,500",-2.0,-1.0,-1.0,14.0,FRST
+226,D,2015-08-04 12:15:16,2015-07-31,SONA,Kabbash Charles A,Dir,P - Purchase,$11.55,330,41505,+1%,"+$3,812",0.0,1.0,0.0,17.0,FRST
+227,D,2015-08-03 12:25:25,2015-07-30,SONA,Kabbash Charles A,Dir,P - Purchase,$11.55,400,81660,0%,"+$4,620",0.0,2.0,0.0,16.0,FRST
+228,,2015-07-29 13:03:22,2015-07-29,SONA,Clagett Robert Yates,Dir,P - Purchase,$11.63,419,20256,+2%,"+$4,871",0.0,1.0,-2.0,17.0,FRST
+229,,2015-07-29 09:28:36,2015-07-28,SONA,Clagett Robert Yates,Dir,P - Purchase,$11.46,1305,19837,+7%,"+$14,954",0.0,1.0,-2.0,17.0,FRST
+230,D,2015-06-26 10:39:25,2015-06-25,SONA,Call Neil J,Dir,P - Purchase,$11.60,236,194112,0%,"+$2,738",0.0,-2.0,-1.0,16.0,FRST
+231,D,2015-06-23 10:02:35,2015-06-22,SONA,Forch John J,Dir,P - Purchase,$11.50,424,45937,+1%,"+$4,876",0.0,-2.0,-1.0,12.0,FRST
+232,D,2015-06-22 12:47:03,2015-06-19,SONA,Forch John J,Dir,P - Purchase,$11.63,856,45513,+2%,"+$9,955",1.0,0.0,1.0,14.0,FRST
+233,D,2015-05-08 12:33:05,2015-05-07,SONA,Call Neil J,Dir,P - Purchase,$11.95,408,193876,0%,"+$4,877",-1.0,0.0,-2.0,-3.0,FRST
+234,D,2015-05-01 14:36:29,2015-05-01,SONA,Call Neil J,Dir,P - Purchase,$11.75,850,193468,0%,"+$9,985",2.0,4.0,3.0,1.0,FRST
+235,D,2015-05-01 14:09:50,2015-04-29,SONA,Kabbash Charles A,Dir,P - Purchase,$11.50,1025,81260,+1%,"+$11,788",2.0,4.0,3.0,1.0,FRST
+236,D,2015-05-01 13:33:40,2015-04-29,SONA,Stevens William H,Exacutive VP,P - Purchase,$11.50,10000,10679,>999%,"+$115,000",2.0,4.0,3.0,1.0,FRST
+237,D,2015-04-16 14:16:47,2015-04-15,SONA,Stevens William H,EVP,P - Purchase,$9.09,16500,20679,+395%,"+$149,985",-1.0,-2.0,-1.0,-5.0,FRST
+238,D,2015-04-16 13:40:54,2015-04-15,SONA,Lagos William H,SVP,P - Purchase,$9.09,12650,34039,+59%,"+$114,989",-1.0,-2.0,-1.0,-5.0,FRST
+239,D,2015-03-27 14:38:20,2015-03-26,SONA,Derrico Georgia S,COB,P - Purchase,$12.00,814,516204,0%,"+$9,768",0.0,2.0,-3.0,-4.0,FRST
+240,D,2015-03-27 10:32:48,2015-03-26,SONA,Jennings W. Bruce,Dir,P - Purchase,$11.99,207,30812,+1%,"+$2,482",0.0,2.0,-3.0,-4.0,FRST
+241,D,2015-03-27 10:07:54,2015-03-26,SONA,Call Neil J,Dir,P - Purchase,$11.99,457,192618,0%,"+$5,479",0.0,2.0,-3.0,-4.0,FRST
+242,D,2015-03-26 13:06:01,2015-03-25,SONA,Derrico Georgia S,COB,P - Purchase,$12.00,1629,515390,0%,"+$19,548",0.0,0.0,0.0,-3.0,FRST
+243,D,2015-03-26 11:24:07,2015-03-25,SONA,Kabbash Charles A,Dir,P - Purchase,$11.99,657,80235,+1%,"+$7,877",0.0,0.0,0.0,-3.0,FRST
+244,D,2015-03-25 09:33:17,2015-03-23,SONA,Kabbash Charles A,Dir,P - Purchase,$11.98,800,79578,+1%,"+$9,584",0.0,-1.0,-1.0,-4.0,FRST
+245,D,2014-11-05 11:06:28,2014-11-03,SONA,Derrico Georgia S,COB,P - Purchase,$9.09,5500,512010,+1%,"+$49,995",2.0,8.0,4.0,11.0,FRST
+246,D,2014-10-29 13:04:19,2014-10-28,SONA,Kabbash Charles A,Dir,P - Purchase,$11.49,880,39403,+2%,"+$10,111",0.0,-1.0,6.0,5.0,FRST
+247,D,2014-09-30 15:07:30,2014-09-29,SONA,Derrico Georgia S,COB,P - Purchase,$9.09,31300,506510,+7%,"+$284,517",0.0,-1.0,-1.0,7.0,FRST
+248,D,2014-09-29 13:30:56,2014-09-26,SONA,Call Neil J,Dir,P - Purchase,$11.66,234,192161,0%,"+$2,729",0.0,1.0,-2.0,8.0,FRST
+249,D,2014-09-29 12:57:40,2014-09-26,SONA,Jennings W. Bruce,Dir,P - Purchase,$11.63,214,30605,+1%,"+$2,489",0.0,1.0,-2.0,8.0,FRST
+250,D,2014-08-05 16:12:33,2014-08-01,SONA,Derrico Georgia S,COB,P - Purchase,$9.09,23700,369834,+7%,"+$215,433",1.0,0.0,1.0,10.0,FRST
+251,D,2014-06-27 16:36:35,2014-06-27,SONA,Kabbash Charles A,Dir,P - Purchase,$11.08,181,77898,0%,"+$2,006",-5.0,-6.0,-10.0,1.0,FRST
+252,D,2014-06-27 16:03:22,2014-06-27,SONA,Jennings W. Bruce,Dir,P - Purchase,$10.99,444,30391,+1%,"+$4,880",-5.0,-6.0,-10.0,1.0,FRST
+253,D,2014-06-27 15:43:05,2014-06-27,SONA,Jennings W. Bruce,Dir,P - Purchase,$11.09,220,29947,+1%,"+$2,440",7.0,0.0,-4.0,7.0,FRST
+254,D,2014-06-27 15:23:49,2014-06-27,SONA,Call Neil J,Dir,P - Purchase,$11.10,242,191927,0%,"+$2,685",7.0,0.0,-4.0,7.0,FRST
+255,D,2014-06-27 14:48:04,2014-06-25,SONA,Jennings W. Bruce,Dir,P - Purchase,$10.94,910,29727,+3%,"+$9,952",7.0,0.0,-4.0,7.0,FRST
+256,D,2014-06-27 14:29:44,2014-06-25,SONA,Kabbash Charles A,Dir,P - Purchase,$10.91,375,77717,0%,"+$4,091",7.0,0.0,-4.0,7.0,FRST
+257,D,2014-06-03 13:23:23,2014-05-30,SONA,Derrico Georgia S,COB,P - Purchase,$10.40,120,451510,0%,"+$1,248",0.0,1.0,12.0,20.0,FRST
+258,D,2014-05-30 16:00:16,2014-05-28,SONA,Derrico Georgia S,COB,P - Purchase,$10.40,385,451390,0%,"+$4,004",-2.0,0.0,13.0,17.0,FRST
+259,D,2014-05-07 15:13:34,2014-05-06,SONA,Jennings W. Bruce,Dir,P - Purchase,$10.18,244,28817,+1%,"+$2,483",0.0,1.0,4.0,14.0,FRST
+260,D,2014-05-05 15:38:10,2014-05-01,SONA,Kabbash Charles A,Dir,P - Purchase,$10.34,273,77342,0%,"+$2,823",-1.0,0.0,0.0,12.0,FRST
+261,DM,2014-05-05 15:00:01,2014-05-01,SONA,Call Neil J,Dir,P - Purchase,$10.30,875,99455,+1%,"+$9,010",-1.0,0.0,0.0,12.0,FRST
+262,D,2014-05-02 15:06:43,2014-04-30,SONA,Derrico Georgia S,COB,P - Purchase,$10.34,354,451005,0%,"+$3,660",0.0,0.0,0.0,13.0,FRST
+263,D,2014-05-02 12:00:21,2014-05-01,SONA,Forch John J,Dir,P - Purchase,$10.34,472,43657,+1%,"+$4,880",0.0,0.0,0.0,13.0,FRST
+264,D,2014-05-01 13:18:38,2014-04-29,SONA,Kabbash Charles A,Dir,P - Purchase,$10.30,530,77069,+1%,"+$5,459",0.0,-2.0,1.0,12.0,FRST
+265,DM,2014-05-01 12:35:15,2014-04-29,SONA,Call Neil J,Dir,P - Purchase,$10.32,1011,98580,+1%,"+$10,431",0.0,-2.0,1.0,12.0,FRST
+266,D,2014-04-30 18:24:26,2014-04-29,SONA,Derrico Georgia S,COB,P - Purchase,$10.33,1171,450651,0%,"+$12,101",0.0,-2.0,1.0,11.0,FRST
+267,D,2014-04-30 17:08:03,2014-04-29,SONA,Forch John J,Dir,P - Purchase,$10.34,958,43185,+2%,"+$9,906",0.0,-2.0,1.0,11.0,FRST
+268,D,2014-03-31 16:31:59,2014-03-28,SONA,Derrico Georgia S,COB,P - Purchase,$10.16,1104,361104,0%,"+$11,217",-1.0,0.0,1.0,16.0,FRST
+269,D,2014-03-31 13:09:18,2014-03-28,SONA,Kabbash Charles A,Dir,P - Purchase,$10.17,4356,37429,+13%,"+$44,303",0.0,0.0,2.0,16.0,FRST
+270,D,2014-03-31 11:49:02,2014-03-28,SONA,Jennings W. Bruce,Dir,P - Purchase,$10.16,1794,28573,+7%,"+$18,227",0.0,0.0,2.0,16.0,FRST
+271,D,2013-09-18 17:32:38,2013-09-17,SONA,Derrico Georgia S,COB,W - Inherited,$9.60,750,447119,0%,"$7,200",0.0,2.0,-1.0,5.0,FRST
+272,D,2013-06-05 10:51:37,2013-06-04,SONA,Forch John J,Dir,P - Purchase,$9.97,494,42127,+1%,"+$4,925",-1.0,-6.0,-4.0,5.0,FRST
+273,D,2013-05-24 15:48:38,2013-05-22,SONA,Forch John J,Dir,P - Purchase,$9.64,1025,41633,+3%,"+$9,881",6.0,8.0,-4.0,5.0,FRST
+274,DM,2013-05-16 12:48:38,2013-05-14,SONA,Derrico Georgia S,COB,P - Purchase,$10.06,760,446369,0%,"+$7,649",-2.0,-7.0,-6.0,-1.0,FRST
+275,D,2013-03-04 15:54:42,2013-03-01,SONA,Call Neil J,Dir,P - Purchase,$9.90,503,97569,+1%,"+$4,980",-1.0,-2.0,-2.0,2.0,FRST
+276,D,2013-03-04 15:22:13,2013-03-01,SONA,Derrico Georgia S,COB,P - Purchase,$9.91,1006,445609,0%,"+$9,969",-1.0,-2.0,-2.0,2.0,FRST
+277,DM,2013-02-28 12:18:06,2013-02-26,SONA,Derrico Georgia S,COB,P - Purchase,$9.70,2000,357227,+1%,"+$19,401",3.0,8.0,5.0,9.0,FRST
+278,D,2013-02-28 11:10:38,2013-02-26,SONA,Call Neil J,Dir,P - Purchase,$10.00,1000,97066,+1%,"+$10,000",3.0,8.0,5.0,9.0,FRST
+279,D,2013-01-02 20:03:46,2012-12-31,SONA,Forch John J,Dir,S - Sale+OE,$8.00,-2000,40608,-5%,"-$16,000",3.0,8.0,17.0,17.0,FRST
+280,DM,2012-12-21 15:18:11,2012-12-20,SONA,Jennings W. Bruce,Dir,P - Purchase,$8.14,1829,26779,+7%,"+$14,882",1.0,2.0,12.0,15.0,FRST
+281,D,2012-12-05 16:21:20,2012-11-30,SONA,Forch John J,Dir,P - Purchase,$8.19,287,42608,+1%,"+$2,351",-1.0,-1.0,-1.0,20.0,FRST
+282,D,2012-12-03 11:44:03,2012-11-30,SONA,Forch John J,Dir,P - Purchase,$8.14,1000,42321,+2%,"+$8,140",0.0,0.0,-4.0,19.0,FRST
+283,DM,2012-11-28 12:07:43,2012-11-26,SONA,Derrico Georgia S,COB,P - Purchase,$8.14,500,441195,0%,"+$4,070",-1.0,-1.0,0.0,28.0,FRST
+284,D,2012-09-05 14:08:14,2012-09-04,SONA,Derrico Georgia S,COB,P - Purchase,$7.83,4000,354319,+1%,"+$31,320",1.0,-1.0,5.0,30.0,FRST
+285,D,2012-08-24 17:45:57,2012-08-24,SONA,Derrico Georgia S,COB,P - Purchase,$7.80,2400,354070,+1%,"+$18,720",0.0,-1.0,-2.0,19.0,FRST
+286,D,2012-08-15 12:38:53,2012-08-13,SONA,Derrico Georgia S,COB,P - Purchase,$7.47,9900,434295,+2%,"+$73,953",0.0,1.0,3.0,34.0,FRST
+287,D,2012-08-03 17:32:23,2012-08-03,SONA,Derrico Georgia S,COB,P - Purchase,$7.35,2000,424395,0%,"+$14,700",0.0,0.0,7.0,34.0,FRST
+288,DM,2012-08-03 16:04:47,2012-08-02,SONA,Kabbash Charles A,Dir,P - Purchase,$7.49,2009,72183,+3%,"+$15,040",0.0,0.0,7.0,34.0,FRST
+289,D,2012-06-05 16:09:19,2012-06-04,SONA,Call Neil J,Dir,P - Purchase,$7.01,712,96066,+1%,"+$4,991",1.0,1.0,17.0,17.0,FRST
+290,D,2012-06-01 14:34:49,2012-05-30,SONA,Call Neil J,Dir,P - Purchase,$7.00,1500,95354,+2%,"+$10,500",-3.0,-2.0,8.0,18.0,FRST
+291,D,2012-05-23 11:28:30,2012-05-22,SONA,Forch John J,Dir,P - Purchase,$7.12,367,41321,+1%,"+$2,613",-1.0,1.0,-1.0,18.0,FRST
+292,DM,2012-05-17 11:55:35,2012-05-15,SONA,Forch John J,Dir,P - Purchase,$7.00,750,40954,+2%,"+$5,250",-2.0,0.0,-1.0,18.0,FRST
+293,DM,2012-05-14 16:59:23,2012-05-11,SONA,Derrico Georgia S,COB,P - Purchase,$7.07,2800,350870,+1%,"+$19,796",0.0,-4.0,-3.0,16.0,FRST
+294,D,2011-11-02 12:38:38,2011-11-01,SONA,Kabbash Charles A,Dir,P - Purchase,$6.10,1850,70174,+3%,"+$11,285",0.0,1.0,2.0,16.0,FRST
+295,D,2011-06-23 15:50:27,2011-06-22,SONA,Shield Robin R,Dir,P - Purchase,$6.61,875,116847,+1%,"+$5,784",1.0,5.0,5.0,-8.0,FRST
+296,D,2011-04-22 15:01:28,2011-04-20,SONA,Forch John J,Dir,P - Purchase,$7.05,710,40204,+2%,"+$5,006",-1.0,0.0,-3.0,-14.0,FRST
+297,D,2010-11-10 12:34:39,2010-11-08,SONA,Kabbash Charles A,Dir,P - Purchase,$7.50,95,68324,0%,+$713,-1.0,-2.0,3.0,-5.0,FRST
+298,D,2010-11-08 10:28:39,2010-11-04,SONA,Kabbash Charles A,Dir,P - Purchase,$7.98,180,68229,0%,"+$1,436",0.0,-3.0,2.0,-4.0,FRST
+299,D,2010-09-29 16:18:38,2010-09-29,SONA,Kabbash Charles A,Dir,P - Purchase,$7.19,600,68049,+1%,"+$4,316",0.0,1.0,8.0,0.0,FRST
+300,D,2010-09-22 16:45:53,2010-09-21,SONA,Kabbash Charles A,Dir,P - Purchase,$7.03,1225,67449,+2%,"+$8,612",-1.0,-1.0,9.0,2.0,FRST
+301,D,2010-09-13 14:54:10,2010-09-10,SONA,Call Neil J,Dir,P - Purchase,$6.90,2000,93854,+2%,"+$13,800",-1.0,7.0,11.0,5.0,FRST
+302,D,2010-07-27 15:53:46,2010-07-27,SONA,Derrico Georgia S,COB,P - Purchase,$7.00,5000,416881,+1%,"+$35,000",0.0,-1.0,0.0,9.0,FRST
+303,D,2010-06-23 15:20:41,2010-06-22,SONA,Call Neil J,Dir,P - Purchase,$7.71,647,91854,+1%,"+$4,988",2.0,-4.0,-4.0,-4.0,FRST
+304,D,2010-06-21 15:51:03,2010-06-21,SONA,Call Neil J,Dir,P - Purchase,$7.87,1500,91207,+2%,"+$11,805",-6.0,-7.0,-7.0,-5.0,FRST
+305,D,2010-06-21 15:36:38,2010-06-17,SONA,Forch John J,Dir,P - Purchase,$7.98,494,39494,+1%,"+$3,942",-6.0,-7.0,-7.0,-5.0,FRST
+306,D,2010-06-21 15:16:14,2010-06-17,SONA,Bollerer Frederick L,Dir,P - Purchase,$7.98,622,14157,+5%,"+$4,964",-6.0,-7.0,-7.0,-5.0,FRST
+307,AD,2010-06-04 16:32:53,2010-06-03,SONA,Bollerer Frederick L,Dir,P - Purchase,$7.95,1250,13535,+10%,"+$9,938",-3.0,2.0,-12.0,-5.0,FRST
+308,D,2010-06-04 16:07:04,2010-06-03,SONA,Bollerer Frederick L,Dir,P - Purchase,$7.95,1250,25820,+5%,"+$9,938",-3.0,2.0,-12.0,-5.0,FRST
+309,DM,2010-06-04 09:51:11,2010-06-02,SONA,Forch John J,Dir,P - Purchase,$7.90,1000,72000,+1%,"+$7,900",-1.0,0.0,-13.0,-6.0,FRST
+310,D,2009-12-11 17:16:54,2009-12-11,SONA,Forch John J,Dir,S - Sale+OE,$7.00,-2284,38000,-6%,"-$15,988",3.0,3.0,17.0,14.0,FRST
+311,D,2009-11-03 16:33:34,2009-10-30,SONA,Kabbash Charles A,Dir,P - Purchase,$6.00,8366,66224,+14%,"+$50,196",4.0,1.0,0.0,34.0,FRST
+312,D,2009-11-03 16:13:51,2009-10-30,SONA,Call Neil J,Dir,P - Purchase,$6.00,7000,89707,+8%,"+$42,000",4.0,1.0,0.0,34.0,FRST
+313,D,2009-11-03 15:39:11,2009-10-30,SONA,Derrico Georgia S,COB,P - Purchase,$6.00,60000,407870,+17%,"+$360,000",-1.0,0.0,-1.0,33.0,FRST
+314,D,2009-05-06 16:33:29,2009-05-04,SONA,Derrico Georgia S,COB,P - Purchase,$7.00,525,347870,0%,"+$3,675",-2.0,-1.0,13.0,-18.0,FRST
+315,D,2009-03-24 12:05:00,2009-03-20,SONA,Forch John J,Dir,P - Purchase,$5.00,7284,40284,+22%,"+$36,420",20.0,30.0,30.0,45.0,FRST
+316,D,2009-03-19 16:47:50,2009-03-18,SONA,Derrico Georgia S,COB,P - Purchase,$4.84,500,347345,0%,"+$2,421",2.0,22.0,22.0,50.0,FRST
+317,DM,2009-03-10 18:49:46,2009-03-06,SONA,Derrico Georgia S,Chariman of the Board,P - Purchase,$4.39,800,346845,0%,"+$3,509",10.0,1.0,37.0,71.0,FRST
+318,D,2009-02-20 13:34:46,2009-02-20,SONA,Kabbash Charles A,Dir,P - Purchase,$4.75,100,57858,0%,+$475,-1.0,-11.0,5.0,51.0,FRST
+319,D,2009-02-20 10:45:15,2009-02-19,SONA,Kabbash Charles A,Dir,P - Purchase,$4.75,3400,57758,+6%,"+$16,150",-1.0,-11.0,5.0,51.0,FRST
+320,D,2009-02-12 15:34:41,2009-02-11,SONA,Call Neil J,Dir,P - Purchase,$4.85,1000,82707,+1%,"+$4,850",0.0,-5.0,-6.0,43.0,FRST
+321,DM,2009-02-02 16:44:14,2009-01-30,SONA,Porter R Roderick,Pres,P - Purchase,$5.20,1000,275920,0%,"+$5,199",-10.0,-3.0,-22.0,54.0,FRST
+322,DM,2009-02-02 16:29:28,2009-01-30,SONA,Derrico Georgia S,COB,P - Purchase,$5.20,1000,316575,0%,"+$5,199",-10.0,-3.0,-22.0,54.0,FRST
+323,D,2008-12-29 17:09:46,2008-12-26,SONA,Call Neil J,Dir,P - Purchase,$5.60,1000,81707,+1%,"+$5,600",-2.0,6.0,2.0,42.0,FRST
+324,D,2008-12-08 16:01:24,2008-12-08,SONA,Porter R Roderick,Pres,P - Purchase,$5.75,1000,274920,0%,"+$5,750",0.0,4.0,5.0,40.0,FRST
+325,D,2008-12-08 15:51:05,2008-12-08,SONA,Derrico Georgia S,COB,P - Purchase,$5.75,1000,315575,0%,"+$5,750",0.0,4.0,5.0,40.0,FRST
+326,DM,2008-12-04 17:36:47,2008-12-01,SONA,Call Neil J,Dir,P - Purchase,$6.25,2000,80707,+3%,"+$12,500",0.0,0.0,-1.0,41.0,FRST
+327,D,2008-11-24 13:25:27,2008-11-21,SONA,Kabbash Charles A,Dir,P - Purchase,$6.00,500,54361,+1%,"+$3,000",0.0,2.0,-8.0,42.0,FRST
+328,DM,2008-11-21 12:46:30,2008-11-20,SONA,Kabbash Charles A,Dir,P - Purchase,$6.00,8050,53861,+18%,"+$48,300",0.0,-4.0,0.0,42.0,FRST
+329,D,2008-11-19 14:33:35,2008-11-19,SONA,Porter R Roderick,Pres,P - Purchase,$6.25,1000,273920,0%,"+$6,250",-8.0,-8.0,4.0,26.0,FRST
+330,D,2008-11-19 14:25:24,2008-11-19,SONA,Derrico Georgia S,COB,P - Purchase,$6.25,1000,314575,0%,"+$6,250",-8.0,-8.0,4.0,26.0,FRST
+331,D,2008-11-14 12:54:39,2008-11-13,SONA,Porter R Roderick,Pres,P - Purchase,$6.50,700,272920,0%,"+$4,550",-8.0,-8.0,-9.0,33.0,FRST
+332,D,2008-11-14 12:33:42,2008-11-13,SONA,Derrico Georgia S,COB,P - Purchase,$6.50,700,313575,0%,"+$4,550",-8.0,-8.0,-9.0,33.0,FRST
+333,D,2008-11-12 12:47:37,2008-11-10,SONA,Call Neil J,Dir,P - Purchase,$6.75,850,78707,+1%,"+$5,738",2.0,-4.0,-11.0,21.0,FRST
+334,DM,2008-11-06 10:05:11,2008-10-30,SONA,Porter R Roderick,Pres,P - Purchase,$6.56,1300,272220,0%,"+$8,534",-4.0,-6.0,-18.0,0.0,FRST
+335,AD,2008-11-06 09:53:07,2008-10-30,SONA,Derrico Georgia S,COB,P - Purchase,$6.59,1000,312575,0%,"+$6,594",-4.0,-6.0,-18.0,0.0,FRST
+336,D,2008-11-05 10:57:13,2008-11-04,SONA,Derrico Georgia S,COB,P - Purchase,$6.47,300,312875,0%,"+$1,940",14.0,5.0,-7.0,14.0,FRST
+337,D,2008-10-31 12:50:59,2008-10-30,SONA,Call Neil J,Dir,P - Purchase,$6.25,3000,152814,+2%,"+$18,749",0.0,10.0,-4.0,9.0,FRST
+338,D,2008-10-30 18:07:23,2008-10-30,SONA,Derrico Georgia S,COB,P - Purchase,$7.40,1000,554320,0%,"+$7,395",0.0,14.0,-10.0,6.0,FRST
+339,D,2008-08-05 15:11:30,2008-07-25,SONA,Porter R Roderick,Pres,P - Purchase,$7.55,1000,270920,0%,"+$7,550",1.0,1.0,7.0,-39.0,FRST
+340,D,2008-07-31 19:07:04,2008-07-30,SONA,Shield Robin R,Dir,P - Purchase,$7.25,1400,115972,+1%,"+$10,150",1.0,3.0,10.0,-23.0,FRST
+341,D,2008-07-31 18:53:39,2008-07-30,SONA,Call Neil J,Dir,P - Purchase,$7.30,1000,74857,+1%,"+$7,300",1.0,3.0,10.0,-23.0,FRST
+342,D,2008-07-23 13:55:27,2008-07-23,SONA,Porter R Roderick,Pres,P - Purchase,$7.60,1000,269920,0%,"+$7,600",2.0,3.0,10.0,-21.0,FRST
+343,D,2008-07-23 06:57:33,2008-07-22,SONA,Porter R Roderick,Pres,P - Purchase,$7.50,1000,268920,0%,"+$7,500",2.0,3.0,10.0,-21.0,FRST
+344,D,2008-05-19 14:02:16,2008-05-14,SONA,Shield Robin R,Dir,P - Purchase,$8.62,1507,152730,+1%,"+$12,997",-1.0,-2.0,-6.0,-25.0,FRST
+345,D,2008-05-02 14:13:29,2008-05-01,SONA,Shield Robin R,Dir,P - Purchase,$8.30,1500,113065,+1%,"+$12,450",2.0,9.0,8.0,-22.0,FRST
+346,D,2008-04-29 12:00:11,2008-04-28,SONA,Shield Robin R,Dir,P - Purchase,$8.40,3000,111565,+3%,"+$25,200",-1.0,8.0,8.0,-26.0,FRST
+347,D,2008-04-28 11:46:06,2008-04-25,SONA,Shield Robin R,Dir,P - Purchase,$8.40,5600,108565,+5%,"+$47,040",0.0,1.0,8.0,-26.0,FRST
+348,D,2008-04-23 09:51:36,2008-04-22,SONA,Derrico Georgia S,COB,P - Purchase,$8.40,1000,311575,0%,"+$8,400",0.0,1.0,11.0,-19.0,FRST
+349,D,2008-03-17 11:20:25,2008-03-14,SONA,Derrico Georgia S,COB,P - Purchase,$9.37,600,310575,0%,"+$5,622",0.0,-1.0,-13.0,-15.0,FRST
+350,D,2008-03-04 11:02:25,2008-03-03,SONA,Derrico Georgia S,COB,P - Purchase,$10.00,1000,309974,0%,"+$10,000",-1.0,-1.0,-11.0,-19.0,FRST
+351,D,2008-02-20 11:11:22,2008-02-20,SONA,Derrico Georgia S,COB,P - Purchase,$10.10,1000,308974,0%,"+$10,100",-1.0,-4.0,-11.0,-21.0,FRST
+352,D,2008-02-19 12:17:35,2008-01-30,SONA,Bollerer Frederick L,Dir,P - Purchase,$10.69,500,12285,+4%,"+$5,345",0.0,0.0,-9.0,-22.0,FRST
+353,D,2008-02-13 13:02:04,2008-02-12,SONA,Shield Robin R,Dir,P - Purchase,$10.25,2000,102965,+2%,"+$20,500",0.0,-1.0,-7.0,-23.0,FRST
+354,DM,2008-02-04 11:20:41,2008-01-31,SONA,Shield Robin R,Dir,P - Purchase,$10.50,1893,100965,+2%,"+$19,877",0.0,0.0,-5.0,-29.0,FRST
+355,D,2008-01-30 10:53:42,2008-01-29,SONA,Derrico Georgia S,COB,P - Purchase,$10.10,1000,307974,0%,"+$10,100",7.0,1.0,0.0,-23.0,FRST
+356,D,2007-11-27 11:07:25,2007-11-26,SONA,Derrico Georgia S,COB,P - Purchase,$10.70,500,306974,0%,"+$5,350",0.0,4.0,-8.0,-13.0,FRST
+357,D,2007-11-15 10:16:29,2007-11-14,SONA,Shield Robin R,Dir,P - Purchase,$12.32,4000,99072,+4%,"+$49,280",0.0,2.0,-16.0,-28.0,FRST
+358,DM,2007-11-02 09:51:13,2007-10-31,SONA,Derrico Georgia S,COB,P - Purchase,$12.10,400,306474,0%,"+$4,840",3.0,-2.0,-8.0,-24.0,FRST
+359,D,2007-08-24 10:40:24,2007-08-22,SONA,Derrico Georgia S,COB,P - Purchase,$12.17,400,306074,0%,"+$4,868",0.0,0.0,0.0,-19.0,FRST
+360,AD,2007-07-31 13:55:45,2007-07-30,SONA,Porter R Roderick,Pres,P - Purchase,$13.13,900,267920,0%,"+$11,818",2.0,-3.0,-4.0,-23.0,FRST
+361,D,2007-07-31 11:52:53,2007-07-30,SONA,Porter R Roderick,Pres,P - Purchase,$13.13,11818,278838,+4%,"+$155,184",2.0,-3.0,-4.0,-23.0,FRST
+362,D,2007-05-21 15:38:31,2007-05-18,SONA,Gaffney Michael A,Dir,A - Grant,$0.00,6996,76953,+10%,+$0,0.0,0.0,-5.0,-17.0,FRST
+363,D,2007-05-21 15:01:39,2007-05-18,SONA,Forch John J,Dir,A - Grant,$0.00,3000,33000,+10%,+$0,0.0,0.0,-5.0,-17.0,FRST
+364,D,2007-05-21 14:47:28,2007-05-18,SONA,Kabbash Charles A,Dir,A - Grant,$0.00,4165,45811,+10%,+$0,0.0,0.0,-5.0,-17.0,FRST
+365,D,2007-05-21 14:35:36,2007-05-18,SONA,Porter R Roderick,Pres,A - Grant,$0.00,24275,267020,+10%,+$0,0.0,0.0,-5.0,-17.0,FRST
+366,D,2007-05-21 14:35:36,2007-02-14,SONA,Porter R Roderick,Pres,P - Purchase,$16.00,245,267020,0%,"+$3,920",0.0,0.0,-5.0,-17.0,FRST
+367,D,2007-05-21 13:47:18,2007-05-18,SONA,Shield Robin R,Dir,A - Grant,$0.00,8643,95072,+10%,+$0,0.0,0.0,-5.0,-17.0,FRST
+368,D,2007-05-21 13:38:57,2007-05-18,SONA,Call Neil J,Dir,A - Grant,$0.00,6714,73857,+10%,+$0,0.0,0.0,-5.0,-17.0,FRST
+369,D,2007-05-21 13:29:23,2007-05-18,SONA,Lagos William H,SVP,A - Grant,$0.00,1714,18857,+10%,+$0,0.0,0.0,-5.0,-17.0,FRST
+370,D,2007-05-21 13:22:15,2007-05-18,SONA,Stevens William H,EVP,A - Grant,$0.00,414,4556,+10%,+$0,0.0,0.0,-5.0,-17.0,FRST
+371,D,2007-05-21 13:13:03,2007-05-18,SONA,Derrico Georgia S,COB,A - Grant,$0.00,27789,305674,+10%,+$0,0.0,0.0,-5.0,-17.0,FRST
+372,DM,2007-04-24 14:21:46,2007-04-24,SONA,Gaffney Michael A,Dir,P - Purchase,$15.87,3100,69957,+5%,"+$49,199",0.0,3.0,1.0,-13.0,FRST
+373,D,2007-04-24 13:10:49,2007-04-23,SONA,Kabbash Charles A,Dir,P - Purchase,$16.04,288,41646,+1%,"+$4,620",0.0,3.0,1.0,-13.0,FRST
+374,D,2007-03-16 14:23:06,2007-02-14,SONA,Derrico Georgia S,"Chariman, CEO",P - Purchase,$16.00,885,277885,0%,"+$14,160",-2.0,-2.0,-1.0,-13.0,FRST
+375,AD,2007-03-14 15:49:15,2006-11-06,SONA,Kabbash Charles A,Dir,P - Purchase,$14.00,17358,41358,+72%,"+$243,012",0.0,-1.0,-1.0,-13.0,FRST
+376,A,2007-03-14 15:02:33,2006-11-06,SONA,Shield Robin R,Dir,P - Purchase,$14.00,36429,86429,+73%,"+$510,006",0.0,-1.0,-1.0,-13.0,FRST
+377,,2006-11-06 16:01:38,2006-11-06,SONA,Call Neil J,Dir,P - Purchase,$14.00,7143,67143,+12%,"+$100,002",1.0,-1.0,0.0,-4.0,FRST
+378,,2006-11-06 16:00:58,2006-11-06,SONA,Derrico Georgia S,"COB, CEO",P - Purchase,$14.00,100000,300000,+50%,"+$1,400,000",1.0,-1.0,0.0,-4.0,FRST
+379,,2006-11-06 16:00:10,2006-11-06,SONA,Forch John J,Dir,P - Purchase,$14.00,10000,30000,+50%,"+$140,000",1.0,-1.0,0.0,-4.0,FRST
+380,,2006-11-06 15:59:22,2006-11-06,SONA,Gaffney Michael A,Dir,P - Purchase,$14.00,37857,66857,+131%,"+$529,998",6.0,5.0,5.0,2.0,FRST
+381,,2006-11-06 15:58:42,2006-11-06,SONA,Kabbash Charles A,Dir,P - Purchase,$14.00,17358,120073,+17%,"+$243,012",6.0,5.0,5.0,2.0,FRST
+382,,2006-11-06 15:57:56,2006-11-06,SONA,Lagos William H,10%,P - Purchase,$14.00,7143,17143,+71%,"+$100,002",6.0,5.0,5.0,2.0,FRST
+383,,2006-11-06 15:57:16,2006-11-06,SONA,Porter R Roderick,Pres,P - Purchase,$14.00,100000,300000,+50%,"+$1,400,000",6.0,5.0,5.0,2.0,FRST
+384,,2006-11-06 15:56:29,2006-11-06,SONA,Shield Robin R,Dir,P - Purchase,$14.00,36429,71429,+104%,"+$510,006",6.0,5.0,5.0,2.0,FRST
+385,,2006-11-06 15:55:41,2006-11-06,SONA,Stevens William H,See Footnote (1),P - Purchase,$14.00,4142,4142,New,"+$57,988",6.0,5.0,5.0,2.0,FRST

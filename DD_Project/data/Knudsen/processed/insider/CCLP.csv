@@ -1,15 +1,437 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2021-12-15 19:34:14,2021-12-09,CCLP,Gill Stephen R.,Dir,P - Purchase,1.2,98100,200612,+96%,117691.0,,,,,CCLP
-1,,2021-12-10 19:43:34,2021-12-08,CCLP,Gill Stephen R.,Dir,P - Purchase,1.2,1900,102512,+2%,2280.0,,,,,CCLP
-2,,2021-06-08 16:33:26,2021-06-04,CCLP,Byers Jonathan W.,CFO,P - Purchase,1.85,31130,490314,+7%,57591.0,,,,,CCLP
-3,,2021-05-27 16:45:22,2021-05-26,CCLP,Price Robert Wesley,COO,P - Purchase,1.55,25000,484184,+5%,38750.0,,,,,CCLP
-4,M,2021-05-27 16:44:54,2021-05-25,CCLP,Jackson John Earl,CEO,P - Purchase,1.52,50000,509184,+11%,75835.0,,,,,CCLP
-5,,2021-05-26 16:38:32,2021-05-25,CCLP,Gill Stephen R.,Dir,P - Purchase,1.52,70000,100612,+229%,106463.0,,,,,CCLP
-6,,2021-05-26 16:37:28,2021-05-25,CCLP,Gardner Ted A,Dir,P - Purchase,1.55,65000,95612,+212%,100744.0,,,,,CCLP
-7,M,2020-08-20 16:17:52,2020-08-19,CCLP,Larson James R,Dir,P - Purchase,1.18,50000,123457,+68%,59037.0,,,,,CCLP
-8,,2020-06-24 16:30:09,2020-06-23,CCLP,Moscoso Michael E,"VP, Finance",P - Purchase,0.85,5000,55698,+10%,4250.0,,,,,CCLP
-9,,2018-12-28 16:35:38,2018-12-27,CCLP,Serjeant Owen,Pres,P - Purchase,2.14,22700,165168,+16%,48578.0,,,,,CCLP
-10,,2018-12-28 16:34:39,2018-12-28,CCLP,Liddle Christopher,VP Manufacturing,P - Purchase,2.28,34403,34403,New,78439.0,,,,,CCLP
-11,,2018-12-28 16:33:45,2018-12-28,CCLP,Luna Miguel A,VP,P - Purchase,2.2,11500,29144,+65%,25300.0,,,,,CCLP
-12,,2018-12-28 16:33:22,2018-12-28,CCLP,Moscoso Michael E,"VP, Finance",P - Purchase,2.28,4000,11701,+52%,9100.0,,,,,CCLP
-13,,2018-12-27 16:27:39,2018-12-27,CCLP,McNiven Roy,VP of Operations,P - Purchase,2.3,4350,23768,+22%,10005.0,,,,,CCLP
+0,,2022-02-23 19:17:36,2022-02-19,CCLP,Jackson John Earl,CEO,A - Grant,0.0,4312,861211,+1%,0.0,,,,,CCLP
+1,,2022-02-23 19:17:36,2022-02-19,CCLP,Jackson John Earl,CEO,F - Tax,1.42,-43700,861211,-5%,-62054.0,,,,,CCLP
+2,M,2022-02-23 19:17:24,2022-02-19,CCLP,Pitcock Matthew B,VP North America Sales,A - Grant,0.0,1347,128867,+1%,0.0,,,,,CCLP
+3,M,2022-02-23 19:17:24,2022-02-19,CCLP,Pitcock Matthew B,VP North America Sales,F - Tax,1.41,-398,128867,0%,-560.0,,,,,CCLP
+4,,2022-02-23 19:17:19,2022-02-19,CCLP,Larson James R,Dir,A - Grant,0.0,863,204387,0%,0.0,,,,,CCLP
+5,M,2022-02-23 19:17:16,2022-02-19,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.0,1194,145660,+1%,0.0,,,,,CCLP
+6,M,2022-02-23 19:17:16,2022-02-19,CCLP,Moscoso Michael E,"VP, Finance",F - Tax,1.41,-6901,145660,-5%,-9731.0,,,,,CCLP
+7,,2022-02-23 19:16:57,2022-02-19,CCLP,Price Robert Wesley,COO,A - Grant,0.0,4312,592944,+1%,0.0,,,,,CCLP
+8,,2022-02-23 19:16:57,2022-02-19,CCLP,Price Robert Wesley,COO,F - Tax,1.42,-43700,592944,-7%,-62054.0,,,,,CCLP
+9,,2022-02-23 19:16:48,2022-02-19,CCLP,Gill Stephen R.,Dir,A - Grant,0.0,863,244640,0%,0.0,,,,,CCLP
+10,,2022-02-23 19:16:44,2022-02-19,CCLP,Byers Jonathan W.,CFO,A - Grant,0.0,4312,752607,+1%,0.0,,,,,CCLP
+11,,2022-02-23 19:16:44,2022-02-19,CCLP,Byers Jonathan W.,CFO,F - Tax,1.42,-1278,752607,0%,-1815.0,,,,,CCLP
+12,,2022-02-23 19:16:30,2022-02-19,CCLP,Gardner Ted A,Dir,A - Grant,0.0,863,1250751,0%,0.0,,,,,CCLP
+13,,2022-02-23 19:16:05,2022-02-19,CCLP,Essenberg Denise,Dir,A - Grant,0.0,863,74640,+1%,0.0,,,,,CCLP
+14,,2022-02-09 19:17:04,2022-02-07,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.0,35971,151367,+31%,0.0,,,,,CCLP
+15,,2022-02-09 19:16:56,2022-02-07,CCLP,Pitcock Matthew B,VP North America Sales,A - Grant,0.0,35971,127918,+39%,0.0,,,,,CCLP
+16,,2022-02-09 19:15:56,2022-02-07,CCLP,Larson James R,Dir,A - Grant,0.0,43165,203524,+27%,0.0,,,,,CCLP
+17,,2022-02-09 18:34:10,2022-02-07,CCLP,Essenberg Denise,Dir,A - Grant,0.0,43165,73777,+141%,0.0,,,,,CCLP
+18,,2022-02-09 18:33:59,2022-02-07,CCLP,Gardner Ted A,Dir,A - Grant,0.0,43165,1249888,+4%,0.0,,,,,CCLP
+19,,2022-02-09 18:33:47,2022-02-07,CCLP,Anchondo Derek J,Assistant GC,A - Grant,0.0,35971,35971,New,0.0,,,,,CCLP
+20,,2022-02-09 18:33:17,2022-02-07,CCLP,Gill Stephen R.,Dir,A - Grant,0.0,43165,243777,+22%,0.0,,,,,CCLP
+21,,2022-02-07 19:56:09,2022-02-03,CCLP,McNiven Roy,"SVP, Operations",A - Grant,0.0,4423,168511,+3%,0.0,,,,,CCLP
+22,,2022-02-07 19:56:09,2022-02-03,CCLP,McNiven Roy,"SVP, Operations",F - Tax,1.41,-1076,168511,-1%,-1517.0,,,,,CCLP
+23,,2021-12-15 19:34:14,2021-12-09,CCLP,Gill Stephen R.,Dir,P - Purchase,1.2,98100,200612,+96%,117691.0,,,,,CCLP
+24,,2021-12-10 19:43:34,2021-12-08,CCLP,Gill Stephen R.,Dir,P - Purchase,1.2,1900,102512,+2%,2280.0,,,,,CCLP
+25,,2021-11-22 18:29:07,2021-11-18,CCLP,Spartan Energy Partners LP,10%,A - Grant,1.35,1509436,63824877,+2%,2037739.0,,,,,CCLP
+26,,2021-11-22 18:15:44,2021-11-18,CCLP,Jackson John Earl,CEO,A - Grant,1.35,226415,900599,+34%,305660.0,,,,,CCLP
+27,,2021-11-15 15:36:18,2021-11-10,CCLP,Gardner Ted A,Dir,A - Grant,1.35,1111111,1206723,>999%,1500000.0,,,,,CCLP
+28,,2021-11-12 06:25:48,2021-11-10,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,1.35,37037,115396,+47%,50000.0,,,,,CCLP
+29,,2021-11-12 06:23:51,2021-11-10,CCLP,Jackson John Earl,CEO,A - Grant,1.35,165000,674184,+32%,222750.0,,,,,CCLP
+30,,2021-11-12 06:23:39,2021-11-10,CCLP,Byers Jonathan W.,CFO,A - Grant,1.35,259259,749573,+53%,350000.0,,,,,CCLP
+31,,2021-11-12 06:23:28,2021-11-10,CCLP,Price Robert Wesley,COO,A - Grant,1.35,148148,632332,+31%,200000.0,,,,,CCLP
+32,,2021-10-05 16:56:33,2021-10-01,CCLP,McNiven Roy,"SVP, Operations",A - Grant,0.0,1076,165164,+1%,0.0,,,,,CCLP
+33,,2021-10-05 16:56:33,2021-10-01,CCLP,McNiven Roy,"SVP, Operations",F - Tax,1.79,-262,165164,0%,-469.0,,,,,CCLP
+34,,2021-06-08 16:33:26,2021-06-04,CCLP,Byers Jonathan W.,CFO,P - Purchase,1.85,31130,490314,+7%,57591.0,,,,,CCLP
+35,,2021-05-27 16:45:22,2021-05-26,CCLP,Price Robert Wesley,COO,P - Purchase,1.55,25000,484184,+5%,38750.0,,,,,CCLP
+36,M,2021-05-27 16:44:54,2021-05-25,CCLP,Jackson John Earl,CEO,P - Purchase,1.52,50000,509184,+11%,75835.0,,,,,CCLP
+37,,2021-05-26 16:38:32,2021-05-25,CCLP,Gill Stephen R.,Dir,P - Purchase,1.52,70000,100612,+229%,106463.0,,,,,CCLP
+38,,2021-05-26 16:37:28,2021-05-25,CCLP,Gardner Ted A,Dir,P - Purchase,1.55,65000,95612,+212%,100744.0,,,,,CCLP
+39,,2021-05-06 17:10:02,2021-05-05,CCLP,Larson James R,Dir,A - Grant,0.0,6290,160359,+4%,0.0,,,,,CCLP
+40,,2021-02-26 17:03:08,2021-02-24,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.0,683,80064,+1%,0.0,,,,,CCLP
+41,,2021-02-26 17:03:08,2021-02-24,CCLP,Moscoso Michael E,"VP, Finance",F - Tax,2.03,-659,80064,-1%,-1338.0,,,,,CCLP
+42,M,2021-02-23 16:45:35,2021-02-21,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.0,406,80040,+1%,0.0,,,,,CCLP
+43,M,2021-02-23 16:45:35,2021-02-21,CCLP,Moscoso Michael E,"VP, Finance",F - Tax,1.96,-1574,80040,-2%,-3085.0,,,,,CCLP
+44,M,2021-02-23 16:45:06,2021-02-21,CCLP,Pitcock Matthew B,VP North America Sales,A - Grant,0.0,1354,91947,+1%,0.0,,,,,CCLP
+45,M,2021-02-23 16:45:06,2021-02-21,CCLP,Pitcock Matthew B,VP North America Sales,F - Tax,1.97,-316,91947,0%,-622.0,,,,,CCLP
+46,M,2021-02-23 16:44:39,2021-02-21,CCLP,McNiven Roy,"SVP, Operations",A - Grant,0.0,749,164350,0%,0.0,,,,,CCLP
+47,M,2021-02-23 16:44:39,2021-02-21,CCLP,McNiven Roy,"SVP, Operations",F - Tax,1.96,-182,164350,0%,-358.0,,,,,CCLP
+48,,2021-02-22 16:55:07,2021-02-19,CCLP,Gardner Ted A,Dir,A - Grant,0.0,30612,30612,New,0.0,,,,,CCLP
+49,,2021-02-22 16:48:27,2021-02-19,CCLP,Essenberg Denise,Dir,A - Grant,0.0,30612,30612,New,0.0,,,,,CCLP
+50,,2021-02-22 16:48:26,2021-02-19,CCLP,Pitcock Matthew B,VP North America Sales,A - Grant,0.0,25510,90679,+39%,0.0,,,,,CCLP
+51,,2021-02-22 16:48:19,2021-02-19,CCLP,Larson James R,Dir,A - Grant,0.0,30612,154069,+25%,0.0,,,,,CCLP
+52,,2021-02-22 16:48:16,2021-02-19,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.0,25510,81208,+46%,0.0,,,,,CCLP
+53,,2021-02-22 16:48:06,2021-02-19,CCLP,McNiven Roy,"SVP, Operations",A - Grant,0.0,56250,163783,+52%,0.0,,,,,CCLP
+54,,2021-02-22 16:47:59,2021-02-19,CCLP,Gill Stephen R.,Dir,A - Grant,0.0,30612,30612,New,0.0,,,,,CCLP
+55,,2021-02-22 16:47:12,2021-02-19,CCLP,Price Robert Wesley,COO,A - Grant,0.0,459184,459184,New,0.0,,,,,CCLP
+56,,2021-02-22 16:46:03,2021-02-19,CCLP,Jackson John Earl,CEO,A - Grant,0.0,459184,459184,New,0.0,,,,,CCLP
+57,,2021-02-22 16:45:56,2021-02-19,CCLP,Byers Jonathan W.,CFO,A - Grant,0.0,459184,459184,New,0.0,,,,,CCLP
+58,,2021-01-29 16:18:50,2021-01-27,CCLP,Mucha Jacek M,Treasurer,A - Grant,0.0,556,16412,+4%,0.0,,,,,CCLP
+59,,2021-01-29 16:18:50,2021-01-27,CCLP,Mucha Jacek M,Treasurer,F - Tax,1.23,-6916,16412,-30%,-8507.0,,,,,CCLP
+60,,2021-01-29 16:10:07,2021-01-27,CCLP,Serrano Elijio V,SVP & CFO of TETRA (TTI),A - Grant,0.0,2482,82045,+3%,0.0,,,,,CCLP
+61,,2021-01-29 16:10:07,2021-01-27,CCLP,Serrano Elijio V,SVP & CFO of TETRA (TTI),F - Tax,1.23,-30228,82045,-27%,-37180.0,,,,,CCLP
+62,,2021-01-29 16:09:54,2021-01-27,CCLP,Murphy Brady M,Pres,A - Grant,0.0,6263,195121,+3%,0.0,,,,,CCLP
+63,,2021-01-29 16:09:54,2021-01-27,CCLP,Murphy Brady M,Pres,F - Tax,1.23,-67925,195121,-26%,-83548.0,,,,,CCLP
+64,,2021-01-29 16:07:31,2021-01-27,CCLP,Moeller Timothy C,"VP Supply Chain, TETRA",A - Grant,0.0,591,17458,+4%,0.0,,,,,CCLP
+65,,2021-01-29 16:07:31,2021-01-27,CCLP,Moeller Timothy C,"VP Supply Chain, TETRA",F - Tax,1.23,-7358,17458,-30%,-9050.0,,,,,CCLP
+66,,2020-10-02 16:40:39,2020-10-01,CCLP,McNiven Roy,"SVP, Operations",A - Grant,0.0,1939,107533,+2%,0.0,,,,,CCLP
+67,,2020-10-02 16:40:39,2020-10-01,CCLP,McNiven Roy,"SVP, Operations",F - Tax,0.86,-472,107533,0%,-406.0,,,,,CCLP
+68,M,2020-08-20 16:17:52,2020-08-19,CCLP,Larson James R,Dir,P - Purchase,1.18,50000,123457,+68%,59037.0,,,,,CCLP
+69,,2020-06-24 16:30:09,2020-06-23,CCLP,Moscoso Michael E,"VP, Finance",P - Purchase,0.85,5000,55698,+10%,4250.0,,,,,CCLP
+70,,2020-05-04 17:27:46,2020-05-03,CCLP,Sullivan William D,Dir,A - Grant,0.0,544,77449,+1%,0.0,,,,,CCLP
+71,,2020-05-04 17:27:24,2020-05-03,CCLP,Larson James R,Dir,A - Grant,0.0,635,73457,+1%,0.0,,,,,CCLP
+72,,2020-05-04 17:26:54,2020-05-03,CCLP,Harrison D Frank,Dir,A - Grant,0.0,590,64871,+1%,0.0,,,,,CCLP
+73,,2020-05-04 17:26:28,2020-05-03,CCLP,Coombs Paul D,Dir,A - Grant,0.0,544,62680,+1%,0.0,,,,,CCLP
+74,,2020-02-25 19:39:09,2020-02-22,CCLP,Evans Elisabeth K,"VP HR, TETRA",A - Grant,0.0,24225,24225,New,0.0,,,,,CCLP
+75,,2020-02-25 19:39:01,2020-02-22,CCLP,Moeller Timothy C,"VP Supply Chain, TETRA",A - Grant,0.0,24225,24225,New,0.0,,,,,CCLP
+76,,2020-02-25 19:38:54,2020-02-22,CCLP,Mucha Jacek M,Treasurer,A - Grant,0.0,22772,22772,New,0.0,,,,,CCLP
+77,,2020-02-25 19:38:46,2020-02-22,CCLP,Murphy Brady M,Pres,A - Grant,0.0,256783,256783,New,0.0,,,,,CCLP
+78,,2020-02-25 19:38:39,2020-02-22,CCLP,Serrano Elijio V,SVP & CFO of TETRA (TTI),A - Grant,0.0,101745,109791,>999%,0.0,,,,,CCLP
+79,,2020-02-25 19:38:28,2020-02-22,CCLP,Wallace Bass C Jr,GC,A - Grant,0.0,50873,68919,+282%,0.0,,,,,CCLP
+80,M,2020-02-25 19:38:21,2020-02-21,CCLP,Foster Ronald J.,SVP - CSI Compressco,A - Grant,0.0,13565,128565,+12%,0.0,,,,,CCLP
+81,M,2020-02-25 19:38:21,2020-02-21,CCLP,Foster Ronald J.,SVP - CSI Compressco,F - Tax,2.0,-3751,128565,-3%,-7500.0,,,,,CCLP
+82,M,2020-02-25 19:38:14,2020-02-21,CCLP,Luna Miguel A,VP,A - Grant,0.0,30490,77361,+65%,0.0,,,,,CCLP
+83,M,2020-02-25 19:38:14,2020-02-21,CCLP,Luna Miguel A,VP,F - Tax,2.01,-3198,77361,-4%,-6441.0,,,,,CCLP
+84,M,2020-02-25 19:38:06,2020-02-21,CCLP,McNiven Roy,"SVP, Operations",A - Grant,0.0,53602,106066,+102%,0.0,,,,,CCLP
+85,,2020-02-25 19:38:06,2020-02-21,CCLP,McNiven Roy,"SVP, Operations",F - Tax,2.04,-55,106066,0%,-112.0,,,,,CCLP
+86,M,2020-02-25 19:37:58,2020-02-21,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.06,22598,50698,+80%,1302.0,,,,,CCLP
+87,M,2020-02-25 19:37:58,2020-02-21,CCLP,Moscoso Michael E,"VP, Finance",F - Tax,2.01,-2735,50698,-5%,-5497.0,,,,,CCLP
+88,M,2020-02-25 19:37:50,2020-02-21,CCLP,Pitcock Matthew B,VP North America Sales,A - Grant,0.0,25171,65169,+63%,0.0,,,,,CCLP
+89,M,2020-02-25 19:37:50,2020-02-21,CCLP,Pitcock Matthew B,VP North America Sales,F - Tax,2.04,-280,65169,0%,-571.0,,,,,CCLP
+90,,2020-02-04 17:23:57,2020-02-01,CCLP,Pitcock Matthew B,VP North America Sales,A - Grant,0.0,1123,40278,+3%,0.0,,,,,CCLP
+91,,2020-02-04 17:23:57,2020-02-01,CCLP,Pitcock Matthew B,VP North America Sales,D - Sale to issuer,2.04,-332,40278,-1%,-677.0,,,,,CCLP
+92,,2020-01-06 17:40:47,2020-01-03,CCLP,Sullivan William D,Dir,A - Grant,0.0,51,76905,0%,0.0,,,,,CCLP
+93,,2020-01-06 17:40:40,2020-01-03,CCLP,Larson James R,Dir,A - Grant,0.0,59,72822,0%,0.0,,,,,CCLP
+94,,2020-01-06 17:40:33,2020-01-03,CCLP,Harrison D Frank,Dir,A - Grant,0.0,55,64281,0%,0.0,,,,,CCLP
+95,,2020-01-06 17:40:22,2020-01-03,CCLP,Coombs Paul D,Dir,A - Grant,0.0,51,62136,0%,0.0,,,,,CCLP
+96,,2019-10-02 16:40:09,2019-10-01,CCLP,McNiven Roy,VP of Operations,A - Grant,0.0,476,52519,+1%,0.0,,,,,CCLP
+97,,2019-10-02 16:40:09,2019-10-01,CCLP,McNiven Roy,VP of Operations,F - Tax,2.96,-115,52519,0%,-340.0,,,,,CCLP
+98,M,2019-05-06 18:10:33,2019-05-03,CCLP,Sullivan William D,Dir,A - Grant,0.0,20333,76854,+36%,0.0,,,,,CCLP
+99,M,2019-05-06 18:05:46,2019-05-03,CCLP,Larson James R,Dir,A - Grant,0.0,23722,72763,+48%,0.0,,,,,CCLP
+100,M,2019-05-06 18:05:38,2019-05-03,CCLP,Harrison D Frank,Dir,A - Grant,0.0,22028,64226,+52%,0.0,,,,,CCLP
+101,M,2019-05-06 18:05:30,2019-05-03,CCLP,Coombs Paul D,Dir,A - Grant,0.0,20333,62085,+49%,0.0,,,,,CCLP
+102,,2019-05-06 18:05:18,2019-05-02,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.0,267,30835,+1%,0.0,,,,,CCLP
+103,,2019-05-06 18:05:18,2019-05-02,CCLP,Moscoso Michael E,"VP, Finance",F - Tax,3.08,-178,30835,-1%,-548.0,,,,,CCLP
+104,,2019-05-06 18:05:10,2019-05-02,CCLP,Luna Miguel A,VP,A - Grant,0.0,1201,50069,+2%,0.0,,,,,CCLP
+105,,2019-05-06 18:05:10,2019-05-02,CCLP,Luna Miguel A,VP,F - Tax,3.08,-281,50069,-1%,-865.0,,,,,CCLP
+106,,2019-05-06 18:05:05,2019-05-02,CCLP,Foster Ronald J.,SVP - CSI Compressco,A - Grant,0.0,1140,118751,+1%,0.0,,,,,CCLP
+107,,2019-05-06 18:05:05,2019-05-02,CCLP,Foster Ronald J.,SVP - CSI Compressco,F - Tax,3.08,-752,118751,-1%,-2316.0,,,,,CCLP
+108,,2019-05-06 18:04:44,2019-05-02,CCLP,Caglar Levent,VP,A - Grant,0.0,1519,67324,+2%,0.0,,,,,CCLP
+109,,2019-05-06 18:04:44,2019-05-02,CCLP,Caglar Levent,VP,F - Tax,3.08,-356,67324,-1%,-1096.0,,,,,CCLP
+110,M,2019-02-25 17:57:07,2019-02-21,CCLP,Foster Ronald J.,SVP - CSI Compressco,A - Grant,0.0,20391,118363,+21%,0.0,,,,,CCLP
+111,,2019-02-25 17:57:07,2019-02-24,CCLP,Foster Ronald J.,SVP - CSI Compressco,F - Tax,2.65,-1567,118363,-1%,-4145.0,,,,,CCLP
+112,M,2019-02-25 17:54:38,2019-02-21,CCLP,Serjeant Owen,Pres,A - Grant,0.0,121521,279607,+77%,0.0,,,,,CCLP
+113,,2019-02-25 17:54:38,2019-02-24,CCLP,Serjeant Owen,Pres,F - Tax,2.65,-7082,279607,-2%,-18732.0,,,,,CCLP
+114,M,2019-02-25 17:54:20,2019-02-21,CCLP,Caglar Levent,VP,A - Grant,0.0,32911,66161,+99%,0.0,,,,,CCLP
+115,,2019-02-25 17:54:20,2019-02-24,CCLP,Caglar Levent,VP,F - Tax,2.65,-498,66161,-1%,-1317.0,,,,,CCLP
+116,,2019-02-25 17:54:08,2019-02-21,CCLP,Liddle Christopher,VP Manufacturing,A - Grant,0.0,12303,46706,+36%,0.0,,,,,CCLP
+117,M,2019-02-25 17:53:56,2019-02-21,CCLP,Luna Miguel A,VP,A - Grant,0.0,20457,49149,+71%,0.0,,,,,CCLP
+118,,2019-02-25 17:53:56,2019-02-24,CCLP,Luna Miguel A,VP,D - Sale to issuer,0.0,-452,49149,-1%,-0.0,,,,,CCLP
+119,,2019-02-25 17:53:44,2019-02-21,CCLP,McNiven Roy,VP of Operations,A - Grant,0.0,28390,52158,+119%,0.0,,,,,CCLP
+120,M,2019-02-25 17:53:28,2019-02-21,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.0,19989,30746,+186%,0.0,,,,,CCLP
+121,,2019-02-25 17:53:28,2019-02-24,CCLP,Moscoso Michael E,"VP, Finance",F - Tax,2.65,-944,30746,-3%,-2497.0,,,,,CCLP
+122,D,2019-01-10 16:13:15,2019-01-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,2.63,186462,16190448,+1%,490395.0,,,,,CCLP
+123,,2019-01-08 16:26:17,2019-01-06,CCLP,Sullivan William D,Dir,A - Grant,0.0,376,56521,+1%,0.0,,,,,CCLP
+124,,2019-01-08 16:26:10,2019-01-06,CCLP,Larson James R,Dir,A - Grant,0.0,439,49041,+1%,0.0,,,,,CCLP
+125,,2019-01-08 16:26:04,2019-01-06,CCLP,Harrison D Frank,Dir,A - Grant,0.0,408,42198,+1%,0.0,,,,,CCLP
+126,,2019-01-08 16:25:51,2019-01-06,CCLP,Coombs Paul D,Dir,A - Grant,0.0,376,41752,+1%,0.0,,,,,CCLP
+127,,2018-12-28 16:35:38,2018-12-27,CCLP,Serjeant Owen,Pres,P - Purchase,2.14,22700,165168,+16%,48578.0,,,,,CCLP
+128,,2018-12-28 16:34:39,2018-12-28,CCLP,Liddle Christopher,VP Manufacturing,P - Purchase,2.28,34403,34403,New,78439.0,,,,,CCLP
+129,,2018-12-28 16:33:45,2018-12-28,CCLP,Luna Miguel A,VP,P - Purchase,2.2,11500,29144,+65%,25300.0,,,,,CCLP
+130,,2018-12-28 16:33:22,2018-12-28,CCLP,Moscoso Michael E,"VP, Finance",P - Purchase,2.28,4000,11701,+52%,9100.0,,,,,CCLP
+131,,2018-12-27 16:27:39,2018-12-27,CCLP,McNiven Roy,VP of Operations,P - Purchase,2.3,4350,23768,+22%,10005.0,,,,,CCLP
+132,D,2018-12-12 16:31:17,2018-12-10,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,4.23,115933,16003986,+1%,490397.0,,,,,CCLP
+133,D,2018-11-13 16:16:02,2018-11-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,4.63,102143,15888053,+1%,472922.0,,,,,CCLP
+134,D,2018-10-10 16:15:41,2018-10-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,4.93,95927,15785910,+1%,472920.0,,,,,CCLP
+135,,2018-10-03 16:52:48,2018-10-01,CCLP,McNiven Roy,VP of Operations,A - Grant,0.0,19418,19418,New,0.0,,,,,CCLP
+136,D,2018-09-12 16:07:39,2018-09-10,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,5.51,85830,15689983,+1%,472923.0,,,,,CCLP
+137,D,2018-08-10 16:13:22,2018-08-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,5.31,86098,15604153,+1%,457180.0,,,,,CCLP
+138,D,2018-07-10 16:42:42,2018-07-09,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,5.11,89468,15518055,+1%,457181.0,,,,,CCLP
+139,D,2018-06-11 16:17:20,2018-06-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,5.7,80207,15428587,+1%,457180.0,,,,,CCLP
+140,D,2018-05-09 16:17:57,2018-05-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,6.92,63960,15348380,0%,442603.0,,,,,CCLP
+141,M,2018-05-08 16:56:03,2018-05-05,CCLP,Sullivan William D,Dir,A - Grant,0.0,8377,56145,+18%,0.0,,,,,CCLP
+142,M,2018-05-08 16:55:57,2018-05-05,CCLP,Larson James R,Dir,A - Grant,0.0,9773,48602,+25%,0.0,,,,,CCLP
+143,M,2018-05-08 16:55:51,2018-05-05,CCLP,Harrison D Frank,Dir,A - Grant,0.0,9075,41790,+28%,0.0,,,,,CCLP
+144,M,2018-05-08 16:55:45,2018-05-05,CCLP,Coombs Paul D,Dir,A - Grant,0.0,8377,41376,+25%,0.0,,,,,CCLP
+145,,2018-05-08 16:55:38,2018-05-04,CCLP,Wallace Bass C Jr,Asst. Secretary,A - Grant,0.0,3652,18046,+25%,0.0,,,,,CCLP
+146,,2018-05-08 16:55:38,2018-05-04,CCLP,Wallace Bass C Jr,Asst. Secretary,F - Tax,7.32,-2590,18046,-13%,-18959.0,,,,,CCLP
+147,,2018-05-08 16:55:31,2018-05-04,CCLP,Serrano Elijio V,SVP & CFO of TETRA (TTI),A - Grant,0.0,3652,8046,+83%,0.0,,,,,CCLP
+148,,2018-05-08 16:55:31,2018-05-04,CCLP,Serrano Elijio V,SVP & CFO of TETRA (TTI),F - Tax,7.32,-2590,8046,-24%,-18959.0,,,,,CCLP
+149,,2018-05-08 16:55:23,2018-05-04,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.0,80,7701,+1%,0.0,,,,,CCLP
+150,,2018-05-08 16:55:23,2018-05-04,CCLP,Moscoso Michael E,"VP, Finance",F - Tax,7.32,-69,7701,-1%,-505.0,,,,,CCLP
+151,,2018-05-08 16:55:17,2018-05-04,CCLP,Foster Ronald J.,SVP - CSI Compressco,A - Grant,0.0,660,99539,+1%,0.0,,,,,CCLP
+152,,2018-05-08 16:55:17,2018-05-04,CCLP,Foster Ronald J.,SVP - CSI Compressco,F - Tax,7.32,-549,99539,-1%,-4019.0,,,,,CCLP
+153,,2018-05-08 16:55:08,2018-05-04,CCLP,Brightman Stuart M,Dir,A - Grant,0.0,7304,43097,+20%,0.0,,,,,CCLP
+154,,2018-05-08 16:55:08,2018-05-04,CCLP,Brightman Stuart M,Dir,F - Tax,7.32,-2874,43097,-6%,-21038.0,,,,,CCLP
+155,,2018-05-08 16:55:03,2018-05-04,CCLP,Caglar Levent,VP,A - Grant,0.0,349,33748,+1%,0.0,,,,,CCLP
+156,,2018-05-08 16:55:03,2018-05-04,CCLP,Caglar Levent,VP,F - Tax,7.32,-81,33748,0%,-593.0,,,,,CCLP
+157,,2018-05-08 16:54:57,2018-05-04,CCLP,Benge Charles B.,VP Operations,A - Grant,0.0,475,37560,+1%,0.0,,,,,CCLP
+158,,2018-05-08 16:54:57,2018-05-04,CCLP,Benge Charles B.,VP Operations,F - Tax,7.32,-324,37560,-1%,-2372.0,,,,,CCLP
+159,,2018-05-04 18:01:07,2018-05-02,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.0,93,7690,+1%,0.0,,,,,CCLP
+160,,2018-05-04 18:01:07,2018-05-02,CCLP,Moscoso Michael E,"VP, Finance",F - Tax,7.44,-126,7690,-2%,-937.0,,,,,CCLP
+161,,2018-05-04 18:00:53,2018-05-02,CCLP,Luna Miguel A,VP,A - Grant,0.0,417,17644,+2%,0.0,,,,,CCLP
+162,,2018-05-04 18:00:53,2018-05-02,CCLP,Luna Miguel A,VP,F - Tax,7.44,-567,17644,-3%,-4218.0,,,,,CCLP
+163,,2018-05-04 18:00:08,2018-05-02,CCLP,Foster Ronald J.,SVP - CSI Compressco,A - Grant,0.0,396,99428,0%,0.0,,,,,CCLP
+164,,2018-05-04 18:00:08,2018-05-02,CCLP,Foster Ronald J.,SVP - CSI Compressco,F - Tax,7.44,-516,99428,-1%,-3839.0,,,,,CCLP
+165,,2018-05-04 17:58:08,2018-05-02,CCLP,Caglar Levent,VP,A - Grant,0.0,527,33480,+2%,0.0,,,,,CCLP
+166,,2018-05-04 17:58:08,2018-05-02,CCLP,Caglar Levent,VP,F - Tax,7.44,-123,33480,0%,-915.0,,,,,CCLP
+167,,2018-05-04 17:56:30,2018-05-02,CCLP,Benge Charles B.,VP Operations,A - Grant,0.0,791,37409,+2%,0.0,,,,,CCLP
+168,,2018-05-04 17:56:30,2018-05-02,CCLP,Benge Charles B.,VP Operations,F - Tax,7.44,-852,37409,-2%,-6339.0,,,,,CCLP
+169,D,2018-04-10 16:16:52,2018-04-09,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,6.82,64897,15284420,0%,442598.0,,,,,CCLP
+170,D,2018-03-09 16:28:59,2018-03-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,6.53,67780,15219523,0%,442603.0,,,,,CCLP
+171,A,2018-02-28 16:32:24,2018-02-24,CCLP,Moscoso Michael E,"VP, Finance",A - Grant,0.0,6370,7723,+471%,0.0,,,,,CCLP
+172,D,2018-02-12 16:30:39,2018-02-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,6.26,68509,15151743,0%,428866.0,,,,,CCLP
+173,D,2018-01-09 16:26:17,2018-01-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,4.93,86991,15083234,+1%,428866.0,,,,,CCLP
+174,,2018-01-09 16:25:45,2018-01-05,CCLP,Sullivan William D,Dir,A - Grant,0.0,182,47768,0%,0.0,,,,,CCLP
+175,,2018-01-09 16:25:36,2018-01-05,CCLP,Larson James R,Dir,A - Grant,0.0,212,38829,+1%,0.0,,,,,CCLP
+176,,2018-01-09 16:25:24,2018-01-05,CCLP,Harrison D Frank,Dir,A - Grant,0.0,197,32715,+1%,0.0,,,,,CCLP
+177,,2018-01-09 16:25:13,2018-01-05,CCLP,Coombs Paul D,Dir,A - Grant,0.0,182,32999,+1%,0.0,,,,,CCLP
+178,D,2017-12-12 16:45:42,2017-12-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,4.88,87882,14996243,+1%,428864.0,,,,,CCLP
+179,,2017-11-21 16:48:44,2017-11-20,CCLP,Serjeant Owen,Pres,A - Grant,0.0,94697,94697,New,0.0,,,,,CCLP
+180,D,2017-11-09 16:34:19,2017-11-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,4.67,89184,14818793,+1%,416489.0,,,,,CCLP
+181,D,2017-10-10 17:12:28,2017-10-09,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,4.65,89568,14819177,+1%,416491.0,,,,,CCLP
+182,,2017-09-27 16:37:59,2017-09-22,CCLP,Caglar Levent,VP,P - Purchase,4.93,4000,22596,+22%,19728.0,,,,,CCLP
+183,,2017-08-08 16:32:38,2017-08-05,CCLP,Speer Anthony D.,VP Manufacturing,A - Grant,0.0,14440,30683,+89%,0.0,,,,,CCLP
+184,,2017-08-08 16:32:38,2017-08-05,CCLP,Speer Anthony D.,VP Manufacturing,F - Tax,4.47,-7575,30683,-20%,-33860.0,,,,,CCLP
+185,,2017-08-08 16:32:28,2017-08-05,CCLP,Knox Timothy A.,Pres - CSI Compressco,A - Grant,0.0,33691,113845,+42%,0.0,,,,,CCLP
+186,,2017-08-08 16:32:28,2017-08-05,CCLP,Knox Timothy A.,Pres - CSI Compressco,F - Tax,4.47,-17969,113845,-14%,-80321.0,,,,,CCLP
+187,,2017-08-08 16:32:21,2017-08-05,CCLP,Foster Ronald J.,SVP - CSI Compressco,A - Grant,0.0,24065,93442,+35%,0.0,,,,,CCLP
+188,,2017-08-08 16:32:21,2017-08-05,CCLP,Foster Ronald J.,SVP - CSI Compressco,F - Tax,4.47,-15182,93442,-14%,-67864.0,,,,,CCLP
+189,,2017-08-08 16:32:13,2017-08-05,CCLP,Benge Charles B.,VP Operations,A - Grant,0.0,14440,38003,+61%,0.0,,,,,CCLP
+190,,2017-08-08 16:32:13,2017-08-05,CCLP,Benge Charles B.,VP Operations,F - Tax,4.47,-7701,38003,-17%,-34423.0,,,,,CCLP
+191,,2017-06-16 16:36:07,2017-06-14,CCLP,Tetra Technologies Inc,"Director by Deputization (3), 10%",D - Sale to issuer,0.0,-280257,14729609,-2%,-0.0,,,,,CCLP
+192,D,2017-06-12 16:26:31,2017-06-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,4.82,74327,14449352,+1%,358256.0,,,,,CCLP
+193,,2017-05-31 16:49:09,2017-05-27,CCLP,Foster Ronald J.,SVP - CSI Compressco,A - Grant,0.0,1878,84559,+2%,0.0,,,,,CCLP
+194,,2017-05-31 16:49:09,2017-05-27,CCLP,Foster Ronald J.,SVP - CSI Compressco,F - Tax,5.81,-1281,84559,-1%,-7445.0,,,,,CCLP
+195,A,2017-05-11 17:54:56,2017-05-04,CCLP,Foster Ronald J.,SVP - CSI Compressco,F - Tax,6.95,-685,83962,-1%,-4761.0,0.0,,,,CCLP
+196,D,2017-05-10 17:01:45,2017-05-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,7.05,49342,14375025,0%,347861.0,-1.0,,,,CCLP
+197,,2017-05-08 18:43:10,2017-05-05,CCLP,Sullivan William D,Dir,A - Grant,0.0,8634,47586,+22%,0.0,-5.0,2.0,,,CCLP
+198,,2017-05-08 18:43:01,2017-05-05,CCLP,Larson James R,Dir,A - Grant,0.0,10072,38617,+35%,0.0,-5.0,2.0,,,CCLP
+199,,2017-05-08 18:42:52,2017-05-05,CCLP,Harrison D Frank,Dir,A - Grant,0.0,9353,32518,+40%,0.0,-5.0,2.0,,,CCLP
+200,,2017-05-08 18:42:42,2017-05-05,CCLP,Coombs Paul D,Dir,A - Grant,0.0,8634,32817,+36%,0.0,-5.0,2.0,,,CCLP
+201,,2017-05-08 18:42:34,2017-05-05,CCLP,Caglar Levent,VP,A - Grant,0.0,5608,18596,+43%,0.0,-5.0,2.0,,,CCLP
+202,,2017-05-08 18:42:25,2017-05-04,CCLP,Speer Anthony D.,VP Manufacturing,A - Grant,0.0,319,23818,+1%,0.0,-5.0,2.0,,,CCLP
+203,,2017-05-08 18:42:25,2017-05-04,CCLP,Speer Anthony D.,VP Manufacturing,F - Tax,6.95,-339,23818,-1%,-2356.0,-5.0,2.0,,,CCLP
+204,,2017-05-08 18:42:16,2017-05-04,CCLP,Knox Timothy A.,Pres - CSI Compressco,A - Grant,0.0,1546,98123,+2%,0.0,-5.0,2.0,,,CCLP
+205,,2017-05-08 18:42:16,2017-05-04,CCLP,Knox Timothy A.,Pres - CSI Compressco,F - Tax,6.95,-1377,98123,-1%,-9570.0,-5.0,2.0,,,CCLP
+206,,2017-05-08 18:42:07,2017-05-04,CCLP,Foster Ronald J.,SVP - CSI Compressco,A - Grant,0.0,559,83976,+1%,0.0,-5.0,2.0,,,CCLP
+207,,2017-05-08 18:42:07,2017-05-04,CCLP,Foster Ronald J.,SVP - CSI Compressco,F - Tax,6.95,-671,83976,-1%,-4663.0,-5.0,2.0,,,CCLP
+208,,2017-05-08 18:41:59,2017-05-04,CCLP,Caglar Levent,VP,A - Grant,0.0,295,12988,+2%,0.0,-5.0,2.0,,,CCLP
+209,,2017-05-08 18:41:59,2017-05-04,CCLP,Caglar Levent,VP,F - Tax,6.95,-314,12988,-2%,-2182.0,-5.0,2.0,,,CCLP
+210,,2017-05-08 18:41:48,2017-05-04,CCLP,Benge Charles B.,VP Operations,A - Grant,0.0,403,31264,+1%,0.0,-5.0,2.0,,,CCLP
+211,,2017-05-08 18:41:48,2017-05-04,CCLP,Benge Charles B.,VP Operations,F - Tax,6.95,-428,31264,-1%,-2975.0,-5.0,2.0,,,CCLP
+212,A,2017-05-08 18:41:38,2017-05-02,CCLP,Foster Ronald J.,SVP - CSI Compressco,D - Sale to issuer,7.59,-628,84088,-1%,-4767.0,-5.0,2.0,,,CCLP
+213,A,2017-05-08 18:41:30,2017-05-02,CCLP,Benge Charles B.,VP Operations,D - Sale to issuer,7.59,-1089,31289,-3%,-8266.0,-5.0,2.0,,,CCLP
+214,A,2017-05-08 18:41:18,2017-05-02,CCLP,Knox Timothy A.,Pres - CSI Compressco,D - Sale to issuer,7.59,-2668,97954,-3%,-20250.0,-5.0,2.0,,,CCLP
+215,A,2017-05-08 18:41:10,2017-05-02,CCLP,Speer Anthony D.,VP Manufacturing,D - Sale to issuer,7.59,-726,23838,-3%,-5510.0,-5.0,2.0,,,CCLP
+216,A,2017-05-08 18:41:03,2017-05-02,CCLP,Caglar Levent,VP,D - Sale to issuer,7.59,-726,13007,-5%,-5510.0,-5.0,2.0,,,CCLP
+217,,2017-05-04 16:40:22,2017-05-02,CCLP,Caglar Levent,VP,A - Grant,0.0,330,13007,+3%,0.0,1.0,1.0,,,CCLP
+218,,2017-05-04 16:40:22,2017-05-02,CCLP,Caglar Levent,VP,D - Sale to issuer,0.0,-726,13007,-5%,-0.0,1.0,1.0,,,CCLP
+219,,2017-05-04 16:40:13,2017-05-02,CCLP,Knox Timothy A.,Pres - CSI Compressco,A - Grant,0.0,1483,97954,+2%,0.0,1.0,1.0,,,CCLP
+220,,2017-05-04 16:40:13,2017-05-02,CCLP,Knox Timothy A.,Pres - CSI Compressco,D - Sale to issuer,0.0,-2668,97954,-3%,-0.0,1.0,1.0,,,CCLP
+221,,2017-05-04 16:40:08,2017-05-02,CCLP,Speer Anthony D.,VP Manufacturing,A - Grant,0.0,330,23838,+1%,0.0,1.0,1.0,,,CCLP
+222,,2017-05-04 16:40:08,2017-05-02,CCLP,Speer Anthony D.,VP Manufacturing,D - Sale to issuer,0.0,-726,23838,-3%,-0.0,1.0,1.0,,,CCLP
+223,,2017-05-04 16:40:04,2017-05-02,CCLP,Sullivan William D,Dir,A - Grant,0.0,404,38952,+1%,0.0,1.0,1.0,,,CCLP
+224,,2017-05-04 16:39:58,2017-05-02,CCLP,Benge Charles B.,VP Operations,A - Grant,0.0,495,31289,+2%,0.0,1.0,1.0,,,CCLP
+225,,2017-05-04 16:39:58,2017-05-02,CCLP,Benge Charles B.,VP Operations,D - Sale to issuer,0.0,-1089,31289,-3%,-0.0,1.0,1.0,,,CCLP
+226,,2017-05-04 16:39:47,2017-05-02,CCLP,Coombs Paul D,Dir,A - Grant,0.0,404,24183,+2%,0.0,1.0,1.0,,,CCLP
+227,,2017-05-04 16:39:41,2017-05-02,CCLP,Foster Ronald J.,SVP - CSI Compressco,A - Grant,0.0,248,84088,0%,0.0,1.0,1.0,,,CCLP
+228,,2017-05-04 16:39:41,2017-05-02,CCLP,Foster Ronald J.,SVP - CSI Compressco,D - Sale to issuer,0.0,-628,84088,-1%,-0.0,1.0,1.0,,,CCLP
+229,,2017-05-04 16:39:36,2017-05-02,CCLP,Harrison D Frank,Dir,A - Grant,0.0,437,23165,+2%,0.0,1.0,1.0,,,CCLP
+230,,2017-05-04 16:39:31,2017-05-02,CCLP,Larson James R,Dir,A - Grant,0.0,471,28545,+2%,0.0,1.0,1.0,,,CCLP
+231,D,2017-04-11 17:05:19,2017-04-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,8.74,39801,14325683,0%,347861.0,-1.0,-1.0,-28.0,,CCLP
+232,D,2017-03-10 17:10:57,2017-03-08,CCLP,Tetra Technologies Inc,"Director by Deputization (9), 10%",M - OptEx,9.89,35173,14285882,0%,347861.0,0.0,0.0,5.0,,CCLP
+233,,2017-01-24 16:51:11,2017-01-24,CCLP,Tetra Technologies Inc,"Director by Deputization (3), 10%",D - Sale to issuer,0.0,-159192,14250709,-1%,-0.0,2.0,-3.0,-12.0,,CCLP
+234,,2017-01-04 17:05:36,2017-01-02,CCLP,Sullivan William D,Dir,A - Grant,0.0,175,38548,0%,0.0,2.0,1.0,16.0,,CCLP
+235,,2017-01-04 17:05:26,2017-01-02,CCLP,Larson James R,Dir,A - Grant,0.0,204,28074,+1%,0.0,2.0,1.0,16.0,,CCLP
+236,,2017-01-04 17:05:17,2017-01-02,CCLP,Harrison D Frank,Dir,A - Grant,0.0,189,22728,+1%,0.0,2.0,1.0,16.0,,CCLP
+237,,2017-01-04 17:04:51,2017-01-02,CCLP,Coombs Paul D,Dir,A - Grant,0.0,175,23779,+1%,0.0,2.0,1.0,16.0,,CCLP
+238,AD,2016-09-07 17:58:55,2016-05-04,CCLP,Sullivan William D,Dir,M - OptEx,0.0,204,38373,+1%,0.0,6.0,-1.0,9.0,4.0,CCLP
+239,AD,2016-09-07 17:58:39,2016-05-04,CCLP,Speer Anthony D.,VP Manufacturing,M - OptEx,0.0,110,21430,+1%,0.0,6.0,-1.0,9.0,4.0,CCLP
+240,AD,2016-09-07 17:58:22,2016-05-04,CCLP,Larson James R,Dir,M - OptEx,0.0,239,27870,+1%,0.0,6.0,-1.0,9.0,4.0,CCLP
+241,AD,2016-09-07 17:58:07,2016-05-04,CCLP,Knox Timothy A.,Pres,M - OptEx,0.0,558,78110,+1%,0.0,6.0,-1.0,9.0,4.0,CCLP
+242,AD,2016-09-07 17:57:52,2016-05-04,CCLP,Harrison D Frank,Dir,M - OptEx,0.0,222,22539,+1%,0.0,6.0,-1.0,9.0,4.0,CCLP
+243,AD,2016-09-07 17:57:39,2016-05-04,CCLP,Foster Ronald J.,"SVP Sales, Marketing",M - OptEx,0.0,188,81664,0%,0.0,6.0,-1.0,9.0,4.0,CCLP
+244,AD,2016-09-07 17:57:18,2016-05-04,CCLP,Coombs Paul D,Dir,M - OptEx,0.0,204,23603,+1%,0.0,6.0,-1.0,9.0,4.0,CCLP
+245,AD,2016-09-07 17:56:58,2016-05-04,CCLP,Benge Charles B.,VP Operations,M - OptEx,0.0,148,24873,+1%,0.0,6.0,-1.0,9.0,4.0,CCLP
+246,,2016-06-21 08:36:51,2016-06-20,CCLP,Coffie Derek C.,CFO,A - Grant,0.0,25189,25189,New,0.0,0.0,-6.0,9.0,24.0,CCLP
+247,D,2016-06-03 10:10:17,2016-05-27,CCLP,Foster Ronald J.,"SVP Sales, Marketing",F - Tax,9.0,-1509,81623,-2%,-13581.0,3.0,1.0,-9.0,18.0,CCLP
+248,D,2016-06-03 10:10:17,2016-05-27,CCLP,Foster Ronald J.,"SVP Sales, Marketing",M - OptEx,0.0,1603,81623,+2%,0.0,3.0,1.0,-9.0,18.0,CCLP
+249,D,2016-05-16 16:53:22,2016-05-02,CCLP,Knox Timothy A.,Pres,A - Grant,0.0,25569,77989,+49%,0.0,4.0,2.0,-3.0,17.0,CCLP
+250,D,2016-05-16 16:53:22,2016-05-04,CCLP,Knox Timothy A.,Pres,M - OptEx,0.0,437,77989,+1%,0.0,4.0,2.0,-3.0,17.0,CCLP
+251,D,2016-05-16 16:44:14,2016-05-02,CCLP,Sullivan William D,Dir,A - Grant,0.0,6819,38329,+22%,0.0,4.0,2.0,-3.0,17.0,CCLP
+252,D,2016-05-16 16:44:14,2016-05-04,CCLP,Sullivan William D,Dir,M - OptEx,0.0,160,38329,0%,0.0,4.0,2.0,-3.0,17.0,CCLP
+253,D,2016-05-16 16:43:59,2016-05-02,CCLP,Speer Anthony D.,VP Manufacturing,A - Grant,0.0,5682,21404,+36%,0.0,4.0,2.0,-3.0,17.0,CCLP
+254,D,2016-05-16 16:43:59,2016-05-04,CCLP,Speer Anthony D.,VP Manufacturing,F - Tax,8.03,-235,21404,-1%,-1887.0,4.0,2.0,-3.0,17.0,CCLP
+255,D,2016-05-16 16:43:59,2016-05-04,CCLP,Speer Anthony D.,VP Manufacturing,M - OptEx,0.0,84,21404,0%,0.0,4.0,2.0,-3.0,17.0,CCLP
+256,D,2016-05-16 16:43:47,2016-05-02,CCLP,Larson James R,Dir,A - Grant,0.0,7955,27818,+40%,0.0,4.0,2.0,-3.0,17.0,CCLP
+257,D,2016-05-16 16:43:47,2016-05-04,CCLP,Larson James R,Dir,M - OptEx,0.0,187,27818,+1%,0.0,4.0,2.0,-3.0,17.0,CCLP
+258,D,2016-05-16 16:42:27,2016-05-02,CCLP,Harrison D Frank,Dir,A - Grant,0.0,7387,22491,+49%,0.0,4.0,2.0,-3.0,17.0,CCLP
+259,D,2016-05-16 16:42:27,2016-05-04,CCLP,Harrison D Frank,Dir,M - OptEx,0.0,174,22491,+1%,0.0,4.0,2.0,-3.0,17.0,CCLP
+260,D,2016-05-16 16:42:14,2016-05-02,CCLP,Foster Ronald J.,"SVP Sales, Marketing",A - Grant,0.0,4262,81529,+6%,0.0,4.0,2.0,-3.0,17.0,CCLP
+261,D,2016-05-16 16:42:14,2016-05-04,CCLP,Foster Ronald J.,"SVP Sales, Marketing",F - Tax,8.03,-409,81529,0%,-3284.0,4.0,2.0,-3.0,17.0,CCLP
+262,D,2016-05-16 16:42:14,2016-05-04,CCLP,Foster Ronald J.,"SVP Sales, Marketing",M - OptEx,0.0,147,81529,0%,0.0,4.0,2.0,-3.0,17.0,CCLP
+263,D,2016-05-16 16:41:49,2016-05-02,CCLP,Coombs Paul D,Dir,A - Grant,0.0,6819,23559,+41%,0.0,4.0,2.0,-3.0,17.0,CCLP
+264,D,2016-05-16 16:41:49,2016-05-04,CCLP,Coombs Paul D,Dir,M - OptEx,0.0,160,23559,+1%,0.0,4.0,2.0,-3.0,17.0,CCLP
+265,D,2016-05-16 16:41:37,2016-05-02,CCLP,Benge Charles B.,VP Operations,A - Grant,0.0,8523,24841,+52%,0.0,4.0,2.0,-3.0,17.0,CCLP
+266,D,2016-05-16 16:41:37,2016-05-04,CCLP,Benge Charles B.,VP Operations,F - Tax,8.03,-241,24841,-1%,-1935.0,4.0,2.0,-3.0,17.0,CCLP
+267,D,2016-05-16 16:41:37,2016-05-04,CCLP,Benge Charles B.,VP Operations,M - OptEx,0.0,116,24841,0%,0.0,4.0,2.0,-3.0,17.0,CCLP
+268,D,2016-03-17 16:57:09,2016-03-07,CCLP,Foster Ronald J.,"SVP Sales, Marketing",A - Grant,0.0,4342,77529,+6%,0.0,-4.0,-2.0,16.0,81.0,CCLP
+269,D,2016-03-17 16:57:09,2016-03-07,CCLP,Foster Ronald J.,"SVP Sales, Marketing",F - Tax,6.05,-1635,77529,-2%,-9892.0,-4.0,-2.0,16.0,81.0,CCLP
+270,D,2016-03-17 16:57:09,2016-03-07,CCLP,Foster Ronald J.,"SVP Sales, Marketing",M - OptEx,0.0,2243,77529,+3%,0.0,-4.0,-2.0,16.0,81.0,CCLP
+271,D,2016-03-17 16:57:09,2016-03-15,CCLP,Foster Ronald J.,"SVP Sales, Marketing",P - Purchase,5.11,725,77529,+1%,3705.0,-4.0,-2.0,16.0,81.0,CCLP
+272,,2015-09-14 08:59:00,2015-09-11,CCLP,Knox Timothy A.,Pres - CSI Compressco,P - Purchase,12.81,2000,51983,+4%,25629.0,-4.0,6.0,12.0,-54.0,CCLP
+273,DM,2015-05-29 17:20:23,2015-01-04,CCLP,Sullivan William D,Dir,M - OptEx,0.0,205,31269,+1%,0.0,0.0,-3.0,-6.0,-28.0,CCLP
+274,D,2015-05-29 17:20:08,2015-03-15,CCLP,Rounsavall James P.,CFO,A - Grant,0.0,414,18677,+2%,0.0,0.0,-3.0,-6.0,-28.0,CCLP
+275,D,2015-05-29 17:20:08,2015-05-27,CCLP,Rounsavall James P.,CFO,F - Tax,20.36,-1016,18677,-5%,-20686.0,0.0,-3.0,-6.0,-28.0,CCLP
+276,DM,2015-05-29 17:20:08,2015-03-15,CCLP,Rounsavall James P.,CFO,M - OptEx,0.0,429,18677,+2%,0.0,0.0,-3.0,-6.0,-28.0,CCLP
+277,DM,2015-05-29 17:19:36,2015-01-04,CCLP,Larson James R,Dir,M - OptEx,0.0,240,19582,+1%,0.0,0.0,-3.0,-6.0,-28.0,CCLP
+278,DM,2015-05-29 17:19:19,2015-01-04,CCLP,Harrison D Frank,Dir,M - OptEx,0.0,223,14843,+2%,0.0,0.0,-3.0,-6.0,-28.0,CCLP
+279,D,2015-05-29 17:19:06,2015-03-15,CCLP,Foster Ronald J.,"SVP, Chief Mktng Officer",A - Grant,0.0,992,71854,+1%,0.0,0.0,-3.0,-6.0,-28.0,CCLP
+280,D,2015-05-29 17:19:06,2015-05-27,CCLP,Foster Ronald J.,"SVP, Chief Mktng Officer",F - Tax,20.36,-2381,71854,-3%,-48477.0,0.0,-3.0,-6.0,-28.0,CCLP
+281,DM,2015-05-29 17:19:06,2015-03-15,CCLP,Foster Ronald J.,"SVP, Chief Mktng Officer",M - OptEx,0.0,975,71854,+1%,0.0,0.0,-3.0,-6.0,-28.0,CCLP
+282,DM,2015-05-29 17:18:51,2015-01-04,CCLP,Coombs Paul D,Dir,M - OptEx,0.0,205,16499,+1%,0.0,0.0,-3.0,-6.0,-28.0,CCLP
+283,D,2015-05-29 17:18:36,2015-03-15,CCLP,Book Kevin,"VP, International",A - Grant,0.0,620,22570,+3%,0.0,0.0,-3.0,-6.0,-28.0,CCLP
+284,DM,2015-05-29 17:18:36,2015-03-15,CCLP,Book Kevin,"VP, International",M - OptEx,0.0,397,22570,+2%,0.0,0.0,-3.0,-6.0,-28.0,CCLP
+285,,2015-05-06 18:20:45,2015-05-04,CCLP,Wallace Bass C Jr,GC,A - Grant,0.0,6984,16984,+70%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+286,,2015-05-06 18:20:31,2015-05-04,CCLP,Sullivan William D,Dir,A - Grant,0.0,2794,31064,+10%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+287,,2015-05-06 18:20:06,2015-05-04,CCLP,Speer Anthony D.,VP Manufacturing,A - Grant,0.0,2155,15873,+16%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+288,,2015-05-06 18:19:47,2015-05-04,CCLP,Serrano Elijio V,TETRA SVP & CFO,A - Grant,0.0,6984,6984,New,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+289,,2015-05-06 18:19:28,2015-05-04,CCLP,Rounsavall James P.,CFO,A - Grant,0.0,3610,18850,+24%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+290,,2015-05-06 18:19:03,2015-05-04,CCLP,Larson James R,Dir,A - Grant,0.0,3259,19342,+20%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+291,,2015-05-06 18:18:45,2015-05-04,CCLP,Knox Timothy A.,Pres - CSI Compressco,A - Grant,0.0,10475,49983,+27%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+292,,2015-05-06 18:18:29,2015-05-04,CCLP,Harrison D Frank,Dir,A - Grant,0.0,3027,14620,+26%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+293,,2015-05-06 18:18:12,2015-05-04,CCLP,Foster Ronald J.,"SVP, Chief Mktng Officer",A - Grant,0.0,3785,72268,+6%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+294,,2015-05-06 18:17:50,2015-05-04,CCLP,Coombs Paul D,Dir,A - Grant,0.0,2794,16294,+21%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+295,,2015-05-06 18:17:30,2015-05-04,CCLP,Brightman Stuart M,Dir,A - Grant,0.0,13967,38667,+57%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+296,,2015-05-06 18:17:11,2015-05-04,CCLP,Book Kevin,"VP, International",A - Grant,0.0,890,21553,+4%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+297,,2015-05-06 18:16:55,2015-05-04,CCLP,Benge Charles B.,VP Operations,A - Grant,0.0,2725,16443,+20%,0.0,-6.0,-3.0,-9.0,-30.0,CCLP
+298,,2014-12-19 16:01:54,2014-12-15,CCLP,Elkhoury Joseph,"SVP, COO of TETRA (TTI)",P - Purchase,14.0,2000,2000,New,28000.0,-4.0,-8.0,3.0,26.0,CCLP
+299,,2014-12-15 18:34:22,2014-12-15,CCLP,Wallace Bass C Jr,GC,P - Purchase,15.31,3000,10000,+43%,45930.0,6.0,9.0,0.0,42.0,CCLP
+300,,2014-12-15 16:07:26,2014-12-15,CCLP,Brightman Stuart M,Dir,P - Purchase,13.99,7200,24700,+41%,100728.0,6.0,9.0,0.0,42.0,CCLP
+301,,2014-12-15 16:07:04,2014-12-12,CCLP,Knox Timothy A.,Pres - Compressco,P - Purchase,16.32,7500,39508,+23%,122400.0,6.0,9.0,0.0,42.0,CCLP
+302,,2014-12-11 16:46:13,2014-12-10,CCLP,Rounsavall James P.,CFO,P - Purchase,17.04,1000,15240,+7%,17040.0,-9.0,-10.0,-25.0,19.0,CCLP
+303,D,2014-08-20 17:13:38,2014-08-18,GSJK,Tetra Technologies Inc,"Director by Deputization (1), 10%",M - OptEx,0.0,6273970,14092340,+80%,0.0,,,,,CCLP
+304,,2014-08-07 16:57:22,2014-08-05,GSJK,Speer Anthony D.,VP Manufacturing,A - Grant,0.0,13718,13718,New,0.0,,,,,CCLP
+305,,2014-08-07 16:57:11,2014-08-05,GSJK,Knox Timothy A.,Pres - Compressco,A - Grant,0.0,32008,32008,New,0.0,,,,,CCLP
+306,,2014-08-07 16:56:55,2014-08-05,GSJK,Foster Ronald J.,"SVP, Chief Mktng Officer",A - Grant,0.0,22863,68483,+50%,0.0,,,,,CCLP
+307,,2014-08-07 16:56:30,2014-08-05,GSJK,Benge Charles B.,VP Operations,A - Grant,0.0,13718,13718,New,0.0,,,,,CCLP
+308,,2014-07-30 17:51:31,2014-07-28,GSJK,Tetra Technologies Inc,10%,P - Purchase,23.5,1391113,7818370,+22%,32691156.0,,,,,CCLP
+309,,2014-07-29 17:48:57,2014-07-25,GSJK,Wallace Bass C Jr,GC,P - Purchase,23.5,2000,7000,+40%,47000.0,,,,,CCLP
+310,,2014-07-29 17:48:47,2014-07-25,GSJK,Larson James R,Dir,P - Purchase,23.5,1000,16083,+7%,23500.0,,,,,CCLP
+311,D,2014-05-29 16:29:10,2014-05-27,GSJK,Vanhooser Sheri,"VP Marketing, Dev",A - Grant,0.0,1915,18373,+12%,0.0,,,,,CCLP
+312,D,2014-05-29 16:29:10,2014-05-27,GSJK,Vanhooser Sheri,"VP Marketing, Dev",M - OptEx,0.0,172,18373,+1%,0.0,,,,,CCLP
+313,D,2014-05-29 16:28:37,2014-05-27,GSJK,Sullivan William D,Dir,A - Grant,0.0,2500,28270,+10%,0.0,,,,,CCLP
+314,D,2014-05-29 16:28:37,2014-05-27,GSJK,Sullivan William D,Dir,M - OptEx,0.0,71,28270,0%,0.0,,,,,CCLP
+315,D,2014-05-29 16:28:12,2014-05-27,GSJK,Rounsavall James P.,CFO,A - Grant,0.0,2747,14240,+24%,0.0,,,,,CCLP
+316,D,2014-05-29 16:28:12,2014-05-27,GSJK,Rounsavall James P.,CFO,F - Tax,24.0,-716,14240,-5%,-17184.0,,,,,CCLP
+317,D,2014-05-29 16:28:12,2014-05-27,GSJK,Rounsavall James P.,CFO,M - OptEx,0.0,166,14240,+1%,0.0,,,,,CCLP
+318,D,2014-05-29 16:27:55,2014-05-27,GSJK,Larson James R,Dir,A - Grant,0.0,2917,15083,+24%,0.0,,,,,CCLP
+319,D,2014-05-29 16:27:55,2014-05-27,GSJK,Larson James R,Dir,M - OptEx,0.0,83,15083,+1%,0.0,,,,,CCLP
+320,D,2014-05-29 16:27:39,2014-05-27,GSJK,Harrison D Frank,Dir,A - Grant,0.0,2709,11593,+30%,0.0,,,,,CCLP
+321,D,2014-05-29 16:27:39,2014-05-27,GSJK,Harrison D Frank,Dir,M - OptEx,0.0,77,11593,+1%,0.0,,,,,CCLP
+322,D,2014-05-29 16:27:16,2014-05-27,GSJK,Foster Ronald J.,Pres - Compressco,A - Grant,0.0,6584,45620,+17%,0.0,,,,,CCLP
+323,D,2014-05-29 16:27:16,2014-05-27,GSJK,Foster Ronald J.,Pres - Compressco,F - Tax,24.0,-1664,45620,-4%,-39936.0,,,,,CCLP
+324,D,2014-05-29 16:27:16,2014-05-27,GSJK,Foster Ronald J.,Pres - Compressco,M - OptEx,0.0,369,45620,+1%,0.0,,,,,CCLP
+325,,2014-05-29 16:26:55,2014-05-27,GSJK,Corlee Mark L,VP Field Services,A - Grant,0.0,1818,1818,New,0.0,,,,,CCLP
+326,,2014-05-29 16:26:36,2014-05-27,GSJK,Coombs Paul D,Dir,A - Grant,0.0,2500,13500,+23%,0.0,,,,,CCLP
+327,D,2014-05-29 16:26:15,2014-05-27,GSJK,Book Kevin,"VP, International",A - Grant,0.0,2552,20663,+14%,0.0,,,,,CCLP
+328,D,2014-05-29 16:26:15,2014-05-27,GSJK,Book Kevin,"VP, International",M - OptEx,0.0,156,20663,+1%,0.0,,,,,CCLP
+329,D,2014-02-04 16:42:15,2014-01-31,GSJK,Vanhooser Sheri,"VP Marketing, Dev",A - Grant,0.0,103,16286,+1%,0.0,,,,,CCLP
+330,D,2014-02-04 16:42:15,2014-01-31,GSJK,Vanhooser Sheri,"VP Marketing, Dev",M - OptEx,0.0,2,16286,0%,0.0,,,,,CCLP
+331,D,2014-02-04 16:42:04,2014-01-31,GSJK,Sylvester Kenneth R,VP Product Ops,A - Grant,0.0,103,9367,+1%,0.0,,,,,CCLP
+332,D,2014-02-04 16:42:04,2014-01-31,GSJK,Sylvester Kenneth R,VP Product Ops,F - Tax,22.79,-39,9367,0%,-889.0,,,,,CCLP
+333,D,2014-02-04 16:42:04,2014-01-31,GSJK,Sylvester Kenneth R,VP Product Ops,M - OptEx,0.0,2,9367,0%,0.0,,,,,CCLP
+334,D,2014-02-04 16:41:46,2014-01-31,GSJK,Rounsavall James P.,CFO,A - Grant,0.0,129,12043,+1%,0.0,,,,,CCLP
+335,D,2014-02-04 16:41:46,2014-01-31,GSJK,Rounsavall James P.,CFO,F - Tax,22.79,-48,12043,0%,-1094.0,,,,,CCLP
+336,D,2014-02-04 16:41:46,2014-01-31,GSJK,Rounsavall James P.,CFO,M - OptEx,0.0,2,12043,0%,0.0,,,,,CCLP
+337,D,2014-02-04 16:41:32,2014-01-31,GSJK,Foster Ronald J.,Pres - Compressco,A - Grant,0.0,309,40331,+1%,0.0,,,,,CCLP
+338,D,2014-02-04 16:41:32,2014-01-31,GSJK,Foster Ronald J.,Pres - Compressco,M - OptEx,0.0,7,40331,0%,0.0,,,,,CCLP
+339,D,2014-02-04 16:40:58,2014-01-31,GSJK,Book Kevin,"VP, International",A - Grant,0.0,103,17955,+1%,0.0,,,,,CCLP
+340,D,2014-02-04 16:40:58,2014-01-31,GSJK,Book Kevin,"VP, International",M - OptEx,0.0,2,17955,0%,0.0,,,,,CCLP
+341,,2014-01-07 16:30:37,2014-01-04,GSJK,Vanhooser Sheri,"VP Marketing, Dev",F - Tax,19.65,-1263,16181,-7%,-24818.0,,,,,CCLP
+342,,2014-01-07 16:30:28,2014-01-04,GSJK,Sylvester Kenneth R,VP Product Ops,F - Tax,19.65,-379,9301,-4%,-7447.0,,,,,CCLP
+343,,2014-01-07 16:30:06,2014-01-04,GSJK,Rounsavall James P.,CFO,F - Tax,19.65,-505,11960,-4%,-9923.0,,,,,CCLP
+344,,2014-01-07 16:29:48,2014-01-04,GSJK,Foster Ronald J.,Pres - Compressco,F - Tax,19.65,-3583,40015,-8%,-70406.0,,,,,CCLP
+345,D,2014-01-06 16:37:16,2014-01-04,GSJK,Sullivan William D,Dir,M - OptEx,0.0,42,25699,0%,0.0,,,,,CCLP
+346,D,2014-01-06 16:37:04,2014-01-04,GSJK,Larson James R,Dir,M - OptEx,0.0,50,12083,0%,0.0,,,,,CCLP
+347,D,2014-01-06 16:36:51,2014-01-04,GSJK,Hertel Geoffrey M,Dir,M - OptEx,0.0,42,97309,0%,0.0,,,,,CCLP
+348,D,2014-01-06 16:36:37,2014-01-04,GSJK,Harrison D Frank,Dir,M - OptEx,0.0,46,8807,+1%,0.0,,,,,CCLP
+349,D,2013-05-29 18:32:49,2013-05-27,GSJK,Vanhooser Sheri,"VP Marketing, Dev",A - Grant,0.0,3452,17444,+25%,0.0,,,,,CCLP
+350,D,2013-05-29 18:32:49,2013-05-27,GSJK,Vanhooser Sheri,"VP Marketing, Dev",F - Tax,20.28,-401,17444,-2%,-8132.0,,,,,CCLP
+351,D,2013-05-29 18:32:49,2013-05-27,GSJK,Vanhooser Sheri,"VP Marketing, Dev",M - OptEx,0.0,66,17444,0%,0.0,,,,,CCLP
+352,D,2013-05-29 18:32:41,2013-05-27,GSJK,Sylvester Kenneth R,VP Product Ops,A - Grant,0.0,2466,9680,+34%,0.0,,,,,CCLP
+353,D,2013-05-29 18:32:41,2013-05-27,GSJK,Sylvester Kenneth R,VP Product Ops,F - Tax,20.28,-401,9680,-4%,-8132.0,,,,,CCLP
+354,D,2013-05-29 18:32:41,2013-05-27,GSJK,Sylvester Kenneth R,VP Product Ops,M - OptEx,0.0,67,9680,+1%,0.0,,,,,CCLP
+355,D,2013-05-29 18:32:18,2013-05-27,GSJK,Rounsavall James P.,CFO,A - Grant,0.0,3082,12465,+33%,0.0,,,,,CCLP
+356,D,2013-05-29 18:32:18,2013-05-27,GSJK,Rounsavall James P.,CFO,F - Tax,20.28,-200,12465,-2%,-4056.0,,,,,CCLP
+357,D,2013-05-29 18:32:18,2013-05-27,GSJK,Rounsavall James P.,CFO,M - OptEx,0.0,66,12465,+1%,0.0,,,,,CCLP
+358,D,2013-05-29 18:31:57,2013-05-27,GSJK,Foster Ronald J.,Pres - Compressco,A - Grant,0.0,7397,43598,+20%,0.0,,,,,CCLP
+359,D,2013-05-29 18:31:57,2013-05-27,GSJK,Foster Ronald J.,Pres - Compressco,F - Tax,20.28,-860,43598,-2%,-17441.0,,,,,CCLP
+360,D,2013-05-29 18:31:57,2013-05-27,GSJK,Foster Ronald J.,Pres - Compressco,M - OptEx,0.0,142,43598,0%,0.0,,,,,CCLP
+361,D,2013-05-29 18:31:54,2013-05-27,GSJK,Book Kevin,"VP, International",A - Grant,0.0,2466,17850,+16%,0.0,,,,,CCLP
+362,D,2013-05-29 18:31:54,2013-05-27,GSJK,Book Kevin,"VP, International",M - OptEx,0.0,66,17850,0%,0.0,,,,,CCLP
+363,D,2013-05-28 16:38:43,2013-05-27,GSJK,Sullivan William D,Dir,A - Grant,0.0,2959,25657,+13%,0.0,,,,,CCLP
+364,D,2013-05-28 16:38:43,2013-05-27,GSJK,Sullivan William D,Dir,M - OptEx,0.0,120,25657,0%,0.0,,,,,CCLP
+365,D,2013-05-28 16:38:23,2013-05-27,GSJK,Larson James R,Dir,A - Grant,0.0,3452,12033,+40%,0.0,,,,,CCLP
+366,D,2013-05-28 16:38:23,2013-05-27,GSJK,Larson James R,Dir,M - OptEx,0.0,140,12033,+1%,0.0,,,,,CCLP
+367,D,2013-05-28 16:38:02,2013-05-27,GSJK,Hertel Geoffrey M,Dir,A - Grant,0.0,2959,97267,+3%,0.0,,,,,CCLP
+368,D,2013-05-28 16:38:02,2013-05-27,GSJK,Hertel Geoffrey M,Dir,M - OptEx,0.0,120,97267,0%,0.0,,,,,CCLP
+369,D,2013-05-28 16:37:37,2013-05-27,GSJK,Harrison D Frank,Dir,A - Grant,0.0,3206,8761,+58%,0.0,,,,,CCLP
+370,D,2013-05-28 16:37:37,2013-05-27,GSJK,Harrison D Frank,Dir,M - OptEx,0.0,130,8761,+2%,0.0,,,,,CCLP
+371,D,2013-01-08 16:23:53,2013-01-04,GSJK,Rounsavall James P.,CFO,A - Grant,0.0,2450,9517,+35%,0.0,,,,,CCLP
+372,D,2013-01-08 16:23:53,2013-01-04,GSJK,Rounsavall James P.,CFO,F - Tax,17.4,-697,9517,-7%,-12128.0,,,,,CCLP
+373,D,2013-01-08 16:23:53,2013-01-04,GSJK,Rounsavall James P.,CFO,M - OptEx,0.0,68,9517,+1%,0.0,,,,,CCLP
+374,D,2013-01-08 16:20:01,2013-01-04,GSJK,Vanhooser Sheri,"VP Marketing, Dev",A - Grant,0.0,2450,14327,+21%,0.0,,,,,CCLP
+375,D,2013-01-08 16:20:01,2013-01-04,GSJK,Vanhooser Sheri,"VP Marketing, Dev",F - Tax,17.4,-2191,14327,-13%,-38123.0,,,,,CCLP
+376,D,2013-01-08 16:20:01,2013-01-04,GSJK,Vanhooser Sheri,"VP Marketing, Dev",M - OptEx,0.0,68,14327,0%,0.0,,,,,CCLP
+377,D,2013-01-08 16:19:42,2013-01-04,GSJK,Sylvester Kenneth R,VP Product Ops,A - Grant,0.0,2450,7548,+48%,0.0,,,,,CCLP
+378,D,2013-01-08 16:19:42,2013-01-04,GSJK,Sylvester Kenneth R,VP Product Ops,F - Tax,17.4,-1307,7548,-15%,-22742.0,,,,,CCLP
+379,D,2013-01-08 16:19:42,2013-01-04,GSJK,Sylvester Kenneth R,VP Product Ops,M - OptEx,0.0,68,7548,+1%,0.0,,,,,CCLP
+380,D,2013-01-08 16:19:19,2013-01-04,GSJK,Sullivan William D,Dir,M - OptEx,0.0,67,22578,0%,0.0,,,,,CCLP
+381,D,2013-01-08 16:18:58,2013-01-04,GSJK,Larson James R,Dir,M - OptEx,0.0,79,8441,+1%,0.0,,,,,CCLP
+382,D,2013-01-08 16:18:15,2013-01-04,GSJK,Hertel Geoffrey M,Dir,M - OptEx,0.0,67,94188,0%,0.0,,,,,CCLP
+383,D,2013-01-08 16:17:50,2013-01-04,GSJK,Harrison D Frank,Dir,M - OptEx,0.0,73,5425,+1%,0.0,,,,,CCLP
+384,D,2013-01-08 16:17:31,2013-01-04,GSJK,Foster Ronald J.,Pres - Compressco,A - Grant,0.0,5250,36919,+17%,0.0,,,,,CCLP
+385,D,2013-01-08 16:17:31,2013-01-04,GSJK,Foster Ronald J.,Pres - Compressco,F - Tax,17.4,-5305,36919,-13%,-92307.0,,,,,CCLP
+386,D,2013-01-08 16:17:31,2013-01-04,GSJK,Foster Ronald J.,Pres - Compressco,M - OptEx,0.0,147,36919,0%,0.0,,,,,CCLP
+387,D,2013-01-08 16:17:03,2013-01-04,GSJK,Brickman Larry W.,VP Field Services,A - Grant,0.0,2450,12827,+24%,0.0,,,,,CCLP
+388,D,2013-01-08 16:17:03,2013-01-04,GSJK,Brickman Larry W.,VP Field Services,F - Tax,17.4,-2191,12827,-15%,-38123.0,,,,,CCLP
+389,D,2013-01-08 16:17:03,2013-01-04,GSJK,Brickman Larry W.,VP Field Services,M - OptEx,0.0,68,12827,+1%,0.0,,,,,CCLP
+390,D,2013-01-08 16:16:36,2013-01-04,GSJK,Book Kevin,"VP, International",A - Grant,0.0,2450,15318,+19%,0.0,,,,,CCLP
+391,D,2013-01-08 16:16:36,2013-01-04,GSJK,Book Kevin,"VP, International",M - OptEx,0.0,68,15318,0%,0.0,,,,,CCLP
+392,,2012-11-19 15:49:27,2012-11-15,GSJK,Hertel Geoffrey M,Dir,P - Purchase,16.3,10028,94121,+12%,163456.0,,,,,CCLP
+393,,2012-11-14 16:17:44,2012-11-14,GSJK,Foster Ronald J.,Pres - Compressco,P - Purchase,17.0,500,36827,+1%,8500.0,,,,,CCLP
+394,M,2012-11-13 09:07:45,2012-11-09,GSJK,Hertel Geoffrey M,Dir,P - Purchase,16.2,4510,84093,+6%,73070.0,,,,,CCLP
+395,M,2012-08-22 16:18:06,2012-08-21,GSJK,Wallace Bass C Jr,"Asst. Secretary, Gen. Counsel",P - Purchase,15.71,2500,5000,+100%,39283.0,,,,,CCLP
+396,,2012-08-21 17:39:57,2012-08-20,GSJK,Foster Ronald J.,Pres - Compressco,P - Purchase,15.19,1000,36327,+3%,15190.0,,,,,CCLP
+397,M,2012-06-06 16:37:46,2012-06-05,GSJK,Hertel Geoffrey M,Dir,P - Purchase,12.99,6560,79583,+9%,85205.0,,,,,CCLP
+398,,2012-05-30 16:59:41,2012-05-27,GSJK,Sullivan William D,Dir,A - Grant,0.0,4508,22511,+25%,0.0,,,,,CCLP
+399,,2012-05-30 16:59:22,2012-05-27,GSJK,Larson James R,Dir,A - Grant,0.0,5260,8362,+170%,0.0,,,,,CCLP
+400,,2012-05-30 16:58:33,2012-05-27,GSJK,Hertel Geoffrey M,Dir,A - Grant,0.0,4508,73023,+7%,0.0,,,,,CCLP
+401,,2012-05-30 16:57:48,2012-05-27,GSJK,Harrison D Frank,Dir,A - Grant,0.0,4884,5352,>999%,0.0,,,,,CCLP
+402,,2012-05-30 16:57:02,2012-05-27,GSJK,Vanhooser Sheri,"VP Marketing, Dev",A - Grant,0.0,3696,14000,+36%,0.0,,,,,CCLP
+403,,2012-05-30 16:56:17,2012-05-27,GSJK,Sylvester Kenneth R,VP Product Ops,A - Grant,0.0,3696,6337,+140%,0.0,,,,,CCLP
+404,,2012-05-30 16:55:23,2012-05-27,GSJK,Rounsavall James P.,CFO,A - Grant,0.0,3696,7696,+92%,0.0,,,,,CCLP
+405,,2012-05-30 16:54:32,2012-05-27,GSJK,Foster Ronald J.,Pres - Compressco,A - Grant,0.0,7920,35327,+29%,0.0,,,,,CCLP
+406,,2012-05-30 16:53:47,2012-05-27,GSJK,Brickman Larry W.,VP Field Services,A - Grant,0.0,3696,12500,+42%,0.0,,,,,CCLP
+407,,2012-05-30 16:53:07,2012-05-27,GSJK,Book Kevin,"VP, International",A - Grant,0.0,3696,12800,+41%,0.0,,,,,CCLP
+408,,2012-05-16 08:51:47,2012-05-15,GSJK,Sullivan William D,Dir,P - Purchase,13.45,4900,18003,+37%,65900.0,,,,,CCLP
+409,,2012-05-15 09:06:49,2012-05-14,GSJK,Sullivan William D,Dir,P - Purchase,13.1,103,13103,+1%,1349.0,,,,,CCLP
+410,,2012-05-14 17:24:20,2012-05-10,GSJK,Hertel Geoffrey M,Dir,P - Purchase,13.0,16515,68515,+32%,214655.0,,,,,CCLP
+411,,2012-04-20 17:42:12,2012-04-19,GSJK,Harrison D Frank,Dir,A - Grant,0.0,468,468,New,0.0,,,,,CCLP
+412,,2012-01-05 18:03:04,2012-01-04,GSJK,Vanhooser Sheri,"VP Marketing, Dev",F - Tax,15.05,-1196,10304,-10%,-18000.0,4.0,4.0,2.0,,CCLP
+413,,2012-01-05 17:58:24,2012-01-04,GSJK,Sylvester Kenneth R,VP Product Ops,F - Tax,15.05,-359,2641,-12%,-5403.0,4.0,4.0,2.0,,CCLP
+414,,2012-01-05 17:49:07,2012-01-04,GSJK,McBride Gary L.,CFO,F - Tax,15.05,-1196,10804,-10%,-18000.0,4.0,4.0,2.0,,CCLP
+415,,2012-01-05 17:45:47,2012-01-04,GSJK,Foster Ronald J.,Pres - Compressco,F - Tax,15.05,-3513,27407,-11%,-52871.0,4.0,4.0,2.0,,CCLP
+416,,2012-01-05 17:40:07,2012-01-04,GSJK,Brickman Larry W.,VP Field Services,F - Tax,15.05,-1196,8804,-12%,-18000.0,4.0,4.0,2.0,,CCLP
+417,,2012-01-05 17:36:11,2012-01-04,GSJK,Book Kevin,"VP, International",F - Tax,15.05,-1196,9104,-12%,-18000.0,4.0,4.0,2.0,,CCLP
+418,,2011-07-22 09:32:43,2011-07-20,GSJK,Larson James R,Dir,A - Grant,0.0,3102,3102,New,0.0,-1.0,0.0,-21.0,-12.0,CCLP
+419,D,2011-06-22 17:15:59,2011-06-20,GSJK,Tetra Technologies Inc,10%,P - Purchase,0.0,6026757,6026757,New,0.0,-1.0,1.0,6.0,-16.0,CCLP
+420,,2011-06-22 17:14:24,2011-06-20,GSJK,Vanhooser Sheri,"VP Marketing, Dev",A - Grant,0.0,10000,11500,+667%,0.0,-1.0,1.0,6.0,-16.0,CCLP
+421,,2011-06-22 17:13:12,2011-06-20,GSJK,Sylvester Kenneth R,VP Product Ops,A - Grant,0.0,3000,3000,New,0.0,-1.0,1.0,6.0,-16.0,CCLP
+422,,2011-06-22 17:11:48,2011-06-20,GSJK,Sullivan William D,Dir,A - Grant,0.0,3000,13000,+30%,0.0,-1.0,1.0,6.0,-16.0,CCLP
+423,,2011-06-22 17:09:55,2011-06-20,GSJK,McBride Gary L.,CFO,A - Grant,0.0,10000,12000,+500%,0.0,-1.0,1.0,6.0,-16.0,CCLP
+424,,2011-06-22 17:08:35,2011-06-20,GSJK,Hertel Geoffrey M,Dir,A - Grant,0.0,2000,52000,+4%,0.0,-1.0,1.0,6.0,-16.0,CCLP
+425,,2011-06-22 17:06:59,2011-06-20,GSJK,Foster Ronald J.,Pres - Compressco,A - Grant,0.0,30420,30920,>999%,0.0,-1.0,1.0,6.0,-16.0,CCLP
+426,,2011-06-22 17:05:39,2011-06-20,GSJK,Brickman Larry W.,VP Field Services,A - Grant,0.0,10000,10000,New,0.0,-1.0,1.0,6.0,-16.0,CCLP
+427,,2011-06-22 17:04:01,2011-06-20,GSJK,Book Kevin,"VP, International",A - Grant,0.0,10000,10300,>999%,0.0,-1.0,1.0,6.0,-16.0,CCLP
+428,,2011-06-16 18:14:41,2011-06-14,GSJK,Wallace Bass C Jr,Asst. Secretary,P - Purchase,20.0,2500,2500,New,50000.0,-2.0,-5.0,-3.0,-24.0,CCLP
+429,,2011-06-16 18:12:37,2011-06-14,GSJK,Vanhooser Sheri,"VP Marketing, Dev",P - Purchase,20.0,1500,1500,New,30000.0,-2.0,-5.0,-3.0,-24.0,CCLP
+430,,2011-06-16 18:10:20,2011-06-14,GSJK,Sullivan William D,Dir,P - Purchase,20.0,10000,10000,New,200000.0,-2.0,-5.0,-3.0,-24.0,CCLP
+431,,2011-06-16 18:07:13,2011-06-14,GSJK,McBride Gary L.,CFO,P - Purchase,20.0,2000,2000,New,40000.0,-2.0,-5.0,-3.0,-24.0,CCLP
+432,,2011-06-16 18:05:01,2011-06-14,GSJK,Hertel Geoffrey M,Dir,P - Purchase,20.0,50000,50000,New,1000000.0,-2.0,-5.0,-3.0,-24.0,CCLP
+433,,2011-06-16 18:02:40,2011-06-14,GSJK,Foster Ronald J.,Pres - Compressco,P - Purchase,20.0,500,500,New,10000.0,-2.0,-5.0,-3.0,-24.0,CCLP
+434,,2011-06-16 18:00:29,2011-06-14,GSJK,Brightman Stuart M,Dir,P - Purchase,20.0,17500,17500,New,350000.0,-2.0,-5.0,-3.0,-24.0,CCLP
+435,,2011-06-16 17:58:13,2011-06-14,GSJK,Book Kevin,"VP, International",P - Purchase,20.0,300,300,New,6000.0,-2.0,-5.0,-3.0,-24.0,CCLP

@@ -1,20 +1,31 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,D,2021-11-04 17:53:09,2021-11-02,OAS,Brooks Douglas E,Dir,P - Purchase,123.76,500,19985,+3%,61880.0,,,,,OAS
-1,D,2021-10-29 17:20:21,2021-10-28,OAS,Brooks Douglas E,Dir,P - Purchase,118.75,625,19485,+3%,74219.0,,,,,OAS
-2,D,2020-11-20 20:18:21,2020-11-20,OAS,Brooks Douglas E,Dir,P - Purchase,29.71,3360,3360,New,99826.0,,,,,OAS
-3,,2020-10-08 17:53:51,2020-10-08,OAS,Polito Paula D,Dir,S - Sale,0.17,-32330,0,-100%,-5496.0,,,,,OAS
-4,,2020-10-07 17:51:28,2020-10-07,OAS,Hagale John E,Dir,S - Sale,0.17,-120480,0,-100%,-20482.0,,,,,OAS
-5,M,2020-10-06 20:57:58,2020-10-02,OAS,Nusz Thomas B,"COB, CEO",S - Sale,0.2,-1053449,931299,-53%,-208473.0,,,,,OAS
-6,,2020-10-02 21:47:33,2020-10-01,OAS,Shackouls Bobby S,Dir,S - Sale,0.23,-106670,0,-100%,-24534.0,,,,,OAS
-7,M,2020-10-02 21:45:04,2020-10-01,OAS,Reid Taylor L,"Pres, COO",S - Sale,0.21,-1605853,414220,-79%,-334928.0,,,,,OAS
-8,,2020-10-02 21:44:00,2020-10-01,OAS,Lorentzatos Nickolas J,"EVP, GC, Corp. Sec.",S - Sale,0.23,-271073,108086,-71%,-62347.0,,,,,OAS
-9,,2020-10-02 21:41:53,2020-10-01,OAS,Lou Michael H,"EVP, CFO",S - Sale,0.22,-383111,163693,-70%,-84284.0,,,,,OAS
-10,,2020-10-02 21:40:31,2020-10-01,OAS,Cassidy William J.,Dir,S - Sale,0.22,-114370,0,-100%,-25161.0,,,,,OAS
-11,,2019-08-16 17:17:46,2019-08-14,OAS,Reid Taylor L,"Pres, COO",P - Purchase,2.76,68248,2011007,+4%,188596.0,,,,,OAS
-12,,2019-08-16 17:15:37,2019-08-14,OAS,Nusz Thomas B,"COB, CEO",P - Purchase,2.76,30000,1928939,+2%,82800.0,,,,,OAS
-13,,2019-08-09 16:54:24,2019-08-08,OAS,Hagale John E,Dir,P - Purchase,2.85,30000,120480,+33%,85500.0,,,,,OAS
-14,,2019-03-29 17:17:08,2019-03-27,OAS,Lou Michael H,"EVP, CFO",S - Sale,6.04,-40000,536017,-7%,-241600.0,,,,,OAS
-15,,2018-11-21 17:12:59,2018-11-19,OAS,Reid Taylor L,"Pres, COO",S - Sale,8.04,-30000,1741576,-2%,-241200.0,,,,,OAS
-16,,2018-05-17 17:09:38,2018-05-16,OAS,Reid Taylor L,"Pres, COO",S - Sale,12.22,-30000,1727534,-2%,-366600.0,,,,,OAS
-17,,2018-05-17 17:05:37,2018-05-16,OAS,Lou Michael H,"EVP, CFO",S - Sale,12.27,-16000,418959,-4%,-196320.0,,,,,OAS
-18,,2018-05-17 17:03:30,2018-05-05,OAS,Lorentzatos Nickolas J,"EVP, GC, Corp. Sec.",S - Sale,11.9,-19181,257632,-7%,-228254.0,,,,,OAS
+0,,2022-01-20 19:55:04,2022-01-18,OAS,Reid Taylor L,"Pres, COO",F - Tax,135.5,-2958,26646,-10%,-400809.0,,,,,OAS
+1,,2022-01-20 19:52:33,2022-01-18,OAS,Lou Michael H,"EVP, CFO",F - Tax,135.5,-2765,24867,-10%,-374658.0,,,,,OAS
+2,,2022-01-20 19:49:01,2022-01-18,OAS,Lorentzatos Nickolas J,"EVP, GC, Corp. Sec.",F - Tax,135.5,-1697,15079,-10%,-229944.0,,,,,OAS
+3,,2021-11-23 18:24:44,2021-11-22,OAS,Woung-Chapman Marguerite,Dir,A - Grant,0.0,2916,2916,New,0.0,,,,,OAS
+4,D,2021-11-04 17:53:09,2021-11-02,OAS,Brooks Douglas E,Dir,P - Purchase,123.76,500,19985,+3%,61880.0,,,,,OAS
+5,D,2021-10-29 17:20:21,2021-10-28,OAS,Brooks Douglas E,Dir,P - Purchase,118.75,625,19485,+3%,74219.0,,,,,OAS
+6,D,2021-04-16 20:23:56,2021-04-13,OAS,Brown Daniel E,CEO,A - Grant,0.0,43975,43975,New,0.0,,,,,OAS
+7,D,2021-01-20 19:44:48,2021-01-18,OAS,Reid Taylor L,"Pres, COO",A - Grant,0.0,29604,29604,New,0.0,,,,,OAS
+8,D,2021-01-20 19:42:15,2021-01-18,OAS,Lou Michael H,"EVP, CFO",A - Grant,0.0,27632,27632,New,0.0,,,,,OAS
+9,D,2021-01-20 19:39:07,2021-01-18,OAS,Lorentzatos Nickolas J,"EVP, GC, Corp. Sec.",A - Grant,0.0,16776,16776,New,0.0,,,,,OAS
+10,,2020-12-31 18:09:59,2020-12-29,OAS,McNally Robert Joseph,Dir,A - Grant,0.0,15500,15500,New,0.0,,,,,OAS
+11,,2020-12-31 18:08:24,2020-12-29,OAS,Walker Cynthia Lynn,Dir,A - Grant,0.0,15500,15500,New,0.0,,,,,OAS
+12,,2020-12-31 18:03:24,2020-12-29,OAS,Lancaster N John Jr,Dir,A - Grant,0.0,15500,15500,New,0.0,,,,,OAS
+13,,2020-12-31 18:01:57,2020-12-29,OAS,Jacobi John David,Dir,A - Grant,0.0,15500,15500,New,0.0,,,,,OAS
+14,,2020-12-31 17:59:51,2020-12-29,OAS,Holroyd Samantha,Dir,A - Grant,0.0,15500,15500,New,0.0,,,,,OAS
+15,D,2020-12-31 17:58:14,2020-12-29,OAS,Brooks Douglas E,CEO,A - Grant,0.0,15500,18860,+461%,0.0,,,,,OAS
+16,D,2020-11-20 21:04:11,2020-11-18,OAS,Reid Taylor L,"Pres, COO",F - Tax,0.12,-8865,0,-100%,-1064.0,,,,,OAS
+17,D,2020-11-20 21:04:11,2020-11-19,OAS,Reid Taylor L,"Pres, COO",D - Sale to issuer,0.0,-342295,0,-100%,-0.0,,,,,OAS
+18,D,2020-11-20 21:04:11,2020-11-18,OAS,Reid Taylor L,"Pres, COO",A - Grant,0.0,22526,0,-100%,0.0,,,,,OAS
+19,D,2020-11-20 21:02:29,2020-11-18,OAS,Nusz Thomas B,CEO,F - Tax,0.12,-18167,0,-100%,-2180.0,,,,,OAS
+20,D,2020-11-20 21:02:29,2020-11-19,OAS,Nusz Thomas B,CEO,D - Sale to issuer,0.0,-817115,0,-100%,-0.0,,,,,OAS
+21,D,2020-11-20 21:02:29,2020-11-18,OAS,Nusz Thomas B,CEO,A - Grant,0.0,46166,0,-100%,0.0,,,,,OAS
+22,D,2020-11-20 20:59:18,2020-11-18,OAS,Lou Michael H,"EVP, CFO",F - Tax,0.12,-7092,0,-100%,-851.0,,,,,OAS
+23,D,2020-11-20 20:59:18,2020-11-19,OAS,Lou Michael H,"EVP, CFO",D - Sale to issuer,0.0,-110207,0,-100%,-0.0,,,,,OAS
+24,D,2020-11-20 20:59:18,2020-11-18,OAS,Lou Michael H,"EVP, CFO",A - Grant,0.0,18021,0,-100%,0.0,,,,,OAS
+25,D,2020-11-20 20:58:01,2020-11-18,OAS,Lorentzatos Nickolas J,"EVP, GC, Corp. Sec.",F - Tax,0.12,-4594,0,-100%,-551.0,,,,,OAS
+26,D,2020-11-20 20:58:01,2020-11-19,OAS,Lorentzatos Nickolas J,"EVP, GC, Corp. Sec.",D - Sale to issuer,0.0,-72632,0,-100%,-0.0,,,,,OAS
+27,D,2020-11-20 20:58:01,2020-11-18,OAS,Lorentzatos Nickolas J,"EVP, GC, Corp. Sec.",A - Grant,0.0,11674,0,-100%,0.0,,,,,OAS
+28,D,2020-11-20 20:18:21,2020-11-20,OAS,Brooks Douglas E,Dir,P - Purchase,29.71,3360,3360,New,99826.0,,,,,OAS
+29,D,2020-11-20 20:16:47,2020-11-19,OAS,McShane Michael,Dir,D - Sale to issuer,0.0,-249070,0,-100%,-0.0,,,,,OAS

@@ -1,36 +1,465 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,M,2022-03-08 16:26:10,2022-03-04,DGII,Konezny Ronald,"Pres, CEO",P - Purchase,$19.82,5000,563760,+1%,"+$99,078",,,,,DGII
 1,,2022-03-08 16:24:29,2022-03-07,DGII,Loch James J.,"SVP, CFO, Treasurer",P - Purchase,$19.66,2500,94158,+3%,"+$49,150",,,,,DGII
-2,DM,2021-12-03 16:16:08,2021-12-01,DGII,Riley Kevin C.,"Pres, Digi SmartSense",S - Sale+OE,$22.35,-16754,82890,-17%,"-$374,370",,,,,DGII
-3,D,2021-11-22 17:04:32,2021-11-18,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$23.94,-40000,50033,-44%,"-$957,660",,,,,DGII
-4,DM,2021-11-17 17:30:38,2021-11-15,DGII,Riley Kevin C.,"Pres, Digi SmartSense",S - Sale+OE,$24.16,-101563,88518,-53%,"-$2,453,830",,,,,DGII
-5,D,2021-11-17 17:30:19,2021-11-15,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$24.12,-34300,68495,-33%,"-$827,309",,,,,DGII
-6,D,2021-06-03 17:39:25,2021-06-01,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$19.00,-15000,49610,-23%,"-$285,000",,,,,DGII
-7,D,2021-02-10 17:24:20,2021-02-08,DGII,Schneider Terrence G.,"VP, Supply Chain",S - Sale+OE,$24.19,-30000,29000,-51%,"-$725,697",,,,,DGII
-8,D,2020-11-27 21:12:17,2020-11-25,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$17.00,-1287,66946,-2%,"-$21,879",,,,,DGII
-9,,2020-11-25 16:16:50,2020-11-23,DGII,Schneider Terrence G.,"VP, Supply Chain",S - Sale,$16.77,-2580,22865,-10%,"-$43,267",,,,,DGII
-10,DM,2020-11-24 18:10:21,2020-11-20,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$17.02,-12059,119886,-9%,"-$205,209",,,,,DGII
-11,DM,2020-11-19 17:55:54,2020-11-17,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$17.25,-32654,126820,-20%,"-$563,369",,,,,DGII
-12,DM,2020-11-19 17:47:29,2020-11-17,DGII,Riley Kevin C.,"Pres, IOT Solutions",S - Sale+OE,$17.07,-79599,83887,-49%,"-$1,358,983",,,,,DGII
-13,DM,2020-08-21 18:19:07,2020-08-19,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$13.78,-5855,43719,-12%,"-$80,669",,,,,DGII
-14,DM,2020-08-18 18:12:54,2020-08-17,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$14.33,-24145,43719,-36%,"-$346,107",,,,,DGII
-15,DM,2020-05-28 17:41:31,2020-05-26,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$11.60,-25000,53049,-32%,"-$289,990",,,,,DGII
-16,DM,2020-05-22 15:34:09,2020-05-20,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$11.26,-14000,53049,-21%,"-$157,650",,,,,DGII
-17,,2020-02-06 16:18:26,2020-02-05,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",P - Purchase,$14.22,500,53504,+1%,"+$7,108",,,,,DGII
-18,D,2019-12-05 16:47:43,2019-12-03,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$17.56,-10000,42802,-19%,"-$175,593",,,,,DGII
-19,D,2019-11-25 17:07:57,2019-11-22,DGII,Ueland Michael A.,"Pres, IoT, Prod, Serv",S - Sale+OE,$18.34,-10000,67128,-13%,"-$183,424",,,,,DGII
-20,D,2019-11-21 17:42:56,2019-11-19,DGII,Riley Kevin C.,"Pres, IOT Solutions",S - Sale+OE,$18.17,-95000,85351,-53%,"-$1,725,789",,,,,DGII
-21,DM,2019-06-07 09:53:24,2019-06-05,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$11.43,-22180,38401,-37%,"-$253,485",,,,,DGII
-22,DM,2019-02-21 17:30:04,2019-02-19,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.44,-38814,17052,-69%,"-$521,742",,,,,DGII
-23,DM,2019-02-15 18:32:31,2019-02-13,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.34,-52398,43366,-55%,"-$698,757",,,,,DGII
-24,DM,2019-02-13 15:58:46,2019-02-11,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.23,-33071,43366,-43%,"-$437,395",,,,,DGII
-25,DM,2019-02-07 17:03:01,2019-02-05,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.38,-32553,43366,-43%,"-$435,545",,,,,DGII
-26,D,2019-02-07 17:02:46,2019-02-05,DGII,Riley Kevin C.,"Pres, IOT Solutions",S - Sale+OE,$13.50,-41000,86670,-32%,"-$553,484",,,,,DGII
-27,DM,2018-12-04 17:21:51,2018-11-30,DGII,Nawaz Ahmed,Dir,S - Sale+OE,$11.40,-13300,146564,-8%,"-$151,670",,,,,DGII
-28,D,2018-11-29 18:05:14,2018-11-28,DGII,Nawaz Ahmed,Dir,S - Sale+OE,$11.74,-7213,146564,-5%,"-$84,686",,,,,DGII
-29,D,2018-11-21 16:43:12,2018-11-21,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$11.86,-2401,46674,-5%,"-$28,481",,,,,DGII
-30,D,2018-08-14 17:26:05,2018-08-10,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.10,-8452,38859,-18%,"-$110,754",,,,,DGII
-31,DM,2018-08-10 15:23:20,2018-08-08,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.22,-13995,38859,-26%,"-$185,006",,,,,DGII
-32,DM,2018-08-02 16:35:15,2018-07-31,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.43,-10000,38859,-20%,"-$134,264",,,,,DGII
-33,D,2018-06-01 16:05:59,2018-05-30,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$12.03,-8438,41074,-17%,"-$101,526",,,,,DGII
-34,D,2018-05-30 16:11:03,2018-05-25,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$12.00,-1661,41074,-4%,"-$19,932",,,,,DGII
+2,,2022-02-09 20:50:57,2022-02-07,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,5358,82463,+7%,+$0,,,,,DGII
+3,,2022-02-09 20:50:29,2022-02-07,DGII,Lazarakis Spiro C.,Dir,A - Grant,$0.00,5358,67175,+9%,+$0,,,,,DGII
+4,,2022-02-09 20:50:22,2022-02-07,DGII,Smith Sally J,Dir,A - Grant,$0.00,5358,44753,+14%,+$0,,,,,DGII
+5,,2022-02-09 20:49:44,2022-02-07,DGII,Heim Christopher,Dir,A - Grant,$0.00,5358,48753,+12%,+$0,,,,,DGII
+6,,2022-02-09 20:49:27,2022-02-07,DGII,Naguib Hatem H.,Dir,A - Grant,$0.00,5358,32239,+20%,+$0,,,,,DGII
+7,,2022-02-08 19:07:44,2022-02-04,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$20.31,-13302,558760,-2%,"-$270,164",,,,,DGII
+8,,2022-01-26 16:26:54,2022-01-24,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$22.62,-674,72726,-1%,"-$15,246",,,,,DGII
+9,D,2021-12-08 18:07:10,2021-12-06,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$22.76,-519904,572062,-48%,"-$11,833,015",,,,,DGII
+10,D,2021-12-08 18:07:10,2021-12-06,DGII,Konezny Ronald,"Pres, CEO",M - OptEx,$10.41,712500,572062,-507%,"+$7,417,688",,,,,DGII
+11,,2021-12-08 16:30:41,2021-12-06,DGII,Schneider Terrence G.,"VP, Supply Chain",F - Tax,$22.76,-334,32945,-1%,"-$7,602",,,,,DGII
+12,DM,2021-12-03 16:16:08,2021-12-01,DGII,Riley Kevin C.,"Pres, Digi SmartSense",M - OptEx,$17.66,16754,82890,+25%,"+$295,826",,,,,DGII
+13,DM,2021-12-03 16:16:08,2021-12-01,DGII,Riley Kevin C.,"Pres, Digi SmartSense",S - Sale+OE,$22.35,-16754,82890,-17%,"-$374,370",,,,,DGII
+14,D,2021-12-02 16:39:35,2021-11-30,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,27822,354466,+9%,+$0,,,,,DGII
+15,D,2021-12-02 16:39:31,2021-11-30,DGII,Schneider Terrence G.,"VP, Supply Chain",A - Grant,$0.00,5945,33279,+22%,+$0,,,,,DGII
+16,D,2021-12-02 16:39:13,2021-11-30,DGII,Loch James J.,"SVP, CFO, Treasurer",A - Grant,$0.00,15457,91658,+20%,+$0,,,,,DGII
+17,D,2021-12-02 16:38:49,2021-11-30,DGII,Roberts Tracy L.,"VP, Technology Services",A - Grant,$0.00,4756,52707,+10%,+$0,,,,,DGII
+18,D,2021-12-02 16:38:29,2021-11-30,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",A - Grant,$0.00,7134,73400,+11%,+$0,,,,,DGII
+19,M,2021-11-30 19:50:39,2021-11-27,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$22.59,-14116,326644,-4%,"-$318,880",,,,,DGII
+20,,2021-11-30 19:50:27,2021-11-27,DGII,Loch James J.,"SVP, CFO, Treasurer",F - Tax,$22.59,-1030,76201,-1%,"-$23,268",,,,,DGII
+21,M,2021-11-30 19:50:14,2021-11-27,DGII,Riley Kevin C.,"Pres, Digi SmartSense",F - Tax,$22.59,-2964,82890,-3%,"-$66,957",,,,,DGII
+22,M,2021-11-30 19:49:59,2021-11-27,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$22.59,-1023,47951,-2%,"-$23,110",,,,,DGII
+23,M,2021-11-30 19:49:41,2021-11-27,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$22.59,-1170,66266,-2%,"-$26,430",,,,,DGII
+24,M,2021-11-30 19:49:28,2021-11-27,DGII,Schneider Terrence G.,"VP, Supply Chain",F - Tax,$22.59,-830,27334,-3%,"-$18,750",,,,,DGII
+25,,2021-11-26 18:49:06,2021-11-24,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$23.58,-559,48974,-1%,"-$13,181",,,,,DGII
+26,,2021-11-26 18:48:53,2021-11-23,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,2920,340760,+1%,+$0,,,,,DGII
+27,M,2021-11-26 18:48:53,2021-11-23,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$23.55,-7454,340760,-2%,"-$175,561",,,,,DGII
+28,,2021-11-26 18:48:41,2021-11-24,DGII,Schneider Terrence G.,"VP, Supply Chain",F - Tax,$23.58,-559,28164,-2%,"-$13,181",,,,,DGII
+29,,2021-11-26 18:48:27,2021-11-24,DGII,Loch James J.,"SVP, CFO, Treasurer",F - Tax,$23.58,-1396,77231,-2%,"-$32,918",,,,,DGII
+30,,2021-11-26 18:48:13,2021-11-24,DGII,Riley Kevin C.,"Pres, Digi SmartSense",F - Tax,$23.58,-1215,85854,-1%,"-$28,650",,,,,DGII
+31,,2021-11-26 18:47:56,2021-11-24,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$23.58,-559,67436,-1%,"-$13,181",,,,,DGII
+32,,2021-11-23 21:46:52,2021-11-20,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$23.78,-500,49533,-1%,"-$11,890",,,,,DGII
+33,,2021-11-23 21:44:15,2021-11-20,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$23.78,-500,67995,-1%,"-$11,890",,,,,DGII
+34,,2021-11-23 21:43:13,2021-11-20,DGII,Riley Kevin C.,"Pres, Digi SmartSense",F - Tax,$23.78,-1449,87069,-2%,"-$34,457",,,,,DGII
+35,,2021-11-23 21:16:02,2021-11-20,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$23.78,-6354,345294,-2%,"-$151,098",,,,,DGII
+36,D,2021-11-22 17:04:32,2021-11-18,DGII,Roberts Tracy L.,"VP, Technology Services",M - OptEx,$10.74,40000,50033,+399%,"+$429,700",,,,,DGII
+37,D,2021-11-22 17:04:32,2021-11-18,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$23.94,-40000,50033,-44%,"-$957,660",,,,,DGII
+38,DM,2021-11-17 17:30:38,2021-11-15,DGII,Riley Kevin C.,"Pres, Digi SmartSense",M - OptEx,$11.91,101563,88518,-779%,"+$1,209,947",,,,,DGII
+39,DM,2021-11-17 17:30:38,2021-11-15,DGII,Riley Kevin C.,"Pres, Digi SmartSense",S - Sale+OE,$24.16,-101563,88518,-53%,"-$2,453,830",,,,,DGII
+40,D,2021-11-17 17:30:19,2021-11-15,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$24.18,-3428,68495,-5%,"-$82,889",,,,,DGII
+41,D,2021-11-17 17:30:19,2021-11-15,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",M - OptEx,$10.74,40000,68495,+140%,"+$429,700",,,,,DGII
+42,D,2021-11-17 17:30:19,2021-11-15,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$24.12,-34300,68495,-33%,"-$827,309",,,,,DGII
+43,,2021-08-17 18:51:17,2021-08-13,DGII,Loch James J.,"SVP, CFO, Treasurer",F - Tax,$20.14,-4106,76891,-5%,"-$82,695",,,,,DGII
+44,D,2021-06-03 17:39:25,2021-06-01,DGII,Roberts Tracy L.,"VP, Technology Services",M - OptEx,$10.63,15000,49610,+43%,"+$159,450",,,,,DGII
+45,D,2021-06-03 17:39:25,2021-06-01,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$19.00,-15000,49610,-23%,"-$285,000",,,,,DGII
+46,,2021-05-14 16:32:40,2021-05-12,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$17.21,-945,349355,0%,"-$16,263",,,,,DGII
+47,,2021-05-14 16:31:50,2021-05-12,DGII,Loch James J.,"SVP, CFO, Treasurer",F - Tax,$17.21,-419,80997,-1%,"-$7,211",,,,,DGII
+48,,2021-05-14 16:31:32,2021-05-12,DGII,Riley Kevin C.,"Pres, Digi SmartSense",F - Tax,$17.21,-422,88518,0%,"-$7,263",,,,,DGII
+49,,2021-05-14 16:28:12,2021-05-12,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$17.21,-330,49610,-1%,"-$5,679",,,,,DGII
+50,,2021-05-14 16:27:56,2021-05-12,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$17.21,-311,64791,0%,"-$5,352",,,,,DGII
+51,,2021-05-14 16:26:41,2021-05-12,DGII,Schneider Terrence G.,"VP, Supply Chain",F - Tax,$17.21,-277,28723,-1%,"-$4,767",,,,,DGII
+52,,2021-02-10 17:25:39,2021-02-08,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,7125,77105,+10%,+$0,,,,,DGII
+53,,2021-02-10 17:25:27,2021-02-08,DGII,Lazarakis Spiro C.,Dir,A - Grant,$0.00,7125,61817,+13%,+$0,,,,,DGII
+54,,2021-02-10 17:25:07,2021-02-08,DGII,Smith Sally J,Dir,A - Grant,$0.00,7125,39395,+22%,+$0,,,,,DGII
+55,,2021-02-10 17:24:56,2021-02-08,DGII,Heim Christopher,Dir,A - Grant,$0.00,7125,43395,+20%,+$0,,,,,DGII
+56,,2021-02-10 17:24:29,2021-02-08,DGII,Naguib Hatem H.,Dir,A - Grant,$0.00,7125,26881,+36%,+$0,,,,,DGII
+57,D,2021-02-10 17:24:20,2021-02-08,DGII,Schneider Terrence G.,"VP, Supply Chain",M - OptEx,$10.96,30000,29000,-3000%,"+$328,800",,,,,DGII
+58,D,2021-02-10 17:24:20,2021-02-08,DGII,Schneider Terrence G.,"VP, Supply Chain",S - Sale+OE,$24.19,-30000,29000,-51%,"-$725,697",,,,,DGII
+59,,2021-02-08 18:12:20,2021-02-04,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$23.00,-13271,350300,-4%,"-$305,233",,,,,DGII
+60,AD,2021-02-08 18:10:58,2019-11-27,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,46154,261503,+21%,+$0,,,,,DGII
+61,,2021-01-26 16:32:50,2021-01-24,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$19.98,-674,65102,-1%,"-$13,467",,,,,DGII
+62,,2020-12-08 16:31:51,2020-12-06,DGII,Schneider Terrence G.,"VP, Supply Chain",F - Tax,$17.45,-334,29000,-1%,"-$5,828",,,,,DGII
+63,M,2020-12-01 19:42:30,2020-11-27,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$17.80,-15568,450750,-3%,"-$277,110",,,,,DGII
+64,,2020-12-01 19:42:14,2020-11-27,DGII,Loch James J.,"SVP, CFO, Treasurer",F - Tax,$17.80,-1030,81416,-1%,"-$18,334",,,,,DGII
+65,M,2020-12-01 19:42:01,2020-11-27,DGII,Riley Kevin C.,"Pres, Digi SmartSense",F - Tax,$17.80,-2964,88940,-3%,"-$52,759",,,,,DGII
+66,M,2020-12-01 19:41:48,2020-11-27,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$17.80,-1023,49940,-2%,"-$18,209",,,,,DGII
+67,M,2020-12-01 19:41:37,2020-11-27,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$17.80,-1170,65776,-2%,"-$20,826",,,,,DGII
+68,M,2020-12-01 19:41:25,2020-11-27,DGII,Schneider Terrence G.,"VP, Supply Chain",F - Tax,$17.80,-830,29334,-3%,"-$14,774",,,,,DGII
+69,D,2020-11-27 21:12:17,2020-11-24,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",A - Grant,$0.00,7299,66946,+12%,+$0,,,,,DGII
+70,D,2020-11-27 21:12:17,2020-11-25,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",M - OptEx,$12.07,1338,66946,+2%,"+$16,150",,,,,DGII
+71,D,2020-11-27 21:12:17,2020-11-25,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$17.00,-1287,66946,-2%,"-$21,879",,,,,DGII
+72,D,2020-11-27 21:12:04,2020-11-24,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,39416,466318,+9%,+$0,,,,,DGII
+73,D,2020-11-27 21:11:50,2020-11-24,DGII,Loch James J.,"SVP, CFO, Treasurer",A - Grant,$0.00,18248,82446,+28%,+$0,,,,,DGII
+74,D,2020-11-27 21:11:30,2020-11-24,DGII,Riley Kevin C.,"Pres, Digi SmartSense",A - Grant,$0.00,10949,91904,+14%,+$0,,,,,DGII
+75,D,2020-11-27 21:10:45,2020-11-24,DGII,Roberts Tracy L.,"VP, Technology Services",A - Grant,$0.00,7299,50963,+17%,+$0,,,,,DGII
+76,D,2020-11-27 21:09:56,2020-11-24,DGII,Schneider Terrence G.,"VP, Supply Chain",A - Grant,$0.00,7299,30164,+32%,+$0,,,,,DGII
+77,,2020-11-25 16:16:50,2020-11-23,DGII,Schneider Terrence G.,"VP, Supply Chain",S - Sale,$16.77,-2580,22865,-10%,"-$43,267",,,,,DGII
+78,DM,2020-11-24 18:10:21,2020-11-20,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$16.82,-1012,119886,-1%,"-$17,022",,,,,DGII
+79,DM,2020-11-24 18:10:21,2020-11-20,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",M - OptEx,$12.07,13065,119886,+12%,"+$157,695",,,,,DGII
+80,DM,2020-11-24 18:10:21,2020-11-20,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$17.02,-12059,119886,-9%,"-$205,209",,,,,DGII
+81,M,2020-11-24 17:47:01,2020-11-20,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$16.82,-14536,426902,-3%,"-$244,496",,,,,DGII
+82,M,2020-11-24 17:46:52,2020-11-20,DGII,Riley Kevin C.,"Pres, Digi SmartSense",F - Tax,$16.82,-2932,80955,-3%,"-$49,316",,,,,DGII
+83,M,2020-11-24 17:45:59,2020-11-20,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$16.82,-1012,43664,-2%,"-$17,022",,,,,DGII
+84,DM,2020-11-19 17:55:54,2020-11-17,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",M - OptEx,$12.07,35597,126820,+39%,"+$429,656",,,,,DGII
+85,DM,2020-11-19 17:55:54,2020-11-17,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$17.25,-32654,126820,-20%,"-$563,369",,,,,DGII
+86,DM,2020-11-19 17:47:29,2020-11-17,DGII,Riley Kevin C.,"Pres, IOT Solutions",M - OptEx,$10.20,70000,83887,+504%,"+$714,125",,,,,DGII
+87,DM,2020-11-19 17:47:29,2020-11-17,DGII,Riley Kevin C.,"Pres, IOT Solutions",S - Sale+OE,$17.07,-79599,83887,-49%,"-$1,358,983",,,,,DGII
+88,DM,2020-08-21 18:19:07,2020-08-19,DGII,Roberts Tracy L.,"VP, Technology Services",M - OptEx,$9.68,5855,43719,+15%,"+$56,676",,,,,DGII
+89,DM,2020-08-21 18:19:07,2020-08-19,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$13.78,-5855,43719,-12%,"-$80,669",,,,,DGII
+90,DM,2020-08-18 18:12:54,2020-08-17,DGII,Roberts Tracy L.,"VP, Technology Services",M - OptEx,$9.68,24145,43719,+123%,"+$233,724",,,,,DGII
+91,DM,2020-08-18 18:12:54,2020-08-17,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$14.33,-24145,43719,-36%,"-$346,107",,,,,DGII
+92,,2020-08-17 19:09:47,2020-08-13,DGII,Loch James J.,"SVP, CFO, Treasurer",F - Tax,$13.56,-4093,64198,-6%,"-$55,501",,,,,DGII
+93,,2020-08-04 17:48:13,2020-08-02,DGII,Schneider Terrence G.,"VP, Supply Chain",F - Tax,$12.12,-1170,25445,-4%,"-$14,180",,,,,DGII
+94,DM,2020-05-28 17:41:31,2020-05-26,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",M - OptEx,$9.35,25000,53049,+89%,"+$233,750",,,,,DGII
+95,DM,2020-05-28 17:41:31,2020-05-26,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$11.60,-25000,53049,-32%,"-$289,990",,,,,DGII
+96,D,2020-05-22 15:34:09,2020-05-20,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",M - OptEx,$7.40,12500,53049,+31%,"+$92,500",,,,,DGII
+97,DM,2020-05-22 15:34:09,2020-05-20,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",S - Sale+OE,$11.26,-14000,53049,-21%,"-$157,650",,,,,DGII
+98,M,2020-05-14 17:37:23,2020-02-04,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,101805,439815,+30%,+$0,,,,,DGII
+99,,2020-05-14 17:37:11,2020-05-12,DGII,Heim Christopher,Dir,A - Grant,$0.00,2218,36270,+7%,+$0,,,,,DGII
+100,,2020-05-14 17:36:59,2020-05-12,DGII,Naguib Hatem H.,Dir,A - Grant,$0.00,1880,19756,+11%,+$0,,,,,DGII
+101,,2020-05-14 17:36:47,2020-05-12,DGII,Riley Kevin C.,"Pres, IOT Solutions",A - Grant,$0.00,1218,93486,+1%,+$0,,,,,DGII
+102,,2020-05-14 17:36:26,2020-05-12,DGII,Smith Sally J,Dir,A - Grant,$0.00,2218,32270,+7%,+$0,,,,,DGII
+103,,2020-05-14 17:36:15,2020-05-12,DGII,Ueland Michael A.,"Pres, IoT, Prod, Serv",A - Grant,$0.00,1184,80947,+1%,+$0,,,,,DGII
+104,,2020-05-14 17:36:00,2020-05-12,DGII,Lazarakis Spiro C.,Dir,A - Grant,$0.00,2369,54692,+5%,+$0,,,,,DGII
+105,,2020-05-14 17:35:45,2020-05-12,DGII,Loch James J.,"SVP, CFO, Treasurer",A - Grant,$0.00,1166,68291,+2%,+$0,,,,,DGII
+106,,2020-05-14 17:35:32,2020-05-12,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,3535,69980,+5%,+$0,,,,,DGII
+107,,2020-05-14 17:35:18,2020-05-12,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",A - Grant,$0.00,1045,54549,+2%,+$0,,,,,DGII
+108,,2020-05-14 17:34:54,2020-05-12,DGII,Roberts Tracy L.,"VP, Technology Services",A - Grant,$0.00,917,43719,+2%,+$0,,,,,DGII
+109,,2020-05-14 17:34:38,2020-05-12,DGII,Schneider Terrence G.,"VP, Supply Chain",A - Grant,$0.00,902,26615,+4%,+$0,,,,,DGII
+110,,2020-02-06 19:36:54,2020-02-04,DGII,Smith Sally J,Dir,A - Grant,$0.00,7638,30052,+34%,+$0,,,,,DGII
+111,,2020-02-06 16:28:21,2020-02-04,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,7638,66445,+13%,+$0,,,,,DGII
+112,,2020-02-06 16:28:11,2020-02-04,DGII,Heim Christopher,Dir,A - Grant,$0.00,7638,34052,+29%,+$0,,,,,DGII
+113,,2020-02-06 16:27:26,2020-02-04,DGII,Lazarakis Spiro C.,Dir,A - Grant,$0.00,7638,52323,+17%,+$0,,,,,DGII
+114,,2020-02-06 16:27:16,2020-02-04,DGII,Naguib Hatem H.,Dir,A - Grant,$0.00,7638,17876,+75%,+$0,,,,,DGII
+115,,2020-02-06 16:18:26,2020-02-05,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",P - Purchase,$14.22,500,53504,+1%,"+$7,108",,,,,DGII
+116,,2020-01-27 16:07:31,2020-01-24,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$16.36,-674,53004,-1%,"-$11,023",,,,,DGII
+117,,2019-12-10 17:52:05,2019-12-06,DGII,Schneider Terrence G.,"VP, Supply Chain",F - Tax,$17.32,-334,25713,-1%,"-$5,785",,,,,DGII
+118,D,2019-12-05 16:47:43,2019-12-03,DGII,Roberts Tracy L.,"VP, Technology Services",M - OptEx,$9.68,10000,42802,+30%,"+$96,800",,,,,DGII
+119,D,2019-12-05 16:47:43,2019-12-03,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$17.56,-10000,42802,-19%,"-$175,593",,,,,DGII
+120,D,2019-12-02 17:41:04,2019-11-27,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,133333,338010,+65%,+$0,,,,,DGII
+121,D,2019-12-02 17:41:04,2019-11-28,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$17.94,-10672,338010,-3%,"-$191,456",,,,,DGII
+122,D,2019-12-02 17:40:53,2019-11-27,DGII,Loch James J.,"SVP, CFO, Treasurer",A - Grant,$0.00,13462,67125,+25%,+$0,,,,,DGII
+123,D,2019-12-02 17:40:35,2019-11-27,DGII,Riley Kevin C.,"Pres, IOT Solutions",A - Grant,$0.00,11538,92268,+14%,+$0,,,,,DGII
+124,D,2019-12-02 17:40:35,2019-11-28,DGII,Riley Kevin C.,"Pres, IOT Solutions",F - Tax,$17.94,-1686,92268,-2%,"-$30,247",,,,,DGII
+125,D,2019-12-02 17:40:24,2019-11-27,DGII,Ueland Michael A.,"Pres, IoT, Prod, Serv",A - Grant,$0.00,13462,79763,+20%,+$0,,,,,DGII
+126,D,2019-12-02 17:40:24,2019-11-28,DGII,Ueland Michael A.,"Pres, IoT, Prod, Serv",F - Tax,$17.94,-827,79763,-1%,"-$14,836",,,,,DGII
+127,D,2019-12-02 17:40:11,2019-11-27,DGII,Roberts Tracy L.,"VP, Technology Services",A - Grant,$0.00,5769,42802,+16%,+$0,,,,,DGII
+128,D,2019-12-02 17:40:11,2019-11-28,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$17.94,-581,42802,-1%,"-$10,423",,,,,DGII
+129,D,2019-12-02 17:40:00,2019-11-27,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",A - Grant,$0.00,7692,53678,+17%,+$0,,,,,DGII
+130,D,2019-12-02 17:40:00,2019-11-28,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$17.94,-581,53678,-1%,"-$10,423",,,,,DGII
+131,D,2019-12-02 17:39:14,2019-11-27,DGII,Schneider Terrence G.,"VP, Supply Chain",A - Grant,$0.00,5769,26047,+28%,+$0,,,,,DGII
+132,D,2019-12-02 17:39:14,2019-11-28,DGII,Schneider Terrence G.,"VP, Supply Chain",F - Tax,$17.94,-388,26047,-1%,"-$6,961",,,,,DGII
+133,M,2019-11-26 15:54:33,2019-11-19,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$18.27,-27819,215349,-11%,"-$508,390",,,,,DGII
+134,,2019-11-25 17:08:48,2019-11-21,DGII,Riley Kevin C.,"Pres, IOT Solutions",F - Tax,$18.16,-1484,82416,-2%,"-$26,942",,,,,DGII
+135,,2019-11-25 17:08:29,2019-11-21,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$18.16,-512,37614,-1%,"-$9,295",,,,,DGII
+136,,2019-11-25 17:08:14,2019-11-21,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$18.16,-512,46567,-1%,"-$9,295",,,,,DGII
+137,D,2019-11-25 17:07:57,2019-11-22,DGII,Ueland Michael A.,"Pres, IoT, Prod, Serv",M - OptEx,$9.75,10000,67128,+18%,"+$97,500",,,,,DGII
+138,D,2019-11-25 17:07:57,2019-11-22,DGII,Ueland Michael A.,"Pres, IoT, Prod, Serv",S - Sale+OE,$18.34,-10000,67128,-13%,"-$183,424",,,,,DGII
+139,,2019-11-22 17:37:51,2019-11-20,DGII,Riley Kevin C.,"Pres, IOT Solutions",F - Tax,$18.48,-1451,83900,-2%,"-$26,814",,,,,DGII
+140,,2019-11-22 17:37:40,2019-11-20,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$18.48,-501,38126,-1%,"-$9,258",,,,,DGII
+141,,2019-11-22 17:37:30,2019-11-20,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$18.48,-501,47079,-1%,"-$9,258",,,,,DGII
+142,,2019-11-22 17:37:18,2019-11-20,DGII,Ueland Michael A.,"Pres, IoT, Prod, Serv",F - Tax,$18.48,-1485,67128,-2%,"-$27,443",,,,,DGII
+143,,2019-11-21 17:56:44,2019-11-19,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$18.20,-455,38627,-1%,"-$8,279",,,,,DGII
+144,,2019-11-21 17:55:45,2019-11-19,DGII,Sampsell David H.,"VP, Corp. Dev, GC, Corp. Sec.",F - Tax,$18.20,-455,47580,-1%,"-$8,279",,,,,DGII
+145,D,2019-11-21 17:42:56,2019-11-19,DGII,Riley Kevin C.,"Pres, IOT Solutions",F - Tax,$18.20,-1319,85351,-2%,"-$23,999",,,,,DGII
+146,D,2019-11-21 17:42:56,2019-11-19,DGII,Riley Kevin C.,"Pres, IOT Solutions",M - OptEx,$10.30,95000,85351,-985%,"+$978,150",,,,,DGII
+147,D,2019-11-21 17:42:56,2019-11-19,DGII,Riley Kevin C.,"Pres, IOT Solutions",S - Sale+OE,$18.17,-95000,85351,-53%,"-$1,725,789",,,,,DGII
+148,,2019-11-04 20:46:06,2019-11-01,DGII,Ueland Michael A.,"Pres, IoT, Prod, Serv",F - Tax,$14.64,-3713,68613,-5%,"-$54,358",,,,,DGII
+149,D,2019-08-15 19:56:49,2019-08-13,DGII,Loch James J.,"SVP, CFO, Treasurer",A - Grant,$0.00,53663,53663,New,+$0,,,,,DGII
+150,,2019-08-06 16:32:51,2019-08-02,DGII,Schneider Terrence G.,"VP, Supply Chain",F - Tax,$12.84,-1114,23302,-5%,"-$14,304",,,,,DGII
+151,D,2019-06-07 09:53:24,2019-06-05,DGII,Roberts Tracy L.,"VP, Technology Services",M - OptEx,$8.03,15000,38401,+64%,"+$120,450",,,,,DGII
+152,DM,2019-06-07 09:53:24,2019-06-05,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$11.43,-22180,38401,-37%,"-$253,485",,,,,DGII
+153,DM,2019-02-21 17:30:04,2019-02-19,DGII,Nyland Jon A.,"VP, Manufacturing Operations",M - OptEx,$10.81,12500,17052,+275%,"+$135,125",,,,,DGII
+154,DM,2019-02-21 17:30:04,2019-02-19,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.44,-38814,17052,-69%,"-$521,742",,,,,DGII
+155,DM,2019-02-15 18:32:31,2019-02-13,DGII,Nyland Jon A.,"VP, Manufacturing Operations",M - OptEx,$9.33,52398,43366,-580%,"+$489,101",,,,,DGII
+156,DM,2019-02-15 18:32:31,2019-02-13,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.34,-52398,43366,-55%,"-$698,757",,,,,DGII
+157,DM,2019-02-13 15:58:46,2019-02-11,DGII,Nyland Jon A.,"VP, Manufacturing Operations",M - OptEx,$10.51,33071,43366,+321%,"+$347,614",,,,,DGII
+158,DM,2019-02-13 15:58:46,2019-02-11,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.23,-33071,43366,-43%,"-$437,395",,,,,DGII
+159,,2019-02-07 17:03:48,2019-02-05,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,9828,58807,+20%,+$0,,,,,DGII
+160,,2019-02-07 17:03:37,2019-02-05,DGII,Lazarakis Spiro C.,Dir,A - Grant,$0.00,9828,44685,+28%,+$0,,,,,DGII
+161,,2019-02-07 17:03:27,2019-02-05,DGII,Smith Sally J,Dir,A - Grant,$0.00,9828,22414,+78%,+$0,,,,,DGII
+162,,2019-02-07 17:03:12,2019-02-05,DGII,Heim Christopher,Dir,A - Grant,$0.00,9828,26414,+59%,+$0,,,,,DGII
+163,DM,2019-02-07 17:03:01,2019-02-05,DGII,Nyland Jon A.,"VP, Manufacturing Operations",M - OptEx,$9.04,32553,43366,+301%,"+$294,401",,,,,DGII
+164,DM,2019-02-07 17:03:01,2019-02-05,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.38,-32553,43366,-43%,"-$435,545",,,,,DGII
+165,D,2019-02-07 17:02:46,2019-02-05,DGII,Riley Kevin C.,"Pres, IOT Solutions",M - OptEx,$9.59,41000,86670,+90%,"+$393,190",,,,,DGII
+166,D,2019-02-07 17:02:46,2019-02-05,DGII,Riley Kevin C.,"Pres, IOT Solutions",S - Sale+OE,$13.50,-41000,86670,-32%,"-$553,484",,,,,DGII
+167,,2019-02-07 17:02:24,2019-02-05,DGII,Naguib Hatem H.,Dir,A - Grant,$0.00,10238,10238,New,+$0,,,,,DGII
+168,,2019-01-28 16:46:12,2019-01-24,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$11.04,-674,45523,-1%,"-$7,441",,,,,DGII
+169,,2018-12-19 18:27:08,2018-12-17,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$10.90,-27279,240959,-10%,"-$297,341",,,,,DGII
+170,DM,2018-12-04 17:21:51,2018-11-30,DGII,Nawaz Ahmed,Dir,M - OptEx,$7.88,13300,146564,+10%,"+$104,804",,,,,DGII
+171,DM,2018-12-04 17:21:51,2018-11-30,DGII,Nawaz Ahmed,Dir,S - Sale+OE,$11.40,-13300,146564,-8%,"-$151,670",,,,,DGII
+172,,2018-11-30 17:38:22,2018-11-28,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$11.72,-9407,268238,-3%,"-$110,250",,,,,DGII
+173,,2018-11-30 17:38:07,2018-11-28,DGII,Riley Kevin C.,"Pres, IOT Solutions",F - Tax,$11.72,-1162,86670,-1%,"-$13,619",,,,,DGII
+174,,2018-11-30 17:37:51,2018-11-28,DGII,Nyland Jon A.,"VP, Manufacturing Operations",F - Tax,$11.72,-581,43366,-1%,"-$6,809",,,,,DGII
+175,,2018-11-30 17:37:33,2018-11-28,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$11.72,-581,45581,-1%,"-$6,809",,,,,DGII
+176,,2018-11-30 17:37:11,2018-11-28,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$11.72,-581,46197,-1%,"-$6,809",,,,,DGII
+177,,2018-11-30 17:36:30,2018-11-28,DGII,Ueland Michael A.,"Pres, IoT, Prod, Serv",F - Tax,$11.72,-845,72326,-1%,"-$9,903",,,,,DGII
+178,D,2018-11-29 18:05:14,2018-11-28,DGII,Nawaz Ahmed,Dir,M - OptEx,$7.88,7213,146564,+5%,"+$56,838",,,,,DGII
+179,D,2018-11-29 18:05:14,2018-11-28,DGII,Nawaz Ahmed,Dir,S - Sale+OE,$11.74,-7213,146564,-5%,"-$84,686",,,,,DGII
+180,,2018-11-26 17:36:05,2018-11-21,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$11.73,-8698,277645,-3%,"-$102,028",,,,,DGII
+181,,2018-11-26 17:35:53,2018-11-21,DGII,Riley Kevin C.,"Pres, IOT Solutions",F - Tax,$11.73,-1023,87832,-1%,"-$12,000",,,,,DGII
+182,,2018-11-26 17:35:42,2018-11-21,DGII,Nyland Jon A.,"VP, Manufacturing Operations",F - Tax,$11.73,-512,43947,-1%,"-$6,006",,,,,DGII
+183,,2018-11-26 17:35:25,2018-11-21,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$11.73,-512,46162,-1%,"-$6,006",,,,,DGII
+184,,2018-11-26 17:34:23,2018-11-21,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$11.73,-512,46778,-1%,"-$6,006",,,,,DGII
+185,D,2018-11-21 16:43:12,2018-11-20,DGII,Roberts Tracy L.,"VP, Technology Services",A - Grant,$0.00,6533,46674,+16%,+$0,,,,,DGII
+186,DM,2018-11-21 16:43:12,2018-11-19,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$11.90,-933,46674,-2%,"-$11,107",,,,,DGII
+187,D,2018-11-21 16:43:12,2018-11-21,DGII,Roberts Tracy L.,"VP, Technology Services",M - OptEx,$8.49,2401,46674,+5%,"+$20,384",,,,,DGII
+188,D,2018-11-21 16:43:12,2018-11-21,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$11.86,-2401,46674,-5%,"-$28,481",,,,,DGII
+189,D,2018-11-21 16:42:12,2018-11-20,DGII,Nyland Jon A.,"VP, Manufacturing Operations",A - Grant,$0.00,6533,44459,+17%,+$0,,,,,DGII
+190,DM,2018-11-21 16:42:12,2018-11-19,DGII,Nyland Jon A.,"VP, Manufacturing Operations",F - Tax,$11.90,-933,44459,-2%,"-$11,107",,,,,DGII
+191,D,2018-11-21 16:41:44,2018-11-20,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,43554,286343,+18%,+$0,,,,,DGII
+192,D,2018-11-21 16:41:44,2018-11-19,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$11.94,-7727,286343,-3%,"-$92,260",,,,,DGII
+193,D,2018-11-21 16:41:27,2018-11-20,DGII,Riley Kevin C.,"Pres, IOT Solutions",A - Grant,$0.00,13066,88855,+17%,+$0,,,,,DGII
+194,DM,2018-11-21 16:41:27,2018-11-19,DGII,Riley Kevin C.,"Pres, IOT Solutions",F - Tax,$11.90,-2152,88855,-2%,"-$25,608",,,,,DGII
+195,D,2018-11-21 16:41:15,2018-11-20,DGII,Hemmady Gokul V,"SVP, CFO, Treasurer",A - Grant,$0.00,10889,60889,+22%,+$0,,,,,DGII
+196,D,2018-11-21 16:41:01,2018-11-20,DGII,Ueland Michael A.,"Pres, IoT",A - Grant,$0.00,20000,73171,+38%,+$0,,,,,DGII
+197,D,2018-11-21 16:40:40,2018-11-20,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",A - Grant,$0.00,6533,47290,+16%,+$0,,,,,DGII
+198,DM,2018-11-21 16:40:40,2018-11-19,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$11.90,-933,47290,-2%,"-$11,107",,,,,DGII
+199,,2018-11-05 16:42:04,2018-11-01,DGII,Ueland Michael A.,Pres of Products,F - Tax,$11.72,-3794,53171,-7%,"-$44,466",,,,,DGII
+200,D,2018-08-14 17:26:05,2018-08-10,DGII,Nyland Jon A.,"VP, Manufacturing Operations",M - OptEx,$8.03,8452,38859,+28%,"+$67,870",,,,,DGII
+201,D,2018-08-14 17:26:05,2018-08-10,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.10,-8452,38859,-18%,"-$110,754",,,,,DGII
+202,DM,2018-08-10 15:23:20,2018-08-08,DGII,Nyland Jon A.,"VP, Manufacturing Operations",M - OptEx,$8.03,13995,38859,+56%,"+$112,380",,,,,DGII
+203,DM,2018-08-10 15:23:20,2018-08-08,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.22,-13995,38859,-26%,"-$185,006",,,,,DGII
+204,DM,2018-08-02 16:35:15,2018-07-31,DGII,Nyland Jon A.,"VP, Manufacturing Operations",M - OptEx,$8.49,10000,38859,+35%,"+$84,900",,,,,DGII
+205,DM,2018-08-02 16:35:15,2018-07-31,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$13.43,-10000,38859,-20%,"-$134,264",,,,,DGII
+206,D,2018-08-02 16:35:05,2018-07-31,DGII,Hemmady Gokul V,"SVP, CFO, Treasurer",A - Grant,$0.00,50000,50000,New,+$0,,,,,DGII
+207,D,2018-06-01 16:05:59,2018-05-30,DGII,Roberts Tracy L.,"VP, Technology Services",M - OptEx,$8.49,8438,41074,+26%,"+$71,639",,,,,DGII
+208,D,2018-06-01 16:05:59,2018-05-30,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$12.03,-8438,41074,-17%,"-$101,526",,,,,DGII
+209,D,2018-05-30 16:11:03,2018-05-25,DGII,Roberts Tracy L.,"VP, Technology Services",M - OptEx,$8.49,1661,41074,+4%,"+$14,102",,,,,DGII
+210,D,2018-05-30 16:11:03,2018-05-25,DGII,Roberts Tracy L.,"VP, Technology Services",S - Sale+OE,$12.00,-1661,41074,-4%,"-$19,932",,,,,DGII
+211,,2018-05-01 16:33:10,2018-04-28,DGII,Goergen Michael C.,"SVP, CFO, Treasurer",F - Tax,$11.30,-3807,79903,-5%,"-$43,019",,,,,DGII
+212,D,2018-02-26 16:37:19,2018-02-22,DGII,Riley Kevin C.,COO,M - OptEx,$9.59,20000,77941,+35%,"+$191,800",,,,,DGII
+213,D,2018-02-26 16:37:19,2018-02-22,DGII,Riley Kevin C.,COO,S - Sale+OE,$10.45,-20000,77941,-20%,"-$209,000",,,,,DGII
+214,D,2018-02-20 18:00:29,2018-02-16,DGII,Riley Kevin C.,COO,M - OptEx,$9.59,4000,159881,+3%,"+$38,360",,,,,DGII
+215,D,2018-02-20 18:00:29,2018-02-16,DGII,Riley Kevin C.,COO,S - Sale+OE,$10.50,-4000,159881,-2%,"-$42,000",,,,,DGII
+216,,2018-02-01 17:32:38,2018-01-30,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,8559,48979,+21%,+$0,,,,,DGII
+217,,2018-02-01 17:32:25,2018-01-30,DGII,Lazarakis Spiro C.,Dir,A - Grant,$0.00,8559,34857,+33%,+$0,,,,,DGII
+218,,2018-02-01 17:32:13,2018-01-30,DGII,Nawaz Ahmed,Dir,A - Grant,$0.00,8559,146564,+6%,+$0,,,,,DGII
+219,,2018-02-01 17:32:00,2018-01-30,DGII,Heim Christopher,Dir,A - Grant,$0.00,12586,16586,+315%,+$0,,,,,DGII
+220,,2018-02-01 17:31:11,2018-01-30,DGII,Smith Sally J,Dir,A - Grant,$0.00,12586,12586,New,+$0,,,,,DGII
+221,,2018-01-26 16:35:34,2018-01-24,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",A - Grant,$0.00,7500,39831,+23%,+$0,,,,,DGII
+222,,2017-12-19 17:52:50,2017-12-17,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$9.80,-27279,247126,-10%,"-$267,334",,,,,DGII
+223,D,2017-11-30 17:34:58,2017-11-28,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,50607,274405,+23%,+$0,,,,,DGII
+224,D,2017-11-30 17:34:46,2017-11-28,DGII,Goergen Michael C.,"SVP, CFO, Treasurer",A - Grant,$0.00,17713,83710,+27%,+$0,,,,,DGII
+225,D,2017-11-30 17:34:36,2017-11-28,DGII,Riley Kevin C.,COO,A - Grant,$0.00,15182,77941,+24%,+$0,,,,,DGII
+226,D,2017-11-30 17:34:26,2017-11-28,DGII,Nyland Jon A.,"VP, Manufacturing Operations",A - Grant,$0.00,7591,38859,+24%,+$0,,,,,DGII
+227,D,2017-11-30 17:33:31,2017-11-28,DGII,Roberts Tracy L.,"VP, Technology Services",A - Grant,$0.00,7591,40742,+23%,+$0,,,,,DGII
+228,D,2017-11-30 17:33:10,2017-11-28,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",A - Grant,$0.00,7591,32331,+31%,+$0,,,,,DGII
+229,,2017-11-27 17:47:15,2017-11-21,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$10.05,-7294,223798,-3%,"-$73,305",,,,,DGII
+230,,2017-11-27 17:46:15,2017-11-21,DGII,Goergen Michael C.,"SVP, CFO, Treasurer",F - Tax,$10.05,-937,65997,-1%,"-$9,417",,,,,DGII
+231,,2017-11-27 17:36:41,2017-11-21,DGII,Riley Kevin C.,COO,F - Tax,$10.05,-1124,62759,-2%,"-$11,296",,,,,DGII
+232,,2017-11-27 17:36:06,2017-11-21,DGII,Nyland Jon A.,"VP, Manufacturing Operations",F - Tax,$10.05,-562,31268,-2%,"-$5,648",,,,,DGII
+233,,2017-11-27 17:35:31,2017-11-21,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$10.05,-562,33151,-2%,"-$5,648",,,,,DGII
+234,,2017-11-27 17:35:18,2017-11-21,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$10.05,-562,24740,-2%,"-$5,648",,,,,DGII
+235,M,2017-11-21 20:18:52,2017-11-19,DGII,Riley Kevin C.,COO,F - Tax,$9.98,-2363,63883,-4%,"-$23,585",,,,,DGII
+236,M,2017-11-21 20:18:08,2017-11-19,DGII,Roberts Tracy L.,"VP, Technology Services",F - Tax,$9.95,-1025,33713,-3%,"-$10,204",,,,,DGII
+237,M,2017-11-21 20:17:49,2017-11-19,DGII,Nyland Jon A.,"VP, Manufacturing Operations",F - Tax,$9.95,-1025,31830,-3%,"-$10,204",,,,,DGII
+238,,2017-11-21 20:17:32,2017-11-19,DGII,Goergen Michael C.,"SVP, CFO, Treasurer",F - Tax,$9.75,-832,66934,-1%,"-$8,112",,,,,DGII
+239,,2017-11-21 20:17:13,2017-11-19,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$9.75,-6480,231092,-3%,"-$63,180",,,,,DGII
+240,M,2017-11-21 20:16:56,2017-11-19,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$9.95,-1025,25302,-4%,"-$10,204",,,,,DGII
+241,,2017-05-04 16:25:04,2017-04-28,DGII,Goergen Michael C.,"SVP, CFO, Treasurer",F - Tax,$12.40,-4332,66231,-6%,"-$53,717",-13.0,-19.0,,,DGII
+242,,2017-02-02 17:57:30,2017-01-31,DGII,Priesmeyer William N,Dir,A - Grant,$0.00,7048,45714,+18%,+$0,0.0,-3.0,1.0,,DGII
+243,,2017-02-02 17:56:57,2017-01-31,DGII,Nawaz Ahmed,Dir,A - Grant,$0.00,7048,138005,+5%,+$0,0.0,-3.0,1.0,,DGII
+244,,2017-02-02 17:55:37,2017-01-31,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,7048,40420,+21%,+$0,0.0,-3.0,1.0,,DGII
+245,,2017-02-02 17:55:11,2017-01-31,DGII,Rishi Girish D,Dir,A - Grant,$0.00,7048,40420,+21%,+$0,0.0,-3.0,1.0,,DGII
+246,,2017-02-02 17:54:06,2017-01-31,DGII,Lazarakis Spiro C.,Dir,A - Grant,$0.00,7048,26298,+37%,+$0,0.0,-3.0,1.0,,DGII
+247,,2017-01-18 17:46:56,2017-01-16,DGII,Riley Kevin C.,COO,F - Tax,$13.60,-2918,65527,-4%,"-$39,685",-1.0,1.0,-4.0,,DGII
+248,,2017-01-18 17:46:37,2017-01-16,DGII,Roberts Tracy L.,"VP, HR, Information Tech",F - Tax,$13.60,-1621,31856,-5%,"-$22,046",-1.0,1.0,-4.0,,DGII
+249,,2017-01-18 17:46:18,2017-01-16,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$13.60,-1621,25952,-6%,"-$22,046",-1.0,1.0,-4.0,,DGII
+250,,2017-01-18 17:45:47,2017-01-16,DGII,Young Joel K,"SVP Research Dev., CTO",F - Tax,$13.60,-1621,40821,-4%,"-$22,046",-1.0,1.0,-4.0,,DGII
+251,,2017-01-18 17:45:28,2017-01-16,DGII,Nyland Jon A.,"VP, Manufacturing Operations",F - Tax,$13.60,-1621,31731,-5%,"-$22,046",-1.0,1.0,-4.0,,DGII
+252,,2016-12-20 17:29:59,2016-12-17,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$13.70,-14701,235461,-6%,"-$201,404",0.0,0.0,-3.0,,DGII
+253,D,2016-11-30 18:03:25,2016-11-28,DGII,Priesmeyer William N,Dir,M - OptEx,$12.46,13000,38666,+51%,"+$161,980",0.0,2.0,4.0,,DGII
+254,D,2016-11-30 18:03:25,2016-11-28,DGII,Priesmeyer William N,Dir,S - Sale+OE,$14.00,-12326,38666,-24%,"-$172,564",0.0,2.0,4.0,,DGII
+255,,2016-11-30 18:03:12,2016-11-28,DGII,Goergen Michael C.,"SVP, CFO, Treasurer",F - Tax,$13.50,-832,69968,-1%,"-$11,232",0.0,2.0,4.0,,DGII
+256,,2016-11-30 18:02:55,2016-11-28,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$13.50,-3492,250162,-1%,"-$47,142",0.0,2.0,4.0,,DGII
+257,,2016-11-30 18:02:43,2016-11-28,DGII,Nyland Jon A.,"VP, Manufacturing Operations",F - Tax,$13.50,-1026,33352,-3%,"-$13,851",0.0,2.0,4.0,,DGII
+258,,2016-11-30 18:02:30,2016-11-28,DGII,Riley Kevin C.,COO,F - Tax,$13.50,-2364,68445,-3%,"-$31,914",0.0,2.0,4.0,,DGII
+259,,2016-11-30 18:02:16,2016-11-28,DGII,Roberts Tracy L.,"VP, HR, Information Tech",F - Tax,$13.50,-1026,33477,-3%,"-$13,851",0.0,2.0,4.0,,DGII
+260,,2016-11-30 18:02:03,2016-11-28,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$13.50,-1026,27573,-4%,"-$13,851",0.0,2.0,4.0,,DGII
+261,,2016-11-30 18:01:50,2016-11-28,DGII,Young Joel K,"SVP Research Dev., CTO",F - Tax,$13.50,-1988,42442,-4%,"-$26,838",0.0,2.0,4.0,,DGII
+262,D,2016-11-23 17:08:10,2016-11-21,DGII,Riley Kevin C.,COO,A - Grant,$0.00,13369,70809,+23%,+$0,0.0,-1.0,3.0,,DGII
+263,D,2016-11-23 17:07:57,2016-11-21,DGII,Young Joel K,"SVP Research Dev., CTO",A - Grant,$0.00,11141,44430,+33%,+$0,0.0,-1.0,3.0,,DGII
+264,D,2016-11-23 17:07:43,2016-11-21,DGII,Nyland Jon A.,"VP, Manufacturing Operations",A - Grant,$0.00,6684,34378,+24%,+$0,0.0,-1.0,3.0,,DGII
+265,D,2016-11-23 17:07:27,2016-11-21,DGII,Roberts Tracy L.,"VP, HR, Information Tech",A - Grant,$0.00,6684,34503,+24%,+$0,0.0,-1.0,3.0,,DGII
+266,D,2016-11-23 17:07:14,2016-11-21,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",A - Grant,$0.00,6684,28599,+30%,+$0,0.0,-1.0,3.0,,DGII
+267,D,2016-11-23 17:06:55,2016-11-21,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,46791,253654,+23%,+$0,0.0,-1.0,3.0,,DGII
+268,D,2016-11-23 17:06:28,2016-11-21,DGII,Goergen Michael C.,"SVP, CFO, Treasurer",A - Grant,$0.00,11141,70800,+19%,+$0,0.0,-1.0,3.0,,DGII
+269,DM,2016-05-26 16:26:22,2016-05-24,DGII,Roberts Tracy L.,"VP, HR, Information Tech",M - OptEx,$8.03,20000,26775,+295%,"+$160,600",-1.0,4.0,-7.0,21.0,DGII
+270,DM,2016-05-26 16:26:22,2016-05-24,DGII,Roberts Tracy L.,"VP, HR, Information Tech",S - Sale+OE,$11.25,-20000,26775,-43%,"-$225,000",-1.0,4.0,-7.0,21.0,DGII
+271,D,2016-05-17 10:02:35,2016-05-13,DGII,Riley Kevin C.,COO,S - Sale+OE,$11.16,-20000,56389,-26%,"-$223,260",-5.0,-3.0,-2.0,5.0,DGII
+272,D,2016-05-17 10:02:35,2016-05-13,DGII,Riley Kevin C.,COO,M - OptEx,$9.59,20000,56389,+55%,"+$191,800",-5.0,-3.0,-2.0,5.0,DGII
+273,,2016-05-02 17:20:00,2016-04-28,DGII,Goergen Michael C.,"SVP, CFO, Treasurer",F - Tax,$9.26,-4155,58241,-7%,"-$38,475",-2.0,0.0,2.0,-3.0,DGII
+274,,2016-02-03 16:51:48,2016-02-01,DGII,Rishi Girish D,Dir,A - Grant,$0.00,9250,33372,+38%,+$0,-1.0,-7.0,-3.0,24.0,DGII
+275,,2016-02-03 16:51:38,2016-02-01,DGII,Nawaz Ahmed,Dir,A - Grant,$0.00,9250,130957,+8%,+$0,-1.0,-7.0,-3.0,24.0,DGII
+276,,2016-02-03 16:51:27,2016-02-01,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,9250,33372,+38%,+$0,-1.0,-7.0,-3.0,24.0,DGII
+277,,2016-02-03 16:51:17,2016-02-01,DGII,Priesmeyer William N,Dir,A - Grant,$0.00,9250,37992,+32%,+$0,-1.0,-7.0,-3.0,24.0,DGII
+278,,2016-02-03 16:51:06,2016-02-01,DGII,Lazarakis Spiro C.,Dir,A - Grant,$0.00,9250,19250,+93%,+$0,-1.0,-7.0,-3.0,24.0,DGII
+279,,2016-01-22 19:41:08,2016-01-20,DGII,Nyland Jon A.,"VP, Manufacturing Operations",F - Tax,$10.47,-1621,26199,-6%,"-$16,972",-1.0,2.0,-2.0,21.0,DGII
+280,,2016-01-22 19:40:44,2016-01-20,DGII,Young Joel K,"SVP Research Dev., CTO",F - Tax,$10.47,-1621,33289,-5%,"-$16,972",-1.0,2.0,-2.0,21.0,DGII
+281,,2016-01-22 19:40:24,2016-01-20,DGII,Roberts Tracy L.,"VP, HR, Information Tech",F - Tax,$10.47,-1621,26775,-6%,"-$16,972",-1.0,2.0,-2.0,21.0,DGII
+282,,2016-01-22 19:39:50,2016-01-20,DGII,Riley Kevin C.,COO,F - Tax,$10.47,-2918,55441,-5%,"-$30,551",-1.0,2.0,-2.0,21.0,DGII
+283,,2016-01-22 19:39:27,2016-01-20,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$10.47,-1621,21915,-7%,"-$16,972",-1.0,2.0,-2.0,21.0,DGII
+284,,2015-12-21 19:41:56,2015-12-17,DGII,Konezny Ronald,"Pres, CEO",F - Tax,$11.93,-14700,204310,-7%,"-$175,371",2.0,-2.0,-10.0,-5.0,DGII
+285,A,2015-12-21 19:40:35,2015-11-19,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,41568,219010,+23%,+$0,2.0,-2.0,-10.0,-5.0,DGII
+286,,2015-12-04 19:41:41,2015-12-03,DGII,Roberts Tracy L.,"VP, HR, Information Tech",F - Tax,$12.60,-511,28032,-2%,"-$6,439",0.0,-3.0,-13.0,-10.0,DGII
+287,,2015-12-04 19:41:26,2015-12-03,DGII,Liebl Jeffrey F,"VP, Marketing",F - Tax,$12.60,-511,23999,-2%,"-$6,439",0.0,-3.0,-13.0,-10.0,DGII
+288,,2015-12-04 19:41:12,2015-12-03,DGII,Riley Kevin C.,"SVP, Sales",F - Tax,$12.60,-1328,57206,-2%,"-$16,733",0.0,-3.0,-13.0,-10.0,DGII
+289,,2015-12-04 19:40:50,2015-12-03,DGII,Young Joel K,"SVP Research Dev., CTO",F - Tax,$12.60,-1124,34910,-3%,"-$14,162",0.0,-3.0,-13.0,-10.0,DGII
+290,,2015-12-04 19:40:38,2015-12-03,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$12.60,-511,23536,-2%,"-$6,439",0.0,-3.0,-13.0,-10.0,DGII
+291,,2015-12-04 19:40:20,2015-12-03,DGII,Nyland Jon A.,"VP, Manufacturing Operations",F - Tax,$12.60,-511,26813,-2%,"-$6,439",0.0,-3.0,-13.0,-10.0,DGII
+292,D,2015-11-25 10:58:13,2015-11-24,DGII,Jackson Guy C.,Dir,M - OptEx,$10.93,18000,44707,+67%,"+$196,740",-1.0,2.0,-4.0,-10.0,DGII
+293,D,2015-11-23 18:02:26,2015-11-19,DGII,Goergen Michael C.,"SVP, CFO, Treasurer",A - Grant,$0.00,9897,59897,+20%,+$0,0.0,0.0,-5.0,-11.0,DGII
+294,D,2015-11-23 18:02:16,2015-11-19,DGII,Riley Kevin C.,"SVP, Sales",A - Grant,$0.00,11876,58534,+25%,+$0,0.0,0.0,-5.0,-11.0,DGII
+295,D,2015-11-23 18:02:06,2015-11-19,DGII,Young Joel K,"SVP Research Dev., CTO",A - Grant,$0.00,9897,36034,+38%,+$0,0.0,0.0,-5.0,-11.0,DGII
+296,D,2015-11-23 18:01:54,2015-11-19,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,41568,75765,+122%,+$0,0.0,0.0,-5.0,-11.0,DGII
+297,D,2015-11-23 18:01:35,2015-11-19,DGII,Liebl Jeffrey F,"VP, Marketing",A - Grant,$0.00,4949,24510,+25%,+$0,0.0,0.0,-5.0,-11.0,DGII
+298,D,2015-11-23 18:01:23,2015-11-19,DGII,Nyland Jon A.,"VP, Manufacturing Operations",A - Grant,$0.00,5938,27324,+28%,+$0,0.0,0.0,-5.0,-11.0,DGII
+299,D,2015-11-23 18:01:01,2015-11-19,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",A - Grant,$0.00,5938,24047,+33%,+$0,0.0,0.0,-5.0,-11.0,DGII
+300,D,2015-11-23 18:00:40,2015-11-19,DGII,Roberts Tracy L.,"VP, HR, Information Tech",A - Grant,$0.00,5938,28543,+26%,+$0,0.0,0.0,-5.0,-11.0,DGII
+301,,2015-11-09 10:41:54,2015-11-05,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",P - Purchase,$12.81,1000,18109,+6%,"+$12,808",1.0,-5.0,-1.0,-11.0,DGII
+302,D,2015-11-04 16:08:57,2015-11-02,DGII,Priesmeyer William N,Dir,F - Tax,$12.90,-19715,28742,-41%,"-$254,324",0.0,0.0,-2.0,-20.0,DGII
+303,D,2015-11-04 16:08:57,2015-11-02,DGII,Priesmeyer William N,Dir,M - OptEx,$10.71,23750,28742,+476%,"+$254,320",0.0,0.0,-2.0,-20.0,DGII
+304,,2015-07-30 17:25:20,2015-07-28,DGII,Lazarakis Spiro C.,Dir,A - Grant,$0.00,10000,10000,New,+$0,1.0,0.0,-1.0,-11.0,DGII
+305,D,2015-05-01 10:15:27,2015-04-28,DGII,Goergen Michael C.,"SVP, CFO, Treasurer",A - Grant,$0.00,50000,50000,New,+$0,-2.0,-4.0,-1.0,18.0,DGII
+306,A,2015-01-30 19:02:48,2014-11-20,DGII,Liebl Jeffrey F,"VP, Marketing",A - Grant,$0.00,6250,18750,+50%,+$0,7.0,7.0,11.0,5.0,DGII
+307,A,2015-01-30 19:02:37,2014-11-20,DGII,Snyder Steven E,"SVP, CFO, Treasurer",A - Grant,$0.00,13750,35710,+63%,+$0,7.0,7.0,11.0,5.0,DGII
+308,A,2015-01-30 19:02:25,2014-11-20,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",A - Grant,$0.00,6250,18750,+50%,+$0,7.0,7.0,11.0,5.0,DGII
+309,A,2015-01-30 19:02:13,2014-11-20,DGII,Nyland Jon A.,"VP, Manufacturing Operations",A - Grant,$0.00,6250,19243,+48%,+$0,7.0,7.0,11.0,5.0,DGII
+310,A,2015-01-30 19:02:03,2014-11-20,DGII,Roberts Tracy L.,"VP, HR, Information Tech",A - Grant,$0.00,6250,23428,+36%,+$0,7.0,7.0,11.0,5.0,DGII
+311,A,2015-01-30 19:01:53,2014-11-20,DGII,Riley Kevin C.,"SVP, Sales",A - Grant,$0.00,16250,43899,+59%,+$0,7.0,7.0,11.0,5.0,DGII
+312,A,2015-01-30 19:01:40,2014-11-20,DGII,Young Joel K,"SVP Research Dev., CTO",A - Grant,$0.00,13750,27778,+98%,+$0,7.0,7.0,11.0,5.0,DGII
+313,,2015-01-30 18:56:58,2015-01-28,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",F - Tax,$8.49,-1641,17109,-9%,"-$13,932",7.0,7.0,11.0,5.0,DGII
+314,,2015-01-30 18:56:42,2015-01-28,DGII,Young Joel K,"SVP Research Dev., CTO",F - Tax,$8.49,-1641,26137,-6%,"-$13,932",7.0,7.0,11.0,5.0,DGII
+315,,2015-01-30 18:56:27,2015-01-28,DGII,Roberts Tracy L.,"VP, HR, Information Tech",F - Tax,$8.49,-1641,22078,-7%,"-$13,932",7.0,7.0,11.0,5.0,DGII
+316,,2015-01-30 18:56:09,2015-01-29,DGII,Liebl Jeffrey F,"VP, Marketing",F - Tax,$8.49,-1641,17109,-9%,"-$13,932",7.0,7.0,11.0,5.0,DGII
+317,,2015-01-29 17:09:52,2015-01-27,DGII,Jackson Guy C.,Dir,A - Grant,$0.00,7400,26707,+38%,+$0,1.0,8.0,12.0,5.0,DGII
+318,,2015-01-29 17:09:42,2015-01-27,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,7400,24122,+44%,+$0,1.0,8.0,12.0,5.0,DGII
+319,,2015-01-29 17:09:32,2015-01-27,DGII,Nawaz Ahmed,Dir,A - Grant,$0.00,7400,121707,+6%,+$0,1.0,8.0,12.0,5.0,DGII
+320,,2015-01-29 17:09:23,2015-01-27,DGII,Priesmeyer William N,Dir,A - Grant,$0.00,7400,24707,+43%,+$0,1.0,8.0,12.0,5.0,DGII
+321,,2015-01-29 17:09:14,2015-01-27,DGII,Rishi Girish D,Dir,A - Grant,$0.00,7400,24122,+44%,+$0,1.0,8.0,12.0,5.0,DGII
+322,D,2014-12-18 17:50:04,2014-12-17,DGII,Konezny Ronald,"Pres, CEO",A - Grant,$0.00,175000,175000,New,+$0,2.0,8.0,-3.0,20.0,DGII
+323,D,2014-11-24 20:20:02,2014-11-20,DGII,Nyland Jon A.,"VP, Manufacturing Operations",A - Grant,$0.00,6250,19243,+48%,+$0,-4.0,-3.0,20.0,31.0,DGII
+324,D,2014-11-24 20:19:41,2014-11-20,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",A - Grant,$0.00,6250,18750,+50%,+$0,-4.0,-3.0,20.0,31.0,DGII
+325,D,2014-11-24 20:19:09,2014-11-20,DGII,Snyder Steven E,"SVP, CFO, Treasurer",A - Grant,$0.00,13750,35710,+63%,+$0,-4.0,-3.0,20.0,31.0,DGII
+326,D,2014-11-24 20:18:46,2014-11-20,DGII,Liebl Jeffrey F,"VP, Marketing",A - Grant,$0.00,6250,18750,+50%,+$0,-4.0,-3.0,20.0,31.0,DGII
+327,D,2014-11-24 20:18:23,2014-11-20,DGII,Young Joel K,"SVP Research Dev., CTO",A - Grant,$0.00,13750,27778,+98%,+$0,-4.0,-3.0,20.0,31.0,DGII
+328,D,2014-11-24 20:17:57,2014-11-20,DGII,Riley Kevin C.,"SVP, Sales",A - Grant,$0.00,16250,43899,+59%,+$0,-4.0,-3.0,20.0,31.0,DGII
+329,D,2014-11-24 20:17:39,2014-11-20,DGII,Roberts Tracy L.,"VP, HR, Information Tech",A - Grant,$0.00,6250,23428,+36%,+$0,-4.0,-3.0,20.0,31.0,DGII
+330,,2014-11-06 16:48:19,2014-11-04,DGII,Riley Kevin C.,"SVP, Sales",P - Purchase,$7.88,2180,27649,+9%,"+$17,174",-2.0,-4.0,2.0,24.0,DGII
+331,D,2014-07-03 09:03:50,2014-07-01,DGII,Dunsmore Joseph T,"COB, Pres, CEO",M - OptEx,$8.03,43219,12786,-142%,"+$347,049",0.0,-7.0,-13.0,0.0,DGII
+332,D,2014-07-03 09:03:50,2014-07-01,DGII,Dunsmore Joseph T,"COB, Pres, CEO",S - Sale+OE,$9.53,-43219,12786,-77%,"-$411,877",0.0,-7.0,-13.0,0.0,DGII
+333,,2014-05-29 18:06:51,2014-05-28,DGII,Nyland Jon A.,"VP, Manufacturing Operations",A - Grant,$0.00,12500,12500,New,+$0,1.0,0.0,2.0,-15.0,DGII
+334,,2014-05-29 18:06:39,2014-05-28,DGII,Roberts Tracy L.,"VP, HR, Information Tech",A - Grant,$0.00,12500,16850,+287%,+$0,1.0,0.0,2.0,-15.0,DGII
+335,,2014-05-29 18:06:27,2014-05-28,DGII,Liebl Jeffrey F,"VP, Marketing",A - Grant,$0.00,12500,12500,New,+$0,1.0,0.0,2.0,-15.0,DGII
+336,,2014-05-29 18:06:14,2014-05-28,DGII,Snyder Steven E,"SVP, CFO, Treasurer",A - Grant,$0.00,12500,20364,+159%,+$0,1.0,0.0,2.0,-15.0,DGII
+337,,2014-05-29 18:06:00,2014-05-28,DGII,Riley Kevin C.,"SVP, Sales",A - Grant,$0.00,22500,24444,>999%,+$0,1.0,0.0,2.0,-15.0,DGII
+338,,2014-05-29 18:05:43,2014-05-28,DGII,Young Joel K,"SVP Research Dev., CTO",A - Grant,$0.00,12500,14028,+818%,+$0,1.0,0.0,2.0,-15.0,DGII
+339,,2014-05-29 18:05:29,2014-05-28,DGII,Sampsell David H.,"VP, Gen. Counsel, Corp. Sec.",A - Grant,$0.00,12500,12500,New,+$0,1.0,0.0,2.0,-15.0,DGII
+340,,2014-01-31 18:01:21,2014-01-30,DGII,Dannenfeldt Michael Raymond,SVP - Etherios Solutions,S - Sale,$10.38,-195244,0,-100%,"-$2,026,633",-5.0,-4.0,-7.0,-20.0,DGII
+341,,2014-01-30 18:35:03,2014-01-28,DGII,Nawaz Ahmed,Dir,A - Grant,$0.00,6869,114307,+6%,+$0,-1.0,-5.0,-8.0,-19.0,DGII
+342,,2014-01-30 18:19:37,2014-01-28,DGII,Jackson Guy C.,Dir,A - Grant,$0.00,6869,19307,+55%,+$0,-1.0,-5.0,-8.0,-19.0,DGII
+343,,2014-01-30 18:16:28,2014-01-28,DGII,Millard Kenneth E,Dir,A - Grant,$0.00,6869,14307,+92%,+$0,-1.0,-5.0,-8.0,-19.0,DGII
+344,,2014-01-30 18:14:57,2014-01-28,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,6869,16722,+70%,+$0,-1.0,-5.0,-8.0,-19.0,DGII
+345,,2014-01-30 18:09:20,2014-01-28,DGII,Priesmeyer William N,Dir,A - Grant,$0.00,6869,17307,+66%,+$0,-1.0,-5.0,-8.0,-19.0,DGII
+346,,2014-01-30 18:04:16,2014-01-28,DGII,Rishi Girish D,Dir,A - Grant,$0.00,6869,16722,+70%,+$0,-1.0,-5.0,-8.0,-19.0,DGII
+347,D,2014-01-23 09:13:30,2014-01-21,DGII,Jackson Guy C.,Dir,M - OptEx,$10.55,17000,12438,-373%,"+$179,350",-2.0,-18.0,-20.0,-30.0,DGII
+348,D,2014-01-23 09:13:30,2014-01-21,DGII,Jackson Guy C.,Dir,S - Sale+OE,$12.36,-17000,12438,-58%,"-$210,079",-2.0,-18.0,-20.0,-30.0,DGII
+349,D,2013-11-07 21:39:39,2013-11-05,DGII,Nyland Jon A.,"VP, Manufacturing Operations",M - OptEx,$9.65,20000,0,-100%,"+$193,000",1.0,0.0,16.0,-18.0,DGII
+350,D,2013-11-07 21:39:39,2013-11-05,DGII,Nyland Jon A.,"VP, Manufacturing Operations",S - Sale+OE,$10.18,-20000,0,-100%,"-$203,582",1.0,0.0,16.0,-18.0,DGII
+351,D,2013-11-07 21:38:39,2013-11-05,DGII,Young Joel K,"SVP Research Dev., CTO",M - OptEx,$9.65,20000,1528,-108%,"+$193,000",1.0,0.0,16.0,-18.0,DGII
+352,D,2013-11-07 21:38:39,2013-11-05,DGII,Young Joel K,"SVP Research Dev., CTO",S - Sale+OE,$10.10,-20000,1528,-93%,"-$201,956",1.0,0.0,16.0,-18.0,DGII
+353,D,2013-11-07 21:26:00,2013-11-05,DGII,Roberts Tracy L.,"VP, HR, Information Tech",M - OptEx,$9.65,8000,4002,-200%,"+$77,200",1.0,0.0,16.0,-18.0,DGII
+354,D,2013-11-07 21:26:00,2013-11-05,DGII,Roberts Tracy L.,"VP, HR, Information Tech",S - Sale+OE,$10.07,-8000,4002,-67%,"-$80,581",1.0,0.0,16.0,-18.0,DGII
+355,,2013-10-09 16:32:11,2013-07-30,DGII,Rishi Girish D,Dir,A - Grant,$0.00,9853,9853,New,+$0,1.0,1.0,5.0,8.0,DGII
+356,,2013-10-09 16:31:44,2013-07-30,DGII,Khanuja Satbir,Dir,A - Grant,$0.00,9853,9853,New,+$0,1.0,1.0,5.0,8.0,DGII
+357,DM,2013-08-28 16:17:01,2013-08-26,DGII,Jackson Guy C.,Dir,M - OptEx,$8.23,7500,12438,+152%,"+$61,725",3.0,1.0,9.0,6.0,DGII
+358,DM,2013-08-28 16:17:01,2013-08-26,DGII,Jackson Guy C.,Dir,S - Sale+OE,$9.47,-7500,12438,-38%,"-$71,023",3.0,1.0,9.0,6.0,DGII
+359,A,2013-08-13 20:40:12,2013-08-13,DGII,Dannenfeldt Michael Raymond,SVP - Etherios Solutions,S - Sale,$9.70,-4171,195244,-2%,"-$40,467",-1.0,-4.0,-1.0,1.0,DGII
+360,M,2013-08-13 17:21:27,2013-08-09,DGII,Dannenfeldt Michael Raymond,SVP - Etherios Solutions,S - Sale,$9.79,-42900,194415,-18%,"-$420,114",-1.0,-4.0,-1.0,1.0,DGII
+361,M,2013-08-07 18:11:55,2013-08-05,DGII,Dannenfeldt Michael Raymond,SVP - Etherios Solutions,S - Sale,$9.73,-27100,237315,-10%,"-$263,648",2.0,0.0,-2.0,2.0,DGII
+362,D,2013-08-06 18:20:02,2013-08-02,DGII,Jackson Guy C.,Dir,M - OptEx,$8.23,3000,12438,+32%,"+$24,690",0.0,1.0,-4.0,-2.0,DGII
+363,D,2013-08-06 18:20:02,2013-08-02,DGII,Jackson Guy C.,Dir,S - Sale+OE,$9.77,-3000,12438,-19%,"-$29,301",0.0,1.0,-4.0,-2.0,DGII
+364,DM,2013-05-24 18:09:47,2013-05-22,DGII,Kraft Lawrence A,SVP Marketing,M - OptEx,$8.49,11725,0,-100%,"+$99,545",0.0,-4.0,-4.0,9.0,DGII
+365,DM,2013-05-24 18:09:47,2013-05-22,DGII,Kraft Lawrence A,SVP Marketing,S - Sale+OE,$9.52,-11725,0,-100%,"-$111,640",0.0,-4.0,-4.0,9.0,DGII
+366,DM,2013-05-21 18:18:59,2013-05-17,DGII,Kraft Lawrence A,SVP Marketing,M - OptEx,$8.49,38275,0,-100%,"+$324,955",-1.0,5.0,2.0,12.0,DGII
+367,DM,2013-05-21 18:18:59,2013-05-17,DGII,Kraft Lawrence A,SVP Marketing,S - Sale+OE,$9.52,-38275,0,-100%,"-$364,374",-1.0,5.0,2.0,12.0,DGII
+368,,2013-01-31 12:37:19,2013-01-29,DGII,Priesmeyer William N,Dir,A - Grant,$0.00,7438,10438,+248%,+$0,2.0,4.0,4.0,4.0,DGII
+369,,2013-01-31 12:35:56,2013-01-29,DGII,Nawaz Ahmed,Dir,A - Grant,$0.00,7438,107438,+7%,+$0,2.0,4.0,4.0,4.0,DGII
+370,,2013-01-31 12:33:37,2013-01-29,DGII,Millard Kenneth E,Dir,A - Grant,$0.00,7438,7438,New,+$0,2.0,4.0,4.0,4.0,DGII
+371,A,2013-01-31 12:31:58,2013-01-29,DGII,Jackson Guy C.,Dir,A - Grant,$0.00,7438,12438,+149%,+$0,2.0,4.0,4.0,4.0,DGII
+372,,2013-01-30 21:30:53,2013-01-29,DGII,Jackson Guy C.,Dir,A - Grant,$0.00,7348,12348,+147%,+$0,2.0,4.0,3.0,6.0,DGII
+373,AD,2012-11-23 13:31:16,2012-02-03,DGII,Williams Bradley James,Dir,M - OptEx,$7.88,10517,84465,+14%,"+$82,874",1.0,6.0,2.0,8.0,DGII
+374,AD,2012-11-23 13:31:16,2012-02-03,DGII,Williams Bradley James,Dir,S - Sale+OE,$12.05,-10517,84465,-11%,"-$126,738",1.0,6.0,2.0,8.0,DGII
+375,D,2012-05-23 18:24:58,2012-05-21,DGII,Young Joel K,"SVP Research Dev., CTO",M - OptEx,$2.40,18000,0,-100%,"+$43,200",0.0,3.0,8.0,6.0,DGII
+376,D,2012-05-23 18:24:58,2012-05-21,DGII,Young Joel K,"SVP Research Dev., CTO",S - Sale+OE,$8.53,-18000,0,-100%,"-$153,540",0.0,3.0,8.0,6.0,DGII
+377,D,2012-02-07 16:32:16,2012-02-03,DGII,Williams Bradley James,Dir,M - OptEx,$7.88,20513,94461,+28%,"+$161,642",4.0,4.0,-12.0,-20.0,DGII
+378,D,2012-02-07 16:32:16,2012-02-03,DGII,Williams Bradley James,Dir,S - Sale+OE,$12.05,-10517,94461,-10%,"-$126,738",4.0,4.0,-12.0,-20.0,DGII
+379,D,2011-08-08 17:38:39,2011-08-04,DGII,Kraft Lawrence A,"SVP Sales, Marketing",M - OptEx,$3.20,25000,0,-100%,"+$80,000",7.0,3.0,1.0,-4.0,DGII
+380,D,2011-08-08 17:38:39,2011-08-04,DGII,Kraft Lawrence A,"SVP Sales, Marketing",S - Sale+OE,$14.24,-25000,0,-100%,"-$356,113",7.0,3.0,1.0,-4.0,DGII
+381,D,2011-05-16 13:39:46,2011-05-12,DGII,Young Joel K,"SVP Research Dev., CTO",M - OptEx,$5.20,20000,0,-100%,"+$104,000",-1.0,-1.0,9.0,-2.0,DGII
+382,D,2011-05-16 13:39:46,2011-05-12,DGII,Young Joel K,"SVP Research Dev., CTO",S - Sale+OE,$11.46,-20000,0,-100%,"-$229,188",-1.0,-1.0,9.0,-2.0,DGII
+383,D,2011-05-05 16:23:05,2011-05-04,DGII,Kraft Lawrence A,"SVP Sales, Marketing",M - OptEx,$3.20,11677,0,-100%,"+$37,366",-1.0,-3.0,1.0,5.0,DGII
+384,D,2011-05-05 16:23:05,2011-05-04,DGII,Kraft Lawrence A,"SVP Sales, Marketing",S - Sale+OE,$11.51,-11677,0,-100%,"-$134,367",-1.0,-3.0,1.0,5.0,DGII
+385,DM,2011-05-03 17:11:26,2011-04-29,DGII,Kraft Lawrence A,"SVP Sales, Marketing",M - OptEx,$3.20,13323,0,-100%,"+$42,634",2.0,0.0,0.0,14.0,DGII
+386,DM,2011-05-03 17:11:26,2011-04-29,DGII,Kraft Lawrence A,"SVP Sales, Marketing",S - Sale+OE,$11.96,-13323,0,-100%,"-$159,291",2.0,0.0,0.0,14.0,DGII
+387,D,2011-03-02 13:28:09,2011-02-28,DGII,Young Joel K,"SVP Research Dev., CTO",M - OptEx,$5.20,20000,1529,-108%,"+$104,000",0.0,3.0,-1.0,22.0,DGII
+388,D,2011-03-02 13:28:09,2011-02-28,DGII,Young Joel K,"SVP Research Dev., CTO",S - Sale+OE,$11.21,-20000,1529,-93%,"-$224,274",0.0,3.0,-1.0,22.0,DGII
+389,D,2011-02-16 15:19:32,2011-02-14,DGII,Williams Bradley James,Dir,M - OptEx,$9.01,10000,84465,+13%,"+$90,100",3.0,6.0,-14.0,20.0,DGII
+390,D,2011-02-16 15:19:32,2011-02-14,DGII,Williams Bradley James,Dir,S - Sale+OE,$10.85,-10000,84465,-11%,"-$108,457",3.0,6.0,-14.0,20.0,DGII
+391,D,2010-05-06 16:57:54,2010-05-04,DGII,Young Joel K,"SVP Research-Develop., CTO",M - OptEx,$7.25,4633,1529,-149%,"+$33,589",-3.0,2.0,-7.0,5.0,DGII
+392,D,2010-05-06 16:57:54,2010-05-04,DGII,Young Joel K,"SVP Research-Develop., CTO",S - Sale+OE,$10.75,-4633,1529,-75%,"-$49,805",-3.0,2.0,-7.0,5.0,DGII
+393,D,2010-02-24 17:55:26,2010-02-22,DGII,Young Joel K,"SVP Research-Develop., CTO",M - OptEx,$7.25,25000,1529,-107%,"+$181,250",-1.0,5.0,8.0,-20.0,DGII
+394,D,2010-02-24 17:55:26,2010-02-22,DGII,Young Joel K,"SVP Research-Develop., CTO",S - Sale+OE,$9.51,-25000,1529,-94%,"-$237,853",-1.0,5.0,8.0,-20.0,DGII
+395,D,2010-02-17 17:38:24,2010-02-16,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",M - OptEx,$5.75,3061,46897,+7%,"+$17,601",0.0,7.0,24.0,-8.0,DGII
+396,D,2010-02-17 17:38:24,2010-02-16,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",S - Sale+OE,$9.40,-3061,46897,-6%,"-$28,774",0.0,7.0,24.0,-8.0,DGII
+397,DM,2010-02-12 18:40:43,2010-02-10,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",M - OptEx,$5.75,81939,21918,-137%,"+$471,149",0.0,3.0,24.0,-7.0,DGII
+398,DM,2010-02-12 18:40:43,2010-02-10,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",S - Sale+OE,$9.36,-81939,21918,-79%,"-$766,756",0.0,3.0,24.0,-7.0,DGII
+399,M,2009-08-25 17:40:19,2009-08-21,DGII,Dunsmore Joseph T,"COB, Pres, CEO",S - Sale,$9.01,-11152,2312,-83%,"-$100,430",-1.0,-6.0,-2.0,12.0,DGII
+400,D,2009-02-10 15:30:45,2009-02-06,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",M - OptEx,$2.40,20000,18980,-1961%,"+$48,000",-10.0,-15.0,-19.0,9.0,DGII
+401,D,2009-02-10 15:30:45,2009-02-06,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",S - Sale+OE,$8.27,-20000,18980,-51%,"-$165,490",-10.0,-15.0,-19.0,9.0,DGII
+402,,2008-11-05 16:23:44,2008-11-04,DGII,Williams Bradley James,Dir,P - Purchase,$10.29,9465,84465,+13%,"+$97,373",3.0,2.0,-17.0,-24.0,DGII
+403,,2008-09-03 14:52:01,2008-08-29,DGII,Nawaz Ahmed,Dir,P - Purchase,$11.92,40000,100000,+67%,"+$476,800",1.0,-3.0,-13.0,-41.0,DGII
+404,,2008-08-27 17:15:47,2008-08-25,DGII,Nawaz Ahmed,Dir,P - Purchase,$11.21,30000,60000,+100%,"+$336,300",3.0,3.0,-9.0,-37.0,DGII
+405,,2008-08-21 17:51:34,2008-08-19,DGII,Williams Bradley James,Dir,P - Purchase,$10.50,14000,75000,+23%,"+$147,000",4.0,6.0,10.0,-31.0,DGII
+406,A,2008-08-21 17:49:03,2008-08-18,DGII,Williams Bradley James,Dir,P - Purchase,$10.45,100,61000,0%,"+$1,045",4.0,6.0,10.0,-31.0,DGII
+407,,2008-08-19 16:04:57,2008-08-18,DGII,Williams Bradley James,Dir,P - Purchase,$10.50,14014,60900,+30%,"+$147,120",1.0,4.0,1.0,-28.0,DGII
+408,M,2008-08-08 15:03:53,2008-08-06,DGII,Williams Bradley James,Dir,P - Purchase,$10.50,5886,46886,+14%,"+$61,803",5.0,5.0,13.0,-18.0,DGII
+409,,2008-06-06 16:10:48,2008-05-30,DGII,Priesmeyer William N,Dir,P - Purchase,$8.98,3000,3000,New,"+$26,943",0.0,1.0,-10.0,1.0,DGII
+410,M,2008-05-30 17:25:38,2008-05-27,DGII,Nawaz Ahmed,Dir,P - Purchase,$8.77,30000,30000,New,"+$263,028",-3.0,0.0,-12.0,-6.0,DGII
+411,D,2008-02-14 12:25:35,2008-02-12,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",M - OptEx,$8.51,35000,16886,-193%,"+$297,750",-6.0,-10.0,-12.0,-8.0,DGII
+412,D,2008-02-14 12:25:35,2008-02-12,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",S - Sale+OE,$11.50,-35000,16886,-67%,"-$402,650",-6.0,-10.0,-12.0,-8.0,DGII
+413,D,2007-11-09 15:09:58,2007-11-07,DGII,Millard Kenneth E,Dir,M - OptEx,$12.50,53000,20150,-161%,"+$662,528",-3.0,-5.0,-8.0,-48.0,DGII
+414,D,2007-11-09 15:09:58,2007-11-07,DGII,Millard Kenneth E,Dir,S - Sale+OE,$16.57,-32850,20150,-62%,"-$544,359",-3.0,-5.0,-8.0,-48.0,DGII
+415,,2007-11-09 15:09:23,2007-11-07,DGII,Millard Kenneth E,Dir,S - Sale,$16.78,-20150,17370,-54%,"-$338,039",-3.0,-5.0,-8.0,-48.0,DGII
+416,,2007-09-05 09:43:18,2007-08-31,DGII,Young Joel K,"SVP Research-Develop., CTO",S - Sale,$13.94,-4001,1529,-72%,"-$55,780",-1.0,-2.0,1.0,-24.0,DGII
+417,,2007-08-27 14:46:03,2007-08-24,DGII,Williams Bradley James,Dir,S - Sale,$14.64,-4000,41000,-9%,"-$58,540",-1.0,-3.0,-4.0,-26.0,DGII
+418,D,2007-08-15 09:42:46,2007-08-13,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",M - OptEx,$6.53,19938,16597,-597%,"+$130,215",0.0,0.0,-8.0,-17.0,DGII
+419,D,2007-08-15 09:42:46,2007-08-13,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",S - Sale+OE,$15.50,-19938,16597,-55%,"-$309,039",0.0,0.0,-8.0,-17.0,DGII
+420,D,2007-08-10 17:08:54,2007-08-09,DGII,Dunsmore Joseph T,"COB, Pres, CEO",M - OptEx,$5.20,25000,9201,-158%,"+$130,000",-2.0,0.0,-11.0,-23.0,DGII
+421,D,2007-08-10 17:08:54,2007-08-09,DGII,Dunsmore Joseph T,"COB, Pres, CEO",S - Sale+OE,$16.20,-25000,9201,-73%,"-$405,035",-2.0,0.0,-11.0,-23.0,DGII
+422,D,2007-08-09 17:25:35,2007-08-08,DGII,Kraft Lawrence A,"SVP Sales, Marketing",M - OptEx,$3.20,25000,0,-100%,"+$80,000",-4.0,-8.0,-13.0,-25.0,DGII
+423,D,2007-08-09 17:25:35,2007-08-08,DGII,Kraft Lawrence A,"SVP Sales, Marketing",S - Sale+OE,$15.97,-25000,0,-100%,"-$399,260",-4.0,-8.0,-13.0,-25.0,DGII
+424,D,2007-05-17 16:33:46,2007-05-15,DGII,Williams Bradley James,Dir,M - OptEx,$6.13,7500,45000,+20%,"+$45,975",0.0,7.0,10.0,21.0,DGII
+425,D,2007-05-17 16:33:46,2007-05-15,DGII,Williams Bradley James,Dir,S - Sale+OE,$13.32,-7500,45000,-14%,"-$99,900",0.0,7.0,10.0,21.0,DGII
+426,D,2007-01-26 13:44:25,2007-01-24,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",M - OptEx,$5.20,30000,15009,-200%,"+$156,000",0.0,3.0,9.0,16.0,DGII
+427,D,2007-01-26 13:44:25,2007-01-24,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",S - Sale+OE,$12.62,-30000,15009,-67%,"-$378,635",0.0,3.0,9.0,16.0,DGII
+428,D,2006-09-05 18:18:42,2006-08-31,DGII,Dunsmore Joseph T,"COB, Pres, CEO",M - OptEx,$5.20,20000,7337,-158%,"+$104,000",-4.0,-1.0,1.0,-9.0,DGII
+429,D,2006-09-05 18:18:42,2006-08-31,DGII,Dunsmore Joseph T,"COB, Pres, CEO",S - Sale+OE,$13.43,-20000,7337,-73%,"-$268,610",-4.0,-1.0,1.0,-9.0,DGII
+430,D,2006-08-23 12:29:40,2006-08-23,DGII,Williams Bradley James,Dir,M - OptEx,$3.35,12000,45000,+36%,"+$40,200",-3.0,0.0,0.0,-2.0,DGII
+431,D,2006-08-23 12:29:40,2006-08-23,DGII,Williams Bradley James,Dir,S - Sale+OE,$13.24,-12000,45000,-21%,"-$158,880",-3.0,0.0,0.0,-2.0,DGII
+432,M,2006-08-22 18:46:48,2006-08-18,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",S - Sale,$13.31,-13000,14443,-47%,"-$173,033",-3.0,-1.0,7.0,-5.0,DGII
+433,D,2006-02-01 17:06:52,2006-01-30,DGII,Millard Kenneth E,Dir,M - OptEx,$4.68,39000,0,-100%,"+$182,653",-1.0,-4.0,-3.0,9.0,DGII
+434,D,2006-02-01 17:06:52,2006-01-30,DGII,Millard Kenneth E,Dir,S - Sale+OE,$11.11,-39000,0,-100%,"-$433,169",-1.0,-4.0,-3.0,9.0,DGII
+435,DM,2005-11-22 09:25:06,2005-11-18,DGII,Berger Bruce H,"SVP, Mng Dir NetSilicon",M - OptEx,$7.13,21544,3713,-121%,"+$153,501",2.0,2.0,-15.0,-6.0,DGII
+436,DM,2005-11-22 09:25:06,2005-11-18,DGII,Berger Bruce H,"SVP, Mng Dir NetSilicon",S - Sale+OE,$12.21,-21544,3713,-85%,"-$263,132",2.0,2.0,-15.0,-6.0,DGII
+437,D,2005-11-14 12:25:43,2005-11-09,DGII,Berger Bruce H,"SVP, Mng Dir NetSilicon",M - OptEx,$7.13,13456,3713,-138%,"+$95,874",-2.0,0.0,0.0,1.0,DGII
+438,D,2005-11-14 12:25:43,2005-11-09,DGII,Berger Bruce H,"SVP, Mng Dir NetSilicon",S - Sale+OE,$12.03,-13456,3713,-78%,"-$161,876",-2.0,0.0,0.0,1.0,DGII
+439,D,2005-11-09 15:49:48,2005-11-08,DGII,Berger Bruce H,"SVP, Mng Dir NetSilicon",M - OptEx,$7.13,30000,3713,-114%,"+$213,750",3.0,1.0,9.0,8.0,DGII
+440,D,2005-11-09 15:49:48,2005-11-08,DGII,Berger Bruce H,"SVP, Mng Dir NetSilicon",S - Sale+OE,$11.50,-30000,3713,-89%,"-$344,850",3.0,1.0,9.0,8.0,DGII
+441,,2005-11-09 11:41:41,2005-11-08,DGII,Williams Bradley James,Dir,P - Purchase,$11.60,21500,45000,+91%,"+$249,293",3.0,1.0,9.0,8.0,DGII
+442,,2005-07-22 19:36:36,2005-07-21,DGII,Williams Bradley James,Dir,P - Purchase,$10.75,13500,23500,+135%,"+$145,125",4.0,-1.0,-8.0,1.0,DGII
+443,,2005-07-20 14:50:15,2005-07-19,DGII,Jackson Guy C,Dir,P - Purchase,$10.66,4000,5000,+400%,"+$42,631",0.0,4.0,-2.0,2.0,DGII
+444,D,2004-12-02 09:58:21,2004-11-30,DGII,Dunsmore Joseph T,"COB, Pres, CEO",M - OptEx,$5.20,40000,3988,-111%,"+$208,000",3.0,-2.0,9.0,-24.0,DGII
+445,D,2004-12-02 09:58:21,2004-11-30,DGII,Dunsmore Joseph T,"COB, Pres, CEO",S - Sale+OE,$15.43,-40000,3988,-91%,"-$617,028",3.0,-2.0,9.0,-24.0,DGII
+446,,2004-11-23 16:22:06,2004-11-19,DGII,Jackson Guy C,Dir,P - Purchase,$14.68,1000,1000,New,"+$14,679",-2.0,-4.0,6.0,-24.0,DGII
+447,DM,2004-11-17 16:48:36,2004-11-16,DGII,Moroz Mykola,Dir,M - OptEx,$8.37,21185,7536,-155%,"+$177,313",-2.0,2.0,-1.0,-25.0,DGII
+448,DM,2004-11-17 16:48:36,2004-11-16,DGII,Moroz Mykola,Dir,S - Sale+OE,$15.36,-21185,7536,-74%,"-$325,394",-2.0,2.0,-1.0,-25.0,DGII
+449,D,2004-11-16 11:36:06,2004-11-12,DGII,Moroz Mykola,Dir,M - OptEx,$9.92,12565,7536,-250%,"+$124,603",0.0,0.0,5.0,-24.0,DGII
+450,D,2004-11-16 11:36:06,2004-11-12,DGII,Moroz Mykola,Dir,S - Sale+OE,$15.18,-12565,7536,-63%,"-$190,695",0.0,0.0,5.0,-24.0,DGII
+451,D,2004-11-12 11:09:20,2004-11-10,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",M - OptEx,$5.20,30000,24137,-512%,"+$156,000",0.0,0.0,4.0,-24.0,DGII
+452,D,2004-11-12 11:09:20,2004-11-10,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",S - Sale+OE,$14.90,-30000,24137,-55%,"-$447,000",0.0,0.0,4.0,-24.0,DGII
+453,D,2004-11-12 11:08:50,2004-11-09,DGII,Dunsmore Joseph T,"COB, Pres, CEO",M - OptEx,$5.20,65000,3988,-107%,"+$338,000",0.0,0.0,4.0,-24.0,DGII
+454,D,2004-11-12 11:08:50,2004-11-09,DGII,Dunsmore Joseph T,"COB, Pres, CEO",S - Sale+OE,$14.54,-65000,3988,-94%,"-$945,011",0.0,0.0,4.0,-24.0,DGII
+455,D,2004-11-12 11:08:02,2004-11-09,DGII,Berger Bruce H,"SVP, Mng Dir NetSilicon",M - OptEx,$5.20,30000,2285,-108%,"+$156,000",0.0,0.0,4.0,-24.0,DGII
+456,D,2004-11-12 11:08:02,2004-11-09,DGII,Berger Bruce H,"SVP, Mng Dir NetSilicon",S - Sale+OE,$14.59,-30000,2285,-93%,"-$437,694",0.0,0.0,4.0,-24.0,DGII
+457,D,2004-02-13 12:07:18,2004-02-11,DGII,Berger Bruce H,"SVP, Mng Dir NetSilicon",M - OptEx,$2.45,18250,1212,-107%,"+$44,710",-5.0,-10.0,-19.0,-15.0,DGII
+458,DM,2004-02-13 12:07:18,2004-02-22,DGII,Berger Bruce H,"SVP, Mng Dir NetSilicon",S - Sale+OE,$11.86,-18250,1212,-94%,"-$216,515",-5.0,-10.0,-19.0,-15.0,DGII
+459,D,2004-02-11 17:32:59,2004-02-09,DGII,Dunsmore Joseph T,"COB, Pres, CEO",M - OptEx,$2.40,35000,3011,-109%,"+$84,000",3.0,1.0,-6.0,-10.0,DGII
+460,DM,2004-02-11 17:32:59,2004-02-09,DGII,Dunsmore Joseph T,"COB, Pres, CEO",S - Sale+OE,$11.36,-41683,3011,-93%,"-$473,400",3.0,1.0,-6.0,-10.0,DGII
+461,,2004-02-11 17:22:36,2004-02-09,DGII,Krishnan Subramanian,"Senior VP, CFO, Treasurer",S - Sale,$11.56,-19999,21642,-48%,"-$231,150",3.0,1.0,-6.0,-10.0,DGII
+462,,2003-11-24 16:50:17,2003-11-24,DGII,Williams Bradley James,Dir,P - Purchase,$8.46,10000,10000,New,"+$84,560",0.0,2.0,11.0,20.0,DGII
+463,,2003-08-29 11:58:44,2003-08-28,DGII,Berger Bruce H,SVP,S - Sale,$6.47,-7174,0,-100%,"-$46,402",0.0,-1.0,4.0,82.0,DGII

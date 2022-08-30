@@ -1,29 +1,598 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2021-11-17 15:32:34,2021-11-16,TVTY,Greczyn Robert J Jr,Dir,S - Sale,$27.09,-36810,93199,-28%,"-$997,183",,,,,TVTY
-1,M,2021-08-12 19:54:29,2021-08-10,TVTY,Sanfilippo Anthony Michael,Dir,P - Purchase,$21.77,160000,751713,+27%,"+$3,482,600",,,,,TVTY
-2,,2020-03-17 08:47:19,2020-03-13,TVTY,Kirshner Benjamin A.,Dir,P - Purchase,$4.37,5000,30089,+20%,"+$21,850",,,,,TVTY
-3,,2020-03-17 08:43:18,2020-03-13,TVTY,Hudson Peter A,Dir,P - Purchase,$5.10,40000,60361,+196%,"+$204,000",,,,,TVTY
-4,,2020-03-17 08:40:01,2020-03-13,TVTY,Greczyn Robert J Jr,Director and Interim CEO,P - Purchase,$4.98,39000,99362,+65%,"+$194,220",,,,,TVTY
-5,M,2020-03-10 16:19:17,2020-03-06,TVTY,Keckley Paul H.,Dir,P - Purchase,$9.71,15405,58449,+36%,"+$149,608",,,,,TVTY
-6,M,2020-03-09 17:08:40,2020-03-05,TVTY,Tully Daniel,Dir,P - Purchase,$11.62,250000,4557144,+6%,"+$2,904,000",,,,,TVTY
-7,,2020-03-05 13:11:48,2020-03-03,TVTY,Keckley Paul H.,Dir,P - Purchase,$12.36,4050,43044,+10%,"+$50,058",,,,,TVTY
-8,,2020-03-05 13:08:36,2020-03-05,TVTY,Finley Sara,Dir,P - Purchase,$11.99,2500,13474,+23%,"+$29,975",,,,,TVTY
-9,M,2020-03-05 13:05:03,2020-03-03,TVTY,Tully Daniel,Dir,P - Purchase,$11.90,164632,4307144,+4%,"+$1,959,769",,,,,TVTY
-10,A,2020-03-03 18:02:52,2020-02-26,TVTY,Keckley Paul H.,Dir,P - Purchase,$12.19,8200,38994,+27%,"+$99,958",,,,,TVTY
-11,,2020-03-03 09:03:29,2020-02-28,TVTY,Tully Daniel,Dir,P - Purchase,$11.98,71672,4142512,+2%,"+$858,631",,,,,TVTY
-12,,2020-02-28 16:30:17,2020-02-28,TVTY,Shapiro Lee,Dir,P - Purchase,$12.00,4065,40304,+11%,"+$48,780",,,,,TVTY
-13,,2020-02-28 16:24:52,2020-02-26,TVTY,Wills Kevin,Dir,P - Purchase,$12.07,20000,53143,+60%,"+$241,400",,,,,TVTY
-14,,2020-02-28 16:21:58,2020-02-26,TVTY,Kirshner Benjamin A.,Dir,P - Purchase,$12.74,4000,25089,+19%,"+$50,960",,,,,TVTY
-15,,2020-02-28 16:19:06,2020-02-26,TVTY,Keckley Paul H.,Dir,P - Purchase,$12.19,6150,36944,+20%,"+$74,969",,,,,TVTY
-16,,2020-02-28 16:15:35,2020-02-26,TVTY,Karro Bradley S,Dir,P - Purchase,$13.25,3500,32964,+12%,"+$46,375",,,,,TVTY
-17,,2020-02-28 16:13:51,2020-02-26,TVTY,Jacob Beth M,Dir,P - Purchase,$12.10,2000,10974,+22%,"+$24,200",,,,,TVTY
-18,,2020-02-28 16:10:56,2020-02-26,TVTY,Holland Adam C,CFO,P - Purchase,$12.24,2050,22122,+10%,"+$25,092",,,,,TVTY
-19,,2020-02-28 16:08:09,2020-02-26,TVTY,Greczyn Robert J Jr,Director and Interim CEO,P - Purchase,$13.25,15000,60362,+33%,"+$198,750",,,,,TVTY
-20,,2019-03-22 17:23:10,2019-03-21,TVTY,Keckley Paul H.,Dir,P - Purchase,$17.34,5780,24696,+31%,"+$100,225",,,,,TVTY
-21,,2019-03-22 15:14:11,2019-03-22,TVTY,Karro Bradley S,Dir,P - Purchase,$16.54,2900,23366,+14%,"+$47,966",,,,,TVTY
-22,,2019-03-22 15:10:09,2019-03-20,TVTY,Greczyn Robert J Jr,Dir,P - Purchase,$17.20,5810,39264,+17%,"+$99,932",,,,,TVTY
-23,,2019-03-22 15:07:20,2019-03-20,TVTY,Kirshner Benjamin A.,Dir,P - Purchase,$17.26,14569,14991,>999%,"+$251,461",,,,,TVTY
-24,,2019-03-22 15:03:46,2019-03-20,TVTY,Finley Sara,Dir,P - Purchase,$17.25,2000,4876,+70%,"+$34,500",,,,,TVTY
-25,,2019-03-22 15:00:29,2019-03-20,TVTY,Shapiro Lee,Dir,P - Purchase,$17.80,4050,30141,+16%,"+$72,090",,,,,TVTY
-26,,2018-11-09 16:12:50,2018-11-07,TVTY,Tramuto Donato,CEO,S - Sale,$38.25,-35000,242037,-13%,"-$1,338,810",,,,,TVTY
-27,,2018-05-02 10:37:44,2018-05-01,TVTY,Tramuto Donato,CEO,S - Sale,$35.37,-20000,149596,-12%,"-$707,400",,,,,TVTY
+0,D,2022-03-03 20:08:46,2022-03-01,TVTY,Wagers Ryan,Chief Accounting Officer,A - Grant,$0.00,3517,30937,+13%,+$0,,,,,TVTY
+1,D,2022-03-03 20:07:14,2022-03-01,TVTY,Lewis Thomas E,COO,A - Grant,$0.00,9233,67703,+16%,+$0,,,,,TVTY
+2,D,2022-03-03 20:06:04,2022-03-01,TVTY,Holland Adam C,CFO,A - Grant,$0.00,11432,101348,+13%,+$0,,,,,TVTY
+3,D,2022-03-03 20:03:36,2022-03-01,TVTY,Bilbao Joseph Raymond,GC,A - Grant,$0.00,5276,31475,+20%,+$0,,,,,TVTY
+4,,2022-02-11 15:20:56,2022-01-20,TVTY,Davis Stephanie M.,Dir,A - Grant,$0.00,1720,1720,New,+$0,,,,,TVTY
+5,,2022-01-04 17:38:19,2021-12-31,TVTY,Lewis Thomas E,COO,F - Tax,$26.44,-3118,58470,-5%,"-$82,440",,,,,TVTY
+6,,2022-01-04 17:36:21,2021-12-31,TVTY,Bilbao Joseph Raymond,GC,F - Tax,$26.44,-1465,26199,-5%,"-$38,735",,,,,TVTY
+7,,2022-01-04 17:34:52,2021-12-31,TVTY,Holland Adam C,CFO,F - Tax,$26.44,-8543,89916,-9%,"-$225,877",,,,,TVTY
+8,,2022-01-04 17:33:05,2021-12-31,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$26.44,-3146,27420,-10%,"-$83,180",,,,,TVTY
+9,,2021-11-17 15:32:34,2021-11-16,TVTY,Greczyn Robert J Jr,Dir,S - Sale,$27.09,-36810,93199,-28%,"-$997,183",,,,,TVTY
+10,,2021-11-12 08:51:39,2021-02-03,TVTY,Wagers Ryan,Chief Accounting Officer,A - Grant,$0.00,7992,30566,+35%,+$0,,,,,TVTY
+11,,2021-11-12 08:51:39,2021-11-10,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$27.70,-753,30566,-2%,"-$20,858",,,,,TVTY
+12,,2021-11-12 08:48:54,2021-02-03,TVTY,Lewis Thomas E,COO,A - Grant,$0.00,7921,61588,+15%,+$0,,,,,TVTY
+13,,2021-11-12 08:48:54,2021-11-10,TVTY,Lewis Thomas E,COO,F - Tax,$27.70,-1721,61588,-3%,"-$47,672",,,,,TVTY
+14,,2021-11-12 08:46:08,2021-02-03,TVTY,Holland Adam C,CFO,A - Grant,$0.00,21709,98459,+28%,+$0,,,,,TVTY
+15,,2021-11-12 08:46:08,2021-11-10,TVTY,Holland Adam C,CFO,F - Tax,$27.70,-2796,98459,-3%,"-$77,449",,,,,TVTY
+16,,2021-11-12 08:42:37,2021-02-03,TVTY,Bilbao Joseph Raymond,GC,A - Grant,$0.00,3720,27664,+16%,+$0,,,,,TVTY
+17,,2021-11-12 08:42:37,2021-11-10,TVTY,Bilbao Joseph Raymond,GC,F - Tax,$27.70,-1054,27664,-4%,"-$29,196",,,,,TVTY
+18,,2021-10-19 10:44:11,2021-10-18,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$24.24,-89,23327,0%,"-$2,157",,,,,TVTY
+19,A,2021-10-04 15:32:04,2021-05-20,TVTY,Finley Sara,Dir,A - Grant,$0.00,5048,35716,+16%,+$0,,,,,TVTY
+20,A,2021-10-04 15:28:52,2021-06-30,TVTY,Finley Sara,Dir,A - Grant,$0.00,858,36574,+2%,+$0,,,,,TVTY
+21,,2021-10-04 15:25:17,2021-09-30,TVTY,Finley Sara,Dir,A - Grant,$23.06,922,37496,+3%,"+$21,261",,,,,TVTY
+22,A,2021-10-04 15:22:08,2021-05-20,TVTY,Karro Bradley S,Dir,A - Grant,$0.00,5048,54142,+10%,+$0,,,,,TVTY
+23,,2021-10-04 15:18:37,2021-09-30,TVTY,Russell Erin L,Dir,A - Grant,$23.06,854,29888,+3%,"+$19,693",,,,,TVTY
+24,,2021-10-04 15:15:30,2021-09-30,TVTY,Sanfilippo Anthony Michael,Dir,A - Grant,$23.06,1626,753339,0%,"+$37,496",,,,,TVTY
+25,,2021-09-10 15:36:45,2021-09-09,TVTY,Bilbao Joseph Raymond,GC,F - Tax,$22.50,-1450,24998,-5%,"-$32,625",,,,,TVTY
+26,,2021-09-10 14:40:14,2021-09-09,TVTY,Holland Adam C,CFO,F - Tax,$22.50,-4036,79546,-5%,"-$90,810",,,,,TVTY
+27,,2021-09-10 14:37:33,2021-09-09,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$22.50,-1665,23416,-7%,"-$37,463",,,,,TVTY
+28,,2021-08-26 12:19:32,2021-08-24,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$23.24,-603,25081,-2%,"-$14,014",,,,,TVTY
+29,,2021-08-26 12:18:15,2021-08-24,TVTY,Lewis Thomas E,COO,F - Tax,$23.24,-745,55388,-1%,"-$17,314",,,,,TVTY
+30,,2021-08-26 12:15:07,2021-08-24,TVTY,Holland Adam C,CFO,F - Tax,$23.24,-877,83582,-1%,"-$20,381",,,,,TVTY
+31,,2021-08-26 12:14:01,2021-08-24,TVTY,Bilbao Joseph Raymond,GC,F - Tax,$23.24,-575,26448,-2%,"-$13,363",,,,,TVTY
+32,,2021-08-26 12:10:30,2021-08-24,TVTY,Ashworth Richard M,"Pres, CEO",F - Tax,$23.24,-3051,523221,-1%,"-$70,905",,,,,TVTY
+33,M,2021-08-12 19:54:29,2021-08-10,TVTY,Sanfilippo Anthony Michael,Dir,P - Purchase,$21.77,160000,751713,+27%,"+$3,482,600",,,,,TVTY
+34,,2021-07-06 13:29:41,2021-07-02,TVTY,Bilbao Joseph Raymond,GC,F - Tax,$26.83,-65,27023,0%,"-$1,744",,,,,TVTY
+35,,2021-07-01 16:32:12,2021-06-30,TVTY,Finley Sara,Dir,A - Grant,$0.00,858,36574,+2%,+$0,,,,,TVTY
+36,,2021-07-01 16:28:57,2021-06-30,TVTY,Sanfilippo Anthony Michael,Dir,A - Grant,$0.00,1681,591713,0%,+$0,,,,,TVTY
+37,,2021-07-01 16:25:57,2021-06-30,TVTY,Russell Erin L,Dir,A - Grant,$0.00,748,29034,+3%,+$0,,,,,TVTY
+38,,2021-06-16 13:33:44,2021-06-15,TVTY,Holland Adam C,CFO,F - Tax,$27.34,-763,84459,-1%,"-$20,860",,,,,TVTY
+39,,2021-06-02 17:13:42,2021-06-01,TVTY,Ashworth Richard M,"Pres, CEO",F - Tax,$26.25,-130615,526272,-20%,"-$3,428,644",,,,,TVTY
+40,,2021-05-21 14:31:04,2021-05-20,TVTY,Sanfilippo Anthony Michael,Dir,A - Grant,$0.00,5048,595080,+1%,+$0,,,,,TVTY
+41,,2021-05-21 14:27:57,2021-05-20,TVTY,Russell Erin L,Dir,A - Grant,$0.00,5048,28286,+22%,+$0,,,,,TVTY
+42,,2021-05-21 14:25:42,2021-05-20,TVTY,Karro Bradley S,Dir,A - Grant,$0.00,5048,54142,+10%,+$0,,,,,TVTY
+43,,2021-05-21 14:23:05,2021-05-20,TVTY,Jacob Beth M,Dir,A - Grant,$0.00,5048,32430,+18%,+$0,,,,,TVTY
+44,,2021-05-21 14:20:41,2021-05-20,TVTY,Greczyn Robert J Jr,Dir,A - Grant,$0.00,5048,130009,+4%,+$0,,,,,TVTY
+45,,2021-05-21 14:17:33,2021-05-20,TVTY,Finley Sara,Dir,A - Grant,$0.00,5048,35716,+16%,+$0,,,,,TVTY
+46,,2021-05-12 13:02:48,2021-05-11,TVTY,Bilbao Joseph Raymond,GC,F - Tax,$23.90,-585,27088,-2%,"-$13,982",,,,,TVTY
+47,,2021-05-12 13:01:24,2021-05-11,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$23.90,-614,25684,-2%,"-$14,675",,,,,TVTY
+48,,2021-05-12 12:58:16,2021-05-11,TVTY,Holland Adam C,CFO,F - Tax,$23.90,-893,85222,-1%,"-$21,343",,,,,TVTY
+49,,2021-04-13 18:55:59,2021-04-09,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$23.56,-175,26298,-1%,"-$4,123",,,,,TVTY
+50,,2021-04-13 18:54:35,2021-04-09,TVTY,Holland Adam C,CFO,F - Tax,$23.56,-748,86115,-1%,"-$17,623",,,,,TVTY
+51,,2021-04-13 18:53:39,2021-04-09,TVTY,Lewis Thomas E,COO,F - Tax,$23.56,-125,56133,0%,"-$2,945",,,,,TVTY
+52,,2021-04-13 18:51:11,2021-04-09,TVTY,Bilbao Joseph Raymond,GC,F - Tax,$23.56,-75,27637,0%,"-$1,767",,,,,TVTY
+53,,2021-04-01 16:37:44,2021-03-31,TVTY,Kirshner Benjamin A.,Dir,A - Grant,$0.00,952,47556,+2%,+$0,,,,,TVTY
+54,,2021-04-01 16:23:58,2021-03-31,TVTY,Russell Erin L,Dir,A - Grant,$0.00,882,23238,+4%,+$0,,,,,TVTY
+55,,2021-04-01 16:21:57,2021-03-31,TVTY,Finley Sara,Dir,A - Grant,$0.00,1064,30668,+4%,+$0,,,,,TVTY
+56,,2021-04-01 16:19:43,2021-03-31,TVTY,Sanfilippo Anthony Michael,Dir,A - Grant,$0.00,2240,590032,0%,+$0,,,,,TVTY
+57,D,2021-03-24 17:07:34,2021-03-22,TVTY,Wagers Ryan,Chief Accounting Officer,A - Grant,$0.00,3661,26473,+16%,+$0,,,,,TVTY
+58,D,2021-03-24 17:04:17,2021-03-22,TVTY,Holland Adam C,CFO,A - Grant,$0.00,13598,86863,+19%,+$0,,,,,TVTY
+59,A,2021-03-15 15:43:32,2021-03-09,TVTY,Holland Adam C,CFO,F - Tax,$24.15,-5072,73265,-6%,"-$122,489",,,,,TVTY
+60,A,2021-03-15 15:41:22,2021-03-09,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$24.15,-2213,22812,-9%,"-$53,444",,,,,TVTY
+61,,2021-03-10 19:47:37,2021-03-09,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$24.15,-2061,22964,-8%,"-$49,773",,,,,TVTY
+62,,2021-03-10 16:39:59,2021-03-09,TVTY,Holland Adam C,CFO,F - Tax,$24.15,-4995,73342,-6%,"-$120,629",,,,,TVTY
+63,,2021-01-04 11:40:59,2020-12-31,TVTY,Flipse Mary,"Chief Legal, Admin Officer",F - Tax,$19.59,-9812,97281,-9%,"-$192,217",,,,,TVTY
+64,D,2020-11-12 18:53:16,2020-11-10,TVTY,Wagers Ryan,Chief Accounting Officer,A - Grant,$0.00,5738,25025,+30%,+$0,,,,,TVTY
+65,D,2020-11-12 18:50:38,2020-11-10,TVTY,Holland Adam C,CFO,A - Grant,$0.00,21311,78337,+37%,+$0,,,,,TVTY
+66,,2020-10-19 11:29:28,2020-10-16,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$15.43,-55,19287,0%,-$849,,,,,TVTY
+67,,2020-08-25 15:38:14,2020-08-24,TVTY,Sanfilippo Anthony Michael,Dir,A - Grant,$0.00,4048,587792,+1%,+$0,,,,,TVTY
+68,,2020-08-25 15:30:15,2020-08-24,TVTY,Russell Erin L,Dir,A - Grant,$0.00,2125,22356,+11%,+$0,,,,,TVTY
+69,,2020-08-25 14:54:50,2020-08-24,TVTY,Kirshner Benjamin A.,Dir,A - Grant,$0.00,1720,46604,+4%,+$0,,,,,TVTY
+70,,2020-08-25 14:52:34,2020-08-24,TVTY,Karro Bradley S,Dir,A - Grant,$0.00,1923,49094,+4%,+$0,,,,,TVTY
+71,,2020-08-25 14:50:58,2020-08-24,TVTY,Jacob Beth M,Dir,A - Grant,$0.00,2024,27382,+8%,+$0,,,,,TVTY
+72,,2020-08-25 14:48:05,2020-08-24,TVTY,Hudson Peter A,Dir,A - Grant,$0.00,1821,76211,+2%,+$0,,,,,TVTY
+73,,2020-08-25 14:45:54,2020-08-24,TVTY,Greczyn Robert J Jr,Dir,A - Grant,$0.00,1923,124961,+2%,+$0,,,,,TVTY
+74,,2020-08-25 14:43:43,2020-08-24,TVTY,Finley Sara,Dir,A - Grant,$0.00,1923,29604,+7%,+$0,,,,,TVTY
+75,,2020-08-25 14:41:25,2020-08-24,TVTY,Wagers Ryan,Chief Accounting Officer,A - Grant,$0.00,1531,19342,+9%,+$0,,,,,TVTY
+76,,2020-08-25 14:39:45,2020-08-24,TVTY,Holland Adam C,CFO,A - Grant,$0.00,2227,57026,+4%,+$0,,,,,TVTY
+77,,2020-08-25 14:37:00,2020-08-24,TVTY,Flipse Mary,"Chief Legal, Admin Officer",A - Grant,$0.00,2311,107093,+2%,+$0,,,,,TVTY
+78,,2020-08-25 14:27:50,2020-08-24,TVTY,Janicak Steven,"Division Pres, Healthcare",A - Grant,$0.00,2506,90449,+3%,+$0,,,,,TVTY
+79,,2020-08-25 14:24:23,2020-08-24,TVTY,Ashworth Richard M,"Pres, CEO",A - Grant,$0.00,6887,656887,+1%,+$0,,,,,TVTY
+80,,2020-06-16 15:00:30,2020-06-15,TVTY,Holland Adam C,CFO,F - Tax,$10.46,-1008,54799,-2%,"-$10,544",,,,,TVTY
+81,,2020-06-04 11:29:09,2020-06-03,TVTY,Greczyn Robert J Jr,Dir,A - Grant,$0.00,11899,123038,+11%,+$0,,,,,TVTY
+82,,2020-06-02 12:12:18,2020-05-29,TVTY,Greczyn Robert J Jr,Dir,F - Tax,$10.65,-1163,111139,-1%,"-$12,386",,,,,TVTY
+83,D,2020-06-02 11:40:14,2020-06-01,TVTY,Ashworth Richard M,"Pres, CEO",A - Grant,$0.00,650000,650000,New,+$0,,,,,TVTY
+84,,2020-05-26 19:24:56,2020-05-21,TVTY,Greczyn Robert J Jr,Director and Interim CEO,F - Tax,$10.16,-1812,112302,-2%,"-$18,410",,,,,TVTY
+85,,2020-05-26 14:20:04,2020-05-21,TVTY,Jacob Beth M,Dir,A - Grant,$0.00,10827,25358,+75%,+$0,,,,,TVTY
+86,,2020-05-26 14:17:27,2020-05-21,TVTY,Sanfilippo Anthony Michael,Dir,A - Grant,$0.00,10827,583744,+2%,+$0,,,,,TVTY
+87,,2020-05-26 14:14:14,2020-05-21,TVTY,Karro Bradley S,Dir,A - Grant,$0.00,10827,47171,+30%,+$0,,,,,TVTY
+88,,2020-05-26 14:00:58,2020-05-21,TVTY,Kirshner Benjamin A.,Dir,A - Grant,$0.00,10827,44884,+32%,+$0,,,,,TVTY
+89,,2020-05-26 13:57:38,2020-05-21,TVTY,Russell Erin L,Dir,A - Grant,$0.00,10827,20231,+115%,+$0,,,,,TVTY
+90,,2020-05-26 13:35:57,2020-05-21,TVTY,Hudson Peter A,Dir,A - Grant,$0.00,10827,74390,+17%,+$0,,,,,TVTY
+91,,2020-05-26 13:02:03,2020-05-21,TVTY,Finley Sara,Dir,A - Grant,$0.00,10827,27681,+64%,+$0,,,,,TVTY
+92,,2020-05-13 17:11:42,2020-05-11,TVTY,Sanfilippo Anthony Michael,Dir,A - Grant,$0.00,7115,572917,+1%,+$0,,,,,TVTY
+93,,2020-05-13 17:08:33,2020-05-11,TVTY,Russell Erin L,Dir,A - Grant,$0.00,3602,9404,+62%,+$0,,,,,TVTY
+94,,2020-05-13 17:06:06,2020-05-11,TVTY,Kirshner Benjamin A.,Dir,A - Grant,$0.00,3024,34057,+10%,+$0,,,,,TVTY
+95,,2020-05-13 17:03:48,2020-05-11,TVTY,Karro Bradley S,Dir,A - Grant,$0.00,3380,36344,+10%,+$0,,,,,TVTY
+96,,2020-05-13 17:01:28,2020-05-11,TVTY,Jacob Beth M,Dir,A - Grant,$0.00,3557,14531,+32%,+$0,,,,,TVTY
+97,,2020-05-13 16:59:27,2020-05-11,TVTY,Hudson Peter A,Dir,A - Grant,$0.00,3202,63563,+5%,+$0,,,,,TVTY
+98,,2020-05-13 16:57:00,2020-05-11,TVTY,Finley Sara,Dir,A - Grant,$0.00,3380,16854,+25%,+$0,,,,,TVTY
+99,,2020-05-13 16:54:55,2020-05-11,TVTY,Wagers Ryan,Chief Accounting Officer,A - Grant,$0.00,2519,17811,+16%,+$0,,,,,TVTY
+100,,2020-05-13 16:52:27,2020-05-11,TVTY,Holland Adam C,CFO,A - Grant,$0.00,3664,55807,+7%,+$0,,,,,TVTY
+101,,2020-05-13 16:48:09,2020-05-11,TVTY,Janicak Steven,"Division Pres, Healthcare",A - Grant,$0.00,4122,87943,+5%,+$0,,,,,TVTY
+102,,2020-05-13 16:44:52,2020-05-11,TVTY,Greczyn Robert J Jr,Director and Interim CEO,A - Grant,$0.00,11740,114114,+11%,+$0,,,,,TVTY
+103,,2020-05-13 16:40:18,2020-05-11,TVTY,Flipse Mary,"Chief Legal, Admin Officer",A - Grant,$0.00,3802,104782,+4%,+$0,,,,,TVTY
+104,D,2020-05-11 18:12:48,2020-05-07,TVTY,Hudson Executive Capital LP,10%,D - Sale to issuer,$12.20,-3960000,4795310,-45%,"-$48,312,000",,,,,TVTY
+105,,2020-04-10 14:54:07,2020-04-09,TVTY,Janicak Steven,"Division Pres, Healthcare",F - Tax,$6.50,-748,83821,-1%,"-$4,862",,,,,TVTY
+106,,2020-04-10 14:51:30,2020-04-09,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$6.50,-168,15292,-1%,"-$1,092",,,,,TVTY
+107,,2020-04-10 14:49:06,2020-04-09,TVTY,Holland Adam C,CFO,F - Tax,$6.50,-748,52143,-1%,"-$4,862",,,,,TVTY
+108,,2020-04-10 14:44:58,2020-04-09,TVTY,Flipse Mary,"Chief Legal, Admin Officer",F - Tax,$6.50,-549,100980,-1%,"-$3,569",,,,,TVTY
+109,,2020-03-18 12:16:36,2020-03-16,TVTY,Sanfilippo Anthony Michael,Dir,A - Grant,$0.00,5802,565802,+1%,+$0,,,,,TVTY
+110,,2020-03-18 12:05:18,2020-03-16,TVTY,Russell Erin L,Dir,A - Grant,$0.00,5802,5802,New,+$0,,,,,TVTY
+111,,2020-03-17 08:47:19,2020-03-13,TVTY,Kirshner Benjamin A.,Dir,P - Purchase,$4.37,5000,30089,+20%,"+$21,850",,,,,TVTY
+112,,2020-03-17 08:43:18,2020-03-13,TVTY,Hudson Peter A,Dir,P - Purchase,$5.10,40000,60361,+196%,"+$204,000",,,,,TVTY
+113,,2020-03-17 08:40:01,2020-03-13,TVTY,Greczyn Robert J Jr,Director and Interim CEO,P - Purchase,$4.98,39000,99362,+65%,"+$194,220",,,,,TVTY
+114,,2020-03-11 19:07:19,2020-03-09,TVTY,Wagers Ryan,Chief Accounting Officer,A - Grant,$13.00,12692,15460,+459%,"+$164,996",,,,,TVTY
+115,,2020-03-11 19:05:08,2020-03-09,TVTY,Janicak Steven,"Division Pres, Healthcare",A - Grant,$13.00,53846,84569,+175%,"+$699,998",,,,,TVTY
+116,,2020-03-11 19:02:46,2020-03-09,TVTY,Holland Adam C,CFO,A - Grant,$13.00,30769,52891,+139%,"+$399,997",,,,,TVTY
+117,,2020-03-11 19:00:05,2020-03-09,TVTY,Flipse Mary,"Chief Legal, Admin Officer",A - Grant,$13.00,31923,101529,+46%,"+$414,999",,,,,TVTY
+118,M,2020-03-10 16:19:17,2020-03-06,TVTY,Keckley Paul H.,Dir,P - Purchase,$9.71,15405,58449,+36%,"+$149,608",,,,,TVTY
+119,M,2020-03-09 17:08:40,2020-03-05,TVTY,Tully Daniel,Dir,P - Purchase,$11.62,250000,4557144,+6%,"+$2,904,000",,,,,TVTY
+120,,2020-03-05 13:11:48,2020-03-03,TVTY,Keckley Paul H.,Dir,P - Purchase,$12.36,4050,43044,+10%,"+$50,058",,,,,TVTY
+121,,2020-03-05 13:08:36,2020-03-05,TVTY,Finley Sara,Dir,P - Purchase,$11.99,2500,13474,+23%,"+$29,975",,,,,TVTY
+122,M,2020-03-05 13:05:03,2020-03-03,TVTY,Tully Daniel,Dir,P - Purchase,$11.90,164632,4307144,+4%,"+$1,959,769",,,,,TVTY
+123,A,2020-03-03 18:02:52,2020-02-26,TVTY,Keckley Paul H.,Dir,P - Purchase,$12.19,8200,38994,+27%,"+$99,958",,,,,TVTY
+124,,2020-03-03 09:03:29,2020-02-28,TVTY,Tully Daniel,Dir,P - Purchase,$11.98,71672,4142512,+2%,"+$858,631",,,,,TVTY
+125,,2020-02-28 16:30:17,2020-02-28,TVTY,Shapiro Lee,Dir,P - Purchase,$12.00,4065,40304,+11%,"+$48,780",,,,,TVTY
+126,,2020-02-28 16:24:52,2020-02-26,TVTY,Wills Kevin,Dir,P - Purchase,$12.07,20000,53143,+60%,"+$241,400",,,,,TVTY
+127,,2020-02-28 16:21:58,2020-02-26,TVTY,Kirshner Benjamin A.,Dir,P - Purchase,$12.74,4000,25089,+19%,"+$50,960",,,,,TVTY
+128,,2020-02-28 16:19:06,2020-02-26,TVTY,Keckley Paul H.,Dir,P - Purchase,$12.19,6150,36944,+20%,"+$74,969",,,,,TVTY
+129,,2020-02-28 16:15:35,2020-02-26,TVTY,Karro Bradley S,Dir,P - Purchase,$13.25,3500,32964,+12%,"+$46,375",,,,,TVTY
+130,,2020-02-28 16:13:51,2020-02-26,TVTY,Jacob Beth M,Dir,P - Purchase,$12.10,2000,10974,+22%,"+$24,200",,,,,TVTY
+131,,2020-02-28 16:10:56,2020-02-26,TVTY,Holland Adam C,CFO,P - Purchase,$12.24,2050,22122,+10%,"+$25,092",,,,,TVTY
+132,,2020-02-28 16:08:09,2020-02-26,TVTY,Greczyn Robert J Jr,Director and Interim CEO,P - Purchase,$13.25,15000,60362,+33%,"+$198,750",,,,,TVTY
+133,,2020-01-08 14:34:13,2020-01-06,TVTY,Krausz Keira,"Division Pres, Nutrition",F - Tax,$21.22,-14001,176827,-7%,"-$297,101",,,,,TVTY
+134,,2020-01-06 17:31:51,2020-01-03,TVTY,Krausz Keira,"Division Pres, Nutrition",F - Tax,$20.32,-2051,190828,-1%,"-$41,676",,,,,TVTY
+135,M,2020-01-03 15:40:01,2019-12-31,TVTY,Krausz Keira,"Division Pres, Nutrition",F - Tax,$20.38,-20279,192879,-10%,"-$413,343",,,,,TVTY
+136,A,2019-10-24 14:33:40,2019-10-15,TVTY,Zier Dawn M.,"Pres, COO",F - Tax,$15.90,-88301,641158,-12%,"-$1,403,986",,,,,TVTY
+137,,2019-10-18 11:39:23,2019-10-17,TVTY,Wagers Ryan,Chief Accounting Officer,F - Tax,$16.77,-55,2768,-2%,-$922,,,,,TVTY
+138,,2019-10-17 16:40:25,2019-10-15,TVTY,Zier Dawn M.,"Pres, COO",F - Tax,$15.90,-192641,536818,-26%,"-$3,062,992",,,,,TVTY
+139,,2019-09-16 17:35:54,2019-09-13,TVTY,Janicak Steven,"Division Pres, Healthcare",F - Tax,$18.53,-2030,30723,-6%,"-$37,616",,,,,TVTY
+140,,2019-07-02 12:02:23,2019-07-01,TVTY,Flipse Mary,"Chief Legal, Admin Officer",F - Tax,$16.70,-1276,69606,-2%,"-$21,309",,,,,TVTY
+141,,2019-06-17 13:54:34,2019-06-14,TVTY,Holland Adam C,CFO,F - Tax,$18.26,-1008,20072,-5%,"-$18,406",,,,,TVTY
+142,,2019-05-28 15:11:20,2019-05-23,TVTY,Kirshner Benjamin A.,Dir,A - Grant,$0.00,6098,21089,+41%,+$0,,,,,TVTY
+143,,2019-05-28 15:09:15,2019-05-23,TVTY,Wills Kevin,Dir,A - Grant,$0.00,6098,33143,+23%,+$0,,,,,TVTY
+144,,2019-05-28 15:07:00,2019-05-23,TVTY,Shapiro Lee,Dir,A - Grant,$0.00,6098,36239,+20%,+$0,,,,,TVTY
+145,,2019-05-28 15:05:01,2019-05-23,TVTY,Keckley Paul H.,Dir,A - Grant,$0.00,6098,30794,+25%,+$0,,,,,TVTY
+146,,2019-05-28 15:03:08,2019-05-23,TVTY,Karro Bradley S,Dir,A - Grant,$0.00,6098,29464,+26%,+$0,,,,,TVTY
+147,,2019-05-28 15:01:07,2019-05-23,TVTY,Greczyn Robert J Jr,Dir,A - Grant,$0.00,6098,45362,+16%,+$0,,,,,TVTY
+148,,2019-05-28 14:59:00,2019-05-23,TVTY,Hudson Peter A,Dir,A - Grant,$0.00,6098,20361,+43%,+$0,,,,,TVTY
+149,,2019-05-28 14:56:45,2019-05-23,TVTY,Jacob Beth M,Dir,A - Grant,$0.00,6098,8974,+212%,+$0,,,,,TVTY
+150,,2019-05-28 14:54:26,2019-05-23,TVTY,Finley Sara,Dir,A - Grant,$0.00,6098,10974,+125%,+$0,,,,,TVTY
+151,,2019-05-20 16:37:48,2019-05-17,TVTY,Tramuto Donato,CEO,F - Tax,$18.90,-378,280952,0%,"-$7,144",,,,,TVTY
+152,A,2019-05-08 18:11:27,2019-03-08,TVTY,Kirshner Benjamin A.,Dir,A - Grant,$0.00,944,15935,+6%,+$0,,,,,TVTY
+153,,2019-05-07 18:28:18,2019-04-11,TVTY,Wagers Ryan,Chief Accounting Officer,A - Grant,$20.36,2149,2823,+319%,"+$43,754",,,,,TVTY
+154,,2019-05-07 18:24:56,2019-04-11,TVTY,Flipse Mary,"Chief Legal, Admin Officer",A - Grant,$20.36,6753,70882,+11%,"+$137,491",,,,,TVTY
+155,,2019-05-07 18:22:03,2019-04-11,TVTY,Krausz Keira,"Division Pres, Nutrition",A - Grant,$20.36,12893,213158,+6%,"+$262,501",,,,,TVTY
+156,,2019-05-07 18:18:41,2019-04-11,TVTY,Janicak Steven,"Division Pres, Healthcare",A - Grant,$20.36,9209,32753,+39%,"+$187,495",,,,,TVTY
+157,,2019-05-07 18:16:33,2019-04-11,TVTY,Holland Adam C,CFO,A - Grant,$20.36,9209,21080,+78%,"+$187,495",,,,,TVTY
+158,,2019-05-07 18:13:21,2019-04-11,TVTY,Zier Dawn M.,"Pres, COO",A - Grant,$20.36,58325,729459,+9%,"+$1,187,497",,,,,TVTY
+159,,2019-05-07 18:09:40,2019-04-11,TVTY,Tramuto Donato,CEO,A - Grant,$20.36,39293,281330,+16%,"+$800,005",,,,,TVTY
+160,A,2019-04-12 14:26:58,2019-03-08,TVTY,Krausz Keira,"Division Pres, Nutrition",A - Grant,$0.00,14811,200265,+8%,+$0,,,,,TVTY
+161,A,2019-04-12 14:23:16,2019-03-08,TVTY,Zier Dawn M.,"Pres, COO",A - Grant,$0.00,40443,671134,+6%,+$0,,,,,TVTY
+162,,2019-03-22 17:23:10,2019-03-21,TVTY,Keckley Paul H.,Dir,P - Purchase,$17.34,5780,24696,+31%,"+$100,225",,,,,TVTY
+163,,2019-03-22 15:14:11,2019-03-22,TVTY,Karro Bradley S,Dir,P - Purchase,$16.54,2900,23366,+14%,"+$47,966",,,,,TVTY
+164,,2019-03-22 15:10:09,2019-03-20,TVTY,Greczyn Robert J Jr,Dir,P - Purchase,$17.20,5810,39264,+17%,"+$99,932",,,,,TVTY
+165,,2019-03-22 15:07:20,2019-03-20,TVTY,Kirshner Benjamin A.,Dir,P - Purchase,$17.26,14569,14991,>999%,"+$251,461",,,,,TVTY
+166,,2019-03-22 15:03:46,2019-03-20,TVTY,Finley Sara,Dir,P - Purchase,$17.25,2000,4876,+70%,"+$34,500",,,,,TVTY
+167,,2019-03-22 15:00:29,2019-03-20,TVTY,Shapiro Lee,Dir,P - Purchase,$17.80,4050,30141,+16%,"+$72,090",,,,,TVTY
+168,,2019-03-18 13:27:08,2019-03-15,TVTY,Janicak Steven,"Division Pres, Healthcare",F - Tax,$17.52,-612,23544,-3%,"-$10,722",,,,,TVTY
+169,,2019-03-12 19:12:25,2019-03-08,TVTY,Kirshner Benjamin A.,Dir,A - Grant,$0.00,422,422,New,+$0,,,,,TVTY
+170,,2019-03-12 19:07:52,2019-03-08,TVTY,Krausz Keira,"Division Pres, Nutrition",A - Grant,$0.00,228673,228673,New,+$0,,,,,TVTY
+171,,2019-03-12 19:03:01,2019-03-08,TVTY,Zier Dawn M.,"Pres, COO",A - Grant,$0.00,706115,706115,New,+$0,,,,,TVTY
+172,M,2018-11-09 16:12:50,2018-02-27,TVTY,Tramuto Donato,CEO,G - Gift,$0.00,-84121,242037,-26%,-$0,,,,,TVTY
+173,,2018-11-09 16:12:50,2018-11-07,TVTY,Tramuto Donato,CEO,S - Sale,$38.25,-35000,242037,-13%,"-$1,338,810",,,,,TVTY
+174,AD,2018-11-08 14:02:21,2018-11-01,TVTY,Tramuto Donato,CEO,A - Grant,$0.00,161320,560010,+40%,+$0,,,,,TVTY
+175,A,2018-11-08 13:58:53,2018-11-01,TVTY,Flipse Mary,"Chief Legal, Admin Officer",A - Grant,$0.00,21294,94868,+29%,+$0,,,,,TVTY
+176,D,2018-11-05 17:03:09,2018-11-01,TVTY,Tramuto Donato,CEO,A - Grant,$0.00,411320,361158,-820%,+$0,,,,,TVTY
+177,DM,2018-11-05 17:03:09,2018-11-01,TVTY,Tramuto Donato,CEO,F - Tax,$34.80,-198852,361158,-36%,"-$6,919,310",,,,,TVTY
+178,D,2018-11-05 17:03:09,2018-11-01,TVTY,Tramuto Donato,CEO,M - OptEx,$0.00,250000,361158,+225%,+$0,,,,,TVTY
+179,D,2018-11-05 17:01:22,2018-11-01,TVTY,Flipse Mary,"Chief Legal, Admin Officer",A - Grant,$0.00,54294,74281,+272%,+$0,,,,,TVTY
+180,D,2018-11-05 17:01:22,2018-11-01,TVTY,Flipse Mary,"Chief Legal, Admin Officer",F - Tax,$34.80,-20934,74281,-22%,"-$728,503",,,,,TVTY
+181,D,2018-11-05 17:01:22,2018-11-01,TVTY,Flipse Mary,"Chief Legal, Admin Officer",M - OptEx,$0.00,33000,74281,+80%,+$0,,,,,TVTY
+182,D,2018-10-18 15:46:54,2018-10-17,TVTY,Wagers Ryan,Chief Accounting Officer,A - Grant,$0.00,674,674,New,+$0,,,,,TVTY
+183,,2018-09-25 12:22:24,2018-09-24,TVTY,Flipse Mary,"Chief Legal, Admin Officer",F - Tax,$33.60,-2679,40921,-6%,"-$90,014",,,,,TVTY
+184,,2018-09-17 15:11:04,2018-09-13,TVTY,Janicak Steven,Chief Growth Officer,F - Tax,$33.60,-2030,24156,-8%,"-$68,208",,,,,TVTY
+185,,2018-07-02 14:09:52,2018-06-29,TVTY,Flipse Mary,"Chief Legal, Admin Officer",F - Tax,$35.20,-1276,43600,-3%,"-$44,915",,,,,TVTY
+186,,2018-07-02 14:08:06,2018-06-29,TVTY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$35.20,-1443,38473,-4%,"-$50,794",,,,,TVTY
+187,,2018-06-28 11:57:13,2018-06-26,TVTY,Tramuto Donato,CEO,F - Tax,$35.60,-295,148690,0%,"-$10,502",,,,,TVTY
+188,,2018-06-28 11:55:33,2018-06-26,TVTY,Flipse Mary,"Chief Legal, Admin Officer",F - Tax,$35.60,-638,44876,-1%,"-$22,713",,,,,TVTY
+189,,2018-06-28 11:54:06,2018-06-26,TVTY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$35.60,-1031,39916,-3%,"-$36,704",,,,,TVTY
+190,D,2018-06-18 16:21:58,2018-06-15,TVTY,Holland Adam C,CFO,A - Grant,$0.00,5811,11871,+96%,+$0,,,,,TVTY
+191,D,2018-06-18 16:21:58,2018-06-15,TVTY,Holland Adam C,CFO,F - Tax,$34.43,-536,11871,-4%,"-$18,454",,,,,TVTY
+192,,2018-06-18 16:19:00,2018-06-15,TVTY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$34.43,-693,40947,-2%,"-$23,860",,,,,TVTY
+193,,2018-05-25 13:07:48,2018-05-24,TVTY,Wills Kevin,Dir,A - Grant,$0.00,2876,27045,+12%,+$0,,,,,TVTY
+194,,2018-05-25 13:05:03,2018-05-24,TVTY,Shapiro Lee,Dir,A - Grant,$0.00,2876,26091,+12%,+$0,,,,,TVTY
+195,,2018-05-25 13:01:34,2018-05-24,TVTY,Keckley Paul H.,Dir,A - Grant,$0.00,2876,18916,+18%,+$0,,,,,TVTY
+196,,2018-05-25 12:59:29,2018-05-24,TVTY,Karro Bradley S,Dir,A - Grant,$0.00,2876,20466,+16%,+$0,,,,,TVTY
+197,,2018-05-25 12:57:29,2018-05-24,TVTY,Hudson Peter A,Dir,A - Grant,$0.00,2876,14263,+25%,+$0,,,,,TVTY
+198,,2018-05-25 12:55:18,2018-05-24,TVTY,Greczyn Robert J Jr,Dir,A - Grant,$0.00,2876,33454,+9%,+$0,,,,,TVTY
+199,,2018-05-25 12:53:17,2018-05-24,TVTY,Feldshon Archelle Georgiou,Dir,A - Grant,$0.00,2876,14263,+25%,+$0,,,,,TVTY
+200,,2018-05-25 12:42:10,2018-05-24,TVTY,Jacob Beth M,Dir,A - Grant,$0.00,2876,2876,New,+$0,,,,,TVTY
+201,,2018-05-25 12:35:42,2018-05-24,TVTY,Finley Sara,Dir,A - Grant,$0.00,2876,2876,New,+$0,,,,,TVTY
+202,,2018-05-21 11:55:53,2018-05-18,TVTY,Tramuto Donato,CEO,F - Tax,$38.55,-611,148985,0%,"-$23,554",,,,,TVTY
+203,,2018-05-02 10:37:44,2018-05-01,TVTY,Tramuto Donato,CEO,S - Sale,$35.37,-20000,149596,-12%,"-$707,400",,,,,TVTY
+204,D,2018-04-04 17:23:24,2018-04-03,TVTY,Hargreaves Glenn,Chief Accounting Officer,A - Grant,$0.00,2535,41640,+6%,+$0,,,,,TVTY
+205,,2018-04-04 16:43:28,2018-04-02,TVTY,Tramuto Donato,CEO,S - Sale,$39.30,-20000,169596,-11%,"-$785,974",,,,,TVTY
+206,,2018-04-02 13:38:36,2018-03-29,TVTY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$39.65,-774,39105,-2%,"-$30,689",,,,,TVTY
+207,,2018-03-05 17:19:59,2018-03-01,TVTY,Tramuto Donato,CEO,S - Sale,$38.53,-20000,189596,-10%,"-$770,600",,,,,TVTY
+208,M,2017-11-21 20:38:00,2017-11-20,TVTY,Laughlin Conan,Dir,S - Sale,$34.90,-140000,17590,-89%,"-$4,885,400",,,,,TVTY
+209,M,2017-11-17 17:10:08,2017-11-15,TVTY,Laughlin Conan,Dir,S - Sale,$34.34,-490000,157590,-76%,"-$16,825,646",,,,,TVTY
+210,,2017-11-08 15:50:01,2017-11-06,TVTY,Laughlin Conan,Dir,S - Sale,$47.52,-120000,647590,-16%,"-$5,702,400",,,,,TVTY
+211,,2017-11-07 13:25:25,2017-11-03,TVTY,Flipse Mary,"Chief Legal, Admin Officer",S - Sale,$48.11,-5000,45514,-10%,"-$240,550",,,,,TVTY
+212,,2017-11-03 11:09:04,2017-11-02,TVTY,Tramuto Donato,CEO,F - Tax,$46.45,-39441,222096,-15%,"-$1,832,034",,,,,TVTY
+213,,2017-11-03 11:07:03,2017-11-01,TVTY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$45.65,-4195,39879,-10%,"-$191,502",,,,,TVTY
+214,,2017-11-03 11:07:03,2017-11-02,TVTY,Hargreaves Glenn,Chief Accounting Officer,S - Sale,$45.15,-5805,39879,-13%,"-$262,096",,,,,TVTY
+215,D,2017-09-27 14:13:49,2017-09-26,TVTY,Hargreaves Glenn,Chief Accounting Officer,M - OptEx,$8.39,7137,49879,+17%,"+$59,865",,,,,TVTY
+216,D,2017-09-27 14:13:49,2017-09-26,TVTY,Hargreaves Glenn,Chief Accounting Officer,S - Sale+OE,$40.00,-7137,49879,-13%,"-$285,480",,,,,TVTY
+217,,2017-08-22 15:06:05,2017-08-18,TVTY,Flipse Mary,GC,S - Sale,$37.03,-14020,61514,-19%,"-$519,161",,,,,TVTY
+218,D,2017-08-22 15:04:05,2017-08-21,TVTY,Hargreaves Glenn,Chief Accounting Officer,M - OptEx,$12.85,23448,49879,+89%,"+$301,273",,,,,TVTY
+219,D,2017-08-22 15:04:05,2017-08-21,TVTY,Hargreaves Glenn,Chief Accounting Officer,S - Sale+OE,$37.78,-23448,49879,-32%,"-$885,865",,,,,TVTY
+220,DM,2017-08-14 17:15:19,2017-08-10,TVTY,Hargreaves Glenn,Chief Accounting Officer,M - OptEx,$7.72,10221,49879,+26%,"+$78,899",,,,,TVTY
+221,DM,2017-08-14 17:15:19,2017-08-10,TVTY,Hargreaves Glenn,Chief Accounting Officer,S - Sale+OE,$37.76,-10221,49879,-17%,"-$385,970",,,,,TVTY
+222,,2017-08-14 17:11:53,2017-08-11,TVTY,Flipse Mary,GC,S - Sale,$37.32,-1340,75534,-2%,"-$50,010",,,,,TVTY
+223,M,2017-08-07 13:30:30,2017-08-03,TVTY,Hargreaves Glenn,Chief Accounting Officer,S - Sale,$38.00,-21105,49879,-30%,"-$801,990",,,,,TVTY
+224,,2017-08-03 15:04:30,2017-08-01,TVTY,Laughlin Conan,Dir,S - Sale,$37.90,-1750000,767590,-70%,"-$66,325,000",,,,,TVTY
+225,,2017-07-05 11:26:58,2017-06-30,TVTY,Flipse Mary,GC,F - Tax,$39.85,-1433,76874,-2%,"-$57,105",,,,,TVTY
+226,,2017-07-05 11:25:23,2017-06-30,TVTY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$39.85,-1003,70984,-1%,"-$39,970",,,,,TVTY
+227,,2017-06-27 15:52:58,2017-06-26,TVTY,Tramuto Donato,CEO,F - Tax,$39.20,-314,261537,0%,"-$12,309",,,,,TVTY
+228,,2017-06-27 15:51:39,2017-06-26,TVTY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$39.20,-717,71987,-1%,"-$28,106",,,,,TVTY
+229,,2017-06-27 15:50:10,2017-06-26,TVTY,Flipse Mary,GC,F - Tax,$39.20,-717,78307,-1%,"-$28,106",,,,,TVTY
+230,,2017-06-16 15:32:59,2017-06-15,HWAY,Hargreaves Glenn,Chief Accounting Officer,A - Grant,$0.00,5277,72704,+8%,+$0,,,,,TVTY
+231,,2017-06-16 15:29:42,2017-06-15,TVTY,Holland Adam C,CFO,A - Grant,$0.00,6596,6596,New,+$0,,,,,TVTY
+232,,2017-05-30 11:07:07,2017-05-25,TVTY,Wills Kevin,Dir,A - Grant,$0.00,3012,24169,+14%,+$0,,,,,TVTY
+233,,2017-05-30 10:56:39,2017-05-25,TVTY,Shapiro Lee,Dir,A - Grant,$0.00,3012,23215,+15%,+$0,,,,,TVTY
+234,,2017-05-30 10:52:08,2017-05-25,TVTY,Laughlin Conan,Dir,A - Grant,$0.00,3012,2517590,0%,+$0,,,,,TVTY
+235,,2017-05-30 10:48:01,2017-05-25,TVTY,Keckley Paul H.,Dir,A - Grant,$0.00,3012,17590,+21%,+$0,,,,,TVTY
+236,,2017-05-30 10:44:07,2017-05-25,TVTY,Karro Bradley S,Dir,A - Grant,$0.00,3012,17590,+21%,+$0,,,,,TVTY
+237,,2017-05-30 10:40:43,2017-05-25,TVTY,Hudson Peter A,Dir,A - Grant,$0.00,3012,11387,+36%,+$0,,,,,TVTY
+238,,2017-05-30 10:36:12,2017-05-25,TVTY,Greczyn Robert J Jr,Dir,A - Grant,$0.00,3012,33590,+10%,+$0,,,,,TVTY
+239,,2017-05-30 10:31:44,2017-05-25,TVTY,Feldshon Archelle Georgiou,Dir,A - Grant,$0.00,3012,11387,+36%,+$0,,,,,TVTY
+240,,2017-05-22 13:00:27,2017-05-19,TVTY,Tramuto Donato,CEO,F - Tax,$32.35,-651,261851,0%,"-$21,060",,,,,TVTY
+241,,2017-05-04 10:43:34,2017-05-03,TVTY,England Mary Jane,Dir,S - Sale,$31.95,-1763,19453,-8%,"-$56,328",3.0,4.0,,,TVTY
+242,,2017-04-05 08:27:14,2017-04-03,TVTY,England Mary Jane,Dir,S - Sale,$29.05,-2674,21216,-11%,"-$77,680",-1.0,1.0,17.0,,TVTY
+243,,2017-03-31 14:20:19,2017-03-30,TVTY,Hargreaves Glenn,Interim CFO,F - Tax,$28.60,-869,67427,-1%,"-$24,853",2.0,2.0,13.0,,TVTY
+244,,2017-03-06 14:15:41,2017-03-03,TVTY,England Mary Jane,Dir,S - Sale,$28.60,-2340,23890,-9%,"-$66,924",-2.0,-3.0,0.0,,TVTY
+245,,2017-03-02 15:59:56,2017-02-28,TVTY,Hargreaves Glenn,Interim CFO,F - Tax,$28.90,-374,68296,-1%,"-$10,809",-1.0,-4.0,-1.0,,TVTY
+246,,2017-03-02 15:54:46,2017-02-28,TVTY,Flipse Mary,GC,F - Tax,$28.90,-374,79024,0%,"-$10,809",-1.0,-4.0,-1.0,,TVTY
+247,,2017-03-01 19:35:39,2017-03-01,TVTY,Laughlin Conan,See Explanation of Responses,S - Sale,$28.30,-2000000,2250000,-47%,"-$56,600,000",-1.0,-4.0,-2.0,,TVTY
+248,,2017-02-07 10:28:51,2017-02-03,TVTY,England Mary Jane,Dir,S - Sale,$25.55,-2343,26230,-8%,"-$59,864",1.0,2.0,7.0,,TVTY
+249,,2017-01-04 15:46:42,2017-01-03,HWAY,England Mary Jane,Dir,S - Sale,$22.40,-2298,28573,-7%,"-$51,475",4.0,5.0,,,TVTY
+250,,2016-12-05 17:36:06,2016-12-02,HWAY,Hargreaves Glenn,Interim CFO,F - Tax,$23.35,-3419,68670,-5%,"-$79,834",-1.0,-3.0,1.0,,TVTY
+251,,2016-11-18 17:04:14,2016-11-18,HWAY,England Mary Jane,Dir,S - Sale,$22.26,-3600,30871,-10%,"-$80,118",3.0,5.0,4.0,,TVTY
+252,,2016-11-07 14:06:51,2016-11-04,HWAY,Greczyn Robert J Jr,Dir,P - Purchase,$19.55,5000,30578,+20%,"+$97,750",2.0,16.0,19.0,,TVTY
+253,,2016-11-07 14:00:26,2016-11-04,HWAY,Shapiro Lee,Dir,P - Purchase,$19.53,1266,20203,+7%,"+$24,725",2.0,16.0,19.0,,TVTY
+254,,2016-11-07 13:44:57,2016-11-04,HWAY,Tramuto Donato,CEO,P - Purchase,$19.95,5060,275442,+2%,"+$100,947",2.0,16.0,19.0,,TVTY
+255,,2016-11-04 18:49:10,2016-11-02,HWAY,Tramuto Donato,CEO,F - Tax,$20.25,-33175,270382,-11%,"-$671,794",2.0,13.0,19.0,,TVTY
+256,,2016-11-02 20:39:27,2016-11-01,HWAY,Hargreaves Glenn,Interim Chief FinancialOfficer,A - Grant,$0.00,10000,72089,+16%,+$0,-1.0,8.0,13.0,,TVTY
+257,,2016-09-26 17:38:41,2016-09-23,HWAY,Flipse Mary,GC,F - Tax,$25.80,-3009,79398,-4%,"-$77,632",1.0,3.0,1.0,,TVTY
+258,M,2016-08-29 18:25:46,2016-08-25,HWAY,England Mary Jane,Dir,G - Gift,$0.00,-4597,34471,-12%,-$0,-1.0,-3.0,1.0,,TVTY
+259,,2016-08-29 18:25:46,2016-08-26,HWAY,England Mary Jane,Dir,S - Sale,$24.78,-3816,34471,-10%,"-$94,560",-1.0,-3.0,1.0,,TVTY
+260,D,2016-08-23 15:48:33,2016-08-22,HWAY,Dries Robert E.,CFO,A - Grant,$0.00,33000,33000,New,+$0,3.0,4.0,3.0,,TVTY
+261,D,2016-08-02 19:45:57,2016-07-29,HWAY,Lumsdaine Alfred,CFO,F - Tax,$16.84,-86883,205863,-30%,"-$1,463,110",3.0,7.0,52.0,,TVTY
+262,D,2016-08-02 19:45:57,2016-07-29,HWAY,Lumsdaine Alfred,CFO,M - OptEx,$0.00,75000,205863,+57%,+$0,3.0,7.0,52.0,,TVTY
+263,D,2016-08-02 19:33:40,2016-07-29,HWAY,Slovenski Sean,"Pres, Population Health",F - Tax,$16.84,-70372,101268,-41%,"-$1,185,064",3.0,7.0,52.0,,TVTY
+264,D,2016-08-02 19:33:40,2016-07-29,HWAY,Slovenski Sean,"Pres, Population Health",M - OptEx,$0.00,110109,101268,-1245%,+$0,3.0,7.0,52.0,,TVTY
+265,,2016-07-21 14:55:51,2016-07-19,HWAY,Flipse Mary,GC,F - Tax,$11.93,-684,82407,-1%,"-$8,160",1.0,1.0,111.0,,TVTY
+266,,2016-07-21 14:39:19,2016-07-19,HWAY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$11.93,-342,62089,-1%,"-$4,080",1.0,1.0,111.0,,TVTY
+267,,2016-07-06 16:49:47,2016-07-01,HWAY,Lumsdaine Alfred,CFO,F - Tax,$11.60,-2436,217746,-1%,"-$28,258",1.0,5.0,47.0,94.0,TVTY
+268,,2016-07-06 16:42:37,2016-07-01,HWAY,Flipse Mary,GC,F - Tax,$11.60,-1433,83091,-2%,"-$16,623",1.0,5.0,47.0,94.0,TVTY
+269,,2016-07-06 16:30:23,2016-07-01,HWAY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$11.60,-1003,62431,-2%,"-$11,635",1.0,5.0,47.0,94.0,TVTY
+270,,2016-06-28 12:14:14,2016-06-24,HWAY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$11.89,-713,63434,-1%,"-$8,478",2.0,4.0,9.0,112.0,TVTY
+271,,2016-06-28 12:06:36,2016-06-24,HWAY,Flipse Mary,GC,F - Tax,$11.89,-717,84524,-1%,"-$8,525",2.0,4.0,9.0,112.0,TVTY
+272,,2016-06-28 11:39:20,2016-06-24,HWAY,Lumsdaine Alfred,CFO,F - Tax,$11.89,-1740,220182,-1%,"-$20,689",2.0,4.0,9.0,112.0,TVTY
+273,,2016-06-28 11:11:16,2016-06-24,HWAY,Tramuto Donato,CEO,F - Tax,$11.89,-205,303557,0%,"-$2,437",2.0,4.0,9.0,112.0,TVTY
+274,,2016-05-31 16:19:44,2016-05-26,HWAY,Laughlin Conan,Dir,A - Grant,$0.00,8375,4514578,0%,+$0,2.0,5.0,-5.0,91.0,TVTY
+275,,2016-05-31 15:21:06,2016-05-26,HWAY,Wills Kevin,Dir,A - Grant,$0.00,8375,21157,+66%,+$0,-2.0,3.0,-7.0,90.0,TVTY
+276,,2016-05-31 15:12:23,2016-05-26,HWAY,Shapiro Lee,Dir,A - Grant,$0.00,8375,18937,+79%,+$0,-2.0,3.0,-7.0,90.0,TVTY
+277,,2016-05-31 15:06:19,2016-05-26,HWAY,Keckley Paul H.,Dir,A - Grant,$0.00,8375,14578,+135%,+$0,-2.0,3.0,-7.0,90.0,TVTY
+278,,2016-05-31 14:54:33,2016-05-26,HWAY,Karro Bradley S,Dir,A - Grant,$0.00,8375,14578,+135%,+$0,-2.0,3.0,-7.0,90.0,TVTY
+279,,2016-05-31 14:42:18,2016-05-26,HWAY,Greczyn Robert J Jr,Dir,A - Grant,$0.00,8375,25578,+49%,+$0,-2.0,3.0,-7.0,90.0,TVTY
+280,,2016-05-31 14:19:17,2016-05-26,HWAY,England Mary Jane,Dir,A - Grant,$0.00,8375,42884,+24%,+$0,-2.0,3.0,-7.0,90.0,TVTY
+281,,2016-05-31 13:43:20,2016-05-26,HWAY,Feldshon Archelle Georgiou,Dir,A - Grant,$0.00,8375,8375,New,+$0,-2.0,3.0,-7.0,90.0,TVTY
+282,,2016-05-31 13:20:48,2016-05-26,HWAY,Hudson Peter A,Dir,A - Grant,$0.00,8375,8375,New,+$0,-2.0,3.0,-7.0,90.0,TVTY
+283,,2016-05-20 17:17:17,2016-05-19,HWAY,Tramuto Donato,CEO,F - Tax,$11.57,-424,303762,0%,"-$4,906",0.0,1.0,3.0,97.0,TVTY
+284,,2016-05-20 17:00:17,2016-05-19,HWAY,Flipse Mary,GC,F - Tax,$11.57,-3337,85241,-4%,"-$38,609",0.0,1.0,3.0,97.0,TVTY
+285,,2016-05-20 16:48:31,2016-05-19,HWAY,Lumsdaine Alfred,CFO,F - Tax,$11.57,-5515,221922,-2%,"-$63,809",0.0,1.0,3.0,97.0,TVTY
+286,D,2016-04-01 16:16:38,2016-03-30,HWAY,Hargreaves Glenn,Chief Accounting Officer,A - Grant,$0.00,9524,64147,+17%,+$0,3.0,1.0,14.0,160.0,TVTY
+287,,2016-02-29 17:27:21,2016-02-26,HWAY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$10.96,-373,54623,-1%,"-$4,088",0.0,4.0,-2.0,128.0,TVTY
+288,,2016-02-29 17:10:53,2016-02-26,HWAY,Flipse Mary,GC,F - Tax,$10.96,-373,88578,0%,"-$4,088",0.0,4.0,-2.0,128.0,TVTY
+289,,2016-02-29 17:04:55,2016-02-26,HWAY,Lumsdaine Alfred,CFO,F - Tax,$10.96,-753,227437,0%,"-$8,253",0.0,4.0,-2.0,128.0,TVTY
+290,,2016-02-23 11:48:52,2016-02-19,HWAY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$10.79,-554,54996,-1%,"-$5,978",0.0,-5.0,-10.0,124.0,TVTY
+291,,2016-02-23 11:37:53,2016-02-19,HWAY,Lumsdaine Alfred,CFO,F - Tax,$10.79,-1599,228190,-1%,"-$17,253",0.0,-5.0,-10.0,124.0,TVTY
+292,D,2016-02-10 16:46:45,2016-02-08,HWAY,Slovenski Sean,"Pres, Population Health",A - Grant,$0.00,61531,61531,New,+$0,-4.0,-10.0,-7.0,56.0,TVTY
+293,,2015-11-17 17:18:18,2015-11-13,HWAY,Laughlin Conan,"Dir, 10%",P - Purchase,$12.65,47600,4506203,+1%,"+$602,330",3.0,6.0,-2.0,-8.0,TVTY
+294,M,2015-11-12 17:12:45,2015-11-10,HWAY,Laughlin Conan,"Dir, 10%",P - Purchase,$12.49,252400,4458603,+6%,"+$3,152,694",2.0,5.0,0.0,-5.0,TVTY
+295,M,2015-11-05 19:06:56,2015-11-03,HWAY,Laughlin Conan,"Dir, 10%",P - Purchase,$11.51,350000,4206203,+9%,"+$4,028,008",1.0,1.0,3.0,-3.0,TVTY
+296,,2015-11-04 16:36:13,2015-11-03,HWAY,England Mary Jane,Dir,P - Purchase,$11.38,4401,34509,+15%,"+$50,083",3.0,6.0,7.0,0.0,TVTY
+297,,2015-11-04 16:27:56,2015-11-03,HWAY,Greczyn Robert J Jr,Dir,P - Purchase,$11.40,11000,17203,+177%,"+$125,380",3.0,6.0,7.0,0.0,TVTY
+298,,2015-11-04 16:21:16,2015-11-03,HWAY,Shapiro Lee,Dir,P - Purchase,$11.42,4359,10562,+70%,"+$49,780",3.0,6.0,7.0,0.0,TVTY
+299,D,2015-11-04 16:16:11,2015-11-02,HWAY,Tramuto Donato,"Pres, CEO",A - Grant,$0.00,282051,304186,>999%,+$0,3.0,6.0,7.0,0.0,TVTY
+300,D,2015-11-04 16:16:11,2015-11-03,HWAY,Tramuto Donato,"Pres, CEO",P - Purchase,$11.47,8740,304186,+3%,"+$100,248",3.0,6.0,7.0,0.0,TVTY
+301,D,2015-10-29 18:36:37,2015-10-27,HWAY,Stolz Sidney W,"Pres, Network Solutions",A - Grant,$0.00,68531,68531,New,+$0,12.0,12.0,29.0,11.0,TVTY
+302,D,2015-09-28 08:09:30,2015-09-24,HWAY,Flipse Mary,GC,A - Grant,$0.00,33000,88951,+59%,+$0,-3.0,-4.0,-10.0,-11.0,TVTY
+303,D,2015-09-28 08:05:23,2015-09-24,HWAY,Lumsdaine Alfred,CFO,A - Grant,$0.00,75000,229583,+49%,+$0,-3.0,-4.0,-10.0,-11.0,TVTY
+304,,2015-07-20 17:06:59,2015-07-17,HWAY,Flipse Mary,GC,F - Tax,$12.56,-684,55951,-1%,"-$8,591",-1.0,7.0,0.0,-2.0,TVTY
+305,,2015-07-20 16:53:22,2015-07-17,HWAY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$12.56,-342,55344,-1%,"-$4,296",-1.0,7.0,0.0,-2.0,TVTY
+306,,2015-07-06 15:24:20,2015-07-01,HWAY,Hargreaves Glenn,Chief Accounting Officer,A - Grant,$0.00,14669,55686,+36%,+$0,0.0,5.0,8.0,9.0,TVTY
+307,,2015-07-06 15:18:42,2015-07-01,HWAY,Flipse Mary,GC,A - Grant,$0.00,20956,56635,+59%,+$0,0.0,5.0,8.0,9.0,TVTY
+308,,2015-07-06 15:13:48,2015-07-01,HWAY,Michela Matthew A.,COO,A - Grant,$0.00,35624,93084,+62%,+$0,0.0,5.0,8.0,9.0,TVTY
+309,,2015-07-06 15:06:23,2015-07-01,HWAY,Lumsdaine Alfred,CFO,A - Grant,$0.00,35624,154583,+30%,+$0,0.0,5.0,8.0,9.0,TVTY
+310,,2015-06-29 16:49:59,2015-06-26,HWAY,Michela Matthew A.,COO,F - Tax,$12.35,-1824,57460,-3%,"-$22,526",-1.0,-3.0,5.0,8.0,TVTY
+311,,2015-06-29 16:46:50,2015-06-26,HWAY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$12.35,-717,41017,-2%,"-$8,855",-1.0,-3.0,5.0,8.0,TVTY
+312,,2015-06-29 16:41:55,2015-06-26,HWAY,Flipse Mary,GC,F - Tax,$12.35,-709,35679,-2%,"-$8,756",-1.0,-3.0,5.0,8.0,TVTY
+313,,2015-06-29 16:21:30,2015-06-26,HWAY,Lumsdaine Alfred,CFO,F - Tax,$12.35,-1739,118959,-1%,"-$21,477",-1.0,-3.0,5.0,8.0,TVTY
+314,,2015-05-20 17:39:47,2015-05-19,HWAY,Alison Taunton-Rigby,Dir,A - Grant,$0.00,6203,43105,+17%,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+315,,2015-05-20 17:36:14,2015-05-19,HWAY,Tramuto Donato,Dir,A - Grant,$0.00,6203,13395,+86%,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+316,,2015-05-20 17:27:07,2015-05-19,HWAY,Novelli William,Dir,A - Grant,$0.00,6203,23535,+36%,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+317,,2015-05-20 17:16:58,2015-05-19,HWAY,England Mary Jane,Dir,A - Grant,$0.00,6203,30108,+26%,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+318,,2015-05-20 17:11:23,2015-05-19,HWAY,Wills Kevin,Dir,A - Grant,$0.00,6203,12782,+94%,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+319,,2015-05-20 16:52:57,2015-05-19,HWAY,Laughlin Conan,Dir,A - Grant,$0.00,6203,3856203,0%,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+320,,2015-05-20 16:47:35,2015-05-19,HWAY,Keckley Paul H.,Dir,A - Grant,$0.00,6203,6203,New,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+321,,2015-05-20 16:44:00,2015-05-19,HWAY,Karro Bradley S,Dir,A - Grant,$0.00,6203,6203,New,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+322,,2015-05-20 16:39:43,2015-05-19,HWAY,Shapiro Lee,Dir,A - Grant,$0.00,6203,6203,New,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+323,,2015-05-20 16:36:31,2015-05-19,HWAY,Greczyn Robert J Jr,Dir,A - Grant,$0.00,6203,6203,New,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+324,,2015-05-20 16:15:24,2015-05-19,HWAY,Flipse Mary,GC,A - Grant,$0.00,12407,36388,+52%,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+325,,2015-05-20 16:08:46,2015-05-19,HWAY,Michela Matthew A.,COO,A - Grant,$0.00,18610,59284,+46%,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+326,,2015-05-20 16:03:56,2015-05-19,HWAY,Lumsdaine Alfred,CFO,A - Grant,$0.00,20161,120698,+20%,+$0,0.0,-3.0,-5.0,-23.0,TVTY
+327,M,2015-04-08 17:57:06,2013-02-12,HWAY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$13.97,-2507,41734,-6%,"-$35,017",3.0,3.0,-11.0,-41.0,TVTY
+328,M,2015-04-08 17:52:54,2013-01-18,HWAY,Choueiri Peter,"Pres, International",F - Tax,$14.81,-13350,74546,-15%,"-$197,659",3.0,3.0,-11.0,-41.0,TVTY
+329,M,2015-04-08 17:47:33,2013-07-19,HWAY,Flipse Mary,GC,F - Tax,$16.12,-1699,23981,-7%,"-$27,392",3.0,3.0,-11.0,-41.0,TVTY
+330,M,2015-04-08 17:44:39,2012-02-10,HWAY,Lumsdaine Alfred,CFO,F - Tax,$12.07,-5519,100537,-5%,"-$66,641",3.0,3.0,-11.0,-41.0,TVTY
+331,M,2015-04-08 17:37:13,2012-02-10,HWAY,Leedle Ben R Jr,"Pres, CEO",F - Tax,$11.95,-34586,369933,-9%,"-$413,189",3.0,3.0,-11.0,-41.0,TVTY
+332,,2015-03-02 18:43:46,2015-02-27,HWAY,Flipse Mary,GC,F - Tax,$22.38,-373,23981,-2%,"-$8,348",0.0,-2.0,-13.0,-46.0,TVTY
+333,,2015-03-02 18:40:45,2015-02-27,HWAY,Lumsdaine Alfred,CFO,F - Tax,$22.38,-899,100537,-1%,"-$20,120",0.0,-2.0,-13.0,-46.0,TVTY
+334,,2015-03-02 18:38:42,2015-02-27,HWAY,Leedle Ben R Jr,"Pres, CEO",F - Tax,$22.38,-5940,369933,-2%,"-$132,937",0.0,-2.0,-13.0,-46.0,TVTY
+335,,2015-03-02 18:29:37,2015-02-27,HWAY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$22.38,-373,41734,-1%,"-$8,348",0.0,-2.0,-13.0,-46.0,TVTY
+336,,2015-02-24 18:15:32,2015-02-20,HWAY,Hargreaves Glenn,Chief Accounting Officer,F - Tax,$21.15,-554,42107,-1%,"-$11,717",7.0,7.0,3.0,-39.0,TVTY
+337,,2015-02-24 18:11:07,2015-02-20,HWAY,Lumsdaine Alfred,CFO,F - Tax,$21.15,-1449,101436,-1%,"-$30,646",7.0,7.0,3.0,-39.0,TVTY
+338,,2015-02-24 18:05:54,2015-02-20,HWAY,Leedle Ben R Jr,"Pres, CEO",F - Tax,$21.15,-5097,375873,-1%,"-$107,802",7.0,7.0,3.0,-39.0,TVTY
+339,,2014-09-04 17:26:37,2014-09-02,HWAY,Michela Matthew A.,COO,A - Grant,$0.00,11448,40563,+39%,+$0,0.0,-2.0,-6.0,30.0,TVTY
+340,,2014-08-04 17:13:22,2014-07-31,HWAY,"North Tide Capital, LLC",10%,P - Purchase,$17.29,100000,3850000,+3%,"+$1,729,000",6.0,5.0,4.0,21.0,TVTY
+341,,2014-08-04 17:13:22,2014-07-31,HWAY,"North Tide Capital, LLC",10%,S - Sale,$17.29,-100000,3850000,-3%,"-$1,729,000",6.0,5.0,4.0,21.0,TVTY
+342,,2014-06-30 16:41:52,2014-06-26,HWAY,Leedle Ben R Jr,"Pres, CEO",A - Grant,$0.00,44883,380859,+13%,+$0,0.0,-2.0,-2.0,14.0,TVTY
+343,,2014-06-30 16:36:28,2014-06-26,HWAY,Flipse Mary,GC,A - Grant,$0.00,10473,24290,+76%,+$0,0.0,-2.0,-2.0,14.0,TVTY
+344,,2014-06-30 16:34:11,2014-06-26,HWAY,Lumsdaine Alfred,CFO,A - Grant,$0.00,25434,102774,+33%,+$0,0.0,-2.0,-2.0,14.0,TVTY
+345,,2014-06-30 16:30:28,2014-06-26,HWAY,Hargreaves Glenn,Chief Accounting Officer,A - Grant,$0.00,10473,42562,+33%,+$0,0.0,-2.0,-2.0,14.0,TVTY
+346,,2014-06-30 16:23:28,2014-06-26,HWAY,Choueiri Peter,"Pres, International",A - Grant,$0.00,25434,74546,+52%,+$0,0.0,-2.0,-2.0,14.0,TVTY
+347,D,2014-06-30 16:20:18,2014-06-26,HWAY,England Mary Jane,Dir,A - Grant,$0.00,2992,23905,+14%,+$0,0.0,-2.0,-2.0,14.0,TVTY
+348,D,2014-06-30 16:06:37,2014-06-26,HWAY,Novelli William,Dir,A - Grant,$0.00,2992,17332,+21%,+$0,0.0,-2.0,-2.0,14.0,TVTY
+349,D,2014-06-30 16:01:01,2014-06-26,HWAY,Wills Kevin,Dir,A - Grant,$0.00,2992,6579,+83%,+$0,0.0,-2.0,-2.0,14.0,TVTY
+350,D,2014-06-30 15:54:20,2014-06-26,HWAY,Bisgard Jay C,Dir,A - Grant,$0.00,2992,35607,+9%,+$0,1.0,-1.0,0.0,15.0,TVTY
+351,D,2014-06-30 15:47:24,2014-06-26,HWAY,Wickens John A,Dir,A - Grant,$0.00,2992,25769,+13%,+$0,1.0,-1.0,0.0,15.0,TVTY
+352,D,2014-06-30 15:41:50,2014-06-26,HWAY,Tramuto Donato,Dir,A - Grant,$0.00,2992,7192,+71%,+$0,1.0,-1.0,0.0,15.0,TVTY
+353,D,2014-06-30 15:36:03,2014-06-26,HWAY,Alison Taunton-Rigby,Dir,A - Grant,$0.00,2992,36902,+9%,+$0,1.0,-1.0,0.0,15.0,TVTY
+354,,2014-04-10 15:04:19,2013-11-07,HWAY,England Mary Jane,Dir,P - Purchase,$11.58,1725,11847,+17%,"+$19,976",-1.0,0.0,5.0,-12.0,TVTY
+355,M,2013-12-19 17:01:14,2013-12-17,HWAY,"North Tide Capital, LLC",10%,P - Purchase,$14.11,140000,3850000,+4%,"+$1,975,500",8.0,9.0,20.0,18.0,TVTY
+356,,2013-11-12 16:45:50,2013-11-07,HWAY,Leedle Ben R Jr,"Pres, CEO",A - Grant,$11.75,20000,221814,+10%,"+$235,000",-1.0,6.0,14.0,42.0,TVTY
+357,,2013-11-12 16:44:07,2013-11-07,HWAY,Lumsdaine Alfred,CFO,A - Grant,$11.75,4000,26821,+18%,"+$47,000",-1.0,6.0,14.0,42.0,TVTY
+358,,2013-11-12 09:42:57,2013-11-07,HWAY,Alison Taunton-Rigby,Dir,P - Purchase,$12.13,4100,22155,+23%,"+$49,741",2.0,8.0,16.0,45.0,TVTY
+359,,2013-11-12 09:41:03,2013-11-07,HWAY,Tramuto Donato,Dir,P - Purchase,$11.77,4200,4200,New,"+$49,434",2.0,8.0,16.0,45.0,TVTY
+360,,2013-10-31 20:27:02,2013-10-29,HWAY,Lumsdaine Alfred,CFO,P - Purchase,$10.80,5000,22821,+28%,"+$54,000",8.0,19.0,42.0,80.0,TVTY
+361,D,2013-08-16 18:33:35,2013-08-15,HWAY,Cigarran Thomas G,Dir,F - Tax,$19.03,-55208,336726,-14%,"-$1,050,608",1.0,-2.0,-3.0,-28.0,TVTY
+362,D,2013-08-16 18:33:35,2013-08-15,HWAY,Cigarran Thomas G,Dir,M - OptEx,$17.51,60000,336726,+22%,"+$1,050,600",1.0,-2.0,-3.0,-28.0,TVTY
+363,D,2013-08-16 18:19:27,2013-08-14,HWAY,Lumsdaine Alfred,CFO,M - OptEx,$17.51,9750,19004,+105%,"+$170,723",1.0,-2.0,-3.0,-28.0,TVTY
+364,D,2013-08-16 18:19:27,2013-08-14,HWAY,Lumsdaine Alfred,CFO,S - Sale+OE,$18.64,-9425,19004,-33%,"-$175,682",1.0,-2.0,-3.0,-28.0,TVTY
+365,D,2013-08-16 18:16:24,2013-08-14,HWAY,Leedle Ben R Jr,"Pres, CEO",M - OptEx,$17.51,300000,204768,-315%,"+$5,253,000",1.0,-2.0,-3.0,-28.0,TVTY
+366,D,2013-08-16 18:16:24,2013-08-14,HWAY,Leedle Ben R Jr,"Pres, CEO",S - Sale+OE,$18.68,-293984,204768,-59%,"-$5,491,621",1.0,-2.0,-3.0,-28.0,TVTY
+367,DM,2013-06-05 15:53:45,2013-06-03,HWAY,Bisgard Jay C,Dir,M - OptEx,$12.18,9618,10860,+774%,"+$117,099",-2.0,0.0,7.0,-6.0,TVTY
+368,D,2013-06-05 15:53:45,2013-06-03,HWAY,Bisgard Jay C,Dir,S - Sale+OE,$14.58,-4869,10860,-31%,"-$70,990",-2.0,0.0,7.0,-6.0,TVTY
+369,D,2013-05-31 12:03:05,2013-05-30,HWAY,Cigarran Thomas G,Dir,A - Grant,$0.00,3587,13663,+36%,+$0,-4.0,3.0,25.0,-1.0,TVTY
+370,D,2013-05-31 12:01:54,2013-05-30,HWAY,Ballantine John W,Dir,A - Grant,$0.00,3587,13663,+36%,+$0,-4.0,3.0,25.0,-1.0,TVTY
+371,D,2013-05-31 12:01:03,2013-05-30,HWAY,Bisgard Jay C,Dir,A - Grant,$0.00,3587,13663,+36%,+$0,-4.0,3.0,25.0,-1.0,TVTY
+372,D,2013-05-31 11:59:59,2013-05-30,HWAY,England Mary Jane,Dir,A - Grant,$0.00,3587,13663,+36%,+$0,-4.0,3.0,25.0,-1.0,TVTY
+373,D,2013-05-31 11:59:08,2013-05-30,HWAY,Neel C Warren,Dir,A - Grant,$0.00,3587,13663,+36%,+$0,-4.0,3.0,25.0,-1.0,TVTY
+374,D,2013-05-31 11:57:32,2013-05-30,HWAY,Novelli William,Dir,A - Grant,$0.00,3587,12781,+39%,+$0,-4.0,3.0,25.0,-1.0,TVTY
+375,D,2013-05-31 11:56:24,2013-05-30,HWAY,Alison Taunton-Rigby,Dir,A - Grant,$0.00,3587,13663,+36%,+$0,-4.0,3.0,25.0,-1.0,TVTY
+376,D,2013-05-31 11:55:26,2013-05-30,HWAY,Wickens John A,Dir,A - Grant,$0.00,3587,13663,+36%,+$0,-4.0,3.0,25.0,-1.0,TVTY
+377,D,2013-05-31 11:54:34,2013-05-30,HWAY,Wills Kevin,Dir,A - Grant,$0.00,3587,3587,New,+$0,-4.0,3.0,25.0,-1.0,TVTY
+378,D,2013-05-21 17:26:35,2013-05-17,HWAY,Bisgard Jay C,Dir,M - OptEx,$12.18,2039,2542,+405%,"+$24,825",-2.0,0.0,8.0,-12.0,TVTY
+379,D,2013-05-21 17:26:35,2013-05-17,HWAY,Bisgard Jay C,Dir,S - Sale+OE,$14.50,-2039,2542,-45%,"-$29,566",-2.0,0.0,8.0,-12.0,TVTY
+380,DM,2013-05-14 17:40:04,2013-05-10,HWAY,Bisgard Jay C,Dir,M - OptEx,$12.18,18343,12542,-316%,"+$223,326",-1.0,-1.0,0.0,-15.0,TVTY
+381,DM,2013-05-14 17:40:04,2013-05-10,HWAY,Bisgard Jay C,Dir,S - Sale+OE,$14.51,-18343,12542,-59%,"-$266,150",-1.0,-1.0,0.0,-15.0,TVTY
+382,D,2013-05-10 12:19:33,2013-05-09,HWAY,Ballantine John W,Dir,M - OptEx,$12.18,30000,25142,-618%,"+$365,250",3.0,2.0,5.0,-18.0,TVTY
+383,D,2013-05-10 12:19:33,2013-05-09,HWAY,Ballantine John W,Dir,S - Sale+OE,$14.02,-27400,25142,-52%,"-$384,148",3.0,2.0,5.0,-18.0,TVTY
+384,D,2013-03-04 11:46:46,2013-02-28,HWAY,Hargreaves Glenn,Chief Accounting Officer,A - Grant,$0.00,4569,27261,+20%,+$0,2.0,3.0,-5.0,52.0,TVTY
+385,D,2013-03-04 11:45:20,2013-02-28,HWAY,Flipse Mary,GC,A - Grant,$0.00,4569,14569,+46%,+$0,2.0,3.0,-5.0,52.0,TVTY
+386,D,2013-03-04 11:44:21,2013-02-28,HWAY,Choueiri Peter,"Pres, International",A - Grant,$0.00,12462,49962,+33%,+$0,2.0,3.0,-5.0,52.0,TVTY
+387,D,2013-03-04 11:43:15,2013-02-28,HWAY,Lumsdaine Alfred,CFO,A - Grant,$0.00,11385,51506,+28%,+$0,2.0,3.0,-5.0,52.0,TVTY
+388,D,2013-03-04 11:42:21,2013-02-28,HWAY,Leedle Ben R Jr,"Pres, CEO",A - Grant,$0.00,39501,123103,+47%,+$0,2.0,3.0,-5.0,52.0,TVTY
+389,D,2013-02-14 17:19:04,2013-02-12,HWAY,Cigarran Thomas G,Dir,F - Tax,$10.93,-51437,331934,-13%,"-$562,206",0.0,-2.0,10.0,67.0,TVTY
+390,D,2013-02-14 17:19:04,2013-02-12,HWAY,Cigarran Thomas G,Dir,M - OptEx,$9.37,60000,331934,+22%,"+$562,200",0.0,-2.0,10.0,67.0,TVTY
+391,DM,2012-08-27 16:55:51,2012-08-23,HWAY,Leedle Ben R Jr,"Pres, CEO",M - OptEx,$7.24,200000,165759,-584%,"+$1,448,000",3.0,0.0,11.0,22.0,TVTY
+392,DM,2012-08-27 16:55:51,2012-08-23,HWAY,Leedle Ben R Jr,"Pres, CEO",S - Sale+OE,$10.30,-155769,165759,-48%,"-$1,603,783",3.0,0.0,11.0,22.0,TVTY
+393,D,2012-08-06 18:03:28,2012-08-03,HWAY,Cigarran Thomas G,Dir,M - OptEx,$7.24,80646,323371,+33%,"+$583,877",1.0,4.0,0.0,-1.0,TVTY
+394,D,2012-08-06 18:03:28,2012-08-03,HWAY,Cigarran Thomas G,Dir,S - Sale+OE,$10.85,-80646,323371,-20%,"-$875,009",1.0,4.0,0.0,-1.0,TVTY
+395,D,2012-07-20 19:17:07,2012-07-19,HWAY,Hargreaves Glenn,Chief Accounting Officer,A - Grant,$0.00,5000,25319,+25%,+$0,-2.0,18.0,24.0,15.0,TVTY
+396,D,2012-07-20 19:14:40,2012-07-19,HWAY,Flipse Mary,GC,A - Grant,$0.00,10000,10000,New,+$0,-2.0,18.0,24.0,15.0,TVTY
+397,D,2012-06-01 12:27:54,2012-05-31,HWAY,Novelli William,Dir,A - Grant,$0.00,7634,9974,+326%,+$0,1.0,12.0,22.0,65.0,TVTY
+398,D,2012-06-01 12:25:29,2012-05-31,HWAY,Bisgard Jay C,Dir,A - Grant,$0.00,7634,11737,+186%,+$0,1.0,12.0,22.0,65.0,TVTY
+399,D,2012-06-01 12:24:23,2012-05-31,HWAY,Cigarran Thomas G,Dir,A - Grant,$0.00,7634,11737,+186%,+$0,1.0,12.0,22.0,65.0,TVTY
+400,D,2012-06-01 12:23:03,2012-05-31,HWAY,Neel C Warren,Dir,A - Grant,$0.00,7634,11737,+186%,+$0,1.0,12.0,22.0,65.0,TVTY
+401,D,2012-06-01 12:21:33,2012-05-31,HWAY,Oneil William C,Dir,A - Grant,$0.00,7634,11737,+186%,+$0,1.0,12.0,22.0,65.0,TVTY
+402,D,2012-06-01 12:20:01,2012-05-31,HWAY,Ballantine John W,Dir,A - Grant,$0.00,7634,11737,+186%,+$0,1.0,12.0,22.0,65.0,TVTY
+403,D,2012-06-01 12:18:31,2012-05-31,HWAY,Wickens John A,Dir,A - Grant,$0.00,7634,11737,+186%,+$0,1.0,12.0,22.0,65.0,TVTY
+404,D,2012-06-01 12:16:33,2012-05-31,HWAY,Alison Taunton-Rigby,Dir,A - Grant,$0.00,7634,11737,+186%,+$0,1.0,12.0,22.0,65.0,TVTY
+405,D,2012-06-01 12:14:49,2012-05-31,HWAY,England Mary Jane,Dir,A - Grant,$0.00,7634,11737,+186%,+$0,1.0,12.0,22.0,65.0,TVTY
+406,,2012-02-24 14:10:51,2012-02-22,HWAY,Wickens John A,Dir,P - Purchase,$7.56,6500,7600,+591%,"+$49,140",4.0,-2.0,-7.0,40.0,TVTY
+407,,2012-02-24 14:04:14,2012-02-22,HWAY,Alison Taunton-Rigby,Dir,P - Purchase,$7.65,12825,12825,New,"+$98,111",4.0,-2.0,-7.0,40.0,TVTY
+408,,2012-02-23 13:23:51,2012-02-21,HWAY,England Mary Jane,Dir,P - Purchase,$7.48,4011,4011,New,"+$30,002",4.0,4.0,-3.0,45.0,TVTY
+409,D,2012-02-23 13:23:06,2012-02-21,HWAY,Leedle Ben R Jr,"Pres, CEO",A - Grant,$0.00,75000,146582,+105%,+$0,4.0,4.0,-3.0,45.0,TVTY
+410,D,2012-02-23 13:18:45,2012-02-21,HWAY,Cox Thomas,"COO, Domestic",A - Grant,$0.00,28447,90795,+46%,+$0,4.0,4.0,-3.0,45.0,TVTY
+411,D,2012-02-23 13:17:03,2012-02-21,HWAY,Lumsdaine Alfred,CFO,A - Grant,$0.00,19578,48504,+68%,+$0,4.0,4.0,-3.0,45.0,TVTY
+412,,2011-10-31 14:08:34,2011-10-27,HWAY,Bisgard Jay C,Dir,P - Purchase,$6.72,5000,10000,+100%,"+$33,600",3.0,-1.0,-14.0,-3.0,TVTY
+413,D,2011-05-27 15:07:24,2011-05-26,HWAY,Novelli William,Dir,A - Grant,$0.00,3119,3119,New,+$0,1.0,-2.0,-8.0,-63.0,TVTY
+414,D,2011-05-27 15:05:49,2011-05-26,HWAY,Oneil William C,Dir,A - Grant,$0.00,3119,6645,+88%,+$0,1.0,-2.0,-8.0,-63.0,TVTY
+415,D,2011-05-27 15:04:13,2011-05-26,HWAY,Wickens John A,Dir,A - Grant,$0.00,3119,6645,+88%,+$0,1.0,-2.0,-8.0,-63.0,TVTY
+416,D,2011-05-27 15:02:31,2011-05-26,HWAY,England Mary Jane,Dir,A - Grant,$0.00,3119,6645,+88%,+$0,1.0,-2.0,-8.0,-63.0,TVTY
+417,D,2011-05-27 15:00:36,2011-05-26,HWAY,Neel C Warren,Dir,A - Grant,$0.00,3119,6645,+88%,+$0,1.0,-2.0,-8.0,-63.0,TVTY
+418,D,2011-05-27 14:58:49,2011-05-26,HWAY,Cigarran Thomas G,Dir,A - Grant,$0.00,3119,6645,+88%,+$0,1.0,-2.0,-8.0,-63.0,TVTY
+419,D,2011-05-27 14:56:23,2011-05-26,HWAY,Bisgard Jay C,Dir,A - Grant,$0.00,3119,6645,+88%,+$0,1.0,-2.0,-8.0,-63.0,TVTY
+420,D,2011-05-27 14:54:43,2011-05-26,HWAY,Alison Taunton-Rigby,Dir,A - Grant,$0.00,3119,6645,+88%,+$0,1.0,-2.0,-8.0,-63.0,TVTY
+421,D,2011-05-27 14:52:55,2011-05-26,HWAY,Ballantine John W,Dir,A - Grant,$0.00,3119,6645,+88%,+$0,1.0,-2.0,-8.0,-63.0,TVTY
+422,D,2011-03-07 10:51:11,2011-03-03,HWAY,Elrod James W,"VP, GC",A - Grant,$0.00,12500,12500,New,+$0,0.0,4.0,9.0,-16.0,TVTY
+423,D,2011-03-02 17:44:52,2011-02-28,HWAY,Leedle Ben R Jr,CEO,A - Grant,$0.00,47808,98911,+94%,+$0,2.0,3.0,5.0,-15.0,TVTY
+424,D,2010-12-06 15:39:25,2010-12-02,HWAY,Lumsdaine Alfred,Chief Accounting Officer,A - Grant,$0.00,25000,37571,+199%,+$0,-1.0,3.0,13.0,56.0,TVTY
+425,,2010-10-05 12:39:43,2010-10-01,HWAY,Lumsdaine Alfred,Chief Accounting Officer,F - Tax,$11.35,-705,6618,-10%,"-$8,002",4.0,7.0,-3.0,42.0,TVTY
+426,,2010-10-05 12:39:43,2010-10-04,HWAY,Lumsdaine Alfred,Chief Accounting Officer,S - Sale,$11.35,-490,6618,-7%,"-$5,562",4.0,7.0,-3.0,42.0,TVTY
+427,,2010-10-05 12:39:02,2010-10-01,HWAY,Leedle Ben R Jr,CEO,F - Tax,$11.35,-3586,76948,-4%,"-$40,701",4.0,7.0,-3.0,42.0,TVTY
+428,,2010-10-05 12:38:20,2010-10-01,HWAY,Kelliher Matthew,"Pres, International",F - Tax,$11.35,-818,2884,-22%,"-$9,284",4.0,7.0,-3.0,42.0,TVTY
+429,,2010-10-05 12:37:48,2010-10-01,HWAY,Chaput Mary A,CFO,F - Tax,$11.35,-818,30694,-3%,"-$9,284",4.0,7.0,-3.0,42.0,TVTY
+430,DM,2010-09-29 17:15:56,2010-09-27,HWAY,Leedle Ben R Jr,CEO,M - OptEx,$1.89,45000,70696,+175%,"+$85,050",-4.0,-3.0,-14.0,25.0,TVTY
+431,D,2010-09-29 17:15:56,2010-09-27,HWAY,Leedle Ben R Jr,CEO,S - Sale+OE,$12.31,-22776,70696,-24%,"-$280,373",-4.0,-3.0,-14.0,25.0,TVTY
+432,D,2010-06-23 12:28:53,2010-06-21,HWAY,Leedle Ben R Jr,CEO,M - OptEx,$1.36,11250,50993,+28%,"+$15,300",-1.0,-5.0,-2.0,-13.0,TVTY
+433,D,2010-06-23 12:28:53,2010-06-21,HWAY,Leedle Ben R Jr,CEO,S - Sale+OE,$13.51,-4375,50993,-8%,"-$59,106",-1.0,-5.0,-2.0,-13.0,TVTY
+434,,2010-06-03 18:22:00,2010-06-01,HWAY,Cigarran Christopher,"VP, HR",S - Sale,$14.06,-15000,137763,-10%,"-$210,900",-6.0,-15.0,-21.0,-35.0,TVTY
+435,D,2010-06-02 14:33:19,2010-05-28,HWAY,Wickens John A,Dir,A - Grant,$0.00,3526,3526,New,+$0,4.0,-5.0,-12.0,-27.0,TVTY
+436,D,2010-06-02 14:31:31,2010-05-28,HWAY,England Mary Jane,Dir,A - Grant,$0.00,3526,3526,New,+$0,4.0,-5.0,-12.0,-27.0,TVTY
+437,D,2010-06-02 14:29:51,2010-05-28,HWAY,Neel C Warren,Dir,A - Grant,$0.00,3526,3526,New,+$0,4.0,-5.0,-12.0,-27.0,TVTY
+438,D,2010-06-02 14:26:05,2010-05-28,HWAY,Cigarran Thomas G,Dir,A - Grant,$0.00,3526,3526,New,+$0,4.0,-5.0,-12.0,-27.0,TVTY
+439,D,2010-06-02 14:23:35,2010-05-28,HWAY,Bisgard Jay C,Dir,A - Grant,$0.00,3526,3526,New,+$0,4.0,-5.0,-12.0,-27.0,TVTY
+440,D,2010-06-02 14:21:00,2010-05-28,HWAY,Ballantine John W,Dir,A - Grant,$0.00,3526,3526,New,+$0,4.0,-5.0,-12.0,-27.0,TVTY
+441,D,2010-06-02 14:17:40,2010-05-28,HWAY,Alison Taunton-Rigby,Dir,A - Grant,$0.00,3526,3526,New,+$0,4.0,-5.0,-12.0,-27.0,TVTY
+442,D,2010-06-02 14:16:02,2010-05-28,HWAY,Oneil William C,Dir,A - Grant,$0.00,3526,3526,New,+$0,4.0,-5.0,-12.0,-27.0,TVTY
+443,,2010-03-08 17:06:25,2010-03-05,HWAY,Kelliher Matthew,"Pres, International",S - Sale,$16.46,-16915,502,-97%,"-$278,455",0.0,0.0,-1.0,-16.0,TVTY
+444,D,2010-02-26 18:22:01,2010-02-24,HWAY,Brueckner Stefen F.,"Pres, COO",A - Grant,$0.00,5394,5577,>999%,+$0,1.0,8.0,11.0,-12.0,TVTY
+445,D,2010-02-26 18:19:21,2010-02-24,HWAY,Cigarran Christopher,"VP, HR",A - Grant,$0.00,2634,20712,+15%,+$0,1.0,8.0,11.0,-12.0,TVTY
+446,D,2010-02-26 18:17:22,2010-02-24,HWAY,Wilkins Anne Marie,"VP, Marketing, Strategy",A - Grant,$0.00,3611,45175,+9%,+$0,1.0,8.0,11.0,-12.0,TVTY
+447,D,2010-02-26 18:15:58,2010-02-24,HWAY,Lumsdaine Alfred,Chief Accounting Officer,A - Grant,$0.00,1748,17718,+11%,+$0,1.0,8.0,11.0,-12.0,TVTY
+448,D,2010-02-26 18:14:24,2010-02-24,HWAY,Kelliher Matthew,"Pres, International",A - Grant,$0.00,3409,25936,+15%,+$0,1.0,8.0,11.0,-12.0,TVTY
+449,D,2010-02-26 18:09:27,2010-02-24,HWAY,Chaput Mary A,CFO,A - Grant,$0.00,4028,32870,+14%,+$0,1.0,8.0,11.0,-12.0,TVTY
+450,D,2010-02-26 18:06:23,2010-02-24,HWAY,Richards R Claiborne Jr,"VP, GC",A - Grant,$0.00,1965,20346,+11%,+$0,1.0,8.0,11.0,-12.0,TVTY
+451,D,2010-02-26 18:03:34,2010-02-24,HWAY,Leedle Ben R Jr,CEO,A - Grant,$0.00,13790,91215,+18%,+$0,1.0,8.0,11.0,-12.0,TVTY
+452,,2010-02-17 18:39:53,2010-02-16,HWAY,Cigarran Christopher,"VP, HR",S - Sale,$15.92,-3306,152721,-2%,"-$52,642",1.0,-2.0,5.0,-13.0,TVTY
+453,,2010-02-17 18:36:27,2010-02-16,HWAY,Richards R Claiborne Jr,"VP, GC",S - Sale,$15.94,-801,1581,-34%,"-$12,770",1.0,-2.0,5.0,-13.0,TVTY
+454,,2010-02-17 18:33:54,2010-02-16,HWAY,Chaput Mary A,CFO,S - Sale,$15.92,-2586,28297,-8%,"-$41,170",1.0,-2.0,5.0,-13.0,TVTY
+455,,2010-02-17 18:32:15,2010-02-16,HWAY,Lumsdaine Alfred,Chief Accounting Officer,S - Sale,$15.93,-1412,5039,-22%,"-$22,490",1.0,-2.0,5.0,-13.0,TVTY
+456,,2010-02-17 18:25:25,2010-02-12,HWAY,Leedle Ben R Jr,CEO,S - Sale,$15.97,-6310,44076,-13%,"-$100,793",1.0,-2.0,5.0,-13.0,TVTY
+457,D,2009-11-12 09:45:42,2009-11-10,HWAY,Leedle Ben R Jr,CEO,M - OptEx,$2.07,30000,36866,+437%,"+$62,100",0.0,8.0,3.0,-3.0,TVTY
+458,D,2009-11-12 09:45:42,2009-11-10,HWAY,Leedle Ben R Jr,CEO,S - Sale+OE,$16.20,-14850,36866,-29%,"-$240,570",0.0,8.0,3.0,-3.0,TVTY
+459,,2009-09-09 11:58:17,2009-09-08,HWAY,Lumsdaine Alfred,"SVP, Chief Accounting Officer",S - Sale,$14.16,-780,3787,-17%,"-$11,045",5.0,10.0,5.0,14.0,TVTY
+460,,2009-08-26 15:12:43,2009-08-25,HWAY,Leedle Ben R Jr,CEO,S - Sale,$13.71,-3722,21716,-15%,"-$51,029",0.0,-4.0,18.0,11.0,TVTY
+461,,2009-03-04 15:15:39,2009-03-03,HWAY,Chaput Mary A,"EVP, CFO",P - Purchase,$7.78,1000,22774,+5%,"+$7,780",-6.0,-1.0,13.0,68.0,TVTY
+462,M,2009-03-03 17:41:14,2009-03-02,HWAY,Kelliher Matthew,"Pres, International",P - Purchase,$7.64,10000,10369,>999%,"+$76,395",4.0,-5.0,13.0,74.0,TVTY
+463,,2009-03-03 17:20:52,2009-03-03,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",P - Purchase,$7.65,500,2174,+30%,"+$3,825",4.0,-5.0,13.0,74.0,TVTY
+464,M,2009-03-02 18:23:59,2009-02-26,HWAY,Wilkins Anne Marie,"EVP, Marketing, Strategy",P - Purchase,$9.46,2000,2000,New,"+$18,925",4.0,0.0,13.0,68.0,TVTY
+465,D,2009-02-13 15:46:29,2009-02-12,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",A - Grant,$0.00,10457,18077,+137%,+$0,-2.0,-4.0,-31.0,17.0,TVTY
+466,D,2009-02-13 15:44:52,2009-02-12,HWAY,Wilkins Anne Marie,"EVP, Marketing, Strategy",A - Grant,$0.00,21531,41531,+108%,+$0,-2.0,-4.0,-31.0,17.0,TVTY
+467,D,2009-02-13 15:43:24,2009-02-12,HWAY,Kelliher Matthew,"Pres, International",A - Grant,$0.00,15610,25397,+159%,+$0,-2.0,-4.0,-31.0,17.0,TVTY
+468,D,2009-02-13 15:41:42,2009-02-12,HWAY,Chaput Mary A,"EVP, CFO",A - Grant,$0.00,21598,31385,+221%,+$0,-2.0,-4.0,-31.0,17.0,TVTY
+469,D,2009-02-13 15:39:17,2009-02-12,HWAY,Leedle Ben R Jr,CEO,A - Grant,$0.00,53724,85534,+169%,+$0,-2.0,-4.0,-31.0,17.0,TVTY
+470,,2008-10-28 12:12:53,2008-10-24,HWAY,Ballantine John W,Dir,P - Purchase,$8.18,10000,20000,+100%,"+$81,800",5.0,40.0,-11.0,37.0,TVTY
+471,D,2008-09-30 18:52:27,2008-09-29,HWAY,Leedle Ben R Jr,"Pres, CEO",M - OptEx,$2.48,9188,17085,+116%,"+$22,786",4.0,-20.0,-52.0,-49.0,TVTY
+472,D,2008-02-29 17:09:45,2008-02-27,HWAY,Leedle Ben R Jr,"Pres, CEO",M - OptEx,$2.78,5625,7856,+252%,"+$15,638",-2.0,2.0,3.0,-44.0,TVTY
+473,,2008-02-01 15:07:11,2008-01-30,HWAY,Wickens John A,Dir,P - Purchase,$54.98,500,1100,+83%,"+$27,490",-1.0,-2.0,-40.0,-55.0,TVTY
+474,,2008-01-10 15:48:22,2008-01-09,HWAY,Lytle L Ben,Dir,S - Sale,$67.52,-24000,97544,-20%,"-$1,620,480",2.0,1.0,-22.0,-60.0,TVTY
+475,D,2008-01-09 11:57:58,2008-01-07,HWAY,Hunter Mary D,EVP,M - OptEx,$13.40,50000,3780,-108%,"+$670,100",1.0,1.0,-18.0,-59.0,TVTY
+476,D,2008-01-09 11:57:58,2008-01-07,HWAY,Hunter Mary D,EVP,S - Sale+OE,$62.00,-50000,3780,-93%,"-$3,100,000",1.0,1.0,-18.0,-59.0,TVTY
+477,D,2007-11-13 13:33:40,2007-10-08,HWAY,Hunter Mary D,EVP,A - Grant,$0.00,2871,11478,+33%,+$0,3.0,-1.0,0.0,-45.0,TVTY
+478,D,2007-11-13 13:31:57,2007-10-08,HWAY,Kelliher Matthew,"EVP, International Business",A - Grant,$0.00,3323,9646,+53%,+$0,3.0,-1.0,0.0,-45.0,TVTY
+479,D,2007-11-13 13:29:22,2007-10-08,HWAY,Leedle Ben R Jr,"Pres, CEO",A - Grant,$0.00,11377,31669,+56%,+$0,3.0,-1.0,0.0,-45.0,TVTY
+480,D,2007-11-13 13:27:35,2007-10-08,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",A - Grant,$0.00,2257,7563,+43%,+$0,3.0,-1.0,0.0,-45.0,TVTY
+481,D,2007-11-13 13:25:35,2007-10-08,HWAY,Pope James E,"EVP, COO",A - Grant,$0.00,3667,9866,+59%,+$0,3.0,-1.0,0.0,-45.0,TVTY
+482,D,2007-11-13 13:22:11,2007-10-08,HWAY,Taylor Donald B,"EVP, Sales, Marketing",A - Grant,$0.00,3687,10681,+53%,+$0,3.0,-1.0,0.0,-45.0,TVTY
+483,D,2007-11-13 13:17:43,2007-10-08,HWAY,Stone Robert E,"EVP, Chief Strategy Officer",A - Grant,$0.00,3340,13188,+34%,+$0,3.0,-1.0,0.0,-45.0,TVTY
+484,D,2007-11-13 13:14:19,2007-10-08,HWAY,Chaput Mary A,"EVP, CFO",A - Grant,$0.00,3442,9666,+55%,+$0,3.0,-1.0,0.0,-45.0,TVTY
+485,D,2007-11-13 13:11:39,2007-10-08,HWAY,Chaput Robert L,"EVP, CIO",A - Grant,$0.00,3386,13161,+35%,+$0,3.0,-1.0,0.0,-45.0,TVTY
+486,DM,2007-11-07 18:07:40,2007-11-05,HWAY,Cigarran Thomas G,Dir,M - OptEx,$7.24,75000,324820,+30%,"+$543,000",1.0,4.0,4.0,-43.0,TVTY
+487,DM,2007-11-07 18:07:40,2007-11-05,HWAY,Cigarran Thomas G,Dir,S - Sale+OE,$57.86,-75000,324820,-19%,"-$4,339,847",1.0,4.0,4.0,-43.0,TVTY
+488,DM,2007-11-05 17:20:25,2007-11-01,HWAY,Kelliher Matthew,"EVP, International Business",M - OptEx,$17.89,40000,222,-101%,"+$715,600",2.0,-1.0,1.0,-45.0,TVTY
+489,DM,2007-11-05 17:20:25,2007-11-01,HWAY,Kelliher Matthew,"EVP, International Business",S - Sale+OE,$58.89,-40000,222,-99%,"-$2,355,449",2.0,-1.0,1.0,-45.0,TVTY
+490,D,2007-11-02 17:01:53,2007-10-31,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",M - OptEx,$8.97,2250,1608,-350%,"+$20,183",-2.0,-2.0,0.0,-44.0,TVTY
+491,D,2007-11-02 17:01:53,2007-10-31,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",S - Sale+OE,$60.20,-2000,1608,-55%,"-$120,400",-2.0,-2.0,0.0,-44.0,TVTY
+492,,2007-10-31 18:02:38,2007-10-29,HWAY,Herr Henry D,Dir,S - Sale,$57.55,-97824,291644,-25%,"-$5,629,615",-3.0,-4.0,-5.0,-42.0,TVTY
+493,D,2007-07-18 18:21:14,2007-07-16,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",M - OptEx,$17.51,3250,1354,-171%,"+$56,908",-1.0,-5.0,2.0,41.0,TVTY
+494,D,2007-07-18 18:21:14,2007-07-16,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",S - Sale+OE,$47.91,-3250,1354,-71%,"-$155,708",-1.0,-5.0,2.0,41.0,TVTY
+495,D,2007-07-18 18:19:18,2007-07-16,HWAY,Taylor Donald B,"EVP Sales, Marketing",M - OptEx,$14.28,227500,362,-100%,"+$3,248,725",-1.0,-5.0,2.0,41.0,TVTY
+496,D,2007-07-18 18:19:18,2007-07-16,HWAY,Taylor Donald B,"EVP Sales, Marketing",S - Sale+OE,$47.96,-227500,362,-100%,"-$10,911,175",-1.0,-5.0,2.0,41.0,TVTY
+497,DM,2007-05-29 18:22:49,2007-05-24,HWAY,Hunter Mary D,EVP,M - OptEx,$9.84,50000,3751,-108%,"+$492,200",-5.0,-1.0,0.0,12.0,TVTY
+498,DM,2007-05-29 18:22:49,2007-05-24,HWAY,Hunter Mary D,EVP,S - Sale+OE,$47.51,-50000,3751,-93%,"-$2,375,480",-5.0,-1.0,0.0,12.0,TVTY
+499,D,2007-04-17 15:26:09,2007-04-13,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",M - OptEx,$8.97,3750,1342,-156%,"+$33,638",1.0,-2.0,-2.0,20.0,TVTY
+500,D,2007-04-17 15:26:09,2007-04-13,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",S - Sale+OE,$44.54,-3750,1342,-74%,"-$167,025",1.0,-2.0,-2.0,20.0,TVTY
+501,D,2007-01-16 18:53:34,2007-01-16,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",M - OptEx,$7.24,2000,1329,-298%,"+$14,480",-2.0,-3.0,0.0,7.0,TVTY
+502,D,2007-01-16 18:53:34,2007-01-16,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",S - Sale+OE,$44.98,-2000,1329,-60%,"-$89,960",-2.0,-3.0,0.0,7.0,TVTY
+503,D,2006-12-07 17:35:18,2006-12-05,HWAY,Hunter Mary D,EVP,M - OptEx,$1.89,53000,3733,-108%,"+$100,170",2.0,1.0,-8.0,1.0,TVTY
+504,D,2006-12-07 17:35:18,2006-12-05,HWAY,Hunter Mary D,EVP,S - Sale+OE,$47.50,-53000,3733,-93%,"-$2,517,500",2.0,1.0,-8.0,1.0,TVTY
+505,D,2006-11-07 16:58:36,2006-11-06,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",M - OptEx,$12.57,2500,1322,-212%,"+$31,425",0.0,-3.0,12.0,2.0,TVTY
+506,D,2006-11-07 16:58:36,2006-11-06,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",S - Sale+OE,$41.97,-2500,1322,-65%,"-$104,925",0.0,-3.0,12.0,2.0,TVTY
+507,D,2006-10-04 16:21:42,2006-10-02,HWAY,Stone Robert E,EVP,A - Grant,$0.00,3092,9802,+46%,+$0,-2.0,-8.0,-6.0,6.0,TVTY
+508,D,2006-10-04 16:15:00,2006-10-02,HWAY,Taylor Donald B,EVP,A - Grant,$0.00,3514,6948,+102%,+$0,-2.0,-8.0,-6.0,6.0,TVTY
+509,D,2006-10-04 16:08:12,2006-10-02,HWAY,Pope James E,"EVP, COO",A - Grant,$0.00,3169,6151,+106%,+$0,-2.0,-8.0,-6.0,6.0,TVTY
+510,D,2006-10-04 16:05:56,2006-10-02,HWAY,Chaput Robert L,"EVP, CIO",A - Grant,$0.00,2202,9725,+29%,+$0,-2.0,-8.0,-6.0,6.0,TVTY
+511,D,2006-10-04 16:00:36,2006-10-02,HWAY,Chaput Mary A,"EVP, CFO",A - Grant,$0.00,3092,6178,+100%,+$0,-2.0,-8.0,-6.0,6.0,TVTY
+512,D,2006-10-04 15:57:32,2006-10-02,HWAY,Hunter Mary D,EVP,A - Grant,$0.00,2530,8560,+42%,+$0,4.0,-4.0,-2.0,10.0,TVTY
+513,D,2006-10-04 15:55:01,2006-10-02,HWAY,Kelliher Matthew,EVP,A - Grant,$0.00,3092,6277,+97%,+$0,4.0,-4.0,-2.0,10.0,TVTY
+514,D,2006-10-04 15:45:38,2006-10-02,HWAY,Lumsdaine Alfred,"SVP, Corporate Controller",A - Grant,$0.00,2665,5266,+102%,+$0,4.0,-4.0,-2.0,10.0,TVTY
+515,D,2006-10-04 15:41:21,2006-10-02,HWAY,Leedle Ben R Jr,"Pres, CEO",A - Grant,$0.00,9838,20246,+95%,+$0,4.0,-4.0,-2.0,10.0,TVTY
+516,D,2006-01-18 11:12:28,2006-01-17,AMHC,Lumsdaine Alfred,"SVP, Corporate Controller",M - OptEx,$7.24,2000,1284,-279%,"+$14,480",,,,,TVTY
+517,D,2006-01-18 11:12:28,2006-01-17,AMHC,Lumsdaine Alfred,"SVP, Corporate Controller",S - Sale+OE,$44.65,-2000,1284,-61%,"-$89,295",,,,,TVTY
+518,D,2005-12-29 13:36:40,2005-12-28,AMHC,Cigarran Thomas G,Dir,M - OptEx,$2.90,23104,660255,+4%,"+$66,960",,,,,TVTY
+519,D,2005-12-29 13:36:40,2005-12-28,AMHC,Cigarran Thomas G,Dir,S - Sale+OE,$46.22,-23104,660255,-3%,"-$1,067,949",,,,,TVTY
+520,,2005-10-21 09:33:04,2005-10-19,AMHC,Hunter Mary D,EVP,P - Purchase,$40.49,230,3907,+6%,"+$9,313",,,,,TVTY
+521,D,2005-10-18 17:57:42,2005-10-17,AMHC,Herr Henry D,Dir,M - OptEx,$4.79,177502,403614,+79%,"+$850,223",,,,,TVTY
+522,D,2005-10-18 17:57:42,2005-10-17,AMHC,Herr Henry D,Dir,S - Sale+OE,$39.09,-227502,403614,-36%,"-$8,893,575",,,,,TVTY
+523,D,2005-08-26 18:04:05,2005-08-24,AMHC,Lumsdaine Alfred,"SVP, Corporate Controller",A - Grant,$0.00,2283,2553,+846%,+$0,,,,,TVTY
+524,D,2005-08-26 17:56:56,2005-08-24,AMHC,Leedle Ben R Jr,"Pres, CEO",A - Grant,$0.00,8235,10356,+388%,+$0,,,,,TVTY
+525,D,2005-08-26 17:48:19,2005-08-24,AMHC,Taylor Donald B,"EVP, COO",A - Grant,$0.00,3106,3383,>999%,+$0,,,,,TVTY
+526,D,2005-08-26 17:36:59,2005-08-24,AMHC,Stone Robert E,EVP,A - Grant,$0.00,2748,6655,+70%,+$0,,,,,TVTY
+527,D,2005-08-26 17:22:01,2005-08-24,AMHC,Pope James E,"EVP, Chief Medical Officer",A - Grant,$0.00,2824,2926,>999%,+$0,,,,,TVTY
+528,D,2005-08-26 17:13:10,2005-08-24,AMHC,Kelliher Matthew,EVP,A - Grant,$0.00,3012,3130,>999%,+$0,,,,,TVTY
+529,D,2005-08-26 17:03:53,2005-08-24,AMHC,Hunter Mary D,EVP,A - Grant,$0.00,2306,5974,+63%,+$0,,,,,TVTY
+530,D,2005-08-26 17:00:04,2005-08-24,AMHC,Chaput Mary A,"EVP, CFO",A - Grant,$0.00,2692,3034,+787%,+$0,,,,,TVTY
+531,D,2005-07-05 16:03:08,2005-06-30,AMHC,Hunter Mary D,EVP,M - OptEx,$1.82,50000,3664,-108%,"+$91,020",,,,,TVTY
+532,D,2005-07-05 16:03:08,2005-06-30,AMHC,Hunter Mary D,EVP,S - Sale+OE,$42.75,-50000,3664,-93%,"-$2,137,555",,,,,TVTY
+533,D,2005-06-02 10:45:21,2005-01-10,AMHC,Oneil William C,Dir,M - OptEx,$0.57,6196,234272,+3%,"+$3,532",,,,,TVTY
+534,DM,2005-06-02 10:45:21,2005-05-31,AMHC,Oneil William C,Dir,S - Sale+OE,$39.48,-250000,234272,-52%,"-$9,870,539",,,,,TVTY
+535,D,2005-06-02 10:44:00,2005-01-10,AMHC,Neel C Warren,Dir,M - OptEx,$0.57,6196,47230,+15%,"+$3,532",,,,,TVTY
+536,D,2005-05-23 19:02:52,2005-05-19,AMHC,Lumsdaine Alfred,"SVP, Corporate Controller",M - OptEx,$10.42,10000,1259,-114%,"+$104,240",,,,,TVTY
+537,D,2005-05-23 19:02:52,2005-05-19,AMHC,Lumsdaine Alfred,"SVP, Corporate Controller",S - Sale+OE,$41.54,-10000,1259,-89%,"-$415,388",,,,,TVTY
+538,DM,2005-05-23 17:44:29,2005-05-20,AMHC,Stone Robert E,"EVP, Chief Strategy Officer",M - OptEx,$2.18,112000,154066,+266%,"+$244,605",,,,,TVTY
+539,DM,2005-05-23 17:44:29,2005-05-19,AMHC,Stone Robert E,"EVP, Chief Strategy Officer",S - Sale+OE,$40.58,-330000,154066,-68%,"-$13,390,815",,,,,TVTY
+540,AM,2005-02-15 16:56:33,2004-01-08,AMHC,Bisgard Jay C,Dir,P - Purchase,$25.32,5000,5000,New,"+$126,620",,,,,TVTY
+541,A,2005-02-11 09:34:48,2004-01-02,AMHC,Taylor Donald B,"EVP, COO",G - Gift,$23.87,920,920,New,"+$21,960",,,,,TVTY
+542,A,2005-02-08 12:26:28,2004-01-14,AMHC,Herr Henry D,Dir,G - Gift,$26.90,-6820,471046,-1%,"-$183,458",,,,,TVTY
+543,D,2005-01-05 09:53:02,2005-01-03,AMHC,Stone Robert E,EVP,M - OptEx,$0.57,46932,372062,+14%,"+$26,751",,,,,TVTY
+544,A,2004-11-12 16:36:01,2004-01-14,AMHC,Herr Henry D,Dir,G - Gift,$26.90,910,30674,+3%,"+$24,479",,,,,TVTY
+545,M,2004-11-01 14:51:32,2004-10-28,AMHC,Stone Robert E,EVP,S - Sale,$30.05,-42300,325110,-12%,"-$1,271,014",,,,,TVTY
+546,,2004-07-08 17:33:09,2004-07-06,AMHC,Koldyke Martin Jesse,Dir,S - Sale,$26.59,-10393,47119,-18%,"-$276,364",,,,,TVTY
+547,D,2004-05-19 17:14:09,2004-05-17,AMHC,Stone Robert E,EVP,M - OptEx,$0.57,32808,367371,+10%,"+$18,701",,,,,TVTY
+548,D,2004-04-05 17:40:11,2004-01-16,AMHC,Cigarran Thomas G,Dir,G - Gift,$26.59,-42283,660154,-6%,"-$1,124,305",,,,,TVTY
+549,D,2004-04-05 17:40:11,2004-04-01,AMHC,Cigarran Thomas G,Dir,M - OptEx,$1.94,431250,660154,+188%,"+$838,313",,,,,TVTY
+550,D,2004-04-05 17:40:11,2004-04-01,AMHC,Cigarran Thomas G,Dir,S - Sale+OE,$23.25,-431250,660154,-40%,"-$10,026,563",,,,,TVTY
+551,AM,2004-04-02 18:18:27,2002-12-23,AMHC,Koldyke Martin Jesse,Dir,P - Purchase,$8.43,20000,87620,+30%,"+$168,600",,,,,TVTY
+552,A,2004-04-02 18:18:27,2003-10-23,AMHC,Koldyke Martin Jesse,Dir,S - Sale,$21.65,-10000,87620,-10%,"-$216,500",,,,,TVTY
+553,M,2004-04-02 18:17:56,2004-01-16,AMHC,Koldyke Martin Jesse,Dir,G - Gift,$26.02,-18311,58614,-24%,"-$476,422",,,,,TVTY
+554,,2004-04-02 18:17:56,2004-03-31,AMHC,Koldyke Martin Jesse,Dir,S - Sale,$24.37,-10695,58614,-15%,"-$260,589",,,,,TVTY
+555,,2004-03-29 15:59:09,2004-03-25,AMHC,Ballantine John W,Dir,P - Purchase,$23.33,10000,10000,New,"+$233,340",,,,,TVTY
+556,,2004-03-10 11:04:13,2004-03-08,AMHC,Stone Robert E,EVP,S - Sale,$30.00,-1700,334547,-1%,"-$51,000",,,,,TVTY
+557,,2004-02-17 16:06:57,2004-02-13,AMHC,Stone Robert E,EVP,S - Sale,$30.00,-6000,332432,-2%,"-$180,000",,,,,TVTY
+558,M,2004-02-13 15:13:10,2004-02-11,AMHC,Stone Robert E,EVP,S - Sale,$30.00,-20000,342240,-6%,"-$600,000",,,,,TVTY
+559,,2004-01-15 15:36:31,2004-01-14,AMHC,Herr Henry D,Dir,G - Gift,$26.90,-7730,505272,+2%,"-$207,937",,,,,TVTY
+560,,2004-01-14 17:32:54,2004-01-12,AMHC,Herr Henry D,Dir,S - Sale,$26.77,-100000,511092,-16%,"-$2,677,380",,,,,TVTY
+561,M,2004-01-12 19:01:42,2004-01-08,AMHC,Bisgard Jay C,Dir,P - Purchase,$25.32,5000,5000,New,"+$126,620",,,,,TVTY
+562,,2004-01-09 17:26:29,2004-01-08,AMHC,Oneil William C,Dir,M - OptEx,$5.14,4500,478076,+1%,"+$23,130",,,,,TVTY
+563,A,2004-01-09 12:16:43,2004-01-05,AMHC,Neel C Warren,Dir,M - OptEx,$5.14,4500,41034,+12%,"+$23,130",,,,,TVTY
+564,,2004-01-09 12:13:31,2004-01-07,AMHC,Ehmann Frank A,Dir,M - OptEx,$5.14,4500,35432,+15%,"+$23,130",,,,,TVTY
+565,,2004-01-07 13:26:09,2004-01-05,AMHC,Neel C Warren,Dir,M - OptEx,$5.14,4500,18674,+32%,"+$23,130",,,,,TVTY
+566,,2004-01-06 13:11:02,2004-01-02,AMHC,Taylor Donald B,"EVP, COO",G - Gift,$23.87,-920,7080,-12%,"-$21,960",,,,,TVTY
+567,A,2003-12-01 12:16:11,2003-10-15,AMHC,Lumsdaine Alfred,"SVP, Corporate Controller",M - OptEx,$20.40,2250,581,-135%,"+$45,905",,,,,TVTY
+568,A,2003-12-01 12:16:11,2003-10-15,AMHC,Lumsdaine Alfred,"SVP, Corporate Controller",S - Sale,$43.48,-2250,581,-79%,"-$97,830",,,,,TVTY
+569,A,2003-12-01 12:15:30,2003-10-13,AMHC,Hunter Mary D,EVP,M - OptEx,$4.13,3250,1771,-220%,"+$13,423",,,,,TVTY
+570,A,2003-12-01 12:15:30,2003-10-13,AMHC,Hunter Mary D,EVP,S - Sale,$45.30,-3250,1771,-65%,"-$147,225",,,,,TVTY
+571,AM,2003-11-18 15:20:41,2003-07-29,AMHC,Cigarran Thomas G,"COB, CEO",M - OptEx,$4.05,90000,851176,+12%,"+$364,500",,,,,TVTY
+572,AM,2003-11-18 15:20:41,2003-07-29,AMHC,Cigarran Thomas G,"COB, CEO",S - Sale,$34.49,-90000,851176,-10%,"-$3,103,957",,,,,TVTY
+573,M,2003-10-28 17:01:28,2002-01-22,AMHC,Koldyke Martin Jesse,Dir,G - Gift,$31.42,-3770,40591,-8%,"-$118,457",,,,,TVTY
+574,M,2003-10-28 17:01:28,2002-12-23,AMHC,Koldyke Martin Jesse,Dir,P - Purchase,$16.86,10000,40591,+33%,"+$168,593",,,,,TVTY
+575,,2003-10-28 17:01:28,2003-10-23,AMHC,Koldyke Martin Jesse,Dir,S - Sale,$43.30,-5000,40591,-11%,"-$216,500",,,,,TVTY
+576,,2003-10-27 19:51:45,2003-10-23,AMHC,Cigarran Thomas G,Dir,S - Sale,$41.00,-500000,349314,-59%,"-$20,500,000",,,,,TVTY
+577,,2003-10-22 19:22:33,2003-09-30,AMHC,Cigarran Thomas G,Dir,A - Grant,$41.94,4,1876,0%,+$175,,,,,TVTY
+578,,2003-10-22 19:18:39,2003-09-30,AMHC,Stone Robert E,EVP,A - Grant,$41.94,4,1887,0%,+$175,,,,,TVTY
+579,,2003-10-22 19:02:53,2003-09-30,AMHC,Chaput Mary A,"EVP, CFO",A - Grant,$41.94,4,109,+3%,+$150,,,,,TVTY
+580,,2003-10-22 18:50:30,2003-09-30,AMHC,Taylor Donald B,EVP,A - Grant,$41.94,4,76,+5%,+$150,,,,,TVTY
+581,,2003-10-22 18:40:14,2003-09-30,AMHC,Leedle Ben R Jr,CEO,A - Grant,$41.94,4,995,0%,+$182,,,,,TVTY
+582,,2003-10-16 12:37:24,2003-09-30,AMHC,Lumsdaine Alfred,"SVP, Corporate Controller",A - Grant,$41.94,3,581,+1%,+$128,,,,,TVTY
+583,,2003-10-16 12:37:24,2003-10-15,AMHC,Lumsdaine Alfred,"SVP, Corporate Controller",P - Purchase,$20.40,2250,581,-135%,"+$45,905",,,,,TVTY
+584,,2003-10-16 12:37:24,2003-10-15,AMHC,Lumsdaine Alfred,"SVP, Corporate Controller",S - Sale,$43.48,-2250,581,-79%,"-$97,830",,,,,TVTY
+585,,2003-10-14 14:42:02,2003-09-30,AMHC,Hunter Mary D,"EVP, COO - Hospital Group",A - Grant,$41.94,4,1771,0%,+$163,,,,,TVTY
+586,,2003-10-14 14:42:02,2003-10-13,AMHC,Hunter Mary D,"EVP, COO - Hospital Group",P - Purchase,$4.13,3250,1771,-220%,"+$13,423",,,,,TVTY
+587,,2003-10-14 14:42:02,2003-10-13,AMHC,Hunter Mary D,"EVP, COO - Hospital Group",S - Sale,$45.30,-3250,1771,-65%,"-$147,225",,,,,TVTY
+588,M,2003-09-24 17:01:06,2003-06-27,AMHC,Hunter Mary D,"EVP, COO - Hospital Group",A - Grant,$35.56,14,1767,+1%,+$489,,,,,TVTY
+589,M,2003-09-24 17:01:06,2003-09-23,AMHC,Hunter Mary D,"EVP, COO - Hospital Group",S - Sale,$43.73,-6750,1767,-79%,"-$295,205",,,,,TVTY
+590,M,2003-09-24 17:01:06,2003-09-23,AMHC,Hunter Mary D,"EVP, COO - Hospital Group",X - OptEx,$4.95,6750,1767,-79%,"$33,413",,,,,TVTY
+591,,2003-08-13 13:45:33,2003-08-13,AMHC,Herr Henry D,Dir,G - Gift,$32.69,-1300,578516,0%,"-$42,497",,,,,TVTY
+592,,2003-08-04 15:50:53,2003-07-31,AMHC,Ehmann Frank A,Dir,S - Sale,$35.21,-10000,2664,-79%,"-$352,120",,,,,TVTY
+593,,2003-07-31 21:44:53,2003-06-27,AMHC,Cigarran Thomas G,"COB, CEO",A - Grant,$36.52,5,851176,0%,+$175,,,,,TVTY
+594,M,2003-07-31 21:44:53,2003-07-29,AMHC,Cigarran Thomas G,"COB, CEO",P - Purchase,$4.05,90000,851176,+12%,"+$364,500",,,,,TVTY
+595,M,2003-07-31 21:44:53,2003-07-29,AMHC,Cigarran Thomas G,"COB, CEO",S - Sale,$34.49,-90000,851176,-10%,"-$3,103,957",,,,,TVTY
+596,M,2003-07-31 21:35:46,2003-07-29,AMHC,Herr Henry D,Dir,S - Sale,$34.56,-80000,289583,-22%,"-$2,764,400",,,,,TVTY

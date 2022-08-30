@@ -1,6 +1,980 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2021-01-05 14:28:07,2021-01-04,EGOV,Arasu Venmal (Raji),Dir,S - Sale,$25.72,-2000,26957,-7%,"-$51,449",,,,,EGOV
-1,,2020-09-02 13:33:04,2020-09-01,EGOV,Arasu Venmal (Raji),Dir,S - Sale,$21.53,-2000,28957,-6%,"-$43,051",,,,,EGOV
-2,,2020-06-22 15:09:22,2020-06-19,EGOV,Arasu Venmal (Raji),Dir,S - Sale,$23.02,-2000,30957,-6%,"-$46,032",,,,,EGOV
-3,,2019-08-30 10:34:07,2019-08-29,EGOV,Lyons William M,Dir,S - Sale,$20.96,-10000,61786,-14%,"-$209,585",,,,,EGOV
-4,,2019-06-11 16:18:53,2019-06-07,EGOV,Kovzan Stephen M,CFO,S - Sale,$16.04,-35000,230691,-13%,"-$561,400",,,,,EGOV
+0,M,2021-02-23 16:26:16,2021-02-21,EGOV,Thomas Elizabeth Amegan,Chief of Staff,F - Tax,$35.14,-1038,26624,-4%,"-$36,475",,,,,EGOV
+1,M,2021-02-23 16:21:11,2021-02-21,EGOV,Proudfit Elizabeth McCarrell,"SVP, Marketing, Comm",F - Tax,$34.93,-2798,54048,-5%,"-$97,737",,,,,EGOV
+2,,2021-02-23 16:16:02,2021-02-22,EGOV,Kovzan Stephen M,CFO,D - Sale to issuer,$0.00,-22516,264313,-8%,-$0,,,,,EGOV
+3,M,2021-02-23 16:16:02,2021-02-21,EGOV,Kovzan Stephen M,CFO,F - Tax,$34.87,-10249,264313,-4%,"-$357,335",,,,,EGOV
+4,,2021-02-23 16:02:34,2021-02-22,EGOV,Holland Jayne,Chief Security Officer,D - Sale to issuer,$0.00,-14586,188780,-7%,-$0,,,,,EGOV
+5,M,2021-02-23 16:02:34,2021-02-21,EGOV,Holland Jayne,Chief Security Officer,F - Tax,$34.88,-8060,188780,-4%,"-$281,136",,,,,EGOV
+6,,2021-02-23 15:34:39,2021-02-22,EGOV,Herington Harry,"Chair of Board, CEO",D - Sale to issuer,$0.00,-69277,1117815,-6%,-$0,,,,,EGOV
+7,M,2021-02-23 15:34:39,2021-02-21,EGOV,Herington Harry,"Chair of Board, CEO",F - Tax,$34.85,-30249,1117815,-3%,"-$1,054,288",,,,,EGOV
+8,,2021-02-01 15:25:08,2021-01-30,EGOV,Van Asselt William A.,GC,F - Tax,$26.92,-433,29981,-1%,"-$11,656",,,,,EGOV
+9,,2021-02-01 15:11:09,2021-01-30,EGOV,Thomas Elizabeth Amegan,Chief of Staff,F - Tax,$26.92,-387,27662,-1%,"-$10,418",,,,,EGOV
+10,M,2021-01-29 15:47:12,2021-01-28,EGOV,Van Asselt William A.,GC,F - Tax,$27.78,-2264,30414,-7%,"-$62,892",,,,,EGOV
+11,,2021-01-29 15:43:36,2021-01-28,EGOV,Thomas Elizabeth Amegan,Chief of Staff,F - Tax,$27.62,-597,28049,-2%,"-$16,489",,,,,EGOV
+12,M,2021-01-29 15:39:23,2021-01-28,EGOV,Rogers Douglas,"SVP, Business Development",F - Tax,$27.83,-1113,18391,-6%,"-$30,971",,,,,EGOV
+13,,2021-01-29 15:05:01,2021-01-27,EGOV,Anderson Brian Gerald,CTO,F - Tax,$28.20,-615,30108,-2%,"-$17,343",,,,,EGOV
+14,,2021-01-22 15:39:25,2021-01-20,EGOV,Thomas Elizabeth Amegan,Chief of Staff,A - Grant,$0.00,3383,28646,+13%,+$0,,,,,EGOV
+15,,2021-01-22 15:35:39,2021-01-20,EGOV,Proudfit Elizabeth McCarrell,"SVP, Marketing, Comm",A - Grant,$0.00,3464,56846,+6%,+$0,,,,,EGOV
+16,,2021-01-22 15:28:18,2021-01-20,EGOV,Rogers Douglas,"SVP, Business Development",A - Grant,$0.00,3464,19504,+22%,+$0,,,,,EGOV
+17,,2021-01-22 15:23:46,2021-01-20,EGOV,Van Asselt William A.,GC,A - Grant,$0.00,3814,32678,+13%,+$0,,,,,EGOV
+18,,2021-01-22 15:20:24,2021-01-20,EGOV,Anderson Brian Gerald,CTO,A - Grant,$0.00,20612,30723,+204%,+$0,,,,,EGOV
+19,,2021-01-22 15:16:00,2021-01-20,EGOV,Holland Jayne,Chief Security Officer,A - Grant,$0.00,30751,211168,+17%,+$0,,,,,EGOV
+20,,2021-01-22 15:07:21,2021-01-20,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,39303,296677,+15%,+$0,,,,,EGOV
+21,,2021-01-22 15:02:04,2021-01-20,EGOV,Herington Harry,"Chair of Board, CEO",A - Grant,$0.00,87893,1216095,+8%,+$0,,,,,EGOV
+22,,2021-01-05 14:28:07,2021-01-04,EGOV,Arasu Venmal (Raji),Dir,S - Sale,$25.72,-2000,26957,-7%,"-$51,449",,,,,EGOV
+23,,2020-10-19 12:45:35,2020-10-15,EGOV,Rogers Douglas,"SVP, Business Development",A - Grant,$0.00,2341,16040,+17%,+$0,,,,,EGOV
+24,,2020-10-19 12:35:28,2020-10-15,EGOV,Proudfit Elizabeth McCarrell,"SVP, Marketing, Comm",A - Grant,$0.00,1405,53382,+3%,+$0,,,,,EGOV
+25,,2020-10-13 11:44:10,2020-10-11,EGOV,Rogers Douglas,"SVP, Business Development",F - Tax,$21.15,-218,13699,-2%,"-$4,611",,,,,EGOV
+26,,2020-09-02 13:33:04,2020-09-01,EGOV,Arasu Venmal (Raji),Dir,S - Sale,$21.53,-2000,28957,-6%,"-$43,051",,,,,EGOV
+27,,2020-08-31 14:32:05,2020-08-27,EGOV,James Sylvester Jr.,Dir,A - Grant,$0.00,1151,1151,New,+$0,,,,,EGOV
+28,,2020-06-22 15:09:22,2020-06-19,EGOV,Arasu Venmal (Raji),Dir,S - Sale,$23.02,-2000,30957,-6%,"-$46,032",,,,,EGOV
+29,,2020-04-30 12:16:23,2020-04-29,EGOV,Anderson Brian Gerald,CTO,F - Tax,$24.90,-644,10111,-6%,"-$16,036",,,,,EGOV
+30,,2020-04-28 16:22:22,2020-04-27,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,4182,92647,+5%,+$0,,,,,EGOV
+31,,2020-04-28 16:19:34,2020-04-27,EGOV,Vijayan Jayaprakash,Dir,A - Grant,$0.00,4182,11699,+56%,+$0,,,,,EGOV
+32,,2020-04-28 16:16:19,2020-04-27,EGOV,Scott Anthony,Dir,A - Grant,$0.00,4182,11699,+56%,+$0,,,,,EGOV
+33,,2020-04-28 16:12:52,2020-04-27,EGOV,Lyons William M,Dir,A - Grant,$0.00,4182,65968,+7%,+$0,,,,,EGOV
+34,,2020-04-28 16:07:07,2020-04-27,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,4182,63472,+7%,+$0,,,,,EGOV
+35,,2020-04-28 16:03:27,2020-04-27,EGOV,Henry Charles Bradford,Dir,A - Grant,$0.00,4182,47029,+10%,+$0,,,,,EGOV
+36,,2020-04-28 15:58:43,2020-04-27,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,4182,242684,+2%,+$0,,,,,EGOV
+37,,2020-04-28 15:45:54,2020-04-27,EGOV,Arasu Venmal (Raji),Dir,A - Grant,$0.00,4182,32957,+15%,+$0,,,,,EGOV
+38,,2020-02-24 17:08:00,2020-02-22,EGOV,Van Asselt William A.,GC,F - Tax,$20.33,-435,28864,-1%,"-$8,844",,,,,EGOV
+39,,2020-02-24 17:04:30,2020-02-22,EGOV,Kovzan Stephen M,CFO,D - Sale to issuer,$0.00,-18466,257374,-7%,-$0,,,,,EGOV
+40,M,2020-02-24 17:04:30,2020-02-21,EGOV,Kovzan Stephen M,CFO,F - Tax,$20.33,-6302,257374,-2%,"-$128,120",,,,,EGOV
+41,,2020-02-24 17:01:34,2020-02-22,EGOV,Holland Jayne,Chief Security Officer,D - Sale to issuer,$0.00,-11956,179520,-6%,-$0,,,,,EGOV
+42,M,2020-02-24 17:01:34,2020-02-21,EGOV,Holland Jayne,Chief Security Officer,F - Tax,$20.33,-5215,179520,-3%,"-$106,021",,,,,EGOV
+43,,2020-02-24 16:58:15,2020-02-22,EGOV,Herington Harry,"Chair of Board, CEO",D - Sale to issuer,$0.00,-56819,1126176,-5%,-$0,,,,,EGOV
+44,M,2020-02-24 16:58:15,2020-02-21,EGOV,Herington Harry,"Chair of Board, CEO",F - Tax,$20.33,-19385,1126176,-2%,"-$394,097",,,,,EGOV
+45,,2020-02-21 16:44:56,2020-02-20,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,51451,282142,+22%,+$0,,,,,EGOV
+46,,2020-02-21 16:33:08,2020-02-20,EGOV,Holland Jayne,Chief Security Officer,A - Grant,$0.00,40341,196691,+26%,+$0,,,,,EGOV
+47,,2020-02-21 16:26:40,2020-02-20,EGOV,Herington Harry,"Chair of Board, CEO",A - Grant,$0.00,127327,1202380,+12%,+$0,,,,,EGOV
+48,,2020-01-31 17:48:59,2020-01-27,EGOV,Van Asselt William A.,GC,A - Grant,$0.00,4902,29299,+20%,+$0,,,,,EGOV
+49,,2020-01-31 17:48:59,2020-01-30,EGOV,Van Asselt William A.,GC,F - Tax,$20.40,-477,29299,-2%,"-$9,728",,,,,EGOV
+50,,2020-01-31 17:36:12,2020-01-27,EGOV,Rogers Douglas,"SVP, Business Development",A - Grant,$0.00,4446,13917,+47%,+$0,,,,,EGOV
+51,,2020-01-31 17:32:22,2020-01-27,EGOV,Anderson Brian Gerald,CTO,A - Grant,$0.00,4948,10755,+85%,+$0,,,,,EGOV
+52,,2020-01-30 15:43:32,2020-01-28,EGOV,Rogers Douglas,"SVP, Business Development",F - Tax,$22.61,-716,9471,-7%,"-$16,189",,,,,EGOV
+53,,2020-01-30 15:35:32,2020-01-28,EGOV,Van Asselt William A.,GC,F - Tax,$22.61,-1665,24874,-6%,"-$37,646",,,,,EGOV
+54,,2020-01-22 11:22:13,2020-01-20,EGOV,Van Asselt William A.,GC,F - Tax,$22.57,-507,26539,-2%,"-$11,443",,,,,EGOV
+55,,2020-01-22 11:15:52,2020-01-20,EGOV,Holland Jayne,Chief Security Officer,F - Tax,$22.57,-645,153297,0%,"-$14,558",,,,,EGOV
+56,,2019-10-15 10:06:34,2019-10-11,EGOV,Rogers Douglas,"SVP, Business Development",F - Tax,$20.55,-218,10187,-2%,"-$4,480",,,,,EGOV
+57,,2019-08-30 10:34:07,2019-08-29,EGOV,Lyons William M,Dir,S - Sale,$20.96,-10000,61786,-14%,"-$209,585",,,,,EGOV
+58,,2019-07-18 15:58:57,2019-07-17,EGOV,Holland Jayne,Chief Security Officer,F - Tax,$17.04,-622,153942,0%,"-$10,599",,,,,EGOV
+59,,2019-06-11 16:18:53,2019-06-07,EGOV,Kovzan Stephen M,CFO,S - Sale,$16.04,-35000,230691,-13%,"-$561,400",,,,,EGOV
+60,,2019-05-08 17:44:16,2019-05-07,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,5945,88465,+7%,+$0,,,,,EGOV
+61,,2019-05-08 17:40:18,2019-05-07,EGOV,Henry Charles Bradford,Dir,A - Grant,$0.00,5945,42847,+16%,+$0,,,,,EGOV
+62,,2019-05-08 17:29:19,2019-05-07,EGOV,Vijayan Jayaprakash,Dir,A - Grant,$0.00,5945,7517,+378%,+$0,,,,,EGOV
+63,,2019-05-08 17:24:36,2019-05-07,EGOV,Scott Anthony,Dir,A - Grant,$0.00,5945,7517,+378%,+$0,,,,,EGOV
+64,,2019-05-08 17:20:20,2019-05-07,EGOV,Lyons William M,Dir,A - Grant,$0.00,5945,71786,+9%,+$0,,,,,EGOV
+65,,2019-05-08 17:15:23,2019-05-07,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,5945,59290,+11%,+$0,,,,,EGOV
+66,,2019-05-08 17:10:50,2019-05-07,EGOV,Arasu Venmal (Raji),Dir,A - Grant,$0.00,5945,28775,+26%,+$0,,,,,EGOV
+67,,2019-05-08 17:06:54,2019-05-07,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,5945,238502,+3%,+$0,,,,,EGOV
+68,,2019-02-25 19:05:58,2019-02-21,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,37638,288260,+15%,+$0,,,,,EGOV
+69,,2019-02-25 19:00:47,2019-02-21,EGOV,Herington Harry,"Chair of Board, CEO",A - Grant,$0.00,115807,1143221,+11%,+$0,,,,,EGOV
+70,,2019-02-25 18:56:29,2019-02-21,EGOV,Holland Jayne,"Chief Security Officer, AGC",A - Grant,$0.00,28910,169045,+21%,+$0,,,,,EGOV
+71,,2019-01-31 16:38:46,2019-01-30,EGOV,Van Asselt William A.,GC,F - Tax,$14.16,-342,27863,-1%,"-$4,843",,,,,EGOV
+72,,2019-01-30 17:18:11,2019-01-28,EGOV,Van Asselt William A.,GC,A - Grant,$0.00,7226,28205,+34%,+$0,,,,,EGOV
+73,,2019-01-30 17:18:11,2019-01-28,EGOV,Van Asselt William A.,GC,F - Tax,$14.13,-520,28205,-2%,"-$7,348",,,,,EGOV
+74,,2019-01-30 17:09:57,2019-01-28,EGOV,Rogers Douglas,"SVP, Business Development",A - Grant,$0.00,6761,10405,+186%,+$0,,,,,EGOV
+75,,2019-01-30 17:09:57,2019-01-28,EGOV,Rogers Douglas,"SVP, Business Development",F - Tax,$14.13,-158,10405,-1%,"-$2,233",,,,,EGOV
+76,,2019-01-23 18:30:49,2019-01-20,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$13.81,-638,140135,0%,"-$8,811",,,,,EGOV
+77,,2019-01-23 18:23:19,2019-01-20,EGOV,Van Asselt William A.,GC,F - Tax,$13.81,-352,21499,-2%,"-$4,861",,,,,EGOV
+78,,2019-01-17 15:15:24,2019-01-15,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$13.65,-598,140773,0%,"-$8,163",,,,,EGOV
+79,,2018-10-12 14:38:51,2018-10-11,EGOV,Rogers Douglas,"SVP, Business Development",F - Tax,$14.07,-322,3802,-8%,"-$4,531",,,,,EGOV
+80,,2018-07-18 16:36:02,2018-07-17,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$15.95,-614,141371,0%,"-$9,793",,,,,EGOV
+81,,2018-06-08 16:52:34,2018-06-06,EGOV,Hartley Ross C,Dir,D - Sale to issuer,$0.00,-6430,1026099,-1%,-$0,,,,,EGOV
+82,,2018-06-08 16:40:27,2018-06-06,EGOV,Scott Anthony,Dir,A - Grant,$0.00,1572,1572,New,+$0,,,,,EGOV
+83,,2018-06-08 16:15:05,2018-06-06,EGOV,Vijayan Jayaprakash,Dir,A - Grant,$0.00,1572,1572,New,+$0,,,,,EGOV
+84,,2018-05-07 14:56:22,2018-05-06,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$15.45,-303,141985,0%,"-$4,681",,,,,EGOV
+85,,2018-05-03 12:04:57,2018-05-01,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,6430,82520,+8%,+$0,,,,,EGOV
+86,,2018-05-03 12:00:34,2018-05-01,EGOV,Lyons William M,Dir,A - Grant,$0.00,6430,65841,+11%,+$0,,,,,EGOV
+87,,2018-05-03 11:55:49,2018-05-01,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,6430,53345,+14%,+$0,,,,,EGOV
+88,,2018-05-03 11:51:18,2018-05-01,EGOV,Henry Charles Bradford,Dir,A - Grant,$0.00,6430,36902,+21%,+$0,,,,,EGOV
+89,,2018-05-03 11:47:00,2018-05-01,EGOV,Hartley Ross C,Dir,A - Grant,$0.00,6430,1032529,+1%,+$0,,,,,EGOV
+90,,2018-05-03 11:40:57,2018-05-01,EGOV,Evans Karen S.,Dir,A - Grant,$0.00,6430,36902,+21%,+$0,,,,,EGOV
+91,,2018-05-03 11:36:59,2018-05-01,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,6430,232557,+3%,+$0,,,,,EGOV
+92,,2018-05-03 11:30:32,2018-05-01,EGOV,Arasu Venmal (Raji),Dir,A - Grant,$0.00,6430,22830,+39%,+$0,,,,,EGOV
+93,M,2018-02-26 18:22:10,2018-02-22,EGOV,Van Asselt William A.,GC,F - Tax,$13.73,-961,21851,-4%,"-$13,193",,,,,EGOV
+94,,2018-02-26 18:15:01,2018-02-22,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,47445,250622,+23%,+$0,,,,,EGOV
+95,,2018-02-26 18:15:01,2018-02-23,EGOV,Kovzan Stephen M,CFO,D - Sale to issuer,$0.00,-17885,250622,-7%,-$0,,,,,EGOV
+96,M,2018-02-26 18:15:01,2018-02-22,EGOV,Kovzan Stephen M,CFO,F - Tax,$13.72,-4946,250622,-2%,"-$67,871",,,,,EGOV
+97,,2018-02-26 17:55:37,2018-02-22,EGOV,Knapp Robert W,COO,A - Grant,$0.00,60172,234143,+35%,+$0,,,,,EGOV
+98,,2018-02-26 17:55:37,2018-02-23,EGOV,Knapp Robert W,COO,D - Sale to issuer,$0.00,-17885,234143,-7%,-$0,,,,,EGOV
+99,M,2018-02-26 17:55:37,2018-02-22,EGOV,Knapp Robert W,COO,F - Tax,$13.72,-5675,234143,-2%,"-$77,858",,,,,EGOV
+100,,2018-02-26 17:37:08,2018-02-22,EGOV,Holland Jayne,"Chief Security Officer, AGC",A - Grant,$0.00,36443,142288,+34%,+$0,,,,,EGOV
+101,M,2018-02-26 17:37:08,2018-02-22,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$13.71,-2161,142288,-1%,"-$29,625",,,,,EGOV
+102,,2018-02-26 17:25:06,2018-02-22,EGOV,Herington Harry,"COB, CEO",A - Grant,$0.00,145985,1026177,+17%,+$0,,,,,EGOV
+103,,2018-02-26 17:25:06,2018-02-23,EGOV,Herington Harry,"COB, CEO",D - Sale to issuer,$0.00,-56050,1026177,-5%,-$0,,,,,EGOV
+104,M,2018-02-26 17:25:06,2018-02-22,EGOV,Herington Harry,"COB, CEO",F - Tax,$13.72,-15341,1026177,-1%,"-$210,519",,,,,EGOV
+105,,2018-01-31 17:14:23,2018-01-30,EGOV,Van Asselt William A.,GC,F - Tax,$16.85,-342,22812,-1%,"-$5,763",,,,,EGOV
+106,,2018-01-30 17:12:20,2018-01-28,EGOV,Van Asselt William A.,GC,A - Grant,$0.00,5918,23154,+34%,+$0,,,,,EGOV
+107,,2018-01-30 17:07:29,2018-01-28,EGOV,Rogers Douglas,SVP of Business Development,A - Grant,$0.00,1259,4124,+44%,+$0,,,,,EGOV
+108,,2018-01-22 17:48:53,2018-01-20,EGOV,Van Asselt William A.,GC,F - Tax,$17.00,-412,17236,-2%,"-$7,004",,,,,EGOV
+109,,2018-01-22 17:43:22,2018-01-20,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$17.00,-638,108006,-1%,"-$10,846",,,,,EGOV
+110,,2018-01-16 17:22:46,2018-01-15,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$17.45,-599,108644,-1%,"-$10,453",,,,,EGOV
+111,,2017-10-13 15:58:53,2017-10-11,EGOV,Rogers Douglas,SVP of Business Development,A - Grant,$0.00,2865,2865,New,+$0,,,,,EGOV
+112,,2017-07-18 18:02:18,2017-07-17,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$19.20,-650,109243,-1%,"-$12,480",,,,,EGOV
+113,,2017-05-23 17:03:18,2017-05-22,EGOV,Knapp Robert W,COO,S - Sale,$20.38,-25000,197531,-11%,"-$509,588",,,,,EGOV
+114,,2017-05-08 17:50:33,2017-05-06,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$21.45,-319,109893,0%,"-$6,843",-1.0,-1.0,,,EGOV
+115,,2017-05-03 18:30:51,2017-05-02,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,4683,76090,+7%,+$0,1.0,0.0,,,EGOV
+116,,2017-05-03 18:26:28,2017-05-02,EGOV,Lyons William M,Dir,A - Grant,$0.00,4683,59411,+9%,+$0,1.0,0.0,,,EGOV
+117,,2017-05-03 18:21:11,2017-05-02,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,4683,36915,+15%,+$0,1.0,0.0,,,EGOV
+118,,2017-05-03 18:12:27,2017-05-02,EGOV,Henry Charles Bradford,Dir,A - Grant,$0.00,4683,30472,+18%,+$0,1.0,0.0,,,EGOV
+119,,2017-05-03 18:06:20,2017-05-02,EGOV,Hartley Ross C,Dir,A - Grant,$0.00,4683,1085947,0%,+$0,1.0,0.0,,,EGOV
+120,,2017-05-03 17:50:40,2017-05-02,EGOV,Evans Karen S.,Dir,A - Grant,$0.00,4683,30472,+18%,+$0,1.0,0.0,,,EGOV
+121,,2017-05-03 17:45:10,2017-05-02,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,4683,226127,+2%,+$0,1.0,0.0,,,EGOV
+122,,2017-05-03 17:39:11,2017-05-02,EGOV,Arasu Venmal (Raji),Dir,A - Grant,$0.00,4683,16400,+40%,+$0,1.0,0.0,,,EGOV
+123,,2017-03-23 16:37:56,2017-03-22,EGOV,Kemper Alexander C,Dir,S - Sale,$20.85,-7000,42232,-14%,"-$145,950",0.0,-2.0,2.0,,EGOV
+124,M,2017-02-27 19:19:21,2017-02-24,EGOV,Van Asselt William A.,GC,F - Tax,$21.90,-221,17648,-1%,"-$4,840",-2.0,-2.0,-5.0,,EGOV
+125,M,2017-02-27 19:12:42,2017-02-24,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$21.90,-846,110212,-1%,"-$18,527",-2.0,-2.0,-5.0,,EGOV
+126,,2017-02-27 19:05:56,2017-02-24,EGOV,Knapp Robert W,COO,D - Sale to issuer,$0.00,-4189,222531,-2%,-$0,-2.0,-2.0,-5.0,,EGOV
+127,,2017-02-27 19:05:56,2017-02-24,EGOV,Knapp Robert W,COO,F - Tax,$21.90,-6924,222531,-3%,"-$151,636",-2.0,-2.0,-5.0,,EGOV
+128,,2017-02-27 18:56:36,2017-02-24,EGOV,Kovzan Stephen M,CFO,D - Sale to issuer,$0.00,-4189,226008,-2%,-$0,-2.0,-2.0,-5.0,,EGOV
+129,,2017-02-27 18:56:36,2017-02-24,EGOV,Kovzan Stephen M,CFO,F - Tax,$21.90,-6924,226008,-3%,"-$151,636",-2.0,-2.0,-5.0,,EGOV
+130,,2017-02-27 18:48:34,2017-02-24,EGOV,Herington Harry,"COB, CEO",D - Sale to issuer,$0.00,-13125,951583,-1%,-$0,-2.0,-2.0,-5.0,,EGOV
+131,,2017-02-27 18:48:34,2017-02-24,EGOV,Herington Harry,"COB, CEO",F - Tax,$21.90,-21701,951583,-2%,"-$475,252",-2.0,-2.0,-5.0,,EGOV
+132,M,2017-02-24 13:16:11,2017-02-22,EGOV,Van Asselt William A.,GC,F - Tax,$22.00,-586,17869,-3%,"-$12,892",0.0,-4.0,-7.0,,EGOV
+133,,2017-02-24 13:10:44,2017-02-22,EGOV,Holland Jayne,"Chief Security Officer, AGC",A - Grant,$0.00,19115,111058,+21%,+$0,0.0,-4.0,-7.0,,EGOV
+134,,2017-02-24 13:10:44,2017-02-22,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$22.00,-1038,111058,-1%,"-$22,836",0.0,-4.0,-7.0,,EGOV
+135,,2017-02-24 13:02:09,2017-02-22,EGOV,Knapp Robert W,COO,A - Grant,$0.00,37471,232682,+19%,+$0,0.0,-4.0,-7.0,,EGOV
+136,M,2017-02-24 13:02:09,2017-02-22,EGOV,Knapp Robert W,COO,F - Tax,$22.00,-3281,232682,-1%,"-$72,182",0.0,-4.0,-7.0,,EGOV
+137,,2017-02-24 12:47:12,2017-02-22,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,29545,236159,+14%,+$0,0.0,-4.0,-7.0,,EGOV
+138,M,2017-02-24 12:47:12,2017-02-22,EGOV,Kovzan Stephen M,CFO,F - Tax,$22.00,-2853,236159,-1%,"-$62,766",0.0,-4.0,-7.0,,EGOV
+139,,2017-02-24 12:36:24,2017-02-22,EGOV,Herington Harry,"COB, CEO",A - Grant,$0.00,90909,983388,+10%,+$0,0.0,-4.0,-7.0,,EGOV
+140,M,2017-02-24 12:36:24,2017-02-22,EGOV,Herington Harry,"COB, CEO",F - Tax,$22.00,-8849,983388,-1%,"-$194,678",0.0,-4.0,-7.0,,EGOV
+141,,2017-02-06 16:41:53,2017-02-05,EGOV,Kovzan Stephen M,CFO,F - Tax,$22.10,-1463,209467,-1%,"-$32,332",-1.0,-1.0,-3.0,,EGOV
+142,,2017-02-06 16:35:00,2017-02-05,EGOV,Knapp Robert W,COO,F - Tax,$22.10,-1463,198492,-1%,"-$32,332",-1.0,-1.0,-3.0,,EGOV
+143,,2017-02-06 16:25:31,2017-02-05,EGOV,Herington Harry,"COB, CEO",F - Tax,$22.10,-4339,901328,0%,"-$95,892",-1.0,-1.0,-3.0,,EGOV
+144,,2017-01-31 11:35:44,2017-01-30,EGOV,Van Asselt William A.,GC,A - Grant,$0.00,3888,18455,+27%,+$0,-3.0,-12.0,-13.0,,EGOV
+145,,2017-01-24 12:37:03,2017-01-20,EGOV,Van Asselt William A.,GC,F - Tax,$25.30,-397,14567,-3%,"-$10,044",-1.0,-3.0,-13.0,,EGOV
+146,,2017-01-24 12:28:22,2017-01-20,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$25.30,-672,92981,-1%,"-$17,002",-1.0,-3.0,-13.0,,EGOV
+147,,2017-01-17 11:22:31,2017-01-15,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$25.10,-630,93653,-1%,"-$15,813",0.0,1.0,-14.0,,EGOV
+148,M,2017-01-09 19:22:46,2017-01-06,EGOV,Hartley Ross C,Dir,S - Sale,$24.21,-69800,1081264,-6%,"-$1,689,546",2.0,4.0,-11.0,,EGOV
+149,,2017-01-09 15:04:38,2017-01-05,EGOV,Hartley Ross C,Dir,S - Sale,$24.41,-85174,1151064,-7%,"-$2,078,896",0.0,4.0,-11.0,,EGOV
+150,M,2017-01-05 14:38:47,2017-01-03,EGOV,Hartley Ross C,Dir,S - Sale,$24.13,-95026,1236238,-7%,"-$2,292,958",1.0,2.0,-9.0,,EGOV
+151,,2016-12-15 15:29:58,2016-12-13,EGOV,Hartley Ross C,Dir,S - Sale,$25.10,-9542,1331264,-1%,"-$239,519",1.0,-2.0,0.0,,EGOV
+152,M,2016-12-13 12:32:30,2016-12-09,EGOV,Hartley Ross C,Dir,S - Sale,$25.19,-240458,1340806,-15%,"-$6,056,047",0.0,0.0,-1.0,,EGOV
+153,,2016-08-15 10:32:00,2016-08-11,EGOV,Holland Jayne,"Chief Security Officer, AGC",S - Sale,$23.35,-2000,94283,-2%,"-$46,700",1.0,-3.0,-2.0,-4.0,EGOV
+154,,2016-07-19 15:03:38,2016-07-17,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$22.67,-446,96283,0%,"-$10,111",0.0,2.0,0.0,13.0,EGOV
+155,,2016-05-09 17:00:32,2016-05-06,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$18.69,-219,96729,0%,"-$4,093",1.0,0.0,10.0,17.0,EGOV
+156,,2016-05-05 17:16:49,2016-05-03,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,4675,71407,+7%,+$0,0.0,1.0,10.0,20.0,EGOV
+157,,2016-05-05 17:11:17,2016-05-03,EGOV,Lyons William M,Dir,A - Grant,$0.00,4675,54728,+9%,+$0,0.0,1.0,10.0,20.0,EGOV
+158,,2016-05-05 17:03:08,2016-05-03,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,4675,49232,+10%,+$0,0.0,1.0,10.0,20.0,EGOV
+159,,2016-05-05 16:45:00,2016-05-03,EGOV,Henry Charles Bradford,Dir,A - Grant,$0.00,4675,25789,+22%,+$0,0.0,1.0,10.0,20.0,EGOV
+160,,2016-05-05 16:37:21,2016-05-03,EGOV,Hartley Ross C,Dir,A - Grant,$0.00,4675,1581264,0%,+$0,0.0,1.0,10.0,20.0,EGOV
+161,,2016-05-05 16:29:17,2016-05-03,EGOV,Evans Karen S.,Dir,A - Grant,$0.00,4675,25789,+22%,+$0,0.0,1.0,10.0,20.0,EGOV
+162,,2016-05-05 16:23:15,2016-05-03,EGOV,Arasu Venmal (Raji),Dir,A - Grant,$0.00,4675,11717,+66%,+$0,0.0,1.0,10.0,20.0,EGOV
+163,,2016-05-05 16:16:22,2016-05-03,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,4675,221444,+2%,+$0,0.0,1.0,10.0,20.0,EGOV
+164,A,2016-03-03 16:05:30,2016-02-22,EGOV,Van Asselt William A.,GC,A - Grant,$0.00,3830,15547,+33%,+$0,0.0,-1.0,1.0,29.0,EGOV
+165,A,2016-03-03 16:05:30,2016-02-21,EGOV,Van Asselt William A.,GC,F - Tax,$17.87,-114,15547,-1%,"-$2,037",0.0,-1.0,1.0,29.0,EGOV
+166,,2016-02-26 13:13:04,2016-02-25,EGOV,Van Asselt William A.,GC,F - Tax,$17.87,-126,11134,-1%,"-$2,252",-1.0,0.0,-3.0,29.0,EGOV
+167,,2016-02-26 13:08:52,2016-02-25,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$17.87,-285,96075,0%,"-$5,093",-1.0,0.0,-3.0,29.0,EGOV
+168,,2016-02-25 15:29:12,2016-02-24,EGOV,Thornburgh Ron,SVP of Business Development,F - Tax,$17.84,-358,29500,-1%,"-$6,387",0.0,0.0,-3.0,29.0,EGOV
+169,,2016-02-25 15:25:13,2016-02-24,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$17.84,-281,96360,0%,"-$5,013",0.0,0.0,-3.0,29.0,EGOV
+170,,2016-02-25 15:20:48,2016-02-24,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$17.84,-289,39157,-1%,"-$5,156",0.0,0.0,-3.0,29.0,EGOV
+171,M,2016-02-25 15:16:28,2016-02-23,EGOV,Van Asselt William A.,GC,F - Tax,$17.51,-457,11260,-4%,"-$8,002",0.0,0.0,-3.0,29.0,EGOV
+172,M,2016-02-25 15:11:16,2016-02-23,EGOV,Knapp Robert W,COO,F - Tax,$17.60,-1613,199748,-1%,"-$28,382",0.0,0.0,-3.0,29.0,EGOV
+173,M,2016-02-25 15:03:27,2016-02-23,EGOV,Kovzan Stephen M,CFO,F - Tax,$17.60,-1613,210930,-1%,"-$28,382",0.0,0.0,-3.0,29.0,EGOV
+174,M,2016-02-25 14:58:17,2016-02-23,EGOV,Herington Harry,"COB, CEO",F - Tax,$17.60,-7364,932452,-1%,"-$129,573",0.0,0.0,-3.0,29.0,EGOV
+175,,2016-02-23 16:42:02,2016-02-22,EGOV,Knapp Robert W,COO,A - Grant,$0.00,46785,201361,+30%,+$0,3.0,1.0,0.0,29.0,EGOV
+176,,2016-02-23 16:33:52,2016-02-22,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,36890,212543,+21%,+$0,3.0,1.0,0.0,29.0,EGOV
+177,,2016-02-23 16:27:43,2016-02-22,EGOV,Herington Harry,"COB, CEO",A - Grant,$0.00,113508,939816,+14%,+$0,3.0,1.0,0.0,29.0,EGOV
+178,,2016-02-23 16:19:54,2016-02-22,EGOV,Holland Jayne,"Chief Security Officer, AGC",A - Grant,$0.00,23866,96641,+33%,+$0,3.0,1.0,0.0,29.0,EGOV
+179,,2016-02-23 16:19:54,2016-02-21,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$17.87,-384,96641,0%,"-$6,862",3.0,1.0,0.0,29.0,EGOV
+180,,2016-02-23 16:10:42,2016-02-21,EGOV,Thornburgh Ron,SVP of Business Development,F - Tax,$17.87,-519,29858,-2%,"-$9,275",3.0,1.0,0.0,29.0,EGOV
+181,,2016-02-23 16:06:03,2016-02-21,EGOV,Van Asselt William A.,GC,F - Tax,$17.87,-114,11717,-1%,"-$2,037",3.0,1.0,0.0,29.0,EGOV
+182,,2016-02-09 17:34:23,2016-02-09,EGOV,Lyons William M,Dir,P - Purchase,$16.65,2000,50053,+4%,"+$33,300",3.0,6.0,7.0,40.0,EGOV
+183,,2016-02-09 16:07:15,2016-02-05,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$17.44,-402,39446,-1%,"-$7,011",3.0,6.0,7.0,40.0,EGOV
+184,,2016-02-09 16:02:13,2016-02-05,EGOV,Thornburgh Ron,SVP of Business Development,F - Tax,$17.44,-489,30377,-2%,"-$8,528",3.0,6.0,7.0,40.0,EGOV
+185,,2016-02-09 15:57:15,2016-02-05,EGOV,Knapp Robert W,COO,D - Sale to issuer,$0.00,-3072,154576,-2%,-$0,-1.0,5.0,6.0,39.0,EGOV
+186,,2016-02-09 15:57:15,2016-02-05,EGOV,Knapp Robert W,COO,F - Tax,$17.44,-6283,154576,-4%,"-$109,576",-1.0,5.0,6.0,39.0,EGOV
+187,,2016-02-09 15:47:11,2016-02-05,EGOV,Kovzan Stephen M,CFO,D - Sale to issuer,$0.00,-3072,175653,-2%,-$0,-1.0,5.0,6.0,39.0,EGOV
+188,,2016-02-09 15:47:11,2016-02-05,EGOV,Kovzan Stephen M,CFO,F - Tax,$17.44,-6284,175653,-3%,"-$109,593",-1.0,5.0,6.0,39.0,EGOV
+189,,2016-02-09 15:38:26,2016-02-05,EGOV,Bradley William F Jr,"Former EVP,CAO,GC, Secy",D - Sale to issuer,$0.00,-3072,681128,0%,-$0,-1.0,5.0,6.0,39.0,EGOV
+190,,2016-02-09 15:38:26,2016-02-05,EGOV,Bradley William F Jr,"Former EVP,CAO,GC, Secy",F - Tax,$17.44,-5668,681128,-1%,"-$98,850",-1.0,5.0,6.0,39.0,EGOV
+191,,2016-02-09 15:26:41,2016-02-05,EGOV,Herington Harry,"COB, CEO",D - Sale to issuer,$0.00,-9748,826308,-1%,-$0,-1.0,5.0,6.0,39.0,EGOV
+192,,2016-02-09 15:26:41,2016-02-05,EGOV,Herington Harry,"COB, CEO",F - Tax,$17.44,-21980,826308,-3%,"-$383,331",-1.0,5.0,6.0,39.0,EGOV
+193,,2016-02-02 17:58:38,2016-01-30,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$19.79,-528,39848,-1%,"-$10,449",1.0,-11.0,-6.0,24.0,EGOV
+194,,2016-02-02 17:54:00,2016-01-30,EGOV,Knapp Robert W,COO,F - Tax,$19.79,-1343,162792,-1%,"-$26,578",1.0,-11.0,-6.0,24.0,EGOV
+195,,2016-02-02 17:48:52,2016-01-30,EGOV,Kovzan Stephen M,CFO,F - Tax,$19.79,-1343,183870,-1%,"-$26,578",1.0,-11.0,-6.0,24.0,EGOV
+196,,2016-02-02 17:42:11,2016-01-30,EGOV,Herington Harry,"COB, CEO",F - Tax,$19.79,-2306,854463,0%,"-$45,636",1.0,-11.0,-6.0,24.0,EGOV
+197,,2016-01-22 13:51:29,2016-01-20,EGOV,Van Asselt William A.,GC,A - Grant,$0.00,3997,11831,+51%,+$0,3.0,1.0,-7.0,22.0,EGOV
+198,,2016-01-22 10:20:13,2016-01-20,EGOV,Daughtery Aimi,Chief Accounting Officer,A - Grant,$0.00,4235,40376,+12%,+$0,3.0,1.0,-7.0,22.0,EGOV
+199,,2016-01-22 10:14:10,2016-01-20,EGOV,Holland Jayne,"Chief Security Officer, AGC",A - Grant,$0.00,5192,73159,+8%,+$0,3.0,1.0,-7.0,22.0,EGOV
+200,,2016-01-22 10:06:13,2016-01-20,EGOV,Thornburgh Ron,SVP of Business Development,A - Grant,$0.00,5149,30866,+20%,+$0,3.0,1.0,-7.0,22.0,EGOV
+201,,2016-01-19 16:38:40,2016-01-15,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$18.74,-455,36141,-1%,"-$8,527",0.0,1.0,-6.0,21.0,EGOV
+202,,2016-01-19 16:34:56,2016-01-15,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$18.74,-454,67967,-1%,"-$8,508",0.0,1.0,-6.0,21.0,EGOV
+203,,2016-01-19 16:29:50,2016-01-15,EGOV,Thornburgh Ron,SVP of Business Development,F - Tax,$18.74,-554,25717,-2%,"-$10,382",0.0,1.0,-6.0,21.0,EGOV
+204,A,2016-01-06 18:49:56,2015-12-31,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",D - Sale to issuer,$0.00,-38920,688729,-5%,-$0,-2.0,-1.0,2.0,19.0,EGOV
+205,A,2016-01-06 18:49:56,2015-12-31,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$19.68,-7980,688729,-1%,"-$157,046",-2.0,-1.0,2.0,19.0,EGOV
+206,,2016-01-05 18:20:32,2015-12-31,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$19.68,-7980,727649,-1%,"-$157,046",0.0,-1.0,3.0,18.0,EGOV
+207,,2015-12-17 18:26:44,2015-12-17,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-2500,1576589,0%,-$0,-1.0,0.0,-6.0,3.0,EGOV
+208,M,2015-12-04 18:15:16,2015-12-02,EGOV,Herington Harry,"COB, CEO",S - Sale,$20.58,-30224,856769,-3%,"-$621,967",-2.0,-4.0,-10.0,0.0,EGOV
+209,M,2015-12-02 11:48:43,2015-11-30,EGOV,Herington Harry,"COB, CEO",S - Sale,$20.51,-65883,886993,-7%,"-$1,351,355",0.0,-2.0,-5.0,0.0,EGOV
+210,M,2015-11-30 15:51:49,2015-11-25,EGOV,Herington Harry,"COB, CEO",S - Sale,$20.29,-34243,952876,-3%,"-$694,951",0.0,2.0,0.0,-3.0,EGOV
+211,M,2015-11-24 18:09:45,2015-11-20,EGOV,Herington Harry,"COB, CEO",S - Sale,$19.98,-73865,987119,-7%,"-$1,475,961",1.0,4.0,0.0,-6.0,EGOV
+212,M,2015-11-20 16:37:48,2015-11-18,EGOV,Herington Harry,"COB, CEO",S - Sale,$19.77,-46310,1060984,-4%,"-$915,720",0.0,2.0,-1.0,-6.0,EGOV
+213,M,2015-11-18 16:26:51,2015-11-16,EGOV,Herington Harry,"COB, CEO",S - Sale,$19.65,-49475,1107294,-4%,"-$972,338",0.0,1.0,1.0,-7.0,EGOV
+214,,2015-11-17 17:04:59,2015-11-16,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-2600,1579089,0%,-$0,1.0,1.0,3.0,-5.0,EGOV
+215,,2015-11-16 12:12:28,2015-11-13,EGOV,Herington Harry,"COB, CEO",G - Gift,$0.00,-12500,1156769,-1%,-$0,1.0,3.0,2.0,-5.0,EGOV
+216,,2015-11-13 16:32:34,2015-11-11,EGOV,Knapp Robert W,COO,S - Sale,$20.00,-20000,164135,-11%,"-$399,936",1.0,2.0,1.0,-2.0,EGOV
+217,,2015-09-15 18:18:32,2015-09-11,EGOV,Herington Harry,"COB, CEO",G - Gift,$0.00,-13775,1169269,-1%,-$0,-1.0,-2.0,3.0,-3.0,EGOV
+218,,2015-08-31 18:19:53,2015-08-28,EGOV,Wilson Peter B,Dir,S - Sale,$18.74,-33040,66732,-33%,"-$619,137",-4.0,-2.0,-7.0,-2.0,EGOV
+219,A,2015-08-26 15:44:30,2015-02-05,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$17.80,-901,1119025,0%,"-$16,038",2.0,-1.0,-2.0,2.0,EGOV
+220,A,2015-08-26 15:37:23,2015-01-30,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$16.42,-5442,1119926,0%,"-$89,358",2.0,-1.0,-2.0,2.0,EGOV
+221,A,2015-08-26 15:27:13,2015-01-30,EGOV,Herington Harry,"COB, CEO",F - Tax,$16.42,-13021,1101349,-1%,"-$213,805",2.0,-1.0,-2.0,2.0,EGOV
+222,M,2015-08-25 18:32:23,2015-08-21,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$18.67,-40000,735483,-5%,"-$746,934",2.0,4.0,-3.0,1.0,EGOV
+223,M,2015-08-20 18:41:27,2015-08-19,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$19.22,-40000,775483,-5%,"-$768,650",-1.0,-2.0,-6.0,-2.0,EGOV
+224,,2015-08-18 18:53:23,2015-08-17,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",G - Gift,$0.00,-1250,815483,0%,-$0,-1.0,-6.0,-6.0,-7.0,EGOV
+225,M,2015-08-18 18:53:23,2015-08-17,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$19.75,-40000,815483,-5%,"-$790,184",-1.0,-6.0,-6.0,-7.0,EGOV
+226,M,2015-08-17 14:53:39,2015-08-13,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$19.93,-40000,856733,-4%,"-$797,322",0.0,-7.0,-8.0,-9.0,EGOV
+227,M,2015-08-13 16:36:34,2015-08-11,EGOV,Bradley William F Jr,"Exe VP,CAO,GC, Secy",S - Sale,$19.88,-40000,896733,-4%,"-$795,322",1.0,-2.0,-7.0,-9.0,EGOV
+228,,2015-08-13 16:20:33,2015-08-11,EGOV,Kovzan Stephen M,CFO,S - Sale,$19.35,-12500,185213,-6%,"-$241,846",1.0,-2.0,-7.0,-9.0,EGOV
+229,,2015-07-20 16:37:52,2015-07-17,EGOV,Holland Jayne,"Chief Secy Officer, Assoc GC",A - Grant,$0.00,5599,68421,+9%,+$0,0.0,-3.0,12.0,8.0,EGOV
+230,,2015-05-07 16:45:17,2015-05-06,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$16.64,-214,62822,0%,"-$3,561",0.0,-1.0,4.0,14.0,EGOV
+231,,2015-05-07 11:36:59,2015-05-05,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,5511,99772,+6%,+$0,1.0,0.0,5.0,14.0,EGOV
+232,,2015-05-07 11:31:50,2015-05-05,EGOV,Lyons William M,Dir,A - Grant,$0.00,5511,48053,+13%,+$0,1.0,0.0,5.0,14.0,EGOV
+233,,2015-05-07 11:27:04,2015-05-05,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,5511,44557,+14%,+$0,1.0,0.0,5.0,14.0,EGOV
+234,,2015-05-07 11:21:48,2015-05-05,EGOV,Henry Charles Bradford,Dir,A - Grant,$0.00,5511,21114,+35%,+$0,1.0,0.0,5.0,14.0,EGOV
+235,,2015-05-07 11:16:22,2015-05-05,EGOV,Hartley Ross C,Dir,A - Grant,$0.00,5511,1581689,0%,+$0,1.0,0.0,5.0,14.0,EGOV
+236,,2015-05-07 11:09:03,2015-05-05,EGOV,Evans Karen S.,Dir,A - Grant,$0.00,5511,21114,+35%,+$0,1.0,0.0,5.0,14.0,EGOV
+237,,2015-05-07 11:04:37,2015-05-05,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,5511,216769,+3%,+$0,1.0,0.0,5.0,14.0,EGOV
+238,,2015-05-07 10:58:44,2015-05-05,EGOV,Arasu Venmal (Raji),Dir,A - Grant,$0.00,7042,7042,New,+$0,1.0,0.0,5.0,14.0,EGOV
+239,,2015-05-05 18:06:07,2015-05-03,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$17.43,-305,36596,-1%,"-$5,316",2.0,2.0,5.0,15.0,EGOV
+240,A,2015-04-03 12:26:00,2015-03-07,EGOV,Knapp Robert W,COO,F - Tax,$17.34,-1019,181587,-1%,"-$17,669",0.0,0.0,0.0,0.0,EGOV
+241,A,2015-04-03 12:20:08,2015-03-07,EGOV,Kovzan Stephen M,CFO,F - Tax,$17.34,-1019,195369,-1%,"-$17,669",0.0,0.0,0.0,0.0,EGOV
+242,A,2015-04-03 12:13:54,2015-03-07,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$17.34,-1019,1002073,0%,"-$17,669",0.0,0.0,0.0,0.0,EGOV
+243,A,2015-04-03 12:06:02,2015-02-24,EGOV,Knapp Robert W,COO,F - Tax,$17.45,-754,182961,0%,"-$13,157",0.0,0.0,0.0,0.0,EGOV
+244,A,2015-04-03 11:59:48,2015-02-24,EGOV,Kovzan Stephen M,CFO,F - Tax,$17.45,-754,196743,0%,"-$13,157",0.0,0.0,0.0,0.0,EGOV
+245,A,2015-04-03 11:53:28,2015-02-24,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$17.45,-754,1144897,0%,"-$13,157",0.0,0.0,0.0,0.0,EGOV
+246,A,2015-04-03 11:47:34,2015-02-05,EGOV,Knapp Robert W,COO,F - Tax,$17.80,-901,155393,-1%,"-$16,038",0.0,0.0,0.0,0.0,EGOV
+247,A,2015-04-03 11:41:09,2015-02-05,EGOV,Kovzan Stephen M,CFO,F - Tax,$17.80,-901,169175,-1%,"-$16,038",0.0,0.0,0.0,0.0,EGOV
+248,A,2015-04-03 11:34:17,2015-02-05,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$17.80,-956,1117274,0%,"-$17,017",0.0,0.0,0.0,0.0,EGOV
+249,A,2015-04-03 11:13:04,2015-02-05,EGOV,Herington Harry,"COB, CEO",F - Tax,$17.80,-2821,1094342,0%,"-$50,214",0.0,0.0,0.0,0.0,EGOV
+250,A,2015-04-03 11:00:44,2015-01-30,EGOV,Knapp Robert W,COO,F - Tax,$16.42,-5447,157990,-3%,"-$89,440",0.0,0.0,0.0,0.0,EGOV
+251,A,2015-04-03 10:54:43,2015-01-30,EGOV,Kovzan Stephen M,CFO,F - Tax,$16.42,-5448,171772,-3%,"-$89,456",0.0,0.0,0.0,0.0,EGOV
+252,A,2015-04-03 10:40:02,2015-01-30,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$16.42,-5533,1119835,0%,"-$90,852",0.0,0.0,0.0,0.0,EGOV
+253,A,2015-04-03 10:34:03,2015-01-30,EGOV,Herington Harry,"COB, CEO",F - Tax,$16.42,-13242,1101128,-1%,"-$217,434",0.0,0.0,0.0,0.0,EGOV
+254,,2015-03-16 15:14:31,2015-03-13,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$17.10,-8450,932794,-1%,"-$144,485",0.0,1.0,3.0,7.0,EGOV
+255,M,2015-03-13 14:48:49,2015-03-11,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$17.17,-40000,941244,-4%,"-$686,902",-1.0,1.0,2.0,6.0,EGOV
+256,,2015-03-10 15:50:19,2015-03-07,EGOV,Knapp Robert W,COO,F - Tax,$17.34,-1498,181108,-1%,"-$25,975",-3.0,-2.0,0.0,6.0,EGOV
+257,,2015-03-10 15:46:06,2015-03-07,EGOV,Kovzan Stephen M,CFO,F - Tax,$17.34,-1498,194890,-1%,"-$25,975",-3.0,-2.0,0.0,6.0,EGOV
+258,,2015-03-10 15:41:59,2015-03-07,EGOV,Herington Harry,"COB, CEO",F - Tax,$17.34,-2648,1176978,0%,"-$45,916",-3.0,-2.0,0.0,6.0,EGOV
+259,,2015-03-10 15:35:46,2015-03-07,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$17.34,-1498,981244,0%,"-$25,975",-3.0,-2.0,0.0,6.0,EGOV
+260,,2015-03-10 15:35:46,2015-03-09,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",G - Gift,$0.00,-1250,981244,0%,-$0,-3.0,-2.0,0.0,6.0,EGOV
+261,M,2015-03-10 15:35:46,2015-03-06,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$17.52,-31550,981244,-3%,"-$552,900",-3.0,-2.0,0.0,6.0,EGOV
+262,M,2015-03-06 12:28:47,2015-03-04,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$17.58,-40000,1015542,-4%,"-$703,030",-2.0,-2.0,-1.0,4.0,EGOV
+263,M,2015-03-04 12:03:02,2015-03-02,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$17.60,-40000,1055542,-4%,"-$704,034",0.0,-3.0,-1.0,7.0,EGOV
+264,M,2015-03-02 15:05:46,2015-02-26,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",G - Gift,$0.00,-9000,1095542,-1%,-$0,1.0,-1.0,2.0,7.0,EGOV
+265,M,2015-03-02 15:05:46,2015-02-26,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$17.75,-40000,1095542,-4%,"-$709,866",1.0,-1.0,2.0,7.0,EGOV
+266,M,2015-02-26 15:55:24,2015-02-24,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$17.45,-623,62678,-1%,"-$10,874",3.0,1.0,0.0,4.0,EGOV
+267,,2015-02-26 15:42:25,2015-02-24,EGOV,Thornburgh Ron,"SVP, Business Development",F - Tax,$17.45,-355,26271,-1%,"-$6,195",3.0,1.0,0.0,4.0,EGOV
+268,,2015-02-26 15:36:56,2015-02-24,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$17.45,-292,35639,-1%,"-$5,095",3.0,1.0,0.0,4.0,EGOV
+269,,2015-02-26 15:32:11,2015-02-24,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$17.45,-1109,1144542,0%,"-$19,352",3.0,1.0,0.0,4.0,EGOV
+270,,2015-02-26 15:24:44,2015-02-24,EGOV,Knapp Robert W,COO,F - Tax,$17.45,-1109,182606,-1%,"-$19,352",3.0,1.0,0.0,4.0,EGOV
+271,,2015-02-26 15:20:07,2015-02-24,EGOV,Kovzan Stephen M,CFO,F - Tax,$17.45,-1109,196388,-1%,"-$19,352",3.0,1.0,0.0,4.0,EGOV
+272,,2015-02-26 15:15:09,2015-02-24,EGOV,Herington Harry,"COB, CEO",F - Tax,$17.45,-3473,1179626,0%,"-$60,604",3.0,1.0,0.0,4.0,EGOV
+273,,2015-02-24 18:13:14,2015-02-23,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",A - Grant,$0.00,28615,1145651,+3%,+$0,0.0,1.0,2.0,7.0,EGOV
+274,,2015-02-24 18:06:44,2015-02-23,EGOV,Knapp Robert W,COO,A - Grant,$0.00,28615,183715,+18%,+$0,0.0,1.0,2.0,7.0,EGOV
+275,,2015-02-24 17:54:36,2015-02-23,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,28615,197497,+17%,+$0,0.0,1.0,2.0,7.0,EGOV
+276,,2015-02-24 17:48:33,2015-02-23,EGOV,Herington Harry,"COB, CEO",A - Grant,$0.00,89679,1183099,+8%,+$0,0.0,1.0,2.0,7.0,EGOV
+277,,2015-02-23 17:38:49,2015-02-21,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$17.05,-464,63301,-1%,"-$7,911",2.0,2.0,3.0,10.0,EGOV
+278,,2015-02-23 17:28:42,2015-02-21,EGOV,Thornburgh Ron,"SVP, Business Development",F - Tax,$17.05,-523,26626,-2%,"-$8,917",2.0,2.0,3.0,10.0,EGOV
+279,,2015-02-11 15:20:43,2015-02-10,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-70992,1576178,-4%,-$0,-1.0,4.0,10.0,27.0,EGOV
+280,,2015-02-06 17:37:02,2015-02-05,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$17.80,-405,35931,-1%,"-$7,209",-2.0,1.0,10.0,13.0,EGOV
+281,,2015-02-06 17:31:47,2015-02-05,EGOV,Thornburgh Ron,SVP of Business Development,F - Tax,$17.80,-493,27149,-2%,"-$8,775",-2.0,1.0,10.0,13.0,EGOV
+282,,2015-02-06 17:20:28,2015-02-05,EGOV,Kovzan Stephen M,CFO,F - Tax,$17.80,-1194,168882,-1%,"-$21,253",-2.0,1.0,10.0,13.0,EGOV
+283,,2015-02-06 17:15:02,2015-02-05,EGOV,Knapp Robert W,COO,F - Tax,$17.80,-1194,155100,-1%,"-$21,253",-2.0,1.0,10.0,13.0,EGOV
+284,,2015-02-06 17:09:54,2015-02-05,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$17.80,-1194,1117036,0%,"-$21,253",-2.0,1.0,10.0,13.0,EGOV
+285,,2015-02-06 17:04:33,2015-02-05,EGOV,Herington Harry,"COB, CEO",F - Tax,$17.80,-3743,1093420,0%,"-$66,625",-2.0,1.0,10.0,13.0,EGOV
+286,,2015-02-02 16:13:46,2015-01-30,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$16.42,-532,36336,-1%,"-$8,735",4.0,-6.0,5.0,8.0,EGOV
+287,,2015-02-02 16:08:57,2015-01-30,EGOV,Knapp Robert W,COO,D - Sale to issuer,$0.00,-12048,156294,-7%,-$0,4.0,-6.0,5.0,8.0,EGOV
+288,,2015-02-02 16:08:57,2015-01-30,EGOV,Knapp Robert W,COO,F - Tax,$16.42,-7143,156294,-4%,"-$117,288",4.0,-6.0,5.0,8.0,EGOV
+289,,2015-02-02 15:58:56,2015-01-30,EGOV,Kovzan Stephen M,CFO,D - Sale to issuer,$0.00,-12048,170076,-7%,-$0,2.0,-4.0,7.0,10.0,EGOV
+290,,2015-02-02 15:58:56,2015-01-30,EGOV,Kovzan Stephen M,CFO,F - Tax,$16.42,-7144,170076,-4%,"-$117,304",2.0,-4.0,7.0,10.0,EGOV
+291,,2015-02-02 15:48:47,2015-01-30,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",D - Sale to issuer,$0.00,-12048,1118230,-1%,-$0,2.0,-4.0,7.0,10.0,EGOV
+292,,2015-02-02 15:48:47,2015-01-30,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$16.42,-7138,1118230,-1%,"-$117,206",2.0,-4.0,7.0,10.0,EGOV
+293,,2015-02-02 15:32:52,2015-01-30,EGOV,Herington Harry,"COB, CEO",D - Sale to issuer,$0.00,-31599,1097163,-3%,-$0,2.0,-4.0,7.0,10.0,EGOV
+294,,2015-02-02 15:32:52,2015-01-30,EGOV,Herington Harry,"COB, CEO",F - Tax,$16.42,-17207,1097163,-2%,"-$282,539",2.0,-4.0,7.0,10.0,EGOV
+295,,2015-01-16 14:41:49,2015-01-15,EGOV,Holland Jayne,"Chief Security Officer, AGC",A - Grant,$0.00,4867,63765,+8%,+$0,0.0,9.0,3.0,13.0,EGOV
+296,,2015-01-16 14:35:06,2015-01-15,EGOV,Daughtery Aimi,Chief Accounting Officer,A - Grant,$0.00,4876,36868,+15%,+$0,0.0,9.0,3.0,13.0,EGOV
+297,,2015-01-16 14:30:24,2015-01-15,EGOV,Thornburgh Ron,"SVP, Business Development",A - Grant,$0.00,5937,27642,+27%,+$0,0.0,9.0,3.0,13.0,EGOV
+298,,2014-12-29 12:17:01,2014-12-26,EGOV,Daughtery Aimi,Chief Accounting Officer,S - Sale,$18.75,-20000,31992,-38%,"-$375,000",-5.0,-7.0,-11.0,-5.0,EGOV
+299,,2014-12-22 16:43:13,2014-12-19,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",G - Gift,$0.00,-11100,1136696,-1%,-$0,1.0,-3.0,-13.0,-1.0,EGOV
+300,,2014-12-18 18:27:56,2014-12-18,EGOV,Kemper Alexander C,Dir,S - Sale,$18.00,-11000,39046,-22%,"-$198,000",0.0,3.0,-12.0,-1.0,EGOV
+301,,2014-11-25 16:19:39,2014-11-13,EGOV,Thornburgh Ron,SVP - Business Development,S - Sale,$17.38,-1777,21705,-8%,"-$30,891",1.0,0.0,4.0,-5.0,EGOV
+302,,2014-08-18 14:49:57,2014-08-15,EGOV,Kovzan Stephen M,CFO,S - Sale,$18.87,-75000,188548,-28%,"-$1,415,175",2.0,1.0,-3.0,-11.0,EGOV
+303,,2014-08-13 13:26:44,2014-08-12,EGOV,Knapp Robert W,COO,S - Sale,$18.79,-15000,174765,-8%,"-$281,784",1.0,1.0,-1.0,-15.0,EGOV
+304,,2014-08-13 13:04:36,2014-08-12,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-37642,1647170,-2%,-$0,1.0,1.0,-1.0,-15.0,EGOV
+305,,2014-07-29 17:47:12,2014-07-26,EGOV,Holland Jayne,"Chief Security Officer, AGC",F - Tax,$16.49,-552,58898,-1%,"-$9,102",0.0,2.0,12.0,4.0,EGOV
+306,,2014-07-29 17:40:42,2014-07-26,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$16.49,-486,51992,-1%,"-$8,014",0.0,2.0,12.0,4.0,EGOV
+307,,2014-07-29 17:31:19,2014-07-26,EGOV,Thornburgh Ron,"SVP, Business Development",F - Tax,$16.49,-838,23482,-3%,"-$13,819",0.0,2.0,12.0,4.0,EGOV
+308,,2014-05-08 16:08:17,2014-05-06,EGOV,Holland Jayne,"Chief Security Officer, AGC",A - Grant,$0.00,2747,59450,+5%,+$0,3.0,0.0,-5.0,-5.0,EGOV
+309,,2014-05-08 13:50:54,2014-05-06,EGOV,Evans Daniel J,Dir,A - Grant,$0.00,4945,144001,+4%,+$0,0.0,0.0,-5.0,-5.0,EGOV
+310,,2014-05-07 18:39:08,2014-05-06,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,4945,94261,+6%,+$0,0.0,2.0,-7.0,-4.0,EGOV
+311,,2014-05-07 18:34:08,2014-05-06,EGOV,Lyons William M,Dir,A - Grant,$0.00,4945,42542,+13%,+$0,0.0,2.0,-7.0,-4.0,EGOV
+312,,2014-05-07 18:28:39,2014-05-06,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,4945,50046,+11%,+$0,0.0,2.0,-7.0,-4.0,EGOV
+313,,2014-05-07 18:23:44,2014-05-06,EGOV,Henry Charles Bradford,Dir,A - Grant,$0.00,4945,15603,+46%,+$0,0.0,2.0,-7.0,-4.0,EGOV
+314,,2014-05-07 18:19:07,2014-05-06,EGOV,Hartley Ross C,Dir,A - Grant,$0.00,4945,1684812,0%,+$0,0.0,2.0,-7.0,-4.0,EGOV
+315,,2014-05-07 18:11:10,2014-05-06,EGOV,Evans Karen S.,Dir,A - Grant,$0.00,4945,15603,+46%,+$0,0.0,2.0,-7.0,-4.0,EGOV
+316,,2014-05-07 18:00:05,2014-05-06,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,4945,211258,+2%,+$0,0.0,2.0,-7.0,-4.0,EGOV
+317,,2014-05-06 14:11:19,2014-05-04,EGOV,Thornburgh Ron,"SVP, Business Development",F - Tax,$18.64,-857,24320,-3%,"-$15,974",-3.0,-2.0,-15.0,-2.0,EGOV
+318,,2014-05-06 14:03:59,2014-05-03,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$18.64,-309,52478,-1%,"-$5,760",-3.0,-2.0,-15.0,-2.0,EGOV
+319,,2014-03-14 15:58:02,2014-03-12,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",G - Gift,$0.00,-4800,1146492,0%,-$0,0.0,-3.0,-6.0,-3.0,EGOV
+320,,2014-03-11 15:10:14,2014-03-07,EGOV,Knapp Robert W,COO,D - Sale to issuer,$0.00,-8383,189577,-4%,-$0,-3.0,-6.0,-7.0,-8.0,EGOV
+321,,2014-03-11 15:10:14,2014-03-07,EGOV,Knapp Robert W,COO,F - Tax,$20.76,-6863,189577,-3%,"-$142,476",-3.0,-6.0,-7.0,-8.0,EGOV
+322,,2014-03-11 14:58:58,2014-03-07,EGOV,Kovzan Stephen M,CFO,D - Sale to issuer,$0.00,-8383,263548,-3%,-$0,-3.0,-6.0,-7.0,-8.0,EGOV
+323,,2014-03-11 14:58:58,2014-03-07,EGOV,Kovzan Stephen M,CFO,F - Tax,$20.76,-6863,263548,-3%,"-$142,476",-3.0,-6.0,-7.0,-8.0,EGOV
+324,,2014-03-11 14:45:59,2014-03-07,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",D - Sale to issuer,$0.00,-8383,1151292,-1%,-$0,-3.0,-6.0,-7.0,-8.0,EGOV
+325,,2014-03-11 14:45:59,2014-03-07,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$20.76,-6863,1151292,-1%,"-$142,476",-3.0,-6.0,-7.0,-8.0,EGOV
+326,,2014-03-11 14:34:19,2014-03-07,EGOV,Herington Harry,"COB, CEO",D - Sale to issuer,$0.00,-16562,1143199,-1%,-$0,-3.0,-6.0,-7.0,-8.0,EGOV
+327,,2014-03-11 14:34:19,2014-03-07,EGOV,Herington Harry,"COB, CEO",F - Tax,$20.76,-19279,1143199,-2%,"-$400,232",-3.0,-6.0,-7.0,-8.0,EGOV
+328,,2014-02-25 17:20:18,2014-02-24,EGOV,Thornburgh Ron,"SVP, Business Development",A - Grant,$0.00,4522,25177,+22%,+$0,1.0,5.0,0.0,-1.0,EGOV
+329,,2014-02-25 17:15:28,2014-02-24,EGOV,Daughtery Aimi,Chief Accounting Officer,A - Grant,$0.00,3714,51481,+8%,+$0,1.0,5.0,0.0,-1.0,EGOV
+330,,2014-02-25 17:10:47,2014-02-24,EGOV,Knapp Robert W,COO,A - Grant,$0.00,25225,203947,+14%,+$0,1.0,5.0,0.0,-1.0,EGOV
+331,,2014-02-25 17:04:06,2014-02-24,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,25225,277918,+10%,+$0,1.0,5.0,0.0,-1.0,EGOV
+332,,2014-02-25 16:55:30,2014-02-24,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",A - Grant,$0.00,25225,1165662,+2%,+$0,1.0,5.0,0.0,-1.0,EGOV
+333,,2014-02-25 16:48:00,2014-02-24,EGOV,Herington Harry,"COB, CEO",A - Grant,$0.00,79052,1177318,+7%,+$0,1.0,5.0,0.0,-1.0,EGOV
+334,,2014-02-24 15:45:14,2014-02-21,EGOV,Thornburgh Ron,SVP - Business Development,F - Tax,$19.58,-523,20655,-2%,"-$10,240",-1.0,-1.0,-4.0,-3.0,EGOV
+335,,2014-02-07 12:29:33,2014-02-05,EGOV,Thornburgh Ron,SVP-Bus Dev.,F - Tax,$21.16,-493,21178,-2%,"-$10,432",-11.0,-12.0,-4.0,-19.0,EGOV
+336,,2014-02-07 12:23:36,2014-02-05,EGOV,Kovzan Stephen M,CFO,F - Tax,$21.16,-912,252693,0%,"-$19,298",-11.0,-12.0,-4.0,-19.0,EGOV
+337,,2014-02-07 12:18:36,2014-02-05,EGOV,Knapp Robert W,COO,F - Tax,$21.16,-912,178722,-1%,"-$19,298",-11.0,-12.0,-4.0,-19.0,EGOV
+338,,2014-02-07 12:12:52,2014-02-05,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$21.16,-405,47767,-1%,"-$8,570",-11.0,-12.0,-4.0,-19.0,EGOV
+339,,2014-02-07 12:08:19,2014-02-05,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$21.16,-912,1140437,0%,"-$19,298",-11.0,-12.0,-4.0,-19.0,EGOV
+340,,2014-02-07 12:02:40,2014-02-05,EGOV,Herington Harry,"COB, CEO",F - Tax,$21.16,-2857,1098266,0%,"-$60,454",-11.0,-12.0,-4.0,-19.0,EGOV
+341,,2014-02-03 16:19:31,2014-01-30,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$21.69,-532,48172,-1%,"-$11,539",1.0,-11.0,-2.0,-22.0,EGOV
+342,M,2014-02-03 16:14:32,2014-01-30,EGOV,Knapp Robert W,COO,F - Tax,$21.71,-2616,179634,-1%,"-$56,804",1.0,-11.0,-2.0,-22.0,EGOV
+343,M,2014-02-03 16:06:58,2014-01-30,EGOV,Kovzan Stephen M,CFO,F - Tax,$21.71,-2617,253605,-1%,"-$56,826",1.0,-11.0,-2.0,-22.0,EGOV
+344,M,2014-02-03 15:54:48,2014-01-30,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$21.71,-2613,1141349,0%,"-$56,739",-1.0,-13.0,-3.0,-24.0,EGOV
+345,M,2014-02-03 15:46:59,2014-01-30,EGOV,Herington Harry,"COBd of the Board, CEO",F - Tax,$21.71,-4634,1101123,0%,"-$100,625",-1.0,-13.0,-3.0,-24.0,EGOV
+346,,2013-12-11 10:55:23,2013-12-09,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",G - Gift,$0.00,-17305,1143962,-1%,-$0,-3.0,-4.0,1.0,-31.0,EGOV
+347,,2013-11-13 17:46:51,2013-11-11,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$23.72,-36250,1161267,-3%,"-$859,850",1.0,-1.0,-4.0,-28.0,EGOV
+348,M,2013-11-12 12:10:23,2013-11-07,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$22.77,-46250,1197517,-4%,"-$1,053,050",-1.0,2.0,-2.0,-25.0,EGOV
+349,M,2013-11-07 14:18:47,2013-11-05,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$23.10,-17500,1243767,-1%,"-$404,250",0.0,3.0,5.0,-21.0,EGOV
+350,,2013-08-21 14:21:17,2013-08-19,EGOV,Herington Harry,"COB, CEO",G - Gift,$0.00,-11000,1105757,-1%,-$0,-1.0,-3.0,-3.0,-11.0,EGOV
+351,,2013-08-13 15:58:12,2013-08-12,EGOV,Hartley Ross C,Dir,S - Sale,$22.88,-55145,1679867,-3%,"-$1,261,718",2.0,-1.0,-6.0,-17.0,EGOV
+352,,2013-08-13 15:45:24,2013-08-09,EGOV,Thornburgh Ron,"SVP, Bus Dev.",S - Sale,$22.91,-2500,21671,-10%,"-$57,275",2.0,-1.0,-6.0,-17.0,EGOV
+353,M,2013-08-12 17:47:42,2013-08-08,EGOV,Hartley Ross C,Dir,S - Sale,$22.91,-286097,1735012,-14%,"-$6,555,509",2.0,0.0,-5.0,-21.0,EGOV
+354,,2013-08-08 18:01:22,2013-08-06,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$23.20,-444,48704,-1%,"-$10,301",-1.0,2.0,-5.0,-6.0,EGOV
+355,M,2013-08-08 17:56:02,2013-08-06,EGOV,Hartley Ross C,Dir,S - Sale,$23.02,-158758,2021109,-7%,"-$3,654,536",-1.0,2.0,-5.0,-6.0,EGOV
+356,,2013-07-29 19:12:02,2013-07-26,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$17.93,-478,49148,-1%,"-$8,571",5.0,29.0,29.0,29.0,EGOV
+357,,2013-07-29 19:06:50,2013-07-26,EGOV,Thornburgh Ron,"SVP, Bus Dev.",F - Tax,$17.93,-838,24171,-3%,"-$15,025",5.0,29.0,29.0,29.0,EGOV
+358,,2013-06-17 19:08:46,2013-06-14,EGOV,Knapp Robert W,COO,S - Sale,$16.13,-6000,182250,-3%,"-$96,786",-1.0,-3.0,10.0,42.0,EGOV
+359,,2013-05-20 18:00:31,2013-05-17,EGOV,Evans Daniel J,Dir,G - Gift,$0.00,-6000,139056,-4%,-$0,-1.0,-1.0,-3.0,44.0,EGOV
+360,,2013-05-09 21:54:24,2013-05-07,EGOV,Lyons William M,Dir,A - Grant,$0.00,3554,37597,+10%,+$0,2.0,1.0,-2.0,40.0,EGOV
+361,,2013-05-09 21:00:35,2013-05-07,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,3554,89316,+4%,+$0,2.0,1.0,-2.0,40.0,EGOV
+362,,2013-05-09 20:47:00,2013-05-07,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,3554,45101,+9%,+$0,2.0,1.0,-2.0,40.0,EGOV
+363,,2013-05-09 20:42:15,2013-05-07,EGOV,Henry Charles Bradford,Dir,A - Grant,$0.00,3554,10658,+50%,+$0,2.0,1.0,-2.0,40.0,EGOV
+364,,2013-05-09 20:37:31,2013-05-07,EGOV,Hartley Ross C,Dir,A - Grant,$0.00,3554,2179867,0%,+$0,2.0,1.0,-2.0,40.0,EGOV
+365,,2013-05-09 20:30:14,2013-05-07,EGOV,Evans Karen S.,Dir,A - Grant,$0.00,3554,10658,+50%,+$0,2.0,1.0,-2.0,40.0,EGOV
+366,,2013-05-09 20:24:15,2013-05-07,EGOV,Evans Daniel J,Dir,A - Grant,$0.00,3554,145056,+3%,+$0,2.0,1.0,-2.0,40.0,EGOV
+367,,2013-05-09 19:51:32,2013-05-07,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,3554,206313,+2%,+$0,2.0,1.0,-2.0,40.0,EGOV
+368,,2013-05-06 20:53:21,2013-05-04,EGOV,Thornburgh Ron,SVP - Business Development,F - Tax,$17.01,-898,25009,-3%,"-$15,275",2.0,2.0,1.0,47.0,EGOV
+369,,2013-05-06 20:47:46,2013-05-03,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$17.01,-325,49626,-1%,"-$5,528",2.0,2.0,1.0,47.0,EGOV
+370,,2013-03-08 17:04:51,2013-03-07,EGOV,Knapp Robert W,COO,F - Tax,$18.00,-1081,187961,-1%,"-$19,458",0.0,0.0,2.0,22.0,EGOV
+371,,2013-03-08 16:59:45,2013-03-07,EGOV,Kovzan Stephen M,CFO,F - Tax,$18.00,-1081,256222,0%,"-$19,458",0.0,0.0,2.0,22.0,EGOV
+372,,2013-03-08 16:53:41,2013-03-07,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$18.00,-1081,1259210,0%,"-$19,458",0.0,0.0,2.0,22.0,EGOV
+373,,2013-03-08 16:44:03,2013-03-07,EGOV,Herington Harry,"COB, CEO",F - Tax,$18.00,-2621,1115398,0%,"-$47,178",0.0,0.0,2.0,22.0,EGOV
+374,,2013-02-28 14:34:56,2013-02-27,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-105000,2176313,-5%,-$0,3.0,3.0,12.0,29.0,EGOV
+375,,2013-02-28 14:24:14,2013-02-27,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",G - Gift,$0.00,-6200,1260291,0%,-$0,3.0,3.0,12.0,29.0,EGOV
+376,,2013-02-25 11:35:05,2013-02-21,EGOV,Thornburgh Ron,SVP of Business Development,F - Tax,$17.03,-631,25907,-2%,"-$10,746",-2.0,3.0,5.0,29.0,EGOV
+377,,2013-02-06 16:34:40,2013-02-05,EGOV,Daughtery Aimi,Chief Accounting Officer,A - Grant,$0.00,4310,47894,+10%,+$0,-2.0,2.0,11.0,43.0,EGOV
+378,,2013-02-06 16:29:50,2013-02-05,EGOV,Thornburgh Ron,"SVP, Business Development",A - Grant,$0.00,5248,26538,+25%,+$0,-2.0,2.0,11.0,43.0,EGOV
+379,,2013-02-06 16:24:54,2013-02-05,EGOV,Knapp Robert W,COO,A - Grant,$0.00,30147,189042,+19%,+$0,-2.0,2.0,11.0,43.0,EGOV
+380,,2013-02-06 16:18:49,2013-02-05,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,30147,257303,+13%,+$0,-2.0,2.0,11.0,43.0,EGOV
+381,,2013-02-06 16:12:19,2013-02-05,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",A - Grant,$0.00,30147,1266491,+2%,+$0,-2.0,2.0,11.0,43.0,EGOV
+382,,2013-02-06 16:05:23,2013-02-05,EGOV,Herington Harry,"COB, CEO",A - Grant,$0.00,94601,1118019,+9%,+$0,-2.0,2.0,11.0,43.0,EGOV
+383,,2013-02-05 18:26:07,2013-02-01,EGOV,Knapp Robert W,COO,D - Sale to issuer,$0.00,-8135,158895,-5%,-$0,-1.0,1.0,9.0,47.0,EGOV
+384,M,2013-02-05 18:26:07,2013-02-01,EGOV,Knapp Robert W,COO,F - Tax,$16.92,-9376,158895,-6%,"-$158,642",-1.0,1.0,9.0,47.0,EGOV
+385,,2013-02-05 18:15:56,2013-02-01,EGOV,Kovzan Stephen M,CFO,D - Sale to issuer,$0.00,-8135,227156,-3%,-$0,-1.0,1.0,9.0,47.0,EGOV
+386,M,2013-02-05 18:15:56,2013-02-01,EGOV,Kovzan Stephen M,CFO,F - Tax,$16.92,-9376,227156,-4%,"-$158,642",-1.0,1.0,9.0,47.0,EGOV
+387,,2013-02-05 18:05:51,2013-02-01,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",D - Sale to issuer,$0.00,-8135,1236344,-1%,-$0,-1.0,1.0,9.0,47.0,EGOV
+388,M,2013-02-05 18:05:51,2013-02-01,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$16.92,-9376,1236344,-1%,"-$158,642",-1.0,1.0,9.0,47.0,EGOV
+389,,2013-02-05 17:55:35,2013-02-01,EGOV,Herington Harry,"COB, CEO",D - Sale to issuer,$0.00,-23067,1023418,-2%,-$0,-1.0,1.0,9.0,47.0,EGOV
+390,M,2013-02-05 17:55:35,2013-02-01,EGOV,Herington Harry,"COB, CEO",F - Tax,$16.92,-17347,1023418,-2%,"-$293,511",-1.0,1.0,9.0,47.0,EGOV
+391,,2013-02-01 14:32:14,2013-01-30,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$16.41,-554,43584,-1%,"-$9,091",4.0,-3.0,9.0,18.0,EGOV
+392,,2013-02-01 14:26:49,2013-01-30,EGOV,Knapp Robert W,COO,F - Tax,$16.41,-1410,174784,-1%,"-$23,138",4.0,-3.0,9.0,18.0,EGOV
+393,,2013-02-01 14:21:56,2013-01-30,EGOV,Kovzan Stephen M,CFO,F - Tax,$16.41,-1410,243045,-1%,"-$23,138",4.0,-3.0,9.0,18.0,EGOV
+394,,2013-02-01 13:12:27,2013-01-30,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$16.41,-1410,1252233,0%,"-$23,138",4.0,-3.0,9.0,18.0,EGOV
+395,,2013-02-01 13:04:39,2013-01-30,EGOV,Herington Harry,"COB, CEO",F - Tax,$16.41,-2680,1060685,0%,"-$43,979",4.0,-3.0,9.0,18.0,EGOV
+396,,2013-01-25 15:12:44,2011-09-02,EGOV,Evans Daniel J,Dir,G - Gift,$0.00,-2000,141502,-1%,-$0,-1.0,-2.0,3.0,8.0,EGOV
+397,,2013-01-03 17:12:28,2012-12-31,EGOV,Kemper Alexander C,Dir,G - Gift,$0.00,-10000,41547,-19%,-$0,0.0,0.0,3.0,3.0,EGOV
+398,,2012-12-18 11:32:41,2012-12-17,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$15.42,-10000,1253643,-1%,"-$154,220",0.0,4.0,6.0,3.0,EGOV
+399,M,2012-12-17 14:36:24,2012-12-13,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$15.34,-46985,1263643,-4%,"-$720,731",2.0,8.0,7.0,6.0,EGOV
+400,M,2012-12-13 18:58:12,2012-12-11,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$14.88,-17500,1310628,-1%,"-$260,418",4.0,11.0,12.0,10.0,EGOV
+401,M,2012-12-11 14:55:33,2012-12-07,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$14.69,-7500,1328128,-1%,"-$110,193",1.0,6.0,12.0,9.0,EGOV
+402,,2012-12-06 17:02:56,2012-12-04,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$14.57,-2500,1335628,0%,"-$36,415",2.0,3.0,13.0,13.0,EGOV
+403,M,2012-12-04 13:17:52,2012-11-30,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$15.07,-15515,1338128,-1%,"-$233,856",-3.0,-2.0,10.0,11.0,EGOV
+404,M,2012-11-28 17:49:22,2012-11-26,EGOV,Herington Harry,"COB, CEO",S - Sale,$15.28,-212674,1063365,-17%,"-$3,249,629",0.0,-6.0,6.0,9.0,EGOV
+405,,2012-08-07 12:59:11,2012-08-06,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$14.24,-453,44138,-1%,"-$6,451",-1.0,-2.0,4.0,13.0,EGOV
+406,,2012-07-30 16:32:45,2012-07-28,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$13.92,-452,44591,-1%,"-$6,292",-1.0,2.0,4.0,22.0,EGOV
+407,,2012-07-30 16:27:39,2012-07-28,EGOV,Knapp Robert W,COO,F - Tax,$13.92,-968,176194,-1%,"-$13,475",-1.0,2.0,4.0,22.0,EGOV
+408,,2012-07-27 11:58:05,2012-07-26,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$13.33,-496,45043,-1%,"-$6,612",4.0,2.0,5.0,27.0,EGOV
+409,,2012-07-27 11:52:59,2012-07-26,EGOV,Thornburgh Ron,SVP of Business Development,F - Tax,$13.33,-855,21290,-4%,"-$11,397",4.0,2.0,5.0,27.0,EGOV
+410,,2012-05-08 13:07:40,2012-02-21,EGOV,Thornburgh Ron,SVP-Business Dev,A - Grant,$0.00,6673,22145,+43%,+$0,1.0,-1.0,2.0,35.0,EGOV
+411,,2012-05-08 13:07:40,2012-05-04,EGOV,Thornburgh Ron,SVP-Business Dev,F - Tax,$11.14,-874,22145,-4%,"-$9,736",1.0,-1.0,2.0,35.0,EGOV
+412,,2012-05-04 11:44:54,2012-05-03,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$11.43,-325,45539,-1%,"-$3,715",-3.0,-3.0,-6.0,26.0,EGOV
+413,,2012-05-02 15:47:49,2012-05-01,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,5244,85762,+7%,+$0,2.0,-1.0,-5.0,25.0,EGOV
+414,,2012-05-02 15:33:03,2012-05-01,EGOV,Lyons William M,Dir,A - Grant,$0.00,5244,34043,+18%,+$0,2.0,-1.0,-5.0,25.0,EGOV
+415,,2012-05-02 15:25:46,2012-05-01,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,5244,41547,+14%,+$0,2.0,-1.0,-5.0,25.0,EGOV
+416,,2012-05-02 15:20:06,2012-05-01,EGOV,Henry Charles Bradford,Dir,A - Grant,$0.00,5244,7104,+282%,+$0,2.0,-1.0,-5.0,25.0,EGOV
+417,,2012-05-02 15:14:06,2012-05-01,EGOV,Hartley Ross C,Dir,A - Grant,$0.00,5244,2281313,0%,+$0,2.0,-1.0,-5.0,25.0,EGOV
+418,,2012-05-02 15:05:37,2012-05-01,EGOV,Evans Karen S.,Dir,A - Grant,$0.00,5244,7104,+282%,+$0,2.0,-1.0,-5.0,25.0,EGOV
+419,,2012-05-02 14:56:22,2012-05-01,EGOV,Evans Daniel J,Dir,A - Grant,$0.00,5244,143502,+4%,+$0,2.0,-1.0,-5.0,25.0,EGOV
+420,,2012-05-02 14:45:07,2012-05-01,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,5244,202759,+3%,+$0,2.0,-1.0,-5.0,25.0,EGOV
+421,,2012-03-15 16:44:16,2012-03-14,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$12.24,-3596,1351640,0%,"-$44,017",-1.0,1.0,-7.0,24.0,EGOV
+422,,2012-03-14 17:15:27,2012-03-13,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$12.30,-3165,1355236,0%,"-$38,938",1.0,1.0,-4.0,25.0,EGOV
+423,M,2012-03-14 17:09:20,2012-03-12,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",S - Sale,$12.10,-93239,1358401,-6%,"-$1,128,014",1.0,1.0,-4.0,25.0,EGOV
+424,,2012-03-09 14:34:04,2012-03-07,EGOV,Kovzan Stephen M,CFO,F - Tax,$11.79,-1372,244455,-1%,"-$16,176",0.0,2.0,-3.0,26.0,EGOV
+425,,2012-03-09 14:27:49,2012-03-07,EGOV,Knapp Robert W,COO,F - Tax,$11.79,-1053,176893,-1%,"-$12,415",0.0,2.0,-3.0,26.0,EGOV
+426,,2012-03-09 14:22:19,2012-03-07,EGOV,Bradley William F Jr,"EVP,CAO,GC, Secy",F - Tax,$11.79,-1053,1451640,0%,"-$12,415",0.0,2.0,-3.0,26.0,EGOV
+427,,2012-03-09 14:15:49,2012-03-07,EGOV,Herington Harry,"COB, CEO",F - Tax,$11.79,-2425,1274832,0%,"-$28,591",0.0,2.0,-3.0,26.0,EGOV
+428,,2012-03-06 14:44:07,2012-03-04,EGOV,Kovzan Stephen M,CFO,F - Tax,$11.59,-2380,245827,-1%,"-$27,584",0.0,2.0,4.0,23.0,EGOV
+429,,2012-03-06 14:38:01,2012-03-04,EGOV,Bradley William F Jr,"EVP,CAO, GC, Secy",F - Tax,$11.59,-1825,1452693,0%,"-$21,152",0.0,2.0,4.0,23.0,EGOV
+430,,2012-03-06 14:31:32,2012-03-04,EGOV,Herington Harry,"COB, CEO",F - Tax,$11.59,-4173,1277257,0%,"-$48,365",0.0,2.0,4.0,23.0,EGOV
+431,,2012-02-07 19:18:16,2012-02-03,EGOV,Kovzan Stephen M,CFO,D - Sale to issuer,$0.00,-1994,248207,-1%,-$0,1.0,0.0,-5.0,16.0,EGOV
+432,M,2012-02-07 19:18:16,2012-02-03,EGOV,Kovzan Stephen M,CFO,F - Tax,$11.92,-19512,248207,-7%,"-$232,583",1.0,0.0,-5.0,16.0,EGOV
+433,,2012-02-07 19:08:13,2012-02-03,EGOV,Knapp Robert W,COO,D - Sale to issuer,$0.00,-1994,177946,-1%,-$0,1.0,0.0,-5.0,16.0,EGOV
+434,,2012-02-07 19:08:13,2012-02-03,EGOV,Knapp Robert W,COO,F - Tax,$11.92,-14591,177946,-8%,"-$173,925",1.0,0.0,-5.0,16.0,EGOV
+435,,2012-02-07 18:59:49,2012-02-03,EGOV,Bradley William F Jr,"EVP,CAO, GC, Secy",D - Sale to issuer,$0.00,-1994,1454518,0%,-$0,1.0,0.0,-5.0,16.0,EGOV
+436,,2012-02-07 18:59:49,2012-02-03,EGOV,Bradley William F Jr,"EVP,CAO, GC, Secy",F - Tax,$11.92,-14589,1454518,-1%,"-$173,901",1.0,0.0,-5.0,16.0,EGOV
+437,,2012-02-07 18:49:01,2012-02-03,EGOV,Herington Harry,"COB, CEO",D - Sale to issuer,$0.00,-6412,1281430,0%,-$0,1.0,0.0,-5.0,16.0,EGOV
+438,M,2012-02-07 18:49:01,2012-02-03,EGOV,Herington Harry,"COB, CEO",F - Tax,$11.92,-33098,1281430,-3%,"-$394,528",1.0,0.0,-5.0,16.0,EGOV
+439,,2012-02-03 18:11:52,2012-02-01,EGOV,Kovzan Stephen M,CFO,F - Tax,$12.49,-1490,264888,-1%,"-$18,610",1.0,2.0,-1.0,13.0,EGOV
+440,,2012-02-03 18:05:36,2012-02-01,EGOV,Knapp Robert W,COO,F - Tax,$12.49,-1490,189706,-1%,"-$18,610",1.0,2.0,-1.0,13.0,EGOV
+441,,2012-02-03 18:01:03,2012-02-01,EGOV,Bradley William F Jr,"Exe VP,CAO, GC, Secy",F - Tax,$12.49,-1490,1466276,0%,"-$18,610",1.0,2.0,-1.0,13.0,EGOV
+442,,2012-02-03 17:53:19,2012-02-01,EGOV,Herington Harry,"COB, CEO",F - Tax,$12.49,-2511,1310407,0%,"-$31,362",1.0,2.0,-1.0,13.0,EGOV
+443,,2012-02-01 20:24:42,2012-01-30,EGOV,Bradley William F Jr,"EVP, CAO, GC, Sec",A - Grant,$0.00,38446,1467766,+3%,+$0,-3.0,-1.0,-3.0,8.0,EGOV
+444,,2012-02-01 20:16:12,2012-01-30,EGOV,Knapp Robert W,COO,A - Grant,$0.00,38446,191196,+25%,+$0,-3.0,-1.0,-3.0,8.0,EGOV
+445,,2012-02-01 20:09:40,2012-01-30,EGOV,Daughtery Aimi,Chief Accounting Officer,A - Grant,$0.00,5663,43861,+15%,+$0,-3.0,-1.0,-3.0,8.0,EGOV
+446,,2012-02-01 20:05:19,2012-01-30,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,38446,266378,+17%,+$0,-3.0,-1.0,-3.0,8.0,EGOV
+447,,2012-02-01 19:58:11,2012-01-30,EGOV,Herington Harry,"COB, CEO",A - Grant,$0.00,91141,1312918,+7%,+$0,-3.0,-1.0,-3.0,8.0,EGOV
+448,,2012-01-11 15:43:08,2011-08-10,EGOV,Kemper Alexander C,Dir,S - Sale,$11.51,-5000,36303,-12%,"-$57,527",0.0,-2.0,-7.0,-1.0,EGOV
+449,,2011-12-05 17:21:56,2011-12-02,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-125000,2276069,-5%,-$0,-2.0,-8.0,-4.0,-19.0,EGOV
+450,,2011-11-22 12:33:47,2011-11-19,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$12.98,-329,38198,-1%,"-$4,270",-1.0,-2.0,7.0,-11.0,EGOV
+451,,2011-11-10 16:16:03,2011-11-08,EGOV,Thornburgh Ron,SVP of Business Development,S - Sale,$13.77,-1742,15760,-10%,"-$23,986",1.0,-2.0,-5.0,-15.0,EGOV
+452,,2011-11-10 16:08:14,2011-11-08,EGOV,Knapp Robert W,EVP,S - Sale,$13.95,-10000,152750,-6%,"-$139,539",1.0,-2.0,-5.0,-15.0,EGOV
+453,,2011-11-10 15:50:01,2011-11-08,EGOV,Herington Harry,"COB, CEO",G - Gift,$0.00,-21550,1221777,-2%,-$0,0.0,-1.0,-5.0,-15.0,EGOV
+454,,2011-10-26 15:51:22,2011-10-24,EGOV,Henry Charles Bradford,Dir,A - Grant,$0.00,1860,1860,New,+$0,5.0,0.0,-9.0,-16.0,EGOV
+455,,2011-10-26 15:32:27,2011-10-24,EGOV,Evans Karen S.,Dir,A - Grant,$0.00,1860,1860,New,+$0,5.0,0.0,-9.0,-16.0,EGOV
+456,,2011-10-13 17:05:55,2011-10-12,EGOV,Hartley Ross C,Dir,S - Sale,$11.97,-46770,2401069,-2%,"-$560,038",3.0,3.0,12.0,-2.0,EGOV
+457,,2011-10-13 16:08:25,2011-10-11,EGOV,Hartley Ross C,Dir,S - Sale,$12.07,-200,2224270,0%,"-$2,414",3.0,3.0,12.0,-2.0,EGOV
+458,,2011-10-13 15:57:19,2011-10-11,EGOV,Hartley Ross C,Dir,S - Sale,$11.94,-34350,2448039,-1%,"-$410,280",0.0,3.0,11.0,-3.0,EGOV
+459,,2011-10-11 17:33:29,2011-10-10,EGOV,Hartley Ross C,Dir,S - Sale,$11.79,-40282,2482389,-2%,"-$474,810",0.0,-1.0,18.0,1.0,EGOV
+460,,2011-10-11 17:08:11,2011-10-07,EGOV,Hartley Ross C,Dir,A - Grant,$11.84,200,2299102,0%,"+$2,368",0.0,-1.0,18.0,1.0,EGOV
+461,,2011-10-11 17:08:11,2011-10-07,EGOV,Hartley Ross C,Dir,S - Sale,$11.82,-1698,2299102,0%,"-$20,076",0.0,-1.0,18.0,1.0,EGOV
+462,,2011-10-11 16:54:04,2011-10-07,EGOV,Hartley Ross C,Dir,A - Grant,$11.63,166,2524569,0%,"+$1,931",0.0,-1.0,18.0,1.0,EGOV
+463,,2011-10-11 16:54:04,2011-10-07,EGOV,Hartley Ross C,Dir,S - Sale,$11.66,-25352,2524569,-1%,"-$295,615",0.0,-1.0,18.0,1.0,EGOV
+464,,2011-10-11 16:00:59,2011-10-06,EGOV,Hartley Ross C,Dir,S - Sale,$11.77,-28143,2550087,-1%,"-$331,174",0.0,-1.0,18.0,1.0,EGOV
+465,,2011-10-06 17:57:00,2011-10-05,EGOV,Hartley Ross C,Dir,S - Sale,$11.87,-2431,2354661,0%,"-$28,848",-2.0,1.0,17.0,2.0,EGOV
+466,,2011-10-06 17:37:35,2011-10-05,EGOV,Hartley Ross C,Dir,S - Sale,$11.74,-24079,2580661,-1%,"-$282,750",-2.0,1.0,17.0,2.0,EGOV
+467,M,2011-10-05 14:41:37,2011-10-03,EGOV,Hartley Ross C,Dir,S - Sale,$11.85,-17100,2604740,-1%,"-$202,572",-2.0,-1.0,13.0,1.0,EGOV
+468,M,2011-10-03 17:41:49,2011-09-29,EGOV,Hartley Ross C,Dir,S - Sale,$11.54,-12731,2621840,0%,"-$146,955",7.0,3.0,23.0,12.0,EGOV
+469,,2011-09-29 17:29:15,2011-09-28,EGOV,Hartley Ross C,Dir,S - Sale,$11.80,-1167,2634571,0%,"-$13,771",0.0,3.0,25.0,8.0,EGOV
+470,,2011-09-29 17:02:00,2011-09-28,EGOV,Hartley Ross C,Dir,S - Sale,$11.60,-30971,2635738,-1%,"-$359,276",0.0,3.0,25.0,8.0,EGOV
+471,,2011-09-29 13:40:55,2011-09-27,EGOV,Hartley Ross C,Dir,S - Sale,$11.82,-11216,2666709,0%,"-$132,571",2.0,5.0,27.0,10.0,EGOV
+472,,2011-09-29 12:27:06,2011-09-27,EGOV,Hartley Ross C,Dir,S - Sale,$11.66,-53784,2677925,-2%,"-$627,028",2.0,5.0,27.0,10.0,EGOV
+473,,2011-09-22 11:11:21,2011-09-20,EGOV,Hartley Ross C,Dir,S - Sale,$11.51,-7793,2731709,0%,"-$89,701",1.0,4.0,12.0,16.0,EGOV
+474,M,2011-09-20 15:07:32,2011-09-16,EGOV,Hartley Ross C,Dir,S - Sale,$11.51,-18622,2739502,-1%,"-$214,292",-2.0,0.0,9.0,10.0,EGOV
+475,,2011-09-16 10:57:02,2011-09-14,EGOV,Hartley Ross C,Dir,S - Sale,$11.50,-9990,2758124,0%,"-$114,885",1.0,-4.0,7.0,8.0,EGOV
+476,,2011-09-09 12:07:20,2011-09-08,EGOV,Hartley Ross C,Dir,S - Sale,$11.85,-4500,2768114,0%,"-$53,327",-5.0,1.0,1.0,7.0,EGOV
+477,,2011-09-09 11:41:21,2011-09-08,EGOV,Hartley Ross C,Dir,S - Sale,$11.68,-14300,2772614,-1%,"-$166,961",-5.0,1.0,1.0,7.0,EGOV
+478,,2011-09-08 17:03:55,2011-09-07,EGOV,Hartley Ross C,Dir,S - Sale,$11.61,-29501,2786914,-1%,"-$342,517",-5.0,0.0,4.0,7.0,EGOV
+479,,2011-09-06 15:10:02,2011-09-02,EGOV,Hartley Ross C,Dir,S - Sale,$11.50,-1900,2816415,0%,"-$21,853",1.0,-4.0,8.0,8.0,EGOV
+480,,2011-09-02 16:23:01,2011-09-01,EGOV,Hartley Ross C,Dir,S - Sale,$11.82,-500,2818315,0%,"-$5,910",1.0,-3.0,0.0,7.0,EGOV
+481,,2011-09-02 16:04:54,2011-09-01,EGOV,Hartley Ross C,Dir,S - Sale,$11.61,-9619,2818815,0%,"-$111,722",1.0,-3.0,0.0,7.0,EGOV
+482,M,2011-09-01 13:10:55,2011-08-30,EGOV,Hartley Ross C,Dir,S - Sale,$11.61,-84229,2828434,-3%,"-$977,643",-1.0,-2.0,-1.0,2.0,EGOV
+483,,2011-08-30 19:18:23,2011-08-29,EGOV,Hartley Ross C,Dir,S - Sale,$11.55,-52000,2912663,-2%,"-$600,527",0.0,-3.0,-3.0,6.0,EGOV
+484,M,2011-08-25 13:22:25,2011-08-23,EGOV,Hartley Ross C,Dir,S - Sale,$11.55,-26179,2964663,-1%,"-$302,298",-3.0,2.0,-4.0,14.0,EGOV
+485,,2011-08-09 14:29:10,2011-08-06,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$11.98,-453,38527,-1%,"-$5,427",7.0,5.0,4.0,12.0,EGOV
+486,,2011-08-03 12:37:56,2011-08-01,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$12.55,-472,38980,-1%,"-$5,924",-3.0,-1.0,-5.0,4.0,EGOV
+487,,2011-08-03 12:29:22,2011-08-01,EGOV,Knapp Robert W,EVP,F - Tax,$12.55,-1000,162750,-1%,"-$12,550",-3.0,-1.0,-5.0,4.0,EGOV
+488,,2011-07-29 16:10:45,2011-07-28,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$12.80,-452,39452,-1%,"-$5,786",-2.0,-6.0,-11.0,0.0,EGOV
+489,,2011-07-29 16:04:43,2011-07-28,EGOV,Knapp Robert W,EVP,F - Tax,$12.80,-968,163750,-1%,"-$12,390",-2.0,-6.0,-11.0,0.0,EGOV
+490,,2011-07-28 12:51:04,2011-07-26,EGOV,Daughtery Aimi,Chief Accounting Officer,F - Tax,$13.02,-496,39904,-1%,"-$6,458",2.0,-5.0,-12.0,0.0,EGOV
+491,,2011-06-09 15:24:02,2011-06-07,EGOV,Bradley William F Jr,"COO, GC, Secy.",S - Sale,$12.28,-100000,1429320,-7%,"-$1,227,873",1.0,-1.0,14.0,11.0,EGOV
+492,,2011-05-04 15:45:57,2011-05-03,EGOV,Lyons William M,Dir,A - Grant,$0.00,4724,28799,+20%,+$0,2.0,2.0,1.0,9.0,EGOV
+493,,2011-05-04 13:25:52,2011-05-03,EGOV,Hartley Ross C,Dir,A - Grant,$0.00,4724,2990842,0%,+$0,2.0,2.0,1.0,9.0,EGOV
+494,,2011-05-04 12:59:28,2011-05-03,EGOV,Daughtery Aimi,Chief Accounting Officer,A - Grant,$0.00,3937,40400,+11%,+$0,2.0,2.0,1.0,9.0,EGOV
+495,,2011-05-04 12:49:21,2011-05-03,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,4724,80518,+6%,+$0,2.0,2.0,1.0,9.0,EGOV
+496,,2011-05-04 12:19:12,2011-05-03,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,4724,41303,+13%,+$0,2.0,2.0,1.0,9.0,EGOV
+497,,2011-05-04 11:49:16,2011-05-03,EGOV,Evans Daniel J,Dir,A - Grant,$0.00,4724,138258,+4%,+$0,2.0,2.0,1.0,9.0,EGOV
+498,,2011-05-04 11:33:56,2011-05-03,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,4724,197515,+2%,+$0,2.0,2.0,1.0,9.0,EGOV
+499,,2011-03-24 15:11:59,2011-03-23,EGOV,Hartley Ross C,Dir,S - Sale,$11.57,-60808,2986118,-2%,"-$703,387",1.0,7.0,7.0,-6.0,EGOV
+500,,2011-03-23 16:25:52,2011-03-22,EGOV,Hartley Ross C,Dir,S - Sale,$11.50,-100676,3046926,-3%,"-$1,157,999",1.0,4.0,7.0,-3.0,EGOV
+501,,2011-03-08 17:27:40,2011-03-07,EGOV,Knapp Robert W,EVP,A - Grant,$0.00,38372,164291,+30%,+$0,0.0,0.0,14.0,2.0,EGOV
+502,,2011-03-08 17:15:16,2011-03-07,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,38372,227932,+20%,+$0,0.0,0.0,14.0,2.0,EGOV
+503,,2011-03-08 17:15:16,2011-03-04,EGOV,Kovzan Stephen M,CFO,D - Sale to issuer,$0.00,-2406,227932,-1%,-$0,0.0,0.0,14.0,2.0,EGOV
+504,,2011-03-08 17:15:16,2011-03-04,EGOV,Kovzan Stephen M,CFO,F - Tax,$10.94,-12677,227932,-5%,"-$138,686",0.0,0.0,14.0,2.0,EGOV
+505,,2011-03-08 16:39:51,2011-03-07,EGOV,Bradley William F Jr,"COO, GC, Secy.",A - Grant,$0.00,38372,1525942,+3%,+$0,0.0,0.0,14.0,2.0,EGOV
+506,,2011-03-08 16:39:51,2011-03-04,EGOV,Bradley William F Jr,"COO, GC, Secy.",D - Sale to issuer,$0.00,-2406,1525942,0%,-$0,0.0,0.0,14.0,2.0,EGOV
+507,,2011-03-08 16:39:51,2011-03-04,EGOV,Bradley William F Jr,"COO, GC, Secy.",F - Tax,$10.94,-12677,1525942,-1%,"-$138,686",0.0,0.0,14.0,2.0,EGOV
+508,,2011-03-08 16:25:51,2011-03-07,EGOV,Herington Harry,"COB, CEO",A - Grant,$0.00,72938,1241457,+6%,+$0,0.0,0.0,14.0,2.0,EGOV
+509,,2011-03-08 16:25:51,2011-03-04,EGOV,Herington Harry,"COB, CEO",D - Sale to issuer,$0.00,-7739,1241457,-1%,-$0,0.0,0.0,14.0,2.0,EGOV
+510,,2011-03-08 16:25:51,2011-03-04,EGOV,Herington Harry,"COB, CEO",F - Tax,$10.94,-30065,1241457,-2%,"-$328,911",0.0,0.0,14.0,2.0,EGOV
+511,M,2011-02-18 14:35:56,2011-02-16,EGOV,Hartley Ross C,Dir,S - Sale,$9.99,-15099,3147602,0%,"-$150,795",0.0,1.0,15.0,11.0,EGOV
+512,M,2011-02-16 14:59:02,2011-02-14,EGOV,Hartley Ross C,Dir,S - Sale,$10.11,-94901,3162701,-3%,"-$959,153",0.0,-2.0,10.0,17.0,EGOV
+513,A,2011-02-16 12:47:17,2011-02-07,EGOV,Hartley Ross C,Dir,S - Sale,$10.24,-66600,3431135,-2%,"-$682,053",0.0,-2.0,10.0,17.0,EGOV
+514,,2011-02-14 19:25:02,2011-02-11,EGOV,Hartley Ross C,Dir,S - Sale,$10.17,-3400,3257602,0%,"-$34,567",-1.0,-2.0,7.0,16.0,EGOV
+515,,2011-02-11 18:25:50,2011-02-10,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-120133,3085010,-4%,-$0,-1.0,-2.0,7.0,14.0,EGOV
+516,,2011-02-11 18:25:50,2011-02-10,EGOV,Hartley Ross C,Dir,S - Sale,$10.18,-10000,3085010,0%,"-$101,845",-1.0,-2.0,7.0,14.0,EGOV
+517,,2011-02-09 19:58:29,2011-02-09,EGOV,Hartley Ross C,Dir,S - Sale,$10.17,-40000,3391135,-1%,"-$406,939",0.0,-2.0,6.0,19.0,EGOV
+518,,2011-02-08 14:40:09,2011-02-07,EGOV,Hartley Ross C,Dir,S - Sale,$10.24,-66600,3431135,-2%,"-$682,053",0.0,-1.0,7.0,10.0,EGOV
+519,A,2011-02-07 19:25:17,2010-07-28,EGOV,Kovzan Stephen M,CFO,F - Tax,$7.67,-1251,208944,-1%,"-$9,595",0.0,0.0,7.0,17.0,EGOV
+520,M,2011-02-07 19:03:43,2011-02-03,EGOV,Kovzan Stephen M,CFO,F - Tax,$10.21,-6753,200760,-3%,"-$68,919",0.0,0.0,7.0,17.0,EGOV
+521,,2011-02-07 18:56:26,2011-02-03,EGOV,Knapp Robert W,EVP,F - Tax,$10.08,-2033,125919,-2%,"-$20,493",0.0,0.0,7.0,17.0,EGOV
+522,,2011-02-07 18:49:52,2011-02-03,EGOV,Bradley William F Jr,"COO, GC, Secy.",F - Tax,$10.08,-2034,1498770,0%,"-$20,503",0.0,0.0,7.0,17.0,EGOV
+523,M,2011-02-07 18:34:31,2011-02-03,EGOV,Herington Harry,"COB, CEO",F - Tax,$10.10,-3572,1197915,0%,"-$36,062",0.0,0.0,7.0,17.0,EGOV
+524,,2011-02-03 18:32:26,2011-02-01,EGOV,Kovzan Stephen M,CFO,F - Tax,$10.26,-1431,207493,-1%,"-$14,682",2.0,1.0,8.0,18.0,EGOV
+525,,2011-02-03 18:25:12,2011-02-01,EGOV,Knapp Robert W,EVP,F - Tax,$10.26,-1431,127952,-1%,"-$14,682",2.0,1.0,8.0,18.0,EGOV
+526,,2011-02-03 18:17:50,2011-02-01,EGOV,Bradley William F Jr,"COO, GC, Secy.",F - Tax,$10.26,-1431,1500804,0%,"-$14,682",2.0,1.0,8.0,18.0,EGOV
+527,,2011-02-03 18:12:01,2011-02-01,EGOV,Herington Harry,"COB, CEO",F - Tax,$10.26,-2510,1201487,0%,"-$25,753",2.0,1.0,8.0,18.0,EGOV
+528,,2011-01-13 19:29:27,2011-01-12,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-1000,3497735,0%,-$0,0.0,-3.0,0.0,29.0,EGOV
+529,M,2010-12-30 15:20:40,2010-12-28,EGOV,Hartley Ross C,Dir,S - Sale,$9.54,-254447,3498735,-7%,"-$2,427,847",2.0,3.0,6.0,40.0,EGOV
+530,,2010-12-22 18:12:18,2010-12-21,EGOV,Hartley Ross C,Dir,S - Sale,$9.50,-16707,3753182,0%,"-$158,761",1.0,3.0,7.0,35.0,EGOV
+531,M,2010-12-21 20:11:37,2010-12-17,EGOV,Hartley Ross C,Dir,S - Sale,$9.50,-13452,3769889,0%,"-$127,831",-2.0,1.0,6.0,35.0,EGOV
+532,,2010-12-14 13:17:01,2010-12-13,EGOV,Hartley Ross C,Dir,S - Sale,$9.05,-11172,3783341,0%,"-$101,155",1.0,7.0,16.0,38.0,EGOV
+533,,2010-12-13 16:27:15,2010-12-10,EGOV,Hartley Ross C,Dir,S - Sale,$9.04,-163911,3794513,-4%,"-$1,481,158",1.0,7.0,13.0,35.0,EGOV
+534,,2010-12-13 16:10:26,2010-12-09,EGOV,Evans Daniel J,Dir,G - Gift,$0.00,-10000,133534,-7%,-$0,1.0,7.0,13.0,35.0,EGOV
+535,M,2010-12-10 16:57:37,2010-12-08,EGOV,Hartley Ross C,Dir,S - Sale,$9.01,-324917,3958424,-8%,"-$2,928,172",0.0,6.0,13.0,35.0,EGOV
+536,,2010-12-08 15:01:47,2010-12-07,EGOV,Hartley Ross C,Dir,S - Sale,$8.79,-99632,4283341,-2%,"-$875,603",3.0,5.0,16.0,41.0,EGOV
+537,,2010-12-07 17:32:06,2010-12-06,EGOV,Hartley Ross C,Dir,S - Sale,$8.85,-150368,4382973,-3%,"-$1,330,184",2.0,4.0,16.0,43.0,EGOV
+538,M,2010-11-22 18:45:11,2010-11-19,EGOV,Evans Daniel J,Dir,G - Gift,$0.00,-7200,143534,-5%,-$0,-3.0,-3.0,13.0,46.0,EGOV
+539,M,2010-11-12 10:23:27,2010-11-09,EGOV,Hartley Ross C,Dir,S - Sale,$9.01,-85497,4533341,-2%,"-$769,969",-2.0,-2.0,3.0,46.0,EGOV
+540,M,2010-11-09 11:34:59,2010-11-05,EGOV,Hartley Ross C,Dir,S - Sale,$9.03,-119897,4618838,-3%,"-$1,082,488",-1.0,-3.0,0.0,48.0,EGOV
+541,D,2010-11-05 18:02:23,2010-11-03,EGOV,Wilson Peter B,Dir,M - OptEx,$6.16,10000,75794,+15%,"+$61,600",0.0,-1.0,-2.0,49.0,EGOV
+542,D,2010-11-05 17:56:22,2010-11-03,EGOV,Hartley Ross C,Dir,F - Tax,$8.49,-7256,4738735,0%,"-$61,603",0.0,-1.0,-2.0,49.0,EGOV
+543,D,2010-11-05 17:56:22,2010-11-03,EGOV,Hartley Ross C,Dir,M - OptEx,$6.16,10000,4738735,0%,"+$61,600",0.0,-1.0,-2.0,49.0,EGOV
+544,A,2010-11-05 17:40:55,2010-06-25,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-30000,4728076,-1%,-$0,0.0,-1.0,-2.0,49.0,EGOV
+545,,2010-10-20 15:27:34,2010-10-19,EGOV,Knapp Robert W,EVP,F - Tax,$8.56,-787,129383,-1%,"-$6,737",-1.0,2.0,0.0,45.0,EGOV
+546,,2010-10-20 15:20:16,2010-10-19,EGOV,Herington Harry,"COB, CEO",F - Tax,$8.56,-655,1203997,0%,"-$5,607",-1.0,2.0,0.0,45.0,EGOV
+547,D,2010-10-18 14:22:17,2010-10-15,EGOV,Evans Daniel J,Dir,F - Tax,$8.74,-7049,150734,-4%,"-$61,608",-1.0,-2.0,0.0,42.0,EGOV
+548,D,2010-10-18 14:22:17,2010-10-15,EGOV,Evans Daniel J,Dir,M - OptEx,$6.16,10000,150734,+7%,"+$61,600",-1.0,-2.0,0.0,42.0,EGOV
+549,,2010-08-03 11:29:08,2010-08-01,EGOV,Knapp Robert W,EVP,F - Tax,$7.42,-956,130170,-1%,"-$7,094",0.0,-2.0,0.0,46.0,EGOV
+550,,2010-07-29 18:59:57,2010-07-28,EGOV,Kovzan Stephen M,CFO,F - Tax,$7.67,-1251,208924,-1%,"-$9,595",-4.0,-6.0,-9.0,37.0,EGOV
+551,,2010-07-29 18:54:26,2010-07-28,EGOV,Knapp Robert W,EVP,F - Tax,$7.67,-2106,131126,-2%,"-$16,153",-4.0,-6.0,-9.0,37.0,EGOV
+552,,2010-07-29 18:41:15,2010-07-28,EGOV,Bradley William F Jr,"COO, GC, Secy.",F - Tax,$7.67,-1808,1502235,0%,"-$13,867",-4.0,-6.0,-9.0,37.0,EGOV
+553,,2010-07-29 18:32:17,2010-07-28,EGOV,Herington Harry,"COB, CEO",F - Tax,$7.67,-2582,1204652,0%,"-$19,804",-4.0,-6.0,-9.0,37.0,EGOV
+554,,2010-07-27 14:52:54,2010-07-26,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,7915,65794,+14%,+$0,2.0,-5.0,-9.0,38.0,EGOV
+555,,2010-07-27 14:44:54,2010-07-26,EGOV,Lyons William M,Dir,A - Grant,$0.00,7915,24075,+49%,+$0,2.0,-5.0,-9.0,38.0,EGOV
+556,,2010-07-27 14:39:18,2010-07-26,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,7915,36579,+28%,+$0,2.0,-5.0,-9.0,38.0,EGOV
+557,,2010-07-27 14:30:57,2010-07-26,EGOV,Hartley Ross C,Dir,A - Grant,$0.00,7915,4735991,0%,+$0,2.0,-5.0,-9.0,38.0,EGOV
+558,,2010-07-27 14:22:27,2010-07-26,EGOV,Evans Daniel J,Dir,A - Grant,$0.00,7915,147783,+6%,+$0,2.0,-5.0,-9.0,38.0,EGOV
+559,,2010-07-27 14:10:08,2010-07-26,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,7915,192791,+4%,+$0,2.0,-5.0,-9.0,38.0,EGOV
+560,,2010-06-28 17:12:29,2010-06-25,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-30000,4728076,-1%,-$0,-4.0,-4.0,15.0,45.0,EGOV
+561,,2010-05-10 15:24:38,2010-05-07,EGOV,Lyons William M,Dir,P - Purchase,$6.50,5000,16160,+45%,"+$32,500",8.0,10.0,-1.0,30.0,EGOV
+562,D,2010-04-21 17:11:52,2010-04-20,EGOV,Burtscher Art N,Dir,F - Tax,$7.35,-8381,184876,-4%,"-$61,600",-2.0,-3.0,-3.0,18.0,EGOV
+563,D,2010-04-21 17:11:52,2010-04-20,EGOV,Burtscher Art N,Dir,M - OptEx,$6.16,10000,184876,+6%,"+$61,600",-2.0,-3.0,-3.0,18.0,EGOV
+564,,2010-03-10 14:29:49,2010-03-09,EGOV,Lyons William M,Dir,P - Purchase,$7.92,3000,11160,+37%,"+$23,759",1.0,1.0,-7.0,-8.0,EGOV
+565,,2010-03-05 14:13:29,2010-03-04,EGOV,Kovzan Stephen M,CFO,F - Tax,$7.25,-1745,210175,-1%,"-$12,651",4.0,11.0,0.0,2.0,EGOV
+566,,2010-03-05 14:08:12,2010-03-04,EGOV,Bradley William F Jr,"COO, GC, Secy.",F - Tax,$7.25,-1745,1498664,0%,"-$12,651",4.0,11.0,0.0,2.0,EGOV
+567,,2010-03-05 14:01:02,2010-03-04,EGOV,Herington Harry,"COB, CEO",F - Tax,$7.25,-3060,1204616,0%,"-$22,185",4.0,11.0,0.0,2.0,EGOV
+568,,2010-02-05 11:26:05,2010-02-03,EGOV,Knapp Robert W,EVP,F - Tax,$8.50,-2217,130347,-2%,"-$18,845",-10.0,-8.0,-2.0,-11.0,EGOV
+569,M,2010-02-05 11:20:53,2010-02-03,EGOV,Kovzan Stephen M,CFO,F - Tax,$8.32,-7202,211920,-3%,"-$59,921",-10.0,-8.0,-2.0,-11.0,EGOV
+570,,2010-02-05 11:15:04,2010-02-03,EGOV,Bradley William F Jr,"COO, GC, Secy.",F - Tax,$8.50,-2217,1500409,0%,"-$18,845",-10.0,-8.0,-2.0,-11.0,EGOV
+571,M,2010-02-05 11:09:37,2010-02-03,EGOV,Herington Harry,"COB, CEO",F - Tax,$8.48,-4113,1207676,0%,"-$34,879",-10.0,-8.0,-2.0,-11.0,EGOV
+572,,2010-02-03 15:47:34,2010-02-01,EGOV,Knapp Robert W,EVP,A - Grant,$0.00,40138,132564,+43%,+$0,3.0,-11.0,-9.0,-9.0,EGOV
+573,,2010-02-03 15:40:26,2010-02-01,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,40138,219122,+22%,+$0,3.0,-11.0,-9.0,-9.0,EGOV
+574,,2010-02-03 15:32:50,2010-02-01,EGOV,Bradley William F Jr,"COO, GC, Secy.",A - Grant,$0.00,40138,1502626,+3%,+$0,3.0,-11.0,-9.0,-9.0,EGOV
+575,,2010-02-03 15:26:04,2010-02-01,EGOV,Herington Harry,"COB, CEO",A - Grant,$0.00,82128,1211789,+7%,+$0,3.0,-11.0,-9.0,-9.0,EGOV
+576,,2010-01-08 15:50:51,2010-01-07,EGOV,Hartley Ross C,Dir,S - Sale,$9.00,-3167,4758076,0%,"-$28,507",0.0,-1.0,-19.0,-21.0,EGOV
+577,,2010-01-07 16:21:47,2010-01-06,EGOV,Hartley Ross C,Dir,S - Sale,$9.00,-4316,4761243,0%,"-$38,844",0.0,-1.0,-16.0,-22.0,EGOV
+578,,2010-01-07 16:12:20,2010-01-05,EGOV,Hartley Ross C,Dir,S - Sale,$9.16,-33015,4765559,-1%,"-$302,373",0.0,-1.0,-16.0,-22.0,EGOV
+579,,2010-01-05 16:03:20,2010-01-04,EGOV,Hartley Ross C,Dir,S - Sale,$9.23,-4305,4798574,0%,"-$39,719",-1.0,-4.0,-7.0,-27.0,EGOV
+580,,2010-01-05 15:50:26,2010-01-04,EGOV,Hartley Ross C,Dir,S - Sale,$9.20,-23713,4802879,0%,"-$218,041",-1.0,-5.0,-8.0,-28.0,EGOV
+581,,2009-12-18 19:43:13,2009-12-16,EGOV,Evans Daniel J,Dir,G - Gift,$0.00,-8000,139868,-5%,-$0,0.0,1.0,-2.0,-24.0,EGOV
+582,,2009-12-18 19:34:19,2009-12-16,EGOV,Hartley Ross C,Dir,S - Sale,$8.96,-16783,4826592,0%,"-$150,403",0.0,1.0,-2.0,-24.0,EGOV
+583,,2009-12-18 19:13:57,2009-12-16,EGOV,Hartley Ross C,Dir,S - Sale,$8.79,-28699,4843375,-1%,"-$252,339",0.0,1.0,-2.0,-24.0,EGOV
+584,,2009-12-16 16:55:41,2009-12-15,EGOV,Hartley Ross C,Dir,S - Sale,$8.96,-37000,4872074,-1%,"-$331,453",-1.0,2.0,-3.0,-21.0,EGOV
+585,,2009-12-15 15:36:34,2009-12-14,EGOV,Hartley Ross C,Dir,S - Sale,$8.94,-23583,4909074,0%,"-$210,720",-1.0,2.0,-3.0,-22.0,EGOV
+586,,2009-12-14 15:55:04,2009-12-11,EGOV,Hartley Ross C,Dir,S - Sale,$8.85,-45000,4932657,-1%,"-$398,469",1.0,3.0,-2.0,-21.0,EGOV
+587,,2009-12-14 15:18:51,2009-12-10,EGOV,Hartley Ross C,Dir,S - Sale,$8.80,-26935,4977657,-1%,"-$237,070",1.0,3.0,-2.0,-21.0,EGOV
+588,,2009-12-03 17:41:21,2009-11-24,EGOV,Hartley Ross C,Dir,S - Sale,$8.87,-222000,5004592,-4%,"-$1,969,140",2.0,-2.0,3.0,-25.0,EGOV
+589,,2009-11-20 11:58:13,2009-11-18,EGOV,Lyons William M,Dir,P - Purchase,$8.87,5000,8160,+158%,"+$44,330",2.0,-1.0,5.0,-21.0,EGOV
+590,M,2009-11-18 14:58:48,2009-11-16,EGOV,Bradley William F Jr,"COO, GC, Secy.",S - Sale,$8.86,-92200,1462488,-6%,"-$816,862",-1.0,0.0,-1.0,-22.0,EGOV
+591,,2009-11-13 12:22:25,2009-11-11,EGOV,Knapp Robert W,EVP,S - Sale,$8.75,-11576,92426,-11%,"-$101,296",2.0,3.0,6.0,-12.0,EGOV
+592,M,2009-11-13 12:16:29,2009-11-10,EGOV,Bradley William F Jr,"COO, GC, Secy.",S - Sale,$8.90,-7800,1554688,0%,"-$69,436",2.0,3.0,6.0,-12.0,EGOV
+593,D,2009-11-06 07:56:42,2009-11-04,EGOV,Wilson Peter B,Dir,F - Tax,$8.39,-8657,57879,-13%,"-$72,632",3.0,-2.0,1.0,-16.0,EGOV
+594,D,2009-11-06 07:56:42,2009-11-04,EGOV,Wilson Peter B,Dir,M - OptEx,$4.15,17500,57879,+43%,"+$72,625",3.0,-2.0,1.0,-16.0,EGOV
+595,D,2009-10-23 16:03:47,2009-10-22,EGOV,Evans Daniel J,Dir,F - Tax,$9.04,-9182,147868,-6%,"-$83,005",2.0,-1.0,-1.0,-17.0,EGOV
+596,D,2009-10-23 16:03:47,2009-10-22,EGOV,Evans Daniel J,Dir,M - OptEx,$4.15,20000,147868,+16%,"+$83,000",2.0,-1.0,-1.0,-17.0,EGOV
+597,,2009-10-20 19:59:08,2009-10-19,EGOV,Herington Harry,"COB, CEO",F - Tax,$9.05,-655,1129661,0%,"-$5,928",-2.0,3.0,1.0,-14.0,EGOV
+598,,2009-10-20 19:50:46,2009-10-19,EGOV,Knapp Robert W,EVP,F - Tax,$9.05,-787,104002,-1%,"-$7,122",-2.0,3.0,1.0,-14.0,EGOV
+599,D,2009-10-20 19:43:59,2009-10-19,EGOV,Burtscher Art N,Dir,F - Tax,$9.05,-25221,183257,-12%,"-$228,250",-2.0,3.0,1.0,-14.0,EGOV
+600,D,2009-10-20 19:43:59,2009-10-19,EGOV,Burtscher Art N,Dir,M - OptEx,$4.15,55000,183257,+43%,"+$228,250",-2.0,3.0,1.0,-14.0,EGOV
+601,D,2009-10-13 20:22:37,2009-10-12,EGOV,Hartley Ross C,Dir,F - Tax,$8.88,-5842,5226592,0%,"-$51,877",2.0,3.0,0.0,-10.0,EGOV
+602,D,2009-10-13 20:22:37,2009-10-12,EGOV,Hartley Ross C,Dir,M - OptEx,$4.15,12500,5226592,0%,"+$51,875",2.0,3.0,0.0,-10.0,EGOV
+603,D,2009-09-08 15:31:49,2009-09-04,EGOV,Fraser Jeffery S,Dir,D - Sale to issuer,$0.00,-21520,3880097,-1%,-$0,0.0,-1.0,12.0,3.0,EGOV
+604,D,2009-09-08 15:31:49,2009-09-04,EGOV,Fraser Jeffery S,Dir,F - Tax,$7.99,-5173,3880097,0%,"-$41,332",0.0,-1.0,12.0,3.0,EGOV
+605,D,2009-09-08 15:31:49,2009-09-04,EGOV,Fraser Jeffery S,Dir,M - OptEx,$4.72,8750,3880097,0%,"+$41,338",0.0,-1.0,12.0,3.0,EGOV
+606,D,2009-08-27 17:18:44,2009-08-26,EGOV,Knapp Robert W,EVP,F - Tax,$7.76,-4011,104789,-4%,"-$31,125",-2.0,-2.0,11.0,1.0,EGOV
+607,D,2009-08-27 17:18:44,2009-08-26,EGOV,Knapp Robert W,EVP,M - OptEx,$5.52,5000,104789,+5%,"+$27,600",-2.0,-2.0,11.0,1.0,EGOV
+608,,2009-08-10 16:00:15,2009-08-06,EGOV,Lyons William M,Dir,A - Grant,$0.00,3160,3160,New,+$0,-1.0,-2.0,0.0,-11.0,EGOV
+609,,2009-08-04 12:03:07,2009-08-01,EGOV,Knapp Robert W,EVP,F - Tax,$7.59,-956,103800,-1%,"-$7,256",2.0,2.0,-4.0,5.0,EGOV
+610,,2009-07-30 17:39:50,2009-07-28,EGOV,Knapp Robert W,EVP,F - Tax,$7.56,-2105,104756,-2%,"-$15,914",-1.0,4.0,1.0,10.0,EGOV
+611,,2009-07-30 17:26:01,2009-07-28,EGOV,Kovzan Stephen M,CFO,F - Tax,$7.56,-1251,178984,-1%,"-$9,458",-1.0,4.0,1.0,10.0,EGOV
+612,,2009-07-30 17:19:00,2009-07-28,EGOV,Herington Harry,"COB, CEO",F - Tax,$7.56,-2582,1130316,0%,"-$19,520",-1.0,4.0,1.0,10.0,EGOV
+613,,2009-07-30 17:04:29,2009-07-28,EGOV,Bradley William F Jr,"COO, GC, Secy.",F - Tax,$7.56,-1808,1562488,0%,"-$13,668",-1.0,4.0,1.0,10.0,EGOV
+614,,2009-05-06 17:49:13,2009-05-05,EGOV,Hartley Ross C,Dir,A - Grant,$0.00,10471,5219934,0%,+$0,1.0,-2.0,28.0,52.0,EGOV
+615,,2009-05-06 17:41:23,2009-05-05,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,10471,49036,+27%,+$0,1.0,-2.0,28.0,52.0,EGOV
+616,,2009-05-06 17:36:37,2009-05-05,EGOV,Fraser Jeffery S,Dir,A - Grant,$0.00,10471,3898040,0%,+$0,1.0,-2.0,28.0,52.0,EGOV
+617,,2009-05-06 17:28:57,2009-05-05,EGOV,Evans Daniel J,Dir,A - Grant,$0.00,10471,137050,+8%,+$0,1.0,-2.0,28.0,52.0,EGOV
+618,,2009-05-06 17:22:42,2009-05-05,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,10471,153478,+7%,+$0,1.0,-2.0,28.0,52.0,EGOV
+619,,2009-05-06 17:15:23,2009-05-05,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,10471,28664,+58%,+$0,1.0,-2.0,28.0,52.0,EGOV
+620,M,2009-03-10 16:52:53,2009-03-04,EGOV,Hartley Ross C,Dir,S - Sale,$4.46,-478000,5209463,-8%,"-$2,131,844",1.0,5.0,8.0,77.0,EGOV
+621,,2009-03-06 13:15:55,2009-03-04,EGOV,Kovzan Stephen M,CFO,F - Tax,$4.81,-1745,180235,-1%,"-$8,393",0.0,11.0,19.0,69.0,EGOV
+622,,2009-03-06 13:05:47,2009-03-04,EGOV,Bradley William F Jr,"COO, GC, Secy.",F - Tax,$4.81,-1745,1561248,0%,"-$8,393",0.0,11.0,19.0,69.0,EGOV
+623,,2009-03-06 12:55:53,2009-03-04,EGOV,Herington Harry,"COB, CEO",F - Tax,$4.81,-3060,1130314,0%,"-$14,719",0.0,11.0,19.0,69.0,EGOV
+624,,2009-02-17 10:19:57,2009-02-13,EGOV,Fraser Jeffery S,Dir,G - Gift,$0.00,-5545190,3887569,-335%,-$0,-7.0,3.0,16.0,73.0,EGOV
+625,A,2009-02-13 11:07:18,2008-05-06,EGOV,Fraser Jeffery S,"Dir, 10%",A - Grant,$0.00,8065,5735965,0%,+$0,-1.0,-1.0,6.0,75.0,EGOV
+626,,2009-02-05 17:26:18,2009-02-03,EGOV,Herington Harry,"COB, CEO",A - Grant,$0.00,120471,1133374,+12%,+$0,6.0,-2.0,-6.0,64.0,EGOV
+627,,2009-02-05 17:26:18,2009-02-04,EGOV,Herington Harry,"COB, CEO",F - Tax,$5.37,-377,1133374,0%,"-$2,024",6.0,-2.0,-6.0,64.0,EGOV
+628,,2009-02-05 17:13:35,2009-02-03,EGOV,Knapp Robert W,EVP,A - Grant,$0.00,58877,105671,+126%,+$0,6.0,-2.0,-6.0,64.0,EGOV
+629,,2009-02-05 16:56:00,2009-02-03,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,58877,181980,+48%,+$0,6.0,-2.0,-6.0,64.0,EGOV
+630,,2009-02-05 16:56:00,2009-02-04,EGOV,Kovzan Stephen M,CFO,F - Tax,$5.37,-5648,181980,-3%,"-$30,330",6.0,-2.0,-6.0,64.0,EGOV
+631,,2009-02-05 16:45:22,2009-02-03,EGOV,Bradley William F Jr,"COO, GC, Secy.",A - Grant,$0.00,58877,1562993,+4%,+$0,6.0,-2.0,-6.0,64.0,EGOV
+632,M,2009-01-27 14:56:08,2008-10-07,EGOV,Hartley Ross C,Dir,G - Gift,$0.00,-11048671,5687463,-206%,-$0,4.0,17.0,6.0,60.0,EGOV
+633,A,2009-01-27 14:41:10,2008-05-06,EGOV,Hartley Ross C,"Dir, 10%",A - Grant,$0.00,8065,5983588,0%,+$0,4.0,17.0,6.0,60.0,EGOV
+634,,2009-01-20 18:30:13,2008-10-19,EGOV,Herington Harry,"COB, CEO",F - Tax,$5.25,-863,1013280,0%,"-$4,531",14.0,6.0,-4.0,74.0,EGOV
+635,,2008-12-22 19:06:12,2008-12-19,EGOV,Wilson Peter B,Dir,S - Sale,$3.94,-52265,38565,-58%,"-$206,169",3.0,7.0,28.0,81.0,EGOV
+636,,2008-07-30 20:26:42,2008-07-28,EGOV,Kovzan Stephen M,CFO,F - Tax,$7.66,-1308,128751,-1%,"-$10,019",-5.0,-8.0,-9.0,-29.0,EGOV
+637,,2008-07-30 20:21:21,2008-07-28,EGOV,Bradley William F Jr,"COO, GC, Secy.",F - Tax,$7.66,-1890,1504116,0%,"-$14,477",-5.0,-8.0,-9.0,-29.0,EGOV
+638,,2008-07-30 20:13:03,2008-07-28,EGOV,Herington Harry,"COB, CEO",F - Tax,$7.66,-2700,2005762,0%,"-$20,682",-5.0,-8.0,-9.0,-29.0,EGOV
+639,D,2008-05-13 12:25:43,2008-05-12,EGOV,Herington Harry,"COB, CEO",M - OptEx,$3.04,73936,1016843,+8%,"+$224,765",0.0,0.0,8.0,-44.0,EGOV
+640,D,2008-05-13 12:25:43,2008-05-12,EGOV,Herington Harry,"COB, CEO",S - Sale+OE,$7.41,-73936,1016843,-7%,"-$547,693",0.0,0.0,8.0,-44.0,EGOV
+641,D,2008-05-12 18:49:37,2008-05-09,EGOV,Kovzan Stephen M,CFO,M - OptEx,$3.04,7500,130059,+6%,"+$22,800",0.0,0.0,10.0,-29.0,EGOV
+642,D,2008-05-12 18:49:37,2008-05-09,EGOV,Kovzan Stephen M,CFO,S - Sale+OE,$7.47,-7500,130059,-5%,"-$55,993",0.0,0.0,10.0,-29.0,EGOV
+643,D,2008-05-12 18:33:59,2008-05-09,EGOV,Herington Harry,"COB, CEO",M - OptEx,$3.04,76064,1016843,+8%,"+$231,235",0.0,0.0,10.0,-29.0,EGOV
+644,D,2008-05-12 18:33:59,2008-05-09,EGOV,Herington Harry,"COB, CEO",S - Sale+OE,$7.43,-76064,1016843,-7%,"-$565,421",0.0,0.0,10.0,-29.0,EGOV
+645,,2008-05-12 17:35:12,2008-05-08,EGOV,Bradley William F Jr,"COO, GC, Secy.",S - Sale,$7.22,-33194,1506006,-2%,"-$239,675",0.0,0.0,10.0,-29.0,EGOV
+646,,2008-05-08 19:09:39,2008-05-06,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,8065,90830,+10%,+$0,1.0,2.0,13.0,-21.0,EGOV
+647,,2008-05-08 18:59:53,2008-05-06,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,8065,18193,+80%,+$0,1.0,2.0,13.0,-21.0,EGOV
+648,,2008-05-08 18:53:08,2008-05-06,EGOV,Hartley Ross C,"Dir, 10%",A - Grant,$0.00,8065,6030055,0%,+$0,1.0,2.0,13.0,-21.0,EGOV
+649,,2008-05-08 18:34:49,2008-05-06,EGOV,Fraser Jeffery S,"Dir, 10%",A - Grant,$0.00,8065,5735972,0%,+$0,1.0,2.0,13.0,-21.0,EGOV
+650,,2008-05-08 18:12:20,2008-05-06,EGOV,Evans Daniel J,Dir,A - Grant,$0.00,8065,126579,+7%,+$0,1.0,2.0,13.0,-21.0,EGOV
+651,,2008-05-08 17:46:32,2008-05-06,EGOV,Bunce John L Jr,Dir,A - Grant,$0.00,8065,166975,+5%,+$0,1.0,2.0,13.0,-21.0,EGOV
+652,,2008-05-08 17:34:50,2008-05-06,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,8065,143007,+6%,+$0,1.0,2.0,13.0,-21.0,EGOV
+653,,2008-03-06 18:56:27,2008-03-04,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,55460,130059,+74%,+$0,2.0,8.0,23.0,19.0,EGOV
+654,,2008-03-06 18:41:45,2008-03-04,EGOV,Herington Harry,CEO,A - Grant,$0.00,113481,219462,+107%,+$0,2.0,8.0,23.0,19.0,EGOV
+655,,2008-03-06 16:29:27,2008-03-04,EGOV,Bradley William F Jr,"COO, GC, Sec.",A - Grant,$0.00,55460,104246,+114%,+$0,2.0,8.0,23.0,19.0,EGOV
+656,D,2008-02-28 12:49:22,2008-02-27,EGOV,Fraser Jeffery S,"Dir, 10%",M - OptEx,$6.15,5017,315894,+2%,"+$30,871",-4.0,-4.0,11.0,9.0,EGOV
+657,D,2008-02-28 12:49:22,2008-02-27,EGOV,Fraser Jeffery S,"Dir, 10%",S - Sale+OE,$6.30,-5017,315894,-2%,"-$31,608",-4.0,-4.0,11.0,9.0,EGOV
+658,D,2008-02-27 15:26:38,2008-02-26,EGOV,Fraser Jeffery S,"Dir, 10%",M - OptEx,$3.54,74733,315894,+31%,"+$264,782",2.0,-7.0,10.0,11.0,EGOV
+659,D,2008-02-27 15:26:38,2008-02-26,EGOV,Fraser Jeffery S,"Dir, 10%",S - Sale+OE,$6.34,-74733,315894,-19%,"-$473,564",2.0,-7.0,10.0,11.0,EGOV
+660,D,2008-02-26 13:34:08,2008-02-25,EGOV,Fraser Jeffery S,"Dir, 10%",M - OptEx,$3.34,94000,315894,+42%,"+$313,960",0.0,-4.0,11.0,15.0,EGOV
+661,D,2008-02-26 13:34:08,2008-02-25,EGOV,Fraser Jeffery S,"Dir, 10%",S - Sale+OE,$6.30,-94000,315894,-23%,"-$592,312",0.0,-4.0,11.0,15.0,EGOV
+662,,2008-02-07 15:39:10,2008-02-04,EGOV,Evans Daniel J,Dir,A - Grant,$0.00,4000,118514,+3%,+$0,-2.0,-6.0,-11.0,5.0,EGOV
+663,,2008-02-06 20:09:06,2008-02-04,EGOV,Fraser Jeffery S,"Dir, 10%",A - Grant,$0.00,4000,315894,+1%,+$0,-2.0,-14.0,-13.0,4.0,EGOV
+664,,2008-02-06 20:09:06,2008-02-04,EGOV,Fraser Jeffery S,"Dir, 10%",D - Sale to issuer,$0.00,-25409,315894,-7%,-$0,-2.0,-14.0,-13.0,4.0,EGOV
+665,,2008-02-06 19:46:24,2008-02-04,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,4000,10128,+65%,+$0,-2.0,-14.0,-13.0,4.0,EGOV
+666,,2008-02-06 19:35:35,2008-02-04,EGOV,Bunce John L Jr,Dir,A - Grant,$0.00,4000,158910,+3%,+$0,-2.0,-14.0,-13.0,4.0,EGOV
+667,,2008-02-06 19:20:24,2008-02-04,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,4000,82765,+5%,+$0,-2.0,-14.0,-13.0,4.0,EGOV
+668,,2008-02-06 19:04:55,2008-02-04,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,4000,32301,+14%,+$0,-2.0,-14.0,-13.0,4.0,EGOV
+669,,2008-02-06 18:43:17,2008-02-04,EGOV,Kovzan Stephen M,CFO,A - Grant,$0.00,60000,74599,+411%,+$0,-2.0,-14.0,-13.0,4.0,EGOV
+670,,2008-02-06 18:26:24,2008-02-04,EGOV,Hartley Ross C,"Dir, 10%",A - Grant,$0.00,4000,569919,+1%,+$0,-2.0,-14.0,-13.0,4.0,EGOV
+671,,2008-02-06 17:54:46,2008-02-04,EGOV,Herington Harry,CEO,A - Grant,$0.00,4000,105981,+4%,+$0,-2.0,-14.0,-13.0,4.0,EGOV
+672,,2007-11-07 14:16:55,2007-11-05,EGOV,Kemper Alexander C,Dir,A - Grant,$0.00,3628,6128,+145%,+$0,2.0,11.0,15.0,10.0,EGOV
+673,,2007-10-23 13:24:30,2007-10-19,EGOV,Fraser Jeffery S,"COB, CEO, 10%",F - Tax,$7.10,-265,337303,0%,"-$1,882",0.0,2.0,-4.0,-8.0,EGOV
+674,,2007-10-23 12:54:20,2007-10-19,EGOV,Herington Harry,Pres,F - Tax,$7.10,-684,101981,-1%,"-$4,856",0.0,2.0,-4.0,-8.0,EGOV
+675,D,2007-08-21 16:55:41,2007-08-17,EGOV,Bradley William F Jr,"COO, Gen. Counsel, Secretary",F - Tax,$7.52,-11254,48786,-19%,"-$84,630",0.0,-3.0,0.0,-9.0,EGOV
+676,D,2007-08-21 16:55:41,2007-08-17,EGOV,Bradley William F Jr,"COO, Gen. Counsel, Secretary",M - OptEx,$3.04,18750,48786,+62%,"+$57,000",0.0,-3.0,0.0,-9.0,EGOV
+677,,2007-08-06 11:13:20,2007-07-28,EGOV,Bradley William F Jr,"COO, Gen. Counsel, Secretary",F - Tax,$6.74,-1891,41290,-4%,"-$12,745",6.0,7.0,2.0,6.0,EGOV
+678,,2007-07-31 14:06:30,2007-07-28,EGOV,Somerhalder Sam,Chief Administrative Officer,F - Tax,$6.74,-1520,75731,-2%,"-$10,245",-3.0,5.0,0.0,5.0,EGOV
+679,,2007-07-31 13:51:02,2007-07-28,EGOV,Kovzan Stephen M,"VP - Fin. Oper, CAO",F - Tax,$6.74,-1309,14599,-8%,"-$8,823",-3.0,5.0,0.0,5.0,EGOV
+680,,2007-07-31 13:37:59,2007-07-28,EGOV,Fraser Jeffery S,"COB, CEO, 10%",F - Tax,$6.74,-2241,337568,-1%,"-$15,104",-3.0,5.0,0.0,5.0,EGOV
+681,,2007-07-31 13:11:25,2007-07-28,EGOV,Herington Harry,Pres,F - Tax,$6.74,-2701,102665,-3%,"-$18,205",-3.0,5.0,0.0,5.0,EGOV
+682,A,2007-06-05 14:19:14,2007-03-30,EGOV,Herington Harry,Pres,M - OptEx,$4.56,4820,105366,+5%,"+$21,979",5.0,8.0,22.0,35.0,EGOV
+683,D,2007-05-23 11:52:32,2007-05-22,EGOV,Kovzan Stephen M,"VP - Financial Oper., CAO",M - OptEx,$3.04,7500,15908,+89%,"+$22,800",0.0,-2.0,14.0,32.0,EGOV
+684,D,2007-05-23 11:52:32,2007-05-22,EGOV,Kovzan Stephen M,"VP - Financial Oper., CAO",S - Sale+OE,$5.70,-7500,15908,-32%,"-$42,769",0.0,-2.0,14.0,32.0,EGOV
+685,,2007-05-03 11:25:20,2007-05-01,EGOV,Herington Harry,Pres,A - Grant,$0.00,4318,105210,+4%,+$0,-2.0,-2.0,0.0,31.0,EGOV
+686,,2007-04-02 16:38:45,2007-03-30,EGOV,Bur Eric,CFO,M - OptEx,$4.56,3098,63157,+5%,"+$14,127",-1.0,-1.0,8.0,30.0,EGOV
+687,,2007-04-02 16:09:22,2007-03-30,EGOV,Herington Harry,Pres,M - OptEx,$4.56,4664,100892,+5%,"+$21,268",-1.0,-1.0,8.0,30.0,EGOV
+688,,2007-04-02 15:33:09,2007-03-30,EGOV,Bradley William F Jr,"COO, GC, Sec.",M - OptEx,$4.56,1446,43181,+3%,"+$6,594",0.0,-1.0,8.0,29.0,EGOV
+689,D,2007-02-08 13:25:15,2007-02-06,EGOV,Evans Daniel J,Dir,M - OptEx,$4.15,20000,114514,+21%,"+$83,000",6.0,8.0,7.0,51.0,EGOV
+690,D,2007-02-08 13:01:05,2007-02-06,EGOV,Wilson Peter B,Dir,M - OptEx,$4.15,17500,78765,+29%,"+$72,625",6.0,8.0,7.0,51.0,EGOV
+691,D,2007-02-08 12:37:20,2007-02-06,EGOV,Hartley Ross C,"Dir, 10%",M - OptEx,$4.15,12500,565919,+2%,"+$51,875",6.0,8.0,7.0,51.0,EGOV
+692,D,2007-02-08 12:11:57,2007-02-06,EGOV,Bradley William F Jr,"COO, Gen. Counsel, Secretary",M - OptEx,$3.04,18750,41735,+82%,"+$57,000",6.0,8.0,7.0,51.0,EGOV
+693,A,2006-10-25 12:38:29,2006-10-19,EGOV,Evans Daniel J,Dir,A - Grant,$0.00,4000,94514,+4%,+$0,-4.0,-12.0,-15.0,21.0,EGOV
+694,,2006-10-23 21:13:39,2006-10-19,EGOV,Evans Daniel J,Dir,A - Grant,$0.00,4000,94514,+4%,+$0,-3.0,-15.0,-19.0,17.0,EGOV
+695,,2006-10-23 18:38:13,2006-10-19,EGOV,Bunce John L Jr,Dir,A - Grant,$0.00,4000,154910,+3%,+$0,-3.0,-15.0,-19.0,17.0,EGOV
+696,,2006-10-23 17:42:10,2006-10-19,EGOV,Burtscher Art N,Dir,A - Grant,$0.00,4000,28301,+16%,+$0,-3.0,-15.0,-19.0,17.0,EGOV
+697,,2006-10-23 17:27:02,2006-10-19,EGOV,Wilson Peter B,Dir,A - Grant,$0.00,4000,61265,+7%,+$0,-3.0,-15.0,-19.0,17.0,EGOV
+698,,2006-10-23 16:14:26,2006-10-19,EGOV,Herington Harry,Pres,A - Grant,$0.00,4000,96228,+4%,+$0,-3.0,-15.0,-19.0,17.0,EGOV
+699,,2006-10-23 15:56:16,2006-10-19,EGOV,Fraser Jeffery S,"COB, CEO, 10%",A - Grant,$0.00,4000,339809,+1%,+$0,-1.0,-16.0,-20.0,16.0,EGOV
+700,,2006-10-23 15:33:06,2006-10-19,EGOV,Hartley Ross C,"Dir, 10%",A - Grant,$0.00,4000,553419,+1%,+$0,-1.0,-16.0,-20.0,16.0,EGOV
+701,,2006-08-30 12:14:05,2006-08-29,EGOV,National Information Consortium Voting Trust,10%,S - Sale,$5.20,-2894,21400805,0%,"-$15,049",2.0,-4.0,-1.0,16.0,EGOV
+702,,2006-08-29 12:11:51,2006-08-28,EGOV,National Information Consortium Voting Trust,10%,S - Sale,$5.20,-6506,21403699,0%,"-$33,831",2.0,4.0,2.0,19.0,EGOV
+703,,2006-08-21 18:05:01,2006-08-18,EGOV,National Information Consortium Voting Trust,10%,S - Sale,$5.20,-40600,21410205,0%,"-$211,144",1.0,-1.0,-2.0,22.0,EGOV
+704,D,2006-08-18 18:31:53,2006-08-18,EGOV,Somerhalder Sam,Chief Administrative Officer,M - OptEx,$3.04,3725,77251,+5%,"+$11,324",-2.0,-2.0,-5.0,20.0,EGOV
+705,D,2006-08-18 18:31:53,2006-08-18,EGOV,Somerhalder Sam,Chief Administrative Officer,S - Sale+OE,$5.21,-3725,77251,-5%,"-$19,400",-2.0,-2.0,-5.0,20.0,EGOV
+706,D,2006-08-15 18:52:14,2006-08-15,EGOV,Somerhalder Sam,Chief Administrative Officer,M - OptEx,$3.04,6603,77251,+9%,"+$20,073",-3.0,-4.0,-5.0,16.0,EGOV
+707,D,2006-08-15 18:52:14,2006-08-15,EGOV,Somerhalder Sam,Chief Administrative Officer,S - Sale+OE,$5.50,-6603,77251,-8%,"-$36,317",-3.0,-4.0,-5.0,16.0,EGOV
+708,D,2006-08-15 12:53:11,2006-08-14,EGOV,Somerhalder Sam,Chief Administrative Officer,M - OptEx,$3.04,27172,77251,+54%,"+$82,603",-1.0,-5.0,-6.0,15.0,EGOV
+709,D,2006-08-15 12:53:11,2006-08-14,EGOV,Somerhalder Sam,Chief Administrative Officer,S - Sale+OE,$5.52,-27172,77251,-26%,"-$149,917",-1.0,-5.0,-6.0,15.0,EGOV
+710,,2006-07-31 16:12:19,2006-07-28,EGOV,Fraser Jeffery S,"COB, CEO, 10%",A - Grant,$0.00,33878,335809,+11%,+$0,-2.0,3.0,-7.0,-4.0,EGOV
+711,,2006-07-31 15:47:13,2006-07-28,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",A - Grant,$0.00,15908,15908,New,+$0,-2.0,0.0,-9.0,-7.0,EGOV
+712,,2006-07-31 15:30:17,2006-07-28,EGOV,Herington Harry,Pres,A - Grant,$0.00,32836,92228,+55%,+$0,-2.0,0.0,-9.0,-7.0,EGOV
+713,,2006-07-31 14:40:11,2006-07-28,EGOV,Bradley William F Jr,"COO, Gen. Counsel, Secretary",A - Grant,$0.00,22985,22985,New,+$0,-2.0,0.0,-9.0,-7.0,EGOV
+714,,2006-07-31 14:25:32,2006-07-28,EGOV,Somerhalder Sam,Chief Administrative Officer,A - Grant,$0.00,22985,77251,+42%,+$0,-2.0,0.0,-9.0,-7.0,EGOV
+715,,2006-07-31 14:04:32,2006-07-28,EGOV,Bur Eric,CFO,A - Grant,$0.00,24627,60059,+70%,+$0,-2.0,0.0,-9.0,-7.0,EGOV
+716,D,2006-06-12 15:07:07,2006-06-09,EGOV,Wilson Peter B,Dir,M - OptEx,$2.10,10000,57265,+21%,"+$21,000",-3.0,5.0,-10.0,-24.0,EGOV
+717,D,2006-06-08 11:42:32,2006-06-07,EGOV,Evans Daniel J,Dir,M - OptEx,$2.10,10000,90514,+12%,"+$21,000",-2.0,-1.0,-8.0,-25.0,EGOV
+718,D,2006-06-08 11:42:32,2006-06-07,EGOV,Evans Daniel J,Dir,S - Sale+OE,$7.01,-10000,90514,-10%,"-$70,100",-2.0,-1.0,-8.0,-25.0,EGOV
+719,,2006-06-07 15:26:32,2006-06-07,EGOV,Hartley Ross C,"Dir, 10%",G - Gift,$0.00,-74050,549419,-12%,-$0,-1.0,-6.0,-10.0,-25.0,EGOV
+720,,2006-05-22 14:50:47,2006-05-15,EGOV,Herington Harry,Pres,G - Gift,$0.00,-6000,59392,-9%,-$0,-4.0,-2.0,13.0,-27.0,EGOV
+721,D,2006-05-10 14:39:01,2006-05-08,EGOV,Bur Eric,CFO,M - OptEx,$2.88,60000,35432,-244%,"+$173,000",-5.0,0.0,8.0,-24.0,EGOV
+722,D,2006-05-10 14:39:01,2006-05-08,EGOV,Bur Eric,CFO,S - Sale+OE,$6.11,-60000,35432,-63%,"-$366,721",-5.0,0.0,8.0,-24.0,EGOV
+723,D,2006-05-05 17:46:00,2006-05-04,EGOV,Fraser Jeffery S,"COB, CEO, 10%",M - OptEx,$2.57,63800,301931,+27%,"+$163,966",1.0,0.0,14.0,-20.0,EGOV
+724,D,2006-05-05 17:46:00,2006-05-04,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale+OE,$6.08,-63800,301931,-17%,"-$387,860",1.0,0.0,14.0,-20.0,EGOV
+725,D,2006-05-04 13:35:32,2006-05-03,EGOV,Fraser Jeffery S,"COB, CEO, 10%",M - OptEx,$2.57,13243,301931,+5%,"+$34,035",0.0,4.0,15.0,-20.0,EGOV
+726,D,2006-05-04 13:35:32,2006-05-03,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale+OE,$6.11,-13243,301931,-4%,"-$80,946",0.0,4.0,15.0,-20.0,EGOV
+727,,2006-04-03 17:30:15,2006-03-31,EGOV,Herington Harry,COO,M - OptEx,$3.90,3460,65392,+6%,"+$13,494",2.0,3.0,2.0,-15.0,EGOV
+728,,2006-04-03 16:03:06,2006-03-31,EGOV,Bur Eric,CFO,M - OptEx,$3.90,3432,35432,+11%,"+$13,385",2.0,3.0,2.0,-15.0,EGOV
+729,,2006-01-09 10:47:26,2006-01-05,EGOV,National Information Consortium Voting Trust,10%,S - Sale,$6.00,-2000000,21450805,-9%,"-$12,000,000",-1.0,-2.0,-2.0,4.0,EGOV
+730,,2006-01-03 13:26:57,2005-12-30,EGOV,Herington Harry,COO,G - Gift,$0.00,-3000,61932,-5%,-$0,-3.0,-4.0,-3.0,5.0,EGOV
+731,D,2005-11-22 11:18:43,2005-11-18,EGOV,Kovzan Stephen M,"VP - Financial Oper., CAO",M - OptEx,$2.81,10000,0,-100%,"+$28,050",-1.0,-4.0,-6.0,-2.0,EGOV
+732,D,2005-11-22 11:18:43,2005-11-18,EGOV,Kovzan Stephen M,"VP - Financial Oper., CAO",S - Sale+OE,$6.13,-10000,0,-100%,"-$61,257",-1.0,-4.0,-6.0,-2.0,EGOV
+733,,2005-11-16 15:39:45,2005-11-16,EGOV,Bradley William F Jr,"EVP, Gen. Counsel, Sec.",S - Sale,$6.10,-4628,0,-100%,"-$28,231",3.0,6.0,3.0,6.0,EGOV
+734,,2005-11-16 13:01:22,2005-11-15,EGOV,Bradley William F Jr,"EVP, Gen. Counsel, Sec.",S - Sale,$6.10,-3350,4628,-42%,"-$20,435",3.0,6.0,3.0,6.0,EGOV
+735,,2005-11-15 12:44:30,2005-11-14,EGOV,Bradley William F Jr,"Exec.VP,GC, Sec.",S - Sale,$6.10,-65000,7978,-89%,"-$396,500",-3.0,4.0,0.0,4.0,EGOV
+736,D,2005-11-08 13:21:53,2005-11-04,EGOV,Bur Eric,CFO,M - OptEx,$3.47,193692,32000,-120%,"+$672,111",1.0,-1.0,-1.0,3.0,EGOV
+737,D,2005-11-08 13:21:53,2005-11-04,EGOV,Bur Eric,CFO,S - Sale+OE,$6.00,-193692,32000,-86%,"-$1,162,152",1.0,-1.0,-1.0,3.0,EGOV
+738,D,2005-11-08 13:07:18,2005-11-04,EGOV,Somerhalder Sam,"EVP - Operations, Admin.",M - OptEx,$3.87,101940,54266,-214%,"+$394,276",1.0,-1.0,-1.0,3.0,EGOV
+739,D,2005-11-08 13:07:18,2005-11-04,EGOV,Somerhalder Sam,"EVP - Operations, Admin.",S - Sale+OE,$6.00,-101940,54266,-65%,"-$611,640",1.0,-1.0,-1.0,3.0,EGOV
+740,D,2005-11-08 12:49:18,2005-11-04,EGOV,Bradley William F Jr,"EVP, GC, Sec.",M - OptEx,$3.64,138870,72978,-211%,"+$505,962",1.0,-1.0,-1.0,3.0,EGOV
+741,D,2005-11-08 12:49:18,2005-11-04,EGOV,Bradley William F Jr,"EVP, GC, Sec.",S - Sale+OE,$6.00,-138870,72978,-66%,"-$833,220",1.0,-1.0,-1.0,3.0,EGOV
+742,D,2005-11-08 12:25:38,2005-11-04,EGOV,Herington Harry,COO,M - OptEx,$3.87,101940,64932,-275%,"+$394,276",1.0,-1.0,-1.0,3.0,EGOV
+743,D,2005-11-08 12:25:38,2005-11-04,EGOV,Herington Harry,COO,S - Sale+OE,$6.00,-101940,64932,-61%,"-$611,640",1.0,-1.0,-1.0,3.0,EGOV
+744,D,2005-07-22 16:41:02,2005-07-20,EGOV,Bunce John L Jr,Dir,M - OptEx,$1.67,30000,150910,+25%,"+$50,100",-1.0,2.0,0.0,11.0,EGOV
+745,D,2005-07-14 12:56:12,2005-07-12,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",M - OptEx,$4.06,4812,0,-100%,"+$19,537",-2.0,3.0,10.0,20.0,EGOV
+746,D,2005-07-14 12:56:12,2005-07-12,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",S - Sale+OE,$5.00,-4812,0,-100%,"-$24,060",-2.0,3.0,10.0,20.0,EGOV
+747,D,2005-07-14 12:40:25,2005-07-13,EGOV,Wilson Peter B,Dir,M - OptEx,$1.67,30000,47265,+174%,"+$50,100",-2.0,3.0,10.0,20.0,EGOV
+748,D,2005-06-27 16:27:18,2005-06-27,EGOV,Brown Richard L,"Ex.VP - Technology, Solutions",M - OptEx,$2.10,1250,18847,+7%,"+$2,625",2.0,2.0,11.0,33.0,EGOV
+749,D,2005-06-10 12:26:00,2005-06-08,EGOV,Evans Daniel J,Dir,M - OptEx,$1.67,30000,90514,+50%,"+$50,100",0.0,-1.0,6.0,29.0,EGOV
+750,D,2005-06-02 11:42:51,2005-05-31,EGOV,Bradley William F Jr,"Exec.VP,Gen. Counsel, Sec.",M - OptEx,$1.67,50000,72978,+218%,"+$83,500",1.0,3.0,3.0,35.0,EGOV
+751,D,2005-06-02 11:42:51,2005-05-31,EGOV,Bradley William F Jr,"Exec.VP,Gen. Counsel, Sec.",S - Sale+OE,$4.36,-50000,72978,-41%,"-$218,000",1.0,3.0,3.0,35.0,EGOV
+752,D,2005-06-02 11:26:21,2005-05-31,EGOV,Somerhalder Sam,"Exec.VP - Oper., Admin.",M - OptEx,$1.67,50000,54266,>999%,"+$83,500",1.0,3.0,3.0,35.0,EGOV
+753,D,2005-06-02 11:26:21,2005-05-31,EGOV,Somerhalder Sam,"Exec.VP - Oper., Admin.",S - Sale+OE,$4.36,-50000,54266,-48%,"-$218,000",1.0,3.0,3.0,35.0,EGOV
+754,D,2005-06-02 11:07:32,2005-05-31,EGOV,Herington Harry,COO,M - OptEx,$1.67,50000,64932,+335%,"+$83,500",1.0,3.0,3.0,35.0,EGOV
+755,D,2005-06-02 11:07:32,2005-05-31,EGOV,Herington Harry,COO,S - Sale+OE,$4.36,-50000,64932,-44%,"-$218,000",1.0,3.0,3.0,35.0,EGOV
+756,D,2005-05-16 15:21:55,2005-05-16,EGOV,Brown Richard L,"Exec.VP-Technology, Solutions",M - OptEx,$2.34,12500,17597,+245%,"+$29,250",-1.0,-2.0,10.0,46.0,EGOV
+757,D,2005-04-26 17:24:51,2005-04-25,EGOV,Bur Eric,CFO,M - OptEx,$3.47,2000,32000,+7%,"+$6,940",0.0,-3.0,-5.0,27.0,EGOV
+758,D,2005-04-26 17:24:51,2005-04-25,EGOV,Bur Eric,CFO,S - Sale+OE,$4.58,-2000,32000,-6%,"-$9,160",0.0,-3.0,-5.0,27.0,EGOV
+759,D,2005-04-25 15:30:18,2005-04-22,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",1.0,-8.0,-7.0,27.0,EGOV
+760,D,2005-04-25 15:30:18,2005-04-22,EGOV,Bur Eric,CFO,S - Sale+OE,$4.55,-3000,32000,-9%,"-$13,650",1.0,-8.0,-7.0,27.0,EGOV
+761,D,2005-04-22 11:15:28,2005-04-21,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",0.0,-8.0,-8.0,29.0,EGOV
+762,D,2005-04-22 11:15:28,2005-04-21,EGOV,Bur Eric,CFO,S - Sale+OE,$4.54,-3000,32000,-9%,"-$13,613",0.0,-8.0,-8.0,29.0,EGOV
+763,D,2005-04-21 14:46:54,2005-04-20,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",3.0,2.0,-4.0,32.0,EGOV
+764,D,2005-04-21 14:46:54,2005-04-20,EGOV,Bur Eric,CFO,S - Sale+OE,$4.54,-3000,32000,-9%,"-$13,612",3.0,2.0,-4.0,32.0,EGOV
+765,D,2005-04-20 16:12:31,2005-04-19,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",3.0,2.0,-3.0,27.0,EGOV
+766,D,2005-04-20 16:12:31,2005-04-19,EGOV,Bur Eric,CFO,S - Sale+OE,$4.50,-3000,32000,-9%,"-$13,500",3.0,2.0,-3.0,27.0,EGOV
+767,D,2005-04-19 16:17:58,2005-04-18,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",-2.0,1.0,-5.0,31.0,EGOV
+768,D,2005-04-19 16:17:58,2005-04-18,EGOV,Bur Eric,CFO,S - Sale+OE,$4.50,-3000,32000,-9%,"-$13,513",-2.0,1.0,-5.0,31.0,EGOV
+769,D,2005-04-18 14:02:29,2005-04-15,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",0.0,2.0,-6.0,31.0,EGOV
+770,D,2005-04-18 14:02:29,2005-04-15,EGOV,Bur Eric,CFO,S - Sale+OE,$4.50,-3000,32000,-9%,"-$13,510",0.0,2.0,-6.0,31.0,EGOV
+771,D,2005-04-15 15:07:03,2005-04-14,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",0.0,2.0,-5.0,28.0,EGOV
+772,D,2005-04-15 15:07:03,2005-04-14,EGOV,Bur Eric,CFO,S - Sale+OE,$4.52,-3000,32000,-9%,"-$13,573",0.0,2.0,-5.0,28.0,EGOV
+773,D,2005-04-13 21:14:49,2005-04-13,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",0.0,2.0,-4.0,33.0,EGOV
+774,D,2005-04-13 21:14:49,2005-04-13,EGOV,Bur Eric,CFO,S - Sale+OE,$4.56,-3000,32000,-9%,"-$13,669",0.0,2.0,-4.0,33.0,EGOV
+775,D,2005-04-12 18:55:44,2005-04-12,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",-3.0,-3.0,-6.0,32.0,EGOV
+776,D,2005-04-12 18:55:44,2005-04-12,EGOV,Bur Eric,CFO,S - Sale+OE,$4.51,-3000,32000,-9%,"-$13,530",-3.0,-3.0,-6.0,32.0,EGOV
+777,D,2005-04-11 21:26:06,2005-04-11,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",2.0,-1.0,0.0,33.0,EGOV
+778,D,2005-04-11 21:26:06,2005-04-11,EGOV,Bur Eric,CFO,S - Sale+OE,$4.53,-3000,32000,-9%,"-$13,600",2.0,-1.0,0.0,33.0,EGOV
+779,D,2005-04-11 13:30:25,2005-04-08,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",0.0,-1.0,0.0,33.0,EGOV
+780,D,2005-04-11 13:30:25,2005-04-08,EGOV,Bur Eric,CFO,S - Sale+OE,$4.60,-3000,32000,-9%,"-$13,790",0.0,-1.0,0.0,33.0,EGOV
+781,D,2005-04-08 12:31:18,2005-04-07,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",-2.0,-3.0,-6.0,30.0,EGOV
+782,D,2005-04-08 12:31:18,2005-04-07,EGOV,Bur Eric,CFO,S - Sale+OE,$4.65,-3000,32000,-9%,"-$13,950",-2.0,-3.0,-6.0,30.0,EGOV
+783,D,2005-04-07 17:30:31,2005-04-06,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",-2.0,-3.0,-3.0,33.0,EGOV
+784,D,2005-04-07 17:30:31,2005-04-06,EGOV,Bur Eric,CFO,S - Sale+OE,$4.65,-3000,32000,-9%,"-$13,963",-2.0,-3.0,-3.0,33.0,EGOV
+785,D,2005-04-07 13:53:23,2005-04-05,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",-1.0,-3.0,-3.0,32.0,EGOV
+786,D,2005-04-07 13:53:23,2005-04-05,EGOV,Bur Eric,CFO,S - Sale+OE,$4.62,-3000,32000,-9%,"-$13,859",-1.0,-3.0,-3.0,32.0,EGOV
+787,D,2005-04-06 13:31:41,2005-04-04,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3800,32000,+13%,"+$13,186",1.0,0.0,-3.0,39.0,EGOV
+788,D,2005-04-06 13:31:41,2005-04-04,EGOV,Bur Eric,CFO,S - Sale+OE,$4.62,-3800,32000,-11%,"-$17,565",1.0,0.0,-3.0,39.0,EGOV
+789,D,2005-04-01 17:52:44,2005-04-01,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",2.0,1.0,-8.0,36.0,EGOV
+790,D,2005-04-01 17:52:44,2005-04-01,EGOV,Bur Eric,CFO,S - Sale+OE,$4.65,-3000,32000,-9%,"-$13,950",2.0,1.0,-8.0,36.0,EGOV
+791,,2005-04-01 17:28:50,2005-03-31,EGOV,Brown Richard L,"Ex.VP-Technology, Solutions",M - OptEx,$4.05,1335,5097,+35%,"+$5,407",2.0,1.0,-8.0,36.0,EGOV
+792,,2005-04-01 17:07:49,2005-03-31,EGOV,Herington Harry,COO,M - OptEx,$4.05,2025,64932,+3%,"+$8,201",2.0,1.0,-8.0,36.0,EGOV
+793,D,2005-04-01 15:43:16,2005-03-31,EGOV,Bur Eric,CFO,M - OptEx,$3.47,8000,32000,+33%,"+$27,760",-4.0,-3.0,-12.0,32.0,EGOV
+794,D,2005-04-01 15:43:16,2005-03-31,EGOV,Bur Eric,CFO,S - Sale+OE,$4.72,-8000,32000,-20%,"-$37,755",-4.0,-3.0,-12.0,32.0,EGOV
+795,D,2005-03-31 11:56:47,2005-03-30,EGOV,Bur Eric,CFO,M - OptEx,$3.47,8000,32000,+33%,"+$27,760",0.0,-2.0,-11.0,31.0,EGOV
+796,D,2005-03-31 11:56:47,2005-03-30,EGOV,Bur Eric,CFO,S - Sale+OE,$4.74,-8000,32000,-20%,"-$37,896",0.0,-2.0,-11.0,31.0,EGOV
+797,D,2005-03-29 19:19:30,2005-03-29,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",1.0,0.0,-3.0,29.0,EGOV
+798,D,2005-03-29 19:19:30,2005-03-29,EGOV,Bur Eric,CFO,S - Sale+OE,$4.63,-3000,32000,-9%,"-$13,900",1.0,0.0,-3.0,29.0,EGOV
+799,D,2005-03-29 12:17:10,2005-03-28,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",2.0,2.0,-1.0,31.0,EGOV
+800,D,2005-03-29 12:17:10,2005-03-28,EGOV,Bur Eric,CFO,S - Sale+OE,$4.57,-3000,32000,-9%,"-$13,700",2.0,2.0,-1.0,31.0,EGOV
+801,D,2005-03-25 17:53:44,2005-03-24,EGOV,Bur Eric,CFO,M - OptEx,$3.47,5500,32000,+21%,"+$19,085",2.0,0.0,1.0,31.0,EGOV
+802,D,2005-03-25 17:53:44,2005-03-24,EGOV,Bur Eric,CFO,S - Sale+OE,$4.66,-5500,32000,-15%,"-$25,638",2.0,0.0,1.0,31.0,EGOV
+803,D,2005-03-24 11:06:48,2005-03-23,EGOV,Bur Eric,CFO,M - OptEx,$3.47,3000,32000,+10%,"+$10,410",2.0,6.0,2.0,32.0,EGOV
+804,D,2005-03-24 11:06:48,2005-03-23,EGOV,Bur Eric,CFO,S - Sale+OE,$4.66,-3000,32000,-9%,"-$13,970",2.0,6.0,2.0,32.0,EGOV
+805,D,2005-03-22 19:04:09,2005-03-22,EGOV,Bur Eric,CFO,M - OptEx,$3.47,8000,32000,+33%,"+$27,760",-4.0,0.0,-4.0,26.0,EGOV
+806,D,2005-03-22 19:04:09,2005-03-22,EGOV,Bur Eric,CFO,S - Sale+OE,$4.90,-8000,32000,-20%,"-$39,214",-4.0,0.0,-4.0,26.0,EGOV
+807,D,2005-03-22 10:20:27,2005-03-21,EGOV,Bur Eric,CFO,M - OptEx,$3.47,8000,32000,+33%,"+$27,760",-4.0,-4.0,-9.0,22.0,EGOV
+808,D,2005-03-22 10:20:27,2005-03-21,EGOV,Bur Eric,CFO,S - Sale+OE,$4.71,-8000,32000,-20%,"-$37,685",-4.0,-4.0,-9.0,22.0,EGOV
+809,D,2005-03-21 16:55:26,2005-03-18,EGOV,Bur Eric,CFO,M - OptEx,$3.31,5500,32000,+21%,"+$18,217",-4.0,-7.0,-7.0,20.0,EGOV
+810,D,2005-03-21 16:55:26,2005-03-18,EGOV,Bur Eric,CFO,S - Sale+OE,$4.71,-5500,32000,-15%,"-$25,885",-4.0,-7.0,-7.0,20.0,EGOV
+811,D,2005-03-18 12:58:51,2005-03-17,EGOV,Bur Eric,CFO,M - OptEx,$1.67,3000,32000,+10%,"+$5,010",-2.0,-3.0,-5.0,22.0,EGOV
+812,D,2005-03-18 12:58:51,2005-03-17,EGOV,Bur Eric,CFO,S - Sale+OE,$4.74,-3000,32000,-9%,"-$14,220",-2.0,-3.0,-5.0,22.0,EGOV
+813,D,2005-03-17 13:38:55,2005-03-16,EGOV,Bur Eric,CFO,M - OptEx,$1.67,8000,32000,+33%,"+$13,360",0.0,-4.0,-4.0,21.0,EGOV
+814,D,2005-03-17 13:38:55,2005-03-16,EGOV,Bur Eric,CFO,S - Sale+OE,$4.78,-8000,32000,-20%,"-$38,270",0.0,-4.0,-4.0,21.0,EGOV
+815,D,2005-03-16 15:31:24,2005-03-15,EGOV,Bur Eric,CFO,M - OptEx,$1.67,8000,32000,+33%,"+$13,360",-2.0,-2.0,-6.0,19.0,EGOV
+816,D,2005-03-16 15:31:24,2005-03-15,EGOV,Bur Eric,CFO,S - Sale+OE,$4.88,-8000,32000,-20%,"-$39,052",-2.0,-2.0,-6.0,19.0,EGOV
+817,AD,2005-03-16 13:14:07,2004-09-21,EGOV,Bur Eric,CFO,M - OptEx,$3.47,350,32000,+1%,"+$1,215",-2.0,-2.0,-6.0,19.0,EGOV
+818,AD,2005-03-16 13:14:07,2004-09-21,EGOV,Bur Eric,CFO,S - Sale+OE,$6.00,-350,32000,-1%,"-$2,100",-2.0,-2.0,-6.0,19.0,EGOV
+819,D,2005-03-15 20:59:15,2005-03-14,EGOV,Kovzan Stephen M,"VP- Fin. Oper., CAO",M - OptEx,$2.23,34097,0,-100%,"+$76,024",-2.0,2.0,-6.0,19.0,EGOV
+820,D,2005-03-15 20:59:15,2005-03-14,EGOV,Kovzan Stephen M,"VP- Fin. Oper., CAO",S - Sale+OE,$4.95,-34097,0,-100%,"-$168,756",-2.0,2.0,-6.0,19.0,EGOV
+821,D,2005-03-15 20:00:56,2005-03-14,EGOV,Bur Eric,CFO,M - OptEx,$1.67,13579,32000,+74%,"+$22,677",-2.0,2.0,-6.0,19.0,EGOV
+822,D,2005-03-15 20:00:56,2005-03-14,EGOV,Bur Eric,CFO,S - Sale+OE,$4.95,-13579,32000,-30%,"-$67,206",-2.0,2.0,-6.0,19.0,EGOV
+823,,2005-02-28 14:44:51,2005-02-28,EGOV,National Information Consortium Voting Trust,10%,S - Sale,$5.00,-40000,23450805,0%,"-$200,120",1.0,3.0,-7.0,1.0,EGOV
+824,D,2005-02-25 13:58:49,2005-02-24,EGOV,Brown Richard L,"Ex.VP-Technology, Solutions",M - OptEx,$2.86,8400,3742,-180%,"+$24,031",3.0,7.0,-6.0,6.0,EGOV
+825,D,2005-02-25 13:58:49,2005-02-24,EGOV,Brown Richard L,"Ex.VP-Technology, Solutions",S - Sale+OE,$4.75,-8400,3742,-69%,"-$39,900",3.0,7.0,-6.0,6.0,EGOV
+826,D,2005-02-25 13:23:09,2005-02-23,EGOV,Brown Richard L,"Ex.VP-Technology, Solutions",M - OptEx,$2.28,14100,3742,-136%,"+$32,094",3.0,7.0,-6.0,6.0,EGOV
+827,D,2005-02-25 13:23:09,2005-02-23,EGOV,Brown Richard L,"Ex.VP-Technology, Solutions",S - Sale+OE,$4.75,-14100,3742,-79%,"-$67,011",3.0,7.0,-6.0,6.0,EGOV
+828,D,2005-02-23 20:44:07,2005-02-22,EGOV,Brown Richard L,"Ex.VP-Technology, Solutions",M - OptEx,$1.88,24076,3742,-118%,"+$45,199",3.0,11.0,-5.0,9.0,EGOV
+829,D,2005-02-23 20:44:07,2005-02-22,EGOV,Brown Richard L,"Ex.VP-Technology, Solutions",S - Sale+OE,$4.69,-24076,3742,-87%,"-$113,017",3.0,11.0,-5.0,9.0,EGOV
+830,D,2005-02-18 15:41:17,2005-02-17,EGOV,Hartley Ross C,"Dir, 10%",M - OptEx,$1.67,20000,623469,+3%,"+$33,400",1.0,8.0,5.0,10.0,EGOV
+831,,2005-02-02 12:56:35,2005-02-01,EGOV,Somerhalder Sam,"EVP - Operations, Admin.",S - Sale,$4.50,-75000,54266,-58%,"-$337,500",-1.0,-3.0,13.0,19.0,EGOV
+832,,2005-02-02 12:37:46,2005-02-01,EGOV,Herington Harry,COO,S - Sale,$4.50,-69000,62907,-52%,"-$310,500",-1.0,-3.0,13.0,19.0,EGOV
+833,,2005-02-02 12:17:57,2005-02-01,EGOV,Hartley Ross C,"Dir, 10%",S - Sale,$4.50,-290000,603469,-32%,"-$1,305,000",-1.0,-3.0,13.0,19.0,EGOV
+834,,2005-02-02 11:53:11,2005-02-01,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$4.50,-500000,301931,-62%,"-$2,250,000",-1.0,-3.0,13.0,19.0,EGOV
+835,,2005-02-02 11:23:54,2005-02-01,EGOV,Bradley William F Jr,"EVP, Gen. Counsel, Sec.",S - Sale,$4.50,-125000,72978,-63%,"-$562,500",-1.0,-3.0,13.0,19.0,EGOV
+836,,2004-10-25 13:06:10,2004-10-21,EGOV,Fraser Jeffery S,"COB, CEO, 10%",G - Gift,$0.00,-41343,141871,-23%,-$0,2.0,-7.0,10.0,2.0,EGOV
+837,AD,2004-09-28 19:10:54,2004-09-21,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",M - OptEx,$2.10,75,0,-100%,+$158,0.0,-10.0,-21.0,-17.0,EGOV
+838,AD,2004-09-28 19:10:54,2004-09-21,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",S - Sale+OE,$6.00,-75,0,-100%,-$450,0.0,-10.0,-21.0,-17.0,EGOV
+839,AD,2004-09-28 18:52:23,2004-09-20,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",M - OptEx,$2.10,780,0,-100%,"+$1,638",0.0,-10.0,-21.0,-17.0,EGOV
+840,AD,2004-09-28 18:52:23,2004-09-20,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",S - Sale+OE,$6.08,-780,0,-100%,"-$4,739",0.0,-10.0,-21.0,-17.0,EGOV
+841,D,2004-09-23 13:47:33,2004-09-21,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",M - OptEx,$1.67,75,0,-100%,+$125,-2.0,0.0,-15.0,-19.0,EGOV
+842,D,2004-09-23 13:47:33,2004-09-21,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",S - Sale+OE,$6.00,-75,0,-100%,-$450,-2.0,0.0,-15.0,-19.0,EGOV
+843,D,2004-09-23 13:24:57,2004-09-21,EGOV,Somerhalder Sam,"Exec.VP - Operations, Admin.",M - OptEx,$4.06,500,21728,+2%,"+$2,030",-2.0,0.0,-15.0,-19.0,EGOV
+844,D,2004-09-23 13:24:57,2004-09-21,EGOV,Somerhalder Sam,"Exec.VP - Operations, Admin.",S - Sale+OE,$6.00,-500,21728,-2%,"-$3,000",-2.0,0.0,-15.0,-19.0,EGOV
+845,D,2004-09-23 12:46:15,2004-09-21,EGOV,Brown Richard L,"Exec.VP-Technology, Solutions",M - OptEx,$2.22,50,2322,+2%,+$111,-2.0,0.0,-15.0,-19.0,EGOV
+846,D,2004-09-23 12:46:15,2004-09-21,EGOV,Brown Richard L,"Exec.VP-Technology, Solutions",S - Sale+OE,$6.00,-50,2322,-2%,-$300,-2.0,0.0,-15.0,-19.0,EGOV
+847,D,2004-09-23 12:15:43,2004-09-21,EGOV,Herington Harry,COO,M - OptEx,$4.06,500,34647,+1%,"+$2,030",-2.0,0.0,-15.0,-19.0,EGOV
+848,D,2004-09-23 12:15:43,2004-09-21,EGOV,Herington Harry,COO,S - Sale+OE,$6.00,-500,34647,-1%,"-$3,000",-2.0,0.0,-15.0,-19.0,EGOV
+849,,2004-09-23 11:54:11,2004-09-21,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.00,-475,141871,0%,"-$2,850",-2.0,0.0,-15.0,-19.0,EGOV
+850,D,2004-09-23 11:31:34,2004-09-21,EGOV,Bur Eric,CFO,M - OptEx,$2.10,350,32000,+1%,+$735,-2.0,0.0,-15.0,-19.0,EGOV
+851,D,2004-09-23 11:31:34,2004-09-21,EGOV,Bur Eric,CFO,S - Sale+OE,$6.00,-350,32000,-1%,"-$2,100",-2.0,0.0,-15.0,-19.0,EGOV
+852,D,2004-09-23 10:46:23,2004-09-21,EGOV,Bradley William F Jr,"EVP, Gen. Counsel, Sec.",M - OptEx,$4.06,550,23169,+2%,"+$2,233",-2.0,0.0,-15.0,-19.0,EGOV
+853,D,2004-09-23 10:46:23,2004-09-21,EGOV,Bradley William F Jr,"EVP, Gen. Counsel, Sec.",S - Sale+OE,$6.00,-550,23169,-2%,"-$3,300",-2.0,0.0,-15.0,-19.0,EGOV
+854,D,2004-09-22 19:53:08,2004-09-20,EGOV,Bur Eric,CFO,M - OptEx,$2.10,3640,32000,+13%,"+$7,644",-2.0,0.0,-12.0,-15.0,EGOV
+855,D,2004-09-22 19:53:08,2004-09-20,EGOV,Bur Eric,CFO,S - Sale+OE,$6.08,-3640,32000,-10%,"-$22,114",-2.0,0.0,-12.0,-15.0,EGOV
+856,D,2004-09-22 19:20:24,2004-09-20,EGOV,Brown Richard L,"Exec.VP-Technology, Solutions",M - OptEx,$2.22,520,2322,+29%,"+$1,154",-2.0,0.0,-12.0,-15.0,EGOV
+857,D,2004-09-22 19:20:24,2004-09-20,EGOV,Brown Richard L,"Exec.VP-Technology, Solutions",S - Sale+OE,$6.08,-520,2322,-18%,"-$3,159",-2.0,0.0,-12.0,-15.0,EGOV
+858,D,2004-09-22 18:34:53,2004-09-20,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",M - OptEx,$1.67,780,0,-100%,"+$1,303",-2.0,0.0,-12.0,-15.0,EGOV
+859,D,2004-09-22 18:34:53,2004-09-20,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",S - Sale+OE,$6.08,-780,0,-100%,"-$4,739",-2.0,0.0,-12.0,-15.0,EGOV
+860,D,2004-09-22 17:59:41,2004-09-20,EGOV,Somerhalder Sam,"EVP - Oper., Admin.",M - OptEx,$4.06,5200,21728,+31%,"+$21,112",-2.0,0.0,-12.0,-15.0,EGOV
+861,D,2004-09-22 17:59:41,2004-09-20,EGOV,Somerhalder Sam,"EVP - Oper., Admin.",S - Sale+OE,$6.08,-5200,21728,-19%,"-$31,591",-2.0,0.0,-12.0,-15.0,EGOV
+862,D,2004-09-22 17:24:35,2004-09-20,EGOV,Herington Harry,COO,M - OptEx,$4.06,5200,34647,+18%,"+$21,112",-2.0,0.0,-12.0,-15.0,EGOV
+863,D,2004-09-22 17:24:35,2004-09-20,EGOV,Herington Harry,COO,S - Sale+OE,$6.08,-5200,34647,-13%,"-$31,591",-2.0,0.0,-12.0,-15.0,EGOV
+864,D,2004-09-22 15:40:31,2004-09-20,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",M - OptEx,$4.06,5720,23169,+33%,"+$23,223",-4.0,-4.0,-17.0,-20.0,EGOV
+865,D,2004-09-22 15:40:31,2004-09-20,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",S - Sale+OE,$6.08,-5720,23169,-20%,"-$34,750",-4.0,-4.0,-17.0,-20.0,EGOV
+866,,2004-09-22 12:49:51,2004-09-20,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.08,-4940,142346,-3%,"-$30,011",-4.0,-4.0,-17.0,-20.0,EGOV
+867,D,2004-08-30 13:05:06,2004-08-27,EGOV,Bur Eric,CFO,M - OptEx,$1.67,633,32000,+2%,"+$1,057",-3.0,1.0,3.0,-7.0,EGOV
+868,D,2004-08-30 13:05:06,2004-08-27,EGOV,Bur Eric,CFO,S - Sale+OE,$5.64,-633,32000,-2%,"-$3,568",-3.0,1.0,3.0,-7.0,EGOV
+869,D,2004-08-27 19:13:56,2004-08-26,EGOV,Bur Eric,CFO,M - OptEx,$1.67,14890,32000,+87%,"+$24,866",-3.0,0.0,-5.0,-7.0,EGOV
+870,D,2004-08-27 19:13:56,2004-08-26,EGOV,Bur Eric,CFO,S - Sale+OE,$5.61,-14890,32000,-32%,"-$83,535",-3.0,0.0,-5.0,-7.0,EGOV
+871,D,2004-08-27 18:33:48,2004-08-26,EGOV,Kovzan Stephen M,"VP - Financial Oper., CAO",M - OptEx,$3.68,20000,0,-100%,"+$73,588",-3.0,0.0,-5.0,-7.0,EGOV
+872,D,2004-08-27 18:33:48,2004-08-26,EGOV,Kovzan Stephen M,"VP - Financial Oper., CAO",S - Sale+OE,$5.66,-20000,0,-100%,"-$113,202",-3.0,0.0,-5.0,-7.0,EGOV
+873,,2004-08-25 12:53:38,2004-08-24,EGOV,Hartley Ross C,"Dir, 10%",G - Gift,$0.00,-17922,198075,-8%,-$0,-3.0,-8.0,-6.0,-19.0,EGOV
+874,AD,2004-07-09 17:47:27,2004-07-06,EGOV,Kovzan Stephen M,"VP - Financial Oper., CAO",M - OptEx,$1.67,120,0,-100%,+$200,0.0,3.0,-17.0,-32.0,EGOV
+875,AD,2004-07-09 17:47:27,2004-07-06,EGOV,Kovzan Stephen M,"VP - Financial Oper., CAO",S - Sale+OE,$7.00,-120,0,-100%,-$840,0.0,3.0,-17.0,-32.0,EGOV
+876,D,2004-07-08 17:51:58,2004-07-07,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",M - OptEx,$1.67,116,0,-100%,+$194,1.0,4.0,-13.0,-23.0,EGOV
+877,D,2004-07-08 17:51:58,2004-07-07,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",S - Sale+OE,$7.00,-116,0,-100%,-$812,1.0,4.0,-13.0,-23.0,EGOV
+878,D,2004-07-08 17:23:10,2004-07-07,EGOV,Bur Eric,CFO,M - OptEx,$1.67,696,32000,+2%,"+$1,162",1.0,4.0,-13.0,-23.0,EGOV
+879,D,2004-07-08 17:23:10,2004-07-07,EGOV,Bur Eric,CFO,S - Sale+OE,$7.00,-696,32000,-2%,"-$4,872",1.0,4.0,-13.0,-23.0,EGOV
+880,D,2004-07-08 16:54:42,2004-07-07,EGOV,Brown Richard L,"EVP - Tech., Solutions",M - OptEx,$2.22,174,2322,+8%,+$386,1.0,4.0,-13.0,-23.0,EGOV
+881,D,2004-07-08 16:54:42,2004-07-07,EGOV,Brown Richard L,"EVP - Tech., Solutions",S - Sale+OE,$7.00,-174,2322,-7%,"-$1,218",1.0,4.0,-13.0,-23.0,EGOV
+882,D,2004-07-08 16:21:42,2004-07-07,EGOV,Somerhalder Sam,"Exec.VP - Oper., Admin.",M - OptEx,$4.06,1160,21728,+6%,"+$4,710",1.0,4.0,-13.0,-23.0,EGOV
+883,D,2004-07-08 16:21:42,2004-07-07,EGOV,Somerhalder Sam,"Exec.VP - Oper., Admin.",S - Sale+OE,$7.00,-1160,21728,-5%,"-$8,120",1.0,4.0,-13.0,-23.0,EGOV
+884,D,2004-07-08 15:48:26,2004-07-07,EGOV,Herington Harry,COO,M - OptEx,$4.06,1160,34647,+3%,"+$4,710",-5.0,-1.0,-18.0,-28.0,EGOV
+885,D,2004-07-08 15:48:26,2004-07-07,EGOV,Herington Harry,COO,S - Sale+OE,$7.00,-1160,34647,-3%,"-$8,120",-5.0,-1.0,-18.0,-28.0,EGOV
+886,,2004-07-08 12:59:31,2004-07-07,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$7.00,-1334,147286,-1%,"-$9,338",-5.0,-1.0,-18.0,-28.0,EGOV
+887,D,2004-07-08 12:34:09,2004-07-07,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",M - OptEx,$4.06,1160,23169,+5%,"+$4,710",-5.0,-1.0,-18.0,-28.0,EGOV
+888,D,2004-07-08 12:34:09,2004-07-07,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",S - Sale+OE,$7.00,-1160,23169,-5%,"-$8,120",-5.0,-1.0,-18.0,-28.0,EGOV
+889,D,2004-07-08 10:41:08,2004-07-06,EGOV,Brown Richard L,"Exec.VP - Tech., Solutions",M - OptEx,$2.22,180,2322,+8%,+$400,-5.0,-1.0,-18.0,-28.0,EGOV
+890,D,2004-07-08 10:41:08,2004-07-06,EGOV,Brown Richard L,"Exec.VP - Tech., Solutions",S - Sale+OE,$7.00,-180,2322,-7%,"-$1,260",-5.0,-1.0,-18.0,-28.0,EGOV
+891,D,2004-07-08 09:50:16,2004-07-06,EGOV,Bur Eric,CFO,M - OptEx,$1.67,720,32000,+2%,"+$1,202",-5.0,-1.0,-18.0,-28.0,EGOV
+892,D,2004-07-08 09:50:16,2004-07-06,EGOV,Bur Eric,CFO,S - Sale+OE,$7.00,-720,32000,-2%,"-$5,040",-5.0,-1.0,-18.0,-28.0,EGOV
+893,D,2004-07-07 18:57:47,2004-07-06,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",M - OptEx,$1.67,120,0,-100%,+$200,-5.0,-4.0,-15.0,-28.0,EGOV
+894,D,2004-07-07 18:57:47,2004-07-06,EGOV,Kovzan Stephen M,"VP - Fin. Oper., CAO",S - Sale+OE,$7.00,-156,0,-100%,"-$1,092",-5.0,-4.0,-15.0,-28.0,EGOV
+895,D,2004-07-07 18:25:03,2004-07-06,EGOV,Somerhalder Sam,"EVP - Oper., Admin.",M - OptEx,$4.06,1200,21728,+6%,"+$4,872",-5.0,-4.0,-15.0,-28.0,EGOV
+896,D,2004-07-07 18:25:03,2004-07-06,EGOV,Somerhalder Sam,"EVP - Oper., Admin.",S - Sale+OE,$7.00,-1200,21728,-5%,"-$8,400",-5.0,-4.0,-15.0,-28.0,EGOV
+897,D,2004-07-07 17:56:42,2004-07-06,EGOV,Herington Harry,COO,M - OptEx,$4.06,1200,34647,+4%,"+$4,872",-5.0,-4.0,-15.0,-28.0,EGOV
+898,D,2004-07-07 17:56:42,2004-07-06,EGOV,Herington Harry,COO,S - Sale+OE,$7.00,-1200,34647,-3%,"-$8,400",-5.0,-4.0,-15.0,-28.0,EGOV
+899,D,2004-07-07 17:27:39,2004-07-06,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",M - OptEx,$4.06,1200,23169,+5%,"+$4,872",-5.0,-4.0,-15.0,-28.0,EGOV
+900,D,2004-07-07 17:27:39,2004-07-06,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",S - Sale+OE,$7.00,-1200,23169,-5%,"-$8,400",-5.0,-4.0,-15.0,-28.0,EGOV
+901,,2004-07-07 15:07:38,2004-07-06,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$7.00,-1380,148620,-1%,"-$9,660",-1.0,-5.0,-16.0,-28.0,EGOV
+902,,2004-06-30 11:01:35,2004-06-29,EGOV,Hartley Ross C,"Dir, 10%",S - Sale,$7.04,-75000,215997,-26%,"-$527,970",1.0,-2.0,-11.0,-30.0,EGOV
+903,,2004-06-07 15:08:01,2004-06-04,EGOV,Hartley Ross C,"Dir, 10%",S - Sale,$6.01,-74500,290997,-20%,"-$447,669",-2.0,-4.0,12.0,-24.0,EGOV
+904,,2004-06-04 15:55:59,2004-06-03,EGOV,Hartley Ross C,"Dir, 10%",S - Sale,$6.00,-500,365497,0%,"-$3,000",5.0,5.0,18.0,-21.0,EGOV
+905,,2004-04-02 10:12:05,2004-03-31,EGOV,Brown Richard L,"Exec.VP-Technology, Solutions",M - OptEx,$1.45,2322,2322,New,"+$3,367",3.0,7.0,-8.0,-8.0,EGOV
+906,,2004-04-02 09:54:26,2004-03-31,EGOV,Herington Harry,COO,M - OptEx,$1.45,9072,34647,+35%,"+$13,154",3.0,7.0,-8.0,-8.0,EGOV
+907,D,2004-02-03 18:41:24,2004-02-03,EGOV,Wilson Peter B,Dir,M - OptEx,$3.88,10000,17265,+138%,"+$38,750",-1.0,-5.0,-16.0,-14.0,EGOV
+908,D,2004-02-03 18:41:24,2004-02-03,EGOV,Wilson Peter B,Dir,S - Sale+OE,$7.44,-5235,17265,-23%,"-$38,947",-1.0,-5.0,-16.0,-14.0,EGOV
+909,,2003-12-22 17:42:05,2003-12-19,EGOV,Herington Harry,COO,S - Sale,$7.34,-1104,25575,-4%,"-$8,103",6.0,13.0,8.0,-17.0,EGOV
+910,,2003-12-22 17:13:58,2003-12-19,EGOV,Somerhalder Sam,"EVP - Operations, Admin.",S - Sale,$7.34,-823,21728,-4%,"-$6,040",6.0,13.0,8.0,-17.0,EGOV
+911,,2003-12-22 16:52:11,2003-12-19,EGOV,Bradley William F Jr,"EVP, Gen. Counsel, Sec.",S - Sale,$7.34,-2612,23169,-10%,"-$19,171",6.0,13.0,8.0,-17.0,EGOV
+912,,2003-12-22 16:22:17,2003-12-19,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$7.34,-2933,150000,-2%,"-$21,527",6.0,13.0,8.0,-17.0,EGOV
+913,,2003-12-22 12:35:33,2003-12-18,EGOV,Herington Harry,COO,S - Sale,$7.25,-5311,26679,-17%,"-$38,513",-1.0,13.0,8.0,-18.0,EGOV
+914,,2003-12-22 12:01:56,2003-12-18,EGOV,Somerhalder Sam,"EVP - Operations, Admin.",S - Sale,$7.25,-6024,22551,-21%,"-$43,684",-1.0,13.0,8.0,-18.0,EGOV
+915,,2003-12-22 11:26:07,2003-12-18,EGOV,Bradley William F Jr,"EVP, Gen. Counsel, Sec.",S - Sale,$7.25,-9793,25781,-28%,"-$71,016",-1.0,13.0,8.0,-18.0,EGOV
+916,,2003-12-22 10:26:00,2003-12-18,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$7.25,-38872,152933,-20%,"-$281,887",-1.0,13.0,8.0,-18.0,EGOV
+917,,2003-12-18 17:18:00,2003-12-17,EGOV,Herington Harry,COO,S - Sale,$7.01,-1800,31990,-5%,"-$12,622",3.0,10.0,17.0,-17.0,EGOV
+918,,2003-12-18 12:49:45,2003-12-17,EGOV,Somerhalder Sam,"EVP - Operations, Admin.",S - Sale,$7.01,-2000,28575,-7%,"-$14,025",4.0,14.0,21.0,-13.0,EGOV
+919,,2003-12-18 12:25:32,2003-12-17,EGOV,Bradley William F Jr,"EVP, Gen. Counsel, Sec.",S - Sale,$7.01,-3200,35574,-8%,"-$22,440",4.0,14.0,21.0,-13.0,EGOV
+920,,2003-12-18 12:01:02,2003-12-17,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$7.01,-13000,191805,-6%,"-$91,163",4.0,14.0,21.0,-13.0,EGOV
+921,,2003-12-17 17:57:01,2003-12-16,EGOV,Herington Harry,COO,S - Sale,$6.81,-4500,33790,-12%,"-$30,664",4.0,13.0,15.0,-12.0,EGOV
+922,,2003-12-17 17:17:47,2003-12-16,EGOV,Bradley William F Jr,"EVP, Gen. Counsel, Sec.",S - Sale,$6.81,-8000,38774,-17%,"-$54,514",4.0,13.0,15.0,-12.0,EGOV
+923,,2003-12-17 15:54:44,2003-12-16,EGOV,Somerhalder Sam,"EVP - Operations, Admin.",S - Sale,$6.81,-5000,30575,-14%,"-$34,072",-1.0,12.0,15.0,-13.0,EGOV
+924,,2003-12-17 15:37:12,2003-12-16,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.81,-32500,204805,-14%,"-$221,465",-1.0,12.0,15.0,-13.0,EGOV
+925,,2003-12-17 14:50:22,2003-12-15,EGOV,Herington Harry,COO,S - Sale,$6.99,-2700,38290,-7%,"-$18,875",-1.0,12.0,15.0,-13.0,EGOV
+926,,2003-12-17 13:55:32,2003-12-15,EGOV,Bradley William F Jr,"Exec.VP - Gen. Counsel, Sec.",S - Sale,$6.99,-4800,46774,-9%,"-$33,555",-1.0,12.0,15.0,-13.0,EGOV
+927,,2003-12-17 13:27:30,2003-12-15,EGOV,Somerhalder Sam,"EVP - Operations, Admin.",S - Sale,$6.99,-3000,35575,-8%,"-$20,972",-1.0,12.0,15.0,-13.0,EGOV
+928,,2003-12-17 11:39:58,2003-12-15,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.99,-19500,237305,-8%,"-$136,318",-1.0,12.0,15.0,-13.0,EGOV
+929,,2003-12-02 18:57:39,2003-12-01,EGOV,Herington Harry,COO,S - Sale,$7.25,-4500,40990,-10%,"-$32,639",-4.0,-8.0,9.0,-26.0,EGOV
+930,,2003-12-02 18:09:36,2003-12-01,EGOV,Somerhalder Sam,"EVP-Operations, Admin.",S - Sale,$7.25,-5000,38575,-11%,"-$36,265",-4.0,-8.0,9.0,-26.0,EGOV
+931,,2003-12-02 17:31:14,2003-12-01,EGOV,Bradley William F Jr,"Exec. VP,Gen. Counsel, Sec.",S - Sale,$7.25,-8000,51574,-13%,"-$58,024",-4.0,-8.0,9.0,-26.0,EGOV
+932,,2003-12-02 15:44:33,2003-12-01,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$7.25,-32500,256805,-11%,"-$235,723",-2.0,-10.0,7.0,-28.0,EGOV
+933,,2003-12-01 20:07:45,2003-11-26,EGOV,Brown Richard L,"Exec.VP-Technology, Solutions",S - Sale,$6.90,-2763,0,-100%,"-$19,077",-3.0,-9.0,12.0,-30.0,EGOV
+934,,2003-12-01 19:47:13,2003-11-28,EGOV,Herington Harry,COO,S - Sale,$6.80,-2700,45490,-6%,"-$18,369",-3.0,-9.0,12.0,-30.0,EGOV
+935,,2003-12-01 19:05:50,2003-11-28,EGOV,Somerhalder Sam,"Exec. VP - Oper., Admin.",S - Sale,$6.80,-3000,43575,-6%,"-$20,410",-3.0,-9.0,12.0,-30.0,EGOV
+936,,2003-12-01 18:42:03,2003-11-28,EGOV,Bradley William F Jr,"Exec. VP, GC, Sec.",S - Sale,$6.80,-4800,59574,-7%,"-$32,656",-3.0,-9.0,12.0,-30.0,EGOV
+937,,2003-12-01 18:16:48,2003-11-28,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.80,-19500,289305,-6%,"-$132,665",-3.0,-9.0,12.0,-30.0,EGOV
+938,,2003-12-01 17:40:43,2003-11-26,EGOV,Herington Harry,COO,S - Sale,$6.87,-5400,48190,-10%,"-$37,099",-3.0,-9.0,12.0,-30.0,EGOV
+939,,2003-12-01 15:54:26,2003-11-26,EGOV,Somerhalder Sam,"Exec. VP - Oper., Admin.",S - Sale,$6.87,-6000,46575,-11%,"-$41,222",7.0,-2.0,19.0,-22.0,EGOV
+940,,2003-12-01 15:06:37,2003-11-26,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",S - Sale,$6.87,-9600,64374,-13%,"-$65,954",7.0,-2.0,19.0,-22.0,EGOV
+941,,2003-12-01 14:07:27,2003-11-26,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.87,-39000,308805,-11%,"-$267,940",7.0,-2.0,19.0,-22.0,EGOV
+942,,2003-11-26 18:35:29,2003-11-25,EGOV,Somerhalder Sam,"Exec.VP-Operations, Admin.",S - Sale,$6.75,-2700,52575,-5%,"-$18,232",-1.0,0.0,14.0,-21.0,EGOV
+943,,2003-11-26 17:50:06,2003-11-25,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.75,-17550,347805,-5%,"-$118,508",-1.0,0.0,14.0,-21.0,EGOV
+944,,2003-11-26 16:41:00,2003-11-25,EGOV,Bradley William F Jr,"Exec.VP - Gen. Counsel, Sec.",S - Sale,$6.75,-4320,73974,-6%,"-$29,171",-1.0,0.0,14.0,-21.0,EGOV
+945,,2003-11-26 16:07:42,2003-11-25,EGOV,Herington Harry,COO,S - Sale,$6.75,-2430,53590,-4%,"-$16,409",-1.0,0.0,14.0,-21.0,EGOV
+946,,2003-11-25 18:37:46,2003-11-24,EGOV,Somerhalder Sam,"Exec.VP-Operations, Admin.",S - Sale,$6.79,-2001,55275,-3%,"-$13,593",8.0,11.0,20.0,-14.0,EGOV
+947,,2003-11-25 18:14:18,2003-11-24,EGOV,Herington Harry,COO,S - Sale,$6.79,-1799,56020,-3%,"-$12,221",8.0,11.0,20.0,-14.0,EGOV
+948,,2003-11-25 17:32:32,2003-11-24,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",S - Sale,$6.79,-3200,78294,-4%,"-$21,738",8.0,11.0,20.0,-14.0,EGOV
+949,,2003-11-25 15:35:00,2003-11-24,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.79,-13000,365355,-3%,"-$88,310",-4.0,7.0,16.0,-18.0,EGOV
+950,,2003-11-24 18:51:34,2003-11-21,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.63,-26001,396355,-6%,"-$172,398",-4.0,9.0,16.0,-23.0,EGOV
+951,,2003-11-24 17:49:28,2003-11-21,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",S - Sale,$6.63,-6400,81494,-7%,"-$42,435",-4.0,9.0,16.0,-23.0,EGOV
+952,,2003-11-24 17:22:00,2003-11-21,EGOV,Somerhalder Sam,"Exec.VP-Operations, Admin.",S - Sale,$6.63,-4001,57276,-7%,"-$26,528",-4.0,9.0,16.0,-23.0,EGOV
+953,,2003-11-24 16:54:26,2003-11-21,EGOV,Herington Harry,COO,S - Sale,$6.63,-3598,57819,-6%,"-$23,856",-4.0,9.0,16.0,-23.0,EGOV
+954,D,2003-11-24 15:22:29,2003-11-21,EGOV,Evans Daniel J,Dir,M - OptEx,$3.88,10000,60514,+20%,"+$38,750",4.0,14.0,20.0,-18.0,EGOV
+955,D,2003-11-24 15:22:29,2003-11-21,EGOV,Evans Daniel J,Dir,S - Sale+OE,$6.72,-10000,60514,-14%,"-$67,200",4.0,14.0,20.0,-18.0,EGOV
+956,,2003-11-24 13:09:44,2003-11-20,EGOV,Herington Harry,COO,S - Sale,$6.40,-3601,61417,-6%,"-$23,061",4.0,14.0,20.0,-18.0,EGOV
+957,,2003-11-24 12:12:56,2003-11-20,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.40,-25999,404356,-6%,"-$166,502",4.0,14.0,20.0,-18.0,EGOV
+958,,2003-11-21 20:51:35,2003-11-19,EGOV,Herington Harry,COO,S - Sale,$6.07,-4995,65018,-7%,"-$30,314",4.0,7.0,14.0,-18.0,EGOV
+959,,2003-11-21 20:01:57,2003-11-19,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.07,-36075,430355,-8%,"-$218,938",4.0,7.0,14.0,-18.0,EGOV
+960,M,2003-11-21 19:08:02,2003-11-19,EGOV,Somerhalder Sam,"Exec.VP - Operations, Admin",S - Sale,$6.21,-9550,61277,-13%,"-$59,299",4.0,7.0,14.0,-18.0,EGOV
+961,M,2003-11-21 18:16:59,2003-11-19,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",S - Sale,$6.21,-15280,87894,-15%,"-$94,879",4.0,7.0,14.0,-18.0,EGOV
+962,M,2003-11-19 19:33:39,2003-11-17,EGOV,Fraser Jeffery S,"COB, CEO, 10%",S - Sale,$6.14,-48750,466430,-9%,"-$299,163",3.0,7.0,18.0,-15.0,EGOV
+963,M,2003-11-19 18:34:22,2003-11-17,EGOV,Herington Harry,COO,S - Sale,$6.14,-6755,70013,-9%,"-$41,453",3.0,7.0,18.0,-15.0,EGOV
+964,M,2003-11-19 17:39:35,2003-11-17,EGOV,Somerhalder Sam,"EVP - Oper., Admin.",S - Sale,$6.14,-7500,70827,-10%,"-$46,025",3.0,7.0,18.0,-15.0,EGOV
+965,M,2003-11-19 16:15:50,2003-11-17,EGOV,Bradley William F Jr,"Exec.VP, Gen. Counsel, Sec.",S - Sale,$6.14,-12000,103174,-10%,"-$73,640",3.0,7.0,18.0,-15.0,EGOV
+966,D,2003-11-12 17:51:05,2003-11-11,EGOV,Kovzan Stephen M,"VP-Fin. Oper.,Chief Acct.Offic",M - OptEx,$3.73,30000,0,-100%,"+$112,000",0.0,-14.0,1.0,-18.0,EGOV
+967,D,2003-11-12 17:51:05,2003-11-11,EGOV,Kovzan Stephen M,"VP-Fin. Oper.,Chief Acct.Offic",S - Sale+OE,$6.91,-30000,0,-100%,"-$207,300",0.0,-14.0,1.0,-18.0,EGOV
+968,,2003-10-31 18:03:18,2003-10-29,EGOV,Hartley Ross C,"Dir, 10%",G - Gift,$0.00,-200000,365997,-35%,-$0,7.0,23.0,46.0,7.0,EGOV
+969,,2003-09-02 17:31:09,2003-08-29,EGOV,Bur Eric,CFO,P - Purchase,$3.29,5000,32000,+19%,"+$16,450",6.0,-4.0,43.0,78.0,EGOV
+970,M,2003-08-28 11:59:39,2003-08-26,EGOV,Hartley Ross C,"Dir, 10%",P - Purchase,$3.14,50000,200000,+33%,"+$157,100",0.0,4.0,51.0,93.0,EGOV
+971,DM,2003-08-20 14:26:20,2003-08-18,EGOV,Agarwal P K,"EVP, Chief Inf. Officer",M - OptEx,$1.67,25000,2637,-112%,"+$41,750",0.0,-9.0,16.0,81.0,EGOV
+972,DM,2003-08-20 14:26:20,2003-08-18,EGOV,Agarwal P K,"EVP, Chief Inf. Officer",S - Sale+OE,$3.35,-25000,2637,-90%,"-$83,775",0.0,-9.0,16.0,81.0,EGOV
+973,DM,2003-08-13 16:09:03,2003-08-11,EGOV,Agarwal P K,"EVP , Chief Inf. Officer",M - OptEx,$2.10,18750,2637,-116%,"+$39,375",2.0,9.0,11.0,99.0,EGOV
+974,DM,2003-08-13 16:09:03,2003-08-11,EGOV,Agarwal P K,"EVP , Chief Inf. Officer",S - Sale+OE,$3.09,-18750,2637,-88%,"-$57,983",2.0,9.0,11.0,99.0,EGOV
+975,D,2003-08-12 15:33:12,2003-08-08,EGOV,Agarwal P K,"EVP, Chief Inf. Officer",M - OptEx,$2.10,6250,2637,-173%,"+$13,125",9.0,10.0,5.0,114.0,EGOV
+976,D,2003-08-12 15:33:12,2003-08-08,EGOV,Agarwal P K,"EVP, Chief Inf. Officer",S - Sale+OE,$3.03,-6250,2637,-70%,"-$18,938",9.0,10.0,5.0,114.0,EGOV
+977,D,2003-08-07 18:04:52,2003-08-05,EGOV,Agarwal P K,"EVP, CIO",M - OptEx,$2.10,25000,2637,-112%,"+$52,500",-1.0,4.0,8.0,119.0,EGOV
+978,D,2003-08-07 18:04:52,2003-08-05,EGOV,Agarwal P K,"EVP, CIO",S - Sale+OE,$3.03,-25000,2637,-90%,"-$75,650",-1.0,4.0,8.0,119.0,EGOV

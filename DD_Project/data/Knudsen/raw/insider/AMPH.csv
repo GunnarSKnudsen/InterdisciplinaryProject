@@ -1,138 +1,534 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-04-04 20:20:06,2022-04-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$36.69,-500,76373,-1%,"-$18,345",,,,,AMPH
-1,D,2022-03-18 18:57:57,2022-03-16,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$33.96,-50777,104987,-33%,"-$1,724,427",,,,,AMPH
-2,D,2022-03-17 20:38:00,2022-03-15,AMPH,Prins Richard K,Dir,S - Sale+OE,$34.02,-10000,45179,-18%,"-$340,208",,,,,AMPH
-3,D,2022-03-17 18:13:58,2022-03-15,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$34.46,-7900,114144,-6%,"-$272,248",,,,,AMPH
-4,D,2022-03-17 17:13:34,2022-03-16,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$33.71,-10000,47206,-17%,"-$337,069",,,,,AMPH
-5,D,2022-03-09 16:06:12,2022-03-07,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$29.35,-13026,106042,-11%,"-$382,313",,,,,AMPH
-6,,2022-03-01 18:54:56,2022-03-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$27.27,-500,76873,-1%,"-$13,635",,,,,AMPH
-7,D,2022-02-09 21:07:53,2022-02-08,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$26.77,-7000,181221,-4%,"-$187,390",,,,,AMPH
-8,D,2022-02-09 21:06:57,2022-02-08,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$26.95,-10000,106042,-9%,"-$269,500",,,,,AMPH
-9,,2022-02-02 16:05:46,2022-02-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$24.08,-500,77373,-1%,"-$12,041",,,,,AMPH
-10,D,2022-01-11 20:28:04,2022-01-10,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$25.36,-20928,181221,-10%,"-$530,684",,,,,AMPH
+0,D,2022-03-09 16:06:12,2022-03-07,AMPH,Peters William J,"CFO, EVP, Treasurer",M - OptEx,$13.35,13026,106042,+14%,"+$173,897",,,,,AMPH
+1,D,2022-03-09 16:06:12,2022-03-07,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$29.35,-13026,106042,-11%,"-$382,313",,,,,AMPH
+2,,2022-03-01 18:54:56,2022-03-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$27.27,-500,76873,-1%,"-$13,635",,,,,AMPH
+3,D,2022-02-09 21:07:53,2022-02-08,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$10.93,7000,181221,+4%,"+$76,510",,,,,AMPH
+4,D,2022-02-09 21:07:53,2022-02-08,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$26.77,-7000,181221,-4%,"-$187,390",,,,,AMPH
+5,D,2022-02-09 21:06:57,2022-02-08,AMPH,Peters William J,"CFO, EVP, Treasurer",M - OptEx,$14.95,10000,106042,+10%,"+$149,500",,,,,AMPH
+6,D,2022-02-09 21:06:57,2022-02-08,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$26.95,-10000,106042,-9%,"-$269,500",,,,,AMPH
+7,,2022-02-02 16:05:46,2022-02-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$24.08,-500,77373,-1%,"-$12,041",,,,,AMPH
+8,D,2022-01-11 20:28:04,2022-01-10,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$10.93,14000,181221,+8%,"+$153,020",,,,,AMPH
+9,D,2022-01-11 20:28:04,2022-01-10,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$25.36,-20928,181221,-10%,"-$530,684",,,,,AMPH
+10,DM,2022-01-11 18:22:31,2022-01-07,AMPH,Peters William J,"CFO, EVP, Treasurer",M - OptEx,$14.40,47776,106042,+82%,"+$687,974",,,,,AMPH
 11,DM,2022-01-11 18:22:31,2022-01-07,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$24.75,-47776,106042,-31%,"-$1,182,622",,,,,AMPH
 12,,2022-01-04 16:54:07,2022-01-03,AMPH,Petersen Floyd F.,Dir,S - Sale,$23.22,-500,77873,-1%,"-$11,609",,,,,AMPH
-13,D,2022-01-04 16:52:16,2021-12-30,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$23.40,-10000,106042,-9%,"-$234,000",,,,,AMPH
-14,,2021-12-23 16:27:06,2021-12-22,AMPH,Petersen Floyd F.,Dir,S - Sale,$22.50,-1000,78373,-1%,"-$22,503",,,,,AMPH
-15,D,2021-12-22 17:04:21,2021-12-21,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$22.40,-8256,106042,-7%,"-$184,934",,,,,AMPH
-16,D,2021-12-17 19:52:06,2021-12-16,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$22.40,-1744,106042,-2%,"-$39,066",,,,,AMPH
-17,D,2021-12-13 19:36:13,2021-12-10,AMPH,Prins Richard K,Dir,S - Sale+OE,$21.36,-5291,45179,-10%,"-$113,006",,,,,AMPH
-18,D,2021-11-23 20:17:21,2021-11-22,AMPH,Prins Richard K,Dir,S - Sale+OE,$21.22,-5000,45179,-10%,"-$106,100",,,,,AMPH
-19,D,2021-11-12 19:44:36,2021-11-11,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$21.67,-7813,187789,-4%,"-$169,308",,,,,AMPH
-20,D,2021-11-12 19:42:31,2021-11-11,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$21.33,-10000,105689,-9%,"-$213,300",,,,,AMPH
-21,,2021-08-17 16:25:53,2021-08-16,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale,$19.35,-6589,105689,-6%,"-$127,524",,,,,AMPH
-22,D,2021-08-04 16:05:32,2021-08-02,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$21.24,-9123,187789,-5%,"-$193,734",,,,,AMPH
-23,D,2021-08-03 16:06:51,2021-08-02,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,S - Sale+OE,$21.14,-8932,56536,-14%,"-$188,805",,,,,AMPH
-24,D,2021-07-27 18:46:06,2021-07-26,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$20.87,-6000,190912,-3%,"-$125,220",,,,,AMPH
-25,D,2021-07-22 16:13:08,2021-07-20,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$20.57,-5187,190912,-3%,"-$106,697",,,,,AMPH
-26,D,2021-07-16 18:29:47,2021-07-15,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,S - Sale+OE,$20.01,-31524,56536,-36%,"-$630,688",,,,,AMPH
-27,D,2021-07-08 18:32:51,2021-07-07,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$20.37,-10000,112278,-8%,"-$203,739",,,,,AMPH
-28,DM,2021-06-10 16:45:43,2021-06-08,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$19.43,-12912,190912,-6%,"-$250,829",,,,,AMPH
-29,DM,2021-06-08 20:59:52,2021-06-04,AMPH,Prins Richard K,Dir,S - Sale+OE,$18.74,-10000,45179,-18%,"-$187,351",,,,,AMPH
-30,D,2021-06-08 20:58:43,2021-06-07,AMPH,Petersen Floyd F.,Dir,S - Sale+OE,$19.34,-15827,79373,-17%,"-$306,039",,,,,AMPH
-31,DM,2021-06-08 20:56:23,2021-06-07,AMPH,Lee Howard,Dir,S - Sale+OE,$19.30,-15827,138933,-10%,"-$305,449",,,,,AMPH
-32,D,2021-06-04 19:35:03,2021-06-03,AMPH,Petersen Floyd F.,Dir,S - Sale+OE,$18.65,-10000,73354,-12%,"-$186,527",,,,,AMPH
-33,D,2021-06-02 19:34:03,2021-06-01,AMPH,Koo Richard,Dir,S - Sale+OE,$19.28,-25827,263270,-9%,"-$498,009",,,,,AMPH
-34,D,2021-05-24 16:45:23,2021-05-20,AMPH,Lee Howard,Dir,S - Sale+OE,$19.74,-10000,132914,-7%,"-$197,354",,,,,AMPH
-35,DM,2021-05-18 16:06:23,2021-05-14,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$19.98,-12823,56032,-19%,"-$256,140",,,,,AMPH
-36,DM,2021-05-17 19:38:20,2021-05-13,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$19.71,-18119,194634,-9%,"-$357,170",,,,,AMPH
-37,D,2021-05-14 19:01:34,2021-05-13,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$19.34,-25827,41187,-39%,"-$499,435",,,,,AMPH
-38,D,2021-05-13 18:42:53,2021-05-11,AMPH,Prins Richard K,Dir,S - Sale+OE,$18.90,-15827,39160,-29%,"-$299,110",,,,,AMPH
-39,DM,2021-05-13 18:39:37,2021-05-11,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,S - Sale+OE,$19.14,-14592,59218,-20%,"-$279,339",,,,,AMPH
-40,,2021-03-17 19:40:41,2021-03-15,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$19.03,-4244,81,-98%,"-$80,745",,,,,AMPH
-41,M,2021-02-18 18:58:51,2021-02-16,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$18.59,-30467,10529628,0%,"-$566,315",,,,,AMPH
-42,M,2021-02-12 19:11:42,2021-02-10,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$18.93,-48847,10560095,0%,"-$924,750",,,,,AMPH
-43,M,2021-02-09 17:30:23,2021-02-05,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$18.92,-40886,10608942,0%,"-$773,546",,,,,AMPH
-44,M,2021-02-05 20:35:51,2021-02-03,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$18.69,-41869,10649828,0%,"-$782,343",,,,,AMPH
-45,M,2021-02-03 16:15:44,2021-02-01,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$18.43,-37931,10691697,0%,"-$698,941",,,,,AMPH
-46,,2021-02-02 16:16:26,2021-02-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$18.26,-639,73354,-1%,"-$11,669",,,,,AMPH
-47,,2021-01-20 17:58:04,2021-01-19,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$18.67,-6495,89548,-7%,"-$121,237",,,,,AMPH
-48,,2020-12-02 16:20:09,2020-12-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$17.87,-500,73993,-1%,"-$8,936",,,,,AMPH
-49,,2020-11-03 16:05:33,2020-11-02,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.84,-500,74493,-1%,"-$9,920",,,,,AMPH
-50,,2020-10-02 16:15:22,2020-10-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$18.89,-500,74993,-1%,"-$9,446",,,,,AMPH
-51,,2020-09-02 17:27:57,2020-09-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.90,-500,75493,-1%,"-$9,948",,,,,AMPH
-52,,2020-08-18 16:15:04,2020-08-14,AMPH,Maris David,Dir,P - Purchase,$20.26,1000,13151,+8%,"+$20,260",,,,,AMPH
-53,,2020-08-18 16:12:19,2020-08-14,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$20.36,-5512,95652,-5%,"-$112,223",,,,,AMPH
-54,,2020-08-12 18:34:05,2020-08-11,AMPH,Prins Richard K,Dir,S - Sale,$20.33,-6000,39160,-13%,"-$121,976",,,,,AMPH
-55,,2020-08-04 20:22:43,2020-08-03,AMPH,Petersen Floyd F.,Dir,S - Sale,$20.62,-500,75993,-1%,"-$10,308",,,,,AMPH
-56,DM,2020-07-22 18:28:20,2020-07-20,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,S - Sale+OE,$21.14,-10164,48455,-17%,"-$214,884",,,,,AMPH
-57,D,2020-07-08 16:05:51,2020-07-06,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$22.00,-13656,101164,-12%,"-$300,405",,,,,AMPH
-58,,2020-07-02 19:36:47,2020-07-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$22.27,-500,76493,-1%,"-$11,136",,,,,AMPH
-59,D,2020-06-10 19:39:09,2020-06-09,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,S - Sale+OE,$20.41,-23405,48583,-33%,"-$477,602",,,,,AMPH
-60,DM,2020-06-05 16:15:55,2020-06-03,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$18.98,-22969,183904,-11%,"-$435,855",,,,,AMPH
-61,,2020-06-02 17:46:50,2020-06-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$18.97,-500,71142,-1%,"-$9,483",,,,,AMPH
-62,D,2020-05-28 16:05:16,2020-05-27,AMPH,Koo Richard,Dir,S - Sale+OE,$18.18,-47782,257419,-16%,"-$868,892",,,,,AMPH
-63,DM,2020-05-27 17:02:02,2020-05-22,AMPH,Lee Howard,Dir,S - Sale+OE,$18.48,-20000,128081,-14%,"-$369,628",,,,,AMPH
-64,DM,2020-05-22 16:05:23,2020-05-20,AMPH,Lee Howard,Dir,S - Sale+OE,$18.45,-27782,128081,-18%,"-$512,466",,,,,AMPH
-65,DM,2020-05-18 16:36:12,2020-05-14,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$18.02,-37782,35336,-52%,"-$680,657",,,,,AMPH
-66,DM,2020-05-18 16:31:57,2020-05-14,AMPH,Petersen Floyd F.,Dir,S - Sale+OE,$18.20,-47682,71642,-40%,"-$867,844",,,,,AMPH
-67,D,2020-05-14 16:18:01,2020-05-12,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$19.00,-10000,35336,-22%,"-$190,000",,,,,AMPH
-68,D,2020-05-14 16:17:01,2020-05-12,AMPH,Prins Richard K,Dir,S - Sale+OE,$19.00,-30282,39309,-44%,"-$575,419",,,,,AMPH
-69,D,2020-05-14 16:15:48,2020-05-12,AMPH,Petersen Floyd F.,Dir,S - Sale+OE,$19.20,-100,71642,0%,"-$1,920",,,,,AMPH
-70,,2020-05-05 17:05:26,2020-05-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$16.66,-500,71642,-1%,"-$8,329",,,,,AMPH
-71,,2020-04-02 17:46:33,2020-04-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$14.36,-500,72142,-1%,"-$7,181",,,,,AMPH
-72,,2020-03-17 20:07:59,2020-03-13,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$13.94,-4701,70096,-6%,"-$65,539",,,,,AMPH
-73,,2020-03-03 16:15:49,2020-03-02,AMPH,Petersen Floyd F.,Dir,S - Sale,$15.56,-500,72642,-1%,"-$7,782",,,,,AMPH
-74,DM,2020-02-07 20:08:59,2020-02-05,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$19.75,-44401,138898,-24%,"-$876,765",,,,,AMPH
-75,,2020-02-04 16:07:40,2020-02-03,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.12,-500,73142,-1%,"-$9,558",,,,,AMPH
-76,,2020-01-23 16:05:37,2020-01-21,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$20.07,-3990,78975,-5%,"-$80,071",,,,,AMPH
-77,D,2020-01-10 16:05:42,2020-01-08,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$18.44,-25000,138898,-15%,"-$460,978",,,,,AMPH
-78,,2020-01-03 17:05:33,2020-01-02,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.14,-1000,73642,-1%,"-$19,142",,,,,AMPH
-79,,2019-12-20 16:06:08,2019-12-18,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$19.13,-8205,138898,-6%,"-$156,958",,,,,AMPH
-80,,2019-12-04 16:06:10,2019-12-02,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.25,-500,74642,-1%,"-$9,623",,,,,AMPH
-81,,2019-11-05 16:06:04,2019-11-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.48,-500,75142,-1%,"-$9,738",,,,,AMPH
-82,,2019-10-03 18:21:03,2019-10-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.92,-500,75642,-1%,"-$9,959",,,,,AMPH
-83,,2019-09-20 16:05:30,2019-09-18,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$21.32,-7340,147103,-5%,"-$156,509",,,,,AMPH
-84,D,2019-09-18 16:32:56,2019-09-16,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$21.76,-9800,82453,-11%,"-$213,256",,,,,AMPH
-85,,2019-09-17 20:13:43,2019-09-16,AMPH,Petersen Floyd F.,Dir,S - Sale,$21.75,-500,76142,-1%,"-$10,877",,,,,AMPH
-86,,2019-09-17 19:11:13,2019-09-13,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale,$21.45,-3000,36129,-8%,"-$64,340",,,,,AMPH
-87,,2019-09-12 19:50:35,2019-09-11,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$20.82,-300000,10779017,-3%,"-$6,246,000",,,,,AMPH
-88,M,2019-09-09 20:16:42,2019-09-05,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale,$21.65,-3910,39129,-9%,"-$84,638",,,,,AMPH
-89,DM,2019-08-27 19:36:50,2019-08-23,AMPH,Prins Richard K,Dir,S - Sale+OE,$22.59,-7500,39309,-16%,"-$169,420",,,,,AMPH
-90,,2019-08-16 17:07:58,2019-08-15,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$21.00,-4942,82453,-6%,"-$103,782",,,,,AMPH
-91,D,2019-08-15 16:06:42,2019-08-13,AMPH,Prins Richard K,Dir,S - Sale+OE,$20.78,-10000,39309,-20%,"-$207,781",,,,,AMPH
-92,DM,2019-08-14 17:18:21,2019-08-12,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$20.53,-15518,43039,-27%,"-$318,615",,,,,AMPH
-93,,2019-07-12 19:05:07,2019-07-10,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$20.31,-6615,154443,-4%,"-$134,333",,,,,AMPH
-94,D,2019-05-07 20:25:44,2019-05-06,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$22.76,-9600,161775,-6%,"-$218,496",,,,,AMPH
-95,D,2019-05-02 16:07:23,2019-05-01,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$21.97,-10000,159947,-6%,"-$219,700",,,,,AMPH
-96,,2019-04-18 16:05:46,2019-04-16,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$20.67,-9478,159947,-6%,"-$195,879",,,,,AMPH
-97,DM,2019-03-18 19:56:44,2019-03-14,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$20.35,-32336,176028,-16%,"-$657,930",,,,,AMPH
-98,D,2019-03-06 17:20:04,2019-03-04,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$25.36,-1500,75550,-2%,"-$38,037",,,,,AMPH
-99,D,2019-03-04 20:44:41,2019-03-01,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$25.00,-3200,156698,-2%,"-$80,000",,,,,AMPH
-100,D,2019-03-01 20:01:09,2019-03-01,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$24.99,-7500,168318,-4%,"-$187,425",,,,,AMPH
-101,D,2019-02-15 20:09:51,2019-02-15,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$24.37,-10016,75550,-12%,"-$244,090",,,,,AMPH
-102,D,2019-02-15 16:56:51,2019-02-14,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$23.99,-7519,168318,-4%,"-$180,381",,,,,AMPH
-103,DM,2019-02-14 18:30:12,2019-02-12,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$23.86,-8868,42252,-17%,"-$211,632",,,,,AMPH
-104,D,2019-02-07 16:05:39,2019-02-05,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$23.00,-4289,156698,-3%,"-$98,647",,,,,AMPH
-105,D,2019-02-06 20:12:25,2019-02-05,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$23.18,-11397,42252,-21%,"-$264,167",,,,,AMPH
-106,,2019-01-25 16:11:48,2019-01-23,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$22.39,-15497,168318,-8%,"-$347,019",,,,,AMPH
-107,DM,2019-01-24 20:47:22,2019-01-22,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$22.52,-7000,43832,-14%,"-$157,650",,,,,AMPH
-108,DM,2019-01-16 19:10:11,2019-01-14,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$22.15,-3183,43832,-7%,"-$70,503",,,,,AMPH
-109,,2019-01-04 17:04:55,2019-01-02,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$19.52,-3245,75550,-4%,"-$63,354",,,,,AMPH
-110,,2018-12-17 20:05:21,2018-12-14,AMPH,Prins Richard K,Dir,S - Sale,$20.65,-1616,33818,-5%,"-$33,370",,,,,AMPH
-111,,2018-12-17 20:02:07,2018-12-14,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$20.48,-43577,10971702,0%,"-$892,309",,,,,AMPH
-112,M,2018-12-13 20:08:16,2018-12-11,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$21.29,-133915,11015279,-1%,"-$2,851,052",,,,,AMPH
-113,M,2018-12-13 20:05:44,2018-12-11,AMPH,"Applied Physics & Chemistry Laboratories, Inc.",10%,S - Sale,$21.29,-133915,7327679,-2%,"-$2,851,052",,,,,AMPH
-114,D,2018-12-12 20:39:22,2018-12-11,AMPH,Koo Richard,Dir,S - Sale+OE,$21.32,-29278,251928,-10%,"-$624,075",,,,,AMPH
-115,D,2018-12-12 20:37:04,2018-12-10,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$21.72,-58557,30706,-66%,"-$1,271,782",,,,,AMPH
-116,DM,2018-12-07 18:36:10,2018-12-04,AMPH,Lee Howard,Dir,S - Sale+OE,$21.67,-29278,123381,-19%,"-$634,464",,,,,AMPH
-117,,2018-12-06 15:56:10,2018-12-03,AMPH,Zhou Rong,"EVP, Production Center",S - Sale,$22.00,-1089,157787,-1%,"-$23,958",,,,,AMPH
-118,D,2018-12-06 15:54:25,2018-12-03,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$22.44,-16630,183815,-8%,"-$373,177",,,,,AMPH
-119,D,2018-12-04 21:00:58,2018-12-03,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$22.40,-10000,78795,-11%,"-$224,001",,,,,AMPH
-120,D,2018-12-03 20:08:59,2018-11-30,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$21.50,-13980,43832,-24%,"-$300,513",,,,,AMPH
-121,D,2018-11-30 16:15:08,2018-11-29,AMPH,Prins Richard K,Dir,S - Sale+OE,$20.50,-5000,35434,-12%,"-$102,500",,,,,AMPH
-122,,2018-11-29 18:12:53,2018-11-28,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale,$20.49,-1520,46312,-3%,"-$31,140",,,,,AMPH
-123,,2018-11-26 20:48:27,2018-11-23,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale,$20.26,-1299,47832,-3%,"-$26,315",,,,,AMPH
-124,D,2018-11-15 19:23:43,2018-11-14,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$20.39,-29278,29845,-50%,"-$596,949",,,,,AMPH
-125,D,2018-11-15 19:21:28,2018-11-14,AMPH,Prins Richard K,Dir,S - Sale+OE,$20.23,-5000,35434,-12%,"-$101,167",,,,,AMPH
-126,,2018-11-15 19:20:14,2018-11-14,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$20.41,-16015,183490,-8%,"-$326,855",,,,,AMPH
-127,M,2018-11-13 17:10:09,2018-11-08,AMPH,Zhou Rong,"EVP, Production Center",S - Sale,$20.50,-2173,157971,-1%,"-$44,549",,,,,AMPH
-128,DM,2018-11-13 17:09:23,2018-11-08,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$20.74,-38484,78152,-33%,"-$797,972",,,,,AMPH
-129,DM,2018-11-13 17:08:39,2018-11-08,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$20.97,-17808,49131,-27%,"-$373,421",,,,,AMPH
-130,DM,2018-11-09 21:52:23,2018-11-08,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$20.77,-52296,199505,-21%,"-$1,086,420",,,,,AMPH
-131,,2018-08-17 16:05:49,2018-08-16,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$17.59,-2407,86836,-3%,"-$42,333",,,,,AMPH
-132,D,2018-08-15 16:29:10,2018-08-14,AMPH,Prins Richard K,Dir,S - Sale+OE,$17.82,-10000,35434,-22%,"-$178,180",,,,,AMPH
-133,,2018-07-12 17:53:58,2018-07-11,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$16.77,-14399,199505,-7%,"-$241,422",,,,,AMPH
-134,,2018-07-11 16:03:23,2018-07-09,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$16.46,-3250,89243,-4%,"-$53,498",,,,,AMPH
-135,,2018-06-13 16:05:59,2018-06-12,AMPH,Zasloff Michael A,Dir,S - Sale,$16.52,-15000,29845,-33%,"-$247,842",,,,,AMPH
-136,M,2018-05-17 19:05:36,2018-05-15,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",P - Purchase,$16.07,40000,11093342,0%,"+$642,824",,,,,AMPH
+13,D,2022-01-04 16:52:16,2021-12-30,AMPH,Peters William J,"CFO, EVP, Treasurer",M - OptEx,$14.40,10000,106042,+10%,"+$144,000",,,,,AMPH
+14,D,2022-01-04 16:52:16,2021-12-30,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$23.40,-10000,106042,-9%,"-$234,000",,,,,AMPH
+15,,2021-12-23 16:27:06,2021-12-22,AMPH,Petersen Floyd F.,Dir,S - Sale,$22.50,-1000,78373,-1%,"-$22,503",,,,,AMPH
+16,D,2021-12-22 17:04:21,2021-12-21,AMPH,Peters William J,"CFO, EVP, Treasurer",M - OptEx,$14.40,8256,106042,+8%,"+$118,886",,,,,AMPH
+17,D,2021-12-22 17:04:21,2021-12-21,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$22.40,-8256,106042,-7%,"-$184,934",,,,,AMPH
+18,D,2021-12-17 19:52:06,2021-12-16,AMPH,Peters William J,"CFO, EVP, Treasurer",M - OptEx,$14.40,1744,106042,+2%,"+$25,114",,,,,AMPH
+19,D,2021-12-17 19:52:06,2021-12-16,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$22.40,-1744,106042,-2%,"-$39,066",,,,,AMPH
+20,D,2021-12-13 19:36:13,2021-12-10,AMPH,Prins Richard K,Dir,M - OptEx,$17.11,5291,45179,+13%,"+$90,529",,,,,AMPH
+21,D,2021-12-13 19:36:13,2021-12-10,AMPH,Prins Richard K,Dir,S - Sale+OE,$21.36,-5291,45179,-10%,"-$113,006",,,,,AMPH
+22,D,2021-11-23 20:17:21,2021-11-22,AMPH,Prins Richard K,Dir,M - OptEx,$17.11,5000,45179,+12%,"+$85,550",,,,,AMPH
+23,D,2021-11-23 20:17:21,2021-11-22,AMPH,Prins Richard K,Dir,S - Sale+OE,$21.22,-5000,45179,-10%,"-$106,100",,,,,AMPH
+24,D,2021-11-12 19:44:36,2021-11-11,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$10.48,7813,187789,+4%,"+$81,880",,,,,AMPH
+25,D,2021-11-12 19:44:36,2021-11-11,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$21.67,-7813,187789,-4%,"-$169,308",,,,,AMPH
+26,D,2021-11-12 19:42:31,2021-11-11,AMPH,Peters William J,"CFO, EVP, Treasurer",M - OptEx,$11.33,10000,105689,+10%,"+$113,300",,,,,AMPH
+27,D,2021-11-12 19:42:31,2021-11-11,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$21.33,-10000,105689,-9%,"-$213,300",,,,,AMPH
+28,,2021-08-17 16:25:53,2021-08-16,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale,$19.35,-6589,105689,-6%,"-$127,524",,,,,AMPH
+29,D,2021-08-04 16:05:32,2021-08-02,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$10.48,6000,187789,+3%,"+$62,880",,,,,AMPH
+30,D,2021-08-04 16:05:32,2021-08-02,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$21.24,-9123,187789,-5%,"-$193,734",,,,,AMPH
+31,D,2021-08-03 16:06:51,2021-08-02,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,M - OptEx,$14.95,8932,56536,+19%,"+$133,533",,,,,AMPH
+32,D,2021-08-03 16:06:51,2021-08-02,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,S - Sale+OE,$21.14,-8932,56536,-14%,"-$188,805",,,,,AMPH
+33,D,2021-07-27 18:46:06,2021-07-26,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$10.48,6000,190912,+3%,"+$62,880",,,,,AMPH
+34,D,2021-07-27 18:46:06,2021-07-26,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$20.87,-6000,190912,-3%,"-$125,220",,,,,AMPH
+35,D,2021-07-22 16:13:08,2021-07-20,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$10.48,5187,190912,+3%,"+$54,360",,,,,AMPH
+36,D,2021-07-22 16:13:08,2021-07-20,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$20.57,-5187,190912,-3%,"-$106,697",,,,,AMPH
+37,D,2021-07-16 18:29:47,2021-07-15,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,M - OptEx,$13.27,31026,56536,+122%,"+$411,741",,,,,AMPH
+38,D,2021-07-16 18:29:47,2021-07-15,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,S - Sale+OE,$20.01,-31524,56536,-36%,"-$630,688",,,,,AMPH
+39,D,2021-07-08 18:32:51,2021-07-07,AMPH,Peters William J,"CFO, EVP, Treasurer",M - OptEx,$11.33,10000,112278,+10%,"+$113,300",,,,,AMPH
+40,D,2021-07-08 18:32:51,2021-07-07,AMPH,Peters William J,"CFO, EVP, Treasurer",S - Sale+OE,$20.37,-10000,112278,-8%,"-$203,739",,,,,AMPH
+41,,2021-06-15 16:20:37,2021-06-14,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,F - Tax,$19.68,-128,57034,0%,"-$2,519",,,,,AMPH
+42,,2021-06-14 16:06:03,2021-06-12,AMPH,Lee Howard,Dir,F - Tax,$19.92,-157,138776,0%,"-$3,127",,,,,AMPH
+43,D,2021-06-10 16:45:43,2021-06-08,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$14.23,8180,190912,+4%,"+$116,401",,,,,AMPH
+44,DM,2021-06-10 16:45:43,2021-06-08,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$19.43,-12912,190912,-6%,"-$250,829",,,,,AMPH
+45,D,2021-06-08 21:01:36,2021-06-07,AMPH,Zasloff Michael A,Dir,A - Grant,$0.00,6019,47206,+15%,+$0,,,,,AMPH
+46,D,2021-06-08 20:59:52,2021-06-07,AMPH,Prins Richard K,Dir,A - Grant,$0.00,6019,45179,+15%,+$0,,,,,AMPH
+47,DM,2021-06-08 20:59:52,2021-06-04,AMPH,Prins Richard K,Dir,M - OptEx,$16.43,10000,45179,+28%,"+$164,300",,,,,AMPH
+48,DM,2021-06-08 20:59:52,2021-06-04,AMPH,Prins Richard K,Dir,S - Sale+OE,$18.74,-10000,45179,-18%,"-$187,351",,,,,AMPH
+49,D,2021-06-08 20:58:43,2021-06-07,AMPH,Petersen Floyd F.,Dir,A - Grant,$0.00,6019,79373,+8%,+$0,,,,,AMPH
+50,D,2021-06-08 20:58:43,2021-06-07,AMPH,Petersen Floyd F.,Dir,M - OptEx,$16.43,15827,79373,+25%,"+$260,038",,,,,AMPH
+51,D,2021-06-08 20:58:43,2021-06-07,AMPH,Petersen Floyd F.,Dir,S - Sale+OE,$19.34,-15827,79373,-17%,"-$306,039",,,,,AMPH
+52,D,2021-06-08 20:57:23,2021-06-07,AMPH,Maris David,Dir,A - Grant,$0.00,6019,19170,+46%,+$0,,,,,AMPH
+53,D,2021-06-08 20:56:23,2021-06-07,AMPH,Lee Howard,Dir,A - Grant,$0.00,6019,138933,+5%,+$0,,,,,AMPH
+54,DM,2021-06-08 20:56:23,2021-06-07,AMPH,Lee Howard,Dir,M - OptEx,$16.43,15827,138933,+13%,"+$260,038",,,,,AMPH
+55,DM,2021-06-08 20:56:23,2021-06-07,AMPH,Lee Howard,Dir,S - Sale+OE,$19.30,-15827,138933,-10%,"-$305,449",,,,,AMPH
+56,D,2021-06-08 20:55:10,2021-06-07,AMPH,Koo Richard,Dir,A - Grant,$0.00,6019,269289,+2%,+$0,,,,,AMPH
+57,D,2021-06-08 20:52:45,2021-06-07,AMPH,Gerst Diane G.,Dir,A - Grant,$0.00,3009,8679,+53%,+$0,,,,,AMPH
+58,D,2021-06-08 20:51:42,2021-06-07,AMPH,Deflin Gayle,Dir,A - Grant,$0.00,6019,6019,New,+$0,,,,,AMPH
+59,,2021-06-08 19:10:41,2021-06-04,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,F - Tax,$18.79,-264,57162,0%,"-$4,961",,,,,AMPH
+60,D,2021-06-04 19:35:03,2021-06-03,AMPH,Petersen Floyd F.,Dir,M - OptEx,$16.43,10000,73354,+16%,"+$164,300",,,,,AMPH
+61,D,2021-06-04 19:35:03,2021-06-03,AMPH,Petersen Floyd F.,Dir,S - Sale+OE,$18.65,-10000,73354,-12%,"-$186,527",,,,,AMPH
+62,D,2021-06-02 19:34:03,2021-06-01,AMPH,Koo Richard,Dir,M - OptEx,$16.43,25827,263270,+11%,"+$424,338",,,,,AMPH
+63,D,2021-06-02 19:34:03,2021-06-01,AMPH,Koo Richard,Dir,S - Sale+OE,$19.28,-25827,263270,-9%,"-$498,009",,,,,AMPH
+64,D,2021-05-24 16:45:23,2021-05-20,AMPH,Lee Howard,Dir,M - OptEx,$16.43,10000,132914,+8%,"+$164,300",,,,,AMPH
+65,D,2021-05-24 16:45:23,2021-05-20,AMPH,Lee Howard,Dir,S - Sale+OE,$19.74,-10000,132914,-7%,"-$197,354",,,,,AMPH
+66,D,2021-05-20 18:32:34,2021-05-19,AMPH,Peters William J,"CFO, EVP, Treasurer",A - Grant,$0.00,3047,111349,+3%,+$0,,,,,AMPH
+67,D,2021-05-18 16:06:23,2021-05-17,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,M - OptEx,$11.33,9637,56032,+21%,"+$109,187",,,,,AMPH
+68,DM,2021-05-18 16:06:23,2021-05-14,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$19.98,-12823,56032,-19%,"-$256,140",,,,,AMPH
+69,DM,2021-05-17 19:38:20,2021-05-13,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$14.23,11820,194634,+6%,"+$168,199",,,,,AMPH
+70,DM,2021-05-17 19:38:20,2021-05-13,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$19.71,-18119,194634,-9%,"-$357,170",,,,,AMPH
+71,D,2021-05-14 19:01:34,2021-05-13,AMPH,Zasloff Michael A,Dir,M - OptEx,$16.43,25827,41187,+168%,"+$424,338",,,,,AMPH
+72,D,2021-05-14 19:01:34,2021-05-13,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$19.34,-25827,41187,-39%,"-$499,435",,,,,AMPH
+73,D,2021-05-13 18:42:53,2021-05-11,AMPH,Prins Richard K,Dir,M - OptEx,$16.43,15827,39160,+68%,"+$260,038",,,,,AMPH
+74,D,2021-05-13 18:42:53,2021-05-11,AMPH,Prins Richard K,Dir,S - Sale+OE,$18.90,-15827,39160,-29%,"-$299,110",,,,,AMPH
+75,D,2021-05-13 18:39:37,2021-05-11,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,M - OptEx,$11.33,10000,59218,+20%,"+$113,300",,,,,AMPH
+76,DM,2021-05-13 18:39:37,2021-05-11,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,S - Sale+OE,$19.14,-14592,59218,-20%,"-$279,339",,,,,AMPH
+77,D,2021-03-18 21:11:46,2021-03-17,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",A - Grant,$0.00,184101,10641918,+2%,+$0,,,,,AMPH
+78,D,2021-03-18 21:11:46,2021-03-16,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$18.44,-34131,10641918,0%,"-$629,376",,,,,AMPH
+79,D,2021-03-18 20:54:39,2021-03-17,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,A - Grant,$0.00,19344,63810,+44%,+$0,,,,,AMPH
+80,D,2021-03-18 20:54:39,2021-03-16,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,F - Tax,$18.44,-2430,63810,-4%,"-$44,809",,,,,AMPH
+81,D,2021-03-18 20:52:22,2021-03-17,AMPH,Zhou Rong,"EVP, Production Center",A - Grant,$0.00,21984,200933,+12%,+$0,,,,,AMPH
+82,D,2021-03-18 20:52:22,2021-03-16,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$18.44,-3303,200933,-2%,"-$60,907",,,,,AMPH
+83,D,2021-03-18 20:50:31,2021-03-17,AMPH,Peters William J,"CFO, SVP, Treasurer",A - Grant,$0.00,33574,108302,+45%,+$0,,,,,AMPH
+84,D,2021-03-18 20:50:31,2021-03-16,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$18.44,-6398,108302,-6%,"-$117,979",,,,,AMPH
+85,,2021-03-17 20:30:52,2021-03-15,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,F - Tax,$19.15,-1559,46896,-3%,"-$29,855",,,,,AMPH
+86,,2021-03-17 20:00:30,2021-03-15,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$19.15,-1652,182252,-1%,"-$31,636",,,,,AMPH
+87,,2021-03-17 19:40:41,2021-03-15,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$19.15,-4178,81,-98%,"-$80,009",,,,,AMPH
+88,,2021-03-17 19:40:41,2021-03-15,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$19.03,-4244,81,-98%,"-$80,745",,,,,AMPH
+89,,2021-03-17 19:38:40,2021-03-15,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$19.15,-37680,10491948,0%,"-$721,572",,,,,AMPH
+90,M,2021-02-18 18:58:51,2021-02-16,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$18.59,-30467,10529628,0%,"-$566,315",,,,,AMPH
+91,M,2021-02-12 19:11:42,2021-02-10,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$18.93,-48847,10560095,0%,"-$924,750",,,,,AMPH
+92,M,2021-02-09 17:30:23,2021-02-05,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$18.92,-40886,10608942,0%,"-$773,546",,,,,AMPH
+93,M,2021-02-05 20:35:51,2021-02-03,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$18.69,-41869,10649828,0%,"-$782,343",,,,,AMPH
+94,M,2021-02-03 16:15:44,2021-02-01,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$18.43,-37931,10691697,0%,"-$698,941",,,,,AMPH
+95,,2021-02-02 16:16:26,2021-02-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$18.26,-639,73354,-1%,"-$11,669",,,,,AMPH
+96,,2021-01-20 17:58:04,2021-01-19,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$18.67,-6495,89548,-7%,"-$121,237",,,,,AMPH
+97,,2020-12-02 16:20:09,2020-12-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$17.87,-500,73993,-1%,"-$8,936",,,,,AMPH
+98,,2020-11-03 16:05:33,2020-11-02,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.84,-500,74493,-1%,"-$9,920",,,,,AMPH
+99,,2020-10-02 16:15:22,2020-10-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$18.89,-500,74993,-1%,"-$9,446",,,,,AMPH
+100,,2020-09-02 17:27:57,2020-09-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.90,-500,75493,-1%,"-$9,948",,,,,AMPH
+101,,2020-08-18 16:15:04,2020-08-14,AMPH,Maris David,Dir,P - Purchase,$20.26,1000,13151,+8%,"+$20,260",,,,,AMPH
+102,,2020-08-18 16:12:19,2020-08-14,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$20.36,-5512,95652,-5%,"-$112,223",,,,,AMPH
+103,,2020-08-12 18:34:05,2020-08-11,AMPH,Prins Richard K,Dir,S - Sale,$20.33,-6000,39160,-13%,"-$121,976",,,,,AMPH
+104,,2020-08-04 20:22:43,2020-08-03,AMPH,Petersen Floyd F.,Dir,S - Sale,$20.62,-500,75993,-1%,"-$10,308",,,,,AMPH
+105,DM,2020-07-22 18:28:20,2020-07-20,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,M - OptEx,$11.33,10164,48455,+27%,"+$115,158",,,,,AMPH
+106,DM,2020-07-22 18:28:20,2020-07-20,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,S - Sale+OE,$21.14,-10164,48455,-17%,"-$214,884",,,,,AMPH
+107,D,2020-07-08 16:05:51,2020-07-06,AMPH,Peters William J,"CFO, SVP, Treasurer",M - OptEx,$11.33,10000,101164,+11%,"+$113,300",,,,,AMPH
+108,D,2020-07-08 16:05:51,2020-07-06,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$22.00,-13656,101164,-12%,"-$300,405",,,,,AMPH
+109,,2020-07-02 19:36:47,2020-07-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$22.27,-500,76493,-1%,"-$11,136",,,,,AMPH
+110,,2020-06-15 19:09:26,2020-06-12,AMPH,Lee Howard,Dir,F - Tax,$19.58,-355,132914,0%,"-$6,951",,,,,AMPH
+111,,2020-06-15 19:08:11,2020-06-14,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,F - Tax,$19.58,-128,48455,0%,"-$2,506",,,,,AMPH
+112,D,2020-06-10 19:39:09,2020-06-09,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,M - OptEx,$10.93,16000,48583,+49%,"+$174,880",,,,,AMPH
+113,D,2020-06-10 19:39:09,2020-06-09,AMPH,Liawatidewi Yakob,EVP Corp Admin Center,S - Sale+OE,$20.41,-23405,48583,-33%,"-$477,602",,,,,AMPH
+114,D,2020-06-09 20:29:53,2020-06-08,AMPH,Zasloff Michael A,Dir,A - Grant,$0.00,5851,41187,+17%,+$0,,,,,AMPH
+115,D,2020-06-09 20:28:08,2020-06-08,AMPH,Prins Richard K,Dir,A - Grant,$0.00,5851,45160,+15%,+$0,,,,,AMPH
+116,D,2020-06-09 20:26:09,2020-06-08,AMPH,Petersen Floyd F.,Dir,A - Grant,$0.00,5851,76993,+8%,+$0,,,,,AMPH
+117,D,2020-06-09 20:24:38,2020-06-08,AMPH,Maris David,Dir,A - Grant,$0.00,5851,12151,+93%,+$0,,,,,AMPH
+118,D,2020-06-09 20:23:08,2020-06-08,AMPH,Lee Howard,Dir,A - Grant,$0.00,5851,133269,+5%,+$0,,,,,AMPH
+119,D,2020-06-09 20:23:08,2020-06-07,AMPH,Lee Howard,Dir,F - Tax,$19.52,-663,133269,0%,"-$12,942",,,,,AMPH
+120,D,2020-06-09 20:21:24,2020-06-08,AMPH,Koo Richard,Dir,A - Grant,$0.00,5851,263270,+2%,+$0,,,,,AMPH
+121,D,2020-06-09 20:19:43,2020-06-08,AMPH,Gerst Diane G.,Dir,A - Grant,$0.00,2925,5670,+107%,+$0,,,,,AMPH
+122,D,2020-06-08 18:37:07,2020-06-04,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,A - Grant,$0.00,3048,55988,+6%,+$0,,,,,AMPH
+123,DM,2020-06-05 16:15:55,2020-06-03,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$11.41,20000,183904,+12%,"+$228,200",,,,,AMPH
+124,DM,2020-06-05 16:15:55,2020-06-03,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$18.98,-22969,183904,-11%,"-$435,855",,,,,AMPH
+125,,2020-06-02 17:46:50,2020-06-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$18.97,-500,71142,-1%,"-$9,483",,,,,AMPH
+126,D,2020-05-28 16:05:16,2020-05-27,AMPH,Koo Richard,Dir,M - OptEx,$15.11,47782,257419,+23%,"+$721,986",,,,,AMPH
+127,D,2020-05-28 16:05:16,2020-05-27,AMPH,Koo Richard,Dir,S - Sale+OE,$18.18,-47782,257419,-16%,"-$868,892",,,,,AMPH
+128,DM,2020-05-27 17:02:02,2020-05-22,AMPH,Lee Howard,Dir,M - OptEx,$15.11,20000,128081,+19%,"+$302,200",,,,,AMPH
+129,DM,2020-05-27 17:02:02,2020-05-22,AMPH,Lee Howard,Dir,S - Sale+OE,$18.48,-20000,128081,-14%,"-$369,628",,,,,AMPH
+130,DM,2020-05-22 16:05:23,2020-05-20,AMPH,Lee Howard,Dir,M - OptEx,$15.11,27782,128081,+28%,"+$419,786",,,,,AMPH
+131,DM,2020-05-22 16:05:23,2020-05-20,AMPH,Lee Howard,Dir,S - Sale+OE,$18.45,-27782,128081,-18%,"-$512,466",,,,,AMPH
+132,DM,2020-05-18 16:36:12,2020-05-14,AMPH,Zasloff Michael A,Dir,M - OptEx,$15.11,37782,35336,-1545%,"+$570,886",,,,,AMPH
+133,DM,2020-05-18 16:36:12,2020-05-14,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$18.02,-37782,35336,-52%,"-$680,657",,,,,AMPH
+134,DM,2020-05-18 16:31:57,2020-05-14,AMPH,Petersen Floyd F.,Dir,M - OptEx,$15.11,47682,71642,+199%,"+$720,475",,,,,AMPH
+135,DM,2020-05-18 16:31:57,2020-05-14,AMPH,Petersen Floyd F.,Dir,S - Sale+OE,$18.20,-47682,71642,-40%,"-$867,844",,,,,AMPH
+136,D,2020-05-14 16:18:01,2020-05-12,AMPH,Zasloff Michael A,Dir,M - OptEx,$15.11,10000,35336,+39%,"+$151,100",,,,,AMPH
+137,D,2020-05-14 16:18:01,2020-05-12,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$19.00,-10000,35336,-22%,"-$190,000",,,,,AMPH
+138,D,2020-05-14 16:17:01,2020-05-12,AMPH,Prins Richard K,Dir,M - OptEx,$15.11,30282,39309,+335%,"+$457,561",,,,,AMPH
+139,D,2020-05-14 16:17:01,2020-05-12,AMPH,Prins Richard K,Dir,S - Sale+OE,$19.00,-30282,39309,-44%,"-$575,419",,,,,AMPH
+140,D,2020-05-14 16:15:48,2020-05-12,AMPH,Petersen Floyd F.,Dir,M - OptEx,$15.11,100,71642,0%,"+$1,511",,,,,AMPH
+141,D,2020-05-14 16:15:48,2020-05-12,AMPH,Petersen Floyd F.,Dir,S - Sale+OE,$19.20,-100,71642,0%,"-$1,920",,,,,AMPH
+142,,2020-05-05 17:05:26,2020-05-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$16.66,-500,71642,-1%,"-$8,329",,,,,AMPH
+143,,2020-04-02 17:46:33,2020-04-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$14.36,-500,72142,-1%,"-$7,181",,,,,AMPH
+144,D,2020-03-18 17:35:54,2020-03-16,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,A - Grant,$0.00,18726,51627,+57%,+$0,,,,,AMPH
+145,DM,2020-03-18 17:35:54,2020-03-16,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,F - Tax,$13.79,-1669,51627,-3%,"-$23,010",,,,,AMPH
+146,D,2020-03-18 17:34:08,2020-03-16,AMPH,Zhou Rong,"EVP, Production Center",A - Grant,$0.00,26400,185559,+17%,+$0,,,,,AMPH
+147,DM,2020-03-18 17:34:08,2020-03-16,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$13.75,-2012,185559,-1%,"-$27,675",,,,,AMPH
+148,D,2020-03-18 17:32:38,2020-03-16,AMPH,Peters William J,"CFO, SVP, Treasurer",A - Grant,$0.00,40291,104038,+63%,+$0,,,,,AMPH
+149,DM,2020-03-18 17:32:38,2020-03-16,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$13.83,-6349,104038,-6%,"-$87,775",,,,,AMPH
+150,D,2020-03-18 17:31:08,2020-03-16,AMPH,Shandell Jason B.,"Pres, GC",A - Grant,$0.00,64466,179276,+56%,+$0,,,,,AMPH
+151,DM,2020-03-18 17:31:08,2020-03-16,AMPH,Shandell Jason B.,"Pres, GC",F - Tax,$13.83,-17192,179276,-9%,"-$237,681",,,,,AMPH
+152,D,2020-03-18 17:29:24,2020-03-16,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",A - Grant,$0.00,221027,10729628,+2%,+$0,,,,,AMPH
+153,D,2020-03-18 17:29:24,2020-03-16,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$13.03,-33644,10729628,0%,"-$438,381",,,,,AMPH
+154,,2020-03-17 20:14:00,2020-03-15,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,F - Tax,$14.19,-1559,34570,-4%,"-$22,122",,,,,AMPH
+155,,2020-03-17 20:11:44,2020-03-15,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$14.19,-1653,161171,-1%,"-$23,456",,,,,AMPH
+156,,2020-03-17 20:07:59,2020-03-15,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$14.19,-4178,70096,-6%,"-$59,286",,,,,AMPH
+157,,2020-03-17 20:07:59,2020-03-13,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$13.94,-4701,70096,-6%,"-$65,539",,,,,AMPH
+158,,2020-03-17 20:05:44,2020-03-15,AMPH,Shandell Jason B.,"Pres, GC",F - Tax,$14.19,-6896,132002,-5%,"-$97,854",,,,,AMPH
+159,,2020-03-17 20:03:44,2020-03-15,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$14.19,-36772,10542245,0%,"-$521,795",,,,,AMPH
+160,,2020-03-03 16:15:49,2020-03-02,AMPH,Petersen Floyd F.,Dir,S - Sale,$15.56,-500,72642,-1%,"-$7,782",,,,,AMPH
+161,DM,2020-02-07 20:08:59,2020-02-05,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$14.40,44401,138898,+47%,"+$639,374",,,,,AMPH
+162,DM,2020-02-07 20:08:59,2020-02-05,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$19.75,-44401,138898,-24%,"-$876,765",,,,,AMPH
+163,,2020-02-04 16:07:40,2020-02-03,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.12,-500,73142,-1%,"-$9,558",,,,,AMPH
+164,,2020-01-23 16:05:37,2020-01-21,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$20.07,-3990,78975,-5%,"-$80,071",,,,,AMPH
+165,D,2020-01-10 16:05:42,2020-01-08,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$10.93,25000,138898,+22%,"+$273,250",,,,,AMPH
+166,D,2020-01-10 16:05:42,2020-01-08,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$18.44,-25000,138898,-15%,"-$460,978",,,,,AMPH
+167,,2020-01-03 17:05:33,2020-01-02,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.14,-1000,73642,-1%,"-$19,142",,,,,AMPH
+168,,2019-12-20 16:06:08,2019-12-18,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$19.13,-8205,138898,-6%,"-$156,958",,,,,AMPH
+169,,2019-12-04 16:06:10,2019-12-02,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.25,-500,74642,-1%,"-$9,623",,,,,AMPH
+170,,2019-11-05 16:06:04,2019-11-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.48,-500,75142,-1%,"-$9,738",,,,,AMPH
+171,,2019-10-03 18:21:03,2019-10-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.92,-500,75642,-1%,"-$9,959",,,,,AMPH
+172,,2019-09-20 16:05:30,2019-09-18,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$21.32,-7340,147103,-5%,"-$156,509",,,,,AMPH
+173,D,2019-09-18 16:32:56,2019-09-16,AMPH,Peters William J,"CFO, SVP, Treasurer",M - OptEx,$11.33,9800,82453,+13%,"+$111,034",,,,,AMPH
+174,D,2019-09-18 16:32:56,2019-09-16,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$21.76,-9800,82453,-11%,"-$213,256",,,,,AMPH
+175,,2019-09-17 20:13:43,2019-09-16,AMPH,Petersen Floyd F.,Dir,S - Sale,$21.75,-500,76142,-1%,"-$10,877",,,,,AMPH
+176,,2019-09-17 19:11:13,2019-09-13,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale,$21.45,-3000,36129,-8%,"-$64,340",,,,,AMPH
+177,,2019-09-12 19:50:35,2019-09-11,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$20.82,-300000,10779017,-3%,"-$6,246,000",,,,,AMPH
+178,M,2019-09-09 20:16:42,2019-09-05,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale,$21.65,-3910,39129,-9%,"-$84,638",,,,,AMPH
+179,DM,2019-08-27 19:36:50,2019-08-23,AMPH,Prins Richard K,Dir,M - OptEx,$15.11,7500,39309,+24%,"+$113,325",,,,,AMPH
+180,DM,2019-08-27 19:36:50,2019-08-23,AMPH,Prins Richard K,Dir,S - Sale+OE,$22.59,-7500,39309,-16%,"-$169,420",,,,,AMPH
+181,,2019-08-16 17:07:58,2019-08-15,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$21.00,-4942,82453,-6%,"-$103,782",,,,,AMPH
+182,D,2019-08-15 16:06:42,2019-08-13,AMPH,Prins Richard K,Dir,M - OptEx,$15.11,10000,39309,+34%,"+$151,100",,,,,AMPH
+183,D,2019-08-15 16:06:42,2019-08-13,AMPH,Prins Richard K,Dir,S - Sale+OE,$20.78,-10000,39309,-20%,"-$207,781",,,,,AMPH
+184,DM,2019-08-14 17:18:21,2019-08-12,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,M - OptEx,$10.93,10000,43039,+30%,"+$109,300",,,,,AMPH
+185,DM,2019-08-14 17:18:21,2019-08-12,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$20.53,-15518,43039,-27%,"-$318,615",,,,,AMPH
+186,,2019-07-12 19:05:07,2019-07-10,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$20.31,-6615,154443,-4%,"-$134,333",,,,,AMPH
+187,,2019-06-17 19:00:06,2019-06-14,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$19.82,-204,162824,0%,"-$4,043",,,,,AMPH
+188,,2019-06-17 18:58:36,2019-06-14,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,F - Tax,$19.82,-195,48557,0%,"-$3,865",,,,,AMPH
+189,D,2019-06-13 20:04:47,2019-06-12,AMPH,Zasloff Michael A,Dir,A - Grant,$0.00,5491,35336,+18%,+$0,,,,,AMPH
+190,D,2019-06-13 20:02:32,2019-06-12,AMPH,Prins Richard K,Dir,A - Grant,$0.00,5491,39309,+16%,+$0,,,,,AMPH
+191,D,2019-06-13 20:00:02,2019-06-12,AMPH,Petersen Floyd F.,Dir,A - Grant,$0.00,5491,76642,+8%,+$0,,,,,AMPH
+192,D,2019-06-13 19:58:17,2019-06-12,AMPH,Lee Howard,Dir,A - Grant,$0.00,5491,128081,+4%,+$0,,,,,AMPH
+193,D,2019-06-13 19:57:02,2019-06-12,AMPH,Koo Richard,Dir,A - Grant,$0.00,5491,257419,+2%,+$0,,,,,AMPH
+194,D,2019-06-13 19:54:47,2019-06-12,AMPH,Gerst Diane G.,Dir,A - Grant,$0.00,2745,2745,New,+$0,,,,,AMPH
+195,,2019-06-10 16:55:59,2019-06-07,AMPH,Lee Howard,Dir,F - Tax,$20.11,-791,122590,-1%,"-$15,907",,,,,AMPH
+196,D,2019-05-07 20:25:44,2019-05-06,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$20.26,9600,161775,+6%,"+$194,496",,,,,AMPH
+197,D,2019-05-07 20:25:44,2019-05-06,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$22.76,-9600,161775,-6%,"-$218,496",,,,,AMPH
+198,D,2019-05-02 16:07:23,2019-05-01,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$10.93,10000,159947,+7%,"+$109,300",,,,,AMPH
+199,D,2019-05-02 16:07:23,2019-05-01,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$21.97,-10000,159947,-6%,"-$219,700",,,,,AMPH
+200,,2019-04-18 16:05:46,2019-04-16,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$20.67,-9478,159947,-6%,"-$195,879",,,,,AMPH
+201,,2019-03-28 16:58:34,2019-03-26,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$20.54,-814,161775,-1%,"-$16,720",,,,,AMPH
+202,,2019-03-27 21:56:27,2019-03-26,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,F - Tax,$20.54,-885,47642,-2%,"-$18,178",,,,,AMPH
+203,,2019-03-27 21:54:42,2019-03-26,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$20.54,-2553,86339,-3%,"-$52,439",,,,,AMPH
+204,,2019-03-27 21:53:12,2019-03-26,AMPH,Shandell Jason B.,"Pres, GC",F - Tax,$20.54,-6603,169425,-4%,"-$135,626",,,,,AMPH
+205,D,2019-03-19 16:05:43,2019-03-15,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,A - Grant,$0.00,9886,48527,+26%,+$0,,,,,AMPH
+206,DM,2019-03-19 16:05:43,2019-03-15,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,F - Tax,$20.23,-3611,48527,-7%,"-$73,051",,,,,AMPH
+207,D,2019-03-19 06:06:13,2019-03-15,AMPH,Peters William J,"CFO, SVP, Treasurer",A - Grant,$0.00,25951,88892,+41%,+$0,,,,,AMPH
+208,DM,2019-03-19 06:06:13,2019-03-15,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$20.23,-12609,88892,-12%,"-$255,080",,,,,AMPH
+209,D,2019-03-18 20:52:14,2019-03-15,AMPH,Zhou Rong,"EVP, Production Center",A - Grant,$0.00,10133,162589,+7%,+$0,,,,,AMPH
+210,DM,2019-03-18 20:52:14,2019-03-15,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$20.23,-4242,162589,-3%,"-$85,816",,,,,AMPH
+211,D,2019-03-18 19:56:44,2019-03-15,AMPH,Shandell Jason B.,"Pres, GC",A - Grant,$0.00,39050,176028,+29%,+$0,,,,,AMPH
+212,DM,2019-03-18 19:56:44,2019-03-15,AMPH,Shandell Jason B.,"Pres, GC",F - Tax,$20.23,-23512,176028,-12%,"-$475,648",,,,,AMPH
+213,D,2019-03-18 19:56:44,2019-03-15,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$10.93,24508,176028,+16%,"+$267,872",,,,,AMPH
+214,DM,2019-03-18 19:56:44,2019-03-14,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$20.35,-32336,176028,-16%,"-$657,930",,,,,AMPH
+215,D,2019-03-18 19:53:59,2019-03-15,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",A - Grant,$0.00,139890,11079017,+1%,+$0,,,,,AMPH
+216,DM,2019-03-18 19:53:59,2019-03-15,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$20.23,-772095,11079017,-7%,"-$15,619,482",,,,,AMPH
+217,D,2019-03-18 19:53:59,2019-03-15,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",M - OptEx,$15.84,739520,11079017,+7%,"+$11,713,997",,,,,AMPH
+218,D,2019-03-06 17:20:04,2019-03-04,AMPH,Peters William J,"CFO, SVP, Treasurer",M - OptEx,$13.35,1500,75550,+2%,"+$20,025",,,,,AMPH
+219,D,2019-03-06 17:20:04,2019-03-04,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$25.36,-1500,75550,-2%,"-$38,037",,,,,AMPH
+220,D,2019-03-04 20:44:41,2019-03-01,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$20.26,3200,156698,+2%,"+$64,832",,,,,AMPH
+221,D,2019-03-04 20:44:41,2019-03-01,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$25.00,-3200,156698,-2%,"-$80,000",,,,,AMPH
+222,D,2019-03-01 20:01:09,2019-03-01,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$20.26,7500,168318,+5%,"+$151,950",,,,,AMPH
+223,D,2019-03-01 20:01:09,2019-03-01,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$24.99,-7500,168318,-4%,"-$187,425",,,,,AMPH
+224,D,2019-02-15 20:09:51,2019-02-15,AMPH,Peters William J,"CFO, SVP, Treasurer",M - OptEx,$13.35,10016,75550,+15%,"+$133,714",,,,,AMPH
+225,D,2019-02-15 20:09:51,2019-02-15,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$24.37,-10016,75550,-12%,"-$244,090",,,,,AMPH
+226,D,2019-02-15 16:56:51,2019-02-14,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$15.23,7519,168318,+5%,"+$114,514",,,,,AMPH
+227,D,2019-02-15 16:56:51,2019-02-14,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$23.99,-7519,168318,-4%,"-$180,381",,,,,AMPH
+228,DM,2019-02-14 18:30:12,2019-02-12,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,M - OptEx,$14.95,8868,42252,+27%,"+$132,577",,,,,AMPH
+229,DM,2019-02-14 18:30:12,2019-02-12,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$23.86,-8868,42252,-17%,"-$211,632",,,,,AMPH
+230,D,2019-02-07 16:05:39,2019-02-05,AMPH,Zhou Rong,"EVP, Production Center",M - OptEx,$20.26,3200,156698,+2%,"+$64,832",,,,,AMPH
+231,D,2019-02-07 16:05:39,2019-02-05,AMPH,Zhou Rong,"EVP, Production Center",S - Sale+OE,$23.00,-4289,156698,-3%,"-$98,647",,,,,AMPH
+232,D,2019-02-06 20:12:25,2019-02-05,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,M - OptEx,$10.48,9817,42252,+30%,"+$102,882",,,,,AMPH
+233,D,2019-02-06 20:12:25,2019-02-05,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$23.18,-11397,42252,-21%,"-$264,167",,,,,AMPH
+234,,2019-01-25 16:11:48,2019-01-23,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$22.39,-15497,168318,-8%,"-$347,019",,,,,AMPH
+235,DM,2019-01-24 20:47:22,2019-01-22,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,M - OptEx,$10.48,7000,43832,+19%,"+$73,360",,,,,AMPH
+236,DM,2019-01-24 20:47:22,2019-01-22,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$22.52,-7000,43832,-14%,"-$157,650",,,,,AMPH
+237,DM,2019-01-16 19:10:11,2019-01-14,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,M - OptEx,$10.48,3183,43832,+8%,"+$33,358",,,,,AMPH
+238,DM,2019-01-16 19:10:11,2019-01-14,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$22.15,-3183,43832,-7%,"-$70,503",,,,,AMPH
+239,,2019-01-04 17:04:55,2019-01-02,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$19.52,-3245,75550,-4%,"-$63,354",,,,,AMPH
+240,,2018-12-17 20:05:21,2018-12-14,AMPH,Prins Richard K,Dir,S - Sale,$20.65,-1616,33818,-5%,"-$33,370",,,,,AMPH
+241,,2018-12-17 20:02:07,2018-12-14,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$20.48,-43577,10971702,0%,"-$892,309",,,,,AMPH
+242,M,2018-12-13 20:08:16,2018-12-11,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",S - Sale,$21.29,-133915,11015279,-1%,"-$2,851,052",,,,,AMPH
+243,M,2018-12-13 20:05:44,2018-12-11,AMPH,"Applied Physics & Chemistry Laboratories, Inc.",10%,S - Sale,$21.29,-133915,7327679,-2%,"-$2,851,052",,,,,AMPH
+244,D,2018-12-12 20:39:22,2018-12-11,AMPH,Koo Richard,Dir,M - OptEx,$14.66,29278,251928,+13%,"+$429,215",,,,,AMPH
+245,D,2018-12-12 20:39:22,2018-12-11,AMPH,Koo Richard,Dir,S - Sale+OE,$21.32,-29278,251928,-10%,"-$624,075",,,,,AMPH
+246,D,2018-12-12 20:37:04,2018-12-10,AMPH,Shohet Stephen B.,Dir,M - OptEx,$14.66,58557,30706,-210%,"+$858,446",,,,,AMPH
+247,D,2018-12-12 20:37:04,2018-12-10,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$21.72,-58557,30706,-66%,"-$1,271,782",,,,,AMPH
+248,DM,2018-12-07 18:36:10,2018-12-04,AMPH,Lee Howard,Dir,M - OptEx,$14.66,29278,123381,+31%,"+$429,215",,,,,AMPH
+249,DM,2018-12-07 18:36:10,2018-12-04,AMPH,Lee Howard,Dir,S - Sale+OE,$21.67,-29278,123381,-19%,"-$634,464",,,,,AMPH
+250,,2018-12-06 15:56:10,2018-12-03,AMPH,Zhou Rong,"EVP, Production Center",S - Sale,$22.00,-1089,157787,-1%,"-$23,958",,,,,AMPH
+251,D,2018-12-06 15:54:25,2018-12-03,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$10.48,16630,183815,+10%,"+$174,282",,,,,AMPH
+252,D,2018-12-06 15:54:25,2018-12-03,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$22.44,-16630,183815,-8%,"-$373,177",,,,,AMPH
+253,D,2018-12-04 21:01:12,2018-12-03,AMPH,Petersen Floyd F.,Dir,D - Sale to issuer,$22.45,-29278,71151,-29%,"-$657,414",,,,,AMPH
+254,D,2018-12-04 21:01:12,2018-12-03,AMPH,Petersen Floyd F.,Dir,M - OptEx,$14.66,29278,71151,+70%,"+$429,215",,,,,AMPH
+255,D,2018-12-04 21:00:58,2018-12-03,AMPH,Peters William J,"CFO, SVP, Treasurer",M - OptEx,$11.33,10000,78795,+15%,"+$113,300",,,,,AMPH
+256,D,2018-12-04 21:00:58,2018-12-03,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$22.40,-10000,78795,-11%,"-$224,001",,,,,AMPH
+257,D,2018-12-03 20:08:59,2018-11-30,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,M - OptEx,$20.26,11500,43832,+36%,"+$232,990",,,,,AMPH
+258,D,2018-12-03 20:08:59,2018-11-30,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$21.50,-13980,43832,-24%,"-$300,513",,,,,AMPH
+259,D,2018-11-30 16:15:08,2018-11-29,AMPH,Prins Richard K,Dir,M - OptEx,$14.66,5000,35434,+16%,"+$73,300",,,,,AMPH
+260,D,2018-11-30 16:15:08,2018-11-29,AMPH,Prins Richard K,Dir,S - Sale+OE,$20.50,-5000,35434,-12%,"-$102,500",,,,,AMPH
+261,,2018-11-29 18:12:53,2018-11-28,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale,$20.49,-1520,46312,-3%,"-$31,140",,,,,AMPH
+262,,2018-11-26 20:48:27,2018-11-23,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale,$20.26,-1299,47832,-3%,"-$26,315",,,,,AMPH
+263,D,2018-11-15 19:23:43,2018-11-14,AMPH,Zasloff Michael A,Dir,M - OptEx,$14.66,29278,29845,>999%,"+$429,215",,,,,AMPH
+264,D,2018-11-15 19:23:43,2018-11-14,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$20.39,-29278,29845,-50%,"-$596,949",,,,,AMPH
+265,D,2018-11-15 19:21:28,2018-11-14,AMPH,Prins Richard K,Dir,M - OptEx,$14.66,5000,35434,+16%,"+$73,300",,,,,AMPH
+266,D,2018-11-15 19:21:28,2018-11-14,AMPH,Prins Richard K,Dir,S - Sale+OE,$20.23,-5000,35434,-12%,"-$101,167",,,,,AMPH
+267,,2018-11-15 19:20:14,2018-11-14,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$20.41,-16015,183490,-8%,"-$326,855",,,,,AMPH
+268,M,2018-11-13 17:10:09,2018-11-08,AMPH,Zhou Rong,"EVP, Production Center",S - Sale,$20.50,-2173,157971,-1%,"-$44,549",,,,,AMPH
+269,DM,2018-11-13 17:09:23,2018-11-08,AMPH,Peters William J,"CFO, SVP, Treasurer",M - OptEx,$11.33,29800,78152,+62%,"+$337,634",,,,,AMPH
+270,DM,2018-11-13 17:09:23,2018-11-08,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$20.74,-38484,78152,-33%,"-$797,972",,,,,AMPH
+271,DM,2018-11-13 17:08:39,2018-11-08,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,M - OptEx,$13.21,15807,49131,+47%,"+$208,847",,,,,AMPH
+272,DM,2018-11-13 17:08:39,2018-11-08,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,S - Sale+OE,$20.97,-17808,49131,-27%,"-$373,421",,,,,AMPH
+273,DM,2018-11-09 21:52:23,2018-11-08,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$10.59,52296,199505,+36%,"+$554,065",,,,,AMPH
+274,DM,2018-11-09 21:52:23,2018-11-08,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$20.77,-52296,199505,-21%,"-$1,086,420",,,,,AMPH
+275,,2018-08-17 16:05:49,2018-08-16,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$17.59,-2407,86836,-3%,"-$42,333",,,,,AMPH
+276,D,2018-08-15 16:29:10,2018-08-14,AMPH,Prins Richard K,Dir,M - OptEx,$14.66,10000,35434,+39%,"+$146,600",,,,,AMPH
+277,D,2018-08-15 16:29:10,2018-08-14,AMPH,Prins Richard K,Dir,S - Sale+OE,$17.82,-10000,35434,-22%,"-$178,180",,,,,AMPH
+278,,2018-07-12 17:53:58,2018-07-11,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$16.77,-14399,199505,-7%,"-$241,422",,,,,AMPH
+279,,2018-07-11 16:03:23,2018-07-09,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$16.46,-3250,89243,-4%,"-$53,498",,,,,AMPH
+280,D,2018-07-03 17:06:29,2018-07-02,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$15.39,-450484,11149194,-4%,"-$6,932,949",,,,,AMPH
+281,D,2018-07-03 17:06:29,2018-07-02,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",M - OptEx,$12.02,506336,11149194,+5%,"+$6,087,678",,,,,AMPH
+282,,2018-06-18 16:59:25,2018-06-15,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$16.88,-134,160144,0%,"-$2,262",,,,,AMPH
+283,D,2018-06-18 16:57:25,2018-06-14,AMPH,Liawatidewi Yakob,SVP Corp Admin Center,A - Grant,$0.00,1474,51132,+3%,+$0,,,,,AMPH
+284,,2018-06-13 16:05:59,2018-06-12,AMPH,Zasloff Michael A,Dir,S - Sale,$16.52,-15000,29845,-33%,"-$247,842",,,,,AMPH
+285,D,2018-06-11 20:17:33,2018-06-07,AMPH,Zasloff Michael A,Dir,A - Grant,$0.00,6590,44845,+17%,+$0,,,,,AMPH
+286,D,2018-06-11 20:15:18,2018-06-07,AMPH,Shohet Stephen B.,Dir,A - Grant,$0.00,6590,30706,+27%,+$0,,,,,AMPH
+287,D,2018-06-11 20:11:49,2018-06-07,AMPH,Prins Richard K,Dir,A - Grant,$0.00,6590,35434,+23%,+$0,,,,,AMPH
+288,D,2018-06-11 20:10:03,2018-06-07,AMPH,Petersen Floyd F.,Dir,A - Grant,$0.00,6590,71151,+10%,+$0,,,,,AMPH
+289,D,2018-06-11 20:08:19,2018-06-07,AMPH,Lee Howard,Dir,A - Grant,$0.00,6590,123381,+6%,+$0,,,,,AMPH
+290,D,2018-06-11 20:08:19,2018-06-08,AMPH,Lee Howard,Dir,F - Tax,$16.67,-1754,123381,-1%,"-$29,239",,,,,AMPH
+291,D,2018-06-11 20:05:19,2018-06-07,AMPH,Koo Richard,Dir,A - Grant,$0.00,6590,251928,+3%,+$0,,,,,AMPH
+292,M,2018-05-17 19:05:36,2018-05-15,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",P - Purchase,$16.07,40000,11093342,0%,"+$642,824",,,,,AMPH
+293,,2018-04-23 17:11:41,2018-04-21,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$19.31,-1273,91374,-1%,"-$24,582",,,,,AMPH
+294,,2018-03-28 17:23:52,2018-03-26,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$18.61,-535,159102,0%,"-$9,956",,,,,AMPH
+295,,2018-03-28 17:22:52,2018-03-26,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$18.61,-1677,92647,-2%,"-$31,209",,,,,AMPH
+296,M,2018-03-28 17:22:07,2018-03-26,AMPH,Shandell Jason B.,"Pres, GC",F - Tax,$18.52,-12325,212561,-5%,"-$228,272",,,,,AMPH
+297,,2018-03-28 17:21:22,2018-03-26,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$18.61,-29572,11053342,0%,"-$550,335",,,,,AMPH
+298,M,2018-03-20 20:06:01,2018-03-16,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$19.91,-2097,159637,-1%,"-$41,751",,,,,AMPH
+299,M,2018-03-20 20:04:31,2018-03-16,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$19.91,-6349,94324,-6%,"-$126,409",,,,,AMPH
+300,M,2018-03-20 20:02:34,2018-03-16,AMPH,Shandell Jason B.,"Pres, GC",F - Tax,$19.91,-11981,224886,-5%,"-$238,542",,,,,AMPH
+301,M,2018-03-20 20:02:34,2018-03-19,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$19.43,-20000,224886,-8%,"-$388,638",,,,,AMPH
+302,M,2018-03-20 20:00:32,2018-03-16,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$19.91,-67207,11082914,-1%,"-$1,338,091",,,,,AMPH
+303,D,2018-03-16 18:19:30,2018-03-15,AMPH,Prins Richard K,Dir,M - OptEx,$14.66,16598,28844,+136%,"+$243,327",,,,,AMPH
+304,D,2018-03-16 18:19:30,2018-03-15,AMPH,Prins Richard K,Dir,S - Sale+OE,$19.90,-16598,28844,-37%,"-$330,318",,,,,AMPH
+305,D,2018-03-16 18:16:45,2018-03-15,AMPH,Zhou Rong,"EVP, Production Center",A - Grant,$0.00,8969,161734,+6%,+$0,,,,,AMPH
+306,D,2018-03-16 18:16:00,2018-03-15,AMPH,Peters William J,"CFO, SVP, Treasurer",A - Grant,$0.00,22359,100673,+29%,+$0,,,,,AMPH
+307,D,2018-03-16 18:14:45,2018-03-15,AMPH,Shandell Jason B.,"Pres, GC",A - Grant,$0.00,39919,256867,+18%,+$0,,,,,AMPH
+308,D,2018-03-16 18:13:15,2018-03-15,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",A - Grant,$0.00,139716,11150121,+1%,+$0,,,,,AMPH
+309,D,2018-03-15 16:16:01,2018-03-13,AMPH,Peters William J,"CFO, SVP, Treasurer",M - OptEx,$11.33,19801,78314,+34%,"+$224,345",,,,,AMPH
+310,D,2018-03-15 16:16:01,2018-03-13,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale+OE,$20.10,-19801,78314,-20%,"-$398,004",,,,,AMPH
+311,DM,2018-03-15 16:15:31,2018-03-13,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$11.79,700,216948,0%,"+$8,253",,,,,AMPH
+312,DM,2018-03-15 16:15:31,2018-03-13,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$20.45,-700,216948,0%,"-$14,315",,,,,AMPH
+313,M,2018-01-26 18:02:48,2018-01-25,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$19.42,-18627,216948,-8%,"-$361,747",,,,,AMPH
+314,,2017-12-19 18:28:10,2017-12-19,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale,$19.48,-523,30164,-2%,"-$10,186",,,,,AMPH
+315,D,2017-12-19 18:25:37,2017-12-15,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$19.30,-830089,11010405,-7%,"-$16,020,718",,,,,AMPH
+316,D,2017-12-19 18:25:37,2017-12-15,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",M - OptEx,$12.02,1012675,11010405,+10%,"+$12,175,392",,,,,AMPH
+317,D,2017-12-14 20:03:34,2017-12-14,AMPH,Shohet Stephen B.,Dir,M - OptEx,$10.77,7866,24116,+48%,"+$84,717",,,,,AMPH
+318,D,2017-12-14 20:03:34,2017-12-14,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$18.87,-7866,24116,-25%,"-$148,430",,,,,AMPH
+319,,2017-12-14 20:02:19,2017-12-12,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale,$18.96,-523,30687,-2%,"-$9,917",,,,,AMPH
+320,D,2017-12-08 16:30:26,2017-12-07,AMPH,Shohet Stephen B.,Dir,M - OptEx,$10.77,7862,24116,+48%,"+$84,674",,,,,AMPH
+321,D,2017-12-08 16:30:26,2017-12-07,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$18.34,-7862,24116,-25%,"-$144,210",,,,,AMPH
+322,,2017-12-05 16:30:39,2017-12-01,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$19.67,-6226,78314,-7%,"-$122,465",,,,,AMPH
+323,D,2017-11-30 19:38:15,2017-11-30,AMPH,Shohet Stephen B.,Dir,M - OptEx,$10.77,7862,24116,+48%,"+$84,674",,,,,AMPH
+324,D,2017-11-30 19:38:15,2017-11-30,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$19.25,-7862,24116,-25%,"-$151,344",,,,,AMPH
+325,,2017-11-30 19:37:24,2017-11-28,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale,$18.15,-523,31210,-2%,"-$9,493",,,,,AMPH
+326,D,2017-11-24 20:00:52,2017-11-22,AMPH,Shohet Stephen B.,Dir,M - OptEx,$10.77,7862,24116,+48%,"+$84,674",,,,,AMPH
+327,D,2017-11-24 20:00:52,2017-11-22,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$18.94,-7862,24116,-25%,"-$148,895",,,,,AMPH
+328,,2017-11-21 17:21:44,2017-11-21,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale,$18.81,-523,31733,-2%,"-$9,839",,,,,AMPH
+329,D,2017-11-17 20:02:38,2017-11-16,AMPH,Shohet Stephen B.,Dir,M - OptEx,$10.77,7862,24116,+48%,"+$84,674",,,,,AMPH
+330,D,2017-11-17 20:02:38,2017-11-16,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$18.04,-7862,24116,-25%,"-$141,862",,,,,AMPH
+331,,2017-11-17 20:01:08,2017-11-15,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale,$17.77,-523,32256,-2%,"-$9,292",,,,,AMPH
+332,D,2017-11-14 19:39:21,2017-11-13,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",M - OptEx,$12.02,506337,10827819,+5%,"+$6,087,690",,,,,AMPH
+333,D,2017-11-09 21:04:02,2017-11-09,AMPH,Shohet Stephen B.,Dir,M - OptEx,$10.77,7862,24116,+48%,"+$84,674",,,,,AMPH
+334,D,2017-11-09 21:04:02,2017-11-09,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$18.55,-7862,24116,-25%,"-$145,845",,,,,AMPH
+335,,2017-11-09 21:00:47,2017-11-07,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale,$17.93,-523,32779,-2%,"-$9,375",,,,,AMPH
+336,D,2017-11-03 16:05:43,2017-11-02,AMPH,Shohet Stephen B.,Dir,M - OptEx,$10.77,7862,24116,+48%,"+$84,674",,,,,AMPH
+337,D,2017-11-03 16:05:43,2017-11-02,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$18.37,-7862,24116,-25%,"-$144,460",,,,,AMPH
+338,D,2017-10-26 18:21:41,2017-10-26,AMPH,Shohet Stephen B.,Dir,M - OptEx,$10.77,7862,24116,+48%,"+$84,674",,,,,AMPH
+339,D,2017-10-26 18:21:41,2017-10-26,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$18.39,-7862,24116,-25%,"-$144,618",,,,,AMPH
+340,,2017-10-26 18:20:25,2017-10-24,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale,$18.29,-523,33302,-2%,"-$9,568",,,,,AMPH
+341,D,2017-10-19 20:01:34,2017-10-19,AMPH,Shohet Stephen B.,Dir,M - OptEx,$10.77,7862,24116,+48%,"+$84,674",,,,,AMPH
+342,D,2017-10-19 20:01:34,2017-10-19,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$18.34,-7862,24116,-25%,"-$144,195",,,,,AMPH
+343,,2017-10-19 20:00:49,2017-10-17,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale,$18.48,-523,33825,-2%,"-$9,665",,,,,AMPH
+344,D,2017-10-13 20:02:13,2017-10-12,AMPH,Shohet Stephen B.,Dir,M - OptEx,$10.77,7862,24116,+48%,"+$84,674",,,,,AMPH
+345,D,2017-10-13 20:02:13,2017-10-12,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$18.73,-7862,24116,-25%,"-$147,219",,,,,AMPH
+346,,2017-10-13 20:00:43,2017-10-13,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$18.56,-3026,83496,-3%,"-$56,176",,,,,AMPH
+347,D,2017-10-06 17:54:03,2017-10-05,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",M - OptEx,$11.33,8444,34348,+33%,"+$95,671",,,,,AMPH
+348,D,2017-10-06 17:54:03,2017-10-05,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale+OE,$18.87,-8444,34348,-20%,"-$159,376",,,,,AMPH
+349,D,2017-10-06 17:52:33,2017-10-04,AMPH,Petersen Floyd F.,Dir,M - OptEx,$10.77,39312,64561,+156%,"+$423,390",,,,,AMPH
+350,D,2017-10-06 17:52:33,2017-10-04,AMPH,Petersen Floyd F.,Dir,S - Sale+OE,$18.59,-39312,64561,-38%,"-$730,755",,,,,AMPH
+351,D,2017-10-03 18:18:52,2017-10-02,AMPH,Zasloff Michael A,Dir,M - OptEx,$10.77,63624,38255,-251%,"+$685,230",,,,,AMPH
+352,D,2017-10-03 18:18:52,2017-10-02,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$18.18,-63624,38255,-62%,"-$1,156,952",,,,,AMPH
+353,D,2017-09-15 16:30:29,2017-09-13,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$15.86,-274386,10321482,-3%,"-$4,352,967",,,,,AMPH
+354,D,2017-09-15 16:30:29,2017-09-13,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",M - OptEx,$11.53,315619,10321482,+3%,"+$3,639,087",,,,,AMPH
+355,DM,2017-08-16 18:57:02,2017-08-14,AMPH,Prins Richard K,Dir,M - OptEx,$10.77,10000,28844,+53%,"+$107,700",,,,,AMPH
+356,DM,2017-08-16 18:57:02,2017-08-14,AMPH,Prins Richard K,Dir,S - Sale+OE,$14.81,-10000,28844,-26%,"-$148,084",,,,,AMPH
+357,,2017-07-07 16:51:24,2017-07-05,AMPH,Shandell Jason B.,"Pres, GC",F - Tax,$17.95,-3394,235493,-1%,"-$60,922",,,,,AMPH
+358,,2017-06-16 19:14:23,2017-06-15,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$16.18,-146,152764,0%,"-$2,362",,,,,AMPH
+359,,2017-06-16 19:13:22,2017-06-15,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",F - Tax,$16.18,-146,34348,0%,"-$2,362",,,,,AMPH
+360,D,2017-06-12 20:19:48,2017-06-08,AMPH,Zasloff Michael A,Dir,A - Grant,$0.00,5844,38255,+18%,+$0,,,,,AMPH
+361,D,2017-06-12 20:15:48,2017-06-08,AMPH,Shohet Stephen B.,Dir,A - Grant,$0.00,5844,24116,+32%,+$0,,,,,AMPH
+362,D,2017-06-12 20:10:03,2017-06-08,AMPH,Prins Richard K,Dir,A - Grant,$0.00,5844,28844,+25%,+$0,,,,,AMPH
+363,D,2017-06-12 20:10:03,2017-06-09,AMPH,Prins Richard K,Dir,M - OptEx,$10.77,10000,28844,+53%,"+$107,700",,,,,AMPH
+364,D,2017-06-12 20:10:03,2017-06-09,AMPH,Prins Richard K,Dir,S - Sale+OE,$17.07,-10000,28844,-26%,"-$170,707",,,,,AMPH
+365,D,2017-06-12 20:05:03,2017-06-08,AMPH,Petersen Floyd F.,Dir,A - Grant,$0.00,5844,64561,+10%,+$0,,,,,AMPH
+366,D,2017-06-12 19:59:33,2017-06-08,AMPH,Lee Howard,Dir,A - Grant,$0.00,5844,118545,+5%,+$0,,,,,AMPH
+367,D,2017-06-12 19:59:33,2017-06-09,AMPH,Lee Howard,Dir,F - Tax,$16.84,-1826,118545,-2%,"-$30,750",,,,,AMPH
+368,D,2017-06-12 19:49:33,2017-06-08,AMPH,Koo Richard,Dir,A - Grant,$0.00,5844,245338,+2%,+$0,,,,,AMPH
+369,D,2017-06-01 20:06:06,2017-06-01,AMPH,Zasloff Michael A,Dir,M - OptEx,$10.77,15000,32411,+86%,"+$161,550",,,,,AMPH
+370,D,2017-06-01 20:06:06,2017-06-01,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$17.01,-15000,32411,-32%,"-$255,201",,,,,AMPH
+371,M,2017-06-01 20:05:36,2017-05-30,AMPH,Shandell Jason B.,Dir,S - Sale,$16.92,-11482,237688,-5%,"-$194,300",,,,,AMPH
+372,,2017-06-01 20:00:36,2017-05-30,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$16.93,-4297,86522,-5%,"-$72,731",,,,,AMPH
+373,D,2017-05-25 16:15:18,2017-05-23,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",M - OptEx,$11.51,647343,10280249,+7%,"+$7,448,329",,,,,AMPH
+374,D,2017-05-12 16:30:44,2017-05-11,AMPH,Prins Richard K,Dir,M - OptEx,$10.77,7500,23000,+48%,"+$80,775",,,,,AMPH
+375,D,2017-05-12 16:30:44,2017-05-11,AMPH,Prins Richard K,Dir,S - Sale+OE,$15.43,-7500,23000,-25%,"-$115,725",,,,,AMPH
+376,,2017-04-25 16:30:45,2017-04-21,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$14.74,-1384,90819,-2%,"-$20,400",2.0,1.0,,,AMPH
+377,,2017-04-17 19:06:56,2017-04-14,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",F - Tax,$14.80,-754,34494,-2%,"-$11,159",-2.0,-1.0,,,AMPH
+378,,2017-03-28 20:15:42,2017-03-26,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$13.76,-568,151640,0%,"-$7,816",0.0,-3.0,5.0,,AMPH
+379,,2017-03-28 20:13:26,2017-03-26,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",F - Tax,$13.76,-614,35248,-2%,"-$8,449",0.0,-3.0,5.0,,AMPH
+380,,2017-03-28 20:10:42,2017-03-26,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$13.76,-1823,92203,-2%,"-$25,084",0.0,-3.0,5.0,,AMPH
+381,M,2017-03-28 20:08:13,2017-03-26,AMPH,Shandell Jason B.,"Pres, GC",F - Tax,$14.04,-10652,249170,-4%,"-$149,600",0.0,-3.0,5.0,,AMPH
+382,M,2017-03-28 20:03:57,2017-03-26,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$14.05,-65254,9632906,-1%,"-$916,638",0.0,-3.0,5.0,,AMPH
+383,D,2017-03-20 21:04:55,2017-03-16,AMPH,Zhou Rong,"EVP, Production Center",A - Grant,$0.00,11797,152208,+8%,+$0,-5.0,-4.0,2.0,,AMPH
+384,D,2017-03-20 21:04:55,2017-03-17,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$13.75,-1248,152208,-1%,"-$17,160",-5.0,-4.0,2.0,,AMPH
+385,D,2017-03-20 21:03:10,2017-03-16,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",A - Grant,$0.00,10861,35862,+43%,+$0,-5.0,-4.0,2.0,,AMPH
+386,D,2017-03-20 21:03:10,2017-03-17,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",F - Tax,$13.75,-1194,35862,-3%,"-$16,418",-5.0,-4.0,2.0,,AMPH
+387,D,2017-03-20 21:00:40,2017-03-16,AMPH,Peters William J,"CFO, SVP, Treasurer",A - Grant,$0.00,33707,94026,+56%,+$0,-5.0,-4.0,2.0,,AMPH
+388,D,2017-03-20 21:00:40,2017-03-17,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$13.75,-3704,94026,-4%,"-$50,930",-5.0,-4.0,2.0,,AMPH
+389,D,2017-03-20 20:58:10,2017-03-16,AMPH,Shandell Jason B.,"Pres, GC",A - Grant,$0.00,63670,259822,+32%,+$0,-5.0,-4.0,2.0,,AMPH
+390,D,2017-03-20 20:58:10,2017-03-17,AMPH,Shandell Jason B.,"Pres, GC",F - Tax,$13.75,-7049,259822,-3%,"-$96,924",-5.0,-4.0,2.0,,AMPH
+391,D,2017-03-20 20:50:10,2017-03-16,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",A - Grant,$0.00,223969,9698160,+2%,+$0,-5.0,-4.0,2.0,,AMPH
+392,D,2017-03-20 20:50:10,2017-03-17,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",F - Tax,$13.75,-33059,9698160,0%,"-$454,561",-5.0,-4.0,2.0,,AMPH
+393,,2017-01-04 18:36:41,2017-01-03,AMPH,Petersen Floyd F.,Dir,S - Sale,$18.61,-400,58717,-1%,"-$7,444",-4.0,-7.0,-19.0,,AMPH
+394,,2016-12-16 19:01:10,2016-12-15,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale,$20.51,-2940,26195,-10%,"-$60,287",-3.0,-5.0,-22.0,,AMPH
+395,,2016-12-07 19:00:51,2016-12-05,AMPH,Zhou Rong,"EVP, Production Center",S - Sale,$20.70,-61,141659,0%,"-$1,262",2.0,1.0,-6.0,,AMPH
+396,,2016-12-02 19:00:33,2016-12-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$20.26,-400,59117,-1%,"-$8,104",3.0,-1.0,-9.0,,AMPH
+397,DM,2016-11-29 18:13:04,2016-11-25,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$10.93,26335,202961,+15%,"+$287,842",0.0,2.0,-9.0,,AMPH
+398,DM,2016-11-29 18:13:04,2016-11-25,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$20.48,-26335,202961,-11%,"-$539,258",0.0,2.0,-9.0,,AMPH
+399,DM,2016-11-16 16:30:45,2016-11-14,AMPH,Lee Howard,Dir,M - OptEx,$14.23,37994,114527,+50%,"+$540,655",2.0,-7.0,-3.0,,AMPH
+400,DM,2016-11-16 16:30:45,2016-11-14,AMPH,Lee Howard,Dir,S - Sale+OE,$20.65,-37994,114527,-25%,"-$784,680",2.0,-7.0,-3.0,,AMPH
+401,D,2016-11-15 16:18:59,2016-11-11,AMPH,Prins Richard K,Dir,M - OptEx,$10.77,5000,23000,+28%,"+$53,850",1.0,-4.0,-6.0,,AMPH
+402,D,2016-11-15 16:18:59,2016-11-11,AMPH,Prins Richard K,Dir,S - Sale+OE,$20.06,-8000,23000,-26%,"-$160,501",1.0,-4.0,-6.0,,AMPH
+403,,2016-11-03 19:02:19,2016-11-01,AMPH,Petersen Floyd F.,Dir,S - Sale,$18.09,-400,59517,-1%,"-$7,236",2.0,19.0,17.0,-11.0,AMPH
+404,,2016-10-05 19:00:52,2016-10-03,AMPH,Petersen Floyd F.,Dir,S - Sale,$18.75,-400,59917,-1%,"-$7,500",-4.0,-4.0,-8.0,-29.0,AMPH
+405,D,2016-09-27 18:26:38,2016-09-26,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$10.93,56996,202961,+39%,"+$622,966",-2.0,-3.0,-7.0,-27.0,AMPH
+406,D,2016-09-27 18:26:38,2016-09-26,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$19.50,-56996,202961,-22%,"-$1,111,268",-2.0,-3.0,-7.0,-27.0,AMPH
+407,DM,2016-09-22 16:39:34,2016-09-20,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",M - OptEx,$16.75,444199,9507250,+5%,"+$7,441,666",2.0,-1.0,-6.0,-29.0,AMPH
+408,DM,2016-09-22 16:39:34,2016-09-20,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",S - Sale+OE,$21.03,-444199,9507250,-4%,"-$9,342,804",2.0,-1.0,-6.0,-29.0,AMPH
+409,,2016-09-12 17:03:13,2016-09-08,AMPH,Petersen Floyd F.,Dir,S - Sale,$19.05,-3000,60317,-5%,"-$57,150",-3.0,4.0,7.0,-20.0,AMPH
+410,D,2016-09-02 19:05:26,2016-09-01,AMPH,Lee Howard,Dir,M - OptEx,$15.23,10381,114527,+10%,"+$158,103",2.0,-2.0,4.0,-19.0,AMPH
+411,D,2016-09-02 19:05:26,2016-09-01,AMPH,Lee Howard,Dir,S - Sale+OE,$18.78,-10381,114527,-8%,"-$194,917",2.0,-2.0,4.0,-19.0,AMPH
+412,D,2016-08-24 18:38:52,2016-08-22,AMPH,Shandell Jason B.,"Pres, GC",M - OptEx,$10.46,10000,202961,+5%,"+$104,600",0.0,1.0,2.0,-22.0,AMPH
+413,D,2016-08-24 18:38:52,2016-08-22,AMPH,Shandell Jason B.,"Pres, GC",S - Sale+OE,$19.95,-10000,202961,-5%,"-$199,500",0.0,1.0,2.0,-22.0,AMPH
+414,,2016-08-19 19:28:17,2016-08-18,AMPH,Prins Richard K,Dir,S - Sale,$19.62,-3086,26000,-11%,"-$60,539",3.0,-1.0,-2.0,-5.0,AMPH
+415,D,2016-08-19 19:26:02,2016-08-19,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",M - OptEx,$12.31,24046,28985,+487%,"+$295,975",3.0,-1.0,-2.0,-5.0,AMPH
+416,D,2016-08-19 19:26:02,2016-08-19,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale+OE,$19.28,-24046,28985,-45%,"-$463,607",3.0,-1.0,-2.0,-5.0,AMPH
+417,,2016-08-19 19:23:17,2016-08-17,AMPH,Shandell Jason B.,"Pres, GC",S - Sale,$18.86,-5987,202961,-3%,"-$112,909",3.0,-1.0,-2.0,-5.0,AMPH
+418,DM,2016-08-16 20:32:21,2016-08-12,AMPH,Shohet Stephen B.,Dir,M - OptEx,$14.44,48375,18272,-161%,"+$698,757",4.0,9.0,-1.0,-5.0,AMPH
+419,DM,2016-08-16 20:32:21,2016-08-12,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$18.24,-48375,18272,-73%,"-$882,281",4.0,9.0,-1.0,-5.0,AMPH
+420,DM,2016-08-16 20:31:51,2016-08-12,AMPH,Zasloff Michael A,Dir,M - OptEx,$14.44,48375,32411,-303%,"+$698,757",4.0,9.0,-1.0,-5.0,AMPH
+421,DM,2016-08-16 20:31:51,2016-08-12,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$18.15,-48375,32411,-60%,"-$878,106",4.0,9.0,-1.0,-5.0,AMPH
+422,,2016-08-15 19:47:35,2016-08-12,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$18.19,-1027,63625,-2%,"-$18,681",0.0,6.0,-3.0,-7.0,AMPH
+423,,2016-08-15 19:37:12,2016-08-11,AMPH,Shandell Jason B.,Pres,S - Sale,$18.01,-5636,208948,-3%,"-$101,482",0.0,6.0,-3.0,-7.0,AMPH
+424,D,2016-08-12 16:31:38,2016-08-11,AMPH,Prins Richard K,Dir,M - OptEx,$12.56,13993,29086,+93%,"+$175,765",2.0,8.0,2.0,-7.0,AMPH
+425,D,2016-08-12 16:31:38,2016-08-11,AMPH,Prins Richard K,Dir,S - Sale+OE,$18.03,-13993,29086,-32%,"-$252,274",2.0,8.0,2.0,-7.0,AMPH
+426,,2016-07-19 16:30:44,2016-07-18,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$17.76,-2297,64652,-3%,"-$40,795",2.0,-3.0,7.0,-3.0,AMPH
+427,,2016-07-07 16:39:50,2016-07-05,AMPH,Shandell Jason B.,"Pres, GC",F - Tax,$16.33,-3394,214584,-2%,"-$55,424",1.0,4.0,-3.0,16.0,AMPH
+428,,2016-06-17 18:41:02,2016-06-15,AMPH,Zhou Rong,"EVP, Production Center",F - Tax,$15.76,-146,141659,0%,"-$2,301",-1.0,7.0,16.0,32.0,AMPH
+429,,2016-06-17 18:41:02,2016-06-15,AMPH,Zhou Rong,"EVP, Production Center",S - Sale,$15.85,-1551,141659,-1%,"-$24,584",-1.0,7.0,16.0,32.0,AMPH
+430,,2016-06-17 18:40:10,2016-06-15,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",F - Tax,$15.76,-146,28985,-1%,"-$2,301",-1.0,7.0,16.0,32.0,AMPH
+431,D,2016-06-13 20:33:29,2016-06-09,AMPH,Zasloff Michael A,Dir,A - Grant,$0.00,6086,32411,+23%,+$0,-1.0,-6.0,9.0,25.0,AMPH
+432,D,2016-06-13 20:32:47,2016-06-09,AMPH,Shohet Stephen B.,Dir,A - Grant,$0.00,6086,18272,+50%,+$0,-1.0,-6.0,9.0,25.0,AMPH
+433,D,2016-06-13 20:28:46,2016-06-09,AMPH,Prins Richard K,Dir,A - Grant,$0.00,6086,29086,+26%,+$0,-1.0,-6.0,9.0,25.0,AMPH
+434,D,2016-06-13 20:28:46,2016-06-13,AMPH,Prins Richard K,Dir,M - OptEx,$14.23,7500,29086,+35%,"+$106,725",-1.0,-6.0,9.0,25.0,AMPH
+435,D,2016-06-13 20:28:46,2016-06-13,AMPH,Prins Richard K,Dir,S - Sale+OE,$15.94,-7500,29086,-20%,"-$119,536",-1.0,-6.0,9.0,25.0,AMPH
+436,D,2016-06-13 20:27:35,2016-06-09,AMPH,Petersen Floyd F.,Dir,A - Grant,$0.00,6086,63317,+11%,+$0,-1.0,-6.0,9.0,25.0,AMPH
+437,D,2016-06-13 20:25:54,2016-06-09,AMPH,Lee Howard,Dir,A - Grant,$0.00,6086,114527,+6%,+$0,-1.0,-6.0,9.0,25.0,AMPH
+438,D,2016-06-13 20:21:28,2016-06-09,AMPH,Koo Richard,Dir,A - Grant,$0.00,6086,239494,+3%,+$0,-1.0,-6.0,9.0,25.0,AMPH
+439,,2016-06-13 20:16:46,2016-06-09,AMPH,Shandell Jason B.,Pres,S - Sale,$16.43,-9904,216610,-4%,"-$162,723",-1.0,-6.0,9.0,25.0,AMPH
+440,,2016-06-03 16:30:27,2016-06-02,AMPH,Peters William J,"CFO, SVP, Treasurer",S - Sale,$16.00,-2297,66949,-3%,"-$36,752",2.0,4.0,3.0,28.0,AMPH
+441,,2016-06-01 17:50:31,2016-05-27,AMPH,Lee Howard,Dir,F - Tax,$15.75,-1460,108441,-1%,"-$22,995",1.0,2.0,1.0,29.0,AMPH
+442,,2016-05-26 19:19:58,2016-05-25,AMPH,Shandell Jason B.,Pres,S - Sale,$15.60,-1074,226514,0%,"-$16,754",2.0,4.0,1.0,29.0,AMPH
+443,,2016-05-19 17:47:51,2016-05-17,AMPH,Prins Richard K,Dir,S - Sale,$13.56,-3200,23000,-12%,"-$43,391",8.0,9.0,5.0,48.0,AMPH
+444,,2016-05-19 17:45:14,2016-05-18,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale,$13.97,-1427,28649,-5%,"-$19,939",8.0,9.0,5.0,48.0,AMPH
+445,,2016-04-22 19:07:04,2016-04-21,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$13.05,-1383,69246,-2%,"-$18,048",-3.0,-4.0,18.0,38.0,AMPH
+446,DM,2016-04-20 16:52:03,2016-04-18,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",M - OptEx,$10.76,19817,30076,+193%,"+$213,262",1.0,-1.0,9.0,40.0,AMPH
+447,DM,2016-04-20 16:52:03,2016-04-18,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",S - Sale+OE,$12.89,-21244,30076,-41%,"-$273,774",1.0,-1.0,9.0,40.0,AMPH
+448,,2016-04-18 16:30:29,2016-04-14,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",F - Tax,$12.66,-741,31503,-2%,"-$9,381",0.0,1.0,4.0,42.0,AMPH
+449,,2016-03-29 19:36:33,2016-03-26,AMPH,Zhou Rong,"EVP, Production",F - Tax,$11.96,-568,141805,0%,"-$6,793",-2.0,6.0,5.0,67.0,AMPH
+450,,2016-03-29 19:31:35,2016-03-26,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",F - Tax,$11.96,-614,32244,-2%,"-$7,343",-2.0,6.0,5.0,67.0,AMPH
+451,,2016-03-29 19:28:01,2016-03-26,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$11.96,-1823,70629,-3%,"-$21,803",-2.0,6.0,5.0,67.0,AMPH
+452,M,2016-03-29 19:24:38,2016-03-26,AMPH,Shandell Jason B.,Pres,F - Tax,$11.96,-10652,227588,-4%,"-$127,398",-2.0,6.0,5.0,67.0,AMPH
+453,M,2016-03-29 19:20:59,2016-03-26,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",F - Tax,$11.96,-56912,9507250,-1%,"-$680,668",-2.0,6.0,5.0,67.0,AMPH
+454,,2016-03-21 20:17:18,2016-03-17,AMPH,Prins Richard K,Dir,S - Sale,$11.25,-2400,26200,-8%,"-$27,000",3.0,-3.0,8.0,62.0,AMPH
+455,D,2016-03-21 20:12:40,2016-03-17,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",A - Grant,$0.00,11253,32858,+52%,+$0,3.0,-3.0,8.0,62.0,AMPH
+456,D,2016-03-21 20:09:02,2016-03-17,AMPH,Zhou Rong,"EVP, Production",A - Grant,$0.00,11473,142373,+9%,+$0,3.0,-3.0,8.0,62.0,AMPH
+457,D,2016-03-21 20:07:04,2016-03-17,AMPH,Peters William J,"CFO, SVP, Treasurer",A - Grant,$0.00,39717,72452,+121%,+$0,3.0,-3.0,8.0,62.0,AMPH
+458,D,2016-03-21 20:04:39,2016-03-17,AMPH,Shandell Jason B.,Pres,A - Grant,$0.00,75022,238240,+46%,+$0,3.0,-3.0,8.0,62.0,AMPH
+459,D,2016-03-21 20:03:04,2016-03-17,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",A - Grant,$0.00,263901,9564162,+3%,+$0,3.0,-3.0,8.0,62.0,AMPH
+460,,2016-02-03 19:56:00,2015-12-15,AMPH,Prins Richard K,Dir,G - Gift,$0.00,-350,28600,-1%,-$0,-3.0,-3.0,-3.0,41.0,AMPH
+461,ADM,2016-02-03 19:41:17,2015-06-10,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",M - OptEx,$12.97,176860,9448620,+2%,"+$2,293,874",-3.0,-3.0,-3.0,41.0,AMPH
+462,ADM,2016-02-03 19:41:17,2015-06-10,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",S - Sale+OE,$16.23,-160495,9448620,-2%,"-$2,605,207",-3.0,-3.0,-3.0,41.0,AMPH
+463,,2015-12-17 19:30:14,2015-12-16,AMPH,Zhou Rong,"EVP, Production",S - Sale,$14.29,-772,130128,-1%,"-$11,032",0.0,2.0,-15.0,6.0,AMPH
+464,DM,2015-12-17 19:24:35,2015-12-16,AMPH,Zasloff Michael A,Dir,M - OptEx,$11.68,30770,26325,-692%,"+$359,394",0.0,2.0,-15.0,6.0,AMPH
+465,DM,2015-12-17 19:24:35,2015-12-16,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$14.20,-30770,26325,-54%,"-$436,853",0.0,2.0,-15.0,6.0,AMPH
+466,DM,2015-12-17 19:21:35,2015-12-16,AMPH,Shohet Stephen B.,Dir,M - OptEx,$11.68,30770,12186,-166%,"+$359,394",0.0,2.0,-15.0,6.0,AMPH
+467,DM,2015-12-17 19:21:35,2015-12-16,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$14.19,-30770,12186,-72%,"-$436,719",0.0,2.0,-15.0,6.0,AMPH
+468,DM,2015-12-17 19:20:20,2015-12-15,AMPH,Lee Howard,Dir,M - OptEx,$11.68,38462,109901,+54%,"+$449,236",0.0,2.0,-15.0,6.0,AMPH
+469,DM,2015-12-17 19:20:20,2015-12-15,AMPH,Lee Howard,Dir,S - Sale+OE,$14.34,-38462,109901,-26%,"-$551,599",0.0,2.0,-15.0,6.0,AMPH
+470,M,2015-12-11 18:19:27,2015-12-09,AMPH,"Applied Physics & Chemistry Laboratories, Inc.",10%,S - Sale,$14.25,-63300,7461594,-1%,"-$901,753",2.0,1.0,-11.0,13.0,AMPH
+471,M,2015-12-11 18:12:32,2015-12-09,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",S - Sale,$14.25,-63300,9256858,-1%,"-$901,753",2.0,1.0,-11.0,13.0,AMPH
+472,M,2015-12-08 19:20:10,2015-12-04,AMPH,"Applied Physics & Chemistry Laboratories, Inc.",10%,S - Sale,$14.71,-68117,7524894,-1%,"-$1,001,909",-1.0,-1.0,-9.0,12.0,AMPH
+473,M,2015-12-08 19:14:27,2015-12-04,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",S - Sale,$14.71,-68117,9320158,-1%,"-$1,001,909",-1.0,-1.0,-9.0,12.0,AMPH
+474,M,2015-12-03 19:14:36,2015-12-01,AMPH,"Applied Physics & Chemistry Laboratories, Inc.",10%,S - Sale,$15.45,-38583,7593011,-1%,"-$596,241",-2.0,-6.0,-10.0,4.0,AMPH
+475,M,2015-12-03 19:12:39,2015-12-01,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",S - Sale,$15.45,-38583,9388275,0%,"-$596,241",-2.0,-6.0,-10.0,4.0,AMPH
+476,D,2015-11-24 16:05:30,2015-11-20,AMPH,Petersen Floyd F.,Dir,M - OptEx,$11.68,38462,57231,+205%,"+$449,236",4.0,8.0,1.0,8.0,AMPH
+477,D,2015-11-24 16:05:30,2015-11-20,AMPH,Petersen Floyd F.,Dir,S - Sale+OE,$14.29,-31529,57231,-36%,"-$450,512",4.0,8.0,1.0,8.0,AMPH
+478,,2015-11-19 16:05:41,2015-08-24,AMPH,Prins Richard K,Dir,G - Gift,$0.00,-3000,28950,-9%,-$0,-1.0,3.0,-1.0,7.0,AMPH
+479,,2015-11-19 16:05:41,2015-11-17,AMPH,Prins Richard K,Dir,S - Sale,$13.95,-3772,28950,-12%,"-$52,606",-1.0,3.0,-1.0,7.0,AMPH
+480,,2015-10-06 16:30:45,2015-10-03,AMPH,Shandell Jason B.,Pres,F - Tax,$11.69,-987,159030,-1%,"-$11,538",2.0,2.0,10.0,15.0,AMPH
+481,,2015-09-30 16:30:24,2015-09-28,AMPH,Shandell Jason B.,Pres,F - Tax,$10.97,-770,160017,0%,"-$8,447",-1.0,-4.0,4.0,3.0,AMPH
+482,D,2015-08-19 20:18:13,2015-08-17,AMPH,Zhang Jack Y.,"CEO, Chief Scientific Officer, 10%",M - OptEx,$12.97,16962,9426858,0%,"+$219,997",-2.0,-10.0,2.0,-20.0,AMPH
+483,DM,2015-08-19 20:05:52,2015-08-17,AMPH,Prins Richard K,Dir,M - OptEx,$10.77,7500,35722,+27%,"+$80,775",-2.0,-10.0,2.0,-20.0,AMPH
+484,DM,2015-08-19 20:05:52,2015-08-17,AMPH,Prins Richard K,Dir,S - Sale+OE,$14.67,-14500,35722,-29%,"-$212,779",-2.0,-10.0,2.0,-20.0,AMPH
+485,D,2015-07-21 19:55:12,2015-07-17,AMPH,Shohet Stephen B.,Dir,M - OptEx,$11.68,7692,12186,+171%,"+$89,843",0.0,-2.0,-15.0,-30.0,AMPH
+486,D,2015-07-21 19:55:12,2015-07-17,AMPH,Shohet Stephen B.,Dir,S - Sale+OE,$17.41,-7692,12186,-39%,"-$133,923",0.0,-2.0,-15.0,-30.0,AMPH
+487,D,2015-07-21 19:53:58,2015-07-17,AMPH,Zasloff Michael A,Dir,M - OptEx,$11.68,7692,26325,+41%,"+$89,843",0.0,-2.0,-15.0,-30.0,AMPH
+488,D,2015-07-21 19:53:58,2015-07-17,AMPH,Zasloff Michael A,Dir,S - Sale+OE,$17.41,-7692,26325,-23%,"-$133,900",0.0,-2.0,-15.0,-30.0,AMPH
+489,M,2015-07-07 17:14:33,2015-03-27,AMPH,Shandell Jason B.,Pres,F - Tax,$16.09,-9289,160787,-5%,"-$149,472",-1.0,4.0,-7.0,-21.0,AMPH
+490,,2015-06-19 16:30:31,2015-06-17,AMPH,Zhou Rong,"EVP, Production",S - Sale,$16.48,-1000,130900,-1%,"-$16,480",2.0,5.0,0.0,-17.0,AMPH
+491,,2015-06-17 18:14:31,2015-03-27,AMPH,Purchase Marilyn J.,Former Officer,F - Tax,$15.43,-1639,59307,-3%,"-$25,290",4.0,10.0,7.0,-13.0,AMPH
+492,D,2015-06-17 18:08:50,2015-06-15,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",A - Grant,$0.00,1544,20178,+8%,+$0,4.0,10.0,7.0,-13.0,AMPH
+493,D,2015-06-17 18:08:50,2015-04-14,AMPH,Gerst Diane G.,"EVP, QA, Regulatory Affairs",F - Tax,$15.22,-862,20178,-4%,"-$13,120",4.0,10.0,7.0,-13.0,AMPH
+494,D,2015-06-17 18:06:02,2015-06-15,AMPH,Zhou Rong,"EVP, Production",A - Grant,$0.00,1544,131900,+1%,+$0,4.0,10.0,7.0,-13.0,AMPH
+495,D,2015-06-17 18:01:36,2015-06-15,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",F - Tax,$16.29,-4679,9409896,0%,"-$76,239",4.0,10.0,7.0,-13.0,AMPH
+496,D,2015-06-17 18:01:36,2015-06-15,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",M - OptEx,$12.97,50061,9409896,+1%,"+$649,291",4.0,10.0,7.0,-13.0,AMPH
+497,D,2015-06-17 18:01:36,2015-06-15,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",S - Sale+OE,$16.29,-45382,9409896,0%,"-$739,445",4.0,10.0,7.0,-13.0,AMPH
+498,DM,2015-06-12 21:30:00,2015-06-05,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",F - Tax,$16.36,-38724,9409896,0%,"-$633,532",0.0,5.0,11.0,-11.0,AMPH
+499,DM,2015-06-12 21:30:00,2015-06-10,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",M - OptEx,$12.97,176860,9409896,+2%,"+$2,293,874",0.0,5.0,11.0,-11.0,AMPH
+500,DM,2015-06-12 21:30:00,2015-06-10,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",S - Sale+OE,$16.23,-160495,9409896,-2%,"-$2,605,207",0.0,5.0,11.0,-11.0,AMPH
+501,D,2015-06-09 20:34:16,2015-03-27,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",F - Tax,$15.43,-29518,9432255,0%,"-$455,463",1.0,0.0,5.0,-8.0,AMPH
+502,DM,2015-06-09 20:34:16,2015-06-05,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",M - OptEx,$12.97,216117,9432255,+2%,"+$2,803,037",1.0,0.0,5.0,-8.0,AMPH
+503,DM,2015-06-09 20:34:16,2015-06-05,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",S - Sale+OE,$16.43,-193758,9432255,-2%,"-$3,183,419",1.0,0.0,5.0,-8.0,AMPH
+504,D,2015-05-29 20:26:09,2015-05-27,AMPH,Zasloff Michael A,Dir,A - Grant,$0.00,8686,26325,+49%,+$0,1.0,7.0,17.0,-7.0,AMPH
+505,D,2015-05-29 20:24:39,2015-05-27,AMPH,Shohet Stephen B.,Dir,A - Grant,$0.00,8686,12186,+248%,+$0,1.0,7.0,17.0,-7.0,AMPH
+506,D,2015-05-29 20:22:38,2015-05-27,AMPH,Prins Richard K,Dir,A - Grant,$0.00,8686,42722,+26%,+$0,1.0,7.0,17.0,-7.0,AMPH
+507,D,2015-05-29 20:22:38,2015-01-27,AMPH,Prins Richard K,Dir,G - Gift,$0.00,-2015,42722,-5%,-$0,1.0,7.0,17.0,-7.0,AMPH
+508,D,2015-05-29 20:20:38,2015-05-27,AMPH,Petersen Floyd F.,Dir,A - Grant,$0.00,8686,50298,+21%,+$0,1.0,7.0,17.0,-7.0,AMPH
+509,D,2015-05-29 20:18:38,2015-05-27,AMPH,Lee Howard,Dir,A - Grant,$0.00,8686,109901,+9%,+$0,1.0,7.0,17.0,-7.0,AMPH
+510,D,2015-05-29 20:17:09,2015-05-27,AMPH,Koo Richard,Dir,A - Grant,$0.00,8686,233408,+4%,+$0,1.0,7.0,17.0,-7.0,AMPH
+511,DM,2015-05-22 19:51:52,2015-05-20,AMPH,Prins Richard K,Dir,M - OptEx,$11.57,29452,36051,+446%,"+$340,718",0.0,4.0,20.0,0.0,AMPH
+512,DM,2015-05-22 19:51:52,2015-05-20,AMPH,Prins Richard K,Dir,S - Sale+OE,$14.77,-29452,36051,-45%,"-$435,085",0.0,4.0,20.0,0.0,AMPH
+513,D,2015-05-20 16:30:31,2015-05-19,AMPH,Prins Richard K,Dir,M - OptEx,$11.68,3000,36051,+9%,"+$35,040",-1.0,2.0,15.0,-7.0,AMPH
+514,D,2015-05-20 16:30:31,2015-05-19,AMPH,Prins Richard K,Dir,S - Sale+OE,$14.94,-3000,36051,-8%,"-$44,825",-1.0,2.0,15.0,-7.0,AMPH
+515,,2015-04-23 21:01:08,2015-04-21,AMPH,Peters William J,"CFO, SVP, Treasurer",F - Tax,$15.21,-1384,32735,-4%,"-$21,051",0.0,-2.0,-4.0,-24.0,AMPH
+516,D,2015-04-10 19:31:51,2015-04-08,AMPH,Gerst Diane G.,Corp. SVP of Quality Assurance,M - OptEx,$14.80,10000,19496,+105%,"+$148,000",-1.0,0.0,-10.0,-25.0,AMPH
+517,D,2015-04-10 19:31:51,2015-04-08,AMPH,Gerst Diane G.,Corp. SVP of Quality Assurance,S - Sale+OE,$15.79,-10000,19496,-34%,"-$157,900",-1.0,0.0,-10.0,-25.0,AMPH
+518,D,2015-04-10 19:29:36,2015-04-09,AMPH,Purchase Marilyn J.,Corp. EVP of Operations,M - OptEx,$14.80,28000,60946,+85%,"+$414,400",-1.0,0.0,-10.0,-25.0,AMPH
+519,D,2015-04-10 19:29:36,2015-04-09,AMPH,Purchase Marilyn J.,Corp. EVP of Operations,S - Sale+OE,$15.79,-28000,60946,-31%,"-$442,120",-1.0,0.0,-10.0,-25.0,AMPH
+520,D,2015-03-30 06:06:57,2015-03-26,AMPH,Gerst Diane G.,Corp. SVP of Quality Assurance,A - Grant,$0.00,6688,19496,+52%,+$0,-3.0,-2.0,-3.0,-26.0,AMPH
+521,D,2015-03-30 06:05:27,2015-03-26,AMPH,Purchase Marilyn J.,Corp. EVP of Operations,A - Grant,$0.00,14046,60946,+30%,+$0,-3.0,-2.0,-3.0,-26.0,AMPH
+522,DM,2015-03-30 06:05:27,2014-07-07,AMPH,Purchase Marilyn J.,Corp. EVP of Operations,F - Tax,$9.54,-1758,60946,-3%,"-$16,763",-3.0,-2.0,-3.0,-26.0,AMPH
+523,D,2015-03-30 06:03:57,2015-03-26,AMPH,Peters William J,"CFO, SVP, Treasurer",A - Grant,$0.00,19397,34119,+132%,+$0,-3.0,-2.0,-3.0,-26.0,AMPH
+524,D,2015-03-30 06:02:29,2015-03-26,AMPH,Shandell Jason B.,Pres,A - Grant,$0.00,50167,170076,+42%,+$0,-3.0,-2.0,-3.0,-26.0,AMPH
+525,DM,2015-03-30 06:02:29,2014-07-07,AMPH,Shandell Jason B.,Pres,F - Tax,$9.43,-7523,170076,-4%,"-$70,948",-3.0,-2.0,-3.0,-26.0,AMPH
+526,D,2015-03-30 06:00:59,2015-03-26,AMPH,Zhang Jack Y.,"CEO, Chief Science Officer, 10%",A - Grant,$0.00,178929,9439414,+2%,+$0,-3.0,-2.0,-3.0,-26.0,AMPH
+527,,2014-08-27 13:57:15,2014-08-25,AMPH,Lee Howard,Dir,P - Purchase,$10.84,6000,101215,+6%,"+$65,022",-1.0,4.0,4.0,20.0,AMPH
+528,,2014-08-20 16:02:12,2014-08-19,AMPH,Zasloff Michael A,Dir,P - Purchase,$10.00,3500,17639,+25%,"+$35,000",0.0,14.0,19.0,28.0,AMPH
+529,M,2014-08-19 20:55:03,2014-08-15,AMPH,Prins Richard K,Dir,P - Purchase,$10.02,4000,36051,+12%,"+$40,078",1.0,14.0,20.0,27.0,AMPH
+530,,2014-08-19 20:54:33,2014-08-15,AMPH,Koo Richard,Dir,P - Purchase,$10.08,4900,224722,+2%,"+$49,392",1.0,14.0,20.0,27.0,AMPH
+531,,2014-08-19 20:54:17,2014-08-15,AMPH,Shohet Stephen B.,Dir,P - Purchase,$10.37,3500,3500,New,"+$36,295",1.0,14.0,20.0,27.0,AMPH
+532,,2014-08-19 20:54:03,2014-08-15,AMPH,Petersen Floyd F.,Dir,P - Purchase,$10.35,3200,41612,+8%,"+$33,128",1.0,14.0,20.0,27.0,AMPH

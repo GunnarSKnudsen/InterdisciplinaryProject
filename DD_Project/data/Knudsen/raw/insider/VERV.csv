@@ -1,21 +1,38 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-03-17 07:58:16,2022-03-15,VERV,Adelman Burt A,Dir,P - Purchase,$21.38,4000,418326,+1%,"+$85,535",,,,,VERV
-1,,2022-03-11 17:59:20,2022-03-09,VERV,Fmr LLC,"See Remark 1, 10%",S - Sale,$29.01,-3971,825723,0%,"-$115,199",,,,,VERV
-2,,2022-02-11 10:40:00,2022-02-09,VERV,Fmr LLC,"See Remark 1, 10%",S - Sale,$29.46,-13190,829694,-2%,"-$388,577",,,,,VERV
-3,,2022-02-03 11:43:58,2022-02-01,VERV,Fmr LLC,"See Remark 1, 10%",S - Sale,$29.04,-35574,842884,-4%,"-$1,033,069",,,,,VERV
-4,M,2022-01-28 17:04:12,2022-01-26,VERV,Fmr LLC,"See Remark 1, 10%",S - Sale,$31.12,-158836,878458,-15%,"-$4,943,419",,,,,VERV
+0,,2022-03-11 17:59:20,2022-03-09,VERV,Fmr LLC,"See Remark 1, 10%",S - Sale,$29.01,-3971,825723,0%,"-$115,199",,,,,VERV
+1,,2022-02-11 10:40:00,2022-02-09,VERV,Fmr LLC,"See Remark 1, 10%",S - Sale,$29.46,-13190,829694,-2%,"-$388,577",,,,,VERV
+2,,2022-02-03 11:43:58,2022-02-01,VERV,Fmr LLC,"See Remark 1, 10%",S - Sale,$29.04,-35574,842884,-4%,"-$1,033,069",,,,,VERV
+3,M,2022-01-28 17:04:12,2022-01-26,VERV,Fmr LLC,"See Remark 1, 10%",S - Sale,$31.12,-158836,878458,-15%,"-$4,943,419",,,,,VERV
+4,D,2022-01-06 16:36:22,2022-01-04,VERV,Kathiresan Sekar,CEO,M - OptEx,$1.39,1870,568530,0%,"+$2,599",,,,,VERV
 5,D,2022-01-06 16:36:22,2022-01-04,VERV,Kathiresan Sekar,CEO,S - Sale+OE,$39.90,-1870,568530,0%,"-$74,613",,,,,VERV
-6,DM,2021-12-29 16:38:28,2021-12-27,VERV,Kathiresan Sekar,CEO,S - Sale+OE,$40.16,-48693,568530,-8%,"-$1,955,534",,,,,VERV
-7,D,2021-12-27 18:12:23,2021-12-22,VERV,Bellinger Andrew,Chief Scientific Officer,S - Sale+OE,$38.70,-15000,5000,-75%,"-$580,469",,,,,VERV
-8,DM,2021-12-27 18:08:02,2021-12-22,VERV,Kathiresan Sekar,CEO,S - Sale+OE,$39.30,-114000,568530,-17%,"-$4,480,604",,,,,VERV
-9,,2021-12-06 08:12:01,2021-12-02,VERV,Ashe Andrew D.,See Remarks,P - Purchase,$32.10,4000,170722,+2%,"+$128,420",,,,,VERV
-10,,2021-12-06 08:11:27,2021-12-02,VERV,Adelman Burt A,Dir,P - Purchase,$31.34,4700,414326,+1%,"+$147,304",,,,,VERV
-11,D,2021-06-23 16:16:18,2021-06-21,VERV,"Redmile Group, LLC",10%,P - Purchase,$19.00,1050000,1936530,+118%,"+$19,950,000",,,,,VERV
-12,D,2021-06-23 16:02:50,2021-06-21,VERV,"Cormorant Asset Management, LP",Former 10% Owner,P - Purchase,$19.00,275000,984224,+39%,"+$5,225,000",,,,,VERV
-13,D,2021-06-22 17:21:53,2021-06-21,VERV,Logos Global Management LP,10%,P - Purchase,$19.00,370000,813265,+83%,"+$7,030,000",,,,,VERV
-14,D,2021-06-22 17:20:53,2021-06-21,VERV,Rock Springs Capital Management LP,10%,P - Purchase,$19.00,370000,152926,-170%,"+$7,030,000",,,,,VERV
-15,D,2021-06-22 17:17:32,2021-06-21,VERV,Novo Holdings A/s,10%,P - Purchase,$19.00,350000,793265,+79%,"+$6,650,000",,,,,VERV
-16,D,2021-06-22 17:12:46,2021-06-21,VERV,"Casdin Partners Master Fund, L.P.",10%,P - Purchase,$19.00,1100000,2417596,+83%,"+$20,900,000",,,,,VERV
-17,D,2021-06-21 18:25:41,2021-06-21,VERV,Beaudoin Margaret,"VP, Finance",P - Purchase,$19.00,1000,1000,New,"+$19,000",,,,,VERV
-18,D,2021-06-21 18:21:04,2021-06-21,VERV,Bellinger Andrew,Chief Scientific Officer,P - Purchase,$19.00,5000,5000,New,"+$95,000",,,,,VERV
-19,D,2021-06-21 18:20:58,2021-06-21,VERV,Kathiresan Sekar,CEO,P - Purchase,$19.00,2500,568530,0%,"+$47,500",,,,,VERV
+6,DM,2021-12-29 16:38:28,2021-12-27,VERV,Kathiresan Sekar,CEO,M - OptEx,$1.39,48693,568530,+9%,"+$67,683",,,,,VERV
+7,DM,2021-12-29 16:38:28,2021-12-27,VERV,Kathiresan Sekar,CEO,S - Sale+OE,$40.16,-48693,568530,-8%,"-$1,955,534",,,,,VERV
+8,D,2021-12-27 18:12:23,2021-12-22,VERV,Bellinger Andrew,Chief Scientific Officer,M - OptEx,$1.48,15000,5000,-150%,"+$22,200",,,,,VERV
+9,D,2021-12-27 18:12:23,2021-12-22,VERV,Bellinger Andrew,Chief Scientific Officer,S - Sale+OE,$38.70,-15000,5000,-75%,"-$580,469",,,,,VERV
+10,DM,2021-12-27 18:08:02,2021-12-22,VERV,Kathiresan Sekar,CEO,M - OptEx,$1.39,114000,568530,+25%,"+$158,460",,,,,VERV
+11,DM,2021-12-27 18:08:02,2021-12-22,VERV,Kathiresan Sekar,CEO,S - Sale+OE,$39.30,-114000,568530,-17%,"-$4,480,604",,,,,VERV
+12,,2021-12-06 08:12:01,2021-12-02,VERV,Ashe Andrew D.,See Remarks,P - Purchase,$32.10,4000,170722,+2%,"+$128,420",,,,,VERV
+13,,2021-12-06 08:11:27,2021-12-02,VERV,Adelman Burt A,Dir,P - Purchase,$31.34,4700,414326,+1%,"+$147,304",,,,,VERV
+14,D,2021-06-23 16:30:16,2021-06-21,VERV,Beam Therapeutics Inc.,10%,C - Converted deriv,$0.00,270895,546970,-33%,$0,,,,,VERV
+15,D,2021-06-23 16:29:06,2021-06-21,VERV,"Arch Venture Partners X, LLC",10%,C - Converted deriv,$0.00,2508809,2508809,-50%,$0,,,,,VERV
+16,D,2021-06-23 16:16:18,2021-06-21,VERV,"Redmile Group, LLC",10%,C - Converted deriv,$0.00,886530,1936530,-31%,$0,,,,,VERV
+17,D,2021-06-23 16:16:18,2021-06-21,VERV,"Redmile Group, LLC",10%,P - Purchase,$19.00,1050000,1936530,+118%,"+$19,950,000",,,,,VERV
+18,D,2021-06-23 16:02:50,2021-06-21,VERV,"Cormorant Asset Management, LP",Former 10% Owner,C - Converted deriv,$0.00,709224,984224,-42%,$0,,,,,VERV
+19,D,2021-06-23 16:02:50,2021-06-21,VERV,"Cormorant Asset Management, LP",Former 10% Owner,P - Purchase,$19.00,275000,984224,+39%,"+$5,225,000",,,,,VERV
+20,D,2021-06-23 11:36:46,2021-06-21,VERV,Fmr LLC,See Remark 1,C - Converted deriv,$0.00,1037294,1037294,-50%,$0,,,,,VERV
+21,D,2021-06-22 17:21:53,2021-06-21,VERV,Logos Global Management LP,10%,C - Converted deriv,$0.00,443265,813265,-35%,$0,,,,,VERV
+22,D,2021-06-22 17:21:53,2021-06-21,VERV,Logos Global Management LP,10%,P - Purchase,$19.00,370000,813265,+83%,"+$7,030,000",,,,,VERV
+23,D,2021-06-22 17:20:53,2021-06-21,VERV,Rock Springs Capital Management LP,10%,C - Converted deriv,$0.00,709224,152926,-82%,$0,,,,,VERV
+24,D,2021-06-22 17:20:53,2021-06-21,VERV,Rock Springs Capital Management LP,10%,P - Purchase,$19.00,370000,152926,-170%,"+$7,030,000",,,,,VERV
+25,D,2021-06-22 17:20:05,2021-06-21,VERV,"Gv 2017 Gp, L.L.C.",10%,C - Converted deriv,$0.00,6320905,6320905,-50%,$0,,,,,VERV
+26,D,2021-06-22 17:18:44,2021-06-21,VERV,"Gv 2019 Gp, L.L.C.",10%,C - Converted deriv,$0.00,4472509,4472509,-50%,$0,,,,,VERV
+27,D,2021-06-22 17:17:32,2021-06-21,VERV,Novo Holdings A/s,10%,C - Converted deriv,$0.00,443265,793265,-36%,$0,,,,,VERV
+28,D,2021-06-22 17:17:32,2021-06-21,VERV,Novo Holdings A/s,10%,P - Purchase,$19.00,350000,793265,+79%,"+$6,650,000",,,,,VERV
+29,D,2021-06-22 17:17:08,2021-06-21,VERV,Yeshwant Krishna,"Dir, 10%",C - Converted deriv,$0.00,10793414,10793414,-50%,$0,,,,,VERV
+30,D,2021-06-22 17:14:44,2021-06-21,VERV,Wellington Biomedical Innovation Master Investors (Cayman) I L.P.,10%,C - Converted deriv,$0.00,2495571,2495571,-50%,$0,,,,,VERV
+31,D,2021-06-22 17:12:49,2021-06-21,VERV,"Casdin Private Growth Equity Fund, L.P.",10%,C - Converted deriv,$0.00,620571,620571,-50%,$0,,,,,VERV
+32,D,2021-06-22 17:12:46,2021-06-21,VERV,"Casdin Partners Master Fund, L.P.",10%,C - Converted deriv,$0.00,1317596,2417596,-35%,$0,,,,,VERV
+33,D,2021-06-22 17:12:46,2021-06-21,VERV,"Casdin Partners Master Fund, L.P.",10%,P - Purchase,$19.00,1100000,2417596,+83%,"+$20,900,000",,,,,VERV
+34,D,2021-06-21 18:25:41,2021-06-21,VERV,Beaudoin Margaret,"VP, Finance",P - Purchase,$19.00,1000,1000,New,"+$19,000",,,,,VERV
+35,D,2021-06-21 18:21:04,2021-06-21,VERV,Bellinger Andrew,Chief Scientific Officer,P - Purchase,$19.00,5000,5000,New,"+$95,000",,,,,VERV
+36,D,2021-06-21 18:20:58,2021-06-21,VERV,Kathiresan Sekar,CEO,P - Purchase,$19.00,2500,568530,0%,"+$47,500",,,,,VERV

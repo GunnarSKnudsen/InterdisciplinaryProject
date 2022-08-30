@@ -1,7 +1,37 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2021-05-21 17:15:49,2021-05-17,MICT,Mercer Darren,CEO,P - Purchase,$1.41,6000000,6000000,New,"+$8,460,000",,,,,MICT
-1,M,2020-08-31 17:02:23,2020-08-27,MICT,Bialos Jeffrey P.,Dir,S - Sale,$4.99,-20000,185000,-10%,"-$99,725",,,,,MICT
-2,D,2020-08-31 16:30:22,2020-08-18,MICT,Lucatz David,Dir,S - Sale+OE,$6.36,-800000,1634200,-33%,"-$5,089,500",,,,,MICT
-3,D,2020-08-28 16:31:57,2020-08-26,MICT,Amran Shamian Moran Rachel,Controller,S - Sale+OE,$4.83,-18000,17500,-51%,"-$86,940",,,,,MICT
-4,,2020-08-28 16:30:37,2020-08-26,MICT,Bialos Jeffrey P.,Dir,S - Sale,$4.84,-17424,205000,-8%,"-$84,315",,,,,MICT
-5,,2018-06-22 16:14:51,2018-06-21,MICT,Lucatz David,"Pres, CEO, 10%",S - Sale,$1.65,-1363000,1234200,-52%,"-$2,248,950",,,,,MICT
+0,,2021-06-16 09:46:47,2021-06-15,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$2.21,41800,2677143,+2%,"+$92,169",,,,,MICT
+1,,2021-06-08 13:53:32,2021-06-07,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$2.34,43000,2635343,+2%,"+$100,448",,,,,MICT
+2,,2021-05-21 17:15:49,2021-05-17,MICT,Mercer Darren,CEO,P - Purchase,$1.41,6000000,6000000,New,"+$8,460,000",,,,,MICT
+3,,2021-05-19 14:37:18,2021-05-18,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$1.49,50000,2592343,+2%,"+$74,550",,,,,MICT
+4,,2021-05-17 11:04:27,2021-05-14,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$1.38,50000,2542343,+2%,"+$68,750",,,,,MICT
+5,,2021-04-15 10:57:25,2021-04-14,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$1.82,25000,2517343,+1%,"+$45,375",,,,,MICT
+6,,2021-03-16 09:48:37,2021-03-15,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$2.06,20047,2492343,+1%,"+$41,297",,,,,MICT
+7,,2021-03-10 09:26:03,2021-03-09,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$1.85,50000,2472296,+2%,"+$92,375",,,,,MICT
+8,,2021-03-05 12:42:54,2021-03-04,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$2.08,50000,2422296,+2%,"+$103,805",,,,,MICT
+9,A,2021-01-08 16:22:38,2020-12-21,MICT,Bialos Jeffrey P.,Dir,A - Grant,$0.00,25000,210000,+14%,+$0,,,,,MICT
+10,,2020-12-30 20:14:22,2020-12-21,MICT,Bialos Jeffrey P.,Dir,A - Grant,$1.90,75000,210000,+56%,"+$142,500",,,,,MICT
+11,,2020-09-25 10:41:30,2020-09-24,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$4.00,18336,2372296,+1%,"+$73,344",,,,,MICT
+12,M,2020-08-31 17:02:23,2020-08-27,MICT,Bialos Jeffrey P.,Dir,S - Sale,$4.99,-20000,185000,-10%,"-$99,725",,,,,MICT
+13,D,2020-08-31 16:30:22,2020-08-18,MICT,Lucatz David,Dir,S - Sale+OE,$6.36,-800000,1634200,-33%,"-$5,089,500",,,,,MICT
+14,D,2020-08-31 16:30:22,2020-08-18,MICT,Lucatz David,Dir,M - OptEx,$2.25,800000,1634200,+96%,"+$1,801,000",,,,,MICT
+15,D,2020-08-28 16:31:57,2020-08-26,MICT,Amran Shamian Moran Rachel,Controller,S - Sale+OE,$4.83,-18000,17500,-51%,"-$86,940",,,,,MICT
+16,D,2020-08-28 16:31:57,2020-08-26,MICT,Amran Shamian Moran Rachel,Controller,M - OptEx,$1.32,18000,17500,-3600%,"+$23,760",,,,,MICT
+17,,2020-08-28 16:30:37,2020-08-26,MICT,Bialos Jeffrey P.,Dir,S - Sale,$4.84,-17424,205000,-8%,"-$84,315",,,,,MICT
+18,,2020-07-23 10:43:39,2020-07-20,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$2.50,15200,2353960,+1%,"+$38,000",,,,,MICT
+19,D,2020-07-07 09:13:51,2020-07-01,MICT,Scott John McMillan,Dir,A - Grant,$0.00,100000,100000,New,+$0,,,,,MICT
+20,AD,2020-07-07 09:12:32,2020-07-01,MICT,Ofir Yehezkel,Dir,A - Grant,$0.00,100000,125000,+400%,+$0,,,,,MICT
+21,AD,2020-07-06 20:49:36,2020-07-01,MICT,Bialos Jeffrey P.,Dir,A - Grant,$0.00,100000,222424,+82%,+$0,,,,,MICT
+22,AD,2020-07-06 20:48:39,2020-07-01,MICT,Lucatz David,Dir,A - Grant,$0.00,400000,1634200,+32%,+$0,,,,,MICT
+23,DM,2020-06-30 15:17:03,2019-11-11,MICT,Prior-Palmer Simon Erroll,10%,A - Grant,$0.70,1169115,2338760,+100%,"+$823,721",,,,,MICT
+24,,2019-02-07 16:11:46,2019-02-05,MICT,Bialos Jeffrey P.,Dir,A - Grant,$0.00,80000,122424,+189%,+$0,,,,,MICT
+25,,2018-06-22 16:14:51,2018-06-21,MICT,Lucatz David,"Pres, CEO, 10%",S - Sale,$1.65,-1363000,1234200,-52%,"-$2,248,950",,,,,MICT
+26,D,2018-06-11 06:31:21,2018-06-06,MICT,Balin Mikhael,Dir,A - Grant,$0.00,25000,25000,New,+$0,,,,,MICT
+27,D,2018-06-08 16:10:41,2018-06-06,MICT,Ofir Yehezkel,Dir,A - Grant,$0.00,25000,25000,New,+$0,,,,,MICT
+28,D,2018-06-08 16:06:20,2018-06-06,MICT,Bialos Jeffrey P.,Dir,A - Grant,$0.00,25000,42424,+143%,+$0,,,,,MICT
+29,,2017-11-20 16:35:38,2017-11-19,MICT,Dinar Tali,CFO,A - Grant,$0.00,12500,12500,New,+$0,,,,,MICT
+30,,2015-09-14 08:10:26,2015-09-11,MICT,Bialos Jeffrey P.,Dir,P - Purchase,$2.60,49,49,New,+$127,2.0,-7.0,-7.0,-27.0,MICT
+31,,2015-09-10 08:10:51,2015-09-08,MICT,Leibovitz Eyal,CFO,P - Purchase,$2.75,1000,1000,New,"+$2,750",-6.0,-6.0,-9.0,-26.0,MICT
+32,,2015-09-09 08:08:55,2015-09-04,MICT,Bialos Jeffrey P.,Dir,P - Purchase,$2.50,75,75,New,+$188,23.0,13.0,6.0,-18.0,MICT
+33,,2015-09-01 10:45:22,2015-08-28,MICT,Bialos Jeffrey P.,Dir,P - Purchase,$2.25,17300,17300,New,"+$38,890",6.0,13.0,19.0,-6.0,MICT
+34,D,2013-03-12 17:48:42,2013-03-08,LPST,Uta Capital LLC,10%,F - Tax,$0.65,-98734,1453493,-6%,"-$64,177",,,,,MICT
+35,D,2013-03-12 17:48:42,2013-03-08,LPST,Uta Capital LLC,10%,X - OptEx,$0.56,1552227,1453493,-52%,"$866,114",,,,,MICT

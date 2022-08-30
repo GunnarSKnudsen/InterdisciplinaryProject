@@ -1,79 +1,1013 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-04-04 20:53:37,2022-04-01,OSTK,Dalton Krista,Chief Merchandising Officer,S - Sale,$43.60,-8036,7292,-52%,"-$350,370",,,,,OSTK
-1,,2022-02-25 17:01:46,2022-02-24,OSTK,Nielsen David J.,Pres,S - Sale,$50.05,-7200,26975,-21%,"-$360,328",,,,,OSTK
+0,,2022-02-25 17:01:46,2022-02-24,OSTK,Nielsen David J.,Pres,S - Sale,$50.05,-7200,26975,-21%,"-$360,328",,,,,OSTK
+1,D,2022-02-18 18:07:32,2022-02-17,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,3333,89366,+4%,+$0,,,,,OSTK
 2,D,2022-02-18 18:07:32,2022-02-17,OSTK,Abraham Allison H,Dir,S - Sale+OE,$44.67,-3333,89366,-4%,"-$148,885",,,,,OSTK
-3,,2021-11-17 16:48:42,2021-11-16,OSTK,Shapiro Robert Jacob,Dir,S - Sale,$108.45,-1000,5333,-16%,"-$108,450",,,,,OSTK
-4,,2021-11-12 18:59:23,2021-11-12,OSTK,Corbus Barclay F,Dir,S - Sale,$98.84,-4050,37880,-10%,"-$400,302",,,,,OSTK
-5,,2021-11-10 18:11:43,2021-11-09,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",S - Sale,$103.59,-5737,7955,-42%,"-$594,296",,,,,OSTK
-6,,2021-11-09 20:11:23,2021-11-02,OSTK,Tabacco Joseph J Jr,Dir,S - Sale,$95.48,-5000,64433,-7%,"-$477,400",,,,,OSTK
-7,,2021-11-04 20:16:18,2021-11-03,OSTK,Baker Mark Alan,Chief Product Officer,S - Sale,$105.00,-1000,2035,-33%,"-$105,000",,,,,OSTK
-8,,2021-11-03 20:56:11,2021-11-02,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$100.00,-2500,13046,-16%,"-$250,000",,,,,OSTK
-9,,2021-11-01 17:51:34,2021-10-29,OSTK,Baker Mark Alan,Chief Product Officer,S - Sale,$95.00,-1000,3035,-25%,"-$95,000",,,,,OSTK
-10,,2021-10-12 16:09:36,2021-10-11,OSTK,Weight Joel,CTO,S - Sale,$78.27,-37,714,-5%,"-$2,896",,,,,OSTK
-11,,2021-09-13 16:33:07,2021-09-10,OSTK,Weight Joel,CTO,S - Sale,$70.15,-62,751,-8%,"-$4,349",,,,,OSTK
-12,,2021-08-11 19:51:56,2021-08-10,OSTK,Weight Joel,CTO,S - Sale,$70.65,-104,813,-11%,"-$7,348",,,,,OSTK
-13,,2021-07-13 19:00:53,2021-07-12,OSTK,Weight Joel,CTO,S - Sale,$97.13,-173,917,-16%,"-$16,803",,,,,OSTK
-14,,2021-06-28 17:00:51,2021-06-25,OSTK,Abraham Allison H,Dir,S - Sale,$100.00,-4000,86266,-4%,"-$400,000",,,,,OSTK
-15,,2021-06-28 16:57:55,2021-06-25,OSTK,Nielsen David J.,Pres,S - Sale,$100.00,-1000,16440,-6%,"-$100,000",,,,,OSTK
-16,,2021-06-14 19:05:23,2021-06-10,OSTK,Weight Joel,CTO,S - Sale,$90.51,-288,1090,-21%,"-$26,067",,,,,OSTK
-17,,2021-05-28 16:43:38,2021-05-27,OSTK,Nickle Eric Glen,GC,S - Sale,$88.90,-1000,9071,-10%,"-$88,900",,,,,OSTK
-18,,2021-05-19 19:14:07,2021-05-18,OSTK,Corbus Barclay F,Dir,S - Sale,$77.51,-6720,41930,-14%,"-$520,867",,,,,OSTK
-19,,2021-05-17 18:58:18,2021-05-17,OSTK,Baker Mark Alan,Chief Product Officer,S - Sale,$72.20,-450,4035,-10%,"-$32,490",,,,,OSTK
-20,,2021-05-10 17:56:36,2021-05-10,OSTK,Weight Joel,CTO,S - Sale,$80.00,-480,1378,-26%,"-$38,400",,,,,OSTK
-21,,2021-04-13 17:44:29,2021-04-12,OSTK,Weight Joel,CTO,S - Sale,$70.81,-800,1858,-30%,"-$56,648",,,,,OSTK
-22,,2021-03-19 16:37:37,2021-03-18,OSTK,Nielsen David J.,Pres,S - Sale,$74.00,-5400,17440,-24%,"-$399,600",,,,,OSTK
-23,,2021-03-16 16:12:07,2021-03-15,OSTK,Nickle Eric Glen,GC,S - Sale,$75.50,-2000,10671,-16%,"-$151,000",,,,,OSTK
-24,,2021-03-08 16:44:22,2021-03-05,OSTK,Weight Joel,CTO,S - Sale,$60.94,-2000,2658,-43%,"-$121,880",,,,,OSTK
-25,,2021-03-01 18:55:04,2021-03-01,OSTK,Baker Mark Alan,Chief Product Officer,S - Sale,$70.10,-4400,3557,-55%,"-$308,440",,,,,OSTK
-26,,2021-02-19 16:36:32,2021-02-18,OSTK,Corbus Barclay F,Dir,S - Sale,$98.01,-2666,48650,-5%,"-$261,295",,,,,OSTK
-27,D,2021-02-17 21:46:28,2021-02-12,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",S - Sale+OE,$110.00,-5000,8965,-36%,"-$550,000",,,,,OSTK
-28,D,2021-02-17 21:41:00,2021-02-16,OSTK,Lee Carter Paul,Chief Administrative Officer,S - Sale+OE,$109.01,-5000,11803,-30%,"-$545,050",,,,,OSTK
-29,D,2021-02-17 18:23:35,2021-02-16,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$109.01,-1680,51316,-3%,"-$183,137",,,,,OSTK
-30,DM,2021-02-08 16:37:55,2021-02-05,OSTK,Tabacco Joseph J Jr,Dir,S - Sale+OE,$96.07,-20000,64000,-24%,"-$1,921,452",,,,,OSTK
-31,D,2021-02-05 19:02:35,2021-02-03,OSTK,Lee Carter Paul,Chief Administrative Officer,S - Sale+OE,$85.68,-3267,12076,-21%,"-$279,917",,,,,OSTK
-32,DM,2021-01-28 21:01:37,2021-01-26,OSTK,Lee Carter Paul,Chief Administrative Officer,S - Sale+OE,$85.00,-5267,15343,-26%,"-$447,695",,,,,OSTK
-33,D,2021-01-28 18:51:15,2021-01-26,OSTK,Tabacco Joseph J Jr,Dir,S - Sale+OE,$81.63,-40000,84000,-32%,"-$3,265,096",,,,,OSTK
-34,D,2021-01-28 18:34:06,2021-01-27,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$81.01,-880,47563,-2%,"-$71,289",,,,,OSTK
-35,,2020-12-02 16:22:00,2020-11-30,OSTK,Nickle Eric Glen,"VP, Legal, GC",S - Sale,$69.02,-500,7147,-7%,"-$34,511",,,,,OSTK
-36,,2020-11-27 16:12:58,2020-11-25,OSTK,Nielsen David J.,"Pres, Retail",S - Sale,$68.13,-1300,9272,-12%,"-$88,565",,,,,OSTK
-37,,2020-11-09 16:30:17,2020-11-09,OSTK,Johnson Jonathan E III,CEO,P - Purchase,$55.75,1000,86039,+1%,"+$55,750",,,,,OSTK
-38,,2020-09-29 17:03:55,2020-09-28,OSTK,Lee Carter Paul,Chief Administrative Officer,S - Sale,$75.00,-10000,18463,-35%,"-$750,000",,,,,OSTK
-39,,2020-08-20 16:23:19,2020-08-18,OSTK,Weight Joel,CTO,S - Sale,$114.91,-435,0,-100%,"-$49,985",,,,,OSTK
-40,,2020-08-20 16:22:17,2020-08-19,OSTK,Mathews Krista Jean,Chief Customer Officer,S - Sale,$124.56,-860,882,-49%,"-$107,119",,,,,OSTK
-41,,2020-08-18 16:39:59,2020-08-17,OSTK,Baker Mark Alan,Chief Product Officer,S - Sale,$107.20,-2000,1164,-63%,"-$214,400",,,,,OSTK
-42,,2020-07-30 19:37:16,2020-07-30,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$75.00,-4469,6193,-42%,"-$335,175",,,,,OSTK
-43,,2020-07-10 19:01:47,2020-07-10,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$50.00,-1500,10662,-12%,"-$75,000",,,,,OSTK
-44,M,2020-07-08 16:52:39,2020-07-06,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$41.13,-3000,12162,-20%,"-$123,400",,,,,OSTK
-45,,2020-07-02 16:35:10,2020-07-01,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$30.00,-500,15162,-3%,"-$15,000",,,,,OSTK
-46,,2020-06-22 19:01:16,2020-06-19,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$25.00,-250,15662,-2%,"-$6,250",,,,,OSTK
-47,,2020-06-12 16:31:18,2020-06-10,OSTK,Nickle Eric Glen,"VP, Legal, GC",S - Sale,$23.85,-1000,7476,-12%,"-$23,850",,,,,OSTK
-48,,2020-05-06 20:03:23,2020-05-04,OSTK,Shapiro Robert Jacob,Dir,P - Purchase,$13.00,3000,3000,New,"+$39,000",,,,,OSTK
-49,,2020-03-23 16:34:12,2020-03-20,OSTK,Abraham Allison H,Dir,P - Purchase,$3.85,15000,82066,+22%,"+$57,755",,,,,OSTK
-50,,2020-03-20 19:34:10,2020-03-20,OSTK,Nielsen David J.,"Pres, Retail",P - Purchase,$4.17,2449,8688,+39%,"+$10,205",,,,,OSTK
-51,,2020-03-20 16:33:49,2020-03-20,OSTK,Lee Carter Paul,Chief Administrative Officer,P - Purchase,$4.09,325,28463,+1%,"+$1,329",,,,,OSTK
-52,,2020-03-20 16:31:40,2020-03-19,OSTK,Tabacco Joseph J Jr,Dir,P - Purchase,$3.07,30000,130900,+30%,"+$92,100",,,,,OSTK
-53,,2020-03-18 19:01:52,2020-03-18,OSTK,Johnson Jonathan E III,CEO,P - Purchase,$2.60,30000,85039,+55%,"+$78,081",,,,,OSTK
-54,,2020-03-17 19:06:05,2020-03-16,OSTK,Lee Carter Paul,Chief Administrative Officer,P - Purchase,$2.79,250,28138,+1%,+$698,,,,,OSTK
-55,M,2019-09-18 17:03:11,2019-09-16,OSTK,Byrne Patrick Michael,10%,S - Sale,$19.15,-4703459,0,-100%,"-$90,075,166",,,,,OSTK
-56,,2019-09-03 20:16:41,2019-08-30,OSTK,Johnson Jonathan E III,Interim CEO,P - Purchase,$15.98,2000,47182,+4%,"+$31,959",,,,,OSTK
-57,,2019-08-27 19:25:17,2019-08-23,OSTK,Knab John Paul,CMO,S - Sale,$21.06,-1500,14968,-9%,"-$31,585",,,,,OSTK
-58,,2019-08-21 19:53:17,2019-08-09,OSTK,Lee Carter Paul,Chief Administrative Officer,S - Sale,$25.00,-1000,14688,-6%,"-$25,000",,,,,OSTK
-59,,2019-08-07 17:59:43,2019-08-06,OSTK,Nickle Eric Glen,"VP, Legal, GC",S - Sale,$21.91,-100,4391,-2%,"-$2,191",,,,,OSTK
-60,,2019-08-01 16:46:51,2019-08-01,OSTK,Auwerda Nathan Forrest,CTO,S - Sale,$22.59,-400,5230,-7%,"-$9,036",,,,,OSTK
-61,M,2019-05-20 18:18:44,2019-05-17,OSTK,Tabacco Joseph J Jr,Dir,P - Purchase,$10.45,40000,96033,+71%,"+$418,050",,,,,OSTK
-62,,2019-05-17 16:43:00,2019-05-16,OSTK,Byrne Patrick Michael,"CEO, 10%",S - Sale,$10.29,-407055,4790459,-8%,"-$4,187,863",,,,,OSTK
-63,M,2019-05-15 13:45:10,2019-05-13,OSTK,Byrne Patrick Michael,"CEO, 10%",S - Sale,$13.09,-500000,5197514,-9%,"-$6,544,075",,,,,OSTK
-64,,2019-04-08 13:00:27,2019-04-05,OSTK,Knab John Paul,CMO,S - Sale,$16.93,-2500,15908,-14%,"-$42,326",,,,,OSTK
-65,A,2019-04-03 20:16:59,2019-03-27,OSTK,Tabacco Joseph J Jr,Dir,P - Purchase,$18.20,5000,56033,+10%,"+$90,985",,,,,OSTK
-66,,2019-04-03 19:35:42,2019-03-27,OSTK,Tabacco Joseph J Jr,Dir,P - Purchase,$18.20,5000,56033,+10%,"+$90,985",,,,,OSTK
-67,D,2019-03-26 14:15:36,2019-03-25,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$18.35,-750,42476,-2%,"-$13,763",,,,,OSTK
-68,D,2019-02-05 11:57:50,2019-02-04,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$17.55,-750,41559,-2%,"-$13,163",,,,,OSTK
-69,D,2019-01-29 15:19:25,2019-01-28,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$18.00,-495,40642,-1%,"-$8,910",,,,,OSTK
-70,M,2018-09-10 17:26:12,2018-09-06,OSTK,Byrne Patrick,"CEO, 10%",S - Sale,$25.83,-774303,5727847,-12%,"-$20,000,391",,,,,OSTK
-71,,2018-08-30 15:50:39,2018-08-29,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$30.15,-1300,5379,-19%,"-$39,196",,,,,OSTK
-72,,2018-08-20 16:05:17,2018-08-16,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$31.05,-2000,7012,-22%,"-$62,101",,,,,OSTK
-73,,2018-08-14 12:08:20,2018-08-13,OSTK,Knab John Paul,"SVP, Marketing",S - Sale,$39.75,-2000,7485,-21%,"-$79,500",,,,,OSTK
-74,,2018-07-19 11:49:06,2018-07-18,OSTK,Moore Seth,"SVP, Analytics, Olabs",S - Sale,$42.85,-2000,14090,-12%,"-$85,700",,,,,OSTK
-75,,2018-06-22 17:25:59,2018-06-20,OSTK,Moore Seth,"SVP, Analytics, Olabs",S - Sale,$39.05,-3000,16014,-16%,"-$117,150",,,,,OSTK
-76,,2018-05-22 11:19:51,2018-05-18,OSTK,Knab John Paul,"SVP, Marketing",S - Sale,$37.95,-1500,9485,-14%,"-$56,925",,,,,OSTK
-77,,2018-05-15 13:01:20,2018-05-11,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$35.80,-2000,9012,-18%,"-$71,602",,,,,OSTK
+3,D,2022-02-18 18:04:01,2022-02-17,OSTK,Weight Joel,CTO,F - Tax,$42.15,-1943,6746,-22%,"-$81,897",,,,,OSTK
+4,D,2022-02-18 18:04:01,2022-02-17,OSTK,Weight Joel,CTO,M - OptEx,$0.00,6667,6746,>999%,+$1,,,,,OSTK
+5,D,2022-02-18 18:02:39,2022-02-17,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$42.15,-1954,21421,-8%,"-$82,361",,,,,OSTK
+6,D,2022-02-18 18:02:39,2022-02-17,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,6667,21421,+45%,+$1,,,,,OSTK
+7,D,2022-02-18 18:01:29,2022-02-17,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,3333,70866,+5%,+$0,,,,,OSTK
+8,D,2022-02-18 17:58:57,2022-02-17,OSTK,Johnson Jonathan E III,CEO,F - Tax,$42.15,-6137,118918,-5%,"-$258,675",,,,,OSTK
+9,D,2022-02-18 17:58:57,2022-02-17,OSTK,Johnson Jonathan E III,CEO,M - OptEx,$0.00,16667,118918,+16%,+$2,,,,,OSTK
+10,D,2022-02-18 17:51:14,2022-02-17,OSTK,Shapiro Robert Jacob,Dir,M - OptEx,$0.00,3333,9666,+53%,+$0,,,,,OSTK
+11,D,2022-02-18 17:48:51,2022-02-17,OSTK,Nielsen David J.,Pres,F - Tax,$42.15,-4071,34175,-11%,"-$171,593",,,,,OSTK
+12,D,2022-02-18 17:48:51,2022-02-17,OSTK,Nielsen David J.,Pres,M - OptEx,$0.00,13333,34175,+64%,+$1,,,,,OSTK
+13,D,2022-02-18 17:47:46,2022-02-17,OSTK,Nickle Eric Glen,GC,F - Tax,$42.15,-782,14379,-5%,"-$32,961",,,,,OSTK
+14,D,2022-02-18 17:47:46,2022-02-17,OSTK,Nickle Eric Glen,GC,M - OptEx,$0.00,2667,14379,+23%,+$0,,,,,OSTK
+15,D,2022-02-18 17:46:13,2022-02-17,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$42.15,-1954,24985,-7%,"-$82,361",,,,,OSTK
+16,D,2022-02-18 17:46:13,2022-02-17,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,6667,24985,+36%,+$1,,,,,OSTK
+17,D,2022-02-18 17:44:25,2022-02-17,OSTK,Dalton Krista,Chief Merchandising Officer,F - Tax,$42.15,-1954,15328,-11%,"-$82,361",,,,,OSTK
+18,D,2022-02-18 17:44:25,2022-02-17,OSTK,Dalton Krista,Chief Merchandising Officer,M - OptEx,$0.00,6667,15328,+77%,+$1,,,,,OSTK
+19,D,2022-02-18 17:43:00,2022-02-17,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,3333,44313,+8%,+$0,,,,,OSTK
+20,D,2022-02-18 17:42:14,2022-02-17,OSTK,Baker Mark Alan,Chief Product Officer,F - Tax,$42.15,-1954,10240,-16%,"-$82,361",,,,,OSTK
+21,D,2022-02-18 17:42:14,2022-02-17,OSTK,Baker Mark Alan,Chief Product Officer,M - OptEx,$0.00,6667,10240,+187%,+$1,,,,,OSTK
+22,D,2022-02-15 17:16:44,2022-02-13,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,2100,67533,+3%,+$0,,,,,OSTK
+23,D,2022-02-15 17:15:33,2022-02-13,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,2100,40980,+5%,+$0,,,,,OSTK
+24,D,2022-02-15 17:11:58,2022-02-13,OSTK,Johnson Jonathan E III,CEO,F - Tax,$47.76,-1954,108388,-2%,"-$93,323",,,,,OSTK
+25,D,2022-02-15 17:11:58,2022-02-13,OSTK,Johnson Jonathan E III,CEO,M - OptEx,$0.00,6667,108388,+7%,+$1,,,,,OSTK
+26,D,2022-02-15 17:10:22,2022-02-13,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$47.76,-1953,20272,-9%,"-$93,275",,,,,OSTK
+27,D,2022-02-15 17:10:22,2022-02-13,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,6667,20272,+49%,+$1,,,,,OSTK
+28,D,2022-02-15 17:08:31,2022-02-13,OSTK,Nickle Eric Glen,GC,F - Tax,$47.76,-885,12494,-7%,"-$42,268",,,,,OSTK
+29,D,2022-02-15 17:08:31,2022-02-13,OSTK,Nickle Eric Glen,GC,M - OptEx,$0.00,3000,12494,+32%,+$0,,,,,OSTK
+30,D,2022-02-15 17:07:34,2022-02-13,OSTK,Nielsen David J.,Pres,F - Tax,$47.76,-1954,24913,-7%,"-$93,323",,,,,OSTK
+31,D,2022-02-15 17:07:34,2022-02-13,OSTK,Nielsen David J.,Pres,M - OptEx,$0.00,6667,24913,+37%,+$1,,,,,OSTK
+32,D,2022-02-15 17:05:56,2022-02-13,OSTK,Dalton Krista,Chief Merchandising Officer,F - Tax,$47.76,-785,10615,-7%,"-$37,492",,,,,OSTK
+33,D,2022-02-15 17:05:56,2022-02-13,OSTK,Dalton Krista,Chief Merchandising Officer,M - OptEx,$0.00,2667,10615,+34%,+$0,,,,,OSTK
+34,D,2022-02-15 17:04:50,2022-02-13,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$47.76,-979,16708,-6%,"-$46,757",,,,,OSTK
+35,D,2022-02-15 17:04:50,2022-02-13,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,3334,16708,+25%,+$0,,,,,OSTK
+36,D,2022-02-15 17:03:33,2022-02-13,OSTK,Baker Mark Alan,Chief Product Officer,F - Tax,$47.76,-909,5527,-14%,"-$43,414",,,,,OSTK
+37,D,2022-02-15 17:03:33,2022-02-13,OSTK,Baker Mark Alan,Chief Product Officer,M - OptEx,$0.00,3093,5527,+127%,+$0,,,,,OSTK
+38,D,2022-02-15 17:02:33,2022-02-13,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,2100,89366,+2%,+$0,,,,,OSTK
+39,D,2022-02-07 18:38:12,2022-02-04,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1000,65433,+2%,+$0,,,,,OSTK
+40,D,2022-02-07 18:31:23,2022-02-04,OSTK,Shapiro Robert Jacob,Dir,M - OptEx,$0.00,1000,6333,+19%,+$0,,,,,OSTK
+41,D,2022-02-07 18:28:37,2022-02-04,OSTK,Nettles William Benjamin Jr,Dir,M - OptEx,$0.00,1000,2666,+60%,+$0,,,,,OSTK
+42,D,2022-02-07 18:23:48,2022-02-04,OSTK,Messing Barbara,Dir,M - OptEx,$0.00,1000,2314,+76%,+$0,,,,,OSTK
+43,D,2022-02-07 18:22:52,2022-02-04,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1000,38880,+3%,+$0,,,,,OSTK
+44,D,2022-02-07 18:21:06,2022-02-04,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1000,87266,+1%,+$0,,,,,OSTK
+45,D,2022-02-07 17:48:49,2022-02-04,OSTK,Weight Joel,CTO,F - Tax,$49.53,-692,2022,-25%,"-$34,275",,,,,OSTK
+46,D,2022-02-07 17:48:49,2022-02-04,OSTK,Weight Joel,CTO,M - OptEx,$0.00,2000,2022,>999%,+$0,,,,,OSTK
+47,D,2022-02-07 17:46:34,2022-02-04,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$49.53,-692,14353,-5%,"-$34,275",,,,,OSTK
+48,D,2022-02-07 17:46:34,2022-02-04,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,2000,14353,+16%,+$0,,,,,OSTK
+49,D,2022-02-07 17:45:16,2022-02-04,OSTK,Nielsen David J.,Pres,F - Tax,$49.53,-1057,20200,-5%,"-$52,353",,,,,OSTK
+50,D,2022-02-07 17:45:16,2022-02-04,OSTK,Nielsen David J.,Pres,M - OptEx,$0.00,3333,20200,+20%,+$0,,,,,OSTK
+51,D,2022-02-07 17:41:13,2022-02-04,OSTK,Lee Adrianne,CFO,F - Tax,$49.53,-882,8854,-9%,"-$43,685",,,,,OSTK
+52,D,2022-02-07 17:41:13,2022-02-04,OSTK,Lee Adrianne,CFO,M - OptEx,$0.00,2666,8854,+43%,+$0,,,,,OSTK
+53,D,2022-02-07 17:39:52,2022-02-04,OSTK,Nickle Eric Glen,GC,F - Tax,$49.53,-692,10379,-6%,"-$34,275",,,,,OSTK
+54,D,2022-02-07 17:39:52,2022-02-04,OSTK,Nickle Eric Glen,GC,M - OptEx,$0.00,2000,10379,+24%,+$0,,,,,OSTK
+55,D,2022-02-07 17:38:06,2022-02-04,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$49.53,-692,15558,-4%,"-$34,275",,,,,OSTK
+56,D,2022-02-07 17:38:06,2022-02-04,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,2000,15558,+15%,+$0,,,,,OSTK
+57,D,2022-02-07 17:31:29,2022-02-04,OSTK,Johnson Jonathan E III,CEO,F - Tax,$49.53,-2000,105175,-2%,"-$99,060",,,,,OSTK
+58,D,2022-02-07 17:31:29,2022-02-04,OSTK,Johnson Jonathan E III,CEO,M - OptEx,$0.00,6666,105175,+7%,+$1,,,,,OSTK
+59,D,2022-02-07 17:29:28,2022-02-04,OSTK,Dalton Krista,Chief Merchandising Officer,F - Tax,$49.53,-692,8733,-7%,"-$34,275",,,,,OSTK
+60,D,2022-02-07 17:29:28,2022-02-04,OSTK,Dalton Krista,Chief Merchandising Officer,M - OptEx,$0.00,2000,8733,+30%,+$0,,,,,OSTK
+61,D,2022-02-07 17:26:12,2022-02-04,OSTK,Baker Mark Alan,Chief Product Officer,F - Tax,$49.53,-692,3343,-17%,"-$34,275",,,,,OSTK
+62,D,2022-02-07 17:26:12,2022-02-04,OSTK,Baker Mark Alan,Chief Product Officer,M - OptEx,$0.00,2000,3343,+149%,+$0,,,,,OSTK
+63,DM,2022-01-25 17:18:16,2021-05-04,OSTK,Lee Carter Paul,Chief Administrative Officer,G - Gift,$0.00,-2041,12975,-14%,-$0,,,,,OSTK
+64,D,2022-01-25 17:10:19,2021-11-04,OSTK,Johnson Jonathan E III,CEO,G - Gift,$0.00,-2100,98822,-2%,-$0,,,,,OSTK
+65,,2021-11-17 16:48:42,2021-11-16,OSTK,Shapiro Robert Jacob,Dir,S - Sale,$108.45,-1000,5333,-16%,"-$108,450",,,,,OSTK
+66,,2021-11-12 18:59:23,2021-11-12,OSTK,Corbus Barclay F,Dir,S - Sale,$98.84,-4050,37880,-10%,"-$400,302",,,,,OSTK
+67,,2021-11-10 18:11:43,2021-11-09,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",S - Sale,$103.59,-5737,7955,-42%,"-$594,296",,,,,OSTK
+68,,2021-11-09 20:11:23,2021-11-02,OSTK,Tabacco Joseph J Jr,Dir,S - Sale,$95.48,-5000,64433,-7%,"-$477,400",,,,,OSTK
+69,,2021-11-04 20:16:18,2021-11-03,OSTK,Baker Mark Alan,Chief Product Officer,S - Sale,$105.00,-1000,2035,-33%,"-$105,000",,,,,OSTK
+70,,2021-11-03 20:56:11,2021-11-02,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$100.00,-2500,13046,-16%,"-$250,000",,,,,OSTK
+71,D,2021-11-02 17:32:37,2021-10-30,OSTK,Nielsen David J.,Pres,F - Tax,$95.23,-1182,17924,-6%,"-$112,562",,,,,OSTK
+72,D,2021-11-02 17:32:37,2021-10-30,OSTK,Nielsen David J.,Pres,M - OptEx,$0.00,2667,17924,+17%,+$0,,,,,OSTK
+73,,2021-11-01 17:51:34,2021-10-29,OSTK,Baker Mark Alan,Chief Product Officer,S - Sale,$95.00,-1000,3035,-25%,"-$95,000",,,,,OSTK
+74,,2021-10-12 16:09:36,2021-10-11,OSTK,Weight Joel,CTO,S - Sale,$78.27,-37,714,-5%,"-$2,896",,,,,OSTK
+75,,2021-09-13 16:33:07,2021-09-10,OSTK,Weight Joel,CTO,S - Sale,$70.15,-62,751,-8%,"-$4,349",,,,,OSTK
+76,,2021-08-11 19:51:56,2021-08-10,OSTK,Weight Joel,CTO,S - Sale,$70.65,-104,813,-11%,"-$7,348",,,,,OSTK
+77,D,2021-08-05 16:09:33,2021-08-04,OSTK,Messing Barbara,Dir,M - OptEx,$0.00,1314,1314,New,+$0,,,,,OSTK
+78,,2021-07-13 19:00:53,2021-07-12,OSTK,Weight Joel,CTO,S - Sale,$97.13,-173,917,-16%,"-$16,803",,,,,OSTK
+79,,2021-06-28 17:00:51,2021-06-25,OSTK,Abraham Allison H,Dir,S - Sale,$100.00,-4000,86266,-4%,"-$400,000",,,,,OSTK
+80,,2021-06-28 16:57:55,2021-06-25,OSTK,Nielsen David J.,Pres,S - Sale,$100.00,-1000,16440,-6%,"-$100,000",,,,,OSTK
+81,D,2021-06-17 18:28:55,2021-06-17,OSTK,Nettles William Benjamin Jr,Dir,M - OptEx,$0.00,1666,1666,New,+$0,,,,,OSTK
+82,,2021-06-14 19:05:23,2021-06-10,OSTK,Weight Joel,CTO,S - Sale,$90.51,-288,1090,-21%,"-$26,067",,,,,OSTK
+83,,2021-05-28 16:43:38,2021-05-25,OSTK,Nickle Eric Glen,GC,G - Gift,$0.00,-600,9071,-6%,-$0,,,,,OSTK
+84,,2021-05-28 16:43:38,2021-05-27,OSTK,Nickle Eric Glen,GC,S - Sale,$88.90,-1000,9071,-10%,"-$88,900",,,,,OSTK
+85,,2021-05-19 19:14:07,2021-05-18,OSTK,Corbus Barclay F,Dir,S - Sale,$77.51,-6720,41930,-14%,"-$520,867",,,,,OSTK
+86,,2021-05-17 18:58:18,2021-05-17,OSTK,Baker Mark Alan,Chief Product Officer,S - Sale,$72.20,-450,4035,-10%,"-$32,490",,,,,OSTK
+87,D,2021-05-10 19:00:45,2021-05-08,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$80.47,-739,15546,-5%,"-$59,467",,,,,OSTK
+88,D,2021-05-10 19:00:45,2021-05-08,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,1667,15546,+12%,+$0,,,,,OSTK
+89,D,2021-05-10 18:51:58,2021-05-08,OSTK,Baker Mark Alan,Chief Product Officer,F - Tax,$80.47,-739,4485,-14%,"-$59,467",,,,,OSTK
+90,D,2021-05-10 18:51:58,2021-05-08,OSTK,Baker Mark Alan,Chief Product Officer,M - OptEx,$0.00,1667,4485,+59%,+$0,,,,,OSTK
+91,,2021-05-10 17:56:36,2021-05-10,OSTK,Weight Joel,CTO,S - Sale,$80.00,-480,1378,-26%,"-$38,400",,,,,OSTK
+92,,2021-04-13 17:44:29,2021-04-12,OSTK,Weight Joel,CTO,S - Sale,$70.81,-800,1858,-30%,"-$56,648",,,,,OSTK
+93,D,2021-04-02 18:30:14,2021-04-01,OSTK,Lee Adrianne,CFO,F - Tax,$68.70,-2930,7070,-29%,"-$201,291",,,,,OSTK
+94,D,2021-04-02 18:30:14,2021-04-01,OSTK,Lee Adrianne,CFO,M - OptEx,$0.00,10000,7070,-341%,+$1,,,,,OSTK
+95,,2021-03-19 16:37:37,2021-03-18,OSTK,Nielsen David J.,Pres,S - Sale,$74.00,-5400,17440,-24%,"-$399,600",,,,,OSTK
+96,,2021-03-16 16:12:07,2021-03-15,OSTK,Nickle Eric Glen,GC,S - Sale,$75.50,-2000,10671,-16%,"-$151,000",,,,,OSTK
+97,,2021-03-08 16:44:22,2021-03-05,OSTK,Weight Joel,CTO,S - Sale,$60.94,-2000,2658,-43%,"-$121,880",,,,,OSTK
+98,,2021-03-01 18:55:04,2021-03-01,OSTK,Baker Mark Alan,Chief Product Officer,S - Sale,$70.10,-4400,3557,-55%,"-$308,440",,,,,OSTK
+99,D,2021-02-23 17:42:47,2021-02-22,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$94.87,-75,12671,-1%,"-$7,115",,,,,OSTK
+100,D,2021-02-23 17:42:47,2021-02-22,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,255,12671,+2%,+$0,,,,,OSTK
+101,D,2021-02-19 16:44:06,2021-02-17,OSTK,Nielsen David J.,"Pres, Retail",F - Tax,$102.51,-4433,22840,-16%,"-$454,427",,,,,OSTK
+102,D,2021-02-19 16:44:06,2021-02-17,OSTK,Nielsen David J.,"Pres, Retail",M - OptEx,$0.00,13333,22840,+140%,+$1,,,,,OSTK
+103,D,2021-02-19 16:42:18,2021-02-17,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$102.51,-1939,14618,-12%,"-$198,767",,,,,OSTK
+104,D,2021-02-19 16:42:18,2021-02-17,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,6666,14618,+84%,+$1,,,,,OSTK
+105,D,2021-02-19 16:41:26,2021-02-17,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",F - Tax,$102.51,-1939,13692,-12%,"-$198,767",,,,,OSTK
+106,D,2021-02-19 16:41:26,2021-02-17,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",M - OptEx,$0.00,6666,13692,+95%,+$1,,,,,OSTK
+107,D,2021-02-19 16:39:41,2021-02-17,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$102.51,-2177,16292,-12%,"-$223,164",,,,,OSTK
+108,D,2021-02-19 16:39:41,2021-02-17,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,6666,16292,+69%,+$1,,,,,OSTK
+109,D,2021-02-19 16:38:15,2021-02-17,OSTK,Johnson Jonathan E III,CEO,F - Tax,$102.51,-5929,102610,-5%,"-$607,782",,,,,OSTK
+110,D,2021-02-19 16:38:15,2021-02-17,OSTK,Johnson Jonathan E III,CEO,M - OptEx,$0.00,16666,102610,+19%,+$2,,,,,OSTK
+111,,2021-02-19 16:36:32,2021-02-18,OSTK,Corbus Barclay F,Dir,S - Sale,$98.01,-2666,48650,-5%,"-$261,295",,,,,OSTK
+112,D,2021-02-17 21:47:12,2021-02-13,OSTK,Nielsen David J.,"Pres, Retail",F - Tax,$106.88,-1999,13940,-13%,"-$213,653",,,,,OSTK
+113,D,2021-02-17 21:47:12,2021-02-13,OSTK,Nielsen David J.,"Pres, Retail",M - OptEx,$0.00,6667,13940,+92%,+$1,,,,,OSTK
+114,D,2021-02-17 21:46:28,2021-02-13,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",F - Tax,$106.88,-783,8965,-8%,"-$83,687",,,,,OSTK
+115,D,2021-02-17 21:46:28,2021-02-13,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",M - OptEx,$0.00,2667,8965,+42%,+$0,,,,,OSTK
+116,D,2021-02-17 21:46:28,2021-02-12,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",S - Sale+OE,$110.00,-5000,8965,-36%,"-$550,000",,,,,OSTK
+117,D,2021-02-17 21:45:37,2021-02-13,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$106.88,-979,9891,-9%,"-$104,636",,,,,OSTK
+118,D,2021-02-17 21:45:37,2021-02-13,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,3333,9891,+51%,+$0,,,,,OSTK
+119,D,2021-02-17 21:41:00,2021-02-13,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$106.88,-1940,11803,-14%,"-$207,347",,,,,OSTK
+120,D,2021-02-17 21:41:00,2021-02-13,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,6667,11803,+130%,+$1,,,,,OSTK
+121,D,2021-02-17 21:41:00,2021-02-16,OSTK,Lee Carter Paul,Chief Administrative Officer,S - Sale+OE,$109.01,-5000,11803,-30%,"-$545,050",,,,,OSTK
+122,D,2021-02-17 21:40:06,2021-02-13,OSTK,Johnson Jonathan E III,CEO,F - Tax,$106.88,-1957,91873,-2%,"-$209,164",,,,,OSTK
+123,D,2021-02-17 21:40:06,2021-02-13,OSTK,Johnson Jonathan E III,CEO,M - OptEx,$0.00,6667,91873,+8%,+$1,,,,,OSTK
+124,DM,2021-02-17 21:33:39,2021-02-13,OSTK,Mathews Krista Jean,Chief Customer Officer,F - Tax,$103.82,-2790,7425,-27%,"-$289,643",,,,,OSTK
+125,DM,2021-02-17 21:33:39,2021-02-13,OSTK,Mathews Krista Jean,Chief Customer Officer,M - OptEx,$0.00,9333,7425,-489%,+$1,,,,,OSTK
+126,DM,2021-02-17 21:02:39,2021-02-13,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$104.82,-1664,12491,-12%,"-$174,427",,,,,OSTK
+127,DM,2021-02-17 21:02:39,2021-02-13,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,5666,12491,+83%,+$1,,,,,OSTK
+128,DM,2021-02-17 20:44:36,2021-02-13,OSTK,Baker Mark Alan,Chief Product Officer,F - Tax,$103.92,-2966,7957,-27%,"-$308,231",,,,,OSTK
+129,DM,2021-02-17 20:44:36,2021-02-13,OSTK,Baker Mark Alan,Chief Product Officer,M - OptEx,$0.00,9759,7957,-542%,+$1,,,,,OSTK
+130,D,2021-02-17 19:57:44,2021-02-17,OSTK,Weight Joel,CTO,F - Tax,$102.51,-2008,4658,-30%,"-$205,840",,,,,OSTK
+131,D,2021-02-17 19:57:44,2021-02-17,OSTK,Weight Joel,CTO,M - OptEx,$0.00,6666,4658,-332%,+$1,,,,,OSTK
+132,DM,2021-02-17 18:23:35,2021-02-13,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,5433,51316,+12%,+$1,,,,,OSTK
+133,D,2021-02-17 18:23:35,2021-02-16,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$109.01,-1680,51316,-3%,"-$183,137",,,,,OSTK
+134,D,2021-02-17 16:56:36,2021-02-17,OSTK,Shapiro Robert Jacob,Dir,M - OptEx,$0.00,3333,6333,+111%,+$0,,,,,OSTK
+135,DM,2021-02-17 16:52:11,2021-02-13,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,5433,69433,+8%,+$1,,,,,OSTK
+136,DM,2021-02-17 16:44:37,2021-02-13,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,5433,90266,+6%,+$1,,,,,OSTK
+137,DM,2021-02-08 16:37:55,2021-02-05,OSTK,Tabacco Joseph J Jr,Dir,S - Sale+OE,$96.07,-20000,64000,-24%,"-$1,921,452",,,,,OSTK
+138,D,2021-02-05 19:02:35,2021-02-03,OSTK,Lee Carter Paul,Chief Administrative Officer,S - Sale+OE,$85.68,-3267,12076,-21%,"-$279,917",,,,,OSTK
+139,D,2021-01-28 21:01:37,2021-01-26,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$86.44,-1530,15343,-9%,"-$132,253",,,,,OSTK
+140,D,2021-01-28 21:01:37,2020-11-25,OSTK,Lee Carter Paul,Chief Administrative Officer,G - Gift,$0.00,-1323,15343,-8%,-$0,,,,,OSTK
+141,D,2021-01-28 21:01:37,2021-01-26,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,5000,15343,+48%,+$1,,,,,OSTK
+142,DM,2021-01-28 21:01:37,2021-01-26,OSTK,Lee Carter Paul,Chief Administrative Officer,S - Sale+OE,$85.00,-5267,15343,-26%,"-$447,695",,,,,OSTK
+143,D,2021-01-28 20:59:56,2021-01-26,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$86.44,-658,8489,-7%,"-$56,878",,,,,OSTK
+144,D,2021-01-28 20:59:56,2021-01-26,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,2000,8489,+31%,+$0,,,,,OSTK
+145,D,2021-01-28 20:39:39,2021-01-26,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$86.44,-656,7537,-8%,"-$56,705",,,,,OSTK
+146,D,2021-01-28 20:39:39,2021-01-26,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,2000,7537,+36%,+$0,,,,,OSTK
+147,D,2021-01-28 19:02:42,2021-01-26,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1100,84833,+1%,+$0,,,,,OSTK
+148,D,2021-01-28 18:52:28,2021-01-26,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",F - Tax,$86.44,-656,12081,-5%,"-$56,705",,,,,OSTK
+149,D,2021-01-28 18:52:28,2021-01-26,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",M - OptEx,$0.00,2000,12081,+20%,+$0,,,,,OSTK
+150,D,2021-01-28 18:51:15,2020-08-20,OSTK,Tabacco Joseph J Jr,Dir,G - Gift,$0.00,-8000,84000,-9%,-$0,,,,,OSTK
+151,D,2021-01-28 18:51:15,2021-01-26,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1100,84000,+1%,+$0,,,,,OSTK
+152,D,2021-01-28 18:51:15,2021-01-26,OSTK,Tabacco Joseph J Jr,Dir,S - Sale+OE,$81.63,-40000,84000,-32%,"-$3,265,096",,,,,OSTK
+153,D,2021-01-28 18:43:13,2021-01-26,OSTK,Johnson Jonathan E III,CEO,F - Tax,$86.44,-543,87163,-1%,"-$46,937",,,,,OSTK
+154,D,2021-01-28 18:43:13,2021-01-26,OSTK,Johnson Jonathan E III,CEO,M - OptEx,$0.00,1667,87163,+2%,+$0,,,,,OSTK
+155,D,2021-01-28 18:34:06,2021-01-26,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1100,47563,+2%,+$0,,,,,OSTK
+156,D,2021-01-28 18:34:06,2021-01-27,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$81.01,-880,47563,-2%,"-$71,289",,,,,OSTK
+157,,2020-12-02 16:22:00,2020-08-20,OSTK,Nickle Eric Glen,"VP, Legal, GC",G - Gift,$0.00,-300,7147,-4%,-$0,,,,,OSTK
+158,,2020-12-02 16:22:00,2020-11-30,OSTK,Nickle Eric Glen,"VP, Legal, GC",S - Sale,$69.02,-500,7147,-7%,"-$34,511",,,,,OSTK
+159,,2020-11-27 16:12:58,2020-11-25,OSTK,Nielsen David J.,"Pres, Retail",S - Sale,$68.13,-1300,9272,-12%,"-$88,565",,,,,OSTK
+160,,2020-11-09 16:30:17,2020-11-09,OSTK,Johnson Jonathan E III,CEO,P - Purchase,$55.75,1000,86039,+1%,"+$55,750",,,,,OSTK
+161,D,2020-11-02 16:30:53,2020-10-30,OSTK,Nielsen David J.,"Pres, Retail",F - Tax,$56.10,-783,10572,-7%,"-$43,926",,,,,OSTK
+162,D,2020-11-02 16:30:53,2020-10-30,OSTK,Nielsen David J.,"Pres, Retail",M - OptEx,$0.00,2667,10572,+34%,+$0,,,,,OSTK
+163,,2020-09-29 17:03:55,2020-09-28,OSTK,Lee Carter Paul,Chief Administrative Officer,S - Sale,$75.00,-10000,18463,-35%,"-$750,000",,,,,OSTK
+164,,2020-08-20 16:23:19,2020-08-18,OSTK,Weight Joel,CTO,S - Sale,$114.91,-435,0,-100%,"-$49,985",,,,,OSTK
+165,,2020-08-20 16:22:17,2020-08-19,OSTK,Mathews Krista Jean,Chief Customer Officer,S - Sale,$124.56,-860,882,-49%,"-$107,119",,,,,OSTK
+166,,2020-08-18 16:39:59,2020-08-17,OSTK,Baker Mark Alan,Chief Product Officer,S - Sale,$107.20,-2000,1164,-63%,"-$214,400",,,,,OSTK
+167,,2020-07-30 19:37:16,2020-07-30,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$75.00,-4469,6193,-42%,"-$335,175",,,,,OSTK
+168,D,2020-07-28 16:06:48,2020-07-27,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$59.13,-196,7947,-2%,"-$11,589",,,,,OSTK
+169,D,2020-07-28 16:06:48,2020-07-27,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,667,7947,+9%,+$0,,,,,OSTK
+170,,2020-07-10 19:01:47,2020-07-10,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$50.00,-1500,10662,-12%,"-$75,000",,,,,OSTK
+171,M,2020-07-08 16:52:39,2020-07-06,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$41.13,-3000,12162,-20%,"-$123,400",,,,,OSTK
+172,,2020-07-02 16:35:10,2020-07-01,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$30.00,-500,15162,-3%,"-$15,000",,,,,OSTK
+173,,2020-06-22 19:01:16,2020-06-19,OSTK,Tuohig Meghan,Chief People Officer,S - Sale,$25.00,-250,15662,-2%,"-$6,250",,,,,OSTK
+174,,2020-06-12 16:31:18,2020-06-10,OSTK,Nickle Eric Glen,"VP, Legal, GC",S - Sale,$23.85,-1000,7476,-12%,"-$23,850",,,,,OSTK
+175,D,2020-05-11 20:02:19,2020-05-08,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$16.13,-474,15912,-3%,"-$7,646",,,,,OSTK
+176,D,2020-05-11 20:02:19,2020-05-08,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,1666,15912,+12%,+$0,,,,,OSTK
+177,D,2020-05-11 19:59:57,2020-05-09,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1667,83733,+2%,+$0,,,,,OSTK
+178,D,2020-05-11 19:57:14,2020-05-08,OSTK,Baker Mark Alan,Chief Product Officer,F - Tax,$16.13,-523,3164,-14%,"-$8,436",,,,,OSTK
+179,D,2020-05-11 19:57:14,2020-05-08,OSTK,Baker Mark Alan,Chief Product Officer,M - OptEx,$0.00,1666,3164,+111%,+$0,,,,,OSTK
+180,,2020-05-06 20:03:23,2020-05-04,OSTK,Shapiro Robert Jacob,Dir,P - Purchase,$13.00,3000,3000,New,"+$39,000",,,,,OSTK
+181,,2020-03-23 16:34:12,2020-03-20,OSTK,Abraham Allison H,Dir,P - Purchase,$3.85,15000,82066,+22%,"+$57,755",,,,,OSTK
+182,,2020-03-20 19:34:10,2020-03-20,OSTK,Nielsen David J.,"Pres, Retail",P - Purchase,$4.17,2449,8688,+39%,"+$10,205",,,,,OSTK
+183,,2020-03-20 16:33:49,2020-03-20,OSTK,Lee Carter Paul,Chief Administrative Officer,P - Purchase,$4.09,325,28463,+1%,"+$1,329",,,,,OSTK
+184,,2020-03-20 16:31:40,2020-03-19,OSTK,Tabacco Joseph J Jr,Dir,P - Purchase,$3.07,30000,130900,+30%,"+$92,100",,,,,OSTK
+185,,2020-03-18 19:01:52,2020-03-18,OSTK,Johnson Jonathan E III,CEO,P - Purchase,$2.60,30000,85039,+55%,"+$78,081",,,,,OSTK
+186,,2020-03-17 19:06:05,2020-03-16,OSTK,Lee Carter Paul,Chief Administrative Officer,P - Purchase,$2.79,250,28138,+1%,+$698,,,,,OSTK
+187,D,2020-02-28 17:12:14,2020-02-13,OSTK,Baker Mark Alan,Chief Product Officer,F - Tax,$8.99,-1072,2021,-35%,"-$9,637",,,,,OSTK
+188,D,2020-02-28 17:12:14,2020-02-13,OSTK,Baker Mark Alan,Chief Product Officer,M - OptEx,$0.00,3093,2021,-289%,+$0,,,,,OSTK
+189,A,2020-02-24 20:14:45,2020-02-13,OSTK,Johnson Jonathan E III,CEO,F - Tax,$8.99,-2076,53351,-4%,"-$18,663",,,,,OSTK
+190,A,2020-02-24 20:12:19,2020-02-13,OSTK,Knab John Paul,CMO,F - Tax,$8.99,-1928,25428,-7%,"-$17,333",,,,,OSTK
+191,A,2020-02-24 20:09:10,2020-02-02,OSTK,Hughes Robert P,Acting CFO,F - Tax,$8.12,-1710,49371,-3%,"-$13,885",,,,,OSTK
+192,D,2020-02-24 20:07:50,2020-02-22,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$9.26,-89,8476,-1%,-$824,,,,,OSTK
+193,D,2020-02-24 20:07:50,2020-02-22,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,254,8476,+3%,+$0,,,,,OSTK
+194,D,2020-02-18 19:41:09,2020-02-13,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,2100,67066,+3%,+$0,,,,,OSTK
+195,D,2020-02-18 19:39:05,2020-02-13,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,2100,47343,+5%,+$0,,,,,OSTK
+196,D,2020-02-18 19:37:09,2020-02-13,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",F - Tax,$8.99,-924,10737,-8%,"-$8,307",,,,,OSTK
+197,D,2020-02-18 19:37:09,2020-02-13,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",M - OptEx,$0.00,2666,10737,+33%,+$0,,,,,OSTK
+198,D,2020-02-18 19:35:54,2020-02-13,OSTK,Johnson Jonathan E III,CEO,F - Tax,$8.99,-2263,54852,-4%,"-$20,344",,,,,OSTK
+199,D,2020-02-18 19:35:54,2020-02-13,OSTK,Johnson Jonathan E III,CEO,M - OptEx,$0.00,6666,54852,+14%,+$1,,,,,OSTK
+200,D,2020-02-18 19:33:07,2020-02-13,OSTK,Knab John Paul,CMO,F - Tax,$8.99,-2208,26686,-8%,"-$19,850",,,,,OSTK
+201,D,2020-02-18 19:33:07,2020-02-13,OSTK,Knab John Paul,CMO,M - OptEx,$0.00,6666,26686,+33%,+$1,,,,,OSTK
+202,D,2020-02-18 19:28:18,2020-02-13,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,6666,27888,+31%,+$1,,,,,OSTK
+203,D,2020-02-18 19:25:40,2020-02-13,OSTK,Mathews Krista Jean,Chief Customer Officer,F - Tax,$8.99,-924,1742,-35%,"-$8,307",,,,,OSTK
+204,D,2020-02-18 19:25:40,2020-02-13,OSTK,Mathews Krista Jean,Chief Customer Officer,M - OptEx,$0.00,2666,1742,-289%,+$0,,,,,OSTK
+205,D,2020-02-18 19:24:25,2020-02-13,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$8.99,-1040,8311,-11%,"-$9,350",,,,,OSTK
+206,D,2020-02-18 19:24:25,2020-02-13,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,3000,8311,+56%,+$0,,,,,OSTK
+207,D,2020-02-18 19:23:23,2020-02-13,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,2100,100900,+2%,+$0,,,,,OSTK
+208,D,2020-02-18 19:22:25,2020-02-13,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$8.99,-1155,14720,-7%,"-$10,383",,,,,OSTK
+209,D,2020-02-18 19:22:25,2020-02-13,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,3333,14720,+29%,+$0,,,,,OSTK
+210,D,2020-02-18 19:20:54,2020-02-13,OSTK,Nielsen David J.,"Pres, Retail",F - Tax,$8.99,-2310,6239,-27%,"-$20,767",,,,,OSTK
+211,D,2020-02-18 19:20:54,2020-02-13,OSTK,Nielsen David J.,"Pres, Retail",M - OptEx,$0.00,6666,6239,-1561%,+$1,,,,,OSTK
+212,D,2020-02-04 20:24:21,2020-02-02,OSTK,Auwerda Nathan Forrest,CTO,F - Tax,$8.12,-578,8313,-7%,"-$4,693",,,,,OSTK
+213,D,2020-02-04 20:24:21,2020-02-02,OSTK,Auwerda Nathan Forrest,CTO,M - OptEx,$0.00,1667,8313,+25%,+$0,,,,,OSTK
+214,D,2020-02-04 20:22:59,2020-02-02,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",F - Tax,$8.12,-463,8995,-5%,"-$3,760",,,,,OSTK
+215,D,2020-02-04 20:22:59,2020-02-02,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",M - OptEx,$0.00,1334,8995,+17%,+$0,,,,,OSTK
+216,D,2020-02-04 20:21:37,2020-02-02,OSTK,Hughes Robert P,Acting CFO,F - Tax,$8.12,-1733,49518,-3%,"-$14,072",,,,,OSTK
+217,D,2020-02-04 20:21:37,2020-02-02,OSTK,Hughes Robert P,Acting CFO,M - OptEx,$0.00,5000,49518,+11%,+$1,,,,,OSTK
+218,D,2020-02-04 20:20:43,2020-02-02,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$8.12,-578,12542,-4%,"-$4,693",,,,,OSTK
+219,D,2020-02-04 20:20:43,2020-02-02,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,1667,12542,+15%,+$0,,,,,OSTK
+220,D,2020-02-04 20:19:39,2020-02-02,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$8.12,-1733,21222,-8%,"-$14,072",,,,,OSTK
+221,D,2020-02-04 20:19:39,2020-02-02,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,5000,21222,+31%,+$1,,,,,OSTK
+222,D,2020-02-04 20:18:04,2020-02-02,OSTK,Knab John Paul,CMO,F - Tax,$8.12,-1733,22228,-7%,"-$14,072",,,,,OSTK
+223,D,2020-02-04 20:18:04,2020-02-02,OSTK,Knab John Paul,CMO,M - OptEx,$0.00,5000,22228,+29%,+$1,,,,,OSTK
+224,D,2020-02-04 20:16:20,2020-02-02,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$8.12,-347,6351,-5%,"-$2,818",,,,,OSTK
+225,D,2020-02-04 20:16:20,2020-02-02,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,1000,6351,+19%,+$0,,,,,OSTK
+226,D,2020-02-04 20:15:03,2020-02-02,OSTK,Johnson Jonathan E III,CEO,F - Tax,$8.12,-1156,50449,-2%,"-$9,387",,,,,OSTK
+227,D,2020-02-04 20:15:03,2020-02-02,OSTK,Johnson Jonathan E III,CEO,M - OptEx,$0.00,3334,50449,+7%,+$0,,,,,OSTK
+228,D,2020-02-04 20:13:44,2020-02-02,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1667,45243,+4%,+$0,,,,,OSTK
+229,D,2020-02-04 20:11:50,2020-02-02,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1667,98800,+2%,+$0,,,,,OSTK
+230,D,2020-02-04 20:09:11,2020-02-02,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1667,64966,+3%,+$0,,,,,OSTK
+231,D,2020-01-28 18:55:08,2020-01-26,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",F - Tax,$8.06,-693,8124,-8%,"-$5,586",,,,,OSTK
+232,D,2020-01-28 18:55:08,2020-01-26,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",M - OptEx,$0.00,2000,8124,+33%,+$0,,,,,OSTK
+233,D,2020-01-28 18:51:27,2020-01-26,OSTK,Hughes Robert P,Acting CFO,F - Tax,$8.06,-2311,46251,-5%,"-$18,627",,,,,OSTK
+234,D,2020-01-28 18:51:27,2020-01-26,OSTK,Hughes Robert P,Acting CFO,M - OptEx,$0.00,6667,46251,+17%,+$1,,,,,OSTK
+235,D,2020-01-28 18:47:12,2020-01-26,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$8.06,-1733,17955,-9%,"-$13,968",,,,,OSTK
+236,D,2020-01-28 18:47:12,2020-01-26,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,5000,17955,+39%,+$1,,,,,OSTK
+237,D,2020-01-28 18:44:08,2020-01-26,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$8.06,-693,5698,-11%,"-$5,586",,,,,OSTK
+238,D,2020-01-28 18:44:08,2020-01-26,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,2000,5698,+54%,+$0,,,,,OSTK
+239,D,2020-01-28 18:41:49,2020-01-26,OSTK,Aryafar Kamelia,"EVP, Chief Algorithms Off",F - Tax,$8.06,-232,5202,-4%,"-$1,870",,,,,OSTK
+240,D,2020-01-28 18:41:49,2020-01-26,OSTK,Aryafar Kamelia,"EVP, Chief Algorithms Off",M - OptEx,$0.00,667,5202,+15%,+$0,,,,,OSTK
+241,D,2020-01-28 18:36:00,2020-01-26,OSTK,Johnson Jonathan E III,CEO,F - Tax,$8.06,-578,48271,-1%,"-$4,659",,,,,OSTK
+242,D,2020-01-28 18:36:00,2020-01-26,OSTK,Johnson Jonathan E III,CEO,M - OptEx,$0.00,1667,48271,+4%,+$0,,,,,OSTK
+243,D,2020-01-28 18:26:47,2020-01-26,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1100,43576,+3%,+$0,,,,,OSTK
+244,D,2020-01-28 18:18:43,2020-01-26,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1100,97133,+1%,+$0,,,,,OSTK
+245,D,2020-01-28 18:17:06,2020-01-26,OSTK,Knab John Paul,CMO,F - Tax,$8.06,-2022,18961,-10%,"-$16,297",,,,,OSTK
+246,D,2020-01-28 18:17:06,2020-01-26,OSTK,Knab John Paul,CMO,M - OptEx,$0.00,5833,18961,+44%,+$1,,,,,OSTK
+247,D,2020-01-28 18:07:56,2020-01-26,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1100,63299,+2%,+$0,,,,,OSTK
+248,D,2020-01-28 18:04:45,2020-01-26,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$8.06,-693,11453,-6%,"-$5,586",,,,,OSTK
+249,D,2020-01-28 18:04:45,2020-01-26,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,2000,11453,+21%,+$0,,,,,OSTK
+250,D,2020-01-28 17:58:46,2020-01-26,OSTK,Auwerda Nathan Forrest,CTO,F - Tax,$8.06,-809,7224,-10%,"-$6,521",,,,,OSTK
+251,D,2020-01-28 17:58:46,2020-01-26,OSTK,Auwerda Nathan Forrest,CTO,M - OptEx,$0.00,2333,7224,+48%,+$0,,,,,OSTK
+252,D,2019-11-01 16:38:44,2019-10-30,OSTK,Auwerda Nathan Forrest,CTO,F - Tax,$10.66,-196,5700,-3%,"-$2,089",,,,,OSTK
+253,D,2019-11-01 16:38:44,2019-10-30,OSTK,Auwerda Nathan Forrest,CTO,M - OptEx,$0.00,666,5700,+13%,+$0,,,,,OSTK
+254,D,2019-11-01 16:35:25,2019-10-30,OSTK,Nielsen David J.,"Pres, Retail",F - Tax,$10.66,-783,1883,-29%,"-$8,347",,,,,OSTK
+255,D,2019-11-01 16:35:25,2019-10-30,OSTK,Nielsen David J.,"Pres, Retail",M - OptEx,$0.00,2666,1883,-340%,+$0,,,,,OSTK
+256,D,2019-10-29 16:55:06,2019-10-26,OSTK,Aryafar Kamelia,"EVP, Chief Algorithms Off",F - Tax,$11.29,-901,4767,-16%,"-$10,172",,,,,OSTK
+257,D,2019-10-29 16:55:06,2019-10-26,OSTK,Aryafar Kamelia,"EVP, Chief Algorithms Off",M - OptEx,$0.00,3067,4767,+180%,+$0,,,,,OSTK
+258,D,2019-10-29 16:51:48,2019-10-26,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",F - Tax,$11.29,-783,6817,-10%,"-$8,840",,,,,OSTK
+259,D,2019-10-29 16:51:48,2019-10-26,OSTK,Hilton Ronald,"Chief Sourcing, Operations Off",M - OptEx,$0.00,2667,6817,+64%,+$0,,,,,OSTK
+260,,2019-09-18 17:03:11,2019-09-16,OSTK,Byrne Patrick Michael,10%,G - Gift,$0.00,-87000,0,-100%,-$0,,,,,OSTK
+261,M,2019-09-18 17:03:11,2019-09-16,OSTK,Byrne Patrick Michael,10%,S - Sale,$19.15,-4703459,0,-100%,"-$90,075,166",,,,,OSTK
+262,,2019-09-03 20:16:41,2019-08-30,OSTK,Johnson Jonathan E III,Interim CEO,P - Purchase,$15.98,2000,47182,+4%,"+$31,959",,,,,OSTK
+263,,2019-08-27 19:25:17,2019-08-23,OSTK,Knab John Paul,CMO,S - Sale,$21.06,-1500,14968,-9%,"-$31,585",,,,,OSTK
+264,,2019-08-21 19:53:17,2019-08-09,OSTK,Lee Carter Paul,Chief Administrative Officer,S - Sale,$25.00,-1000,14688,-6%,"-$25,000",,,,,OSTK
+265,,2019-08-07 17:59:43,2019-08-06,OSTK,Nickle Eric Glen,"VP, Legal, GC",S - Sale,$21.91,-100,4391,-2%,"-$2,191",,,,,OSTK
+266,,2019-08-01 16:46:51,2019-08-01,OSTK,Auwerda Nathan Forrest,CTO,S - Sale,$22.59,-400,5230,-7%,"-$9,036",,,,,OSTK
+267,D,2019-07-30 18:24:01,2019-07-27,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$20.05,-196,4491,-4%,"-$3,930",,,,,OSTK
+268,D,2019-07-30 18:24:01,2019-07-27,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,667,4491,+17%,+$0,,,,,OSTK
+269,M,2019-05-20 18:18:44,2019-05-17,OSTK,Tabacco Joseph J Jr,Dir,P - Purchase,$10.45,40000,96033,+71%,"+$418,050",,,,,OSTK
+270,,2019-05-17 16:43:00,2019-05-16,OSTK,Byrne Patrick Michael,"CEO, 10%",S - Sale,$10.29,-407055,4790459,-8%,"-$4,187,863",,,,,OSTK
+271,M,2019-05-15 13:45:10,2019-05-13,OSTK,Byrne Patrick Michael,"CEO, 10%",S - Sale,$13.09,-500000,5197514,-9%,"-$6,544,075",,,,,OSTK
+272,DM,2019-05-13 13:25:04,2019-05-09,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,3334,62199,+6%,+$0,,,,,OSTK
+273,D,2019-05-09 08:44:29,2019-05-08,OSTK,Iverson Gregory James,CFO,F - Tax,$12.07,-1909,4757,-29%,"-$23,042",,,,,OSTK
+274,D,2019-05-09 08:44:29,2019-05-08,OSTK,Iverson Gregory James,CFO,M - OptEx,$0.00,6666,4757,-349%,+$1,,,,,OSTK
+275,,2019-04-08 13:00:27,2019-04-05,OSTK,Knab John Paul,CMO,S - Sale,$16.93,-2500,15908,-14%,"-$42,326",,,,,OSTK
+276,A,2019-04-03 20:16:59,2019-03-27,OSTK,Tabacco Joseph J Jr,Dir,P - Purchase,$18.20,5000,56033,+10%,"+$90,985",,,,,OSTK
+277,,2019-04-03 19:35:42,2019-03-27,OSTK,Tabacco Joseph J Jr,Dir,P - Purchase,$18.20,5000,56033,+10%,"+$90,985",,,,,OSTK
+278,D,2019-03-26 14:18:42,2019-03-24,OSTK,Noursalehi Sam,Dir,F - Tax,$18.41,-1957,106149,-2%,"-$36,028",,,,,OSTK
+279,D,2019-03-26 14:18:42,2019-03-24,OSTK,Noursalehi Sam,Dir,M - OptEx,$0.00,6667,106149,+7%,+$1,,,,,OSTK
+280,D,2019-03-26 14:17:33,2019-03-24,OSTK,Moore Seth,Chief Strategy Officer,F - Tax,$18.41,-783,21339,-4%,"-$14,415",,,,,OSTK
+281,D,2019-03-26 14:17:33,2019-03-24,OSTK,Moore Seth,Chief Strategy Officer,M - OptEx,$0.00,2667,21339,+14%,+$0,,,,,OSTK
+282,D,2019-03-26 14:16:31,2019-03-24,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$18.41,-1468,15689,-9%,"-$27,026",,,,,OSTK
+283,D,2019-03-26 14:16:31,2019-03-24,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,5000,15689,+47%,+$1,,,,,OSTK
+284,D,2019-03-26 14:15:36,2019-03-24,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1667,42476,+4%,+$0,,,,,OSTK
+285,D,2019-03-26 14:15:36,2019-03-25,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$18.35,-750,42476,-2%,"-$13,763",,,,,OSTK
+286,D,2019-03-26 14:12:06,2019-03-24,OSTK,Tuohig Meghan,Chief People Officer,F - Tax,$18.41,-828,10146,-8%,"-$15,243",,,,,OSTK
+287,D,2019-03-26 14:12:06,2019-03-24,OSTK,Tuohig Meghan,Chief People Officer,M - OptEx,$0.00,2667,10146,+36%,+$0,,,,,OSTK
+288,D,2019-03-26 10:52:08,2019-03-24,OSTK,Kalyanam Kirthi,Dir,M - OptEx,$0.00,1667,13383,+14%,+$0,,,,,OSTK
+289,D,2019-03-26 10:50:50,2019-03-24,OSTK,Goyal Sumit,Chief Digital Officer,F - Tax,$18.41,-232,2191,-10%,"-$4,271",,,,,OSTK
+290,D,2019-03-26 10:50:50,2019-03-24,OSTK,Goyal Sumit,Chief Digital Officer,M - OptEx,$0.00,667,2191,+44%,+$0,,,,,OSTK
+291,D,2019-03-26 10:49:30,2019-03-24,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$18.41,-139,4020,-3%,"-$2,559",,,,,OSTK
+292,D,2019-03-26 10:49:30,2019-03-24,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,400,4020,+11%,+$0,,,,,OSTK
+293,D,2019-03-26 10:48:16,2019-03-24,OSTK,Auwerda Nathan Forrest,CTO,F - Tax,$18.41,-570,5630,-9%,"-$10,494",,,,,OSTK
+294,D,2019-03-26 10:48:16,2019-03-24,OSTK,Auwerda Nathan Forrest,CTO,M - OptEx,$0.00,2000,5630,+55%,+$0,,,,,OSTK
+295,D,2019-03-26 10:46:28,2019-03-24,OSTK,Johnson Jonathan E III,"Pres, Medici",F - Tax,$18.41,-1468,45182,-3%,"-$27,026",,,,,OSTK
+296,D,2019-03-26 10:46:28,2019-03-24,OSTK,Johnson Jonathan E III,"Pres, Medici",M - OptEx,$0.00,5000,45182,+12%,+$1,,,,,OSTK
+297,D,2019-03-26 10:43:49,2019-03-24,OSTK,Knab John Paul,CMO,F - Tax,$18.41,-1468,18408,-7%,"-$27,026",,,,,OSTK
+298,D,2019-03-26 10:43:49,2019-03-24,OSTK,Knab John Paul,CMO,M - OptEx,$0.00,5000,18408,+37%,+$1,,,,,OSTK
+299,D,2019-03-26 10:42:17,2019-03-24,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1667,51033,+3%,+$0,,,,,OSTK
+300,D,2019-02-25 14:34:27,2019-02-22,OSTK,Moore Seth,Chief Strategy Officer,F - Tax,$19.89,-243,19321,-1%,"-$4,833",,,,,OSTK
+301,D,2019-02-25 14:34:27,2019-02-22,OSTK,Moore Seth,Chief Strategy Officer,M - OptEx,$0.00,833,19321,+5%,+$0,,,,,OSTK
+302,D,2019-02-25 14:33:18,2019-02-22,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$19.89,-89,3759,-2%,"-$1,770",,,,,OSTK
+303,D,2019-02-25 14:33:18,2019-02-22,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,254,3759,+7%,+$0,,,,,OSTK
+304,D,2019-02-05 15:06:58,2019-02-02,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1667,49366,+3%,+$0,,,,,OSTK
+305,D,2019-02-05 15:06:04,2019-02-02,OSTK,Noursalehi Sam,Dir,F - Tax,$17.55,-4546,101439,-4%,"-$79,782",,,,,OSTK
+306,D,2019-02-05 15:06:04,2019-02-02,OSTK,Noursalehi Sam,Dir,M - OptEx,$0.00,10833,101439,+12%,+$1,,,,,OSTK
+307,D,2019-02-05 15:04:59,2019-02-02,OSTK,Moore Seth,Chief Strategy Officer,F - Tax,$17.55,-1014,20530,-5%,"-$17,796",,,,,OSTK
+308,D,2019-02-05 15:04:59,2019-02-02,OSTK,Moore Seth,Chief Strategy Officer,M - OptEx,$0.00,3333,20530,+19%,+$0,,,,,OSTK
+309,D,2019-02-05 15:03:55,2019-02-02,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$17.55,-1489,12157,-11%,"-$26,132",,,,,OSTK
+310,D,2019-02-05 15:03:55,2019-02-02,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,5000,12157,+70%,+$1,,,,,OSTK
+311,D,2019-02-05 15:02:54,2019-02-02,OSTK,Knab John Paul,CMO,F - Tax,$17.55,-1436,14876,-9%,"-$25,202",,,,,OSTK
+312,D,2019-02-05 15:02:54,2019-02-02,OSTK,Knab John Paul,CMO,M - OptEx,$0.00,5000,14876,+51%,+$1,,,,,OSTK
+313,D,2019-02-05 15:01:47,2019-02-02,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1667,58865,+3%,+$0,,,,,OSTK
+314,D,2019-02-05 12:00:27,2019-02-02,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$17.55,-347,3594,-9%,"-$6,090",,,,,OSTK
+315,D,2019-02-05 12:00:27,2019-02-02,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,1000,3594,+39%,+$0,,,,,OSTK
+316,D,2019-02-05 11:59:04,2019-02-02,OSTK,Goyal Sumit,Chief Digital Officer,F - Tax,$17.55,-116,1756,-6%,"-$2,036",,,,,OSTK
+317,D,2019-02-05 11:59:04,2019-02-02,OSTK,Goyal Sumit,Chief Digital Officer,M - OptEx,$0.00,333,1756,+23%,+$0,,,,,OSTK
+318,D,2019-02-05 11:57:50,2019-02-02,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1667,41559,+4%,+$0,,,,,OSTK
+319,D,2019-02-05 11:57:50,2019-02-04,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$17.55,-750,41559,-2%,"-$13,163",,,,,OSTK
+320,D,2019-02-05 11:50:35,2019-02-02,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,6667,5697514,0%,+$1,,,,,OSTK
+321,D,2019-02-05 11:49:00,2019-02-02,OSTK,Johnson Jonathan E III,"Pres, Medici",F - Tax,$17.55,-1155,41650,-3%,"-$20,270",,,,,OSTK
+322,D,2019-02-05 11:49:00,2019-02-02,OSTK,Johnson Jonathan E III,"Pres, Medici",M - OptEx,$0.00,3333,41650,+9%,+$0,,,,,OSTK
+323,D,2019-02-05 11:39:54,2019-02-02,OSTK,Kalyanam Kirthi,Dir,M - OptEx,$0.00,1667,11716,+17%,+$0,,,,,OSTK
+324,D,2019-02-05 10:56:13,2019-02-02,OSTK,Auwerda Nathan Forrest,CTO,F - Tax,$17.55,-578,4200,-12%,"-$10,144",,,,,OSTK
+325,D,2019-02-05 10:56:13,2019-02-02,OSTK,Auwerda Nathan Forrest,CTO,M - OptEx,$0.00,1667,4200,+66%,+$0,,,,,OSTK
+326,D,2019-01-29 17:25:30,2019-01-26,OSTK,Nickle Eric Glen,"VP, Legal, GC",F - Tax,$18.38,-693,2941,-19%,"-$12,737",,,,,OSTK
+327,D,2019-01-29 17:25:30,2019-01-26,OSTK,Nickle Eric Glen,"VP, Legal, GC",M - OptEx,$0.00,2000,2941,+213%,+$0,,,,,OSTK
+328,D,2019-01-29 16:28:04,2019-01-26,OSTK,Lee Carter Paul,Chief Administrative Officer,F - Tax,$18.38,-1733,8646,-17%,"-$31,853",,,,,OSTK
+329,D,2019-01-29 16:28:04,2019-01-26,OSTK,Lee Carter Paul,Chief Administrative Officer,M - OptEx,$0.00,5000,8646,+137%,+$1,,,,,OSTK
+330,D,2019-01-29 15:39:45,2019-01-26,OSTK,Johnson Jonathan E III,"Pres, Medici",F - Tax,$18.38,-578,39472,-1%,"-$10,624",,,,,OSTK
+331,D,2019-01-29 15:39:45,2019-01-26,OSTK,Johnson Jonathan E III,"Pres, Medici",M - OptEx,$0.00,1666,39472,+4%,+$0,,,,,OSTK
+332,D,2019-01-29 15:25:19,2019-01-26,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1100,47699,+2%,+$0,,,,,OSTK
+333,D,2019-01-29 15:23:17,2019-01-26,OSTK,Kalyanam Kirthi,Dir,M - OptEx,$0.00,1100,10049,+12%,+$0,,,,,OSTK
+334,D,2019-01-29 15:19:25,2019-01-26,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1100,40642,+3%,+$0,,,,,OSTK
+335,D,2019-01-29 15:19:25,2019-01-28,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$18.00,-495,40642,-1%,"-$8,910",,,,,OSTK
+336,D,2019-01-29 15:07:51,2019-01-26,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1100,57198,+2%,+$0,,,,,OSTK
+337,D,2019-01-29 15:04:17,2019-01-26,OSTK,Aryafar Kamelia,Chief Algorithms Officer,F - Tax,$18.38,-231,2601,-8%,"-$4,246",,,,,OSTK
+338,D,2019-01-29 15:04:17,2019-01-26,OSTK,Aryafar Kamelia,Chief Algorithms Officer,M - OptEx,$0.00,666,2601,+34%,+$0,,,,,OSTK
+339,D,2019-01-29 14:59:15,2019-01-26,OSTK,Goyal Sumit,Chief Digital Officer,F - Tax,$18.38,-809,1539,-34%,"-$14,869",,,,,OSTK
+340,D,2019-01-29 14:59:15,2019-01-26,OSTK,Goyal Sumit,Chief Digital Officer,M - OptEx,$0.00,2333,1539,-294%,+$0,,,,,OSTK
+341,D,2019-01-29 14:34:48,2019-01-26,OSTK,Knab John Paul,CMO,F - Tax,$18.38,-2006,11312,-15%,"-$36,870",,,,,OSTK
+342,D,2019-01-29 14:34:48,2019-01-26,OSTK,Knab John Paul,CMO,M - OptEx,$0.00,5833,11312,+106%,+$1,,,,,OSTK
+343,D,2019-01-29 14:25:12,2019-01-26,OSTK,Moore Seth,Chief Strategy Officer,F - Tax,$18.38,-1733,18133,-9%,"-$31,853",,,,,OSTK
+344,D,2019-01-29 14:25:12,2019-01-26,OSTK,Moore Seth,Chief Strategy Officer,M - OptEx,$0.00,5000,18133,+38%,+$1,,,,,OSTK
+345,D,2019-01-29 14:23:09,2019-01-26,OSTK,Noursalehi Sam,Dir,F - Tax,$18.38,-4325,95152,-4%,"-$79,494",,,,,OSTK
+346,D,2019-01-29 14:23:09,2019-01-26,OSTK,Noursalehi Sam,Dir,M - OptEx,$0.00,10000,95152,+12%,+$1,,,,,OSTK
+347,D,2019-01-29 14:19:13,2019-01-26,OSTK,Auwerda Nathan Forrest,CTO,F - Tax,$18.38,-809,3111,-21%,"-$14,869",,,,,OSTK
+348,D,2019-01-29 14:19:13,2019-01-26,OSTK,Auwerda Nathan Forrest,CTO,M - OptEx,$0.00,2333,3111,+300%,+$0,,,,,OSTK
+349,D,2018-10-30 11:30:51,2018-10-26,OSTK,Aryafar Kamelia,Chief Algorithms Officer,F - Tax,$19.88,-901,2166,-29%,"-$17,912",,,,,OSTK
+350,D,2018-10-30 11:30:51,2018-10-26,OSTK,Aryafar Kamelia,Chief Algorithms Officer,M - OptEx,$0.00,3067,2166,-340%,+$0,,,,,OSTK
+351,M,2018-09-10 17:26:12,2018-09-06,OSTK,Byrne Patrick,"CEO, 10%",S - Sale,$25.83,-774303,5727847,-12%,"-$20,000,391",,,,,OSTK
+352,,2018-08-30 15:50:39,2018-08-29,OSTK,Lee Carter Paul,"SVP, Technology, People Care",G - Gift,$0.00,-333,5379,-6%,-$0,,,,,OSTK
+353,,2018-08-30 15:50:39,2018-08-29,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$30.15,-1300,5379,-19%,"-$39,196",,,,,OSTK
+354,,2018-08-20 16:05:17,2018-08-16,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$31.05,-2000,7012,-22%,"-$62,101",,,,,OSTK
+355,,2018-08-14 12:08:20,2018-08-13,OSTK,Knab John Paul,"SVP, Marketing",S - Sale,$39.75,-2000,7485,-21%,"-$79,500",,,,,OSTK
+356,,2018-07-19 11:49:06,2018-07-18,OSTK,Moore Seth,"SVP, Analytics, Olabs",S - Sale,$42.85,-2000,14090,-12%,"-$85,700",,,,,OSTK
+357,,2018-06-29 11:37:58,2018-06-28,OSTK,Noursalehi Sam,Dir,A - Grant,$0.00,62670,89477,+234%,+$0,,,,,OSTK
+358,,2018-06-22 17:25:59,2018-06-20,OSTK,Moore Seth,"SVP, Analytics, Olabs",S - Sale,$39.05,-3000,16014,-16%,"-$117,150",,,,,OSTK
+359,,2018-05-22 11:19:51,2018-05-18,OSTK,Knab John Paul,"SVP, Marketing",S - Sale,$37.95,-1500,9485,-14%,"-$56,925",,,,,OSTK
+360,,2018-05-15 13:01:20,2018-05-11,OSTK,Lee Carter Paul,"SVP, Technology, People Care",G - Gift,$0.00,-1000,9012,-10%,-$0,,,,,OSTK
+361,,2018-05-15 13:01:20,2018-05-11,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$35.80,-2000,9012,-18%,"-$71,602",,,,,OSTK
+362,DM,2018-05-10 15:42:36,2018-05-09,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,3333,56098,+6%,+$0,,,,,OSTK
+363,D,2018-04-10 15:43:19,2018-04-07,OSTK,Goyal Amit,"SVP, Software Engineering",F - Tax,$35.85,-196,4150,-5%,"-$7,027",,,,,OSTK
+364,D,2018-04-10 15:43:19,2018-04-07,OSTK,Goyal Amit,"SVP, Software Engineering",M - OptEx,$0.00,667,4150,+19%,+$0,,,,,OSTK
+365,D,2018-04-10 15:42:00,2018-04-07,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$35.85,-734,52427,-1%,"-$26,314",,,,,OSTK
+366,D,2018-04-10 15:42:00,2018-04-07,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,2500,52427,+5%,+$0,,,,,OSTK
+367,D,2018-04-10 15:40:37,2018-04-07,OSTK,Johnson Jonathan E III,"Pres, Medici",F - Tax,$35.85,-734,39385,-2%,"-$26,314",,,,,OSTK
+368,D,2018-04-10 15:40:37,2018-04-07,OSTK,Johnson Jonathan E III,"Pres, Medici",M - OptEx,$0.00,2500,39385,+7%,+$0,,,,,OSTK
+369,D,2018-04-10 15:39:09,2018-04-07,OSTK,Lee Carter Paul,"SVP, Technology, People Care",F - Tax,$35.85,-734,12012,-6%,"-$26,314",,,,,OSTK
+370,D,2018-04-10 15:39:09,2018-04-07,OSTK,Lee Carter Paul,"SVP, Technology, People Care",M - OptEx,$0.00,2500,12012,+26%,+$0,,,,,OSTK
+371,D,2018-04-10 15:37:43,2018-04-07,OSTK,Moore Seth,"SVP, Analytics, Olabs",F - Tax,$35.85,-411,18820,-2%,"-$14,734",,,,,OSTK
+372,D,2018-04-10 15:37:43,2018-04-07,OSTK,Moore Seth,"SVP, Analytics, Olabs",M - OptEx,$0.00,1400,18820,+8%,+$0,,,,,OSTK
+373,D,2018-04-10 15:36:28,2018-04-07,OSTK,Noursalehi Sam,"Pres, Retail",F - Tax,$35.85,-734,26807,-3%,"-$26,314",,,,,OSTK
+374,D,2018-04-10 15:36:28,2018-04-07,OSTK,Noursalehi Sam,"Pres, Retail",M - OptEx,$0.00,2500,26807,+10%,+$0,,,,,OSTK
+375,D,2018-04-10 15:23:10,2018-04-07,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",F - Tax,$35.85,-734,23411,-3%,"-$26,314",,,,,OSTK
+376,D,2018-04-10 15:23:10,2018-04-07,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",M - OptEx,$0.00,2500,23411,+12%,+$0,,,,,OSTK
+377,D,2018-04-10 15:20:22,2018-04-07,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1167,40037,+3%,+$0,,,,,OSTK
+378,D,2018-04-10 15:19:39,2018-04-07,OSTK,Kalyanam Kirthi,Dir,M - OptEx,$0.00,1167,8949,+15%,+$0,,,,,OSTK
+379,D,2018-04-10 11:45:49,2018-04-07,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1167,52765,+2%,+$0,,,,,OSTK
+380,D,2018-04-10 11:42:30,2018-04-07,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1167,46599,+3%,+$0,,,,,OSTK
+381,D,2018-04-10 11:28:40,2018-04-07,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,3334,6502150,0%,+$0,,,,,OSTK
+382,D,2018-03-27 18:23:43,2018-03-24,OSTK,Johnson Jonathan E III,"Pres, Medici",F - Tax,$45.20,-1468,37619,-4%,"-$66,354",,,,,OSTK
+383,D,2018-03-27 18:23:43,2018-03-24,OSTK,Johnson Jonathan E III,"Pres, Medici",M - OptEx,$0.00,5000,37619,+15%,+$1,,,,,OSTK
+384,D,2018-03-27 16:33:46,2018-03-24,OSTK,Noursalehi Sam,"Pres, Retail",F - Tax,$45.20,-1957,25041,-7%,"-$88,456",,,,,OSTK
+385,D,2018-03-27 16:33:46,2018-03-24,OSTK,Noursalehi Sam,"Pres, Retail",M - OptEx,$0.00,6667,25041,+36%,+$1,,,,,OSTK
+386,D,2018-03-27 16:30:03,2018-03-24,OSTK,Moore Seth,"SVP, Analytics, Olabs",F - Tax,$45.20,-783,17789,-4%,"-$35,392",,,,,OSTK
+387,D,2018-03-27 16:30:03,2018-03-24,OSTK,Moore Seth,"SVP, Analytics, Olabs",M - OptEx,$0.00,2667,17789,+18%,+$0,,,,,OSTK
+388,D,2018-03-27 16:29:09,2018-03-24,OSTK,Lee Carter Paul,"SVP, Technology, People Care",F - Tax,$45.20,-1468,10246,-13%,"-$66,354",,,,,OSTK
+389,D,2018-03-27 16:29:09,2018-03-24,OSTK,Lee Carter Paul,"SVP, Technology, People Care",M - OptEx,$0.00,5000,10246,+95%,+$1,,,,,OSTK
+390,D,2018-03-27 16:28:22,2018-03-24,OSTK,Goyal Amit,"SVP, Software Engineering",F - Tax,$45.20,-587,3679,-14%,"-$26,532",,,,,OSTK
+391,D,2018-03-27 16:28:22,2018-03-24,OSTK,Goyal Amit,"SVP, Software Engineering",M - OptEx,$0.00,2000,3679,+119%,+$0,,,,,OSTK
+392,D,2018-03-27 16:27:33,2018-03-24,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1667,45432,+4%,+$0,,,,,OSTK
+393,D,2018-03-27 16:26:48,2018-03-24,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1667,38870,+4%,+$0,,,,,OSTK
+394,D,2018-03-27 16:26:03,2018-03-24,OSTK,Kalyanam Kirthi,Dir,M - OptEx,$0.00,1667,7782,+27%,+$0,,,,,OSTK
+395,D,2018-03-27 16:25:17,2018-03-24,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",F - Tax,$45.20,-1468,21645,-6%,"-$66,354",,,,,OSTK
+396,D,2018-03-27 16:25:17,2018-03-24,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",M - OptEx,$0.00,5000,21645,+30%,+$1,,,,,OSTK
+397,D,2018-03-27 16:24:31,2018-03-24,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$45.20,-1468,50661,-3%,"-$66,354",,,,,OSTK
+398,D,2018-03-27 16:24:31,2018-03-24,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,5000,50661,+11%,+$1,,,,,OSTK
+399,D,2018-03-27 11:43:47,2018-03-24,OSTK,Knab John Paul,"SVP, Marketing",F - Tax,$45.20,-1468,10985,-12%,"-$66,354",,,,,OSTK
+400,D,2018-03-27 11:43:47,2018-03-24,OSTK,Knab John Paul,"SVP, Marketing",M - OptEx,$0.00,5000,10985,+84%,+$1,,,,,OSTK
+401,D,2018-02-06 14:17:40,2018-02-02,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1666,51598,+3%,+$0,,,,,OSTK
+402,D,2018-02-06 14:16:21,2018-02-02,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1666,37203,+5%,+$0,,,,,OSTK
+403,D,2018-02-06 14:15:17,2018-02-02,OSTK,Kalyanam Kirthi,Dir,M - OptEx,$0.00,1666,6115,+37%,+$0,,,,,OSTK
+404,D,2018-02-06 14:13:57,2018-02-02,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1666,43765,+4%,+$0,,,,,OSTK
+405,D,2018-02-06 14:12:47,2018-02-02,OSTK,Goyal Amit,"SVP, Software Engineering",F - Tax,$56.00,-1067,2266,-32%,"-$59,752",,,,,OSTK
+406,D,2018-02-06 14:12:47,2018-02-02,OSTK,Goyal Amit,"SVP, Software Engineering",M - OptEx,$0.00,3333,2266,-312%,+$0,,,,,OSTK
+407,D,2018-02-06 14:11:37,2018-02-02,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$56.00,-1551,47129,-3%,"-$86,856",,,,,OSTK
+408,D,2018-02-06 14:11:37,2018-02-02,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,5000,47129,+12%,+$1,,,,,OSTK
+409,D,2018-02-06 14:10:19,2018-02-02,OSTK,Jwala Vidya Ranya,"SVP, Demand Fulfillment",F - Tax,$56.00,-1549,3451,-31%,"-$86,744",,,,,OSTK
+410,D,2018-02-06 14:10:19,2018-02-02,OSTK,Jwala Vidya Ranya,"SVP, Demand Fulfillment",M - OptEx,$0.00,5000,3451,-323%,+$1,,,,,OSTK
+411,D,2018-02-06 14:09:00,2018-02-02,OSTK,Lee Carter Paul,"SVP, Technology, People Care",F - Tax,$56.00,-1552,6714,-19%,"-$86,912",,,,,OSTK
+412,D,2018-02-06 14:09:00,2018-02-02,OSTK,Lee Carter Paul,"SVP, Technology, People Care",M - OptEx,$0.00,5000,6714,+292%,+$1,,,,,OSTK
+413,D,2018-02-06 14:07:06,2018-02-02,OSTK,Moore Seth,"SVP, Analytics, Olabs",F - Tax,$56.00,-1063,15806,-6%,"-$59,528",,,,,OSTK
+414,D,2018-02-06 14:07:06,2018-02-02,OSTK,Moore Seth,"SVP, Analytics, Olabs",M - OptEx,$0.00,3333,15806,+27%,+$0,,,,,OSTK
+415,D,2018-02-06 14:05:40,2018-02-02,OSTK,Noursalehi Sam,"Pres, Retail",F - Tax,$56.00,-3256,20331,-14%,"-$182,336",,,,,OSTK
+416,D,2018-02-06 14:05:40,2018-02-02,OSTK,Noursalehi Sam,"Pres, Retail",M - OptEx,$0.00,10833,20331,+114%,+$1,,,,,OSTK
+417,D,2018-02-06 14:04:07,2018-02-02,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",F - Tax,$56.00,-1067,18113,-6%,"-$59,752",,,,,OSTK
+418,D,2018-02-06 14:04:07,2018-02-02,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",M - OptEx,$0.00,3333,18113,+23%,+$0,,,,,OSTK
+419,AD,2018-02-06 11:50:58,2018-02-02,OSTK,Knab John Paul,"SVP, Marketing",F - Tax,$56.00,-1552,7453,-17%,"-$86,912",,,,,OSTK
+420,AD,2018-02-06 11:50:58,2018-02-02,OSTK,Knab John Paul,"SVP, Marketing",M - OptEx,$0.00,5000,7453,+204%,+$1,,,,,OSTK
+421,D,2018-02-06 11:23:05,2018-02-02,OSTK,Knab John Paul,"SVP, Marketing",F - Tax,$56.00,-1552,7453,-17%,"-$86,912",,,,,OSTK
+422,D,2018-02-06 11:23:05,2018-02-02,OSTK,Knab John Paul,"SVP, Marketing",M - OptEx,$0.00,5000,7453,+204%,+$1,,,,,OSTK
+423,D,2018-02-05 13:34:26,2018-02-02,OSTK,Johnson Jonathan E III,"Pres, Medici",F - Tax,$56.00,-1027,34087,-3%,"-$57,512",,,,,OSTK
+424,D,2018-02-05 13:34:26,2018-02-02,OSTK,Johnson Jonathan E III,"Pres, Medici",M - OptEx,$0.00,3333,34087,+11%,+$0,,,,,OSTK
+425,D,2018-02-05 13:34:26,2018-02-01,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale+OE,$66.10,-4000,34087,-11%,"-$264,400",,,,,OSTK
+426,D,2018-02-05 11:15:16,2018-02-02,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,6666,6498816,0%,+$1,,,,,OSTK
+427,,2018-01-03 10:48:00,2018-01-02,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$64.10,-4000,35781,-10%,"-$256,400",,,,,OSTK
+428,,2017-12-04 12:38:26,2017-11-30,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$47.28,-2000,4366,-31%,"-$94,560",,,,,OSTK
+429,,2017-12-04 11:46:10,2017-11-14,OSTK,Johnson Jonathan E III,"Pres, Medici",G - Gift,$0.00,-2000,39781,-5%,-$0,,,,,OSTK
+430,,2017-12-04 11:46:10,2017-12-01,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$48.75,-4000,39781,-9%,"-$195,000",,,,,OSTK
+431,,2017-11-14 15:59:14,2017-11-13,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$54.55,-3869,6367,-38%,"-$211,069",,,,,OSTK
+432,,2017-11-14 15:53:48,2017-11-10,OSTK,Raghavan Vikram,"SVP, Product Dev.",S - Sale,$52.00,-624,0,-100%,"-$32,448",,,,,OSTK
+433,,2017-11-14 15:49:56,2017-11-13,OSTK,Jwala Vidya Ranya,"SVP, Demand Fulfillment",S - Sale,$55.96,-3382,0,-100%,"-$189,270",,,,,OSTK
+434,,2017-11-14 15:26:04,2017-11-13,OSTK,Goyal Amit,"SVP, Software Engineering",S - Sale,$55.49,-2762,0,-100%,"-$153,263",,,,,OSTK
+435,,2017-11-14 13:51:03,2017-11-10,OSTK,Noursalehi Sam,"Pres, Retail",S - Sale,$51.25,-5000,12755,-28%,"-$256,255",,,,,OSTK
+436,,2017-11-14 12:41:50,2017-11-10,OSTK,Tabacco Joseph J Jr,Dir,S - Sale,$51.95,-2000,42099,-5%,"-$103,900",,,,,OSTK
+437,,2017-11-02 11:03:28,2017-11-01,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$46.80,-4000,45782,-8%,"-$187,200",,,,,OSTK
+438,D,2017-10-27 11:13:03,2017-10-26,OSTK,Jwala Vidya Ranya,"SVP, Demand Fulfillment",F - Tax,$46.05,-1618,3382,-32%,"-$74,509",,,,,OSTK
+439,D,2017-10-27 11:13:03,2017-10-26,OSTK,Jwala Vidya Ranya,"SVP, Demand Fulfillment",M - OptEx,$0.00,5000,3382,-309%,+$1,,,,,OSTK
+440,,2017-10-02 16:47:52,2017-10-02,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$30.10,-4000,49782,-7%,"-$120,400",,,,,OSTK
+441,,2017-09-14 12:35:01,2017-09-13,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$25.00,-17500,53782,-25%,"-$437,511",,,,,OSTK
+442,,2017-09-01 17:27:42,2017-09-01,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$22.10,-1500,71282,-2%,"-$33,150",,,,,OSTK
+443,,2017-08-14 11:15:32,2017-08-11,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$20.00,-6000,72782,-8%,"-$120,000",,,,,OSTK
+444,,2017-08-10 13:32:20,2017-08-09,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$18.51,-2000,10236,-16%,"-$37,015",,,,,OSTK
+445,,2017-08-07 12:25:27,2017-08-04,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$17.00,-500,78782,-1%,"-$8,500",,,,,OSTK
+446,,2017-07-20 16:33:51,2017-07-18,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$17.00,-1000,79282,-1%,"-$17,000",,,,,OSTK
+447,,2017-05-31 14:46:15,2017-05-26,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",S - Sale,$14.35,-3500,15848,-18%,"-$50,229",,,,,OSTK
+448,D,2017-05-11 17:09:06,2017-05-10,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1666,49932,+3%,+$0,-1.0,,,,OSTK
+449,,2017-05-02 12:03:05,2017-05-01,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$17.40,-500,80283,-1%,"-$8,700",-1.0,-13.0,,,OSTK
+450,D,2017-04-11 17:36:12,2017-04-07,OSTK,Moore Seth,"SVP, Analytics, Olabs",F - Tax,$17.40,-441,14242,-3%,"-$7,673",-2.0,-3.0,-14.0,,OSTK
+451,D,2017-04-11 17:36:12,2017-04-07,OSTK,Moore Seth,"SVP, Analytics, Olabs",M - OptEx,$0.00,1400,14242,+11%,+$0,-2.0,-3.0,-14.0,,OSTK
+452,D,2017-04-11 17:35:32,2017-04-07,OSTK,Noursalehi Sam,"Pres, Retail",F - Tax,$17.40,-809,17756,-4%,"-$14,077",-2.0,-3.0,-14.0,,OSTK
+453,D,2017-04-11 17:35:32,2017-04-07,OSTK,Noursalehi Sam,"Pres, Retail",M - OptEx,$0.00,2500,17756,+16%,+$0,-2.0,-3.0,-14.0,,OSTK
+454,D,2017-04-11 17:34:47,2017-04-07,OSTK,Johnson Jonathan E III,"Pres, Medici",F - Tax,$17.40,-809,80783,-1%,"-$14,077",-2.0,-3.0,-14.0,,OSTK
+455,D,2017-04-11 17:34:47,2017-04-07,OSTK,Johnson Jonathan E III,"Pres, Medici",M - OptEx,$0.00,2500,80783,+3%,+$0,-2.0,-3.0,-14.0,,OSTK
+456,D,2017-04-11 17:34:10,2017-04-07,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$17.40,-809,43680,-2%,"-$14,077",-2.0,-3.0,-14.0,,OSTK
+457,D,2017-04-11 17:34:10,2017-04-07,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,2500,43680,+6%,+$0,-2.0,-3.0,-14.0,,OSTK
+458,D,2017-04-11 17:33:30,2017-04-07,OSTK,Goyal Amit,"SVP, Software Engineering",F - Tax,$17.40,-252,2762,-8%,"-$4,385",-2.0,-3.0,-14.0,,OSTK
+459,D,2017-04-11 17:33:30,2017-04-07,OSTK,Goyal Amit,"SVP, Software Engineering",M - OptEx,$0.00,667,2762,+32%,+$0,-2.0,-3.0,-14.0,,OSTK
+460,D,2017-04-11 17:33:15,2017-04-07,OSTK,Lee Carter Paul,"SVP, Technology, People Care",F - Tax,$17.40,-804,12237,-6%,"-$13,990",-2.0,-3.0,-14.0,,OSTK
+461,D,2017-04-11 17:33:15,2017-04-07,OSTK,Lee Carter Paul,"SVP, Technology, People Care",M - OptEx,$0.00,2500,12237,+26%,+$0,-2.0,-3.0,-14.0,,OSTK
+462,D,2017-04-11 17:33:00,2017-04-07,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",F - Tax,$17.40,-809,19348,-4%,"-$14,077",-2.0,-3.0,-14.0,,OSTK
+463,D,2017-04-11 17:33:00,2017-04-07,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",M - OptEx,$0.00,2500,19348,+15%,+$0,-2.0,-3.0,-14.0,,OSTK
+464,D,2017-04-11 17:32:12,2017-04-07,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1167,44099,+3%,+$0,-2.0,-3.0,-14.0,,OSTK
+465,D,2017-04-11 17:31:57,2017-04-07,OSTK,Kalyanam Kirthi,Dir,M - OptEx,$0.00,1167,4449,+36%,+$0,-2.0,-3.0,-14.0,,OSTK
+466,D,2017-04-11 17:31:34,2017-04-07,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1167,35537,+3%,+$0,-2.0,-3.0,-14.0,,OSTK
+467,D,2017-04-11 17:31:18,2017-04-07,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1167,48266,+2%,+$0,-2.0,-3.0,-14.0,,OSTK
+468,D,2017-04-11 17:31:01,2017-04-07,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,3333,6492150,0%,+$0,-2.0,-3.0,-14.0,,OSTK
+469,,2017-04-04 13:04:31,2017-04-03,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale,$17.15,-500,79092,-1%,"-$8,575",2.0,3.0,-1.0,,OSTK
+470,D,2017-03-28 16:49:45,2017-03-24,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1666,42932,+4%,+$0,-1.0,1.0,3.0,,OSTK
+471,D,2017-03-28 16:45:21,2017-03-24,OSTK,Kalyanam Kirthi,Dir,M - OptEx,$0.00,1666,3282,+103%,+$0,-1.0,1.0,3.0,,OSTK
+472,D,2017-03-28 16:44:10,2017-03-24,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1666,34370,+5%,+$0,-1.0,1.0,3.0,,OSTK
+473,D,2017-03-28 16:21:19,2017-03-24,OSTK,Raghavan Vikram,"Former SVP, Product Dev.",F - Tax,$17.00,-753,1247,-38%,"-$12,801",-1.0,1.0,3.0,,OSTK
+474,D,2017-03-28 16:21:19,2017-03-24,OSTK,Raghavan Vikram,"Former SVP, Product Dev.",M - OptEx,$0.00,2000,1247,-266%,+$0,-1.0,1.0,3.0,,OSTK
+475,D,2017-03-28 16:20:31,2017-03-24,OSTK,Knab John Paul,"SVP, Digital Marketing",F - Tax,$17.00,-1791,4006,-31%,"-$30,447",-1.0,1.0,3.0,,OSTK
+476,D,2017-03-28 16:20:31,2017-03-24,OSTK,Knab John Paul,"SVP, Digital Marketing",M - OptEx,$0.00,5000,4006,-503%,+$1,-1.0,1.0,3.0,,OSTK
+477,D,2017-03-28 16:18:34,2017-03-24,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",F - Tax,$17.00,-1632,17657,-8%,"-$27,744",-1.0,1.0,3.0,,OSTK
+478,D,2017-03-28 16:18:34,2017-03-24,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",M - OptEx,$0.00,5000,17657,+40%,+$1,-1.0,1.0,3.0,,OSTK
+479,D,2017-03-28 16:16:46,2017-03-24,OSTK,Noursalehi Sam,"Pres, Retail",F - Tax,$17.00,-2122,16065,-12%,"-$36,074",-1.0,1.0,3.0,,OSTK
+480,D,2017-03-28 16:16:46,2017-03-24,OSTK,Noursalehi Sam,"Pres, Retail",M - OptEx,$0.00,6666,16065,+71%,+$1,-1.0,1.0,3.0,,OSTK
+481,D,2017-03-28 16:15:47,2017-03-24,OSTK,Moore Seth,"SVP, Analytics, Olabs",F - Tax,$17.00,-1004,13204,-7%,"-$17,068",-1.0,1.0,3.0,,OSTK
+482,D,2017-03-28 16:15:47,2017-03-24,OSTK,Moore Seth,"SVP, Analytics, Olabs",M - OptEx,$0.00,2666,13204,+25%,+$0,-1.0,1.0,3.0,,OSTK
+483,D,2017-03-28 16:14:55,2017-03-24,OSTK,Lee Carter Paul,"SVP, Technology, People Care",F - Tax,$17.00,-1699,10541,-14%,"-$28,883",-1.0,1.0,3.0,,OSTK
+484,D,2017-03-28 16:14:55,2017-03-24,OSTK,Lee Carter Paul,"SVP, Technology, People Care",M - OptEx,$0.00,5000,10541,+90%,+$1,-1.0,1.0,3.0,,OSTK
+485,D,2017-03-28 16:13:27,2017-03-24,OSTK,Goyal Amit,"SVP, Software Engineering",F - Tax,$17.00,-753,2347,-24%,"-$12,801",-1.0,1.0,3.0,,OSTK
+486,D,2017-03-28 16:13:27,2017-03-24,OSTK,Goyal Amit,"SVP, Software Engineering",M - OptEx,$0.00,2000,2347,+576%,+$0,-1.0,1.0,3.0,,OSTK
+487,D,2017-03-28 16:09:49,2017-03-24,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$17.00,-1629,41989,-4%,"-$27,693",-1.0,1.0,3.0,,OSTK
+488,D,2017-03-28 16:09:49,2017-03-24,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,5000,41989,+14%,+$1,-1.0,1.0,3.0,,OSTK
+489,D,2017-03-28 16:06:28,2017-03-24,OSTK,Johnson Jonathan E III,"Pres, Medici",F - Tax,$17.00,-1581,79592,-2%,"-$26,877",-1.0,1.0,3.0,,OSTK
+490,D,2017-03-28 16:06:28,2017-03-24,OSTK,Johnson Jonathan E III,"Pres, Medici",M - OptEx,$0.00,5000,79592,+7%,+$1,-1.0,1.0,3.0,,OSTK
+491,D,2017-03-28 16:06:28,2017-03-27,OSTK,Johnson Jonathan E III,"Pres, Medici",S - Sale+OE,$17.00,-500,79592,-1%,"-$8,500",-1.0,1.0,3.0,,OSTK
+492,,2017-02-23 10:03:58,2017-02-22,OSTK,Tabacco Joseph J Jr,Dir,S - Sale,$18.26,-20000,41266,-33%,"-$365,260",-1.0,1.0,-7.0,,OSTK
+493,,2017-02-16 10:21:19,2017-02-15,OSTK,Noursalehi Sam,"Pres, Retail",S - Sale,$18.37,-3000,10073,-23%,"-$55,117",1.0,-2.0,-2.0,,OSTK
+494,,2017-02-16 10:20:39,2017-02-15,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$18.41,-1000,5961,-14%,"-$18,408",1.0,-2.0,-2.0,,OSTK
+495,,2017-02-16 10:19:59,2017-02-14,OSTK,Johnson Jonathan E III,"Pres, Medici",G - Gift,$0.00,-2000,74982,-3%,-$0,1.0,-2.0,-2.0,,OSTK
+496,,2017-02-13 12:18:24,2017-02-10,OSTK,Lee Carter Paul,"SVP, Technology, People Care",S - Sale,$17.75,-1000,6961,-13%,"-$17,750",1.0,4.0,-3.0,,OSTK
+497,,2017-02-07 17:37:04,2017-02-03,OSTK,Byrne Patrick Michael,"CEO, 10%",G - Gift,$0.00,116442,6488817,+2%,+$0,1.0,6.0,3.0,,OSTK
+498,M,2017-02-06 17:13:21,2017-02-02,OSTK,Fairfax Financial Holdings Ltd/ Can,10%,S - Sale,$16.02,-2487164,0,-100%,"-$39,834,542",6.0,10.0,10.0,,OSTK
+499,,2017-02-02 16:33:57,2017-02-01,OSTK,Fairfax Financial Holdings Ltd/ Can,10%,S - Sale,$18.09,-93284,2487164,-4%,"-$1,687,508",-1.0,2.0,6.0,,OSTK
+500,M,2017-01-31 14:20:57,2013-05-09,OSTK,Fairfax Financial Holdings Ltd/ Can,10%,S - Sale,$18.84,-808326,2580448,-24%,"-$15,229,000",0.0,-3.0,11.0,,OSTK
+501,D,2017-01-31 12:56:10,2017-01-28,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",F - Tax,$17.05,-942,14290,-6%,"-$16,061",0.0,-3.0,11.0,,OSTK
+502,D,2017-01-31 12:56:10,2017-01-28,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",M - OptEx,$0.00,2500,14290,+21%,+$0,0.0,-3.0,11.0,,OSTK
+503,D,2017-01-31 12:55:01,2017-01-28,OSTK,Noursalehi Sam,"Pres, Retail",F - Tax,$17.05,-942,14522,-6%,"-$16,061",0.0,-3.0,11.0,,OSTK
+504,D,2017-01-31 12:55:01,2017-01-28,OSTK,Noursalehi Sam,"Pres, Retail",M - OptEx,$0.00,2500,14522,+21%,+$0,0.0,-3.0,11.0,,OSTK
+505,D,2017-01-31 12:53:51,2017-01-28,OSTK,Lee Carter Paul,"SVP, Technology, People Care",F - Tax,$17.05,-528,9241,-5%,"-$9,002",0.0,-3.0,11.0,,OSTK
+506,D,2017-01-31 12:53:51,2017-01-28,OSTK,Lee Carter Paul,"SVP, Technology, People Care",M - OptEx,$0.00,1400,9241,+18%,+$1,0.0,-3.0,11.0,,OSTK
+507,D,2017-01-31 12:53:00,2017-01-28,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$17.05,-942,38619,-2%,"-$16,061",0.0,-3.0,11.0,,OSTK
+508,D,2017-01-31 12:53:00,2017-01-28,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,2500,38619,+7%,+$0,0.0,-3.0,11.0,,OSTK
+509,D,2017-01-31 12:51:50,2017-01-28,OSTK,Johnson Jonathan E III,"Pres, Medici",F - Tax,$17.05,-1130,78674,-1%,"-$19,267",0.0,-3.0,11.0,,OSTK
+510,D,2017-01-31 12:51:50,2017-01-28,OSTK,Johnson Jonathan E III,"Pres, Medici",M - OptEx,$0.00,3000,78674,+4%,+$0,0.0,-3.0,11.0,,OSTK
+511,D,2017-01-31 12:51:01,2017-01-28,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,3000,6372375,0%,+$0,0.0,-3.0,11.0,,OSTK
+512,D,2017-01-31 12:50:31,2017-01-28,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1167,61266,+2%,+$0,0.0,-3.0,11.0,,OSTK
+513,D,2017-01-31 12:49:58,2017-01-28,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,1167,37101,+3%,+$0,0.0,-3.0,11.0,,OSTK
+514,D,2017-01-31 12:48:47,2017-01-28,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1167,32704,+4%,+$0,0.0,-3.0,11.0,,OSTK
+515,D,2017-01-31 12:47:50,2017-01-28,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1167,32704,+4%,+$0,0.0,-3.0,11.0,,OSTK
+516,D,2017-01-31 12:46:07,2017-01-28,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1167,47099,+3%,+$0,0.0,-3.0,11.0,,OSTK
+517,,2016-12-29 14:31:14,2016-12-27,OSTK,Lee Carter Paul,"SVP, Technology",G - Gift,$0.00,-2000,8369,-19%,-$0,0.0,0.0,-5.0,,OSTK
+518,D,2016-12-06 18:45:28,2016-12-02,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$15.68,200,200,New,"+$3,136",-2.0,-3.0,1.0,,OSTK
+519,D,2016-12-06 18:44:51,2016-12-02,OSTK,Johnson Jonathan E III,COB,M - OptEx,$15.68,200,200,New,"+$3,136",-2.0,-3.0,1.0,,OSTK
+520,D,2016-12-06 18:44:12,2016-12-02,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$15.68,63775,63775,New,"+$999,992",-2.0,-3.0,1.0,,OSTK
+521,,2016-11-21 15:59:03,2016-11-18,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",S - Sale,$17.62,-1500,11565,-11%,"-$26,437",0.0,0.0,8.0,,OSTK
+522,,2016-11-15 13:37:33,2016-11-11,OSTK,Malaszenko Natalie,"SVP, Marketing",S - Sale,$17.25,-559,100,-85%,"-$9,642",0.0,3.0,3.0,,OSTK
+523,D,2016-11-01 12:16:36,2016-10-28,OSTK,Malaszenko Natalie,"SVP, Marketing",F - Tax,$14.80,-316,659,-32%,"-$4,677",-5.0,10.0,16.0,16.0,OSTK
+524,D,2016-11-01 12:16:36,2016-10-28,OSTK,Malaszenko Natalie,"SVP, Marketing",M - OptEx,$0.00,975,659,-309%,+$0,-5.0,10.0,16.0,16.0,OSTK
+525,D,2016-10-04 11:20:19,2016-09-30,OSTK,Simon Stormy,Dir,F - Tax,$15.32,-6393,162472,-4%,"-$97,941",1.0,-3.0,-11.0,13.0,OSTK
+526,D,2016-10-04 11:20:19,2016-09-30,OSTK,Simon Stormy,Dir,M - OptEx,$0.00,19759,162472,+14%,+$2,1.0,-3.0,-11.0,13.0,OSTK
+527,,2016-09-07 15:20:00,2016-09-02,OSTK,Lee Carter Paul,"SVP, Technology",S - Sale,$15.32,-2987,9089,-25%,"-$45,767",1.0,-5.0,2.0,14.0,OSTK
+528,,2016-08-30 10:52:34,2016-08-26,OSTK,Johnson Jonathan E III,Dir,G - Gift,$0.00,-100,75112,0%,-$0,1.0,-1.0,0.0,18.0,OSTK
+529,,2016-08-30 10:52:34,2016-08-26,OSTK,Johnson Jonathan E III,Dir,S - Sale,$15.55,-285,75112,0%,"-$4,432",1.0,-1.0,0.0,18.0,OSTK
+530,,2016-08-15 11:42:52,2016-08-12,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",S - Sale,$16.00,-3500,13065,-21%,"-$56,000",1.0,-3.0,-9.0,12.0,OSTK
+531,D,2016-07-26 14:22:52,2016-07-24,OSTK,Wilkins Alec Steven,"SVP, Chief Architect",F - Tax,$0.00,-243,4445,-5%,-$0,0.0,-2.0,-7.0,-2.0,OSTK
+532,D,2016-07-26 14:22:52,2016-07-24,OSTK,Wilkins Alec Steven,"SVP, Chief Architect",M - OptEx,$0.00,750,4445,+20%,+$0,0.0,-2.0,-7.0,-2.0,OSTK
+533,,2016-07-19 16:40:59,2016-07-15,OSTK,Simon Stormy,Pres,P - Purchase,$16.96,70000,147417,+90%,"+$1,187,200",2.0,1.0,-5.0,2.0,OSTK
+534,,2016-07-19 16:40:11,2016-07-15,OSTK,Byrne Patrick Michael,"CEO, 10%",S - Sale,$16.96,-70000,6369375,-1%,"-$1,187,200",2.0,1.0,-5.0,2.0,OSTK
+535,,2016-06-14 16:42:07,2016-06-13,OSTK,Mitchell Samuel Appleton,Dir,S - Sale,$17.19,-2801,35934,-7%,"-$48,149",0.0,3.0,3.0,2.0,OSTK
+536,D,2016-05-10 18:29:09,2016-05-08,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,2250,60099,+4%,+$0,-1.0,1.0,16.0,3.0,OSTK
+537,D,2016-05-10 18:28:38,2016-05-08,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,2250,38735,+6%,+$0,-1.0,1.0,16.0,3.0,OSTK
+538,D,2016-05-10 18:27:15,2016-05-08,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,2250,31537,+8%,+$0,-1.0,1.0,16.0,3.0,OSTK
+539,D,2016-05-10 18:23:55,2016-05-08,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,2250,45932,+5%,+$0,-1.0,1.0,16.0,3.0,OSTK
+540,D,2016-04-11 18:46:08,2016-04-07,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1166,57849,+2%,+$0,2.0,6.0,3.0,5.0,OSTK
+541,D,2016-04-11 18:45:05,2016-04-07,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,1166,36485,+3%,+$0,2.0,6.0,3.0,5.0,OSTK
+542,D,2016-04-11 18:44:40,2016-04-07,OSTK,Kalyanam Kirthi,Dir,M - OptEx,$0.00,1166,1616,+259%,+$0,2.0,6.0,3.0,5.0,OSTK
+543,D,2016-04-11 18:43:42,2016-04-07,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1166,29287,+4%,+$0,2.0,6.0,3.0,5.0,OSTK
+544,D,2016-04-11 18:41:41,2016-04-07,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1166,43682,+3%,+$0,2.0,6.0,3.0,5.0,OSTK
+545,D,2016-04-11 18:39:45,2016-04-07,OSTK,Wilkins Alec Steven,"SVP, Chief Architect",F - Tax,$0.00,-615,3938,-14%,-$0,2.0,6.0,3.0,5.0,OSTK
+546,D,2016-04-11 18:39:45,2016-04-07,OSTK,Wilkins Alec Steven,"SVP, Chief Architect",M - OptEx,$0.00,1667,3938,+73%,+$0,2.0,6.0,3.0,5.0,OSTK
+547,D,2016-04-11 18:38:13,2016-04-07,OSTK,Simon Stormy,Pres,F - Tax,$0.00,-2157,79106,-3%,-$0,2.0,6.0,3.0,5.0,OSTK
+548,D,2016-04-11 18:38:13,2016-04-07,OSTK,Simon Stormy,Pres,M - OptEx,$0.00,6666,79106,+9%,+$1,2.0,6.0,3.0,5.0,OSTK
+549,D,2016-04-11 18:35:47,2016-04-07,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",F - Tax,$0.00,-787,17733,-4%,-$0,2.0,6.0,3.0,5.0,OSTK
+550,D,2016-04-11 18:35:47,2016-04-07,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",M - OptEx,$0.00,2500,17733,+16%,+$0,2.0,6.0,3.0,5.0,OSTK
+551,D,2016-04-11 18:35:18,2016-04-07,OSTK,Noursalehi Sam,"SVP, Product Development",F - Tax,$0.00,-787,12964,-6%,-$0,2.0,6.0,3.0,5.0,OSTK
+552,D,2016-04-11 18:35:18,2016-04-07,OSTK,Noursalehi Sam,"SVP, Product Development",M - OptEx,$0.00,2500,12964,+24%,+$0,2.0,6.0,3.0,5.0,OSTK
+553,D,2016-04-11 18:34:50,2016-04-07,OSTK,Lee Carter Paul,"SVP, Technology",F - Tax,$0.00,-787,13356,-6%,-$0,2.0,6.0,3.0,5.0,OSTK
+554,D,2016-04-11 18:34:50,2016-04-07,OSTK,Lee Carter Paul,"SVP, Technology",M - OptEx,$0.00,2500,13356,+23%,+$0,2.0,6.0,3.0,5.0,OSTK
+555,D,2016-04-11 18:34:25,2016-04-07,OSTK,Johnson Jonathan E III,Dir,F - Tax,$0.00,-809,76904,-1%,-$0,2.0,6.0,3.0,5.0,OSTK
+556,D,2016-04-11 18:34:25,2016-04-07,OSTK,Johnson Jonathan E III,Dir,M - OptEx,$0.00,2500,76904,+3%,+$0,2.0,6.0,3.0,5.0,OSTK
+557,D,2016-04-11 18:34:00,2016-04-07,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-787,37061,-2%,-$0,2.0,6.0,3.0,5.0,OSTK
+558,D,2016-04-11 18:34:00,2016-04-07,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,2500,37061,+7%,+$0,2.0,6.0,3.0,5.0,OSTK
+559,D,2016-04-11 18:33:23,2016-04-07,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,3333,6439375,0%,+$0,2.0,6.0,3.0,5.0,OSTK
+560,,2016-02-22 13:01:11,2016-02-18,OSTK,Tabacco Joseph J Jr,Dir,P - Purchase,$14.45,15000,56683,+36%,"+$216,750",2.0,2.0,5.0,10.0,OSTK
+561,D,2016-02-01 13:58:25,2016-01-28,OSTK,Wilkins Alec Steven,"SVP, Chief Architect",F - Tax,$0.00,-528,2886,-15%,-$0,-4.0,-9.0,29.0,37.0,OSTK
+562,D,2016-02-01 13:58:25,2016-01-28,OSTK,Wilkins Alec Steven,"SVP, Chief Architect",M - OptEx,$0.00,1400,2886,+94%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+563,D,2016-02-01 13:46:27,2016-01-28,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",F - Tax,$0.00,-942,16020,-6%,-$0,-4.0,-9.0,29.0,37.0,OSTK
+564,D,2016-02-01 13:46:27,2016-01-28,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",M - OptEx,$0.00,2500,16020,+18%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+565,D,2016-02-01 13:45:22,2016-01-28,OSTK,Noursalehi Sam,"SVP, Product Development",F - Tax,$0.00,-942,11251,-8%,-$0,-4.0,-9.0,29.0,37.0,OSTK
+566,D,2016-02-01 13:45:22,2016-01-28,OSTK,Noursalehi Sam,"SVP, Product Development",M - OptEx,$0.00,2500,11251,+29%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+567,D,2016-02-01 13:44:21,2016-01-28,OSTK,Lee Carter Paul,"SVP, Technology",F - Tax,$0.00,-528,11643,-4%,-$1,-4.0,-9.0,29.0,37.0,OSTK
+568,D,2016-02-01 13:44:21,2016-01-28,OSTK,Lee Carter Paul,"SVP, Technology",M - OptEx,$0.00,1400,11643,+14%,+$1,-4.0,-9.0,29.0,37.0,OSTK
+569,D,2016-02-01 13:40:42,2016-01-28,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-942,35348,-3%,-$0,-4.0,-9.0,29.0,37.0,OSTK
+570,D,2016-02-01 13:40:42,2016-01-28,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,2500,35348,+8%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+571,D,2016-02-01 13:16:52,2016-01-28,OSTK,Simon Stormy,Pres,F - Tax,$0.00,-1130,74597,-1%,-$0,-4.0,-9.0,29.0,37.0,OSTK
+572,D,2016-02-01 13:16:52,2016-01-28,OSTK,Simon Stormy,Pres,M - OptEx,$0.00,3000,74597,+4%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+573,D,2016-02-01 13:15:42,2016-01-28,OSTK,Johnson Jonathan E III,Dir,F - Tax,$0.00,-1130,75213,-1%,-$0,-4.0,-9.0,29.0,37.0,OSTK
+574,D,2016-02-01 13:15:42,2016-01-28,OSTK,Johnson Jonathan E III,Dir,M - OptEx,$0.00,3000,75213,+4%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+575,D,2016-02-01 13:14:22,2016-01-28,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,3000,6436042,0%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+576,D,2016-02-01 13:13:44,2016-01-28,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1167,41683,+3%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+577,D,2016-02-01 13:12:17,2016-01-28,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,1167,35319,+3%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+578,D,2016-02-01 13:11:02,2016-01-28,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1167,28121,+4%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+579,D,2016-02-01 13:10:19,2016-01-28,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1167,42516,+3%,+$0,-4.0,-9.0,29.0,37.0,OSTK
+580,D,2016-01-19 15:19:46,2016-01-14,OSTK,Simon Stormy,Pres,F - Tax,$0.00,-1695,72727,-2%,-$0,-2.0,2.0,34.0,57.0,OSTK
+581,D,2016-01-19 15:19:46,2016-01-14,OSTK,Simon Stormy,Pres,M - OptEx,$0.00,4500,72727,+7%,+$0,-2.0,2.0,34.0,57.0,OSTK
+582,D,2016-01-19 15:19:13,2016-01-14,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",F - Tax,$0.00,-848,14462,-6%,-$0,-2.0,2.0,34.0,57.0,OSTK
+583,D,2016-01-19 15:19:13,2016-01-14,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",M - OptEx,$0.00,2250,14462,+18%,+$0,-2.0,2.0,34.0,57.0,OSTK
+584,D,2016-01-19 15:18:44,2016-01-14,OSTK,Noursalehi Sam,"SVP, Marketing",F - Tax,$0.00,-848,9693,-8%,-$0,-2.0,2.0,34.0,57.0,OSTK
+585,D,2016-01-19 15:18:44,2016-01-14,OSTK,Noursalehi Sam,"SVP, Marketing",M - OptEx,$0.00,2250,9693,+30%,+$0,-2.0,2.0,34.0,57.0,OSTK
+586,D,2016-01-19 15:18:12,2016-01-14,OSTK,Lee Carter Paul,"SVP, Technology",F - Tax,$0.00,-848,10771,-7%,-$1,-2.0,2.0,34.0,57.0,OSTK
+587,D,2016-01-19 15:18:12,2016-01-14,OSTK,Lee Carter Paul,"SVP, Technology",M - OptEx,$0.00,2250,10771,+26%,+$2,-2.0,2.0,34.0,57.0,OSTK
+588,D,2016-01-19 15:17:08,2016-01-14,OSTK,Johnson Jonathan E III,Dir,F - Tax,$0.00,-1977,73343,-3%,-$0,-2.0,2.0,34.0,57.0,OSTK
+589,D,2016-01-19 15:17:08,2016-01-14,OSTK,Johnson Jonathan E III,Dir,M - OptEx,$0.00,5250,73343,+8%,+$1,-2.0,2.0,34.0,57.0,OSTK
+590,D,2016-01-19 15:16:28,2016-01-14,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-848,33790,-2%,-$0,-2.0,2.0,34.0,57.0,OSTK
+591,D,2016-01-19 15:16:28,2016-01-14,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,2250,33790,+7%,+$0,-2.0,2.0,34.0,57.0,OSTK
+592,D,2016-01-19 15:15:21,2016-01-14,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,5250,6433042,0%,+$1,-2.0,2.0,34.0,57.0,OSTK
+593,,2015-11-16 12:55:19,2015-11-12,OSTK,Lee Carter Paul,"SVP, Technology",S - Sale,$13.98,-2642,9369,-22%,"-$36,927",-3.0,-6.0,-6.0,12.0,OSTK
+594,,2015-06-15 18:03:44,2015-06-12,OSTK,Noursalehi Sam,"SVP, Product Development",S - Sale,$21.64,-2548,6842,-27%,"-$55,139",-1.0,0.0,5.0,-39.0,OSTK
+595,,2015-06-08 18:49:59,2015-06-05,OSTK,Marks Seth,"SVP,Merch., Strategic Sourcing",S - Sale,$21.77,-1334,0,-100%,"-$29,041",-2.0,-4.0,-4.0,-44.0,OSTK
+596,,2015-06-02 12:27:35,2015-06-01,OSTK,Marks Seth,"SVP,Merch., Strategic Sourcing",S - Sale,$21.59,-1000,1334,-43%,"-$21,587",1.0,4.0,4.0,-37.0,OSTK
+597,,2015-06-02 12:25:05,2015-05-29,OSTK,Simon Stormy,Pres,S - Sale,$21.50,-7000,68233,-9%,"-$150,493",1.0,4.0,4.0,-37.0,OSTK
+598,D,2015-05-12 10:32:45,2015-05-08,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,2250,40516,+6%,+$0,0.0,3.0,0.0,-20.0,OSTK
+599,D,2015-05-12 10:31:15,2015-05-08,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,2250,34152,+7%,+$0,0.0,3.0,0.0,-20.0,OSTK
+600,D,2015-05-12 10:31:15,2015-05-11,OSTK,Mitchell Samuel Appleton,Dir,S - Sale+OE,$22.39,-742,34152,-2%,"-$16,610",0.0,3.0,0.0,-20.0,OSTK
+601,D,2015-05-12 10:30:42,2015-05-08,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,2250,26954,+9%,+$0,0.0,3.0,0.0,-20.0,OSTK
+602,D,2015-05-12 10:30:42,2015-05-11,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$22.39,-1012,26954,-4%,"-$22,655",0.0,3.0,0.0,-20.0,OSTK
+603,D,2015-05-12 10:30:00,2015-05-08,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,2250,41349,+6%,+$0,0.0,3.0,0.0,-20.0,OSTK
+604,D,2015-05-12 10:30:00,2015-05-11,OSTK,Abraham Allison H,Dir,S - Sale+OE,$22.39,-900,41349,-2%,"-$20,147",0.0,3.0,0.0,-20.0,OSTK
+605,DM,2015-05-08 17:56:51,2015-05-06,OSTK,Marks Seth,"SVP, Merchandising",F - Tax,$0.00,-386,2334,-14%,-$0,1.0,-1.0,3.0,-24.0,OSTK
+606,DM,2015-05-08 17:56:51,2015-05-06,OSTK,Marks Seth,"SVP, Merchandising",M - OptEx,$0.00,1225,2334,+110%,+$0,1.0,-1.0,3.0,-24.0,OSTK
+607,D,2015-05-04 20:14:04,2015-05-03,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,8750,38266,+30%,+$1,-1.0,5.0,5.0,-24.0,OSTK
+608,D,2015-05-04 20:13:22,2015-05-03,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,8750,32644,+37%,+$1,-1.0,5.0,5.0,-24.0,OSTK
+609,D,2015-05-04 20:13:22,2015-05-04,OSTK,Mitchell Samuel Appleton,Dir,S - Sale+OE,$21.19,-2887,32644,-8%,"-$61,161",-1.0,5.0,5.0,-24.0,OSTK
+610,D,2015-05-04 20:12:21,2015-05-03,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,8750,25716,+52%,+$1,-1.0,5.0,5.0,-24.0,OSTK
+611,D,2015-05-04 20:12:21,2015-05-04,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$21.19,-3937,25716,-13%,"-$83,405",-1.0,5.0,5.0,-24.0,OSTK
+612,D,2015-05-04 20:10:52,2015-05-03,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,8750,39999,+28%,+$1,-1.0,5.0,5.0,-24.0,OSTK
+613,D,2015-05-04 20:10:52,2015-05-04,OSTK,Abraham Allison H,Dir,S - Sale+OE,$21.19,-3500,39999,-8%,"-$74,148",-1.0,5.0,5.0,-24.0,OSTK
+614,AM,2015-05-04 20:09:10,2014-05-03,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,8375,27550,+44%,+$1,-1.0,5.0,5.0,-24.0,OSTK
+615,D,2015-04-09 17:46:53,2015-04-08,OSTK,Johnson Jonathan E III,Officer,S - Sale+OE,$25.00,-2000,68378,-3%,"-$50,000",-2.0,-1.0,-14.0,-32.0,OSTK
+616,,2015-03-16 17:58:31,2015-03-13,OSTK,Lee Carter Paul,"SVP, Technology",S - Sale,$23.45,-3000,10731,-22%,"-$70,347",-1.0,-3.0,2.0,-19.0,OSTK
+617,,2015-03-16 15:50:43,2015-03-12,OSTK,Johnson Jonathan E III,Dir,S - Sale,$23.93,-4500,70378,-6%,"-$107,667",2.0,-1.0,4.0,-17.0,OSTK
+618,,2015-03-16 15:50:00,2015-03-12,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",S - Sale,$23.99,-3500,11892,-23%,"-$83,965",2.0,-1.0,4.0,-17.0,OSTK
+619,,2015-03-16 15:48:46,2015-03-13,OSTK,Griffin Mark J,"SVP, GC",G - Gift,$0.00,-710,15550,-4%,-$0,2.0,-1.0,4.0,-17.0,OSTK
+620,,2015-03-16 15:48:46,2015-03-12,OSTK,Griffin Mark J,"SVP, GC",S - Sale,$24.00,-3000,15550,-16%,"-$72,000",2.0,-1.0,4.0,-17.0,OSTK
+621,D,2015-03-06 16:44:19,2015-03-04,OSTK,Griffin Mark J,"SVP, GC",M - OptEx,$17.08,5000,19260,+35%,"+$85,400",2.0,4.0,2.0,-15.0,OSTK
+622,D,2015-03-06 16:44:19,2015-03-04,OSTK,Griffin Mark J,"SVP, GC",S - Sale+OE,$22.60,-7000,19260,-27%,"-$158,172",2.0,4.0,2.0,-15.0,OSTK
+623,,2015-02-10 11:28:33,2015-02-06,OSTK,Noursalehi Sam,"SVP, Product Development",S - Sale,$22.80,-3031,9390,-24%,"-$69,107",0.0,1.0,5.0,-3.0,OSTK
+624,,2015-02-09 11:02:03,2015-02-05,OSTK,Nielsen David J.,"SVP, Business Development",S - Sale,$23.21,-13818,16737,-45%,"-$320,779",-2.0,-3.0,2.0,1.0,OSTK
+625,D,2015-01-30 17:38:25,2015-01-28,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,1166,29516,+4%,+$0,2.0,2.0,6.0,-6.0,OSTK
+626,D,2015-01-30 17:38:04,2015-01-28,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,1166,28481,+4%,+$0,2.0,2.0,6.0,-6.0,OSTK
+627,D,2015-01-30 17:38:04,2015-01-29,OSTK,Mitchell Samuel Appleton,Dir,S - Sale+OE,$20.25,-385,28481,-1%,"-$7,796",2.0,2.0,6.0,-6.0,OSTK
+628,D,2015-01-30 17:37:43,2015-01-28,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,1166,20903,+6%,+$0,2.0,2.0,6.0,-6.0,OSTK
+629,D,2015-01-30 17:37:43,2015-01-29,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$20.25,-525,20903,-2%,"-$10,631",2.0,2.0,6.0,-6.0,OSTK
+630,D,2015-01-30 17:37:00,2015-01-28,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,1166,34749,+3%,+$0,2.0,2.0,6.0,-6.0,OSTK
+631,D,2015-01-30 17:37:00,2015-01-29,OSTK,Abraham Allison H,Dir,S - Sale+OE,$20.25,-1167,34749,-3%,"-$23,632",2.0,2.0,6.0,-6.0,OSTK
+632,D,2015-01-30 17:36:33,2015-01-28,OSTK,Simon Stormy,Pres,F - Tax,$0.00,-971,75233,-1%,-$0,2.0,2.0,6.0,-6.0,OSTK
+633,D,2015-01-30 17:36:33,2015-01-28,OSTK,Simon Stormy,Pres,M - OptEx,$0.00,3000,75233,+4%,+$0,2.0,2.0,6.0,-6.0,OSTK
+634,D,2015-01-30 17:36:03,2015-01-28,OSTK,Shah Bhargav J,"SVP, Technology",F - Tax,$0.00,-787,8439,-9%,-$0,2.0,2.0,6.0,-6.0,OSTK
+635,D,2015-01-30 17:36:03,2015-01-28,OSTK,Shah Bhargav J,"SVP, Technology",M - OptEx,$0.00,2500,8439,+42%,+$0,2.0,2.0,6.0,-6.0,OSTK
+636,D,2015-01-30 17:35:10,2015-01-28,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",F - Tax,$0.00,-809,15392,-5%,-$0,2.0,2.0,6.0,-6.0,OSTK
+637,D,2015-01-30 17:35:10,2015-01-28,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",M - OptEx,$0.00,2500,15392,+19%,+$0,2.0,2.0,6.0,-6.0,OSTK
+638,D,2015-01-30 17:33:39,2015-01-28,OSTK,Noursalehi Sam,"SVP, Marketing",F - Tax,$0.00,-798,12421,-6%,-$0,2.0,2.0,6.0,-6.0,OSTK
+639,D,2015-01-30 17:33:39,2015-01-28,OSTK,Noursalehi Sam,"SVP, Marketing",M - OptEx,$0.00,2500,12421,+25%,+$0,2.0,2.0,6.0,-6.0,OSTK
+640,D,2015-01-30 17:33:02,2015-01-28,OSTK,Nielsen David J.,"SVP, Business Development",F - Tax,$0.00,-971,30555,-3%,-$0,2.0,2.0,6.0,-6.0,OSTK
+641,D,2015-01-30 17:33:02,2015-01-28,OSTK,Nielsen David J.,"SVP, Business Development",M - OptEx,$0.00,3000,30555,+11%,+$0,2.0,2.0,6.0,-6.0,OSTK
+642,D,2015-01-30 17:32:10,2015-01-28,OSTK,Marks Seth,"SVP, Merchandising",F - Tax,$0.00,-528,1495,-26%,-$0,2.0,2.0,6.0,-6.0,OSTK
+643,D,2015-01-30 17:32:10,2015-01-28,OSTK,Marks Seth,"SVP, Merchandising",M - OptEx,$0.00,1400,1495,>999%,+$0,2.0,2.0,6.0,-6.0,OSTK
+644,D,2015-01-30 17:31:49,2015-01-28,OSTK,Johnson Jonathan E III,Dir,F - Tax,$0.00,-971,74878,-1%,-$0,2.0,2.0,6.0,-6.0,OSTK
+645,D,2015-01-30 17:31:49,2015-01-28,OSTK,Johnson Jonathan E III,Dir,M - OptEx,$0.00,3000,74878,+4%,+$0,2.0,2.0,6.0,-6.0,OSTK
+646,D,2015-01-30 17:31:16,2015-01-28,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-809,32217,-2%,-$0,2.0,2.0,6.0,-6.0,OSTK
+647,D,2015-01-30 17:31:16,2015-01-28,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,2500,32217,+8%,+$0,2.0,2.0,6.0,-6.0,OSTK
+648,D,2015-01-30 17:30:32,2015-01-28,OSTK,Griffin Mark J,"SVP, GC",F - Tax,$0.00,-809,22260,-4%,-$0,2.0,2.0,6.0,-6.0,OSTK
+649,D,2015-01-30 17:30:32,2015-01-28,OSTK,Griffin Mark J,"SVP, GC",M - OptEx,$0.00,2500,22260,+13%,+$0,2.0,2.0,6.0,-6.0,OSTK
+650,D,2015-01-30 17:29:39,2015-01-28,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,3000,6427792,0%,+$0,2.0,2.0,6.0,-6.0,OSTK
+651,D,2015-01-27 11:54:31,2015-01-23,OSTK,Simon Stormy,Pres,F - Tax,$0.00,-5635,73204,-7%,-$1,-2.0,-2.0,0.0,-8.0,OSTK
+652,D,2015-01-27 11:54:31,2015-01-23,OSTK,Simon Stormy,Pres,M - OptEx,$0.00,17500,73204,+31%,+$2,-2.0,-2.0,0.0,-8.0,OSTK
+653,D,2015-01-27 11:53:24,2015-01-23,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",F - Tax,$0.00,-3304,13701,-19%,-$0,-2.0,-2.0,0.0,-8.0,OSTK
+654,D,2015-01-27 11:53:24,2015-01-23,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",M - OptEx,$0.00,10000,13701,+270%,+$1,-2.0,-2.0,0.0,-8.0,OSTK
+655,D,2015-01-27 11:51:56,2015-01-23,OSTK,Noursalehi Sam,"SVP, Marketing",F - Tax,$0.00,-1297,10719,-11%,-$0,-2.0,-2.0,0.0,-8.0,OSTK
+656,D,2015-01-27 11:51:56,2015-01-23,OSTK,Noursalehi Sam,"SVP, Marketing",M - OptEx,$0.00,3750,10719,+54%,+$0,-2.0,-2.0,0.0,-8.0,OSTK
+657,D,2015-01-27 11:50:56,2015-01-23,OSTK,Nielsen David J.,"SVP, Business Development",F - Tax,$0.00,-5635,28526,-16%,-$1,-2.0,-2.0,0.0,-8.0,OSTK
+658,D,2015-01-27 11:50:56,2015-01-23,OSTK,Nielsen David J.,"SVP, Business Development",M - OptEx,$0.00,17500,28526,+159%,+$2,-2.0,-2.0,0.0,-8.0,OSTK
+659,D,2015-01-27 11:49:55,2015-01-23,OSTK,Johnson Jonathan E III,Dir,F - Tax,$0.00,-6450,72849,-8%,-$1,-2.0,-2.0,0.0,-8.0,OSTK
+660,D,2015-01-27 11:49:55,2015-01-23,OSTK,Johnson Jonathan E III,Dir,M - OptEx,$0.00,20000,72849,+38%,+$2,-2.0,-2.0,0.0,-8.0,OSTK
+661,D,2015-01-27 11:48:40,2015-01-23,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-3304,30526,-10%,-$0,-2.0,-2.0,0.0,-8.0,OSTK
+662,D,2015-01-27 11:48:40,2015-01-23,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,10000,30526,+49%,+$1,-2.0,-2.0,0.0,-8.0,OSTK
+663,D,2015-01-27 11:47:30,2015-01-23,OSTK,Griffin Mark J,"SVP, GC",F - Tax,$0.00,-3304,20569,-14%,-$0,-2.0,-2.0,0.0,-8.0,OSTK
+664,D,2015-01-27 11:47:30,2015-01-23,OSTK,Griffin Mark J,"SVP, GC",M - OptEx,$0.00,10000,20569,+95%,+$1,-2.0,-2.0,0.0,-8.0,OSTK
+665,D,2015-01-27 11:46:08,2015-01-23,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,22500,6424792,0%,+$2,-2.0,-2.0,0.0,-8.0,OSTK
+666,D,2015-01-16 15:27:34,2015-01-14,OSTK,Shah Bhargav J,"SVP, Technology",F - Tax,$0.00,-1668,6726,-20%,-$0,2.0,0.0,2.0,3.0,OSTK
+667,D,2015-01-16 15:27:34,2015-01-14,OSTK,Shah Bhargav J,"SVP, Technology",M - OptEx,$0.00,4500,6726,+202%,+$0,2.0,0.0,2.0,3.0,OSTK
+668,D,2015-01-16 15:27:03,2015-01-14,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",F - Tax,$0.00,-848,8199,-9%,-$0,2.0,0.0,2.0,3.0,OSTK
+669,D,2015-01-16 15:27:03,2015-01-14,OSTK,Popelka Brian L.,"SVP,Supplier, Cust, People Car",M - OptEx,$0.00,2250,8199,+38%,+$0,2.0,0.0,2.0,3.0,OSTK
+670,D,2015-01-16 15:26:23,2015-01-14,OSTK,Noursalehi Sam,"SVP, Marketing",F - Tax,$0.00,-848,9748,-8%,-$0,2.0,0.0,2.0,3.0,OSTK
+671,D,2015-01-16 15:26:23,2015-01-14,OSTK,Noursalehi Sam,"SVP, Marketing",M - OptEx,$0.00,2250,9748,+30%,+$0,2.0,0.0,2.0,3.0,OSTK
+672,D,2015-01-16 15:25:44,2015-01-14,OSTK,Nielsen David J.,"SVP, Business Development",F - Tax,$0.00,-1657,16661,-9%,-$0,2.0,0.0,2.0,3.0,OSTK
+673,D,2015-01-16 15:25:44,2015-01-14,OSTK,Nielsen David J.,"SVP, Business Development",M - OptEx,$0.00,4500,16661,+37%,+$0,2.0,0.0,2.0,3.0,OSTK
+674,D,2015-01-16 15:24:11,2015-01-14,OSTK,Griffin Mark J,"SVP, GC",F - Tax,$0.00,-848,14302,-6%,-$0,2.0,0.0,2.0,3.0,OSTK
+675,D,2015-01-16 15:24:11,2015-01-14,OSTK,Griffin Mark J,"SVP, GC",M - OptEx,$0.00,2250,14302,+19%,+$0,2.0,0.0,2.0,3.0,OSTK
+676,D,2015-01-16 15:22:42,2015-01-14,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-848,24001,-3%,-$0,2.0,0.0,2.0,3.0,OSTK
+677,D,2015-01-16 15:22:42,2015-01-14,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,2250,24001,+10%,+$0,2.0,0.0,2.0,3.0,OSTK
+678,D,2015-01-16 15:20:56,2015-01-14,OSTK,Simon Stormy,Pres,F - Tax,$0.00,-1658,63074,-3%,-$0,2.0,0.0,2.0,3.0,OSTK
+679,D,2015-01-16 15:20:56,2015-01-14,OSTK,Simon Stormy,Pres,M - OptEx,$0.00,4500,63074,+8%,+$0,2.0,0.0,2.0,3.0,OSTK
+680,D,2015-01-16 15:19:09,2015-01-14,OSTK,Johnson Jonathan E III,Dir,F - Tax,$0.00,-1895,61029,-3%,-$0,2.0,0.0,2.0,3.0,OSTK
+681,D,2015-01-16 15:19:09,2015-01-14,OSTK,Johnson Jonathan E III,Dir,M - OptEx,$0.00,5250,61029,+9%,+$1,2.0,0.0,2.0,3.0,OSTK
+682,D,2015-01-16 15:18:15,2015-01-14,OSTK,Byrne Patrick Michael,"CEO, 10%",M - OptEx,$0.00,5250,6402292,0%,+$1,2.0,0.0,2.0,3.0,OSTK
+683,,2014-11-25 17:17:06,2014-11-24,OSTK,Byrne Patrick Michael,"CEO, 10%",G - Gift,$0.00,-119972,944915,-11%,-$0,1.0,0.0,-3.0,-13.0,OSTK
+684,,2014-06-03 15:57:56,2014-06-02,OSTK,Popelka Brian L.,SVP,S - Sale,$15.27,-2500,5603,-31%,"-$38,178",-2.0,3.0,8.0,63.0,OSTK
+685,D,2014-05-12 14:24:28,2014-05-08,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,3000,28350,+12%,+$0,4.0,6.0,7.0,55.0,OSTK
+686,D,2014-05-12 14:24:28,2014-05-09,OSTK,Tabacco Joseph J Jr,Dir,S - Sale+OE,$14.77,-3800,28350,-12%,"-$56,125",4.0,6.0,7.0,55.0,OSTK
+687,D,2014-05-12 14:24:10,2014-05-08,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,3000,27700,+12%,+$0,4.0,6.0,7.0,55.0,OSTK
+688,D,2014-05-12 14:24:10,2014-05-09,OSTK,Mitchell Samuel Appleton,Dir,S - Sale+OE,$14.77,-4550,27700,-14%,"-$67,202",4.0,6.0,7.0,55.0,OSTK
+689,D,2014-05-12 14:23:48,2014-05-08,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,3000,20262,+17%,+$0,4.0,6.0,7.0,55.0,OSTK
+690,D,2014-05-12 14:23:48,2014-05-09,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$14.77,-5688,20262,-22%,"-$84,010",4.0,6.0,7.0,55.0,OSTK
+691,D,2014-05-12 14:23:19,2014-05-08,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,3000,34750,+9%,+$0,4.0,6.0,7.0,55.0,OSTK
+692,D,2014-05-12 14:23:19,2014-05-09,OSTK,Abraham Allison H,Dir,S - Sale+OE,$14.77,-3800,34750,-10%,"-$56,125",4.0,6.0,7.0,55.0,OSTK
+693,D,2014-05-09 17:32:26,2014-05-08,OSTK,Marks Seth,"SVP, Merchandising",F - Tax,$0.00,-377,623,-38%,-$0,4.0,2.0,3.0,55.0,OSTK
+694,D,2014-05-09 17:32:26,2014-05-08,OSTK,Marks Seth,"SVP, Merchandising",M - OptEx,$0.00,1000,623,-265%,+$0,4.0,2.0,3.0,55.0,OSTK
+695,DM,2014-05-06 13:21:39,2014-05-03,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,8375,29150,+40%,+$1,-4.0,2.0,-4.0,47.0,OSTK
+696,DM,2014-05-06 13:21:10,2014-05-03,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,8375,29250,+40%,+$1,-4.0,2.0,-4.0,47.0,OSTK
+697,DM,2014-05-06 13:20:42,2014-05-03,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,8375,22950,+57%,+$1,-4.0,2.0,-4.0,47.0,OSTK
+698,DM,2014-05-06 13:20:18,2014-05-03,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,8375,35550,+31%,+$1,-4.0,2.0,-4.0,47.0,OSTK
+699,,2014-03-03 19:39:21,2014-03-03,OSTK,Nielsen David J.,Co-Pres,S - Sale,$19.35,-2000,13818,-13%,"-$38,702",10.0,9.0,1.0,-10.0,OSTK
+700,DM,2014-01-24 17:39:56,2014-01-22,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",F - Tax,$0.00,-2792,8103,-26%,-$0,0.0,-21.0,-32.0,-41.0,OSTK
+701,DM,2014-01-24 17:39:56,2014-01-22,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",M - OptEx,$0.00,8750,8103,-1352%,+$1,0.0,-21.0,-32.0,-41.0,OSTK
+702,DM,2014-01-24 17:39:37,2014-01-22,OSTK,Noursalehi Sam,"SVP, Marketing",F - Tax,$0.00,-912,6864,-12%,-$0,0.0,-21.0,-32.0,-41.0,OSTK
+703,DM,2014-01-24 17:39:37,2014-01-22,OSTK,Noursalehi Sam,"SVP, Marketing",M - OptEx,$0.00,2875,6864,+72%,+$0,0.0,-21.0,-32.0,-41.0,OSTK
+704,DM,2014-01-24 17:39:22,2014-01-22,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",F - Tax,$0.00,-5240,36314,-13%,-$1,0.0,-21.0,-32.0,-41.0,OSTK
+705,DM,2014-01-24 17:39:22,2014-01-22,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",M - OptEx,$0.00,16250,36314,+81%,+$2,0.0,-21.0,-32.0,-41.0,OSTK
+706,DM,2014-01-24 17:37:55,2014-01-22,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-2794,22428,-11%,-$0,0.0,-21.0,-32.0,-41.0,OSTK
+707,DM,2014-01-24 17:37:55,2014-01-22,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,8750,22428,+64%,+$1,0.0,-21.0,-32.0,-41.0,OSTK
+708,DM,2014-01-24 17:37:37,2014-01-22,OSTK,Simon Stormy,Co-Pres,F - Tax,$0.00,-5240,58497,-8%,-$1,0.0,-21.0,-32.0,-41.0,OSTK
+709,DM,2014-01-24 17:37:37,2014-01-22,OSTK,Simon Stormy,Co-Pres,M - OptEx,$0.00,16250,58497,+38%,+$2,0.0,-21.0,-32.0,-41.0,OSTK
+710,DM,2014-01-24 17:36:36,2014-01-22,OSTK,Nielsen David J.,Co-Pres,F - Tax,$0.00,-4027,15818,-20%,-$0,0.0,-21.0,-32.0,-41.0,OSTK
+711,DM,2014-01-24 17:36:36,2014-01-22,OSTK,Nielsen David J.,Co-Pres,M - OptEx,$0.00,12500,15818,+377%,+$1,0.0,-21.0,-32.0,-41.0,OSTK
+712,DM,2014-01-24 17:33:05,2014-01-22,OSTK,Johnson Jonathan E III,"Exec Vice COB, BOD",F - Tax,$0.00,-5662,55944,-9%,-$1,0.0,-21.0,-32.0,-41.0,OSTK
+713,DM,2014-01-24 17:33:05,2014-01-22,OSTK,Johnson Jonathan E III,"Exec Vice COB, BOD",M - OptEx,$0.00,17500,55944,+46%,+$2,0.0,-21.0,-32.0,-41.0,OSTK
+714,DM,2014-01-24 17:30:48,2014-01-22,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$0.00,18750,1064887,+2%,+$2,0.0,-21.0,-32.0,-41.0,OSTK
+715,D,2014-01-16 12:40:47,2014-01-14,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",F - Tax,$0.00,-1130,3339,-25%,-$0,3.0,1.0,-35.0,-51.0,OSTK
+716,D,2014-01-16 12:40:47,2014-01-14,OSTK,Popelka Brian L.,"SVP, Customer, Partner Care",M - OptEx,$0.00,3000,3339,+885%,+$0,3.0,1.0,-35.0,-51.0,OSTK
+717,D,2014-01-16 12:39:43,2014-01-14,OSTK,Noursalehi Sam,"SVP, Marketing",F - Tax,$0.00,-1130,6387,-15%,-$0,3.0,1.0,-35.0,-51.0,OSTK
+718,D,2014-01-16 12:39:43,2014-01-14,OSTK,Noursalehi Sam,"SVP, Marketing",M - OptEx,$0.00,3000,6387,+89%,+$0,3.0,1.0,-35.0,-51.0,OSTK
+719,D,2014-01-16 12:35:57,2014-01-14,OSTK,Shah Bhargav J,"SVP, Technology",F - Tax,$0.00,-2106,3894,-35%,-$0,3.0,1.0,-35.0,-51.0,OSTK
+720,D,2014-01-16 12:35:57,2014-01-14,OSTK,Shah Bhargav J,"SVP, Technology",M - OptEx,$0.00,6000,3894,-285%,+$1,3.0,1.0,-35.0,-51.0,OSTK
+721,D,2014-01-16 12:33:57,2014-01-14,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",F - Tax,$0.00,-2106,28335,-7%,-$0,3.0,1.0,-35.0,-51.0,OSTK
+722,D,2014-01-16 12:33:57,2014-01-14,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",M - OptEx,$0.00,6000,28335,+27%,+$1,3.0,1.0,-35.0,-51.0,OSTK
+723,D,2014-01-16 12:30:27,2014-01-14,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-1130,16651,-6%,-$0,3.0,1.0,-35.0,-51.0,OSTK
+724,D,2014-01-16 12:30:27,2014-01-14,OSTK,Hughes Robert P,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,3000,16651,+22%,+$0,3.0,1.0,-35.0,-51.0,OSTK
+725,D,2014-01-16 12:29:20,2014-01-14,OSTK,Simon Stormy,Co-Pres,F - Tax,$0.00,-2102,50085,-4%,-$0,3.0,1.0,-35.0,-51.0,OSTK
+726,D,2014-01-16 12:29:20,2014-01-14,OSTK,Simon Stormy,Co-Pres,M - OptEx,$0.00,6000,50085,+14%,+$1,3.0,1.0,-35.0,-51.0,OSTK
+727,D,2014-01-16 12:27:17,2014-01-14,OSTK,Nielsen David J.,Co-Pres,F - Tax,$0.00,-2102,7345,-22%,-$0,3.0,1.0,-35.0,-51.0,OSTK
+728,D,2014-01-16 12:27:17,2014-01-14,OSTK,Nielsen David J.,Co-Pres,M - OptEx,$0.00,6000,7345,+446%,+$1,3.0,1.0,-35.0,-51.0,OSTK
+729,D,2014-01-16 12:22:53,2014-01-14,OSTK,Johnson Jonathan E III,"Exec Vice COB, BOD",F - Tax,$0.00,-2413,46741,-5%,-$0,3.0,1.0,-35.0,-51.0,OSTK
+730,D,2014-01-16 12:22:53,2014-01-14,OSTK,Johnson Jonathan E III,"Exec Vice COB, BOD",M - OptEx,$0.00,7000,46741,+18%,+$1,3.0,1.0,-35.0,-51.0,OSTK
+731,D,2014-01-16 12:21:50,2014-01-14,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$0.00,7000,6498264,0%,+$1,3.0,1.0,-35.0,-51.0,OSTK
+732,,2014-01-02 19:46:54,2014-01-02,OSTK,Johnson Jonathan E III,"Exec Vice COB, BOD",S - Sale,$30.51,-2000,39519,-5%,"-$61,020",-3.0,1.0,-28.0,-41.0,OSTK
+733,,2013-10-29 11:53:09,2013-10-28,OSTK,Mitchell Samuel Appleton,Dir,S - Sale,$24.89,-1700,19175,-8%,"-$42,313",0.0,-3.0,16.0,-33.0,OSTK
+734,D,2013-10-28 14:05:51,2013-10-26,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,5000,20875,+31%,+$1,-4.0,-6.0,11.0,-37.0,OSTK
+735,,2013-10-25 13:18:46,2013-10-24,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",S - Sale,$24.30,-1750,21410,-8%,"-$42,524",3.0,-4.0,12.0,-36.0,OSTK
+736,D,2013-08-05 20:25:00,2013-08-02,OSTK,Noursalehi Sam,"SVP, Marketing",M - OptEx,$17.08,1500,3031,+98%,"+$25,620",-2.0,-9.0,-15.0,-36.0,OSTK
+737,D,2013-08-05 20:25:00,2013-08-02,OSTK,Noursalehi Sam,"SVP, Marketing",S - Sale+OE,$33.63,-4000,3031,-57%,"-$134,536",-2.0,-9.0,-15.0,-36.0,OSTK
+738,D,2013-08-01 18:21:15,2013-07-31,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$20.00,15000,15775,>999%,"+$300,000",1.0,-10.0,-11.0,-33.0,OSTK
+739,DM,2013-08-01 18:21:15,2013-07-31,OSTK,Tabacco Joseph J Jr,Dir,S - Sale+OE,$34.06,-20000,15775,-56%,"-$681,172",1.0,-10.0,-11.0,-33.0,OSTK
+740,,2013-07-26 16:54:02,2013-07-26,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",S - Sale,$33.74,-2000,23160,-8%,"-$67,481",-1.0,-3.0,-13.0,-19.0,OSTK
+741,,2013-07-22 13:43:39,2013-07-18,OSTK,Johnson Jonathan E III,"Exec Vice COB, BOD",S - Sale,$34.55,-5500,42819,-11%,"-$190,000",2.0,5.0,-10.0,-13.0,OSTK
+742,,2013-07-01 16:58:37,2013-07-01,OSTK,Johnson Jonathan E III,"Exec Vice COB, BOD",S - Sale,$30.00,-2500,48319,-5%,"-$75,000",0.0,-11.0,18.0,2.0,OSTK
+743,,2013-06-07 17:28:08,2013-06-07,OSTK,Johnson Jonathan E III,"Exec Vice COB, BOD",S - Sale,$27.54,-2000,50819,-4%,"-$55,085",0.0,0.0,-1.0,-2.0,OSTK
+744,,2013-06-03 17:07:13,2013-06-03,OSTK,Nielsen David J.,Co-Pres,S - Sale,$25.92,-2900,3447,-46%,"-$75,168",3.0,4.0,15.0,7.0,OSTK
+745,,2013-05-29 16:30:32,2013-05-28,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",S - Sale,$26.81,-1500,25160,-6%,"-$40,215",-6.0,1.0,0.0,1.0,OSTK
+746,,2013-05-14 21:32:51,2013-05-10,OSTK,Chou Francis S M,Former 10% Owner,S - Sale,$25.75,-50612,2355228,-2%,"-$1,303,259",-5.0,-1.0,1.0,-7.0,OSTK
+747,D,2013-05-14 11:10:15,2013-05-10,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,5000,20775,+32%,+$1,2.0,0.0,3.0,-5.0,OSTK
+748,D,2013-05-14 11:10:15,2013-05-10,OSTK,Tabacco Joseph J Jr,Dir,S - Sale+OE,$25.22,-3800,20775,-15%,"-$95,820",2.0,0.0,3.0,-5.0,OSTK
+749,,2013-05-14 11:09:38,2013-05-10,OSTK,Mitchell Samuel Appleton,Dir,S - Sale,$25.22,-2100,15875,-12%,"-$52,953",2.0,0.0,3.0,-5.0,OSTK
+750,D,2013-05-14 11:08:49,2013-05-10,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,5000,14575,+52%,+$1,2.0,0.0,3.0,-5.0,OSTK
+751,D,2013-05-14 11:08:49,2013-05-10,OSTK,Corbus Barclay F,Dir,S - Sale+OE,$25.23,-6800,14575,-32%,"-$171,540",2.0,0.0,3.0,-5.0,OSTK
+752,D,2013-05-14 11:07:58,2013-05-10,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,5000,27175,+23%,+$1,2.0,0.0,3.0,-5.0,OSTK
+753,D,2013-05-14 11:07:58,2013-05-10,OSTK,Abraham Allison H,Dir,S - Sale+OE,$25.22,-3800,27175,-12%,"-$95,820",2.0,0.0,3.0,-5.0,OSTK
+754,D,2013-05-09 20:00:47,2013-05-08,OSTK,Chou Francis S M,10%,X - OptEx,$15.00,300,2405840,0%,"$4,500",0.0,-1.0,6.0,-8.0,OSTK
+755,,2013-05-07 14:11:19,2013-05-07,OSTK,Johnson Jonathan E III,Corporate Secretary,S - Sale,$25.03,-2000,52819,-4%,"-$50,060",-3.0,5.0,7.0,-6.0,OSTK
+756,DM,2013-05-07 13:55:42,2013-05-03,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,6375,19575,+48%,+$1,-3.0,5.0,7.0,-6.0,OSTK
+757,DM,2013-05-07 13:54:58,2013-05-03,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,6375,17975,+55%,+$1,-3.0,5.0,7.0,-6.0,OSTK
+758,DM,2013-05-07 13:54:40,2013-05-03,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,6375,16375,+64%,+$1,-3.0,5.0,7.0,-6.0,OSTK
+759,DM,2013-05-07 13:54:18,2013-05-03,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,6375,25975,+33%,+$1,-3.0,5.0,7.0,-6.0,OSTK
+760,M,2013-05-01 21:23:26,2013-04-29,OSTK,Chou Francis S M,10%,S - Sale,$20.84,-234579,2406140,-9%,"-$4,888,954",6.0,13.0,16.0,11.0,OSTK
+761,M,2013-04-26 21:53:03,2013-04-24,OSTK,Chou Francis S M,10%,S - Sale,$19.93,-201397,2640719,-7%,"-$4,014,839",0.0,11.0,23.0,16.0,OSTK
+762,DM,2013-04-23 21:49:29,2013-04-19,OSTK,Chou Francis S M,10%,S - Sale+OE,$18.88,-264024,2842116,-9%,"-$4,985,900",4.0,10.0,36.0,38.0,OSTK
+763,,2013-03-11 13:02:32,2013-03-07,OSTK,Nielsen David J.,Co-Pres,S - Sale,$12.00,-6277,6347,-50%,"-$75,326",-1.0,-8.0,-2.0,132.0,OSTK
+764,,2013-02-08 15:11:03,2013-02-08,OSTK,Mitchell Samuel Appleton,Dir,S - Sale,$13.10,-2000,11600,-15%,"-$26,200",0.0,-5.0,-8.0,135.0,OSTK
+765,D,2013-02-05 15:11:59,2013-02-02,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",F - Tax,$0.00,-2427,26660,-8%,-$0,1.0,-4.0,-12.0,148.0,OSTK
+766,D,2013-02-05 15:11:59,2013-02-02,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",M - OptEx,$0.00,7500,26660,+39%,+$1,1.0,-4.0,-12.0,148.0,OSTK
+767,D,2013-02-05 15:11:33,2013-02-02,OSTK,Simon Stormy,"SVP, Customer, Partner Care",F - Tax,$0.00,-2427,43589,-5%,-$0,1.0,-4.0,-12.0,148.0,OSTK
+768,D,2013-02-05 15:11:33,2013-02-02,OSTK,Simon Stormy,"SVP, Customer, Partner Care",M - OptEx,$0.00,7500,43589,+21%,+$1,1.0,-4.0,-12.0,148.0,OSTK
+769,D,2013-02-05 15:11:17,2013-02-02,OSTK,Peterson Samuel J.,Employee,F - Tax,$0.00,-2427,47370,-5%,-$0,1.0,-4.0,-12.0,148.0,OSTK
+770,D,2013-02-05 15:11:17,2013-02-02,OSTK,Peterson Samuel J.,Employee,M - OptEx,$0.00,7500,47370,+19%,+$1,1.0,-4.0,-12.0,148.0,OSTK
+771,D,2013-02-05 15:10:48,2013-02-02,OSTK,Nielsen David J.,"SVP, Merchandising, Supply Ch",F - Tax,$0.00,-1294,12624,-9%,-$0,1.0,-4.0,-12.0,148.0,OSTK
+772,D,2013-02-05 15:10:48,2013-02-02,OSTK,Nielsen David J.,"SVP, Merchandising, Supply Ch",M - OptEx,$0.00,4000,12624,+46%,+$0,1.0,-4.0,-12.0,148.0,OSTK
+773,D,2013-02-05 15:10:23,2013-02-02,OSTK,Johnson Jonathan E III,Pres,F - Tax,$0.00,-2427,54819,-4%,-$0,1.0,-4.0,-12.0,148.0,OSTK
+774,D,2013-02-05 15:10:23,2013-02-02,OSTK,Johnson Jonathan E III,Pres,M - OptEx,$0.00,7500,54819,+16%,+$1,1.0,-4.0,-12.0,148.0,OSTK
+775,D,2013-02-05 15:10:03,2013-02-02,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-2427,26792,-8%,-$0,1.0,-4.0,-12.0,148.0,OSTK
+776,D,2013-02-05 15:10:03,2013-02-02,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,7500,26792,+39%,+$1,1.0,-4.0,-12.0,148.0,OSTK
+777,D,2013-02-05 15:09:37,2013-02-02,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$0.00,7500,1039137,+1%,+$1,1.0,-4.0,-12.0,148.0,OSTK
+778,,2013-02-04 15:11:13,2013-02-01,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",S - Sale,$13.25,-8000,21587,-27%,"-$106,034",-1.0,-3.0,-9.0,152.0,OSTK
+779,A,2013-02-04 15:08:10,2013-01-23,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",F - Tax,$0.00,-2889,29587,-9%,-$0,-1.0,-3.0,-9.0,152.0,OSTK
+780,A,2013-02-04 15:07:39,2013-01-23,OSTK,Simon Stormy,"SVP, Customer, Partner Care",F - Tax,$0.00,-2891,38516,-7%,-$0,-1.0,-3.0,-9.0,152.0,OSTK
+781,A,2013-02-04 15:07:03,2013-01-23,OSTK,Peterson Samuel J.,Employee,F - Tax,$0.00,-2889,42297,-6%,-$0,-1.0,-3.0,-9.0,152.0,OSTK
+782,A,2013-02-04 15:06:32,2013-01-23,OSTK,Nielsen David J.,"SVP, Merchandising, Supply Ch",F - Tax,$0.00,-2996,9918,-23%,-$0,-1.0,-3.0,-9.0,152.0,OSTK
+783,A,2013-02-04 15:05:59,2013-01-23,OSTK,Johnson Jonathan E III,Pres,F - Tax,$0.00,-3281,49746,-6%,-$0,-1.0,-3.0,-9.0,152.0,OSTK
+784,A,2013-02-04 15:05:16,2013-01-23,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-2891,21719,-12%,-$0,-1.0,-3.0,-9.0,152.0,OSTK
+785,,2013-01-30 11:01:12,2013-01-28,OSTK,Corbus Barclay F,Dir,S - Sale,$15.90,-7500,10000,-43%,"-$119,223",-4.0,-6.0,-18.0,146.0,OSTK
+786,DM,2013-01-28 21:27:12,2013-01-24,OSTK,Chou Francis S M,10%,S - Sale+OE,$16.81,-80000,3106140,-3%,"-$1,344,858",-6.0,-11.0,-19.0,117.0,OSTK
+787,DM,2013-01-24 17:46:08,2013-01-22,OSTK,Peterson Samuel J.,Employee,F - Tax,$0.00,-4364,44573,-9%,-$0,0.0,-19.0,-26.0,110.0,OSTK
+788,DM,2013-01-24 17:46:08,2013-01-22,OSTK,Peterson Samuel J.,Employee,M - OptEx,$0.00,12500,44573,+39%,+$1,0.0,-19.0,-26.0,110.0,OSTK
+789,DM,2013-01-24 17:45:50,2013-01-22,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",F - Tax,$0.00,-4364,32566,-12%,-$0,0.0,-19.0,-26.0,110.0,OSTK
+790,DM,2013-01-24 17:45:50,2013-01-22,OSTK,Tryon Stephen P,"SVP, Human Capital Mgmt, Intl",M - OptEx,$0.00,12500,32566,+62%,+$1,0.0,-19.0,-26.0,110.0,OSTK
+791,DM,2013-01-24 17:45:29,2013-01-22,OSTK,Simon Stormy,"SVP, Customer, Partner Care",F - Tax,$0.00,-4364,41053,-10%,-$0,0.0,-19.0,-26.0,110.0,OSTK
+792,DM,2013-01-24 17:45:29,2013-01-22,OSTK,Simon Stormy,"SVP, Customer, Partner Care",M - OptEx,$0.00,12500,41053,+44%,+$1,0.0,-19.0,-26.0,110.0,OSTK
+793,DM,2013-01-24 17:37:38,2013-01-22,OSTK,Nielsen David J.,"SVP, Merchandising, Supply Ch",F - Tax,$0.00,-3774,9846,-28%,-$0,0.0,-19.0,-26.0,110.0,OSTK
+794,DM,2013-01-24 17:37:38,2013-01-22,OSTK,Nielsen David J.,"SVP, Merchandising, Supply Ch",M - OptEx,$0.00,10625,9846,-1364%,+$1,0.0,-19.0,-26.0,110.0,OSTK
+795,DM,2013-01-24 17:37:15,2013-01-22,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",F - Tax,$0.00,-4364,21771,-17%,-$0,0.0,-19.0,-26.0,110.0,OSTK
+796,DM,2013-01-24 17:37:15,2013-01-22,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",M - OptEx,$0.00,12500,21771,+135%,+$1,0.0,-19.0,-26.0,110.0,OSTK
+797,DM,2013-01-24 17:36:57,2013-01-22,OSTK,Johnson Jonathan E III,Pres,F - Tax,$0.00,-4757,52317,-8%,-$0,0.0,-19.0,-26.0,110.0,OSTK
+798,DM,2013-01-24 17:36:57,2013-01-22,OSTK,Johnson Jonathan E III,Pres,M - OptEx,$0.00,13750,52317,+36%,+$1,0.0,-19.0,-26.0,110.0,OSTK
+799,DM,2013-01-24 17:36:40,2013-01-22,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$0.00,15000,6483764,0%,+$2,0.0,-19.0,-26.0,110.0,OSTK
+800,,2012-12-04 16:46:47,2012-12-03,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",G - Gift,$0.00,-263000,6468764,-4%,-$0,-1.0,-2.0,2.0,84.0,OSTK
+801,,2012-11-28 12:43:27,2012-11-27,OSTK,Simon Stormy,"SVP, Customer, Partner Care",S - Sale,$14.98,-2000,30319,-6%,"-$29,969",1.0,-3.0,-6.0,67.0,OSTK
+802,DM,2012-11-07 21:41:20,2012-11-05,OSTK,Chou Francis S M,10%,S - Sale+OE,$16.00,-11496,3186140,0%,"-$183,936",-2.0,-6.0,-9.0,61.0,OSTK
+803,D,2012-11-02 21:40:22,2012-10-31,OSTK,Chou Francis S M,10%,S - Sale+OE,$16.00,-20602,3197636,-1%,"-$329,632",4.0,2.0,-5.0,64.0,OSTK
+804,,2012-10-30 21:44:34,2012-10-26,OSTK,Chou Francis S M,10%,S - Sale,$15.50,-42500,3218238,-1%,"-$658,750",1.0,5.0,2.0,51.0,OSTK
+805,D,2012-10-30 12:27:45,2012-10-26,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$0.00,2500,13600,+23%,+$0,-3.0,3.0,-1.0,49.0,OSTK
+806,D,2012-10-25 16:47:25,2012-10-23,OSTK,Nielsen David J.,"SVP, Merchandising, Supply Ch",F - Tax,$10.76,-158,2995,-5%,"-$1,700",15.0,16.0,14.0,67.0,OSTK
+807,D,2012-10-25 16:47:25,2012-10-23,OSTK,Nielsen David J.,"SVP, Merchandising, Supply Ch",M - OptEx,$10.76,500,2995,+20%,"+$5,380",15.0,16.0,14.0,67.0,OSTK
+808,,2012-07-27 16:44:18,2012-07-26,OSTK,Tryon Stephen P,SVP,P - Purchase,$7.96,1500,3042,+97%,"+$11,940",2.0,5.0,10.0,85.0,OSTK
+809,,2012-05-21 14:52:31,2012-05-18,OSTK,Tabacco Joseph J Jr,Dir,S - Sale,$6.23,-2700,13200,-17%,"-$16,829",3.0,7.0,10.0,134.0,OSTK
+810,D,2012-05-11 17:59:59,2012-05-10,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,2500,19600,+15%,+$0,-2.0,-9.0,-7.0,121.0,OSTK
+811,D,2012-05-11 17:59:38,2012-05-10,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,2500,17500,+17%,+$0,-2.0,-9.0,-7.0,121.0,OSTK
+812,D,2012-05-11 17:59:09,2012-05-10,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,2500,15900,+19%,+$0,-2.0,-9.0,-7.0,121.0,OSTK
+813,DM,2012-05-07 18:18:06,2012-05-04,OSTK,Abraham Allison H,Dir,M - OptEx,$0.00,5750,17100,+51%,+$1,1.0,3.0,0.0,137.0,OSTK
+814,DM,2012-05-07 18:16:43,2012-05-04,OSTK,Corbus Barclay F,Dir,M - OptEx,$0.00,5750,15000,+62%,+$1,1.0,3.0,0.0,137.0,OSTK
+815,DM,2012-05-07 18:15:36,2012-05-04,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$0.00,5750,13400,+75%,+$1,1.0,3.0,0.0,137.0,OSTK
+816,D,2012-05-07 12:53:18,2012-05-04,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$6.64,2000,11100,+22%,"+$13,280",2.0,5.0,1.0,138.0,OSTK
+817,D,2012-02-06 19:08:04,2012-02-02,OSTK,Nielsen David J.,"SVP, Merchandising, Supply Ch",F - Tax,$6.90,-713,2653,-21%,"-$4,920",2.0,0.0,-22.0,22.0,OSTK
+818,D,2012-02-06 19:08:04,2012-02-02,OSTK,Nielsen David J.,"SVP, Merchandising, Supply Ch",M - OptEx,$6.90,2000,2653,+306%,"+$13,800",2.0,0.0,-22.0,22.0,OSTK
+819,D,2012-02-06 18:18:42,2012-02-02,OSTK,Tryon Stephen P,SVP,F - Tax,$6.90,-1337,21388,-6%,"-$9,225",2.0,0.0,-22.0,22.0,OSTK
+820,D,2012-02-06 18:18:42,2012-02-02,OSTK,Tryon Stephen P,SVP,M - OptEx,$6.90,3750,21388,+21%,"+$25,875",2.0,0.0,-22.0,22.0,OSTK
+821,D,2012-02-06 18:17:36,2012-02-02,OSTK,Simon Stormy,"SVP, Marketing, Customer Care",F - Tax,$6.90,-1337,32319,-4%,"-$9,225",2.0,0.0,-22.0,22.0,OSTK
+822,D,2012-02-06 18:17:36,2012-02-02,OSTK,Simon Stormy,"SVP, Marketing, Customer Care",M - OptEx,$6.90,3750,32319,+13%,"+$25,875",2.0,0.0,-22.0,22.0,OSTK
+823,D,2012-02-06 18:16:32,2012-02-02,OSTK,Peterson Samuel J.,"SVP, Technology",F - Tax,$6.90,-1337,34098,-4%,"-$9,225",2.0,0.0,-22.0,22.0,OSTK
+824,D,2012-02-06 18:16:32,2012-02-02,OSTK,Peterson Samuel J.,"SVP, Technology",M - OptEx,$6.90,3750,34098,+12%,"+$25,875",2.0,0.0,-22.0,22.0,OSTK
+825,D,2012-02-06 18:15:25,2012-02-02,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",F - Tax,$6.90,-1337,13522,-9%,"-$9,225",2.0,0.0,-22.0,22.0,OSTK
+826,D,2012-02-06 18:15:25,2012-02-02,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",M - OptEx,$6.90,3750,13522,+38%,"+$25,875",2.0,0.0,-22.0,22.0,OSTK
+827,D,2012-02-06 18:14:52,2012-02-02,OSTK,Johnson Jonathan E III,Pres,F - Tax,$6.90,-1337,40689,-3%,"-$9,225",2.0,0.0,-22.0,22.0,OSTK
+828,D,2012-02-06 18:14:52,2012-02-02,OSTK,Johnson Jonathan E III,Pres,M - OptEx,$6.90,3750,40689,+10%,"+$25,875",2.0,0.0,-22.0,22.0,OSTK
+829,D,2012-02-06 18:14:26,2012-02-02,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$6.90,3750,6731764,0%,"+$25,875",2.0,0.0,-22.0,22.0,OSTK
+830,D,2012-01-24 11:12:48,2012-01-22,OSTK,Tryon Stephen P,SVP,F - Tax,$6.95,-1337,18975,-7%,"-$9,292",0.0,1.0,-1.0,10.0,OSTK
+831,D,2012-01-24 11:12:48,2012-01-22,OSTK,Tryon Stephen P,SVP,M - OptEx,$6.95,3750,18975,+25%,"+$26,063",0.0,1.0,-1.0,10.0,OSTK
+832,D,2012-01-24 11:11:53,2012-01-22,OSTK,Simon Stormy,"SVP, Marketing, Customer Care",F - Tax,$6.95,-1337,29906,-4%,"-$9,292",0.0,1.0,-1.0,10.0,OSTK
+833,D,2012-01-24 11:11:53,2012-01-22,OSTK,Simon Stormy,"SVP, Marketing, Customer Care",M - OptEx,$6.95,3750,29906,+14%,"+$26,063",0.0,1.0,-1.0,10.0,OSTK
+834,D,2012-01-24 11:11:09,2012-01-22,OSTK,Peterson Samuel J.,"SVP, Technology",F - Tax,$6.95,-1337,31685,-4%,"-$9,292",0.0,1.0,-1.0,10.0,OSTK
+835,D,2012-01-24 11:11:09,2012-01-22,OSTK,Peterson Samuel J.,"SVP, Technology",M - OptEx,$6.95,3750,31685,+13%,"+$26,063",0.0,1.0,-1.0,10.0,OSTK
+836,D,2012-01-24 11:09:11,2012-01-22,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",F - Tax,$6.95,-1337,11109,-11%,"-$9,292",0.0,1.0,-1.0,10.0,OSTK
+837,D,2012-01-24 11:09:11,2012-01-22,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",M - OptEx,$6.95,3750,11109,+51%,"+$26,063",0.0,1.0,-1.0,10.0,OSTK
+838,D,2012-01-24 11:08:21,2012-01-22,OSTK,Johnson Jonathan E III,Pres,F - Tax,$6.95,-1337,38276,-3%,"-$9,292",0.0,1.0,-1.0,10.0,OSTK
+839,D,2012-01-24 11:08:21,2012-01-22,OSTK,Johnson Jonathan E III,Pres,M - OptEx,$6.95,3750,38276,+11%,"+$26,063",0.0,1.0,-1.0,10.0,OSTK
+840,D,2012-01-24 11:07:47,2012-01-22,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$6.95,3750,6728014,0%,"+$26,063",0.0,1.0,-1.0,10.0,OSTK
+841,D,2012-01-18 12:30:21,2012-01-13,OSTK,Tryon Stephen P,SVP,F - Tax,$6.83,-2496,19099,-12%,"-$17,048",3.0,1.0,-1.0,-5.0,OSTK
+842,D,2012-01-18 12:30:21,2012-01-13,OSTK,Tryon Stephen P,SVP,M - OptEx,$6.83,7000,19099,+58%,"+$47,810",3.0,1.0,-1.0,-5.0,OSTK
+843,D,2012-01-18 12:29:50,2012-01-13,OSTK,Simon Stormy,"SVP, Marketing, Customer Care",F - Tax,$6.83,-2852,30172,-9%,"-$19,479",3.0,1.0,-1.0,-5.0,OSTK
+844,D,2012-01-18 12:29:50,2012-01-13,OSTK,Simon Stormy,"SVP, Marketing, Customer Care",M - OptEx,$6.83,8000,30172,+36%,"+$54,640",3.0,1.0,-1.0,-5.0,OSTK
+845,D,2012-01-18 12:29:18,2012-01-13,OSTK,Peterson Samuel J.,"SVP, Technology",F - Tax,$6.83,-2781,33760,-8%,"-$18,994",3.0,1.0,-1.0,-5.0,OSTK
+846,D,2012-01-18 12:29:18,2012-01-13,OSTK,Peterson Samuel J.,"SVP, Technology",M - OptEx,$6.83,7800,33760,+30%,"+$53,274",3.0,1.0,-1.0,-5.0,OSTK
+847,D,2012-01-18 12:28:54,2012-01-13,OSTK,Johnson Jonathan E III,Pres,F - Tax,$6.83,-2781,38570,-7%,"-$18,994",3.0,1.0,-1.0,-5.0,OSTK
+848,D,2012-01-18 12:28:54,2012-01-13,OSTK,Johnson Jonathan E III,Pres,M - OptEx,$6.83,7800,38570,+25%,"+$53,274",3.0,1.0,-1.0,-5.0,OSTK
+849,D,2012-01-18 12:28:25,2012-01-13,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",F - Tax,$6.83,-1783,8821,-17%,"-$12,178",3.0,1.0,-1.0,-5.0,OSTK
+850,D,2012-01-18 12:28:25,2012-01-13,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",M - OptEx,$6.83,5000,8821,+131%,"+$34,150",3.0,1.0,-1.0,-5.0,OSTK
+851,D,2012-01-18 12:27:55,2012-01-13,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$6.83,10000,6724264,0%,"+$68,300",3.0,1.0,-1.0,-5.0,OSTK
+852,M,2012-01-06 20:00:32,2012-01-04,OSTK,Chou Francis S M,10%,P - Purchase,$7.08,56851,3260738,+2%,"+$402,753",1.0,-2.0,-1.0,-2.0,OSTK
+853,M,2012-01-03 20:11:16,2011-12-29,OSTK,Chou Francis S M,10%,P - Purchase,$7.69,38290,3203887,+1%,"+$294,493",-3.0,-8.0,-11.0,-6.0,OSTK
+854,,2011-12-29 20:45:24,2011-12-23,OSTK,Chou Francis S M,10%,P - Purchase,$7.73,10404,3165597,0%,"+$80,388",2.0,-7.0,-10.0,-14.0,OSTK
+855,M,2011-12-21 21:41:45,2011-12-19,OSTK,Chou Francis S M,10%,P - Purchase,$7.75,47662,3155193,+2%,"+$369,381",0.0,0.0,-13.0,-14.0,OSTK
+856,,2011-12-16 21:02:21,2011-12-14,OSTK,Chou Francis S M,10%,P - Purchase,$7.75,4000,3107531,0%,"+$31,000",-2.0,-2.0,-14.0,-13.0,OSTK
+857,M,2011-12-09 21:14:31,2011-12-07,OSTK,Chou Francis S M,10%,P - Purchase,$7.75,35037,3103531,+1%,"+$271,537",-1.0,-2.0,-15.0,-21.0,OSTK
+858,M,2011-11-29 06:10:16,2011-11-23,OSTK,Chou Francis S M,10%,P - Purchase,$7.76,18859,3068494,+1%,"+$146,431",-1.0,-1.0,-3.0,-18.0,OSTK
+859,M,2011-11-23 06:15:30,2011-11-18,OSTK,Chou Francis S M,10%,P - Purchase,$7.99,90708,3049635,+3%,"+$724,651",-1.0,3.0,-2.0,-16.0,OSTK
+860,M,2011-11-14 21:47:23,2011-11-09,OSTK,Chou Francis S M,10%,P - Purchase,$8.00,30235,2958927,+1%,"+$241,909",2.0,-3.0,-4.0,-17.0,OSTK
+861,M,2011-11-08 18:54:15,2011-11-04,OSTK,Chou Francis S M,10%,P - Purchase,$8.01,4173,2928692,0%,"+$33,426",-2.0,0.0,-3.0,-17.0,OSTK
+862,M,2011-11-03 20:32:48,2011-11-01,OSTK,Chou Francis S M,10%,P - Purchase,$7.99,64425,2924519,+2%,"+$514,993",-3.0,-4.0,-1.0,-21.0,OSTK
+863,D,2011-10-28 08:22:52,2011-10-26,OSTK,Mitchell Samuel Appleton,Dir,M - OptEx,$9.49,2500,9100,+38%,"+$23,725",-5.0,-12.0,-16.0,-37.0,OSTK
+864,M,2011-10-05 21:10:28,2011-10-03,OSTK,Chou Francis S M,10%,P - Purchase,$8.95,34159,2860094,+1%,"+$305,568",3.0,7.0,-12.0,-40.0,OSTK
+865,,2011-09-23 20:10:55,2011-09-21,OSTK,Chou Francis S M,10%,P - Purchase,$9.50,15000,2825935,+1%,"+$142,500",5.0,3.0,9.0,-44.0,OSTK
+866,,2011-09-16 13:58:35,2011-09-15,OSTK,Atkinson Geoffrey,"SVP, CRM, Demand Management",S - Sale,$10.17,-9000,5002,-64%,"-$91,522",-1.0,-11.0,1.0,-47.0,OSTK
+867,,2011-09-14 17:19:05,2011-09-12,OSTK,Chou Francis S M,10%,P - Purchase,$9.50,9983,2810935,0%,"+$94,839",0.0,-3.0,-1.0,-49.0,OSTK
+868,M,2011-08-22 17:23:42,2011-08-18,OSTK,Chou Francis S M,10%,P - Purchase,$9.80,24043,2800952,+1%,"+$235,614",4.0,3.0,0.0,-31.0,OSTK
+869,,2011-08-08 21:18:23,2011-08-04,OSTK,Chou Francis S M,10%,P - Purchase,$11.56,40000,2776909,+1%,"+$462,400",7.0,4.0,-2.0,-28.0,OSTK
+870,M,2011-08-01 20:57:45,2011-07-28,OSTK,Chou Francis S M,10%,P - Purchase,$12.72,345500,2736909,+14%,"+$4,394,705",-4.0,-11.0,-11.0,-43.0,OSTK
+871,,2011-08-01 12:33:46,2011-07-29,OSTK,Peterson Samuel J.,"SVP, Technology",P - Purchase,$12.90,2000,24253,+9%,"+$25,800",-3.0,-14.0,-13.0,-46.0,OSTK
+872,M,2011-06-14 18:41:41,2011-06-10,OSTK,Chou Francis S M,10%,P - Purchase,$13.70,22500,2391409,+1%,"+$308,250",-1.0,0.0,9.0,-46.0,OSTK
+873,M,2011-05-23 19:43:21,2011-05-19,OSTK,Chou Francis S M,10%,P - Purchase,$13.70,12200,2368909,+1%,"+$167,140",0.0,4.0,6.0,-42.0,OSTK
+874,,2011-05-23 15:28:41,2011-05-23,OSTK,Tabacco Joseph J Jr,Dir,S - Sale,$13.72,-3600,7650,-32%,"-$49,392",1.0,5.0,7.0,-41.0,OSTK
+875,,2011-05-23 13:31:45,2011-05-20,OSTK,Corbus Barclay F,Dir,S - Sale,$13.71,-2750,9250,-23%,"-$37,703",1.0,5.0,7.0,-41.0,OSTK
+876,,2011-05-19 19:35:00,2011-05-18,OSTK,Abraham Allison H,Dir,S - Sale,$13.82,-2400,11350,-17%,"-$33,168",-1.0,0.0,4.0,-39.0,OSTK
+877,M,2011-05-17 19:25:22,2011-05-13,OSTK,Chou Francis S M,10%,P - Purchase,$13.70,24000,2356709,+1%,"+$328,800",2.0,0.0,3.0,-39.0,OSTK
+878,D,2011-05-16 15:42:35,2011-05-13,OSTK,Corbus Barclay F,Dir,M - OptEx,$13.92,2500,12000,+26%,"+$34,800",-2.0,-1.0,3.0,-41.0,OSTK
+879,D,2011-05-16 15:23:34,2011-05-13,OSTK,Abraham Allison H,Dir,M - OptEx,$13.92,2500,13750,+22%,"+$34,800",-2.0,-1.0,3.0,-41.0,OSTK
+880,D,2011-05-16 15:22:14,2011-05-13,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$13.92,2500,11250,+29%,"+$34,800",-2.0,-1.0,3.0,-41.0,OSTK
+881,D,2011-05-12 17:47:08,2011-05-10,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$13.92,2500,8750,+40%,"+$34,800",-2.0,-2.0,-4.0,-43.0,OSTK
+882,D,2011-05-12 17:46:49,2011-05-10,OSTK,Corbus Barclay F,Dir,M - OptEx,$13.92,2500,9500,+36%,"+$34,800",-2.0,-2.0,-4.0,-43.0,OSTK
+883,D,2011-05-12 17:46:22,2011-05-10,OSTK,Byrne John Joseph,Dir,M - OptEx,$13.92,2500,1190357,0%,"+$34,800",-2.0,-2.0,-4.0,-43.0,OSTK
+884,D,2011-05-12 17:45:51,2011-05-10,OSTK,Abraham Allison H,Dir,M - OptEx,$13.92,2500,11250,+29%,"+$34,800",-2.0,-2.0,-4.0,-43.0,OSTK
+885,,2011-05-11 18:03:27,2011-05-09,OSTK,Chou Francis S M,10%,P - Purchase,$13.65,3000,2332709,0%,"+$40,959",2.0,-1.0,0.0,-41.0,OSTK
+886,D,2011-05-06 17:02:08,2011-05-06,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$13.65,1875,6250,+43%,"+$25,594",0.0,4.0,2.0,-40.0,OSTK
+887,D,2011-05-06 17:01:07,2011-05-06,OSTK,Corbus Barclay F,Dir,M - OptEx,$13.65,1875,7000,+37%,"+$25,594",0.0,4.0,2.0,-40.0,OSTK
+888,D,2011-05-06 16:58:32,2011-05-06,OSTK,Abraham Allison H,Dir,M - OptEx,$13.65,1875,8750,+27%,"+$25,594",0.0,4.0,2.0,-40.0,OSTK
+889,D,2011-02-04 14:10:51,2011-02-02,OSTK,Atkinson Geoffrey,"SVP, CRM, Demand Management",F - Tax,$15.01,-1186,11049,-10%,"-$17,802",0.0,-1.0,8.0,-24.0,OSTK
+890,D,2011-02-04 14:10:51,2011-02-02,OSTK,Atkinson Geoffrey,"SVP, CRM, Demand Management",M - OptEx,$15.01,3750,11049,+51%,"+$56,288",0.0,-1.0,8.0,-24.0,OSTK
+891,D,2011-02-04 14:10:31,2011-02-02,OSTK,Tryon Stephen P,SVP,F - Tax,$15.01,-1180,12058,-9%,"-$17,712",0.0,-1.0,8.0,-24.0,OSTK
+892,D,2011-02-04 14:10:31,2011-02-02,OSTK,Tryon Stephen P,SVP,M - OptEx,$15.01,3750,12058,+45%,"+$56,288",0.0,-1.0,8.0,-24.0,OSTK
+893,D,2011-02-04 14:09:44,2011-02-02,OSTK,Simon Stormy,"SVP, Marketing, Customer Care",F - Tax,$15.01,-1180,22345,-5%,"-$17,712",0.0,-1.0,8.0,-24.0,OSTK
+894,D,2011-02-04 14:09:44,2011-02-02,OSTK,Simon Stormy,"SVP, Marketing, Customer Care",M - OptEx,$15.01,3750,22345,+20%,"+$56,288",0.0,-1.0,8.0,-24.0,OSTK
+895,D,2011-02-04 14:08:38,2011-02-02,OSTK,Peterson Samuel J.,"SVP, Technology",F - Tax,$15.01,-1180,22253,-5%,"-$17,712",0.0,-1.0,8.0,-24.0,OSTK
+896,D,2011-02-04 14:08:38,2011-02-02,OSTK,Peterson Samuel J.,"SVP, Technology",M - OptEx,$15.01,3750,22253,+20%,"+$56,288",0.0,-1.0,8.0,-24.0,OSTK
+897,D,2011-02-04 14:08:09,2011-02-02,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",F - Tax,$15.01,-1337,5479,-20%,"-$20,068",0.0,-1.0,8.0,-24.0,OSTK
+898,D,2011-02-04 14:08:09,2011-02-02,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",M - OptEx,$15.01,3750,5479,+217%,"+$56,288",0.0,-1.0,8.0,-24.0,OSTK
+899,D,2011-02-04 14:07:36,2011-02-02,OSTK,Johnson Jonathan E III,Pres,F - Tax,$15.01,-1180,30844,-4%,"-$17,712",0.0,-1.0,8.0,-24.0,OSTK
+900,D,2011-02-04 14:07:36,2011-02-02,OSTK,Johnson Jonathan E III,Pres,M - OptEx,$15.01,3750,30844,+14%,"+$56,288",0.0,-1.0,8.0,-24.0,OSTK
+901,D,2011-02-04 14:07:06,2011-02-02,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$15.01,3750,6714264,0%,"+$56,288",0.0,-1.0,8.0,-24.0,OSTK
+902,DM,2011-01-18 19:01:03,2011-01-13,OSTK,Tryon Stephen P,SVP,F - Tax,$16.79,-3949,11925,-25%,"-$66,303",-6.0,-6.0,-14.0,-8.0,OSTK
+903,DM,2011-01-18 19:01:03,2011-01-13,OSTK,Tryon Stephen P,SVP,M - OptEx,$16.80,11000,11925,>999%,"+$184,760",-6.0,-6.0,-14.0,-8.0,OSTK
+904,DM,2011-01-18 19:00:02,2011-01-13,OSTK,Atkinson Geoffrey,"SVP, CRM, Demand Management",F - Tax,$16.76,-2354,8485,-22%,"-$39,458",-6.0,-6.0,-14.0,-8.0,OSTK
+905,DM,2011-01-18 19:00:02,2011-01-13,OSTK,Atkinson Geoffrey,"SVP, CRM, Demand Management",M - OptEx,$16.76,6250,8485,+280%,"+$104,763",-6.0,-6.0,-14.0,-8.0,OSTK
+906,DM,2011-01-18 18:59:28,2011-01-13,OSTK,Simon Stormy,"SVP, Marketing, Customer Care",F - Tax,$16.78,-4116,19775,-17%,"-$69,051",-6.0,-6.0,-14.0,-8.0,OSTK
+907,DM,2011-01-18 18:59:28,2011-01-13,OSTK,Simon Stormy,"SVP, Marketing, Customer Care",M - OptEx,$16.78,11500,19775,+139%,"+$193,015",-6.0,-6.0,-14.0,-8.0,OSTK
+908,DM,2011-01-18 18:58:52,2011-01-13,OSTK,Peterson Samuel J.,"SVP, Technology",F - Tax,$16.78,-4083,19683,-17%,"-$68,508",-6.0,-6.0,-14.0,-8.0,OSTK
+909,DM,2011-01-18 18:58:52,2011-01-13,OSTK,Peterson Samuel J.,"SVP, Technology",M - OptEx,$16.79,11400,19683,+138%,"+$191,364",-6.0,-6.0,-14.0,-8.0,OSTK
+910,DM,2011-01-18 18:58:11,2011-01-13,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$16.76,12500,6710514,0%,"+$209,525",-6.0,-6.0,-14.0,-8.0,OSTK
+911,D,2011-01-18 18:57:21,2011-01-13,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",F - Tax,$16.51,-942,3066,-24%,"-$15,552",-6.0,-6.0,-14.0,-8.0,OSTK
+912,D,2011-01-18 18:57:21,2011-01-13,OSTK,Chesnut Stephen J.,"SVP, Finance, Risk Mgmt.",M - OptEx,$16.51,2500,3066,+442%,"+$41,275",-6.0,-6.0,-14.0,-8.0,OSTK
+913,DM,2011-01-18 18:56:15,2011-01-13,OSTK,Johnson Jonathan E III,Pres,F - Tax,$16.78,-4083,28274,-13%,"-$68,508",-6.0,-6.0,-14.0,-8.0,OSTK
+914,DM,2011-01-18 18:56:15,2011-01-13,OSTK,Johnson Jonathan E III,Pres,M - OptEx,$16.79,11400,28274,+68%,"+$191,364",-6.0,-6.0,-14.0,-8.0,OSTK
+915,M,2010-05-24 16:23:59,2010-05-20,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",S - Sale,$22.25,-140000,5452127,-3%,"-$3,115,251",0.0,-1.0,-12.0,-40.0,OSTK
+916,AD,2010-05-19 19:33:24,2010-05-13,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$23.47,1250,9375,+15%,"+$29,338",-6.0,2.0,-2.0,-38.0,OSTK
+917,AD,2010-05-19 19:31:55,2010-05-13,OSTK,Corbus Barclay F,Dir,M - OptEx,$23.47,1250,5125,+32%,"+$29,338",-6.0,2.0,-2.0,-38.0,OSTK
+918,AD,2010-05-19 19:27:46,2010-05-13,OSTK,Abraham Allison H,Dir,M - OptEx,$23.47,1250,6875,+22%,"+$29,338",-6.0,2.0,-2.0,-38.0,OSTK
+919,D,2010-05-13 17:21:47,2010-05-13,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$23.47,1250,9375,+15%,"+$29,338",-3.0,-5.0,-7.0,-41.0,OSTK
+920,D,2010-05-13 17:20:08,2010-05-13,OSTK,Corbus Barclay F,Dir,M - OptEx,$23.47,1250,5125,+32%,"+$29,338",-3.0,-5.0,-7.0,-41.0,OSTK
+921,D,2010-05-13 17:19:04,2010-05-13,OSTK,Abraham Allison H,Dir,M - OptEx,$23.47,1250,6875,+22%,"+$29,338",-3.0,-5.0,-7.0,-41.0,OSTK
+922,AD,2010-05-10 18:22:45,2010-05-06,OSTK,Abraham Allison H,Dir,M - OptEx,$23.02,1875,5625,+50%,"+$43,163",1.0,-2.0,-13.0,-45.0,OSTK
+923,D,2010-05-10 17:27:29,2010-05-06,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$23.02,1875,8125,+30%,"+$43,163",1.0,-2.0,-13.0,-45.0,OSTK
+924,D,2010-05-10 17:26:06,2010-05-06,OSTK,Corbus Barclay F,Dir,M - OptEx,$23.02,1875,3875,+94%,"+$43,163",1.0,-2.0,-13.0,-45.0,OSTK
+925,D,2010-05-10 17:24:38,2010-05-06,OSTK,Abraham Allison H,Dir,M - OptEx,$23.02,1875,5625,+50%,"+$43,163",1.0,-2.0,-13.0,-45.0,OSTK
+926,DM,2010-01-15 16:18:41,2010-01-13,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$12.84,8750,1245887,+1%,"+$112,325",0.0,-4.0,-6.0,41.0,OSTK
+927,DM,2010-01-15 16:17:47,2010-01-13,OSTK,Johnson Jonathan E III,Pres,F - Tax,$12.82,-3034,20957,-13%,"-$38,903",0.0,-4.0,-6.0,41.0,OSTK
+928,DM,2010-01-15 16:17:47,2010-01-13,OSTK,Johnson Jonathan E III,Pres,M - OptEx,$12.82,7650,20957,+57%,"+$98,091",0.0,-4.0,-6.0,41.0,OSTK
+929,D,2010-01-15 16:16:38,2010-01-13,OSTK,Chesnut Stephen J.,"SVP, Finance",F - Tax,$12.94,-992,1508,-40%,"-$12,836",0.0,-4.0,-6.0,41.0,OSTK
+930,D,2010-01-15 16:16:38,2010-01-13,OSTK,Chesnut Stephen J.,"SVP, Finance",M - OptEx,$12.94,2500,1508,-252%,"+$32,350",0.0,-4.0,-6.0,41.0,OSTK
+931,DM,2010-01-15 16:15:21,2010-01-13,OSTK,Chidester David K,"SVP, Internal Reporting",F - Tax,$12.76,-1983,27514,-7%,"-$25,303",0.0,-4.0,-6.0,41.0,OSTK
+932,DM,2010-01-15 16:15:21,2010-01-13,OSTK,Chidester David K,"SVP, Internal Reporting",M - OptEx,$12.76,5000,27514,+22%,"+$63,800",0.0,-4.0,-6.0,41.0,OSTK
+933,D,2009-05-14 17:28:22,2009-05-13,OSTK,Abraham Allison H,Dir,M - OptEx,$10.43,1250,3750,+50%,"+$13,038",-3.0,4.0,4.0,42.0,OSTK
+934,D,2009-05-14 17:28:04,2009-05-13,OSTK,Corbus Barclay F,Dir,M - OptEx,$10.43,1250,2000,+167%,"+$13,038",-3.0,4.0,4.0,42.0,OSTK
+935,D,2009-05-14 17:27:47,2009-05-13,OSTK,Tabacco Joseph J Jr,Dir,M - OptEx,$10.43,1250,6250,+25%,"+$13,038",-3.0,4.0,4.0,42.0,OSTK
+936,D,2009-01-15 18:26:06,2009-01-14,OSTK,Chidester David K,"SVP, Internal Reporting",F - Tax,$9.25,-1487,24497,-6%,"-$13,755",1.0,-7.0,11.0,30.0,OSTK
+937,D,2009-01-15 18:26:06,2008-05-01,OSTK,Chidester David K,"SVP, Internal Reporting",G - Gift,$0.00,-2000,24497,-8%,-$0,1.0,-7.0,11.0,30.0,OSTK
+938,D,2009-01-15 18:26:06,2009-01-14,OSTK,Chidester David K,"SVP, Internal Reporting",M - OptEx,$9.25,3750,24497,+18%,"+$34,688",1.0,-7.0,11.0,30.0,OSTK
+939,D,2009-01-15 16:09:54,2009-01-14,OSTK,Johnson Jonathan E III,Pres,F - Tax,$9.25,-1487,16341,-8%,"-$13,755",1.0,-7.0,11.0,30.0,OSTK
+940,D,2009-01-15 16:09:54,2009-01-14,OSTK,Johnson Jonathan E III,Pres,M - OptEx,$9.25,3750,16341,+30%,"+$34,688",1.0,-7.0,11.0,30.0,OSTK
+941,D,2009-01-15 16:09:36,2009-01-14,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$9.25,3750,1237137,0%,"+$34,688",1.0,-7.0,11.0,30.0,OSTK
+942,D,2009-01-15 16:08:33,2009-01-14,OSTK,Joyce James V,Dir,F - Tax,$9.25,-1487,2969,-33%,"-$13,755",1.0,-7.0,11.0,30.0,OSTK
+943,D,2009-01-15 16:08:33,2009-01-14,OSTK,Joyce James V,Dir,M - OptEx,$9.25,3750,2969,-480%,"+$34,688",1.0,-7.0,11.0,30.0,OSTK
+944,D,2008-07-28 13:43:08,2008-07-25,OSTK,Johnson Jonathan E III,"SVP, Corporate Affairs, Legal",M - OptEx,$13.09,14078,16070,+707%,"+$184,281",-3.0,5.0,10.0,-48.0,OSTK
+945,D,2008-05-23 13:32:37,2008-05-22,OSTK,Chidester David K,"SVP, Finance",M - OptEx,$13.09,2766,27450,+11%,"+$36,207",0.0,-8.0,0.0,-71.0,OSTK
+946,D,2008-05-23 13:32:37,2008-05-22,OSTK,Chidester David K,"SVP, Finance",S - Sale+OE,$27.96,-2766,27450,-9%,"-$77,324",0.0,-8.0,0.0,-71.0,OSTK
+947,D,2008-04-25 15:26:41,2008-04-24,OSTK,Johnson Jonathan E III,"SVP, Corporate Affairs, Legal",M - OptEx,$8.54,14590,2088,-117%,"+$124,599",11.0,15.0,53.0,-39.0,OSTK
+948,D,2008-04-25 15:26:41,2008-04-24,OSTK,Johnson Jonathan E III,"SVP, Corporate Affairs, Legal",S - Sale+OE,$17.68,-14590,2088,-87%,"-$257,958",11.0,15.0,53.0,-39.0,OSTK
+949,,2008-04-25 13:59:22,2008-04-23,OSTK,Johnson Jonathan E III,"SVP, Corporate Affairs, Legal",S - Sale,$16.94,-41332,2088,-95%,"-$700,004",11.0,15.0,53.0,-39.0,OSTK
+950,,2008-02-01 12:56:24,2008-01-31,OSTK,Tabacco Joseph J Jr,Dir,P - Purchase,$10.90,5000,5000,New,"+$54,500",5.0,-2.0,-1.0,70.0,OSTK
+951,,2008-01-16 13:35:27,2007-11-27,OSTK,Lindsey Jason C,Former officer and director,G - Gift,$0.00,-2000,172238,-1%,-$0,3.0,-13.0,3.0,140.0,OSTK
+952,D,2007-10-01 15:18:27,2007-09-28,OSTK,Johnson Jonathan E III,"SVP, Corporate Affairs, Legal",M - OptEx,$5.13,41332,41332,New,"+$211,970",10.0,12.0,32.0,-58.0,OSTK
+953,,2007-08-08 15:37:19,2007-08-07,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",P - Purchase,$21.90,10000,6825514,0%,"+$219,042",-5.0,-5.0,6.0,-54.0,OSTK
+954,D,2007-05-15 16:16:13,2007-04-13,OSTK,Lindsey Jason C,Pres,G - Gift,$0.00,-260000,174238,-303%,-$0,7.0,6.0,9.0,87.0,OSTK
+955,D,2007-05-15 16:16:13,2007-05-11,OSTK,Lindsey Jason C,Pres,M - OptEx,$8.54,2002,174238,+1%,"+$17,097",7.0,6.0,9.0,87.0,OSTK
+956,D,2007-05-15 16:16:13,2007-05-14,OSTK,Lindsey Jason C,Pres,P - Purchase,$17.41,10400,174238,+6%,"+$181,100",7.0,6.0,9.0,87.0,OSTK
+957,,2007-05-11 18:06:06,2007-05-10,OSTK,Abraham Allison H,Dir,S - Sale,$17.22,-15000,2500,-86%,"-$258,263",-3.0,4.0,4.0,90.0,OSTK
+958,D,2007-04-20 11:11:31,2007-04-17,OSTK,Abraham Allison H,Dir,M - OptEx,$11.90,15000,17500,+600%,"+$178,542",2.0,12.0,6.0,72.0,OSTK
+959,AD,2007-01-19 13:33:00,2007-01-18,OSTK,Chidester David K,"SVP, Finance",M - OptEx,$5.07,9881,24234,+69%,"+$50,097",0.0,2.0,26.0,36.0,OSTK
+960,DM,2007-01-19 13:24:25,2006-01-31,OSTK,Lindsey Jason C,Pres,G - Gift,$0.00,-15000,161836,-8%,-$0,0.0,2.0,26.0,36.0,OSTK
+961,D,2007-01-19 13:24:25,2007-01-17,OSTK,Lindsey Jason C,Pres,M - OptEx,$5.07,4129,161836,+3%,"+$20,934",0.0,2.0,26.0,36.0,OSTK
+962,D,2007-01-19 12:17:55,2007-09-18,OSTK,Chidester David K,"SVP, Finance",M - OptEx,$5.07,9881,24234,+69%,"+$50,097",0.0,2.0,26.0,36.0,OSTK
+963,D,2007-01-11 16:28:03,2007-01-09,OSTK,Macklin Gordon S,Dir,M - OptEx,$5.07,7058,312070,+2%,"+$35,784",0.0,-4.0,13.0,27.0,OSTK
+964,D,2007-01-05 19:17:58,2007-01-04,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$5.07,119972,6815514,+2%,"+$608,258",-1.0,0.0,-2.0,23.0,OSTK
+965,,2006-12-18 17:17:13,2006-12-15,OSTK,Fairfax Financial Holdings Ltd/ Can,10%,P - Purchase,$14.63,1025307,3388774,+43%,"+$15,000,241",8.0,10.0,-4.0,24.0,OSTK
+966,D,2006-09-14 16:15:30,2006-09-13,OSTK,Lindsey Jason C,Pres,M - OptEx,$2.84,424,172707,0%,"+$1,204",-1.0,-5.0,-9.0,-14.0,OSTK
+967,D,2006-07-21 16:30:20,2006-07-20,OSTK,Byrne Patrick Michael,"COB, CEO, 10%",M - OptEx,$5.07,17643,6695542,0%,"+$89,450",2.0,-8.0,-8.0,-19.0,OSTK
+968,D,2006-02-22 11:28:42,2006-02-17,OSTK,Chidester David K,"SVP, Finance",M - OptEx,$4.53,11572,14353,+416%,"+$52,435",-3.0,-10.0,20.0,-29.0,OSTK
+969,D,2006-02-17 13:36:04,2006-02-15,OSTK,Martin Russel W,"VP Merchandising, Operations",M - OptEx,$5.07,4447,4801,>999%,"+$22,546",-2.0,-8.0,11.0,-31.0,OSTK
+970,A,2005-12-09 19:12:47,2005-12-01,OSTK,Byrne Patrick,"Pres, 10%",P - Purchase,$38.30,6722,6677899,0%,"+$257,483",-1.0,-5.0,-28.0,-44.0,OSTK
+971,AM,2005-12-09 18:38:32,2005-11-30,OSTK,Byrne Patrick,"Pres, 10%",P - Purchase,$37.40,53278,1079050,+5%,"+$1,992,509",-1.0,-5.0,-28.0,-44.0,OSTK
+972,,2005-12-01 19:27:02,2005-12-01,OSTK,Byrne Patrick,"Pres, 10%",P - Purchase,$38.30,6722,1152331,+1%,"+$257,483",6.0,4.0,-27.0,-44.0,OSTK
+973,M,2005-12-01 19:22:10,2005-11-30,OSTK,Byrne Patrick,"Pres, 10%",P - Purchase,$37.40,53278,1145609,+5%,"+$1,992,509",6.0,4.0,-27.0,-44.0,OSTK
+974,,2005-11-09 10:59:55,2005-11-07,OSTK,Lindsey Jason C,Dir,P - Purchase,$33.62,10000,172283,+6%,"+$336,224",2.0,0.0,21.0,-29.0,OSTK
+975,,2005-11-07 16:33:53,2005-11-03,OSTK,Lindsey Jason C,Dir,P - Purchase,$33.33,10000,162283,+7%,"+$333,300",-2.0,0.0,18.0,-24.0,OSTK
+976,,2005-09-12 19:19:42,2005-09-12,OSTK,Schwegman Shawn,"SVP, Technology",S - Sale,$41.00,-2700,1063,-72%,"-$110,700",-1.0,-3.0,-23.0,-46.0,OSTK
+977,D,2005-09-12 15:58:45,2005-09-12,OSTK,High Plains Investments LLC,10%,X - OptEx,$4.26,330396,5525571,-6%,"$1,407,487",9.0,6.0,-14.0,-37.0,OSTK
+978,D,2005-09-12 15:58:22,2005-09-12,OSTK,Byrne Patrick Michael,"Pres, 10%",X - OptEx,$4.26,330396,6753033,-5%,"$1,407,487",9.0,6.0,-14.0,-37.0,OSTK
+979,D,2005-09-02 16:05:09,2005-08-31,OSTK,Macklin Gordon S,Dir,X - OptEx,$4.26,17048,305012,-5%,"$72,624",-1.0,-4.0,-7.0,-47.0,OSTK
+980,,2005-09-01 16:09:30,2005-08-31,OSTK,Byrne John Joseph,Dir,P - Purchase,$40.31,85456,867090,+11%,"+$3,444,850",5.0,1.0,-4.0,-44.0,OSTK
+981,M,2005-09-01 16:08:23,2005-08-30,OSTK,Byrne John Joseph,Dir,P - Purchase,$40.12,65064,114544,+131%,"+$2,610,503",5.0,1.0,-4.0,-44.0,OSTK
+982,D,2005-09-01 16:07:28,2005-08-30,OSTK,Byrne John Joseph,Dir,P - Purchase,$40.08,49480,593025,+9%,"+$1,983,108",5.0,1.0,-4.0,-44.0,OSTK
+983,,2005-08-16 12:15:27,2005-08-15,OSTK,Byrne Patrick Michael,"Pres, 10%",P - Purchase,$47.27,5500,6422637,0%,"+$260,012",-4.0,-9.0,-5.0,-44.0,OSTK
+984,,2005-08-16 12:13:36,2005-08-15,OSTK,Byrne Patrick Michael,"Pres, 10%",P - Purchase,$46.88,14500,1020272,+1%,"+$679,780",-4.0,-9.0,-5.0,-44.0,OSTK
+985,M,2005-08-11 07:04:58,2005-08-09,OSTK,Byrne Patrick Michael,"Pres, 10%",P - Purchase,$41.96,30000,6402637,0%,"+$1,258,855",4.0,3.0,-4.0,-40.0,OSTK
+986,AD,2005-06-13 17:49:00,2004-05-25,OSTK,Schwegman Shawn,VP Technology,M - OptEx,$7.09,10586,3748,-155%,"+$75,055",0.0,-2.0,1.0,1.0,OSTK
+987,ADM,2005-06-13 17:49:00,2004-05-25,OSTK,Schwegman Shawn,VP Technology,S - Sale+OE,$36.01,-14586,3748,-80%,"-$525,205",0.0,-2.0,1.0,1.0,OSTK
+988,D,2005-05-12 12:05:17,2005-05-10,OSTK,Chidester David K,"SVP, Finance",M - OptEx,$7.09,1412,2781,+103%,"+$10,011",3.0,13.0,14.0,-6.0,OSTK
+989,D,2005-04-27 16:12:51,2005-04-25,OSTK,High Plains Investments LLC,10%,X - OptEx,$7.09,299140,5195172,-5%,"$2,120,903",-1.0,4.0,16.0,0.0,OSTK
+990,D,2005-04-27 16:11:46,2005-04-25,OSTK,Byrne Patrick Michael,"Pres, 10%",X - OptEx,$7.09,299140,6372637,-4%,"$2,120,903",-1.0,4.0,16.0,0.0,OSTK
+991,DM,2005-04-27 15:42:03,2005-04-25,OSTK,Byrne John Joseph,Dir,X - OptEx,$5.56,54775,1210635,-4%,"$304,533",0.0,4.0,16.0,0.0,OSTK
+992,D,2005-03-01 16:40:41,2005-02-28,OSTK,Byrne Patrick Michael,"Pres, 10%",M - OptEx,$7.09,21172,6073497,0%,"+$150,109",1.0,3.0,-15.0,-21.0,OSTK
+993,DM,2005-02-25 14:23:15,2005-02-24,OSTK,Macklin Gordon S,Dir,X - OptEx,$7.09,18982,287964,-6%,"$134,582",2.0,-1.0,-18.0,-24.0,OSTK
+994,,2005-02-15 17:25:34,2005-02-03,OSTK,High Plains Investments LLC,10%,P - Purchase,$48.61,20000,5097725,0%,"+$972,207",2.0,-8.0,-20.0,-21.0,OSTK
+995,A,2005-02-15 17:25:12,2005-02-03,OSTK,Byrne Patrick Michael,"Pres, 10%",P - Purchase,$48.61,20000,5850632,0%,"+$972,207",2.0,-8.0,-20.0,-21.0,OSTK
+996,D,2005-02-11 15:52:28,2005-02-09,OSTK,Macklin Gordon S,Dir,S - Sale+OE,$54.09,-10000,268982,-4%,"-$540,900",2.0,6.0,-15.0,-17.0,OSTK
+997,D,2005-02-11 15:52:28,2004-09-20,OSTK,Macklin Gordon S,Dir,X - OptEx,$3.69,21172,268982,-7%,"$78,125",2.0,6.0,-15.0,-17.0,OSTK
+998,A,2005-02-09 13:01:15,2005-02-07,OSTK,Byrne John Joseph,Dir,P - Purchase,$54.76,2750,612315,0%,"+$150,592",1.0,5.0,-9.0,-21.0,OSTK
+999,,2005-02-04 13:55:44,2005-02-03,OSTK,Byrne Patrick Michael,"Pres, 10%",P - Purchase,$48.61,20000,5850632,0%,"+$972,207",11.0,8.0,9.0,-13.0,OSTK
+1000,DM,2005-02-04 13:54:07,2005-02-02,OSTK,Byrne John Joseph,Dir,P - Purchase,$47.51,20000,6797815,0%,"+$950,250",11.0,8.0,9.0,-13.0,OSTK
+1001,,2005-02-02 16:56:36,2005-02-01,OSTK,Fisher John A,Dir,P - Purchase,$49.00,1000,2000,+100%,"+$49,000",0.0,11.0,7.0,-10.0,OSTK
+1002,,2004-02-19 10:27:15,2004-02-17,OSTK,Byrne Patrick Michael,"Pres, 10%",P - Purchase,$21.45,198010,5830632,+4%,"+$4,247,032",-6.0,17.0,24.0,35.0,OSTK
+1003,,2004-02-19 10:20:06,2004-02-17,OSTK,Byrne Patrick Michael,"Pres, 10%",P - Purchase,$21.16,239890,5632622,+4%,"+$5,076,437",-6.0,17.0,24.0,35.0,OSTK
+1004,,2004-02-19 10:12:20,2004-02-17,OSTK,Byrne Patrick Michael,"Pres, 10%",P - Purchase,$20.69,134906,5392732,+3%,"+$2,790,576",-6.0,17.0,24.0,35.0,OSTK
+1005,,2004-02-19 09:56:43,2004-02-17,OSTK,Byrne Patrick Michael,"Pres, 10%",F - Tax,$20.25,-300,5257826,0%,"-$6,074",-6.0,17.0,24.0,35.0,OSTK
+1006,,2004-02-19 09:56:43,2004-02-17,OSTK,Byrne Patrick Michael,"Pres, 10%",P - Purchase,$19.94,46894,5257826,+1%,"+$934,905",-6.0,17.0,24.0,35.0,OSTK
+1007,D,2004-01-27 15:11:20,2003-09-08,OSTK,Chidester David K,CFO,G - Gift,$16.05,-100,0,-100%,"-$1,605",7.0,-7.0,46.0,86.0,OSTK
+1008,M,2003-08-26 10:42:44,2003-08-25,OSTK,Byrne Patrick Michael,"Pres, CEO, 10%",P - Purchase,$12.44,88300,5212432,+2%,"+$1,098,081",8.0,20.0,35.0,127.0,OSTK
+1009,M,2003-08-26 10:41:54,2003-08-25,OSTK,Byrne Patrick Michael,"Pres, CEO, 10%",P - Purchase,$12.26,67228,5124132,+1%,"+$824,483",8.0,20.0,35.0,127.0,OSTK
+1010,M,2003-08-26 10:40:49,2003-08-21,OSTK,Byrne Patrick Michael,"Pres, CEO, 10%",P - Purchase,$11.91,34600,4912432,+1%,"+$411,935",8.0,20.0,35.0,127.0,OSTK
+1011,,2003-08-26 10:40:05,2003-08-25,OSTK,Byrne Patrick Michael,"Pres, CEO, 10%",P - Purchase,$11.72,144472,5056904,+3%,"+$1,693,758",8.0,20.0,35.0,127.0,OSTK

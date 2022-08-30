@@ -1,20 +1,48 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-03-28 20:36:51,2022-03-25,LSEA,Zhou Qin,Dir,P - Purchase,$8.91,20000,32241,+163%,"+$178,200",,,,,LSEA
-1,,2022-03-18 17:20:53,2022-03-16,LSEA,Reed Scott A.,Dir,P - Purchase,$8.33,7500,46671,+19%,"+$62,475",,,,,LSEA
-2,,2022-03-18 14:55:12,2022-03-17,LSEA,Ho John,CEO,P - Purchase,$8.91,30769,498140,+7%,"+$274,152",,,,,LSEA
-3,,2022-03-18 14:53:21,2022-03-17,LSEA,Zhou Qin,Dir,P - Purchase,$8.89,570,12241,+5%,"+$5,067",,,,,LSEA
-4,,2022-03-16 19:02:10,2022-03-14,LSEA,Fadule Mollie,Dir,P - Purchase,$7.56,15000,15000,New,"+$113,400",,,,,LSEA
-5,M,2022-03-15 20:45:31,2022-03-14,LSEA,Ho John,CEO,P - Purchase,$7.77,65248,467371,+16%,"+$506,833",,,,,LSEA
-6,,2022-03-15 20:43:09,2022-03-14,LSEA,Forsum Michael,"Pres, COO",P - Purchase,$7.33,27300,410240,+7%,"+$200,109",,,,,LSEA
-7,,2022-03-15 20:40:49,2022-03-14,LSEA,Frank Bruce D,Dir,P - Purchase,$7.78,5000,22162,+29%,"+$38,900",,,,,LSEA
-8,,2022-03-15 20:38:32,2022-03-14,LSEA,Porter Christopher T,CFO,P - Purchase,$7.73,38000,38000,New,"+$293,740",,,,,LSEA
-9,,2021-11-24 12:13:42,2021-11-23,LSEA,Farhat Elias,Dir,P - Purchase,$8.27,5000,2255924,0%,"+$41,350",,,,,LSEA
-10,,2021-11-22 17:48:05,2021-11-19,LSEA,Hartfield Thomas,Dir,P - Purchase,$8.49,750,21912,+4%,"+$6,368",,,,,LSEA
-11,M,2021-11-18 20:02:21,2021-11-17,LSEA,Hartfield Thomas,Dir,P - Purchase,$8.51,1000,21162,+5%,"+$8,510",,,,,LSEA
-12,,2021-09-10 12:27:43,2021-09-08,LSEA,Miller Robert S,Dir,P - Purchase,$9.00,2500,19662,+15%,"+$22,500",,,,,LSEA
-13,M,2021-08-17 17:10:34,2021-08-16,LSEA,Farhat Elias,Dir,P - Purchase,$8.75,10000,2250924,0%,"+$87,453",,,,,LSEA
-14,M,2021-08-16 16:18:54,2021-08-12,LSEA,Hartfield Thomas,Dir,P - Purchase,$8.90,3000,20162,+17%,"+$26,690",,,,,LSEA
-15,M,2021-08-13 16:08:16,2021-08-11,LSEA,Reed Scott A.,Dir,P - Purchase,$8.98,14000,39171,+56%,"+$125,685",,,,,LSEA
-16,,2021-05-12 16:16:38,2021-05-11,LSEA,Reed Scott A.,Dir,P - Purchase,$9.12,13500,13500,New,"+$123,120",,,,,LSEA
-17,,2021-05-12 16:13:49,2021-05-11,LSEA,Farhat Elias,Dir,P - Purchase,$9.08,1418,2229253,0%,"+$12,875",,,,,LSEA
-18,M,2020-07-09 16:29:13,2020-07-07,LFAC,"Glazer Capital, LLC",10%,S - Sale,$10.60,-650361,1249396,-34%,"-$6,895,145",,,,,LSEA
+0,,2022-03-16 19:02:10,2022-03-14,LSEA,Fadule Mollie,Dir,P - Purchase,$7.56,15000,15000,New,"+$113,400",,,,,LSEA
+1,,2022-03-15 20:45:31,2022-03-15,LSEA,Ho John,CEO,F - Tax,$7.86,-20544,467371,-4%,"-$161,476",,,,,LSEA
+2,M,2022-03-15 20:45:31,2022-03-14,LSEA,Ho John,CEO,P - Purchase,$7.77,65248,467371,+16%,"+$506,833",,,,,LSEA
+3,,2022-03-15 20:43:09,2022-03-15,LSEA,Forsum Michael,"Pres, COO",F - Tax,$7.86,-13357,410240,-3%,"-$104,986",,,,,LSEA
+4,,2022-03-15 20:43:09,2022-03-14,LSEA,Forsum Michael,"Pres, COO",P - Purchase,$7.33,27300,410240,+7%,"+$200,109",,,,,LSEA
+5,,2022-03-15 20:40:49,2022-03-14,LSEA,Frank Bruce D,Dir,P - Purchase,$7.78,5000,22162,+29%,"+$38,900",,,,,LSEA
+6,,2022-03-15 20:38:32,2022-03-14,LSEA,Porter Christopher T,CFO,P - Purchase,$7.73,38000,38000,New,"+$293,740",,,,,LSEA
+7,,2022-03-03 17:37:17,2022-03-01,LSEA,Ho John,CEO,A - Grant,$0.00,65957,422667,+18%,+$0,,,,,LSEA
+8,,2022-03-03 17:37:17,2022-03-02,LSEA,Ho John,CEO,F - Tax,$6.46,-32702,422667,-7%,"-$211,255",,,,,LSEA
+9,,2022-03-03 17:34:26,2022-03-01,LSEA,Tenerelli Franco,"EVP, CLO, Secretary",A - Grant,$0.00,10638,17597,+153%,+$0,,,,,LSEA
+10,,2022-03-03 17:34:26,2022-03-02,LSEA,Tenerelli Franco,"EVP, CLO, Secretary",F - Tax,$6.46,-3679,17597,-17%,"-$23,766",,,,,LSEA
+11,,2022-03-03 17:32:18,2022-03-01,LSEA,Forsum Michael,"Pres, COO",A - Grant,$0.00,59575,396297,+18%,+$0,,,,,LSEA
+12,,2022-03-03 17:32:18,2022-03-02,LSEA,Forsum Michael,"Pres, COO",F - Tax,$6.46,-26392,396297,-6%,"-$170,492",,,,,LSEA
+13,,2021-11-24 12:13:42,2021-11-23,LSEA,Farhat Elias,Dir,P - Purchase,$8.27,5000,2255924,0%,"+$41,350",,,,,LSEA
+14,,2021-11-22 17:48:05,2021-11-19,LSEA,Hartfield Thomas,Dir,P - Purchase,$8.49,750,21912,+4%,"+$6,368",,,,,LSEA
+15,M,2021-11-18 20:02:21,2021-11-17,LSEA,Hartfield Thomas,Dir,P - Purchase,$8.51,1000,21162,+5%,"+$8,510",,,,,LSEA
+16,,2021-09-10 12:27:43,2021-09-08,LSEA,Miller Robert S,Dir,P - Purchase,$9.00,2500,19662,+15%,"+$22,500",,,,,LSEA
+17,M,2021-08-17 17:10:34,2021-08-16,LSEA,Farhat Elias,Dir,P - Purchase,$8.75,10000,2250924,0%,"+$87,453",,,,,LSEA
+18,M,2021-08-16 16:18:54,2021-08-12,LSEA,Hartfield Thomas,Dir,P - Purchase,$8.90,3000,20162,+17%,"+$26,690",,,,,LSEA
+19,M,2021-08-13 16:08:16,2021-08-11,LSEA,Reed Scott A.,Dir,P - Purchase,$8.98,14000,39171,+56%,"+$125,685",,,,,LSEA
+20,,2021-07-29 17:39:23,2021-07-27,LSEA,Hartfield Thomas,Dir,A - Grant,$0.00,11671,17162,+213%,+$0,,,,,LSEA
+21,,2021-07-29 17:37:10,2021-07-27,LSEA,Chang Tim T,Dir,A - Grant,$0.00,11671,11671,New,+$0,,,,,LSEA
+22,,2021-07-29 17:33:24,2021-07-27,LSEA,Miller Robert S,Dir,A - Grant,$0.00,11671,17162,+213%,+$0,,,,,LSEA
+23,,2021-07-29 17:30:19,2021-07-27,LSEA,Farhat Elias,Dir,A - Grant,$0.00,11671,2240924,+1%,+$0,,,,,LSEA
+24,,2021-07-29 17:27:59,2021-07-27,LSEA,Reed Scott A.,Dir,A - Grant,$0.00,11671,25171,+86%,+$0,,,,,LSEA
+25,,2021-07-29 17:25:24,2021-07-27,LSEA,Frank Bruce D,Dir,A - Grant,$0.00,11671,17162,+213%,+$0,,,,,LSEA
+26,,2021-07-29 17:22:42,2021-07-27,LSEA,Zhou Qin,Dir,A - Grant,$0.00,11671,11671,New,+$0,,,,,LSEA
+27,,2021-05-12 16:16:38,2021-05-11,LSEA,Reed Scott A.,Dir,P - Purchase,$9.12,13500,13500,New,"+$123,120",,,,,LSEA
+28,,2021-05-12 16:13:49,2021-05-11,LSEA,Farhat Elias,Dir,P - Purchase,$9.08,1418,2229253,0%,"+$12,875",,,,,LSEA
+29,,2021-04-21 16:20:50,2021-04-19,LSEA,Forsum Michael,"Pres, COO",A - Grant,$0.00,59574,363114,+20%,+$0,,,,,LSEA
+30,,2021-04-21 16:12:39,2021-04-19,LSEA,Tenerelli Franco,"EVP, CLO, Secretary",A - Grant,$0.00,10638,10638,New,+$0,,,,,LSEA
+31,,2021-04-21 16:12:25,2021-04-19,LSEA,Ho John,CEO,A - Grant,$0.00,65957,389412,+20%,+$0,,,,,LSEA
+32,,2021-04-21 16:11:57,2021-04-19,LSEA,Tenerelli Franco,"EVP, CLO, Secretary",A - Grant,$0.00,10638,10638,New,+$0,,,,,LSEA
+33,,2021-04-01 16:25:14,2021-03-30,LSEA,Ho John,CEO,A - Grant,$0.00,237894,323455,+278%,+$0,,,,,LSEA
+34,,2021-04-01 16:21:51,2021-03-30,LSEA,Forsum Michael,"Pres, COO",A - Grant,$0.00,226536,303540,+294%,+$0,,,,,LSEA
+35,,2021-01-13 21:44:50,2021-01-07,LSEA,Miller Robert S,Dir,A - Grant,$0.00,5491,5491,New,+$0,,,,,LSEA
+36,,2021-01-13 21:40:36,2021-01-07,LSEA,Landsea Holdings Corp,10%,D - Sale to issuer,$0.00,-179038,32878265,-1%,-$0,,,,,LSEA
+37,,2021-01-11 21:41:31,2021-01-07,LSEA,Tian Ming,"Dir, 10%",D - Sale to issuer,$0.00,-179038,32878265,-1%,-$0,,,,,LSEA
+38,,2021-01-11 21:26:43,2021-01-07,LSEA,Hartfield Thomas,Dir,A - Grant,$0.00,5491,5491,New,+$0,,,,,LSEA
+39,,2021-01-11 21:26:15,2021-01-07,LSEA,Forsum Michael,"Pres, COO",A - Grant,$0.00,77004,77004,New,+$0,,,,,LSEA
+40,,2021-01-11 21:25:33,2021-01-07,LSEA,Ho John,CEO,A - Grant,$0.00,85561,85561,New,+$0,,,,,LSEA
+41,,2021-01-11 21:25:11,2021-01-07,LSEA,Frank Bruce D,Dir,A - Grant,$0.00,5491,5491,New,+$0,,,,,LSEA
+42,D,2021-01-11 21:02:30,2021-01-07,LSEA,"Level Field Capital, LLC",10%,C - Converted deriv,$0.00,2227835,2227835,-50%,$0,,,,,LSEA
+43,D,2021-01-11 21:02:30,2021-01-07,LSEA,"Level Field Capital, LLC",10%,D - Sale to issuer,$0.00,-500000,2227835,-18%,-$0,,,,,LSEA
+44,D,2021-01-11 21:01:55,2021-01-07,LSEA,Farhat Elias,"Dir, 10%",C - Converted deriv,$0.00,2227835,2227835,-50%,$0,,,,,LSEA
+45,D,2021-01-11 21:01:55,2021-01-07,LSEA,Farhat Elias,"Dir, 10%",D - Sale to issuer,$0.00,-500000,2227835,-18%,-$0,,,,,LSEA
+46,M,2020-07-09 16:29:13,2020-07-07,LFAC,"Glazer Capital, LLC",10%,S - Sale,$10.60,-650361,1249396,-34%,"-$6,895,145",,,,,LSEA

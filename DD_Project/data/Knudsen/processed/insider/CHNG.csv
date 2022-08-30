@@ -1,11 +1,106 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2021-11-23 16:48:57,2021-11-19,CHNG,Rareshide Paul,"SVP, Corporate Controller",S - Sale,20.6,-4579,29362,-13%,-94329.0,,,,,CHNG
-1,,2021-11-15 17:20:29,2021-11-11,CHNG,Martin Steven B.,"EVP, Enterprise Technology",S - Sale,21.35,-8857,262168,-3%,-189102.0,,,,,CHNG
-2,,2020-06-12 18:29:29,2020-06-10,CHNG,Eliasson Fredrik J,"EVP, CFO",P - Purchase,12.0,100000,157313,+174%,1200000.0,,,,,CHNG
-3,,2019-08-19 16:32:09,2019-08-15,CHNG,De Crescenzo Neil E.,"Pres, CEO",P - Purchase,14.17,75000,198872,+61%,1062750.0,,,,,CHNG
-4,,2019-08-19 16:30:29,2019-08-15,CHNG,Eliasson Fredrik J,"EVP, CFO",P - Purchase,13.73,40000,70000,+133%,549200.0,,,,,CHNG
-5,,2019-07-03 16:34:46,2019-07-01,CHNG,Nagji Bansi,Dir,P - Purchase,13.0,5000,5000,New,65000.0,,,,,CHNG
-6,,2019-07-03 16:33:28,2019-07-01,CHNG,O'Reilly Roderick H.,See Remarks,P - Purchase,13.0,2000,2000,New,26000.0,,,,,CHNG
-7,,2019-07-03 16:28:07,2019-07-01,CHNG,McEnery Thomas,"EVP, CMO",P - Purchase,13.0,1000,1000,New,13000.0,,,,,CHNG
-8,,2019-07-03 16:27:37,2019-07-01,CHNG,Eliasson Fredrik J,"EVP, CFO",P - Purchase,13.0,30000,30000,New,390000.0,,,,,CHNG
-9,,2019-07-03 16:24:39,2019-07-01,CHNG,Calhoun August,See Remarks,P - Purchase,13.0,1000,1000,New,13000.0,,,,,CHNG
+0,AM,2022-02-25 16:43:35,2020-08-20,CHNG,Rareshide Paul,"SVP, Corporate Controller",F - Tax,19.73,-1974,27388,-7%,-38939.0,,,,,CHNG
+1,AM,2022-02-25 16:43:13,2020-08-20,CHNG,Laur Thomas,See Remarks,F - Tax,20.98,-27845,122789,-18%,-584322.0,,,,,CHNG
+2,AM,2022-02-25 16:42:35,2020-08-20,CHNG,O'Reilly Roderick H.,See Remarks,F - Tax,21.11,-34886,122112,-22%,-736500.0,,,,,CHNG
+3,AM,2022-02-25 16:42:01,2020-08-20,CHNG,Eliasson Fredrik J,"EVP, CFO",F - Tax,21.13,-62335,476384,-12%,-1316826.0,,,,,CHNG
+4,DM,2022-02-25 16:41:54,2020-08-20,CHNG,Joshi Kriten,See Remarks,D - Sale to issuer,19.86,-31031,276785,-10%,-616331.0,,,,,CHNG
+5,DM,2022-02-25 16:41:54,2020-08-20,CHNG,Joshi Kriten,See Remarks,M - OptEx,0.0,31031,276785,+13%,0.0,,,,,CHNG
+6,ADM,2022-02-25 16:40:23,2020-08-20,CHNG,McEnery Thomas,"EVP, CMO",D - Sale to issuer,20.1,-34086,153674,-18%,-685211.0,,,,,CHNG
+7,AD,2022-02-25 16:40:23,2021-12-28,CHNG,McEnery Thomas,"EVP, CMO",F - Tax,21.44,-11301,153674,-7%,-242293.0,,,,,CHNG
+8,ADM,2022-02-25 16:40:23,2020-08-20,CHNG,McEnery Thomas,"EVP, CMO",M - OptEx,7.29,91743,153674,+148%,668821.0,,,,,CHNG
+9,AM,2022-02-25 16:40:05,2021-04-13,CHNG,Martin Steven B.,"EVP, Enterprise Technology",F - Tax,22.7,-14754,247414,-6%,-334855.0,,,,,CHNG
+10,ADM,2022-02-25 16:39:05,2020-08-20,CHNG,De Crescenzo Neil E.,"Pres, CEO",D - Sale to issuer,20.03,-215171,848246,-20%,-4310451.0,,,,,CHNG
+11,AD,2022-02-25 16:39:05,2021-12-28,CHNG,De Crescenzo Neil E.,"Pres, CEO",F - Tax,21.44,-54389,848246,-6%,-1166100.0,,,,,CHNG
+12,ADM,2022-02-25 16:39:05,2020-08-20,CHNG,De Crescenzo Neil E.,"Pres, CEO",M - OptEx,0.0,215171,848246,+34%,0.0,,,,,CHNG
+13,ADM,2022-02-25 16:38:15,2020-08-20,CHNG,Whitley-Taylor Linda,"EVP, Chief People Officer",D - Sale to issuer,20.15,-33048,99935,-25%,-665807.0,,,,,CHNG
+14,AD,2022-02-25 16:38:15,2021-12-28,CHNG,Whitley-Taylor Linda,"EVP, Chief People Officer",F - Tax,21.44,-9066,99935,-8%,-194375.0,,,,,CHNG
+15,ADM,2022-02-25 16:38:15,2020-08-20,CHNG,Whitley-Taylor Linda,"EVP, Chief People Officer",M - OptEx,0.0,33048,99935,+49%,0.0,,,,,CHNG
+16,AM,2022-02-25 16:26:17,2020-08-20,CHNG,Calhoun August,See Remarks,F - Tax,20.92,-30288,120517,-20%,-633585.0,,,,,CHNG
+17,,2021-12-30 18:05:56,2021-12-28,CHNG,De Crescenzo Neil E.,"Pres, CEO",A - Grant,0.0,187990,1016649,+23%,0.0,,,,,CHNG
+18,,2021-12-30 18:05:56,2021-12-28,CHNG,De Crescenzo Neil E.,"Pres, CEO",F - Tax,21.44,-73976,1016649,-7%,-1586045.0,,,,,CHNG
+19,,2021-12-30 18:05:33,2021-12-28,CHNG,O'Reilly Roderick H.,See Remarks,A - Grant,0.0,38750,176449,+28%,0.0,,,,,CHNG
+20,,2021-12-30 18:05:33,2021-12-28,CHNG,O'Reilly Roderick H.,See Remarks,F - Tax,21.44,-19299,176449,-10%,-413771.0,,,,,CHNG
+21,,2021-12-30 18:04:34,2021-12-28,CHNG,Whitley-Taylor Linda,"EVP, Chief People Officer",A - Grant,0.0,30395,127434,+31%,0.0,,,,,CHNG
+22,,2021-12-30 18:04:34,2021-12-28,CHNG,Whitley-Taylor Linda,"EVP, Chief People Officer",F - Tax,21.44,-11962,127434,-9%,-256465.0,,,,,CHNG
+23,D,2021-12-30 18:04:19,2021-12-28,CHNG,McEnery Thomas,"EVP, CMO",A - Grant,0.0,30741,180642,+21%,0.0,,,,,CHNG
+24,D,2021-12-30 18:04:19,2021-12-28,CHNG,McEnery Thomas,"EVP, CMO",F - Tax,21.44,-15074,180642,-8%,-323187.0,,,,,CHNG
+25,D,2021-12-30 18:04:19,2021-12-29,CHNG,McEnery Thomas,"EVP, CMO",M - OptEx,11.6,57657,180642,+47%,668821.0,,,,,CHNG
+26,,2021-12-30 18:04:09,2021-12-28,CHNG,Cecil Loretta A.,"EVP, GC",A - Grant,0.0,30741,139836,+28%,0.0,,,,,CHNG
+27,,2021-12-30 18:04:09,2021-12-28,CHNG,Cecil Loretta A.,"EVP, GC",F - Tax,21.44,-13865,139836,-9%,-297266.0,,,,,CHNG
+28,,2021-12-30 18:03:49,2021-12-28,CHNG,Laur Thomas,See Remarks,A - Grant,0.0,37451,171475,+28%,0.0,,,,,CHNG
+29,,2021-12-30 18:03:49,2021-12-28,CHNG,Laur Thomas,See Remarks,F - Tax,21.44,-16610,171475,-9%,-356118.0,,,,,CHNG
+30,,2021-12-30 18:03:34,2021-12-28,CHNG,Eliasson Fredrik J,"EVP, CFO",A - Grant,0.0,92180,594625,+18%,0.0,,,,,CHNG
+31,,2021-12-30 18:03:34,2021-12-28,CHNG,Eliasson Fredrik J,"EVP, CFO",F - Tax,21.44,-36274,594625,-6%,-777715.0,,,,,CHNG
+32,,2021-12-30 18:03:13,2021-12-28,CHNG,Calhoun August,See Remarks,A - Grant,0.0,37451,169319,+28%,0.0,,,,,CHNG
+33,,2021-12-30 18:03:13,2021-12-28,CHNG,Calhoun August,See Remarks,F - Tax,21.44,-18937,169319,-10%,-406009.0,,,,,CHNG
+34,,2021-11-23 16:48:57,2021-11-19,CHNG,Rareshide Paul,"SVP, Corporate Controller",S - Sale,20.6,-4579,29362,-13%,-94329.0,,,,,CHNG
+35,,2021-11-15 17:20:29,2021-11-11,CHNG,Martin Steven B.,"EVP, Enterprise Technology",S - Sale,21.35,-8857,262168,-3%,-189102.0,,,,,CHNG
+36,,2021-06-24 14:28:41,2021-06-22,CHNG,McEnery Thomas,"EVP, CMO",A - Grant,0.0,24621,107318,+30%,0.0,,,,,CHNG
+37,,2021-06-24 14:28:41,2021-06-22,CHNG,McEnery Thomas,"EVP, CMO",F - Tax,23.15,-7535,107318,-7%,-174435.0,,,,,CHNG
+38,D,2021-06-24 14:28:27,2021-06-22,CHNG,Lance Howard L,Dir,A - Grant,0.0,7136,218856,+3%,0.0,,,,,CHNG
+39,,2021-06-24 14:28:12,2021-06-22,CHNG,De Crescenzo Neil E.,"Pres, CEO",A - Grant,0.0,272550,902635,+43%,0.0,,,,,CHNG
+40,,2021-06-24 14:28:12,2021-06-22,CHNG,De Crescenzo Neil E.,"Pres, CEO",F - Tax,23.15,-107249,902635,-11%,-2482814.0,,,,,CHNG
+41,,2021-06-24 14:27:56,2021-06-22,CHNG,Whitley-Taylor Linda,"EVP, Chief People Officer",A - Grant,0.0,32888,109001,+43%,0.0,,,,,CHNG
+42,,2021-06-24 14:27:56,2021-06-22,CHNG,Whitley-Taylor Linda,"EVP, Chief People Officer",F - Tax,23.15,-12942,109001,-11%,-299607.0,,,,,CHNG
+43,,2021-06-24 14:27:42,2021-06-22,CHNG,Joshi Kriten,See Remarks,A - Grant,0.0,76314,276785,+38%,0.0,,,,,CHNG
+44,,2021-06-24 14:27:42,2021-06-22,CHNG,Joshi Kriten,See Remarks,F - Tax,23.15,-33518,276785,-11%,-775942.0,,,,,CHNG
+45,,2021-06-24 14:27:26,2021-06-22,CHNG,Domenici Nella,Dir,A - Grant,0.0,7136,21622,+49%,0.0,,,,,CHNG
+46,,2021-06-24 14:27:06,2021-06-22,CHNG,Nagji Bansi,Dir,A - Grant,0.0,7136,31622,+29%,0.0,,,,,CHNG
+47,,2021-06-24 14:26:49,2021-06-22,CHNG,McKenzie Diana,Dir,A - Grant,0.0,7136,33048,+28%,0.0,,,,,CHNG
+48,,2021-06-24 14:26:35,2021-06-22,CHNG,Pead Philip M,Dir,A - Grant,0.0,7136,94984,+8%,0.0,,,,,CHNG
+49,,2021-06-24 14:26:21,2021-06-22,CHNG,Roe Phillip W.,Dir,A - Grant,0.0,7136,33048,+28%,0.0,,,,,CHNG
+50,,2021-06-24 14:26:00,2021-06-22,CHNG,Zollars Robert,Dir,A - Grant,0.0,7136,33048,+28%,0.0,,,,,CHNG
+51,,2021-04-02 17:10:40,2021-04-01,CHNG,Rareshide Paul,"SVP, Corporate Controller",A - Grant,0.0,15350,33941,+83%,0.0,,,,,CHNG
+52,,2021-04-02 17:10:18,2021-04-01,CHNG,Eliasson Fredrik J,"EVP, CFO",A - Grant,0.0,156798,538719,+41%,0.0,,,,,CHNG
+53,,2021-04-02 17:10:14,2021-04-01,CHNG,O'Reilly Roderick H.,See Remarks,A - Grant,0.0,60307,156998,+62%,0.0,,,,,CHNG
+54,,2021-04-02 17:09:52,2021-04-01,CHNG,Joshi Kriten,See Remarks,A - Grant,0.0,60307,233989,+35%,0.0,,,,,CHNG
+55,,2021-04-02 17:09:27,2021-04-01,CHNG,Calhoun August,See Remarks,A - Grant,0.0,60307,150805,+67%,0.0,,,,,CHNG
+56,,2021-04-02 17:09:01,2021-04-01,CHNG,Cecil Loretta A.,"EVP, GC",A - Grant,0.0,48245,122960,+65%,0.0,,,,,CHNG
+57,,2021-04-02 17:07:57,2021-04-01,CHNG,Laur Thomas,See Remarks,A - Grant,0.0,60307,150634,+67%,0.0,,,,,CHNG
+58,,2021-04-02 17:07:23,2021-04-01,CHNG,Martin Steven B.,"EVP, Enterprise Technology",A - Grant,0.0,60307,271025,+29%,0.0,,,,,CHNG
+59,,2021-04-02 17:07:02,2021-04-01,CHNG,De Crescenzo Neil E.,"Pres, CEO",A - Grant,0.0,289473,737334,+65%,0.0,,,,,CHNG
+60,,2021-04-02 17:06:54,2021-04-01,CHNG,McEnery Thomas,"EVP, CMO",A - Grant,0.0,48245,90232,+115%,0.0,,,,,CHNG
+61,,2021-04-02 17:06:49,2021-04-01,CHNG,Whitley-Taylor Linda,"EVP, Chief People Officer",A - Grant,0.0,48245,89055,+118%,0.0,,,,,CHNG
+62,,2020-06-19 16:46:56,2020-06-17,CHNG,Eliasson Fredrik J,"EVP, CFO",A - Grant,0.0,142669,381921,+60%,0.0,,,,,CHNG
+63,,2020-06-19 16:46:39,2020-06-17,CHNG,O'Reilly Roderick H.,See Remarks,A - Grant,0.0,54872,96691,+131%,0.0,,,,,CHNG
+64,,2020-06-19 16:46:23,2020-06-17,CHNG,Laur Thomas,See Remarks,A - Grant,0.0,54872,89498,+158%,0.0,,,,,CHNG
+65,D,2020-06-19 16:46:08,2020-06-17,CHNG,Joshi Kriten,See Remarks,A - Grant,0.0,41154,173682,+31%,0.0,,,,,CHNG
+66,,2020-06-19 16:45:28,2020-06-17,CHNG,Calhoun August,See Remarks,A - Grant,0.0,54872,90498,+154%,0.0,,,,,CHNG
+67,,2020-06-19 16:44:44,2020-06-17,CHNG,Martin Steven B.,"EVP, Enterprise Technology",A - Grant,0.0,54872,208718,+36%,0.0,,,,,CHNG
+68,,2020-06-19 16:43:39,2020-06-17,CHNG,Cecil Loretta A.,"EVP, GC",A - Grant,0.0,43898,74715,+142%,0.0,,,,,CHNG
+69,D,2020-06-19 16:43:20,2020-06-17,CHNG,Whitley-Taylor Linda,"EVP, Chief People Officer",A - Grant,0.0,32923,40281,+447%,0.0,,,,,CHNG
+70,D,2020-06-19 16:42:59,2020-06-17,CHNG,De Crescenzo Neil E.,"Pres, CEO",A - Grant,0.0,197541,446187,+79%,0.0,,,,,CHNG
+71,,2020-06-19 16:42:34,2020-06-17,CHNG,Rareshide Paul,"SVP, Corporate Controller",A - Grant,0.0,10974,18591,+144%,0.0,,,,,CHNG
+72,,2020-06-19 16:41:51,2020-06-17,CHNG,Nagji Bansi,Dir,A - Grant,0.0,14486,24486,+145%,0.0,,,,,CHNG
+73,,2020-06-19 16:41:25,2020-06-17,CHNG,McKenzie Diana,Dir,A - Grant,0.0,14486,25912,+127%,0.0,,,,,CHNG
+74,,2020-06-19 16:41:03,2020-06-17,CHNG,Pead Philip M,Dir,A - Grant,0.0,14486,87848,+20%,0.0,,,,,CHNG
+75,,2020-06-19 16:40:35,2020-06-17,CHNG,Roe Phillip W.,Dir,A - Grant,0.0,14486,25912,+127%,0.0,,,,,CHNG
+76,,2020-06-19 16:40:14,2020-06-17,CHNG,Zollars Robert,Dir,A - Grant,0.0,14486,25912,+127%,0.0,,,,,CHNG
+77,,2020-06-19 16:38:55,2020-06-17,CHNG,Lance Howard L,Dir,A - Grant,0.0,14486,211720,+7%,0.0,,,,,CHNG
+78,,2020-06-19 16:38:21,2020-06-17,CHNG,Domenici Nella,Dir,A - Grant,0.0,14486,14486,New,0.0,,,,,CHNG
+79,D,2020-06-19 16:36:37,2020-06-17,CHNG,McEnery Thomas,"EVP, CMO",A - Grant,0.0,32923,41627,+378%,0.0,,,,,CHNG
+80,,2020-06-12 18:29:29,2020-06-10,CHNG,Eliasson Fredrik J,"EVP, CFO",P - Purchase,12.0,100000,157313,+174%,1200000.0,,,,,CHNG
+81,,2020-04-15 15:29:25,2020-04-13,CHNG,Martin Steven B.,"EVP, Enterprise Technology",A - Grant,0.0,153846,153846,New,0.0,,,,,CHNG
+82,,2019-08-22 17:30:48,2019-08-20,CHNG,Laur Thomas,See Remarks,A - Grant,0.0,34626,34626,New,0.0,,,,,CHNG
+83,,2019-08-22 17:29:47,2019-08-20,CHNG,Zollars Robert,Dir,A - Grant,0.0,11426,11426,New,0.0,,,,,CHNG
+84,,2019-08-22 17:28:23,2019-08-20,CHNG,Calhoun August,See Remarks,A - Grant,0.0,34626,35626,>999%,0.0,,,,,CHNG
+85,,2019-08-22 17:28:02,2019-08-20,CHNG,Rareshide Paul,"SVP, Corporate Controller",A - Grant,0.0,7617,7617,New,0.0,,,,,CHNG
+86,D,2019-08-22 17:27:51,2019-08-20,CHNG,Joshi Kriten,See Remarks,A - Grant,0.0,8656,132528,+7%,0.0,,,,,CHNG
+87,,2019-08-22 17:27:49,2019-08-20,CHNG,Eliasson Fredrik J,"EVP, CFO",A - Grant,0.0,69252,139252,+99%,0.0,,,,,CHNG
+88,D,2019-08-22 17:27:12,2019-08-20,CHNG,De Crescenzo Neil E.,"Pres, CEO",A - Grant,0.0,49774,248646,+25%,0.0,,,,,CHNG
+89,D,2019-08-22 17:25:09,2019-08-20,CHNG,McEnery Thomas,"EVP, CMO",A - Grant,0.0,7704,8704,+770%,0.0,,,,,CHNG
+90,D,2019-08-22 17:24:14,2019-08-20,CHNG,Choy Alex P.,See Remarks,A - Grant,0.0,9522,9522,New,0.0,,,,,CHNG
+91,,2019-08-22 17:23:53,2019-08-20,CHNG,O'Reilly Roderick H.,See Remarks,A - Grant,0.0,39819,41819,>999%,0.0,,,,,CHNG
+92,,2019-08-22 17:23:46,2019-08-20,CHNG,Lance Howard L,Dir,A - Grant,0.0,11426,197234,+6%,0.0,,,,,CHNG
+93,,2019-08-22 17:23:01,2019-08-20,CHNG,Cecil Loretta A.,"EVP, GC",A - Grant,0.0,30817,30817,New,0.0,,,,,CHNG
+94,,2019-08-22 17:22:14,2019-08-20,CHNG,Pead Philip M,Dir,A - Grant,0.0,11426,73362,+18%,0.0,,,,,CHNG
+95,,2019-08-22 17:20:50,2019-08-20,CHNG,McKenzie Diana,Dir,A - Grant,0.0,11426,11426,New,0.0,,,,,CHNG
+96,D,2019-08-22 17:20:14,2019-08-20,CHNG,Whitley-Taylor Linda,"EVP, Chief People Officer",A - Grant,0.0,7358,7358,New,0.0,,,,,CHNG
+97,,2019-08-22 17:19:54,2019-08-20,CHNG,Roe Phillip W.,Dir,A - Grant,0.0,11426,11426,New,0.0,,,,,CHNG
+98,,2019-08-19 16:32:09,2019-08-15,CHNG,De Crescenzo Neil E.,"Pres, CEO",P - Purchase,14.17,75000,198872,+61%,1062750.0,,,,,CHNG
+99,,2019-08-19 16:30:29,2019-08-15,CHNG,Eliasson Fredrik J,"EVP, CFO",P - Purchase,13.73,40000,70000,+133%,549200.0,,,,,CHNG
+100,,2019-07-03 16:34:46,2019-07-01,CHNG,Nagji Bansi,Dir,P - Purchase,13.0,5000,5000,New,65000.0,,,,,CHNG
+101,,2019-07-03 16:33:28,2019-07-01,CHNG,O'Reilly Roderick H.,See Remarks,P - Purchase,13.0,2000,2000,New,26000.0,,,,,CHNG
+102,,2019-07-03 16:28:07,2019-07-01,CHNG,McEnery Thomas,"EVP, CMO",P - Purchase,13.0,1000,1000,New,13000.0,,,,,CHNG
+103,,2019-07-03 16:27:37,2019-07-01,CHNG,Eliasson Fredrik J,"EVP, CFO",P - Purchase,13.0,30000,30000,New,390000.0,,,,,CHNG
+104,,2019-07-03 16:24:39,2019-07-01,CHNG,Calhoun August,See Remarks,P - Purchase,13.0,1000,1000,New,13000.0,,,,,CHNG

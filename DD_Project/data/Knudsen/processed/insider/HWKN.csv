@@ -1,9 +1,409 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
 0,,2022-02-15 16:02:45,2022-02-11,HWKN,Oldenkamp Jeffrey P.,"EVP, CFO",P - Purchase,39.75,2300,70830,+3%,91425.0,,,,,HWKN
-1,,2020-08-26 17:49:07,2020-08-21,HWKN,Lange Douglas A.,VP - Operations,P - Purchase,49.95,800,1630,+96%,39956.0,,,,,HWKN
-2,,2020-08-25 16:45:54,2020-08-21,HWKN,Moran Theresa R,"VP - Purchasing, Logistics",S - Sale,49.77,-3448,47262,-7%,-171607.0,,,,,HWKN
-3,,2020-08-17 16:25:56,2020-08-13,HWKN,Moran Theresa R,"VP - Purchasing, Logistics",S - Sale,59.12,-5266,50710,-9%,-311326.0,,,,,HWKN
-4,,2018-11-08 17:38:15,2018-11-06,HWKN,Stauber Daniel J,"VP - Health, Nutrition",P - Purchase,37.69,2000,7394,+37%,75380.0,,,,,HWKN
-5,M,2018-06-08 16:09:45,2018-06-06,HWKN,Hawkins Patrick H.,"CEO, Pres",P - Purchase,34.22,15085,98632,+18%,516277.0,,,,,HWKN
-6,,2018-06-07 16:55:59,2018-06-05,HWKN,Oldenkamp Jeffrey P.,"CFO, VP, Treasurer",P - Purchase,33.15,1500,6763,+29%,49723.0,,,,,HWKN
-7,M,2018-06-06 16:18:48,2018-06-04,HWKN,Hawkins Patrick H.,"CEO, Pres",P - Purchase,32.54,6600,83547,+9%,214781.0,,,,,HWKN
+1,,2022-02-15 16:02:23,2021-12-09,HWKN,Schumacher Mary J.,Dir,G - Gift,0.0,-538,21271,-2%,-0.0,,,,,HWKN
+2,,2021-10-29 12:31:01,2021-10-27,HWKN,Spethmann Jeffrey E,Dir,A - Grant,0.0,1005,1005,New,0.0,,,,,HWKN
+3,,2021-08-02 16:19:02,2021-07-29,HWKN,Schumacher Mary J.,Dir,A - Grant,0.0,1547,21809,+8%,0.0,,,,,HWKN
+4,,2021-08-02 16:18:52,2021-07-29,HWKN,Thompson James T,Dir,A - Grant,0.0,1547,33289,+5%,0.0,,,,,HWKN
+5,,2021-08-02 16:18:41,2021-07-29,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1547,33501,+5%,0.0,,,,,HWKN
+6,,2021-08-02 16:18:30,2021-07-29,HWKN,Tang Yi,Dir,A - Grant,0.0,1547,2985,+108%,0.0,,,,,HWKN
+7,,2021-08-02 16:18:19,2021-07-29,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,1547,37289,+4%,0.0,,,,,HWKN
+8,,2021-08-02 16:18:11,2021-07-29,HWKN,Stauber Daniel J,Dir,A - Grant,0.0,1547,26716,+6%,0.0,,,,,HWKN
+9,,2021-05-24 17:15:31,2021-05-20,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,40137,304159,+15%,0.0,,,,,HWKN
+10,,2021-05-24 17:15:06,2021-05-20,HWKN,Oldenkamp Jeffrey P.,"EVP, CFO",A - Grant,0.0,18810,67219,+39%,0.0,,,,,HWKN
+11,,2021-05-24 17:14:58,2021-05-20,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,15102,58995,+34%,0.0,,,,,HWKN
+12,,2021-05-24 17:14:51,2021-05-20,HWKN,Rozeboom Shirley A.,"VP Health, Nutrition",A - Grant,0.0,8847,21341,+71%,0.0,,,,,HWKN
+13,,2021-05-24 17:14:29,2021-05-20,HWKN,Moran Theresa R,"VP - Purchasing, Logistics",A - Grant,0.0,6813,99039,+7%,0.0,,,,,HWKN
+14,,2021-05-24 17:14:28,2021-05-20,HWKN,Lange Douglas A.,VP - Water Treatment Group,A - Grant,0.0,7545,11544,+189%,0.0,,,,,HWKN
+15,,2021-05-24 17:14:21,2021-05-20,HWKN,Grahek Drew M.,VP of Operations,A - Grant,0.0,8346,19676,+74%,0.0,,,,,HWKN
+16,,2021-04-08 17:10:09,2021-04-06,HWKN,Hawkins Patrick H.,"CEO, Pres",F - Tax,32.33,-13908,264022,-5%,-449646.0,,,,,HWKN
+17,,2021-04-08 17:09:55,2021-04-06,HWKN,Erstad Richard G,"VP, GC, Sec",F - Tax,32.33,-8176,43893,-16%,-264330.0,,,,,HWKN
+18,,2021-04-08 17:09:30,2021-04-06,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,32.33,-7377,93435,-7%,-238498.0,,,,,HWKN
+19,,2021-04-08 17:09:17,2021-04-06,HWKN,Moran Theresa R,"VP - Purchasing, Logistics",F - Tax,32.33,-2532,92226,-3%,-81860.0,,,,,HWKN
+20,,2021-04-08 17:08:24,2021-04-06,HWKN,Grahek Drew M.,VP of Operations,F - Tax,32.33,-1655,11330,-13%,-53506.0,,,,,HWKN
+21,,2021-04-08 17:07:39,2021-04-06,HWKN,Stauber Daniel J,Dir,F - Tax,32.33,-2788,25167,-10%,-90136.0,,,,,HWKN
+22,,2021-04-08 17:07:05,2021-04-06,HWKN,Oldenkamp Jeffrey P.,"EVP, CFO",F - Tax,32.33,-6700,48409,-12%,-216611.0,,,,,HWKN
+23,,2020-10-23 16:53:43,2020-10-21,HWKN,Tang Yi,Dir,A - Grant,0.0,719,719,New,0.0,,,,,HWKN
+24,,2020-08-26 17:49:07,2020-08-21,HWKN,Lange Douglas A.,VP - Operations,P - Purchase,49.95,800,1630,+96%,39956.0,,,,,HWKN
+25,,2020-08-25 16:45:54,2020-08-21,HWKN,Moran Theresa R,"VP - Purchasing, Logistics",S - Sale,49.77,-3448,47262,-7%,-171607.0,,,,,HWKN
+26,,2020-08-17 16:25:56,2020-08-13,HWKN,Moran Theresa R,"VP - Purchasing, Logistics",S - Sale,59.12,-5266,50710,-9%,-311326.0,,,,,HWKN
+27,,2020-08-03 17:53:56,2020-07-30,HWKN,Stauber Daniel J,Dir,A - Grant,0.0,979,13572,+8%,0.0,,,,,HWKN
+28,,2020-08-03 17:53:41,2020-07-30,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,979,17871,+6%,0.0,,,,,HWKN
+29,,2020-08-03 17:53:04,2020-07-30,HWKN,McKeon John S,Dir,A - Grant,0.0,979,48887,+2%,0.0,,,,,HWKN
+30,,2020-08-03 17:52:51,2020-07-30,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,979,15977,+7%,0.0,,,,,HWKN
+31,,2020-08-03 17:52:05,2020-07-30,HWKN,Thompson James T,Dir,A - Grant,0.0,979,15871,+7%,0.0,,,,,HWKN
+32,,2020-08-03 17:50:21,2020-07-30,HWKN,Schumacher Mary J.,Dir,A - Grant,0.0,979,10131,+11%,0.0,,,,,HWKN
+33,,2020-05-21 17:10:47,2020-05-20,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,20241,138127,+17%,0.0,,,,,HWKN
+34,,2020-05-21 17:10:32,2020-05-20,HWKN,Oldenkamp Jeffrey P.,"CFO, VP, Treasurer",A - Grant,0.0,9485,26632,+55%,0.0,,,,,HWKN
+35,,2020-05-21 17:10:16,2020-05-20,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,7615,25639,+42%,0.0,,,,,HWKN
+36,,2020-05-21 17:10:00,2020-05-20,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,6629,49558,+15%,0.0,,,,,HWKN
+37,,2020-05-21 17:09:44,2020-05-20,HWKN,Keller Thomas J.,VP - Water Treatment Group,A - Grant,0.0,6754,67807,+11%,0.0,,,,,HWKN
+38,,2020-05-21 17:09:29,2020-05-20,HWKN,Moran Theresa R,"VP - Purchasing, Logistics",A - Grant,0.0,3435,55876,+7%,0.0,,,,,HWKN
+39,,2020-05-21 17:09:12,2020-05-20,HWKN,Rozeboom Shirley A.,"VP Health, Nutrition",A - Grant,0.0,4462,5856,+320%,0.0,,,,,HWKN
+40,,2020-05-21 17:08:47,2020-05-20,HWKN,Grahek Drew M.,VP of Operations,A - Grant,0.0,3157,5962,+113%,0.0,,,,,HWKN
+41,,2020-04-03 17:32:31,2020-04-01,HWKN,Oldenkamp Jeffrey P.,"CFO, VP, Treasurer",F - Tax,32.69,-1657,17147,-9%,-54167.0,,,,,HWKN
+42,,2019-08-02 15:56:30,2019-07-31,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,1144,35019,+3%,0.0,,,,,HWKN
+43,,2019-08-02 15:56:21,2019-07-31,HWKN,McKeon John S,Dir,A - Grant,0.0,1144,47087,+2%,0.0,,,,,HWKN
+44,,2019-08-02 15:56:11,2019-07-31,HWKN,Schumacher Mary J.,Dir,A - Grant,0.0,1144,9152,+14%,0.0,,,,,HWKN
+45,,2019-08-02 15:56:01,2019-07-31,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1144,14998,+8%,0.0,,,,,HWKN
+46,,2019-08-02 15:55:49,2019-07-31,HWKN,Thompson James T,Dir,A - Grant,0.0,1144,14892,+8%,0.0,,,,,HWKN
+47,,2019-08-02 15:55:32,2019-07-31,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,1144,16892,+7%,0.0,,,,,HWKN
+48,,2019-08-02 15:55:21,2019-07-31,HWKN,Stauber Daniel J,Dir,A - Grant,0.0,1144,11824,+11%,0.0,,,,,HWKN
+49,,2019-06-05 11:47:33,2019-05-23,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,20334,117011,+21%,0.0,,,,,HWKN
+50,,2019-06-05 11:47:18,2019-05-23,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,8739,17588,+99%,0.0,,,,,HWKN
+51,,2019-06-05 11:47:04,2019-05-23,HWKN,Keller Thomas J.,VP - Water Treatment Group,A - Grant,0.0,7751,61105,+15%,0.0,,,,,HWKN
+52,,2019-06-05 11:46:42,2019-05-23,HWKN,Oldenkamp Jeffrey P.,"CFO, VP, Treasurer",A - Grant,0.0,10884,17647,+161%,0.0,,,,,HWKN
+53,,2019-06-05 11:46:13,2019-05-23,HWKN,Moran Theresa R,"VP - Purchasing, Logistics",A - Grant,0.0,3942,52222,+8%,0.0,,,,,HWKN
+54,,2019-06-05 11:45:58,2019-05-23,HWKN,Stauber Daniel J,Dir,A - Grant,0.0,3833,10303,+59%,0.0,,,,,HWKN
+55,,2019-06-05 11:45:40,2019-05-23,HWKN,Grahek Drew M.,VP of Operations,A - Grant,0.0,2574,2629,>999%,0.0,,,,,HWKN
+56,,2019-06-05 11:45:10,2019-05-23,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,7607,42079,+22%,0.0,,,,,HWKN
+57,,2019-04-04 16:22:02,2019-04-02,HWKN,Hawkins Patrick H.,"CEO, Pres",F - Tax,37.52,-2909,96677,-3%,-109146.0,,,,,HWKN
+58,,2019-04-04 16:21:45,2019-04-02,HWKN,Erstad Richard G,"VP, GC, Sec",F - Tax,37.52,-1311,8849,-13%,-49189.0,,,,,HWKN
+59,,2019-04-04 16:21:26,2019-04-02,HWKN,Moran Theresa R,"VP - Purchasing, Logistics",F - Tax,37.52,-656,48280,-1%,-24613.0,,,,,HWKN
+60,,2019-04-04 16:21:09,2019-04-02,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,37.52,-1168,34472,-3%,-43823.0,,,,,HWKN
+61,,2019-04-04 16:20:33,2019-04-02,HWKN,Keller Thomas J.,VP - Water Treatment Group,F - Tax,37.52,-1163,53354,-2%,-43636.0,,,,,HWKN
+62,M,2019-04-04 16:20:33,2016-11-08,HWKN,Keller Thomas J.,VP - Water Treatment Group,G - Gift,0.0,-275,53354,-1%,-0.0,,,,,HWKN
+63,M,2019-04-03 15:50:50,2019-04-01,HWKN,Stauber Daniel J,"VP - Health, Nutrition",F - Tax,37.32,-1360,6470,-17%,-50749.0,,,,,HWKN
+64,,2018-11-08 17:38:15,2018-11-06,HWKN,Stauber Daniel J,"VP - Health, Nutrition",P - Purchase,37.69,2000,7394,+37%,75380.0,,,,,HWKN
+65,,2018-08-08 14:59:06,2018-08-01,HWKN,McKeon John S,Dir,A - Grant,0.0,1392,45162,+3%,0.0,,,,,HWKN
+66,,2018-08-08 14:58:54,2018-08-01,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1392,13854,+11%,0.0,,,,,HWKN
+67,,2018-08-08 14:58:30,2018-08-01,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,1392,33875,+4%,0.0,,,,,HWKN
+68,,2018-08-08 14:58:16,2018-08-01,HWKN,Schumacher Mary J.,Dir,A - Grant,0.0,1392,8008,+21%,0.0,,,,,HWKN
+69,,2018-08-08 14:58:06,2018-08-01,HWKN,Thompson James T,Dir,A - Grant,0.0,1392,13748,+11%,0.0,,,,,HWKN
+70,,2018-08-08 14:57:56,2018-08-01,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,1392,15748,+10%,0.0,,,,,HWKN
+71,A,2018-06-19 09:38:50,2018-05-31,HWKN,Stauber Daniel J,"VP - Health, Nutrition",A - Grant,0.0,2555,4952,+107%,0.0,,,,,HWKN
+72,M,2018-06-08 16:09:45,2018-06-06,HWKN,Hawkins Patrick H.,"CEO, Pres",P - Purchase,34.22,15085,98632,+18%,516277.0,,,,,HWKN
+73,,2018-06-07 16:55:59,2018-06-05,HWKN,Oldenkamp Jeffrey P.,"CFO, VP, Treasurer",P - Purchase,33.15,1500,6763,+29%,49723.0,,,,,HWKN
+74,M,2018-06-06 16:18:48,2018-06-04,HWKN,Hawkins Patrick H.,"CEO, Pres",P - Purchase,32.54,6600,83547,+9%,214781.0,,,,,HWKN
+75,,2018-06-04 16:15:17,2018-05-31,HWKN,Stauber Daniel J,"VP - Health, Nutrition",A - Grant,0.0,2495,4892,+104%,0.0,,,,,HWKN
+76,,2018-06-04 16:15:06,2018-05-31,HWKN,Oldenkamp Jeffrey P.,"CFO, VP, Treasurer",A - Grant,0.0,5263,5263,New,0.0,,,,,HWKN
+77,,2018-04-06 15:38:21,2018-04-04,HWKN,Hawkins Patrick H.,"CEO, Pres",F - Tax,32.75,-2600,76871,-3%,-85150.0,,,,,HWKN
+78,,2018-04-06 15:38:21,2017-05-22,HWKN,Hawkins Patrick H.,"CEO, Pres",G - Gift,0.0,580,76871,+1%,0.0,,,,,HWKN
+79,,2018-04-06 15:38:12,2018-04-04,HWKN,Erstad Richard G,"VP, GC, Sec",F - Tax,32.75,-1249,9675,-11%,-40905.0,,,,,HWKN
+80,,2018-04-06 15:38:01,2018-04-04,HWKN,Matthews Steven D II,VP of Operations,F - Tax,32.75,-549,4212,-12%,-17980.0,,,,,HWKN
+81,,2018-04-06 15:37:51,2018-04-04,HWKN,Moran Theresa R,"VP - Quality, Support",F - Tax,32.75,-664,48690,-1%,-21746.0,,,,,HWKN
+82,,2018-04-06 15:37:41,2018-04-04,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,32.75,-1220,34644,-3%,-39955.0,,,,,HWKN
+83,,2018-04-06 15:37:31,2018-04-04,HWKN,Keller Thomas J.,VP - Water Treatment Group,F - Tax,32.75,-1188,54730,-2%,-38907.0,,,,,HWKN
+84,,2018-04-06 15:37:31,2017-11-13,HWKN,Keller Thomas J.,VP - Water Treatment Group,G - Gift,0.0,-135,54730,0%,-0.0,,,,,HWKN
+85,,2017-11-13 17:06:50,2017-11-09,HWKN,Wright Jeffrey L,Dir,P - Purchase,34.47,3000,14356,+26%,103410.0,,,,,HWKN
+86,,2017-09-13 17:44:19,2017-09-11,HWKN,Matthews Steven D II,VP of Operations,S - Sale,36.94,-262,4435,-6%,-9672.0,,,,,HWKN
+87,,2017-08-30 16:33:01,2017-08-28,HWKN,Schumacher Mary J.,Dir,P - Purchase,35.8,1400,6616,+27%,50115.0,,,,,HWKN
+88,,2017-08-14 17:31:34,2017-08-11,HWKN,Erstad Richard G,"VP, GC, Sec",S - Sale,40.59,-1200,10524,-10%,-48708.0,,,,,HWKN
+89,,2017-08-11 17:21:16,2017-08-09,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1212,12462,+11%,0.0,,,,,HWKN
+90,,2017-08-11 17:21:01,2017-08-09,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,1212,32483,+4%,0.0,,,,,HWKN
+91,,2017-08-11 17:20:21,2017-08-09,HWKN,Schumacher Mary J.,Dir,A - Grant,0.0,1212,5216,+30%,0.0,,,,,HWKN
+92,,2017-08-11 17:20:09,2017-08-09,HWKN,Thompson James T,Dir,A - Grant,0.0,1212,12356,+11%,0.0,,,,,HWKN
+93,,2017-08-11 17:19:42,2017-08-09,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,1212,11356,+12%,0.0,,,,,HWKN
+94,,2017-08-11 17:19:20,2017-08-09,HWKN,McKeon John S,Dir,A - Grant,0.0,1212,42988,+3%,0.0,,,,,HWKN
+95,,2017-08-11 17:19:04,2017-08-09,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,1212,13957,+10%,0.0,,,,,HWKN
+96,,2017-06-12 16:34:52,2017-06-08,HWKN,Sevenich John R,"VP, Industrial Group",S - Sale,48.5,-2204,35056,-6%,-106894.0,,,,,HWKN
+97,,2017-06-05 17:03:42,2017-06-01,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,9378,78072,+14%,0.0,,,,,HWKN
+98,,2017-06-05 17:03:31,2017-06-01,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",A - Grant,0.0,4934,26473,+23%,0.0,,,,,HWKN
+99,,2017-06-05 17:03:22,2017-06-01,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,4024,11724,+52%,0.0,,,,,HWKN
+100,,2017-06-05 17:03:22,2017-06-05,HWKN,Erstad Richard G,"VP, GC, Sec",S - Sale,48.0,-2000,11724,-15%,-96000.0,,,,,HWKN
+101,,2017-06-05 17:03:10,2017-06-01,HWKN,Matthews Steven D II,VP of Operations,A - Grant,0.0,1511,4450,+51%,0.0,,,,,HWKN
+102,,2017-06-05 17:03:00,2017-06-01,HWKN,Moran Theresa R,"VP - Quality, Support",A - Grant,0.0,1826,49149,+4%,0.0,,,,,HWKN
+103,,2017-06-05 17:02:50,2017-06-01,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,3538,37260,+10%,0.0,,,,,HWKN
+104,,2017-06-05 17:02:39,2017-06-01,HWKN,Keller Thomas J.,VP - Water Treatment Group,A - Grant,0.0,3524,56031,+7%,0.0,,,,,HWKN
+105,,2017-06-05 17:02:27,2017-06-01,HWKN,Guiot Olivier A.,"VP - Health, Nutrition",A - Grant,0.0,3565,3947,+932%,0.0,,,,,HWKN
+106,,2017-06-05 17:02:16,2017-06-01,HWKN,Stauber Daniel J,Dir,A - Grant,0.0,1081,1611,+204%,0.0,,,,,HWKN
+107,,2017-04-03 17:48:42,2017-03-30,HWKN,Hawkins Patrick H.,"CEO, Pres",F - Tax,48.45,-3618,68652,-5%,-175292.0,-1.0,-3.0,4.0,,HWKN
+108,,2017-04-03 17:48:30,2017-03-30,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",F - Tax,48.45,-1899,21522,-8%,-92007.0,-1.0,-3.0,4.0,,HWKN
+109,,2017-04-03 17:48:19,2017-03-30,HWKN,Erstad Richard G,"VP, GC, Sec",F - Tax,48.45,-1710,9687,-15%,-82850.0,-1.0,-3.0,4.0,,HWKN
+110,,2017-04-03 17:48:08,2017-03-30,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,48.45,-1683,33690,-5%,-81541.0,-1.0,-3.0,4.0,,HWKN
+111,,2017-04-03 17:47:57,2017-03-30,HWKN,Keller Thomas J.,VP - Water Treatment Group,F - Tax,48.45,-1605,52489,-3%,-77762.0,-1.0,-3.0,4.0,,HWKN
+112,,2017-04-03 17:46:42,2017-03-30,HWKN,Moran Theresa R,"VP - Quality, Support",F - Tax,48.45,-884,47312,-2%,-42830.0,-1.0,-3.0,4.0,,HWKN
+113,,2017-04-03 17:46:31,2017-03-30,HWKN,Matthews Steven D II,VP of Operations,F - Tax,48.45,-740,2939,-20%,-35853.0,-1.0,-3.0,4.0,,HWKN
+114,,2017-02-23 17:22:41,2017-02-17,HWKN,Matthews Steven D II,VP of Operations,S - Sale,50.47,-900,3679,-20%,-45419.0,-1.0,2.0,-3.0,,HWKN
+115,,2017-02-22 16:00:19,2017-02-17,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",S - Sale,50.27,-2924,23410,-11%,-146993.0,-1.0,-3.0,-7.0,,HWKN
+116,,2017-02-15 16:29:07,2017-02-13,HWKN,Erstad Richard G,"VP, GC, Sec",S - Sale,50.69,-1500,11386,-12%,-76041.0,-1.0,-1.0,-5.0,,HWKN
+117,,2016-12-15 16:19:22,2016-12-13,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",S - Sale,53.21,-5649,26145,-18%,-300602.0,-2.0,1.0,-2.0,,HWKN
+118,,2016-12-01 16:35:32,2016-11-29,HWKN,Erstad Richard G,"VP, GC, Sec",G - Gift,0.0,-700,12697,-5%,-0.0,-1.0,9.0,11.0,,HWKN
+119,,2016-12-01 16:35:32,2016-11-29,HWKN,Erstad Richard G,"VP, GC, Sec",S - Sale,48.5,-2100,12697,-14%,-101850.0,-1.0,9.0,11.0,,HWKN
+120,,2016-11-28 16:42:14,2016-11-23,HWKN,Sevenich John R,"VP, Industrial Group",S - Sale,47.33,-2549,34982,-7%,-120647.0,0.0,-1.0,12.0,,HWKN
+121,,2016-08-08 20:37:27,2016-08-04,HWKN,Thompson James T,Dir,A - Grant,0.0,1156,11144,+12%,0.0,1.0,-1.0,-1.0,19.0,HWKN
+122,,2016-08-08 20:36:43,2016-08-04,HWKN,Schumacher Mary J.,Dir,A - Grant,0.0,1156,4004,+41%,0.0,1.0,-1.0,-1.0,19.0,HWKN
+123,,2016-08-08 19:38:10,2016-08-04,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,1156,10144,+13%,0.0,1.0,-1.0,-1.0,19.0,HWKN
+124,,2016-08-08 19:30:44,2016-08-04,HWKN,McKeon John S,Dir,A - Grant,0.0,1156,41330,+3%,0.0,1.0,-1.0,-1.0,19.0,HWKN
+125,,2016-08-08 19:29:02,2016-08-04,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1156,11250,+11%,0.0,1.0,-1.0,-1.0,19.0,HWKN
+126,,2016-08-08 19:23:47,2016-08-04,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,1156,12425,+10%,0.0,1.0,-1.0,-1.0,19.0,HWKN
+127,,2016-08-08 19:19:52,2016-08-04,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,1156,31271,+4%,0.0,1.0,-1.0,-1.0,19.0,HWKN
+128,,2016-06-24 16:29:44,2015-01-26,HWKN,Hawkins Patrick H.,"CEO, Pres",G - Gift,0.0,1400,71123,+2%,0.0,-2.0,2.0,3.0,27.0,HWKN
+129,,2016-06-06 21:30:19,2016-06-02,HWKN,Keller Thomas J.,VP - Water Treatment Group,A - Grant,0.0,3572,53843,+7%,0.0,1.0,1.0,-2.0,12.0,HWKN
+130,,2016-06-06 21:30:19,2015-11-05,HWKN,Keller Thomas J.,VP - Water Treatment Group,G - Gift,0.0,-200,53843,0%,-0.0,1.0,1.0,-2.0,12.0,HWKN
+131,,2016-06-06 21:29:58,2016-06-02,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,3672,36784,+11%,0.0,1.0,1.0,-2.0,12.0,HWKN
+132,,2016-06-06 21:29:31,2016-06-02,HWKN,Moran Theresa R,"VP - Quality, Support",A - Grant,0.0,1848,47665,+4%,0.0,1.0,1.0,-2.0,12.0,HWKN
+133,,2016-06-06 21:29:07,2016-06-02,HWKN,Matthews Steven D II,VP of Operations,A - Grant,0.0,1529,3502,+77%,0.0,1.0,1.0,-2.0,12.0,HWKN
+134,,2016-06-06 21:28:40,2016-06-02,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,3801,14976,+34%,0.0,1.0,1.0,-2.0,12.0,HWKN
+135,,2016-06-06 21:28:40,2015-11-05,HWKN,Erstad Richard G,"VP, GC, Sec",G - Gift,0.0,-700,14976,-4%,-0.0,1.0,1.0,-2.0,12.0,HWKN
+136,,2016-06-06 21:28:19,2016-06-02,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",A - Grant,0.0,4286,31271,+16%,0.0,1.0,1.0,-2.0,12.0,HWKN
+137,,2016-06-06 21:23:44,2016-06-02,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,8359,69723,+14%,0.0,1.0,1.0,-2.0,12.0,HWKN
+138,A,2016-05-23 17:55:05,2016-04-04,HWKN,Moran Theresa R,"VP - Quality, Support",F - Tax,36.11,-663,11251,-6%,-23941.0,4.0,2.0,10.0,17.0,HWKN
+139,A,2016-05-23 17:54:51,2016-04-04,HWKN,Hawkins Patrick H.,"CEO, Pres",F - Tax,36.11,-2570,48569,-5%,-92803.0,4.0,2.0,10.0,17.0,HWKN
+140,A,2016-05-23 17:54:36,2016-04-04,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",F - Tax,36.11,-1364,26052,-5%,-49254.0,4.0,2.0,10.0,17.0,HWKN
+141,A,2016-05-23 17:54:20,2016-04-04,HWKN,Erstad Richard G,"VP, GC, Sec",F - Tax,36.11,-1242,10947,-10%,-44849.0,4.0,2.0,10.0,17.0,HWKN
+142,A,2016-05-23 17:53:57,2016-04-04,HWKN,Keller Thomas J.,VP - Water Treatment Group,F - Tax,36.11,-1117,14553,-7%,-40335.0,4.0,2.0,10.0,17.0,HWKN
+143,,2016-04-06 18:42:06,2016-04-04,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",F - Tax,36.11,-1998,26330,-7%,-72148.0,0.0,7.0,7.0,19.0,HWKN
+144,,2016-04-06 18:41:00,2016-04-04,HWKN,Erstad Richard G,"VP, GC, Sec",F - Tax,36.11,-1795,11305,-14%,-64817.0,0.0,7.0,7.0,19.0,HWKN
+145,,2016-04-06 18:40:33,2016-04-04,HWKN,Keller Thomas J.,VP - Water Treatment Group,F - Tax,36.11,-1653,49894,-3%,-59690.0,0.0,7.0,7.0,19.0,HWKN
+146,,2016-04-06 18:39:42,2016-04-04,HWKN,Moran Theresa R,"VP - Quality, Support",F - Tax,36.11,-922,45540,-2%,-33293.0,0.0,7.0,7.0,19.0,HWKN
+147,,2016-04-06 18:38:13,2016-04-04,HWKN,Hawkins Patrick H.,"CEO, Pres",F - Tax,36.11,-3870,59993,-6%,-139746.0,0.0,7.0,7.0,19.0,HWKN
+148,,2016-04-06 18:37:49,2016-04-04,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,36.11,-1218,32654,-4%,-43982.0,0.0,7.0,7.0,19.0,HWKN
+149,,2016-02-26 16:32:45,2016-02-25,HWKN,Jergenson Duane M,Dir,P - Purchase,32.0,6000,30115,+25%,192000.0,3.0,9.0,14.0,45.0,HWKN
+150,,2016-02-26 16:32:11,2016-02-24,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",P - Purchase,31.98,3000,27914,+12%,95940.0,3.0,9.0,14.0,45.0,HWKN
+151,M,2016-02-22 16:19:45,2016-02-18,HWKN,Wright Jeffrey L,Dir,P - Purchase,32.63,2000,8988,+29%,65250.0,-2.0,-3.0,11.0,38.0,HWKN
+152,,2015-08-03 20:10:35,2015-07-30,HWKN,McKeon John S,Dir,A - Grant,0.0,972,39856,+2%,0.0,0.0,1.0,2.0,0.0,HWKN
+153,,2015-08-03 20:09:33,2015-07-30,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,972,11157,+10%,0.0,0.0,1.0,2.0,0.0,HWKN
+154,,2015-08-03 20:00:48,2015-07-30,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,972,24115,+4%,0.0,0.0,1.0,2.0,0.0,HWKN
+155,,2015-08-03 19:51:18,2015-07-30,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,972,10094,+11%,0.0,0.0,1.0,2.0,0.0,HWKN
+156,,2015-08-03 19:49:33,2015-07-30,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,972,6988,+16%,0.0,0.0,1.0,2.0,0.0,HWKN
+157,,2015-08-03 19:48:33,2015-07-30,HWKN,Thompson James T,Dir,A - Grant,0.0,972,9988,+11%,0.0,0.0,1.0,2.0,0.0,HWKN
+158,,2015-08-03 19:20:33,2015-07-30,HWKN,Schumacher Mary J.,Dir,A - Grant,0.0,972,2848,+52%,0.0,0.0,1.0,2.0,0.0,HWKN
+159,,2015-06-01 20:43:22,2015-05-28,HWKN,Matthews Steven D II,VP of Operations,A - Grant,0.0,1973,1973,New,0.0,0.0,0.0,0.0,4.0,HWKN
+160,,2015-06-01 20:42:49,2015-05-28,HWKN,Keller Thomas J.,VP - Water Treatment Group,A - Grant,0.0,4598,63050,+8%,0.0,0.0,0.0,0.0,4.0,HWKN
+161,,2015-06-01 20:42:17,2015-05-28,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,4828,32805,+17%,0.0,0.0,0.0,0.0,4.0,HWKN
+162,,2015-06-01 20:41:35,2015-05-28,HWKN,Moran Theresa R,"VP - Quality, Support",A - Grant,0.0,2401,45954,+6%,0.0,0.0,0.0,0.0,4.0,HWKN
+163,,2015-06-01 20:40:59,2015-05-28,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,4924,12362,+66%,0.0,0.0,0.0,0.0,4.0,HWKN
+164,,2015-06-01 20:40:30,2015-05-28,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",A - Grant,0.0,5499,24588,+29%,0.0,0.0,0.0,0.0,4.0,HWKN
+165,,2015-06-01 20:40:03,2015-05-28,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,10691,62695,+21%,0.0,0.0,0.0,0.0,4.0,HWKN
+166,,2015-04-02 21:27:32,2015-03-31,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",F - Tax,37.99,-1542,19089,-7%,-58581.0,3.0,5.0,4.0,1.0,HWKN
+167,,2015-04-02 21:27:12,2015-03-31,HWKN,Hawkins Patrick H.,"CEO, Pres",F - Tax,37.99,-2921,52004,-5%,-110969.0,3.0,5.0,4.0,1.0,HWKN
+168,,2015-04-02 21:26:52,2015-03-31,HWKN,Erstad Richard G,"VP, GC, Sec",F - Tax,37.99,-1396,7438,-16%,-53034.0,3.0,5.0,4.0,1.0,HWKN
+169,,2015-04-02 21:26:52,2014-11-10,HWKN,Erstad Richard G,"VP, GC, Sec",G - Gift,0.0,-700,7438,-9%,-0.0,3.0,5.0,4.0,1.0,HWKN
+170,,2015-04-02 21:25:27,2015-03-31,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,37.99,-1371,28385,-5%,-52084.0,3.0,5.0,4.0,1.0,HWKN
+171,,2015-04-02 21:14:28,2015-03-31,HWKN,Keller Thomas J.,VP - Water Treatment Group,F - Tax,37.99,-1251,58452,-2%,-47525.0,3.0,5.0,4.0,1.0,HWKN
+172,,2015-04-02 21:14:28,2014-11-04,HWKN,Keller Thomas J.,VP - Water Treatment Group,G - Gift,0.0,-190,58452,0%,-0.0,3.0,5.0,4.0,1.0,HWKN
+173,,2015-04-02 21:08:19,2015-03-31,HWKN,Moran Theresa R,"VP - Quality, Support",F - Tax,37.99,-744,43553,-2%,-28265.0,3.0,5.0,4.0,1.0,HWKN
+174,D,2014-11-13 17:31:53,2014-11-10,HWKN,Sevenich John R,"VP, Industrial Group",M - OptEx,19.9,9333,29348,+47%,185727.0,0.0,-3.0,-3.0,1.0,HWKN
+175,D,2014-11-13 17:31:53,2014-11-10,HWKN,Sevenich John R,"VP, Industrial Group",S - Sale+OE,41.36,-9333,29348,-24%,-385998.0,0.0,-3.0,-3.0,1.0,HWKN
+176,,2014-11-06 18:08:28,2014-11-04,HWKN,Erstad Richard G,"VP, GC, Sec",S - Sale,38.15,-2500,9330,-21%,-95380.0,2.0,1.0,-1.0,-1.0,HWKN
+177,,2014-11-06 18:07:41,2014-11-04,HWKN,Sevenich John R,"VP, Industrial Group",S - Sale,38.02,-5724,29348,-16%,-217624.0,2.0,1.0,-1.0,-1.0,HWKN
+178,,2014-08-11 17:22:53,2014-08-07,HWKN,Thompson James T,Dir,A - Grant,0.0,1011,9016,+13%,0.0,-1.0,0.0,6.0,10.0,HWKN
+179,,2014-08-11 17:22:30,2014-08-07,HWKN,Schumacher Mary J.,Dir,A - Grant,0.0,1011,1876,+117%,0.0,-1.0,0.0,6.0,10.0,HWKN
+180,,2014-08-11 17:22:16,2014-08-07,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,1011,23143,+5%,0.0,-1.0,0.0,6.0,10.0,HWKN
+181,,2014-08-11 17:21:03,2014-08-07,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1011,9122,+12%,0.0,-1.0,0.0,6.0,10.0,HWKN
+182,,2014-08-11 17:20:37,2014-08-07,HWKN,McKeon John S,Dir,A - Grant,0.0,1011,38320,+3%,0.0,-1.0,0.0,6.0,10.0,HWKN
+183,,2014-08-11 17:19:34,2014-08-07,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,1011,9999,+11%,0.0,-1.0,0.0,6.0,10.0,HWKN
+184,,2014-08-11 17:18:43,2014-08-07,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,1011,6016,+20%,0.0,-1.0,0.0,6.0,10.0,HWKN
+185,,2014-06-02 19:33:41,2014-05-29,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",A - Grant,0.0,3898,19851,+24%,0.0,-1.0,3.0,3.0,11.0,HWKN
+186,,2014-06-02 19:30:35,2014-05-29,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,7568,53710,+16%,0.0,-1.0,3.0,3.0,11.0,HWKN
+187,,2014-06-02 19:29:07,2014-05-29,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,3492,11256,+45%,0.0,-1.0,3.0,3.0,11.0,HWKN
+188,,2014-06-02 19:26:05,2014-05-29,HWKN,Moran Theresa R,"VP - Quality, Support",A - Grant,0.0,1703,43763,+4%,0.0,-1.0,3.0,3.0,11.0,HWKN
+189,,2014-06-02 19:25:27,2014-05-29,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,3422,41002,+9%,0.0,-1.0,3.0,3.0,11.0,HWKN
+190,,2014-06-02 19:22:43,2014-05-29,HWKN,Keller Thomas J.,VP - Water Treatment Group,A - Grant,0.0,3100,59512,+5%,0.0,-1.0,3.0,3.0,11.0,HWKN
+191,,2014-05-06 16:32:13,2014-04-29,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,37.26,-1401,37580,-4%,-52201.0,0.0,3.0,2.0,12.0,HWKN
+192,,2014-05-06 16:31:05,2014-04-29,HWKN,Erstad Richard G,"VP, GC, Sec",F - Tax,37.26,-1427,7764,-16%,-53170.0,0.0,3.0,2.0,12.0,HWKN
+193,,2014-05-06 16:31:05,2013-12-05,HWKN,Erstad Richard G,"VP, GC, Sec",G - Gift,0.0,-550,7764,-7%,-0.0,0.0,3.0,2.0,12.0,HWKN
+194,,2014-05-06 16:30:10,2014-04-29,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",F - Tax,37.26,-1505,15953,-9%,-56076.0,0.0,3.0,2.0,12.0,HWKN
+195,,2014-05-06 16:29:02,2014-04-29,HWKN,Moran Theresa R,"VP - Quality, Support",F - Tax,37.26,-761,42060,-2%,-28355.0,0.0,3.0,2.0,12.0,HWKN
+196,,2014-05-06 16:25:22,2014-04-29,HWKN,Hawkins Patrick H.,"CEO, Pres",F - Tax,37.26,-2826,46142,-6%,-105297.0,0.0,3.0,2.0,12.0,HWKN
+197,,2013-08-06 21:32:18,2013-08-05,HWKN,Erstad Richard G,"VP, GC, Sec",S - Sale,41.51,-2500,9548,-21%,-103783.0,0.0,-1.0,-8.0,-14.0,HWKN
+198,,2013-08-05 21:33:38,2013-08-01,HWKN,McKeon John S,Dir,A - Grant,0.0,865,36809,+2%,0.0,-2.0,-5.0,-11.0,-15.0,HWKN
+199,,2013-08-05 21:32:32,2013-08-01,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,865,8818,+11%,0.0,-2.0,-5.0,-11.0,-15.0,HWKN
+200,,2013-08-05 21:31:53,2013-08-01,HWKN,Schumacher Mary J.,Dir,A - Grant,0.0,865,865,New,0.0,-2.0,-5.0,-11.0,-15.0,HWKN
+201,,2013-08-05 21:31:23,2013-08-01,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,865,8111,+12%,0.0,-2.0,-5.0,-11.0,-15.0,HWKN
+202,,2013-08-05 21:30:31,2013-08-01,HWKN,Thompson James T,Dir,A - Grant,0.0,865,8005,+12%,0.0,-2.0,-5.0,-11.0,-15.0,HWKN
+203,,2013-08-05 21:29:51,2013-08-01,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,865,5005,+21%,0.0,-2.0,-5.0,-11.0,-15.0,HWKN
+204,,2013-08-05 21:29:05,2013-08-01,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,865,22132,+4%,0.0,-2.0,-5.0,-11.0,-15.0,HWKN
+205,,2013-06-18 11:42:47,2013-05-20,HWKN,Keller Thomas J.,VP - Water Treatment Group,A - Grant,0.0,3556,56012,+7%,0.0,3.0,0.0,7.0,-6.0,HWKN
+206,,2013-06-18 11:42:47,2012-11-07,HWKN,Keller Thomas J.,VP - Water Treatment Group,G - Gift,0.0,-190,56012,0%,-0.0,3.0,0.0,7.0,-6.0,HWKN
+207,,2013-06-17 21:04:04,2013-05-20,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,8684,47937,+22%,0.0,3.0,1.0,7.0,-7.0,HWKN
+208,,2013-06-17 21:03:49,2013-05-20,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,3920,37968,+12%,0.0,3.0,1.0,7.0,-7.0,HWKN
+209,,2013-06-17 21:00:37,2013-05-20,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,4003,11826,+51%,0.0,3.0,1.0,7.0,-7.0,HWKN
+210,,2013-06-17 20:57:34,2013-05-20,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",A - Grant,0.0,4466,16844,+36%,0.0,3.0,1.0,7.0,-7.0,HWKN
+211,,2013-06-17 20:54:09,2013-05-20,HWKN,Moran Theresa R,"VP - Quality, Support",A - Grant,0.0,1952,42298,+5%,0.0,3.0,1.0,7.0,-7.0,HWKN
+212,,2013-04-05 19:20:41,2013-04-03,HWKN,Erstad Richard G,"VP, GC, Sec",F - Tax,38.8,-1647,7823,-17%,-63904.0,1.0,-3.0,-4.0,-5.0,HWKN
+213,,2013-04-05 19:20:41,2012-09-11,HWKN,Erstad Richard G,"VP, GC, Sec",G - Gift,0.0,-550,7823,-7%,-0.0,1.0,-3.0,-4.0,-5.0,HWKN
+214,,2013-04-05 17:23:38,2013-04-03,HWKN,Moran Theresa R,"VP - Quality, Support",F - Tax,38.8,-878,40343,-2%,-34066.0,1.0,-3.0,-4.0,-5.0,HWKN
+215,,2013-04-05 17:23:01,2013-04-03,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,38.8,-1556,33680,-4%,-60373.0,1.0,-3.0,-4.0,-5.0,HWKN
+216,,2013-04-05 17:17:48,2013-04-03,HWKN,Hawkins Patrick H.,"CEO, Pres",F - Tax,38.8,-2465,38850,-6%,-95642.0,1.0,-3.0,-4.0,-5.0,HWKN
+217,,2013-04-05 17:04:13,2013-04-03,HWKN,Beyer Mark A,VP Operations,F - Tax,38.8,-1478,6522,-18%,-57346.0,1.0,-3.0,-4.0,-5.0,HWKN
+218,,2013-04-05 17:00:18,2013-04-03,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",F - Tax,38.8,-1741,12378,-12%,-67551.0,1.0,-3.0,-4.0,-5.0,HWKN
+219,,2012-12-14 18:00:53,2012-12-12,HWKN,Skaar Daryl I,Dir,S - Sale,40.57,-3125,7893,-28%,-126786.0,1.0,0.0,-1.0,1.0,HWKN
+220,D,2012-12-13 17:35:29,2012-12-11,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",M - OptEx,19.9,3426,14119,+32%,68177.0,-1.0,-1.0,-1.0,-1.0,HWKN
+221,D,2012-12-13 17:35:29,2012-12-11,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",S - Sale+OE,40.0,-3426,14119,-20%,-137040.0,-1.0,-1.0,-1.0,-1.0,HWKN
+222,,2012-12-07 17:37:04,2012-12-05,HWKN,Sevenich John R,"VP, Industrial Group",S - Sale,39.0,-2355,35236,-6%,-91845.0,1.0,1.0,-3.0,3.0,HWKN
+223,DM,2012-12-04 17:44:56,2012-11-30,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",M - OptEx,19.9,5907,14119,+72%,117549.0,-1.0,1.0,3.0,2.0,HWKN
+224,DM,2012-12-04 17:44:56,2012-11-30,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",S - Sale+OE,40.0,-5907,14119,-29%,-236280.0,-1.0,1.0,3.0,2.0,HWKN
+225,ADM,2012-09-10 17:23:05,2012-09-05,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",M - OptEx,15.43,9314,14119,+194%,143715.0,-2.0,-2.0,-2.0,-4.0,HWKN
+226,ADM,2012-09-10 17:23:05,2012-09-05,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",S - Sale+OE,39.0,-9314,14119,-40%,-363246.0,-2.0,-2.0,-2.0,-4.0,HWKN
+227,AD,2012-09-10 17:22:13,2012-08-28,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",M - OptEx,15.43,19,14119,0%,293.0,-2.0,-2.0,-2.0,-4.0,HWKN
+228,AD,2012-09-10 17:22:13,2012-08-28,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",S - Sale+OE,39.0,-19,14119,0%,-741.0,-2.0,-2.0,-2.0,-4.0,HWKN
+229,,2012-09-10 17:20:48,2012-09-06,HWKN,Moran Theresa R,"VP - Quality, Support",S - Sale,40.0,-2606,41130,-6%,-104240.0,-2.0,-2.0,-2.0,-4.0,HWKN
+230,,2012-09-07 17:26:21,2012-09-06,HWKN,Erstad Richard G,"VP, GC, Sec",S - Sale,39.96,-1200,10020,-11%,-47954.0,1.0,1.0,0.0,-3.0,HWKN
+231,M,2012-09-07 17:26:07,2012-09-05,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",S - Sale,39.0,-9314,4786,-66%,-363246.0,1.0,1.0,0.0,-3.0,HWKN
+232,,2012-08-30 17:47:07,2012-08-28,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",S - Sale,39.0,-19,14100,0%,-741.0,0.0,4.0,9.0,4.0,HWKN
+233,D,2012-08-08 16:47:06,2012-08-06,HWKN,Erstad Richard G,"VP, GC, Sec",M - OptEx,19.9,9333,11220,+495%,185727.0,-1.0,-3.0,6.0,4.0,HWKN
+234,DM,2012-08-08 16:47:06,2012-08-06,HWKN,Erstad Richard G,"VP, GC, Sec",S - Sale+OE,38.05,-9333,11220,-45%,-355148.0,-1.0,-3.0,6.0,4.0,HWKN
+235,,2012-08-06 17:45:10,2012-08-02,HWKN,McKeon John S,Dir,A - Grant,0.0,954,35528,+3%,0.0,-1.0,-1.0,1.0,3.0,HWKN
+236,,2012-08-06 17:44:28,2012-08-02,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,954,7246,+15%,0.0,-1.0,-1.0,1.0,3.0,HWKN
+237,,2012-08-06 17:43:36,2012-08-02,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,954,21267,+5%,0.0,-1.0,-1.0,1.0,3.0,HWKN
+238,,2012-08-06 17:42:58,2012-08-02,HWKN,Thompson James T,Dir,A - Grant,0.0,954,7140,+15%,0.0,-1.0,-1.0,1.0,3.0,HWKN
+239,,2012-08-06 17:41:44,2012-08-02,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,954,10944,+10%,0.0,-1.0,-1.0,1.0,3.0,HWKN
+240,,2012-08-06 17:40:17,2012-08-02,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,954,4140,+30%,0.0,-1.0,-1.0,1.0,3.0,HWKN
+241,A,2012-06-08 16:07:11,2011-06-17,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,7417,19931,+59%,0.0,-4.0,0.0,18.0,17.0,HWKN
+242,,2012-06-04 17:27:38,2012-05-31,HWKN,Moran Theresa R,"VP - Quality, Support",A - Grant,0.0,2028,43736,+5%,0.0,0.0,7.0,22.0,23.0,HWKN
+243,,2012-06-04 16:57:45,2012-05-31,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",A - Grant,0.0,4429,14119,+46%,0.0,0.0,7.0,22.0,23.0,HWKN
+244,,2012-06-04 16:57:00,2012-05-31,HWKN,Beyer Mark A,VP Operations,A - Grant,0.0,3762,8000,+89%,0.0,0.0,7.0,22.0,23.0,HWKN
+245,,2012-06-04 16:55:42,2012-05-31,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,4068,37591,+12%,0.0,0.0,7.0,22.0,23.0,HWKN
+246,,2012-06-04 16:54:37,2012-05-31,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,4152,11220,+59%,0.0,0.0,7.0,22.0,23.0,HWKN
+247,,2012-06-04 16:53:45,2012-05-31,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,8623,40350,+27%,0.0,0.0,7.0,22.0,23.0,HWKN
+248,,2012-04-09 18:24:00,2012-04-06,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,37.72,-1145,33523,-3%,-43189.0,-2.0,-2.0,-11.0,12.0,HWKN
+249,,2012-04-09 18:22:18,2012-04-06,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",F - Tax,37.72,-1200,9690,-11%,-45264.0,-2.0,-2.0,-11.0,12.0,HWKN
+250,,2012-04-09 18:20:50,2012-04-06,HWKN,Paulson Keenan A,"VP, Water Treatment Group",F - Tax,37.72,-434,41893,-1%,-16370.0,-2.0,-2.0,-11.0,12.0,HWKN
+251,,2012-04-09 18:18:50,2012-04-06,HWKN,Erstad Richard G,"VP, GC, Sec",F - Tax,37.72,-1201,7068,-15%,-45302.0,-2.0,-2.0,-11.0,12.0,HWKN
+252,D,2012-02-21 15:22:16,2012-02-16,HWKN,Sevenich John R,"VP, Industrial Group",M - OptEx,15.43,9333,34668,+37%,144008.0,-2.0,0.0,-11.0,-5.0,HWKN
+253,DM,2012-02-21 15:22:16,2012-02-16,HWKN,Sevenich John R,"VP, Industrial Group",S - Sale+OE,41.06,-9333,34668,-21%,-383199.0,-2.0,0.0,-11.0,-5.0,HWKN
+254,,2011-12-08 16:35:47,2011-12-06,HWKN,Sevenich John R,"VP, Industrial Group",S - Sale,39.0,-2297,34668,-6%,-89583.0,7.0,-3.0,2.0,-5.0,HWKN
+255,A,2011-12-08 16:34:22,2011-03-28,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,40.47,-1203,5797,-17%,-48685.0,7.0,-3.0,2.0,-5.0,HWKN
+256,,2011-09-09 16:47:34,2011-08-02,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,1020,3186,+47%,0.0,1.0,9.0,1.0,10.0,HWKN
+257,,2011-09-09 16:43:59,2011-08-02,HWKN,Thompson James T,Dir,A - Grant,0.0,1020,6186,+20%,0.0,1.0,9.0,1.0,10.0,HWKN
+258,,2011-09-09 16:43:59,2011-09-07,HWKN,Thompson James T,Dir,P - Purchase,33.67,3000,6186,+94%,101010.0,1.0,9.0,1.0,10.0,HWKN
+259,,2011-09-09 16:42:27,2011-08-02,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,1020,9827,+12%,0.0,1.0,9.0,1.0,10.0,HWKN
+260,,2011-09-09 16:40:19,2011-08-02,HWKN,McKeon John S,Dir,A - Grant,0.0,1020,34142,+3%,0.0,1.0,9.0,1.0,10.0,HWKN
+261,,2011-09-09 16:38:25,2011-08-02,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,1020,20313,+5%,0.0,1.0,9.0,1.0,10.0,HWKN
+262,,2011-09-09 16:35:21,2011-08-02,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1020,6292,+19%,0.0,1.0,9.0,1.0,10.0,HWKN
+263,D,2011-08-31 14:45:31,2011-08-30,HWKN,Paulson Keenan A,"VP, Water Treatment Group",M - OptEx,15.43,9333,42327,+28%,144008.0,-1.0,-3.0,-8.0,6.0,HWKN
+264,D,2011-08-31 14:45:31,2011-08-30,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale+OE,35.64,-9333,42327,-18%,-332628.0,-1.0,-3.0,-8.0,6.0,HWKN
+265,,2011-06-21 19:06:49,2011-06-17,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,4493,36965,+14%,0.0,-3.0,-4.0,4.0,0.0,HWKN
+266,,2011-06-21 19:03:18,2011-06-17,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",A - Grant,0.0,5086,10890,+88%,0.0,-3.0,-4.0,4.0,0.0,HWKN
+267,,2011-06-21 19:00:11,2011-06-17,HWKN,Paulson Keenan A,"VP, Water Treatment Group",A - Grant,0.0,4981,42327,+13%,0.0,-3.0,-4.0,4.0,0.0,HWKN
+268,,2011-06-21 19:00:11,2011-06-17,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,35.0,-3876,42327,-8%,-135660.0,-3.0,-4.0,4.0,0.0,HWKN
+269,,2011-06-21 18:57:42,2011-06-17,HWKN,Moran Theresa R,"VP - Quality, Support",A - Grant,0.0,2337,41552,+6%,0.0,-3.0,-4.0,4.0,0.0,HWKN
+270,A,2011-06-21 18:55:03,2010-09-03,HWKN,Moran Theresa R,"VP - Quality, Support",S - Sale,32.0,-380,38901,-1%,-12160.0,-3.0,-4.0,4.0,0.0,HWKN
+271,,2011-06-21 18:48:23,2011-06-17,HWKN,Hawkins Patrick H.,"CEO, Pres",A - Grant,0.0,7417,31133,+31%,0.0,-3.0,-4.0,4.0,0.0,HWKN
+272,,2011-06-21 18:45:39,2011-06-17,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,4769,8269,+136%,0.0,-3.0,-4.0,4.0,0.0,HWKN
+273,,2011-06-21 18:44:15,2011-06-17,HWKN,Beyer Mark A,VP Operations,A - Grant,0.0,4238,4238,New,0.0,-3.0,-4.0,4.0,0.0,HWKN
+274,M,2011-03-30 17:28:58,2011-03-28,HWKN,Paulson Keenan A,"VP, Water Treatment Group",F - Tax,40.26,-1957,5043,-28%,-78795.0,-1.0,0.0,13.0,-17.0,HWKN
+275,,2011-03-30 17:28:33,2011-03-29,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",F - Tax,40.47,-1196,5804,-17%,-48402.0,-1.0,0.0,13.0,-17.0,HWKN
+276,,2011-03-30 17:27:58,2011-03-28,HWKN,Sevenich John R,"VP, Industrial Group",F - Tax,40.47,-1203,5797,-17%,-48685.0,-1.0,0.0,13.0,-17.0,HWKN
+277,M,2011-02-10 16:06:04,2010-08-30,HWKN,Hawkins John R,CEO,G - Gift,0.0,-2800,60959,-4%,-0.0,-2.0,-1.0,-7.0,-22.0,HWKN
+278,,2011-02-10 16:06:04,2011-02-08,HWKN,Hawkins John R,CEO,S - Sale,38.44,-10000,60959,-14%,-384400.0,-2.0,-1.0,-7.0,-22.0,HWKN
+279,,2010-09-30 12:56:36,2010-09-13,HWKN,Moran Theresa R,"VP - Quality, Support",S - Sale,32.0,-118,2765,-4%,-3776.0,0.0,8.0,-1.0,18.0,HWKN
+280,M,2010-09-07 14:48:28,2010-09-02,HWKN,Moran Theresa R,"VP - Quality, Support",S - Sale,32.09,-2711,2883,-48%,-86984.0,-2.0,4.0,27.0,18.0,HWKN
+281,,2010-07-30 15:53:59,2010-07-28,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,1166,2166,+117%,0.0,6.0,8.0,2.0,27.0,HWKN
+282,,2010-07-30 15:53:22,2010-07-28,HWKN,Thompson James T,Dir,A - Grant,0.0,1166,2166,+117%,0.0,6.0,8.0,2.0,27.0,HWKN
+283,,2010-07-30 15:52:19,2010-07-28,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,1166,8673,+16%,0.0,6.0,8.0,2.0,27.0,HWKN
+284,,2010-07-30 15:50:15,2010-07-28,HWKN,McKeon John S,Dir,A - Grant,0.0,1166,32734,+4%,0.0,6.0,8.0,2.0,27.0,HWKN
+285,,2010-07-30 15:47:14,2010-07-28,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,1166,19293,+6%,0.0,6.0,8.0,2.0,27.0,HWKN
+286,,2010-07-30 15:44:20,2010-07-28,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1166,5272,+28%,0.0,6.0,8.0,2.0,27.0,HWKN
+287,,2010-06-11 11:12:35,2010-06-09,HWKN,Hawkins John R,CEO,G - Gift,0.0,-770,73759,-1%,-0.0,2.0,11.0,1.0,76.0,HWKN
+288,,2010-06-11 11:12:35,2010-06-09,HWKN,Hawkins John R,CEO,S - Sale,23.96,-7000,73759,-9%,-167696.0,2.0,11.0,1.0,76.0,HWKN
+289,,2010-06-04 17:31:46,2010-06-02,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,3500,33675,+12%,0.0,0.0,4.0,5.0,76.0,HWKN
+290,,2010-06-04 17:24:28,2010-06-02,HWKN,Paulson Keenan A,"VP, Water Treatment Group",A - Grant,0.0,3500,61412,+6%,0.0,0.0,4.0,5.0,76.0,HWKN
+291,,2010-06-04 17:19:03,2010-06-02,HWKN,Erstad Richard G,"VP, GC, Sec",A - Grant,0.0,3500,3500,New,0.0,0.0,4.0,5.0,76.0,HWKN
+292,,2010-06-04 17:18:40,2010-06-02,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",A - Grant,0.0,3500,7000,+100%,0.0,0.0,4.0,5.0,76.0,HWKN
+293,,2010-06-04 17:18:16,2010-06-02,HWKN,Hawkins John R,CEO,A - Grant,0.0,12500,182853,+7%,0.0,0.0,4.0,5.0,76.0,HWKN
+294,,2010-03-15 18:12:14,2010-03-11,HWKN,Sevenich John R,"VP, Industrial Group",S - Sale,21.71,-2786,30010,-8%,-60475.0,2.0,5.0,18.0,42.0,HWKN
+295,,2010-03-11 18:49:21,2010-03-09,HWKN,Sevenich John R,"VP, Industrial Group",G - Gift,0.0,-2837,32768,+9%,-0.0,-1.0,5.0,16.0,41.0,HWKN
+296,,2010-03-05 17:53:17,2010-03-03,HWKN,Hawkins John R,CEO,S - Sale,21.64,-5000,170329,-3%,-108200.0,0.0,1.0,14.0,49.0,HWKN
+297,,2010-02-05 16:45:44,2009-11-18,HWKN,Hawkins John R,CEO,G - Gift,0.0,-3100,175329,-2%,-0.0,0.0,-1.0,10.0,68.0,HWKN
+298,,2010-02-05 16:45:44,2010-02-03,HWKN,Hawkins John R,CEO,S - Sale,20.37,-4592,175329,-3%,-93539.0,0.0,-1.0,10.0,68.0,HWKN
+299,,2009-11-06 17:14:15,2009-11-04,HWKN,Sevenich John R,"VP, Industrial Group",S - Sale,21.95,-1316,32768,-4%,-28889.0,0.0,-1.0,1.0,32.0,HWKN
+300,,2009-08-07 17:54:02,2009-08-05,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1000,4106,+32%,0.0,1.0,3.0,4.0,4.0,HWKN
+301,,2009-08-07 17:51:56,2009-08-05,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,1000,18127,+6%,0.0,1.0,3.0,4.0,4.0,HWKN
+302,,2009-08-07 17:50:25,2009-08-05,HWKN,Thompson James T,Dir,A - Grant,0.0,1000,1000,New,0.0,1.0,3.0,4.0,4.0,HWKN
+303,,2009-08-07 17:46:40,2009-08-05,HWKN,Wright Jeffrey L,Dir,A - Grant,0.0,1000,1000,New,0.0,1.0,3.0,4.0,4.0,HWKN
+304,,2009-08-07 17:44:25,2009-08-05,HWKN,McKeon John S,Dir,A - Grant,0.0,1000,31505,+3%,0.0,1.0,3.0,4.0,4.0,HWKN
+305,,2009-08-07 17:41:23,2009-08-05,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,1000,7326,+16%,0.0,1.0,3.0,4.0,4.0,HWKN
+306,,2009-06-26 15:39:35,2009-06-25,HWKN,Hawkins Howard M,Dir,S - Sale,21.77,-5000,326773,-2%,-108850.0,4.0,5.0,-9.0,3.0,HWKN
+307,,2009-06-18 18:40:44,2009-06-16,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,20.41,-10,58748,0%,-199.0,4.0,4.0,-1.0,1.0,HWKN
+308,M,2009-06-15 18:14:37,2009-06-12,HWKN,Hawkins John R,CEO,S - Sale,20.41,-4000,181317,-2%,-81620.0,0.0,4.0,0.0,2.0,HWKN
+309,D,2009-06-12 18:12:54,2009-06-10,HWKN,Hawkins John R,CEO,A - Grant,0.0,12500,185317,+7%,0.0,1.0,2.0,3.0,4.0,HWKN
+310,D,2009-06-12 18:11:45,2009-06-10,HWKN,Paulson Keenan A,"VP, Water Treatment Group",A - Grant,0.0,3500,58748,+6%,0.0,1.0,2.0,3.0,4.0,HWKN
+311,D,2009-06-12 18:11:30,2009-06-10,HWKN,Pepski Kathleen P.,"VP, CFO, Treas",A - Grant,0.0,3500,3500,New,0.0,1.0,2.0,3.0,4.0,HWKN
+312,D,2009-06-12 18:11:09,2009-06-10,HWKN,Sevenich John R,"VP, Industrial Group",A - Grant,0.0,3500,33914,+12%,0.0,1.0,2.0,3.0,4.0,HWKN
+313,DM,2009-06-12 18:11:09,2009-06-11,HWKN,Sevenich John R,"VP, Industrial Group",G - Gift,0.0,-2600,33914,+8%,-0.0,1.0,2.0,3.0,4.0,HWKN
+314,M,2009-06-11 17:17:42,2009-06-09,HWKN,Hawkins John R,CEO,S - Sale,19.83,-2000,172817,-1%,-39668.0,4.0,5.0,7.0,7.0,HWKN
+315,,2009-06-11 17:16:22,2009-06-10,HWKN,Sevenich John R,"VP, Industrial Group",S - Sale,19.67,-1600,30414,-5%,-31472.0,4.0,5.0,7.0,7.0,HWKN
+316,M,2009-03-26 14:16:13,2009-02-10,HWKN,Hawkins John R,CEO,S - Sale,15.02,-408,174817,0%,-6127.0,2.0,3.0,15.0,66.0,HWKN
+317,,2009-01-06 17:22:28,2008-12-29,HWKN,Hawkins John R,CEO,G - Gift,0.0,-2000,175180,-1%,-0.0,0.0,-2.0,-5.0,47.0,HWKN
+318,,2008-09-15 17:03:37,2008-09-12,HWKN,Hawkins John R,CEO,S - Sale,17.55,-29686,168820,-15%,-520989.0,-3.0,5.0,-1.0,-16.0,HWKN
+319,,2008-09-15 17:03:37,2008-09-11,HWKN,Hawkins John R,CEO,W - Inherited,0.0,12437,168820,-7%,0.0,-3.0,5.0,-1.0,-16.0,HWKN
+320,,2008-09-15 16:56:28,2008-09-11,HWKN,Hawkins Howard M,Dir,W - Inherited,0.0,27887,325398,-8%,0.0,-3.0,5.0,-1.0,-16.0,HWKN
+321,,2008-09-15 16:54:46,2008-09-11,HWKN,Sevenich John R,"VP, Industrial",S - Sale,17.34,-1600,29730,-5%,-27748.0,-3.0,5.0,-1.0,-16.0,HWKN
+322,,2008-09-15 16:52:10,2008-06-20,HWKN,Sevenich John R,"VP, Industrial",G - Gift,0.0,-6400,29195,+28%,-0.0,-3.0,5.0,-1.0,-16.0,HWKN
+323,,2008-08-29 12:08:11,2008-08-27,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,15.54,-2639,49863,-5%,-41017.0,1.0,3.0,8.0,-15.0,HWKN
+324,,2008-08-28 14:35:38,2008-08-27,HWKN,Chacko Eapen,Dir,P - Purchase,15.69,1000,4123,+32%,15690.0,2.0,3.0,11.0,-11.0,HWKN
+325,,2008-08-11 15:33:02,2008-08-07,HWKN,Gey G Robert,Dir,A - Grant,0.0,1000,11957,+9%,0.0,1.0,-4.0,5.0,-1.0,HWKN
+326,,2008-08-11 15:32:39,2008-08-07,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1000,3098,+48%,0.0,1.0,-4.0,5.0,-1.0,HWKN
+327,,2008-08-11 15:32:24,2008-08-07,HWKN,Hawkins Howard M,Dir,A - Grant,0.0,1000,296212,0%,0.0,1.0,-4.0,5.0,-1.0,HWKN
+328,,2008-08-11 15:32:07,2008-08-07,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,1000,16902,+6%,0.0,1.0,-4.0,5.0,-1.0,HWKN
+329,,2008-08-11 15:31:48,2008-08-07,HWKN,McKeon John S,Dir,A - Grant,0.0,1000,29930,+3%,0.0,1.0,-4.0,5.0,-1.0,HWKN
+330,,2008-08-11 15:31:26,2008-08-07,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,1000,6161,+19%,0.0,1.0,-4.0,5.0,-1.0,HWKN
+331,,2008-08-11 15:31:09,2008-08-07,HWKN,Chacko Eapen,Dir,A - Grant,0.0,1000,3123,+47%,0.0,1.0,-4.0,5.0,-1.0,HWKN
+332,,2008-03-21 14:04:30,2008-03-19,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,14.95,-626,50639,-1%,-9360.0,2.0,3.0,8.0,18.0,HWKN
+333,,2008-03-06 14:26:52,2008-03-06,HWKN,Soderlund Daniel E,"VP, Pharmaceutical",S - Sale,14.82,-1000,16752,-6%,-14820.0,-2.0,-2.0,6.0,6.0,HWKN
+334,M,2007-12-31 12:16:02,2007-12-27,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,14.75,-8900,51092,-15%,-131279.0,0.0,0.0,0.0,2.0,HWKN
+335,,2007-12-27 10:48:36,2007-12-21,HWKN,Hawkins John R,"COB, CEO",G - Gift,0.0,-2000,182648,-1%,-0.0,0.0,1.0,2.0,4.0,HWKN
+336,A,2007-12-20 13:54:30,2007-12-15,HWKN,Hawkins John R,"COB, CEO",F - Tax,14.68,-2083,184648,-1%,-30578.0,-2.0,1.0,1.0,4.0,HWKN
+337,A,2007-12-20 13:54:06,2007-12-15,HWKN,Paulson Keenan A,"VP, Water Treatment Group",F - Tax,14.68,-408,59992,-1%,-5989.0,-2.0,1.0,1.0,4.0,HWKN
+338,A,2007-12-20 13:53:47,2007-12-15,HWKN,Dee Marvin E,"Secretary, Treasurer",F - Tax,14.68,-2050,16916,-11%,-30094.0,-2.0,1.0,1.0,4.0,HWKN
+339,,2007-12-18 15:17:22,2007-12-15,HWKN,Paulson Keenan A,"VP, Water Treatment Group",F - Tax,14.96,-408,59992,-1%,-6102.0,0.0,2.0,2.0,6.0,HWKN
+340,,2007-12-18 15:16:57,2007-12-15,HWKN,Hawkins John R,"COB, CEO",F - Tax,14.96,-2083,184648,-1%,-31152.0,0.0,2.0,2.0,6.0,HWKN
+341,,2007-12-18 15:16:36,2007-12-15,HWKN,Dee Marvin E,"Secretary, Treasurer",F - Tax,14.96,-2050,16916,-11%,-30658.0,0.0,2.0,2.0,6.0,HWKN
+342,,2007-12-12 12:02:47,2007-12-05,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,15.0,-3193,60341,-5%,-47895.0,1.0,-3.0,2.0,5.0,HWKN
+343,,2007-12-05 16:14:16,2007-12-04,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,15.0,-4405,63534,-6%,-66075.0,0.0,0.0,0.0,7.0,HWKN
+344,,2007-11-27 12:57:46,2007-11-08,HWKN,Hawkins Howard M,Dir,G - Gift,0.0,-2600,294212,-1%,-0.0,0.0,0.0,-1.0,5.0,HWKN
+345,,2007-09-26 16:37:46,2007-09-24,HWKN,Sevenich John R,"VP, Industrial",S - Sale,14.46,-5228,29872,-15%,-75587.0,0.0,2.0,7.0,10.0,HWKN
+346,,2007-09-24 11:43:55,2007-09-19,HWKN,Gey G Robert,Dir,A - Grant,0.0,1000,10643,+10%,0.0,0.0,-1.0,5.0,8.0,HWKN
+347,,2007-09-21 16:12:44,2007-09-19,HWKN,Hawkins Howard M,Dir,A - Grant,0.0,1000,296683,0%,0.0,0.0,-1.0,6.0,5.0,HWKN
+348,,2007-09-21 13:03:46,2007-09-18,HWKN,McKeon John S,Dir,A - Grant,0.0,1000,28420,+4%,0.0,1.0,-1.0,7.0,6.0,HWKN
+349,,2007-09-21 13:03:24,2007-09-19,HWKN,Chacko Eapen,Dir,A - Grant,0.0,1000,2098,+91%,0.0,1.0,-1.0,7.0,6.0,HWKN
+350,,2007-09-21 13:02:50,2007-09-19,HWKN,Faulconbridge James A,Dir,A - Grant,0.0,1000,2082,+92%,0.0,1.0,-1.0,7.0,6.0,HWKN
+351,,2007-09-21 13:02:27,2007-09-19,HWKN,Skaar Daryl I,Dir,A - Grant,0.0,1000,5036,+25%,0.0,1.0,-1.0,7.0,6.0,HWKN
+352,,2007-09-21 13:01:57,2007-09-19,HWKN,Jergenson Duane M,Dir,A - Grant,0.0,1000,15454,+7%,0.0,1.0,-1.0,7.0,6.0,HWKN
+353,,2007-06-25 12:58:13,2007-06-21,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,15.24,-3970,71333,-5%,-60520.0,0.0,1.0,2.0,-5.0,HWKN
+354,,2007-06-22 16:15:51,2007-06-20,HWKN,Soderlund Daniel E,"VP, Pharmaceutical",S - Sale,15.35,-3000,17058,-15%,-46050.0,0.0,1.0,3.0,-3.0,HWKN
+355,,2007-01-10 10:24:25,2006-12-22,HWKN,Hawkins John R,"COB, CEO",G - Gift,0.0,-2000,188842,-1%,-0.0,-1.0,0.0,5.0,11.0,HWKN
+356,,2006-12-19 19:58:43,2006-12-07,HWKN,Hawkins Howard M,Dir,G - Gift,0.0,-1400,298261,0%,-0.0,-1.0,0.0,0.0,9.0,HWKN
+357,,2006-12-19 19:49:01,2006-12-15,HWKN,Hawkins John R,"COB, CEO",A - Grant,0.0,5000,190842,+3%,0.0,-1.0,0.0,0.0,9.0,HWKN
+358,,2006-12-19 19:47:23,2006-12-15,HWKN,Paulson Keenan A,"VP, Water Treatment Group",A - Grant,0.0,1034,73687,+1%,0.0,-1.0,0.0,0.0,9.0,HWKN
+359,,2006-12-19 19:34:19,2006-12-15,HWKN,Dee Marvin E,"Secretary, Treasurer",A - Grant,0.0,2500,19661,+15%,0.0,-1.0,0.0,0.0,9.0,HWKN
+360,,2006-09-20 13:52:40,2006-09-18,HWKN,Sevenich John R,"VP, Industrial",S - Sale,13.72,-5100,33651,-13%,-69949.0,3.0,4.0,8.0,11.0,HWKN
+361,,2006-07-17 09:57:13,2006-07-11,HWKN,Sevenich John R,"VP, Industrial",G - Gift,0.0,-10200,35063,+41%,-0.0,-1.0,-1.0,0.0,5.0,HWKN
+362,,2006-06-29 14:52:30,2006-06-29,HWKN,Hawkins Howard M,Dir,S - Sale,13.88,-3000,299183,-1%,-41642.0,1.0,1.0,-4.0,6.0,HWKN
+363,,2006-06-27 16:34:26,2006-06-26,HWKN,Soderlund Daniel E,"VP, Pharmaceutical",S - Sale,13.88,-1000,18654,-5%,-13882.0,0.0,1.0,-2.0,5.0,HWKN
+364,M,2006-03-21 12:52:04,2006-03-17,HWKN,Shipp Donald L,Dir,S - Sale,14.0,-3531,215909,-2%,-49434.0,1.0,1.0,2.0,0.0,HWKN
+365,,2006-03-17 18:38:31,2006-03-16,HWKN,Sevenich John R,"VP, Industrial",S - Sale,13.72,-5400,39279,-12%,-74077.0,0.0,-1.0,2.0,1.0,HWKN
+366,,2006-03-17 09:43:59,2006-03-15,HWKN,Shipp Donald L,Dir,S - Sale,14.0,-2900,219440,-1%,-40600.0,3.0,2.0,5.0,4.0,HWKN
+367,,2006-03-15 20:24:27,2006-03-14,HWKN,Shipp Donald L,Dir,S - Sale,14.0,-2969,222340,-1%,-41566.0,-3.0,0.0,2.0,1.0,HWKN
+368,,2006-03-14 17:56:41,2006-03-13,HWKN,Shipp Donald L,Dir,S - Sale,14.0,-600,225309,0%,-8400.0,2.0,1.0,4.0,4.0,HWKN
+369,,2006-01-13 10:40:35,2005-12-22,HWKN,Hawkins John R,"COB, CEO",G - Gift,0.0,-2000,186258,-1%,-0.0,0.0,1.0,5.0,1.0,HWKN
+370,,2006-01-12 19:19:47,2005-09-28,HWKN,Sevenich John R,"VP, Industrial",G - Gift,0.0,-10800,39353,+38%,-0.0,-1.0,2.0,1.0,2.0,HWKN
+371,,2005-12-16 19:11:09,2005-12-14,HWKN,Skaar Daryl I,Dir,S - Sale,14.37,-1392,2557,-35%,-20000.0,4.0,-2.0,-3.0,0.0,HWKN
+372,,2005-11-17 18:33:09,2005-11-15,HWKN,Skaar Daryl I,Dir,S - Sale,13.58,-1104,3949,-22%,-15000.0,1.0,4.0,7.0,7.0,HWKN
+373,,2005-09-30 11:31:06,2005-09-29,HWKN,Shipp Donald L,Dir,S - Sale,13.9,-5000,225579,-2%,-69500.0,-1.0,-4.0,0.0,3.0,HWKN
+374,,2005-09-29 10:49:43,2005-09-27,HWKN,Shipp Donald L,Dir,S - Sale,14.01,-5000,230579,-2%,-70050.0,-1.0,-3.0,-3.0,1.0,HWKN
+375,,2005-09-14 13:05:33,2005-09-12,HWKN,Soderlund Daniel E,"VP, Pharmaceutical",S - Sale,13.14,-1000,18154,-5%,-13142.0,-1.0,3.0,1.0,3.0,HWKN
+376,,2005-08-29 13:24:11,2005-08-23,HWKN,Paulson Keenan A,"VP, Water Treatment Group",G - Gift,0.0,-4000,71865,+6%,-0.0,-1.0,-1.0,9.0,9.0,HWKN
+377,,2005-08-29 13:24:11,2005-08-25,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,12.87,-2000,71865,-3%,-25730.0,-1.0,-1.0,9.0,9.0,HWKN
+378,,2005-04-04 10:34:43,2005-04-01,HWKN,Shipp Donald L,Dir,S - Sale,12.01,-4000,235144,-2%,-48020.0,0.0,3.0,0.0,16.0,HWKN
+379,M,2005-03-31 18:24:15,2005-03-30,HWKN,Shipp Donald L,Dir,S - Sale,11.89,-6000,239144,-2%,-71328.0,1.0,1.0,0.0,18.0,HWKN
+380,,2005-03-18 16:47:18,2005-03-14,HWKN,Paulson Keenan A,"VP, Water Treatment Group",G - Gift,0.0,-2000,72831,+3%,-0.0,0.0,2.0,2.0,16.0,HWKN
+381,,2005-03-18 16:47:18,2005-03-16,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,12.07,-1000,72831,-1%,-12070.0,0.0,2.0,2.0,16.0,HWKN
+382,,2005-02-18 17:59:02,2004-12-17,HWKN,Hawkins John R,"COB, CEO",G - Gift,0.0,-2200,187258,-1%,-0.0,-1.0,0.0,0.0,8.0,HWKN
+383,M,2005-02-18 17:59:02,2004-06-16,HWKN,Hawkins John R,"COB, CEO",S - Sale,11.87,-3000,187258,-2%,-35600.0,-1.0,0.0,0.0,8.0,HWKN
+384,,2004-11-22 16:56:10,2004-11-22,HWKN,Shipp Donald L,Dir,S - Sale,11.85,-3000,244780,-1%,-35556.0,0.0,1.0,0.0,4.0,HWKN
+385,A,2004-11-22 16:54:59,2004-11-17,HWKN,Shipp Donald L,Dir,S - Sale,12.02,-400,247780,0%,-4808.0,0.0,1.0,0.0,4.0,HWKN
+386,M,2004-11-22 15:45:01,2004-11-19,HWKN,Shipp Donald L,Dir,S - Sale,11.96,-2000,245680,-1%,-23913.0,0.0,1.0,0.0,4.0,HWKN
+387,,2004-11-22 14:55:54,2004-11-19,HWKN,Shipp Donald L,Dir,S - Sale,11.85,-7000,247680,-3%,-82950.0,0.0,1.0,0.0,4.0,HWKN
+388,,2004-11-18 15:00:36,2004-11-17,HWKN,Shipp Donald L,Dir,S - Sale,12.0,-3100,254680,-1%,-37213.0,-1.0,0.0,0.0,2.0,HWKN
+389,M,2004-11-17 16:32:08,2004-11-15,HWKN,Shipp Donald L,Dir,S - Sale,11.92,-5000,257780,-2%,-59578.0,-1.0,-1.0,0.0,2.0,HWKN
+390,A,2004-10-06 12:48:25,2004-09-27,HWKN,Shipp Donald L,Dir,S - Sale,11.8,-2500,265963,-1%,-29500.0,1.0,1.0,1.0,3.0,HWKN
+391,,2004-09-28 13:42:12,2004-09-27,HWKN,Shipp Donald L,Dir,S - Sale,11.81,-7600,262563,-3%,-89718.0,1.0,1.0,1.0,4.0,HWKN
+392,,2004-09-27 14:50:58,2004-09-23,HWKN,Shipp Donald L,Dir,S - Sale,12.0,-100,270163,0%,-1200.0,-1.0,0.0,-2.0,2.0,HWKN
+393,M,2004-09-23 18:42:42,2004-09-21,HWKN,Shipp Donald L,Dir,S - Sale,12.0,-2300,270263,-1%,-27600.0,-1.0,-1.0,0.0,0.0,HWKN
+394,M,2004-09-16 16:06:25,2004-09-09,HWKN,Hahn Dean L,Dir,S - Sale,12.0,-4538,121458,-4%,-54456.0,0.0,2.0,3.0,3.0,HWKN
+395,,2004-09-15 11:05:53,2004-09-14,HWKN,Shipp Donald L,Dir,S - Sale,12.0,-3600,272490,-1%,-43210.0,-1.0,0.0,2.0,2.0,HWKN
+396,,2004-09-02 16:34:56,2004-08-31,HWKN,Paulson Keenan A,"VP, Water Treatment Group",A - Grant,0.0,2400,69638,+4%,0.0,0.0,0.0,1.0,1.0,HWKN
+397,,2004-09-02 16:34:56,2004-08-31,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,11.89,-1500,69638,-2%,-17835.0,0.0,0.0,1.0,1.0,HWKN
+398,,2004-09-02 16:29:03,2004-08-31,HWKN,Sevenich John R,"VP, Industrial",A - Grant,0.0,700,40427,+2%,0.0,0.0,0.0,1.0,1.0,HWKN
+399,,2004-09-02 16:28:11,2004-08-31,HWKN,Hawkins John R,"COB, CEO",A - Grant,0.0,7350,192317,+4%,0.0,0.0,0.0,1.0,1.0,HWKN
+400,,2004-09-02 16:23:17,2004-08-31,HWKN,Dee Marvin E,"Secretary, Treasurer",A - Grant,0.0,7000,14110,+98%,0.0,0.0,0.0,1.0,1.0,HWKN
+401,,2004-07-01 13:19:00,2004-06-29,HWKN,Shipp Donald L,Dir,S - Sale,11.81,-10000,275942,-3%,-118104.0,0.0,-1.0,0.0,-1.0,HWKN
+402,,2004-06-15 10:42:42,2004-06-14,HWKN,Soderlund Daniel E,"VP, Pharmaceutical",S - Sale,11.91,-2500,17305,-13%,-29775.0,-1.0,0.0,-1.0,0.0,HWKN
+403,,2004-03-29 17:18:10,2004-03-26,HWKN,Sevenich John R,"VP, Industrial",S - Sale,11.75,-5000,38111,-12%,-58730.0,0.0,2.0,1.0,0.0,HWKN
+404,,2004-03-16 12:27:14,2004-03-15,HWKN,Hawkins John R,"COB, CEO",S - Sale,12.29,-1500,188069,-1%,-18435.0,1.0,-2.0,0.0,-1.0,HWKN
+405,,2004-03-08 17:05:25,2004-02-27,HWKN,Paulson Keenan A,"VP, Water Treatment Group",G - Gift,0.0,-1000,70771,-1%,-0.0,1.0,1.0,3.0,0.0,HWKN
+406,,2004-03-08 17:05:25,2004-02-27,HWKN,Paulson Keenan A,"VP, Water Treatment Group",S - Sale,11.6,-500,70771,-1%,-5801.0,1.0,1.0,3.0,0.0,HWKN
+407,,2004-03-03 13:00:09,2004-03-01,HWKN,Soderlund Daniel E,"VP, Pharmaceutical",S - Sale,11.44,-1000,18143,-5%,-11440.0,0.0,3.0,1.0,1.0,HWKN

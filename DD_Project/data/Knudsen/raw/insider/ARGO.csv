@@ -1,29 +1,644 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,A,2021-03-30 20:00:05,2020-08-14,ARGO,Rehnberg Kevin James,CEO,P - Purchase,$36.98,32000,61443,+109%,"+$1,183,360",,,,,ARGO
-1,A,2021-03-30 20:00:05,2020-08-13,ARGO,Rehnberg Kevin James,CEO,S - Sale,$36.12,-30847,61443,-33%,"-$1,114,194",,,,,ARGO
-2,,2020-08-18 06:05:55,2020-08-14,ARGO,Rehnberg Kevin James,CEO,P - Purchase,$36.98,32000,51953,+160%,"+$1,183,354",,,,,ARGO
-3,,2020-08-18 06:05:55,2020-08-13,ARGO,Rehnberg Kevin James,CEO,S - Sale,$36.12,-30847,51953,-37%,"-$1,114,123",,,,,ARGO
-4,,2020-08-12 17:47:56,2020-08-11,ARGO,Bradley Thomas A,Dir,P - Purchase,$37.17,3000,17636,+20%,"+$111,507",,,,,ARGO
-5,,2020-05-18 17:12:02,2020-05-13,ARGO,Bradley Thomas A,Dir,P - Purchase,$27.56,3000,14636,+26%,"+$82,673",,,,,ARGO
-6,,2020-03-16 18:06:33,2020-03-13,ARGO,Bradley Thomas A,Dir,P - Purchase,$35.09,5000,8831,+131%,"+$175,451",,,,,ARGO
-7,M,2020-03-16 18:05:42,2020-03-13,ARGO,Liss Samuel G,Dir,P - Purchase,$33.43,7405,8622,+608%,"+$247,553",,,,,ARGO
-8,D,2019-08-15 16:47:28,2019-08-13,ARGO,Bullock Jay Stanley,CFO,S - Sale+OE,$68.72,-14623,112704,-11%,"-$1,004,847",,,,,ARGO
-9,,2019-06-11 17:10:24,2019-06-10,ARGO,Nealon Kathleen,Dir,S - Sale,$73.10,-1210,17095,-7%,"-$88,456",,,,,ARGO
-10,D,2019-05-29 17:26:20,2019-05-28,ARGO,Rehnberg Kevin James,Chief Administrative Officer,S - Sale+OE,$71.08,-6442,42795,-13%,"-$457,912",,,,,ARGO
-11,AD,2019-04-11 20:04:03,2018-12-12,ARGO,Josephson Mural R,Dir,S - Sale+OE,$69.02,-5543,12024,-32%,"-$382,572",,,,,ARGO
-12,M,2019-02-27 17:03:25,2018-05-08,ARGO,Hernandez Jose Angel,Chair of International,P - Purchase,$66.02,313,27844,+1%,"+$20,663",,,,,ARGO
-13,D,2018-12-14 17:49:34,2018-12-12,ARGO,Josephson Mural R,Dir,S - Sale+OE,$69.02,-5543,22359,-20%,"-$382,572",,,,,ARGO
-14,D,2018-12-12 16:16:20,2018-12-11,ARGO,Bullock Jay Stanley,CFO,S - Sale+OE,$69.09,-6207,116752,-5%,"-$428,817",,,,,ARGO
-15,DM,2018-11-30 18:58:11,2018-11-29,ARGO,Watson Mark E III,"Pres, CEO",S - Sale+OE,$68.93,-18566,850613,-2%,"-$1,279,761",,,,,ARGO
-16,DM,2018-11-14 19:32:46,2018-11-09,ARGO,Browne F Sedgwick,Dir,S - Sale+OE,$66.34,-5457,20180,-21%,"-$362,011",,,,,ARGO
-17,D,2018-11-09 20:30:25,2018-11-09,ARGO,Watson Mark E III,"Pres, CEO",S - Sale+OE,$67.14,-9310,850613,-1%,"-$625,036",,,,,ARGO
-18,DM,2018-09-07 18:34:18,2018-09-05,ARGO,Bullock Jay Stanley,CFO,S - Sale+OE,$63.43,-12323,116612,-10%,"-$781,609",,,,,ARGO
-19,D,2018-08-31 16:12:53,2018-08-29,ARGO,Power John R Jr,Dir,S - Sale+OE,$63.24,-5355,16067,-25%,"-$338,660",,,,,ARGO
-20,,2018-08-24 17:41:41,2018-08-22,ARGO,Watson Mark E III,"Pres, CEO",S - Sale,$63.19,-15000,850499,-2%,"-$947,787",,,,,ARGO
-21,D,2018-08-24 17:36:55,2018-08-22,ARGO,Deleon Hector,Dir,S - Sale+OE,$63.24,-5352,18910,-22%,"-$338,484",,,,,ARGO
-22,,2018-08-14 20:52:17,2018-08-14,ARGO,Bradley Thomas A,Dir,P - Purchase,$61.72,2000,2857,+233%,"+$123,430",,,,,ARGO
-23,M,2018-08-14 19:01:29,2018-08-10,ARGO,Rehnberg Kevin James,"Pres, U.S. Operations",S - Sale,$61.28,-16850,44106,-28%,"-$1,032,620",,,,,ARGO
-24,,2018-05-29 18:10:13,2018-05-25,ARGO,Nealon Kathleen,Dir,S - Sale,$61.45,-795,11868,-6%,"-$48,853",,,,,ARGO
-25,D,2018-05-24 16:46:05,2018-05-22,ARGO,Bullock Jay Stanley,CFO,S - Sale+OE,$62.20,-13794,116486,-11%,"-$857,983",,,,,ARGO
-26,D,2018-05-18 16:31:13,2018-05-16,ARGO,Rehnberg Kevin James,"Pres, U.S. Operations",S - Sale+OE,$61.00,-8000,60956,-12%,"-$487,966",,,,,ARGO
-27,D,2018-05-11 17:39:12,2018-05-11,ARGO,Watson Mark E III,"Pres, CEO",S - Sale+OE,$61.83,-17853,836682,-2%,"-$1,103,894",,,,,ARGO
+0,,2021-12-29 16:42:25,2021-12-28,ARGO,Kirk Scott,CFO,A - Grant,$0.00,8629,15506,+125%,+$0,,,,,ARGO
+1,,2021-05-10 16:05:46,2021-05-06,ARGO,Bailey Bernard C,Dir,A - Grant,$0.00,1665,6895,+32%,+$0,,,,,ARGO
+2,,2021-05-10 16:05:45,2021-05-06,ARGO,Liss Samuel G,Dir,A - Grant,$0.00,1665,13092,+15%,+$0,,,,,ARGO
+3,,2021-05-10 16:05:39,2021-05-06,ARGO,McFate Carol A.,Dir,A - Grant,$0.00,1665,6813,+32%,+$0,,,,,ARGO
+4,,2021-05-10 16:05:33,2021-05-06,ARGO,Bradley Thomas A,Dir,A - Grant,$0.00,1665,19301,+9%,+$0,,,,,ARGO
+5,,2021-05-10 16:05:26,2021-05-06,ARGO,Lehane Dymphna,Dir,A - Grant,$0.00,1665,7921,+27%,+$0,,,,,ARGO
+6,,2021-05-10 16:05:24,2021-05-06,ARGO,Latham Anthony Piers,Dir,A - Grant,$0.00,1665,5687,+41%,+$0,,,,,ARGO
+7,,2021-05-10 16:05:21,2021-05-06,ARGO,Donner Fred Robert,Dir,A - Grant,$0.00,1665,5220,+47%,+$0,,,,,ARGO
+8,,2021-05-10 16:05:16,2021-05-06,ARGO,Ramji Al Noor,Dir,A - Grant,$0.00,1665,7921,+27%,+$0,,,,,ARGO
+9,,2021-03-31 17:59:47,2021-03-29,ARGO,Borst Andrew Marshall,Chief Administrative Officer,F - Tax,$49.69,-229,26579,-1%,"-$11,379",,,,,ARGO
+10,,2021-03-31 17:57:00,2021-03-29,ARGO,Rehnberg Kevin James,CEO,F - Tax,$49.69,-882,66307,-1%,"-$43,827",,,,,ARGO
+11,,2021-03-30 20:05:16,2021-03-27,ARGO,Borst Andrew Marshall,Chief Administrative Officer,F - Tax,$50.79,-293,26808,-1%,"-$14,881",,,,,ARGO
+12,,2021-03-30 20:03:32,2021-03-27,ARGO,Harris Matthew J,Head of International,F - Tax,$50.79,-376,7104,-5%,"-$19,097",,,,,ARGO
+13,,2021-03-30 20:01:33,2021-03-27,ARGO,Rehnberg Kevin James,CEO,F - Tax,$50.79,-445,67189,-1%,"-$22,602",,,,,ARGO
+14,A,2021-03-30 20:00:05,2020-08-14,ARGO,Rehnberg Kevin James,CEO,P - Purchase,$36.98,32000,61443,+109%,"+$1,183,360",,,,,ARGO
+15,A,2021-03-30 20:00:05,2020-08-13,ARGO,Rehnberg Kevin James,CEO,S - Sale,$36.12,-30847,61443,-33%,"-$1,114,194",,,,,ARGO
+16,,2021-03-18 18:44:33,2021-03-16,ARGO,Harris Matthew J,Head of International,F - Tax,$54.60,-265,7480,-3%,"-$14,469",,,,,ARGO
+17,,2021-03-18 18:41:04,2021-03-16,ARGO,Borst Andrew Marshall,Chief Administrative Officer,F - Tax,$54.60,-503,27101,-2%,"-$27,464",,,,,ARGO
+18,,2021-03-18 18:37:42,2021-03-16,ARGO,Rehnberg Kevin James,CEO,F - Tax,$54.60,-2123,58144,-4%,"-$115,916",,,,,ARGO
+19,,2021-03-18 18:37:20,2021-03-16,ARGO,Carter Timothy D,Chief Underwriting Officer,F - Tax,$54.60,-1124,6446,-15%,"-$61,370",,,,,ARGO
+20,,2021-03-17 21:42:57,2021-03-15,ARGO,Rehnberg Kevin James,CEO,A - Grant,$0.00,9125,60267,+18%,+$0,,,,,ARGO
+21,,2021-03-17 21:42:57,2021-03-15,ARGO,Rehnberg Kevin James,CEO,F - Tax,$54.79,-811,60267,-1%,"-$44,435",,,,,ARGO
+22,,2021-03-17 21:41:12,2021-03-15,ARGO,Borst Andrew Marshall,Chief Administrative Officer,A - Grant,$0.00,2281,27604,+9%,+$0,,,,,ARGO
+23,,2021-03-17 21:41:12,2021-03-15,ARGO,Borst Andrew Marshall,Chief Administrative Officer,F - Tax,$54.79,-240,27604,-1%,"-$13,150",,,,,ARGO
+24,,2021-03-17 21:41:10,2021-03-15,ARGO,Harris Matthew J,Head of International,A - Grant,$0.00,1362,7745,+21%,+$0,,,,,ARGO
+25,,2021-03-17 21:41:10,2021-03-15,ARGO,Harris Matthew J,Head of International,F - Tax,$54.79,-261,7745,-3%,"-$14,300",,,,,ARGO
+26,,2021-03-17 21:37:55,2021-03-15,ARGO,Carter Timothy D,Chief Underwriting Officer,A - Grant,$0.00,2281,7570,+43%,+$0,,,,,ARGO
+27,,2021-03-17 21:37:48,2021-03-15,ARGO,Kiene Allison,"SVP, GC",A - Grant,$0.00,1597,1597,New,+$0,,,,,ARGO
+28,D,2021-03-16 19:14:22,2021-03-12,ARGO,Bullock Jay Stanley,CFO,F - Tax,$51.31,-26823,125975,-18%,"-$1,376,288",,,,,ARGO
+29,D,2021-03-16 19:14:22,2021-03-12,ARGO,Bullock Jay Stanley,CFO,M - OptEx,$31.92,37561,125975,+42%,"+$1,198,947",,,,,ARGO
+30,,2020-12-10 19:13:06,2020-12-08,ARGO,Schmidt Axel,Chief Underwriting Officer,F - Tax,$45.51,-63,38016,0%,"-$2,867",,,,,ARGO
+31,,2020-12-04 17:48:24,2020-12-02,ARGO,Carter Timothy D,Chief Underwriting Officer,F - Tax,$41.74,-449,5289,-8%,"-$18,741",,,,,ARGO
+32,,2020-08-18 06:05:55,2020-08-14,ARGO,Rehnberg Kevin James,CEO,P - Purchase,$36.98,32000,51953,+160%,"+$1,183,354",,,,,ARGO
+33,,2020-08-18 06:05:55,2020-08-13,ARGO,Rehnberg Kevin James,CEO,S - Sale,$36.12,-30847,51953,-37%,"-$1,114,123",,,,,ARGO
+34,,2020-08-12 17:47:56,2020-08-11,ARGO,Bradley Thomas A,Dir,P - Purchase,$37.17,3000,17636,+20%,"+$111,507",,,,,ARGO
+35,,2020-05-18 17:12:02,2020-05-13,ARGO,Bradley Thomas A,Dir,P - Purchase,$27.56,3000,14636,+26%,"+$82,673",,,,,ARGO
+36,,2020-05-15 17:40:23,2020-05-13,ARGO,Bradley Thomas A,Dir,A - Grant,$0.00,689,11636,+6%,+$0,,,,,ARGO
+37,,2020-05-15 17:40:08,2020-05-13,ARGO,Nealon Kathleen,Dir,A - Grant,$0.00,689,20198,+4%,+$0,,,,,ARGO
+38,,2020-05-15 17:40:03,2020-05-13,ARGO,Bailey Bernard C,Dir,A - Grant,$0.00,689,5255,+15%,+$0,,,,,ARGO
+39,,2020-05-15 17:39:35,2020-05-13,ARGO,Donner Fred Robert,Dir,A - Grant,$0.00,689,3555,+24%,+$0,,,,,ARGO
+40,,2020-05-15 17:38:48,2020-05-13,ARGO,Latham Anthony Piers,Dir,A - Grant,$0.00,689,4022,+21%,+$0,,,,,ARGO
+41,,2020-05-15 17:37:34,2020-05-13,ARGO,Lehane Dymphna,Dir,A - Grant,$0.00,689,6256,+12%,+$0,,,,,ARGO
+42,,2020-05-15 17:37:15,2020-05-13,ARGO,McFate Carol A.,Dir,A - Grant,$0.00,689,5055,+16%,+$0,,,,,ARGO
+43,,2020-05-15 17:34:58,2020-05-13,ARGO,Liss Samuel G,Dir,A - Grant,$0.00,689,11427,+6%,+$0,,,,,ARGO
+44,,2020-05-15 17:33:35,2020-05-13,ARGO,Ramji Al Noor,Dir,A - Grant,$0.00,689,6256,+12%,+$0,,,,,ARGO
+45,,2020-05-15 17:32:33,2020-05-13,ARGO,Tonelli John H,Dir,A - Grant,$0.00,689,22215,+3%,+$0,,,,,ARGO
+46,D,2020-05-11 16:21:46,2020-05-07,ARGO,Tonelli John H,Dir,F - Tax,$31.77,-7111,21526,-25%,"-$225,916",,,,,ARGO
+47,D,2020-05-11 16:21:46,2020-05-07,ARGO,Tonelli John H,Dir,M - OptEx,$29.52,7652,21526,+55%,"+$225,887",,,,,ARGO
+48,D,2020-05-11 16:21:33,2020-05-07,ARGO,Nealon Kathleen,Dir,F - Tax,$31.77,-7354,19509,-27%,"-$233,637",,,,,ARGO
+49,D,2020-05-11 16:21:33,2020-05-07,ARGO,Nealon Kathleen,Dir,M - OptEx,$29.52,7652,19509,+65%,"+$225,887",,,,,ARGO
+50,AM,2020-04-22 17:11:30,2020-03-27,ARGO,Schmidt Axel,Chief Underwriting Officer,F - Tax,$34.86,-1245,38079,-3%,"-$43,401",,,,,ARGO
+51,,2020-04-20 16:24:31,2020-04-16,ARGO,Nealon Kathleen,Dir,A - Grant,$0.00,2116,19211,+12%,+$0,,,,,ARGO
+52,,2020-04-20 16:24:17,2020-04-16,ARGO,Ramji Al Noor,Dir,A - Grant,$0.00,2116,5567,+61%,+$0,,,,,ARGO
+53,,2020-04-20 16:23:25,2020-04-16,ARGO,Liss Samuel G,Dir,A - Grant,$0.00,2116,10738,+25%,+$0,,,,,ARGO
+54,,2020-04-20 16:22:48,2020-04-16,ARGO,Bradley Thomas A,Dir,A - Grant,$0.00,2116,10947,+24%,+$0,,,,,ARGO
+55,,2020-04-20 16:22:23,2020-04-16,ARGO,Bailey Bernard C,Dir,A - Grant,$0.00,2116,4566,+86%,+$0,,,,,ARGO
+56,,2020-04-20 16:21:43,2020-04-16,ARGO,McFate Carol A.,Dir,A - Grant,$0.00,2116,4366,+94%,+$0,,,,,ARGO
+57,,2020-04-20 16:21:40,2020-04-16,ARGO,Tonelli John H,Dir,A - Grant,$0.00,2116,20985,+11%,+$0,,,,,ARGO
+58,,2020-04-20 16:21:10,2020-04-16,ARGO,Donner Fred Robert,Dir,A - Grant,$0.00,2116,2866,+282%,+$0,,,,,ARGO
+59,,2020-04-20 16:19:17,2020-04-16,ARGO,Lehane Dymphna,Dir,A - Grant,$0.00,2116,5567,+61%,+$0,,,,,ARGO
+60,,2020-04-20 16:19:08,2020-04-16,ARGO,Latham Anthony Piers,Dir,A - Grant,$0.00,2116,3333,+174%,+$0,,,,,ARGO
+61,M,2020-03-31 16:43:17,2020-03-27,ARGO,Rehnberg Kevin James,CEO,F - Tax,$34.86,-1178,60478,-2%,"-$41,065",,,,,ARGO
+62,,2020-03-31 16:43:13,2020-03-27,ARGO,Harris Matthew J,International Operations Head,F - Tax,$34.86,-375,6644,-5%,"-$13,073",,,,,ARGO
+63,M,2020-03-31 16:35:45,2020-03-27,ARGO,Schmidt Axel,Chief Underwriting Officer,F - Tax,$34.86,-1661,37663,-4%,"-$57,902",,,,,ARGO
+64,M,2020-03-31 16:33:47,2020-03-27,ARGO,Bullock Jay Stanley,CFO,F - Tax,$34.86,-1064,115237,-1%,"-$37,091",,,,,ARGO
+65,,2020-03-18 17:29:28,2020-03-16,ARGO,Harris Matthew J,International Operations Head,A - Grant,$0.00,2246,7019,+47%,+$0,,,,,ARGO
+66,,2020-03-18 17:28:07,2020-03-16,ARGO,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,2555,39324,+7%,+$0,,,,,ARGO
+67,,2020-03-18 17:25:29,2020-03-16,ARGO,Bullock Jay Stanley,CFO,A - Grant,$0.00,4599,116301,+4%,+$0,,,,,ARGO
+68,,2020-03-18 17:24:23,2020-03-16,ARGO,Rehnberg Kevin James,CEO,A - Grant,$0.00,19165,61656,+45%,+$0,,,,,ARGO
+69,,2020-03-17 20:46:14,2020-03-15,ARGO,Rehnberg Kevin James,CEO,F - Tax,$35.80,-721,42491,-2%,"-$25,812",,,,,ARGO
+70,DM,2020-03-17 20:41:41,2020-03-13,ARGO,Bullock Jay Stanley,CFO,F - Tax,$35.80,-3115,111702,-3%,"-$111,517",,,,,ARGO
+71,D,2020-03-17 20:41:41,2020-03-13,ARGO,Bullock Jay Stanley,CFO,M - OptEx,$26.19,3359,111702,+3%,"+$87,972",,,,,ARGO
+72,,2020-03-17 20:39:33,2020-03-15,ARGO,Harris Matthew J,International Operations Head,F - Tax,$35.80,-260,4773,-5%,"-$9,308",,,,,ARGO
+73,,2020-03-16 18:06:33,2020-03-13,ARGO,Bradley Thomas A,Dir,P - Purchase,$35.09,5000,8831,+131%,"+$175,451",,,,,ARGO
+74,M,2020-03-16 18:05:42,2020-03-13,ARGO,Liss Samuel G,Dir,P - Purchase,$33.43,7405,8622,+608%,"+$247,553",,,,,ARGO
+75,,2020-03-13 20:15:10,2020-03-10,ARGO,Bullock Jay Stanley,CFO,F - Tax,$43.83,-1034,111458,-1%,"-$45,320",,,,,ARGO
+76,,2020-03-13 20:12:56,2020-03-10,ARGO,Rehnberg Kevin James,CEO,F - Tax,$43.83,-1259,43212,-3%,"-$55,182",,,,,ARGO
+77,,2020-02-19 18:33:10,2020-02-17,ARGO,Bullock Jay Stanley,CFO,A - Grant,$0.00,1538,112492,+1%,+$0,,,,,ARGO
+78,,2020-02-19 18:30:46,2020-02-17,ARGO,Harris Matthew J,International Operations Head,A - Grant,$0.00,1106,5033,+28%,+$0,,,,,ARGO
+79,,2020-02-19 18:29:51,2020-02-17,ARGO,Rehnberg Kevin James,CEO,A - Grant,$0.00,3662,44471,+9%,+$0,,,,,ARGO
+80,,2020-02-19 18:28:06,2020-02-17,ARGO,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,1216,36769,+3%,+$0,,,,,ARGO
+81,,2019-12-18 18:43:07,2019-12-16,ARGO,Watson Mark E III,Dir,A - Grant,$0.00,30760,786109,+4%,+$0,,,,,ARGO
+82,,2019-12-18 18:43:07,2019-12-16,ARGO,Watson Mark E III,Dir,F - Tax,$65.29,-30442,786109,-4%,"-$1,987,558",,,,,ARGO
+83,A,2019-12-18 18:39:54,2019-03-15,ARGO,Watson Mark E III,"Pres, CEO",A - Grant,$0.00,17253,861476,+2%,+$0,,,,,ARGO
+84,A,2019-12-18 18:37:40,2019-03-15,ARGO,Bullock Jay Stanley,CFO,A - Grant,$0.00,3412,118611,+3%,+$0,,,,,ARGO
+85,A,2019-12-18 18:37:28,2019-03-15,ARGO,Rehnberg Kevin James,Chief Administrative Officer,A - Grant,$0.00,5669,48562,+13%,+$0,,,,,ARGO
+86,A,2019-12-18 18:33:34,2019-03-15,ARGO,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,2713,35838,+8%,+$0,,,,,ARGO
+87,D,2019-08-15 16:49:34,2019-08-13,ARGO,Woods Gary V,Dir,F - Tax,$68.72,-3288,70488,-4%,"-$225,951",,,,,ARGO
+88,D,2019-08-15 16:49:34,2019-08-13,ARGO,Woods Gary V,Dir,M - OptEx,$29.52,7652,70488,+12%,"+$225,887",,,,,ARGO
+89,D,2019-08-15 16:47:28,2019-08-13,ARGO,Bullock Jay Stanley,CFO,F - Tax,$68.75,-9000,112704,-7%,"-$618,750",,,,,ARGO
+90,D,2019-08-15 16:47:28,2019-08-13,ARGO,Bullock Jay Stanley,CFO,M - OptEx,$26.19,23623,112704,+27%,"+$618,686",,,,,ARGO
+91,D,2019-08-15 16:47:28,2019-08-13,ARGO,Bullock Jay Stanley,CFO,S - Sale+OE,$68.72,-14623,112704,-11%,"-$1,004,847",,,,,ARGO
+92,,2019-06-11 17:10:24,2019-06-10,ARGO,Nealon Kathleen,Dir,S - Sale,$73.10,-1210,17095,-7%,"-$88,456",,,,,ARGO
+93,,2019-05-29 17:27:47,2019-05-24,ARGO,Latham Anthony Piers,Dir,A - Grant,$0.00,243,1217,+25%,+$0,,,,,ARGO
+94,,2019-05-29 17:26:30,2019-05-24,ARGO,Liss Samuel G,Dir,A - Grant,$0.00,243,1217,+25%,+$0,,,,,ARGO
+95,D,2019-05-29 17:26:20,2019-05-28,ARGO,Rehnberg Kevin James,Chief Administrative Officer,F - Tax,$71.27,-7297,42795,-15%,"-$520,057",,,,,ARGO
+96,D,2019-05-29 17:26:20,2019-05-28,ARGO,Rehnberg Kevin James,Chief Administrative Officer,M - OptEx,$37.85,13739,42795,+47%,"+$520,021",,,,,ARGO
+97,D,2019-05-29 17:26:20,2019-05-28,ARGO,Rehnberg Kevin James,Chief Administrative Officer,S - Sale+OE,$71.08,-6442,42795,-13%,"-$457,912",,,,,ARGO
+98,,2019-05-28 18:44:59,2019-05-24,ARGO,Ramji Al Noor,Dir,A - Grant,$0.00,974,3451,+39%,+$0,,,,,ARGO
+99,,2019-05-28 18:44:18,2019-05-24,ARGO,Power John R Jr,Dir,A - Grant,$0.00,974,14914,+7%,+$0,,,,,ARGO
+100,,2019-05-28 18:44:17,2019-05-24,ARGO,Browne F Sedgwick,Dir,A - Grant,$0.00,974,21145,+5%,+$0,,,,,ARGO
+101,,2019-05-28 18:43:06,2019-05-24,ARGO,Bradley Thomas A,Dir,A - Grant,$0.00,974,3831,+34%,+$0,,,,,ARGO
+102,,2019-05-28 18:40:30,2019-05-24,ARGO,Tonelli John H,Dir,A - Grant,$0.00,974,18869,+5%,+$0,,,,,ARGO
+103,,2019-05-28 18:39:52,2019-05-24,ARGO,Nealon Kathleen,Dir,A - Grant,$0.00,974,18305,+6%,+$0,,,,,ARGO
+104,,2019-05-28 18:39:23,2019-05-24,ARGO,Woods Gary V,Dir,A - Grant,$0.00,974,66124,+1%,+$0,,,,,ARGO
+105,,2019-05-28 18:39:16,2019-05-24,ARGO,Deleon Hector,Dir,A - Grant,$0.00,974,19875,+5%,+$0,,,,,ARGO
+106,,2019-05-28 18:38:27,2019-05-24,ARGO,Lehane Dymphna,Dir,A - Grant,$0.00,974,3451,+39%,+$0,,,,,ARGO
+107,,2019-05-28 18:36:56,2019-05-24,ARGO,Liss Samuel G,Dir,A - Grant,$0.00,974,974,New,+$0,,,,,ARGO
+108,,2019-05-28 18:36:26,2019-05-24,ARGO,Latham Anthony Piers,Dir,A - Grant,$0.00,974,974,New,+$0,,,,,ARGO
+109,,2019-05-28 18:35:36,2019-05-24,ARGO,Josephson Mural R,Dir,A - Grant,$0.00,974,12998,+8%,+$0,,,,,ARGO
+110,,2019-05-06 20:07:15,2019-05-05,ARGO,Bullock Jay Stanley,CFO,F - Tax,$76.69,-6944,112599,-6%,"-$532,535",,,,,ARGO
+111,,2019-05-06 20:04:17,2019-05-05,ARGO,Rehnberg Kevin James,Chief Administrative Officer,F - Tax,$76.69,-6944,42795,-14%,"-$532,535",,,,,ARGO
+112,,2019-05-06 20:03:42,2019-05-05,ARGO,Watson Mark E III,"Pres, CEO",F - Tax,$76.69,-71755,792590,-8%,"-$5,502,891",,,,,ARGO
+113,AD,2019-04-11 20:04:03,2018-12-12,ARGO,Josephson Mural R,Dir,D - Sale to issuer,$69.10,-2109,12024,-15%,"-$145,732",,,,,ARGO
+114,AD,2019-04-11 20:04:03,2018-12-12,ARGO,Josephson Mural R,Dir,M - OptEx,$19.04,7652,12024,+175%,"+$145,694",,,,,ARGO
+115,AD,2019-04-11 20:04:03,2018-12-12,ARGO,Josephson Mural R,Dir,S - Sale+OE,$69.02,-5543,12024,-32%,"-$382,572",,,,,ARGO
+116,AD,2019-04-11 20:03:53,2018-08-29,ARGO,Woods Gary V,Dir,D - Sale to issuer,$63.10,-2310,65150,-3%,"-$145,761",,,,,ARGO
+117,AD,2019-04-11 20:03:53,2018-08-29,ARGO,Woods Gary V,Dir,M - OptEx,$19.04,7652,65150,+13%,"+$145,694",,,,,ARGO
+118,,2019-04-11 20:03:33,2016-03-10,ARGO,Power John R Jr,Dir,D - Sale to issuer,$55.21,-1677,13940,-11%,"-$92,586",,,,,ARGO
+119,,2019-04-02 18:57:19,2019-03-29,ARGO,Rehnberg Kevin James,Chief Administrative Officer,F - Tax,$70.66,-783,49391,-2%,"-$55,327",,,,,ARGO
+120,,2019-04-02 18:56:30,2019-03-29,ARGO,Hernandez Jose Angel,Chair of International,F - Tax,$70.66,-749,32049,-2%,"-$52,924",,,,,ARGO
+121,,2019-04-02 18:56:21,2019-03-29,ARGO,Bullock Jay Stanley,CFO,F - Tax,$70.66,-695,119420,-1%,"-$49,109",,,,,ARGO
+122,,2019-04-02 18:54:41,2019-03-29,ARGO,Schmidt Axel,Chief Underwriting Officer,F - Tax,$70.66,-186,37039,0%,"-$13,143",,,,,ARGO
+123,,2019-04-02 18:54:00,2019-03-29,ARGO,Watson Mark E III,"Pres, CEO",F - Tax,$70.66,-2865,864233,0%,"-$202,441",,,,,ARGO
+124,,2019-03-29 16:28:07,2019-03-27,ARGO,Bullock Jay Stanley,CFO,F - Tax,$71.75,-369,120115,0%,"-$26,476",,,,,ARGO
+125,,2019-03-29 16:26:15,2019-03-27,ARGO,Harris Matthew J,International Operations Head,A - Grant,$0.00,3190,3927,+433%,+$0,,,,,ARGO
+126,,2019-03-29 16:26:15,2019-03-27,ARGO,Harris Matthew J,International Operations Head,F - Tax,$71.75,-375,3927,-9%,"-$26,906",,,,,ARGO
+127,,2019-03-29 16:26:03,2019-03-27,ARGO,Watson Mark E III,"Pres, CEO",F - Tax,$71.75,-1377,867098,0%,"-$98,800",,,,,ARGO
+128,,2019-03-29 16:25:57,2019-03-27,ARGO,Hernandez Jose Angel,Chair of International,F - Tax,$71.75,-398,32798,-1%,"-$28,557",,,,,ARGO
+129,,2019-03-29 16:25:39,2019-03-27,ARGO,Rehnberg Kevin James,Chief Administrative Officer,F - Tax,$71.75,-395,50174,-1%,"-$28,341",,,,,ARGO
+130,,2019-03-29 16:24:50,2019-03-27,ARGO,Schmidt Axel,Chief Underwriting Officer,F - Tax,$71.75,-99,37225,0%,"-$7,103",,,,,ARGO
+131,,2019-03-19 20:35:09,2019-03-15,ARGO,Harris Matthew J,International Operations Head,A - Grant,$0.00,1112,1112,New,+$0,,,,,ARGO
+132,,2019-03-19 20:34:40,2019-03-15,ARGO,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,4199,37324,+13%,+$0,,,,,ARGO
+133,,2019-03-19 20:31:18,2019-03-15,ARGO,Watson Mark E III,"Pres, CEO",A - Grant,$0.00,24252,868475,+3%,+$0,,,,,ARGO
+134,,2019-03-19 20:30:48,2019-03-15,ARGO,Bullock Jay Stanley,CFO,A - Grant,$0.00,5285,120484,+5%,+$0,,,,,ARGO
+135,,2019-03-19 20:30:43,2019-03-15,ARGO,Rehnberg Kevin James,Chief Administrative Officer,A - Grant,$0.00,7676,50569,+18%,+$0,,,,,ARGO
+136,,2019-03-19 20:29:54,2019-03-15,ARGO,Hernandez Jose Angel,Chair of International,A - Grant,$0.00,5352,33196,+19%,+$0,,,,,ARGO
+137,,2019-03-12 18:04:45,2019-03-10,ARGO,Bullock Jay Stanley,CFO,F - Tax,$69.07,-1046,115199,-1%,"-$72,247",,,,,ARGO
+138,,2019-03-12 18:02:32,2019-03-10,ARGO,Rehnberg Kevin James,Chief Administrative Officer,F - Tax,$69.07,-1259,42893,-3%,"-$86,959",,,,,ARGO
+139,,2019-03-12 18:02:01,2019-03-10,ARGO,Watson Mark E III,"Pres, CEO",F - Tax,$69.07,-4441,844223,-1%,"-$306,740",,,,,ARGO
+140,,2019-03-12 18:01:28,2019-03-10,ARGO,Schmidt Axel,Chief Underwriting Officer,F - Tax,$69.07,-313,33125,-1%,"-$21,619",,,,,ARGO
+141,,2019-02-27 17:08:45,2019-02-25,ARGO,Schmidt Axel,Chief Underwriting Officer,F - Tax,$70.37,-156,33438,0%,"-$10,978",,,,,ARGO
+142,,2019-02-27 17:03:45,2019-02-25,ARGO,Bullock Jay Stanley,CFO,F - Tax,$70.37,-527,116245,0%,"-$37,085",,,,,ARGO
+143,M,2019-02-27 17:03:25,2018-05-08,ARGO,Hernandez Jose Angel,Chair of International,P - Purchase,$66.02,313,27844,+1%,"+$20,663",,,,,ARGO
+144,,2019-02-27 17:02:24,2019-02-25,ARGO,Watson Mark E III,"Pres, CEO",F - Tax,$70.37,-2041,848664,0%,"-$143,625",,,,,ARGO
+145,D,2018-12-14 17:49:34,2018-12-12,ARGO,Josephson Mural R,Dir,D - Sale to issuer,$69.10,-2109,22359,-9%,"-$145,732",,,,,ARGO
+146,D,2018-12-14 17:49:34,2018-12-12,ARGO,Josephson Mural R,Dir,M - OptEx,$19.04,7652,22359,+52%,"+$145,694",,,,,ARGO
+147,D,2018-12-14 17:49:34,2018-12-12,ARGO,Josephson Mural R,Dir,S - Sale+OE,$69.02,-5543,22359,-20%,"-$382,572",,,,,ARGO
+148,D,2018-12-12 16:16:20,2018-12-11,ARGO,Bullock Jay Stanley,CFO,F - Tax,$69.06,-3793,116752,-3%,"-$261,945",,,,,ARGO
+149,D,2018-12-12 16:16:20,2018-12-11,ARGO,Bullock Jay Stanley,CFO,M - OptEx,$26.19,10000,116752,+9%,"+$261,900",,,,,ARGO
+150,D,2018-12-12 16:16:20,2018-12-11,ARGO,Bullock Jay Stanley,CFO,S - Sale+OE,$69.09,-6207,116752,-5%,"-$428,817",,,,,ARGO
+151,DM,2018-11-30 18:58:11,2018-11-29,ARGO,Watson Mark E III,"Pres, CEO",F - Tax,$68.72,-11434,850613,-1%,"-$785,743",,,,,ARGO
+152,DM,2018-11-30 18:58:11,2018-11-29,ARGO,Watson Mark E III,"Pres, CEO",M - OptEx,$26.19,30000,850613,+4%,"+$785,700",,,,,ARGO
+153,DM,2018-11-30 18:58:11,2018-11-29,ARGO,Watson Mark E III,"Pres, CEO",S - Sale+OE,$68.93,-18566,850613,-2%,"-$1,279,761",,,,,ARGO
+154,D,2018-11-14 19:34:22,2018-11-09,ARGO,Nealon Kathleen,Dir,D - Sale to issuer,$66.69,-2186,17334,-11%,"-$145,784",,,,,ARGO
+155,D,2018-11-14 19:34:22,2018-11-09,ARGO,Nealon Kathleen,Dir,M - OptEx,$19.04,7652,17334,+79%,"+$145,694",,,,,ARGO
+156,DM,2018-11-14 19:32:46,2018-11-09,ARGO,Browne F Sedgwick,Dir,D - Sale to issuer,$66.42,-2195,20180,-10%,"-$145,788",,,,,ARGO
+157,DM,2018-11-14 19:32:46,2018-11-09,ARGO,Browne F Sedgwick,Dir,M - OptEx,$19.04,7652,20180,+61%,"+$145,694",,,,,ARGO
+158,DM,2018-11-14 19:32:46,2018-11-09,ARGO,Browne F Sedgwick,Dir,S - Sale+OE,$66.34,-5457,20180,-21%,"-$362,011",,,,,ARGO
+159,D,2018-11-09 20:30:25,2018-11-09,ARGO,Watson Mark E III,"Pres, CEO",F - Tax,$67.33,-5928,850613,-1%,"-$399,159",,,,,ARGO
+160,D,2018-11-09 20:30:25,2018-11-09,ARGO,Watson Mark E III,"Pres, CEO",M - OptEx,$26.19,15238,850613,+2%,"+$399,083",,,,,ARGO
+161,D,2018-11-09 20:30:25,2018-11-09,ARGO,Watson Mark E III,"Pres, CEO",S - Sale+OE,$67.14,-9310,850613,-1%,"-$625,036",,,,,ARGO
+162,,2018-10-05 16:41:37,2018-10-03,ARGO,Hernandez Jose Angel,SVP - Head of International,F - Tax,$62.96,-1236,27531,-4%,"-$77,819",,,,,ARGO
+163,DM,2018-09-07 18:34:18,2018-09-05,ARGO,Bullock Jay Stanley,CFO,F - Tax,$63.30,-5429,116612,-4%,"-$343,636",,,,,ARGO
+164,DM,2018-09-07 18:34:18,2018-09-05,ARGO,Bullock Jay Stanley,CFO,M - OptEx,$19.36,17752,116612,+18%,"+$343,679",,,,,ARGO
+165,DM,2018-09-07 18:34:18,2018-09-05,ARGO,Bullock Jay Stanley,CFO,S - Sale+OE,$63.43,-12323,116612,-10%,"-$781,609",,,,,ARGO
+166,D,2018-08-31 16:12:53,2018-08-29,ARGO,Power John R Jr,Dir,D - Sale to issuer,$63.45,-2297,16067,-13%,"-$145,745",,,,,ARGO
+167,D,2018-08-31 16:12:53,2018-08-29,ARGO,Power John R Jr,Dir,M - OptEx,$19.04,7652,16067,+91%,"+$145,694",,,,,ARGO
+168,D,2018-08-31 16:12:53,2018-08-29,ARGO,Power John R Jr,Dir,S - Sale+OE,$63.24,-5355,16067,-25%,"-$338,660",,,,,ARGO
+169,D,2018-08-31 16:12:17,2018-08-29,ARGO,Woods Gary V,Dir,D - Sale to issuer,$63.10,-2310,57880,-4%,"-$145,761",,,,,ARGO
+170,D,2018-08-31 16:12:17,2018-08-29,ARGO,Woods Gary V,Dir,M - OptEx,$19.04,7652,57880,+15%,"+$145,694",,,,,ARGO
+171,D,2018-08-28 18:29:21,2018-08-24,ARGO,Tonelli John H,Dir,D - Sale to issuer,$63.95,-2279,17898,-11%,"-$145,742",,,,,ARGO
+172,D,2018-08-28 18:29:21,2018-08-24,ARGO,Tonelli John H,Dir,M - OptEx,$19.04,7652,17898,+75%,"+$145,694",,,,,ARGO
+173,,2018-08-24 17:41:41,2018-08-22,ARGO,Watson Mark E III,"Pres, CEO",S - Sale,$63.19,-15000,850499,-2%,"-$947,787",,,,,ARGO
+174,D,2018-08-24 17:36:55,2018-08-22,ARGO,Deleon Hector,Dir,D - Sale to issuer,$63.35,-2300,18910,-11%,"-$145,705",,,,,ARGO
+175,D,2018-08-24 17:36:55,2018-08-22,ARGO,Deleon Hector,Dir,M - OptEx,$19.04,7652,18910,+68%,"+$145,694",,,,,ARGO
+176,D,2018-08-24 17:36:55,2018-08-22,ARGO,Deleon Hector,Dir,S - Sale+OE,$63.24,-5352,18910,-22%,"-$338,484",,,,,ARGO
+177,,2018-08-14 20:52:17,2018-08-14,ARGO,Bradley Thomas A,Dir,P - Purchase,$61.72,2000,2857,+233%,"+$123,430",,,,,ARGO
+178,M,2018-08-14 19:01:29,2018-08-10,ARGO,Rehnberg Kevin James,"Pres, U.S. Operations",S - Sale,$61.28,-16850,44106,-28%,"-$1,032,620",,,,,ARGO
+179,,2018-08-08 16:56:07,2018-08-06,ARGO,Bradley Thomas A,Dir,A - Grant,$0.00,857,857,New,+$0,,,,,ARGO
+180,D,2018-06-13 17:52:25,2018-06-11,ARGO,Watson Mark E III,"Pres, CEO",F - Tax,$63.95,-40839,865397,-5%,"-$2,611,654",,,,,ARGO
+181,D,2018-06-13 17:52:25,2018-06-13,ARGO,Watson Mark E III,"Pres, CEO",G - Gift,$0.00,-4100,865397,0%,-$0,,,,,ARGO
+182,D,2018-06-13 17:52:25,2018-06-11,ARGO,Watson Mark E III,"Pres, CEO",M - OptEx,$19.37,70754,865397,+9%,"+$1,370,505",,,,,ARGO
+183,,2018-05-29 18:10:13,2018-05-25,ARGO,Nealon Kathleen,Dir,S - Sale,$61.45,-795,11868,-6%,"-$48,853",,,,,ARGO
+184,D,2018-05-24 16:46:05,2018-05-22,ARGO,Bullock Jay Stanley,CFO,F - Tax,$62.40,-6206,116486,-5%,"-$387,254",,,,,ARGO
+185,D,2018-05-24 16:46:05,2018-05-22,ARGO,Bullock Jay Stanley,CFO,M - OptEx,$19.36,20000,116486,+21%,"+$387,200",,,,,ARGO
+186,D,2018-05-24 16:46:05,2018-05-22,ARGO,Bullock Jay Stanley,CFO,S - Sale+OE,$62.20,-13794,116486,-11%,"-$857,983",,,,,ARGO
+187,D,2018-05-18 16:31:13,2018-05-16,ARGO,Rehnberg Kevin James,"Pres, U.S. Operations",F - Tax,$61.10,-21606,60956,-26%,"-$1,320,127",,,,,ARGO
+188,D,2018-05-18 16:31:13,2018-05-16,ARGO,Rehnberg Kevin James,"Pres, U.S. Operations",M - OptEx,$34.61,30278,60956,+99%,"+$1,047,946",,,,,ARGO
+189,D,2018-05-18 16:31:13,2018-05-16,ARGO,Rehnberg Kevin James,"Pres, U.S. Operations",S - Sale+OE,$61.00,-8000,60956,-12%,"-$487,966",,,,,ARGO
+190,,2018-05-16 18:26:11,2018-05-15,ARGO,Schmidt Axel,Chief Underwriting Officer,F - Tax,$60.25,-339,33594,-1%,"-$20,425",,,,,ARGO
+191,D,2018-05-11 17:39:12,2018-05-09,ARGO,Watson Mark E III,"Pres, CEO",F - Tax,$62.15,-44933,836682,-5%,"-$2,792,586",,,,,ARGO
+192,D,2018-05-11 17:39:12,2018-05-09,ARGO,Watson Mark E III,"Pres, CEO",M - OptEx,$19.37,77136,836682,+10%,"+$1,494,124",,,,,ARGO
+193,D,2018-05-11 17:39:12,2018-05-11,ARGO,Watson Mark E III,"Pres, CEO",S - Sale+OE,$61.83,-17853,836682,-2%,"-$1,103,894",,,,,ARGO
+194,D,2018-05-08 17:27:29,2018-05-04,ARGO,Watson Mark E III,"Pres, CEO",M - OptEx,$0.00,182349,822332,+28%,+$0,,,,,ARGO
+195,,2018-05-08 17:24:23,2018-05-04,ARGO,Ramji Al Noor,Dir,A - Grant,$0.00,1189,2477,+92%,+$0,,,,,ARGO
+196,,2018-05-08 17:21:30,2018-05-04,ARGO,Lehane Dymphna,Dir,A - Grant,$0.00,1189,2477,+92%,+$0,,,,,ARGO
+197,D,2018-05-08 17:21:07,2018-05-04,ARGO,Bullock Jay Stanley,CFO,M - OptEx,$0.00,17646,116486,+18%,+$0,,,,,ARGO
+198,,2018-05-08 17:20:30,2018-05-04,ARGO,Josephson Mural R,Dir,A - Grant,$0.00,1189,22359,+6%,+$0,,,,,ARGO
+199,,2018-05-08 17:20:24,2018-05-04,ARGO,Power John R Jr,Dir,A - Grant,$0.00,1189,16067,+8%,+$0,,,,,ARGO
+200,,2018-05-08 17:20:12,2018-05-04,ARGO,Tonelli John H,Dir,A - Grant,$0.00,1189,12525,+10%,+$0,,,,,ARGO
+201,,2018-05-08 17:19:40,2018-05-04,ARGO,Nealon Kathleen,Dir,A - Grant,$0.00,1189,12663,+10%,+$0,,,,,ARGO
+202,,2018-05-08 17:19:38,2018-05-04,ARGO,Woods Gary V,Dir,A - Grant,$0.00,1189,52538,+2%,+$0,,,,,ARGO
+203,,2018-05-08 17:16:45,2018-05-04,ARGO,Deleon Hector,Dir,A - Grant,$0.00,1189,18910,+7%,+$0,,,,,ARGO
+204,,2018-05-08 17:16:09,2018-05-04,ARGO,Browne F Sedgwick,Dir,A - Grant,$0.00,1189,20180,+6%,+$0,,,,,ARGO
+205,D,2018-05-08 17:15:57,2018-05-04,ARGO,Rehnberg Kevin James,"Pres, U.S. Operations",M - OptEx,$0.00,17646,60284,+41%,+$0,,,,,ARGO
+206,,2018-03-29 17:10:12,2018-03-27,AGII,Watson Mark E III,"Pres, CEO",A - Grant,$0.00,6999,639855,+1%,+$0,,,,,ARGO
+207,,2018-03-29 17:09:43,2018-03-27,AGII,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,1486,33933,+5%,+$0,,,,,ARGO
+208,,2018-03-29 17:09:41,2018-03-27,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,1873,98683,+2%,+$0,,,,,ARGO
+209,,2018-03-29 17:08:24,2018-03-27,AGII,Hernandez Jose Angel,SVP - Head of International,A - Grant,$0.00,2676,28331,+10%,+$0,,,,,ARGO
+210,,2018-03-29 17:08:12,2018-03-27,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",A - Grant,$0.00,2007,42248,+5%,+$0,,,,,ARGO
+211,,2018-03-21 18:29:04,2018-03-19,AGII,Watson Mark E III,"Pres, CEO",A - Grant,$0.00,19348,632856,+3%,+$0,,,,,ARGO
+212,,2018-03-21 18:27:09,2018-03-19,AGII,Hernandez Jose Angel,SVP - Head of International,A - Grant,$0.00,6484,25655,+34%,+$0,,,,,ARGO
+213,,2018-03-21 18:26:27,2018-03-19,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,4538,96810,+5%,+$0,,,,,ARGO
+214,,2018-03-21 18:26:17,2018-03-19,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",A - Grant,$0.00,5459,40241,+16%,+$0,,,,,ARGO
+215,,2018-03-21 18:25:31,2018-03-19,AGII,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,3788,32447,+13%,+$0,,,,,ARGO
+216,M,2018-03-14 20:54:24,2018-03-12,AGII,Watson Mark E III,"Pres, CEO",F - Tax,$55.83,-7838,530962,-1%,"-$437,583",,,,,ARGO
+217,,2018-03-14 20:54:12,2018-03-12,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",F - Tax,$55.20,-1259,29534,-4%,"-$69,497",,,,,ARGO
+218,,2018-03-14 20:52:35,2018-03-12,AGII,Schmidt Axel,Chief Underwriting Officer,F - Tax,$55.20,-313,24427,-1%,"-$17,278",,,,,ARGO
+219,DM,2018-03-14 20:49:49,2018-03-12,AGII,Bullock Jay Stanley,CFO,F - Tax,$55.09,-8858,79645,-10%,"-$487,949",,,,,ARGO
+220,D,2018-03-14 20:49:49,2018-03-12,AGII,Bullock Jay Stanley,CFO,M - OptEx,$19.36,20000,79645,+34%,"+$387,200",,,,,ARGO
+221,D,2018-03-14 20:49:49,2018-03-12,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$54.99,-12947,79645,-14%,"-$711,949",,,,,ARGO
+222,D,2018-03-09 18:37:02,2018-03-07,AGII,Watson Mark E III,"Pres, CEO",F - Tax,$54.00,-3228,538800,-1%,"-$174,312",,,,,ARGO
+223,D,2018-03-09 18:37:02,2018-03-07,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$19.37,9000,538800,+2%,"+$174,285",,,,,ARGO
+224,D,2018-03-09 18:37:02,2018-03-07,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$54.02,-5772,538800,-1%,"-$311,825",,,,,ARGO
+225,D,2018-03-06 20:16:35,2018-03-05,AGII,Josephson Mural R,Dir,D - Sale to issuer,$60.95,-2524,18409,-12%,"-$153,838",,,,,ARGO
+226,D,2018-03-06 20:16:35,2018-03-05,AGII,Josephson Mural R,Dir,M - OptEx,$23.11,6655,18409,+57%,"+$153,797",,,,,ARGO
+227,D,2018-03-06 20:16:35,2018-03-05,AGII,Josephson Mural R,Dir,S - Sale+OE,$60.98,-4131,18409,-18%,"-$251,896",,,,,ARGO
+228,D,2018-03-06 20:13:51,2018-03-05,AGII,Power John R Jr,Dir,D - Sale to issuer,$60.40,-2547,12938,-16%,"-$153,839",,,,,ARGO
+229,D,2018-03-06 20:13:51,2018-03-05,AGII,Power John R Jr,Dir,M - OptEx,$23.11,6655,12938,+106%,"+$153,797",,,,,ARGO
+230,D,2018-03-06 20:13:51,2018-03-05,AGII,Power John R Jr,Dir,S - Sale+OE,$61.09,-4108,12938,-24%,"-$250,958",,,,,ARGO
+231,,2018-02-28 17:19:59,2018-02-26,AGII,Watson Mark E III,"Pres, CEO",F - Tax,$60.30,-1774,538800,0%,"-$106,972",,,,,ARGO
+232,,2018-02-28 17:19:04,2018-02-26,AGII,Bullock Jay Stanley,CFO,F - Tax,$60.30,-446,81450,-1%,"-$26,894",,,,,ARGO
+233,,2018-02-28 17:18:28,2018-02-26,AGII,Schmidt Axel,Chief Underwriting Officer,F - Tax,$60.30,-136,24740,-1%,"-$8,201",,,,,ARGO
+234,DM,2018-02-22 20:15:18,2018-02-20,AGII,Watson Mark E III,"Pres, CEO",F - Tax,$59.56,-10283,540574,-2%,"-$612,478",,,,,ARGO
+235,DM,2018-02-22 20:15:18,2018-02-20,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$22.27,27500,540574,+5%,"+$612,425",,,,,ARGO
+236,DM,2018-02-22 20:15:18,2018-02-20,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$59.58,-17217,540574,-3%,"-$1,025,796",,,,,ARGO
+237,,2017-12-08 16:24:41,2017-12-06,AGII,Woods Gary V,Dir,P - Purchase,$61.28,20000,44652,+81%,"+$1,225,612",,,,,ARGO
+238,DM,2017-12-08 16:19:17,2017-12-06,AGII,Bullock Jay Stanley,CFO,F - Tax,$60.96,-4509,81889,-5%,"-$274,848",,,,,ARGO
+239,DM,2017-12-08 16:19:17,2017-12-06,AGII,Bullock Jay Stanley,CFO,M - OptEx,$24.42,11252,81889,+16%,"+$274,774",,,,,ARGO
+240,DM,2017-12-08 16:19:17,2017-12-06,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$60.97,-6743,81889,-8%,"-$411,143",,,,,ARGO
+241,D,2017-12-05 21:17:01,2017-12-01,AGII,Nealon Kathleen,Dir,D - Sale to issuer,$61.00,-7215,9978,-42%,"-$440,115",,,,,ARGO
+242,D,2017-12-05 21:17:01,2017-12-01,AGII,Nealon Kathleen,Dir,M - OptEx,$0.00,7215,9978,+261%,+$0,,,,,ARGO
+243,D,2017-12-05 21:13:48,2017-12-01,AGII,Power John R Jr,Dir,D - Sale to issuer,$61.00,-18625,12938,-59%,"-$1,136,125",,,,,ARGO
+244,D,2017-12-05 21:13:48,2017-12-01,AGII,Power John R Jr,Dir,M - OptEx,$0.00,18625,12938,-328%,+$0,,,,,ARGO
+245,D,2017-12-05 21:08:42,2017-12-01,AGII,Josephson Mural R,Dir,D - Sale to issuer,$61.00,-11278,18409,-38%,"-$687,958",,,,,ARGO
+246,D,2017-12-05 21:08:42,2017-12-01,AGII,Josephson Mural R,Dir,M - OptEx,$0.00,11278,18409,+158%,+$0,,,,,ARGO
+247,D,2017-12-05 21:06:55,2017-12-01,AGII,Woods Gary V,Dir,D - Sale to issuer,$61.00,-22590,24652,-48%,"-$1,377,990",,,,,ARGO
+248,D,2017-12-05 21:06:55,2017-12-01,AGII,Woods Gary V,Dir,M - OptEx,$0.00,22590,24652,>999%,+$0,,,,,ARGO
+249,D,2017-12-05 21:06:23,2017-12-01,AGII,Deleon Hector,Dir,D - Sale to issuer,$61.00,-5200,15410,-25%,"-$317,200",,,,,ARGO
+250,D,2017-12-05 21:06:23,2017-12-01,AGII,Deleon Hector,Dir,M - OptEx,$0.00,5200,15410,+51%,+$0,,,,,ARGO
+251,D,2017-12-05 21:06:09,2017-12-01,AGII,Cash Harvey B,Dir,D - Sale to issuer,$61.00,-2457,22186,-10%,"-$149,877",,,,,ARGO
+252,D,2017-12-05 21:06:09,2017-12-01,AGII,Cash Harvey B,Dir,M - OptEx,$0.00,2457,22186,+12%,+$0,,,,,ARGO
+253,D,2017-12-05 21:03:45,2017-12-01,AGII,Tonelli John H,Dir,D - Sale to issuer,$61.00,-2447,9858,-20%,"-$149,267",,,,,ARGO
+254,D,2017-12-05 21:03:45,2017-12-01,AGII,Tonelli John H,Dir,M - OptEx,$0.00,2447,9858,+33%,+$0,,,,,ARGO
+255,D,2017-12-05 21:03:10,2017-12-01,AGII,Browne F Sedgwick,Dir,D - Sale to issuer,$61.00,-4787,16514,-22%,"-$292,007",,,,,ARGO
+256,D,2017-12-05 21:03:10,2017-12-01,AGII,Browne F Sedgwick,Dir,M - OptEx,$0.00,4787,16514,+41%,+$0,,,,,ARGO
+257,D,2017-12-04 16:23:19,2017-11-30,AGII,Browne F Sedgwick,Dir,D - Sale to issuer,$61.29,-2511,16514,-13%,"-$153,905",,,,,ARGO
+258,D,2017-12-04 16:23:19,2017-11-30,AGII,Browne F Sedgwick,Dir,M - OptEx,$23.11,6655,16514,+68%,"+$153,797",,,,,ARGO
+259,D,2017-12-04 16:23:19,2017-11-30,AGII,Browne F Sedgwick,Dir,S - Sale+OE,$61.24,-4144,16514,-20%,"-$253,760",,,,,ARGO
+260,D,2017-12-04 16:22:17,2017-12-01,AGII,Nealon Kathleen,Dir,D - Sale to issuer,$61.00,-2523,9978,-20%,"-$153,903",,,,,ARGO
+261,D,2017-12-04 16:22:17,2017-12-01,AGII,Nealon Kathleen,Dir,M - OptEx,$23.11,6655,9978,+200%,"+$153,797",,,,,ARGO
+262,D,2017-11-29 20:04:05,2017-11-28,AGII,Deleon Hector,Dir,D - Sale to issuer,$61.10,-2518,15410,-14%,"-$153,850",,,,,ARGO
+263,D,2017-11-29 20:04:05,2017-11-28,AGII,Deleon Hector,Dir,M - OptEx,$23.11,6655,15410,+76%,"+$153,797",,,,,ARGO
+264,D,2017-11-29 20:04:05,2017-11-28,AGII,Deleon Hector,Dir,S - Sale+OE,$61.11,-4137,15410,-21%,"-$252,810",,,,,ARGO
+265,D,2017-11-17 17:57:54,2017-11-17,AGII,Tonelli John H,Dir,D - Sale to issuer,$58.23,-2643,9858,-21%,"-$153,889",,,,,ARGO
+266,D,2017-11-17 17:57:54,2017-11-17,AGII,Tonelli John H,Dir,M - OptEx,$23.11,6655,9858,+208%,"+$153,797",,,,,ARGO
+267,D,2017-11-16 18:24:56,2017-11-15,AGII,Cash Harvey B,Dir,D - Sale to issuer,$59.35,-8857,22186,-29%,"-$525,663",,,,,ARGO
+268,D,2017-11-16 18:24:56,2017-11-15,AGII,Cash Harvey B,Dir,M - OptEx,$26.32,19965,22186,+899%,"+$525,479",,,,,ARGO
+269,D,2017-11-15 18:26:19,2017-11-14,AGII,Woods Gary V,Dir,D - Sale to issuer,$59.70,-2577,24652,-9%,"-$153,847",,,,,ARGO
+270,D,2017-11-15 18:26:19,2017-11-14,AGII,Woods Gary V,Dir,M - OptEx,$23.11,6655,24652,+37%,"+$153,797",,,,,ARGO
+271,,2017-11-15 18:22:18,2017-11-14,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",S - Sale,$59.74,-2500,30793,-8%,"-$149,345",,,,,ARGO
+272,,2017-10-04 16:28:22,2017-10-02,AGII,Schmidt Axel,Chief Underwriting Officer,F - Tax,$62.65,-1490,24876,-6%,"-$93,349",,,,,ARGO
+273,,2017-10-04 16:25:19,2017-10-03,AGII,Hernandez Jose Angel,SVP - Head of International,F - Tax,$62.95,-1183,15825,-7%,"-$74,470",,,,,ARGO
+274,A,2017-10-04 16:24:46,2017-03-29,AGII,Hernandez Jose Angel,SVP - Head of International,A - Grant,$0.00,2283,16632,+16%,+$0,,,,,ARGO
+275,D,2017-08-28 16:19:52,2017-08-24,AGII,Watson Mark E III,"Pres, CEO",F - Tax,$60.20,-42575,540401,-7%,"-$2,563,015",,,,,ARGO
+276,D,2017-08-28 16:19:52,2017-08-24,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$24.42,65001,540401,+14%,"+$1,587,324",,,,,ARGO
+277,D,2017-08-28 16:19:52,2017-08-25,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$60.19,-22246,540401,-4%,"-$1,339,062",,,,,ARGO
+278,DM,2017-06-16 17:48:17,2017-06-14,AGII,Bullock Jay Stanley,CFO,D - Sale to issuer,$60.95,-4208,81636,-5%,"-$256,478",,,,,ARGO
+279,DM,2017-06-16 17:48:17,2017-06-14,AGII,Bullock Jay Stanley,CFO,M - OptEx,$24.42,10500,81636,+15%,"+$256,410",,,,,ARGO
+280,DM,2017-06-16 17:48:17,2017-06-14,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$60.91,-6292,81636,-7%,"-$383,216",,,,,ARGO
+281,DM,2017-06-15 19:37:49,2017-06-13,AGII,Watson Mark E III,"Pres, CEO",D - Sale to issuer,$61.09,-4334,540008,-1%,"-$264,743",,,,,ARGO
+282,DM,2017-06-15 19:37:49,2017-06-13,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$24.42,10837,540008,+2%,"+$264,640",,,,,ARGO
+283,DM,2017-06-15 19:37:49,2017-06-13,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$61.10,-6503,540008,-1%,"-$397,302",,,,,ARGO
+284,,2017-06-14 17:20:11,2017-06-12,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",S - Sale,$61.00,-3500,33193,-10%,"-$213,505",,,,,ARGO
+285,D,2017-06-05 18:09:07,2017-06-01,AGII,Nealon Kathleen,Dir,A - Grant,$0.00,1120,5846,+24%,+$0,,,,,ARGO
+286,D,2017-06-05 17:49:37,2017-06-01,AGII,Woods Gary V,Dir,A - Grant,$0.00,1120,21694,+5%,+$0,,,,,ARGO
+287,D,2017-06-05 17:48:58,2017-06-01,AGII,Browne F Sedgwick,Dir,A - Grant,$0.00,1120,16514,+7%,+$0,,,,,ARGO
+288,,2017-06-05 17:44:43,2017-06-01,AGII,Ramji Al Noor,Dir,A - Grant,$0.00,1120,1120,New,+$0,,,,,ARGO
+289,D,2017-06-05 17:42:48,2017-06-01,AGII,Cash Harvey B,Dir,A - Grant,$0.00,1120,11078,+11%,+$0,,,,,ARGO
+290,D,2017-06-05 17:42:35,2017-06-01,AGII,Tonelli John H,Dir,A - Grant,$0.00,1120,5846,+24%,+$0,,,,,ARGO
+291,D,2017-06-05 17:42:23,2017-06-01,AGII,Josephson Mural R,Dir,A - Grant,$0.00,1120,18409,+6%,+$0,,,,,ARGO
+292,,2017-06-05 17:42:06,2017-06-01,AGII,Lehane Dymphna,Dir,A - Grant,$0.00,1120,1120,New,+$0,,,,,ARGO
+293,D,2017-06-05 17:41:29,2017-06-01,AGII,Power John R Jr,Dir,A - Grant,$0.00,1120,12938,+9%,+$0,,,,,ARGO
+294,D,2017-06-05 17:40:39,2017-06-01,AGII,Deleon Hector,Dir,A - Grant,$0.00,1120,15410,+8%,+$0,,,,,ARGO
+295,A,2017-05-22 17:50:46,2017-03-29,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",A - Grant,$0.00,1712,36693,+5%,+$0,,,,,ARGO
+296,A,2017-04-26 17:26:53,2017-03-29,AGII,Hernandez Jose Angel,SVP - Head of International,A - Grant,$0.00,3424,17773,+24%,+$0,-1.0,-3.0,,,ARGO
+297,A,2017-04-12 17:56:24,2017-03-29,AGII,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,1268,26366,+5%,+$0,-2.0,0.0,0.0,,ARGO
+298,M,2017-04-07 17:59:51,2010-05-13,AGII,Bullock Jay Stanley,CFO,F - Tax,$46.20,-14177,81511,-15%,"-$654,951",1.0,-2.0,0.0,,ARGO
+299,,2017-04-07 17:57:44,2016-02-25,AGII,Schmidt Axel,Chief Underwriting Officer,F - Tax,$56.30,-251,26180,-1%,"-$14,131",1.0,-2.0,0.0,,ARGO
+300,M,2017-04-07 17:56:24,2011-03-01,AGII,Watson Mark E III,"Pres, CEO",F - Tax,$46.79,-57842,540008,-10%,"-$2,706,470",1.0,-2.0,0.0,,ARGO
+301,,2017-03-31 17:03:47,2017-03-29,AGII,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,1082,25396,+4%,+$0,0.0,-2.0,-2.0,,ARGO
+302,,2017-03-31 17:02:30,2017-03-29,AGII,Watson Mark E III,"Pres, CEO",A - Grant,$0.00,5971,614907,+1%,+$0,0.0,-2.0,-2.0,,ARGO
+303,,2017-03-31 17:01:10,2017-03-29,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",A - Grant,$0.00,1458,36439,+4%,+$0,0.0,-2.0,-2.0,,ARGO
+304,,2017-03-31 17:00:42,2017-03-29,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,1598,86773,+2%,+$0,0.0,-2.0,-2.0,,ARGO
+305,,2017-03-31 16:58:25,2017-03-29,AGII,Hernandez Jose Angel,SVP - Head of International,A - Grant,$0.00,2283,16632,+16%,+$0,0.0,-2.0,-2.0,,ARGO
+306,AM,2017-03-31 16:55:05,2017-03-14,AGII,Watson Mark E III,"Pres, CEO",F - Tax,$67.51,-5911,608936,-1%,"-$399,053",0.0,-2.0,-2.0,,ARGO
+307,AM,2017-03-31 16:53:57,2017-03-14,AGII,Bullock Jay Stanley,CFO,F - Tax,$67.54,-1534,85175,-2%,"-$103,611",0.0,-2.0,-2.0,,ARGO
+308,D,2017-03-17 16:12:29,2017-03-15,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",F - Tax,$67.75,-34136,34981,-49%,"-$2,312,714",-1.0,-2.0,-3.0,,ARGO
+309,D,2017-03-17 16:12:29,2017-03-15,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",M - OptEx,$36.43,40440,34981,-741%,"+$1,473,066",-1.0,-2.0,-3.0,,ARGO
+310,M,2017-03-16 18:00:11,2017-03-14,AGII,Watson Mark E III,"Pres, CEO",F - Tax,$67.51,-5911,620758,-1%,"-$399,053",0.0,-3.0,-4.0,,ARGO
+311,M,2017-03-16 17:59:22,2017-03-14,AGII,Bullock Jay Stanley,CFO,F - Tax,$67.54,-1534,88243,-2%,"-$103,611",0.0,-3.0,-4.0,,ARGO
+312,,2017-03-13 17:21:48,2017-03-09,AGII,Watson Mark E III,"Pres, CEO",A - Grant,$21.05,31402,614847,+5%,"+$661,012",0.0,0.0,-2.0,,ARGO
+313,,2017-03-13 17:21:48,2017-03-10,AGII,Watson Mark E III,"Pres, CEO",F - Tax,$67.65,-4117,614847,-1%,"-$278,515",0.0,0.0,-2.0,,ARGO
+314,D,2017-03-13 17:17:22,2017-03-09,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,6913,86709,+9%,+$0,0.0,0.0,-2.0,,ARGO
+315,D,2017-03-13 17:17:22,2017-03-10,AGII,Bullock Jay Stanley,CFO,D - Sale to issuer,$67.25,-5805,86709,-6%,"-$390,386",0.0,0.0,-2.0,,ARGO
+316,D,2017-03-13 17:17:22,2017-03-10,AGII,Bullock Jay Stanley,CFO,F - Tax,$67.65,-969,86709,-1%,"-$65,553",0.0,0.0,-2.0,,ARGO
+317,D,2017-03-13 17:17:22,2017-03-10,AGII,Bullock Jay Stanley,CFO,M - OptEx,$24.42,15983,86709,+23%,"+$390,305",0.0,0.0,-2.0,,ARGO
+318,D,2017-03-13 17:17:22,2017-03-10,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$67.59,-10178,86709,-11%,"-$687,938",0.0,0.0,-2.0,,ARGO
+319,,2017-03-13 17:12:21,2017-03-09,AGII,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,6557,24314,+37%,+$0,0.0,0.0,-2.0,,ARGO
+320,,2017-03-13 17:12:21,2017-03-10,AGII,Schmidt Axel,Chief Underwriting Officer,F - Tax,$67.65,-268,24314,-1%,"-$18,130",0.0,0.0,-2.0,,ARGO
+321,,2017-03-13 17:10:14,2017-03-09,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",A - Grant,$0.00,9204,28677,+47%,+$0,0.0,0.0,-2.0,,ARGO
+322,,2017-03-13 17:10:14,2017-03-10,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",F - Tax,$67.65,-1166,28677,-4%,"-$78,880",0.0,0.0,-2.0,,ARGO
+323,D,2017-03-07 18:25:19,2017-03-06,AGII,Woods Gary V,Dir,D - Sale to issuer,$67.05,-2373,20574,-10%,"-$159,110",0.0,0.0,0.0,,ARGO
+324,D,2017-03-07 18:25:19,2017-03-06,AGII,Woods Gary V,Dir,M - OptEx,$23.90,6655,20574,+48%,"+$159,055",0.0,0.0,0.0,,ARGO
+325,,2017-03-03 17:09:32,2017-03-01,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",F - Tax,$68.80,-4033,20639,-16%,"-$277,470",-1.0,-1.0,0.0,,ARGO
+326,D,2017-03-03 17:07:07,2017-03-01,AGII,Power John R Jr,Dir,D - Sale to issuer,$68.90,-2309,11818,-16%,"-$159,090",-1.0,-1.0,0.0,,ARGO
+327,D,2017-03-03 17:07:07,2017-03-01,AGII,Power John R Jr,Dir,M - OptEx,$23.90,6655,11818,+129%,"+$159,055",-1.0,-1.0,0.0,,ARGO
+328,D,2017-03-03 17:07:07,2017-03-01,AGII,Power John R Jr,Dir,S - Sale+OE,$68.90,-4346,11818,-27%,"-$299,425",-1.0,-1.0,0.0,,ARGO
+329,D,2017-03-03 17:05:02,2017-03-01,AGII,Watson Mark E III,"Pres, CEO",D - Sale to issuer,$68.25,-2931,587562,0%,"-$200,041",-1.0,-1.0,0.0,,ARGO
+330,D,2017-03-03 17:05:02,2017-03-01,AGII,Watson Mark E III,"Pres, CEO",F - Tax,$68.80,-13623,587562,-2%,"-$937,262",-1.0,-1.0,0.0,,ARGO
+331,D,2017-03-03 17:05:02,2017-03-01,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$21.05,32316,587562,+6%,"+$680,252",-1.0,-1.0,0.0,,ARGO
+332,D,2017-03-03 17:05:02,2017-03-01,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$68.45,-6569,587562,-1%,"-$449,680",-1.0,-1.0,0.0,,ARGO
+333,M,2017-02-14 16:23:28,2016-12-28,AGII,Watson Mark E III,"Pres, CEO",G - Gift,$0.00,-5082,580287,+1%,-$0,-2.0,-1.0,1.0,,ARGO
+334,D,2016-12-09 18:18:23,2016-12-08,AGII,Josephson Mural R,Dir,D - Sale to issuer,$63.40,-2510,17289,-13%,"-$159,134",1.0,0.0,0.0,,ARGO
+335,D,2016-12-09 18:18:23,2016-12-08,AGII,Josephson Mural R,Dir,M - OptEx,$23.90,6655,17289,+63%,"+$159,055",1.0,0.0,0.0,,ARGO
+336,D,2016-12-09 18:18:23,2016-12-08,AGII,Josephson Mural R,Dir,S - Sale+OE,$63.35,-4145,17289,-19%,"-$262,590",1.0,0.0,0.0,,ARGO
+337,D,2016-12-08 16:26:32,2016-12-06,AGII,Bullock Jay Stanley,CFO,D - Sale to issuer,$62.95,-4850,81176,-6%,"-$305,308",2.0,1.0,1.0,,ARGO
+338,D,2016-12-08 16:26:32,2016-12-06,AGII,Bullock Jay Stanley,CFO,M - OptEx,$24.42,12500,81176,+18%,"+$305,250",2.0,1.0,1.0,,ARGO
+339,D,2016-12-08 16:26:32,2016-12-06,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$62.91,-7650,81176,-9%,"-$481,248",2.0,1.0,1.0,,ARGO
+340,D,2016-12-01 16:23:54,2016-11-29,AGII,Cash Harvey B,Dir,D - Sale to issuer,$63.85,-2492,9958,-20%,"-$159,114",-1.0,0.0,4.0,,ARGO
+341,D,2016-12-01 16:23:54,2016-11-29,AGII,Cash Harvey B,Dir,M - OptEx,$23.90,6655,9958,+201%,"+$159,055",-1.0,0.0,4.0,,ARGO
+342,D,2016-12-01 16:23:54,2016-11-29,AGII,Cash Harvey B,Dir,S - Sale+OE,$63.95,-4163,9958,-29%,"-$266,239",-1.0,0.0,4.0,,ARGO
+343,DM,2016-11-23 19:12:31,2016-11-21,AGII,Watson Mark E III,"Pres, CEO",D - Sale to issuer,$64.56,-14725,580183,-2%,"-$950,626",1.0,-1.0,4.0,,ARGO
+344,DM,2016-11-23 19:12:31,2016-11-21,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$21.05,45131,580183,+8%,"+$950,008",1.0,-1.0,4.0,,ARGO
+345,DM,2016-11-23 19:12:31,2016-11-21,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$64.62,-23678,580183,-4%,"-$1,530,187",1.0,-1.0,4.0,,ARGO
+346,D,2016-11-23 17:43:03,2016-11-21,AGII,Deleon Hector,Dir,D - Sale to issuer,$64.80,-2456,14290,-15%,"-$159,149",1.0,-1.0,4.0,,ARGO
+347,D,2016-11-23 17:43:03,2016-11-21,AGII,Deleon Hector,Dir,M - OptEx,$23.90,6655,14290,+87%,"+$159,055",1.0,-1.0,4.0,,ARGO
+348,D,2016-11-23 17:43:03,2016-11-21,AGII,Deleon Hector,Dir,S - Sale+OE,$64.87,-4199,14290,-23%,"-$272,400",1.0,-1.0,4.0,,ARGO
+349,,2016-10-05 16:17:42,2016-10-03,AGII,Hernandez Jose Angel,Head of International,A - Grant,$0.00,14349,14349,New,+$0,-1.0,1.0,1.0,18.0,ARGO
+350,D,2016-09-23 21:18:58,2016-09-22,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",D - Sale to issuer,$56.89,-40440,24672,-62%,"-$2,300,632",-1.0,0.0,0.0,18.0,ARGO
+351,D,2016-09-23 21:18:58,2016-09-22,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",M - OptEx,$36.43,40440,24672,-256%,"+$1,473,053",-1.0,0.0,0.0,18.0,ARGO
+352,D,2016-09-23 21:18:58,2016-09-23,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",P - Purchase,$56.21,8543,24672,+53%,"+$480,172",-1.0,0.0,0.0,18.0,ARGO
+353,D,2016-09-16 16:58:55,2016-09-14,AGII,Tonelli John H,Dir,D - Sale to issuer,$55.93,-2845,4726,-38%,"-$159,121",-1.0,2.0,3.0,21.0,ARGO
+354,D,2016-09-16 16:58:55,2016-09-14,AGII,Tonelli John H,Dir,M - OptEx,$23.90,6655,4726,-345%,"+$159,055",-1.0,2.0,3.0,21.0,ARGO
+355,D,2016-09-16 16:58:55,2016-09-14,AGII,Tonelli John H,Dir,S - Sale+OE,$55.91,-3810,4726,-45%,"-$213,029",-1.0,2.0,3.0,21.0,ARGO
+356,DM,2016-09-12 18:23:24,2016-09-08,AGII,Bullock Jay Stanley,CFO,D - Sale to issuer,$56.62,-11046,81176,-12%,"-$625,381",-1.0,-1.0,3.0,20.0,ARGO
+357,DM,2016-09-12 18:23:24,2016-09-08,AGII,Bullock Jay Stanley,CFO,M - OptEx,$21.05,29707,81176,+58%,"+$625,332",-1.0,-1.0,3.0,20.0,ARGO
+358,DM,2016-09-12 18:23:24,2016-09-08,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$56.62,-18661,81176,-19%,"-$1,056,531",-1.0,-1.0,3.0,20.0,ARGO
+359,,2016-08-24 17:45:58,2016-08-23,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",S - Sale,$55.90,-5000,16129,-24%,"-$279,489",0.0,1.0,1.0,22.0,ARGO
+360,M,2016-08-19 16:43:49,2016-08-17,AGII,Watson Mark E III,"Pres, CEO",S - Sale,$55.52,-10498,573325,-2%,"-$582,849",0.0,2.0,0.0,20.0,ARGO
+361,D,2016-08-17 16:45:31,2016-08-15,AGII,Browne F Sedgwick,Dir,D - Sale to issuer,$54.99,-2893,15394,-16%,"-$159,086",0.0,1.0,1.0,21.0,ARGO
+362,D,2016-08-17 16:45:31,2016-08-15,AGII,Browne F Sedgwick,Dir,M - OptEx,$23.90,6655,15394,+76%,"+$159,055",0.0,1.0,1.0,21.0,ARGO
+363,D,2016-08-17 16:45:31,2016-08-15,AGII,Browne F Sedgwick,Dir,S - Sale+OE,$54.97,-3762,15394,-20%,"-$206,805",0.0,1.0,1.0,21.0,ARGO
+364,DM,2016-06-08 18:32:48,2016-06-06,AGII,Bullock Jay Stanley,CFO,D - Sale to issuer,$53.39,-7324,81089,-8%,"-$390,994",-1.0,-4.0,-4.0,17.0,ARGO
+365,DM,2016-06-08 18:32:48,2016-06-06,AGII,Bullock Jay Stanley,CFO,M - OptEx,$21.05,18572,81089,+30%,"+$390,941",-1.0,-4.0,-4.0,17.0,ARGO
+366,DM,2016-06-08 18:32:48,2016-06-06,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$53.50,-11248,81089,-12%,"-$601,745",-1.0,-4.0,-4.0,17.0,ARGO
+367,D,2016-05-26 17:56:57,2016-05-24,AGII,Watson Mark E III,"Pres, CEO",D - Sale to issuer,$58.38,-3783,530558,-1%,"-$220,852",1.0,2.0,-4.0,23.0,ARGO
+368,D,2016-05-26 17:56:57,2016-05-24,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$23.15,9540,530558,+2%,"+$220,851",1.0,2.0,-4.0,23.0,ARGO
+369,DM,2016-05-26 17:56:57,2016-05-24,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$58.13,-9718,530558,-2%,"-$564,902",1.0,2.0,-4.0,23.0,ARGO
+370,D,2016-05-05 17:39:32,2016-05-03,AGII,Deleon Hector,Dir,A - Grant,$0.00,1186,12991,+10%,+$0,1.0,1.0,2.0,6.0,ARGO
+371,D,2016-05-05 17:36:31,2016-05-03,AGII,Josephson Mural R,Dir,A - Grant,$0.00,1186,15718,+8%,+$0,1.0,1.0,2.0,6.0,ARGO
+372,D,2016-05-05 17:36:27,2016-05-03,AGII,Power John R Jr,Dir,A - Grant,$0.00,1186,10744,+12%,+$0,1.0,1.0,2.0,6.0,ARGO
+373,D,2016-05-05 17:35:47,2016-05-03,AGII,Nealon Kathleen,Dir,A - Grant,$0.00,1186,4297,+38%,+$0,1.0,1.0,2.0,6.0,ARGO
+374,D,2016-05-05 17:34:54,2016-05-03,AGII,Cash Harvey B,Dir,A - Grant,$0.00,1186,9053,+15%,+$0,1.0,1.0,2.0,6.0,ARGO
+375,D,2016-05-05 17:34:40,2016-05-03,AGII,Woods Gary V,Dir,A - Grant,$0.00,1186,14811,+9%,+$0,1.0,1.0,2.0,6.0,ARGO
+376,D,2016-05-05 17:33:59,2016-05-03,AGII,Tonelli John H,Dir,A - Grant,$0.00,1186,4297,+38%,+$0,1.0,1.0,2.0,6.0,ARGO
+377,D,2016-05-05 17:33:55,2016-05-03,AGII,Browne F Sedgwick,Dir,A - Grant,$0.00,1186,13995,+9%,+$0,1.0,1.0,2.0,6.0,ARGO
+378,,2016-03-14 19:45:17,2016-03-10,AGII,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,1490,16506,+10%,+$0,-1.0,1.0,0.0,10.0,ARGO
+379,,2016-03-14 19:45:09,2016-03-10,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",A - Grant,$0.00,1743,18778,+10%,+$0,-1.0,1.0,0.0,10.0,ARGO
+380,,2016-03-14 19:44:58,2016-03-10,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,1819,80944,+2%,+$0,-1.0,1.0,0.0,10.0,ARGO
+381,,2016-03-14 19:44:07,2016-03-10,AGII,Watson Mark E III,"Pres, CEO",A - Grant,$0.00,7137,534519,+1%,+$0,-1.0,1.0,0.0,10.0,ARGO
+382,D,2016-03-11 17:01:32,2016-03-11,AGII,Power John R Jr,Dir,D - Sale to issuer,$54.97,-1815,9558,-16%,"-$99,771",-1.0,1.0,-3.0,11.0,ARGO
+383,DM,2016-03-11 17:01:32,2016-03-10,AGII,Power John R Jr,Dir,M - OptEx,$21.85,6050,9558,+172%,"+$132,193",-1.0,1.0,-3.0,11.0,ARGO
+384,D,2016-03-11 17:01:32,2016-03-10,AGII,Power John R Jr,Dir,S - Sale+OE,$55.10,-2558,9558,-21%,"-$140,946",-1.0,1.0,-3.0,11.0,ARGO
+385,D,2016-02-26 18:18:07,2016-02-24,AGII,Browne F Sedgwick,Dir,M - OptEx,$31.24,430,12809,+3%,"+$13,433",-1.0,1.0,0.0,12.0,ARGO
+386,D,2016-02-23 19:44:48,2016-02-21,AGII,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,2867,15016,+24%,+$0,2.0,1.0,4.0,12.0,ARGO
+387,D,2016-02-23 19:43:39,2016-02-21,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,2931,73127,+4%,+$0,2.0,1.0,4.0,12.0,ARGO
+388,D,2016-02-23 19:42:59,2016-02-21,AGII,Watson Mark E III,"Pres, CEO",A - Grant,$0.00,12316,520991,+2%,+$0,2.0,1.0,4.0,12.0,ARGO
+389,D,2015-12-15 16:43:37,2015-12-11,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",D - Sale to issuer,$60.61,-27069,14930,-64%,"-$1,640,652",0.0,-2.0,-6.0,-6.0,ARGO
+390,D,2015-12-15 16:43:37,2015-12-11,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",M - OptEx,$36.63,27069,14930,-223%,"+$991,604",0.0,-2.0,-6.0,-6.0,ARGO
+391,D,2015-12-15 16:43:37,2015-12-14,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",P - Purchase,$60.37,6198,14930,+71%,"+$374,161",0.0,-2.0,-6.0,-6.0,ARGO
+392,D,2015-11-23 16:01:32,2015-11-19,AGII,Cash Harvey B,Dir,D - Sale to issuer,$64.00,-3262,7867,-29%,"-$208,768",-1.0,-2.0,-7.0,-10.0,ARGO
+393,D,2015-11-23 16:01:32,2015-11-19,AGII,Cash Harvey B,Dir,M - OptEx,$21.85,6050,7867,+333%,"+$132,193",-1.0,-2.0,-7.0,-10.0,ARGO
+394,D,2015-11-23 16:01:21,2015-11-19,AGII,Bullock Jay Stanley,CFO,D - Sale to issuer,$63.76,-8549,70196,-11%,"-$545,084",-1.0,-2.0,-7.0,-10.0,ARGO
+395,D,2015-11-23 16:01:21,2015-11-19,AGII,Bullock Jay Stanley,CFO,M - OptEx,$23.19,23503,70196,+50%,"+$544,982",-1.0,-2.0,-7.0,-10.0,ARGO
+396,D,2015-11-23 16:01:21,2015-11-19,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$63.35,-14954,70196,-18%,"-$947,261",-1.0,-2.0,-7.0,-10.0,ARGO
+397,D,2015-11-17 17:24:47,2015-11-13,AGII,Josephson Mural R,Dir,D - Sale to issuer,$62.46,-3298,14532,-18%,"-$205,993",2.0,4.0,-3.0,-7.0,ARGO
+398,D,2015-11-17 17:24:47,2015-11-13,AGII,Josephson Mural R,Dir,M - OptEx,$22.47,6480,14532,+80%,"+$145,626",2.0,4.0,-3.0,-7.0,ARGO
+399,D,2015-11-17 17:24:47,2015-11-13,AGII,Josephson Mural R,Dir,S - Sale+OE,$62.45,-3182,14532,-18%,"-$198,716",2.0,4.0,-3.0,-7.0,ARGO
+400,D,2015-11-06 16:53:04,2015-11-05,AGII,Deleon Hector,Dir,D - Sale to issuer,$62.17,-3305,11805,-22%,"-$205,472",0.0,-2.0,0.0,-7.0,ARGO
+401,D,2015-11-06 16:53:04,2015-11-05,AGII,Deleon Hector,Dir,M - OptEx,$21.85,6050,11805,+105%,"+$132,193",0.0,-2.0,0.0,-7.0,ARGO
+402,,2015-11-06 16:50:16,2015-11-06,AGII,Watson Mark E III,"Pres, CEO",S - Sale,$63.00,-4500,508675,-1%,"-$283,500",0.0,-2.0,0.0,-7.0,ARGO
+403,D,2015-11-03 18:54:02,2015-10-30,AGII,Watson Mark E III,"Pres, CEO",D - Sale to issuer,$62.52,-15862,513175,-3%,"-$991,692",-1.0,2.0,4.0,-6.0,ARGO
+404,D,2015-11-03 18:54:02,2015-10-30,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$23.15,25000,513175,+5%,"+$578,750",-1.0,2.0,4.0,-6.0,ARGO
+405,DM,2015-11-03 18:54:02,2015-10-30,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$63.58,-5500,513175,-1%,"-$349,702",-1.0,2.0,4.0,-6.0,ARGO
+406,D,2015-11-03 18:51:06,2015-10-30,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",D - Sale to issuer,$62.52,-11660,8732,-57%,"-$728,983",-1.0,2.0,4.0,-6.0,ARGO
+407,D,2015-11-03 18:51:06,2015-10-30,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",M - OptEx,$33.13,11660,8732,-398%,"+$386,296",-1.0,2.0,4.0,-6.0,ARGO
+408,D,2015-08-24 16:14:10,2015-08-20,AGII,Browne F Sedgwick,Dir,D - Sale to issuer,$58.41,-3401,12379,-22%,"-$198,652",-1.0,-1.0,0.0,1.0,ARGO
+409,D,2015-08-24 16:14:10,2015-08-20,AGII,Browne F Sedgwick,Dir,M - OptEx,$21.85,6050,12379,+96%,"+$132,193",-1.0,-1.0,0.0,1.0,ARGO
+410,D,2015-08-20 17:15:10,2015-08-18,AGII,Woods Gary V,Dir,D - Sale to issuer,$58.66,-3394,13625,-20%,"-$199,092",-1.0,-4.0,-5.0,-6.0,ARGO
+411,D,2015-08-20 17:15:10,2015-08-18,AGII,Woods Gary V,Dir,M - OptEx,$21.85,6050,13625,+80%,"+$132,193",-1.0,-4.0,-5.0,-6.0,ARGO
+412,DM,2015-08-19 18:27:04,2015-08-17,AGII,Bullock Jay Stanley,CFO,D - Sale to issuer,$58.40,-22264,70196,-24%,"-$1,300,324",-1.0,-7.0,-7.0,-8.0,ARGO
+413,DM,2015-08-19 18:27:04,2015-08-17,AGII,Bullock Jay Stanley,CFO,M - OptEx,$23.25,28264,70196,+67%,"+$657,138",-1.0,-7.0,-7.0,-8.0,ARGO
+414,D,2015-08-19 18:27:04,2015-08-18,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$58.00,-6000,70196,-8%,"-$348,000",-1.0,-7.0,-7.0,-8.0,ARGO
+415,DM,2015-08-14 16:42:26,2015-08-12,AGII,Watson Mark E III,"Pres, CEO",D - Sale to issuer,$56.89,-29979,509537,-6%,"-$1,705,474",0.0,1.0,-4.0,-7.0,ARGO
+416,DM,2015-08-14 16:42:26,2015-08-12,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$23.25,45648,509537,+10%,"+$1,061,316",0.0,1.0,-4.0,-7.0,ARGO
+417,DM,2015-08-14 16:42:26,2015-08-12,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$56.86,-8927,509537,-2%,"-$507,623",0.0,1.0,-4.0,-7.0,ARGO
+418,,2015-05-19 16:28:45,2015-05-15,AGII,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,2079,12149,+21%,+$0,0.0,-2.0,2.0,17.0,ARGO
+419,D,2015-05-14 19:19:54,2015-05-12,AGII,Watson Mark E III,"Pres, CEO",D - Sale to issuer,$53.03,-15383,502795,-3%,"-$815,760",-1.0,0.0,1.0,18.0,ARGO
+420,D,2015-05-14 19:19:54,2015-05-12,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$23.25,22824,502795,+5%,"+$530,658",-1.0,0.0,1.0,18.0,ARGO
+421,D,2015-05-14 19:19:54,2015-05-13,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$54.02,-7741,502795,-2%,"-$418,136",-1.0,0.0,1.0,18.0,ARGO
+422,D,2015-05-13 18:48:47,2015-05-11,AGII,Bullock Jay Stanley,CFO,D - Sale to issuer,$51.30,-9629,70196,-12%,"-$493,968",1.0,0.0,2.0,19.0,ARGO
+423,DM,2015-05-13 18:48:47,2015-05-11,AGII,Bullock Jay Stanley,CFO,M - OptEx,$24.34,14092,70196,+25%,"+$342,987",1.0,0.0,2.0,19.0,ARGO
+424,D,2015-05-13 18:48:47,2015-05-12,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$52.10,-7513,70196,-10%,"-$391,393",1.0,0.0,2.0,19.0,ARGO
+425,D,2015-05-07 19:41:52,2015-05-05,AGII,Nealon Kathleen,Dir,A - Grant,$0.00,1398,3111,+82%,+$0,1.0,7.0,6.0,24.0,ARGO
+426,D,2015-05-07 19:41:19,2015-05-05,AGII,Deleon Hector,Dir,A - Grant,$0.00,1398,9060,+18%,+$0,1.0,7.0,6.0,24.0,ARGO
+427,D,2015-05-07 19:38:22,2015-05-05,AGII,Tonelli John H,Dir,A - Grant,$0.00,1398,3111,+82%,+$0,1.0,7.0,6.0,24.0,ARGO
+428,D,2015-05-07 19:37:45,2015-05-05,AGII,Josephson Mural R,Dir,A - Grant,$0.00,1398,14532,+11%,+$0,1.0,7.0,6.0,24.0,ARGO
+429,D,2015-05-07 19:35:50,2015-05-05,AGII,Browne F Sedgwick,Dir,A - Grant,$0.00,1398,9730,+17%,+$0,1.0,7.0,6.0,24.0,ARGO
+430,D,2015-05-07 19:34:21,2015-05-05,AGII,Power John R Jr,Dir,A - Grant,$0.00,1398,7881,+22%,+$0,1.0,7.0,6.0,24.0,ARGO
+431,D,2015-05-07 19:30:03,2015-05-05,AGII,Cash Harvey B,Dir,A - Grant,$0.00,1398,5079,+38%,+$0,1.0,7.0,6.0,24.0,ARGO
+432,D,2015-05-07 19:28:17,2015-05-05,AGII,Woods Gary V,Dir,A - Grant,$0.00,1398,10969,+15%,+$0,1.0,7.0,6.0,24.0,ARGO
+433,D,2015-03-18 19:29:18,2015-03-16,AGII,Bullock Jay Stanley,CFO,F - Tax,$51.02,-17600,73246,-19%,"-$897,952",0.0,-1.0,1.0,9.0,ARGO
+434,D,2015-03-18 19:29:18,2015-03-16,AGII,Bullock Jay Stanley,CFO,M - OptEx,$31.62,22584,73246,+45%,"+$714,106",0.0,-1.0,1.0,9.0,ARGO
+435,D,2015-03-18 19:28:06,2015-03-16,AGII,Josephson Mural R,Dir,F - Tax,$51.02,-3704,13134,-22%,"-$188,978",0.0,-1.0,1.0,9.0,ARGO
+436,D,2015-03-18 19:28:06,2015-03-16,AGII,Josephson Mural R,Dir,M - OptEx,$31.23,6050,13134,+85%,"+$188,942",0.0,-1.0,1.0,9.0,ARGO
+437,D,2015-03-11 21:13:08,2015-02-25,AGII,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,779,10070,+8%,+$0,2.0,3.0,3.0,13.0,ARGO
+438,DM,2015-03-11 21:12:54,2015-02-25,AGII,Watson Mark E III,"Pres, CEO",A - Grant,$0.00,21892,457360,+5%,+$0,2.0,3.0,3.0,13.0,ARGO
+439,DM,2015-03-11 21:11:55,2015-02-25,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,4814,62057,+8%,+$0,2.0,3.0,3.0,13.0,ARGO
+440,D,2015-02-26 16:07:06,2015-02-24,AGII,Power John R Jr,Dir,M - OptEx,$34.35,5500,5894,>999%,"+$188,925",0.0,2.0,3.0,15.0,ARGO
+441,D,2015-02-26 16:07:06,2015-02-24,AGII,Power John R Jr,Dir,S - Sale+OE,$52.61,-5500,5894,-48%,"-$289,356",0.0,2.0,3.0,15.0,ARGO
+442,DM,2015-02-23 16:08:19,2015-02-19,AGII,Browne F Sedgwick,Dir,M - OptEx,$34.35,5500,7575,+265%,"+$188,925",0.0,1.0,6.0,23.0,ARGO
+443,DM,2015-02-23 16:08:19,2015-02-19,AGII,Browne F Sedgwick,Dir,S - Sale+OE,$52.73,-3588,7575,-32%,"-$189,210",0.0,1.0,6.0,23.0,ARGO
+444,M,2015-02-17 16:40:39,2013-12-24,AGII,Watson Mark E III,"Pres, CEO",G - Gift,$0.00,-9812,435468,+2%,-$0,0.0,-1.0,5.0,21.0,ARGO
+445,DM,2014-12-15 17:31:43,2014-12-11,AGII,Bullock Jay Stanley,CFO,M - OptEx,$34.78,8969,57243,+19%,"+$311,942",-1.0,-2.0,-2.0,12.0,ARGO
+446,DM,2014-12-15 17:31:43,2014-12-11,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$56.38,-8969,57243,-14%,"-$505,694",-1.0,-2.0,-2.0,12.0,ARGO
+447,D,2014-12-10 18:40:46,2014-12-08,AGII,Watson Mark E III,"Pres, CEO",D - Sale to issuer,$57.26,-6952,435468,-2%,"-$398,072",0.0,-5.0,-3.0,8.0,ARGO
+448,D,2014-12-10 18:40:46,2014-12-08,AGII,Watson Mark E III,"Pres, CEO",M - OptEx,$0.00,15562,435468,+4%,+$0,0.0,-5.0,-3.0,8.0,ARGO
+449,D,2014-12-10 18:40:46,2014-12-08,AGII,Watson Mark E III,"Pres, CEO",S - Sale+OE,$57.14,-8610,435468,-2%,"-$491,995",0.0,-5.0,-3.0,8.0,ARGO
+450,D,2014-12-04 16:47:40,2014-12-02,AGII,Cash Harvey B,Dir,F - Tax,$57.49,-3287,3347,-50%,"-$188,970",0.0,-2.0,-6.0,3.0,ARGO
+451,D,2014-12-04 16:47:40,2014-12-02,AGII,Cash Harvey B,Dir,M - OptEx,$34.35,5500,3347,-255%,"+$188,925",0.0,-2.0,-6.0,3.0,ARGO
+452,D,2014-12-04 16:47:40,2014-12-03,AGII,Cash Harvey B,Dir,S - Sale+OE,$57.52,-2213,3347,-40%,"-$127,293",0.0,-2.0,-6.0,3.0,ARGO
+453,D,2014-11-17 19:09:03,2014-11-13,AGII,Deleon Hector,Dir,F - Tax,$54.98,-3437,6966,-33%,"-$188,966",0.0,1.0,-2.0,10.0,ARGO
+454,D,2014-11-17 19:09:03,2014-11-13,AGII,Deleon Hector,Dir,M - OptEx,$34.35,5500,6966,+375%,"+$188,925",0.0,1.0,-2.0,10.0,ARGO
+455,D,2014-11-17 19:03:04,2014-11-13,AGII,Woods Gary V,Dir,F - Tax,$54.98,-3437,8701,-28%,"-$188,966",0.0,1.0,-2.0,10.0,ARGO
+456,D,2014-11-17 19:03:04,2014-11-13,AGII,Woods Gary V,Dir,M - OptEx,$34.35,5500,8701,+172%,"+$188,925",0.0,1.0,-2.0,10.0,ARGO
+457,,2014-10-03 17:29:32,2014-10-01,AGII,Schmidt Axel,Chief Underwriting Officer,A - Grant,$0.00,9291,9291,New,+$0,-1.0,-2.0,8.0,9.0,ARGO
+458,,2014-10-03 17:28:17,2014-10-01,AGII,Ribeiro Jose Antonio De Albuquerque Pedrosa,MD - Subsidiary,A - Grant,$0.00,4881,4881,New,+$0,-1.0,-2.0,8.0,9.0,ARGO
+459,DM,2014-09-04 17:52:30,2014-09-02,AGII,Bullock Jay Stanley,CFO,M - OptEx,$34.78,20000,57243,+54%,"+$695,600",-1.0,-1.0,-4.0,3.0,ARGO
+460,DM,2014-09-04 17:52:30,2014-09-02,AGII,Bullock Jay Stanley,CFO,S - Sale+OE,$53.00,-20000,57243,-26%,"-$1,060,000",-1.0,-1.0,-4.0,3.0,ARGO
+461,,2014-08-27 16:25:37,2014-08-25,AGII,Watson Mark E III,"Pres, CEO",S - Sale,$52.75,-10000,435468,-2%,"-$527,482",-1.0,-1.0,-3.0,0.0,ARGO
+462,,2014-06-17 16:40:13,2014-06-13,AGII,Carrier Andrew,Chief Underwriting Officer,S - Sale,$49.70,-5388,21221,-20%,"-$267,786",0.0,-2.0,1.0,9.0,ARGO
+463,D,2014-06-10 18:49:23,2014-06-05,AGII,Carrier Andrew,Chief Underwriting Officer,D - Sale to issuer,$49.57,-37628,26609,-59%,"-$1,865,220",0.0,1.0,4.0,16.0,ARGO
+464,D,2014-06-10 18:49:23,2014-06-05,AGII,Carrier Andrew,Chief Underwriting Officer,M - OptEx,$30.24,53901,26609,-197%,"+$1,629,735",0.0,1.0,4.0,16.0,ARGO
+465,D,2014-05-07 18:37:40,2014-05-06,AGII,El-Hage Nabil N.,Dir,A - Grant,$0.00,1558,1558,New,+$0,-1.0,3.0,9.0,22.0,ARGO
+466,D,2014-05-07 18:37:36,2014-05-06,AGII,Tonelli John H,Dir,A - Grant,$0.00,1558,1558,New,+$0,-1.0,3.0,9.0,22.0,ARGO
+467,D,2014-05-07 18:37:00,2014-05-06,AGII,Deleon Hector,Dir,A - Grant,$0.00,1558,4903,+47%,+$0,-1.0,3.0,9.0,22.0,ARGO
+468,D,2014-05-07 18:35:59,2014-05-06,AGII,Woods Gary V,Dir,A - Grant,$0.00,1558,6638,+31%,+$0,-1.0,3.0,9.0,22.0,ARGO
+469,D,2014-05-07 18:35:38,2014-05-06,AGII,Cash Harvey B,Dir,A - Grant,$0.00,1558,3347,+87%,+$0,-1.0,3.0,9.0,22.0,ARGO
+470,D,2014-05-07 18:33:56,2014-05-06,AGII,Nealon Kathleen,Dir,A - Grant,$0.00,1558,1558,New,+$0,-1.0,3.0,9.0,22.0,ARGO
+471,D,2014-05-07 18:33:14,2014-05-06,AGII,Josephson Mural R,Dir,A - Grant,$0.00,1558,9808,+19%,+$0,-1.0,3.0,9.0,22.0,ARGO
+472,D,2014-05-07 18:32:15,2014-05-06,AGII,Browne F Sedgwick,Dir,A - Grant,$0.00,1558,5663,+38%,+$0,-1.0,3.0,9.0,22.0,ARGO
+473,D,2014-05-07 18:29:02,2014-05-06,AGII,Power John R Jr,Dir,A - Grant,$0.00,1558,5894,+36%,+$0,-1.0,3.0,9.0,22.0,ARGO
+474,DM,2014-03-18 20:01:00,2014-03-14,AGII,Watson Mark E III,"Pres, CEO",A - Grant,$0.00,28377,445468,+7%,+$0,-1.0,-1.0,-1.0,15.0,ARGO
+475,DM,2014-03-18 19:50:04,2014-03-14,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,8213,57243,+17%,+$0,-1.0,-1.0,-1.0,15.0,ARGO
+476,,2013-12-13 17:00:41,2013-12-11,AGII,Watson Mark E III,"Pres, CEO",S - Sale,$47.62,-10000,417091,-2%,"-$476,230",-1.0,0.0,1.0,8.0,ARGO
+477,D,2013-11-25 20:10:28,2013-11-21,AGII,Carrier Andrew,Chief Underwriting Officer,D - Sale to issuer,$45.20,-17323,10336,-63%,"-$783,000",0.0,1.0,0.0,4.0,ARGO
+478,D,2013-11-25 20:10:28,2013-11-21,AGII,Carrier Andrew,Chief Underwriting Officer,F - Tax,$45.20,-41059,10336,-80%,"-$1,855,867",0.0,1.0,0.0,4.0,ARGO
+479,D,2013-11-25 20:10:28,2013-11-21,AGII,Carrier Andrew,Chief Underwriting Officer,M - OptEx,$35.55,62792,10336,-120%,"+$2,232,380",0.0,1.0,0.0,4.0,ARGO
+480,M,2013-09-18 16:48:57,2013-09-16,AGII,Watson Mark E III,"Pres , CEO",S - Sale,$42.55,-10000,427091,-2%,"-$425,464",0.0,-1.0,1.0,8.0,ARGO
+481,D,2013-09-10 20:54:58,2013-09-06,AGII,Carrier Andrew,Chief Underwriting Officer,D - Sale to issuer,$40.47,-29054,5926,-83%,"-$1,175,815",0.0,1.0,2.0,6.0,ARGO
+482,D,2013-09-10 20:54:58,2013-09-06,AGII,Carrier Andrew,Chief Underwriting Officer,M - OptEx,$26.26,29054,5926,-126%,"+$763,030",0.0,1.0,2.0,6.0,ARGO
+483,,2013-08-16 18:37:00,2013-08-15,AGII,Watson Mark E III,"Pres , CEO",S - Sale,$42.84,-5000,437091,-1%,"-$214,202",-1.0,1.0,-1.0,6.0,ARGO
+484,D,2013-08-16 18:36:02,2013-08-14,AGII,Carrier Andrew,Chief Underwriting Officer,D - Sale to issuer,$43.97,-30038,5926,-84%,"-$1,320,771",-1.0,1.0,-1.0,6.0,ARGO
+485,D,2013-08-16 18:36:02,2013-08-14,AGII,Carrier Andrew,Chief Underwriting Officer,M - OptEx,$27.21,30038,5926,-125%,"+$817,349",-1.0,1.0,-1.0,6.0,ARGO
+486,D,2013-08-14 20:18:31,2013-08-13,AGII,Watson Mark E III,"Pres , CEO",D - Sale to issuer,$44.02,-33347,442091,-7%,"-$1,467,935",-2.0,-2.0,-5.0,0.0,ARGO
+487,D,2013-08-14 20:18:31,2013-08-13,AGII,Watson Mark E III,"Pres , CEO",F - Tax,$44.02,-65919,442091,-13%,"-$2,901,754",-2.0,-2.0,-5.0,0.0,ARGO
+488,D,2013-08-14 20:18:31,2013-08-13,AGII,Watson Mark E III,"Pres , CEO",M - OptEx,$28.44,114730,442091,+35%,"+$3,262,689",-2.0,-2.0,-5.0,0.0,ARGO
+489,D,2013-08-14 20:18:31,2013-08-14,AGII,Watson Mark E III,"Pres , CEO",S - Sale+OE,$43.77,-15400,442091,-3%,"-$673,995",-2.0,-2.0,-5.0,0.0,ARGO
+490,D,2013-06-12 21:21:52,2013-06-10,AGII,Bufkin Barbara C,"EVP, Business Development",D - Sale to issuer,$40.81,-54336,39075,-58%,"-$2,217,452",3.0,7.0,10.0,21.0,ARGO
+491,D,2013-06-12 21:21:52,2013-06-10,AGII,Bufkin Barbara C,"EVP, Business Development",F - Tax,$40.81,-17443,39075,-31%,"-$711,849",3.0,7.0,10.0,21.0,ARGO
+492,D,2013-06-12 21:21:52,2013-06-10,AGII,Bufkin Barbara C,"EVP, Business Development",M - OptEx,$28.25,87502,39075,-181%,"+$2,472,062",3.0,7.0,10.0,21.0,ARGO
+493,D,2013-06-12 18:22:44,2013-06-10,AGII,Carrier Andrew,Chief Underwriting Officer,D - Sale to issuer,$40.81,-38905,5388,-88%,"-$1,587,713",3.0,7.0,10.0,21.0,ARGO
+494,D,2013-06-12 18:22:44,2013-06-10,AGII,Carrier Andrew,Chief Underwriting Officer,M - OptEx,$28.14,38905,5388,-116%,"+$1,094,787",3.0,7.0,10.0,21.0,ARGO
+495,D,2013-03-15 17:41:03,2013-03-15,AGII,Watson Mark E III,"Pres , CEO",A - Grant,$0.00,49266,401844,+14%,+$0,1.0,3.0,-2.0,15.0,ARGO
+496,D,2013-03-15 17:41:03,2013-03-13,AGII,Watson Mark E III,"Pres , CEO",F - Tax,$39.55,-60613,401844,-13%,"-$2,397,244",1.0,3.0,-2.0,15.0,ARGO
+497,D,2013-03-15 17:41:03,2013-03-13,AGII,Watson Mark E III,"Pres , CEO",M - OptEx,$35.35,64840,401844,+19%,"+$2,292,094",1.0,3.0,-2.0,15.0,ARGO
+498,D,2013-03-15 17:41:03,2013-03-15,AGII,Watson Mark E III,"Pres , CEO",S - Sale+OE,$40.10,-10000,401844,-2%,"-$401,040",1.0,3.0,-2.0,15.0,ARGO
+499,D,2013-03-15 17:38:50,2013-03-15,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,15094,49030,+44%,+$0,1.0,3.0,-2.0,15.0,ARGO
+500,,2013-03-05 16:41:16,2013-03-01,AGII,Rehnberg Kevin James,"Pres, U.S. Operations",A - Grant,$0.00,7218,7218,New,+$0,0.0,0.0,2.0,15.0,ARGO
+501,D,2013-02-20 17:32:40,2009-12-10,AGII,Josephson Mural R,Dir,D - Sale to issuer,$28.25,-1327,7500,-15%,"-$37,488",0.0,-1.0,9.0,22.0,ARGO
+502,D,2013-02-20 17:32:40,2009-12-10,AGII,Josephson Mural R,Dir,M - OptEx,$0.00,1327,7500,+21%,+$0,0.0,-1.0,9.0,22.0,ARGO
+503,D,2013-02-20 17:31:55,2009-12-10,AGII,Woods Gary V,Dir,D - Sale to issuer,$28.25,-3209,4591,-41%,"-$90,654",0.0,-1.0,9.0,22.0,ARGO
+504,D,2013-02-20 17:31:55,2009-12-10,AGII,Woods Gary V,Dir,M - OptEx,$0.00,3209,4591,+232%,+$0,0.0,-1.0,9.0,22.0,ARGO
+505,D,2013-02-20 17:29:54,2009-12-10,AGII,Power John R Jr,Dir,D - Sale to issuer,$28.25,-3065,3942,-44%,"-$86,586",0.0,-1.0,9.0,22.0,ARGO
+506,D,2013-02-20 17:29:54,2009-12-10,AGII,Power John R Jr,Dir,M - OptEx,$0.00,3065,3942,+349%,+$0,0.0,-1.0,9.0,22.0,ARGO
+507,D,2013-02-20 17:29:50,2009-12-10,AGII,Deleon Hector,Dir,D - Sale to issuer,$28.25,-3039,3041,-50%,"-$85,852",0.0,-1.0,9.0,22.0,ARGO
+508,D,2013-02-20 17:29:50,2009-12-10,AGII,Deleon Hector,Dir,M - OptEx,$0.00,3039,3041,>999%,+$0,0.0,-1.0,9.0,22.0,ARGO
+509,D,2013-02-20 17:28:01,2009-12-10,AGII,Browne F Sedgwick,Dir,D - Sale to issuer,$28.25,-1396,3732,-27%,"-$39,437",0.0,-1.0,9.0,22.0,ARGO
+510,D,2013-02-20 17:28:01,2009-12-10,AGII,Browne F Sedgwick,Dir,M - OptEx,$0.00,1396,3732,+60%,+$0,0.0,-1.0,9.0,22.0,ARGO
+511,DM,2012-12-17 17:13:46,2012-12-13,AGII,Bufkin Barbara C,EVP Business Development,M - OptEx,$27.11,12968,23352,+125%,"+$351,562",1.0,3.0,10.0,46.0,ARGO
+512,DM,2012-12-17 17:13:46,2012-12-13,AGII,Bufkin Barbara C,EVP Business Development,S - Sale+OE,$32.62,-12968,23352,-36%,"-$422,966",1.0,3.0,10.0,46.0,ARGO
+513,D,2012-03-13 16:01:36,2012-03-09,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,3774,33936,+13%,+$0,0.0,1.0,-3.0,7.0,ARGO
+514,D,2012-03-13 16:01:07,2012-03-09,AGII,Watson Mark E III,"Pres , CEO",A - Grant,$0.00,22792,354339,+7%,+$0,0.0,1.0,-3.0,7.0,ARGO
+515,,2011-05-19 18:42:48,2011-05-18,AGII,Browne F Sedgwick,Dir,P - Purchase,$29.70,1000,3732,+37%,"+$29,700",1.0,-3.0,1.0,1.0,ARGO
+516,,2011-03-11 18:58:08,2011-03-10,AGII,Bufkin Barbara C,EVP Business Development,A - Grant,$0.00,9615,23352,+70%,+$0,-1.0,-4.0,-5.0,-20.0,ARGO
+517,D,2011-02-23 16:51:03,2011-02-18,AGII,Watson Mark E III,"Pres , CEO",A - Grant,$0.00,34697,331547,+12%,+$0,-2.0,-2.0,-16.0,-28.0,ARGO
+518,DM,2010-11-24 17:23:35,2010-11-22,AGII,Bufkin Barbara C,SVP,M - OptEx,$25.00,12968,13737,>999%,"+$324,200",0.0,0.0,1.0,-24.0,ARGO
+519,DM,2010-11-24 17:23:35,2010-11-22,AGII,Bufkin Barbara C,SVP,S - Sale+OE,$37.01,-12968,13737,-49%,"-$479,969",0.0,0.0,1.0,-24.0,ARGO
+520,DM,2010-11-24 17:22:20,2010-11-22,AGII,Watson Mark E III,"Pres , CEO",M - OptEx,$27.76,26435,296850,+10%,"+$733,924",0.0,0.0,1.0,-24.0,ARGO
+521,DM,2010-11-24 17:22:20,2010-11-22,AGII,Watson Mark E III,"Pres , CEO",S - Sale+OE,$37.01,-26435,296850,-8%,"-$978,372",0.0,0.0,1.0,-24.0,ARGO
+522,AM,2010-11-24 17:20:54,2010-11-12,AGII,Bullock Jay Stanley,CFO,P - Purchase,$35.45,21128,30162,+234%,"+$748,928",0.0,0.0,1.0,-24.0,ARGO
+523,M,2010-11-16 18:53:17,2010-11-12,AGII,Bullock Jay Stanley,CFO,A - Grant,$35.45,21128,30162,+234%,"+$748,928",1.0,6.0,11.0,-14.0,ARGO
+524,A,2010-08-17 18:17:50,2010-08-13,AGII,Watson Mark E III,"Pres , CEO",F - Tax,$28.90,-4137,296850,-1%,"-$119,559",0.0,-2.0,11.0,23.0,ARGO
+525,D,2010-08-13 17:29:02,2010-08-13,AGII,Watson Mark E III,"Pres , CEO",M - OptEx,$25.00,15500,300987,+5%,"+$387,500",1.0,1.0,15.0,26.0,ARGO
+526,DM,2010-08-13 17:29:02,2010-08-11,AGII,Watson Mark E III,"Pres , CEO",P - Purchase,$29.22,54170,300987,+22%,"+$1,582,996",1.0,1.0,15.0,26.0,ARGO
+527,,2010-03-16 19:35:46,2010-03-12,AGII,Browne F Sedgwick,Dir,P - Purchase,$30.49,1000,2732,+58%,"+$30,493",3.0,4.0,9.0,7.0,ARGO
+528,,2009-06-03 17:24:38,2009-06-02,AGII,Bullock Jay Stanley,CFO,F - Tax,$29.50,-966,9252,-9%,"-$28,497",0.0,-1.0,-4.0,-3.0,ARGO
+529,,2009-05-28 19:00:35,2009-03-25,AGII,Bufkin Barbara C,SVP,D - Sale to issuer,$0.00,-356,13737,-3%,-$0,2.0,9.0,0.0,13.0,ARGO
+530,,2009-05-28 19:00:35,2009-03-25,AGII,Bufkin Barbara C,SVP,F - Tax,$29.41,-71,13737,-1%,"-$2,088",2.0,9.0,0.0,13.0,ARGO
+531,,2009-03-18 21:05:38,2009-03-16,AGII,Watson Mark E III,"Pres , CEO",P - Purchase,$28.99,17000,231317,+8%,"+$492,794",-1.0,7.0,10.0,33.0,ARGO
+532,,2008-08-26 16:29:17,2008-08-25,AGII,Browne F Sedgwick,Dir,S - Sale,$36.70,-317,1732,-15%,"-$11,634",1.0,3.0,2.0,-23.0,ARGO
+533,D,2008-05-15 17:37:56,2008-05-13,AGII,Bullock Jay Stanley,CFO,A - Grant,$0.00,10000,10000,New,+$0,-2.0,-1.0,-1.0,-17.0,ARGO
+534,D,2008-03-27 17:50:25,2008-03-25,AGII,Bufkin Barbara C,SVP,A - Grant,$0.00,1424,14164,+11%,+$0,0.0,6.0,2.0,12.0,ARGO
+535,D,2008-03-27 17:49:41,2008-03-25,AGII,Given Ronald B,"SVP, GC of Argonaut Grp,Inc.",A - Grant,$0.00,1525,1590,>999%,+$0,0.0,6.0,2.0,12.0,ARGO
+536,D,2008-02-12 18:28:57,2008-02-08,AGII,Cash Harvey B,Dir,M - OptEx,$0.00,893,1627,+122%,+$0,2.0,-3.0,-10.0,-6.0,ARGO
+537,D,2008-02-12 18:28:25,2008-02-08,AGII,Fulkerson Allan W,Dir,M - OptEx,$0.00,5318,11112,+92%,+$0,2.0,-3.0,-10.0,-6.0,ARGO
+538,D,2008-02-12 18:27:56,2008-02-08,AGII,Sarofim Fayez,Dir,M - OptEx,$0.00,893,990657,0%,+$0,2.0,-3.0,-10.0,-6.0,ARGO
+539,,2007-09-04 08:48:37,2007-08-30,AGIID,Byrnes Bruce J,Section 16 Offier,S - Sale,$40.73,-3998,0,-100%,"-$162,839",,,,,ARGO
+540,D,2007-08-09 21:01:50,2007-08-07,AGIID,Capital Z Financial Services Fund II LP,Former 10%owner.See footnote 7,A - Grant,$0.00,400,1130118,0%,+$0,,,,,ARGO
+541,D,2007-08-09 21:01:50,2007-08-07,AGIID,Capital Z Financial Services Fund II LP,Former 10%owner.See footnote 7,C - Converted deriv,$0.00,440523,1130118,-28%,$0,,,,,ARGO
+542,D,2007-08-09 21:01:50,2007-08-07,AGIID,Capital Z Financial Services Fund II LP,Former 10%owner.See footnote 7,P - Purchase,$0.00,507777,1130118,+82%,+$0,,,,,ARGO
+543,D,2007-08-09 21:01:50,2007-08-07,AGIID,Capital Z Financial Services Fund II LP,Former 10%owner.See footnote 7,S - Sale+OE,$0.00,-3169,1130118,0%,-$0,,,,,ARGO
+544,D,2007-08-09 19:20:00,2007-08-07,AGIID,"Rer Reinsurance Holdings, L.P.",Former10%owner.See footnote 4.,C - Converted deriv,$0.00,100904,263642,-28%,$0,,,,,ARGO
+545,D,2007-08-09 19:20:00,2007-08-07,AGIID,"Rer Reinsurance Holdings, L.P.",Former10%owner.See footnote 4.,P - Purchase,$0.00,162488,263642,+161%,+$0,,,,,ARGO
+546,D,2007-08-09 19:20:00,2007-08-07,AGIID,"Rer Reinsurance Holdings, L.P.",Former10%owner.See footnote 4.,S - Sale+OE,$0.00,-1014,263642,0%,-$0,,,,,ARGO
+547,,2007-08-09 19:19:44,2007-08-07,AGIID,Luscombe Wendy W,Dir,A - Grant,$0.00,200,1615,+14%,+$0,,,,,ARGO
+548,,2007-08-09 19:19:21,2007-08-07,AGIID,Byrnes Bruce J,Section 16 Officer,F - Tax,$41.00,-453,3998,-10%,"-$18,571",,,,,ARGO
+549,,2007-08-09 19:19:00,2007-08-07,AGIID,Browne F Sedgwick,Dir,A - Grant,$0.00,200,2050,+11%,+$0,,,,,ARGO
+550,D,2007-08-09 18:35:50,2007-08-07,AGIID,Reservoir Capital Group LLC,Dir,A - Grant,$0.00,200,610703,0%,+$0,,,,,ARGO
+551,D,2007-08-09 18:35:50,2007-08-07,AGIID,Reservoir Capital Group LLC,Dir,C - Converted deriv,$0.00,339902,610703,-36%,$0,,,,,ARGO
+552,D,2007-08-09 18:35:50,2007-08-07,AGIID,Reservoir Capital Group LLC,Dir,P - Purchase,$0.00,154566,610703,+34%,+$0,,,,,ARGO
+553,D,2007-08-09 18:35:50,2007-08-07,AGIID,Reservoir Capital Group LLC,Dir,S - Sale+OE,$0.00,-1588492,610703,-72%,-$0,,,,,ARGO
+554,D,2007-08-07 21:11:14,2007-08-07,AGIID,Vezzosi Gregory M,Section 16 Officer,A - Grant,$0.00,2306,2306,New,+$0,,,,,ARGO
+555,D,2007-08-07 21:10:47,2007-08-07,AGIID,Watson Mark E III,"Pres , CEO",A - Grant,$0.00,211918,211918,New,+$0,,,,,ARGO
+556,D,2007-08-07 21:10:23,2007-08-07,AGIID,Deleon Hector,Dir,A - Grant,$0.00,3041,3041,New,+$0,,,,,ARGO
+557,D,2007-08-07 21:09:55,2007-08-07,AGIID,Bufkin Barbara C,SVP,A - Grant,$0.00,12740,12740,New,+$0,,,,,ARGO
+558,D,2007-08-07 21:09:25,2007-08-07,AGIID,Woods Gary V,Dir,A - Grant,$0.00,4591,4591,New,+$0,,,,,ARGO
+559,D,2007-08-07 21:08:48,2007-08-07,AGIID,Maresh Frank W,Dir,A - Grant,$0.00,2270,2270,New,+$0,,,,,ARGO
+560,D,2007-08-07 21:08:22,2007-08-07,AGIID,Power John R Jr,Dir,A - Grant,$0.00,3942,3942,New,+$0,,,,,ARGO
+561,D,2007-08-07 21:07:56,2007-08-07,AGIID,Hartoch David,Dir,A - Grant,$0.00,1624,1624,New,+$0,,,,,ARGO
+562,D,2007-08-07 21:07:34,2007-08-07,AGIID,Fulkerson Allan W,Dir,A - Grant,$0.00,5794,5794,New,+$0,,,,,ARGO
+563,,2007-08-07 21:07:11,2007-08-07,AGIID,Sarofim Fayez,Dir,A - Grant,$0.00,713968,724241,>999%,+$0,,,,,ARGO
+564,D,2007-08-07 21:06:47,2007-08-07,AGIID,Cash Harvey B,Dir,A - Grant,$0.00,734,734,New,+$0,,,,,ARGO
+565,,2007-06-05 10:50:59,2007-06-04,PXT,Radke Jeffrey L,"Pres, CEO",S - Sale,$4.60,-78228,194816,-29%,"-$359,849",,,,,ARGO
+566,,2007-05-30 11:09:20,2007-05-30,PXT,Browne F Sedgwick,Dir,S - Sale,$4.70,-1500,18500,-8%,"-$7,050",,,,,ARGO
+567,,2007-05-29 10:31:50,2007-05-14,PXT,Radke Jeffrey L,"Pres, CEO",S - Sale,$4.80,-24605,273044,-8%,"-$118,185",,,,,ARGO
+568,,2007-05-22 11:40:39,2007-05-21,PXT,Browne F Sedgwick,Dir,S - Sale,$4.73,-6143,20000,-23%,"-$29,083",,,,,ARGO
+569,,2007-03-16 17:08:12,2007-03-15,PXT,Radke Jeffrey L,"Pres, CEO",A - Grant,$5.00,80080,297649,+37%,"+$400,000",,,,,ARGO
+570,A,2007-02-28 16:38:30,2007-02-24,PXT,Byrnes Bruce J,Section 16 Officer,F - Tax,$4.58,-1878,44514,-4%,"-$8,592",,,,,ARGO
+571,,2007-02-26 11:12:55,2007-02-24,PXT,Byrnes Bruce J,Section 16 Officer,F - Tax,$4.58,-1878,44514,-4%,"-$8,592",,,,,ARGO
+572,,2007-02-13 12:17:41,2007-02-11,PXT,Byrnes Bruce J,Section 16 Officer,F - Tax,$4.48,-3650,46392,-7%,"-$16,334",,,,,ARGO
+573,D,2006-06-02 17:31:20,2006-05-09,PXT,Reservoir Capital Group LLC,10%,A - Grant,$3.78,2500,160350,+2%,"+$9,450",,,,,ARGO
+574,D,2006-06-02 17:31:10,2006-05-09,PXT,Capital Z Financial Services Fund II LP,10%,A - Grant,$3.78,5000,17500,+40%,"+$18,900",,,,,ARGO
+575,D,2006-06-02 15:55:12,2006-05-09,PXT,Josephson Mural R,Dir,A - Grant,$3.78,2500,7500,+50%,"+$9,450",,,,,ARGO
+576,D,2006-06-02 15:53:30,2006-05-09,PXT,Luscombe Wendy W,Dir,A - Grant,$3.78,2500,14150,+21%,"+$9,450",,,,,ARGO
+577,D,2006-06-02 15:52:39,2006-05-09,PXT,McLoughlin Philip R,Dir,A - Grant,$3.78,2500,14167,+21%,"+$9,450",,,,,ARGO
+578,D,2006-06-02 15:51:56,2006-05-09,PXT,Radke Gerald L,Dir,A - Grant,$3.78,2500,15839,+19%,"+$9,450",,,,,ARGO
+579,D,2006-06-02 15:51:12,2006-05-09,PXT,Stavis Robert M,Dir,A - Grant,$3.78,2500,13723,+22%,"+$9,450",,,,,ARGO
+580,D,2006-06-02 15:48:23,2006-05-09,PXT,Browne F Sedgwick,Dir,A - Grant,$3.78,2500,26143,+11%,"+$9,450",,,,,ARGO
+581,,2006-03-20 08:14:00,2006-03-16,PXT,Radke Jeffrey L,"Pres, CEO",A - Grant,$3.33,146251,210573,+227%,"+$487,016",,,,,ARGO
+582,M,2006-02-27 11:02:51,2006-02-11,PXT,Byrnes Bruce J,Section 16 Officer,F - Tax,$9.29,-5708,50042,-10%,"-$53,005",,,,,ARGO
+583,,2006-01-05 17:29:02,2006-01-03,PXT,Stavis Robert M,Dir,A - Grant,$12.85,2723,11223,+32%,"+$34,999",,,,,ARGO
+584,D,2005-11-22 17:53:44,2005-11-18,PXT,Reservoir Capital Group LLC,Dir,C - Converted deriv,$13.34,1818181,3399020,-35%,"$24,254,535",,,,,ARGO
+585,,2005-10-17 18:15:10,2005-10-07,PXT,Capital Z Partners Ltd,10%,P - Purchase,"$1,000.00",20000,20000,New,"+$20,000,000",,,,,ARGO
+586,,2005-10-17 18:12:37,2005-10-07,PXT,Capital Z Partners LP,10%,P - Purchase,"$1,000.00",20000,20000,New,"+$20,000,000",,,,,ARGO
+587,,2005-10-17 18:09:56,2005-10-07,PXT,Capital Z Financial Services Fund II LP,10%,P - Purchase,"$1,000.00",18894,18894,New,"+$18,894,000",,,,,ARGO
+588,,2005-08-22 15:43:44,2005-08-19,PXT,Luscombe Wendy W,Dir,P - Purchase,$24.39,1000,11650,+9%,"+$24,388",,,,,ARGO
+589,,2005-08-18 14:45:25,2005-08-17,PXT,Radke Gerald L,Dir,D - Sale to issuer,$24.79,-3000,13339,-18%,"-$74,360",,,,,ARGO
+590,D,2005-05-16 16:16:37,2005-04-26,PXT,Capital Z Financial Services Fund II LP,10%,A - Grant,$23.74,5000,12500,+67%,"+$118,700",,,,,ARGO
+591,D,2005-05-16 16:11:06,2005-04-26,PXT,Reservoir Capital Group LLC,10%,A - Grant,$23.74,2500,157850,+2%,"+$59,350",,,,,ARGO
+592,D,2005-04-28 12:49:34,2005-04-26,PXT,McLoughlin Philip R,Dir,A - Grant,$23.74,2500,11667,+27%,"+$59,350",,,,,ARGO
+593,D,2005-04-28 12:48:15,2005-04-26,PXT,Luscombe Wendy W,Dir,A - Grant,$23.74,2500,10650,+31%,"+$59,350",,,,,ARGO
+594,D,2005-04-28 11:50:54,2005-04-26,PXT,Josephson Mural R,Dir,A - Grant,$23.74,2500,5000,+100%,"+$59,350",,,,,ARGO
+595,D,2005-04-27 15:29:45,2005-04-26,PXT,Stavis Robert M,Dir,A - Grant,$23.74,2500,8500,+42%,"+$59,350",,,,,ARGO
+596,D,2005-04-27 15:13:15,2005-04-26,PXT,Radke Gerald L,Dir,A - Grant,$23.74,2500,16339,+18%,"+$59,350",,,,,ARGO
+597,D,2005-04-27 14:50:20,2005-04-26,PXT,Browne F Sedgwick,Dir,A - Grant,$23.74,2500,23643,+12%,"+$59,350",,,,,ARGO
+598,D,2005-04-27 14:47:39,2005-04-26,PXT,Fiondella Robert W,Dir,A - Grant,$23.74,2500,13500,+23%,"+$59,350",,,,,ARGO
+599,,2005-03-01 14:35:13,2005-02-28,PXT,Hengesbaugh Guy D,COO,S - Sale,$25.59,-1865,48270,-4%,"-$47,724",,,,,ARGO
+600,,2005-03-01 14:25:05,2005-02-28,PXT,Radke Jeffrey L,"Pres, CEO",S - Sale,$25.59,-1795,62897,-3%,"-$45,933",,,,,ARGO
+601,,2005-02-28 15:11:42,2005-02-24,PXT,Modin John M,EVP,A - Grant,$25.44,7866,57418,+16%,"+$200,111",,,,,ARGO
+602,,2005-02-28 15:10:40,2005-02-24,PXT,Daly John T,EVP,A - Grant,$25.44,17610,39256,+81%,"+$447,998",,,,,ARGO
+603,,2005-02-28 15:09:23,2005-02-24,PXT,Hengesbaugh Guy D,COO,A - Grant,$25.44,20362,50135,+68%,"+$518,009",,,,,ARGO
+604,,2005-02-28 15:08:23,2005-02-24,PXT,Radke Jeffrey L,"Pres, CEO",A - Grant,$25.44,14124,64692,+28%,"+$359,315",,,,,ARGO
+605,,2005-02-28 15:07:00,2005-02-24,PXT,Byrnes Bruce J,EVP,A - Grant,$25.44,19261,55750,+53%,"+$490,000",,,,,ARGO
+606,,2005-02-14 17:06:47,2005-02-11,PXT,Modin John M,EVP,F - Tax,$26.35,-4913,49552,-9%,"-$129,458",,,,,ARGO
+607,,2005-02-14 16:51:45,2005-02-11,PXT,Byrnes Bruce J,EVP,F - Tax,$26.35,-2286,36499,-6%,"-$60,236",,,,,ARGO
+608,D,2004-12-13 17:46:02,2004-11-23,PXT,Reservoir Capital Group LLC,10%,C - Converted deriv,$0.00,780254,5658768,-12%,$0,,,,,ARGO
+609,D,2004-12-13 17:46:02,2004-11-23,PXT,Reservoir Capital Group LLC,10%,S - Sale+OE,$23.75,-780254,5658768,-12%,"-$18,531,033",,,,,ARGO
+610,D,2004-12-13 17:40:14,2004-11-23,PXT,Stavis Robert M,Dir,C - Converted deriv,$0.00,20752,170590,-11%,$0,,,,,ARGO
+611,D,2004-12-13 17:40:14,2004-11-23,PXT,Stavis Robert M,Dir,S - Sale+OE,$23.75,-20752,170590,-11%,"-$492,860",,,,,ARGO
+612,D,2004-08-23 11:11:19,2004-08-03,PXT,Josephson Mural R,Dir,A - Grant,$22.94,2500,2500,New,"+$57,350",,,,,ARGO
+613,,2004-08-19 09:39:28,2004-08-18,PXT,Radke Gerald L,Dir,S - Sale,$22.80,-18386,13839,-57%,"-$419,201",,,,,ARGO
+614,M,2004-08-17 10:44:44,2004-08-13,PXT,Radke Gerald L,Dir,S - Sale,$22.81,-5600,32225,-15%,"-$127,716",,,,,ARGO
+615,AM,2004-08-13 14:41:11,2004-08-09,PXT,Radke Gerald L,Dir,S - Sale,$23.22,-8500,37825,-18%,"-$197,375",,,,,ARGO
+616,,2004-08-11 13:22:01,2004-08-10,PXT,Radke Gerald L,Dir,S - Sale,$23.25,-7500,38825,-16%,"-$174,375",,,,,ARGO
+617,,2004-08-09 12:32:40,2004-08-05,PXT,Radke Gerald L,Dir,S - Sale,$22.93,-1000,46325,-2%,"-$22,928",,,,,ARGO
+618,,2004-06-14 11:59:38,2004-06-10,PXT,Byrnes Bruce J,"EVP, GC",F - Tax,$24.66,-4550,38785,-10%,"-$112,203",,,,,ARGO
+619,D,2004-05-14 13:24:40,2004-05-12,PXT,Radke Gerald L,Dir,S - Sale+OE,$23.15,-7200,47325,-13%,"-$166,680",,,,,ARGO
+620,M,2004-05-12 10:49:24,2004-05-10,PXT,Radke Gerald L,Dir,S - Sale,$23.62,-31800,54525,-37%,"-$750,959",,,,,ARGO
+621,,2004-05-11 14:01:08,2004-05-10,PXT,Hengesbaugh Guy D,COO,S - Sale,$24.25,-3838,28088,-12%,"-$93,072",,,,,ARGO
+622,D,2004-05-07 09:14:10,2004-05-05,PXT,Capital Z Financial Services Fund II LP,10%,A - Grant,$24.38,2500,7500,+50%,"+$60,950",,,,,ARGO
+623,DE,2004-05-06 15:54:01,2004-05-05,PXT,Browne F Sedgwick,Dir,A - Grant,$24.38,2500,21143,+13%,"+$60,950",,,,,ARGO
+624,D,2004-05-06 15:20:00,2004-05-05,PXT,Fiondella Robert W,Dir,A - Grant,$24.38,2500,11000,+29%,"+$60,950",,,,,ARGO
+625,D,2004-05-06 15:17:27,2004-05-05,PXT,McLoughlin Philip R,Dir,A - Grant,$24.38,2500,9167,+37%,"+$60,950",,,,,ARGO
+626,D,2004-05-06 14:19:38,2004-05-05,PXT,Reservoir Capital Group LLC,10%,A - Grant,$24.38,2500,155350,+2%,"+$60,950",,,,,ARGO
+627,D,2004-05-06 13:55:26,2004-05-05,PXT,Luscombe Wendy W,Dir,A - Grant,$24.38,2500,8150,+44%,"+$60,950",,,,,ARGO
+628,D,2004-05-06 13:42:12,2004-05-05,PXT,Haftl Franklin D,Dir,A - Grant,$24.38,2500,7635,+49%,"+$60,950",,,,,ARGO
+629,D,2004-05-06 13:07:00,2004-05-05,PXT,Stavis Robert M,Dir,A - Grant,$24.38,2500,6000,+71%,"+$60,950",,,,,ARGO
+630,D,2004-05-06 13:05:32,2004-05-05,PXT,Fleming Susan S,Dir,A - Grant,$24.38,2500,3500,+250%,"+$60,950",,,,,ARGO
+631,,2004-03-19 13:08:41,2004-03-18,PXT,Bleisnick Michael J,Retired - 3/18/04,F - Tax,$27.98,-3644,31782,-10%,"-$101,959",,,,,ARGO
+632,,2004-02-18 13:42:43,2004-02-16,PXT,Forsyth Gordon III,Retired - 2/16/04,F - Tax,$27.15,-3829,48920,-7%,"-$103,957",,,,,ARGO
+633,M,2004-02-13 14:22:45,2004-02-11,PXT,Forsyth Gordon III,Former Officer,F - Tax,$27.90,-1061,52749,-2%,"-$29,603",,,,,ARGO
+634,M,2004-02-13 13:54:55,2004-02-11,PXT,Bleisnick Michael J,EVP,F - Tax,$27.89,-1026,35426,-3%,"-$28,618",,,,,ARGO
+635,,2004-02-13 13:53:17,2004-02-11,PXT,Modin John M,"SVP, Chie",A - Grant,$28.08,49377,54465,+970%,"+$1,386,362",,,,,ARGO
+636,,2004-02-13 13:53:17,2004-02-11,PXT,Modin John M,"SVP, Chie",F - Tax,$28.12,-359,54465,-1%,"-$10,095",,,,,ARGO
+637,,2004-02-13 12:28:32,2004-02-11,PXT,Byrnes Bruce J,EVP,A - Grant,$28.01,19926,43335,+85%,"+$558,099",,,,,ARGO
+638,,2004-02-13 12:28:32,2004-02-11,PXT,Byrnes Bruce J,EVP,F - Tax,$28.12,-579,43335,-1%,"-$16,281",,,,,ARGO
+639,,2004-02-12 15:48:07,2004-02-11,PXT,Radke Jeffrey L,"Pres, CEO",A - Grant,$27.79,11698,68556,+21%,"+$325,095",,,,,ARGO
+640,,2004-02-12 15:45:58,2004-02-11,PXT,Hengesbaugh Guy D,EVP,A - Grant,$28.01,21133,31926,+196%,"+$591,905",,,,,ARGO
+641,,2004-02-09 16:25:22,2004-02-06,PXT,Forsyth Gordon III,EVP,F - Tax,$27.67,-412,53810,-1%,"-$11,400",,,,,ARGO
+642,,2004-02-09 15:50:23,2004-02-06,PXT,Bleisnick Michael J,EVP,F - Tax,$27.67,-412,36452,-1%,"-$11,400",,,,,ARGO

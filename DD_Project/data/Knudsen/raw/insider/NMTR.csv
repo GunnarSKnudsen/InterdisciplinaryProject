@@ -1,44 +1,80 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,A,2022-03-21 16:17:37,2020-08-20,NMTR,Constantino Michael T.,Dir,P - Purchase,$0.75,26509,26509,New,"+$20,001",,,,,NMTR
-1,,2022-03-07 08:01:55,2022-03-03,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.58,86450,1300530,+7%,"+$50,002",,,,,NMTR
-2,,2022-03-04 08:00:42,2022-03-03,NMTR,Temperato John,CEO,P - Purchase,$0.56,100000,1252522,+9%,"+$55,590",,,,,NMTR
-3,,2021-12-03 07:34:12,2021-12-02,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.89,50000,1264080,+4%,"+$44,500",,,,,NMTR
-4,,2021-11-22 07:30:08,2021-11-18,NMTR,Sirgo Mark A,Dir,P - Purchase,$1.06,20000,1214080,+2%,"+$21,200",,,,,NMTR
-5,,2021-11-19 07:31:22,2021-11-18,NMTR,Temperato John,CEO,P - Purchase,$1.05,50000,1152522,+5%,"+$52,500",,,,,NMTR
-6,,2021-09-15 08:12:38,2021-09-14,NMTR,Sitar Edward J,CFO,P - Purchase,$1.22,15000,194338,+8%,"+$18,300",,,,,NMTR
-7,,2021-09-08 08:15:52,2021-09-07,NMTR,Sirgo Mark A,Dir,P - Purchase,$1.36,73529,1194080,+7%,"+$99,999",,,,,NMTR
-8,,2021-08-26 08:18:16,2021-08-24,NMTR,Constantino Michael T.,Dir,P - Purchase,$1.14,18000,52108,+53%,"+$20,520",,,,,NMTR
-9,,2021-08-23 08:15:12,2021-08-20,NMTR,Sirgo Mark A,Dir,P - Purchase,$1.10,25000,1120551,+2%,"+$27,500",,,,,NMTR
-10,,2021-08-19 08:16:16,2021-08-18,NMTR,Temperato John,CEO,P - Purchase,$1.05,25000,1102522,+2%,"+$26,250",,,,,NMTR
-11,M,2021-06-25 19:08:22,2021-06-23,NMTR,Orbimed Israel Gp Ltd.,10%,S - Sale,$1.22,-17150781,8597918,-67%,"-$20,932,966",,,,,NMTR
+0,,2022-03-07 08:01:55,2022-03-03,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.58,86450,1300530,+7%,"+$50,002",,,,,NMTR
+1,,2022-03-04 08:00:42,2022-03-03,NMTR,Temperato John,CEO,P - Purchase,$0.56,100000,1252522,+9%,"+$55,590",,,,,NMTR
+2,,2021-12-03 07:34:12,2021-12-02,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.89,50000,1264080,+4%,"+$44,500",,,,,NMTR
+3,,2021-11-22 07:30:08,2021-11-18,NMTR,Sirgo Mark A,Dir,P - Purchase,$1.06,20000,1214080,+2%,"+$21,200",,,,,NMTR
+4,,2021-11-19 07:31:22,2021-11-18,NMTR,Temperato John,CEO,P - Purchase,$1.05,50000,1152522,+5%,"+$52,500",,,,,NMTR
+5,,2021-09-15 08:12:38,2021-09-14,NMTR,Sitar Edward J,CFO,P - Purchase,$1.22,15000,194338,+8%,"+$18,300",,,,,NMTR
+6,,2021-09-08 08:15:52,2021-09-07,NMTR,Sirgo Mark A,Dir,P - Purchase,$1.36,73529,1194080,+7%,"+$99,999",,,,,NMTR
+7,,2021-08-26 08:18:16,2021-08-24,NMTR,Constantino Michael T.,Dir,P - Purchase,$1.14,18000,52108,+53%,"+$20,520",,,,,NMTR
+8,,2021-08-23 08:15:12,2021-08-20,NMTR,Sirgo Mark A,Dir,P - Purchase,$1.10,25000,1120551,+2%,"+$27,500",,,,,NMTR
+9,,2021-08-19 08:16:16,2021-08-18,NMTR,Temperato John,CEO,P - Purchase,$1.05,25000,1102522,+2%,"+$26,250",,,,,NMTR
+10,M,2021-06-25 19:08:22,2021-06-23,NMTR,Orbimed Israel Gp Ltd.,10%,S - Sale,$1.22,-17150781,8597918,-67%,"-$20,932,966",,,,,NMTR
+11,D,2021-05-13 18:34:33,2021-05-11,NMTR,Orbimed Israel Gp Ltd.,10%,X - OptEx,$0.65,31944,51477954,0%,"$20,836",,,,,NMTR
 12,,2021-04-06 16:19:08,2021-04-05,NMTR,Sirgo Mark A,Dir,P - Purchase,$1.00,300000,1095551,+38%,"+$300,000",,,,,NMTR
 13,,2021-04-06 16:16:56,2021-04-05,NMTR,Temperato John,CEO,P - Purchase,$1.00,100000,1077522,+10%,"+$100,000",,,,,NMTR
 14,,2021-04-06 16:15:03,2021-04-05,NMTR,Sitar Edward J,CFO,P - Purchase,$1.00,50000,179338,+39%,"+$50,000",,,,,NMTR
-15,,2020-12-17 16:17:43,2020-12-15,NMTR,Temperato John,CEO,P - Purchase,$0.65,153846,977522,+19%,"+$100,000",,,,,NMTR
-16,,2020-12-17 16:17:23,2020-12-15,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.65,230769,795551,+41%,"+$150,000",,,,,NMTR
-17,,2020-12-17 16:17:01,2020-12-15,NMTR,Sitar Edward J,CFO,P - Purchase,$0.65,61538,129338,+91%,"+$40,000",,,,,NMTR
-18,M,2020-09-14 08:06:50,2020-09-10,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.65,148485,560269,+36%,"+$96,364",,,,,NMTR
-19,,2020-08-24 07:01:47,2020-08-21,NMTR,Temperato John,CEO,P - Purchase,$0.69,70000,615496,+13%,"+$48,300",,,,,NMTR
-20,,2020-08-21 16:20:14,2020-08-20,NMTR,Constantino Michael T.,Dir,P - Purchase,$0.75,34108,34108,New,"+$25,581",,,,,NMTR
-21,,2020-08-18 17:19:17,2020-08-17,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.56,100000,411784,+32%,"+$56,000",,,,,NMTR
-22,,2020-08-17 16:18:28,2020-08-17,NMTR,Temperato John,CEO,P - Purchase,$0.57,35000,545496,+7%,"+$19,831",,,,,NMTR
-23,,2020-06-16 16:05:30,2020-06-15,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.60,17943,57384,+45%,"+$10,721",,,,,NMTR
-24,,2020-06-15 16:56:41,2020-06-15,NMTR,Temperato John,CEO,P - Purchase,$0.60,10000,49441,+25%,"+$5,971",,,,,NMTR
-25,,2019-07-01 17:00:03,2019-06-28,INNT,Laumas Sandeep,"CEO, Exec COB",P - Purchase,$1.15,4000,776373,+1%,"+$4,600",,,,,NMTR
-26,,2019-06-17 20:03:28,2019-06-13,INNT,Laumas Sandeep,"CEO, Exec COB",P - Purchase,$1.22,1000,772373,0%,"+$1,216",,,,,NMTR
-27,,2019-06-03 08:00:48,2019-05-30,INNT,Madan Jay P.,Pres,P - Purchase,$1.32,5000,1030036,0%,"+$6,600",,,,,NMTR
-28,,2019-05-28 16:30:22,2019-05-24,INNT,Proujansky Roy,Dir,P - Purchase,$1.28,1000,2400,+71%,"+$1,280",,,,,NMTR
-29,,2019-05-23 08:44:57,2019-05-22,INNT,Laumas Sandeep,"CEO, Exec COB",P - Purchase,$1.38,5000,771373,+1%,"+$6,900",,,,,NMTR
-30,,2018-12-03 19:18:18,2018-11-30,INNT,Proujansky Roy,Dir,P - Purchase,$2.63,1400,1400,New,"+$3,682",,,,,NMTR
-31,,2018-12-03 19:16:55,2018-11-30,INNT,Laumas Sandeep,Exec COB,P - Purchase,$2.63,3000,766373,0%,"+$7,890",,,,,NMTR
-32,,2018-11-29 20:00:51,2018-11-29,INNT,Prior Christopher P.,CEO,P - Purchase,$2.75,5000,7009,+249%,"+$13,750",,,,,NMTR
-33,,2018-11-29 18:13:25,2018-11-29,INNT,Laumas Sandeep,Exec COB,P - Purchase,$2.56,3000,763373,0%,"+$7,670",,,,,NMTR
-34,,2018-09-14 18:58:46,2018-09-14,INNT,Prior Christopher P.,CEO,P - Purchase,$5.82,200,2009,+11%,"+$1,164",,,,,NMTR
-35,,2018-09-13 18:00:32,2018-09-12,INNT,Prior Christopher P.,CEO,P - Purchase,$6.13,500,1809,+38%,"+$3,065",,,,,NMTR
-36,,2018-09-10 17:49:20,2018-09-07,INNT,Laumas Sandeep,Exec COB,P - Purchase,$6.10,500,760373,0%,"+$3,050",,,,,NMTR
-37,,2018-08-30 20:41:41,2018-08-30,INNT,Laumas Sandeep,Exec COB,P - Purchase,$5.24,500,759123,0%,"+$2,620",,,,,NMTR
-38,,2018-08-30 20:39:46,2018-08-30,INNT,Prior Christopher P.,CEO,P - Purchase,$5.20,309,1309,+31%,"+$1,607",,,,,NMTR
-39,A,2018-08-30 20:38:25,2018-08-28,INNT,Laumas Sandeep,Exec COB,P - Purchase,$4.90,250,758623,0%,"+$1,225",,,,,NMTR
-40,,2018-08-28 18:19:16,2018-08-28,INNT,Prior Christopher P.,CEO,P - Purchase,$4.93,1000,1000,New,"+$4,930",,,,,NMTR
-41,,2018-08-28 18:17:58,2018-08-28,INNT,Laumas Sandeep,Exec COB,P - Purchase,$5.01,750,1000,+300%,"+$3,759",,,,,NMTR
-42,M,2018-08-28 16:33:09,2018-08-24,INNT,Almenoff June Sherie,"COO, Chief Medical Officer",P - Purchase,$4.92,1400,1400,New,"+$6,885",,,,,NMTR
+15,AD,2021-03-19 18:00:28,2020-04-30,NMTR,Orbimed Israel Gp Ltd.,10%,A - Grant,$0.00,18930255,18930255,New,+$0,,,,,NMTR
+16,,2020-12-17 16:17:43,2020-12-15,NMTR,Temperato John,CEO,P - Purchase,$0.65,153846,977522,+19%,"+$100,000",,,,,NMTR
+17,,2020-12-17 16:17:23,2020-12-15,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.65,230769,795551,+41%,"+$150,000",,,,,NMTR
+18,,2020-12-17 16:17:01,2020-12-15,NMTR,Sitar Edward J,CFO,P - Purchase,$0.65,61538,129338,+91%,"+$40,000",,,,,NMTR
+19,D,2020-12-01 16:10:43,2020-11-27,NMTR,Temperato John,CEO,A - Grant,$0.00,203667,823676,+33%,+$0,,,,,NMTR
+20,M,2020-09-14 08:06:50,2020-09-10,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.65,148485,560269,+36%,"+$96,364",,,,,NMTR
+21,,2020-08-24 07:01:47,2020-08-21,NMTR,Temperato John,CEO,P - Purchase,$0.69,70000,615496,+13%,"+$48,300",,,,,NMTR
+22,,2020-08-21 16:20:14,2020-08-20,NMTR,Constantino Michael T.,Dir,P - Purchase,$0.75,34108,34108,New,"+$25,581",,,,,NMTR
+23,,2020-08-18 17:19:17,2020-08-17,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.56,100000,411784,+32%,"+$56,000",,,,,NMTR
+24,,2020-08-17 16:18:28,2020-08-17,NMTR,Temperato John,CEO,P - Purchase,$0.57,35000,545496,+7%,"+$19,831",,,,,NMTR
+25,D,2020-07-02 16:28:04,2020-06-30,NMTR,Laumas Sandeep,Dir,C - Converted deriv,$0.00,42400,818773,-5%,$0,,,,,NMTR
+26,D,2020-07-02 16:26:30,2020-06-30,NMTR,Sitar Edward J,CFO,C - Converted deriv,$0.00,67800,67800,-50%,$0,,,,,NMTR
+27,D,2020-07-02 16:25:21,2020-06-30,NMTR,Orbimed Israel Gp Ltd.,"Dir, 10%",C - Converted deriv,$0.00,6786500,23773021,-22%,$0,,,,,NMTR
+28,D,2020-07-02 16:24:35,2020-06-30,NMTR,Darvish Nissim,"Dir, 10%",C - Converted deriv,$0.00,6786500,23773021,-22%,$0,,,,,NMTR
+29,D,2020-07-02 16:23:29,2020-06-30,NMTR,Sirgo Mark A,Dir,C - Converted deriv,$0.00,254400,311784,-45%,$0,,,,,NMTR
+30,D,2020-07-02 16:22:57,2020-06-30,NMTR,Johnson Lorin K,Dir,C - Converted deriv,$0.00,84800,84800,-50%,$0,,,,,NMTR
+31,D,2020-07-02 16:22:01,2020-06-30,NMTR,Temperato John,CEO,C - Converted deriv,$0.00,271400,510496,-35%,$0,,,,,NMTR
+32,,2020-07-01 16:39:17,2020-06-30,NMTR,Temperato John,CEO,A - Grant,$0.00,189655,239096,+384%,+$0,,,,,NMTR
+33,,2020-06-16 16:05:30,2020-06-15,NMTR,Sirgo Mark A,Dir,P - Purchase,$0.60,17943,57384,+45%,"+$10,721",,,,,NMTR
+34,,2020-06-15 16:56:41,2020-06-15,NMTR,Temperato John,CEO,P - Purchase,$0.60,10000,49441,+25%,"+$5,971",,,,,NMTR
+35,,2019-07-01 17:00:03,2019-06-28,INNT,Laumas Sandeep,"CEO, Exec COB",P - Purchase,$1.15,4000,776373,+1%,"+$4,600",,,,,NMTR
+36,,2019-06-17 20:03:28,2019-06-13,INNT,Laumas Sandeep,"CEO, Exec COB",P - Purchase,$1.22,1000,772373,0%,"+$1,216",,,,,NMTR
+37,,2019-06-03 08:00:48,2019-05-30,INNT,Madan Jay P.,Pres,P - Purchase,$1.32,5000,1030036,0%,"+$6,600",,,,,NMTR
+38,,2019-05-28 16:30:22,2019-05-24,INNT,Proujansky Roy,Dir,P - Purchase,$1.28,1000,2400,+71%,"+$1,280",,,,,NMTR
+39,,2019-05-23 08:44:57,2019-05-22,INNT,Laumas Sandeep,"CEO, Exec COB",P - Purchase,$1.38,5000,771373,+1%,"+$6,900",,,,,NMTR
+40,,2018-12-03 19:18:18,2018-11-30,INNT,Proujansky Roy,Dir,P - Purchase,$2.63,1400,1400,New,"+$3,682",,,,,NMTR
+41,,2018-12-03 19:16:55,2018-11-30,INNT,Laumas Sandeep,Exec COB,P - Purchase,$2.63,3000,766373,0%,"+$7,890",,,,,NMTR
+42,,2018-11-29 20:00:51,2018-11-29,INNT,Prior Christopher P.,CEO,P - Purchase,$2.75,5000,7009,+249%,"+$13,750",,,,,NMTR
+43,,2018-11-29 18:13:25,2018-11-29,INNT,Laumas Sandeep,Exec COB,P - Purchase,$2.56,3000,763373,0%,"+$7,670",,,,,NMTR
+44,,2018-09-14 18:58:46,2018-09-14,INNT,Prior Christopher P.,CEO,P - Purchase,$5.82,200,2009,+11%,"+$1,164",,,,,NMTR
+45,,2018-09-13 18:00:32,2018-09-12,INNT,Prior Christopher P.,CEO,P - Purchase,$6.13,500,1809,+38%,"+$3,065",,,,,NMTR
+46,,2018-09-10 17:49:20,2018-09-07,INNT,Laumas Sandeep,Exec COB,P - Purchase,$6.10,500,760373,0%,"+$3,050",,,,,NMTR
+47,,2018-08-30 20:41:41,2018-08-30,INNT,Laumas Sandeep,Exec COB,P - Purchase,$5.24,500,759123,0%,"+$2,620",,,,,NMTR
+48,,2018-08-30 20:39:46,2018-08-30,INNT,Prior Christopher P.,CEO,P - Purchase,$5.20,309,1309,+31%,"+$1,607",,,,,NMTR
+49,A,2018-08-30 20:38:25,2018-08-28,INNT,Laumas Sandeep,Exec COB,P - Purchase,$4.90,250,758623,0%,"+$1,225",,,,,NMTR
+50,,2018-08-28 18:19:16,2018-08-28,INNT,Prior Christopher P.,CEO,P - Purchase,$4.93,1000,1000,New,"+$4,930",,,,,NMTR
+51,,2018-08-28 18:17:58,2018-08-28,INNT,Laumas Sandeep,Exec COB,P - Purchase,$5.01,750,1000,+300%,"+$3,759",,,,,NMTR
+52,M,2018-08-28 16:33:09,2018-08-24,INNT,Almenoff June Sherie,"COO, Chief Medical Officer",P - Purchase,$4.92,1400,1400,New,"+$6,885",,,,,NMTR
+53,M,2018-03-13 22:00:09,2017-01-24,INNT,Clarke David H,"Former CEO, Dir",A - Grant,$0.00,364834,3136900,+13%,+$0,,,,,NMTR
+54,M,2018-03-13 22:00:09,2016-07-13,INNT,Clarke David H,"Former CEO, Dir",P - Purchase,$0.59,923573,3136900,+42%,"+$542,272",,,,,NMTR
+55,,2018-03-13 21:59:35,2018-01-25,INNT,Olert David Lewis,Former CFO,A - Grant,$0.00,10000,70000,+17%,+$0,,,,,NMTR
+56,,2018-03-13 21:59:09,2018-01-25,INNT,Clark Jonathan P,"Former Interim Pres, Dir",A - Grant,$0.00,10000,285000,+4%,+$0,,,,,NMTR
+57,,2017-11-21 19:40:31,2017-11-09,MSDI,Olert David Lewis,CFO,A - Grant,$0.00,10000,60000,+20%,+$0,,,,,NMTR
+58,,2017-11-21 19:38:31,2017-11-09,MSDI,Clark Jonathan P,Interim Pres,A - Grant,$0.00,25000,275000,+10%,+$0,,,,,NMTR
+59,,2017-11-21 19:37:54,2017-11-09,MSDI,Barre Steven C,Dir,A - Grant,$0.00,10000,50000,+25%,+$0,,,,,NMTR
+60,,2017-07-13 13:45:24,2017-05-08,MSDI,Olert David Lewis,CFO,A - Grant,$0.00,10000,50000,+25%,+$0,,,,,NMTR
+61,M,2017-07-13 13:36:47,2017-05-31,MSDI,Barre Steven C,Dir,A - Grant,$0.00,25000,40000,+167%,+$0,,,,,NMTR
+62,M,2017-07-13 13:34:49,2017-05-31,MSDI,Miner Christopher Michael,Dir,A - Grant,$0.00,20000,35000,+133%,+$0,,,,,NMTR
+63,M,2017-07-13 13:33:13,2017-05-31,MSDI,Machinist Robert,Dir,A - Grant,$0.00,20000,35000,+133%,+$0,,,,,NMTR
+64,,2017-01-27 13:41:15,2017-01-24,MSDI,Machinist Robert,Dir,A - Grant,$0.00,5000,15000,+50%,+$0,-10.0,-12.0,-33.0,,NMTR
+65,,2017-01-26 14:29:43,2017-01-24,MSDI,Miner Christopher Michael,Dir,A - Grant,$0.00,5000,15000,+50%,+$0,34.0,9.0,-9.0,,NMTR
+66,,2017-01-26 14:28:15,2017-01-24,MSDI,Clark Jonathan P,Interim Pres,A - Grant,$0.00,240000,250000,>999%,+$0,34.0,9.0,-9.0,,NMTR
+67,,2017-01-26 14:12:40,2017-01-24,MSDI,Barre Steven C,Dir,A - Grant,$0.00,5000,15000,+50%,+$0,34.0,9.0,-9.0,,NMTR
+68,,2017-01-25 20:16:03,2017-01-24,MSDI,Matejka Marc S,VP - Operations,A - Grant,$0.00,15000,40000,+60%,+$0,36.0,1.0,-8.0,,NMTR
+69,,2017-01-25 20:15:01,2017-01-24,MSDI,Olert David Lewis,CFO,A - Grant,$0.00,15000,40000,+60%,+$0,36.0,1.0,-8.0,,NMTR
+70,,2016-11-18 15:01:06,2016-11-16,MSDI,Barre Steven C,Dir,A - Grant,$0.00,10000,10000,New,+$0,-7.0,-13.0,-12.0,,NMTR
+71,,2016-07-27 14:25:01,2016-07-07,MSDI,Clark Jonathan P,Dir,A - Grant,$0.00,10000,10000,New,+$0,2.0,-6.0,-17.0,-53.0,NMTR
+72,D,2016-07-26 20:07:30,2016-07-07,MSDI,Olert David Lewis,CFO,A - Grant,$0.00,25000,25000,New,+$0,2.0,-2.0,-16.0,-54.0,NMTR
+73,D,2016-07-26 19:58:46,2016-07-07,MSDI,Tandon Jawahar,COB,A - Grant,$0.00,125000,125000,New,+$0,2.0,-2.0,-16.0,-54.0,NMTR
+74,D,2016-07-26 17:54:46,2016-07-07,MSDI,Tandon Vivek,EVP - Operations,A - Grant,$0.00,25000,25000,New,+$0,2.0,-2.0,-16.0,-54.0,NMTR
+75,,2016-07-20 16:02:43,2016-07-07,MSDI,Orban Jonathan S,Dir,A - Grant,$0.00,10000,10000,New,+$0,-2.0,-4.0,-22.0,-61.0,NMTR
+76,D,2016-07-19 15:28:32,2016-07-07,MSDI,Matejka Marc S,VP - Operations,A - Grant,$0.00,25000,25000,New,+$0,0.0,-3.0,-16.0,-62.0,NMTR
+77,,2016-07-13 18:12:12,2016-07-07,MSDI,Machinist Robert,Dir,A - Grant,$0.00,10000,10000,New,+$0,2.0,0.0,-6.0,-63.0,NMTR
+78,,2016-07-13 16:52:08,2016-07-07,MSDI,Miner Christopher Michael,Dir,A - Grant,$0.00,10000,10000,New,+$0,2.0,0.0,-6.0,-63.0,NMTR

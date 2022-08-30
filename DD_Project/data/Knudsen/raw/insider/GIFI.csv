@@ -1,23 +1,405 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,M,2021-05-19 15:30:42,2021-05-18,GIFI,Heo Richard W.,"Pres, CEO",P - Purchase,$4.48,20000,409998,+5%,"+$89,500",,,,,GIFI
-1,,2020-04-24 12:15:18,2020-04-22,GIFI,Richard C D,Dir,S - Sale,$2.94,-500,4125,-11%,"-$1,468",,,,,GIFI
-2,,2020-04-24 12:15:18,2020-04-22,GIFI,Richard C D,Dir,P - Purchase,$2.99,500,4125,+14%,"+$1,496",,,,,GIFI
-3,,2020-03-23 15:27:29,2020-03-23,GIFI,Burns Murray W.,Dir,P - Purchase,$3.56,2500,28280,+10%,"+$8,900",,,,,GIFI
-4,,2020-03-18 17:50:21,2020-03-17,GIFI,Richard C D,Dir,P - Purchase,$3.63,500,4125,+14%,"+$1,815",,,,,GIFI
-5,,2020-03-17 10:11:19,2020-03-12,GIFI,Richard C D,Dir,P - Purchase,$3.74,500,3625,+16%,"+$1,870",,,,,GIFI
-6,,2020-03-11 16:52:20,2020-03-11,GIFI,Richard C D,Dir,P - Purchase,$3.77,1000,3125,+47%,"+$3,770",,,,,GIFI
-7,M,2020-03-11 13:23:33,2020-03-09,GIFI,Heo Richard W.,"Pres, CEO",P - Purchase,$3.93,40000,339998,+13%,"+$157,300",,,,,GIFI
-8,,2020-03-11 13:10:14,2020-03-09,GIFI,Keeffe Michael J,Dir,P - Purchase,$4.02,500,15089,+3%,"+$2,010",,,,,GIFI
-9,,2020-03-11 12:37:58,2020-03-09,GIFI,Flick Michael A,Dir,P - Purchase,$3.80,200,15153,+1%,+$760,,,,,GIFI
-10,,2019-12-06 16:20:29,2019-12-05,GIFI,Piton Capital Partners LLC,10%,P - Purchase,$4.99,13532,1811894,+1%,"+$67,525",,,,,GIFI
-11,,2019-12-06 16:15:14,2019-12-05,GIFI,Averick Robert M,"Dir, 10%",P - Purchase,$4.99,13532,1811894,+1%,"+$67,525",,,,,GIFI
-12,,2019-11-27 16:22:45,2019-11-21,GIFI,Piton Capital Partners LLC,10%,P - Purchase,$4.52,249258,1798362,+16%,"+$1,126,646",,,,,GIFI
-13,,2019-11-26 09:44:31,2019-11-22,GIFI,Burns Murray W.,Dir,P - Purchase,$4.92,3000,25780,+13%,"+$14,759",,,,,GIFI
-14,M,2019-11-21 17:21:19,2019-11-19,GIFI,Averick Robert M,"Dir, 10%",P - Purchase,$4.52,298362,1798362,+20%,"+$1,347,291",,,,,GIFI
-15,,2019-11-20 11:34:34,2019-11-18,GIFI,Cotter Gregory J,Dir,P - Purchase,$4.49,5500,34355,+19%,"+$24,698",,,,,GIFI
-16,,2019-11-20 11:33:51,2019-11-19,GIFI,Richard C D,Dir,P - Purchase,$4.43,1000,2125,+89%,"+$4,427",,,,,GIFI
-17,M,2018-12-06 17:22:55,2018-12-03,GIFI,Laborde John Peter,Dir,S - Sale,$8.04,-7796,748639,-1%,"-$62,646",,,,,GIFI
-18,M,2018-11-30 18:07:51,2018-11-28,GIFI,Laborde John Peter,Dir,S - Sale,$8.04,-31244,756435,-4%,"-$251,105",,,,,GIFI
-19,,2018-11-27 20:06:54,2018-11-23,GIFI,Laborde John Peter,Dir,S - Sale,$8.00,-200,787679,0%,"-$1,600",,,,,GIFI
-20,M,2018-11-21 17:50:30,2018-11-19,GIFI,Laborde John Peter,Dir,S - Sale,$8.01,-4720,787879,-1%,"-$37,784",,,,,GIFI
-21,M,2018-11-19 17:15:22,2018-11-15,GIFI,Laborde John Peter,Dir,S - Sale,$8.02,-23108,792599,-3%,"-$185,251",,,,,GIFI
+0,,2022-03-11 16:42:27,2022-03-09,GIFI,Smouse Thomas M.,"VP, Chief HR Offi",F - Tax,$4.31,-2377,30247,-7%,"-$10,245",,,,,GIFI
+1,,2022-03-11 16:40:54,2022-03-09,GIFI,Morvant James L.,"SVP, Fabrication & Services",F - Tax,$4.31,-6442,60941,-10%,"-$27,765",,,,,GIFI
+2,,2021-05-28 16:52:40,2021-05-26,GIFI,Wallis Robert Allen,Chief Accounting Officer,A - Grant,$0.00,11250,38121,+42%,+$0,,,,,GIFI
+3,,2021-05-28 16:50:46,2021-05-26,GIFI,Smouse Thomas M.,"VP, Chief HR Offi",A - Grant,$0.00,15000,32624,+85%,+$0,,,,,GIFI
+4,,2021-05-28 16:48:28,2021-05-26,GIFI,Morvant James L.,"SVP, Fabrication & Services",A - Grant,$0.00,22500,67383,+50%,+$0,,,,,GIFI
+5,,2021-05-28 16:46:21,2021-05-26,GIFI,Heo Richard W.,"Pres, CEO",A - Grant,$0.00,150000,559998,+37%,+$0,,,,,GIFI
+6,,2021-05-28 16:46:05,2021-05-26,GIFI,Stockton Westley S.,"EVP, CFO, Sec, Treas",A - Grant,$0.00,75000,286314,+35%,+$0,,,,,GIFI
+7,M,2021-05-19 15:30:42,2021-05-18,GIFI,Heo Richard W.,"Pres, CEO",P - Purchase,$4.48,20000,409998,+5%,"+$89,500",,,,,GIFI
+8,A,2021-05-18 18:13:47,2021-05-13,GIFI,Stockton Westley S.,"EVP, CFO, Sec, Treas",A - Grant,$0.00,25000,211314,+13%,+$0,,,,,GIFI
+9,,2021-05-17 17:44:00,2021-05-13,GIFI,Stockton Westley S.,"EVP, CFO, Sec, Treas",A - Grant,$0.00,25000,216373,+13%,+$0,,,,,GIFI
+10,,2021-05-17 17:43:09,2021-05-13,GIFI,Heo Richard W.,"Pres, CEO",A - Grant,$0.00,50000,389998,+15%,+$0,,,,,GIFI
+11,,2021-03-11 16:01:01,2021-03-09,GIFI,Wallis Robert Allen,Chief Accounting Officer,F - Tax,$4.12,-2377,26871,-8%,"-$9,793",,,,,GIFI
+12,,2021-03-11 15:59:26,2021-03-09,GIFI,Vaccari Christian G,SVP of Shipyard,F - Tax,$4.12,-1276,91397,-1%,"-$5,257",,,,,GIFI
+13,,2021-03-11 15:34:21,2021-03-09,GIFI,Morvant James L.,"SVP, Fabrication & Services",F - Tax,$4.12,-6442,44883,-13%,"-$26,541",,,,,GIFI
+14,,2021-03-11 15:27:28,2021-03-09,GIFI,Smouse Thomas M.,"VP, Chief HR Offi",F - Tax,$4.12,-2377,17624,-12%,"-$9,793",,,,,GIFI
+15,,2021-02-23 19:40:06,2021-02-21,GIFI,Vaccari Christian G,SVP of Shipyard,F - Tax,$4.35,-552,92673,-1%,"-$2,401",,,,,GIFI
+16,,2021-02-23 19:37:56,2021-02-21,GIFI,Wallis Robert Allen,Chief Accounting Officer,F - Tax,$4.35,-1544,29248,-5%,"-$6,716",,,,,GIFI
+17,,2021-02-23 19:35:07,2021-02-21,GIFI,Morvant James L.,"SVP, Fabrication & Services",F - Tax,$4.35,-130,51325,0%,-$566,,,,,GIFI
+18,,2020-04-24 12:15:18,2020-04-22,GIFI,Richard C D,Dir,P - Purchase,$2.99,500,4125,+14%,"+$1,496",,,,,GIFI
+19,,2020-04-24 12:15:18,2020-04-22,GIFI,Richard C D,Dir,S - Sale,$2.94,-500,4125,-11%,"-$1,468",,,,,GIFI
+20,,2020-03-23 15:27:29,2020-03-23,GIFI,Burns Murray W.,Dir,P - Purchase,$3.56,2500,28280,+10%,"+$8,900",,,,,GIFI
+21,,2020-03-18 17:50:21,2020-03-17,GIFI,Richard C D,Dir,P - Purchase,$3.63,500,4125,+14%,"+$1,815",,,,,GIFI
+22,,2020-03-17 10:11:19,2020-03-12,GIFI,Richard C D,Dir,P - Purchase,$3.74,500,3625,+16%,"+$1,870",,,,,GIFI
+23,,2020-03-11 16:52:20,2020-03-11,GIFI,Richard C D,Dir,P - Purchase,$3.77,1000,3125,+47%,"+$3,770",,,,,GIFI
+24,,2020-03-11 14:06:25,2020-03-09,GIFI,Wallis Robert Allen,Chief Accounting Officer,A - Grant,$0.00,20001,30792,+185%,+$0,,,,,GIFI
+25,,2020-03-11 14:00:45,2020-03-09,GIFI,Smouse Thomas M.,"VP, Chief HR Offi",A - Grant,$0.00,20001,20001,New,+$0,,,,,GIFI
+26,,2020-03-11 13:56:32,2020-03-09,GIFI,Vaccari Christian G,SVP of Shipyard,A - Grant,$0.00,50001,93225,+116%,+$0,,,,,GIFI
+27,,2020-03-11 13:40:40,2020-03-09,GIFI,Morvant James L.,"SVP, Fabrication & Services",A - Grant,$0.00,50001,51455,>999%,+$0,,,,,GIFI
+28,,2020-03-11 13:36:24,2020-03-09,GIFI,Stockton Westley S.,"EVP, CFO, Sec, Treas",A - Grant,$0.00,100002,186314,+116%,+$0,,,,,GIFI
+29,,2020-03-11 13:23:33,2020-03-09,GIFI,Heo Richard W.,"Pres, CEO",A - Grant,$0.00,199998,339998,+143%,+$0,,,,,GIFI
+30,M,2020-03-11 13:23:33,2020-03-09,GIFI,Heo Richard W.,"Pres, CEO",P - Purchase,$3.93,40000,339998,+13%,"+$157,300",,,,,GIFI
+31,,2020-03-11 13:10:14,2020-03-09,GIFI,Keeffe Michael J,Dir,P - Purchase,$4.02,500,15089,+3%,"+$2,010",,,,,GIFI
+32,,2020-03-11 12:37:58,2020-03-09,GIFI,Flick Michael A,Dir,P - Purchase,$3.80,200,15153,+1%,+$760,,,,,GIFI
+33,M,2020-02-25 14:10:40,2020-02-21,GIFI,Wallis Robert Allen,Chief Accounting Officer,F - Tax,$4.80,-1664,10791,-13%,"-$7,987",,,,,GIFI
+34,M,2020-02-25 14:05:27,2020-02-21,GIFI,Vaccari Christian G,Executive VP of Subsidiary,F - Tax,$4.80,-5202,88861,-6%,"-$24,970",,,,,GIFI
+35,,2019-12-06 16:20:29,2019-12-05,GIFI,Piton Capital Partners LLC,10%,P - Purchase,$4.99,13532,1811894,+1%,"+$67,525",,,,,GIFI
+36,,2019-12-06 16:15:14,2019-12-05,GIFI,Averick Robert M,"Dir, 10%",P - Purchase,$4.99,13532,1811894,+1%,"+$67,525",,,,,GIFI
+37,,2019-11-27 16:22:45,2019-11-21,GIFI,Piton Capital Partners LLC,10%,P - Purchase,$4.52,249258,1798362,+16%,"+$1,126,646",,,,,GIFI
+38,,2019-11-26 09:44:31,2019-11-22,GIFI,Burns Murray W.,Dir,P - Purchase,$4.92,3000,25780,+13%,"+$14,759",,,,,GIFI
+39,M,2019-11-21 17:21:19,2019-11-19,GIFI,Averick Robert M,"Dir, 10%",P - Purchase,$4.52,298362,1798362,+20%,"+$1,347,291",,,,,GIFI
+40,,2019-11-20 11:34:34,2019-11-18,GIFI,Cotter Gregory J,Dir,P - Purchase,$4.49,5500,34355,+19%,"+$24,698",,,,,GIFI
+41,,2019-11-20 11:33:51,2019-11-19,GIFI,Richard C D,Dir,P - Purchase,$4.43,1000,2125,+89%,"+$4,427",,,,,GIFI
+42,,2019-11-18 17:13:02,2019-11-14,GIFI,Heo Richard W.,"Pres, CEO",A - Grant,$0.00,100000,100000,New,+$0,,,,,GIFI
+43,,2019-09-16 17:18:44,2019-09-12,GIFI,Stockton Westley S.,"EVP, CFO, Sec, Treas",F - Tax,$6.24,-5059,86312,-6%,"-$31,568",,,,,GIFI
+44,,2019-05-10 16:32:49,2019-05-08,GIFI,Stockton Westley S.,"EVP, CFO, Sec, Treas",A - Grant,$0.00,41371,91371,+83%,+$0,,,,,GIFI
+45,D,2019-05-07 16:03:06,2019-05-03,GIFI,Averick Robert M,Dir,D - Sale to issuer,$8.38,-1875,1500000,0%,"-$15,713",,,,,GIFI
+46,D,2019-05-07 16:03:06,2019-05-03,GIFI,Averick Robert M,Dir,M - OptEx,$0.00,1875,1500000,0%,+$0,,,,,GIFI
+47,D,2019-04-17 12:17:06,2019-04-15,GIFI,Richard C D,Dir,D - Sale to issuer,$8.77,-750,1125,-40%,"-$6,578",,,,,GIFI
+48,D,2019-04-17 12:17:06,2019-04-15,GIFI,Richard C D,Dir,M - OptEx,$0.00,1875,1125,-250%,+$0,,,,,GIFI
+49,AD,2019-03-11 16:20:34,2014-06-06,GIFI,Flick Michael A,Dir,D - Sale to issuer,$21.17,-1000,2500,-29%,"-$21,170",,,,,GIFI
+50,AD,2019-03-11 16:20:34,2014-06-06,GIFI,Flick Michael A,Dir,M - OptEx,$0.00,2000,2500,+400%,+$0,,,,,GIFI
+51,M,2019-02-27 20:08:12,2019-02-21,GIFI,Wallis Robert Allen,Chief Accounting Officer,F - Tax,$10.09,-1853,24970,-7%,"-$18,693",,,,,GIFI
+52,,2019-02-27 20:07:15,2019-02-25,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$10.21,-6165,304862,-2%,"-$62,945",,,,,GIFI
+53,,2019-02-27 20:06:28,2019-02-25,GIFI,Ladd Todd F.,COO,F - Tax,$10.21,-3083,147324,-2%,"-$31,477",,,,,GIFI
+54,M,2019-02-25 18:26:47,2019-02-21,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$10.11,-19676,311027,-6%,"-$198,882",,,,,GIFI
+55,M,2019-02-25 18:22:17,2019-02-21,GIFI,Ladd Todd F.,COO,F - Tax,$10.11,-9596,150407,-6%,"-$96,995",,,,,GIFI
+56,A,2018-12-19 13:05:44,2018-10-25,GIFI,Keeffe Michael J,Dir,D - Sale to issuer,$8.82,-3713,14589,-20%,"-$32,749",,,,,GIFI
+57,A,2018-12-19 13:00:02,2018-10-25,GIFI,Harding Christopher Mark,Dir,D - Sale to issuer,$8.82,-3713,22995,-14%,"-$32,749",,,,,GIFI
+58,A,2018-12-19 12:53:58,2018-10-25,GIFI,Flick Michael A,Dir,D - Sale to issuer,$8.82,-2970,16583,-15%,"-$26,195",,,,,GIFI
+59,A,2018-12-19 12:40:53,2018-10-25,GIFI,Burns Murray W.,Dir,D - Sale to issuer,$8.82,-2228,22780,-9%,"-$19,651",,,,,GIFI
+60,M,2018-12-06 17:22:55,2018-12-03,GIFI,Laborde John Peter,Dir,S - Sale,$8.04,-7796,748639,-1%,"-$62,646",,,,,GIFI
+61,M,2018-11-30 18:07:51,2018-11-28,GIFI,Laborde John Peter,Dir,S - Sale,$8.04,-31244,756435,-4%,"-$251,105",,,,,GIFI
+62,,2018-11-27 20:06:54,2018-11-23,GIFI,Laborde John Peter,Dir,S - Sale,$8.00,-200,787679,0%,"-$1,600",,,,,GIFI
+63,M,2018-11-21 17:50:30,2018-11-19,GIFI,Laborde John Peter,Dir,S - Sale,$8.01,-4720,787879,-1%,"-$37,784",,,,,GIFI
+64,M,2018-11-19 17:15:22,2018-11-15,GIFI,Laborde John Peter,Dir,S - Sale,$8.02,-23108,792599,-3%,"-$185,251",,,,,GIFI
+65,D,2018-10-29 16:13:36,2018-10-25,GIFI,Laborde John Peter,Dir,M - OptEx,$0.00,7426,35557,+26%,+$0,,,,,GIFI
+66,D,2018-10-29 16:13:07,2018-10-25,GIFI,Keeffe Michael J,Dir,D - Sale to issuer,$10.10,-3713,14589,-20%,"-$37,501",,,,,GIFI
+67,D,2018-10-29 16:13:07,2018-10-25,GIFI,Keeffe Michael J,Dir,M - OptEx,$0.00,7426,14589,+104%,+$0,,,,,GIFI
+68,D,2018-10-29 16:12:16,2018-10-25,GIFI,Harding Christopher Mark,Dir,D - Sale to issuer,$10.10,-3713,22995,-14%,"-$37,501",,,,,GIFI
+69,D,2018-10-29 16:12:16,2018-10-25,GIFI,Harding Christopher Mark,Dir,M - OptEx,$0.00,7426,22995,+48%,+$0,,,,,GIFI
+70,D,2018-10-29 16:11:51,2018-10-25,GIFI,Flick Michael A,Dir,D - Sale to issuer,$10.10,-2970,16583,-15%,"-$29,997",,,,,GIFI
+71,D,2018-10-29 16:11:51,2018-10-25,GIFI,Flick Michael A,Dir,M - OptEx,$0.00,7426,16583,+81%,+$0,,,,,GIFI
+72,D,2018-10-29 16:11:28,2018-10-25,GIFI,Cotter Gregory J,Dir,M - OptEx,$0.00,7426,28855,+35%,+$0,,,,,GIFI
+73,D,2018-10-29 16:10:54,2018-10-25,GIFI,Chiles William E,Dir,M - OptEx,$0.00,7426,21154,+54%,+$0,,,,,GIFI
+74,D,2018-10-29 16:10:27,2018-10-25,GIFI,Burns Murray W.,Dir,D - Sale to issuer,$10.10,-2228,22780,-9%,"-$22,503",,,,,GIFI
+75,D,2018-10-29 16:10:27,2018-10-25,GIFI,Burns Murray W.,Dir,M - OptEx,$0.00,7426,22780,+48%,+$0,,,,,GIFI
+76,,2018-09-13 15:51:32,2018-09-12,GIFI,Stockton Westley S.,"EVP, CFO, Sec, Treas",A - Grant,$0.00,50000,50000,New,+$0,,,,,GIFI
+77,A,2018-07-09 09:20:42,2018-07-01,GIFI,Ladd Todd F.,COO,F - Tax,$9.00,-1000,160003,-1%,"-$9,000",,,,,GIFI
+78,,2018-07-03 16:12:06,2018-07-01,GIFI,Ladd Todd F.,COO,F - Tax,$9.00,-1000,161003,-1%,"-$9,000",,,,,GIFI
+79,,2018-03-29 15:52:18,2018-03-29,GIFI,Ladd Todd F.,COO,P - Purchase,$7.20,5000,161003,+3%,"+$36,000",,,,,GIFI
+80,,2018-03-01 14:22:34,2018-03-01,GIFI,Schorlemer David Scott,CFO,P - Purchase,$8.39,1000,70692,+1%,"+$8,390",,,,,GIFI
+81,,2018-03-01 11:16:24,2018-03-01,GIFI,Meche Kirk J,"Pres, CEO",P - Purchase,$8.29,3600,330703,+1%,"+$29,850",,,,,GIFI
+82,,2018-02-27 18:36:57,2018-02-25,GIFI,Wallis Robert Allen,Chief Accounting Officer,F - Tax,$11.40,-60,14308,0%,-$684,,,,,GIFI
+83,,2018-02-27 18:36:19,2018-02-25,GIFI,Ladd Todd F.,COO,F - Tax,$11.40,-6041,315089,-2%,"-$68,867",,,,,GIFI
+84,,2018-02-27 18:35:33,2018-02-25,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$11.40,-10391,327103,-3%,"-$118,457",,,,,GIFI
+85,,2018-02-23 17:17:39,2018-02-21,GIFI,Wallis Robert Allen,Chief Accounting Officer,A - Grant,$0.00,12987,14368,+940%,+$0,,,,,GIFI
+86,,2018-02-23 17:17:39,2018-02-22,GIFI,Wallis Robert Allen,Chief Accounting Officer,F - Tax,$11.60,-119,14368,-1%,"-$1,380",,,,,GIFI
+87,,2018-02-23 17:16:53,2018-02-21,GIFI,Schorlemer David Scott,CFO,A - Grant,$0.00,43290,69692,+164%,+$0,,,,,GIFI
+88,,2018-02-23 17:16:53,2018-02-22,GIFI,Schorlemer David Scott,CFO,F - Tax,$11.60,-3561,69692,-5%,"-$41,308",,,,,GIFI
+89,,2018-02-23 17:16:26,2018-02-21,GIFI,Ladd Todd F.,COO,A - Grant,$0.00,43290,162044,+36%,+$0,,,,,GIFI
+90,,2018-02-23 17:16:26,2018-02-22,GIFI,Ladd Todd F.,COO,F - Tax,$11.60,-4451,162044,-3%,"-$51,632",,,,,GIFI
+91,,2018-02-23 17:15:55,2018-02-21,GIFI,Meche Kirk J,"Pres, CEO",A - Grant,$0.00,86580,337494,+35%,+$0,,,,,GIFI
+92,,2018-02-23 17:15:55,2018-02-22,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$11.60,-9127,337494,-3%,"-$105,873",,,,,GIFI
+93,,2017-12-08 14:54:41,2017-12-06,GIFI,Ladd Todd F.,COO,F - Tax,$12.50,-304,123205,0%,"-$3,800",,,,,GIFI
+94,D,2017-10-30 16:23:16,2017-10-26,GIFI,Laborde John Peter,Dir,M - OptEx,$0.00,7109,28131,+34%,+$0,,,,,GIFI
+95,D,2017-10-30 16:20:48,2017-10-26,GIFI,Keeffe Michael J,Dir,D - Sale to issuer,$12.35,-3554,10876,-25%,"-$43,892",,,,,GIFI
+96,D,2017-10-30 16:20:48,2017-10-26,GIFI,Keeffe Michael J,Dir,M - OptEx,$0.00,7109,10876,+189%,+$0,,,,,GIFI
+97,D,2017-10-30 16:19:32,2017-10-26,GIFI,Harding Christopher Mark,Dir,M - OptEx,$0.00,7109,19282,+58%,+$0,,,,,GIFI
+98,D,2017-10-30 16:17:24,2017-10-26,GIFI,Flick Michael A,Dir,D - Sale to issuer,$12.35,-3199,12127,-21%,"-$39,508",,,,,GIFI
+99,D,2017-10-30 16:17:24,2017-10-26,GIFI,Flick Michael A,Dir,M - OptEx,$0.00,7109,12127,+142%,+$0,,,,,GIFI
+100,D,2017-10-30 16:15:20,2017-10-26,GIFI,Dumas Jerry D Sr,Dir,M - OptEx,$0.00,7109,14300,+99%,+$0,,,,,GIFI
+101,D,2017-10-30 16:13:26,2017-10-26,GIFI,Cotter Gregory J,Dir,D - Sale to issuer,$12.35,-853,21429,-4%,"-$10,535",,,,,GIFI
+102,D,2017-10-30 16:13:26,2017-10-26,GIFI,Cotter Gregory J,Dir,M - OptEx,$0.00,7109,21429,+50%,+$0,,,,,GIFI
+103,D,2017-10-30 16:10:50,2017-10-26,GIFI,Chiles William E,Dir,D - Sale to issuer,$12.35,-3554,13728,-21%,"-$43,892",,,,,GIFI
+104,D,2017-10-30 16:10:50,2017-10-26,GIFI,Chiles William E,Dir,M - OptEx,$0.00,7109,13728,+107%,+$0,,,,,GIFI
+105,D,2017-10-30 16:08:31,2017-10-26,GIFI,Burns Murray W.,Dir,M - OptEx,$0.00,7109,17582,+68%,+$0,,,,,GIFI
+106,,2017-02-28 10:14:46,2017-02-25,GIFI,Ladd Todd F.,COO,F - Tax,$11.35,-6041,123509,-5%,"-$68,565",-5.0,-5.0,-12.0,,GIFI
+107,,2017-02-28 10:13:45,2017-02-25,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$11.35,-10391,260041,-4%,"-$117,938",-5.0,-5.0,-12.0,,GIFI
+108,,2017-02-24 17:41:42,2017-02-22,GIFI,Schorlemer David Scott,CFO,A - Grant,$0.00,29963,29963,New,+$0,6.0,3.0,-8.0,,GIFI
+109,,2017-02-24 17:40:34,2017-02-22,GIFI,Ladd Todd F.,COO,A - Grant,$0.00,62422,129550,+93%,+$0,6.0,3.0,-8.0,,GIFI
+110,,2017-02-24 17:40:34,2017-02-22,GIFI,Ladd Todd F.,COO,F - Tax,$13.35,-7579,129550,-6%,"-$101,180",6.0,3.0,-8.0,,GIFI
+111,,2017-02-24 17:38:50,2017-02-22,GIFI,Meche Kirk J,"Pres, CEO",A - Grant,$0.00,124844,270432,+86%,+$0,6.0,3.0,-8.0,,GIFI
+112,,2017-02-24 17:38:50,2017-02-22,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$13.35,-15157,270432,-5%,"-$202,346",6.0,3.0,-8.0,,GIFI
+113,D,2016-11-22 16:48:59,2016-11-18,GIFI,Laborde John Peter,Dir,M - OptEx,$0.00,6173,21022,+42%,+$0,-2.0,6.0,13.0,,GIFI
+114,D,2016-11-22 16:48:21,2016-11-18,GIFI,Keeffe Michael J,Dir,D - Sale to issuer,$10.50,-1852,7321,-20%,"-$19,446",-2.0,6.0,13.0,,GIFI
+115,D,2016-11-22 16:48:21,2016-11-18,GIFI,Keeffe Michael J,Dir,M - OptEx,$0.00,6173,7321,+538%,+$0,-2.0,6.0,13.0,,GIFI
+116,D,2016-11-22 16:47:40,2016-11-18,GIFI,Harding Christopher Mark,Dir,M - OptEx,$0.00,6173,12173,+103%,+$0,-2.0,6.0,13.0,,GIFI
+117,D,2016-11-22 16:47:01,2016-11-18,GIFI,Flick Michael A,Dir,D - Sale to issuer,$10.50,-3086,8217,-27%,"-$32,403",-2.0,6.0,13.0,,GIFI
+118,D,2016-11-22 16:47:01,2016-11-18,GIFI,Flick Michael A,Dir,M - OptEx,$0.00,6173,8217,+302%,+$0,-2.0,6.0,13.0,,GIFI
+119,D,2016-11-22 16:46:26,2016-11-18,GIFI,Dumas Jerry D Sr,Dir,D - Sale to issuer,$10.50,-2037,7191,-22%,"-$21,389",-2.0,6.0,13.0,,GIFI
+120,D,2016-11-22 16:46:26,2016-11-18,GIFI,Dumas Jerry D Sr,Dir,M - OptEx,$0.00,6173,7191,+606%,+$0,-2.0,6.0,13.0,,GIFI
+121,D,2016-11-22 16:45:45,2016-11-18,GIFI,Cotter Gregory J,Dir,M - OptEx,$0.00,6173,15173,+69%,+$0,-2.0,6.0,13.0,,GIFI
+122,D,2016-11-22 16:45:04,2016-11-18,GIFI,Chiles William E,Dir,M - OptEx,$0.00,6173,10173,+154%,+$0,-2.0,6.0,13.0,,GIFI
+123,D,2016-11-22 16:44:30,2016-11-18,GIFI,Burns Murray W.,Dir,M - OptEx,$0.00,6173,10473,+144%,+$0,-2.0,6.0,13.0,,GIFI
+124,,2016-09-20 15:46:50,2016-09-20,GIFI,Dumas Jerry D Sr,Dir,S - Sale,$8.64,-2000,3055,-40%,"-$17,282",2.0,5.0,18.0,27.0,GIFI
+125,,2016-05-16 17:17:28,2016-05-13,GIFI,Favret Jeff,CFO,F - Tax,$6.82,-243,57502,0%,"-$1,657",0.0,-1.0,1.0,51.0,GIFI
+126,,2016-03-30 17:46:56,2016-03-28,GIFI,Burns Murray W.,Dir,P - Purchase,$7.80,1000,4300,+30%,"+$7,800",0.0,-4.0,-5.0,15.0,GIFI
+127,,2016-03-02 17:21:31,2016-02-25,GIFI,Favret Jeff,CFO,F - Tax,$9.04,-2789,57745,-5%,"-$25,213",1.0,-3.0,-16.0,-3.0,GIFI
+128,,2016-03-02 17:20:31,2016-02-25,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$9.04,-4226,160745,-3%,"-$38,203",1.0,-3.0,-16.0,-3.0,GIFI
+129,,2016-02-26 14:12:34,2016-02-24,GIFI,Favret Jeff,CFO,A - Grant,$0.00,24375,60534,+67%,+$0,-4.0,4.0,-13.0,1.0,GIFI
+130,,2016-02-26 14:09:11,2016-02-24,GIFI,Ladd Todd F.,COO,A - Grant,$0.00,30469,74707,+69%,+$0,-4.0,4.0,-13.0,1.0,GIFI
+131,,2016-02-26 14:05:50,2016-02-24,GIFI,Meche Kirk J,"Pres, CEO",A - Grant,$0.00,60938,164971,+59%,+$0,-4.0,4.0,-13.0,1.0,GIFI
+132,D,2015-11-03 12:06:24,2015-10-23,GIFI,Laborde John Peter,Dir,D - Sale to issuer,$11.76,-1000,14849,-6%,"-$11,760",9.0,6.0,-6.0,-30.0,GIFI
+133,D,2015-11-03 12:06:24,2015-10-23,GIFI,Laborde John Peter,Dir,M - OptEx,$0.00,2000,14849,+16%,+$0,9.0,6.0,-6.0,-30.0,GIFI
+134,D,2015-10-27 18:30:25,2015-10-23,GIFI,Keeffe Michael J,Dir,D - Sale to issuer,$11.76,-1000,3000,-25%,"-$11,760",6.0,-5.0,-6.0,-31.0,GIFI
+135,D,2015-10-27 18:30:25,2015-10-23,GIFI,Keeffe Michael J,Dir,M - OptEx,$0.00,2000,3000,+200%,+$0,6.0,-5.0,-6.0,-31.0,GIFI
+136,D,2015-10-27 18:27:59,2015-10-23,GIFI,Flick Michael A,Dir,D - Sale to issuer,$11.76,-1000,5130,-16%,"-$11,760",6.0,-5.0,-6.0,-31.0,GIFI
+137,D,2015-10-27 18:27:59,2015-10-23,GIFI,Flick Michael A,Dir,M - OptEx,$0.00,2000,5130,+64%,+$0,6.0,-5.0,-6.0,-31.0,GIFI
+138,D,2015-10-27 18:26:33,2015-10-23,GIFI,Harding Christopher Mark,Dir,M - OptEx,$0.00,2000,6000,+50%,+$0,6.0,-5.0,-6.0,-31.0,GIFI
+139,D,2015-10-27 18:24:08,2015-10-23,GIFI,Dumas Jerry D Sr,Dir,D - Sale to issuer,$11.76,-1000,5056,-17%,"-$11,760",6.0,-5.0,-6.0,-31.0,GIFI
+140,D,2015-10-27 18:24:08,2015-10-23,GIFI,Dumas Jerry D Sr,Dir,M - OptEx,$0.00,2000,5056,+65%,+$0,6.0,-5.0,-6.0,-31.0,GIFI
+141,D,2015-10-27 18:23:05,2015-10-23,GIFI,Cotter Gregory J,Dir,M - OptEx,$0.00,2000,9000,+29%,+$0,6.0,-5.0,-6.0,-31.0,GIFI
+142,D,2015-10-27 18:21:15,2015-10-23,GIFI,Chiles William E,Dir,M - OptEx,$0.00,2000,4000,+100%,+$0,6.0,-5.0,-6.0,-31.0,GIFI
+143,D,2015-10-27 18:16:06,2015-10-23,GIFI,Burns Murray W.,Dir,M - OptEx,$0.00,2000,3300,+154%,+$0,6.0,-5.0,-6.0,-31.0,GIFI
+144,,2015-06-23 18:33:44,2015-05-13,GIFI,Favret Jeff,CFO,F - Tax,$13.07,-243,36159,-1%,"-$3,176",0.0,8.0,-5.0,3.0,GIFI
+145,,2015-03-03 18:38:35,2015-02-25,GIFI,Favret Jeff,CFO,A - Grant,$0.00,28402,36402,+355%,+$0,1.0,-4.0,5.0,-10.0,GIFI
+146,,2015-03-03 18:34:06,2015-02-25,GIFI,Ladd Todd F.,COO,A - Grant,$0.00,29238,44238,+195%,+$0,1.0,-4.0,5.0,-10.0,GIFI
+147,,2015-03-03 18:28:53,2015-02-25,GIFI,Meche Kirk J,"Pres, CEO",A - Grant,$0.00,41768,104033,+67%,+$0,1.0,-4.0,5.0,-10.0,GIFI
+148,,2014-12-09 15:29:20,2014-12-07,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$21.06,-413,62265,-1%,"-$8,698",6.0,-2.0,-7.0,-44.0,GIFI
+149,,2014-12-08 16:24:41,2014-12-06,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$21.06,-607,62678,-1%,"-$12,783",6.0,-2.0,-6.0,-42.0,GIFI
+150,,2014-12-05 13:31:09,2014-12-04,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$21.04,-207,63285,0%,"-$4,355",0.0,-10.0,-14.0,-49.0,GIFI
+151,,2014-12-03 16:54:53,2014-12-01,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$19.12,-207,63492,0%,"-$3,958",2.0,-3.0,-3.0,-50.0,GIFI
+152,,2014-12-03 16:41:59,2014-11-30,GIFI,Meche Kirk J,"Pres, CEO",F - Tax,$19.51,-413,63699,-1%,"-$8,058",2.0,-3.0,-3.0,-50.0,GIFI
+153,D,2014-10-28 16:22:23,2014-10-24,GIFI,Chiles William E,Dir,M - OptEx,$0.00,2000,2000,New,+$0,2.0,7.0,12.0,-32.0,GIFI
+154,D,2014-10-28 16:21:58,2014-10-24,GIFI,Keeffe Michael J,Dir,M - OptEx,$0.00,2000,2000,New,+$0,2.0,7.0,12.0,-32.0,GIFI
+155,D,2014-10-28 16:21:13,2014-10-24,GIFI,Burns Murray W.,Dir,D - Sale to issuer,$18.51,-700,1300,-35%,"-$12,957",2.0,7.0,12.0,-32.0,GIFI
+156,D,2014-10-28 16:21:13,2014-10-24,GIFI,Burns Murray W.,Dir,M - OptEx,$0.00,2000,1300,-286%,+$0,2.0,7.0,12.0,-32.0,GIFI
+157,D,2014-06-25 15:51:53,2014-06-06,GIFI,Laborde John Peter,Dir,D - Sale to issuer,$21.17,-1000,13849,-7%,"-$21,170",1.0,5.0,-1.0,-4.0,GIFI
+158,D,2014-06-25 15:51:53,2014-06-06,GIFI,Laborde John Peter,Dir,M - OptEx,$0.00,2000,13849,+17%,+$0,1.0,5.0,-1.0,-4.0,GIFI
+159,D,2014-06-25 15:50:13,2014-06-06,GIFI,Laborde John Peter,Dir,D - Sale to issuer,$21.17,-1000,13849,-7%,"-$21,170",1.0,5.0,-1.0,-4.0,GIFI
+160,D,2014-06-25 15:50:13,2014-06-06,GIFI,Laborde John Peter,Dir,M - OptEx,$0.00,2000,13849,+17%,+$0,1.0,5.0,-1.0,-4.0,GIFI
+161,D,2014-06-25 15:45:48,2014-06-06,GIFI,Cotter Gregory J,Dir,D - Sale to issuer,$21.17,-1000,7000,-13%,"-$21,170",1.0,5.0,-1.0,-4.0,GIFI
+162,D,2014-06-25 15:45:48,2014-06-06,GIFI,Cotter Gregory J,Dir,M - OptEx,$0.00,2000,7000,+40%,+$0,1.0,5.0,-1.0,-4.0,GIFI
+163,D,2014-06-25 15:45:28,2014-06-06,GIFI,Harding Christopher Mark,Dir,M - OptEx,$0.00,2000,4000,+100%,+$0,1.0,5.0,-1.0,-4.0,GIFI
+164,D,2014-06-25 15:45:07,2014-06-06,GIFI,Flick Michael A,Dir,D - Sale to issuer,$21.17,-1000,4130,-19%,"-$21,170",1.0,5.0,-1.0,-4.0,GIFI
+165,D,2014-06-25 15:45:07,2014-06-06,GIFI,Flick Michael A,Dir,M - OptEx,$0.00,2000,4130,+94%,+$0,1.0,5.0,-1.0,-4.0,GIFI
+166,D,2014-06-25 15:44:25,2014-06-06,GIFI,Dumas Jerry D Sr,Dir,D - Sale to issuer,$21.17,-1000,4056,-20%,"-$21,170",1.0,5.0,-1.0,-4.0,GIFI
+167,D,2014-06-25 15:44:25,2014-06-06,GIFI,Dumas Jerry D Sr,Dir,M - OptEx,$0.00,2000,4056,+97%,+$0,1.0,5.0,-1.0,-4.0,GIFI
+168,,2014-05-08 16:06:32,2014-05-07,GIFI,Ladd Todd F.,COO,P - Purchase,$19.00,5000,15000,+50%,"+$95,000",7.0,1.0,14.0,15.0,GIFI
+169,,2014-05-01 16:47:35,2014-05-01,GIFI,Meche Kirk J,"Pres, CEO",P - Purchase,$20.06,1500,64112,+2%,"+$30,090",0.0,0.0,2.0,3.0,GIFI
+170,,2013-12-10 15:37:32,2013-12-06,GIFI,Meche Kirk J,"Pres, CEO",A - Grant,$0.00,10000,62612,+19%,+$0,-2.0,0.0,1.0,-7.0,GIFI
+171,,2013-12-10 15:36:50,2013-12-06,GIFI,Favret Jeff,CFO,A - Grant,$0.00,4000,8000,+100%,+$0,-2.0,0.0,1.0,-7.0,GIFI
+172,,2013-12-10 15:36:35,2013-12-06,GIFI,Ladd Todd F.,"VP Operations, GM",A - Grant,$0.00,5000,10000,+100%,+$0,-2.0,0.0,1.0,-7.0,GIFI
+173,,2013-12-09 09:58:06,2013-12-07,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$23.74,-260,16398,-2%,"-$6,172",-3.0,-5.0,-1.0,-9.0,GIFI
+174,,2013-12-05 16:35:07,2013-12-04,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$23.62,-130,16658,-1%,"-$3,071",2.0,-5.0,-4.0,-8.0,GIFI
+175,,2013-12-04 14:53:55,2013-12-03,GIFI,Flick Michael A,Dir,S - Sale,$23.92,-500,1500,-25%,"-$11,960",-2.0,-6.0,-7.0,-13.0,GIFI
+176,M,2013-12-03 15:34:14,2013-11-30,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$26.46,-390,16788,-2%,"-$10,319",-2.0,-6.0,-10.0,-24.0,GIFI
+177,,2013-07-03 12:40:08,2013-07-01,GIFI,Ladd Todd F.,"VP Operations, GM",A - Grant,$0.00,5000,5000,New,+$0,0.0,8.0,23.0,17.0,GIFI
+178,,2013-05-15 11:09:20,2013-05-13,GIFI,Favret Jeff,CFO,A - Grant,$0.00,4000,4000,New,+$0,-1.0,0.0,2.0,30.0,GIFI
+179,,2013-05-03 13:35:38,2013-05-02,GIFI,Meche Kirk J,"Pres, CEO",P - Purchase,$20.14,500,52612,+1%,"+$10,070",1.0,3.0,6.0,24.0,GIFI
+180,,2013-04-30 17:15:16,2013-04-25,GIFI,Cotter Gregory J,Dir,A - Grant,$0.00,1000,6000,+20%,+$0,-4.0,-1.0,4.0,28.0,GIFI
+181,,2013-04-30 17:14:58,2013-04-25,GIFI,Dumas Jerry D Sr,Dir,A - Grant,$0.00,1000,3036,+49%,+$0,-4.0,-1.0,4.0,28.0,GIFI
+182,,2013-04-30 17:14:33,2013-04-25,GIFI,Flick Michael A,Dir,A - Grant,$0.00,1000,2000,+100%,+$0,-4.0,-1.0,4.0,28.0,GIFI
+183,,2013-04-30 17:14:15,2013-04-25,GIFI,Harding Christopher Mark,Dir,A - Grant,$0.00,1000,2000,+100%,+$0,-4.0,-1.0,4.0,28.0,GIFI
+184,,2013-04-30 17:13:57,2013-04-25,GIFI,Laborde John Peter,Dir,A - Grant,$0.00,1000,12849,+8%,+$0,-4.0,-1.0,4.0,28.0,GIFI
+185,,2013-04-30 17:13:41,2013-04-25,GIFI,Tamblyn Ken,Dir,A - Grant,$0.00,1000,1000,New,+$0,-4.0,-1.0,4.0,28.0,GIFI
+186,,2013-04-01 13:19:40,2013-03-28,GIFI,Harding Christopher Mark,Dir,P - Purchase,$21.44,1000,1000,New,"+$21,440",-1.0,-6.0,-4.0,18.0,GIFI
+187,,2013-03-07 17:09:23,2013-03-01,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",F - Tax,$22.99,-143,15320,-1%,"-$3,288",-1.0,-4.0,-13.0,0.0,GIFI
+188,,2013-01-02 15:27:52,2012-12-28,GIFI,Chauvin Kerry J,"Former COB, CEO",F - Tax,$22.96,-7057,159201,-4%,"-$162,029",4.0,-3.0,-3.0,-16.0,GIFI
+189,,2013-01-02 15:25:51,2013-01-01,GIFI,Meche Kirk J,"CEO, Pres",A - Grant,$0.00,3200,52112,+7%,+$0,4.0,-3.0,-3.0,-16.0,GIFI
+190,D,2012-12-19 16:08:46,2012-12-18,GIFI,Chauvin Kerry J,"COB, CEO",F - Tax,$25.31,-33933,166258,-17%,"-$858,844",0.0,-7.0,-3.0,-14.0,GIFI
+191,D,2012-12-19 16:08:46,2012-12-18,GIFI,Chauvin Kerry J,"COB, CEO",M - OptEx,$19.27,40000,166258,+32%,"+$770,800",0.0,-7.0,-3.0,-14.0,GIFI
+192,,2012-12-10 16:54:49,2012-12-07,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",A - Grant,$0.00,4000,15463,+35%,+$0,4.0,-2.0,1.0,-12.0,GIFI
+193,,2012-12-10 16:35:43,2012-12-07,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",A - Grant,$0.00,4000,17178,+30%,+$0,4.0,-2.0,1.0,-12.0,GIFI
+194,,2012-12-10 16:35:43,2012-12-07,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$23.32,-130,17178,-1%,"-$3,032",4.0,-2.0,1.0,-12.0,GIFI
+195,,2012-12-10 16:33:28,2012-12-07,GIFI,Breerwood Roy F. III,C.F.O.,A - Grant,$0.00,4000,8980,+80%,+$0,4.0,-2.0,1.0,-12.0,GIFI
+196,,2012-12-10 16:33:28,2012-12-07,GIFI,Breerwood Roy F. III,C.F.O.,F - Tax,$23.32,-65,8980,-1%,"-$1,516",4.0,-2.0,1.0,-12.0,GIFI
+197,,2012-12-10 16:33:11,2012-12-07,GIFI,Meche Kirk J,"Pres, COO",A - Grant,$0.00,6800,48912,+16%,+$0,4.0,-2.0,1.0,-12.0,GIFI
+198,,2012-12-10 16:33:11,2012-12-07,GIFI,Meche Kirk J,"Pres, COO",F - Tax,$23.32,-218,48912,0%,"-$5,084",4.0,-2.0,1.0,-12.0,GIFI
+199,,2012-12-10 16:32:56,2012-12-07,GIFI,Chauvin Kerry J,"COB, CEO",F - Tax,$23.32,-489,160191,0%,"-$11,403",4.0,-2.0,1.0,-12.0,GIFI
+200,,2012-12-05 14:41:22,2012-12-04,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",F - Tax,$23.07,-118,11463,-1%,"-$2,722",1.0,6.0,5.0,-9.0,GIFI
+201,,2012-12-05 14:40:52,2012-12-04,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$23.07,-130,13308,-1%,"-$2,999",1.0,6.0,5.0,-9.0,GIFI
+202,,2012-12-05 14:40:36,2012-12-04,GIFI,Breerwood Roy F. III,C.F.O.,F - Tax,$23.07,-65,5045,-1%,"-$1,500",1.0,6.0,5.0,-9.0,GIFI
+203,,2012-12-05 14:39:47,2012-12-04,GIFI,Meche Kirk J,"Pres, COO",F - Tax,$23.07,-221,42330,-1%,"-$5,098",1.0,6.0,5.0,-9.0,GIFI
+204,,2012-12-05 14:39:26,2012-12-04,GIFI,Chauvin Kerry J,"COB, CEO",F - Tax,$23.07,-489,160680,0%,"-$11,281",1.0,6.0,5.0,-9.0,GIFI
+205,M,2012-12-04 09:30:15,2012-11-30,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",F - Tax,$23.27,-354,11581,-3%,"-$8,238",0.0,2.0,5.0,-10.0,GIFI
+206,M,2012-12-04 09:25:33,2012-11-30,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$23.27,-390,13438,-3%,"-$9,075",0.0,2.0,5.0,-10.0,GIFI
+207,M,2012-12-04 09:19:45,2012-11-30,GIFI,Breerwood Roy F. III,C.F.O.,F - Tax,$23.27,-130,5110,-2%,"-$3,025",0.0,2.0,5.0,-10.0,GIFI
+208,M,2012-12-04 09:04:57,2012-11-30,GIFI,Meche Kirk J,"Pres, COO",F - Tax,$23.27,-663,42551,-2%,"-$15,428",0.0,2.0,5.0,-10.0,GIFI
+209,M,2012-12-04 09:02:43,2012-11-30,GIFI,Chauvin Kerry J,"COB, CEO",F - Tax,$23.27,-1458,161169,-1%,"-$33,928",0.0,2.0,5.0,-10.0,GIFI
+210,,2012-11-14 11:27:22,2012-11-13,GIFI,Chauvin Kerry J,"COB, CEO",P - Purchase,$20.98,2000,162627,+1%,"+$41,950",2.0,5.0,13.0,-2.0,GIFI
+211,D,2012-09-17 17:10:39,2012-09-17,GIFI,Meche Kirk J,"Pres, COO",F - Tax,$29.54,-5291,43214,-11%,"-$156,296",-1.0,-3.0,-9.0,-26.0,GIFI
+212,D,2012-09-17 17:10:39,2012-09-17,GIFI,Meche Kirk J,"Pres, COO",M - OptEx,$15.63,10000,43214,+30%,"+$156,300",-1.0,-3.0,-9.0,-26.0,GIFI
+213,,2012-06-18 15:02:47,2012-06-17,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",F - Tax,$26.78,-1298,11935,-10%,"-$34,760",-2.0,-1.0,15.0,-9.0,GIFI
+214,,2012-06-18 15:02:28,2012-06-17,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$26.78,-1298,13828,-9%,"-$34,760",-2.0,-1.0,15.0,-9.0,GIFI
+215,,2012-06-18 15:02:13,2012-06-17,GIFI,Meche Kirk J,"Pres, COO",F - Tax,$26.78,-1947,38505,-5%,"-$52,141",-2.0,-1.0,15.0,-9.0,GIFI
+216,,2012-06-18 15:01:43,2012-06-17,GIFI,Chauvin Kerry J,"COB, CEO",F - Tax,$26.78,-3645,160627,-2%,"-$97,613",-2.0,-1.0,15.0,-9.0,GIFI
+217,,2012-04-30 09:44:51,2012-04-26,GIFI,Breerwood Roy F. III,C.F.O.,A - Grant,$0.00,1000,5240,+24%,+$0,0.0,-6.0,-6.0,-6.0,GIFI
+218,,2012-03-07 17:52:03,2012-03-07,GIFI,Tamblyn Ken,Dir,S - Sale,$28.69,-500,0,-100%,"-$14,344",1.0,4.0,-4.0,-14.0,GIFI
+219,,2012-03-02 14:55:01,2012-03-02,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",F - Tax,$29.79,-135,13233,-1%,"-$4,022",-3.0,-1.0,-1.0,-10.0,GIFI
+220,,2012-02-15 12:21:41,2012-02-09,GIFI,Breerwood Roy F. III,Interim C.F.O.,F - Tax,$33.42,-74,4240,-2%,"-$2,473",-1.0,3.0,-7.0,-18.0,GIFI
+221,,2012-02-10 15:16:20,2012-02-09,GIFI,Chauvin Kerry J,"COB, CEO",F - Tax,$33.42,-545,164272,0%,"-$18,214",-2.0,1.0,-11.0,-17.0,GIFI
+222,,2012-02-10 15:14:55,2012-02-09,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$33.42,-147,15126,-1%,"-$4,913",-2.0,1.0,-11.0,-17.0,GIFI
+223,DM,2011-12-09 16:30:15,2011-12-07,GIFI,Seibert Robin A,"VP Finance, CFO, Treasurer",F - Tax,$26.63,-678,19901,-3%,"-$18,054",-1.0,-5.0,12.0,-6.0,GIFI
+224,D,2011-12-09 16:30:15,2011-12-09,GIFI,Seibert Robin A,"VP Finance, CFO, Treasurer",M - OptEx,$11.68,1000,19901,+5%,"+$11,680",-1.0,-5.0,12.0,-6.0,GIFI
+225,M,2011-12-09 13:00:19,2011-12-07,GIFI,Chauvin Kerry J,"COB, CEO",F - Tax,$27.09,-978,164817,-1%,"-$26,494",5.0,0.0,17.0,-2.0,GIFI
+226,M,2011-12-09 12:59:55,2011-12-07,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$27.16,-238,15273,-2%,"-$6,464",5.0,0.0,17.0,-2.0,GIFI
+227,M,2011-12-05 15:23:59,2011-12-01,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",F - Tax,$28.13,-236,13368,-2%,"-$6,638",1.0,-2.0,8.0,-10.0,GIFI
+228,M,2011-12-05 15:12:31,2011-12-01,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$28.13,-260,15511,-2%,"-$7,313",1.0,-2.0,8.0,-10.0,GIFI
+229,M,2011-12-05 15:09:27,2011-12-01,GIFI,Seibert Robin A,"VP Finance, CFO, Treasurer",F - Tax,$28.13,-260,19579,-1%,"-$7,313",1.0,-2.0,8.0,-10.0,GIFI
+230,M,2011-12-05 15:07:39,2011-12-01,GIFI,Chauvin Kerry J,"COB, CEO",F - Tax,$28.11,-1218,165795,-1%,"-$34,233",1.0,-2.0,8.0,-10.0,GIFI
+231,D,2011-12-01 17:04:09,2011-12-01,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",M - OptEx,$16.69,2100,15771,+15%,"+$35,049",1.0,-1.0,4.0,-11.0,GIFI
+232,D,2011-12-01 17:04:09,2011-12-01,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",S - Sale+OE,$28.50,-2100,15771,-12%,"-$59,850",1.0,-1.0,4.0,-11.0,GIFI
+233,,2011-12-01 17:03:14,2011-11-30,GIFI,Seibert Robin A,"VP Finance, CFO, Treasurer",A - Grant,$0.00,4000,19839,+25%,+$0,1.0,-1.0,4.0,-11.0,GIFI
+234,,2011-12-01 17:01:40,2011-11-30,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",A - Grant,$0.00,4000,13604,+42%,+$0,1.0,-1.0,4.0,-11.0,GIFI
+235,,2011-12-01 17:00:52,2011-11-30,GIFI,Meche Kirk J,"Pres, COO",A - Grant,$0.00,6800,40452,+20%,+$0,1.0,-1.0,4.0,-11.0,GIFI
+236,,2011-12-01 17:00:09,2011-11-30,GIFI,Chauvin Kerry J,"COB, CEO",A - Grant,$0.00,10000,167013,+6%,+$0,1.0,-1.0,4.0,-11.0,GIFI
+237,,2011-12-01 16:59:06,2011-11-30,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",A - Grant,$0.00,4000,15771,+34%,+$0,1.0,-1.0,4.0,-11.0,GIFI
+238,,2011-08-05 09:47:14,2011-08-04,GIFI,Dumas Jerry D Sr,Dir,P - Purchase,$28.06,1000,2000,+100%,"+$28,063",-4.0,-2.0,-15.0,25.0,GIFI
+239,,2011-03-02 12:22:28,2011-03-01,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",F - Tax,$30.27,-135,9604,-1%,"-$4,086",6.0,13.0,8.0,-24.0,GIFI
+240,,2011-02-10 10:50:00,2011-02-09,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$27.29,-147,11771,-1%,"-$4,012",1.0,1.0,16.0,-10.0,GIFI
+241,,2011-02-10 10:49:35,2011-02-09,GIFI,Chauvin Kerry J,"COB, CEO",F - Tax,$27.29,-545,157013,0%,"-$14,873",1.0,1.0,16.0,-10.0,GIFI
+242,,2011-02-10 10:48:42,2011-02-09,GIFI,Seibert Robin A,"VP Finance, CFO, Treasurer",F - Tax,$27.29,-147,15839,-1%,"-$4,012",1.0,1.0,16.0,-10.0,GIFI
+243,,2010-12-10 09:52:31,2010-12-09,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$28.90,-56,11918,0%,"-$1,618",3.0,3.0,-3.0,0.0,GIFI
+244,,2010-12-09 14:22:01,2010-12-08,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$29.09,-108,11974,-1%,"-$3,142",-1.0,-2.0,-4.0,3.0,GIFI
+245,,2010-12-08 14:51:38,2010-12-06,GIFI,Laborde John Peter,Dir,S - Sale,$29.76,-4480,11849,-27%,"-$133,315",-3.0,-2.0,-7.0,1.0,GIFI
+246,,2010-12-08 14:49:56,2010-12-07,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$30.02,-130,12082,-1%,"-$3,903",-3.0,-2.0,-7.0,1.0,GIFI
+247,,2010-12-07 16:03:43,2010-12-04,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",F - Tax,$30.29,-130,12212,-1%,"-$3,938",-3.0,-2.0,-4.0,2.0,GIFI
+248,,2010-12-07 16:03:26,2010-12-04,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",F - Tax,$30.29,-118,9739,-1%,"-$3,574",-3.0,-2.0,-4.0,2.0,GIFI
+249,,2010-12-06 09:34:33,2010-12-03,GIFI,Blanchard William G,Pres of Subsidiary,S - Sale,$29.51,-1200,12342,-9%,"-$35,412",-1.0,-2.0,-6.0,2.0,GIFI
+250,,2010-12-03 15:45:59,2010-12-01,GIFI,Chauvin Kerry J,"COB, CEO",A - Grant,$0.00,10000,157558,+7%,+$0,3.0,-2.0,1.0,8.0,GIFI
+251,,2010-12-03 15:43:25,2010-12-01,GIFI,Meche Kirk J,"Pres, COO",A - Grant,$0.00,3400,33652,+11%,+$0,3.0,-2.0,1.0,8.0,GIFI
+252,,2010-12-03 15:43:01,2010-12-01,GIFI,Blanchard William G,"Pres, CEO of Subsidiary",A - Grant,$0.00,2000,13542,+17%,+$0,3.0,-2.0,1.0,8.0,GIFI
+253,,2010-12-03 15:42:15,2010-12-01,GIFI,Seibert Robin A,"VP Finance, CFO, Treasurer",A - Grant,$0.00,2000,15986,+14%,+$0,3.0,-2.0,1.0,8.0,GIFI
+254,,2010-12-03 15:41:12,2010-12-01,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",A - Grant,$0.00,2000,9857,+25%,+$0,3.0,-2.0,1.0,8.0,GIFI
+255,,2010-08-11 15:49:33,2010-08-11,GIFI,Cotter Gregory J,Dir,P - Purchase,$16.25,1000,5000,+25%,"+$16,250",-8.0,-2.0,-9.0,63.0,GIFI
+256,,2010-03-02 13:55:28,2010-03-01,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",F - Tax,$20.06,-143,7857,-2%,"-$2,869",9.0,5.0,-1.0,-22.0,GIFI
+257,,2010-02-10 10:36:51,2010-02-09,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",F - Tax,$17.46,-155,11542,-1%,"-$2,706",0.0,3.0,17.0,-2.0,GIFI
+258,M,2009-12-10 10:52:05,2009-12-08,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",F - Tax,$21.93,-164,11697,-1%,"-$3,596",-1.0,-2.0,0.0,-21.0,GIFI
+259,,2009-12-08 12:52:22,2009-12-04,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",A - Grant,$0.00,2000,8000,+33%,+$0,-2.0,-6.0,-2.0,-34.0,GIFI
+260,,2009-12-08 12:49:24,2009-12-04,GIFI,Meche Kirk J,"Pres, COO",A - Grant,$0.00,3400,30252,+13%,+$0,-2.0,-6.0,-2.0,-34.0,GIFI
+261,,2009-12-08 12:46:49,2009-12-04,GIFI,Seibert Robin A,"VP Finance, CFO, Treasurer",A - Grant,$0.00,2000,13986,+17%,+$0,-2.0,-6.0,-2.0,-34.0,GIFI
+262,,2009-12-08 12:44:21,2009-12-04,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",A - Grant,$0.00,2000,11861,+20%,+$0,-2.0,-6.0,-2.0,-34.0,GIFI
+263,,2009-12-08 12:44:21,2009-12-07,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",F - Tax,$22.47,-130,11861,-1%,"-$2,921",-2.0,-6.0,-2.0,-34.0,GIFI
+264,,2009-12-08 12:39:06,2009-12-04,GIFI,Chauvin Kerry J,"COB, CEO",A - Grant,$0.00,6700,147558,+5%,+$0,-2.0,-6.0,-2.0,-34.0,GIFI
+265,,2009-06-18 14:40:00,2009-06-17,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",A - Grant,$0.00,4000,6000,+200%,+$0,-1.0,-6.0,4.0,41.0,GIFI
+266,,2009-06-18 14:39:32,2009-06-17,GIFI,Chauvin Kerry J,CEO,A - Grant,$0.00,10000,140858,+8%,+$0,-1.0,-6.0,4.0,41.0,GIFI
+267,,2009-06-18 14:38:54,2009-06-17,GIFI,Seibert Robin A,"VP Finance, CFO, Treasurer",A - Grant,$0.00,4000,11986,+50%,+$0,-1.0,-6.0,4.0,41.0,GIFI
+268,,2009-06-18 14:38:31,2009-06-17,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",A - Grant,$0.00,4000,9991,+67%,+$0,-1.0,-6.0,4.0,41.0,GIFI
+269,,2009-06-18 14:37:43,2009-06-17,GIFI,Meche Kirk J,"Pres, COO",A - Grant,$0.00,6000,26852,+29%,+$0,-1.0,-6.0,4.0,41.0,GIFI
+270,,2009-03-03 18:06:59,2009-03-01,GIFI,Smith Francis A Jr.,"Pres, CEO of Subsidiary",A - Grant,$0.00,2000,2000,New,+$0,6.0,-23.0,15.0,108.0,GIFI
+271,,2009-02-13 14:04:53,2008-04-28,GIFI,Laborde John Peter,Dir,S - Sale,$41.47,-5000,16329,-23%,"-$207,346",-2.0,-11.0,-43.0,27.0,GIFI
+272,,2009-02-11 15:15:55,2009-02-09,GIFI,Seibert Robin A,"VP Finance, CFO, Treasurer",A - Grant,$0.00,2000,7986,+33%,+$0,-5.0,-8.0,-47.0,20.0,GIFI
+273,,2009-02-11 15:15:30,2009-02-09,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",A - Grant,$0.00,2000,5991,+50%,+$0,-5.0,-8.0,-47.0,20.0,GIFI
+274,,2009-02-11 15:15:07,2009-02-09,GIFI,Meche Kirk J,"Pres, COO",A - Grant,$0.00,3400,20852,+19%,+$0,-5.0,-8.0,-47.0,20.0,GIFI
+275,,2009-02-11 15:14:48,2009-02-09,GIFI,Chauvin Kerry J,"COB, CEO",A - Grant,$0.00,6700,130858,+5%,+$0,-5.0,-8.0,-47.0,20.0,GIFI
+276,M,2008-12-10 17:40:47,2008-12-08,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",F - Tax,$12.15,-164,3991,-4%,"-$1,993",0.0,8.0,17.0,34.0,GIFI
+277,,2008-12-10 16:14:31,2008-12-08,GIFI,Meche Kirk J,VP Operations,P - Purchase,$11.31,4400,17452,+34%,"+$49,777",0.0,8.0,17.0,34.0,GIFI
+278,,2008-12-09 17:07:46,2008-12-07,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",F - Tax,$11.17,-130,4155,-3%,"-$1,452",7.0,5.0,38.0,42.0,GIFI
+279,D,2008-06-10 12:35:26,2008-06-09,GIFI,Meche Kirk J,VP Operations,M - OptEx,$11.68,5500,13052,+73%,"+$64,240",-3.0,-1.0,-15.0,-77.0,GIFI
+280,D,2008-06-10 12:35:26,2008-06-09,GIFI,Meche Kirk J,VP Operations,S - Sale+OE,$49.50,-5500,13052,-30%,"-$272,251",-3.0,-1.0,-15.0,-77.0,GIFI
+281,D,2008-06-09 11:44:51,2008-06-06,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$15.63,16000,124158,+15%,"+$250,080",4.0,2.0,-11.0,-76.0,GIFI
+282,D,2008-06-09 11:44:51,2008-06-06,GIFI,Chauvin Kerry J,"Pres, CEO",S - Sale+OE,$48.27,-16000,124158,-11%,"-$772,253",4.0,2.0,-11.0,-76.0,GIFI
+283,D,2008-05-19 10:09:53,2008-05-16,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",M - OptEx,$15.90,1600,4285,+60%,"+$25,432",-1.0,-6.0,11.0,-65.0,GIFI
+284,D,2008-05-19 10:09:53,2008-05-16,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",S - Sale+OE,$44.15,-1600,4285,-27%,"-$70,640",-1.0,-6.0,11.0,-65.0,GIFI
+285,D,2008-05-08 10:30:55,2008-05-06,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$13.00,12000,124158,+11%,"+$155,960",2.0,6.0,15.0,-54.0,GIFI
+286,D,2008-05-08 10:30:55,2008-05-06,GIFI,Chauvin Kerry J,"Pres, CEO",S - Sale+OE,$41.27,-12000,124158,-9%,"-$495,238",2.0,6.0,15.0,-54.0,GIFI
+287,,2008-04-29 10:22:50,2008-04-28,GIFI,Cotter Gregory J,Dir,S - Sale,$40.35,-1000,4000,-20%,"-$40,350",-3.0,0.0,2.0,-60.0,GIFI
+288,,2008-03-17 13:10:06,2008-03-15,GIFI,Bourke Murphy A,VP - Marketing,D - Sale to issuer,$0.00,-5220,22200,-19%,-$0,-5.0,-2.0,26.0,24.0,GIFI
+289,D,2008-03-10 14:17:01,2008-03-07,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$11.68,6000,124158,+5%,"+$70,080",-2.0,-1.0,18.0,30.0,GIFI
+290,,2008-03-07 15:39:37,2008-03-07,GIFI,Flick Michael A,Dir,P - Purchase,$28.91,1000,1000,New,"+$28,910",1.0,2.0,16.0,33.0,GIFI
+291,D,2008-03-05 12:13:09,2008-03-04,GIFI,Bourke Murphy A,VP - Marketing,M - OptEx,$18.06,4500,27420,+20%,"+$81,255",0.0,-1.0,10.0,35.0,GIFI
+292,D,2008-03-05 12:13:09,2008-03-04,GIFI,Bourke Murphy A,VP - Marketing,S - Sale+OE,$29.20,-5120,27420,-16%,"-$149,504",0.0,-1.0,10.0,35.0,GIFI
+293,,2007-12-12 15:59:20,2007-12-07,GIFI,Chauvin Kerry J,"Pres, CEO",A - Grant,$0.00,6700,118158,+6%,+$0,1.0,-1.0,-5.0,53.0,GIFI
+294,,2007-12-12 15:59:02,2007-12-07,GIFI,Meche Kirk J,VP Operations,A - Grant,$0.00,3350,13052,+35%,+$0,1.0,-1.0,-5.0,53.0,GIFI
+295,,2007-12-12 15:58:46,2007-12-07,GIFI,Bourke Murphy A,VP - Marketing,A - Grant,$0.00,2000,28040,+8%,+$0,1.0,-1.0,-5.0,53.0,GIFI
+296,M,2007-12-12 15:58:46,2007-12-08,GIFI,Bourke Murphy A,VP - Marketing,F - Tax,$32.06,-300,28040,-1%,"-$9,618",1.0,-1.0,-5.0,53.0,GIFI
+297,,2007-12-12 15:58:29,2007-12-07,GIFI,Ikdal Johannes,Pres Gulf Marine Fabricators,A - Grant,$0.00,2000,2794,+252%,+$0,1.0,-1.0,-5.0,53.0,GIFI
+298,,2007-12-12 15:58:29,2007-12-08,GIFI,Ikdal Johannes,Pres Gulf Marine Fabricators,F - Tax,$32.06,-56,2794,-2%,"-$1,795",1.0,-1.0,-5.0,53.0,GIFI
+299,,2007-12-12 15:58:10,2007-12-07,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",A - Grant,$0.00,2000,4285,+88%,+$0,1.0,-1.0,-5.0,53.0,GIFI
+300,M,2007-12-12 15:58:10,2007-12-08,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",F - Tax,$32.06,-164,4285,-4%,"-$5,258",1.0,-1.0,-5.0,53.0,GIFI
+301,,2007-12-12 15:57:53,2007-12-07,GIFI,Seibert Robin A,"VP Fin., CFO, Treas, Asst. Se",A - Grant,$0.00,2000,5986,+50%,+$0,1.0,-1.0,-5.0,53.0,GIFI
+302,M,2007-12-12 15:57:53,2007-12-08,GIFI,Seibert Robin A,"VP Fin., CFO, Treas, Asst. Se",F - Tax,$32.06,-216,5986,-3%,"-$6,925",1.0,-1.0,-5.0,53.0,GIFI
+303,D,2007-12-07 09:56:22,2007-12-06,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",M - OptEx,$14.15,1280,2449,+109%,"+$18,110",-1.0,-1.0,-6.0,54.0,GIFI
+304,D,2007-12-07 09:56:22,2007-12-06,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",S - Sale+OE,$31.33,-1280,2449,-34%,"-$40,102",-1.0,-1.0,-6.0,54.0,GIFI
+305,,2007-11-09 18:09:34,2007-11-08,GIFI,Laborde Alden J,Dir,P - Purchase,$31.77,17576,26876,+189%,"+$558,433",0.0,2.0,2.0,37.0,GIFI
+306,,2007-11-09 18:08:56,2007-11-08,GIFI,Laborde Alden J,Dir,P - Purchase,$31.37,2424,974000,0%,"+$76,043",0.0,2.0,2.0,37.0,GIFI
+307,D,2007-11-09 15:15:28,2007-11-09,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$11.68,6000,111458,+6%,"+$70,080",-3.0,-1.0,0.0,34.0,GIFI
+308,,2007-09-19 17:42:46,2007-09-17,GIFI,Wishart John,Dir,S - Sale,$34.25,-800000,789067,-50%,"-$27,400,000",3.0,1.0,-4.0,-27.0,GIFI
+309,,2007-09-19 12:46:52,2007-09-17,GIFI,"Technip USA Holdings, Inc.",10%,S - Sale,$34.25,-800000,789067,-50%,"-$27,400,000",3.0,3.0,-1.0,-25.0,GIFI
+310,,2007-05-11 13:31:20,2007-05-09,GIFI,Bourke Murphy A,VP - Marketing,S - Sale,$33.21,-460,26340,-2%,"-$15,274",3.0,5.0,2.0,1.0,GIFI
+311,D,2007-03-06 15:23:40,2007-03-05,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$15.00,25000,105458,+31%,"+$375,000",0.0,1.0,0.0,33.0,GIFI
+312,D,2006-12-18 11:57:49,2006-12-15,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",M - OptEx,$16.69,4100,31200,+15%,"+$68,429",-3.0,-2.0,-11.0,-11.0,GIFI
+313,D,2006-12-18 11:57:49,2006-12-15,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",S - Sale+OE,$39.02,-4100,31200,-12%,"-$159,980",-3.0,-2.0,-11.0,-11.0,GIFI
+314,DM,2006-12-14 15:06:13,2006-12-13,GIFI,Meche Kirk J,VP Operations,M - OptEx,$15.00,11500,9702,-640%,"+$172,500",0.0,-2.0,-15.0,-12.0,GIFI
+315,DM,2006-12-14 15:06:13,2006-12-13,GIFI,Meche Kirk J,VP Operations,S - Sale+OE,$39.50,-11500,9702,-54%,"-$454,250",0.0,-2.0,-15.0,-12.0,GIFI
+316,D,2006-12-14 12:33:22,2006-12-13,GIFI,Bourke Murphy A,VP - Marketing,M - OptEx,$16.09,6500,26800,+32%,"+$104,615",0.0,-2.0,-15.0,-12.0,GIFI
+317,D,2006-12-14 12:33:22,2006-12-13,GIFI,Bourke Murphy A,VP - Marketing,S - Sale+OE,$38.82,-6500,26800,-20%,"-$252,356",0.0,-2.0,-15.0,-12.0,GIFI
+318,,2006-12-12 13:22:45,2006-12-08,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",A - Grant,$0.00,1650,2449,+207%,+$0,0.0,-3.0,-13.0,-12.0,GIFI
+319,,2006-12-12 13:22:45,2006-12-09,GIFI,Blanchard William G,"Pres of Gulf Island, L.L.C.",F - Tax,$39.40,-51,2449,-2%,"-$2,009",0.0,-3.0,-13.0,-12.0,GIFI
+320,,2006-12-12 13:22:25,2006-12-08,GIFI,Seibert Robin A,"Controller, CAO, Secretary",A - Grant,$0.00,1650,4202,+65%,+$0,0.0,-3.0,-13.0,-12.0,GIFI
+321,,2006-12-12 13:22:25,2006-12-09,GIFI,Seibert Robin A,"Controller, CAO, Secretary",F - Tax,$39.40,-98,4202,-2%,"-$3,861",0.0,-3.0,-13.0,-12.0,GIFI
+322,,2006-12-12 13:19:07,2006-12-08,GIFI,Anderson Robert C II,Pres of Gulf Marine Fab.,A - Grant,$0.00,1650,1650,New,+$0,0.0,-3.0,-13.0,-12.0,GIFI
+323,,2006-12-12 13:18:42,2006-12-08,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",A - Grant,$0.00,2300,31200,+8%,+$0,0.0,-3.0,-13.0,-12.0,GIFI
+324,,2006-12-12 13:18:20,2006-12-08,GIFI,Bourke Murphy A,VP - Marketing,A - Grant,$0.00,2300,26800,+9%,+$0,0.0,-3.0,-13.0,-12.0,GIFI
+325,,2006-12-12 13:17:55,2006-12-08,GIFI,Meche Kirk J,VP Operations,A - Grant,$0.00,3350,9702,+53%,+$0,0.0,-3.0,-13.0,-12.0,GIFI
+326,,2006-12-12 11:21:03,2006-12-08,GIFI,Chauvin Kerry J,"Pres, CEO",A - Grant,$0.00,6700,80400,+9%,+$0,0.0,-3.0,-13.0,-12.0,GIFI
+327,D,2006-12-11 11:12:51,2006-12-08,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",M - OptEx,$16.82,12000,28900,+71%,"+$201,780",-3.0,-3.0,-17.0,-15.0,GIFI
+328,D,2006-12-11 11:12:51,2006-12-08,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",S - Sale+OE,$38.90,-12000,28900,-29%,"-$466,798",-3.0,-3.0,-17.0,-15.0,GIFI
+329,D,2006-12-06 12:30:00,2006-12-05,GIFI,Seibert Robin A,"Controller, CAO, Secretary",M - OptEx,$15.63,1000,2650,+61%,"+$15,630",2.0,0.0,-11.0,-11.0,GIFI
+330,D,2006-12-06 12:30:00,2006-12-05,GIFI,Seibert Robin A,"Controller, CAO, Secretary",S - Sale+OE,$38.90,-1000,2650,-27%,"-$38,900",2.0,0.0,-11.0,-11.0,GIFI
+331,D,2006-12-05 13:59:28,2006-12-01,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$10.92,30000,73700,+69%,"+$327,500",-2.0,-1.0,-11.0,-14.0,GIFI
+332,D,2006-12-05 13:59:28,2006-12-01,GIFI,Chauvin Kerry J,"Pres, CEO",S - Sale+OE,$39.32,-30000,73700,-29%,"-$1,179,704",-2.0,-1.0,-11.0,-14.0,GIFI
+333,D,2006-12-05 13:55:15,2006-12-04,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",M - OptEx,$15.00,14000,28900,+94%,"+$210,000",-2.0,-1.0,-11.0,-14.0,GIFI
+334,D,2006-12-05 13:55:15,2006-12-04,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",S - Sale+OE,$38.27,-14000,28900,-33%,"-$535,796",-2.0,-1.0,-11.0,-14.0,GIFI
+335,D,2006-12-05 13:54:58,2006-12-04,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$18.00,10000,73700,+16%,"+$180,000",-2.0,-1.0,-11.0,-14.0,GIFI
+336,D,2006-12-05 13:54:58,2006-12-04,GIFI,Chauvin Kerry J,"Pres, CEO",S - Sale+OE,$39.05,-10000,73700,-12%,"-$390,545",-2.0,-1.0,-11.0,-14.0,GIFI
+337,D,2006-11-17 15:59:42,2006-11-17,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",M - OptEx,$9.50,9000,28900,+45%,"+$85,500",1.0,4.0,15.0,6.0,GIFI
+338,D,2006-11-17 13:56:51,2006-11-16,GIFI,Blanchard William G,"Pres, Gulf Island LLC",M - OptEx,$14.15,3760,850,-129%,"+$53,213",1.0,4.0,15.0,6.0,GIFI
+339,D,2006-11-17 13:56:51,2006-11-16,GIFI,Blanchard William G,"Pres, Gulf Island LLC",S - Sale+OE,$32.89,-3760,850,-82%,"-$123,657",1.0,4.0,15.0,6.0,GIFI
+340,D,2006-11-13 10:00:04,2006-11-09,GIFI,Seibert Robin A,"Controller, CAO, Secretary",M - OptEx,$16.03,5700,2650,-187%,"+$91,350",3.0,1.0,17.0,4.0,GIFI
+341,D,2006-11-13 10:00:04,2006-11-09,GIFI,Seibert Robin A,"Controller, CAO, Secretary",S - Sale+OE,$32.37,-5700,2650,-68%,"-$184,509",3.0,1.0,17.0,4.0,GIFI
+342,D,2006-11-13 09:59:42,2006-11-09,GIFI,Meche Kirk J,VP Operations,M - OptEx,$11.68,4500,6352,+243%,"+$52,560",3.0,1.0,17.0,4.0,GIFI
+343,D,2006-11-13 09:59:42,2006-11-09,GIFI,Meche Kirk J,VP Operations,S - Sale+OE,$32.57,-4500,6352,-41%,"-$146,577",3.0,1.0,17.0,4.0,GIFI
+344,A,2006-08-15 15:49:03,2006-08-14,GIFI,Chauvin Kerry J,"Pres, CEO",S - Sale,$27.12,-12600,73700,-15%,"-$341,649",2.0,0.0,-9.0,23.0,GIFI
+345,D,2006-08-14 16:12:37,2006-08-14,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$7.13,12600,73700,+21%,"+$89,775",2.0,0.0,-12.0,40.0,GIFI
+346,D,2006-08-14 16:12:37,2006-08-14,GIFI,Chauvin Kerry J,"Pres, CEO",S - Sale+OE,$27.15,-12600,73700,-15%,"-$342,090",2.0,0.0,-12.0,40.0,GIFI
+347,D,2006-08-02 16:20:31,2006-07-31,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",M - OptEx,$7.36,16600,19900,+503%,"+$122,250",0.0,3.0,12.0,49.0,GIFI
+348,,2006-06-19 12:06:45,2006-06-14,GIFI,Cotter Gregory J,Dir,P - Purchase,$19.46,2000,5000,+67%,"+$38,920",-7.0,0.0,-5.0,102.0,GIFI
+349,D,2006-03-02 16:29:54,2006-02-22,GIFI,Bourke Murphy A,VP - Marketing,M - OptEx,$15.77,9300,22200,+72%,"+$146,615",-2.0,-4.0,2.0,19.0,GIFI
+350,D,2006-03-02 16:29:54,2006-02-22,GIFI,Bourke Murphy A,VP - Marketing,S - Sale+OE,$23.51,-9300,22200,-30%,"-$218,685",-2.0,-4.0,2.0,19.0,GIFI
+351,,2005-12-13 14:50:31,2005-12-09,GIFI,Chauvin Kerry J,"Pres, CEO",A - Grant,$0.00,6700,73700,+10%,+$0,1.0,-2.0,0.0,-21.0,GIFI
+352,,2005-12-13 14:50:09,2005-12-09,GIFI,Bourke Murphy A,VP - Marketing,A - Grant,$0.00,2300,24500,+10%,+$0,1.0,-2.0,0.0,-21.0,GIFI
+353,,2005-12-13 14:49:50,2005-12-09,GIFI,Seibert Robin A,"Controller, CAO, Secretary",A - Grant,$0.00,1650,2650,+165%,+$0,1.0,-2.0,0.0,-21.0,GIFI
+354,,2005-12-13 14:49:24,2005-12-09,GIFI,Meche Kirk J,VP Operations,A - Grant,$0.00,3350,6352,+112%,+$0,1.0,-2.0,0.0,-21.0,GIFI
+355,,2005-12-13 14:49:00,2005-12-09,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",A - Grant,$0.00,2300,3300,+230%,+$0,1.0,-2.0,0.0,-21.0,GIFI
+356,,2005-02-25 18:23:42,2005-02-22,GIFI,Laborde Alden J,"Dir, 10%",G - Gift,$0.00,-600000,954000,-39%,-$0,2.0,7.0,0.0,3.0,GIFI
+357,,2005-02-25 18:23:12,2005-02-22,GIFI,Laborde John Peter,Dir,G - Gift,$0.00,-1200,21949,-5%,-$0,2.0,7.0,0.0,3.0,GIFI
+358,D,2005-02-23 15:52:47,2005-02-22,GIFI,Bourke Murphy A,VP - Marketing,M - OptEx,$15.27,12900,22200,+139%,"+$196,980",4.0,9.0,9.0,5.0,GIFI
+359,D,2005-02-23 15:52:47,2005-02-22,GIFI,Bourke Murphy A,VP - Marketing,S - Sale+OE,$22.26,-12900,22200,-37%,"-$287,145",4.0,9.0,9.0,5.0,GIFI
+360,D,2005-02-18 15:17:44,2005-02-17,GIFI,Bourke Murphy A,VP - Marketing,M - OptEx,$11.76,5100,22200,+30%,"+$59,960",-4.0,2.0,5.0,3.0,GIFI
+361,D,2005-02-18 15:17:44,2005-02-17,GIFI,Bourke Murphy A,VP - Marketing,S - Sale+OE,$23.53,-5100,22200,-19%,"-$120,003",-4.0,2.0,5.0,3.0,GIFI
+362,D,2005-02-18 15:17:24,2005-02-16,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$7.21,3100,134700,+2%,"+$22,350",-4.0,2.0,5.0,3.0,GIFI
+363,D,2005-02-18 15:17:24,2005-02-16,GIFI,Chauvin Kerry J,"Pres, CEO",S - Sale+OE,$24.04,-3100,134700,-2%,"-$74,526",-4.0,2.0,5.0,3.0,GIFI
+364,D,2005-02-15 16:51:59,2005-02-14,GIFI,Meche Kirk J,VP Operations,M - OptEx,$11.90,11600,3002,-135%,"+$138,000",-1.0,-8.0,-3.0,-1.0,GIFI
+365,D,2005-02-15 16:51:59,2005-02-14,GIFI,Meche Kirk J,VP Operations,S - Sale+OE,$24.44,-11600,3002,-79%,"-$283,483",-1.0,-8.0,-3.0,-1.0,GIFI
+366,,2005-02-14 16:03:13,2005-02-11,GIFI,Wilson Huey J,Dir,G - Gift,$0.00,-600000,456500,-57%,-$0,-1.0,-9.0,-1.0,-2.0,GIFI
+367,D,2005-02-14 14:34:25,2005-02-14,GIFI,Seibert Robin A,"Controller, CAO, Secretary",M - OptEx,$19.63,5000,1000,-125%,"+$98,150",1.0,-8.0,0.0,-1.0,GIFI
+368,D,2005-02-14 14:34:25,2005-02-14,GIFI,Seibert Robin A,"Controller, CAO, Secretary",S - Sale+OE,$24.50,-5000,1000,-83%,"-$122,500",1.0,-8.0,0.0,-1.0,GIFI
+369,D,2005-02-09 15:51:03,2005-02-07,GIFI,Seibert Robin A,"Controller, CAO, Secretary",M - OptEx,$14.47,5000,1000,-125%,"+$72,350",-1.0,3.0,6.0,-4.0,GIFI
+370,D,2005-02-09 15:51:03,2005-02-07,GIFI,Seibert Robin A,"Controller, CAO, Secretary",S - Sale+OE,$24.00,-5000,1000,-83%,"-$120,000",-1.0,3.0,6.0,-4.0,GIFI
+371,D,2004-08-09 16:29:39,2004-08-09,GIFI,Bourke Murphy A,VP - Marketing,M - OptEx,$7.50,1900,22200,+9%,"+$14,250",0.0,-4.0,-3.0,12.0,GIFI
+372,D,2004-08-09 16:29:39,2004-08-09,GIFI,Bourke Murphy A,VP - Marketing,S - Sale+OE,$20.03,-1900,22200,-8%,"-$38,057",0.0,-4.0,-3.0,12.0,GIFI
+373,D,2004-08-09 12:46:00,2004-08-06,GIFI,Bourke Murphy A,VP - Marketing,M - OptEx,$7.41,8100,22200,+57%,"+$60,000",2.0,-2.0,-1.0,14.0,GIFI
+374,D,2004-08-09 12:46:00,2004-08-06,GIFI,Bourke Murphy A,VP - Marketing,S - Sale+OE,$20.25,-8100,22200,-27%,"-$164,025",2.0,-2.0,-1.0,14.0,GIFI
+375,D,2004-08-09 12:45:54,2004-08-06,GIFI,Bourke Murphy A,VP - Marketing,M - OptEx,$7.41,8100,22200,+57%,"+$60,000",2.0,-2.0,-1.0,14.0,GIFI
+376,D,2004-08-09 12:45:54,2004-08-06,GIFI,Bourke Murphy A,VP - Marketing,S - Sale+OE,$20.25,-8100,22200,-27%,"-$164,025",2.0,-2.0,-1.0,14.0,GIFI
+377,D,2004-08-06 14:18:11,2004-08-05,GIFI,Bourke Murphy A,VP - Marketing,M - OptEx,$7.13,1600,22200,+8%,"+$11,400",-2.0,-4.0,-3.0,11.0,GIFI
+378,D,2004-08-06 14:18:11,2004-08-05,GIFI,Bourke Murphy A,VP - Marketing,S - Sale+OE,$20.61,-1600,22200,-7%,"-$32,976",-2.0,-4.0,-3.0,11.0,GIFI
+379,D,2004-08-04 15:11:48,2004-08-03,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",M - OptEx,$7.50,15000,1000,-107%,"+$112,500",1.0,1.0,1.0,7.0,GIFI
+380,D,2004-08-04 15:11:48,2004-08-03,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",S - Sale+OE,$20.27,-15000,1000,-94%,"-$304,050",1.0,1.0,1.0,7.0,GIFI
+381,,2004-08-03 17:54:00,2004-08-02,GIFI,Laborde John Peter,Dir,S - Sale,$20.09,-3000,28149,-10%,"-$60,280",1.0,1.0,-1.0,11.0,GIFI
+382,,2004-05-13 14:14:38,2004-05-12,GIFI,Laborde John Peter,Dir,S - Sale,$19.09,-7000,73649,-9%,"-$133,623",1.0,-3.0,5.0,2.0,GIFI
+383,DM,2004-05-13 11:25:24,2004-05-06,GIFI,Bourke Murphy A,VP - Marketing,M - OptEx,$13.19,18700,22200,+534%,"+$246,565",1.0,-3.0,5.0,2.0,GIFI
+384,DM,2004-05-13 11:25:24,2004-05-06,GIFI,Bourke Murphy A,VP - Marketing,S - Sale+OE,$19.65,-18700,22200,-46%,"-$367,400",1.0,-3.0,5.0,2.0,GIFI
+385,D,2004-05-07 12:27:04,2004-05-06,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$7.50,16500,67000,+33%,"+$123,750",-5.0,-7.0,-6.0,-5.0,GIFI
+386,D,2004-05-07 12:27:04,2004-05-06,GIFI,Chauvin Kerry J,"Pres, CEO",S - Sale+OE,$21.10,-16500,67000,-20%,"-$348,183",-5.0,-7.0,-6.0,-5.0,GIFI
+387,D,2004-05-06 15:54:55,2004-05-05,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$7.50,12900,67000,+24%,"+$96,750",-5.0,-13.0,-14.0,-12.0,GIFI
+388,D,2004-05-06 15:54:55,2004-05-05,GIFI,Chauvin Kerry J,"Pres, CEO",S - Sale+OE,$22.05,-12900,67000,-16%,"-$284,504",-5.0,-13.0,-14.0,-12.0,GIFI
+389,DM,2004-05-05 12:19:37,2004-05-03,GIFI,Chauvin Kerry J,"Pres, CEO",M - OptEx,$7.50,50900,67000,+316%,"+$381,750",-1.0,-11.0,-14.0,-12.0,GIFI
+390,DM,2004-05-05 12:19:37,2004-05-03,GIFI,Chauvin Kerry J,"Pres, CEO",S - Sale+OE,$22.56,-50900,67000,-43%,"-$1,148,470",-1.0,-11.0,-14.0,-12.0,GIFI
+391,,2004-04-15 10:56:37,2004-04-13,GIFI,Wilson Huey J,"Dir, 10%",G - Gift,$0.00,-575000,1272000,-31%,-$0,-1.0,9.0,-13.0,4.0,GIFI
+392,,2004-03-04 12:03:27,2004-03-02,GIFI,Wilson Huey J,"Dir, 10%",G - Gift,$0.00,-200000,1847000,-10%,-$0,1.0,-3.0,-12.0,-8.0,GIFI
+393,,2004-02-25 12:40:11,2004-02-24,GIFI,Laborde John Peter,Dir,S - Sale,$18.99,-1300,80649,-2%,"-$24,687",6.0,18.0,7.0,4.0,GIFI
+394,M,2004-02-23 15:19:33,2004-02-19,GIFI,Laborde John Peter,Dir,S - Sale,$19.78,-6200,81949,-7%,"-$122,630",-5.0,3.0,3.0,-2.0,GIFI
+395,,2004-02-19 15:25:40,2004-02-18,GIFI,Tamblyn Ken,Dir,P - Purchase,$19.94,500,500,New,"+$9,970",0.0,1.0,9.0,-5.0,GIFI
+396,,2004-02-18 11:28:09,2004-02-13,GIFI,Gallagher Joseph P,"VP Fin., CFO, Treas, Asst Secy",S - Sale,$20.00,-14000,1000,-93%,"-$280,000",-3.0,-7.0,8.0,-8.0,GIFI
+397,D,2004-02-13 15:19:37,2004-02-12,GIFI,Seibert Robin A,"Controller, CAO, Secretary",M - OptEx,$13.46,4290,1000,-130%,"+$57,726",-1.0,-3.0,6.0,-2.0,GIFI
+398,D,2004-02-13 15:19:37,2004-02-12,GIFI,Seibert Robin A,"Controller, CAO, Secretary",S - Sale+OE,$20.00,-4290,1000,-81%,"-$85,800",-1.0,-3.0,6.0,-2.0,GIFI
+399,,2004-02-13 15:19:00,2004-02-13,GIFI,Cotter Gregory J,Dir,S - Sale,$19.98,-2000,3000,-40%,"-$39,960",-1.0,-3.0,6.0,-2.0,GIFI
+400,A,2003-10-14 10:37:07,2003-02-21,GIFI,Seibert Robin A,"Controller, CAO, Secretary",M - OptEx,$12.80,3290,1000,-144%,"+$42,096",1.0,-2.0,9.0,51.0,GIFI
+401,A,2003-10-14 10:37:07,2003-02-21,GIFI,Seibert Robin A,"Controller, CAO, Secretary",S - Sale,$16.89,-3290,1000,-77%,"-$55,568",1.0,-2.0,9.0,51.0,GIFI
+402,A,2003-08-18 15:00:17,2003-02-24,GIFI,Meche Kirk J,VP Operations,P - Purchase,$16.92,1874,3002,+166%,"+$31,706",3.0,4.0,-1.0,28.0,GIFI
+403,M,2003-08-12 13:42:02,2003-08-08,GIFI,Laborde John Peter,Dir,S - Sale,$14.86,-5000,80100,-6%,"-$74,310",2.0,6.0,1.0,26.0,GIFI

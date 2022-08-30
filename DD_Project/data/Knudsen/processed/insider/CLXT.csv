@@ -1,79 +1,139 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2022-03-22 16:09:59,2022-03-21,CLXT,Ribeill Yves J,Dir,S - Sale,1.06,-20000,129225,-13%,-21238.0,,,,,CLXT
-1,,2021-08-31 16:53:30,2021-08-30,CLXT,Carr Michael A.,"Pres, CEO",P - Purchase,3.98,10000,60000,+20%,39776.0,,,,,CLXT
-2,,2021-08-23 16:31:41,2021-08-19,CLXT,Koschak William,CFO,P - Purchase,3.21,20000,38000,+111%,64112.0,,,,,CLXT
-3,A,2021-06-01 17:19:57,2019-07-18,CLXT,Dumont Philippe,Dir,S - Sale,10.0,-706,16354,-4%,-7060.0,,,,,CLXT
-4,A,2021-06-01 17:09:23,2019-07-18,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,10.0,-735,17865,-4%,-7350.0,,,,,CLXT
-5,,2021-05-13 17:58:26,2021-05-12,CLXT,Neugent Christopher J,Dir,P - Purchase,3.95,15000,22940,+189%,59291.0,,,,,CLXT
-6,,2021-01-05 17:11:03,2021-01-04,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale,4.13,-2513,0,-100%,-10388.0,,,,,CLXT
-7,,2021-01-04 17:12:16,2020-12-31,CLXT,Blome James,CEO,S - Sale,4.17,-4140,186282,-2%,-17281.0,,,,,CLXT
-8,,2020-12-21 17:08:46,2020-12-18,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale,4.75,-5026,2513,-67%,-23874.0,,,,,CLXT
-9,,2020-12-02 17:10:16,2020-12-01,CLXT,Frey Travis,CTO,P - Purchase,3.79,150,2900,+5%,569.0,,,,,CLXT
-10,,2020-11-04 18:44:55,2020-11-02,CLXT,Frey Travis,CTO,P - Purchase,3.26,150,2750,+6%,489.0,,,,,CLXT
-11,,2020-10-02 17:57:22,2020-10-01,CLXT,Frey Travis,CTO,P - Purchase,5.47,150,2600,+6%,820.0,,,,,CLXT
-12,,2020-10-01 17:09:50,2020-09-30,CLXT,Blome James,CEO,S - Sale,5.59,-4140,190422,-2%,-23124.0,,,,,CLXT
-13,,2020-09-11 17:06:14,2020-09-10,CLXT,Dumont Philippe,Dir,P - Purchase,5.91,3000,6290,+91%,17729.0,,,,,CLXT
-14,,2020-09-01 17:10:43,2020-09-01,CLXT,Frey Travis,CTO,P - Purchase,5.41,150,2450,+7%,811.0,,,,,CLXT
-15,M,2020-08-21 17:20:12,2020-04-02,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,3.79,-490,3165,-13%,-1855.0,,,,,CLXT
-16,,2020-08-21 17:16:25,2020-08-14,CLXT,Dumont Philippe,Dir,P - Purchase,7.49,2000,3290,+155%,14970.0,,,,,CLXT
-17,M,2020-08-21 17:16:25,2020-04-02,CLXT,Dumont Philippe,Dir,S - Sale,3.79,-472,3290,-13%,-1787.0,,,,,CLXT
-18,,2020-08-03 17:13:59,2020-07-01,CLXT,Choulika Andre,Dir,S - Sale,4.65,-4228,130815,-3%,-19647.0,,,,,CLXT
-19,,2020-08-03 17:07:50,2020-08-03,CLXT,Frey Travis,CTO,P - Purchase,4.36,150,2300,+7%,654.0,,,,,CLXT
-20,M,2020-07-31 17:12:08,2020-06-29,CLXT,Blome James,CEO,S - Sale,4.81,-6397,194562,-3%,-30800.0,,,,,CLXT
-21,,2020-07-01 16:40:51,2020-07-01,CLXT,Frey Travis,CTO,P - Purchase,5.04,156,2150,+8%,786.0,,,,,CLXT
-22,,2020-06-02 16:26:25,2020-06-01,CLXT,Frey Travis,CTO,P - Purchase,4.43,144,1994,+8%,638.0,,,,,CLXT
-23,,2020-05-04 14:34:06,2020-05-01,CLXT,Frey Travis,CTO,P - Purchase,4.32,175,1850,+10%,755.0,,,,,CLXT
-24,,2020-04-01 16:30:58,2020-04-01,CLXT,Frey Travis,CTO,P - Purchase,3.19,175,1675,+12%,559.0,,,,,CLXT
-25,,2020-03-04 16:12:27,2020-03-02,CLXT,Frey Travis,CTO,P - Purchase,6.43,200,1500,+15%,1286.0,,,,,CLXT
-26,,2020-03-02 10:45:09,2020-02-28,CLXT,Ribeill Yves J,Dir,S - Sale,5.46,-9990,30030,-25%,-54520.0,,,,,CLXT
-27,,2020-02-04 08:40:13,2020-02-03,CLXT,Frey Travis,CTO,P - Purchase,5.61,200,1300,+18%,1122.0,,,,,CLXT
-28,,2020-01-17 15:12:22,2020-01-15,CLXT,Frey Travis,CTO,P - Purchase,7.89,275,1100,+33%,2170.0,,,,,CLXT
-29,M,2020-01-14 14:05:33,2020-01-13,CLXT,Frey Travis,Chief Technology Officer,P - Purchase,7.21,550,825,+200%,3967.0,,,,,CLXT
-30,,2020-01-13 10:38:24,2020-01-10,CLXT,Frey Travis,CTO,P - Purchase,7.64,275,275,New,2101.0,,,,,CLXT
-31,,2020-01-07 19:37:11,2020-01-03,CLXT,Dumont Philippe,Dir,S - Sale,7.6,-236,1762,-12%,-1794.0,,,,,CLXT
-32,,2020-01-07 19:32:34,2020-01-03,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,7.65,-245,3655,-6%,-1874.0,,,,,CLXT
-33,,2019-10-03 13:46:41,2019-10-02,CLXT,Dumont Philippe,Dir,S - Sale,4.96,-236,1998,-11%,-1171.0,,,,,CLXT
-34,,2019-10-03 13:43:11,2019-10-02,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,4.96,-245,3900,-6%,-1215.0,,,,,CLXT
-35,,2019-07-22 11:30:00,2019-07-18,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,10.0,-735,4145,-15%,-7350.0,,,,,CLXT
-36,,2019-07-22 11:17:08,2019-07-18,CLXT,Dumont Philippe,Dir,S - Sale,10.0,-706,2234,-24%,-7060.0,,,,,CLXT
-37,,2019-07-02 13:20:11,2019-07-01,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,12.7,-1494,65323,-2%,-18967.0,,,,,CLXT
-38,D,2019-04-30 16:26:39,2019-04-29,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,16.31,-3750,92982,-4%,-61152.0,,,,,CLXT
-39,,2019-04-04 16:07:59,2019-04-02,CLXT,Blome James,CEO,S - Sale,16.65,-2582,154136,-2%,-42982.0,,,,,CLXT
-40,,2019-04-02 08:38:24,2019-04-01,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,17.33,-1522,66817,-2%,-26378.0,,,,,CLXT
-41,,2019-03-27 16:22:19,2019-03-26,CLXT,Blome James,CEO,S - Sale,17.87,-2582,156718,-2%,-46129.0,,,,,CLXT
-42,M,2019-03-21 16:07:02,2019-03-19,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,18.0,-8330,68339,-11%,-149940.0,,,,,CLXT
-43,,2019-03-20 21:26:33,2019-03-19,CLXT,Blome James,CEO,S - Sale,17.32,-2582,159300,-2%,-44713.0,,,,,CLXT
-44,,2019-03-15 16:03:41,2019-03-12,CLXT,Blome James,CEO,S - Sale,16.58,-2582,161882,-2%,-42802.0,,,,,CLXT
-45,DM,2019-03-15 16:01:05,2019-03-11,CLXT,Ribeill Yves J,Dir,S - Sale+OE,16.64,-19980,40020,-33%,-332504.0,,,,,CLXT
-46,DM,2019-02-04 17:41:47,2019-01-31,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,13.0,-8170,92982,-8%,-106210.0,,,,,CLXT
-47,,2019-01-08 16:09:42,2019-01-04,CLXT,Dumont Philippe,Dir,S - Sale,12.0,-1117,17060,-6%,-13404.0,,,,,CLXT
-48,,2019-01-04 16:03:47,2019-01-02,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,10.39,-2444,76669,-3%,-25389.0,,,,,CLXT
-49,D,2018-12-20 16:16:42,2018-12-18,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,13.0,-4083,92982,-4%,-53079.0,,,,,CLXT
-50,D,2018-11-13 08:59:03,2018-11-08,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,13.0,-4083,92982,-4%,-53079.0,,,,,CLXT
-51,D,2018-10-11 16:04:41,2018-10-09,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,13.84,-4083,92982,-4%,-56514.0,,,,,CLXT
-52,,2018-10-09 16:14:38,2018-10-05,CLXT,Dumont Philippe,Dir,S - Sale,14.11,-1117,18177,-6%,-15765.0,,,,,CLXT
-53,,2018-10-03 18:25:50,2018-10-01,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,14.84,-2521,79113,-3%,-37416.0,,,,,CLXT
-54,D,2018-09-21 16:09:42,2018-09-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,16.0,-4666,92982,-5%,-74656.0,,,,,CLXT
-55,D,2018-09-11 17:20:12,2018-09-10,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,16.13,-4083,92982,-4%,-65842.0,,,,,CLXT
-56,D,2018-08-22 16:58:02,2018-08-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.31,-4666,92982,-5%,-80768.0,,,,,CLXT
-57,D,2018-08-10 14:22:51,2018-08-08,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.48,-4083,92982,-4%,-71372.0,,,,,CLXT
-58,AD,2018-07-24 20:20:29,2018-07-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.94,-4666,92982,-5%,-83708.0,,,,,CLXT
-59,D,2018-07-24 20:03:33,2018-07-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.94,-4666,92982,-5%,-83708.0,,,,,CLXT
-60,D,2018-07-11 16:08:32,2018-07-09,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.84,-4083,92982,-4%,-72822.0,,,,,CLXT
-61,,2018-06-25 14:57:28,2018-06-21,CLXT,Godard Alain,Dir,S - Sale,20.84,-5880,33320,-15%,-122540.0,,,,,CLXT
-62,D,2018-06-22 15:53:55,2018-06-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,20.56,-4666,92982,-5%,-95910.0,,,,,CLXT
-63,D,2018-06-22 15:49:14,2018-06-20,CLXT,Arbadji Michel,Dir of Business Developme,S - Sale+OE,22.0,-6500,24990,-21%,-143000.0,,,,,CLXT
-64,,2018-06-19 15:08:58,2018-06-18,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,20.51,-490,81634,-1%,-10050.0,,,,,CLXT
-65,,2018-06-18 15:54:53,2018-06-15,CLXT,Corkal Bryan W.J.,CFO,S - Sale,18.77,-5093,73807,-6%,-95613.0,,,,,CLXT
-66,,2018-06-18 15:43:44,2018-06-15,CLXT,Arbadji Michel,Dir of Business Developme,S - Sale,18.75,-4410,24990,-15%,-82706.0,,,,,CLXT
-67,,2018-06-15 18:31:44,2018-06-15,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale,19.49,-7539,92982,-7%,-146935.0,,,,,CLXT
-68,,2018-06-15 18:28:44,2018-06-15,CLXT,Tripodi Federico A.,CEO,S - Sale,19.49,-14700,181300,-8%,-286503.0,,,,,CLXT
-69,,2018-06-15 18:22:56,2018-06-15,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,19.49,-5096,82124,-6%,-99321.0,,,,,CLXT
-70,,2018-06-15 18:19:53,2018-06-15,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,19.49,-1000,18600,-5%,-19490.0,,,,,CLXT
-71,,2018-06-15 18:15:18,2018-06-15,CLXT,Dumont Philippe,Dir,S - Sale,19.49,-706,19294,-4%,-13760.0,,,,,CLXT
-72,,2018-06-15 18:11:14,2018-06-15,CLXT,Bowers Glenn R,VP of Breeding,S - Sale,19.49,-423,8617,-5%,-8244.0,,,,,CLXT
-73,,2018-06-15 14:38:38,2018-06-15,CLXT,Choulika Andre,Dir,S - Sale,19.49,-2352,154448,-2%,-45840.0,,,,,CLXT
-74,,2018-06-15 14:19:11,2018-06-15,CLXT,Cellectis S.A.,10%,P - Purchase,19.49,63175,22713175,0%,1231281.0,,,,,CLXT
-75,D,2018-05-23 15:16:04,2018-05-21,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,16.63,-4666,100521,-4%,-77589.0,,,,,CLXT
-76,D,2018-05-10 18:09:58,2018-05-08,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,15.58,-4083,100521,-4%,-63596.0,,,,,CLXT
-77,D,2018-04-24 18:13:04,2018-04-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,16.87,-4666,100521,-4%,-78701.0,,,,,CLXT
+0,,2022-03-16 18:26:15,2022-03-14,CLXT,Frey Travis,CTO,F - Tax,1.08,-2173,17227,-11%,-2347.0,,,,,CLXT
+1,,2022-03-16 18:23:08,2022-03-14,CLXT,Frimerman Debra H,"GC, Secretary",F - Tax,1.08,-2502,16498,-13%,-2702.0,,,,,CLXT
+2,,2022-03-16 18:19:21,2022-03-14,CLXT,Koschak William,CFO,F - Tax,1.05,-2605,35395,-7%,-2740.0,,,,,CLXT
+3,,2021-08-31 16:53:30,2021-08-30,CLXT,Carr Michael A.,"Pres, CEO",P - Purchase,3.98,10000,60000,+20%,39776.0,,,,,CLXT
+4,,2021-08-23 16:31:41,2021-08-19,CLXT,Koschak William,CFO,P - Purchase,3.21,20000,38000,+111%,64112.0,,,,,CLXT
+5,,2021-07-28 17:23:04,2021-07-27,CLXT,Ribeill Yves J,Exec Chair,A - Grant,3.65,50429,149225,+51%,184066.0,,,,,CLXT
+6,D,2021-07-28 17:18:47,2021-07-27,CLXT,Carr Michael A.,"Pres, CEO",A - Grant,3.65,50000,50000,New,182500.0,,,,,CLXT
+7,,2021-07-06 16:59:00,2021-07-01,CLXT,Ribeill Yves J,Exec Chair,A - Grant,4.07,12048,98796,+14%,49035.0,,,,,CLXT
+8,D,2021-06-10 16:53:44,2021-06-08,CLXT,Reiter Sarah,Chief Business Officer,A - Grant,0.0,11601,21101,+122%,0.0,,,,,CLXT
+9,,2021-06-02 16:58:26,2021-06-01,CLXT,Ribeill Yves J,Exec Chair,A - Grant,0.0,11967,86748,+16%,0.0,,,,,CLXT
+10,D,2021-06-01 17:47:35,2021-05-27,CLXT,Nelson Kimberly K.,Dir,A - Grant,0.0,7204,7204,New,0.0,,,,,CLXT
+11,D,2021-06-01 17:42:44,2021-05-27,CLXT,Ribeill Yves J,Exec Chair,A - Grant,0.0,18730,74781,+33%,0.0,,,,,CLXT
+12,D,2021-06-01 17:37:55,2021-05-27,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,A - Grant,0.0,7204,24089,+43%,0.0,,,,,CLXT
+13,D,2021-06-01 17:33:26,2021-05-27,CLXT,Neugent Christopher J,Dir,A - Grant,0.0,7204,46804,+18%,0.0,,,,,CLXT
+14,D,2021-06-01 17:27:52,2021-05-27,CLXT,Jonathan Fassberg,Dir,A - Grant,0.0,7204,26804,+37%,0.0,,,,,CLXT
+15,D,2021-06-01 17:24:05,2021-05-27,CLXT,Dumont Philippe,Dir,A - Grant,0.0,7204,27614,+35%,0.0,,,,,CLXT
+16,A,2021-06-01 17:19:57,2019-07-18,CLXT,Dumont Philippe,Dir,S - Sale,10.0,-706,16354,-4%,-7060.0,,,,,CLXT
+17,A,2021-06-01 17:09:23,2019-07-18,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,10.0,-735,17865,-4%,-7350.0,,,,,CLXT
+18,,2021-05-13 17:58:26,2021-05-12,CLXT,Neugent Christopher J,Dir,P - Purchase,3.95,15000,22940,+189%,59291.0,,,,,CLXT
+19,,2021-05-05 16:51:08,2021-05-03,CLXT,Ribeill Yves J,Exec Chair,A - Grant,0.0,9430,56051,+20%,0.0,,,,,CLXT
+20,AD,2021-04-02 17:09:38,2021-03-12,CLXT,Frey Travis,CTO,A - Grant,0.0,16500,19400,+569%,0.0,,,,,CLXT
+21,AD,2021-04-02 17:02:54,2021-03-12,CLXT,Frimerman Debra H,"GC, Secretary",A - Grant,0.0,19000,19000,New,0.0,,,,,CLXT
+22,AD,2021-04-02 16:52:22,2021-03-12,CLXT,Koschak William,CFO,A - Grant,0.0,18000,18000,New,0.0,,,,,CLXT
+23,A,2021-04-02 16:47:35,2021-03-12,CLXT,Neugent Christopher J,Dir,A - Grant,0.0,5000,7940,+170%,0.0,,,,,CLXT
+24,,2021-04-02 16:43:51,2021-04-01,CLXT,Ribeill Yves J,Dir,A - Grant,0.0,16591,46621,+55%,0.0,,,,,CLXT
+25,,2021-01-05 17:11:03,2021-01-04,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale,4.13,-2513,0,-100%,-10388.0,,,,,CLXT
+26,,2021-01-04 17:12:16,2020-12-31,CLXT,Blome James,CEO,S - Sale,4.17,-4140,186282,-2%,-17281.0,,,,,CLXT
+27,,2020-12-21 17:08:46,2020-12-18,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale,4.75,-5026,2513,-67%,-23874.0,,,,,CLXT
+28,,2020-12-02 17:10:16,2020-12-01,CLXT,Frey Travis,CTO,P - Purchase,3.79,150,2900,+5%,569.0,,,,,CLXT
+29,,2020-11-04 18:44:55,2020-11-02,CLXT,Frey Travis,CTO,P - Purchase,3.26,150,2750,+6%,489.0,,,,,CLXT
+30,,2020-10-02 17:57:22,2020-10-01,CLXT,Frey Travis,CTO,P - Purchase,5.47,150,2600,+6%,820.0,,,,,CLXT
+31,,2020-10-01 17:09:50,2020-09-30,CLXT,Blome James,CEO,S - Sale,5.59,-4140,190422,-2%,-23124.0,,,,,CLXT
+32,,2020-09-11 17:06:14,2020-09-10,CLXT,Dumont Philippe,Dir,P - Purchase,5.91,3000,6290,+91%,17729.0,,,,,CLXT
+33,,2020-09-01 17:10:43,2020-09-01,CLXT,Frey Travis,CTO,P - Purchase,5.41,150,2450,+7%,811.0,,,,,CLXT
+34,M,2020-08-21 17:20:12,2020-04-02,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,3.79,-490,3165,-13%,-1855.0,,,,,CLXT
+35,,2020-08-21 17:16:25,2020-08-14,CLXT,Dumont Philippe,Dir,P - Purchase,7.49,2000,3290,+155%,14970.0,,,,,CLXT
+36,M,2020-08-21 17:16:25,2020-04-02,CLXT,Dumont Philippe,Dir,S - Sale,3.79,-472,3290,-13%,-1787.0,,,,,CLXT
+37,,2020-08-03 17:13:59,2020-07-01,CLXT,Choulika Andre,Dir,S - Sale,4.65,-4228,130815,-3%,-19647.0,,,,,CLXT
+38,,2020-08-03 17:07:50,2020-08-03,CLXT,Frey Travis,CTO,P - Purchase,4.36,150,2300,+7%,654.0,,,,,CLXT
+39,M,2020-07-31 17:12:08,2020-06-29,CLXT,Blome James,CEO,S - Sale,4.81,-6397,194562,-3%,-30800.0,,,,,CLXT
+40,,2020-07-01 16:40:51,2020-07-01,CLXT,Frey Travis,CTO,P - Purchase,5.04,156,2150,+8%,786.0,,,,,CLXT
+41,,2020-06-02 16:26:25,2020-06-01,CLXT,Frey Travis,CTO,P - Purchase,4.43,144,1994,+8%,638.0,,,,,CLXT
+42,,2020-05-04 14:34:06,2020-05-01,CLXT,Frey Travis,CTO,P - Purchase,4.32,175,1850,+10%,755.0,,,,,CLXT
+43,,2020-04-02 16:23:30,2020-03-31,CLXT,Choulika Andre,Dir,F - Tax,2.95,-3690,135043,-3%,-10903.0,,,,,CLXT
+44,,2020-04-02 16:21:04,2020-03-31,CLXT,Blome James,CEO,F - Tax,2.96,-3177,200959,-2%,-9389.0,,,,,CLXT
+45,,2020-04-01 16:30:58,2020-04-01,CLXT,Frey Travis,CTO,P - Purchase,3.19,175,1675,+12%,559.0,,,,,CLXT
+46,,2020-03-04 16:12:27,2020-03-02,CLXT,Frey Travis,CTO,P - Purchase,6.43,200,1500,+15%,1286.0,,,,,CLXT
+47,,2020-03-02 10:45:09,2020-02-28,CLXT,Ribeill Yves J,Dir,S - Sale,5.46,-9990,30030,-25%,-54520.0,,,,,CLXT
+48,,2020-02-04 08:40:13,2020-02-03,CLXT,Frey Travis,CTO,P - Purchase,5.61,200,1300,+18%,1122.0,,,,,CLXT
+49,,2020-01-17 15:12:22,2020-01-15,CLXT,Frey Travis,CTO,P - Purchase,7.89,275,1100,+33%,2170.0,,,,,CLXT
+50,M,2020-01-14 14:05:33,2020-01-13,CLXT,Frey Travis,Chief Technology Officer,P - Purchase,7.21,550,825,+200%,3967.0,,,,,CLXT
+51,,2020-01-13 10:38:24,2020-01-10,CLXT,Frey Travis,CTO,P - Purchase,7.64,275,275,New,2101.0,,,,,CLXT
+52,,2020-01-07 19:37:11,2020-01-03,CLXT,Dumont Philippe,Dir,S - Sale,7.6,-236,1762,-12%,-1794.0,,,,,CLXT
+53,,2020-01-07 19:32:34,2020-01-03,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,7.65,-245,3655,-6%,-1874.0,,,,,CLXT
+54,,2019-10-03 13:46:41,2019-10-02,CLXT,Dumont Philippe,Dir,S - Sale,4.96,-236,1998,-11%,-1171.0,,,,,CLXT
+55,,2019-10-03 13:43:11,2019-10-02,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,4.96,-245,3900,-6%,-1215.0,,,,,CLXT
+56,,2019-07-22 11:30:00,2019-07-18,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,10.0,-735,4145,-15%,-7350.0,,,,,CLXT
+57,,2019-07-22 11:17:08,2019-07-18,CLXT,Dumont Philippe,Dir,S - Sale,10.0,-706,2234,-24%,-7060.0,,,,,CLXT
+58,,2019-07-02 13:20:11,2019-07-01,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,12.7,-1494,65323,-2%,-18967.0,,,,,CLXT
+59,,2019-07-02 13:09:07,2019-06-28,CLXT,Voytas Daniel F,Chief Science Officer,A - Grant,0.0,50000,142982,+54%,0.0,,,,,CLXT
+60,D,2019-07-02 12:36:08,2019-06-28,CLXT,Blome James,CEO,A - Grant,0.0,50000,204136,+32%,0.0,,,,,CLXT
+61,,2019-06-18 17:22:02,2019-06-14,CLXT,Choulika Andre,Dir,F - Tax,12.9,-15715,138733,-10%,-202724.0,,,,,CLXT
+62,D,2019-04-30 16:26:39,2019-04-29,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.59,3750,92982,+4%,13463.0,,,,,CLXT
+63,D,2019-04-30 16:26:39,2019-04-29,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,16.31,-3750,92982,-4%,-61152.0,,,,,CLXT
+64,,2019-04-04 16:07:59,2019-04-02,CLXT,Blome James,CEO,S - Sale,16.65,-2582,154136,-2%,-42982.0,,,,,CLXT
+65,,2019-04-02 08:38:24,2019-04-01,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,17.33,-1522,66817,-2%,-26378.0,,,,,CLXT
+66,,2019-03-27 16:22:19,2019-03-26,CLXT,Blome James,CEO,S - Sale,17.87,-2582,156718,-2%,-46129.0,,,,,CLXT
+67,M,2019-03-21 16:07:02,2019-03-19,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,18.0,-8330,68339,-11%,-149940.0,,,,,CLXT
+68,,2019-03-20 21:26:33,2019-03-19,CLXT,Blome James,CEO,S - Sale,17.32,-2582,159300,-2%,-44713.0,,,,,CLXT
+69,,2019-03-15 16:03:41,2019-03-12,CLXT,Blome James,CEO,S - Sale,16.58,-2582,161882,-2%,-42802.0,,,,,CLXT
+70,DM,2019-03-15 16:01:05,2019-03-11,CLXT,Ribeill Yves J,Dir,S - Sale+OE,16.64,-19980,40020,-33%,-332504.0,,,,,CLXT
+71,DM,2019-02-04 17:41:47,2019-01-31,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.71,8170,92982,+10%,30346.0,,,,,CLXT
+72,DM,2019-02-04 17:41:47,2019-01-31,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,13.0,-8170,92982,-8%,-106210.0,,,,,CLXT
+73,,2019-01-08 16:09:42,2019-01-04,CLXT,Dumont Philippe,Dir,S - Sale,12.0,-1117,17060,-6%,-13404.0,,,,,CLXT
+74,,2019-01-04 16:03:47,2019-01-02,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,10.39,-2444,76669,-3%,-25389.0,,,,,CLXT
+75,D,2018-12-20 16:16:42,2018-12-18,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.71,4083,92982,+5%,15165.0,,,,,CLXT
+76,D,2018-12-20 16:16:42,2018-12-18,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,13.0,-4083,92982,-4%,-53079.0,,,,,CLXT
+77,D,2018-11-13 08:59:03,2018-11-08,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.71,4083,92982,+5%,15165.0,,,,,CLXT
+78,D,2018-11-13 08:59:03,2018-11-08,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,13.0,-4083,92982,-4%,-53079.0,,,,,CLXT
+79,D,2018-10-11 16:04:41,2018-10-09,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.71,4083,92982,+5%,15165.0,,,,,CLXT
+80,D,2018-10-11 16:04:41,2018-10-09,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,13.84,-4083,92982,-4%,-56514.0,,,,,CLXT
+81,D,2018-10-10 17:28:56,2018-10-08,CLXT,Neugent Christopher J,Dir,A - Grant,0.0,19600,19600,New,0.0,,,,,CLXT
+82,D,2018-10-10 17:26:42,2018-10-08,CLXT,Jonathan Fassberg,Dir,A - Grant,0.0,19600,19600,New,0.0,,,,,CLXT
+83,D,2018-10-10 17:23:15,2018-08-21,CLXT,Ribeill Yves J,Dir,A - Grant,0.0,60000,60000,New,0.0,,,,,CLXT
+84,,2018-10-09 16:14:38,2018-10-05,CLXT,Dumont Philippe,Dir,S - Sale,14.11,-1117,18177,-6%,-15765.0,,,,,CLXT
+85,,2018-10-03 18:25:50,2018-10-01,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,14.84,-2521,79113,-3%,-37416.0,,,,,CLXT
+86,D,2018-09-21 16:09:42,2018-09-20,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.59,4666,92982,+5%,16751.0,,,,,CLXT
+87,D,2018-09-21 16:09:42,2018-09-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,16.0,-4666,92982,-5%,-74656.0,,,,,CLXT
+88,D,2018-09-11 17:20:12,2018-09-10,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.71,4083,92982,+5%,15165.0,,,,,CLXT
+89,D,2018-09-11 17:20:12,2018-09-10,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,16.13,-4083,92982,-4%,-65842.0,,,,,CLXT
+90,D,2018-08-22 16:58:02,2018-08-20,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.59,4666,92982,+5%,16751.0,,,,,CLXT
+91,D,2018-08-22 16:58:02,2018-08-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.31,-4666,92982,-5%,-80768.0,,,,,CLXT
+92,D,2018-08-10 14:22:51,2018-08-08,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.71,4083,92982,+5%,15165.0,,,,,CLXT
+93,D,2018-08-10 14:22:51,2018-08-08,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.48,-4083,92982,-4%,-71372.0,,,,,CLXT
+94,AD,2018-07-24 20:20:29,2018-07-20,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.59,4666,92982,+5%,16751.0,,,,,CLXT
+95,AD,2018-07-24 20:20:29,2018-07-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.94,-4666,92982,-5%,-83708.0,,,,,CLXT
+96,D,2018-07-24 20:03:33,2018-07-20,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.59,4666,92982,+5%,16751.0,,,,,CLXT
+97,D,2018-07-24 20:03:33,2018-07-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.94,-4666,92982,-5%,-83708.0,,,,,CLXT
+98,D,2018-07-11 16:08:32,2018-07-09,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.71,4083,92982,+5%,15165.0,,,,,CLXT
+99,D,2018-07-11 16:08:32,2018-07-09,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.84,-4083,92982,-4%,-72822.0,,,,,CLXT
+100,,2018-06-25 14:57:28,2018-06-21,CLXT,Godard Alain,Dir,S - Sale,20.84,-5880,33320,-15%,-122540.0,,,,,CLXT
+101,D,2018-06-22 15:53:55,2018-06-20,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.59,4666,92982,+5%,16751.0,,,,,CLXT
+102,D,2018-06-22 15:53:55,2018-06-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,20.56,-4666,92982,-5%,-95910.0,,,,,CLXT
+103,D,2018-06-22 15:49:14,2018-06-20,CLXT,Arbadji Michel,Dir of Business Developme,M - OptEx,3.59,6500,24990,+35%,23321.0,,,,,CLXT
+104,D,2018-06-22 15:49:14,2018-06-20,CLXT,Arbadji Michel,Dir of Business Developme,S - Sale+OE,22.0,-6500,24990,-21%,-143000.0,,,,,CLXT
+105,,2018-06-19 15:08:58,2018-06-18,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,20.51,-490,81634,-1%,-10050.0,,,,,CLXT
+106,,2018-06-18 15:54:53,2018-06-15,CLXT,Corkal Bryan W.J.,CFO,S - Sale,18.77,-5093,73807,-6%,-95613.0,,,,,CLXT
+107,,2018-06-18 15:43:44,2018-06-15,CLXT,Arbadji Michel,Dir of Business Developme,S - Sale,18.75,-4410,24990,-15%,-82706.0,,,,,CLXT
+108,,2018-06-15 18:31:44,2018-06-15,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale,19.49,-7539,92982,-7%,-146935.0,,,,,CLXT
+109,,2018-06-15 18:28:44,2018-06-15,CLXT,Tripodi Federico A.,CEO,S - Sale,19.49,-14700,181300,-8%,-286503.0,,,,,CLXT
+110,,2018-06-15 18:22:56,2018-06-15,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,19.49,-5096,82124,-6%,-99321.0,,,,,CLXT
+111,,2018-06-15 18:19:53,2018-06-15,CLXT,Kozicz-Stankiewicz Anna Ewa,Dir,S - Sale,19.49,-1000,18600,-5%,-19490.0,,,,,CLXT
+112,,2018-06-15 18:15:18,2018-06-15,CLXT,Dumont Philippe,Dir,S - Sale,19.49,-706,19294,-4%,-13760.0,,,,,CLXT
+113,,2018-06-15 18:11:14,2018-06-15,CLXT,Bowers Glenn R,VP of Breeding,S - Sale,19.49,-423,8617,-5%,-8244.0,,,,,CLXT
+114,,2018-06-15 14:38:38,2018-06-15,CLXT,Choulika Andre,Dir,S - Sale,19.49,-2352,154448,-2%,-45840.0,,,,,CLXT
+115,,2018-06-15 14:19:11,2018-06-15,CLXT,Cellectis S.A.,10%,P - Purchase,19.49,63175,22713175,0%,1231281.0,,,,,CLXT
+116,D,2018-05-23 15:16:04,2018-05-21,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.59,4666,100521,+5%,16751.0,,,,,CLXT
+117,D,2018-05-23 15:16:04,2018-05-21,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,16.63,-4666,100521,-4%,-77589.0,,,,,CLXT
+118,D,2018-05-10 18:09:58,2018-05-08,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.71,4083,100521,+4%,15165.0,,,,,CLXT
+119,D,2018-05-10 18:09:58,2018-05-08,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,15.58,-4083,100521,-4%,-63596.0,,,,,CLXT
+120,D,2018-04-24 18:13:04,2018-04-20,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.59,4666,100521,+5%,16751.0,,,,,CLXT
+121,D,2018-04-24 18:13:04,2018-04-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,16.87,-4666,100521,-4%,-78701.0,,,,,CLXT
+122,D,2018-04-11 19:47:50,2018-04-09,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.71,4083,100521,+4%,15165.0,,,,,CLXT
+123,D,2018-04-11 19:47:50,2018-04-09,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,14.38,-4083,100521,-4%,-58734.0,,,,,CLXT
+124,D,2018-03-22 19:25:03,2018-03-20,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,3.59,4666,0,-100%,16741.0,,,,,CLXT
+125,D,2018-03-22 19:25:03,2018-03-20,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,17.91,-4666,0,-100%,-83561.0,,,,,CLXT
+126,AD,2018-03-13 18:25:50,2018-03-08,CLXT,Voytas Daniel F,Chief Science Officer,M - OptEx,0.0,4083,0,-100%,0.0,,,,,CLXT
+127,AD,2018-03-13 18:25:50,2018-03-08,CLXT,Voytas Daniel F,Chief Science Officer,S - Sale+OE,18.1,-4083,0,-100%,-73914.0,,,,,CLXT
+128,DM,2018-03-13 18:22:22,2018-03-05,CLXT,Godard Alain,Dir,M - OptEx,3.59,30000,39200,+326%,107628.0,,,,,CLXT
+129,DM,2018-03-13 18:22:22,2018-03-05,CLXT,Godard Alain,Dir,S - Sale+OE,19.0,-30000,39200,-43%,-570000.0,,,,,CLXT
+130,D,2018-03-02 14:02:32,2018-02-28,CLXT,Arbadji Michel,Dir of Business Developme,M - OptEx,3.59,3500,29400,+14%,12557.0,,,,,CLXT
+131,D,2018-03-02 14:02:32,2018-02-28,CLXT,Arbadji Michel,Dir of Business Developme,S - Sale+OE,18.63,-3500,29400,-11%,-65220.0,,,,,CLXT
+132,DM,2018-02-22 18:09:39,2018-02-20,CLXT,Godard Alain,Dir,M - OptEx,3.62,19825,39200,+102%,71770.0,,,,,CLXT
+133,DM,2018-02-22 18:09:39,2018-02-20,CLXT,Godard Alain,Dir,S - Sale+OE,19.65,-19825,39200,-34%,-389604.0,,,,,CLXT
+134,M,2018-02-22 17:53:44,2018-02-20,CLXT,Sahoo Manoj,Chief Commercial Officer,S - Sale,19.87,-10780,87220,-11%,-214213.0,,,,,CLXT
+135,,2018-02-22 17:39:18,2018-02-20,CLXT,Corkal Bryan W.J.,CFO,S - Sale,20.73,-19600,78400,-20%,-406229.0,,,,,CLXT
+136,D,2017-07-27 21:52:12,2017-06-14,CLXT,Dumont Philippe,Dir,A - Grant,0.0,19600,39600,+98%,0.0,,,,,CLXT
+137,D,2017-07-27 21:52:12,2017-07-25,CLXT,Dumont Philippe,Dir,P - Purchase,8.0,400,39600,+1%,3200.0,,,,,CLXT

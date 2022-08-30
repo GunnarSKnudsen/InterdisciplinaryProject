@@ -1,16 +1,249 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,M,2020-01-02 17:50:24,2019-12-30,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$10.37,126387,1966647,+7%,"+$1,311,151",,,,,ADES
-1,M,2019-11-22 17:06:35,2019-11-20,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$10.47,266843,1840260,+17%,"+$2,793,375",,,,,ADES
-2,,2019-10-29 20:36:35,2019-09-06,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$12.88,10800,1573417,+1%,"+$139,052",,,,,ADES
-3,M,2019-09-05 19:01:54,2019-09-03,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$12.35,50200,1562617,+3%,"+$620,044",,,,,ADES
-4,,2019-08-29 18:00:49,2019-08-27,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$12.49,25000,1512417,+2%,"+$312,208",,,,,ADES
-5,M,2019-08-27 19:16:34,2019-08-23,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$12.44,25747,1487417,+2%,"+$320,181",,,,,ADES
-6,M,2019-08-23 18:13:07,2019-08-21,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$12.25,28200,1461670,+2%,"+$345,317",,,,,ADES
-7,M,2019-08-21 19:01:36,2019-08-19,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$11.92,56243,1433470,+4%,"+$670,460",,,,,ADES
-8,,2019-01-03 18:47:55,2018-12-31,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$10.34,55000,1371379,+4%,"+$568,794",,,,,ADES
-9,,2019-01-03 18:47:55,2018-12-31,ADES,Alta Fundamental Advisers LLC,Dir,S - Sale,$10.28,-45000,1371379,-3%,"-$462,740",,,,,ADES
-10,M,2018-12-31 16:48:25,2018-12-27,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$9.97,65000,1361379,+5%,"+$647,843",,,,,ADES
-11,,2018-12-31 16:48:25,2018-12-28,ADES,Alta Fundamental Advisers LLC,Dir,S - Sale,$9.94,-50000,1361379,-4%,"-$496,980",,,,,ADES
-12,,2018-07-03 17:56:42,2018-06-29,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$11.29,27011,1346379,+2%,"+$304,822",,,,,ADES
-13,,2018-07-02 18:58:31,2018-06-28,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$11.11,20020,1306354,+2%,"+$222,464",,,,,ADES
-14,,2018-05-29 17:13:40,2018-05-24,ADES,Hanson Ron,SVP of Operations of ADA-ES,S - Sale,$11.12,-1228,33863,-3%,"-$13,655",,,,,ADES
+0,,2021-11-23 17:51:18,2021-11-19,ADES,Sanders Theodore James,GC,D - Sale to issuer,$0.00,-25823,28231,-48%,-$0,,,,,ADES
+1,,2021-08-19 16:53:41,2021-08-17,ADES,Fields Morgan,Chief Accounting Officer,A - Grant,$0.00,13781,28382,+94%,+$0,,,,,ADES
+2,,2021-07-06 18:13:42,2021-07-01,ADES,Eicher Carol S,Dir,A - Grant,$0.00,9924,29649,+50%,+$0,,,,,ADES
+3,,2021-07-06 18:13:15,2021-07-01,ADES,Simonton Taylor J.,Dir,A - Grant,$0.00,9924,50662,+24%,+$0,,,,,ADES
+4,,2021-07-06 18:12:47,2021-07-01,ADES,Wells Louis Spencer,Dir,A - Grant,$0.00,9924,50618,+24%,+$0,,,,,ADES
+5,,2021-07-06 18:12:25,2021-07-01,ADES,Alta Fundamental Advisers LLC,Dir,A - Grant,$0.00,9924,1991813,+1%,+$0,,,,,ADES
+6,D,2021-03-25 18:58:16,2021-03-23,ADES,Sanders Theodore James,GC,A - Grant,$0.00,16278,54054,+43%,+$0,,,,,ADES
+7,D,2021-03-25 18:58:16,2021-03-23,ADES,Sanders Theodore James,GC,F - Tax,$5.27,-3051,54054,-5%,"-$16,079",,,,,ADES
+8,D,2021-03-25 18:57:52,2021-03-23,ADES,Wong Joseph M,CTO,A - Grant,$0.00,16885,39046,+76%,+$0,,,,,ADES
+9,D,2021-03-25 18:55:04,2021-03-23,ADES,Marken Greg,Interim CEO,A - Grant,$0.00,29287,83709,+54%,+$0,,,,,ADES
+10,D,2021-03-25 18:55:04,2021-03-23,ADES,Marken Greg,Interim CEO,F - Tax,$5.27,-5560,83709,-6%,"-$29,301",,,,,ADES
+11,,2020-07-06 18:30:01,2020-07-01,ADES,Leen Brian,Dir,A - Grant,$0.00,15242,19725,+340%,+$0,,,,,ADES
+12,,2020-07-06 18:29:04,2020-07-01,ADES,Eicher Carol S,Dir,A - Grant,$0.00,15242,19725,+340%,+$0,,,,,ADES
+13,,2020-07-06 18:28:12,2020-07-01,ADES,Wells Louis Spencer,Dir,A - Grant,$0.00,15242,40694,+60%,+$0,,,,,ADES
+14,,2020-07-06 18:27:27,2020-07-01,ADES,Alta Fundamental Advisers LLC,Dir,A - Grant,$0.00,15242,1981889,+1%,+$0,,,,,ADES
+15,,2020-07-06 18:26:38,2020-07-01,ADES,Simonton Taylor J.,Dir,A - Grant,$0.00,15242,40738,+60%,+$0,,,,,ADES
+16,,2020-07-06 18:25:52,2020-07-01,ADES,Pate R Carter,Dir,A - Grant,$0.00,15242,34683,+78%,+$0,,,,,ADES
+17,D,2020-03-25 18:42:10,2020-03-23,ADES,Sampson L Heath,"Pres, CEO",A - Grant,$0.00,23864,325905,+8%,+$0,,,,,ADES
+18,D,2020-03-25 18:42:10,2020-03-23,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$5.22,-30504,325905,-9%,"-$159,231",,,,,ADES
+19,D,2020-03-25 18:41:51,2020-03-23,ADES,Marken Greg,CFO,A - Grant,$0.00,9130,59982,+18%,+$0,,,,,ADES
+20,D,2020-03-25 18:41:51,2020-03-23,ADES,Marken Greg,CFO,F - Tax,$5.22,-6410,59982,-10%,"-$33,460",,,,,ADES
+21,D,2020-03-25 18:41:26,2020-03-23,ADES,Wong Joseph M,CTO,A - Grant,$0.00,8864,22161,+67%,+$0,,,,,ADES
+22,D,2020-03-25 18:41:03,2020-03-23,ADES,Sanders Theodore James,GC,A - Grant,$0.00,8273,40827,+25%,+$0,,,,,ADES
+23,D,2020-03-25 18:41:03,2020-03-23,ADES,Sanders Theodore James,GC,F - Tax,$5.22,-3235,40827,-7%,"-$16,887",,,,,ADES
+24,,2020-01-03 19:30:43,2020-01-01,ADES,Leen Brian,Dir,A - Grant,$0.00,974,4483,+28%,+$0,,,,,ADES
+25,,2020-01-03 18:26:45,2020-01-01,ADES,Wells Louis Spencer,Dir,A - Grant,$0.00,974,25452,+4%,+$0,,,,,ADES
+26,,2020-01-03 18:26:23,2020-01-01,ADES,Simonton Taylor J.,Dir,A - Grant,$0.00,974,25496,+4%,+$0,,,,,ADES
+27,,2020-01-03 18:26:03,2020-01-01,ADES,Eicher Carol S,Dir,A - Grant,$0.00,974,4483,+28%,+$0,,,,,ADES
+28,,2020-01-03 18:25:42,2020-01-01,ADES,Pate R Carter,Dir,A - Grant,$0.00,974,19441,+5%,+$0,,,,,ADES
+29,M,2020-01-02 17:50:24,2019-12-30,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$10.37,126387,1966647,+7%,"+$1,311,151",,,,,ADES
+30,M,2019-11-22 17:06:35,2019-11-20,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$10.47,266843,1840260,+17%,"+$2,793,375",,,,,ADES
+31,,2019-10-29 20:36:35,2019-09-06,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$12.88,10800,1573417,+1%,"+$139,052",,,,,ADES
+32,,2019-10-18 18:44:37,2019-10-16,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$13.89,-5497,332545,-2%,"-$76,353",,,,,ADES
+33,M,2019-09-05 19:01:54,2019-09-03,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$12.35,50200,1562617,+3%,"+$620,044",,,,,ADES
+34,,2019-08-29 18:00:49,2019-08-27,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$12.49,25000,1512417,+2%,"+$312,208",,,,,ADES
+35,M,2019-08-27 19:16:34,2019-08-23,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$12.44,25747,1487417,+2%,"+$320,181",,,,,ADES
+36,M,2019-08-23 18:13:07,2019-08-21,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$12.25,28200,1461670,+2%,"+$345,317",,,,,ADES
+37,M,2019-08-21 19:01:36,2019-08-19,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$11.92,56243,1433470,+4%,"+$670,460",,,,,ADES
+38,D,2019-08-20 18:13:03,2019-08-16,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$11.76,-159512,338042,-32%,"-$1,875,861",,,,,ADES
+39,D,2019-08-20 18:13:03,2019-08-16,ADES,Sampson L Heath,"Pres, CEO",M - OptEx,$9.50,185332,338042,+121%,"+$1,760,654",,,,,ADES
+40,,2019-07-03 21:09:25,2019-07-01,ADES,Leen Brian,Dir,A - Grant,$0.00,3509,3509,New,+$0,,,,,ADES
+41,,2019-07-03 17:29:15,2019-07-01,ADES,Wells Louis Spencer,Dir,A - Grant,$0.00,3509,24478,+17%,+$0,,,,,ADES
+42,,2019-07-03 17:26:52,2019-07-01,ADES,Alta Fundamental Advisers LLC,Dir,A - Grant,$0.00,5848,1377227,0%,+$0,,,,,ADES
+43,,2019-07-03 17:24:06,2019-07-01,ADES,Simonton Taylor J.,Dir,A - Grant,$0.00,3509,24522,+17%,+$0,,,,,ADES
+44,,2019-07-03 17:21:51,2019-07-01,ADES,Pate R Carter,Dir,A - Grant,$0.00,3509,18467,+23%,+$0,,,,,ADES
+45,,2019-07-03 17:19:50,2019-07-01,ADES,Eicher Carol S,Dir,A - Grant,$0.00,3509,3509,New,+$0,,,,,ADES
+46,,2019-03-26 19:26:34,2019-03-23,ADES,Sampson L Heath,"Pres, CEO",A - Grant,$0.00,55000,312222,+21%,+$0,,,,,ADES
+47,,2019-03-26 19:22:02,2019-03-23,ADES,Marken Greg,CFO,A - Grant,$0.00,14714,57262,+35%,+$0,,,,,ADES
+48,,2019-03-26 19:22:02,2019-03-23,ADES,Marken Greg,CFO,F - Tax,$10.84,-4081,57262,-7%,"-$44,238",,,,,ADES
+49,,2019-03-26 19:17:56,2019-03-23,ADES,Sanders Theodore James,GC,A - Grant,$0.00,12085,35789,+51%,+$0,,,,,ADES
+50,,2019-03-26 19:17:56,2019-03-23,ADES,Sanders Theodore James,GC,F - Tax,$10.84,-2876,35789,-7%,"-$31,176",,,,,ADES
+51,,2019-01-04 17:45:32,2019-01-02,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$10.70,-7557,257222,-3%,"-$80,860",,,,,ADES
+52,,2019-01-03 18:47:55,2018-12-31,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$10.34,55000,1371379,+4%,"+$568,794",,,,,ADES
+53,,2019-01-03 18:47:55,2018-12-31,ADES,Alta Fundamental Advisers LLC,Dir,S - Sale,$10.28,-45000,1371379,-3%,"-$462,740",,,,,ADES
+54,M,2018-12-31 16:48:25,2018-12-27,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$9.97,65000,1361379,+5%,"+$647,843",,,,,ADES
+55,,2018-12-31 16:48:25,2018-12-28,ADES,Alta Fundamental Advisers LLC,Dir,S - Sale,$9.94,-50000,1361379,-4%,"-$496,980",,,,,ADES
+56,,2018-10-18 17:43:36,2018-10-16,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$10.62,-5497,264779,-2%,"-$58,378",,,,,ADES
+57,D,2018-08-16 17:31:08,2018-08-14,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$11.29,-73999,270276,-21%,"-$835,449",,,,,ADES
+58,D,2018-08-16 17:31:08,2018-08-14,ADES,Sampson L Heath,"Pres, CEO",M - OptEx,$8.25,92666,270276,+52%,"+$764,495",,,,,ADES
+59,,2018-07-03 17:56:42,2018-07-01,ADES,Alta Fundamental Advisers LLC,Dir,A - Grant,$0.00,13014,1346379,+1%,+$0,,,,,ADES
+60,,2018-07-03 17:56:42,2018-06-29,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$11.29,27011,1346379,+2%,"+$304,822",,,,,ADES
+61,,2018-07-03 17:45:32,2018-07-01,ADES,Wells Louis Spencer,Dir,A - Grant,$0.00,3904,20969,+23%,+$0,,,,,ADES
+62,,2018-07-03 17:40:46,2018-07-01,ADES,Simonton Taylor J.,Dir,A - Grant,$0.00,3904,21013,+23%,+$0,,,,,ADES
+63,,2018-07-03 17:29:56,2018-07-01,ADES,Pate R Carter,Dir,A - Grant,$0.00,3904,14958,+35%,+$0,,,,,ADES
+64,,2018-07-02 18:58:31,2018-06-28,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$11.11,20020,1306354,+2%,"+$222,464",,,,,ADES
+65,,2018-05-29 17:13:40,2018-05-24,ADES,Hanson Ron,SVP of Operations of ADA-ES,S - Sale,$11.12,-1228,33863,-3%,"-$13,655",,,,,ADES
+66,,2018-03-27 17:34:39,2018-03-23,ADES,Sanders Theodore James,GC,A - Grant,$0.00,12222,26580,+85%,+$0,,,,,ADES
+67,,2018-03-27 17:34:39,2018-03-23,ADES,Sanders Theodore James,GC,F - Tax,$10.95,-935,26580,-3%,"-$10,238",,,,,ADES
+68,,2018-03-27 17:32:54,2018-03-23,ADES,Marken Greg,CFO,A - Grant,$0.00,16667,46629,+56%,+$0,,,,,ADES
+69,,2018-03-27 17:32:54,2018-03-23,ADES,Marken Greg,CFO,F - Tax,$10.95,-1619,46629,-3%,"-$17,728",,,,,ADES
+70,,2018-03-27 17:28:57,2018-03-23,ADES,Hanson Ron,SVP of Operations of ADA-ES,A - Grant,$0.00,11556,35091,+49%,+$0,,,,,ADES
+71,,2018-03-27 17:28:57,2018-03-23,ADES,Hanson Ron,SVP of Operations of ADA-ES,F - Tax,$10.95,-1369,35091,-4%,"-$14,991",,,,,ADES
+72,,2018-03-27 17:27:30,2018-03-23,ADES,Sampson L Heath,"Pres, CEO",A - Grant,$0.00,55555,251609,+28%,+$0,,,,,ADES
+73,,2018-03-27 17:22:21,2018-03-23,ADES,Sjostrom Sharon,Chief Product Officer,A - Grant,$0.00,11556,66506,+21%,+$0,,,,,ADES
+74,,2018-03-27 17:22:21,2018-03-23,ADES,Sjostrom Sharon,Chief Product Officer,F - Tax,$10.95,-965,66506,-1%,"-$10,567",,,,,ADES
+75,D,2018-03-05 18:32:45,2018-03-01,ADES,Sjostrom Sharon,Chief Product Officer,F - Tax,$9.73,-1394,55915,-2%,"-$13,564",,,,,ADES
+76,D,2018-03-05 18:32:45,2018-03-01,ADES,Sjostrom Sharon,Chief Product Officer,M - OptEx,$0.00,4068,55915,+8%,+$0,,,,,ADES
+77,D,2018-03-05 18:10:16,2018-03-01,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$9.73,-2667,196054,-1%,"-$25,950",,,,,ADES
+78,D,2018-03-05 18:10:16,2018-03-01,ADES,Sampson L Heath,"Pres, CEO",M - OptEx,$0.00,12304,196054,+7%,+$0,,,,,ADES
+79,,2018-01-17 19:16:46,2018-01-12,ADES,Marken Greg,Chief Accounting Officer,F - Tax,$8.84,-950,31581,-3%,"-$8,398",,,,,ADES
+80,,2018-01-04 17:49:24,2018-01-02,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$9.50,-9878,186417,-5%,"-$93,841",,,,,ADES
+81,,2018-01-04 17:43:32,2018-01-02,ADES,Sjostrom Sharon,Chief Product Officer,F - Tax,$9.50,-599,53241,-1%,"-$5,691",,,,,ADES
+82,M,2017-12-15 17:52:40,2017-12-13,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$9.89,262266,1286334,+26%,"+$2,593,145",,,,,ADES
+83,,2017-12-08 17:18:51,2017-12-06,ADES,Gabbard Alan Bradley,Dir,S - Sale,$8.17,-10000,34480,-22%,"-$81,717",,,,,ADES
+84,,2017-10-18 18:54:49,2017-10-16,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$11.42,-3997,196295,-2%,"-$45,646",,,,,ADES
+85,,2017-07-05 18:59:25,2017-07-01,ADES,Pate R Carter,Dir,A - Grant,$0.00,4842,11054,+78%,+$0,,,,,ADES
+86,,2017-07-05 18:45:44,2017-07-01,ADES,Johnson Derek,Dir,A - Grant,$0.00,6456,47000,+16%,+$0,,,,,ADES
+87,,2017-07-05 18:42:33,2017-07-01,ADES,Simonton Taylor J.,Dir,A - Grant,$0.00,4842,17109,+39%,+$0,,,,,ADES
+88,,2017-07-05 18:39:46,2017-07-01,ADES,Wells Louis Spencer,Dir,A - Grant,$0.00,4842,17065,+40%,+$0,,,,,ADES
+89,,2017-07-05 18:22:43,2017-07-01,ADES,Gabbard Alan Bradley,Dir,A - Grant,$0.00,4842,44480,+12%,+$0,,,,,ADES
+90,,2017-06-30 17:40:51,2017-06-28,ADES,Gabbard Alan Bradley,Dir,S - Sale,$9.21,-4700,39638,-11%,"-$43,266",,,,,ADES
+91,,2017-06-27 18:55:16,2017-06-26,ADES,Gabbard Alan Bradley,Dir,G - Gift,$0.00,-1500,44338,-3%,-$0,,,,,ADES
+92,,2017-06-27 18:55:16,2017-06-23,ADES,Gabbard Alan Bradley,Dir,S - Sale,$9.52,-300,44338,-1%,"-$2,856",,,,,ADES
+93,,2017-06-14 19:58:49,2017-06-12,ADES,Alta Fundamental Advisers LLC,Dir,D - Sale to issuer,$9.40,-70178,1024068,-6%,"-$659,673",,,,,ADES
+94,,2017-06-14 17:16:23,2017-06-12,ADES,Marken Greg,Chief Accounting Officer,F - Tax,$9.49,-1599,32531,-5%,"-$15,175",,,,,ADES
+95,,2017-06-14 17:11:36,2017-06-12,ADES,Hanson Ron,SVP of Operations of ADA-ES,F - Tax,$9.49,-1599,25569,-6%,"-$15,175",,,,,ADES
+96,,2017-05-12 16:32:09,2017-05-10,ADES,Sjostrom Sharon,Chief Product Officer,D - Sale to issuer,$0.00,-6396,70372,-8%,-$0,,,,,ADES
+97,,2017-04-18 18:50:16,2017-04-14,ADES,Marken Greg,Chief Accounting Officer,F - Tax,$8.19,-4797,34130,-12%,"-$39,287",3.0,14.0,,,ADES
+98,,2017-04-18 18:48:35,2017-04-14,ADES,Sanders Theodore James,GC,F - Tax,$8.19,-2709,15481,-15%,"-$22,187",3.0,14.0,,,ADES
+99,,2017-04-18 18:45:45,2017-04-14,ADES,Hanson Ron,SVP of Operations of ADA-ES,F - Tax,$8.19,-4725,27168,-15%,"-$38,698",3.0,14.0,,,ADES
+100,,2017-03-27 19:45:20,2017-03-23,ADES,Sampson L Heath,"Pres, CEO",A - Grant,$0.00,60000,200292,+43%,+$0,-1.0,0.0,0.0,,ADES
+101,,2017-03-27 19:40:48,2017-03-23,ADES,Marken Greg,Chief Accounting Officer,A - Grant,$0.00,12500,38927,+47%,+$0,-1.0,0.0,0.0,,ADES
+102,,2017-03-27 19:37:10,2017-03-23,ADES,Sjostrom Sharon,Chief Product Officer,A - Grant,$0.00,10000,76768,+15%,+$0,-1.0,0.0,0.0,,ADES
+103,,2017-03-27 19:34:36,2017-03-23,ADES,Hanson Ron,SVP of Operations of ADA-ES,A - Grant,$0.00,10000,31893,+46%,+$0,-1.0,0.0,0.0,,ADES
+104,,2017-03-27 19:31:11,2017-03-23,ADES,Sanders Theodore James,GC,A - Grant,$0.00,10000,18190,+122%,+$0,-1.0,0.0,0.0,,ADES
+105,D,2017-03-02 18:37:44,2017-02-28,ADES,Sjostrom Sharon,Chief Product Officer,F - Tax,$10.77,-606,66768,-1%,"-$6,527",-1.0,1.0,-11.0,,ADES
+106,D,2017-03-02 18:37:44,2017-02-28,ADES,Sjostrom Sharon,Chief Product Officer,M - OptEx,$0.00,1626,66768,+2%,+$0,-1.0,1.0,-11.0,,ADES
+107,D,2017-03-02 18:33:45,2017-02-28,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$10.77,-1071,140292,-1%,"-$11,535",-1.0,1.0,-11.0,,ADES
+108,D,2017-03-02 18:33:45,2017-02-28,ADES,Sampson L Heath,"Pres, CEO",M - OptEx,$0.00,3350,140292,+2%,+$0,-1.0,1.0,-11.0,,ADES
+109,,2017-01-24 20:21:41,2017-01-20,ADES,Alta Fundamental Advisers LLC,Dir,P - Purchase,$9.00,231271,1094246,+27%,"+$2,081,439",2.0,1.0,19.0,,ADES
+110,,2017-01-17 12:58:55,2017-01-12,ADES,Marken Greg,Chief Accounting Officer,F - Tax,$9.20,-1034,26427,-4%,"-$9,513",-1.0,2.0,26.0,,ADES
+111,,2017-01-04 18:22:09,2017-01-02,ADES,Sjostrom Sharon,Chief Product Officer,F - Tax,$9.24,-957,65748,-1%,"-$8,843",0.0,-4.0,1.0,,ADES
+112,,2017-01-04 18:20:02,2017-01-02,ADES,Hanson Ron,SVP of Operations of ADA-ES,F - Tax,$9.24,-41,21893,0%,-$379,0.0,-4.0,1.0,,ADES
+113,,2017-01-04 18:18:18,2017-01-02,ADES,Sampson L Heath,"Pres, CEO",F - Tax,$9.24,-10305,138013,-7%,"-$95,218",0.0,-4.0,1.0,,ADES
+114,D,2016-10-18 18:24:21,2016-10-16,ADES,Sampson L Heath,"Pres, CEO",A - Grant,$0.00,50000,148318,+51%,+$0,3.0,4.0,7.0,5.0,ADES
+115,,2016-08-11 18:42:10,2016-08-09,ADES,Amrhein Christine B.,Former General Counsel,F - Tax,$7.34,-1027,56707,-2%,"-$7,538",3.0,-2.0,17.0,70.0,ADES
+116,,2016-07-20 19:42:55,2016-07-18,ADES,Amrhein Christine B.,GC,F - Tax,$6.70,-2,57734,0%,-$13,-1.0,0.0,6.0,41.0,ADES
+117,,2016-07-06 18:23:12,2016-07-01,ADES,Alta Fundamental Advisers Sp LLC,Dir,A - Grant,$0.00,6212,862975,+1%,+$0,6.0,2.0,-4.0,36.0,ADES
+118,,2016-07-06 17:25:32,2016-07-01,ADES,Pate R Carter,Dir,A - Grant,$0.00,6212,6212,New,+$0,6.0,2.0,-4.0,36.0,ADES
+119,,2016-07-06 17:22:24,2016-07-01,ADES,Wells Louis Spencer,Dir,A - Grant,$0.00,6212,12223,+103%,+$0,6.0,2.0,-4.0,36.0,ADES
+120,,2016-07-06 17:19:11,2016-07-01,ADES,Simonton Taylor,Dir,A - Grant,$0.00,6212,12267,+103%,+$0,6.0,2.0,-4.0,36.0,ADES
+121,,2016-07-06 17:15:29,2016-07-01,ADES,Johnson Derek,Dir,A - Grant,$0.00,10353,40544,+34%,+$0,6.0,2.0,-4.0,36.0,ADES
+122,,2016-07-06 17:03:34,2016-07-01,ADES,Gabbard Alan Bradley,Dir,A - Grant,$0.00,6212,46138,+16%,+$0,6.0,2.0,-4.0,36.0,ADES
+123,,2016-05-12 18:08:54,2016-05-10,ADES,Sjostrom Sharon,Chief Product Officer,A - Grant,$7.74,20000,66705,+43%,"+$154,800",-2.0,1.0,16.0,13.0,ADES
+124,,2016-05-12 18:03:30,2016-05-10,ADES,Amrhein Christine B.,GC,A - Grant,$7.74,10000,57736,+21%,"+$77,400",-2.0,1.0,16.0,13.0,ADES
+125,D,2016-03-03 19:41:56,2016-03-01,ADES,Amrhein Christine B.,GC,M - OptEx,$0.00,2608,47736,+6%,+$0,-10.0,-19.0,-27.0,-13.0,ADES
+126,D,2016-03-03 19:33:28,2016-03-01,ADES,Lagarenne Jonathan R,Former Executive VP,F - Tax,$5.25,-1572,27162,-5%,"-$8,253",-10.0,-19.0,-27.0,-13.0,ADES
+127,D,2016-03-03 19:33:28,2016-03-01,ADES,Lagarenne Jonathan R,Former Executive VP,M - OptEx,$0.00,4916,27162,+22%,+$0,-10.0,-19.0,-27.0,-13.0,ADES
+128,D,2016-03-03 19:24:50,2016-03-01,ADES,Sjostrom Sharon,Chief Product Officer,M - OptEx,$0.00,3231,46705,+7%,+$0,-10.0,-19.0,-27.0,-13.0,ADES
+129,D,2016-03-03 19:14:43,2016-03-01,ADES,Mattison Graham O,VP Investor Relations,M - OptEx,$0.00,2119,15644,+16%,+$0,-10.0,-19.0,-27.0,-13.0,ADES
+130,,2016-01-19 18:38:41,2016-01-16,ADES,Lagarenne Jonathan R,Former Executive VP,F - Tax,$5.79,-5137,23818,-18%,"-$29,743",1.0,3.0,-5.0,41.0,ADES
+131,,2016-01-06 18:30:36,2016-01-04,ADES,Sampson L Heath,"Pres, CEO",A - Grant,$7.54,72000,98318,+274%,"+$542,880",-1.0,-10.0,-44.0,-7.0,ADES
+132,M,2016-01-05 20:03:39,2016-01-01,ADES,Lagarenne Jonathan R,EVP,F - Tax,$7.07,-2248,28955,-7%,"-$15,893",4.0,-1.0,-41.0,-1.0,ADES
+133,M,2016-01-05 18:55:25,2016-01-01,ADES,Sjostrom Sharon,Chief Product Officer,F - Tax,$7.07,-1548,43474,-3%,"-$10,944",4.0,-1.0,-41.0,-1.0,ADES
+134,M,2016-01-05 18:49:24,2016-01-01,ADES,Mattison Graham O,VP Investor Relations,F - Tax,$7.07,-1115,13525,-8%,"-$7,883",4.0,-1.0,-41.0,-1.0,ADES
+135,M,2016-01-05 18:42:05,2016-01-01,ADES,Amrhein Christine B.,GC,F - Tax,$7.07,-1223,45128,-3%,"-$8,647",4.0,-1.0,-41.0,-1.0,ADES
+136,,2015-08-13 18:00:11,2015-08-11,ADES,Amrhein Christine B.,GC,D - Sale to issuer,$0.00,-726,46351,-2%,-$0,1.0,-1.0,-37.0,-59.0,ADES
+137,,2015-08-13 18:00:11,2015-08-11,ADES,Amrhein Christine B.,GC,F - Tax,$10.15,-66,46351,0%,-$670,1.0,-1.0,-37.0,-59.0,ADES
+138,,2015-07-21 19:50:18,2015-07-18,ADES,Amrhein Christine B.,GC,F - Tax,$12.75,-132,47143,0%,"-$1,683",-1.0,-10.0,-20.0,-63.0,ADES
+139,,2015-07-21 19:48:13,2015-05-31,ADES,Lagarenne Jonathan R,EVP,F - Tax,$13.70,-1279,31203,-4%,"-$17,522",-1.0,-10.0,-20.0,-63.0,ADES
+140,D,2015-07-07 17:24:45,2015-07-03,ADES,Sjostrom Sharon,Chief Product Officer,A - Grant,$0.00,568,45022,+1%,+$0,0.0,-4.0,-24.0,-46.0,ADES
+141,,2015-07-02 19:58:12,2015-07-01,ADES,Simonton Taylor,Dir,A - Grant,$0.00,3941,6055,+186%,+$0,1.0,1.0,-12.0,-45.0,ADES
+142,,2015-07-02 19:57:08,2015-07-01,ADES,Marcum W Phillip,Dir,A - Grant,$0.00,3941,83083,+5%,+$0,1.0,1.0,-12.0,-45.0,ADES
+143,,2015-07-02 19:55:49,2015-07-01,ADES,Clarke Kim B,Dir,A - Grant,$0.00,3941,9209,+75%,+$0,1.0,1.0,-12.0,-45.0,ADES
+144,,2015-07-02 19:54:44,2015-07-01,ADES,Wells Louis Spencer,Dir,A - Grant,$0.00,3941,6011,+190%,+$0,1.0,1.0,-12.0,-45.0,ADES
+145,,2015-07-02 19:53:11,2015-07-01,ADES,Johnson Derek,Dir,A - Grant,$0.00,3941,30191,+15%,+$0,1.0,1.0,-12.0,-45.0,ADES
+146,,2015-07-02 15:03:56,2015-07-01,ADES,"Coliseum Capital Management, LLC",Dir,A - Grant,$0.00,3941,2099345,0%,+$0,1.0,2.0,-11.0,-44.0,ADES
+147,,2015-06-16 21:58:08,2015-06-12,ADES,Gabbard Alan Bradley,CFO,A - Grant,$0.00,31138,39926,+354%,+$0,2.0,1.0,-14.0,-64.0,ADES
+148,D,2015-03-05 20:31:31,2015-03-03,ADES,Sampson L Heath,CFO,A - Grant,$0.00,14583,26318,+124%,+$0,-1.0,-2.0,11.0,-40.0,ADES
+149,D,2015-03-05 20:23:16,2015-03-03,ADES,Lagarenne Jonathan R,EVP,A - Grant,$0.00,6471,32482,+25%,+$0,-1.0,-2.0,11.0,-40.0,ADES
+150,D,2015-03-05 20:07:51,2015-03-03,ADES,Durham Michael D,"Pres, CEO",A - Grant,$0.00,36078,544645,+7%,+$0,-1.0,-2.0,11.0,-40.0,ADES
+151,D,2015-03-05 19:58:37,2015-03-03,ADES,Sjostrom Sharon,CTO,A - Grant,$0.00,4255,44454,+11%,+$0,-1.0,-2.0,11.0,-40.0,ADES
+152,D,2015-03-05 19:52:16,2015-03-03,ADES,Mattison Graham O,"VP Strategic Initiatives, IR",A - Grant,$0.00,3638,14640,+33%,+$0,-1.0,-2.0,11.0,-40.0,ADES
+153,D,2015-03-05 19:44:05,2015-03-03,ADES,Amrhein Christine B.,GC,A - Grant,$0.00,3625,47275,+8%,+$0,-1.0,-2.0,11.0,-40.0,ADES
+154,,2015-02-20 20:15:23,2014-07-23,ADES,"Coliseum Capital Management, LLC","Dir, 10%",A - Grant,$20.85,2070,2095404,0%,"+$43,160",0.0,-1.0,3.0,-41.0,ADES
+155,,2015-02-18 13:20:04,2014-07-01,ADES,Johnson Derek,Dir,A - Grant,$23.81,2114,26250,+9%,"+$50,334",-1.0,-1.0,4.0,-41.0,ADES
+156,,2015-02-18 13:19:23,2014-07-01,ADES,Gabbard Alan Bradley,Dir,A - Grant,$23.81,2114,8788,+32%,"+$50,334",-1.0,-1.0,4.0,-41.0,ADES
+157,AD,2015-02-17 16:37:23,2014-08-22,ADES,Durham Michael D,"Pres, CEO",F - Tax,$21.00,-50939,535567,-9%,"-$1,069,719",-1.0,0.0,1.0,-39.0,ADES
+158,AD,2015-02-17 16:37:23,2014-08-22,ADES,Durham Michael D,"Pres, CEO",M - OptEx,$4.30,98020,535567,+22%,"+$421,486",-1.0,0.0,1.0,-39.0,ADES
+159,,2015-02-17 16:35:23,2014-07-01,ADES,Clarke Kim B,Dir,A - Grant,$23.81,2114,5268,+67%,"+$50,334",-1.0,0.0,1.0,-39.0,ADES
+160,,2015-02-17 16:33:24,2014-07-01,ADES,Smith Jeffrey Clark,Dir,A - Grant,$23.81,2114,90784,+2%,"+$50,334",-1.0,0.0,1.0,-39.0,ADES
+161,,2015-02-17 16:31:55,2014-07-23,ADES,Wells Louis Spencer,Dir,A - Grant,$20.85,2070,2070,New,"+$43,160",-1.0,0.0,1.0,-39.0,ADES
+162,,2015-02-17 16:31:12,2014-07-01,ADES,Simonton Taylor,Dir,A - Grant,$23.81,2114,2114,New,"+$50,334",-1.0,0.0,1.0,-39.0,ADES
+163,,2015-02-17 16:30:33,2014-07-01,ADES,Marcum W Phillip,Dir,A - Grant,$23.81,2114,79142,+3%,"+$50,334",-1.0,0.0,1.0,-39.0,ADES
+164,M,2015-01-09 12:48:15,2015-01-01,ADES,Sjostrom Sharon,CTO,F - Tax,$22.44,-949,40199,-2%,"-$21,294",,,,,ADES
+165,,2015-01-07 20:36:53,2015-01-02,ADES,Smith Rachel Ann,Chief Accounting Officer,F - Tax,$21.86,-321,3024,-10%,"-$7,017",,,,,ADES
+166,,2015-01-07 20:30:05,2015-01-02,ADES,Sampson L Heath,CFO,F - Tax,$21.86,-554,11735,-5%,"-$12,110",,,,,ADES
+167,M,2015-01-07 20:21:51,2015-01-01,ADES,Mattison Graham O,VP Investor Relations,F - Tax,$22.40,-664,11002,-6%,"-$14,875",,,,,ADES
+168,M,2015-01-07 20:13:59,2015-01-01,ADES,Amrhein Christine B.,GC,F - Tax,$22.40,-815,43650,-2%,"-$18,259",,,,,ADES
+169,M,2015-01-07 19:59:27,2015-01-01,ADES,Lagarenne Jonathan R,EVP,F - Tax,$22.44,-1444,26011,-5%,"-$32,401",,,,,ADES
+170,,2015-01-05 21:10:11,2014-12-31,ADES,Bustard C Jean,Former COO,F - Tax,$22.79,-7607,159782,-5%,"-$173,364",,,,,ADES
+171,,2014-10-06 21:21:13,2014-10-02,ADES,"Coliseum Capital Management, LLC",Dir,P - Purchase,$20.97,375000,2093334,+22%,"+$7,863,750",,,,,ADES
+172,D,2014-08-26 18:10:32,2014-08-22,ADES,Bustard C Jean,COO,F - Tax,$21.00,-14967,167389,-8%,"-$314,307",,,,,ADES
+173,D,2014-08-26 18:10:32,2014-08-22,ADES,Bustard C Jean,COO,M - OptEx,$4.30,37086,167389,+28%,"+$159,470",,,,,ADES
+174,D,2014-08-26 17:59:55,2014-08-22,ADES,Durham Michael D,"Pres, CEO",F - Tax,$21.00,-50939,560161,-8%,"-$1,069,719",,,,,ADES
+175,D,2014-08-26 17:59:55,2014-08-22,ADES,Durham Michael D,"Pres, CEO",M - OptEx,$4.30,98020,560161,+21%,"+$421,486",,,,,ADES
+176,D,2014-08-26 17:45:38,2014-08-22,ADES,McKinnies Mark H,"SVP, CFO",F - Tax,$21.00,-35556,186200,-16%,"-$746,676",,,,,ADES
+177,D,2014-08-26 17:45:38,2014-08-22,ADES,McKinnies Mark H,"SVP, CFO",M - OptEx,$4.30,68420,186200,+58%,"+$294,206",,,,,ADES
+178,,2014-08-05 11:51:26,2014-08-01,ADES,Amrhein Christine B.,"GC, VP",F - Tax,$21.39,-127,44465,0%,"-$2,717",,,,,ADES
+179,,2014-06-04 13:37:53,2014-06-04,ADES,Lagarenne Jonathan R,EVP,F - Tax,$23.41,-2015,27455,-7%,"-$47,171",,,,,ADES
+180,D,2014-04-30 13:35:47,2014-04-28,ADES,Smith Rachel Ann,Chief Accounting Officer,A - Grant,$23.02,2585,3345,+340%,"+$59,507",,,,,ADES
+181,,2014-03-06 18:03:19,2014-03-04,ADES,McKinnies Mark H,"SVP, CFO",S - Sale,$56.00,-1000,76668,-1%,"-$56,000",,,,,ADES
+182,,2014-02-18 14:10:49,2014-02-11,ADES,Sjostrom Sharon,CTO,A - Grant,$52.18,69,20574,0%,"+$3,600",,,,,ADES
+183,,2014-02-18 14:02:38,2014-02-11,ADES,McKinnies Mark H,"SVP, CFO",A - Grant,$52.18,6,77668,0%,+$313,,,,,ADES
+184,,2014-02-18 13:56:57,2014-02-11,ADES,Lagarenne Jonathan R,EVP,A - Grant,$52.18,94,14735,+1%,"+$4,905",,,,,ADES
+185,,2014-02-18 13:48:22,2014-02-11,ADES,Durham Michael D,"Pres, CEO",A - Grant,$52.18,18,256540,0%,+$939,,,,,ADES
+186,,2014-02-18 13:36:18,2014-02-11,ADES,Amrhein Christine B.,"GC, VP",A - Grant,$52.18,119,22296,+1%,"+$6,209",,,,,ADES
+187,,2014-01-27 14:04:21,2014-01-24,ADES,Swanson Richard John,Dir,A - Grant,$44.29,32,17855,0%,"+$1,417",,,,,ADES
+188,,2014-01-27 13:58:28,2014-01-24,ADES,Smith Jeffrey Clark,Dir,A - Grant,$44.29,32,44335,0%,"+$1,417",,,,,ADES
+189,,2014-01-27 13:54:09,2014-01-24,ADES,Marcum W Phillip,Dir,A - Grant,$44.29,32,38514,0%,"+$1,417",,,,,ADES
+190,,2014-01-27 13:41:51,2014-01-24,ADES,Johnson Derek,Dir,A - Grant,$44.29,32,12068,0%,"+$1,417",,,,,ADES
+191,,2014-01-27 13:25:44,2014-01-24,ADES,Gabbard Alan Bradley,Dir,A - Grant,$44.29,32,3337,+1%,"+$1,417",,,,,ADES
+192,,2014-01-27 13:11:12,2014-01-24,ADES,Clarke Kim B,Dir,A - Grant,$44.29,32,1577,+2%,"+$1,417",,,,,ADES
+193,AD,2014-01-23 12:03:40,2014-01-03,ADES,Amrhein Christine B.,"GC, VP",A - Grant,$53.00,1366,22177,+7%,"+$72,398",,,,,ADES
+194,AD,2014-01-23 12:03:40,2014-01-03,ADES,Amrhein Christine B.,"GC, VP",F - Tax,$53.00,-270,22177,-1%,"-$14,310",,,,,ADES
+195,,2014-01-15 18:52:08,2014-01-13,ADES,Durham Michael D,"Pres, CEO",S - Sale,$52.59,-3300,256522,-1%,"-$173,533",,,,,ADES
+196,D,2014-01-07 17:38:45,2014-01-03,ADES,Sjostrom Sharon,CTO,A - Grant,$53.00,1445,20505,+8%,"+$76,585",,,,,ADES
+197,D,2014-01-07 17:38:45,2014-01-03,ADES,Sjostrom Sharon,CTO,F - Tax,$53.00,-295,20505,-1%,"-$15,635",,,,,ADES
+198,D,2014-01-07 17:30:49,2014-01-03,ADES,McKinnies Mark H,"SVP, CFO",A - Grant,$53.00,1029,77942,+1%,"+$54,537",,,,,ADES
+199,D,2014-01-07 17:30:49,2014-01-03,ADES,McKinnies Mark H,"SVP, CFO",F - Tax,$53.00,-1111,77942,-1%,"-$58,883",,,,,ADES
+200,D,2014-01-07 17:20:52,2014-01-03,ADES,Mattison Graham O,VP Investor Relations,A - Grant,$53.00,1717,5833,+42%,"+$91,001",,,,,ADES
+201,D,2014-01-07 17:20:52,2014-01-03,ADES,Mattison Graham O,VP Investor Relations,F - Tax,$53.00,-202,5833,-3%,"-$10,706",,,,,ADES
+202,D,2014-01-07 17:05:54,2014-01-03,ADES,Lagarenne Jonathan R,EVP,A - Grant,$53.00,2198,14641,+18%,"+$116,494",,,,,ADES
+203,D,2014-01-07 17:05:54,2014-01-03,ADES,Lagarenne Jonathan R,EVP,F - Tax,$53.00,-1606,14641,-10%,"-$85,118",,,,,ADES
+204,D,2014-01-07 17:05:54,2014-01-03,ADES,Lagarenne Jonathan R,EVP,S - Sale+OE,$54.09,-2000,14641,-12%,"-$108,170",,,,,ADES
+205,D,2014-01-07 16:41:57,2014-01-03,ADES,Durham Michael D,CEO,A - Grant,$53.00,12253,259822,+5%,"+$649,409",,,,,ADES
+206,D,2014-01-07 16:41:57,2014-01-03,ADES,Durham Michael D,CEO,F - Tax,$53.00,-2921,259822,-1%,"-$154,813",,,,,ADES
+207,D,2014-01-07 16:22:13,2014-01-03,ADES,Bustard C Jean,COO,F - Tax,$53.00,-432,72635,-1%,"-$22,896",,,,,ADES
+208,D,2014-01-07 15:11:13,2014-01-03,ADES,Amrhein Christine B.,"GC, VP",A - Grant,$53.00,1195,22006,+6%,"+$63,335",,,,,ADES
+209,D,2014-01-07 15:11:13,2014-01-03,ADES,Amrhein Christine B.,"GC, VP",F - Tax,$53.00,-270,22006,-1%,"-$14,310",,,,,ADES
+210,,2013-12-27 11:13:32,2013-12-24,ADES,McKinnies Mark H,"SVP, CFO",S - Sale,$56.00,-700,78024,-1%,"-$39,200",,,,,ADES
+211,M,2013-12-12 17:51:35,2013-12-10,ADES,McKinnies Mark H,"SVP, CFO",S - Sale,$55.92,-2000,78724,-2%,"-$111,840",,,,,ADES
+212,M,2013-12-09 18:52:24,2013-12-05,ADES,McKinnies Mark H,"SVP, CFO",S - Sale,$56.25,-3000,80724,-4%,"-$168,740",,,,,ADES
+213,M,2013-12-04 16:51:15,2013-12-02,ADES,McKinnies Mark H,"SVP, CFO",S - Sale,$56.95,-3000,83724,-3%,"-$170,840",,,,,ADES
+214,D,2013-11-22 18:39:52,2013-11-20,ADES,Bustard C Jean,COO,A - Grant,$8.60,2000,73067,+3%,"+$17,200",,,,,ADES
+215,D,2013-11-22 18:39:52,2013-11-20,ADES,Bustard C Jean,COO,D - Sale to issuer,$46.47,-2000,73067,-3%,"-$92,930",,,,,ADES
+216,D,2013-11-21 19:15:56,2013-11-19,ADES,Bustard C Jean,COO,A - Grant,$8.60,2000,73067,+3%,"+$17,200",,,,,ADES
+217,D,2013-11-21 19:15:56,2013-11-19,ADES,Bustard C Jean,COO,D - Sale to issuer,$46.35,-2000,73067,-3%,"-$92,693",,,,,ADES
+218,AD,2013-11-19 18:31:08,2013-11-18,ADES,Miller Richard,VP,A - Grant,$15.18,13000,21310,+156%,"+$197,340",,,,,ADES
+219,AD,2013-11-19 18:31:08,2013-11-18,ADES,Miller Richard,VP,D - Sale to issuer,$47.08,-13000,21310,-38%,"-$612,061",,,,,ADES
+220,D,2013-11-19 18:09:31,2013-11-19,ADES,Bustard C Jean,COO,A - Grant,$8.60,2000,73067,+3%,"+$17,200",,,,,ADES
+221,D,2013-11-19 18:09:31,2013-11-18,ADES,Bustard C Jean,COO,D - Sale to issuer,$47.16,-2000,73067,-3%,"-$94,310",,,,,ADES
+222,,2013-11-19 17:19:42,2013-11-18,ADES,Miller Richard,VP,A - Grant,$13.80,13000,21310,+156%,"+$179,400",,,,,ADES
+223,,2013-11-19 17:19:42,2013-11-18,ADES,Miller Richard,VP,D - Sale to issuer,$47.08,-13000,21310,-38%,"-$612,061",,,,,ADES
+224,,2013-11-08 14:19:57,2013-11-06,ADES,Sjostrom Sharon,CTO,A - Grant,$37.96,111,19355,+1%,"+$4,214",,,,,ADES
+225,,2013-11-08 14:09:45,2013-11-06,ADES,Schlager Richard J,VP,A - Grant,$37.96,164,29376,+1%,"+$6,225",,,,,ADES
+226,,2013-11-08 13:51:20,2013-11-06,ADES,McKinnies Mark H,"SVP, CFO",A - Grant,$37.96,164,86724,0%,"+$6,225",,,,,ADES
+227,,2013-11-08 13:28:21,2013-11-08,ADES,Martin Cameron E.,VP,A - Grant,$37.96,163,15785,+1%,"+$6,187",,,,,ADES
+228,,2013-11-08 13:12:23,2013-11-06,ADES,Lagarenne Jonathan R,EVP,A - Grant,$37.96,156,16049,+1%,"+$5,922",,,,,ADES
+229,,2013-11-08 12:46:09,2013-11-06,ADES,Durham Michael D,CEO,A - Grant,$37.96,157,250490,0%,"+$5,960",,,,,ADES
+230,,2013-11-08 11:40:00,2013-11-06,ADES,Bustard C Jean,COO,A - Grant,$37.69,217,73067,0%,"+$8,179",,,,,ADES
+231,,2013-11-08 11:23:23,2013-11-06,ADES,Amrhein Christine B.,"GC, VP",A - Grant,$37.89,224,21081,+1%,"+$8,487",,,,,ADES
+232,,2013-10-03 11:23:53,2013-10-02,ADES,Mattison Graham O,VP Investor Relations,A - Grant,$43.24,600,4318,+16%,"+$25,944",,,,,ADES
+233,,2013-08-02 15:12:32,2013-08-01,ADES,Sjostrom Sharon,CTO,A - Grant,$42.95,83,19244,0%,"+$3,565",,,,,ADES
+234,,2013-08-02 15:01:47,2013-08-01,ADES,Schlager Richard J,VP,A - Grant,$42.95,70,29212,0%,"+$3,007",,,,,ADES
+235,,2013-08-02 14:35:51,2013-08-01,ADES,McKinnies Mark H,"SVP, CFO",A - Grant,$42.95,123,86560,0%,"+$5,283",,,,,ADES
+236,,2013-08-02 14:18:12,2013-08-01,ADES,Martin Cameron E.,VP,A - Grant,$42.95,87,15622,+1%,"+$3,737",,,,,ADES
+237,,2013-08-02 13:26:45,2013-08-01,ADES,Lagarenne Jonathan R,EVP,A - Grant,$42.95,28,15893,0%,"+$1,203",,,,,ADES
+238,,2013-08-02 13:16:26,2013-08-01,ADES,Durham Michael D,"Pres, CEO",A - Grant,$42.95,119,250333,0%,"+$5,111",,,,,ADES
+239,,2013-08-02 13:02:09,2013-08-01,ADES,Bustard C Jean,COO,A - Grant,$42.95,104,72850,0%,"+$4,467",,,,,ADES
+240,,2013-08-02 12:49:13,2013-08-01,ADES,Amrhein Christine B.,"GC, VP",A - Grant,$42.95,142,20857,+1%,"+$6,099",,,,,ADES
+241,,2013-07-18 12:05:29,2013-07-17,ADES,Mattison Graham O,VP Investor Relations,A - Grant,$41.00,600,3718,+19%,"+$24,600",,,,,ADES
+242,,2013-07-18 11:56:41,2013-07-17,ADES,Swanson Richard John,Dir,A - Grant,$41.00,1159,17823,+7%,"+$47,519",,,,,ADES
+243,,2013-07-18 11:31:30,2013-07-17,ADES,Smith Jeffrey Clark,Dir,A - Grant,$41.00,1159,44303,+3%,"+$47,519",,,,,ADES
+244,,2013-07-18 11:22:16,2013-07-17,ADES,Marcum W Phillip,Dir,A - Grant,$41.00,1159,38482,+3%,"+$47,519",,,,,ADES
+245,,2013-07-18 11:08:57,2013-07-17,ADES,Johnson Derek,Dir,A - Grant,$41.00,1159,12036,+11%,"+$47,519",,,,,ADES
+246,,2013-07-18 10:05:50,2013-07-17,ADES,Clarke Kim B,Dir,A - Grant,$41.00,1545,1545,New,"+$63,345",,,,,ADES
+247,,2013-07-17 18:15:20,2013-07-17,ADES,Gabbard Alan Bradley,Dir,A - Grant,$41.00,1159,3305,+54%,"+$47,519",,,,,ADES

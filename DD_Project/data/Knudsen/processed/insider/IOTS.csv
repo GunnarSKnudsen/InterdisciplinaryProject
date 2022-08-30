@@ -1,20 +1,284 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2020-03-26 18:06:42,2020-03-24,IOTS,Modi Sohrab,Chief Strategy Officer,S - Sale,10.32,-7726,16961,-31%,-79745.0,,,,,IOTS
-1,A,2019-12-18 20:22:33,2019-11-27,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",S - Sale,7.32,-4220,23238,-15%,-30888.0,,,,,IOTS
-2,A,2019-12-06 17:13:38,2019-11-26,IOTS,Shelton Ron,CFO,S - Sale,7.2,-15000,232277,-6%,-108042.0,,,,,IOTS
-3,,2019-12-02 16:26:29,2019-11-27,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",S - Sale,7.27,-1633,25825,-6%,-11873.0,,,,,IOTS
-4,,2019-12-02 16:25:55,2019-11-27,IOTS,Spade Thomas D,"VP, Worldwide Sales",S - Sale,7.5,-5057,65252,-7%,-37928.0,,,,,IOTS
-5,,2019-11-27 19:14:18,2019-11-26,IOTS,Shelton Ron,CFO,S - Sale,7.2,-15000,232277,-6%,-108042.0,,,,,IOTS
-6,,2019-11-26 17:45:50,2019-11-25,IOTS,Spade Thomas D,"VP, Worldwide Sales",S - Sale,7.38,-4753,70309,-6%,-35061.0,,,,,IOTS
-7,,2019-11-22 16:29:17,2019-11-21,IOTS,Derhacobian Narbeh,"Pres, CEO",P - Purchase,6.85,7500,713906,+1%,51351.0,,,,,IOTS
-8,,2019-08-27 16:27:25,2019-08-26,IOTS,Barry Dermot,"VP,GM, ASIC, IP Division",S - Sale,10.65,-4000,37040,-10%,-42601.0,,,,,IOTS
-9,,2019-08-20 16:13:00,2019-08-19,IOTS,Mehrbians Raphael,"VP, Marketing",S - Sale,10.25,-1661,43451,-4%,-17025.0,,,,,IOTS
-10,,2019-08-15 16:23:26,2019-08-14,IOTS,Intrater Gideon D,CTO,S - Sale,10.77,-7500,100642,-7%,-80775.0,,,,,IOTS
-11,,2019-08-14 16:33:56,2019-08-13,IOTS,Mehrbians Raphael,"VP, GM, Memory",S - Sale,10.58,-1694,45112,-4%,-17927.0,,,,,IOTS
-12,,2019-08-13 16:29:52,2019-08-09,IOTS,Spade Thomas D,"VP, Worldwide Sales",S - Sale,9.91,-9217,76665,-11%,-91340.0,,,,,IOTS
-13,,2019-08-13 16:29:11,2019-08-12,IOTS,Shelton Ron,CFO,S - Sale,10.02,-15000,250477,-6%,-150228.0,,,,,IOTS
-14,D,2019-08-13 16:27:31,2019-08-12,IOTS,Aaron David,"VP, GC, Sec.",S - Sale+OE,10.0,-1602,36257,-4%,-16020.0,,,,,IOTS
-15,M,2019-05-31 19:48:18,2019-05-30,IOTS,Shelton Ron,CFO,S - Sale,7.6,-20000,268677,-7%,-151956.0,,,,,IOTS
-16,,2019-05-29 16:33:03,2019-05-28,IOTS,Intrater Gideon D,CTO,S - Sale,7.86,-2500,107001,-2%,-19645.0,,,,,IOTS
-17,,2018-11-13 19:09:18,2018-11-12,IOTS,Derhacobian Narbeh,"Pres, CEO",P - Purchase,4.88,10000,620366,+2%,48790.0,,,,,IOTS
-18,,2018-08-08 16:49:07,2018-08-06,IOTS,Derhacobian Narbeh,"Pres, CEO",P - Purchase,5.14,10000,614080,+2%,51350.0,,,,,IOTS
+0,,2020-05-11 16:13:08,2020-05-09,IOTS,Barry Dermot,"VP, GM, ASIC, IP Division",F - Tax,12.15,-416,60685,-1%,-5054.0,,,,,IOTS
+1,D,2020-04-24 17:46:14,2020-04-22,IOTS,Derhacobian Narbeh,"Pres, CEO",M - OptEx,1.65,4545,820419,+1%,7499.0,,,,,IOTS
+2,,2020-04-17 17:47:26,2020-04-15,IOTS,Attaran Seyed,VP Worldwide Operations,F - Tax,11.72,-235,58267,0%,-2754.0,,,,,IOTS
+3,,2020-04-03 20:26:58,2020-04-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,10.88,-1568,95234,-2%,-17060.0,,,,,IOTS
+4,,2020-04-03 20:26:22,2020-04-01,IOTS,Shelton Ron,CFO,F - Tax,10.88,-3201,273317,-1%,-34827.0,,,,,IOTS
+5,,2020-04-03 20:25:51,2020-04-01,IOTS,Modi Sohrab,Chief Strategy Officer,F - Tax,10.88,-249,16992,-1%,-2709.0,,,,,IOTS
+6,,2020-04-03 20:24:53,2020-04-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,10.88,-935,66939,-1%,-10173.0,,,,,IOTS
+7,,2020-04-03 20:24:19,2020-04-01,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",F - Tax,10.88,-173,37467,0%,-1882.0,,,,,IOTS
+8,,2020-04-03 20:23:41,2020-04-01,IOTS,Jodoin Christopher,"VP, GM, Embedded Systems",F - Tax,10.88,-165,58190,0%,-1795.0,,,,,IOTS
+9,,2020-04-03 20:23:09,2020-04-01,IOTS,Intrater Gideon D,CTO,F - Tax,10.88,-1253,114691,-1%,-13633.0,,,,,IOTS
+10,,2020-04-03 20:22:32,2020-04-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,10.88,-4979,815874,-1%,-54172.0,,,,,IOTS
+11,,2020-04-03 20:22:01,2020-04-01,IOTS,Barry Dermot,"VP, GM, ASIC, IP Division",F - Tax,10.88,-301,61101,0%,-3275.0,,,,,IOTS
+12,,2020-04-03 20:21:25,2020-04-01,IOTS,Attaran Seyed,VP Worldwide Operations,F - Tax,10.88,-361,58502,-1%,-3928.0,,,,,IOTS
+13,,2020-04-03 20:20:58,2020-04-01,IOTS,Aaron David,"VP, GC, Sec.",F - Tax,10.88,-838,60117,-1%,-9117.0,,,,,IOTS
+14,,2020-03-26 18:06:42,2020-03-24,IOTS,Modi Sohrab,Chief Strategy Officer,S - Sale,10.32,-7726,16961,-31%,-79745.0,,,,,IOTS
+15,,2020-03-26 18:05:02,2020-03-17,IOTS,Jodoin Christopher,"VP, GM, Embedded Systems",F - Tax,8.81,-366,57989,-1%,-3224.0,,,,,IOTS
+16,,2020-03-26 18:03:57,2020-03-17,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",F - Tax,8.81,-299,37341,-1%,-2634.0,,,,,IOTS
+17,,2020-03-26 18:03:45,2020-03-17,IOTS,Modi Sohrab,Chief Strategy Officer,F - Tax,8.81,-280,24687,-1%,-2467.0,,,,,IOTS
+18,,2020-02-19 17:42:07,2020-02-14,IOTS,Mehrbians Raphael,"VP, GM, Memory",A - Grant,0.0,27080,67874,+66%,0.0,,,,,IOTS
+19,,2020-02-19 17:41:18,2020-02-14,IOTS,Derhacobian Narbeh,"Pres, CEO",A - Grant,0.0,112833,820853,+16%,0.0,,,,,IOTS
+20,,2020-02-19 17:40:14,2020-02-14,IOTS,Shelton Ron,CFO,A - Grant,0.0,48025,276518,+21%,0.0,,,,,IOTS
+21,,2020-02-19 17:39:19,2020-02-14,IOTS,Spade Thomas D,"VP, Worldwide Sales",A - Grant,0.0,32734,96802,+51%,0.0,,,,,IOTS
+22,,2020-02-19 17:38:22,2020-02-14,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",A - Grant,0.0,13726,37640,+57%,0.0,,,,,IOTS
+23,,2020-02-19 17:37:21,2020-02-14,IOTS,Intrater Gideon D,CTO,A - Grant,0.0,15697,115944,+16%,0.0,,,,,IOTS
+24,,2020-02-19 17:36:20,2020-02-14,IOTS,Jodoin Christopher,"VP, GM, Embedded Systems",A - Grant,0.0,14616,58355,+33%,0.0,,,,,IOTS
+25,,2020-02-19 17:35:25,2020-02-14,IOTS,Barry Dermot,"VP,GM, ASIC, IP Division",A - Grant,0.0,23387,61402,+62%,0.0,,,,,IOTS
+26,,2020-02-19 17:34:25,2020-02-14,IOTS,Attaran Seyed,"VP, WorldWide Operations",A - Grant,0.0,20656,58863,+54%,0.0,,,,,IOTS
+27,,2020-02-19 17:32:24,2020-02-14,IOTS,Aaron David,"VP, GC, Sec.",A - Grant,0.0,27758,60955,+84%,0.0,,,,,IOTS
+28,,2020-02-10 19:37:18,2020-02-09,IOTS,Barry Dermot,"VP, GM, ASIC, IP Division",F - Tax,7.5,-415,35607,-1%,-3113.0,,,,,IOTS
+29,,2020-01-30 17:52:59,2020-01-15,IOTS,Attaran Seyed,VP Worldwide Operations,F - Tax,9.26,-284,35707,-1%,-2630.0,,,,,IOTS
+30,,2020-01-03 18:11:36,2020-01-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,8.45,-1854,63398,-3%,-15666.0,,,,,IOTS
+31,,2020-01-03 18:10:48,2020-01-01,IOTS,Shelton Ron,CFO,F - Tax,8.45,-3784,228493,-2%,-31975.0,,,,,IOTS
+32,,2020-01-03 18:09:42,2020-01-01,IOTS,Modi Sohrab,Chief Strategy Officer,F - Tax,8.45,-302,23146,-1%,-2552.0,,,,,IOTS
+33,,2020-01-03 18:08:38,2020-01-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,8.45,-1134,40794,-3%,-9582.0,,,,,IOTS
+34,,2020-01-03 18:07:55,2020-01-01,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",F - Tax,8.45,-207,22776,-1%,-1749.0,,,,,IOTS
+35,,2020-01-03 18:07:03,2020-01-01,IOTS,Jodoin Christopher,"VP, GM, Embedded Systems",F - Tax,8.45,-201,41239,0%,-1698.0,,,,,IOTS
+36,,2020-01-03 18:05:12,2020-01-01,IOTS,Intrater Gideon D,CTO,F - Tax,8.45,-1515,97747,-2%,-12802.0,,,,,IOTS
+37,,2020-01-03 18:04:20,2020-01-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,8.45,-5886,708020,-1%,-49737.0,,,,,IOTS
+38,,2020-01-03 18:03:31,2020-01-01,IOTS,Barry Dermot,"VP,GM, ASIC, IP Division",F - Tax,8.45,-302,36022,-1%,-2552.0,,,,,IOTS
+39,,2020-01-03 18:02:41,2020-01-01,IOTS,Attaran Seyed,"VP, WorldWide Operations",F - Tax,8.45,-370,35991,-1%,-3127.0,,,,,IOTS
+40,,2020-01-03 18:01:55,2020-01-01,IOTS,Aaron David,"VP, GC, Sec.",F - Tax,8.45,-956,33197,-3%,-8078.0,,,,,IOTS
+41,,2019-12-18 20:24:18,2019-12-17,IOTS,Jodoin Christopher,"VP, GM, Embedded Systems",F - Tax,7.51,-309,41440,-1%,-2321.0,,,,,IOTS
+42,,2019-12-18 20:23:45,2019-12-17,IOTS,Modi Sohrab,Chief Strategy Officer,F - Tax,7.51,-255,23448,-1%,-1915.0,,,,,IOTS
+43,,2019-12-18 20:23:12,2019-12-17,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",F - Tax,7.51,-255,22983,-1%,-1915.0,,,,,IOTS
+44,A,2019-12-18 20:22:33,2019-11-27,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",S - Sale,7.32,-4220,23238,-15%,-30888.0,,,,,IOTS
+45,A,2019-12-06 17:13:38,2019-11-26,IOTS,Shelton Ron,CFO,S - Sale,7.2,-15000,232277,-6%,-108042.0,,,,,IOTS
+46,,2019-12-02 16:26:29,2019-11-27,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",S - Sale,7.27,-1633,25825,-6%,-11873.0,,,,,IOTS
+47,,2019-12-02 16:25:55,2019-11-27,IOTS,Spade Thomas D,"VP, Worldwide Sales",S - Sale,7.5,-5057,65252,-7%,-37928.0,,,,,IOTS
+48,,2019-11-27 19:14:18,2019-11-26,IOTS,Shelton Ron,CFO,S - Sale,7.2,-15000,232277,-6%,-108042.0,,,,,IOTS
+49,,2019-11-26 17:45:50,2019-11-25,IOTS,Spade Thomas D,"VP, Worldwide Sales",S - Sale,7.38,-4753,70309,-6%,-35061.0,,,,,IOTS
+50,,2019-11-22 16:29:17,2019-11-21,IOTS,Derhacobian Narbeh,"Pres, CEO",P - Purchase,6.85,7500,713906,+1%,51351.0,,,,,IOTS
+51,,2019-11-12 16:09:28,2019-11-09,IOTS,Barry Dermot,"VP,GM, ASIC, IP Division",F - Tax,7.57,-415,36324,-1%,-3142.0,,,,,IOTS
+52,,2019-10-16 18:19:38,2019-10-15,IOTS,Attaran Seyed,"VP, WorldWide Operations",F - Tax,8.85,-961,36361,-3%,-8505.0,,,,,IOTS
+53,,2019-10-03 17:48:55,2019-10-01,IOTS,Intrater Gideon D,CTO,F - Tax,8.3,-1380,99262,-1%,-11454.0,,,,,IOTS
+54,,2019-10-03 17:47:19,2019-10-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,8.3,-1523,41928,-4%,-12641.0,,,,,IOTS
+55,,2019-10-03 17:44:31,2019-10-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,8.3,-1603,75062,-2%,-13305.0,,,,,IOTS
+56,,2019-10-03 17:43:22,2019-10-01,IOTS,Shelton Ron,CFO,F - Tax,8.3,-3200,247277,-1%,-26560.0,,,,,IOTS
+57,,2019-10-03 17:42:37,2019-10-01,IOTS,Modi Sohrab,Chief Strategy Officer,F - Tax,8.3,-256,23703,-1%,-2125.0,,,,,IOTS
+58,,2019-10-03 17:41:08,2019-10-01,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",F - Tax,8.3,-175,27458,-1%,-1453.0,,,,,IOTS
+59,,2019-10-03 17:40:17,2019-10-01,IOTS,Jodoin Christopher,"VP, GM, Embedded Systems",F - Tax,8.3,-170,41749,0%,-1411.0,,,,,IOTS
+60,,2019-10-03 17:38:06,2019-10-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,8.3,-4979,706406,-1%,-41326.0,,,,,IOTS
+61,,2019-10-03 17:36:53,2019-10-01,IOTS,Barry Dermot,"VP,GM, ASIC, IP Division",F - Tax,8.3,-301,36739,-1%,-2498.0,,,,,IOTS
+62,,2019-10-03 17:36:09,2019-10-01,IOTS,Attaran Seyed,"VP, WorldWide Operations",F - Tax,8.3,-305,37322,-1%,-2532.0,,,,,IOTS
+63,,2019-10-03 17:35:21,2019-10-01,IOTS,Aaron David,"VP, GC, Sec.",F - Tax,8.3,-2104,34153,-6%,-17463.0,,,,,IOTS
+64,,2019-09-19 16:37:17,2019-09-17,IOTS,Jodoin Christopher,"VP, GM, Embedded Systems",F - Tax,10.63,-1236,41919,-3%,-13139.0,,,,,IOTS
+65,,2019-09-19 16:35:42,2019-09-17,IOTS,Modi Sohrab,Chief Strategy Officer,F - Tax,10.63,-1019,23959,-4%,-10832.0,,,,,IOTS
+66,,2019-09-19 16:34:54,2019-09-17,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",F - Tax,10.63,-1019,27633,-4%,-10832.0,,,,,IOTS
+67,,2019-08-27 16:27:25,2019-08-26,IOTS,Barry Dermot,"VP,GM, ASIC, IP Division",S - Sale,10.65,-4000,37040,-10%,-42601.0,,,,,IOTS
+68,,2019-08-20 16:13:00,2019-08-19,IOTS,Mehrbians Raphael,"VP, Marketing",S - Sale,10.25,-1661,43451,-4%,-17025.0,,,,,IOTS
+69,,2019-08-15 16:23:26,2019-08-14,IOTS,Intrater Gideon D,CTO,S - Sale,10.77,-7500,100642,-7%,-80775.0,,,,,IOTS
+70,,2019-08-14 16:33:56,2019-08-13,IOTS,Mehrbians Raphael,"VP, GM, Memory",S - Sale,10.58,-1694,45112,-4%,-17927.0,,,,,IOTS
+71,,2019-08-13 16:29:52,2019-08-09,IOTS,Spade Thomas D,"VP, Worldwide Sales",S - Sale,9.91,-9217,76665,-11%,-91340.0,,,,,IOTS
+72,,2019-08-13 16:29:11,2019-08-12,IOTS,Shelton Ron,CFO,S - Sale,10.02,-15000,250477,-6%,-150228.0,,,,,IOTS
+73,,2019-08-13 16:28:23,2019-08-09,IOTS,Barry Dermot,"VP,GM, ASIC, IP Division",F - Tax,9.88,-415,41040,-1%,-4100.0,,,,,IOTS
+74,D,2019-08-13 16:27:31,2019-08-12,IOTS,Aaron David,"VP, GC, Sec.",M - OptEx,5.87,884,36257,+2%,5189.0,,,,,IOTS
+75,D,2019-08-13 16:27:31,2019-08-12,IOTS,Aaron David,"VP, GC, Sec.",S - Sale+OE,10.0,-1602,36257,-4%,-16020.0,,,,,IOTS
+76,A,2019-08-01 17:42:16,2019-07-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,8.18,-1568,84921,-2%,-12826.0,,,,,IOTS
+77,A,2019-08-01 17:41:19,2019-07-01,IOTS,Shelton Ron,CFO,F - Tax,8.18,-3200,265477,-1%,-26176.0,,,,,IOTS
+78,A,2019-08-01 17:40:17,2019-07-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,8.18,-935,46806,-2%,-7648.0,,,,,IOTS
+79,A,2019-08-01 17:39:14,2019-07-01,IOTS,Intrater Gideon D,CTO,F - Tax,8.18,-1281,105720,-1%,-10479.0,,,,,IOTS
+80,A,2019-08-01 17:37:44,2019-07-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,8.18,-4979,711385,-1%,-40728.0,,,,,IOTS
+81,,2019-07-03 20:28:36,2019-07-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,8.18,-939,85550,-1%,-7681.0,,,,,IOTS
+82,,2019-07-03 20:27:50,2019-07-01,IOTS,Shelton Ron,CFO,F - Tax,8.18,-1903,266774,-1%,-15567.0,,,,,IOTS
+83,,2019-07-03 20:27:01,2019-07-01,IOTS,Modi Sohrab,Chief Strategy Officer,F - Tax,8.18,-249,23345,-1%,-2037.0,,,,,IOTS
+84,,2019-07-03 20:26:11,2019-07-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,8.18,-646,47095,-1%,-5284.0,,,,,IOTS
+85,,2019-07-03 20:25:12,2019-07-01,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",F - Tax,8.18,-175,27019,-1%,-1432.0,,,,,IOTS
+86,,2019-07-03 20:24:16,2019-07-01,IOTS,Jodoin Christopher,"VP, GM, Embedded Systems",F - Tax,8.18,-165,40655,0%,-1350.0,,,,,IOTS
+87,,2019-07-03 20:23:31,2019-07-01,IOTS,Intrater Gideon D,CTO,F - Tax,8.18,-944,106057,-1%,-7722.0,,,,,IOTS
+88,,2019-07-03 20:22:37,2019-07-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,8.18,-3422,712942,0%,-27992.0,,,,,IOTS
+89,,2019-07-03 20:21:37,2019-07-01,IOTS,Barry Dermot,"VP,GM, ASIC, IP Division",F - Tax,8.18,-301,38955,-1%,-2462.0,,,,,IOTS
+90,,2019-07-03 20:20:38,2019-07-01,IOTS,Attaran Seyed,"VP, WorldWide Operations",F - Tax,8.18,-361,35127,-1%,-2953.0,,,,,IOTS
+91,,2019-07-03 20:19:54,2019-07-01,IOTS,Aaron David,"VP, GC, Sec.",F - Tax,8.18,-365,36975,-1%,-2986.0,,,,,IOTS
+92,,2019-06-06 19:04:29,2019-06-04,IOTS,Crandell Keith,Dir,A - Grant,0.0,7662,25396,+43%,0.0,,,,,IOTS
+93,,2019-06-06 18:33:06,2019-06-04,IOTS,Lee Francis F,Dir,A - Grant,0.0,7662,27848,+38%,0.0,,,,,IOTS
+94,,2019-06-06 18:31:46,2019-06-04,IOTS,Palatnik Kevin S.,Dir,A - Grant,0.0,7662,27848,+38%,0.0,,,,,IOTS
+95,,2019-06-06 18:26:08,2019-06-04,IOTS,Chan Nelson C,Dir,A - Grant,0.0,7662,45412,+20%,0.0,,,,,IOTS
+96,M,2019-05-31 19:48:18,2019-05-30,IOTS,Shelton Ron,CFO,S - Sale,7.6,-20000,268677,-7%,-151956.0,,,,,IOTS
+97,,2019-05-29 16:33:03,2019-05-28,IOTS,Intrater Gideon D,CTO,S - Sale,7.86,-2500,107001,-2%,-19645.0,,,,,IOTS
+98,,2019-04-03 19:39:08,2019-04-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,6.09,-1647,86489,-2%,-10030.0,,,,,IOTS
+99,,2019-04-03 19:38:10,2019-04-01,IOTS,Shelton Ron,CFO,F - Tax,6.09,-2885,288677,-1%,-17570.0,,,,,IOTS
+100,,2019-04-03 19:36:20,2019-04-01,IOTS,Intrater Gideon D,CTO,F - Tax,6.09,-1001,109501,-1%,-6096.0,,,,,IOTS
+101,,2019-04-03 19:35:27,2019-04-01,IOTS,Mehrbians Raphael,"VP, GM, Memory",F - Tax,6.09,-876,48512,-2%,-5335.0,,,,,IOTS
+102,,2019-04-03 19:34:19,2019-04-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,6.09,-3622,716364,-1%,-22058.0,,,,,IOTS
+103,D,2019-03-27 21:13:47,2019-03-25,IOTS,Barry Dermot,"VP,GM, ASIC, IP Division",A - Grant,0.0,23985,39256,+157%,0.0,,,,,IOTS
+104,D,2019-03-27 21:12:57,2019-03-25,IOTS,Aaron David,"VP, GC, Sec.",A - Grant,0.0,17340,37340,+87%,0.0,,,,,IOTS
+105,D,2019-03-27 21:12:00,2019-03-25,IOTS,Attaran Seyed,"VP, WorldWide Operations",A - Grant,0.0,24370,35488,+219%,0.0,,,,,IOTS
+106,D,2019-03-27 21:11:05,2019-03-25,IOTS,Mehrbians Raphael,"VP, GM, Memory",A - Grant,0.0,25654,49388,+108%,0.0,,,,,IOTS
+107,D,2019-03-27 21:10:15,2019-03-25,IOTS,Jodoin Christopher,"VP, GM, Embedded Systems",A - Grant,0.0,23985,40820,+142%,0.0,,,,,IOTS
+108,D,2019-03-27 21:09:11,2019-03-25,IOTS,Spade Thomas D,"VP, Worldwide Sales",A - Grant,0.0,15409,88136,+21%,0.0,,,,,IOTS
+109,D,2019-03-27 21:08:10,2019-03-25,IOTS,Lovit Andrew M,"VP Worldwide Sales, Embed Sys",A - Grant,0.0,15409,29694,+108%,0.0,,,,,IOTS
+110,D,2019-03-27 21:07:13,2019-03-25,IOTS,Modi Sohrab,Chief Strategy Officer,A - Grant,0.0,11809,23594,+100%,0.0,,,,,IOTS
+111,D,2019-03-27 21:06:25,2019-03-25,IOTS,Intrater Gideon D,CTO,A - Grant,0.0,19894,110502,+22%,0.0,,,,,IOTS
+112,D,2019-03-27 21:05:28,2019-03-25,IOTS,Shelton Ron,CFO,A - Grant,0.0,57046,291562,+24%,0.0,,,,,IOTS
+113,D,2019-03-27 21:04:29,2019-03-25,IOTS,Derhacobian Narbeh,"Pres, CEO",A - Grant,0.0,104010,719986,+17%,0.0,,,,,IOTS
+114,,2019-02-12 20:28:00,2019-01-31,IOTS,Barry Dermot,"VP,GM, ASIC, IP Division",A - Grant,4.19,2500,15271,+20%,10475.0,,,,,IOTS
+115,,2019-02-12 20:18:34,2019-01-31,IOTS,Spade Thomas D,"VP, Worldwide Sales",A - Grant,4.19,966,72727,+1%,4048.0,,,,,IOTS
+116,,2019-02-12 20:03:50,2019-01-31,IOTS,Intrater Gideon D,CTO,A - Grant,4.19,2500,90608,+3%,10475.0,,,,,IOTS
+117,,2019-02-12 20:03:50,2019-02-09,IOTS,Intrater Gideon D,CTO,F - Tax,5.3,-2044,90608,-2%,-10833.0,,,,,IOTS
+118,,2019-01-24 20:42:02,2019-01-01,IOTS,Shelton Ron,CFO,F - Tax,4.4,-3166,234516,-1%,-13930.0,,,,,IOTS
+119,,2019-01-24 20:40:50,2019-01-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,4.4,-1648,71761,-2%,-7251.0,,,,,IOTS
+120,,2019-01-24 20:39:43,2019-01-01,IOTS,Intrater Gideon D,CTO,F - Tax,4.4,-1006,90152,-1%,-4426.0,,,,,IOTS
+121,,2019-01-24 20:38:39,2019-01-01,IOTS,Mehrbians Raphael,"VP, GM, Memory",F - Tax,4.4,-2139,23734,-8%,-9412.0,,,,,IOTS
+122,,2019-01-24 20:37:22,2019-01-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,4.4,-4390,615976,-1%,-19316.0,,,,,IOTS
+123,D,2018-12-27 20:08:48,2018-08-14,IOTS,Shelton Ron,CFO,M - OptEx,1.65,15010,255370,+6%,24767.0,,,,,IOTS
+124,,2018-11-13 19:10:13,2018-11-09,IOTS,Intrater Gideon D,CTO,F - Tax,5.31,-1730,88658,-2%,-9186.0,,,,,IOTS
+125,,2018-11-13 19:09:18,2018-11-12,IOTS,Derhacobian Narbeh,"Pres, CEO",P - Purchase,4.88,10000,620366,+2%,48790.0,,,,,IOTS
+126,,2018-10-03 21:55:42,2018-10-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,5.89,-741,25873,-3%,-4364.0,,,,,IOTS
+127,,2018-10-03 21:54:53,2018-10-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,5.89,-1393,72833,-2%,-8205.0,,,,,IOTS
+128,,2018-10-03 21:54:04,2018-10-01,IOTS,Intrater Gideon D,CTO,F - Tax,5.89,-852,90388,-1%,-5018.0,,,,,IOTS
+129,,2018-10-03 21:53:08,2018-10-01,IOTS,Wang Janet,"VP, Discrete Products Group",F - Tax,5.89,-1554,98670,-2%,-9153.0,,,,,IOTS
+130,,2018-10-03 21:52:17,2018-10-01,IOTS,Naveh Ishai,"VP, Business Development",F - Tax,5.89,-1233,160357,-1%,-7262.0,,,,,IOTS
+131,,2018-10-03 21:51:17,2018-10-01,IOTS,Shelton Ron,CFO,F - Tax,5.89,-2678,237682,-1%,-15773.0,,,,,IOTS
+132,,2018-10-03 21:50:21,2018-10-01,IOTS,Hollmer Shane,"VP, Engineering",F - Tax,5.89,-1407,146610,-1%,-8287.0,,,,,IOTS
+133,,2018-10-03 21:49:22,2018-10-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,5.89,-3714,610366,-1%,-21875.0,,,,,IOTS
+134,,2018-08-08 16:49:07,2018-08-06,IOTS,Derhacobian Narbeh,"Pres, CEO",P - Purchase,5.14,10000,614080,+2%,51350.0,,,,,IOTS
+135,,2018-07-31 14:04:50,2018-06-19,IOTS,Chan Nelson C,Dir,A - Grant,0.0,3243,37750,+9%,0.0,,,,,IOTS
+136,,2018-07-31 14:01:59,2018-06-19,IOTS,Palatnik Kevin S.,Dir,A - Grant,0.0,3243,20186,+19%,0.0,,,,,IOTS
+137,,2018-07-31 13:57:54,2018-06-19,IOTS,Lee Francis F,Dir,A - Grant,0.0,3243,20186,+19%,0.0,,,,,IOTS
+138,,2018-07-31 13:54:39,2018-06-19,IOTS,Crandell Keith,"Dir, 10%",A - Grant,0.0,3243,17734,+22%,0.0,,,,,IOTS
+139,,2018-07-03 21:57:21,2018-07-01,IOTS,Wang Janet,"VP, Discrete Products Group",F - Tax,8.4,-840,100224,-1%,-7056.0,,,,,IOTS
+140,,2018-07-03 21:56:07,2018-07-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,8.4,-764,74226,-1%,-6418.0,,,,,IOTS
+141,,2018-07-03 21:54:50,2018-07-01,IOTS,Naveh Ishai,"VP, Business Development",F - Tax,8.4,-638,161590,0%,-5359.0,,,,,IOTS
+142,,2018-07-03 21:52:46,2018-07-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,8.4,-444,26614,-2%,-3730.0,,,,,IOTS
+143,,2018-07-03 21:50:59,2018-07-01,IOTS,Intrater Gideon D,CTO,F - Tax,8.4,-514,91240,-1%,-4318.0,,,,,IOTS
+144,,2018-07-03 21:49:05,2018-07-01,IOTS,Hollmer Shane,"VP, Engineering",F - Tax,8.4,-791,148017,-1%,-6644.0,,,,,IOTS
+145,,2018-07-03 21:47:39,2018-07-01,IOTS,Shelton Ron,CFO,F - Tax,8.4,-1381,240360,-1%,-11600.0,,,,,IOTS
+146,,2018-07-03 21:45:48,2018-07-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,8.4,-2157,604080,0%,-18119.0,,,,,IOTS
+147,D,2018-05-22 19:02:05,2018-05-18,IOTS,Hollmer Shane,"VP, Engineering",M - OptEx,1.65,5321,148808,+4%,8780.0,,,,,IOTS
+148,,2018-05-11 17:38:20,2018-05-09,IOTS,Intrater Gideon D,CTO,F - Tax,8.7,-1729,91754,-2%,-15042.0,,,,,IOTS
+149,D,2018-05-03 16:10:10,2018-04-29,IOTS,Wang Janet,"VP, Discrete Products Group",A - Grant,0.0,11335,101064,+13%,0.0,,,,,IOTS
+150,D,2018-04-26 20:59:06,2018-04-24,IOTS,Spade Thomas D,"VP, Worldwide Sales",A - Grant,0.0,11109,74990,+17%,0.0,,,,,IOTS
+151,D,2018-04-26 20:57:59,2018-04-24,IOTS,Naveh Ishai,"VP, Business Development",A - Grant,0.0,6566,162228,+4%,0.0,,,,,IOTS
+152,D,2018-04-26 20:56:51,2018-04-24,IOTS,Mehrbians Raphael,"VP, Marketing",A - Grant,0.0,9109,27058,+51%,0.0,,,,,IOTS
+153,D,2018-04-26 20:55:43,2018-04-24,IOTS,Intrater Gideon D,CTO,A - Grant,0.0,10780,93483,+13%,0.0,,,,,IOTS
+154,D,2018-04-26 20:54:25,2018-04-24,IOTS,Hollmer Shane,"VP, Engineering",A - Grant,0.0,9068,143487,+7%,0.0,,,,,IOTS
+155,D,2018-04-26 20:53:20,2018-04-24,IOTS,Shelton Ron,CFO,A - Grant,0.0,13855,241741,+6%,0.0,,,,,IOTS
+156,D,2018-04-26 20:52:22,2018-04-24,IOTS,Derhacobian Narbeh,"Pres, CEO",A - Grant,0.0,39777,606237,+7%,0.0,,,,,IOTS
+157,,2018-04-03 21:05:20,2018-04-01,IOTS,Wang Janet,"VP, Discrete Products Group",A - Grant,0.0,20625,89729,+30%,0.0,,,,,IOTS
+158,,2018-04-03 21:05:20,2018-04-01,IOTS,Wang Janet,"VP, Discrete Products Group",F - Tax,7.4,-703,89729,-1%,-5202.0,,,,,IOTS
+159,,2018-04-03 21:02:18,2018-04-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",A - Grant,0.0,18172,63881,+40%,0.0,,,,,IOTS
+160,,2018-04-03 21:02:18,2018-04-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,7.4,-620,63881,-1%,-4588.0,,,,,IOTS
+161,,2018-04-03 21:01:20,2018-04-01,IOTS,Naveh Ishai,"VP, Business Development",A - Grant,0.0,17188,155662,+12%,0.0,,,,,IOTS
+162,,2018-04-03 21:01:20,2018-04-01,IOTS,Naveh Ishai,"VP, Business Development",F - Tax,7.4,-586,155662,0%,-4336.0,,,,,IOTS
+163,,2018-04-03 21:00:08,2018-04-01,IOTS,Mehrbians Raphael,"VP, Marketing",A - Grant,0.0,8563,17949,+91%,0.0,,,,,IOTS
+164,,2018-04-03 21:00:08,2018-04-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,7.4,-292,17949,-2%,-2161.0,,,,,IOTS
+165,,2018-04-03 20:58:45,2018-04-01,IOTS,Intrater Gideon D,CTO,A - Grant,0.0,9728,82703,+13%,0.0,,,,,IOTS
+166,,2018-04-03 20:58:45,2018-04-01,IOTS,Intrater Gideon D,CTO,F - Tax,7.4,-332,82703,0%,-2457.0,,,,,IOTS
+167,,2018-04-03 20:57:50,2018-04-01,IOTS,Hollmer Shane,"VP, Engineering",A - Grant,0.0,20625,134419,+18%,0.0,,,,,IOTS
+168,,2018-04-03 20:57:50,2018-04-01,IOTS,Hollmer Shane,"VP, Engineering",F - Tax,7.4,-703,134419,-1%,-5202.0,,,,,IOTS
+169,,2018-04-03 20:56:18,2018-04-01,IOTS,Shelton Ron,CFO,A - Grant,0.0,37500,227886,+20%,0.0,,,,,IOTS
+170,,2018-04-03 20:56:18,2018-04-01,IOTS,Shelton Ron,CFO,F - Tax,7.4,-1276,227886,-1%,-9442.0,,,,,IOTS
+171,,2018-04-03 20:55:30,2018-04-01,IOTS,Derhacobian Narbeh,"Pres, CEO",A - Grant,0.0,45000,566460,+9%,0.0,,,,,IOTS
+172,,2018-04-03 20:55:30,2018-04-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,7.4,-1394,566460,0%,-10316.0,,,,,IOTS
+173,,2018-03-02 19:25:36,2018-02-28,IOTS,Wang Janet,"VP, Discrete Products Group",S - Sale,6.5,-8333,69807,-11%,-54156.0,,,,,IOTS
+174,,2018-03-02 19:23:07,2018-02-09,IOTS,Intrater Gideon D,CTO,F - Tax,6.45,-2045,73307,-3%,-13190.0,,,,,IOTS
+175,D,2018-02-02 16:45:12,2018-01-31,IOTS,Shelton Ron,CFO,M - OptEx,1.65,10000,191662,+6%,16500.0,,,,,IOTS
+176,D,2018-01-18 17:55:40,2018-01-16,IOTS,Naveh Ishai,"VP, Business Development",M - OptEx,1.65,21890,136654,+19%,36119.0,,,,,IOTS
+177,,2018-01-04 21:49:17,2018-01-01,IOTS,Wang Janet,"VP, Discrete Products Group",F - Tax,6.45,-755,79038,-1%,-4870.0,,,,,IOTS
+178,,2018-01-04 21:48:32,2018-01-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,6.45,-665,45654,-1%,-4289.0,,,,,IOTS
+179,,2018-01-04 21:47:41,2018-01-01,IOTS,Shelton Ron,CFO,F - Tax,6.45,-1372,181662,-1%,-8849.0,,,,,IOTS
+180,,2018-01-04 21:45:39,2018-01-01,IOTS,Naveh Ishai,"VP, Business Development",F - Tax,6.45,-629,114764,-1%,-4057.0,,,,,IOTS
+181,,2018-01-04 21:44:59,2018-01-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,6.45,-313,9678,-3%,-2019.0,,,,,IOTS
+182,,2018-01-04 21:44:14,2018-01-01,IOTS,Intrater Gideon D,CTO,F - Tax,6.45,-356,72852,0%,-2296.0,,,,,IOTS
+183,,2018-01-04 21:43:15,2018-01-01,IOTS,Hollmer Shane,"VP, Engineering",F - Tax,6.45,-755,112922,-1%,-4870.0,,,,,IOTS
+184,,2018-01-04 21:42:19,2018-01-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,6.45,-1646,522854,0%,-10617.0,,,,,IOTS
+185,,2017-12-04 17:51:49,2017-11-30,IOTS,Naveh Ishai,"VP, Business Development",S - Sale,8.11,-11413,115393,-9%,-92562.0,,,,,IOTS
+186,D,2017-12-04 17:42:56,2017-11-30,IOTS,Shelton Ron,CFO,M - OptEx,1.65,5500,188534,+3%,9075.0,,,,,IOTS
+187,,2017-11-30 16:28:01,2017-11-28,IOTS,Hollmer Shane,"VP, Engineering",S - Sale,8.47,-5000,113677,-4%,-42338.0,,,,,IOTS
+188,,2017-11-30 16:26:49,2017-11-28,IOTS,Naveh Ishai,"VP, Business Development",S - Sale,8.45,-10000,126806,-7%,-84505.0,,,,,IOTS
+189,,2017-11-27 17:50:34,2017-11-22,IOTS,Naveh Ishai,"VP, Business Development",S - Sale,8.21,-10000,136806,-7%,-82086.0,,,,,IOTS
+190,,2017-11-27 17:48:52,2017-11-22,IOTS,Intrater Gideon D,CTO,S - Sale,8.4,-2500,73208,-3%,-21000.0,,,,,IOTS
+191,,2017-11-27 17:48:05,2017-11-22,IOTS,Derhacobian Narbeh,"Pres, CEO",S - Sale,8.23,-10000,524500,-2%,-82250.0,,,,,IOTS
+192,,2017-11-22 17:59:05,2017-11-21,IOTS,Intrater Gideon D,CTO,S - Sale,8.09,-3572,75708,-5%,-28897.0,,,,,IOTS
+193,M,2017-11-21 18:35:18,2017-11-17,IOTS,Naveh Ishai,"VP, Business Development",S - Sale,7.8,-15000,146806,-9%,-116935.0,,,,,IOTS
+194,DM,2017-11-17 17:52:29,2017-11-15,IOTS,Mehrbians Raphael,"VP, Marketing",M - OptEx,3.53,6250,9991,+167%,22050.0,,,,,IOTS
+195,DM,2017-11-17 17:52:29,2017-11-15,IOTS,Mehrbians Raphael,"VP, Marketing",S - Sale+OE,7.83,-7109,9991,-42%,-55698.0,,,,,IOTS
+196,,2017-11-15 18:22:01,2017-11-13,IOTS,Spade Thomas D,"VP, Worldwide Sales",S - Sale,8.33,-10000,46319,-18%,-83343.0,,,,,IOTS
+197,,2017-11-13 18:24:01,2017-11-09,IOTS,Intrater Gideon D,CTO,F - Tax,8.45,-1880,79280,-2%,-15886.0,,,,,IOTS
+198,,2017-11-03 18:06:33,2017-11-01,IOTS,Wang Janet,"VP, Discrete Products Group",S - Sale,7.7,-2937,79793,-4%,-22615.0,,,,,IOTS
+199,,2017-11-03 18:05:03,2017-11-01,IOTS,Hollmer Shane,"VP, Engineering",S - Sale,7.7,-3912,118677,-3%,-30122.0,,,,,IOTS
+200,,2017-11-01 19:40:55,2017-10-30,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,7.95,-11619,534500,-2%,-92371.0,,,,,IOTS
+201,,2017-10-17 18:48:16,2017-10-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,7.85,-262,10850,-2%,-2057.0,,,,,IOTS
+202,,2017-10-17 18:45:42,2017-10-01,IOTS,Intrater Gideon D,CTO,F - Tax,7.85,-305,81160,0%,-2394.0,,,,,IOTS
+203,,2017-10-17 18:43:32,2017-10-01,IOTS,Wang Janet,"VP, Discrete Products Group",F - Tax,7.85,-646,82730,-1%,-5071.0,,,,,IOTS
+204,,2017-10-17 18:41:30,2017-10-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,7.85,-569,55449,-1%,-4467.0,,,,,IOTS
+205,,2017-10-17 18:39:36,2017-10-01,IOTS,Naveh Ishai,"VP, Business Development",F - Tax,7.85,-539,161806,0%,-4231.0,,,,,IOTS
+206,,2017-10-17 18:36:40,2017-10-01,IOTS,Hollmer Shane,"VP, Engineering",F - Tax,7.85,-646,122589,-1%,-5071.0,,,,,IOTS
+207,,2017-10-17 18:34:30,2017-10-01,IOTS,Shelton Ron,CFO,F - Tax,7.85,-1175,183034,-1%,-9224.0,,,,,IOTS
+208,,2017-10-17 18:31:45,2017-10-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,7.85,-1410,546119,0%,-11069.0,,,,,IOTS
+209,,2017-08-21 21:47:20,2017-08-17,IOTS,Naveh Ishai,"VP, Business Development",S - Sale,6.32,-21706,162345,-12%,-137210.0,,,,,IOTS
+210,,2017-08-21 21:45:49,2017-08-17,IOTS,Intrater Gideon D,CTO,S - Sale,6.5,-2500,81465,-3%,-16250.0,,,,,IOTS
+211,,2017-08-11 21:23:57,2017-08-11,IOTS,Intrater Gideon D,CTO,F - Tax,5.55,-1880,83965,-2%,-10434.0,,,,,IOTS
+212,,2017-08-10 17:24:40,2017-07-30,IOTS,Wang Janet,"VP, Discrete Products Group",S - Sale,4.75,-3012,82943,-4%,-14307.0,,,,,IOTS
+213,,2017-08-10 17:22:55,2017-07-30,IOTS,Hollmer Shane,"VP, Engineering",S - Sale,4.75,-4011,121018,-3%,-19052.0,,,,,IOTS
+214,,2017-08-10 17:19:19,2017-07-30,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,4.75,-11618,547529,-2%,-55186.0,,,,,IOTS
+215,,2017-07-06 20:17:45,2017-07-01,IOTS,Mehrbians Raphael,"VP, Marketing",F - Tax,4.55,-306,11112,-3%,-1392.0,,,,,IOTS
+216,,2017-07-06 20:16:56,2017-07-01,IOTS,Intrater Gideon D,CTO,F - Tax,4.55,-298,83345,0%,-1356.0,,,,,IOTS
+217,,2017-07-06 20:14:04,2017-07-01,IOTS,Wang Janet,"VP, Discrete Products Group",F - Tax,4.55,-631,85955,-1%,-2871.0,,,,,IOTS
+218,,2017-07-06 20:12:56,2017-07-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",F - Tax,4.55,-556,56018,-1%,-2530.0,,,,,IOTS
+219,,2017-07-06 20:08:00,2017-07-01,IOTS,Naveh Ishai,"VP, Business Development",F - Tax,4.55,-526,181551,0%,-2393.0,,,,,IOTS
+220,,2017-07-06 20:04:38,2017-07-01,IOTS,Hollmer Shane,"VP, Engineering",F - Tax,4.55,-631,125029,-1%,-2871.0,,,,,IOTS
+221,,2017-07-06 20:03:32,2017-07-01,IOTS,Shelton Ron,CFO,F - Tax,4.55,-1147,184209,-1%,-5219.0,,,,,IOTS
+222,,2017-07-06 20:01:52,2017-07-01,IOTS,Derhacobian Narbeh,"Pres, CEO",F - Tax,4.55,-1410,559147,0%,-6416.0,,,,,IOTS
+223,D,2017-06-09 19:42:03,2017-06-06,IOTS,Crandell Keith,"Dir, 10%",A - Grant,0.0,6250,14491,+76%,0.0,,,,,IOTS
+224,D,2017-06-09 19:42:03,2017-06-06,IOTS,Crandell Keith,"Dir, 10%",M - OptEx,0.0,8241,14491,+132%,0.0,,,,,IOTS
+225,D,2017-06-08 21:50:40,2017-06-06,IOTS,Palatnik Kevin S.,Dir,A - Grant,0.0,6250,16943,+58%,0.0,,,,,IOTS
+226,D,2017-06-08 21:50:40,2017-06-06,IOTS,Palatnik Kevin S.,Dir,M - OptEx,0.0,8241,16943,+95%,0.0,,,,,IOTS
+227,D,2017-06-08 21:49:46,2017-06-06,IOTS,Lee Francis F,Dir,A - Grant,0.0,6250,16943,+58%,0.0,,,,,IOTS
+228,D,2017-06-08 21:49:46,2017-06-06,IOTS,Lee Francis F,Dir,M - OptEx,0.0,8241,16943,+95%,0.0,,,,,IOTS
+229,D,2017-06-08 21:48:37,2017-06-06,IOTS,Chan Nelson C,Dir,A - Grant,0.0,6250,34507,+22%,0.0,,,,,IOTS
+230,D,2017-06-08 21:48:37,2017-06-06,IOTS,Chan Nelson C,Dir,M - OptEx,0.0,8241,34507,+31%,0.0,,,,,IOTS
+231,DM,2017-05-30 19:32:17,2017-05-25,IOTS,Wang Janet,"VP, Discrete Products Group",M - OptEx,1.65,18484,86586,+27%,30499.0,,,,,IOTS
+232,D,2017-05-30 19:32:17,2017-05-25,IOTS,Wang Janet,"VP, Discrete Products Group",S - Sale+OE,5.1,-2600,86586,-3%,-13260.0,,,,,IOTS
+233,D,2017-05-24 19:39:30,2017-05-22,IOTS,Hollmer Shane,"VP, Engineering",M - OptEx,1.65,32575,125660,+35%,53749.0,,,,,IOTS
+234,D,2017-05-24 19:39:30,2017-05-22,IOTS,Hollmer Shane,"VP, Engineering",S - Sale+OE,5.42,-5330,125660,-4%,-28897.0,,,,,IOTS
+235,,2017-05-24 19:35:51,2017-05-22,IOTS,Naveh Ishai,"VP, Business Development",S - Sale,5.27,-4000,182077,-2%,-21068.0,,,,,IOTS
+236,D,2017-05-23 18:23:28,2017-05-19,IOTS,Intrater Gideon D,CTO,M - OptEx,1.65,2180,83643,+3%,3597.0,,,,,IOTS
+237,D,2017-05-23 18:23:28,2017-05-19,IOTS,Intrater Gideon D,CTO,S - Sale+OE,5.3,-2180,83643,-3%,-11554.0,,,,,IOTS
+238,,2017-04-04 21:43:32,2017-04-01,IOTS,Wang Janet,"VP, Discrete Products Group",A - Grant,0.0,27500,70702,+64%,0.0,-1.0,4.0,28.0,,IOTS
+239,,2017-04-04 21:42:40,2017-04-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",A - Grant,0.0,24229,56574,+75%,0.0,-1.0,4.0,28.0,,IOTS
+240,,2017-04-04 21:41:12,2017-04-01,IOTS,Shelton Ron,CFO,A - Grant,0.0,50000,185356,+37%,0.0,-1.0,4.0,28.0,,IOTS
+241,,2017-04-04 21:40:09,2017-04-01,IOTS,Naveh Ishai,"VP, Business Development",A - Grant,0.0,22917,186077,+14%,0.0,-1.0,4.0,28.0,,IOTS
+242,,2017-04-04 21:38:24,2017-04-01,IOTS,Mehrbians Raphael,"VP, Marketing",A - Grant,0.0,11418,11418,New,0.0,-1.0,4.0,28.0,,IOTS
+243,,2017-04-04 21:37:25,2017-04-01,IOTS,Intrater Gideon D,CTO,A - Grant,0.0,12971,83643,+18%,0.0,-1.0,4.0,28.0,,IOTS
+244,,2017-04-04 21:36:22,2017-04-01,IOTS,Hollmer Shane,"VP, Engineering",A - Grant,0.0,27500,98415,+39%,0.0,-1.0,4.0,28.0,,IOTS
+245,,2017-04-04 21:35:20,2017-04-01,IOTS,Derhacobian Narbeh,"Pres, CEO",A - Grant,0.0,60000,560557,+12%,0.0,-1.0,4.0,28.0,,IOTS
+246,,2017-03-06 19:59:06,2017-01-31,IOTS,Wang Janet,"VP, Discrete Products Group",S - Sale,3.55,-3425,43202,-7%,-12159.0,-1.0,-5.0,9.0,,IOTS
+247,,2017-03-06 19:54:03,2017-01-31,IOTS,Hollmer Shane,"VP, Engineering",S - Sale,3.55,-4560,70915,-6%,-16188.0,-1.0,-5.0,9.0,,IOTS
+248,,2017-02-22 19:33:00,2017-02-17,IOTS,Spade Thomas D,"VP, Worldwide Sales",S - Sale,4.32,-4064,32345,-11%,-17563.0,-6.0,-8.0,-6.0,,IOTS
+249,D,2017-02-13 21:59:14,2017-02-09,IOTS,Intrater Gideon D,CTO,A - Grant,0.0,40000,65672,+156%,0.0,8.0,20.0,12.0,,IOTS
+250,D,2017-02-08 20:40:16,2017-02-06,IOTS,Derhacobian Narbeh,"Pres, CEO",M - OptEx,0.99,63696,500557,+15%,63059.0,-1.0,8.0,0.0,,IOTS
+251,,2016-11-23 16:23:02,2016-11-21,IOTS,Derhacobian Narbeh,"Pres, CEO",P - Purchase,1.76,10000,436861,+2%,17603.0,-6.0,0.0,3.0,,IOTS
+252,,2016-11-17 16:23:13,2016-11-15,IOTS,Shelton Ron,CFO,P - Purchase,2.04,10000,135356,+8%,20418.0,-8.0,-3.0,3.0,,IOTS
+253,,2016-11-14 18:14:12,2016-11-10,IOTS,Derhacobian Narbeh,"Pres, CEO",P - Purchase,2.05,7200,426861,+2%,14760.0,0.0,-15.0,-3.0,,IOTS
+254,DM,2016-11-10 17:35:29,2016-10-29,IOTS,Intrater Gideon D,CTO,M - OptEx,0.0,11763,25672,+85%,0.0,0.0,0.0,0.0,151.0,IOTS
+255,D,2016-11-10 17:34:08,2016-10-30,IOTS,Palatnik Kevin S.,Dir,M - OptEx,0.0,1226,2452,+100%,0.0,0.0,0.0,0.0,151.0,IOTS
+256,D,2016-11-10 17:32:51,2016-10-30,IOTS,Lee Francis F,Dir,M - OptEx,0.0,1226,2452,+100%,0.0,0.0,0.0,0.0,151.0,IOTS
+257,D,2016-11-10 17:30:42,2016-10-30,IOTS,Cox Barry L /adv,Dir,M - OptEx,0.0,12873,25746,+100%,0.0,0.0,0.0,0.0,151.0,IOTS
+258,D,2016-11-10 17:28:49,2016-10-30,IOTS,Chan Nelson C,Dir,M - OptEx,0.0,10008,20016,+100%,0.0,0.0,0.0,0.0,151.0,IOTS
+259,D,2016-11-10 17:26:43,2016-10-30,IOTS,Wang Janet,"VP, Discrete Products Group",M - OptEx,0.0,30129,46172,+188%,0.0,0.0,0.0,0.0,151.0,IOTS
+260,D,2016-11-10 17:26:43,2016-11-01,IOTS,Wang Janet,"VP, Discrete Products Group",S - Sale+OE,1.73,-14086,46172,-23%,-24434.0,0.0,0.0,0.0,151.0,IOTS
+261,DM,2016-11-10 17:25:28,2016-10-29,IOTS,Spade Thomas D,"VP, Worldwide Sales",M - OptEx,0.0,20614,32345,+176%,0.0,0.0,0.0,0.0,151.0,IOTS
+262,D,2016-11-10 17:25:28,2016-11-01,IOTS,Spade Thomas D,"VP, Worldwide Sales",S - Sale+OE,1.73,-9654,32345,-23%,-16746.0,0.0,0.0,0.0,151.0,IOTS
+263,D,2016-11-10 17:23:39,2016-10-30,IOTS,Naveh Ishai,"VP, Marketing",M - OptEx,0.0,46413,158160,+42%,0.0,0.0,0.0,0.0,151.0,IOTS
+264,D,2016-11-10 17:22:03,2016-10-30,IOTS,Hollmer Shane,"VP, Engineering",M - OptEx,0.0,40134,71610,+128%,0.0,0.0,0.0,0.0,151.0,IOTS
+265,D,2016-11-10 17:22:03,2016-11-01,IOTS,Hollmer Shane,"VP, Engineering",S - Sale+OE,1.73,-18759,71610,-21%,-32539.0,0.0,0.0,0.0,151.0,IOTS
+266,D,2016-11-10 17:20:06,2016-10-30,IOTS,Shelton Ron,CFO,M - OptEx,0.0,42678,125356,+52%,0.0,0.0,0.0,0.0,151.0,IOTS
+267,D,2016-11-10 17:20:06,2016-11-08,IOTS,Shelton Ron,CFO,P - Purchase,1.9,15000,125356,+14%,28500.0,0.0,0.0,0.0,151.0,IOTS
+268,D,2016-11-10 17:17:39,2016-10-30,IOTS,Derhacobian Narbeh,"Pres, CEO",M - OptEx,0.0,123655,419661,+42%,0.0,0.0,0.0,0.0,151.0,IOTS
+269,D,2016-11-10 17:17:39,2016-11-08,IOTS,Derhacobian Narbeh,"Pres, CEO",P - Purchase,1.91,17800,419661,+4%,34080.0,0.0,0.0,0.0,151.0,IOTS
+270,D,2016-11-10 17:17:39,2016-11-01,IOTS,Derhacobian Narbeh,"Pres, CEO",S - Sale+OE,1.73,-57773,419661,-12%,-100213.0,0.0,0.0,0.0,151.0,IOTS
+271,,2016-08-30 16:14:39,2016-08-26,IOTS,Applied Materials Inc /de,10%,S - Sale,2.41,-5000,1503651,0%,-12050.0,-3.0,-2.0,-17.0,59.0,IOTS
+272,,2016-05-11 16:15:26,2016-05-10,IOTS,Shelton Ron,CFO,P - Purchase,3.54,25000,25000,New,88500.0,7.0,3.0,16.0,-52.0,IOTS
+273,D,2015-11-03 19:54:27,2015-10-30,IOTS,"Ata Management Ii, LLC",10%,C - Converted deriv,0.0,1080813,1080813,-50%,0.0,-4.0,-5.0,18.0,-18.0,IOTS
+274,D,2015-11-03 19:52:04,2015-10-30,IOTS,Crandell Keith,"Dir, 10%",C - Converted deriv,0.0,1876511,2276511,-45%,0.0,-4.0,-5.0,18.0,-18.0,IOTS
+275,D,2015-11-03 19:51:08,2015-10-30,IOTS,Arch Venture Fund VI LP,10%,C - Converted deriv,0.0,1876511,2276511,-45%,0.0,-4.0,-5.0,18.0,-18.0,IOTS
+276,D,2015-11-03 19:50:05,2015-10-30,IOTS,Harris & Harris Group Inc /ny/,"Dir, 10%",C - Converted deriv,0.0,1569868,1769868,-47%,0.0,-4.0,-5.0,18.0,-18.0,IOTS
+277,D,2015-11-03 19:47:38,2015-10-30,IOTS,Andreev Alexei A,"Dir, 10%",C - Converted deriv,0.0,1569868,1769868,-47%,0.0,-4.0,-5.0,18.0,-18.0,IOTS
+278,D,2015-11-03 16:47:59,2015-10-30,IOTS,Applied Materials Inc /de,10%,C - Converted deriv,0.0,1508651,1508651,-50%,0.0,-4.0,-5.0,18.0,-18.0,IOTS
+279,,2015-10-28 17:07:50,2015-10-26,IOTS,Crandell Keith,"Dir, 10%",P - Purchase,5.0,400000,400000,New,2000000.0,5.0,-11.0,10.0,-24.0,IOTS
+280,,2015-10-28 17:07:05,2015-10-26,IOTS,Arch Venture Fund VI LP,10%,P - Purchase,5.0,400000,400000,New,2000000.0,5.0,-11.0,10.0,-24.0,IOTS
+281,,2015-10-28 17:06:13,2015-10-26,IOTS,Harris & Harris Group Inc /ny/,"Dir, 10%",P - Purchase,5.0,200000,200000,New,1000000.0,5.0,-11.0,10.0,-24.0,IOTS
+282,,2015-10-28 17:05:25,2015-10-26,IOTS,Andreev Alexei A,"Dir, 10%",P - Purchase,5.0,200000,200000,New,1000000.0,5.0,-11.0,10.0,-24.0,IOTS

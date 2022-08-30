@@ -1,69 +1,376 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,D,2022-03-09 18:02:28,2022-03-07,NEO,Bonello William,CFO,S - Sale+OE,18.29,-3209,103516,-3%,-58693.0,,,,,NEO
-1,D,2021-12-23 17:25:27,2021-12-21,NEO,McKenzie Kathryn B,CFO,S - Sale+OE,35.0,-1846,16689,-10%,-64610.0,,,,,NEO
-2,D,2021-12-06 16:16:42,2021-12-06,NEO,Mallon Mark,CEO,P - Purchase,30.63,17000,72736,+31%,520710.0,,,,,NEO
-3,D,2021-11-29 16:16:00,2021-11-24,NEO,Bonello William,"Pres, Informatics",S - Sale+OE,37.13,-25000,15473,-62%,-928250.0,,,,,NEO
-4,DM,2021-11-26 16:14:57,2021-11-23,NEO,Brown Douglas Matthew,Chief Strategy Officer,S - Sale+OE,36.96,-100000,11644,-90%,-3696000.0,,,,,NEO
-5,D,2021-06-10 17:01:20,2021-06-08,NEO,Crowther Bruce K,Dir,S - Sale+OE,41.46,-20734,49564,-29%,-859632.0,,,,,NEO
-6,DM,2021-06-04 19:56:39,2021-06-02,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,40.35,-200337,196772,-50%,-8082901.0,,,,,NEO
-7,D,2021-05-27 18:23:32,2021-05-25,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,39.31,-130604,150101,-47%,-5134043.0,,,,,NEO
-8,D,2020-12-15 20:51:33,2020-12-14,NEO,Weiss Lawrence Martin,Chief Medical Officer,S - Sale+OE,51.06,-20200,100521,-17%,-1031412.0,,,,,NEO
-9,DM,2020-12-14 17:49:22,2020-12-10,NEO,Jones Steven C,Dir,S - Sale+OE,50.87,-70000,1269165,-5%,-3560750.0,,,,,NEO
-10,D,2020-12-11 17:57:43,2020-12-11,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,49.99,-15000,24980,-38%,-749850.0,,,,,NEO
-11,DM,2020-12-07 18:23:01,2020-12-03,NEO,Jones Steven C,Dir,S - Sale+OE,48.55,-130000,1339165,-9%,-6311310.0,,,,,NEO
-12,D,2020-12-07 18:19:40,2020-12-04,NEO,Johnson Kevin C,Dir,S - Sale+OE,47.88,-24683,30983,-44%,-1181822.0,,,,,NEO
-13,D,2020-12-04 18:03:11,2020-12-02,NEO,Bonello William,"Pres, Informatics",S - Sale+OE,46.8,-8000,12060,-40%,-374400.0,,,,,NEO
-14,DM,2020-11-25 18:04:04,2020-11-24,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,45.36,-130000,390902,-25%,-5897051.0,,,,,NEO
-15,D,2020-11-18 18:53:00,2020-11-16,NEO,Hipp Raymond R,Dir,S - Sale+OE,42.28,-70000,66800,-51%,-2959600.0,,,,,NEO
-16,DM,2020-11-16 20:30:53,2020-11-12,NEO,Van Oort Douglas M,"COB, CEO",S - Sale+OE,42.01,-340000,2437790,-12%,-14283574.0,,,,,NEO
-17,D,2020-11-12 18:00:24,2020-11-10,NEO,Pedulla Denise E,GC,S - Sale+OE,42.0,-2262,56726,-4%,-95004.0,,,,,NEO
-18,DM,2020-09-30 18:25:01,2020-09-28,NEO,Jones Steven C,Dir,S - Sale+OE,36.72,-280000,1469165,-16%,-10282430.0,,,,,NEO
-19,DM,2020-09-24 21:02:15,2020-09-22,NEO,Crowther Bruce K,Dir,S - Sale+OE,35.16,-10733,46483,-19%,-377370.0,,,,,NEO
-20,DM,2020-09-10 18:16:34,2020-09-08,NEO,Jones Steven C,Dir,S - Sale+OE,36.95,-120000,1774165,-6%,-4434437.0,,,,,NEO
-21,D,2020-08-10 18:19:46,2020-08-06,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,39.35,-82500,370902,-18%,-3246375.0,,,,,NEO
-22,D,2020-08-04 18:33:38,2020-08-03,NEO,Bonello William,"Pres, Informatics",S - Sale+OE,38.61,-22000,12060,-65%,-849420.0,,,,,NEO
-23,D,2020-08-04 18:01:35,2020-08-03,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,39.25,-13000,24980,-34%,-510250.0,,,,,NEO
-24,D,2020-08-03 19:26:49,2020-07-30,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,38.17,-81356,148270,-35%,-3105359.0,,,,,NEO
-25,D,2020-03-05 20:14:10,2020-03-04,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,30.86,-98093,151640,-39%,-3027150.0,,,,,NEO
-26,D,2020-03-04 19:17:24,2020-03-02,NEO,Jones Steven C,Dir,S - Sale+OE,28.77,-297300,1766467,-14%,-8554252.0,,,,,NEO
-27,D,2019-12-12 19:28:27,2019-12-10,NEO,McKenzie Kathryn B,Chief Accounting Officer,S - Sale+OE,26.37,-8000,2273,-78%,-210960.0,,,,,NEO
-28,DM,2019-11-22 17:35:45,2019-11-20,NEO,Jones Steven C,Dir,S - Sale+OE,24.34,-151230,1813767,-8%,-3680598.0,,,,,NEO
-29,D,2019-11-21 17:32:29,2019-11-19,NEO,Van Oort Douglas M,"COB, CEO",S - Sale+OE,24.08,-187500,2293481,-8%,-4515000.0,,,,,NEO
-30,D,2019-11-18 12:30:48,2019-11-15,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,23.45,-6833,22862,-23%,-160234.0,,,,,NEO
-31,D,2019-11-14 17:11:13,2019-11-12,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,23.15,-19444,325831,-6%,-450129.0,,,,,NEO
-32,DM,2019-11-08 16:47:06,2019-11-06,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,22.82,-55556,300831,-16%,-1267708.0,,,,,NEO
-33,DM,2019-11-04 18:07:11,2019-10-31,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,22.99,-106274,145640,-42%,-2442746.0,,,,,NEO
-34,DM,2019-09-10 20:32:06,2019-09-06,NEO,Jones Steven C,Dir,S - Sale+OE,23.54,-2894,2164997,0%,-68114.0,,,,,NEO
-35,D,2019-08-30 17:15:17,2019-08-28,NEO,Bonello William,Chief Strategy Officer,S - Sale+OE,24.83,-17000,6735,-72%,-422110.0,,,,,NEO
-36,DM,2019-08-30 17:10:48,2019-08-28,NEO,Jones Steven C,Dir,S - Sale+OE,25.02,-40737,2171291,-2%,-1019216.0,,,,,NEO
-37,DM,2019-08-27 17:44:05,2019-08-23,NEO,Hipp Raymond R,Dir,S - Sale+OE,24.8,-16024,134102,-11%,-397373.0,,,,,NEO
-38,DM,2019-08-27 17:41:42,2019-08-23,NEO,Johnson Kevin C,Dir,S - Sale+OE,25.41,-53000,28285,-65%,-1346652.0,,,,,NEO
-39,DM,2019-08-27 17:40:11,2019-08-23,NEO,Jones Steven C,Dir,S - Sale+OE,24.92,-181339,2212028,-8%,-4518661.0,,,,,NEO
-40,DM,2019-05-09 21:55:40,2019-05-07,NEO,Hipp Raymond R,Dir,S - Sale+OE,22.41,-150000,137580,-52%,-3361880.0,,,,,NEO
-41,D,2019-05-08 17:02:30,2019-05-06,NEO,Bonello William,Chief Strategy Officer,S - Sale+OE,23.53,-7200,6735,-52%,-169416.0,,,,,NEO
-42,D,2019-05-06 17:33:00,2019-05-03,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,22.74,-30000,22862,-57%,-682200.0,,,,,NEO
-43,D,2019-05-06 17:31:54,2019-05-02,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,22.14,-119347,162307,-42%,-2642343.0,,,,,NEO
-44,D,2019-05-06 17:30:40,2019-05-03,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,22.82,-151676,320831,-32%,-3461246.0,,,,,NEO
-45,DM,2019-03-04 17:25:20,2019-02-28,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,19.42,-44000,22862,-66%,-854360.0,,,,,NEO
-46,DM,2019-02-28 20:25:50,2019-02-26,NEO,Jones Steven C,EVP,S - Sale+OE,18.9,-299873,2389948,-11%,-5668743.0,,,,,NEO
-47,DM,2019-02-28 17:05:58,2019-02-26,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,18.96,-186014,137377,-58%,-3527392.0,,,,,NEO
-48,D,2019-02-28 16:59:48,2019-02-26,NEO,Bonello William,Chief Strategy Officer,S - Sale+OE,18.9,-60203,0,-100%,-1137837.0,,,,,NEO
-49,D,2019-02-28 16:57:20,2019-02-26,NEO,Hipp Raymond R,Dir,S - Sale+OE,18.9,-18889,287580,-6%,-357002.0,,,,,NEO
-50,D,2018-12-26 19:08:34,2018-12-21,NEO,Johnson Kevin C,Dir,P - Purchase,11.6,26000,103866,+33%,301600.0,,,,,NEO
-51,,2018-12-14 16:05:50,2018-12-14,NEO,General Electric Co,Former 10% Owner,S - Sale,12.0,-10835145,0,-100%,-130021740.0,,,,,NEO
-52,D,2018-11-21 13:33:04,2018-11-19,NEO,Tetrault Lynn A.,Dir,S - Sale+OE,16.0,-13000,38234,-25%,-207940.0,,,,,NEO
-53,D,2018-11-16 17:18:12,2018-11-14,NEO,Tetrault Lynn A.,Dir,S - Sale+OE,16.16,-5000,51234,-9%,-80800.0,,,,,NEO
-54,DM,2018-11-14 19:30:59,2018-11-12,NEO,Jones Steven C,EVP,S - Sale+OE,16.66,-141127,2689821,-5%,-2351235.0,,,,,NEO
-55,DM,2018-11-13 20:46:54,2018-11-09,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,16.89,-68333,20000,-77%,-1153965.0,,,,,NEO
-56,,2018-11-13 17:05:43,2018-11-09,NEO,General Electric Co,10%,S - Sale,16.75,-4164855,10835145,-28%,-69761321.0,,,,,NEO
-57,D,2018-11-13 10:48:42,2018-11-09,NEO,Johnson Kevin C,Dir,S - Sale+OE,17.03,-66007,77866,-46%,-1124180.0,,,,,NEO
-58,DM,2018-11-13 10:27:33,2018-11-09,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,17.0,-216493,123391,-64%,-3680623.0,,,,,NEO
-59,DM,2018-08-01 19:56:34,2018-07-30,NEO,Jones Steven C,EVP,S - Sale+OE,14.0,-203500,2830948,-7%,-2849411.0,,,,,NEO
-60,D,2018-06-29 17:21:50,2018-06-29,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,13.12,-12941,39884,-24%,-169786.0,,,,,NEO
-61,D,2018-06-26 17:29:31,2018-06-22,NEO,Jones Steven C,EVP,S - Sale+OE,14.04,-89688,3034448,-3%,-1259220.0,,,,,NEO
-62,DM,2018-06-19 18:54:31,2018-06-15,NEO,Jones Steven C,EVP,S - Sale+OE,13.32,-160312,3124136,-5%,-2134567.0,,,,,NEO
-63,D,2018-06-05 17:42:46,2018-06-01,NEO,Jones Steven C,EVP,S - Sale+OE,12.12,-230533,3284448,-7%,-2794060.0,,,,,NEO
-64,DM,2018-05-31 17:54:06,2018-05-29,NEO,Jones Steven C,EVP,S - Sale+OE,11.68,-169467,3508084,-5%,-1979736.0,,,,,NEO
-65,D,2018-05-31 17:50:15,2018-05-29,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,11.66,-65000,13322,-83%,-758100.0,,,,,NEO
-66,D,2018-05-17 15:35:11,2018-05-15,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,11.24,-13000,0,-100%,-146055.0,,,,,NEO
-67,D,2018-05-10 17:53:07,2018-05-10,NEO,Ross Steven A,CIO,S - Sale+OE,10.78,-81999,9000,-90%,-883949.0,,,,,NEO
+0,D,2022-03-09 18:02:28,2022-03-08,NEO,Bonello William,CFO,M - OptEx,7.52,5000,103516,+5%,37600.0,,,,,NEO
+1,D,2022-03-09 18:02:28,2022-03-07,NEO,Bonello William,CFO,S - Sale+OE,18.29,-3209,103516,-3%,-58693.0,,,,,NEO
+2,D,2022-03-03 19:59:44,2022-03-01,NEO,Gilbert Halley E,GC,A - Grant,0.0,42036,147396,+40%,0.0,,,,,NEO
+3,D,2022-03-03 19:59:06,2022-03-01,NEO,Mallon Mark,CEO,A - Grant,0.0,142457,368051,+63%,0.0,,,,,NEO
+4,D,2022-03-03 19:58:38,2022-03-01,NEO,Dieter Cynthia J,Chief Accounting Officer,A - Grant,0.0,9341,18637,+100%,0.0,,,,,NEO
+5,D,2022-03-03 19:58:38,2022-03-02,NEO,Dieter Cynthia J,Chief Accounting Officer,F - Tax,0.0,-137,18637,-1%,-0.0,,,,,NEO
+6,DM,2022-03-03 19:58:07,2022-03-01,NEO,Cardoza George,"Pres, COO, Lab Ops",F - Tax,0.0,-1342,264157,-1%,-0.0,,,,,NEO
+7,D,2022-03-03 19:57:26,2022-03-01,NEO,Bonello William,CFO,A - Grant,0.0,40869,101725,+67%,0.0,,,,,NEO
+8,DM,2022-03-03 19:57:26,2022-03-01,NEO,Bonello William,CFO,F - Tax,0.0,-1017,101725,-1%,-0.0,,,,,NEO
+9,D,2022-03-03 19:57:01,2022-03-01,NEO,Brown Douglas Matthew,Chief Strategy Officer,A - Grant,0.0,35030,76379,+85%,0.0,,,,,NEO
+10,D,2022-03-03 19:57:01,2022-03-02,NEO,Brown Douglas Matthew,Chief Strategy Officer,F - Tax,0.0,-867,76379,-1%,-0.0,,,,,NEO
+11,D,2022-03-03 19:56:42,2022-03-01,NEO,Wallar Gina M,"Pres, Pharma Services",A - Grant,0.0,11677,33443,+54%,0.0,,,,,NEO
+12,D,2022-01-12 18:50:42,2022-01-11,NEO,McKenzie Kathryn B,"Chief Sustainability, Risk Ofc",M - OptEx,9.07,2100,49361,+4%,19047.0,,,,,NEO
+13,D,2021-12-30 18:05:44,2021-12-30,NEO,Wallar Gina M,"Pres, Pharma Services",A - Grant,0.0,15286,21299,+254%,0.0,,,,,NEO
+14,D,2021-12-30 18:05:23,2021-12-30,NEO,Morris Clive,Pres of Inivata,A - Grant,0.0,30572,41280,+286%,0.0,,,,,NEO
+15,D,2021-12-30 18:05:03,2021-12-30,NEO,Mallon Mark,CEO,A - Grant,0.0,152858,225594,+210%,0.0,,,,,NEO
+16,D,2021-12-30 18:04:44,2021-12-30,NEO,Cardoza George,"Pres, COO, Lab Ops",A - Grant,0.0,61143,265499,+30%,0.0,,,,,NEO
+17,D,2021-12-30 18:04:23,2021-12-30,NEO,McKenzie Kathryn B,CFO,A - Grant,0.0,30572,47261,+183%,0.0,,,,,NEO
+18,D,2021-12-30 18:04:04,2021-12-30,NEO,Bonello William,"Pres, Informatics",A - Grant,0.0,21400,61873,+53%,0.0,,,,,NEO
+19,D,2021-12-30 18:03:44,2021-12-30,NEO,Balliet Jennifer,"VP, Chief Culture Officer",A - Grant,0.0,21400,48615,+79%,0.0,,,,,NEO
+20,D,2021-12-30 18:03:20,2021-12-30,NEO,Dieter Cynthia J,Chief Accounting Officer,A - Grant,0.0,7643,9433,+427%,0.0,,,,,NEO
+21,D,2021-12-30 18:02:47,2021-12-30,NEO,Gilbert Halley E,GC,A - Grant,0.0,45858,105086,+77%,0.0,,,,,NEO
+22,D,2021-12-30 18:02:27,2021-12-30,NEO,Brown Douglas Matthew,Chief Strategy Officer,A - Grant,0.0,30572,42216,+263%,0.0,,,,,NEO
+23,D,2021-12-23 17:25:27,2021-12-22,NEO,McKenzie Kathryn B,CFO,M - OptEx,9.07,5000,16689,+43%,45350.0,,,,,NEO
+24,D,2021-12-23 17:25:27,2021-12-21,NEO,McKenzie Kathryn B,CFO,S - Sale+OE,35.0,-1846,16689,-10%,-64610.0,,,,,NEO
+25,D,2021-12-23 17:25:10,2021-12-22,NEO,Johnson Kevin C,Dir,M - OptEx,7.27,3334,37398,+10%,24238.0,,,,,NEO
+26,D,2021-12-06 16:16:42,2021-12-06,NEO,Mallon Mark,CEO,P - Purchase,30.63,17000,72736,+31%,520710.0,,,,,NEO
+27,D,2021-12-02 18:09:36,2021-11-30,NEO,Bonello William,"Pres, Informatics",M - OptEx,7.52,25000,40473,+162%,188000.0,,,,,NEO
+28,D,2021-11-29 16:16:00,2021-11-24,NEO,Bonello William,"Pres, Informatics",M - OptEx,8.03,25000,15473,-262%,200750.0,,,,,NEO
+29,D,2021-11-29 16:16:00,2021-11-24,NEO,Bonello William,"Pres, Informatics",S - Sale+OE,37.13,-25000,15473,-62%,-928250.0,,,,,NEO
+30,DM,2021-11-26 16:14:57,2021-11-23,NEO,Brown Douglas Matthew,Chief Strategy Officer,S - Sale+OE,36.96,-100000,11644,-90%,-3696000.0,,,,,NEO
+31,D,2021-11-12 17:19:23,2021-11-10,NEO,Daly David,Dir,A - Grant,0.0,1623,1623,New,0.0,,,,,NEO
+32,D,2021-10-13 17:04:44,2021-10-11,NEO,Tetrault Lynn A.,Dir,A - Grant,0.0,838,35777,+2%,0.0,,,,,NEO
+33,D,2021-08-19 17:42:50,2021-08-17,NEO,Gilbert Halley E,GC,A - Grant,0.0,59228,59228,New,0.0,,,,,NEO
+34,D,2021-08-13 17:12:39,2021-08-01,NEO,Van Oort Douglas M,Dir,F - Tax,46.1,-5919,2483797,0%,-272866.0,,,,,NEO
+35,D,2021-07-15 16:58:49,2021-06-18,NEO,Morris Clive,Pres of Inivata,A - Grant,0.0,10708,10708,New,0.0,,,,,NEO
+36,D,2021-07-15 16:58:05,2021-06-22,NEO,Dieter Cynthia J,Chief Accounting Officer,F - Tax,43.99,-56,1790,-3%,-2463.0,,,,,NEO
+37,D,2021-07-07 19:02:06,2021-07-05,NEO,Cardoza George,"Pres, COO, Lab Ops",A - Grant,0.0,7584,204356,+4%,0.0,,,,,NEO
+38,D,2021-07-07 19:01:41,2021-07-05,NEO,Wallar Gina M,"Pres, Pharma Services",A - Grant,0.0,1896,6013,+46%,0.0,,,,,NEO
+39,D,2021-07-07 19:01:25,2021-07-05,NEO,Balliet Jennifer,"VP, Chief Culture Officer",A - Grant,0.0,758,27215,+3%,0.0,,,,,NEO
+40,D,2021-06-14 17:07:55,2021-06-11,NEO,Tetrault Lynn A.,Dir,M - OptEx,9.11,1389,34939,+4%,12654.0,,,,,NEO
+41,D,2021-06-10 17:01:20,2021-06-08,NEO,Crowther Bruce K,Dir,M - OptEx,14.58,20734,49564,+72%,302241.0,,,,,NEO
+42,D,2021-06-10 17:01:20,2021-06-08,NEO,Crowther Bruce K,Dir,S - Sale+OE,41.46,-20734,49564,-29%,-859632.0,,,,,NEO
+43,D,2021-06-04 20:00:00,2021-06-02,NEO,Hannah Alison L.,Dir,A - Grant,0.0,3081,91877,+3%,0.0,,,,,NEO
+44,D,2021-06-04 19:59:19,2021-06-02,NEO,Kelly Michael Aaron,Dir,A - Grant,0.0,3081,4863,+173%,0.0,,,,,NEO
+45,D,2021-06-04 19:58:30,2021-06-02,NEO,Johnson Kevin C,Dir,A - Grant,0.0,3081,34064,+10%,0.0,,,,,NEO
+46,D,2021-06-04 19:58:00,2021-06-02,NEO,Stahler Rachel A,Dir,A - Grant,0.0,3081,5779,+114%,0.0,,,,,NEO
+47,D,2021-06-04 19:57:39,2021-06-02,NEO,Tetrault Lynn A.,Dir,A - Grant,0.0,3081,33550,+10%,0.0,,,,,NEO
+48,D,2021-06-04 19:57:21,2021-06-02,NEO,Crowther Bruce K,Dir,A - Grant,0.0,3081,49564,+7%,0.0,,,,,NEO
+49,D,2021-06-04 19:57:00,2021-06-02,NEO,Kanovsky Stephen M,Dir,A - Grant,0.0,3081,9198,+50%,0.0,,,,,NEO
+50,DM,2021-06-04 19:56:39,2021-06-02,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,40.35,-200337,196772,-50%,-8082901.0,,,,,NEO
+51,D,2021-05-27 18:23:32,2021-05-25,NEO,Shovlin Robert J.,"Pres, Clinical Services",M - OptEx,11.8,126958,150101,+549%,1498530.0,,,,,NEO
+52,D,2021-05-27 18:23:32,2021-05-25,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,39.31,-130604,150101,-47%,-5134043.0,,,,,NEO
+53,D,2021-04-26 17:48:52,2021-04-22,NEO,Weiss Lawrence Martin,Chief Medical Officer,M - OptEx,20.11,25050,130847,+24%,503646.0,,,,,NEO
+54,D,2021-04-21 18:19:59,2021-04-19,NEO,Mallon Mark,CEO,A - Grant,0.0,55736,55736,New,0.0,,,,,NEO
+55,D,2021-03-04 21:06:36,2021-03-02,NEO,Brown Douglas Matthew,Chief Strategy Officer,A - Grant,0.0,4655,111644,+4%,0.0,,,,,NEO
+56,D,2021-03-03 20:19:40,2021-03-02,NEO,McKenzie Kathryn B,CFO,A - Grant,0.0,6207,13535,+85%,0.0,,,,,NEO
+57,DM,2021-03-03 20:19:40,2021-03-01,NEO,McKenzie Kathryn B,CFO,F - Tax,0.0,-601,13535,-4%,-0.0,,,,,NEO
+58,D,2021-03-03 20:19:06,2021-03-02,NEO,Van Oort Douglas M,"COB, CEO",A - Grant,0.0,56423,2489716,+2%,0.0,,,,,NEO
+59,DM,2021-03-03 20:19:06,2021-03-01,NEO,Van Oort Douglas M,"COB, CEO",F - Tax,0.0,-4497,2489716,0%,-0.0,,,,,NEO
+60,D,2021-03-03 20:18:45,2021-03-02,NEO,Bonello William,"Pres, Informatics",A - Grant,0.0,4345,15473,+39%,0.0,,,,,NEO
+61,DM,2021-03-03 20:18:45,2021-03-01,NEO,Bonello William,"Pres, Informatics",F - Tax,0.0,-932,15473,-6%,-0.0,,,,,NEO
+62,D,2021-03-03 20:18:23,2021-03-02,NEO,Balliet Jennifer,"VP, Chief Culture Officer",A - Grant,0.0,1862,26457,+8%,0.0,,,,,NEO
+63,DM,2021-03-03 20:18:23,2021-03-01,NEO,Balliet Jennifer,"VP, Chief Culture Officer",F - Tax,0.0,-385,26457,-1%,-0.0,,,,,NEO
+64,D,2021-03-03 20:17:59,2021-03-02,NEO,Pedulla Denise E,GC,A - Grant,0.0,4345,60643,+8%,0.0,,,,,NEO
+65,DM,2021-03-03 20:17:59,2021-03-01,NEO,Pedulla Denise E,GC,F - Tax,0.0,-428,60643,-1%,-0.0,,,,,NEO
+66,D,2021-03-03 20:17:41,2021-03-02,NEO,Shovlin Robert J.,"Pres, Clinical Services",A - Grant,0.0,6827,153747,+5%,0.0,,,,,NEO
+67,DM,2021-03-03 20:17:41,2021-03-01,NEO,Shovlin Robert J.,"Pres, Clinical Services",F - Tax,0.0,-1350,153747,-1%,-0.0,,,,,NEO
+68,D,2021-03-03 20:17:09,2021-03-02,NEO,Dieter Cynthia J,Chief Accounting Officer,A - Grant,0.0,1241,1846,+205%,0.0,,,,,NEO
+69,D,2021-03-03 20:16:45,2021-03-02,NEO,Cardoza George,"Pres, Pharma Services",A - Grant,0.0,6207,397109,+2%,0.0,,,,,NEO
+70,D,2021-03-03 20:16:10,2021-03-02,NEO,Weiss Lawrence Martin,Chief Medical Officer,A - Grant,0.0,5276,105797,+5%,0.0,,,,,NEO
+71,D,2021-01-11 17:24:53,2021-01-07,NEO,Jones Steven C,Dir,M - OptEx,7.83,117286,1386451,+9%,918835.0,,,,,NEO
+72,D,2020-12-15 20:51:33,2020-12-14,NEO,Weiss Lawrence Martin,Chief Medical Officer,M - OptEx,9.4,109004,100521,-1285%,1024986.0,,,,,NEO
+73,D,2020-12-15 20:51:33,2020-12-14,NEO,Weiss Lawrence Martin,Chief Medical Officer,S - Sale+OE,51.06,-20200,100521,-17%,-1031412.0,,,,,NEO
+74,DM,2020-12-14 17:49:22,2020-12-10,NEO,Jones Steven C,Dir,S - Sale+OE,50.87,-70000,1269165,-5%,-3560750.0,,,,,NEO
+75,D,2020-12-11 17:57:43,2020-12-11,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,8.03,15000,24980,+150%,120450.0,,,,,NEO
+76,D,2020-12-11 17:57:43,2020-12-11,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,49.99,-15000,24980,-38%,-749850.0,,,,,NEO
+77,DM,2020-12-07 18:23:01,2020-12-03,NEO,Jones Steven C,Dir,S - Sale+OE,48.55,-130000,1339165,-9%,-6311310.0,,,,,NEO
+78,D,2020-12-07 18:19:40,2020-12-04,NEO,Johnson Kevin C,Dir,S - Sale+OE,47.88,-24683,30983,-44%,-1181822.0,,,,,NEO
+79,D,2020-12-04 18:03:11,2020-12-02,NEO,Bonello William,"Pres, Informatics",M - OptEx,8.03,8000,12060,+197%,64240.0,,,,,NEO
+80,D,2020-12-04 18:03:11,2020-12-02,NEO,Bonello William,"Pres, Informatics",S - Sale+OE,46.8,-8000,12060,-40%,-374400.0,,,,,NEO
+81,DM,2020-11-25 18:04:04,2020-11-24,NEO,Cardoza George,"Pres, Pharma Services",M - OptEx,7.52,150000,390902,+62%,1128000.0,,,,,NEO
+82,DM,2020-11-25 18:04:04,2020-11-24,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,45.36,-130000,390902,-25%,-5897051.0,,,,,NEO
+83,D,2020-11-18 18:53:00,2020-11-16,NEO,Hipp Raymond R,Dir,S - Sale+OE,42.28,-70000,66800,-51%,-2959600.0,,,,,NEO
+84,DM,2020-11-16 20:30:53,2020-11-12,NEO,Van Oort Douglas M,"COB, CEO",M - OptEx,7.52,500000,2437790,+26%,3760000.0,,,,,NEO
+85,DM,2020-11-16 20:30:53,2020-11-12,NEO,Van Oort Douglas M,"COB, CEO",S - Sale+OE,42.01,-340000,2437790,-12%,-14283574.0,,,,,NEO
+86,D,2020-11-12 18:00:24,2020-11-10,NEO,Pedulla Denise E,GC,M - OptEx,7.85,15000,56726,+36%,117750.0,,,,,NEO
+87,D,2020-11-12 18:00:24,2020-11-10,NEO,Pedulla Denise E,GC,S - Sale+OE,42.0,-2262,56726,-4%,-95004.0,,,,,NEO
+88,D,2020-09-30 18:25:01,2020-09-29,NEO,Jones Steven C,Dir,G - Gift,0.0,-25000,1469165,-2%,-0.0,,,,,NEO
+89,DM,2020-09-30 18:25:01,2020-09-28,NEO,Jones Steven C,Dir,S - Sale+OE,36.72,-280000,1469165,-16%,-10282430.0,,,,,NEO
+90,D,2020-09-24 21:02:15,2020-09-24,NEO,Crowther Bruce K,Dir,M - OptEx,9.11,8333,46483,+22%,75914.0,,,,,NEO
+91,DM,2020-09-24 21:02:15,2020-09-22,NEO,Crowther Bruce K,Dir,S - Sale+OE,35.16,-10733,46483,-19%,-377370.0,,,,,NEO
+92,DM,2020-09-10 18:16:34,2020-09-08,NEO,Jones Steven C,Dir,S - Sale+OE,36.95,-120000,1774165,-6%,-4434437.0,,,,,NEO
+93,DM,2020-08-13 16:21:33,2020-08-11,NEO,Van Oort Douglas M,"COB, CEO",G - Gift,0.0,-30000,2277790,-1%,-0.0,,,,,NEO
+94,D,2020-08-10 18:22:14,2020-08-06,NEO,Hannah Alison L.,Dir,M - OptEx,7.27,10000,88796,+13%,72700.0,,,,,NEO
+95,D,2020-08-10 18:19:46,2020-08-06,NEO,Cardoza George,"Pres, Pharma Services",M - OptEx,7.15,100000,370902,+37%,715000.0,,,,,NEO
+96,D,2020-08-10 18:19:46,2020-08-06,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,39.35,-82500,370902,-18%,-3246375.0,,,,,NEO
+97,D,2020-08-04 18:33:38,2020-08-03,NEO,Bonello William,"Pres, Informatics",M - OptEx,7.57,22000,12060,-221%,166442.0,,,,,NEO
+98,D,2020-08-04 18:33:38,2020-08-03,NEO,Bonello William,"Pres, Informatics",S - Sale+OE,38.61,-22000,12060,-65%,-849420.0,,,,,NEO
+99,D,2020-08-04 18:01:35,2020-08-03,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,7.52,13000,24980,+109%,97760.0,,,,,NEO
+100,D,2020-08-04 18:01:35,2020-08-03,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,39.25,-13000,24980,-34%,-510250.0,,,,,NEO
+101,D,2020-08-04 17:47:10,2020-08-01,NEO,Van Oort Douglas M,"COB, CEO",F - Tax,0.0,-5953,2297790,0%,-0.0,,,,,NEO
+102,D,2020-08-03 19:26:49,2020-07-30,NEO,Shovlin Robert J.,"Pres, Clinical Services",M - OptEx,9.94,83391,148270,+129%,829126.0,,,,,NEO
+103,D,2020-08-03 19:26:49,2020-07-30,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,38.17,-81356,148270,-35%,-3105359.0,,,,,NEO
+104,D,2020-08-03 18:43:36,2020-07-30,NEO,Kelly Michael Aaron,Dir,A - Grant,0.0,1782,1782,New,0.0,,,,,NEO
+105,D,2020-06-23 17:07:39,2020-06-22,NEO,Dieter Cynthia J,Chief Accounting Officer,A - Grant,0.0,605,605,New,0.0,,,,,NEO
+106,D,2020-06-04 18:45:15,2020-05-28,NEO,Stahler Rachel A,Dir,A - Grant,0.0,2698,2698,New,0.0,,,,,NEO
+107,D,2020-06-01 19:38:03,2020-05-28,NEO,Hannah Alison L.,Dir,A - Grant,0.0,2698,78796,+4%,0.0,,,,,NEO
+108,D,2020-06-01 18:58:01,2020-05-28,NEO,Kanovsky Stephen M,Dir,A - Grant,0.0,2698,6117,+79%,0.0,,,,,NEO
+109,D,2020-06-01 18:57:38,2020-05-28,NEO,Tetrault Lynn A.,Dir,A - Grant,0.0,2698,44351,+6%,0.0,,,,,NEO
+110,D,2020-06-01 18:57:14,2020-05-28,NEO,Hipp Raymond R,Dir,A - Grant,0.0,2698,136800,+2%,0.0,,,,,NEO
+111,D,2020-06-01 18:56:50,2020-05-28,NEO,Johnson Kevin C,Dir,A - Grant,0.0,2698,55666,+5%,0.0,,,,,NEO
+112,D,2020-06-01 18:56:29,2020-05-28,NEO,Crowther Bruce K,Dir,A - Grant,0.0,2698,48883,+6%,0.0,,,,,NEO
+113,D,2020-06-01 18:56:07,2020-05-28,NEO,Jones Steven C,Dir,A - Grant,0.0,2698,1894165,0%,0.0,,,,,NEO
+114,D,2020-05-27 17:24:41,2020-05-25,NEO,Van Oort Douglas M,"COB, CEO",F - Tax,0.0,-22330,2303743,-1%,-0.0,,,,,NEO
+115,D,2020-05-27 17:20:06,2020-05-25,NEO,Shovlin Robert J.,"Pres, Clinical Services",F - Tax,0.0,-5405,146235,-4%,-0.0,,,,,NEO
+116,D,2020-05-04 17:34:59,2020-05-01,NEO,Crowther Bruce K,Dir,M - OptEx,4.78,10000,46185,+28%,47800.0,,,,,NEO
+117,D,2020-03-16 18:45:55,2020-03-13,NEO,Jones Steven C,Dir,M - OptEx,4.78,125000,1891467,+7%,597500.0,,,,,NEO
+118,D,2020-03-05 20:14:10,2020-03-04,NEO,Shovlin Robert J.,"Pres, Clinical Services",M - OptEx,8.03,96167,151640,+173%,772221.0,,,,,NEO
+119,D,2020-03-05 20:14:10,2020-03-04,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,30.86,-98093,151640,-39%,-3027150.0,,,,,NEO
+120,D,2020-03-04 19:17:24,2020-03-02,NEO,Jones Steven C,Dir,S - Sale+OE,28.77,-297300,1766467,-14%,-8554252.0,,,,,NEO
+121,D,2020-03-03 20:26:25,2020-03-02,NEO,Bonello William,"Pres, Informatics",A - Grant,0.0,5824,12060,+93%,0.0,,,,,NEO
+122,D,2020-03-03 20:26:25,2020-03-01,NEO,Bonello William,"Pres, Informatics",F - Tax,0.0,-499,12060,-4%,-0.0,,,,,NEO
+123,D,2020-03-03 20:20:13,2020-03-02,NEO,Balliet Jennifer,"VP, Chief Culture Officer",A - Grant,0.0,2330,24980,+10%,0.0,,,,,NEO
+124,D,2020-03-03 20:20:13,2020-03-01,NEO,Balliet Jennifer,"VP, Chief Culture Officer",F - Tax,0.0,-212,24980,-1%,-0.0,,,,,NEO
+125,D,2020-03-03 20:16:14,2020-03-02,NEO,Pedulla Denise E,GC,A - Grant,0.0,2912,43988,+7%,0.0,,,,,NEO
+126,D,2020-03-03 20:13:06,2020-03-02,NEO,Cardoza George,"Pres, Pharma Services",A - Grant,0.0,7571,353402,+2%,0.0,,,,,NEO
+127,D,2020-03-03 20:10:20,2020-03-02,NEO,Shovlin Robert J.,"Pres, Clinical Services",A - Grant,0.0,8736,153566,+6%,0.0,,,,,NEO
+128,D,2020-03-03 20:10:20,2020-03-01,NEO,Shovlin Robert J.,"Pres, Clinical Services",F - Tax,0.0,-810,153566,-1%,-0.0,,,,,NEO
+129,D,2020-03-03 20:06:20,2020-03-02,NEO,Weiss Lawrence Martin,Chief Medical Officer,A - Grant,0.0,5824,11717,+99%,0.0,,,,,NEO
+130,D,2020-03-03 20:03:53,2020-03-02,NEO,Van Oort Douglas M,"COB, CEO",A - Grant,0.0,34945,2326073,+2%,0.0,,,,,NEO
+131,D,2020-03-03 20:03:53,2020-03-01,NEO,Van Oort Douglas M,"COB, CEO",F - Tax,0.0,-2353,2326073,0%,-0.0,,,,,NEO
+132,D,2020-03-03 20:00:37,2020-03-02,NEO,McKenzie Kathryn B,CFO,A - Grant,0.0,5824,7929,+277%,0.0,,,,,NEO
+133,D,2020-03-03 20:00:37,2020-03-01,NEO,McKenzie Kathryn B,CFO,F - Tax,0.0,-168,7929,-2%,-0.0,,,,,NEO
+134,D,2020-01-02 18:45:05,2019-12-30,NEO,Jones Steven C,Dir,M - OptEx,4.78,100000,2063767,+5%,478000.0,,,,,NEO
+135,D,2019-12-12 19:28:27,2019-12-10,NEO,McKenzie Kathryn B,Chief Accounting Officer,M - OptEx,8.03,8000,2273,-140%,64240.0,,,,,NEO
+136,D,2019-12-12 19:28:27,2019-12-10,NEO,McKenzie Kathryn B,Chief Accounting Officer,S - Sale+OE,26.37,-8000,2273,-78%,-210960.0,,,,,NEO
+137,D,2019-11-22 17:35:45,2019-11-21,NEO,Jones Steven C,Dir,G - Gift,24.53,-50000,1813767,-3%,-1226500.0,,,,,NEO
+138,DM,2019-11-22 17:35:45,2019-11-20,NEO,Jones Steven C,Dir,S - Sale+OE,24.34,-151230,1813767,-8%,-3680598.0,,,,,NEO
+139,D,2019-11-21 17:32:29,2019-11-19,NEO,Van Oort Douglas M,"COB, CEO",S - Sale+OE,24.08,-187500,2293481,-8%,-4515000.0,,,,,NEO
+140,D,2019-11-18 12:30:48,2019-11-15,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,7.53,6833,22862,+43%,51469.0,,,,,NEO
+141,D,2019-11-18 12:30:48,2019-11-15,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,23.45,-6833,22862,-23%,-160234.0,,,,,NEO
+142,D,2019-11-14 17:11:13,2019-11-12,NEO,Cardoza George,"Pres, Pharma Services",M - OptEx,7.15,44444,325831,+16%,317775.0,,,,,NEO
+143,D,2019-11-14 17:11:13,2019-11-12,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,23.15,-19444,325831,-6%,-450129.0,,,,,NEO
+144,DM,2019-11-13 17:43:44,2019-08-01,NEO,Van Oort Douglas M,"COB, CEO",F - Tax,0.0,-211725,2474891,-8%,-0.0,,,,,NEO
+145,D,2019-11-13 17:43:44,2019-11-08,NEO,Van Oort Douglas M,"COB, CEO",M - OptEx,7.15,472527,2474891,+24%,3378568.0,,,,,NEO
+146,D,2019-11-08 16:47:06,2019-11-06,NEO,Cardoza George,"Pres, Pharma Services",M - OptEx,7.15,55556,300831,+23%,397225.0,,,,,NEO
+147,DM,2019-11-08 16:47:06,2019-11-06,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,22.82,-55556,300831,-16%,-1267708.0,,,,,NEO
+148,D,2019-11-04 18:15:41,2019-10-31,NEO,Johnson Kevin C,Dir,M - OptEx,7.75,24683,52968,+87%,191241.0,,,,,NEO
+149,D,2019-11-04 18:07:11,2019-10-31,NEO,Shovlin Robert J.,"Pres, Clinical Services",M - OptEx,8.03,96166,145640,+194%,772213.0,,,,,NEO
+150,DM,2019-11-04 18:07:11,2019-10-31,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,22.99,-106274,145640,-42%,-2442746.0,,,,,NEO
+151,D,2019-09-11 20:00:00,2019-09-09,NEO,Hannah Alison L.,Dir,M - OptEx,8.41,11666,76098,+18%,98111.0,,,,,NEO
+152,D,2019-09-10 20:32:06,2019-09-10,NEO,Jones Steven C,Dir,G - Gift,0.0,-3400,2164997,0%,-0.0,,,,,NEO
+153,DM,2019-09-10 20:32:06,2019-09-06,NEO,Jones Steven C,Dir,S - Sale+OE,23.54,-2894,2164997,0%,-68114.0,,,,,NEO
+154,DM,2019-09-03 17:25:14,2019-08-28,NEO,Van Oort Douglas M,"COB, CEO",G - Gift,0.0,-60000,2214089,-3%,-0.0,,,,,NEO
+155,D,2019-08-30 17:15:17,2019-08-28,NEO,Bonello William,Chief Strategy Officer,M - OptEx,7.52,17000,6735,-166%,127840.0,,,,,NEO
+156,D,2019-08-30 17:15:17,2019-08-28,NEO,Bonello William,Chief Strategy Officer,S - Sale+OE,24.83,-17000,6735,-72%,-422110.0,,,,,NEO
+157,DM,2019-08-30 17:10:48,2019-08-28,NEO,Jones Steven C,Dir,S - Sale+OE,25.02,-40737,2171291,-2%,-1019216.0,,,,,NEO
+158,D,2019-08-27 17:44:05,2019-08-23,NEO,Hipp Raymond R,Dir,M - OptEx,9.26,9127,134102,+7%,84527.0,,,,,NEO
+159,DM,2019-08-27 17:44:05,2019-08-23,NEO,Hipp Raymond R,Dir,S - Sale+OE,24.8,-16024,134102,-11%,-397373.0,,,,,NEO
+160,DM,2019-08-27 17:41:42,2019-08-23,NEO,Johnson Kevin C,Dir,S - Sale+OE,25.41,-53000,28285,-65%,-1346652.0,,,,,NEO
+161,DM,2019-08-27 17:40:11,2019-08-23,NEO,Jones Steven C,Dir,S - Sale+OE,24.92,-181339,2212028,-8%,-4518661.0,,,,,NEO
+162,D,2019-06-10 21:19:54,2019-06-06,NEO,Tetrault Lynn A.,Dir,A - Grant,0.0,3419,41653,+9%,0.0,,,,,NEO
+163,D,2019-06-10 21:18:02,2019-06-06,NEO,Kanovsky Stephen M,Dir,A - Grant,0.0,3419,3419,New,0.0,,,,,NEO
+164,D,2019-06-10 21:17:25,2019-06-06,NEO,Johnson Kevin C,Dir,A - Grant,0.0,3419,81285,+4%,0.0,,,,,NEO
+165,D,2019-06-10 21:16:26,2019-06-06,NEO,Crowther Bruce K,Dir,A - Grant,0.0,3419,36185,+10%,0.0,,,,,NEO
+166,D,2019-06-10 21:15:51,2019-06-06,NEO,Hannah Alison L.,Dir,A - Grant,0.0,3419,64432,+6%,0.0,,,,,NEO
+167,D,2019-06-10 21:14:55,2019-06-06,NEO,Hipp Raymond R,Dir,A - Grant,0.0,3419,140999,+2%,0.0,,,,,NEO
+168,D,2019-06-10 21:13:48,2019-06-06,NEO,Jones Steven C,Dir,A - Grant,0.0,3419,2393367,0%,0.0,,,,,NEO
+169,D,2019-05-29 20:51:03,2019-05-25,NEO,Shovlin Robert J.,"Pres, Clinical Services",F - Tax,0.0,-6559,155748,-4%,-0.0,,,,,NEO
+170,D,2019-05-29 20:50:01,2019-05-25,NEO,Van Oort Douglas M,"COB, CEO",F - Tax,0.0,-25846,2254089,-1%,-0.0,,,,,NEO
+171,DM,2019-05-09 21:55:40,2019-05-07,NEO,Hipp Raymond R,Dir,S - Sale+OE,22.41,-150000,137580,-52%,-3361880.0,,,,,NEO
+172,D,2019-05-08 17:02:30,2019-05-06,NEO,Bonello William,Chief Strategy Officer,M - OptEx,7.52,7200,6735,-1548%,54144.0,,,,,NEO
+173,D,2019-05-08 17:02:30,2019-05-06,NEO,Bonello William,Chief Strategy Officer,S - Sale+OE,23.53,-7200,6735,-52%,-169416.0,,,,,NEO
+174,D,2019-05-06 17:33:00,2019-05-02,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,7.31,30000,22862,-420%,219433.0,,,,,NEO
+175,D,2019-05-06 17:33:00,2019-05-03,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,22.74,-30000,22862,-57%,-682200.0,,,,,NEO
+176,D,2019-05-06 17:31:54,2019-05-02,NEO,Shovlin Robert J.,"Pres, Clinical Services",M - OptEx,7.34,133333,162307,+460%,977998.0,,,,,NEO
+177,D,2019-05-06 17:31:54,2019-05-02,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,22.14,-119347,162307,-42%,-2642343.0,,,,,NEO
+178,D,2019-05-06 17:30:40,2019-05-02,NEO,Cardoza George,"Pres, Pharma Services",M - OptEx,4.78,200000,320831,+166%,956000.0,,,,,NEO
+179,D,2019-05-06 17:30:40,2019-05-03,NEO,Cardoza George,"Pres, Pharma Services",S - Sale+OE,22.82,-151676,320831,-32%,-3461246.0,,,,,NEO
+180,D,2019-03-05 17:10:30,2019-03-01,NEO,Van Oort Douglas M,"COB, CEO",A - Grant,0.0,37883,2279935,+2%,0.0,,,,,NEO
+181,D,2019-03-05 17:07:41,2019-03-01,NEO,Shovlin Robert J.,"Pres, Clinical Services",A - Grant,0.0,10944,148321,+8%,0.0,,,,,NEO
+182,D,2019-03-05 17:05:20,2019-03-01,NEO,Virag Sharon,CFO,A - Grant,0.0,10944,10944,New,0.0,,,,,NEO
+183,D,2019-03-05 17:01:52,2019-03-01,NEO,Cardoza George,"Pres, Pharma Services",A - Grant,0.0,8418,272507,+3%,0.0,,,,,NEO
+184,D,2019-03-05 16:59:09,2019-03-01,NEO,McKenzie Kathryn B,Principal Accounting Officer,A - Grant,0.0,2273,2273,New,0.0,,,,,NEO
+185,D,2019-03-05 16:53:53,2019-03-01,NEO,Bonello William,Chief Strategy Officer,A - Grant,0.0,6735,6735,New,0.0,,,,,NEO
+186,D,2019-03-05 16:47:12,2019-03-01,NEO,Weiss Lawrence Martin,Chief Scientific Officer,A - Grant,0.0,5893,5893,New,0.0,,,,,NEO
+187,D,2019-03-04 17:25:20,2019-03-01,NEO,Balliet Jennifer,"VP, Chief Culture Officer",A - Grant,0.0,2862,22862,+14%,0.0,,,,,NEO
+188,DM,2019-03-04 17:25:20,2019-02-28,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,7.8,44000,22862,-208%,343120.0,,,,,NEO
+189,DM,2019-03-04 17:25:20,2019-02-28,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,19.42,-44000,22862,-66%,-854360.0,,,,,NEO
+190,DM,2019-02-28 20:25:50,2019-02-26,NEO,Jones Steven C,EVP,S - Sale+OE,18.9,-299873,2389948,-11%,-5668743.0,,,,,NEO
+191,D,2019-02-28 19:42:06,2019-02-27,NEO,Cardoza George,"Pres, Pharma Services",M - OptEx,3.45,30000,264089,+13%,103500.0,,,,,NEO
+192,DM,2019-02-28 17:05:58,2019-02-26,NEO,Shovlin Robert J.,"Pres, Clinical Services",M - OptEx,7.27,200000,137377,-319%,1454666.0,,,,,NEO
+193,DM,2019-02-28 17:05:58,2019-02-26,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,18.96,-186014,137377,-58%,-3527392.0,,,,,NEO
+194,D,2019-02-28 16:59:48,2019-02-26,NEO,Bonello William,Chief Strategy Officer,M - OptEx,7.86,60203,0,-100%,473211.0,,,,,NEO
+195,D,2019-02-28 16:59:48,2019-02-26,NEO,Bonello William,Chief Strategy Officer,S - Sale+OE,18.9,-60203,0,-100%,-1137837.0,,,,,NEO
+196,D,2019-02-28 16:57:20,2019-02-26,NEO,Hipp Raymond R,Dir,M - OptEx,6.49,18889,287580,+7%,122646.0,,,,,NEO
+197,D,2019-02-28 16:57:20,2019-02-26,NEO,Hipp Raymond R,Dir,S - Sale+OE,18.9,-18889,287580,-6%,-357002.0,,,,,NEO
+198,D,2018-12-26 19:08:34,2018-12-21,NEO,Johnson Kevin C,Dir,P - Purchase,11.6,26000,103866,+33%,301600.0,,,,,NEO
+199,,2018-12-14 16:05:50,2018-12-14,NEO,General Electric Co,Former 10% Owner,S - Sale,12.0,-10835145,0,-100%,-130021740.0,,,,,NEO
+200,D,2018-11-21 13:33:04,2018-11-19,NEO,Tetrault Lynn A.,Dir,S - Sale+OE,16.0,-13000,38234,-25%,-207940.0,,,,,NEO
+201,D,2018-11-16 17:18:12,2018-11-15,NEO,Tetrault Lynn A.,Dir,M - OptEx,7.49,18888,51234,+58%,141437.0,,,,,NEO
+202,D,2018-11-16 17:18:12,2018-11-14,NEO,Tetrault Lynn A.,Dir,S - Sale+OE,16.16,-5000,51234,-9%,-80800.0,,,,,NEO
+203,DM,2018-11-14 19:30:59,2018-11-12,NEO,Jones Steven C,EVP,S - Sale+OE,16.66,-141127,2689821,-5%,-2351235.0,,,,,NEO
+204,D,2018-11-13 20:46:54,2018-11-09,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,2.45,68333,20000,-141%,167300.0,,,,,NEO
+205,DM,2018-11-13 20:46:54,2018-11-09,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,16.89,-68333,20000,-77%,-1153965.0,,,,,NEO
+206,A,2018-11-13 20:40:25,2018-11-13,NEO,Balliet Jennifer,"VP, Chief Culture Officer",A - Grant,0.0,6678,20000,+50%,0.0,,,,,NEO
+207,,2018-11-13 17:05:43,2018-11-09,NEO,General Electric Co,10%,S - Sale,16.75,-4164855,10835145,-28%,-69761321.0,,,,,NEO
+208,D,2018-11-13 10:48:42,2018-11-09,NEO,Johnson Kevin C,Dir,S - Sale+OE,17.03,-66007,77866,-46%,-1124180.0,,,,,NEO
+209,D,2018-11-13 10:27:33,2018-11-09,NEO,Shovlin Robert J.,"Pres, Clinical Services",M - OptEx,4.79,300000,123391,-170%,1437000.0,,,,,NEO
+210,DM,2018-11-13 10:27:33,2018-11-09,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,17.0,-216493,123391,-64%,-3680623.0,,,,,NEO
+211,D,2018-10-24 18:36:55,2018-10-22,NEO,Brodie Steven G.,VP - Pharma Operations,M - OptEx,3.45,13334,45953,+41%,46002.0,,,,,NEO
+212,D,2018-08-03 16:27:33,2018-08-01,NEO,Van Oort Douglas M,"COB, CEO",A - Grant,0.0,46429,2242052,+2%,0.0,,,,,NEO
+213,A,2018-08-03 16:21:11,2018-08-03,NEO,Van Oort Douglas M,"COB, CEO",F - Tax,0.0,-21904,2008123,-1%,-0.0,,,,,NEO
+214,A,2018-08-03 16:14:36,2018-08-03,NEO,Van Oort Douglas M,"COB, CEO",A - Grant,0.0,197042,2030027,+11%,0.0,,,,,NEO
+215,DM,2018-08-01 19:56:34,2018-07-30,NEO,Jones Steven C,EVP,S - Sale+OE,14.0,-203500,2830948,-7%,-2849411.0,,,,,NEO
+216,D,2018-06-29 17:21:50,2018-06-29,NEO,Shovlin Robert J.,"Pres, Clinical Services",S - Sale+OE,13.12,-12941,39884,-24%,-169786.0,,,,,NEO
+217,D,2018-06-26 17:29:31,2018-06-22,NEO,Jones Steven C,EVP,S - Sale+OE,14.04,-89688,3034448,-3%,-1259220.0,,,,,NEO
+218,DM,2018-06-19 18:54:31,2018-06-15,NEO,Jones Steven C,EVP,S - Sale+OE,13.32,-160312,3124136,-5%,-2134567.0,,,,,NEO
+219,D,2018-06-05 17:52:55,2018-06-01,NEO,Johnson Kevin C,Dir,A - Grant,0.0,15564,143873,+12%,0.0,,,,,NEO
+220,D,2018-06-05 17:50:47,2018-06-01,NEO,Tetrault Lynn A.,Dir,A - Grant,0.0,15564,37346,+71%,0.0,,,,,NEO
+221,D,2018-06-05 17:48:55,2018-06-01,NEO,Crowther Bruce K,Dir,A - Grant,0.0,15564,32766,+90%,0.0,,,,,NEO
+222,D,2018-06-05 17:44:43,2018-06-01,NEO,Hannah Alison L.,Dir,A - Grant,0.0,15564,61013,+34%,0.0,,,,,NEO
+223,D,2018-06-05 17:42:46,2018-06-01,NEO,Jones Steven C,EVP,A - Grant,0.0,6897,3284448,0%,0.0,,,,,NEO
+224,D,2018-06-05 17:42:46,2018-06-01,NEO,Jones Steven C,EVP,S - Sale+OE,12.12,-230533,3284448,-7%,-2794060.0,,,,,NEO
+225,D,2018-06-05 17:36:21,2018-06-01,NEO,Hipp Raymond R,Dir,A - Grant,0.0,15564,287580,+6%,0.0,,,,,NEO
+226,DM,2018-05-31 17:54:06,2018-05-29,NEO,Jones Steven C,EVP,S - Sale+OE,11.68,-169467,3508084,-5%,-1979736.0,,,,,NEO
+227,D,2018-05-31 17:50:15,2018-05-29,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,4.78,65000,13322,-126%,310700.0,,,,,NEO
+228,D,2018-05-31 17:50:15,2018-05-29,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,11.66,-65000,13322,-83%,-758100.0,,,,,NEO
+229,D,2018-05-29 19:00:54,2018-05-25,NEO,Van Oort Douglas M,"COB, CEO",F - Tax,11.57,-21904,2064261,-1%,-253429.0,,,,,NEO
+230,D,2018-05-29 19:00:54,2018-05-25,NEO,Van Oort Douglas M,"COB, CEO",M - OptEx,0.0,65680,2064261,+3%,0.0,,,,,NEO
+231,D,2018-05-29 18:57:23,2018-05-25,NEO,Cardoza George,"Pres, Pharma Services",M - OptEx,0.0,8333,217422,+4%,0.0,,,,,NEO
+232,D,2018-05-29 18:51:07,2018-05-25,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,0.0,6666,6666,New,0.0,,,,,NEO
+233,D,2018-05-29 18:36:07,2018-05-25,NEO,Shovlin Robert J.,"Pres, Clinical Services",F - Tax,11.57,-3725,19491,-16%,-43098.0,,,,,NEO
+234,D,2018-05-29 18:36:07,2018-05-25,NEO,Shovlin Robert J.,"Pres, Clinical Services",M - OptEx,0.0,16666,19491,+590%,0.0,,,,,NEO
+235,D,2018-05-17 15:35:11,2018-05-15,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,4.78,13000,0,-100%,62140.0,,,,,NEO
+236,D,2018-05-17 15:35:11,2018-05-15,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,11.24,-13000,0,-100%,-146055.0,,,,,NEO
+237,D,2018-05-10 17:53:07,2018-05-10,NEO,Ross Steven A,CIO,M - OptEx,6.27,81999,9000,-112%,514518.0,,,,,NEO
+238,D,2018-05-10 17:53:07,2018-05-10,NEO,Ross Steven A,CIO,S - Sale+OE,10.78,-81999,9000,-90%,-883949.0,,,,,NEO
+239,D,2018-03-28 16:57:57,2018-03-28,NEO,Balliet Jennifer,"VP, Chief Culture Officer",D - Sale to issuer,8.2,-7000,0,-100%,-57400.0,,,,,NEO
+240,D,2018-03-28 16:57:57,2018-03-28,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,4.78,7000,0,-100%,33460.0,,,,,NEO
+241,D,2017-12-14 16:38:48,2017-12-14,NEO,Jones Steven C,EVP,G - Gift,9.06,-20000,3668884,-1%,-181200.0,,,,,NEO
+242,D,2017-10-03 17:19:40,2017-08-09,NEO,Hannah Alison L.,Dir,M - OptEx,6.66,6667,45449,+17%,44402.0,,,,,NEO
+243,D,2017-08-25 14:44:30,2017-08-24,NEO,Balliet Jennifer,"VP, Chief Culture Officer",D - Sale to issuer,9.38,-22500,0,-100%,-211050.0,,,,,NEO
+244,D,2017-08-25 14:44:30,2017-08-24,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,3.55,22500,0,-100%,79950.0,,,,,NEO
+245,D,2017-07-31 17:25:35,2017-07-27,NEO,Hannah Alison L.,Dir,P - Purchase,9.19,20000,38782,+106%,183800.0,,,,,NEO
+246,D,2017-07-06 21:25:33,2017-07-05,NEO,Brodie Steven G.,VP of Operations,M - OptEx,3.45,6666,32619,+26%,22998.0,,,,,NEO
+247,D,2017-06-26 17:32:45,2017-06-22,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,8.49,-10723,0,-100%,-91038.0,,,,,NEO
+248,D,2017-06-06 16:39:02,2017-06-02,NEO,Ross Steven A,CIO,M - OptEx,4.33,70833,9000,-115%,306707.0,,,,,NEO
+249,DM,2017-06-06 16:39:02,2017-06-02,NEO,Ross Steven A,CIO,S - Sale+OE,7.76,-70833,9000,-89%,-549389.0,,,,,NEO
+250,D,2017-05-30 21:36:33,2017-05-30,NEO,Hipp Raymond R,Dir,M - OptEx,0.0,7222,536810,+1%,0.0,,,,,NEO
+251,D,2017-05-30 21:30:20,2017-05-30,NEO,Tetrault Lynn A.,Dir,M - OptEx,0.0,7222,36342,+25%,0.0,,,,,NEO
+252,D,2017-05-30 21:27:57,2017-05-30,NEO,Crowther Bruce K,Dir,M - OptEx,0.0,7222,27182,+36%,0.0,,,,,NEO
+253,D,2017-05-30 21:25:26,2017-05-30,NEO,Robison William J,Dir,M - OptEx,0.0,7222,359474,+2%,0.0,,,,,NEO
+254,D,2017-05-30 21:12:52,2017-05-30,NEO,Johnson Kevin C,Dir,M - OptEx,0.0,7222,249396,+3%,0.0,,,,,NEO
+255,D,2017-05-30 21:09:42,2017-05-30,NEO,Hannah Alison L.,Dir,M - OptEx,0.0,7222,30342,+31%,0.0,,,,,NEO
+256,D,2017-05-30 17:06:43,2017-05-26,NEO,Balliet Jennifer,"VP, Chief Culture Officer",S - Sale+OE,7.5,-3334,10049,-25%,-25005.0,,,,,NEO
+257,D,2017-03-28 17:12:43,2017-03-27,NEO,Brodie Steven G.,"Pres, Pharma Services",X - OptEx,3.76,10000,25953,-28%,37600.0,2.0,3.0,2.0,,NEO
+258,DM,2017-03-22 16:15:28,2017-03-13,NEO,Brodie Steven G.,"Pres, Pharma Services",S - Sale+OE,7.93,-50000,15953,-76%,-396655.0,-1.0,-1.0,13.0,,NEO
+259,D,2017-03-17 19:31:01,2017-03-13,NEO,Brodie Steven G.,"Pres, Pharma Services",S - Sale+OE,8.0,-16550,49403,-25%,-132400.0,0.0,-4.0,1.0,,NEO
+260,D,2017-02-28 18:43:42,2017-02-27,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,1.69,6250,13383,+88%,10563.0,1.0,0.0,-6.0,,NEO
+261,D,2017-02-06 21:25:07,2017-02-02,NEO,Van Oort Douglas M,"COB, CEO",F - Tax,8.14,-42015,3695485,-1%,-342002.0,-1.0,0.0,-2.0,,NEO
+262,D,2017-02-06 21:25:07,2017-02-02,NEO,Van Oort Douglas M,"COB, CEO",M - OptEx,1.71,200000,3695485,+6%,342000.0,-1.0,0.0,-2.0,,NEO
+263,D,2017-01-04 17:33:47,2017-01-03,NEO,Johnson Kevin C,Dir,M - OptEx,4.78,3333,121087,+3%,15932.0,0.0,0.0,-10.0,,NEO
+264,D,2016-12-27 16:18:12,2016-12-27,NEO,Jones Steven C,EVP of Finance,G - Gift,8.92,-20000,3688884,-1%,-178400.0,-1.0,-2.0,-5.0,,NEO
+265,D,2016-12-07 17:12:52,2016-12-06,NEO,Brodie Steven G.,"Pres, Pharma Services",M - OptEx,1.69,10000,65953,+18%,16900.0,0.0,-1.0,-5.0,,NEO
+266,D,2016-10-11 16:44:15,2016-10-07,NEO,Balliet Jennifer,"VP, Chief Culture Officer",M - OptEx,1.1,3334,7133,+88%,3667.0,-5.0,-7.0,2.0,-2.0,NEO
+267,D,2016-09-27 16:12:36,2016-09-23,NEO,Albitar Maher,Chief Medical Officer,S - Sale+OE,8.4,-2800,124184,-2%,-23520.0,-1.0,-1.0,-11.0,-7.0,NEO
+268,D,2016-09-22 17:48:08,2016-09-20,NEO,Albitar Maher,Chief Medical Officer,S - Sale+OE,8.2,-105300,168792,-38%,-863460.0,1.0,-2.0,-5.0,-8.0,NEO
+269,DM,2016-09-13 18:15:20,2016-09-09,NEO,Albitar Maher,Chief Medical Officer,S - Sale+OE,8.23,-60075,334167,-15%,-494123.0,-2.0,1.0,0.0,-2.0,NEO
+270,D,2016-08-23 16:28:22,2016-08-19,NEO,Albitar Maher,Chief Medical Officer,F - Tax,8.26,-34625,292359,-11%,-286003.0,-2.0,-2.0,-1.0,0.0,NEO
+271,D,2016-08-23 16:28:22,2016-08-19,NEO,Albitar Maher,Chief Medical Officer,M - OptEx,2.09,570000,292359,-205%,1190500.0,-2.0,-2.0,-1.0,0.0,NEO
+272,D,2016-08-23 16:28:22,2016-08-19,NEO,Albitar Maher,Chief Medical Officer,S - Sale+OE,8.23,-370000,292359,-56%,-3045100.0,-2.0,-2.0,-1.0,0.0,NEO
+273,D,2016-05-27 16:38:06,2016-05-25,NEO,Van Oort Douglas M,"COB, CEO",F - Tax,8.65,-118613,3537500,-3%,-1026002.0,0.0,0.0,-14.0,5.0,NEO
+274,D,2016-05-27 16:38:06,2016-05-25,NEO,Van Oort Douglas M,"COB, CEO",M - OptEx,1.71,600000,3537500,+20%,1026000.0,0.0,0.0,-14.0,5.0,NEO
+275,DM,2016-05-27 16:38:06,2016-05-26,NEO,Van Oort Douglas M,"COB, CEO",S - Sale+OE,8.73,-481387,3537500,-12%,-4202403.0,0.0,0.0,-14.0,5.0,NEO
+276,D,2016-05-20 21:56:23,2016-05-18,NEO,Ross Steven A,CIO,M - OptEx,4.78,18000,9000,-200%,86040.0,2.0,1.0,-5.0,4.0,NEO
+277,D,2016-05-20 21:56:23,2016-05-18,NEO,Ross Steven A,CIO,S - Sale+OE,8.5,-18000,9000,-67%,-153000.0,2.0,1.0,-5.0,4.0,NEO
+278,D,2016-05-10 16:44:22,2016-04-20,NEO,Crowther Bruce K,Dir,A - Grant,7.15,2150,22110,+11%,15373.0,2.0,3.0,10.0,-4.0,NEO
+279,D,2016-05-10 16:43:30,2016-05-09,NEO,Ross Steven A,CIO,M - OptEx,4.78,15000,9000,-250%,71700.0,2.0,3.0,10.0,-4.0,NEO
+280,D,2016-05-10 16:43:30,2016-05-09,NEO,Ross Steven A,CIO,S - Sale+OE,8.22,-15000,9000,-63%,-123300.0,2.0,3.0,10.0,-4.0,NEO
+281,D,2016-05-10 16:40:55,2016-05-09,NEO,Robison William J,Dir,M - OptEx,4.78,3333,351059,+1%,15932.0,2.0,3.0,10.0,-4.0,NEO
+282,D,2016-05-06 18:17:10,2016-04-20,NEO,Hipp Raymond R,Dir,A - Grant,7.15,2150,531738,0%,15373.0,2.0,3.0,12.0,-3.0,NEO
+283,D,2016-05-04 20:27:50,2016-04-20,NEO,Robison William J,Dir,A - Grant,7.15,2150,345576,+1%,15373.0,-2.0,4.0,13.0,0.0,NEO
+284,D,2016-05-04 20:14:58,2016-04-20,NEO,Hannah Alison L.,Dir,A - Grant,7.15,2150,25270,+9%,15373.0,-2.0,4.0,13.0,0.0,NEO
+285,D,2016-05-03 20:41:34,2016-04-20,NEO,Johnson Kevin C,Dir,A - Grant,7.15,2150,237658,+1%,15373.0,-2.0,1.0,9.0,-2.0,NEO
+286,D,2016-05-03 20:38:44,2016-05-03,NEO,Jones Steven C,EVP of Finance,G - Gift,8.21,-40000,3708884,+1%,-328400.0,-2.0,1.0,9.0,-2.0,NEO
+287,D,2016-05-03 20:38:44,2016-05-02,NEO,Jones Steven C,EVP of Finance,S - Sale+OE,8.21,-177745,3708884,-5%,-1459286.0,-2.0,1.0,9.0,-2.0,NEO
+288,D,2016-05-03 20:35:30,2016-04-20,NEO,Tetrault Lynn A.,Dir,A - Grant,7.15,2150,31270,+7%,15373.0,-2.0,1.0,9.0,-2.0,NEO
+289,D,2016-05-03 20:32:18,2016-04-29,NEO,Balliet Jennifer,VP of HR,M - OptEx,1.45,3334,3799,+717%,4834.0,-2.0,1.0,9.0,-2.0,NEO
+290,D,2016-05-03 20:12:38,2016-04-29,NEO,Ross Steven A,CIO,M - OptEx,3.93,112500,4500,-104%,442125.0,-2.0,1.0,9.0,-2.0,NEO
+291,D,2016-05-03 20:12:38,2016-04-29,NEO,Ross Steven A,CIO,S - Sale+OE,8.11,-112500,4500,-96%,-912375.0,-2.0,1.0,9.0,-2.0,NEO
+292,D,2016-03-14 18:02:14,2016-03-11,NEO,Cardoza George,CFO,M - OptEx,1.46,100000,209089,+92%,146000.0,-4.0,-9.0,-3.0,18.0,NEO
+293,D,2016-03-14 18:02:14,2016-03-11,NEO,Cardoza George,CFO,S - Sale+OE,6.83,-32000,209089,-13%,-218560.0,-4.0,-9.0,-3.0,18.0,NEO
+294,D,2016-03-14 17:15:38,2016-03-10,NEO,Brodie Steven G.,Chief Scientific Officer,M - OptEx,1.48,50000,55953,+840%,74000.0,-4.0,-9.0,-3.0,18.0,NEO
+295,D,2016-03-10 17:28:01,2016-03-08,NEO,Van Oort Douglas M,"COB, CEO",M - OptEx,0.8,1000000,1862500,+116%,800000.0,2.0,-3.0,-1.0,18.0,NEO
+296,DM,2016-03-10 17:28:01,2016-03-08,NEO,Van Oort Douglas M,"COB, CEO",S - Sale+OE,7.1,-450000,1862500,-19%,-3193900.0,2.0,-3.0,-1.0,18.0,NEO
+297,M,2016-03-07 17:23:15,2016-03-04,NEO,Johnson Kevin C,Dir,P - Purchase,6.78,22007,110547,+25%,149196.0,-5.0,-5.0,-6.0,8.0,NEO
+298,D,2016-03-04 16:31:54,2016-03-03,NEO,Hannah Alison L.,Dir,P - Purchase,6.9,10000,11560,+641%,69000.0,7.0,0.0,2.0,17.0,NEO
+299,D,2015-12-30 16:34:29,2015-12-29,NEO,Horel Robert H.,VP GM PathLogic,M - OptEx,1.57,51218,51218,New,80266.0,-2.0,-12.0,-15.0,-1.0,NEO
+300,D,2015-12-23 16:46:56,2015-12-21,NEO,Tetrault Lynn A.,Dir,P - Purchase,8.21,9500,14560,+188%,77995.0,0.0,-1.0,-14.0,2.0,NEO
+301,D,2015-12-09 16:25:52,2015-12-07,NEO,Tetrault Lynn A.,Dir,P - Purchase,7.72,3500,5060,+224%,27020.0,2.0,5.0,-8.0,19.0,NEO
+302,D,2015-12-04 13:01:18,2015-12-03,NEO,Shovlin Robert J.,COO,P - Purchase,7.75,6550,6550,New,50763.0,2.0,0.0,-6.0,18.0,NEO
+303,D,2015-11-27 15:04:22,2015-11-27,NEO,Jones Steven C,EVP of Finance,G - Gift,8.05,-25000,3886629,-1%,-201250.0,0.0,-5.0,2.0,12.0,NEO
+304,DM,2015-11-27 15:04:22,2015-11-25,NEO,Jones Steven C,EVP of Finance,S - Sale+OE,8.09,-385000,3886629,-9%,-3115315.0,0.0,-5.0,2.0,12.0,NEO
+305,,2015-11-04 19:18:37,2015-11-02,NEO,Crowther Bruce K,Dir,P - Purchase,7.81,6400,9980,+179%,49978.0,0.0,4.0,-1.0,1.0,NEO
+306,DM,2015-05-06 16:38:31,2013-07-01,NEO,Jones Steven C,EVP of Finance,G - Gift,3.91,-38064,4296629,-1%,-148656.0,6.0,3.0,20.0,69.0,NEO
+307,,2015-04-20 12:37:41,2015-04-16,NEO,Johnson Kevin C,Dir,A - Grant,4.82,2080,95747,+2%,10026.0,0.0,-2.0,3.0,22.0,NEO
+308,,2015-04-17 17:39:58,2015-04-16,NEO,Hipp Raymond R,Dir,A - Grant,4.82,2080,264794,+1%,10026.0,0.0,0.0,2.0,18.0,NEO
+309,,2015-04-17 10:32:05,2015-04-16,NEO,Crowther Bruce K,Dir,A - Grant,4.82,2080,3580,+139%,10026.0,0.0,1.0,3.0,19.0,NEO
+310,,2015-04-16 15:08:04,2015-04-16,NEO,Robison William J,Dir,A - Grant,4.82,2080,173793,+1%,10026.0,0.0,0.0,4.0,17.0,NEO
+311,D,2014-12-22 16:24:24,2014-12-19,NEO,Horel Robert H.,VP andGM PathLogic,M - OptEx,1.35,32389,0,-100%,43736.0,-2.0,-3.0,-15.0,30.0,NEO
+312,D,2014-12-22 16:24:24,2014-12-19,NEO,Horel Robert H.,VP andGM PathLogic,S - Sale+OE,4.21,-32389,0,-100%,-136303.0,-2.0,-3.0,-15.0,30.0,NEO
+313,D,2014-12-19 16:11:09,2014-12-18,NEO,Horel Robert H.,VP andGM PathLogic,M - OptEx,1.44,62893,0,-100%,90553.0,1.0,0.0,-14.0,29.0,NEO
+314,D,2014-12-19 16:11:09,2014-12-18,NEO,Horel Robert H.,VP andGM PathLogic,S - Sale+OE,4.2,-62893,0,-100%,-264169.0,1.0,0.0,-14.0,29.0,NEO
+315,,2014-12-08 09:50:41,2014-12-04,NEO,Dent Michael T,Dir,S - Sale,4.5,-11800,1821650,-1%,-53100.0,-5.0,3.0,-1.0,37.0,NEO
+316,D,2014-12-01 16:03:28,2014-11-26,NEO,Cardoza George,CFO,M - OptEx,1.55,130000,141089,>999%,201500.0,2.0,0.0,-1.0,33.0,NEO
+317,D,2014-12-01 16:03:28,2014-11-26,NEO,Cardoza George,CFO,S - Sale+OE,4.28,-60000,141089,-30%,-256770.0,2.0,0.0,-1.0,33.0,NEO
+318,M,2014-11-24 09:54:30,2014-11-20,NEO,Dent Michael T,Dir,S - Sale,4.51,-33200,1833450,-2%,-149714.0,1.0,-4.0,-5.0,24.0,NEO
+319,,2014-10-28 08:57:20,2014-10-27,NEO,Crowther Bruce K,Dir,A - Grant,4.85,1500,1500,New,7275.0,5.0,-1.0,-11.0,-5.0,NEO
+320,,2014-08-27 21:16:15,2013-03-05,NEO,Dent Michael T,Dir,S - Sale,3.0,-300000,1665550,-15%,-900000.0,0.0,1.0,-4.0,-19.0,NEO
+321,D,2014-08-18 13:28:18,2014-04-15,NEO,Van Oort Douglas M,"COB, CEO",A - Grant,3.05,125000,1312556,+11%,381250.0,0.0,1.0,5.0,-21.0,NEO
+322,DM,2014-08-11 14:12:43,2014-04-15,NEO,Dent Michael T,Dir,A - Grant,0.27,403000,1962550,+26%,109150.0,3.0,4.0,10.0,-19.0,NEO
+323,,2014-08-04 12:07:01,2014-04-15,NEO,Johnson Kevin C,Dir,A - Grant,3.05,3000,93667,+3%,9150.0,0.0,-3.0,4.0,-24.0,NEO
+324,,2014-08-01 13:49:38,2014-04-15,NEO,Hipp Raymond R,Dir,A - Grant,3.05,3000,262714,+1%,9150.0,0.0,0.0,3.0,-22.0,NEO
+325,,2014-08-01 10:54:33,2014-04-15,NEO,Robison William J,Dir,A - Grant,3.05,3000,171713,+2%,9150.0,0.0,0.0,3.0,-22.0,NEO
+326,D,2014-05-27 10:23:16,2014-05-22,NEO,Gasparini Robert P,Chief Science Officer,S - Sale+OE,3.49,-100000,8439,-92%,-349160.0,2.0,-5.0,-8.0,29.0,NEO
+327,D,2014-05-27 10:23:16,2014-05-22,NEO,Gasparini Robert P,Chief Science Officer,X - OptEx,0.25,100000,8439,-92%,25000.0,2.0,-5.0,-8.0,29.0,NEO
+328,D,2014-05-21 09:36:37,2014-05-19,NEO,Gasparini Robert P,Chief Science Officer,S - Sale+OE,3.65,-10000,8439,-54%,-36532.0,1.0,-5.0,-11.0,31.0,NEO
+329,D,2014-03-31 18:09:08,2014-03-28,NEO,Albitar Maher,Chief Medical Officer,P - Purchase,3.51,14492,63492,+30%,50847.0,5.0,0.0,-2.0,51.0,NEO
+330,D,2014-03-12 13:45:39,2014-03-12,NEO,Van Oort Douglas M,"COB, CEO",A - Grant,1.05,375000,1187556,+46%,393750.0,-2.0,3.0,0.0,61.0,NEO
+331,D,2014-03-05 16:59:06,2014-02-07,NEO,Jones Steven C,EVP of Finance,A - Grant,0.75,83333,4334693,+2%,62500.0,-5.0,-7.0,-1.0,45.0,NEO
+332,D,2013-12-18 16:28:20,2013-12-17,NEO,Gasparini Robert P,Chief Science Officer,S - Sale+OE,3.74,-646,18439,-3%,-2416.0,-1.0,1.0,20.0,-13.0,NEO
+333,D,2013-12-17 09:38:52,2013-12-12,NEO,Gasparini Robert P,Chief Science Officer,S - Sale+OE,3.68,-5673,19085,-23%,-20877.0,-1.0,3.0,23.0,-13.0,NEO
+334,DM,2013-12-11 17:37:58,2013-12-10,NEO,Gasparini Robert P,Chief Science Officer,S - Sale+OE,3.7,-20100,24758,-45%,-74370.0,-1.0,-2.0,18.0,-7.0,NEO
+335,D,2013-12-09 17:44:20,2013-12-09,NEO,Cardoza George,CFO,A - Grant,1.55,20000,71089,+39%,31000.0,0.0,-2.0,9.0,-4.0,NEO
+336,D,2013-12-09 17:44:20,2013-12-09,NEO,Cardoza George,CFO,S - Sale+OE,3.66,-20000,71089,-22%,-73200.0,0.0,-2.0,9.0,-4.0,NEO
+337,D,2013-12-06 16:40:06,2013-12-05,NEO,Gasparini Robert P,Chief Science Officer,S - Sale+OE,3.67,-32996,44858,-42%,-121095.0,0.0,0.0,0.0,-4.0,NEO
+338,D,2013-12-04 10:24:39,2013-12-02,NEO,Gasparini Robert P,Chief Science Officer,A - Grant,0.25,100000,77854,-452%,25000.0,-2.0,-1.0,1.0,-11.0,NEO
+339,DM,2013-12-04 10:24:39,2013-12-02,NEO,Gasparini Robert P,Chief Science Officer,S - Sale+OE,3.67,-32146,77854,-29%,-117920.0,-2.0,-1.0,1.0,-11.0,NEO
+340,DM,2013-11-26 16:40:31,2013-11-22,NEO,Jones Steven C,EVP of Finance,S - Sale+OE,3.58,-112969,7755768,-1%,-404751.0,1.0,6.0,2.0,-1.0,NEO
+341,D,2013-05-08 15:54:23,2013-05-02,NEO,Gasparini Robert P,Chief Science Officer,S - Sale+OE,3.6,-2500,10000,-20%,-9000.0,-2.0,-6.0,-5.0,1.0,NEO
+342,D,2013-05-01 21:23:14,2013-04-29,NEO,Gasparini Robert P,Chief Science Officer,A - Grant,0.25,50000,12500,-133%,12500.0,4.0,7.0,2.0,8.0,NEO
+343,DM,2013-05-01 21:23:14,2013-04-29,NEO,Gasparini Robert P,Chief Science Officer,S - Sale+OE,3.75,-37500,12500,-75%,-140450.0,4.0,7.0,2.0,8.0,NEO
+344,DM,2013-05-01 17:22:21,2013-04-29,NEO,Jones Steven C,EVP of Finance,S - Sale+OE,3.71,-100000,4364329,-2%,-371153.0,4.0,7.0,2.0,8.0,NEO
+345,D,2012-12-20 17:36:29,2012-12-20,NGNM,Jones Steven C,"EVP of Finance, 10%",G - Gift,2.75,-22640,4464329,-1%,-62260.0,,,,,NEO
+346,DM,2012-12-20 17:36:29,2012-12-18,NGNM,Jones Steven C,"EVP of Finance, 10%",S - Sale+OE,2.75,-641439,4464329,-13%,-1763957.0,,,,,NEO
+347,DM,2012-10-01 06:42:23,2012-09-26,NGNM,Jones Steven C,"EVP of Finance, 10%",S - Sale+OE,3.03,-60800,8782123,-1%,-184048.0,,,,,NEO
+348,D,2012-10-01 06:37:40,2012-09-28,NGNM,Dent Michael T,Dir,S - Sale+OE,3.01,-75000,1562550,-5%,-225750.0,,,,,NEO
+349,D,2012-09-27 16:14:22,2012-09-26,NGNM,Gasparini Robert P,Chief Science Officer,S - Sale+OE,3.03,-3155,0,-100%,-9573.0,,,,,NEO
+350,DM,2012-09-13 17:21:27,2011-11-10,NGNM,Gasparini Robert P,Chief Science Officer,D - Sale to issuer,1.62,-30000,3155,-90%,-48690.0,,,,,NEO
+351,D,2012-06-22 11:37:59,2012-06-20,NGNM,Jones Steven C,"EVP of Finance, 10%",D - Sale to issuer,1.7,-30000,8842923,0%,-51000.0,,,,,NEO
+352,M,2012-06-20 21:13:10,2012-06-18,NGNM,"Kinderhook, LP",10%,P - Purchase,1.69,84037,4848334,+2%,141860.0,,,,,NEO
+353,D,2012-06-07 20:02:25,2012-06-07,NGNM,Dent Michael T,Dir,A - Grant,1.5,10500,1637550,+1%,15750.0,,,,,NEO
+354,D,2012-06-07 12:28:15,2012-06-06,NGNM,Jones Steven C,"EVP of Finance, 10%",A - Grant,1.5,126251,8872923,+1%,189377.0,,,,,NEO
+355,D,2012-06-07 11:06:28,2012-06-05,NGNM,Peterson Peter M,Dir,A - Grant,1.5,10500,163927,+7%,15750.0,,,,,NEO
+356,,2012-06-06 12:39:36,2012-06-04,NGNM,Robison William J,Dir,A - Grant,1.5,75000,168713,+80%,112500.0,,,,,NEO
+357,M,2012-05-21 16:42:01,2012-05-15,NGNM,"Kinderhook Partners, LP",10%,P - Purchase,1.7,275000,4764297,+6%,467480.0,,,,,NEO
+358,D,2012-05-02 14:50:32,2012-05-02,NGNM,Cardoza George,CFO,P - Purchase,1.66,4000,70337,+6%,6640.0,,,,,NEO
+359,D,2012-05-02 13:14:21,2012-04-30,NGNM,Dent Michael T,Dir,S - Sale+OE,1.7,-15602,1627050,-1%,-26523.0,,,,,NEO
+360,DM,2012-02-24 09:25:17,2012-02-21,NGNM,Dent Michael T,Dir,S - Sale+OE,1.73,-70055,1642652,-4%,-121191.0,,,,,NEO
+361,D,2011-10-27 11:24:06,2011-10-26,NGNM,Cardoza George,CFO,P - Purchase,1.21,3000,61676,+5%,3630.0,,,,,NEO
+362,D,2011-10-26 14:54:35,2011-10-24,NGNM,Dent Michael T,Dir,S - Sale+OE,1.16,-28000,1712707,-2%,-32430.0,,,,,NEO
+363,D,2011-09-16 12:06:23,2011-09-15,NGNM,Van Oort Douglas M,"COB, CEO",P - Purchase,1.14,2500,812556,0%,2850.0,,,,,NEO
+364,D,2011-08-23 10:10:30,2011-08-22,NGNM,Van Oort Douglas M,"COB, CEO",P - Purchase,1.15,2000,810056,0%,2300.0,,,,,NEO
+365,D,2011-08-08 17:25:13,2011-08-08,NGNM,Van Oort Douglas M,"COB, CEO",P - Purchase,1.3,2000,808056,0%,2600.0,,,,,NEO
+366,D,2011-08-08 09:48:14,2011-08-05,NGNM,Van Oort Douglas M,"COB, CEO",P - Purchase,1.29,2456,804100,0%,3168.0,,,,,NEO
+367,DM,2011-07-29 10:12:20,2011-06-07,NGNM,Dent Michael T,Dir,S - Sale+OE,1.4,-10000,1740707,-1%,-14000.0,,,,,NEO
+368,D,2011-06-14 12:54:45,2011-06-13,NGNM,Van Oort Douglas M,"COB, CEO",P - Purchase,1.35,2500,803600,0%,3375.0,,,,,NEO
+369,D,2011-05-26 17:10:23,2011-05-26,NGNM,Van Oort Douglas M,"COB, CEO",P - Purchase,1.4,2500,801100,0%,3500.0,,,,,NEO
+370,D,2011-05-20 14:22:44,2011-05-18,NGNM,Smits Mark W,Chief Commercial Officer,M - OptEx,1.02,45000,6667,-117%,45900.0,,,,,NEO
+371,D,2011-05-20 14:22:44,2011-05-18,NGNM,Smits Mark W,Chief Commercial Officer,S - Sale+OE,1.37,-45000,6667,-87%,-61650.0,,,,,NEO
+372,DM,2011-05-20 10:57:55,2011-05-12,NGNM,Van Oort Douglas M,"COB, CEO",P - Purchase,1.4,2110,798600,0%,2954.0,,,,,NEO
+373,D,2011-05-12 12:04:26,2011-05-10,NGNM,Van Oort Douglas M,"COB, CEO",P - Purchase,1.4,600,796490,0%,840.0,,,,,NEO
+374,D,2011-05-09 11:05:02,2011-05-06,NGNM,Van Oort Douglas M,"COB, CEO",P - Purchase,1.45,5000,795890,+1%,7250.0,,,,,NEO

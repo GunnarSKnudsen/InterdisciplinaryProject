@@ -1,12 +1,31 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,ADM,2021-10-04 21:05:34,2021-09-10,AVCT,"Mock Lawrence E, Jr.",Dir,S - Sale+OE,3.99,-11225,27231873,0%,-44834.0,,,,,AVCT
-1,D,2021-10-04 21:01:54,2021-09-10,AVCT,"Navigation Capital Partners, Inc.",10%,S - Sale+OE,4.0,-6079,10039724,0%,-24316.0,,,,,AVCT
-2,D,2021-09-14 21:58:04,2021-09-10,AVCT,"Mock Lawrence E, Jr.",Dir,S - Sale+OE,4.0,-11084,33738901,0%,-44336.0,,,,,AVCT
-3,D,2021-09-14 21:57:03,2021-09-10,AVCT,"Navigation Capital Partners Ii, L.P.",10%,S - Sale+OE,4.0,-6079,10039724,0%,-24316.0,,,,,AVCT
-4,D,2021-09-14 21:56:45,2021-09-10,AVCT,Stratos Management Systems Holdings LLC,10%,S - Sale+OE,4.0,-5005,16975447,0%,-20020.0,,,,,AVCT
-5,D,2021-09-14 20:02:45,2021-09-10,AVCT,"Pensare Sponsor Group, LLC",10%,S - Sale+OE,4.0,-564,6798569,0%,-2254.0,,,,,AVCT
-6,D,2021-09-14 20:01:45,2021-09-10,AVCT,"Pensare Sponsor Group, LLC",10%,S - Sale+OE,4.0,-564,6798569,0%,-2254.0,,,,,AVCT
-7,A,2021-01-28 09:08:59,2020-12-17,AVCT,Lockhart Dennis P,Dir,P - Purchase,5.35,15,27015,0%,80.0,,,,,AVCT
-8,,2020-12-23 16:05:16,2020-12-17,AVCT,Lockhart Dennis P,Dir,P - Purchase,5.35,15000,42000,+56%,80250.0,,,,,AVCT
-9,,2020-07-20 16:06:27,2020-07-13,AVCT,Mathy Kent,Dir,P - Purchase,3.06,60000,60000,New,183600.0,,,,,AVCT
-10,D,2020-04-24 16:10:40,2020-04-22,AVCT,Mays Darrell J.,"CEO, 10%",P - Purchase,0.0,125000,5943500,+2%,0.0,,,,,AVCT
+0,,2022-01-10 16:07:18,2022-01-06,AVCT,Tessler Michael,Dir,A - Grant,0.0,1000000,1000000,New,0.0,,,,,AVCT
+1,AD,2021-10-04 21:05:34,2021-09-08,AVCT,"Mock Lawrence E, Jr.",Dir,C - Converted deriv,0.0,166843,27231873,-1%,0.0,,,,,AVCT
+2,ADM,2021-10-04 21:05:34,2021-09-10,AVCT,"Mock Lawrence E, Jr.",Dir,S - Sale+OE,3.99,-11225,27231873,0%,-44834.0,,,,,AVCT
+3,ADM,2021-10-04 21:05:34,2021-09-10,AVCT,"Mock Lawrence E, Jr.",Dir,X - OptEx,0.01,4479561,27231873,-14%,44796.0,,,,,AVCT
+4,D,2021-10-04 21:02:15,2021-09-08,AVCT,"Navigation Capital Partners, Inc.",10%,C - Converted deriv,0.0,7616242,7616242,-50%,0.0,,,,,AVCT
+5,D,2021-10-04 21:01:54,2021-09-10,AVCT,"Navigation Capital Partners, Inc.",10%,S - Sale+OE,4.0,-6079,10039724,0%,-24316.0,,,,,AVCT
+6,D,2021-10-04 21:01:54,2021-09-10,AVCT,"Navigation Capital Partners, Inc.",10%,X - OptEx,0.01,2429561,10039724,-19%,24296.0,,,,,AVCT
+7,D,2021-09-14 21:58:04,2021-09-08,AVCT,"Mock Lawrence E, Jr.",Dir,C - Converted deriv,0.0,6673731,33738901,-17%,0.0,,,,,AVCT
+8,D,2021-09-14 21:58:04,2021-09-10,AVCT,"Mock Lawrence E, Jr.",Dir,S - Sale+OE,4.0,-11084,33738901,0%,-44336.0,,,,,AVCT
+9,D,2021-09-14 21:58:04,2021-09-10,AVCT,"Mock Lawrence E, Jr.",Dir,X - OptEx,0.01,4429561,33738901,-12%,44296.0,,,,,AVCT
+10,D,2021-09-14 21:57:03,2021-09-10,AVCT,"Navigation Capital Partners Ii, L.P.",10%,S - Sale+OE,4.0,-6079,10039724,0%,-24316.0,,,,,AVCT
+11,D,2021-09-14 21:57:03,2021-09-10,AVCT,"Navigation Capital Partners Ii, L.P.",10%,X - OptEx,0.01,2429561,10039724,-19%,24296.0,,,,,AVCT
+12,D,2021-09-14 21:56:45,2021-09-08,AVCT,Stratos Management Systems Holdings LLC,10%,C - Converted deriv,0.0,6673731,16975447,-28%,0.0,,,,,AVCT
+13,D,2021-09-14 21:56:45,2021-09-10,AVCT,Stratos Management Systems Holdings LLC,10%,S - Sale+OE,4.0,-5005,16975447,0%,-20020.0,,,,,AVCT
+14,D,2021-09-14 21:56:45,2021-09-10,AVCT,Stratos Management Systems Holdings LLC,10%,X - OptEx,0.01,2000000,16975447,-11%,20000.0,,,,,AVCT
+15,D,2021-09-14 20:02:45,2021-09-10,AVCT,"Pensare Sponsor Group, LLC",10%,S - Sale+OE,4.0,-564,6798569,0%,-2254.0,,,,,AVCT
+16,D,2021-09-14 20:02:45,2021-09-10,AVCT,"Pensare Sponsor Group, LLC",10%,X - OptEx,0.01,226000,6798569,-3%,2260.0,,,,,AVCT
+17,D,2021-09-14 20:01:45,2021-09-10,AVCT,"Pensare Sponsor Group, LLC",10%,S - Sale+OE,4.0,-564,6798569,0%,-2254.0,,,,,AVCT
+18,D,2021-09-14 20:01:45,2021-09-10,AVCT,"Pensare Sponsor Group, LLC",10%,X - OptEx,0.01,226000,6798569,-3%,2260.0,,,,,AVCT
+19,D,2021-09-13 16:05:33,2021-09-08,AVCT,Ellis U. Bertram Jr.,Dir,C - Converted deriv,3.45,394564,436564,-47%,1361246.0,,,,,AVCT
+20,D,2021-09-13 16:05:33,2021-04-07,AVCT,Ellis U. Bertram Jr.,Dir,M - OptEx,0.0,15000,436564,+4%,0.0,,,,,AVCT
+21,D,2021-09-10 20:31:33,2021-09-08,AVCT,"Pensare Sponsor Group, LLC",10%,C - Converted deriv,3.45,754133,6573133,-10%,2601759.0,,,,,AVCT
+22,D,2021-09-10 20:16:51,2021-09-08,AVCT,Ribbon Communications Inc.,10%,C - Converted deriv,3.45,13700421,13700421,-50%,47266452.0,,,,,AVCT
+23,D,2021-09-10 18:31:34,2021-09-08,AVCT,"Mock Lawrence E, Jr.",Dir,C - Converted deriv,0.0,14289973,22646693,-39%,0.0,,,,,AVCT
+24,D,2021-09-10 17:23:11,2021-09-08,AVCT,"Navigation Capital Partners Sof I, LLC",10%,C - Converted deriv,0.0,7616242,7616242,-50%,0.0,,,,,AVCT
+25,D,2021-09-10 16:15:17,2021-09-08,AVCT,Mastec Inc,10%,C - Converted deriv,3.45,1001060,2702060,-27%,3453657.0,,,,,AVCT
+26,A,2021-01-28 09:08:59,2020-12-17,AVCT,Lockhart Dennis P,Dir,P - Purchase,5.35,15,27015,0%,80.0,,,,,AVCT
+27,,2020-12-23 16:05:16,2020-12-17,AVCT,Lockhart Dennis P,Dir,P - Purchase,5.35,15000,42000,+56%,80250.0,,,,,AVCT
+28,,2020-07-20 16:06:27,2020-07-13,AVCT,Mathy Kent,Dir,P - Purchase,3.06,60000,60000,New,183600.0,,,,,AVCT
+29,D,2020-04-24 16:10:40,2020-04-22,AVCT,Mays Darrell J.,"CEO, 10%",P - Purchase,0.0,125000,5943500,+2%,0.0,,,,,AVCT

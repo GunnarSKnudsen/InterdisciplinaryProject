@@ -1,61 +1,580 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
 0,,2022-03-01 16:54:37,2022-02-25,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,S - Sale,30.0,-108,2549,-4%,-3240.0,,,,,AGIO
-1,,2022-02-18 16:56:05,2022-02-16,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,S - Sale,30.81,-233,2549,-8%,-7179.0,,,,,AGIO
-2,D,2022-02-16 17:00:33,2022-02-14,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,S - Sale+OE,31.25,-504,2782,-15%,-15750.0,,,,,AGIO
-3,D,2021-06-23 17:28:44,2021-06-21,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale+OE,61.61,-1777,0,-100%,-109481.0,,,,,AGIO
-4,D,2021-06-22 16:44:19,2021-06-18,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,60.11,-48493,15487,-76%,-2914851.0,,,,,AGIO
-5,D,2021-06-21 16:18:29,2021-06-17,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,60.02,-2502,15487,-14%,-150170.0,,,,,AGIO
-6,DM,2021-06-11 17:00:31,2021-06-09,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,60.09,-28002,15487,-64%,-1682554.0,,,,,AGIO
-7,DM,2021-06-09 16:06:25,2021-06-07,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,60.05,-10943,15487,-41%,-657171.0,,,,,AGIO
-8,,2021-05-18 16:11:40,2021-05-14,AGIO,Miles Darrin,Chief Commercial Officer,S - Sale,55.41,-3462,7209,-32%,-191829.0,,,,,AGIO
-9,DM,2021-04-21 17:11:43,2021-04-19,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,55.12,-17611,15487,-53%,-970636.0,,,,,AGIO
-10,,2021-04-20 16:10:08,2021-04-16,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,55.89,-1118,0,-100%,-62485.0,,,,,AGIO
-11,,2021-04-16 16:33:29,2021-04-15,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,54.0,-991,1118,-47%,-53514.0,,,,,AGIO
-12,M,2021-03-16 16:14:21,2021-03-01,AGIO,Miles Darrin,Chief Commercial Officer,S - Sale,48.1,-2700,10671,-20%,-129868.0,,,,,AGIO
-13,,2020-09-04 16:24:10,2020-09-02,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,39.93,-250,184,-58%,-9983.0,,,,,AGIO
-14,D,2020-05-21 17:05:42,2020-05-20,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,50.01,-3583,8306,-30%,-179200.0,,,,,AGIO
-15,,2020-03-04 17:08:37,2020-03-02,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,47.3,-345,184,-65%,-16319.0,,,,,AGIO
-16,,2020-02-28 16:17:04,2020-02-26,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,47.12,-472,184,-72%,-22241.0,,,,,AGIO
-17,,2020-02-24 16:02:32,2020-02-20,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,53.37,-2427,184,-93%,-129529.0,,,,,AGIO
-18,D,2020-02-18 16:05:33,2020-02-13,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,50.16,-7100,1650,-81%,-356112.0,,,,,AGIO
-19,D,2020-02-13 16:21:23,2020-02-11,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,50.02,-621,1650,-27%,-31063.0,,,,,AGIO
-20,D,2020-02-06 16:52:27,2020-02-04,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,50.08,-49638,1650,-97%,-2485989.0,,,,,AGIO
-21,,2019-12-30 16:08:19,2019-12-26,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,50.09,-2950,184,-94%,-147766.0,,,,,AGIO
-22,,2019-11-15 16:05:09,2019-11-13,AGIO,Fouse Jacqualyn A,CEO,P - Purchase,31.0,40322,41722,>999%,1249982.0,,,,,AGIO
-23,,2019-11-15 16:03:06,2019-11-13,AGIO,Schenkein David P,Dir,P - Purchase,31.0,8064,447421,+2%,249984.0,,,,,AGIO
-24,,2019-11-14 16:06:15,2019-11-12,AGIO,Celgene Corp /de/,10%,P - Purchase,31.0,403225,7121658,+6%,12499975.0,,,,,AGIO
-25,D,2019-04-09 16:59:31,2019-04-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,67.71,-3000,79570,-4%,-203135.0,,,,,AGIO
-26,D,2019-04-03 16:12:33,2019-04-01,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,66.57,-10000,7238,-58%,-665747.0,,,,,AGIO
-27,D,2019-03-19 16:25:00,2019-03-15,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,64.16,-10000,7238,-58%,-641615.0,,,,,AGIO
-28,D,2019-03-07 16:06:55,2019-03-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,67.68,-3000,79570,-4%,-203032.0,,,,,AGIO
-29,DM,2019-03-05 16:04:05,2019-03-01,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,67.01,-10000,10941,-48%,-670050.0,,,,,AGIO
-30,D,2019-03-01 16:02:40,2019-02-27,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,65.0,-9000,79570,-10%,-585000.0,,,,,AGIO
-31,D,2019-02-20 16:01:50,2018-09-28,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale+OE,76.45,-152,512,-23%,-11620.0,,,,,AGIO
-32,D,2018-11-07 16:09:06,2018-11-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,69.69,-3000,57196,-5%,-209071.0,,,,,AGIO
-33,A,2018-11-06 16:12:15,2018-09-12,AGIO,Maraganore John,Dir,S - Sale,0.0,0,36209,0%,-0.0,,,,,AGIO
-34,D,2018-10-09 16:09:34,2018-10-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,69.79,-3000,57196,-5%,-209377.0,,,,,AGIO
-35,M,2018-09-13 16:01:25,2018-09-11,AGIO,Maraganore John,Dir,S - Sale,72.23,-27717,22047,-56%,-2002110.0,,,,,AGIO
-36,D,2018-09-07 16:18:24,2018-09-05,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale+OE,83.0,-312,152,-67%,-25896.0,,,,,AGIO
-37,D,2018-09-07 16:12:50,2018-09-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,83.07,-3000,57196,-5%,-249215.0,,,,,AGIO
-38,DM,2018-08-31 16:02:36,2018-08-29,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,80.03,-2000,924,-68%,-160051.0,,,,,AGIO
-39,D,2018-08-28 16:06:58,2018-08-24,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,74.92,-2050,0,-100%,-153586.0,,,,,AGIO
-40,D,2018-08-08 16:14:20,2018-08-06,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,80.11,-3000,57196,-5%,-240333.0,,,,,AGIO
-41,D,2018-07-27 16:01:16,2018-07-25,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,84.58,-2050,0,-100%,-173389.0,,,,,AGIO
-42,D,2018-07-12 16:14:48,2018-07-10,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,86.76,-2000,924,-68%,-173512.0,,,,,AGIO
-43,D,2018-07-11 16:23:54,2018-07-09,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale+OE,84.94,-272,0,-100%,-23104.0,,,,,AGIO
-44,D,2018-07-09 16:08:28,2018-07-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,83.5,-3000,57196,-5%,-250503.0,,,,,AGIO
-45,D,2018-06-26 16:02:51,2018-06-22,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,97.58,-2050,0,-100%,-200039.0,,,,,AGIO
-46,D,2018-06-18 16:05:01,2018-06-14,AGIO,Foster-Cheek Kaye I,Dir,S - Sale+OE,93.55,-9000,2200,-80%,-841926.0,,,,,AGIO
-47,D,2018-06-14 16:23:18,2018-06-12,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,92.89,-2000,881,-69%,-185786.0,,,,,AGIO
-48,D,2018-06-07 16:02:41,2018-06-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,93.37,-3000,57196,-5%,-280101.0,,,,,AGIO
-49,D,2018-06-05 16:10:42,2018-06-01,AGIO,Schenkein David P,CEO,S - Sale+OE,95.35,-13000,350854,-4%,-1239608.0,,,,,AGIO
-50,D,2018-06-01 16:08:10,2018-05-30,AGIO,Schenkein David P,CEO,S - Sale+OE,90.07,-45626,350854,-12%,-4109534.0,,,,,AGIO
-51,D,2018-05-29 06:17:57,2018-05-23,AGIO,Schenkein David P,CEO,S - Sale+OE,90.4,-49374,350854,-12%,-4463524.0,,,,,AGIO
-52,D,2018-05-29 06:14:49,2018-05-23,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,85.76,-2050,0,-100%,-175808.0,,,,,AGIO
-53,D,2018-05-29 06:11:05,2018-05-23,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,90.0,-15177,57196,-21%,-1365930.0,,,,,AGIO
-54,D,2018-05-15 16:13:12,2018-05-11,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,85.0,-2000,881,-69%,-170003.0,,,,,AGIO
-55,D,2018-05-10 16:00:57,2018-05-08,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,81.38,-2000,881,-69%,-162760.0,,,,,AGIO
-56,D,2018-05-08 16:08:22,2018-05-07,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,81.81,-3000,57196,-5%,-245430.0,,,,,AGIO
-57,D,2018-05-03 16:07:16,2018-05-01,AGIO,Schenkein David P,CEO,S - Sale+OE,83.04,-13000,350854,-4%,-1079501.0,,,,,AGIO
-58,D,2018-04-25 16:12:34,2018-04-23,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,85.95,-2050,0,-100%,-176198.0,,,,,AGIO
-59,D,2018-04-16 16:01:28,2018-04-12,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,85.1,-2000,881,-69%,-170190.0,,,,,AGIO
+1,D,2022-02-23 16:12:00,2022-02-22,AGIO,Gheuens Sarah,Chief Medical Officer,F - Tax,29.08,-955,7768,-11%,-27771.0,,,,,AGIO
+2,D,2022-02-23 16:12:00,2022-02-18,AGIO,Gheuens Sarah,Chief Medical Officer,M - OptEx,0.0,3271,7768,+73%,0.0,,,,,AGIO
+3,D,2022-02-23 16:11:43,2022-02-22,AGIO,Poddar Richa,Chief Commercial Officer,F - Tax,29.08,-742,4441,-14%,-21577.0,,,,,AGIO
+4,DM,2022-02-23 16:11:43,2022-02-18,AGIO,Poddar Richa,Chief Commercial Officer,M - OptEx,0.0,2542,4441,+134%,0.0,,,,,AGIO
+5,D,2022-02-23 16:11:14,2022-02-22,AGIO,Car Bruce,Chief Scientific Officer,F - Tax,29.08,-2041,16752,-11%,-59352.0,,,,,AGIO
+6,D,2022-02-23 16:11:14,2022-02-18,AGIO,Car Bruce,Chief Scientific Officer,M - OptEx,0.0,6874,16752,+70%,0.0,,,,,AGIO
+7,D,2022-02-23 16:10:52,2022-02-22,AGIO,Biller Jonathan,CFO,F - Tax,29.08,-2688,22953,-10%,-78167.0,,,,,AGIO
+8,D,2022-02-23 16:10:52,2022-02-18,AGIO,Biller Jonathan,CFO,M - OptEx,0.0,8523,22953,+59%,0.0,,,,,AGIO
+9,D,2022-02-23 16:10:29,2022-02-22,AGIO,Fouse Jacqualyn A,CEO,F - Tax,29.08,-3674,74897,-5%,-106840.0,,,,,AGIO
+10,D,2022-02-23 16:10:29,2022-02-18,AGIO,Fouse Jacqualyn A,CEO,M - OptEx,0.0,12379,74897,+20%,0.0,,,,,AGIO
+11,D,2022-02-23 16:10:10,2022-02-22,AGIO,Burns James William,GC,F - Tax,29.08,-215,14793,-1%,-6252.0,,,,,AGIO
+12,D,2022-02-23 16:10:10,2022-02-22,AGIO,Burns James William,GC,M - OptEx,0.0,724,14793,+5%,0.0,,,,,AGIO
+13,D,2022-02-23 16:09:46,2022-02-22,AGIO,Schenkein David P,Dir,F - Tax,29.08,-758,466148,0%,-22043.0,,,,,AGIO
+14,D,2022-02-23 16:09:46,2022-02-22,AGIO,Schenkein David P,Dir,M - OptEx,0.0,2775,466148,+1%,0.0,,,,,AGIO
+15,D,2022-02-23 16:09:03,2022-02-22,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,F - Tax,29.08,-59,2657,-2%,-1716.0,,,,,AGIO
+16,D,2022-02-23 16:09:03,2022-02-22,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,M - OptEx,0.0,167,2657,+7%,0.0,,,,,AGIO
+17,,2022-02-18 16:56:05,2022-02-16,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,S - Sale,30.81,-233,2549,-8%,-7179.0,,,,,AGIO
+18,D,2022-02-16 17:01:39,2022-02-14,AGIO,Fouse Jacqualyn A,CEO,F - Tax,30.5,-3505,66192,-5%,-106903.0,,,,,AGIO
+19,D,2022-02-16 17:01:39,2022-02-14,AGIO,Fouse Jacqualyn A,CEO,M - OptEx,0.0,11334,66192,+21%,0.0,,,,,AGIO
+20,D,2022-02-16 17:01:18,2022-02-14,AGIO,Burns James William,GC,F - Tax,30.5,-2155,14284,-13%,-65728.0,,,,,AGIO
+21,D,2022-02-16 17:01:18,2022-02-14,AGIO,Burns James William,GC,M - OptEx,0.0,6988,14284,+96%,0.0,,,,,AGIO
+22,D,2022-02-16 17:00:58,2022-02-14,AGIO,Poddar Richa,Chief Commercial Officer,F - Tax,30.5,-590,2641,-18%,-17995.0,,,,,AGIO
+23,D,2022-02-16 17:00:58,2022-02-14,AGIO,Poddar Richa,Chief Commercial Officer,M - OptEx,0.0,1738,2641,+192%,0.0,,,,,AGIO
+24,D,2022-02-16 17:00:33,2022-02-14,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,F - Tax,30.5,-127,2782,-4%,-3874.0,,,,,AGIO
+25,D,2022-02-16 17:00:33,2022-02-14,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,M - OptEx,0.0,360,2782,+15%,0.0,,,,,AGIO
+26,D,2022-02-16 17:00:33,2022-02-14,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,S - Sale+OE,31.25,-504,2782,-15%,-15750.0,,,,,AGIO
+27,D,2022-02-14 16:09:21,2022-02-10,AGIO,Gheuens Sarah,Chief Medical Officer,F - Tax,31.43,-758,5452,-12%,-23820.0,,,,,AGIO
+28,D,2022-02-14 16:09:21,2022-02-10,AGIO,Gheuens Sarah,Chief Medical Officer,M - OptEx,0.0,2162,5452,+66%,0.0,,,,,AGIO
+29,D,2022-02-14 16:08:46,2022-02-10,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,F - Tax,31.43,-273,3019,-8%,-8579.0,,,,,AGIO
+30,D,2022-02-14 16:08:46,2022-02-10,AGIO,Washburn Theodore James Jr.,Principal Accounting Officer,M - OptEx,0.0,777,3019,+35%,0.0,,,,,AGIO
+31,D,2022-02-14 16:08:09,2022-02-10,AGIO,Biller Jonathan,CFO,F - Tax,31.43,-1349,17118,-7%,-42392.0,,,,,AGIO
+32,D,2022-02-14 16:08:09,2022-02-10,AGIO,Biller Jonathan,CFO,M - OptEx,0.0,3667,17118,+27%,0.0,,,,,AGIO
+33,D,2022-02-14 16:07:33,2022-02-10,AGIO,Car Bruce,Chief Scientific Officer,F - Tax,31.43,-1073,11919,-8%,-33719.0,,,,,AGIO
+34,D,2022-02-14 16:07:33,2022-02-10,AGIO,Car Bruce,Chief Scientific Officer,M - OptEx,0.0,3667,11919,+44%,0.0,,,,,AGIO
+35,D,2022-02-14 16:06:58,2022-02-10,AGIO,Burns James William,GC,F - Tax,31.43,-643,9451,-6%,-20206.0,,,,,AGIO
+36,D,2022-02-14 16:06:58,2022-02-10,AGIO,Burns James William,GC,M - OptEx,0.0,1833,9451,+24%,0.0,,,,,AGIO
+37,D,2022-02-14 16:06:26,2022-02-10,AGIO,Poddar Richa,Chief Commercial Officer,F - Tax,31.43,-725,1493,-33%,-22783.0,,,,,AGIO
+38,D,2022-02-14 16:06:26,2022-02-10,AGIO,Poddar Richa,Chief Commercial Officer,M - OptEx,0.0,2068,1493,-360%,0.0,,,,,AGIO
+39,D,2022-01-10 16:06:35,2022-01-06,AGIO,Car Bruce,Chief Scientific Officer,F - Tax,32.58,-1205,9325,-11%,-39259.0,,,,,AGIO
+40,D,2022-01-10 16:06:35,2022-01-06,AGIO,Car Bruce,Chief Scientific Officer,M - OptEx,0.0,3437,9325,+58%,0.0,,,,,AGIO
+41,D,2021-12-07 16:18:52,2021-12-02,AGIO,Gheuens Sarah,Chief Medical Officer,F - Tax,35.0,-248,4048,-6%,-8680.0,,,,,AGIO
+42,D,2021-12-07 16:18:52,2021-12-02,AGIO,Gheuens Sarah,Chief Medical Officer,M - OptEx,0.0,834,4048,+26%,0.0,,,,,AGIO
+43,D,2021-12-07 16:18:35,2021-12-03,AGIO,Biller Jonathan,CFO,F - Tax,35.88,-1823,14800,-11%,-65406.0,,,,,AGIO
+44,D,2021-12-07 16:18:35,2021-12-03,AGIO,Biller Jonathan,CFO,M - OptEx,0.0,5753,14800,+64%,0.0,,,,,AGIO
+45,D,2021-06-23 17:28:44,2021-06-21,AGIO,Alenson Carman,Principal Accounting Officer,M - OptEx,51.51,1777,0,-100%,91533.0,,,,,AGIO
+46,D,2021-06-23 17:28:44,2021-06-21,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale+OE,61.61,-1777,0,-100%,-109481.0,,,,,AGIO
+47,D,2021-06-22 16:44:19,2021-06-18,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,49.99,48493,15487,-147%,2423991.0,,,,,AGIO
+48,D,2021-06-22 16:44:19,2021-06-18,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,60.11,-48493,15487,-76%,-2914851.0,,,,,AGIO
+49,D,2021-06-21 16:18:29,2021-06-17,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,39.76,2502,15487,+19%,99480.0,,,,,AGIO
+50,D,2021-06-21 16:18:29,2021-06-17,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,60.02,-2502,15487,-14%,-150170.0,,,,,AGIO
+51,DM,2021-06-11 17:00:31,2021-06-09,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,39.76,28002,15487,-224%,1113360.0,,,,,AGIO
+52,DM,2021-06-11 17:00:31,2021-06-09,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,60.09,-28002,15487,-64%,-1682554.0,,,,,AGIO
+53,DM,2021-06-09 16:06:25,2021-06-07,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,39.76,10943,15487,+241%,435094.0,,,,,AGIO
+54,DM,2021-06-09 16:06:25,2021-06-07,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,60.05,-10943,15487,-41%,-657171.0,,,,,AGIO
+55,D,2021-06-02 16:09:26,2021-05-28,AGIO,Clark Ian T,Dir,M - OptEx,0.0,1686,4964,+51%,0.0,,,,,AGIO
+56,D,2021-06-02 16:09:01,2021-02-04,AGIO,Maraganore John,Dir,G - Gift,0.0,-3415,28443,-11%,-0.0,,,,,AGIO
+57,D,2021-06-02 16:09:01,2021-05-28,AGIO,Maraganore John,Dir,M - OptEx,0.0,1686,28443,+6%,0.0,,,,,AGIO
+58,D,2021-06-02 16:08:25,2021-05-28,AGIO,Foster-Cheek Kaye I,Dir,M - OptEx,0.0,1686,7164,+31%,0.0,,,,,AGIO
+59,D,2021-06-02 16:07:55,2021-05-28,AGIO,Clancy Paul J,Dir,M - OptEx,0.0,1686,4964,+51%,0.0,,,,,AGIO
+60,D,2021-06-02 16:07:30,2021-05-28,AGIO,Scadden David,Dir,M - OptEx,0.0,1686,5535,+44%,0.0,,,,,AGIO
+61,D,2021-06-02 16:07:14,2021-05-28,AGIO,Schenkein David P,Dir,M - OptEx,0.0,1686,464131,0%,0.0,,,,,AGIO
+62,D,2021-06-02 16:06:50,2021-05-28,AGIO,Ho Maykin,Dir,M - OptEx,0.0,1686,4964,+51%,0.0,,,,,AGIO
+63,,2021-05-18 16:11:40,2021-05-14,AGIO,Miles Darrin,Chief Commercial Officer,S - Sale,55.41,-3462,7209,-32%,-191829.0,,,,,AGIO
+64,DM,2021-04-21 17:11:43,2021-04-19,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.65,17611,15487,-829%,627888.0,,,,,AGIO
+65,DM,2021-04-21 17:11:43,2021-04-19,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,55.12,-17611,15487,-53%,-970636.0,,,,,AGIO
+66,,2021-04-20 16:10:08,2021-04-16,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,55.89,-1118,0,-100%,-62485.0,,,,,AGIO
+67,,2021-04-16 16:33:29,2021-04-15,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,54.0,-991,1118,-47%,-53514.0,,,,,AGIO
+68,D,2021-04-15 16:46:36,2021-01-06,AGIO,Car Bruce,Chief Scientific Officer,F - Tax,44.09,-1191,7093,-14%,-52506.0,,,,,AGIO
+69,D,2021-04-15 16:46:36,2021-01-06,AGIO,Car Bruce,Chief Scientific Officer,M - OptEx,0.0,3437,7093,+94%,0.0,,,,,AGIO
+70,M,2021-03-16 16:14:21,2021-03-01,AGIO,Miles Darrin,Chief Commercial Officer,S - Sale,48.1,-2700,10671,-20%,-129868.0,,,,,AGIO
+71,D,2021-02-24 16:14:07,2021-02-22,AGIO,Miles Darrin,Chief Commercial Officer,F - Tax,0.0,-215,13057,-2%,-0.0,,,,,AGIO
+72,D,2021-02-24 16:14:07,2021-02-22,AGIO,Miles Darrin,Chief Commercial Officer,M - OptEx,0.0,725,13057,+6%,0.0,,,,,AGIO
+73,D,2021-02-24 16:12:51,2021-02-22,AGIO,Schenkein David P,Dir,F - Tax,0.0,-821,462445,0%,-0.0,,,,,AGIO
+74,D,2021-02-24 16:12:51,2021-02-22,AGIO,Schenkein David P,Dir,M - OptEx,0.0,2774,462445,+1%,0.0,,,,,AGIO
+75,D,2021-02-24 16:12:21,2021-02-22,AGIO,Alenson Carman,Principal Accounting Officer,F - Tax,0.0,-199,1795,-10%,-0.0,,,,,AGIO
+76,D,2021-02-24 16:12:21,2021-02-22,AGIO,Alenson Carman,Principal Accounting Officer,M - OptEx,0.0,692,1795,+63%,0.0,,,,,AGIO
+77,D,2021-02-24 16:11:44,2021-02-24,AGIO,Bowden Christopher,Chief Medical Officer,F - Tax,0.0,-986,15410,-6%,-0.0,,,,,AGIO
+78,D,2021-02-24 16:11:44,2021-02-22,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,0.0,3334,15410,+28%,0.0,,,,,AGIO
+79,D,2021-02-17 16:14:43,2021-02-16,AGIO,Miles Darrin,Chief Commercial Officer,F - Tax,0.0,-2916,12547,-19%,-0.0,,,,,AGIO
+80,DM,2021-02-17 16:14:43,2021-02-14,AGIO,Miles Darrin,Chief Commercial Officer,M - OptEx,0.0,9588,12547,+324%,0.0,,,,,AGIO
+81,D,2021-02-17 16:14:12,2021-02-16,AGIO,Bowden Christopher,Chief Medical Officer,F - Tax,0.0,-2069,13062,-14%,-0.0,,,,,AGIO
+82,DM,2021-02-17 16:14:12,2021-02-14,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,0.0,6750,13062,+107%,0.0,,,,,AGIO
+83,D,2021-02-17 16:13:48,2021-02-14,AGIO,Fouse Jacqualyn A,CEO,F - Tax,0.0,-3398,58363,-6%,-0.0,,,,,AGIO
+84,D,2021-02-17 16:13:48,2021-02-14,AGIO,Fouse Jacqualyn A,CEO,M - OptEx,0.0,11333,58363,+24%,0.0,,,,,AGIO
+85,D,2021-02-17 16:13:13,2021-02-16,AGIO,Alenson Carman,Principal Accounting Officer,F - Tax,0.0,-561,1302,-30%,-0.0,,,,,AGIO
+86,DM,2021-02-17 16:13:13,2021-02-14,AGIO,Alenson Carman,Principal Accounting Officer,M - OptEx,0.0,1679,1302,-445%,0.0,,,,,AGIO
+87,D,2021-02-17 16:12:53,2021-02-16,AGIO,Schenkein David P,Dir,F - Tax,0.0,-2540,460492,-1%,-0.0,,,,,AGIO
+88,D,2021-02-17 16:12:53,2021-02-16,AGIO,Schenkein David P,Dir,M - OptEx,0.0,8125,460492,+2%,0.0,,,,,AGIO
+89,D,2020-12-07 18:21:46,2020-12-03,AGIO,Biller Jonathan,CFO,F - Tax,45.87,-1707,10040,-15%,-78300.0,,,,,AGIO
+90,D,2020-12-07 18:21:46,2020-12-03,AGIO,Biller Jonathan,CFO,M - OptEx,0.0,5753,10040,+134%,0.0,,,,,AGIO
+91,,2020-09-04 16:24:10,2020-09-02,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,39.93,-250,184,-58%,-9983.0,,,,,AGIO
+92,D,2020-06-01 17:14:20,2020-05-29,AGIO,Scadden David,Dir,M - OptEx,0.0,1878,3849,+95%,0.0,,,,,AGIO
+93,D,2020-06-01 17:14:00,2020-05-29,AGIO,Clancy Paul J,Dir,M - OptEx,0.0,1878,3278,+134%,0.0,,,,,AGIO
+94,D,2020-06-01 17:13:39,2020-05-29,AGIO,Foster-Cheek Kaye I,Dir,M - OptEx,0.0,1878,5478,+52%,0.0,,,,,AGIO
+95,D,2020-06-01 17:13:12,2020-05-29,AGIO,Clark Ian T,Dir,M - OptEx,0.0,1878,3278,+134%,0.0,,,,,AGIO
+96,D,2020-06-01 17:12:45,2020-05-29,AGIO,Maraganore John,Dir,M - OptEx,0.0,1878,30172,+7%,0.0,,,,,AGIO
+97,D,2020-06-01 17:12:17,2020-05-29,AGIO,Ho Maykin,Dir,M - OptEx,0.0,1878,3278,+134%,0.0,,,,,AGIO
+98,D,2020-05-21 17:05:42,2020-05-20,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,3583,8306,+76%,125978.0,,,,,AGIO
+99,D,2020-05-21 17:05:42,2020-05-20,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,50.01,-3583,8306,-30%,-179200.0,,,,,AGIO
+100,D,2020-04-24 16:06:36,2020-04-22,AGIO,Hirsch Andrew,CFO,F - Tax,45.91,-1927,24272,-7%,-88469.0,,,,,AGIO
+101,D,2020-04-24 16:06:36,2020-04-22,AGIO,Hirsch Andrew,CFO,M - OptEx,0.0,5893,24272,+32%,0.0,,,,,AGIO
+102,D,2020-04-15 16:27:03,2020-04-14,AGIO,Biller Jonathan,GC,F - Tax,40.64,-2529,5994,-30%,-102779.0,,,,,AGIO
+103,D,2020-04-15 16:27:03,2020-04-13,AGIO,Biller Jonathan,GC,M - OptEx,0.0,8523,5994,-337%,0.0,,,,,AGIO
+104,D,2020-04-15 16:26:42,2020-04-14,AGIO,Hirsch Andrew,CFO,F - Tax,40.64,-1599,20306,-7%,-64983.0,,,,,AGIO
+105,D,2020-04-15 16:26:42,2020-04-13,AGIO,Hirsch Andrew,CFO,M - OptEx,0.0,5387,20306,+36%,0.0,,,,,AGIO
+106,D,2020-04-15 16:26:20,2020-04-14,AGIO,Fouse Jacqualyn A,CEO,F - Tax,40.64,-3673,50428,-7%,-149271.0,,,,,AGIO
+107,D,2020-04-15 16:26:20,2020-04-13,AGIO,Fouse Jacqualyn A,CEO,M - OptEx,0.0,12379,50428,+33%,0.0,,,,,AGIO
+108,D,2020-04-15 16:25:57,2020-04-14,AGIO,Car Bruce,Chief Scientific Officer,F - Tax,40.64,-2027,4847,-29%,-82377.0,,,,,AGIO
+109,D,2020-04-15 16:25:57,2020-04-13,AGIO,Car Bruce,Chief Scientific Officer,M - OptEx,0.0,6874,4847,-339%,0.0,,,,,AGIO
+110,D,2020-04-15 16:25:37,2020-04-14,AGIO,Bowden Christopher,Chief Medical Officer,F - Tax,40.64,-2368,8230,-22%,-96236.0,,,,,AGIO
+111,D,2020-04-15 16:25:37,2020-04-13,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,0.0,5280,8230,+179%,0.0,,,,,AGIO
+112,,2020-03-04 17:08:37,2020-03-02,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,47.3,-345,184,-65%,-16319.0,,,,,AGIO
+113,,2020-02-28 16:18:57,2020-02-14,AGIO,Maraganore John,Dir,G - Gift,0.0,-4315,28294,-13%,-0.0,,,,,AGIO
+114,,2020-02-28 16:17:04,2020-02-26,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,47.12,-472,184,-72%,-22241.0,,,,,AGIO
+115,D,2020-02-25 16:27:39,2020-02-24,AGIO,Hirsch Andrew,CFO,F - Tax,48.66,-1056,16518,-6%,-51385.0,,,,,AGIO
+116,D,2020-02-25 16:27:39,2020-02-22,AGIO,Hirsch Andrew,CFO,M - OptEx,0.0,3333,16518,+25%,0.0,,,,,AGIO
+117,D,2020-02-25 16:26:11,2020-02-24,AGIO,Bowden Christopher,Chief Medical Officer,F - Tax,48.66,-1596,5318,-23%,-77661.0,,,,,AGIO
+118,D,2020-02-25 16:26:11,2020-02-22,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,0.0,3333,5318,+168%,0.0,,,,,AGIO
+119,D,2020-02-25 16:25:11,2020-02-24,AGIO,Schenkein David P,Dir,F - Tax,48.66,-880,454907,0%,-42821.0,,,,,AGIO
+120,D,2020-02-25 16:25:11,2020-02-22,AGIO,Schenkein David P,Dir,M - OptEx,0.0,2775,454907,+1%,0.0,,,,,AGIO
+121,D,2020-02-25 16:23:48,2020-02-24,AGIO,Alenson Carman,Principal Accounting Officer,F - Tax,48.66,-219,656,-25%,-10657.0,,,,,AGIO
+122,D,2020-02-25 16:23:48,2020-02-22,AGIO,Alenson Carman,Principal Accounting Officer,M - OptEx,0.0,691,656,-1974%,0.0,,,,,AGIO
+123,,2020-02-24 16:02:32,2020-02-20,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,53.37,-2427,184,-93%,-129529.0,,,,,AGIO
+124,D,2020-02-19 16:55:21,2020-02-18,AGIO,Alenson Carman,Principal Accounting Officer,F - Tax,52.01,-1163,2611,-31%,-60488.0,,,,,AGIO
+125,D,2020-02-19 16:55:21,2020-02-16,AGIO,Alenson Carman,Principal Accounting Officer,M - OptEx,0.0,3590,2611,-367%,0.0,,,,,AGIO
+126,D,2020-02-19 16:53:58,2020-02-18,AGIO,Bowden Christopher,Chief Medical Officer,F - Tax,52.01,-819,3581,-19%,-42596.0,,,,,AGIO
+127,D,2020-02-19 16:53:58,2020-02-16,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,0.0,2750,3581,+331%,0.0,,,,,AGIO
+128,D,2020-02-19 16:51:52,2020-02-18,AGIO,Hirsch Andrew,CFO,F - Tax,52.01,-886,14241,-6%,-46081.0,,,,,AGIO
+129,D,2020-02-19 16:51:52,2020-02-16,AGIO,Hirsch Andrew,CFO,M - OptEx,0.0,2750,14241,+24%,0.0,,,,,AGIO
+130,D,2020-02-19 16:50:53,2020-02-18,AGIO,Schenkein David P,Dir,F - Tax,52.01,-2534,453012,-1%,-131793.0,,,,,AGIO
+131,D,2020-02-19 16:50:53,2020-02-16,AGIO,Schenkein David P,Dir,M - OptEx,0.0,8125,453012,+2%,0.0,,,,,AGIO
+132,D,2020-02-18 16:05:33,2020-02-13,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,7100,1650,-130%,249636.0,,,,,AGIO
+133,D,2020-02-18 16:05:33,2020-02-13,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,50.16,-7100,1650,-81%,-356112.0,,,,,AGIO
+134,D,2020-02-13 16:21:23,2020-02-11,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,621,1650,+60%,21834.0,,,,,AGIO
+135,D,2020-02-13 16:21:23,2020-02-11,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,50.02,-621,1650,-27%,-31063.0,,,,,AGIO
+136,DM,2020-02-06 16:52:27,2020-02-04,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,43973,1650,-104%,1546091.0,,,,,AGIO
+137,D,2020-02-06 16:52:27,2020-02-04,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,50.08,-49638,1650,-97%,-2485989.0,,,,,AGIO
+138,,2019-12-30 16:08:19,2019-12-26,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale,50.09,-2950,184,-94%,-147766.0,,,,,AGIO
+139,,2019-11-15 16:05:09,2019-11-13,AGIO,Fouse Jacqualyn A,CEO,P - Purchase,31.0,40322,41722,>999%,1249982.0,,,,,AGIO
+140,,2019-11-15 16:03:06,2019-11-13,AGIO,Schenkein David P,Dir,P - Purchase,31.0,8064,447421,+2%,249984.0,,,,,AGIO
+141,,2019-11-14 16:06:15,2019-11-12,AGIO,Celgene Corp /de/,10%,P - Purchase,31.0,403225,7121658,+6%,12499975.0,,,,,AGIO
+142,,2019-06-14 16:20:44,2019-06-12,AGIO,Maraganore John,Dir,G - Gift,0.0,-5000,32609,-13%,-0.0,,,,,AGIO
+143,D,2019-06-13 16:07:42,2019-06-11,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,2.34,7218,86788,+9%,16872.0,,,,,AGIO
+144,D,2019-05-31 16:08:56,2019-05-31,AGIO,Scadden David,Dir,M - OptEx,0.0,1400,1971,+245%,0.0,,,,,AGIO
+145,D,2019-05-31 16:08:17,2019-05-31,AGIO,Maraganore John,Dir,M - OptEx,0.0,1400,37609,+4%,0.0,,,,,AGIO
+146,D,2019-05-31 16:07:40,2019-05-31,AGIO,Ho Maykin,Dir,M - OptEx,0.0,1400,1400,New,0.0,,,,,AGIO
+147,D,2019-05-31 16:05:43,2019-05-31,AGIO,Fouse Jacqualyn A,CEO,M - OptEx,0.0,1400,1400,New,0.0,,,,,AGIO
+148,D,2019-05-31 16:05:04,2019-05-31,AGIO,Foster-Cheek Kaye I,Dir,M - OptEx,0.0,1400,3600,+64%,0.0,,,,,AGIO
+149,D,2019-05-31 16:04:30,2019-05-31,AGIO,Clark Ian T,Dir,M - OptEx,0.0,1400,1400,New,0.0,,,,,AGIO
+150,D,2019-05-31 16:03:49,2019-05-31,AGIO,Clancy Paul J,Dir,M - OptEx,0.0,1400,1400,New,0.0,,,,,AGIO
+151,D,2019-04-09 16:59:31,2019-04-05,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,39.76,3000,79570,+4%,119280.0,,,,,AGIO
+152,D,2019-04-09 16:59:31,2019-04-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,67.71,-3000,79570,-4%,-203135.0,,,,,AGIO
+153,D,2019-04-03 16:12:33,2019-04-01,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,10000,7238,-362%,351600.0,,,,,AGIO
+154,D,2019-04-03 16:12:33,2019-04-01,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,66.57,-10000,7238,-58%,-665747.0,,,,,AGIO
+155,D,2019-03-19 16:25:00,2019-03-15,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,10000,7238,-362%,351600.0,,,,,AGIO
+156,D,2019-03-19 16:25:00,2019-03-15,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,64.16,-10000,7238,-58%,-641615.0,,,,,AGIO
+157,D,2019-03-07 16:06:55,2019-03-05,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,38.6,3000,79570,+4%,115805.0,,,,,AGIO
+158,D,2019-03-07 16:06:55,2019-03-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,67.68,-3000,79570,-4%,-203032.0,,,,,AGIO
+159,DM,2019-03-05 16:04:05,2019-03-01,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,39.76,10000,10941,>999%,397600.0,,,,,AGIO
+160,DM,2019-03-05 16:04:05,2019-03-01,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,67.01,-10000,10941,-48%,-670050.0,,,,,AGIO
+161,D,2019-03-01 16:02:40,2019-02-27,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,15.1,9000,79570,+13%,135875.0,,,,,AGIO
+162,D,2019-03-01 16:02:40,2019-02-27,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,65.0,-9000,79570,-10%,-585000.0,,,,,AGIO
+163,D,2019-02-25 16:03:05,2019-02-21,AGIO,Alenson Carman,Principal Accounting Officer,F - Tax,56.33,-1016,2796,-27%,-57231.0,,,,,AGIO
+164,D,2019-02-25 16:03:05,2019-02-21,AGIO,Alenson Carman,Principal Accounting Officer,M - OptEx,0.0,3300,2796,-655%,0.0,,,,,AGIO
+165,D,2019-02-20 16:07:34,2019-02-19,AGIO,Schenkein David P,Dir,F - Tax,58.03,-2471,439357,-1%,-143392.0,,,,,AGIO
+166,D,2019-02-20 16:07:34,2019-02-16,AGIO,Schenkein David P,Dir,M - OptEx,0.0,8125,439357,+2%,0.0,,,,,AGIO
+167,D,2019-02-20 16:06:35,2019-02-19,AGIO,Hoerter Steven L.,Chief Commercial Officer,F - Tax,58.03,-1040,10941,-9%,-60351.0,,,,,AGIO
+168,D,2019-02-20 16:06:35,2019-02-16,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,0.0,2750,10941,+34%,0.0,,,,,AGIO
+169,D,2019-02-20 16:05:28,2019-02-19,AGIO,Hirsch Andrew,CFO,F - Tax,58.03,-821,12374,-6%,-47643.0,,,,,AGIO
+170,D,2019-02-20 16:05:28,2019-02-16,AGIO,Hirsch Andrew,CFO,M - OptEx,0.0,2750,12374,+29%,0.0,,,,,AGIO
+171,D,2019-02-20 16:04:07,2019-02-19,AGIO,Bowden Christopher,Chief Medical Officer,F - Tax,58.03,-818,7195,-10%,-47469.0,,,,,AGIO
+172,D,2019-02-20 16:04:07,2019-02-16,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,0.0,2750,7195,+62%,0.0,,,,,AGIO
+173,D,2019-02-20 16:03:07,2019-02-19,AGIO,Biller Scott,Chief Scientific Officer,F - Tax,58.03,-876,79570,-1%,-50834.0,,,,,AGIO
+174,D,2019-02-20 16:03:07,2019-02-16,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.0,2750,79570,+4%,0.0,,,,,AGIO
+175,D,2019-02-20 16:01:50,2019-02-19,AGIO,Alenson Carman,Principal Accounting Officer,F - Tax,58.03,-278,512,-35%,-16132.0,,,,,AGIO
+176,D,2019-02-20 16:01:50,2019-02-16,AGIO,Alenson Carman,Principal Accounting Officer,M - OptEx,0.0,790,512,-284%,0.0,,,,,AGIO
+177,D,2019-02-20 16:01:50,2018-09-28,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale+OE,76.45,-152,512,-23%,-11620.0,,,,,AGIO
+178,D,2019-01-23 16:22:56,2019-01-22,AGIO,Hirsch Andrew,CFO,F - Tax,52.82,-4555,10445,-30%,-240595.0,,,,,AGIO
+179,D,2019-01-23 16:22:56,2019-01-20,AGIO,Hirsch Andrew,CFO,M - OptEx,0.0,15000,10445,-329%,0.0,,,,,AGIO
+180,D,2019-01-23 16:19:38,2019-01-22,AGIO,Hoerter Steven L.,Chief Commercial Officer,F - Tax,52.82,-5769,9231,-38%,-304719.0,,,,,AGIO
+181,D,2019-01-23 16:19:38,2019-01-20,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,0.0,15000,9231,-260%,0.0,,,,,AGIO
+182,D,2019-01-23 16:12:30,2019-01-22,AGIO,Bowden Christopher,Chief Medical Officer,F - Tax,52.82,-1960,5229,-27%,-103527.0,,,,,AGIO
+183,D,2019-01-23 16:12:30,2019-01-20,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,0.0,6265,5229,-605%,0.0,,,,,AGIO
+184,D,2018-12-26 16:39:36,2018-12-21,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,2.34,20500,77696,+36%,47919.0,,,,,AGIO
+185,,2018-11-19 16:01:39,2018-11-08,AGIO,Schenkein David P,CEO,G - Gift,0.0,-1000,433703,0%,-0.0,,,,,AGIO
+186,D,2018-11-07 16:09:06,2018-11-05,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,3000,57196,+6%,27150.0,,,,,AGIO
+187,D,2018-11-07 16:09:06,2018-11-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,69.69,-3000,57196,-5%,-209071.0,,,,,AGIO
+188,A,2018-11-06 16:12:15,2018-09-12,AGIO,Maraganore John,Dir,S - Sale,0.0,0,36209,0%,-0.0,,,,,AGIO
+189,D,2018-10-09 16:09:34,2018-10-05,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,3000,57196,+6%,27150.0,,,,,AGIO
+190,D,2018-10-09 16:09:34,2018-10-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,69.79,-3000,57196,-5%,-209377.0,,,,,AGIO
+191,M,2018-09-13 16:01:25,2018-09-11,AGIO,Maraganore John,Dir,S - Sale,72.23,-27717,22047,-56%,-2002110.0,,,,,AGIO
+192,D,2018-09-12 16:12:38,2018-09-10,AGIO,Schenkein David P,CEO,M - OptEx,31.64,8730,434703,+2%,276217.0,,,,,AGIO
+193,D,2018-09-07 16:22:40,2018-09-05,AGIO,Schenkein David P,CEO,M - OptEx,3.32,75119,425973,+21%,249028.0,,,,,AGIO
+194,D,2018-09-07 16:18:24,2018-09-05,AGIO,Alenson Carman,Principal Accounting Officer,M - OptEx,52.29,312,152,-195%,16314.0,,,,,AGIO
+195,D,2018-09-07 16:18:24,2018-09-05,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale+OE,83.0,-312,152,-67%,-25896.0,,,,,AGIO
+196,D,2018-09-07 16:12:50,2018-09-05,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,3000,57196,+6%,27150.0,,,,,AGIO
+197,D,2018-09-07 16:12:50,2018-09-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,83.07,-3000,57196,-5%,-249215.0,,,,,AGIO
+198,DM,2018-08-31 16:02:36,2018-08-29,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,2000,924,-186%,70320.0,,,,,AGIO
+199,DM,2018-08-31 16:02:36,2018-08-29,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,80.03,-2000,924,-68%,-160051.0,,,,,AGIO
+200,D,2018-08-28 16:06:58,2018-08-24,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,39.76,2050,0,-100%,81508.0,,,,,AGIO
+201,D,2018-08-28 16:06:58,2018-08-24,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,74.92,-2050,0,-100%,-153586.0,,,,,AGIO
+202,D,2018-08-08 16:14:20,2018-08-06,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,3000,57196,+6%,27150.0,,,,,AGIO
+203,D,2018-08-08 16:14:20,2018-08-06,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,80.11,-3000,57196,-5%,-240333.0,,,,,AGIO
+204,D,2018-07-27 16:01:16,2018-07-25,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,39.76,2050,0,-100%,81508.0,,,,,AGIO
+205,D,2018-07-27 16:01:16,2018-07-25,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,84.58,-2050,0,-100%,-173389.0,,,,,AGIO
+206,D,2018-07-12 16:14:48,2018-07-10,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,2000,924,-186%,70320.0,,,,,AGIO
+207,D,2018-07-12 16:14:48,2018-07-10,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,86.76,-2000,924,-68%,-173512.0,,,,,AGIO
+208,D,2018-07-11 16:23:54,2018-07-09,AGIO,Alenson Carman,Principal Accounting Officer,M - OptEx,52.29,272,0,-100%,14223.0,,,,,AGIO
+209,D,2018-07-11 16:23:54,2018-07-09,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale+OE,84.94,-272,0,-100%,-23104.0,,,,,AGIO
+210,D,2018-07-09 16:08:28,2018-07-05,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,3000,57196,+6%,27150.0,,,,,AGIO
+211,D,2018-07-09 16:08:28,2018-07-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,83.5,-3000,57196,-5%,-250503.0,,,,,AGIO
+212,D,2018-06-26 16:02:51,2018-06-22,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,39.76,2050,0,-100%,81508.0,,,,,AGIO
+213,D,2018-06-26 16:02:51,2018-06-22,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,97.58,-2050,0,-100%,-200039.0,,,,,AGIO
+214,D,2018-06-18 16:05:01,2018-06-14,AGIO,Foster-Cheek Kaye I,Dir,M - OptEx,50.73,9000,2200,-132%,456570.0,,,,,AGIO
+215,D,2018-06-18 16:05:01,2018-06-14,AGIO,Foster-Cheek Kaye I,Dir,S - Sale+OE,93.55,-9000,2200,-80%,-841926.0,,,,,AGIO
+216,D,2018-06-14 16:23:18,2018-06-12,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,2000,881,-179%,70320.0,,,,,AGIO
+217,D,2018-06-14 16:23:18,2018-06-12,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,92.89,-2000,881,-69%,-185786.0,,,,,AGIO
+218,D,2018-06-07 16:02:41,2018-06-05,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,3000,57196,+6%,27150.0,,,,,AGIO
+219,D,2018-06-07 16:02:41,2018-06-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,93.37,-3000,57196,-5%,-280101.0,,,,,AGIO
+220,D,2018-06-05 16:10:42,2018-06-01,AGIO,Schenkein David P,CEO,M - OptEx,0.48,13000,350854,+4%,6280.0,,,,,AGIO
+221,D,2018-06-05 16:10:42,2018-06-01,AGIO,Schenkein David P,CEO,S - Sale+OE,95.35,-13000,350854,-4%,-1239608.0,,,,,AGIO
+222,D,2018-06-01 16:08:10,2018-05-30,AGIO,Schenkein David P,CEO,M - OptEx,0.39,45626,350854,+15%,17675.0,,,,,AGIO
+223,D,2018-06-01 16:08:10,2018-05-30,AGIO,Schenkein David P,CEO,S - Sale+OE,90.07,-45626,350854,-12%,-4109534.0,,,,,AGIO
+224,D,2018-05-29 06:17:57,2018-05-23,AGIO,Schenkein David P,CEO,M - OptEx,0.3,49374,350854,+16%,14936.0,,,,,AGIO
+225,D,2018-05-29 06:17:57,2018-05-23,AGIO,Schenkein David P,CEO,S - Sale+OE,90.4,-49374,350854,-12%,-4463524.0,,,,,AGIO
+226,D,2018-05-29 06:14:49,2018-05-23,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,39.76,2050,0,-100%,81508.0,,,,,AGIO
+227,D,2018-05-29 06:14:49,2018-05-23,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,85.76,-2050,0,-100%,-175808.0,,,,,AGIO
+228,D,2018-05-29 06:11:05,2018-05-23,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,31.64,15177,57196,+36%,480200.0,,,,,AGIO
+229,D,2018-05-29 06:11:05,2018-05-23,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,90.0,-15177,57196,-21%,-1365930.0,,,,,AGIO
+230,D,2018-05-15 16:13:12,2018-05-11,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,2000,881,-179%,70320.0,,,,,AGIO
+231,D,2018-05-15 16:13:12,2018-05-11,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,85.0,-2000,881,-69%,-170003.0,,,,,AGIO
+232,D,2018-05-10 16:00:57,2018-05-08,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,2000,881,-179%,70320.0,,,,,AGIO
+233,D,2018-05-10 16:00:57,2018-05-08,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,81.38,-2000,881,-69%,-162760.0,,,,,AGIO
+234,D,2018-05-08 16:08:22,2018-05-07,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,3000,57196,+6%,27150.0,,,,,AGIO
+235,D,2018-05-08 16:08:22,2018-05-07,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,81.81,-3000,57196,-5%,-245430.0,,,,,AGIO
+236,D,2018-05-03 16:07:16,2018-05-01,AGIO,Schenkein David P,CEO,M - OptEx,0.3,13000,350854,+4%,3933.0,,,,,AGIO
+237,D,2018-05-03 16:07:16,2018-05-01,AGIO,Schenkein David P,CEO,S - Sale+OE,83.04,-13000,350854,-4%,-1079501.0,,,,,AGIO
+238,D,2018-04-25 16:12:34,2018-04-23,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,39.76,2050,0,-100%,81508.0,,,,,AGIO
+239,D,2018-04-25 16:12:34,2018-04-23,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,85.95,-2050,0,-100%,-176198.0,,,,,AGIO
+240,D,2018-04-16 16:01:28,2018-04-12,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,2000,881,-179%,70320.0,,,,,AGIO
+241,D,2018-04-16 16:01:28,2018-04-12,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,85.1,-2000,881,-69%,-170190.0,,,,,AGIO
+242,D,2018-04-09 16:09:52,2018-04-05,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,3000,57196,+6%,27150.0,,,,,AGIO
+243,D,2018-04-09 16:09:52,2018-04-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,75.2,-3000,57196,-5%,-225607.0,,,,,AGIO
+244,D,2018-04-04 16:03:53,2018-04-02,AGIO,Schenkein David P,CEO,M - OptEx,0.3,13000,350854,+4%,3933.0,,,,,AGIO
+245,D,2018-04-04 16:03:53,2018-04-02,AGIO,Schenkein David P,CEO,S - Sale+OE,77.72,-13000,350854,-4%,-1010357.0,,,,,AGIO
+246,D,2018-03-30 16:18:28,2018-03-28,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,2.32,4137,57196,+8%,9611.0,,,,,AGIO
+247,D,2018-03-26 16:01:48,2018-03-22,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,39.76,2050,0,-100%,81508.0,,,,,AGIO
+248,D,2018-03-26 16:01:48,2018-03-22,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,84.65,-2050,0,-100%,-173533.0,,,,,AGIO
+249,D,2018-03-21 16:04:30,2018-03-19,AGIO,Foster-Cheek Kaye I,Dir,M - OptEx,47.33,6800,2200,-148%,321844.0,,,,,AGIO
+250,D,2018-03-21 16:04:30,2018-03-19,AGIO,Foster-Cheek Kaye I,Dir,S - Sale+OE,81.97,-6800,2200,-76%,-557396.0,,,,,AGIO
+251,,2018-03-20 16:43:15,2018-03-16,AGIO,Scadden David,Dir,P - Purchase,83.44,200,571,+54%,16688.0,,,,,AGIO
+252,D,2018-03-16 16:50:34,2018-03-14,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,2000,881,-179%,70320.0,,,,,AGIO
+253,D,2018-03-16 16:50:34,2018-03-14,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,82.33,-2000,881,-69%,-164661.0,,,,,AGIO
+254,D,2018-03-07 16:10:32,2018-03-05,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,3000,53059,+6%,27150.0,,,,,AGIO
+255,D,2018-03-07 16:10:32,2018-03-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,83.08,-3000,53059,-5%,-249229.0,,,,,AGIO
+256,D,2018-03-05 16:32:56,2018-03-01,AGIO,Schenkein David P,CEO,M - OptEx,0.3,13000,350854,+4%,3933.0,,,,,AGIO
+257,D,2018-03-05 16:32:56,2018-03-01,AGIO,Schenkein David P,CEO,S - Sale+OE,81.09,-13000,350854,-4%,-1054218.0,,,,,AGIO
+258,D,2018-02-28 16:02:06,2018-02-26,AGIO,Foster-Cheek Kaye I,Dir,M - OptEx,47.33,2200,2200,New,104126.0,,,,,AGIO
+259,D,2018-02-26 16:45:46,2018-02-22,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,39.76,2050,0,-100%,81508.0,,,,,AGIO
+260,D,2018-02-26 16:45:46,2018-02-22,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,78.63,-2050,0,-100%,-161192.0,,,,,AGIO
+261,D,2018-02-20 16:03:16,2018-02-16,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,2000,881,-179%,70320.0,,,,,AGIO
+262,D,2018-02-20 16:03:16,2018-02-16,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,77.65,-2000,881,-69%,-155305.0,,,,,AGIO
+263,D,2018-02-07 16:05:16,2018-02-05,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,8.87,3000,53059,+6%,26601.0,,,,,AGIO
+264,D,2018-02-07 16:05:16,2018-02-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,76.04,-3000,53059,-5%,-228128.0,,,,,AGIO
+265,D,2018-02-05 16:43:26,2018-02-01,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,2000,881,-179%,70320.0,,,,,AGIO
+266,D,2018-02-05 16:43:26,2018-02-01,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,78.75,-2000,881,-69%,-157500.0,,,,,AGIO
+267,D,2018-02-05 16:40:27,2018-02-01,AGIO,Schenkein David P,CEO,M - OptEx,0.3,13000,350854,+4%,3933.0,,,,,AGIO
+268,D,2018-02-05 16:40:27,2018-02-01,AGIO,Schenkein David P,CEO,S - Sale+OE,78.75,-13000,350854,-4%,-1023756.0,,,,,AGIO
+269,A,2018-01-31 08:39:40,2018-01-23,AGIO,Celgene Corp /de/,10%,P - Purchase,67.0,851154,6718433,+15%,57027318.0,,,,,AGIO
+270,D,2018-01-30 16:26:09,2018-01-26,AGIO,Schenkein David P,CEO,M - OptEx,0.3,23572,350854,+7%,7131.0,,,,,AGIO
+271,D,2018-01-30 16:26:09,2018-01-26,AGIO,Schenkein David P,CEO,S - Sale+OE,81.09,-23572,350854,-6%,-1911494.0,,,,,AGIO
+272,D,2018-01-26 16:23:39,2018-01-12,AGIO,Alenson Carman,Principal Accounting Officer,M - OptEx,52.29,2150,0,-100%,112424.0,,,,,AGIO
+273,D,2018-01-26 16:23:39,2018-01-12,AGIO,Alenson Carman,Principal Accounting Officer,S - Sale+OE,75.0,-2150,0,-100%,-161250.0,,,,,AGIO
+274,D,2018-01-26 16:22:32,2018-01-24,AGIO,Schenkein David P,CEO,M - OptEx,0.3,20,350854,0%,6.0,,,,,AGIO
+275,D,2018-01-26 16:22:32,2018-01-24,AGIO,Schenkein David P,CEO,S - Sale+OE,80.01,-20,350854,0%,-1600.0,,,,,AGIO
+276,D,2018-01-25 16:03:39,2018-01-23,AGIO,Hoerter Steven L.,Chief Commercial Officer,M - OptEx,39.76,25000,0,-100%,994000.0,,,,,AGIO
+277,D,2018-01-25 16:03:39,2018-01-23,AGIO,Hoerter Steven L.,Chief Commercial Officer,S - Sale+OE,74.83,-25000,0,-100%,-1870750.0,,,,,AGIO
+278,DM,2018-01-25 16:03:09,2018-01-23,AGIO,Schenkein David P,CEO,M - OptEx,0.3,46408,350854,+15%,14038.0,,,,,AGIO
+279,DM,2018-01-25 16:03:09,2018-01-23,AGIO,Schenkein David P,CEO,S - Sale+OE,80.01,-46408,350854,-12%,-3713104.0,,,,,AGIO
+280,,2018-01-23 16:35:54,2018-01-23,AGIO,Celgene Corp /de/,10%,P - Purchase,67.0,851154,6718433,+15%,57027318.0,,,,,AGIO
+281,D,2018-01-16 17:16:22,2018-01-16,AGIO,Schenkein David P,CEO,M - OptEx,0.3,53000,350854,+18%,16033.0,,,,,AGIO
+282,D,2018-01-16 17:16:22,2018-01-16,AGIO,Schenkein David P,CEO,S - Sale+OE,73.16,-53000,350854,-13%,-3877218.0,,,,,AGIO
+283,D,2018-01-12 16:34:11,2018-01-10,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,3000,53059,+6%,1403.0,,,,,AGIO
+284,D,2018-01-12 16:34:11,2018-01-10,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,65.0,-3000,53059,-5%,-195000.0,,,,,AGIO
+285,M,2017-12-08 16:23:42,2017-12-06,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,59.37,-3838,200596,-2%,-227857.0,,,,,AGIO
+286,D,2017-12-08 16:22:52,2017-12-06,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,1.74,46795,53059,+747%,81376.0,,,,,AGIO
+287,D,2017-12-05 16:28:10,2017-12-01,AGIO,Schenkein David P,CEO,M - OptEx,0.3,6000,350854,+2%,1815.0,,,,,AGIO
+288,D,2017-12-05 16:28:10,2017-12-01,AGIO,Schenkein David P,CEO,S - Sale+OE,61.55,-6000,350854,-2%,-369288.0,,,,,AGIO
+289,D,2017-12-05 16:09:30,2017-12-01,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,31.64,2146,6264,+52%,67899.0,,,,,AGIO
+290,D,2017-12-05 16:09:30,2017-12-01,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,60.79,-2146,6264,-26%,-130459.0,,,,,AGIO
+291,M,2017-11-15 17:43:10,2017-11-13,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,60.88,-4000,204434,-2%,-243540.0,,,,,AGIO
+292,D,2017-11-03 16:01:21,2017-11-01,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,31.64,2146,6264,+52%,67899.0,,,,,AGIO
+293,D,2017-11-03 16:01:21,2017-11-01,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,62.69,-2146,6264,-26%,-134522.0,,,,,AGIO
+294,D,2017-11-03 16:00:41,2017-11-01,AGIO,Schenkein David P,CEO,M - OptEx,0.3,6000,350854,+2%,1815.0,,,,,AGIO
+295,D,2017-11-03 16:00:41,2017-11-01,AGIO,Schenkein David P,CEO,S - Sale+OE,63.85,-6000,350854,-2%,-383105.0,,,,,AGIO
+296,M,2017-10-18 17:34:28,2017-10-16,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,71.1,-4000,208434,-2%,-284380.0,,,,,AGIO
+297,,2017-10-05 18:35:48,2017-10-04,AGIO,Biller Scott,Chief Scientific Officer,S - Sale,70.0,-10470,6264,-63%,-732900.0,,,,,AGIO
+298,D,2017-10-05 18:33:58,2017-10-04,AGIO,Schenkein David P,CEO,M - OptEx,0.3,80000,350854,+30%,24200.0,,,,,AGIO
+299,D,2017-10-05 18:33:58,2017-10-04,AGIO,Schenkein David P,CEO,S - Sale+OE,70.14,-80000,350854,-19%,-5611200.0,,,,,AGIO
+300,D,2017-10-04 16:32:13,2017-10-02,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,19.1,2146,16734,+15%,40995.0,,,,,AGIO
+301,D,2017-10-04 16:32:13,2017-10-02,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,67.23,-2146,16734,-11%,-144276.0,,,,,AGIO
+302,D,2017-10-04 16:29:43,2017-10-02,AGIO,Schenkein David P,CEO,M - OptEx,0.3,6000,350854,+2%,1815.0,,,,,AGIO
+303,D,2017-10-04 16:29:43,2017-10-02,AGIO,Schenkein David P,CEO,S - Sale+OE,66.76,-6000,350854,-2%,-400560.0,,,,,AGIO
+304,D,2017-09-20 16:11:17,2017-09-07,AGIO,Schenkein David P,CEO,G - Gift,0.0,-500,350854,0%,-0.0,,,,,AGIO
+305,D,2017-09-20 16:11:17,2017-09-18,AGIO,Schenkein David P,CEO,M - OptEx,0.3,35000,350854,+11%,10588.0,,,,,AGIO
+306,D,2017-09-20 16:11:17,2017-09-18,AGIO,Schenkein David P,CEO,S - Sale+OE,67.12,-35000,350854,-9%,-2349200.0,,,,,AGIO
+307,M,2017-09-15 16:54:26,2017-09-13,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,65.59,-4000,212434,-2%,-262360.0,,,,,AGIO
+308,D,2017-09-13 16:38:41,2017-09-11,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,6000,881,-117%,210960.0,,,,,AGIO
+309,D,2017-09-13 16:38:41,2017-09-11,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,65.0,-6000,881,-87%,-390000.0,,,,,AGIO
+310,,2017-09-13 16:37:17,2017-09-11,AGIO,Biller Scott,Chief Scientific Officer,S - Sale,65.0,-15000,16734,-47%,-975000.0,,,,,AGIO
+311,D,2017-09-05 17:25:50,2017-09-01,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,2146,31734,+7%,19421.0,,,,,AGIO
+312,D,2017-09-05 17:25:50,2017-09-01,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,61.99,-2146,31734,-6%,-133031.0,,,,,AGIO
+313,D,2017-09-05 17:22:11,2017-09-01,AGIO,Schenkein David P,CEO,M - OptEx,0.3,6000,351354,+2%,1815.0,,,,,AGIO
+314,D,2017-09-05 17:22:11,2017-09-01,AGIO,Schenkein David P,CEO,S - Sale+OE,62.2,-6000,351354,-2%,-373200.0,,,,,AGIO
+315,M,2017-08-24 16:13:03,2017-08-22,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,56.85,-4000,216434,-2%,-227400.0,,,,,AGIO
+316,D,2017-08-03 17:29:26,2017-08-01,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,2146,31734,+7%,19421.0,,,,,AGIO
+317,DM,2017-08-03 17:29:26,2017-08-01,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,59.6,-23146,31734,-42%,-1379397.0,,,,,AGIO
+318,DM,2017-08-03 17:26:25,2017-08-01,AGIO,Schenkein David P,CEO,M - OptEx,0.3,27000,351354,+8%,8168.0,,,,,AGIO
+319,DM,2017-08-03 17:26:25,2017-08-01,AGIO,Schenkein David P,CEO,S - Sale+OE,59.95,-27000,351354,-7%,-1618560.0,,,,,AGIO
+320,M,2017-07-21 16:05:47,2017-07-19,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,56.36,-9000,220434,-4%,-507260.0,,,,,AGIO
+321,D,2017-07-11 16:07:15,2017-07-07,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,2146,52734,+4%,19421.0,,,,,AGIO
+322,D,2017-07-11 16:07:15,2017-07-07,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,55.0,-2146,52734,-4%,-118030.0,,,,,AGIO
+323,D,2017-07-06 16:31:17,2017-07-03,AGIO,Schenkein David P,CEO,M - OptEx,0.3,3000,351354,+1%,908.0,,,,,AGIO
+324,D,2017-07-06 16:31:17,2017-07-03,AGIO,Schenkein David P,CEO,S - Sale+OE,51.18,-3000,351354,-1%,-153540.0,,,,,AGIO
+325,D,2017-06-27 16:33:44,2017-06-23,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,3000,52734,+6%,1403.0,,,,,AGIO
+326,D,2017-06-23 16:08:19,2017-06-21,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,5.52,7292,49734,+17%,40245.0,,,,,AGIO
+327,D,2017-06-23 16:08:19,2017-06-21,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,55.0,-4292,49734,-8%,-236060.0,,,,,AGIO
+328,DM,2017-06-15 17:02:51,2017-06-13,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale+OE,50.87,-2000,229434,-1%,-101730.0,,,,,AGIO
+329,DM,2017-06-08 16:06:10,2017-06-06,AGIO,Schenkein David P,CEO,M - OptEx,0.3,3000,351354,+1%,908.0,,,,,AGIO
+330,DM,2017-06-08 16:06:10,2017-06-06,AGIO,Schenkein David P,CEO,S - Sale+OE,50.02,-3000,351354,-1%,-150060.0,,,,,AGIO
+331,M,2017-05-25 19:03:47,2017-05-24,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,47.1,-2036,231434,-1%,-95885.0,,,,,AGIO
+332,D,2017-05-02 16:03:44,2017-05-01,AGIO,Schenkein David P,CEO,M - OptEx,0.3,3000,351354,+1%,908.0,-1.0,4.0,,,AGIO
+333,D,2017-05-02 16:03:44,2017-05-01,AGIO,Schenkein David P,CEO,S - Sale+OE,50.06,-3000,351354,-1%,-150180.0,-1.0,4.0,,,AGIO
+334,,2017-04-24 16:34:16,2017-04-24,AGIO,Celgene European Investment Co LLC,10%,P - Purchase,49.5,624575,5867279,+12%,30916463.0,6.0,5.0,,,AGIO
+335,M,2017-04-19 17:16:44,2017-04-17,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,54.37,-5090,233470,-2%,-276753.0,-1.0,3.0,,,AGIO
+336,D,2017-04-05 16:05:41,2017-04-03,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,9.05,2146,46734,+5%,19421.0,0.0,0.0,-11.0,,AGIO
+337,D,2017-04-05 16:05:41,2017-04-03,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,58.03,-2146,46734,-4%,-124532.0,0.0,0.0,-11.0,,AGIO
+338,D,2017-04-05 16:04:49,2017-04-03,AGIO,Schenkein David P,CEO,M - OptEx,0.3,3000,351354,+1%,908.0,0.0,0.0,-11.0,,AGIO
+339,D,2017-04-05 16:04:49,2017-04-03,AGIO,Schenkein David P,CEO,S - Sale+OE,58.62,-3000,351354,-1%,-175860.0,0.0,0.0,-11.0,,AGIO
+340,M,2017-03-24 16:20:54,2017-03-22,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,53.11,-2036,238560,-1%,-108132.0,3.0,4.0,-15.0,,AGIO
+341,D,2017-03-22 17:10:48,2017-03-20,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,8.38,6438,46470,+16%,53930.0,2.0,6.0,-9.0,,AGIO
+342,D,2017-03-22 17:10:48,2017-03-20,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,55.0,-6438,46470,-12%,-354090.0,2.0,6.0,-9.0,,AGIO
+343,M,2017-03-07 16:35:15,2017-03-03,AGIO,Nelsen Robert,Dir,S - Sale,50.84,-40599,109230,-27%,-2064209.0,3.0,4.0,12.0,,AGIO
+344,D,2017-03-03 16:36:41,2017-03-01,AGIO,Schenkein David P,CEO,M - OptEx,0.3,3000,351354,+1%,908.0,-2.0,2.0,15.0,,AGIO
+345,D,2017-03-03 16:36:41,2017-03-01,AGIO,Schenkein David P,CEO,S - Sale+OE,50.47,-3000,351354,-1%,-151410.0,-2.0,2.0,15.0,,AGIO
+346,M,2017-03-01 17:37:20,2017-02-27,AGIO,Nelsen Robert,Dir,S - Sale,49.36,-243082,149829,-62%,-11997896.0,-1.0,-4.0,11.0,,AGIO
+347,M,2017-02-23 19:20:31,2017-02-21,AGIO,Nelsen Robert,Dir,S - Sale,49.37,-135364,392911,-26%,-6683464.0,1.0,9.0,14.0,,AGIO
+348,D,2017-02-17 16:36:31,2017-02-16,AGIO,Schenkein David P,CEO,M - OptEx,0.3,6000,351354,+2%,1815.0,-7.0,-13.0,4.0,,AGIO
+349,D,2017-02-17 16:36:31,2017-02-16,AGIO,Schenkein David P,CEO,S - Sale+OE,50.01,-6000,351354,-2%,-300060.0,-7.0,-13.0,4.0,,AGIO
+350,,2016-12-22 16:56:11,2016-12-22,AGIO,Biller Scott,Chief Scientific Officer,G - Gift,0.0,-7800,46470,-14%,-0.0,4.0,3.0,-2.0,,AGIO
+351,D,2016-11-16 16:52:42,2016-11-14,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,12.26,27500,54270,+103%,337037.0,1.0,0.0,-9.0,,AGIO
+352,D,2016-11-16 16:52:42,2016-11-14,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,65.0,-32500,54270,-37%,-2112500.0,1.0,0.0,-9.0,,AGIO
+353,M,2016-11-14 18:07:18,2016-11-09,AGIO,Biller Scott,Chief Scientific Officer,S - Sale,60.0,-5000,59270,-8%,-300000.0,0.0,-7.0,-23.0,,AGIO
+354,M,2016-10-28 16:03:35,2016-10-26,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,48.94,-2504,240596,-1%,-122546.0,-2.0,-2.0,26.0,5.0,AGIO
+355,,2016-10-06 16:14:08,2016-10-05,AGIO,Biller Scott,Chief Scientific Officer,S - Sale,55.0,-5000,64270,-7%,-275000.0,-2.0,-6.0,-11.0,0.0,AGIO
+356,M,2016-09-28 17:29:01,2016-09-27,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,54.08,-2504,243100,-1%,-135404.0,-4.0,-2.0,-10.0,5.0,AGIO
+357,,2016-09-22 16:40:31,2016-09-20,AGIO,Biller Scott,Chief Scientific Officer,S - Sale,50.0,-5000,69270,-7%,-250000.0,0.0,2.0,-5.0,2.0,AGIO
+358,M,2016-08-31 16:02:16,2016-08-29,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,37.31,-2504,245604,-1%,-93424.0,0.0,28.0,41.0,39.0,AGIO
+359,M,2016-07-27 16:28:40,2016-07-25,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,42.8,-2504,248108,-1%,-107159.0,-4.0,-1.0,-16.0,-9.0,AGIO
+360,M,2016-06-29 17:05:10,2016-06-27,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,41.88,-2504,250612,-1%,-104855.0,-6.0,-4.0,-2.0,-3.0,AGIO
+361,DM,2016-06-10 16:03:05,2016-06-08,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,4.26,42700,74270,+135%,181872.0,3.0,-3.0,-14.0,-6.0,AGIO
+362,D,2016-06-10 16:03:05,2016-06-08,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,65.0,-27500,74270,-27%,-1787500.0,3.0,-3.0,-14.0,-6.0,AGIO
+363,M,2016-05-27 16:18:50,2016-05-25,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,51.69,-2504,253116,-1%,-129432.0,5.0,7.0,-25.0,20.0,AGIO
+364,M,2016-04-27 16:08:12,2016-04-25,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,53.44,-2504,255620,-1%,-133814.0,-1.0,-8.0,3.0,-4.0,AGIO
+365,M,2016-03-31 16:04:30,2016-03-29,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,37.19,-2504,258124,-1%,-93111.0,3.0,20.0,26.0,37.0,AGIO
+366,AM,2016-03-23 16:24:14,2015-11-16,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,59.87,-9704,276300,-3%,-581006.0,2.0,2.0,43.0,32.0,AGIO
+367,M,2016-02-29 16:17:51,2016-02-25,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,37.9,-2504,260924,-1%,-94889.0,13.0,15.0,-3.0,-1.0,AGIO
+368,D,2016-02-10 16:54:10,2016-02-03,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,10000,59070,+20%,4675.0,-2.0,15.0,4.0,12.0,AGIO
+369,M,2016-02-01 17:56:25,2016-01-28,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,42.93,-2504,263428,-1%,-107484.0,-12.0,-10.0,3.0,7.0,AGIO
+370,D,2016-01-11 16:23:15,2016-01-07,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,15000,49070,+44%,7013.0,8.0,5.0,-22.0,-10.0,AGIO
+371,D,2016-01-11 16:22:36,2016-01-07,AGIO,Schenkein David P,CEO,M - OptEx,0.3,20000,351354,+6%,6050.0,8.0,5.0,-22.0,-10.0,AGIO
+372,D,2016-01-05 17:21:46,2015-12-31,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,31.64,5500,34070,+19%,174020.0,-13.0,-27.0,-43.0,-36.0,AGIO
+373,D,2016-01-05 17:21:46,2015-12-31,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,65.27,-5500,34070,-14%,-358985.0,-13.0,-27.0,-43.0,-36.0,AGIO
+374,D,2016-01-05 17:20:30,2016-01-04,AGIO,Higgons John Duncan,COO,M - OptEx,3.32,58999,120834,+95%,195925.0,-13.0,-27.0,-43.0,-36.0,AGIO
+375,DM,2016-01-05 17:17:36,2016-01-04,AGIO,Schenkein David P,CEO,M - OptEx,0.3,20000,331354,+6%,6050.0,-13.0,-27.0,-43.0,-36.0,AGIO
+376,M,2015-12-29 20:20:49,2015-12-28,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,64.93,-10664,265932,-4%,-692433.0,-4.0,-5.0,-38.0,-37.0,AGIO
+377,,2015-12-17 16:02:04,2015-12-15,AGIO,Higgons John Duncan,COO,S - Sale,50.09,-20000,61835,-24%,-1001800.0,2.0,13.0,-18.0,-15.0,AGIO
+378,D,2015-12-02 16:11:46,2015-11-30,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,31.64,5500,34070,+19%,174020.0,-7.0,-19.0,1.0,-5.0,AGIO
+379,D,2015-12-02 16:11:46,2015-11-30,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,65.99,-5500,34070,-14%,-362945.0,-7.0,-19.0,1.0,-5.0,AGIO
+380,D,2015-11-18 16:19:37,2015-11-16,AGIO,Higgons John Duncan,COO,M - OptEx,1.09,20000,81835,+32%,21764.0,-4.0,-1.0,-14.0,-31.0,AGIO
+381,D,2015-11-18 16:19:37,2015-11-16,AGIO,Higgons John Duncan,COO,S - Sale+OE,61.51,-20000,81835,-20%,-1230200.0,-4.0,-1.0,-14.0,-31.0,AGIO
+382,M,2015-11-18 16:15:14,2015-11-16,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,59.83,-9408,276596,-3%,-562871.0,-4.0,-1.0,-14.0,-31.0,AGIO
+383,D,2015-11-03 17:46:07,2015-11-02,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,31.64,5500,34070,+19%,174020.0,-1.0,-17.0,-18.0,-44.0,AGIO
+384,D,2015-11-03 17:46:07,2015-11-02,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,77.12,-5500,34070,-14%,-424160.0,-1.0,-17.0,-18.0,-44.0,AGIO
+385,D,2015-10-30 10:52:54,2015-10-27,AGIO,Schenkein David P,CEO,M - OptEx,31.64,4000,311354,+1%,126560.0,-3.0,0.0,-14.0,-34.0,AGIO
+386,D,2015-10-30 10:52:54,2015-10-27,AGIO,Schenkein David P,CEO,S - Sale+OE,80.26,-4000,311354,-1%,-321040.0,-3.0,0.0,-14.0,-34.0,AGIO
+387,M,2015-10-27 09:14:55,2015-10-22,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,61.16,-9704,286004,-3%,-593497.0,25.0,20.0,-2.0,-21.0,AGIO
+388,D,2015-10-19 17:35:38,2015-10-15,AGIO,Higgons John Duncan,COO,M - OptEx,0.31,20000,81835,+32%,6244.0,-6.0,-9.0,-13.0,-27.0,AGIO
+389,D,2015-10-19 17:35:38,2015-10-15,AGIO,Higgons John Duncan,COO,S - Sale+OE,71.04,-20000,81835,-20%,-1420800.0,-6.0,-9.0,-13.0,-27.0,AGIO
+390,,2015-10-09 16:06:54,2015-10-07,AGIO,Higgons John Duncan,COO,G - Gift,0.0,-70000,81835,-46%,-0.0,2.0,6.0,5.0,-38.0,AGIO
+391,D,2015-10-02 16:11:12,2015-09-30,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,10000,151835,+7%,3025.0,-5.0,-8.0,-4.0,-44.0,AGIO
+392,D,2015-10-02 16:05:53,2015-09-30,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,31.64,5500,34070,+19%,174020.0,-5.0,-8.0,-4.0,-44.0,AGIO
+393,D,2015-10-02 16:05:53,2015-09-30,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,70.44,-5500,34070,-14%,-387420.0,-5.0,-8.0,-4.0,-44.0,AGIO
+394,D,2015-09-28 17:15:25,2015-09-24,AGIO,Goddard Glenn,"SVP, Finance",F - Tax,88.89,-4856,0,-100%,-431650.0,-7.0,3.0,-11.0,-45.0,AGIO
+395,D,2015-09-28 17:15:25,2015-09-24,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,1.82,10856,0,-100%,19774.0,-7.0,3.0,-11.0,-45.0,AGIO
+396,D,2015-09-28 17:15:25,2015-09-24,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,85.97,-6000,0,-100%,-515820.0,-7.0,3.0,-11.0,-45.0,AGIO
+397,M,2015-09-28 17:13:48,2015-09-24,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,83.25,-9704,295708,-3%,-807882.0,-7.0,3.0,-11.0,-45.0,AGIO
+398,D,2015-09-17 18:39:32,2015-09-15,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,20000,141835,+16%,6050.0,1.0,-9.0,-22.0,-67.0,AGIO
+399,D,2015-09-17 18:39:32,2015-09-15,AGIO,Higgons John Duncan,COO,S - Sale+OE,91.11,-20000,141835,-12%,-1822200.0,1.0,-9.0,-22.0,-67.0,AGIO
+400,D,2015-08-21 16:56:48,2015-08-20,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,10000,141835,+8%,3025.0,-5.0,5.0,6.0,-56.0,AGIO
+401,D,2015-08-19 16:11:22,2015-08-17,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,20000,131835,+18%,6050.0,-10.0,-12.0,3.0,-59.0,AGIO
+402,D,2015-08-19 16:11:22,2015-08-17,AGIO,Higgons John Duncan,COO,S - Sale+OE,92.24,-20000,131835,-13%,-1844800.0,-10.0,-12.0,3.0,-59.0,AGIO
+403,M,2015-08-19 16:09:03,2015-08-17,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,94.94,-9704,305412,-3%,-921322.0,-10.0,-12.0,3.0,-59.0,AGIO
+404,D,2015-08-12 17:02:42,2015-08-10,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,31.64,5500,34070,+19%,174020.0,-3.0,-1.0,-7.0,-64.0,AGIO
+405,D,2015-08-12 17:02:42,2015-08-10,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,100.0,-5500,34070,-14%,-550000.0,-3.0,-1.0,-7.0,-64.0,AGIO
+406,D,2015-08-10 17:19:53,2015-08-06,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,10000,131835,+8%,3025.0,-6.0,-9.0,-11.0,-65.0,AGIO
+407,D,2015-08-05 17:11:17,2015-08-03,AGIO,Schenkein David P,CEO,M - OptEx,28.89,8000,311354,+3%,231152.0,-11.0,-17.0,-22.0,-68.0,AGIO
+408,D,2015-08-05 17:11:17,2015-08-03,AGIO,Schenkein David P,CEO,S - Sale+OE,110.6,-8000,311354,-3%,-884800.0,-11.0,-17.0,-22.0,-68.0,AGIO
+409,D,2015-07-27 17:36:41,2015-07-23,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,30.03,7000,0,-100%,210216.0,3.0,1.0,-24.0,-47.0,AGIO
+410,D,2015-07-27 17:36:41,2015-07-23,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,120.45,-7000,0,-100%,-843150.0,3.0,1.0,-24.0,-47.0,AGIO
+411,D,2015-07-22 18:30:55,2015-07-20,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,31.64,5500,34070,+19%,174020.0,1.0,-5.0,-21.0,-59.0,AGIO
+412,D,2015-07-22 18:30:55,2015-07-20,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,113.87,-5500,34070,-14%,-626285.0,1.0,-5.0,-21.0,-59.0,AGIO
+413,D,2015-07-21 18:41:44,2015-07-17,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,5.89,13000,0,-100%,76603.0,3.0,-5.0,-16.0,-59.0,AGIO
+414,D,2015-07-21 18:41:44,2015-07-17,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,113.71,-13000,0,-100%,-1478230.0,3.0,-5.0,-16.0,-59.0,AGIO
+415,M,2015-07-17 17:01:07,2015-07-15,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,114.28,-9704,315116,-3%,-1108925.0,0.0,3.0,-21.0,-57.0,AGIO
+416,D,2015-07-17 16:46:15,2015-07-16,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,20000,121835,+20%,6050.0,0.0,3.0,-21.0,-57.0,AGIO
+417,D,2015-07-17 16:46:15,2015-07-16,AGIO,Higgons John Duncan,COO,S - Sale+OE,114.02,-20000,121835,-14%,-2280400.0,0.0,3.0,-21.0,-57.0,AGIO
+418,M,2015-07-08 16:04:17,2015-04-08,AGIO,Biller Scott,Chief Scientific Officer,S - Sale,96.98,-11000,34070,-24%,-1066780.0,1.0,5.0,5.0,-37.0,AGIO
+419,D,2015-06-30 17:48:34,2015-06-26,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,7500,45070,+20%,3506.0,-3.0,1.0,-1.0,-46.0,AGIO
+420,DM,2015-06-25 18:22:48,2015-06-24,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale+OE,105.13,-9704,324820,-3%,-1020157.0,0.0,2.0,7.0,-43.0,AGIO
+421,,2015-06-17 18:30:08,2015-06-15,AGIO,Maraganore John,Dir,G - Gift,0.0,-410,49764,-1%,-0.0,-3.0,1.0,12.0,-52.0,AGIO
+422,D,2015-06-17 18:28:08,2015-06-16,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,300,37570,+1%,140.0,-3.0,1.0,12.0,-52.0,AGIO
+423,,2015-06-16 17:23:31,2015-06-15,AGIO,Higgons John Duncan,COO,S - Sale,105.23,-7000,121835,-5%,-736610.0,0.0,3.0,11.0,-47.0,AGIO
+424,DM,2015-06-12 16:53:04,2015-06-10,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,30000,128835,+30%,9075.0,-5.0,-8.0,1.0,-47.0,AGIO
+425,,2015-06-09 17:20:44,2015-06-08,AGIO,Biller Scott,Chief Scientific Officer,S - Sale,121.85,-5500,37270,-13%,-670175.0,2.0,-12.0,-11.0,-47.0,AGIO
+426,,2015-06-02 18:19:53,2015-06-01,AGIO,Schenkein David P,CEO,S - Sale,120.67,-13000,232272,-5%,-1568710.0,-1.0,-2.0,-10.0,-45.0,AGIO
+427,D,2015-06-02 18:19:08,2015-06-01,AGIO,Bowden Christopher,Chief Medical Officer,M - OptEx,35.16,5000,0,-100%,175800.0,-1.0,-2.0,-10.0,-45.0,AGIO
+428,D,2015-06-02 18:19:08,2015-06-01,AGIO,Bowden Christopher,Chief Medical Officer,S - Sale+OE,120.67,-5000,0,-100%,-603350.0,-1.0,-2.0,-10.0,-45.0,AGIO
+429,,2015-05-28 17:34:09,2015-03-12,AGIO,Schenkein David P,CEO,G - Gift,0.0,-190,324354,0%,-0.0,-2.0,-1.0,-15.0,-49.0,AGIO
+430,,2015-05-28 17:34:09,2015-05-27,AGIO,Schenkein David P,CEO,S - Sale,120.05,-8929,324354,-3%,-1071926.0,-2.0,-1.0,-15.0,-49.0,AGIO
+431,D,2015-05-28 17:30:52,2015-05-27,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,23.1,2171,0,-100%,50150.0,-2.0,-1.0,-15.0,-49.0,AGIO
+432,D,2015-05-28 17:30:52,2015-05-27,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,120.05,-2171,0,-100%,-260629.0,-2.0,-1.0,-15.0,-49.0,AGIO
+433,M,2015-05-21 17:12:45,2015-05-19,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,116.64,-9704,334524,-3%,-1131850.0,3.0,8.0,-13.0,-47.0,AGIO
+434,,2015-05-18 19:06:59,2015-05-15,AGIO,Higgons John Duncan,COO,S - Sale,112.89,-7417,98835,-7%,-837305.0,1.0,2.0,-11.0,-46.0,AGIO
+435,M,2015-05-13 16:39:05,2015-05-11,AGIO,Schenkein David P,CEO,S - Sale,110.02,-5200,333473,-2%,-572094.0,0.0,3.0,8.0,-43.0,AGIO
+436,D,2015-05-11 17:14:35,2015-05-07,AGIO,Schenkein David P,CEO,M - OptEx,0.3,10000,99901,+11%,3025.0,3.0,4.0,10.0,-31.0,AGIO
+437,D,2015-05-11 17:14:35,2015-05-08,AGIO,Schenkein David P,CEO,S - Sale+OE,101.32,-3900,99901,-4%,-395148.0,3.0,4.0,10.0,-31.0,AGIO
+438,,2015-05-05 16:54:11,2015-05-01,AGIO,Schenkein David P,CEO,S - Sale,93.63,-3900,332573,-1%,-365157.0,2.0,14.0,29.0,-23.0,AGIO
+439,,2015-04-30 17:40:45,2015-04-28,AGIO,Maraganore John,Dir,G - Gift,0.0,-515,50174,-1%,-0.0,4.0,4.0,30.0,-11.0,AGIO
+440,M,2015-04-27 17:43:30,2015-04-23,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,105.15,-9704,344228,-3%,-1020351.0,-3.0,-6.0,16.0,-38.0,AGIO
+441,,2015-04-17 17:26:59,2015-04-15,AGIO,Higgons John Duncan,COO,S - Sale,99.54,-6583,106252,-6%,-655272.0,-1.0,-4.0,5.0,-34.0,AGIO
+442,,2015-04-15 17:04:58,2015-04-13,AGIO,Schenkein David P,CEO,S - Sale,100.03,-3900,101201,-4%,-390117.0,8.0,9.0,15.0,-25.0,AGIO
+443,,2015-04-03 17:37:38,2015-04-01,AGIO,Schenkein David P,CEO,S - Sale,92.54,-3900,340373,-1%,-360906.0,0.0,4.0,2.0,-21.0,AGIO
+444,M,2015-03-30 17:59:58,2015-03-26,AGIO,Cantley Lewis Clayton Jr.,Dir,S - Sale,93.58,-9704,353932,-3%,-908125.0,-5.0,-5.0,0.0,-19.0,AGIO
+445,,2015-03-18 17:18:08,2015-03-16,AGIO,Higgons John Duncan,COO,S - Sale,106.24,-7000,112835,-6%,-743680.0,5.0,-4.0,1.0,-13.0,AGIO
+446,D,2015-03-18 17:17:07,2015-03-16,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,27.26,10000,0,-100%,272624.0,5.0,-4.0,1.0,-13.0,AGIO
+447,D,2015-03-18 17:17:07,2015-03-16,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,106.24,-10000,0,-100%,-1062400.0,5.0,-4.0,1.0,-13.0,AGIO
+448,D,2015-03-18 17:15:47,2015-03-16,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,5500,42770,+15%,2571.0,5.0,-4.0,1.0,-13.0,AGIO
+449,D,2015-03-18 17:15:47,2015-03-16,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,106.81,-5500,42770,-11%,-587455.0,5.0,-4.0,1.0,-13.0,AGIO
+450,,2015-03-09 18:41:21,2015-03-05,AGIO,Schenkein David P,CEO,S - Sale,110.16,-2600,344273,-1%,-286416.0,1.0,3.0,-9.0,-19.0,AGIO
+451,D,2015-03-03 17:22:54,2015-02-27,AGIO,Biller Scott,Chief Scientific Officer,A - Grant,39.35,270,42770,+1%,10625.0,1.0,-2.0,-11.0,-14.0,AGIO
+452,D,2015-03-03 17:18:26,2015-02-27,AGIO,Schenkein David P,CEO,M - OptEx,0.3,25000,105101,+31%,7563.0,1.0,-2.0,-11.0,-14.0,AGIO
+453,D,2015-03-03 17:18:26,2015-03-02,AGIO,Schenkein David P,CEO,S - Sale+OE,107.05,-7800,105101,-7%,-834990.0,1.0,-2.0,-11.0,-14.0,AGIO
+454,D,2015-02-17 17:20:36,2015-02-13,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,23.1,1316,0,-100%,30400.0,2.0,-2.0,-1.0,-15.0,AGIO
+455,D,2015-02-17 17:20:36,2015-02-13,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,120.31,-1316,0,-100%,-158328.0,2.0,-2.0,-1.0,-15.0,AGIO
+456,M,2015-02-13 17:39:31,2015-02-11,AGIO,Schenkein David P,CEO,S - Sale,120.22,-1471,106401,-1%,-176842.0,-9.0,-10.0,-10.0,-22.0,AGIO
+457,DM,2015-02-11 18:22:06,2015-02-09,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,22.18,16513,0,-100%,366187.0,2.0,-5.0,-7.0,-19.0,AGIO
+458,DM,2015-02-11 18:22:06,2015-02-09,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,107.12,-16513,0,-100%,-1768922.0,2.0,-5.0,-7.0,-19.0,AGIO
+459,,2015-02-03 18:34:09,2015-02-02,AGIO,Schenkein David P,CEO,S - Sale,114.31,-10400,107872,-9%,-1188824.0,-1.0,-2.0,-1.0,2.0,AGIO
+460,D,2015-01-06 17:36:00,2015-01-02,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,4500,42500,+12%,2104.0,7.0,18.0,-4.0,1.0,AGIO
+461,D,2015-01-06 17:36:00,2015-01-02,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,110.08,-4500,42500,-10%,-495360.0,7.0,18.0,-4.0,1.0,AGIO
+462,,2015-01-06 17:26:29,2015-01-02,AGIO,Schenkein David P,CEO,S - Sale,110.08,-13000,111772,-10%,-1431040.0,7.0,18.0,-4.0,1.0,AGIO
+463,,2015-01-06 17:23:47,2015-01-02,AGIO,Higgons John Duncan,COO,S - Sale,110.08,-12000,119835,-9%,-1320960.0,7.0,18.0,-4.0,1.0,AGIO
+464,,2015-01-06 17:22:51,2015-01-02,AGIO,Higgons John Duncan,COO,S - Sale,110.08,-12000,119835,-9%,-1320960.0,7.0,18.0,-4.0,1.0,AGIO
+465,,2014-12-18 17:42:34,2014-12-16,AGIO,Maraganore John,Dir,P - Purchase,110.75,1806,50689,+4%,200015.0,0.0,-9.0,10.0,-17.0,AGIO
+466,,2014-12-17 17:48:39,2014-12-15,AGIO,Cantley Lewis Clayton Jr.,Dir,G - Gift,0.0,-363636,363636,New,-0.0,3.0,-8.0,15.0,-15.0,AGIO
+467,,2014-12-17 16:04:47,2014-12-16,AGIO,Celgene European Investment Co LLC,10%,P - Purchase,110.75,228645,5242704,+5%,25322434.0,3.0,-8.0,15.0,-15.0,AGIO
+468,,2014-12-02 18:18:14,2014-12-01,AGIO,Schenkein David P,CEO,S - Sale,97.03,-13000,118272,-10%,-1261390.0,5.0,10.0,15.0,26.0,AGIO
+469,,2014-12-02 18:16:35,2014-12-01,AGIO,Higgons John Duncan,COO,S - Sale,97.03,-12000,131835,-8%,-1164360.0,5.0,10.0,15.0,26.0,AGIO
+470,D,2014-12-02 18:15:28,2014-12-01,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,4500,42500,+12%,2104.0,5.0,10.0,15.0,26.0,AGIO
+471,D,2014-12-02 18:15:28,2014-12-01,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,97.03,-4500,42500,-10%,-436635.0,5.0,10.0,15.0,26.0,AGIO
+472,D,2014-11-24 17:47:38,2014-11-20,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,7500,42500,+21%,3506.0,1.0,0.0,11.0,28.0,AGIO
+473,,2014-11-04 18:18:35,2014-11-03,AGIO,Schenkein David P,CEO,S - Sale,81.71,-13000,124772,-9%,-1062230.0,-1.0,-1.0,24.0,16.0,AGIO
+474,D,2014-11-04 18:17:24,2014-11-03,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,8.1,2000,0,-100%,16193.0,-1.0,-1.0,24.0,16.0,AGIO
+475,D,2014-11-04 18:17:24,2014-11-03,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,81.71,-2000,0,-100%,-163420.0,-1.0,-1.0,24.0,16.0,AGIO
+476,,2014-11-04 18:16:07,2014-11-03,AGIO,Higgons John Duncan,COO,S - Sale,81.71,-13000,143835,-8%,-1062230.0,-1.0,-1.0,24.0,16.0,AGIO
+477,D,2014-11-04 18:14:11,2014-11-03,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,4500,35000,+15%,2104.0,-1.0,-1.0,24.0,16.0,AGIO
+478,D,2014-11-04 18:14:11,2014-11-03,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,81.71,-4500,35000,-11%,-367695.0,-1.0,-1.0,24.0,16.0,AGIO
+479,D,2014-10-03 17:06:54,2014-10-01,AGIO,Schenkein David P,CEO,M - OptEx,0.3,2500,131272,+2%,756.0,-3.0,-2.0,32.0,48.0,AGIO
+480,D,2014-10-03 17:06:54,2014-10-01,AGIO,Schenkein David P,CEO,S - Sale+OE,60.07,-13000,131272,-9%,-780910.0,-3.0,-2.0,32.0,48.0,AGIO
+481,,2014-10-03 17:05:56,2014-10-01,AGIO,Higgons John Duncan,COO,S - Sale,60.07,-13000,156835,-8%,-780910.0,-3.0,-2.0,32.0,48.0,AGIO
+482,D,2014-10-03 17:04:54,2014-10-01,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,4500,35000,+15%,2104.0,-3.0,-2.0,32.0,48.0,AGIO
+483,D,2014-10-03 17:04:54,2014-10-01,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,60.07,-4500,35000,-11%,-270315.0,-3.0,-2.0,32.0,48.0,AGIO
+484,D,2014-10-03 17:03:44,2014-10-01,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,9.05,1500,0,-100%,13575.0,-3.0,-2.0,32.0,48.0,AGIO
+485,D,2014-10-03 17:03:44,2014-10-01,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,60.07,-1500,0,-100%,-90105.0,-3.0,-2.0,32.0,48.0,AGIO
+486,D,2014-09-29 17:51:56,2014-09-26,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,5.21,17500,0,-100%,91222.0,-8.0,-5.0,22.0,51.0,AGIO
+487,D,2014-09-29 17:51:56,2014-09-26,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,56.53,-17500,0,-100%,-989275.0,-8.0,-5.0,22.0,51.0,AGIO
+488,D,2014-09-29 17:47:58,2014-09-26,AGIO,Schenkein David P,CEO,M - OptEx,0.3,30000,137772,+28%,9075.0,-8.0,-5.0,22.0,51.0,AGIO
+489,D,2014-09-29 17:47:58,2014-09-26,AGIO,Schenkein David P,CEO,S - Sale+OE,62.68,-60000,137772,-30%,-3760800.0,-8.0,-5.0,22.0,51.0,AGIO
+490,D,2014-09-22 17:49:28,2014-09-19,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,37996,35000,-1268%,17763.0,1.0,34.0,43.0,112.0,AGIO
+491,D,2014-09-22 17:49:28,2014-09-19,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,50.45,-37996,35000,-52%,-1916898.0,1.0,34.0,43.0,112.0,AGIO
+492,DM,2014-09-03 18:18:39,2014-08-07,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,9500,35000,+37%,4441.0,-2.0,-1.0,36.0,133.0,AGIO
+493,D,2014-09-03 18:18:39,2014-09-02,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,46.3,-4500,35000,-11%,-208350.0,-2.0,-1.0,36.0,133.0,AGIO
+494,D,2014-09-03 18:17:57,2014-09-02,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,2.26,10000,0,-100%,22648.0,-2.0,-1.0,36.0,133.0,AGIO
+495,D,2014-09-03 18:17:57,2014-09-02,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,46.3,-10000,0,-100%,-463000.0,-2.0,-1.0,36.0,133.0,AGIO
+496,D,2014-09-03 18:17:03,2014-09-02,AGIO,Schenkein David P,CEO,M - OptEx,0.3,6500,167772,+4%,1966.0,-2.0,-1.0,36.0,133.0,AGIO
+497,D,2014-09-03 18:17:03,2014-09-02,AGIO,Schenkein David P,CEO,S - Sale+OE,46.3,-13000,167772,-7%,-601900.0,-2.0,-1.0,36.0,133.0,AGIO
+498,D,2014-09-03 18:16:17,2014-09-02,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,6745,169835,+4%,2040.0,-2.0,-1.0,36.0,133.0,AGIO
+499,D,2014-09-03 18:16:17,2014-09-02,AGIO,Higgons John Duncan,COO,S - Sale+OE,46.3,-13000,169835,-7%,-601900.0,-2.0,-1.0,36.0,133.0,AGIO
+500,D,2014-08-28 17:00:17,2014-08-26,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,5000,176090,+3%,1513.0,3.0,0.0,41.0,137.0,AGIO
+501,D,2014-08-28 17:00:17,2014-08-26,AGIO,Higgons John Duncan,COO,S - Sale+OE,45.05,-5000,176090,-3%,-225250.0,3.0,0.0,41.0,137.0,AGIO
+502,,2014-08-12 18:07:55,2014-08-11,AGIO,Schenkein David P,CEO,S - Sale,40.17,-4530,174272,-3%,-181970.0,8.0,10.0,21.0,194.0,AGIO
+503,,2014-08-05 19:06:18,2014-08-01,AGIO,Schenkein David P,CEO,S - Sale,39.17,-8470,176537,-5%,-331770.0,-2.0,5.0,19.0,182.0,AGIO
+504,D,2014-08-05 19:03:56,2014-08-01,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,7000,176090,+4%,2118.0,-2.0,5.0,19.0,182.0,AGIO
+505,D,2014-08-05 19:03:56,2014-08-01,AGIO,Higgons John Duncan,COO,S - Sale+OE,39.09,-7000,176090,-4%,-273630.0,-2.0,5.0,19.0,182.0,AGIO
+506,D,2014-08-05 19:01:53,2014-08-01,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,4500,30000,+18%,2104.0,-2.0,5.0,19.0,182.0,AGIO
+507,D,2014-08-05 19:01:53,2014-08-01,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,39.09,-4500,30000,-13%,-175905.0,-2.0,5.0,19.0,182.0,AGIO
+508,,2014-07-02 19:12:02,2014-07-01,AGIO,Schenkein David P,CEO,S - Sale,46.52,-13000,180772,-7%,-604760.0,-1.0,-12.0,-10.0,148.0,AGIO
+509,D,2014-07-02 19:07:23,2014-07-01,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,1.11,3500,0,-100%,3893.0,-1.0,-12.0,-10.0,148.0,AGIO
+510,D,2014-07-02 19:07:23,2014-07-01,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,46.52,-3500,0,-100%,-162820.0,-1.0,-12.0,-10.0,148.0,AGIO
+511,,2014-07-02 19:06:31,2014-07-01,AGIO,Higgons John Duncan,COO,S - Sale,46.52,-12000,176090,-6%,-558240.0,-1.0,-12.0,-10.0,148.0,AGIO
+512,D,2014-07-02 19:05:17,2014-07-01,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,4500,30000,+18%,2104.0,-1.0,-12.0,-10.0,148.0,AGIO
+513,D,2014-07-02 19:05:17,2014-07-01,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,46.52,-4500,30000,-13%,-209340.0,-1.0,-12.0,-10.0,148.0,AGIO
+514,,2014-06-24 08:20:55,2014-06-23,AGIO,Maraganore John,Dir,P - Purchase,43.98,2300,48883,+5%,101154.0,0.0,4.0,-11.0,172.0,AGIO
+515,D,2014-06-23 17:40:25,2014-06-20,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,2004,30000,+7%,937.0,0.0,4.0,-14.0,153.0,AGIO
+516,D,2014-06-23 17:40:25,2014-06-20,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,50.05,-2004,30000,-6%,-100300.0,0.0,4.0,-14.0,153.0,AGIO
+517,,2014-06-16 18:01:55,2014-06-13,AGIO,Higgons John Duncan,COO,S - Sale,45.27,-5000,188090,-3%,-226350.0,0.0,5.0,-20.0,151.0,AGIO
+518,M,2014-06-04 18:44:19,2014-06-02,AGIO,Higgons John Duncan,COO,S - Sale,34.47,-7000,193090,-3%,-241308.0,6.0,15.0,17.0,157.0,AGIO
+519,D,2014-06-04 18:39:28,2014-06-02,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,4500,30000,+18%,2104.0,6.0,15.0,17.0,157.0,AGIO
+520,D,2014-06-04 18:39:28,2014-06-02,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,33.76,-4500,30000,-13%,-151920.0,6.0,15.0,17.0,157.0,AGIO
+521,,2014-05-07 18:33:25,2014-05-06,AGIO,Higgons John Duncan,COO,S - Sale,45.73,-5000,200090,-2%,-228650.0,-10.0,-19.0,0.0,100.0,AGIO
+522,D,2014-05-05 17:17:53,2014-05-01,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,1.27,2000,0,-100%,2532.0,-3.0,-17.0,-16.0,94.0,AGIO
+523,D,2014-05-05 17:17:53,2014-05-01,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,42.39,-2000,0,-100%,-84780.0,-3.0,-17.0,-16.0,94.0,AGIO
+524,D,2014-05-05 17:16:56,2014-05-01,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,3000,205090,+1%,908.0,-3.0,-17.0,-16.0,94.0,AGIO
+525,D,2014-05-05 17:16:56,2014-05-01,AGIO,Higgons John Duncan,COO,S - Sale+OE,42.39,-7000,205090,-3%,-296730.0,-3.0,-17.0,-16.0,94.0,AGIO
+526,D,2014-05-05 17:16:13,2014-05-01,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,4500,30000,+18%,2104.0,-3.0,-17.0,-16.0,94.0,AGIO
+527,D,2014-05-05 17:16:13,2014-05-01,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,42.39,-4500,30000,-13%,-190755.0,-3.0,-17.0,-16.0,94.0,AGIO
+528,,2014-04-30 18:11:52,2014-04-29,AGIO,Maraganore John,Dir,P - Purchase,44.0,2250,46583,+5%,99000.0,4.0,1.0,-16.0,93.0,AGIO
+529,,2014-04-30 16:01:17,2014-04-29,AGIO,Celgene European Investment Co LLC,10%,P - Purchase,44.0,294800,5014059,+6%,12971200.0,4.0,1.0,-16.0,93.0,AGIO
+530,D,2014-04-08 19:35:32,2014-04-07,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,3000,209090,+1%,908.0,3.0,-7.0,-14.0,32.0,AGIO
+531,D,2014-04-08 19:35:32,2014-04-07,AGIO,Higgons John Duncan,COO,S - Sale+OE,45.17,-3000,209090,-1%,-135510.0,3.0,-7.0,-14.0,32.0,AGIO
+532,D,2014-04-08 19:32:01,2014-04-07,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,1.16,2000,0,-100%,2315.0,3.0,-7.0,-14.0,32.0,AGIO
+533,D,2014-04-08 19:32:01,2014-04-07,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,45.17,-2000,0,-100%,-90340.0,3.0,-7.0,-14.0,32.0,AGIO
+534,D,2014-04-03 17:47:31,2014-04-01,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,0.64,4000,0,-100%,2542.0,1.0,36.0,22.0,74.0,AGIO
+535,D,2014-04-03 17:47:31,2014-04-01,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,38.08,-4000,0,-100%,-152320.0,1.0,36.0,22.0,74.0,AGIO
+536,D,2014-04-03 17:46:32,2014-04-01,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,12000,209090,+6%,3630.0,1.0,36.0,22.0,74.0,AGIO
+537,D,2014-04-03 17:46:32,2014-04-01,AGIO,Higgons John Duncan,COO,S - Sale+OE,38.08,-12000,209090,-5%,-456960.0,1.0,36.0,22.0,74.0,AGIO
+538,D,2014-04-03 17:44:19,2014-04-01,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,34500,30000,-767%,16129.0,1.0,36.0,22.0,74.0,AGIO
+539,D,2014-04-03 17:44:19,2014-04-01,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,38.08,-4500,30000,-13%,-171360.0,1.0,36.0,22.0,74.0,AGIO
+540,,2014-04-03 17:43:10,2013-07-24,AGIO,Tessier-Lavigne Marc,Dir,P - Purchase,18.0,55555,101009,+122%,999990.0,1.0,36.0,22.0,74.0,AGIO
+541,,2014-04-03 17:41:15,2013-07-24,AGIO,Maraganore John,Dir,P - Purchase,18.0,8333,44333,+23%,149994.0,1.0,36.0,22.0,74.0,AGIO
+542,D,2014-03-27 18:09:44,2014-03-25,AGIO,Schenkein David P,CEO,M - OptEx,0.3,25000,453544,+6%,7563.0,1.0,0.0,12.0,38.0,AGIO
+543,D,2014-03-20 18:06:39,2014-03-19,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,80000,209090,+62%,24200.0,-3.0,-21.0,-11.0,1.0,AGIO
+544,D,2014-03-12 18:19:57,2014-03-10,AGIO,Schenkein David P,CEO,M - OptEx,0.3,54000,428544,+14%,16335.0,1.0,0.0,12.0,4.0,AGIO
+545,D,2014-03-12 18:16:50,2014-03-10,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,20000,129090,+18%,6050.0,1.0,0.0,12.0,4.0,AGIO
+546,DM,2014-03-07 18:20:51,2014-03-06,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,0.5,17468,0,-100%,8680.0,3.0,-3.0,-25.0,-1.0,AGIO
+547,DM,2014-03-07 18:20:51,2014-03-06,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,42.11,-17468,0,-100%,-735533.0,3.0,-3.0,-25.0,-1.0,AGIO
+548,DM,2014-03-07 17:53:32,2014-03-06,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,14646,109090,+16%,4430.0,3.0,-3.0,-25.0,-1.0,AGIO
+549,DM,2014-03-07 17:53:32,2014-03-06,AGIO,Higgons John Duncan,COO,S - Sale+OE,41.41,-14646,109090,-12%,-606559.0,3.0,-3.0,-25.0,-1.0,AGIO
+550,D,2014-03-04 17:42:48,2014-03-03,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,8000,109090,+8%,2420.0,2.0,54.0,22.0,52.0,AGIO
+551,D,2014-03-04 17:42:48,2014-03-03,AGIO,Higgons John Duncan,COO,S - Sale+OE,29.85,-8000,109090,-7%,-238832.0,2.0,54.0,22.0,52.0,AGIO
+552,D,2014-03-04 17:40:44,2014-03-03,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,6000,0,-100%,2805.0,2.0,54.0,22.0,52.0,AGIO
+553,D,2014-03-04 17:40:44,2014-03-03,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,29.85,-6000,0,-100%,-179124.0,2.0,54.0,22.0,52.0,AGIO
+554,D,2014-02-20 18:46:57,2014-02-18,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,0.47,3532,0,-100%,1651.0,-2.0,-4.0,41.0,29.0,AGIO
+555,D,2014-02-20 18:46:57,2014-02-18,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,35.06,-3532,0,-100%,-123832.0,-2.0,-4.0,41.0,29.0,AGIO
+556,D,2014-02-20 17:58:44,2014-02-18,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,2354,109090,+2%,712.0,-2.0,-4.0,41.0,29.0,AGIO
+557,D,2014-02-20 17:58:44,2014-02-18,AGIO,Higgons John Duncan,COO,S - Sale+OE,35.06,-2354,109090,-2%,-82531.0,-2.0,-4.0,41.0,29.0,AGIO
+558,D,2014-02-11 18:09:49,2014-02-10,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,0.47,6000,0,-100%,2805.0,0.0,10.0,39.0,29.0,AGIO
+559,D,2014-02-11 18:09:49,2014-02-10,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,30.44,-6000,0,-100%,-182640.0,0.0,10.0,39.0,29.0,AGIO
+560,D,2014-02-04 20:56:55,2014-02-03,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,8000,109090,+8%,2420.0,-3.0,14.0,15.0,41.0,AGIO
+561,D,2014-02-04 20:56:55,2014-02-03,AGIO,Higgons John Duncan,COO,S - Sale+OE,25.97,-8000,109090,-7%,-207728.0,-3.0,14.0,15.0,41.0,AGIO
+562,D,2014-02-04 20:54:29,2014-02-03,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,6000,0,-100%,2805.0,-3.0,14.0,15.0,41.0,AGIO
+563,D,2014-02-04 20:54:29,2014-02-03,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,25.97,-6000,0,-100%,-155796.0,-3.0,14.0,15.0,41.0,AGIO
+564,D,2014-01-28 17:07:41,2014-01-27,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,0.47,7000,0,-100%,3273.0,-4.0,-7.0,12.0,37.0,AGIO
+565,D,2014-01-28 17:07:41,2014-01-27,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,26.29,-7000,0,-100%,-184051.0,-4.0,-7.0,12.0,37.0,AGIO
+566,D,2014-01-23 18:04:46,2014-01-21,AGIO,Biller Scott,Chief Scientific Officer,M - OptEx,0.47,6000,0,-100%,2805.0,-9.0,-13.0,3.0,28.0,AGIO
+567,D,2014-01-23 18:04:46,2014-01-21,AGIO,Biller Scott,Chief Scientific Officer,S - Sale+OE,34.71,-6000,0,-100%,-208265.0,-9.0,-13.0,3.0,28.0,AGIO
+568,D,2014-01-23 18:02:53,2014-01-21,AGIO,Higgons John Duncan,COO,M - OptEx,0.3,12000,109090,+12%,3630.0,-9.0,-13.0,3.0,28.0,AGIO
+569,D,2014-01-23 18:02:53,2014-01-21,AGIO,Higgons John Duncan,COO,S - Sale+OE,34.71,-12000,109090,-10%,-416530.0,-9.0,-13.0,3.0,28.0,AGIO
+570,D,2014-01-22 18:30:28,2014-01-21,AGIO,Goddard Glenn,"SVP, Finance",M - OptEx,0.47,10000,0,-100%,4675.0,4.0,-5.0,8.0,22.0,AGIO
+571,D,2014-01-22 18:30:28,2014-01-21,AGIO,Goddard Glenn,"SVP, Finance",S - Sale+OE,34.71,-10000,0,-100%,-347108.0,4.0,-5.0,8.0,22.0,AGIO
+572,D,2013-07-31 16:53:34,2013-07-29,AGIO,Third Rock Ventures LP,10%,C - Converted deriv,0.0,5018960,5564414,-47%,0.0,0.0,-1.0,-21.0,-7.0,AGIO
+573,D,2013-07-31 16:52:19,2013-07-29,AGIO,Starr Kevin P,Dir,C - Converted deriv,0.0,5018960,5564414,-47%,0.0,0.0,-1.0,-21.0,-7.0,AGIO
+574,D,2013-07-31 16:50:20,2013-07-29,AGIO,"Flagship Ventures Fund 2007, L.P.",10%,C - Converted deriv,0.0,3860738,3860738,-50%,0.0,0.0,-1.0,-21.0,-7.0,AGIO
+575,D,2013-07-31 16:40:13,2013-07-29,AGIO,Nelsen Robert,"Dir, 10%",C - Converted deriv,0.0,3860738,3860738,-50%,0.0,0.0,-1.0,-21.0,-7.0,AGIO
+576,D,2013-07-31 16:36:18,2013-07-29,AGIO,Arch Venture Fund VII LP,10%,C - Converted deriv,0.0,3860738,3860738,-50%,0.0,0.0,-1.0,-21.0,-7.0,AGIO
+577,D,2013-07-30 11:58:56,2013-07-29,AGIO,Celgene European Investment Co LLC,10%,C - Converted deriv,0.0,4010926,4719259,-46%,0.0,2.0,1.0,-21.0,-2.0,AGIO
+578,D,2013-07-30 11:58:56,2013-07-29,AGIO,Celgene European Investment Co LLC,10%,P - Purchase,18.0,708333,4719259,+18%,12749994.0,2.0,1.0,-21.0,-2.0,AGIO

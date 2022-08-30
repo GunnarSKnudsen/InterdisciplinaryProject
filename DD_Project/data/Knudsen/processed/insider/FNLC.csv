@@ -1,22 +1,404 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,M,2021-12-23 15:43:48,2021-12-22,FNLC,Swan Kimberly,Dir,P - Purchase,30.15,5000,7009,+249%,150748.0,,,,,FNLC
-1,,2021-07-28 12:46:12,2021-07-26,FNLC,Swan Kimberly,Dir,P - Purchase,29.18,350,1501,+30%,10213.0,,,,,FNLC
-2,,2020-06-04 11:53:29,2020-06-03,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",S - Sale,19.72,-654,27872,-2%,-12897.0,,,,,FNLC
-3,,2020-05-20 14:55:47,2020-05-20,FNLC,McKim Tony C,"Pres, CEO",P - Purchase,19.59,2000,98907,+2%,39180.0,,,,,FNLC
-4,,2020-05-14 10:57:38,2020-05-13,FNLC,Plummer Tammy L,"EVP, CIO",P - Purchase,18.53,250,13505,+2%,4633.0,,,,,FNLC
-5,,2020-05-13 15:47:04,2020-05-13,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",P - Purchase,18.98,3000,98746,+3%,56932.0,,,,,FNLC
-6,,2020-05-08 10:35:24,2020-05-07,FNLC,Rosborough Mark N,Dir,P - Purchase,19.87,1000,169337,+1%,19870.0,,,,,FNLC
-7,M,2020-05-06 15:41:26,2020-05-05,FNLC,Smith Stuart G,Dir,P - Purchase,19.76,1500,107387,+1%,29640.0,,,,,FNLC
-8,,2020-03-11 14:09:31,2020-03-10,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",P - Purchase,23.64,120,94830,0%,2837.0,,,,,FNLC
-9,,2020-02-28 15:45:17,2020-02-28,FNLC,Rosborough Mark N,Dir,P - Purchase,26.84,3000,168043,+2%,80532.0,,,,,FNLC
-10,,2019-12-16 16:37:00,2019-12-12,FNLC,Smith Stuart G,Dir,S - Sale,28.91,-500,106352,0%,-14455.0,,,,,FNLC
-11,M,2019-11-19 16:20:43,2019-11-15,FNLC,McKim Tony C,"Pres, CEO",S - Sale,28.24,-7216,91243,-7%,-203746.0,,,,,FNLC
-12,,2019-08-08 14:38:31,2019-08-06,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",P - Purchase,24.85,200,92865,0%,4970.0,,,,,FNLC
-13,,2019-08-08 14:38:31,2019-06-20,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",S - Sale,25.25,-4,92865,0%,-101.0,,,,,FNLC
-14,,2019-08-01 13:59:04,2019-07-30,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",S - Sale,26.04,-1053,26992,-4%,-27410.0,,,,,FNLC
-15,,2019-05-15 07:52:45,2019-05-13,FNLC,Boyd Katherine M,Dir,S - Sale,25.72,-1697,39710,-4%,-43643.0,,,,,FNLC
-16,A,2019-01-29 09:25:02,2019-01-24,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",S - Sale,22.29,-1502,26738,-5%,-33478.0,,,,,FNLC
-17,,2019-01-28 16:26:24,2019-01-24,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",S - Sale,25.46,-1516,26724,-5%,-38604.0,,,,,FNLC
-18,,2018-11-20 15:28:26,2018-11-19,FNLC,Rosborough Mark N,Dir,P - Purchase,27.0,341,161064,0%,9207.0,,,,,FNLC
-19,,2018-08-02 10:48:54,2018-08-02,FNLC,Norton Susan A,EVP - Chief Administrative Off,S - Sale,30.29,-3000,25260,-11%,-90868.0,,,,,FNLC
-20,,2018-07-27 14:31:26,2018-07-27,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",S - Sale,30.48,-1000,88094,-1%,-30479.0,,,,,FNLC
+0,,2022-02-07 15:58:29,2022-02-04,FNLC,Rosborough Mark N,Dir,A - Grant,0.0,250,175648,0%,0.0,,,,,FNLC
+1,,2022-02-07 10:49:51,2022-02-04,FNLC,Gregory Robert B,Dir,A - Grant,0.0,250,50590,0%,0.0,,,,,FNLC
+2,,2022-02-04 10:55:09,2022-02-04,FNLC,Tindal Bruce B,Dir,A - Grant,0.0,250,22308,+1%,0.0,,,,,FNLC
+3,,2022-02-04 10:48:17,2022-02-04,FNLC,Smith Stuart G,Dir,A - Grant,0.0,250,110596,0%,0.0,,,,,FNLC
+4,,2022-02-04 10:34:17,2022-02-04,FNLC,Swan Kimberly,Dir,A - Grant,0.0,250,7328,+4%,0.0,,,,,FNLC
+5,,2022-02-04 10:33:18,2022-02-04,FNLC,Kelly Renee W,Dir,A - Grant,0.0,250,7094,+4%,0.0,,,,,FNLC
+6,,2022-02-04 10:32:26,2022-02-04,FNLC,Ward F Stephen,Dir,A - Grant,0.0,250,43663,+1%,0.0,,,,,FNLC
+7,,2022-02-04 10:30:35,2022-02-04,FNLC,Russell Cornelius J,Dir,A - Grant,0.0,250,8486,+3%,0.0,,,,,FNLC
+8,,2022-02-03 11:33:37,2022-02-01,FNLC,Tolman Sarah,EVP - Chief Banking Officer,F - Tax,31.76,-346,10105,-3%,-10989.0,,,,,FNLC
+9,,2022-02-02 15:15:57,2022-02-01,FNLC,Nicholson Jonathan W,EVP - Chief Lending Officer,F - Tax,31.76,-364,10890,-3%,-11561.0,,,,,FNLC
+10,,2022-02-02 13:13:18,2022-02-01,FNLC,Elder Richard M,EVP - CFO,F - Tax,31.76,-374,21995,-2%,-11878.0,,,,,FNLC
+11,,2022-02-02 11:52:47,2022-02-01,FNLC,Plummer Tammy L,EVP - Chief Information Office,F - Tax,31.76,-332,16696,-2%,-10544.0,,,,,FNLC
+12,,2022-02-02 11:28:45,2022-02-01,FNLC,McKim Tony C,"Pres, CEO",F - Tax,31.76,-1475,111680,-1%,-46846.0,,,,,FNLC
+13,,2022-02-02 11:16:24,2022-02-01,FNLC,Norton Susan A,EVP - Chief Admin Officer,F - Tax,31.76,-387,30565,-1%,-12291.0,,,,,FNLC
+14,,2022-02-02 11:13:36,2022-02-01,FNLC,Nicholson Peter C,EVP - Chief Fiduciary Officer,F - Tax,31.76,-104,2138,-5%,-3303.0,,,,,FNLC
+15,,2022-01-31 16:18:45,2022-01-27,FNLC,McKim Tony C,"Pres, CEO",A - Grant,0.0,5597,113072,+5%,0.0,,,,,FNLC
+16,,2022-01-31 16:18:45,2022-01-28,FNLC,McKim Tony C,"Pres, CEO",F - Tax,32.17,-441,113072,0%,-14187.0,,,,,FNLC
+17,,2022-01-28 17:16:02,2022-01-27,FNLC,Nicholson Jonathan W,EVP - Chief Lending Officer,A - Grant,0.0,1346,11240,+14%,0.0,,,,,FNLC
+18,,2022-01-28 17:16:02,2022-01-26,FNLC,Nicholson Jonathan W,EVP - Chief Lending Officer,F - Tax,32.7,-271,11240,-2%,-8862.0,,,,,FNLC
+19,,2022-01-28 14:48:04,2022-01-27,FNLC,Elder Richard M,CFO,A - Grant,0.0,1530,22306,+7%,0.0,,,,,FNLC
+20,,2022-01-28 14:48:04,2022-01-26,FNLC,Elder Richard M,CFO,F - Tax,32.7,-321,22306,-1%,-10497.0,,,,,FNLC
+21,,2022-01-28 14:26:30,2022-01-27,FNLC,Nicholson Peter C,EVP - Chief Fiduciary Officer,A - Grant,0.0,808,2224,+57%,0.0,,,,,FNLC
+22,,2022-01-28 14:17:22,2022-01-27,FNLC,Tolman Sarah,EVP - Chief Banking Officer,A - Grant,0.0,1459,10427,+16%,0.0,,,,,FNLC
+23,,2022-01-28 14:17:22,2022-01-26,FNLC,Tolman Sarah,EVP - Chief Banking Officer,F - Tax,32.7,-291,10427,-3%,-9516.0,,,,,FNLC
+24,,2022-01-28 13:32:07,2022-01-27,FNLC,Plummer Tammy L,EVP - Chief Information Office,A - Grant,0.0,1285,16944,+8%,0.0,,,,,FNLC
+25,,2022-01-28 13:32:07,2022-01-26,FNLC,Plummer Tammy L,EVP - Chief Information Office,F - Tax,32.7,-251,16944,-1%,-8208.0,,,,,FNLC
+26,,2022-01-28 13:29:52,2022-01-27,FNLC,Norton Susan A,EVP - Chief Admin Officer,A - Grant,0.0,1637,30880,+6%,0.0,,,,,FNLC
+27,,2022-01-28 13:29:52,2022-01-26,FNLC,Norton Susan A,EVP - Chief Admin Officer,F - Tax,32.7,-376,30880,-1%,-12295.0,,,,,FNLC
+28,M,2021-12-23 15:43:48,2021-12-22,FNLC,Swan Kimberly,Dir,P - Purchase,30.15,5000,7009,+249%,150748.0,,,,,FNLC
+29,,2021-08-02 09:21:20,2021-07-30,FNLC,McKim Tony C,"Pres, CEO",F - Tax,29.06,-441,107732,0%,-12815.0,,,,,FNLC
+30,,2021-07-28 12:46:12,2021-07-26,FNLC,Swan Kimberly,Dir,P - Purchase,29.18,350,1501,+30%,10213.0,,,,,FNLC
+31,,2021-05-17 14:36:57,2021-05-17,FNLC,Tolman Sarah,EVP - CBO,F - Tax,29.53,-290,9180,-3%,-8564.0,,,,,FNLC
+32,,2021-05-17 14:35:01,2021-05-17,FNLC,Plummer Tammy L,EVP - CIO,F - Tax,29.53,-143,15712,-1%,-4223.0,,,,,FNLC
+33,,2021-05-17 14:05:40,2021-05-17,FNLC,Norton Susan A,EVP - CAO,F - Tax,29.53,-147,29424,0%,-4341.0,,,,,FNLC
+34,,2021-03-26 10:26:41,2021-03-26,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",F - Tax,28.7,-350,102348,0%,-10045.0,,,,,FNLC
+35,,2021-03-26 10:25:21,2021-03-26,FNLC,Wootton Charles A,EVP - Sr Loan Officer,F - Tax,28.7,-1256,27425,-4%,-36047.0,,,,,FNLC
+36,,2021-02-01 17:08:12,2021-02-01,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",F - Tax,24.22,-515,28576,-2%,-12473.0,,,,,FNLC
+37,,2021-02-01 12:29:25,2021-01-28,FNLC,Gregory Robert B,Dir,A - Grant,0.0,250,49847,+1%,0.0,,,,,FNLC
+38,,2021-02-01 12:28:19,2021-01-28,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,1673,28930,+6%,0.0,,,,,FNLC
+39,,2021-02-01 12:28:19,2021-01-29,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",F - Tax,24.2,-1138,28930,-4%,-27541.0,,,,,FNLC
+40,,2021-02-01 12:27:32,2021-01-28,FNLC,Norton Susan A,EVP - Chief Administrative Off,A - Grant,0.0,2050,29392,+7%,0.0,,,,,FNLC
+41,,2021-02-01 12:27:32,2021-01-29,FNLC,Norton Susan A,EVP - Chief Administrative Off,F - Tax,24.32,-586,29392,-2%,-14252.0,,,,,FNLC
+42,,2021-02-01 12:26:27,2021-01-28,FNLC,Smith Stuart G,Dir,A - Grant,0.0,250,108959,0%,0.0,,,,,FNLC
+43,,2021-02-01 12:25:45,2021-01-28,FNLC,Rosborough Mark N,Dir,A - Grant,0.0,250,173188,0%,0.0,,,,,FNLC
+44,,2021-02-01 12:24:39,2021-01-28,FNLC,Plummer Tammy L,"EVP, CIO",A - Grant,0.0,1517,15454,+11%,0.0,,,,,FNLC
+45,,2021-02-01 12:24:39,2021-01-29,FNLC,Plummer Tammy L,"EVP, CIO",F - Tax,24.32,-319,15454,-2%,-7758.0,,,,,FNLC
+46,,2021-02-01 12:23:54,2021-01-28,FNLC,Elder Richard M,EVP - CFO,A - Grant,0.0,1845,21202,+10%,0.0,,,,,FNLC
+47,,2021-02-01 12:23:54,2021-01-29,FNLC,Elder Richard M,EVP - CFO,F - Tax,24.32,-503,21202,-2%,-12233.0,,,,,FNLC
+48,,2021-02-01 12:22:46,2021-01-28,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",A - Grant,0.0,1230,100648,+1%,0.0,,,,,FNLC
+49,M,2021-02-01 12:22:46,2021-01-28,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",F - Tax,24.18,-671,100648,-1%,-16222.0,,,,,FNLC
+50,,2021-02-01 12:15:32,2021-01-28,FNLC,Tolman Sarah,"EVP, Branch Administration",A - Grant,0.0,1829,9332,+24%,0.0,,,,,FNLC
+51,,2021-02-01 12:15:32,2021-01-29,FNLC,Tolman Sarah,"EVP, Branch Administration",F - Tax,24.32,-445,9332,-5%,-10822.0,,,,,FNLC
+52,,2021-01-29 13:33:39,2021-01-28,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,250,43413,+1%,0.0,,,,,FNLC
+53,,2021-01-29 13:31:33,2021-01-28,FNLC,McKim Tony C,"Pres, CEO",A - Grant,0.0,8573,107995,+9%,0.0,,,,,FNLC
+54,,2021-01-29 13:29:53,2021-01-28,FNLC,Kelly Renee W,Dir,A - Grant,0.0,250,6267,+4%,0.0,,,,,FNLC
+55,,2021-01-29 13:28:31,2021-01-28,FNLC,Russell Cornelius J,Dir,A - Grant,0.0,250,7895,+3%,0.0,,,,,FNLC
+56,,2021-01-29 13:27:10,2021-01-28,FNLC,Tindal Bruce B,Dir,A - Grant,0.0,250,21897,+1%,0.0,,,,,FNLC
+57,,2021-01-05 16:23:56,2021-01-05,FNLC,McKim Tony C,"Pres, CEO",F - Tax,25.86,-1203,99422,-1%,-31110.0,,,,,FNLC
+58,,2020-07-31 14:23:12,2020-07-30,FNLC,McKim Tony C,"Pres, CEO",A - Grant,0.0,1500,100407,+2%,0.0,,,,,FNLC
+59,,2020-06-04 11:53:29,2020-06-03,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",S - Sale,19.72,-654,27872,-2%,-12897.0,,,,,FNLC
+60,,2020-05-20 14:55:47,2020-05-20,FNLC,McKim Tony C,"Pres, CEO",P - Purchase,19.59,2000,98907,+2%,39180.0,,,,,FNLC
+61,,2020-05-18 10:56:23,2020-05-15,FNLC,Tolman Sarah,"EVP, Branch Administration",A - Grant,0.0,1000,7846,+15%,0.0,,,,,FNLC
+62,,2020-05-15 12:00:07,2020-05-15,FNLC,Plummer Tammy L,"EVP, CIO",A - Grant,0.0,500,14005,+4%,0.0,,,,,FNLC
+63,,2020-05-15 11:08:23,2020-05-15,FNLC,Norton Susan A,EVP - Chief Administrative Off,A - Grant,0.0,500,27691,+2%,0.0,,,,,FNLC
+64,,2020-05-14 10:57:38,2020-05-13,FNLC,Plummer Tammy L,"EVP, CIO",P - Purchase,18.53,250,13505,+2%,4633.0,,,,,FNLC
+65,,2020-05-13 15:47:04,2020-05-13,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",P - Purchase,18.98,3000,98746,+3%,56932.0,,,,,FNLC
+66,,2020-05-08 10:35:24,2020-05-07,FNLC,Rosborough Mark N,Dir,P - Purchase,19.87,1000,169337,+1%,19870.0,,,,,FNLC
+67,M,2020-05-06 15:41:26,2020-05-05,FNLC,Smith Stuart G,Dir,P - Purchase,19.76,1500,107387,+1%,29640.0,,,,,FNLC
+68,,2020-03-11 14:09:31,2020-03-10,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",P - Purchase,23.64,120,94830,0%,2837.0,,,,,FNLC
+69,,2020-02-28 15:45:17,2020-02-28,FNLC,Rosborough Mark N,Dir,P - Purchase,26.84,3000,168043,+2%,80532.0,,,,,FNLC
+70,,2020-02-03 13:45:01,2020-02-03,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",F - Tax,28.28,-364,93191,0%,-10294.0,,,,,FNLC
+71,,2020-01-31 11:17:12,2020-01-29,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",A - Grant,0.0,966,93555,+1%,0.0,,,,,FNLC
+72,,2020-01-31 11:17:12,2020-01-30,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",F - Tax,29.14,-224,93555,0%,-6527.0,,,,,FNLC
+73,,2020-01-31 11:15:41,2020-01-29,FNLC,Elder Richard M,EVP - CFO,A - Grant,0.0,1078,20131,+6%,0.0,,,,,FNLC
+74,,2020-01-31 11:15:41,2020-01-30,FNLC,Elder Richard M,EVP - CFO,F - Tax,29.14,-353,20131,-2%,-10286.0,,,,,FNLC
+75,,2020-01-31 11:12:05,2020-01-29,FNLC,Plummer Tammy L,"EVP, CIO",A - Grant,0.0,890,12906,+7%,0.0,,,,,FNLC
+76,,2020-01-31 11:12:05,2020-01-30,FNLC,Plummer Tammy L,"EVP, CIO",F - Tax,29.14,-206,12906,-2%,-6003.0,,,,,FNLC
+77,,2020-01-31 11:10:00,2020-01-29,FNLC,Norton Susan A,EVP - Chief Administrative Off,A - Grant,0.0,1195,27025,+5%,0.0,,,,,FNLC
+78,,2020-01-31 11:10:00,2020-01-30,FNLC,Norton Susan A,EVP - Chief Administrative Off,F - Tax,29.14,-617,27025,-2%,-17979.0,,,,,FNLC
+79,,2020-01-31 11:03:52,2020-01-29,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,1343,28030,+5%,0.0,,,,,FNLC
+80,,2020-01-31 11:03:52,2020-01-30,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",F - Tax,29.14,-707,28030,-2%,-20602.0,,,,,FNLC
+81,,2020-01-30 10:10:36,2020-01-29,FNLC,Tolman Sarah,"EVP, Branch Administration",A - Grant,0.0,1068,6738,+19%,0.0,,,,,FNLC
+82,,2020-01-29 15:30:25,2020-01-29,FNLC,McKim Tony C,"Pres, CEO",A - Grant,0.0,5544,96787,+6%,0.0,,,,,FNLC
+83,,2020-01-27 09:05:55,2020-01-27,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",F - Tax,29.76,-261,92873,0%,-7767.0,,,,,FNLC
+84,,2020-01-07 09:11:25,2020-01-06,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",F - Tax,30.4,-323,93056,0%,-9819.0,,,,,FNLC
+85,,2019-12-16 16:37:00,2019-06-05,FNLC,Smith Stuart G,Dir,G - Gift,0.0,-2500,106352,-2%,-0.0,,,,,FNLC
+86,,2019-12-16 16:37:00,2019-12-12,FNLC,Smith Stuart G,Dir,S - Sale,28.91,-500,106352,0%,-14455.0,,,,,FNLC
+87,M,2019-11-19 16:20:43,2019-11-15,FNLC,McKim Tony C,"Pres, CEO",S - Sale,28.24,-7216,91243,-7%,-203746.0,,,,,FNLC
+88,,2019-11-13 09:48:47,2019-11-12,FNLC,McKim Tony C,"Pres, CEO",F - Tax,28.96,-2999,98459,-3%,-86851.0,,,,,FNLC
+89,,2019-08-08 14:38:31,2019-08-06,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",P - Purchase,24.85,200,92865,0%,4970.0,,,,,FNLC
+90,,2019-08-08 14:38:31,2019-06-20,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",S - Sale,25.25,-4,92865,0%,-101.0,,,,,FNLC
+91,,2019-08-01 13:59:04,2019-07-30,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",S - Sale,26.04,-1053,26992,-4%,-27410.0,,,,,FNLC
+92,,2019-05-15 07:52:45,2019-05-13,FNLC,Boyd Katherine M,Dir,S - Sale,25.72,-1697,39710,-4%,-43643.0,,,,,FNLC
+93,,2019-02-12 09:33:32,2019-02-11,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",F - Tax,26.52,-654,27750,-2%,-17344.0,,,,,FNLC
+94,,2019-02-11 16:52:11,2019-02-11,FNLC,McKim Tony C,"Pres, CEO",F - Tax,26.52,-633,101278,-1%,-16787.0,,,,,FNLC
+95,,2019-02-11 16:51:42,2019-02-11,FNLC,Plummer Tammy L,"EVP, CIO",F - Tax,26.52,-202,11791,-2%,-5357.0,,,,,FNLC
+96,,2019-02-11 16:51:06,2019-02-11,FNLC,Norton Susan A,EVP - Chief Administrative Off,F - Tax,26.52,-610,26182,-2%,-16177.0,,,,,FNLC
+97,,2019-02-11 16:50:36,2019-02-11,FNLC,Elder Richard M,EVP - CFO,F - Tax,26.52,-350,19110,-2%,-9282.0,,,,,FNLC
+98,,2019-02-11 16:49:41,2019-02-11,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",F - Tax,26.52,-221,90485,0%,-5861.0,,,,,FNLC
+99,,2019-02-04 13:30:09,2019-02-01,FNLC,McKim Tony C,"Pres, CEO",A - Grant,0.0,5025,101911,+5%,0.0,,,,,FNLC
+100,,2019-02-04 13:29:07,2019-02-01,FNLC,Plummer Tammy L,"EVP, CIO",A - Grant,0.0,957,11993,+9%,0.0,,,,,FNLC
+101,,2019-02-04 13:28:15,2019-02-01,FNLC,Norton Susan A,EVP - Chief Administrative Off,A - Grant,0.0,1305,26792,+5%,0.0,,,,,FNLC
+102,,2019-02-04 13:27:02,2019-02-01,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",A - Grant,0.0,1049,90706,+1%,0.0,,,,,FNLC
+103,,2019-02-04 13:25:54,2019-02-01,FNLC,Tolman Sarah,"EVP, Branch Administration",A - Grant,0.0,1055,5519,+24%,0.0,,,,,FNLC
+104,,2019-02-04 13:24:36,2019-02-01,FNLC,Elder Richard M,EVP - CFO,A - Grant,0.0,1160,19460,+6%,0.0,,,,,FNLC
+105,,2019-02-04 13:20:52,2019-02-01,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,1484,28232,+6%,0.0,,,,,FNLC
+106,A,2019-01-29 09:25:02,2019-01-24,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",S - Sale,22.29,-1502,26738,-5%,-33478.0,,,,,FNLC
+107,,2019-01-28 16:26:24,2019-01-24,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",S - Sale,25.46,-1516,26724,-5%,-38604.0,,,,,FNLC
+108,,2018-11-20 15:28:26,2018-10-04,FNLC,Rosborough Mark N,Dir,G - Gift,0.0,2195,161064,+1%,0.0,,,,,FNLC
+109,,2018-11-20 15:28:26,2018-11-19,FNLC,Rosborough Mark N,Dir,P - Purchase,27.0,341,161064,0%,9207.0,,,,,FNLC
+110,,2018-08-02 10:48:54,2018-08-02,FNLC,Norton Susan A,EVP - Chief Administrative Off,S - Sale,30.29,-3000,25260,-11%,-90868.0,,,,,FNLC
+111,,2018-07-27 14:31:26,2018-07-27,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",S - Sale,30.48,-1000,88094,-1%,-30479.0,,,,,FNLC
+112,,2018-04-02 11:43:20,2018-04-02,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",F - Tax,27.98,-423,43040,-1%,-11836.0,,,,,FNLC
+113,,2018-02-16 14:37:55,2018-02-15,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",F - Tax,27.29,-167,43463,0%,-4557.0,,,,,FNLC
+114,,2018-01-29 15:02:06,2018-01-29,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",F - Tax,27.87,-419,43510,-1%,-11678.0,,,,,FNLC
+115,,2018-01-24 18:40:41,2018-01-24,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",F - Tax,29.47,-210,87272,0%,-6189.0,,,,,FNLC
+116,,2018-01-24 18:39:12,2018-01-24,FNLC,McKim Tony C,"Pres, CEO",F - Tax,29.47,-1141,96627,-1%,-33625.0,,,,,FNLC
+117,,2018-01-24 17:00:15,2018-01-24,FNLC,Plummer Tammy L,"EVP, CIO",F - Tax,29.47,-177,10519,-2%,-5216.0,,,,,FNLC
+118,,2018-01-24 16:56:06,2018-01-24,FNLC,Norton Susan A,EVP - Chief Administrative Off,F - Tax,29.47,-1019,28130,-3%,-30030.0,,,,,FNLC
+119,,2018-01-24 16:55:08,2018-01-24,FNLC,Elder Richard M,EVP - Treasurer,F - Tax,29.47,-332,17940,-2%,-9784.0,,,,,FNLC
+120,,2018-01-24 16:54:09,2018-01-24,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",F - Tax,29.47,-1138,28511,-4%,-33537.0,,,,,FNLC
+121,,2018-01-23 15:49:01,2018-01-19,FNLC,Rosborough Mark N,Dir,P - Purchase,28.0,1066,156723,+1%,29848.0,,,,,FNLC
+122,,2018-01-08 13:18:34,2018-01-04,FNLC,Norton Susan A,EVP - Chief Administrative Off,A - Grant,0.0,1190,29148,+4%,0.0,,,,,FNLC
+123,,2018-01-08 13:18:34,2018-01-04,FNLC,Plummer Tammy L,"EVP, CIO",A - Grant,0.0,855,10694,+9%,0.0,,,,,FNLC
+124,,2018-01-08 13:18:28,2018-01-04,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,1440,43929,+3%,0.0,,,,,FNLC
+125,,2018-01-08 13:18:27,2018-01-04,FNLC,McKim Tony C,"Pres, CEO",A - Grant,0.0,3471,97768,+4%,0.0,,,,,FNLC
+126,,2018-01-08 13:18:26,2018-01-04,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",A - Grant,0.0,932,87469,+1%,0.0,,,,,FNLC
+127,,2018-01-08 13:18:25,2018-01-04,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,1362,29647,+5%,0.0,,,,,FNLC
+128,,2018-01-08 13:18:25,2018-01-04,FNLC,Elder Richard M,EVP - Treasurer,A - Grant,0.0,1015,18270,+6%,0.0,,,,,FNLC
+129,,2018-01-08 13:10:01,2018-01-04,FNLC,Tolman Sarah,"EVP, Branch Administration",A - Grant,0.0,923,4301,+27%,0.0,,,,,FNLC
+130,M,2017-10-23 15:31:45,2017-10-19,FNLC,Tindal Bruce B,Dir,S - Sale,30.57,-4000,20953,-16%,-122269.0,,,,,FNLC
+131,,2017-07-31 14:25:41,2017-07-31,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",P - Purchase,26.99,1260,85667,+1%,34007.0,,,,,FNLC
+132,,2017-06-06 14:30:40,2017-06-02,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",S - Sale,26.0,-1500,84270,-2%,-39000.0,,,,,FNLC
+133,,2017-05-25 15:24:10,2017-05-24,FNLC,Rosborough Mark N,Dir,P - Purchase,25.0,554,154165,0%,13850.0,,,,,FNLC
+134,,2017-03-03 14:05:32,2017-03-02,FNLC,Norton Susan A,EVP - Chief Administrative Off,F - Tax,27.73,-587,27768,-2%,-16278.0,1.0,0.0,1.0,,FNLC
+135,,2017-03-03 13:59:44,2017-03-02,FNLC,McKim Tony C,EVP - COO,F - Tax,27.73,-696,91218,-1%,-19300.0,1.0,0.0,1.0,,FNLC
+136,,2017-03-03 13:58:14,2017-01-26,FNLC,Elder Richard M,EVP - Treasurer,A - Grant,0.0,925,17141,+6%,0.0,1.0,0.0,1.0,,FNLC
+137,,2017-03-03 13:56:46,2017-03-02,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",F - Tax,27.73,-124,84995,0%,-3439.0,1.0,0.0,1.0,,FNLC
+138,,2017-03-03 13:45:10,2017-01-26,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,1243,29480,+4%,0.0,1.0,0.0,1.0,,FNLC
+139,,2017-02-23 13:53:10,2017-02-23,FNLC,Smith Stuart G,Dir,A - Grant,0.0,250,105519,0%,0.0,0.0,-1.0,-6.0,,FNLC
+140,,2017-02-23 13:52:29,2017-02-23,FNLC,Gregory Robert B,Dir,A - Grant,0.0,250,47940,+1%,0.0,0.0,-1.0,-6.0,,FNLC
+141,,2017-02-23 13:50:48,2017-02-23,FNLC,Kelly Renee W,Dir,A - Grant,0.0,250,2348,+12%,0.0,0.0,-1.0,-6.0,,FNLC
+142,,2017-02-23 13:47:46,2017-02-23,FNLC,Rosborough Mark N,Dir,A - Grant,0.0,250,152968,0%,0.0,0.0,-1.0,-6.0,,FNLC
+143,,2017-02-23 13:46:45,2017-02-23,FNLC,Boyd Katherine M,Dir,A - Grant,0.0,250,40912,+1%,0.0,0.0,-1.0,-6.0,,FNLC
+144,,2017-02-23 13:45:25,2017-02-23,FNLC,Soule David B Jr,Dir,A - Grant,0.0,250,28944,+1%,0.0,0.0,-1.0,-6.0,,FNLC
+145,,2017-02-23 13:44:07,2017-02-23,FNLC,Russell Cornelius J,Dir,A - Grant,0.0,250,4424,+6%,0.0,0.0,-1.0,-6.0,,FNLC
+146,,2017-02-23 13:43:12,2017-02-23,FNLC,Tindal Bruce B,Dir,A - Grant,0.0,250,24882,+1%,0.0,0.0,-1.0,-6.0,,FNLC
+147,,2017-02-14 16:17:48,2017-02-14,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,665,41965,+2%,0.0,0.0,0.0,0.0,,FNLC
+148,,2017-01-30 16:20:25,2017-01-26,FNLC,Tolman Sarah,"EVP, Branch Administration",A - Grant,0.0,839,3098,+37%,0.0,-1.0,3.0,0.0,,FNLC
+149,,2017-01-30 16:05:21,2017-01-26,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,1311,41302,+3%,0.0,-1.0,3.0,0.0,,FNLC
+150,,2017-01-30 16:05:21,2017-01-30,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",F - Tax,28.92,-668,41302,-2%,-19319.0,-1.0,3.0,0.0,,FNLC
+151,,2017-01-30 10:44:23,2017-01-26,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",A - Grant,0.0,752,84254,+1%,0.0,-6.0,-3.0,-6.0,,FNLC
+152,,2017-01-27 16:46:26,2017-01-26,FNLC,McKim Tony C,"Pres, CEO",A - Grant,0.0,2955,91885,+3%,0.0,-6.0,-7.0,-5.0,,FNLC
+153,,2017-01-27 16:45:37,2017-01-26,FNLC,Plummer Tammy L,"EVP, CIO",A - Grant,0.0,722,9416,+8%,0.0,-6.0,-7.0,-5.0,,FNLC
+154,,2017-01-27 16:44:51,2017-01-26,FNLC,Norton Susan A,EVP - Chief Administrative Off,A - Grant,0.0,1084,28267,+4%,0.0,-6.0,-7.0,-5.0,,FNLC
+155,,2017-01-27 16:43:44,2017-01-26,FNLC,Elder Richard M,EVP - Treasurer,A - Grant,0.0,925,17141,+6%,0.0,-6.0,-7.0,-5.0,,FNLC
+156,,2017-01-27 16:42:15,2017-01-26,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,1243,29480,+4%,0.0,-6.0,-7.0,-5.0,,FNLC
+157,,2016-11-08 07:48:58,2016-11-07,FNLC,Soule David B Jr,Dir,S - Sale,23.91,-2000,28300,-7%,-47821.0,-2.0,16.0,25.0,11.0,FNLC
+158,,2016-10-25 15:12:20,2016-10-25,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",S - Sale,24.0,-1000,83158,-1%,-24000.0,0.0,-1.0,22.0,19.0,FNLC
+159,,2016-08-30 12:54:46,2016-08-29,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,22.15,-1700,40388,-4%,-37655.0,1.0,3.0,9.0,27.0,FNLC
+160,,2016-08-09 13:18:26,2016-08-05,FNLC,Smith Stuart G,Dir,P - Purchase,21.84,500,104362,0%,10920.0,-1.0,-3.0,9.0,29.0,FNLC
+161,,2016-05-24 14:56:10,2016-05-24,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,20.28,-3000,29964,-9%,-60839.0,4.0,4.0,8.0,47.0,FNLC
+162,,2016-03-02 13:05:45,2016-03-02,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",D - Sale to issuer,19.06,-740,44943,-2%,-14104.0,0.0,-1.0,2.0,20.0,FNLC
+163,,2016-02-18 14:51:59,2016-02-18,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",D - Sale to issuer,18.86,-274,45683,-1%,-5168.0,0.0,-1.0,-1.0,13.0,FNLC
+164,,2016-02-18 14:50:00,2016-02-18,FNLC,McKim Tony C,"Pres, CEO",D - Sale to issuer,18.86,-324,88863,0%,-6111.0,0.0,-1.0,-1.0,13.0,FNLC
+165,,2016-02-18 14:48:44,2016-02-18,FNLC,Plummer Tammy L,EVP-CIO,D - Sale to issuer,18.86,-188,8284,-2%,-3546.0,0.0,-1.0,-1.0,13.0,FNLC
+166,,2016-02-18 14:47:52,2016-02-17,FNLC,Norton Susan A,"EVP - HR, Compliance",D - Sale to issuer,18.86,-348,26956,-1%,-6563.0,0.0,-1.0,-1.0,13.0,FNLC
+167,,2016-02-18 14:46:21,2016-02-18,FNLC,Elder Richard M,EVP - Retail Services,D - Sale to issuer,18.86,-163,15971,-1%,-3074.0,0.0,-1.0,-1.0,13.0,FNLC
+168,,2016-02-18 14:43:03,2016-02-18,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",D - Sale to issuer,18.86,-315,27460,-1%,-5941.0,0.0,-1.0,-1.0,13.0,FNLC
+169,,2016-02-12 09:50:57,2016-02-11,FNLC,McKim Tony C,"Pres, CEO",D - Sale to issuer,18.56,-388,89187,0%,-7201.0,0.0,2.0,2.0,14.0,FNLC
+170,,2016-02-12 09:49:07,2016-02-11,FNLC,Norton Susan A,"EVP - HR, Compliance",D - Sale to issuer,18.36,-355,27304,-1%,-6518.0,0.0,2.0,2.0,14.0,FNLC
+171,,2016-02-12 09:47:57,2016-02-11,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",D - Sale to issuer,18.56,-402,27775,-1%,-7461.0,0.0,2.0,2.0,14.0,FNLC
+172,,2016-02-11 12:05:33,2016-02-11,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",D - Sale to issuer,18.56,-1250,45957,-3%,-23200.0,-1.0,1.0,2.0,14.0,FNLC
+173,,2016-02-01 13:17:25,2016-02-01,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",D - Sale to issuer,19.11,-575,47207,-1%,-10988.0,1.0,-5.0,0.0,18.0,FNLC
+174,,2016-02-01 09:52:06,2016-01-28,FNLC,Parady Steven,"EVP, Chief Fiduciary Officer",A - Grant,0.0,969,81414,+1%,0.0,1.0,-5.0,0.0,18.0,FNLC
+175,,2016-01-29 13:35:54,2016-01-28,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,2045,47628,+4%,0.0,4.0,2.0,3.0,23.0,FNLC
+176,,2016-01-29 13:28:47,2016-01-28,FNLC,McKim Tony C,"Pres, CEO",A - Grant,0.0,4141,89551,+5%,0.0,4.0,2.0,3.0,23.0,FNLC
+177,,2016-01-29 13:27:07,2016-01-28,FNLC,Plummer Tammy L,EVP-CIO,A - Grant,0.0,918,8390,+12%,0.0,4.0,2.0,3.0,23.0,FNLC
+178,,2016-01-29 13:26:03,2016-01-28,FNLC,Norton Susan A,"EVP - HR, Compliance",A - Grant,0.0,1690,27579,+7%,0.0,4.0,2.0,3.0,23.0,FNLC
+179,,2016-01-29 13:25:15,2016-01-25,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",D - Sale to issuer,18.45,-1434,45582,-3%,-26457.0,4.0,2.0,3.0,23.0,FNLC
+180,,2016-01-29 13:24:24,2016-01-28,FNLC,Tolman Sarah,"EVP, Branch Administration",A - Grant,0.0,1284,1284,New,0.0,4.0,2.0,3.0,23.0,FNLC
+181,,2016-01-29 13:23:36,2016-01-28,FNLC,Elder Richard M,EVP - Retail Services,A - Grant,0.0,1449,16051,+10%,0.0,4.0,2.0,3.0,23.0,FNLC
+182,,2016-01-29 13:22:17,2016-01-28,FNLC,Poulin Steven H,SVP - Senior Credit Officer,A - Grant,0.0,668,5396,+14%,0.0,4.0,2.0,3.0,23.0,FNLC
+183,,2016-01-29 13:20:56,2016-01-28,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,1938,27985,+7%,0.0,4.0,2.0,3.0,23.0,FNLC
+184,,2016-01-25 14:34:23,2016-01-25,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",D - Sale to issuer,18.45,-1434,45582,-3%,-26457.0,-1.0,4.0,0.0,23.0,FNLC
+185,,2015-08-27 14:46:56,2015-08-27,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,18.4,-2300,46881,-5%,-42320.0,-1.0,1.0,0.0,4.0,FNLC
+186,,2015-06-11 16:05:49,2015-06-10,FNLC,Soule David B Jr,Dir,S - Sale,17.87,-750,28548,-3%,-13404.0,0.0,2.0,10.0,22.0,FNLC
+187,,2015-06-08 10:25:15,2015-06-05,FNLC,Parady Steven,Chief Fiduciary Officer,S - Sale,17.42,-1200,77525,-2%,-20904.0,1.0,2.0,12.0,28.0,FNLC
+188,,2015-06-01 13:46:35,2015-05-29,FNLC,Poulin Steven H,SVP - Senior Credit Officer,S - Sale,17.25,-390,4597,-8%,-6728.0,0.0,3.0,13.0,32.0,FNLC
+189,,2015-05-11 10:31:26,2015-05-08,FNLC,Boyd Katherine M,Dir,P - Purchase,16.6,1000,40394,+3%,16600.0,0.0,0.0,6.0,31.0,FNLC
+190,M,2015-03-03 13:33:28,2015-02-26,FNLC,Parady Steven,Chief Fiduciary Officer,S - Sale,16.65,-4000,77942,-5%,-66600.0,0.0,0.0,5.0,15.0,FNLC
+191,,2015-02-27 08:33:15,2015-02-26,FNLC,Boyd Katherine M,Dir,P - Purchase,16.55,660,39394,+2%,10923.0,0.0,-1.0,3.0,15.0,FNLC
+192,M,2015-02-10 07:49:14,2015-02-06,FNLC,Smith Stuart G,Dir,S - Sale,17.09,-3000,101351,-3%,-51260.0,0.0,0.0,-3.0,15.0,FNLC
+193,,2015-02-05 12:24:13,2015-02-03,FNLC,Smith Stuart G,Dir,S - Sale,17.06,-8126,104351,-7%,-138591.0,1.0,0.0,-2.0,14.0,FNLC
+194,,2015-02-04 14:32:31,2015-02-02,FNLC,Smith Stuart G,Dir,S - Sale,16.9,-2000,112477,-2%,-33800.0,-1.0,-1.0,-3.0,14.0,FNLC
+195,,2015-01-30 10:01:41,2015-01-29,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,2156,48725,+5%,0.0,-2.0,0.0,-2.0,13.0,FNLC
+196,,2015-01-29 16:29:35,2015-01-29,FNLC,McKim Tony C,"Pres, CEO",A - Grant,0.0,3119,85314,+4%,0.0,-2.0,-1.0,-2.0,13.0,FNLC
+197,,2015-01-29 16:28:54,2015-01-29,FNLC,Norton Susan A,"EVP - HR, Compliance",A - Grant,0.0,1778,25567,+7%,0.0,-2.0,-1.0,-2.0,13.0,FNLC
+198,,2015-01-29 16:28:25,2015-01-29,FNLC,Poulin Steven H,SVP - Senior Credit Officer,A - Grant,0.0,707,4846,+17%,0.0,-2.0,-1.0,-2.0,13.0,FNLC
+199,,2015-01-29 16:27:50,2015-01-29,FNLC,Elder Richard M,SVP - Retail Services,A - Grant,0.0,1018,14265,+8%,0.0,-2.0,-1.0,-2.0,13.0,FNLC
+200,,2015-01-29 16:27:20,2015-01-29,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,2039,25015,+9%,0.0,-2.0,-1.0,-2.0,13.0,FNLC
+201,,2015-01-06 16:18:25,2015-01-02,FNLC,Daigneault Daniel R,"Pres, CEO",D - Sale to issuer,17.8,-10138,179072,-5%,-180456.0,-1.0,-1.0,-3.0,14.0,FNLC
+202,,2014-11-03 14:00:23,2014-10-31,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,17.67,-5000,189210,-3%,-88357.0,0.0,2.0,0.0,-4.0,FNLC
+203,,2014-09-12 15:00:14,2014-09-11,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,16.91,0,341189,0%,-6.0,1.0,2.0,1.0,-1.0,FNLC
+204,M,2014-09-12 15:00:14,2014-08-14,FNLC,Daigneault Daniel R,"Pres, CEO",W - Inherited,0.0,3444,341189,-1%,0.0,1.0,2.0,1.0,-1.0,FNLC
+205,,2014-08-11 16:18:25,2014-08-11,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,16.5,-896,190469,0%,-14784.0,-1.0,0.0,0.0,4.0,FNLC
+206,M,2014-08-08 16:21:03,2014-08-07,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,16.51,-2104,191365,-1%,-34732.0,1.0,0.0,2.0,6.0,FNLC
+207,,2014-07-30 16:26:44,2014-06-10,FNLC,Daigneault Daniel R,"Pres, CEO",G - Gift,0.0,-300,193171,0%,-0.0,-1.0,0.0,2.0,4.0,FNLC
+208,M,2014-07-30 16:26:44,2014-07-28,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,16.5,-5000,193171,-3%,-82500.0,-1.0,0.0,2.0,4.0,FNLC
+209,,2014-02-24 13:17:03,2014-02-21,FNLC,Soule David B Jr,Dir,P - Purchase,16.46,2000,26882,+8%,32921.0,1.0,0.0,3.0,5.0,FNLC
+210,,2014-02-12 11:07:20,2014-02-10,FNLC,McKim Tony C,EVP - COO,A - Grant,0.0,3353,82122,+4%,0.0,-1.0,-1.0,-1.0,4.0,FNLC
+211,,2014-02-11 16:41:21,2014-02-10,FNLC,Norton Susan A,"EVP - HR, Compliance",A - Grant,0.0,2702,23275,+13%,0.0,-1.0,0.0,0.0,5.0,FNLC
+212,,2014-02-11 16:38:36,2014-02-10,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,4538,46118,+11%,0.0,-1.0,0.0,0.0,5.0,FNLC
+213,,2014-02-11 16:36:19,2014-02-03,FNLC,Poulin Steven H,SVP - Senior Credit Officer,A - Grant,0.0,703,3854,+22%,0.0,-1.0,0.0,0.0,5.0,FNLC
+214,,2014-02-11 16:19:14,2014-02-03,FNLC,Elder Richard M,SVP - Retail Services,A - Grant,0.0,1009,12958,+8%,0.0,-1.0,0.0,0.0,5.0,FNLC
+215,,2014-02-11 16:18:38,2014-02-10,FNLC,Daigneault Daniel R,"Pres, CEO",A - Grant,0.0,7635,198146,+4%,0.0,-1.0,0.0,0.0,5.0,FNLC
+216,,2014-02-11 16:17:53,2014-02-10,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,3143,22079,+17%,0.0,-1.0,0.0,0.0,5.0,FNLC
+217,,2014-02-11 13:09:17,2014-02-10,FNLC,Boyd Katherine M,Dir,P - Purchase,15.99,625,38656,+2%,9993.0,1.0,1.0,1.0,6.0,FNLC
+218,M,2013-11-22 08:44:30,2013-11-20,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,16.86,-6772,190238,-3%,-114199.0,1.0,4.0,3.0,-3.0,FNLC
+219,AM,2013-11-20 14:59:59,2013-11-12,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,16.86,-2586,197010,-1%,-43612.0,0.0,6.0,2.0,-2.0,FNLC
+220,,2013-11-14 16:51:53,2013-11-13,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,16.87,-1986,197610,-1%,-33495.0,0.0,1.0,2.0,-2.0,FNLC
+221,,2013-11-13 13:47:56,2013-11-11,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,17.25,-114,199596,0%,-1967.0,1.0,0.0,1.0,-3.0,FNLC
+222,M,2013-11-01 11:23:00,2013-10-30,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,17.53,-528,199697,0%,-9257.0,-3.0,-4.0,1.0,-6.0,FNLC
+223,A,2013-02-14 15:52:47,2013-01-23,FNLC,McKim Tony C,EVP - COO,A - Grant,0.0,3896,78663,+5%,0.0,0.0,3.0,6.0,4.0,FNLC
+224,A,2013-02-14 15:52:18,2013-01-23,FNLC,Norton Susan A,"EVP - HR, Compliance",A - Grant,0.0,3220,19885,+19%,0.0,0.0,3.0,6.0,4.0,FNLC
+225,A,2013-02-14 15:51:42,2013-01-23,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,3808,40920,+10%,0.0,0.0,3.0,6.0,4.0,FNLC
+226,A,2013-02-14 15:51:12,2013-01-23,FNLC,Daigneault Daniel R,"Pres, CEO",A - Grant,0.0,8530,199172,+4%,0.0,0.0,3.0,6.0,4.0,FNLC
+227,A,2013-02-14 15:50:35,2013-01-23,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,3639,17862,+26%,0.0,0.0,3.0,6.0,4.0,FNLC
+228,,2013-01-25 08:31:41,2013-01-23,FNLC,McKim Tony C,EVP - COO,A - Grant,0.0,3962,78729,+5%,0.0,0.0,0.0,4.0,12.0,FNLC
+229,,2013-01-25 08:31:00,2013-01-23,FNLC,Norton Susan A,"EVP - HR, Compliance",A - Grant,0.0,3220,19941,+19%,0.0,0.0,0.0,4.0,12.0,FNLC
+230,,2013-01-25 08:30:15,2013-01-23,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,3907,41019,+11%,0.0,0.0,0.0,4.0,12.0,FNLC
+231,,2013-01-25 08:29:46,2013-01-23,FNLC,Poulin Steven H,SVP - Senior Credit Officer,A - Grant,0.0,640,2817,+29%,0.0,0.0,0.0,4.0,12.0,FNLC
+232,,2013-01-25 08:29:05,2013-01-23,FNLC,Elder Richard M,SVP - Retail Services,A - Grant,0.0,956,11589,+9%,0.0,0.0,0.0,4.0,12.0,FNLC
+233,,2013-01-25 08:27:36,2013-01-23,FNLC,Daigneault Daniel R,"Pres, CEO",A - Grant,0.0,8717,199359,+5%,0.0,0.0,0.0,4.0,12.0,FNLC
+234,,2013-01-25 08:26:34,2013-01-23,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,3669,17892,+26%,0.0,0.0,0.0,4.0,12.0,FNLC
+235,,2012-11-09 09:49:43,2012-11-08,FNLC,Soule David B Jr,Dir,P - Purchase,14.9,1000,24356,+4%,14898.0,3.0,4.0,7.0,18.0,FNLC
+236,,2012-05-02 11:48:55,2012-05-02,FNLC,Elder Richard M,SVP - Retail Services,S - Sale,14.5,-1500,10449,-13%,-21750.0,0.0,-2.0,-2.0,16.0,FNLC
+237,,2012-03-05 14:21:47,2012-03-01,FNLC,McKim Tony C,EVP - COO,A - Grant,0.0,2149,74701,+3%,0.0,1.0,3.0,8.0,18.0,FNLC
+238,,2012-03-05 14:21:29,2012-03-01,FNLC,Norton Susan A,"EVP - HR, Compliance",A - Grant,0.0,1705,16268,+12%,0.0,1.0,3.0,8.0,18.0,FNLC
+239,,2012-03-05 14:21:10,2012-03-01,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,2704,36707,+8%,0.0,1.0,3.0,8.0,18.0,FNLC
+240,,2012-03-05 14:20:42,2012-03-01,FNLC,Poulin Steven H,SVP - Senior Credit Officer,A - Grant,0.0,290,1951,+17%,0.0,1.0,3.0,8.0,18.0,FNLC
+241,,2012-03-05 14:20:21,2012-03-01,FNLC,Elder Richard M,SVP - Retail Services,A - Grant,0.0,473,11881,+4%,0.0,1.0,3.0,8.0,18.0,FNLC
+242,,2012-03-05 14:19:53,2012-03-01,FNLC,Daigneault Daniel R,"Pres, CEO",A - Grant,0.0,2027,189802,+1%,0.0,1.0,3.0,8.0,18.0,FNLC
+243,,2012-03-05 14:19:28,2012-03-01,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,2077,4869,+74%,0.0,1.0,3.0,8.0,18.0,FNLC
+244,,2012-02-24 09:27:40,2012-02-23,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,15.25,-1000,34003,-3%,-15252.0,-1.0,-4.0,-4.0,10.0,FNLC
+245,D,2012-01-05 14:46:43,2012-01-05,FNLC,Norton Susan A,"EVP - HR, Compliance",M - OptEx,9.33,9000,14420,+166%,83970.0,1.0,0.0,3.0,9.0,FNLC
+246,D,2011-12-30 13:51:03,2011-12-29,FNLC,Elder Richard M,SVP - Retail Services,M - OptEx,9.33,4500,11337,+66%,41985.0,-1.0,3.0,5.0,13.0,FNLC
+247,,2011-12-23 10:36:25,2011-11-29,FNLC,Matel Sarah S,"SVP, Senior Credit Officer",D - Sale to issuer,0.0,-500,476,-51%,-0.0,1.0,-3.0,2.0,10.0,FNLC
+248,M,2011-07-27 14:47:26,2011-07-25,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,14.82,-2000,34595,-5%,-29638.0,-3.0,-3.0,-6.0,11.0,FNLC
+249,,2011-04-26 08:09:09,2011-04-25,FNLC,Soule David B Jr,Dir,P - Purchase,14.2,1500,22660,+7%,21300.0,4.0,4.0,-2.0,1.0,FNLC
+250,M,2011-03-01 13:41:41,2011-02-25,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,15.0,-1000,36458,-3%,-15004.0,-1.0,-1.0,3.0,-5.0,FNLC
+251,,2011-02-18 13:31:20,2011-02-17,FNLC,McKim Tony C,EVP - COO,A - Grant,0.0,1000,72464,+1%,0.0,0.0,1.0,-5.0,-11.0,FNLC
+252,,2011-02-18 13:28:04,2011-02-17,FNLC,Norton Susan A,"EVP - HR, Compliance",A - Grant,0.0,1000,4916,+26%,0.0,0.0,1.0,-5.0,-11.0,FNLC
+253,,2011-02-18 13:22:24,2011-02-17,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",A - Grant,0.0,1000,37458,+3%,0.0,0.0,1.0,-5.0,-11.0,FNLC
+254,,2011-02-18 13:21:39,2011-02-17,FNLC,Matel Sarah S,"SVP, Senior Credit Officer",A - Grant,0.0,500,923,+118%,0.0,0.0,1.0,-5.0,-11.0,FNLC
+255,,2011-02-18 12:58:54,2011-02-17,FNLC,Elder Richard M,SVP - Retail Services,A - Grant,0.0,500,6582,+8%,0.0,0.0,1.0,-5.0,-11.0,FNLC
+256,,2011-02-18 12:57:49,2011-02-17,FNLC,Daigneault Daniel R,"Pres, CEO",A - Grant,0.0,1500,186652,+1%,0.0,0.0,1.0,-5.0,-11.0,FNLC
+257,,2011-02-18 12:56:43,2011-02-17,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",A - Grant,0.0,1000,2218,+82%,0.0,0.0,1.0,-5.0,-11.0,FNLC
+258,,2010-11-04 13:31:35,2010-11-03,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,14.0,-881,36325,-2%,-12334.0,5.0,4.0,3.0,2.0,FNLC
+259,,2010-11-03 15:36:40,2010-11-01,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,14.0,-119,37206,0%,-1666.0,1.0,5.0,3.0,3.0,FNLC
+260,,2010-08-25 14:56:22,2010-08-25,FNLC,Rosborough Mark N,Dir,P - Purchase,12.84,2899,132106,+2%,37223.0,1.0,3.0,1.0,15.0,FNLC
+261,M,2010-04-26 13:42:08,2010-04-23,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,16.0,-3000,36924,-8%,-48001.0,0.0,-1.0,-11.0,-11.0,FNLC
+262,,2010-02-12 11:40:32,2010-02-11,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,13.97,-3000,39924,-7%,-41910.0,-1.0,-2.0,5.0,-2.0,FNLC
+263,D,2009-12-14 13:47:08,2009-12-14,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",M - OptEx,6.17,6000,42676,+16%,37020.0,4.0,2.0,1.0,-3.0,FNLC
+264,D,2009-11-03 11:39:47,2009-11-02,FNLC,Daigneault Daniel R,"Pres, CEO",M - OptEx,6.17,12000,183016,+7%,74000.0,-1.0,-1.0,0.0,-5.0,FNLC
+265,,2009-09-09 13:52:15,2009-09-09,FNLC,Soule David B Jr,Dir,S - Sale,19.0,-1500,20463,-7%,-28500.0,0.0,-2.0,-3.0,-21.0,FNLC
+266,,2009-08-19 13:50:34,2009-08-19,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,19.78,-1000,36676,-3%,-19777.0,0.0,-1.0,-1.0,-28.0,FNLC
+267,,2009-08-11 11:48:53,2009-08-10,FNLC,McKim Tony C,EVP - COO,S - Sale,19.44,-3350,69781,-5%,-65112.0,-1.0,1.0,-2.0,-29.0,FNLC
+268,,2009-08-10 09:57:30,2009-08-07,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,19.37,-12800,171538,-7%,-247891.0,1.0,2.0,-2.0,-30.0,FNLC
+269,,2009-08-06 16:50:38,2009-08-06,FNLC,Daigneault Daniel R,"Pres, CEO",S - Sale,19.54,-1200,184151,-1%,-23450.0,2.0,4.0,-4.0,-27.0,FNLC
+270,,2009-08-03 09:12:35,2009-07-31,FNLC,Norton Susan A,"SVP - HR, Compliance",S - Sale,19.53,-500,3089,-14%,-9767.0,0.0,0.0,-5.0,-26.0,FNLC
+271,,2009-06-02 13:23:39,2009-06-01,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,17.0,-1000,37459,-3%,-17000.0,3.0,2.0,11.0,-10.0,FNLC
+272,M,2009-05-11 15:24:40,2009-05-07,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,15.93,-1000,38459,-3%,-15926.0,1.0,-2.0,6.0,-6.0,FNLC
+273,,2009-05-01 13:55:05,2009-02-27,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,11.76,-1712,41459,-4%,-20125.0,-6.0,-13.0,0.0,-3.0,FNLC
+274,,2009-03-03 13:52:56,2009-02-27,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,11.76,-1712,41459,-4%,-20125.0,3.0,-1.0,44.0,77.0,FNLC
+275,,2009-02-26 14:57:24,2009-02-24,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,16.0,-288,43171,-1%,-4608.0,-16.0,-18.0,19.0,46.0,FNLC
+276,,2009-02-24 13:01:16,2009-02-23,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,14.46,-820,43459,-2%,-11851.0,-1.0,-21.0,15.0,47.0,FNLC
+277,,2009-02-19 13:50:09,2009-02-18,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,15.51,-1000,44279,-2%,-15505.0,-4.0,-9.0,6.0,35.0,FNLC
+278,M,2009-02-04 13:50:58,2009-02-02,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,17.15,-3250,44940,-7%,-55751.0,0.0,-7.0,-36.0,18.0,FNLC
+279,M,2009-01-29 13:59:53,2009-01-27,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale,17.13,-2000,48190,-4%,-34250.0,-8.0,-4.0,-33.0,13.0,FNLC
+280,D,2009-01-06 14:14:54,2009-01-06,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",M - OptEx,7.5,3000,50190,+6%,22500.0,-4.0,-8.0,-13.0,1.0,FNLC
+281,,2008-12-04 10:34:37,2008-12-04,FNLC,Rosborough Mark N,Dir,P - Purchase,19.75,379,125546,0%,7485.0,-7.0,-5.0,4.0,-1.0,FNLC
+282,,2008-10-23 12:07:10,2008-10-23,FNLC,Soule David B Jr,Dir,P - Purchase,17.67,500,21570,+2%,8834.0,5.0,2.0,-23.0,6.0,FNLC
+283,M,2008-09-09 15:47:14,2008-09-08,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,18.05,-2500,9365,-21%,-45125.0,-3.0,-6.0,13.0,-23.0,FNLC
+284,D,2008-08-18 11:21:05,2008-08-18,FNLC,Martin Michael T,SVP - Credit Admin,M - OptEx,6.17,2500,11865,+27%,15425.0,1.0,3.0,1.0,-12.0,FNLC
+285,,2008-06-16 14:11:04,2008-06-16,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",S - Sale,17.11,-22500,457,-98%,-384975.0,0.0,-6.0,-10.0,-4.0,FNLC
+286,,2008-05-21 16:47:18,2008-05-21,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,17.05,-1767,9365,-16%,-30127.0,0.0,1.0,-4.0,-4.0,FNLC
+287,,2008-05-19 15:26:54,2008-05-19,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,17.15,-467,11132,-4%,-8009.0,-2.0,0.0,-4.0,9.0,FNLC
+288,,2008-02-22 17:02:30,2008-02-22,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,14.9,-391,11377,-3%,-5826.0,-1.0,-1.0,-1.0,24.0,FNLC
+289,,2008-02-05 16:22:06,2008-02-04,FNLC,Rosborough Mark N,Dir,P - Purchase,14.65,1300,123723,+1%,19045.0,0.0,1.0,2.0,21.0,FNLC
+290,M,2008-02-04 15:28:18,2008-02-04,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,14.85,-770,11768,-6%,-11435.0,-1.0,-1.0,0.0,30.0,FNLC
+291,,2008-02-01 10:53:45,2008-01-28,FNLC,Martin Michael T,SVP - Credit Admin,G - Gift,0.0,-3750,12538,+43%,-0.0,0.0,-2.0,0.0,27.0,FNLC
+292,,2008-02-01 10:53:45,2008-01-31,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,14.85,-1105,12538,-8%,-16409.0,0.0,-2.0,0.0,27.0,FNLC
+293,,2008-01-29 15:19:35,2008-01-29,FNLC,Dalrymple Jeffrey C,SVP,S - Sale,14.5,-1000,8322,-11%,-14500.0,-1.0,0.0,0.0,25.0,FNLC
+294,D,2008-01-24 13:52:21,2008-01-24,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",D - Sale to issuer,14.51,-5000,46956,-10%,-72550.0,-1.0,1.0,2.0,32.0,FNLC
+295,D,2008-01-24 13:52:21,2008-01-24,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",M - OptEx,6.08,6000,46956,+15%,36480.0,-1.0,1.0,2.0,32.0,FNLC
+296,D,2008-01-16 11:43:05,2008-01-15,FNLC,Martin Michael T,SVP - Credit Admin,M - OptEx,7.04,4500,13643,+49%,31665.0,-2.0,-1.0,-1.0,11.0,FNLC
+297,,2007-12-13 15:48:38,2007-12-12,FNLC,McKim Tony C,EVP - COO,D - Sale to issuer,14.65,-10000,73488,-12%,-146500.0,0.0,0.0,2.0,20.0,FNLC
+298,,2007-11-29 10:42:59,2007-11-28,FNLC,Soule David B Jr,Dir,P - Purchase,14.86,500,20761,+2%,7431.0,0.0,-3.0,-2.0,23.0,FNLC
+299,,2007-11-28 10:20:18,2007-11-27,FNLC,Daigneault Daniel R,"Pres, CEO",D - Sale to issuer,14.78,-7000,183823,-4%,-103460.0,3.0,0.0,-1.0,22.0,FNLC
+300,,2007-10-29 09:44:10,2007-10-26,FNLC,Rosborough Mark N,Dir,P - Purchase,15.66,383,122030,0%,5998.0,-2.0,-1.0,-7.0,12.0,FNLC
+301,,2007-09-11 16:27:55,2007-09-10,FNLC,Boyd Katherine M,Dir,S - Sale,14.95,-1925,36602,-5%,-28779.0,5.0,2.0,6.0,3.0,FNLC
+302,,2007-09-04 14:18:12,2007-09-04,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,16.01,-1720,8945,-16%,-27534.0,5.0,-2.0,0.0,-1.0,FNLC
+303,,2007-08-31 16:34:21,2007-08-15,FNLC,Martin Michael T,SVP - Credit Admin,G - Gift,0.0,-4250,10665,+66%,-0.0,5.0,0.0,-1.0,-1.0,FNLC
+304,M,2007-08-31 16:34:21,2007-08-29,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,15.38,-919,10665,-8%,-14131.0,5.0,0.0,-1.0,-1.0,FNLC
+305,D,2007-08-07 11:50:14,2007-08-07,FNLC,Martin Michael T,SVP - Credit Admin,M - OptEx,6.08,2000,11584,+21%,12160.0,0.0,1.0,-2.0,-5.0,FNLC
+306,,2007-08-03 14:58:25,2007-08-03,FNLC,Dalrymple Jeffrey C,SVP,S - Sale,15.83,-1000,9317,-10%,-15830.0,1.0,-6.0,-2.0,-3.0,FNLC
+307,M,2007-08-01 14:19:30,2007-07-31,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,16.0,-301,9584,-3%,-4816.0,-1.0,-3.0,-5.0,-6.0,FNLC
+308,,2007-07-30 16:00:24,2007-07-27,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,16.0,-100,9885,-1%,-1600.0,1.0,-1.0,-3.0,-5.0,FNLC
+309,D,2007-06-07 12:01:34,2007-06-07,FNLC,Wootton Charles A,"Clerk, EVP - Sr Loan Officer",M - OptEx,6.81,22500,22904,>999%,153125.0,0.0,2.0,7.0,-7.0,FNLC
+310,,2007-04-27 09:37:20,2007-04-26,FNLC,Soule David B Jr,Dir,P - Purchase,16.39,1050,20011,+6%,17207.0,-1.0,0.0,-2.0,-5.0,FNLC
+311,,2007-02-23 13:44:48,2007-02-22,FNLC,Dalrymple Jeffrey C,SVP,S - Sale,16.35,-2000,10315,-16%,-32700.0,0.0,1.0,-1.0,-3.0,FNLC
+312,,2007-02-07 10:29:35,2007-02-06,FNLC,Tindal Bruce B,Dir,P - Purchase,16.55,2000,23177,+9%,33096.0,-1.0,-1.0,-1.0,-4.0,FNLC
+313,,2007-02-01 16:02:55,2007-02-01,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,16.53,-1160,9808,-11%,-19175.0,0.0,-1.0,-1.0,-2.0,FNLC
+314,,2007-01-31 09:08:12,2007-01-30,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,16.5,-1300,10968,-11%,-21450.0,0.0,0.0,0.0,-1.0,FNLC
+315,M,2007-01-30 09:00:30,2007-01-18,FNLC,Martin Michael T,SVP - Credit Admin,G - Gift,0.0,-3320,12268,-21%,-0.0,0.0,0.0,0.0,-2.0,FNLC
+316,,2007-01-30 09:00:30,2007-01-29,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,16.54,-500,12268,-4%,-8270.0,0.0,0.0,0.0,-2.0,FNLC
+317,D,2007-01-10 13:59:06,2007-01-10,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",M - OptEx,3.42,5000,46809,+12%,17100.0,0.0,-1.0,-2.0,1.0,FNLC
+318,D,2007-01-04 11:17:22,2007-01-04,FNLC,Martin Michael T,SVP - Credit Admin,M - OptEx,3.42,4000,12768,+46%,13680.0,2.0,1.0,0.0,3.0,FNLC
+319,D,2006-11-30 14:23:18,2006-11-30,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",M - OptEx,3.42,7000,41574,+20%,23919.0,1.0,1.0,1.0,-1.0,FNLC
+320,D,2006-11-30 14:23:18,2006-11-30,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",S - Sale+OE,16.58,-7000,41574,-14%,-116046.0,1.0,1.0,1.0,-1.0,FNLC
+321,,2006-10-30 11:21:24,2006-10-27,FNLC,Tindal Bruce B,Dir,P - Purchase,16.53,1000,21132,+5%,16530.0,0.0,1.0,1.0,0.0,FNLC
+322,D,2006-10-02 11:24:24,2006-10-02,FNLC,Daigneault Daniel R,"Pres, CEO",M - OptEx,3.42,36000,189838,+23%,123012.0,0.0,0.0,-2.0,-4.0,FNLC
+323,,2006-08-31 13:16:16,2006-08-31,FNLC,Daigneault Daniel R,"Pres, CEO",D - Sale to issuer,17.5,-22500,153694,-13%,-393750.0,0.0,-1.0,-3.0,-4.0,FNLC
+324,,2006-08-17 15:15:26,2006-08-17,FNLC,Soule David B Jr,Dir,S - Sale,17.27,-500,18798,-3%,-8635.0,-3.0,-4.0,-8.0,-7.0,FNLC
+325,M,2006-08-10 14:25:12,2006-08-09,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,17.71,-2100,400,-84%,-37196.0,-1.0,3.0,-1.0,-4.0,FNLC
+326,,2006-08-09 16:42:42,2006-08-07,FNLC,Martin Michael T,SVP - Credit Admin,G - Gift,0.0,-3900,10971,+55%,-0.0,-1.0,0.0,-1.0,-5.0,FNLC
+327,M,2006-08-09 16:42:42,2006-08-09,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,17.53,-1500,10971,-12%,-26295.0,-1.0,0.0,-1.0,-5.0,FNLC
+328,,2006-08-04 09:06:43,2006-08-03,FNLC,Lay Daniel M,Senior Managing Principal,D - Sale to issuer,17.44,-20000,54260,-27%,-348800.0,3.0,2.0,3.0,-1.0,FNLC
+329,,2006-05-04 10:14:49,2006-05-03,FNLC,Tindal Bruce B,Dir,P - Purchase,16.62,1000,20092,+5%,16619.0,0.0,0.0,2.0,2.0,FNLC
+330,D,2006-03-13 17:10:27,2006-03-13,FNLC,Martin Michael T,SVP - Credit Admin,M - OptEx,3.42,4000,12471,+47%,13680.0,-1.0,0.0,-1.0,0.0,FNLC
+331,D,2006-03-13 17:10:27,2006-03-10,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale+OE,17.5,-1147,12471,-8%,-20074.0,-1.0,0.0,-1.0,0.0,FNLC
+332,M,2006-03-07 10:10:22,2006-03-03,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,17.74,-1753,9618,-15%,-31103.0,0.0,-1.0,-2.0,0.0,FNLC
+333,,2006-03-07 10:09:12,2006-03-06,FNLC,McKim Tony C,EVP - COO,S - Sale,17.6,-10000,83443,-11%,-176000.0,0.0,-1.0,-2.0,0.0,FNLC
+334,,2006-02-03 16:17:42,2006-02-03,FNLC,Elder Richard M,SVP - Retail Services,S - Sale,17.42,-3100,4469,-41%,-54000.0,1.0,1.0,2.0,-1.0,FNLC
+335,,2006-02-01 16:55:14,2006-01-31,FNLC,Elder Richard M,SVP - Retail Services,S - Sale,18.0,-70,7569,-1%,-1260.0,-4.0,-2.0,-2.0,0.0,FNLC
+336,M,2006-02-01 08:07:36,2006-01-30,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,17.63,-900,11371,-7%,-15869.0,-2.0,0.0,-1.0,2.0,FNLC
+337,M,2006-01-31 08:08:48,2006-01-27,FNLC,Tindal Bruce B,Dir,P - Purchase,17.43,2000,19074,+12%,34861.0,2.0,1.0,1.0,3.0,FNLC
+338,D,2006-01-25 08:28:14,2006-01-25,FNLC,Dalrymple Jeffrey C,SVP,M - OptEx,3.8,11750,12305,>999%,44650.0,1.0,3.0,1.0,1.0,FNLC
+339,D,2006-01-11 13:43:30,2006-01-10,FNLC,Daigneault Daniel R,"Pres, CEO",M - OptEx,2.75,24000,181565,+15%,66000.0,0.0,3.0,3.0,1.0,FNLC
+340,D,2005-11-17 13:39:13,2005-11-16,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",D - Sale to issuer,18.16,-12000,47174,-20%,-217920.0,0.0,0.0,-3.0,-5.0,FNLC
+341,D,2005-11-17 13:39:13,2005-11-16,FNLC,Ward F Stephen,"Treasurer, EVP - CFO",M - OptEx,2.75,12000,47174,+34%,33000.0,0.0,0.0,-3.0,-5.0,FNLC
+342,,2005-11-04 12:51:03,2005-11-04,FNLC,Poole Carl S Jr,Dir,P - Purchase,18.15,47508,276832,+21%,862270.0,1.0,1.0,0.0,-6.0,FNLC
+343,,2005-11-04 12:51:03,2005-11-04,FNLC,Poole Carl S Jr,Dir,S - Sale,18.15,-47508,276832,-15%,-862270.0,1.0,1.0,0.0,-6.0,FNLC
+344,,2005-11-02 16:25:31,2005-10-31,FNLC,Tindal Bruce B,Dir,P - Purchase,18.43,1000,17074,+6%,18425.0,2.0,1.0,3.0,-4.0,FNLC
+345,D,2005-08-18 14:09:59,2005-08-18,FNLC,Wrobel Ronald J,SVP,M - OptEx,3.8,823,17432,+5%,3127.0,0.0,1.0,-1.0,-6.0,FNLC
+346,D,2005-08-17 16:59:57,2005-08-17,FNLC,McKim Tony C,EVP - COO,M - OptEx,3.8,705,93693,+1%,2679.0,0.0,1.0,1.0,-9.0,FNLC
+347,D,2005-08-11 11:57:48,2005-08-11,FNLC,Rosborough Mark N,Dir,M - OptEx,3.8,5287,119562,+5%,20091.0,1.0,4.0,1.0,-3.0,FNLC
+348,D,2005-08-11 10:51:16,2005-07-29,FNLC,Vietze Walter F,SVP - Sr. Operations Officer,D - Sale to issuer,17.78,-12000,52189,-19%,-213360.0,1.0,4.0,1.0,-3.0,FNLC
+349,D,2005-08-11 10:51:16,2005-07-29,FNLC,Vietze Walter F,SVP - Sr. Operations Officer,M - OptEx,4.04,33000,52189,+172%,133290.0,1.0,4.0,1.0,-3.0,FNLC
+350,,2005-08-11 08:21:14,2005-08-09,FNLC,Rosborough Mark N,Dir,P - Purchase,18.18,550,114275,0%,9999.0,1.0,4.0,1.0,-3.0,FNLC
+351,,2005-08-01 15:20:45,2005-08-01,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,18.0,-1825,12148,-13%,-32851.0,1.0,4.0,8.0,-1.0,FNLC
+352,,2005-07-29 15:47:17,2005-07-29,FNLC,Wootton Charles A,"Clerk, EVP - Sr. Loan Officer",D - Sale to issuer,17.78,-22500,318,-99%,-400050.0,0.0,5.0,10.0,-2.0,FNLC
+353,D,2005-07-29 15:46:32,2005-07-29,FNLC,Vietze Walter F,SVP - Sr. Operations Officer,D - Sale to issuer,17.78,-12000,52189,-19%,-213360.0,0.0,5.0,10.0,-2.0,FNLC
+354,D,2005-07-29 15:46:32,2005-07-29,FNLC,Vietze Walter F,SVP - Sr. Operations Officer,M - OptEx,4.04,33000,52189,+172%,133290.0,0.0,5.0,10.0,-2.0,FNLC
+355,,2005-06-08 14:51:48,2005-06-06,FNLC,Rosborough Mark N,Dir,P - Purchase,16.6,300,113405,0%,4980.0,-1.0,-1.0,7.0,13.0,FNLC
+356,,2005-06-06 15:55:30,2005-06-06,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,16.5,-1474,13911,-10%,-24321.0,-1.0,-1.0,4.0,11.0,FNLC
+357,D,2005-06-03 14:13:09,2005-06-03,FNLC,Martin Michael T,SVP - Credit Admin,M - OptEx,3.42,4000,15385,+35%,13680.0,1.0,-1.0,3.0,12.0,FNLC
+358,,2005-05-27 14:48:39,2005-05-27,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,16.6,-2426,11385,-18%,-40272.0,1.0,1.0,0.0,10.0,FNLC
+359,,2005-05-16 11:13:41,2005-05-13,FNLC,Lay Daniel M,Managing Principal,P - Purchase,16.93,5831,73981,+9%,98720.0,-1.0,-2.0,-4.0,9.0,FNLC
+360,,2005-05-13 12:35:15,2005-05-11,FNLC,Soule David B Jr,Dir,P - Purchase,16.61,450,18655,+2%,7475.0,0.0,-2.0,-2.0,10.0,FNLC
+361,,2005-05-13 12:35:15,2005-05-11,FNLC,Soule David B Jr,Dir,S - Sale,16.6,-1500,18655,-7%,-24905.0,0.0,-2.0,-2.0,10.0,FNLC
+362,,2005-04-28 16:09:30,2005-04-27,FNLC,Tindal Bruce B,Dir,P - Purchase,16.94,1000,16023,+7%,16940.0,1.0,-2.0,-1.0,10.0,FNLC
+363,,2005-03-17 16:07:46,2005-03-17,FNLC,Daigneault Daniel R,"Pres, CEO",D - Sale to issuer,17.26,-20000,157188,-11%,-345200.0,2.0,4.0,-3.0,14.0,FNLC
+364,D,2005-02-28 11:01:09,2005-02-28,FNLC,McKim Tony C,EVP - COO,M - OptEx,3.8,33381,92988,+56%,126848.0,0.0,0.0,-1.0,15.0,FNLC
+365,,2005-02-14 13:37:25,2005-02-11,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,17.15,-475,13811,-3%,-8146.0,1.0,2.0,0.0,10.0,FNLC
+366,AD,2005-02-08 09:52:15,2005-02-04,FNLC,Lay Daniel M,SVP,M - OptEx,3.8,21150,68150,+45%,80370.0,0.0,1.0,-1.0,11.0,FNLC
+367,AD,2005-02-08 09:51:48,2005-02-04,FNLC,Wrobel Ronald J,SVP,M - OptEx,3.8,14452,16609,+670%,54918.0,0.0,1.0,-1.0,11.0,FNLC
+368,D,2005-02-03 13:50:30,2005-02-02,FNLC,Lay Daniel M,SVP,M - OptEx,3.8,21150,68150,+45%,80340.0,1.0,0.0,2.0,10.0,FNLC
+369,,2005-02-03 11:24:51,2005-02-03,FNLC,Hunter William M II,Man Principal - CIO,P - Purchase,17.24,1000,1174,+573%,17240.0,1.0,0.0,2.0,10.0,FNLC
+370,M,2005-02-02 08:25:55,2005-02-01,FNLC,Tindal Bruce B,Dir,P - Purchase,17.37,2000,15023,+15%,34731.0,-1.0,0.0,0.0,8.0,FNLC
+371,,2005-01-31 11:31:43,2005-01-28,FNLC,Gregory Robert B,Dir,P - Purchase,17.41,3000,41335,+8%,52215.0,1.0,0.0,3.0,7.0,FNLC
+372,D,2005-01-27 10:42:46,2005-01-26,FNLC,Wrobel Ronald J,SVP,M - OptEx,3.8,14452,16609,+670%,54897.0,-1.0,1.0,3.0,5.0,FNLC
+373,D,2005-01-27 10:42:11,2005-01-26,FNLC,Elder Richard M,VP - Retail Services,M - OptEx,9.33,4500,7373,+157%,41985.0,-1.0,1.0,3.0,5.0,FNLC
+374,,2004-11-04 15:26:27,2004-11-02,FNLC,Boyd Katherine M,Dir,P - Purchase,18.0,600,36020,+2%,10800.0,0.0,0.0,-1.0,-6.0,FNLC
+375,,2004-10-26 16:03:27,2004-10-22,FNLC,Tindal Bruce B,Dir,P - Purchase,18.37,1000,12992,+8%,18372.0,0.0,0.0,-2.0,-7.0,FNLC
+376,,2004-09-14 08:20:02,2004-09-10,FNLC,Boyd Katherine M,Dir,P - Purchase,19.3,340,35334,+1%,6562.0,1.0,0.0,0.0,-9.0,FNLC
+377,,2004-09-03 14:38:16,2004-09-02,FNLC,Boyd Katherine M,Dir,P - Purchase,18.5,131,34994,0%,2424.0,1.0,1.0,0.0,-8.0,FNLC
+378,,2004-09-03 13:27:40,2004-09-03,FNLC,Tindal Bruce B,Dir,P - Purchase,19.18,1000,11992,+9%,19180.0,1.0,1.0,0.0,-8.0,FNLC
+379,,2004-09-02 08:16:56,2004-09-01,FNLC,Boyd Katherine M,Dir,P - Purchase,19.29,245,34863,+1%,4725.0,0.0,0.0,0.0,-9.0,FNLC
+380,M,2004-09-01 14:33:59,2004-08-31,FNLC,Soule David B Jr,Dir,P - Purchase,19.06,1250,19213,+7%,23828.0,4.0,5.0,4.0,-4.0,FNLC
+381,,2004-08-31 16:34:36,2004-08-31,FNLC,Boyd Katherine M,Dir,P - Purchase,18.5,404,34618,+1%,7474.0,4.0,4.0,5.0,-4.0,FNLC
+382,,2004-08-31 10:56:14,2004-08-30,FNLC,Nelson Randy A,Dir,P - Purchase,19.29,700,1675,+72%,13503.0,-2.0,2.0,3.0,-6.0,FNLC
+383,D,2004-06-25 14:48:03,2004-06-25,FNLC,Wootton Charles A,"Clerk, SVP - Banking Services",M - OptEx,6.81,22500,22778,>999%,153125.0,1.0,-1.0,-12.0,-6.0,FNLC
+384,,2004-06-01 14:06:51,2004-05-28,FNLC,Poole Carl S Jr,Dir,P - Purchase,55.0,100,92240,0%,5500.0,4.0,27.0,6.0,-2.0,FNLC
+385,D,2004-05-27 14:07:19,2004-05-26,FNLC,Martin Michael T,SVP - Credit Admin,M - OptEx,6.5,2000,4693,+74%,13000.0,2.0,16.0,6.0,-3.0,FNLC
+386,M,2004-05-26 16:45:35,2004-05-24,FNLC,Poole Carl S Jr,Dir,P - Purchase,53.96,300,92140,0%,16188.0,2.0,7.0,6.0,-5.0,FNLC
+387,,2004-05-20 13:20:16,2004-05-19,FNLC,Tindal Bruce B,Dir,P - Purchase,54.74,75,3660,+2%,4106.0,-1.0,4.0,13.0,-3.0,FNLC
+388,,2004-05-20 13:18:39,2004-05-20,FNLC,Blanchard Malcolm E,Dir,P - Purchase,53.75,100,27466,0%,5375.0,-1.0,4.0,13.0,-3.0,FNLC
+389,,2004-05-19 08:50:57,2004-05-17,FNLC,Tindal Bruce B,Dir,P - Purchase,54.5,300,3585,+9%,16349.0,3.0,5.0,12.0,-1.0,FNLC
+390,,2004-04-29 15:26:00,2004-04-28,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,49.1,-1591,0,-100%,-78124.0,5.0,5.0,15.0,10.0,FNLC
+391,,2004-04-29 08:23:34,2004-04-28,FNLC,Tindal Bruce B,Dir,P - Purchase,49.1,350,3280,+12%,17184.0,5.0,5.0,15.0,10.0,FNLC
+392,D,2004-02-25 11:27:40,2004-02-24,FNLC,Daigneault Daniel R,"Pres, CEO",M - OptEx,6.5,9000,49515,+22%,58500.0,4.0,6.0,0.0,17.0,FNLC
+393,,2004-02-11 16:46:55,2004-02-06,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,49.0,-100,91,-52%,-4900.0,-3.0,-2.0,-6.0,16.0,FNLC
+394,,2004-02-06 09:35:21,2004-02-05,FNLC,Poole Carl S Jr,Dir,P - Purchase,48.67,500,74048,+1%,24333.0,0.0,0.0,-4.0,15.0,FNLC
+395,D,2004-02-03 13:54:27,2004-01-26,FNLC,Daigneault Daniel R,"Pres, CEO",M - OptEx,6.5,5000,40515,+14%,32500.0,-1.0,1.0,0.0,9.0,FNLC
+396,,2004-02-02 10:25:34,2004-01-29,FNLC,Martin Michael T,SVP - Credit Admin,S - Sale,48.0,-100,191,-34%,-4800.0,-1.0,0.0,-1.0,8.0,FNLC
+397,,2004-01-23 13:16:52,2004-01-22,FNLC,Tindal Bruce B,Dir,P - Purchase,48.46,500,2926,+21%,24230.0,-3.0,-2.0,-2.0,8.0,FNLC
+398,,2004-01-15 10:05:34,2004-01-13,FNLC,Daigneault Daniel R,"Pres, CEO",M - OptEx,6.5,5000,35515,+16%,32500.0,3.0,4.0,2.0,19.0,FNLC
+399,,2003-11-14 10:05:33,2003-11-13,FNLC,Smith Stuart G,Dir,P - Purchase,45.47,500,30001,+2%,22735.0,0.0,4.0,2.0,12.0,FNLC
+400,M,2003-08-07 10:00:24,2003-01-31,FNLC,Blanchard Malcolm E,Dir,P - Purchase,40.79,511,28947,+2%,20841.0,2.0,4.0,6.0,23.0,FNLC
+401,M,2003-08-06 15:29:25,2003-07-31,FNLC,Tindal Bruce B,Dir,P - Purchase,40.88,130,2420,+6%,5314.0,-3.0,-2.0,3.0,20.0,FNLC
+402,M,2003-07-31 13:34:22,2003-01-10,FNLC,Smith Stuart G,Dir,P - Purchase,39.34,2044,29323,+7%,80402.0,0.0,-2.0,4.0,20.0,FNLC

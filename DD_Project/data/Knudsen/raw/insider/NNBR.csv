@@ -1,19 +1,549 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,M,2022-03-24 16:22:35,2022-03-22,NNBR,Wilson Thomas Hampton Jr.,Dir,P - Purchase,$2.89,20000,96248,+26%,"+$57,857",,,,,NNBR
-1,,2021-12-23 16:36:25,2021-12-22,NNBR,Buchan John,See Remarks,S - Sale,$4.09,-48052,41996,-53%,"-$196,624",,,,,NNBR
-2,,2021-12-10 17:28:53,2021-12-09,NNBR,Harman Jeri J,Dir,P - Purchase,$4.79,5240,62070,+9%,"+$25,100",,,,,NNBR
-3,,2021-12-02 11:21:32,2021-12-01,NNBR,Veltman Warren A,"Pres, CEO",P - Purchase,$4.29,20000,233624,+9%,"+$85,888",,,,,NNBR
-4,,2021-11-10 16:16:47,2021-11-09,NNBR,Carroll Christina,Dir,P - Purchase,$5.55,4500,45620,+11%,"+$25,000",,,,,NNBR
-5,,2021-09-10 13:41:05,2021-09-09,NNBR,Harman Jeri J,Dir,P - Purchase,$5.14,5000,56830,+10%,"+$25,700",,,,,NNBR
-6,,2021-08-23 14:09:41,2021-08-23,NNBR,Benvenuti Raynard D.,Dir,P - Purchase,$5.35,5000,50790,+11%,"+$26,725",,,,,NNBR
-7,,2021-08-20 12:25:45,2021-08-18,NNBR,Benvenuti Raynard D.,Dir,P - Purchase,$5.52,5000,45790,+12%,"+$27,592",,,,,NNBR
-8,,2021-06-17 16:34:29,2021-06-17,NNBR,Veltman Warren A,"Pres, CEO",P - Purchase,$7.05,20000,213624,+10%,"+$141,000",,,,,NNBR
-9,,2019-06-21 16:05:23,2019-06-19,NNBR,Atkinson James Robert,"EVP, Life Sciences",P - Purchase,$8.65,3000,21550,+16%,"+$25,950",,,,,NNBR
-10,,2019-05-30 16:05:17,2019-05-28,NNBR,Floyd David,Dir,P - Purchase,$8.05,9000,37183,+32%,"+$72,450",,,,,NNBR
-11,,2018-12-27 16:06:13,2018-12-24,NNBR,Smith Carey A.,Dir,P - Purchase,$5.80,5000,11331,+79%,"+$29,000",,,,,NNBR
-12,,2018-12-20 16:05:25,2018-12-18,NNBR,Burwell Thomas C. Jr.,See Remarks,P - Purchase,$6.13,7000,46329,+18%,"+$42,910",,,,,NNBR
-13,,2018-12-17 16:05:38,2018-12-14,NNBR,Brunner Robert E,Dir,P - Purchase,$6.31,4000,33605,+14%,"+$25,240",,,,,NNBR
-14,,2018-12-10 16:05:56,2018-12-07,NNBR,Holder Richard D,"Pres, CEO",P - Purchase,$6.85,4565,177966,+3%,"+$31,270",,,,,NNBR
-15,,2018-09-17 16:06:00,2018-09-17,NNBR,Heiter Matthew S.,"SVP, GC",P - Purchase,$15.99,2150,18184,+13%,"+$34,379",,,,,NNBR
-16,,2018-09-17 16:05:34,2018-09-14,NNBR,Holder Richard D,"Pres, CEO",P - Purchase,$16.04,3100,173401,+2%,"+$49,724",,,,,NNBR
-17,,2018-09-14 16:05:58,2018-09-13,NNBR,Floyd David,Dir,P - Purchase,$16.07,1200,15573,+8%,"+$19,284",,,,,NNBR
+0,,2022-03-16 16:31:44,2022-03-14,NNBR,Heiter Matthew S.,"SVP, GC",F - Tax,$2.85,-1254,85177,-1%,"-$3,574",,,,,NNBR
+1,,2022-03-16 16:31:25,2022-03-14,NNBR,Nixon D. Gail,"SVP, HR",F - Tax,$2.85,-851,45619,-2%,"-$2,425",,,,,NNBR
+2,,2022-03-16 16:31:07,2022-03-14,NNBR,Veltman Warren A,"Pres, CEO",F - Tax,$2.85,-1225,225842,-1%,"-$3,491",,,,,NNBR
+3,,2022-02-22 17:18:33,2022-02-18,NNBR,Heiter Matthew S.,"SVP, GC",F - Tax,$2.98,-1361,86431,-2%,"-$4,056",,,,,NNBR
+4,,2022-02-22 17:18:09,2022-02-18,NNBR,Veltman Warren A,"Pres, CEO",F - Tax,$2.98,-6480,227067,-3%,"-$19,310",,,,,NNBR
+5,,2022-02-22 17:17:38,2022-02-18,NNBR,Nixon D. Gail,"SVP, HR",F - Tax,$2.98,-758,46470,-2%,"-$2,259",,,,,NNBR
+6,,2022-02-22 17:17:10,2022-02-18,NNBR,"Felcher, Jr. Michael C.","SVP, CFO",F - Tax,$2.98,-530,22378,-2%,"-$1,579",,,,,NNBR
+7,,2022-01-10 16:55:59,2022-01-07,NNBR,Benvenuti Raynard D.,Dir,A - Grant,$0.00,35128,75918,+86%,+$0,,,,,NNBR
+8,,2022-01-10 16:55:33,2022-01-07,NNBR,Brunner Robert E,Dir,A - Grant,$0.00,35128,92931,+61%,+$0,,,,,NNBR
+9,,2022-01-10 16:54:38,2022-01-07,NNBR,Carroll Christina,Dir,A - Grant,$0.00,35128,80748,+77%,+$0,,,,,NNBR
+10,,2022-01-10 16:54:11,2022-01-07,NNBR,Gautam Rajeev,Dir,A - Grant,$0.00,35128,47743,+278%,+$0,,,,,NNBR
+11,,2022-01-10 16:53:53,2022-01-07,NNBR,Kuran Shihab A.,Dir,A - Grant,$0.00,35128,52194,+206%,+$0,,,,,NNBR
+12,,2022-01-10 16:53:32,2022-01-07,NNBR,Faria Joao V,Dir,A - Grant,$0.00,35128,50077,+235%,+$0,,,,,NNBR
+13,,2022-01-10 16:52:59,2022-01-07,NNBR,Wilson Thomas Hampton Jr.,Dir,A - Grant,$0.00,35128,76248,+85%,+$0,,,,,NNBR
+14,,2022-01-10 16:52:26,2022-01-07,NNBR,Harman Jeri J,Dir,A - Grant,$0.00,35128,97198,+57%,+$0,,,,,NNBR
+15,,2021-12-23 16:36:25,2021-12-22,NNBR,Buchan John,See Remarks,S - Sale,$4.09,-48052,41996,-53%,"-$196,624",,,,,NNBR
+16,,2021-12-10 17:28:53,2021-12-09,NNBR,Harman Jeri J,Dir,P - Purchase,$4.79,5240,62070,+9%,"+$25,100",,,,,NNBR
+17,,2021-12-02 11:21:32,2021-12-01,NNBR,Veltman Warren A,"Pres, CEO",P - Purchase,$4.29,20000,233624,+9%,"+$85,888",,,,,NNBR
+18,,2021-11-10 16:16:47,2021-11-09,NNBR,Carroll Christina,Dir,P - Purchase,$5.55,4500,45620,+11%,"+$25,000",,,,,NNBR
+19,,2021-09-10 13:41:05,2021-09-09,NNBR,Harman Jeri J,Dir,P - Purchase,$5.14,5000,56830,+10%,"+$25,700",,,,,NNBR
+20,,2021-08-23 14:09:41,2021-08-23,NNBR,Benvenuti Raynard D.,Dir,P - Purchase,$5.35,5000,50790,+11%,"+$26,725",,,,,NNBR
+21,,2021-08-20 12:25:45,2021-08-18,NNBR,Benvenuti Raynard D.,Dir,P - Purchase,$5.52,5000,45790,+12%,"+$27,592",,,,,NNBR
+22,,2021-06-17 16:34:29,2021-06-17,NNBR,Veltman Warren A,"Pres, CEO",P - Purchase,$7.05,20000,213624,+10%,"+$141,000",,,,,NNBR
+23,,2021-06-16 16:15:20,2021-06-14,NNBR,"Felcher, Jr. Michael C.",See Remarks,A - Grant,$0.00,6830,22908,+42%,+$0,,,,,NNBR
+24,,2021-05-17 19:14:27,2021-05-13,NNBR,Gautam Rajeev,Dir,A - Grant,$0.00,12615,12615,New,+$0,,,,,NNBR
+25,,2021-04-14 16:10:12,2021-04-13,NNBR,Faria Joao V,Dir,A - Grant,$0.00,14949,14949,New,+$0,,,,,NNBR
+26,D,2021-03-25 16:05:38,2021-03-23,NNBR,Debyle Thomas D.,"SVP, CFO",A - Grant,$0.00,40532,70601,+135%,+$0,,,,,NNBR
+27,D,2021-03-25 16:05:32,2021-03-23,NNBR,Buchan John,See Remarks,A - Grant,$0.00,20138,90048,+29%,+$0,,,,,NNBR
+28,D,2021-03-25 16:05:27,2021-03-23,NNBR,Heiter Matthew S.,"SVP, GC",A - Grant,$0.00,18518,87792,+27%,+$0,,,,,NNBR
+29,,2021-03-25 16:05:22,2021-03-23,NNBR,Kuran Shihab A.,Dir,A - Grant,$0.00,17066,17066,New,+$0,,,,,NNBR
+30,D,2021-03-25 16:05:17,2021-03-23,NNBR,Nixon D. Gail,"SVP, HR",A - Grant,$0.00,8726,47228,+23%,+$0,,,,,NNBR
+31,,2021-03-16 16:05:59,2021-03-15,NNBR,Buchan John,See Remarks,F - Tax,$7.82,-1708,69910,-2%,"-$13,357",,,,,NNBR
+32,,2021-03-16 16:05:45,2021-03-15,NNBR,Heiter Matthew S.,"SVP, GC",F - Tax,$7.82,-1348,69274,-2%,"-$10,541",,,,,NNBR
+33,,2021-03-16 16:05:39,2021-03-15,NNBR,Veltman Warren A,"Pres, CEO",F - Tax,$7.82,-1621,112166,-1%,"-$12,676",,,,,NNBR
+34,,2021-03-16 16:05:20,2021-03-15,NNBR,Nixon D. Gail,"SVP, HR",F - Tax,$7.82,-913,38502,-2%,"-$7,140",,,,,NNBR
+35,,2021-02-22 18:11:02,2021-02-18,NNBR,Nixon D. Gail,"SVP, HR",F - Tax,$6.81,-5450,39415,-12%,"-$37,115",,,,,NNBR
+36,,2021-02-22 18:09:44,2021-02-18,NNBR,Veltman Warren A,"Pres, CEO",F - Tax,$6.81,-6029,113787,-5%,"-$41,057",,,,,NNBR
+37,,2021-02-22 18:06:17,2021-02-18,NNBR,Buchan John,See Remarks,F - Tax,$6.81,-14842,71618,-17%,"-$101,074",,,,,NNBR
+38,,2021-02-22 18:02:57,2021-02-18,NNBR,Heiter Matthew S.,"SVP, GC",F - Tax,$6.81,-11754,70622,-14%,"-$80,045",,,,,NNBR
+39,,2021-02-22 17:57:51,2021-02-18,NNBR,Debyle Thomas D.,"SVP, CFO",F - Tax,$6.81,-1136,30069,-4%,"-$7,736",,,,,NNBR
+40,,2021-01-05 18:22:00,2021-01-04,NNBR,Brunner Robert E,Dir,A - Grant,$0.00,24834,87335,+40%,+$0,,,,,NNBR
+41,,2021-01-05 18:21:10,2021-01-04,NNBR,Wilson Thomas Hampton Jr.,Dir,A - Grant,$0.00,24834,41120,+152%,+$0,,,,,NNBR
+42,,2021-01-05 18:19:46,2021-01-04,NNBR,Warshaw Steven T,Dir,A - Grant,$0.00,24834,114535,+28%,+$0,,,,,NNBR
+43,,2021-01-05 18:17:39,2021-01-04,NNBR,Benvenuti Raynard D.,Dir,A - Grant,$0.00,24834,40790,+156%,+$0,,,,,NNBR
+44,,2021-01-05 18:16:18,2021-01-04,NNBR,Harman Jeri J,Dir,A - Grant,$0.00,24834,51830,+92%,+$0,,,,,NNBR
+45,,2021-01-05 18:11:35,2021-01-04,NNBR,Carroll Christina,Dir,A - Grant,$0.00,24834,41120,+152%,+$0,,,,,NNBR
+46,,2020-10-13 16:05:12,2020-09-20,NNBR,Veltman Warren A,"Pres, CEO",F - Tax,$5.69,-8046,119816,-6%,"-$45,782",,,,,NNBR
+47,,2020-10-13 16:05:08,2020-10-07,NNBR,Debyle Thomas D.,"SVP, CFO",F - Tax,$6.30,-9001,31205,-22%,"-$56,706",,,,,NNBR
+48,,2020-03-19 16:06:54,2020-03-17,NNBR,Veltman Warren A,"Pres, CEO",F - Tax,$2.89,-374,127861,0%,"-$1,081",,,,,NNBR
+49,,2020-03-19 16:05:57,2020-03-17,NNBR,Nixon D. Gail,"SVP, HR",F - Tax,$2.89,-210,44865,0%,-$607,,,,,NNBR
+50,,2020-03-19 16:05:45,2020-03-17,NNBR,Heiter Matthew S.,"SVP, GC",F - Tax,$2.89,-381,82376,0%,"-$1,101",,,,,NNBR
+51,,2020-03-19 16:05:17,2020-03-17,NNBR,Qualters Christopher J.,EVP of Life Sciences,F - Tax,$2.89,-326,75457,0%,-$942,,,,,NNBR
+52,,2020-03-17 20:04:16,2020-03-14,NNBR,Veltman Warren A,"Pres, CEO",F - Tax,$4.01,-1581,128235,-1%,"-$6,340",,,,,NNBR
+53,,2020-03-17 20:00:54,2020-03-14,NNBR,Nixon D. Gail,"SVP, HR",F - Tax,$4.01,-1106,45075,-2%,"-$4,435",,,,,NNBR
+54,,2020-03-17 19:57:45,2020-03-14,NNBR,Heiter Matthew S.,"SVP, GC",F - Tax,$4.01,-1641,82757,-2%,"-$6,580",,,,,NNBR
+55,,2020-03-17 19:55:23,2020-03-14,NNBR,Qualters Christopher J.,EVP of Life Sciences,F - Tax,$4.01,-1631,75783,-2%,"-$6,540",,,,,NNBR
+56,D,2020-02-20 16:22:13,2020-02-18,NNBR,Debyle Thomas D.,"SVP, CFO",A - Grant,$0.00,9728,40206,+32%,+$0,,,,,NNBR
+57,D,2020-02-20 16:19:40,2020-02-18,NNBR,Qualters Christopher J.,EVP of Life Sciences,A - Grant,$0.00,54377,77414,+236%,+$0,,,,,NNBR
+58,D,2020-02-20 16:19:37,2020-02-18,NNBR,Buchan John,See Remarks,A - Grant,$0.00,60028,86460,+227%,+$0,,,,,NNBR
+59,D,2020-02-20 16:19:10,2020-02-18,NNBR,Heiter Matthew S.,"SVP, GC",A - Grant,$0.00,55084,84399,+188%,+$0,,,,,NNBR
+60,D,2020-02-20 16:17:58,2020-02-18,NNBR,Nixon D. Gail,"SVP, HR",A - Grant,$0.00,20126,46182,+77%,+$0,,,,,NNBR
+61,D,2020-02-20 16:17:27,2020-02-18,NNBR,Veltman Warren A,"Pres, CEO",A - Grant,$0.00,60778,129817,+88%,+$0,,,,,NNBR
+62,,2020-02-03 16:12:48,2020-01-31,NNBR,Benvenuti Raynard D.,Dir,A - Grant,$0.00,15956,15956,New,+$0,,,,,NNBR
+63,,2020-01-06 16:11:49,2020-01-02,NNBR,Pugh David L,Dir,A - Grant,$0.00,16286,116801,+16%,+$0,,,,,NNBR
+64,,2020-01-06 16:07:12,2020-01-02,NNBR,Floyd David,Dir,A - Grant,$0.00,16286,53469,+44%,+$0,,,,,NNBR
+65,,2020-01-06 16:06:54,2020-01-02,NNBR,Warshaw Steven T,Dir,A - Grant,$0.00,16286,89701,+22%,+$0,,,,,NNBR
+66,,2020-01-06 16:06:28,2020-01-02,NNBR,Harman Jeri J,Dir,A - Grant,$0.00,16286,26996,+152%,+$0,,,,,NNBR
+67,,2020-01-06 16:06:17,2020-01-02,NNBR,Carroll Christina,Dir,A - Grant,$0.00,16286,16286,New,+$0,,,,,NNBR
+68,,2020-01-06 16:05:34,2020-01-02,NNBR,Wilson Thomas Hampton Jr.,Dir,A - Grant,$0.00,16286,16286,New,+$0,,,,,NNBR
+69,,2020-01-06 16:05:27,2020-01-02,NNBR,Brunner Robert E,Dir,A - Grant,$0.00,16286,62501,+35%,+$0,,,,,NNBR
+70,,2019-10-08 16:05:25,2019-10-07,NNBR,Debyle Thomas D.,"SVP, CFO",A - Grant,$0.00,30303,30478,>999%,+$0,,,,,NNBR
+71,,2019-09-24 07:30:13,2019-09-20,NNBR,Veltman Warren A,"Pres, CEO",A - Grant,$0.00,28130,69039,+69%,+$0,,,,,NNBR
+72,,2019-06-21 16:05:23,2019-06-19,NNBR,Atkinson James Robert,"EVP, Life Sciences",P - Purchase,$8.65,3000,21550,+16%,"+$25,950",,,,,NNBR
+73,,2019-05-30 16:05:17,2019-05-28,NNBR,Floyd David,Dir,P - Purchase,$8.05,9000,37183,+32%,"+$72,450",,,,,NNBR
+74,,2019-03-18 20:24:17,2019-03-14,NNBR,Floyd David,Dir,A - Grant,$0.00,12610,28183,+81%,+$0,,,,,NNBR
+75,,2019-03-18 20:22:59,2019-03-14,NNBR,Harman Jeri J,Dir,A - Grant,$0.00,10710,10710,New,+$0,,,,,NNBR
+76,,2019-03-18 20:21:26,2019-03-14,NNBR,Pugh David L,Dir,A - Grant,$0.00,12610,100515,+14%,+$0,,,,,NNBR
+77,D,2019-03-18 20:20:08,2019-03-14,NNBR,Heiter Matthew S.,"SVP, GC",A - Grant,$0.00,12687,29315,+76%,+$0,,,,,NNBR
+78,DM,2019-03-18 20:20:08,2019-03-14,NNBR,Heiter Matthew S.,"SVP, GC",F - Tax,$7.69,-1556,29315,-5%,"-$11,965",,,,,NNBR
+79,,2019-03-18 20:19:55,2019-03-14,NNBR,Smith Carey A.,Dir,A - Grant,$0.00,12610,23941,+111%,+$0,,,,,NNBR
+80,,2019-03-18 20:17:53,2019-03-14,NNBR,Stipp Janice E,Dir,A - Grant,$0.00,10710,10710,New,+$0,,,,,NNBR
+81,D,2019-03-18 20:17:51,2019-03-14,NNBR,Atkinson James Robert,"EVP, Life Sciences",A - Grant,$0.00,10004,18550,+117%,+$0,,,,,NNBR
+82,DM,2019-03-18 20:17:51,2019-03-14,NNBR,Atkinson James Robert,"EVP, Life Sciences",F - Tax,$7.74,-866,18550,-4%,"-$6,702",,,,,NNBR
+83,D,2019-03-18 20:17:01,2019-03-14,NNBR,Holder Richard D,"Pres, CEO",A - Grant,$0.00,102143,271098,+60%,+$0,,,,,NNBR
+84,DM,2019-03-18 20:17:01,2019-03-14,NNBR,Holder Richard D,"Pres, CEO",F - Tax,$7.72,-9011,271098,-3%,"-$69,534",,,,,NNBR
+85,D,2019-03-18 20:15:37,2019-03-14,NNBR,Nixon D. Gail,See Remarks,A - Grant,$0.00,7341,26056,+39%,+$0,,,,,NNBR
+86,DM,2019-03-18 20:15:37,2019-03-14,NNBR,Nixon D. Gail,See Remarks,F - Tax,$7.70,-885,26056,-3%,"-$6,815",,,,,NNBR
+87,D,2019-03-18 20:14:06,2019-03-14,NNBR,Qualters Christopher J.,"EVP, Power Solutions",A - Grant,$0.00,10907,23037,+90%,+$0,,,,,NNBR
+88,DM,2019-03-18 20:14:06,2019-03-14,NNBR,Qualters Christopher J.,"EVP, Power Solutions",F - Tax,$7.72,-1174,23037,-5%,"-$9,062",,,,,NNBR
+89,,2019-03-18 20:13:26,2019-03-14,NNBR,Brunner Robert E,Dir,A - Grant,$0.00,12610,46215,+38%,+$0,,,,,NNBR
+90,M,2019-03-18 20:13:26,2019-02-05,NNBR,Brunner Robert E,Dir,G - Gift,$0.00,-51064,46215,-1053%,-$0,,,,,NNBR
+91,,2019-03-18 20:10:26,2019-03-14,NNBR,Warshaw Steven T,Dir,A - Grant,$0.00,12610,73415,+21%,+$0,,,,,NNBR
+92,D,2019-03-18 20:10:02,2019-03-14,NNBR,Veltman Warren A,"EVP, Mobile Solutions",A - Grant,$0.00,12845,40909,+46%,+$0,,,,,NNBR
+93,DM,2019-03-18 20:10:02,2019-03-14,NNBR,Veltman Warren A,"EVP, Mobile Solutions",F - Tax,$7.69,-1857,40909,-4%,"-$14,282",,,,,NNBR
+94,M,2019-03-18 20:08:07,2019-03-14,NNBR,Burwell Thomas C. Jr.,See Remarks,F - Tax,$7.72,-1331,44998,-3%,"-$10,281",,,,,NNBR
+95,,2018-12-27 16:06:13,2018-12-24,NNBR,Smith Carey A.,Dir,P - Purchase,$5.80,5000,11331,+79%,"+$29,000",,,,,NNBR
+96,,2018-12-20 16:05:25,2018-12-18,NNBR,Burwell Thomas C. Jr.,See Remarks,P - Purchase,$6.13,7000,46329,+18%,"+$42,910",,,,,NNBR
+97,,2018-12-17 16:05:38,2018-12-13,NNBR,Brunner Robert E,Dir,G - Gift,$0.00,-25532,33605,+316%,-$0,,,,,NNBR
+98,,2018-12-17 16:05:38,2018-12-14,NNBR,Brunner Robert E,Dir,P - Purchase,$6.31,4000,33605,+14%,"+$25,240",,,,,NNBR
+99,,2018-12-10 16:05:56,2018-12-07,NNBR,Holder Richard D,"Pres, CEO",P - Purchase,$6.85,4565,177966,+3%,"+$31,270",,,,,NNBR
+100,,2018-09-17 16:06:00,2018-09-17,NNBR,Heiter Matthew S.,"SVP, GC",P - Purchase,$15.99,2150,18184,+13%,"+$34,379",,,,,NNBR
+101,,2018-09-17 16:05:34,2018-09-14,NNBR,Holder Richard D,"Pres, CEO",P - Purchase,$16.04,3100,173401,+2%,"+$49,724",,,,,NNBR
+102,,2018-09-14 16:05:58,2018-09-13,NNBR,Floyd David,Dir,P - Purchase,$16.07,1200,15573,+8%,"+$19,284",,,,,NNBR
+103,D,2018-05-02 19:45:51,2018-04-30,NNBR,Atkinson James Robert,"EVP, Life Sciences",A - Grant,$0.00,990,9412,+12%,+$0,,,,,NNBR
+104,D,2018-05-02 19:45:51,2018-04-30,NNBR,Atkinson James Robert,"EVP, Life Sciences",F - Tax,$20.30,-460,9412,-5%,"-$9,338",,,,,NNBR
+105,D,2018-05-02 19:45:51,2018-04-30,NNBR,Atkinson James Robert,"EVP, Life Sciences",M - OptEx,$0.00,679,9412,+8%,+$0,,,,,NNBR
+106,,2018-05-02 19:44:24,2018-04-30,NNBR,Qualters Christopher J.,"EVP, Power Solutions",F - Tax,$20.30,-190,13304,-1%,"-$3,857",,,,,NNBR
+107,D,2018-05-02 19:43:45,2018-04-30,NNBR,Burwell Thomas C. Jr.,See Remarks,A - Grant,$0.00,2258,39329,+6%,+$0,,,,,NNBR
+108,D,2018-05-02 19:43:45,2018-04-30,NNBR,Burwell Thomas C. Jr.,See Remarks,F - Tax,$20.30,-1050,39329,-3%,"-$21,315",,,,,NNBR
+109,D,2018-05-02 19:43:45,2018-04-30,NNBR,Burwell Thomas C. Jr.,See Remarks,M - OptEx,$0.00,1549,39329,+4%,+$0,,,,,NNBR
+110,D,2018-05-02 19:42:08,2018-04-30,NNBR,Nixon D. Gail,See Remarks,A - Grant,$0.00,1958,19600,+11%,+$0,,,,,NNBR
+111,D,2018-05-02 19:42:08,2018-04-30,NNBR,Nixon D. Gail,See Remarks,F - Tax,$20.30,-911,19600,-4%,"-$18,493",,,,,NNBR
+112,D,2018-05-02 19:42:08,2018-04-30,NNBR,Nixon D. Gail,See Remarks,M - OptEx,$0.00,1343,19600,+7%,+$0,,,,,NNBR
+113,D,2018-05-02 19:40:05,2018-04-30,NNBR,Veltman Warren A,"EVP, Mobile Solutions",A - Grant,$0.00,5074,29921,+20%,+$0,,,,,NNBR
+114,D,2018-05-02 19:40:05,2018-04-30,NNBR,Veltman Warren A,"EVP, Mobile Solutions",F - Tax,$20.30,-2775,29921,-8%,"-$56,333",,,,,NNBR
+115,D,2018-05-02 19:40:05,2018-04-30,NNBR,Veltman Warren A,"EVP, Mobile Solutions",M - OptEx,$0.00,3480,29921,+13%,+$0,,,,,NNBR
+116,D,2018-05-02 19:38:42,2018-04-30,NNBR,Holder Richard D,"Pres, CEO",A - Grant,$0.00,21509,170301,+14%,+$0,,,,,NNBR
+117,D,2018-05-02 19:38:42,2018-04-30,NNBR,Holder Richard D,"Pres, CEO",F - Tax,$20.30,-10019,170301,-6%,"-$203,386",,,,,NNBR
+118,D,2018-05-02 19:38:42,2018-04-30,NNBR,Holder Richard D,"Pres, CEO",M - OptEx,$0.00,14752,170301,+9%,+$0,,,,,NNBR
+119,,2018-03-21 18:44:07,2018-03-19,NNBR,Holder Richard D,"Pres, CEO",F - Tax,$24.80,-811,144059,-1%,"-$20,113",,,,,NNBR
+120,,2018-03-21 18:41:56,2018-03-19,NNBR,Atkinson James Robert,"EVP, Life Sciences",F - Tax,$24.80,-98,8203,-1%,"-$2,430",,,,,NNBR
+121,,2018-03-21 18:38:10,2018-03-19,NNBR,Burwell Thomas C. Jr.,See Remarks,F - Tax,$24.80,-195,36572,-1%,"-$4,836",,,,,NNBR
+122,,2018-03-21 18:37:50,2018-03-19,NNBR,Nixon D. Gail,See Remarks,F - Tax,$24.80,-187,17210,-1%,"-$4,638",,,,,NNBR
+123,,2018-03-21 18:37:48,2018-03-19,NNBR,Veltman Warren A,"EVP, Mobile Solutions",F - Tax,$24.80,-184,24142,-1%,"-$4,563",,,,,NNBR
+124,M,2018-03-20 18:22:23,2018-03-16,NNBR,Heiter Matthew S.,"SVP, GC",F - Tax,$25.15,-1052,16034,-6%,"-$26,458",,,,,NNBR
+125,M,2018-03-20 18:21:49,2018-03-16,NNBR,Holder Richard D,"Pres, CEO",F - Tax,$25.15,-4944,144870,-3%,"-$124,342",,,,,NNBR
+126,M,2018-03-20 18:21:19,2018-03-16,NNBR,Burwell Thomas C. Jr.,See Remarks,F - Tax,$25.15,-695,36767,-2%,"-$17,479",,,,,NNBR
+127,M,2018-03-20 18:19:19,2018-03-16,NNBR,Qualters Christopher J.,"EVP, Power Solutions",F - Tax,$25.15,-776,13494,-5%,"-$19,516",,,,,NNBR
+128,M,2018-03-20 18:18:20,2018-03-16,NNBR,Atkinson James Robert,"EVP, Life Sciences",F - Tax,$25.15,-440,8301,-5%,"-$11,066",,,,,NNBR
+129,M,2018-03-20 18:18:12,2018-03-16,NNBR,Nixon D. Gail,See Remarks,F - Tax,$25.15,-539,17397,-3%,"-$13,556",,,,,NNBR
+130,M,2018-03-20 18:17:41,2018-03-16,NNBR,Veltman Warren A,"EVP, Mobile Solutions",F - Tax,$25.15,-1251,24326,-5%,"-$31,463",,,,,NNBR
+131,D,2018-03-16 19:42:47,2018-03-14,NNBR,Qualters Christopher J.,"EVP, Power Solutions",A - Grant,$0.00,3523,14270,+33%,+$0,,,,,NNBR
+132,D,2018-03-16 19:41:18,2018-03-14,NNBR,Burwell Thomas C. Jr.,See Remarks,A - Grant,$0.00,4081,37462,+12%,+$0,,,,,NNBR
+133,D,2018-03-16 19:37:27,2018-03-14,NNBR,Nixon D. Gail,See Remarks,A - Grant,$0.00,2161,17936,+14%,+$0,,,,,NNBR
+134,,2018-03-16 19:37:13,2018-03-14,NNBR,Floyd David,Dir,A - Grant,$0.00,4073,14373,+40%,+$0,,,,,NNBR
+135,D,2018-03-16 19:36:31,2018-03-14,NNBR,Heiter Matthew S.,"SVP, GC",A - Grant,$0.00,3908,17086,+30%,+$0,,,,,NNBR
+136,,2018-03-16 19:34:50,2018-03-14,NNBR,Warshaw Steven T,Dir,A - Grant,$0.00,4073,60805,+7%,+$0,,,,,NNBR
+137,D,2018-03-16 19:31:22,2018-03-14,NNBR,Holder Richard D,"Pres, CEO",A - Grant,$0.00,30549,149814,+26%,+$0,,,,,NNBR
+138,,2018-03-16 19:30:48,2018-03-14,NNBR,Brunner Robert E,Dir,A - Grant,$0.00,4073,29605,+16%,+$0,,,,,NNBR
+139,,2018-03-16 19:30:35,2018-03-14,NNBR,Pugh David L,Dir,A - Grant,$0.00,4073,87905,+5%,+$0,,,,,NNBR
+140,,2018-03-16 19:25:33,2018-03-14,NNBR,Dries William,Dir,A - Grant,$0.00,4073,32905,+14%,+$0,,,,,NNBR
+141,,2018-03-16 19:23:38,2018-03-14,NNBR,Smith Carey A.,Dir,A - Grant,$0.00,4073,6331,+180%,+$0,,,,,NNBR
+142,D,2018-03-16 19:22:18,2018-03-14,NNBR,Atkinson James Robert,"EVP, Life Sciences",A - Grant,$0.00,3000,8741,+52%,+$0,,,,,NNBR
+143,D,2018-03-16 19:21:39,2018-03-14,NNBR,Veltman Warren A,"EVP, Mobile Solutions",A - Grant,$0.00,4149,25577,+19%,+$0,,,,,NNBR
+144,,2017-12-05 16:05:45,2017-12-01,NNBR,Floyd David,Dir,P - Purchase,$26.98,1865,10300,+22%,"+$50,318",,,,,NNBR
+145,,2017-11-22 16:07:19,2017-10-20,NNBR,Qualters Christopher J.,"VP, Chief Commercial Officer",F - Tax,$30.70,-316,10747,-3%,"-$9,701",,,,,NNBR
+146,,2017-11-22 16:05:32,2017-10-20,NNBR,Veltman Warren A,"SVP, GM Autocam Precision Comp",F - Tax,$30.70,-483,21428,-2%,"-$14,828",,,,,NNBR
+147,D,2017-10-27 16:05:30,2017-10-25,NNBR,Burwell Thomas C. Jr.,See Remarks,M - OptEx,$8.86,2000,33381,+6%,"+$17,720",,,,,NNBR
+148,D,2017-10-27 16:05:30,2017-10-25,NNBR,Burwell Thomas C. Jr.,See Remarks,S - Sale+OE,$32.00,-2000,33381,-6%,"-$64,000",,,,,NNBR
+149,DM,2017-09-19 16:05:44,2017-09-18,NNBR,Warshaw Steven T,Dir,M - OptEx,$9.36,3000,56732,+6%,"+$28,080",,,,,NNBR
+150,DM,2017-09-19 16:05:44,2017-09-18,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$27.78,-3000,56732,-5%,"-$83,350",,,,,NNBR
+151,DM,2017-09-18 16:05:58,2017-09-15,NNBR,Burwell Thomas C. Jr.,See Remarks,M - OptEx,$9.36,6000,33381,+22%,"+$56,160",,,,,NNBR
+152,DM,2017-09-18 16:05:58,2017-09-15,NNBR,Burwell Thomas C. Jr.,See Remarks,S - Sale+OE,$27.38,-6000,33381,-15%,"-$164,265",,,,,NNBR
+153,DM,2017-09-15 17:13:20,2017-09-14,NNBR,Warshaw Steven T,Dir,M - OptEx,$9.36,5000,56732,+10%,"+$46,800",,,,,NNBR
+154,DM,2017-09-15 17:13:20,2017-09-14,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$27.08,-5000,56732,-8%,"-$135,390",,,,,NNBR
+155,,2017-05-23 16:07:13,2017-05-19,NNBR,Smith Carey A.,Dir,A - Grant,$0.00,2258,2258,New,+$0,,,,,NNBR
+156,,2017-05-02 16:06:44,2017-04-28,NNBR,Burwell Thomas C. Jr.,See Remarks,F - Tax,$27.60,-128,33381,0%,"-$3,533",-1.0,11.0,,,NNBR
+157,,2017-05-02 16:06:06,2017-04-28,NNBR,Widders James R.,"SVP, Integration, Corp.",F - Tax,$27.60,-238,30295,-1%,"-$6,569",-1.0,11.0,,,NNBR
+158,,2017-05-02 16:05:42,2017-04-28,NNBR,Manzagol L Jeffrey,"SVP, GM-Precision Bearings Com",F - Tax,$27.60,-288,23767,-1%,"-$7,949",-1.0,11.0,,,NNBR
+159,,2017-05-02 16:05:36,2017-04-28,NNBR,Atkinson James Robert,See Remarks,F - Tax,$27.60,-56,5741,-1%,"-$1,546",-1.0,11.0,,,NNBR
+160,,2017-05-02 16:05:33,2017-04-28,NNBR,Holder Richard D,"Pres, CEO",F - Tax,$27.60,-1222,119265,-1%,"-$33,727",-1.0,11.0,,,NNBR
+161,,2017-05-02 16:05:30,2017-04-28,NNBR,Veltman Warren A,"SVP, GM Autocam Precision Comp",F - Tax,$27.60,-288,21911,-1%,"-$7,949",-1.0,11.0,,,NNBR
+162,,2017-03-20 20:35:09,2017-03-17,NNBR,Pugh David L,Dir,A - Grant,$0.00,4132,83832,+5%,+$0,-3.0,-2.0,4.0,,NNBR
+163,D,2017-03-20 20:32:28,2017-03-17,NNBR,Atkinson James Robert,See Remarks,A - Grant,$0.00,1515,5797,+35%,+$0,-3.0,-2.0,4.0,,NNBR
+164,DM,2017-03-20 20:32:28,2017-03-16,NNBR,Atkinson James Robert,See Remarks,F - Tax,$22.97,-328,5797,-5%,"-$7,533",-3.0,-2.0,4.0,,NNBR
+165,D,2017-03-20 20:31:50,2017-03-17,NNBR,Heiter Matthew S.,"SVP, GC",A - Grant,$0.00,3849,13178,+41%,+$0,-3.0,-2.0,4.0,,NNBR
+166,D,2017-03-20 20:31:50,2017-03-16,NNBR,Heiter Matthew S.,"SVP, GC",F - Tax,$22.55,-666,13178,-5%,"-$15,018",-3.0,-2.0,4.0,,NNBR
+167,,2017-03-20 20:31:15,2017-03-17,NNBR,Floyd David,Dir,A - Grant,$0.00,4132,8435,+96%,+$0,-3.0,-2.0,4.0,,NNBR
+168,,2017-03-20 20:31:00,2017-03-17,NNBR,Dries William,Dir,A - Grant,$0.00,4132,28832,+17%,+$0,-3.0,-2.0,4.0,,NNBR
+169,D,2017-03-20 20:30:55,2017-03-17,NNBR,Widders James R.,"SVP, Integration, Corp.",A - Grant,$0.00,3222,30533,+12%,+$0,-3.0,-2.0,4.0,,NNBR
+170,DM,2017-03-20 20:30:55,2017-03-16,NNBR,Widders James R.,"SVP, Integration, Corp.",F - Tax,$23.46,-1240,30533,-4%,"-$29,087",-3.0,-2.0,4.0,,NNBR
+171,D,2017-03-20 20:29:59,2017-03-17,NNBR,Manzi John,"SVP, GM-Precision Eng. Product",A - Grant,$0.00,3828,11152,+52%,+$0,-3.0,-2.0,4.0,,NNBR
+172,D,2017-03-20 20:29:59,2017-03-16,NNBR,Manzi John,"SVP, GM-Precision Eng. Product",F - Tax,$22.55,-666,11152,-6%,"-$15,018",-3.0,-2.0,4.0,,NNBR
+173,,2017-03-20 20:27:40,2017-03-17,NNBR,Warshaw Steven T,Dir,A - Grant,$0.00,4132,56732,+8%,+$0,-3.0,-2.0,4.0,,NNBR
+174,D,2017-03-20 20:26:43,2017-03-17,NNBR,Veltman Warren A,"SVP, GM Autocam Precision Comp",A - Grant,$0.00,4047,22199,+22%,+$0,-3.0,-2.0,4.0,,NNBR
+175,DM,2017-03-20 20:26:43,2017-03-16,NNBR,Veltman Warren A,"SVP, GM Autocam Precision Comp",F - Tax,$22.87,-853,22199,-4%,"-$19,509",-3.0,-2.0,4.0,,NNBR
+176,,2017-03-20 20:26:31,2017-03-17,NNBR,Brunner Robert E,Dir,A - Grant,$0.00,4132,25532,+19%,+$0,-3.0,-2.0,4.0,,NNBR
+177,D,2017-03-20 20:25:45,2017-03-17,NNBR,Burwell Thomas C. Jr.,See Remarks,A - Grant,$0.00,3418,33509,+11%,+$0,-3.0,-2.0,4.0,,NNBR
+178,DM,2017-03-20 20:25:45,2017-03-16,NNBR,Burwell Thomas C. Jr.,See Remarks,F - Tax,$23.63,-953,33509,-3%,"-$22,520",-3.0,-2.0,4.0,,NNBR
+179,D,2017-03-20 20:25:07,2017-03-17,NNBR,Holder Richard D,"Pres, CEO",A - Grant,$0.00,24793,120487,+26%,+$0,-3.0,-2.0,4.0,,NNBR
+180,DM,2017-03-20 20:25:07,2017-03-16,NNBR,Holder Richard D,"Pres, CEO",F - Tax,$23.36,-5926,120487,-5%,"-$138,443",-3.0,-2.0,4.0,,NNBR
+181,D,2017-03-20 20:23:35,2017-03-17,NNBR,Manzagol L Jeffrey,"SVP, GM-Precision Bearings Com",A - Grant,$0.00,3836,24055,+19%,+$0,-3.0,-2.0,4.0,,NNBR
+182,DM,2017-03-20 20:23:35,2015-11-06,NNBR,Manzagol L Jeffrey,"SVP, GM-Precision Bearings Com",F - Tax,$19.30,-1525,24055,-6%,"-$29,433",-3.0,-2.0,4.0,,NNBR
+183,D,2017-03-20 20:23:35,2015-03-20,NNBR,Manzagol L Jeffrey,"SVP, GM-Precision Bearings Com",P - Purchase,$23.56,1500,24055,+7%,"+$35,340",-3.0,-2.0,4.0,,NNBR
+184,D,2017-01-27 16:05:28,2017-01-25,NNBR,Warshaw Steven T,Dir,M - OptEx,$12.12,7500,52600,+17%,"+$90,900",-3.0,-6.0,2.0,,NNBR
+185,D,2017-01-27 16:05:28,2017-01-25,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$20.01,-7500,52600,-12%,"-$150,075",-3.0,-6.0,2.0,,NNBR
+186,,2016-11-08 17:49:03,2016-11-06,NNBR,Manzagol L Jeffrey,"SVP, GM-Precision Bearings Com",F - Tax,$13.65,-441,20244,-2%,"-$6,020",6.0,13.0,25.0,107.0,NNBR
+187,,2016-11-08 17:49:03,2016-11-07,NNBR,Manzagol L Jeffrey,"SVP, GM-Precision Bearings Com",P - Purchase,$14.55,1000,20244,+5%,"+$14,550",6.0,13.0,25.0,107.0,NNBR
+188,,2016-11-04 17:02:47,2016-06-03,NNBR,Holder Richard D,"Pres, CEO",F - Tax,$17.91,-2083,101620,-2%,"-$37,307",5.0,20.0,27.0,120.0,NNBR
+189,,2016-08-23 17:44:53,2016-08-19,NNBR,Floyd David,Dir,P - Purchase,$16.99,1458,4303,+51%,"+$24,771",-2.0,4.0,2.0,17.0,NNBR
+190,D,2016-06-23 15:19:50,2016-06-22,NNBR,Warshaw Steven T,Dir,M - OptEx,$11.50,4000,52600,+8%,"+$46,000",4.0,-22.0,-8.0,8.0,NNBR
+191,D,2016-06-22 19:13:35,2016-06-20,NNBR,Warshaw Steven T,Dir,M - OptEx,$11.50,1000,48600,+2%,"+$11,500",4.0,-22.0,-8.0,7.0,NNBR
+192,D,2016-06-22 19:13:35,2016-06-20,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$18.49,-1000,48600,-2%,"-$18,490",4.0,-22.0,-8.0,7.0,NNBR
+193,D,2016-06-14 17:30:19,2016-06-13,NNBR,Morris G Ronald,Dir,M - OptEx,$11.50,7500,108100,+7%,"+$86,250",2.0,4.0,-15.0,5.0,NNBR
+194,AD,2016-06-10 17:02:57,2016-06-07,NNBR,Warshaw Steven T,Dir,M - OptEx,$11.50,2500,48600,+5%,"+$28,750",-2.0,-3.0,-19.0,0.0,NNBR
+195,AD,2016-06-10 17:02:57,2016-06-07,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$19.02,-2500,48600,-5%,"-$47,550",-2.0,-3.0,-19.0,0.0,NNBR
+196,,2016-06-08 17:49:01,2016-06-07,NNBR,Warshaw Steven T,Dir,S - Sale,$19.02,-2500,46100,-5%,"-$47,550",-5.0,-8.0,-29.0,-9.0,NNBR
+197,,2016-05-13 17:37:47,2016-05-12,NNBR,Floyd David,Dir,A - Grant,$0.00,2845,2845,New,+$0,0.0,-3.0,13.0,-1.0,NNBR
+198,,2016-03-30 17:41:34,2016-03-29,NNBR,Widders James R.,"SVP, Integration, Corp",F - Tax,$12.94,-1073,28551,-4%,"-$13,885",4.0,3.0,26.0,32.0,NNBR
+199,,2016-03-30 17:39:15,2016-03-29,NNBR,Dorton James Harold,"SVP, CFO",F - Tax,$12.94,-1483,60973,-2%,"-$19,190",4.0,3.0,26.0,32.0,NNBR
+200,,2016-03-30 17:36:05,2016-03-29,NNBR,Holder Richard D,"Pres, CEO",F - Tax,$12.94,-2916,103703,-3%,"-$37,733",4.0,3.0,26.0,32.0,NNBR
+201,,2016-03-30 17:31:31,2016-03-29,NNBR,Manzagol L Jeffrey,"SVP, GM-Precision Bearings Com",F - Tax,$12.94,-125,19685,-1%,"-$1,618",4.0,3.0,26.0,32.0,NNBR
+202,,2016-03-18 18:44:36,2016-03-16,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer, Secty",A - Grant,$0.00,3800,37514,+11%,+$0,2.0,-1.0,16.0,44.0,NNBR
+203,D,2016-03-18 18:18:04,2016-03-16,NNBR,Manzi John,"SVP, GM-Precision Eng. Product",A - Grant,$0.00,7990,7990,New,+$0,2.0,-1.0,16.0,44.0,NNBR
+204,D,2016-03-18 18:16:02,2016-03-16,NNBR,Heiter Matthew S.,"SVP, GC",A - Grant,$0.00,7995,9995,+400%,+$0,2.0,-1.0,16.0,44.0,NNBR
+205,D,2016-03-18 17:58:02,2016-03-16,NNBR,Burwell Thomas C. Jr.,"VP-CAO, Corporate Controlle",A - Grant,$0.00,3945,31044,+15%,+$0,2.0,-1.0,16.0,44.0,NNBR
+206,D,2016-03-18 17:55:51,2016-03-16,NNBR,Widders James R.,"SVP, Integration, Corp",A - Grant,$0.00,6695,29624,+29%,+$0,2.0,-1.0,16.0,44.0,NNBR
+207,D,2016-03-18 17:54:33,2016-03-16,NNBR,Veltman Warren A,"SVP, GM Autocam Precision Comp",A - Grant,$0.00,8245,19005,+77%,+$0,2.0,-1.0,16.0,44.0,NNBR
+208,D,2016-03-18 17:53:21,2016-03-16,NNBR,Manzagol L Jeffrey,"SVP, GM-Precision Bearings Com",A - Grant,$0.00,8050,19810,+68%,+$0,2.0,-1.0,16.0,44.0,NNBR
+209,D,2016-03-18 17:52:18,2016-03-16,NNBR,Dorton James Harold,"SVP, CFO",A - Grant,$0.00,8850,62456,+17%,+$0,2.0,-1.0,16.0,44.0,NNBR
+210,D,2016-03-18 17:51:10,2016-03-16,NNBR,Holder Richard D,"Pres, CEO",A - Grant,$0.00,36120,106619,+51%,+$0,2.0,-1.0,16.0,44.0,NNBR
+211,,2016-03-18 17:49:55,2016-03-16,NNBR,Brunner Robert E,Dir,A - Grant,$0.00,6200,21400,+41%,+$0,2.0,-1.0,16.0,44.0,NNBR
+212,,2016-03-18 17:48:54,2016-03-16,NNBR,Dries William,Dir,A - Grant,$0.00,6200,24700,+34%,+$0,2.0,-1.0,16.0,44.0,NNBR
+213,,2016-03-18 17:47:53,2016-03-16,NNBR,Warshaw Steven T,Dir,A - Grant,$0.00,6200,48600,+15%,+$0,2.0,-1.0,16.0,44.0,NNBR
+214,,2016-03-18 17:46:27,2016-03-16,NNBR,Pugh David L,Dir,A - Grant,$0.00,6200,79700,+8%,+$0,2.0,-1.0,16.0,44.0,NNBR
+215,,2016-03-18 17:45:15,2016-03-16,NNBR,Morris G Ronald,Dir,A - Grant,$0.00,6200,100600,+7%,+$0,2.0,-1.0,16.0,44.0,NNBR
+216,,2016-03-14 17:06:44,2016-03-11,NNBR,Morris G Ronald,Dir,P - Purchase,$11.77,10000,94400,+12%,"+$117,700",0.0,13.0,13.0,60.0,NNBR
+217,M,2015-12-01 17:41:46,2015-11-30,NNBR,Pugh David L,Dir,P - Purchase,$17.04,46580,73500,+173%,"+$793,923",5.0,-1.0,-7.0,4.0,NNBR
+218,,2015-11-25 16:55:10,2015-11-25,NNBR,Heiter Matthew S.,"SVP, GC",P - Purchase,$16.39,50,2000,+3%,+$820,2.0,9.0,-2.0,-7.0,NNBR
+219,M,2015-11-25 16:42:06,2015-11-23,NNBR,Pugh David L,Dir,P - Purchase,$16.25,12720,26920,+90%,"+$206,641",2.0,9.0,-2.0,-7.0,NNBR
+220,,2015-11-13 16:34:13,2015-11-12,NNBR,Morris G Ronald,Dir,P - Purchase,$15.19,5000,84400,+6%,"+$75,950",3.0,4.0,4.0,3.0,NNBR
+221,,2015-11-12 17:01:05,2015-11-12,NNBR,Heiter Matthew S.,"SVP, GC",P - Purchase,$14.93,1950,1950,New,"+$29,114",1.0,3.0,8.0,5.0,NNBR
+222,,2015-06-05 17:05:21,2015-06-03,NNBR,Holder Richard D,"Pres, CEO",F - Tax,$28.13,-2083,70499,-3%,"-$58,595",0.0,5.0,-5.0,-34.0,NNBR
+223,D,2015-06-02 19:32:52,2015-06-01,NNBR,Warshaw Steven T,Dir,M - OptEx,$11.61,2000,42400,+5%,"+$23,220",1.0,-2.0,-8.0,-40.0,NNBR
+224,D,2015-06-02 19:32:52,2015-06-01,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$27.55,-2000,42400,-5%,"-$55,100",1.0,-2.0,-8.0,-40.0,NNBR
+225,D,2015-05-21 19:33:35,2015-05-20,NNBR,Morris G Ronald,Dir,M - OptEx,$11.61,10000,79400,+14%,"+$116,100",-1.0,1.0,0.0,-41.0,NNBR
+226,D,2015-05-20 17:06:34,2015-05-19,NNBR,Werner Michael E,Dir,M - OptEx,$11.61,10000,31620,+46%,"+$116,100",-1.0,0.0,9.0,-41.0,NNBR
+227,D,2015-05-20 17:06:34,2015-05-19,NNBR,Werner Michael E,Dir,S - Sale+OE,$27.74,-10000,31620,-24%,"-$277,400",-1.0,0.0,9.0,-41.0,NNBR
+228,D,2015-05-20 17:04:26,2015-05-18,NNBR,Warshaw Steven T,Dir,M - OptEx,$11.61,2000,42400,+5%,"+$23,220",-1.0,0.0,9.0,-41.0,NNBR
+229,D,2015-05-20 17:04:26,2015-05-18,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$28.88,-2000,42400,-5%,"-$57,760",-1.0,0.0,9.0,-41.0,NNBR
+230,DM,2015-05-18 17:39:16,2015-05-14,NNBR,Warshaw Steven T,Dir,M - OptEx,$11.61,3000,42400,+8%,"+$34,830",-3.0,-7.0,0.0,-48.0,NNBR
+231,DM,2015-05-18 17:39:16,2015-05-14,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$27.89,-3000,42400,-7%,"-$83,660",-3.0,-7.0,0.0,-48.0,NNBR
+232,D,2015-05-14 16:54:34,2015-05-11,NNBR,Warshaw Steven T,Dir,M - OptEx,$11.61,1000,42400,+2%,"+$11,610",1.0,-2.0,3.0,-45.0,NNBR
+233,D,2015-05-14 16:54:34,2015-05-11,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$27.10,-1000,42400,-2%,"-$27,100",1.0,-2.0,3.0,-45.0,NNBR
+234,A,2015-05-11 19:01:40,2015-03-19,NNBR,Pugh David L,Dir,A - Grant,$0.00,4800,15200,+46%,+$0,2.0,5.0,6.0,-39.0,NNBR
+235,A,2015-05-11 19:00:47,2015-03-19,NNBR,Warshaw Steven T,Dir,A - Grant,$0.00,4800,42400,+13%,+$0,2.0,5.0,6.0,-39.0,NNBR
+236,A,2015-05-11 18:59:14,2015-03-19,NNBR,Morris G Ronald,Dir,A - Grant,$0.00,4800,70400,+7%,+$0,2.0,5.0,6.0,-39.0,NNBR
+237,A,2015-05-11 18:58:12,2015-03-19,NNBR,Kennedy John C,Dir,A - Grant,$0.00,4200,1093276,0%,+$0,2.0,5.0,6.0,-39.0,NNBR
+238,A,2015-05-11 18:57:24,2015-03-19,NNBR,Werner Michael E,Dir,A - Grant,$0.00,4800,32620,+17%,+$0,2.0,5.0,6.0,-39.0,NNBR
+239,A,2015-05-11 18:56:14,2015-03-19,NNBR,Dries William,Dir,A - Grant,$0.00,4500,18500,+32%,+$0,2.0,5.0,6.0,-39.0,NNBR
+240,A,2015-05-11 18:55:03,2015-03-19,NNBR,Brunner Robert E,Dir,A - Grant,$0.00,4800,15200,+46%,+$0,2.0,5.0,6.0,-39.0,NNBR
+241,D,2015-05-04 19:41:25,2015-04-30,NNBR,Manzagol L Jeffrey,"SVP, GM-Metal Bearings Comp Gr",A - Grant,$0.00,3460,11760,+42%,+$0,-1.0,4.0,8.0,-48.0,NNBR
+242,D,2015-05-04 19:40:42,2015-04-30,NNBR,Widders James R.,"VP, GM, Precision Metal Compon",A - Grant,$0.00,2850,22929,+14%,+$0,-1.0,4.0,8.0,-48.0,NNBR
+243,D,2015-05-04 19:39:43,2015-04-30,NNBR,Burwell Thomas C. Jr.,"VP, Controller, Chief AcctOffi",A - Grant,$0.00,1540,27099,+6%,+$0,-1.0,4.0,8.0,-48.0,NNBR
+244,D,2015-05-04 19:38:22,2015-04-30,NNBR,Veltman Warren A,"SVP, GM Autocam Precision Comp",A - Grant,$0.00,3460,10760,+47%,+$0,-1.0,4.0,8.0,-48.0,NNBR
+245,D,2015-05-04 19:35:43,2015-04-30,NNBR,Holder Richard D,"Pres, CEO",A - Grant,$0.00,14665,72582,+25%,+$0,-1.0,4.0,8.0,-48.0,NNBR
+246,D,2015-05-04 19:34:29,2015-04-30,NNBR,Dorton James Harold,"SVP, CFO",A - Grant,$0.00,3865,53606,+8%,+$0,-1.0,4.0,8.0,-48.0,NNBR
+247,D,2015-05-04 19:33:03,2015-04-30,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",A - Grant,$0.00,1655,33714,+5%,+$0,-1.0,4.0,8.0,-48.0,NNBR
+248,D,2015-04-17 17:41:49,2015-04-15,NNBR,Dorton James Harold,"SVP, CFO",M - OptEx,$11.61,5000,49741,+11%,"+$58,050",0.0,3.0,14.0,-22.0,NNBR
+249,D,2015-04-17 17:41:49,2015-04-15,NNBR,Dorton James Harold,"SVP, CFO",S - Sale+OE,$26.00,-5000,49741,-9%,"-$130,000",0.0,3.0,14.0,-22.0,NNBR
+250,,2015-03-30 19:34:38,2015-03-27,NNBR,Holder Richard D,"Pres, CEO",F - Tax,$24.51,-2083,57917,-3%,"-$51,054",1.0,-3.0,5.0,-22.0,NNBR
+251,,2015-03-30 19:32:42,2015-03-27,NNBR,Dorton James Harold,"SVP, CFO",F - Tax,$24.51,-1634,49741,-3%,"-$40,049",1.0,-3.0,5.0,-22.0,NNBR
+252,,2015-03-30 19:30:55,2015-03-27,NNBR,Widders James R.,"VP, GM, Precision Metal Compon",F - Tax,$24.51,-1200,20709,-5%,"-$29,412",1.0,-3.0,5.0,-22.0,NNBR
+253,D,2015-03-25 18:26:50,2015-03-23,NNBR,Warshaw Steven T,Dir,M - OptEx,$11.61,2000,42400,+5%,"+$23,220",-2.0,2.0,2.0,-15.0,NNBR
+254,D,2015-03-25 18:26:50,2015-03-23,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$24.15,-2000,42400,-5%,"-$48,300",-2.0,2.0,2.0,-15.0,NNBR
+255,DM,2015-03-25 18:25:44,2015-03-23,NNBR,Dorton James Harold,"SVP, CFO",M - OptEx,$11.61,10000,51375,+24%,"+$116,100",-2.0,2.0,2.0,-15.0,NNBR
+256,DM,2015-03-25 18:25:44,2015-03-23,NNBR,Dorton James Harold,"SVP, CFO",S - Sale+OE,$24.23,-8000,51375,-13%,"-$193,840",-2.0,2.0,2.0,-15.0,NNBR
+257,A,2015-03-25 18:24:44,2015-03-19,NNBR,Pugh David L,Dir,A - Grant,$0.00,4800,15200,+46%,+$0,-2.0,2.0,2.0,-15.0,NNBR
+258,A,2015-03-25 18:21:59,2015-03-19,NNBR,Dries William,Dir,A - Grant,$0.00,4500,18500,+32%,+$0,-2.0,2.0,2.0,-15.0,NNBR
+259,A,2015-03-25 18:21:15,2015-03-19,NNBR,Morris G Ronald,Dir,A - Grant,$0.00,4800,70400,+7%,+$0,-2.0,2.0,2.0,-15.0,NNBR
+260,A,2015-03-25 18:20:01,2015-03-19,NNBR,Warshaw Steven T,Dir,A - Grant,$0.00,4800,42400,+13%,+$0,-2.0,2.0,2.0,-15.0,NNBR
+261,A,2015-03-25 18:19:12,2015-03-19,NNBR,Werner Michael E,Dir,A - Grant,$0.00,4800,32620,+17%,+$0,-2.0,2.0,2.0,-15.0,NNBR
+262,A,2015-03-25 18:18:11,2015-03-19,NNBR,Brunner Robert E,Dir,A - Grant,$0.00,4800,15200,+46%,+$0,-2.0,2.0,2.0,-15.0,NNBR
+263,A,2015-03-25 18:15:27,2015-03-19,NNBR,Kennedy John C,Dir,A - Grant,$0.00,4200,1093276,0%,+$0,-2.0,2.0,2.0,-15.0,NNBR
+264,,2015-03-23 18:06:36,2015-03-19,NNBR,Werner Michael E,Dir,A - Grant,$0.00,3800,31620,+14%,+$0,2.0,1.0,2.0,-12.0,NNBR
+265,,2015-03-23 18:05:03,2015-03-19,NNBR,Morris G Ronald,Dir,A - Grant,$0.00,3800,69400,+6%,+$0,2.0,1.0,2.0,-12.0,NNBR
+266,,2015-03-23 18:03:38,2015-03-19,NNBR,Warshaw Steven T,Dir,A - Grant,$0.00,3800,41400,+10%,+$0,2.0,1.0,2.0,-12.0,NNBR
+267,,2015-03-23 18:02:26,2015-03-19,NNBR,Pugh David L,Dir,A - Grant,$0.00,3800,14200,+37%,+$0,2.0,1.0,2.0,-12.0,NNBR
+268,,2015-03-23 18:01:07,2015-03-19,NNBR,Brunner Robert E,Dir,A - Grant,$0.00,3800,14200,+37%,+$0,2.0,1.0,2.0,-12.0,NNBR
+269,,2015-03-23 17:59:43,2015-03-19,NNBR,Kennedy John C,Dir,A - Grant,$0.00,3800,1092876,0%,+$0,2.0,1.0,2.0,-12.0,NNBR
+270,,2015-03-23 17:58:20,2015-03-19,NNBR,Dries William,Dir,A - Grant,$0.00,3800,17800,+27%,+$0,2.0,1.0,2.0,-12.0,NNBR
+271,,2015-03-23 17:56:54,2015-03-19,NNBR,Burwell Thomas C. Jr.,"VP, Controller, Chief AcctOffi",A - Grant,$0.00,2500,25559,+11%,+$0,2.0,1.0,2.0,-12.0,NNBR
+272,,2015-03-23 17:51:39,2015-03-19,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",A - Grant,$0.00,2500,32059,+8%,+$0,2.0,1.0,2.0,-12.0,NNBR
+273,,2015-03-23 17:47:43,2015-03-19,NNBR,Dorton James Harold,SVP CFO,A - Grant,$0.00,4500,49375,+10%,+$0,2.0,1.0,2.0,-12.0,NNBR
+274,,2015-03-23 17:45:31,2015-03-19,NNBR,Veltman Warren A,"SVP, GM Autocam Precision Comp",A - Grant,$0.00,2000,7300,+38%,+$0,2.0,1.0,2.0,-12.0,NNBR
+275,,2015-03-23 17:42:00,2015-03-19,NNBR,Manzagol L Jeffrey,"SVP, GM-Metal Bearings Comp Gr",A - Grant,$0.00,1500,8300,+22%,+$0,2.0,1.0,2.0,-12.0,NNBR
+276,,2015-03-23 17:38:02,2015-03-19,NNBR,Widders James R.,"SVP-Integration, Corp Trans",A - Grant,$0.00,3200,21909,+17%,+$0,2.0,1.0,2.0,-12.0,NNBR
+277,,2015-03-23 17:32:48,2015-03-19,NNBR,Holder Richard D,"Pres, CEO",A - Grant,$0.00,10000,60000,+20%,+$0,2.0,1.0,2.0,-12.0,NNBR
+278,,2014-12-04 17:27:11,2014-12-02,NNBR,Morris G Ronald,Dir,P - Purchase,$20.36,5000,65600,+8%,"+$101,800",3.0,-6.0,1.0,38.0,NNBR
+279,M,2014-11-24 17:42:25,2014-11-21,NNBR,Dries William,Dir,P - Purchase,$20.13,10000,14000,+250%,"+$201,250",4.0,-1.0,-4.0,35.0,NNBR
+280,D,2014-10-21 17:33:42,2014-10-20,NNBR,Veltman Warren A,"SVP, GM Autocam Precision Comp",A - Grant,$0.00,5300,5300,New,+$0,-2.0,-4.0,-14.0,8.0,NNBR
+281,M,2014-09-18 17:53:09,2013-06-19,NNBR,Gentry Frank T,SVP - MD,G - Gift,$0.00,-53000,23600,-180%,-$0,-2.0,-10.0,-22.0,-21.0,NNBR
+282,M,2014-09-18 17:53:09,2014-09-16,NNBR,Gentry Frank T,SVP - MD,S - Sale,$28.13,-22500,23600,-49%,"-$632,825",-2.0,-10.0,-22.0,-21.0,NNBR
+283,,2014-09-11 16:55:29,2014-09-09,NNBR,Werner Michael E,Dir,S - Sale,$28.16,-2000,27820,-7%,"-$56,320",0.0,1.0,-17.0,-24.0,NNBR
+284,,2014-06-12 17:37:55,2014-06-11,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",S - Sale,$26.00,-12000,29399,-29%,"-$312,000",-2.0,-3.0,-6.0,-24.0,NNBR
+285,D,2014-06-04 17:29:57,2014-06-03,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$9.36,9000,41399,+28%,"+$84,240",1.0,1.0,3.0,-20.0,NNBR
+286,D,2014-06-04 17:29:57,2014-06-03,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",S - Sale+OE,$25.00,-13701,41399,-25%,"-$342,525",1.0,1.0,3.0,-20.0,NNBR
+287,D,2014-06-04 17:28:12,2014-06-03,NNBR,Burwell Thomas C. Jr.,"VP, Controller, Chief AcctOffi",M - OptEx,$12.12,6000,23059,+35%,"+$72,720",1.0,1.0,3.0,-20.0,NNBR
+288,D,2014-06-04 17:28:12,2014-06-03,NNBR,Burwell Thomas C. Jr.,"VP, Controller, Chief AcctOffi",S - Sale+OE,$25.00,-7000,23059,-23%,"-$175,000",1.0,1.0,3.0,-20.0,NNBR
+289,D,2014-05-19 17:07:33,2014-05-15,NNBR,Dries William,Dir,A - Grant,$22.49,4000,4000,New,"+$89,960",-3.0,2.0,9.0,-13.0,NNBR
+290,DM,2014-05-12 17:02:44,2014-05-09,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$11.81,18000,46100,+64%,"+$212,580",-3.0,-5.0,7.0,-8.0,NNBR
+291,DM,2014-05-12 17:02:44,2014-05-09,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",S - Sale+OE,$23.52,-22450,46100,-33%,"-$528,017",-3.0,-5.0,7.0,-8.0,NNBR
+292,D,2014-05-12 17:01:27,2014-05-09,NNBR,Burwell Thomas C. Jr.,"VP, Controller, Chief AcctOffi",M - OptEx,$11.50,3000,24059,+14%,"+$34,500",-3.0,-5.0,7.0,-8.0,NNBR
+293,D,2014-05-12 17:01:27,2014-05-09,NNBR,Burwell Thomas C. Jr.,"VP, Controller, Chief AcctOffi",S - Sale+OE,$22.50,-3000,24059,-11%,"-$67,500",-3.0,-5.0,7.0,-8.0,NNBR
+294,,2014-03-27 16:57:33,2014-03-25,NNBR,Dorton James Harold,SVP CFO,F - Tax,$19.27,-525,44875,-1%,"-$10,117",0.0,13.0,2.0,36.0,NNBR
+295,,2014-03-27 16:55:48,2014-03-25,NNBR,Widders James R.,VP - GM,F - Tax,$19.27,-391,18709,-2%,"-$7,535",0.0,13.0,2.0,36.0,NNBR
+296,D,2014-03-21 17:36:06,2014-03-19,NNBR,Widders James R.,VP - GM,A - Grant,$19.63,5000,19100,+35%,"+$98,150",0.0,-1.0,0.0,48.0,NNBR
+297,D,2014-03-21 17:35:16,2014-03-19,NNBR,Gentry Frank T,SVP - MD,A - Grant,$19.63,7000,46100,+18%,"+$137,410",0.0,-1.0,0.0,48.0,NNBR
+298,D,2014-03-21 17:34:23,2014-03-19,NNBR,Burwell Thomas C. Jr.,"VP, Controller, Chief AcctOffi",A - Grant,$19.63,5000,24059,+26%,"+$98,150",0.0,-1.0,0.0,48.0,NNBR
+299,D,2014-03-21 17:33:27,2014-03-19,NNBR,Dorton James Harold,SVP CFO,A - Grant,$19.63,7000,45400,+18%,"+$137,410",0.0,-1.0,0.0,48.0,NNBR
+300,D,2014-03-21 17:32:26,2014-03-19,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",A - Grant,$19.63,5000,50550,+11%,"+$98,150",0.0,-1.0,0.0,48.0,NNBR
+301,D,2014-03-21 17:31:33,2014-03-19,NNBR,Holder Richard D,"Pres, CEO",A - Grant,$19.63,25000,50000,+100%,"+$490,750",0.0,-1.0,0.0,48.0,NNBR
+302,D,2014-03-21 17:30:45,2014-03-19,NNBR,Brunner Robert E,Dir,A - Grant,$19.63,4000,10400,+63%,"+$78,520",0.0,-1.0,0.0,48.0,NNBR
+303,D,2014-03-21 17:29:57,2014-03-19,NNBR,Warshaw Steven T,Dir,A - Grant,$19.63,4000,37600,+12%,"+$78,520",0.0,-1.0,0.0,48.0,NNBR
+304,D,2014-03-21 17:28:26,2014-03-19,NNBR,Morris G Ronald,Dir,A - Grant,$19.63,4000,60600,+7%,"+$78,520",0.0,-1.0,0.0,48.0,NNBR
+305,D,2014-03-21 17:27:12,2014-03-19,NNBR,Pugh David L,Dir,A - Grant,$19.63,4000,10400,+63%,"+$78,520",0.0,-1.0,0.0,48.0,NNBR
+306,D,2014-03-21 17:25:47,2014-03-19,NNBR,Werner Michael E,Dir,A - Grant,$19.63,4000,29820,+15%,"+$78,520",0.0,-1.0,0.0,48.0,NNBR
+307,D,2014-02-24 16:45:13,2014-02-21,NNBR,Morris G Ronald,Dir,M - OptEx,$12.62,10000,56600,+21%,"+$126,200",-2.0,2.0,3.0,51.0,NNBR
+308,D,2014-02-24 16:45:13,2014-02-21,NNBR,Morris G Ronald,Dir,S - Sale+OE,$18.95,-10000,56600,-15%,"-$189,500",-2.0,2.0,3.0,51.0,NNBR
+309,D,2014-02-18 16:48:53,2014-02-14,NNBR,Morris G Ronald,Dir,M - OptEx,$12.62,10000,56600,+21%,"+$126,200",-2.0,-1.0,5.0,45.0,NNBR
+310,D,2014-02-18 16:48:53,2014-02-14,NNBR,Morris G Ronald,Dir,S - Sale+OE,$18.94,-10000,56600,-15%,"-$189,400",-2.0,-1.0,5.0,45.0,NNBR
+311,D,2013-12-23 17:12:48,2013-12-23,NNBR,Widders James R.,VP - GM,M - OptEx,$12.51,20000,14100,-339%,"+$250,120",-1.0,-3.0,-15.0,22.0,NNBR
+312,D,2013-12-23 17:12:48,2013-12-23,NNBR,Widders James R.,VP - GM,S - Sale+OE,$20.50,-20000,14100,-59%,"-$410,000",-1.0,-3.0,-15.0,22.0,NNBR
+313,DM,2013-12-06 17:44:25,2013-12-04,NNBR,Gentry Frank T,SVP - MD,M - OptEx,$14.13,8000,39100,+26%,"+$113,040",2.0,-1.0,7.0,31.0,NNBR
+314,DM,2013-12-06 17:44:25,2013-12-04,NNBR,Gentry Frank T,SVP - MD,S - Sale+OE,$19.57,-8000,39100,-17%,"-$156,560",2.0,-1.0,7.0,31.0,NNBR
+315,D,2013-12-02 17:49:47,2013-11-27,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$11.61,12000,45550,+36%,"+$139,320",-1.0,0.0,3.0,27.0,NNBR
+316,D,2013-12-02 17:49:47,2013-11-27,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",S - Sale+OE,$19.56,-12000,45550,-21%,"-$234,720",-1.0,0.0,3.0,27.0,NNBR
+317,,2013-12-02 17:47:55,2013-11-29,NNBR,Burwell Thomas C. Jr.,"VP, Controller, Chief AcctOffi",S - Sale,$19.53,-5141,19059,-21%,"-$100,404",-1.0,0.0,3.0,27.0,NNBR
+318,D,2013-11-26 16:41:01,2013-11-22,NNBR,Warshaw Steven T,Dir,M - OptEx,$12.62,1000,33600,+3%,"+$12,620",0.0,-1.0,7.0,27.0,NNBR
+319,D,2013-11-26 16:41:01,2013-11-22,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$18.75,-1000,33600,-3%,"-$18,750",0.0,-1.0,7.0,27.0,NNBR
+320,,2013-11-26 16:39:02,2013-11-22,NNBR,Dorton James Harold,SVP CFO,S - Sale,$18.41,-2000,38400,-5%,"-$36,820",0.0,-1.0,7.0,27.0,NNBR
+321,M,2013-11-25 17:11:15,2013-11-21,NNBR,Gentry Frank T,SVP - MD,S - Sale,$18.19,-25561,39100,-40%,"-$464,998",4.0,5.0,11.0,32.0,NNBR
+322,,2013-11-20 16:40:17,2013-11-18,NNBR,Werner Michael E,Dir,S - Sale,$17.72,-10000,25820,-28%,"-$177,200",2.0,9.0,13.0,29.0,NNBR
+323,DM,2013-11-20 16:37:03,2013-11-18,NNBR,Gentry Frank T,SVP - MD,M - OptEx,$10.35,27900,64661,+76%,"+$288,728",2.0,9.0,13.0,29.0,NNBR
+324,DM,2013-11-20 16:37:03,2013-11-18,NNBR,Gentry Frank T,SVP - MD,S - Sale+OE,$17.86,-27900,64661,-30%,"-$498,367",2.0,9.0,13.0,29.0,NNBR
+325,DM,2013-11-20 16:34:03,2013-11-18,NNBR,Warshaw Steven T,Dir,M - OptEx,$12.62,2000,33600,+6%,"+$25,240",2.0,9.0,13.0,29.0,NNBR
+326,DM,2013-11-20 16:34:03,2013-11-18,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$17.93,-2000,33600,-6%,"-$35,860",2.0,9.0,13.0,29.0,NNBR
+327,D,2013-11-18 16:39:19,2013-11-14,NNBR,Gentry Frank T,SVP - MD,M - OptEx,$11.55,4000,64661,+7%,"+$46,217",0.0,7.0,11.0,29.0,NNBR
+328,D,2013-11-18 16:39:19,2013-11-14,NNBR,Gentry Frank T,SVP - MD,S - Sale+OE,$17.63,-4000,64661,-6%,"-$70,510",0.0,7.0,11.0,29.0,NNBR
+329,DM,2013-11-14 20:58:01,2013-11-12,NNBR,Gentry Frank T,SVP - MD,M - OptEx,$11.57,22600,64661,+54%,"+$261,550",0.0,2.0,9.0,30.0,NNBR
+330,DM,2013-11-14 20:58:01,2013-11-12,NNBR,Gentry Frank T,SVP - MD,S - Sale+OE,$17.55,-22600,64661,-26%,"-$396,578",0.0,2.0,9.0,30.0,NNBR
+331,D,2013-11-13 16:44:22,2013-11-11,NNBR,Warshaw Steven T,Dir,M - OptEx,$12.62,1000,33600,+3%,"+$12,620",0.0,1.0,11.0,29.0,NNBR
+332,D,2013-11-13 16:44:22,2013-11-11,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$17.75,-1000,33600,-3%,"-$17,750",0.0,1.0,11.0,29.0,NNBR
+333,D,2013-11-12 16:45:27,2013-11-08,NNBR,Warshaw Steven T,Dir,M - OptEx,$12.62,1000,33600,+3%,"+$12,620",1.0,2.0,11.0,28.0,NNBR
+334,D,2013-11-12 16:45:27,2013-11-08,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$17.50,-1000,33600,-3%,"-$17,500",1.0,2.0,11.0,28.0,NNBR
+335,D,2013-09-25 16:36:20,2013-09-23,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$12.62,3000,45550,+7%,"+$37,860",0.0,4.0,8.0,27.0,NNBR
+336,D,2013-09-25 16:36:20,2013-09-23,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",S - Sale+OE,$15.40,-3000,45550,-6%,"-$46,200",0.0,4.0,8.0,27.0,NNBR
+337,DM,2013-09-23 15:32:57,2013-09-18,NNBR,Warshaw Steven T,Dir,M - OptEx,$12.62,10000,33600,+42%,"+$126,200",0.0,0.0,8.0,28.0,NNBR
+338,DM,2013-09-23 15:32:57,2013-09-18,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$15.51,-10000,33600,-23%,"-$155,100",0.0,0.0,8.0,28.0,NNBR
+339,D,2013-09-23 15:30:47,2013-09-19,NNBR,Gentry Frank T,SVP - MD,M - OptEx,$12.62,16000,64661,+33%,"+$201,920",0.0,0.0,8.0,28.0,NNBR
+340,D,2013-09-23 15:30:47,2013-09-19,NNBR,Gentry Frank T,SVP - MD,S - Sale+OE,$15.25,-16000,64661,-20%,"-$244,000",0.0,0.0,8.0,28.0,NNBR
+341,D,2013-09-20 11:46:43,2013-09-18,NNBR,Kelly William C Jr,"VP, Chief Admin. Officer",M - OptEx,$12.62,3000,45550,+7%,"+$37,860",-2.0,-2.0,6.0,25.0,NNBR
+342,D,2013-09-20 11:46:43,2013-09-18,NNBR,Kelly William C Jr,"VP, Chief Admin. Officer",S - Sale+OE,$15.50,-3000,45550,-6%,"-$46,500",-2.0,-2.0,6.0,25.0,NNBR
+343,D,2013-09-20 11:45:51,2013-09-18,NNBR,Warshaw Steven T,Dir,M - OptEx,$12.62,5000,33600,+17%,"+$63,100",-2.0,-2.0,6.0,25.0,NNBR
+344,D,2013-09-20 11:45:51,2013-09-18,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$15.34,-5000,33600,-13%,"-$76,681",-2.0,-2.0,6.0,25.0,NNBR
+345,D,2013-09-13 17:09:13,2013-09-11,NNBR,Werner Michael E,Dir,M - OptEx,$12.62,20000,35820,+126%,"+$252,400",0.0,4.0,7.0,33.0,NNBR
+346,D,2013-09-13 17:09:13,2013-09-11,NNBR,Werner Michael E,Dir,S - Sale+OE,$15.07,-20000,35820,-36%,"-$301,324",0.0,4.0,7.0,33.0,NNBR
+347,,2013-09-12 10:21:46,2013-09-10,NNBR,Dorton James Harold,"SVP, CFO",S - Sale,$14.82,-10000,40400,-20%,"-$148,150",-1.0,1.0,6.0,33.0,NNBR
+348,D,2013-09-12 10:07:20,2013-09-10,NNBR,Kelly William C Jr,"VP, Chief Admin. Officer",M - OptEx,$12.62,6000,45550,+15%,"+$75,720",-1.0,1.0,6.0,33.0,NNBR
+349,D,2013-09-12 10:07:20,2013-09-10,NNBR,Kelly William C Jr,"VP, Chief Admin. Officer",S - Sale+OE,$15.06,-6000,45550,-12%,"-$90,336",-1.0,1.0,6.0,33.0,NNBR
+350,,2013-09-06 11:04:44,2013-09-05,NNBR,Werner Michael E,Dir,S - Sale,$14.40,-1067,35820,-3%,"-$15,365",0.0,3.0,8.0,33.0,NNBR
+351,D,2013-06-19 16:38:55,2013-06-17,NNBR,Warshaw Steven T,Dir,M - OptEx,$1.30,12000,33600,+56%,"+$15,600",-2.0,1.0,17.0,91.0,NNBR
+352,D,2013-06-19 16:37:07,2013-06-17,NNBR,Fanelli Richard G,Dir,M - OptEx,$1.30,12000,40600,+42%,"+$15,600",-2.0,1.0,17.0,91.0,NNBR
+353,D,2013-06-19 16:35:25,2013-06-17,NNBR,Morris G Ronald,Dir,M - OptEx,$1.30,12000,56600,+27%,"+$15,600",-2.0,1.0,17.0,91.0,NNBR
+354,D,2013-06-19 16:22:59,2013-06-17,NNBR,Burwell Thomas C. Jr.,"VP, Controller, Chief AcctOffi",M - OptEx,$1.30,9000,24200,+59%,"+$11,700",-2.0,1.0,17.0,91.0,NNBR
+355,D,2013-06-19 16:20:50,2013-06-17,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$1.30,15000,45550,+49%,"+$19,500",-2.0,1.0,17.0,91.0,NNBR
+356,D,2013-06-19 16:18:20,2013-06-17,NNBR,Hodge Jeffrey H.,"VP, GEN. MGR, US B, R",M - OptEx,$1.30,15000,38285,+64%,"+$19,500",-2.0,1.0,17.0,91.0,NNBR
+357,D,2013-06-19 16:15:48,2013-06-17,NNBR,Dorton James Harold,"SVP, CFO",M - OptEx,$1.30,20000,50400,+66%,"+$26,000",-2.0,1.0,17.0,91.0,NNBR
+358,D,2013-06-19 16:14:19,2013-06-17,NNBR,Gentry Frank T,SVP MD,M - OptEx,$1.62,22300,64661,+53%,"+$36,166",-2.0,1.0,17.0,91.0,NNBR
+359,D,2013-06-19 15:53:20,2013-06-17,NNBR,Werner Michael E,Dir,M - OptEx,$1.30,12000,36887,+48%,"+$15,600",-2.0,-1.0,15.0,89.0,NNBR
+360,D,2013-03-27 14:47:22,2013-03-25,NNBR,Burwell Thomas C. Jr.,"VP, Controller, Chief Acct Off",A - Grant,$9.97,4500,12000,+60%,"+$44,865",-2.0,-11.0,-11.0,53.0,NNBR
+361,D,2013-03-27 14:45:28,2013-03-25,NNBR,Pugh David L,Dir,A - Grant,$9.97,3200,6400,+100%,"+$31,904",-2.0,-11.0,-11.0,53.0,NNBR
+362,D,2013-03-27 14:43:34,2013-03-25,NNBR,Fanelli Richard G,Dir,A - Grant,$9.97,3200,28600,+13%,"+$31,904",-2.0,-11.0,-11.0,53.0,NNBR
+363,D,2013-03-27 14:41:06,2013-03-25,NNBR,Warshaw Steven T,Dir,A - Grant,$9.97,3200,21600,+17%,"+$31,904",-2.0,-11.0,-11.0,53.0,NNBR
+364,D,2013-03-27 14:38:51,2013-03-25,NNBR,Brunner Robert E,Dir,A - Grant,$9.97,3200,6400,+100%,"+$31,904",-2.0,-11.0,-11.0,53.0,NNBR
+365,D,2013-03-27 14:35:53,2013-03-25,NNBR,Werner Michael E,Dir,A - Grant,$9.97,3200,24887,+15%,"+$31,904",-2.0,-11.0,-11.0,53.0,NNBR
+366,D,2013-03-27 12:24:37,2013-03-25,NNBR,Morris G Ronald,Dir,A - Grant,$9.97,3200,44600,+8%,"+$31,904",-2.0,-11.0,-11.0,53.0,NNBR
+367,D,2013-03-27 12:22:03,2013-03-25,NNBR,Widders James R.,VP -Gen Manager PMC,A - Grant,$9.97,4700,14100,+50%,"+$46,859",-2.0,-11.0,-11.0,53.0,NNBR
+368,D,2013-03-27 12:19:05,2013-03-25,NNBR,Gentry Frank T,SVP - MD,A - Grant,$9.97,6300,42361,+17%,"+$62,811",-2.0,-11.0,-11.0,53.0,NNBR
+369,D,2013-03-27 12:17:16,2013-03-25,NNBR,Kelly William C Jr,"VP , Chief Admin. Officer",A - Grant,$9.97,4700,30550,+18%,"+$46,859",-2.0,-11.0,-11.0,53.0,NNBR
+370,D,2013-03-27 12:15:03,2013-03-25,NNBR,Hodge Jeffrey H.,"VP, GEN. MGR, US B, R",A - Grant,$9.97,4700,23285,+25%,"+$46,859",-2.0,-11.0,-11.0,53.0,NNBR
+371,D,2013-03-27 12:12:44,2013-03-25,NNBR,Dorton James Harold,"SVP, CFO",A - Grant,$9.97,6300,30400,+26%,"+$62,811",-2.0,-11.0,-11.0,53.0,NNBR
+372,,2012-06-19 17:43:16,2012-06-18,NNBR,Gentry Frank T,SVP - MD,S - Sale,$9.37,-2100,36061,-6%,"-$19,677",0.0,-3.0,0.0,-6.0,NNBR
+373,D,2012-05-21 16:40:58,2012-05-17,NNBR,Pugh David L,Dir,A - Grant,$8.54,3200,3200,New,"+$27,328",-3.0,-6.0,15.0,-11.0,NNBR
+374,D,2012-03-26 11:44:07,2012-03-22,NNBR,Brunner Robert E,Dir,A - Grant,$8.90,3200,3200,New,"+$28,480",2.0,-8.0,-3.0,0.0,NNBR
+375,D,2012-03-23 17:31:38,2012-03-21,NNBR,Hodge Jeffrey H.,"VP, GEN. MGR, US B, R",A - Grant,$8.86,4700,18585,+34%,"+$41,642",2.0,-4.0,-8.0,-6.0,NNBR
+376,D,2012-03-23 17:30:59,2012-03-21,NNBR,Burwell Thomas C. Jr.,"VP Controller, Chief Acct Offi",A - Grant,$8.86,4000,7500,+114%,"+$35,440",2.0,-4.0,-8.0,-6.0,NNBR
+377,D,2012-03-23 17:30:22,2012-03-21,NNBR,Dorton James Harold,"SVP, CFO",A - Grant,$8.86,6300,24100,+35%,"+$55,818",2.0,-4.0,-8.0,-6.0,NNBR
+378,D,2012-03-23 17:28:10,2012-03-21,NNBR,Widders James R.,VP -Gen Manager PMC,A - Grant,$8.86,4700,9400,+100%,"+$41,642",2.0,-4.0,-8.0,-6.0,NNBR
+379,D,2012-03-23 17:24:39,2012-03-21,NNBR,Fanelli Richard G,Dir,A - Grant,$8.86,3200,25400,+14%,"+$28,352",2.0,-4.0,-8.0,-6.0,NNBR
+380,D,2012-03-23 16:45:43,2012-03-21,NNBR,Baty Roderick R,"CEO, COB, Pres",A - Grant,$8.86,10200,70795,+17%,"+$90,372",2.0,-4.0,-8.0,-6.0,NNBR
+381,D,2012-03-23 16:44:53,2012-03-21,NNBR,Werner Michael E,Dir,A - Grant,$8.86,3200,21687,+17%,"+$28,352",2.0,-4.0,-8.0,-6.0,NNBR
+382,D,2012-03-23 16:43:46,2012-03-21,NNBR,Warshaw Steven T,Dir,A - Grant,$8.86,3200,18400,+21%,"+$28,352",2.0,-4.0,-8.0,-6.0,NNBR
+383,D,2012-03-23 16:42:47,2012-03-21,NNBR,Morris G Ronald,Dir,A - Grant,$8.86,3200,41400,+8%,"+$28,352",2.0,-4.0,-8.0,-6.0,NNBR
+384,D,2012-03-23 16:42:47,2012-03-23,NNBR,Morris G Ronald,Dir,P - Purchase,$8.94,5000,41400,+14%,"+$44,700",2.0,-4.0,-8.0,-6.0,NNBR
+385,D,2012-03-23 16:41:17,2012-03-21,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",A - Grant,$8.86,4700,25850,+22%,"+$41,642",2.0,-4.0,-8.0,-6.0,NNBR
+386,D,2012-03-23 16:34:15,2012-03-21,NNBR,Gentry Frank T,SVP - Manging Dir MBC,A - Grant,$8.86,6300,38161,+20%,"+$55,818",2.0,-4.0,-8.0,-6.0,NNBR
+387,,2011-09-23 16:07:23,2011-09-22,NNBR,Fanelli Richard G,Dir,P - Purchase,$5.14,7000,22200,+46%,"+$35,980",6.0,2.0,42.0,69.0,NNBR
+388,,2011-08-25 14:10:03,2011-08-24,NNBR,Morris G Ronald,Dir,P - Purchase,$6.89,5000,33200,+18%,"+$34,450",-2.0,13.0,-23.0,38.0,NNBR
+389,D,2011-07-06 16:20:07,2011-07-05,NNBR,Werner Michael E,Dir,M - OptEx,$8.09,10000,18487,+118%,"+$80,900",1.0,-9.0,-30.0,-61.0,NNBR
+390,D,2011-07-06 16:20:07,2011-07-05,NNBR,Werner Michael E,Dir,S - Sale+OE,$16.00,-10000,18487,-35%,"-$160,000",1.0,-9.0,-30.0,-61.0,NNBR
+391,D,2011-06-16 14:16:43,2011-06-14,NNBR,Zupan Thomas G,"VP, Whirlaway Corp.",M - OptEx,$6.03,19000,94000,+25%,"+$114,610",0.0,2.0,3.0,-55.0,NNBR
+392,D,2011-05-31 15:39:19,2011-05-26,NNBR,Widders James R.,VP GM,A - Grant,$14.13,4700,4700,New,"+$66,411",1.0,-12.0,1.0,-63.0,NNBR
+393,D,2011-05-31 15:29:47,2011-05-26,NNBR,Hodge Jeffrey H.,"VP, GEN. MGR, US B, R, NN Asia",A - Grant,$14.13,4700,13885,+51%,"+$66,411",1.0,-12.0,1.0,-63.0,NNBR
+394,D,2011-05-31 15:26:16,2011-05-26,NNBR,Gentry Frank T,SVP Global MBC,A - Grant,$14.13,6300,31861,+25%,"+$89,019",1.0,-12.0,1.0,-63.0,NNBR
+395,D,2011-05-31 15:19:01,2011-05-26,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",A - Grant,$14.13,4700,21150,+29%,"+$66,411",1.0,-12.0,1.0,-63.0,NNBR
+396,D,2011-05-31 15:06:02,2011-05-26,NNBR,Dorton James Harold,VP CFO,A - Grant,$14.13,6300,17800,+55%,"+$89,019",1.0,-12.0,1.0,-63.0,NNBR
+397,D,2011-05-31 14:50:38,2011-05-26,NNBR,Baty Roderick R,"CEO, COB, Pres",A - Grant,$14.13,10200,60595,+20%,"+$144,126",1.0,-12.0,1.0,-63.0,NNBR
+398,D,2011-05-31 14:43:08,2011-05-26,NNBR,Fanelli Richard G,Dir,A - Grant,$14.13,3200,15200,+27%,"+$45,216",1.0,-12.0,1.0,-63.0,NNBR
+399,D,2011-05-31 14:34:58,2011-05-26,NNBR,Aiken Robert M Jr,Dir,A - Grant,$14.13,3200,17200,+23%,"+$45,216",1.0,-12.0,1.0,-63.0,NNBR
+400,D,2011-05-31 14:29:43,2011-05-26,NNBR,Werner Michael E,Dir,A - Grant,$14.13,3200,18487,+21%,"+$45,216",1.0,-12.0,1.0,-63.0,NNBR
+401,D,2011-05-31 14:23:42,2011-05-26,NNBR,Warshaw Steven T,Dir,A - Grant,$14.13,3200,15200,+27%,"+$45,216",1.0,-12.0,1.0,-63.0,NNBR
+402,D,2011-05-31 14:18:42,2011-05-26,NNBR,Morris G Ronald,Dir,A - Grant,$14.13,3200,28200,+13%,"+$45,216",1.0,-12.0,1.0,-63.0,NNBR
+403,D,2011-05-13 12:06:17,2011-05-12,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$12.61,1000,16450,+6%,"+$12,610",-4.0,-9.0,-23.0,-62.0,NNBR
+404,D,2011-05-13 12:06:17,2011-05-12,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",S - Sale+OE,$17.50,-1000,16450,-6%,"-$17,500",-4.0,-9.0,-23.0,-62.0,NNBR
+405,M,2011-05-11 14:34:27,2011-05-09,NNBR,Gentry Frank T,"VP Oper., Ball, Roller Div.",S - Sale,$18.02,-23000,25561,-47%,"-$414,536",-3.0,-12.0,-27.0,-60.0,NNBR
+406,D,2011-03-28 14:40:19,2011-03-25,NNBR,Warshaw Steven T,Dir,M - OptEx,$8.09,10000,12000,+500%,"+$80,900",0.0,8.0,6.0,-68.0,NNBR
+407,D,2011-03-28 14:40:19,2011-03-25,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$16.79,-10000,12000,-45%,"-$167,922",0.0,8.0,6.0,-68.0,NNBR
+408,D,2011-03-22 17:27:01,2011-03-18,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$8.09,75000,50395,-305%,"+$606,750",-1.0,8.0,4.0,-60.0,NNBR
+409,D,2011-03-22 17:27:01,2011-03-21,NNBR,Baty Roderick R,"CEO, COB, Pres",P - Purchase,$15.32,2500,50395,+5%,"+$38,312",-1.0,8.0,4.0,-60.0,NNBR
+410,DM,2011-03-22 17:27:01,2011-03-18,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$14.96,-72500,50395,-59%,"-$1,084,337",-1.0,8.0,4.0,-60.0,NNBR
+411,D,2011-03-22 17:15:16,2011-03-18,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$8.09,10825,16450,+192%,"+$87,574",-1.0,8.0,4.0,-60.0,NNBR
+412,D,2011-03-22 17:15:16,2011-03-18,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",S - Sale+OE,$14.93,-10825,16450,-40%,"-$161,652",-1.0,8.0,4.0,-60.0,NNBR
+413,,2010-12-20 15:25:10,2010-12-16,NNBR,Zupan Thomas G,"VP, Precision Metal Comp. Div.",P - Purchase,$10.48,30000,75000,+67%,"+$314,253",5.0,8.0,31.0,22.0,NNBR
+414,D,2010-10-12 13:58:10,2010-10-08,NNBR,Morris G Ronald,Dir,M - OptEx,$7.63,3000,25000,+14%,"+$22,875",1.0,3.0,17.0,110.0,NNBR
+415,D,2010-10-12 11:06:36,2010-10-07,NNBR,Werner Michael E,Dir,M - OptEx,$7.63,3000,15287,+24%,"+$22,875",1.0,3.0,17.0,110.0,NNBR
+416,D,2010-10-12 11:06:36,2010-10-07,NNBR,Werner Michael E,Dir,S - Sale+OE,$8.68,-3000,15287,-16%,"-$26,046",1.0,3.0,17.0,110.0,NNBR
+417,D,2010-10-07 14:47:41,2010-10-06,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$7.63,9000,50395,+22%,"+$68,625",1.0,1.0,10.0,120.0,NNBR
+418,D,2010-10-07 14:47:41,2010-10-06,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$8.11,-9000,50395,-15%,"-$72,949",1.0,1.0,10.0,120.0,NNBR
+419,D,2010-10-07 14:38:19,2010-10-05,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$7.63,26143,50395,+108%,"+$199,340",1.0,1.0,10.0,120.0,NNBR
+420,D,2010-10-07 14:38:19,2010-10-05,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$8.16,-26143,50395,-34%,"-$213,344",1.0,1.0,10.0,120.0,NNBR
+421,AD,2010-10-05 13:48:22,2010-09-08,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$7.85,12505,50395,+33%,"+$98,204",2.0,3.0,10.0,132.0,NNBR
+422,AD,2010-10-05 13:48:22,2010-09-08,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$9.05,-8505,50395,-14%,"-$76,962",2.0,3.0,10.0,132.0,NNBR
+423,DM,2010-10-04 17:26:57,2010-09-30,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$7.63,20652,101790,+25%,"+$157,472",2.0,5.0,7.0,120.0,NNBR
+424,DM,2010-10-04 17:26:57,2010-09-30,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$8.34,-20652,101790,-17%,"-$172,162",2.0,5.0,7.0,120.0,NNBR
+425,D,2010-10-04 16:36:02,2010-10-01,NNBR,Warshaw Steven T,Dir,M - OptEx,$7.63,3000,12000,+33%,"+$22,875",2.0,5.0,7.0,120.0,NNBR
+426,D,2010-10-04 16:36:02,2010-10-01,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$8.50,-3000,12000,-20%,"-$25,500",2.0,5.0,7.0,120.0,NNBR
+427,D,2010-09-10 15:35:11,2010-09-08,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$7.63,10505,17395,+152%,"+$80,153",3.0,-8.0,-1.0,63.0,NNBR
+428,D,2010-09-10 15:35:11,2010-09-08,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$9.05,-10505,17395,-38%,"-$95,065",3.0,-8.0,-1.0,63.0,NNBR
+429,,2010-09-03 15:36:18,2010-09-02,NNBR,Hodge Jeffrey H.,"VP, GEN. MGR, US Ball, Roller",S - Sale,$8.50,-3500,9185,-28%,"-$29,759",0.0,4.0,-5.0,65.0,NNBR
+430,M,2010-09-03 15:31:21,2010-09-01,NNBR,Dorton James Harold,VP CFO,S - Sale,$8.18,-8500,11500,-43%,"-$69,550",0.0,4.0,-5.0,65.0,NNBR
+431,,2010-08-17 16:53:57,2010-08-17,NNBR,Anderson James O,"GM, Plastics, Rubber Div.",S - Sale,$7.07,-11500,500,-96%,"-$81,284",-1.0,0.0,3.0,89.0,NNBR
+432,D,2010-05-18 13:36:11,2010-05-17,NNBR,Anderson James O,"GM, Plastics, Rubber Div.",M - OptEx,$1.30,5000,12000,+71%,"+$6,500",-2.0,-10.0,-22.0,33.0,NNBR
+433,D,2010-05-18 13:36:11,2010-05-17,NNBR,Anderson James O,"GM, Plastics, Rubber Div.",S - Sale+OE,$7.06,-8000,12000,-40%,"-$56,448",-2.0,-10.0,-22.0,33.0,NNBR
+434,,2010-05-17 13:50:44,2010-05-14,NNBR,Morris G Ronald,Dir,P - Purchase,$6.76,7000,22000,+47%,"+$47,320",0.0,-9.0,-19.0,38.0,NNBR
+435,D,2010-03-18 11:48:45,2010-03-16,NNBR,Sams Robert R,VP Sales,A - Grant,$4.42,7000,11100,+171%,"+$30,940",4.0,7.0,55.0,79.0,NNBR
+436,,2010-03-18 11:46:37,2010-03-16,NNBR,Zupan Thomas G,"VP, Precision Metal Comp. Div.",A - Grant,$4.42,15000,45000,+50%,"+$66,300",4.0,7.0,55.0,79.0,NNBR
+437,,2010-03-18 11:45:10,2010-03-16,NNBR,Hodge Jeffrey H.,"VP, GEN. MGR, US Ball, Roller",A - Grant,$4.42,12000,12685,>999%,"+$53,040",4.0,7.0,55.0,79.0,NNBR
+438,,2010-03-18 11:43:30,2010-03-16,NNBR,Anderson James O,"GM, Plastics, Rubber Div.",A - Grant,$4.42,12000,15000,+400%,"+$53,040",4.0,7.0,55.0,79.0,NNBR
+439,,2010-03-18 11:41:55,2010-03-16,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer, Sec.",A - Grant,$4.42,12000,16450,+270%,"+$53,040",4.0,7.0,55.0,79.0,NNBR
+440,,2010-03-18 11:39:57,2010-03-16,NNBR,Dorton James Harold,VP CFO,A - Grant,$4.42,17000,20000,+567%,"+$75,140",4.0,7.0,55.0,79.0,NNBR
+441,D,2010-03-18 11:37:44,2010-03-16,NNBR,Gentry Frank T,"VP, Manag. Dir., Metal Beari",A - Grant,$4.42,17000,48561,+54%,"+$75,140",4.0,7.0,55.0,79.0,NNBR
+442,,2010-03-18 11:35:27,2010-03-16,NNBR,Baty Roderick R,"CEO, COB, Pres",A - Grant,$4.42,33000,50395,+190%,"+$145,860",4.0,7.0,55.0,79.0,NNBR
+443,,2010-03-18 11:33:13,2010-03-16,NNBR,Aiken Robert M Jr,Dir,A - Grant,$4.42,10000,14000,+250%,"+$44,200",4.0,7.0,55.0,79.0,NNBR
+444,,2010-03-18 11:31:22,2010-03-16,NNBR,Werner Michael E,Dir,A - Grant,$4.42,10000,15287,+189%,"+$44,200",4.0,7.0,55.0,79.0,NNBR
+445,,2010-03-18 11:27:48,2010-03-16,NNBR,Fanelli Richard G,Dir,A - Grant,$4.42,10000,12000,+500%,"+$44,200",4.0,7.0,55.0,79.0,NNBR
+446,,2010-03-18 11:25:07,2010-03-16,NNBR,Warshaw Steven T,Dir,A - Grant,$4.42,10000,12000,+500%,"+$44,200",4.0,7.0,55.0,79.0,NNBR
+447,,2010-03-18 11:12:03,2010-03-16,NNBR,Morris G Ronald,Dir,A - Grant,$4.42,10000,15000,+200%,"+$44,200",4.0,7.0,55.0,79.0,NNBR
+448,,2009-07-10 10:16:39,2009-07-08,NNBR,Zupan Thomas G,"VP, Whirlaway Corp.",P - Purchase,$1.40,30000,30000,New,"+$42,000",6.0,24.0,152.0,193.0,NNBR
+449,,2009-06-15 12:33:09,2009-06-11,NNBR,Aiken Robert M Jr,Dir,P - Purchase,$1.69,1000,1000,New,"+$1,690",1.0,-1.0,-13.0,136.0,NNBR
+450,D,2008-09-12 11:08:15,2008-09-11,NNBR,Trombetti Nicola,MD-NN Europe,M - OptEx,$8.09,15000,3334,-129%,"+$121,350",2.0,-9.0,-38.0,-93.0,NNBR
+451,D,2008-09-12 11:08:15,2008-09-11,NNBR,Trombetti Nicola,MD-NN Europe,S - Sale+OE,$15.02,-15000,3334,-82%,"-$225,321",2.0,-9.0,-38.0,-93.0,NNBR
+452,AD,2008-09-08 11:43:34,2008-08-11,NNBR,Werner Michael E,Dir,M - OptEx,$6.38,5000,5287,>999%,"+$31,900",3.0,9.0,-10.0,-94.0,NNBR
+453,AD,2008-09-08 11:43:34,2008-08-11,NNBR,Werner Michael E,Dir,S - Sale+OE,$16.76,-5000,5287,-49%,"-$83,775",3.0,9.0,-10.0,-94.0,NNBR
+454,D,2008-09-04 17:39:32,2008-09-02,NNBR,Anderson James O,"GM, Plastics, Rubber Div.",M - OptEx,$11.51,1055,3000,+54%,"+$12,139",-4.0,0.0,-18.0,-89.0,NNBR
+455,D,2008-09-04 17:39:32,2008-09-02,NNBR,Anderson James O,"GM, Plastics, Rubber Div.",S - Sale+OE,$17.25,-1055,3000,-26%,"-$18,199",-4.0,0.0,-18.0,-89.0,NNBR
+456,,2008-08-14 15:41:15,2008-08-13,NNBR,Dorton James Harold,VP CFO,S - Sale,$16.82,-5000,3000,-63%,"-$84,100",0.0,1.0,-5.0,-91.0,NNBR
+457,AD,2008-08-12 10:16:19,2008-08-11,NNBR,Werner Michael E,Dir,M - OptEx,$6.38,5000,5287,>999%,"+$31,900",-1.0,-1.0,-10.0,-91.0,NNBR
+458,AD,2008-08-12 10:16:19,2008-08-11,NNBR,Werner Michael E,Dir,S - Sale+OE,$16.76,-5000,5287,-49%,"-$83,775",-1.0,-1.0,-10.0,-91.0,NNBR
+459,D,2008-08-11 13:56:46,2008-08-08,NNBR,Warshaw Steven T,Dir,M - OptEx,$5.94,2000,2000,New,"+$11,880",5.0,5.0,-8.0,-89.0,NNBR
+460,D,2008-08-11 13:56:46,2008-08-08,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$15.67,-2000,2000,-50%,"-$31,339",5.0,5.0,-8.0,-89.0,NNBR
+461,D,2008-08-11 13:49:39,2008-08-08,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$8.09,10000,4450,-180%,"+$80,900",5.0,5.0,-8.0,-89.0,NNBR
+462,D,2008-08-11 13:49:39,2008-08-08,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",S - Sale+OE,$16.13,-10000,4450,-69%,"-$161,300",5.0,5.0,-8.0,-89.0,NNBR
+463,,2008-08-08 15:28:40,2008-08-06,NNBR,Gentry Frank T,"VP Oper., Ball, Roller Div.",S - Sale,$15.10,-1667,31561,-5%,"-$25,172",5.0,10.0,-2.0,-89.0,NNBR
+464,D,2008-08-08 09:42:58,2008-08-06,NNBR,Warshaw Steven T,Dir,M - OptEx,$6.09,4500,2000,-180%,"+$27,390",5.0,10.0,-2.0,-89.0,NNBR
+465,D,2008-08-08 09:42:58,2008-08-06,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$15.27,-4500,2000,-69%,"-$68,694",5.0,10.0,-2.0,-89.0,NNBR
+466,D,2008-08-06 13:42:17,2008-08-05,NNBR,Warshaw Steven T,Dir,M - OptEx,$6.38,3500,2000,-233%,"+$22,330",6.0,13.0,3.0,-89.0,NNBR
+467,D,2008-08-06 13:42:17,2008-08-05,NNBR,Warshaw Steven T,Dir,S - Sale+OE,$14.92,-3500,2000,-64%,"-$52,210",6.0,13.0,3.0,-89.0,NNBR
+468,D,2008-08-05 17:07:34,2008-08-05,NNBR,Werner Michael E,Dir,M - OptEx,$6.38,5000,5287,>999%,"+$31,900",6.0,14.0,8.0,-88.0,NNBR
+469,D,2008-08-05 17:07:34,2008-08-05,NNBR,Werner Michael E,Dir,S - Sale+OE,$15.07,-5000,5287,-49%,"-$75,350",6.0,14.0,8.0,-88.0,NNBR
+470,DM,2008-07-23 15:01:18,2008-07-21,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$7.63,75000,17395,-130%,"+$572,250",-2.0,-12.0,12.0,-86.0,NNBR
+471,DM,2008-07-23 15:01:18,2008-07-21,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$15.00,-75000,17395,-81%,"-$1,125,000",-2.0,-12.0,12.0,-86.0,NNBR
+472,D,2008-07-23 15:00:00,2008-07-22,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$7.63,9800,4450,-183%,"+$74,774",-2.0,-12.0,12.0,-86.0,NNBR
+473,D,2008-07-23 15:00:00,2008-07-22,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",S - Sale+OE,$15.00,-9800,4450,-69%,"-$147,000",-2.0,-12.0,12.0,-86.0,NNBR
+474,D,2008-07-18 09:40:21,2008-07-17,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$7.63,5000,4450,-909%,"+$38,150",0.0,0.0,16.0,-84.0,NNBR
+475,D,2008-07-18 09:40:21,2008-07-17,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",S - Sale+OE,$14.50,-5000,4450,-53%,"-$72,500",0.0,0.0,16.0,-84.0,NNBR
+476,D,2008-07-17 09:25:06,2008-07-16,NNBR,Sams Robert R,VP Sales,M - OptEx,$8.09,21600,0,-100%,"+$174,744",3.0,4.0,19.0,-83.0,NNBR
+477,D,2008-07-17 09:25:06,2008-07-16,NNBR,Sams Robert R,VP Sales,S - Sale+OE,$14.25,-21600,0,-100%,"-$307,800",3.0,4.0,19.0,-83.0,NNBR
+478,D,2008-06-18 15:40:50,2008-06-17,NNBR,Kelly William C Jr,"VP, Chief Adm. Officer",M - OptEx,$10.82,10000,4450,-180%,"+$108,150",-1.0,-2.0,5.0,-84.0,NNBR
+479,D,2008-06-17 13:50:37,2008-06-16,NNBR,Sams Robert R,VP Sales,M - OptEx,$7.63,32400,0,-100%,"+$247,212",1.0,0.0,2.0,-83.0,NNBR
+480,D,2008-06-17 13:50:37,2008-06-16,NNBR,Sams Robert R,VP Sales,S - Sale+OE,$13.75,-32400,0,-100%,"-$445,610",1.0,0.0,2.0,-83.0,NNBR
+481,D,2008-06-17 13:45:58,2008-06-16,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$5.94,625,17395,+4%,"+$3,713",1.0,0.0,2.0,-83.0,NNBR
+482,D,2008-06-17 13:45:58,2008-06-16,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$13.88,-625,17395,-3%,"-$8,675",1.0,0.0,2.0,-83.0,NNBR
+483,D,2008-06-13 09:36:37,2008-06-11,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$5.94,25,17395,0%,+$149,2.0,5.0,5.0,-83.0,NNBR
+484,D,2008-06-13 09:36:37,2008-06-11,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$13.75,-25,17395,0%,-$344,2.0,5.0,5.0,-83.0,NNBR
+485,D,2008-06-11 11:09:09,2008-06-09,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$5.94,18636,17395,-1502%,"+$110,698",-3.0,3.0,3.0,-88.0,NNBR
+486,D,2008-06-11 11:09:09,2008-06-09,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$13.75,-18636,17395,-52%,"-$256,245",-3.0,3.0,3.0,-88.0,NNBR
+487,D,2008-06-10 14:58:51,2008-06-06,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$5.94,15954,17395,>999%,"+$94,767",1.0,4.0,2.0,-90.0,NNBR
+488,D,2008-06-10 14:58:51,2008-06-06,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$13.59,-15954,17395,-48%,"-$216,808",1.0,4.0,2.0,-90.0,NNBR
+489,D,2008-06-06 13:43:43,2008-06-05,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$5.94,47770,17395,-157%,"+$283,754",2.0,-1.0,-1.0,-90.0,NNBR
+490,D,2008-06-06 13:43:43,2008-06-05,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$13.50,-47770,17395,-73%,"-$644,895",2.0,-1.0,-1.0,-90.0,NNBR
+491,D,2008-05-30 12:34:09,2008-05-28,NNBR,Sams Robert R,VP Sales,M - OptEx,$5.94,15581,0,-100%,"+$92,551",0.0,3.0,5.0,-91.0,NNBR
+492,D,2008-05-30 12:34:09,2008-05-28,NNBR,Sams Robert R,VP Sales,S - Sale+OE,$13.00,-15581,0,-100%,"-$202,553",0.0,3.0,5.0,-91.0,NNBR
+493,DM,2008-05-30 12:29:47,2008-05-28,NNBR,Morris G Ronald,Dir,M - OptEx,$6.38,5000,0,-100%,"+$31,900",0.0,3.0,5.0,-91.0,NNBR
+494,DM,2008-05-30 12:29:47,2008-05-28,NNBR,Morris G Ronald,Dir,S - Sale+OE,$13.00,-5000,0,-100%,"-$65,000",0.0,3.0,5.0,-91.0,NNBR
+495,D,2008-05-22 16:16:07,2008-05-21,NNBR,Baty Roderick R,"CEO, COB, Pres",M - OptEx,$5.94,1990,17395,+13%,"+$11,821",0.0,3.0,8.0,-87.0,NNBR
+496,D,2008-05-22 16:16:07,2008-05-21,NNBR,Baty Roderick R,"CEO, COB, Pres",S - Sale+OE,$13.50,-1990,17395,-10%,"-$26,865",0.0,3.0,8.0,-87.0,NNBR
+497,M,2008-05-14 16:54:15,2008-05-12,NNBR,Gentry Frank T,"VP Oper., Ball, Roller Div.",S - Sale,$13.11,-1667,32060,-5%,"-$21,858",-2.0,-3.0,9.0,-77.0,NNBR
+498,,2007-08-07 15:38:21,2007-08-06,NNBR,Dorton James Harold,VP CFO,A - Grant,$9.74,2000,6333,+46%,"+$19,480",-4.0,-6.0,3.0,-14.0,NNBR
+499,,2007-06-19 10:05:36,2007-06-15,NNBR,Trombetti Nicola,MD-NN Europe,S - Sale,$11.80,-1666,3334,-33%,"-$19,659",0.0,-4.0,1.0,-26.0,NNBR
+500,,2007-06-05 16:30:45,2007-06-04,NNBR,Gentry Frank T,"VP Oper., Ball, Roller Div.",S - Sale,$12.60,-1666,34895,-5%,"-$20,992",-2.0,1.0,-2.0,-25.0,NNBR
+501,D,2007-02-12 15:56:05,2007-02-08,NNBR,Sams Robert R,VP Sales,M - OptEx,$5.94,1019,4100,+33%,"+$6,053",-2.0,-3.0,-8.0,-27.0,NNBR
+502,D,2007-02-12 15:56:05,2007-02-08,NNBR,Sams Robert R,VP Sales,S - Sale+OE,$13.50,-1019,4100,-20%,"-$13,757",-2.0,-3.0,-8.0,-27.0,NNBR
+503,,2006-12-18 14:27:16,2006-12-15,NNBR,Trombetti Nicola,MD-NN Europe,D - Sale to issuer,$12.49,-2500,5000,-33%,"-$31,225",-4.0,-3.0,-2.0,-3.0,NNBR
+504,D,2006-05-12 15:41:11,2006-05-10,NNBR,Kelly William C Jr,Vice Presiden of Admin.,M - OptEx,$5.94,5850,4450,-418%,"+$34,749",-2.0,-8.0,-4.0,-12.0,NNBR
+505,D,2006-05-12 15:41:11,2006-05-10,NNBR,Kelly William C Jr,Vice Presiden of Admin.,S - Sale+OE,$13.50,-5850,4450,-57%,"-$78,975",-2.0,-8.0,-4.0,-12.0,NNBR
+506,D,2006-04-21 13:56:47,2006-04-19,NNBR,Kelly William C Jr,"VP, Chief Admin. Officer",M - OptEx,$5.94,5375,4450,-581%,"+$31,928",1.0,-1.0,-6.0,1.0,NNBR
+507,DM,2006-04-21 13:56:47,2006-04-19,NNBR,Kelly William C Jr,"VP, Chief Admin. Officer",S - Sale+OE,$13.00,-5375,4450,-55%,"-$69,875",1.0,-1.0,-6.0,1.0,NNBR
+508,,2006-03-10 11:29:29,2006-03-08,NNBR,Dorton James Harold,"Vice Pres, Chief Finan.Officer",P - Purchase,$11.95,1000,1000,New,"+$11,950",6.0,11.0,6.0,6.0,NNBR
+509,D,2005-07-27 11:43:51,2005-07-26,NNBR,Gentry Frank T,VP Operations,M - OptEx,$8.09,2090,36561,+6%,"+$16,908",0.0,-4.0,-16.0,-9.0,NNBR
+510,D,2005-07-27 11:43:51,2005-07-26,NNBR,Gentry Frank T,VP Operations,S - Sale+OE,$13.50,-2090,36561,-5%,"-$28,215",0.0,-4.0,-16.0,-9.0,NNBR
+511,D,2005-07-26 14:33:19,2005-07-22,NNBR,Gentry Frank T,VP Operations,M - OptEx,$8.09,2810,36561,+8%,"+$22,733",2.0,-2.0,-14.0,-8.0,NNBR
+512,D,2005-07-26 14:33:19,2005-07-22,NNBR,Gentry Frank T,VP Operations,S - Sale+OE,$13.50,-2810,36561,-7%,"-$37,935",2.0,-2.0,-14.0,-8.0,NNBR
+513,D,2005-07-21 16:05:57,2005-07-20,NNBR,Gentry Frank T,VP Operations,M - OptEx,$8.09,18672,36561,+104%,"+$151,056",4.0,4.0,-9.0,-10.0,NNBR
+514,D,2005-07-21 16:05:57,2005-07-20,NNBR,Gentry Frank T,VP Operations,S - Sale+OE,$13.40,-18672,36561,-34%,"-$250,138",4.0,4.0,-9.0,-10.0,NNBR
+515,D,2005-07-21 12:05:45,2005-07-19,NNBR,Gentry Frank T,VP Operations,M - OptEx,$8.09,6889,36561,+23%,"+$55,732",-4.0,0.0,-13.0,-14.0,NNBR
+516,D,2005-07-21 12:05:45,2005-07-19,NNBR,Gentry Frank T,VP Operations,S - Sale+OE,$13.25,-6889,36561,-16%,"-$91,279",-4.0,0.0,-13.0,-14.0,NNBR
+517,D,2005-07-18 16:11:26,2005-07-15,NNBR,Gentry Frank T,VP Operations,M - OptEx,$8.09,3439,36561,+10%,"+$27,822",2.0,4.0,-3.0,-12.0,NNBR
+518,D,2005-07-18 16:11:26,2005-07-15,NNBR,Gentry Frank T,VP Operations,S - Sale+OE,$13.25,-3439,36561,-9%,"-$45,567",2.0,4.0,-3.0,-12.0,NNBR
+519,,2005-07-06 13:14:52,2005-07-05,NNBR,Trombetti Nicola,"VP, MD, NN Europe",A - Grant,$0.00,5000,7500,+200%,+$0,1.0,3.0,2.0,-14.0,NNBR
+520,,2005-07-06 13:05:31,2005-07-05,NNBR,McKown Thomas Walter,"VP, MD, NN Asia",A - Grant,$0.00,5000,5000,New,+$0,1.0,3.0,2.0,-14.0,NNBR
+521,,2005-07-06 12:54:05,2005-07-05,NNBR,Fortier Paul,"Subsidiary, Section 16 Officer",A - Grant,$0.00,3000,3000,New,+$0,1.0,3.0,2.0,-14.0,NNBR
+522,,2005-07-06 12:35:24,2005-07-05,NNBR,Gentry Frank T,VP Operations,A - Grant,$0.00,5000,36561,+16%,+$0,1.0,3.0,2.0,-14.0,NNBR
+523,,2005-07-06 12:25:47,2005-07-05,NNBR,Sams Robert R,VP Market Services,A - Grant,$0.00,4000,4100,>999%,+$0,1.0,3.0,2.0,-14.0,NNBR
+524,,2005-07-06 12:13:45,2005-07-05,NNBR,Kelly William C Jr,Chief Administrative Officer,A - Grant,$0.00,4000,4450,+889%,+$0,1.0,3.0,2.0,-14.0,NNBR
+525,,2005-07-06 12:04:29,2005-07-05,NNBR,Dorton James Harold,"VP Corporate Development, CFO",A - Grant,$0.00,5000,5000,New,+$0,1.0,3.0,2.0,-14.0,NNBR
+526,,2005-07-06 11:55:27,2005-07-05,NNBR,Baty Roderick R,"CEO, COB",A - Grant,$0.00,15000,17395,+626%,+$0,1.0,3.0,2.0,-14.0,NNBR
+527,,2005-07-06 11:40:40,2005-07-05,NNBR,Anderson James O,"Corp., Section 16 Officer",A - Grant,$0.00,3000,3000,New,+$0,1.0,3.0,2.0,-14.0,NNBR
+528,D,2005-06-09 12:26:28,2005-06-07,NNBR,Gentry Frank T,VP Operations,M - OptEx,$8.09,3174,31561,+11%,"+$25,678",0.0,-1.0,1.0,-22.0,NNBR
+529,D,2005-06-09 12:26:28,2005-06-07,NNBR,Gentry Frank T,VP Operations,S - Sale+OE,$13.00,-3174,31561,-9%,"-$41,264",0.0,-1.0,1.0,-22.0,NNBR
+530,DM,2005-06-07 15:03:13,2005-06-03,NNBR,Gentry Frank T,VP Operations,M - OptEx,$7.72,16826,31561,+114%,"+$129,915",0.0,-1.0,-1.0,-18.0,NNBR
+531,DM,2005-06-07 15:03:13,2005-06-03,NNBR,Gentry Frank T,VP Operations,S - Sale+OE,$13.00,-16826,31561,-35%,"-$218,738",0.0,-1.0,-1.0,-18.0,NNBR
+532,D,2005-06-02 12:03:48,2005-06-01,NNBR,Gentry Frank T,VP Operations,A - Grant,$7.63,5000,31561,+19%,"+$38,125",2.0,3.0,1.0,-20.0,NNBR
+533,DM,2005-06-02 12:03:48,2005-05-31,NNBR,Gentry Frank T,VP Operations,M - OptEx,$7.63,18720,31561,+146%,"+$142,740",2.0,3.0,1.0,-20.0,NNBR
+534,DM,2005-06-02 12:03:48,2005-05-31,NNBR,Gentry Frank T,VP Operations,S - Sale+OE,$12.75,-23720,31561,-43%,"-$302,325",2.0,3.0,1.0,-20.0,NNBR
+535,DM,2005-05-31 10:13:00,2005-05-26,NNBR,Gentry Frank T,VP Operations,M - OptEx,$7.63,16280,31561,+107%,"+$124,135",1.0,3.0,3.0,-18.0,NNBR
+536,DM,2005-05-31 10:13:00,2005-05-26,NNBR,Gentry Frank T,VP Operations,S - Sale+OE,$12.65,-16280,31561,-34%,"-$205,942",1.0,3.0,3.0,-18.0,NNBR
+537,D,2005-05-26 16:16:43,2005-05-25,NNBR,Gentry Frank T,VP Operations,M - OptEx,$6.29,20000,31561,+173%,"+$125,709",0.0,2.0,3.0,-18.0,NNBR
+538,D,2005-05-26 16:16:43,2005-05-25,NNBR,Gentry Frank T,VP Operations,S - Sale+OE,$12.58,-20000,31561,-39%,"-$251,520",0.0,2.0,3.0,-18.0,NNBR
+539,DM,2005-01-10 15:42:39,2005-01-04,NNBR,Dyckman David L,CFO,M - OptEx,$8.09,5700,0,-100%,"+$46,113",-4.0,-8.0,-3.0,4.0,NNBR
+540,DM,2005-01-10 15:42:39,2005-01-04,NNBR,Dyckman David L,CFO,S - Sale+OE,$12.94,-5700,0,-100%,"-$73,742",-4.0,-8.0,-3.0,4.0,NNBR
+541,D,2005-01-04 15:06:09,2005-01-03,NNBR,Dyckman David L,CFO,M - OptEx,$8.09,3748,0,-100%,"+$30,321",0.0,-5.0,-6.0,-1.0,NNBR
+542,D,2005-01-04 15:06:09,2005-01-03,NNBR,Dyckman David L,CFO,S - Sale+OE,$12.96,-3748,0,-100%,"-$48,587",0.0,-5.0,-6.0,-1.0,NNBR
+543,D,2005-01-03 14:48:41,2004-12-30,NNBR,Dyckman David L,CFO,M - OptEx,$8.09,6325,0,-100%,"+$51,169",-2.0,-2.0,-8.0,-4.0,NNBR
+544,D,2005-01-03 14:48:41,2004-12-30,NNBR,Dyckman David L,CFO,S - Sale+OE,$13.02,-6325,0,-100%,"-$82,331",-2.0,-2.0,-8.0,-4.0,NNBR
+545,D,2004-12-27 17:13:17,2004-12-22,NNBR,Dyckman David L,CFO,M - OptEx,$6.88,72850,0,-100%,"+$501,135",2.0,4.0,-7.0,3.0,NNBR
+546,D,2004-12-27 17:13:17,2004-12-22,NNBR,Dyckman David L,CFO,S - Sale+OE,$13.13,-72850,0,-100%,"-$956,438",2.0,4.0,-7.0,3.0,NNBR
+547,,2004-03-04 14:24:29,2004-03-02,NNBR,Aiken Robert M Jr,Dir,P - Purchase,$11.80,3000,23000,+15%,"+$35,400",3.0,5.0,5.0,-4.0,NNBR

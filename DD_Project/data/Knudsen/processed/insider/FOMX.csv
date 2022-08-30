@@ -1,29 +1,91 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,M,2019-09-11 17:12:53,2019-09-09,FOMX,Hadar Ilan,"CFO, Country Manager",S - Sale,3.5,-43812,89279,-33%,-153366.0,,,,,FOMX
-1,,2019-08-28 16:36:52,2019-08-26,FOMX,Kazanchyan Anna,Dir,S - Sale,3.27,-7049,37498,-16%,-23050.0,,,,,FOMX
-2,,2019-07-17 16:40:49,2019-07-15,FOMX,Kazanchyan Anna,Dir,S - Sale,2.31,-808,44547,-2%,-1866.0,,,,,FOMX
-3,,2019-07-03 16:28:30,2019-07-01,FOMX,Harsch Mutya,"CLO, GC",S - Sale,2.35,-639,51969,-1%,-1502.0,,,,,FOMX
-4,,2019-07-03 16:27:39,2019-07-01,FOMX,Domzalski David,CEO,S - Sale,2.35,-3355,211240,-2%,-7884.0,,,,,FOMX
-5,,2019-07-03 16:26:42,2019-07-01,FOMX,Stuart Iain,Chief Scientific Officer,S - Sale,2.35,-951,63524,-1%,-2235.0,,,,,FOMX
-6,,2019-05-20 18:35:55,2019-05-20,FOMX,Kazanchyan Anna,Dir,S - Sale,2.61,-10600,45355,-19%,-27666.0,,,,,FOMX
-7,,2019-04-03 16:42:53,2019-04-01,FOMX,Harsch Mutya,"CLO, GC",S - Sale,3.75,-2519,52608,-5%,-9446.0,,,,,FOMX
-8,,2019-04-03 16:40:31,2019-04-01,FOMX,Domzalski David,CEO,S - Sale,3.75,-5096,214595,-2%,-19110.0,,,,,FOMX
-9,,2019-04-03 16:38:10,2019-04-01,FOMX,Stuart Iain,Chief Scientific Officer,S - Sale,3.75,-1696,64475,-3%,-6360.0,,,,,FOMX
-10,,2019-03-06 16:07:30,2019-03-05,FOMX,Wiley Matthew T.,Chief Commercial Officer,P - Purchase,3.76,13440,63440,+27%,50534.0,,,,,FOMX
-11,M,2018-12-06 06:09:21,2018-11-26,FOMX,Schwartz Aharon,Dir,P - Purchase,3.9,112200,112200,New,437773.0,,,,,FOMX
-12,,2018-12-06 06:06:14,2018-12-03,FOMX,Domzalski David,CEO,S - Sale,4.05,-68,146409,0%,-275.0,,,,,FOMX
-13,,2018-11-20 16:07:48,2018-11-19,FOMX,Domzalski David,CEO,S - Sale,3.9,-5036,146477,-3%,-19640.0,,,,,FOMX
-14,,2018-11-20 16:05:35,2018-11-19,FOMX,Howard Alvin D,VP Regulatory,S - Sale,3.9,-3375,38414,-8%,-13163.0,,,,,FOMX
-15,,2018-11-13 06:16:33,2018-11-08,FOMX,Stuart Iain,"SVP R, D",S - Sale,4.58,-683,33602,-2%,-3128.0,,,,,FOMX
-16,,2018-11-13 06:13:25,2018-11-08,FOMX,Domzalski David,CEO,S - Sale,4.58,-2062,151513,-1%,-9444.0,,,,,FOMX
-17,,2018-10-02 17:22:37,2018-10-01,FOMX,Howard Alvin D,VP Regulatory,S - Sale,5.81,-234,41789,-1%,-1360.0,,,,,FOMX
-18,,2018-10-02 17:20:16,2018-10-01,FOMX,Elliott Russell P.,VP Drug Development,S - Sale,5.81,-142,12442,-1%,-825.0,,,,,FOMX
-19,,2018-10-02 17:18:28,2018-10-01,FOMX,Domzalski David,CEO,S - Sale,5.81,-601,153575,0%,-3492.0,,,,,FOMX
-20,,2018-09-06 16:05:42,2018-09-04,FOMX,Domzalski David,CEO,S - Sale,5.67,-67,154176,0%,-380.0,,,,,FOMX
-21,,2018-08-09 16:07:43,2018-08-08,FOMX,Domzalski David,CEO,S - Sale,5.68,-8238,154243,-5%,-46792.0,,,,,FOMX
-22,,2018-08-09 16:05:22,2018-08-08,FOMX,Stuart Iain,"SVP R, D",S - Sale,5.68,-2715,34285,-7%,-15421.0,,,,,FOMX
-23,,2018-07-03 16:09:26,2018-07-02,FOMX,Domzalski David,CEO,S - Sale,5.1,-602,162481,0%,-3070.0,,,,,FOMX
-24,,2018-07-03 16:07:27,2018-07-02,FOMX,Howard Alvin D,VP Regulatory,S - Sale,5.1,-234,42023,-1%,-1193.0,,,,,FOMX
-25,,2018-07-03 16:05:23,2018-07-02,FOMX,Elliott Russell P.,VP Drug Development,S - Sale,5.1,-142,12584,-1%,-724.0,,,,,FOMX
-26,,2018-06-04 14:20:33,2018-06-01,FOMX,Domzalski David,CEO,S - Sale,5.26,-67,163083,0%,-352.0,,,,,FOMX
-27,D,2018-05-31 16:51:10,2018-05-13,FOMX,Hirsch Stanley,Dir,S - Sale+OE,5.09,-6164,6508,-49%,-31369.0,,,,,FOMX
+0,,2020-03-03 16:39:27,2020-03-02,FOMX,Wiley Matthew T.,Chief Commercial Officer,A - Grant,2.68,1993,114074,+2%,5336.0,,,,,FOMX
+1,,2020-03-03 16:38:53,2020-03-02,FOMX,Harsch Mutya,"CLO, GC",A - Grant,2.68,1761,98232,+2%,4715.0,,,,,FOMX
+2,,2020-03-03 16:38:24,2020-03-02,FOMX,Domzalski David,CEO,A - Grant,2.68,4705,324028,+1%,12598.0,,,,,FOMX
+3,D,2020-03-03 16:36:43,2020-02-27,FOMX,Stern Stanley,Dir,A - Grant,0.0,14164,42359,+50%,0.0,,,,,FOMX
+4,,2020-03-03 16:32:50,2020-02-27,FOMX,Kazanchyan Anna,Dir,A - Grant,0.0,21246,58744,+57%,0.0,,,,,FOMX
+5,,2020-03-03 16:32:18,2020-02-27,FOMX,Hirsch Stanley,Dir,A - Grant,0.0,42493,294358,+17%,0.0,,,,,FOMX
+6,,2020-03-03 16:31:50,2020-02-27,FOMX,Bruno Anthony D,Dir,A - Grant,0.0,5312,75007,+8%,0.0,,,,,FOMX
+7,D,2020-02-24 18:39:46,2020-02-24,FOMX,Wiley Matthew T.,Chief Commercial Officer,A - Grant,0.0,41299,112081,+58%,0.0,,,,,FOMX
+8,D,2020-02-24 18:39:23,2020-02-24,FOMX,Stuart Iain,Chief Scientific Officer,A - Grant,0.0,41299,103636,+66%,0.0,,,,,FOMX
+9,D,2020-02-24 18:38:51,2020-02-24,FOMX,Harsch Mutya,"CLO, GC",A - Grant,0.0,41299,96471,+75%,0.0,,,,,FOMX
+10,D,2020-02-24 18:38:30,2020-02-24,FOMX,Hadar Ilan,"CFO, Country Manager",A - Grant,0.0,41299,130578,+46%,0.0,,,,,FOMX
+11,D,2020-02-24 18:38:08,2020-02-24,FOMX,Domzalski David,CEO,A - Grant,0.0,103248,319323,+48%,0.0,,,,,FOMX
+12,,2020-01-03 17:24:49,2019-12-31,FOMX,Wiley Matthew T.,Chief Commercial Officer,F - Tax,3.28,-2500,70782,-3%,-8200.0,,,,,FOMX
+13,,2020-01-03 17:23:57,2019-12-31,FOMX,Stuart Iain,Chief Scientific Officer,F - Tax,3.28,-514,62337,-1%,-1686.0,,,,,FOMX
+14,,2020-01-03 17:23:02,2019-12-31,FOMX,Harsch Mutya,"CLO, GC",F - Tax,3.28,-618,55172,-1%,-2027.0,,,,,FOMX
+15,,2020-01-03 17:22:18,2019-12-31,FOMX,Domzalski David,CEO,F - Tax,3.28,-2751,216075,-1%,-9023.0,,,,,FOMX
+16,,2019-12-03 16:32:35,2019-11-29,FOMX,Domzalski David,CEO,A - Grant,2.16,9842,218826,+5%,21249.0,,,,,FOMX
+17,,2019-12-03 16:31:34,2019-11-29,FOMX,Wiley Matthew T.,Chief Commercial Officer,A - Grant,2.16,9842,73282,+16%,21249.0,,,,,FOMX
+18,,2019-12-03 16:30:36,2019-11-29,FOMX,Harsch Mutya,"CLO, GC",A - Grant,2.16,4284,55790,+8%,9249.0,,,,,FOMX
+19,D,2019-11-05 16:32:52,2019-11-04,FOMX,Hirsch Stanley,Dir,M - OptEx,0.62,32500,251865,+15%,20150.0,,,,,FOMX
+20,D,2019-10-17 16:11:34,2019-10-15,FOMX,Hirsch Stanley,Dir,M - OptEx,0.62,90000,219365,+70%,55800.0,,,,,FOMX
+21,,2019-10-02 16:20:34,2019-09-30,FOMX,Stuart Iain,Chief Scientific Officer,F - Tax,3.07,-673,62851,-1%,-2066.0,,,,,FOMX
+22,,2019-10-02 16:19:36,2019-09-30,FOMX,Harsch Mutya,"CLO, GC",F - Tax,3.07,-463,51506,-1%,-1421.0,,,,,FOMX
+23,,2019-10-02 16:18:36,2019-09-30,FOMX,Domzalski David,CEO,F - Tax,3.07,-2256,208984,-1%,-6926.0,,,,,FOMX
+24,M,2019-09-11 17:12:53,2019-09-09,FOMX,Hadar Ilan,"CFO, Country Manager",S - Sale,3.5,-43812,89279,-33%,-153366.0,,,,,FOMX
+25,,2019-08-28 16:36:52,2019-08-26,FOMX,Kazanchyan Anna,Dir,S - Sale,3.27,-7049,37498,-16%,-23050.0,,,,,FOMX
+26,D,2019-08-14 14:59:45,2019-08-13,FOMX,Hirsch Stanley,Dir,M - OptEx,0.62,60000,129365,+86%,37200.0,,,,,FOMX
+27,,2019-07-17 16:40:49,2019-07-15,FOMX,Kazanchyan Anna,Dir,S - Sale,2.31,-808,44547,-2%,-1866.0,,,,,FOMX
+28,,2019-07-08 16:50:39,2019-05-16,FOMX,Stern Stanley,Dir,A - Grant,0.0,28195,28195,New,0.0,,,,,FOMX
+29,,2019-07-03 16:28:30,2019-07-01,FOMX,Harsch Mutya,"CLO, GC",S - Sale,2.35,-639,51969,-1%,-1502.0,,,,,FOMX
+30,,2019-07-03 16:27:39,2019-07-01,FOMX,Domzalski David,CEO,S - Sale,2.35,-3355,211240,-2%,-7884.0,,,,,FOMX
+31,,2019-07-03 16:26:42,2019-07-01,FOMX,Stuart Iain,Chief Scientific Officer,S - Sale,2.35,-951,63524,-1%,-2235.0,,,,,FOMX
+32,,2019-05-20 18:41:11,2019-05-16,FOMX,Bruno Anthony D,Dir,A - Grant,0.0,28195,69695,+68%,0.0,,,,,FOMX
+33,,2019-05-20 18:35:55,2019-05-20,FOMX,Kazanchyan Anna,Dir,S - Sale,2.61,-10600,45355,-19%,-27666.0,,,,,FOMX
+34,,2019-05-20 18:35:55,2019-05-16,FOMX,Kazanchyan Anna,Dir,A - Grant,0.0,28195,45355,+164%,0.0,,,,,FOMX
+35,,2019-05-20 18:34:35,2019-05-16,FOMX,Hirsch Stanley,Dir,A - Grant,0.0,56391,69365,+435%,0.0,,,,,FOMX
+36,,2019-04-03 16:42:53,2019-04-01,FOMX,Harsch Mutya,"CLO, GC",S - Sale,3.75,-2519,52608,-5%,-9446.0,,,,,FOMX
+37,,2019-04-03 16:40:31,2019-04-01,FOMX,Domzalski David,CEO,S - Sale,3.75,-5096,214595,-2%,-19110.0,,,,,FOMX
+38,,2019-04-03 16:38:10,2019-04-01,FOMX,Stuart Iain,Chief Scientific Officer,S - Sale,3.75,-1696,64475,-3%,-6360.0,,,,,FOMX
+39,,2019-03-06 16:07:30,2019-03-05,FOMX,Wiley Matthew T.,Chief Commercial Officer,P - Purchase,3.76,13440,63440,+27%,50534.0,,,,,FOMX
+40,D,2019-01-03 16:09:47,2019-01-01,FOMX,Hadar Ilan,"CFO, Country Manager",A - Grant,0.0,40712,133091,+44%,0.0,,,,,FOMX
+41,D,2019-01-03 16:08:13,2019-01-01,FOMX,Stuart Iain,Chief Scientific Officer,A - Grant,0.0,32569,66171,+97%,0.0,,,,,FOMX
+42,D,2019-01-03 16:06:13,2019-01-01,FOMX,Harsch Mutya,"CLO, GC",A - Grant,0.0,30127,55127,+121%,0.0,,,,,FOMX
+43,D,2019-01-03 16:04:22,2019-01-01,FOMX,Domzalski David,CEO,A - Grant,0.0,73282,219691,+50%,0.0,,,,,FOMX
+44,M,2018-12-06 06:09:21,2018-11-26,FOMX,Schwartz Aharon,Dir,P - Purchase,3.9,112200,112200,New,437773.0,,,,,FOMX
+45,,2018-12-06 06:06:14,2018-12-03,FOMX,Domzalski David,CEO,S - Sale,4.05,-68,146409,0%,-275.0,,,,,FOMX
+46,D,2018-12-04 16:05:38,2018-12-03,FOMX,Wiley Matthew T.,Chief Commercial Officer,A - Grant,0.0,50000,50000,New,0.0,,,,,FOMX
+47,,2018-11-20 16:07:48,2018-11-19,FOMX,Domzalski David,CEO,S - Sale,3.9,-5036,146477,-3%,-19640.0,,,,,FOMX
+48,,2018-11-20 16:05:35,2018-11-19,FOMX,Howard Alvin D,VP Regulatory,S - Sale,3.9,-3375,38414,-8%,-13163.0,,,,,FOMX
+49,,2018-11-13 06:16:33,2018-11-08,FOMX,Stuart Iain,"SVP R, D",S - Sale,4.58,-683,33602,-2%,-3128.0,,,,,FOMX
+50,,2018-11-13 06:13:25,2018-11-08,FOMX,Domzalski David,CEO,S - Sale,4.58,-2062,151513,-1%,-9444.0,,,,,FOMX
+51,,2018-10-02 17:22:37,2018-10-01,FOMX,Howard Alvin D,VP Regulatory,S - Sale,5.81,-234,41789,-1%,-1360.0,,,,,FOMX
+52,,2018-10-02 17:20:16,2018-10-01,FOMX,Elliott Russell P.,VP Drug Development,S - Sale,5.81,-142,12442,-1%,-825.0,,,,,FOMX
+53,,2018-10-02 17:18:28,2018-10-01,FOMX,Domzalski David,CEO,S - Sale,5.81,-601,153575,0%,-3492.0,,,,,FOMX
+54,,2018-09-06 16:05:42,2018-09-04,FOMX,Domzalski David,CEO,S - Sale,5.67,-67,154176,0%,-380.0,,,,,FOMX
+55,,2018-08-09 16:07:43,2018-08-08,FOMX,Domzalski David,CEO,S - Sale,5.68,-8238,154243,-5%,-46792.0,,,,,FOMX
+56,,2018-08-09 16:05:22,2018-08-08,FOMX,Stuart Iain,"SVP R, D",S - Sale,5.68,-2715,34285,-7%,-15421.0,,,,,FOMX
+57,,2018-07-03 16:09:26,2018-07-02,FOMX,Domzalski David,CEO,S - Sale,5.1,-602,162481,0%,-3070.0,,,,,FOMX
+58,,2018-07-03 16:07:27,2018-07-02,FOMX,Howard Alvin D,VP Regulatory,S - Sale,5.1,-234,42023,-1%,-1193.0,,,,,FOMX
+59,,2018-07-03 16:05:23,2018-07-02,FOMX,Elliott Russell P.,VP Drug Development,S - Sale,5.1,-142,12584,-1%,-724.0,,,,,FOMX
+60,,2018-06-04 14:20:33,2018-06-01,FOMX,Domzalski David,CEO,S - Sale,5.26,-67,163083,0%,-352.0,,,,,FOMX
+61,D,2018-05-31 16:51:10,2018-05-13,FOMX,Hirsch Stanley,Dir,X - OptEx,5.04,6224,6508,-49%,31369.0,,,,,FOMX
+62,D,2018-05-31 16:51:10,2018-05-13,FOMX,Hirsch Stanley,Dir,S - Sale+OE,5.09,-6164,6508,-49%,-31369.0,,,,,FOMX
+63,,2018-05-10 17:40:42,2018-05-08,FOMX,Kazanchyan Anna,Dir,A - Grant,0.0,14829,27760,+115%,0.0,,,,,FOMX
+64,D,2018-05-10 17:30:56,2018-05-08,FOMX,Domzalski David,CEO,A - Grant,0.0,23396,163150,+17%,0.0,,,,,FOMX
+65,,2018-04-04 12:32:54,2018-04-02,FOMX,Howard Alvin D,VP Regulatory,S - Sale,5.08,-234,42257,-1%,-1189.0,,,,,FOMX
+66,,2018-04-04 12:30:43,2018-04-02,FOMX,Elliott Russell P.,VP Drug Development,S - Sale,5.08,-142,12726,-1%,-721.0,,,,,FOMX
+67,,2018-04-04 12:28:11,2018-04-02,FOMX,Domzalski David,CEO,S - Sale,5.08,-602,139754,0%,-3058.0,,,,,FOMX
+68,,2018-03-06 11:50:43,2018-03-02,FOMX,Elliott Russell P.,VP Drug Development,S - Sale,6.14,-817,12868,-6%,-5016.0,,,,,FOMX
+69,,2018-03-05 11:37:36,2018-03-01,FOMX,Domzalski David,CEO,S - Sale,5.95,-66,140356,0%,-393.0,,,,,FOMX
+70,D,2018-02-28 16:17:42,2018-02-27,FOMX,Schuz David,VP Intellectual Property,A - Grant,0.0,5000,24980,+25%,0.0,,,,,FOMX
+71,D,2018-02-28 16:15:26,2018-02-27,FOMX,Shirvan Mitchell,"VP Innovation, Discovery",A - Grant,0.0,5000,24980,+25%,0.0,,,,,FOMX
+72,D,2018-02-28 16:13:57,2018-02-27,FOMX,Hadar Ilan,"CFO, Country Manager",A - Grant,0.0,11698,92379,+14%,0.0,,,,,FOMX
+73,D,2018-02-28 16:12:27,2018-02-27,FOMX,Stuart Iain,"SVP R, D",A - Grant,0.0,10000,37000,+37%,0.0,,,,,FOMX
+74,D,2018-02-28 16:11:04,2018-02-27,FOMX,Howard Alvin D,VP Regulatory,A - Grant,0.0,7500,42491,+21%,0.0,,,,,FOMX
+75,D,2018-02-28 16:09:09,2018-02-27,FOMX,Hazot Yohan,VP Pharmaceutical Development,A - Grant,0.0,5000,32300,+18%,0.0,,,,,FOMX
+76,D,2018-02-28 16:07:26,2018-02-27,FOMX,Harsch Mutya,"GC, SVP",A - Grant,0.0,25000,25000,New,0.0,,,,,FOMX
+77,D,2018-02-28 16:05:14,2018-02-27,FOMX,Elliott Russell P.,VP Drug Development,A - Grant,0.0,8750,13685,+177%,0.0,,,,,FOMX
+78,DM,2018-01-24 20:30:29,2018-01-01,FOMX,Schuz David,VP IP,M - OptEx,0.0,3307,19980,+20%,0.0,,,,,FOMX
+79,DM,2018-01-24 20:29:02,2018-01-01,FOMX,Shirvan Mitchell,"VP Innovation, Discovery",M - OptEx,0.0,3307,19980,+20%,0.0,,,,,FOMX
+80,DM,2018-01-24 20:27:38,2018-01-01,FOMX,Hadar Ilan,"CFO, Country Manager",M - OptEx,0.0,5594,80681,+7%,0.0,,,,,FOMX
+81,D,2018-01-24 20:26:07,2018-01-01,FOMX,Elliott Russell P.,VP Drug Development,M - OptEx,0.0,1372,4935,+39%,0.0,,,,,FOMX
+82,D,2018-01-24 20:26:07,2018-01-02,FOMX,Elliott Russell P.,VP Drug Development,F - Tax,5.98,-555,4935,-10%,-3319.0,,,,,FOMX
+83,D,2018-01-24 20:24:22,2018-01-01,FOMX,Domzalski David,CEO,M - OptEx,0.0,5948,140422,+4%,0.0,,,,,FOMX
+84,D,2018-01-24 20:24:22,2018-01-02,FOMX,Domzalski David,CEO,F - Tax,5.98,-2397,140422,-2%,-14334.0,,,,,FOMX
+85,D,2018-01-24 20:22:34,2018-01-01,FOMX,Howard Alvin D,VP Regulatory,M - OptEx,0.0,2288,34991,+7%,0.0,,,,,FOMX
+86,D,2018-01-24 20:22:34,2018-01-02,FOMX,Howard Alvin D,VP Regulatory,F - Tax,5.98,-924,34991,-3%,-5526.0,,,,,FOMX
+87,DM,2018-01-24 20:21:26,2018-01-01,FOMX,Hazot Yohan,VP Pharmaceutical Development,M - OptEx,0.0,5137,27300,+23%,0.0,,,,,FOMX
+88,DM,2018-01-18 17:10:36,2018-01-01,FOMX,Eini Meir,Observer to the Board,M - OptEx,0.0,6157,2735177,0%,0.0,,,,,FOMX
+89,DM,2018-01-18 17:10:36,2018-01-02,FOMX,Eini Meir,Observer to the Board,S - Sale+OE,6.29,-40000,2735177,-1%,-251761.0,,,,,FOMX

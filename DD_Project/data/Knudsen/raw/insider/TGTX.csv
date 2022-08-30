@@ -1,11 +1,209 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,M,2022-01-07 18:11:53,2022-01-04,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$19.10,-84965,568483,-13%,"-$1,622,737",,,,,TGTX
-1,M,2022-01-07 18:00:51,2022-01-04,TGTX,Weiss Michael S,"CEO, Pres",S - Sale,$18.80,-68220,10988021,-1%,"-$1,282,527",,,,,TGTX
-2,,2020-12-11 17:01:14,2020-12-10,TGTX,Echelard Yann,Dir,S - Sale,$40.05,-30000,129116,-19%,"-$1,201,500",,,,,TGTX
-3,,2020-09-11 16:31:30,2020-09-09,TGTX,"Ra Capital Management, L.P.",10%,S - Sale,$25.81,-158589,12629868,-1%,"-$4,092,738",,,,,TGTX
-4,,2020-06-24 19:48:53,2020-06-17,TGTX,Kennedy William James,Dir,S - Sale,$18.27,-7745,109633,-7%,"-$141,501",,,,,TGTX
-5,,2019-07-03 16:00:42,2019-07-01,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$8.47,-17654,383338,-4%,"-$149,529",,,,,TGTX
-6,,2019-06-27 07:33:16,2019-06-26,TGTX,Weiss Michael S,"CEO, Pres",P - Purchase,$7.04,50000,12878185,0%,"+$351,750",,,,,TGTX
-7,D,2019-01-03 19:21:20,2019-01-02,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale+OE,$4.13,-37275,400992,-9%,"-$153,946",,,,,TGTX
-8,M,2018-07-05 17:00:35,2018-07-02,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$13.21,-47191,438267,-10%,"-$623,303",,,,,TGTX
-9,,2018-06-18 16:30:26,2018-06-14,TGTX,Kennedy William James,Dir,S - Sale,$13.45,-25071,60330,-29%,"-$337,205",,,,,TGTX
+1,,2022-01-07 18:00:51,2021-12-29,TGTX,Weiss Michael S,"CEO, Pres",A - Grant,$0.00,56394,10988021,+1%,+$0,,,,,TGTX
+2,M,2022-01-07 18:00:51,2021-12-15,TGTX,Weiss Michael S,"CEO, Pres",G - Gift,$0.00,-712000,10988021,-6%,-$0,,,,,TGTX
+3,M,2022-01-07 18:00:51,2022-01-04,TGTX,Weiss Michael S,"CEO, Pres",S - Sale,$18.80,-68220,10988021,-1%,"-$1,282,527",,,,,TGTX
+4,,2021-06-22 18:27:10,2021-06-18,TGTX,Power Sean A,"CFO, Secretary, Treasurer",A - Grant,$0.00,25000,653448,+4%,+$0,,,,,TGTX
+5,,2021-06-22 18:26:47,2021-06-18,TGTX,Weiss Michael S,"CEO, Pres",A - Grant,$0.00,1080770,14148852,+8%,+$0,,,,,TGTX
+6,,2021-06-22 18:26:30,2021-06-18,TGTX,Lonial Sagar,Dir,A - Grant,$0.00,20000,85000,+31%,+$0,,,,,TGTX
+7,,2021-06-22 18:26:09,2021-06-18,TGTX,Hume Daniel,Dir,A - Grant,$0.00,20000,154507,+15%,+$0,,,,,TGTX
+8,,2021-06-22 18:25:50,2021-06-18,TGTX,Hoberman Kenneth,Dir,A - Grant,$0.00,20000,178953,+13%,+$0,,,,,TGTX
+9,,2021-06-22 18:25:29,2021-06-18,TGTX,Echelard Yann,Dir,A - Grant,$0.00,20000,149116,+15%,+$0,,,,,TGTX
+10,,2021-06-22 18:25:17,2021-06-18,TGTX,Charney Laurence N,Dir,A - Grant,$0.00,60000,220997,+37%,+$0,,,,,TGTX
+11,,2021-01-04 16:30:29,2020-12-30,TGTX,Power Sean A,"CFO, Secretary, Treasurer",A - Grant,$0.00,20000,653338,+3%,+$0,,,,,TGTX
+12,,2020-12-11 17:01:14,2020-12-10,TGTX,Echelard Yann,Dir,S - Sale,$40.05,-30000,129116,-19%,"-$1,201,500",,,,,TGTX
+13,,2020-09-11 16:31:30,2020-09-09,TGTX,"Ra Capital Management, L.P.",10%,S - Sale,$25.81,-158589,12629868,-1%,"-$4,092,738",,,,,TGTX
+14,,2020-07-20 19:00:17,2020-07-16,TGTX,Power Sean A,"CFO, Secretary, Treasurer",A - Grant,$0.00,250000,633338,+65%,+$0,,,,,TGTX
+15,,2020-07-02 16:32:47,2020-06-22,TGTX,Lonial Sagar,Dir,A - Grant,$0.00,65000,65000,New,+$0,,,,,TGTX
+16,,2020-06-24 19:51:10,2020-06-22,TGTX,Weiss Michael S,"CEO, Pres",A - Grant,$0.00,1556029,14434214,+12%,+$0,,,,,TGTX
+17,,2020-06-24 19:50:50,2020-06-22,TGTX,Hume Daniel,Dir,A - Grant,$0.00,15000,134507,+13%,+$0,,,,,TGTX
+18,,2020-06-24 19:50:21,2020-06-22,TGTX,Hoberman Kenneth,Dir,A - Grant,$0.00,15000,158953,+10%,+$0,,,,,TGTX
+19,,2020-06-24 19:49:59,2020-06-22,TGTX,Echelard Yann,Dir,A - Grant,$0.00,15000,159116,+10%,+$0,,,,,TGTX
+20,,2020-06-24 19:49:35,2020-06-22,TGTX,Charney Laurence N,Dir,A - Grant,$0.00,15000,160997,+10%,+$0,,,,,TGTX
+21,,2020-06-24 19:48:53,2020-06-22,TGTX,Kennedy William James,Dir,A - Grant,$0.00,15000,109633,+16%,+$0,,,,,TGTX
+22,,2020-06-24 19:48:53,2020-06-17,TGTX,Kennedy William James,Dir,S - Sale,$18.27,-7745,109633,-7%,"-$141,501",,,,,TGTX
+23,,2019-09-18 17:11:16,2019-09-17,TGTX,Hoberman Kenneth,Dir,A - Grant,$0.00,27048,143953,+23%,+$0,,,,,TGTX
+24,,2019-09-18 17:10:23,2019-09-17,TGTX,Charney Laurence N,Dir,A - Grant,$0.00,27048,145997,+23%,+$0,,,,,TGTX
+25,,2019-09-18 17:09:51,2019-09-17,TGTX,Echelard Yann,Dir,A - Grant,$0.00,27048,144116,+23%,+$0,,,,,TGTX
+26,,2019-09-18 17:09:33,2019-09-17,TGTX,Kennedy William James,Dir,A - Grant,$0.00,27048,102378,+36%,+$0,,,,,TGTX
+27,,2019-09-18 17:09:10,2019-09-17,TGTX,Hume Daniel,Dir,A - Grant,$0.00,27048,119507,+29%,+$0,,,,,TGTX
+28,,2019-07-03 16:00:42,2019-07-01,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$8.47,-17654,383338,-4%,"-$149,529",,,,,TGTX
+29,,2019-06-27 07:33:16,2019-06-26,TGTX,Weiss Michael S,"CEO, Pres",P - Purchase,$7.04,50000,12878185,0%,"+$351,750",,,,,TGTX
+30,,2019-06-14 16:43:22,2019-06-13,TGTX,Weiss Michael S,"CEO, Pres",A - Grant,$0.00,1179380,12828185,+10%,+$0,,,,,TGTX
+31,D,2019-01-03 19:21:20,2019-01-02,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale+OE,$4.13,-37275,400992,-9%,"-$153,946",,,,,TGTX
+32,M,2018-07-05 17:00:35,2018-07-02,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$13.21,-47191,438267,-10%,"-$623,303",,,,,TGTX
+33,,2018-07-02 17:59:08,2018-06-26,TGTX,Charney Laurence N,Dir,A - Grant,$0.00,15000,118949,+14%,+$0,,,,,TGTX
+34,,2018-06-28 17:00:32,2018-06-26,TGTX,Hoberman Kenneth,Dir,A - Grant,$0.00,15000,116905,+15%,+$0,,,,,TGTX
+35,,2018-06-28 17:00:31,2018-06-26,TGTX,Kennedy William James,Dir,A - Grant,$0.00,15000,75330,+25%,+$0,,,,,TGTX
+36,,2018-06-28 17:00:30,2018-06-26,TGTX,Weiss Michael S,"CEO, Pres",A - Grant,$0.00,1018011,11648805,+10%,+$0,,,,,TGTX
+37,,2018-06-28 17:00:29,2018-06-26,TGTX,Hume Daniel,Dir,A - Grant,$0.00,15000,92459,+19%,+$0,,,,,TGTX
+38,,2018-06-28 17:00:27,2018-06-26,TGTX,Echelard Yann,Dir,A - Grant,$0.00,15000,117068,+15%,+$0,,,,,TGTX
+39,,2018-06-28 17:00:26,2018-06-26,TGTX,Schoenebaum Mark,Dir,A - Grant,$0.00,15000,125949,+14%,+$0,,,,,TGTX
+40,,2018-06-18 16:30:26,2018-06-14,TGTX,Kennedy William James,Dir,S - Sale,$13.45,-25071,60330,-29%,"-$337,205",,,,,TGTX
+41,,2018-01-03 17:25:45,2017-12-29,TGTX,Power Sean A,"CFO, Secretary, Treasurer",A - Grant,$0.00,70000,485458,+17%,+$0,,,,,TGTX
+42,,2018-01-03 17:25:45,2018-01-02,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$8.50,-32006,485458,-6%,"-$272,051",,,,,TGTX
+43,,2017-06-19 18:16:25,2017-06-19,TGTX,Weiss Michael S,"CEO, Pres",A - Grant,$0.00,834877,20426711,+4%,+$0,,,,,TGTX
+44,,2017-06-19 18:16:25,2017-06-19,TGTX,Weiss Michael S,"CEO, Pres",G - Gift,$0.00,-350000,20426711,-2%,-$0,,,,,TGTX
+45,,2017-06-19 18:12:55,2017-06-16,TGTX,Kennedy William James,Dir,A - Grant,$0.00,15000,85401,+21%,+$0,,,,,TGTX
+46,,2017-06-19 18:11:07,2017-06-16,TGTX,Charney Laurence N,Dir,A - Grant,$0.00,15000,103949,+17%,+$0,,,,,TGTX
+47,,2017-06-19 18:10:01,2017-06-16,TGTX,Hoberman Kenneth,Dir,A - Grant,$0.00,15000,101905,+17%,+$0,,,,,TGTX
+48,,2017-06-19 18:09:00,2017-06-16,TGTX,Hume Daniel,Dir,A - Grant,$0.00,15000,77459,+24%,+$0,,,,,TGTX
+49,,2017-06-19 18:07:46,2017-06-16,TGTX,Echelard Yann,Dir,A - Grant,$0.00,15000,102068,+17%,+$0,,,,,TGTX
+50,,2017-06-19 18:06:28,2017-06-16,TGTX,Schoenebaum Mark,Dir,A - Grant,$0.00,15000,110949,+16%,+$0,,,,,TGTX
+51,M,2017-06-19 18:05:26,2017-06-16,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$11.09,-59976,447464,-12%,"-$665,133",,,,,TGTX
+52,,2017-04-12 17:44:26,2017-04-11,TGTX,Kennedy William James,Dir,S - Sale,$10.27,-8548,70401,-11%,"-$87,788",-1.0,3.0,10.0,,TGTX
+53,,2017-04-04 17:57:29,2017-04-04,TGTX,Charney Laurence N,Dir,S - Sale,$11.17,-7000,88949,-7%,"-$78,190",-5.0,-7.0,-5.0,,TGTX
+54,,2017-01-04 17:28:28,2016-12-30,TGTX,Power Sean A,"CFO, Secretary, Treasurer",A - Grant,$0.00,100000,507440,+25%,+$0,3.0,3.0,-6.0,,TGTX
+55,,2017-01-04 17:28:28,2017-01-04,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$4.55,-8816,507440,-2%,"-$40,113",3.0,3.0,-6.0,,TGTX
+56,,2017-01-04 16:33:57,2017-01-01,TGTX,Weiss Michael S,"CEO, Pres, 10%",D - Sale to issuer,$0.00,-3381866,19598084,-15%,-$0,3.0,3.0,-6.0,,TGTX
+57,M,2017-01-04 16:33:57,2017-01-01,TGTX,Weiss Michael S,"CEO, Pres, 10%",A - Grant,$0.00,4072121,19598084,+26%,+$0,3.0,3.0,-6.0,,TGTX
+58,,2016-09-01 20:03:23,2016-09-01,TGTX,Weiss Michael S,"See Remarks, 10%",G - Gift,$0.00,-328764,9455662,-3%,-$0,0.0,9.0,19.0,-18.0,TGTX
+59,,2016-07-08 20:06:46,2016-07-06,TGTX,Hoberman Kenneth,Dir,A - Grant,$0.00,12459,86905,+17%,+$0,0.0,-3.0,-2.0,-19.0,TGTX
+60,,2016-07-08 20:06:14,2016-07-05,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$5.99,-50426,416256,-11%,"-$302,052",0.0,-3.0,-2.0,-19.0,TGTX
+61,,2016-07-08 20:05:48,2016-07-06,TGTX,Hume Daniel,Dir,A - Grant,$0.00,12459,62459,+25%,+$0,0.0,-3.0,-2.0,-19.0,TGTX
+62,,2016-07-08 20:05:11,2016-07-06,TGTX,Echelard Yann,Dir,A - Grant,$0.00,12459,87068,+17%,+$0,0.0,-3.0,-2.0,-19.0,TGTX
+63,,2016-07-08 20:04:46,2016-07-06,TGTX,Schoenebaum Mark,Dir,A - Grant,$0.00,12459,95949,+15%,+$0,0.0,-3.0,-2.0,-19.0,TGTX
+64,,2016-07-08 20:04:27,2016-07-06,TGTX,Kennedy William James,Dir,A - Grant,$0.00,12459,78949,+19%,+$0,0.0,-3.0,-2.0,-19.0,TGTX
+65,,2016-07-08 20:04:01,2016-07-06,TGTX,Charney Laurence N,Dir,A - Grant,$0.00,12459,95949,+15%,+$0,0.0,-3.0,-2.0,-19.0,TGTX
+66,,2016-04-20 17:00:52,2016-04-18,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$10.12,-10000,466682,-2%,"-$101,200",3.0,-2.0,-23.0,-38.0,TGTX
+67,,2016-01-07 18:00:26,2016-01-05,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$11.21,-22790,476682,-5%,"-$255,476",-8.0,-9.0,-9.0,-32.0,TGTX
+68,A,2016-01-04 20:22:07,2015-12-31,TGTX,Weiss Michael S,"See Remarks, 10%",A - Grant,$0.00,672343,9398976,+8%,+$0,-2.0,-23.0,-30.0,-42.0,TGTX
+69,,2016-01-04 18:01:10,2015-12-31,TGTX,Power Sean A,"CFO, Secretary, Treasurer",A - Grant,$0.00,50000,499472,+11%,+$0,-2.0,-23.0,-30.0,-42.0,TGTX
+70,,2016-01-04 18:00:47,2015-12-31,TGTX,Weiss Michael S,"See Remarks, 10%",A - Grant,$0.00,6723443,9398976,+251%,+$0,-2.0,-23.0,-30.0,-42.0,TGTX
+71,,2015-07-09 21:41:50,2015-07-08,TGTX,Kennedy William James,Dir,S - Sale,$17.08,-17000,66490,-20%,"-$290,360",0.0,1.0,-7.0,-45.0,TGTX
+72,,2015-07-02 17:00:23,2015-07-01,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$16.46,-50054,449472,-10%,"-$823,889",4.0,10.0,6.0,-27.0,TGTX
+73,,2015-06-08 17:27:05,2015-06-04,TGTX,Echelard Yann,Dir,A - Grant,$0.00,4667,74609,+7%,+$0,-4.0,-5.0,7.0,-18.0,TGTX
+74,,2015-06-05 19:10:06,2015-06-04,TGTX,Kennedy William James,Dir,A - Grant,$0.00,4667,83490,+6%,+$0,0.0,-3.0,5.0,-12.0,TGTX
+75,,2015-06-05 19:09:49,2015-06-04,TGTX,Charney Laurence N,Dir,A - Grant,$0.00,4667,83490,+6%,+$0,0.0,-3.0,5.0,-12.0,TGTX
+76,,2015-06-05 19:09:19,2015-06-04,TGTX,Schoenebaum Mark,Dir,A - Grant,$0.00,4667,83490,+6%,+$0,0.0,-3.0,5.0,-12.0,TGTX
+77,,2015-06-05 19:08:54,2015-06-04,TGTX,Weiss Michael S,"See Remarks, 10%",A - Grant,$0.00,337257,8726633,+4%,+$0,0.0,-3.0,5.0,-12.0,TGTX
+78,,2015-06-05 19:08:06,2015-06-04,TGTX,Hoberman Kenneth,Dir,A - Grant,$0.00,4667,74446,+7%,+$0,0.0,-3.0,5.0,-12.0,TGTX
+79,D,2015-05-11 16:30:39,2015-02-17,TGTX,Lfb Biotechnologies S.A.S.U.,10%,P - Purchase,$6.53,114855,7614855,+2%,"+$750,003",3.0,6.0,2.0,-17.0,TGTX
+80,D,2015-05-11 16:30:39,2015-05-07,TGTX,Lfb Biotechnologies S.A.S.U.,10%,X - OptEx,$0.00,2500000,7614855,-25%,"$2,500",3.0,6.0,2.0,-17.0,TGTX
+81,M,2015-04-03 17:00:54,2015-04-01,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$15.50,-23800,499526,-5%,"-$369,010",0.0,5.0,-5.0,-31.0,TGTX
+82,M,2015-01-07 20:50:13,2015-01-05,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$16.40,-66401,523326,-11%,"-$1,088,890",1.0,-14.0,-25.0,-1.0,TGTX
+83,,2015-01-02 18:31:32,2014-12-30,TGTX,Power Sean A,"CFO, Secretary, Treasurer",A - Grant,$0.00,10000,589727,+2%,+$0,-1.0,8.0,-19.0,1.0,TGTX
+84,,2015-01-02 18:29:20,2014-12-30,TGTX,Weiss Michael S,"See Remarks, 10%",A - Grant,$0.00,268603,8389376,+3%,+$0,-1.0,8.0,-19.0,1.0,TGTX
+85,,2014-12-18 21:44:39,2014-12-16,TGTX,Weiss Michael S,"See Remarks, 10%",S - Sale,$16.44,-210618,8120773,-3%,"-$3,462,560",5.0,2.0,-13.0,8.0,TGTX
+86,,2014-12-18 21:37:28,2014-12-16,TGTX,Power Sean A,"CFO, Secretary, Treasurer",S - Sale,$16.44,-38041,579727,-6%,"-$625,394",5.0,2.0,-13.0,8.0,TGTX
+87,,2014-06-10 06:18:39,2014-06-06,TGTX,Echelard Yann,Dir,A - Grant,$0.00,11538,69942,+20%,+$0,-3.0,33.0,56.0,103.0,TGTX
+88,,2014-06-10 06:15:49,2014-06-06,TGTX,Charney Laurence N,Dir,A - Grant,$0.00,11538,78823,+17%,+$0,-3.0,33.0,56.0,103.0,TGTX
+89,,2014-06-10 06:13:04,2014-06-06,TGTX,Schoenebaum Mark,Dir,A - Grant,$0.00,11538,78823,+17%,+$0,-3.0,33.0,56.0,103.0,TGTX
+90,,2014-06-10 06:08:58,2014-06-06,TGTX,Herskowitz Neil,Dir,A - Grant,$0.00,11538,80088,+17%,+$0,-3.0,33.0,56.0,103.0,TGTX
+91,,2014-06-10 06:06:18,2014-06-06,TGTX,Kennedy William James,Dir,A - Grant,$0.00,11538,78823,+17%,+$0,-3.0,33.0,56.0,103.0,TGTX
+92,,2014-01-02 19:01:17,2013-12-30,TGTX,Weiss Michael S,"See Remarks, 10%",A - Grant,$0.00,491920,8331391,+6%,+$0,6.0,1.0,49.0,178.0,TGTX
+93,,2014-01-02 19:00:25,2013-12-30,TGTX,Power Sean A,"CFO, Secretary, Treasurer",A - Grant,$0.00,75000,617768,+14%,+$0,6.0,1.0,49.0,178.0,TGTX
+94,,2014-01-02 19:00:25,2013-11-21,TGTX,Power Sean A,"CFO, Secretary, Treasurer",F - Tax,$5.38,-23106,617768,-4%,"-$124,310",6.0,1.0,49.0,178.0,TGTX
+95,,2013-12-12 06:06:36,2013-12-11,TGTX,Weiss Michael S,"See Remarks, 10%",P - Purchase,$3.43,10000,7839471,0%,"+$34,300",7.0,5.0,25.0,178.0,TGTX
+96,,2013-06-07 19:04:53,2013-06-05,TGTX,Echelard Yann,Dir,A - Grant,$0.00,8404,58404,+17%,+$0,6.0,4.0,4.0,-33.0,TGTX
+97,,2013-06-07 19:01:39,2013-06-05,TGTX,Herskowitz Neil,Dir,A - Grant,$0.00,8404,68550,+14%,+$0,6.0,4.0,4.0,-33.0,TGTX
+98,,2013-06-07 18:59:18,2013-06-05,TGTX,Kennedy William James,Dir,A - Grant,$0.00,8404,67285,+14%,+$0,6.0,4.0,4.0,-33.0,TGTX
+99,,2013-06-07 18:56:48,2013-06-05,TGTX,Schoenebaum Mark,Dir,A - Grant,$0.00,8404,67285,+14%,+$0,6.0,4.0,4.0,-33.0,TGTX
+100,,2013-06-07 18:53:27,2013-06-05,TGTX,Charney Laurence N,Dir,A - Grant,$0.00,8404,67285,+14%,+$0,6.0,4.0,4.0,-33.0,TGTX
+101,,2013-03-19 16:34:08,2013-03-15,TGTX,Charney Laurence N,Dir,A - Grant,$0.00,8881,58881,+18%,+$0,6.0,-10.0,2.0,5.0,TGTX
+102,,2013-03-19 16:33:51,2013-03-15,TGTX,Schoenebaum Mark,Dir,A - Grant,$0.00,8881,58881,+18%,+$0,6.0,-10.0,2.0,5.0,TGTX
+103,,2013-03-19 16:33:18,2013-03-15,TGTX,Kennedy William James,Dir,A - Grant,$0.00,8881,58881,+18%,+$0,6.0,-10.0,2.0,5.0,TGTX
+104,,2013-03-19 16:32:41,2013-03-15,TGTX,Herskowitz Neil,Dir,A - Grant,$0.00,8881,60146,+17%,+$0,6.0,-10.0,2.0,5.0,TGTX
+105,,2013-03-19 16:31:59,2013-03-15,TGTX,Echelard Yann,Dir,A - Grant,$0.00,50000,50000,New,+$0,6.0,-10.0,2.0,5.0,TGTX
+106,,2013-01-02 20:14:00,2012-12-28,TGTX,Weiss Michael S,"COB, Interim CEO, Pres, 10%",A - Grant,$0.00,486743,7829471,+7%,+$0,-5.0,30.0,0.0,80.0,TGTX
+107,,2013-01-02 20:11:46,2012-12-28,TGTX,Power Sean A,"CFO, Secretary, Treasurer",A - Grant,$0.00,75000,565874,+15%,+$0,-5.0,30.0,0.0,80.0,TGTX
+108,,2013-01-02 20:11:46,2012-05-17,TGTX,Power Sean A,"CFO, Secretary, Treasurer",F - Tax,$6.25,-13526,565874,-2%,"-$84,538",-5.0,30.0,0.0,80.0,TGTX
+109,,2012-12-12 16:30:56,2012-12-06,TGTX,Herskowitz Neil,Dir,P - Purchase,$2.00,1000,51265,+2%,"+$2,000",0.0,-4.0,80.0,181.0,TGTX
+110,M,2012-09-17 09:46:47,2012-09-13,TGTXD,Power Sean A,"CFO, Secretary, Treasurer",P - Purchase,$2.27,4400,504400,+1%,"+$10,002",,,,,TGTX
+111,M,2012-09-11 16:01:59,2012-09-10,TGTX,Weiss Michael S,"See Remarks, 10%",P - Purchase,$2.25,150000,7342728,+2%,"+$337,500",0.0,0.0,0.0,118.0,TGTX
+112,D,2012-05-17 17:32:50,2012-05-16,TGTXD,Weiss Michael S,"See Remarks, 10%",A - Grant,$0.00,1500000,5192728,+41%,+$0,,,,,TGTX
+113,D,2012-05-17 17:32:50,2012-04-30,TGTXD,Weiss Michael S,"See Remarks, 10%",C - Converted deriv,$0.00,3524560,5192728,-40%,$0,,,,,TGTX
+114,D,2012-05-17 17:32:50,2012-05-16,TGTXD,Weiss Michael S,"See Remarks, 10%",P - Purchase,$6.25,1500,5192728,0%,"+$9,375",,,,,TGTX
+115,D,2012-05-17 17:31:40,2012-05-16,TGTXD,Power Sean A,"CFO, Secretary, Treasurer",A - Grant,$0.00,350000,500000,+233%,+$0,,,,,TGTX
+116,D,2012-05-17 17:31:40,2012-04-30,TGTXD,Power Sean A,"CFO, Secretary, Treasurer",C - Converted deriv,$0.00,150000,500000,-23%,$0,,,,,TGTX
+117,,2012-05-17 17:30:06,2012-05-16,TGTXD,Charney Laurence N,Dir,A - Grant,$0.00,50000,50000,New,+$0,,,,,TGTX
+118,,2012-05-17 17:28:53,2012-05-16,TGTXD,Herskowitz Neil,Dir,A - Grant,$0.00,50000,50265,>999%,+$0,,,,,TGTX
+119,,2012-05-17 17:27:34,2012-05-16,TGTXD,Schoenebaum Mark,Dir,A - Grant,$0.00,50000,50000,New,+$0,,,,,TGTX
+120,,2012-05-17 17:26:04,2012-05-16,TGTXD,Kennedy William James,Dir,A - Grant,$0.00,50000,50000,New,+$0,,,,,TGTX
+121,,2007-08-02 12:17:56,2007-08-01,MHA,Abel Douglas,CEO,A - Grant,$0.27,10000,45000,+29%,"+$2,650",,,,,TGTX
+122,,2007-08-02 11:45:54,2007-08-01,MHA,Weiser Michael,Dir,A - Grant,$0.26,10000,2247563,0%,"+$2,600",,,,,TGTX
+123,,2007-07-20 17:24:55,2007-07-20,MHA,Abel Douglas,"Pres, CEO",A - Grant,$0.36,10000,45000,+29%,"+$3,600",,,,,TGTX
+124,,2007-07-16 17:58:38,2007-07-13,MHA,Abel Douglas,"Pres, CEO",A - Grant,$0.34,5000,35000,+17%,"+$1,700",,,,,TGTX
+125,,2007-07-16 17:46:17,2007-07-16,MHA,Weiser Michael,Dir,A - Grant,$0.33,10000,2237563,0%,"+$3,300",,,,,TGTX
+126,,2007-07-13 15:37:45,2007-07-13,MHA,McGuinness Michael,CFO,A - Grant,$0.34,10000,10000,New,"+$3,400",,,,,TGTX
+127,,2007-07-12 21:01:49,2007-07-12,MHA,Weiser Michael,Dir,A - Grant,$0.38,10000,2227563,0%,"+$3,800",,,,,TGTX
+128,D,2007-04-27 15:46:35,2007-01-30,MHA,Hoenlein Malcolm,Dir,A - Grant,$0.00,4861,4861,New,+$0,,,,,TGTX
+129,D,2007-04-09 09:34:30,2007-03-30,MHA,Herskowitz Neil,Dir,P - Purchase,$0.90,55555,137794,+68%,"+$50,000",,,,,TGTX
+130,D,2007-02-02 08:51:39,2007-01-30,MHA,Gimbert Joan Pons,Dir,A - Grant,$0.00,2112,3959149,0%,+$0,,,,,TGTX
+131,D,2007-01-31 15:18:19,2007-01-30,MHA,Herskowitz Neil,Dir,A - Grant,$0.00,6338,82206,+8%,+$0,,,,,TGTX
+132,D,2007-01-31 15:17:51,2007-01-30,MHA,McInerney Timothy,Dir,A - Grant,$0.00,4929,617071,+1%,+$0,,,,,TGTX
+133,D,2007-01-31 11:58:41,2007-01-30,MHA,Steinhart Richard I,Dir,A - Grant,$0.00,5633,5633,New,+$0,,,,,TGTX
+134,D,2007-01-31 09:36:13,2007-01-30,MHA,Weiser Michael,Dir,A - Grant,$0.00,4225,2217563,0%,+$0,,,,,TGTX
+135,DM,2006-07-31 09:39:24,2006-07-10,MHA,Herskowitz Neil,Dir,P - Purchase,$0.68,10000,75868,+15%,"+$6,785",,,,,TGTX
+136,D,2006-07-12 14:29:43,2006-07-12,MHA,Weiser Michael,Dir,P - Purchase,$0.74,5000,2213338,0%,"+$3,696",,,,,TGTX
+137,D,2006-07-10 15:31:22,2006-07-10,MHA,Abel Douglas,"Pres, CEO",P - Purchase,$0.75,5000,30000,+20%,"+$3,750",,,,,TGTX
+138,D,2006-01-12 15:35:23,2005-08-26,MHA,Herskowitz Neil,Dir,C - Converted deriv,$0.00,44168,65868,-40%,$0,,,,,TGTX
+139,D,2006-01-12 15:35:23,2006-01-10,MHA,Herskowitz Neil,Dir,P - Purchase,$1.30,14200,65868,+27%,"+$18,460",,,,,TGTX
+140,D,2005-11-21 12:46:08,2005-11-18,MHA,Abel Douglas,"Pres, CEO",P - Purchase,$1.28,5000,25000,+25%,"+$6,400",,,,,TGTX
+141,D,2005-10-24 13:58:15,2005-10-21,MHTT,Abel Douglas,"Pres, CEO",P - Purchase,$1.31,5000,20000,+33%,"+$6,550",,,,,TGTX
+142,D,2005-10-21 13:44:31,2005-10-20,MHTT,Abel Douglas,"Pres, CEO",P - Purchase,$1.29,5000,15000,+50%,"+$6,466",,,,,TGTX
+143,A,2005-06-27 18:16:56,2005-04-01,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.55,5000,5863863,0%,"+$7,750",,,,,TGTX
+144,,2005-05-12 13:15:40,2005-05-11,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.56,5000,5331828,0%,"+$7,800",,,,,TGTX
+145,,2005-05-10 11:31:09,2005-05-09,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.50,5000,5326828,0%,"+$7,500",,,,,TGTX
+146,,2005-05-05 14:55:39,2005-05-04,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.40,5000,5321828,0%,"+$7,010",,,,,TGTX
+147,,2005-05-04 14:01:25,2005-05-03,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.35,5000,5316828,0%,"+$6,750",,,,,TGTX
+148,,2005-04-29 15:08:36,2005-04-28,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.25,5000,5311828,0%,"+$6,250",,,,,TGTX
+149,D,2005-04-28 17:06:21,2005-04-27,MHTT,Herskowitz Neil,Dir,P - Purchase,$1.21,5000,7500,+200%,"+$6,050",,,,,TGTX
+150,D,2005-04-28 13:47:27,2005-04-26,MHTT,Abel Douglas,"Pres, CEO",P - Purchase,$1.42,2500,10000,+33%,"+$3,550",,,,,TGTX
+151,,2005-04-28 12:12:36,2005-04-27,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.34,5000,5306828,0%,"+$6,700",,,,,TGTX
+152,,2005-04-27 16:09:46,2005-04-26,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.46,5000,5301828,0%,"+$7,300",,,,,TGTX
+153,DM,2005-04-26 11:35:32,2005-04-22,MHTT,Abel Douglas,"Pres, CEO",P - Purchase,$1.50,5000,7500,+200%,"+$7,500",,,,,TGTX
+154,,2005-04-26 10:55:17,2005-04-25,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.48,5000,5296828,0%,"+$7,400",,,,,TGTX
+155,D,2005-04-25 16:53:03,2005-04-21,MHTT,Abel Douglas,"Pres, CEO",P - Purchase,$1.53,2500,2500,New,"+$3,825",,,,,TGTX
+156,,2005-04-25 13:06:04,2005-04-22,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.50,5000,5291828,0%,"+$7,500",,,,,TGTX
+157,,2005-04-22 14:38:44,2005-04-21,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.53,5000,5286828,0%,"+$7,650",,,,,TGTX
+158,,2005-04-20 12:09:21,2005-04-19,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.50,5000,5281828,0%,"+$7,500",,,,,TGTX
+159,,2005-04-19 12:29:51,2005-04-15,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.50,5000,5276828,0%,"+$7,500",,,,,TGTX
+160,,2005-04-15 16:41:19,2005-04-14,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.57,5000,5271828,0%,"+$7,850",,,,,TGTX
+161,M,2005-04-14 10:50:12,2005-04-12,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.58,10000,5266828,0%,"+$15,800",,,,,TGTX
+162,,2005-04-11 15:03:55,2005-04-08,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.60,5000,5256828,0%,"+$8,000",,,,,TGTX
+163,A,2005-04-08 19:22:15,2005-04-01,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.55,5000,5246828,0%,"+$7,750",,,,,TGTX
+164,,2005-04-08 19:20:35,2005-04-07,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.56,5000,5251828,0%,"+$7,800",,,,,TGTX
+165,,2005-04-05 17:19:06,2005-04-01,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.55,5000,5246828,0%,"+$7,750",,,,,TGTX
+166,D,2005-04-05 17:18:35,2005-04-01,MHTT,McInerney Timothy,Dir,A - Grant,$0.00,103756,612142,+20%,+$0,,,,,TGTX
+167,D,2005-04-05 17:18:16,2005-04-01,MHTT,Weiser Michael,Dir,A - Grant,$0.00,851778,2208338,+63%,+$0,,,,,TGTX
+168,D,2005-04-05 17:06:27,2005-04-01,MHTT,Tanen David M,Dir,A - Grant,$0.00,233937,602517,+63%,+$0,,,,,TGTX
+169,D,2005-04-05 16:35:29,2005-04-01,MHTT,Kazam Joshoa A,Dir,A - Grant,$0.00,248827,492852,+102%,+$0,,,,,TGTX
+170,,2005-03-31 15:02:34,2005-03-30,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.40,1700,3390723,0%,"+$2,380",,,,,TGTX
+171,,2005-03-30 13:13:24,2005-03-29,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.46,5000,3389023,0%,"+$7,280",,,,,TGTX
+172,,2005-03-29 15:27:52,2005-03-28,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.50,5000,3384023,0%,"+$7,500",,,,,TGTX
+173,,2005-03-28 14:25:20,2005-03-24,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.60,5000,3379023,0%,"+$8,000",,,,,TGTX
+174,,2005-03-23 16:31:53,2005-03-22,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.53,500,3374023,0%,+$765,,,,,TGTX
+175,,2005-03-21 14:22:57,2005-03-18,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.60,5000,3373523,0%,"+$8,000",,,,,TGTX
+176,,2005-03-18 12:51:57,2005-03-17,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.60,5000,3368523,0%,"+$8,000",,,,,TGTX
+177,,2005-03-09 14:10:48,2005-03-08,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.70,5000,3363523,0%,"+$8,500",,,,,TGTX
+178,,2005-03-02 13:41:11,2005-03-01,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$2.10,5000,3358523,0%,"+$10,500",,,,,TGTX
+179,,2005-02-28 12:53:18,2005-02-25,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.69,5000,3353523,0%,"+$8,450",,,,,TGTX
+180,,2005-02-22 15:49:08,2005-02-18,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.51,5000,3348523,0%,"+$7,550",,,,,TGTX
+181,,2005-02-18 14:34:11,2005-02-17,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.54,5000,3343523,0%,"+$7,700",,,,,TGTX
+182,,2005-02-17 15:40:20,2005-02-16,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.52,5000,3338523,0%,"+$7,600",,,,,TGTX
+183,,2005-02-15 15:48:34,2005-02-14,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.55,5000,3333523,0%,"+$7,750",,,,,TGTX
+184,,2005-02-11 12:28:29,2005-02-10,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.50,5000,3328523,0%,"+$7,500",,,,,TGTX
+185,,2005-02-09 16:41:38,2005-02-08,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.51,6500,3323523,0%,"+$9,815",,,,,TGTX
+186,,2005-02-08 12:31:23,2005-02-07,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.40,10000,3317023,0%,"+$14,000",,,,,TGTX
+187,,2005-02-07 16:55:34,2005-02-04,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.38,10000,3307023,0%,"+$13,800",,,,,TGTX
+188,,2005-02-03 14:29:19,2005-02-02,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.41,10000,3297023,0%,"+$14,100",,,,,TGTX
+189,,2005-02-02 13:25:33,2005-02-01,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.49,10000,3287023,0%,"+$14,900",,,,,TGTX
+190,,2005-02-01 11:53:38,2005-01-31,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.40,10000,3277023,0%,"+$14,000",,,,,TGTX
+191,,2005-01-31 13:11:50,2005-01-28,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.31,10000,3267023,0%,"+$13,100",,,,,TGTX
+192,,2005-01-25 12:24:34,2005-01-24,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.36,17500,3257023,+1%,"+$23,725",,,,,TGTX
+193,,2005-01-24 17:48:40,2005-01-21,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.30,22600,3239523,+1%,"+$29,392",,,,,TGTX
+194,,2005-01-21 15:54:01,2005-01-20,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.04,25000,3216923,+1%,"+$26,000",,,,,TGTX
+195,,2005-01-20 16:46:53,2005-01-19,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.06,10000,3191923,0%,"+$10,600",,,,,TGTX
+196,,2005-01-19 20:57:15,2005-01-18,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.00,10000,3181923,0%,"+$10,000",,,,,TGTX
+197,,2005-01-18 12:34:14,2005-01-14,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.03,10000,3171923,0%,"+$10,300",,,,,TGTX
+198,,2005-01-14 12:12:38,2005-01-13,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.03,10000,3161923,0%,"+$10,300",,,,,TGTX
+199,,2005-01-13 12:10:14,2005-01-12,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.06,10000,3151923,0%,"+$10,600",,,,,TGTX
+200,M,2005-01-11 14:19:04,2005-01-07,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.05,30000,3141923,+1%,"+$31,625",,,,,TGTX
+201,,2005-01-10 20:20:52,2005-01-06,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$1.04,10000,3111923,0%,"+$10,400",,,,,TGTX
+202,DM,2004-10-15 17:39:35,2004-10-13,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$0.94,10000,3101923,0%,"+$9,365",,,,,TGTX
+203,D,2004-10-05 14:02:29,2004-10-04,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$0.89,10000,3091923,0%,"+$8,900",,,,,TGTX
+204,D,2004-09-29 21:22:21,2004-09-28,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$0.94,10000,3081923,0%,"+$9,410",,,,,TGTX
+205,DM,2004-09-10 15:29:43,2004-08-17,MHTT,Rosenwald Lindsay A Md,10%,P - Purchase,$0.84,21000,3071923,+1%,"+$17,600",,,,,TGTX
+206,,2004-03-29 10:57:16,2004-02-26,MHTT,Gimbert Joan Pons,"Dir, 10%",S - Sale,$0.85,-200000,3957037,-5%,"-$170,000",,,,,TGTX
+207,,2003-12-01 14:47:46,2003-11-26,MHTT,Weiser Michael,Dir,G - Gift,$0.00,-11000,1356561,-1%,-$0,,,,,TGTX

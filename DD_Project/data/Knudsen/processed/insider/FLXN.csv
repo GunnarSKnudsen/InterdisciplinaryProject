@@ -1,41 +1,213 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2021-07-20 20:51:52,2021-07-19,FLXN,Willwerth Christina,Chief Strategy Officer,S - Sale,6.45,-3945,141241,-3%,-25445.0,,,,,FLXN
-1,,2021-07-20 20:49:54,2021-07-19,FLXN,Wentworth Kerry,Chief Regulatory Officer,S - Sale,6.45,-3944,146362,-3%,-25439.0,,,,,FLXN
-2,,2021-07-20 20:48:00,2021-07-19,FLXN,Muzikant Adam,Chief Business Officer,S - Sale,6.45,-1870,103666,-2%,-12062.0,,,,,FLXN
-3,,2021-07-20 20:45:42,2021-07-19,FLXN,Levine Mark S.,GC,S - Sale,6.45,-3945,133486,-3%,-25445.0,,,,,FLXN
-4,,2021-05-12 17:06:20,2021-05-10,FLXN,Arkowitz David,CFO,S - Sale,7.23,-2229,220719,-1%,-16116.0,,,,,FLXN
-5,,2021-03-16 17:11:40,2021-03-15,FLXN,Layman Melissa,Chief Commercial Officer,S - Sale,11.8,-4520,103956,-4%,-53336.0,,,,,FLXN
-6,,2021-01-29 20:19:13,2021-01-28,FLXN,Layman Melissa,Chief Commercial Officer,S - Sale,12.55,-2624,88376,-3%,-32931.0,,,,,FLXN
-7,,2021-01-07 18:02:27,2021-01-05,FLXN,Muzikant Adam,Chief Business Officer,S - Sale,11.13,-4005,73455,-5%,-44576.0,,,,,FLXN
-8,,2021-01-07 17:58:33,2021-01-05,FLXN,Kelley Scott,Chief Medical Officer,S - Sale,11.13,-6829,113549,-6%,-76007.0,,,,,FLXN
-9,,2021-01-07 17:56:57,2021-01-05,FLXN,Wentworth Kerry,Chief Regulatory Officer,S - Sale,11.13,-6829,119767,-5%,-76007.0,,,,,FLXN
-10,,2021-01-07 17:55:19,2021-01-05,FLXN,Willwerth Christina,Chief Strategy Officer,S - Sale,11.13,-6602,115186,-5%,-73480.0,,,,,FLXN
-11,,2021-01-07 17:52:47,2021-01-05,FLXN,Levine Mark S.,GC,S - Sale,11.13,-6829,107431,-6%,-76007.0,,,,,FLXN
-12,,2021-01-07 17:50:04,2021-01-05,FLXN,Arkowitz David,CFO,S - Sale,11.13,-6073,151048,-4%,-67592.0,,,,,FLXN
-13,,2020-05-27 16:14:20,2020-05-26,FLXN,Stejbach Mark,Dir,P - Purchase,9.75,2051,3631,+130%,19997.0,,,,,FLXN
-14,,2020-05-27 16:11:48,2020-05-26,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,9.75,10256,824845,+1%,99996.0,,,,,FLXN
-15,,2020-05-11 16:11:08,2020-05-07,FLXN,Arkowitz David,CFO,S - Sale,10.88,-2413,117068,-2%,-26253.0,,,,,FLXN
-16,,2020-01-07 16:39:05,2020-01-03,FLXN,Willwerth Christina,Chief Strategy Officer,S - Sale,0.0,-3533,52473,-6%,-0.0,,,,,FLXN
-17,,2020-01-07 16:37:58,2020-01-03,FLXN,Kelley Scott,Chief Medical Officer,S - Sale,0.0,-3724,49365,-7%,-0.0,,,,,FLXN
-18,,2020-01-07 16:35:41,2020-01-03,FLXN,Levine Mark S.,GC,S - Sale,0.0,-3724,43487,-8%,-0.0,,,,,FLXN
-19,,2020-01-07 16:33:06,2020-01-03,FLXN,Wentworth Kerry,Chief Regulatory Officer,S - Sale,0.0,-3724,56061,-6%,-0.0,,,,,FLXN
-20,,2020-01-07 16:31:01,2020-01-03,FLXN,Arkowitz David,CFO,S - Sale,0.0,-3095,88481,-3%,-0.0,,,,,FLXN
-21,,2020-01-07 16:28:24,2020-01-03,FLXN,Bodick Neil,Chief Scientific Officer,S - Sale,0.0,-3851,489836,-1%,-0.0,,,,,FLXN
-22,,2019-08-09 16:05:41,2019-08-08,FLXN,Colella Samuel D,"Dir, 10%",P - Purchase,10.74,2000,3996929,0%,21480.0,,,,,FLXN
-23,,2019-08-08 16:38:12,2019-08-08,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,10.85,2317,806026,0%,25136.0,,,,,FLXN
-24,,2019-06-03 16:18:03,2019-05-31,FLXN,Arkowitz David,CFO,P - Purchase,11.05,2500,89424,+3%,27627.0,,,,,FLXN
-25,,2019-05-24 09:15:23,2019-05-23,FLXN,Merrifield C Ann,Dir,P - Purchase,12.64,8000,10000,+400%,101120.0,,,,,FLXN
-26,,2019-05-15 16:05:29,2019-05-13,FLXN,Arkowitz David,CFO,P - Purchase,11.99,4000,86924,+5%,47960.0,,,,,FLXN
-27,,2019-05-13 09:15:40,2019-05-10,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,12.48,4012,802217,+1%,50067.0,,,,,FLXN
-28,,2019-05-09 16:32:58,2019-05-08,FLXN,Arkowitz David,CFO,S - Sale,10.06,-2248,82924,-3%,-22615.0,,,,,FLXN
-29,,2019-03-13 16:11:48,2019-03-12,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,12.36,4046,798205,+1%,50009.0,,,,,FLXN
-30,,2019-01-04 17:12:25,2019-01-03,FLXN,Levine Mark S.,GC,S - Sale,12.36,-734,9060,-7%,-9072.0,,,,,FLXN
-31,,2019-01-04 17:10:53,2019-01-03,FLXN,Wentworth Kerry,Chief Regulatory Officer,S - Sale,12.36,-622,17207,-3%,-7688.0,,,,,FLXN
-32,,2019-01-04 17:09:22,2019-01-03,FLXN,Kelley Scott,Chief Medical Officer,S - Sale,12.36,-622,15271,-4%,-7688.0,,,,,FLXN
-33,,2019-01-04 17:06:16,2019-01-03,FLXN,Bodick Neil,Chief Scientific Officer,S - Sale,12.36,-746,454465,0%,-9221.0,,,,,FLXN
-34,,2019-01-04 17:03:59,2019-01-03,FLXN,Clayman Michael D.,"Pres, CEO",S - Sale,12.36,-3278,794159,0%,-40516.0,,,,,FLXN
-35,,2018-11-13 09:17:53,2018-11-09,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,17.1,5000,796515,+1%,85477.0,,,,,FLXN
-36,,2018-11-13 09:14:51,2018-11-09,FLXN,Arkowitz David,CFO,P - Purchase,16.56,4000,48250,+9%,66222.0,,,,,FLXN
-37,,2018-08-10 12:56:14,2018-08-09,FLXN,Arkowitz David,CFO,P - Purchase,23.42,4000,44250,+10%,93680.0,,,,,FLXN
-38,,2018-08-10 09:13:35,2018-08-09,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,22.33,10000,782948,+1%,223300.0,,,,,FLXN
-39,M,2018-07-03 16:07:23,2018-07-02,FLXN,Bodick Neil,Chief Scientific Officer,S - Sale,25.07,-50000,451990,-10%,-1253492.0,,,,,FLXN
+0,D,2021-08-04 16:09:57,2021-08-02,FLXN,Andrews William T.,Chief Medical Officer,A - Grant,0.0,34250,34250,New,0.0,,,,,FLXN
+1,,2021-07-20 20:51:52,2021-07-19,FLXN,Willwerth Christina,Chief Strategy Officer,S - Sale,6.45,-3945,141241,-3%,-25445.0,,,,,FLXN
+2,,2021-07-20 20:49:54,2021-07-19,FLXN,Wentworth Kerry,Chief Regulatory Officer,S - Sale,6.45,-3944,146362,-3%,-25439.0,,,,,FLXN
+3,,2021-07-20 20:48:00,2021-07-19,FLXN,Muzikant Adam,Chief Business Officer,S - Sale,6.45,-1870,103666,-2%,-12062.0,,,,,FLXN
+4,,2021-07-20 20:45:42,2021-07-19,FLXN,Levine Mark S.,GC,S - Sale,6.45,-3945,133486,-3%,-25445.0,,,,,FLXN
+5,,2021-07-20 20:44:14,2021-07-19,FLXN,Clayman Michael D.,"Pres, CEO",F - Tax,0.0,-13859,1122033,-1%,-0.0,,,,,FLXN
+6,D,2021-06-28 18:42:16,2021-06-24,FLXN,Kwo Elizabeth,Dir,A - Grant,0.0,4500,4500,New,0.0,,,,,FLXN
+7,D,2021-06-28 18:40:21,2021-06-24,FLXN,Merrifield C Ann,Dir,A - Grant,0.0,4500,19000,+31%,0.0,,,,,FLXN
+8,D,2021-06-28 18:38:11,2021-06-24,FLXN,Canute Scott A,Dir,A - Grant,0.0,4500,9000,+100%,0.0,,,,,FLXN
+9,D,2021-06-28 18:32:52,2021-06-24,FLXN,Colella Samuel D,Dir,A - Grant,0.0,4500,1496564,0%,0.0,,,,,FLXN
+10,D,2021-06-28 18:30:40,2021-06-24,FLXN,Stejbach Mark,Dir,A - Grant,0.0,4500,12631,+55%,0.0,,,,,FLXN
+11,D,2021-06-28 18:25:55,2021-06-24,FLXN,Lukatch Heath,Dir,A - Grant,0.0,4500,9000,+100%,0.0,,,,,FLXN
+12,D,2021-06-28 18:24:05,2021-06-24,FLXN,Mahaffy Patrick J,Dir,A - Grant,0.0,4500,39824,+13%,0.0,,,,,FLXN
+13,D,2021-06-28 18:16:42,2021-06-24,FLXN,Milinazzo Alan,Dir,A - Grant,0.0,4500,27450,+20%,0.0,,,,,FLXN
+14,,2021-06-28 18:13:33,2021-06-21,FLXN,Muzikant Adam,Chief Business Officer,A - Grant,7.78,2081,105536,+2%,16190.0,,,,,FLXN
+15,,2021-06-28 18:09:25,2021-06-21,FLXN,Wentworth Kerry,Chief Regulatory Officer,A - Grant,7.78,539,150306,0%,4193.0,,,,,FLXN
+16,,2021-06-28 18:04:37,2021-06-21,FLXN,Clayman Michael D.,"Pres, CEO",A - Grant,7.78,1700,1135892,0%,13226.0,,,,,FLXN
+17,D,2021-06-03 16:20:29,2021-06-01,FLXN,Driscoll Frederick W,CFO,A - Grant,0.0,28000,30680,>999%,0.0,,,,,FLXN
+18,,2021-05-12 17:06:20,2021-05-10,FLXN,Arkowitz David,CFO,S - Sale,7.23,-2229,220719,-1%,-16116.0,,,,,FLXN
+19,M,2021-03-23 19:01:30,2021-01-08,FLXN,Clayman Michael D.,"Pres, CEO",G - Gift,0.0,-25861,1134192,-2%,-0.0,,,,,FLXN
+20,,2021-03-16 17:11:40,2021-03-15,FLXN,Layman Melissa,Chief Commercial Officer,S - Sale,11.8,-4520,103956,-4%,-53336.0,,,,,FLXN
+21,D,2021-03-03 18:42:48,2021-03-01,FLXN,Muzikant Adam,Chief Business Officer,A - Grant,0.0,30000,103455,+41%,0.0,,,,,FLXN
+22,D,2021-03-03 18:35:50,2021-03-01,FLXN,Wentworth Kerry,Chief Regulatory Officer,A - Grant,0.0,30000,149767,+25%,0.0,,,,,FLXN
+23,D,2021-03-03 18:33:28,2021-03-01,FLXN,Willwerth Christina,Chief Strategy Officer,A - Grant,0.0,30000,145186,+26%,0.0,,,,,FLXN
+24,D,2021-03-03 18:31:34,2021-03-01,FLXN,Levine Mark S.,GC,A - Grant,0.0,30000,137431,+28%,0.0,,,,,FLXN
+25,D,2021-03-03 18:29:22,2021-03-01,FLXN,Kelley Scott,Chief Medical Officer,A - Grant,0.0,30000,143549,+26%,0.0,,,,,FLXN
+26,D,2021-03-03 18:26:11,2021-03-01,FLXN,Arkowitz David,CFO,A - Grant,0.0,71900,222948,+48%,0.0,,,,,FLXN
+27,D,2021-03-03 18:22:46,2021-03-01,FLXN,Layman Melissa,Chief Commercial Officer,A - Grant,0.0,20100,108476,+23%,0.0,,,,,FLXN
+28,D,2021-03-03 18:16:38,2021-03-01,FLXN,Clayman Michael D.,"Pres, CEO",A - Grant,0.0,106100,1134192,+10%,0.0,,,,,FLXN
+29,,2021-01-29 20:19:13,2021-01-27,FLXN,Layman Melissa,Chief Commercial Officer,A - Grant,0.0,30000,88376,+51%,0.0,,,,,FLXN
+30,,2021-01-29 20:19:13,2021-01-28,FLXN,Layman Melissa,Chief Commercial Officer,S - Sale,12.55,-2624,88376,-3%,-32931.0,,,,,FLXN
+31,,2021-01-29 20:17:11,2021-01-27,FLXN,Clayman Michael D.,"Pres, CEO",A - Grant,0.0,119500,1028092,+13%,0.0,,,,,FLXN
+32,,2021-01-29 20:17:11,2021-01-28,FLXN,Clayman Michael D.,"Pres, CEO",F - Tax,12.37,-8776,1028092,-1%,-108559.0,,,,,FLXN
+33,,2021-01-07 18:02:27,2021-01-05,FLXN,Muzikant Adam,Chief Business Officer,S - Sale,11.13,-4005,73455,-5%,-44576.0,,,,,FLXN
+34,,2021-01-07 17:58:33,2021-01-05,FLXN,Kelley Scott,Chief Medical Officer,S - Sale,11.13,-6829,113549,-6%,-76007.0,,,,,FLXN
+35,,2021-01-07 17:56:57,2021-01-05,FLXN,Wentworth Kerry,Chief Regulatory Officer,S - Sale,11.13,-6829,119767,-5%,-76007.0,,,,,FLXN
+36,,2021-01-07 17:55:19,2021-01-05,FLXN,Willwerth Christina,Chief Strategy Officer,S - Sale,11.13,-6602,115186,-5%,-73480.0,,,,,FLXN
+37,,2021-01-07 17:52:47,2021-01-05,FLXN,Levine Mark S.,GC,S - Sale,11.13,-6829,107431,-6%,-76007.0,,,,,FLXN
+38,,2021-01-07 17:50:04,2021-01-05,FLXN,Arkowitz David,CFO,S - Sale,11.13,-6073,151048,-4%,-67592.0,,,,,FLXN
+39,,2021-01-07 17:47:08,2021-01-05,FLXN,Clayman Michael D.,"Pres, CEO",F - Tax,0.0,-2530,917368,0%,-0.0,,,,,FLXN
+40,,2021-01-07 17:47:08,2020-07-08,FLXN,Clayman Michael D.,"Pres, CEO",G - Gift,0.0,-1303,917368,0%,-0.0,,,,,FLXN
+41,,2020-07-20 21:33:14,2020-07-16,FLXN,Arkowitz David,CFO,A - Grant,0.0,38750,157121,+33%,0.0,,,,,FLXN
+42,,2020-07-20 21:31:21,2020-07-16,FLXN,Kelley Scott,Chief Medical Officer,A - Grant,0.0,38750,119710,+48%,0.0,,,,,FLXN
+43,,2020-07-20 21:28:41,2020-07-16,FLXN,Willwerth Christina,Chief Strategy Officer,A - Grant,0.0,38750,121788,+47%,0.0,,,,,FLXN
+44,,2020-07-20 21:26:56,2020-07-16,FLXN,Clayman Michael D.,"Pres, CEO",A - Grant,0.0,93750,919898,+11%,0.0,,,,,FLXN
+45,,2020-07-20 21:24:58,2020-07-16,FLXN,Levine Mark S.,GC,A - Grant,0.0,38750,114260,+51%,0.0,,,,,FLXN
+46,,2020-07-20 21:23:08,2020-07-16,FLXN,Wentworth Kerry,Chief Regulatory Officer,A - Grant,0.0,38750,126180,+44%,0.0,,,,,FLXN
+47,D,2020-07-10 16:06:07,2020-07-09,FLXN,Milinazzo Alan,Dir,M - OptEx,2.2,18450,22950,+410%,40500.0,,,,,FLXN
+48,,2020-06-24 16:21:37,2020-06-22,FLXN,Arkowitz David,CFO,A - Grant,10.83,1303,118371,+1%,14111.0,,,,,FLXN
+49,,2020-06-24 16:18:53,2020-06-22,FLXN,Clayman Michael D.,"Pres, CEO",A - Grant,10.83,1303,826148,0%,14111.0,,,,,FLXN
+50,,2020-06-24 16:15:33,2020-06-22,FLXN,Kelley Scott,Chief Medical Officer,A - Grant,10.83,595,80960,+1%,6444.0,,,,,FLXN
+51,,2020-06-24 16:12:40,2020-06-22,FLXN,Levine Mark S.,GC,A - Grant,10.83,1023,75510,+1%,11079.0,,,,,FLXN
+52,,2020-06-24 16:09:34,2020-06-22,FLXN,Wentworth Kerry,Chief Regulatory Officer,A - Grant,10.83,369,87430,0%,3996.0,,,,,FLXN
+53,D,2020-06-12 16:25:45,2020-06-10,FLXN,Stejbach Mark,Dir,A - Grant,0.0,4500,8131,+124%,0.0,,,,,FLXN
+54,D,2020-06-12 16:24:24,2020-06-10,FLXN,Mahaffy Patrick J,Dir,A - Grant,0.0,4500,35324,+15%,0.0,,,,,FLXN
+55,D,2020-06-12 16:21:07,2020-06-10,FLXN,Milinazzo Alan,Dir,A - Grant,0.0,4500,4500,New,0.0,,,,,FLXN
+56,D,2020-06-12 16:19:38,2020-06-10,FLXN,Merrifield C Ann,Dir,A - Grant,0.0,4500,14500,+45%,0.0,,,,,FLXN
+57,D,2020-06-12 16:17:55,2020-06-10,FLXN,Mahatme Sandesh,Dir,A - Grant,0.0,4500,4500,New,0.0,,,,,FLXN
+58,D,2020-06-12 16:15:51,2020-06-10,FLXN,Lukatch Heath,Dir,A - Grant,0.0,4500,4500,New,0.0,,,,,FLXN
+59,D,2020-06-12 16:13:56,2020-06-10,FLXN,Colella Samuel D,"Dir, 10%",A - Grant,0.0,4500,4001429,0%,0.0,,,,,FLXN
+60,D,2020-06-12 16:11:35,2020-06-10,FLXN,Canute Scott A,Dir,A - Grant,0.0,4500,4500,New,0.0,,,,,FLXN
+61,,2020-05-27 16:14:20,2020-05-26,FLXN,Stejbach Mark,Dir,P - Purchase,9.75,2051,3631,+130%,19997.0,,,,,FLXN
+62,,2020-05-27 16:11:48,2020-05-26,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,9.75,10256,824845,+1%,99996.0,,,,,FLXN
+63,,2020-05-11 16:11:08,2020-05-07,FLXN,Arkowitz David,CFO,S - Sale,10.88,-2413,117068,-2%,-26253.0,,,,,FLXN
+64,D,2020-04-03 16:11:21,2020-04-01,FLXN,Layman Melissa,Chief Commercial Officer,A - Grant,0.0,61000,61000,New,0.0,,,,,FLXN
+65,D,2020-03-03 16:21:31,2020-03-02,FLXN,Willwerth Christina,Chief Strategy Officer,A - Grant,0.0,31000,83473,+59%,0.0,,,,,FLXN
+66,D,2020-03-03 16:18:11,2020-03-02,FLXN,Wentworth Kerry,Chief Regulatory Officer,A - Grant,0.0,31000,87061,+55%,0.0,,,,,FLXN
+67,D,2020-03-03 16:16:13,2020-03-02,FLXN,Levine Mark S.,GC,A - Grant,0.0,31000,74487,+71%,0.0,,,,,FLXN
+68,D,2020-03-03 16:14:39,2020-03-02,FLXN,Arkowitz David,CFO,A - Grant,0.0,31000,119481,+35%,0.0,,,,,FLXN
+69,D,2020-03-03 16:11:53,2020-03-02,FLXN,Kelley Scott,Chief Medical Officer,A - Grant,0.0,31000,80365,+63%,0.0,,,,,FLXN
+70,,2020-01-07 17:40:06,2020-01-03,FLXN,Clayman Michael D.,"Pres, CEO",F - Tax,0.0,-2494,814589,0%,-0.0,,,,,FLXN
+71,M,2020-01-07 17:40:06,2019-10-09,FLXN,Clayman Michael D.,"Pres, CEO",G - Gift,0.0,-31710,814589,-4%,-0.0,,,,,FLXN
+72,,2020-01-07 16:39:05,2020-01-03,FLXN,Willwerth Christina,Chief Strategy Officer,S - Sale,0.0,-3533,52473,-6%,-0.0,,,,,FLXN
+73,,2020-01-07 16:37:58,2020-01-03,FLXN,Kelley Scott,Chief Medical Officer,S - Sale,0.0,-3724,49365,-7%,-0.0,,,,,FLXN
+74,,2020-01-07 16:35:41,2020-01-03,FLXN,Levine Mark S.,GC,S - Sale,0.0,-3724,43487,-8%,-0.0,,,,,FLXN
+75,,2020-01-07 16:33:06,2020-01-03,FLXN,Wentworth Kerry,Chief Regulatory Officer,S - Sale,0.0,-3724,56061,-6%,-0.0,,,,,FLXN
+76,,2020-01-07 16:31:01,2020-01-03,FLXN,Arkowitz David,CFO,S - Sale,0.0,-3095,88481,-3%,-0.0,,,,,FLXN
+77,,2020-01-07 16:28:24,2020-01-03,FLXN,Bodick Neil,Chief Scientific Officer,S - Sale,0.0,-3851,489836,-1%,-0.0,,,,,FLXN
+78,,2019-10-08 16:29:16,2019-10-07,FLXN,Willwerth Christina,Chief Strategy Officer,F - Tax,13.98,-1002,66167,-1%,-14008.0,,,,,FLXN
+79,D,2019-10-08 16:27:35,2019-10-07,FLXN,Wentworth Kerry,Chief Regulatory Officer,F - Tax,13.98,-1002,59394,-2%,-14008.0,,,,,FLXN
+80,D,2019-10-08 16:27:35,2019-10-06,FLXN,Wentworth Kerry,Chief Regulatory Officer,M - OptEx,0.0,3400,59394,+6%,0.0,,,,,FLXN
+81,D,2019-10-08 16:25:20,2019-10-07,FLXN,Clayman Michael D.,"Pres, CEO",F - Tax,13.98,-4402,816424,-1%,-61540.0,,,,,FLXN
+82,D,2019-10-08 16:25:20,2019-10-06,FLXN,Clayman Michael D.,"Pres, CEO",M - OptEx,0.0,14800,816424,+2%,0.0,,,,,FLXN
+83,,2019-10-08 16:21:57,2019-10-07,FLXN,Kelley Scott,Chief Medical Officer,F - Tax,13.98,-334,53089,-1%,-4669.0,,,,,FLXN
+84,D,2019-10-08 16:19:15,2019-10-07,FLXN,Bodick Neil,Chief Scientific Officer,F - Tax,13.98,-1346,493687,0%,-18817.0,,,,,FLXN
+85,D,2019-10-08 16:19:15,2019-10-06,FLXN,Bodick Neil,Chief Scientific Officer,M - OptEx,0.0,4568,493687,+1%,0.0,,,,,FLXN
+86,D,2019-08-29 16:46:03,2019-08-29,FLXN,Mahaffy Patrick J,Dir,M - OptEx,0.16,30824,30824,New,4932.0,,,,,FLXN
+87,D,2019-08-14 16:06:59,2019-08-13,FLXN,Willwerth Christina,Chief Strategy Officer,M - OptEx,0.16,8750,67169,+15%,1400.0,,,,,FLXN
+88,,2019-08-09 16:05:41,2019-08-08,FLXN,Colella Samuel D,"Dir, 10%",P - Purchase,10.74,2000,3996929,0%,21480.0,,,,,FLXN
+89,,2019-08-08 16:38:12,2019-08-08,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,10.85,2317,806026,0%,25136.0,,,,,FLXN
+90,,2019-06-24 17:23:26,2019-06-21,FLXN,Clayman Michael D.,"Pres, CEO",A - Grant,9.81,1492,803709,0%,14637.0,,,,,FLXN
+91,M,2019-06-24 17:23:26,2019-01-28,FLXN,Clayman Michael D.,"Pres, CEO",G - Gift,0.0,-12856,803709,+2%,-0.0,,,,,FLXN
+92,,2019-06-24 16:14:45,2019-06-21,FLXN,Levine Mark S.,GC,A - Grant,9.81,1213,46273,+3%,11900.0,,,,,FLXN
+93,,2019-06-24 16:13:12,2019-06-21,FLXN,Wentworth Kerry,Chief Regulatory Officer,A - Grant,9.81,389,56996,+1%,3816.0,,,,,FLXN
+94,,2019-06-24 16:11:36,2019-06-21,FLXN,Kelley Scott,Chief Medical Officer,A - Grant,9.81,2152,53423,+4%,21111.0,,,,,FLXN
+95,,2019-06-24 16:10:17,2019-06-21,FLXN,Arkowitz David,CFO,A - Grant,9.81,2152,91576,+2%,21111.0,,,,,FLXN
+96,,2019-06-03 16:18:03,2019-05-31,FLXN,Arkowitz David,CFO,P - Purchase,11.05,2500,89424,+3%,27627.0,,,,,FLXN
+97,,2019-05-24 09:15:23,2019-05-23,FLXN,Merrifield C Ann,Dir,P - Purchase,12.64,8000,10000,+400%,101120.0,,,,,FLXN
+98,,2019-05-15 16:05:29,2019-05-13,FLXN,Arkowitz David,CFO,P - Purchase,11.99,4000,86924,+5%,47960.0,,,,,FLXN
+99,,2019-05-13 09:15:40,2019-05-10,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,12.48,4012,802217,+1%,50067.0,,,,,FLXN
+100,,2019-05-09 16:32:58,2019-05-08,FLXN,Arkowitz David,CFO,S - Sale,10.06,-2248,82924,-3%,-22615.0,,,,,FLXN
+101,,2019-03-13 16:11:48,2019-03-12,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,12.36,4046,798205,+1%,50009.0,,,,,FLXN
+102,AD,2019-03-05 20:17:20,2018-10-08,FLXN,Wentworth Kerry,Chief Regulatory Officer,F - Tax,18.6,-1002,20876,-5%,-18637.0,,,,,FLXN
+103,AD,2019-03-05 20:17:20,2018-10-06,FLXN,Wentworth Kerry,Chief Regulatory Officer,M - OptEx,0.0,3400,20876,+19%,0.0,,,,,FLXN
+104,D,2019-03-05 18:18:09,2019-03-01,FLXN,Wentworth Kerry,Chief Regulatory Officer,A - Grant,0.0,36000,56607,+175%,0.0,,,,,FLXN
+105,D,2019-03-05 17:32:19,2019-03-01,FLXN,Kelley Scott,Chief Medical Officer,A - Grant,0.0,36000,51271,+236%,0.0,,,,,FLXN
+106,D,2019-03-05 16:30:46,2019-03-01,FLXN,Willwerth Christina,Chief Strategy Officer,A - Grant,0.0,36000,58419,+161%,0.0,,,,,FLXN
+107,D,2019-03-05 16:29:29,2019-03-01,FLXN,Levine Mark S.,GC,A - Grant,0.0,36000,45060,+397%,0.0,,,,,FLXN
+108,D,2019-03-05 16:27:56,2019-03-01,FLXN,Arkowitz David,CFO,A - Grant,0.0,36000,85172,+73%,0.0,,,,,FLXN
+109,D,2019-03-05 16:26:23,2019-03-01,FLXN,Bodick Neil,Chief Scientific Officer,A - Grant,0.0,36000,490465,+8%,0.0,,,,,FLXN
+110,,2019-01-04 17:12:25,2019-01-03,FLXN,Levine Mark S.,GC,S - Sale,12.36,-734,9060,-7%,-9072.0,,,,,FLXN
+111,,2019-01-04 17:10:53,2019-01-03,FLXN,Wentworth Kerry,Chief Regulatory Officer,S - Sale,12.36,-622,17207,-3%,-7688.0,,,,,FLXN
+112,,2019-01-04 17:09:22,2019-01-03,FLXN,Kelley Scott,Chief Medical Officer,S - Sale,12.36,-622,15271,-4%,-7688.0,,,,,FLXN
+113,,2019-01-04 17:06:16,2019-01-03,FLXN,Bodick Neil,Chief Scientific Officer,S - Sale,12.36,-746,454465,0%,-9221.0,,,,,FLXN
+114,,2019-01-04 17:03:59,2019-01-03,FLXN,Clayman Michael D.,"Pres, CEO",S - Sale,12.36,-3278,794159,0%,-40516.0,,,,,FLXN
+115,M,2018-11-13 09:17:53,2018-06-27,FLXN,Clayman Michael D.,"Pres, CEO",G - Gift,0.0,-39366,796515,+5%,-0.0,,,,,FLXN
+116,,2018-11-13 09:17:53,2018-11-09,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,17.1,5000,796515,+1%,85477.0,,,,,FLXN
+117,,2018-11-13 09:14:51,2018-11-09,FLXN,Arkowitz David,CFO,P - Purchase,16.56,4000,48250,+9%,66222.0,,,,,FLXN
+118,D,2018-10-09 17:08:42,2018-10-08,FLXN,Bodick Neil,Chief Scientific Officer,F - Tax,18.6,-1345,455211,0%,-25017.0,,,,,FLXN
+119,D,2018-10-09 17:08:42,2018-10-08,FLXN,Bodick Neil,Chief Scientific Officer,M - OptEx,0.0,4566,455211,+1%,0.0,,,,,FLXN
+120,D,2018-10-09 16:31:50,2018-10-08,FLXN,Clayman Michael D.,"Pres, CEO",F - Tax,18.6,-6233,791515,-1%,-115934.0,,,,,FLXN
+121,D,2018-10-09 16:31:50,2018-10-08,FLXN,Clayman Michael D.,"Pres, CEO",M - OptEx,0.0,14800,791515,+2%,0.0,,,,,FLXN
+122,,2018-10-09 16:30:50,2018-10-08,FLXN,Wentworth Kerry,Chief Regulatory Officer,F - Tax,18.6,-1002,17476,-5%,-18637.0,,,,,FLXN
+123,,2018-08-10 12:56:14,2018-08-09,FLXN,Arkowitz David,CFO,P - Purchase,23.42,4000,44250,+10%,93680.0,,,,,FLXN
+124,,2018-08-10 09:13:35,2018-08-09,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,22.33,10000,782948,+1%,223300.0,,,,,FLXN
+125,M,2018-07-03 16:07:23,2018-07-02,FLXN,Bodick Neil,Chief Scientific Officer,S - Sale,25.07,-50000,451990,-10%,-1253492.0,,,,,FLXN
+126,D,2018-06-04 16:26:08,2018-06-01,FLXN,Arkowitz David,CFO,A - Grant,0.0,30000,40250,+293%,0.0,,,,,FLXN
+127,D,2018-05-11 16:07:02,2018-05-11,FLXN,Bodick Neil,Chief Scientific Officer,M - OptEx,0.16,37702,501990,+8%,6130.0,,,,,FLXN
+128,D,2018-02-02 16:48:43,2018-02-01,FLXN,Wentworth Kerry,Chief Regulatory Officer,A - Grant,0.0,8333,18307,+84%,0.0,,,,,FLXN
+129,D,2018-02-02 16:47:06,2018-02-01,FLXN,Kelley Scott,Chief Medical Officer,A - Grant,0.0,8333,14892,+127%,0.0,,,,,FLXN
+130,D,2018-02-02 16:45:08,2018-02-01,FLXN,Levine Mark S.,GC,A - Grant,0.0,8333,8333,New,0.0,,,,,FLXN
+131,D,2018-02-02 16:41:13,2018-02-01,FLXN,Clayman Michael D.,"Pres, CEO",A - Grant,0.0,29167,772394,+4%,0.0,,,,,FLXN
+132,D,2018-02-02 16:39:04,2018-02-01,FLXN,Bodick Neil,Chief Scientific Officer,A - Grant,0.0,10000,464288,+2%,0.0,,,,,FLXN
+133,,2017-11-22 17:28:50,2017-11-21,FLXN,Bodick Neil,Chief Scientific Officer,P - Purchase,24.49,2700,454288,+1%,66112.0,,,,,FLXN
+134,,2017-11-09 09:13:07,2017-11-08,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,23.6,5000,743061,+1%,118000.0,,,,,FLXN
+135,D,2017-10-10 16:43:07,2017-10-06,FLXN,Bodick Neil,Chief Scientific Officer,F - Tax,29.93,-1598,451588,0%,-47835.0,,,,,FLXN
+136,D,2017-10-10 16:43:07,2017-10-06,FLXN,Bodick Neil,Chief Scientific Officer,M - OptEx,0.0,4566,451588,+1%,0.0,,,,,FLXN
+137,D,2017-10-10 16:39:56,2017-10-06,FLXN,Clayman Michael D.,"Pres, CEO",F - Tax,29.93,-5794,738061,-1%,-173443.0,,,,,FLXN
+138,D,2017-10-10 16:39:56,2017-10-06,FLXN,Clayman Michael D.,"Pres, CEO",M - OptEx,0.0,14800,738061,+2%,0.0,,,,,FLXN
+139,DM,2017-09-15 17:12:15,2017-08-31,FLXN,Deniz Yamo,Chief Medical Officer,P - Purchase,24.48,5375,9000,+148%,131575.0,,,,,FLXN
+140,,2017-06-20 16:24:31,2017-06-16,FLXN,Stejbach Mark,Dir,P - Purchase,17.02,1580,1580,New,26888.0,,,,,FLXN
+141,,2017-06-06 18:49:40,2017-06-05,FLXN,Colella Samuel D,"Dir, 10%",P - Purchase,17.01,5000,3994929,0%,85048.0,,,,,FLXN
+142,,2017-06-06 18:47:58,2017-06-05,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,17.23,5000,727812,+1%,86152.0,,,,,FLXN
+143,AD,2017-05-19 16:34:13,2017-05-15,FLXN,Bodick Neil,Chief Medical Officer,M - OptEx,2.52,6830,448620,+2%,17214.0,,,,,FLXN
+144,AD,2017-05-19 16:34:13,2017-05-15,FLXN,Bodick Neil,Chief Medical Officer,S - Sale+OE,18.95,-6830,448620,-1%,-129448.0,,,,,FLXN
+145,AD,2017-05-19 16:32:48,2017-04-17,FLXN,Bodick Neil,Chief Medical Officer,M - OptEx,2.52,5000,448620,+1%,12602.0,,,,,FLXN
+146,AD,2017-05-19 16:32:48,2017-04-17,FLXN,Bodick Neil,Chief Medical Officer,S - Sale+OE,28.23,-5000,448620,-1%,-141132.0,,,,,FLXN
+147,AD,2017-05-19 16:31:14,2017-03-17,FLXN,Bodick Neil,Chief Medical Officer,M - OptEx,2.52,5000,448620,+1%,12602.0,,,,,FLXN
+148,AD,2017-05-19 16:31:14,2017-03-17,FLXN,Bodick Neil,Chief Medical Officer,S - Sale+OE,20.41,-5000,448620,-1%,-102039.0,,,,,FLXN
+149,AD,2017-05-19 16:28:22,2017-02-24,FLXN,Bodick Neil,Chief Medical Officer,M - OptEx,2.52,4000,448620,+1%,10081.0,,,,,FLXN
+150,AD,2017-05-19 16:28:22,2017-02-24,FLXN,Bodick Neil,Chief Medical Officer,S - Sale+OE,19.15,-5000,448620,-1%,-95758.0,,,,,FLXN
+151,,2017-05-17 16:15:52,2017-05-15,FLXN,Bodick Neil,Chief Medical Officer,S - Sale,18.95,-6830,427790,-2%,-129448.0,,,,,FLXN
+152,,2017-04-18 19:45:51,2017-04-17,FLXN,Bodick Neil,Chief Medical Officer,S - Sale,28.23,-5000,434620,-1%,-141132.0,-2.0,-5.0,,,FLXN
+153,D,2017-03-24 16:24:10,2017-03-23,FLXN,Driscoll Frederick W,CFO,M - OptEx,7.89,3000,7777,+63%,23658.0,7.0,-1.0,-4.0,,FLXN
+154,D,2017-03-24 16:24:10,2017-03-23,FLXN,Driscoll Frederick W,CFO,S - Sale+OE,23.0,-3000,7777,-28%,-69000.0,7.0,-1.0,-4.0,,FLXN
+155,,2017-03-20 19:42:11,2017-03-17,FLXN,Bodick Neil,Chief Medical Officer,S - Sale,20.41,-5000,439620,-1%,-102039.0,-6.0,32.0,34.0,,FLXN
+156,,2017-03-10 17:03:15,2016-06-21,FLXN,Clayman Michael D.,"Pres, CEO",G - Gift,0.0,-31444,722812,+5%,-0.0,0.0,-2.0,27.0,,FLXN
+157,D,2017-03-02 16:56:09,2017-02-28,FLXN,Driscoll Frederick W,CFO,M - OptEx,7.89,30000,7777,-135%,236583.0,2.0,-1.0,30.0,,FLXN
+158,D,2017-03-02 16:56:09,2017-02-28,FLXN,Driscoll Frederick W,CFO,S - Sale+OE,19.97,-33434,7777,-81%,-667679.0,2.0,-1.0,30.0,,FLXN
+159,,2017-02-27 16:17:11,2017-02-24,FLXN,Bodick Neil,Chief Medical Officer,S - Sale,19.15,-5000,444620,-1%,-95758.0,-3.0,3.0,45.0,,FLXN
+160,,2017-01-23 19:10:30,2017-01-20,FLXN,Bodick Neil,Chief Medical Officer,S - Sale,18.35,-5000,449620,-1%,-91747.0,-1.0,2.0,4.0,,FLXN
+161,,2016-12-22 16:40:18,2016-12-21,FLXN,Bodick Neil,Chief Medical Officer,S - Sale,18.46,-10000,454620,-2%,-184628.0,11.0,2.0,1.0,,FLXN
+162,,2016-12-05 14:40:51,2016-12-01,FLXN,Colella Samuel D,"Dir, 10%",P - Purchase,16.38,10000,3989929,0%,163807.0,4.0,12.0,11.0,,FLXN
+163,,2016-11-23 20:17:20,2016-11-23,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,18.41,1667,722665,0%,30688.0,-1.0,-11.0,0.0,,FLXN
+164,,2016-11-23 08:35:31,2016-11-22,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,17.95,1666,720998,0%,29900.0,3.0,-8.0,3.0,,FLXN
+165,,2016-11-22 18:40:11,2016-11-21,FLXN,Colella Samuel D,"Dir, 10%",P - Purchase,18.0,33333,3979929,+1%,599994.0,3.0,-4.0,1.0,,FLXN
+166,,2016-11-22 14:28:40,2016-11-21,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,17.9,1666,719332,0%,29827.0,1.0,-3.0,1.0,,FLXN
+167,M,2016-06-22 13:36:49,2016-06-20,FLXN,Colella Samuel D,"Dir, 10%",P - Purchase,13.71,25504,3946596,+1%,349600.0,0.0,10.0,20.0,39.0,FLXN
+168,,2016-06-16 17:59:00,2016-06-14,FLXN,Merrifield C Ann,Dir,P - Purchase,13.39,1000,2000,+100%,13387.0,-5.0,-1.0,12.0,34.0,FLXN
+169,,2016-06-10 21:40:32,2016-06-08,FLXN,Lubash Barbara N,10%,P - Purchase,14.0,714285,409422,-234%,9999990.0,0.0,1.0,14.0,37.0,FLXN
+170,,2016-06-10 21:16:18,2016-06-08,FLXN,"Versant Ventures Iii, LLC",10%,P - Purchase,14.0,714285,409422,-234%,9999990.0,0.0,1.0,14.0,37.0,FLXN
+171,,2016-06-10 20:25:17,2016-06-08,FLXN,Colella Samuel D,"Dir, 10%",P - Purchase,14.0,714285,409422,-234%,9999990.0,0.0,1.0,14.0,37.0,FLXN
+172,D,2016-05-24 17:26:11,2016-05-23,FLXN,Clayman Michael D.,"Pres, CEO",M - OptEx,0.16,10369,717666,+1%,1686.0,-1.0,56.0,22.0,63.0,FLXN
+173,,2016-05-23 16:04:16,2016-05-20,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,10.41,2000,705512,0%,20810.0,9.0,47.0,30.0,71.0,FLXN
+174,,2016-05-20 17:52:36,2016-05-19,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,9.65,2000,703512,0%,19297.0,1.0,70.0,37.0,79.0,FLXN
+175,,2016-05-20 17:51:17,2016-05-19,FLXN,Bodick Neil,Chief Medical Officer,P - Purchase,10.0,850,464620,0%,8500.0,1.0,70.0,37.0,79.0,FLXN
+176,,2016-05-19 17:30:26,2016-05-18,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,10.23,2000,701512,0%,20465.0,8.0,17.0,35.0,104.0,FLXN
+177,,2016-05-19 17:29:00,2016-05-18,FLXN,Bodick Neil,Chief Medical Officer,P - Purchase,10.2,2100,463770,0%,21420.0,8.0,17.0,35.0,104.0,FLXN
+178,,2016-05-18 17:23:25,2016-05-17,FLXN,Driscoll Frederick W,CFO,P - Purchase,9.87,2500,8434,+42%,24668.0,-5.0,14.0,38.0,112.0,FLXN
+179,,2016-05-18 17:22:36,2016-05-17,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,9.73,2000,699512,0%,19465.0,-5.0,14.0,38.0,112.0,FLXN
+180,,2016-05-18 17:21:30,2016-05-17,FLXN,Bodick Neil,Chief Medical Officer,P - Purchase,9.6,800,461670,0%,7680.0,-5.0,14.0,38.0,112.0,FLXN
+181,,2016-05-17 18:12:09,2016-05-16,FLXN,Driscoll Frederick W,CFO,P - Purchase,9.19,2500,5934,+73%,22972.0,7.0,10.0,43.0,124.0,FLXN
+182,,2016-05-17 18:10:50,2016-05-16,FLXN,Clayman Michael D.,"Pres, CEO",P - Purchase,9.51,2000,697512,0%,19025.0,7.0,10.0,43.0,124.0,FLXN
+183,,2016-05-17 18:08:27,2016-05-16,FLXN,Bodick Neil,Chief Medical Officer,P - Purchase,9.22,1250,460870,0%,11525.0,7.0,10.0,43.0,124.0,FLXN
+184,,2015-09-14 16:32:30,2015-09-11,FLXN,Merrifield C Ann,Dir,P - Purchase,23.0,1000,1000,New,23000.0,-4.0,2.0,-40.0,-63.0,FLXN
+185,M,2015-06-22 18:22:03,2015-06-18,FLXN,Novo A/s,10%,S - Sale,20.61,-150000,2133131,-7%,-3091973.0,2.0,0.0,17.0,-11.0,FLXN
+186,D,2015-03-25 16:01:45,2015-03-24,FLXN,Clayman Michael D.,"Pres, CEO",M - OptEx,0.16,5000,693728,+1%,813.0,0.0,-1.0,-17.0,9.0,FLXN
+187,,2015-03-16 17:19:28,2015-03-16,FLXN,Bodick Neil,Chief Medical Officer,S - Sale,25.28,-4000,459620,-1%,-101115.0,3.0,8.0,-18.0,-11.0,FLXN
+188,,2015-03-11 14:22:01,2015-03-10,FLXN,Bodick Neil,Chief Medical Officer,S - Sale,24.26,-4000,463620,-1%,-97055.0,0.0,6.0,-8.0,15.0,FLXN
+189,,2015-03-05 20:50:23,2015-03-04,FLXN,Bodick Neil,Chief Medical Officer,S - Sale,23.45,-4000,467620,-1%,-93790.0,-5.0,0.0,-9.0,-3.0,FLXN
+190,,2015-02-26 20:25:17,2015-02-26,FLXN,Bodick Neil,Chief Medical Officer,S - Sale,22.44,-4000,471620,-1%,-89766.0,0.0,11.0,0.0,-1.0,FLXN
+191,,2015-01-22 14:02:37,2014-10-29,FLXN,Sofinnova Partners Sas,10%,S - Sale,20.0,-10000,2095491,0%,-200000.0,1.0,-5.0,-2.0,12.0,FLXN
+192,,2014-12-18 15:44:52,2014-12-17,FLXN,Novo A/s,10%,P - Purchase,17.0,500000,2283131,+28%,8500000.0,0.0,-2.0,10.0,-3.0,FLXN
+193,D,2014-09-12 21:00:12,2014-09-10,FLXN,"Versant Venture Capital Iii, L.P.","Dir, 10%",X - OptEx,17.61,2250,2250,-50%,39623.0,-6.0,-8.0,-26.0,31.0,FLXN
+194,D,2014-09-12 20:13:05,2014-09-10,FLXN,"Versant Venture Capital Iii, L.P.","Dir, 10%",X - OptEx,17.61,2250,2250,-50%,39623.0,-6.0,-8.0,-26.0,31.0,FLXN
+195,D,2014-02-20 17:11:27,2014-02-18,FLXN,Novo A/s,"SEE REMARKS, 10%",C - Converted deriv,0.0,1090823,1783131,-38%,0.0,4.0,7.0,31.0,-7.0,FLXN
+196,D,2014-02-20 17:11:27,2014-02-18,FLXN,Novo A/s,"SEE REMARKS, 10%",P - Purchase,13.0,692308,1783131,+63%,9000004.0,4.0,7.0,31.0,-7.0,FLXN
+197,D,2014-02-20 15:01:43,2014-02-18,FLXN,"Versant Venture Capital Iii, L.P.",10%,C - Converted deriv,0.0,2793335,8923017,-24%,0.0,0.0,8.0,31.0,-7.0,FLXN
+198,D,2014-02-20 15:01:43,2014-02-18,FLXN,"Versant Venture Capital Iii, L.P.",10%,P - Purchase,13.0,307692,8923017,+4%,3999996.0,0.0,8.0,31.0,-7.0,FLXN
+199,D,2014-02-20 15:00:26,2014-02-18,FLXN,Tordjman Rafael,"Dir, 10%",C - Converted deriv,0.0,1874722,2105491,-47%,0.0,0.0,8.0,31.0,-7.0,FLXN
+200,D,2014-02-20 15:00:26,2014-02-18,FLXN,Tordjman Rafael,"Dir, 10%",P - Purchase,13.0,230769,2105491,+12%,2999997.0,0.0,8.0,31.0,-7.0,FLXN
+201,D,2014-02-20 14:59:13,2014-02-18,FLXN,Sofinnova Partners Sas,10%,C - Converted deriv,0.0,1874722,2105491,-47%,0.0,0.0,8.0,31.0,-7.0,FLXN
+202,D,2014-02-20 14:59:13,2014-02-18,FLXN,Sofinnova Partners Sas,10%,P - Purchase,13.0,230769,2105491,+12%,2999997.0,0.0,8.0,31.0,-7.0,FLXN
+203,D,2014-02-20 14:53:24,2014-02-18,FLXN,Schwab Andrew J.,"Dir, 10%",C - Converted deriv,0.0,1499777,1512076,-50%,0.0,0.0,8.0,31.0,-7.0,FLXN
+204,D,2014-02-20 14:51:57,2014-02-18,FLXN,Pfizer Inc,10%,C - Converted deriv,0.0,1687250,1687250,-50%,0.0,0.0,8.0,31.0,-7.0,FLXN
+205,D,2014-02-20 14:50:17,2014-02-18,FLXN,Colella Samuel D,"Dir, 10%",C - Converted deriv,0.0,2793335,3206807,-47%,0.0,0.0,8.0,31.0,-7.0,FLXN
+206,D,2014-02-20 14:50:17,2014-02-18,FLXN,Colella Samuel D,"Dir, 10%",P - Purchase,13.0,307692,3206807,+11%,3999996.0,0.0,8.0,31.0,-7.0,FLXN
+207,D,2014-02-20 14:47:49,2014-02-18,FLXN,Clayman Michael D.,"Pres, CEO",C - Converted deriv,0.0,356703,686944,-34%,0.0,0.0,8.0,31.0,-7.0,FLXN
+208,D,2014-02-20 14:46:10,2014-02-18,FLXN,Bolzon Bradley J Phd,"Dir, 10%",C - Converted deriv,0.0,2793335,3206807,-47%,0.0,0.0,8.0,31.0,-7.0,FLXN
+209,D,2014-02-20 14:46:10,2014-02-18,FLXN,Bolzon Bradley J Phd,"Dir, 10%",P - Purchase,13.0,307692,3206807,+11%,3999996.0,0.0,8.0,31.0,-7.0,FLXN
+210,D,2014-02-20 14:44:44,2014-02-18,FLXN,Bodick Neil,Chief Medical Officer,C - Converted deriv,0.0,356703,475620,-43%,0.0,0.0,8.0,31.0,-7.0,FLXN
+211,D,2014-02-20 14:43:45,2014-02-18,FLXN,5Am Ventures II LP,10%,C - Converted deriv,0.0,1499777,1512076,-50%,0.0,0.0,8.0,31.0,-7.0,FLXN

@@ -1,19 +1,378 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-03-17 16:48:55,2022-03-15,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$9.73,19418,3778219,+1%,"+$188,947",,,,,ASPS
-1,,2022-03-15 11:45:57,2022-03-14,ASPS,Shepro William B,"COB, CEO",P - Purchase,$9.85,5000,552920,+1%,"+$49,250",,,,,ASPS
-2,,2020-08-18 16:16:39,2020-08-14,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$8.83,117875,3746140,+3%,"+$1,041,390",,,,,ASPS
-3,,2020-08-13 09:37:50,2020-08-12,ASPS,Shepro William B,"COB, CEO",P - Purchase,$8.68,11600,487990,+2%,"+$100,644",,,,,ASPS
-4,,2020-05-19 17:54:13,2020-05-15,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$8.22,48733,3622898,+1%,"+$400,390",,,,,ASPS
-5,M,2020-05-08 16:20:38,2020-05-06,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$6.77,131179,3574165,+4%,"+$888,618",,,,,ASPS
-6,,2020-04-01 16:15:30,2020-03-30,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$7.32,14498,3442986,0%,"+$106,088",,,,,ASPS
-7,,2020-03-24 20:04:46,2020-03-20,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$8.24,56610,3428488,+2%,"+$466,597",,,,,ASPS
-8,M,2020-03-19 19:04:33,2020-03-17,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$8.11,741,3371878,0%,"+$6,009",,,,,ASPS
-9,M,2020-03-16 20:46:56,2020-03-12,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$8.14,266785,3371137,+9%,"+$2,171,982",,,,,ASPS
-10,,2019-11-15 11:59:34,2019-11-14,ASPS,Shepro William B,"COB, CEO",P - Purchase,$17.92,1400,432801,0%,"+$25,088",,,,,ASPS
-11,,2019-11-07 15:56:39,2019-11-06,ASPS,Mueller-Ineichen Roland,Dir,P - Purchase,$17.86,616,33634,+2%,"+$11,002",,,,,ASPS
-12,,2019-11-04 16:25:24,2019-10-31,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$17.76,25000,3104352,+1%,"+$443,878",,,,,ASPS
-13,,2019-10-31 08:38:03,2019-10-30,ASPS,Esterman Michelle D.,CFO,P - Purchase,$15.88,780,12212,+7%,"+$12,390",,,,,ASPS
-14,,2019-10-30 17:08:55,2019-10-30,ASPS,Shepro William B,"COB, CEO",P - Purchase,$15.85,3150,433901,+1%,"+$49,917",,,,,ASPS
-15,,2019-10-30 17:07:58,2019-10-29,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",P - Purchase,$16.72,300,22026,+1%,"+$5,016",,,,,ASPS
-16,,2019-05-10 16:30:12,2019-05-08,ASPS,Linn W Michael,Dir,S - Sale,$25.00,-5000,22950,-18%,"-$125,000",,,,,ASPS
-17,,2018-04-30 17:11:17,2018-04-27,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$25.95,19567,3076210,+1%,"+$507,840",,,,,ASPS
+0,,2022-03-15 11:45:57,2022-03-14,ASPS,Shepro William B,"COB, CEO",P - Purchase,$9.85,5000,552920,+1%,"+$49,250",,,,,ASPS
+1,D,2022-03-11 19:48:37,2022-03-09,ASPS,Esterman Michelle D.,CFO,F - Tax,$10.62,-2541,50001,-5%,"-$26,985",,,,,ASPS
+2,D,2022-03-11 19:48:37,2022-03-09,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,8445,50001,+20%,+$0,,,,,ASPS
+3,D,2022-03-11 19:47:45,2022-03-09,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$10.62,-1338,30523,-4%,"-$14,210",,,,,ASPS
+4,D,2022-03-11 19:47:45,2022-03-09,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",M - OptEx,$0.00,2838,30523,+10%,+$0,,,,,ASPS
+5,D,2022-03-11 19:46:57,2022-03-09,ASPS,Shepro William B,"COB, CEO",F - Tax,$10.62,-11039,571319,-2%,"-$117,234",,,,,ASPS
+6,D,2022-03-11 19:46:57,2022-03-09,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,24720,571319,-4%,+$0,,,,,ASPS
+7,D,2022-03-11 19:46:57,2022-03-09,ASPS,Shepro William B,"COB, CEO",M - OptEx,$0.00,23399,571319,+4%,+$0,,,,,ASPS
+8,D,2022-03-01 18:36:24,2022-02-26,ASPS,Esterman Michelle D.,CFO,F - Tax,$12.78,-1327,42883,-3%,"-$16,959",,,,,ASPS
+9,D,2022-03-01 18:36:24,2022-02-26,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,3749,42883,+10%,+$0,,,,,ASPS
+10,D,2022-03-01 18:33:57,2022-02-26,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$12.78,-1030,29871,-3%,"-$13,163",,,,,ASPS
+11,D,2022-03-01 18:33:57,2022-02-26,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",M - OptEx,$0.00,2186,29871,+8%,+$0,,,,,ASPS
+12,D,2022-03-01 18:31:59,2022-02-26,ASPS,Shepro William B,"COB, CEO",F - Tax,$12.78,-4135,529771,-1%,"-$52,845",,,,,ASPS
+13,D,2022-03-01 18:31:59,2022-02-26,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,-9256,529771,+2%,-$0,,,,,ASPS
+14,D,2022-03-01 18:31:59,2022-02-26,ASPS,Shepro William B,"COB, CEO",M - OptEx,$0.00,8763,529771,+2%,+$0,,,,,ASPS
+15,D,2022-02-15 16:25:02,2022-02-12,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$11.15,-499,27028,-2%,"-$5,564",,,,,ASPS
+16,D,2022-02-15 16:25:02,2022-02-12,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",M - OptEx,$0.00,1062,27028,+4%,+$0,,,,,ASPS
+17,D,2022-02-15 16:23:07,2022-02-12,ASPS,Shepro William B,"COB, CEO",F - Tax,$11.15,-11797,525143,-2%,"-$131,537",,,,,ASPS
+18,D,2022-02-15 16:23:07,2022-02-12,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,-26406,525143,+5%,-$0,,,,,ASPS
+19,D,2022-02-15 16:23:07,2022-02-12,ASPS,Shepro William B,"COB, CEO",M - OptEx,$0.00,25000,525143,+5%,+$0,,,,,ASPS
+20,D,2022-02-15 16:21:01,2022-02-12,ASPS,Esterman Michelle D.,CFO,F - Tax,$11.15,-438,39572,-1%,"-$4,884",,,,,ASPS
+21,D,2022-02-15 16:21:01,2022-02-12,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,1239,39572,+3%,+$0,,,,,ASPS
+22,D,2022-02-01 16:03:54,2022-01-29,ASPS,Esterman Michelle D.,CFO,F - Tax,$10.54,-1770,33333,-5%,"-$18,656",,,,,ASPS
+23,D,2022-02-01 16:03:54,2022-01-29,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,5000,33333,+18%,+$0,,,,,ASPS
+24,D,2022-01-26 16:15:45,2022-01-24,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$10.85,-991,25966,-4%,"-$10,752",,,,,ASPS
+25,D,2022-01-26 16:15:45,2022-01-24,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",M - OptEx,$0.00,2106,25966,+9%,+$0,,,,,ASPS
+26,D,2022-01-26 16:05:10,2022-01-24,ASPS,Esterman Michelle D.,CFO,F - Tax,$10.85,-869,35103,-2%,"-$9,429",,,,,ASPS
+27,D,2022-01-26 16:05:10,2022-01-24,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,2457,35103,+8%,+$0,,,,,ASPS
+28,,2021-11-16 16:17:08,2021-11-13,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$12.57,-1762,24851,-7%,"-$22,148",,,,,ASPS
+29,,2021-10-05 16:06:12,2021-10-01,ASPS,Shepro William B,"COB, CEO",A - Grant,$0.00,3333,511940,+1%,+$0,,,,,ASPS
+30,,2021-10-05 16:06:12,2021-10-01,ASPS,Shepro William B,"COB, CEO",F - Tax,$9.89,-1571,511940,0%,"-$15,537",,,,,ASPS
+31,,2021-10-05 16:06:12,2021-10-01,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,3524,511940,-1%,+$0,,,,,ASPS
+32,,2021-10-05 16:04:08,2021-10-01,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",A - Grant,$0.00,1583,27350,+6%,+$0,,,,,ASPS
+33,,2021-10-05 16:04:08,2021-10-01,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$9.89,-737,27350,-3%,"-$7,289",,,,,ASPS
+34,,2021-10-05 16:03:06,2021-10-01,ASPS,Esterman Michelle D.,CFO,A - Grant,$0.00,1583,33991,+5%,+$0,,,,,ASPS
+35,,2021-10-05 16:03:06,2021-10-01,ASPS,Esterman Michelle D.,CFO,F - Tax,$9.89,-476,33991,-1%,"-$4,708",,,,,ASPS
+36,,2021-05-20 21:00:45,2021-05-18,ASPS,"Deer Park Road Management Company, LP",10%,A - Grant,$0.00,12786,3758926,0%,+$0,,,,,ASPS
+37,,2021-05-20 17:08:05,2021-05-18,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,12786,51787,+33%,+$0,,,,,ASPS
+38,,2021-05-20 17:07:30,2021-05-18,ASPS,Morettini Joseph L,Dir,A - Grant,$0.00,12786,28554,+81%,+$0,,,,,ASPS
+39,,2021-03-23 16:32:53,2021-03-21,ASPS,Esterman Michelle D.,CFO,A - Grant,$0.00,1864,33067,+6%,+$0,,,,,ASPS
+40,,2021-03-23 16:32:53,2021-03-21,ASPS,Esterman Michelle D.,CFO,F - Tax,$8.78,-659,33067,-2%,"-$5,786",,,,,ASPS
+41,,2021-03-23 16:26:25,2021-03-21,ASPS,Mastioni Marcello,COO,A - Grant,$0.00,2549,52351,+5%,+$0,,,,,ASPS
+42,,2021-03-23 16:26:25,2021-03-21,ASPS,Mastioni Marcello,COO,F - Tax,$8.78,-212,52351,0%,"-$1,861",,,,,ASPS
+43,,2021-03-23 16:25:02,2021-03-21,ASPS,Shepro William B,"COB, CEO",A - Grant,$0.00,8182,510178,+2%,+$0,,,,,ASPS
+44,,2021-03-23 16:25:02,2021-03-21,ASPS,Shepro William B,"COB, CEO",F - Tax,$8.78,-3860,510178,-1%,"-$33,891",,,,,ASPS
+45,,2021-03-23 16:25:02,2021-03-21,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,-8644,510178,+2%,-$0,,,,,ASPS
+46,,2021-03-23 16:24:12,2021-03-21,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",A - Grant,$0.00,1597,26509,+6%,+$0,,,,,ASPS
+47,,2021-03-23 16:24:12,2021-03-21,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$8.78,-742,26509,-3%,"-$6,515",,,,,ASPS
+48,,2021-03-03 17:15:34,2021-02-27,ASPS,Shepro William B,"COB, CEO",A - Grant,$0.00,10960,505856,+2%,+$0,,,,,ASPS
+49,,2021-03-03 17:15:34,2021-02-27,ASPS,Shepro William B,"COB, CEO",F - Tax,$10.43,-5171,505856,-1%,"-$53,934",,,,,ASPS
+50,,2021-03-03 17:15:34,2021-02-27,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,-11578,505856,+2%,-$0,,,,,ASPS
+51,D,2021-03-02 17:53:32,2021-02-26,ASPS,Esterman Michelle D.,CFO,F - Tax,$10.32,-1327,31203,-4%,"-$13,695",,,,,ASPS
+52,D,2021-03-02 17:53:32,2021-02-26,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,3749,31203,+14%,+$0,,,,,ASPS
+53,D,2021-03-02 17:33:25,2021-02-26,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$10.32,-1021,24912,-4%,"-$10,537",,,,,ASPS
+54,D,2021-03-02 17:33:25,2021-02-26,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",M - OptEx,$0.00,2187,24912,+10%,+$0,,,,,ASPS
+55,D,2021-03-02 17:29:58,2021-02-26,ASPS,Shepro William B,"COB, CEO",F - Tax,$10.32,-4135,500067,-1%,"-$42,673",,,,,ASPS
+56,D,2021-03-02 17:29:58,2021-02-26,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,-9258,500067,+2%,-$0,,,,,ASPS
+57,D,2021-03-02 17:29:58,2021-02-26,ASPS,Shepro William B,"COB, CEO",M - OptEx,$0.00,8764,500067,+2%,+$0,,,,,ASPS
+58,D,2021-03-02 17:11:45,2021-02-26,ASPS,Mastioni Marcello,COO,F - Tax,$10.32,-49,49802,0%,-$506,,,,,ASPS
+59,D,2021-03-02 17:11:45,2021-02-26,ASPS,Mastioni Marcello,COO,M - OptEx,$0.00,3560,49802,+8%,+$0,,,,,ASPS
+60,D,2021-03-01 17:28:06,2021-02-25,ASPS,Shepro William B,"COB, CEO",F - Tax,$10.52,-9068,495438,-2%,"-$95,395",,,,,ASPS
+61,D,2021-03-01 17:28:06,2021-02-25,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,-20304,495438,+4%,-$0,,,,,ASPS
+62,D,2021-03-01 17:28:06,2021-02-25,ASPS,Shepro William B,"COB, CEO",M - OptEx,$0.00,19220,495438,+4%,+$0,,,,,ASPS
+63,D,2021-03-01 17:25:46,2021-02-25,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$10.52,-1299,23746,-5%,"-$13,665",,,,,ASPS
+64,D,2021-03-01 17:25:46,2021-02-25,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",M - OptEx,$0.00,2776,23746,+13%,+$0,,,,,ASPS
+65,D,2021-03-01 17:22:55,2021-02-25,ASPS,Esterman Michelle D.,CFO,F - Tax,$10.52,-1506,28781,-5%,"-$15,843",,,,,ASPS
+66,D,2021-03-01 17:22:55,2021-02-25,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,4256,28781,+17%,+$0,,,,,ASPS
+67,D,2021-03-01 17:20:04,2021-02-25,ASPS,Mastioni Marcello,COO,F - Tax,$10.52,-351,46291,-1%,"-$3,693",,,,,ASPS
+68,D,2021-03-01 17:20:04,2021-02-25,ASPS,Mastioni Marcello,COO,M - OptEx,$0.00,3909,46291,+9%,+$0,,,,,ASPS
+69,D,2021-02-16 17:35:22,2021-02-12,ASPS,Mastioni Marcello,COO,F - Tax,$11.01,-266,42999,-1%,"-$2,929",,,,,ASPS
+70,D,2021-02-16 17:35:22,2021-02-12,ASPS,Mastioni Marcello,COO,M - OptEx,$0.00,1593,42999,+4%,+$0,,,,,ASPS
+71,D,2021-02-16 17:26:38,2021-02-12,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$11.01,-491,22760,-2%,"-$5,406",,,,,ASPS
+72,D,2021-02-16 17:26:38,2021-02-12,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",M - OptEx,$0.00,1062,22760,+5%,+$0,,,,,ASPS
+73,D,2021-02-16 17:25:04,2021-02-12,ASPS,Shepro William B,"COB, CEO",F - Tax,$11.01,-11795,510286,-2%,"-$129,863",,,,,ASPS
+74,D,2021-02-16 17:25:04,2021-02-12,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,26410,510286,-5%,+$0,,,,,ASPS
+75,D,2021-02-16 17:25:04,2021-02-12,ASPS,Shepro William B,"COB, CEO",M - OptEx,$0.00,25000,510286,+5%,+$0,,,,,ASPS
+76,D,2021-02-02 20:40:58,2021-01-29,ASPS,Esterman Michelle D.,CFO,F - Tax,$10.57,-1770,20230,-8%,"-$18,709",,,,,ASPS
+77,D,2021-02-02 20:40:58,2021-01-29,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,5000,20230,+33%,+$0,,,,,ASPS
+78,D,2021-01-26 19:20:49,2021-01-24,ASPS,Mastioni Marcello,COO,F - Tax,$11.09,-82,41488,0%,-$909,,,,,ASPS
+79,D,2021-01-26 19:20:49,2021-01-24,ASPS,Mastioni Marcello,COO,M - OptEx,$0.00,3213,41488,+8%,+$0,,,,,ASPS
+80,D,2021-01-26 17:46:08,2021-01-24,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$11.09,-984,22682,-4%,"-$10,913",,,,,ASPS
+81,D,2021-01-26 17:46:08,2021-01-24,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",M - OptEx,$0.00,2105,22682,+10%,+$0,,,,,ASPS
+82,D,2021-01-26 17:42:56,2021-01-24,ASPS,Esterman Michelle D.,CFO,F - Tax,$11.09,-869,22000,-4%,"-$9,637",,,,,ASPS
+83,D,2021-01-26 17:42:56,2021-01-24,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,2456,22000,+13%,+$0,,,,,ASPS
+84,D,2020-11-13 17:29:43,2020-11-12,ASPS,Mastioni Marcello,COO,F - Tax,$12.25,-629,38904,-2%,"-$7,705",,,,,ASPS
+85,D,2020-11-13 17:29:43,2020-11-12,ASPS,Mastioni Marcello,COO,M - OptEx,$0.00,5000,38904,+15%,+$0,,,,,ASPS
+86,,2020-11-13 16:55:35,2020-11-13,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$11.76,-1768,20577,-8%,"-$20,792",,,,,ASPS
+87,,2020-08-18 16:16:39,2020-08-14,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$8.83,117875,3746140,+3%,"+$1,041,390",,,,,ASPS
+88,,2020-08-13 09:37:50,2020-08-12,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,31818,487990,-6%,+$0,,,,,ASPS
+89,,2020-08-13 09:37:50,2020-08-12,ASPS,Shepro William B,"COB, CEO",P - Purchase,$8.68,11600,487990,+2%,"+$100,644",,,,,ASPS
+90,,2020-08-04 16:04:13,2020-08-01,ASPS,Mastioni Marcello,COO,F - Tax,$13.46,-2208,33904,-6%,"-$29,720",,,,,ASPS
+91,,2020-07-29 16:03:50,2020-07-27,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$13.47,-785,22345,-3%,"-$10,574",,,,,ASPS
+92,,2020-07-10 17:00:09,2020-05-19,ASPS,Burg Scott Edward,"Dir, 10%",A - Grant,$0.00,5367,3628265,0%,+$0,,,,,ASPS
+93,,2020-05-21 16:05:55,2020-05-19,ASPS,Morettini Joseph L,Dir,A - Grant,$0.00,5367,15768,+52%,+$0,,,,,ASPS
+94,,2020-05-21 16:04:24,2020-05-19,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,5367,39001,+16%,+$0,,,,,ASPS
+95,,2020-05-19 17:54:13,2020-05-15,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$8.22,48733,3622898,+1%,"+$400,390",,,,,ASPS
+96,M,2020-05-08 16:20:38,2020-05-06,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$6.77,131179,3574165,+4%,"+$888,618",,,,,ASPS
+97,,2020-04-08 17:17:21,2020-04-07,ASPS,Esterman Michelle D.,CFO,F - Tax,$7.39,-185,20413,-1%,"-$1,367",,,,,ASPS
+98,,2020-04-01 16:15:30,2020-03-30,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$7.32,14498,3442986,0%,"+$106,088",,,,,ASPS
+99,,2020-03-24 20:04:46,2020-03-20,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$8.24,56610,3428488,+2%,"+$466,597",,,,,ASPS
+100,,2020-03-24 16:51:29,2020-03-21,ASPS,Esterman Michelle D.,CFO,A - Grant,$0.00,1864,21159,+10%,+$0,,,,,ASPS
+101,,2020-03-24 16:51:29,2020-03-21,ASPS,Esterman Michelle D.,CFO,F - Tax,$8.26,-561,21159,-3%,"-$4,634",,,,,ASPS
+102,,2020-03-24 16:47:57,2020-03-21,ASPS,Shepro William B,"COB, CEO",A - Grant,$0.00,8183,468664,+2%,+$0,,,,,ASPS
+103,,2020-03-24 16:47:57,2020-03-21,ASPS,Shepro William B,"COB, CEO",F - Tax,$8.26,-3861,468664,-1%,"-$31,892",,,,,ASPS
+104,,2020-03-24 16:47:57,2020-03-21,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,8644,468664,-2%,+$0,,,,,ASPS
+105,,2020-03-24 16:47:05,2020-03-21,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",A - Grant,$0.00,3994,251996,+2%,+$0,,,,,ASPS
+106,,2020-03-24 16:47:05,2020-03-21,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",F - Tax,$8.26,-1884,251996,-1%,"-$15,562",,,,,ASPS
+107,,2020-03-24 16:46:15,2020-03-21,ASPS,Mastioni Marcello,COO,A - Grant,$0.00,2550,36482,+8%,+$0,,,,,ASPS
+108,,2020-03-24 16:46:15,2020-03-21,ASPS,Mastioni Marcello,COO,F - Tax,$8.26,-370,36482,-1%,"-$3,056",,,,,ASPS
+109,,2020-03-24 16:45:26,2020-03-21,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",A - Grant,$0.00,1598,23884,+7%,+$0,,,,,ASPS
+110,,2020-03-24 16:45:26,2020-03-21,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$8.26,-754,23884,-3%,"-$6,228",,,,,ASPS
+111,M,2020-03-19 19:04:33,2020-03-17,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$8.11,741,3371878,0%,"+$6,009",,,,,ASPS
+112,M,2020-03-16 20:46:56,2020-03-12,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$8.14,266785,3371137,+9%,"+$2,171,982",,,,,ASPS
+113,D,2020-02-27 20:13:06,2020-02-25,ASPS,Shepro William B,"COB, CEO",F - Tax,$18.91,-9068,475380,-2%,"-$171,476",,,,,ASPS
+114,D,2020-02-27 20:13:06,2020-02-25,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,20306,475380,-4%,+$0,,,,,ASPS
+115,D,2020-02-27 20:13:06,2020-02-25,ASPS,Shepro William B,"COB, CEO",M - OptEx,$0.00,19221,475380,+4%,+$0,,,,,ASPS
+116,D,2020-02-27 20:12:24,2020-02-25,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$18.91,-1309,23595,-5%,"-$24,753",,,,,ASPS
+117,D,2020-02-27 20:12:24,2020-02-25,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",M - OptEx,$0.00,2776,23595,+13%,+$0,,,,,ASPS
+118,D,2020-02-27 20:11:36,2020-02-25,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",F - Tax,$18.91,-3590,251592,-1%,"-$67,887",,,,,ASPS
+119,D,2020-02-27 20:11:36,2020-02-25,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",M - OptEx,$0.00,7613,251592,+3%,+$0,,,,,ASPS
+120,D,2020-02-27 20:10:55,2020-02-25,ASPS,Mastioni Marcello,COO,F - Tax,$18.91,-565,34497,-2%,"-$10,684",,,,,ASPS
+121,D,2020-02-27 20:10:55,2020-02-25,ASPS,Mastioni Marcello,COO,M - OptEx,$0.00,3910,34497,+13%,+$0,,,,,ASPS
+122,D,2020-02-27 20:09:58,2020-02-25,ASPS,Esterman Michelle D.,CFO,F - Tax,$18.91,-1281,20576,-6%,"-$24,224",,,,,ASPS
+123,D,2020-02-27 20:09:58,2020-02-25,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,4256,20576,+26%,+$0,,,,,ASPS
+124,D,2020-02-14 16:34:30,2020-02-12,ASPS,Shepro William B,"COB, CEO",F - Tax,$19.60,-11795,471006,-2%,"-$231,182",,,,,ASPS
+125,D,2020-02-14 16:34:30,2020-02-12,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,26410,471006,-5%,+$0,,,,,ASPS
+126,D,2020-02-14 16:34:30,2020-02-12,ASPS,Shepro William B,"COB, CEO",M - OptEx,$0.00,25000,471006,+6%,+$0,,,,,ASPS
+127,D,2020-02-14 16:33:25,2020-02-12,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",F - Tax,$19.60,-5897,249876,-2%,"-$115,581",,,,,ASPS
+128,D,2020-02-14 16:33:25,2020-02-12,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",M - OptEx,$0.00,12500,249876,+5%,+$0,,,,,ASPS
+129,D,2020-02-14 16:32:30,2020-02-12,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$19.60,-501,21320,-2%,"-$9,820",,,,,ASPS
+130,D,2020-02-14 16:32:30,2020-02-12,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",M - OptEx,$0.00,1063,21320,+5%,+$0,,,,,ASPS
+131,D,2020-02-14 16:31:28,2020-02-12,ASPS,Mastioni Marcello,COO,F - Tax,$19.60,-381,30968,-1%,"-$7,468",,,,,ASPS
+132,D,2020-02-14 16:31:28,2020-02-12,ASPS,Mastioni Marcello,COO,M - OptEx,$0.00,1594,30968,+5%,+$0,,,,,ASPS
+133,D,2020-02-14 16:30:31,2020-02-12,ASPS,Esterman Michelle D.,CFO,F - Tax,$19.60,-362,16682,-2%,"-$7,095",,,,,ASPS
+134,D,2020-02-14 16:30:31,2020-02-12,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,1240,16682,+8%,+$0,,,,,ASPS
+135,D,2020-01-30 17:19:55,2020-01-29,ASPS,Esterman Michelle D.,CFO,F - Tax,$18.94,-1770,17212,-9%,"-$33,524",,,,,ASPS
+136,D,2020-01-30 17:19:55,2020-01-29,ASPS,Esterman Michelle D.,CFO,M - OptEx,$0.00,5000,17212,+41%,+$0,,,,,ASPS
+137,,2019-11-15 11:59:34,2019-11-14,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,-2800,432801,+1%,-$0,,,,,ASPS
+138,,2019-11-15 11:59:34,2019-11-14,ASPS,Shepro William B,"COB, CEO",P - Purchase,$17.92,1400,432801,0%,"+$25,088",,,,,ASPS
+139,,2019-11-14 15:22:41,2019-11-13,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$17.97,-1769,20257,-8%,"-$31,789",,,,,ASPS
+140,D,2019-11-13 17:17:39,2019-11-12,ASPS,Mastioni Marcello,COO,F - Tax,$18.24,-975,30349,-3%,"-$17,784",,,,,ASPS
+141,D,2019-11-13 17:17:39,2019-11-12,ASPS,Mastioni Marcello,COO,M - OptEx,$0.00,5000,30349,+20%,+$0,,,,,ASPS
+142,,2019-11-07 15:56:39,2019-11-06,ASPS,Mueller-Ineichen Roland,Dir,P - Purchase,$17.86,616,33634,+2%,"+$11,002",,,,,ASPS
+143,,2019-11-04 16:25:24,2019-10-31,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$17.76,25000,3104352,+1%,"+$443,878",,,,,ASPS
+144,,2019-10-31 08:38:03,2019-10-30,ASPS,Esterman Michelle D.,CFO,P - Purchase,$15.88,780,12212,+7%,"+$12,390",,,,,ASPS
+145,,2019-10-30 17:08:55,2019-10-30,ASPS,Shepro William B,"COB, CEO",G - Gift,$0.00,30786,433901,-7%,+$0,,,,,ASPS
+146,,2019-10-30 17:08:55,2019-10-30,ASPS,Shepro William B,"COB, CEO",P - Purchase,$15.85,3150,433901,+1%,"+$49,917",,,,,ASPS
+147,,2019-10-30 17:07:58,2019-10-29,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",P - Purchase,$16.72,300,22026,+1%,"+$5,016",,,,,ASPS
+148,,2019-08-05 17:27:32,2019-08-01,ASPS,Mastioni Marcello,COO,F - Tax,$21.00,-2537,25349,-9%,"-$53,277",,,,,ASPS
+149,,2019-07-30 18:35:43,2019-07-29,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$20.59,-788,21726,-4%,"-$16,225",,,,,ASPS
+150,,2019-05-22 16:11:01,2019-05-20,ASPS,Burg Scott Edward,"Dir, 10%",A - Grant,$0.00,2642,3079352,0%,+$0,,,,,ASPS
+151,,2019-05-22 16:10:29,2019-05-20,ASPS,Morettini Joseph L,Dir,A - Grant,$0.00,4139,10401,+66%,+$0,,,,,ASPS
+152,,2019-05-22 16:09:12,2019-05-20,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,4139,33018,+14%,+$0,,,,,ASPS
+153,,2019-05-10 16:30:12,2019-05-08,ASPS,Linn W Michael,Dir,S - Sale,$25.00,-5000,22950,-18%,"-$125,000",,,,,ASPS
+154,,2019-04-16 16:25:34,2019-04-15,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",F - Tax,$24.86,-3223,237376,-1%,"-$80,124",,,,,ASPS
+155,,2019-04-16 16:24:31,2019-04-15,ASPS,Esterman Michelle D.,CFO,F - Tax,$24.86,-1583,11432,-12%,"-$39,353",,,,,ASPS
+156,,2019-04-16 16:23:29,2019-04-15,ASPS,Shepro William B,CEO,F - Tax,$24.86,-8901,16552,-35%,"-$221,279",,,,,ASPS
+157,,2019-04-16 16:22:22,2019-04-15,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$24.86,-881,22514,-4%,"-$21,902",,,,,ASPS
+158,,2019-04-09 16:30:50,2019-04-07,ASPS,Esterman Michelle D.,CFO,F - Tax,$24.76,-188,13015,-1%,"-$4,655",,,,,ASPS
+159,,2019-04-09 16:29:32,2019-04-07,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",F - Tax,$24.76,-474,240599,0%,"-$11,736",,,,,ASPS
+160,,2019-04-09 16:28:12,2019-04-07,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$24.76,-236,23395,-1%,"-$5,843",,,,,ASPS
+161,,2019-04-09 16:26:51,2019-04-07,ASPS,Shepro William B,CEO,F - Tax,$24.76,-2032,25453,-7%,"-$50,312",,,,,ASPS
+162,,2019-04-03 16:38:28,2019-04-01,ASPS,Linn W Michael,Dir,G - Gift,$0.00,-12,27962,0%,-$0,,,,,ASPS
+163,,2018-11-15 15:41:02,2018-11-13,ASPS,Davila Joseph A.,"Pres, Servicer Solutions",F - Tax,$22.84,-1769,26606,-6%,"-$40,404",,,,,ASPS
+164,,2018-11-15 15:39:32,2018-11-13,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$22.84,-1769,23058,-7%,"-$40,404",,,,,ASPS
+165,,2018-09-27 16:18:28,2018-09-25,ASPS,Burg Scott Edward,"Dir, 10%",A - Grant,$0.00,500,3076710,0%,+$0,,,,,ASPS
+166,,2018-07-30 16:17:40,2018-07-27,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$33.83,-785,24827,-3%,"-$26,557",,,,,ASPS
+167,,2018-07-30 16:16:28,2018-07-27,ASPS,Davila Joseph A.,"Pres, Servicer Solutions",F - Tax,$33.83,-786,28375,-3%,"-$26,590",,,,,ASPS
+168,,2018-05-17 13:39:27,2018-05-15,ASPS,Vatto Timo,Dir,A - Grant,$0.00,5762,24179,+31%,+$0,,,,,ASPS
+169,,2018-05-17 13:38:50,2018-05-15,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,5762,28879,+25%,+$0,,,,,ASPS
+170,,2018-05-17 13:38:11,2018-05-15,ASPS,Morettini Joseph L,Dir,A - Grant,$0.00,5762,6262,>999%,+$0,,,,,ASPS
+171,,2018-05-17 13:37:31,2018-05-15,ASPS,Linn W Michael,Dir,A - Grant,$0.00,5762,28530,+25%,+$0,,,,,ASPS
+172,,2018-05-17 13:36:44,2018-05-15,ASPS,Kramer Orin S,Dir,A - Grant,$0.00,5762,150997,+4%,+$0,,,,,ASPS
+173,,2018-04-30 17:11:17,2018-04-27,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$25.95,19567,3076210,+1%,"+$507,840",,,,,ASPS
+174,,2018-04-17 13:20:22,2018-04-15,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$25.55,-879,25612,-3%,"-$22,458",,,,,ASPS
+175,,2018-04-17 13:19:19,2018-04-15,ASPS,Esterman Michelle D.,"EVP, Finance",F - Tax,$25.55,-1628,12402,-12%,"-$41,595",,,,,ASPS
+176,,2018-04-17 13:18:12,2018-04-15,ASPS,Davila Joseph A.,"Pres, Servicer Solutions",F - Tax,$25.55,-880,29161,-3%,"-$22,484",,,,,ASPS
+177,,2018-04-10 14:06:11,2018-04-07,ASPS,Ritts Gregory J.,"Chief Legal, Compliance Office",F - Tax,$26.09,-237,26491,-1%,"-$6,183",,,,,ASPS
+178,,2018-04-10 14:05:00,2018-04-07,ASPS,Davila Joseph A.,"Pres, Servicer Solutions",F - Tax,$26.09,-237,30041,-1%,"-$6,183",,,,,ASPS
+179,,2018-04-09 08:31:05,2018-04-05,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$25.93,111516,3056643,+4%,"+$2,891,298",,,,,ASPS
+180,,2018-04-02 16:20:46,2018-03-29,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$26.18,101359,2945127,+4%,"+$2,653,526",,,,,ASPS
+181,M,2018-02-14 11:00:53,2018-02-12,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$24.24,400000,2843768,+16%,"+$9,694,000",,,,,ASPS
+182,D,2018-02-13 08:17:49,2018-02-09,ASPS,Shepro William B,CEO,G - Gift,$0.00,-337502,425979,+381%,-$0,,,,,ASPS
+183,D,2018-02-13 08:17:49,2018-02-09,ASPS,Shepro William B,CEO,M - OptEx,$9.14,168751,425979,+66%,"+$1,542,384",,,,,ASPS
+184,D,2018-02-13 07:44:09,2018-02-09,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",M - OptEx,$9.14,117501,234470,+100%,"+$1,073,959",,,,,ASPS
+185,M,2018-01-11 14:38:49,2018-01-09,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$27.92,355269,2443768,+17%,"+$9,919,494",,,,,ASPS
+186,,2017-11-15 16:43:12,2017-11-13,ASPS,Ritts Gregory J.,GC,A - Grant,$0.00,15000,26728,+128%,+$0,,,,,ASPS
+187,,2017-11-15 16:43:08,2017-11-13,ASPS,Davila Joseph A.,"Pres, Servicer Solutions",A - Grant,$0.00,15000,30278,+98%,+$0,,,,,ASPS
+188,,2017-11-13 12:45:05,2017-11-08,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$25.11,27506,2088499,+1%,"+$690,610",,,,,ASPS
+189,,2017-11-13 12:42:34,2017-11-02,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$25.83,15236,2060993,+1%,"+$393,608",,,,,ASPS
+190,,2017-11-01 15:30:24,2017-10-31,ASPS,Chatterjee Indroneel,CFO,P - Purchase,$26.32,1200,20733,+6%,"+$31,581",,,,,ASPS
+191,,2017-10-31 11:42:07,2017-10-27,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$24.58,40741,2045757,+2%,"+$1,001,606",,,,,ASPS
+192,D,2017-10-10 18:12:36,2017-10-05,ASPS,Chatterjee Indroneel,CFO,A - Grant,$0.00,19533,19533,New,+$0,,,,,ASPS
+193,D,2017-09-07 15:41:17,2017-09-06,ASPS,Davila Joseph A.,"Pres, Servicer Solutions",M - OptEx,$18.79,1100,15278,+8%,"+$20,669",,,,,ASPS
+194,D,2017-09-05 12:52:49,2017-09-01,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",M - OptEx,$9.14,39167,116969,+50%,"+$357,986",,,,,ASPS
+195,DM,2017-09-05 12:19:49,2017-05-09,ASPS,Shepro William B,CEO,G - Gift,$0.00,-132432,257228,+106%,-$0,,,,,ASPS
+196,D,2017-09-05 12:19:49,2017-09-01,ASPS,Shepro William B,CEO,M - OptEx,$9.14,56250,257228,+28%,"+$514,125",,,,,ASPS
+197,M,2017-09-01 10:21:34,2017-08-30,ASPS,Kramer Orin S,Dir,P - Purchase,$22.34,25000,145235,+21%,"+$558,500",,,,,ASPS
+198,D,2017-07-31 09:03:16,2017-07-27,ASPS,Davila Joseph A.,"Pres, Servicer Solutions",A - Grant,$0.00,5000,14178,+54%,+$0,,,,,ASPS
+199,D,2017-07-31 09:03:13,2017-07-27,ASPS,Ritts Gregory J.,GC,A - Grant,$0.00,5000,11728,+74%,+$0,,,,,ASPS
+200,,2017-05-19 09:35:16,2017-05-17,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,4126,23117,+22%,+$0,,,,,ASPS
+201,,2017-05-19 09:16:04,2017-05-17,ASPS,Kramer Orin S,Dir,A - Grant,$0.00,2627,120235,+2%,+$0,,,,,ASPS
+202,,2017-05-19 09:11:53,2017-05-17,ASPS,Linn W Michael,Dir,A - Grant,$0.00,4126,22768,+22%,+$0,,,,,ASPS
+203,,2017-05-19 09:10:49,2017-05-17,ASPS,Vatto Timo,Dir,A - Grant,$0.00,4126,18417,+29%,+$0,,,,,ASPS
+204,,2017-05-19 09:09:45,2017-05-17,ASPS,Morettini Joseph L,Dir,A - Grant,$0.00,500,500,New,+$0,,,,,ASPS
+205,,2017-05-12 12:46:18,2017-05-10,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$18.92,55000,0,-100%,"+$1,040,407",6.0,,,,ASPS
+206,,2017-05-12 12:46:18,2017-05-10,ASPS,"Deer Park Road Management Company, LP",10%,S - Sale,$18.22,-2400,0,-100%,"-$43,721",6.0,,,,ASPS
+207,,2017-04-18 16:16:13,2017-04-15,ASPS,Ritts Gregory J.,GC,F - Tax,$42.78,-880,6728,-12%,"-$37,646",-3.0,-50.0,,,ASPS
+208,,2017-04-18 16:12:57,2017-04-15,ASPS,Davila Joseph A.,"Pres, Servicer Solutions",F - Tax,$42.78,-880,9178,-9%,"-$37,646",-3.0,-50.0,,,ASPS
+209,,2017-04-18 16:09:51,2017-04-15,ASPS,Esterman Michelle D.,CFO,F - Tax,$42.78,-2280,14030,-14%,"-$97,538",-3.0,-50.0,,,ASPS
+210,,2017-04-18 16:06:46,2017-04-15,ASPS,Shepro William B,CEO,F - Tax,$42.78,-8901,200978,-4%,"-$380,785",-3.0,-50.0,,,ASPS
+211,,2017-04-18 16:06:42,2017-04-15,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",F - Tax,$42.78,-3223,77802,-4%,"-$137,880",-3.0,-50.0,,,ASPS
+212,,2017-04-18 15:56:34,2017-04-15,ASPS,Bhandari Vivek,"Pres, REIS",F - Tax,$42.78,-880,6228,-12%,"-$37,646",2.0,-48.0,,,ASPS
+213,,2017-04-11 11:59:57,2017-04-07,ASPS,Ritts Gregory J.,GC,A - Grant,$0.00,1508,7608,+25%,+$0,1.0,9.0,-53.0,,ASPS
+214,,2017-04-11 11:58:53,2017-04-07,ASPS,Davila Joseph A.,"Pres, Servicer Solutions",A - Grant,$0.00,1508,10058,+18%,+$0,1.0,9.0,-53.0,,ASPS
+215,,2017-04-11 11:57:49,2017-04-07,ASPS,Esterman Michelle D.,CFO,A - Grant,$0.00,1810,16310,+12%,+$0,1.0,9.0,-53.0,,ASPS
+216,,2017-04-11 11:55:44,2017-04-07,ASPS,Wilcox Kevin James,"Chief Admin, Risk Officer",A - Grant,$0.00,3016,81025,+4%,+$0,1.0,9.0,-53.0,,ASPS
+217,,2017-04-11 11:54:40,2017-04-07,ASPS,Shepro William B,CEO,A - Grant,$0.00,12927,209879,+7%,+$0,1.0,9.0,-53.0,,ASPS
+218,,2017-04-11 11:52:35,2017-04-07,ASPS,Bhandari Vivek,"Pres, REIS",A - Grant,$0.00,1508,7108,+27%,+$0,1.0,9.0,-53.0,,ASPS
+219,D,2017-03-27 20:58:46,2017-03-23,ASPS,"Deer Park Road Management Company, LP",10%,P - Purchase,$28.15,43404,1624078,+3%,"+$1,221,823",7.0,14.0,-29.0,,ASPS
+220,,2017-02-28 09:19:04,2017-02-24,ASPS,Shepro William B,CEO,P - Purchase,$21.70,4608,196952,+2%,"+$99,994",1.0,8.0,46.0,,ASPS
+221,,2017-02-27 15:47:36,2017-02-24,ASPS,Kramer Orin S,Dir,P - Purchase,$21.91,25000,117608,+27%,"+$547,668",7.0,16.0,46.0,,ASPS
+222,,2017-02-22 13:03:47,2017-02-21,ASPS,Shepro William B,CEO,P - Purchase,$24.75,5250,192344,+3%,"+$129,925",1.0,1.0,14.0,,ASPS
+223,,2016-11-14 11:01:43,2016-11-10,ASPS,Linn W Michael,Dir,S - Sale,$25.65,-4809,22118,-18%,"-$123,357",-1.0,6.0,7.0,,ASPS
+224,,2016-11-08 10:58:03,2016-11-04,ASPS,Shepro William B,CEO,P - Purchase,$24.43,6130,187094,+3%,"+$149,786",2.0,2.0,12.0,-22.0,ASPS
+225,,2016-11-02 20:34:26,2016-10-31,ASPS,Cooperman Leon G,10%,S - Sale,$25.97,-262100,1729965,-13%,"-$6,805,793",-2.0,3.0,5.0,-27.0,ASPS
+226,D,2016-08-23 14:47:55,2016-08-19,ASPS,Wilcox Kevin James,Chief Administration Officer,F - Tax,$31.20,-27001,78009,-26%,"-$842,431",4.0,4.0,0.0,-23.0,ASPS
+227,D,2016-08-23 14:47:55,2016-08-19,ASPS,Wilcox Kevin James,Chief Administration Officer,M - OptEx,$9.14,50000,78009,+179%,"+$457,000",4.0,4.0,0.0,-23.0,ASPS
+228,D,2016-08-23 14:00:13,2016-08-19,ASPS,Shepro William B,CEO,F - Tax,$31.20,-28934,180964,-14%,"-$902,741",4.0,4.0,0.0,-23.0,ASPS
+229,D,2016-08-23 14:00:13,2016-08-19,ASPS,Shepro William B,CEO,G - Gift,$0.00,-42132,180964,+30%,-$0,4.0,4.0,0.0,-23.0,ASPS
+230,D,2016-08-23 14:00:13,2016-08-19,ASPS,Shepro William B,CEO,M - OptEx,$9.14,50000,180964,+38%,"+$457,000",4.0,4.0,0.0,-23.0,ASPS
+231,,2016-08-22 15:15:49,2016-08-18,ASPS,Kramer Orin S,Dir,A - Grant,$0.00,500,92608,+1%,+$0,-1.0,3.0,3.0,-25.0,ASPS
+232,M,2016-08-12 20:39:06,2016-07-29,ASPS,Cooperman Leon G,10%,P - Purchase,$27.84,123200,1992065,+7%,"+$3,429,710",5.0,5.0,9.0,-2.0,ASPS
+233,,2016-08-12 16:37:11,2016-08-11,ASPS,Erbey William C,10%,G - Gift,$0.00,-1418,6000709,0%,-$0,5.0,5.0,9.0,-2.0,ASPS
+234,,2016-08-12 16:37:11,2016-08-10,ASPS,Erbey William C,10%,S - Sale,$29.13,-136763,6000709,-2%,"-$3,984,262",5.0,5.0,9.0,-2.0,ASPS
+235,,2016-08-10 16:42:16,2016-08-08,ASPS,Erbey William C,10%,G - Gift,$0.00,-95022,6137472,+2%,-$0,1.0,8.0,14.0,-2.0,ASPS
+236,M,2016-08-10 16:42:16,2016-08-08,ASPS,Erbey William C,10%,S - Sale,$25.26,-150000,6137472,-2%,"-$3,788,569",1.0,8.0,14.0,-2.0,ASPS
+237,D,2016-08-02 15:43:48,2016-08-02,ASPS,Erbey William C,10%,G - Gift,$0.00,-1000000,6287472,+19%,-$0,-1.0,4.0,36.0,17.0,ASPS
+238,D,2016-08-02 15:43:48,2016-08-02,ASPS,Erbey William C,10%,M - OptEx,$9.32,834274,6287472,+15%,"+$7,777,441",-1.0,4.0,36.0,17.0,ASPS
+239,D,2016-08-02 15:43:48,2016-08-01,ASPS,Erbey William C,10%,S - Sale+OE,$23.81,-57142,6287472,-1%,"-$1,360,551",-1.0,4.0,36.0,17.0,ASPS
+240,M,2016-08-01 15:07:43,2016-07-28,ASPS,Erbey William C,10%,S - Sale,$24.01,-268460,5510340,-5%,"-$6,445,239",5.0,10.0,40.0,21.0,ASPS
+241,M,2016-07-29 21:20:58,2016-07-27,ASPS,Omega Advisors Inc.,10%,P - Purchase,$23.88,172804,1868865,+10%,"+$4,126,118",5.0,6.0,40.0,22.0,ASPS
+242,DM,2016-07-28 15:22:08,2016-07-26,ASPS,Erbey William C,10%,S - Sale+OE,$24.14,-174398,5778800,-3%,"-$4,210,384",-2.0,2.0,32.0,17.0,ASPS
+243,,2016-05-19 11:07:25,2016-05-18,ASPS,Vatto Timo,Dir,A - Grant,$0.00,2596,14291,+22%,+$0,-5.0,5.0,1.0,-4.0,ASPS
+244,,2016-05-19 11:06:17,2016-05-18,ASPS,Linn W Michael,Dir,A - Grant,$0.00,2596,26927,+11%,+$0,-5.0,5.0,1.0,-4.0,ASPS
+245,,2016-05-19 11:04:04,2016-05-18,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,2596,18991,+16%,+$0,-5.0,5.0,1.0,-4.0,ASPS
+246,,2016-05-03 11:56:06,2016-05-02,ASPS,Shepro William B,CEO,P - Purchase,$29.27,1700,159898,+1%,"+$49,762",1.0,4.0,-5.0,-11.0,ASPS
+247,,2016-05-03 11:56:02,2016-05-02,ASPS,Wilcox Kevin James,Chief Administration Officer,P - Purchase,$29.36,1700,55010,+3%,"+$49,920",1.0,4.0,-5.0,-11.0,ASPS
+248,D,2016-03-31 11:54:53,2016-03-30,ASPS,Wilcox Kevin James,Chief Administration Officer,M - OptEx,$13.58,8130,53310,+18%,"+$110,405",3.0,6.0,28.0,34.0,ASPS
+249,,2016-03-30 08:41:08,2016-03-29,ASPS,Shepro William B,CEO,P - Purchase,$21.42,2300,158198,+1%,"+$49,266",1.0,4.0,26.0,33.0,ASPS
+250,,2016-03-24 15:58:23,2016-03-22,ASPS,Shepro William B,CEO,P - Purchase,$24.43,7200,155898,+5%,"+$175,883",4.0,6.0,24.0,37.0,ASPS
+251,,2016-03-23 14:21:39,2016-03-21,ASPS,Ritts Gregory J.,GC,P - Purchase,$24.14,500,6100,+9%,"+$12,069",-4.0,-1.0,17.0,36.0,ASPS
+252,D,2015-12-15 13:51:57,2015-12-11,ASPS,Shepro William B,CEO,A - Grant,$0.00,9459,148698,+7%,+$0,8.0,27.0,18.0,9.0,ASPS
+253,D,2015-12-15 13:51:57,2015-12-11,ASPS,Shepro William B,CEO,G - Gift,$0.00,-9459,148698,-6%,-$0,8.0,27.0,18.0,9.0,ASPS
+254,D,2015-12-15 13:51:57,2015-12-11,ASPS,Shepro William B,CEO,M - OptEx,$13.58,9459,148698,+7%,"+$128,453",8.0,27.0,18.0,9.0,ASPS
+255,D,2015-11-12 16:37:55,2015-11-10,ASPS,Erbey William C,10%,M - OptEx,$11.02,23269,5953198,0%,"+$256,424",0.0,-1.0,-12.0,7.0,ASPS
+256,D,2015-11-12 16:37:55,2015-11-10,ASPS,Erbey William C,10%,S - Sale+OE,$28.25,-23269,5953198,0%,"-$657,349",0.0,-1.0,-12.0,7.0,ASPS
+257,D,2015-11-05 09:49:50,2015-11-03,ASPS,Wilcox Kevin James,Chief Administration Officer,M - OptEx,$11.02,5948,45180,+15%,"+$65,547",2.0,-5.0,-13.0,5.0,ASPS
+258,D,2015-11-02 12:40:58,2015-11-02,ASPS,Shepro William B,CEO,A - Grant,$0.00,13230,139239,+10%,+$0,8.0,12.0,6.0,11.0,ASPS
+259,D,2015-11-02 12:40:58,2015-11-02,ASPS,Shepro William B,CEO,G - Gift,$0.00,-13230,139239,-9%,-$0,8.0,12.0,6.0,11.0,ASPS
+260,D,2015-11-02 12:40:58,2015-10-29,ASPS,Shepro William B,CEO,M - OptEx,$11.02,13230,139239,+10%,"+$145,795",8.0,12.0,6.0,11.0,ASPS
+261,,2015-07-27 19:10:05,2015-07-23,ASPS,"Luxor Capital Group, LP",10%,S - Sale,$39.55,-362150,1869092,-16%,"-$14,324,442",-1.0,-16.0,-34.0,-33.0,ASPS
+262,M,2015-06-01 10:50:23,2015-05-28,ASPS,"Luxor Capital Group, LP",10%,S - Sale,$28.10,-150308,2231242,-6%,"-$4,222,907",-3.0,-2.0,13.0,-1.0,ASPS
+263,,2015-05-26 11:57:44,2015-05-22,ASPS,Shepro William B,CEO,P - Purchase,$28.80,3500,126009,+3%,"+$100,800",0.0,-7.0,10.0,-9.0,ASPS
+264,,2015-05-22 16:57:01,2015-05-20,ASPS,Linn W Michael,Dir,A - Grant,$0.00,584,24331,+2%,+$0,0.0,-5.0,10.0,-7.0,ASPS
+265,,2015-05-22 16:57:01,2015-05-21,ASPS,Linn W Michael,Dir,P - Purchase,$28.82,2071,24331,+9%,"+$59,686",0.0,-5.0,10.0,-7.0,ASPS
+266,,2015-05-22 16:36:44,2015-05-20,ASPS,Vatto Timo,Dir,A - Grant,$0.00,584,11695,+5%,+$0,0.0,-5.0,10.0,-7.0,ASPS
+267,,2015-05-22 16:35:41,2015-05-20,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,584,16395,+4%,+$0,0.0,-5.0,10.0,-7.0,ASPS
+268,,2015-05-22 16:15:16,2015-05-20,ASPS,Erbey William C,10%,A - Grant,$0.00,584,5953198,0%,+$0,0.0,-5.0,10.0,-7.0,ASPS
+269,M,2015-05-22 16:15:16,2015-01-27,ASPS,Erbey William C,10%,G - Gift,$0.00,-33114,5953198,+1%,-$0,0.0,-5.0,10.0,-7.0,ASPS
+270,,2015-05-13 13:16:58,2015-05-11,ASPS,Davila Joseph A.,"Pres, Mortgage Services",P - Purchase,$31.14,2950,8550,+53%,"+$91,868",-1.0,-3.0,2.0,-5.0,ASPS
+271,,2015-05-01 12:30:01,2015-04-29,ASPS,Wilcox Kevin James,Chief Administration Officer,P - Purchase,$25.98,18000,39232,+85%,"+$467,580",11.0,23.0,11.0,14.0,ASPS
+272,,2015-05-01 12:29:59,2015-04-29,ASPS,Shepro William B,CEO,P - Purchase,$25.93,35000,122509,+40%,"+$907,561",11.0,23.0,11.0,14.0,ASPS
+273,D,2015-04-17 17:54:28,2015-04-15,ASPS,Bhandari Vivek,"Pres, Financial Services",A - Grant,$0.00,5600,5600,New,+$0,1.0,29.0,72.0,62.0,ASPS
+274,D,2015-04-17 17:51:23,2015-04-15,ASPS,Shepro William B,CEO,A - Grant,$0.00,56600,87509,+183%,+$0,1.0,29.0,72.0,62.0,ASPS
+275,D,2015-04-17 17:38:12,2015-04-15,ASPS,Ritts Gregory J.,GC,A - Grant,$0.00,5600,5600,New,+$0,1.0,29.0,72.0,62.0,ASPS
+276,D,2015-04-17 17:36:10,2015-04-15,ASPS,Hynes Mark J.,"Pres, Technology Services",A - Grant,$0.00,5600,5600,New,+$0,1.0,29.0,72.0,62.0,ASPS
+277,D,2015-04-17 17:33:07,2015-04-15,ASPS,Davila Joseph A.,"Pres, Mortgage Services",A - Grant,$0.00,5600,5600,New,+$0,1.0,29.0,72.0,62.0,ASPS
+278,D,2015-04-17 17:31:05,2015-04-15,ASPS,Esterman Michelle D.,CFO,A - Grant,$0.00,14500,14500,New,+$0,1.0,29.0,72.0,62.0,ASPS
+279,D,2015-04-17 17:29:03,2015-04-15,ASPS,Wilcox Kevin James,Chief Administration Officer,A - Grant,$0.00,20500,21232,>999%,+$0,1.0,29.0,72.0,62.0,ASPS
+280,M,2015-03-18 18:02:59,2015-03-16,ASPS,Cooperman Leon G,10%,S - Sale,$15.89,-262000,1962351,-12%,"-$4,164,460",-10.0,3.0,26.0,89.0,ASPS
+281,M,2015-01-21 13:27:40,2015-01-08,ASPS,Cooperman Leon G,10%,D - Sale to issuer,$27.54,-33100,2257451,-1%,"-$911,466",16.0,3.0,12.0,47.0,ASPS
+282,M,2015-01-21 11:36:42,2014-12-19,ASPS,Cooperman Leon G,10%,P - Purchase,$40.29,224107,2410551,+10%,"+$9,028,359",16.0,3.0,12.0,47.0,ASPS
+283,D,2015-01-16 16:50:37,2015-01-14,ASPS,Shepro William B,CEO,M - OptEx,$0.00,6026,30909,+24%,+$0,-24.0,-36.0,-24.0,6.0,ASPS
+284,D,2015-01-16 16:37:45,2015-01-14,ASPS,Erbey William C,"Dir, 10%",M - OptEx,$0.00,15958,5952614,0%,+$0,-24.0,-36.0,-24.0,6.0,ASPS
+285,,2014-12-29 15:24:43,2014-12-22,ASPS,Hynes Mark J.,"Pres, Technology Services",S - Sale,$32.55,-15460,0,-100%,"-$503,223",1.0,-3.0,-37.0,-7.0,ASPS
+286,,2014-08-13 14:15:07,2014-08-04,ASPS,Hynes Mark J.,"Pres, Technology Services",P - Purchase,$87.20,1000,15460,+7%,"+$87,200",1.0,2.0,18.0,-76.0,ASPS
+287,,2014-08-11 16:27:42,2014-08-08,ASPS,Mueller-Ineichen Roland,Dir,P - Purchase,$84.31,1500,15811,+10%,"+$126,465",2.0,0.0,18.0,-74.0,ASPS
+288,,2014-08-08 13:21:43,2014-08-06,ASPS,Linn W Michael,Dir,P - Purchase,$86.14,1212,21934,+6%,"+$104,405",3.0,4.0,25.0,-72.0,ASPS
+289,,2014-05-23 13:52:05,2014-05-21,ASPS,Erbey William C,"Dir, 10%",A - Grant,$0.00,474,5936656,0%,+$0,1.0,8.0,15.0,-48.0,ASPS
+290,,2014-05-23 13:52:03,2014-05-21,ASPS,Linn W Michael,Dir,A - Grant,$0.00,474,20722,+2%,+$0,1.0,8.0,15.0,-48.0,ASPS
+291,,2014-05-23 13:52:03,2014-05-22,ASPS,Linn W Michael,Dir,P - Purchase,$101.81,975,20722,+5%,"+$99,265",1.0,8.0,15.0,-48.0,ASPS
+292,,2014-05-23 13:52:01,2014-05-21,ASPS,Vatto Timo,Dir,A - Grant,$0.00,474,11111,+4%,+$0,1.0,8.0,15.0,-48.0,ASPS
+293,,2014-05-23 13:52:01,2014-05-22,ASPS,Vatto Timo,Dir,P - Purchase,$102.91,800,11111,+8%,"+$82,327",1.0,8.0,15.0,-48.0,ASPS
+294,,2014-05-23 13:52:00,2014-05-21,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,474,14311,+3%,+$0,1.0,8.0,15.0,-48.0,ASPS
+295,,2014-05-15 12:17:31,2014-05-13,ASPS,Linn W Michael,Dir,P - Purchase,$106.65,1000,19273,+5%,"+$106,645",2.0,-2.0,7.0,-30.0,ASPS
+296,,2014-02-20 10:59:19,2014-02-18,ASPS,Mueller-Ineichen Roland,Dir,P - Purchase,$120.15,3000,13837,+28%,"+$360,435",-6.0,-11.0,4.0,-21.0,ASPS
+297,D,2013-11-19 16:42:27,2013-11-15,ASPS,Shepro William B,CEO,M - OptEx,$9.19,6025,24883,+32%,"+$55,365",-1.0,0.0,5.0,-34.0,ASPS
+298,D,2013-11-19 16:42:27,2013-11-15,ASPS,Shepro William B,CEO,S - Sale+OE,$149.90,-6025,24883,-19%,"-$903,168",-1.0,0.0,5.0,-34.0,ASPS
+299,D,2013-11-19 16:42:26,2013-11-15,ASPS,Wilcox Kevin James,Chief Administration Officer,M - OptEx,$9.19,4798,732,-118%,"+$44,090",-1.0,0.0,5.0,-34.0,ASPS
+300,D,2013-11-19 16:42:26,2013-11-15,ASPS,Wilcox Kevin James,Chief Administration Officer,S - Sale+OE,$149.90,-4798,732,-87%,"-$719,237",-1.0,0.0,5.0,-34.0,ASPS
+301,,2013-11-14 19:36:21,2013-11-12,ASPS,Linn W Michael,Dir,P - Purchase,$145.74,715,18273,+4%,"+$104,204",4.0,3.0,10.0,-28.0,ASPS
+302,D,2013-10-31 19:08:19,2013-10-29,ASPS,Erbey William C,"Dir, 10%",F - Tax,$145.30,-9827,5936182,0%,"-$1,427,867",-2.0,-5.0,2.0,-36.0,ASPS
+303,D,2013-10-31 19:08:19,2013-10-29,ASPS,Erbey William C,"Dir, 10%",M - OptEx,$11.22,21227,5936182,0%,"+$238,164",-2.0,-5.0,2.0,-36.0,ASPS
+304,D,2013-10-31 19:08:19,2013-10-29,ASPS,Erbey William C,"Dir, 10%",S - Sale+OE,$145.30,-11400,5936182,0%,"-$1,656,425",-2.0,-5.0,2.0,-36.0,ASPS
+305,D,2013-10-30 16:46:26,2013-10-28,ASPS,Shepro William B,CEO,M - OptEx,$11.22,9962,24883,+67%,"+$111,808",5.0,3.0,2.0,-32.0,ASPS
+306,D,2013-10-30 16:46:26,2013-10-28,ASPS,Shepro William B,CEO,S - Sale+OE,$143.52,-9962,24883,-29%,"-$1,429,774",5.0,3.0,2.0,-32.0,ASPS
+307,D,2013-10-30 16:45:25,2013-10-28,ASPS,Wilcox Kevin James,Chief Administration Officer,M - OptEx,$11.22,3745,732,-124%,"+$42,033",5.0,3.0,2.0,-32.0,ASPS
+308,D,2013-10-30 16:45:25,2013-10-28,ASPS,Wilcox Kevin James,Chief Administration Officer,S - Sale+OE,$143.52,-3745,732,-84%,"-$537,493",5.0,3.0,2.0,-32.0,ASPS
+309,,2013-05-17 18:26:30,2013-05-15,ASPS,Vatto Timo,Dir,A - Grant,$0.00,839,9837,+9%,+$0,0.0,-3.0,4.0,52.0,ASPS
+310,,2013-05-17 18:26:25,2013-05-15,ASPS,Linn W Michael,Dir,A - Grant,$0.00,839,17558,+5%,+$0,0.0,-3.0,4.0,52.0,ASPS
+311,,2013-05-17 18:24:23,2013-05-15,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,839,10837,+8%,+$0,0.0,-3.0,4.0,52.0,ASPS
+312,,2013-05-17 18:23:21,2013-05-15,ASPS,Erbey William C,"Dir, 10%",A - Grant,$0.00,839,5936182,0%,+$0,0.0,-3.0,4.0,52.0,ASPS
+313,,2013-03-11 09:28:54,2013-03-08,ASPS,Mueller-Ineichen Roland,Dir,P - Purchase,$82.99,1000,9998,+11%,"+$82,988",-2.0,-5.0,-9.0,61.0,ASPS
+314,,2012-11-29 19:35:39,2012-11-27,ASPS,Linn W Michael,Dir,P - Purchase,$103.87,1000,16719,+6%,"+$103,870",0.0,-8.0,-20.0,-12.0,ASPS
+315,D,2012-11-27 12:28:51,2012-11-23,ASPS,Erbey William C,"Dir, 10%",M - OptEx,$2.90,28230,5935343,0%,"+$81,923",3.0,2.0,-17.0,-8.0,ASPS
+316,,2012-11-21 14:57:25,2012-11-19,ASPS,Erbey William C,"Dir, 10%",S - Sale,$104.59,-47983,5907113,-1%,"-$5,018,421",1.0,-1.0,-15.0,-11.0,ASPS
+317,,2012-11-21 14:57:25,2011-10-20,ASPS,Erbey William C,"Dir, 10%",W - Inherited,$0.00,18442,5907113,0%,$0,1.0,-1.0,-15.0,-11.0,ASPS
+318,,2012-08-17 18:05:56,2012-08-16,ASPS,Linn W Michael,Dir,P - Purchase,$87.95,1900,15719,+14%,"+$167,105",-1.0,-7.0,-1.0,-6.0,ASPS
+319,D,2012-08-10 14:13:54,2012-08-09,ASPS,Shepro William B,CEO,M - OptEx,$3.25,7697,24863,+45%,"+$25,024",0.0,7.0,4.0,0.0,ASPS
+320,D,2012-08-10 14:13:54,2012-08-09,ASPS,Shepro William B,CEO,S - Sale+OE,$83.85,-7697,24863,-24%,"-$645,393",0.0,7.0,4.0,0.0,ASPS
+321,A,2012-07-05 14:54:05,2012-05-16,ASPS,Linn W Michael,Dir,A - Grant,$0.00,1319,12319,+12%,+$0,-1.0,-3.0,3.0,15.0,ASPS
+322,A,2012-07-05 14:41:00,2012-05-16,ASPS,Erbey William C,"Dir, 10%",A - Grant,$0.00,1319,18860,+8%,+$0,-1.0,-3.0,3.0,15.0,ASPS
+323,A,2012-07-05 14:24:54,2012-05-16,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,1319,8998,+17%,+$0,-1.0,-3.0,3.0,15.0,ASPS
+324,A,2012-07-05 13:51:34,2012-05-16,ASPS,Vatto Timo,Dir,A - Grant,$0.00,1319,8998,+17%,+$0,-1.0,-3.0,3.0,15.0,ASPS
+325,,2012-05-18 18:33:34,2012-05-16,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,1325,9004,+17%,+$0,0.0,10.0,32.0,96.0,ASPS
+326,,2012-05-18 18:25:36,2012-05-16,ASPS,Linn W Michael,Dir,A - Grant,$0.00,1325,13825,+11%,+$0,0.0,10.0,32.0,96.0,ASPS
+327,,2012-05-18 17:28:04,2012-05-16,ASPS,Erbey William C,"Dir, 10%",A - Grant,$0.00,1325,5936660,0%,+$0,0.0,10.0,32.0,96.0,ASPS
+328,,2012-05-18 16:47:21,2012-05-16,ASPS,Vatto Timo,Dir,A - Grant,$0.00,1325,9004,+17%,+$0,0.0,10.0,32.0,96.0,ASPS
+329,,2012-05-18 16:23:03,2012-05-18,ASPS,Linn W Michael,Dir,P - Purchase,$54.16,500,12500,+4%,"+$27,079",0.0,10.0,32.0,96.0,ASPS
+330,,2012-05-17 16:27:09,2012-05-16,ASPS,Mueller-Ineichen Roland,Dir,P - Purchase,$56.45,1000,7679,+15%,"+$56,450",2.0,9.0,27.0,87.0,ASPS
+331,M,2012-05-17 16:18:49,2012-05-16,ASPS,Linn W Michael,Dir,P - Purchase,$55.27,3000,12000,+33%,"+$165,810",2.0,9.0,27.0,87.0,ASPS
+332,,2012-05-09 09:47:12,2012-05-07,ASPS,Linn W Michael,Dir,P - Purchase,$56.53,500,9000,+6%,"+$28,265",0.0,5.0,17.0,106.0,ASPS
+333,M,2012-03-19 20:08:07,2012-03-13,ASPS,Linn W Michael,Dir,P - Purchase,$63.43,2500,8500,+42%,"+$158,585",0.0,-1.0,-10.0,41.0,ASPS
+334,,2012-03-19 12:38:11,2012-03-15,ASPS,Vatto Timo,Dir,P - Purchase,$64.39,2000,7679,+35%,"+$128,780",2.0,1.0,-7.0,43.0,ASPS
+335,M,2012-03-16 20:06:31,2012-03-14,ASPS,Erbey William C,"Dir, 10%",S - Sale,$64.06,-8701,5935335,0%,"-$557,413",2.0,1.0,-8.0,45.0,ASPS
+336,,2012-03-14 10:31:54,2012-03-12,ASPS,Erbey William C,"Dir, 10%",S - Sale,$64.00,-2300,5944036,0%,"-$147,200",0.0,1.0,-8.0,38.0,ASPS
+337,,2012-03-09 09:27:19,2012-03-07,ASPS,Erbey William C,"Dir, 10%",S - Sale,$64.09,-21208,5946336,0%,"-$1,359,221",3.0,4.0,-3.0,43.0,ASPS
+338,D,2012-03-07 14:34:37,2012-03-06,ASPS,Wilcox Kevin James,"CAO, GC",M - OptEx,$2.90,4415,732,-120%,"+$12,812",0.0,0.0,-5.0,35.0,ASPS
+339,D,2012-03-07 14:34:37,2012-03-06,ASPS,Wilcox Kevin James,"CAO, GC",S - Sale+OE,$63.90,-4415,732,-86%,"-$282,119",0.0,0.0,-5.0,35.0,ASPS
+340,M,2012-03-07 14:16:15,2012-03-05,ASPS,Erbey William C,"Dir, 10%",S - Sale,$64.02,-9962,5967544,0%,"-$637,749",0.0,0.0,-5.0,35.0,ASPS
+341,D,2012-01-05 08:55:31,2012-01-03,ASPS,Erbey William C,"Dir, 10%",M - OptEx,$7.49,47159,5977506,+1%,"+$353,033",4.0,1.0,9.0,54.0,ASPS
+342,D,2011-11-02 17:10:02,2011-10-31,ASPS,Wilcox Kevin James,"CAO, GC",M - OptEx,$7.49,5361,732,-116%,"+$40,132",2.0,0.0,12.0,41.0,ASPS
+343,D,2011-11-02 17:10:02,2011-11-02,ASPS,Wilcox Kevin James,"CAO, GC",S - Sale+OE,$40.14,-5361,732,-88%,"-$215,191",2.0,0.0,12.0,41.0,ASPS
+344,D,2011-11-02 16:59:26,2011-10-31,ASPS,Shepro William B,CEO,M - OptEx,$7.74,11443,24863,+85%,"+$88,542",2.0,0.0,12.0,41.0,ASPS
+345,D,2011-11-02 16:59:26,2011-11-02,ASPS,Shepro William B,CEO,S - Sale+OE,$40.52,-11443,24863,-32%,"-$463,670",2.0,0.0,12.0,41.0,ASPS
+346,,2011-11-02 12:55:04,2011-11-01,ASPS,Linn W Michael,Dir,P - Purchase,$40.44,2000,6000,+50%,"+$80,876",6.0,6.0,18.0,47.0,ASPS
+347,,2011-08-03 14:42:24,2011-08-01,ASPS,Linn W Michael,Dir,P - Purchase,$34.17,2500,4000,+167%,"+$85,436",1.0,-6.0,1.0,56.0,ASPS
+348,,2011-05-20 14:32:18,2011-05-18,ASPS,Erbey William C,"Dir, 10%",A - Grant,$0.00,1840,5931171,0%,+$0,5.0,2.0,4.0,32.0,ASPS
+349,,2011-05-20 14:32:17,2011-05-18,ASPS,Andresen-Kienz Silke,Dir,A - Grant,$0.00,1340,1340,New,+$0,5.0,2.0,4.0,32.0,ASPS
+350,,2011-05-20 14:31:12,2011-05-18,ASPS,Linn W Michael,Dir,A - Grant,$0.00,500,1500,+50%,+$0,5.0,2.0,4.0,32.0,ASPS
+351,,2011-05-20 14:31:07,2011-05-18,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,1840,6679,+38%,+$0,5.0,2.0,4.0,32.0,ASPS
+352,,2011-05-20 14:30:02,2011-05-18,ASPS,Vatto Timo,Dir,A - Grant,$0.00,1840,5679,+48%,+$0,5.0,2.0,4.0,32.0,ASPS
+353,D,2011-03-15 19:55:41,2011-03-11,ASPS,Shepro William B,CEO,F - Tax,$14.97,-6662,56406,-11%,"-$99,730",0.0,1.0,2.0,18.0,ASPS
+354,D,2011-03-15 19:55:41,2011-03-11,ASPS,Shepro William B,CEO,M - OptEx,$14.97,13334,56406,+31%,"+$199,610",0.0,1.0,2.0,18.0,ASPS
+355,D,2011-03-15 19:55:41,2011-03-11,ASPS,Shepro William B,CEO,S - Sale+OE,$29.97,-6680,56406,-11%,"-$200,172",0.0,1.0,2.0,18.0,ASPS
+356,D,2011-03-15 19:37:19,2011-03-11,ASPS,Wilcox Kevin James,"CAO, GC",M - OptEx,$14.97,13334,732,-106%,"+$199,610",0.0,1.0,2.0,18.0,ASPS
+357,D,2011-03-15 19:37:19,2011-03-14,ASPS,Wilcox Kevin James,"CAO, GC",S - Sale+OE,$29.99,-13334,732,-95%,"-$399,859",0.0,1.0,2.0,18.0,ASPS
+358,M,2010-11-22 18:12:30,2010-11-19,ASPS,Erbey William C,"Dir, 10%",S - Sale,$27.02,-33922,5929331,-1%,"-$916,687",-2.0,-2.0,5.0,30.0,ASPS
+359,,2010-11-22 17:48:21,2010-11-19,ASPS,Wilcox Kevin James,"CAO, GC",S - Sale,$26.82,-788,732,-52%,"-$21,134",-2.0,-2.0,5.0,30.0,ASPS
+360,,2010-11-22 17:47:19,2010-11-19,ASPS,Shepro William B,CEO,S - Sale,$26.92,-3276,24871,-12%,"-$88,191",-2.0,-2.0,5.0,30.0,ASPS
+361,D,2010-11-18 14:56:02,2010-11-17,ASPS,Wilcox Kevin James,"CAO, GC",M - OptEx,$8.83,788,1520,+108%,"+$6,958",0.0,0.0,7.0,28.0,ASPS
+362,D,2010-11-18 14:54:58,2010-11-17,ASPS,Shepro William B,CEO,M - OptEx,$8.83,3276,28147,+13%,"+$28,927",0.0,0.0,7.0,28.0,ASPS
+363,,2010-11-18 14:21:27,2010-11-17,ASPS,Erbey William C,"Dir, 10%",S - Sale,$27.11,-4200,5963253,0%,"-$113,861",0.0,0.0,7.0,28.0,ASPS
+364,,2010-11-16 10:32:39,2010-11-12,ASPS,Erbey William C,"Dir, 10%",S - Sale,$27.06,-27724,5967453,0%,"-$750,156",0.0,2.0,8.0,27.0,ASPS
+365,D,2010-11-12 13:45:14,2010-11-11,ASPS,Erbey William C,"Dir, 10%",M - OptEx,$5.67,65846,5995177,+1%,"+$373,346",-3.0,-3.0,5.0,24.0,ASPS
+366,,2010-09-14 18:04:50,2010-09-07,ASPS,Erbey William C,"Dir, 10%",W - Inherited,$0.00,13862,15701,-47%,$0,1.0,3.0,-6.0,12.0,ASPS
+367,,2010-08-19 12:31:22,2010-08-18,ASPS,Vatto Timo,Dir,P - Purchase,$27.56,2000,3839,+109%,"+$55,120",1.0,-1.0,-1.0,9.0,ASPS
+368,,2010-07-16 13:05:26,2010-07-14,ASPS,Vatto Timo,Dir,A - Grant,$0.00,1839,1839,New,+$0,-2.0,2.0,3.0,12.0,ASPS
+369,,2010-07-16 13:04:01,2010-07-14,ASPS,Mueller-Ineichen Roland,Dir,A - Grant,$0.00,1839,4839,+61%,+$0,-2.0,2.0,3.0,12.0,ASPS
+370,,2010-07-16 13:03:24,2010-07-14,ASPS,Erbey William C,Dir,A - Grant,$0.00,1839,5915469,0%,+$0,-2.0,2.0,3.0,12.0,ASPS
+371,,2010-07-16 13:02:43,2010-07-14,ASPS,Denormandie Robert L.,Dir,A - Grant,$0.00,1839,1839,New,+$0,-2.0,2.0,3.0,12.0,ASPS
+372,DM,2010-04-08 17:29:13,2010-04-05,ASPS,Sivasubramanian Shekar,Pres of Mortgage Services,M - OptEx,$9.01,22709,0,-100%,"+$204,511",1.0,0.0,-13.0,7.0,ASPS
+373,DM,2010-04-08 17:29:13,2010-04-05,ASPS,Sivasubramanian Shekar,Pres of Mortgage Services,S - Sale+OE,$22.42,-22709,0,-100%,"-$509,193",1.0,0.0,-13.0,7.0,ASPS
+374,M,2010-03-22 15:48:12,2010-03-18,ASPS,Erbey William C,"Dir, 10%",M - OptEx,$25.07,11517,5912738,0%,"+$288,714",2.0,-4.0,3.0,11.0,ASPS
+375,,2010-03-19 17:30:38,2010-03-18,ASPS,Mueller-Ineichen Roland,Dir,P - Purchase,$25.53,3000,3000,New,"+$76,590",2.0,-6.0,3.0,9.0,ASPS
+376,AD,2010-03-10 17:51:34,2010-03-04,ASPS,Erbey William C,"Chairman, 10%",M - OptEx,$7.46,11517,5924255,0%,"+$85,883",-2.0,-7.0,-5.0,-2.0,ASPS

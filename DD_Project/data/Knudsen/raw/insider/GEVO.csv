@@ -1,8 +1,1087 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-03-28 19:17:00,2022-03-24,GEVO,Mize Gary W.,Dir,P - Purchase,$4.48,35339,152129,+30%,"+$158,319",,,,,GEVO
-1,,2022-03-28 19:17:00,2022-03-24,GEVO,Mize Gary W.,Dir,S - Sale,$4.47,-101343,152129,-40%,"-$453,469",,,,,GEVO
-2,,2022-03-28 19:14:56,2022-03-24,GEVO,Baum William H,Dir,S - Sale,$4.40,-90000,128089,-41%,"-$396,234",,,,,GEVO
-3,,2021-09-10 19:05:11,2021-09-09,GEVO,Williams Geoffrey Thomas Jr.,"VP-GC, Secretary",S - Sale,$8.02,-51316,370135,-12%,"-$411,339",,,,,GEVO
-4,,2019-06-07 17:20:34,2019-06-06,GEVO,Cesarek Timothy J,Chief Commercial Officer,P - Purchase,$1.91,25000,30000,+500%,"+$47,750",,,,,GEVO
-5,M,2018-08-20 16:43:10,2018-08-16,GEVO,Roth Johannes Minho,Dir,P - Purchase,$3.07,137170,148194,>999%,"+$421,794",,,,,GEVO
-6,,2018-08-16 16:07:31,2018-08-16,GEVO,Gruber Patrick R.,CEO,P - Purchase,$2.93,10000,110177,+10%,"+$29,293",,,,,GEVO
+0,,2021-12-17 17:34:59,2021-12-16,GEVO,Smull L Lynn,CFO,F - Tax,$4.84,-14900,818056,-2%,"-$72,116",,,,,GEVO
+1,,2021-09-10 19:05:11,2021-09-09,GEVO,Williams Geoffrey Thomas Jr.,"VP-GC, Secretary",S - Sale,$8.02,-51316,370135,-12%,"-$411,339",,,,,GEVO
+2,D,2021-08-24 18:57:35,2021-08-20,GEVO,Guillen Jaime,Dir,A - Grant,$0.00,65886,65886,New,+$0,,,,,GEVO
+3,D,2021-08-24 18:56:32,2021-08-20,GEVO,Baum William H,Dir,A - Grant,$0.00,65886,218089,+43%,+$0,,,,,GEVO
+4,D,2021-08-24 18:54:52,2021-08-20,GEVO,Mize Gary W.,Dir,A - Grant,$0.00,65886,218133,+43%,+$0,,,,,GEVO
+5,D,2021-08-24 18:47:55,2021-08-20,GEVO,Marsh Andrew,Dir,A - Grant,$0.00,65886,218113,+43%,+$0,,,,,GEVO
+6,D,2021-08-24 18:46:47,2021-08-20,GEVO,Dreessen Ruth,Dir,A - Grant,$0.00,65886,218179,+43%,+$0,,,,,GEVO
+7,D,2021-08-24 18:45:05,2021-08-20,GEVO,Williams Geoffrey Thomas Jr.,"VP-GC, Secretary",A - Grant,$0.00,112500,421451,+36%,+$0,,,,,GEVO
+8,D,2021-08-24 18:43:23,2021-08-20,GEVO,Smull L Lynn,CFO,A - Grant,$0.00,392175,832956,+89%,+$0,,,,,GEVO
+9,D,2021-08-24 18:42:18,2021-08-20,GEVO,Ryan Christopher Michael,"Pres, COO",A - Grant,$0.00,522900,1011499,+107%,+$0,,,,,GEVO
+10,D,2021-08-24 18:41:04,2021-08-20,GEVO,Romero Carolyn,Chief Accounting Officer,A - Grant,$0.00,50000,325168,+18%,+$0,,,,,GEVO
+11,D,2021-08-24 18:39:57,2021-08-20,GEVO,Cesarek Timothy J,Chief Commercial Officer,A - Grant,$0.00,392175,871703,+82%,+$0,,,,,GEVO
+12,D,2021-08-24 18:38:47,2021-08-20,GEVO,Bowron Kimberly T,CHRO,A - Grant,$0.00,112500,139249,+421%,+$0,,,,,GEVO
+13,D,2021-08-24 18:36:24,2021-08-20,GEVO,Bloom Paul D,"CCO, CIO",A - Grant,$0.00,392175,431862,+988%,+$0,,,,,GEVO
+14,D,2021-08-24 18:33:57,2021-08-20,GEVO,Gruber Patrick R.,CEO,A - Grant,$0.00,1045800,2267917,+86%,+$0,,,,,GEVO
+15,,2021-07-08 19:12:37,2021-07-06,GEVO,Williams Geoffrey Thomas Jr.,"VP-GC, Secretary",F - Tax,$6.85,-48932,308951,-14%,"-$335,184",,,,,GEVO
+16,,2021-07-08 19:10:36,2021-07-06,GEVO,Romero Carolyn,Chief Accounting Officer,F - Tax,$6.85,-52221,275168,-16%,"-$357,714",,,,,GEVO
+17,,2021-07-08 19:09:14,2021-07-06,GEVO,Smull L Lynn,CFO,F - Tax,$6.85,-77315,440781,-15%,"-$529,608",,,,,GEVO
+18,,2021-07-08 19:07:40,2021-07-06,GEVO,Cesarek Timothy J,Chief Commercial Officer,F - Tax,$6.85,-132249,479528,-22%,"-$905,906",,,,,GEVO
+19,,2021-07-08 19:06:08,2021-07-06,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$6.85,-97695,488599,-17%,"-$669,211",,,,,GEVO
+20,,2021-07-08 19:04:11,2021-07-06,GEVO,Gruber Patrick R.,CEO,F - Tax,$6.85,-276706,1222117,-18%,"-$1,895,436",,,,,GEVO
+21,,2021-06-25 19:11:16,2021-06-24,GEVO,Romero Carolyn,Chief Accounting Officer,F - Tax,$8.02,-4477,327389,-1%,"-$35,906",,,,,GEVO
+22,,2021-06-25 19:09:14,2021-06-24,GEVO,Williams Geoffrey Thomas Jr.,"VP-GC, Secretary",F - Tax,$8.02,-18987,357883,-5%,"-$152,276",,,,,GEVO
+23,,2021-06-25 19:06:27,2021-06-24,GEVO,Cesarek Timothy J,Chief Commercial Officer,F - Tax,$8.02,-26428,611777,-4%,"-$211,953",,,,,GEVO
+24,,2021-06-25 19:02:14,2021-06-24,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$8.02,-36056,586294,-6%,"-$289,169",,,,,GEVO
+25,,2021-06-25 18:58:46,2021-06-24,GEVO,Gruber Patrick R.,CEO,F - Tax,$8.02,-108152,1498823,-7%,"-$867,379",,,,,GEVO
+26,,2021-04-08 20:07:36,2021-04-07,GEVO,Bloom Paul D,"CTO, CIO",A - Grant,$0.00,42204,39687,-1677%,+$0,,,,,GEVO
+27,,2021-04-08 20:07:36,2021-04-07,GEVO,Bloom Paul D,"CTO, CIO",F - Tax,$8.53,-3517,39687,-8%,"-$30,000",,,,,GEVO
+28,,2020-12-17 18:49:21,2020-12-16,GEVO,Smull L Lynn,CFO,F - Tax,$2.17,-9834,518096,-2%,"-$21,340",,,,,GEVO
+29,,2020-08-03 17:03:39,2020-08-01,GEVO,Smull L Lynn,CFO,F - Tax,$0.55,-3125,527930,-1%,"-$1,719",,,,,GEVO
+30,,2020-08-03 17:03:24,2020-08-01,GEVO,Ryan Christopher Michael,"Pres, COO, CTO",F - Tax,$0.55,-4652,622350,-1%,"-$2,559",,,,,GEVO
+31,,2020-08-03 17:02:39,2020-08-01,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.55,-6944,1606975,0%,"-$3,819",,,,,GEVO
+32,,2020-08-03 17:02:24,2020-08-01,GEVO,Cesarek Timothy J,Chief Commercial Officer,F - Tax,$0.55,-3385,638205,-1%,"-$1,862",,,,,GEVO
+33,,2020-08-03 17:01:35,2020-08-01,GEVO,Romero Carolyn,"VP - Controller, PAO",F - Tax,$0.55,-2291,331866,-1%,"-$1,260",,,,,GEVO
+34,,2020-08-03 17:00:36,2020-08-01,GEVO,Williams Geoffrey Thomas Jr.,"GC, Secretary",F - Tax,$0.55,-3385,376870,-1%,"-$1,862",,,,,GEVO
+35,,2020-07-08 19:19:03,2020-07-06,GEVO,Gruber Patrick R.,CEO,A - Grant,$0.00,1152939,1613919,+250%,+$0,,,,,GEVO
+36,,2020-07-08 19:18:53,2020-07-06,GEVO,Smull L Lynn,CFO,A - Grant,$0.00,406919,531055,+328%,+$0,,,,,GEVO
+37,,2020-07-08 19:18:42,2020-07-06,GEVO,Cesarek Timothy J,Chief Commercial Officer,A - Grant,$0.00,440829,641590,+220%,+$0,,,,,GEVO
+38,,2020-07-08 19:18:29,2020-07-06,GEVO,Ryan Christopher Michael,"Pres, COO, CTO",A - Grant,$0.00,454393,627002,+263%,+$0,,,,,GEVO
+39,,2020-07-08 19:18:07,2020-07-06,GEVO,Romero Carolyn,"VP - Controller, PAO",A - Grant,$0.00,298407,334157,+835%,+$0,,,,,GEVO
+40,,2020-07-08 19:17:46,2020-07-06,GEVO,Williams Geoffrey Thomas Jr.,"GC, Secretary",A - Grant,$0.00,264497,380255,+228%,+$0,,,,,GEVO
+41,,2020-07-08 19:17:10,2020-07-06,GEVO,Dreessen Ruth,Dir,A - Grant,$0.00,101729,152293,+201%,+$0,,,,,GEVO
+42,,2020-07-08 19:16:45,2020-07-06,GEVO,Mize Gary W.,Dir,A - Grant,$0.00,101729,152247,+201%,+$0,,,,,GEVO
+43,,2020-07-08 19:16:25,2020-07-06,GEVO,Marsh Andrew,Dir,A - Grant,$0.00,101729,152227,+201%,+$0,,,,,GEVO
+44,,2020-07-08 19:16:01,2020-07-06,GEVO,Baum William H,Dir,A - Grant,$0.00,101729,152203,+202%,+$0,,,,,GEVO
+45,,2020-07-08 19:15:37,2020-07-06,GEVO,Roth Johannes Minho,Dir,A - Grant,$0.00,101729,289397,+54%,+$0,,,,,GEVO
+46,,2020-07-02 19:46:25,2020-07-01,GEVO,Cesarek Timothy J,Chief Commercial Officer,A - Grant,$0.00,11284,200761,+6%,+$0,,,,,GEVO
+47,,2020-07-02 19:45:36,2020-07-01,GEVO,Smull L Lynn,CFO,A - Grant,$0.00,10416,124136,+9%,+$0,,,,,GEVO
+48,,2020-07-02 19:44:46,2020-07-01,GEVO,Romero Carolyn,"VP - Controller, PAO",A - Grant,$0.00,7638,35750,+27%,+$0,,,,,GEVO
+49,,2020-07-02 19:44:10,2020-07-01,GEVO,Gruber Patrick R.,CEO,A - Grant,$0.00,17361,460980,+4%,+$0,,,,,GEVO
+50,,2020-07-02 19:43:24,2020-07-01,GEVO,Ryan Christopher Michael,"Pres, COO, CTO",A - Grant,$0.00,11631,172609,+7%,+$0,,,,,GEVO
+51,,2020-07-02 19:42:41,2020-07-01,GEVO,Williams Geoffrey Thomas Jr.,"GC, Secretary",A - Grant,$0.00,6770,115758,+6%,+$0,,,,,GEVO
+52,,2020-06-29 18:42:16,2020-06-24,GEVO,Gruber Patrick R.,CEO,F - Tax,$1.08,-89474,443619,-17%,"-$96,632",,,,,GEVO
+53,,2020-06-29 18:41:48,2020-06-24,GEVO,Cesarek Timothy J,Chief Commercial Officer,F - Tax,$1.08,-25658,189477,-12%,"-$27,711",,,,,GEVO
+54,,2020-06-29 18:41:15,2020-06-24,GEVO,Ryan Christopher Michael,"Pres, COO, CTO",F - Tax,$1.08,-35263,160978,-18%,"-$38,084",,,,,GEVO
+55,,2020-06-29 18:40:43,2020-06-24,GEVO,Williams Geoffrey Thomas Jr.,"GC, Secretary",F - Tax,$1.08,-25658,108988,-19%,"-$27,711",,,,,GEVO
+56,,2020-06-29 10:27:37,2020-06-24,GEVO,Romero Carolyn,"VP - Controller, PAO",F - Tax,$1.08,-5756,28112,-17%,"-$6,216",,,,,GEVO
+57,,2020-05-18 18:15:32,2020-05-15,GEVO,Ryan Christopher Michael,"Pres, COO, CTO",F - Tax,$1.04,-9178,196241,-4%,"-$9,545",,,,,GEVO
+58,,2020-05-18 18:14:55,2020-05-15,GEVO,Gruber Patrick R.,CEO,F - Tax,$1.04,-13698,533093,-3%,"-$14,246",,,,,GEVO
+59,,2020-05-18 18:14:18,2020-05-15,GEVO,Cesarek Timothy J,Chief Commercial Officer,F - Tax,$1.04,-6678,215135,-3%,"-$6,945",,,,,GEVO
+60,,2020-05-18 18:13:46,2020-05-15,GEVO,Smull L Lynn,CFO,F - Tax,$1.04,-6164,113720,-5%,"-$6,411",,,,,GEVO
+61,,2020-05-18 18:12:28,2020-05-15,GEVO,Romero Carolyn,"VP - Controller, PAO",F - Tax,$1.04,-6781,33868,-17%,"-$7,052",,,,,GEVO
+62,,2020-05-18 18:11:14,2020-05-15,GEVO,Williams Geoffrey Thomas Jr.,"GC, Secretary",F - Tax,$1.04,-5342,134646,-4%,"-$5,556",,,,,GEVO
+63,,2020-04-02 08:49:01,2020-04-01,GEVO,Gruber Patrick R.,CEO,A - Grant,$0.00,34246,546791,+7%,+$0,,,,,GEVO
+64,,2020-04-02 08:48:24,2020-04-01,GEVO,Romero Carolyn,"VP - Controller, PAO",A - Grant,$0.00,15068,40649,+59%,+$0,,,,,GEVO
+65,,2020-04-02 08:47:27,2020-04-01,GEVO,Ryan Christopher Michael,"Pres, COO, CTO",A - Grant,$0.00,22945,205419,+13%,+$0,,,,,GEVO
+66,,2020-04-02 08:46:47,2020-04-01,GEVO,Williams Geoffrey Thomas Jr.,"GC, Secretary",A - Grant,$0.00,13356,139988,+11%,+$0,,,,,GEVO
+67,,2020-04-02 08:45:50,2020-04-01,GEVO,Cesarek Timothy J,Chief Commercial Officer,A - Grant,$0.00,22260,221813,+11%,+$0,,,,,GEVO
+68,,2020-04-02 08:44:46,2020-04-01,GEVO,Smull L Lynn,CFO,A - Grant,$0.00,20547,119884,+21%,+$0,,,,,GEVO
+69,,2020-02-28 16:26:26,2020-02-27,GEVO,Smull L Lynn,CFO,A - Grant,$0.00,99337,99337,New,+$0,,,,,GEVO
+70,,2019-08-20 16:55:53,2019-08-19,GEVO,Romero Carolyn,"VP - Controller, PAO",A - Grant,$0.00,25581,25581,New,+$0,,,,,GEVO
+71,,2019-08-13 17:32:42,2019-08-09,GEVO,Williams Geoffrey Thomas Jr.,"GC, Secretary",F - Tax,$2.46,-16000,126632,-11%,"-$39,360",,,,,GEVO
+72,,2019-08-13 17:31:03,2019-08-09,GEVO,Cesarek Timothy J,Chief Commercial Officer,F - Tax,$2.46,-1500,199553,-1%,"-$3,690",,,,,GEVO
+73,,2019-08-13 17:25:08,2019-08-09,GEVO,Gruber Patrick R.,CEO,F - Tax,$2.46,-45000,512545,-8%,"-$110,700",,,,,GEVO
+74,,2019-08-13 17:22:27,2019-08-09,GEVO,Ryan Christopher Michael,"Pres, COO, CTO",F - Tax,$2.46,-4000,182474,-2%,"-$9,840",,,,,GEVO
+75,,2019-06-26 17:41:37,2019-06-24,GEVO,Marsh Andrew,Dir,A - Grant,$0.00,39474,50498,+358%,+$0,,,,,GEVO
+76,,2019-06-26 16:41:16,2019-06-24,GEVO,Mize Gary W.,Dir,A - Grant,$0.00,39474,50518,+357%,+$0,,,,,GEVO
+77,,2019-06-26 16:38:38,2019-06-24,GEVO,Roth Johannes Minho,Dir,A - Grant,$0.00,39474,187668,+27%,+$0,,,,,GEVO
+78,,2019-06-26 16:35:45,2019-06-24,GEVO,Dreessen Ruth,Dir,A - Grant,$0.00,39474,50564,+356%,+$0,,,,,GEVO
+79,,2019-06-26 16:24:51,2019-06-24,GEVO,Baum William H,Dir,A - Grant,$0.00,39474,50474,+359%,+$0,,,,,GEVO
+80,,2019-06-26 16:22:29,2019-06-24,GEVO,Williams Geoffrey Thomas Jr.,"GC, Secretary",A - Grant,$0.00,102632,142632,+257%,+$0,,,,,GEVO
+81,,2019-06-26 16:19:19,2019-06-24,GEVO,Cesarek Timothy J,Chief Commercial Officer,A - Grant,$0.00,171053,201053,+570%,+$0,,,,,GEVO
+82,,2019-06-26 16:17:29,2019-06-24,GEVO,Ryan Christopher Michael,"Pres, COO, CTO",A - Grant,$0.00,176316,186474,>999%,+$0,,,,,GEVO
+83,,2019-06-26 16:16:09,2019-06-24,GEVO,Gruber Patrick R.,CEO,A - Grant,$0.00,447368,557545,+406%,+$0,,,,,GEVO
+84,,2019-06-07 17:20:34,2019-06-06,GEVO,Cesarek Timothy J,Chief Commercial Officer,P - Purchase,$1.91,25000,30000,+500%,"+$47,750",,,,,GEVO
+85,M,2018-08-20 16:43:10,2018-08-16,GEVO,Roth Johannes Minho,Dir,P - Purchase,$3.07,137170,148194,>999%,"+$421,794",,,,,GEVO
+86,,2018-08-16 16:07:31,2018-08-16,GEVO,Gruber Patrick R.,CEO,P - Purchase,$2.93,10000,110177,+10%,"+$29,293",,,,,GEVO
+87,,2018-08-13 16:26:22,2018-08-09,GEVO,Williams Geoffrey Thomas Jr.,"GC, Secretary",A - Grant,$0.00,40000,40000,New,+$0,,,,,GEVO
+88,,2018-08-13 16:24:00,2018-08-09,GEVO,Towne Bradford K,Chief Accounting Officer,A - Grant,$0.00,30000,30000,New,+$0,,,,,GEVO
+89,D,2018-08-13 16:21:54,2018-08-09,GEVO,Ryan Christopher Michael,"Pres, COO",A - Grant,$0.00,10000,10158,>999%,+$0,,,,,GEVO
+90,,2018-08-13 16:18:56,2018-08-09,GEVO,Roth Johannes Minho,Dir,A - Grant,$0.00,11000,11024,>999%,+$0,,,,,GEVO
+91,,2018-08-13 16:17:14,2018-08-09,GEVO,Mize Gary W.,Dir,A - Grant,$0.00,11000,11044,>999%,+$0,,,,,GEVO
+92,,2018-08-13 16:15:31,2018-08-09,GEVO,Marsh Andrew,Dir,A - Grant,$0.00,11000,11024,>999%,+$0,,,,,GEVO
+93,,2018-08-13 16:13:35,2018-08-09,GEVO,Gruber Patrick R.,CEO,A - Grant,$0.00,100000,100177,>999%,+$0,,,,,GEVO
+94,,2018-08-13 16:11:39,2018-08-09,GEVO,Dreessen Ruth,Dir,A - Grant,$0.00,11000,11090,>999%,+$0,,,,,GEVO
+95,,2018-08-13 16:09:45,2018-08-09,GEVO,Baum William H,Dir,A - Grant,$0.00,11000,11000,New,+$0,,,,,GEVO
+96,D,2018-08-01 16:58:16,2018-07-30,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,1,44,+2%,+$0,,,,,GEVO
+97,D,2018-08-01 16:57:30,2018-07-30,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$3.68,-1,158,-1%,-$4,,,,,GEVO
+98,D,2018-08-01 16:57:30,2018-07-30,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,4,158,+3%,+$0,,,,,GEVO
+99,D,2018-08-01 16:56:33,2018-07-30,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,1,24,+4%,+$0,,,,,GEVO
+100,D,2018-08-01 16:55:05,2018-07-30,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,1,24,+4%,+$0,,,,,GEVO
+101,D,2018-08-01 16:46:39,2018-07-30,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,1,90,+1%,+$0,,,,,GEVO
+102,D,2018-08-01 16:42:57,2018-07-30,GEVO,Gruber Patrick R.,CEO,F - Tax,$3.68,-1,177,-1%,-$4,,,,,GEVO
+103,D,2018-08-01 16:42:57,2018-07-30,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,5,177,+3%,+$0,,,,,GEVO
+104,D,2018-07-03 14:37:26,2018-06-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$3.80,-1,155,-1%,-$4,,,,,GEVO
+105,D,2018-07-03 14:37:26,2018-06-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,4,155,+3%,+$0,,,,,GEVO
+106,D,2018-07-03 14:36:47,2018-06-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$3.80,-1,173,-1%,-$4,,,,,GEVO
+107,D,2018-07-03 14:36:47,2018-06-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,5,173,+3%,+$0,,,,,GEVO
+108,D,2018-07-03 14:36:15,2018-06-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,1,89,+1%,+$0,,,,,GEVO
+109,D,2018-07-03 14:35:43,2018-06-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,1,43,+2%,+$0,,,,,GEVO
+110,D,2018-07-03 14:35:03,2018-06-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,1,23,+5%,+$0,,,,,GEVO
+111,D,2018-07-03 14:34:25,2018-06-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,1,23,+5%,+$0,,,,,GEVO
+112,D,2018-05-31 21:24:45,2018-05-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.24,-22,3031,-1%,-$5,,,,,GEVO
+113,D,2018-05-31 21:24:45,2018-05-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,3031,+3%,+$0,,,,,GEVO
+114,D,2018-05-31 21:22:31,2018-05-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.24,-5,428,-1%,-$1,,,,,GEVO
+115,D,2018-05-31 21:22:31,2018-05-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,428,+4%,+$0,,,,,GEVO
+116,D,2018-05-31 21:21:44,2018-05-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.24,-5,428,-1%,-$1,,,,,GEVO
+117,D,2018-05-31 21:21:44,2018-05-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,428,+4%,+$0,,,,,GEVO
+118,D,2018-05-31 21:21:04,2018-05-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.24,-5,832,-1%,-$1,,,,,GEVO
+119,D,2018-05-31 21:21:04,2018-05-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,832,+2%,+$0,,,,,GEVO
+120,D,2018-05-31 21:20:14,2018-05-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.24,-25,3377,-1%,-$6,,,,,GEVO
+121,D,2018-05-31 21:20:14,2018-05-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,3377,+3%,+$0,,,,,GEVO
+122,D,2018-05-31 21:15:57,2018-05-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.24,-5,1749,0%,-$1,,,,,GEVO
+123,D,2018-05-31 21:15:57,2018-05-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1749,+1%,+$0,,,,,GEVO
+124,D,2018-05-01 15:24:03,2018-04-30,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.36,-27,2973,-1%,-$10,,,,,GEVO
+125,D,2018-05-01 15:24:03,2018-04-30,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2973,+3%,+$0,,,,,GEVO
+126,D,2018-05-01 15:23:09,2018-04-30,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.36,-5,415,-1%,-$2,,,,,GEVO
+127,D,2018-05-01 15:23:09,2018-04-30,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,415,+5%,+$0,,,,,GEVO
+128,D,2018-05-01 15:22:27,2018-04-30,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.36,-31,3311,-1%,-$11,,,,,GEVO
+129,D,2018-05-01 15:22:27,2018-04-30,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,3311,+3%,+$0,,,,,GEVO
+130,D,2018-05-01 15:21:09,2018-04-30,GEVO,Dreessen Ruth,Dir,F - Tax,$0.36,-5,1736,0%,-$2,,,,,GEVO
+131,D,2018-05-01 15:21:09,2018-04-30,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1736,+1%,+$0,,,,,GEVO
+132,D,2018-05-01 15:20:12,2018-04-30,GEVO,Mize Gary W.,Dir,F - Tax,$0.36,-5,819,-1%,-$2,,,,,GEVO
+133,D,2018-05-01 15:20:12,2018-04-30,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,819,+2%,+$0,,,,,GEVO
+134,D,2018-05-01 15:19:27,2018-04-30,GEVO,Marsh Andrew,Dir,F - Tax,$0.36,-5,415,-1%,-$2,,,,,GEVO
+135,D,2018-05-01 15:19:27,2018-04-30,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,415,+5%,+$0,,,,,GEVO
+136,D,2018-04-03 14:04:07,2018-03-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.46,-5,806,-1%,-$2,,,,,GEVO
+137,D,2018-04-03 14:04:07,2018-03-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,806,+2%,+$0,,,,,GEVO
+138,D,2018-04-03 14:03:00,2018-03-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.46,-5,1723,0%,-$2,,,,,GEVO
+139,D,2018-04-03 14:03:00,2018-03-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1723,+1%,+$0,,,,,GEVO
+140,D,2018-04-03 14:02:05,2018-03-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.46,-27,2920,-1%,-$12,,,,,GEVO
+141,D,2018-04-03 14:02:05,2018-03-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2920,+3%,+$0,,,,,GEVO
+142,D,2018-04-03 14:01:03,2018-03-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.46,-31,3251,-1%,-$14,,,,,GEVO
+143,D,2018-04-03 14:01:03,2018-03-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,3251,+3%,+$0,,,,,GEVO
+144,D,2018-04-03 14:00:16,2018-03-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.46,-5,402,-1%,-$2,,,,,GEVO
+145,D,2018-04-03 14:00:16,2018-03-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,402,+5%,+$0,,,,,GEVO
+146,D,2018-04-03 13:59:42,2018-03-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.46,-5,402,-1%,-$2,,,,,GEVO
+147,D,2018-04-03 13:59:42,2018-03-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,402,+5%,+$0,,,,,GEVO
+148,D,2018-03-01 18:17:01,2018-02-28,GEVO,Dreessen Ruth,Dir,F - Tax,$0.45,-5,1710,0%,-$2,,,,,GEVO
+149,D,2018-03-01 18:17:01,2018-02-28,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1710,+1%,+$0,,,,,GEVO
+150,D,2018-03-01 18:16:15,2018-02-28,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.45,-27,2867,-1%,-$12,,,,,GEVO
+151,D,2018-03-01 18:16:15,2018-02-28,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2867,+3%,+$0,,,,,GEVO
+152,D,2018-03-01 18:15:31,2018-02-28,GEVO,Mize Gary W.,Dir,F - Tax,$0.45,-5,793,-1%,-$2,,,,,GEVO
+153,D,2018-03-01 18:15:31,2018-02-28,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,793,+2%,+$0,,,,,GEVO
+154,D,2018-03-01 18:14:44,2018-02-28,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.45,-31,3191,-1%,-$14,,,,,GEVO
+155,D,2018-03-01 18:14:44,2018-02-28,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,3191,+3%,+$0,,,,,GEVO
+156,D,2018-03-01 18:14:13,2018-02-28,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.45,-5,389,-1%,-$2,,,,,GEVO
+157,D,2018-03-01 18:14:13,2018-02-28,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,389,+5%,+$0,,,,,GEVO
+158,D,2018-03-01 18:13:39,2018-02-28,GEVO,Marsh Andrew,Dir,F - Tax,$0.45,-5,389,-1%,-$2,,,,,GEVO
+159,D,2018-03-01 18:13:39,2018-02-28,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,389,+5%,+$0,,,,,GEVO
+160,D,2018-01-31 17:27:13,2018-01-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.55,-5,1697,0%,-$3,,,,,GEVO
+161,D,2018-01-31 17:27:13,2018-01-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1697,+1%,+$0,,,,,GEVO
+162,D,2018-01-31 17:26:43,2018-01-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.55,-5,780,-1%,-$3,,,,,GEVO
+163,D,2018-01-31 17:26:43,2018-01-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,780,+2%,+$0,,,,,GEVO
+164,D,2018-01-31 17:26:00,2018-01-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.55,-5,376,-1%,-$3,,,,,GEVO
+165,D,2018-01-31 17:26:00,2018-01-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,376,+5%,+$0,,,,,GEVO
+166,D,2018-01-31 17:25:04,2018-01-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.55,-27,2814,-1%,-$15,,,,,GEVO
+167,D,2018-01-31 17:25:04,2018-01-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2814,+3%,+$0,,,,,GEVO
+168,D,2018-01-31 17:23:53,2018-01-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.55,-31,3131,-1%,-$17,,,,,GEVO
+169,D,2018-01-31 17:23:53,2018-01-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,3131,+3%,+$0,,,,,GEVO
+170,D,2018-01-31 17:22:56,2018-01-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.55,-5,376,-1%,-$3,,,,,GEVO
+171,D,2018-01-31 17:22:56,2018-01-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,376,+5%,+$0,,,,,GEVO
+172,D,2018-01-03 13:05:41,2017-12-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.59,-29,2761,-1%,-$17,,,,,GEVO
+173,D,2018-01-03 13:05:41,2017-12-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2761,+3%,+$0,,,,,GEVO
+174,D,2018-01-03 13:05:02,2017-12-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.59,-33,3071,-1%,-$19,,,,,GEVO
+175,D,2018-01-03 13:05:02,2017-12-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,3071,+3%,+$0,,,,,GEVO
+176,D,2018-01-03 13:02:59,2017-12-29,GEVO,Willis Mike,CFO,F - Tax,$0.59,-29,2351,-1%,-$17,,,,,GEVO
+177,D,2018-01-03 13:02:59,2017-12-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,2351,+4%,+$0,,,,,GEVO
+178,D,2018-01-03 13:02:03,2017-12-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.59,-5,363,-1%,-$3,,,,,GEVO
+179,D,2018-01-03 13:02:03,2017-12-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,363,+5%,+$0,,,,,GEVO
+180,D,2018-01-03 13:01:25,2017-12-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.59,-5,363,-1%,-$3,,,,,GEVO
+181,D,2018-01-03 13:01:25,2017-12-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,363,+5%,+$0,,,,,GEVO
+182,D,2018-01-03 13:00:32,2017-12-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.59,-5,1684,0%,-$3,,,,,GEVO
+183,D,2018-01-03 13:00:32,2017-12-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1684,+1%,+$0,,,,,GEVO
+184,D,2018-01-03 13:00:04,2017-12-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.59,-5,767,-1%,-$3,,,,,GEVO
+185,D,2018-01-03 13:00:04,2017-12-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,767,+2%,+$0,,,,,GEVO
+186,D,2017-11-30 15:19:15,2017-11-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.63,-25,2710,-1%,-$16,,,,,GEVO
+187,D,2017-11-30 15:19:15,2017-11-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2710,+3%,+$0,,,,,GEVO
+188,D,2017-11-30 15:18:18,2017-11-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.63,-29,3013,-1%,-$18,,,,,GEVO
+189,D,2017-11-30 15:18:18,2017-11-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,3013,+3%,+$0,,,,,GEVO
+190,D,2017-11-30 15:13:47,2017-11-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.63,-5,350,-1%,-$3,,,,,GEVO
+191,D,2017-11-30 15:13:47,2017-11-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,350,+5%,+$0,,,,,GEVO
+192,D,2017-11-30 15:12:18,2017-11-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.63,-5,350,-1%,-$3,,,,,GEVO
+193,D,2017-11-30 15:12:18,2017-11-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,350,+5%,+$0,,,,,GEVO
+194,D,2017-11-30 15:11:04,2017-11-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.63,-5,1671,0%,-$3,,,,,GEVO
+195,D,2017-11-30 15:11:04,2017-11-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1671,+1%,+$0,,,,,GEVO
+196,D,2017-11-30 15:10:10,2017-11-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.63,-5,754,-1%,-$3,,,,,GEVO
+197,D,2017-11-30 15:10:10,2017-11-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,754,+2%,+$0,,,,,GEVO
+198,D,2017-11-30 15:08:40,2017-11-29,GEVO,Willis Mike,CFO,F - Tax,$0.63,-25,2300,-1%,-$16,,,,,GEVO
+199,D,2017-11-30 15:08:40,2017-11-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,2300,+4%,+$0,,,,,GEVO
+200,D,2017-11-01 11:55:19,2017-10-30,GEVO,Mize Gary W.,Dir,F - Tax,$0.65,-5,741,-1%,-$3,,,,,GEVO
+201,D,2017-11-01 11:55:19,2017-10-30,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,741,+2%,+$0,,,,,GEVO
+202,D,2017-11-01 11:54:32,2017-10-30,GEVO,Dreessen Ruth,Dir,F - Tax,$0.65,-5,1658,0%,-$3,,,,,GEVO
+203,D,2017-11-01 11:54:32,2017-10-30,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1658,+1%,+$0,,,,,GEVO
+204,D,2017-11-01 11:52:26,2017-10-30,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.65,-5,337,-1%,-$3,,,,,GEVO
+205,D,2017-11-01 11:52:26,2017-10-30,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,337,+6%,+$0,,,,,GEVO
+206,D,2017-11-01 11:51:09,2017-10-30,GEVO,Marsh Andrew,Dir,F - Tax,$0.65,-5,337,-1%,-$3,,,,,GEVO
+207,D,2017-11-01 11:51:09,2017-10-30,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,337,+6%,+$0,,,,,GEVO
+208,D,2017-11-01 11:50:15,2017-10-30,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.65,-29,2951,-1%,-$19,,,,,GEVO
+209,D,2017-11-01 11:50:15,2017-10-30,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,2951,+3%,+$0,,,,,GEVO
+210,D,2017-11-01 11:49:12,2017-10-30,GEVO,Willis Mike,CFO,F - Tax,$0.65,-24,2245,-1%,-$16,,,,,GEVO
+211,D,2017-11-01 11:49:12,2017-10-30,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,2245,+4%,+$0,,,,,GEVO
+212,D,2017-11-01 11:48:22,2017-10-30,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.65,-24,2655,-1%,-$16,,,,,GEVO
+213,D,2017-11-01 11:48:22,2017-10-30,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2655,+3%,+$0,,,,,GEVO
+214,D,2017-10-03 12:16:21,2017-09-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.62,-5,324,-2%,-$3,,,,,GEVO
+215,D,2017-10-03 12:16:21,2017-09-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,324,+6%,+$0,,,,,GEVO
+216,D,2017-10-03 12:15:01,2017-09-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.62,-5,1645,0%,-$3,,,,,GEVO
+217,D,2017-10-03 12:15:01,2017-09-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1645,+1%,+$0,,,,,GEVO
+218,D,2017-10-03 12:14:22,2017-09-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.62,-5,324,-2%,-$3,,,,,GEVO
+219,D,2017-10-03 12:14:22,2017-09-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,324,+6%,+$0,,,,,GEVO
+220,D,2017-10-03 12:13:28,2017-09-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.62,-5,728,-1%,-$3,,,,,GEVO
+221,D,2017-10-03 12:13:28,2017-09-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,728,+3%,+$0,,,,,GEVO
+222,D,2017-10-03 12:12:10,2017-09-29,GEVO,Willis Mike,CFO,F - Tax,$0.62,-25,2189,-1%,-$16,,,,,GEVO
+223,D,2017-10-03 12:12:10,2017-09-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,2189,+4%,+$0,,,,,GEVO
+224,D,2017-10-03 12:10:30,2017-09-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.62,-29,2889,-1%,-$18,,,,,GEVO
+225,D,2017-10-03 12:10:30,2017-09-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,2889,+3%,+$0,,,,,GEVO
+226,D,2017-10-03 12:08:35,2017-09-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.62,-25,2599,-1%,-$16,,,,,GEVO
+227,D,2017-10-03 12:08:35,2017-09-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2599,+3%,+$0,,,,,GEVO
+228,D,2017-08-30 17:24:31,2017-08-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.59,-5,1632,0%,-$3,,,,,GEVO
+229,D,2017-08-30 17:24:31,2017-08-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1632,+1%,+$0,,,,,GEVO
+230,D,2017-08-30 17:23:49,2017-08-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.59,-5,715,-1%,-$3,,,,,GEVO
+231,D,2017-08-30 17:23:49,2017-08-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,715,+3%,+$0,,,,,GEVO
+232,D,2017-08-30 17:23:06,2017-08-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.59,-5,311,-2%,-$3,,,,,GEVO
+233,D,2017-08-30 17:23:06,2017-08-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,311,+6%,+$0,,,,,GEVO
+234,D,2017-08-30 17:22:20,2017-08-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.59,-5,311,-2%,-$3,,,,,GEVO
+235,D,2017-08-30 17:22:20,2017-08-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,311,+6%,+$0,,,,,GEVO
+236,D,2017-08-30 17:20:46,2017-08-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.59,-28,2827,-1%,-$17,,,,,GEVO
+237,D,2017-08-30 17:20:46,2017-08-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,2827,+3%,+$0,,,,,GEVO
+238,D,2017-08-30 17:19:25,2017-08-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.59,-25,2544,-1%,-$15,,,,,GEVO
+239,D,2017-08-30 17:19:25,2017-08-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2544,+3%,+$0,,,,,GEVO
+240,D,2017-08-30 17:14:46,2017-08-29,GEVO,Willis Mike,CFO,F - Tax,$0.59,-25,2134,-1%,-$15,,,,,GEVO
+241,D,2017-08-30 17:14:46,2017-08-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,2134,+4%,+$0,,,,,GEVO
+242,D,2017-07-31 18:35:17,2017-07-31,GEVO,Mize Gary W.,Dir,F - Tax,$0.65,-5,702,-1%,-$3,,,,,GEVO
+243,D,2017-07-31 18:35:17,2017-07-31,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,702,+3%,+$0,,,,,GEVO
+244,D,2017-07-31 18:34:23,2017-07-31,GEVO,Dreessen Ruth,Dir,F - Tax,$0.65,-5,1619,0%,-$3,,,,,GEVO
+245,D,2017-07-31 18:34:23,2017-07-31,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1619,+1%,+$0,,,,,GEVO
+246,D,2017-07-31 18:33:36,2017-07-31,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.65,-5,298,-2%,-$3,,,,,GEVO
+247,D,2017-07-31 18:33:36,2017-07-31,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,298,+6%,+$0,,,,,GEVO
+248,D,2017-07-31 18:32:06,2017-07-31,GEVO,Marsh Andrew,Dir,F - Tax,$0.65,-5,298,-2%,-$3,,,,,GEVO
+249,D,2017-07-31 18:32:06,2017-07-31,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,298,+6%,+$0,,,,,GEVO
+250,D,2017-07-31 18:31:08,2017-07-31,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.65,-29,2764,-1%,-$19,,,,,GEVO
+251,D,2017-07-31 18:31:08,2017-07-31,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,2764,+3%,+$0,,,,,GEVO
+252,D,2017-07-31 18:30:36,2017-07-31,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.65,-24,2489,-1%,-$16,,,,,GEVO
+253,D,2017-07-31 18:30:36,2017-07-31,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2489,+3%,+$0,,,,,GEVO
+254,D,2017-07-31 18:28:50,2017-07-31,GEVO,Willis Mike,CFO,F - Tax,$0.65,-24,2079,-1%,-$16,,,,,GEVO
+255,D,2017-07-31 18:28:50,2017-07-31,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,2079,+4%,+$0,,,,,GEVO
+256,D,2017-06-30 11:21:17,2017-06-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.73,-5,689,-1%,-$4,,,,,GEVO
+257,D,2017-06-30 11:21:17,2017-06-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,689,+3%,+$0,,,,,GEVO
+258,D,2017-06-30 11:20:45,2017-06-29,GEVO,Willis Mike,CFO,F - Tax,$0.73,-26,2023,-1%,-$19,,,,,GEVO
+259,D,2017-06-30 11:20:45,2017-06-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,2023,+4%,+$0,,,,,GEVO
+260,D,2017-06-30 11:19:40,2017-06-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.73,-5,285,-2%,-$4,,,,,GEVO
+261,D,2017-06-30 11:19:40,2017-06-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,285,+7%,+$0,,,,,GEVO
+262,D,2017-06-30 11:18:53,2017-06-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.73,-5,285,-2%,-$4,,,,,GEVO
+263,D,2017-06-30 11:18:53,2017-06-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,285,+7%,+$0,,,,,GEVO
+264,D,2017-06-30 11:17:54,2017-06-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.73,-5,1606,0%,-$4,,,,,GEVO
+265,D,2017-06-30 11:17:54,2017-06-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1606,+1%,+$0,,,,,GEVO
+266,D,2017-06-30 11:16:52,2017-06-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.73,-28,2702,-1%,-$20,,,,,GEVO
+267,D,2017-06-30 11:16:52,2017-06-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,2702,+3%,+$0,,,,,GEVO
+268,D,2017-06-30 11:15:25,2017-06-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.73,-25,2433,-1%,-$18,,,,,GEVO
+269,D,2017-06-30 11:15:25,2017-06-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2433,+3%,+$0,,,,,GEVO
+270,D,2017-05-31 17:45:55,2017-05-30,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.67,-5,272,-2%,-$3,,,,,GEVO
+271,D,2017-05-31 17:45:55,2017-05-30,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,272,+7%,+$0,,,,,GEVO
+272,D,2017-05-31 17:44:49,2017-05-30,GEVO,Mize Gary W.,Dir,F - Tax,$0.67,-5,676,-1%,-$3,,,,,GEVO
+273,D,2017-05-31 17:44:49,2017-05-30,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,676,+3%,+$0,,,,,GEVO
+274,D,2017-05-31 17:43:46,2017-05-30,GEVO,Dreessen Ruth,Dir,F - Tax,$0.67,-5,1593,0%,-$3,,,,,GEVO
+275,D,2017-05-31 17:43:46,2017-05-30,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1593,+1%,+$0,,,,,GEVO
+276,D,2017-05-31 17:41:39,2017-05-30,GEVO,Marsh Andrew,Dir,F - Tax,$0.67,-5,272,-2%,-$3,,,,,GEVO
+277,D,2017-05-31 17:41:39,2017-05-30,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,272,+7%,+$0,,,,,GEVO
+278,D,2017-05-31 17:40:25,2017-05-30,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.67,-29,2639,-1%,-$19,,,,,GEVO
+279,D,2017-05-31 17:40:25,2017-05-30,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,2639,+4%,+$0,,,,,GEVO
+280,D,2017-05-31 17:39:24,2017-05-30,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.67,-24,2378,-1%,-$16,,,,,GEVO
+281,D,2017-05-31 17:39:24,2017-05-30,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2378,+3%,+$0,,,,,GEVO
+282,D,2017-05-31 17:36:53,2017-05-30,GEVO,Willis Mike,CFO,F - Tax,$0.67,-24,1969,-1%,-$16,,,,,GEVO
+283,D,2017-05-31 17:36:53,2017-05-30,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,1969,+4%,+$0,,,,,GEVO
+284,D,2017-05-02 17:58:57,2017-05-01,GEVO,Willis Mike,CFO,F - Tax,$1.02,-36,1913,-2%,-$37,5.0,2.0,,,GEVO
+285,D,2017-05-02 17:58:57,2017-05-01,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,1913,+4%,+$0,5.0,2.0,,,GEVO
+286,D,2017-05-02 17:58:10,2017-05-01,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$1.02,-36,2322,-2%,-$37,5.0,2.0,,,GEVO
+287,D,2017-05-02 17:58:10,2017-05-01,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2322,+4%,+$0,5.0,2.0,,,GEVO
+288,D,2017-05-02 17:57:30,2017-05-01,GEVO,Gruber Patrick R.,CEO,F - Tax,$1.02,-41,2577,-2%,-$42,5.0,2.0,,,GEVO
+289,D,2017-05-02 17:57:30,2017-05-01,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,2577,+4%,+$0,5.0,2.0,,,GEVO
+290,D,2017-05-02 17:56:52,2017-05-01,GEVO,Dreessen Ruth,Dir,F - Tax,$1.02,-5,1580,0%,-$5,5.0,2.0,,,GEVO
+291,D,2017-05-02 17:56:52,2017-05-01,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,1580,+1%,+$0,5.0,2.0,,,GEVO
+292,D,2017-05-02 17:56:11,2017-05-01,GEVO,Mize Gary W.,Dir,F - Tax,$1.02,-5,663,-1%,-$5,5.0,2.0,,,GEVO
+293,D,2017-05-02 17:56:11,2017-05-01,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,663,+3%,+$0,5.0,2.0,,,GEVO
+294,D,2017-05-02 17:55:07,2017-05-01,GEVO,Marsh Andrew,Dir,F - Tax,$1.02,-5,259,-2%,-$5,5.0,2.0,,,GEVO
+295,D,2017-05-02 17:55:07,2017-05-01,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,259,+7%,+$0,5.0,2.0,,,GEVO
+296,D,2017-05-02 17:53:59,2017-05-01,GEVO,Roth Johannes Minho,Dir,F - Tax,$1.02,-5,259,-2%,-$5,5.0,2.0,,,GEVO
+297,D,2017-05-02 17:53:59,2017-05-01,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,259,+7%,+$0,5.0,2.0,,,GEVO
+298,D,2017-03-31 16:41:41,2017-03-29,GEVO,Mize Gary W.,Dir,F - Tax,$1.17,-5,650,-1%,-$6,-4.0,-7.0,-12.0,,GEVO
+299,D,2017-03-31 16:41:41,2017-03-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,650,+3%,+$0,-4.0,-7.0,-12.0,,GEVO
+300,D,2017-03-31 16:40:41,2017-03-29,GEVO,Dreessen Ruth,Dir,F - Tax,$1.17,-5,664,-1%,-$6,-4.0,-7.0,-12.0,,GEVO
+301,D,2017-03-31 16:40:41,2017-03-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,664,+3%,+$0,-4.0,-7.0,-12.0,,GEVO
+302,D,2017-03-31 16:39:24,2017-03-29,GEVO,Marsh Andrew,Dir,F - Tax,$1.17,-5,246,-2%,-$6,-4.0,-7.0,-12.0,,GEVO
+303,D,2017-03-31 16:39:24,2017-03-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,246,+8%,+$0,-4.0,-7.0,-12.0,,GEVO
+304,D,2017-03-31 16:37:59,2017-03-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$1.17,-5,246,-2%,-$6,-4.0,-7.0,-12.0,,GEVO
+305,D,2017-03-31 16:37:59,2017-03-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,246,+8%,+$0,-4.0,-7.0,-12.0,,GEVO
+306,D,2017-03-31 16:32:10,2017-03-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$1.17,-41,2527,-2%,-$48,-4.0,-7.0,-12.0,,GEVO
+307,D,2017-03-31 16:32:10,2017-03-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,2527,+4%,+$0,-4.0,-7.0,-12.0,,GEVO
+308,D,2017-03-31 16:31:07,2017-03-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$1.17,-35,2278,-2%,-$41,-4.0,-7.0,-12.0,,GEVO
+309,D,2017-03-31 16:31:07,2017-03-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2278,+4%,+$0,-4.0,-7.0,-12.0,,GEVO
+310,D,2017-03-31 16:30:34,2017-03-29,GEVO,Willis Mike,CFO,F - Tax,$1.17,-35,1869,-2%,-$41,-4.0,-7.0,-12.0,,GEVO
+311,D,2017-03-31 16:30:34,2017-03-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,1869,+4%,+$0,-4.0,-7.0,-12.0,,GEVO
+312,,2017-03-15 11:41:34,2017-03-13,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.96,-6,2477,0%,-$6,-1.0,13.0,12.0,,GEVO
+313,,2017-03-15 11:40:44,2017-03-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.96,-7,2233,0%,-$7,-1.0,13.0,12.0,,GEVO
+314,,2017-03-15 11:39:43,2017-03-13,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.96,-1,506,0%,-$1,-1.0,13.0,12.0,,GEVO
+315,,2017-03-15 11:39:03,2017-03-13,GEVO,Willis Mike,CFO,S - Sale,$0.96,-2,1824,0%,-$2,-1.0,13.0,12.0,,GEVO
+316,D,2017-03-02 18:28:25,2017-02-28,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$1.01,-6,507,-1%,-$6,0.0,-4.0,4.0,,GEVO
+317,D,2017-03-02 18:28:25,2017-02-28,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,16,507,+3%,+$0,0.0,-4.0,4.0,,GEVO
+318,D,2017-03-02 18:27:40,2017-02-28,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$1.01,-36,2240,-2%,-$36,0.0,-4.0,4.0,,GEVO
+319,D,2017-03-02 18:27:40,2017-02-28,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2240,+4%,+$0,0.0,-4.0,4.0,,GEVO
+320,D,2017-03-02 18:27:01,2017-02-28,GEVO,Gruber Patrick R.,CEO,F - Tax,$1.01,-41,2483,-2%,-$41,0.0,-4.0,4.0,,GEVO
+321,D,2017-03-02 18:27:01,2017-02-28,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,2483,+4%,+$0,0.0,-4.0,4.0,,GEVO
+322,D,2017-03-02 18:23:59,2017-02-28,GEVO,Willis Mike,CFO,F - Tax,$1.01,-36,1826,-2%,-$36,0.0,-4.0,4.0,,GEVO
+323,D,2017-03-02 18:23:59,2017-02-28,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,1826,+5%,+$0,0.0,-4.0,4.0,,GEVO
+324,D,2017-03-02 18:23:05,2017-02-28,GEVO,Marsh Andrew,Dir,F - Tax,$1.01,-5,233,-2%,-$5,0.0,-4.0,4.0,,GEVO
+325,D,2017-03-02 18:23:05,2017-02-28,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,233,+8%,+$0,0.0,-4.0,4.0,,GEVO
+326,D,2017-03-02 18:21:42,2017-02-28,GEVO,Roth Johannes Minho,Dir,F - Tax,$1.01,-5,233,-2%,-$5,0.0,-4.0,4.0,,GEVO
+327,D,2017-03-02 18:21:42,2017-02-28,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,233,+8%,+$0,0.0,-4.0,4.0,,GEVO
+328,D,2017-03-02 18:20:38,2017-02-28,GEVO,Dreessen Ruth,Dir,F - Tax,$1.01,-5,651,-1%,-$5,0.0,-4.0,4.0,,GEVO
+329,D,2017-03-02 18:20:38,2017-02-28,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,651,+3%,+$0,0.0,-4.0,4.0,,GEVO
+330,D,2017-03-02 18:17:49,2017-02-28,GEVO,Mize Gary W.,Dir,F - Tax,$1.01,-5,637,-1%,-$5,0.0,-4.0,4.0,,GEVO
+331,D,2017-03-02 18:17:49,2017-02-28,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,637,+3%,+$0,0.0,-4.0,4.0,,GEVO
+332,,2017-02-14 10:34:18,2017-02-13,GEVO,Willis Mike,CFO,S - Sale,$2.51,-2,1782,0%,-$5,-34.0,-47.0,-60.0,,GEVO
+333,,2017-02-14 10:32:46,2017-02-13,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$2.51,-1,497,0%,-$3,-34.0,-47.0,-60.0,,GEVO
+334,,2017-02-14 10:30:23,2017-02-13,GEVO,Gruber Patrick R.,CEO,S - Sale,$2.51,-6,2433,0%,-$15,-34.0,-47.0,-60.0,,GEVO
+335,,2017-02-14 10:27:07,2017-02-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.51,-7,2196,0%,-$18,-34.0,-47.0,-60.0,,GEVO
+336,D,2017-02-01 13:05:37,2017-01-30,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$2.87,-5,498,-1%,-$14,-5.0,-5.0,-66.0,,GEVO
+337,D,2017-02-01 13:05:37,2017-01-30,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,16,498,+3%,+$0,-5.0,-5.0,-66.0,,GEVO
+338,D,2017-02-01 13:04:57,2017-01-30,GEVO,Willis Mike,CFO,F - Tax,$2.87,-41,1784,-2%,-$118,-5.0,-5.0,-66.0,,GEVO
+339,D,2017-02-01 13:04:57,2017-01-30,GEVO,Willis Mike,CFO,M - OptEx,$0.00,80,1784,+5%,+$0,-5.0,-5.0,-66.0,,GEVO
+340,D,2017-02-01 13:03:13,2017-01-30,GEVO,Gruber Patrick R.,CEO,F - Tax,$2.87,-46,2439,-2%,-$132,-5.0,-5.0,-66.0,,GEVO
+341,D,2017-02-01 13:03:13,2017-01-30,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,91,2439,+4%,+$0,-5.0,-5.0,-66.0,,GEVO
+342,D,2017-02-01 13:02:19,2017-01-30,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$2.87,-41,2203,-2%,-$118,-5.0,-5.0,-66.0,,GEVO
+343,D,2017-02-01 13:02:19,2017-01-30,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,80,2203,+4%,+$0,-5.0,-5.0,-66.0,,GEVO
+344,D,2017-02-01 13:01:05,2017-01-30,GEVO,Dreessen Ruth,Dir,F - Tax,$2.87,-5,638,-1%,-$14,-5.0,-5.0,-66.0,,GEVO
+345,D,2017-02-01 13:01:05,2017-01-30,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,18,638,+3%,+$0,-5.0,-5.0,-66.0,,GEVO
+346,D,2017-02-01 13:00:20,2017-01-30,GEVO,Marsh Andrew,Dir,F - Tax,$2.87,-5,220,-2%,-$14,-5.0,-5.0,-66.0,,GEVO
+347,D,2017-02-01 13:00:20,2017-01-30,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,18,220,+9%,+$0,-5.0,-5.0,-66.0,,GEVO
+348,D,2017-02-01 12:59:24,2017-01-30,GEVO,Roth Johannes Minho,Dir,F - Tax,$2.87,-5,220,-2%,-$14,-5.0,-5.0,-66.0,,GEVO
+349,D,2017-02-01 12:59:24,2017-01-30,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,18,220,+9%,+$0,-5.0,-5.0,-66.0,,GEVO
+350,D,2017-02-01 12:57:54,2017-01-30,GEVO,Mize Gary W.,Dir,F - Tax,$2.87,-5,624,-1%,-$14,-5.0,-5.0,-66.0,,GEVO
+351,D,2017-02-01 12:57:54,2017-01-30,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,18,624,+3%,+$0,-5.0,-5.0,-66.0,,GEVO
+352,,2017-01-13 19:30:01,2017-01-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$3.85,-7,2164,0%,-$27,3.0,-10.0,-36.0,,GEVO
+353,,2017-01-13 19:28:58,2017-01-12,GEVO,Willis Mike,CFO,S - Sale,$3.85,-2,1745,0%,-$8,3.0,-10.0,-36.0,,GEVO
+354,,2017-01-13 19:28:02,2017-01-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$3.85,-6,2394,0%,-$23,3.0,-10.0,-36.0,,GEVO
+355,,2017-01-13 19:24:52,2017-01-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$3.85,-1,487,0%,-$4,3.0,-10.0,-36.0,,GEVO
+356,D,2016-12-30 19:36:25,2016-12-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,48000,+4%,+$0,1.0,17.0,-9.0,,GEVO
+357,D,2016-12-30 19:36:25,2016-12-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.20,-675,48000,-1%,-$135,1.0,17.0,-9.0,,GEVO
+358,D,2016-12-30 19:35:16,2016-12-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,34935,+5%,+$0,1.0,17.0,-9.0,,GEVO
+359,D,2016-12-30 19:35:16,2016-12-29,GEVO,Willis Mike,CFO,F - Tax,$0.20,-592,34935,-2%,-$118,1.0,17.0,-9.0,,GEVO
+360,D,2016-12-30 19:34:21,2016-12-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,9741,+3%,+$0,1.0,17.0,-9.0,,GEVO
+361,D,2016-12-30 19:34:21,2016-12-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.20,-118,9741,-1%,-$24,1.0,17.0,-9.0,,GEVO
+362,D,2016-12-30 19:33:20,2016-12-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,43402,+4%,+$0,1.0,17.0,-9.0,,GEVO
+363,D,2016-12-30 19:33:20,2016-12-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.20,-592,43402,-1%,-$118,1.0,17.0,-9.0,,GEVO
+364,D,2016-12-30 19:32:32,2016-12-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,12491,+3%,+$0,1.0,17.0,-9.0,,GEVO
+365,D,2016-12-30 19:32:32,2016-12-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.20,-114,12491,-1%,-$23,1.0,17.0,-9.0,,GEVO
+366,D,2016-12-30 19:31:19,2016-12-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,12211,+3%,+$0,1.0,17.0,-9.0,,GEVO
+367,D,2016-12-30 19:31:19,2016-12-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.20,-114,12211,-1%,-$23,1.0,17.0,-9.0,,GEVO
+368,D,2016-12-30 19:28:14,2016-12-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,4131,+9%,+$0,1.0,17.0,-9.0,,GEVO
+369,D,2016-12-30 19:28:14,2016-12-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.20,-114,4131,-3%,-$23,1.0,17.0,-9.0,,GEVO
+370,D,2016-12-30 19:26:28,2016-12-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,4131,+9%,+$0,1.0,17.0,-9.0,,GEVO
+371,D,2016-12-30 19:26:28,2016-12-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.20,-114,4131,-3%,-$23,1.0,17.0,-9.0,,GEVO
+372,,2016-12-12 16:05:47,2016-12-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.24,-121,42408,0%,-$29,4.0,0.0,-12.0,,GEVO
+373,,2016-12-12 16:03:58,2016-12-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.24,-16,9542,0%,-$4,4.0,0.0,-12.0,,GEVO
+374,,2016-12-12 16:00:27,2016-12-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.24,-108,46868,0%,-$26,4.0,0.0,-12.0,,GEVO
+375,,2016-12-12 15:58:21,2016-12-12,GEVO,Willis Mike,CFO,S - Sale,$0.24,-21,33941,0%,-$5,-15.0,-15.0,-27.0,,GEVO
+376,D,2016-12-01 15:37:39,2016-11-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.33,-114,3888,-3%,-$38,-6.0,-6.0,-48.0,,GEVO
+377,D,2016-12-01 15:37:39,2016-11-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,3888,+10%,+$0,-6.0,-6.0,-48.0,,GEVO
+378,D,2016-12-01 15:36:49,2016-11-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.33,-101,9558,-1%,-$33,-6.0,-6.0,-48.0,,GEVO
+379,D,2016-12-01 15:36:49,2016-11-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,9558,+3%,+$0,-6.0,-6.0,-48.0,,GEVO
+380,D,2016-12-01 15:35:42,2016-11-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.33,-506,42529,-1%,-$167,-6.0,-6.0,-48.0,,GEVO
+381,D,2016-12-01 15:35:42,2016-11-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,42529,+4%,+$0,-6.0,-6.0,-48.0,,GEVO
+382,D,2016-12-01 15:34:44,2016-11-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.33,-579,46976,-1%,-$191,-6.0,-6.0,-48.0,,GEVO
+383,D,2016-12-01 15:34:44,2016-11-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,46976,+4%,+$0,-6.0,-6.0,-48.0,,GEVO
+384,D,2016-12-01 15:33:42,2016-11-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.33,-114,12248,-1%,-$38,-6.0,-6.0,-48.0,,GEVO
+385,D,2016-12-01 15:33:42,2016-11-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,12248,+3%,+$0,-6.0,-6.0,-48.0,,GEVO
+386,D,2016-12-01 15:32:37,2016-11-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.33,-114,11968,-1%,-$38,-6.0,-6.0,-48.0,,GEVO
+387,D,2016-12-01 15:32:37,2016-11-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,11968,+3%,+$0,-6.0,-6.0,-48.0,,GEVO
+388,D,2016-12-01 15:31:50,2016-11-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.33,-114,3888,-3%,-$38,-6.0,-6.0,-48.0,,GEVO
+389,D,2016-12-01 15:31:50,2016-11-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,3888,+10%,+$0,-6.0,-6.0,-48.0,,GEVO
+390,D,2016-12-01 15:30:51,2016-11-29,GEVO,Willis Mike,CFO,F - Tax,$0.33,-506,33962,-1%,-$167,-6.0,-6.0,-48.0,,GEVO
+391,D,2016-12-01 15:30:51,2016-11-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,33962,+5%,+$0,-6.0,-6.0,-48.0,,GEVO
+392,,2016-11-14 17:55:51,2016-11-14,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.44,-121,41449,0%,-$53,-12.0,-22.0,-40.0,,GEVO
+393,,2016-11-14 17:53:46,2016-11-14,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.44,-108,45748,0%,-$48,-12.0,-22.0,-40.0,,GEVO
+394,,2016-11-14 17:39:36,2016-11-14,GEVO,Willis Mike,CFO,S - Sale,$0.44,-21,32882,0%,-$9,-12.0,-22.0,-40.0,,GEVO
+395,,2016-11-14 17:25:49,2016-11-14,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.44,-16,9342,0%,-$7,-12.0,-22.0,-40.0,,GEVO
+396,D,2016-10-31 16:16:51,2016-10-31,GEVO,Willis Mike,CFO,F - Tax,$0.40,-506,32903,-2%,-$202,-5.0,-8.0,-15.0,-85.0,GEVO
+397,D,2016-10-31 16:16:51,2016-10-31,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,32903,+5%,+$0,-5.0,-8.0,-15.0,-85.0,GEVO
+398,D,2016-10-31 16:16:08,2016-10-31,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.40,-576,45856,-1%,-$230,-5.0,-8.0,-15.0,-85.0,GEVO
+399,D,2016-10-31 16:16:08,2016-10-31,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,45856,+4%,+$0,-5.0,-8.0,-15.0,-85.0,GEVO
+400,D,2016-10-31 16:15:07,2016-10-31,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.40,-506,41570,-1%,-$202,-5.0,-8.0,-15.0,-85.0,GEVO
+401,D,2016-10-31 16:15:07,2016-10-31,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,41570,+4%,+$0,-5.0,-8.0,-15.0,-85.0,GEVO
+402,D,2016-10-31 16:14:27,2016-10-31,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.40,-101,9358,-1%,-$40,-5.0,-8.0,-15.0,-85.0,GEVO
+403,D,2016-10-31 16:14:27,2016-10-31,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,9358,+4%,+$0,-5.0,-8.0,-15.0,-85.0,GEVO
+404,D,2016-10-31 16:13:27,2016-10-31,GEVO,Marsh Andrew,Dir,F - Tax,$0.40,-114,3645,-3%,-$46,-5.0,-8.0,-15.0,-85.0,GEVO
+405,D,2016-10-31 16:13:27,2016-10-31,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,3645,+11%,+$0,-5.0,-8.0,-15.0,-85.0,GEVO
+406,D,2016-10-31 16:12:27,2016-10-31,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.40,-114,3645,-3%,-$46,-5.0,-8.0,-15.0,-85.0,GEVO
+407,D,2016-10-31 16:12:27,2016-10-31,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,3645,+11%,+$0,-5.0,-8.0,-15.0,-85.0,GEVO
+408,D,2016-10-31 16:10:46,2016-10-31,GEVO,Dreessen Ruth,Dir,F - Tax,$0.40,-114,12005,-1%,-$46,-5.0,-8.0,-15.0,-85.0,GEVO
+409,D,2016-10-31 16:10:46,2016-10-31,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,12005,+3%,+$0,-5.0,-8.0,-15.0,-85.0,GEVO
+410,D,2016-10-31 16:09:58,2016-10-31,GEVO,Mize Gary W.,Dir,F - Tax,$0.40,-114,11725,-1%,-$46,-5.0,-8.0,-15.0,-85.0,GEVO
+411,D,2016-10-31 16:09:58,2016-10-31,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,11725,+3%,+$0,-5.0,-8.0,-15.0,-85.0,GEVO
+412,,2016-10-13 14:02:07,2016-10-12,GEVO,Willis Mike,CFO,S - Sale,$0.43,-21,31823,0%,-$9,-7.0,2.0,-7.0,-88.0,GEVO
+413,,2016-10-13 14:00:44,2016-10-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.43,-121,40490,0%,-$52,-7.0,2.0,-7.0,-88.0,GEVO
+414,,2016-10-13 13:59:52,2016-10-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.43,-108,44625,0%,-$46,-7.0,2.0,-7.0,-88.0,GEVO
+415,,2016-10-13 13:58:26,2016-10-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.43,-16,9142,0%,-$7,-7.0,2.0,-7.0,-88.0,GEVO
+416,D,2016-10-03 15:56:22,2016-09-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.49,-100,9158,-1%,-$49,0.0,-2.0,-19.0,-89.0,GEVO
+417,D,2016-10-03 15:56:22,2016-09-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,9158,+4%,+$0,0.0,-2.0,-19.0,-89.0,GEVO
+418,D,2016-10-03 15:55:15,2016-09-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.49,-577,44733,-1%,-$283,0.0,-2.0,-19.0,-89.0,GEVO
+419,D,2016-10-03 15:55:15,2016-09-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,44733,+4%,+$0,0.0,-2.0,-19.0,-89.0,GEVO
+420,D,2016-10-03 15:53:49,2016-09-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.49,-507,40611,-1%,-$248,0.0,-2.0,-19.0,-89.0,GEVO
+421,D,2016-10-03 15:53:49,2016-09-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,40611,+4%,+$0,0.0,-2.0,-19.0,-89.0,GEVO
+422,D,2016-10-03 15:50:55,2016-09-29,GEVO,Willis Mike,CFO,F - Tax,$0.49,-507,31844,-2%,-$248,0.0,-2.0,-19.0,-89.0,GEVO
+423,D,2016-10-03 15:50:55,2016-09-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,31844,+5%,+$0,0.0,-2.0,-19.0,-89.0,GEVO
+424,D,2016-10-03 15:49:37,2016-09-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.49,-114,11762,-1%,-$56,0.0,-2.0,-19.0,-89.0,GEVO
+425,D,2016-10-03 15:49:37,2016-09-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,11762,+3%,+$0,0.0,-2.0,-19.0,-89.0,GEVO
+426,D,2016-10-03 15:47:42,2016-09-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.49,-114,11482,-1%,-$56,0.0,-2.0,-19.0,-89.0,GEVO
+427,D,2016-10-03 15:47:42,2016-09-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,11482,+3%,+$0,0.0,-2.0,-19.0,-89.0,GEVO
+428,D,2016-10-03 15:46:24,2016-09-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.49,-114,3402,-3%,-$56,0.0,-2.0,-19.0,-89.0,GEVO
+429,D,2016-10-03 15:46:24,2016-09-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,3402,+12%,+$0,0.0,-2.0,-19.0,-89.0,GEVO
+430,D,2016-10-03 15:42:03,2016-09-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.49,-114,3402,-3%,-$56,0.0,-2.0,-19.0,-89.0,GEVO
+431,D,2016-10-03 15:42:03,2016-09-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,3402,+12%,+$0,0.0,-2.0,-19.0,-89.0,GEVO
+432,,2016-09-13 11:30:46,2016-09-12,GEVO,Willis Mike,CFO,S - Sale,$0.50,-21,30765,0%,-$11,4.0,-2.0,-2.0,-90.0,GEVO
+433,,2016-09-13 11:30:13,2016-09-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.50,-108,43503,0%,-$54,4.0,-2.0,-2.0,-90.0,GEVO
+434,,2016-09-13 11:29:35,2016-09-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.50,-16,8941,0%,-$8,4.0,-2.0,-2.0,-90.0,GEVO
+435,,2016-09-13 11:28:42,2016-09-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.50,-141,39532,0%,-$71,4.0,-2.0,-2.0,-90.0,GEVO
+436,,2016-09-06 16:14:06,2016-09-06,GEVO,Willis Mike,CFO,S - Sale,$0.58,-48,30786,0%,-$28,19.0,-21.0,-21.0,-95.0,GEVO
+437,D,2016-08-31 16:44:07,2016-08-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.59,-114,3159,-3%,-$67,-3.0,19.0,-18.0,-95.0,GEVO
+438,D,2016-08-31 16:44:07,2016-08-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,3159,+13%,+$0,-3.0,19.0,-18.0,-95.0,GEVO
+439,D,2016-08-31 13:26:21,2016-08-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.59,-114,11519,-1%,-$67,4.0,23.0,-14.0,-91.0,GEVO
+440,D,2016-08-31 13:26:21,2016-08-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,11519,+3%,+$0,4.0,23.0,-14.0,-91.0,GEVO
+441,D,2016-08-31 13:25:42,2016-08-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.59,-114,11239,-1%,-$67,4.0,23.0,-14.0,-91.0,GEVO
+442,D,2016-08-31 13:25:42,2016-08-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,11239,+3%,+$0,4.0,23.0,-14.0,-91.0,GEVO
+443,D,2016-08-31 13:25:00,2016-08-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.59,-114,3159,-3%,-$67,4.0,23.0,-14.0,-91.0,GEVO
+444,D,2016-08-31 13:25:00,2016-08-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,3159,+13%,+$0,4.0,23.0,-14.0,-91.0,GEVO
+445,D,2016-08-31 13:23:44,2016-08-29,GEVO,Willis Mike,CFO,F - Tax,$0.59,-506,30834,-2%,-$299,4.0,23.0,-14.0,-91.0,GEVO
+446,D,2016-08-31 13:23:44,2016-08-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,30834,+5%,+$0,4.0,23.0,-14.0,-91.0,GEVO
+447,D,2016-08-31 13:22:37,2016-08-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.59,-506,39673,-1%,-$299,4.0,23.0,-14.0,-91.0,GEVO
+448,D,2016-08-31 13:22:37,2016-08-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,39673,+4%,+$0,4.0,23.0,-14.0,-91.0,GEVO
+449,D,2016-08-31 13:21:53,2016-08-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.59,-101,8957,-1%,-$60,4.0,23.0,-14.0,-91.0,GEVO
+450,D,2016-08-31 13:21:53,2016-08-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,8957,+4%,+$0,4.0,23.0,-14.0,-91.0,GEVO
+451,D,2016-08-31 13:20:37,2016-08-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.59,-577,43611,-1%,-$340,4.0,23.0,-14.0,-91.0,GEVO
+452,D,2016-08-31 13:20:37,2016-08-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,43611,+4%,+$0,4.0,23.0,-14.0,-91.0,GEVO
+453,,2016-08-15 17:17:37,2016-08-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.56,-141,38593,0%,-$79,-2.0,-2.0,-9.0,-78.0,GEVO
+454,,2016-08-15 17:13:50,2016-08-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.56,-108,42381,0%,-$60,-2.0,-2.0,-9.0,-78.0,GEVO
+455,,2016-08-15 17:12:17,2016-08-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.56,-16,8741,0%,-$9,-2.0,-2.0,-9.0,-78.0,GEVO
+456,,2016-08-15 17:10:24,2016-08-12,GEVO,Willis Mike,CFO,S - Sale,$0.56,-21,29754,0%,-$12,-2.0,-2.0,-9.0,-78.0,GEVO
+457,,2016-08-05 11:59:42,2016-08-03,GEVO,Willis Mike,CFO,S - Sale,$0.54,-48,29775,0%,-$26,3.0,-18.0,-16.0,-78.0,GEVO
+458,D,2016-08-02 16:38:54,2016-07-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.53,-114,2916,-4%,-$60,24.0,52.0,7.0,-73.0,GEVO
+459,D,2016-08-02 16:38:54,2016-07-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,2916,+14%,+$0,24.0,52.0,7.0,-73.0,GEVO
+460,D,2016-08-02 16:26:37,2016-07-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.53,-114,10996,-1%,-$60,24.0,52.0,7.0,-73.0,GEVO
+461,D,2016-08-02 16:26:37,2016-07-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,10996,+3%,+$0,24.0,52.0,7.0,-73.0,GEVO
+462,D,2016-08-02 16:25:57,2016-07-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.53,-114,11276,-1%,-$60,24.0,52.0,7.0,-73.0,GEVO
+463,D,2016-08-02 16:25:57,2016-07-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,11276,+3%,+$0,24.0,52.0,7.0,-73.0,GEVO
+464,D,2016-08-02 16:23:47,2016-07-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.53,-114,2916,-4%,-$60,24.0,52.0,7.0,-73.0,GEVO
+465,D,2016-08-02 16:23:47,2016-07-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,2916,+14%,+$0,24.0,52.0,7.0,-73.0,GEVO
+466,D,2016-08-02 15:55:18,2016-07-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.53,-101,8757,-1%,-$54,2.0,54.0,10.0,-71.0,GEVO
+467,D,2016-08-02 15:55:18,2016-07-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,8757,+4%,+$0,2.0,54.0,10.0,-71.0,GEVO
+468,D,2016-08-02 15:54:28,2016-07-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.53,-507,38734,-1%,-$269,2.0,54.0,10.0,-71.0,GEVO
+469,D,2016-08-02 15:54:28,2016-07-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,38734,+4%,+$0,2.0,54.0,10.0,-71.0,GEVO
+470,D,2016-08-02 15:52:50,2016-07-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.53,-577,42489,-1%,-$306,2.0,54.0,10.0,-71.0,GEVO
+471,D,2016-08-02 15:52:50,2016-07-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,42489,+4%,+$0,2.0,54.0,10.0,-71.0,GEVO
+472,D,2016-08-02 15:51:50,2016-07-29,GEVO,Willis Mike,CFO,F - Tax,$0.53,-507,29823,-2%,-$269,2.0,54.0,10.0,-71.0,GEVO
+473,D,2016-08-02 15:51:50,2016-07-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,29823,+6%,+$0,2.0,54.0,10.0,-71.0,GEVO
+474,,2016-07-19 15:29:18,2016-07-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.57,-70,37655,0%,-$40,-2.0,-2.0,-5.0,-66.0,GEVO
+475,,2016-07-13 14:04:53,2016-07-12,GEVO,Willis Mike,CFO,S - Sale,$0.58,-21,28744,0%,-$12,-2.0,-4.0,-11.0,-67.0,GEVO
+476,,2016-07-12 18:25:16,2016-07-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.58,-108,41259,0%,-$63,-2.0,-2.0,31.0,-64.0,GEVO
+477,,2016-07-12 18:24:22,2016-07-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.58,-121,37725,0%,-$70,-2.0,-2.0,31.0,-64.0,GEVO
+478,,2016-07-12 18:22:23,2016-07-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.58,-16,8541,0%,-$9,-2.0,-2.0,31.0,-64.0,GEVO
+479,,2016-07-06 18:06:02,2016-07-05,GEVO,Willis Mike,CFO,S - Sale,$0.61,-48,28765,0%,-$29,-5.0,2.0,18.0,-68.0,GEVO
+480,D,2016-06-30 14:25:17,2016-06-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.61,-114,11033,-1%,-$70,-3.0,-13.0,-13.0,-66.0,GEVO
+481,D,2016-06-30 14:25:17,2016-06-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,11033,+3%,+$0,-3.0,-13.0,-13.0,-66.0,GEVO
+482,D,2016-06-30 14:24:08,2016-06-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.61,-114,10753,-1%,-$70,-3.0,-13.0,-13.0,-66.0,GEVO
+483,D,2016-06-30 14:24:08,2016-06-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,10753,+3%,+$0,-3.0,-13.0,-13.0,-66.0,GEVO
+484,D,2016-06-30 14:23:27,2016-06-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.61,-114,2673,-4%,-$70,-3.0,-13.0,-13.0,-66.0,GEVO
+485,D,2016-06-30 14:23:27,2016-06-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,2673,+15%,+$0,-3.0,-13.0,-13.0,-66.0,GEVO
+486,D,2016-06-30 14:22:56,2016-06-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.61,-114,2673,-4%,-$70,-3.0,-13.0,-13.0,-66.0,GEVO
+487,D,2016-06-30 14:22:56,2016-06-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,2673,+15%,+$0,-3.0,-13.0,-13.0,-66.0,GEVO
+488,D,2016-06-30 14:21:56,2016-06-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.61,-101,8557,-1%,-$62,-3.0,-13.0,-13.0,-66.0,GEVO
+489,D,2016-06-30 14:21:56,2016-06-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,8557,+4%,+$0,-3.0,-13.0,-13.0,-66.0,GEVO
+490,D,2016-06-30 14:21:32,2016-06-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.61,-577,41367,-1%,-$352,-3.0,-13.0,-13.0,-66.0,GEVO
+491,D,2016-06-30 14:21:32,2016-06-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,41367,+5%,+$0,-3.0,-13.0,-13.0,-66.0,GEVO
+492,D,2016-06-30 14:21:05,2016-06-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.61,-507,37846,-1%,-$309,-3.0,-13.0,-13.0,-66.0,GEVO
+493,D,2016-06-30 14:21:05,2016-06-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,37846,+4%,+$0,-3.0,-13.0,-13.0,-66.0,GEVO
+494,D,2016-06-30 14:20:37,2016-06-29,GEVO,Willis Mike,CFO,F - Tax,$0.61,-507,28813,-2%,-$309,-3.0,-13.0,-13.0,-66.0,GEVO
+495,D,2016-06-30 14:20:37,2016-06-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,28813,+6%,+$0,-3.0,-13.0,-13.0,-66.0,GEVO
+496,,2016-06-21 16:57:02,2016-06-20,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.61,-70,36767,0%,-$43,-7.0,13.0,-4.0,-54.0,GEVO
+497,,2016-06-14 16:20:41,2016-06-13,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.44,-108,40137,0%,-$48,10.0,25.0,19.0,-42.0,GEVO
+498,,2016-06-14 16:20:01,2016-06-13,GEVO,Willis Mike,CFO,S - Sale,$0.44,-21,27734,0%,-$9,10.0,25.0,19.0,-42.0,GEVO
+499,,2016-06-14 16:18:52,2016-06-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.44,-121,36837,0%,-$53,10.0,25.0,19.0,-42.0,GEVO
+500,,2016-06-14 16:17:54,2016-06-13,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.44,-16,8341,0%,-$7,10.0,25.0,19.0,-42.0,GEVO
+501,,2016-06-07 16:43:39,2016-06-03,GEVO,Willis Mike,CFO,S - Sale,$0.33,-48,27755,0%,-$16,65.0,-25.0,-5.0,-68.0,GEVO
+502,D,2016-06-02 12:59:04,2016-05-31,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.35,-98,8357,-1%,-$34,-6.0,182.0,74.0,-3.0,GEVO
+503,D,2016-06-02 12:59:04,2016-05-31,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,8357,+4%,+$0,-6.0,182.0,74.0,-3.0,GEVO
+504,D,2016-06-02 12:57:42,2016-05-31,GEVO,Willis Mike,CFO,F - Tax,$0.35,-508,27803,-2%,-$178,-6.0,182.0,74.0,-3.0,GEVO
+505,D,2016-06-02 12:57:42,2016-05-31,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,27803,+6%,+$0,-6.0,182.0,74.0,-3.0,GEVO
+506,D,2016-06-02 12:56:20,2016-05-31,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.35,-508,36958,-1%,-$178,-6.0,182.0,74.0,-3.0,GEVO
+507,D,2016-06-02 12:56:20,2016-05-31,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,36958,+4%,+$0,-6.0,182.0,74.0,-3.0,GEVO
+508,D,2016-06-02 12:55:04,2016-05-31,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.35,-577,40245,-1%,-$202,-6.0,182.0,74.0,-3.0,GEVO
+509,D,2016-06-02 12:55:04,2016-05-31,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,40245,+5%,+$0,-6.0,182.0,74.0,-3.0,GEVO
+510,D,2016-06-02 12:53:22,2016-05-31,GEVO,Mize Gary W.,Dir,F - Tax,$0.35,-114,10510,-1%,-$40,-6.0,182.0,74.0,-3.0,GEVO
+511,D,2016-06-02 12:53:22,2016-05-31,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,10510,+4%,+$0,-6.0,182.0,74.0,-3.0,GEVO
+512,D,2016-06-02 12:51:40,2016-05-31,GEVO,Marsh Andrew,Dir,F - Tax,$0.35,-114,2430,-4%,-$40,-6.0,182.0,74.0,-3.0,GEVO
+513,D,2016-06-02 12:51:40,2016-05-31,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,2430,+17%,+$0,-6.0,182.0,74.0,-3.0,GEVO
+514,D,2016-06-02 12:50:46,2016-05-31,GEVO,Dreessen Ruth,Dir,F - Tax,$0.35,-114,10790,-1%,-$40,-6.0,182.0,74.0,-3.0,GEVO
+515,D,2016-06-02 12:50:46,2016-05-31,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,10790,+3%,+$0,-6.0,182.0,74.0,-3.0,GEVO
+516,D,2016-06-02 12:48:50,2016-05-31,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.35,-114,2430,-4%,-$40,-6.0,182.0,74.0,-3.0,GEVO
+517,D,2016-06-02 12:48:50,2016-05-31,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,2430,+17%,+$0,-6.0,182.0,74.0,-3.0,GEVO
+518,,2016-05-19 12:45:17,2016-05-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.29,-70,35880,0%,-$20,-7.0,6.0,76.0,3.0,GEVO
+519,,2016-05-16 13:39:59,2016-05-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.30,-121,35950,0%,-$36,-21.0,-18.0,21.0,3.0,GEVO
+520,,2016-05-16 13:39:10,2016-05-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.30,-108,39015,0%,-$32,-21.0,-18.0,21.0,3.0,GEVO
+521,,2016-05-16 13:38:32,2016-05-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.30,-16,8138,0%,-$5,-21.0,-18.0,21.0,3.0,GEVO
+522,,2016-05-16 13:37:55,2016-05-12,GEVO,Willis Mike,CFO,S - Sale,$0.30,-21,26725,0%,-$6,-21.0,-18.0,21.0,3.0,GEVO
+523,D,2016-05-03 17:27:28,2016-04-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.26,-578,39123,-1%,-$150,4.0,35.0,31.0,54.0,GEVO
+524,D,2016-05-03 17:27:28,2016-04-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,39123,+5%,+$0,4.0,35.0,31.0,54.0,GEVO
+525,D,2016-05-03 17:26:42,2016-04-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.26,-506,36071,-1%,-$132,4.0,35.0,31.0,54.0,GEVO
+526,D,2016-05-03 17:26:42,2016-04-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,36071,+5%,+$0,4.0,35.0,31.0,54.0,GEVO
+527,D,2016-05-03 17:23:56,2016-04-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.26,-99,8154,-1%,-$26,4.0,35.0,31.0,54.0,GEVO
+528,D,2016-05-03 17:23:56,2016-04-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,8154,+4%,+$0,4.0,35.0,31.0,54.0,GEVO
+529,D,2016-05-03 17:22:29,2016-04-29,GEVO,Willis Mike,CFO,F - Tax,$0.26,-506,26794,-2%,-$132,4.0,35.0,31.0,54.0,GEVO
+530,D,2016-05-03 17:22:29,2016-04-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,26794,+6%,+$0,4.0,35.0,31.0,54.0,GEVO
+531,D,2016-05-03 17:20:29,2016-04-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.26,-114,2187,-5%,-$30,4.0,35.0,31.0,54.0,GEVO
+532,D,2016-05-03 17:20:29,2016-04-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,2187,+20%,+$0,4.0,35.0,31.0,54.0,GEVO
+533,D,2016-05-03 17:18:47,2016-04-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.26,-114,10547,-1%,-$30,4.0,35.0,31.0,54.0,GEVO
+534,D,2016-05-03 17:18:47,2016-04-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,10547,+4%,+$0,4.0,35.0,31.0,54.0,GEVO
+535,D,2016-05-03 17:17:31,2016-04-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.26,-114,10267,-1%,-$30,4.0,35.0,31.0,54.0,GEVO
+536,D,2016-05-03 17:17:31,2016-04-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,10267,+4%,+$0,4.0,35.0,31.0,54.0,GEVO
+537,,2016-05-03 17:16:01,2016-05-03,GEVO,Willis Mike,CFO,S - Sale,$0.26,-48,26746,0%,-$12,4.0,35.0,31.0,54.0,GEVO
+538,D,2016-05-03 17:13:47,2016-04-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.26,-114,2187,-5%,-$30,4.0,35.0,31.0,54.0,GEVO
+539,D,2016-05-03 17:13:47,2016-04-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,2187,+20%,+$0,4.0,35.0,31.0,54.0,GEVO
+540,,2016-04-19 11:17:14,2016-04-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.26,-70,34991,0%,-$18,4.0,0.0,8.0,50.0,GEVO
+541,,2016-04-13 18:25:33,2016-04-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.26,-16,7936,0%,-$4,0.0,0.0,7.0,65.0,GEVO
+542,,2016-04-13 18:24:59,2016-04-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.26,-121,35061,0%,-$31,0.0,0.0,7.0,65.0,GEVO
+543,,2016-04-13 18:24:34,2016-04-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.26,-108,37894,0%,-$28,0.0,0.0,7.0,65.0,GEVO
+544,,2016-04-13 18:24:08,2016-04-12,GEVO,Willis Mike,CFO,S - Sale,$0.26,-21,25714,0%,-$5,0.0,0.0,7.0,65.0,GEVO
+545,,2016-04-05 11:30:51,2016-04-04,GEVO,Willis Mike,CFO,S - Sale,$0.24,-48,25735,0%,-$12,-8.0,8.0,8.0,100.0,GEVO
+546,D,2016-03-31 16:28:42,2016-03-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.28,-114,10024,-1%,-$32,-7.0,-12.0,-4.0,81.0,GEVO
+547,D,2016-03-31 16:28:42,2016-03-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,10024,+4%,+$0,-7.0,-12.0,-4.0,81.0,GEVO
+548,D,2016-03-31 16:27:19,2016-03-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.28,-114,10304,-1%,-$32,-7.0,-12.0,-4.0,81.0,GEVO
+549,D,2016-03-31 16:27:19,2016-03-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,10304,+4%,+$0,-7.0,-12.0,-4.0,81.0,GEVO
+550,D,2016-03-31 16:25:41,2016-03-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.28,-114,1944,-6%,-$32,-7.0,-12.0,-4.0,81.0,GEVO
+551,D,2016-03-31 16:25:41,2016-03-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,1944,+22%,+$0,-7.0,-12.0,-4.0,81.0,GEVO
+552,D,2016-03-31 16:23:43,2016-03-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.28,-114,1944,-6%,-$32,-7.0,-12.0,-4.0,81.0,GEVO
+553,D,2016-03-31 16:23:43,2016-03-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,1944,+22%,+$0,-7.0,-12.0,-4.0,81.0,GEVO
+554,D,2016-03-31 16:22:41,2016-03-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.28,-98,7952,-1%,-$27,-7.0,-12.0,-4.0,81.0,GEVO
+555,D,2016-03-31 16:22:41,2016-03-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,7952,+4%,+$0,-7.0,-12.0,-4.0,81.0,GEVO
+556,D,2016-03-31 16:21:08,2016-03-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.28,-508,35182,-1%,-$142,-7.0,-12.0,-4.0,81.0,GEVO
+557,D,2016-03-31 16:21:08,2016-03-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,35182,+5%,+$0,-7.0,-12.0,-4.0,81.0,GEVO
+558,D,2016-03-31 16:19:55,2016-03-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.28,-576,38002,-1%,-$161,-7.0,-12.0,-4.0,81.0,GEVO
+559,D,2016-03-31 16:19:55,2016-03-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,38002,+5%,+$0,-7.0,-12.0,-4.0,81.0,GEVO
+560,D,2016-03-31 16:17:01,2016-03-29,GEVO,Willis Mike,CFO,F - Tax,$0.28,-508,25783,-2%,-$142,-7.0,-12.0,-4.0,81.0,GEVO
+561,D,2016-03-31 16:17:01,2016-03-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,25783,+7%,+$0,-7.0,-12.0,-4.0,81.0,GEVO
+562,,2016-03-21 19:06:42,2016-03-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.40,-70,34104,0%,-$28,38.0,24.0,-26.0,24.0,GEVO
+563,,2016-03-16 12:14:43,2016-03-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.36,-142,34174,0%,-$51,6.0,46.0,-23.0,40.0,GEVO
+564,,2016-03-16 12:13:14,2016-03-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.36,-162,36771,0%,-$58,6.0,46.0,-23.0,40.0,GEVO
+565,,2016-03-14 16:49:50,2016-03-14,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.37,-16,7733,0%,-$6,-6.0,2.0,-21.0,31.0,GEVO
+566,,2016-03-14 16:49:14,2016-03-14,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.37,-121,34316,0%,-$45,-6.0,2.0,-21.0,31.0,GEVO
+567,,2016-03-14 16:47:46,2016-03-14,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.37,-108,36933,0%,-$40,-6.0,2.0,-21.0,31.0,GEVO
+568,,2016-03-14 16:46:14,2016-03-14,GEVO,Willis Mike,CFO,S - Sale,$0.37,-21,24705,0%,-$8,-6.0,2.0,-21.0,31.0,GEVO
+569,,2016-03-07 10:52:36,2016-03-03,GEVO,Willis Mike,CFO,S - Sale,$0.40,-48,24726,0%,-$19,7.0,-10.0,-48.0,36.0,GEVO
+570,D,2016-03-01 18:34:34,2016-02-29,GEVO,Willis Mike,CFO,F - Tax,$0.38,-493,24774,-2%,-$187,8.0,16.0,-34.0,32.0,GEVO
+571,D,2016-03-01 18:34:34,2016-02-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,24774,+7%,+$0,8.0,16.0,-34.0,32.0,GEVO
+572,D,2016-03-01 17:33:41,2016-02-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.38,-493,34437,-1%,-$187,8.0,16.0,-34.0,32.0,GEVO
+573,D,2016-03-01 17:33:41,2016-02-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,34437,+5%,+$0,8.0,16.0,-34.0,32.0,GEVO
+574,D,2016-03-01 17:32:11,2016-02-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.38,-99,7749,-1%,-$38,8.0,16.0,-34.0,32.0,GEVO
+575,D,2016-03-01 17:32:11,2016-02-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,7749,+4%,+$0,8.0,16.0,-34.0,32.0,GEVO
+576,D,2016-03-01 17:25:29,2016-02-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.38,-114,10061,-1%,-$43,8.0,16.0,-34.0,32.0,GEVO
+577,D,2016-03-01 17:25:29,2016-02-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,10061,+4%,+$0,8.0,16.0,-34.0,32.0,GEVO
+578,D,2016-03-01 17:23:41,2016-02-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.38,-114,9781,-1%,-$43,8.0,16.0,-34.0,32.0,GEVO
+579,D,2016-03-01 17:23:41,2016-02-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,9781,+4%,+$0,8.0,16.0,-34.0,32.0,GEVO
+580,D,2016-03-01 17:21:26,2016-02-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.38,-114,1701,-6%,-$43,8.0,16.0,-34.0,32.0,GEVO
+581,D,2016-03-01 17:21:26,2016-02-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,1701,+27%,+$0,8.0,16.0,-34.0,32.0,GEVO
+582,D,2016-03-01 17:19:34,2016-02-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.38,-114,1701,-6%,-$43,8.0,16.0,-34.0,32.0,GEVO
+583,D,2016-03-01 17:19:34,2016-02-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,1701,+27%,+$0,8.0,16.0,-34.0,32.0,GEVO
+584,D,2016-03-01 17:16:24,2016-02-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.38,-578,37041,-2%,-$220,8.0,16.0,-34.0,32.0,GEVO
+585,D,2016-03-01 17:16:24,2016-02-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,37041,+5%,+$0,8.0,16.0,-34.0,32.0,GEVO
+586,,2016-02-22 11:16:01,2016-02-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.40,-70,33344,0%,-$28,3.0,3.0,0.0,46.0,GEVO
+587,,2016-02-18 15:03:03,2016-02-16,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.40,-3139,35812,-8%,"-$1,256",-2.0,-10.0,-5.0,29.0,GEVO
+588,,2016-02-18 15:01:58,2016-02-16,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.40,-142,33414,0%,-$57,-2.0,-10.0,-5.0,29.0,GEVO
+589,,2016-02-16 11:16:00,2016-02-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.34,-108,38789,0%,-$37,19.0,9.0,0.0,54.0,GEVO
+590,,2016-02-16 11:14:25,2016-02-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.34,-121,33556,0%,-$41,19.0,9.0,0.0,54.0,GEVO
+591,,2016-02-16 11:12:31,2016-02-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.34,-16,7531,0%,-$5,19.0,9.0,0.0,54.0,GEVO
+592,,2016-02-16 11:10:25,2016-02-12,GEVO,Willis Mike,CFO,S - Sale,$0.34,-21,23681,0%,-$7,19.0,9.0,0.0,54.0,GEVO
+593,,2016-02-03 19:03:12,2016-02-03,GEVO,Willis Mike,CFO,S - Sale,$0.39,-48,23702,0%,-$19,5.0,-13.0,3.0,31.0,GEVO
+594,D,2016-02-02 17:32:53,2016-01-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.48,-114,9538,-1%,-$55,4.0,-8.0,6.0,30.0,GEVO
+595,D,2016-02-02 17:32:53,2016-01-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,9538,+4%,+$0,4.0,-8.0,6.0,30.0,GEVO
+596,D,2016-02-02 17:27:57,2016-01-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.48,-114,1458,-7%,-$55,4.0,-8.0,6.0,30.0,GEVO
+597,D,2016-02-02 17:27:57,2016-01-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,1458,+32%,+$0,4.0,-8.0,6.0,30.0,GEVO
+598,D,2016-02-02 17:26:05,2016-01-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.48,-114,9818,-1%,-$55,4.0,-8.0,6.0,30.0,GEVO
+599,D,2016-02-02 17:26:05,2016-01-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,9818,+4%,+$0,4.0,-8.0,6.0,30.0,GEVO
+600,D,2016-02-02 17:23:06,2016-01-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.48,-114,1458,-7%,-$55,4.0,-8.0,6.0,30.0,GEVO
+601,D,2016-02-02 17:23:06,2016-01-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,1458,+32%,+$0,4.0,-8.0,6.0,30.0,GEVO
+602,D,2016-02-02 17:05:08,2016-01-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.48,-118,7547,-2%,-$57,4.0,-8.0,6.0,30.0,GEVO
+603,D,2016-02-02 17:05:08,2016-01-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,7547,+4%,+$0,4.0,-8.0,6.0,30.0,GEVO
+604,D,2016-02-02 17:03:57,2016-01-29,GEVO,Willis Mike,CFO,F - Tax,$0.48,-590,23750,-2%,-$283,4.0,-8.0,6.0,30.0,GEVO
+605,D,2016-02-02 17:03:57,2016-01-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,23750,+7%,+$0,4.0,-8.0,6.0,30.0,GEVO
+606,D,2016-02-02 17:02:08,2016-01-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.48,-590,33677,-2%,-$283,4.0,-8.0,6.0,30.0,GEVO
+607,D,2016-02-02 17:02:08,2016-01-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,33677,+5%,+$0,4.0,-8.0,6.0,30.0,GEVO
+608,D,2016-02-02 16:59:57,2016-01-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.48,-673,38897,-2%,-$323,4.0,-8.0,6.0,30.0,GEVO
+609,D,2016-02-02 16:59:57,2016-01-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,38897,+5%,+$0,4.0,-8.0,6.0,30.0,GEVO
+610,,2016-01-21 18:40:21,2016-01-21,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.37,-162,37763,0%,-$60,18.0,9.0,-5.0,40.0,GEVO
+611,,2016-01-21 18:37:49,2016-01-21,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.37,-212,32681,-1%,-$78,18.0,9.0,-5.0,40.0,GEVO
+612,,2016-01-13 18:58:04,2016-01-12,GEVO,Willis Mike,CFO,S - Sale,$0.41,-21,22754,0%,-$9,3.0,-14.0,-19.0,37.0,GEVO
+613,,2016-01-13 18:54:33,2016-01-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.41,-141,32893,0%,-$58,3.0,-14.0,-19.0,37.0,GEVO
+614,,2016-01-13 18:30:26,2016-01-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.41,-16,7348,0%,-$7,3.0,-14.0,-19.0,37.0,GEVO
+615,,2016-01-13 18:21:13,2016-01-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.41,-108,37925,0%,-$44,3.0,-14.0,-19.0,37.0,GEVO
+616,,2016-01-06 10:32:54,2016-01-04,GEVO,Willis Mike,CFO,S - Sale,$0.61,-48,22775,0%,-$29,-10.0,-39.0,-36.0,-16.0,GEVO
+617,D,2015-12-31 13:24:36,2015-12-29,GEVO,Mize Gary W.,Dir,F - Tax,$0.66,-114,9295,-1%,-$75,-3.0,-14.0,-34.0,-8.0,GEVO
+618,D,2015-12-31 13:24:36,2015-12-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,9295,+4%,+$0,-3.0,-14.0,-34.0,-8.0,GEVO
+619,D,2015-12-31 13:23:47,2015-12-29,GEVO,Marsh Andrew,Dir,F - Tax,$0.66,-114,1215,-9%,-$75,-3.0,-14.0,-34.0,-8.0,GEVO
+620,D,2015-12-31 13:23:47,2015-12-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,1215,+42%,+$0,-3.0,-14.0,-34.0,-8.0,GEVO
+621,D,2015-12-31 13:22:34,2015-12-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$0.66,-114,1215,-9%,-$75,-3.0,-14.0,-34.0,-8.0,GEVO
+622,D,2015-12-31 13:22:34,2015-12-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,1215,+42%,+$0,-3.0,-14.0,-34.0,-8.0,GEVO
+623,D,2015-12-31 12:52:02,2015-12-29,GEVO,Willis Mike,CFO,F - Tax,$0.66,-507,22823,-2%,-$335,-3.0,-14.0,-34.0,-8.0,GEVO
+624,D,2015-12-31 12:52:02,2015-12-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,22823,+7%,+$0,-3.0,-14.0,-34.0,-8.0,GEVO
+625,D,2015-12-31 12:50:37,2015-12-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$0.66,-101,7364,-1%,-$67,-3.0,-14.0,-34.0,-8.0,GEVO
+626,D,2015-12-31 12:50:37,2015-12-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,7364,+4%,+$0,-3.0,-14.0,-34.0,-8.0,GEVO
+627,D,2015-12-31 12:49:19,2015-12-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$0.66,-507,33034,-2%,-$335,-3.0,-14.0,-34.0,-8.0,GEVO
+628,D,2015-12-31 12:49:19,2015-12-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,33034,+5%,+$0,-3.0,-14.0,-34.0,-8.0,GEVO
+629,D,2015-12-31 12:47:29,2015-12-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$0.66,-578,38033,-1%,-$381,-3.0,-14.0,-34.0,-8.0,GEVO
+630,D,2015-12-31 12:47:29,2015-12-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,38033,+5%,+$0,-3.0,-14.0,-34.0,-8.0,GEVO
+631,D,2015-12-31 12:44:14,2015-12-29,GEVO,Dreessen Ruth,Dir,F - Tax,$0.66,-114,9575,-1%,-$75,-3.0,-14.0,-34.0,-8.0,GEVO
+632,D,2015-12-31 12:44:14,2015-12-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,9575,+4%,+$0,-3.0,-14.0,-34.0,-8.0,GEVO
+633,,2015-12-22 11:28:07,2015-12-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.60,-70,31955,0%,-$42,-4.0,-10.0,-37.0,-30.0,GEVO
+634,,2015-12-16 20:17:21,2015-12-14,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.68,-108,36966,0%,-$73,5.0,15.0,-36.0,-3.0,GEVO
+635,,2015-12-16 20:16:02,2015-12-14,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.68,-121,32167,0%,-$82,5.0,15.0,-36.0,-3.0,GEVO
+636,,2015-12-16 20:10:47,2015-12-14,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.68,-16,7148,0%,-$11,5.0,15.0,-36.0,-3.0,GEVO
+637,,2015-12-16 20:07:21,2015-12-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.65,-162,36804,0%,-$105,5.0,15.0,-36.0,-3.0,GEVO
+638,,2015-12-16 20:04:48,2015-12-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.65,-142,32025,0%,-$92,5.0,15.0,-36.0,-3.0,GEVO
+639,,2015-12-16 19:25:35,2015-12-14,GEVO,Willis Mike,CFO,S - Sale,$0.68,-21,21744,0%,-$14,5.0,15.0,-36.0,-3.0,GEVO
+640,,2015-12-04 11:10:33,2015-12-03,GEVO,Willis Mike,CFO,S - Sale,$1.30,-48,21765,0%,-$62,-1.0,-43.0,-49.0,-69.0,GEVO
+641,D,2015-12-01 18:43:04,2015-11-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$1.43,-578,37074,-2%,-$827,-1.0,-7.0,-49.0,-69.0,GEVO
+642,D,2015-12-01 18:43:04,2015-11-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,37074,+5%,+$0,-1.0,-7.0,-49.0,-69.0,GEVO
+643,D,2015-12-01 18:41:31,2015-11-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$1.43,-507,32288,-2%,-$725,-1.0,-7.0,-49.0,-69.0,GEVO
+644,D,2015-12-01 18:41:31,2015-11-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,32288,+5%,+$0,-1.0,-7.0,-49.0,-69.0,GEVO
+645,D,2015-12-01 18:40:51,2015-11-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$1.43,-101,7164,-1%,-$144,-1.0,-7.0,-49.0,-69.0,GEVO
+646,D,2015-12-01 18:40:51,2015-11-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,7164,+5%,+$0,-1.0,-7.0,-49.0,-69.0,GEVO
+647,D,2015-12-01 18:39:36,2015-11-29,GEVO,Willis Mike,CFO,F - Tax,$1.43,-507,21813,-2%,-$725,-1.0,-7.0,-49.0,-69.0,GEVO
+648,D,2015-12-01 18:39:36,2015-11-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,21813,+8%,+$0,-1.0,-7.0,-49.0,-69.0,GEVO
+649,D,2015-12-01 18:37:41,2015-11-29,GEVO,Dreessen Ruth,Dir,F - Tax,$1.43,-114,9332,-1%,-$163,-1.0,-7.0,-49.0,-69.0,GEVO
+650,D,2015-12-01 18:37:41,2015-11-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,9332,+4%,+$0,-1.0,-7.0,-49.0,-69.0,GEVO
+651,D,2015-12-01 18:37:01,2015-11-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$1.43,-114,972,-10%,-$163,-1.0,-7.0,-49.0,-69.0,GEVO
+652,D,2015-12-01 18:37:01,2015-11-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,972,+58%,+$0,-1.0,-7.0,-49.0,-69.0,GEVO
+653,D,2015-12-01 18:35:57,2015-11-29,GEVO,Marsh Andrew,Dir,F - Tax,$1.43,-114,972,-10%,-$163,-1.0,-7.0,-49.0,-69.0,GEVO
+654,D,2015-12-01 18:35:57,2015-11-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,972,+58%,+$0,-1.0,-7.0,-49.0,-69.0,GEVO
+655,D,2015-12-01 18:32:51,2015-11-29,GEVO,Mize Gary W.,Dir,F - Tax,$1.43,-114,9052,-1%,-$163,-1.0,-7.0,-49.0,-69.0,GEVO
+656,D,2015-12-01 18:32:51,2015-11-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,9052,+4%,+$0,-1.0,-7.0,-49.0,-69.0,GEVO
+657,,2015-11-19 15:08:44,2015-11-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.38,-70,31209,0%,-$97,-7.0,-3.0,-56.0,-78.0,GEVO
+658,,2015-11-17 13:07:17,2015-11-16,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.55,-142,31279,0%,-$220,-7.0,-5.0,-60.0,-78.0,GEVO
+659,,2015-11-17 13:02:22,2015-11-16,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.57,-162,35845,0%,-$254,-7.0,-5.0,-60.0,-78.0,GEVO
+660,,2015-11-13 13:21:33,2015-11-12,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.51,-42,2555,-2%,-$63,-2.0,-7.0,-54.0,-79.0,GEVO
+661,,2015-11-13 13:21:07,2015-11-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.51,-141,31421,0%,-$213,-2.0,-7.0,-54.0,-79.0,GEVO
+662,,2015-11-13 13:20:15,2015-11-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$1.51,-16,6948,0%,-$24,-2.0,-7.0,-54.0,-79.0,GEVO
+663,,2015-11-13 13:19:29,2015-11-12,GEVO,Willis Mike,CFO,S - Sale,$1.51,-21,20734,0%,-$32,-2.0,-7.0,-54.0,-79.0,GEVO
+664,,2015-11-13 13:18:29,2015-11-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.51,-108,36007,0%,-$163,-2.0,-7.0,-54.0,-79.0,GEVO
+665,A,2015-11-12 11:23:12,2015-10-05,GEVO,Mize Gary W.,Dir,F - Tax,$1.86,-228,8566,-3%,-$424,-5.0,-5.0,-56.0,-75.0,GEVO
+666,A,2015-11-12 11:23:12,2015-10-05,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,714,8566,+9%,+$0,-5.0,-5.0,-56.0,-75.0,GEVO
+667,A,2015-11-12 11:20:18,2015-10-05,GEVO,Dreessen Ruth,Dir,F - Tax,$1.86,-228,8846,-3%,-$424,-5.0,-5.0,-56.0,-75.0,GEVO
+668,A,2015-11-12 11:20:18,2015-10-05,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,714,8846,+9%,+$0,-5.0,-5.0,-56.0,-75.0,GEVO
+669,,2015-11-05 16:08:25,2015-11-03,GEVO,Willis Mike,CFO,S - Sale,$1.98,-48,20755,0%,-$95,-11.0,-19.0,-32.0,-81.0,GEVO
+670,D,2015-11-02 17:52:42,2015-10-29,GEVO,Dreessen Ruth,Dir,F - Tax,$2.01,-114,126123,0%,-$229,-2.0,-15.0,-33.0,-87.0,GEVO
+671,D,2015-11-02 17:52:42,2015-10-29,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,357,126123,0%,+$0,-2.0,-15.0,-33.0,-87.0,GEVO
+672,D,2015-11-02 17:52:09,2015-10-29,GEVO,Mize Gary W.,Dir,F - Tax,$2.01,-114,121918,0%,-$229,-2.0,-15.0,-33.0,-87.0,GEVO
+673,D,2015-11-02 17:52:09,2015-10-29,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,357,121918,0%,+$0,-2.0,-15.0,-33.0,-87.0,GEVO
+674,D,2015-11-02 17:51:40,2015-10-29,GEVO,Marsh Andrew,Dir,F - Tax,$2.01,-114,729,-14%,-$229,-2.0,-15.0,-33.0,-87.0,GEVO
+675,D,2015-11-02 17:51:40,2015-10-29,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,357,729,+96%,+$0,-2.0,-15.0,-33.0,-87.0,GEVO
+676,D,2015-11-02 17:49:46,2015-10-29,GEVO,Roth Johannes Minho,Dir,F - Tax,$2.01,-114,729,-14%,-$229,-2.0,-15.0,-33.0,-87.0,GEVO
+677,D,2015-11-02 17:49:46,2015-10-29,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,357,729,+96%,+$0,-2.0,-15.0,-33.0,-87.0,GEVO
+678,D,2015-11-02 17:48:02,2015-10-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$2.01,-101,6964,-1%,-$203,-2.0,-15.0,-33.0,-87.0,GEVO
+679,D,2015-11-02 17:48:02,2015-10-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,6964,+5%,+$0,-2.0,-15.0,-33.0,-87.0,GEVO
+680,D,2015-11-02 17:47:34,2015-10-29,GEVO,Lund Brett,"EVP, GC, Secretary",F - Tax,$2.01,-32,2597,-1%,-$64,-2.0,-15.0,-33.0,-87.0,GEVO
+681,D,2015-11-02 17:47:34,2015-10-29,GEVO,Lund Brett,"EVP, GC, Secretary",M - OptEx,$0.00,101,2597,+4%,+$0,-2.0,-15.0,-33.0,-87.0,GEVO
+682,D,2015-11-02 17:46:50,2015-10-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$2.01,-577,36115,-2%,"-$1,160",-2.0,-15.0,-33.0,-87.0,GEVO
+683,D,2015-11-02 17:46:50,2015-10-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,36115,+5%,+$0,-2.0,-15.0,-33.0,-87.0,GEVO
+684,D,2015-11-02 17:46:19,2015-10-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$2.01,-507,31562,-2%,"-$1,019",-2.0,-15.0,-33.0,-87.0,GEVO
+685,D,2015-11-02 17:46:19,2015-10-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,31562,+5%,+$0,-2.0,-15.0,-33.0,-87.0,GEVO
+686,D,2015-11-02 17:45:21,2015-10-29,GEVO,Willis Mike,CFO,F - Tax,$2.01,-507,20803,-2%,"-$1,019",-2.0,-15.0,-33.0,-87.0,GEVO
+687,D,2015-11-02 17:45:21,2015-10-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,20803,+8%,+$0,-2.0,-15.0,-33.0,-87.0,GEVO
+688,,2015-10-21 18:53:34,2015-10-19,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.17,-70,30483,0%,-$152,1.0,-11.0,-34.0,-90.0,GEVO
+689,,2015-10-19 11:53:51,2015-10-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$2.14,-162,34885,0%,-$347,0.0,2.0,-29.0,-87.0,GEVO
+690,,2015-10-19 11:49:21,2015-10-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.14,-142,30553,0%,-$304,0.0,2.0,-29.0,-87.0,GEVO
+691,,2015-10-19 11:47:14,2015-10-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.14,-283,2528,-10%,-$606,0.0,2.0,-29.0,-87.0,GEVO
+692,,2015-10-14 17:00:16,2015-10-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$2.09,-108,35047,0%,-$226,-1.0,-1.0,-29.0,-90.0,GEVO
+693,,2015-10-14 16:59:13,2015-10-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.10,-121,30695,0%,-$254,-1.0,-1.0,-29.0,-90.0,GEVO
+694,,2015-10-14 16:57:47,2015-10-12,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.10,-42,2811,-1%,-$88,-1.0,-1.0,-29.0,-90.0,GEVO
+695,,2015-10-14 16:55:19,2015-10-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$2.09,-16,6748,0%,-$33,-1.0,-1.0,-29.0,-90.0,GEVO
+696,,2015-10-13 17:06:16,2015-10-12,GEVO,Willis Mike,CFO,S - Sale,$2.09,-21,19724,0%,-$44,2.0,2.0,-26.0,-89.0,GEVO
+697,D,2015-10-13 10:40:05,2015-10-05,GEVO,Roth Johannes Minho,Dir,F - Tax,$1.86,-228,486,-32%,-$424,2.0,4.0,-23.0,-87.0,GEVO
+698,D,2015-10-13 10:40:05,2015-10-05,GEVO,Roth Johannes Minho,Dir,M - OptEx,$0.00,714,486,-313%,+$0,2.0,4.0,-23.0,-87.0,GEVO
+699,D,2015-10-08 11:25:49,2015-10-05,GEVO,Marsh Andrew,Dir,F - Tax,$1.86,-228,486,-32%,-$424,4.0,5.0,-7.0,-87.0,GEVO
+700,D,2015-10-08 11:25:49,2015-10-05,GEVO,Marsh Andrew,Dir,M - OptEx,$0.00,714,486,-313%,+$0,4.0,5.0,-7.0,-87.0,GEVO
+701,D,2015-10-07 18:52:15,2015-10-05,GEVO,Mize Gary W.,Dir,F - Tax,$1.86,-228,121675,0%,-$424,4.0,3.0,-4.0,-88.0,GEVO
+702,D,2015-10-07 18:52:15,2015-10-05,GEVO,Mize Gary W.,Dir,M - OptEx,$0.00,714,121675,+1%,+$0,4.0,3.0,-4.0,-88.0,GEVO
+703,D,2015-10-07 18:50:43,2015-10-05,GEVO,Dreessen Ruth,Dir,F - Tax,$1.86,-228,125880,0%,-$424,4.0,3.0,-4.0,-88.0,GEVO
+704,D,2015-10-07 18:50:43,2015-10-05,GEVO,Dreessen Ruth,Dir,M - OptEx,$0.00,714,125880,+1%,+$0,4.0,3.0,-4.0,-88.0,GEVO
+705,,2015-10-05 21:10:56,2015-10-05,GEVO,Willis Mike,CFO,S - Sale,$1.92,-48,19745,0%,-$92,2.0,7.0,-1.0,-94.0,GEVO
+706,D,2015-10-01 18:05:59,2015-09-29,GEVO,Gruber Patrick R.,CEO,F - Tax,$1.86,-578,35155,-2%,"-$1,075",6.0,14.0,11.0,-91.0,GEVO
+707,D,2015-10-01 18:05:59,2015-09-29,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,35155,+5%,+$0,6.0,14.0,11.0,-91.0,GEVO
+708,D,2015-10-01 18:04:31,2015-09-29,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$1.86,-101,6764,-1%,-$188,6.0,14.0,11.0,-91.0,GEVO
+709,D,2015-10-01 18:04:31,2015-09-29,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,6764,+5%,+$0,6.0,14.0,11.0,-91.0,GEVO
+710,D,2015-10-01 18:02:07,2015-09-29,GEVO,Willis Mike,CFO,F - Tax,$1.86,-507,19793,-2%,-$943,6.0,14.0,11.0,-91.0,GEVO
+711,D,2015-10-01 18:02:07,2015-09-29,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,19793,+9%,+$0,6.0,14.0,11.0,-91.0,GEVO
+712,D,2015-10-01 18:00:03,2015-09-29,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$1.86,-507,30816,-2%,-$943,6.0,14.0,11.0,-91.0,GEVO
+713,D,2015-10-01 18:00:03,2015-09-29,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,30816,+5%,+$0,6.0,14.0,11.0,-91.0,GEVO
+714,D,2015-10-01 17:54:41,2015-09-29,GEVO,Lund Brett,"EVP, GC, Secretary",F - Tax,$1.86,-32,2853,-1%,-$60,6.0,14.0,11.0,-91.0,GEVO
+715,D,2015-10-01 17:54:41,2015-09-29,GEVO,Lund Brett,"EVP, GC, Secretary",M - OptEx,$0.00,101,2853,+4%,+$0,6.0,14.0,11.0,-91.0,GEVO
+716,D,2015-09-23 18:20:53,2015-09-21,GEVO,Lund Brett,"EVP, GC, Secretary",F - Tax,$2.36,-32,2784,-1%,-$76,-1.0,-12.0,3.0,-77.0,GEVO
+717,D,2015-09-23 18:20:53,2015-09-21,GEVO,Lund Brett,"EVP, GC, Secretary",M - OptEx,$0.00,101,2784,+4%,+$0,-1.0,-12.0,3.0,-77.0,GEVO
+718,,2015-09-21 14:42:59,2015-09-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.23,-70,29737,0%,-$156,3.0,-14.0,-5.0,-84.0,GEVO
+719,D,2015-09-17 15:32:12,2015-09-16,GEVO,Roda Gregory,Chief Commercial Officer,F - Tax,$2.23,-101,6548,-2%,-$225,0.0,-6.0,-4.0,-83.0,GEVO
+720,D,2015-09-17 15:32:12,2015-09-16,GEVO,Roda Gregory,Chief Commercial Officer,M - OptEx,$0.00,317,6548,+5%,+$0,0.0,-6.0,-4.0,-83.0,GEVO
+721,D,2015-09-17 15:31:30,2015-09-16,GEVO,Gruber Patrick R.,CEO,F - Tax,$2.23,-578,33926,-2%,"-$1,289",0.0,-6.0,-4.0,-83.0,GEVO
+722,D,2015-09-17 15:31:30,2015-09-16,GEVO,Gruber Patrick R.,CEO,M - OptEx,$0.00,1807,33926,+6%,+$0,0.0,-6.0,-4.0,-83.0,GEVO
+723,D,2015-09-17 15:30:57,2015-09-16,GEVO,Willis Mike,CFO,F - Tax,$2.23,-507,18714,-3%,"-$1,131",0.0,-6.0,-4.0,-83.0,GEVO
+724,D,2015-09-17 15:30:57,2015-09-16,GEVO,Willis Mike,CFO,M - OptEx,$0.00,1586,18714,+9%,+$0,0.0,-6.0,-4.0,-83.0,GEVO
+725,D,2015-09-17 15:29:48,2015-09-16,GEVO,Ryan Christopher Michael,"Pres, COO",F - Tax,$2.23,-507,29807,-2%,"-$1,131",0.0,-6.0,-4.0,-83.0,GEVO
+726,D,2015-09-17 15:29:48,2015-09-16,GEVO,Ryan Christopher Michael,"Pres, COO",M - OptEx,$0.00,1586,29807,+6%,+$0,0.0,-6.0,-4.0,-83.0,GEVO
+727,,2015-09-15 18:30:40,2015-09-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.09,-283,2715,-9%,-$591,-1.0,5.0,-6.0,-90.0,GEVO
+728,,2015-09-15 18:30:01,2015-09-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.09,-142,28728,0%,-$297,-1.0,5.0,-6.0,-90.0,GEVO
+729,,2015-09-15 18:29:01,2015-09-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$2.09,-162,32697,0%,-$339,-1.0,5.0,-6.0,-90.0,GEVO
+730,,2015-09-15 18:26:41,2015-09-14,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$2.19,-16,6332,0%,-$35,-1.0,5.0,-6.0,-90.0,GEVO
+731,,2015-09-15 18:24:41,2015-09-14,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.19,-121,28870,0%,-$265,-1.0,5.0,-6.0,-90.0,GEVO
+732,,2015-09-15 18:24:05,2015-09-14,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.19,-42,2998,-1%,-$92,-1.0,5.0,-6.0,-90.0,GEVO
+733,,2015-09-15 18:22:20,2015-09-14,GEVO,Gruber Patrick R.,CEO,S - Sale,$2.19,-108,32859,0%,-$237,-1.0,5.0,-6.0,-90.0,GEVO
+734,,2015-09-14 17:01:28,2015-09-14,GEVO,Willis Mike,CFO,S - Sale,$2.19,-21,17635,0%,-$46,6.0,8.0,-2.0,-78.0,GEVO
+735,,2015-09-04 17:53:23,2015-09-03,GEVO,Willis Mike,CFO,S - Sale,$2.54,-48,17656,0%,-$122,-1.0,-4.0,-13.0,-82.0,GEVO
+736,,2015-08-18 12:15:19,2015-08-17,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.17,-142,28991,0%,-$308,5.0,10.0,3.0,-81.0,GEVO
+737,,2015-08-18 12:07:09,2015-08-17,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.17,-283,3040,-9%,-$614,5.0,10.0,3.0,-81.0,GEVO
+738,,2015-08-18 12:05:26,2015-08-17,GEVO,Gruber Patrick R.,CEO,S - Sale,$2.17,-161,32967,0%,-$349,5.0,10.0,3.0,-81.0,GEVO
+739,,2015-08-18 12:03:11,2015-08-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.18,-70,28921,0%,-$153,5.0,10.0,3.0,-81.0,GEVO
+740,,2015-08-14 13:19:23,2015-08-12,GEVO,Gruber Patrick R.,CEO,S - Sale,$2.33,-135,33128,0%,-$315,-3.0,3.0,-5.0,-84.0,GEVO
+741,,2015-08-14 13:17:39,2015-08-12,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.33,-121,29133,0%,-$282,-3.0,3.0,-5.0,-84.0,GEVO
+742,,2015-08-14 13:16:22,2015-08-12,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.33,-42,3323,-1%,-$98,-3.0,3.0,-5.0,-84.0,GEVO
+743,,2015-08-14 13:14:56,2015-08-12,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$2.33,-16,6348,0%,-$37,-3.0,3.0,-5.0,-84.0,GEVO
+744,,2015-08-14 13:13:05,2015-08-12,GEVO,Willis Mike,CFO,S - Sale,$2.33,-21,17704,0%,-$49,-3.0,3.0,-5.0,-84.0,GEVO
+745,,2015-08-04 10:51:49,2015-08-03,GEVO,Willis Mike,CFO,S - Sale,$2.67,-48,17725,0%,-$128,-3.0,-11.0,-15.0,-86.0,GEVO
+746,,2015-07-21 10:49:12,2015-07-20,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.11,-70,29254,0%,-$148,-3.0,2.0,14.0,-82.0,GEVO
+747,,2015-07-14 16:19:24,2015-07-13,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$2.70,-16,6364,0%,-$43,1.0,-12.0,4.0,-70.0,GEVO
+748,,2015-07-14 16:17:55,2015-07-13,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.67,-42,3365,-1%,-$112,1.0,-12.0,4.0,-70.0,GEVO
+749,,2015-07-14 16:16:25,2015-07-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.68,-121,29324,0%,-$324,1.0,-12.0,4.0,-70.0,GEVO
+750,,2015-07-14 16:14:36,2015-07-13,GEVO,Willis Mike,CFO,S - Sale,$2.70,-21,17773,0%,-$57,1.0,-12.0,4.0,-70.0,GEVO
+751,,2015-07-14 16:12:41,2015-07-13,GEVO,Gruber Patrick R.,CEO,S - Sale,$2.59,-108,33263,0%,-$280,1.0,-12.0,4.0,-70.0,GEVO
+752,,2015-07-10 16:29:54,2015-07-08,GEVO,Willis Mike,CFO,S - Sale,$2.29,-50001,17794,-74%,"-$114,502",-4.0,-18.0,-12.0,-88.0,GEVO
+753,,2015-07-10 16:28:25,2015-07-08,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$2.46,-46865,6830,-87%,"-$115,288",-4.0,-18.0,-12.0,-88.0,GEVO
+754,,2015-07-10 16:27:41,2015-07-08,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.34,-55329,29445,-65%,"-$129,470",-4.0,-18.0,-12.0,-88.0,GEVO
+755,,2015-07-10 16:26:34,2015-07-08,GEVO,Gruber Patrick R.,CEO,S - Sale,$2.33,-96982,33371,-74%,"-$225,968",-4.0,-18.0,-12.0,-88.0,GEVO
+756,,2015-07-10 16:25:58,2015-07-08,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.33,-62574,3407,-95%,"-$145,797",-4.0,-18.0,-12.0,-88.0,GEVO
+757,,2015-07-07 13:26:45,2015-07-06,GEVO,Willis Mike,CFO,S - Sale,$3.02,-48,7342,-1%,-$145,-8.0,-17.0,-13.0,-79.0,GEVO
+758,,2015-06-22 16:57:58,2015-06-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$3.66,-70,20807,0%,-$256,-2.0,0.0,-47.0,-80.0,GEVO
+759,,2015-06-22 16:57:00,2015-06-18,GEVO,Gruber Patrick R.,CEO,S - Sale,$3.66,-162,18563,-1%,-$593,-2.0,0.0,-47.0,-80.0,GEVO
+760,A,2015-06-17 18:27:40,2015-06-15,GEVO,Willis Mike,CFO,S - Sale,$3.72,-69,7390,-1%,-$257,-4.0,-4.0,-41.0,-84.0,GEVO
+761,A,2015-06-17 18:26:12,2015-06-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$3.72,-263,20877,-1%,-$978,-4.0,-4.0,-41.0,-84.0,GEVO
+762,A,2015-06-17 18:22:34,2015-06-15,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$3.72,-16,2474,-1%,-$60,-4.0,-4.0,-41.0,-84.0,GEVO
+763,A,2015-06-17 18:17:31,2015-06-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$3.72,-325,3407,-9%,"-$1,209",-4.0,-4.0,-41.0,-84.0,GEVO
+764,A,2015-06-17 18:03:00,2015-06-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$3.72,-270,18725,-1%,"-$1,004",-4.0,-4.0,-41.0,-84.0,GEVO
+765,,2015-06-17 17:25:12,2015-06-15,GEVO,Willis Mike,CFO,S - Sale,$3.72,-69,7390,-1%,-$257,-4.0,-4.0,-41.0,-84.0,GEVO
+766,,2015-06-17 15:06:35,2015-06-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$3.72,-263,20877,-1%,-$978,3.0,-1.0,-39.0,-82.0,GEVO
+767,,2015-06-17 15:05:32,2015-06-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$3.72,-325,3407,-9%,"-$1,209",3.0,-1.0,-39.0,-82.0,GEVO
+768,,2015-06-17 15:04:55,2015-06-15,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$3.72,-16,2474,-1%,-$60,3.0,-1.0,-39.0,-82.0,GEVO
+769,,2015-06-17 15:03:48,2015-06-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$3.72,-270,18725,-1%,"-$1,004",3.0,-1.0,-39.0,-82.0,GEVO
+770,,2015-05-21 15:55:53,2015-05-08,GEVO,Kishore Ganesh,Dir,S - Sale,$5.46,-33405,102716,-25%,"-$182,235",-6.0,12.0,20.0,-56.0,GEVO
+771,,2015-05-21 10:26:16,2015-05-19,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$3.76,-70,21140,0%,-$263,-6.0,12.0,20.0,-56.0,GEVO
+772,,2015-05-21 10:25:16,2015-05-18,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$3.89,-283,3732,-7%,"-$1,101",-6.0,12.0,20.0,-56.0,GEVO
+773,,2015-05-20 18:45:24,2015-05-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$3.89,-142,21210,-1%,-$552,-6.0,-4.0,13.0,-50.0,GEVO
+774,,2015-05-15 13:02:20,2015-05-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$5.51,-121,21352,-1%,-$667,2.0,-23.0,-4.0,-60.0,GEVO
+775,,2015-05-14 10:54:22,2015-05-13,GEVO,Willis Mike,CFO,S - Sale,$5.51,-20,7459,0%,-$110,-13.0,-28.0,-14.0,-64.0,GEVO
+776,,2015-05-14 10:53:42,2015-05-13,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$5.51,-16,2490,-1%,-$88,-13.0,-28.0,-14.0,-64.0,GEVO
+777,,2015-05-14 10:52:59,2015-05-13,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$5.51,-41,4015,-1%,-$226,-13.0,-28.0,-14.0,-64.0,GEVO
+778,,2015-05-14 10:52:25,2015-05-13,GEVO,Gruber Patrick R.,CEO,S - Sale,$5.08,-270,18995,-1%,"-$1,372",-13.0,-28.0,-14.0,-64.0,GEVO
+779,,2015-05-11 12:06:33,2015-05-07,GEVO,Gruber Patrick R.,CEO,S - Sale,$4.50,-1432,19225,-7%,"-$6,444",-14.0,-25.0,-29.0,-64.0,GEVO
+780,,2015-05-07 16:57:15,2015-05-05,GEVO,Willis Mike,CFO,S - Sale,$2.72,-48,7479,-1%,-$131,9.0,-16.0,-47.0,-118.0,GEVO
+781,,2015-04-27 18:32:48,2015-04-22,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.10,-70,319894,0%,-$147,-5.0,-3.0,16.0,-12.0,GEVO
+782,,2015-04-20 16:35:44,2015-04-16,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.18,-2119,319964,-1%,-$391,-21.0,6.0,44.0,-14.0,GEVO
+783,,2015-04-20 16:35:14,2015-04-16,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.18,-4238,61349,-6%,-$782,-21.0,6.0,44.0,-14.0,GEVO
+784,,2015-04-16 15:58:14,2015-04-14,GEVO,Willis Mike,CFO,S - Sale,$0.20,-306,112897,0%,-$60,-10.0,-7.0,30.0,-29.0,GEVO
+785,,2015-04-16 15:57:48,2015-04-14,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.20,-1809,322083,-1%,-$353,-10.0,-7.0,30.0,-29.0,GEVO
+786,,2015-04-16 15:57:16,2015-04-14,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.20,-238,33856,-1%,-$46,-10.0,-7.0,30.0,-29.0,GEVO
+787,,2015-04-16 15:56:29,2015-04-14,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.20,-619,65587,-1%,-$121,-10.0,-7.0,30.0,-29.0,GEVO
+788,,2015-04-10 11:15:44,2015-04-09,GEVO,Willis Mike,CFO,S - Sale,$0.19,-713,113203,-1%,-$139,0.0,-10.0,77.0,-31.0,GEVO
+789,,2015-03-25 15:52:04,2015-03-19,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.24,-1042,323892,0%,-$252,-7.0,-26.0,-30.0,-46.0,GEVO
+790,,2015-03-19 12:02:57,2015-03-13,GEVO,Willis Mike,CFO,S - Sale,$0.25,-306,113916,0%,-$76,0.0,4.0,-21.0,-38.0,GEVO
+791,,2015-03-19 12:01:24,2015-03-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.24,-1809,327492,-1%,-$441,0.0,4.0,-21.0,-38.0,GEVO
+792,,2015-03-19 12:00:56,2015-03-17,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.24,-2558,324934,-1%,-$617,0.0,4.0,-21.0,-38.0,GEVO
+793,,2015-03-19 11:59:16,2015-03-13,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.25,-238,34094,-1%,-$59,0.0,4.0,-21.0,-38.0,GEVO
+794,,2015-03-19 11:55:35,2015-03-13,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.24,-619,70924,-1%,-$152,0.0,4.0,-21.0,-38.0,GEVO
+795,,2015-03-19 11:54:44,2015-03-17,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.24,-4718,66206,-7%,"-$1,138",0.0,4.0,-21.0,-38.0,GEVO
+796,,2015-03-10 10:58:55,2015-03-09,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.30,-7308,309942,-2%,"-$2,192",-7.0,-11.0,-29.0,-45.0,GEVO
+797,,2015-02-20 18:11:38,2015-02-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.26,-2558,330343,-1%,-$674,-4.0,0.0,-13.0,-44.0,GEVO
+798,,2015-02-20 18:10:50,2015-02-19,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.23,-1042,329301,0%,-$242,-4.0,0.0,-13.0,-44.0,GEVO
+799,,2015-02-20 18:10:04,2015-02-17,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.30,-4046,317250,-1%,"-$1,214",-4.0,0.0,-13.0,-44.0,GEVO
+800,,2015-02-19 17:33:47,2015-02-18,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.26,-4717,71543,-6%,"-$1,238",12.0,4.0,0.0,-37.0,GEVO
+801,,2015-02-17 17:26:38,2015-02-13,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.22,-238,34332,-1%,-$52,-14.0,-8.0,-17.0,-58.0,GEVO
+802,,2015-02-17 17:25:31,2015-02-13,GEVO,Willis Mike,CFO,S - Sale,$0.22,-306,114222,0%,-$69,-14.0,-8.0,-17.0,-58.0,GEVO
+803,,2015-02-17 17:23:44,2015-02-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.22,-1809,332901,-1%,-$404,-14.0,-8.0,-17.0,-58.0,GEVO
+804,,2015-02-17 17:17:24,2015-02-13,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.22,-619,76260,-1%,-$138,-14.0,-8.0,-17.0,-58.0,GEVO
+805,,2015-02-09 13:30:43,2015-02-04,GEVO,Willis Mike,CFO,S - Sale,$0.13,-713,114528,-1%,-$95,-7.0,64.0,86.0,15.0,GEVO
+806,,2015-02-02 17:34:22,2015-01-29,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.14,-1042,334710,0%,-$145,-8.0,7.0,92.0,35.0,GEVO
+807,,2015-01-20 15:27:23,2015-01-16,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.29,-2119,335752,-1%,-$615,1.0,-3.0,-20.0,-56.0,GEVO
+808,,2015-01-20 15:26:01,2015-01-16,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.31,-6054,321296,-2%,"-$1,877",1.0,-3.0,-20.0,-56.0,GEVO
+809,,2015-01-20 15:24:44,2015-01-16,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.29,-4238,76879,-5%,"-$1,229",1.0,-3.0,-20.0,-56.0,GEVO
+810,,2015-01-16 19:29:26,2015-01-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.31,-440,337871,0%,-$136,0.0,-3.0,-6.0,-47.0,GEVO
+811,M,2015-01-16 16:58:10,2015-01-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.32,-5301,328605,-2%,"-$1,671",0.0,-3.0,-6.0,-47.0,GEVO
+812,,2015-01-16 16:53:34,2015-01-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.30,-480,81117,-1%,-$144,0.0,-3.0,-6.0,-47.0,GEVO
+813,A,2015-01-15 12:07:26,2015-01-06,GEVO,Willis Mike,CFO,S - Sale,$0.32,-713,115547,-1%,-$228,3.0,-6.0,-26.0,-51.0,GEVO
+814,,2015-01-14 15:56:21,2015-01-13,GEVO,Willis Mike,CFO,S - Sale,$0.33,-306,115241,0%,-$101,-6.0,-9.0,-39.0,-53.0,GEVO
+815,,2015-01-14 15:55:29,2015-01-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.32,-1809,338311,-1%,-$579,-6.0,-9.0,-39.0,-53.0,GEVO
+816,,2015-01-14 15:54:37,2015-01-13,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.33,-238,34570,-1%,-$79,-6.0,-9.0,-39.0,-53.0,GEVO
+817,,2015-01-14 15:53:05,2015-01-13,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.32,-619,81597,-1%,-$198,-6.0,-9.0,-39.0,-53.0,GEVO
+818,,2015-01-06 17:17:10,2014-01-06,GEVO,Willis Mike,CFO,S - Sale,$0.32,-713,115547,-1%,-$228,-6.0,-6.0,-60.0,-42.0,GEVO
+819,,2014-12-19 20:59:57,2014-12-19,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.30,-1042,340120,0%,-$313,3.0,17.0,-7.0,-25.0,GEVO
+820,,2014-12-18 17:10:55,2014-12-17,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.30,-7309,332651,-2%,"-$2,193",10.0,28.0,3.0,-11.0,GEVO
+821,,2014-12-17 11:32:00,2014-12-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.30,-4047,339960,-1%,"-$1,214",2.0,31.0,3.0,-16.0,GEVO
+822,,2014-12-17 10:59:54,2014-12-15,GEVO,Willis Mike,CFO,S - Sale,$0.29,-306,116260,0%,-$89,2.0,31.0,3.0,-16.0,GEVO
+823,M,2014-12-16 18:03:06,2014-12-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.27,-4367,341162,-1%,"-$1,197",0.0,14.0,11.0,-13.0,GEVO
+824,M,2014-12-16 18:02:32,2014-12-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.27,-5337,82216,-6%,"-$1,447",0.0,14.0,11.0,-13.0,GEVO
+825,,2014-12-16 13:39:12,2014-12-15,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.29,-238,34808,-1%,-$69,4.0,18.0,14.0,-10.0,GEVO
+826,,2014-12-05 12:30:19,2014-12-04,GEVO,Willis Mike,CFO,S - Sale,$0.38,-713,116566,-1%,-$271,-3.0,-21.0,-11.0,-35.0,GEVO
+827,M,2014-11-20 10:37:33,2014-11-17,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.40,-10673,87553,-11%,"-$4,222",13.0,32.0,-16.0,-45.0,GEVO
+828,M,2014-11-19 17:23:17,2014-11-17,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.40,-3601,345529,-1%,"-$1,434",13.0,28.0,-23.0,-46.0,GEVO
+829,,2014-11-17 13:23:34,2014-11-13,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.36,-619,98226,-1%,-$223,0.0,10.0,-29.0,-45.0,GEVO
+830,,2014-11-17 13:22:34,2014-11-13,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.37,-238,35046,-1%,-$88,0.0,10.0,-29.0,-45.0,GEVO
+831,,2014-11-17 11:32:20,2014-11-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.36,-1809,349130,-1%,-$651,0.0,10.0,-29.0,-45.0,GEVO
+832,,2014-11-14 20:50:36,2014-11-13,GEVO,Willis Mike,CFO,S - Sale,$0.37,-306,117279,0%,-$113,0.0,6.0,-36.0,-43.0,GEVO
+833,,2014-11-04 21:29:37,2014-11-04,GEVO,Willis Mike,CFO,S - Sale,$0.33,-713,117585,-1%,-$235,-7.0,-1.0,21.0,-53.0,GEVO
+834,,2014-10-22 09:54:38,2014-10-14,GEVO,Willis Mike,CFO,S - Sale,$0.26,-306,118298,0%,-$80,6.0,13.0,19.0,-41.0,GEVO
+835,,2014-10-21 18:03:08,2014-10-21,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.33,-1042,350939,0%,-$344,6.0,17.0,23.0,-45.0,GEVO
+836,,2014-10-16 21:16:57,2014-10-14,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.26,-618,98845,-1%,-$161,4.0,21.0,28.0,-31.0,GEVO
+837,,2014-10-16 18:04:06,2014-10-14,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.26,-238,35284,-1%,-$62,4.0,21.0,28.0,-31.0,GEVO
+838,M,2014-10-16 17:50:14,2014-10-14,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.29,-4367,351981,-1%,"-$1,247",4.0,21.0,28.0,-31.0,GEVO
+839,,2014-10-07 15:35:05,2014-10-06,GEVO,Willis Mike,CFO,S - Sale,$0.28,-713,118604,-1%,-$200,-7.0,-4.0,18.0,-29.0,GEVO
+840,,2014-09-22 18:59:23,2014-09-22,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.40,-1402,356348,0%,-$561,2.0,-20.0,-30.0,-43.0,GEVO
+841,M,2014-09-17 19:08:49,2014-09-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.43,-11353,344007,-3%,"-$4,922",-15.0,4.0,-28.0,-40.0,GEVO
+842,,2014-09-17 16:20:19,2014-09-15,GEVO,Willis Mike,CFO,S - Sale,$0.45,-306,119317,0%,-$138,-15.0,4.0,-28.0,-40.0,GEVO
+843,M,2014-09-17 16:20:01,2014-09-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.43,-4367,357750,-1%,"-$1,896",-15.0,4.0,-28.0,-40.0,GEVO
+844,,2014-09-17 16:19:40,2014-09-15,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.45,-238,35522,-1%,-$107,-15.0,4.0,-28.0,-40.0,GEVO
+845,M,2014-09-17 12:36:25,2014-09-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.43,-5337,99463,-5%,"-$2,307",-4.0,0.0,-33.0,-44.0,GEVO
+846,,2014-09-05 14:07:14,2014-09-04,GEVO,Willis Mike,CFO,S - Sale,$0.49,-713,119623,-1%,-$349,-8.0,-4.0,-39.0,-49.0,GEVO
+847,,2014-08-22 17:27:03,2014-08-20,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.46,-1042,362117,0%,-$479,0.0,4.0,-7.0,-42.0,GEVO
+848,M,2014-08-18 17:22:46,2014-08-13,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.47,-11356,355361,-3%,"-$5,305",2.0,-3.0,-7.0,-40.0,GEVO
+849,M,2014-08-18 17:22:29,2014-08-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.47,-4368,363159,-1%,"-$2,045",2.0,-3.0,-7.0,-40.0,GEVO
+850,,2014-08-18 17:21:49,2014-08-18,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.46,-4238,104800,-4%,"-$1,949",2.0,-3.0,-7.0,-40.0,GEVO
+851,M,2014-08-18 11:52:40,2014-08-13,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.47,-1099,109038,-1%,-$518,0.0,-2.0,-7.0,-39.0,GEVO
+852,,2014-08-15 17:15:11,2014-08-13,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.49,-238,35760,-1%,-$117,0.0,-2.0,-6.0,-48.0,GEVO
+853,,2014-08-15 17:14:49,2014-08-13,GEVO,Willis Mike,CFO,S - Sale,$0.48,-306,120336,0%,-$147,0.0,-2.0,-6.0,-48.0,GEVO
+854,,2014-08-05 18:03:43,2014-08-05,GEVO,Willis Mike,CFO,S - Sale,$0.49,-713,120642,-1%,-$349,0.0,0.0,2.0,-76.0,GEVO
+855,,2014-07-23 14:36:50,2014-07-01,GEVO,Kishore Ganesh,Dir,A - Grant,$0.00,56818,146113,+64%,+$0,-16.0,0.0,-36.0,-57.0,GEVO
+856,,2014-07-21 18:53:13,2014-07-21,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.74,-1042,367527,0%,-$771,-3.0,-7.0,-34.0,-55.0,GEVO
+857,,2014-07-21 16:46:11,2014-07-01,GEVO,Smith Bruce A,Dir,A - Grant,$0.00,56818,151113,+60%,+$0,-3.0,-7.0,-34.0,-55.0,GEVO
+858,,2014-07-21 16:45:55,2014-07-01,GEVO,Dreessen Ruth,Dir,A - Grant,$0.00,68182,125394,+119%,+$0,-3.0,-7.0,-34.0,-55.0,GEVO
+859,,2014-07-21 16:45:42,2014-07-01,GEVO,Mize Gary W.,Dir,A - Grant,$0.00,56818,121189,+88%,+$0,-3.0,-7.0,-34.0,-55.0,GEVO
+860,,2014-07-21 16:45:24,2014-07-01,GEVO,Cabrera Carlos A.,Dir,A - Grant,$0.00,56818,99076,+134%,+$0,-3.0,-7.0,-34.0,-55.0,GEVO
+861,,2014-07-17 15:07:13,2014-07-16,GEVO,Lund Brett,"GC, Secretary",S - Sale,$0.78,-4238,110137,-4%,"-$3,306",-3.0,-23.0,-38.0,-60.0,GEVO
+862,,2014-07-16 18:18:37,2014-07-15,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.80,-238,35998,-1%,-$190,-3.0,-9.0,-35.0,-55.0,GEVO
+863,M,2014-07-16 18:18:15,2014-07-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.80,-4367,368568,-1%,"-$3,474",-3.0,-9.0,-35.0,-55.0,GEVO
+864,M,2014-07-16 18:17:52,2014-07-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.79,-11355,366717,-3%,"-$8,963",-3.0,-9.0,-35.0,-55.0,GEVO
+865,,2014-07-16 13:03:50,2014-07-15,GEVO,Lund Brett,"GC, Secretary",S - Sale,$0.81,-1098,114375,-1%,-$889,-4.0,-13.0,-39.0,-59.0,GEVO
+866,,2014-07-16 13:03:13,2014-07-15,GEVO,Willis Mike,CFO,S - Sale,$0.80,-306,121355,0%,-$245,-4.0,-13.0,-39.0,-59.0,GEVO
+867,,2014-07-15 14:11:37,2014-07-07,GEVO,Willis Mike,CFO,S - Sale,$0.88,-713,121661,-1%,-$627,-4.0,-13.0,-40.0,-61.0,GEVO
+868,,2014-06-19 21:01:29,2014-06-18,GEVO,Willis Mike,CFO,S - Sale,$0.94,-18167,122374,-13%,"-$17,077",-1.0,-3.0,-16.0,-67.0,GEVO
+869,,2014-06-19 19:43:25,2014-06-17,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.95,-4718,115473,-4%,"-$4,482",-1.0,-3.0,-16.0,-67.0,GEVO
+870,,2014-06-19 19:43:14,2014-06-17,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.96,-7309,378072,-2%,"-$7,017",-1.0,-3.0,-16.0,-67.0,GEVO
+871,M,2014-06-19 19:43:03,2014-06-17,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.95,-3600,372936,-1%,"-$3,425",-1.0,-3.0,-16.0,-67.0,GEVO
+872,,2014-06-19 19:42:47,2014-06-18,GEVO,Roda Gregory,Chief Commercial Officer,S - Sale,$0.94,-4298,36236,-11%,"-$4,040",-1.0,-3.0,-16.0,-67.0,GEVO
+873,,2014-06-17 19:25:18,2014-06-13,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.95,-2023,385381,-1%,"-$1,922",-5.0,-9.0,-21.0,-69.0,GEVO
+874,,2014-06-17 19:25:04,2014-06-13,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.95,-619,120191,-1%,-$588,-5.0,-9.0,-21.0,-69.0,GEVO
+875,,2014-06-17 19:24:55,2014-06-13,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.95,-1809,376566,0%,"-$1,719",-5.0,-9.0,-21.0,-69.0,GEVO
+876,,2014-05-30 17:08:21,2014-05-28,GEVO,Gruber Patrick R.,CEO,A - Grant,$0.00,54945,829753,+7%,+$0,-2.0,-9.0,-9.0,-47.0,GEVO
+877,,2014-05-30 17:08:21,2014-05-29,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.92,-54945,829753,-6%,"-$50,549",-2.0,-9.0,-9.0,-47.0,GEVO
+878,,2014-05-30 17:08:09,2014-05-28,GEVO,Ryan Christopher Michael,"Pres, COO",A - Grant,$0.00,29451,378375,+8%,+$0,-2.0,-9.0,-9.0,-47.0,GEVO
+879,,2014-05-30 17:08:09,2014-05-29,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.95,-29451,378375,-7%,"-$27,978",-2.0,-9.0,-9.0,-47.0,GEVO
+880,,2014-05-30 17:07:32,2014-05-28,GEVO,Lund Brett,"EVP, GC, Secretary",A - Grant,$0.00,28571,120810,+31%,+$0,-2.0,-9.0,-9.0,-47.0,GEVO
+881,,2014-05-30 17:07:32,2014-05-29,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.95,-28571,120810,-19%,"-$27,142",-2.0,-9.0,-9.0,-47.0,GEVO
+882,,2014-05-30 17:06:59,2014-05-28,GEVO,Roda Gregory,Chief Commercial Officer,A - Grant,$0.00,8595,40534,+27%,+$0,-2.0,-9.0,-9.0,-47.0,GEVO
+883,,2014-05-30 17:06:43,2014-05-28,GEVO,Willis Mike,CFO,A - Grant,$0.00,118726,140541,+544%,+$0,-2.0,-9.0,-9.0,-47.0,GEVO
+884,M,2014-05-19 20:03:18,2014-05-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.98,-7308,780862,-1%,"-$7,126",-2.0,1.0,5.0,-58.0,GEVO
+885,M,2014-05-19 20:02:47,2014-05-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.97,-4718,120810,-4%,"-$4,591",-2.0,1.0,5.0,-58.0,GEVO
+886,,2014-04-24 16:43:17,2014-04-22,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.00,-1042,378375,0%,"-$1,042",-3.0,-11.0,-21.0,-76.0,GEVO
+887,M,2014-04-17 20:21:25,2014-04-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$0.81,-2558,379417,-1%,"-$2,073",-7.0,26.0,3.0,-77.0,GEVO
+888,M,2014-04-17 20:21:15,2014-04-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$0.81,-7310,795479,-1%,"-$5,898",-7.0,26.0,3.0,-77.0,GEVO
+889,M,2014-04-17 20:21:04,2014-04-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.81,-4717,125528,-4%,"-$3,802",-7.0,26.0,3.0,-77.0,GEVO
+890,,2014-03-27 19:22:31,2014-03-25,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.29,-472,381975,0%,-$609,1.0,4.0,-4.0,-69.0,GEVO
+891,,2014-03-27 19:22:14,2014-03-25,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.28,-515,130245,0%,-$659,1.0,4.0,-4.0,-69.0,GEVO
+892,,2014-03-19 20:45:39,2014-03-18,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.35,-4718,130760,-3%,"-$6,369",2.0,-4.0,-35.0,-64.0,GEVO
+893,,2014-03-19 20:45:28,2014-03-18,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.35,-7309,402022,-2%,"-$9,867",2.0,-4.0,-35.0,-64.0,GEVO
+894,M,2014-03-19 20:45:16,2014-03-18,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.35,-3601,382447,-1%,"-$4,851",2.0,-4.0,-35.0,-64.0,GEVO
+895,D,2014-03-14 19:50:31,2014-03-12,GEVO,Lund Brett,"EVP, GC, Secretary",A - Grant,$0.00,22261,135478,+20%,+$0,-3.0,-8.0,-22.0,-68.0,GEVO
+896,D,2014-03-14 19:49:12,2014-03-12,GEVO,Roda Gregory,Chief Commercial Officer,A - Grant,$0.00,17124,31939,+116%,+$0,-3.0,-8.0,-22.0,-68.0,GEVO
+897,D,2014-03-14 19:49:00,2014-03-12,GEVO,Ryan Christopher Michael,"Pres, COO",A - Grant,$0.00,130137,386048,+51%,+$0,-3.0,-8.0,-22.0,-68.0,GEVO
+898,D,2014-03-14 19:45:13,2014-03-12,GEVO,Gruber Patrick R.,CEO,A - Grant,$0.00,145548,409331,+55%,+$0,-3.0,-8.0,-22.0,-68.0,GEVO
+899,,2014-02-27 17:31:18,2014-02-25,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.32,-472,255911,0%,-$623,-5.0,-7.0,-20.0,-72.0,GEVO
+900,,2014-02-27 17:31:06,2014-02-25,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.32,-515,113217,0%,-$680,-5.0,-7.0,-20.0,-72.0,GEVO
+901,,2014-02-21 16:58:33,2014-02-19,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.27,-4718,113732,-4%,"-$5,992",7.0,18.0,9.0,-63.0,GEVO
+902,,2014-02-21 16:57:50,2014-02-19,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.27,-7308,263783,-3%,"-$9,281",7.0,18.0,9.0,-63.0,GEVO
+903,,2014-02-21 16:56:59,2014-02-19,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.27,-3600,256383,-1%,"-$4,572",7.0,18.0,9.0,-63.0,GEVO
+904,,2014-01-24 17:42:36,2014-01-24,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.26,-515,118450,0%,-$649,-6.0,7.0,1.0,-53.0,GEVO
+905,M,2014-01-24 17:42:18,2014-01-22,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.32,-1514,259983,-1%,"-$1,991",-6.0,7.0,1.0,-53.0,GEVO
+906,M,2014-01-17 18:06:10,2014-01-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$0.13,-4717,118965,-4%,-$618,3.0,-2.0,-1.0,-42.0,GEVO
+907,M,2014-01-17 18:06:00,2014-01-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.29,-7310,271091,-3%,"-$9,430",3.0,-2.0,-1.0,-42.0,GEVO
+908,M,2014-01-17 18:05:49,2014-01-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.29,-2558,261497,-1%,"-$3,300",3.0,-2.0,-1.0,-42.0,GEVO
+909,,2013-12-27 17:21:14,2013-12-24,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.30,-471,264055,0%,-$612,2.0,-1.0,-12.0,-41.0,GEVO
+910,,2013-12-27 17:20:58,2013-12-24,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.30,-515,123682,0%,-$670,2.0,-1.0,-12.0,-41.0,GEVO
+911,M,2013-12-19 18:12:54,2013-12-17,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.19,-3600,264526,-1%,"-$4,269",-1.0,5.0,5.0,-32.0,GEVO
+912,D,2013-12-18 19:02:54,2013-12-16,GEVO,Willis Mike,Interim CFO,P - Purchase,$0.00,14815,21815,+212%,+$0,9.0,12.0,11.0,-22.0,GEVO
+913,D,2013-12-18 19:02:39,2013-12-16,GEVO,Roda Gregory,Chief Commercial Officer,P - Purchase,$0.00,18519,18519,New,+$0,9.0,12.0,11.0,-22.0,GEVO
+914,D,2013-12-18 19:02:25,2013-12-16,GEVO,Smith Stacy J,Dir,P - Purchase,$0.00,18519,65777,+39%,+$0,9.0,12.0,11.0,-22.0,GEVO
+915,D,2013-12-18 19:02:11,2013-12-16,GEVO,Mize Gary W.,Dir,P - Purchase,$0.00,18519,64371,+40%,+$0,9.0,12.0,11.0,-22.0,GEVO
+916,D,2013-12-18 19:01:56,2013-12-16,GEVO,Dreessen Ruth,Dir,P - Purchase,$0.00,18519,57212,+48%,+$0,9.0,12.0,11.0,-22.0,GEVO
+917,D,2013-12-18 19:00:40,2013-12-16,GEVO,Smith Bruce A,Dir,P - Purchase,$0.00,37037,94295,+65%,+$0,9.0,12.0,11.0,-22.0,GEVO
+918,D,2013-12-18 19:00:09,2013-12-16,GEVO,Weiss Shai,Dir,P - Purchase,$0.00,388889,3142807,+14%,+$0,9.0,12.0,11.0,-22.0,GEVO
+919,D,2013-12-18 18:59:48,2013-12-16,GEVO,Kishore Ganesh,Dir,P - Purchase,$0.00,407407,2131090,+24%,+$0,9.0,12.0,11.0,-22.0,GEVO
+920,,2013-12-18 18:59:11,2013-12-17,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.18,-4718,124197,-4%,"-$5,567",9.0,12.0,11.0,-22.0,GEVO
+921,,2013-12-18 18:58:40,2013-12-17,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.18,-7308,278401,-3%,"-$8,623",9.0,12.0,11.0,-22.0,GEVO
+922,D,2013-12-13 19:47:29,2013-12-11,GEVO,"Khosla Ventures Iii, L.P.",10%,P - Purchase,$0.00,2222222,1111111,-200%,+$0,-3.0,8.0,9.0,-19.0,GEVO
+923,,2013-11-27 17:04:54,2013-11-26,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.68,-515,128915,0%,-$865,-2.0,-1.0,-26.0,-54.0,GEVO
+924,,2013-11-27 17:04:38,2013-11-26,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.67,-472,268126,0%,-$788,-2.0,-1.0,-26.0,-54.0,GEVO
+925,M,2013-11-19 18:40:58,2013-11-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.55,-3600,268598,-1%,"-$5,598",-1.0,11.0,-21.0,-39.0,GEVO
+926,M,2013-11-19 18:40:44,2013-11-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.60,-4718,129430,-4%,"-$7,543",-1.0,11.0,-21.0,-39.0,GEVO
+927,M,2013-11-19 18:40:30,2013-11-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.61,-7310,285709,-2%,"-$11,744",-1.0,11.0,-21.0,-39.0,GEVO
+928,,2013-10-28 21:02:52,2013-10-24,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.75,-515,134148,0%,-$901,1.0,-6.0,-8.0,-44.0,GEVO
+929,,2013-10-28 20:59:56,2013-10-24,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.74,-472,271726,0%,-$821,1.0,-6.0,-8.0,-44.0,GEVO
+930,,2013-10-23 20:05:16,2013-10-21,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.83,-3124,272198,-1%,"-$5,717",-3.0,0.0,-18.0,-36.0,GEVO
+931,M,2013-10-17 18:01:41,2013-10-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.81,-7309,293019,-2%,"-$13,265",-3.0,-4.0,-26.0,-51.0,GEVO
+932,M,2013-10-17 18:01:29,2013-10-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.81,-2559,275322,-1%,"-$4,644",-3.0,-4.0,-26.0,-51.0,GEVO
+933,M,2013-10-17 16:57:52,2013-10-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.82,-4718,134663,-3%,"-$8,572",-3.0,-4.0,-26.0,-51.0,GEVO
+934,M,2013-09-25 17:53:50,2013-09-23,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.91,-6861,139381,-5%,"-$13,120",3.0,-1.0,-6.0,-39.0,GEVO
+935,,2013-09-25 17:52:46,2013-09-24,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.94,-472,277881,0%,-$916,3.0,-1.0,-6.0,-39.0,GEVO
+936,D,2013-09-18 18:30:08,2013-09-18,GEVO,Lund Brett,"EVP, GC, Secretary",A - Grant,$0.83,60000,146242,+70%,"+$49,500",-4.0,-6.0,-11.0,-37.0,GEVO
+937,DM,2013-09-18 18:30:08,2013-09-16,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale+OE,$2.02,-66717,146242,-31%,"-$134,878",-4.0,-6.0,-11.0,-37.0,GEVO
+938,,2013-09-18 07:19:10,2013-09-17,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.95,-2558,278353,-1%,"-$4,988",4.0,-2.0,-7.0,-33.0,GEVO
+939,,2013-09-18 07:00:46,2013-09-17,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.95,-7308,300328,-2%,"-$14,251",4.0,-2.0,-7.0,-33.0,GEVO
+940,,2013-09-18 07:00:30,2013-09-17,GEVO,Smith Mark L,CFO,S - Sale,$1.95,-2470,158440,-2%,"-$4,817",4.0,-2.0,-7.0,-33.0,GEVO
+941,,2013-08-27 16:46:06,2013-08-26,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.96,-472,280911,0%,-$925,1.0,-5.0,-3.0,-33.0,GEVO
+942,,2013-08-27 16:45:24,2013-08-26,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.96,-515,152959,0%,"-$1,009",1.0,-5.0,-3.0,-33.0,GEVO
+943,M,2013-08-19 16:40:55,2013-08-15,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.75,-2558,281383,-1%,"-$4,477",1.0,12.0,15.0,-24.0,GEVO
+944,M,2013-08-19 16:40:43,2013-08-15,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.75,-3290,307636,-1%,"-$5,759",1.0,12.0,15.0,-24.0,GEVO
+945,M,2013-08-19 16:39:54,2013-08-15,GEVO,Smith Mark L,CFO,S - Sale,$1.75,-2470,160910,-2%,"-$4,322",1.0,12.0,15.0,-24.0,GEVO
+946,M,2013-08-19 16:39:35,2013-08-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.77,-6718,153474,-4%,"-$11,863",1.0,12.0,15.0,-24.0,GEVO
+947,,2013-07-25 18:50:40,2013-07-24,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.91,-472,283941,0%,-$902,4.0,2.0,-3.0,-27.0,GEVO
+948,,2013-07-25 17:47:13,2013-07-24,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.90,-515,160192,0%,-$979,4.0,2.0,-3.0,-27.0,GEVO
+949,,2013-07-22 20:23:03,2013-07-18,GEVO,Ryan Christopher Michael,"Pres, COO",A - Grant,$0.00,75000,284413,+36%,+$0,3.0,2.0,-8.0,-28.0,GEVO
+950,,2013-07-17 20:28:08,2013-07-16,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$1.97,-2558,209413,-1%,"-$5,039",-2.0,-3.0,-5.0,-33.0,GEVO
+951,,2013-07-17 20:27:53,2013-07-16,GEVO,Smith Mark L,CFO,S - Sale,$1.97,-2470,163380,-1%,"-$4,866",-2.0,-3.0,-5.0,-33.0,GEVO
+952,,2013-07-17 20:27:39,2013-07-16,GEVO,Gruber Patrick R.,CEO,S - Sale,$1.97,-3288,310926,-1%,"-$6,477",-2.0,-3.0,-5.0,-33.0,GEVO
+953,M,2013-07-17 20:27:24,2013-07-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.98,-6718,160707,-4%,"-$13,274",-2.0,-3.0,-5.0,-33.0,GEVO
+954,,2013-06-27 16:54:34,2013-06-25,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.03,-515,167425,0%,"-$1,045",-1.0,5.0,-10.0,-38.0,GEVO
+955,,2013-06-27 16:53:33,2013-06-25,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.03,-471,211971,0%,-$956,-1.0,5.0,-10.0,-38.0,GEVO
+956,M,2013-06-19 18:55:27,2013-06-17,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.12,-13188,167940,-7%,"-$28,016",-6.0,-16.0,-17.0,-54.0,GEVO
+957,M,2013-06-19 18:55:07,2013-06-17,GEVO,Smith Mark L,CFO,S - Sale,$2.19,-13060,165850,-7%,"-$28,557",-6.0,-16.0,-17.0,-54.0,GEVO
+958,M,2013-06-19 18:52:55,2013-06-17,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$2.11,-6794,212442,-3%,"-$14,346",-6.0,-16.0,-17.0,-54.0,GEVO
+959,D,2013-06-10 19:20:58,2013-06-06,GEVO,Kaul Samir,Dir,A - Grant,$0.00,32051,132021,+32%,+$0,-2.0,-2.0,17.0,-1.0,GEVO
+960,,2013-06-03 18:38:07,2013-05-30,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.77,-2995,181128,-2%,"-$5,301",-3.0,6.0,24.0,6.0,GEVO
+961,,2013-05-16 07:18:22,2013-05-15,GEVO,Smith Mark L,CFO,S - Sale,$1.62,-351,178910,0%,-$569,4.0,16.0,5.0,-16.0,GEVO
+962,,2013-04-26 07:29:14,2013-04-24,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.71,-515,184123,0%,-$881,1.0,1.0,8.0,7.0,GEVO
+963,,2013-04-16 19:47:10,2013-04-16,GEVO,Smith Mark L,CFO,S - Sale,$1.91,-352,179261,0%,-$672,-8.0,-7.0,-13.0,-4.0,GEVO
+964,,2013-04-16 17:51:20,2013-04-16,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.89,-480,184638,0%,-$907,-8.0,-7.0,-13.0,-4.0,GEVO
+965,,2013-03-29 09:58:16,2013-03-26,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.15,-515,185118,0%,"-$1,107",-1.0,-7.0,-20.0,-12.0,GEVO
+966,D,2013-03-25 20:35:11,2013-03-21,GEVO,Mize Gary W.,Dir,A - Grant,$0.00,32051,45852,+232%,+$0,1.0,4.0,-20.0,-10.0,GEVO
+967,D,2013-03-25 20:34:40,2013-03-21,GEVO,Dreessen Ruth,Dir,A - Grant,$0.00,32051,38693,+483%,+$0,1.0,4.0,-20.0,-10.0,GEVO
+968,D,2013-03-25 20:34:19,2013-03-21,GEVO,Smith Bruce A,Dir,A - Grant,$0.00,32051,57258,+127%,+$0,1.0,4.0,-20.0,-10.0,GEVO
+969,D,2013-03-25 20:34:01,2013-03-21,GEVO,Cabrera Carlos A.,Dir,A - Grant,$0.00,32051,42258,+314%,+$0,1.0,4.0,-20.0,-10.0,GEVO
+970,D,2013-03-25 20:33:30,2013-03-21,GEVO,Smith Stacy J,Dir,A - Grant,$0.00,32051,47258,+211%,+$0,1.0,4.0,-20.0,-10.0,GEVO
+971,D,2013-03-25 20:33:06,2013-03-21,GEVO,Kishore Ganesh,Dir,A - Grant,$0.00,32051,52258,+159%,+$0,1.0,4.0,-20.0,-10.0,GEVO
+972,D,2013-03-25 20:32:28,2013-03-21,GEVO,Gruber Patrick R.,CEO,A - Grant,$0.00,217949,314214,+226%,+$0,1.0,4.0,-20.0,-10.0,GEVO
+973,D,2013-03-25 20:32:04,2013-03-21,GEVO,Smith Mark L,CFO,A - Grant,$0.00,152564,179613,+564%,+$0,1.0,4.0,-20.0,-10.0,GEVO
+974,D,2013-03-25 20:31:31,2013-03-21,GEVO,Ryan Christopher Michael,"Pres, COO",A - Grant,$0.00,152564,219236,+229%,+$0,1.0,4.0,-20.0,-10.0,GEVO
+975,D,2013-03-25 20:28:44,2013-03-21,GEVO,Lund Brett,"EVP, GC, Secretary",A - Grant,$0.00,152564,185633,+461%,+$0,1.0,4.0,-20.0,-10.0,GEVO
+976,,2013-03-20 19:48:46,2013-03-18,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.19,-479,185633,0%,-$570,1.0,-3.0,-23.0,-14.0,GEVO
+977,,2013-03-20 19:48:32,2013-03-18,GEVO,Smith Mark L,CFO,S - Sale,$1.91,-351,179613,0%,-$670,1.0,-3.0,-23.0,-14.0,GEVO
+978,,2013-02-28 18:02:58,2013-02-26,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.81,-515,33548,-2%,-$932,0.0,-1.0,14.0,-1.0,GEVO
+979,,2013-02-21 18:22:51,2013-02-19,GEVO,Smith Mark L,CFO,S - Sale,$2.42,-351,27400,-1%,-$849,3.0,-6.0,11.0,-15.0,GEVO
+980,,2013-02-21 18:21:25,2013-02-19,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$2.43,-480,34063,-1%,"-$1,166",3.0,-6.0,11.0,-15.0,GEVO
+981,,2013-01-17 17:26:30,2013-01-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.86,-480,34543,-1%,-$893,6.0,6.0,27.0,-5.0,GEVO
+982,,2013-01-17 17:25:48,2013-01-15,GEVO,Smith Mark L,CFO,S - Sale,$1.89,-351,27751,-1%,-$665,6.0,6.0,27.0,-5.0,GEVO
+983,,2012-12-31 19:36:49,2012-12-28,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$1.56,-41864,35023,-54%,"-$65,199",18.0,43.0,51.0,39.0,GEVO
+984,,2012-11-21 10:24:26,2012-11-19,GEVO,Kishore Ganesh,Dir,A - Grant,$1.46,10000,20207,+98%,"+$14,600",4.0,8.0,16.0,27.0,GEVO
+985,,2012-11-13 13:15:25,2012-11-13,GEVO,Gruber Patrick R.,CEO,P - Purchase,$1.57,10000,96265,+12%,"+$15,700",-3.0,-14.0,-19.0,-6.0,GEVO
+986,,2012-11-13 12:59:01,2012-11-13,GEVO,Demuth Brant,"EVP, Strategy, Corp. Dev.",P - Purchase,$1.57,6500,34269,+23%,"+$10,205",-3.0,-14.0,-19.0,-6.0,GEVO
+987,,2012-11-02 15:26:53,2012-11-02,GEVO,Ryan Christopher Michael,"Pres, COO",P - Purchase,$2.04,9600,66627,+17%,"+$19,584",0.0,-1.0,-23.0,-11.0,GEVO
+988,,2012-11-02 10:51:25,2012-11-02,GEVO,Gruber Patrick R.,CEO,P - Purchase,$2.03,24200,86265,+39%,"+$49,126",0.0,-1.0,-23.0,-11.0,GEVO
+989,,2012-09-27 10:57:06,2012-09-25,GEVO,Glassner David,"EVP, Technology",S - Sale,$2.44,-218,31203,-1%,-$532,9.0,15.0,14.0,18.0,GEVO
+990,,2012-09-19 18:03:55,2012-09-17,GEVO,Glassner David,"EVP, Technology",S - Sale,$3.50,-204,31421,-1%,-$714,0.0,-35.0,-39.0,-32.0,GEVO
+991,,2012-08-27 17:12:10,2012-08-24,GEVO,Glassner David,"EVP, Technology",S - Sale,$3.65,-218,31625,-1%,-$796,1.0,-4.0,-42.0,-47.0,GEVO
+992,,2012-08-17 17:07:33,2012-08-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$3.73,-479,76887,-1%,"-$1,788",1.0,-6.0,-10.0,-46.0,GEVO
+993,,2012-08-17 17:07:17,2012-08-15,GEVO,Glassner David,"EVP, Technology",S - Sale,$3.76,-203,31843,-1%,-$762,1.0,-6.0,-10.0,-46.0,GEVO
+994,,2012-08-16 11:29:54,2012-08-16,GEVO,Gruber Patrick R.,CEO,P - Purchase,$3.72,13300,62065,+27%,"+$49,476",7.0,4.0,-6.0,-36.0,GEVO
+995,,2012-08-03 17:53:42,2012-08-01,GEVO,Smith Mark L,CFO,S - Sale,$3.88,-3513,28102,-11%,"-$13,643",-8.0,-9.0,-12.0,-45.0,GEVO
+996,,2012-07-26 18:32:15,2012-07-24,GEVO,Glassner David,"EVP, Technology",S - Sale,$4.30,-218,32046,-1%,-$937,3.0,-11.0,-11.0,-48.0,GEVO
+997,,2012-07-26 18:31:15,2012-07-24,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$4.27,-515,77366,-1%,"-$2,198",3.0,-11.0,-11.0,-48.0,GEVO
+998,,2012-07-19 15:43:46,2012-07-17,GEVO,Glassner David,"EVP, Technology",S - Sale,$4.38,-203,32264,-1%,-$890,3.0,0.0,-9.0,-51.0,GEVO
+999,,2012-07-18 18:32:15,2012-07-17,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$4.37,-480,77881,-1%,"-$2,098",3.0,-6.0,-15.0,-52.0,GEVO
+1000,,2012-06-27 14:30:16,2012-06-26,GEVO,Glassner David,"EVP, Technology",S - Sale,$8.51,-218,69837,0%,"-$1,855",-23.0,-44.0,-53.0,-82.0,GEVO
+1001,,2012-06-27 14:22:56,2012-06-26,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$8.66,-515,78361,-1%,"-$4,462",-23.0,-44.0,-53.0,-82.0,GEVO
+1002,,2012-06-18 15:57:42,2012-06-15,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$5.89,-480,78876,-1%,"-$2,827",-2.0,31.0,-25.0,-73.0,GEVO
+1003,,2012-06-18 15:54:57,2012-06-15,GEVO,Glassner David,"EVP, Technology",S - Sale,$5.89,-204,70055,0%,"-$1,202",-2.0,31.0,-25.0,-73.0,GEVO
+1004,,2012-06-04 18:31:29,2012-06-04,GEVO,Glassner David,"EVP, Technology",S - Sale,$5.36,-329,70259,0%,"-$1,763",10.0,4.0,-6.0,-67.0,GEVO
+1005,,2012-05-29 19:41:06,2012-05-29,GEVO,Glassner David,"EVP, Technology",S - Sale,$5.63,-421,70588,-1%,"-$2,370",-4.0,-8.0,52.0,-72.0,GEVO
+1006,,2012-05-25 10:06:16,2012-05-24,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$5.68,-515,79356,-1%,"-$2,927",-2.0,-5.0,38.0,-74.0,GEVO
+1007,,2012-05-24 18:44:01,2012-05-24,GEVO,Huttner Jack,"EVP, Commercial, Public Affair",S - Sale,$5.68,-515,30659,-2%,"-$2,924",-1.0,4.0,36.0,-79.0,GEVO
+1008,,2012-05-21 17:41:57,2012-05-18,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$5.73,-1989,79871,-2%,"-$11,389",-7.0,0.0,2.0,-77.0,GEVO
+1009,,2012-05-16 15:56:34,2012-05-16,GEVO,Demuth Brant,"EVP, Strategy, Corp. Dev.",P - Purchase,$5.95,1000,28769,+4%,"+$5,945",-4.0,-11.0,-1.0,-73.0,GEVO
+1010,,2012-05-10 12:57:02,2012-05-10,GEVO,Demuth Brant,"EVP, Strategy, Corp. Dev.",P - Purchase,$7.25,5000,27769,+22%,"+$36,245",1.0,-19.0,-24.0,-72.0,GEVO
+1011,,2012-05-08 11:31:44,2012-05-08,GEVO,Gruber Patrick R.,CEO,P - Purchase,$7.75,1000,48765,+2%,"+$7,750",0.0,-19.0,-26.0,-73.0,GEVO
+1012,,2012-05-07 15:03:16,2012-05-07,GEVO,Gruber Patrick R.,CEO,P - Purchase,$7.70,2600,47765,+6%,"+$20,020",-4.0,-14.0,-29.0,-75.0,GEVO
+1013,,2012-05-03 16:58:09,2012-05-02,GEVO,Glassner David,"EVP, Technology",S - Sale,$9.46,-547,71009,-1%,"-$5,175",-8.0,-17.0,-34.0,-69.0,GEVO
+1014,,2012-04-26 17:28:09,2012-04-24,GEVO,Huttner Jack,"EVP, Commercial, Public Affair",S - Sale,$9.82,-515,31174,-2%,"-$5,057",1.0,2.0,-40.0,-81.0,GEVO
+1015,,2012-04-03 18:02:23,2012-04-02,GEVO,Glassner David,"EVP, Technology",S - Sale,$9.31,-546,71556,-1%,"-$5,083",-1.0,-2.0,6.0,-79.0,GEVO
+1016,,2012-03-27 19:43:18,2012-03-26,GEVO,Huttner Jack,"EVP, Commercial, Public Affair",S - Sale,$9.71,-515,31689,-2%,"-$5,001",1.0,-5.0,0.0,-62.0,GEVO
+1017,D,2012-03-16 21:12:24,2012-03-14,GEVO,Dreessen Ruth,Dir,A - Grant,$0.00,6642,6642,New,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1018,D,2012-03-16 21:11:56,2012-03-14,GEVO,Cabrera Carlos A.,Dir,A - Grant,$0.00,6642,10207,+186%,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1019,D,2012-03-16 21:11:31,2012-03-14,GEVO,Kishore Ganesh,Dir,A - Grant,$0.00,6642,10207,+186%,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1020,D,2012-03-16 21:11:02,2012-03-14,GEVO,Mize Gary W.,Dir,A - Grant,$0.00,6642,13801,+93%,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1021,D,2012-03-16 21:10:30,2012-03-14,GEVO,Smith Bruce A,Dir,A - Grant,$0.00,6642,25207,+36%,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1022,D,2012-03-16 21:09:33,2012-03-14,GEVO,Smith Stacy J,Dir,A - Grant,$0.00,6642,15207,+78%,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1023,D,2012-03-16 21:08:56,2012-03-14,GEVO,Gruber Patrick R.,CEO,A - Grant,$0.00,45165,45165,New,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1024,D,2012-03-16 21:08:15,2012-03-14,GEVO,Smith Mark L,CFO,A - Grant,$0.00,31615,31615,New,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1025,D,2012-03-16 21:07:52,2012-03-14,GEVO,Ryan Christopher Michael,"Pres, COO",A - Grant,$0.00,31615,57072,+124%,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1026,D,2012-03-16 21:07:17,2012-03-14,GEVO,Glassner David,"EVP, Technology",A - Grant,$0.00,18332,72102,+34%,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1027,D,2012-03-16 21:06:38,2012-03-14,GEVO,Huttner Jack,"EVP, Commercial, Public Affair",A - Grant,$0.00,17269,32204,+116%,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1028,D,2012-03-16 21:06:05,2012-03-14,GEVO,Demuth Brant,"EVP, Strategy, Corp. Dev.",A - Grant,$0.00,17269,22769,+314%,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1029,D,2012-03-16 21:05:34,2012-03-14,GEVO,Lund Brett,"EVP, GC, Secretary",A - Grant,$0.00,31615,81860,+63%,+$0,-1.0,5.0,2.0,-62.0,GEVO
+1030,,2012-03-05 17:02:30,2012-03-02,GEVO,Glassner David,"EVP, Technology",S - Sale,$8.74,-547,53770,-1%,"-$4,781",-7.0,20.0,19.0,-50.0,GEVO
+1031,,2012-02-27 20:18:03,2012-02-24,GEVO,Huttner Jack,"EVP, Commercial, Public Affair",S - Sale,$9.12,-515,14935,-3%,"-$4,697",-4.0,-12.0,11.0,-62.0,GEVO
+1032,,2012-02-27 20:17:48,2012-02-24,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$9.12,-515,50245,-1%,"-$4,697",-4.0,-12.0,11.0,-62.0,GEVO
+1033,D,2012-02-15 17:04:43,2012-02-13,GEVO,Black David,"EVP, Upstream Business Dev.",S - Sale+OE,$9.80,-8152,0,-100%,"-$79,929",-2.0,-7.0,-14.0,-61.0,GEVO
+1034,D,2012-02-15 17:04:43,2012-02-13,GEVO,Black David,"EVP, Upstream Business Dev.",X - OptEx,$2.70,8152,0,-100%,"$22,010",-2.0,-7.0,-14.0,-61.0,GEVO
+1035,D,2012-02-15 17:04:25,2012-02-13,GEVO,Slaney Michael,"EVP, Upstream Business Dev.",S - Sale+OE,$9.80,-8152,0,-100%,"-$79,929",-2.0,-7.0,-14.0,-61.0,GEVO
+1036,D,2012-02-15 17:04:25,2012-02-13,GEVO,Slaney Michael,"EVP, Upstream Business Dev.",X - OptEx,$2.70,8152,0,-100%,"$22,010",-2.0,-7.0,-14.0,-61.0,GEVO
+1037,DM,2012-02-07 20:06:31,2012-02-03,GEVO,Black David,"EVP, Upstream Business Dev.",S - Sale+OE,$9.77,-14448,0,-100%,"-$141,104",-4.0,4.0,-19.0,-61.0,GEVO
+1038,DM,2012-02-07 20:06:31,2012-02-03,GEVO,Black David,"EVP, Upstream Business Dev.",X - OptEx,$2.70,14448,0,-100%,"$39,010",-4.0,4.0,-19.0,-61.0,GEVO
+1039,DM,2012-02-07 20:05:50,2012-02-03,GEVO,Slaney Michael,"EVP, Upstream Business Dev.",S - Sale+OE,$9.77,-14448,0,-100%,"-$141,104",-4.0,4.0,-19.0,-61.0,GEVO
+1040,DM,2012-02-07 20:05:50,2012-02-03,GEVO,Slaney Michael,"EVP, Upstream Business Dev.",X - OptEx,$2.70,14448,0,-100%,"$39,010",-4.0,4.0,-19.0,-61.0,GEVO
+1041,,2012-02-03 18:13:28,2012-02-02,GEVO,Glassner David,"EVP, Technology",S - Sale,$9.23,-547,54317,-1%,"-$5,049",1.0,-10.0,-24.0,-66.0,GEVO
+1042,,2012-01-26 19:31:57,2012-01-24,GEVO,Huttner Jack,"EVP, Commercial, Public Affair",S - Sale,$7.09,-515,15450,-3%,"-$3,651",5.0,9.0,10.0,-47.0,GEVO
+1043,,2012-01-26 19:31:41,2012-01-24,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$7.08,-515,50760,-1%,"-$3,646",5.0,9.0,10.0,-47.0,GEVO
+1044,,2012-01-04 20:13:14,2012-01-03,GEVO,Glassner David,"EVP, Technology",S - Sale,$6.27,-546,54864,-1%,"-$3,423",-7.0,-9.0,46.0,-25.0,GEVO
+1045,,2011-12-28 21:55:55,2011-12-28,GEVO,Glassner David,"EVP, Technology",S - Sale,$5.54,-547,55410,-1%,"-$3,030",2.0,15.0,54.0,21.0,GEVO
+1046,,2011-12-28 21:41:05,2011-12-27,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$5.63,-515,51275,-1%,"-$2,899",2.0,15.0,54.0,21.0,GEVO
+1047,,2011-12-28 21:40:40,2011-12-27,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$5.63,-942,25457,-4%,"-$5,303",2.0,15.0,54.0,21.0,GEVO
+1048,,2011-12-28 21:40:15,2011-12-27,GEVO,Huttner Jack,"EVP, Commercial, Public Affair",S - Sale,$5.63,-515,15965,-3%,"-$2,899",2.0,15.0,54.0,21.0,GEVO
+1049,,2011-12-12 20:34:48,2011-12-08,GEVO,Glassner David,"EVP, Technology",A - Grant,$0.00,37370,55957,+201%,+$0,-2.0,4.0,-2.0,-7.0,GEVO
+1050,,2011-12-12 20:34:33,2011-12-08,GEVO,Lund Brett,"EVP, GC, Secretary",A - Grant,$0.00,37370,51790,+259%,+$0,-2.0,4.0,-2.0,-7.0,GEVO
+1051,,2011-11-28 18:03:24,2011-11-25,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$5.31,-943,26399,-3%,"-$5,007",5.0,8.0,-4.0,-2.0,GEVO
+1052,,2011-11-28 18:03:12,2011-11-25,GEVO,Huttner Jack,"EVP, Commercial, Public Affair",S - Sale,$5.33,-515,16480,-3%,"-$2,745",5.0,8.0,-4.0,-2.0,GEVO
+1053,,2011-11-28 18:03:01,2011-11-25,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$5.35,-515,14420,-3%,"-$2,755",5.0,8.0,-4.0,-2.0,GEVO
+1054,,2011-11-03 17:39:34,2011-11-02,GEVO,Glassner David,"EVP, Technology",S - Sale,$7.12,-547,18587,-3%,"-$3,896",-2.0,4.0,-16.0,9.0,GEVO
+1055,,2011-10-26 18:29:06,2011-10-25,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$7.47,-943,27342,-3%,"-$7,044",13.0,-10.0,-27.0,30.0,GEVO
+1056,,2011-10-26 18:28:49,2011-10-25,GEVO,Huttner Jack,"EVP, Commercial, Public Affair",S - Sale,$7.48,-515,16995,-3%,"-$3,852",13.0,-10.0,-27.0,30.0,GEVO
+1057,,2011-10-26 18:28:35,2011-10-25,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$7.48,-515,14935,-3%,"-$3,852",13.0,-10.0,-27.0,30.0,GEVO
+1058,,2011-10-04 17:50:35,2011-10-03,GEVO,Glassner David,"EVP, Technology",S - Sale,$5.73,-547,19134,-3%,"-$3,134",6.0,19.0,11.0,58.0,GEVO
+1059,,2011-09-27 16:33:21,2011-09-26,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$6.69,-943,28285,-3%,"-$6,309",-7.0,-15.0,11.0,45.0,GEVO
+1060,,2011-09-27 16:33:04,2011-09-26,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$6.70,-515,15450,-3%,"-$3,451",-7.0,-15.0,11.0,45.0,GEVO
+1061,,2011-09-27 16:32:44,2011-09-26,GEVO,Huttner Jack,"EVP,Co Development, Pub Affair",S - Sale,$6.69,-515,17510,-3%,"-$3,445",-7.0,-15.0,11.0,45.0,GEVO
+1062,D,2011-09-19 20:27:04,2011-09-15,GEVO,Mize Gary W.,Dir,A - Grant,$0.00,7159,7159,New,+$0,-4.0,-21.0,-12.0,3.0,GEVO
+1063,M,2011-08-24 20:24:30,2011-08-22,GEVO,Lund Brett,"EVP, GC, Secretary",S - Sale,$10.62,-2575,15965,-14%,"-$27,348",-8.0,-4.0,-37.0,-14.0,GEVO
+1064,M,2011-08-24 20:24:13,2011-08-22,GEVO,Ryan Christopher Michael,"Pres, COO",S - Sale,$10.18,-4714,29228,-14%,"-$47,986",-8.0,-4.0,-37.0,-14.0,GEVO
+1065,,2011-08-24 20:23:38,2011-08-24,GEVO,Huttner Jack,"EVP,Co Development, Pub Affair",S - Sale,$10.46,-515,18025,-3%,"-$5,388",-8.0,-4.0,-37.0,-14.0,GEVO
+1066,,2011-06-30 15:48:48,2011-06-28,GEVO,Weiss Shai,"Dir, 10%",D - Sale to issuer,$0.00,-3565,0,-100%,-$0,1.0,12.0,6.0,-64.0,GEVO
+1067,D,2011-03-31 16:02:51,2011-03-30,GEVO,Kishore Ganesh,Dir,A - Grant,$0.00,3565,3565,New,+$0,8.0,25.0,-2.0,-67.0,GEVO
+1068,D,2011-03-31 16:01:57,2011-03-30,GEVO,Weiss Shai,Dir,A - Grant,$0.00,3565,3565,New,+$0,8.0,25.0,-2.0,-67.0,GEVO
+1069,,2011-03-25 18:58:30,2011-03-23,GEVO,Ryan Christopher Michael,"EVP, Business Development",A - Grant,$0.00,33942,33942,New,+$0,5.0,11.0,16.0,-64.0,GEVO
+1070,,2011-03-25 18:57:23,2011-03-23,GEVO,Lund Brett,"EVP, Gen. Counsel, Secretary",A - Grant,$0.00,18540,18540,New,+$0,5.0,11.0,16.0,-64.0,GEVO
+1071,,2011-03-25 18:56:53,2011-03-23,GEVO,Huttner Jack,"EVP,Co Development, Pub Affair",A - Grant,$0.00,18540,18540,New,+$0,5.0,11.0,16.0,-64.0,GEVO
+1072,,2011-03-25 18:53:34,2011-03-23,GEVO,Glassner David,"EVP, Technology",A - Grant,$0.00,19681,19681,New,+$0,5.0,11.0,16.0,-64.0,GEVO
+1073,D,2011-03-25 18:53:01,2011-03-23,GEVO,Cabrera Carlos A.,Dir,A - Grant,$0.00,3565,3565,New,+$0,5.0,11.0,16.0,-64.0,GEVO
+1074,D,2011-03-25 18:52:16,2011-03-23,GEVO,Smith Stacy J,Dir,A - Grant,$0.00,3565,8565,+71%,+$0,5.0,11.0,16.0,-64.0,GEVO
+1075,D,2011-03-25 18:50:56,2011-03-23,GEVO,Smith Bruce A,Dir,A - Grant,$0.00,3565,18565,+24%,+$0,5.0,11.0,16.0,-64.0,GEVO
+1076,D,2011-02-16 17:16:51,2011-02-14,GEVO,Vgf I Ltd,10%,C - Converted deriv,$0.00,2567251,2753918,-48%,$0,9.0,2.0,7.0,-39.0,GEVO
+1077,D,2011-02-16 17:16:51,2011-02-14,GEVO,Vgf I Ltd,10%,P - Purchase,$15.00,186667,2753918,+7%,"+$2,800,005",9.0,2.0,7.0,-39.0,GEVO
+1078,D,2011-02-16 17:16:00,2011-02-14,GEVO,Weiss Shai,"Dir, 10%",C - Converted deriv,$0.00,2567251,2753918,-48%,$0,9.0,2.0,7.0,-39.0,GEVO
+1079,D,2011-02-16 17:16:00,2011-02-14,GEVO,Weiss Shai,"Dir, 10%",P - Purchase,$15.00,186667,2753918,+7%,"+$2,800,005",9.0,2.0,7.0,-39.0,GEVO
+1080,D,2011-02-15 19:40:25,2011-02-14,GEVO,"Khosla Ventures I, L.P.",10%,C - Converted deriv,$0.00,6794832,6998980,-49%,$0,7.0,8.0,9.0,-27.0,GEVO
+1081,D,2011-02-15 19:40:25,2011-02-14,GEVO,"Khosla Ventures I, L.P.",10%,P - Purchase,$15.00,466667,6998980,+7%,"+$7,000,005",7.0,8.0,9.0,-27.0,GEVO
+1082,,2011-02-15 17:42:31,2011-02-14,GEVO,Smith Stacy J,Dir,P - Purchase,$15.00,5000,5000,New,"+$75,000",7.0,8.0,9.0,-27.0,GEVO
+1083,,2011-02-15 17:41:10,2011-02-14,GEVO,Smith Bruce A,Dir,P - Purchase,$15.00,15000,15000,New,"+$225,000",7.0,8.0,9.0,-27.0,GEVO
+1084,D,2011-02-15 17:39:37,2011-02-14,GEVO,Kishore Ganesh,Dir,C - Converted deriv,$0.00,1540739,1671425,-48%,$0,7.0,8.0,9.0,-27.0,GEVO
+1085,D,2011-02-15 17:39:37,2011-02-14,GEVO,Kishore Ganesh,Dir,P - Purchase,$15.00,130686,1671425,+8%,"+$1,960,290",7.0,8.0,9.0,-27.0,GEVO

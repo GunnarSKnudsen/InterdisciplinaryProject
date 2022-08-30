@@ -1,35 +1,997 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2021-12-03 07:41:58,2021-11-30,FWRD,Polit Javier,Dir,P - Purchase,99.12,100,1777,+6%,9912.0,,,,,FWRD
-1,D,2021-11-04 19:49:49,2021-11-02,FWRD,Hance Michael L,"CLO, Secretary",S - Sale+OE,104.68,-3379,38722,-8%,-353714.0,,,,,FWRD
-2,,2021-06-15 18:26:51,2021-06-14,FWRD,Mayes George S Jr,Dir,P - Purchase,91.53,500,2177,+30%,45765.0,,,,,FWRD
-3,D,2021-05-17 10:53:06,2021-05-13,FWRD,Hance Michael L,"CLO, Secretary",S - Sale+OE,95.49,-5000,38722,-11%,-477466.0,,,,,FWRD
-4,D,2021-05-12 21:18:12,2021-05-07,FWRD,Mitchin Kyle R,Chief People Officer,S - Sale+OE,97.13,-8660,13458,-39%,-841146.0,,,,,FWRD
-5,,2021-05-11 21:30:24,2021-05-07,FWRD,Lynch George M,Dir,S - Sale,98.69,-3056,9455,-24%,-301597.0,,,,,FWRD
-6,D,2021-05-06 18:54:34,2021-05-04,FWRD,Ruble Chris C,COO,S - Sale+OE,94.76,-7768,27225,-22%,-736116.0,,,,,FWRD
-7,,2020-12-03 14:28:07,2020-12-01,FWRD,Ruble Chris C,COO,S - Sale,74.13,-2621,29387,-8%,-194295.0,,,,,FWRD
-8,D,2020-12-01 17:44:09,2020-11-27,FWRD,Hance Michael L,"CLO, Secretary",S - Sale+OE,74.04,-7846,35188,-18%,-580915.0,,,,,FWRD
-9,D,2020-12-01 17:43:48,2020-11-27,FWRD,Morris Michael Joseph,"CFO, Treasurer",S - Sale+OE,73.95,-9098,22689,-29%,-672807.0,,,,,FWRD
-10,D,2020-12-01 17:43:31,2020-11-27,FWRD,Ruble Chris C,COO,S - Sale+OE,74.05,-4800,32008,-13%,-355448.0,,,,,FWRD
-11,,2020-11-27 11:35:17,2020-11-25,FWRD,Campbell C Robert,Dir,S - Sale,75.75,-3000,20185,-13%,-227248.0,,,,,FWRD
-12,D,2020-09-03 15:36:38,2020-09-01,FWRD,Jewell Matthew J,Former Officer,S - Sale+OE,59.9,-3846,49461,-7%,-230366.0,,,,,FWRD
-13,D,2020-09-03 15:36:17,2020-09-02,FWRD,Mitchin Kyle R,Chief People Officer,S - Sale+OE,59.76,-4793,11742,-29%,-286444.0,,,,,FWRD
-14,D,2020-08-13 15:47:56,2020-08-12,FWRD,Hance Michael L,"CLO, Secretary",S - Sale+OE,59.42,-4009,35188,-10%,-238233.0,,,,,FWRD
-15,D,2020-08-13 15:47:39,2020-08-12,FWRD,Jewell Matthew J,Former Officer,S - Sale+OE,59.72,-3000,49461,-6%,-179162.0,,,,,FWRD
-16,D,2020-08-10 16:24:05,2020-08-06,FWRD,Jewell Matthew J,Former Officer,S - Sale+OE,0.0,-207,49461,0%,-0.0,,,,,FWRD
-17,DM,2020-08-06 17:29:41,2020-08-04,FWRD,Jewell Matthew J,Former Officer,S - Sale+OE,53.89,-25619,49461,-34%,-1380536.0,,,,,FWRD
-18,D,2019-09-03 16:37:43,2019-08-29,FWRD,Adelaar Glenn A,Former Officer,S - Sale+OE,61.05,-4917,39093,-11%,-300186.0,,,,,FWRD
-19,,2019-03-04 09:42:18,2019-02-28,FWRD,Campbell Bruce A,COB,S - Sale,65.01,-16651,76989,-18%,-1082482.0,,,,,FWRD
-20,M,2019-02-28 09:59:03,2019-02-26,FWRD,Campbell Bruce A,COB,S - Sale,65.2,-8240,93640,-8%,-537231.0,,,,,FWRD
-21,,2019-02-22 13:21:16,2019-02-21,FWRD,Ruble Chris C,COO,S - Sale,68.1,-2000,26363,-7%,-136200.0,,,,,FWRD
-22,D,2019-02-14 11:49:12,2019-02-12,FWRD,Ruble Chris C,COO,S - Sale+OE,65.12,-7926,28392,-22%,-516141.0,,,,,FWRD
-23,,2018-11-02 12:18:35,2018-11-01,FWRD,Lynch George M,Dir,S - Sale,60.52,-1965,9972,-16%,-118922.0,,,,,FWRD
-24,DM,2018-09-06 09:21:46,2018-09-04,FWRD,Campbell Bruce A,COB,S - Sale+OE,65.57,-8627,129652,-6%,-565678.0,,,,,FWRD
-25,D,2018-08-29 13:30:54,2018-08-27,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,64.51,-8523,129652,-6%,-549801.0,,,,,FWRD
-26,D,2018-08-23 15:04:13,2018-08-21,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,64.53,-8790,129652,-6%,-567185.0,,,,,FWRD
-27,D,2018-08-21 10:24:26,2018-08-17,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,S - Sale+OE,63.0,-8080,43329,-16%,-509047.0,,,,,FWRD
-28,,2018-08-01 10:12:07,2018-07-30,FWRD,Ruble Chris C,COO,S - Sale,62.5,-2000,26367,-7%,-125000.0,,,,,FWRD
-29,D,2018-08-01 10:11:45,2018-07-30,FWRD,Adelaar Glenn A,"SVP, Systems Technology",S - Sale+OE,62.26,-14397,37843,-28%,-896367.0,,,,,FWRD
-30,D,2018-06-18 09:16:01,2018-06-14,FWRD,Hance Michael L,"SVP, CLO, Secretary",S - Sale+OE,60.66,-4669,26451,-15%,-283218.0,,,,,FWRD
-31,D,2018-06-08 13:33:11,2018-06-06,FWRD,Ruble Chris C,Pres - Expedited Services,S - Sale+OE,60.5,-7969,22975,-26%,-482125.0,,,,,FWRD
-32,D,2018-05-30 11:25:04,2018-05-30,FWRD,Jewell Matthew J,Pres - Logistics Services,S - Sale+OE,60.04,-6232,37937,-14%,-374177.0,,,,,FWRD
-33,D,2018-05-24 13:52:55,2018-05-22,FWRD,Jewell Matthew J,Pres - Logistics Services,S - Sale+OE,60.0,-2328,37937,-6%,-139681.0,,,,,FWRD
+0,,2022-02-09 19:20:56,2022-02-08,FWRD,Ruble Chris C,COO,A - Grant,0.0,2940,29364,+11%,0.0,,,,,FWRD
+1,M,2022-02-09 19:20:56,2022-02-02,FWRD,Ruble Chris C,COO,F - Tax,0.0,-1170,29364,-4%,-0.0,,,,,FWRD
+2,,2022-02-09 19:03:46,2022-02-08,FWRD,Hance Michael L,"CLO, Secretary",A - Grant,0.0,2470,40438,+7%,0.0,,,,,FWRD
+3,M,2022-02-09 19:03:46,2022-02-02,FWRD,Hance Michael L,"CLO, Secretary",F - Tax,0.0,-758,40438,-2%,-0.0,,,,,FWRD
+4,,2022-02-09 18:57:07,2022-02-08,FWRD,Mitchin Kyle R,Chief People Officer,A - Grant,0.0,1294,14411,+10%,0.0,,,,,FWRD
+5,M,2022-02-09 18:57:07,2022-02-02,FWRD,Mitchin Kyle R,Chief People Officer,F - Tax,0.0,-550,14411,-4%,-0.0,,,,,FWRD
+6,,2022-02-09 18:50:29,2022-02-08,FWRD,Tomasello Joseph Michael,CIO,A - Grant,0.0,1294,7209,+22%,0.0,,,,,FWRD
+7,M,2022-02-09 18:50:29,2022-02-02,FWRD,Tomasello Joseph Michael,CIO,F - Tax,0.0,-405,7209,-5%,-0.0,,,,,FWRD
+8,,2022-02-09 18:45:36,2022-02-08,FWRD,Garbrick Rebecca J,CFO,A - Grant,0.0,2046,3534,+138%,0.0,,,,,FWRD
+9,,2022-02-09 18:45:36,2022-02-02,FWRD,Garbrick Rebecca J,CFO,F - Tax,0.0,-102,3534,-3%,-0.0,,,,,FWRD
+10,,2022-02-09 18:42:19,2022-02-08,FWRD,Schmitt Thomas,"Pres, CEO",A - Grant,0.0,9016,41263,+28%,0.0,,,,,FWRD
+11,M,2022-02-09 18:42:19,2022-02-02,FWRD,Schmitt Thomas,"Pres, CEO",F - Tax,0.0,-1788,41263,-4%,-0.0,,,,,FWRD
+12,,2022-02-09 18:37:01,2022-02-08,FWRD,Schara Scott E,Chief Commercial Officer,A - Grant,0.0,1294,6919,+23%,0.0,,,,,FWRD
+13,,2021-12-03 07:44:35,2021-11-16,FWRD,Garbrick Rebecca J,"CAO, VP, Controller",F - Tax,0.0,-81,1590,-5%,-0.0,,,,,FWRD
+14,,2021-12-03 07:41:58,2021-11-30,FWRD,Polit Javier,Dir,P - Purchase,99.12,100,1777,+6%,9912.0,,,,,FWRD
+15,D,2021-11-04 19:49:49,2021-11-02,FWRD,Hance Michael L,"CLO, Secretary",M - OptEx,43.67,3379,38722,+10%,147561.0,,,,,FWRD
+16,D,2021-11-04 19:49:49,2021-11-02,FWRD,Hance Michael L,"CLO, Secretary",S - Sale+OE,104.68,-3379,38722,-8%,-353714.0,,,,,FWRD
+17,,2021-09-20 08:31:23,2021-06-17,FWRD,Tomasello Joseph Michael,CIO,F - Tax,0.0,-379,6320,-6%,-0.0,,,,,FWRD
+18,,2021-09-20 08:31:05,2021-09-01,FWRD,Schmitt Thomas,"Pres, CEO",F - Tax,0.0,-2735,34035,-7%,-0.0,,,,,FWRD
+19,,2021-06-15 18:26:51,2021-06-14,FWRD,Mayes George S Jr,Dir,P - Purchase,91.53,500,2177,+30%,45765.0,,,,,FWRD
+20,D,2021-06-15 18:07:10,2021-05-12,FWRD,Bonebrake Valerie A,Dir,G - Gift,0.0,-500,7825,-6%,-0.0,,,,,FWRD
+21,,2021-05-24 21:32:06,2021-05-20,FWRD,Carlock Craig,Dir,A - Grant,0.0,1230,12371,+11%,0.0,,,,,FWRD
+22,,2021-05-24 21:31:45,2021-05-20,FWRD,Nayak Chitra,Dir,A - Grant,0.0,1230,1677,+275%,0.0,,,,,FWRD
+23,,2021-05-24 21:31:22,2021-05-20,FWRD,Bonebrake Valerie A,Dir,A - Grant,0.0,1230,8325,+17%,0.0,,,,,FWRD
+24,,2021-05-24 21:31:00,2021-05-20,FWRD,Amicarella Ana B,Dir,A - Grant,0.0,1230,9168,+15%,0.0,,,,,FWRD
+25,,2021-05-24 21:30:31,2021-05-20,FWRD,Roberts Richard H,Dir,A - Grant,0.0,1230,1777,+225%,0.0,,,,,FWRD
+26,,2021-05-24 21:30:05,2021-05-20,FWRD,Allen Ronald W,Dir,A - Grant,0.0,1230,19884,+7%,0.0,,,,,FWRD
+27,,2021-05-24 21:29:39,2021-05-20,FWRD,Lynch George M,Dir,A - Grant,0.0,1230,10685,+13%,0.0,,,,,FWRD
+28,,2021-05-24 21:29:16,2021-05-20,FWRD,Polit Javier,Dir,A - Grant,0.0,1230,1677,+275%,0.0,,,,,FWRD
+29,,2021-05-24 21:28:54,2021-05-20,FWRD,Tucker Laurie Anne,Dir,A - Grant,0.0,1230,4994,+33%,0.0,,,,,FWRD
+30,,2021-05-24 21:28:30,2021-05-20,FWRD,Niswonger Scott M,Dir,A - Grant,0.0,1230,11677,+12%,0.0,,,,,FWRD
+31,,2021-05-24 21:28:02,2021-05-20,FWRD,Campbell C Robert,Dir,A - Grant,0.0,1230,21415,+6%,0.0,,,,,FWRD
+32,,2021-05-24 21:16:37,2021-05-20,FWRD,Mayes George S Jr,Dir,A - Grant,0.0,1230,1677,+275%,0.0,,,,,FWRD
+33,D,2021-05-17 10:53:06,2021-05-13,FWRD,Hance Michael L,"CLO, Secretary",M - OptEx,43.67,5000,38722,+15%,218350.0,,,,,FWRD
+34,D,2021-05-17 10:53:06,2021-05-13,FWRD,Hance Michael L,"CLO, Secretary",S - Sale+OE,95.49,-5000,38722,-11%,-477466.0,,,,,FWRD
+35,D,2021-05-12 21:18:12,2021-05-07,FWRD,Mitchin Kyle R,Chief People Officer,M - OptEx,55.64,8660,13458,+180%,481810.0,,,,,FWRD
+36,D,2021-05-12 21:18:12,2021-05-07,FWRD,Mitchin Kyle R,Chief People Officer,S - Sale+OE,97.13,-8660,13458,-39%,-841146.0,,,,,FWRD
+37,,2021-05-11 21:30:24,2021-05-07,FWRD,Lynch George M,Dir,S - Sale,98.69,-3056,9455,-24%,-301597.0,,,,,FWRD
+38,D,2021-05-06 18:54:34,2021-05-04,FWRD,Ruble Chris C,COO,M - OptEx,58.4,1768,27225,+7%,103251.0,,,,,FWRD
+39,D,2021-05-06 18:54:34,2021-05-04,FWRD,Ruble Chris C,COO,S - Sale+OE,94.76,-7768,27225,-22%,-736116.0,,,,,FWRD
+40,,2021-03-23 08:52:19,2021-03-15,FWRD,Polit Javier,Dir,A - Grant,0.0,447,447,New,0.0,,,,,FWRD
+41,,2021-03-17 18:55:48,2021-03-15,FWRD,Niswonger Scott M,Dir,A - Grant,0.0,447,10447,+4%,0.0,,,,,FWRD
+42,,2021-03-17 18:55:28,2021-03-15,FWRD,Mayes George S Jr,Dir,A - Grant,0.0,447,447,New,0.0,,,,,FWRD
+43,,2021-03-17 18:55:05,2021-03-15,FWRD,Roberts Richard H,Dir,A - Grant,0.0,447,547,+447%,0.0,,,,,FWRD
+44,,2021-03-17 18:54:25,2021-03-15,FWRD,Nayak Chitra,Dir,A - Grant,0.0,447,447,New,0.0,,,,,FWRD
+45,,2021-03-17 10:54:18,2021-03-15,FWRD,Hance Michael L,"CLO, Secretary",A - Grant,0.0,998,38722,+3%,0.0,,,,,FWRD
+46,,2021-03-17 10:54:18,2021-03-15,FWRD,Hance Michael L,"CLO, Secretary",F - Tax,0.0,-243,38722,-1%,-0.0,,,,,FWRD
+47,,2021-03-17 10:54:00,2021-03-15,FWRD,Mitchin Kyle R,Chief People Officer,A - Grant,0.0,666,13458,+5%,0.0,,,,,FWRD
+48,,2021-03-17 10:54:00,2021-03-15,FWRD,Mitchin Kyle R,Chief People Officer,F - Tax,0.0,-202,13458,-1%,-0.0,,,,,FWRD
+49,,2021-03-17 10:53:42,2021-03-15,FWRD,Morris Michael Joseph,"CFO, Treasurer",A - Grant,0.0,998,27245,+4%,0.0,,,,,FWRD
+50,,2021-03-17 10:53:42,2021-03-15,FWRD,Morris Michael Joseph,"CFO, Treasurer",F - Tax,0.0,-301,27245,-1%,-0.0,,,,,FWRD
+51,,2021-03-17 10:53:28,2021-03-15,FWRD,Ruble Chris C,COO,A - Grant,0.0,998,33254,+3%,0.0,,,,,FWRD
+52,,2021-03-17 10:53:28,2021-03-15,FWRD,Ruble Chris C,COO,F - Tax,0.0,-301,33254,-1%,-0.0,,,,,FWRD
+53,,2021-02-08 17:35:11,2021-02-04,FWRD,Tomasello Joseph Michael,CIO,F - Tax,0.0,-197,6699,-3%,-0.0,,,,,FWRD
+54,,2021-02-08 17:34:50,2021-02-04,FWRD,Schmitt Thomas,"Pres, CEO",F - Tax,0.0,-844,36770,-2%,-0.0,,,,,FWRD
+55,M,2021-02-08 17:34:27,2021-02-04,FWRD,Morris Michael Joseph,"CFO, Treasurer",F - Tax,0.0,-1138,26548,-4%,-0.0,,,,,FWRD
+56,M,2021-02-08 17:34:02,2021-02-04,FWRD,Mitchin Kyle R,Chief People Officer,F - Tax,0.0,-624,12994,-5%,-0.0,,,,,FWRD
+57,M,2021-02-08 17:33:42,2021-02-04,FWRD,Ruble Chris C,COO,F - Tax,0.0,-1054,32557,-3%,-0.0,,,,,FWRD
+58,M,2021-02-08 17:33:23,2021-02-04,FWRD,Hance Michael L,"CLO, Secretary",F - Tax,0.0,-725,37967,-2%,-0.0,,,,,FWRD
+59,,2021-02-04 21:11:20,2021-02-02,FWRD,Hance Michael L,"CLO, Secretary",A - Grant,0.0,3498,38692,+10%,0.0,,,,,FWRD
+60,,2021-02-04 21:11:00,2021-02-02,FWRD,Tomasello Joseph Michael,CIO,A - Grant,0.0,1832,6896,+36%,0.0,,,,,FWRD
+61,,2021-02-04 21:10:38,2021-02-02,FWRD,Mitchin Kyle R,Chief People Officer,A - Grant,0.0,1832,13618,+16%,0.0,,,,,FWRD
+62,,2021-02-04 21:10:18,2021-02-02,FWRD,Morris Michael Joseph,"CFO, Treasurer",A - Grant,0.0,4997,27686,+22%,0.0,,,,,FWRD
+63,,2021-02-04 21:09:59,2021-02-02,FWRD,Ruble Chris C,COO,A - Grant,0.0,4164,33611,+14%,0.0,,,,,FWRD
+64,,2021-02-04 21:09:39,2021-02-02,FWRD,Schara Scott E,Chief Commercial Officer,A - Grant,0.0,1832,5561,+49%,0.0,,,,,FWRD
+65,D,2021-02-04 21:09:20,2021-02-02,FWRD,Schmitt Thomas,"Pres, CEO",A - Grant,0.0,9577,37614,+34%,0.0,,,,,FWRD
+66,,2020-12-03 14:28:07,2020-12-01,FWRD,Ruble Chris C,COO,S - Sale,74.13,-2621,29387,-8%,-194295.0,,,,,FWRD
+67,D,2020-12-01 17:44:09,2020-11-27,FWRD,Hance Michael L,"CLO, Secretary",M - OptEx,49.81,7846,35188,+29%,390831.0,,,,,FWRD
+68,D,2020-12-01 17:44:09,2020-11-27,FWRD,Hance Michael L,"CLO, Secretary",S - Sale+OE,74.04,-7846,35188,-18%,-580915.0,,,,,FWRD
+69,D,2020-12-01 17:43:48,2020-11-27,FWRD,Morris Michael Joseph,"CFO, Treasurer",M - OptEx,47.82,9098,22689,+67%,435066.0,,,,,FWRD
+70,D,2020-12-01 17:43:48,2020-11-27,FWRD,Morris Michael Joseph,"CFO, Treasurer",S - Sale+OE,73.95,-9098,22689,-29%,-672807.0,,,,,FWRD
+71,D,2020-12-01 17:43:31,2020-11-27,FWRD,Ruble Chris C,COO,M - OptEx,51.71,4800,32008,+18%,248231.0,,,,,FWRD
+72,D,2020-12-01 17:43:31,2020-11-27,FWRD,Ruble Chris C,COO,S - Sale+OE,74.05,-4800,32008,-13%,-355448.0,,,,,FWRD
+73,,2020-11-27 11:35:17,2020-11-25,FWRD,Campbell C Robert,Dir,S - Sale,75.75,-3000,20185,-13%,-227248.0,,,,,FWRD
+74,,2020-09-11 16:10:43,2020-07-24,FWRD,Mitchin Kyle R,Chief People Officer,F - Tax,0.0,-16,11726,0%,-0.0,,,,,FWRD
+75,,2020-09-11 16:10:23,2020-08-01,FWRD,Bottomley Christina,"CAO, VP, Controller",F - Tax,0.0,-81,3033,-3%,-0.0,,,,,FWRD
+76,,2020-09-11 16:10:02,2020-09-01,FWRD,Schmitt Thomas,"Pres, CEO",F - Tax,0.0,-2508,28037,-8%,-0.0,,,,,FWRD
+77,D,2020-09-03 15:36:38,2020-09-01,FWRD,Jewell Matthew J,Former Officer,M - OptEx,50.71,3846,49461,+8%,195031.0,,,,,FWRD
+78,D,2020-09-03 15:36:38,2020-09-01,FWRD,Jewell Matthew J,Former Officer,S - Sale+OE,59.9,-3846,49461,-7%,-230366.0,,,,,FWRD
+79,D,2020-09-03 15:36:17,2020-09-02,FWRD,Mitchin Kyle R,Chief People Officer,M - OptEx,45.34,5000,11742,+74%,226700.0,,,,,FWRD
+80,D,2020-09-03 15:36:17,2020-09-02,FWRD,Mitchin Kyle R,Chief People Officer,S - Sale+OE,59.76,-4793,11742,-29%,-286444.0,,,,,FWRD
+81,,2020-09-02 14:29:29,2020-08-31,FWRD,Schara Scott E,Chief Commercial Officer,A - Grant,0.0,3729,3729,New,0.0,,,,,FWRD
+82,D,2020-08-13 15:47:56,2020-08-12,FWRD,Hance Michael L,"CLO, Secretary",M - OptEx,42.48,4009,35188,+13%,170302.0,,,,,FWRD
+83,D,2020-08-13 15:47:56,2020-08-12,FWRD,Hance Michael L,"CLO, Secretary",S - Sale+OE,59.42,-4009,35188,-10%,-238233.0,,,,,FWRD
+84,D,2020-08-13 15:47:39,2020-08-12,FWRD,Jewell Matthew J,Former Officer,M - OptEx,50.71,3000,49461,+6%,152130.0,,,,,FWRD
+85,D,2020-08-13 15:47:39,2020-08-12,FWRD,Jewell Matthew J,Former Officer,S - Sale+OE,59.72,-3000,49461,-6%,-179162.0,,,,,FWRD
+86,D,2020-08-10 16:24:05,2020-08-06,FWRD,Jewell Matthew J,Former Officer,M - OptEx,47.82,207,49461,0%,9899.0,,,,,FWRD
+87,D,2020-08-10 16:24:05,2020-08-06,FWRD,Jewell Matthew J,Former Officer,S - Sale+OE,0.0,-207,49461,0%,-0.0,,,,,FWRD
+88,DM,2020-08-06 17:29:41,2020-08-04,FWRD,Jewell Matthew J,Former Officer,M - OptEx,44.77,25619,49461,+107%,1146934.0,,,,,FWRD
+89,DM,2020-08-06 17:29:41,2020-08-04,FWRD,Jewell Matthew J,Former Officer,S - Sale+OE,53.89,-25619,49461,-34%,-1380536.0,,,,,FWRD
+90,,2020-06-19 14:17:31,2020-06-17,FWRD,Tomasello Joseph Michael,CIO,F - Tax,0.0,-379,5064,-7%,-0.0,,,,,FWRD
+91,,2020-06-15 15:30:53,2020-05-13,FWRD,Bonebrake Valerie A,Dir,A - Grant,0.0,2681,7095,+61%,0.0,,,,,FWRD
+92,,2020-06-15 15:30:32,2020-05-13,FWRD,Allen Ronald W,Dir,A - Grant,0.0,2681,18654,+17%,0.0,,,,,FWRD
+93,,2020-06-15 14:11:41,2020-06-12,FWRD,Hance Michael L,"CLO, Secretary",F - Tax,0.0,-1313,35188,-4%,-0.0,,,,,FWRD
+94,,2020-06-15 14:11:20,2020-06-12,FWRD,Ruble Chris C,COO,F - Tax,0.0,-1623,32008,-5%,-0.0,,,,,FWRD
+95,,2020-06-15 14:10:57,2020-06-12,FWRD,Morris Michael Joseph,"CFO, Treasurer",F - Tax,0.0,-1623,22689,-7%,-0.0,,,,,FWRD
+96,,2020-06-15 14:10:36,2020-06-12,FWRD,Jewell Matthew J,Chief Commercial Officer,F - Tax,0.0,-1623,49461,-3%,-0.0,,,,,FWRD
+97,,2020-06-15 14:10:12,2020-06-12,FWRD,Mitchin Kyle R,Chief People Officer,F - Tax,0.0,-1091,11535,-9%,-0.0,,,,,FWRD
+98,,2020-05-14 13:17:36,2020-05-13,FWRD,West W Gilbert,Dir,A - Grant,0.0,2681,5701,+89%,0.0,,,,,FWRD
+99,,2020-05-14 13:17:15,2020-05-13,FWRD,Carlock Craig,Dir,A - Grant,0.0,2681,11141,+32%,0.0,,,,,FWRD
+100,,2020-05-14 13:16:54,2020-05-13,FWRD,Lynch George M,Dir,A - Grant,0.0,2681,14508,+23%,0.0,,,,,FWRD
+101,,2020-05-14 13:16:32,2020-05-13,FWRD,Amicarella Ana B,Dir,A - Grant,0.0,2681,7938,+51%,0.0,,,,,FWRD
+102,,2020-05-14 13:16:10,2020-05-13,FWRD,Langley C John Jr,Dir,A - Grant,0.0,2681,31078,+9%,0.0,,,,,FWRD
+103,,2020-05-14 13:15:49,2020-05-13,FWRD,Tucker Laurie Anne,Dir,A - Grant,0.0,2681,3764,+248%,0.0,,,,,FWRD
+104,,2020-05-14 13:15:25,2020-05-13,FWRD,Campbell C Robert,Dir,A - Grant,0.0,2681,23185,+13%,0.0,,,,,FWRD
+105,,2020-04-01 12:26:43,2020-03-15,FWRD,Mitchin Kyle R,Chief People Officer,A - Grant,0.0,2104,12626,+20%,0.0,,,,,FWRD
+106,,2020-04-01 12:26:43,2020-03-15,FWRD,Mitchin Kyle R,Chief People Officer,F - Tax,0.0,-639,12626,-5%,-0.0,,,,,FWRD
+107,,2020-03-17 15:06:11,2020-03-15,FWRD,Hance Michael L,"CLO, Secretary",A - Grant,0.0,3157,36501,+9%,0.0,,,,,FWRD
+108,,2020-03-17 15:06:11,2020-03-15,FWRD,Hance Michael L,"CLO, Secretary",F - Tax,0.0,-769,36501,-2%,-0.0,,,,,FWRD
+109,,2020-03-17 15:05:48,2020-03-15,FWRD,Morris Michael Joseph,"CFO, Treasurer",A - Grant,0.0,3157,24312,+15%,0.0,,,,,FWRD
+110,,2020-03-17 15:05:48,2020-03-15,FWRD,Morris Michael Joseph,"CFO, Treasurer",F - Tax,0.0,-950,24312,-4%,-0.0,,,,,FWRD
+111,,2020-03-17 15:05:25,2020-03-15,FWRD,Jewell Matthew J,Chief Commercial Officer,A - Grant,0.0,3157,51084,+7%,0.0,,,,,FWRD
+112,,2020-03-17 15:05:25,2020-03-15,FWRD,Jewell Matthew J,Chief Commercial Officer,F - Tax,0.0,-950,51084,-2%,-0.0,,,,,FWRD
+113,,2020-03-17 15:05:05,2020-03-15,FWRD,Ruble Chris C,COO,A - Grant,0.0,3157,33631,+10%,0.0,,,,,FWRD
+114,,2020-03-17 15:05:05,2020-03-15,FWRD,Ruble Chris C,COO,F - Tax,0.0,-950,33631,-3%,-0.0,,,,,FWRD
+115,M,2020-02-07 17:24:32,2020-02-05,FWRD,Mitchin Kyle R,Chief People Officer,F - Tax,0.0,-374,11161,-3%,-0.0,,,,,FWRD
+116,M,2020-02-07 17:24:08,2020-02-05,FWRD,Ruble Chris C,COO,F - Tax,0.0,-507,31395,-2%,-0.0,,,,,FWRD
+117,M,2020-02-07 17:23:47,2020-02-05,FWRD,Hance Michael L,"CLO, Secretary",F - Tax,0.0,-432,34113,-1%,-0.0,,,,,FWRD
+118,M,2020-02-07 17:23:26,2020-02-05,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,F - Tax,0.0,-521,48877,-1%,-0.0,,,,,FWRD
+119,M,2020-02-07 17:23:05,2020-02-05,FWRD,Morris Michael Joseph,"CFO, Treasurer",F - Tax,0.0,-507,22105,-2%,-0.0,,,,,FWRD
+120,D,2020-02-06 17:20:30,2020-02-04,FWRD,Schmitt Thomas,"Pres, CEO",A - Grant,0.0,8054,30545,+36%,0.0,,,,,FWRD
+121,,2020-02-06 17:20:07,2020-02-04,FWRD,Mitchin Kyle R,Chief People Officer,A - Grant,0.0,1668,11535,+17%,0.0,,,,,FWRD
+122,,2020-02-06 17:20:07,2020-02-04,FWRD,Mitchin Kyle R,Chief People Officer,F - Tax,0.0,-220,11535,-2%,-0.0,,,,,FWRD
+123,,2020-02-06 17:19:45,2020-02-04,FWRD,Tomasello Joseph Michael,CIO,A - Grant,0.0,1668,5443,+44%,0.0,,,,,FWRD
+124,,2020-02-06 17:19:23,2020-02-04,FWRD,Morris Michael Joseph,"CFO, Treasurer",A - Grant,0.0,3790,22612,+20%,0.0,,,,,FWRD
+125,,2020-02-06 17:19:23,2020-02-04,FWRD,Morris Michael Joseph,"CFO, Treasurer",F - Tax,0.0,-480,22612,-2%,-0.0,,,,,FWRD
+126,,2020-02-06 17:19:01,2020-02-04,FWRD,Hance Michael L,"CLO, Secretary",A - Grant,0.0,2502,34545,+8%,0.0,,,,,FWRD
+127,,2020-02-06 17:19:01,2020-02-04,FWRD,Hance Michael L,"CLO, Secretary",F - Tax,0.0,-276,34545,-1%,-0.0,,,,,FWRD
+128,,2020-02-06 17:18:36,2020-02-04,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,A - Grant,0.0,2843,49398,+6%,0.0,,,,,FWRD
+129,,2020-02-06 17:18:36,2020-02-04,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,F - Tax,0.0,-330,49398,-1%,-0.0,,,,,FWRD
+130,,2020-02-06 17:18:11,2020-02-04,FWRD,Ruble Chris C,COO,A - Grant,0.0,3411,31931,+12%,0.0,,,,,FWRD
+131,,2020-02-06 17:18:11,2020-02-04,FWRD,Ruble Chris C,COO,F - Tax,0.0,-431,31931,-1%,-0.0,,,,,FWRD
+132,,2020-02-06 17:17:50,2020-02-04,FWRD,Bottomley Christina,"CAO, VP, Controller",A - Grant,0.0,985,3114,+46%,0.0,,,,,FWRD
+133,,2020-02-06 17:17:50,2020-02-04,FWRD,Bottomley Christina,"CAO, VP, Controller",F - Tax,0.0,-109,3114,-3%,-0.0,,,,,FWRD
+134,D,2019-12-31 13:22:35,2019-12-27,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,69.3,-2361,32314,-7%,-163617.0,,,,,FWRD
+135,D,2019-12-31 13:22:35,2019-12-27,FWRD,Hance Michael L,"SVP, CLO, Secretary",M - OptEx,37.14,4407,32314,+16%,163676.0,,,,,FWRD
+136,,2019-10-23 17:28:52,2019-10-22,FWRD,Tucker Laurie Anne,Dir,A - Grant,0.0,1083,1083,New,0.0,,,,,FWRD
+137,,2019-10-11 13:23:24,2019-09-13,FWRD,Morris Michael Joseph,"CFO, Treasurer",A - Grant,0.0,1317,19302,+7%,0.0,,,,,FWRD
+138,,2019-10-11 13:22:59,2019-09-13,FWRD,Ruble Chris C,COO,A - Grant,0.0,930,28871,+3%,0.0,,,,,FWRD
+139,,2019-09-04 15:34:09,2019-09-01,FWRD,Schmitt Thomas,"Pres, CEO",F - Tax,0.0,-2509,22491,-10%,-0.0,,,,,FWRD
+140,D,2019-09-03 16:37:43,2019-08-29,FWRD,Adelaar Glenn A,Former Officer,M - OptEx,48.6,4917,39093,+14%,238956.0,,,,,FWRD
+141,D,2019-09-03 16:37:43,2019-08-29,FWRD,Adelaar Glenn A,Former Officer,S - Sale+OE,61.05,-4917,39093,-11%,-300186.0,,,,,FWRD
+142,,2019-08-02 13:23:55,2019-08-01,FWRD,Bottomley Christina,"CAO, VP, Controller",F - Tax,0.0,-81,2054,-4%,-0.0,,,,,FWRD
+143,,2019-07-26 12:24:59,2019-07-24,FWRD,Mitchin Kyle R,Chief People Officer,F - Tax,0.0,-15,10036,0%,-0.0,,,,,FWRD
+144,,2019-07-03 19:20:49,2019-07-01,FWRD,Adelaar Glenn A,Former Officer,F - Tax,0.0,-1091,39093,-3%,-0.0,,,,,FWRD
+145,,2019-07-02 18:51:32,2019-06-27,FWRD,Morris Michael Joseph,"CFO, Treasurer",F - Tax,0.0,-767,17985,-4%,-0.0,,,,,FWRD
+146,,2019-06-19 16:04:06,2019-06-17,FWRD,Tomasello Joseph Michael,CIO,A - Grant,0.0,3775,3775,New,0.0,,,,,FWRD
+147,,2019-05-10 15:03:46,2019-05-08,FWRD,Langley C John Jr,Dir,A - Grant,0.0,1855,28397,+7%,0.0,,,,,FWRD
+148,,2019-05-10 15:03:13,2019-05-08,FWRD,Campbell C Robert,Dir,A - Grant,0.0,1855,20504,+10%,0.0,,,,,FWRD
+149,,2019-05-10 15:02:40,2019-05-08,FWRD,Lynch George M,Dir,A - Grant,0.0,1855,11827,+19%,0.0,,,,,FWRD
+150,,2019-05-10 15:02:07,2019-05-08,FWRD,West W Gilbert,Dir,A - Grant,0.0,1855,3020,+159%,0.0,,,,,FWRD
+151,,2019-05-10 15:01:34,2019-05-08,FWRD,Amicarella Ana B,Dir,A - Grant,0.0,1855,5257,+55%,0.0,,,,,FWRD
+152,,2019-05-10 15:01:00,2019-05-08,FWRD,Carlock Craig,Dir,A - Grant,0.0,1855,8460,+28%,0.0,,,,,FWRD
+153,,2019-03-19 11:36:19,2019-03-15,FWRD,Ruble Chris C,COO,A - Grant,0.0,2257,27970,+9%,0.0,,,,,FWRD
+154,,2019-03-19 11:36:19,2019-03-15,FWRD,Ruble Chris C,COO,F - Tax,0.0,-679,27970,-2%,-0.0,,,,,FWRD
+155,,2019-03-19 11:35:36,2019-03-15,FWRD,Hance Michael L,"SVP, CLO, Secretary",A - Grant,0.0,2257,30268,+8%,0.0,,,,,FWRD
+156,,2019-03-19 11:35:36,2019-03-15,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-550,30268,-2%,-0.0,,,,,FWRD
+157,,2019-03-19 11:34:51,2019-03-15,FWRD,Campbell Bruce A,COB,A - Grant,0.0,10261,83212,+14%,0.0,,,,,FWRD
+158,,2019-03-19 11:34:51,2019-03-15,FWRD,Campbell Bruce A,COB,F - Tax,0.0,-4038,83212,-5%,-0.0,,,,,FWRD
+159,,2019-03-19 11:34:13,2019-03-15,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,A - Grant,0.0,2257,46879,+5%,0.0,,,,,FWRD
+160,,2019-03-19 11:34:13,2019-03-15,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,F - Tax,0.0,-679,46879,-1%,-0.0,,,,,FWRD
+161,,2019-03-19 11:33:27,2019-03-15,FWRD,Adelaar Glenn A,"SVP, Systems Technology",A - Grant,0.0,1505,40184,+4%,0.0,,,,,FWRD
+162,,2019-03-19 11:33:27,2019-03-15,FWRD,Adelaar Glenn A,"SVP, Systems Technology",F - Tax,0.0,-487,40184,-1%,-0.0,,,,,FWRD
+163,,2019-03-04 09:42:18,2019-02-28,FWRD,Campbell Bruce A,COB,S - Sale,65.01,-16651,76989,-18%,-1082482.0,,,,,FWRD
+164,M,2019-02-28 09:59:03,2019-02-26,FWRD,Campbell Bruce A,COB,S - Sale,65.2,-8240,93640,-8%,-537231.0,,,,,FWRD
+165,,2019-02-22 13:21:16,2019-02-21,FWRD,Ruble Chris C,COO,S - Sale,68.1,-2000,26363,-7%,-136200.0,,,,,FWRD
+166,D,2019-02-14 11:49:12,2019-02-12,FWRD,Ruble Chris C,COO,M - OptEx,48.54,7926,28392,+39%,384754.0,,,,,FWRD
+167,D,2019-02-14 11:49:12,2019-02-12,FWRD,Ruble Chris C,COO,S - Sale+OE,65.12,-7926,28392,-22%,-516141.0,,,,,FWRD
+168,,2019-02-12 10:51:36,2019-02-08,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-197,28561,-1%,-0.0,,,,,FWRD
+169,,2019-02-12 10:51:12,2019-02-08,FWRD,Adelaar Glenn A,"SVP, Systems Technology",F - Tax,0.0,-232,39166,-1%,-0.0,,,,,FWRD
+170,,2019-02-12 10:50:47,2019-02-08,FWRD,Campbell Bruce A,COB,F - Tax,0.0,-929,126801,-1%,-0.0,,,,,FWRD
+171,,2019-02-12 10:50:20,2019-02-08,FWRD,Ruble Chris C,COO,F - Tax,0.0,-248,28392,-1%,-0.0,,,,,FWRD
+172,,2019-02-12 10:49:55,2019-02-08,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,F - Tax,0.0,-247,45301,-1%,-0.0,,,,,FWRD
+173,,2019-02-12 10:49:31,2019-02-08,FWRD,Mitchin Kyle R,"SVP, HR",F - Tax,0.0,-174,10051,-2%,-0.0,,,,,FWRD
+174,M,2019-02-07 14:18:42,2019-02-05,FWRD,Mitchin Kyle R,"SVP, HR",F - Tax,0.0,-380,10225,-4%,-0.0,,,,,FWRD
+175,M,2019-02-07 14:18:00,2019-02-05,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-491,28758,-2%,-0.0,,,,,FWRD
+176,M,2019-02-07 14:17:24,2019-02-05,FWRD,Adelaar Glenn A,"SVP, Systems Technology",F - Tax,0.0,-436,39398,-1%,-0.0,,,,,FWRD
+177,M,2019-02-07 14:16:48,2019-02-05,FWRD,Campbell Bruce A,COB,F - Tax,0.0,-1922,127730,-1%,-0.0,,,,,FWRD
+178,M,2019-02-07 14:16:12,2019-02-05,FWRD,Ruble Chris C,COO,F - Tax,0.0,-571,28640,-2%,-0.0,,,,,FWRD
+179,M,2019-02-07 14:15:35,2019-02-05,FWRD,Morris Michael Joseph,"CFO, SVP, Treasurer",F - Tax,0.0,-582,18752,-3%,-0.0,,,,,FWRD
+180,M,2019-02-07 14:14:58,2019-02-05,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,F - Tax,0.0,-579,45548,-1%,-0.0,,,,,FWRD
+181,,2019-02-06 16:55:23,2019-02-04,FWRD,Morris Michael Joseph,"CFO, SVP, Treasurer",A - Grant,0.0,2793,19334,+17%,0.0,,,,,FWRD
+182,,2019-02-06 16:54:47,2019-02-04,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,A - Grant,0.0,2793,46127,+6%,0.0,,,,,FWRD
+183,,2019-02-06 16:36:34,2019-02-04,FWRD,Hance Michael L,"SVP, CLO, Secretary",A - Grant,0.0,2793,29249,+11%,0.0,,,,,FWRD
+184,,2019-02-06 16:35:56,2019-02-04,FWRD,Mitchin Kyle R,"SVP, HR",A - Grant,0.0,1862,10605,+21%,0.0,,,,,FWRD
+185,,2019-02-06 15:48:39,2019-02-04,FWRD,Ruble Chris C,COO,A - Grant,0.0,2793,29211,+11%,0.0,,,,,FWRD
+186,,2019-02-06 15:47:59,2019-02-04,FWRD,Adelaar Glenn A,"SVP, Systems Technology",A - Grant,0.0,1862,39834,+5%,0.0,,,,,FWRD
+187,,2018-11-02 12:18:35,2018-11-01,FWRD,Lynch George M,Dir,S - Sale,60.52,-1965,9972,-16%,-118922.0,,,,,FWRD
+188,,2018-10-02 18:16:45,2018-10-02,FWRD,West W Gilbert,Dir,A - Grant,0.0,1165,1165,New,0.0,,,,,FWRD
+189,DM,2018-09-06 09:21:46,2018-09-04,FWRD,Campbell Bruce A,COB,M - OptEx,36.55,8627,129652,+7%,315317.0,,,,,FWRD
+190,DM,2018-09-06 09:21:46,2018-09-04,FWRD,Campbell Bruce A,COB,S - Sale+OE,65.57,-8627,129652,-6%,-565678.0,,,,,FWRD
+191,D,2018-09-04 14:24:22,2018-09-01,FWRD,Schmitt Thomas,"Pres, CEO",A - Grant,0.0,25000,25000,New,0.0,,,,,FWRD
+192,D,2018-08-29 13:30:54,2018-08-27,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,36.55,8523,129652,+7%,311516.0,,,,,FWRD
+193,D,2018-08-29 13:30:54,2018-08-27,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,64.51,-8523,129652,-6%,-549801.0,,,,,FWRD
+194,D,2018-08-23 15:04:13,2018-08-21,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,36.55,8790,129652,+7%,321275.0,,,,,FWRD
+195,D,2018-08-23 15:04:13,2018-08-21,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,64.53,-8790,129652,-6%,-567185.0,,,,,FWRD
+196,D,2018-08-21 10:24:26,2018-08-17,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,M - OptEx,37.14,8080,43329,+23%,300091.0,,,,,FWRD
+197,D,2018-08-21 10:24:26,2018-08-17,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,S - Sale+OE,63.0,-8080,43329,-16%,-509047.0,,,,,FWRD
+198,,2018-08-01 10:12:07,2018-07-30,FWRD,Ruble Chris C,COO,S - Sale,62.5,-2000,26367,-7%,-125000.0,,,,,FWRD
+199,D,2018-08-01 10:11:45,2018-07-30,FWRD,Adelaar Glenn A,"SVP, Systems Technology",M - OptEx,46.05,14397,37843,+61%,662945.0,,,,,FWRD
+200,D,2018-08-01 10:11:45,2018-07-30,FWRD,Adelaar Glenn A,"SVP, Systems Technology",S - Sale+OE,62.26,-14397,37843,-28%,-896367.0,,,,,FWRD
+201,,2018-07-26 11:27:55,2018-07-24,FWRD,Mitchin Kyle R,"SVP, HR",F - Tax,0.0,-16,8691,0%,-0.0,,,,,FWRD
+202,,2018-06-28 15:22:12,2018-06-27,FWRD,Morris Michael Joseph,"CFO, SVP, Treasurer",F - Tax,0.0,-774,16541,-4%,-0.0,,,,,FWRD
+203,D,2018-06-18 09:16:01,2018-06-14,FWRD,Hance Michael L,"SVP, CLO, Secretary",M - OptEx,36.55,4669,26451,+21%,170652.0,,,,,FWRD
+204,D,2018-06-18 09:16:01,2018-06-14,FWRD,Hance Michael L,"SVP, CLO, Secretary",S - Sale+OE,60.66,-4669,26451,-15%,-283218.0,,,,,FWRD
+205,,2018-06-14 16:09:19,2018-06-12,FWRD,Morris Michael Joseph,"CFO, SVP, Treasurer",A - Grant,0.0,5392,17315,+45%,0.0,,,,,FWRD
+206,,2018-06-14 16:08:52,2018-06-12,FWRD,Ruble Chris C,COO,A - Grant,0.0,5392,28338,+23%,0.0,,,,,FWRD
+207,,2018-06-14 16:08:27,2018-06-12,FWRD,Mitchin Kyle R,"SVP, HR",A - Grant,0.0,3595,8707,+70%,0.0,,,,,FWRD
+208,,2018-06-14 16:08:01,2018-06-12,FWRD,Hance Michael L,"SVP, CLO, Secretary",A - Grant,0.0,5392,26451,+26%,0.0,,,,,FWRD
+209,,2018-06-14 16:07:36,2018-06-12,FWRD,Adelaar Glenn A,"SVP, Systems Technology",A - Grant,0.0,3595,37843,+10%,0.0,,,,,FWRD
+210,,2018-06-14 16:07:07,2018-06-12,FWRD,Jewell Matthew J,Pres - Intermodal Serv.,A - Grant,0.0,5392,43329,+14%,0.0,,,,,FWRD
+211,AD,2018-06-14 14:48:29,2018-02-05,FWRD,Morris Michael Joseph,"CFO, SVP, Treasurer",A - Grant,0.0,2825,11923,+31%,0.0,,,,,FWRD
+212,D,2018-06-08 13:33:11,2018-06-06,FWRD,Ruble Chris C,Pres - Expedited Services,M - OptEx,47.06,8441,22975,+58%,397271.0,,,,,FWRD
+213,D,2018-06-08 13:33:11,2018-06-06,FWRD,Ruble Chris C,Pres - Expedited Services,S - Sale+OE,60.5,-7969,22975,-26%,-482125.0,,,,,FWRD
+214,D,2018-05-30 11:25:04,2018-05-30,FWRD,Jewell Matthew J,Pres - Logistics Services,M - OptEx,36.55,6232,37937,+20%,227780.0,,,,,FWRD
+215,D,2018-05-30 11:25:04,2018-05-30,FWRD,Jewell Matthew J,Pres - Logistics Services,S - Sale+OE,60.04,-6232,37937,-14%,-374177.0,,,,,FWRD
+216,D,2018-05-24 13:52:55,2018-05-22,FWRD,Jewell Matthew J,Pres - Logistics Services,M - OptEx,36.55,2328,37937,+7%,85088.0,,,,,FWRD
+217,D,2018-05-24 13:52:55,2018-05-22,FWRD,Jewell Matthew J,Pres - Logistics Services,S - Sale+OE,60.0,-2328,37937,-6%,-139681.0,,,,,FWRD
+218,,2018-05-17 11:36:40,2018-05-16,FWRD,Allen Ronald W,Dir,A - Grant,0.0,1997,14118,+16%,0.0,,,,,FWRD
+219,,2018-05-17 11:36:23,2018-05-16,FWRD,Lynch George M,Dir,A - Grant,0.0,1997,11937,+20%,0.0,,,,,FWRD
+220,,2018-05-17 11:35:21,2018-05-16,FWRD,Carlock Craig,Dir,A - Grant,0.0,1997,6605,+43%,0.0,,,,,FWRD
+221,,2018-05-17 11:35:03,2018-05-16,FWRD,Langley C John Jr,Dir,A - Grant,0.0,1997,26542,+8%,0.0,,,,,FWRD
+222,,2018-05-17 11:34:47,2018-05-16,FWRD,Bonebrake Valerie A,Dir,A - Grant,0.0,1997,2559,+355%,0.0,,,,,FWRD
+223,,2018-05-17 11:34:27,2018-05-16,FWRD,Campbell C Robert,Dir,A - Grant,0.0,1997,18649,+12%,0.0,,,,,FWRD
+224,,2018-05-17 11:34:09,2018-05-16,FWRD,Amicarella Ana B,Dir,A - Grant,0.0,1997,3402,+142%,0.0,,,,,FWRD
+225,,2018-02-27 09:50:39,2018-02-26,FWRD,Lynch George M,Dir,S - Sale,55.47,-2443,9940,-20%,-135508.0,,,,,FWRD
+226,M,2018-02-12 15:38:30,2018-02-08,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-380,21059,-2%,-0.0,,,,,FWRD
+227,M,2018-02-12 15:38:13,2018-02-08,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-2287,129652,-2%,-0.0,,,,,FWRD
+228,M,2018-02-12 15:37:55,2018-02-08,FWRD,Adelaar Glenn A,"SVP, Systems Technology",F - Tax,0.0,-253,34248,-1%,-0.0,,,,,FWRD
+229,M,2018-02-12 15:37:34,2018-02-08,FWRD,Ruble Chris C,Pres - Expedited Services,F - Tax,0.0,-474,22503,-2%,-0.0,,,,,FWRD
+230,M,2018-02-12 15:37:12,2018-02-08,FWRD,Mitchin Kyle R,"SVP, HR",F - Tax,0.0,-268,5112,-5%,-0.0,,,,,FWRD
+231,M,2018-02-12 15:36:51,2018-02-08,FWRD,Jewell Matthew J,Pres - Logistics Services,F - Tax,0.0,-474,37937,-1%,-0.0,,,,,FWRD
+232,,2018-02-08 19:10:06,2018-02-06,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-187,21439,-1%,-0.0,,,,,FWRD
+233,,2018-02-08 19:09:49,2018-02-06,FWRD,Ruble Chris C,Pres - Expedited Services,F - Tax,0.0,-233,22977,-1%,-0.0,,,,,FWRD
+234,,2018-02-08 19:09:33,2018-02-06,FWRD,Mitchin Kyle R,"SVP, HR",F - Tax,0.0,-137,5380,-2%,-0.0,,,,,FWRD
+235,,2018-02-08 19:09:16,2018-02-06,FWRD,Adelaar Glenn A,"SVP, Systems Technology",F - Tax,0.0,-101,34501,0%,-0.0,,,,,FWRD
+236,,2018-02-08 19:08:59,2018-02-06,FWRD,Jewell Matthew J,Pres - Logistics Services,F - Tax,0.0,-233,38411,-1%,-0.0,,,,,FWRD
+237,,2018-02-08 19:08:42,2018-02-06,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-849,131939,-1%,-0.0,,,,,FWRD
+238,D,2018-02-07 20:51:45,2018-02-05,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,12842,132788,+11%,0.0,,,,,FWRD
+239,D,2018-02-07 20:51:29,2018-02-05,FWRD,Mitchin Kyle R,"SVP, HR",A - Grant,0.0,1884,5517,+52%,0.0,,,,,FWRD
+240,D,2018-02-07 20:51:12,2018-02-05,FWRD,Jewell Matthew J,Pres - Logistics Services,A - Grant,0.0,2825,38644,+8%,0.0,,,,,FWRD
+241,D,2018-02-07 20:50:54,2018-02-05,FWRD,Adelaar Glenn A,"SVP, Systems Technology",A - Grant,0.0,1884,34602,+6%,0.0,,,,,FWRD
+242,D,2018-02-07 20:50:35,2018-02-05,FWRD,Morris Michael Joseph,"CFO, SVP, Treasurer",A - Grant,0.0,2825,11923,+31%,0.0,,,,,FWRD
+243,D,2018-02-07 20:50:18,2018-02-05,FWRD,Hance Michael L,"SVP, CLO, Secretary",A - Grant,0.0,2825,21626,+15%,0.0,,,,,FWRD
+244,D,2018-02-07 20:50:00,2018-02-05,FWRD,Ruble Chris C,Pres - Expedited Services,A - Grant,0.0,2825,23210,+14%,0.0,,,,,FWRD
+245,,2018-01-16 13:53:11,2018-01-12,FWRD,Bonebrake Valerie A,Dir,A - Grant,0.0,562,562,New,0.0,,,,,FWRD
+246,D,2017-12-11 12:41:53,2017-12-07,FWRD,Ruble Chris C,Pres - Expedited Services,M - OptEx,42.42,23020,20299,-846%,976559.0,,,,,FWRD
+247,D,2017-12-11 12:41:53,2017-12-07,FWRD,Ruble Chris C,Pres - Expedited Services,S - Sale+OE,57.75,-23020,20299,-53%,-1329405.0,,,,,FWRD
+248,D,2017-12-06 19:49:04,2017-12-04,FWRD,Ruble Chris C,Pres - Expedited Services,M - OptEx,37.14,100,20328,0%,3714.0,,,,,FWRD
+249,D,2017-12-06 19:49:04,2017-12-04,FWRD,Ruble Chris C,Pres - Expedited Services,S - Sale+OE,57.95,-100,20328,0%,-5795.0,,,,,FWRD
+250,M,2017-12-01 16:01:53,2017-11-29,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,56.25,-28744,119946,-19%,-1616772.0,,,,,FWRD
+251,M,2017-11-28 17:19:30,2017-11-24,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,55.43,-5264,148690,-3%,-291764.0,,,,,FWRD
+252,M,2017-11-22 16:52:41,2017-11-21,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,55.01,-34281,153954,-18%,-1885779.0,,,,,FWRD
+253,,2017-11-06 19:57:22,2017-11-02,FWRD,Lynch George M,Dir,S - Sale,57.0,-1640,12383,-12%,-93476.0,,,,,FWRD
+254,,2017-09-25 10:47:32,2017-09-22,FWRD,McLean Michael P,FORMER OFFICER,S - Sale,54.82,-4984,13401,-27%,-273239.0,,,,,FWRD
+255,D,2017-08-08 14:40:17,2017-08-04,FWRD,McLean Michael P,"VP, CAO",M - OptEx,41.91,15718,18385,+589%,658800.0,,,,,FWRD
+256,D,2017-08-08 14:40:17,2017-08-04,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,51.05,-15718,18385,-46%,-802341.0,,,,,FWRD
+257,D,2017-08-02 13:19:44,2017-07-31,FWRD,McLean Michael P,"VP, CAO",M - OptEx,36.55,2495,18385,+16%,91192.0,,,,,FWRD
+258,D,2017-08-02 13:19:44,2017-07-31,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,52.0,-2495,18385,-12%,-129740.0,,,,,FWRD
+259,,2017-07-26 16:01:36,2017-07-24,FWRD,Albrecht Thomas S,Dir,A - Grant,0.0,1405,1405,New,0.0,,,,,FWRD
+260,D,2017-07-26 16:01:06,2017-07-24,FWRD,Mitchin Kyle R,"SVP, HR",A - Grant,0.0,155,3576,+5%,0.0,,,,,FWRD
+261,,2017-07-26 16:00:49,2017-07-24,FWRD,Amicarella Ana B,Dir,A - Grant,0.0,1405,1405,New,0.0,,,,,FWRD
+262,,2017-07-26 16:00:27,2017-07-24,FWRD,Palomarez Javier Alberto,Dir,A - Grant,0.0,1405,1405,New,0.0,,,,,FWRD
+263,,2017-06-30 10:17:35,2017-06-27,FWRD,Morris Michael Joseph,"CFO, SVP, Treasurer",F - Tax,0.0,-850,9098,-9%,-0.0,,,,,FWRD
+264,,2017-06-14 10:47:30,2017-06-12,FWRD,Campbell C Robert,Dir,S - Sale,53.58,-3000,16652,-15%,-160740.0,,,,,FWRD
+265,D,2017-06-12 15:02:56,2017-06-08,FWRD,Campbell C Robert,Dir,S - Sale+OE,52.99,-1718,19652,-8%,-91036.0,,,,,FWRD
+266,D,2017-06-01 11:15:42,2017-05-30,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,28.61,8038,188235,+4%,229967.0,,,,,FWRD
+267,D,2017-06-01 11:15:42,2017-05-30,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,52.2,-8038,188235,-4%,-419584.0,,,,,FWRD
+268,D,2017-05-30 14:15:34,2017-05-25,FWRD,McLean Michael P,"VP, CAO",M - OptEx,28.61,3333,18385,+22%,95357.0,,,,,FWRD
+269,D,2017-05-30 14:15:34,2017-05-25,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,52.0,-3333,18385,-15%,-173316.0,,,,,FWRD
+270,DM,2017-05-30 14:15:14,2017-05-25,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,28.61,20529,188235,+12%,587335.0,,,,,FWRD
+271,DM,2017-05-30 14:15:14,2017-05-25,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,51.64,-20529,188235,-10%,-1060204.0,,,,,FWRD
+272,D,2017-05-18 11:26:19,2017-05-16,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,28.61,464,188235,0%,13275.0,,,,,FWRD
+273,D,2017-05-18 11:26:19,2017-05-16,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,52.0,-464,188235,0%,-24128.0,,,,,FWRD
+274,,2017-05-15 18:35:15,2017-05-10,FWRD,Lynch George M,Dir,A - Grant,0.0,1686,14023,+14%,0.0,,,,,FWRD
+275,,2017-05-15 18:34:56,2017-05-10,FWRD,Campbell C Robert,Dir,A - Grant,0.0,1686,21370,+9%,0.0,,,,,FWRD
+276,,2017-05-15 18:34:38,2017-05-10,FWRD,Langley C John Jr,Dir,A - Grant,0.0,1686,24545,+7%,0.0,,,,,FWRD
+277,,2017-05-15 18:34:18,2017-05-10,FWRD,Madden Doug,Dir,A - Grant,0.0,1686,4745,+55%,0.0,,,,,FWRD
+278,,2017-05-15 18:33:52,2017-05-10,FWRD,Carlock Craig,Dir,A - Grant,0.0,1686,4608,+58%,0.0,,,,,FWRD
+279,,2017-05-15 18:33:33,2017-05-10,FWRD,Allen Ronald W,Dir,A - Grant,0.0,1686,12121,+16%,0.0,,,,,FWRD
+280,D,2017-05-15 18:01:12,2017-05-12,FWRD,McLean Michael P,"VP, CAO",M - OptEx,28.61,3333,18385,+22%,95357.0,,,,,FWRD
+281,D,2017-05-15 18:01:12,2017-05-12,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,50.33,-3333,18385,-15%,-167740.0,,,,,FWRD
+282,M,2017-05-15 16:47:17,2017-04-26,FWRD,Drum Craig A,FORMER OFFICER,S - Sale,50.14,-10255,1601,-86%,-514143.0,,,,,FWRD
+283,D,2017-05-10 15:56:27,2017-05-08,FWRD,Hance Michael L,"SVP, CLO, Secretary",M - OptEx,28.61,6666,18795,+55%,190714.0,0.0,,,,FWRD
+284,D,2017-05-10 15:56:27,2017-05-08,FWRD,Hance Michael L,"SVP, CLO, Secretary",S - Sale+OE,51.3,-6666,18795,-26%,-341986.0,0.0,,,,FWRD
+285,D,2017-05-08 16:41:02,2017-05-04,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,28.61,320,188235,0%,9155.0,-1.0,-2.0,,,FWRD
+286,D,2017-05-08 16:41:02,2017-05-04,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,52.4,-320,188235,0%,-16768.0,-1.0,-2.0,,,FWRD
+287,DM,2017-05-04 16:44:49,2017-05-02,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,28.61,7686,188235,+4%,219896.0,-1.0,-2.0,,,FWRD
+288,DM,2017-05-04 16:44:49,2017-05-02,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,52.46,-7686,188235,-4%,-403224.0,-1.0,-2.0,,,FWRD
+289,DM,2017-05-03 15:16:15,2017-05-01,FWRD,Jewell Matthew J,Pres - Logistics Services,M - OptEx,28.61,12222,35814,+52%,349671.0,0.0,-2.0,,,FWRD
+290,DM,2017-05-03 15:16:15,2017-05-01,FWRD,Jewell Matthew J,Pres - Logistics Services,S - Sale+OE,52.51,-12222,35814,-25%,-641802.0,0.0,-2.0,,,FWRD
+291,D,2017-05-03 15:15:57,2017-05-03,FWRD,Ruble Chris C,Pres - Expedited Services,M - OptEx,35.41,9995,20328,+97%,353923.0,0.0,-2.0,,,FWRD
+292,D,2017-05-03 15:15:57,2017-05-03,FWRD,Ruble Chris C,Pres - Expedited Services,S - Sale+OE,52.5,-9995,20328,-33%,-524738.0,0.0,-2.0,,,FWRD
+293,,2017-03-08 17:07:36,2017-03-07,FWRD,Drum Craig A,FORMER OFFICER,S - Sale,47.79,-557,11856,-4%,-26619.0,-1.0,0.0,0.0,,FWRD
+294,D,2017-03-01 16:46:16,2017-02-27,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,41.62,6225,12413,+101%,259074.0,-3.0,-5.0,-7.0,,FWRD
+295,D,2017-03-01 16:46:16,2017-02-27,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,50.17,-5965,12413,-32%,-299273.0,-3.0,-5.0,-7.0,,FWRD
+296,M,2017-02-10 19:16:40,2017-02-08,FWRD,Jewell Matthew J,Pres - Logistics Services,F - Tax,0.0,-521,35814,-1%,-0.0,1.0,1.0,-4.0,,FWRD
+297,M,2017-02-10 19:16:24,2017-02-08,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-417,18385,-2%,-0.0,1.0,1.0,-4.0,,FWRD
+298,M,2017-02-10 19:16:08,2017-02-08,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-1643,188235,-1%,-0.0,1.0,1.0,-4.0,,FWRD
+299,M,2017-02-10 19:15:53,2017-02-08,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-428,18795,-2%,-0.0,1.0,1.0,-4.0,,FWRD
+300,M,2017-02-10 19:15:38,2017-02-08,FWRD,Ruble Chris C,Pres - Expedited Services,F - Tax,0.0,-521,20328,-2%,-0.0,1.0,1.0,-4.0,,FWRD
+301,M,2017-02-10 19:15:23,2017-02-08,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-447,12153,-4%,-0.0,1.0,1.0,-4.0,,FWRD
+302,D,2017-02-08 18:17:47,2017-02-06,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,10456,189878,+6%,0.0,7.0,7.0,1.0,,FWRD
+303,D,2017-02-08 18:17:47,2017-02-06,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-715,189878,0%,-0.0,7.0,7.0,1.0,,FWRD
+304,,2017-02-08 18:17:18,2017-02-06,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-200,12600,-2%,-0.0,7.0,7.0,1.0,,FWRD
+305,D,2017-02-08 18:17:02,2017-02-06,FWRD,Morris Michael Joseph,"CFO, SVP, Treasurer",A - Grant,0.0,2300,9948,+30%,0.0,7.0,7.0,1.0,,FWRD
+306,D,2017-02-08 18:16:47,2017-02-06,FWRD,Jewell Matthew J,Pres - Logistics Services,A - Grant,0.0,2300,36335,+7%,0.0,7.0,7.0,1.0,,FWRD
+307,D,2017-02-08 18:16:47,2017-02-06,FWRD,Jewell Matthew J,Pres - Logistics Services,F - Tax,0.0,-282,36335,-1%,-0.0,7.0,7.0,1.0,,FWRD
+308,D,2017-02-08 18:14:48,2017-02-06,FWRD,Hance Michael L,"SVP, CLO, Secretary",A - Grant,0.0,2300,19223,+14%,0.0,7.0,7.0,1.0,,FWRD
+309,D,2017-02-08 18:14:48,2017-02-06,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-129,19223,-1%,-0.0,7.0,7.0,1.0,,FWRD
+310,D,2017-02-08 18:14:29,2017-02-06,FWRD,McLean Michael P,"VP, CAO",A - Grant,0.0,1534,18802,+9%,0.0,7.0,7.0,1.0,,FWRD
+311,D,2017-02-08 18:14:29,2017-02-06,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-188,18802,-1%,-0.0,7.0,7.0,1.0,,FWRD
+312,D,2017-02-08 18:14:04,2017-02-06,FWRD,Ruble Chris C,Pres - Expedited Services,A - Grant,0.0,2300,20849,+12%,0.0,7.0,7.0,1.0,,FWRD
+313,D,2017-02-08 18:14:04,2017-02-06,FWRD,Ruble Chris C,Pres - Expedited Services,F - Tax,0.0,-288,20849,-1%,-0.0,7.0,7.0,1.0,,FWRD
+314,,2016-12-28 13:54:35,2016-12-14,FWRD,Campbell C Robert,Dir,S - Sale,47.78,-4000,19684,-17%,-191132.0,-1.0,2.0,3.0,,FWRD
+315,D,2016-12-16 15:31:30,2016-12-15,FWRD,Bell Rodney L,FORMER OFFICER,M - OptEx,36.84,16640,47885,+53%,612959.0,0.0,-1.0,1.0,,FWRD
+316,D,2016-12-16 15:31:30,2016-12-15,FWRD,Bell Rodney L,FORMER OFFICER,S - Sale+OE,48.31,-21640,47885,-31%,-1045480.0,0.0,-1.0,1.0,,FWRD
+317,,2016-12-09 12:03:45,2016-12-07,FWRD,Bell Rodney L,FORMER OFFICER,S - Sale,49.03,-4319,52885,-8%,-211768.0,-2.0,-4.0,-2.0,,FWRD
+318,D,2016-11-30 14:37:32,2016-11-28,FWRD,Ruble Chris C,Pres - Expedited Services,M - OptEx,28.61,4000,18771,+27%,114440.0,1.0,2.0,0.0,,FWRD
+319,D,2016-11-30 14:37:32,2016-11-28,FWRD,Ruble Chris C,Pres - Expedited Services,S - Sale+OE,48.75,-4000,18771,-18%,-195000.0,1.0,2.0,0.0,,FWRD
+320,,2016-11-16 16:05:02,2016-11-14,FWRD,Bell Rodney L,FORMER OFFICER,S - Sale,48.82,-15681,57204,-22%,-765578.0,0.0,1.0,0.0,,FWRD
+321,D,2016-09-01 17:43:38,2016-08-31,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.47,14779,17449,+553%,332084.0,1.0,1.0,-7.0,4.0,FWRD
+322,D,2016-09-01 17:43:38,2016-08-31,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,46.01,-14779,17449,-46%,-680039.0,1.0,1.0,-7.0,4.0,FWRD
+323,D,2016-08-25 14:34:03,2016-08-24,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.47,221,17449,+1%,4966.0,-1.0,-2.0,-9.0,7.0,FWRD
+324,D,2016-08-25 14:34:03,2016-08-24,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,47.01,-221,17449,-1%,-10389.0,-1.0,-2.0,-9.0,7.0,FWRD
+325,D,2016-08-25 14:21:38,2016-08-24,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,22.47,80000,180137,+80%,1797600.0,-1.0,-2.0,-9.0,7.0,FWRD
+326,D,2016-08-25 14:21:38,2016-08-24,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,46.5,-80000,180137,-31%,-3720056.0,-1.0,-2.0,-9.0,7.0,FWRD
+327,D,2016-08-24 15:45:06,2016-08-23,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.47,10300,17449,+144%,231441.0,1.0,0.0,-7.0,7.0,FWRD
+328,D,2016-08-24 15:45:06,2016-08-23,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,46.0,-10300,17449,-37%,-473834.0,1.0,0.0,-7.0,7.0,FWRD
+329,,2016-08-24 15:44:48,2016-08-23,FWRD,Bell Rodney L,FORMER OFFICER,S - Sale,46.01,-18576,72885,-20%,-854609.0,1.0,0.0,-7.0,7.0,FWRD
+330,D,2016-08-22 09:52:46,2016-08-19,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.47,4700,17449,+37%,105609.0,0.0,0.0,-5.0,9.0,FWRD
+331,D,2016-08-22 09:52:46,2016-08-19,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,46.0,-4700,17449,-21%,-216200.0,0.0,0.0,-5.0,9.0,FWRD
+332,D,2016-08-19 15:03:32,2016-08-18,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.47,5493,17449,+46%,123428.0,0.0,1.0,-1.0,10.0,FWRD
+333,D,2016-08-19 15:03:32,2016-08-18,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,45.75,-5493,17449,-24%,-251325.0,0.0,1.0,-1.0,10.0,FWRD
+334,D,2016-08-10 15:59:16,2016-08-08,FWRD,Jewell Matthew J,Pres - Logistics Services,M - OptEx,22.47,113,34310,0%,2539.0,-1.0,-1.0,1.0,1.0,FWRD
+335,D,2016-08-10 15:59:16,2016-08-08,FWRD,Jewell Matthew J,Pres - Logistics Services,S - Sale+OE,47.01,-113,34310,0%,-5312.0,-1.0,-1.0,1.0,1.0,FWRD
+336,D,2016-08-10 15:59:01,2016-08-08,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.47,507,17449,+3%,11392.0,-1.0,-1.0,1.0,1.0,FWRD
+337,D,2016-08-10 15:59:01,2016-08-08,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,47.02,-507,17449,-3%,-23840.0,-1.0,-1.0,1.0,1.0,FWRD
+338,D,2016-08-10 15:58:47,2016-08-08,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,22.47,10000,180137,+6%,224700.0,-1.0,-1.0,1.0,1.0,FWRD
+339,D,2016-08-10 15:58:47,2016-08-08,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,47.0,-10000,180137,-5%,-470000.0,-1.0,-1.0,1.0,1.0,FWRD
+340,,2016-08-10 15:58:29,2016-08-08,FWRD,Bell Rodney L,FORMER OFFICER,S - Sale,47.01,-1200,91461,-1%,-56409.0,-1.0,-1.0,1.0,1.0,FWRD
+341,DM,2016-08-08 16:42:22,2016-08-04,FWRD,Jewell Matthew J,Pres - Logistics Services,M - OptEx,22.47,39987,34310,-704%,898508.0,0.0,-2.0,0.0,3.0,FWRD
+342,DM,2016-08-08 16:42:22,2016-08-04,FWRD,Jewell Matthew J,Pres - Logistics Services,S - Sale+OE,46.47,-39987,34310,-54%,-1858374.0,0.0,-2.0,0.0,3.0,FWRD
+343,D,2016-08-08 16:42:07,2016-08-05,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,22.47,10000,180137,+6%,224700.0,0.0,-2.0,0.0,3.0,FWRD
+344,D,2016-08-08 16:42:07,2016-08-05,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,47.0,-10000,180137,-5%,-470000.0,0.0,-2.0,0.0,3.0,FWRD
+345,D,2016-08-08 16:41:50,2016-08-05,FWRD,Ruble Chris C,Pres - Expedited Services,M - OptEx,28.61,6787,18771,+57%,194176.0,0.0,-2.0,0.0,3.0,FWRD
+346,D,2016-08-08 16:41:50,2016-08-05,FWRD,Ruble Chris C,Pres - Expedited Services,S - Sale+OE,47.0,-6787,18771,-27%,-318989.0,0.0,-2.0,0.0,3.0,FWRD
+347,,2016-08-08 16:41:28,2016-08-05,FWRD,Bell Rodney L,FORMER OFFICER,S - Sale,47.0,-20685,92661,-18%,-972195.0,0.0,-2.0,0.0,3.0,FWRD
+348,DM,2016-08-04 10:43:27,2016-08-02,FWRD,Jewell Matthew J,Pres - Logistics Services,M - OptEx,22.47,9300,34310,+37%,208971.0,0.0,0.0,1.0,3.0,FWRD
+349,DM,2016-08-04 10:43:27,2016-08-02,FWRD,Jewell Matthew J,Pres - Logistics Services,S - Sale+OE,46.02,-9300,34310,-21%,-427998.0,0.0,0.0,1.0,3.0,FWRD
+350,D,2016-08-04 10:43:09,2016-08-02,FWRD,Bell Rodney L,FORMER OFFICER,M - OptEx,22.47,4967,113346,+5%,111608.0,0.0,0.0,1.0,3.0,FWRD
+351,D,2016-08-04 10:43:09,2016-08-02,FWRD,Bell Rodney L,FORMER OFFICER,S - Sale+OE,46.05,-4967,113346,-4%,-228710.0,0.0,0.0,1.0,3.0,FWRD
+352,DM,2016-08-02 17:00:50,2016-07-29,FWRD,Bell Rodney L,FORMER OFFICER,M - OptEx,22.47,33474,113346,+42%,752161.0,0.0,2.0,2.0,6.0,FWRD
+353,DM,2016-08-02 17:00:50,2016-07-29,FWRD,Bell Rodney L,FORMER OFFICER,S - Sale+OE,46.31,-29024,113346,-20%,-1344044.0,0.0,2.0,2.0,6.0,FWRD
+354,D,2016-08-02 17:00:26,2016-08-01,FWRD,Jewell Matthew J,Pres - Logistics Services,M - OptEx,22.47,600,34310,+2%,13482.0,0.0,2.0,2.0,6.0,FWRD
+355,D,2016-08-02 17:00:26,2016-08-01,FWRD,Jewell Matthew J,Pres - Logistics Services,S - Sale+OE,46.44,-600,34310,-2%,-27862.0,0.0,2.0,2.0,6.0,FWRD
+356,DM,2016-07-29 16:29:12,2016-07-27,FWRD,Hance Michael L,"SVP, CLO, Secretary",M - OptEx,22.47,18000,17046,-1886%,404460.0,0.0,0.0,-1.0,8.0,FWRD
+357,DM,2016-07-29 16:29:12,2016-07-27,FWRD,Hance Michael L,"SVP, CLO, Secretary",S - Sale+OE,46.05,-18000,17046,-51%,-828924.0,0.0,0.0,-1.0,8.0,FWRD
+358,D,2016-07-29 10:30:13,2016-07-28,FWRD,Bell Rodney L,FORMER OFFICER,M - OptEx,22.47,1050,108896,+1%,23594.0,0.0,-1.0,-1.0,8.0,FWRD
+359,D,2016-07-29 10:30:13,2016-07-28,FWRD,Bell Rodney L,FORMER OFFICER,S - Sale+OE,46.5,-1050,108896,-1%,-48825.0,0.0,-1.0,-1.0,8.0,FWRD
+360,DM,2016-07-28 14:17:53,2016-07-26,FWRD,Bell Rodney L,FORMER OFFICER,M - OptEx,22.47,10509,108896,+11%,236137.0,0.0,0.0,0.0,7.0,FWRD
+361,DM,2016-07-28 14:17:53,2016-07-26,FWRD,Bell Rodney L,FORMER OFFICER,S - Sale+OE,46.74,-10509,108896,-9%,-491198.0,0.0,0.0,0.0,7.0,FWRD
+362,,2016-06-28 16:50:32,2016-06-27,FWRD,Morris Michael Joseph,"CFO, SVP, Treasurer",A - Grant,0.0,7648,7648,New,0.0,1.0,2.0,6.0,11.0,FWRD
+363,,2016-06-07 14:30:33,2016-06-03,FWRD,Lynch George M,Dir,S - Sale,45.0,-2739,14426,-16%,-123255.0,1.0,0.0,-3.0,4.0,FWRD
+364,,2016-05-13 10:37:24,2016-05-11,FWRD,Allen Ronald W,Dir,A - Grant,0.0,1965,10435,+23%,0.0,-1.0,-2.0,5.0,7.0,FWRD
+365,,2016-05-13 10:37:08,2016-05-11,FWRD,Lynch George M,Dir,A - Grant,0.0,1965,17165,+13%,0.0,-1.0,-2.0,5.0,7.0,FWRD
+366,,2016-05-13 10:36:53,2016-05-11,FWRD,Langley C John Jr,Dir,A - Grant,0.0,1965,22859,+9%,0.0,-1.0,-2.0,5.0,7.0,FWRD
+367,,2016-05-13 10:36:37,2016-05-11,FWRD,Carlock Craig,Dir,A - Grant,0.0,1965,2922,+205%,0.0,-1.0,-2.0,5.0,7.0,FWRD
+368,,2016-05-13 10:36:18,2016-05-11,FWRD,Campbell C Robert,Dir,A - Grant,0.0,1965,23684,+9%,0.0,-1.0,-2.0,5.0,7.0,FWRD
+369,,2016-05-13 10:36:00,2016-05-11,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,1965,24809,+9%,0.0,-1.0,-2.0,5.0,7.0,FWRD
+370,,2016-05-13 10:35:39,2016-05-11,FWRD,Madden Doug,Dir,A - Grant,0.0,1965,3059,+180%,0.0,-1.0,-2.0,5.0,7.0,FWRD
+371,,2016-05-13 10:35:20,2016-05-11,FWRD,Leinweber Larry D,Dir,A - Grant,0.0,1965,13518,+17%,0.0,-1.0,-2.0,5.0,7.0,FWRD
+372,,2016-03-09 16:59:05,2016-03-07,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,10331,180137,+6%,0.0,0.0,1.0,6.0,13.0,FWRD
+373,,2016-03-09 16:59:05,2016-03-07,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-3190,180137,-2%,-0.0,0.0,1.0,6.0,13.0,FWRD
+374,,2016-03-09 16:58:45,2016-03-07,FWRD,Ruble Chris C,Pres - Expedited Services,A - Grant,0.0,3409,18771,+22%,0.0,0.0,1.0,6.0,13.0,FWRD
+375,,2016-03-09 16:58:45,2016-03-07,FWRD,Ruble Chris C,Pres - Expedited Services,F - Tax,0.0,-1137,18771,-6%,-0.0,0.0,1.0,6.0,13.0,FWRD
+376,,2016-03-09 16:58:30,2016-03-07,FWRD,McLean Michael P,"VP, CAO",A - Grant,0.0,1859,17449,+12%,0.0,0.0,1.0,6.0,13.0,FWRD
+377,,2016-03-09 16:58:30,2016-03-07,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-504,17449,-3%,-0.0,0.0,1.0,6.0,13.0,FWRD
+378,,2016-03-09 16:58:16,2016-03-07,FWRD,Jewell Matthew J,Pres - Logistics Services,A - Grant,0.0,3409,34310,+11%,0.0,0.0,1.0,6.0,13.0,FWRD
+379,,2016-03-09 16:58:16,2016-03-07,FWRD,Jewell Matthew J,Pres - Logistics Services,F - Tax,0.0,-1137,34310,-3%,-0.0,0.0,1.0,6.0,13.0,FWRD
+380,,2016-03-09 16:57:53,2016-03-07,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",A - Grant,0.0,3409,108896,+3%,0.0,0.0,1.0,6.0,13.0,FWRD
+381,,2016-03-09 16:57:53,2016-03-07,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-932,108896,-1%,-0.0,0.0,1.0,6.0,13.0,FWRD
+382,,2016-03-09 16:57:22,2016-03-07,FWRD,Drum Craig A,"SVP, Sales",A - Grant,0.0,1859,12800,+17%,0.0,0.0,1.0,6.0,13.0,FWRD
+383,,2016-03-09 16:57:22,2016-03-07,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-620,12800,-5%,-0.0,0.0,1.0,6.0,13.0,FWRD
+384,,2016-03-09 16:57:04,2016-03-07,FWRD,Hance Michael L,"SVP, CLO, Secretary",A - Grant,0.0,1859,17046,+12%,0.0,0.0,1.0,6.0,13.0,FWRD
+385,,2016-03-09 16:57:04,2016-03-07,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-508,17046,-3%,-0.0,0.0,1.0,6.0,13.0,FWRD
+386,D,2016-02-10 17:49:40,2016-02-08,FWRD,Jewell Matthew J,Pres - Logistics Services,A - Grant,0.0,2519,32038,+9%,0.0,-5.0,4.0,8.0,20.0,FWRD
+387,D,2016-02-10 17:49:40,2016-02-09,FWRD,Jewell Matthew J,Pres - Logistics Services,F - Tax,0.0,-941,32038,-3%,-0.0,-5.0,4.0,8.0,20.0,FWRD
+388,D,2016-02-10 17:49:25,2016-02-08,FWRD,McLean Michael P,"VP, CAO",A - Grant,0.0,1679,16094,+12%,0.0,-5.0,4.0,8.0,20.0,FWRD
+389,D,2016-02-10 17:49:25,2016-02-09,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-457,16094,-3%,-0.0,-5.0,4.0,8.0,20.0,FWRD
+390,D,2016-02-10 17:49:12,2016-02-08,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",A - Grant,0.0,1908,106419,+2%,0.0,-5.0,4.0,8.0,20.0,FWRD
+391,D,2016-02-10 17:49:12,2016-02-09,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-797,106419,-1%,-0.0,-5.0,4.0,8.0,20.0,FWRD
+392,D,2016-02-10 17:48:57,2016-02-08,FWRD,Hance Michael L,"SVP, CLO, Secretary",A - Grant,0.0,2519,15695,+19%,0.0,-5.0,4.0,8.0,20.0,FWRD
+393,D,2016-02-10 17:48:57,2016-02-09,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-527,15695,-3%,-0.0,-5.0,4.0,8.0,20.0,FWRD
+394,D,2016-02-10 17:48:43,2016-02-08,FWRD,Drum Craig A,"SVP, Sales",A - Grant,0.0,1679,11561,+17%,0.0,-5.0,4.0,8.0,20.0,FWRD
+395,D,2016-02-10 17:48:43,2016-02-09,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-647,11561,-5%,-0.0,-5.0,4.0,8.0,20.0,FWRD
+396,D,2016-02-10 17:48:30,2016-02-08,FWRD,Ruble Chris C,Pres - Expedited Services,A - Grant,0.0,2519,16499,+18%,0.0,-5.0,4.0,8.0,20.0,FWRD
+397,D,2016-02-10 17:48:30,2016-02-09,FWRD,Ruble Chris C,Pres - Expedited Services,F - Tax,0.0,-941,16499,-5%,-0.0,-5.0,4.0,8.0,20.0,FWRD
+398,D,2016-02-10 17:48:17,2016-02-08,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,11450,172996,+7%,0.0,-5.0,4.0,8.0,20.0,FWRD
+399,D,2016-02-10 17:48:17,2016-02-09,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-2172,172996,-1%,-0.0,-5.0,4.0,8.0,20.0,FWRD
+400,D,2016-02-04 16:28:04,2016-02-03,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,22.87,25557,105308,+32%,584489.0,-2.0,-15.0,-6.0,5.0,FWRD
+401,D,2015-11-20 15:53:02,2015-11-20,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.87,9000,14866,+153%,205830.0,0.0,2.0,-11.0,-9.0,FWRD
+402,D,2015-11-20 15:53:02,2015-11-20,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,48.0,-9000,14866,-38%,-432000.0,0.0,2.0,-11.0,-9.0,FWRD
+403,D,2015-11-13 14:55:09,2015-11-12,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,22.87,8744,163718,+6%,199975.0,0.0,6.0,-4.0,-4.0,FWRD
+404,DM,2015-11-09 14:50:57,2015-11-05,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,22.87,91256,154974,+143%,2087025.0,-4.0,-5.0,-4.0,-6.0,FWRD
+405,DM,2015-11-09 14:50:57,2015-11-05,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,46.01,-91256,154974,-37%,-4198291.0,-4.0,-5.0,-4.0,-6.0,FWRD
+406,,2015-10-19 17:04:16,2015-10-19,FWRD,Carlock Craig,Dir,A - Grant,0.0,957,957,New,0.0,1.0,8.0,7.0,11.0,FWRD
+407,,2015-09-10 17:12:10,2015-09-08,FWRD,Madden Doug,Dir,A - Grant,0.0,1094,1094,New,0.0,0.0,1.0,-1.0,-6.0,FWRD
+408,D,2015-06-16 12:29:35,2015-06-12,FWRD,Hance Michael L,"SVP, CLO, Secretary",M - OptEx,22.47,9000,13696,+192%,202230.0,-1.0,-1.0,-5.0,-20.0,FWRD
+409,D,2015-06-16 12:29:35,2015-06-12,FWRD,Hance Michael L,"SVP, CLO, Secretary",S - Sale+OE,54.25,-9000,13696,-40%,-488253.0,-1.0,-1.0,-5.0,-20.0,FWRD
+410,D,2015-06-04 17:01:01,2015-06-03,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.87,8800,14866,+145%,201256.0,1.0,2.0,-3.0,-9.0,FWRD
+411,D,2015-06-04 17:01:01,2015-06-03,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,54.0,-8800,14866,-37%,-475200.0,1.0,2.0,-3.0,-9.0,FWRD
+412,D,2015-06-04 17:00:46,2015-06-03,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,22.87,20000,79739,+33%,457400.0,1.0,2.0,-3.0,-9.0,FWRD
+413,D,2015-06-04 17:00:46,2015-06-03,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,54.0,-20000,79739,-20%,-1080002.0,1.0,2.0,-3.0,-9.0,FWRD
+414,D,2015-05-26 12:30:26,2015-05-21,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.87,200,14866,+1%,4574.0,-1.0,-1.0,1.0,-9.0,FWRD
+415,D,2015-05-26 12:30:26,2015-05-21,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,54.0,-200,14866,-1%,-10800.0,-1.0,-1.0,1.0,-9.0,FWRD
+416,,2015-05-15 14:54:27,2015-05-13,FWRD,Paxton Gary L,Dir,A - Grant,0.0,1640,18024,+10%,0.0,0.0,2.0,3.0,-12.0,FWRD
+417,,2015-05-15 14:54:11,2015-05-13,FWRD,Lynch George M,Dir,A - Grant,0.0,1640,15200,+12%,0.0,0.0,2.0,3.0,-12.0,FWRD
+418,,2015-05-15 14:53:57,2015-05-13,FWRD,Campbell C Robert,Dir,A - Grant,0.0,1640,21719,+8%,0.0,0.0,2.0,3.0,-12.0,FWRD
+419,,2015-05-15 14:53:41,2015-05-13,FWRD,Leinweber Larry D,Dir,A - Grant,0.0,1640,11553,+17%,0.0,0.0,2.0,3.0,-12.0,FWRD
+420,,2015-05-15 14:52:49,2015-05-13,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,1640,22844,+8%,0.0,0.0,2.0,3.0,-12.0,FWRD
+421,,2015-05-15 14:52:36,2015-05-13,FWRD,Langley C John Jr,Dir,A - Grant,0.0,1640,20894,+9%,0.0,0.0,2.0,3.0,-12.0,FWRD
+422,,2015-05-15 14:52:21,2015-05-13,FWRD,Allen Ronald W,Dir,A - Grant,0.0,1640,8470,+24%,0.0,0.0,2.0,3.0,-12.0,FWRD
+423,,2015-03-18 16:11:07,2015-03-04,FWRD,Drum Craig A,"SVP, Sales",A - Grant,0.0,1341,10529,+15%,0.0,2.0,2.0,-5.0,-18.0,FWRD
+424,,2015-03-18 16:11:07,2015-03-04,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-447,10529,-4%,-0.0,2.0,2.0,-5.0,-18.0,FWRD
+425,,2015-03-18 16:10:49,2015-03-04,FWRD,Hance Michael L,"SVP, CLO, Secretary",A - Grant,0.0,1341,13696,+11%,0.0,2.0,2.0,-5.0,-18.0,FWRD
+426,,2015-03-18 16:10:49,2015-03-04,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-367,13696,-3%,-0.0,2.0,2.0,-5.0,-18.0,FWRD
+427,,2015-03-18 16:10:35,2015-03-04,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",A - Grant,0.0,2459,79739,+3%,0.0,2.0,2.0,-5.0,-18.0,FWRD
+428,,2015-03-18 16:10:35,2015-03-04,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-673,79739,-1%,-0.0,2.0,2.0,-5.0,-18.0,FWRD
+429,,2015-03-18 16:10:21,2015-03-04,FWRD,McLean Michael P,"VP, CAO",A - Grant,0.0,1341,14866,+10%,0.0,2.0,2.0,-5.0,-18.0,FWRD
+430,,2015-03-18 16:10:21,2015-03-04,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-364,14866,-2%,-0.0,2.0,2.0,-5.0,-18.0,FWRD
+431,,2015-03-18 16:10:06,2015-03-04,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",A - Grant,0.0,2459,30454,+9%,0.0,2.0,2.0,-5.0,-18.0,FWRD
+432,,2015-03-18 16:09:52,2015-03-04,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,7453,154974,+5%,0.0,2.0,2.0,-5.0,-18.0,FWRD
+433,,2015-03-18 16:09:52,2015-03-04,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-2038,154974,-1%,-0.0,2.0,2.0,-5.0,-18.0,FWRD
+434,,2015-03-18 16:09:39,2015-03-04,FWRD,Ruble Chris C,"EVP, Operations",A - Grant,0.0,2459,14412,+21%,0.0,2.0,2.0,-5.0,-18.0,FWRD
+435,,2015-03-18 16:09:39,2015-03-04,FWRD,Ruble Chris C,"EVP, Operations",F - Tax,0.0,-820,14412,-5%,-0.0,2.0,2.0,-5.0,-18.0,FWRD
+436,,2015-03-17 16:03:44,2015-03-13,FWRD,Ruble Chris C,"EVP, Operations",S - Sale,53.74,-2500,12773,-16%,-134355.0,1.0,4.0,-5.0,-18.0,FWRD
+437,D,2015-03-02 12:27:01,2015-02-27,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,22.87,4443,77953,+6%,101611.0,0.0,-1.0,2.0,-15.0,FWRD
+438,D,2015-03-02 12:27:01,2015-02-27,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,54.0,-71,77953,0%,-3834.0,0.0,-1.0,2.0,-15.0,FWRD
+439,DM,2015-02-25 16:31:57,2015-02-23,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.87,16900,13889,-561%,386503.0,0.0,-2.0,2.0,-16.0,FWRD
+440,DM,2015-02-25 16:31:57,2015-02-23,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,54.01,-16900,13889,-55%,-912711.0,0.0,-2.0,2.0,-16.0,FWRD
+441,M,2015-02-25 16:31:44,2015-02-23,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale,54.0,-20600,73581,-22%,-1112400.0,0.0,-2.0,2.0,-16.0,FWRD
+442,D,2015-02-23 17:00:41,2015-02-19,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",M - OptEx,22.87,11207,27995,+67%,256304.0,0.0,-1.0,4.0,-12.0,FWRD
+443,D,2015-02-23 17:00:41,2015-02-19,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",S - Sale+OE,53.53,-11207,27995,-29%,-599875.0,0.0,-1.0,4.0,-12.0,FWRD
+444,D,2015-02-23 17:00:25,2015-02-19,FWRD,Mundy Ray A,Dir,M - OptEx,25.87,7500,44444,+20%,194025.0,0.0,-1.0,4.0,-12.0,FWRD
+445,D,2015-02-23 17:00:25,2015-02-19,FWRD,Mundy Ray A,Dir,S - Sale+OE,53.55,-7500,44444,-14%,-401590.0,0.0,-1.0,4.0,-12.0,FWRD
+446,D,2015-02-23 17:00:09,2015-02-20,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.87,500,13889,+4%,11435.0,0.0,-1.0,4.0,-12.0,FWRD
+447,D,2015-02-23 17:00:09,2015-02-20,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,54.0,-500,13889,-3%,-27000.0,0.0,-1.0,4.0,-12.0,FWRD
+448,,2015-02-23 16:59:50,2015-02-20,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale,54.0,-2523,94181,-3%,-136244.0,0.0,-1.0,4.0,-12.0,FWRD
+449,D,2015-02-23 16:59:34,2015-02-20,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,22.47,32900,15273,-187%,739263.0,0.0,-1.0,4.0,-12.0,FWRD
+450,D,2015-02-23 16:59:34,2015-02-20,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,53.75,-32900,15273,-68%,-1768375.0,0.0,-1.0,4.0,-12.0,FWRD
+451,DM,2015-02-19 15:00:49,2015-02-17,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",M - OptEx,22.87,9293,27995,+50%,212531.0,0.0,1.0,5.0,-8.0,FWRD
+452,DM,2015-02-19 15:00:49,2015-02-17,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",S - Sale+OE,53.59,-9293,27995,-25%,-498039.0,0.0,1.0,5.0,-8.0,FWRD
+453,D,2015-02-19 15:00:33,2015-02-17,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,22.47,4700,15273,+44%,105609.0,0.0,1.0,5.0,-8.0,FWRD
+454,D,2015-02-19 15:00:33,2015-02-17,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,53.78,-4700,15273,-24%,-252749.0,0.0,1.0,5.0,-8.0,FWRD
+455,D,2015-02-19 15:00:19,2015-02-18,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,38.21,5831,9635,+153%,222785.0,0.0,1.0,5.0,-8.0,FWRD
+456,D,2015-02-19 15:00:19,2015-02-18,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,53.28,-5534,9635,-36%,-294852.0,0.0,1.0,5.0,-8.0,FWRD
+457,DM,2015-02-17 09:34:07,2015-02-12,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,22.7,28924,15244,-211%,656589.0,-1.0,0.0,1.0,-8.0,FWRD
+458,DM,2015-02-17 09:34:07,2015-02-12,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,53.5,-28924,15244,-65%,-1547489.0,-1.0,0.0,1.0,-8.0,FWRD
+459,D,2015-02-17 09:33:53,2015-02-12,FWRD,Hance Michael L,"SVP, CLO, Secretary",M - OptEx,22.47,9000,12722,+242%,202230.0,-1.0,0.0,1.0,-8.0,FWRD
+460,D,2015-02-17 09:33:53,2015-02-12,FWRD,Hance Michael L,"SVP, CLO, Secretary",S - Sale+OE,53.95,-9000,12722,-41%,-485522.0,-1.0,0.0,1.0,-8.0,FWRD
+461,D,2015-02-17 09:33:38,2015-02-13,FWRD,McLean Michael P,"VP, CAO",M - OptEx,22.87,600,13889,+5%,13722.0,-1.0,0.0,1.0,-8.0,FWRD
+462,D,2015-02-17 09:33:38,2015-02-13,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,54.0,-600,13889,-4%,-32400.0,-1.0,0.0,1.0,-8.0,FWRD
+463,D,2015-02-17 09:33:22,2015-02-13,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",M - OptEx,22.87,29500,27995,-1960%,674665.0,-1.0,0.0,1.0,-8.0,FWRD
+464,D,2015-02-17 09:33:22,2015-02-13,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",S - Sale+OE,53.71,-29500,27995,-51%,-1584404.0,-1.0,0.0,1.0,-8.0,FWRD
+465,,2015-02-17 09:33:08,2015-02-13,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale,54.0,-100,96704,0%,-5400.0,-1.0,0.0,1.0,-8.0,FWRD
+466,DM,2015-02-12 17:05:48,2015-02-11,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,28.97,30000,149559,+25%,869100.0,0.0,0.0,0.0,-10.0,FWRD
+467,DM,2015-02-12 17:05:48,2015-02-11,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,53.84,-30000,149559,-17%,-1615340.0,0.0,0.0,0.0,-10.0,FWRD
+468,D,2015-02-11 15:55:52,2015-02-09,FWRD,Hance Michael L,"SVP, CLO, Secretary",A - Grant,0.0,2169,12722,+21%,0.0,5.0,4.0,6.0,-5.0,FWRD
+469,D,2015-02-11 15:55:37,2015-02-09,FWRD,Drum Craig A,"SVP, Sales",A - Grant,0.0,1446,9338,+18%,0.0,5.0,4.0,6.0,-5.0,FWRD
+470,D,2015-02-11 15:55:18,2015-02-09,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",A - Grant,0.0,2169,96804,+2%,0.0,5.0,4.0,6.0,-5.0,FWRD
+471,D,2015-02-11 15:54:51,2015-02-09,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",A - Grant,0.0,2169,27995,+8%,0.0,5.0,4.0,6.0,-5.0,FWRD
+472,D,2015-02-11 15:54:38,2015-02-09,FWRD,Ruble Chris C,"EVP, Operations",A - Grant,0.0,2169,15273,+17%,0.0,5.0,4.0,6.0,-5.0,FWRD
+473,D,2015-02-11 15:54:20,2015-02-09,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,6573,149559,+5%,0.0,5.0,4.0,6.0,-5.0,FWRD
+474,D,2015-02-11 15:54:01,2015-02-09,FWRD,McLean Michael P,"VP, CAO",A - Grant,0.0,1446,13889,+12%,0.0,5.0,4.0,6.0,-5.0,FWRD
+475,D,2015-02-11 11:28:51,2015-02-09,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,29.39,19105,13104,-318%,561590.0,5.0,4.0,6.0,-5.0,FWRD
+476,DM,2015-02-11 11:28:51,2015-02-09,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,50.62,-39105,13104,-75%,-1979508.0,5.0,4.0,6.0,-5.0,FWRD
+477,D,2015-02-10 16:47:33,2015-02-06,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",F - Tax,0.0,-1022,25826,-4%,-0.0,5.0,4.0,4.0,-4.0,FWRD
+478,D,2015-02-10 16:47:33,2015-02-09,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",M - OptEx,29.44,4600,25826,+22%,135424.0,5.0,4.0,4.0,-4.0,FWRD
+479,D,2015-02-10 16:47:33,2015-02-09,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",S - Sale+OE,50.23,-4600,25826,-15%,-231035.0,5.0,4.0,4.0,-4.0,FWRD
+480,,2015-02-10 16:45:43,2015-02-06,FWRD,Ruble Chris C,"EVP, Operations",F - Tax,0.0,-1022,33104,-3%,-0.0,5.0,4.0,4.0,-4.0,FWRD
+481,,2015-02-10 16:44:20,2015-02-06,FWRD,Hance Michael L,"SVP, CLO, Secretary",F - Tax,0.0,-509,10553,-5%,-0.0,5.0,4.0,4.0,-4.0,FWRD
+482,D,2015-02-10 16:42:46,2015-02-06,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-2411,142986,-2%,-0.0,5.0,4.0,4.0,-4.0,FWRD
+483,D,2015-02-10 16:42:46,2015-02-09,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,28.97,120000,142986,+522%,3476400.0,5.0,4.0,4.0,-4.0,FWRD
+484,D,2015-02-10 16:42:46,2015-02-09,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,50.06,-120000,142986,-46%,-6006852.0,5.0,4.0,4.0,-4.0,FWRD
+485,,2015-02-10 16:29:41,2015-02-06,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-509,12443,-4%,-0.0,5.0,4.0,4.0,-4.0,FWRD
+486,D,2015-02-10 16:27:18,2015-02-06,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-52557,94635,-36%,-0.0,5.0,4.0,4.0,-4.0,FWRD
+487,D,2015-02-10 16:27:18,2015-02-06,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,28.97,75000,94635,+382%,2172998.0,5.0,4.0,4.0,-4.0,FWRD
+488,,2015-02-10 16:24:54,2015-02-06,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-601,7892,-7%,-0.0,5.0,4.0,4.0,-4.0,FWRD
+489,D,2015-02-06 13:23:10,2015-02-04,FWRD,Ruble Chris C,"EVP, Operations",F - Tax,0.0,-10111,34126,-23%,-0.0,2.0,8.0,7.0,-1.0,FWRD
+490,DM,2015-02-06 13:23:10,2015-02-04,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,29.44,27741,34126,+435%,816695.0,2.0,8.0,7.0,-1.0,FWRD
+491,,2014-12-01 17:05:07,2014-11-26,FWRD,Allen Ronald W,Dir,A - Grant,0.0,995,6830,+17%,0.0,1.0,2.0,6.0,12.0,FWRD
+492,DM,2014-08-18 16:35:12,2014-08-14,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",M - OptEx,29.44,8300,26845,+45%,244352.0,0.0,0.0,0.0,14.0,FWRD
+493,DM,2014-08-18 16:35:12,2014-08-14,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",S - Sale+OE,46.6,-8300,26845,-24%,-386755.0,0.0,0.0,0.0,14.0,FWRD
+494,D,2014-08-14 16:55:19,2014-08-13,FWRD,McLean Michael P,"VP, CAO",M - OptEx,29.44,13125,12949,-7446%,386400.0,0.0,1.0,2.0,16.0,FWRD
+495,D,2014-08-14 16:55:19,2014-08-13,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,46.5,-13125,12949,-50%,-610313.0,0.0,1.0,2.0,16.0,FWRD
+496,D,2014-08-14 16:55:17,2014-08-13,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",M - OptEx,29.44,7100,26845,+36%,209024.0,0.0,1.0,2.0,16.0,FWRD
+497,D,2014-08-14 16:55:17,2014-08-13,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",S - Sale+OE,46.54,-7100,26845,-21%,-330418.0,0.0,1.0,2.0,16.0,FWRD
+498,DM,2014-08-12 15:04:04,2014-08-08,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",M - OptEx,29.44,10000,26845,+59%,294400.0,0.0,3.0,3.0,12.0,FWRD
+499,DM,2014-08-12 15:04:04,2014-08-08,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",S - Sale+OE,45.91,-10000,26845,-27%,-459141.0,0.0,3.0,3.0,12.0,FWRD
+500,D,2014-06-12 12:05:08,2014-06-11,FWRD,Langley C John Jr,Dir,M - OptEx,25.87,7500,19254,+64%,194025.0,0.0,1.0,5.0,11.0,FWRD
+501,D,2014-06-12 12:05:08,2014-06-11,FWRD,Langley C John Jr,Dir,S - Sale+OE,45.03,-7500,19254,-28%,-337691.0,0.0,1.0,5.0,11.0,FWRD
+502,D,2014-06-09 15:26:41,2014-06-05,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,28.97,14829,72179,+26%,429645.0,1.0,-1.0,6.0,8.0,FWRD
+503,D,2014-06-09 15:26:41,2014-06-05,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,44.55,-14829,72179,-17%,-660644.0,1.0,-1.0,6.0,8.0,FWRD
+504,DM,2014-06-09 14:38:15,2014-06-05,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",M - OptEx,29.44,15000,26841,+127%,441600.0,1.0,-1.0,6.0,8.0,FWRD
+505,DM,2014-06-09 14:38:15,2014-06-05,FWRD,Jewell Matthew J,"EVP-Intermodal Services, CSO",S - Sale+OE,45.02,-15000,26841,-36%,-675327.0,1.0,-1.0,6.0,8.0,FWRD
+506,DM,2014-06-05 14:16:23,2014-06-03,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,28.97,22671,72179,+46%,656854.0,1.0,1.0,10.0,9.0,FWRD
+507,DM,2014-06-05 14:16:23,2014-06-03,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,44.5,-22671,72179,-24%,-1008860.0,1.0,1.0,10.0,9.0,FWRD
+508,,2014-05-30 11:13:20,2014-05-28,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,44.5,-10000,145397,-6%,-445000.0,1.0,1.0,5.0,9.0,FWRD
+509,,2014-05-14 16:29:18,2014-05-14,FWRD,Lynch George M,Dir,S - Sale,43.52,-2481,13560,-15%,-107970.0,-1.0,-2.0,4.0,12.0,FWRD
+510,M,2014-05-13 15:35:01,2013-05-07,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,4078,21204,+24%,0.0,-1.0,-2.0,1.0,9.0,FWRD
+511,,2014-05-13 11:12:43,2014-05-09,FWRD,Paxton Gary L,Dir,A - Grant,0.0,1989,16384,+14%,0.0,-1.0,-2.0,1.0,9.0,FWRD
+512,,2014-05-13 11:12:41,2014-05-09,FWRD,Mundy Ray A,Dir,A - Grant,0.0,1989,44444,+5%,0.0,-1.0,-2.0,1.0,9.0,FWRD
+513,,2014-05-13 11:12:39,2014-05-09,FWRD,Lynch George M,Dir,A - Grant,0.0,1989,16041,+14%,0.0,-1.0,-2.0,1.0,9.0,FWRD
+514,,2014-05-13 11:12:38,2014-05-09,FWRD,Leinweber Larry D,Dir,A - Grant,0.0,1989,9913,+25%,0.0,-1.0,-2.0,1.0,9.0,FWRD
+515,,2014-05-13 11:12:36,2014-05-09,FWRD,Langley C John Jr,Dir,A - Grant,0.0,1989,19254,+12%,0.0,-1.0,-2.0,1.0,9.0,FWRD
+516,,2014-05-13 11:12:34,2014-05-09,FWRD,Campbell C Robert,Dir,A - Grant,0.0,1989,20079,+11%,0.0,-1.0,-2.0,1.0,9.0,FWRD
+517,D,2014-03-18 12:02:39,2014-03-14,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,620,16431,+4%,17963.0,0.0,2.0,2.0,7.0,FWRD
+518,D,2014-03-18 12:02:39,2014-03-14,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,45.01,-620,16431,-4%,-27905.0,0.0,2.0,2.0,7.0,FWRD
+519,DM,2014-03-14 16:15:35,2014-03-12,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,4255,16431,+35%,123281.0,0.0,1.0,1.0,8.0,FWRD
+520,DM,2014-03-14 16:15:35,2014-03-12,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,45.03,-4255,16431,-21%,-191602.0,0.0,1.0,1.0,8.0,FWRD
+521,D,2014-03-14 16:15:33,2014-03-12,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,28.97,3964,26841,+17%,114850.0,0.0,1.0,1.0,8.0,FWRD
+522,D,2014-03-14 16:15:33,2014-03-12,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,45.0,-3964,26841,-13%,-178391.0,0.0,1.0,1.0,8.0,FWRD
+523,D,2014-03-12 13:23:45,2014-03-10,FWRD,Ruble Chris C,"EVP, Operations",G - Gift,0.0,-58,16431,0%,-0.0,0.0,-1.0,3.0,6.0,FWRD
+524,DM,2014-03-12 13:23:45,2014-03-10,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,5930,16431,+56%,171812.0,0.0,-1.0,3.0,6.0,FWRD
+525,DM,2014-03-12 13:23:45,2014-03-10,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,45.01,-5930,16431,-27%,-266880.0,0.0,-1.0,3.0,6.0,FWRD
+526,DM,2014-03-12 13:23:42,2014-03-10,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,28.97,14136,26841,+111%,409567.0,0.0,-1.0,3.0,6.0,FWRD
+527,DM,2014-03-12 13:23:42,2014-03-10,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,45.0,-14136,26841,-34%,-636158.0,0.0,-1.0,3.0,6.0,FWRD
+528,D,2014-03-12 13:23:41,2014-03-10,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,29.44,41990,72179,+139%,1236186.0,0.0,-1.0,3.0,6.0,FWRD
+529,D,2014-03-12 13:23:41,2014-03-10,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,44.83,-38594,72179,-35%,-1730157.0,0.0,-1.0,3.0,6.0,FWRD
+530,,2014-03-10 15:22:03,2014-03-06,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,18519,155397,+14%,0.0,0.0,-1.0,0.0,6.0,FWRD
+531,,2014-03-10 15:22:03,2014-03-06,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-2287,155397,-1%,-0.0,0.0,-1.0,0.0,6.0,FWRD
+532,D,2014-03-10 15:22:01,2014-03-06,FWRD,McLean Michael P,"VP, CAO",A - Grant,0.0,3333,12945,+35%,0.0,0.0,-1.0,0.0,6.0,FWRD
+533,D,2014-03-10 15:22:01,2014-03-06,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-401,12945,-3%,-0.0,0.0,-1.0,0.0,6.0,FWRD
+534,D,2014-03-10 15:22:01,2014-03-07,FWRD,McLean Michael P,"VP, CAO",M - OptEx,29.44,4375,12945,+51%,128800.0,0.0,-1.0,0.0,6.0,FWRD
+535,D,2014-03-10 15:22:01,2014-03-07,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,45.0,-4375,12945,-25%,-196875.0,0.0,-1.0,0.0,6.0,FWRD
+536,D,2014-03-10 15:22:00,2014-03-06,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",A - Grant,0.0,6111,26841,+29%,0.0,0.0,-1.0,0.0,6.0,FWRD
+537,D,2014-03-10 15:22:00,2014-03-06,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",F - Tax,0.0,-1121,26841,-4%,-0.0,0.0,-1.0,0.0,6.0,FWRD
+538,D,2014-03-10 15:22:00,2014-03-07,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,28.97,1900,26841,+8%,55049.0,0.0,-1.0,0.0,6.0,FWRD
+539,D,2014-03-10 15:22:00,2014-03-07,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,45.01,-1900,26841,-7%,-85528.0,0.0,-1.0,0.0,6.0,FWRD
+540,,2014-03-10 15:21:58,2014-03-06,FWRD,Drum Craig A,"SVP, Sales",A - Grant,0.0,3333,8493,+65%,0.0,0.0,-1.0,0.0,6.0,FWRD
+541,,2014-03-10 15:21:58,2014-03-06,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-604,8493,-7%,-0.0,0.0,-1.0,0.0,6.0,FWRD
+542,,2014-03-10 15:21:56,2014-03-06,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",A - Grant,0.0,6111,68783,+10%,0.0,0.0,-1.0,0.0,6.0,FWRD
+543,,2014-03-10 15:21:56,2014-03-06,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-755,68783,-1%,-0.0,0.0,-1.0,0.0,6.0,FWRD
+544,D,2014-03-10 15:21:55,2014-03-06,FWRD,Ruble Chris C,"EVP, Operations",A - Grant,0.0,6111,16431,+59%,0.0,0.0,-1.0,0.0,6.0,FWRD
+545,D,2014-03-10 15:21:55,2014-03-06,FWRD,Ruble Chris C,"EVP, Operations",F - Tax,0.0,-1121,16431,-6%,-0.0,0.0,-1.0,0.0,6.0,FWRD
+546,D,2014-03-10 15:21:55,2014-03-07,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,1165,16431,+8%,33754.0,0.0,-1.0,0.0,6.0,FWRD
+547,D,2014-03-10 15:21:55,2014-03-07,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,45.01,-1165,16431,-7%,-52436.0,0.0,-1.0,0.0,6.0,FWRD
+548,D,2014-03-07 13:37:51,2014-03-05,FWRD,Mundy Ray A,Dir,M - OptEx,20.2,11250,42455,+36%,227250.0,0.0,0.0,2.0,6.0,FWRD
+549,D,2014-03-07 13:37:51,2014-03-05,FWRD,Mundy Ray A,Dir,S - Sale+OE,44.05,-5166,42455,-11%,-227562.0,0.0,0.0,2.0,6.0,FWRD
+550,,2014-03-07 13:37:49,2014-03-06,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,44.51,-24219,139165,-15%,-1077988.0,0.0,0.0,2.0,6.0,FWRD
+551,,2014-03-05 13:54:40,2014-03-04,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,44.5,-16352,163384,-9%,-727710.0,0.0,2.0,6.0,7.0,FWRD
+552,M,2014-02-27 16:43:33,2014-02-25,FWRD,Paxton Gary L,Dir,S - Sale,43.55,-14445,14395,-50%,-629018.0,0.0,2.0,4.0,9.0,FWRD
+553,D,2014-02-24 12:23:37,2014-02-19,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,697,11441,+6%,20194.0,0.0,-2.0,3.0,7.0,FWRD
+554,D,2014-02-24 12:23:37,2014-02-19,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,45.1,-697,11441,-6%,-31436.0,0.0,-2.0,3.0,7.0,FWRD
+555,,2014-02-24 12:23:35,2014-02-21,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,44.5,-5000,179736,-3%,-222500.0,0.0,-2.0,3.0,7.0,FWRD
+556,M,2014-02-21 15:03:17,2014-02-19,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,44.65,-34429,184736,-16%,-1537229.0,0.0,-2.0,3.0,7.0,FWRD
+557,D,2014-02-21 15:03:15,2014-02-19,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,29.44,3010,63427,+5%,88614.0,0.0,-2.0,3.0,7.0,FWRD
+558,D,2014-02-21 15:03:15,2014-02-19,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,45.0,-3010,63427,-5%,-135456.0,0.0,-2.0,3.0,7.0,FWRD
+559,D,2014-02-20 15:18:21,2014-02-18,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,9649,11441,+538%,279563.0,0.0,-2.0,1.0,7.0,FWRD
+560,D,2014-02-20 15:18:21,2014-02-18,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,45.11,-9649,11441,-46%,-435254.0,0.0,-2.0,1.0,7.0,FWRD
+561,D,2014-02-18 06:01:27,2014-02-14,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,28.97,10400,21851,+91%,301322.0,0.0,-2.0,-1.0,3.0,FWRD
+562,D,2014-02-18 06:01:27,2014-02-14,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,45.0,-10400,21851,-32%,-468001.0,0.0,-2.0,-1.0,3.0,FWRD
+563,D,2014-02-18 06:01:25,2014-02-13,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,31.88,7557,5764,-421%,240923.0,0.0,-2.0,-1.0,3.0,FWRD
+564,D,2014-02-18 06:01:25,2014-02-13,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,45.12,-7557,5764,-57%,-340967.0,0.0,-2.0,-1.0,3.0,FWRD
+565,D,2014-02-18 06:01:24,2014-02-13,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,2254,11441,+25%,65306.0,0.0,-2.0,-1.0,3.0,FWRD
+566,D,2014-02-18 06:01:24,2014-02-13,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,45.25,-2254,11441,-16%,-102002.0,0.0,-2.0,-1.0,3.0,FWRD
+567,,2014-02-12 15:24:24,2014-02-11,FWRD,Ruble Chris C,"EVP, Operations",F - Tax,0.0,-249,11441,-2%,-0.0,4.0,4.0,5.0,9.0,FWRD
+568,,2014-02-12 15:24:22,2014-02-11,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-107,10013,-1%,-0.0,4.0,4.0,5.0,9.0,FWRD
+569,,2014-02-12 15:24:20,2014-02-11,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",F - Tax,0.0,-245,21851,-1%,-0.0,4.0,4.0,5.0,9.0,FWRD
+570,,2014-02-12 15:24:19,2014-02-11,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-133,5764,-2%,-0.0,4.0,4.0,5.0,9.0,FWRD
+571,,2014-02-12 15:24:17,2014-02-11,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-508,220765,0%,-0.0,4.0,4.0,5.0,9.0,FWRD
+572,,2014-02-12 15:24:15,2014-02-11,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-163,63727,0%,-0.0,4.0,4.0,5.0,9.0,FWRD
+573,D,2014-02-11 16:55:14,2014-02-07,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-743,221273,0%,-0.0,4.0,6.0,6.0,9.0,FWRD
+574,D,2014-02-11 16:55:14,2014-02-10,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,31.65,100000,221273,+82%,3165000.0,4.0,6.0,6.0,9.0,FWRD
+575,,2014-02-11 16:55:12,2014-02-07,FWRD,Ruble Chris C,"EVP, Operations",F - Tax,0.0,-363,11690,-3%,-0.0,4.0,6.0,6.0,9.0,FWRD
+576,,2014-02-11 16:55:11,2014-02-07,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",F - Tax,0.0,-389,22096,-2%,-0.0,4.0,6.0,6.0,9.0,FWRD
+577,,2014-02-11 16:55:09,2014-02-07,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-192,10120,-2%,-0.0,4.0,6.0,6.0,9.0,FWRD
+578,,2014-02-11 16:55:07,2014-02-07,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-256,5897,-4%,-0.0,4.0,6.0,6.0,9.0,FWRD
+579,,2014-02-11 16:55:05,2014-02-07,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-269,63890,0%,-0.0,4.0,6.0,6.0,9.0,FWRD
+580,D,2014-02-10 16:50:51,2014-02-06,FWRD,Ruble Chris C,"EVP, Operations",A - Grant,0.0,2589,12053,+27%,0.0,-1.0,6.0,5.0,7.0,FWRD
+581,D,2014-02-10 16:50:50,2014-02-06,FWRD,Drum Craig A,"SVP, Sales",A - Grant,0.0,1412,6153,+30%,0.0,-1.0,6.0,5.0,7.0,FWRD
+582,D,2014-02-10 16:50:48,2014-02-06,FWRD,McLean Michael P,"VP, CAO",A - Grant,0.0,1412,10312,+16%,0.0,-1.0,6.0,5.0,7.0,FWRD
+583,D,2014-02-10 16:50:46,2014-02-06,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",A - Grant,0.0,2589,22485,+13%,0.0,-1.0,6.0,5.0,7.0,FWRD
+584,D,2014-02-10 16:50:45,2014-02-06,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",A - Grant,0.0,2589,64159,+4%,0.0,-1.0,6.0,5.0,7.0,FWRD
+585,D,2014-02-10 16:50:43,2014-02-06,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,7846,122016,+7%,0.0,-1.0,6.0,5.0,7.0,FWRD
+586,D,2013-10-28 15:48:37,2013-10-24,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,35000,9100,-135%,1014066.0,0.0,-3.0,3.0,7.0,FWRD
+587,D,2013-10-28 15:48:37,2013-10-24,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,41.52,-35000,9100,-79%,-1453263.0,0.0,-3.0,3.0,7.0,FWRD
+588,D,2013-10-07 16:47:25,2013-09-20,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,20.21,45001,114170,+65%,909322.0,-2.0,1.0,4.0,15.0,FWRD
+589,A,2013-06-28 15:32:29,2011-02-11,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,12346,59321,+26%,0.0,-1.0,3.0,-5.0,15.0,FWRD
+590,D,2013-06-17 10:10:06,2013-06-14,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,28.97,1900,19889,+11%,55049.0,0.0,1.0,4.0,10.0,FWRD
+591,D,2013-06-17 10:10:06,2013-06-14,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,39.02,-1900,19889,-9%,-74141.0,0.0,1.0,4.0,10.0,FWRD
+592,D,2013-06-14 13:39:37,2013-06-12,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,28.97,200,19889,+1%,5795.0,-2.0,-1.0,3.0,8.0,FWRD
+593,D,2013-06-14 13:39:37,2013-06-12,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,39.1,-200,19889,-1%,-7821.0,-2.0,-1.0,3.0,8.0,FWRD
+594,D,2013-05-24 11:24:26,2013-05-23,FWRD,McLean Michael P,"VP, CAO",M - OptEx,29.44,5000,8893,+128%,147200.0,-1.0,-1.0,-4.0,7.0,FWRD
+595,D,2013-05-24 11:24:26,2013-05-23,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,39.0,-5000,8893,-36%,-195000.0,-1.0,-1.0,-4.0,7.0,FWRD
+596,,2013-05-22 16:23:06,2013-05-22,FWRD,Lynch George M,Dir,S - Sale,39.08,-3128,14052,-18%,-122258.0,0.0,0.0,-1.0,10.0,FWRD
+597,DM,2013-05-22 13:19:10,2013-05-20,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,28.97,40000,19889,-199%,1158932.0,0.0,-1.0,-2.0,9.0,FWRD
+598,DM,2013-05-22 13:19:10,2013-05-20,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,38.93,-40000,19889,-67%,-1557173.0,0.0,-1.0,-2.0,9.0,FWRD
+599,D,2013-05-22 13:19:09,2013-05-20,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,31.65,20000,61554,+48%,633000.0,0.0,-1.0,-2.0,9.0,FWRD
+600,D,2013-05-22 13:19:09,2013-05-20,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,38.91,-20000,61554,-25%,-778268.0,0.0,-1.0,-2.0,9.0,FWRD
+601,D,2013-05-22 13:19:09,2013-05-20,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,10000,9100,-1112%,289733.0,0.0,-1.0,-2.0,9.0,FWRD
+602,D,2013-05-22 13:19:09,2013-05-20,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,39.0,-10000,9100,-52%,-390000.0,0.0,-1.0,-2.0,9.0,FWRD
+603,D,2013-05-20 15:16:19,2013-05-17,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,10000,9100,-1112%,289733.0,0.0,0.0,1.0,8.0,FWRD
+604,D,2013-05-20 15:16:19,2013-05-17,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,38.5,-10000,9100,-52%,-385000.0,0.0,0.0,1.0,8.0,FWRD
+605,D,2013-05-20 15:16:16,2013-05-17,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,28.97,30000,19889,-297%,869199.0,0.0,0.0,1.0,8.0,FWRD
+606,D,2013-05-20 15:16:16,2013-05-17,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,38.6,-30000,19889,-60%,-1157976.0,0.0,0.0,1.0,8.0,FWRD
+607,DM,2013-05-20 15:16:13,2013-05-16,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,31.65,19700,61554,+47%,623505.0,0.0,0.0,1.0,8.0,FWRD
+608,DM,2013-05-20 15:16:13,2013-05-16,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,38.56,-19700,61554,-24%,-759703.0,0.0,0.0,1.0,8.0,FWRD
+609,M,2013-05-17 12:23:07,2013-05-15,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,38.26,-50000,121507,-29%,-1912857.0,2.0,3.0,1.0,11.0,FWRD
+610,D,2013-05-17 12:23:06,2013-05-15,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,28.97,3660,19889,+23%,106042.0,2.0,3.0,1.0,11.0,FWRD
+611,D,2013-05-17 12:23:06,2013-05-15,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,38.25,-3660,19889,-16%,-139995.0,2.0,3.0,1.0,11.0,FWRD
+612,,2013-05-15 16:28:15,2013-05-14,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,37.65,-55164,171507,-24%,-2076936.0,0.0,3.0,2.0,9.0,FWRD
+613,D,2013-05-14 09:40:25,2013-05-10,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,28.97,6340,19889,+47%,183691.0,2.0,4.0,3.0,10.0,FWRD
+614,D,2013-05-14 09:40:25,2013-05-10,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,38.27,-6340,19889,-24%,-242617.0,2.0,4.0,3.0,10.0,FWRD
+615,D,2013-05-10 12:25:31,2013-05-08,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,22.47,9800,4741,-194%,220206.0,0.0,1.0,3.0,6.0,FWRD
+616,D,2013-05-10 12:25:31,2013-05-08,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,38.12,-9800,4741,-67%,-373585.0,0.0,1.0,3.0,6.0,FWRD
+617,D,2013-05-10 12:25:29,2013-05-08,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,31.65,300,61554,0%,9495.0,0.0,1.0,3.0,6.0,FWRD
+618,D,2013-05-10 12:25:29,2013-05-08,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,38.5,-300,61554,0%,-11550.0,0.0,1.0,3.0,6.0,FWRD
+619,,2013-05-09 15:42:31,2013-05-07,FWRD,Mundy Ray A,Dir,A - Grant,0.0,2089,36371,+6%,0.0,-1.0,0.0,1.0,6.0,FWRD
+620,,2013-05-09 15:42:31,2013-05-07,FWRD,Paxton Gary L,Dir,A - Grant,0.0,2089,28840,+8%,0.0,-1.0,0.0,1.0,6.0,FWRD
+621,,2013-05-09 15:42:29,2013-05-07,FWRD,Lynch George M,Dir,A - Grant,0.0,2089,17180,+14%,0.0,-1.0,0.0,1.0,6.0,FWRD
+622,,2013-05-09 15:42:27,2013-05-07,FWRD,Leinweber Larry D,Dir,A - Grant,0.0,2089,7924,+36%,0.0,-1.0,0.0,1.0,6.0,FWRD
+623,,2013-05-09 15:42:23,2013-05-07,FWRD,Langley C John Jr,Dir,A - Grant,0.0,2089,17265,+14%,0.0,-1.0,0.0,1.0,6.0,FWRD
+624,,2013-05-09 15:42:22,2013-05-07,FWRD,Campbell C Robert,Dir,A - Grant,0.0,2089,18090,+13%,0.0,-1.0,0.0,1.0,6.0,FWRD
+625,D,2013-05-08 09:54:06,2013-05-07,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,20000,9100,-183%,579466.0,0.0,0.0,0.0,7.0,FWRD
+626,D,2013-05-08 09:54:06,2013-05-07,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,38.0,-20000,9100,-69%,-760000.0,0.0,0.0,0.0,7.0,FWRD
+627,D,2013-05-08 09:54:04,2013-05-07,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,28.54,17100,4741,-138%,488090.0,0.0,0.0,0.0,7.0,FWRD
+628,D,2013-05-08 09:54:04,2013-05-07,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,38.04,-17100,4741,-78%,-650549.0,0.0,0.0,0.0,7.0,FWRD
+629,D,2013-05-08 09:54:02,2013-05-07,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,31.65,10000,61554,+19%,316500.0,0.0,0.0,0.0,7.0,FWRD
+630,D,2013-05-08 09:54:02,2013-05-07,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,37.9,-10000,61554,-14%,-378985.0,0.0,0.0,0.0,7.0,FWRD
+631,DM,2013-05-08 09:54:00,2013-05-06,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,31.65,37671,19889,-212%,1192287.0,0.0,0.0,0.0,7.0,FWRD
+632,DM,2013-05-08 09:54:00,2013-05-06,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,37.37,-37671,19889,-65%,-1407847.0,0.0,0.0,0.0,7.0,FWRD
+633,D,2013-05-06 14:16:24,2013-05-03,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,25.9,22329,19889,-915%,578413.0,0.0,2.0,4.0,10.0,FWRD
+634,D,2013-05-06 14:16:24,2013-05-03,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,37.27,-22329,19889,-53%,-832191.0,0.0,2.0,4.0,10.0,FWRD
+635,D,2013-05-06 14:16:22,2013-05-03,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,18.82,12800,61554,+26%,240896.0,0.0,2.0,4.0,10.0,FWRD
+636,D,2013-05-06 14:16:22,2013-05-03,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,37.25,-12800,61554,-17%,-476805.0,0.0,2.0,4.0,10.0,FWRD
+637,D,2013-04-29 16:41:29,2013-04-25,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,18.82,2200,61554,+4%,41404.0,1.0,2.0,9.0,15.0,FWRD
+638,D,2013-04-29 16:41:29,2013-04-25,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,37.26,-2200,61554,-3%,-81978.0,1.0,2.0,9.0,15.0,FWRD
+639,DM,2013-03-18 14:39:11,2013-03-14,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,18.82,10000,19889,+101%,188200.0,0.0,-2.0,-1.0,1.0,FWRD
+640,DM,2013-03-18 14:39:11,2013-03-14,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,37.73,-10000,19889,-33%,-377324.0,0.0,-2.0,-1.0,1.0,FWRD
+641,,2013-03-18 14:39:10,2013-03-15,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,37.58,-7453,226671,-3%,-280046.0,0.0,-2.0,-1.0,1.0,FWRD
+642,DM,2013-03-18 14:39:07,2013-03-14,FWRD,McLean Michael P,"VP, CAO",M - OptEx,31.65,25000,8893,-155%,791250.0,0.0,-2.0,-1.0,1.0,FWRD
+643,DM,2013-03-18 14:39:07,2013-03-14,FWRD,McLean Michael P,"VP, CAO",S - Sale+OE,37.79,-25000,8893,-74%,-944797.0,0.0,-2.0,-1.0,1.0,FWRD
+644,D,2013-03-15 09:34:25,2013-03-13,FWRD,Langley C John Jr,Dir,M - OptEx,20.2,3125,15176,+26%,63125.0,0.0,-3.0,-2.0,1.0,FWRD
+645,D,2013-03-15 09:34:25,2013-03-13,FWRD,Langley C John Jr,Dir,S - Sale+OE,37.56,-3125,15176,-17%,-117368.0,0.0,-3.0,-2.0,1.0,FWRD
+646,,2013-03-14 14:00:40,2013-03-12,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,37.57,-45000,234124,-16%,-1690520.0,0.0,-2.0,0.0,3.0,FWRD
+647,,2013-03-12 16:14:48,2013-03-08,FWRD,Langley C John Jr,Dir,S - Sale,38.25,-3000,15176,-17%,-114746.0,0.0,0.0,1.0,1.0,FWRD
+648,D,2013-03-12 16:11:11,2013-03-11,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,18.82,10000,19889,+101%,188200.0,0.0,0.0,1.0,1.0,FWRD
+649,D,2013-03-12 16:11:11,2013-03-11,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,37.88,-10000,19889,-33%,-378840.0,0.0,0.0,1.0,1.0,FWRD
+650,,2013-03-12 16:11:09,2013-03-11,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale,37.86,-20000,279124,-7%,-757288.0,0.0,0.0,1.0,1.0,FWRD
+651,D,2013-03-11 12:28:15,2013-03-08,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,18.82,15000,61554,+32%,282300.0,-2.0,-1.0,-2.0,-2.0,FWRD
+652,D,2013-03-11 12:28:15,2013-03-08,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale+OE,38.12,-15000,61554,-20%,-571731.0,-2.0,-1.0,-2.0,-2.0,FWRD
+653,D,2013-03-08 15:15:15,2013-03-06,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,31.65,50000,4741,-110%,1582500.0,1.0,-1.0,-1.0,-1.0,FWRD
+654,D,2013-03-08 15:15:15,2013-03-06,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,37.91,-50000,4741,-91%,-1895275.0,1.0,-1.0,-1.0,-1.0,FWRD
+655,D,2013-03-08 15:15:15,2013-03-06,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,31.65,50000,9100,-122%,1582500.0,1.0,-1.0,-1.0,-1.0,FWRD
+656,D,2013-03-08 15:15:15,2013-03-06,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,38.0,-50000,9100,-85%,-1900000.0,1.0,-1.0,-1.0,-1.0,FWRD
+657,,2013-02-13 11:39:23,2013-02-11,FWRD,Ruble Chris C,"EVP, Operations",F - Tax,0.0,-864,9100,-9%,-0.0,-1.0,-1.0,2.0,0.0,FWRD
+658,,2013-02-13 11:39:22,2013-02-11,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-421,8893,-5%,-0.0,-1.0,-1.0,2.0,0.0,FWRD
+659,,2013-02-13 11:39:20,2013-02-11,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",F - Tax,0.0,-879,19889,-4%,-0.0,-1.0,-1.0,2.0,0.0,FWRD
+660,,2013-02-13 11:39:17,2013-02-11,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-497,4741,-9%,-0.0,-1.0,-1.0,2.0,0.0,FWRD
+661,,2013-02-13 11:39:15,2013-02-11,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-1993,299124,-1%,-0.0,-1.0,-1.0,2.0,0.0,FWRD
+662,,2013-02-13 11:39:13,2013-02-11,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-736,61554,-1%,-0.0,-1.0,-1.0,2.0,0.0,FWRD
+663,D,2013-02-11 14:35:20,2013-02-07,FWRD,Ruble Chris C,"EVP, Operations",A - Grant,0.0,2961,9964,+42%,0.0,0.0,1.0,2.0,0.0,FWRD
+664,D,2013-02-11 14:35:05,2013-02-07,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,8975,301117,+3%,0.0,0.0,1.0,2.0,0.0,FWRD
+665,D,2013-02-11 14:35:05,2013-02-07,FWRD,McLean Michael P,"VP, CAO",A - Grant,0.0,1615,9314,+21%,0.0,0.0,1.0,2.0,0.0,FWRD
+666,D,2013-02-11 14:35:03,2013-02-07,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",A - Grant,0.0,2961,20768,+17%,0.0,0.0,1.0,2.0,0.0,FWRD
+667,D,2013-02-11 14:35:00,2013-02-07,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",A - Grant,0.0,2961,62290,+5%,0.0,0.0,1.0,2.0,0.0,FWRD
+668,D,2013-02-11 14:35:00,2013-02-07,FWRD,Drum Craig A,"SVP, Sales",A - Grant,0.0,1615,5238,+45%,0.0,0.0,1.0,2.0,0.0,FWRD
+669,D,2013-01-29 11:13:21,2013-01-28,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,13.25,172453,292142,+144%,2284433.0,0.0,-2.0,-1.0,-2.0,FWRD
+670,D,2012-08-17 14:19:09,2012-08-16,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,22.47,143,6959,+2%,3213.0,2.0,-2.0,4.0,10.0,FWRD
+671,D,2012-08-17 14:19:09,2012-08-16,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,34.0,-143,6959,-2%,-4862.0,2.0,-2.0,4.0,10.0,FWRD
+672,D,2012-08-17 14:19:07,2012-08-16,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,29.44,200,3623,+6%,5888.0,2.0,-2.0,4.0,10.0,FWRD
+673,D,2012-08-17 14:19:07,2012-08-16,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,34.0,-200,3623,-5%,-6800.0,2.0,-2.0,4.0,10.0,FWRD
+674,DM,2012-08-15 15:26:28,2012-08-14,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,30.35,36426,119689,+44%,1105529.0,0.0,1.0,8.0,14.0,FWRD
+675,DM,2012-08-15 15:26:28,2012-08-14,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,33.37,-36426,119689,-23%,-1215571.0,0.0,1.0,8.0,14.0,FWRD
+676,D,2012-08-10 15:20:59,2012-08-09,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,29.44,100,3623,+3%,2944.0,0.0,1.0,5.0,12.0,FWRD
+677,D,2012-08-10 15:20:59,2012-08-09,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,34.0,-100,3623,-3%,-3400.0,0.0,1.0,5.0,12.0,FWRD
+678,D,2012-08-10 15:20:58,2012-08-09,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,30.35,300,119689,0%,9105.0,0.0,1.0,5.0,12.0,FWRD
+679,D,2012-08-10 15:20:58,2012-08-09,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,34.0,-300,119689,0%,-10200.0,0.0,1.0,5.0,12.0,FWRD
+680,D,2012-08-08 16:41:17,2012-08-07,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,29.44,2900,3623,+401%,85376.0,-1.0,-2.0,3.0,11.0,FWRD
+681,D,2012-08-08 16:41:17,2012-08-07,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,34.01,-2900,3623,-44%,-98630.0,-1.0,-2.0,3.0,11.0,FWRD
+682,D,2012-08-08 16:41:15,2012-08-07,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,30.35,6723,119689,+6%,204043.0,-1.0,-2.0,3.0,11.0,FWRD
+683,D,2012-08-08 16:41:15,2012-08-07,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,34.0,-6723,119689,-5%,-228582.0,-1.0,-2.0,3.0,11.0,FWRD
+684,DM,2012-08-07 12:35:29,2012-08-03,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,29.44,4000,3623,-1061%,117760.0,0.0,-1.0,2.0,11.0,FWRD
+685,DM,2012-08-07 12:35:29,2012-08-03,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,34.0,-4000,3623,-52%,-136000.0,0.0,-1.0,2.0,11.0,FWRD
+686,D,2012-08-07 12:35:26,2012-08-06,FWRD,Mundy Ray A,Dir,M - OptEx,15.57,11250,34282,+49%,175125.0,0.0,-1.0,2.0,11.0,FWRD
+687,D,2012-08-07 12:35:26,2012-08-06,FWRD,Mundy Ray A,Dir,S - Sale+OE,34.0,-11250,34282,-25%,-382500.0,0.0,-1.0,2.0,11.0,FWRD
+688,DM,2012-08-07 12:35:24,2012-08-03,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,30.35,13908,119689,+13%,422108.0,0.0,-1.0,2.0,11.0,FWRD
+689,DM,2012-08-07 12:35:24,2012-08-03,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,34.0,-13908,119689,-10%,-472904.0,0.0,-1.0,2.0,11.0,FWRD
+690,D,2012-08-01 16:53:58,2012-07-31,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,30.35,42643,119689,+55%,1294215.0,4.0,5.0,6.0,17.0,FWRD
+691,D,2012-08-01 16:53:58,2012-07-31,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,34.13,-42643,119689,-26%,-1455410.0,4.0,5.0,6.0,17.0,FWRD
+692,D,2012-08-01 09:03:35,2012-07-30,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,13.25,3700,17802,+26%,49013.0,-4.0,1.0,1.0,12.0,FWRD
+693,D,2012-08-01 09:03:35,2012-07-30,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,34.01,-3700,17802,-17%,-125846.0,-4.0,1.0,1.0,12.0,FWRD
+694,,2012-05-09 10:40:09,2012-05-08,FWRD,Paxton Gary L,Dir,A - Grant,0.0,2481,26751,+10%,0.0,-3.0,-3.0,0.0,2.0,FWRD
+695,,2012-05-09 10:40:03,2012-05-08,FWRD,Mundy Ray A,Dir,A - Grant,0.0,2481,34282,+8%,0.0,-3.0,-3.0,0.0,2.0,FWRD
+696,,2012-05-09 10:39:35,2012-05-08,FWRD,Lynch George M,Dir,A - Grant,0.0,2481,15091,+20%,0.0,-3.0,-3.0,0.0,2.0,FWRD
+697,,2012-05-09 10:39:32,2012-05-08,FWRD,Leinweber Larry D,Dir,A - Grant,0.0,2481,5835,+74%,0.0,-3.0,-3.0,0.0,2.0,FWRD
+698,,2012-05-09 10:39:31,2012-05-08,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,2481,17126,+17%,0.0,-3.0,-3.0,0.0,2.0,FWRD
+699,,2012-05-09 10:39:24,2012-05-08,FWRD,Langley C John Jr,Dir,A - Grant,0.0,2481,18176,+16%,0.0,-3.0,-3.0,0.0,2.0,FWRD
+700,,2012-05-09 10:39:21,2012-05-08,FWRD,Campbell C Robert,Dir,A - Grant,0.0,2481,16001,+18%,0.0,-3.0,-3.0,0.0,2.0,FWRD
+701,,2012-05-09 10:39:21,2012-05-08,FWRD,Allen Ronald W,Dir,A - Grant,0.0,2481,5835,+74%,0.0,-3.0,-3.0,0.0,2.0,FWRD
+702,D,2012-04-27 13:26:32,2012-04-25,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,13.25,300,17798,+2%,3974.0,0.0,-3.0,-7.0,-4.0,FWRD
+703,D,2012-04-27 13:26:32,2012-04-25,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,35.01,-300,17798,-2%,-10503.0,0.0,-3.0,-7.0,-4.0,FWRD
+704,D,2012-04-27 13:26:29,2012-04-25,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,29.44,400,3623,+12%,11776.0,0.0,-3.0,-7.0,-4.0,FWRD
+705,D,2012-04-27 13:26:29,2012-04-25,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,35.02,-400,3623,-10%,-14010.0,0.0,-3.0,-7.0,-4.0,FWRD
+706,,2012-04-27 13:26:27,2012-04-25,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale,34.76,-5193,59312,-8%,-180490.0,0.0,-3.0,-7.0,-4.0,FWRD
+707,,2012-04-26 15:22:44,2012-04-24,FWRD,Hanselman Richard W,Dir,S - Sale,34.53,-4410,4821,-48%,-152293.0,-1.0,-2.0,-8.0,-4.0,FWRD
+708,,2012-03-05 17:13:52,2012-03-02,FWRD,Campbell C Robert,Dir,S - Sale,33.56,-3000,13520,-18%,-100686.0,-1.0,1.0,9.0,-2.0,FWRD
+709,D,2012-03-02 11:30:03,2012-03-01,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,30.35,100000,119689,+508%,3035000.0,-1.0,0.0,8.0,0.0,FWRD
+710,D,2012-03-02 11:30:03,2012-03-01,FWRD,Campbell Bruce A,"COB, Pres, CEO",S - Sale+OE,33.75,-100000,119689,-46%,-3375270.0,-1.0,0.0,8.0,0.0,FWRD
+711,DM,2012-02-16 14:48:32,2012-02-14,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,28.97,11084,6914,-266%,321140.0,2.0,-3.0,3.0,-2.0,FWRD
+712,DM,2012-02-16 14:48:32,2012-02-14,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,35.25,-11084,6914,-62%,-390711.0,2.0,-3.0,3.0,-2.0,FWRD
+713,,2012-02-14 15:59:32,2012-02-11,FWRD,Ruble Chris C,"EVP, Operations",F - Tax,0.0,-441,6914,-6%,-0.0,0.0,-5.0,-1.0,-5.0,FWRD
+714,D,2012-02-14 15:59:31,2012-02-11,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-240,3623,-6%,-0.0,0.0,-5.0,-1.0,-5.0,FWRD
+715,DM,2012-02-14 15:59:31,2012-02-10,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,24.72,35722,3623,-111%,882898.0,0.0,-5.0,-1.0,-5.0,FWRD
+716,DM,2012-02-14 15:59:31,2012-02-10,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,35.06,-35722,3623,-91%,-1252525.0,0.0,-5.0,-1.0,-5.0,FWRD
+717,,2012-02-14 15:59:31,2012-02-11,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-196,7690,-2%,-0.0,0.0,-5.0,-1.0,-5.0,FWRD
+718,D,2012-02-14 15:59:31,2012-02-11,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",F - Tax,0.0,-441,17798,-2%,-0.0,0.0,-5.0,-1.0,-5.0,FWRD
+719,D,2012-02-14 15:59:31,2012-02-13,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,21.88,17500,17798,>999%,382900.0,0.0,-5.0,-1.0,-5.0,FWRD
+720,D,2012-02-14 15:59:31,2012-02-13,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,35.14,-17500,17798,-50%,-615032.0,0.0,-5.0,-1.0,-5.0,FWRD
+721,,2012-02-14 15:59:07,2012-02-11,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-1089,119689,-1%,-0.0,0.0,-5.0,-1.0,-5.0,FWRD
+722,,2012-02-14 15:59:06,2012-02-11,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-359,64505,-1%,-0.0,0.0,-5.0,-1.0,-5.0,FWRD
+723,D,2012-02-09 14:09:56,2012-02-07,FWRD,Drum Craig A,"SVP, Sales",A - Grant,0.0,1641,3863,+74%,0.0,2.0,-4.0,-4.0,-4.0,FWRD
+724,D,2012-02-09 14:09:53,2012-02-07,FWRD,McLean Michael P,"VP, CAO",A - Grant,0.0,1641,7886,+26%,0.0,2.0,-4.0,-4.0,-4.0,FWRD
+725,D,2012-02-09 14:09:50,2012-02-07,FWRD,Ruble Chris C,"EVP, Operations",A - Grant,0.0,3009,7355,+69%,0.0,2.0,-4.0,-4.0,-4.0,FWRD
+726,D,2012-02-09 14:09:47,2012-02-07,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",A - Grant,0.0,3009,18239,+20%,0.0,2.0,-4.0,-4.0,-4.0,FWRD
+727,D,2012-02-09 14:09:44,2012-02-07,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",A - Grant,0.0,3009,64864,+5%,0.0,2.0,-4.0,-4.0,-4.0,FWRD
+728,D,2012-02-09 14:09:41,2012-02-07,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,9119,120778,+8%,0.0,2.0,-4.0,-4.0,-4.0,FWRD
+729,D,2011-11-14 15:32:14,2011-11-11,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,22.87,29733,4301,-117%,679994.0,-2.0,-3.0,-6.0,-7.0,FWRD
+730,D,2011-11-14 15:32:14,2011-11-11,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,33.75,-29733,4301,-87%,-1003501.0,-2.0,-3.0,-6.0,-7.0,FWRD
+731,D,2011-11-14 15:32:09,2011-11-11,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,28.97,700,2222,+46%,20281.0,-2.0,-3.0,-6.0,-7.0,FWRD
+732,D,2011-11-14 15:32:09,2011-11-11,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,33.91,-700,2222,-24%,-23740.0,-2.0,-3.0,-6.0,-7.0,FWRD
+733,M,2011-11-14 15:32:08,2011-10-27,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale,33.26,-16068,61846,-21%,-534471.0,-2.0,-3.0,-6.0,-7.0,FWRD
+734,DM,2011-11-14 15:32:03,2011-11-10,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,21.88,9500,15225,+166%,207860.0,-2.0,-3.0,-6.0,-7.0,FWRD
+735,DM,2011-11-14 15:32:03,2011-11-10,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,33.11,-9500,15225,-38%,-314574.0,-2.0,-3.0,-6.0,-7.0,FWRD
+736,,2011-11-14 10:01:41,2011-11-11,FWRD,Lynch George M,Dir,S - Sale,33.04,-4410,12610,-26%,-145706.0,-2.0,-3.0,-6.0,-7.0,FWRD
+737,D,2011-11-10 16:00:33,2011-11-08,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,22.87,3600,4301,+513%,82332.0,3.0,-1.0,-2.0,-5.0,FWRD
+738,D,2011-11-10 16:00:33,2011-11-08,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,34.0,-3600,4301,-46%,-122400.0,3.0,-1.0,-2.0,-5.0,FWRD
+739,D,2011-11-10 16:00:31,2011-11-08,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,21.88,5500,15225,+57%,120340.0,3.0,-1.0,-2.0,-5.0,FWRD
+740,D,2011-11-10 16:00:31,2011-11-08,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,33.77,-5500,15225,-27%,-185759.0,3.0,-1.0,-2.0,-5.0,FWRD
+741,D,2011-11-10 16:00:29,2011-11-08,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,28.97,13300,2222,-120%,385345.0,3.0,-1.0,-2.0,-5.0,FWRD
+742,D,2011-11-10 16:00:29,2011-11-08,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,33.93,-13300,2222,-86%,-451286.0,3.0,-1.0,-2.0,-5.0,FWRD
+743,,2011-11-10 16:00:25,2011-11-09,FWRD,Hanselman Richard W,Dir,S - Sale,32.92,-2733,9231,-23%,-89972.0,3.0,-1.0,-2.0,-5.0,FWRD
+744,,2011-11-01 15:58:36,2011-10-28,FWRD,Langley C John Jr,Dir,S - Sale,33.47,-1500,15695,-9%,-50208.0,-6.0,0.0,-2.0,4.0,FWRD
+745,DM,2011-10-31 15:14:19,2011-10-27,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,28.97,4950,2222,-181%,143418.0,-1.0,-2.0,-8.0,2.0,FWRD
+746,DM,2011-10-31 15:14:19,2011-10-27,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,34.02,-4950,2222,-69%,-168402.0,-1.0,-2.0,-8.0,2.0,FWRD
+747,D,2011-10-31 15:14:16,2011-10-27,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",M - OptEx,21.88,5000,15225,+49%,109400.0,-1.0,-2.0,-8.0,2.0,FWRD
+748,D,2011-10-31 15:14:16,2011-10-27,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",S - Sale+OE,33.83,-5000,15225,-25%,-169145.0,-1.0,-2.0,-8.0,2.0,FWRD
+749,,2011-10-31 15:14:13,2011-10-27,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale,33.4,-13932,77914,-15%,-465368.0,-1.0,-2.0,-8.0,2.0,FWRD
+750,D,2011-10-31 15:14:10,2011-10-27,FWRD,Mundy Ray A,Dir,M - OptEx,19.6,11250,31801,+55%,220500.0,-1.0,-2.0,-8.0,2.0,FWRD
+751,D,2011-10-31 15:14:10,2011-10-27,FWRD,Mundy Ray A,Dir,S - Sale+OE,33.38,-11250,31801,-26%,-375525.0,-1.0,-2.0,-8.0,2.0,FWRD
+752,,2011-05-12 13:44:28,2011-05-10,FWRD,Mundy Ray A,Dir,A - Grant,0.0,2443,31801,+8%,0.0,0.0,4.0,3.0,6.0,FWRD
+753,,2011-05-12 13:44:25,2011-05-10,FWRD,Allen Ronald W,Dir,A - Grant,0.0,2443,3354,+268%,0.0,0.0,4.0,3.0,6.0,FWRD
+754,,2011-05-12 13:44:22,2011-05-10,FWRD,Campbell C Robert,Dir,A - Grant,0.0,2443,16520,+17%,0.0,0.0,4.0,3.0,6.0,FWRD
+755,,2011-05-12 13:44:17,2011-05-10,FWRD,Hanselman Richard W,Dir,A - Grant,0.0,2443,11964,+26%,0.0,0.0,4.0,3.0,6.0,FWRD
+756,,2011-05-12 13:44:15,2011-05-10,FWRD,Langley C John Jr,Dir,A - Grant,0.0,2443,17195,+17%,0.0,0.0,4.0,3.0,6.0,FWRD
+757,,2011-05-12 13:44:13,2011-05-10,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,2443,14645,+20%,0.0,0.0,4.0,3.0,6.0,FWRD
+758,,2011-05-12 13:44:10,2011-05-10,FWRD,Leinweber Larry D,Dir,A - Grant,0.0,2443,3354,+268%,0.0,0.0,4.0,3.0,6.0,FWRD
+759,,2011-05-12 13:44:05,2011-05-10,FWRD,Lynch George M,Dir,A - Grant,0.0,2443,17020,+17%,0.0,0.0,4.0,3.0,6.0,FWRD
+760,,2011-05-12 13:44:03,2011-05-10,FWRD,Paxton Gary L,Dir,A - Grant,0.0,2443,24270,+11%,0.0,0.0,4.0,3.0,6.0,FWRD
+761,DM,2011-04-28 16:40:54,2011-04-26,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,28.97,27800,2222,-109%,805458.0,0.0,-4.0,4.0,-8.0,FWRD
+762,DM,2011-04-28 16:40:54,2011-04-26,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,34.02,-27800,2222,-93%,-945743.0,0.0,-4.0,4.0,-8.0,FWRD
+763,,2011-04-04 17:21:56,2011-03-31,FWRD,Leinweber Larry D,Dir,A - Grant,0.0,911,911,New,0.0,2.0,-1.0,3.0,-19.0,FWRD
+764,,2011-04-04 17:21:54,2011-03-31,FWRD,Allen Ronald W,Dir,A - Grant,0.0,911,911,New,0.0,2.0,-1.0,3.0,-19.0,FWRD
+765,,2011-03-10 15:01:19,2011-03-08,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",S - Sale,30.03,-18000,91835,-16%,-540555.0,-2.0,-7.0,9.0,-6.0,FWRD
+766,A,2011-03-04 16:46:51,2011-02-17,FWRD,Mundy Ray A,Dir,S - Sale,30.58,-8216,18108,-31%,-251245.0,-2.0,-3.0,4.0,-4.0,FWRD
+767,D,2011-03-04 14:44:40,2011-02-25,FWRD,Mundy Ray A,Dir,M - OptEx,25.42,11250,37574,+43%,285975.0,-1.0,-4.0,3.0,-6.0,FWRD
+768,,2011-03-03 09:38:50,2011-03-01,FWRD,Ruble Chris C,"EVP, Operations",S - Sale,29.61,-1874,4251,-31%,-55489.0,4.0,2.0,6.0,-1.0,FWRD
+769,D,2011-02-22 08:29:02,2011-02-17,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,22.74,36000,2222,-107%,818520.0,-2.0,-4.0,-10.0,-21.0,FWRD
+770,D,2011-02-22 08:29:02,2011-02-17,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,30.93,-44311,2222,-95%,-1370466.0,-2.0,-4.0,-10.0,-21.0,FWRD
+771,D,2011-02-15 17:14:21,2011-02-11,FWRD,Drum Craig A,"SVP, Sales",A - Grant,0.0,2222,10533,+27%,0.0,1.0,-5.0,-15.0,-16.0,FWRD
+772,D,2011-02-15 17:14:20,2011-02-11,FWRD,McLean Michael P,"VP, CAO",A - Grant,0.0,2222,6235,+55%,0.0,1.0,-5.0,-15.0,-16.0,FWRD
+773,D,2011-02-15 17:14:17,2011-02-11,FWRD,Ruble Chris C,"EVP, Operations",A - Grant,0.0,4074,6125,+199%,0.0,1.0,-5.0,-15.0,-16.0,FWRD
+774,D,2011-02-15 17:14:12,2011-02-11,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",A - Grant,0.0,4074,15220,+37%,0.0,1.0,-5.0,-15.0,-16.0,FWRD
+775,D,2011-02-15 17:14:09,2011-02-11,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",A - Grant,0.0,4074,109835,+4%,0.0,1.0,-5.0,-15.0,-16.0,FWRD
+776,D,2011-02-15 17:14:06,2011-02-11,FWRD,Campbell Bruce A,"COB, Pres, CEO",A - Grant,0.0,12346,111659,+12%,0.0,1.0,-5.0,-15.0,-16.0,FWRD
+777,D,2011-02-14 19:12:25,2011-02-10,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",M - OptEx,23.17,70686,105761,+202%,1637561.0,10.0,8.0,-3.0,-6.0,FWRD
+778,,2010-11-09 13:00:08,2010-11-05,FWRD,Ruble Chris C,"EVP, Operations",S - Sale,28.17,-6620,1942,-77%,-186485.0,-3.0,-4.0,4.0,17.0,FWRD
+779,D,2010-08-02 15:58:28,2010-07-08,FWRD,Mundy Ray A,Dir,M - OptEx,24.25,11250,26324,+75%,272813.0,0.0,-3.0,-15.0,-4.0,FWRD
+780,,2010-07-30 16:44:10,2010-07-29,FWRD,Hanselman Richard W,Dir,S - Sale,28.54,-4556,9521,-32%,-130011.0,0.0,-1.0,-12.0,0.0,FWRD
+781,,2010-05-14 15:56:51,2010-05-12,FWRD,Lynch George M,Dir,A - Grant,0.0,2733,14577,+23%,0.0,-2.0,-7.0,-2.0,-3.0,FWRD
+782,,2010-05-14 15:56:44,2010-05-12,FWRD,Paxton Gary L,Dir,A - Grant,0.0,2733,21827,+14%,0.0,-2.0,-7.0,-2.0,-3.0,FWRD
+783,,2010-05-14 15:56:43,2010-05-12,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,2733,12202,+29%,0.0,-2.0,-7.0,-2.0,-3.0,FWRD
+784,,2010-05-14 15:56:37,2010-05-12,FWRD,Langley C John Jr,Dir,A - Grant,0.0,2733,14752,+23%,0.0,-2.0,-7.0,-2.0,-3.0,FWRD
+785,,2010-05-14 15:56:36,2010-05-12,FWRD,Hanselman Richard W,Dir,A - Grant,0.0,2733,14077,+24%,0.0,-2.0,-7.0,-2.0,-3.0,FWRD
+786,,2010-05-14 15:56:34,2010-05-12,FWRD,Campbell C Robert,Dir,A - Grant,0.0,2733,14077,+24%,0.0,-2.0,-7.0,-2.0,-3.0,FWRD
+787,,2010-05-14 15:56:33,2010-05-12,FWRD,Mundy Ray A,Dir,A - Grant,0.0,2733,15074,+22%,0.0,-2.0,-7.0,-2.0,-3.0,FWRD
+788,,2010-03-11 10:58:55,2009-06-02,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-221,3989,-5%,-0.0,0.0,1.0,-3.0,-4.0,FWRD
+789,,2010-03-11 10:58:49,2009-06-02,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-178,34372,-1%,-0.0,0.0,1.0,-3.0,-4.0,FWRD
+790,M,2009-11-04 15:54:46,2009-11-02,FWRD,Hanselman Richard W,Dir,S - Sale,21.0,-750,11344,-6%,-15750.0,-1.0,0.0,10.0,28.0,FWRD
+791,,2009-07-30 13:27:10,2009-07-28,FWRD,Paxton Gary L,Dir,P - Purchase,21.55,10000,19094,+110%,215504.0,5.0,15.0,13.0,14.0,FWRD
+792,,2009-05-15 15:20:47,2009-05-13,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,4410,9469,+87%,0.0,-1.0,1.0,20.0,20.0,FWRD
+793,,2009-05-15 15:09:47,2009-05-13,FWRD,Paxton Gary L,Dir,A - Grant,0.0,4410,9094,+94%,0.0,-1.0,1.0,20.0,20.0,FWRD
+794,,2009-05-15 15:09:42,2009-05-13,FWRD,Mundy Ray A,Dir,A - Grant,0.0,4410,12341,+56%,0.0,-1.0,1.0,20.0,20.0,FWRD
+795,,2009-05-15 15:09:38,2009-05-13,FWRD,Lynch George M,Dir,A - Grant,0.0,4410,11844,+59%,0.0,-1.0,1.0,20.0,20.0,FWRD
+796,,2009-05-15 15:09:32,2009-05-13,FWRD,Langley C John Jr,Dir,A - Grant,0.0,4410,12019,+58%,0.0,-1.0,1.0,20.0,20.0,FWRD
+797,,2009-05-15 15:09:27,2009-05-13,FWRD,Hanselman Richard W,Dir,A - Grant,0.0,4410,12094,+57%,0.0,-1.0,1.0,20.0,20.0,FWRD
+798,,2009-05-15 15:09:22,2009-05-13,FWRD,Campbell C Robert,Dir,A - Grant,0.0,4410,11344,+64%,0.0,-1.0,1.0,20.0,20.0,FWRD
+799,D,2009-02-17 10:41:38,2009-02-12,FWRD,Ruble Chris C,"EVP, Operations",F - Tax,0.0,-1353,8429,-14%,-0.0,-4.0,-11.0,-14.0,31.0,FWRD
+800,D,2009-02-17 10:41:04,2009-02-12,FWRD,McLean Michael P,"VP, CAO",F - Tax,0.0,-272,4210,-6%,-0.0,-4.0,-11.0,-14.0,31.0,FWRD
+801,D,2009-02-17 10:39:34,2009-02-12,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-1288,8311,-13%,-0.0,-4.0,-11.0,-14.0,31.0,FWRD
+802,D,2009-02-17 10:39:27,2009-02-12,FWRD,Jewell Matthew J,"EVP, CLO, Secretary",F - Tax,0.0,-1417,11122,-11%,-0.0,-4.0,-11.0,-14.0,31.0,FWRD
+803,D,2009-02-17 10:38:59,2009-02-12,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-1487,99313,-1%,-0.0,-3.0,-11.0,-14.0,31.0,FWRD
+804,D,2009-02-17 10:35:49,2009-02-12,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-1088,34550,-3%,-0.0,-3.0,-11.0,-14.0,31.0,FWRD
+805,A,2008-06-25 14:31:58,2008-05-13,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,2306,5059,+84%,0.0,1.0,-3.0,-2.0,-42.0,FWRD
+806,A,2008-06-25 14:22:12,2008-05-13,FWRD,Lynch George M,Dir,A - Grant,0.0,2306,7434,+45%,0.0,1.0,-3.0,-2.0,-42.0,FWRD
+807,A,2008-06-25 12:55:32,2008-05-13,FWRD,Preslar B Clyde,Dir,A - Grant,0.0,2306,7309,+46%,0.0,1.0,-3.0,-2.0,-42.0,FWRD
+808,A,2008-06-25 12:48:58,2008-05-13,FWRD,Paxton Gary L,Dir,A - Grant,0.0,2306,4684,+97%,0.0,1.0,-3.0,-2.0,-42.0,FWRD
+809,A,2008-06-25 12:42:14,2008-05-13,FWRD,Mundy Ray A,Dir,A - Grant,0.0,2306,7931,+41%,0.0,1.0,-3.0,-2.0,-42.0,FWRD
+810,A,2008-06-25 12:33:02,2008-05-13,FWRD,Langley C John Jr,Dir,A - Grant,0.0,2306,7609,+43%,0.0,1.0,-3.0,-2.0,-42.0,FWRD
+811,,2008-06-03 14:37:30,2008-06-02,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,37.09,-177,35616,0%,-6565.0,1.0,1.0,-6.0,-37.0,FWRD
+812,,2008-06-03 14:30:14,2008-06-02,FWRD,McLean Michael P,"VP, Chief Accounting Officer",F - Tax,37.09,-221,4482,-5%,-8197.0,1.0,1.0,-6.0,-37.0,FWRD
+813,,2008-05-21 11:26:04,2008-05-13,FWRD,Lynch George M,Dir,A - Grant,0.0,2306,7434,+45%,0.0,-2.0,7.0,10.0,-35.0,FWRD
+814,,2008-05-15 18:39:48,2008-05-13,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,2306,5059,+84%,0.0,-1.0,-4.0,6.0,-35.0,FWRD
+815,,2008-05-15 17:13:27,2008-05-13,FWRD,Preslar B Clyde,Dir,A - Grant,0.0,2306,7309,+46%,0.0,-1.0,-4.0,6.0,-35.0,FWRD
+816,,2008-05-15 17:07:25,2008-05-13,FWRD,Paxton Gary L,Dir,A - Grant,0.0,2306,4684,+97%,0.0,-1.0,-4.0,6.0,-35.0,FWRD
+817,,2008-05-15 17:02:00,2008-05-13,FWRD,Mundy Ray A,Dir,A - Grant,0.0,2306,7931,+41%,0.0,-1.0,-4.0,6.0,-35.0,FWRD
+818,,2008-05-15 16:50:44,2008-05-13,FWRD,Langley C John Jr,Dir,A - Grant,0.0,2306,7609,+43%,0.0,-1.0,-4.0,6.0,-35.0,FWRD
+819,D,2008-05-15 16:41:39,2008-05-13,FWRD,Hanselman Richard W,Dir,A - Grant,0.0,2306,7684,+43%,0.0,-1.0,-4.0,6.0,-35.0,FWRD
+820,D,2008-05-15 16:41:39,2008-05-14,FWRD,Hanselman Richard W,Dir,M - OptEx,20.2,11250,7684,-315%,227250.0,-1.0,-4.0,6.0,-35.0,FWRD
+821,D,2008-05-15 16:41:39,2008-05-14,FWRD,Hanselman Richard W,Dir,S - Sale+OE,35.0,-11250,7684,-59%,-393750.0,-1.0,-4.0,6.0,-35.0,FWRD
+822,,2008-05-15 16:31:28,2008-05-13,FWRD,Campbell C Robert,Dir,A - Grant,0.0,2306,6934,+50%,0.0,-1.0,-4.0,6.0,-35.0,FWRD
+823,D,2008-05-05 09:51:12,2008-05-01,FWRD,Ruble Chris C,"EVP, Operations",M - OptEx,18.82,15000,9672,-282%,282300.0,-1.0,-1.0,8.0,-27.0,FWRD
+824,D,2008-05-05 09:51:12,2008-05-01,FWRD,Ruble Chris C,"EVP, Operations",S - Sale+OE,35.0,-15000,9672,-61%,-525000.0,-1.0,-1.0,8.0,-27.0,FWRD
+825,D,2008-05-02 15:59:48,2008-05-01,FWRD,Jewell Matthew J,"Exec.VP,GC,Sec.",M - OptEx,13.25,6402,12160,+111%,84827.0,-3.0,-3.0,4.0,-36.0,FWRD
+826,D,2008-05-02 15:59:48,2008-05-01,FWRD,Jewell Matthew J,"Exec.VP,GC,Sec.",S - Sale+OE,35.0,-6402,12160,-34%,-224070.0,-3.0,-3.0,4.0,-36.0,FWRD
+827,D,2008-05-02 15:34:00,2008-05-01,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,18.82,15000,9599,-278%,282300.0,-3.0,-3.0,4.0,-36.0,FWRD
+828,D,2008-05-02 15:34:00,2008-05-01,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,34.57,-15000,9599,-61%,-518550.0,-3.0,-3.0,4.0,-36.0,FWRD
+829,D,2008-04-29 15:33:24,2008-04-25,FWRD,Hanselman Richard W,Dir,M - OptEx,25.87,7500,5378,-353%,194025.0,0.0,3.0,11.0,-39.0,FWRD
+830,D,2008-04-29 15:33:24,2008-04-25,FWRD,Hanselman Richard W,Dir,S - Sale+OE,33.75,-7500,5378,-58%,-253125.0,0.0,3.0,11.0,-39.0,FWRD
+831,D,2008-04-01 13:47:22,2008-03-28,FWRD,Campbell Bruce A,"COB, Pres, CEO",M - OptEx,4.17,57005,100800,+130%,237711.0,2.0,2.0,-6.0,-21.0,FWRD
+832,,2008-02-14 17:51:38,2008-02-12,FWRD,Campbell Bruce A,"COB, Pres, CEO",F - Tax,0.0,-1407,43795,-3%,-0.0,-2.0,-3.0,1.0,11.0,FWRD
+833,,2008-02-14 17:30:18,2008-02-12,FWRD,McLean Michael P,"Chief Accounting Officer, VP,",F - Tax,0.0,-272,4703,-5%,-0.0,-2.0,-3.0,1.0,11.0,FWRD
+834,,2008-02-14 17:26:29,2008-02-12,FWRD,Jewell Matthew J,"EVP, Cheif Legal Officer",F - Tax,0.0,-1312,12160,-10%,-0.0,-2.0,-3.0,1.0,11.0,FWRD
+835,,2008-02-14 17:22:44,2008-02-12,FWRD,Drum Craig A,"SVP, Sales",F - Tax,0.0,-1213,9599,-11%,-0.0,-2.0,-3.0,1.0,11.0,FWRD
+836,,2008-02-14 17:18:44,2008-02-12,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,0.0,-1004,35793,-3%,-0.0,-2.0,-3.0,1.0,11.0,FWRD
+837,,2008-02-14 17:14:42,2008-02-12,FWRD,Ruble Chris C,EVP,F - Tax,0.0,-1257,9672,-12%,-0.0,-2.0,-3.0,1.0,11.0,FWRD
+838,,2007-06-06 18:38:19,2007-06-04,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",F - Tax,34.39,-177,36778,0%,-6087.0,-2.0,-2.0,2.0,-4.0,FWRD
+839,,2007-06-06 18:20:00,2007-06-04,FWRD,McLean Michael P,"VP, Controller",F - Tax,34.39,-221,4779,-4%,-7600.0,-2.0,-2.0,2.0,-4.0,FWRD
+840,,2007-05-25 15:52:25,2007-05-23,FWRD,Paxton Gary L,Dir,A - Grant,0.0,2378,2378,New,0.0,1.0,6.0,6.0,-9.0,FWRD
+841,,2007-05-24 16:15:47,2007-05-23,FWRD,Preslar B Clyde,Dir,A - Grant,0.0,2378,5003,+91%,0.0,1.0,4.0,5.0,-7.0,FWRD
+842,,2007-05-24 16:15:43,2007-05-23,FWRD,Mundy Ray A,Dir,A - Grant,0.0,2378,5625,+73%,0.0,1.0,4.0,5.0,-7.0,FWRD
+843,,2007-05-24 16:15:35,2007-05-23,FWRD,Lynch George M,Dir,A - Grant,0.0,2378,5128,+86%,0.0,1.0,4.0,5.0,-7.0,FWRD
+844,,2007-05-24 16:15:32,2007-05-23,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,2378,2753,+634%,0.0,1.0,4.0,5.0,-7.0,FWRD
+845,,2007-05-24 16:15:29,2007-05-23,FWRD,Langley C John Jr,Dir,A - Grant,0.0,2378,5303,+81%,0.0,1.0,4.0,5.0,-7.0,FWRD
+846,,2007-05-24 16:15:25,2007-05-23,FWRD,Hanselman Richard W,Dir,A - Grant,0.0,2378,5378,+79%,0.0,1.0,4.0,5.0,-7.0,FWRD
+847,,2007-05-24 16:15:21,2007-05-23,FWRD,Campbell C Robert,Dir,A - Grant,0.0,2378,4628,+106%,0.0,1.0,4.0,5.0,-7.0,FWRD
+848,,2007-04-27 11:14:17,2007-04-27,FWRD,Leinbach Tracy A,Dir,A - Grant,0.0,375,375,New,0.0,0.0,0.0,6.0,-8.0,FWRD
+849,D,2007-02-14 14:59:47,2007-02-12,FWRD,Ruble Chris C,"SVP, Operations",F - Tax,0.0,-1270,10835,-10%,-0.0,0.0,5.0,0.0,6.0,FWRD
+850,D,2007-02-14 14:59:30,2007-02-12,FWRD,Campbell Bruce A,"Pres, CEO",F - Tax,0.0,-1424,45202,-3%,-0.0,0.0,5.0,0.0,6.0,FWRD
+851,,2006-06-02 11:53:09,2006-06-02,FWRD,McLean Michael P,"VP, Controller",A - Grant,0.0,2500,5000,+100%,0.0,-4.0,-4.0,4.0,-14.0,FWRD
+852,,2006-06-02 11:53:04,2006-06-02,FWRD,Bell Rodney L,"CFO, SVP, Treasurer",A - Grant,0.0,2000,36470,+6%,0.0,-4.0,-4.0,4.0,-14.0,FWRD
+853,,2006-05-26 13:06:05,2006-05-24,FWRD,Campbell C Robert,Dir,A - Grant,0.0,2250,2250,New,0.0,0.0,6.0,6.0,-6.0,FWRD
+854,,2006-05-26 11:39:10,2006-05-24,FWRD,Lynch George M,Dir,A - Grant,0.0,2250,2750,+450%,0.0,0.0,6.0,6.0,-6.0,FWRD
+855,,2006-05-26 11:39:09,2006-05-24,FWRD,Langley C John Jr,Dir,A - Grant,0.0,2250,2925,+333%,0.0,0.0,6.0,6.0,-6.0,FWRD
+856,,2006-05-25 16:42:34,2006-05-24,FWRD,Preslar B Clyde,Dir,A - Grant,0.0,2250,2625,+600%,0.0,1.0,6.0,6.0,-6.0,FWRD
+857,,2006-05-25 16:42:30,2006-05-24,FWRD,Mundy Ray A,Dir,A - Grant,0.0,2250,3247,+226%,0.0,1.0,6.0,6.0,-6.0,FWRD
+858,,2006-05-25 16:42:26,2006-05-24,FWRD,Hanselman Richard W,Dir,A - Grant,0.0,2250,3000,+300%,0.0,1.0,6.0,6.0,-6.0,FWRD
+859,D,2006-05-10 13:29:34,2006-05-08,FWRD,Ruble Chris C,"SVP, Operations",M - OptEx,18.82,7500,11709,+178%,141150.0,-4.0,-11.0,-6.0,-18.0,FWRD
+860,D,2006-05-10 13:29:34,2006-05-08,FWRD,Ruble Chris C,"SVP, Operations",S - Sale+OE,39.6,-7500,11709,-39%,-297000.0,-4.0,-11.0,-6.0,-18.0,FWRD
+861,D,2006-05-10 13:29:29,2006-05-09,FWRD,Langley C John Jr,Dir,M - OptEx,20.2,2500,675,-137%,50500.0,-4.0,-11.0,-6.0,-18.0,FWRD
+862,D,2006-05-10 13:29:29,2006-05-09,FWRD,Langley C John Jr,Dir,S - Sale+OE,40.0,-2500,675,-79%,-100000.0,-4.0,-11.0,-6.0,-18.0,FWRD
+863,D,2006-05-10 13:29:28,2006-05-09,FWRD,Bell Rodney L,"Chief Accounting Officer, VP",M - OptEx,23.17,4316,34470,+14%,99994.0,-4.0,-11.0,-6.0,-18.0,FWRD
+864,D,2006-05-05 09:05:42,2006-05-03,FWRD,Campbell Bruce A,"Pres, CEO",M - OptEx,13.25,7547,46626,+19%,99998.0,2.0,-2.0,-4.0,-17.0,FWRD
+865,D,2006-05-02 15:07:37,2006-04-28,FWRD,Ruble Chris C,"SVP, Operations",M - OptEx,19.07,20000,11709,-241%,381300.0,0.0,1.0,-5.0,-16.0,FWRD
+866,D,2006-05-02 15:07:37,2006-04-28,FWRD,Ruble Chris C,"SVP, Operations",S - Sale+OE,40.0,-20000,11709,-63%,-800000.0,0.0,1.0,-5.0,-16.0,FWRD
+867,DM,2006-05-01 10:38:53,2006-04-27,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",M - OptEx,13.25,10000,12584,+387%,132500.0,-2.0,-2.0,-9.0,-19.0,FWRD
+868,DM,2006-05-01 10:38:53,2006-04-27,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",S - Sale+OE,40.0,-10000,12584,-44%,-400000.0,-2.0,-2.0,-9.0,-19.0,FWRD
+869,D,2006-05-01 10:38:49,2006-04-28,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,26.07,26250,10468,-166%,684338.0,-2.0,-2.0,-9.0,-19.0,FWRD
+870,D,2006-05-01 10:38:49,2006-04-28,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,40.0,-26250,10468,-71%,-1050000.0,-2.0,-2.0,-9.0,-19.0,FWRD
+871,D,2006-05-01 10:38:48,2006-04-28,FWRD,Bell Rodney L,"Chief Accounting Officer, VP",M - OptEx,15.87,7500,30154,+33%,119025.0,-2.0,-2.0,-9.0,-19.0,FWRD
+872,DM,2006-05-01 10:38:48,2006-04-27,FWRD,Bell Rodney L,"Chief Accounting Officer, VP",S - Sale+OE,39.96,-14868,30154,-33%,-594195.0,-2.0,-2.0,-9.0,-19.0,FWRD
+873,,2006-03-13 10:05:23,2006-03-09,FWRD,Bell Rodney L,"VP, Controller",S - Sale,35.62,-5000,37522,-12%,-178100.0,2.0,4.0,7.0,-9.0,FWRD
+874,D,2006-02-28 15:49:23,2006-02-27,FWRD,Clarke Andrew C,"CFO, SVP",M - OptEx,13.25,15000,15167,>999%,198750.0,0.0,-2.0,6.0,-12.0,FWRD
+875,D,2006-02-28 15:49:23,2006-02-27,FWRD,Clarke Andrew C,"CFO, SVP",S - Sale+OE,36.11,-15000,15167,-50%,-541650.0,0.0,-2.0,6.0,-12.0,FWRD
+876,,2006-02-14 16:25:56,2006-02-12,FWRD,Ruble Chris C,"SVP, Operations",A - Grant,0.0,10500,11709,+868%,0.0,4.0,0.0,5.0,-11.0,FWRD
+877,,2006-02-14 16:25:54,2006-02-12,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",A - Grant,0.0,11000,12584,+694%,0.0,4.0,0.0,5.0,-11.0,FWRD
+878,,2006-02-14 16:25:49,2006-02-12,FWRD,Clarke Andrew C,"CFO, SVP",A - Grant,0.0,12000,15167,+379%,0.0,4.0,0.0,5.0,-11.0,FWRD
+879,,2006-02-14 16:25:48,2006-02-12,FWRD,Drum Craig A,"SVP, Sales",A - Grant,0.0,10000,10468,>999%,0.0,4.0,0.0,5.0,-11.0,FWRD
+880,,2006-02-14 16:25:43,2006-02-12,FWRD,Campbell Bruce A,"Pres, CEO",A - Grant,0.0,15080,39079,+63%,0.0,4.0,0.0,5.0,-11.0,FWRD
+881,,2006-02-14 16:25:40,2006-02-12,FWRD,Bell Rodney L,"VP, Controller",A - Grant,0.0,10000,42522,+31%,0.0,4.0,0.0,5.0,-11.0,FWRD
+882,,2005-11-16 14:00:11,2005-11-15,FWRD,Bell Rodney L,"VP, Controller",S - Sale,38.0,-5000,32182,-13%,-190000.0,0.0,8.0,3.0,-5.0,FWRD
+883,D,2005-11-14 10:27:46,2005-11-11,FWRD,Ruble Chris C,"SVP, Operations",M - OptEx,15.87,5000,886,-122%,79350.0,0.0,5.0,4.0,-5.0,FWRD
+884,D,2005-11-14 10:27:46,2005-11-11,FWRD,Ruble Chris C,"SVP, Operations",S - Sale+OE,37.9,-5000,886,-85%,-189500.0,0.0,5.0,4.0,-5.0,FWRD
+885,D,2005-11-14 08:50:56,2005-11-10,FWRD,Clarke Andrew C,"CFO, SVP",M - OptEx,13.25,2500,2740,>999%,33125.0,0.0,5.0,4.0,-5.0,FWRD
+886,D,2005-11-14 08:50:56,2005-11-10,FWRD,Clarke Andrew C,"CFO, SVP",S - Sale+OE,38.44,-2500,2740,-48%,-96097.0,0.0,5.0,4.0,-5.0,FWRD
+887,DM,2005-11-09 13:25:01,2005-11-07,FWRD,Bell Rodney L,"VP, Controller",M - OptEx,17.79,5415,37182,+17%,96333.0,2.0,6.0,8.0,8.0,FWRD
+888,DM,2005-11-09 13:25:01,2005-11-07,FWRD,Bell Rodney L,"VP, Controller",S - Sale+OE,35.98,-5415,37182,-13%,-194844.0,2.0,6.0,8.0,8.0,FWRD
+889,DM,2005-11-09 11:29:41,2005-11-07,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",M - OptEx,13.25,4598,1244,-137%,60924.0,2.0,6.0,8.0,8.0,FWRD
+890,DM,2005-11-09 11:29:41,2005-11-07,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",S - Sale+OE,36.02,-4598,1244,-79%,-165611.0,2.0,6.0,8.0,8.0,FWRD
+891,D,2005-11-07 09:51:26,2005-11-03,FWRD,Campbell Bruce A,"Pres, CEO",M - OptEx,4.17,59457,23999,-168%,247936.0,1.0,6.0,8.0,14.0,FWRD
+892,D,2005-11-07 09:51:26,2005-11-03,FWRD,Campbell Bruce A,"Pres, CEO",S - Sale+OE,35.76,-59457,23999,-71%,-2126182.0,1.0,6.0,8.0,14.0,FWRD
+893,DM,2005-11-04 08:14:46,2005-11-02,FWRD,Clarke Andrew C,"CFO, SVP",M - OptEx,13.25,4660,2740,-243%,61745.0,1.0,8.0,9.0,14.0,FWRD
+894,DM,2005-11-04 08:14:46,2005-11-02,FWRD,Clarke Andrew C,"CFO, SVP",S - Sale+OE,35.71,-4660,2740,-63%,-166426.0,1.0,8.0,9.0,14.0,FWRD
+895,DM,2005-11-02 17:36:54,2005-11-01,FWRD,Campbell Bruce A,"Pres, CEO",M - OptEx,4.17,125543,23999,-124%,523514.0,-1.0,1.0,11.0,11.0,FWRD
+896,DM,2005-11-02 17:36:54,2005-11-01,FWRD,Campbell Bruce A,"Pres, CEO",S - Sale+OE,35.3,-125543,23999,-84%,-4431369.0,-1.0,1.0,11.0,11.0,FWRD
+897,D,2005-11-02 11:33:45,2005-10-31,FWRD,Ruble Chris C,"SVP, Operations",M - OptEx,15.87,7500,886,-113%,119025.0,1.0,2.0,12.0,12.0,FWRD
+898,D,2005-11-02 11:33:45,2005-10-31,FWRD,Ruble Chris C,"SVP, Operations",S - Sale+OE,35.56,-7500,886,-89%,-266700.0,1.0,2.0,12.0,12.0,FWRD
+899,,2005-11-02 10:36:07,2005-10-31,FWRD,Bell Rodney L,"VP, Controller",S - Sale,35.53,-3125,37182,-8%,-111031.0,1.0,2.0,12.0,12.0,FWRD
+900,D,2005-11-02 08:30:22,2005-10-31,FWRD,Clarke Andrew C,"CFO, SVP",M - OptEx,13.25,340,2740,+14%,4505.0,1.0,2.0,12.0,12.0,FWRD
+901,D,2005-11-02 08:30:22,2005-10-31,FWRD,Clarke Andrew C,"CFO, SVP",S - Sale+OE,35.52,-340,2740,-11%,-12076.0,1.0,2.0,12.0,12.0,FWRD
+902,D,2005-11-01 16:12:30,2005-10-31,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,19.29,11249,342,-103%,216959.0,1.0,2.0,10.0,12.0,FWRD
+903,D,2005-11-01 16:12:30,2005-10-31,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,35.06,-11249,342,-97%,-394390.0,1.0,2.0,10.0,12.0,FWRD
+904,DM,2005-11-01 11:43:16,2005-10-28,FWRD,Campbell Bruce A,"Pres, CEO",M - OptEx,4.17,63999,23999,-160%,266876.0,-1.0,1.0,9.0,11.0,FWRD
+905,D,2005-11-01 11:43:16,2005-10-31,FWRD,Campbell Bruce A,"Pres, CEO",S - Sale+OE,35.46,-40000,23999,-63%,-1418200.0,-1.0,1.0,9.0,11.0,FWRD
+906,,2005-09-01 10:40:23,2005-08-31,FWRD,Gray Robert/tn,Former Director,S - Sale,35.0,-11250,54825,-17%,-393750.0,1.0,2.0,4.0,0.0,FWRD
+907,,2005-08-19 09:21:57,2005-08-18,FWRD,Bell Rodney L,"VP, Controller",S - Sale,34.0,-2500,40307,-6%,-85000.0,0.0,-1.0,7.0,6.0,FWRD
+908,D,2005-08-18 11:07:40,2005-08-17,FWRD,Langley C John Jr,Dir,M - OptEx,20.2,5625,675,-114%,113625.0,-1.0,-4.0,5.0,5.0,FWRD
+909,D,2005-08-18 11:07:40,2005-08-17,FWRD,Langley C John Jr,Dir,S - Sale+OE,34.44,-5625,675,-89%,-193703.0,-1.0,-4.0,5.0,5.0,FWRD
+910,,2005-08-17 11:49:04,2005-08-15,FWRD,Bell Rodney L,"VP, Controller",G - Gift,0.0,-250,42807,-1%,-0.0,1.0,-2.0,6.0,7.0,FWRD
+911,DM,2005-08-15 14:58:55,2005-08-11,FWRD,Gray Robert/tn,Former Director,M - OptEx,20.71,50625,66075,+328%,1048388.0,2.0,0.0,5.0,8.0,FWRD
+912,D,2005-08-15 11:05:42,2005-08-11,FWRD,Bell Rodney L,"VP, Controller",M - OptEx,17.79,17085,43057,+66%,303942.0,2.0,0.0,5.0,8.0,FWRD
+913,D,2005-08-15 11:05:42,2005-08-12,FWRD,Bell Rodney L,"VP, Controller",S - Sale+OE,34.0,-2500,43057,-5%,-85000.0,2.0,0.0,5.0,8.0,FWRD
+914,D,2005-08-12 12:07:43,2005-08-10,FWRD,Gray Robert/tn,Former Director,M - OptEx,11.89,16875,15450,-1184%,200644.0,-1.0,-1.0,4.0,5.0,FWRD
+915,D,2005-08-12 12:07:43,2005-08-10,FWRD,Gray Robert/tn,Former Director,S - Sale+OE,33.51,-16875,15450,-52%,-565481.0,-1.0,-1.0,4.0,5.0,FWRD
+916,D,2005-08-10 14:40:39,2005-08-10,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",M - OptEx,13.25,5000,1244,-133%,66250.0,2.0,3.0,9.0,16.0,FWRD
+917,D,2005-08-10 14:40:39,2005-08-10,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",S - Sale+OE,33.5,-5000,1244,-80%,-167500.0,2.0,3.0,9.0,16.0,FWRD
+918,D,2005-08-05 08:37:58,2005-08-03,FWRD,Clarke Andrew C,"CFO, SVP",M - OptEx,13.25,945,2740,+53%,12521.0,-2.0,3.0,7.0,17.0,FWRD
+919,D,2005-08-05 08:37:58,2005-08-03,FWRD,Clarke Andrew C,"CFO, SVP",S - Sale+OE,35.0,-945,2740,-26%,-33075.0,-2.0,3.0,7.0,17.0,FWRD
+920,D,2005-08-03 08:32:17,2005-08-01,FWRD,Ruble Chris C,"SVP, Operations",M - OptEx,7.68,5000,886,-122%,38400.0,3.0,-3.0,4.0,15.0,FWRD
+921,D,2005-08-03 08:32:17,2005-08-01,FWRD,Ruble Chris C,"SVP, Operations",S - Sale+OE,35.01,-5000,886,-85%,-175050.0,3.0,-3.0,4.0,15.0,FWRD
+922,,2005-08-02 14:43:55,2005-07-29,FWRD,Drum Craig A,"SVP, Sales",S - Sale,34.55,-225,342,-40%,-7774.0,-1.0,-5.0,1.0,14.0,FWRD
+923,,2005-08-02 10:45:31,2005-07-29,FWRD,Bell Rodney L,"VP, Controller",S - Sale,34.35,-5000,28472,-15%,-171750.0,-1.0,-5.0,1.0,14.0,FWRD
+924,DM,2005-08-02 10:45:15,2005-07-29,FWRD,Clarke Andrew C,"CFO, SVP",M - OptEx,13.25,4055,2740,-308%,53729.0,-1.0,-5.0,1.0,14.0,FWRD
+925,DM,2005-08-02 10:45:15,2005-07-29,FWRD,Clarke Andrew C,"CFO, SVP",S - Sale+OE,34.93,-4055,2740,-60%,-141633.0,-1.0,-5.0,1.0,14.0,FWRD
+926,D,2005-08-02 10:44:56,2005-07-29,FWRD,Gray Robert/tn,Former Director,M - OptEx,4.09,33282,15450,-187%,136123.0,-1.0,-5.0,1.0,14.0,FWRD
+927,D,2005-08-02 10:44:56,2005-07-29,FWRD,Gray Robert/tn,Former Director,S - Sale+OE,34.0,-33282,15450,-68%,-1131588.0,-1.0,-5.0,1.0,14.0,FWRD
+928,DM,2005-07-29 14:42:40,2005-07-27,FWRD,Gray Robert/tn,Former Director,M - OptEx,2.96,30000,15450,-206%,88950.0,3.0,-2.0,0.0,11.0,FWRD
+929,DM,2005-07-29 14:42:40,2005-07-27,FWRD,Gray Robert/tn,Former Director,S - Sale+OE,33.0,-30000,15450,-66%,-990000.0,3.0,-2.0,0.0,11.0,FWRD
+930,D,2005-07-22 13:54:41,2005-07-21,FWRD,Gray Robert/tn,Former Director,M - OptEx,2.49,21094,15450,-374%,52524.0,5.0,10.0,10.0,18.0,FWRD
+931,D,2005-07-22 13:54:41,2005-07-21,FWRD,Gray Robert/tn,Former Director,S - Sale+OE,32.0,-21094,15450,-58%,-675008.0,5.0,10.0,10.0,18.0,FWRD
+932,DM,2005-05-19 09:45:55,2005-05-17,FWRD,Gray Robert/tn,Dir,M - OptEx,2.67,42188,15450,-158%,112642.0,1.0,-2.0,11.0,47.0,FWRD
+933,DM,2005-05-19 09:45:55,2005-05-17,FWRD,Gray Robert/tn,Dir,S - Sale+OE,24.8,-42188,15450,-73%,-1046227.0,1.0,-2.0,11.0,47.0,FWRD
+934,D,2005-03-01 11:55:20,2005-02-28,FWRD,Ruble Chris C,"SVP, Operations",M - OptEx,7.42,1500,437,-141%,11130.0,0.0,2.0,-4.0,16.0,FWRD
+935,D,2005-03-01 11:55:20,2005-02-28,FWRD,Ruble Chris C,"SVP, Operations",S - Sale+OE,44.1,-1500,437,-77%,-66150.0,0.0,2.0,-4.0,16.0,FWRD
+936,,2005-02-25 16:33:00,2005-02-24,FWRD,Niswonger Scott M,Dir,S - Sale,43.45,-19700,600,-97%,-855965.0,1.0,2.0,-4.0,14.0,FWRD
+937,D,2005-02-24 13:35:03,2005-02-23,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,26.02,5000,307,-107%,130075.0,2.0,3.0,-1.0,19.0,FWRD
+938,D,2005-02-24 13:35:03,2005-02-23,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,43.06,-5000,307,-94%,-215300.0,2.0,3.0,-1.0,19.0,FWRD
+939,D,2004-11-19 10:59:34,2004-11-17,FWRD,Bell Rodney L,"VP, Controller",M - OptEx,23.8,5000,21833,+30%,119000.0,-1.0,3.0,2.0,-14.0,FWRD
+940,DM,2004-11-19 10:59:34,2004-11-17,FWRD,Bell Rodney L,"VP, Controller",S - Sale+OE,44.9,-7500,21833,-26%,-336713.0,-1.0,3.0,2.0,-14.0,FWRD
+941,D,2004-11-17 08:16:22,2004-11-15,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",M - OptEx,19.87,5000,346,-107%,99350.0,2.0,5.0,4.0,-12.0,FWRD
+942,D,2004-11-17 08:16:22,2004-11-15,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",S - Sale+OE,44.04,-5000,346,-94%,-220202.0,2.0,5.0,4.0,-12.0,FWRD
+943,D,2004-11-16 14:36:47,2004-11-15,FWRD,Bell Rodney L,"VP, Controller",M - OptEx,7.42,11250,24333,+86%,83475.0,-1.0,4.0,4.0,-16.0,FWRD
+944,D,2004-11-16 14:36:47,2004-11-12,FWRD,Bell Rodney L,"VP, Controller",S - Sale+OE,44.64,-7500,24333,-24%,-334807.0,-1.0,4.0,4.0,-16.0,FWRD
+945,D,2004-11-15 10:07:31,2004-11-11,FWRD,Clarke Andrew C,"CFO, SVP",M - OptEx,23.8,2500,1271,-203%,59500.0,-1.0,-1.0,3.0,-17.0,FWRD
+946,D,2004-11-15 10:07:31,2004-11-11,FWRD,Clarke Andrew C,"CFO, SVP",S - Sale+OE,44.22,-2500,1271,-66%,-110547.0,-1.0,-1.0,3.0,-17.0,FWRD
+947,A,2004-11-12 13:27:47,2004-11-01,FWRD,Bell Rodney L,"VP, Controller",S - Sale,41.0,-2500,18083,-12%,-102500.0,1.0,0.0,3.0,-19.0,FWRD
+948,D,2004-11-10 13:48:56,2004-11-08,FWRD,Ruble Chris C,"SVP, Operations",M - OptEx,34.75,2500,413,-120%,86875.0,1.0,3.0,7.0,-14.0,FWRD
+949,D,2004-11-10 13:48:56,2004-11-08,FWRD,Ruble Chris C,"SVP, Operations",S - Sale+OE,42.0,-2500,413,-86%,-105000.0,1.0,3.0,7.0,-14.0,FWRD
+950,DM,2004-11-10 13:48:55,2004-11-08,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,34.75,7500,225,-103%,260625.0,1.0,3.0,7.0,-14.0,FWRD
+951,DM,2004-11-10 13:48:55,2004-11-08,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,42.0,-7500,225,-97%,-315002.0,1.0,3.0,7.0,-14.0,FWRD
+952,M,2004-11-09 09:38:58,2004-11-05,FWRD,Campbell Bruce A,"Pres, CEO",S - Sale,41.99,-59578,0,-100%,-2501765.0,1.0,5.0,10.0,-14.0,FWRD
+953,D,2004-11-05 11:19:46,2004-11-03,FWRD,Gray Robert/tn,Dir,M - OptEx,3.63,28125,10300,-158%,102094.0,2.0,7.0,12.0,-12.0,FWRD
+954,D,2004-11-05 11:19:46,2004-11-03,FWRD,Gray Robert/tn,Dir,S - Sale+OE,41.67,-28125,10300,-73%,-1171977.0,2.0,7.0,12.0,-12.0,FWRD
+955,M,2004-11-05 08:23:21,2004-11-03,FWRD,Campbell Bruce A,"Pres, CEO",S - Sale,41.68,-42800,59578,-42%,-1784009.0,2.0,7.0,12.0,-12.0,FWRD
+956,,2004-11-02 16:37:12,2004-11-01,FWRD,Campbell Bruce A,"Pres, CEO",S - Sale,41.03,-13500,102378,-12%,-553928.0,3.0,4.0,16.0,-10.0,FWRD
+957,,2004-11-02 16:37:09,2004-11-01,FWRD,Bell Rodney L,"VP, Controller",S - Sale,41.0,-2500,18083,-12%,-102500.0,3.0,4.0,16.0,-10.0,FWRD
+958,D,2004-08-18 15:22:56,2004-08-18,FWRD,Ruble Chris C,"SVP, Operations",M - OptEx,7.42,450,413,-1216%,3339.0,3.0,-2.0,0.0,12.0,FWRD
+959,D,2004-08-18 15:22:56,2004-08-18,FWRD,Ruble Chris C,"SVP, Operations",S - Sale+OE,38.35,-450,413,-52%,-17258.0,3.0,-2.0,0.0,12.0,FWRD
+960,D,2004-08-10 16:22:45,2004-08-10,FWRD,Drum Craig A,"SVP, Sales",M - OptEx,23.8,5000,225,-105%,119000.0,-1.0,-2.0,-5.0,9.0,FWRD
+961,D,2004-08-10 16:22:45,2004-08-10,FWRD,Drum Craig A,"SVP, Sales",S - Sale+OE,39.44,-5000,225,-96%,-197200.0,-1.0,-2.0,-5.0,9.0,FWRD
+962,,2004-08-10 09:29:23,2004-08-09,FWRD,Preslar B Clyde,Dir,P - Purchase,38.54,250,250,New,9635.0,3.0,1.0,-1.0,12.0,FWRD
+963,,2004-08-09 16:45:46,2004-08-06,FWRD,Drum Craig A,"SVP, Sales",S - Sale,38.02,-152,225,-40%,-5779.0,3.0,-1.0,-2.0,13.0,FWRD
+964,,2004-08-04 11:16:12,2004-08-02,FWRD,Bell Rodney L,"VP, Controller",S - Sale,40.25,-3504,20583,-15%,-141036.0,-2.0,-3.0,-10.0,6.0,FWRD
+965,D,2004-08-03 16:12:36,2004-08-02,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",M - OptEx,19.87,5000,346,-107%,99350.0,-2.0,-6.0,-11.0,4.0,FWRD
+966,D,2004-08-03 16:12:36,2004-08-02,FWRD,Jewell Matthew J,"SVP, Gen. Counsel",S - Sale+OE,40.55,-5000,346,-94%,-202750.0,-2.0,-6.0,-11.0,4.0,FWRD
+967,,2004-08-03 15:06:17,2004-08-02,FWRD,Hanselman Richard W,Dir,P - Purchase,40.39,500,500,New,20195.0,-1.0,-7.0,-11.0,4.0,FWRD
+968,,2004-08-03 14:12:17,2004-07-30,FWRD,Niswonger Scott M,Dir,G - Gift,0.0,-150000,20300,-88%,-0.0,-1.0,-7.0,-11.0,4.0,FWRD
+969,D,2004-08-03 14:10:22,2004-07-30,FWRD,Clarke Andrew C,"CFO, SVP",M - OptEx,19.87,5000,1271,-134%,99350.0,-1.0,-7.0,-11.0,4.0,FWRD
+970,D,2004-08-03 14:10:22,2004-07-30,FWRD,Clarke Andrew C,"CFO, SVP",S - Sale+OE,40.05,-5000,1271,-80%,-200250.0,-1.0,-7.0,-11.0,4.0,FWRD
+971,,2004-08-03 12:09:25,2004-07-30,FWRD,Bell Rodney L,"VP, Controller",S - Sale,40.25,-3996,24087,-14%,-160839.0,-1.0,-7.0,-11.0,4.0,FWRD
+972,D,2004-08-03 11:37:47,2004-07-30,FWRD,Ruble Chris C,"SVP, Operations",M - OptEx,7.42,1000,413,-170%,7420.0,-1.0,-7.0,-11.0,4.0,FWRD
+973,D,2004-08-03 11:37:47,2004-07-30,FWRD,Ruble Chris C,"SVP, Operations",S - Sale+OE,39.88,-1524,413,-79%,-60782.0,-1.0,-7.0,-11.0,4.0,FWRD
+974,,2004-05-13 09:07:09,2004-05-12,FWRD,Gray Robert/tn,Dir,S - Sale,31.36,-15000,10300,-59%,-470395.0,-1.0,-5.0,13.0,35.0,FWRD
+975,M,2004-05-13 09:06:48,2004-05-11,FWRD,Bell Rodney L,"VP, Controller",S - Sale,31.5,-5000,27737,-15%,-157500.0,-1.0,-5.0,13.0,35.0,FWRD
+976,M,2004-05-10 11:02:15,2004-05-06,FWRD,Campbell Bruce A,"Pres, CEO",S - Sale,33.06,-36100,115878,-24%,-1193354.0,-3.0,-2.0,16.0,33.0,FWRD
+977,,2004-05-06 09:56:28,2004-05-05,FWRD,Niswonger Scott M,Dir,S - Sale,33.0,-220400,170300,-56%,-7274236.0,-1.0,-4.0,0.0,26.0,FWRD
+978,M,2004-05-05 10:20:07,2004-05-03,FWRD,Niswonger Scott M,Dir,S - Sale,33.02,-93600,390700,-19%,-3090686.0,0.0,-5.0,-1.0,22.0,FWRD
+979,,2004-02-27 14:19:32,2004-02-26,FWRD,Gray Robert/tn,Dir,S - Sale,31.64,-10000,25300,-28%,-316440.0,0.0,3.0,0.0,17.0,FWRD
+980,,2004-02-27 14:19:31,2004-02-26,FWRD,Niswonger Scott M,Dir,S - Sale,31.69,-36000,484300,-7%,-1140840.0,0.0,3.0,0.0,17.0,FWRD
+981,,2004-02-26 13:59:32,2004-02-25,FWRD,Niswonger Scott M,Dir,S - Sale,31.75,-35000,520300,-6%,-1111250.0,-1.0,1.0,-1.0,18.0,FWRD
+982,,2004-02-25 11:13:18,2004-02-24,FWRD,Drum Craig A,"SVP, Sales",S - Sale,31.61,-158,273,-37%,-4994.0,0.0,-1.0,-4.0,17.0,FWRD
+983,,2003-11-14 14:37:01,2003-11-14,FWRD,Niswonger Scott M,"Dir, 10%",S - Sale,28.0,-2200000,555300,-80%,-61600000.0,-4.0,-2.0,-6.0,10.0,FWRD
+984,M,2003-11-06 14:37:38,2003-11-04,FWRD,Cronin James A III,Dir,S - Sale,29.6,-14000,18700,-43%,-414376.0,4.0,-5.0,-5.0,8.0,FWRD
+985,D,2003-11-05 11:15:23,2003-11-03,FWRD,Ruble Chris C,"SVP, Operations",M - OptEx,7.42,2000,524,-136%,14840.0,0.0,-6.0,-4.0,12.0,FWRD
+986,D,2003-11-05 11:15:23,2003-11-03,FWRD,Ruble Chris C,"SVP, Operations",S - Sale+OE,29.6,-2000,524,-79%,-59205.0,0.0,-6.0,-4.0,12.0,FWRD
+987,,2003-10-28 14:49:54,2003-10-24,FWRD,Niswonger Scott M,"Dir, 10%",G - Gift,0.0,-330000,2755300,-11%,-0.0,-6.0,-5.0,-8.0,9.0,FWRD
+988,,2003-08-12 10:31:17,2003-08-11,FWRD,Niswonger Scott M,"CEO, COB, 10%",S - Sale,28.43,-51000,3085300,-2%,-1449675.0,3.0,4.0,9.0,13.0,FWRD
+989,M,2003-08-11 08:54:52,2003-08-07,FWRD,Niswonger Scott M,"CEO, COB, 10%",S - Sale,29.01,-20000,3136300,-1%,-580270.0,-2.0,2.0,7.0,4.0,FWRD
+990,,2003-08-07 09:10:13,2003-08-05,FWRD,Niswonger Scott M,"CEO, COB, 10%",S - Sale,28.81,-44000,3156300,-1%,-1267640.0,2.0,0.0,8.0,-2.0,FWRD
+991,,2003-08-04 09:18:45,2003-08-01,FWRD,Niswonger Scott M,"CEO, COB, 10%",G - Gift,0.0,-100000,3200300,-3%,-0.0,0.0,-1.0,5.0,-2.0,FWRD
+992,M,2003-08-04 09:18:45,2003-07-31,FWRD,Niswonger Scott M,"CEO, COB, 10%",S - Sale,29.32,-59000,3200300,-2%,-1729737.0,0.0,-1.0,5.0,-2.0,FWRD
+993,,2003-07-31 16:20:37,2003-07-29,FWRD,Niswonger Scott M,"CEO, COB, 10%",G - Gift,0.0,-100000,3359300,-3%,-0.0,-2.0,-4.0,3.0,-4.0,FWRD
+994,M,2003-07-31 16:20:37,2003-07-29,FWRD,Niswonger Scott M,"CEO, COB, 10%",S - Sale,29.85,-41000,3359300,-1%,-1223904.0,-2.0,-4.0,3.0,-4.0,FWRD
+995,,2003-07-31 16:19:14,2003-07-29,FWRD,Drum Craig A,"SVP, Sales",S - Sale,29.91,-93,311,-23%,-2782.0,-2.0,-4.0,3.0,-4.0,FWRD

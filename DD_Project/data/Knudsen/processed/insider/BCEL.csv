@@ -1,62 +1,99 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
 0,,2022-03-08 16:54:21,2022-03-04,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,5.0,-30000,336075,-8%,-150000.0,,,,,BCEL
 1,,2021-09-28 17:37:38,2021-09-27,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,6.58,-30000,366075,-8%,-197541.0,,,,,BCEL
-2,D,2021-03-19 19:52:33,2021-03-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,16.73,-5000,0,-100%,-83650.0,,,,,BCEL
-3,,2021-03-16 17:45:59,2021-03-15,BCEL,Robinson William Hewitt,Dir,S - Sale,16.89,-5000,368948,-1%,-84450.0,,,,,BCEL
-4,,2021-03-15 19:09:45,2021-03-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,18.31,-10000,353875,-3%,-183130.0,,,,,BCEL
-5,D,2021-02-19 19:56:27,2021-02-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,18.95,-5000,0,-100%,-94752.0,,,,,BCEL
-6,,2021-02-18 21:55:05,2021-02-16,BCEL,Robinson William Hewitt,Dir,S - Sale,19.07,-5000,373948,-1%,-95331.0,,,,,BCEL
-7,,2021-02-16 17:31:59,2021-02-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,18.93,-10000,363875,-3%,-189272.0,,,,,BCEL
-8,D,2021-01-21 19:04:00,2021-01-19,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.21,-5000,0,-100%,-76045.0,,,,,BCEL
-9,M,2021-01-15 20:59:05,2021-01-13,BCEL,Robinson William Hewitt,Dir,S - Sale,15.05,-5000,378948,-1%,-75249.0,,,,,BCEL
-10,,2021-01-13 17:14:31,2021-01-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.02,-10000,373875,-3%,-150192.0,,,,,BCEL
-11,D,2020-12-21 18:48:16,2020-12-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,16.61,-5000,0,-100%,-83051.0,,,,,BCEL
-12,,2020-12-15 19:47:08,2020-12-14,BCEL,Robinson William Hewitt,Dir,S - Sale,16.67,-5000,383948,-1%,-83369.0,,,,,BCEL
-13,,2020-12-15 17:16:01,2020-12-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.87,-10000,383875,-3%,-158735.0,,,,,BCEL
-14,D,2020-12-01 17:06:25,2020-11-27,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.34,-3175,0,-100%,-48719.0,,,,,BCEL
-15,D,2020-11-18 17:25:37,2020-11-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.04,-1825,0,-100%,-27448.0,,,,,BCEL
-16,,2020-11-17 18:30:06,2020-11-16,BCEL,Robinson William Hewitt,Dir,S - Sale,15.0,-5000,388948,-1%,-75000.0,,,,,BCEL
-17,,2020-11-17 18:28:54,2020-11-16,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.12,-8847,393875,-2%,-133784.0,,,,,BCEL
-18,,2020-11-13 18:16:05,2020-11-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.1,-1153,3655,-24%,-17407.0,,,,,BCEL
-19,D,2020-11-12 17:08:27,2020-11-10,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.1,-4500,0,-100%,-67963.0,,,,,BCEL
-20,D,2020-10-21 17:32:40,2020-10-19,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.12,-500,0,-100%,-7562.0,,,,,BCEL
-21,,2020-10-16 16:01:33,2020-10-13,BCEL,Robinson William Hewitt,Dir,S - Sale,15.71,-5000,393948,-1%,-78531.0,,,,,BCEL
-22,,2020-10-13 19:29:59,2020-10-12,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.0,-10000,403875,-2%,-150000.0,,,,,BCEL
-23,,2020-10-08 17:16:37,2020-10-06,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.05,-1218,413875,0%,-18334.0,,,,,BCEL
-24,,2020-09-22 18:18:49,2020-09-18,BCEL,Robinson William Hewitt,Dir,S - Sale,15.04,-5000,398948,-1%,-75188.0,,,,,BCEL
-25,,2020-09-22 18:17:45,2020-09-18,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.11,-8782,415093,-2%,-132664.0,,,,,BCEL
-26,,2020-08-17 20:26:28,2020-08-14,BCEL,Robinson William Hewitt,Dir,S - Sale,15.0,-5000,403948,-1%,-75000.0,,,,,BCEL
-27,,2020-08-17 20:22:32,2020-08-14,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.0,-10000,423875,-2%,-150000.0,,,,,BCEL
-28,,2020-07-15 21:46:13,2020-07-13,BCEL,Robinson William Hewitt,Dir,S - Sale,20.23,-5000,408948,-1%,-101139.0,,,,,BCEL
-29,,2020-07-15 21:45:24,2020-07-13,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,20.2,-10000,433875,-2%,-202018.0,,,,,BCEL
-30,D,2020-07-06 18:02:43,2020-07-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,21.83,-10272,0,-100%,-224224.0,,,,,BCEL
-31,,2020-06-29 19:39:05,2020-06-25,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,25.01,-600,443875,0%,-15008.0,,,,,BCEL
-32,,2020-06-29 19:38:04,2020-06-25,BCEL,Robinson William Hewitt,Dir,S - Sale,25.02,-600,413948,0%,-15010.0,,,,,BCEL
-33,M,2020-06-23 17:42:46,2020-06-19,BCEL,Robinson William Hewitt,Dir,S - Sale,20.03,-10313,414548,-2%,-206533.0,,,,,BCEL
-34,M,2020-06-23 17:40:21,2020-06-19,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,20.03,-5100,444475,-1%,-102148.0,,,,,BCEL
-35,,2020-06-17 17:35:08,2020-06-15,BCEL,Robinson William Hewitt,Dir,S - Sale,18.55,-5000,424861,-1%,-92728.0,,,,,BCEL
-36,,2020-06-12 17:49:53,2020-06-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,16.47,-10000,449575,-2%,-164686.0,,,,,BCEL
-37,D,2020-06-03 17:03:26,2020-06-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,18.38,-15000,0,-100%,-275760.0,,,,,BCEL
-38,,2020-05-29 18:50:17,2020-05-28,BCEL,Robinson William Hewitt,Dir,S - Sale,20.01,-600,429861,0%,-12003.0,,,,,BCEL
-39,M,2020-05-29 18:48:33,2020-05-27,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,20.0,-800,459575,0%,-16004.0,,,,,BCEL
-40,,2020-05-27 17:58:10,2020-05-26,BCEL,Robinson William Hewitt,Dir,S - Sale,20.0,-387,430461,0%,-7740.0,,,,,BCEL
-41,,2020-05-27 17:57:02,2020-05-26,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,20.0,-200,460375,0%,-4000.0,,,,,BCEL
-42,M,2020-05-19 17:41:40,2020-05-15,BCEL,Robinson William Hewitt,Dir,S - Sale,20.0,-3700,430848,-1%,-74003.0,,,,,BCEL
-43,M,2020-05-19 17:39:09,2020-05-15,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,20.0,-3900,460575,-1%,-78004.0,,,,,BCEL
-44,,2020-05-15 17:45:26,2020-05-13,BCEL,Robinson William Hewitt,Dir,S - Sale,16.82,-5000,434548,-1%,-84105.0,,,,,BCEL
-45,,2020-05-13 19:35:36,2020-05-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,18.0,-10000,464475,-2%,-180025.0,,,,,BCEL
-46,D,2020-05-08 17:28:26,2020-05-07,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,18.0,-5000,0,-100%,-90000.0,,,,,BCEL
-47,D,2020-05-04 17:57:47,2020-05-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.03,-10000,0,-100%,-150276.0,,,,,BCEL
-48,,2020-04-20 17:32:06,2020-04-16,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,16.28,-10000,474475,-2%,-162761.0,,,,,BCEL
-49,,2020-04-20 17:30:18,2020-04-16,BCEL,Robinson William Hewitt,Dir,S - Sale,16.25,-5000,439548,-1%,-81271.0,,,,,BCEL
-50,D,2020-04-16 18:28:13,2020-04-14,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,18.0,-5000,0,-100%,-90000.0,,,,,BCEL
-51,D,2020-04-10 17:17:15,2020-04-08,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.01,-8000,0,-100%,-120101.0,,,,,BCEL
-52,D,2020-04-02 18:18:28,2020-04-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.21,-2000,0,-100%,-30422.0,,,,,BCEL
-53,,2020-03-19 18:52:44,2020-03-17,BCEL,Orwin John A,"Pres, CEO",P - Purchase,12.79,6000,6000,New,76740.0,,,,,BCEL
-54,D,2020-03-04 18:18:43,2020-03-02,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,24.07,-15000,0,-100%,-360984.0,,,,,BCEL
-55,D,2020-02-26 18:24:45,2020-02-25,BCEL,Cavet Guy,Chief Technical Officer,S - Sale+OE,20.64,-7100,87758,-7%,-146538.0,,,,,BCEL
-56,D,2020-02-04 18:00:04,2020-02-03,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,19.65,-15000,0,-100%,-294768.0,,,,,BCEL
-57,,2020-01-29 16:05:07,2020-01-27,BCEL,Cavet Guy,Chief Technical Officer,S - Sale,20.0,-10000,92758,-10%,-200000.0,,,,,BCEL
-58,D,2020-01-27 16:10:20,2020-01-24,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,18.47,-5000,0,-100%,-92346.0,,,,,BCEL
-59,D,2020-01-22 16:16:53,2020-01-17,BCEL,Cavet Guy,Chief Technical Officer,S - Sale+OE,14.9,-6919,102758,-6%,-103065.0,,,,,BCEL
-60,D,2020-01-22 16:15:08,2020-01-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,14.9,-10000,0,-100%,-148992.0,,,,,BCEL
+2,,2021-09-28 17:37:38,2021-09-20,BCEL,Serafini Tito,Chief Strategy Officer,G - Gift,0.0,-100000,366075,+38%,-0.0,,,,,BCEL
+3,,2021-09-13 21:46:26,2021-09-09,BCEL,Orwin John A,"Pres, CEO",A - Grant,0.0,115400,121400,>999%,0.0,,,,,BCEL
+4,,2021-09-13 21:45:13,2021-09-09,BCEL,Cross Herb,CFO,A - Grant,0.0,42200,42200,New,0.0,,,,,BCEL
+5,,2021-09-13 21:44:08,2021-09-09,BCEL,Courtney Phillips,"GC, Secretary",A - Grant,0.0,35500,35500,New,0.0,,,,,BCEL
+6,,2021-09-13 21:42:29,2021-09-09,BCEL,Serafini Tito,Chief Strategy Officer,A - Grant,0.0,42200,396075,+12%,0.0,,,,,BCEL
+7,D,2021-03-19 19:52:33,2021-03-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,16.73,-5000,0,-100%,-83650.0,,,,,BCEL
+8,D,2021-03-19 19:52:33,2021-03-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.81,5000,0,-100%,24050.0,,,,,BCEL
+9,,2021-03-16 17:45:59,2021-03-15,BCEL,Robinson William Hewitt,Dir,S - Sale,16.89,-5000,368948,-1%,-84450.0,,,,,BCEL
+10,,2021-03-15 19:09:45,2021-03-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,18.31,-10000,353875,-3%,-183130.0,,,,,BCEL
+11,D,2021-02-19 19:56:27,2021-02-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,18.95,-5000,0,-100%,-94752.0,,,,,BCEL
+12,D,2021-02-19 19:56:27,2021-02-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,5.16,5000,0,-100%,25800.0,,,,,BCEL
+13,,2021-02-18 21:55:05,2021-02-16,BCEL,Robinson William Hewitt,Dir,S - Sale,19.07,-5000,373948,-1%,-95331.0,,,,,BCEL
+14,,2021-02-16 17:31:59,2021-02-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,18.93,-10000,363875,-3%,-189272.0,,,,,BCEL
+15,D,2021-01-21 19:04:00,2021-01-19,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.21,-5000,0,-100%,-76045.0,,,,,BCEL
+16,D,2021-01-21 19:04:00,2021-01-19,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,5.16,5000,0,-100%,25800.0,,,,,BCEL
+17,AD,2021-01-21 18:42:54,2020-12-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,5.16,5000,5000,New,25800.0,,,,,BCEL
+18,M,2021-01-15 20:59:05,2021-01-13,BCEL,Robinson William Hewitt,Dir,S - Sale,15.05,-5000,378948,-1%,-75249.0,,,,,BCEL
+19,,2021-01-13 17:14:31,2021-01-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.02,-10000,373875,-3%,-150192.0,,,,,BCEL
+20,D,2020-12-21 18:48:16,2020-12-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,16.61,-5000,0,-100%,-83051.0,,,,,BCEL
+21,D,2020-12-21 18:48:16,2020-12-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,5000,0,-100%,22800.0,,,,,BCEL
+22,,2020-12-15 19:47:08,2020-12-14,BCEL,Robinson William Hewitt,Dir,S - Sale,16.67,-5000,383948,-1%,-83369.0,,,,,BCEL
+23,,2020-12-15 17:16:01,2020-12-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.87,-10000,383875,-3%,-158735.0,,,,,BCEL
+24,D,2020-12-01 17:06:25,2020-11-27,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.34,-3175,0,-100%,-48719.0,,,,,BCEL
+25,D,2020-12-01 17:06:25,2020-11-27,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,3175,0,-100%,14478.0,,,,,BCEL
+26,D,2020-11-18 17:25:37,2020-11-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.04,-1825,0,-100%,-27448.0,,,,,BCEL
+27,D,2020-11-18 17:25:37,2020-11-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,1825,0,-100%,8322.0,,,,,BCEL
+28,,2020-11-17 18:30:06,2020-11-16,BCEL,Robinson William Hewitt,Dir,S - Sale,15.0,-5000,388948,-1%,-75000.0,,,,,BCEL
+29,,2020-11-17 18:28:54,2020-11-16,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.12,-8847,393875,-2%,-133784.0,,,,,BCEL
+30,,2020-11-13 18:16:05,2020-11-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.1,-1153,3655,-24%,-17407.0,,,,,BCEL
+31,,2020-11-13 18:16:05,2020-11-12,BCEL,Serafini Tito,Chief Strategy Officer,G - Gift,0.0,-7310,3655,-200%,-0.0,,,,,BCEL
+32,D,2020-11-12 17:08:27,2020-11-10,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.1,-4500,0,-100%,-67963.0,,,,,BCEL
+33,D,2020-11-12 17:08:27,2020-11-10,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,4500,0,-100%,20520.0,,,,,BCEL
+34,D,2020-10-21 17:32:40,2020-10-19,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,500,0,-100%,2280.0,,,,,BCEL
+35,D,2020-10-21 17:32:40,2020-10-19,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.12,-500,0,-100%,-7562.0,,,,,BCEL
+36,,2020-10-16 16:01:33,2020-10-13,BCEL,Robinson William Hewitt,Dir,S - Sale,15.71,-5000,393948,-1%,-78531.0,,,,,BCEL
+37,,2020-10-13 19:29:59,2020-10-12,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.0,-10000,403875,-2%,-150000.0,,,,,BCEL
+38,,2020-10-08 17:16:37,2020-10-06,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.05,-1218,413875,0%,-18334.0,,,,,BCEL
+39,,2020-09-22 18:18:49,2020-09-18,BCEL,Robinson William Hewitt,Dir,S - Sale,15.04,-5000,398948,-1%,-75188.0,,,,,BCEL
+40,,2020-09-22 18:17:45,2020-09-18,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.11,-8782,415093,-2%,-132664.0,,,,,BCEL
+41,,2020-08-17 20:26:28,2020-08-14,BCEL,Robinson William Hewitt,Dir,S - Sale,15.0,-5000,403948,-1%,-75000.0,,,,,BCEL
+42,,2020-08-17 20:22:32,2020-08-14,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,15.0,-10000,423875,-2%,-150000.0,,,,,BCEL
+43,,2020-07-15 21:46:13,2020-07-13,BCEL,Robinson William Hewitt,Dir,S - Sale,20.23,-5000,408948,-1%,-101139.0,,,,,BCEL
+44,,2020-07-15 21:45:24,2020-07-13,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,20.2,-10000,433875,-2%,-202018.0,,,,,BCEL
+45,D,2020-07-06 18:02:43,2020-07-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,21.83,-10272,0,-100%,-224224.0,,,,,BCEL
+46,D,2020-07-06 18:02:43,2020-07-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,10272,0,-100%,46840.0,,,,,BCEL
+47,,2020-06-29 19:39:05,2020-06-25,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,25.01,-600,443875,0%,-15008.0,,,,,BCEL
+48,,2020-06-29 19:38:04,2020-06-25,BCEL,Robinson William Hewitt,Dir,S - Sale,25.02,-600,413948,0%,-15010.0,,,,,BCEL
+49,M,2020-06-23 17:42:46,2020-06-19,BCEL,Robinson William Hewitt,Dir,S - Sale,20.03,-10313,414548,-2%,-206533.0,,,,,BCEL
+50,M,2020-06-23 17:40:21,2020-06-19,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,20.03,-5100,444475,-1%,-102148.0,,,,,BCEL
+51,,2020-06-17 17:35:08,2020-06-15,BCEL,Robinson William Hewitt,Dir,S - Sale,18.55,-5000,424861,-1%,-92728.0,,,,,BCEL
+52,,2020-06-12 17:49:53,2020-06-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,16.47,-10000,449575,-2%,-164686.0,,,,,BCEL
+53,D,2020-06-03 17:03:26,2020-06-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,18.38,-15000,0,-100%,-275760.0,,,,,BCEL
+54,D,2020-06-03 17:03:26,2020-06-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,15000,0,-100%,68400.0,,,,,BCEL
+55,,2020-05-29 18:50:17,2020-05-28,BCEL,Robinson William Hewitt,Dir,S - Sale,20.01,-600,429861,0%,-12003.0,,,,,BCEL
+56,M,2020-05-29 18:48:33,2020-05-27,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,20.0,-800,459575,0%,-16004.0,,,,,BCEL
+57,,2020-05-27 17:58:10,2020-05-26,BCEL,Robinson William Hewitt,Dir,S - Sale,20.0,-387,430461,0%,-7740.0,,,,,BCEL
+58,,2020-05-27 17:57:02,2020-05-26,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,20.0,-200,460375,0%,-4000.0,,,,,BCEL
+59,M,2020-05-19 17:41:40,2020-05-15,BCEL,Robinson William Hewitt,Dir,S - Sale,20.0,-3700,430848,-1%,-74003.0,,,,,BCEL
+60,M,2020-05-19 17:39:09,2020-05-15,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,20.0,-3900,460575,-1%,-78004.0,,,,,BCEL
+61,,2020-05-15 17:45:26,2020-05-13,BCEL,Robinson William Hewitt,Dir,S - Sale,16.82,-5000,434548,-1%,-84105.0,,,,,BCEL
+62,,2020-05-13 19:35:36,2020-05-11,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,18.0,-10000,464475,-2%,-180025.0,,,,,BCEL
+63,D,2020-05-08 17:28:26,2020-05-07,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,18.0,-5000,0,-100%,-90000.0,,,,,BCEL
+64,D,2020-05-08 17:28:26,2020-05-07,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,5000,0,-100%,22800.0,,,,,BCEL
+65,D,2020-05-04 17:57:47,2020-05-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.03,-10000,0,-100%,-150276.0,,,,,BCEL
+66,D,2020-05-04 17:57:47,2020-05-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,10000,0,-100%,45600.0,,,,,BCEL
+67,,2020-04-20 17:32:06,2020-04-16,BCEL,Serafini Tito,Chief Strategy Officer,S - Sale,16.28,-10000,474475,-2%,-162761.0,,,,,BCEL
+68,,2020-04-20 17:30:18,2020-04-16,BCEL,Robinson William Hewitt,Dir,S - Sale,16.25,-5000,439548,-1%,-81271.0,,,,,BCEL
+69,D,2020-04-16 18:28:13,2020-04-14,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,18.0,-5000,0,-100%,-90000.0,,,,,BCEL
+70,D,2020-04-16 18:28:13,2020-04-14,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,5000,0,-100%,22800.0,,,,,BCEL
+71,D,2020-04-10 17:17:15,2020-04-08,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,8000,0,-100%,36480.0,,,,,BCEL
+72,D,2020-04-10 17:17:15,2020-04-08,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.01,-8000,0,-100%,-120101.0,,,,,BCEL
+73,D,2020-04-02 18:18:28,2020-04-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,15.21,-2000,0,-100%,-30422.0,,,,,BCEL
+74,D,2020-04-02 18:18:28,2020-04-01,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,2000,0,-100%,9120.0,,,,,BCEL
+75,,2020-03-19 18:52:44,2020-03-17,BCEL,Orwin John A,"Pres, CEO",P - Purchase,12.79,6000,6000,New,76740.0,,,,,BCEL
+76,D,2020-03-04 18:18:43,2020-03-02,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,24.07,-15000,0,-100%,-360984.0,,,,,BCEL
+77,D,2020-03-04 18:18:43,2020-03-02,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,15000,0,-100%,68400.0,,,,,BCEL
+78,D,2020-02-26 18:24:45,2020-02-25,BCEL,Cavet Guy,Chief Technical Officer,S - Sale+OE,20.64,-7100,87758,-7%,-146538.0,,,,,BCEL
+79,D,2020-02-26 18:24:45,2020-02-25,BCEL,Cavet Guy,Chief Technical Officer,M - OptEx,4.56,2100,87758,+2%,9576.0,,,,,BCEL
+80,D,2020-02-04 18:00:04,2020-02-03,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,19.65,-15000,0,-100%,-294768.0,,,,,BCEL
+81,D,2020-02-04 18:00:04,2020-02-03,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,15000,0,-100%,68400.0,,,,,BCEL
+82,,2020-01-29 16:05:07,2020-01-27,BCEL,Cavet Guy,Chief Technical Officer,S - Sale,20.0,-10000,92758,-10%,-200000.0,,,,,BCEL
+83,D,2020-01-27 16:10:20,2020-01-24,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,18.47,-5000,0,-100%,-92346.0,,,,,BCEL
+84,D,2020-01-27 16:10:20,2020-01-24,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,5000,0,-100%,22800.0,,,,,BCEL
+85,D,2020-01-22 16:16:53,2020-01-17,BCEL,Cavet Guy,Chief Technical Officer,S - Sale+OE,14.9,-6919,102758,-6%,-103065.0,,,,,BCEL
+86,D,2020-01-22 16:16:53,2020-01-17,BCEL,Cavet Guy,Chief Technical Officer,M - OptEx,5.16,1919,102758,+2%,9902.0,,,,,BCEL
+87,D,2020-01-22 16:15:08,2020-01-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,S - Sale+OE,14.9,-10000,0,-100%,-148992.0,,,,,BCEL
+88,D,2020-01-22 16:15:08,2020-01-17,BCEL,Greenberg Norman Michael,Chief Scientific Officer,M - OptEx,4.56,10000,0,-100%,45600.0,,,,,BCEL
+89,D,2019-06-26 16:03:30,2019-06-24,BCEL,Baker Bros. Advisors LP,10%,C - Converted deriv,0.0,3532760,3223030,-52%,0.0,,,,,BCEL
+90,D,2019-06-24 18:39:56,2019-06-24,BCEL,Hadley Harbor Master Investors (Cayman) II L.P.,10%,C - Converted deriv,0.0,1934255,1934255,-50%,0.0,,,,,BCEL
+91,D,2019-06-24 18:26:34,2019-06-24,BCEL,"Redmile Group, LLC",10%,C - Converted deriv,0.0,715306,715306,-50%,0.0,,,,,BCEL
+92,D,2019-06-24 17:23:28,2019-06-24,BCEL,Bill & Melinda Gates Foundation,10%,C - Converted deriv,0.0,1396644,1396644,-50%,0.0,,,,,BCEL
+93,D,2019-06-24 16:52:26,2019-06-24,BCEL,Robinson William Hewitt,Dir,C - Converted deriv,0.0,9990,9990,-50%,0.0,,,,,BCEL
+94,D,2019-06-24 16:51:31,2019-06-24,BCEL,Steinman Lawrence,Dir,C - Converted deriv,0.0,8405,258405,-3%,0.0,,,,,BCEL
+95,D,2019-06-24 16:46:18,2019-06-24,BCEL,Serafini Tito,Chief Strategy Officer,C - Converted deriv,0.0,12134,484475,-2%,0.0,,,,,BCEL
+96,D,2019-06-24 16:45:03,2019-06-24,BCEL,Berger Franklin M,Dir,C - Converted deriv,0.0,75315,97808,-44%,0.0,,,,,BCEL
+97,D,2019-06-24 16:44:07,2019-06-24,BCEL,Atwood Brian G,Dir,C - Converted deriv,0.0,8791,49654,-15%,0.0,,,,,BCEL

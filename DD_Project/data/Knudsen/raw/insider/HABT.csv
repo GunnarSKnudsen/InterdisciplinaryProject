@@ -1,9 +1,129 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2019-03-20 16:26:39,2019-03-19,HABT,Zecher IRA L.,Dir,S - Sale,$10.86,-1000,9049,-10%,"-$10,860",,,,,HABT
-1,,2019-03-01 13:23:32,2019-03-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$13.11,-1500,21474,-7%,"-$19,667",,,,,HABT
-2,,2018-09-24 14:00:09,2018-09-21,HABT,Serritella Anthony,COO,S - Sale,$16.51,-1300,36353,-3%,"-$21,458",,,,,HABT
-3,,2018-09-04 17:34:17,2018-09-04,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$16.45,-1500,21474,-7%,"-$24,675",,,,,HABT
-4,,2018-08-03 12:05:52,2018-08-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$12.60,-1500,21474,-7%,"-$18,900",,,,,HABT
-5,,2018-07-02 14:41:15,2018-07-02,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$9.95,-1500,21474,-7%,"-$14,925",,,,,HABT
-6,,2018-06-01 13:32:31,2018-06-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$8.87,-1500,21474,-7%,"-$13,298",,,,,HABT
-7,,2018-05-03 14:09:46,2018-05-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$10.00,-1500,21474,-7%,"-$15,000",,,,,HABT
+0,D,2020-03-18 17:52:21,2020-03-18,HABT,Zecher IRA L.,Dir,D - Sale to issuer,$0.00,-9049,0,-100%,-$0,,,,,HABT
+1,D,2020-03-18 17:52:06,2020-03-18,HABT,Branigan Douglas R.,Chief Development Officer,D - Sale to issuer,$0.00,-9700,0,-100%,-$0,,,,,HABT
+2,,2020-03-18 17:50:52,2020-03-18,HABT,Timpone Karin Mullane,Dir,D - Sale to issuer,$0.00,-3417,0,-100%,-$0,,,,,HABT
+3,D,2020-03-18 17:50:33,2020-03-18,HABT,Alter Iwona,Chief Brand Officer,D - Sale to issuer,$0.00,-37925,0,-100%,-$0,,,,,HABT
+4,D,2020-03-18 17:49:52,2020-03-18,HABT,Whitwell Peter,Chief Quality Officer,D - Sale to issuer,$0.00,-63518,0,-100%,-$0,,,,,HABT
+5,D,2020-03-18 17:49:08,2020-03-18,HABT,Fils IRA,CFO,D - Sale to issuer,$0.00,-329944,0,-100%,-$0,,,,,HABT
+6,D,2020-03-18 17:47:42,2020-03-18,HABT,Kadow Joseph John,Dir,D - Sale to issuer,$0.00,-14049,0,-100%,-$0,,,,,HABT
+7,D,2020-03-18 17:46:24,2020-03-18,HABT,Allen A William III,Dir,D - Sale to issuer,$0.00,-26716,0,-100%,-$0,,,,,HABT
+8,D,2020-03-18 17:45:53,2020-03-18,HABT,Phillips John McQuitty,See Remarks,D - Sale to issuer,$0.00,-15204,0,-100%,-$0,,,,,HABT
+9,D,2020-03-18 17:45:31,2020-03-18,HABT,"Karpreilly Gp, LLC",10%,D - Sale to issuer,$0.00,-2784724,0,-100%,-$0,,,,,HABT
+10,D,2020-03-18 17:43:59,2020-03-18,HABT,Karp Allan W,"Dir, 10%",D - Sale to issuer,$0.00,-2784724,0,-100%,-$0,,,,,HABT
+11,D,2020-03-18 17:43:38,2020-03-18,HABT,Serritella Anthony,COO,D - Sale to issuer,$0.00,-320698,0,-100%,-$0,,,,,HABT
+12,D,2020-03-18 17:42:12,2020-03-18,HABT,Reilly Christopher K.,"Dir, 10%",D - Sale to issuer,$0.00,-2784724,0,-100%,-$0,,,,,HABT
+13,D,2020-03-18 17:42:03,2020-03-18,HABT,Bendel Russell William,CEO,D - Sale to issuer,$0.00,-812453,0,-100%,-$0,,,,,HABT
+14,,2019-12-10 19:45:09,2019-12-10,HABT,Alter Iwona,Chief Brand Officer,F - Tax,$10.99,-2075,37925,-5%,"-$22,794",,,,,HABT
+15,D,2019-04-24 19:38:22,2019-04-23,HABT,Alter Iwona,Chief Brand Officer,A - Grant,$0.00,10000,40000,+33%,+$0,,,,,HABT
+16,D,2019-04-24 19:36:55,2019-04-23,HABT,Phillips John McQuitty,CGBPO - See Remarks,A - Grant,$0.00,5000,15204,+49%,+$0,,,,,HABT
+17,D,2019-04-24 19:00:50,2019-04-23,HABT,Branigan Douglas R.,Chief Development Officer,A - Grant,$0.00,5000,9700,+106%,+$0,,,,,HABT
+18,D,2019-04-24 18:58:51,2019-04-23,HABT,Whitwell Peter,Chief Quality Officer,A - Grant,$0.00,5000,25087,+25%,+$0,,,,,HABT
+19,D,2019-04-24 18:57:20,2019-04-23,HABT,Serritella Anthony,COO,A - Grant,$0.00,10000,44122,+29%,+$0,,,,,HABT
+20,D,2019-04-24 18:56:00,2019-04-23,HABT,Fils IRA,CFO,A - Grant,$0.00,15000,66391,+29%,+$0,,,,,HABT
+21,D,2019-04-24 18:54:41,2019-04-23,HABT,Bendel Russell William,CEO,A - Grant,$0.00,20000,93495,+27%,+$0,,,,,HABT
+22,,2019-04-23 12:33:02,2019-04-22,HABT,Whitwell Peter,Chief Quality Officer,F - Tax,$10.16,-116,20087,-1%,"-$1,179",,,,,HABT
+23,,2019-04-23 12:31:17,2019-04-22,HABT,Serritella Anthony,COO,F - Tax,$10.16,-263,34122,-1%,"-$2,672",,,,,HABT
+24,,2019-04-23 12:29:55,2019-04-22,HABT,Fils IRA,CFO,F - Tax,$10.16,-478,51391,-1%,"-$4,856",,,,,HABT
+25,,2019-04-23 12:27:17,2019-04-22,HABT,Bendel Russell William,CEO,F - Tax,$10.16,-670,73495,-1%,"-$6,807",,,,,HABT
+26,,2019-04-17 17:30:33,2019-04-16,HABT,Branigan Douglas R.,Chief Development Officer,F - Tax,$10.45,-300,4700,-6%,"-$3,135",,,,,HABT
+27,,2019-04-17 17:29:32,2019-04-16,HABT,Whitwell Peter,Chief Quality Officer,F - Tax,$10.45,-300,20203,-1%,"-$3,135",,,,,HABT
+28,,2019-04-17 17:28:51,2019-04-16,HABT,Serritella Anthony,COO,F - Tax,$10.45,-619,34385,-2%,"-$6,469",,,,,HABT
+29,,2019-04-17 17:27:42,2019-04-16,HABT,Fils IRA,CFO,F - Tax,$10.45,-928,51869,-2%,"-$9,698",,,,,HABT
+30,,2019-04-17 17:26:57,2019-04-16,HABT,Bendel Russell William,CEO,F - Tax,$10.45,-1238,74165,-2%,"-$12,937",,,,,HABT
+31,,2019-03-22 21:02:39,2019-03-22,HABT,Bendel Russell William,CEO,F - Tax,$10.72,-1703,75403,-2%,"-$18,256",,,,,HABT
+32,,2019-03-22 20:39:58,2019-03-22,HABT,Serritella Anthony,COO,F - Tax,$10.72,-791,35004,-2%,"-$8,480",,,,,HABT
+33,,2019-03-22 20:39:04,2019-03-21,HABT,Serritella Anthony,COO,F - Tax,$10.76,-558,35795,-2%,"-$6,004",,,,,HABT
+34,,2019-03-22 20:33:43,2019-03-21,HABT,Bendel Russell William,CEO,F - Tax,$10.76,-1237,77106,-2%,"-$13,310",,,,,HABT
+35,,2019-03-22 20:31:41,2019-03-22,HABT,Whitwell Peter,Chief Quality Officer,F - Tax,$10.72,-565,20503,-3%,"-$6,057",,,,,HABT
+36,,2019-03-22 20:30:57,2019-03-21,HABT,Whitwell Peter,Chief Quality Officer,F - Tax,$10.76,-406,21068,-2%,"-$4,369",,,,,HABT
+37,,2019-03-22 20:27:59,2019-03-22,HABT,Fils IRA,CFO,F - Tax,$10.72,-1148,52797,-2%,"-$12,307",,,,,HABT
+38,,2019-03-22 20:26:56,2019-03-21,HABT,Fils IRA,CFO,F - Tax,$10.76,-834,53945,-2%,"-$8,974",,,,,HABT
+39,,2019-03-20 16:26:39,2019-03-19,HABT,Zecher IRA L.,Dir,S - Sale,$10.86,-1000,9049,-10%,"-$10,860",,,,,HABT
+40,,2019-03-01 13:23:32,2019-03-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$13.11,-1500,21474,-7%,"-$19,667",,,,,HABT
+41,,2019-02-22 17:29:16,2019-02-21,HABT,Kadow Joseph John,Dir,A - Grant,$0.00,4367,14049,+45%,+$0,,,,,HABT
+42,,2019-02-22 17:28:28,2019-02-21,HABT,Zecher IRA L.,Dir,A - Grant,$0.00,4367,10049,+77%,+$0,,,,,HABT
+43,,2019-02-22 17:27:24,2019-02-21,HABT,Allen A William III,Dir,A - Grant,$0.00,4367,26716,+20%,+$0,,,,,HABT
+44,D,2018-12-12 16:36:35,2018-12-10,HABT,Alter Iwona,Chief Brand Officer,A - Grant,$0.00,30000,30000,New,+$0,,,,,HABT
+45,,2018-09-24 14:00:09,2018-09-21,HABT,Serritella Anthony,COO,S - Sale,$16.51,-1300,36353,-3%,"-$21,458",,,,,HABT
+46,,2018-09-04 17:34:17,2018-09-04,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$16.45,-1500,21474,-7%,"-$24,675",,,,,HABT
+47,,2018-08-03 12:05:52,2018-08-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$12.60,-1500,21474,-7%,"-$18,900",,,,,HABT
+48,,2018-07-02 14:41:15,2018-07-02,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$9.95,-1500,21474,-7%,"-$14,925",,,,,HABT
+49,,2018-06-01 13:32:31,2018-06-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$8.87,-1500,21474,-7%,"-$13,298",,,,,HABT
+50,,2018-05-03 14:09:46,2018-05-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$10.00,-1500,21474,-7%,"-$15,000",,,,,HABT
+51,D,2018-04-17 14:45:01,2018-04-16,HABT,Branigan Douglas R.,Chief Development Officer,A - Grant,$0.00,5000,5000,New,+$0,,,,,HABT
+52,D,2018-04-17 14:43:38,2018-04-16,HABT,Whitwell Peter,Chief Quality Officer,A - Grant,$0.00,5000,21474,+30%,+$0,,,,,HABT
+53,D,2018-04-17 14:42:39,2018-04-16,HABT,Serritella Anthony,COO,A - Grant,$0.00,10000,36353,+38%,+$0,,,,,HABT
+54,D,2018-04-17 14:41:35,2018-04-16,HABT,Fils IRA,CFO,A - Grant,$0.00,15000,54779,+38%,+$0,,,,,HABT
+55,D,2018-04-17 14:40:27,2018-04-16,HABT,Bendel Russell William,CEO,A - Grant,$0.00,20000,78343,+34%,+$0,,,,,HABT
+56,,2018-04-05 17:57:17,2018-04-04,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$8.85,-1500,16474,-8%,"-$13,275",,,,,HABT
+57,,2018-02-26 16:23:21,2018-02-22,HABT,Kadow Joseph John,Dir,A - Grant,$0.00,5682,9682,+142%,+$0,,,,,HABT
+58,,2018-02-26 16:20:55,2018-02-22,HABT,Zecher IRA L.,Dir,A - Grant,$0.00,5682,5682,New,+$0,,,,,HABT
+59,,2018-02-26 16:19:10,2018-02-22,HABT,Allen A William III,Dir,A - Grant,$0.00,5682,22349,+34%,+$0,,,,,HABT
+60,,2017-11-09 16:57:10,2017-11-09,HABT,Kadow Joseph John,Dir,P - Purchase,$9.00,1000,4000,+33%,"+$9,000",,,,,HABT
+61,,2017-11-09 16:05:53,2017-11-08,HABT,Allen A William III,Dir,P - Purchase,$9.01,10000,16667,+150%,"+$90,052",,,,,HABT
+62,,2017-11-03 17:03:14,2017-11-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$12.27,-2000,16474,-11%,"-$24,530",,,,,HABT
+63,,2017-08-07 17:46:38,2017-08-07,HABT,Kadow Joseph John,Dir,P - Purchase,$13.45,1000,3000,+50%,"+$13,448",,,,,HABT
+64,,2017-05-01 16:39:35,2017-05-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$19.03,-1500,16474,-8%,"-$28,538",1.0,1.0,,,HABT
+65,,2017-04-03 15:14:08,2017-04-03,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$17.50,-1500,16474,-8%,"-$26,250",-1.0,-1.0,9.0,,HABT
+66,D,2017-03-24 15:16:56,2017-03-22,HABT,Bendel Russell William,CEO,A - Grant,$0.00,27520,58343,+89%,+$0,0.0,7.0,13.0,,HABT
+67,D,2017-03-24 15:13:19,2017-03-22,HABT,Fils IRA,CFO,A - Grant,$0.00,18560,39779,+87%,+$0,0.0,7.0,13.0,,HABT
+68,D,2017-03-24 15:10:16,2017-03-22,HABT,Serritella Anthony,COO,A - Grant,$0.00,12800,26353,+94%,+$0,0.0,7.0,13.0,,HABT
+69,D,2017-03-24 15:07:05,2017-03-22,HABT,Hood Matthew D,CMO,A - Grant,$0.00,8960,18314,+96%,+$0,0.0,7.0,13.0,,HABT
+70,D,2017-03-24 14:58:49,2017-03-22,HABT,Whitwell Peter,Chief Quality Officer,A - Grant,$0.00,8960,16474,+119%,+$0,0.0,7.0,13.0,,HABT
+71,,2017-03-01 14:45:06,2017-03-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$13.40,-1500,387,-79%,"-$20,100",2.0,9.0,27.0,,HABT
+72,,2017-02-01 17:26:01,2017-02-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$14.71,-1500,387,-79%,"-$22,059",0.0,-2.0,-3.0,,HABT
+73,,2017-01-03 16:03:44,2017-01-03,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$17.40,-1500,387,-79%,"-$26,100",2.0,-4.0,-17.0,,HABT
+74,,2016-12-01 13:21:55,2016-12-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$16.90,-1500,387,-79%,"-$25,350",-4.0,-1.0,3.0,,HABT
+75,,2016-11-01 13:33:23,2016-11-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$14.55,-1500,387,-79%,"-$21,825",1.0,4.0,19.0,34.0,HABT
+76,,2016-10-03 16:43:21,2016-10-03,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$14.00,-1500,387,-79%,"-$21,000",-2.0,-3.0,0.0,24.0,HABT
+77,,2016-09-02 13:15:57,2016-09-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$15.23,-1500,387,-79%,"-$22,845",2.0,-4.0,-8.0,-5.0,HABT
+78,,2016-08-03 12:15:45,2016-08-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$16.20,-1500,387,-79%,"-$24,300",0.0,-6.0,-5.0,-11.0,HABT
+79,,2016-08-02 19:14:15,2016-08-01,HABT,"Habit Restaurants, Inc.",Chief Quality Officer,S - Sale,$16.20,-1500,387,-79%,"-$24,300",0.0,-4.0,-4.0,-9.0,HABT
+80,,2016-07-01 16:09:14,2016-07-01,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$16.30,-1500,387,-79%,"-$24,456",0.0,1.0,2.0,7.0,HABT
+81,,2016-06-10 16:16:01,2016-06-09,HABT,Whitwell Peter,Chief Quality Officer,S - Sale,$17.32,-1500,387,-79%,"-$25,982",-2.0,-3.0,-2.0,-1.0,HABT
+82,,2016-04-22 18:42:07,2016-04-20,HABT,Goldman Sachs Group Inc,10%,S - Sale,$17.40,-1552204,7231,-100%,"-$27,008,350",-5.0,-4.0,-1.0,-23.0,HABT
+83,D,2016-03-23 16:33:47,2016-03-21,HABT,Bendel Russell William,CEO,A - Grant,$0.00,19995,30823,+185%,+$0,1.0,6.0,-2.0,-21.0,HABT
+84,D,2016-03-23 16:31:17,2016-03-21,HABT,Friend Russell,Chief Development Officer,A - Grant,$0.00,2325,3872,+150%,+$0,1.0,6.0,-2.0,-21.0,HABT
+85,D,2016-03-23 16:30:16,2016-03-21,HABT,Whitwell Peter,Chief Quality Officer,A - Grant,$0.00,5580,7514,+289%,+$0,1.0,6.0,-2.0,-21.0,HABT
+86,D,2016-03-23 16:28:47,2016-03-21,HABT,Hood Matthew D,CMO,A - Grant,$0.00,5580,9354,+148%,+$0,1.0,6.0,-2.0,-21.0,HABT
+87,D,2016-03-23 16:27:15,2016-03-21,HABT,Fils IRA,CFO,A - Grant,$0.00,13485,21219,+174%,+$0,1.0,6.0,-2.0,-21.0,HABT
+88,D,2016-03-23 16:25:44,2016-03-21,HABT,Serritella Anthony,COO,A - Grant,$0.00,9300,13553,+219%,+$0,1.0,6.0,-2.0,-21.0,HABT
+89,,2016-03-21 18:12:57,2016-03-21,HABT,Kadow Joseph John,Dir,P - Purchase,$19.10,500,2000,+33%,"+$9,550",0.0,-4.0,-7.0,-26.0,HABT
+90,,2016-03-11 16:15:36,2016-03-10,HABT,Kadow Joseph John,Dir,P - Purchase,$19.97,500,1500,+50%,"+$9,985",2.0,-2.0,-11.0,-23.0,HABT
+91,,2016-03-08 16:43:00,2016-03-07,HABT,Kadow Joseph John,Dir,P - Purchase,$20.88,1000,1000,New,"+$20,880",3.0,3.0,-6.0,-20.0,HABT
+92,AD,2015-05-07 17:39:31,2015-04-15,HABT,Whitwell Peter,Chief Quality Officer,C - Converted deriv,$29.72,17232,68931,-20%,"$512,163",0.0,-3.0,-7.0,-34.0,HABT
+93,AD,2015-05-07 17:39:31,2015-04-15,HABT,Whitwell Peter,Chief Quality Officer,D - Sale to issuer,$0.00,-17232,68931,-20%,-$0,0.0,-3.0,-7.0,-34.0,HABT
+94,AD,2015-05-07 17:38:06,2015-04-15,HABT,Fils IRA,CFO,C - Converted deriv,$29.72,84189,263553,-24%,"$2,502,232",0.0,-3.0,-7.0,-34.0,HABT
+95,AD,2015-05-07 17:38:06,2015-04-15,HABT,Fils IRA,CFO,D - Sale to issuer,$0.00,-84189,263553,-24%,-$0,0.0,-3.0,-7.0,-34.0,HABT
+96,AD,2015-05-07 17:37:06,2015-04-15,HABT,Friend Russell,Chief Development Officer,C - Converted deriv,$29.72,25420,94051,-21%,"$755,523",0.0,-3.0,-7.0,-34.0,HABT
+97,AD,2015-05-07 17:37:06,2015-04-15,HABT,Friend Russell,Chief Development Officer,D - Sale to issuer,$0.00,-25420,94051,-21%,-$0,0.0,-3.0,-7.0,-34.0,HABT
+98,AD,2015-05-07 17:35:20,2015-04-15,HABT,Bendel Russell William,CEO,C - Converted deriv,$29.72,257385,718958,-26%,"$7,649,894",0.0,-3.0,-7.0,-34.0,HABT
+99,AD,2015-05-07 17:35:20,2015-04-15,HABT,Bendel Russell William,CEO,D - Sale to issuer,$0.00,-257385,718958,-26%,-$0,0.0,-3.0,-7.0,-34.0,HABT
+100,AD,2015-05-07 17:33:11,2015-04-15,HABT,Reilly Christopher K.,Dir,C - Converted deriv,$29.72,4246186,9945459,-30%,"$126,203,442",0.0,-3.0,-7.0,-34.0,HABT
+101,AD,2015-05-07 17:33:11,2015-04-15,HABT,Reilly Christopher K.,Dir,D - Sale to issuer,$0.00,-3281390,9945459,-25%,-$0,0.0,-3.0,-7.0,-34.0,HABT
+102,AD,2015-05-07 17:28:16,2015-04-15,HABT,"Karpreilly Gp, LLC",10%,C - Converted deriv,$29.72,4246186,9945459,-30%,"$126,203,442",0.0,-3.0,-7.0,-34.0,HABT
+103,AD,2015-05-07 17:28:16,2015-04-15,HABT,"Karpreilly Gp, LLC",10%,D - Sale to issuer,$0.00,-3281390,9945459,-25%,-$0,0.0,-3.0,-7.0,-34.0,HABT
+104,AD,2015-05-07 17:27:44,2015-04-15,HABT,Karp Allan W,Dir,C - Converted deriv,$29.72,4246186,9945459,-30%,"$126,203,442",0.0,-3.0,-7.0,-34.0,HABT
+105,AD,2015-05-07 17:27:44,2015-04-15,HABT,Karp Allan W,Dir,D - Sale to issuer,$0.00,-3281390,9945459,-25%,-$0,0.0,-3.0,-7.0,-34.0,HABT
+106,D,2015-04-22 17:10:18,2015-04-20,HABT,Serritella Anthony,COO,A - Grant,$0.00,4253,4253,New,+$0,3.0,6.0,13.0,-27.0,HABT
+107,D,2015-04-22 17:07:01,2015-04-20,HABT,Bendel Russell William,CEO,A - Grant,$0.00,10828,10828,New,+$0,3.0,6.0,13.0,-27.0,HABT
+108,D,2015-04-22 17:06:42,2015-04-20,HABT,Hood Matthew D,CMO,A - Grant,$0.00,774,774,New,+$0,3.0,6.0,13.0,-27.0,HABT
+109,D,2015-04-22 17:05:07,2015-04-20,HABT,Friend Russell,Chief Development Officer,A - Grant,$0.00,1547,1547,New,+$0,3.0,6.0,13.0,-27.0,HABT
+110,D,2015-04-22 17:04:53,2015-04-20,HABT,Whitwell Peter,Chief Quality Officer,A - Grant,$0.00,1934,1934,New,+$0,3.0,6.0,13.0,-27.0,HABT
+111,D,2015-04-22 17:04:28,2015-04-20,HABT,Fils IRA,CFO,A - Grant,$0.00,7734,7734,New,+$0,3.0,6.0,13.0,-27.0,HABT
+112,D,2015-04-17 16:31:29,2015-04-15,HABT,Friend Russell,Chief Development Officer,C - Converted deriv,$29.72,25281,94190,-21%,"$751,392",3.0,8.0,18.0,-25.0,HABT
+113,D,2015-04-17 16:31:29,2015-04-15,HABT,Friend Russell,Chief Development Officer,D - Sale to issuer,$0.00,-25281,94190,-21%,-$0,3.0,8.0,18.0,-25.0,HABT
+114,D,2015-04-17 16:29:00,2015-04-15,HABT,Fils IRA,CFO,C - Converted deriv,$29.72,83729,264013,-24%,"$2,488,560",3.0,8.0,18.0,-25.0,HABT
+115,D,2015-04-17 16:29:00,2015-04-15,HABT,Fils IRA,CFO,D - Sale to issuer,$0.00,-83729,264013,-24%,-$0,3.0,8.0,18.0,-25.0,HABT
+116,D,2015-04-17 16:27:51,2015-04-15,HABT,Whitwell Peter,Chief Quality Officer,C - Converted deriv,$29.72,17138,69025,-20%,"$509,369",3.0,8.0,18.0,-25.0,HABT
+117,D,2015-04-17 16:27:51,2015-04-15,HABT,Whitwell Peter,Chief Quality Officer,D - Sale to issuer,$0.00,-17138,69025,-20%,-$0,3.0,8.0,18.0,-25.0,HABT
+118,D,2015-04-17 16:27:50,2015-04-15,HABT,Karp Allan W,Dir,C - Converted deriv,$29.72,4222951,9968694,-30%,"$125,512,860",3.0,8.0,18.0,-25.0,HABT
+119,D,2015-04-17 16:27:50,2015-04-15,HABT,Karp Allan W,Dir,D - Sale to issuer,$0.00,-3263434,9968694,-25%,-$0,3.0,8.0,18.0,-25.0,HABT
+120,D,2015-04-17 16:26:32,2015-04-15,HABT,Bendel Russell William,CEO,C - Converted deriv,$29.72,255976,720367,-26%,"$7,608,016",3.0,8.0,18.0,-25.0,HABT
+121,D,2015-04-17 16:26:32,2015-04-15,HABT,Bendel Russell William,CEO,D - Sale to issuer,$0.00,-255976,720367,-26%,-$0,3.0,8.0,18.0,-25.0,HABT
+122,D,2015-04-17 16:24:04,2015-04-15,HABT,Reilly Christopher K.,Dir,C - Converted deriv,$29.72,4222951,9968694,-30%,"$125,512,860",3.0,8.0,18.0,-25.0,HABT
+123,D,2015-04-17 16:24:04,2015-04-15,HABT,Reilly Christopher K.,Dir,D - Sale to issuer,$0.00,-3263434,9968694,-25%,-$0,3.0,8.0,18.0,-25.0,HABT
+124,D,2015-04-17 16:23:46,2015-04-15,HABT,Serritella Anthony,COO,C - Converted deriv,$29.72,76031,277876,-21%,"$2,259,763",3.0,8.0,18.0,-25.0,HABT
+125,D,2015-04-17 16:23:46,2015-04-15,HABT,Serritella Anthony,COO,D - Sale to issuer,$0.00,-76031,277876,-21%,-$0,3.0,8.0,18.0,-25.0,HABT
+126,D,2015-04-17 16:22:18,2015-04-15,HABT,"Karpreilly Gp, LLC",10%,C - Converted deriv,$29.72,4222951,9968694,-30%,"$125,512,860",3.0,8.0,18.0,-25.0,HABT
+127,D,2015-04-17 16:22:18,2015-04-15,HABT,"Karpreilly Gp, LLC",10%,D - Sale to issuer,$0.00,-3263434,9968694,-25%,-$0,3.0,8.0,18.0,-25.0,HABT

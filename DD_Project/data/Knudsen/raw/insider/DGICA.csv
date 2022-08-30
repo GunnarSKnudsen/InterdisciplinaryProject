@@ -1,71 +1,719 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,,2022-03-14 09:10:52,2022-03-10,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.41,2000,70855,+3%,"+$26,820",,,,,DGICA
 1,,2022-02-25 14:32:45,2022-02-24,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.32,2000,68855,+3%,"+$26,640",,,,,DGICA
-2,,2021-11-23 15:37:51,2021-11-23,DGICA,Hess Jack Lee,Dir,P - Purchase,$14.18,2000,66130,+3%,"+$28,360",,,,,DGICA
-3,,2021-08-11 16:42:07,2021-08-11,DGICA,Huber Barry C,Dir,P - Purchase,$15.28,6000,13367,+81%,"+$91,674",,,,,DGICA
-4,DM,2021-06-14 13:21:04,2021-06-11,DGICA,Moore Sewell Trezevant Jr,Dir,S - Sale+OE,$15.10,-12000,25155,-32%,"-$181,201",,,,,DGICA
-5,,2021-06-14 13:14:40,2021-06-11,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$15.22,200000,15197031,+1%,"+$3,044,000",,,,,DGICA
-6,D,2021-06-07 08:49:28,2021-06-03,DGICA,Kraft Kevin Michael Sr,Dir,S - Sale+OE,$15.45,-1859,11436,-14%,"-$28,712",,,,,DGICA
-7,DM,2021-06-02 12:30:44,2021-06-01,DGICA,Mahan Jon Marshall,Dir,S - Sale+OE,$15.27,-12000,7488,-62%,"-$183,195",,,,,DGICA
-8,DM,2021-05-17 15:22:18,2021-05-14,DGICA,Berlucchi Scott Andrew,Dir,S - Sale+OE,$15.01,-12000,6831,-64%,"-$180,161",,,,,DGICA
-9,DM,2021-05-11 12:48:37,2021-05-07,DGICA,Haefner Francis Joseph Jr,SVP,S - Sale+OE,$15.20,-35000,5295,-87%,"-$532,044",,,,,DGICA
-10,D,2021-04-29 15:00:41,2021-04-29,DGICA,Wampler Richard D II,Dir,S - Sale+OE,$15.51,-12000,8602,-58%,"-$186,158",,,,,DGICA
-11,,2021-03-11 17:07:25,2021-03-11,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.85,75000,14997031,+1%,"+$1,113,750",,,,,DGICA
-12,D,2021-03-11 17:06:27,2021-03-11,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",S - Sale+OE,$14.85,-75000,8767,-90%,"-$1,113,750",,,,,DGICA
-13,DM,2021-03-11 17:05:26,2021-03-10,DGICA,Miller Jeffrey Dean,"EVP, CFO",S - Sale+OE,$14.87,-35000,48752,-42%,"-$520,279",,,,,DGICA
-14,DM,2021-03-10 16:14:05,2021-03-08,DGICA,Miller Jeffrey Dean,"EVP, CFO",S - Sale+OE,$14.91,-40000,48752,-45%,"-$596,385",,,,,DGICA
-15,D,2021-03-03 15:51:29,2021-03-01,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.46,-7500,8022,-48%,"-$108,459",,,,,DGICA
-16,D,2020-12-15 11:27:15,2020-12-14,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.15,-3500,7293,-32%,"-$49,525",,,,,DGICA
-17,D,2020-12-14 10:56:52,2020-09-03,DGICA,Folmar William Albert,SVP,S - Sale+OE,$14.78,-5437,659,-89%,"-$80,359",,,,,DGICA
-18,,2020-12-14 10:49:14,2020-12-14,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.16,100000,14922031,+1%,"+$1,415,800",,,,,DGICA
-19,DM,2020-12-11 11:50:49,2020-12-10,DGICA,Wampler Richard D II,Dir,S - Sale+OE,$14.15,-8000,8102,-50%,"-$113,200",,,,,DGICA
-20,,2020-12-11 11:43:43,2020-12-10,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.22,35000,14822031,0%,"+$497,700",,,,,DGICA
-21,D,2020-12-11 11:40:39,2020-12-10,DGICA,Kelley Richard George,SVP,S - Sale+OE,$14.22,-35000,32402,-52%,"-$497,700",,,,,DGICA
-22,DM,2020-12-09 16:16:55,2020-12-08,DGICA,Kraft Kevin Michael Sr,Dir,S - Sale+OE,$14.20,-8000,10936,-42%,"-$113,610",,,,,DGICA
-23,D,2020-12-08 16:12:33,2020-12-08,DGICA,Berlucchi Scott Andrew,Dir,S - Sale+OE,$14.04,-8000,6265,-56%,"-$112,320",,,,,DGICA
-24,DM,2020-12-04 12:34:50,2020-12-02,DGICA,Haefner Francis Joseph Jr,SVP,S - Sale+OE,$14.20,-35000,4710,-88%,"-$497,000",,,,,DGICA
-25,D,2020-12-02 14:48:21,2020-12-02,DGICA,Jacobsen Jeffrey Alan,SVP,S - Sale+OE,$14.05,-452,14951,-3%,"-$6,351",,,,,DGICA
-26,D,2020-11-30 12:26:16,2020-11-25,DGICA,Jacobsen Jeffrey Alan,SVP,S - Sale+OE,$14.50,-600,14951,-4%,"-$8,700",,,,,DGICA
-27,D,2020-11-25 15:50:29,2020-11-24,DGICA,Jacobsen Jeffrey Alan,SVP,S - Sale+OE,$14.50,-8948,14951,-37%,"-$129,746",,,,,DGICA
-28,D,2020-11-25 15:44:06,2020-11-24,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.49,-14796,3658,-80%,"-$214,394",,,,,DGICA
-29,D,2020-11-18 16:35:05,2020-11-17,DGICA,Huber Barry C,Dir,S - Sale+OE,$14.60,-5433,6867,-44%,"-$79,322",,,,,DGICA
-30,D,2020-11-17 16:06:43,2020-11-16,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.64,-3600,3658,-50%,"-$52,704",,,,,DGICA
-31,D,2020-11-13 15:28:46,2020-11-13,DGICA,Long Robert Richard Jr,"Sr.VP, GC",S - Sale+OE,$14.31,-3000,59,-98%,"-$42,933",,,,,DGICA
-32,D,2020-11-10 16:22:22,2020-11-09,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.64,-3298,3658,-47%,"-$48,283",,,,,DGICA
-33,D,2020-11-10 16:12:40,2020-11-10,DGICA,Mahan Jon Marshall,Dir,S - Sale+OE,$14.49,-8000,6988,-53%,"-$115,958",,,,,DGICA
-34,D,2020-11-04 16:46:51,2020-11-03,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.64,-5259,3658,-59%,"-$76,992",,,,,DGICA
-35,D,2020-11-03 17:02:01,2020-11-02,DGICA,Bixenman Dennis Joseph,Dir,S - Sale+OE,$14.14,-12000,5655,-68%,"-$169,626",,,,,DGICA
-36,D,2020-09-16 16:08:25,2020-09-14,DGICA,Huber Barry C,Dir,S - Sale+OE,$14.74,-200,6867,-3%,"-$2,948",,,,,DGICA
-37,D,2020-09-15 16:16:04,2020-09-11,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.60,-1094,3658,-23%,"-$15,973",,,,,DGICA
-38,,2020-09-14 12:43:55,2020-09-10,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.79,180000,10132692,+2%,"+$2,662,920",,,,,DGICA
-39,D,2020-09-14 12:43:17,2020-09-10,DGICA,Wagner Daniel J,"SVP, Treasurer",S - Sale+OE,$14.79,-75000,79939,-48%,"-$1,109,550",,,,,DGICA
-40,D,2020-09-14 12:42:30,2020-09-10,DGICA,Miller Jeffrey Dean,"EVP, CFO",S - Sale+OE,$14.79,-50000,46946,-52%,"-$739,700",,,,,DGICA
-41,D,2020-09-14 12:41:22,2020-09-10,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",S - Sale+OE,$14.79,-55000,7862,-87%,"-$813,670",,,,,DGICA
-42,D,2020-09-14 12:40:01,2020-09-10,DGICA,Huber Barry C,Dir,S - Sale+OE,$14.70,-2197,6867,-24%,"-$32,296",,,,,DGICA
-43,DM,2020-09-11 08:42:41,2020-09-09,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.90,-810,3658,-18%,"-$12,065",,,,,DGICA
-44,D,2020-09-11 08:35:51,2020-09-09,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.85,-5400,7267,-43%,"-$80,190",,,,,DGICA
-45,A,2020-08-24 16:33:11,2020-08-20,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.55,2000,50862,+4%,"+$27,100",,,,,DGICA
-46,,2020-08-21 09:03:24,2020-08-20,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.55,2000,50796,+4%,"+$27,100",,,,,DGICA
-47,,2020-08-17 09:48:44,2020-08-14,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.87,101667,14607031,+1%,"+$1,511,585",,,,,DGICA
-48,D,2020-08-17 09:23:37,2020-08-14,DGICA,Wagner Daniel J,"SVP, Treasurer",S - Sale+OE,$14.87,-45000,79353,-36%,"-$669,060",,,,,DGICA
-49,D,2020-08-17 09:19:05,2020-08-14,DGICA,Pandey Sanjay,"SVP, Chief Info Officer",S - Sale+OE,$14.87,-56667,6547,-90%,"-$842,525",,,,,DGICA
-50,D,2020-08-17 09:11:43,2020-08-13,DGICA,Folmar William Albert,SVP,S - Sale+OE,$14.99,-850,749,-53%,"-$12,742",,,,,DGICA
-51,DM,2020-08-12 20:01:03,2020-08-11,DGICA,Folmar William Albert,SVP,S - Sale+OE,$14.94,-8713,749,-92%,"-$130,212",,,,,DGICA
-52,,2020-08-10 11:30:38,2020-08-05,DGICA,Hess Jack Lee,Dir,P - Purchase,$14.35,2000,48796,+4%,"+$28,700",,,,,DGICA
-53,D,2020-06-11 10:02:20,2020-06-09,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.95,-600,6704,-8%,"-$8,970",,,,,DGICA
-54,DM,2020-06-10 09:43:02,2020-06-08,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.95,-6143,3551,-63%,"-$91,838",,,,,DGICA
-55,DM,2020-06-09 09:47:01,2020-06-05,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.91,-7316,6704,-52%,"-$109,080",,,,,DGICA
-56,D,2020-06-01 09:27:45,2020-05-28,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.95,-2684,6704,-29%,"-$40,126",,,,,DGICA
-57,AD,2020-05-28 14:34:48,2020-05-27,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.85,-10000,6704,-60%,"-$148,500",,,,,DGICA
-58,D,2020-05-28 12:43:35,2020-05-27,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",P - Purchase,$13.64,10000,6704,-303%,"+$136,400",,,,,DGICA
-59,D,2020-05-28 12:43:35,2020-05-27,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.85,-10000,6704,-60%,"-$148,500",,,,,DGICA
-60,,2020-03-12 12:35:23,2020-03-12,DGICA,Hess Jack Lee,Dir,P - Purchase,$12.44,1200,46725,+3%,"+$14,925",,,,,DGICA
-61,,2020-03-12 09:30:21,2020-03-10,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$13.80,500,10936,+5%,"+$6,900",,,,,DGICA
-62,D,2019-11-07 16:15:08,2019-11-06,DGICA,Bixenman Dennis Joseph,Dir,S - Sale+OE,$14.81,-8000,5155,-61%,"-$118,480",,,,,DGICA
-63,,2019-06-04 08:44:02,2019-06-03,DGICA,Hess Jack Lee,Dir,P - Purchase,$14.43,1000,36629,+3%,"+$14,430",,,,,DGICA
-64,,2019-05-10 13:30:01,2019-05-09,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.92,2000,35573,+6%,"+$27,840",,,,,DGICA
-65,M,2018-11-21 11:39:23,2018-11-19,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.61,3000,33015,+10%,"+$40,840",,,,,DGICA
-66,M,2018-11-08 10:39:29,2018-11-07,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.71,3000,29963,+11%,"+$41,120",,,,,DGICA
-67,,2018-08-28 13:22:00,2018-08-27,DGICA,Gilmartin Patricia A,Dir,S - Sale,$14.65,-8229,500,-94%,"-$120,555",,,,,DGICA
-68,,2018-08-07 15:26:27,2018-08-07,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$14.36,200,8936,+2%,"+$2,872",,,,,DGICA
-69,,2018-05-02 11:52:33,2018-04-30,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$21.00,7000,14505364,0%,"+$147,000",,,,,DGICA
+2,,2022-01-04 13:12:49,2022-01-04,DGICA,Wampler Richard D II,Dir,A - Grant,$14.29,500,9102,+6%,"+$7,145",,,,,DGICA
+3,,2022-01-04 13:12:08,2022-01-04,DGICA,Szady Annette Brookens,Dir,A - Grant,$14.29,500,1000,+100%,"+$7,145",,,,,DGICA
+4,,2022-01-04 13:11:28,2022-01-04,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$14.29,500,25655,+2%,"+$7,145",,,,,DGICA
+5,,2022-01-04 13:10:51,2022-01-04,DGICA,Mahan Jon Marshall,Dir,A - Grant,$14.29,500,7988,+7%,"+$7,145",,,,,DGICA
+6,,2022-01-04 13:10:17,2022-01-04,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$14.29,500,11936,+4%,"+$7,145",,,,,DGICA
+7,,2022-01-04 13:09:30,2022-01-04,DGICA,King David Charles,Dir,A - Grant,$14.29,500,1000,+100%,"+$7,145",,,,,DGICA
+8,,2022-01-04 13:08:45,2022-01-04,DGICA,Huber Barry C,Dir,A - Grant,$14.29,500,13867,+4%,"+$7,145",,,,,DGICA
+9,,2022-01-04 13:08:07,2022-01-04,DGICA,Hess Jack Lee,Dir,A - Grant,$14.29,500,66630,+1%,"+$7,145",,,,,DGICA
+10,,2022-01-04 13:07:30,2022-01-04,DGICA,Bixenman Dennis Joseph,Dir,A - Grant,$14.29,500,6655,+8%,"+$7,145",,,,,DGICA
+11,,2022-01-04 13:06:54,2022-01-04,DGICA,Berlucchi Scott Andrew,Dir,A - Grant,$14.29,500,7397,+7%,"+$7,145",,,,,DGICA
+12,,2022-01-04 13:04:55,2022-01-04,DGICA,Miller Jeffrey Dean,"EVP, CFO",A - Grant,$14.29,500,52111,+1%,"+$7,145",,,,,DGICA
+13,,2022-01-04 12:59:34,2022-01-04,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",A - Grant,$14.29,500,10217,+5%,"+$7,145",,,,,DGICA
+14,,2021-11-23 15:37:51,2021-11-23,DGICA,Hess Jack Lee,Dir,P - Purchase,$14.18,2000,66130,+3%,"+$28,360",,,,,DGICA
+15,,2021-08-11 16:42:07,2021-08-11,DGICA,Huber Barry C,Dir,P - Purchase,$15.28,6000,13367,+81%,"+$91,674",,,,,DGICA
+16,DM,2021-06-14 13:21:04,2021-06-11,DGICA,Moore Sewell Trezevant Jr,Dir,M - OptEx,$12.50,12000,25155,+91%,"+$150,000",,,,,DGICA
+17,DM,2021-06-14 13:21:04,2021-06-11,DGICA,Moore Sewell Trezevant Jr,Dir,S - Sale+OE,$15.10,-12000,25155,-32%,"-$181,201",,,,,DGICA
+18,,2021-06-14 13:14:40,2021-06-11,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$15.22,200000,15197031,+1%,"+$3,044,000",,,,,DGICA
+19,D,2021-06-07 08:49:28,2021-06-03,DGICA,Kraft Kevin Michael Sr,Dir,M - OptEx,$12.50,1859,11436,+19%,"+$23,238",,,,,DGICA
+20,D,2021-06-07 08:49:28,2021-06-03,DGICA,Kraft Kevin Michael Sr,Dir,S - Sale+OE,$15.45,-1859,11436,-14%,"-$28,712",,,,,DGICA
+21,DM,2021-06-02 12:30:44,2021-06-01,DGICA,Mahan Jon Marshall,Dir,M - OptEx,$12.50,12000,7488,-266%,"+$150,000",,,,,DGICA
+22,DM,2021-06-02 12:30:44,2021-06-01,DGICA,Mahan Jon Marshall,Dir,S - Sale+OE,$15.27,-12000,7488,-62%,"-$183,195",,,,,DGICA
+23,DM,2021-05-17 15:22:18,2021-05-14,DGICA,Berlucchi Scott Andrew,Dir,M - OptEx,$12.50,12000,6831,-232%,"+$150,000",,,,,DGICA
+24,DM,2021-05-17 15:22:18,2021-05-14,DGICA,Berlucchi Scott Andrew,Dir,S - Sale+OE,$15.01,-12000,6831,-64%,"-$180,161",,,,,DGICA
+25,DM,2021-05-11 12:48:37,2021-05-07,DGICA,Haefner Francis Joseph Jr,SVP,M - OptEx,$12.50,35000,5295,-118%,"+$437,500",,,,,DGICA
+26,DM,2021-05-11 12:48:37,2021-05-07,DGICA,Haefner Francis Joseph Jr,SVP,S - Sale+OE,$15.20,-35000,5295,-87%,"-$532,044",,,,,DGICA
+27,D,2021-04-29 15:00:41,2021-04-29,DGICA,Wampler Richard D II,Dir,M - OptEx,$12.50,12000,8602,-353%,"+$150,000",,,,,DGICA
+28,D,2021-04-29 15:00:41,2021-04-29,DGICA,Wampler Richard D II,Dir,S - Sale+OE,$15.51,-12000,8602,-58%,"-$186,158",,,,,DGICA
+29,D,2021-04-29 14:49:24,2021-04-29,DGICA,Hess Jack Lee,Dir,M - OptEx,$12.50,12000,63507,+23%,"+$150,000",,,,,DGICA
+30,,2021-03-11 17:07:25,2021-03-11,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.85,75000,14997031,+1%,"+$1,113,750",,,,,DGICA
+31,D,2021-03-11 17:06:27,2021-03-11,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",M - OptEx,$12.50,75000,8767,-113%,"+$937,500",,,,,DGICA
+32,D,2021-03-11 17:06:27,2021-03-11,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",S - Sale+OE,$14.85,-75000,8767,-90%,"-$1,113,750",,,,,DGICA
+33,DM,2021-03-11 17:05:26,2021-03-10,DGICA,Miller Jeffrey Dean,"EVP, CFO",M - OptEx,$12.50,35000,48752,+255%,"+$437,500",,,,,DGICA
+34,DM,2021-03-11 17:05:26,2021-03-10,DGICA,Miller Jeffrey Dean,"EVP, CFO",S - Sale+OE,$14.87,-35000,48752,-42%,"-$520,279",,,,,DGICA
+35,DM,2021-03-10 16:14:05,2021-03-08,DGICA,Miller Jeffrey Dean,"EVP, CFO",M - OptEx,$12.50,40000,48752,+457%,"+$500,000",,,,,DGICA
+36,DM,2021-03-10 16:14:05,2021-03-08,DGICA,Miller Jeffrey Dean,"EVP, CFO",S - Sale+OE,$14.91,-40000,48752,-45%,"-$596,385",,,,,DGICA
+37,D,2021-03-03 15:51:29,2021-03-01,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",M - OptEx,$12.50,7500,8022,>999%,"+$93,750",,,,,DGICA
+38,D,2021-03-03 15:51:29,2021-03-01,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.46,-7500,8022,-48%,"-$108,459",,,,,DGICA
+39,,2021-01-04 13:59:43,2021-01-04,DGICA,Wampler Richard D II,Dir,A - Grant,$14.07,500,8602,+6%,"+$7,035",,,,,DGICA
+40,,2021-01-04 13:57:45,2021-01-04,DGICA,Szady Annette Brookens,Dir,A - Grant,$14.07,500,500,New,"+$7,035",,,,,DGICA
+41,,2021-01-04 13:55:33,2021-01-04,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$14.07,500,25155,+2%,"+$7,035",,,,,DGICA
+42,,2021-01-04 13:53:14,2021-01-04,DGICA,Mahan Jon Marshall,Dir,A - Grant,$14.07,500,7488,+7%,"+$7,035",,,,,DGICA
+43,,2021-01-04 13:51:10,2021-01-04,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$14.07,500,11436,+5%,"+$7,035",,,,,DGICA
+44,,2021-01-04 13:48:17,2021-01-04,DGICA,King David Charles,Dir,A - Grant,$14.07,500,500,New,"+$7,035",,,,,DGICA
+45,,2021-01-04 13:45:45,2021-01-04,DGICA,Huber Barry C,Dir,A - Grant,$14.07,500,7367,+7%,"+$7,035",,,,,DGICA
+46,,2021-01-04 13:43:44,2021-01-04,DGICA,Hess Jack Lee,Dir,A - Grant,$14.07,500,51430,+1%,"+$7,035",,,,,DGICA
+47,,2021-01-04 13:40:45,2021-01-04,DGICA,Bixenman Dennis Joseph,Dir,A - Grant,$14.07,500,6155,+9%,"+$7,035",,,,,DGICA
+48,,2021-01-04 13:38:39,2021-01-04,DGICA,Berlucchi Scott Andrew,Dir,A - Grant,$14.07,500,6765,+8%,"+$7,035",,,,,DGICA
+49,,2021-01-04 13:30:39,2021-01-04,DGICA,Miller Jeffrey Dean,"EVP, CFO",A - Grant,$14.07,500,48397,+1%,"+$7,035",,,,,DGICA
+50,,2021-01-04 13:14:01,2021-01-04,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",A - Grant,$14.07,500,8739,+6%,"+$7,035",,,,,DGICA
+51,D,2020-12-15 11:27:15,2020-12-14,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",M - OptEx,$12.50,3500,7293,+92%,"+$43,750",,,,,DGICA
+52,D,2020-12-15 11:27:15,2020-12-14,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.15,-3500,7293,-32%,"-$49,525",,,,,DGICA
+53,D,2020-12-14 10:56:52,2020-09-03,DGICA,Folmar William Albert,SVP,M - OptEx,$13.64,5347,659,-114%,"+$72,933",,,,,DGICA
+54,D,2020-12-14 10:56:52,2020-09-03,DGICA,Folmar William Albert,SVP,S - Sale+OE,$14.78,-5437,659,-89%,"-$80,359",,,,,DGICA
+55,,2020-12-14 10:49:14,2020-12-14,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.16,100000,14922031,+1%,"+$1,415,800",,,,,DGICA
+56,DM,2020-12-11 11:50:49,2020-12-10,DGICA,Wampler Richard D II,Dir,M - OptEx,$13.64,8000,8102,>999%,"+$109,120",,,,,DGICA
+57,DM,2020-12-11 11:50:49,2020-12-10,DGICA,Wampler Richard D II,Dir,S - Sale+OE,$14.15,-8000,8102,-50%,"-$113,200",,,,,DGICA
+58,,2020-12-11 11:43:43,2020-12-10,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.22,35000,14822031,0%,"+$497,700",,,,,DGICA
+59,D,2020-12-11 11:40:39,2020-12-10,DGICA,Kelley Richard George,SVP,M - OptEx,$13.64,35000,32402,-1347%,"+$477,400",,,,,DGICA
+60,D,2020-12-11 11:40:39,2020-12-10,DGICA,Kelley Richard George,SVP,S - Sale+OE,$14.22,-35000,32402,-52%,"-$497,700",,,,,DGICA
+61,DM,2020-12-09 16:16:55,2020-12-08,DGICA,Kraft Kevin Michael Sr,Dir,M - OptEx,$13.64,8000,10936,+272%,"+$109,120",,,,,DGICA
+62,DM,2020-12-09 16:16:55,2020-12-08,DGICA,Kraft Kevin Michael Sr,Dir,S - Sale+OE,$14.20,-8000,10936,-42%,"-$113,610",,,,,DGICA
+63,D,2020-12-08 16:12:33,2020-12-08,DGICA,Berlucchi Scott Andrew,Dir,M - OptEx,$13.64,8000,6265,-461%,"+$109,120",,,,,DGICA
+64,D,2020-12-08 16:12:33,2020-12-08,DGICA,Berlucchi Scott Andrew,Dir,S - Sale+OE,$14.04,-8000,6265,-56%,"-$112,320",,,,,DGICA
+65,DM,2020-12-04 12:34:50,2020-12-02,DGICA,Haefner Francis Joseph Jr,SVP,M - OptEx,$13.64,35000,4710,-116%,"+$477,400",,,,,DGICA
+66,DM,2020-12-04 12:34:50,2020-12-02,DGICA,Haefner Francis Joseph Jr,SVP,S - Sale+OE,$14.20,-35000,4710,-88%,"-$497,000",,,,,DGICA
+67,D,2020-12-02 14:48:21,2020-12-02,DGICA,Jacobsen Jeffrey Alan,SVP,M - OptEx,$13.64,452,14951,+3%,"+$6,165",,,,,DGICA
+68,D,2020-12-02 14:48:21,2020-12-02,DGICA,Jacobsen Jeffrey Alan,SVP,S - Sale+OE,$14.05,-452,14951,-3%,"-$6,351",,,,,DGICA
+69,D,2020-11-30 12:26:16,2020-11-25,DGICA,Jacobsen Jeffrey Alan,SVP,M - OptEx,$13.64,600,14951,+4%,"+$8,184",,,,,DGICA
+70,D,2020-11-30 12:26:16,2020-11-25,DGICA,Jacobsen Jeffrey Alan,SVP,S - Sale+OE,$14.50,-600,14951,-4%,"-$8,700",,,,,DGICA
+71,D,2020-11-25 15:50:29,2020-11-24,DGICA,Jacobsen Jeffrey Alan,SVP,M - OptEx,$13.64,8948,14951,+149%,"+$122,051",,,,,DGICA
+72,D,2020-11-25 15:50:29,2020-11-24,DGICA,Jacobsen Jeffrey Alan,SVP,S - Sale+OE,$14.50,-8948,14951,-37%,"-$129,746",,,,,DGICA
+73,D,2020-11-25 15:44:06,2020-11-24,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",M - OptEx,$13.64,14796,3658,-133%,"+$201,817",,,,,DGICA
+74,D,2020-11-25 15:44:06,2020-11-24,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.49,-14796,3658,-80%,"-$214,394",,,,,DGICA
+75,D,2020-11-18 16:35:05,2020-11-17,DGICA,Huber Barry C,Dir,M - OptEx,$13.64,5433,6867,+379%,"+$74,106",,,,,DGICA
+76,D,2020-11-18 16:35:05,2020-11-17,DGICA,Huber Barry C,Dir,S - Sale+OE,$14.60,-5433,6867,-44%,"-$79,322",,,,,DGICA
+77,D,2020-11-17 16:06:43,2020-11-16,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",M - OptEx,$13.64,3600,3658,>999%,"+$49,104",,,,,DGICA
+78,D,2020-11-17 16:06:43,2020-11-16,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.64,-3600,3658,-50%,"-$52,704",,,,,DGICA
+79,D,2020-11-16 15:18:03,2020-11-13,DGICA,Moore Sewell Trezevant Jr,Dir,M - OptEx,$13.64,8000,24655,+48%,"+$109,120",,,,,DGICA
+80,D,2020-11-13 15:28:46,2020-11-13,DGICA,Long Robert Richard Jr,"Sr.VP, GC",M - OptEx,$13.64,3000,59,-102%,"+$40,920",,,,,DGICA
+81,D,2020-11-13 15:28:46,2020-11-13,DGICA,Long Robert Richard Jr,"Sr.VP, GC",S - Sale+OE,$14.31,-3000,59,-98%,"-$42,933",,,,,DGICA
+82,D,2020-11-10 16:22:22,2020-11-09,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",M - OptEx,$13.64,3298,3658,+916%,"+$44,985",,,,,DGICA
+83,D,2020-11-10 16:22:22,2020-11-09,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.64,-3298,3658,-47%,"-$48,283",,,,,DGICA
+84,D,2020-11-10 16:12:40,2020-11-10,DGICA,Mahan Jon Marshall,Dir,M - OptEx,$13.64,8000,6988,-791%,"+$109,120",,,,,DGICA
+85,D,2020-11-10 16:12:40,2020-11-10,DGICA,Mahan Jon Marshall,Dir,S - Sale+OE,$14.49,-8000,6988,-53%,"-$115,958",,,,,DGICA
+86,D,2020-11-04 16:46:51,2020-11-03,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",M - OptEx,$13.64,5259,3658,-328%,"+$71,733",,,,,DGICA
+87,D,2020-11-04 16:46:51,2020-11-03,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.64,-5259,3658,-59%,"-$76,992",,,,,DGICA
+88,D,2020-11-03 17:02:01,2020-11-02,DGICA,Bixenman Dennis Joseph,Dir,M - OptEx,$12.50,12000,5655,-189%,"+$150,000",,,,,DGICA
+89,D,2020-11-03 17:02:01,2020-11-02,DGICA,Bixenman Dennis Joseph,Dir,S - Sale+OE,$14.14,-12000,5655,-68%,"-$169,626",,,,,DGICA
+90,D,2020-09-16 16:08:25,2020-09-14,DGICA,Huber Barry C,Dir,M - OptEx,$13.64,200,6867,+3%,"+$2,728",,,,,DGICA
+91,D,2020-09-16 16:08:25,2020-09-14,DGICA,Huber Barry C,Dir,S - Sale+OE,$14.74,-200,6867,-3%,"-$2,948",,,,,DGICA
+92,D,2020-09-15 16:16:04,2020-09-11,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",M - OptEx,$13.64,1094,3658,+43%,"+$14,922",,,,,DGICA
+93,D,2020-09-15 16:16:04,2020-09-11,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.60,-1094,3658,-23%,"-$15,973",,,,,DGICA
+94,,2020-09-14 12:43:55,2020-09-10,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.79,180000,10132692,+2%,"+$2,662,920",,,,,DGICA
+95,D,2020-09-14 12:43:17,2020-09-10,DGICA,Wagner Daniel J,"SVP, Treasurer",M - OptEx,$12.50,75000,79939,>999%,"+$937,500",,,,,DGICA
+96,D,2020-09-14 12:43:17,2020-09-10,DGICA,Wagner Daniel J,"SVP, Treasurer",S - Sale+OE,$14.79,-75000,79939,-48%,"-$1,109,550",,,,,DGICA
+97,D,2020-09-14 12:42:30,2020-09-10,DGICA,Miller Jeffrey Dean,"EVP, CFO",M - OptEx,$13.64,50000,46946,-1637%,"+$682,000",,,,,DGICA
+98,D,2020-09-14 12:42:30,2020-09-10,DGICA,Miller Jeffrey Dean,"EVP, CFO",S - Sale+OE,$14.79,-50000,46946,-52%,"-$739,700",,,,,DGICA
+99,D,2020-09-14 12:41:22,2020-09-10,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",M - OptEx,$13.64,55000,7862,-117%,"+$750,200",,,,,DGICA
+100,D,2020-09-14 12:41:22,2020-09-10,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",S - Sale+OE,$14.79,-55000,7862,-87%,"-$813,670",,,,,DGICA
+101,D,2020-09-14 12:40:01,2020-09-10,DGICA,Huber Barry C,Dir,M - OptEx,$13.64,2197,6867,+47%,"+$29,967",,,,,DGICA
+102,D,2020-09-14 12:40:01,2020-09-10,DGICA,Huber Barry C,Dir,S - Sale+OE,$14.70,-2197,6867,-24%,"-$32,296",,,,,DGICA
+103,DM,2020-09-11 08:42:41,2020-09-09,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",M - OptEx,$13.64,810,3658,+28%,"+$11,048",,,,,DGICA
+104,DM,2020-09-11 08:42:41,2020-09-09,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.90,-810,3658,-18%,"-$12,065",,,,,DGICA
+105,D,2020-09-11 08:35:51,2020-09-09,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",M - OptEx,$12.50,5400,7267,+289%,"+$67,500",,,,,DGICA
+106,D,2020-09-11 08:35:51,2020-09-09,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.85,-5400,7267,-43%,"-$80,190",,,,,DGICA
+107,A,2020-08-24 16:33:11,2020-08-20,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.55,2000,50862,+4%,"+$27,100",,,,,DGICA
+108,,2020-08-21 09:03:24,2020-08-20,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.55,2000,50796,+4%,"+$27,100",,,,,DGICA
+109,,2020-08-17 09:48:44,2020-08-14,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.87,101667,14607031,+1%,"+$1,511,585",,,,,DGICA
+110,D,2020-08-17 09:23:37,2020-08-14,DGICA,Wagner Daniel J,"SVP, Treasurer",M - OptEx,$13.64,45000,79353,+131%,"+$613,800",,,,,DGICA
+111,D,2020-08-17 09:23:37,2020-08-14,DGICA,Wagner Daniel J,"SVP, Treasurer",S - Sale+OE,$14.87,-45000,79353,-36%,"-$669,060",,,,,DGICA
+112,D,2020-08-17 09:19:05,2020-08-14,DGICA,Pandey Sanjay,"SVP, Chief Info Officer",M - OptEx,$13.41,56667,6547,-113%,"+$759,638",,,,,DGICA
+113,D,2020-08-17 09:19:05,2020-08-14,DGICA,Pandey Sanjay,"SVP, Chief Info Officer",S - Sale+OE,$14.87,-56667,6547,-90%,"-$842,525",,,,,DGICA
+114,D,2020-08-17 09:11:43,2020-08-13,DGICA,Folmar William Albert,SVP,M - OptEx,$13.64,850,749,-842%,"+$11,594",,,,,DGICA
+115,D,2020-08-17 09:11:43,2020-08-13,DGICA,Folmar William Albert,SVP,S - Sale+OE,$14.99,-850,749,-53%,"-$12,742",,,,,DGICA
+116,DM,2020-08-12 20:01:03,2020-08-11,DGICA,Folmar William Albert,SVP,M - OptEx,$13.64,8713,749,-109%,"+$118,845",,,,,DGICA
+117,DM,2020-08-12 20:01:03,2020-08-11,DGICA,Folmar William Albert,SVP,S - Sale+OE,$14.94,-8713,749,-92%,"-$130,212",,,,,DGICA
+118,,2020-08-10 11:30:38,2020-08-05,DGICA,Hess Jack Lee,Dir,P - Purchase,$14.35,2000,48796,+4%,"+$28,700",,,,,DGICA
+119,D,2020-06-11 10:02:20,2020-06-09,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",M - OptEx,$12.50,600,6704,+10%,"+$7,500",,,,,DGICA
+120,D,2020-06-11 10:02:20,2020-06-09,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.95,-600,6704,-8%,"-$8,970",,,,,DGICA
+121,DM,2020-06-10 09:43:02,2020-06-08,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",M - OptEx,$13.64,6143,3551,-237%,"+$83,791",,,,,DGICA
+122,DM,2020-06-10 09:43:02,2020-06-08,DGICA,Hoffman Christina Marie,"SVP, Chief Risk Officer",S - Sale+OE,$14.95,-6143,3551,-63%,"-$91,838",,,,,DGICA
+123,DM,2020-06-09 09:47:01,2020-06-05,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",M - OptEx,$13.64,7316,6704,-1195%,"+$99,790",,,,,DGICA
+124,DM,2020-06-09 09:47:01,2020-06-05,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.91,-7316,6704,-52%,"-$109,080",,,,,DGICA
+125,D,2020-06-01 09:27:45,2020-05-28,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",M - OptEx,$13.64,2684,6704,+67%,"+$36,610",,,,,DGICA
+126,D,2020-06-01 09:27:45,2020-05-28,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.95,-2684,6704,-29%,"-$40,126",,,,,DGICA
+127,AD,2020-05-28 14:34:48,2020-05-27,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",M - OptEx,$13.64,10000,6704,-303%,"+$136,400",,,,,DGICA
+128,AD,2020-05-28 14:34:48,2020-05-27,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.85,-10000,6704,-60%,"-$148,500",,,,,DGICA
+129,D,2020-05-28 12:43:35,2020-05-27,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",P - Purchase,$13.64,10000,6704,-303%,"+$136,400",,,,,DGICA
+130,D,2020-05-28 12:43:35,2020-05-27,DGICA,Viozzi Vincent Anthony,"SVP, Chief Inv Officer",S - Sale+OE,$14.85,-10000,6704,-60%,"-$148,500",,,,,DGICA
+131,,2020-03-12 12:35:23,2020-03-12,DGICA,Hess Jack Lee,Dir,P - Purchase,$12.44,1200,46725,+3%,"+$14,925",,,,,DGICA
+132,,2020-03-12 09:30:21,2020-03-10,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$13.80,500,10936,+5%,"+$6,900",,,,,DGICA
+133,D,2020-02-28 15:42:55,2020-02-27,DGICA,Hess Jack Lee,Dir,M - OptEx,$13.64,8000,45525,+21%,"+$109,120",,,,,DGICA
+134,A,2020-01-06 18:02:13,2020-01-02,DGICA,Hess Jack Lee,Dir,A - Grant,$14.82,500,37463,+1%,"+$7,410",,,,,DGICA
+135,,2020-01-02 10:06:51,2020-01-02,DGICA,Wampler Richard D II,Dir,A - Grant,$14.82,500,8102,+7%,"+$7,410",,,,,DGICA
+136,,2020-01-02 10:04:55,2020-01-02,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$14.82,500,16655,+3%,"+$7,410",,,,,DGICA
+137,,2020-01-02 10:00:31,2020-01-02,DGICA,Mahan Jon Marshall,Dir,A - Grant,$14.82,500,6988,+8%,"+$7,410",,,,,DGICA
+138,,2020-01-02 09:57:07,2020-01-02,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$14.82,500,10436,+5%,"+$7,410",,,,,DGICA
+139,,2020-01-02 09:54:55,2020-01-02,DGICA,Huber Barry C,Dir,A - Grant,$14.82,500,6867,+8%,"+$7,410",,,,,DGICA
+140,,2020-01-02 09:51:53,2020-01-02,DGICA,Hess Jack Lee,Dir,A - Grant,$14.82,500,37240,+1%,"+$7,410",,,,,DGICA
+141,,2020-01-02 09:45:22,2020-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$14.82,500,1500,+50%,"+$7,410",,,,,DGICA
+142,,2020-01-02 09:38:38,2020-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$14.82,500,11560,+5%,"+$7,410",,,,,DGICA
+143,,2020-01-02 09:36:17,2020-01-02,DGICA,Bixenman Dennis Joseph,Dir,A - Grant,$14.82,500,5655,+10%,"+$7,410",,,,,DGICA
+144,,2020-01-02 09:33:29,2020-01-02,DGICA,Berlucchi Scott Andrew,Dir,A - Grant,$14.82,500,6037,+9%,"+$7,410",,,,,DGICA
+145,A,2020-01-02 09:07:00,2020-01-02,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",A - Grant,$14.82,500,7459,+7%,"+$7,410",,,,,DGICA
+146,,2020-01-02 09:02:06,2020-01-02,DGICA,Greenya Cyril J,SVP,A - Grant,$14.82,500,9868,+5%,"+$7,410",,,,,DGICA
+147,,2020-01-02 08:53:07,2020-01-02,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",A - Grant,$0.00,500,7459,+7%,+$0,,,,,DGICA
+148,D,2019-11-07 16:15:08,2019-11-06,DGICA,Bixenman Dennis Joseph,Dir,M - OptEx,$13.64,8000,5155,-281%,"+$109,120",,,,,DGICA
+149,D,2019-11-07 16:15:08,2019-11-06,DGICA,Bixenman Dennis Joseph,Dir,S - Sale+OE,$14.81,-8000,5155,-61%,"-$118,480",,,,,DGICA
+150,,2019-06-04 08:44:02,2019-06-03,DGICA,Hess Jack Lee,Dir,P - Purchase,$14.43,1000,36629,+3%,"+$14,430",,,,,DGICA
+151,,2019-05-10 13:30:01,2019-05-09,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.92,2000,35573,+6%,"+$27,840",,,,,DGICA
+152,,2019-01-02 13:16:28,2019-01-02,DGICA,Wampler Richard D II,Dir,A - Grant,$13.65,500,7602,+7%,"+$6,823",,,,,DGICA
+153,,2019-01-02 13:13:43,2019-01-02,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$13.65,500,16155,+3%,"+$6,823",,,,,DGICA
+154,,2019-01-02 13:09:13,2019-01-02,DGICA,Mahan Jon Marshall,Dir,A - Grant,$13.65,500,6488,+8%,"+$6,823",,,,,DGICA
+155,,2019-01-02 13:06:53,2019-01-02,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$13.65,500,9436,+6%,"+$6,823",,,,,DGICA
+156,,2019-01-02 13:04:01,2019-01-02,DGICA,Huber Barry C,Dir,A - Grant,$13.65,500,6367,+9%,"+$6,823",,,,,DGICA
+157,,2019-01-02 13:01:03,2019-01-02,DGICA,Hess Jack Lee,Dir,A - Grant,$13.65,500,33515,+2%,"+$6,823",,,,,DGICA
+158,,2019-01-02 12:58:19,2019-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$13.65,500,1000,+100%,"+$6,823",,,,,DGICA
+159,,2019-01-02 12:55:41,2019-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$13.65,500,11060,+5%,"+$6,823",,,,,DGICA
+160,,2019-01-02 12:52:44,2019-01-02,DGICA,Bixenman Dennis Joseph,Dir,A - Grant,$13.65,500,5155,+11%,"+$6,823",,,,,DGICA
+161,,2019-01-02 12:49:18,2019-01-02,DGICA,Berlucchi Scott Andrew,Dir,A - Grant,$13.65,500,5155,+11%,"+$6,823",,,,,DGICA
+162,,2019-01-02 08:44:23,2019-01-02,DGICA,Greenya Cyril J,SVP,A - Grant,$13.65,500,9262,+6%,"+$6,823",,,,,DGICA
+163,,2019-01-02 08:39:15,2019-01-02,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",A - Grant,$13.65,500,6224,+9%,"+$6,823",,,,,DGICA
+164,M,2018-11-21 11:39:23,2018-11-19,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.61,3000,33015,+10%,"+$40,840",,,,,DGICA
+165,M,2018-11-08 10:39:29,2018-11-07,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.71,3000,29963,+11%,"+$41,120",,,,,DGICA
+166,,2018-08-28 13:22:00,2018-08-27,DGICA,Gilmartin Patricia A,Dir,S - Sale,$14.65,-8229,500,-94%,"-$120,555",,,,,DGICA
+167,,2018-08-07 15:26:27,2018-08-07,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$14.36,200,8936,+2%,"+$2,872",,,,,DGICA
+168,,2018-05-02 11:52:33,2018-04-30,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$21.00,7000,14505364,0%,"+$147,000",,,,,DGICA
+169,,2018-01-03 09:22:41,2018-01-02,DGICA,Nikolaus Donald H,See Remarks,A - Grant,$17.30,500,682163,0%,"+$8,650",,,,,DGICA
+170,,2018-01-02 09:39:44,2018-01-02,DGICA,Wampler Richard D II,Dir,A - Grant,$17.30,500,7102,+8%,"+$8,650",,,,,DGICA
+171,,2018-01-02 09:35:49,2018-01-02,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$17.30,500,15655,+3%,"+$8,650",,,,,DGICA
+172,,2018-01-02 09:32:22,2018-01-02,DGICA,Mahan Jon Marshall,Dir,A - Grant,$17.30,500,5988,+9%,"+$8,650",,,,,DGICA
+173,,2018-01-02 09:29:49,2018-01-02,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$17.30,500,8736,+6%,"+$8,650",,,,,DGICA
+174,,2018-01-02 09:27:50,2018-01-02,DGICA,Huber Barry C,Dir,A - Grant,$17.30,500,5867,+9%,"+$8,650",,,,,DGICA
+175,,2018-01-02 09:25:31,2018-01-02,DGICA,Hess Jack Lee,Dir,A - Grant,$17.30,500,26824,+2%,"+$8,650",,,,,DGICA
+176,,2018-01-02 08:54:35,2018-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$17.30,500,8729,+6%,"+$8,650",,,,,DGICA
+177,,2018-01-02 08:48:18,2018-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$17.30,500,10560,+5%,"+$8,650",,,,,DGICA
+178,,2018-01-02 08:45:44,2018-01-02,DGICA,Berlucchi Scott Andrew,Dir,A - Grant,$17.30,500,4655,+12%,"+$8,650",,,,,DGICA
+179,,2018-01-02 08:28:38,2018-01-02,DGICA,Greenya Cyril J,SVP,A - Grant,$17.30,500,8650,+6%,"+$8,650",,,,,DGICA
+180,,2018-01-02 08:24:54,2018-01-02,DGICA,Burke Kevin Gerard,"Pres, CEO",A - Grant,$17.30,500,4960,+11%,"+$8,650",,,,,DGICA
+181,,2017-11-27 10:25:32,2017-11-22,DGICA,Hess Jack Lee,Dir,P - Purchase,$17.50,1000,26324,+4%,"+$17,500",,,,,DGICA
+182,,2017-11-15 13:17:14,2017-11-14,DGICA,Hess Jack Lee,Dir,P - Purchase,$16.98,1000,25289,+4%,"+$16,980",,,,,DGICA
+183,D,2017-11-08 08:31:08,2017-11-06,DGICA,Gilmartin Patricia A,Dir,M - OptEx,$13.64,5333,8229,+184%,"+$72,742",,,,,DGICA
+184,D,2017-11-08 08:31:08,2017-11-06,DGICA,Gilmartin Patricia A,Dir,S - Sale+OE,$17.17,-5333,8229,-39%,"-$91,568",,,,,DGICA
+185,,2017-11-02 15:28:41,2017-11-02,DGICA,Hess Jack Lee,Dir,P - Purchase,$16.78,2000,24289,+9%,"+$33,560",,,,,DGICA
+186,DM,2017-04-26 13:56:55,2017-04-24,DGICA,Bolinger Robert S,Dir,M - OptEx,$12.50,12000,10060,-619%,"+$150,000",1.0,2.0,,,DGICA
+187,DM,2017-04-26 13:56:55,2017-04-24,DGICA,Bolinger Robert S,Dir,S - Sale+OE,$16.67,-12000,10060,-54%,"-$200,001",1.0,2.0,,,DGICA
+188,,2017-01-03 13:46:16,2017-01-03,DGICA,Nikolaus Donald H,See Remarks,A - Grant,$17.48,500,671871,0%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+189,,2017-01-03 09:10:35,2017-01-03,DGICA,Greenya Cyril J,SVP,A - Grant,$17.48,500,8053,+7%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+190,,2017-01-03 09:06:34,2017-01-03,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",A - Grant,$17.48,500,4003,+14%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+191,,2017-01-03 08:55:17,2017-01-03,DGICA,Wampler Richard D II,Dir,A - Grant,$17.48,500,6602,+8%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+192,,2017-01-03 08:53:12,2017-01-03,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$17.48,500,15155,+3%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+193,,2017-01-03 08:49:36,2017-01-03,DGICA,Mahan Jon Marshall,Dir,A - Grant,$17.48,500,5488,+10%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+194,,2017-01-03 08:47:16,2017-01-03,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$17.48,500,8236,+6%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+195,,2017-01-03 08:37:12,2017-01-03,DGICA,Huber Barry C,Dir,A - Grant,$17.48,500,5367,+10%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+196,,2017-01-03 08:34:42,2017-01-03,DGICA,Hess Jack Lee,Dir,A - Grant,$17.48,500,22008,+2%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+197,,2017-01-03 08:32:10,2017-01-03,DGICA,Gilmartin Patricia A,Dir,A - Grant,$17.48,500,8229,+6%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+198,,2017-01-03 08:29:45,2017-01-03,DGICA,Bolinger Robert S,Dir,A - Grant,$17.48,500,10060,+5%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+199,,2017-01-03 08:26:42,2017-01-03,DGICA,Berlucchi Scott Andrew,Dir,A - Grant,$17.48,500,4155,+14%,"+$8,740",2.0,-2.0,-6.0,,DGICA
+200,,2016-11-02 14:07:04,2016-11-02,DGICA,Hess Jack Lee,Dir,P - Purchase,$15.02,1000,21476,+5%,"+$15,020",-1.0,2.0,9.0,13.0,DGICA
+201,D,2016-08-25 08:55:16,2016-08-24,DGICA,Huber Barry C,Dir,M - OptEx,$12.50,3000,4867,+161%,"+$37,500",1.0,0.0,2.0,7.0,DGICA
+202,D,2016-08-25 08:55:16,2016-08-24,DGICA,Huber Barry C,Dir,S - Sale+OE,$16.01,-3000,4867,-38%,"-$48,030",1.0,0.0,2.0,7.0,DGICA
+203,D,2016-08-12 09:01:23,2016-08-10,DGICA,Glatfelter Philip H II,Dir,M - OptEx,$12.50,12000,16287,+280%,"+$150,000",-1.0,-1.0,-1.0,5.0,DGICA
+204,D,2016-08-12 09:01:23,2016-08-10,DGICA,Glatfelter Philip H II,Dir,S - Sale+OE,$16.08,-12000,16287,-42%,"-$192,960",-1.0,-1.0,-1.0,5.0,DGICA
+205,,2016-06-08 08:08:21,2016-06-07,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$14.77,100,14498364,0%,"+$1,477",2.0,2.0,7.0,42.0,DGICA
+206,,2016-06-06 09:19:09,2016-06-03,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$14.34,100,14498264,0%,"+$1,434",0.0,5.0,10.0,46.0,DGICA
+207,,2016-05-18 08:48:53,2016-05-16,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$14.00,100,14498164,0%,"+$1,400",0.0,0.0,7.0,30.0,DGICA
+208,A,2016-05-11 14:22:25,2016-05-11,DGICA,Hess Jack Lee,Dir,P - Purchase,$15.51,1000,20413,+5%,"+$15,510",-1.0,-2.0,3.0,0.0,DGICA
+209,AM,2016-05-11 14:17:37,2016-03-09,DGICA,Hess Jack Lee,Dir,P - Purchase,$14.73,2800,19413,+17%,"+$41,244",-1.0,-2.0,3.0,0.0,DGICA
+210,,2016-02-29 14:07:26,2016-02-05,DGICA,Nikolaus Donald H,See Remarks,G - Gift,$0.00,-12668,663210,-2%,-$0,0.0,1.0,-3.0,12.0,DGICA
+211,D,2016-02-25 09:07:28,2016-02-24,DGICA,Gilmartin Patricia A,Dir,M - OptEx,$12.50,12000,7729,-281%,"+$150,000",0.0,2.0,-4.0,11.0,DGICA
+212,D,2016-02-25 09:07:28,2016-02-24,DGICA,Gilmartin Patricia A,Dir,S - Sale+OE,$14.50,-12000,7729,-61%,"-$174,000",0.0,2.0,-4.0,11.0,DGICA
+213,,2016-01-04 16:15:41,2016-01-04,DGICA,Nikolaus Donald H,See Remarks,A - Grant,$14.08,500,673820,0%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+214,,2016-01-04 08:45:35,2016-01-04,DGICA,Greenya Cyril J,SVP,A - Grant,$14.08,500,7451,+7%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+215,,2016-01-04 08:40:42,2016-01-04,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",A - Grant,$14.08,500,3288,+18%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+216,,2016-01-04 08:33:43,2016-01-04,DGICA,Wampler Richard D II,Dir,A - Grant,$14.08,500,6040,+9%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+217,,2016-01-04 08:30:06,2016-01-04,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$14.08,500,14655,+4%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+218,,2016-01-04 08:26:32,2016-01-04,DGICA,Mahan Jon Marshall,Dir,A - Grant,$14.08,500,4988,+11%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+219,,2016-01-04 08:23:06,2016-01-04,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$14.08,500,7736,+7%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+220,,2016-01-04 08:20:29,2016-01-04,DGICA,Huber Barry C,Dir,A - Grant,$14.08,500,4867,+11%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+221,,2016-01-04 08:17:31,2016-01-04,DGICA,Hess Jack Lee,Dir,A - Grant,$14.08,500,16580,+3%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+222,,2016-01-04 08:14:19,2016-01-04,DGICA,Glatfelter Philip H II,Dir,A - Grant,$14.08,500,16225,+3%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+223,,2016-01-04 08:09:13,2016-01-04,DGICA,Gilmartin Patricia A,Dir,A - Grant,$14.08,500,7729,+7%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+224,A,2016-01-04 08:06:58,2016-01-04,DGICA,Bolinger Robert S,Dir,A - Grant,$14.08,500,9560,+6%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+225,A,2016-01-04 08:03:21,2016-01-04,DGICA,Berlucchi Scott Andrew,Dir,A - Grant,$14.08,500,3655,+16%,"+$7,040",0.0,-2.0,5.0,18.0,DGICA
+226,,2016-01-04 07:55:24,2016-01-04,DGICA,Bolinger Robert S,Dir,A - Grant,$14.08,400,9460,+4%,"+$5,632",0.0,-2.0,5.0,18.0,DGICA
+227,,2016-01-04 07:52:05,2016-01-04,DGICA,Berlucchi Scott Andrew,Dir,A - Grant,$14.08,400,3555,+13%,"+$5,632",0.0,-2.0,5.0,18.0,DGICA
+228,,2015-12-22 14:11:45,2015-12-18,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$17.85,2075000,14498064,+17%,"+$37,037,500",3.0,6.0,-3.0,20.0,DGICA
+229,,2015-12-21 17:30:37,2015-12-21,DGICA,Shepard Gregory M,10%,S - Sale,$17.19,-4075000,0,-100%,"-$70,037,500",3.0,4.0,-6.0,20.0,DGICA
+230,,2015-09-02 09:08:38,2015-09-01,DGICA,Pandey Sanjay,SVP,P - Purchase,$14.56,3435,3740,>999%,"+$50,014",0.0,-3.0,-2.0,7.0,DGICA
+231,,2015-08-31 09:26:41,2015-08-27,DGICA,Burke Kevin Gerard,"Pres, Chief Exec Officer",P - Purchase,$14.34,2136,2719,+366%,"+$30,630",0.0,-6.0,-3.0,7.0,DGICA
+232,,2015-08-06 09:00:43,2015-08-05,DGICA,Wagner Daniel J,"SVP, Treasurer",P - Purchase,$14.52,687,58952,+1%,"+$9,975",0.0,-2.0,-3.0,3.0,DGICA
+233,D,2015-06-11 13:03:19,2015-06-10,DGICA,Wampler Richard D II,Dir,M - OptEx,$14.00,10000,5507,-223%,"+$140,000",1.0,2.0,2.0,-4.0,DGICA
+234,D,2015-06-11 13:03:19,2015-06-10,DGICA,Wampler Richard D II,Dir,S - Sale+OE,$14.72,-10000,5507,-64%,"-$147,200",1.0,2.0,2.0,-4.0,DGICA
+235,D,2015-06-11 12:58:59,2015-06-10,DGICA,Glatfelter Philip H II,Dir,M - OptEx,$14.00,10000,15661,+177%,"+$140,000",1.0,2.0,2.0,-4.0,DGICA
+236,D,2015-06-11 12:58:59,2015-06-10,DGICA,Glatfelter Philip H II,Dir,S - Sale+OE,$14.75,-10000,15661,-39%,"-$147,500",1.0,2.0,2.0,-4.0,DGICA
+237,D,2015-06-11 12:53:47,2015-06-10,DGICA,Kraft Kevin Michael Sr,Dir,M - OptEx,$14.00,6686,7236,>999%,"+$93,604",1.0,2.0,2.0,-4.0,DGICA
+238,D,2015-06-11 12:53:47,2015-06-10,DGICA,Kraft Kevin Michael Sr,Dir,S - Sale+OE,$14.76,-6686,7236,-48%,"-$98,685",1.0,2.0,2.0,-4.0,DGICA
+239,,2015-06-05 10:01:44,2015-06-04,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.80,50000,12423064,0%,"+$740,000",0.0,1.0,1.0,-5.0,DGICA
+240,D,2015-06-05 09:49:01,2015-06-04,DGICA,Nikolaus Donald H,See Remarks,M - OptEx,$14.00,50000,667582,+8%,"+$700,000",0.0,1.0,1.0,-5.0,DGICA
+241,D,2015-06-05 09:49:01,2015-06-04,DGICA,Nikolaus Donald H,See Remarks,S - Sale+OE,$14.80,-50000,667582,-7%,"-$740,000",0.0,1.0,1.0,-5.0,DGICA
+242,D,2015-06-04 11:31:20,2015-06-04,DGICA,Berlucchi Scott Andrew,Dir,M - OptEx,$14.00,10000,3155,-146%,"+$140,000",0.0,0.0,2.0,-5.0,DGICA
+243,D,2015-06-04 11:31:20,2015-06-04,DGICA,Berlucchi Scott Andrew,Dir,S - Sale+OE,$14.81,-10000,3155,-76%,"-$148,100",0.0,0.0,2.0,-5.0,DGICA
+244,DM,2015-06-03 14:49:19,2015-06-02,DGICA,Hess Jack Lee,Dir,M - OptEx,$14.00,10000,16023,+166%,"+$140,000",0.0,-1.0,3.0,-5.0,DGICA
+245,DM,2015-06-03 14:49:19,2015-06-02,DGICA,Hess Jack Lee,Dir,S - Sale+OE,$14.90,-10000,16023,-38%,"-$149,000",0.0,-1.0,3.0,-5.0,DGICA
+246,D,2015-06-03 14:34:18,2015-06-01,DGICA,Kraft Kevin Michael Sr,Dir,M - OptEx,$14.00,3314,7236,+84%,"+$46,396",0.0,-1.0,3.0,-5.0,DGICA
+247,D,2015-06-03 14:34:18,2015-06-01,DGICA,Kraft Kevin Michael Sr,Dir,S - Sale+OE,$14.95,-3314,7236,-31%,"-$49,544",0.0,-1.0,3.0,-5.0,DGICA
+248,D,2015-06-01 14:51:35,2015-05-29,DGICA,Moore Sewell Trezevant Jr,Dir,M - OptEx,$14.00,10000,14155,+241%,"+$140,000",-1.0,0.0,1.0,-4.0,DGICA
+249,D,2015-05-26 10:42:11,2015-05-22,DGICA,Mahan Jon Marshall,Dir,M - OptEx,$14.00,1504,4488,+50%,"+$21,056",-1.0,1.0,5.0,-4.0,DGICA
+250,D,2015-05-26 10:42:11,2015-05-22,DGICA,Mahan Jon Marshall,Dir,S - Sale+OE,$14.66,-1504,4488,-25%,"-$22,049",-1.0,1.0,5.0,-4.0,DGICA
+251,,2015-05-21 17:35:08,2015-05-20,DGICA,Wagner Daniel J,"SVP, Treasurer",P - Purchase,$14.76,1694,57261,+3%,"+$25,010",-1.0,2.0,3.0,-4.0,DGICA
+252,DM,2015-05-21 17:30:29,2015-05-19,DGICA,Mahan Jon Marshall,Dir,M - OptEx,$14.00,8496,4488,-212%,"+$118,944",-1.0,2.0,3.0,-4.0,DGICA
+253,DM,2015-05-21 17:30:29,2015-05-19,DGICA,Mahan Jon Marshall,Dir,S - Sale+OE,$14.81,-8496,4488,-65%,"-$125,810",-1.0,2.0,3.0,-4.0,DGICA
+254,,2015-05-19 14:13:41,2015-05-19,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$15.11,72,12373064,0%,"+$1,088",-2.0,-4.0,1.0,-5.0,DGICA
+255,D,2015-05-19 14:07:48,2015-05-19,DGICA,Pandey Sanjay,SVP,M - OptEx,$14.00,72,204,+55%,"+$1,008",-2.0,-4.0,1.0,-5.0,DGICA
+256,D,2015-05-19 14:07:48,2015-05-19,DGICA,Pandey Sanjay,SVP,S - Sale+OE,$15.11,-72,204,-26%,"-$1,088",-2.0,-4.0,1.0,-5.0,DGICA
+257,AD,2015-05-15 09:58:37,2015-05-13,DGICA,Greenya Cyril J,SVP,M - OptEx,$14.00,50000,6846,-116%,"+$700,000",0.0,-4.0,-1.0,-5.0,DGICA
+258,AD,2015-05-15 09:58:37,2015-05-13,DGICA,Greenya Cyril J,SVP,S - Sale+OE,$15.18,-50000,6846,-88%,"-$758,800",0.0,-4.0,-1.0,-5.0,DGICA
+259,,2015-05-15 09:47:36,2015-05-13,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$15.18,50000,12372992,0%,"+$758,800",0.0,-4.0,-1.0,-5.0,DGICA
+260,D,2015-05-15 09:41:07,2015-05-13,DGICA,Greenya Cyril J,SVP,M - OptEx,$14.00,50000,6026,-114%,"+$700,000",0.0,-4.0,-1.0,-5.0,DGICA
+261,D,2015-05-15 09:41:07,2015-05-13,DGICA,Greenya Cyril J,SVP,S - Sale+OE,$15.18,-50000,6026,-89%,"-$758,800",0.0,-4.0,-1.0,-5.0,DGICA
+262,,2015-05-04 17:31:30,2015-04-30,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$15.42,125000,12322992,+1%,"+$1,927,250",0.0,0.0,-2.0,-3.0,DGICA
+263,D,2015-05-04 12:28:04,2015-04-30,DGICA,Nikolaus Donald H,See Remarks,M - OptEx,$14.00,125000,665286,+23%,"+$1,750,000",0.0,0.0,-2.0,-4.0,DGICA
+264,D,2015-05-04 12:28:04,2015-04-30,DGICA,Nikolaus Donald H,See Remarks,S - Sale+OE,$15.42,-125000,665286,-16%,"-$1,927,250",0.0,0.0,-2.0,-4.0,DGICA
+265,,2015-04-29 16:56:59,2015-04-29,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$15.45,195000,12197992,+2%,"+$3,012,360",-1.0,0.0,-2.0,-6.0,DGICA
+266,D,2015-04-29 16:51:59,2015-04-29,DGICA,Wagner Daniel J,"SVP, Treasurer",M - OptEx,$14.00,40000,55156,+264%,"+$560,000",-1.0,0.0,-2.0,-6.0,DGICA
+267,D,2015-04-29 16:51:59,2015-04-29,DGICA,Wagner Daniel J,"SVP, Treasurer",S - Sale+OE,$15.45,-40000,55156,-42%,"-$617,920",-1.0,0.0,-2.0,-6.0,DGICA
+268,D,2015-04-29 16:46:26,2015-04-29,DGICA,Shenk Robert G,SVP,M - OptEx,$14.00,50000,39499,-476%,"+$700,000",-1.0,0.0,-2.0,-6.0,DGICA
+269,D,2015-04-29 16:46:26,2015-04-29,DGICA,Shenk Robert G,SVP,S - Sale+OE,$15.45,-50000,39499,-56%,"-$772,400",-1.0,0.0,-2.0,-6.0,DGICA
+270,D,2015-04-29 16:40:32,2015-04-29,DGICA,Miller Jeffrey Dean,"EVP, CFO",M - OptEx,$14.00,55000,31590,-235%,"+$770,000",-1.0,0.0,-2.0,-6.0,DGICA
+271,D,2015-04-29 16:40:32,2015-04-29,DGICA,Miller Jeffrey Dean,"EVP, CFO",S - Sale+OE,$15.45,-55000,31590,-64%,"-$849,640",-1.0,0.0,-2.0,-6.0,DGICA
+272,D,2015-04-29 16:34:03,2015-04-29,DGICA,Burke Kevin Gerard,"EVP, COO, Acting CEO",M - OptEx,$14.00,50000,538,-101%,"+$700,000",-1.0,0.0,-2.0,-6.0,DGICA
+273,D,2015-04-29 16:34:03,2015-04-29,DGICA,Burke Kevin Gerard,"EVP, COO, Acting CEO",S - Sale+OE,$15.45,-50000,538,-99%,"-$772,400",-1.0,0.0,-2.0,-6.0,DGICA
+274,AD,2015-04-29 13:30:15,2015-03-12,DGICA,Bolinger Robert S,Dir,M - OptEx,$14.00,10000,9060,-1064%,"+$140,000",-1.0,-2.0,-3.0,-7.0,DGICA
+275,AD,2015-04-29 13:30:15,2015-03-12,DGICA,Bolinger Robert S,Dir,S - Sale+OE,$15.00,-10000,9060,-52%,"-$150,000",-1.0,-2.0,-3.0,-7.0,DGICA
+276,M,2015-03-24 16:06:24,2015-03-20,DGICA,Shepard Gregory M,10%,P - Purchase,$22.00,1335,4075000,0%,"+$29,370",-1.0,3.0,1.0,-6.0,DGICA
+277,D,2015-03-16 16:51:14,2015-03-12,DGICA,Bolinger Robert S,Dir,M - OptEx,$14.00,10000,9060,-1064%,"+$140,000",0.0,0.0,1.0,-7.0,DGICA
+278,D,2015-03-16 16:51:14,2015-03-12,DGICA,Bolinger Robert S,Dir,S - Sale+OE,$15.00,-10000,9060,-52%,"-$150,000",0.0,0.0,1.0,-7.0,DGICA
+279,,2015-02-12 17:41:59,2015-02-10,DGICA,Shepard Gregory M,10%,P - Purchase,$22.50,10,4073665,0%,+$225,0.0,1.0,-6.0,-10.0,DGICA
+280,,2015-01-30 18:22:38,2015-01-28,DGICA,Shepard Gregory M,10%,P - Purchase,$22.50,100,4073655,0%,"+$2,250",0.0,1.0,-5.0,-6.0,DGICA
+281,,2015-01-20 16:29:13,2015-01-15,DGICA,Shepard Gregory M,10%,P - Purchase,$22.00,100,4073555,0%,"+$2,200",1.0,3.0,3.0,-2.0,DGICA
+282,M,2015-01-12 17:40:18,2015-01-08,DGICA,Shepard Gregory M,10%,P - Purchase,$16.32,2100,4073455,0%,"+$34,271",0.0,-1.0,0.0,-5.0,DGICA
+283,,2015-01-02 09:06:46,2015-01-02,DGICA,Greenya Cyril J,SVP,A - Grant,$15.98,400,6846,+6%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+284,,2015-01-02 09:02:13,2015-01-02,DGICA,Burke Kevin Gerard,"EVP, COO",A - Grant,$15.98,400,538,+290%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+285,,2015-01-02 08:53:35,2015-01-02,DGICA,Nikolaus Donald H,Pres,A - Grant,$15.98,400,663518,0%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+286,,2015-01-02 08:46:13,2015-01-02,DGICA,Wampler Richard D II,Dir,A - Grant,$15.98,400,5478,+8%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+287,,2015-01-02 08:43:34,2015-01-02,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$15.98,400,4155,+11%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+288,,2015-01-02 08:40:06,2015-01-02,DGICA,Mahan Jon Marshall,Dir,A - Grant,$15.98,400,4488,+10%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+289,,2015-01-02 08:37:48,2015-01-02,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$15.98,400,7236,+6%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+290,,2015-01-02 08:35:09,2015-01-02,DGICA,Hess Jack Lee,Dir,A - Grant,$15.98,400,15972,+3%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+291,,2015-01-02 08:32:30,2015-01-02,DGICA,Glatfelter Philip H II,Dir,A - Grant,$15.98,400,15604,+3%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+292,,2015-01-02 08:29:19,2015-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$15.98,400,7229,+6%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+293,,2015-01-02 08:26:52,2015-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$15.98,400,9060,+5%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+294,,2015-01-02 08:23:08,2015-01-02,DGICA,Berlucchi Scott Andrew,Dir,A - Grant,$15.98,400,3155,+15%,"+$6,392",0.0,3.0,1.0,-4.0,DGICA
+295,M,2014-12-29 06:03:46,2014-12-22,DGICA,Shepard Gregory M,10%,P - Purchase,$21.50,1255,4071355,0%,"+$26,983",0.0,1.0,0.0,-5.0,DGICA
+296,,2014-12-19 19:07:23,2014-12-17,DGICA,Shepard Gregory M,10%,P - Purchase,$21.45,100,4070100,0%,"+$2,145",1.0,3.0,3.0,0.0,DGICA
+297,,2014-11-13 16:19:02,2014-11-13,DGICA,Hess Jack Lee,Dir,P - Purchase,$15.30,2500,15550,+19%,"+$38,250",-1.0,-1.0,0.0,0.0,DGICA
+298,,2014-09-12 09:43:17,2014-09-11,DGICA,Shenk Robert G,SVP,P - Purchase,$15.58,2246,38653,+6%,"+$34,993",-1.0,0.0,1.0,0.0,DGICA
+299,,2014-09-11 10:06:40,2014-09-09,DGICA,Shenk Robert G,SVP,P - Purchase,$15.57,4818,36407,+15%,"+$75,016",0.0,-1.0,0.0,1.0,DGICA
+300,,2014-09-09 10:51:43,2014-09-08,DGICA,Wagner Daniel J,"SVP, Treasurer",P - Purchase,$15.87,1328,53939,+3%,"+$21,069",0.0,-1.0,2.0,-2.0,DGICA
+301,,2014-09-08 09:11:32,2014-09-05,DGICA,Shenk Robert G,SVP,A - Grant,$15.56,4820,31589,+18%,"+$74,999",-2.0,-2.0,0.0,-2.0,DGICA
+302,D,2014-08-20 15:04:31,2014-08-20,DGICA,Gilmartin Patricia A,Dir,M - OptEx,$14.00,10000,6829,-315%,"+$140,000",0.0,-1.0,-4.0,4.0,DGICA
+303,D,2014-08-20 15:04:31,2014-08-20,DGICA,Gilmartin Patricia A,Dir,S - Sale+OE,$15.94,-10000,6829,-59%,"-$159,400",0.0,-1.0,-4.0,4.0,DGICA
+304,,2014-08-12 09:42:17,2014-08-08,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$15.32,-25336,659461,+4%,"-$388,148",-1.0,1.0,-1.0,5.0,DGICA
+305,M,2014-08-05 15:49:38,2014-08-04,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$25.00,11500,12002992,0%,"+$287,500",1.0,2.0,3.0,8.0,DGICA
+306,D,2014-05-08 08:59:28,2014-05-06,DGICA,Wagner Daniel J,"SVP, Treasurer",P - Purchase,$14.00,10000,50925,+24%,"+$140,000",0.0,2.0,5.0,13.0,DGICA
+307,,2014-04-30 14:33:02,2014-04-30,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$14.69,400,6836,+6%,"+$5,876",1.0,-3.0,-1.0,9.0,DGICA
+308,,2014-03-03 12:45:04,2014-02-28,DGICA,Wagner Daniel J,"SVP, Treasurer",P - Purchase,$14.52,1143,40925,+3%,"+$16,596",0.0,1.0,3.0,13.0,DGICA
+309,,2014-01-02 11:00:45,2014-01-02,DGICA,Berlucchi Scott Andrew,Dir,A - Grant,$15.90,400,2755,+17%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+310,,2014-01-02 10:58:27,2014-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$15.90,400,8660,+5%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+311,,2014-01-02 10:55:55,2014-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$15.90,400,6829,+6%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+312,,2014-01-02 10:53:42,2014-01-02,DGICA,Glatfelter Philip H II,Dir,A - Grant,$15.90,400,15092,+3%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+313,,2014-01-02 10:50:31,2014-01-02,DGICA,Hess Jack Lee,Dir,A - Grant,$15.90,400,12986,+3%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+314,,2014-01-02 10:47:53,2014-01-02,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$15.90,400,6436,+7%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+315,,2014-01-02 10:45:29,2014-01-02,DGICA,Lyons John J,Dir,A - Grant,$15.90,400,47382,+1%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+316,,2014-01-02 10:41:40,2014-01-02,DGICA,Mahan Jon Marshall,Dir,A - Grant,$15.90,400,4088,+11%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+317,,2014-01-02 10:38:55,2014-01-02,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$15.90,400,3755,+12%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+318,,2014-01-02 10:35:38,2014-01-02,DGICA,Wampler Richard D II,Dir,A - Grant,$15.90,400,5020,+9%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+319,,2014-01-02 10:29:59,2014-01-02,DGICA,Greenya Cyril J,SVP,A - Grant,$15.90,400,6344,+7%,"+$6,360",-2.0,-3.0,-7.0,-1.0,DGICA
+320,,2013-12-11 14:22:52,2013-12-11,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$23.75,6000,11991492,0%,"+$142,500",-4.0,0.0,-4.0,-12.0,DGICA
+321,M,2013-12-04 16:05:14,2013-12-02,DGICA,Shepard Gregory M,10%,P - Purchase,$15.92,70000,3672900,+2%,"+$1,114,063",-1.0,-1.0,-1.0,-6.0,DGICA
+322,,2013-12-03 08:22:01,2013-12-02,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$23.50,7000,11985492,0%,"+$164,500",5.0,13.0,12.0,11.0,DGICA
+323,M,2013-09-03 09:21:31,2013-08-29,DGICA,Shenk Robert G,SVP,P - Purchase,$13.71,4741,25463,+23%,"+$65,013",1.0,5.0,7.0,8.0,DGICA
+324,,2013-08-29 08:40:47,2013-08-28,DGICA,Shenk Robert G,SVP,P - Purchase,$13.85,2527,20722,+14%,"+$34,999",-1.0,2.0,5.0,6.0,DGICA
+325,,2013-08-28 14:18:43,2013-08-28,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$22.00,5500,11978492,0%,"+$121,000",4.0,8.0,4.0,21.0,DGICA
+326,,2013-08-28 14:12:38,2013-08-27,DGICA,Miller Jeffrey Dean,"SVP, Chief Fincl Officer",P - Purchase,$13.86,5050,28167,+22%,"+$69,993",0.0,1.0,6.0,8.0,DGICA
+327,,2013-08-28 14:07:14,2013-08-23,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$13.79,500,6036,+9%,"+$6,895",0.0,1.0,6.0,8.0,DGICA
+328,,2013-08-28 13:59:54,2013-08-27,DGICA,Wagner Daniel J,"SVP, Treasurer",P - Purchase,$13.86,1240,38342,+3%,"+$17,186",0.0,1.0,6.0,8.0,DGICA
+329,,2013-03-15 08:31:33,2013-03-14,DGICA,Miller Jeffrey Dean,"SVP, Chief Fincl Officer",P - Purchase,$14.34,4883,22187,+28%,"+$70,022",-1.0,7.0,4.0,-3.0,DGICA
+330,,2013-03-14 10:30:35,2013-03-13,DGICA,Wagner Daniel J,"SVP, Treasurer",P - Purchase,$14.22,3070,35562,+9%,"+$43,655",2.0,14.0,7.0,-1.0,DGICA
+331,,2013-01-02 09:40:53,2013-01-02,DGICA,Wampler Richard D II,Dir,A - Grant,$14.04,400,4564,+10%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+332,,2013-01-02 09:38:24,2013-01-02,DGICA,Sherbahn R Richard,Dir,A - Grant,$14.04,400,7321,+6%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+333,,2013-01-02 09:31:43,2013-01-02,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$14.04,400,3355,+14%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+334,,2013-01-02 09:27:36,2013-01-02,DGICA,Mahan Jon Marshall,Dir,A - Grant,$14.04,400,3688,+12%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+335,,2013-01-02 09:21:15,2013-01-02,DGICA,Lyons John J,Dir,A - Grant,$14.04,400,46982,+1%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+336,,2013-01-02 09:16:54,2013-01-02,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$14.04,400,5536,+8%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+337,,2013-01-02 09:09:39,2013-01-02,DGICA,Hess Jack Lee,Dir,A - Grant,$14.04,400,12516,+3%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+338,,2013-01-02 09:06:23,2013-01-02,DGICA,Glatfelter Philip H II,Dir,A - Grant,$14.04,400,14585,+3%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+339,,2013-01-02 09:03:33,2013-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$14.04,400,6429,+7%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+340,,2013-01-02 09:00:24,2013-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$14.04,400,8260,+5%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+341,,2013-01-02 08:57:00,2013-01-02,DGICA,Greenya Cyril J,"SVP, Chief Undrwtg Officer",A - Grant,$14.04,400,5837,+7%,"+$5,616",0.0,-2.0,-6.0,3.0,DGICA
+342,,2012-12-04 13:59:55,2012-12-04,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.78,500,12116,+4%,"+$6,890",0.0,1.0,-1.0,9.0,DGICA
+343,,2012-11-16 08:56:41,2012-11-14,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$22.00,9000,11972992,0%,"+$198,000",-4.0,-10.0,-13.0,2.0,DGICA
+344,,2012-08-15 16:42:40,2012-08-15,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.90,500,11963992,0%,"+$8,450",0.0,-1.0,5.0,14.0,DGICA
+345,,2012-06-27 14:40:51,2012-06-22,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$13.16,-30000,638900,+5%,"-$394,800",1.0,1.0,1.0,7.0,DGICA
+346,,2012-04-30 13:04:27,2012-04-27,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.84,1325,11574,+13%,"+$18,338",-2.0,1.0,10.0,-3.0,DGICA
+347,M,2012-03-07 08:56:38,2012-03-05,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.42,2675,10249,+35%,"+$35,909",-1.0,-1.0,-4.0,4.0,DGICA
+348,,2012-03-07 08:47:47,2012-03-05,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$21.00,8300,11963492,0%,"+$174,300",0.0,1.0,8.0,10.0,DGICA
+349,A,2012-01-03 09:34:43,2011-05-18,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.43,300,11953823,0%,"+$5,229",0.0,0.0,6.0,11.0,DGICA
+350,,2012-01-03 09:16:50,2012-01-02,DGICA,Wampler Richard D II,Dir,A - Grant,$14.16,400,4112,+11%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+351,,2012-01-03 09:12:22,2012-01-02,DGICA,Sherbahn R Richard,Dir,A - Grant,$14.16,400,6693,+6%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+352,,2012-01-03 09:09:09,2012-01-02,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$14.16,400,2955,+16%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+353,,2012-01-03 09:05:28,2012-01-02,DGICA,Mahan Jon Marshall,Dir,A - Grant,$14.16,400,3288,+14%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+354,,2012-01-03 09:02:23,2012-01-02,DGICA,Lyons John J,Dir,A - Grant,$14.16,400,46582,+1%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+355,,2012-01-03 08:56:37,2012-01-02,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$14.16,400,5136,+8%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+356,,2012-01-03 08:53:15,2012-01-02,DGICA,Hess Jack Lee,Dir,A - Grant,$14.16,400,7562,+6%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+357,,2012-01-03 08:50:01,2012-01-02,DGICA,Glatfelter Philip H II,Dir,A - Grant,$14.16,400,14081,+3%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+358,,2012-01-03 08:46:49,2012-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$14.16,400,6029,+7%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+359,,2012-01-03 08:43:52,2012-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$14.16,400,7860,+5%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+360,,2012-01-03 08:34:46,2012-01-02,DGICA,Greenya Cyril J,"SVP, Chief Undrwtg Officer",A - Grant,$14.16,400,5325,+8%,"+$5,664",5.0,-3.0,11.0,-3.0,DGICA
+361,,2011-12-23 10:57:30,2011-12-22,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$14.80,-14000,635316,+2%,"-$207,200",-1.0,-4.0,3.0,-10.0,DGICA
+362,,2011-11-15 08:31:15,2011-11-14,DGICA,Wagner Daniel J,"SVP, Treasurer",P - Purchase,$13.78,9485,29421,+48%,"+$130,703",6.0,-1.0,5.0,12.0,DGICA
+363,M,2011-11-14 15:09:52,2011-11-09,DGICA,Nikolaus Donald H,"Pres, CEO",P - Purchase,$13.65,9146,633691,+1%,"+$124,810",-1.0,3.0,2.0,10.0,DGICA
+364,,2011-11-09 16:08:41,2011-11-09,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.68,1000,7152,+16%,"+$13,680",3.0,9.0,5.0,15.0,DGICA
+365,,2011-11-09 16:05:30,2011-11-07,DGICA,Shepard Gregory M,10%,P - Purchase,$14.52,760,4000000,0%,"+$11,032",3.0,9.0,5.0,15.0,DGICA
+366,,2011-08-15 16:05:39,2011-08-11,DGICA,Shepard Gregory M,10%,P - Purchase,$18.43,40,3999960,0%,+$737,-3.0,-5.0,-5.0,26.0,DGICA
+367,,2011-08-11 14:41:24,2011-08-11,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$12.25,900,4736,+23%,"+$11,025",1.0,0.0,-5.0,27.0,DGICA
+368,,2011-08-08 10:17:38,2011-08-05,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,500,11955392,0%,"+$10,000",0.0,0.0,-22.0,-13.0,DGICA
+369,,2011-08-08 10:13:31,2011-08-05,DGICA,Miller Jeffrey Dean,"SVP, Chief Fincl Officer",P - Purchase,$13.34,7495,16504,+83%,"+$99,983",-7.0,-6.0,-9.0,18.0,DGICA
+370,M,2011-08-05 12:48:19,2011-08-03,DGICA,Wagner Daniel J,"SVP, Treasurer",P - Purchase,$12.93,19143,19936,>999%,"+$247,451",4.0,0.0,-8.0,26.0,DGICA
+371,,2011-08-05 12:42:51,2011-08-03,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$12.05,100,3836,+3%,"+$1,205",4.0,0.0,-8.0,26.0,DGICA
+372,M,2011-07-05 16:48:08,2011-06-30,DGICA,Shepard Gregory M,10%,P - Purchase,$14.91,17844,4000000,0%,"+$266,101",-1.0,-2.0,-4.0,14.0,DGICA
+373,M,2011-06-28 16:26:07,2011-06-24,DGICA,Shepard Gregory M,10%,P - Purchase,$13.29,8718,3982156,0%,"+$115,902",-2.0,-3.0,-10.0,14.0,DGICA
+374,M,2011-06-23 19:17:31,2011-06-21,DGICA,Shepard Gregory M,10%,P - Purchase,$12.55,35715,3586053,+1%,"+$448,268",-2.0,-1.0,-3.0,16.0,DGICA
+375,M,2011-06-20 16:50:24,2011-06-16,DGICA,Shepard Gregory M,10%,P - Purchase,$13.41,26326,3937723,+1%,"+$353,127",0.0,-2.0,-2.0,18.0,DGICA
+376,M,2011-06-15 17:41:56,2011-06-07,DGICA,Shepard Gregory M,10%,P - Purchase,$16.26,1261,384168,0%,"+$20,506",-1.0,2.0,-2.0,14.0,DGICA
+377,,2011-06-13 16:25:59,2011-06-13,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.25,100,11954892,0%,"+$1,625",0.0,0.0,18.0,-1.0,DGICA
+378,,2011-06-09 16:49:30,2011-06-09,DGICA,Lyons John J,Dir,P - Purchase,$13.54,1000,46182,+2%,"+$13,540",-1.0,-6.0,-7.0,7.0,DGICA
+379,M,2011-05-27 16:23:21,2011-05-25,DGICA,Shepard Gregory M,10%,P - Purchase,$13.19,14916,3910136,0%,"+$196,720",4.0,0.0,-1.0,-9.0,DGICA
+380,,2011-05-25 16:17:19,2011-05-24,DGICA,Kraft Kevin Michael Sr,Dir,P - Purchase,$13.15,1000,3736,+37%,"+$13,150",4.0,8.0,1.0,9.0,DGICA
+381,M,2011-05-24 17:10:57,2011-05-17,DGICA,Shepard Gregory M,10%,P - Purchase,$13.13,81303,3513220,+2%,"+$1,067,164",-3.0,7.0,-4.0,11.0,DGICA
+382,,2011-05-23 13:26:32,2011-05-20,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.33,2500,6141,+69%,"+$33,325",-1.0,2.0,-3.0,9.0,DGICA
+383,M,2011-05-19 16:18:38,2011-05-17,DGICA,Shepard Gregory M,10%,P - Purchase,$13.47,22924,3813917,+1%,"+$308,722",-1.0,-4.0,-5.0,11.0,DGICA
+384,,2011-05-19 10:21:06,2011-05-18,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.43,500,11954023,0%,"+$8,715",0.0,-7.0,-7.0,-7.0,DGICA
+385,M,2011-05-18 14:44:39,2011-05-16,DGICA,Hess Jack Lee,Dir,P - Purchase,$13.58,2500,3636,+220%,"+$33,944",1.0,-2.0,-6.0,5.0,DGICA
+386,M,2011-05-13 18:32:35,2011-05-11,DGICA,Shepard Gregory M,10%,P - Purchase,$13.57,12469,3790993,0%,"+$169,207",1.0,-3.0,-5.0,-1.0,DGICA
+387,M,2011-05-10 17:11:03,2011-05-06,DGICA,Shepard Gregory M,10%,P - Purchase,$13.23,12987,3778524,0%,"+$171,804",-1.0,2.0,0.0,0.0,DGICA
+388,M,2011-05-05 16:45:46,2011-04-12,DGICA,Shepard Gregory M,10%,P - Purchase,$13.21,28893,3765537,+1%,"+$381,610",1.0,2.0,3.0,-5.0,DGICA
+389,,2011-05-02 06:04:10,2011-03-29,DGICA,Shepard Gregory M,10%,P - Purchase,$0.00,0,3736644,0%,+$0,-3.0,-4.0,3.0,-7.0,DGICA
+390,A,2011-03-30 17:13:36,2010-03-08,DGIC,Shepard Gregory M,10%,P - Purchase,$0.00,0,379313,0%,+$0,,,,,DGICA
+391,M,2011-03-30 16:14:40,2010-03-05,DGICA,Shepard Gregory M,10%,P - Purchase,$0.00,0,3665069,0%,+$0,1.0,3.0,5.0,-3.0,DGICA
+392,A,2011-02-18 15:50:49,2011-01-03,DGICA,Sherbahn R Richard,Dir,A - Grant,$14.48,311,6078,+5%,"+$4,503",-1.0,-2.0,-8.0,-7.0,DGICA
+393,,2011-02-18 14:43:16,2011-01-03,DGICA,Sherbahn R Richard,Dir,A - Grant,$14.48,311,5724,+6%,"+$4,503",-1.0,-2.0,-8.0,-7.0,DGICA
+394,,2011-01-04 15:36:15,2010-12-23,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$15.28,-18430,617644,+3%,"-$281,610",-2.0,-4.0,-13.0,-16.0,DGICA
+395,A,2011-01-03 09:14:15,2011-01-03,DGICA,Bolinger Robert S,Dir,A - Grant,$14.48,311,7460,+4%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+396,,2011-01-03 09:10:32,2011-01-03,DGICA,Wampler Richard D II,Dir,A - Grant,$14.48,311,3658,+9%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+397,,2011-01-03 09:07:34,2011-01-03,DGICA,Sherbahn R Richard,Dir,A - Grant,$14.48,311,5532,+6%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+398,,2011-01-03 09:04:38,2011-01-03,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$14.48,311,2555,+14%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+399,,2011-01-03 09:01:01,2011-01-03,DGICA,Mahan Jon Marshall,Dir,A - Grant,$14.48,311,2888,+12%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+400,,2011-01-03 08:57:48,2011-01-03,DGICA,Lyons John J,Dir,A - Grant,$14.48,311,45182,+1%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+401,,2011-01-03 08:53:38,2011-01-03,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$14.48,311,2986,+12%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+402,,2011-01-03 08:49:58,2011-01-03,DGICA,Glatfelter Philip H II,Dir,A - Grant,$14.48,311,13578,+2%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+403,,2011-01-03 08:43:29,2011-01-03,DGICA,Gilmartin Patricia A,Dir,A - Grant,$14.48,311,5629,+6%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+404,,2011-01-03 08:36:24,2011-01-03,DGICA,Garcia Philip A,Dir,A - Grant,$14.48,311,622,+100%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+405,,2011-01-03 08:32:50,2011-01-03,DGICA,Bolinger Robert S,Dir,A - Grant,$14.48,311,6010,+5%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+406,,2011-01-03 08:24:07,2011-01-03,DGICA,Greenya Cyril J,"SVP, Chief Undwrtg Officer",A - Grant,$14.48,311,4811,+7%,"+$4,503",6.0,3.0,-7.0,-9.0,DGICA
+407,,2010-12-07 17:59:11,2010-12-06,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.26,301,12553523,0%,"+$5,195",0.0,0.0,1.0,-7.0,DGICA
+408,,2010-11-19 13:22:18,2010-11-18,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,2616,12553222,0%,"+$52,320",5.0,5.0,14.0,7.0,DGICA
+409,,2010-09-15 14:08:40,2010-09-14,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,5450,12550606,0%,"+$109,000",0.0,5.0,-5.0,9.0,DGICA
+410,,2010-09-15 14:05:08,2010-09-14,DGICB,Shenk Robert G,SVP - Claims,S - Sale,$20.00,-5450,16024,-25%,"-$109,000",0.0,5.0,-5.0,9.0,DGICA
+411,,2010-08-25 09:12:58,2010-08-25,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,9738,12545156,0%,"+$194,760",0.0,0.0,16.0,22.0,DGICA
+412,,2010-01-04 09:48:20,2010-01-04,DGICA,Wampler Richard D II,Dir,A - Grant,$15.54,311,3297,+10%,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+413,,2010-01-04 09:44:38,2010-01-04,DGICA,Sherbahn R Richard,Dir,A - Grant,$15.54,311,5221,+6%,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+414,,2010-01-04 09:41:51,2010-01-04,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$15.54,311,2244,+16%,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+415,,2010-01-04 09:36:00,2010-01-04,DGICA,Mahan Jon Marshall,Dir,A - Grant,$15.54,311,2577,+14%,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+416,,2010-01-04 09:33:23,2010-01-04,DGICA,Lyons John J,Dir,A - Grant,$15.54,311,44871,+1%,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+417,,2010-01-04 09:26:51,2010-01-04,DGICA,Kraft Kevin Michael Sr,Dir,A - Grant,$15.54,311,2675,+13%,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+418,,2010-01-04 09:22:35,2010-01-04,DGICA,Glatfelter Philip H II,Dir,A - Grant,$15.54,311,13087,+2%,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+419,,2010-01-04 09:18:19,2010-01-04,DGICA,Gilmartin Patricia A,Dir,A - Grant,$15.54,311,5318,+6%,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+420,,2010-01-04 09:15:28,2010-01-04,DGICA,Garcia Philip A,Dir,A - Grant,$15.54,311,311,New,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+421,,2010-01-04 09:12:21,2010-01-04,DGICA,Bolinger Robert S,Dir,A - Grant,$15.54,311,7149,+5%,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+422,,2010-01-04 09:00:24,2010-01-04,DGICA,Greenya Cyril J,"SVP, Chief Undwrtg Officer",A - Grant,$15.54,311,3559,+10%,"+$4,833",1.0,-4.0,-6.0,-20.0,DGICA
+423,,2009-03-10 15:18:19,2009-03-10,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.00,26568,12535418,0%,"+$478,224",0.0,0.0,12.0,16.0,DGICA
+424,A,2009-01-07 15:51:39,2008-12-26,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$16.62,-43334,593098,+8%,"-$720,211",0.0,-5.0,-8.0,-5.0,DGICA
+425,,2009-01-05 15:29:32,2008-12-26,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$16.62,-43334,1905892,+2%,"-$720,211",0.0,-7.0,-7.0,-7.0,DGICA
+426,,2009-01-02 08:56:53,2009-01-02,DGICA,Wampler Richard D II,Dir,A - Grant,$16.77,311,2943,+12%,"+$5,215",-3.0,-2.0,-10.0,-8.0,DGICA
+427,,2009-01-02 08:54:13,2009-01-02,DGICA,Sherbahn R Richard,Dir,A - Grant,$16.77,311,4910,+7%,"+$5,215",-3.0,-2.0,-10.0,-8.0,DGICA
+428,,2009-01-02 08:51:23,2009-01-02,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$16.77,311,1933,+19%,"+$5,215",-3.0,-2.0,-10.0,-8.0,DGICA
+429,,2009-01-02 08:47:46,2009-01-02,DGICA,Mahan Jon Marshall,Dir,A - Grant,$16.77,311,2266,+16%,"+$5,215",-3.0,-2.0,-10.0,-8.0,DGICA
+430,,2009-01-02 08:44:46,2009-01-02,DGICA,Lyons John J,Dir,A - Grant,$16.77,311,44560,+1%,"+$5,215",-3.0,-2.0,-10.0,-8.0,DGICA
+431,,2009-01-02 08:40:54,2009-01-02,DGICA,Glatfelter Philip H II,Dir,A - Grant,$16.77,311,12710,+3%,"+$5,215",-3.0,-2.0,-10.0,-8.0,DGICA
+432,,2009-01-02 08:37:39,2009-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$16.77,311,5007,+7%,"+$5,215",-3.0,-2.0,-10.0,-8.0,DGICA
+433,,2009-01-02 08:34:16,2009-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$16.77,311,6838,+5%,"+$5,215",-3.0,-2.0,-10.0,-8.0,DGICA
+434,,2009-01-02 08:19:28,2009-01-02,DGICA,Greenya Cyril J,"SVP, Chief Undrwtg Officer",A - Grant,$16.77,311,3143,+11%,"+$5,215",-3.0,-2.0,-10.0,-8.0,DGICA
+435,,2008-11-20 11:33:30,2008-11-20,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.75,20337,12508850,0%,"+$381,319",-4.0,8.0,14.0,3.0,DGICA
+436,,2008-08-25 11:26:44,2008-08-25,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.50,6964,12488513,0%,"+$142,762",0.0,1.0,-4.0,-12.0,DGICA
+437,,2008-08-12 10:55:10,2008-08-12,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$17.16,6667,12481549,0%,"+$114,406",0.0,6.0,6.0,-18.0,DGICA
+438,D,2008-08-12 10:51:15,2008-08-12,DGICA,Gilmartin Patricia A,Dir,M - OptEx,$15.75,6667,4696,-338%,"+$105,005",0.0,6.0,6.0,-18.0,DGICA
+439,D,2008-08-12 10:51:15,2008-08-12,DGICA,Gilmartin Patricia A,Dir,S - Sale+OE,$17.16,-6667,4696,-59%,"-$114,406",0.0,6.0,6.0,-18.0,DGICA
+440,,2008-07-30 14:28:40,2008-07-28,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,1001,12474882,0%,"+$20,020",1.0,1.0,5.0,-3.0,DGICA
+441,,2008-04-01 09:49:01,2008-03-28,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$17.58,25000,12473881,0%,"+$439,600",1.0,-4.0,-2.0,4.0,DGICA
+442,DM,2008-04-01 09:38:09,2008-03-28,DGICA,Nikolaus Donald H,"Pres, C.E.O.",M - OptEx,$6.75,46667,538002,+9%,"+$315,002",1.0,-4.0,-2.0,4.0,DGICA
+443,D,2008-04-01 09:38:09,2008-03-28,DGICA,Nikolaus Donald H,"Pres, C.E.O.",S - Sale+OE,$17.58,-25000,538002,-4%,"-$439,600",1.0,-4.0,-2.0,4.0,DGICA
+444,,2008-03-27 09:28:50,2008-03-26,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.50,13149,12448881,0%,"+$269,555",0.0,-4.0,-5.0,-4.0,DGICA
+445,D,2008-03-19 13:42:43,2008-03-18,DGICA,Sherbahn R Richard,Dir,M - OptEx,$6.75,2389,4599,+108%,"+$16,126",-3.0,2.0,-6.0,7.0,DGICA
+446,D,2008-03-19 13:42:43,2008-03-18,DGICA,Sherbahn R Richard,Dir,S - Sale+OE,$16.75,-2389,4599,-34%,"-$40,016",-3.0,2.0,-6.0,7.0,DGICA
+447,,2008-03-17 16:25:12,2008-03-14,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$17.02,70000,12435732,+1%,"+$1,191,400",6.0,6.0,3.0,13.0,DGICA
+448,D,2008-03-17 16:16:13,2008-03-14,DGICA,Nikolaus Donald H,"Pres, CEO",M - OptEx,$6.75,70000,516335,+16%,"+$472,500",6.0,6.0,3.0,13.0,DGICA
+449,D,2008-03-17 16:16:13,2008-03-14,DGICA,Nikolaus Donald H,"Pres, CEO",S - Sale+OE,$17.02,-70000,516335,-12%,"-$1,191,400",6.0,6.0,3.0,13.0,DGICA
+450,D,2008-03-17 11:30:36,2008-03-13,DGICA,Lyons John J,Dir,M - OptEx,$6.75,8889,44249,+25%,"+$60,001",3.0,9.0,6.0,16.0,DGICA
+451,,2008-01-10 17:26:36,2008-01-10,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,1000,12365732,0%,"+$20,000",6.0,0.0,-2.0,-4.0,DGICA
+452,,2008-01-02 13:31:48,2008-01-02,DGICA,Wampler Richard D II,Dir,A - Grant,$17.17,311,2598,+14%,"+$5,340",-3.0,-5.0,1.0,-2.0,DGICA
+453,,2008-01-02 13:28:52,2008-01-02,DGICA,Sherbahn R Richard,Dir,A - Grant,$17.17,311,4599,+7%,"+$5,340",-3.0,-5.0,1.0,-2.0,DGICA
+454,,2008-01-02 13:25:04,2008-01-02,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$17.17,311,1622,+24%,"+$5,340",-3.0,-5.0,1.0,-2.0,DGICA
+455,,2008-01-02 13:20:17,2008-01-02,DGICA,Mahan Jon Marshall,Dir,A - Grant,$17.17,311,1955,+19%,"+$5,340",-3.0,-5.0,1.0,-2.0,DGICA
+456,,2008-01-02 13:17:20,2008-01-02,DGICA,Lyons John J,Dir,A - Grant,$17.17,311,35360,+1%,"+$5,340",-3.0,-5.0,1.0,-2.0,DGICA
+457,,2008-01-02 13:11:33,2008-01-02,DGICA,Glatfelter Philip H II,Chairman of the Board,A - Grant,$17.17,311,12344,+3%,"+$5,340",-3.0,-5.0,1.0,-2.0,DGICA
+458,,2008-01-02 13:07:37,2008-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$17.17,311,4696,+7%,"+$5,340",-3.0,-5.0,1.0,-2.0,DGICA
+459,,2008-01-02 13:05:04,2008-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$17.17,311,6527,+5%,"+$5,340",-3.0,-5.0,1.0,-2.0,DGICA
+460,A,2008-01-02 12:55:37,2008-01-02,DGICA,Greenya Cyril J,"SVP, Chief Undrwrtg Officr",A - Grant,$17.17,311,3558,+10%,"+$5,340",-3.0,-5.0,1.0,-2.0,DGICA
+461,,2008-01-02 11:27:29,2008-01-02,DGICA,Greenya Cyril J,"SVP, Chief Undrwrtg Officr",A - Grant,$17.17,311,2738,+13%,"+$5,340",-3.0,-5.0,1.0,-2.0,DGICA
+462,DM,2007-12-26 10:50:04,2007-12-20,DGICA,Greenya Cyril J,"SVP, Chief Undrwrtg Officr",M - OptEx,$6.75,12903,3197,-133%,"+$87,095",-1.0,-7.0,-6.0,-8.0,DGICA
+463,DM,2007-12-26 10:50:04,2007-12-20,DGICA,Greenya Cyril J,"SVP, Chief Undrwrtg Officr",S - Sale+OE,$17.29,-12903,3197,-80%,"-$223,102",-1.0,-7.0,-6.0,-8.0,DGICA
+464,,2007-12-21 11:23:43,2007-12-19,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$17.22,-25922,564884,+5%,"-$446,336",2.0,-2.0,2.0,-5.0,DGICA
+465,D,2007-12-19 16:33:32,2007-12-18,DGICA,Greenya Cyril J,"SVP, Chief Undrwrtng Offcr",M - OptEx,$6.75,3203,2377,-388%,"+$21,620",3.0,6.0,-1.0,2.0,DGICA
+466,D,2007-12-19 16:33:32,2007-12-18,DGICA,Greenya Cyril J,"SVP, Chief Undrwrtng Offcr",S - Sale+OE,$17.25,-3203,2377,-57%,"-$55,252",3.0,6.0,-1.0,2.0,DGICA
+467,DM,2007-12-13 16:13:00,2007-12-11,DGICA,Shenk Robert G,SVP - Claims,M - OptEx,$6.75,11333,20212,+128%,"+$76,498",-2.0,-1.0,-3.0,0.0,DGICA
+468,DM,2007-12-13 16:13:00,2007-12-11,DGICA,Shenk Robert G,SVP - Claims,S - Sale+OE,$17.65,-11333,20212,-36%,"-$200,027",-2.0,-1.0,-3.0,0.0,DGICA
+469,,2007-11-28 16:54:26,2007-11-28,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$17.38,25000,12364732,0%,"+$434,450",0.0,-4.0,-3.0,4.0,DGICA
+470,D,2007-11-28 16:28:22,2007-11-28,DGICA,Nikolaus Donald H,"Pres, CEO",M - OptEx,$6.75,25000,562955,+5%,"+$168,750",0.0,-4.0,-3.0,4.0,DGICA
+471,D,2007-11-28 16:28:22,2007-11-28,DGICA,Nikolaus Donald H,"Pres, CEO",S - Sale+OE,$17.38,-25000,562955,-4%,"-$434,450",0.0,-4.0,-3.0,4.0,DGICA
+472,,2007-11-19 15:36:43,2007-11-16,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$17.39,50000,12339732,0%,"+$869,600",-1.0,1.0,1.0,-2.0,DGICA
+473,D,2007-11-19 15:17:45,2007-11-16,DGICA,Nikolaus Donald H,"Pres, CEO",M - OptEx,$6.75,50000,562955,+10%,"+$337,500",-1.0,1.0,1.0,-2.0,DGICA
+474,D,2007-11-19 15:17:45,2007-11-16,DGICA,Nikolaus Donald H,"Pres, CEO",S - Sale+OE,$17.39,-50000,562955,-8%,"-$869,600",-1.0,1.0,1.0,-2.0,DGICA
+475,,2007-11-19 09:28:31,2007-11-15,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.50,10748,12289732,0%,"+$220,334",0.0,0.0,-1.0,-2.0,DGICA
+476,,2007-11-14 16:56:44,2007-11-14,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,500,12278984,0%,"+$10,000",0.0,0.0,0.0,-2.0,DGICA
+477,,2007-11-06 12:53:58,2007-11-06,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$16.93,15000,12278484,0%,"+$253,950",3.0,4.0,4.0,1.0,DGICA
+478,D,2007-11-06 12:51:01,2007-11-06,DGICA,Greenya Cyril J,"SVP, Chief Undrwtg Officer",M - OptEx,$6.75,15000,3197,-127%,"+$101,250",3.0,4.0,4.0,1.0,DGICA
+479,D,2007-11-06 12:51:01,2007-11-06,DGICA,Greenya Cyril J,"SVP, Chief Undrwtg Officer",S - Sale+OE,$16.93,-15000,3197,-82%,"-$253,950",3.0,4.0,4.0,1.0,DGICA
+480,,2007-11-01 08:48:57,2007-10-31,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$17.54,12000,12263484,0%,"+$210,480",-6.0,-6.0,-2.0,-1.0,DGICA
+481,D,2007-11-01 08:44:20,2007-10-31,DGICA,Shenk Robert G,SVP - Claims,M - OptEx,$6.75,12000,20212,+146%,"+$81,000",-6.0,-6.0,-2.0,-1.0,DGICA
+482,D,2007-11-01 08:44:20,2007-10-31,DGICA,Shenk Robert G,SVP - Claims,S - Sale+OE,$17.54,-12000,20212,-37%,"-$210,480",-6.0,-6.0,-2.0,-1.0,DGICA
+483,,2007-10-31 11:14:16,2007-10-31,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,6942,12251484,0%,"+$138,840",0.0,-5.0,-4.0,0.0,DGICA
+484,AD,2007-10-30 08:57:56,2007-10-26,DGICA,Bolinger Robert S,Dir,M - OptEx,$6.75,8889,6216,-333%,"+$60,001",-1.0,-5.0,-1.0,-2.0,DGICA
+485,AD,2007-10-30 08:57:56,2007-10-26,DGICA,Bolinger Robert S,Dir,S - Sale+OE,$17.70,-8889,6216,-59%,"-$157,335",-1.0,-5.0,-1.0,-2.0,DGICA
+486,D,2007-10-29 17:18:02,2007-10-26,DGICA,Bolinger Robert S,Dir,M - OptEx,$6.75,8889,6216,-333%,"+$60,001",-1.0,-7.0,-3.0,-2.0,DGICA
+487,D,2007-10-29 17:18:02,2007-10-26,DGICA,Bolinger Robert S,Dir,S - Sale+OE,$17.00,-8889,6216,-59%,"-$151,113",-1.0,-7.0,-3.0,-2.0,DGICA
+488,,2007-10-22 15:08:38,2007-10-22,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,177,12244542,0%,"+$3,363",0.0,2.0,-1.0,-3.0,DGICA
+489,,2007-10-04 14:29:32,2007-10-04,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,15485,12244365,0%,"+$309,700",0.0,0.0,-1.0,-5.0,DGICA
+490,,2007-09-28 14:27:51,2007-09-28,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$16.74,2500,12228880,0%,"+$41,850",-4.0,-2.0,5.0,4.0,DGICA
+491,D,2007-09-28 14:22:54,2007-09-28,DGICA,Sherbahn R Richard,Dir,M - OptEx,$6.75,2500,3611,+225%,"+$16,875",-4.0,-2.0,5.0,4.0,DGICA
+492,D,2007-09-28 14:22:54,2007-09-28,DGICA,Sherbahn R Richard,Dir,S - Sale+OE,$16.74,-2500,3611,-41%,"-$41,850",-4.0,-2.0,5.0,4.0,DGICA
+493,,2007-09-17 16:07:19,2007-09-14,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.19,13000,12226380,0%,"+$249,470",-2.0,-4.0,-6.0,-6.0,DGICA
+494,,2007-09-10 14:10:08,2007-09-10,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$18.31,36267,12213380,0%,"+$664,008",2.0,2.0,8.0,14.0,DGICA
+495,,2007-09-05 10:41:11,2007-09-04,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,1000,12177113,0%,"+$19,000",0.0,3.0,3.0,-1.0,DGICA
+496,,2007-08-31 11:08:54,2007-08-31,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,887,12176113,0%,"+$16,853",-4.0,-3.0,1.0,-4.0,DGICA
+497,,2007-08-31 10:43:38,2007-08-31,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,2646,12175226,0%,"+$50,274",-4.0,-3.0,1.0,-4.0,DGICA
+498,,2007-08-30 16:05:59,2007-08-30,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.85,8500,12172580,0%,"+$160,225",-4.0,-3.0,-4.0,3.0,DGICA
+499,,2007-08-27 13:21:43,2007-08-27,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,2336,12164080,0%,"+$44,384",0.0,0.0,8.0,1.0,DGICA
+500,,2007-08-20 10:40:32,2007-08-17,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.00,5500,12161744,0%,"+$99,000",0.0,0.0,5.0,6.0,DGICA
+501,,2007-08-06 11:35:09,2007-08-03,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.70,606,12156244,0%,"+$10,725",-4.0,2.0,5.0,5.0,DGICA
+502,M,2007-08-03 10:35:12,2007-08-01,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.47,1002,12155638,0%,"+$17,500",-2.0,-3.0,1.0,3.0,DGICA
+503,,2007-07-30 08:38:34,2007-07-27,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,4088,12154636,0%,"+$77,672",-4.0,1.0,3.0,5.0,DGICA
+504,,2007-07-26 16:04:11,2007-07-26,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,4500,12150548,0%,"+$85,500",0.0,-4.0,3.0,5.0,DGICA
+505,,2007-07-25 07:49:29,2007-07-24,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,1066,12146048,0%,"+$20,254",0.0,-11.0,-2.0,-1.0,DGICA
+506,,2007-07-20 16:29:05,2007-07-20,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,8218,12144982,0%,"+$156,142",8.0,-1.0,2.0,5.0,DGICA
+507,,2007-07-02 09:25:42,2007-06-29,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.40,88,12136764,0%,"+$1,443",0.0,0.0,1.0,17.0,DGICA
+508,,2007-06-29 09:38:29,2007-06-28,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$14.87,2800,12136676,0%,"+$41,636",-2.0,2.0,-4.0,12.0,DGICA
+509,,2007-06-26 09:26:24,2007-06-22,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.62,131,12133876,0%,"+$2,177",0.0,-2.0,8.0,14.0,DGICA
+510,,2007-06-08 14:02:56,2007-06-08,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,1004,12133745,0%,"+$19,076",0.0,-2.0,-3.0,11.0,DGICA
+511,,2007-06-07 09:54:12,2007-06-06,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.55,53,12132741,0%,+$877,0.0,0.0,-3.0,11.0,DGICA
+512,,2007-06-04 10:42:58,2007-06-01,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.04,346,12132688,0%,"+$5,897",0.0,0.0,-2.0,9.0,DGICA
+513,,2007-05-31 14:09:53,2007-05-30,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.50,200,12132342,0%,"+$3,300",0.0,2.0,-1.0,11.0,DGICA
+514,,2007-05-29 08:31:03,2007-05-24,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.98,66279,12132142,+1%,"+$1,258,119",0.0,3.0,2.0,12.0,DGICA
+515,,2007-05-03 09:33:46,2007-05-02,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.97,356,12065863,0%,"+$6,040",-1.0,-2.0,-1.0,13.0,DGICA
+516,,2007-04-27 11:15:42,2007-04-26,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.14,197,12065507,0%,"+$3,377",0.0,-1.0,-3.0,12.0,DGICA
+517,,2007-04-26 09:46:24,2007-04-25,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.54,197,12065310,0%,"+$3,455",-1.0,-1.0,-4.0,15.0,DGICA
+518,,2007-04-25 15:04:38,2007-04-25,DGICB,Moore Sewell Trezevant Jr,Dir,P - Purchase,$17.39,1000,1311,+322%,"+$17,392",2.0,0.0,1.0,11.0,DGICA
+519,,2007-04-04 15:23:21,2007-04-04,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,35700,12065113,0%,"+$714,000",0.0,1.0,-1.0,12.0,DGICA
+520,M,2007-03-29 09:32:14,2007-03-27,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.55,790,12029413,0%,"+$13,867",0.0,-2.0,-2.0,10.0,DGICA
+521,,2007-03-14 09:25:23,2007-03-13,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.54,410,12028623,0%,"+$7,191",-1.0,-1.0,-2.0,10.0,DGICA
+522,,2007-03-13 10:26:46,2007-03-13,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,1392,12028213,0%,"+$26,448",-1.0,-2.0,-2.0,5.0,DGICA
+523,,2007-03-12 11:26:59,2007-03-09,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.75,274,12026821,0%,"+$4,862",0.0,-2.0,-2.0,5.0,DGICA
+524,,2007-03-08 11:35:53,2007-03-07,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.73,274,12026547,0%,"+$4,858",0.0,-2.0,-3.0,5.0,DGICA
+525,,2007-03-05 07:28:46,2007-03-01,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.25,119,12026273,0%,"+$2,053",0.0,3.0,0.0,11.0,DGICA
+526,,2007-03-01 10:28:39,2007-02-28,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.87,33,12026154,0%,+$557,-1.0,1.0,0.0,4.0,DGICA
+527,,2007-02-27 10:31:19,2007-02-26,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.60,119,12026121,0%,"+$2,094",-4.0,-3.0,-2.0,2.0,DGICA
+528,,2007-02-16 13:18:57,2007-02-16,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.00,41892,12026003,0%,"+$795,948",-4.0,-4.0,-5.0,0.0,DGICA
+529,A,2007-02-15 13:41:01,2007-01-02,DGICA,Lyons John J,Dir,A - Grant,$19.59,311,35049,+1%,"+$6,092",-2.0,-5.0,-11.0,-23.0,DGICA
+530,,2007-01-03 07:59:26,2007-01-02,DGICA,Wampler Richard D II,Dir,A - Grant,$19.59,311,2264,+16%,"+$6,092",2.0,-5.0,-2.0,-23.0,DGICA
+531,,2007-01-03 07:56:43,2007-01-02,DGICA,Sherbahn R Richard,Dir,A - Grant,$19.59,311,3122,+11%,"+$6,092",2.0,-5.0,-2.0,-23.0,DGICA
+532,,2007-01-03 07:52:58,2007-01-02,DGICA,Moore Sewell Trezevant Jr,Dir,A - Grant,$19.59,311,311,New,"+$6,092",2.0,-5.0,-2.0,-23.0,DGICA
+533,,2007-01-03 07:45:34,2007-01-02,DGICA,Mahan Jon Marshall,Dir,A - Grant,$19.59,311,1644,+23%,"+$6,092",2.0,-5.0,-2.0,-23.0,DGICA
+534,,2007-01-03 07:43:02,2007-01-02,DGICA,Lyons John J,Dir,A - Grant,$19.59,311,34164,+1%,"+$6,092",2.0,-5.0,-2.0,-23.0,DGICA
+535,,2007-01-03 07:40:18,2007-01-02,DGICA,Glatfelter Philip H II,COB,A - Grant,$19.59,311,8622,+4%,"+$6,092",2.0,-5.0,-2.0,-23.0,DGICA
+536,,2007-01-03 07:37:26,2007-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$19.59,311,4385,+8%,"+$6,092",2.0,-5.0,-2.0,-23.0,DGICA
+537,,2007-01-03 07:34:25,2007-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$19.59,311,4766,+7%,"+$6,092",2.0,-5.0,-2.0,-23.0,DGICA
+538,,2007-01-03 07:30:09,2007-01-02,DGICA,Greenya Cyril J,"SVP, Chief Undwrtg Officer",A - Grant,$19.59,311,2326,+15%,"+$6,092",2.0,-5.0,-2.0,-23.0,DGICA
+539,M,2006-12-22 11:02:54,2006-12-20,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$19.89,76300,11984111,+1%,"+$1,517,400",0.0,-2.0,-10.0,-24.0,DGICA
+540,D,2006-12-22 10:37:35,2006-12-20,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$20.08,-60452,369800,+20%,"-$1,213,876",0.0,-2.0,-10.0,-24.0,DGICA
+541,D,2006-12-22 10:37:35,2006-12-20,DGICA,Nikolaus Donald H,"Pres, CEO",M - OptEx,$6.75,75000,369800,+25%,"+$506,250",0.0,-2.0,-10.0,-24.0,DGICA
+542,D,2006-12-22 10:37:35,2006-12-20,DGICA,Nikolaus Donald H,"Pres, CEO",S - Sale+OE,$19.92,-75000,369800,-17%,"-$1,494,000",0.0,-2.0,-10.0,-24.0,DGICA
+543,,2006-12-20 11:17:31,2006-12-20,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,1166,3849926,0%,"+$23,320",0.0,0.0,-6.0,-6.0,DGICA
+544,M,2006-11-27 12:55:13,2006-11-22,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.98,268,3848760,0%,"+$4,549",0.0,0.0,6.0,-2.0,DGICA
+545,D,2006-11-22 14:29:53,2006-11-21,DGICA,Gilmartin Patricia A,Dir,M - OptEx,$15.75,3333,4074,+450%,"+$52,495",0.0,-1.0,1.0,-23.0,DGICA
+546,D,2006-11-22 14:29:53,2006-11-21,DGICA,Gilmartin Patricia A,Dir,S - Sale+OE,$19.68,-3333,4074,-45%,"-$65,593",0.0,-1.0,1.0,-23.0,DGICA
+547,,2006-11-22 14:21:07,2006-11-21,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$19.56,3467,11906377,0%,"+$67,806",0.0,-1.0,1.0,-23.0,DGICA
+548,,2006-11-20 09:04:18,2006-11-17,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.00,7566,3848358,0%,"+$151,320",-2.0,-1.0,5.0,0.0,DGICA
+549,M,2006-11-14 08:40:49,2006-11-10,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.97,153,3840792,0%,"+$2,597",0.0,-1.0,4.0,0.0,DGICA
+550,,2006-11-13 08:49:26,2006-11-10,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.00,2554,3840639,0%,"+$45,972",0.0,1.0,4.0,1.0,DGICA
+551,,2006-11-08 11:04:26,2006-11-06,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.57,156,3838085,0%,"+$2,741",0.0,0.0,4.0,2.0,DGICA
+552,,2006-11-02 11:25:32,2006-11-01,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.71,106,3837929,0%,"+$1,877",0.0,-3.0,-2.0,-1.0,DGICA
+553,,2006-10-27 15:56:58,2006-10-26,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.54,112,3837823,0%,"+$1,964",-1.0,-2.0,-4.0,-4.0,DGICA
+554,,2006-10-02 13:37:46,2006-09-29,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.00,174,3837712,0%,"+$3,132",0.0,0.0,0.0,-4.0,DGICA
+555,D,2006-09-18 08:52:04,2006-09-14,DGICA,Glatfelter Philip H II,COB,M - OptEx,$6.75,3556,8311,+75%,"+$24,003",-5.0,-7.0,0.0,-14.0,DGICA
+556,D,2006-09-18 08:52:04,2006-09-14,DGICA,Glatfelter Philip H II,COB,S - Sale+OE,$19.97,-3556,8311,-30%,"-$71,007",-5.0,-7.0,0.0,-14.0,DGICA
+557,,2006-09-12 16:04:30,2006-09-11,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$17.75,124,3837538,0%,"+$2,201",2.0,3.0,-6.0,-5.0,DGICA
+558,,2006-09-06 13:09:19,2006-09-05,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.30,225,3837414,0%,"+$3,668",2.0,13.0,4.0,10.0,DGICA
+559,,2006-08-28 14:16:05,2006-08-25,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$15.85,316,3837189,0%,"+$5,009",0.0,3.0,12.0,12.0,DGICA
+560,,2006-08-16 11:12:39,2006-08-15,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.47,330,3836873,0%,"+$5,435",0.0,-1.0,15.0,11.0,DGICA
+561,,2006-08-15 13:45:44,2006-08-15,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.50,680,3836543,0%,"+$11,220",4.0,2.0,19.0,15.0,DGICA
+562,,2006-08-09 14:34:46,2006-08-08,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.25,26425,3835863,+1%,"+$508,681",0.0,3.0,6.0,13.0,DGICA
+563,,2006-08-07 10:57:34,2006-08-04,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.74,347,3809438,0%,"+$5,810",0.0,-2.0,0.0,11.0,DGICA
+564,,2006-08-03 09:05:01,2006-08-02,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$16.74,347,3809091,0%,"+$5,808",-3.0,-4.0,-1.0,8.0,DGICA
+565,,2006-08-02 09:34:03,2006-07-31,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$19.18,13680,11863296,0%,"+$262,403",1.0,-4.0,-2.0,3.0,DGICA
+566,D,2006-08-02 09:26:53,2006-07-31,DGICA,Miller Jeffrey Dean,"SVP, Chief Fincl Officer",M - OptEx,$6.75,13333,1472,-112%,"+$89,998",1.0,-4.0,-2.0,3.0,DGICA
+567,D,2006-08-02 09:26:53,2006-07-31,DGICA,Miller Jeffrey Dean,"SVP, Chief Fincl Officer",S - Sale+OE,$19.25,-13333,1472,-90%,"-$256,660",1.0,-4.0,-2.0,3.0,DGICA
+568,D,2006-06-30 09:21:16,2006-06-29,DGICA,Lyons John J,Dir,M - OptEx,$7.88,8889,33853,+36%,"+$70,001",-6.0,-5.0,-3.0,0.0,DGICA
+569,D,2006-06-29 11:14:34,2006-06-28,DGICA,Nikolaus Donald H,"Pres, CEO",M - OptEx,$7.88,77777,275556,+39%,"+$612,494",1.0,-4.0,1.0,5.0,DGICA
+570,,2006-06-28 11:01:04,2006-06-27,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.70,736,3808397,0%,"+$13,763",1.0,-6.0,-7.0,0.0,DGICA
+571,,2006-06-28 10:42:21,2006-06-27,DGICB,Gilmartin Patricia A,Dir,S - Sale,$18.70,-736,0,-100%,"-$13,763",1.0,-6.0,-7.0,0.0,DGICA
+572,D,2006-06-26 15:18:46,2006-06-22,DGICA,Greenya Cyril J,SVP,M - OptEx,$6.75,4450,1981,-180%,"+$30,038",1.0,4.0,2.0,8.0,DGICA
+573,D,2006-06-26 15:18:46,2006-06-22,DGICA,Greenya Cyril J,SVP,S - Sale+OE,$18.51,-4450,1981,-69%,"-$82,370",1.0,4.0,2.0,8.0,DGICA
+574,,2006-06-26 15:06:57,2006-06-22,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$18.51,4450,8041219,0%,"+$82,370",1.0,4.0,2.0,8.0,DGICA
+575,,2006-06-20 13:36:21,2006-06-20,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$18.81,30000,8036769,0%,"+$564,300",-2.0,2.0,0.0,7.0,DGICA
+576,D,2006-06-20 13:33:09,2006-06-20,DGICA,Shenk Robert G,SVP - Claims,M - OptEx,$6.75,30000,14728,-196%,"+$202,500",-2.0,2.0,0.0,7.0,DGICA
+577,D,2006-06-20 13:33:09,2006-06-20,DGICA,Shenk Robert G,SVP - Claims,S - Sale+OE,$18.81,-30000,14728,-67%,"-$564,300",-2.0,2.0,0.0,7.0,DGICA
+578,,2006-06-08 16:38:58,2006-06-07,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$18.20,13333,8006769,0%,"+$242,661",2.0,2.0,5.0,10.0,DGICA
+579,D,2006-06-08 16:33:39,2006-06-07,DGICA,Wagner Daniel J,"SVP, Treasurer",C - Converted deriv,$6.75,13333,627,-96%,"$89,998",2.0,2.0,5.0,10.0,DGICA
+580,D,2006-06-08 16:33:39,2006-06-07,DGICA,Wagner Daniel J,"SVP, Treasurer",S - Sale+OE,$18.20,-13333,627,-96%,"-$242,661",2.0,2.0,5.0,10.0,DGICA
+581,,2006-05-31 09:13:00,2006-05-26,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$18.62,13333,11801095,0%,"+$248,260",4.0,1.0,9.0,9.0,DGICA
+582,D,2006-05-31 08:55:53,2006-05-26,DGICA,Greenya Cyril J,"SVP, Chief Underwr Officer",C - Converted deriv,$7.88,13333,2801,-83%,"$104,997",4.0,1.0,9.0,9.0,DGICA
+583,D,2006-05-31 08:55:53,2006-05-26,DGICA,Greenya Cyril J,"SVP, Chief Underwr Officer",S - Sale+OE,$18.62,-13333,2801,-83%,"-$248,260",4.0,1.0,9.0,9.0,DGICA
+584,,2006-05-26 11:16:36,2006-05-25,DGICB,Nikolaus Donald H,"Presient, CEO",P - Purchase,$17.50,1000,139580,+1%,"+$17,500",-3.0,-2.0,-1.0,0.0,DGICA
+585,,2006-03-24 10:01:59,2006-03-24,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$22.58,5242,2855745,0%,"+$118,343",0.0,7.0,6.0,5.0,DGICA
+586,D,2006-03-16 10:33:33,2006-03-15,DGICA,Shenk Robert G,SVP Claims,C - Converted deriv,$10.50,14667,11047,-57%,"$154,004",2.0,1.0,16.0,20.0,DGICA
+587,D,2006-03-16 10:33:33,2006-03-15,DGICA,Shenk Robert G,SVP Claims,S - Sale+OE,$23.47,-14667,11047,-57%,"-$344,234",2.0,1.0,16.0,20.0,DGICA
+588,D,2006-03-13 16:14:26,2006-03-10,DGICA,Shenk Robert G,SVP Claims,C - Converted deriv,$10.50,2000,11047,-15%,"$21,000",5.0,6.0,19.0,19.0,DGICA
+589,D,2006-03-13 16:14:26,2006-03-10,DGICA,Shenk Robert G,SVP Claims,S - Sale+OE,$23.00,-2000,11047,-15%,"-$46,000",5.0,6.0,19.0,19.0,DGICA
+590,,2006-03-09 12:50:32,2006-03-07,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$23.44,16666,5985077,0%,"+$390,651",1.0,6.0,22.0,12.0,DGICA
+591,D,2006-03-09 12:45:50,2006-03-07,DGICA,Shenk Robert G,SVP Claims,C - Converted deriv,$10.50,16666,11047,-60%,"$174,993",1.0,6.0,22.0,12.0,DGICA
+592,D,2006-03-09 12:45:50,2006-03-07,DGICA,Shenk Robert G,SVP Claims,S - Sale+OE,$23.44,-16666,11047,-60%,"-$390,651",1.0,6.0,22.0,12.0,DGICA
+593,D,2006-01-31 17:32:24,2006-01-03,DGICA,Lyons John J,Dir,A - Grant,$23.24,233,18497,+1%,"+$5,415",0.0,2.0,6.0,13.0,DGICA
+594,,2006-01-30 16:21:35,2006-01-27,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$23.25,34150,2850503,+1%,"+$793,988",0.0,-2.0,5.0,4.0,DGICA
+595,,2006-01-13 12:57:02,2006-01-13,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$23.00,13866,2816353,0%,"+$318,918",-1.0,0.0,-1.0,0.0,DGICA
+596,,2006-01-03 18:15:28,2006-01-03,DGICA,Wampler Richard D II,Dir,A - Grant,$23.24,233,466,+100%,"+$5,415",2.0,5.0,2.0,10.0,DGICA
+597,,2006-01-03 17:40:00,2006-01-03,DGICA,Sherbahn R Richard,Dir,A - Grant,$23.24,233,2320,+11%,"+$5,415",2.0,5.0,2.0,10.0,DGICA
+598,,2006-01-03 17:14:31,2006-01-03,DGICA,Glatfelter Philip H II,Dir,A - Grant,$23.24,233,6375,+4%,"+$5,415",2.0,5.0,2.0,10.0,DGICA
+599,,2006-01-03 17:10:19,2006-01-03,DGICA,Gilmartin Patricia A,Dir,A - Grant,$23.24,233,3056,+8%,"+$5,415",2.0,5.0,2.0,10.0,DGICA
+600,,2006-01-03 16:49:23,2006-01-03,DGICA,Bolinger Robert S,Dir,A - Grant,$23.24,233,3342,+7%,"+$5,415",2.0,5.0,2.0,10.0,DGICA
+601,,2005-12-27 17:11:44,2005-12-27,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$24.00,1100,2802487,0%,"+$26,400",0.0,1.0,2.0,15.0,DGICA
+602,M,2005-12-23 10:39:44,2005-12-21,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$23.31,100082,8769798,+1%,"+$2,332,618",0.0,1.0,2.0,11.0,DGICA
+603,D,2005-12-23 10:30:29,2005-12-21,DGICA,Miller Jeffrey Dean,"SVP, CFO",C - Converted deriv,$9.00,10000,984,-91%,"$90,000",0.0,1.0,2.0,11.0,DGICA
+604,D,2005-12-23 10:30:29,2005-12-21,DGICA,Miller Jeffrey Dean,"SVP, CFO",S - Sale+OE,$23.27,-10000,984,-91%,"-$232,700",0.0,1.0,2.0,11.0,DGICA
+605,D,2005-12-23 10:23:29,2005-12-21,DGICA,Wagner Daniel J,"SVP, Treasurer",C - Converted deriv,$9.00,10000,471,-96%,"$90,000",0.0,1.0,2.0,11.0,DGICA
+606,D,2005-12-23 10:23:29,2005-12-21,DGICA,Wagner Daniel J,"SVP, Treasurer",S - Sale+OE,$23.27,-10000,471,-96%,"-$232,700",0.0,1.0,2.0,11.0,DGICA
+607,D,2005-12-23 10:10:35,2005-12-21,DGICA,Nikolaus Donald H,"Pres, CEO",C - Converted deriv,$10.50,75000,212259,-26%,"$787,500",0.0,1.0,2.0,11.0,DGICA
+608,D,2005-12-23 10:10:35,2005-12-21,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$22.94,-24178,212259,+13%,"-$554,643",0.0,1.0,2.0,11.0,DGICA
+609,D,2005-12-23 10:10:35,2005-12-21,DGICA,Nikolaus Donald H,"Pres, CEO",S - Sale+OE,$23.27,-75000,212259,-26%,"-$1,745,250",0.0,1.0,2.0,11.0,DGICA
+610,,2005-12-14 10:52:30,2005-12-12,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$24.00,3466,2796305,0%,"+$83,184",-8.0,-10.0,-11.0,-1.0,DGICA
+611,M,2005-12-02 17:11:53,2005-11-28,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$23.00,40943,2792839,+1%,"+$941,721",-5.0,-4.0,-7.0,-3.0,DGICA
+612,DM,2005-11-17 18:12:09,2005-11-14,DGICA,Sherbahn R Richard,Dir,C - Converted deriv,$9.00,3000,2087,-59%,"$27,000",0.0,0.0,0.0,7.0,DGICA
+613,DM,2005-11-17 18:12:09,2005-11-14,DGICA,Sherbahn R Richard,Dir,S - Sale+OE,$23.00,-3000,2087,-59%,"-$69,000",0.0,0.0,0.0,7.0,DGICA
+614,D,2005-11-14 08:58:15,2005-11-10,DGICA,Greenya Cyril J,"SVP, Chief Undrwrtg Officer",C - Converted deriv,$10.50,10000,2087,-83%,"$105,000",0.0,2.0,3.0,11.0,DGICA
+615,D,2005-11-14 08:58:15,2005-11-10,DGICA,Greenya Cyril J,"SVP, Chief Undrwrtg Officer",S - Sale+OE,$22.51,-10000,2087,-83%,"-$225,144",0.0,2.0,3.0,11.0,DGICA
+616,D,2005-11-08 17:09:17,2005-11-07,DGICA,Glatfelter Philip H II,COB,C - Converted deriv,$9.00,4000,6142,-39%,"$36,000",1.0,5.0,12.0,24.0,DGICA
+617,D,2005-11-08 17:09:17,2005-11-07,DGICA,Glatfelter Philip H II,COB,S - Sale+OE,$22.43,-4000,6142,-39%,"-$89,720",1.0,5.0,12.0,24.0,DGICA
+618,,2005-10-26 08:58:12,2005-10-24,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$22.48,113333,5873411,+2%,"+$2,547,726",-3.0,0.0,6.0,10.0,DGICA
+619,,2005-09-30 13:29:59,2005-09-28,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$21.45,6667,5760078,0%,"+$143,007",0.0,-6.0,3.0,22.0,DGICA
+620,D,2005-09-30 13:22:12,2005-09-28,DGICA,Gilmartin Patricia A,Dir,C - Converted deriv,$9.00,6667,2823,-70%,"$60,003",0.0,-6.0,3.0,22.0,DGICA
+621,D,2005-09-30 13:22:12,2005-09-28,DGICA,Gilmartin Patricia A,Dir,S - Sale+OE,$21.45,-6667,2823,-70%,"-$143,007",0.0,-6.0,3.0,22.0,DGICA
+622,,2005-08-17 13:13:13,2005-08-16,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.44,193,2751896,0%,"+$3,945",-2.0,-2.0,-3.0,19.0,DGICA
+623,,2005-07-25 15:11:58,2005-07-22,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.00,393,2751703,0%,"+$7,074",5.0,7.0,7.0,24.0,DGICA
+624,,2005-07-25 15:07:25,2005-07-22,DGICB,Gilmartin Patricia A,Dir,S - Sale,$18.00,-393,552,-42%,"-$7,074",5.0,7.0,7.0,24.0,DGICA
+625,,2005-03-31 14:25:15,2005-03-30,DGICA,Wampler Richard D II,Dir,P - Purchase,$18.00,1000,1233,+429%,"+$18,000",1.0,1.0,3.0,20.0,DGICA
+626,,2005-03-21 13:50:17,2005-03-18,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$22.62,400,2030385,0%,"+$9,048",5.0,4.0,-1.0,16.0,DGICA
+627,,2005-03-03 15:34:17,2005-03-03,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$21.90,4334,2029985,0%,"+$94,915",4.0,4.0,1.0,15.0,DGICA
+628,,2005-02-02 15:05:48,2005-02-02,DGICB,Donegal Mutual Insurance Co,10%,D - Sale to issuer,$21.35,-2366,2025651,0%,"-$50,514",1.0,5.0,12.0,32.0,DGICA
+629,,2005-01-03 16:04:58,2004-12-23,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$23.79,-42000,154673,+37%,"-$999,180",-4.0,-10.0,-6.0,15.0,DGICA
+630,,2005-01-03 14:57:42,2005-01-03,DGICA,Sherbahn R Richard,Dir,A - Grant,$22.93,175,1476,+13%,"+$4,013",1.0,-9.0,-5.0,16.0,DGICA
+631,,2005-01-03 14:54:24,2005-01-03,DGICA,Glatfelter Philip H II,Dir,A - Grant,$22.93,175,4440,+4%,"+$4,013",1.0,-9.0,-5.0,16.0,DGICA
+632,,2005-01-03 14:49:49,2005-01-03,DGICA,Bolinger Robert S,Dir,A - Grant,$22.93,175,2332,+8%,"+$4,013",1.0,-9.0,-5.0,16.0,DGICA
+633,,2005-01-03 14:39:02,2005-01-03,DGICA,Wampler Richard D II,Dir,A - Grant,$22.93,175,175,New,"+$4,013",1.0,-9.0,-5.0,16.0,DGICA
+634,,2005-01-03 14:32:08,2005-01-03,DGICA,Lyons John J,Dir,A - Grant,$22.93,175,13025,+1%,"+$4,013",1.0,-9.0,-5.0,16.0,DGICA
+635,,2005-01-03 14:26:48,2005-01-03,DGICA,Gilmartin Patricia A,Dir,A - Grant,$22.93,175,2118,+9%,"+$4,013",1.0,-9.0,-5.0,16.0,DGICA
+636,,2005-01-03 14:11:43,2005-01-03,DGICA,Nikolaus Donald H,Pres,A - Grant,$18.21,1506,134542,+1%,"+$27,425",1.0,-9.0,-5.0,16.0,DGICA
+637,,2005-01-03 14:01:49,2005-01-03,DGICA,Spontak Ralph G,"SVP, Secretary, CFO",A - Grant,$20.65,397,19321,+2%,"+$8,201",1.0,-9.0,-5.0,16.0,DGICA
+638,,2004-12-22 10:06:05,2004-11-15,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$21.41,17638,4299678,0%,"+$377,630",3.0,8.0,-1.0,21.0,DGICA
+639,M,2004-12-22 09:54:42,2004-12-16,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$21.29,5374,2023285,0%,"+$114,410",0.0,5.0,-2.0,8.0,DGICA
+640,,2004-12-21 16:45:43,2004-12-17,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.50,542,2017911,0%,"+$11,111",0.0,6.0,-2.0,12.0,DGICA
+641,,2004-12-10 15:40:06,2004-12-09,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.43,400,2017369,0%,"+$8,172",1.0,1.0,-2.0,13.0,DGICA
+642,,2004-12-09 13:57:42,2004-12-08,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.55,400,2016969,0%,"+$7,820",1.0,2.0,-4.0,11.0,DGICA
+643,,2004-12-07 16:08:13,2004-12-06,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.70,602,2016569,0%,"+$12,461",1.0,4.0,6.0,12.0,DGICA
+644,,2004-12-06 12:20:20,2004-12-03,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.57,1066,2015967,0%,"+$21,930",0.0,0.0,7.0,9.0,DGICA
+645,,2004-12-03 10:22:40,2004-12-01,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.96,500,2014901,0%,"+$9,980",2.0,1.0,10.0,10.0,DGICA
+646,,2004-12-01 11:01:15,2004-11-30,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.75,1066,2014401,0%,"+$21,054",1.0,2.0,12.0,15.0,DGICA
+647,,2004-12-01 09:54:59,2004-11-29,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.95,1066,2013335,0%,"+$21,267",1.0,2.0,12.0,15.0,DGICA
+648,,2004-11-15 15:18:06,2004-11-12,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.90,25703,2012269,+1%,"+$511,490",1.0,1.0,8.0,13.0,DGICA
+649,,2004-11-10 14:06:29,2004-11-08,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.56,1166,1986566,0%,"+$23,973",2.0,6.0,9.0,21.0,DGICA
+650,,2004-11-04 10:51:50,2004-11-02,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$21.50,93334,4282040,+2%,"+$2,006,681",1.0,-1.0,9.0,23.0,DGICA
+651,D,2004-11-04 09:57:34,2004-11-02,DGICB,Nikolaus Donald H,"Pres, CEO",C - Converted deriv,$8.00,33333,103734,-24%,"$266,664",-2.0,-6.0,2.0,14.0,DGICA
+652,D,2004-11-04 09:50:37,2004-11-02,DGICA,Nikolaus Donald H,"Pres, CEO",C - Converted deriv,$8.00,66667,132299,-34%,"$533,336",1.0,-1.0,9.0,23.0,DGICA
+653,D,2004-11-04 09:50:37,2004-11-02,DGICA,Nikolaus Donald H,"Pres, CEO",S - Sale+OE,$21.50,-66667,132299,-34%,"-$1,433,341",1.0,-1.0,9.0,23.0,DGICA
+654,D,2004-11-03 16:02:38,2004-11-02,DGICA,Spontak Ralph G,"SVP, Secretary, CFO",C - Converted deriv,$8.00,26667,18924,-58%,"$213,336",1.0,-2.0,8.0,24.0,DGICA
+655,D,2004-11-03 16:02:38,2004-11-02,DGICA,Spontak Ralph G,"SVP, Secretary, CFO",S - Sale+OE,$21.50,-26667,18924,-58%,"-$573,341",1.0,-2.0,8.0,24.0,DGICA
+656,D,2004-11-03 15:38:02,2004-11-01,DGICA,Shenk Robert G,SVP,C - Converted deriv,$8.00,16667,8066,-67%,"$133,336",1.0,-2.0,9.0,25.0,DGICA
+657,D,2004-11-03 15:38:02,2004-07-01,DGICA,Shenk Robert G,SVP,P - Purchase,$20.01,38,8066,0%,+$760,1.0,-2.0,9.0,25.0,DGICA
+658,D,2004-11-03 15:38:02,2004-11-01,DGICA,Shenk Robert G,SVP,S - Sale+OE,$21.59,-16667,8066,-67%,"-$359,841",1.0,-2.0,9.0,25.0,DGICA
+659,,2004-11-03 15:21:26,2004-11-01,DGICA,Donegal Mutual Insurance Co,10%,P - Purchase,$21.49,17333,6174106,0%,"+$372,528",1.0,-2.0,9.0,25.0,DGICA
+660,,2004-10-05 16:29:21,2004-10-01,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.45,295,1984734,0%,"+$5,738",-2.0,-3.0,5.0,19.0,DGICA
+661,,2004-10-05 16:25:33,2004-10-01,DGICB,Gilmartin Patricia A,Dir,S - Sale,$19.45,-295,709,-29%,"-$5,738",-2.0,-3.0,5.0,19.0,DGICA
+662,M,2004-10-01 10:12:05,2004-09-29,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.08,1778,1984439,0%,"+$33,919",0.0,-3.0,11.0,15.0,DGICA
+663,,2004-09-29 14:04:38,2004-09-27,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.94,1091,1982661,0%,"+$20,664",1.0,2.0,15.0,14.0,DGICA
+664,,2004-09-24 13:51:15,2004-09-23,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.50,700,1981570,0%,"+$12,950",0.0,2.0,0.0,24.0,DGICA
+665,,2004-09-23 15:29:29,2004-09-13,DGICA,Gilmartin Patricia A,Dir,S - Sale,$19.10,-590,1943,-23%,"-$11,269",0.0,-2.0,0.0,31.0,DGICA
+666,,2004-09-22 15:34:37,2004-09-20,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.95,500,1980870,0%,"+$9,475",0.0,-1.0,-5.0,24.0,DGICA
+667,,2004-09-20 11:40:43,2004-09-17,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.80,821,1980370,0%,"+$15,435",1.0,0.0,-3.0,16.0,DGICA
+668,,2004-09-15 09:31:19,2004-09-13,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.75,12000,1979549,+1%,"+$225,000",0.0,1.0,1.0,19.0,DGICA
+669,,2004-09-09 16:46:59,2004-09-08,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.65,779,1967549,0%,"+$14,528",0.0,0.0,-1.0,22.0,DGICA
+670,,2004-09-02 13:46:03,2004-09-01,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.57,500,1966770,0%,"+$9,785",0.0,-4.0,-2.0,16.0,DGICA
+671,,2004-09-01 16:56:18,2004-08-31,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.08,500,1966270,0%,"+$9,539",0.0,-5.0,-2.0,12.0,DGICA
+672,,2004-08-31 15:04:28,2004-08-16,DGICA,Nikolaus Donald H,"Pres, CEO",P - Purchase,$20.53,770,133038,+1%,"+$15,808",3.0,-3.0,-1.0,25.0,DGICA
+673,,2004-08-31 14:59:51,2004-08-31,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.99,18500,1965770,+1%,"+$351,315",1.0,-1.0,1.0,18.0,DGICA
+674,M,2004-08-30 13:37:58,2004-08-27,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$18.93,2000,1947270,0%,"+$37,860",1.0,-1.0,0.0,18.0,DGICA
+675,,2004-08-26 10:57:49,2004-08-24,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$19.50,500,1945270,0%,"+$9,750",-4.0,0.0,-4.0,13.0,DGICA
+676,,2004-07-21 14:04:21,2004-07-19,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.61,1332,1944770,0%,"+$27,453",2.0,5.0,0.0,6.0,DGICA
+677,,2004-06-10 15:25:05,2004-05-17,DGICA,Nikolaus Donald H,"Pres, CEO",P - Purchase,$19.27,815,132268,+1%,"+$15,710",0.0,0.0,-4.0,4.0,DGICA
+678,,2004-06-08 09:30:43,2004-06-07,DGICA,Lyons John J,Dir,P - Purchase,$20.98,3000,12850,+30%,"+$62,949",0.0,1.0,-7.0,7.0,DGICA
+679,D,2004-06-01 14:40:47,2004-05-28,DGICA,Wagner Daniel J,Treasurer,C - Converted deriv,$8.00,7900,8608,-48%,"$63,200",0.0,1.0,-3.0,3.0,DGICA
+680,D,2004-06-01 14:40:47,2004-05-28,DGICA,Wagner Daniel J,Treasurer,S - Sale+OE,$20.60,-7900,8608,-48%,"-$162,740",0.0,1.0,-3.0,3.0,DGICA
+681,D,2004-05-26 15:14:52,2004-05-25,DGICA,Greenya Cyril J,SVP,C - Converted deriv,$8.00,3367,1499,-69%,"$26,936",1.0,-2.0,-20.0,5.0,DGICA
+682,D,2004-05-26 15:14:52,2004-05-25,DGICA,Greenya Cyril J,SVP,S - Sale+OE,$20.05,-3367,1499,-69%,"-$67,498",1.0,-2.0,-20.0,5.0,DGICA
+683,,2004-05-03 15:28:39,2004-04-30,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.88,6331,1943438,0%,"+$132,191",2.0,-4.0,-1.0,1.0,DGICA
+684,D,2004-05-03 12:59:24,2004-04-30,DGICA,Greenya Cyril J,SVP,C - Converted deriv,$8.00,7300,2998,-71%,"$58,400",1.0,-2.0,0.0,5.0,DGICA
+685,D,2004-05-03 12:59:24,2004-04-30,DGICA,Greenya Cyril J,SVP,S - Sale+OE,$21.01,-7300,2998,-71%,"-$153,364",1.0,-2.0,0.0,5.0,DGICA
+686,D,2004-04-29 14:02:50,2004-04-29,DGICA,Wagner Daniel J,"VP, Treasurer",C - Converted deriv,$14.00,2100,354,-86%,"$29,400",0.0,-2.0,-3.0,9.0,DGICA
+687,D,2004-04-29 14:02:50,2004-04-29,DGICA,Wagner Daniel J,"VP, Treasurer",S - Sale+OE,$22.00,-2100,354,-86%,"-$46,200",0.0,-2.0,-3.0,9.0,DGICA
+688,AD,2004-03-22 09:59:04,2004-03-19,DGICB,Spontak Ralph G,"SVP, Secretary, CFO",C - Converted deriv,$8.00,13333,4649,-74%,"$106,664",-2.0,-4.0,12.0,-2.0,DGICA
+689,AD,2004-03-22 09:59:04,2004-03-19,DGICB,Spontak Ralph G,"SVP, Secretary, CFO",S - Sale+OE,$21.36,-13333,4649,-74%,"-$284,793",-2.0,-4.0,12.0,-2.0,DGICA
+690,,2004-03-22 09:48:21,2004-03-19,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$21.36,13333,1937107,+1%,"+$284,793",-2.0,-4.0,12.0,-2.0,DGICA
+691,M,2004-03-15 13:06:34,2004-02-07,DGICA,Nikolaus Donald H,"Pres, CEO",P - Purchase,$23.37,620,131452,0%,"+$14,498",-1.0,-6.0,5.0,-9.0,DGICA
+692,D,2004-03-12 09:53:46,2004-03-11,DGICB,Shenk Robert G,SVP,C - Converted deriv,$8.00,8333,3096,-73%,"$66,664",3.0,0.0,4.0,-7.0,DGICA
+693,D,2004-03-12 09:53:46,2004-03-11,DGICB,Shenk Robert G,SVP,S - Sale+OE,$21.17,-8333,3096,-73%,"-$176,410",3.0,0.0,4.0,-7.0,DGICA
+694,M,2004-03-12 09:39:28,2004-03-10,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$21.17,9665,1923774,+1%,"+$204,608",3.0,0.0,4.0,-7.0,DGICA
+695,M,2004-03-11 09:13:28,2004-03-09,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.86,6698,1914109,0%,"+$139,704",0.0,3.0,2.0,-7.0,DGICA
+696,ADM,2004-03-08 14:40:10,2004-03-04,DGICA,Wagner Daniel J,Treasurer,C - Converted deriv,$8.00,10000,448,-96%,"$80,000",0.0,1.0,-1.0,-11.0,DGICA
+697,ADM,2004-03-08 14:40:10,2004-03-04,DGICA,Wagner Daniel J,Treasurer,S - Sale+OE,$20.78,-13333,448,-97%,"-$277,093",0.0,1.0,-1.0,-11.0,DGICA
+698,DM,2004-03-08 13:56:06,2004-03-05,DGICA,Wagner Daniel J,Treasurer,C - Converted deriv,$8.00,10000,282,-97%,"$80,000",0.0,1.0,-1.0,-11.0,DGICA
+699,DM,2004-03-08 13:56:06,2004-03-04,DGICA,Wagner Daniel J,Treasurer,S - Sale+OE,$20.78,-13333,282,-98%,"-$277,093",0.0,1.0,-1.0,-11.0,DGICA
+700,M,2004-03-08 13:33:04,2004-03-04,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.39,16331,1907411,+1%,"+$332,996",1.0,2.0,0.0,-8.0,DGICA
+701,,2004-03-03 09:46:55,2004-03-02,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.10,16331,1891080,+1%,"+$328,253",1.0,3.0,-2.0,-5.0,DGICA
+702,M,2004-03-01 13:24:47,2004-02-26,DGICB,Donegal Mutual Insurance Co,10%,P - Purchase,$20.47,22661,1874749,+1%,"+$463,884",0.0,7.0,-3.0,-1.0,DGICA
+703,M,2004-01-06 15:49:10,2003-02-18,DGICA,Donegal Mutual Insurance Co,10%,A - Grant,$13.53,107880,4139792,+3%,"+$1,460,088",1.0,3.0,-3.0,-5.0,DGICA
+704,,2004-01-06 14:44:07,2004-01-02,DGICA,Shenk Robert G,SVP,A - Grant,$11.50,57,8028,+1%,+$655,1.0,3.0,-3.0,-5.0,DGICA
+705,,2004-01-05 14:30:32,2004-01-02,DGICA,Nikolaus Donald H,"Pres, CEO",A - Grant,$12.43,1878,130106,+1%,"+$23,352",-1.0,1.0,-1.0,-9.0,DGICA
+706,,2004-01-02 14:34:17,2004-01-02,DGICA,Lyons John J,Dir,A - Grant,$22.02,175,9350,+2%,"+$3,854",0.0,1.0,0.0,-8.0,DGICA
+707,,2004-01-02 13:30:35,2004-01-02,DGICA,Sherbahn R Richard,Dir,A - Grant,$22.02,175,1301,+16%,"+$3,854",0.0,1.0,0.0,-8.0,DGICA
+708,,2004-01-02 13:12:02,2004-01-02,DGICA,Glatfelter Philip H II,Dir,A - Grant,$22.02,175,4230,+4%,"+$3,854",0.0,1.0,0.0,-8.0,DGICA
+709,,2004-01-02 13:02:50,2004-01-02,DGICA,Gilmartin Patricia A,Dir,A - Grant,$22.02,175,2533,+7%,"+$3,854",0.0,1.0,0.0,-8.0,DGICA
+710,,2004-01-02 12:52:11,2004-01-02,DGICA,Bolinger Robert S,Dir,A - Grant,$22.02,175,2157,+9%,"+$3,854",0.0,1.0,0.0,-8.0,DGICA
+711,,2004-01-02 11:30:05,2004-01-02,DGICA,Spontak Ralph G,"SVP, Secretary, CFO",A - Grant,$20.02,175,18436,+1%,"+$3,504",0.0,1.0,0.0,-8.0,DGICA
+712,,2003-12-29 16:38:46,2003-11-17,DGICA,Nikolaus Donald H,"Pres, CEO",A - Grant,$19.23,784,149085,+1%,"+$15,072",-1.0,-10.0,-7.0,-16.0,DGICA
+713,M,2003-12-29 16:38:46,2003-12-23,DGICA,Nikolaus Donald H,"Pres, CEO",G - Gift,$22.87,-17462,149085,+13%,"-$399,332",-1.0,-10.0,-7.0,-16.0,DGICA
+714,,2003-09-10 11:22:43,2003-08-15,DGICA,Nikolaus Donald H,"Pres, CEO",A - Grant,$16.60,596,136190,0%,"+$9,887",0.0,-3.0,-4.0,15.0,DGICA
+715,,2003-09-10 11:02:26,2003-08-15,DGICA,Nikolaus Donald H,"Pres, CEO",A - Grant,$16.69,5,722,+1%,+$82,0.0,-3.0,-4.0,15.0,DGICA
+716,,2003-09-09 16:11:30,2003-08-15,DGICA,Nikolaus Donald H,"Pres, CEO",A - Grant,$16.69,300,135594,0%,"+$5,003",0.0,-7.0,-5.0,17.0,DGICA
+717,D,2003-07-30 13:16:37,2003-07-01,DGICA,Nikolaus Donald H,"Pres, CEO",A - Grant,$10.16,1920,218150,+1%,"+$19,502",1.0,-1.0,4.0,42.0,DGICA

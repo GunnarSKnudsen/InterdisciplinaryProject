@@ -1,23 +1,123 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,D,2022-03-30 16:45:44,2022-03-29,HONE,Blake James W.,CEO,S - Sale+OE,$14.33,-49389,288840,-15%,"-$707,976",,,,,HONE
-1,D,2022-03-29 16:46:08,2022-03-28,HONE,Blake James W.,CEO,S - Sale+OE,$14.11,-50000,288840,-15%,"-$705,295",,,,,HONE
-2,D,2022-03-28 17:54:58,2022-03-25,HONE,Blake James W.,CEO,S - Sale+OE,$14.48,-50000,288840,-15%,"-$723,940",,,,,HONE
-3,D,2022-03-25 16:46:29,2022-03-24,HONE,Blake James W.,CEO,S - Sale+OE,$14.24,-50000,288840,-15%,"-$711,975",,,,,HONE
-4,D,2022-03-24 17:30:00,2022-03-23,HONE,Blake James W.,CEO,S - Sale+OE,$14.25,-40053,288840,-12%,"-$570,615",,,,,HONE
-5,D,2022-03-23 16:46:43,2022-03-22,HONE,Blake James W.,CEO,S - Sale+OE,$14.55,-50000,288840,-15%,"-$727,360",,,,,HONE
-6,D,2022-03-22 16:48:43,2022-03-21,HONE,Blake James W.,CEO,S - Sale+OE,$14.38,-50000,288840,-15%,"-$719,075",,,,,HONE
-7,D,2022-03-21 16:35:45,2022-03-18,HONE,Blake James W.,CEO,S - Sale+OE,$14.39,-50000,288840,-15%,"-$719,430",,,,,HONE
-8,D,2022-03-18 16:37:41,2022-03-17,HONE,Blake James W.,CEO,S - Sale+OE,$14.97,-50000,288840,-15%,"-$748,600",,,,,HONE
-9,D,2022-03-17 16:36:02,2022-03-16,HONE,Blake James W.,CEO,S - Sale+OE,$14.85,-50000,288840,-15%,"-$742,295",,,,,HONE
-10,D,2022-03-16 16:45:28,2022-03-15,HONE,Blake James W.,CEO,S - Sale+OE,$14.93,-50000,288840,-15%,"-$746,655",,,,,HONE
-11,D,2022-03-15 16:45:30,2022-03-14,HONE,Blake James W.,CEO,S - Sale+OE,$15.16,-50000,288840,-15%,"-$757,880",,,,,HONE
-12,D,2022-03-14 16:45:35,2022-03-11,HONE,Blake James W.,CEO,S - Sale+OE,$15.10,-50000,288840,-15%,"-$754,870",,,,,HONE
-13,,2021-11-05 16:30:29,2021-11-04,HONE,Tryder David E.,"SVP, CMO",S - Sale,$14.83,-14500,10357,-58%,"-$215,035",,,,,HONE
-14,,2021-05-12 20:13:43,2021-05-11,HONE,Koretz Barry R.,Dir,S - Sale,$13.88,-16000,54371,-23%,"-$222,080",,,,,HONE
-15,A,2020-07-16 16:35:29,2020-05-05,HONE,Casey Joseph F,"Pres, COO",P - Purchase,$7.65,1516,252919,+1%,"+$11,596",,,,,HONE
-16,M,2020-05-14 09:13:01,2020-05-12,HONE,Casey Joseph F,"Pres, COO",P - Purchase,$7.48,14000,265403,+6%,"+$104,670",,,,,HONE
-17,,2020-05-07 16:35:42,2020-05-05,HONE,Casey Joseph F,"Pres, COO",P - Purchase,$7.60,2000,251403,+1%,"+$15,200",,,,,HONE
-18,M,2020-05-05 17:03:10,2020-05-01,HONE,Casey Joseph F,"Pres, COO",P - Purchase,$7.62,7600,249403,+3%,"+$57,908",,,,,HONE
-19,M,2019-11-12 08:45:40,2019-11-07,HONE,Sullivan Michael James,COB,P - Purchase,$10.69,2000,60180,+3%,"+$21,385",,,,,HONE
-20,,2019-09-05 16:46:40,2019-09-03,HONE,Blake James W.,"CEO, Secretary",P - Purchase,$9.84,10000,262830,+4%,"+$98,432",,,,,HONE
-21,,2019-09-03 17:00:29,2019-08-30,HONE,Simmons Linda,"Senior VP, CFO",P - Purchase,$9.95,2500,30977,+9%,"+$24,875",,,,,HONE
+0,D,2022-03-16 16:45:28,2022-03-15,HONE,Blake James W.,CEO,M - OptEx,$10.08,50000,288840,+21%,"+$504,116",,,,,HONE
+1,D,2022-03-16 16:45:28,2022-03-15,HONE,Blake James W.,CEO,S - Sale+OE,$14.93,-50000,288840,-15%,"-$746,655",,,,,HONE
+2,D,2022-03-15 16:45:30,2022-03-14,HONE,Blake James W.,CEO,M - OptEx,$10.23,50000,288840,+21%,"+$511,500",,,,,HONE
+3,D,2022-03-15 16:45:30,2022-03-14,HONE,Blake James W.,CEO,S - Sale+OE,$15.16,-50000,288840,-15%,"-$757,880",,,,,HONE
+4,D,2022-03-14 16:45:35,2022-03-11,HONE,Blake James W.,CEO,M - OptEx,$10.23,50000,288840,+21%,"+$511,500",,,,,HONE
+5,D,2022-03-14 16:45:35,2022-03-11,HONE,Blake James W.,CEO,S - Sale+OE,$15.10,-50000,288840,-15%,"-$754,870",,,,,HONE
+6,,2022-03-03 19:31:39,2022-03-01,HONE,Simmons Linda,"EVP, CFO",A - Grant,$0.00,4361,49829,+10%,+$0,,,,,HONE
+7,,2022-03-03 19:31:39,2022-03-02,HONE,Simmons Linda,"EVP, CFO",F - Tax,$14.79,-660,49829,-1%,"-$9,761",,,,,HONE
+8,,2022-03-03 19:31:01,2022-03-01,HONE,Tryder David E.,"SVP, CMO",A - Grant,$0.00,2141,12177,+21%,+$0,,,,,HONE
+9,,2022-03-03 19:31:01,2022-03-02,HONE,Tryder David E.,"SVP, CMO",F - Tax,$14.17,-321,12177,-3%,"-$4,549",,,,,HONE
+10,,2022-03-03 16:42:15,2022-03-02,HONE,Blake James W.,CEO,F - Tax,$14.57,-2015,288840,-1%,"-$29,359",,,,,HONE
+11,,2022-03-03 16:41:49,2022-03-01,HONE,Williams Patricia M.,"SVP, Human Resource Officer",A - Grant,$0.00,2117,35135,+6%,+$0,,,,,HONE
+12,,2022-03-03 16:41:49,2022-03-02,HONE,Williams Patricia M.,"SVP, Human Resource Officer",F - Tax,$14.79,-321,35135,-1%,"-$4,748",,,,,HONE
+13,,2022-03-03 16:40:06,2022-03-01,HONE,Sanborn H. Scott,"EVP, Chief Lending Officer",A - Grant,$0.00,4144,50173,+9%,+$0,,,,,HONE
+14,,2022-03-03 16:39:21,2022-03-01,HONE,Reilly David B.,"EVP, Operations",A - Grant,$0.00,3235,44177,+8%,+$0,,,,,HONE
+15,,2022-03-03 16:39:21,2022-03-02,HONE,Reilly David B.,"EVP, Operations",F - Tax,$14.79,-386,44177,-1%,"-$5,709",,,,,HONE
+16,,2022-03-03 16:38:44,2022-03-01,HONE,Sullivan Michael James,COB,A - Grant,$0.00,2349,69678,+3%,+$0,,,,,HONE
+17,,2022-03-03 16:38:34,2022-03-01,HONE,McQuade Joseph E.,"SVP, CER Officer",A - Grant,$0.00,2439,12597,+24%,+$0,,,,,HONE
+18,,2022-03-03 16:38:34,2022-03-02,HONE,McQuade Joseph E.,"SVP, CER Officer",F - Tax,$14.79,-376,12597,-3%,"-$5,561",,,,,HONE
+19,,2022-03-03 16:38:18,2022-03-01,HONE,Payne William A,Dir,A - Grant,$0.00,1678,28793,+6%,+$0,,,,,HONE
+20,,2022-03-03 16:38:14,2022-03-01,HONE,Wilmot Damian W.,Dir,A - Grant,$0.00,1678,17798,+10%,+$0,,,,,HONE
+21,,2022-03-03 16:38:09,2022-03-01,HONE,Santangelo Andreana,Dir,A - Grant,$0.00,1678,7013,+31%,+$0,,,,,HONE
+22,,2022-03-03 16:37:56,2022-03-01,HONE,Hamel Kevin M.,"SVP, CIO",A - Grant,$0.00,2425,12174,+25%,+$0,,,,,HONE
+23,,2022-03-03 16:37:56,2022-03-02,HONE,Hamel Kevin M.,"SVP, CIO",F - Tax,$14.79,-376,12174,-3%,"-$5,561",,,,,HONE
+24,,2022-03-03 16:37:33,2022-03-01,HONE,Lynch Timothy R.,Dir,A - Grant,$0.00,1678,54095,+3%,+$0,,,,,HONE
+25,,2022-03-03 16:37:30,2022-03-01,HONE,Diepold Brenda Carolyn,"EVP, Retail Officer",A - Grant,$0.00,3241,23819,+16%,+$0,,,,,HONE
+26,,2022-03-03 16:37:30,2022-03-02,HONE,Diepold Brenda Carolyn,"EVP, Retail Officer",F - Tax,$14.79,-384,23819,-2%,"-$5,679",,,,,HONE
+27,,2022-03-03 16:37:16,2022-03-01,HONE,Koretz Barry R.,Dir,A - Grant,$0.00,1678,56049,+3%,+$0,,,,,HONE
+28,,2022-03-03 16:36:50,2022-03-01,HONE,Friedman-Boyce Inez,"SVP, GC",A - Grant,$0.00,2535,16909,+18%,+$0,,,,,HONE
+29,,2022-03-03 16:36:26,2022-03-01,HONE,Frenette David P.,Dir,A - Grant,$0.00,1678,133981,+1%,+$0,,,,,HONE
+30,,2022-03-03 16:36:16,2022-03-01,HONE,Berman Mandy,Dir,A - Grant,$0.00,1678,17836,+10%,+$0,,,,,HONE
+31,,2022-03-03 16:35:51,2022-03-01,HONE,Barry Joseph F.,Dir,A - Grant,$0.00,1678,54095,+3%,+$0,,,,,HONE
+32,,2021-11-24 16:30:59,2021-11-23,HONE,Kerr Brenda C.,"EVP, Retail Officer",G - Gift,$0.00,-2000,20962,-9%,-$0,,,,,HONE
+33,,2021-11-05 16:30:29,2021-11-04,HONE,Tryder David E.,"SVP, CMO",S - Sale,$14.83,-14500,10357,-58%,"-$215,035",,,,,HONE
+34,,2021-11-02 16:36:04,2021-10-29,HONE,Williams Patricia M.,"SVP, Human Resource Officer",F - Tax,$14.30,-1006,33339,-3%,"-$14,386",,,,,HONE
+35,,2021-11-02 16:35:28,2021-10-29,HONE,Tryder David E.,"SVP, CMO",F - Tax,$14.30,-1006,24857,-4%,"-$14,386",,,,,HONE
+36,,2021-11-02 16:34:25,2021-10-29,HONE,Simmons Linda,"EVP, CFO",F - Tax,$14.30,-2062,46128,-4%,"-$29,487",,,,,HONE
+37,,2021-11-02 16:33:34,2021-10-29,HONE,Sanborn H. Scott,"EVP, Chief Lending Officer",F - Tax,$14.30,-1761,46029,-4%,"-$25,182",,,,,HONE
+38,,2021-11-02 16:33:06,2021-10-29,HONE,Kerr Brenda C.,"EVP, Retail Officer",F - Tax,$14.30,-1006,22962,-4%,"-$14,386",,,,,HONE
+39,,2021-11-02 16:32:32,2021-10-29,HONE,Hamel Kevin M.,"SVP, CIO",F - Tax,$14.30,-1182,10125,-10%,"-$16,903",,,,,HONE
+40,,2021-11-02 16:31:52,2021-10-29,HONE,Casey Joseph F,"Pres, COO",F - Tax,$14.30,-4124,284757,-1%,"-$58,973",,,,,HONE
+41,,2021-11-02 16:30:32,2021-10-29,HONE,Blake James W.,CEO,F - Tax,$14.30,-9267,290855,-3%,"-$132,518",,,,,HONE
+42,,2021-05-12 20:13:43,2021-05-11,HONE,Koretz Barry R.,Dir,S - Sale,$13.88,-16000,54371,-23%,"-$222,080",,,,,HONE
+43,,2021-03-10 17:11:14,2021-03-01,HONE,Wilmot Damian W.,Dir,A - Grant,$0.00,2285,16120,+17%,+$0,,,,,HONE
+44,,2021-03-10 17:10:51,2021-03-01,HONE,Williams Patricia M.,"SVP, Human Resource Officer",A - Grant,$0.00,2772,34405,+9%,+$0,,,,,HONE
+45,,2021-03-10 17:10:46,2021-03-01,HONE,Tryder David E.,"SVP, CMO",A - Grant,$0.00,2777,25863,+12%,+$0,,,,,HONE
+46,,2021-03-10 17:10:38,2021-03-01,HONE,Sullivan Michael James,COB,A - Grant,$0.00,3199,67239,+5%,+$0,,,,,HONE
+47,,2021-03-10 17:10:06,2021-03-01,HONE,Simmons Linda,"EVP, CFO",A - Grant,$0.00,5711,48190,+13%,+$0,,,,,HONE
+48,,2021-03-10 17:09:51,2021-03-01,HONE,Santangelo Andreana,Dir,A - Grant,$0.00,2285,5335,+75%,+$0,,,,,HONE
+49,,2021-03-10 17:09:25,2021-03-01,HONE,Sanborn H. Scott,"EVP, Chief Lending Officer",A - Grant,$0.00,4861,47790,+11%,+$0,,,,,HONE
+50,,2021-03-10 17:09:07,2021-03-01,HONE,Reilly David B.,"SVP, Operations",A - Grant,$0.00,3338,41328,+9%,+$0,,,,,HONE
+51,,2021-03-10 17:08:53,2021-03-01,HONE,Peckham Wallace H. III,Dir,A - Grant,$0.00,2285,45724,+5%,+$0,,,,,HONE
+52,,2021-03-10 17:08:34,2021-03-01,HONE,Payne William A,Dir,A - Grant,$0.00,2285,27115,+9%,+$0,,,,,HONE
+53,,2021-03-10 17:08:15,2021-03-01,HONE,McQuade Joseph E.,"SVP, CERO",A - Grant,$0.00,3257,10534,+45%,+$0,,,,,HONE
+54,,2021-03-10 17:07:36,2021-03-01,HONE,Lynch Timothy R.,Dir,A - Grant,$0.00,2285,52417,+5%,+$0,,,,,HONE
+55,,2021-03-10 17:05:25,2021-03-01,HONE,Koretz Barry R.,Dir,A - Grant,$0.00,2285,70371,+3%,+$0,,,,,HONE
+56,,2021-03-10 17:05:00,2021-03-01,HONE,Kerr Brenda C.,"SVP, Retail Officer",A - Grant,$0.00,3321,23968,+16%,+$0,,,,,HONE
+57,,2021-03-10 17:04:40,2021-03-01,HONE,Jezard Gordon,Dir,A - Grant,$0.00,2285,61394,+4%,+$0,,,,,HONE
+58,,2021-03-10 17:03:57,2021-03-01,HONE,Hamel Kevin M.,"SVP, CIO",A - Grant,$0.00,3257,11307,+40%,+$0,,,,,HONE
+59,,2021-03-10 17:03:38,2021-03-01,HONE,Friedman-Boyce Inez,"SVP, GC",A - Grant,$0.00,3257,14374,+29%,+$0,,,,,HONE
+60,,2021-03-10 17:03:17,2021-03-01,HONE,Frenette David P.,Dir,A - Grant,$0.00,2285,132303,+2%,+$0,,,,,HONE
+61,,2021-03-10 17:02:49,2021-03-01,HONE,Casey Joseph F,"Pres, COO",A - Grant,$0.00,11428,274863,+4%,+$0,,,,,HONE
+62,,2021-03-10 17:02:24,2021-03-01,HONE,Blake James W.,CEO,A - Grant,$0.00,20616,300122,+7%,+$0,,,,,HONE
+63,,2021-03-10 17:02:02,2021-03-01,HONE,Berman Mandy,Dir,A - Grant,$0.00,2285,16158,+16%,+$0,,,,,HONE
+64,,2021-03-10 17:01:27,2021-03-01,HONE,Barry Joseph F.,Dir,A - Grant,$0.00,2285,52417,+5%,+$0,,,,,HONE
+65,A,2021-03-03 17:16:16,2020-08-17,HONE,Williams Patricia M.,"SVP, HR Officer",F - Tax,$9.15,-2548,24783,-9%,"-$23,314",,,,,HONE
+66,,2020-12-16 16:13:21,2020-12-14,HONE,McQuade Joseph E.,Chief Enterprise Risk Officer,A - Grant,$0.00,7277,7277,New,+$0,,,,,HONE
+67,,2020-12-03 16:19:40,2020-12-02,HONE,Friedman-Boyce Inez,"SVP, GC",F - Tax,$9.92,-333,11117,-3%,"-$3,303",,,,,HONE
+68,,2020-11-02 17:29:15,2020-10-29,HONE,Williams Patricia M.,"SVP, Human Resource Officer",A - Grant,$0.00,6850,34190,+25%,+$0,,,,,HONE
+69,,2020-11-02 17:28:59,2020-10-29,HONE,Tryder David E.,"SVP, CMO",A - Grant,$0.00,6850,23086,+42%,+$0,,,,,HONE
+70,,2020-11-02 17:28:45,2020-10-29,HONE,Kerr Brenda C.,"SVP, Retail Officer",A - Grant,$0.00,6850,20647,+50%,+$0,,,,,HONE
+71,,2020-11-02 17:28:44,2020-10-29,HONE,Simmons Linda,"EVP, CFO",A - Grant,$0.00,14050,42479,+49%,+$0,,,,,HONE
+72,,2020-11-02 17:28:33,2020-10-29,HONE,Sanborn H. Scott,"EVP, Chief Lending Officer",A - Grant,$0.00,12000,42929,+39%,+$0,,,,,HONE
+73,,2020-11-02 17:28:30,2020-10-29,HONE,Hamel Kevin M.,"SVP, CIO",A - Grant,$0.00,8050,8050,New,+$0,,,,,HONE
+74,,2020-11-02 17:28:30,2020-10-29,HONE,Reilly David B.,"SVP, Operations",A - Grant,$0.00,6850,37990,+22%,+$0,,,,,HONE
+75,,2020-11-02 17:28:00,2020-10-29,HONE,Blake James W.,CEO,A - Grant,$0.00,50700,279506,+22%,+$0,,,,,HONE
+76,,2020-11-02 17:28:00,2020-10-29,HONE,Casey Joseph F,"Pres, COO",A - Grant,$0.00,28100,263453,+12%,+$0,,,,,HONE
+77,,2020-11-02 17:27:45,2020-10-29,HONE,Wilmot Damian W.,Dir,A - Grant,$0.00,2850,13835,+26%,+$0,,,,,HONE
+78,,2020-11-02 17:27:45,2020-10-29,HONE,Friedman-Boyce Inez,"SVP, GC",A - Grant,$0.00,8050,11450,+237%,+$0,,,,,HONE
+79,,2020-11-02 17:27:00,2020-10-29,HONE,Sullivan Michael James,COB,A - Grant,$0.00,3950,64130,+7%,+$0,,,,,HONE
+80,,2020-11-02 17:26:44,2020-10-29,HONE,Santangelo Andreana,Dir,A - Grant,$0.00,2850,3050,>999%,+$0,,,,,HONE
+81,,2020-11-02 17:26:32,2020-10-29,HONE,Peckham Wallace H. III,Dir,A - Grant,$0.00,2850,43439,+7%,+$0,,,,,HONE
+82,,2020-11-02 17:26:29,2020-10-29,HONE,Payne William A,Dir,A - Grant,$0.00,2850,24830,+13%,+$0,,,,,HONE
+83,,2020-11-02 17:26:14,2020-10-29,HONE,Lynch Timothy R.,Dir,A - Grant,$0.00,2850,50132,+6%,+$0,,,,,HONE
+84,,2020-11-02 17:26:00,2020-10-29,HONE,Koretz Barry R.,Dir,A - Grant,$0.00,2850,68086,+4%,+$0,,,,,HONE
+85,,2020-11-02 17:25:47,2020-10-29,HONE,Jezard Gordon,Dir,A - Grant,$0.00,2850,59109,+5%,+$0,,,,,HONE
+86,,2020-11-02 17:25:44,2020-10-29,HONE,Frenette David P.,Dir,A - Grant,$0.00,2850,130018,+2%,+$0,,,,,HONE
+87,,2020-11-02 17:25:29,2020-10-29,HONE,Berman Mandy,Dir,A - Grant,$0.00,2850,13873,+26%,+$0,,,,,HONE
+88,,2020-11-02 17:25:15,2020-10-29,HONE,Barry Joseph F.,Dir,A - Grant,$0.00,2850,50132,+6%,+$0,,,,,HONE
+89,,2020-09-21 17:01:46,2020-08-17,HONE,Blake James W.,CEO,F - Tax,$9.15,-34024,228806,-13%,"-$311,320",,,,,HONE
+90,,2020-08-27 17:02:32,2020-08-17,HONE,Williams Patricia M.,SVP- Human Resource Officer,F - Tax,$9.15,-2548,27340,-9%,"-$23,314",,,,,HONE
+91,,2020-08-27 17:02:31,2020-08-17,HONE,Casey Joseph F,"Pres, COO",F - Tax,$9.15,-17566,235353,-7%,"-$160,729",,,,,HONE
+92,,2020-08-27 17:01:23,2020-08-17,HONE,Sanborn H. Scott,EVP - Commercial Leasing,F - Tax,$9.15,-2548,30929,-8%,"-$23,314",,,,,HONE
+93,A,2020-07-16 16:35:29,2020-05-05,HONE,Casey Joseph F,"Pres, COO",P - Purchase,$7.65,1516,252919,+1%,"+$11,596",,,,,HONE
+94,M,2020-05-14 09:13:01,2020-05-12,HONE,Casey Joseph F,"Pres, COO",P - Purchase,$7.48,14000,265403,+6%,"+$104,670",,,,,HONE
+95,,2020-05-07 16:35:42,2020-05-05,HONE,Casey Joseph F,"Pres, COO",P - Purchase,$7.60,2000,251403,+1%,"+$15,200",,,,,HONE
+96,M,2020-05-05 17:03:10,2020-05-01,HONE,Casey Joseph F,"Pres, COO",P - Purchase,$7.62,7600,249403,+3%,"+$57,908",,,,,HONE
+97,D,2019-12-04 16:46:25,2019-12-02,HONE,Friedman-Boyce Inez,GC,A - Grant,$0.00,3400,3400,New,+$0,,,,,HONE
+98,M,2019-11-12 08:45:40,2019-11-07,HONE,Sullivan Michael James,COB,P - Purchase,$10.69,2000,60180,+3%,"+$21,385",,,,,HONE
+99,,2019-09-05 16:46:40,2019-09-03,HONE,Blake James W.,"CEO, Secretary",P - Purchase,$9.84,10000,262830,+4%,"+$98,432",,,,,HONE
+100,,2019-09-03 17:00:29,2019-08-30,HONE,Simmons Linda,"Senior VP, CFO",P - Purchase,$9.95,2500,30977,+9%,"+$24,875",,,,,HONE
+101,D,2019-08-16 16:46:29,2019-08-14,HONE,Tryder David E.,Senior V. P. - CMO,A - Grant,$10.00,500,18784,+3%,"+$5,000",,,,,HONE
+102,D,2019-08-16 16:46:29,2019-08-14,HONE,Williams Patricia M.,"SVP, Human Resource Officer",A - Grant,$10.00,1000,29888,+3%,"+$10,000",,,,,HONE
+103,D,2019-08-16 16:46:16,2019-08-14,HONE,Sanborn H. Scott,Exec. VP Commercial Leasing,A - Grant,$10.00,10000,33477,+43%,"+$100,000",,,,,HONE
+104,D,2019-08-16 16:46:16,2019-08-14,HONE,Simmons Linda,"Senior VP, CFO",A - Grant,$10.00,5000,28477,+21%,"+$50,000",,,,,HONE
+105,D,2019-08-16 16:46:16,2019-08-14,HONE,Sullivan Michael James,COB,A - Grant,$10.00,15000,58180,+35%,"+$150,000",,,,,HONE
+106,D,2019-08-16 16:46:15,2019-08-14,HONE,Peckham Wallace H. III,Dir,A - Grant,$10.00,1000,40589,+3%,"+$10,000",,,,,HONE
+107,D,2019-08-16 16:46:15,2019-08-14,HONE,Reilly David B.,SVP - Operations,A - Grant,$10.00,7500,33688,+29%,"+$75,000",,,,,HONE
+108,D,2019-08-16 16:46:02,2019-08-14,HONE,Payne William A,Dir,A - Grant,$10.00,7500,21980,+52%,"+$75,000",,,,,HONE
+109,D,2019-08-16 16:46:02,2019-08-14,HONE,Langone Mark T,SVP-Chief Enterprise Risk Off,A - Grant,$10.00,10000,51458,+24%,"+$100,000",,,,,HONE
+110,D,2019-08-16 16:46:02,2019-08-14,HONE,Lynch Timothy R.,Dir,A - Grant,$10.00,5000,47282,+12%,"+$50,000",,,,,HONE
+111,D,2019-08-16 16:46:02,2019-08-14,HONE,Koretz Barry R.,Dir,A - Grant,$10.00,5000,65236,+8%,"+$50,000",,,,,HONE
+112,D,2019-08-16 16:46:02,2019-08-14,HONE,Kerr Brenda C.,SVP - Retail Officer,A - Grant,$10.00,5325,14122,+61%,"+$53,250",,,,,HONE
+113,D,2019-08-16 16:46:02,2019-08-14,HONE,Jezard Gordon,Dir,A - Grant,$10.00,5000,56259,+10%,"+$50,000",,,,,HONE
+114,D,2019-08-16 16:45:47,2019-08-14,HONE,Goedken Brad J.,CIO,A - Grant,$10.00,1000,7284,+16%,"+$10,000",,,,,HONE
+115,D,2019-08-16 16:45:47,2019-08-14,HONE,Gibbons Christopher K.,SVP - Consumer Lending,A - Grant,$10.00,1000,27333,+4%,"+$10,000",,,,,HONE
+116,D,2019-08-16 16:45:47,2019-08-14,HONE,Casey Joseph F,"Pres, COO",A - Grant,$10.00,35000,241803,+17%,"+$350,000",,,,,HONE
+117,D,2019-08-16 16:45:47,2019-08-14,HONE,Blake James W.,"CEO, Secretary",A - Grant,$10.00,30000,252830,+13%,"+$300,000",,,,,HONE
+118,D,2019-08-16 16:45:46,2019-08-14,HONE,Frenette David P.,Dir,A - Grant,$10.00,40000,127168,+46%,"+$400,000",,,,,HONE
+119,,2019-08-16 16:45:30,2019-08-14,HONE,Wilmot Damian W.,Dir,A - Grant,$10.00,5000,10985,+84%,"+$50,000",,,,,HONE
+120,D,2019-08-16 16:45:30,2019-08-14,HONE,Barry Joseph F.,Dir,A - Grant,$10.00,5000,47282,+12%,"+$50,000",,,,,HONE
+121,,2019-08-16 16:45:30,2019-08-14,HONE,Berman Mandy,Dir,A - Grant,$10.00,5000,11023,+83%,"+$50,000",,,,,HONE

@@ -1,41 +1,950 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2019-11-25 17:17:15,2019-11-25,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$23.45,-25000,364851,-6%,"-$586,273",,,,,CY
-1,,2019-11-12 18:15:33,2019-11-11,CY,Thad Trent,"EVP, Finance, CFO",S - Sale,$23.31,-21003,255617,-8%,"-$489,502",,,,,CY
-2,,2019-11-12 18:09:54,2019-11-11,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$23.31,-50000,389851,-11%,"-$1,165,365",,,,,CY
-3,,2019-10-28 21:09:49,2019-10-28,CY,Thad Trent,"EVP, Finance, CFO",S - Sale,$23.27,-50000,276620,-15%,"-$1,163,335",,,,,CY
-4,,2019-10-28 21:06:26,2019-10-28,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$23.27,-50000,439851,-10%,"-$1,163,390",,,,,CY
-5,D,2019-10-15 16:20:21,2019-10-14,CY,Thad Trent,"EVP, Finance, CFO",S - Sale+OE,$23.43,-40000,326620,-11%,"-$937,128",,,,,CY
-6,,2019-10-15 16:17:05,2019-10-14,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$23.43,-25000,489851,-5%,"-$585,663",,,,,CY
-7,,2019-09-18 16:12:37,2019-09-17,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$23.38,-3000,158604,-2%,"-$70,129",,,,,CY
-8,,2019-08-19 20:37:08,2019-08-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$22.93,-3000,161604,-2%,"-$68,775",,,,,CY
-9,,2019-07-17 16:46:40,2019-07-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$22.45,-3000,162588,-2%,"-$67,343",,,,,CY
-10,,2019-07-02 18:47:31,2019-07-01,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$22.32,-20000,503689,-4%,"-$446,492",,,,,CY
-11,,2019-06-18 19:57:49,2019-06-18,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$22.18,-3000,163644,-2%,"-$66,530",,,,,CY
-12,,2019-06-05 18:34:35,2019-06-03,CY,Geha Sam,"EVP, Memory Products",S - Sale,$22.39,-5000,115655,-4%,"-$111,950",,,,,CY
-13,,2019-06-05 18:32:54,2019-06-03,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$22.16,-20000,521745,-4%,"-$443,250",,,,,CY
-14,,2019-05-17 16:05:28,2019-05-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$15.87,-3000,165031,-2%,"-$47,617",,,,,CY
-15,D,2019-05-06 20:44:19,2019-05-03,CY,Kwon Oc,Dir,S - Sale+OE,$17.13,-3710,69403,-5%,"-$63,566",,,,,CY
-16,,2019-05-01 19:20:45,2019-05-01,CY,Geha Sam,"EVP, Memory Products",S - Sale,$17.29,-5000,120655,-4%,"-$86,450",,,,,CY
-17,,2019-04-16 20:11:53,2019-04-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$16.37,-3000,162979,-2%,"-$49,120",,,,,CY
-18,,2019-04-08 19:32:30,2019-04-08,CY,Geha Sam,"EVP, Memory Products",S - Sale,$15.90,-5000,120603,-4%,"-$79,500",,,,,CY
-19,,2019-03-19 19:35:32,2019-03-18,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$15.19,-3000,165979,-2%,"-$45,569",,,,,CY
-20,D,2019-03-15 20:10:45,2019-03-15,CY,Thad Trent,"EVP, Finance, CFO",S - Sale+OE,$15.35,-17000,323117,-5%,"-$261,032",,,,,CY
-21,D,2019-02-20 19:28:41,2019-02-19,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale+OE,$15.58,-3000,130550,-2%,"-$46,731",,,,,CY
-22,D,2019-01-28 16:06:30,2019-01-25,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale+OE,$14.00,-12598,99696,-11%,"-$176,386",,,,,CY
-23,D,2019-01-10 16:06:38,2019-01-09,CY,El-Khoury Hassane,"Pres, CEO",S - Sale+OE,$13.00,-4300,298077,-1%,"-$55,900",,,,,CY
-24,M,2018-11-29 16:46:10,2018-11-28,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$13.88,-50000,296539,-14%,"-$693,920",,,,,CY
-25,,2018-11-19 17:40:16,2018-11-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$14.00,-3000,109266,-3%,"-$42,000",,,,,CY
-26,,2018-11-13 16:34:44,2018-11-13,CY,Martino Camillo,Dir,P - Purchase,$12.80,5000,44796,+13%,"+$64,000",,,,,CY
-27,,2018-10-17 17:53:38,2018-10-17,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$14.00,-3000,111157,-3%,"-$42,000",,,,,CY
-28,,2018-09-17 18:26:55,2018-09-17,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$15.39,-3000,114157,-3%,"-$46,181",,,,,CY
-29,,2018-08-16 19:06:56,2018-08-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$16.04,-3000,117157,-2%,"-$48,133",,,,,CY
-30,D,2018-07-23 19:41:20,2018-07-23,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale+OE,$16.80,-2017,120157,-2%,"-$33,891",,,,,CY
-31,,2018-07-16 20:07:33,2018-07-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$16.50,-3000,118174,-2%,"-$49,491",,,,,CY
-32,D,2018-06-25 17:52:33,2018-06-25,CY,Geha Sam,"Corporate EVP, Memory Products",S - Sale+OE,$16.84,-548,56182,-1%,"-$9,230",,,,,CY
-33,,2018-06-18 19:52:42,2018-06-18,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$17.60,-3000,119342,-2%,"-$52,802",,,,,CY
-34,,2018-06-06 16:05:26,2018-06-05,CY,Wishart Michael S,Dir,S - Sale,$16.90,-5900,77923,-7%,"-$99,724",,,,,CY
-35,A,2018-05-29 20:45:39,2018-05-25,CY,Geha Sam,"Corporate EVP, Memory Products",S - Sale,$16.60,-184,64447,0%,"-$3,055",,,,,CY
-36,D,2018-05-29 16:56:43,2018-05-25,CY,Geha Sam,"Corporate EVP, Memory Products",S - Sale+OE,$16.60,-9818,55647,-15%,"-$162,938",,,,,CY
-37,,2018-05-16 19:03:29,2018-05-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$16.45,-3000,120734,-2%,"-$49,337",,,,,CY
-38,,2018-05-02 07:00:01,2018-04-30,CY,El-Khoury Hassane,"Pres, CEO",P - Purchase,$15.03,10000,310349,+3%,"+$150,268",,,,,CY
-39,,2018-04-18 19:49:31,2018-04-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$17.24,-3000,123125,-2%,"-$51,708",,,,,CY
+0,D,2019-12-19 16:48:59,2019-12-18,CY,Sargent Jeannine P,Dir,M - OptEx,$0.00,4271,26233,+19%,+$0,,,,,CY
+1,D,2019-12-18 20:06:24,2019-12-16,CY,El-Khoury Hassane,"Pres, CEO",A - Grant,$0.00,348224,671989,+108%,+$0,,,,,CY
+2,D,2019-12-18 20:06:24,2019-12-16,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$23.38,-199277,671989,-23%,"-$4,659,096",,,,,CY
+3,D,2019-12-18 20:06:24,2019-12-16,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,158191,671989,+31%,+$0,,,,,CY
+4,D,2019-12-18 20:03:48,2019-12-16,CY,Geha Sam,"EVP, Memory Products",A - Grant,$0.00,103094,199426,+107%,+$0,,,,,CY
+5,D,2019-12-18 20:03:48,2019-12-16,CY,Geha Sam,"EVP, Memory Products",F - Tax,$23.38,-78943,199426,-28%,"-$1,845,687",,,,,CY
+6,D,2019-12-18 20:03:48,2019-12-16,CY,Geha Sam,"EVP, Memory Products",M - OptEx,$0.00,56122,199426,+39%,+$0,,,,,CY
+7,D,2019-12-18 20:02:16,2019-12-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",A - Grant,$0.00,114587,249298,+85%,+$0,,,,,CY
+8,D,2019-12-18 20:02:16,2019-12-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$23.38,-88100,249298,-26%,"-$2,059,778",,,,,CY
+9,D,2019-12-18 20:02:16,2019-12-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,63098,249298,+34%,+$0,,,,,CY
+10,D,2019-12-18 20:00:22,2019-12-16,CY,Tondreau Pamela L.,"EVP, GC, HR",A - Grant,$0.00,100827,314164,+47%,+$0,,,,,CY
+11,D,2019-12-18 20:00:22,2019-12-16,CY,Tondreau Pamela L.,"EVP, GC, HR",F - Tax,$23.38,-86042,314164,-21%,"-$2,011,662",,,,,CY
+12,D,2019-12-18 20:00:22,2019-12-16,CY,Tondreau Pamela L.,"EVP, GC, HR",M - OptEx,$0.00,72709,314164,+30%,+$0,,,,,CY
+13,D,2019-12-18 19:58:19,2019-12-16,CY,Thad Trent,"EVP, Finance, CFO",A - Grant,$0.00,122599,350555,+54%,+$0,,,,,CY
+14,D,2019-12-18 19:58:19,2019-12-16,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$23.38,-93362,350555,-21%,"-$2,182,804",,,,,CY
+15,D,2019-12-18 19:58:19,2019-12-16,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,65701,350555,+23%,+$0,,,,,CY
+16,,2019-11-25 17:17:15,2019-11-25,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$23.45,-25000,364851,-6%,"-$586,273",,,,,CY
+17,,2019-11-12 18:15:33,2019-11-11,CY,Thad Trent,"EVP, Finance, CFO",S - Sale,$23.31,-21003,255617,-8%,"-$489,502",,,,,CY
+18,D,2019-11-12 18:13:47,2019-11-10,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$23.31,-1091,159713,-1%,"-$25,431",,,,,CY
+19,D,2019-11-12 18:13:47,2019-11-10,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,2200,159713,+1%,+$0,,,,,CY
+20,D,2019-11-12 18:12:19,2019-11-10,CY,Geha Sam,"EVP, Memory Products",F - Tax,$23.31,-992,119153,-1%,"-$23,124",,,,,CY
+21,D,2019-11-12 18:12:19,2019-11-10,CY,Geha Sam,"EVP, Memory Products",M - OptEx,$0.00,2000,119153,+2%,+$0,,,,,CY
+22,,2019-11-12 18:09:54,2019-11-11,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$23.31,-50000,389851,-11%,"-$1,165,365",,,,,CY
+23,,2019-10-28 21:09:49,2019-10-28,CY,Thad Trent,"EVP, Finance, CFO",S - Sale,$23.27,-50000,276620,-15%,"-$1,163,335",,,,,CY
+24,,2019-10-28 21:06:26,2019-10-28,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$23.27,-50000,439851,-10%,"-$1,163,390",,,,,CY
+25,D,2019-10-15 16:20:21,2019-10-14,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$11.43,36003,326620,+12%,"+$411,354",,,,,CY
+26,D,2019-10-15 16:20:21,2019-10-14,CY,Thad Trent,"EVP, Finance, CFO",S - Sale+OE,$23.43,-40000,326620,-11%,"-$937,128",,,,,CY
+27,,2019-10-15 16:17:05,2019-10-14,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$23.43,-25000,489851,-5%,"-$585,663",,,,,CY
+28,D,2019-09-26 17:45:42,2019-09-25,CY,Owens Jeffrey J,Dir,M - OptEx,$0.00,4705,31172,+18%,+$0,,,,,CY
+29,,2019-09-18 16:12:37,2019-09-17,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$23.38,-3000,158604,-2%,"-$70,129",,,,,CY
+30,,2019-09-12 18:12:23,2019-09-12,CY,Albrecht W Steve,Dir,G - Gift,$0.00,-12920,149019,-8%,-$0,,,,,CY
+31,D,2019-09-06 19:24:59,2019-09-06,CY,Lego Catherine P,Dir,M - OptEx,$0.00,4862,74934,+7%,+$0,,,,,CY
+32,,2019-08-19 20:37:08,2019-08-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$22.93,-3000,161604,-2%,"-$68,775",,,,,CY
+33,D,2019-08-13 20:22:50,2019-08-10,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$22.68,-7242,514851,-1%,"-$164,249",,,,,CY
+34,D,2019-08-13 20:22:50,2019-08-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,514851,+4%,+$0,,,,,CY
+35,D,2019-07-23 20:58:58,2019-07-21,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$22.28,-1984,164604,-1%,"-$44,204",,,,,CY
+36,D,2019-07-23 20:58:58,2019-07-21,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,4000,164604,+2%,+$0,,,,,CY
+37,,2019-07-17 16:46:40,2019-07-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$22.45,-3000,162588,-2%,"-$67,343",,,,,CY
+38,,2019-07-02 18:47:31,2019-07-01,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$22.32,-20000,503689,-4%,"-$446,492",,,,,CY
+39,D,2019-06-26 19:45:43,2019-06-26,CY,Martino Camillo,Dir,M - OptEx,$0.00,4949,62098,+9%,+$0,,,,,CY
+40,D,2019-06-24 20:08:48,2019-06-22,CY,Geha Sam,"EVP, Memory Products",F - Tax,$22.17,-538,116201,0%,"-$11,927",,,,,CY
+41,D,2019-06-24 20:08:48,2019-06-22,CY,Geha Sam,"EVP, Memory Products",M - OptEx,$0.00,1084,116201,+1%,+$0,,,,,CY
+42,,2019-06-18 19:57:49,2019-06-18,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$22.18,-3000,163644,-2%,"-$66,530",,,,,CY
+43,,2019-06-05 18:34:35,2019-06-03,CY,Geha Sam,"EVP, Memory Products",S - Sale,$22.39,-5000,115655,-4%,"-$111,950",,,,,CY
+44,,2019-06-05 18:32:54,2019-06-03,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$22.16,-20000,521745,-4%,"-$443,250",,,,,CY
+45,D,2019-05-31 19:29:22,2019-05-30,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$17.89,-1587,166644,-1%,"-$28,391",,,,,CY
+46,D,2019-05-31 19:29:22,2019-05-30,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,3200,166644,+2%,+$0,,,,,CY
+47,,2019-05-17 16:05:28,2019-05-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$15.87,-3000,165031,-2%,"-$47,617",,,,,CY
+48,D,2019-05-13 16:05:17,2019-05-10,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$16.31,-7431,541745,-1%,"-$121,200",,,,,CY
+49,D,2019-05-13 16:05:17,2019-05-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,541745,+4%,+$0,,,,,CY
+50,D,2019-05-06 20:52:17,2019-05-02,CY,Albrecht W Steve,Dir,M - OptEx,$0.00,12353,161939,+8%,+$0,,,,,CY
+51,D,2019-05-06 20:47:55,2019-05-02,CY,Martino Camillo,Dir,M - OptEx,$0.00,12353,57149,+28%,+$0,,,,,CY
+52,D,2019-05-06 20:46:41,2019-05-02,CY,Lego Catherine P,Dir,M - OptEx,$0.00,12353,70072,+21%,+$0,,,,,CY
+53,D,2019-05-06 20:44:19,2019-05-02,CY,Kwon Oc,Dir,M - OptEx,$0.00,12353,69403,+22%,+$0,,,,,CY
+54,D,2019-05-06 20:44:19,2019-05-03,CY,Kwon Oc,Dir,S - Sale+OE,$17.13,-3710,69403,-5%,"-$63,566",,,,,CY
+55,D,2019-05-06 20:43:02,2019-05-02,CY,Wishart Michael S,Dir,M - OptEx,$0.00,12353,90276,+16%,+$0,,,,,CY
+56,D,2019-05-06 20:40:36,2019-05-02,CY,Sargent Jeannine P,Dir,M - OptEx,$0.00,12353,21962,+129%,+$0,,,,,CY
+57,D,2019-05-06 20:37:51,2019-05-02,CY,Owens Jeffrey J,Dir,M - OptEx,$0.00,12353,26467,+88%,+$0,,,,,CY
+58,D,2019-05-03 18:37:22,2019-05-02,CY,McCranie J Daniel,Dir,M - OptEx,$0.00,12353,87149,+17%,+$0,,,,,CY
+59,,2019-05-01 19:20:45,2019-05-01,CY,Geha Sam,"EVP, Memory Products",S - Sale,$17.29,-5000,120655,-4%,"-$86,450",,,,,CY
+60,,2019-04-22 20:08:21,2019-04-19,CY,Thad Trent,"EVP, Finance, CFO",A - Grant,$0.00,11021,328673,+3%,+$0,,,,,CY
+61,,2019-04-22 20:08:21,2019-04-19,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$16.33,-5465,328673,-2%,"-$89,243",,,,,CY
+62,,2019-04-22 20:05:48,2019-04-19,CY,Tondreau Pamela L.,"EVP, GC, HR",A - Grant,$0.00,9017,224726,+4%,+$0,,,,,CY
+63,,2019-04-22 20:05:48,2019-04-19,CY,Tondreau Pamela L.,"EVP, GC, HR",F - Tax,$16.33,-4471,224726,-2%,"-$73,011",,,,,CY
+64,,2019-04-22 19:59:13,2019-04-19,CY,Geha Sam,"EVP, Memory Products",A - Grant,$0.00,10020,125655,+9%,+$0,,,,,CY
+65,,2019-04-22 19:59:13,2019-04-19,CY,Geha Sam,"EVP, Memory Products",F - Tax,$16.33,-4968,125655,-4%,"-$81,127",,,,,CY
+66,,2019-04-22 19:58:11,2019-04-19,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",A - Grant,$0.00,10020,168031,+6%,+$0,,,,,CY
+67,,2019-04-22 19:58:11,2019-04-19,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$16.33,-4968,168031,-3%,"-$81,127",,,,,CY
+68,,2019-04-22 19:56:27,2019-04-19,CY,El-Khoury Hassane,"Pres, CEO",A - Grant,$0.00,30393,530772,+6%,+$0,,,,,CY
+69,,2019-04-22 19:56:27,2019-04-19,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$16.33,-12271,530772,-2%,"-$200,385",,,,,CY
+70,,2019-04-16 20:11:53,2019-04-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$16.37,-3000,162979,-2%,"-$49,120",,,,,CY
+71,,2019-04-08 19:32:30,2019-04-08,CY,Geha Sam,"EVP, Memory Products",S - Sale,$15.90,-5000,120603,-4%,"-$79,500",,,,,CY
+72,,2019-03-19 19:35:32,2019-03-18,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$15.19,-3000,165979,-2%,"-$45,569",,,,,CY
+73,D,2019-03-15 20:10:45,2019-03-15,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$6.17,17000,323117,+6%,"+$104,890",,,,,CY
+74,D,2019-03-15 20:10:45,2019-03-15,CY,Thad Trent,"EVP, Finance, CFO",S - Sale+OE,$15.35,-17000,323117,-5%,"-$261,032",,,,,CY
+75,,2019-03-01 20:24:50,2019-02-28,CY,Thad Trent,"EVP, Finance, CFO",A - Grant,$0.00,72752,323117,+29%,+$0,,,,,CY
+76,,2019-03-01 20:24:50,2019-02-28,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$15.43,-35419,323117,-10%,"-$546,515",,,,,CY
+77,,2019-03-01 20:23:11,2019-02-28,CY,Tondreau Pamela L.,"EVP, GC, HR",A - Grant,$0.00,62269,220180,+39%,+$0,,,,,CY
+78,,2019-03-01 20:23:11,2019-02-28,CY,Tondreau Pamela L.,"EVP, GC, HR",F - Tax,$15.43,-30874,220180,-12%,"-$476,386",,,,,CY
+79,,2019-03-01 20:20:40,2019-02-28,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",A - Grant,$0.00,74033,168979,+78%,+$0,,,,,CY
+80,,2019-03-01 20:20:40,2019-02-28,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$15.43,-35604,168979,-17%,"-$549,370",,,,,CY
+81,,2019-03-01 20:16:57,2019-02-28,CY,Geha Sam,"EVP, Memory Products",A - Grant,$0.00,64839,125603,+107%,+$0,,,,,CY
+82,,2019-03-01 20:16:57,2019-02-28,CY,Geha Sam,"EVP, Memory Products",F - Tax,$15.43,-30471,125603,-20%,"-$470,168",,,,,CY
+83,,2019-03-01 20:15:05,2019-02-28,CY,El-Khoury Hassane,"Pres, CEO",A - Grant,$0.00,199306,512650,+64%,+$0,,,,,CY
+84,,2019-03-01 20:15:05,2019-02-28,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$15.43,-84545,512650,-14%,"-$1,304,529",,,,,CY
+85,D,2019-02-20 19:34:11,2019-02-16,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$15.70,-5788,285784,-2%,"-$90,872",,,,,CY
+86,D,2019-02-20 19:34:11,2019-02-16,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,16736,285784,+6%,+$0,,,,,CY
+87,D,2019-02-20 19:32:11,2019-02-16,CY,Tondreau Pamela L.,"EVP, GC, HR",F - Tax,$15.70,-4995,188785,-3%,"-$78,422",,,,,CY
+88,D,2019-02-20 19:32:11,2019-02-16,CY,Tondreau Pamela L.,"EVP, GC, HR",M - OptEx,$0.00,14442,188785,+8%,+$0,,,,,CY
+89,D,2019-02-20 19:28:41,2019-02-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$15.70,-6006,130550,-4%,"-$94,294",,,,,CY
+90,D,2019-02-20 19:28:41,2019-02-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,17368,130550,+15%,+$0,,,,,CY
+91,D,2019-02-20 19:28:41,2019-02-19,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale+OE,$15.58,-3000,130550,-2%,"-$46,731",,,,,CY
+92,D,2019-02-20 19:26:17,2019-02-16,CY,Geha Sam,"EVP, Memory Products",F - Tax,$15.70,-5139,91235,-5%,"-$80,682",,,,,CY
+93,D,2019-02-20 19:26:17,2019-02-16,CY,Geha Sam,"EVP, Memory Products",M - OptEx,$0.00,14860,91235,+19%,+$0,,,,,CY
+94,D,2019-02-20 19:23:37,2019-02-16,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$15.70,-13659,397889,-3%,"-$214,446",,,,,CY
+95,D,2019-02-20 19:23:37,2019-02-16,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,32198,397889,+9%,+$0,,,,,CY
+96,D,2019-02-13 18:09:59,2019-02-10,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$14.82,-7807,379350,-2%,"-$115,700",,,,,CY
+97,D,2019-02-13 18:09:59,2019-02-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,379350,+5%,+$0,,,,,CY
+98,D,2019-02-04 18:38:47,2019-02-01,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$14.79,-13525,274836,-5%,"-$200,035",,,,,CY
+99,D,2019-02-04 18:38:47,2019-02-01,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,38338,274836,+16%,+$0,,,,,CY
+100,D,2019-02-04 18:37:26,2019-02-01,CY,Tondreau Pamela L.,"EVP, GC, HR",F - Tax,$14.79,-10847,179338,-6%,"-$160,427",,,,,CY
+101,D,2019-02-04 18:37:26,2019-02-01,CY,Tondreau Pamela L.,"EVP, GC, HR",M - OptEx,$0.00,31367,179338,+21%,+$0,,,,,CY
+102,D,2019-02-04 18:35:33,2019-02-01,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$14.79,-12359,122188,-9%,"-$182,790",,,,,CY
+103,D,2019-02-04 18:35:33,2019-02-01,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,34851,122188,+40%,+$0,,,,,CY
+104,D,2019-02-04 18:33:57,2019-02-01,CY,Geha Sam,"EVP, Memory Products",F - Tax,$14.79,-12359,81514,-13%,"-$182,790",,,,,CY
+105,D,2019-02-04 18:33:57,2019-02-01,CY,Geha Sam,"EVP, Memory Products",M - OptEx,$0.00,34851,81514,+75%,+$0,,,,,CY
+106,D,2019-02-04 18:32:32,2019-02-01,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$14.79,-35042,368753,-9%,"-$518,271",,,,,CY
+107,D,2019-02-04 18:32:32,2019-02-01,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,105718,368753,+40%,+$0,,,,,CY
+108,D,2019-01-28 16:06:30,2019-01-25,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$6.17,6598,99696,+7%,"+$40,710",,,,,CY
+109,D,2019-01-28 16:06:30,2019-01-25,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale+OE,$14.00,-12598,99696,-11%,"-$176,386",,,,,CY
+110,D,2019-01-23 16:06:18,2019-01-22,CY,Tondreau Pamela L.,"EVP, GC, HR",F - Tax,$12.76,-6628,158818,-4%,"-$84,573",,,,,CY
+111,D,2019-01-23 16:06:18,2019-01-22,CY,Tondreau Pamela L.,"EVP, GC, HR",M - OptEx,$0.00,18000,158818,+13%,+$0,,,,,CY
+112,D,2019-01-10 16:06:38,2019-01-09,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$6.17,4300,298077,+1%,"+$26,531",,,,,CY
+113,D,2019-01-10 16:06:38,2019-01-09,CY,El-Khoury Hassane,"Pres, CEO",S - Sale+OE,$13.00,-4300,298077,-1%,"-$55,900",,,,,CY
+114,D,2018-12-18 20:53:53,2018-12-18,CY,Sargent Jeannine P,Dir,M - OptEx,$0.00,4271,9609,+80%,+$0,,,,,CY
+115,,2018-12-14 18:03:19,2018-12-14,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",G - Gift,$0.00,-570,108696,-1%,-$0,,,,,CY
+116,M,2018-11-29 16:46:10,2018-11-28,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$13.88,-50000,296539,-14%,"-$693,920",,,,,CY
+117,,2018-11-19 17:40:16,2018-11-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$14.00,-3000,109266,-3%,"-$42,000",,,,,CY
+118,D,2018-11-14 16:12:57,2018-11-10,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$13.22,-1091,112266,-1%,"-$14,423",,,,,CY
+119,D,2018-11-14 16:12:57,2018-11-10,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,2200,112266,+2%,+$0,,,,,CY
+120,D,2018-11-14 16:11:44,2018-11-10,CY,Geha Sam,"EVP, Memory Products",F - Tax,$13.22,-992,59022,-2%,"-$13,114",,,,,CY
+121,D,2018-11-14 16:11:44,2018-11-10,CY,Geha Sam,"EVP, Memory Products",M - OptEx,$0.00,2000,59022,+4%,+$0,,,,,CY
+122,D,2018-11-14 16:07:50,2018-11-10,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$13.22,-7242,346539,-2%,"-$95,739",,,,,CY
+123,D,2018-11-14 16:07:50,2018-11-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,346539,+6%,+$0,,,,,CY
+124,,2018-11-13 16:34:44,2018-11-13,CY,Martino Camillo,Dir,P - Purchase,$12.80,5000,44796,+13%,"+$64,000",,,,,CY
+125,,2018-10-17 17:53:38,2018-10-17,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$14.00,-3000,111157,-3%,"-$42,000",,,,,CY
+126,D,2018-09-26 17:22:05,2018-09-25,CY,Owens Jeffrey J,Dir,M - OptEx,$0.00,4705,14114,+50%,+$0,,,,,CY
+127,,2018-09-17 18:26:55,2018-09-17,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$15.39,-3000,114157,-3%,"-$46,181",,,,,CY
+128,D,2018-09-07 18:00:51,2018-09-06,CY,Lego Catherine P,Dir,M - OptEx,$0.00,4863,57719,+9%,+$0,,,,,CY
+129,,2018-08-16 19:06:56,2018-08-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$16.04,-3000,117157,-2%,"-$48,133",,,,,CY
+130,D,2018-08-10 18:25:56,2018-08-10,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$16.71,-7242,333545,-2%,"-$121,014",,,,,CY
+131,D,2018-08-10 18:25:56,2018-08-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,333545,+6%,+$0,,,,,CY
+132,D,2018-07-23 19:41:20,2018-07-21,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,4000,120157,+3%,+$0,,,,,CY
+133,D,2018-07-23 19:41:20,2018-07-23,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale+OE,$16.80,-2017,120157,-2%,"-$33,891",,,,,CY
+134,,2018-07-16 20:07:33,2018-07-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$16.50,-3000,118174,-2%,"-$49,491",,,,,CY
+135,D,2018-06-28 16:10:46,2018-06-27,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$4.55,3811,323439,+1%,"+$17,357",,,,,CY
+136,D,2018-06-27 20:41:23,2018-06-26,CY,McCranie J Daniel,Dir,M - OptEx,$0.00,4949,74796,+7%,+$0,,,,,CY
+137,D,2018-06-27 20:35:00,2018-06-26,CY,Martino Camillo,Dir,M - OptEx,$0.00,4949,39796,+14%,+$0,,,,,CY
+138,D,2018-06-25 17:52:33,2018-06-22,CY,Geha Sam,"Corporate EVP, Memory Products",M - OptEx,$0.00,1083,56182,+2%,+$0,,,,,CY
+139,D,2018-06-25 17:52:33,2018-06-25,CY,Geha Sam,"Corporate EVP, Memory Products",S - Sale+OE,$16.84,-548,56182,-1%,"-$9,230",,,,,CY
+140,,2018-06-18 19:52:42,2018-06-18,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$17.60,-3000,119342,-2%,"-$52,802",,,,,CY
+141,,2018-06-06 16:05:26,2018-06-05,CY,Wishart Michael S,Dir,S - Sale,$16.90,-5900,77923,-7%,"-$99,724",,,,,CY
+142,D,2018-06-01 16:07:05,2018-05-31,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$16.60,-1592,122342,-1%,"-$26,427",,,,,CY
+143,D,2018-06-01 16:07:05,2018-05-30,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,3200,122342,+3%,+$0,,,,,CY
+144,A,2018-05-29 20:45:39,2018-05-25,CY,Geha Sam,"Corporate EVP, Memory Products",F - Tax,$16.60,-1016,64447,-2%,"-$16,869",,,,,CY
+145,A,2018-05-29 20:45:39,2018-05-25,CY,Geha Sam,"Corporate EVP, Memory Products",S - Sale,$16.60,-184,64447,0%,"-$3,055",,,,,CY
+146,D,2018-05-29 16:56:43,2018-05-25,CY,Geha Sam,"Corporate EVP, Memory Products",F - Tax,$16.60,-182,55647,0%,"-$3,022",,,,,CY
+147,D,2018-05-29 16:56:43,2018-05-25,CY,Geha Sam,"Corporate EVP, Memory Products",M - OptEx,$11.55,1200,55647,+2%,"+$13,860",,,,,CY
+148,D,2018-05-29 16:56:43,2018-05-25,CY,Geha Sam,"Corporate EVP, Memory Products",S - Sale+OE,$16.60,-9818,55647,-15%,"-$162,938",,,,,CY
+149,,2018-05-16 19:03:29,2018-05-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$16.45,-3000,120734,-2%,"-$49,337",,,,,CY
+150,D,2018-05-14 20:40:00,2018-05-11,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$16.39,-9125,319628,-3%,"-$149,513",,,,,CY
+151,D,2018-05-14 20:40:00,2018-05-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,319628,+6%,+$0,,,,,CY
+152,D,2018-05-14 20:15:25,2018-05-10,CY,Sargent Jeannine P,Dir,M - OptEx,$0.00,5338,5338,New,+$0,,,,,CY
+153,D,2018-05-14 20:11:55,2018-05-10,CY,Owens Jeffrey J,Dir,M - OptEx,$0.00,9409,9409,New,+$0,,,,,CY
+154,D,2018-05-14 20:08:42,2018-05-10,CY,Lego Catherine P,Dir,M - OptEx,$0.00,12156,52856,+30%,+$0,,,,,CY
+155,D,2018-05-14 20:06:16,2018-05-11,CY,Kwon Oc,Dir,F - Tax,$16.34,-4463,60760,-7%,"-$72,927",,,,,CY
+156,D,2018-05-14 20:06:16,2018-05-10,CY,Kwon Oc,Dir,M - OptEx,$0.00,14847,60760,+32%,+$0,,,,,CY
+157,D,2018-05-11 19:46:47,2018-05-10,CY,Wishart Michael S,Dir,M - OptEx,$0.00,14847,83823,+22%,+$0,,,,,CY
+158,D,2018-05-11 19:44:43,2018-05-10,CY,McCranie J Daniel,Dir,M - OptEx,$0.00,14847,69847,+27%,+$0,,,,,CY
+159,D,2018-05-11 19:42:34,2018-05-10,CY,Martino Camillo,Dir,M - OptEx,$0.00,14847,34847,+74%,+$0,,,,,CY
+160,D,2018-05-11 19:39:54,2018-05-10,CY,Albrecht W Steve,Dir,M - OptEx,$0.00,14847,199586,+8%,+$0,,,,,CY
+161,D,2018-05-11 19:34:57,2018-05-10,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$16.20,-658,248191,0%,"-$10,662",,,,,CY
+162,D,2018-05-11 19:34:57,2018-05-09,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,1334,248191,+1%,+$0,,,,,CY
+163,D,2018-05-11 19:32:08,2018-05-10,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$16.22,-591,123734,0%,"-$9,588",,,,,CY
+164,D,2018-05-11 19:32:08,2018-05-09,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,1200,123734,+1%,+$0,,,,,CY
+165,,2018-05-02 07:00:01,2018-04-30,CY,El-Khoury Hassane,"Pres, CEO",P - Purchase,$15.03,10000,310349,+3%,"+$150,268",,,,,CY
+166,,2018-04-18 19:49:31,2018-04-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$17.24,-3000,123125,-2%,"-$51,708",,,,,CY
+167,,2018-03-19 18:45:29,2018-03-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,$18.57,-3000,126125,-2%,"-$55,723",,,,,CY
+168,,2018-03-14 20:08:20,2018-03-14,CY,Geha Sam,"Corporate EVP, Memory Products",S - Sale,$18.49,-10000,64447,-13%,"-$184,913",,,,,CY
+169,D,2018-03-13 19:53:11,2018-03-12,CY,Wishart Michael S,Dir,M - OptEx,$0.00,3720,68976,+6%,+$0,,,,,CY
+170,D,2018-03-13 19:51:35,2018-03-13,CY,Kwon Oc,Dir,F - Tax,$18.75,-1111,50376,-2%,"-$20,835",,,,,CY
+171,D,2018-03-13 19:51:35,2018-03-12,CY,Kwon Oc,Dir,M - OptEx,$0.00,3720,50376,+8%,+$0,,,,,CY
+172,D,2018-03-06 19:37:47,2018-03-05,CY,Geha Sam,"Corporate EVP, Memory Products",F - Tax,$17.63,-930,74447,-1%,"-$16,400",,,,,CY
+173,D,2018-03-06 19:37:47,2018-03-05,CY,Geha Sam,"Corporate EVP, Memory Products",M - OptEx,$11.55,1200,74447,+2%,"+$13,860",,,,,CY
+174,D,2018-03-06 19:37:47,2018-03-05,CY,Geha Sam,"Corporate EVP, Memory Products",S - Sale+OE,$17.59,-20652,74447,-22%,"-$363,358",,,,,CY
+175,,2018-03-02 20:18:28,2018-03-01,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",F - Tax,$17.17,-31729,129125,-20%,"-$544,714",,,,,CY
+176,,2018-03-02 20:18:28,2018-02-28,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",M - OptEx,$0.00,66345,129125,+106%,+$0,,,,,CY
+177,,2018-03-02 20:15:20,2018-03-01,CY,Geha Sam,"Corporate EVP, Memory Products",F - Tax,$17.22,-31345,94829,-25%,"-$539,789",,,,,CY
+178,,2018-03-02 20:15:20,2018-02-28,CY,Geha Sam,"Corporate EVP, Memory Products",M - OptEx,$0.00,65298,94829,+221%,+$0,,,,,CY
+179,,2018-03-02 20:13:55,2018-03-01,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$17.12,-39262,247515,-14%,"-$672,290",,,,,CY
+180,,2018-03-02 20:13:55,2018-02-28,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,77865,247515,+46%,+$0,,,,,CY
+181,,2018-03-02 20:11:09,2018-03-01,CY,Tondreau Pamela L.,"EVP, GC, HR",F - Tax,$17.13,-31078,145247,-18%,"-$532,274",,,,,CY
+182,,2018-03-02 20:11:09,2018-02-28,CY,Tondreau Pamela L.,"EVP, GC, HR",M - OptEx,$0.00,61344,145247,+73%,+$0,,,,,CY
+183,,2018-03-02 20:09:56,2018-03-01,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$17.10,-75903,300349,-20%,"-$1,297,941",,,,,CY
+184,,2018-03-02 20:09:56,2018-02-28,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,149685,300349,+99%,+$0,,,,,CY
+185,,2018-03-02 20:09:56,2018-02-28,CY,El-Khoury Hassane,"Pres, CEO",S - Sale,$17.60,-43991,300349,-13%,"-$774,052",,,,,CY
+186,D,2018-02-21 18:13:11,2018-02-16,CY,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale+OE,$16.25,-3000,91509,-3%,"-$48,738",,,,,CY
+187,D,2018-02-13 20:49:14,2018-02-12,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$15.61,-9003,419684,-2%,"-$140,567",,,,,CY
+188,D,2018-02-13 20:49:14,2018-02-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,419684,+5%,+$0,,,,,CY
+189,D,2018-02-06 17:44:16,2018-02-05,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$16.20,-24203,410283,-6%,"-$392,124",,,,,CY
+190,D,2018-02-06 17:44:16,2018-02-02,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,63000,410283,+18%,+$0,,,,,CY
+191,D,2018-02-06 17:37:10,2018-02-05,CY,Gopalswamy Sudhir,"SVP, Microcontroller, Connect",F - Tax,$16.22,-17365,94509,-16%,"-$281,699",,,,,CY
+192,D,2018-02-06 17:37:10,2018-02-02,CY,Gopalswamy Sudhir,"SVP, Microcontroller, Connect",M - OptEx,$0.00,46429,94509,+97%,+$0,,,,,CY
+193,D,2018-02-06 17:34:09,2018-02-05,CY,Geha Sam,"Corporate SVP, Memory Products",F - Tax,$16.23,-17837,60876,-23%,"-$289,529",,,,,CY
+194,D,2018-02-06 17:34:09,2018-02-02,CY,Geha Sam,"Corporate SVP, Memory Products",M - OptEx,$0.00,47747,60876,+364%,+$0,,,,,CY
+195,D,2018-02-06 17:32:00,2018-02-05,CY,Tondreau Pamela L.,"GC, HR",F - Tax,$16.24,-17083,114981,-13%,"-$277,441",,,,,CY
+196,D,2018-02-06 17:32:00,2018-02-02,CY,Tondreau Pamela L.,"GC, HR",M - OptEx,$0.00,45793,114981,+66%,+$0,,,,,CY
+197,D,2018-02-06 17:30:02,2018-02-05,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$16.63,-20709,208912,-9%,"-$344,406",,,,,CY
+198,D,2018-02-06 17:30:02,2018-02-02,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,57000,208912,+38%,+$0,,,,,CY
+199,D,2018-01-24 20:12:34,2018-01-23,CY,Tondreau Pamela L.,"GC, HR",F - Tax,$17.75,-7181,86271,-8%,"-$127,463",,,,,CY
+200,D,2018-01-24 20:12:34,2018-01-22,CY,Tondreau Pamela L.,"GC, HR",M - OptEx,$0.00,18000,86271,+26%,+$0,,,,,CY
+201,,2018-01-16 19:22:06,2018-01-16,CY,Gopalswamy Sudhir,"SVP, Microcontroller, Connect",S - Sale,$17.08,-3000,65445,-4%,"-$51,232",,,,,CY
+202,,2017-12-18 19:48:49,2017-12-18,CY,Gopalswamy Sudhir,"SVP, Microcontroller, Connect",S - Sale,$15.51,-3000,68445,-4%,"-$46,538",,,,,CY
+203,D,2017-11-24 17:11:30,2017-11-21,CY,Geha Sam,"Corporate SVP, Memory Products",F - Tax,$17.38,-17321,30966,-36%,"-$300,964",,,,,CY
+204,D,2017-11-24 17:11:30,2017-11-21,CY,Geha Sam,"Corporate SVP, Memory Products",M - OptEx,$11.55,21909,30966,+242%,"+$252,962",,,,,CY
+205,DM,2017-11-24 17:11:30,2017-11-21,CY,Geha Sam,"Corporate SVP, Memory Products",S - Sale+OE,$17.34,-14517,30966,-32%,"-$251,691",,,,,CY
+206,,2017-11-21 16:58:06,2017-11-14,CY,Geha Sam,"Corporate SVP, Memory Products",G - Gift,$0.00,-597,40895,-1%,-$0,,,,,CY
+207,D,2017-11-21 16:56:16,2017-11-20,CY,Gopalswamy Sudhir,"SVP, Microcontroller, Connect",F - Tax,$16.82,-496,71445,-1%,"-$8,345",,,,,CY
+208,D,2017-11-21 16:56:16,2017-11-19,CY,Gopalswamy Sudhir,"SVP, Microcontroller, Connect",M - OptEx,$0.00,1334,71445,+2%,+$0,,,,,CY
+209,D,2017-11-21 16:54:36,2017-11-20,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$16.84,-551,172621,0%,"-$9,281",,,,,CY
+210,D,2017-11-21 16:54:36,2017-11-19,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,1067,172621,+1%,+$0,,,,,CY
+211,,2017-11-16 18:01:09,2017-11-16,CY,Gopalswamy Sudhir,"SVP, Microcontroller, Connect",S - Sale,$16.60,-3000,70607,-4%,"-$49,804",,,,,CY
+212,D,2017-11-14 20:24:41,2017-11-13,CY,Gopalswamy Sudhir,"SVP, Microcontroller, Connect",F - Tax,$16.95,-831,73607,-1%,"-$14,089",,,,,CY
+213,D,2017-11-14 20:24:41,2017-11-10,CY,Gopalswamy Sudhir,"SVP, Microcontroller, Connect",M - OptEx,$0.00,2200,73607,+3%,+$0,,,,,CY
+214,D,2017-11-14 20:22:45,2017-11-13,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$16.94,-9635,371486,-3%,"-$163,229",,,,,CY
+215,D,2017-11-14 20:22:45,2017-11-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,371486,+5%,+$0,,,,,CY
+216,DM,2017-11-13 19:56:36,2017-11-09,CY,Geha Sam,"Corporate SVP, Memory Products",F - Tax,$16.74,-15239,41492,-27%,"-$255,164",,,,,CY
+217,DM,2017-11-13 19:56:36,2017-11-09,CY,Geha Sam,"Corporate SVP, Memory Products",M - OptEx,$10.15,20191,41492,+95%,"+$205,013",,,,,CY
+218,D,2017-11-13 19:56:36,2017-11-09,CY,Geha Sam,"Corporate SVP, Memory Products",S - Sale+OE,$16.70,-8269,41492,-17%,"-$138,093",,,,,CY
+219,,2017-10-18 16:41:30,2017-10-16,CY,Thad Trent,"EVP, Finance, CFO",S - Sale,$15.77,-74818,172105,-30%,"-$1,180,194",,,,,CY
+220,,2017-10-10 18:22:18,2017-10-09,CY,Kwon Oc,Dir,S - Sale,$0.00,-14972,47767,-24%,-$0,,,,,CY
+221,,2017-09-14 19:23:13,2017-09-14,CY,McCranie J Daniel,Dir,P - Purchase,$14.37,30000,55000,+120%,"+$431,232",,,,,CY
+222,,2017-09-07 20:08:22,2017-09-06,CY,Lego Catherine P,Dir,P - Purchase,$13.69,20000,40700,+97%,"+$273,760",,,,,CY
+223,,2017-08-21 17:14:22,2017-08-21,CY,Martino Camillo,Dir,P - Purchase,$12.92,10000,20000,+100%,"+$129,200",,,,,CY
+224,,2017-08-21 17:13:08,2017-08-10,CY,Thad Trent,"EVP, Finance, CFO",G - Gift,$0.00,-1100,246923,0%,-$0,,,,,CY
+225,D,2017-08-14 21:30:42,2017-08-11,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$13.22,-9633,362717,-3%,"-$127,352",,,,,CY
+226,D,2017-08-14 21:30:42,2017-08-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,362717,+5%,+$0,,,,,CY
+227,,2017-08-08 16:54:22,2017-08-04,CY,Nazarian Dana,"EVP, Operations, Technology",S - Sale,$14.10,-250075,302657,-45%,"-$3,526,958",,,,,CY
+228,D,2017-08-03 17:23:12,2017-08-02,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$14.24,-4767,353946,-1%,"-$67,873",,,,,CY
+229,D,2017-08-03 17:23:12,2017-08-02,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$9.82,5377,353946,+2%,"+$52,799",,,,,CY
+230,,2017-08-03 17:20:56,2017-08-01,CY,Wishart Michael S,Dir,S - Sale,$14.07,-30000,65256,-31%,"-$422,154",,,,,CY
+231,,2017-06-21 18:17:37,2017-06-19,CY,Benhamou Eric,Dir,S - Sale,$13.31,-50000,89997,-36%,"-$665,585",,,,,CY
+232,D,2017-06-09 19:08:49,2017-06-07,CY,Wishart Michael S,Dir,M - OptEx,$0.00,21459,95256,+29%,+$0,,,,,CY
+233,D,2017-06-09 19:08:11,2017-06-07,CY,Van Den Hoek Wilbert,Dir,M - OptEx,$0.00,21459,110161,+24%,+$0,,,,,CY
+234,D,2017-06-09 19:06:32,2017-06-07,CY,Kwon Oc,Dir,M - OptEx,$0.00,21459,62739,+52%,+$0,,,,,CY
+235,D,2017-06-09 19:06:32,2017-06-08,CY,Kwon Oc,Dir,S - Sale+OE,$14.01,-6385,62739,-9%,"-$89,464",,,,,CY
+236,D,2017-06-09 19:05:37,2017-06-07,CY,Bingham H Raymond,Exec COB,M - OptEx,$0.00,21459,180298,+14%,+$0,,,,,CY
+237,D,2017-06-09 19:03:58,2017-06-07,CY,Benhamou Eric,Dir,M - OptEx,$0.00,21459,139997,+18%,+$0,,,,,CY
+238,D,2017-06-09 19:03:13,2017-06-07,CY,Albrecht W Steve,Dir,M - OptEx,$0.00,21459,184739,+13%,+$0,,,,,CY
+239,D,2017-05-12 16:12:00,2017-05-11,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$13.48,-9690,350788,-3%,"-$130,621",,,,,CY
+240,D,2017-05-12 16:12:00,2017-05-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,350788,+6%,+$0,,,,,CY
+241,D,2017-05-12 16:10:54,2017-05-10,CY,Bingham H Raymond,Exec COB,M - OptEx,$0.00,11043,158839,+7%,+$0,,,,,CY
+242,D,2017-05-10 19:09:50,2017-05-10,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$13.49,-694,245475,0%,"-$9,365",0.0,,,,CY
+243,D,2017-05-10 19:09:50,2017-05-09,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,1333,245475,+1%,+$0,0.0,,,,CY
+244,,2017-03-22 18:34:35,2017-03-20,CY,Benhamou Eric,Dir,S - Sale,$14.18,-50000,118538,-30%,"-$709,075",1.0,5.0,3.0,,CY
+245,D,2017-03-14 19:08:34,2017-03-12,CY,Bingham H Raymond,Exec COB,M - OptEx,$0.00,3720,147796,+3%,+$0,1.0,3.0,0.0,,CY
+246,D,2017-03-14 19:07:24,2017-03-12,CY,Wishart Michael S,Dir,M - OptEx,$0.00,3720,73797,+5%,+$0,1.0,3.0,0.0,,CY
+247,D,2017-03-14 19:06:24,2017-03-12,CY,Kwon Oc,Dir,M - OptEx,$0.00,3720,47665,+8%,+$0,1.0,3.0,0.0,,CY
+248,D,2017-03-14 19:06:24,2017-03-14,CY,Kwon Oc,Dir,S - Sale+OE,$13.77,-1094,47665,-2%,"-$15,064",1.0,3.0,0.0,,CY
+249,,2017-03-02 20:14:05,2017-03-01,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$13.31,-45775,342074,-12%,"-$609,046",0.0,-2.0,4.0,,CY
+250,,2017-03-02 20:14:05,2017-02-28,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,87770,342074,+35%,+$0,0.0,-2.0,4.0,,CY
+251,,2017-03-02 20:12:38,2017-03-01,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$13.30,-43349,244836,-15%,"-$576,741",0.0,-2.0,4.0,,CY
+252,,2017-03-02 20:12:38,2017-02-28,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,83070,244836,+51%,+$0,0.0,-2.0,4.0,,CY
+253,,2017-03-02 20:11:12,2017-03-01,CY,Nazarian Dana,"EVP, Operations, Technology",F - Tax,$13.29,-45838,550303,-8%,"-$608,990",0.0,-2.0,4.0,,CY
+254,,2017-03-02 20:11:12,2017-02-28,CY,Nazarian Dana,"EVP, Operations, Technology",M - OptEx,$0.00,87770,550303,+19%,+$0,0.0,-2.0,4.0,,CY
+255,D,2017-02-02 17:47:48,2017-02-01,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$11.74,-4020,205115,-2%,"-$47,206",9.0,7.0,13.0,,CY
+256,D,2017-02-02 17:47:48,2017-01-31,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,9484,205115,+5%,+$0,9.0,7.0,13.0,,CY
+257,D,2017-02-02 17:46:28,2017-02-01,CY,Nazarian Dana,"EVP, Operations, Technology",F - Tax,$11.76,-3274,508371,-1%,"-$38,502",9.0,7.0,13.0,,CY
+258,D,2017-02-02 17:46:28,2017-01-31,CY,Nazarian Dana,"EVP, Operations, Technology",M - OptEx,$0.00,7586,508371,+2%,+$0,9.0,7.0,13.0,,CY
+259,D,2017-02-02 17:44:23,2017-02-01,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$11.76,-8470,288551,-3%,"-$99,585",9.0,7.0,13.0,,CY
+260,D,2017-02-02 17:44:23,2017-01-31,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,21494,288551,+8%,+$0,9.0,7.0,13.0,,CY
+261,D,2017-02-02 17:41:57,2017-01-31,CY,Bingham H Raymond,Exec COB,M - OptEx,$0.00,11080,133034,+9%,+$0,9.0,7.0,13.0,,CY
+262,D,2017-01-31 18:25:37,2017-01-30,CY,Nazarian Dana,"EVP, Operations, Technology",F - Tax,$11.72,-12117,504059,-2%,"-$142,066",2.0,9.0,14.0,,CY
+263,D,2017-01-31 18:25:37,2017-01-27,CY,Nazarian Dana,"EVP, Operations, Technology",M - OptEx,$0.00,30000,504059,+6%,+$0,2.0,9.0,14.0,,CY
+264,D,2017-01-31 18:24:03,2017-01-30,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$11.90,-11805,275527,-4%,"-$140,461",2.0,9.0,14.0,,CY
+265,D,2017-01-31 18:24:03,2017-01-27,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,30000,275527,+12%,+$0,2.0,9.0,14.0,,CY
+266,D,2017-01-31 18:23:06,2017-01-30,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$11.79,-12006,199651,-6%,"-$141,606",2.0,9.0,14.0,,CY
+267,D,2017-01-31 18:23:06,2017-01-27,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,30000,199651,+18%,+$0,2.0,9.0,14.0,,CY
+268,D,2017-01-11 16:34:04,2017-01-10,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$11.45,-357,257332,0%,"-$4,088",-1.0,-2.0,7.0,,CY
+269,D,2017-01-11 16:34:04,2017-01-09,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,807,257332,0%,+$0,-1.0,-2.0,7.0,,CY
+270,D,2017-01-04 20:24:47,2017-01-03,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$11.55,-10340,181207,-5%,"-$119,427",-1.0,1.0,3.0,,CY
+271,D,2017-01-04 20:24:47,2016-12-31,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,20000,181207,+12%,+$0,-1.0,1.0,3.0,,CY
+272,D,2017-01-04 20:23:59,2017-01-03,CY,Nazarian Dana,"EVP, Operations, Technology",F - Tax,$11.57,-10340,485306,-2%,"-$119,582",-1.0,1.0,3.0,,CY
+273,D,2017-01-04 20:23:59,2016-12-31,CY,Nazarian Dana,"EVP, Operations, Technology",M - OptEx,$0.00,20000,485306,+4%,+$0,-1.0,1.0,3.0,,CY
+274,D,2017-01-04 20:23:15,2017-01-03,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$11.55,-10340,255956,-4%,"-$119,428",-1.0,1.0,3.0,,CY
+275,D,2017-01-04 20:23:15,2016-12-31,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,20000,255956,+8%,+$0,-1.0,1.0,3.0,,CY
+276,D,2017-01-04 20:10:42,2017-01-03,CY,Bingham H Raymond,Exec COB,M - OptEx,$5.05,14361,121954,+13%,"+$72,523",-1.0,1.0,3.0,,CY
+277,D,2017-01-04 20:10:42,2017-01-03,CY,Bingham H Raymond,Exec COB,S - Sale+OE,$11.54,-14361,121954,-11%,"-$165,735",-1.0,1.0,3.0,,CY
+278,,2016-12-20 16:45:50,2016-12-19,CY,Benhamou Eric,Dir,S - Sale,$11.21,-50000,168538,-23%,"-$560,265",1.0,-1.0,-4.0,,CY
+279,D,2016-12-02 19:47:57,2016-12-01,CY,Bingham H Raymond,Exec COB,M - OptEx,$5.05,15000,121954,+14%,"+$75,750",0.0,7.0,7.0,,CY
+280,D,2016-12-02 19:47:57,2016-12-01,CY,Bingham H Raymond,Exec COB,S - Sale+OE,$11.18,-15000,121954,-11%,"-$167,711",0.0,7.0,7.0,,CY
+281,D,2016-11-22 16:14:07,2016-11-22,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$11.03,-552,171547,0%,"-$6,091",1.0,1.0,7.0,,CY
+282,D,2016-11-22 16:14:07,2016-11-19,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,1067,171547,+1%,+$0,1.0,1.0,7.0,,CY
+283,D,2016-11-16 18:10:54,2016-11-15,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$10.71,-918,171032,-1%,"-$9,833",0.0,4.0,4.0,,CY
+284,D,2016-11-16 18:10:54,2016-11-14,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,1734,171032,+1%,+$0,0.0,4.0,4.0,,CY
+285,D,2016-11-16 18:08:54,2016-11-15,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$10.71,-249,246296,0%,"-$2,667",0.0,4.0,4.0,,CY
+286,D,2016-11-16 18:08:54,2016-11-14,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,467,246296,0%,+$0,0.0,4.0,4.0,,CY
+287,D,2016-11-15 18:05:56,2016-11-10,CY,Bingham H Raymond,Exec COB,M - OptEx,$0.00,11042,121954,+10%,+$0,0.0,1.0,2.0,,CY
+288,D,2016-11-15 17:01:34,2016-11-10,CY,El-Khoury Hassane,"Pres, CEO",F - Tax,$10.45,-9745,246078,-4%,"-$101,840",0.0,1.0,2.0,,CY
+289,D,2016-11-15 17:01:34,2016-11-10,CY,El-Khoury Hassane,"Pres, CEO",M - OptEx,$0.00,18404,246078,+8%,+$0,0.0,1.0,2.0,,CY
+290,D,2016-11-03 19:11:54,2016-11-01,CY,Bingham H Raymond,Exec COB,M - OptEx,$5.05,15000,110912,+16%,"+$75,750",0.0,5.0,10.0,40.0,CY
+291,D,2016-11-03 19:11:54,2016-11-01,CY,Bingham H Raymond,Exec COB,S - Sale+OE,$9.99,-15000,110912,-12%,"-$149,814",0.0,5.0,10.0,40.0,CY
+292,D,2016-10-12 16:41:43,2016-10-10,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$3.99,15450,170216,+10%,"+$61,610",-2.0,-4.0,-7.0,22.0,CY
+293,D,2016-10-12 16:41:43,2016-10-10,CY,Thad Trent,"EVP, Finance, CFO",S - Sale+OE,$11.83,-11390,170216,-6%,"-$134,764",-2.0,-4.0,-7.0,22.0,CY
+294,D,2016-10-04 18:25:57,2016-10-03,CY,Bingham H Raymond,Exec COB,M - OptEx,$5.05,15000,110912,+16%,"+$75,750",-1.0,-2.0,-17.0,15.0,CY
+295,D,2016-10-04 18:25:57,2016-10-03,CY,Bingham H Raymond,Exec COB,S - Sale+OE,$12.10,-15000,110912,-12%,"-$181,503",-1.0,-2.0,-17.0,15.0,CY
+296,,2016-09-20 17:57:23,2016-09-19,CY,Benhamou Eric,Dir,S - Sale,$11.83,-50000,218538,-19%,"-$591,485",1.0,-1.0,-9.0,21.0,CY
+297,D,2016-09-06 18:46:59,2016-09-01,CY,Bingham H Raymond,Exec COB,M - OptEx,$5.05,15000,110912,+16%,"+$75,750",-1.0,-2.0,0.0,13.0,CY
+298,D,2016-09-06 18:46:59,2016-09-01,CY,Bingham H Raymond,Exec COB,S - Sale+OE,$11.96,-15000,110912,-12%,"-$179,435",-1.0,-2.0,0.0,13.0,CY
+299,D,2016-08-16 19:10:29,2016-08-12,CY,Nazarian Dana,"EVP, Memory Products Division",F - Tax,$0.00,-10713,475646,-2%,-$0,0.0,0.0,4.0,14.0,CY
+300,D,2016-08-16 19:10:29,2016-08-12,CY,Nazarian Dana,"EVP, Memory Products Division",M - OptEx,$4.80,31177,475646,+7%,"+$149,511",0.0,0.0,4.0,14.0,CY
+301,D,2016-08-03 20:58:51,2016-08-02,CY,Rauschmayer Joseph,"EVP, Manufacturing",F - Tax,$11.34,-1484,113191,-1%,"-$16,829",2.0,1.0,5.0,8.0,CY
+302,D,2016-08-03 20:58:51,2016-08-01,CY,Rauschmayer Joseph,"EVP, Manufacturing",M - OptEx,$0.00,2764,113191,+3%,+$0,2.0,1.0,5.0,8.0,CY
+303,D,2016-08-03 20:57:33,2016-08-01,CY,Bingham H Raymond,Dir,M - OptEx,$5.05,15000,110912,+16%,"+$75,750",2.0,1.0,5.0,8.0,CY
+304,D,2016-08-03 20:57:33,2016-08-01,CY,Bingham H Raymond,Dir,S - Sale+OE,$11.65,-15000,110912,-12%,"-$174,704",2.0,1.0,5.0,8.0,CY
+305,D,2016-07-06 17:54:25,2016-07-01,CY,Bingham H Raymond,Dir,M - OptEx,$5.05,15000,110912,+16%,"+$75,750",1.0,7.0,13.0,15.0,CY
+306,D,2016-07-06 17:54:25,2016-07-01,CY,Bingham H Raymond,Dir,S - Sale+OE,$10.40,-15000,110912,-12%,"-$156,000",1.0,7.0,13.0,15.0,CY
+307,D,2016-06-28 21:12:51,2016-06-24,CY,Rodgers Thurman J,Dir,F - Tax,$10.49,-420875,10632234,-4%,"-$4,414,979",3.0,13.0,26.0,28.0,CY
+308,D,2016-06-28 21:12:51,2016-06-24,CY,Rodgers Thurman J,Dir,M - OptEx,$3.53,1251093,10632234,+13%,"+$4,414,982",3.0,13.0,26.0,28.0,CY
+309,,2016-06-21 17:03:25,2016-06-17,CY,Bingham H Raymond,Dir,S - Sale,$10.26,-20000,110912,-15%,"-$205,200",-1.0,-8.0,16.0,12.0,CY
+310,,2016-06-15 20:05:59,2016-06-13,CY,Rodgers Thurman J,Dir,A - Grant,$0.00,492000,9802016,+5%,+$0,0.0,-3.0,10.0,10.0,CY
+311,D,2016-06-03 20:04:48,2016-06-01,CY,Bingham H Raymond,Dir,M - OptEx,$5.05,15000,130932,+13%,"+$75,750",0.0,-2.0,-3.0,4.0,CY
+312,D,2016-06-03 20:04:48,2016-06-01,CY,Bingham H Raymond,Dir,S - Sale+OE,$10.58,-15000,130932,-10%,"-$158,744",0.0,-2.0,-3.0,4.0,CY
+313,D,2016-06-03 20:03:37,2016-06-01,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$10.86,-10508,313301,-3%,"-$114,117",0.0,-2.0,-3.0,4.0,CY
+314,D,2016-06-03 20:03:37,2016-06-01,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,20000,313301,+7%,+$0,0.0,-2.0,-3.0,4.0,CY
+315,D,2016-05-11 19:36:05,2016-05-09,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$9.47,-706,303809,0%,"-$6,686",-3.0,-3.0,14.0,9.0,CY
+316,D,2016-05-11 19:36:05,2016-05-09,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,1333,303809,0%,+$0,-3.0,-3.0,14.0,9.0,CY
+317,D,2016-05-09 20:36:29,2016-05-05,CY,Wishart Michael S,Dir,M - OptEx,$0.00,15302,70077,+28%,+$0,2.0,-3.0,17.0,6.0,CY
+318,D,2016-05-09 20:34:37,2016-05-05,CY,Van Den Hoek Wilbert,Dir,M - OptEx,$0.00,15302,88702,+21%,+$0,2.0,-3.0,17.0,6.0,CY
+319,D,2016-05-09 20:32:44,2016-05-05,CY,Kwon Oc,Dir,F - Tax,$9.32,-4624,45039,-9%,"-$43,096",2.0,-3.0,17.0,6.0,CY
+320,D,2016-05-09 20:32:44,2016-05-05,CY,Kwon Oc,Dir,M - OptEx,$0.00,15302,45039,+51%,+$0,2.0,-3.0,17.0,6.0,CY
+321,D,2016-05-09 20:31:03,2016-05-05,CY,Kispert John H,Dir,M - OptEx,$0.00,15302,1149316,+1%,+$0,2.0,-3.0,17.0,6.0,CY
+322,D,2016-05-09 20:29:00,2016-05-05,CY,Bingham H Raymond,Dir,M - OptEx,$0.00,15302,130932,+13%,+$0,2.0,-3.0,17.0,6.0,CY
+323,D,2016-05-09 20:29:00,2016-05-05,CY,Bingham H Raymond,Dir,S - Sale+OE,$9.51,-7651,130932,-6%,"-$72,761",2.0,-3.0,17.0,6.0,CY
+324,D,2016-05-09 20:27:31,2016-05-05,CY,Benhamou Eric,Dir,M - OptEx,$0.00,15302,268538,+6%,+$0,2.0,-3.0,17.0,6.0,CY
+325,D,2016-05-09 20:24:13,2016-05-05,CY,Albrecht W Steve,Dir,M - OptEx,$0.00,15302,163280,+10%,+$0,2.0,-3.0,17.0,6.0,CY
+326,DM,2016-05-04 20:02:53,2016-05-02,CY,Bingham H Raymond,Dir,M - OptEx,$4.96,60000,123281,+95%,"+$297,349",-1.0,1.0,18.0,8.0,CY
+327,DM,2016-05-04 20:02:53,2016-05-02,CY,Bingham H Raymond,Dir,S - Sale+OE,$0.00,-60000,123281,-33%,-$0,-1.0,1.0,18.0,8.0,CY
+328,,2016-03-21 18:16:03,2016-03-17,CY,El-Khoury Hassane,"EVP, Programmable Systems",S - Sale,$0.00,-30000,235797,-11%,-$0,-1.0,-5.0,-5.0,37.0,CY
+329,D,2016-03-15 19:00:23,2016-03-12,CY,Kwon Oc,Dir,M - OptEx,$0.00,3720,34361,+12%,+$0,2.0,6.0,2.0,43.0,CY
+330,D,2016-03-15 19:00:23,2016-03-15,CY,Kwon Oc,Dir,S - Sale+OE,$0.00,-1164,34361,-3%,-$0,2.0,6.0,2.0,43.0,CY
+331,D,2016-03-15 18:59:41,2016-03-12,CY,Kispert John H,Dir,M - OptEx,$0.00,3720,1134014,0%,+$0,2.0,6.0,2.0,43.0,CY
+332,D,2016-03-15 18:58:55,2016-03-12,CY,Bingham H Raymond,Dir,M - OptEx,$0.00,3720,123261,+3%,+$0,2.0,6.0,2.0,43.0,CY
+333,D,2016-03-15 18:58:55,2016-03-14,CY,Bingham H Raymond,Dir,S - Sale+OE,$8.63,-1860,123261,-1%,"-$16,052",2.0,6.0,2.0,43.0,CY
+334,D,2016-03-15 18:57:48,2016-03-12,CY,Wishart Michael S,Dir,M - OptEx,$0.00,3720,54775,+7%,+$0,2.0,6.0,2.0,43.0,CY
+335,D,2016-03-01 19:43:19,2016-02-29,CY,Benhamou Eric,Dir,M - OptEx,$4.17,82404,253236,+48%,"+$343,377",1.0,6.0,8.0,41.0,CY
+336,D,2016-03-01 19:43:19,2016-02-29,CY,Benhamou Eric,Dir,S - Sale+OE,$0.00,-82404,253236,-25%,-$0,1.0,6.0,8.0,41.0,CY
+337,,2016-02-22 19:14:08,2016-02-18,CY,El-Khoury Hassane,"EVP, Programmable Systems",A - Grant,$0.00,108000,308774,+54%,+$0,-1.0,2.0,16.0,53.0,CY
+338,,2016-02-22 19:13:25,2016-02-18,CY,Nazarian Dana,"EVP, Memory Products Division",A - Grant,$0.00,108000,453582,+31%,+$0,-1.0,2.0,16.0,53.0,CY
+339,,2016-02-22 19:12:48,2016-02-18,CY,Thad Trent,"EVP, Finance, CFO",A - Grant,$0.00,108000,303182,+55%,+$0,-1.0,2.0,16.0,53.0,CY
+340,,2016-02-22 19:06:34,2016-02-18,CY,Rodgers Thurman J,"Pres, CEO",A - Grant,$0.00,216000,9310016,+2%,+$0,-1.0,2.0,16.0,53.0,CY
+341,,2016-02-11 17:05:51,2016-02-11,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,12500,9094016,0%,+$0,3.0,14.0,35.0,79.0,CY
+342,,2016-02-10 17:48:18,2016-02-10,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,7700,9081516,0%,+$0,-3.0,13.0,28.0,79.0,CY
+343,,2016-02-09 17:03:11,2016-02-08,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$6.66,25000,9073816,0%,"+$166,500",0.0,7.0,26.0,77.0,CY
+344,M,2016-02-08 17:12:36,2016-02-05,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,73000,9048816,+1%,+$0,-3.0,-3.0,20.0,70.0,CY
+345,D,2016-02-05 21:02:53,2016-02-03,CY,El-Khoury Hassane,"EVP, Programmable Systems",F - Tax,$7.35,-15689,200774,-7%,"-$115,314",-6.0,-11.0,19.0,62.0,CY
+346,D,2016-02-05 21:02:53,2016-02-03,CY,El-Khoury Hassane,"EVP, Programmable Systems",M - OptEx,$0.00,40000,200774,+25%,+$0,-6.0,-11.0,19.0,62.0,CY
+347,D,2016-02-05 20:53:47,2016-02-03,CY,Nazarian Dana,"EVP, Memory Products Division",M - OptEx,$0.00,40000,343482,+13%,+$0,-6.0,-11.0,19.0,62.0,CY
+348,D,2016-02-05 20:52:46,2016-02-03,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$7.35,-12644,195182,-6%,"-$92,933",-6.0,-11.0,19.0,62.0,CY
+349,D,2016-02-05 20:52:46,2016-02-03,CY,Thad Trent,"EVP, Finance, CFO",M - OptEx,$0.00,32000,195182,+20%,+$0,-6.0,-11.0,19.0,62.0,CY
+350,D,2016-02-05 20:45:09,2016-02-03,CY,Rodgers Thurman J,"Pres, CEO",F - Tax,$7.35,-29699,8975816,0%,"-$218,288",-6.0,-11.0,19.0,62.0,CY
+351,D,2016-02-05 20:45:09,2016-02-03,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$0.00,78500,8975816,+1%,+$0,-6.0,-11.0,19.0,62.0,CY
+352,D,2016-02-05 20:45:09,2016-02-04,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,6000,8975816,0%,+$0,-6.0,-11.0,19.0,62.0,CY
+353,D,2016-01-12 18:16:35,2016-01-11,CY,El-Khoury Hassane,"EVP, Programmable Systems",F - Tax,$8.50,-354,175711,0%,"-$3,009",-1.0,-10.0,-21.0,31.0,CY
+354,D,2016-01-12 18:16:35,2016-01-09,CY,El-Khoury Hassane,"EVP, Programmable Systems",M - OptEx,$0.00,807,175711,0%,+$0,-1.0,-10.0,-21.0,31.0,CY
+355,M,2015-12-09 16:06:40,2015-12-07,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,13700,8921015,0%,+$0,0.0,-5.0,-15.0,9.0,CY
+356,M,2015-12-04 18:27:37,2015-12-03,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,7400,8907315,0%,+$0,-2.0,-5.0,-13.0,6.0,CY
+357,M,2015-11-30 19:03:50,2015-11-25,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$3.00,7000,8899915,0%,"+$21,000",0.0,-2.0,-6.0,1.0,CY
+358,,2015-11-25 16:08:07,2015-11-24,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,5000,8892915,0%,+$0,1.0,2.0,-7.0,-1.0,CY
+359,,2015-11-24 16:12:48,2015-11-23,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,5000,8887915,0%,+$0,2.0,5.0,-5.0,2.0,CY
+360,M,2015-11-23 14:51:11,2015-11-19,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,10000,8882915,0%,+$0,2.0,10.0,-2.0,4.0,CY
+361,D,2015-11-23 14:49:27,2015-11-19,CY,Thad Trent,"EVP, Finance, CFO",A - Grant,$0.00,1066,57400,+2%,+$0,2.0,10.0,-2.0,4.0,CY
+362,D,2015-11-23 14:49:27,2015-11-19,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$9.88,-401,57400,-1%,"-$3,962",2.0,10.0,-2.0,4.0,CY
+363,,2015-11-18 20:06:28,2015-11-18,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,5000,8872915,0%,+$0,-2.0,1.0,-5.0,-4.0,CY
+364,M,2015-11-17 18:44:06,2015-11-16,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,10000,8867915,0%,+$0,3.0,3.0,-1.0,-2.0,CY
+365,D,2015-11-17 18:08:13,2015-11-14,CY,Thad Trent,"EVP, Finance, CFO",A - Grant,$0.00,1733,56735,+3%,+$0,3.0,3.0,-1.0,-2.0,CY
+366,D,2015-11-17 18:08:13,2015-11-16,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$10.04,-652,56735,-1%,"-$6,546",3.0,3.0,-1.0,-2.0,CY
+367,D,2015-11-17 18:07:20,2015-11-14,CY,El-Khoury Hassane,"EVP, Programmable Systems",A - Grant,$0.00,467,175258,0%,+$0,3.0,3.0,-1.0,-2.0,CY
+368,D,2015-11-17 18:07:20,2015-11-16,CY,El-Khoury Hassane,"EVP, Programmable Systems",F - Tax,$10.04,-244,175258,0%,"-$2,450",3.0,3.0,-1.0,-2.0,CY
+369,M,2015-11-16 17:26:36,2015-11-12,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,10000,8857915,0%,+$0,-1.0,-1.0,-3.0,-5.0,CY
+370,M,2015-11-12 16:16:39,2015-11-10,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,10000,8847915,0%,+$0,1.0,2.0,-1.0,-6.0,CY
+371,M,2015-11-10 18:03:44,2015-11-06,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$5.59,9400,8837915,0%,"+$52,500",-2.0,-4.0,-2.0,-6.0,CY
+372,D,2015-11-10 17:56:32,2015-11-09,CY,Bingham H Raymond,Dir,M - OptEx,$4.28,53710,121401,+79%,"+$229,879",-2.0,-4.0,-2.0,-6.0,CY
+373,DM,2015-11-10 17:56:32,2015-11-06,CY,Bingham H Raymond,Dir,S - Sale+OE,$0.26,-80666,121401,-40%,"-$20,694",-2.0,-4.0,-2.0,-6.0,CY
+374,,2015-11-09 17:04:26,2015-11-05,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$10.50,5000,8828515,0%,"+$52,500",-2.0,-5.0,-3.0,-8.0,CY
+375,D,2015-11-06 16:41:02,2015-11-04,CY,Albrecht W Steve,Dir,M - OptEx,$4.17,9614,97978,+11%,"+$40,064",0.0,-7.0,-2.0,-10.0,CY
+376,D,2015-11-06 16:41:02,2015-11-04,CY,Albrecht W Steve,Dir,S - Sale+OE,$0.00,-59614,97978,-38%,-$0,0.0,-7.0,-2.0,-10.0,CY
+377,D,2015-11-04 16:26:40,2015-10-31,CY,Thad Trent,"EVP, Finance, CFO",A - Grant,$0.00,2267,55654,+4%,+$0,-2.0,-3.0,-2.0,-11.0,CY
+378,D,2015-11-04 16:26:40,2015-11-02,CY,Thad Trent,"EVP, Finance, CFO",F - Tax,$10.54,-852,55654,-2%,"-$8,980",-2.0,-3.0,-2.0,-11.0,CY
+379,D,2015-11-04 16:25:55,2015-10-31,CY,El-Khoury Hassane,"EVP, Programmable Systems",A - Grant,$0.00,667,175035,0%,+$0,-2.0,-3.0,-2.0,-11.0,CY
+380,D,2015-11-04 16:25:55,2015-11-02,CY,El-Khoury Hassane,"EVP, Programmable Systems",F - Tax,$10.54,-349,175035,0%,"-$3,678",-2.0,-3.0,-2.0,-11.0,CY
+381,M,2015-10-29 21:15:59,2015-10-27,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$0.00,100000,8823515,+1%,+$0,7.0,8.0,7.0,-6.0,CY
+382,D,2015-06-17 17:13:32,2015-06-16,CY,El-Khoury Hassane,EVP,F - Tax,$12.71,-1634,174717,-1%,"-$20,768",1.0,2.0,-6.0,-21.0,CY
+383,D,2015-06-17 17:13:32,2015-06-15,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,3108,174717,+2%,+$0,1.0,2.0,-6.0,-21.0,CY
+384,D,2015-05-18 19:39:36,2015-05-14,CY,Bingham H Raymond,Dir,M - OptEx,$0.00,1956,148357,+1%,+$0,2.0,3.0,-5.0,-25.0,CY
+385,D,2015-05-18 19:37:04,2015-05-14,CY,Kispert John H,Dir,M - OptEx,$0.00,1956,1130294,0%,+$0,2.0,3.0,-5.0,-25.0,CY
+386,D,2015-05-18 19:35:59,2015-05-14,CY,Kwon Oc,Dir,M - OptEx,$0.00,1956,31805,+7%,+$0,2.0,3.0,-5.0,-25.0,CY
+387,D,2015-05-18 19:32:32,2015-05-14,CY,Benhamou Eric,Dir,M - OptEx,$0.00,18421,253236,+8%,+$0,2.0,3.0,-5.0,-25.0,CY
+388,D,2015-05-18 19:31:48,2015-05-14,CY,Van Den Hoek Wilbert,Dir,M - OptEx,$0.00,18421,73400,+34%,+$0,2.0,3.0,-5.0,-25.0,CY
+389,D,2015-05-18 19:30:59,2015-05-14,CY,Albrecht W Steve,Dir,M - OptEx,$0.00,18421,147978,+14%,+$0,2.0,3.0,-5.0,-25.0,CY
+390,D,2015-05-18 19:29:44,2015-05-14,CY,Wishart Michael S,Dir,M - OptEx,$0.00,1956,51055,+4%,+$0,2.0,3.0,-5.0,-25.0,CY
+391,D,2015-05-13 19:54:36,2015-05-11,CY,Thad Trent,"EVP, CFO",M - OptEx,$0.00,1333,54239,+3%,+$0,4.0,8.0,3.0,-14.0,CY
+392,D,2015-05-13 19:54:36,2015-05-12,CY,Thad Trent,"EVP, CFO",S - Sale+OE,$12.62,-509,54239,-1%,"-$6,424",4.0,8.0,3.0,-14.0,CY
+393,D,2015-05-05 17:31:25,2015-05-01,CY,Bingham H Raymond,Dir,M - OptEx,$4.28,20000,146401,+16%,"+$85,600",0.0,-1.0,7.0,-15.0,CY
+394,DM,2015-05-05 17:31:25,2015-05-01,CY,Bingham H Raymond,Dir,S - Sale+OE,$13.12,-45000,146401,-24%,"-$590,200",0.0,-1.0,7.0,-15.0,CY
+395,D,2015-05-01 17:50:17,2015-04-28,CY,McCranie J Daniel,EVP,M - OptEx,$0.00,160000,315422,+103%,+$0,-2.0,-5.0,4.0,-23.0,CY
+396,D,2015-05-01 17:50:17,2015-04-29,CY,McCranie J Daniel,EVP,S - Sale+OE,$12.83,-82003,315422,-21%,"-$1,052,098",-2.0,-5.0,4.0,-23.0,CY
+397,D,2015-03-20 20:15:51,2015-03-18,CY,Wishart Michael S,Dir,M - OptEx,$0.00,51574,49099,-2084%,+$0,-2.0,-10.0,-15.0,-38.0,CY
+398,D,2015-03-20 20:15:51,2015-03-18,CY,Wishart Michael S,Dir,S - Sale+OE,$15.15,-21376,49099,-30%,"-$323,912",-2.0,-10.0,-15.0,-38.0,CY
+399,D,2015-03-20 20:14:02,2015-03-18,CY,Bingham H Raymond,Dir,M - OptEx,$0.00,98995,171404,+137%,+$0,-2.0,-10.0,-15.0,-38.0,CY
+400,D,2015-03-20 20:14:02,2015-03-18,CY,Bingham H Raymond,Dir,S - Sale+OE,$15.19,-49497,171404,-22%,"-$751,864",-2.0,-10.0,-15.0,-38.0,CY
+401,D,2015-03-20 20:13:34,2015-03-16,CY,Kwon Oc,Dir,M - OptEx,$0.00,24877,29849,+500%,+$0,-2.0,-10.0,-15.0,-38.0,CY
+402,D,2015-03-19 20:39:49,2015-03-17,CY,Kispert John H,Dir,M - OptEx,$0.00,1133801,1128338,-20754%,+$0,2.0,-6.0,-14.0,-36.0,CY
+403,DM,2015-03-19 20:39:49,2015-03-17,CY,Kispert John H,Dir,S - Sale+OE,$15.26,-620000,1128338,-35%,"-$9,459,567",2.0,-6.0,-14.0,-36.0,CY
+404,D,2015-03-17 20:45:44,2015-03-15,CY,Sherman J Donald,Dir,M - OptEx,$0.00,18421,119158,+18%,+$0,-2.0,-1.0,-11.0,-34.0,CY
+405,D,2015-03-17 20:41:58,2015-03-15,CY,Long James R,Dir,M - OptEx,$0.00,18421,260438,+8%,+$0,-2.0,-1.0,-11.0,-34.0,CY
+406,D,2015-03-17 20:39:42,2015-03-15,CY,Mao Robert Yu Lang,Dir,M - OptEx,$0.00,36842,36842,New,+$0,-2.0,-1.0,-11.0,-34.0,CY
+407,D,2015-03-16 21:32:09,2015-03-12,CY,Wishart Michael S,Dir,A - Grant,$0.00,18901,18901,New,+$0,-1.0,0.0,-12.0,-35.0,CY
+408,D,2015-03-16 21:31:46,2015-03-12,CY,Kispert John H,Dir,A - Grant,$0.00,614537,614537,New,+$0,-1.0,0.0,-12.0,-35.0,CY
+409,D,2015-03-16 21:30:41,2015-03-12,CY,Bingham H Raymond,Dir,A - Grant,$0.00,121906,121906,New,+$0,-1.0,0.0,-12.0,-35.0,CY
+410,D,2015-03-16 21:28:29,2015-03-12,CY,Kwon Oc,Dir,A - Grant,$0.00,4972,4972,New,+$0,-1.0,0.0,-12.0,-35.0,CY
+411,D,2015-03-12 20:20:33,2015-03-11,CY,Long James R,Dir,D - Sale to issuer,$15.58,-17126,242017,-7%,"-$266,823",2.0,-3.0,-9.0,-34.0,CY
+412,D,2015-03-12 20:20:33,2015-03-11,CY,Long James R,Dir,M - OptEx,$3.68,71420,242017,+42%,"+$263,091",2.0,-3.0,-9.0,-34.0,CY
+413,D,2015-02-09 11:27:12,2015-02-05,CY,Benhamou Eric,Dir,M - OptEx,$2.91,82404,234815,+54%,"+$239,796",-2.0,1.0,4.0,-23.0,CY
+414,D,2015-02-09 11:27:12,2015-02-05,CY,Benhamou Eric,Dir,S - Sale+OE,$14.25,-16826,234815,-7%,"-$239,811",-2.0,1.0,4.0,-23.0,CY
+415,D,2015-01-23 20:21:32,2015-01-21,CY,Rodgers Thurman J,"Pres, CEO",A - Grant,$14.16,76620,8703518,+1%,"+$1,084,939",0.0,0.0,-4.0,-20.0,CY
+416,D,2015-01-23 20:21:32,2015-01-21,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$14.16,55500,8703518,+1%,"+$785,880",0.0,0.0,-4.0,-20.0,CY
+417,D,2015-01-23 20:21:32,2015-01-22,CY,Rodgers Thurman J,"Pres, CEO",S - Sale+OE,$14.35,-58287,8703518,-1%,"-$836,174",0.0,0.0,-4.0,-20.0,CY
+418,D,2015-01-23 20:20:47,2015-01-21,CY,McCranie J Daniel,EVP,A - Grant,$14.16,31062,237425,+15%,"+$439,838",0.0,0.0,-4.0,-20.0,CY
+419,D,2015-01-23 20:20:47,2015-01-21,CY,McCranie J Daniel,EVP,M - OptEx,$14.16,22500,237425,+10%,"+$318,600",0.0,0.0,-4.0,-20.0,CY
+420,D,2015-01-23 20:20:47,2015-01-22,CY,McCranie J Daniel,EVP,S - Sale+OE,$14.35,-20229,237425,-8%,"-$290,201",0.0,0.0,-4.0,-20.0,CY
+421,D,2015-01-23 20:15:13,2015-01-21,CY,El-Khoury Hassane,EVP,A - Grant,$14.16,41416,173243,+31%,"+$586,451",0.0,0.0,-4.0,-20.0,CY
+422,D,2015-01-23 20:15:13,2015-01-21,CY,El-Khoury Hassane,EVP,M - OptEx,$14.16,30000,173243,+21%,"+$424,800",0.0,0.0,-4.0,-20.0,CY
+423,D,2015-01-23 20:15:13,2015-01-22,CY,El-Khoury Hassane,EVP,S - Sale+OE,$14.35,-27054,173243,-14%,"-$388,111",0.0,0.0,-4.0,-20.0,CY
+424,D,2015-01-23 20:09:54,2015-01-21,CY,Thad Trent,CFO,A - Grant,$14.16,8283,62007,+15%,"+$117,287",0.0,0.0,-4.0,-20.0,CY
+425,D,2015-01-23 20:09:54,2015-01-21,CY,Thad Trent,CFO,M - OptEx,$14.16,6000,62007,+11%,"+$84,960",0.0,0.0,-4.0,-20.0,CY
+426,D,2015-01-23 20:09:54,2015-01-22,CY,Thad Trent,CFO,S - Sale+OE,$14.35,-5691,62007,-8%,"-$81,642",0.0,0.0,-4.0,-20.0,CY
+427,D,2015-01-23 20:08:19,2015-01-21,CY,Nazarian Dana,EVP,A - Grant,$14.16,41416,303162,+16%,"+$586,451",0.0,0.0,-4.0,-20.0,CY
+428,D,2015-01-23 20:08:19,2015-01-21,CY,Nazarian Dana,EVP,M - OptEx,$14.16,30000,303162,+11%,"+$424,800",0.0,0.0,-4.0,-20.0,CY
+429,D,2015-01-23 20:08:19,2015-01-22,CY,Nazarian Dana,EVP,S - Sale+OE,$14.35,-27028,303162,-8%,"-$387,738",0.0,0.0,-4.0,-20.0,CY
+430,D,2015-01-22 21:08:54,2015-01-20,CY,Thad Trent,CFO,M - OptEx,$14.01,8000,53415,+18%,"+$112,080",3.0,1.0,1.0,-25.0,CY
+431,D,2015-01-22 21:08:54,2015-01-22,CY,Thad Trent,CFO,S - Sale+OE,$14.35,-3461,53415,-6%,"-$49,651",3.0,1.0,1.0,-25.0,CY
+432,D,2015-01-13 20:05:25,2015-01-09,CY,El-Khoury Hassane,EVP,M - OptEx,$15.04,807,128881,+1%,"+$12,137",-4.0,-5.0,0.0,-17.0,CY
+433,D,2015-01-13 20:05:25,2015-01-09,CY,El-Khoury Hassane,EVP,S - Sale+OE,$14.95,-358,128881,0%,"-$5,352",-4.0,-5.0,0.0,-17.0,CY
+434,DM,2014-09-08 21:12:34,2014-09-04,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$3.54,1450411,8874685,+20%,"+$5,138,024",0.0,-5.0,-11.0,45.0,CY
+435,DM,2014-09-08 21:12:34,2014-09-04,CY,Rodgers Thurman J,"Pres, CEO",S - Sale+OE,$10.84,-987171,8874685,-10%,"-$10,704,861",0.0,-5.0,-11.0,45.0,CY
+436,D,2014-06-18 20:19:38,2014-06-16,CY,El-Khoury Hassane,EVP,F - Tax,$11.01,-1635,125521,-1%,"-$18,001",0.0,-3.0,-6.0,28.0,CY
+437,D,2014-06-18 20:19:38,2014-06-16,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,3108,125521,+3%,+$0,0.0,-3.0,-6.0,28.0,CY
+438,D,2014-06-18 20:17:41,2014-01-09,CY,El-Khoury Hassane,EVP,F - Tax,$10.14,-355,33235,-1%,"-$3,600",0.0,-3.0,-6.0,28.0,CY
+439,D,2014-06-18 20:17:41,2014-01-09,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,807,33235,+2%,+$0,0.0,-3.0,-6.0,28.0,CY
+440,D,2014-05-14 18:21:27,2014-05-13,CY,Van Den Hoek Wilbert,Dir,M - OptEx,$0.00,8002,54979,+17%,+$0,-2.0,-3.0,13.0,6.0,CY
+441,D,2014-05-14 18:21:27,2014-05-08,CY,Van Den Hoek Wilbert,Dir,P - Purchase,$9.45,33,54979,0%,+$312,-2.0,-3.0,13.0,6.0,CY
+442,D,2014-05-12 17:01:05,2014-05-08,CY,Van Den Hoek Wilbert,Dir,A - Grant,$9.45,33,46977,0%,+$312,-1.0,-2.0,13.0,7.0,CY
+443,DM,2014-03-14 19:17:57,2014-03-12,CY,Long James R,Dir,M - OptEx,$4.06,3782,187723,+2%,"+$15,357",2.0,7.0,-5.0,7.0,CY
+444,D,2014-03-14 19:17:57,2014-03-13,CY,Long James R,Dir,S - Sale+OE,$9.97,-500,187723,0%,"-$4,985",2.0,7.0,-5.0,7.0,CY
+445,,2014-03-05 20:04:14,2014-03-03,CY,Rodgers Thurman J,"Pres, CEO",S - Sale,$9.78,-95625,8411445,-1%,"-$935,423",0.0,-3.0,2.0,9.0,CY
+446,,2014-03-05 19:05:46,2014-03-03,CY,Buss Brad W,CFO,S - Sale,$9.78,-54890,984238,-5%,"-$536,945",0.0,-3.0,2.0,9.0,CY
+447,,2014-03-05 19:04:46,2014-03-03,CY,El-Khoury Hassane,EVP,S - Sale,$9.78,-71187,123596,-37%,"-$696,365",0.0,-3.0,2.0,9.0,CY
+448,,2014-03-05 19:03:40,2014-03-03,CY,Nazarian Dana,EVP,S - Sale,$9.78,-65359,256394,-20%,"-$639,355",0.0,-3.0,2.0,9.0,CY
+449,,2014-03-05 19:02:31,2014-03-03,CY,Kothandaraman Badrinarayanan,EVP,S - Sale,$9.78,-59648,124778,-32%,"-$583,489",0.0,-3.0,2.0,9.0,CY
+450,,2014-03-03 20:56:27,2014-02-28,CY,Rodgers Thurman J,"Pres, CEO",A - Grant,$0.00,208800,8507070,+3%,+$0,4.0,4.0,6.0,14.0,CY
+451,,2014-03-03 20:47:57,2014-02-28,CY,Kothandaraman Badrinarayanan,EVP,A - Grant,$0.00,140400,184426,+319%,+$0,4.0,4.0,6.0,14.0,CY
+452,,2014-03-03 20:35:12,2014-02-28,CY,El-Khoury Hassane,EVP,A - Grant,$0.00,162000,194783,+494%,+$0,4.0,4.0,6.0,14.0,CY
+453,,2014-03-03 20:16:56,2014-02-28,CY,Nazarian Dana,EVP,A - Grant,$0.00,151200,321753,+89%,+$0,4.0,4.0,6.0,14.0,CY
+454,,2014-03-03 20:14:43,2014-02-28,CY,Buss Brad W,CFO,A - Grant,$0.00,129600,1039128,+14%,+$0,4.0,4.0,6.0,14.0,CY
+455,D,2014-02-24 17:39:43,2014-02-24,CY,McCranie J Daniel,EVP,M - OptEx,$0.00,150000,204092,+277%,+$0,0.0,-4.0,6.0,10.0,CY
+456,D,2014-01-29 19:40:20,2014-01-28,CY,Carney Lloyd,Dir,M - OptEx,$4.17,17808,0,-100%,"+$74,211",1.0,-4.0,-3.0,4.0,CY
+457,DM,2014-01-29 19:40:20,2014-01-28,CY,Carney Lloyd,Dir,S - Sale+OE,$10.17,-69681,0,-100%,"-$708,930",1.0,-4.0,-3.0,4.0,CY
+458,D,2013-12-09 16:34:54,2013-12-06,CY,Long James R,Dir,M - OptEx,$4.90,82404,184441,+81%,"+$404,002",0.0,-2.0,6.0,15.0,CY
+459,D,2013-12-09 16:34:54,2013-12-06,CY,Long James R,Dir,S - Sale+OE,$9.58,-59500,184441,-24%,"-$569,754",0.0,-2.0,6.0,15.0,CY
+460,DM,2013-11-29 16:54:46,2013-11-26,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$5.18,1442077,8298270,+21%,"+$7,468,949",-2.0,-2.0,9.0,8.0,CY
+461,DM,2013-11-29 16:54:46,2013-11-26,CY,Rodgers Thurman J,"Pres, CEO",S - Sale+OE,$9.65,-1110300,8298270,-12%,"-$10,717,591",-2.0,-2.0,9.0,8.0,CY
+462,M,2013-11-21 17:09:51,2013-11-20,CY,Buss Brad W,CFO,P - Purchase,$9.13,15000,909107,+2%,"+$136,989",5.0,4.0,12.0,11.0,CY
+463,D,2013-11-20 20:19:24,2013-11-19,CY,El-Khoury Hassane,EVP,F - Tax,$9.12,-183,31759,-1%,"-$1,669",3.0,8.0,12.0,10.0,CY
+464,D,2013-11-20 20:19:24,2013-11-19,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,467,31759,+1%,+$0,3.0,8.0,12.0,10.0,CY
+465,D,2013-11-04 19:09:50,2013-10-31,CY,El-Khoury Hassane,EVP,F - Tax,$9.22,-254,31475,-1%,"-$2,342",0.0,1.0,2.0,4.0,CY
+466,D,2013-11-04 19:09:50,2013-10-31,CY,El-Khoury Hassane,EVP,M - OptEx,$9.28,666,31475,+2%,"+$6,177",0.0,1.0,2.0,4.0,CY
+467,D,2013-11-04 19:05:31,2013-10-31,CY,Kothandaraman Badrinarayanan,EVP,F - Tax,$9.28,-1045,43188,-2%,"-$9,692",0.0,1.0,2.0,4.0,CY
+468,D,2013-11-04 19:05:31,2013-10-31,CY,Kothandaraman Badrinarayanan,EVP,M - OptEx,$9.28,2782,43188,+7%,"+$25,803",0.0,1.0,2.0,4.0,CY
+469,D,2013-11-04 18:58:17,2013-10-31,CY,El-Khoury Hassane,EVP,F - Tax,$9.22,-254,31475,-1%,"-$2,342",0.0,1.0,2.0,4.0,CY
+470,D,2013-11-04 18:58:17,2013-10-31,CY,El-Khoury Hassane,EVP,M - OptEx,$9.28,666,31475,+2%,"+$6,177",0.0,1.0,2.0,4.0,CY
+471,D,2013-08-27 16:21:09,2013-08-23,CY,Albrecht W Steve,Dir,M - OptEx,$5.28,82404,129557,+175%,"+$434,796",1.0,-2.0,-18.0,-8.0,CY
+472,D,2013-08-27 16:21:09,2013-08-23,CY,Albrecht W Steve,Dir,S - Sale+OE,$11.79,-82404,129557,-39%,"-$971,543",1.0,-2.0,-18.0,-8.0,CY
+473,,2013-08-05 16:45:06,2013-08-02,CY,Carney Lloyd,Dir,D - Sale to issuer,$12.91,-57962,51873,-53%,"-$748,231",-1.0,-3.0,-15.0,-26.0,CY
+474,D,2013-06-17 18:08:37,2013-06-14,CY,El-Khoury Hassane,EVP,F - Tax,$10.97,-1142,29781,-4%,"-$12,528",0.0,-7.0,4.0,-14.0,CY
+475,D,2013-06-17 18:08:37,2013-06-14,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,3108,29781,+12%,+$0,0.0,-7.0,4.0,-14.0,CY
+476,,2013-05-23 16:53:07,2013-05-21,CY,Carney Lloyd,Dir,S - Sale,$11.50,-24722,109835,-18%,"-$284,204",0.0,4.0,-5.0,-17.0,CY
+477,DM,2013-05-14 18:36:40,2013-05-10,CY,Van Den Hoek Wilbert,Dir,M - OptEx,$0.00,24160,46944,+106%,+$0,2.0,5.0,-5.0,-13.0,CY
+478,DM,2013-05-14 18:35:45,2013-05-10,CY,Sherman J Donald,Dir,M - OptEx,$0.00,31090,100737,+45%,+$0,2.0,5.0,-5.0,-13.0,CY
+479,,2013-05-14 18:34:45,2013-05-10,CY,McCranie J Daniel,Dir,M - OptEx,$0.00,16158,54092,+43%,+$0,2.0,5.0,-5.0,-13.0,CY
+480,,2013-05-14 18:34:02,2013-05-10,CY,Long James R,Dir,M - OptEx,$0.00,16158,161537,+11%,+$0,2.0,5.0,-5.0,-13.0,CY
+481,,2013-05-14 18:33:10,2013-05-10,CY,Carney Lloyd,Dir,M - OptEx,$0.00,16158,134557,+14%,+$0,2.0,5.0,-5.0,-13.0,CY
+482,,2013-05-14 18:32:05,2013-05-10,CY,Benhamou Eric,Dir,M - OptEx,$0.00,16158,169237,+11%,+$0,2.0,5.0,-5.0,-13.0,CY
+483,,2013-05-14 18:31:12,2013-05-10,CY,Albrecht W Steve,Dir,M - OptEx,$0.00,16158,129557,+14%,+$0,2.0,5.0,-5.0,-13.0,CY
+484,D,2013-05-02 17:53:21,2013-05-01,CY,El-Khoury Hassane,EVP,F - Tax,$9.95,-734,27815,-3%,"-$7,304",1.0,6.0,13.0,-4.0,CY
+485,D,2013-05-02 17:53:21,2013-05-01,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,2000,27815,+8%,+$0,1.0,6.0,13.0,-4.0,CY
+486,,2013-03-13 16:30:16,2013-03-11,CY,El-Khoury Hassane,EVP,F - Tax,$10.85,-1143,26549,-4%,"-$12,402",1.0,0.0,2.0,6.0,CY
+487,,2013-03-13 16:30:16,2013-03-11,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,2606,26549,+11%,+$0,1.0,0.0,2.0,6.0,CY
+488,M,2013-02-11 11:28:14,2013-02-07,CY,McCranie J Daniel,Dir,S - Sale,$10.05,-52197,37934,-58%,"-$524,763",-2.0,-3.0,11.0,26.0,CY
+489,,2013-01-28 07:31:37,2013-01-25,CY,Buss Brad W,CFO,P - Purchase,$9.97,10000,892222,+1%,"+$99,700",3.0,4.0,2.0,30.0,CY
+490,D,2013-01-11 17:50:48,2013-01-09,CY,El-Khoury Hassane,EVP,F - Tax,$9.94,-378,25086,-1%,"-$3,757",2.0,5.0,0.0,19.0,CY
+491,D,2013-01-11 17:50:48,2013-01-09,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,806,25086,+3%,+$0,2.0,5.0,0.0,19.0,CY
+492,,2013-01-02 21:33:22,2012-12-31,CY,El-Khoury Hassane,EVP,F - Tax,$10.50,-3847,24658,-13%,"-$40,394",-3.0,-11.0,-10.0,-3.0,CY
+493,,2013-01-02 21:33:22,2012-12-31,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,10486,24658,+74%,+$0,-3.0,-11.0,-10.0,-3.0,CY
+494,,2013-01-02 20:46:05,2012-12-31,CY,Buss Brad W,CFO,F - Tax,$10.50,-49021,882222,-5%,"-$514,721",-3.0,-11.0,-10.0,-3.0,CY
+495,,2013-01-02 20:46:05,2012-12-31,CY,Buss Brad W,CFO,M - OptEx,$0.00,105013,882222,+14%,+$0,-3.0,-11.0,-10.0,-3.0,CY
+496,,2013-01-02 20:45:12,2012-12-31,CY,Rodgers Thurman J,"Pres, CEO",F - Tax,$10.50,-78433,8366493,-1%,"-$823,547",-3.0,-11.0,-10.0,-3.0,CY
+497,,2013-01-02 20:45:12,2012-12-31,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$0.00,168022,8366493,+2%,+$0,-3.0,-11.0,-10.0,-3.0,CY
+498,,2013-01-02 20:44:19,2012-12-31,CY,Nazarian Dana,EVP,F - Tax,$10.50,-34016,168247,-17%,"-$357,168",-3.0,-11.0,-10.0,-3.0,CY
+499,,2013-01-02 20:44:19,2012-12-31,CY,Nazarian Dana,EVP,M - OptEx,$0.00,72869,168247,+76%,+$0,-3.0,-11.0,-10.0,-3.0,CY
+500,,2013-01-02 20:43:22,2012-12-31,CY,Seams Christopher A,EVP,F - Tax,$10.50,-39217,740712,-5%,"-$411,779",-3.0,-11.0,-10.0,-3.0,CY
+501,,2013-01-02 20:43:22,2012-12-31,CY,Seams Christopher A,EVP,M - OptEx,$0.00,84011,740712,+13%,+$0,-3.0,-11.0,-10.0,-3.0,CY
+502,,2013-01-02 20:42:06,2012-12-31,CY,Kothandaraman Badrinarayanan,EVP,F - Tax,$10.50,-30638,39983,-43%,"-$321,699",-3.0,-11.0,-10.0,-3.0,CY
+503,,2013-01-02 20:42:06,2012-12-31,CY,Kothandaraman Badrinarayanan,EVP,M - OptEx,$0.00,65634,39983,-256%,+$0,-3.0,-11.0,-10.0,-3.0,CY
+504,,2012-12-14 20:28:16,2012-12-14,CY,Seams Christopher A,EVP,G - Gift,$10.75,-1500,695918,0%,"-$16,125",0.0,6.0,-4.0,7.0,CY
+505,D,2012-12-12 16:38:14,2012-12-11,CY,Phelan Cathal G,Chief Technical Officer,M - OptEx,$6.16,123607,30325,-133%,"+$760,801",1.0,4.0,-6.0,2.0,CY
+506,D,2012-12-12 16:38:14,2012-12-11,CY,Phelan Cathal G,Chief Technical Officer,S - Sale+OE,$10.79,-98124,30325,-76%,"-$1,058,464",1.0,4.0,-6.0,2.0,CY
+507,D,2012-12-04 19:24:16,2012-12-01,CY,Kothandaraman Badrinarayanan,EVP,F - Tax,$10.15,-1777,4987,-26%,"-$18,037",1.0,5.0,12.0,12.0,CY
+508,D,2012-12-04 19:24:16,2012-12-01,CY,Kothandaraman Badrinarayanan,EVP,M - OptEx,$0.00,3805,4987,+322%,+$0,1.0,5.0,12.0,12.0,CY
+509,D,2012-11-15 17:44:34,2012-11-14,CY,El-Khoury Hassane,EVP,F - Tax,$9.09,-171,17239,-1%,"-$1,554",0.0,5.0,20.0,28.0,CY
+510,D,2012-11-15 17:44:34,2012-11-14,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,466,17239,+3%,+$0,0.0,5.0,20.0,28.0,CY
+511,D,2012-11-01 21:09:08,2012-10-31,CY,Kothandaraman Badrinarayanan,EVP,F - Tax,$9.91,-1300,2959,-31%,"-$12,883",-2.0,-7.0,-4.0,-2.0,CY
+512,D,2012-11-01 21:09:08,2012-10-31,CY,Kothandaraman Badrinarayanan,EVP,M - OptEx,$0.00,2783,2959,>999%,+$0,-2.0,-7.0,-4.0,-2.0,CY
+513,D,2012-11-01 21:05:25,2012-10-31,CY,El-Khoury Hassane,EVP,F - Tax,$9.91,-245,16944,-1%,"-$2,428",-2.0,-7.0,-4.0,-2.0,CY
+514,D,2012-11-01 21:05:25,2012-10-31,CY,El-Khoury Hassane,EVP,M - OptEx,$0.00,667,16944,+4%,+$0,-2.0,-7.0,-4.0,-2.0,CY
+515,,2012-10-24 20:39:40,2012-10-24,CY,Sherman J Donald,Dir,P - Purchase,$9.68,10000,69647,+17%,"+$96,792",5.0,8.0,2.0,6.0,CY
+516,,2012-10-22 14:35:30,2012-10-19,CY,Buss Brad W,CFO,P - Purchase,$9.69,20000,826230,+2%,"+$193,800",2.0,2.0,-3.0,6.0,CY
+517,D,2012-08-21 17:30:09,2012-08-17,CY,Ramanathan Dinesh,EVP,M - OptEx,$3.52,9602,115441,+9%,"+$33,815",-1.0,-5.0,2.0,-16.0,CY
+518,D,2012-08-21 17:30:09,2012-08-17,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$12.32,-9602,115441,-8%,"-$118,340",-1.0,-5.0,2.0,-16.0,CY
+519,,2012-08-20 18:25:12,2012-08-16,CY,Sherman J Donald,Dir,P - Purchase,$11.98,9000,59647,+18%,"+$107,848",0.0,-4.0,2.0,-18.0,CY
+520,,2012-07-18 19:52:06,2012-07-17,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-1000,8276904,0%,-$0,-3.0,-13.0,-1.0,-10.0,CY
+521,DM,2012-05-11 19:18:40,2012-05-10,CY,Van Den Hoek Wilbert,Dir,M - OptEx,$0.00,20784,22784,>999%,+$0,-1.0,-6.0,-9.0,-30.0,CY
+522,DM,2012-05-11 19:17:47,2012-05-10,CY,Sherman J Donald,Dir,M - OptEx,$0.00,27715,50647,+121%,+$0,-1.0,-6.0,-9.0,-30.0,CY
+523,,2012-05-11 19:16:47,2012-05-11,CY,McCranie J Daniel,Dir,M - OptEx,$0.00,12783,90131,+17%,+$0,-1.0,-6.0,-9.0,-30.0,CY
+524,,2012-05-11 19:15:54,2012-05-11,CY,Long James R,Dir,M - OptEx,$0.00,12783,145379,+10%,+$0,-1.0,-6.0,-9.0,-30.0,CY
+525,,2012-05-11 19:15:04,2012-05-11,CY,Carney Lloyd,Dir,M - OptEx,$0.00,12783,118399,+12%,+$0,-1.0,-6.0,-9.0,-30.0,CY
+526,,2012-05-11 19:14:08,2012-05-11,CY,Benhamou Eric,Dir,M - OptEx,$0.00,12783,153079,+9%,+$0,-1.0,-6.0,-9.0,-30.0,CY
+527,,2012-05-11 19:13:04,2012-05-11,CY,Albrecht W Steve,Dir,M - OptEx,$0.00,12783,113399,+13%,+$0,-1.0,-6.0,-9.0,-30.0,CY
+528,D,2012-04-18 16:57:28,2012-04-17,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$3.53,500000,8277904,+6%,"+$1,764,450",12.0,5.0,-8.0,-27.0,CY
+529,D,2012-02-27 11:00:53,2012-02-24,CY,Ramanathan Dinesh,EVP,F - Tax,$17.87,-84874,113965,-43%,"-$1,516,698",-1.0,-2.0,-10.0,-32.0,CY
+530,D,2012-02-27 11:00:53,2012-02-24,CY,Ramanathan Dinesh,EVP,M - OptEx,$0.00,192168,113965,-246%,+$0,-1.0,-2.0,-10.0,-32.0,CY
+531,D,2012-02-27 10:59:50,2012-02-24,CY,Taffe Norman P,EVP,F - Tax,$17.87,-93515,304972,-23%,"-$1,671,113",-1.0,-2.0,-10.0,-32.0,CY
+532,D,2012-02-27 10:59:50,2012-02-24,CY,Taffe Norman P,EVP,M - OptEx,$0.00,211383,304972,+226%,+$0,-1.0,-2.0,-10.0,-32.0,CY
+533,D,2012-02-27 10:58:46,2012-02-24,CY,Seams Christopher A,EVP,F - Tax,$17.87,-109656,695942,-14%,"-$1,959,553",-1.0,-2.0,-10.0,-32.0,CY
+534,D,2012-02-27 10:58:46,2012-02-24,CY,Seams Christopher A,EVP,M - OptEx,$0.00,245974,695942,+55%,+$0,-1.0,-2.0,-10.0,-32.0,CY
+535,D,2012-02-27 10:57:51,2012-02-24,CY,Nazarian Dana,EVP,F - Tax,$17.87,-92320,127918,-42%,"-$1,649,758",-1.0,-2.0,-10.0,-32.0,CY
+536,D,2012-02-27 10:57:51,2012-02-24,CY,Nazarian Dana,EVP,M - OptEx,$0.00,208923,127918,-258%,+$0,-1.0,-2.0,-10.0,-32.0,CY
+537,D,2012-02-27 10:56:44,2012-02-24,CY,Buss Brad W,CFO,F - Tax,$17.87,-140726,804754,-15%,"-$2,514,774",-1.0,-2.0,-10.0,-32.0,CY
+538,D,2012-02-27 10:56:44,2012-02-24,CY,Buss Brad W,CFO,M - OptEx,$0.00,307466,804754,+62%,+$0,-1.0,-2.0,-10.0,-32.0,CY
+539,,2012-02-27 10:54:22,2012-02-24,CY,Rodgers Thurman J,"Pres, CEO",D - Sale to issuer,$0.00,-167287,7777904,-2%,-$0,-1.0,-2.0,-10.0,-32.0,CY
+540,D,2012-01-05 18:47:41,2012-01-03,CY,Van Den Hoek Wilbert,Dir,M - OptEx,$0.00,1000,2000,+100%,+$0,-1.0,3.0,6.0,-18.0,CY
+541,,2012-01-05 18:45:56,2012-01-04,CY,Buss Brad W,CFO,G - Gift,$16.74,-295,638014,0%,"-$4,938",-1.0,3.0,6.0,-18.0,CY
+542,,2011-11-16 20:05:37,2008-09-12,CY,Albrecht W Steve,Dir,S - Sale,$27.87,-2000,23900,-8%,"-$55,745",-4.0,-10.0,-17.0,-35.0,CY
+543,,2011-11-16 20:04:36,2010-12-02,CY,Ramanathan Dinesh,EVP,S - Sale,$16.63,-13145,7693,-63%,"-$218,601",-4.0,-10.0,-17.0,-35.0,CY
+544,,2011-10-04 17:26:11,2011-10-01,CY,Ramanathan Dinesh,EVP,F - Tax,$14.97,-3591,19818,-15%,"-$53,757",4.0,8.0,28.0,5.0,CY
+545,,2011-10-04 17:25:09,2011-10-01,CY,Taffe Norman P,EVP,F - Tax,$14.97,-3591,191752,-2%,"-$53,757",4.0,8.0,28.0,5.0,CY
+546,,2011-10-04 17:24:04,2011-10-01,CY,Seams Christopher A,EVP,F - Tax,$14.97,-3463,560624,-1%,"-$51,841",4.0,8.0,28.0,5.0,CY
+547,,2011-10-04 17:23:04,2011-10-01,CY,Buss Brad W,CFO,F - Tax,$14.97,-4171,640309,-1%,"-$62,440",4.0,8.0,28.0,5.0,CY
+548,D,2011-09-19 18:46:51,2011-09-15,CY,Seams Christopher A,EVP,M - OptEx,$4.09,365458,564087,+184%,"+$1,493,700",-1.0,-4.0,-3.0,-7.0,CY
+549,D,2011-09-19 18:46:51,2011-09-15,CY,Seams Christopher A,EVP,S - Sale+OE,$17.38,-365458,564087,-39%,"-$6,351,477",-1.0,-4.0,-3.0,-7.0,CY
+550,DM,2011-08-01 17:01:59,2011-07-28,CY,Taffe Norman P,EVP,M - OptEx,$3.96,247814,195343,-472%,"+$981,379",-6.0,-12.0,-19.0,-14.0,CY
+551,DM,2011-08-01 17:01:59,2011-07-28,CY,Taffe Norman P,EVP,S - Sale+OE,$20.90,-247814,195343,-56%,"-$5,179,313",-6.0,-12.0,-19.0,-14.0,CY
+552,D,2011-07-26 16:36:53,2011-07-22,CY,Taffe Norman P,EVP,M - OptEx,$3.81,162920,195343,+502%,"+$620,261",-5.0,-3.0,-18.0,-10.0,CY
+553,D,2011-07-26 16:36:53,2011-07-22,CY,Taffe Norman P,EVP,S - Sale+OE,$21.66,-162920,195343,-45%,"-$3,529,059",-5.0,-3.0,-18.0,-10.0,CY
+554,D,2011-06-09 19:32:34,2011-06-09,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$2.77,1565683,7945191,+25%,"+$4,331,932",-3.0,-7.0,7.0,-11.0,CY
+555,D,2011-06-02 17:53:02,2011-05-31,CY,Buss Brad W,CFO,M - OptEx,$3.70,50000,641990,+8%,"+$184,820",-3.0,-6.0,-7.0,-22.0,CY
+556,D,2011-06-02 17:53:02,2011-05-31,CY,Buss Brad W,CFO,S - Sale+OE,$23.77,-50000,641990,-7%,"-$1,188,425",-3.0,-6.0,-7.0,-22.0,CY
+557,D,2011-05-31 18:00:56,2011-05-26,CY,McCranie J Daniel,Dir,M - OptEx,$4.17,5494,77348,+8%,"+$22,895",-3.0,-5.0,-13.0,-27.0,CY
+558,,2011-05-20 18:08:11,2011-05-18,CY,Nazarian Dana,EVP,S - Sale,$22.10,-84140,8825,-91%,"-$1,859,494",-3.0,2.0,-10.0,-9.0,CY
+559,D,2011-05-17 16:43:08,2011-05-13,CY,Sherman J Donald,Dir,A - Grant,$0.00,8001,22932,+54%,+$0,6.0,1.0,-4.0,-6.0,CY
+560,D,2011-05-17 16:43:08,2011-05-16,CY,Sherman J Donald,Dir,M - OptEx,$0.00,14931,22932,+187%,+$0,6.0,1.0,-4.0,-6.0,CY
+561,,2011-05-17 16:42:11,2011-05-13,CY,McCranie J Daniel,Dir,M - OptEx,$0.00,8001,71854,+13%,+$0,6.0,1.0,-4.0,-6.0,CY
+562,,2011-05-17 16:41:01,2011-05-13,CY,Long James R,Dir,M - OptEx,$0.00,8001,132596,+6%,+$0,6.0,1.0,-4.0,-6.0,CY
+563,,2011-05-17 16:40:08,2011-05-13,CY,Carney Lloyd,Dir,M - OptEx,$0.00,8001,105616,+8%,+$0,6.0,1.0,-4.0,-6.0,CY
+564,,2011-05-17 16:39:12,2011-05-13,CY,Benhamou Eric,Dir,M - OptEx,$0.00,8001,140296,+6%,+$0,6.0,1.0,-4.0,-6.0,CY
+565,,2011-05-17 16:38:29,2011-05-13,CY,Albrecht W Steve,Dir,M - OptEx,$0.00,8001,110916,+8%,+$0,6.0,1.0,-4.0,-6.0,CY
+566,M,2011-05-13 17:20:03,2011-05-11,CY,Nazarian Dana,EVP,S - Sale,$21.81,-71213,92965,-43%,"-$1,552,833",-2.0,2.0,-6.0,-15.0,CY
+567,,2011-04-27 16:59:13,2011-04-25,CY,Taffe Norman P,EVP,S - Sale,$20.95,-45000,192853,-19%,"-$942,748",0.0,-5.0,0.0,-11.0,CY
+568,D,2011-04-27 16:54:11,2011-04-25,CY,Carney Lloyd,Dir,M - OptEx,$3.38,120864,97615,-520%,"+$408,629",0.0,-5.0,0.0,-11.0,CY
+569,D,2011-04-27 16:54:11,2011-04-25,CY,Carney Lloyd,Dir,S - Sale+OE,$20.67,-120864,97615,-55%,"-$2,498,621",0.0,-5.0,0.0,-11.0,CY
+570,DM,2011-04-27 16:52:34,2011-04-25,CY,Buss Brad W,CFO,M - OptEx,$3.70,164137,641990,+34%,"+$606,716",0.0,-5.0,0.0,-11.0,CY
+571,DM,2011-04-27 16:52:34,2011-04-25,CY,Buss Brad W,CFO,S - Sale+OE,$21.15,-164137,641990,-20%,"-$3,472,209",0.0,-5.0,0.0,-11.0,CY
+572,D,2011-02-28 16:41:01,2011-02-24,CY,Nazarian Dana,EVP,F - Tax,$21.27,-126680,164178,-44%,"-$2,694,484",-1.0,0.0,-5.0,-22.0,CY
+573,D,2011-02-28 16:41:01,2011-02-24,CY,Nazarian Dana,EVP,M - OptEx,$0.00,280865,164178,-241%,+$0,-1.0,0.0,-5.0,-22.0,CY
+574,D,2011-02-28 16:40:27,2011-02-24,CY,Ramanathan Dinesh,EVP,F - Tax,$21.27,-114906,20919,-85%,"-$2,444,051",-1.0,0.0,-5.0,-22.0,CY
+575,D,2011-02-28 16:40:27,2011-02-24,CY,Ramanathan Dinesh,EVP,M - OptEx,$0.00,255852,20919,-109%,+$0,-1.0,0.0,-5.0,-22.0,CY
+576,D,2011-02-28 16:40:27,2011-02-25,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$21.72,-140946,20919,-87%,"-$3,061,853",-1.0,0.0,-5.0,-22.0,CY
+577,,2011-02-28 16:38:44,2011-02-24,CY,Rodgers Thurman J,"Pres, CEO",D - Sale to issuer,$0.00,-4252,6379508,0%,-$0,-1.0,0.0,-5.0,-22.0,CY
+578,,2011-02-28 16:38:44,2011-02-24,CY,Rodgers Thurman J,"Pres, CEO",F - Tax,$21.27,-305747,6379508,-5%,"-$6,503,239",-1.0,0.0,-5.0,-22.0,CY
+579,D,2011-02-28 16:37:32,2011-02-24,CY,Seams Christopher A,EVP,F - Tax,$0.00,-148459,561597,-21%,-$0,-1.0,0.0,-5.0,-22.0,CY
+580,D,2011-02-28 16:37:32,2011-02-24,CY,Seams Christopher A,EVP,M - OptEx,$0.00,327491,561597,+140%,+$0,-1.0,0.0,-5.0,-22.0,CY
+581,D,2011-02-28 16:36:29,2011-02-24,CY,Buss Brad W,CFO,F - Tax,$21.27,-194244,641990,-23%,"-$4,131,570",-1.0,0.0,-5.0,-22.0,CY
+582,D,2011-02-28 16:36:29,2011-02-24,CY,Buss Brad W,CFO,M - OptEx,$0.00,409364,641990,+176%,+$0,-1.0,0.0,-5.0,-22.0,CY
+583,D,2011-02-28 16:35:08,2011-02-24,CY,Taffe Norman P,EVP,F - Tax,$21.27,-131376,237853,-36%,"-$2,794,368",-1.0,0.0,-5.0,-22.0,CY
+584,D,2011-02-28 16:35:08,2011-02-24,CY,Taffe Norman P,EVP,M - OptEx,$0.00,281438,237853,-646%,+$0,-1.0,0.0,-5.0,-22.0,CY
+585,,2011-02-16 17:08:53,2011-02-14,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-200000,6689507,-3%,-$0,-2.0,-10.0,-18.0,-19.0,CY
+586,D,2011-02-09 18:31:37,2011-02-07,CY,Van De Ven Evert,Dir,M - OptEx,$4.17,40000,118815,+51%,"+$166,692",1.0,-2.0,-19.0,-24.0,CY
+587,D,2011-02-09 18:31:37,2011-02-07,CY,Van De Ven Evert,Dir,S - Sale+OE,$23.41,-40000,118815,-25%,"-$936,320",1.0,-2.0,-19.0,-24.0,CY
+588,D,2011-02-03 17:14:28,2011-02-01,CY,Buss Brad W,CFO,M - OptEx,$3.70,150000,426870,+54%,"+$554,460",3.0,2.0,-7.0,-13.0,CY
+589,D,2011-02-03 17:14:28,2011-02-01,CY,Buss Brad W,CFO,S - Sale+OE,$22.16,-150000,426870,-26%,"-$3,323,895",3.0,2.0,-7.0,-13.0,CY
+590,D,2011-02-03 17:14:23,2011-02-01,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$4.06,1236066,6889507,+22%,"+$5,019,046",3.0,2.0,-7.0,-13.0,CY
+591,D,2011-02-03 17:14:23,2011-02-01,CY,Rodgers Thurman J,"Pres, CEO",S - Sale+OE,$22.04,-705000,6889507,-9%,"-$15,539,963",3.0,2.0,-7.0,-13.0,CY
+592,D,2011-02-03 16:58:40,2011-02-01,CY,Van De Ven Evert,Dir,M - OptEx,$4.17,20000,118815,+20%,"+$83,346",3.0,2.0,-7.0,-13.0,CY
+593,D,2011-02-03 16:58:40,2011-02-01,CY,Van De Ven Evert,Dir,S - Sale+OE,$22.26,-20000,118815,-14%,"-$445,152",3.0,2.0,-7.0,-13.0,CY
+594,D,2011-02-01 16:32:33,2011-01-31,CY,McCranie J Daniel,Dir,M - OptEx,$3.93,21279,63853,+50%,"+$83,703",3.0,6.0,-4.0,-6.0,CY
+595,D,2011-02-01 16:32:33,2011-01-31,CY,McCranie J Daniel,Dir,S - Sale+OE,$21.33,-51279,63853,-45%,"-$1,093,724",3.0,6.0,-4.0,-6.0,CY
+596,D,2011-02-01 16:30:54,2011-01-28,CY,Taffe Norman P,EVP,M - OptEx,$4.88,112892,87791,-450%,"+$551,415",3.0,6.0,-4.0,-6.0,CY
+597,D,2011-02-01 16:30:54,2011-01-28,CY,Taffe Norman P,EVP,S - Sale+OE,$21.16,-140553,87791,-62%,"-$2,974,509",3.0,6.0,-4.0,-6.0,CY
+598,M,2010-12-20 17:17:55,2010-12-17,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-57805,6358441,-1%,-$0,1.0,1.0,16.0,10.0,CY
+599,,2010-12-20 17:16:25,2010-12-17,CY,Buss Brad W,CFO,G - Gift,$0.00,-1200,426870,0%,-$0,1.0,1.0,16.0,10.0,CY
+600,,2010-12-20 17:15:29,2010-12-17,CY,Taffe Norman P,EVP,G - Gift,$0.00,-1172,115452,-1%,-$0,1.0,1.0,16.0,10.0,CY
+601,,2010-12-20 17:14:20,2010-12-20,CY,Seams Christopher A,EVP,G - Gift,$0.00,-1000,382565,0%,-$0,1.0,1.0,16.0,10.0,CY
+602,D,2010-12-15 17:08:07,2010-12-03,CY,Van De Ven Evert,Dir,M - OptEx,$5.34,20601,118815,+21%,"+$109,999",3.0,5.0,23.0,18.0,CY
+603,D,2010-12-15 17:08:07,2010-12-03,CY,Van De Ven Evert,Dir,S - Sale+OE,$17.59,-20601,118815,-15%,"-$362,376",3.0,5.0,23.0,18.0,CY
+604,,2010-12-14 17:41:34,2010-12-13,CY,Rodgers Thurman J,"Pres, CEO",S - Sale,$17.99,-84800,6416246,-1%,"-$1,525,698",-2.0,2.0,16.0,18.0,CY
+605,M,2010-12-14 17:40:28,2010-12-10,CY,Rodgers Thurman J,"Pres, CEO",S - Sale,$17.87,-257411,6501046,-4%,"-$4,599,671",-2.0,2.0,16.0,18.0,CY
+606,,2010-12-14 17:38:59,2010-12-09,CY,Taffe Norman P,EVP,G - Gift,$0.00,-1000,116624,-1%,-$0,-2.0,2.0,16.0,18.0,CY
+607,D,2010-12-13 16:43:18,2010-12-09,CY,Seams Christopher A,EVP,M - OptEx,$4.09,392661,383565,-4317%,"+$1,604,884",0.0,2.0,13.0,16.0,CY
+608,D,2010-12-13 16:43:18,2010-12-09,CY,Seams Christopher A,EVP,S - Sale+OE,$18.05,-392661,383565,-51%,"-$7,088,067",0.0,2.0,13.0,16.0,CY
+609,,2010-12-09 19:15:24,2010-12-07,CY,Nazarian Dana,EVP,S - Sale,$17.81,-3805,9946,-28%,"-$67,767",0.0,-5.0,7.0,21.0,CY
+610,D,2010-12-03 18:20:00,2010-12-02,CY,Benhamou Eric,Dir,M - OptEx,$4.06,61238,132295,+86%,"+$248,657",0.0,2.0,3.0,27.0,CY
+611,D,2010-12-03 18:20:00,2010-12-02,CY,Benhamou Eric,Dir,S - Sale+OE,$16.43,-61238,132295,-32%,"-$1,006,226",0.0,2.0,3.0,27.0,CY
+612,,2010-11-22 17:11:23,2010-11-17,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-5236,6758457,0%,-$0,-1.0,-1.0,14.0,35.0,CY
+613,DM,2010-10-28 20:48:24,2010-10-27,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$5.63,1166988,6763693,+21%,"+$6,567,458",0.0,1.0,13.0,54.0,CY
+614,D,2010-10-28 20:48:24,2010-10-27,CY,Rodgers Thurman J,"Pres, CEO",S - Sale+OE,$14.18,-78900,6763693,-1%,"-$1,118,557",0.0,1.0,13.0,54.0,CY
+615,D,2010-10-28 20:47:39,2010-10-27,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$5.63,481100,5675605,+9%,"+$2,707,486",0.0,1.0,13.0,54.0,CY
+616,D,2010-10-28 20:47:39,2010-10-27,CY,Rodgers Thurman J,"Pres, CEO",S - Sale+OE,$14.12,-481100,5675605,-8%,"-$6,795,095",0.0,1.0,13.0,54.0,CY
+617,,2010-10-28 20:46:36,2010-10-28,CY,Long James R,Dir,S - Sale,$14.07,-11000,124595,-8%,"-$154,813",0.0,1.0,13.0,54.0,CY
+618,D,2010-10-26 19:06:08,2010-10-26,CY,Albrecht W Steve,Dir,M - OptEx,$3.95,103226,102915,-32768%,"+$407,962",2.0,2.0,14.0,55.0,CY
+619,D,2010-10-26 19:06:08,2010-10-26,CY,Albrecht W Steve,Dir,S - Sale+OE,$13.85,-103226,102915,-50%,"-$1,429,298",2.0,2.0,14.0,55.0,CY
+620,D,2010-10-26 19:05:30,2010-10-26,CY,Buss Brad W,CFO,M - OptEx,$3.70,100000,428070,+30%,"+$369,640",2.0,2.0,14.0,55.0,CY
+621,D,2010-10-26 19:05:30,2010-10-26,CY,Buss Brad W,CFO,S - Sale+OE,$13.96,-100000,428070,-19%,"-$1,396,050",2.0,2.0,14.0,55.0,CY
+622,D,2010-10-26 19:04:32,2010-10-25,CY,Van De Ven Evert,Dir,M - OptEx,$3.38,68071,118815,+134%,"+$230,141",2.0,2.0,14.0,55.0,CY
+623,D,2010-10-26 19:04:32,2010-10-25,CY,Van De Ven Evert,Dir,S - Sale+OE,$13.56,-68071,118815,-36%,"-$923,212",2.0,2.0,14.0,55.0,CY
+624,D,2010-10-26 19:03:41,2010-10-25,CY,Ramanathan Dinesh,EVP,M - OptEx,$3.62,71864,20838,-141%,"+$260,266",2.0,2.0,14.0,55.0,CY
+625,D,2010-10-26 19:03:41,2010-10-25,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$13.59,-71864,20838,-78%,"-$976,381",2.0,2.0,14.0,55.0,CY
+626,,2010-10-26 19:02:43,2010-10-22,CY,Taffe Norman P,EVP,S - Sale,$13.19,-35182,117624,-23%,"-$464,056",2.0,2.0,14.0,55.0,CY
+627,,2010-10-20 19:59:55,2010-10-19,CY,Buss Brad W,CFO,G - Gift,$12.49,-400,428070,0%,"-$4,996",4.0,12.0,24.0,47.0,CY
+628,D,2010-10-14 17:08:35,2010-10-12,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$13.20,5150,5675605,0%,"+$67,980",-1.0,-6.0,15.0,36.0,CY
+629,,2010-10-12 17:24:03,2010-10-08,CY,Buss Brad W,CFO,G - Gift,$12.64,-600,428470,0%,"-$7,584",2.0,-3.0,16.0,42.0,CY
+630,,2010-10-05 20:08:21,2010-10-01,CY,Ramanathan Dinesh,EVP,F - Tax,$12.96,-3590,20838,-15%,"-$46,526",-3.0,1.0,9.0,47.0,CY
+631,,2010-10-05 20:05:53,2010-10-01,CY,Buss Brad W,CFO,F - Tax,$12.96,-4103,429070,-1%,"-$53,175",-3.0,1.0,9.0,47.0,CY
+632,,2010-10-05 18:46:40,2010-10-01,CY,Taffe Norman P,EVP,F - Tax,$12.96,-3590,152806,-2%,"-$46,526",-3.0,1.0,9.0,47.0,CY
+633,,2010-10-05 18:45:55,2010-10-01,CY,Seams Christopher A,EVP,F - Tax,$12.96,-3461,383565,-1%,"-$44,855",-3.0,1.0,9.0,47.0,CY
+634,DM,2010-09-15 20:03:24,2010-09-13,CY,Van De Ven Evert,Dir,M - OptEx,$3.38,100000,118815,+531%,"+$338,090",-2.0,-2.0,10.0,53.0,CY
+635,DM,2010-09-15 20:03:24,2010-09-13,CY,Van De Ven Evert,Dir,S - Sale+OE,$12.12,-100000,118815,-46%,"-$1,211,982",-2.0,-2.0,10.0,53.0,CY
+636,D,2010-09-15 20:01:56,2010-09-13,CY,Nazarian Dana,EVP,M - OptEx,$4.05,130953,4832,-104%,"+$530,441",-2.0,-2.0,10.0,53.0,CY
+637,D,2010-09-15 20:01:56,2010-09-13,CY,Nazarian Dana,EVP,S - Sale+OE,$11.85,-267255,4832,-98%,"-$3,166,972",-2.0,-2.0,10.0,53.0,CY
+638,,2010-07-02 12:50:51,2010-06-30,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-4864,5670454,0%,-$0,-1.0,7.0,5.0,82.0,CY
+639,,2010-05-17 17:26:48,2010-05-14,CY,Van De Ven Evert,Dir,M - OptEx,$0.00,14931,118815,+14%,+$0,-4.0,-4.0,-3.0,30.0,CY
+640,,2010-05-17 17:25:08,2010-05-14,CY,McCranie J Daniel,Dir,M - OptEx,$0.00,14931,93853,+19%,+$0,-4.0,-4.0,-3.0,30.0,CY
+641,,2010-05-17 17:23:06,2010-05-14,CY,Long James R,Dir,M - OptEx,$0.00,14931,135595,+12%,+$0,-4.0,-4.0,-3.0,30.0,CY
+642,,2010-05-17 17:21:39,2010-05-14,CY,Carney Lloyd,Dir,M - OptEx,$0.00,14931,97615,+18%,+$0,-4.0,-4.0,-3.0,30.0,CY
+643,,2010-05-17 17:19:50,2010-05-14,CY,Benhamou Eric,Dir,M - OptEx,$0.00,14931,132295,+13%,+$0,-4.0,-4.0,-3.0,30.0,CY
+644,,2010-05-17 17:17:31,2010-05-14,CY,Albrecht W Steve,Dir,M - OptEx,$0.00,14931,102915,+17%,+$0,-4.0,-4.0,-3.0,30.0,CY
+645,,2010-04-28 21:23:42,2010-04-28,CY,Rodgers Thurman J,"Pres, CEO",S - Sale,$13.35,-147577,5800718,-2%,"-$1,969,557",1.0,-8.0,-18.0,2.0,CY
+646,,2010-04-28 20:15:09,2010-04-28,CY,Rodgers Thurman J,"Pres, CEO",S - Sale,$13.49,-125400,5675318,-2%,"-$1,691,208",1.0,-8.0,-18.0,2.0,CY
+647,M,2010-04-28 20:12:04,2010-04-27,CY,Rodgers Thurman J,"Pres, CEO",S - Sale,$13.41,-227023,5948295,-4%,"-$3,044,110",1.0,-8.0,-18.0,2.0,CY
+648,D,2010-04-28 20:10:38,2010-04-27,CY,Van De Ven Evert,Dir,M - OptEx,$5.17,41202,103884,+66%,"+$213,101",1.0,-8.0,-18.0,2.0,CY
+649,D,2010-04-28 20:10:38,2010-04-27,CY,Van De Ven Evert,Dir,S - Sale+OE,$13.56,-41202,103884,-28%,"-$558,617",1.0,-8.0,-18.0,2.0,CY
+650,,2010-04-22 18:19:41,2010-04-22,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-189970,6175318,-3%,-$0,0.0,2.0,-15.0,-5.0,CY
+651,,2010-04-19 14:34:48,2010-04-16,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-15625,6365288,0%,-$0,0.0,4.0,-8.0,4.0,CY
+652,D,2010-03-17 16:49:40,2010-03-16,CY,Seams Christopher A,EVP,M - OptEx,$1.83,370819,380446,>999%,"+$680,416",-2.0,-3.0,6.0,-2.0,CY
+653,D,2010-03-17 16:49:40,2010-03-16,CY,Seams Christopher A,EVP,S - Sale+OE,$12.32,-370819,380446,-49%,"-$4,568,638",-2.0,-3.0,6.0,-2.0,CY
+654,,2010-03-16 17:53:22,2010-03-15,CY,Taffe Norman P,EVP,S - Sale,$12.34,-91396,150404,-38%,"-$1,128,001",0.0,-3.0,5.0,-4.0,CY
+655,,2010-03-08 16:31:34,2010-03-04,CY,Ramanathan Dinesh,EVP,S - Sale,$11.85,-67328,19018,-78%,"-$797,837",1.0,2.0,-3.0,-5.0,CY
+656,,2010-03-05 11:38:26,2010-03-03,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-825,6380913,0%,-$0,1.0,3.0,-2.0,-9.0,CY
+657,D,2010-03-03 20:50:36,2010-03-01,CY,Buss Brad W,CFO,F - Tax,$11.96,-69490,426593,-14%,"-$831,100",0.0,2.0,-4.0,-13.0,CY
+658,DM,2010-03-03 20:50:36,2010-03-01,CY,Buss Brad W,CFO,M - OptEx,$1.40,264809,426593,+164%,"+$369,640",0.0,2.0,-4.0,-13.0,CY
+659,D,2010-03-03 20:50:36,2010-03-03,CY,Buss Brad W,CFO,S - Sale+OE,$12.08,-100000,426593,-19%,"-$1,208,090",0.0,2.0,-4.0,-13.0,CY
+660,D,2010-03-03 19:57:04,2010-03-02,CY,Benhamou Eric,Dir,M - OptEx,$10.88,82404,117364,+236%,"+$896,556",0.0,2.0,-4.0,-13.0,CY
+661,D,2010-03-03 19:57:04,2010-03-02,CY,Benhamou Eric,Dir,S - Sale+OE,$12.14,-82404,117364,-41%,"-$1,000,385",0.0,2.0,-4.0,-13.0,CY
+662,D,2010-03-03 19:54:57,2010-03-01,CY,Taffe Norman P,EVP,F - Tax,$11.96,-45296,241800,-16%,"-$541,740",0.0,2.0,-4.0,-13.0,CY
+663,D,2010-03-03 19:54:57,2010-03-01,CY,Taffe Norman P,EVP,M - OptEx,$0.00,113305,241800,+88%,+$0,0.0,2.0,-4.0,-13.0,CY
+664,D,2010-03-03 19:53:30,2010-03-01,CY,Seams Christopher A,EVP,F - Tax,$11.96,-54155,380446,-12%,"-$647,694",0.0,2.0,-4.0,-13.0,CY
+665,D,2010-03-03 19:53:30,2010-03-01,CY,Seams Christopher A,EVP,M - OptEx,$0.00,131847,380446,+53%,+$0,0.0,2.0,-4.0,-13.0,CY
+666,D,2010-03-03 19:48:08,2010-03-01,CY,Nazarian Dana,EVP,F - Tax,$11.96,-23410,135648,-15%,"-$279,984",0.0,2.0,-4.0,-13.0,CY
+667,D,2010-03-03 19:48:08,2010-03-01,CY,Nazarian Dana,EVP,M - OptEx,$0.00,63823,135648,+89%,+$0,0.0,2.0,-4.0,-13.0,CY
+668,D,2010-03-03 19:46:29,2010-03-01,CY,Ramanathan Dinesh,EVP,F - Tax,$11.96,-44015,86346,-34%,"-$526,419",0.0,2.0,-4.0,-13.0,CY
+669,D,2010-03-03 19:46:29,2010-03-01,CY,Ramanathan Dinesh,EVP,M - OptEx,$0.00,103005,86346,-618%,+$0,0.0,2.0,-4.0,-13.0,CY
+670,,2010-03-02 17:28:10,2010-03-01,CY,Rodgers Thurman J,"Pres, CEO",D - Sale to issuer,$11.96,-65924,6381738,-1%,"-$788,451",-1.0,0.0,-4.0,-13.0,CY
+671,,2010-03-02 17:28:10,2010-03-01,CY,Rodgers Thurman J,"Pres, CEO",F - Tax,$11.96,-114946,6381738,-2%,"-$1,374,754",-1.0,0.0,-4.0,-13.0,CY
+672,,2010-03-02 17:28:10,2010-03-01,CY,Rodgers Thurman J,"Pres, CEO",S - Sale,$12.00,-234078,6381738,-4%,"-$2,809,032",-1.0,0.0,-4.0,-13.0,CY
+673,M,2010-02-26 19:42:45,2010-02-24,CY,Rodgers Thurman J,"Pres, CEO",S - Sale,$11.87,-765922,6796686,-10%,"-$9,089,043",1.0,1.0,-3.0,-14.0,CY
+674,D,2010-02-22 17:54:35,2010-02-19,CY,Van De Ven Evert,Dir,M - OptEx,$3.28,40000,103884,+63%,"+$131,236",-2.0,-3.0,-2.0,-15.0,CY
+675,D,2010-02-22 17:54:35,2010-02-19,CY,Van De Ven Evert,Dir,S - Sale+OE,$12.36,-40000,103884,-28%,"-$494,264",-2.0,-3.0,-2.0,-15.0,CY
+676,D,2010-02-22 17:52:46,2010-02-19,CY,McCranie J Daniel,Dir,M - OptEx,$3.53,67918,78922,+617%,"+$239,992",-2.0,-3.0,-2.0,-15.0,CY
+677,D,2010-02-22 17:52:46,2010-02-19,CY,McCranie J Daniel,Dir,S - Sale+OE,$12.29,-67918,78922,-46%,"-$834,495",-2.0,-3.0,-2.0,-15.0,CY
+678,D,2010-02-16 16:34:57,2010-02-12,CY,Ramanathan Dinesh,EVP,M - OptEx,$3.62,65134,27356,-172%,"+$235,689",0.0,3.0,4.0,-12.0,CY
+679,D,2010-02-16 16:34:57,2010-02-12,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$11.20,-65134,27356,-70%,"-$729,517",0.0,3.0,4.0,-12.0,CY
+680,,2009-12-18 19:44:49,2009-12-18,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-1000,7862608,0%,-$0,1.0,2.0,5.0,9.0,CY
+681,,2009-11-30 19:46:42,2009-11-27,CY,Buss Brad W,CFO,G - Gift,$0.00,-600,328534,0%,-$0,4.0,8.0,10.0,16.0,CY
+682,,2009-11-10 20:58:15,2009-11-10,CY,Buss Brad W,CFO,G - Gift,$0.00,-1000,329134,0%,-$0,1.0,11.0,22.0,37.0,CY
+683,,2009-10-02 19:10:30,2009-10-01,CY,Seams Christopher A,EVP,F - Tax,$9.83,-3393,300447,-1%,"-$33,353",3.0,1.0,-11.0,23.0,CY
+684,,2009-10-02 19:08:52,2009-10-01,CY,Ramanathan Dinesh,EVP,F - Tax,$9.83,-3519,23722,-13%,"-$34,592",3.0,1.0,-11.0,23.0,CY
+685,,2009-10-02 19:05:37,2009-10-01,CY,Taffe Norman P,EVP,F - Tax,$9.83,-3519,170537,-2%,"-$34,592",3.0,1.0,-11.0,23.0,CY
+686,,2009-10-02 19:02:49,2009-10-01,CY,Buss Brad W,CFO,F - Tax,$9.83,-4022,330134,-1%,"-$39,536",3.0,1.0,-11.0,23.0,CY
+687,D,2009-09-30 12:47:18,2009-09-29,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$5.22,618033,7863608,+9%,"+$3,225,020",1.0,-3.0,-17.0,13.0,CY
+688,D,2009-09-21 17:08:14,2008-09-18,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$5.22,618033,7245575,+9%,"+$3,225,020",1.0,-2.0,-8.0,14.0,CY
+689,,2009-09-11 12:14:39,2009-09-10,CY,Carney Lloyd,Dir,S - Sale,$10.39,-34680,82684,-30%,"-$360,434",-3.0,-3.0,-6.0,18.0,CY
+690,,2009-09-09 12:10:06,2009-09-08,CY,Carney Lloyd,Dir,S - Sale,$9.78,-5000,117364,-4%,"-$48,902",5.0,9.0,-1.0,26.0,CY
+691,,2009-08-31 20:02:32,2009-08-28,CY,Ramanathan Dinesh,EVP,S - Sale,$10.50,-15000,27241,-36%,"-$157,500",-3.0,-3.0,1.0,19.0,CY
+692,,2009-08-17 13:36:02,2009-08-13,CY,Taffe Norman P,EVP,S - Sale,$11.18,-25000,174056,-13%,"-$279,581",-5.0,-3.0,-3.0,7.0,CY
+693,D,2009-08-12 20:48:35,2009-08-10,CY,Nazarian Dana,EVP,M - OptEx,$0.00,76686,91398,+521%,+$0,5.0,-1.0,-3.0,0.0,CY
+694,,2009-08-12 20:41:42,2009-08-10,CY,Rodgers Thurman J,"Pres, CEO",D - Sale to issuer,$0.00,-3231,6627542,0%,-$0,5.0,-1.0,-3.0,0.0,CY
+695,D,2009-08-12 20:40:48,2009-08-10,CY,Taffe Norman P,EVP,F - Tax,$10.47,-64163,199056,-24%,"-$671,787",5.0,-1.0,-3.0,0.0,CY
+696,D,2009-08-12 20:40:48,2009-08-10,CY,Taffe Norman P,EVP,M - OptEx,$0.00,140245,199056,+238%,+$0,5.0,-1.0,-3.0,0.0,CY
+697,D,2009-08-12 20:39:44,2009-08-10,CY,Buss Brad W,CFO,F - Tax,$10.47,-93326,334156,-22%,"-$977,123",5.0,-1.0,-3.0,0.0,CY
+698,D,2009-08-12 20:39:44,2009-08-10,CY,Buss Brad W,CFO,M - OptEx,$0.00,203991,334156,+157%,+$0,5.0,-1.0,-3.0,0.0,CY
+699,D,2009-08-12 20:38:40,2009-08-10,CY,Ramanathan Dinesh,EVP,F - Tax,$10.47,-58330,42241,-58%,"-$610,715",5.0,-1.0,-3.0,0.0,CY
+700,D,2009-08-12 20:38:40,2009-08-10,CY,Ramanathan Dinesh,EVP,M - OptEx,$0.00,127496,42241,-150%,+$0,5.0,-1.0,-3.0,0.0,CY
+701,D,2009-08-12 20:38:40,2009-08-11,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$10.46,-50000,42241,-54%,"-$522,900",5.0,-1.0,-3.0,0.0,CY
+702,D,2009-08-12 20:37:11,2009-08-10,CY,Seams Christopher A,EVP,F - Tax,$10.47,-74661,303840,-20%,"-$781,701",5.0,-1.0,-3.0,0.0,CY
+703,D,2009-08-12 20:37:11,2009-08-10,CY,Seams Christopher A,EVP,M - OptEx,$0.00,163193,303840,+116%,+$0,5.0,-1.0,-3.0,0.0,CY
+704,D,2009-08-03 19:28:08,2009-07-31,CY,Benhamou Eric,Dir,M - OptEx,$3.34,83558,117364,+247%,"+$278,682",-2.0,-4.0,-6.0,1.0,CY
+705,D,2009-08-03 19:28:08,2009-07-31,CY,Benhamou Eric,Dir,S - Sale+OE,$10.66,-83558,117364,-42%,"-$891,084",-2.0,-4.0,-6.0,1.0,CY
+706,D,2009-08-03 19:26:15,2009-07-31,CY,Benhamou Eric,Dir,M - OptEx,$3.19,81250,117364,+225%,"+$259,318",-2.0,-4.0,-6.0,1.0,CY
+707,D,2009-08-03 19:26:15,2009-07-31,CY,Benhamou Eric,Dir,S - Sale+OE,$10.68,-81250,117364,-41%,"-$867,784",-2.0,-4.0,-6.0,1.0,CY
+708,D,2009-07-29 13:11:44,2009-07-27,CY,Van De Ven Evert,Dir,M - OptEx,$8.98,41202,103884,+66%,"+$370,115",3.0,-1.0,-3.0,3.0,CY
+709,D,2009-07-29 13:11:44,2009-07-27,CY,Van De Ven Evert,Dir,S - Sale+OE,$10.59,-41202,103884,-28%,"-$436,295",3.0,-1.0,-3.0,3.0,CY
+710,D,2009-07-24 19:02:28,2009-07-23,CY,Taffe Norman P,EVP,M - OptEx,$3.53,15451,122974,+14%,"+$54,564",0.0,2.0,0.0,0.0,CY
+711,D,2009-07-24 19:02:28,2009-07-23,CY,Taffe Norman P,EVP,S - Sale+OE,$10.65,-15451,122974,-11%,"-$164,553",0.0,2.0,0.0,0.0,CY
+712,D,2009-07-24 19:01:27,2009-07-24,CY,Buss Brad W,CFO,M - OptEx,$3.70,75000,223491,+51%,"+$277,230",0.0,2.0,0.0,0.0,CY
+713,D,2009-07-24 19:01:27,2009-07-24,CY,Buss Brad W,CFO,S - Sale+OE,$10.68,-75000,223491,-25%,"-$800,758",0.0,2.0,0.0,0.0,CY
+714,D,2009-07-22 19:59:06,2009-07-21,CY,Ramanathan Dinesh,EVP,M - OptEx,$3.62,9305,23075,+68%,"+$33,671",1.0,1.0,2.0,5.0,CY
+715,D,2009-07-22 19:59:06,2009-07-21,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$10.44,-12441,23075,-35%,"-$129,884",1.0,1.0,2.0,5.0,CY
+716,D,2009-07-22 19:57:44,2009-07-20,CY,Nazarian Dana,EVP,M - OptEx,$1.88,32686,14712,-182%,"+$61,318",1.0,1.0,2.0,5.0,CY
+717,D,2009-07-22 19:57:44,2009-07-20,CY,Nazarian Dana,EVP,S - Sale+OE,$10.35,-53878,14712,-79%,"-$557,637",1.0,1.0,2.0,5.0,CY
+718,,2009-07-21 17:21:33,2009-07-17,CY,Rodgers Thurman J,"Pres, CEO",S - Sale,$10.22,-164966,6630773,-2%,"-$1,685,984",1.0,2.0,3.0,7.0,CY
+719,,2009-07-21 17:19:29,2009-07-17,CY,Rodgers Thurman J,"Pres, CEO",S - Sale,$10.12,-98569,6795739,-1%,"-$997,376",1.0,2.0,3.0,7.0,CY
+720,D,2009-07-21 11:53:09,2009-07-17,CY,Seams Christopher A,EVP,M - OptEx,$1.84,139603,215308,+184%,"+$257,385",0.0,2.0,2.0,6.0,CY
+721,D,2009-07-21 11:53:09,2009-07-17,CY,Seams Christopher A,EVP,S - Sale+OE,$10.21,-139603,215308,-39%,"-$1,424,744",0.0,2.0,2.0,6.0,CY
+722,D,2009-07-21 11:51:47,2009-07-17,CY,Seams Christopher A,EVP,M - OptEx,$1.56,143455,215308,+200%,"+$224,220",0.0,2.0,2.0,6.0,CY
+723,D,2009-07-21 11:51:47,2009-07-17,CY,Seams Christopher A,EVP,S - Sale+OE,$10.19,-143455,215308,-40%,"-$1,462,054",0.0,2.0,2.0,6.0,CY
+724,D,2009-07-21 11:49:33,2009-07-17,CY,Taffe Norman P,EVP,M - OptEx,$3.39,36054,122974,+41%,"+$122,257",0.0,2.0,2.0,6.0,CY
+725,D,2009-07-21 11:49:33,2009-07-17,CY,Taffe Norman P,EVP,S - Sale+OE,$10.03,-36054,122974,-23%,"-$361,775",0.0,2.0,2.0,6.0,CY
+726,D,2009-07-21 11:46:32,2009-07-17,CY,Buss Brad W,CFO,M - OptEx,$3.70,50000,223491,+29%,"+$184,820",0.0,2.0,2.0,6.0,CY
+727,D,2009-07-21 11:46:32,2009-07-17,CY,Buss Brad W,CFO,S - Sale+OE,$10.18,-50000,223491,-18%,"-$509,222",0.0,2.0,2.0,6.0,CY
+728,D,2009-06-12 17:46:10,2009-06-10,CY,Ramanathan Dinesh,EVP,M - OptEx,$3.76,21633,23265,>999%,"+$81,387",2.0,-2.0,1.0,19.0,CY
+729,D,2009-06-12 17:46:10,2009-06-10,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$9.13,-21633,23265,-48%,"-$197,466",2.0,-2.0,1.0,19.0,CY
+730,,2009-06-08 17:16:56,2009-06-05,CY,Van De Ven Evert,Dir,S - Sale,$8.89,-18480,103884,-15%,"-$164,199",5.0,3.0,-1.0,16.0,CY
+731,D,2009-05-29 16:25:42,2009-05-27,CY,Albrecht W Steve,Dir,M - OptEx,$2.91,24811,87984,+39%,"+$72,200",4.0,4.0,6.0,13.0,CY
+732,D,2009-05-29 16:25:42,2009-05-27,CY,Albrecht W Steve,Dir,S - Sale+OE,$8.68,-62491,87984,-42%,"-$542,268",4.0,4.0,6.0,13.0,CY
+733,D,2009-05-29 16:24:52,2009-05-27,CY,Albrecht W Steve,Dir,M - OptEx,$2.91,41112,125664,+49%,"+$119,636",4.0,4.0,6.0,13.0,CY
+734,D,2009-05-29 16:24:52,2009-05-27,CY,Albrecht W Steve,Dir,S - Sale+OE,$8.60,-41112,125664,-25%,"-$353,591",4.0,4.0,6.0,13.0,CY
+735,,2009-05-29 16:23:39,2009-05-27,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-30000,6894308,0%,-$0,4.0,4.0,6.0,13.0,CY
+736,,2009-05-29 16:21:52,2009-05-27,CY,Long James R,Dir,S - Sale,$8.67,-21000,120664,-15%,"-$182,027",4.0,4.0,6.0,13.0,CY
+737,,2009-05-27 20:58:46,2009-05-22,CY,McCranie J Daniel,Dir,M - OptEx,$0.00,41200,78922,+109%,+$0,2.0,2.0,3.0,13.0,CY
+738,,2009-05-27 20:58:46,2009-05-26,CY,McCranie J Daniel,Dir,S - Sale,$8.04,-39680,78922,-33%,"-$318,893",2.0,2.0,3.0,13.0,CY
+739,,2009-05-27 20:55:49,2009-05-22,CY,Van De Ven Evert,Dir,M - OptEx,$0.00,41200,122364,+51%,+$0,2.0,2.0,3.0,13.0,CY
+740,,2009-05-27 20:54:52,2009-05-22,CY,Long James R,Dir,M - OptEx,$0.00,41200,141664,+41%,+$0,2.0,2.0,3.0,13.0,CY
+741,,2009-05-27 20:53:54,2009-05-22,CY,Carney Lloyd,Dir,M - OptEx,$0.00,41200,122364,+51%,+$0,2.0,2.0,3.0,13.0,CY
+742,,2009-05-27 20:53:05,2009-05-22,CY,Albrecht W Steve,Dir,M - OptEx,$0.00,41200,125664,+49%,+$0,2.0,2.0,3.0,13.0,CY
+743,,2009-05-27 20:52:02,2009-05-22,CY,Benhamou Eric,Dir,M - OptEx,$0.00,41200,117364,+54%,+$0,2.0,2.0,3.0,13.0,CY
+744,D,2009-05-07 16:18:31,2009-05-05,CY,Nazarian Dana,EVP,M - OptEx,$3.67,145398,33161,-130%,"+$533,895",-4.0,-8.0,15.0,11.0,CY
+745,D,2009-05-07 16:18:31,2009-05-05,CY,Nazarian Dana,EVP,S - Sale+OE,$8.17,-145398,33161,-81%,"-$1,187,902",-4.0,-8.0,15.0,11.0,CY
+746,,2009-05-06 16:19:21,2009-05-04,CY,Buss Brad W,CFO,S - Sale,$8.07,-40000,219652,-15%,"-$322,632",-6.0,-13.0,10.0,4.0,CY
+747,,2009-05-05 16:21:58,2009-05-01,CY,Taffe Norman P,EVP,S - Sale,$7.76,-25000,119649,-17%,"-$194,113",0.0,-11.0,6.0,3.0,CY
+748,D,2009-05-04 17:19:57,2009-04-30,CY,Ramanathan Dinesh,EVP,M - OptEx,$3.70,70895,23265,-149%,"+$262,597",-1.0,-11.0,6.0,6.0,CY
+749,D,2009-05-04 17:19:57,2009-04-30,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$8.00,-70895,23265,-75%,"-$567,160",-1.0,-11.0,6.0,6.0,CY
+750,D,2009-04-30 16:15:36,2009-04-28,CY,McCranie J Daniel,Dir,M - OptEx,$3.56,81033,77402,-2232%,"+$288,245",-2.0,3.0,9.0,14.0,CY
+751,D,2009-04-30 16:15:36,2009-04-28,CY,McCranie J Daniel,Dir,S - Sale+OE,$7.52,-81033,77402,-51%,"-$609,052",-2.0,3.0,9.0,14.0,CY
+752,D,2009-04-28 17:00:37,2009-04-24,CY,Taffe Norman P,EVP,M - OptEx,$5.22,36072,144649,+33%,"+$188,231",3.0,8.0,12.0,23.0,CY
+753,D,2009-04-28 17:00:37,2009-04-24,CY,Taffe Norman P,EVP,S - Sale+OE,$7.44,-48631,144649,-25%,"-$361,703",3.0,8.0,12.0,23.0,CY
+754,,2009-04-28 16:59:18,2009-04-24,CY,Buss Brad W,CFO,S - Sale,$7.51,-45000,259652,-15%,"-$337,750",3.0,8.0,12.0,23.0,CY
+755,D,2009-04-22 16:05:50,2009-04-22,CY,Ramanathan Dinesh,EVP,M - OptEx,$3.52,100000,23265,-130%,"+$352,170",-1.0,3.0,5.0,32.0,CY
+756,DM,2009-04-22 16:05:50,2009-04-20,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$6.87,-181984,23265,-89%,"-$1,249,578",-1.0,3.0,5.0,32.0,CY
+757,D,2009-03-16 20:56:15,2009-03-12,CY,Nazarian Dana,EVP,M - OptEx,$0.00,9954,33161,+43%,+$0,2.0,4.0,25.0,72.0,CY
+758,D,2009-03-16 20:53:55,2009-03-12,CY,Taffe Norman P,EVP,F - Tax,$5.94,-69836,157209,-31%,"-$414,826",2.0,4.0,25.0,72.0,CY
+759,D,2009-03-16 20:53:55,2009-03-12,CY,Taffe Norman P,EVP,M - OptEx,$0.00,186232,157209,-642%,+$0,2.0,4.0,25.0,72.0,CY
+760,D,2009-03-16 20:53:55,2009-03-12,CY,Taffe Norman P,EVP,S - Sale+OE,$5.90,-25889,157209,-14%,"-$152,729",2.0,4.0,25.0,72.0,CY
+761,D,2009-03-16 20:53:03,2009-03-12,CY,Seams Christopher A,EVP,F - Tax,$5.94,-83849,211036,-28%,"-$498,063",2.0,4.0,25.0,72.0,CY
+762,D,2009-03-16 20:53:03,2009-03-12,CY,Seams Christopher A,EVP,M - OptEx,$0.00,216707,211036,-3821%,+$0,2.0,4.0,25.0,72.0,CY
+763,D,2009-03-16 20:52:11,2009-03-12,CY,Ramanathan Dinesh,EVP,F - Tax,$5.94,-62318,105249,-37%,"-$370,169",2.0,4.0,25.0,72.0,CY
+764,D,2009-03-16 20:52:11,2009-03-12,CY,Ramanathan Dinesh,EVP,M - OptEx,$0.00,169302,105249,-264%,+$0,2.0,4.0,25.0,72.0,CY
+765,D,2009-03-16 20:52:11,2009-03-13,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$6.07,-25000,105249,-19%,"-$151,712",2.0,4.0,25.0,72.0,CY
+766,,2009-03-16 20:51:14,2009-03-12,CY,Rodgers Thurman J,"Pres, CEO",D - Sale to issuer,$0.00,-109351,6924308,-2%,-$0,2.0,4.0,25.0,72.0,CY
+767,D,2009-03-16 20:48:18,2009-03-12,CY,Buss Brad W,CFO,F - Tax,$5.94,-147877,304652,-33%,"-$878,389",2.0,4.0,25.0,72.0,CY
+768,D,2009-03-16 20:48:18,2009-03-12,CY,Buss Brad W,CFO,M - OptEx,$0.00,356584,304652,-687%,+$0,2.0,4.0,25.0,72.0,CY
+769,D,2009-03-05 13:10:59,2009-03-03,CY,Ramanathan Dinesh,EVP,M - OptEx,$3.54,25710,23265,-1052%,"+$90,977",-4.0,3.0,26.0,71.0,CY
+770,D,2009-03-05 13:10:59,2009-03-03,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$5.39,-25710,23265,-52%,"-$138,543",-4.0,3.0,26.0,71.0,CY
+771,D,2009-02-12 19:46:40,2009-02-10,CY,Chatila Ahmad R,EVP,M - OptEx,$3.47,168972,64632,-162%,"+$585,863",2.0,-8.0,16.0,109.0,CY
+772,D,2009-02-12 19:46:40,2009-02-10,CY,Chatila Ahmad R,EVP,S - Sale+OE,$5.16,-168972,64632,-72%,"-$871,152",2.0,-8.0,16.0,109.0,CY
+773,,2009-01-29 20:09:56,2009-01-29,CY,Ramanathan Dinesh,EVP,S - Sale,$4.79,-4172,23265,-15%,"-$19,984",-5.0,-3.0,16.0,127.0,CY
+774,AM,2009-01-14 14:19:04,2008-11-19,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$3.05,38500,6979479,+1%,"+$117,240",-1.0,-4.0,10.0,101.0,CY
+775,,2008-12-03 17:43:02,2008-12-02,CY,Ramanathan Dinesh,EVP,S - Sale,$3.53,-1167,27247,-4%,"-$4,120",-2.0,13.0,19.0,131.0,CY
+776,,2008-12-01 21:53:20,2008-11-21,CY,Rodgers Thurman J,"Pres, CEO",A - Grant,$0.00,33670,7033659,0%,+$0,10.0,18.0,16.0,140.0,CY
+777,M,2008-11-21 17:28:59,2008-11-19,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$3.09,1102000,20918437,+6%,"+$3,407,885",9.0,28.0,43.0,189.0,CY
+778,A,2008-11-03 20:42:21,2008-10-03,CY,Taffe Norman P,EVP,F - Tax,$4.69,-3519,66701,-5%,"-$16,504",4.0,-11.0,-26.0,61.0,CY
+779,A,2008-11-03 20:40:54,2008-10-03,CY,Ramanathan Dinesh,EVP,F - Tax,$4.69,-3519,28414,-11%,"-$16,504",4.0,-11.0,-26.0,61.0,CY
+780,A,2008-11-03 20:39:32,2008-10-03,CY,Chatila Ahmad R,EVP,F - Tax,$4.69,-2816,64486,-4%,"-$13,207",4.0,-11.0,-26.0,61.0,CY
+781,A,2008-11-03 20:38:34,2008-10-03,CY,Buss Brad W,CFO,F - Tax,$4.69,-4022,95945,-4%,"-$18,863",4.0,-11.0,-26.0,61.0,CY
+782,A,2008-11-03 20:37:34,2008-10-03,CY,Seams Christopher A,EVP,F - Tax,$4.69,-3393,78178,-4%,"-$15,913",4.0,-11.0,-26.0,61.0,CY
+783,,2008-10-07 21:34:14,2008-10-03,CY,Taffe Norman P,EVP,F - Tax,$4.69,-3519,74168,-5%,"-$16,504",-5.0,-5.0,21.0,56.0,CY
+784,,2008-10-07 21:33:23,2008-10-03,CY,Buss Brad W,CFO,F - Tax,$4.69,-4022,104479,-4%,"-$18,863",-5.0,-5.0,21.0,56.0,CY
+785,,2008-10-07 21:32:36,2008-10-03,CY,Ramanathan Dinesh,EVP,F - Tax,$4.69,-3519,35880,-9%,"-$16,504",-5.0,-5.0,21.0,56.0,CY
+786,,2008-10-07 21:31:38,2008-10-03,CY,Seams Christopher A,EVP,F - Tax,$4.69,-3393,85377,-4%,"-$15,913",-5.0,-5.0,21.0,56.0,CY
+787,,2008-10-07 21:30:27,2008-10-03,CY,Chatila Ahmad R,EVP,F - Tax,$4.69,-2816,70460,-4%,"-$13,207",-5.0,-5.0,21.0,56.0,CY
+788,D,2008-10-02 21:42:54,2008-09-30,CY,Rodgers Thurman J,"Pres, CEO",A - Grant,$0.00,2636940,10273553,+35%,+$0,-1.0,-13.0,8.0,48.0,CY
+789,D,2008-10-02 21:42:54,2008-08-27,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-340,10273553,0%,-$0,-1.0,-13.0,8.0,48.0,CY
+790,DM,2008-10-02 21:42:54,2008-08-13,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$0.01,2392077,10273553,+30%,"+$35,431",-1.0,-13.0,8.0,48.0,CY
+791,D,2008-09-16 18:08:13,2008-09-12,CY,Carney Lloyd,Dir,M - OptEx,$14.32,21247,25000,+566%,"+$304,333",-3.0,0.0,-24.0,8.0,CY
+792,D,2008-09-16 18:08:13,2008-09-12,CY,Carney Lloyd,Dir,S - Sale+OE,$27.81,-21247,25000,-46%,"-$590,773",-3.0,0.0,-24.0,8.0,CY
+793,D,2008-09-16 18:06:56,2008-09-12,CY,Albrecht W Steve,Dir,G - Gift,$0.00,-2600,28300,-8%,-$0,-3.0,0.0,-24.0,8.0,CY
+794,D,2008-09-16 18:06:56,2008-09-12,CY,Albrecht W Steve,Dir,M - OptEx,$5.80,16000,28300,+130%,"+$92,800",-3.0,0.0,-24.0,8.0,CY
+795,D,2008-09-16 18:06:56,2008-09-12,CY,Albrecht W Steve,Dir,S - Sale+OE,$27.87,-16000,28300,-36%,"-$445,920",-3.0,0.0,-24.0,8.0,CY
+796,D,2008-09-12 17:36:26,2008-09-10,CY,Long James R,Dir,M - OptEx,$11.26,48633,44300,-1122%,"+$547,538",-11.0,-10.0,-41.0,1.0,CY
+797,D,2008-09-12 17:36:26,2008-09-10,CY,Long James R,Dir,S - Sale+OE,$27.44,-48633,44300,-52%,"-$1,334,562",-11.0,-10.0,-41.0,1.0,CY
+798,D,2008-09-02 16:57:09,2008-08-29,CY,Van De Ven Evert,Dir,M - OptEx,$13.93,20000,25000,+400%,"+$278,600",-6.0,-7.0,-21.0,-19.0,CY
+799,D,2008-09-02 16:57:09,2008-08-29,CY,Van De Ven Evert,Dir,S - Sale+OE,$32.31,-20000,25000,-44%,"-$646,172",-6.0,-7.0,-21.0,-19.0,CY
+800,D,2008-08-19 16:19:42,2008-08-15,CY,Van De Ven Evert,Dir,M - OptEx,$22.03,10000,25000,+67%,"+$220,250",2.0,4.0,-17.0,-21.0,CY
+801,D,2008-08-19 16:19:42,2008-08-15,CY,Van De Ven Evert,Dir,S - Sale+OE,$30.69,-11000,25000,-31%,"-$337,566",2.0,4.0,-17.0,-21.0,CY
+802,D,2008-08-08 12:49:39,2008-08-06,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$8.38,200000,869312,+30%,"+$1,675,000",-2.0,1.0,8.0,-10.0,CY
+803,,2008-06-02 16:09:02,2008-04-02,CY,Rodgers Thurman J,"Pres, CEO",W - Inherited,$0.00,7653,668302,-1%,$0,0.0,1.0,-11.0,-41.0,CY
+804,,2008-05-13 18:05:47,2008-05-09,CY,Carney Lloyd,Dir,A - Grant,$0.00,10000,25000,+67%,+$0,3.0,5.0,-11.0,-27.0,CY
+805,,2008-05-13 17:34:15,2008-05-09,CY,Van De Ven Evert,Dir,A - Grant,$0.00,10000,25000,+67%,+$0,3.0,5.0,-11.0,-27.0,CY
+806,,2008-05-13 17:33:23,2008-05-09,CY,McCranie J Daniel,Dir,A - Grant,$0.00,10000,21239,+89%,+$0,3.0,5.0,-11.0,-27.0,CY
+807,,2008-05-13 17:32:36,2008-05-09,CY,Long James R,Dir,A - Grant,$0.00,10000,44300,+29%,+$0,3.0,5.0,-11.0,-27.0,CY
+808,,2008-05-13 17:30:48,2008-05-09,CY,Benhamou Eric,Dir,A - Grant,$0.00,10000,20000,+100%,+$0,3.0,5.0,-11.0,-27.0,CY
+809,,2008-05-13 17:30:01,2008-05-09,CY,Albrecht W Steve,Dir,A - Grant,$0.00,10000,30900,+48%,+$0,3.0,5.0,-11.0,-27.0,CY
+810,D,2008-05-02 16:42:07,2008-05-01,CY,McCranie J Daniel,Dir,M - OptEx,$14.38,21384,11239,-211%,"+$307,496",-2.0,0.0,1.0,-21.0,CY
+811,D,2008-05-02 16:42:07,2008-05-01,CY,McCranie J Daniel,Dir,S - Sale+OE,$27.26,-21384,11239,-66%,"-$582,975",-2.0,0.0,1.0,-21.0,CY
+812,D,2008-04-25 16:25:19,2008-04-23,CY,Taffe Norman P,EVP,M - OptEx,$13.22,4520,45912,+11%,"+$59,749",0.0,-3.0,0.0,-28.0,CY
+813,D,2008-04-25 16:25:19,2008-04-23,CY,Taffe Norman P,EVP,S - Sale+OE,$28.75,-9520,45912,-17%,"-$273,668",0.0,-3.0,0.0,-28.0,CY
+814,,2008-04-22 16:41:51,2008-04-18,CY,Chatila Ahmad R,EVP,S - Sale,$28.68,-10000,47678,-17%,"-$286,754",1.0,0.0,4.0,-29.0,CY
+815,,2008-02-28 11:16:52,2008-02-27,CY,Ramanathan Dinesh,EVP,S - Sale,$23.00,-14555,7658,-66%,"-$334,765",-2.0,0.0,2.0,37.0,CY
+816,D,2008-02-26 19:46:42,2008-02-22,CY,Taffe Norman P,EVP,F - Tax,$22.42,-11936,50912,-19%,"-$267,605",-1.0,-3.0,-1.0,39.0,CY
+817,D,2008-02-26 19:46:42,2008-02-22,CY,Taffe Norman P,EVP,M - OptEx,$0.00,27500,50912,+117%,+$0,-1.0,-3.0,-1.0,39.0,CY
+818,D,2008-02-26 19:46:09,2008-02-22,CY,Seams Christopher A,EVP,F - Tax,$22.42,-14618,58095,-20%,"-$327,736",-1.0,-3.0,-1.0,39.0,CY
+819,D,2008-02-26 19:46:09,2008-02-22,CY,Seams Christopher A,EVP,M - OptEx,$0.00,32000,58095,+123%,+$0,-1.0,-3.0,-1.0,39.0,CY
+820,D,2008-02-26 19:45:27,2008-02-22,CY,Ramanathan Dinesh,EVP,F - Tax,$22.42,-10445,22213,-32%,"-$234,177",-1.0,-3.0,-1.0,39.0,CY
+821,D,2008-02-26 19:45:27,2008-02-22,CY,Ramanathan Dinesh,EVP,M - OptEx,$0.00,25000,22213,-897%,+$0,-1.0,-3.0,-1.0,39.0,CY
+822,D,2008-02-26 19:44:36,2008-02-22,CY,Chatila Ahmad R,EVP,F - Tax,$22.42,-14618,57678,-20%,"-$327,736",-1.0,-3.0,-1.0,39.0,CY
+823,D,2008-02-26 19:44:36,2008-02-22,CY,Chatila Ahmad R,EVP,M - OptEx,$0.00,32000,57678,+125%,+$0,-1.0,-3.0,-1.0,39.0,CY
+824,D,2008-02-25 21:31:14,2008-02-25,CY,Rodgers Thurman J,"Pres, CEO",A - Grant,$22.71,40000,660649,+6%,"+$908,400",0.0,-4.0,-1.0,37.0,CY
+825,,2008-02-12 17:27:00,2008-02-11,CY,Ramanathan Dinesh,EVP,S - Sale,$21.79,-23849,7658,-76%,"-$519,584",7.0,6.0,-8.0,20.0,CY
+826,D,2008-02-08 21:04:27,2008-02-07,CY,Buss Brad W,CFO,A - Grant,$0.00,40000,72267,+124%,+$0,7.0,14.0,-9.0,28.0,CY
+827,D,2008-02-08 21:04:27,2008-02-07,CY,Buss Brad W,CFO,F - Tax,$20.73,-41145,72267,-36%,"-$852,936",7.0,14.0,-9.0,28.0,CY
+828,D,2008-02-08 21:04:27,2008-02-07,CY,Buss Brad W,CFO,M - OptEx,$0.00,60000,72267,+489%,+$0,7.0,14.0,-9.0,28.0,CY
+829,D,2008-02-08 20:59:23,2008-02-07,CY,Chatila Ahmad R,EVP,A - Grant,$0.00,32000,40296,+386%,+$0,7.0,14.0,-9.0,28.0,CY
+830,D,2008-02-08 20:59:23,2008-02-07,CY,Chatila Ahmad R,EVP,F - Tax,$20.73,-17396,40296,-30%,"-$360,619",7.0,14.0,-9.0,28.0,CY
+831,D,2008-02-08 20:59:23,2008-02-07,CY,Chatila Ahmad R,EVP,M - OptEx,$0.00,16000,40296,+66%,+$0,7.0,14.0,-9.0,28.0,CY
+832,D,2008-02-08 20:57:56,2008-02-07,CY,Seams Christopher A,EVP,A - Grant,$0.00,32000,66788,+92%,+$0,7.0,14.0,-9.0,28.0,CY
+833,D,2008-02-08 20:57:56,2008-02-07,CY,Seams Christopher A,EVP,F - Tax,$20.73,-17362,66788,-21%,"-$359,914",7.0,14.0,-9.0,28.0,CY
+834,D,2008-02-08 20:57:56,2008-02-07,CY,Seams Christopher A,EVP,M - OptEx,$0.00,16000,66788,+32%,+$0,7.0,14.0,-9.0,28.0,CY
+835,D,2008-02-08 20:57:06,2008-02-07,CY,Ramanathan Dinesh,EVP,A - Grant,$0.00,25000,31507,+384%,+$0,7.0,14.0,-9.0,28.0,CY
+836,D,2008-02-08 20:57:06,2008-02-07,CY,Ramanathan Dinesh,EVP,F - Tax,$20.73,-13651,31507,-30%,"-$282,985",7.0,14.0,-9.0,28.0,CY
+837,D,2008-02-08 20:57:06,2008-02-07,CY,Ramanathan Dinesh,EVP,M - OptEx,$0.00,12500,31507,+66%,+$0,7.0,14.0,-9.0,28.0,CY
+838,D,2008-02-08 20:45:22,2008-02-07,CY,Taffe Norman P,EVP,A - Grant,$0.00,27500,35348,+350%,+$0,7.0,14.0,-9.0,28.0,CY
+839,D,2008-02-08 20:45:22,2008-02-07,CY,Taffe Norman P,EVP,M - OptEx,$0.00,13750,35348,+64%,+$0,7.0,14.0,-9.0,28.0,CY
+840,D,2008-02-08 20:45:22,2008-02-07,CY,Taffe Norman P,EVP,S - Sale+OE,$20.25,-15361,35348,-30%,"-$311,130",7.0,14.0,-9.0,28.0,CY
+841,D,2008-02-07 21:53:00,2008-02-07,CY,Rodgers Thurman J,"Pres, CEO",A - Grant,$0.00,80000,620649,+15%,+$0,1.0,15.0,-3.0,29.0,CY
+842,D,2008-02-07 21:53:00,2008-02-07,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$0.00,80000,620649,+15%,+$0,1.0,15.0,-3.0,29.0,CY
+843,,2008-01-03 11:14:47,2007-12-31,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-576,460649,0%,-$0,3.0,-13.0,-36.0,-35.0,CY
+844,,2007-12-18 12:09:05,2007-12-14,CY,Rodgers Thurman J,"Pres, CEO",G - Gift,$0.00,-8800,461225,-2%,-$0,3.0,13.0,-29.0,-18.0,CY
+845,D,2007-12-11 20:16:31,2007-12-10,CY,Carney Lloyd,Dir,M - OptEx,$14.40,37448,15000,-167%,"+$539,302",4.0,-1.0,-10.0,-23.0,CY
+846,DM,2007-12-11 20:16:31,2007-12-10,CY,Carney Lloyd,Dir,S - Sale+OE,$36.58,-32448,15000,-68%,"-$1,187,095",4.0,-1.0,-10.0,-23.0,CY
+847,D,2007-12-06 20:45:37,2007-12-05,CY,Taffe Norman P,EVP,M - OptEx,$14.22,16218,9459,-240%,"+$230,606",4.0,1.0,-8.0,-19.0,CY
+848,D,2007-12-06 20:45:37,2007-12-05,CY,Taffe Norman P,EVP,S - Sale+OE,$35.67,-16218,9459,-63%,"-$578,420",4.0,1.0,-8.0,-19.0,CY
+849,D,2007-10-30 12:58:56,2007-10-29,CY,Albrecht W Steve,Dir,M - OptEx,$5.80,48000,20900,-177%,"+$278,400",-2.0,0.0,-9.0,-22.0,CY
+850,D,2007-10-30 12:58:56,2007-10-29,CY,Albrecht W Steve,Dir,S - Sale+OE,$36.11,-48000,20900,-70%,"-$1,733,501",-2.0,0.0,-9.0,-22.0,CY
+851,D,2007-10-29 14:24:37,2007-10-26,CY,Van De Ven Evert,Dir,M - OptEx,$13.21,14000,15000,>999%,"+$184,940",1.0,0.0,-16.0,-21.0,CY
+852,D,2007-10-29 14:24:37,2007-10-26,CY,Van De Ven Evert,Dir,S - Sale+OE,$35.45,-14000,15000,-48%,"-$496,321",1.0,0.0,-16.0,-21.0,CY
+853,D,2007-10-25 14:20:28,2007-10-24,CY,McCranie J Daniel,Dir,M - OptEx,$14.44,39254,11239,-140%,"+$566,885",-5.0,2.0,-17.0,-21.0,CY
+854,D,2007-10-25 14:20:28,2007-10-24,CY,McCranie J Daniel,Dir,S - Sale+OE,$35.12,-39254,11239,-78%,"-$1,378,742",-5.0,2.0,-17.0,-21.0,CY
+855,D,2007-10-24 17:10:46,2007-10-23,CY,Long James R,Dir,M - OptEx,$22.78,100000,34300,-152%,"+$2,277,800",-5.0,-2.0,-18.0,-21.0,CY
+856,D,2007-10-24 17:10:46,2007-10-23,CY,Long James R,Dir,S - Sale+OE,$34.59,-80000,34300,-70%,"-$2,767,544",-5.0,-2.0,-18.0,-21.0,CY
+857,DM,2007-10-24 16:08:37,2007-10-22,CY,Rodgers Thurman J,"Pres, CEO",S - Sale+OE,$33.58,-1527001,470025,-76%,"-$51,271,875",-5.0,-2.0,-18.0,-21.0,CY
+858,D,2007-10-24 14:29:27,2007-10-23,CY,Benhamou Eric,Dir,M - OptEx,$22.35,24000,10000,-171%,"+$536,400",2.0,0.0,-17.0,-20.0,CY
+859,D,2007-10-24 14:29:27,2007-10-23,CY,Benhamou Eric,Dir,S - Sale+OE,$34.76,-24000,10000,-71%,"-$834,150",2.0,0.0,-17.0,-20.0,CY
+860,D,2007-10-23 17:46:32,2007-10-22,CY,Buss Brad W,CFO,M - OptEx,$15.23,60000,13412,-129%,"+$913,800",2.0,2.0,-14.0,-20.0,CY
+861,D,2007-10-23 17:46:32,2007-10-22,CY,Buss Brad W,CFO,S - Sale+OE,$32.29,-60000,13412,-82%,"-$1,937,490",2.0,2.0,-14.0,-20.0,CY
+862,D,2007-10-23 15:14:32,2007-10-22,CY,Van De Ven Evert,Dir,M - OptEx,$11.69,14500,15000,>999%,"+$169,460",5.0,7.0,-9.0,-15.0,CY
+863,D,2007-10-23 15:14:32,2007-10-22,CY,Van De Ven Evert,Dir,S - Sale+OE,$32.86,-14500,15000,-49%,"-$476,437",5.0,7.0,-9.0,-15.0,CY
+864,D,2007-10-23 15:12:56,2007-10-19,CY,Taffe Norman P,EVP,M - OptEx,$11.45,12903,9459,-375%,"+$147,723",5.0,7.0,-9.0,-15.0,CY
+865,D,2007-10-23 15:12:56,2007-10-19,CY,Taffe Norman P,EVP,S - Sale+OE,$32.45,-14101,9459,-60%,"-$457,615",5.0,7.0,-9.0,-15.0,CY
+866,D,2007-10-23 13:22:41,2007-10-19,CY,Ramanathan Dinesh,EVP,M - OptEx,$14.79,39424,7467,-123%,"+$582,983",5.0,7.0,-9.0,-15.0,CY
+867,D,2007-10-23 13:22:41,2007-10-19,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$32.65,-42150,7467,-85%,"-$1,376,381",5.0,7.0,-9.0,-15.0,CY
+868,D,2007-10-23 13:16:40,2007-10-19,CY,Chatila Ahmad R,EVP,M - OptEx,$15.21,159867,9569,-106%,"+$2,431,634",5.0,7.0,-9.0,-15.0,CY
+869,D,2007-10-23 13:16:40,2007-10-19,CY,Chatila Ahmad R,EVP,S - Sale+OE,$32.51,-171811,9569,-95%,"-$5,586,194",5.0,7.0,-9.0,-15.0,CY
+870,,2007-10-03 19:21:00,2007-10-01,CY,Taffe Norman P,EVP,F - Tax,$30.14,-668,10657,-6%,"-$20,134",0.0,4.0,22.0,-15.0,CY
+871,,2007-10-03 18:58:09,2007-10-01,CY,Seams Christopher A,EVP,F - Tax,$30.14,-644,10075,-6%,"-$19,410",0.0,4.0,22.0,-15.0,CY
+872,,2007-10-03 18:50:37,2007-10-01,CY,Buss Brad W,CFO,F - Tax,$30.14,-763,13412,-5%,"-$22,997",0.0,4.0,22.0,-15.0,CY
+873,,2007-10-03 18:44:25,2007-10-01,CY,Chatila Ahmad R,EVP,F - Tax,$30.14,-534,21513,-2%,"-$16,095",0.0,4.0,22.0,-15.0,CY
+874,,2007-10-03 18:38:24,2007-10-01,CY,Ramanathan Dinesh,EVP,F - Tax,$30.14,-668,10193,-6%,"-$20,134",0.0,4.0,22.0,-15.0,CY
+875,D,2007-08-07 12:18:50,2007-08-03,CY,Taffe Norman P,"Exec.VP, CCD Division",M - OptEx,$9.63,3000,11325,+36%,"+$28,875",4.0,8.0,6.0,-14.0,CY
+876,D,2007-08-07 12:18:50,2007-08-03,CY,Taffe Norman P,"Exec.VP, CCD Division",S - Sale+OE,$25.26,-4789,11325,-30%,"-$120,952",4.0,8.0,6.0,-14.0,CY
+877,,2007-07-03 20:58:50,2007-06-29,CY,Rodgers Thurman J,"Pres, CEO",F - Tax,$23.29,-18225,1997026,-1%,"-$424,460",0.0,3.0,4.0,49.0,CY
+878,,2007-05-31 18:10:27,2007-05-29,CY,Seams Christopher A,"Exec.VP, Sales, Marketing",S - Sale,$21.08,-54500,0,-100%,"-$1,148,762",1.0,0.0,9.0,38.0,CY
+879,D,2007-05-24 12:35:10,2007-05-22,CY,Seams Christopher A,"Exec.VP, Sales, Marketing",M - OptEx,$7.01,225445,54439,-132%,"+$1,579,277",-4.0,-1.0,9.0,41.0,CY
+880,D,2007-05-24 12:35:10,2007-05-22,CY,Seams Christopher A,"Exec.VP, Sales, Marketing",S - Sale+OE,$20.77,-240966,54439,-82%,"-$5,004,187",-4.0,-1.0,9.0,41.0,CY
+881,,2007-05-16 18:45:31,2007-05-11,CY,Carney Lloyd,Dir,A - Grant,$0.00,10000,10000,New,+$0,-2.0,2.0,3.0,47.0,CY
+882,,2007-05-16 18:45:13,2007-05-11,CY,Van De Ven Evert,Dir,A - Grant,$0.00,10000,15000,+200%,+$0,-2.0,2.0,3.0,47.0,CY
+883,,2007-05-16 12:29:15,2007-05-11,CY,Long James R,Dir,A - Grant,$0.00,10000,14300,+233%,+$0,1.0,3.0,4.0,48.0,CY
+884,,2007-05-16 12:25:48,2007-05-11,CY,Albrecht W Steve,Dir,A - Grant,$0.00,10000,20900,+92%,+$0,1.0,3.0,4.0,48.0,CY
+885,,2007-05-16 12:24:04,2007-05-11,CY,McCranie J Daniel,Dir,A - Grant,$0.00,10000,11239,+807%,+$0,1.0,3.0,4.0,48.0,CY
+886,,2007-05-15 20:27:32,2007-05-11,CY,Benhamou Eric,Dir,A - Grant,$0.00,10000,10000,New,+$0,1.0,2.0,1.0,72.0,CY
+887,D,2007-05-07 16:24:57,2007-05-03,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$11.56,200000,1613531,+14%,"+$2,312,500",0.0,0.0,2.0,66.0,CY
+888,D,2007-05-07 16:24:57,2007-05-03,CY,Rodgers Thurman J,"Pres, CEO",S - Sale+OE,$21.63,-200000,1613531,-11%,"-$4,326,800",0.0,0.0,2.0,66.0,CY
+889,D,2007-05-01 15:08:38,2007-04-27,CY,Taffe Norman P,EVP,M - OptEx,$7.73,13591,11398,-620%,"+$105,011",-4.0,-6.0,-6.0,56.0,CY
+890,D,2007-05-01 15:08:38,2007-04-27,CY,Taffe Norman P,EVP,S - Sale+OE,$22.81,-15722,11398,-58%,"-$358,603",-4.0,-6.0,-6.0,56.0,CY
+891,D,2007-05-01 14:59:19,2007-04-27,CY,Ramanathan Dinesh,EVP,M - OptEx,$14.56,21000,9333,-180%,"+$305,800",-4.0,-6.0,-6.0,56.0,CY
+892,D,2007-05-01 14:59:19,2007-04-27,CY,Ramanathan Dinesh,EVP,S - Sale+OE,$22.77,-21000,9333,-69%,"-$478,128",-4.0,-6.0,-6.0,56.0,CY
+893,,2007-03-27 18:19:19,2006-10-27,CY,Albrecht W Steve,Dir,G - Gift,$16.43,5100,10900,+88%,"+$83,793",1.0,-1.0,18.0,50.0,CY
+894,,2007-02-09 17:49:09,2007-02-08,CY,Ramanathan Dinesh,"EVP, DCD",S - Sale,$19.05,-656,9333,-7%,"-$12,497",-1.0,1.0,5.0,50.0,CY
+895,AD,2006-11-07 13:54:07,2006-10-27,CY,Chatila Ahmad R,"Exec.VP, MID, Admin.",A - Grant,$0.00,7467,19901,+60%,+$0,1.0,2.0,6.0,28.0,CY
+896,D,2006-10-31 18:59:49,2006-10-27,CY,Seams Christopher A,"Exec.VP, Sales, Marketing",A - Grant,$0.00,9000,78960,+13%,+$0,-3.0,-2.0,2.0,29.0,CY
+897,D,2006-10-31 18:50:55,2006-10-27,CY,Taffe Norman P,"Exec.VP, CCD Div., Admin.",A - Grant,$0.00,9333,13253,+238%,+$0,-3.0,-2.0,2.0,29.0,CY
+898,D,2006-10-31 18:41:09,2006-10-27,CY,Chatila Ahmad R,"Exec.VP, MID, Admin.",A - Grant,$0.00,9333,21767,+75%,+$0,-3.0,-2.0,2.0,29.0,CY
+899,D,2006-10-31 18:32:08,2006-10-27,CY,Buss Brad W,"Exec. VP, CFO",A - Grant,$0.00,10667,12421,+608%,+$0,-3.0,-2.0,2.0,29.0,CY
+900,D,2006-10-31 18:20:56,2006-10-27,CY,Ramanathan Dinesh,"Exec.VP, DCD, Administration",A - Grant,$0.00,9333,9333,New,+$0,-3.0,-2.0,2.0,29.0,CY
+901,D,2006-10-31 17:58:13,2006-10-27,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$10.75,300000,1815912,+20%,"+$3,225,000",-3.0,-2.0,2.0,29.0,CY
+902,D,2006-10-26 13:33:46,2006-10-24,CY,Seams Christopher A,"Exec. VP,Sales, Marketing",M - OptEx,$9.75,6493,69960,+10%,"+$63,307",3.0,0.0,7.0,40.0,CY
+903,D,2006-10-26 13:33:46,2006-10-24,CY,Seams Christopher A,"Exec. VP,Sales, Marketing",S - Sale+OE,$16.01,-6493,69960,-8%,"-$103,967",3.0,0.0,7.0,40.0,CY
+904,,2006-10-26 13:10:16,2006-10-24,CY,Ramanathan Dinesh,"Exec.VP, DCD, Administration",S - Sale,$16.19,-1318,0,-100%,"-$21,338",3.0,0.0,7.0,40.0,CY
+905,,2006-07-27 19:24:15,2006-07-24,CY,Taffe Norman P,"Exec VP, CCD Div Admin",S - Sale,$14.89,-1910,3920,-33%,"-$28,440",3.0,2.0,3.0,24.0,CY
+906,,2006-07-07 17:07:14,2006-06-30,CY,Chatila Ahmad R,"Exec. VP, MID Admin.",P - Purchase,$9.97,1449,12434,+13%,"+$14,447",-2.0,-2.0,8.0,20.0,CY
+907,,2006-07-06 19:14:55,2006-06-30,CY,Ramanathan Dinesh,"Exec. VP, DCD",P - Purchase,$9.97,1318,1318,New,"+$13,141",-3.0,-4.0,7.0,18.0,CY
+908,D,2006-07-05 17:52:48,2006-06-30,CY,Rodgers Thurman J,"Pres, CEO",A - Grant,$0.00,100000,1515912,+7%,+$0,1.0,-1.0,5.0,17.0,CY
+909,D,2006-07-05 17:52:48,2006-06-30,CY,Rodgers Thurman J,"Pres, CEO",P - Purchase,$9.97,2130,1515912,0%,"+$21,236",1.0,-1.0,5.0,17.0,CY
+910,,2006-07-05 17:14:25,2006-06-30,CY,Taffe Norman P,"Exec.VP, CCD Div Admin",P - Purchase,$9.97,1789,5830,+44%,"+$17,837",1.0,-1.0,5.0,17.0,CY
+911,,2006-07-05 17:09:33,2006-06-30,CY,Seams Christopher A,"Exec.VP, Sales, Marketing",P - Purchase,$9.97,2131,69960,+3%,"+$21,247",1.0,-1.0,5.0,17.0,CY
+912,,2006-07-05 17:03:07,2006-06-30,CY,Buss Brad W,CFO,P - Purchase,$12.11,1754,1754,New,"+$21,245",1.0,-1.0,5.0,17.0,CY
+913,,2006-01-31 17:50:11,2006-01-27,CY,Ramanathan Dinesh,"Exec VP, DCD",S - Sale,$17.05,-863,0,-100%,"-$14,714",4.0,6.0,9.0,-10.0,CY
+914,D,2005-09-15 15:01:16,2005-09-14,CY,Seams Christopher A,"Exec. VP, Sales, Mktg",M - OptEx,$9.75,527,67510,+1%,"+$5,138",-3.0,-10.0,-16.0,11.0,CY
+915,D,2005-09-15 15:01:16,2005-09-14,CY,Seams Christopher A,"Exec. VP, Sales, Mktg",S - Sale+OE,$15.89,-527,67510,-1%,"-$8,376",-3.0,-10.0,-16.0,11.0,CY
+916,D,2005-09-08 11:56:25,2005-09-06,CY,Phelan Cathal G,VP Personal Communications,M - OptEx,$7.29,18416,25945,+245%,"+$134,331",-1.0,-4.0,-16.0,5.0,CY
+917,D,2005-09-08 11:56:25,2005-09-06,CY,Phelan Cathal G,VP Personal Communications,S - Sale+OE,$16.02,-18416,25945,-42%,"-$294,993",-1.0,-4.0,-16.0,5.0,CY
+918,D,2005-09-01 13:06:40,2005-08-30,CY,Phelan Cathal G,"VP, Personal Communications",M - OptEx,$10.06,9500,25945,+58%,"+$95,594",0.0,5.0,-4.0,16.0,CY
+919,D,2005-09-01 13:06:40,2005-08-30,CY,Phelan Cathal G,"VP, Personal Communications",S - Sale+OE,$14.91,-9500,25945,-27%,"-$141,619",0.0,5.0,-4.0,16.0,CY
+920,D,2005-08-24 11:47:08,2005-08-22,CY,Phelan Cathal G,"VP, Personal Communications",M - OptEx,$6.44,59500,25945,-177%,"+$383,180",0.0,0.0,-3.0,10.0,CY
+921,D,2005-08-24 11:47:08,2005-08-22,CY,Phelan Cathal G,"VP, Personal Communications",S - Sale+OE,$15.11,-59500,25945,-70%,"-$899,127",0.0,0.0,-3.0,10.0,CY
+922,D,2005-08-11 11:39:59,2005-08-10,CY,Alvarez Antonio R,"VP, Memory Products Div.",M - OptEx,$10.77,91430,0,-100%,"+$984,605",-1.0,-2.0,6.0,13.0,CY
+923,D,2005-08-11 11:39:59,2005-08-10,CY,Alvarez Antonio R,"VP, Memory Products Div.",S - Sale+OE,$15.38,-91430,0,-100%,"-$1,405,737",-1.0,-2.0,6.0,13.0,CY
+924,D,2005-03-03 11:49:12,2005-03-02,CY,Shugart Alan F,Dir,M - OptEx,$10.02,8000,0,-100%,"+$80,160",0.0,-2.0,-14.0,4.0,CY
+925,D,2005-03-03 11:49:12,2005-03-02,CY,Shugart Alan F,Dir,S - Sale+OE,$14.59,-8000,0,-100%,"-$116,720",0.0,-2.0,-14.0,4.0,CY
+926,,2005-02-01 19:15:04,2005-01-31,CY,Schmitt Ralph H,"VP Marketing, Sales",S - Sale,$11.69,-2241,47451,-5%,"-$26,197",2.0,11.0,27.0,27.0,CY
+927,,2004-11-01 17:18:12,2004-10-29,CY,Schmitt Ralph H,"VP Marketing, Sales",S - Sale,$10.42,-3000,48964,-6%,"-$31,260",1.0,5.0,-6.0,14.0,CY
+928,D,2004-09-08 20:39:26,2004-08-17,CY,Norris Christopher S,"VP, Datacom",P - Purchase,$20.39,6940,17700,+64%,"+$141,486",9.0,15.0,8.0,62.0,CY
+929,D,2004-05-19 20:07:49,2004-05-18,CY,Lewis John C,Dir,X - OptEx,$9.94,20000,70000,-22%,"$198,750",-1.0,10.0,-3.0,-26.0,CY
+930,D,2004-04-23 15:26:14,2004-04-21,CY,Rodgers Thurman J,"Pres, CEO",M - OptEx,$8.44,250000,1170120,+27%,"+$2,109,375",4.0,-9.0,-10.0,-38.0,CY
+931,,2004-03-03 17:29:41,2004-03-02,CY,Schmitt Ralph H,"VP, Marketing, Sales",S - Sale,$22.16,-2500,48321,-5%,"-$55,400",2.0,-3.0,-7.0,-55.0,CY
+932,D,2004-02-19 13:53:08,2004-02-18,CY,Albrecht W Steve,Dir,M - OptEx,$5.80,16000,16000,New,"+$92,800",-1.0,-3.0,-7.0,-53.0,CY
+933,D,2004-01-28 18:34:19,2004-01-27,CY,Shugart Alan F,Dir,M - OptEx,$7.06,64000,0,-100%,"+$452,000",-4.0,-3.0,1.0,-50.0,CY
+934,D,2004-01-28 18:34:19,2004-01-27,CY,Shugart Alan F,Dir,S - Sale+OE,$21.99,-64000,0,-100%,"-$1,407,290",-4.0,-3.0,1.0,-50.0,CY
+935,A,2004-01-27 18:37:13,2004-01-16,CY,Benhamou Eric,Dir,M - OptEx,$19.50,16000,16000,New,"+$312,000",-2.0,-5.0,-2.0,-49.0,CY
+936,D,2004-01-20 19:18:55,2004-01-16,CY,Benhamou Eric,Dir,M - OptEx,$39.50,16000,0,-100%,"+$632,000",-4.0,-4.0,-5.0,-49.0,CY
+937,D,2004-01-20 19:18:55,2004-01-16,CY,Benhamou Eric,Dir,S - Sale+OE,$24.00,-16000,0,-100%,"-$384,000",-4.0,-4.0,-5.0,-49.0,CY
+938,,2003-12-31 16:08:33,2003-12-31,CY,Hernandez Emmanuel T,"VP, Finance, Adm, CFO",G - Gift,$0.00,-1900,22532,-8%,-$0,0.0,4.0,-1.0,-37.0,CY
+939,,2003-11-14 17:06:24,2003-11-12,CY,Phelan Cathal G,VP Personal Communications Div,S - Sale,$22.51,-40000,17570,-69%,"-$900,236",1.0,1.0,-6.0,-37.0,CY
+940,D,2003-11-04 14:55:10,2003-11-03,CY,Hernandez Emmanuel T,"VP, Finance, Adm CFO",M - OptEx,$7.56,20000,113909,+21%,"+$151,250",1.0,-2.0,-1.0,-34.0,CY
+941,D,2003-10-30 21:47:40,2003-10-28,CY,Benhamou Eric,Dir,M - OptEx,$7.94,20000,0,-100%,"+$158,750",-1.0,6.0,3.0,-36.0,CY
+942,D,2003-10-30 21:47:40,2003-10-28,CY,Benhamou Eric,Dir,S - Sale+OE,$21.00,-20000,0,-100%,"-$420,000",-1.0,6.0,3.0,-36.0,CY
+943,D,2003-10-21 21:33:44,2003-10-20,CY,Benhamou Eric,Dir,M - OptEx,$14.05,25000,0,-100%,"+$351,250",-2.0,-3.0,5.0,-25.0,CY
+944,D,2003-10-21 21:33:44,2003-10-20,CY,Benhamou Eric,Dir,S - Sale+OE,$19.76,-25000,0,-100%,"-$494,004",-2.0,-3.0,5.0,-25.0,CY
+945,D,2003-10-21 15:35:47,2003-10-17,CY,Phelan Cathal G,VP Personal Communications,M - OptEx,$9.38,29968,57570,+109%,"+$281,076",4.0,1.0,9.0,-21.0,CY
+946,D,2003-10-21 15:35:47,2003-10-17,CY,Phelan Cathal G,VP Personal Communications,S - Sale+OE,$19.57,-29968,57570,-34%,"-$586,405",4.0,1.0,9.0,-21.0,CY
+947,,2003-08-29 21:04:40,2003-08-28,CY,Schmitt Ralph H,"VP Marketing, Sales",S - Sale,$18.03,-1000,48407,-2%,"-$18,030",-1.0,-2.0,-3.0,21.0,CY
+948,,2003-08-14 18:00:05,2003-08-13,CY,Schmitt Ralph H,"VP, Marketing, Sales",S - Sale,$14.21,-2149,49407,-4%,"-$30,537",-1.0,11.0,26.0,52.0,CY

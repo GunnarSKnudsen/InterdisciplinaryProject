@@ -1,81 +1,137 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-03-18 16:04:04,2022-03-17,SUMO,Beedgen Christian,Dir,S - Sale,$10.27,-5778,2192091,0%,"-$59,311",,,,,SUMO
-1,,2022-03-17 16:31:03,2022-03-15,SUMO,McCord Jennifer,Chief Accounting Officer,S - Sale,$8.96,-5416,227554,-2%,"-$48,506",,,,,SUMO
-2,,2022-03-17 16:24:56,2022-03-15,SUMO,Haar Katherine,"GC, Secretary",S - Sale,$8.96,-4674,200964,-2%,"-$41,860",,,,,SUMO
-3,,2022-03-17 16:24:03,2022-03-15,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$8.96,-9811,396891,-2%,"-$87,877",,,,,SUMO
-4,,2022-03-17 16:23:09,2022-03-15,SUMO,Beedgen Christian,Dir,S - Sale,$8.96,-5040,2197869,0%,"-$45,138",,,,,SUMO
-5,,2022-03-17 16:22:18,2022-03-15,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$8.96,-21010,609527,-3%,"-$188,166",,,,,SUMO
-6,D,2022-02-24 16:02:44,2022-02-22,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$11.56,-100300,630537,-14%,"-$1,159,167",,,,,SUMO
-7,D,2022-01-24 16:31:00,2022-01-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$11.65,-100300,634337,-14%,"-$1,168,696",,,,,SUMO
-8,,2021-12-27 16:11:45,2021-12-22,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$14.01,-861,638137,0%,"-$12,063",,,,,SUMO
-9,A,2021-12-23 18:07:00,2021-12-21,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$13.80,-4419,190502,-2%,"-$60,982",,,,,SUMO
-10,A,2021-12-23 18:06:20,2021-12-21,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$13.82,-3720,406702,-1%,"-$51,392",,,,,SUMO
-11,A,2021-12-23 18:04:52,2021-12-21,SUMO,Beedgen Christian,Dir,S - Sale,$13.81,-4184,2070869,0%,"-$57,768",,,,,SUMO
-12,,2021-12-22 17:36:13,2021-12-21,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$13.80,-7369,187552,-4%,"-$101,692",,,,,SUMO
-13,,2021-12-22 17:35:06,2021-12-21,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$13.82,-8750,401672,-2%,"-$120,881",,,,,SUMO
-14,,2021-12-22 17:34:09,2021-12-21,SUMO,Beedgen Christian,Dir,S - Sale,$13.81,-8288,2066765,0%,"-$114,432",,,,,SUMO
+0,D,2022-02-24 16:02:44,2022-02-22,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,96500,630537,+18%,"+$110,975",,,,,SUMO
+1,D,2022-02-24 16:02:44,2022-02-22,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$11.56,-100300,630537,-14%,"-$1,159,167",,,,,SUMO
+2,D,2022-01-24 16:31:00,2022-01-20,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,96500,634337,+18%,"+$110,975",,,,,SUMO
+3,D,2022-01-24 16:31:00,2022-01-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$11.65,-100300,634337,-14%,"-$1,168,696",,,,,SUMO
+4,,2022-01-04 16:32:03,2021-12-31,SUMO,Grierson Stewart,CFO,A - Grant,$0.00,480000,480000,New,+$0,,,,,SUMO
+5,D,2021-12-28 16:53:19,2021-12-23,SUMO,Fitz Steven D,Chief Revenue Officer,M - OptEx,$3.68,27173,217675,+14%,"+$99,997",,,,,SUMO
+6,D,2021-12-28 16:52:01,2021-12-23,SUMO,Beedgen Christian,Dir,M - OptEx,$1.19,132040,2202909,+6%,"+$157,599",,,,,SUMO
+7,,2021-12-27 16:11:45,2021-12-22,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$14.01,-861,638137,0%,"-$12,063",,,,,SUMO
+8,A,2021-12-23 18:07:00,2021-12-21,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$13.80,-4419,190502,-2%,"-$60,982",,,,,SUMO
+9,A,2021-12-23 18:06:20,2021-12-21,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$13.82,-3720,406702,-1%,"-$51,392",,,,,SUMO
+10,A,2021-12-23 18:04:52,2021-12-21,SUMO,Beedgen Christian,Dir,S - Sale,$13.81,-4184,2070869,0%,"-$57,768",,,,,SUMO
+11,,2021-12-22 17:36:13,2021-12-21,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$13.80,-7369,187552,-4%,"-$101,692",,,,,SUMO
+12,,2021-12-22 17:35:06,2021-12-21,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$13.82,-8750,401672,-2%,"-$120,881",,,,,SUMO
+13,,2021-12-22 17:34:09,2021-12-21,SUMO,Beedgen Christian,Dir,S - Sale,$13.81,-8288,2066765,0%,"-$114,432",,,,,SUMO
+14,D,2021-12-21 16:31:14,2021-12-20,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,96500,638998,+18%,"+$110,975",,,,,SUMO
 15,D,2021-12-21 16:31:14,2021-12-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$13.97,-100300,638998,-14%,"-$1,401,592",,,,,SUMO
-16,,2021-12-17 20:00:46,2021-12-16,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$14.10,-5480,410422,-1%,"-$77,257",,,,,SUMO
-17,,2021-12-17 19:57:08,2021-12-16,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$14.10,-20553,642798,-3%,"-$289,756",,,,,SUMO
-18,,2021-12-17 19:56:24,2021-12-16,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$14.10,-3649,194921,-2%,"-$51,444",,,,,SUMO
-19,,2021-12-17 19:55:17,2021-12-16,SUMO,McCord Jennifer,Chief Accounting Officer,S - Sale,$14.10,-1948,232970,-1%,"-$27,463",,,,,SUMO
-20,,2021-12-17 19:54:37,2021-12-16,SUMO,Haar Katherine,"GC, Secretary",S - Sale,$14.10,-2422,205638,-1%,"-$34,145",,,,,SUMO
-21,DM,2021-12-17 19:53:06,2021-12-15,SUMO,Beedgen Christian,Dir,S - Sale+OE,$14.24,-24104,2075053,-1%,"-$343,158",,,,,SUMO
-22,,2021-12-08 16:15:33,2021-12-08,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$15.68,-3558,198570,-2%,"-$55,779",,,,,SUMO
-23,D,2021-11-23 17:02:45,2021-11-22,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$14.08,-100300,662490,-13%,"-$1,412,687",,,,,SUMO
-24,D,2021-11-19 16:22:41,2021-11-17,SUMO,Beedgen Christian,Dir,S - Sale+OE,$15.74,-20000,1921024,-1%,"-$314,800",,,,,SUMO
-25,D,2021-10-22 16:14:09,2021-10-20,SUMO,Beedgen Christian,Dir,S - Sale+OE,$17.27,-23500,1921024,-1%,"-$405,822",,,,,SUMO
-26,D,2021-10-22 16:13:40,2021-10-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$17.23,-100300,666290,-13%,"-$1,728,269",,,,,SUMO
-27,DM,2021-09-21 16:09:20,2021-09-17,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$17.64,-113280,670090,-14%,"-$1,998,131",,,,,SUMO
-28,,2021-09-20 18:57:46,2021-09-17,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$18.68,-4226,115422,-4%,"-$78,937",,,,,SUMO
-29,,2021-09-20 18:56:39,2021-09-17,SUMO,Beedgen Christian,Dir,S - Sale,$18.68,-4001,1921024,0%,"-$74,743",,,,,SUMO
-30,,2021-09-17 19:21:23,2021-09-15,SUMO,McCord Jennifer,Chief Accounting Officer,S - Sale,$17.93,-1309,107933,-1%,"-$23,464",,,,,SUMO
-31,,2021-09-17 19:20:54,2021-09-15,SUMO,Haar Katherine,"GC, Secretary",S - Sale,$17.92,-1981,112572,-2%,"-$35,507",,,,,SUMO
-32,,2021-09-17 19:20:06,2021-09-15,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$17.93,-3812,202128,-2%,"-$68,330",,,,,SUMO
-33,,2021-09-17 19:19:32,2021-09-15,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$17.93,-5725,119648,-5%,"-$102,621",,,,,SUMO
-34,D,2021-09-17 19:18:57,2021-09-15,SUMO,Beedgen Christian,Dir,S - Sale+OE,$17.99,-27787,1925025,-1%,"-$499,864",,,,,SUMO
-35,,2021-09-17 19:18:11,2021-09-15,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$17.92,-21472,686870,-3%,"-$384,864",,,,,SUMO
-36,DM,2021-09-08 16:05:00,2021-09-03,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale+OE,$22.01,-30000,205940,-13%,"-$660,200",,,,,SUMO
-37,DM,2021-09-08 16:04:19,2021-09-03,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale+OE,$22.00,-16000,125373,-11%,"-$352,043",,,,,SUMO
-38,D,2021-08-24 16:39:14,2021-08-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$19.30,-100300,708342,-12%,"-$1,935,489",,,,,SUMO
-39,D,2021-08-20 16:55:42,2021-08-18,SUMO,Beedgen Christian,Dir,S - Sale+OE,$19.45,-23500,1929312,-1%,"-$456,958",,,,,SUMO
-40,,2021-08-04 16:04:46,2021-08-02,SUMO,Carey Sydney,CFO,S - Sale,$21.05,-7962,380399,-2%,"-$167,583",,,,,SUMO
-41,D,2021-07-23 16:15:14,2021-07-21,SUMO,Beedgen Christian,Dir,S - Sale+OE,$20.88,-28000,1929312,-1%,"-$584,696",,,,,SUMO
-42,DM,2021-07-21 20:01:58,2021-07-19,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$20.10,-100300,712142,-12%,"-$2,016,001",,,,,SUMO
-43,,2021-07-09 19:07:16,2021-07-07,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$22.01,-3069,205940,-1%,"-$67,533",,,,,SUMO
-44,,2021-07-09 19:06:36,2021-07-07,SUMO,Carey Sydney,CFO,S - Sale,$22.00,-3305,388361,-1%,"-$72,713",,,,,SUMO
-45,,2021-07-02 16:14:42,2021-07-01,SUMO,Carey Sydney,CFO,S - Sale,$20.53,-9018,391666,-2%,"-$185,158",,,,,SUMO
-46,A,2021-07-02 16:10:30,2021-06-18,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$21.56,-15738,6462,-71%,"-$339,248",,,,,SUMO
-47,,2021-06-25 17:08:26,2021-06-25,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$21.82,-30,209009,0%,-$655,,,,,SUMO
-48,D,2021-06-24 16:56:26,2021-06-22,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale+OE,$22.10,-12235,209039,-6%,"-$270,406",,,,,SUMO
-49,D,2021-06-24 16:55:44,2021-06-22,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale+OE,$22.03,-202,125373,0%,"-$4,449",,,,,SUMO
-50,DM,2021-06-22 20:10:41,2021-06-17,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$21.30,-140478,715639,-16%,"-$2,992,811",,,,,SUMO
-51,,2021-06-22 20:08:54,2021-06-17,SUMO,Haar Katherine,"GC, Secretary",S - Sale,$19.10,-2980,94742,-3%,"-$56,915",,,,,SUMO
-52,DM,2021-06-22 20:08:19,2021-06-17,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale+OE,$21.76,-73273,209749,-26%,"-$1,594,396",,,,,SUMO
-53,DM,2021-06-22 20:07:26,2021-06-17,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale+OE,$21.32,-36000,125373,-22%,"-$767,437",,,,,SUMO
-54,M,2021-06-22 20:06:45,2021-06-17,SUMO,Carey Sydney,CFO,S - Sale,$20.42,-23149,400684,-5%,"-$472,637",,,,,SUMO
-55,M,2021-06-22 20:06:11,2021-06-17,SUMO,Beedgen Christian,Dir,S - Sale,$20.13,-10419,1929312,-1%,"-$209,721",,,,,SUMO
-56,M,2021-06-21 18:25:39,2021-06-16,SUMO,McCord Jennifer,Chief Accounting Officer,S - Sale,$19.27,-2182,69619,-3%,"-$42,053",,,,,SUMO
-57,D,2021-06-16 16:04:53,2021-06-14,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale+OE,$22.00,-4400,235990,-2%,"-$96,813",,,,,SUMO
-58,D,2021-06-16 16:04:13,2021-06-14,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale+OE,$22.00,-1800,137634,-1%,"-$39,605",,,,,SUMO
-59,,2021-06-16 16:03:20,2021-06-14,SUMO,Carey Sydney,CFO,S - Sale,$22.00,-100,423694,0%,"-$2,200",,,,,SUMO
-60,D,2021-06-10 16:08:29,2021-06-09,SUMO,Beedgen Christian,Dir,S - Sale+OE,$21.00,-4500,1938094,0%,"-$94,500",,,,,SUMO
-61,D,2021-06-09 16:29:21,2021-06-07,SUMO,Beedgen Christian,Dir,S - Sale+OE,$20.55,-23500,1938094,-1%,"-$482,878",,,,,SUMO
-62,,2021-06-03 16:46:14,2021-06-01,SUMO,Carey Sydney,CFO,S - Sale,$18.75,-10602,423794,-2%,"-$198,798",,,,,SUMO
-63,D,2021-05-24 16:33:23,2021-05-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$18.28,-64600,758123,-8%,"-$1,180,573",,,,,SUMO
-64,,2021-05-05 16:09:26,2021-05-03,SUMO,Carey Sydney,CFO,S - Sale,$18.63,-10602,434396,-2%,"-$197,501",,,,,SUMO
-65,D,2021-04-22 17:43:31,2021-04-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$18.03,-64600,760723,-8%,"-$1,164,880",,,,,SUMO
-66,,2021-04-02 21:46:14,2021-04-01,SUMO,Carey Sydney,CFO,S - Sale,$19.22,-10500,444998,-2%,"-$201,821",,,,,SUMO
-67,DM,2021-04-01 16:53:51,2021-03-30,SUMO,Beedgen Christian,Dir,S - Sale+OE,$18.03,-90000,1938094,-4%,"-$1,622,740",,,,,SUMO
-68,DM,2021-03-25 19:15:03,2021-03-24,SUMO,Beedgen Christian,Dir,S - Sale+OE,$18.53,-50000,1938094,-3%,"-$926,290",,,,,SUMO
-69,D,2021-03-23 21:10:34,2021-03-23,SUMO,Beedgen Christian,Dir,S - Sale+OE,$19.21,-10000,1938094,-1%,"-$192,120",,,,,SUMO
-70,D,2021-03-23 21:07:59,2021-03-22,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$19.71,-219975,728495,-23%,"-$4,335,927",,,,,SUMO
-71,,2021-03-19 19:50:02,2021-03-19,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$19.83,-22533,137634,-14%,"-$446,920",,,,,SUMO
-72,,2021-03-19 17:30:05,2021-03-19,SUMO,Beedgen Christian,Dir,S - Sale,$19.82,-16030,1938094,-1%,"-$317,731",,,,,SUMO
-73,,2021-03-17 19:58:43,2021-03-16,SUMO,Haar Katherine,"GC, Secretary",S - Sale,$21.66,-5424,96570,-5%,"-$117,495",,,,,SUMO
-74,,2021-03-17 19:58:17,2021-03-16,SUMO,McCord Jennifer,Chief Accounting Officer,S - Sale,$20.01,-3794,70636,-5%,"-$75,914",,,,,SUMO
-75,,2021-03-17 19:57:08,2021-03-16,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$20.71,-12387,237990,-5%,"-$256,555",,,,,SUMO
-76,,2021-03-17 19:56:23,2021-03-16,SUMO,Carey Sydney,CFO,S - Sale,$21.66,-24008,455498,-5%,"-$520,061",,,,,SUMO
-77,D,2021-03-17 19:55:42,2021-03-16,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale+OE,$21.81,-20467,160167,-11%,"-$446,356",,,,,SUMO
-78,,2021-03-17 19:53:19,2021-03-16,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$20.53,-150125,921298,-14%,"-$3,082,798",,,,,SUMO
-79,,2021-03-17 19:52:29,2021-03-16,SUMO,Beedgen Christian,Dir,S - Sale,$21.66,-8970,1954124,0%,"-$194,308",,,,,SUMO
+16,,2021-12-17 20:00:46,2021-12-15,SUMO,Chettiar Suku Krishnaraj,CMO,A - Grant,$0.00,300480,410422,+273%,+$0,,,,,SUMO
+17,,2021-12-17 20:00:46,2021-12-16,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$14.10,-5480,410422,-1%,"-$77,257",,,,,SUMO
+18,,2021-12-17 19:57:08,2021-12-16,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$14.10,-20553,642798,-3%,"-$289,756",,,,,SUMO
+19,,2021-12-17 19:56:24,2021-12-16,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$14.10,-3649,194921,-2%,"-$51,444",,,,,SUMO
+20,,2021-12-17 19:55:17,2021-12-15,SUMO,McCord Jennifer,Chief Accounting Officer,A - Grant,$0.00,125944,232970,+118%,+$0,,,,,SUMO
+21,,2021-12-17 19:55:17,2021-12-16,SUMO,McCord Jennifer,Chief Accounting Officer,S - Sale,$14.10,-1948,232970,-1%,"-$27,463",,,,,SUMO
+22,,2021-12-17 19:54:37,2021-12-15,SUMO,Haar Katherine,"GC, Secretary",A - Grant,$0.00,94458,205638,+85%,+$0,,,,,SUMO
+23,,2021-12-17 19:54:37,2021-12-16,SUMO,Haar Katherine,"GC, Secretary",S - Sale,$14.10,-2422,205638,-1%,"-$34,145",,,,,SUMO
+24,D,2021-12-17 19:53:06,2021-12-15,SUMO,Beedgen Christian,Dir,A - Grant,$0.00,157430,2075053,+8%,+$0,,,,,SUMO
+25,D,2021-12-17 19:53:06,2021-12-15,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,20000,2075053,+1%,"+$19,600",,,,,SUMO
+26,DM,2021-12-17 19:53:06,2021-12-15,SUMO,Beedgen Christian,Dir,S - Sale+OE,$14.24,-24104,2075053,-1%,"-$343,158",,,,,SUMO
+27,,2021-12-17 19:52:16,2021-12-15,SUMO,McDonald Lynne Doherty,Pres WWD Field Operations,A - Grant,$0.00,523031,523031,New,+$0,,,,,SUMO
+28,,2021-12-08 16:15:33,2021-12-08,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$15.68,-3558,198570,-2%,"-$55,779",,,,,SUMO
+29,D,2021-11-23 17:02:45,2021-11-22,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,96500,662490,+17%,"+$110,975",,,,,SUMO
+30,D,2021-11-23 17:02:45,2021-11-22,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$14.08,-100300,662490,-13%,"-$1,412,687",,,,,SUMO
+31,D,2021-11-19 16:22:41,2021-11-17,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,20000,1921024,+1%,"+$19,600",,,,,SUMO
+32,D,2021-11-19 16:22:41,2021-11-17,SUMO,Beedgen Christian,Dir,S - Sale+OE,$15.74,-20000,1921024,-1%,"-$314,800",,,,,SUMO
+33,D,2021-10-22 16:14:09,2021-10-20,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,23500,1921024,+1%,"+$23,030",,,,,SUMO
+34,D,2021-10-22 16:14:09,2021-10-20,SUMO,Beedgen Christian,Dir,S - Sale+OE,$17.27,-23500,1921024,-1%,"-$405,822",,,,,SUMO
+35,D,2021-10-22 16:13:40,2021-10-20,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,96500,666290,+17%,"+$110,975",,,,,SUMO
+36,D,2021-10-22 16:13:40,2021-10-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$17.23,-100300,666290,-13%,"-$1,728,269",,,,,SUMO
+37,D,2021-09-21 16:09:20,2021-09-20,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,96500,670090,+17%,"+$110,975",,,,,SUMO
+38,DM,2021-09-21 16:09:20,2021-09-17,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$17.64,-113280,670090,-14%,"-$1,998,131",,,,,SUMO
+39,,2021-09-20 18:57:46,2021-09-17,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$18.68,-4226,115422,-4%,"-$78,937",,,,,SUMO
+40,,2021-09-20 18:56:39,2021-09-17,SUMO,Beedgen Christian,Dir,S - Sale,$18.68,-4001,1921024,0%,"-$74,743",,,,,SUMO
+41,,2021-09-17 19:21:23,2021-09-15,SUMO,McCord Jennifer,Chief Accounting Officer,A - Grant,$0.00,39623,107933,+58%,+$0,,,,,SUMO
+42,,2021-09-17 19:21:23,2021-09-15,SUMO,McCord Jennifer,Chief Accounting Officer,S - Sale,$17.93,-1309,107933,-1%,"-$23,464",,,,,SUMO
+43,,2021-09-17 19:20:54,2021-09-15,SUMO,Haar Katherine,"GC, Secretary",A - Grant,$0.00,19811,112572,+21%,+$0,,,,,SUMO
+44,,2021-09-17 19:20:54,2021-09-15,SUMO,Haar Katherine,"GC, Secretary",S - Sale,$17.92,-1981,112572,-2%,"-$35,507",,,,,SUMO
+45,,2021-09-17 19:20:06,2021-09-15,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$17.93,-3812,202128,-2%,"-$68,330",,,,,SUMO
+46,,2021-09-17 19:19:32,2021-09-15,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$17.93,-5725,119648,-5%,"-$102,621",,,,,SUMO
+47,D,2021-09-17 19:18:57,2021-09-15,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,23500,1925025,+1%,"+$23,030",,,,,SUMO
+48,D,2021-09-17 19:18:57,2021-09-15,SUMO,Beedgen Christian,Dir,S - Sale+OE,$17.99,-27787,1925025,-1%,"-$499,864",,,,,SUMO
+49,,2021-09-17 19:18:11,2021-09-15,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$17.92,-21472,686870,-3%,"-$384,864",,,,,SUMO
+50,,2021-09-09 16:48:03,2021-09-07,SUMO,Francis Margaret,Dir,A - Grant,$0.00,14915,14915,New,+$0,,,,,SUMO
+51,DM,2021-09-08 16:05:00,2021-09-03,SUMO,Fitz Steven D,Chief Revenue Officer,M - OptEx,$1.92,30000,205940,+17%,"+$57,600",,,,,SUMO
+52,DM,2021-09-08 16:05:00,2021-09-03,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale+OE,$22.01,-30000,205940,-13%,"-$660,200",,,,,SUMO
+53,DM,2021-09-08 16:04:19,2021-09-03,SUMO,Chettiar Suku Krishnaraj,CMO,M - OptEx,$1.38,16000,125373,+15%,"+$22,080",,,,,SUMO
+54,DM,2021-09-08 16:04:19,2021-09-03,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale+OE,$22.00,-16000,125373,-11%,"-$352,043",,,,,SUMO
+55,D,2021-08-24 16:39:14,2021-08-20,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,96500,708342,+16%,"+$110,975",,,,,SUMO
+56,D,2021-08-24 16:39:14,2021-08-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$19.30,-100300,708342,-12%,"-$1,935,489",,,,,SUMO
+57,D,2021-08-20 16:55:42,2021-08-18,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,23500,1929312,+1%,"+$23,030",,,,,SUMO
+58,D,2021-08-20 16:55:42,2021-08-18,SUMO,Beedgen Christian,Dir,S - Sale+OE,$19.45,-23500,1929312,-1%,"-$456,958",,,,,SUMO
+59,,2021-08-04 16:04:46,2021-08-02,SUMO,Carey Sydney,CFO,S - Sale,$21.05,-7962,380399,-2%,"-$167,583",,,,,SUMO
+60,D,2021-07-23 16:15:14,2021-07-21,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,28000,1929312,+1%,"+$27,440",,,,,SUMO
+61,D,2021-07-23 16:15:14,2021-07-21,SUMO,Beedgen Christian,Dir,S - Sale+OE,$20.88,-28000,1929312,-1%,"-$584,696",,,,,SUMO
+62,DM,2021-07-21 20:01:58,2021-07-19,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,96500,712142,+16%,"+$110,975",,,,,SUMO
+63,DM,2021-07-21 20:01:58,2021-07-19,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$20.10,-100300,712142,-12%,"-$2,016,001",,,,,SUMO
+64,,2021-07-09 19:07:16,2021-07-07,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$22.01,-3069,205940,-1%,"-$67,533",,,,,SUMO
+65,,2021-07-09 19:06:36,2021-07-07,SUMO,Carey Sydney,CFO,S - Sale,$22.00,-3305,388361,-1%,"-$72,713",,,,,SUMO
+66,,2021-07-07 18:05:47,2021-07-06,SUMO,Robel Charles J,Dir,A - Grant,$0.00,12072,62072,+24%,+$0,,,,,SUMO
+67,,2021-07-07 18:04:03,2021-07-06,SUMO,Newell Tracey,Dir,A - Grant,$0.00,11345,26367,+76%,+$0,,,,,SUMO
+68,,2021-07-07 18:02:42,2021-07-06,SUMO,Jenkins William D Jr,Dir,A - Grant,$0.00,11030,294030,+4%,+$0,,,,,SUMO
+69,,2021-07-07 18:01:23,2021-07-06,SUMO,Gottfried Randy,Dir,A - Grant,$0.00,10666,10666,New,+$0,,,,,SUMO
+70,,2021-07-07 18:00:19,2021-07-06,SUMO,Bergeron Sandra E.,Dir,A - Grant,$0.00,11151,111151,+11%,+$0,,,,,SUMO
+71,,2021-07-07 17:58:54,2021-07-06,SUMO,Ansanelli Joseph,Dir,A - Grant,$0.00,10666,15289460,0%,+$0,,,,,SUMO
+72,,2021-07-02 16:14:42,2021-07-01,SUMO,Carey Sydney,CFO,S - Sale,$20.53,-9018,391666,-2%,"-$185,158",,,,,SUMO
+73,A,2021-07-02 16:10:30,2021-06-18,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$21.56,-15738,6462,-71%,"-$339,248",,,,,SUMO
+74,,2021-06-25 17:08:26,2021-06-25,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$21.82,-30,209009,0%,-$655,,,,,SUMO
+75,D,2021-06-24 16:56:26,2021-06-22,SUMO,Fitz Steven D,Chief Revenue Officer,M - OptEx,$1.92,11525,209039,+6%,"+$22,128",,,,,SUMO
+76,D,2021-06-24 16:56:26,2021-06-22,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale+OE,$22.10,-12235,209039,-6%,"-$270,406",,,,,SUMO
+77,D,2021-06-24 16:55:44,2021-06-22,SUMO,Chettiar Suku Krishnaraj,CMO,M - OptEx,$1.38,202,125373,0%,+$279,,,,,SUMO
+78,D,2021-06-24 16:55:44,2021-06-22,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale+OE,$22.03,-202,125373,0%,"-$4,449",,,,,SUMO
+79,D,2021-06-22 20:10:41,2021-06-21,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,96500,715639,+16%,"+$110,975",,,,,SUMO
+80,DM,2021-06-22 20:10:41,2021-06-17,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$21.30,-140478,715639,-16%,"-$2,992,811",,,,,SUMO
+81,,2021-06-22 20:08:54,2021-06-17,SUMO,Haar Katherine,"GC, Secretary",S - Sale,$19.10,-2980,94742,-3%,"-$56,915",,,,,SUMO
+82,DM,2021-06-22 20:08:19,2021-06-18,SUMO,Fitz Steven D,Chief Revenue Officer,M - OptEx,$1.92,46075,209749,+28%,"+$88,464",,,,,SUMO
+83,DM,2021-06-22 20:08:19,2021-06-17,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale+OE,$21.76,-73273,209749,-26%,"-$1,594,396",,,,,SUMO
+84,DM,2021-06-22 20:07:26,2021-06-18,SUMO,Chettiar Suku Krishnaraj,CMO,M - OptEx,$1.38,21998,125373,+21%,"+$30,357",,,,,SUMO
+85,DM,2021-06-22 20:07:26,2021-06-17,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale+OE,$21.32,-36000,125373,-22%,"-$767,437",,,,,SUMO
+86,M,2021-06-22 20:06:45,2021-06-17,SUMO,Carey Sydney,CFO,S - Sale,$20.42,-23149,400684,-5%,"-$472,637",,,,,SUMO
+87,M,2021-06-22 20:06:11,2021-06-17,SUMO,Beedgen Christian,Dir,S - Sale,$20.13,-10419,1929312,-1%,"-$209,721",,,,,SUMO
+88,M,2021-06-21 18:25:39,2021-06-16,SUMO,McCord Jennifer,Chief Accounting Officer,S - Sale,$19.27,-2182,69619,-3%,"-$42,053",,,,,SUMO
+89,D,2021-06-16 16:04:53,2021-06-14,SUMO,Fitz Steven D,Chief Revenue Officer,M - OptEx,$1.92,2400,235990,+1%,"+$4,608",,,,,SUMO
+90,D,2021-06-16 16:04:53,2021-06-14,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale+OE,$22.00,-4400,235990,-2%,"-$96,813",,,,,SUMO
+91,D,2021-06-16 16:04:13,2021-06-14,SUMO,Chettiar Suku Krishnaraj,CMO,M - OptEx,$1.38,1800,137634,+1%,"+$2,484",,,,,SUMO
+92,D,2021-06-16 16:04:13,2021-06-14,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale+OE,$22.00,-1800,137634,-1%,"-$39,605",,,,,SUMO
+93,,2021-06-16 16:03:20,2021-06-14,SUMO,Carey Sydney,CFO,S - Sale,$22.00,-100,423694,0%,"-$2,200",,,,,SUMO
+94,D,2021-06-10 16:08:29,2021-06-09,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,4500,1938094,0%,"+$4,410",,,,,SUMO
+95,D,2021-06-10 16:08:29,2021-06-09,SUMO,Beedgen Christian,Dir,S - Sale+OE,$21.00,-4500,1938094,0%,"-$94,500",,,,,SUMO
+96,D,2021-06-09 16:29:21,2021-06-07,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,23500,1938094,+1%,"+$23,030",,,,,SUMO
+97,D,2021-06-09 16:29:21,2021-06-07,SUMO,Beedgen Christian,Dir,S - Sale+OE,$20.55,-23500,1938094,-1%,"-$482,878",,,,,SUMO
+98,,2021-06-03 16:46:14,2021-06-01,SUMO,Carey Sydney,CFO,S - Sale,$18.75,-10602,423794,-2%,"-$198,798",,,,,SUMO
+99,D,2021-05-24 16:33:23,2021-05-20,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,62000,758123,+9%,"+$71,300",,,,,SUMO
+100,D,2021-05-24 16:33:23,2021-05-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$18.28,-64600,758123,-8%,"-$1,180,573",,,,,SUMO
+101,,2021-05-05 16:09:26,2021-05-03,SUMO,Carey Sydney,CFO,S - Sale,$18.63,-10602,434396,-2%,"-$197,501",,,,,SUMO
+102,D,2021-04-22 17:43:31,2021-04-20,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,62000,760723,+9%,"+$71,300",,,,,SUMO
+103,D,2021-04-22 17:43:31,2021-04-20,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$18.03,-64600,760723,-8%,"-$1,164,880",,,,,SUMO
+104,,2021-04-02 21:46:14,2021-04-01,SUMO,Carey Sydney,CFO,S - Sale,$19.22,-10500,444998,-2%,"-$201,821",,,,,SUMO
+105,DM,2021-04-01 16:53:51,2021-03-30,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,90000,1938094,+5%,"+$88,200",,,,,SUMO
+106,DM,2021-04-01 16:53:51,2021-03-30,SUMO,Beedgen Christian,Dir,S - Sale+OE,$18.03,-90000,1938094,-4%,"-$1,622,740",,,,,SUMO
+107,DM,2021-03-25 19:15:03,2021-03-24,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,50000,1938094,+3%,"+$49,000",,,,,SUMO
+108,DM,2021-03-25 19:15:03,2021-03-24,SUMO,Beedgen Christian,Dir,S - Sale+OE,$18.53,-50000,1938094,-3%,"-$926,290",,,,,SUMO
+109,D,2021-03-23 21:10:34,2021-03-23,SUMO,Beedgen Christian,Dir,M - OptEx,$0.98,10000,1938094,+1%,"+$9,800",,,,,SUMO
+110,D,2021-03-23 21:10:34,2021-03-23,SUMO,Beedgen Christian,Dir,S - Sale+OE,$19.21,-10000,1938094,-1%,"-$192,120",,,,,SUMO
+111,D,2021-03-23 21:07:59,2021-03-09,SUMO,Sayar Ramin,"Pres, CEO",G - Gift,$0.00,-29712,728495,+4%,-$0,,,,,SUMO
+112,D,2021-03-23 21:07:59,2021-03-22,SUMO,Sayar Ramin,"Pres, CEO",M - OptEx,$1.15,62000,728495,+9%,"+$71,300",,,,,SUMO
+113,D,2021-03-23 21:07:59,2021-03-22,SUMO,Sayar Ramin,"Pres, CEO",S - Sale+OE,$19.71,-219975,728495,-23%,"-$4,335,927",,,,,SUMO
+114,,2021-03-19 19:50:02,2021-03-19,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale,$19.83,-22533,137634,-14%,"-$446,920",,,,,SUMO
+115,,2021-03-19 17:30:05,2021-03-19,SUMO,Beedgen Christian,Dir,S - Sale,$19.82,-16030,1938094,-1%,"-$317,731",,,,,SUMO
+116,,2021-03-17 19:58:43,2021-03-15,SUMO,Haar Katherine,"GC, Secretary",A - Grant,$0.00,26988,96570,+39%,+$0,,,,,SUMO
+117,,2021-03-17 19:58:43,2021-03-16,SUMO,Haar Katherine,"GC, Secretary",S - Sale,$21.66,-5424,96570,-5%,"-$117,495",,,,,SUMO
+118,,2021-03-17 19:58:17,2021-03-15,SUMO,McCord Jennifer,Chief Accounting Officer,A - Grant,$0.00,17149,70636,+32%,+$0,,,,,SUMO
+119,,2021-03-17 19:58:17,2021-03-16,SUMO,McCord Jennifer,Chief Accounting Officer,S - Sale,$20.01,-3794,70636,-5%,"-$75,914",,,,,SUMO
+120,M,2021-03-17 19:57:08,2021-03-15,SUMO,Fitz Steven D,Chief Revenue Officer,A - Grant,$0.00,74339,237990,+45%,+$0,,,,,SUMO
+121,,2021-03-17 19:57:08,2021-03-16,SUMO,Fitz Steven D,Chief Revenue Officer,S - Sale,$20.71,-12387,237990,-5%,"-$256,555",,,,,SUMO
+122,,2021-03-17 19:56:23,2021-03-15,SUMO,Carey Sydney,CFO,A - Grant,$0.00,86589,455498,+23%,+$0,,,,,SUMO
+123,,2021-03-17 19:56:23,2021-03-16,SUMO,Carey Sydney,CFO,S - Sale,$21.66,-24008,455498,-5%,"-$520,061",,,,,SUMO
+124,D,2021-03-17 19:55:42,2021-03-15,SUMO,Chettiar Suku Krishnaraj,CMO,A - Grant,$0.00,30362,160167,+23%,+$0,,,,,SUMO
+125,D,2021-03-17 19:55:42,2021-03-16,SUMO,Chettiar Suku Krishnaraj,CMO,M - OptEx,$1.38,8000,160167,+5%,"+$11,040",,,,,SUMO
+126,D,2021-03-17 19:55:42,2021-03-16,SUMO,Chettiar Suku Krishnaraj,CMO,S - Sale+OE,$21.81,-20467,160167,-11%,"-$446,356",,,,,SUMO
+127,M,2021-03-17 19:53:19,2021-03-15,SUMO,Sayar Ramin,"Pres, CEO",A - Grant,$0.00,418972,921298,+83%,+$0,,,,,SUMO
+128,,2021-03-17 19:53:19,2021-03-16,SUMO,Sayar Ramin,"Pres, CEO",S - Sale,$20.53,-150125,921298,-14%,"-$3,082,798",,,,,SUMO
+129,,2021-03-17 19:52:29,2021-03-15,SUMO,Beedgen Christian,Dir,A - Grant,$0.00,29237,1954124,+2%,+$0,,,,,SUMO
+130,,2021-03-17 19:52:29,2021-03-16,SUMO,Beedgen Christian,Dir,S - Sale,$21.66,-8970,1954124,0%,"-$194,308",,,,,SUMO
+131,A,2021-03-05 18:49:21,2020-09-21,SUMO,Sayar Ramin,"Pres, CEO",C - Converted deriv,$0.00,14856,44856,-25%,$0,,,,,SUMO
+132,,2020-12-08 16:40:08,2020-12-04,SUMO,Newell Tracey,Dir,A - Grant,$0.00,15022,15022,New,+$0,,,,,SUMO
+133,D,2020-09-21 19:46:27,2020-09-21,SUMO,Sayar Ramin,"Pres, CEO",C - Converted deriv,$0.00,69739,652451,-10%,$0,,,,,SUMO
+134,D,2020-09-21 19:44:48,2020-09-21,SUMO,Greylock Xiii Gp LLC,10%,C - Converted deriv,$0.00,18983932,541042,-97%,$0,,,,,SUMO
+135,D,2020-09-21 19:43:30,2020-09-21,SUMO,Ansanelli Joseph,Dir,C - Converted deriv,$0.00,18983932,566042,-97%,$0,,,,,SUMO

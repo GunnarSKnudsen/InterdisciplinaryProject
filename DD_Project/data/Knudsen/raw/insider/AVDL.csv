@@ -1,29 +1,164 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2020-09-21 16:01:26,2020-09-18,AVDL,McHugh Thomas S,CFO,P - Purchase,$6.00,4000,21500,+23%,"+$24,000",,,,,AVDL
-1,M,2020-09-18 16:20:52,2020-09-16,AVDL,McCamish Mark Anthony,Dir,P - Purchase,$5.76,171000,171000,New,"+$985,219",,,,,AVDL
-2,,2020-09-18 16:19:01,2020-09-17,AVDL,Ende Eric J,Dir,P - Purchase,$5.79,17000,84900,+25%,"+$98,376",,,,,AVDL
-3,,2020-09-01 16:12:15,2020-08-28,AVDL,McHugh Thomas S,CFO,P - Purchase,$6.77,7500,17500,+75%,"+$50,777",,,,,AVDL
-4,,2020-09-01 16:11:46,2020-08-28,AVDL,Glass Geoffrey Michael,Dir,P - Purchase,$6.78,4800,65700,+8%,"+$32,560",,,,,AVDL
-5,,2020-08-17 18:59:29,2020-08-13,AVDL,McHugh Thomas S,CFO,P - Purchase,$7.78,10000,10000,New,"+$77,814",,,,,AVDL
-6,,2020-08-17 18:58:10,2020-08-14,AVDL,Palczuk Linda,Dir,P - Purchase,$7.94,2500,37900,+7%,"+$19,850",,,,,AVDL
-7,,2020-08-17 18:57:33,2020-08-13,AVDL,Ende Eric J,Dir,P - Purchase,$7.79,5000,67900,+8%,"+$38,928",,,,,AVDL
-8,M,2020-08-14 18:11:27,2020-08-12,AVDL,Glass Geoffrey Michael,Dir,P - Purchase,$7.73,13000,60900,+27%,"+$100,490",,,,,AVDL
-9,,2020-08-13 19:40:14,2020-08-12,AVDL,Ende Eric J,Dir,P - Purchase,$7.76,15000,62900,+31%,"+$116,355",,,,,AVDL
-10,,2020-08-13 19:39:37,2020-08-12,AVDL,Divis Gregory J,CEO,P - Purchase,$7.78,13000,99100,+15%,"+$101,156",,,,,AVDL
-11,,2019-12-16 16:21:11,2019-12-12,AVDL,Hatten Sandra L,See Remarks,S - Sale,$7.23,-3072,59165,-5%,"-$22,211",,,,,AVDL
-12,,2019-12-05 16:30:36,2019-12-04,AVDL,Ende Eric J,Dir,P - Purchase,$5.97,10000,47900,+26%,"+$59,700",,,,,AVDL
-13,,2019-12-05 16:29:00,2019-12-03,AVDL,Palczuk Linda,Dir,P - Purchase,$5.91,7500,35400,+27%,"+$44,325",,,,,AVDL
-14,DM,2019-11-19 17:03:13,2019-11-15,AVDL,Glass Geoffrey Michael,Dir,P - Purchase,$4.99,20000,47900,+72%,"+$99,800",,,,,AVDL
-15,D,2019-11-19 17:00:54,2019-11-15,AVDL,Divis Greg J,CEO,P - Purchase,$5.13,19000,86100,+28%,"+$97,470",,,,,AVDL
-16,D,2019-11-19 16:46:53,2019-11-15,AVDL,Ende Eric J,Dir,P - Purchase,$4.98,10000,37900,+36%,"+$49,762",,,,,AVDL
-17,D,2018-12-18 16:06:15,2018-12-14,FLML,Kanan Michael F,See Remarks,S - Sale+OE,$2.49,-8429,29538,-22%,"-$21,022",,,,,AVDL
-18,D,2018-12-18 16:04:30,2018-12-14,AVDL,Gusky David P,"Controller, CAO",S - Sale+OE,$2.68,-617,4083,-13%,"-$1,656",,,,,AVDL
-19,D,2018-12-18 16:01:55,2018-12-14,AVDL,Hatten Sandra L,See Remarks,S - Sale+OE,$2.58,-3173,44237,-7%,"-$8,183",,,,,AVDL
-20,D,2018-08-14 20:01:10,2018-08-10,AVDL,Anderson Michael S,CEO,S - Sale+OE,$4.91,-16297,248953,-6%,"-$79,953",,,,,AVDL
-21,D,2018-08-14 20:00:23,2018-08-10,AVDL,Hatten Sandra L,See Remarks,S - Sale+OE,$4.91,-6290,47410,-12%,"-$30,859",,,,,AVDL
-22,D,2018-06-29 17:24:27,2018-06-26,FLML,Kanan Michael F,See Remarks,P - Purchase,$5.70,1967,37967,+5%,"+$11,212",,,,,AVDL
-23,D,2018-06-27 19:02:20,2018-06-26,AVDL,Anderson Michael S,CEO,P - Purchase,$6.04,2500,265250,+1%,"+$15,100",,,,,AVDL
-24,D,2018-06-27 19:00:11,2018-06-26,AVDL,Divis Greg J,See Remarks,P - Purchase,$6.00,16000,49100,+48%,"+$96,000",,,,,AVDL
-25,D,2018-06-27 18:58:03,2018-06-26,AVDL,Thompson Phillandas T.,See Remarks,P - Purchase,$5.77,10000,91000,+12%,"+$57,700",,,,,AVDL
-26,,2018-06-25 17:59:10,2018-06-25,AVDL,Flynn James E,"*Possible member of 10% group, 10%",S - Sale,$5.99,-114034,3674506,-3%,"-$683,315",,,,,AVDL
-27,D,2018-05-29 17:15:32,2018-05-24,AVDL,Anderson Michael S,CEO,P - Purchase,$6.44,3000,262750,+1%,"+$19,320",,,,,AVDL
+0,D,2020-12-23 16:05:10,2020-12-21,AVDL,Glass Geoffrey Michael,Dir,G - Gift,$0.00,-18600,65700,-22%,-$0,,,,,AVDL
+1,,2020-09-21 16:01:26,2020-09-18,AVDL,McHugh Thomas S,CFO,P - Purchase,$6.00,4000,21500,+23%,"+$24,000",,,,,AVDL
+2,M,2020-09-18 16:20:52,2020-09-16,AVDL,McCamish Mark Anthony,Dir,P - Purchase,$5.76,171000,171000,New,"+$985,219",,,,,AVDL
+3,,2020-09-18 16:19:01,2020-09-17,AVDL,Ende Eric J,Dir,P - Purchase,$5.79,17000,84900,+25%,"+$98,376",,,,,AVDL
+4,,2020-09-01 16:12:15,2020-08-28,AVDL,McHugh Thomas S,CFO,P - Purchase,$6.77,7500,17500,+75%,"+$50,777",,,,,AVDL
+5,,2020-09-01 16:11:46,2020-08-28,AVDL,Glass Geoffrey Michael,Dir,P - Purchase,$6.78,4800,65700,+8%,"+$32,560",,,,,AVDL
+6,,2020-08-17 18:59:29,2020-08-13,AVDL,McHugh Thomas S,CFO,P - Purchase,$7.78,10000,10000,New,"+$77,814",,,,,AVDL
+7,,2020-08-17 18:58:10,2020-08-14,AVDL,Palczuk Linda,Dir,P - Purchase,$7.94,2500,37900,+7%,"+$19,850",,,,,AVDL
+8,,2020-08-17 18:57:33,2020-08-13,AVDL,Ende Eric J,Dir,P - Purchase,$7.79,5000,67900,+8%,"+$38,928",,,,,AVDL
+9,M,2020-08-14 18:11:27,2020-08-12,AVDL,Glass Geoffrey Michael,Dir,P - Purchase,$7.73,13000,60900,+27%,"+$100,490",,,,,AVDL
+10,,2020-08-13 19:40:14,2020-08-12,AVDL,Ende Eric J,Dir,P - Purchase,$7.76,15000,62900,+31%,"+$116,355",,,,,AVDL
+11,,2020-08-13 19:39:37,2020-08-12,AVDL,Divis Gregory J,CEO,P - Purchase,$7.78,13000,99100,+15%,"+$101,156",,,,,AVDL
+12,,2019-12-16 16:21:11,2019-12-12,AVDL,Hatten Sandra L,See Remarks,S - Sale,$7.23,-3072,59165,-5%,"-$22,211",,,,,AVDL
+13,,2019-12-05 16:30:36,2019-12-04,AVDL,Ende Eric J,Dir,P - Purchase,$5.97,10000,47900,+26%,"+$59,700",,,,,AVDL
+14,,2019-12-05 16:29:00,2019-12-03,AVDL,Palczuk Linda,Dir,P - Purchase,$5.91,7500,35400,+27%,"+$44,325",,,,,AVDL
+15,DM,2019-11-19 17:03:13,2019-11-15,AVDL,Glass Geoffrey Michael,Dir,P - Purchase,$4.99,20000,47900,+72%,"+$99,800",,,,,AVDL
+16,D,2019-11-19 17:00:54,2019-11-15,AVDL,Divis Greg J,CEO,P - Purchase,$5.13,19000,86100,+28%,"+$97,470",,,,,AVDL
+17,D,2019-11-19 16:46:53,2019-11-15,AVDL,Ende Eric J,Dir,P - Purchase,$4.98,10000,37900,+36%,"+$49,762",,,,,AVDL
+18,D,2019-05-24 16:08:43,2019-01-31,AVDL,Ende Eric J,Dir,A - Grant,$0.00,27900,27900,New,+$0,,,,,AVDL
+19,D,2019-03-11 19:16:08,2019-03-07,AVDL,Thompson Phillandas T.,See Remarks,A - Grant,$0.00,18000,113671,+19%,+$0,,,,,AVDL
+20,D,2019-03-11 19:10:54,2019-03-07,FLML,Kanan Michael F,See Remarks,A - Grant,$0.00,18000,50538,+55%,+$0,,,,,AVDL
+21,D,2019-03-11 19:07:00,2019-03-07,AVDL,Hatten Sandra L,See Remarks,A - Grant,$0.00,18000,62237,+41%,+$0,,,,,AVDL
+22,D,2019-03-11 19:04:53,2019-03-07,AVDL,Divis Greg J,See Remarks,A - Grant,$0.00,18000,67100,+37%,+$0,,,,,AVDL
+23,,2019-02-04 20:55:41,2019-01-31,AVDL,Kotler Kevin,Dir,A - Grant,$0.00,27900,3130573,+1%,+$0,,,,,AVDL
+24,,2019-02-04 20:49:18,2019-01-31,AVDL,Ende Eric J,Dir,A - Grant,$0.00,27900,27900,New,+$0,,,,,AVDL
+25,D,2018-12-18 16:06:15,2018-12-14,FLML,Kanan Michael F,See Remarks,S - Sale+OE,$2.49,-8429,29538,-22%,"-$21,022",,,,,AVDL
+26,D,2018-12-18 16:04:30,2018-12-14,AVDL,Gusky David P,"Controller, CAO",S - Sale+OE,$2.68,-617,4083,-13%,"-$1,656",,,,,AVDL
+27,D,2018-12-18 16:01:55,2018-12-14,AVDL,Hatten Sandra L,See Remarks,S - Sale+OE,$2.58,-3173,44237,-7%,"-$8,183",,,,,AVDL
+28,D,2018-08-14 20:01:10,2018-08-10,AVDL,Anderson Michael S,CEO,S - Sale+OE,$4.91,-16297,248953,-6%,"-$79,953",,,,,AVDL
+29,D,2018-08-14 20:00:23,2018-08-10,AVDL,Hatten Sandra L,See Remarks,S - Sale+OE,$4.91,-6290,47410,-12%,"-$30,859",,,,,AVDL
+30,D,2018-08-02 16:21:28,2018-08-01,AVDL,Thornton Peter J.,Dir,A - Grant,$0.00,27900,33055,+541%,+$0,,,,,AVDL
+31,D,2018-08-02 16:19:53,2018-08-01,AVDL,Stapleton Craig R,Dir,A - Grant,$0.00,27900,588628,+5%,+$0,,,,,AVDL
+32,,2018-08-02 16:17:11,2018-08-01,AVDL,Palczuk Linda,Dir,A - Grant,$0.00,27900,27900,New,+$0,,,,,AVDL
+33,,2018-08-02 16:15:50,2018-08-01,AVDL,Glass Geoffrey Michael,Dir,A - Grant,$0.00,27900,27900,New,+$0,,,,,AVDL
+34,D,2018-07-11 17:38:41,2018-07-09,AVDL,Van Assche Benoit,Dir,A - Grant,$0.00,26365,26365,New,+$0,,,,,AVDL
+35,D,2018-07-11 17:35:30,2018-07-09,AVDL,Stapleton Craig R,Dir,A - Grant,$0.00,57315,560728,+11%,+$0,,,,,AVDL
+36,D,2018-07-11 17:33:04,2018-07-09,AVDL,Navarre Christophe,Dir,A - Grant,$0.00,26365,26365,New,+$0,,,,,AVDL
+37,D,2018-07-11 17:31:46,2018-07-09,AVDL,Fildes Francis,Dir,A - Grant,$0.00,26365,26365,New,+$0,,,,,AVDL
+38,D,2018-06-29 17:24:27,2018-06-26,FLML,Kanan Michael F,See Remarks,P - Purchase,$5.70,1967,37967,+5%,"+$11,212",,,,,AVDL
+39,D,2018-06-27 19:02:20,2018-06-26,AVDL,Anderson Michael S,CEO,P - Purchase,$6.04,2500,265250,+1%,"+$15,100",,,,,AVDL
+40,D,2018-06-27 19:00:11,2018-06-26,AVDL,Divis Greg J,See Remarks,P - Purchase,$6.00,16000,49100,+48%,"+$96,000",,,,,AVDL
+41,D,2018-06-27 18:58:03,2018-06-26,AVDL,Thompson Phillandas T.,See Remarks,P - Purchase,$5.77,10000,91000,+12%,"+$57,700",,,,,AVDL
+42,,2018-06-25 17:59:10,2018-06-25,AVDL,Flynn James E,"*Possible member of 10% group, 10%",S - Sale,$5.99,-114034,3674506,-3%,"-$683,315",,,,,AVDL
+43,D,2018-05-29 17:15:32,2018-05-24,AVDL,Anderson Michael S,CEO,P - Purchase,$6.44,3000,262750,+1%,"+$19,320",,,,,AVDL
+44,D,2018-03-05 18:42:36,2017-12-12,AVDL,Gusky David P,"Controller, CAO",A - Grant,$0.00,2700,4700,+135%,+$0,,,,,AVDL
+45,AD,2017-12-19 19:47:31,2017-12-15,AVDL,Stapleton Craig R,Dir,P - Purchase,$8.67,140000,503413,+39%,"+$1,213,940",,,,,AVDL
+46,D,2017-12-19 16:09:34,2017-12-15,AVDL,Stapleton Craig R,Dir,A - Grant,$8.67,140000,503413,+39%,"+$1,213,940",,,,,AVDL
+47,D,2017-12-14 16:18:22,2017-12-12,FLML,Kanan Michael F,See Remarks,A - Grant,$0.00,18000,36000,+100%,+$0,,,,,AVDL
+48,D,2017-12-14 16:16:47,2017-12-12,AVDL,Hatten Sandra L,See Remarks,A - Grant,$0.00,12500,53700,+30%,+$0,,,,,AVDL
+49,D,2017-12-14 16:15:25,2017-12-12,AVDL,Divis Greg J,See Remarks,A - Grant,$0.00,22500,33100,+212%,+$0,,,,,AVDL
+50,D,2017-12-14 16:08:32,2017-12-12,AVDL,Thompson Phillandas T.,See Remarks,A - Grant,$0.00,18000,81000,+29%,+$0,,,,,AVDL
+51,D,2017-12-14 16:06:22,2017-12-12,AVDL,Anderson Michael S,CEO,A - Grant,$0.00,25000,259750,+11%,+$0,,,,,AVDL
+52,D,2017-12-11 16:10:49,2017-12-07,AVDL,Anderson Michael S,CEO,P - Purchase,$8.86,5000,234750,+2%,"+$44,295",,,,,AVDL
+53,D,2017-11-29 16:35:20,2017-11-27,AVDL,Stapleton Craig R,Dir,S - Sale+OE,$9.35,-254265,363413,-41%,"-$2,377,632",,,,,AVDL
+54,D,2017-09-25 16:58:43,2017-09-21,AVDL,Thornton Peter J.,Dir,P - Purchase,$9.74,5155,5155,New,"+$50,215",,,,,AVDL
+55,DM,2017-09-15 16:15:54,2017-09-12,AVDL,Hatten Sandra L,See Remarks,P - Purchase,$9.25,6000,41200,+17%,"+$55,525",,,,,AVDL
+56,D,2017-09-14 17:09:15,2017-09-13,AVDL,Thompson Phillandas T.,See Remarks,P - Purchase,$9.36,5000,63000,+9%,"+$46,800",,,,,AVDL
+57,D,2017-09-14 17:06:06,2017-09-12,AVDL,Stapleton Craig R,Dir,P - Purchase,$9.52,20000,633878,+3%,"+$190,360",,,,,AVDL
+58,D,2017-09-14 17:03:05,2017-09-12,AVDL,Divis Greg J,See Remarks,P - Purchase,$9.32,10600,10600,New,"+$98,760",,,,,AVDL
+59,D,2017-09-14 16:58:56,2017-09-12,AVDL,Anderson Michael S,CEO,P - Purchase,$9.80,4000,229750,+2%,"+$39,180",,,,,AVDL
+60,AD,2017-06-30 16:07:53,2017-01-03,AVDL,Fildes Francis,Dir,A - Grant,$0.00,15000,0,-100%,+$0,,,,,AVDL
+61,AD,2017-06-30 16:07:53,2017-01-03,AVDL,Fildes Francis,Dir,D - Sale to issuer,$0.00,-15000,0,-100%,-$0,,,,,AVDL
+62,M,2017-06-26 16:45:10,2017-06-22,AVDL,Broadfin Healthcare Master Fund Ltd,10%,S - Sale,$10.68,-261000,4133464,-6%,"-$2,786,600",,,,,AVDL
+63,D,2017-06-19 16:07:20,2017-06-15,AVDL,Cerutti Guillaume,Dir,S - Sale+OE,$10.46,-26560,23440,-53%,"-$277,818",,,,,AVDL
+64,D,2017-05-22 18:20:25,2017-05-19,AVDL,Anderson Michael S,CEO,P - Purchase,$10.00,2500,225750,+1%,"+$25,000",,,,,AVDL
+65,DM,2017-05-22 18:17:05,2017-05-18,AVDL,Stapleton Craig R,Dir,P - Purchase,$9.85,31013,613878,+5%,"+$305,327",,,,,AVDL
+66,DM,2017-05-18 16:43:42,2017-05-16,AVDL,Stapleton Craig R,Dir,A - Grant,$9.96,15570,582865,+3%,"+$155,093",,,,,AVDL
+67,DM,2017-05-16 16:20:33,2017-05-12,AVDL,Stapleton Craig R,Dir,A - Grant,$10.00,3417,567295,+1%,"+$34,170",,,,,AVDL
+68,D,2017-04-05 18:52:09,2017-04-04,AVDL,Stapleton Craig R,Dir,A - Grant,$9.58,15000,563878,+3%,"+$143,643",0.0,0.0,-6.0,,AVDL
+69,AD,2017-02-24 16:47:45,2017-01-03,AVDL,Stapleton Craig R,Dir,A - Grant,$0.00,548878,548878,New,+$0,5.0,4.0,-10.0,,AVDL
+70,AD,2017-02-24 16:45:21,2017-01-03,AVDL,Hatten Sandra L,See Remarks,A - Grant,$0.00,35200,35200,New,+$0,5.0,4.0,-10.0,,AVDL
+71,AD,2017-02-24 16:42:48,2017-01-03,AVDL,Fildes Francis,Dir,A - Grant,$0.00,15000,15000,New,+$0,5.0,4.0,-10.0,,AVDL
+72,AD,2017-02-24 16:42:48,2017-01-03,AVDL,Fildes Francis,Dir,D - Sale to issuer,$0.00,-15000,15000,-50%,-$0,5.0,4.0,-10.0,,AVDL
+73,AD,2017-02-24 16:40:55,2017-01-03,AVDL,Cerutti Guillaume,Dir,A - Grant,$0.00,50000,50000,New,+$0,5.0,4.0,-10.0,,AVDL
+74,AD,2017-02-15 17:01:07,2017-01-03,AVDL,Macke Scott A.,See Remarks,A - Grant,$0.00,56000,56000,New,+$0,0.0,3.0,2.0,,AVDL
+75,AD,2017-01-13 16:44:20,2017-01-03,AVDL,Thompson Phillandas T.,See Remarks,A - Grant,$0.00,58000,58000,New,+$0,-3.0,3.0,-5.0,,AVDL
+76,AD,2017-01-13 16:42:55,2017-01-03,AVDL,Sullivan Stephen G.,See Remarks,A - Grant,$0.00,10000,10000,New,+$0,-3.0,3.0,-5.0,,AVDL
+77,AD,2017-01-13 16:41:20,2017-01-03,AVDL,Stapleton Craig R,Dir,A - Grant,$0.00,548878,548878,New,+$0,-3.0,3.0,-5.0,,AVDL
+78,AD,2017-01-13 16:37:20,2017-01-03,AVDL,Monteith David,See Remarks,A - Grant,$0.00,32500,32500,New,+$0,-3.0,3.0,-5.0,,AVDL
+79,AD,2017-01-13 16:36:26,2017-01-03,AVDL,Macke Scott A.,See Remarks,A - Grant,$0.00,52000,52000,New,+$0,-3.0,3.0,-5.0,,AVDL
+80,AD,2017-01-13 16:35:09,2017-01-03,AVDL,Kanan Michael F,See Remarks,A - Grant,$0.00,18000,18000,New,+$0,-3.0,3.0,-5.0,,AVDL
+81,AD,2017-01-13 16:34:19,2017-01-03,AVDL,Hatten Sandra L,See Remarks,A - Grant,$0.00,33000,33000,New,+$0,-3.0,3.0,-5.0,,AVDL
+82,AD,2017-01-13 16:33:29,2017-01-03,AVDL,Gusky David P,See Remarks,A - Grant,$0.00,2000,2000,New,+$0,-3.0,3.0,-5.0,,AVDL
+83,AD,2017-01-13 16:32:40,2017-01-03,AVDL,Fildes Francis,Dir,A - Grant,$0.00,15000,15000,New,+$0,-3.0,3.0,-5.0,,AVDL
+84,AD,2017-01-13 16:31:52,2017-01-03,AVDL,Elrod Marcus W,See Remarks,A - Grant,$0.00,3400,3400,New,+$0,-3.0,3.0,-5.0,,AVDL
+85,AD,2017-01-13 16:30:52,2017-01-03,AVDL,D'Silva Dhiren,See Remarks,A - Grant,$0.00,15000,15000,New,+$0,-3.0,3.0,-5.0,,AVDL
+86,AD,2017-01-13 16:30:02,2017-01-03,AVDL,Davis Gregory J.,See Remarks,A - Grant,$0.00,30000,30000,New,+$0,-3.0,3.0,-5.0,,AVDL
+87,AD,2017-01-13 16:29:07,2017-01-03,AVDL,Cerutti Guillaume,Dir,A - Grant,$0.00,50000,50000,New,+$0,-3.0,3.0,-5.0,,AVDL
+88,AD,2017-01-13 16:28:03,2017-01-03,AVDL,Anderson Michael S,CEO,A - Grant,$0.00,223250,223250,New,+$0,-3.0,3.0,-5.0,,AVDL
+89,,2017-01-06 09:55:41,2017-01-03,AVDL,Broadfin Healthcare Master Fund Ltd,10%,D - Sale to issuer,$0.00,-4394464,0,-100%,-$0,-7.0,-13.0,-15.0,,AVDL
+90,D,2017-01-03 19:47:10,2017-01-03,AVDL,Gusky David P,See Remarks,A - Grant,$0.00,2000,2000,New,+$0,-2.0,-5.0,-16.0,,AVDL
+91,D,2017-01-03 19:42:17,2017-01-03,AVDL,Hatten Sandra L,See Remarks,A - Grant,$0.00,33000,33000,New,+$0,-2.0,-5.0,-16.0,,AVDL
+92,D,2017-01-03 19:39:44,2017-01-03,AVDL,Thompson Phillandas T.,See Remarks,A - Grant,$0.00,58000,58000,New,+$0,-2.0,-5.0,-16.0,,AVDL
+93,D,2017-01-03 19:35:42,2017-01-03,AVDL,Sullivan Stephen G.,See Remarks,A - Grant,$0.00,10000,10000,New,+$0,-2.0,-5.0,-16.0,,AVDL
+94,D,2017-01-03 19:34:55,2017-01-03,AVDL,Fildes Francis,Dir,A - Grant,$0.00,15000,15000,New,+$0,-2.0,-5.0,-16.0,,AVDL
+95,D,2017-01-03 19:32:46,2017-01-03,AVDL,Davis Gregory J.,See Remarks,A - Grant,$0.00,30000,30000,New,+$0,-2.0,-5.0,-16.0,,AVDL
+96,D,2017-01-03 19:29:33,2017-01-03,AVDL,Elrod Marcus W,See Remarks,A - Grant,$0.00,3400,3400,New,+$0,-2.0,-5.0,-16.0,,AVDL
+97,D,2017-01-03 19:23:50,2017-01-03,AVDL,Monteith David,See Remarks,A - Grant,$0.00,32500,32500,New,+$0,-2.0,-5.0,-16.0,,AVDL
+98,D,2017-01-03 19:21:45,2017-01-03,AVDL,Stapleton Craig R,Dir,A - Grant,$0.00,548878,548878,New,+$0,-2.0,-5.0,-16.0,,AVDL
+99,D,2017-01-03 19:09:07,2017-01-03,AVDL,D'Silva Dhiren,See Remarks,A - Grant,$0.00,15000,15000,New,+$0,-2.0,-5.0,-16.0,,AVDL
+100,D,2017-01-03 19:02:30,2017-01-03,AVDL,Macke Scott A.,See Remarks,A - Grant,$0.00,52000,52000,New,+$0,-2.0,-5.0,-16.0,,AVDL
+101,D,2017-01-03 18:56:19,2017-01-03,AVDL,Kanan Michael F,See Remarks,A - Grant,$0.00,18000,18000,New,+$0,-2.0,-5.0,-16.0,,AVDL
+102,D,2017-01-03 18:52:59,2017-01-03,AVDL,Cerutti Guillaume,Dir,A - Grant,$0.00,50000,50000,New,+$0,-2.0,-5.0,-16.0,,AVDL
+103,D,2017-01-03 18:50:02,2017-01-03,AVDL,Anderson Michael S,CEO,A - Grant,$0.00,223250,223250,New,+$0,-2.0,-5.0,-16.0,,AVDL
+104,D,2017-01-03 15:55:43,2016-12-31,AVDL,Hatten Sandra L,See Remarks,D - Sale to issuer,$0.00,-33000,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+105,D,2017-01-03 15:43:58,2016-12-31,AVDL,Gusky David P,See Remarks,D - Sale to issuer,$0.00,-2000,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+106,D,2017-01-03 15:41:11,2016-12-31,AVDL,Macke Scott A.,See Remarks,D - Sale to issuer,$0.00,-52000,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+107,D,2017-01-03 15:31:41,2016-12-31,AVDL,Davis Gregory J.,See Remarks,D - Sale to issuer,$0.00,-30000,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+108,D,2017-01-03 15:22:02,2016-12-31,AVDL,Sullivan Stephen G.,See Remarks,D - Sale to issuer,$0.00,-10000,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+109,D,2017-01-03 14:55:57,2016-12-31,AVDL,Thompson Phillandas T.,See Remarks,D - Sale to issuer,$0.00,-58000,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+110,D,2017-01-03 14:51:32,2016-12-31,AVDL,Anderson Michael S,CEO,D - Sale to issuer,$0.00,-223250,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+111,D,2017-01-03 14:45:43,2016-12-31,AVDL,Stapleton Craig R,Dir,D - Sale to issuer,$0.00,-548878,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+112,D,2017-01-03 14:35:54,2016-12-31,AVDL,Monteith David,See Remarks,D - Sale to issuer,$0.00,-32500,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+113,D,2017-01-03 14:24:45,2016-12-31,AVDL,Fildes Francis,Dir,D - Sale to issuer,$0.00,-15000,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+114,D,2017-01-03 14:21:01,2016-12-31,AVDL,D'Silva Dhiren,See Remarks,D - Sale to issuer,$0.00,-15000,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+115,D,2017-01-03 14:16:41,2016-12-31,AVDL,Cerutti Guillaume,Dir,D - Sale to issuer,$0.00,-50000,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+116,D,2017-01-03 13:53:41,2016-12-31,AVDL,Kanan Michael F,See Remarks,D - Sale to issuer,$0.00,-18000,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+117,D,2017-01-03 13:29:43,2016-12-31,AVDL,Elrod Marcus W,See Remarks,D - Sale to issuer,$0.00,-3400,0,-100%,-$0,8.0,4.0,-8.0,,AVDL
+118,D,2016-12-20 16:05:46,2016-12-19,FLML,Stapleton Craig R,Dir,G - Gift,$0.00,-70200,548878,+15%,-$0,1.0,-2.0,,,AVDL
+119,AD,2016-12-16 21:44:18,2016-12-14,FLML,Sullivan Stephen G.,See Remarks,A - Grant,$0.00,10000,10000,New,+$0,-2.0,-3.0,,,AVDL
+120,AD,2016-12-16 21:42:42,2016-12-14,FLML,Monteith David,See Remarks,A - Grant,$0.00,15000,32500,+86%,+$0,-2.0,-3.0,,,AVDL
+121,AD,2016-12-16 21:41:24,2016-12-14,FLML,Macke Scott A.,See Remarks,A - Grant,$0.00,10000,52000,+24%,+$0,-2.0,-3.0,,,AVDL
+122,AD,2016-12-16 21:38:47,2016-12-14,FLML,D'Silva Dhiren,See Remarks,A - Grant,$0.00,15000,15000,New,+$0,-2.0,-3.0,,,AVDL
+123,AD,2016-12-16 21:36:41,2016-12-14,FLML,Davis Gregory J.,See Remarks,A - Grant,$0.00,10000,30000,+50%,+$0,-2.0,-3.0,,,AVDL
+124,AD,2016-12-16 21:30:07,2016-12-14,FLML,Hatten Sandra L,See Remarks,A - Grant,$0.00,10000,33000,+43%,+$0,-2.0,-3.0,,,AVDL
+125,AD,2016-12-16 21:27:32,2016-12-14,FLML,Kanan Michael F,See Remarks,A - Grant,$0.00,18000,18000,New,+$0,-2.0,-3.0,,,AVDL
+126,AD,2016-12-16 21:19:40,2016-12-14,FLML,Anderson Michael S,CEO,A - Grant,$0.00,30000,223250,+16%,+$0,-2.0,-3.0,,,AVDL
+127,AD,2016-12-16 21:13:07,2016-12-14,FLML,Elrod Marcus W,See Remarks,A - Grant,$0.00,3400,3400,New,+$0,-2.0,-3.0,,,AVDL
+128,D,2016-12-16 21:05:54,2016-12-14,FLML,Gusky David P,See Remarks,A - Grant,$0.00,2000,2000,New,+$0,-2.0,-3.0,,,AVDL
+129,D,2016-12-16 17:22:03,2016-12-14,FLML,Anderson Michael S,See Remarks,A - Grant,$0.00,18000,58000,+45%,+$0,-2.0,-3.0,,,AVDL
+130,D,2016-12-16 17:21:17,2016-12-14,FLML,Davis Gregory J.,See Remarks,A - Grant,$0.00,18000,58000,+45%,+$0,-2.0,-3.0,,,AVDL
+131,D,2016-12-16 17:20:36,2016-12-14,FLML,D'Silva Dhiren,See Remarks,A - Grant,$0.00,18000,58000,+45%,+$0,-2.0,-3.0,,,AVDL
+132,D,2016-12-16 17:19:05,2016-12-14,FLML,Elrod Marcus W,See Remarks,A - Grant,$0.00,18000,58000,+45%,+$0,-2.0,-3.0,,,AVDL
+133,D,2016-12-16 17:17:29,2016-12-14,FLML,Hatten Sandra L,See Remarks,A - Grant,$0.00,18000,58000,+45%,+$0,-2.0,-3.0,,,AVDL
+134,D,2016-12-16 17:16:04,2016-12-14,FLML,Kanan Michael F,See Remarks,A - Grant,$0.00,18000,58000,+45%,+$0,-2.0,-3.0,,,AVDL
+135,D,2016-12-16 17:15:12,2016-12-14,FLML,Macke Scott A.,See Remarks,A - Grant,$0.00,18000,58000,+45%,+$0,-2.0,-3.0,,,AVDL
+136,D,2016-12-16 17:14:09,2016-12-14,FLML,Monteith David,See Remarks,A - Grant,$0.00,18000,58000,+45%,+$0,-2.0,-3.0,,,AVDL
+137,D,2016-12-16 17:12:37,2016-12-14,FLML,Sullivan Stephen G.,See Remarks,A - Grant,$0.00,18000,58000,+45%,+$0,-2.0,-3.0,,,AVDL
+138,D,2016-12-16 17:08:22,2016-12-14,FLML,Thompson Phillandas T.,See Remarks,A - Grant,$0.00,18000,58000,+45%,+$0,-2.0,-3.0,,,AVDL
+139,DM,2016-11-30 16:18:08,2016-11-28,FLML,Stapleton Craig R,Dir,P - Purchase,$10.79,20000,559678,+4%,"+$215,870",1.0,-1.0,-5.0,,AVDL
+140,D,2016-11-22 17:01:37,2016-11-21,FLML,Anderson Michael S,CEO,P - Purchase,$10.64,2000,193250,+1%,"+$21,274",1.0,3.0,-2.0,,AVDL
+141,D,2016-09-23 16:44:32,2016-09-22,FLML,Fildes Francis,Dir,S - Sale+OE,$13.45,-15000,15000,-50%,"-$201,750",-3.0,-12.0,-11.0,,AVDL
+142,D,2016-09-07 18:58:36,2016-09-02,FLML,Anderson Michael S,CEO,P - Purchase,$14.12,2000,191250,+1%,"+$28,240",-1.0,-7.0,-12.0,,AVDL
+143,D,2016-09-06 17:27:56,2016-09-01,FLML,Stapleton Craig R,Dir,P - Purchase,$13.52,10000,539678,+2%,"+$135,190",4.0,-4.0,-8.0,,AVDL
+144,D,2016-08-29 16:11:27,2016-08-26,FLML,Stapleton Craig R,Dir,P - Purchase,$13.76,20000,529678,+4%,"+$275,140",0.0,1.0,-7.0,,AVDL
+145,D,2016-08-22 16:53:18,2016-08-22,FLML,Anderson Michael S,CEO,P - Purchase,$14.30,5000,189250,+3%,"+$71,479",3.0,-5.0,-4.0,,AVDL
+146,D,2016-08-12 17:18:16,2016-08-10,FLML,Thompson Phillandas T.,See Remarks,A - Grant,$0.00,20000,40000,+100%,+$0,0.0,7.0,2.0,,AVDL
+147,D,2016-08-12 17:17:41,2016-08-10,FLML,Monteith David,See Remarks,A - Grant,$0.00,15000,17500,+600%,+$0,0.0,7.0,2.0,,AVDL
+148,D,2016-08-12 17:17:09,2016-08-10,FLML,Macke Scott A.,See Remarks,A - Grant,$0.00,15000,42000,+56%,+$0,0.0,7.0,2.0,,AVDL
+149,D,2016-08-12 17:16:43,2016-08-10,FLML,Hatten Sandra L,See Remarks,A - Grant,$0.00,20000,23000,+667%,+$0,0.0,7.0,2.0,,AVDL
+150,D,2016-08-12 17:16:15,2016-08-10,FLML,Davis Gregory J.,See Remarks,A - Grant,$0.00,20000,20000,New,+$0,0.0,7.0,2.0,,AVDL
+151,D,2016-08-12 17:15:44,2016-08-10,FLML,Anderson Michael S,CEO,A - Grant,$0.00,50000,184250,+37%,+$0,0.0,7.0,2.0,,AVDL
+152,DM,2016-05-16 16:40:54,2016-05-13,FLML,Stapleton Craig R,Dir,P - Purchase,$9.21,27228,509678,+6%,"+$250,891",6.0,6.0,5.0,18.0,AVDL
+153,D,2016-05-16 16:39:12,2016-05-12,FLML,Anderson Michael S,CEO,P - Purchase,$8.84,5000,134250,+4%,"+$44,200",6.0,6.0,5.0,18.0,AVDL
+154,D,2016-03-22 18:38:21,2016-03-22,FLML,Thompson Phillandas T.,See Remarks,P - Purchase,$11.10,10000,20000,+100%,"+$111,030",-2.0,-4.0,4.0,23.0,AVDL
+155,D,2016-03-21 12:45:13,2016-03-18,FLML,Anderson Michael S,CEO,P - Purchase,$11.04,5000,129250,+4%,"+$55,220",4.0,-2.0,6.0,25.0,AVDL
+156,D,2016-03-21 12:44:36,2016-03-18,FLML,Hatten Sandra L,"SVP, Quality, Reg Affairs",P - Purchase,$11.01,3000,3000,New,"+$33,030",4.0,-2.0,6.0,25.0,AVDL
+157,D,2016-03-16 16:48:28,2016-03-14,FLML,Stapleton Craig R,Dir,P - Purchase,$10.39,100000,482450,+26%,"+$1,039,400",7.0,8.0,9.0,31.0,AVDL
+158,D,2016-03-16 16:46:22,2016-03-14,FLML,Anderson Michael S,Chief Exec Office,P - Purchase,$9.74,10000,124250,+9%,"+$97,350",7.0,8.0,9.0,31.0,AVDL
+159,,2003-10-03 17:46:28,2003-10-02,FLML,Nohra Guy P,See Footnotes,D - Sale to issuer,$33.25,-1900000,275000,-87%,"-$63,175,000",8.0,3.0,-29.0,-21.0,AVDL
+160,,2003-10-03 16:41:55,2003-10-02,FLML,Alta Partners,10%,D - Sale to issuer,$33.25,-1900000,275000,-87%,"-$63,175,000",8.0,3.0,-29.0,-21.0,AVDL
+161,,2003-09-17 19:07:16,2003-08-27,FLML,Alta Partners,10%,X - OptEx,$6.48,1425000,2175000,-40%,"$9,234,000",5.0,1.0,-21.0,-39.0,AVDL
+162,,2003-09-17 19:05:31,2003-08-27,FLML,Marduel Alix,10%,X - OptEx,$6.48,1425000,2175000,-40%,"$9,234,000",5.0,1.0,-21.0,-39.0,AVDL

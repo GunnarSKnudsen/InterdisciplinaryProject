@@ -1,6 +1,37 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2018-12-31 11:36:22,2018-12-28,SRAX,Miglino Christopher,CEO,P - Purchase,1.83,80000,1127575,+8%,146528.0,,,,,SRAX
-1,,2018-12-27 13:00:30,2018-12-26,SRAX,Miglino Christopher,CEO,P - Purchase,1.6,10000,1047575,+1%,16000.0,,,,,SRAX
-2,,2018-12-26 17:00:23,2018-12-20,SRAX,Miglino Christopher,CEO,P - Purchase,2.03,10000,1037575,+1%,20300.0,,,,,SRAX
-3,,2018-12-20 09:00:36,2018-12-19,SRAX,Miglino Christopher,CEO,P - Purchase,2.35,10000,1027575,+1%,23500.0,,,,,SRAX
-4,,2018-12-18 13:06:27,2018-12-17,SRAX,Miglino Christopher,CEO,P - Purchase,2.5,10000,1017575,+1%,25000.0,,,,,SRAX
+0,D,2022-02-04 20:43:24,2021-12-31,SRAX,Malone Michael,CFO,F - Tax,4.49,-73748,28836,-72%,-331129.0,,,,,SRAX
+1,D,2022-02-04 20:43:24,2021-12-31,SRAX,Malone Michael,CFO,M - OptEx,2.56,100000,28836,-141%,256000.0,,,,,SRAX
+2,,2020-01-03 17:02:50,2019-12-31,SRAX,Miglino Christopher,CEO,G - Gift,0.0,-40000,887575,-4%,-0.0,,,,,SRAX
+3,,2018-12-31 11:36:22,2018-12-28,SRAX,Miglino Christopher,CEO,P - Purchase,1.83,80000,1127575,+8%,146528.0,,,,,SRAX
+4,,2018-12-27 13:00:30,2018-12-26,SRAX,Miglino Christopher,CEO,P - Purchase,1.6,10000,1047575,+1%,16000.0,,,,,SRAX
+5,,2018-12-26 17:00:23,2018-12-20,SRAX,Miglino Christopher,CEO,P - Purchase,2.03,10000,1037575,+1%,20300.0,,,,,SRAX
+6,,2018-12-20 09:00:36,2018-12-19,SRAX,Miglino Christopher,CEO,P - Purchase,2.35,10000,1027575,+1%,23500.0,,,,,SRAX
+7,,2018-12-18 13:06:27,2018-12-17,SRAX,Miglino Christopher,CEO,P - Purchase,2.5,10000,1017575,+1%,25000.0,,,,,SRAX
+8,D,2018-04-19 18:09:48,2018-01-24,SRAX,Savas Marc,Dir,A - Grant,0.0,3774,11945,+46%,0.0,,,,,SRAX
+9,D,2018-04-19 18:08:33,2018-01-24,SRAX,Casselle Malcolm Westley,Dir,A - Grant,0.0,3774,65946,+6%,0.0,,,,,SRAX
+10,AD,2017-11-16 17:21:21,2017-10-25,SRAX,Hannan Joseph Patrick,CFO,A - Grant,4.9,20409,84159,+32%,100004.0,,,,,SRAX
+11,AD,2017-11-16 17:21:21,2017-10-17,SRAX,Hannan Joseph Patrick,CFO,M - OptEx,0.0,50000,84159,+146%,0.0,,,,,SRAX
+12,D,2017-11-01 09:53:10,2017-10-25,SRAX,Hannan Joseph Patrick,CFO,A - Grant,4.9,20409,84159,+32%,100004.0,,,,,SRAX
+13,D,2017-11-01 09:53:10,2017-10-17,SRAX,Hannan Joseph Patrick,CFO,M - OptEx,0.0,50000,84159,+146%,0.0,,,,,SRAX
+14,,2017-08-21 16:15:22,2017-08-21,SRAX,Hannan Joseph Patrick,CFO,P - Purchase,1.38,10000,13750,+267%,13800.0,,,,,SRAX
+15,,2017-02-02 14:07:51,2017-01-19,SRAX,Ferguson Derek James,Dir,A - Grant,3.24,3848,3848,New,12468.0,-8.0,-3.0,-26.0,,SRAX
+16,,2016-12-05 17:00:29,2016-12-01,SRAX,Miglino Christopher,"CEO, 10%",C - Converted deriv,3.75,66667,1007575,-6%,250001.0,3.0,3.0,-22.0,,SRAX
+17,M,2016-11-21 16:21:21,2016-11-18,SRAX,Hannan Joseph Patrick,CFO,P - Purchase,6.24,3750,3750,New,23400.0,0.0,3.0,-2.0,,SRAX
+18,,2016-08-18 15:29:58,2016-08-16,SCRI,Savas Marc,Dir,A - Grant,0.0,1923,40852,+5%,0.0,,,,,SRAX
+19,,2016-08-18 07:41:12,2016-08-16,SCRI,Casselle Malcolm Westley,Dir,A - Grant,0.0,1923,310852,+1%,0.0,,,,,SRAX
+20,,2016-08-17 19:44:33,2016-08-16,SCRI,Dillman Rodney J,Dir,A - Grant,0.0,1923,9066,+27%,0.0,,,,,SRAX
+21,,2016-03-21 16:05:53,2016-03-18,SCRI,Sumichrast Martin A.,"Dir, 10%",P - Purchase,1.25,8929,3936429,0%,11161.0,,,,,SRAX
+22,,2016-03-21 16:05:53,2016-03-18,SCRI,Sumichrast Martin A.,"Dir, 10%",S - Sale,1.25,-8929,3936429,0%,-11161.0,,,,,SRAX
+23,AM,2016-03-08 09:05:00,2013-08-16,SCRI,Casselle Malcolm Westley,Dir,A - Grant,0.0,308929,308929,New,0.0,,,,,SRAX
+24,M,2016-03-02 16:44:41,2013-08-16,SCRI,Casselle Malcolm Westley,Dir,A - Grant,0.0,307143,307143,New,0.0,,,,,SRAX
+25,,2016-02-24 17:07:05,2016-02-23,SCRI,Sumichrast Martin A.,"Dir, 10%",A - Grant,0.0,8929,7863929,0%,0.0,,,,,SRAX
+26,,2016-02-24 17:07:05,2016-01-28,SCRI,Sumichrast Martin A.,"Dir, 10%",P - Purchase,1.0,117500,7863929,+2%,117500.0,,,,,SRAX
+27,,2016-02-24 17:04:24,2016-01-28,SCRI,Siskey Richard C,10%,P - Purchase,1.0,117500,3927500,+3%,117500.0,,,,,SRAX
+28,,2016-02-24 16:24:55,2016-01-28,SCRI,Savas Marc,Dir,A - Grant,0.0,8929,38929,+30%,0.0,,,,,SRAX
+29,,2016-02-24 16:24:55,2016-01-28,SCRI,Savas Marc,Dir,P - Purchase,1.0,30000,38929,+336%,30000.0,,,,,SRAX
+30,,2016-01-05 17:30:55,2015-12-31,SCRI,Deruggiero Erin,"Chief Innovations Officer, 10%",G - Gift,0.0,-160000,2573333,-6%,-0.0,,,,,SRAX
+31,,2015-12-30 16:03:57,2015-12-28,SCRI,Miglino Christopher,"CEO, 10%",G - Gift,0.0,-73794,10926206,-1%,-0.0,,,,,SRAX
+32,,2014-12-03 16:14:49,2014-12-02,SCRI,Sumichrast Martin A.,10%,C - Converted deriv,0.0,350000,800000,-30%,0.0,,,,,SRAX
+33,,2014-12-03 16:13:38,2014-12-02,SCRI,Siskey Richard C,10%,C - Converted deriv,0.0,350000,800000,-30%,0.0,,,,,SRAX
+34,D,2013-10-08 17:13:55,2013-10-04,SCRI,Miglino Christopher,"CEO, 10%",C - Converted deriv,0.0,5500000,5500000,-50%,0.0,,,,,SRAX
+35,D,2013-10-08 17:12:16,2013-10-04,SCRI,Deruggiero Erin,"CMO, 10%",C - Converted deriv,0.0,3500000,3500000,-50%,0.0,,,,,SRAX

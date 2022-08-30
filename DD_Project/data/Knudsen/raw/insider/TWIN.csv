@@ -1,5 +1,595 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2020-05-14 16:16:58,2020-05-13,TWIN,Doar Michael,Dir,P - Purchase,$6.25,10000,56819,+21%,"+$62,520",,,,,TWIN
-1,,2020-05-11 16:05:30,2020-05-08,TWIN,Rayburn David B,Dir,P - Purchase,$6.39,10000,73793,+16%,"+$63,880",,,,,TWIN
-2,M,2020-05-08 15:48:15,2020-05-06,TWIN,Rayburn David B,Dir,P - Purchase,$6.43,10000,63793,+19%,"+$64,308",,,,,TWIN
-3,,2019-02-25 16:10:51,2019-02-21,TWIN,Moore Malcolm F,EVP-Operations,S - Sale,$18.00,-3000,46257,-6%,"-$54,000",,,,,TWIN
+0,,2022-02-17 21:01:38,2022-02-07,TWIN,Larimer Juliann,Dir,A - Grant,$0.00,4642,4642,New,+$0,,,,,TWIN
+1,,2022-02-02 18:02:47,2022-02-01,TWIN,Stratton Harold M II,Dir,A - Grant,$11.71,907,68835,+1%,"+$10,625",,,,,TWIN
+2,,2022-02-02 18:01:49,2022-02-01,TWIN,Johnson David W,Dir,A - Grant,$11.71,667,42180,+2%,"+$7,813",,,,,TWIN
+3,,2022-02-02 18:00:40,2022-02-01,TWIN,Doar Michael,Dir,A - Grant,$11.71,1334,83639,+2%,"+$15,626",,,,,TWIN
+4,,2021-11-01 16:04:09,2021-11-01,TWIN,Doar Michael,Dir,A - Grant,$11.86,1317,82305,+2%,"+$15,620",,,,,TWIN
+5,,2021-11-01 16:02:09,2021-11-01,TWIN,Johnson David W,Dir,A - Grant,$11.86,659,41513,+2%,"+$7,816",,,,,TWIN
+6,,2021-11-01 16:00:33,2021-11-01,TWIN,Stratton Harold M II,Dir,A - Grant,$11.86,896,67928,+1%,"+$10,627",,,,,TWIN
+7,,2021-10-29 13:40:26,2021-10-28,TWIN,Giesselman Janet Plaut,Dir,A - Grant,$11.18,6484,38646,+20%,"+$72,498",,,,,TWIN
+8,,2021-10-29 13:37:37,2021-10-28,TWIN,Johnson David W,Dir,A - Grant,$11.18,6484,40854,+19%,"+$72,498",,,,,TWIN
+9,,2021-10-29 13:36:13,2021-10-28,TWIN,Rayburn David B,Dir,A - Grant,$11.18,6484,93573,+7%,"+$72,498",,,,,TWIN
+10,,2021-10-29 13:34:23,2021-10-28,TWIN,Smiley Michael C,Dir,A - Grant,$11.18,6484,50781,+15%,"+$72,498",,,,,TWIN
+11,,2021-10-29 13:32:48,2021-10-28,TWIN,Stratton Harold M II,Dir,A - Grant,$11.18,6484,67032,+11%,"+$72,498",,,,,TWIN
+12,,2021-10-29 13:30:28,2021-10-28,TWIN,Doar Michael,Dir,A - Grant,$11.18,6484,80988,+9%,"+$72,498",,,,,TWIN
+13,D,2021-08-26 14:28:00,2021-08-24,TWIN,Batten John H,"CEO, 10%",A - Grant,$0.00,18476,858752,+2%,+$0,,,,,TWIN
+14,D,2021-08-26 14:28:00,2021-08-24,TWIN,Batten John H,"CEO, 10%",F - Tax,$12.90,-8684,858752,-1%,"-$111,980",,,,,TWIN
+15,,2021-08-03 15:45:50,2021-08-02,TWIN,Feiertag James E,"Pres, COO",F - Tax,$14.66,-3629,45996,-7%,"-$53,212",,,,,TWIN
+16,,2021-08-03 15:43:09,2021-08-02,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",A - Grant,$0.00,6060,87378,+7%,+$0,,,,,TWIN
+17,,2021-08-03 15:43:09,2021-08-02,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",F - Tax,$14.66,-2843,87378,-3%,"-$41,687",,,,,TWIN
+18,,2021-08-02 16:16:54,2021-08-02,TWIN,Stratton Harold M II,Dir,A - Grant,$14.49,733,60548,+1%,"+$10,622",,,,,TWIN
+19,,2021-08-02 16:09:48,2021-08-02,TWIN,Doar Michael,Dir,A - Grant,$14.49,1078,74504,+1%,"+$15,621",,,,,TWIN
+20,,2021-08-02 16:06:02,2021-08-02,TWIN,Johnson David W,Dir,A - Grant,$14.49,539,34370,+2%,"+$7,811",,,,,TWIN
+21,,2021-05-03 12:31:17,2021-04-30,TWIN,Doar Michael,Dir,A - Grant,$10.10,1547,73426,+2%,"+$15,623",,,,,TWIN
+22,,2021-02-02 16:09:22,2021-02-01,TWIN,Doar Michael,Dir,A - Grant,$8.86,1764,71879,+3%,"+$15,626",,,,,TWIN
+23,,2020-10-30 16:17:13,2020-10-29,TWIN,Smiley Michael C,Dir,A - Grant,$5.45,13296,44297,+43%,"+$72,503",,,,,TWIN
+24,,2020-10-30 16:14:03,2020-10-29,TWIN,Stratton Harold M II,Dir,A - Grant,$5.45,13296,59815,+29%,"+$72,503",,,,,TWIN
+25,,2020-10-30 16:08:34,2020-10-29,TWIN,Rayburn David B,Dir,A - Grant,$5.45,13296,87089,+18%,"+$72,503",,,,,TWIN
+26,,2020-10-30 16:06:54,2020-10-29,TWIN,Johnson David W,Dir,A - Grant,$5.45,13296,33831,+65%,"+$72,503",,,,,TWIN
+27,,2020-10-30 16:05:05,2020-10-29,TWIN,Giesselman Janet Plaut,Dir,A - Grant,$5.45,13296,32162,+70%,"+$72,503",,,,,TWIN
+28,,2020-10-30 16:02:36,2020-10-29,TWIN,Doar Michael,Dir,A - Grant,$5.45,13296,70115,+23%,"+$72,503",,,,,TWIN
+29,,2020-08-17 16:27:39,2020-08-13,TWIN,Lange Debbie A,Corporate Controller,A - Grant,$0.00,1366,23786,+6%,+$0,,,,,TWIN
+30,,2020-08-17 16:27:39,2020-08-13,TWIN,Lange Debbie A,Corporate Controller,F - Tax,$6.59,-627,23786,-3%,"-$4,129",,,,,TWIN
+31,,2020-08-17 16:26:57,2020-08-13,TWIN,Wilcox Denise,VP-HR,A - Grant,$0.00,1719,36567,+5%,+$0,,,,,TWIN
+32,,2020-08-17 16:26:57,2020-08-13,TWIN,Wilcox Denise,VP-HR,F - Tax,$6.59,-1470,36567,-4%,"-$9,680",,,,,TWIN
+33,,2020-08-17 16:24:18,2020-08-13,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",A - Grant,$0.00,2913,84161,+4%,+$0,,,,,TWIN
+34,,2020-08-17 16:24:18,2020-08-13,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",F - Tax,$6.59,-2569,84161,-3%,"-$16,917",,,,,TWIN
+35,,2020-08-17 16:22:54,2020-08-13,TWIN,Gee Michael B,"VP, Engineering",A - Grant,$0.00,1409,18486,+8%,+$0,,,,,TWIN
+36,,2020-08-17 16:22:54,2020-08-13,TWIN,Gee Michael B,"VP, Engineering",F - Tax,$6.59,-1083,18486,-6%,"-$7,132",,,,,TWIN
+37,,2020-08-17 16:21:27,2020-08-13,TWIN,Bratel Dean,"VP-Sales, Applied Technology",A - Grant,$0.00,2786,65584,+4%,+$0,,,,,TWIN
+38,,2020-08-17 16:21:27,2020-08-13,TWIN,Bratel Dean,"VP-Sales, Applied Technology",F - Tax,$6.59,-2198,65584,-3%,"-$14,474",,,,,TWIN
+39,,2020-08-17 16:20:00,2020-08-13,TWIN,Batten John H,"CEO, 10%",A - Grant,$0.00,6893,848960,+1%,+$0,,,,,TWIN
+40,,2020-08-17 16:20:00,2020-08-13,TWIN,Batten John H,"CEO, 10%",F - Tax,$6.59,-6113,848960,-1%,"-$40,254",,,,,TWIN
+41,,2020-08-10 16:06:05,2020-08-06,TWIN,Lange Debbie A,Corporate Controller,A - Grant,$5.77,6933,23047,+43%,"+$40,003",,,,,TWIN
+42,,2020-08-10 16:05:08,2020-08-06,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",A - Grant,$5.77,24264,83817,+41%,"+$140,003",,,,,TWIN
+43,,2020-08-10 16:04:11,2020-08-06,TWIN,Feiertag James E,"Pres, COO",A - Grant,$5.77,22877,49625,+86%,"+$132,000",,,,,TWIN
+44,,2020-08-10 16:03:00,2020-08-06,TWIN,Bratel Dean,"VP-Sales, Applied Technology",A - Grant,$5.77,13865,64996,+27%,"+$80,001",,,,,TWIN
+45,,2020-08-10 16:01:56,2020-08-06,TWIN,Batten John H,"CEO, 10%",A - Grant,$5.77,51994,848180,+7%,"+$300,005",,,,,TWIN
+46,,2020-08-05 16:19:34,2020-08-03,TWIN,Wilcox Denise,VP-HR,F - Tax,$5.85,-2177,36318,-6%,"-$12,725",,,,,TWIN
+47,,2020-08-05 16:17:59,2020-08-03,TWIN,Lange Debbie A,Corporate Controller,F - Tax,$5.85,-928,16114,-5%,"-$5,424",,,,,TWIN
+48,,2020-08-05 16:16:26,2020-08-03,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",F - Tax,$5.85,-3815,59553,-6%,"-$22,299",,,,,TWIN
+49,,2020-08-05 16:14:34,2020-08-03,TWIN,Gee Michael B,"VP, Engineering",F - Tax,$5.85,-1603,18160,-8%,"-$9,370",,,,,TWIN
+50,,2020-08-05 16:12:57,2020-08-03,TWIN,Bratel Dean,"VP-Sales, Applied Technology",F - Tax,$5.85,-3308,51131,-6%,"-$19,335",,,,,TWIN
+51,,2020-08-05 16:09:57,2020-08-03,TWIN,Batten John H,"CEO, 10%",F - Tax,$5.85,-9052,796186,-1%,"-$52,909",,,,,TWIN
+52,,2020-05-14 16:16:58,2020-05-13,TWIN,Doar Michael,Dir,P - Purchase,$6.25,10000,56819,+21%,"+$62,520",,,,,TWIN
+53,,2020-05-11 16:05:30,2020-05-08,TWIN,Rayburn David B,Dir,P - Purchase,$6.39,10000,73793,+16%,"+$63,880",,,,,TWIN
+54,M,2020-05-08 15:48:15,2020-05-06,TWIN,Rayburn David B,Dir,P - Purchase,$6.43,10000,63793,+19%,"+$64,308",,,,,TWIN
+55,,2019-11-05 16:09:42,2019-10-31,TWIN,Batten John H,"Pres, CEO, 10%",A - Grant,$10.67,44986,805238,+6%,"+$480,001",,,,,TWIN
+56,,2019-11-05 16:05:01,2019-10-31,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",A - Grant,$10.67,1874,63368,+3%,"+$19,996",,,,,TWIN
+57,,2019-11-01 16:49:21,2019-10-31,TWIN,Stratton Harold M II,Dir,A - Grant,$0.00,6737,46519,+17%,+$0,,,,,TWIN
+58,,2019-11-01 16:47:08,2019-10-31,TWIN,Smiley Michael C,Dir,A - Grant,$0.00,6737,31001,+28%,+$0,,,,,TWIN
+59,,2019-11-01 16:44:47,2019-10-31,TWIN,Rayburn David B,Dir,A - Grant,$0.00,6737,53793,+14%,+$0,,,,,TWIN
+60,,2019-11-01 16:42:24,2019-10-31,TWIN,Johnson David W,Dir,A - Grant,$0.00,6737,20535,+49%,+$0,,,,,TWIN
+61,,2019-11-01 16:40:06,2019-10-31,TWIN,Giesselman Janet Plaut,Dir,A - Grant,$0.00,6737,18866,+56%,+$0,,,,,TWIN
+62,,2019-11-01 16:37:52,2019-10-31,TWIN,Doar Michael,Dir,A - Grant,$0.00,6737,46819,+17%,+$0,,,,,TWIN
+63,,2019-11-01 16:34:26,2019-10-31,TWIN,Zimmer David R,Dir,A - Grant,$0.00,6737,41869,+19%,+$0,,,,,TWIN
+64,,2019-08-05 16:20:06,2019-08-01,TWIN,Smiley Michael C,Dir,A - Grant,$11.75,1330,24264,+6%,"+$15,628",,,,,TWIN
+65,,2019-08-05 16:19:06,2019-08-01,TWIN,Wilcox Denise,VP-HR,A - Grant,$11.75,6809,38495,+21%,"+$80,006",,,,,TWIN
+66,,2019-08-05 16:18:03,2019-08-01,TWIN,Lange Debbie A,Corporate Controller,A - Grant,$11.75,4256,17042,+33%,"+$50,008",,,,,TWIN
+67,,2019-08-05 16:16:23,2019-08-01,TWIN,Bridleman Christopher Daniel,VP Global Operations,A - Grant,$11.75,8511,20511,+71%,"+$100,004",,,,,TWIN
+68,,2019-08-05 16:15:16,2019-08-01,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",A - Grant,$11.75,13192,61494,+27%,"+$155,006",,,,,TWIN
+69,,2019-08-05 16:14:17,2019-08-01,TWIN,Feiertag James E,"Pres, COO",A - Grant,$11.75,18724,26748,+233%,"+$220,007",,,,,TWIN
+70,,2019-08-05 16:13:16,2019-08-01,TWIN,Gee Michael B,"VP, Engineering",A - Grant,$11.75,5320,19763,+37%,"+$62,510",,,,,TWIN
+71,,2019-08-05 16:12:07,2019-08-01,TWIN,Bratel Dean,"VP-Sales, Applied Technology",A - Grant,$11.75,10639,54439,+24%,"+$125,008",,,,,TWIN
+72,,2019-08-02 11:25:47,2019-07-31,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",A - Grant,$0.00,11133,48302,+30%,+$0,,,,,TWIN
+73,,2019-08-02 11:25:47,2019-07-31,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",F - Tax,$12.43,-5231,48302,-10%,"-$65,021",,,,,TWIN
+74,,2019-08-02 11:21:28,2019-07-31,TWIN,Lange Debbie A,Corporate Controller,A - Grant,$0.00,4049,12786,+46%,+$0,,,,,TWIN
+75,,2019-08-02 11:21:28,2019-07-31,TWIN,Lange Debbie A,Corporate Controller,F - Tax,$12.43,-1759,12786,-12%,"-$21,864",,,,,TWIN
+76,,2019-08-02 11:19:25,2019-07-31,TWIN,Gee Michael B,"VP, Engineering",A - Grant,$0.00,5061,14443,+54%,+$0,,,,,TWIN
+77,,2019-08-02 11:19:25,2019-07-31,TWIN,Gee Michael B,"VP, Engineering",F - Tax,$12.43,-2199,14443,-13%,"-$27,334",,,,,TWIN
+78,,2019-08-02 11:15:32,2019-07-31,TWIN,Bratel Dean,"VP-Sales, Applied Technology",A - Grant,$0.00,10121,43800,+30%,+$0,,,,,TWIN
+79,,2019-08-02 11:15:32,2019-07-31,TWIN,Bratel Dean,"VP-Sales, Applied Technology",F - Tax,$12.43,-4731,43800,-10%,"-$58,806",,,,,TWIN
+80,,2019-08-02 11:13:18,2019-07-31,TWIN,Batten John H,"Pres, CEO, 10%",A - Grant,$0.00,26414,760252,+4%,+$0,,,,,TWIN
+81,,2019-08-02 11:13:18,2019-07-31,TWIN,Batten John H,"Pres, CEO, 10%",F - Tax,$12.43,-12415,760252,-2%,"-$154,318",,,,,TWIN
+82,,2019-08-02 11:08:38,2019-07-31,TWIN,Wilcox Denise,VP-HR,A - Grant,$0.00,6478,31686,+26%,+$0,,,,,TWIN
+83,,2019-08-02 11:08:38,2019-07-31,TWIN,Wilcox Denise,VP-HR,F - Tax,$12.43,-2998,31686,-9%,"-$37,265",,,,,TWIN
+84,,2019-07-31 16:26:11,2019-07-29,TWIN,Wilcox Denise,VP-HR,F - Tax,$12.69,-3861,28206,-12%,"-$48,977",,,,,TWIN
+85,,2019-07-31 16:24:56,2019-07-29,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",F - Tax,$12.69,-6635,42400,-14%,"-$84,165",,,,,TWIN
+86,,2019-07-31 16:23:28,2019-07-29,TWIN,Bratel Dean,"VP-Sales, Applied Technology",F - Tax,$12.69,-6032,38410,-14%,"-$76,516",,,,,TWIN
+87,,2019-07-31 16:21:59,2019-07-29,TWIN,Lange Debbie A,Corporate Controller,F - Tax,$12.69,-2247,10496,-18%,"-$28,503",,,,,TWIN
+88,,2019-07-31 16:20:39,2019-07-29,TWIN,Gee Michael B,"VP, Engineering",F - Tax,$12.69,-2830,11581,-20%,"-$35,899",,,,,TWIN
+89,,2019-07-31 16:17:28,2019-07-29,TWIN,Batten John H,"Pres, CEO, 10%",F - Tax,$12.69,-15743,746253,-2%,"-$199,700",,,,,TWIN
+90,,2019-05-17 16:04:46,2019-05-16,TWIN,Moore Malcolm F,EVP-Operations,F - Tax,$14.91,-5302,40955,-11%,"-$79,053",,,,,TWIN
+91,,2019-05-03 16:41:23,2019-05-01,TWIN,Feiertag James E,"Pres, COO",A - Grant,$18.78,7721,8024,>999%,"+$145,000",,,,,TWIN
+92,,2019-02-25 16:10:51,2019-02-21,TWIN,Moore Malcolm F,EVP-Operations,S - Sale,$18.00,-3000,46257,-6%,"-$54,000",,,,,TWIN
+93,,2018-10-29 11:42:24,2018-10-25,TWIN,Giesselman Janet Plaut,Dir,A - Grant,$0.00,3264,12129,+37%,+$0,,,,,TWIN
+94,D,2018-10-26 16:22:36,2018-10-25,TWIN,Doar Michael,Dir,A - Grant,$0.00,3264,40082,+9%,+$0,,,,,TWIN
+95,,2018-10-26 16:21:19,2018-10-25,TWIN,Zimmer David R,Dir,A - Grant,$0.00,3264,35132,+10%,+$0,,,,,TWIN
+96,D,2018-10-26 16:15:16,2018-10-25,TWIN,Rayburn David B,Dir,A - Grant,$0.00,3264,47056,+7%,+$0,,,,,TWIN
+97,D,2018-10-26 16:13:43,2018-10-25,TWIN,Stratton Harold M II,Dir,A - Grant,$0.00,3264,39782,+9%,+$0,,,,,TWIN
+98,,2018-10-26 16:11:59,2018-10-25,TWIN,Johnson David W,Dir,A - Grant,$0.00,3264,13798,+31%,+$0,,,,,TWIN
+99,D,2018-10-15 16:11:50,2018-10-12,TWIN,Stratton Harold M II,Dir,M - OptEx,$10.01,1200,36518,+3%,"+$12,012",,,,,TWIN
+100,D,2018-10-05 16:34:08,2018-10-05,TWIN,Rayburn David B,Dir,M - OptEx,$10.01,1200,43792,+3%,"+$12,012",,,,,TWIN
+101,D,2018-10-05 16:25:19,2018-10-05,TWIN,Rayburn David B,Dir,M - OptEx,$10.01,1200,43792,+3%,"+$12,012",,,,,TWIN
+102,D,2018-08-10 16:34:57,2018-08-09,TWIN,Doar Michael,Dir,M - OptEx,$10.01,1200,36818,+3%,"+$12,012",,,,,TWIN
+103,,2018-08-06 16:34:42,2018-08-02,TWIN,Moore Malcolm F,EVP-Operations,F - Tax,$25.08,-2749,49257,-5%,"-$68,931",,,,,TWIN
+104,,2018-08-02 17:25:03,2018-08-01,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",A - Grant,$0.00,1674,49035,+4%,+$0,,,,,TWIN
+105,M,2018-08-02 17:25:03,2018-07-31,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",F - Tax,$26.09,-4846,49035,-9%,"-$126,436",,,,,TWIN
+106,,2018-08-02 17:22:40,2018-08-01,TWIN,Lange Debbie A,Corporate Controller,A - Grant,$0.00,641,12743,+5%,+$0,,,,,TWIN
+107,M,2018-08-02 17:22:40,2018-07-31,TWIN,Lange Debbie A,Corporate Controller,F - Tax,$26.09,-1719,12743,-12%,"-$44,849",,,,,TWIN
+108,,2018-08-02 17:20:29,2018-08-01,TWIN,Moore Malcolm F,EVP-Operations,A - Grant,$0.00,2161,52006,+4%,+$0,,,,,TWIN
+109,M,2018-08-02 17:20:29,2018-07-31,TWIN,Moore Malcolm F,EVP-Operations,F - Tax,$26.09,-5243,52006,-9%,"-$136,791",,,,,TWIN
+110,,2018-08-02 17:18:13,2018-08-01,TWIN,Gee Michael B,"VP, Engineering",A - Grant,$0.00,761,14371,+6%,+$0,,,,,TWIN
+111,M,2018-08-02 17:18:13,2018-07-31,TWIN,Gee Michael B,"VP, Engineering",F - Tax,$26.09,-2049,14371,-12%,"-$53,460",,,,,TWIN
+112,,2018-08-02 17:15:26,2018-08-01,TWIN,Wilcox Denise,VP-HR,A - Grant,$0.00,974,32067,+3%,+$0,,,,,TWIN
+113,M,2018-08-02 17:15:26,2018-07-31,TWIN,Wilcox Denise,VP-HR,F - Tax,$26.09,-2799,32067,-8%,"-$73,030",,,,,TWIN
+114,,2018-08-02 17:12:41,2018-08-01,TWIN,Bratel Dean,"VP-Sales, Applied Technology",A - Grant,$0.00,1522,44442,+4%,+$0,,,,,TWIN
+115,M,2018-08-02 17:12:41,2018-07-31,TWIN,Bratel Dean,"VP-Sales, Applied Technology",F - Tax,$26.09,-4311,44442,-9%,"-$112,482",,,,,TWIN
+116,,2018-08-02 17:07:54,2018-08-01,TWIN,Batten John H,"Pres, CEO, 10%",A - Grant,$0.00,3972,761996,+1%,+$0,,,,,TWIN
+117,M,2018-08-02 17:07:54,2018-07-31,TWIN,Batten John H,"Pres, CEO, 10%",F - Tax,$26.09,-11511,761996,-1%,"-$300,325",,,,,TWIN
+118,D,2018-05-14 16:29:01,2018-05-11,TWIN,Moore Malcolm F,EVP-Operations,M - OptEx,$12.31,2400,55088,+5%,"+$29,544",,,,,TWIN
+119,,2017-12-13 16:05:08,2017-12-12,TWIN,Nelson Donald J,VP-Operations,F - Tax,$26.27,-7119,39615,-15%,"-$186,981",,,,,TWIN
+120,,2017-12-06 16:04:47,2017-12-05,TWIN,Wilcox Denise,VP-HR,S - Sale,$27.25,-5000,33892,-13%,"-$136,252",,,,,TWIN
+121,,2017-11-29 16:15:50,2017-11-28,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",S - Sale,$28.21,-1750,52207,-3%,"-$49,370",,,,,TWIN
+122,,2017-11-21 16:20:19,2017-11-21,TWIN,Batten John H,"Pres, CEO, 10%",S - Sale,$27.31,-3000,769535,0%,"-$81,921",,,,,TWIN
+123,,2017-11-08 16:25:36,2017-11-07,TWIN,Zimmer David R,Dir,S - Sale,$24.96,-1500,31868,-4%,"-$37,441",,,,,TWIN
+124,,2017-10-30 16:15:22,2017-10-26,TWIN,Zimmer David R,Dir,A - Grant,$0.00,2784,33368,+9%,+$0,,,,,TWIN
+125,D,2017-10-30 16:13:40,2017-10-26,TWIN,Stratton Harold M II,Dir,A - Grant,$0.00,2784,35318,+9%,+$0,,,,,TWIN
+126,,2017-10-30 16:11:53,2017-10-26,TWIN,Smiley Michael C,Dir,A - Grant,$0.00,2784,25718,+12%,+$0,,,,,TWIN
+127,D,2017-10-30 16:10:10,2017-10-26,TWIN,Rayburn David B,Dir,A - Grant,$0.00,2784,42592,+7%,+$0,,,,,TWIN
+128,,2017-10-30 16:07:40,2017-10-26,TWIN,Johnson David W,Dir,A - Grant,$0.00,2784,10534,+36%,+$0,,,,,TWIN
+129,,2017-10-30 16:05:41,2017-10-26,TWIN,Giesselman Janet Plaut,Dir,A - Grant,$0.00,2784,8865,+46%,+$0,,,,,TWIN
+130,D,2017-10-30 16:03:24,2017-10-26,TWIN,Doar Michael,Dir,A - Grant,$0.00,2784,35618,+8%,+$0,,,,,TWIN
+131,,2017-08-08 08:40:55,2017-08-04,TWIN,Lange Debbie A,Corporate Controller,F - Tax,$17.60,-682,13821,-5%,"-$12,003",,,,,TWIN
+132,,2017-08-04 16:43:01,2017-08-02,TWIN,Nelson Donald J,VP-Operations,A - Grant,$16.94,8734,46734,+23%,"+$147,954",,,,,TWIN
+133,,2017-08-04 16:41:34,2017-08-02,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",A - Grant,$16.94,8117,53957,+18%,"+$137,502",,,,,TWIN
+134,D,2017-08-04 16:40:20,2017-08-02,TWIN,Moore Malcolm F,EVP-Operations,A - Grant,$16.94,6985,52688,+15%,"+$118,326",,,,,TWIN
+135,,2017-08-04 16:38:57,2017-08-02,TWIN,Lange Debbie A,Corporate Controller,A - Grant,$16.94,2952,14503,+26%,"+$50,007",,,,,TWIN
+136,,2017-08-04 16:37:36,2017-08-02,TWIN,Gee Michael B,"VP, Engineering",A - Grant,$16.94,3690,15435,+31%,"+$62,509",,,,,TWIN
+137,,2017-08-04 16:36:17,2017-08-02,TWIN,Bratel Dean,"VP-Sales, Applied Technology",A - Grant,$16.94,7379,47231,+19%,"+$125,000",,,,,TWIN
+138,,2017-08-04 16:34:56,2017-08-02,TWIN,Wilcox Denise,VP-HR,A - Grant,$16.94,4723,38892,+14%,"+$80,008",,,,,TWIN
+139,,2017-08-04 16:33:20,2017-08-02,TWIN,Batten John H,"Pres, CEO, 10%",A - Grant,$16.94,19259,772535,+3%,"+$326,247",,,,,TWIN
+140,,2017-08-01 17:07:49,2017-07-30,TWIN,Wilcox Denise,VP-HR,F - Tax,$17.05,-1210,34169,-3%,"-$20,627",,,,,TWIN
+141,,2017-08-01 17:06:16,2017-07-30,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",F - Tax,$17.05,-2690,45840,-6%,"-$45,856",,,,,TWIN
+142,,2017-08-01 17:04:56,2017-07-30,TWIN,Batten John H,"Pres, CEO, 10%",F - Tax,$17.05,-5459,753276,-1%,"-$93,060",,,,,TWIN
+143,,2017-08-01 17:03:02,2017-07-30,TWIN,Bratel Dean,"VP-Sales, Applied Technology",F - Tax,$17.05,-1911,39852,-5%,"-$32,577",,,,,TWIN
+144,,2017-08-01 17:01:18,2017-07-30,TWIN,Gee Michael B,"VP, Engineering",F - Tax,$17.05,-497,11931,-4%,"-$8,472",,,,,TWIN
+145,,2017-06-02 16:38:56,2017-06-01,TWIN,Giesselman Janet Plaut,Dir,S - Sale,$17.99,-5886,6027,-49%,"-$105,889",,,,,TWIN
+146,,2017-05-12 16:39:24,2017-05-12,TWIN,Bratel Dean,"VP-Sales, Applied Technology",S - Sale,$19.72,-5000,41763,-11%,"-$98,600",,,,,TWIN
+147,D,2016-11-01 16:43:28,2016-10-28,TWIN,Rayburn David B,Dir,A - Grant,$0.00,6080,39808,+18%,+$0,1.0,7.0,41.0,91.0,TWIN
+148,,2016-11-01 16:42:05,2016-10-28,TWIN,Giesselman Janet Plaut,Dir,A - Grant,$0.00,6080,11913,+104%,+$0,1.0,7.0,41.0,91.0,TWIN
+149,,2016-11-01 16:40:48,2016-10-28,TWIN,Smiley Michael C,Dir,A - Grant,$0.00,6080,22934,+36%,+$0,1.0,7.0,41.0,91.0,TWIN
+150,,2016-11-01 16:39:21,2016-10-28,TWIN,Zimmer David R,Dir,A - Grant,$0.00,6080,30584,+25%,+$0,1.0,7.0,41.0,91.0,TWIN
+151,,2016-11-01 16:37:49,2016-10-28,TWIN,Johnson David W,Dir,A - Grant,$0.00,6080,7750,+364%,+$0,1.0,7.0,41.0,91.0,TWIN
+152,D,2016-11-01 16:36:26,2016-10-28,TWIN,Stratton Harold M II,Dir,A - Grant,$0.00,6080,32534,+23%,+$0,1.0,7.0,41.0,91.0,TWIN
+153,D,2016-11-01 16:34:47,2016-10-28,TWIN,Doar Michael,Dir,A - Grant,$0.00,6080,32834,+23%,+$0,1.0,7.0,41.0,91.0,TWIN
+154,,2016-08-05 16:30:46,2016-08-04,TWIN,Lange Debbie A,Corporate Controller,F - Tax,$9.98,-893,11551,-7%,"-$8,912",3.0,2.0,26.0,75.0,TWIN
+155,,2016-08-02 16:33:22,2016-07-29,TWIN,Johnson David W,Dir,A - Grant,$0.00,1670,1670,New,+$0,3.0,6.0,31.0,73.0,TWIN
+156,,2016-08-01 16:43:46,2016-07-28,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",A - Grant,$9.74,14117,48530,+41%,"+$137,500",3.0,6.0,35.0,84.0,TWIN
+157,,2016-08-01 16:42:08,2016-07-28,TWIN,Batten John H,"Pres, CEO, 10%",A - Grant,$9.74,33496,755794,+5%,"+$326,251",3.0,6.0,35.0,84.0,TWIN
+158,,2016-08-01 16:40:42,2016-07-28,TWIN,Bratel Dean,"VP-Global Sales, Marketing",A - Grant,$9.74,12834,46763,+38%,"+$125,003",3.0,6.0,35.0,84.0,TWIN
+159,D,2016-08-01 16:39:09,2016-07-28,TWIN,Moore Malcolm F,EVP-Operations,A - Grant,$9.74,19386,45703,+74%,"+$188,820",3.0,6.0,35.0,84.0,TWIN
+160,,2016-08-01 16:37:32,2016-07-28,TWIN,Gee Michael B,"VP, Engineering",A - Grant,$9.74,6417,12242,+110%,"+$62,502",3.0,6.0,35.0,84.0,TWIN
+161,,2016-08-01 16:36:00,2016-07-28,TWIN,Lange Debbie A,Corporate Controller,A - Grant,$9.74,5134,12444,+70%,"+$50,005",3.0,6.0,35.0,84.0,TWIN
+162,,2016-08-01 16:34:20,2016-07-28,TWIN,Wilcox Denise,VP-HR,A - Grant,$9.74,8214,35379,+30%,"+$80,004",3.0,6.0,35.0,84.0,TWIN
+163,,2016-07-27 17:12:25,2016-07-25,TWIN,Wilcox Denise,VP-HR,F - Tax,$10.95,-1764,27165,-6%,"-$19,307",-2.0,-2.0,26.0,89.0,TWIN
+164,,2016-07-27 17:11:31,2016-07-25,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",F - Tax,$10.95,-2029,34413,-6%,"-$22,207",-2.0,-2.0,26.0,89.0,TWIN
+165,,2016-07-27 17:10:25,2016-07-25,TWIN,Bratel Dean,"VP-Global Sales, Marketing",F - Tax,$10.95,-2336,33929,-6%,"-$25,568",-2.0,-2.0,26.0,89.0,TWIN
+166,,2016-07-27 17:09:08,2016-07-25,TWIN,Batten John H,"Pres, CEO, 10%",F - Tax,$10.95,-5847,722298,-1%,"-$63,995",-2.0,-2.0,26.0,89.0,TWIN
+167,D,2016-02-10 16:36:11,2016-02-09,TWIN,Doar Michael,Dir,P - Purchase,$9.04,2500,26754,+10%,"+$22,600",-2.0,7.0,7.0,20.0,TWIN
+168,,2015-10-27 16:21:27,2015-10-23,TWIN,Zimmer David R,Dir,A - Grant,$0.00,4555,24504,+23%,+$0,1.0,1.0,2.0,13.0,TWIN
+169,D,2015-10-27 16:19:39,2015-10-23,TWIN,Rayburn David B,Dir,A - Grant,$0.00,4555,33728,+16%,+$0,1.0,1.0,2.0,13.0,TWIN
+170,D,2015-10-27 16:17:46,2015-10-23,TWIN,Stratton Harold M II,Dir,A - Grant,$0.00,4555,26454,+21%,+$0,1.0,1.0,2.0,13.0,TWIN
+171,,2015-10-27 16:16:28,2015-10-23,TWIN,Giesselman Janet Plaut,Dir,A - Grant,$0.00,4555,5833,+356%,+$0,1.0,1.0,2.0,13.0,TWIN
+172,,2015-10-27 16:15:12,2015-10-23,TWIN,Smiley Michael C,Dir,A - Grant,$0.00,4555,16854,+37%,+$0,1.0,1.0,2.0,13.0,TWIN
+173,D,2015-10-27 16:12:35,2015-10-23,TWIN,Doar Michael,Dir,A - Grant,$0.00,4555,24254,+23%,+$0,1.0,1.0,2.0,13.0,TWIN
+174,D,2015-10-22 16:23:43,2015-10-21,TWIN,Stratton Harold M II,Dir,M - OptEx,$10.11,1200,21899,+6%,"+$12,135",2.0,-15.0,-19.0,-4.0,TWIN
+175,AD,2015-08-21 16:31:00,2015-07-31,TWIN,Moore Malcolm F,EVP-Operations,A - Grant,$15.90,11164,26317,+74%,"+$177,508",-3.0,-5.0,-7.0,-35.0,TWIN
+176,,2015-08-06 16:32:04,2015-08-04,TWIN,Lange Debbie A,Corporate Controller,A - Grant,$15.11,7310,7310,New,"+$110,418",-2.0,-2.0,-11.0,-34.0,TWIN
+177,,2015-08-04 16:38:03,2015-07-31,TWIN,Gee Michael B,"VP, Engineering",A - Grant,$15.90,3931,5825,+208%,"+$62,503",0.0,1.0,-8.0,-29.0,TWIN
+178,,2015-08-04 16:36:31,2015-07-31,TWIN,Wilcox Denise,VP-HR,A - Grant,$15.90,5032,28923,+21%,"+$80,009",0.0,1.0,-8.0,-29.0,TWIN
+179,D,2015-08-04 16:35:12,2015-07-31,TWIN,Moore Malcolm F,EVP-Operations,A - Grant,$15.90,11164,26317,+74%,"+$177,508",0.0,1.0,-8.0,-29.0,TWIN
+180,,2015-08-04 16:33:18,2015-07-31,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",A - Grant,$15.90,8648,36442,+31%,"+$137,503",0.0,1.0,-8.0,-29.0,TWIN
+181,,2015-08-04 16:32:05,2015-07-31,TWIN,Batten John H,"Pres, CEO, 10%",A - Grant,$15.90,20519,682670,+3%,"+$326,252",0.0,1.0,-8.0,-29.0,TWIN
+182,,2015-08-04 16:30:38,2015-07-31,TWIN,Bratel Dean,"VP-Global Sales, Marketing",A - Grant,$15.90,7862,36229,+28%,"+$125,006",0.0,1.0,-8.0,-29.0,TWIN
+183,,2015-07-29 16:34:59,2015-07-27,TWIN,Bratel Dean,"VP-Global Sales, Marketing",F - Tax,$15.35,-2167,28367,-7%,"-$33,253",3.0,-3.0,-12.0,-28.0,TWIN
+184,,2015-07-29 16:33:31,2015-07-27,TWIN,Wilcox Denise,VP-HR,F - Tax,$15.35,-1809,23891,-7%,"-$27,759",3.0,-3.0,-12.0,-28.0,TWIN
+185,,2015-07-29 16:32:10,2015-07-27,TWIN,Knutson Jeffrey Scott,"VP Finance, CFO, Secr, Trea",F - Tax,$15.35,-1981,27794,-7%,"-$30,398",3.0,-3.0,-12.0,-28.0,TWIN
+186,,2015-07-29 16:30:23,2015-07-27,TWIN,Batten John H,"Pres, CEO, 10%",F - Tax,$15.35,-6404,662151,-1%,"-$98,269",3.0,-3.0,-12.0,-28.0,TWIN
+187,,2015-07-08 16:32:34,2015-06-30,TWIN,Giesselman Janet Plaut,Dir,A - Grant,$18.64,1278,1278,New,"+$23,822",1.0,2.0,-15.0,-40.0,TWIN
+188,D,2015-07-02 16:39:08,2015-07-01,TWIN,Moore Malcolm F,EVP-Operations,A - Grant,$0.00,2942,15153,+24%,+$0,-1.0,-3.0,-12.0,-41.0,TWIN
+189,D,2015-07-02 16:39:08,2015-06-30,TWIN,Moore Malcolm F,EVP-Operations,D - Sale to issuer,$0.00,-2942,15153,-16%,-$0,-1.0,-3.0,-12.0,-41.0,TWIN
+190,,2015-02-23 10:51:54,2015-02-19,TWIN,Knutson Jeffrey Scott,"VP Finance, Secr, Int CFO, Tre",A - Grant,$18.18,2500,29775,+9%,"+$45,450",3.0,6.0,5.0,-17.0,TWIN
+191,,2015-02-17 16:34:44,2015-02-16,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",D - Sale to issuer,$0.00,-22817,30019,-43%,-$0,0.0,-4.0,-3.0,-20.0,TWIN
+192,,2015-02-09 15:56:02,2015-02-05,TWIN,Batten John H,"Pres, CEO, 10%",G - Gift,$0.00,45444,183722,+33%,+$0,1.0,-3.0,-10.0,-25.0,TWIN
+193,,2015-02-09 15:54:17,2015-02-05,TWIN,Batten Michael E,Dir,G - Gift,$0.00,-857939,488816,-232%,-$0,1.0,-3.0,-10.0,-25.0,TWIN
+194,,2015-02-02 16:31:27,2015-01-29,TWIN,Gee Michael B,"VP, Engineering",A - Grant,$15.92,1000,1894,+112%,"+$15,920",14.0,22.0,14.0,0.0,TWIN
+195,,2014-11-18 16:34:26,2014-10-24,TWIN,Batten Michael E,"Dir, 10%",A - Grant,$0.00,2942,1046642,0%,+$0,-5.0,2.0,-21.0,-24.0,TWIN
+196,,2014-10-28 16:39:04,2014-10-24,TWIN,Zimmer David R,Dir,A - Grant,$0.00,2942,19949,+17%,+$0,-2.0,-4.0,-9.0,-28.0,TWIN
+197,D,2014-10-28 16:37:44,2014-10-24,TWIN,Stratton Harold M II,Dir,A - Grant,$0.00,2942,20699,+17%,+$0,-2.0,-4.0,-9.0,-28.0,TWIN
+198,,2014-10-28 16:36:05,2014-10-24,TWIN,Smiley Michael C,Dir,A - Grant,$0.00,2942,12299,+31%,+$0,-2.0,-4.0,-9.0,-28.0,TWIN
+199,D,2014-10-28 16:34:51,2014-10-24,TWIN,Rayburn David B,Dir,A - Grant,$0.00,2942,29173,+11%,+$0,-2.0,-4.0,-9.0,-28.0,TWIN
+200,D,2014-10-28 16:33:24,2014-10-24,TWIN,Moore Malcolm F,Dir,A - Grant,$0.00,2942,15153,+24%,+$0,-2.0,-4.0,-9.0,-28.0,TWIN
+201,D,2014-10-28 16:31:38,2014-10-24,TWIN,Doar Michael,Dir,A - Grant,$0.00,2942,19699,+18%,+$0,-2.0,-4.0,-9.0,-28.0,TWIN
+202,D,2014-09-17 16:30:17,2014-09-17,TWIN,Stratton Harold M II,Dir,M - OptEx,$6.23,1200,17757,+7%,"+$7,470",-1.0,-2.0,-8.0,-33.0,TWIN
+203,,2014-09-16 16:37:08,2014-09-12,TWIN,Feiertag James E,EVP,D - Sale to issuer,$0.00,-20481,46546,-31%,-$0,-1.0,-5.0,-11.0,-37.0,TWIN
+204,D,2014-09-11 16:30:18,2014-09-09,TWIN,Rayburn David B,Dir,M - OptEx,$6.23,1200,26231,+5%,"+$7,470",-4.0,-6.0,-16.0,-36.0,TWIN
+205,D,2014-09-11 16:30:18,2014-09-09,TWIN,Rayburn David B,Dir,S - Sale+OE,$30.13,-1200,26231,-4%,"-$36,154",-4.0,-6.0,-16.0,-36.0,TWIN
+206,,2014-09-03 16:30:55,2014-08-29,TWIN,Batten John H,"Pres, CEO",S - Sale,$32.30,-2500,93301,-3%,"-$80,750",1.0,-5.0,-16.0,-39.0,TWIN
+207,,2014-08-19 16:30:28,2014-08-15,TWIN,Knutson Jeffrey Scott,Corporate Controller,S - Sale,$32.39,-1500,27275,-5%,"-$48,578",-1.0,0.0,-15.0,-43.0,TWIN
+208,M,2014-08-13 16:30:54,2014-08-11,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",S - Sale,$32.34,-13000,52836,-20%,"-$420,397",1.0,1.0,-9.0,-42.0,TWIN
+209,,2014-08-12 16:30:21,2014-08-08,TWIN,Bratel Dean,VP-Americas,S - Sale,$31.62,-4000,30492,-12%,"-$126,480",0.0,2.0,-10.0,-40.0,TWIN
+210,,2014-08-01 16:37:41,2014-07-30,TWIN,Batten John H,"Pres, CEO",A - Grant,$30.55,10736,95801,+13%,"+$327,985",1.0,11.0,13.0,-43.0,TWIN
+211,,2014-08-01 16:36:12,2014-07-30,TWIN,Knutson Jeffrey Scott,Corporate Controller,A - Grant,$30.55,2978,28775,+12%,"+$90,978",1.0,11.0,13.0,-43.0,TWIN
+212,,2014-08-01 16:34:54,2014-07-30,TWIN,Feiertag James E,EVP,A - Grant,$30.55,5232,67027,+8%,"+$159,838",1.0,11.0,13.0,-43.0,TWIN
+213,,2014-08-01 16:33:40,2014-07-30,TWIN,Wilcox Denise,VP-HR,A - Grant,$30.55,2633,25694,+11%,"+$80,438",1.0,11.0,13.0,-43.0,TWIN
+214,,2014-08-01 16:32:21,2014-07-30,TWIN,Bratel Dean,VP-Americas,A - Grant,$30.55,4113,34492,+14%,"+$125,652",1.0,11.0,13.0,-43.0,TWIN
+215,,2014-08-01 16:30:56,2014-07-30,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",A - Grant,$30.55,5430,65836,+9%,"+$165,887",1.0,11.0,13.0,-43.0,TWIN
+216,,2014-07-30 16:41:17,2014-07-28,TWIN,Batten John H,"Pres, CEO",F - Tax,$30.71,-2769,85065,-3%,"-$85,022",-5.0,2.0,8.0,-47.0,TWIN
+217,,2014-07-30 16:39:32,2014-07-28,TWIN,Knutson Jeffrey Scott,Corporate Controller,F - Tax,$30.71,-1031,25797,-4%,"-$31,657",-5.0,2.0,8.0,-47.0,TWIN
+218,,2014-07-30 16:37:46,2014-07-28,TWIN,Feiertag James E,EVP,F - Tax,$30.71,-1730,61795,-3%,"-$53,120",-5.0,2.0,8.0,-47.0,TWIN
+219,,2014-07-30 16:36:13,2014-07-28,TWIN,Bratel Dean,VP-Americas,F - Tax,$30.71,-1035,30379,-3%,"-$31,780",-5.0,2.0,8.0,-47.0,TWIN
+220,,2014-07-30 16:34:42,2014-07-28,TWIN,Wilcox Denise,VP-HR,F - Tax,$30.71,-869,23061,-4%,"-$26,683",-5.0,2.0,8.0,-47.0,TWIN
+221,,2014-07-30 16:32:59,2014-07-28,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",F - Tax,$30.71,-1941,60406,-3%,"-$59,598",-5.0,2.0,8.0,-47.0,TWIN
+222,,2014-03-07 16:32:33,2014-03-07,TWIN,Batten John H,"Pres, CEO",S - Sale,$24.54,-3000,87828,-3%,"-$73,616",1.0,1.0,4.0,26.0,TWIN
+223,,2014-01-31 16:38:39,2014-01-31,TWIN,Zimmer David R,Dir,S - Sale,$23.69,-1500,17007,-8%,"-$35,542",-5.0,-11.0,4.0,23.0,TWIN
+224,,2013-11-21 16:56:29,2013-11-20,TWIN,Wilcox Denise,VP-HR,S - Sale,$26.29,-6000,23917,-20%,"-$157,740",5.0,8.0,-1.0,20.0,TWIN
+225,,2013-10-22 16:38:53,2013-10-18,TWIN,Zimmer David R,Dir,A - Grant,$26.94,1855,18507,+11%,"+$49,974",-3.0,-4.0,-1.0,2.0,TWIN
+226,D,2013-10-22 16:37:34,2013-10-18,TWIN,Stratton Harold M II,Dir,A - Grant,$26.94,1855,16557,+13%,"+$49,974",-3.0,-4.0,-1.0,2.0,TWIN
+227,,2013-10-22 16:36:20,2013-10-18,TWIN,Smiley Michael C,Dir,A - Grant,$26.94,1855,9357,+25%,"+$49,974",-3.0,-4.0,-1.0,2.0,TWIN
+228,D,2013-10-22 16:34:35,2013-10-18,TWIN,Rayburn David B,Dir,A - Grant,$26.94,1855,26231,+8%,"+$49,974",-3.0,-4.0,-1.0,2.0,TWIN
+229,D,2013-10-22 16:33:10,2013-10-18,TWIN,Moore Malcolm F,Dir,A - Grant,$26.94,1855,12211,+18%,"+$49,974",-3.0,-4.0,-1.0,2.0,TWIN
+230,D,2013-10-22 16:31:33,2013-10-18,TWIN,Doar Michael,Dir,A - Grant,$26.94,1855,16757,+12%,"+$49,974",-3.0,-4.0,-1.0,2.0,TWIN
+231,,2013-07-31 16:52:53,2013-07-29,TWIN,Batten John H,"Pres, COO",F - Tax,$24.94,-8061,90804,-8%,"-$201,041",4.0,7.0,5.0,-5.0,TWIN
+232,,2013-07-31 16:51:37,2013-07-29,TWIN,Batten Michael E,"COB, CEO, 10%",F - Tax,$24.94,-8502,1069043,-1%,"-$212,040",4.0,7.0,5.0,-5.0,TWIN
+233,,2013-07-31 16:50:24,2013-07-29,TWIN,Wilcox Denise,VP-HR,F - Tax,$24.94,-2783,32887,-8%,"-$69,408",4.0,7.0,5.0,-5.0,TWIN
+234,,2013-07-31 16:49:11,2013-07-29,TWIN,Feiertag James E,EVP,F - Tax,$24.94,-5057,63517,-7%,"-$126,122",4.0,7.0,5.0,-5.0,TWIN
+235,,2013-07-31 16:47:57,2013-07-29,TWIN,Valentyn Thomas E,"GC, Secretary",F - Tax,$24.94,-1808,14414,-11%,"-$45,092",4.0,7.0,5.0,-5.0,TWIN
+236,,2013-07-31 16:46:18,2013-07-29,TWIN,Bratel Dean,VP-Engineering,F - Tax,$24.94,-3770,31383,-11%,"-$94,024",4.0,7.0,5.0,-5.0,TWIN
+237,,2013-07-31 16:45:08,2013-07-29,TWIN,Knutson Jeffrey Scott,Corporate Controller,F - Tax,$24.94,-2648,26828,-9%,"-$66,041",4.0,7.0,5.0,-5.0,TWIN
+238,,2013-07-31 16:43:57,2013-07-29,TWIN,Fabry Henri Claude,VP-Int'l Distribution,F - Tax,$24.94,-1474,28341,-5%,"-$36,762",4.0,7.0,5.0,-5.0,TWIN
+239,,2013-07-31 16:42:37,2013-07-29,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",F - Tax,$24.94,-5441,62330,-8%,"-$135,699",4.0,7.0,5.0,-5.0,TWIN
+240,,2013-07-29 16:48:21,2013-07-25,TWIN,Knutson Jeffrey Scott,Corporate Controller,A - Grant,$9.25,11512,29476,+64%,"+$106,451",-3.0,7.0,7.0,5.0,TWIN
+241,,2013-07-29 16:48:21,2013-07-25,TWIN,Knutson Jeffrey Scott,Corporate Controller,F - Tax,$25.45,-3236,29476,-10%,"-$82,356",-3.0,7.0,7.0,5.0,TWIN
+242,,2013-07-29 16:47:09,2013-07-25,TWIN,Feiertag James E,EVP,A - Grant,$7.98,22241,68574,+48%,"+$177,426",-3.0,7.0,7.0,5.0,TWIN
+243,,2013-07-29 16:47:09,2013-07-25,TWIN,Feiertag James E,EVP,F - Tax,$25.45,-9115,68574,-12%,"-$231,977",-3.0,7.0,7.0,5.0,TWIN
+244,,2013-07-29 16:45:52,2013-07-25,TWIN,Wilcox Denise,VP-HR,A - Grant,$8.24,10841,35670,+44%,"+$89,313",-3.0,7.0,7.0,5.0,TWIN
+245,,2013-07-29 16:45:52,2013-07-25,TWIN,Wilcox Denise,VP-HR,F - Tax,$25.45,-3403,35670,-9%,"-$86,606",-3.0,7.0,7.0,5.0,TWIN
+246,,2013-07-29 16:44:17,2013-07-25,TWIN,Batten John H,"Pres, COO",A - Grant,$8.72,33672,98865,+52%,"+$293,659",-3.0,7.0,7.0,5.0,TWIN
+247,,2013-07-29 16:44:17,2013-07-25,TWIN,Batten John H,"Pres, COO",F - Tax,$25.45,-10887,98865,-10%,"-$277,074",-3.0,7.0,7.0,5.0,TWIN
+248,,2013-07-29 16:42:57,2013-07-25,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",A - Grant,$7.99,22256,67771,+49%,"+$177,809",-3.0,7.0,7.0,5.0,TWIN
+249,,2013-07-29 16:42:57,2013-07-25,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",F - Tax,$25.45,-6745,67771,-9%,"-$171,660",-3.0,7.0,7.0,5.0,TWIN
+250,,2013-07-29 16:41:36,2013-07-25,TWIN,Valentyn Thomas E,"GC, Secretary",A - Grant,$0.00,6131,16222,+61%,+$0,-3.0,7.0,7.0,5.0,TWIN
+251,,2013-07-29 16:41:36,2013-07-25,TWIN,Valentyn Thomas E,"GC, Secretary",F - Tax,$25.45,-3310,16222,-17%,"-$84,240",-3.0,7.0,7.0,5.0,TWIN
+252,,2013-07-29 16:40:19,2013-07-25,TWIN,Fabry Henri Claude,VP-Int'l Distribution,A - Grant,$0.00,6131,29815,+26%,+$0,-3.0,7.0,7.0,5.0,TWIN
+253,,2013-07-29 16:40:19,2013-07-25,TWIN,Fabry Henri Claude,VP-Int'l Distribution,F - Tax,$25.45,-2704,29815,-8%,"-$68,817",-3.0,7.0,7.0,5.0,TWIN
+254,,2013-07-29 16:39:00,2013-07-25,TWIN,Bratel Dean,VP-Engineering,A - Grant,$10.41,12396,35153,+54%,"+$129,028",-3.0,7.0,7.0,5.0,TWIN
+255,,2013-07-29 16:39:00,2013-07-25,TWIN,Bratel Dean,VP-Engineering,F - Tax,$25.45,-3459,35153,-9%,"-$88,032",-3.0,7.0,7.0,5.0,TWIN
+256,,2013-05-09 16:58:34,2013-05-08,TWIN,Batten Michael E,"COB, CEO, 10%",G - Gift,$0.00,-1214,1077545,0%,-$0,1.0,8.0,10.0,18.0,TWIN
+257,,2013-05-01 16:58:32,2013-04-30,TWIN,Bratel Dean,VP-Engineering,S - Sale,$21.26,-3000,26207,-10%,"-$63,776",1.0,7.0,21.0,24.0,TWIN
+258,,2012-12-20 16:34:18,2012-12-20,TWIN,Batten Michael E,"COB, CEO, 10%",G - Gift,$0.00,-1470,1078756,0%,-$0,0.0,-2.0,17.0,28.0,TWIN
+259,,2012-10-29 16:57:36,2012-10-26,TWIN,Batten Michael E,"COB, CEO, 10%",P - Purchase,$14.24,15000,1080256,+1%,"+$213,600",4.0,3.0,15.0,43.0,TWIN
+260,,2012-10-23 17:03:20,2012-10-19,TWIN,Zimmer David R,Dir,A - Grant,$16.01,3123,16652,+23%,"+$49,999",0.0,7.0,13.0,48.0,TWIN
+261,D,2012-10-23 17:01:46,2012-10-19,TWIN,Stratton Harold M II,Dir,A - Grant,$16.01,3123,14702,+27%,"+$49,999",0.0,7.0,13.0,48.0,TWIN
+262,,2012-10-23 17:00:06,2012-10-19,TWIN,Smiley Michael C,Dir,A - Grant,$16.01,3123,7502,+71%,"+$49,999",0.0,7.0,13.0,48.0,TWIN
+263,D,2012-10-23 16:58:32,2012-10-19,TWIN,Rayburn David B,Dir,A - Grant,$16.01,3123,24376,+15%,"+$49,999",0.0,7.0,13.0,48.0,TWIN
+264,D,2012-10-23 16:56:51,2012-10-19,TWIN,Moore Malcolm F,Dir,A - Grant,$16.01,3123,10356,+43%,"+$49,999",0.0,7.0,13.0,48.0,TWIN
+265,D,2012-10-23 16:55:03,2012-10-19,TWIN,Doar Michael,Dir,A - Grant,$16.01,3123,14902,+27%,"+$49,999",0.0,7.0,13.0,48.0,TWIN
+266,D,2012-08-30 16:34:39,2012-08-29,TWIN,Rayburn David B,Dir,M - OptEx,$3.25,4000,21253,+23%,"+$13,010",1.0,7.0,-2.0,35.0,TWIN
+267,D,2012-08-30 16:34:39,2012-08-29,TWIN,Rayburn David B,Dir,S - Sale+OE,$18.38,-726,21253,-3%,"-$13,343",1.0,7.0,-2.0,35.0,TWIN
+268,,2012-08-07 16:46:04,2012-08-03,TWIN,Batten Michael E,"COB, CEO, 10%",F - Tax,$19.48,-10822,1065251,-1%,"-$210,820",0.0,2.0,-5.0,17.0,TWIN
+269,,2012-08-07 16:45:07,2012-08-03,TWIN,Batten John H,"Pres, COO",F - Tax,$19.48,-8512,76039,-10%,"-$165,814",0.0,2.0,-5.0,17.0,TWIN
+270,,2012-08-07 16:44:11,2012-08-03,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",F - Tax,$19.48,-5871,52237,-10%,"-$114,367",0.0,2.0,-5.0,17.0,TWIN
+271,,2012-08-07 16:43:16,2012-08-03,TWIN,Feiertag James E,EVP,F - Tax,$19.48,-5323,55438,-9%,"-$103,692",0.0,2.0,-5.0,17.0,TWIN
+272,,2012-08-07 16:42:18,2012-08-03,TWIN,Fabry Henri Claude,VP-Int'l Distribution,F - Tax,$19.48,-2110,26388,-7%,"-$41,103",0.0,2.0,-5.0,17.0,TWIN
+273,,2012-08-07 16:41:23,2012-08-03,TWIN,Bratel Dean,VP-Engineering,F - Tax,$19.48,-2527,29174,-8%,"-$49,226",0.0,2.0,-5.0,17.0,TWIN
+274,,2012-08-07 16:40:27,2012-08-03,TWIN,Wilcox Denise,VP-HR,F - Tax,$19.48,-2527,28034,-8%,"-$49,226",0.0,2.0,-5.0,17.0,TWIN
+275,,2012-08-07 16:39:32,2012-08-03,TWIN,Knutson Jeffrey Scott,Corporate Controller,F - Tax,$19.48,-2995,21200,-12%,"-$58,343",0.0,2.0,-5.0,17.0,TWIN
+276,,2012-08-07 16:38:13,2012-08-03,TWIN,Valentyn Thomas E,"GC, Secretary",F - Tax,$19.48,-2500,13401,-16%,"-$48,700",0.0,2.0,-5.0,17.0,TWIN
+277,,2012-07-30 16:52:34,2012-07-26,TWIN,Bratel Dean,VP-Engineering,A - Grant,$7.89,12146,31701,+62%,"+$95,821",-8.0,-7.0,-9.0,9.0,TWIN
+278,,2012-07-30 16:52:34,2012-07-26,TWIN,Bratel Dean,VP-Engineering,F - Tax,$20.66,-3244,31701,-9%,"-$67,021",-8.0,-7.0,-9.0,9.0,TWIN
+279,,2012-07-30 16:51:20,2012-07-26,TWIN,Fabry Henri Claude,VP-Int'l Distribution,A - Grant,$0.00,6268,28498,+28%,+$0,-8.0,-7.0,-9.0,9.0,TWIN
+280,,2012-07-30 16:51:20,2012-07-26,TWIN,Fabry Henri Claude,VP-Int'l Distribution,F - Tax,$20.66,-2708,28498,-9%,"-$55,947",-8.0,-7.0,-9.0,9.0,TWIN
+281,,2012-07-30 16:50:04,2012-07-26,TWIN,Wilcox Denise,VP-HR,A - Grant,$7.16,11488,30561,+60%,"+$82,227",-8.0,-7.0,-9.0,9.0,TWIN
+282,,2012-07-30 16:50:04,2012-07-26,TWIN,Wilcox Denise,VP-HR,F - Tax,$20.66,-3244,30561,-10%,"-$67,021",-8.0,-7.0,-9.0,9.0,TWIN
+283,,2012-07-30 16:48:43,2012-07-26,TWIN,Feiertag James E,EVP,A - Grant,$7.16,23939,60761,+65%,"+$171,519",-8.0,-7.0,-9.0,9.0,TWIN
+284,,2012-07-30 16:48:43,2012-07-26,TWIN,Feiertag James E,EVP,F - Tax,$20.66,-6834,60761,-10%,"-$141,190",-8.0,-7.0,-9.0,9.0,TWIN
+285,,2012-07-30 16:47:09,2012-07-26,TWIN,Knutson Jeffrey Scott,Corporate Controller,A - Grant,$7.25,11566,24195,+92%,"+$83,838",-8.0,-7.0,-9.0,9.0,TWIN
+286,,2012-07-30 16:47:09,2012-07-26,TWIN,Knutson Jeffrey Scott,Corporate Controller,F - Tax,$20.66,-3845,24195,-14%,"-$79,438",-8.0,-7.0,-9.0,9.0,TWIN
+287,,2012-07-30 16:45:42,2012-07-26,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",A - Grant,$8.26,26062,58108,+81%,"+$215,381",-8.0,-7.0,-9.0,9.0,TWIN
+288,,2012-07-30 16:45:42,2012-07-26,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",F - Tax,$20.66,-7538,58108,-11%,"-$155,735",-8.0,-7.0,-9.0,9.0,TWIN
+289,,2012-07-30 16:44:25,2012-07-26,TWIN,Valentyn Thomas E,"GC, Secretary",A - Grant,$5.96,8807,15901,+124%,"+$52,456",-8.0,-7.0,-9.0,9.0,TWIN
+290,,2012-07-30 16:44:25,2012-07-26,TWIN,Valentyn Thomas E,"GC, Secretary",F - Tax,$20.66,-3210,15901,-17%,"-$66,319",-8.0,-7.0,-9.0,9.0,TWIN
+291,,2012-07-30 16:43:30,2012-07-26,TWIN,Batten Michael E,"COB, CEO, 10%",A - Grant,$20.66,16455,1076073,+2%,"+$339,960",-8.0,-7.0,-9.0,9.0,TWIN
+292,,2012-07-30 16:42:01,2012-07-26,TWIN,Batten John H,"Pres, COO",A - Grant,$7.38,35267,84551,+72%,"+$260,192",-8.0,-7.0,-9.0,9.0,TWIN
+293,,2012-07-30 16:42:01,2012-07-26,TWIN,Batten John H,"Pres, COO",F - Tax,$20.66,-10929,84551,-11%,"-$225,793",-8.0,-7.0,-9.0,9.0,TWIN
+294,D,2012-07-05 17:12:11,2012-07-02,TWIN,Batten Michael E,"COB, CEO, 10%",M - OptEx,$3.61,32000,1059618,+3%,"+$115,600",0.0,-6.0,-14.0,-8.0,TWIN
+295,D,2012-07-05 17:12:11,2012-07-02,TWIN,Batten Michael E,"COB, CEO, 10%",S - Sale+OE,$18.53,-17000,1059618,-2%,"-$314,925",0.0,-6.0,-14.0,-8.0,TWIN
+296,D,2011-12-16 11:08:18,2011-12-14,TWIN,Batten Michael E,"COB, CEO, 10%",G - Gift,$0.00,-680,1044648,0%,-$0,0.0,8.0,13.0,-53.0,TWIN
+297,,2011-11-21 16:45:17,2011-11-17,TWIN,Bratel Dean,VP-Engineering,S - Sale,$44.07,-2000,22772,-8%,"-$88,147",1.0,-8.0,-10.0,-50.0,TWIN
+298,DM,2011-11-14 17:17:48,2011-11-10,TWIN,Moore Malcolm F,Dir,S - Sale+OE,$41.62,-5446,7233,-43%,"-$226,674",4.0,5.0,-14.0,-54.0,TWIN
+299,,2011-11-01 17:05:41,2011-10-28,TWIN,Valentyn Thomas E,"GC, Secretary",S - Sale,$40.01,-750,10304,-7%,"-$30,010",3.0,15.0,13.0,-40.0,TWIN
+300,,2011-11-01 17:03:19,2011-10-28,TWIN,Wilcox Denise,VP-HR,S - Sale,$39.23,-8000,22179,-27%,"-$313,852",3.0,15.0,13.0,-40.0,TWIN
+301,,2011-10-24 16:46:19,2011-10-21,TWIN,Zimmer David R,Dir,A - Grant,$27.59,1631,13529,+14%,"+$44,999",22.0,40.0,50.0,-22.0,TWIN
+302,D,2011-10-24 16:45:01,2011-10-21,TWIN,Stratton Harold M II,Dir,A - Grant,$27.59,1631,11579,+16%,"+$44,999",22.0,40.0,50.0,-22.0,TWIN
+303,,2011-10-24 16:43:49,2011-10-21,TWIN,Smiley Michael C,Dir,A - Grant,$27.59,1631,4379,+59%,"+$44,999",22.0,40.0,50.0,-22.0,TWIN
+304,D,2011-10-24 16:42:38,2011-10-21,TWIN,Rayburn David B,Dir,A - Grant,$27.59,1631,17979,+10%,"+$44,999",22.0,40.0,50.0,-22.0,TWIN
+305,D,2011-10-24 16:41:16,2011-10-21,TWIN,Moore Malcolm F,Dir,A - Grant,$27.59,1631,12679,+15%,"+$44,999",22.0,40.0,50.0,-22.0,TWIN
+306,D,2011-10-24 16:39:49,2011-10-21,TWIN,Doar Michael,Dir,A - Grant,$27.59,1631,11779,+16%,"+$44,999",22.0,40.0,50.0,-22.0,TWIN
+307,,2011-08-30 16:09:16,2011-08-26,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",S - Sale,$34.49,-7500,39569,-16%,"-$258,696",-1.0,-11.0,-31.0,-19.0,TWIN
+308,,2011-08-10 16:33:51,2011-08-08,TWIN,Bratel Dean,VP-Engineering,S - Sale,$34.61,-1500,24763,-6%,"-$51,916",7.0,13.0,13.0,5.0,TWIN
+309,,2011-08-09 16:34:17,2011-08-05,TWIN,Knutson Jeffrey Scott,Corporate Controller,S - Sale,$37.50,-1691,16474,-9%,"-$63,411",-6.0,9.0,11.0,-2.0,TWIN
+310,,2011-08-09 16:32:23,2011-08-05,TWIN,Feiertag James E,EVP,S - Sale,$37.50,-10000,43649,-19%,"-$374,990",-6.0,9.0,11.0,-2.0,TWIN
+311,D,2011-08-01 16:35:58,2011-07-28,TWIN,Batten Michael E,"COB, CEO, 10%",A - Grant,$37.35,8878,1045328,+1%,"+$331,593",4.0,-1.0,1.0,-18.0,TWIN
+312,,2011-08-01 16:34:46,2011-07-28,TWIN,Batten John H,"Pres, COO",A - Grant,$37.35,5446,60186,+10%,"+$203,408",4.0,-1.0,1.0,-18.0,TWIN
+313,,2011-08-01 16:33:31,2011-07-28,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",A - Grant,$37.35,3954,47069,+9%,"+$147,682",4.0,-1.0,1.0,-18.0,TWIN
+314,,2011-08-01 16:32:13,2011-07-28,TWIN,Feiertag James E,EVP,A - Grant,$37.35,3795,53649,+8%,"+$141,743",4.0,-1.0,1.0,-18.0,TWIN
+315,,2011-08-01 16:30:49,2011-07-28,TWIN,Fabry Henri Claude,VP-Int'l Distribution,A - Grant,$37.35,1330,24938,+6%,"+$49,676",4.0,-1.0,1.0,-18.0,TWIN
+316,,2011-08-01 16:29:39,2011-07-28,TWIN,Bratel Dean,VP-Engineering,A - Grant,$37.35,2229,26263,+9%,"+$83,253",4.0,-1.0,1.0,-18.0,TWIN
+317,,2011-08-01 16:28:21,2011-07-28,TWIN,Knutson Jeffrey Scott,Corporate Controller,A - Grant,$37.35,1911,18165,+12%,"+$71,376",4.0,-1.0,1.0,-18.0,TWIN
+318,,2011-08-01 16:27:05,2011-07-28,TWIN,Valentyn Thomas E,"GC, Secretary",A - Grant,$37.35,1330,11054,+14%,"+$49,676",4.0,-1.0,1.0,-18.0,TWIN
+319,,2011-08-01 16:25:34,2011-07-28,TWIN,Wilcox Denise,VP-HR,A - Grant,$37.35,1911,30179,+7%,"+$71,376",4.0,-1.0,1.0,-18.0,TWIN
+320,,2011-07-27 16:38:05,2011-07-25,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",F - Tax,$39.98,-1080,43115,-2%,"-$43,178",-2.0,5.0,-7.0,-17.0,TWIN
+321,,2011-07-27 16:36:48,2011-07-25,TWIN,Batten John H,"Pres, COO",F - Tax,$39.98,-1205,54740,-2%,"-$48,176",-2.0,5.0,-7.0,-17.0,TWIN
+322,,2011-07-27 16:35:12,2011-07-25,TWIN,Bratel Dean,VP-Engineering,F - Tax,$39.98,-432,24034,-2%,"-$17,271",-2.0,5.0,-7.0,-17.0,TWIN
+323,,2011-07-27 16:33:45,2011-07-25,TWIN,Wilcox Denise,VP-HR,F - Tax,$39.98,-383,28268,-1%,"-$15,312",-2.0,5.0,-7.0,-17.0,TWIN
+324,,2011-07-27 16:32:11,2011-07-25,TWIN,Feiertag James E,EVP,F - Tax,$39.98,-1080,49854,-2%,"-$43,178",-2.0,5.0,-7.0,-17.0,TWIN
+325,,2011-07-27 16:30:25,2011-07-25,TWIN,Knutson Jeffrey Scott,Corporate Controller,F - Tax,$39.98,-447,16254,-3%,"-$17,871",-2.0,5.0,-7.0,-17.0,TWIN
+326,D,2011-07-05 17:03:19,2011-07-01,TWIN,Batten Michael E,"COB, CEO, 10%",M - OptEx,$3.76,16000,1036450,+2%,"+$60,200",-2.0,-6.0,-4.0,-12.0,TWIN
+327,D,2011-07-05 17:03:19,2011-07-01,TWIN,Batten Michael E,"COB, CEO, 10%",S - Sale+OE,$38.54,-16000,1036450,-2%,"-$616,691",-2.0,-6.0,-4.0,-12.0,TWIN
+328,DM,2011-06-07 16:34:38,2011-06-06,TWIN,Rayburn David B,Dir,S - Sale+OE,$32.11,-4000,16348,-20%,"-$128,460",0.0,0.0,26.0,24.0,TWIN
+329,D,2011-05-27 16:27:19,2011-05-27,TWIN,Rayburn David B,Dir,M - OptEx,$3.76,4000,20348,+24%,"+$15,050",4.0,-3.0,14.0,18.0,TWIN
+330,,2011-05-12 13:30:09,2011-05-11,TWIN,Fabry Henri Claude,VP-Int'l Distribution,P - Purchase,$32.59,1000,23608,+4%,"+$32,590",7.0,4.0,3.0,40.0,TWIN
+331,D,2011-04-27 14:28:41,2011-04-26,TWIN,Zimmer David R,Dir,M - OptEx,$14.42,7200,11898,+153%,"+$103,809",-2.0,-6.0,-8.0,-16.0,TWIN
+332,D,2011-04-27 14:28:41,2011-04-26,TWIN,Zimmer David R,Dir,S - Sale+OE,$34.30,-7200,11898,-38%,"-$246,960",-2.0,-6.0,-8.0,-16.0,TWIN
+333,D,2010-11-23 16:24:47,2010-11-19,TWIN,Zimmer David R,Dir,S - Sale+OE,$24.37,-2210,11898,-16%,"-$53,855",2.0,3.0,22.0,27.0,TWIN
+334,D,2010-11-03 16:16:55,2010-11-03,TWIN,Moore Malcolm F,Dir,P - Purchase,$21.75,3500,11048,+46%,"+$76,125",4.0,8.0,17.0,45.0,TWIN
+335,,2010-10-26 16:28:23,2010-10-25,TWIN,Fabry Henri Claude,VP-Int'l Distribution,P - Purchase,$19.64,1200,22608,+6%,"+$23,568",0.0,5.0,20.0,73.0,TWIN
+336,D,2010-10-19 16:43:19,2010-10-15,TWIN,Zimmer David R,Dir,A - Grant,$16.37,2748,14108,+24%,"+$44,985",3.0,11.0,28.0,82.0,TWIN
+337,D,2010-10-19 16:41:28,2010-10-15,TWIN,Stratton Harold M II,Dir,A - Grant,$16.37,2748,9948,+38%,"+$44,985",3.0,11.0,28.0,82.0,TWIN
+338,,2010-10-19 16:40:14,2010-10-15,TWIN,Smiley Michael C,Dir,A - Grant,$16.37,2748,2748,New,"+$44,985",3.0,11.0,28.0,82.0,TWIN
+339,D,2010-10-19 16:38:56,2010-10-15,TWIN,Rayburn David B,Dir,A - Grant,$16.37,2748,16348,+20%,"+$44,985",3.0,11.0,28.0,82.0,TWIN
+340,D,2010-10-19 16:37:23,2010-10-15,TWIN,Moore Malcolm F,Dir,A - Grant,$16.37,2748,7548,+57%,"+$44,985",3.0,11.0,28.0,82.0,TWIN
+341,D,2010-10-19 16:35:47,2010-10-15,TWIN,Doar Michael,Dir,A - Grant,$16.37,2748,10148,+37%,"+$44,985",3.0,11.0,28.0,82.0,TWIN
+342,D,2010-09-01 16:49:26,2010-07-22,TWIN,Batten Michael E,"COB, CEO, 10%",G - Gift,$0.00,-2284,1036468,0%,-$0,2.0,-5.0,11.0,156.0,TWIN
+343,D,2010-08-27 15:38:40,2010-08-27,TWIN,Zimmer David R,Dir,S - Sale+OE,$12.00,-3600,11360,-24%,"-$43,200",5.0,10.0,19.0,184.0,TWIN
+344,,2010-08-02 16:50:48,2010-07-29,TWIN,Valentyn Thomas E,"GC, Secretary",A - Grant,$13.00,3342,9724,+52%,"+$43,446",2.0,5.0,-6.0,152.0,TWIN
+345,,2010-08-02 16:49:20,2010-07-29,TWIN,Wilcox Denise,VP-HR,A - Grant,$13.00,6004,28488,+27%,"+$78,052",2.0,5.0,-6.0,152.0,TWIN
+346,,2010-08-02 16:47:46,2010-07-29,TWIN,Knutson Jeffrey Scott,Corporate Controller,A - Grant,$13.00,6004,16701,+56%,"+$78,052",2.0,5.0,-6.0,152.0,TWIN
+347,,2010-08-02 16:46:11,2010-07-29,TWIN,Feiertag James E,EVP,A - Grant,$13.00,11339,50926,+29%,"+$147,407",2.0,5.0,-6.0,152.0,TWIN
+348,,2010-08-02 16:44:25,2010-07-29,TWIN,Fabry Henri Claude,VP-Int'l Distribution,A - Grant,$13.00,3342,21408,+18%,"+$43,446",2.0,5.0,-6.0,152.0,TWIN
+349,,2010-08-02 16:42:28,2010-07-29,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",A - Grant,$13.00,12339,44248,+39%,"+$160,407",2.0,5.0,-6.0,152.0,TWIN
+350,,2010-08-02 16:40:07,2010-07-29,TWIN,Bratel Dean,VP-Engineering,A - Grant,$13.00,8004,24408,+49%,"+$104,052",2.0,5.0,-6.0,152.0,TWIN
+351,D,2010-08-02 16:35:47,2010-07-29,TWIN,Batten Michael E,"COB, CEO, 10%",A - Grant,$13.00,22316,1038752,+2%,"+$290,108",2.0,5.0,-6.0,152.0,TWIN
+352,,2010-08-02 16:30:25,2010-07-29,TWIN,Batten John H,"Pres, COO",A - Grant,$13.00,16090,55915,+40%,"+$209,170",2.0,5.0,-6.0,152.0,TWIN
+353,D,2010-07-27 11:42:04,2010-07-26,TWIN,Batten Michael E,"COB, CEO, 10%",M - OptEx,$4.45,12000,1016409,+1%,"+$53,437",1.0,-2.0,-12.0,127.0,TWIN
+354,D,2010-07-27 11:42:04,2010-07-26,TWIN,Batten Michael E,"COB, CEO, 10%",S - Sale+OE,$12.47,-12000,1016409,-1%,"-$149,675",1.0,-2.0,-12.0,127.0,TWIN
+355,AD,2010-06-25 15:13:27,2010-06-23,TWIN,Rayburn David B,Dir,M - OptEx,$4.38,6400,13600,+89%,"+$28,024",4.0,-7.0,5.0,136.0,TWIN
+356,D,2010-06-24 10:41:15,2010-06-23,TWIN,Rayburn David B,Dir,M - OptEx,$4.38,6400,13600,+89%,"+$28,024",-3.0,-11.0,-2.0,129.0,TWIN
+357,,2009-11-19 16:30:17,2009-11-17,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",S - Sale,$11.17,-5000,31914,-14%,"-$55,836",-2.0,-3.0,-4.0,29.0,TWIN
+358,D,2009-10-20 17:26:26,2009-10-16,TWIN,Doar Michael,Dir,A - Grant,$0.00,1200,7400,+19%,+$0,-14.0,-20.0,-11.0,14.0,TWIN
+359,D,2009-10-20 17:25:27,2009-10-16,TWIN,Mellowes John A,Dir,A - Grant,$0.00,1200,19200,+7%,+$0,-14.0,-20.0,-11.0,14.0,TWIN
+360,D,2009-10-20 17:24:10,2009-10-16,TWIN,Moore Malcolm F,Dir,A - Grant,$0.00,1200,4800,+33%,+$0,-14.0,-20.0,-11.0,14.0,TWIN
+361,D,2009-10-20 17:22:43,2009-10-16,TWIN,Rayburn David B,Dir,A - Grant,$0.00,1200,7200,+20%,+$0,-14.0,-20.0,-11.0,14.0,TWIN
+362,D,2009-10-20 17:21:29,2009-10-16,TWIN,Stratton Harold M II,Dir,A - Grant,$0.00,1200,7200,+20%,+$0,-14.0,-20.0,-11.0,14.0,TWIN
+363,D,2009-10-20 17:19:04,2009-10-16,TWIN,Zimmer David R,Dir,A - Grant,$0.00,1200,14960,+9%,+$0,-14.0,-20.0,-11.0,14.0,TWIN
+364,,2009-09-03 17:04:53,2009-09-01,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",S - Sale,$12.65,-4000,36914,-10%,"-$50,600",1.0,3.0,-6.0,1.0,TWIN
+365,,2009-09-01 11:25:45,2009-08-31,TWIN,Bratel Dean,VP-Engineering,S - Sale,$12.45,-2000,16301,-11%,"-$24,900",-2.0,-1.0,-2.0,-5.0,TWIN
+366,,2009-08-25 16:57:55,2009-08-21,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",S - Sale,$12.23,-3500,40914,-8%,"-$42,805",-1.0,1.0,13.0,-13.0,TWIN
+367,A,2009-08-11 17:36:22,2009-08-03,TWIN,Fabry Henri Claude,VP-Int'l Distribution,A - Grant,$5.03,8634,18066,+92%,"+$43,401",0.0,-2.0,2.0,-22.0,TWIN
+368,A,2009-08-11 17:36:22,2009-08-03,TWIN,Fabry Henri Claude,VP-Int'l Distribution,F - Tax,$8.89,-1771,18066,-9%,"-$15,744",0.0,-2.0,2.0,-22.0,TWIN
+369,,2009-08-05 18:38:38,2009-08-03,TWIN,Wilcox Denise,VP-HR,A - Grant,$5.42,9600,22166,+76%,"+$51,989",1.0,6.0,5.0,-18.0,TWIN
+370,,2009-08-05 18:38:38,2009-08-03,TWIN,Wilcox Denise,VP-HR,F - Tax,$8.89,-1434,22166,-6%,"-$12,748",1.0,6.0,5.0,-18.0,TWIN
+371,,2009-08-05 18:37:02,2009-08-03,TWIN,Bratel Dean,VP-Engineering,A - Grant,$5.42,9600,18301,+110%,"+$51,989",1.0,6.0,5.0,-18.0,TWIN
+372,,2009-08-05 18:37:02,2009-08-03,TWIN,Bratel Dean,VP-Engineering,F - Tax,$8.89,-1546,18301,-8%,"-$13,744",1.0,6.0,5.0,-18.0,TWIN
+373,D,2009-08-05 18:35:26,2009-08-03,TWIN,Batten Michael E,"COB, CEO, 10%",A - Grant,$5.09,56896,1024309,+6%,"+$289,778",1.0,6.0,5.0,-18.0,TWIN
+374,D,2009-08-05 18:35:26,2009-08-03,TWIN,Batten Michael E,"COB, CEO, 10%",F - Tax,$8.89,-9526,1024309,-1%,"-$84,686",1.0,6.0,5.0,-18.0,TWIN
+375,,2009-08-05 18:33:41,2009-08-03,TWIN,Feiertag James E,EVP,A - Grant,$4.62,23432,39573,+145%,"+$108,280",1.0,6.0,5.0,-18.0,TWIN
+376,,2009-08-05 18:33:41,2009-08-03,TWIN,Feiertag James E,EVP,F - Tax,$8.89,-8434,39573,-18%,"-$74,978",1.0,6.0,5.0,-18.0,TWIN
+377,,2009-08-05 18:32:03,2009-08-03,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",A - Grant,$4.62,23432,44414,+112%,"+$108,280",1.0,6.0,5.0,-18.0,TWIN
+378,,2009-08-05 18:32:03,2009-08-03,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",F - Tax,$8.89,-6549,44414,-13%,"-$58,221",1.0,6.0,5.0,-18.0,TWIN
+379,,2009-08-05 18:30:26,2009-08-03,TWIN,Knutson Jeffrey Scott,Corporate Controller,A - Grant,$5.42,9600,10697,+875%,"+$51,989",1.0,6.0,5.0,-18.0,TWIN
+380,,2009-08-05 18:30:26,2009-08-03,TWIN,Knutson Jeffrey Scott,Corporate Controller,F - Tax,$8.89,-1021,10697,-9%,"-$9,077",1.0,6.0,5.0,-18.0,TWIN
+381,,2009-08-05 18:28:44,2009-08-03,TWIN,Valentyn Thomas E,"GC, Secretary",A - Grant,$8.89,4882,6382,+325%,"+$43,401",1.0,6.0,5.0,-18.0,TWIN
+382,,2009-08-05 18:27:37,2009-08-03,TWIN,Batten John H,"Pres, COO",A - Grant,$5.43,28911,39771,+266%,"+$156,989",1.0,6.0,5.0,-18.0,TWIN
+383,,2009-08-05 18:27:37,2009-08-03,TWIN,Batten John H,"Pres, COO",F - Tax,$8.89,-5424,39771,-12%,"-$48,219",1.0,6.0,5.0,-18.0,TWIN
+384,,2009-08-05 18:26:12,2009-08-03,TWIN,Fabry Henri Claude,VP-Int'l Distribution,A - Grant,$5.03,8634,21177,+69%,"+$43,401",1.0,6.0,5.0,-18.0,TWIN
+385,,2009-08-05 18:26:12,2009-08-03,TWIN,Fabry Henri Claude,VP-Int'l Distribution,F - Tax,$8.89,-1771,21177,-8%,"-$15,744",1.0,6.0,5.0,-18.0,TWIN
+386,D,2009-07-06 09:22:00,2009-07-01,TWIN,Batten Michael E,"COB, CEO, 10%",M - OptEx,$4.98,12000,976897,+1%,"+$59,813",4.0,-4.0,35.0,57.0,TWIN
+387,D,2009-07-06 09:22:00,2009-07-01,TWIN,Batten Michael E,"COB, CEO, 10%",S - Sale+OE,$6.70,-12000,976897,-1%,"-$80,400",4.0,-4.0,35.0,57.0,TWIN
+388,,2009-03-06 14:02:39,2009-03-05,TWIN,Valentyn Thomas E,"GC, Secretary",P - Purchase,$5.02,1500,1500,New,"+$7,535",3.0,28.0,52.0,163.0,TWIN
+389,,2008-12-01 14:39:13,2008-11-24,TWIN,Fabry Henri Claude,VP-GLOBAL DISTRIBUTION,P - Purchase,$5.34,2804,11203,+33%,"+$14,985",-13.0,-6.0,-2.0,15.0,TWIN
+390,D,2008-11-12 09:41:59,2008-11-11,TWIN,Mellowes John A,Dir,M - OptEx,$4.71,8000,22000,+57%,"+$37,690",1.0,-8.0,-1.0,26.0,TWIN
+391,D,2008-10-29 12:02:29,2008-10-28,TWIN,Zimmer David R,Dir,P - Purchase,$6.72,2000,13760,+17%,"+$13,437",4.0,20.0,3.0,4.0,TWIN
+392,AD,2008-10-29 10:48:04,2008-10-24,TWIN,Doar Michael,Dir,P - Purchase,$7.00,5000,6200,+417%,"+$35,000",4.0,20.0,3.0,4.0,TWIN
+393,D,2008-10-28 09:42:01,2008-10-24,TWIN,Doar Michael,Dir,P - Purchase,$7.00,5000,5000,New,"+$35,000",0.0,21.0,-16.0,9.0,TWIN
+394,D,2008-10-21 15:53:39,2008-10-17,TWIN,Zimmer David R,Dir,A - Grant,$0.00,1200,11760,+11%,+$0,-20.0,-35.0,-49.0,-25.0,TWIN
+395,D,2008-10-21 15:48:42,2008-10-17,TWIN,Stratton Harold M II,Dir,A - Grant,$0.00,1200,6000,+25%,+$0,-20.0,-35.0,-49.0,-25.0,TWIN
+396,D,2008-10-21 15:46:03,2008-10-17,TWIN,Rayburn David B,Dir,A - Grant,$0.00,1200,6000,+25%,+$0,-20.0,-35.0,-49.0,-25.0,TWIN
+397,D,2008-10-21 15:43:11,2008-10-17,TWIN,Moore Malcolm F,Dir,A - Grant,$0.00,1200,3600,+50%,+$0,-20.0,-35.0,-49.0,-25.0,TWIN
+398,D,2008-10-21 15:39:13,2008-10-17,TWIN,Mellowes John A,Dir,A - Grant,$0.00,1200,10000,+14%,+$0,-20.0,-35.0,-49.0,-25.0,TWIN
+399,,2008-10-16 14:26:22,2008-10-15,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",F - Tax,$9.77,-2592,27550,-9%,"-$25,324",22.0,-13.0,-21.0,7.0,TWIN
+400,AD,2008-08-19 08:57:53,2008-08-08,TWIN,Swift David L,Dir,M - OptEx,$6.02,6400,6400,New,"+$38,538",1.0,-4.0,-23.0,-68.0,TWIN
+401,AD,2008-08-19 08:57:53,2008-08-08,TWIN,Swift David L,Dir,S - Sale+OE,$18.00,-6400,6400,-50%,"-$115,200",1.0,-4.0,-23.0,-68.0,TWIN
+402,D,2008-08-08 16:19:19,2008-08-08,TWIN,Swift David L,Dir,M - OptEx,$6.02,6400,12800,+100%,"+$38,538",-2.0,-5.0,-19.0,-65.0,TWIN
+403,D,2008-08-08 16:07:20,2008-08-08,TWIN,Mellowes John A,Dir,M - OptEx,$5.73,4000,8800,+83%,"+$22,938",-2.0,-5.0,-19.0,-65.0,TWIN
+404,A,2008-07-29 18:03:19,2008-07-24,TWIN,Wilcox Denise,VP-HR,A - Grant,$0.00,9400,13720,+218%,+$0,0.0,-14.0,-20.0,-75.0,TWIN
+405,A,2008-07-29 18:03:19,2008-07-24,TWIN,Wilcox Denise,VP-HR,F - Tax,$21.69,-3709,13720,-21%,"-$80,448",0.0,-14.0,-20.0,-75.0,TWIN
+406,A,2008-07-29 18:01:54,2008-07-24,TWIN,Bratel Dean,VP-ENGINEERING,A - Grant,$0.00,9400,10089,>999%,+$0,0.0,-14.0,-20.0,-75.0,TWIN
+407,A,2008-07-29 18:01:54,2008-07-24,TWIN,Bratel Dean,VP-ENGINEERING,F - Tax,$21.69,-3549,10089,-26%,"-$76,978",0.0,-14.0,-20.0,-75.0,TWIN
+408,A,2008-07-29 18:00:55,2008-07-24,TWIN,Feiertag James E,EVP,A - Grant,$3.74,14500,24308,+148%,"+$54,225",0.0,-14.0,-20.0,-75.0,TWIN
+409,A,2008-07-29 18:00:55,2008-07-24,TWIN,Feiertag James E,EVP,F - Tax,$21.69,-5184,24308,-18%,"-$112,441",0.0,-14.0,-20.0,-75.0,TWIN
+410,A,2008-07-29 17:59:02,2008-07-24,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",A - Grant,$3.74,14500,30142,+93%,"+$54,225",0.0,-14.0,-20.0,-75.0,TWIN
+411,A,2008-07-29 17:59:02,2008-07-24,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",F - Tax,$21.69,-5784,30142,-16%,"-$125,455",0.0,-14.0,-20.0,-75.0,TWIN
+412,A,2008-07-29 17:56:56,2008-07-24,TWIN,Batten John H,EVP,A - Grant,$0.00,14500,16191,+857%,+$0,0.0,-14.0,-20.0,-75.0,TWIN
+413,A,2008-07-29 17:56:56,2008-07-24,TWIN,Batten John H,EVP,F - Tax,$21.69,-5184,16191,-24%,"-$112,441",0.0,-14.0,-20.0,-75.0,TWIN
+414,A,2008-07-29 17:56:06,2008-07-24,TWIN,Knutson Jeffrey Scott,Corporate Controller,A - Grant,$0.00,3000,2118,-340%,+$0,0.0,-14.0,-20.0,-75.0,TWIN
+415,A,2008-07-29 17:56:06,2008-07-24,TWIN,Knutson Jeffrey Scott,Corporate Controller,F - Tax,$21.69,-882,2118,-29%,"-$19,131",0.0,-14.0,-20.0,-75.0,TWIN
+416,,2008-07-28 13:01:07,2008-07-24,TWIN,Knutson Jeffrey Scott,Corporate Controller,A - Grant,$0.00,2000,1118,-227%,+$0,-5.0,-10.0,-19.0,-68.0,TWIN
+417,,2008-07-28 13:01:07,2008-07-24,TWIN,Knutson Jeffrey Scott,Corporate Controller,F - Tax,$21.69,-882,1118,-44%,"-$19,131",-5.0,-10.0,-19.0,-68.0,TWIN
+418,,2008-07-28 12:54:43,2008-07-24,TWIN,Wilcox Denise,VP-HR,A - Grant,$0.00,8400,12720,+194%,+$0,-5.0,-10.0,-19.0,-68.0,TWIN
+419,,2008-07-28 12:54:43,2008-07-24,TWIN,Wilcox Denise,VP-HR,F - Tax,$21.69,-3709,12720,-23%,"-$80,448",-5.0,-10.0,-19.0,-68.0,TWIN
+420,,2008-07-28 12:47:22,2008-07-24,TWIN,Bratel Dean,VP-ENGINEERING,A - Grant,$0.00,8400,9089,>999%,+$0,-5.0,-10.0,-19.0,-68.0,TWIN
+421,,2008-07-28 12:47:22,2008-07-24,TWIN,Bratel Dean,VP-ENGINEERING,F - Tax,$21.69,-3549,9089,-28%,"-$76,978",-5.0,-10.0,-19.0,-68.0,TWIN
+422,,2008-07-28 12:38:25,2008-07-24,TWIN,Fabry Henri Claude,VP-GLOBAL DISTRIBUTION,A - Grant,$0.00,6000,8399,+250%,+$0,-5.0,-10.0,-19.0,-68.0,TWIN
+423,,2008-07-28 12:38:25,2008-07-24,TWIN,Fabry Henri Claude,VP-GLOBAL DISTRIBUTION,F - Tax,$21.69,-2223,8399,-21%,"-$48,217",-5.0,-10.0,-19.0,-68.0,TWIN
+424,,2008-07-28 11:42:49,2008-07-24,TWIN,Feiertag James E,EVP,A - Grant,$0.00,12000,21808,+122%,+$0,-5.0,-10.0,-19.0,-68.0,TWIN
+425,,2008-07-28 11:42:49,2008-07-24,TWIN,Feiertag James E,EVP,F - Tax,$21.69,-5184,21808,-19%,"-$112,441",-5.0,-10.0,-19.0,-68.0,TWIN
+426,,2008-07-28 11:35:30,2008-07-24,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",A - Grant,$0.00,12000,27642,+77%,+$0,-5.0,-10.0,-19.0,-68.0,TWIN
+427,,2008-07-28 11:35:30,2008-07-24,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",F - Tax,$21.69,-5784,27642,-17%,"-$125,455",-5.0,-10.0,-19.0,-68.0,TWIN
+428,,2008-07-28 11:28:10,2008-07-24,TWIN,Batten John H,EVP,A - Grant,$0.00,12000,13691,+710%,+$0,-5.0,-10.0,-19.0,-68.0,TWIN
+429,,2008-07-28 11:28:10,2008-07-24,TWIN,Batten John H,EVP,F - Tax,$21.69,-5184,13691,-27%,"-$112,441",-5.0,-10.0,-19.0,-68.0,TWIN
+430,D,2008-07-28 11:20:42,2008-07-24,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",A - Grant,$0.00,36000,976897,+4%,+$0,-5.0,-10.0,-19.0,-68.0,TWIN
+431,D,2008-07-28 11:20:42,2008-07-24,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",F - Tax,$21.69,-15912,976897,-2%,"-$345,131",-5.0,-10.0,-19.0,-68.0,TWIN
+432,D,2008-05-08 15:24:44,2008-01-02,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",G - Gift,$0.00,-350,956797,0%,-$0,-3.0,-2.0,5.0,-57.0,TWIN
+433,D,2008-05-08 15:24:44,2008-05-06,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",M - OptEx,$6.31,18000,956797,+2%,"+$113,631",-3.0,-2.0,5.0,-57.0,TWIN
+434,D,2008-05-08 15:24:44,2008-05-06,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",S - Sale+OE,$18.00,-18000,956797,-2%,"-$324,031",-3.0,-2.0,5.0,-57.0,TWIN
+435,,2008-03-05 14:58:31,2008-03-03,TWIN,Bratel Dean,VP-ENGINEERING,S - Sale,$19.92,-1500,4223,-26%,"-$29,880",-2.0,-10.0,-28.0,-9.0,TWIN
+436,DM,2008-02-08 14:56:44,2008-02-06,TWIN,Zimmer David R,Dir,M - OptEx,$4.45,3114,10560,+42%,"+$13,867",1.0,13.0,3.0,10.0,TWIN
+437,DM,2008-02-08 14:56:44,2008-02-06,TWIN,Zimmer David R,Dir,S - Sale+OE,$16.33,-3114,10560,-23%,"-$50,858",1.0,13.0,3.0,10.0,TWIN
+438,D,2008-02-06 14:06:06,2008-02-04,TWIN,Zimmer David R,Dir,M - OptEx,$3.89,4886,10560,+86%,"+$18,996",-3.0,7.0,12.0,14.0,TWIN
+439,D,2008-02-06 14:06:06,2008-02-04,TWIN,Zimmer David R,Dir,S - Sale+OE,$17.18,-4886,10560,-32%,"-$83,943",-3.0,7.0,12.0,14.0,TWIN
+440,,2008-01-29 18:00:25,2008-01-25,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Treasurer",S - Sale,$16.72,-6000,21417,-22%,"-$100,295",1.0,13.0,43.0,39.0,TWIN
+441,D,2007-10-23 11:36:54,2007-10-19,TWIN,Moore Malcolm F,Dir,A - Grant,$0.00,600,1200,+100%,+$0,10.0,23.0,10.0,-37.0,TWIN
+442,D,2007-10-22 16:42:14,2007-10-19,TWIN,Zimmer David R,Dir,A - Grant,$0.00,600,5280,+13%,+$0,9.0,20.0,10.0,-40.0,TWIN
+443,D,2007-10-22 16:37:47,2007-10-19,TWIN,Swift David L,Dir,A - Grant,$0.00,600,3200,+23%,+$0,9.0,20.0,10.0,-40.0,TWIN
+444,D,2007-10-22 16:13:59,2007-10-19,TWIN,Stratton Harold M II,Dir,A - Grant,$0.00,600,2400,+33%,+$0,9.0,20.0,10.0,-40.0,TWIN
+445,D,2007-10-22 16:02:54,2007-10-19,TWIN,Rayburn David B,Dir,A - Grant,$0.00,600,2400,+33%,+$0,9.0,20.0,10.0,-40.0,TWIN
+446,D,2007-10-22 15:41:29,2007-10-19,TWIN,Mellowes John A,Dir,A - Grant,$0.00,600,2400,+33%,+$0,2.0,22.0,12.0,-38.0,TWIN
+447,,2007-09-05 15:33:20,2007-08-31,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Secretary",S - Sale,$54.69,-2500,13874,-15%,"-$136,713",1.0,-1.0,15.0,-24.0,TWIN
+448,D,2007-08-31 12:09:15,2007-08-30,TWIN,Zimmer David R,Dir,M - OptEx,$6.51,2000,4680,+75%,"+$13,010",2.0,-4.0,13.0,-24.0,TWIN
+449,DM,2007-08-31 12:09:15,2007-08-30,TWIN,Zimmer David R,Dir,S - Sale+OE,$53.77,-2020,4680,-30%,"-$108,611",2.0,-4.0,13.0,-24.0,TWIN
+450,D,2007-08-29 08:59:55,2007-08-27,TWIN,Feiertag James E,EVP,M - OptEx,$7.53,3500,7423,+89%,"+$26,338",1.0,1.0,14.0,-20.0,TWIN
+451,D,2007-08-29 08:59:55,2007-08-27,TWIN,Feiertag James E,EVP,S - Sale+OE,$53.86,-3500,7423,-32%,"-$188,525",1.0,1.0,14.0,-20.0,TWIN
+452,,2007-08-21 17:20:38,2007-08-20,TWIN,Wilcox Denise,VP-HR,F - Tax,$54.78,-645,4002,-14%,"-$35,330",1.0,-3.0,2.0,-26.0,TWIN
+453,,2007-08-21 17:17:56,2007-08-20,TWIN,Bratel Dean,VP-ENGINEERING,F - Tax,$54.78,-645,2846,-18%,"-$35,330",1.0,-3.0,2.0,-26.0,TWIN
+454,,2007-08-21 17:15:08,2007-08-20,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Secretary",F - Tax,$54.78,-6880,16374,-30%,"-$376,852",1.0,-3.0,2.0,-26.0,TWIN
+455,,2007-08-07 09:23:03,2007-08-03,TWIN,Bratel Dean,VP-ENGINEERING,S - Sale,$51.05,-1012,3491,-22%,"-$51,663",2.0,11.0,9.0,-31.0,TWIN
+456,D,2007-08-07 09:13:14,2007-08-03,TWIN,Swift David L,Dir,S - Sale+OE,$51.18,-1000,2600,-28%,"-$51,180",2.0,11.0,9.0,-31.0,TWIN
+457,D,2007-08-01 12:44:04,2007-07-31,TWIN,Swift David L,Dir,M - OptEx,$14.38,1000,3600,+38%,"+$14,375",-6.0,-10.0,-2.0,-44.0,TWIN
+458,D,2007-07-31 17:18:14,2007-07-27,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",A - Grant,$0.00,14400,478573,+3%,+$0,-5.0,-9.0,-3.0,-37.0,TWIN
+459,D,2007-07-31 17:18:14,2007-07-27,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",F - Tax,$61.98,-6366,478573,-1%,"-$394,565",-5.0,-9.0,-3.0,-37.0,TWIN
+460,,2007-07-31 17:15:06,2007-07-27,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Secretary",A - Grant,$0.00,6000,23254,+35%,+$0,-5.0,-9.0,-3.0,-37.0,TWIN
+461,,2007-07-31 17:15:06,2007-07-27,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Secretary",F - Tax,$61.98,-2592,23254,-10%,"-$160,652",-5.0,-9.0,-3.0,-37.0,TWIN
+462,,2007-07-31 17:11:21,2007-07-27,TWIN,Wilcox Denise,VP-HR,A - Grant,$0.00,1800,4618,+64%,+$0,-5.0,-9.0,-3.0,-37.0,TWIN
+463,,2007-07-31 17:11:21,2007-07-27,TWIN,Wilcox Denise,VP-HR,F - Tax,$61.98,-780,4618,-14%,"-$48,344",-5.0,-9.0,-3.0,-37.0,TWIN
+464,,2007-07-31 17:07:52,2007-07-27,TWIN,Bratel Dean,VP-ENGINEERING,A - Grant,$0.00,1800,4503,+67%,+$0,-5.0,-9.0,-3.0,-37.0,TWIN
+465,,2007-07-31 17:07:52,2007-07-27,TWIN,Bratel Dean,VP-ENGINEERING,F - Tax,$61.98,-788,4503,-15%,"-$48,840",-5.0,-9.0,-3.0,-37.0,TWIN
+466,D,2007-07-31 17:01:00,2007-07-27,TWIN,Feiertag James E,EVP,A - Grant,$0.00,6000,7423,+422%,+$0,-5.0,-9.0,-3.0,-37.0,TWIN
+467,D,2007-07-31 17:01:00,2007-07-27,TWIN,Feiertag James E,EVP,F - Tax,$61.98,-2592,7423,-26%,"-$160,652",-5.0,-9.0,-3.0,-37.0,TWIN
+468,,2007-07-31 16:56:37,2007-07-27,TWIN,Fabry Henri Claude,VP-GLOBAL DISTRIBUTION,A - Grant,$0.00,4200,2311,-222%,+$0,-5.0,-9.0,-3.0,-37.0,TWIN
+469,,2007-07-31 16:56:37,2007-07-27,TWIN,Fabry Henri Claude,VP-GLOBAL DISTRIBUTION,F - Tax,$61.98,-1889,2311,-45%,"-$117,080",-5.0,-9.0,-3.0,-37.0,TWIN
+470,,2007-07-31 16:50:09,2007-07-27,TWIN,Batten John H,EVP,A - Grant,$0.00,4200,3363,-502%,+$0,-5.0,-9.0,-3.0,-37.0,TWIN
+471,,2007-07-31 16:50:09,2007-07-27,TWIN,Batten John H,EVP,F - Tax,$61.98,-1816,3363,-35%,"-$112,556",-5.0,-9.0,-3.0,-37.0,TWIN
+472,,2007-02-13 10:54:21,2007-02-09,TWIN,Eperjesy Christopher J,"CFO, VP Finance, Secretary",S - Sale,$42.46,-500,19843,-2%,"-$21,230",0.0,6.0,-5.0,24.0,TWIN
+473,D,2007-02-02 11:16:30,2007-01-31,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",M - OptEx,$14.38,6000,1234696,0%,"+$86,250",3.0,4.0,-6.0,24.0,TWIN
+474,D,2007-02-02 11:16:30,2007-01-31,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",S - Sale+OE,$40.46,-6000,1234696,0%,"-$242,761",3.0,4.0,-6.0,24.0,TWIN
+475,D,2007-01-29 12:32:25,2007-01-26,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",M - OptEx,$14.38,3000,1234696,0%,"+$43,125",2.0,9.0,9.0,58.0,TWIN
+476,D,2007-01-29 12:32:25,2007-01-26,TWIN,Batten Michael E,"COB, Pres, CEO, 10%",S - Sale+OE,$38.00,-3000,1234696,0%,"-$114,000",2.0,9.0,9.0,58.0,TWIN
+477,,2007-01-29 12:22:53,2007-01-26,TWIN,Eperjesy Christopher J,"CFO, VP FINANCE, SECRETARY",S - Sale,$37.94,-1000,20343,-5%,"-$37,940",2.0,9.0,9.0,58.0,TWIN
+478,D,2006-10-24 14:51:31,2006-10-20,TWIN,Zimmer David R,Dir,A - Grant,$0.00,600,4700,+15%,+$0,-1.0,-1.0,-5.0,64.0,TWIN
+479,D,2006-10-24 11:16:54,2006-10-20,TWIN,Swift David L,Dir,A - Grant,$0.00,600,2600,+30%,+$0,-1.0,-1.0,-5.0,64.0,TWIN
+480,D,2006-10-24 11:03:10,2006-10-20,TWIN,Rayburn David B,Dir,A - Grant,$0.00,600,1800,+50%,+$0,-1.0,-1.0,-5.0,64.0,TWIN
+481,D,2006-10-24 10:14:23,2006-10-20,TWIN,Stratton Harold M II,Dir,A - Grant,$0.00,600,1800,+50%,+$0,-1.0,-1.0,-5.0,64.0,TWIN
+482,D,2006-10-24 10:09:37,2006-10-20,TWIN,Mellowes John A,Dir,A - Grant,$0.00,600,1800,+50%,+$0,-1.0,-1.0,-5.0,64.0,TWIN
+483,,2006-10-17 11:04:07,2006-10-15,TWIN,Eperjesy Christopher J,"CFO, VP FINANCE, SECRETARY",F - Tax,$34.03,-1500,21341,-7%,"-$51,045",0.0,4.0,-1.0,38.0,TWIN
+484,AD,2006-08-30 16:48:49,2005-08-08,TWIN,Batten Michael E,"COB, CEO, 10%",S - Sale+OE,$29.00,-2058,616344,0%,"-$59,682",2.0,2.0,-6.0,18.0,TWIN
+485,D,2006-08-30 15:25:54,2006-08-08,TWIN,Batten Michael E,"COB, CEO",S - Sale+OE,$29.00,-2058,617344,0%,"-$59,682",1.0,3.0,-4.0,19.0,TWIN
+486,D,2006-08-23 16:41:02,2006-08-18,TWIN,Batten Michael E,"COB, CEO",D - Sale to issuer,$35.00,-2708,1234696,0%,"-$94,780",-2.0,0.0,-6.0,36.0,TWIN
+487,D,2006-08-23 16:41:02,2006-08-18,TWIN,Batten Michael E,"COB, CEO",M - OptEx,$10.94,2708,1234696,0%,"+$29,619",-2.0,0.0,-6.0,36.0,TWIN
+488,D,2006-08-14 16:44:10,2006-08-11,TWIN,Fabry Henri Claude,VP-GLOBAL DISTRIBUTION,M - OptEx,$13.76,1800,0,-100%,"+$24,775",1.0,3.0,5.0,29.0,TWIN
+489,D,2006-08-14 16:44:10,2006-08-11,TWIN,Fabry Henri Claude,VP-GLOBAL DISTRIBUTION,S - Sale+OE,$32.23,-1800,0,-100%,"-$58,014",1.0,3.0,5.0,29.0,TWIN
+490,AD,2006-08-09 16:04:34,2006-08-04,TWIN,Feiertag James E,EVP,M - OptEx,$7.53,3000,3923,+325%,"+$22,575",-2.0,2.0,5.0,30.0,TWIN
+491,AD,2006-08-09 16:04:34,2006-08-04,TWIN,Feiertag James E,EVP,S - Sale+OE,$36.08,-3000,3923,-43%,"-$108,240",-2.0,2.0,5.0,30.0,TWIN
+492,D,2006-08-09 15:33:47,2006-08-07,TWIN,Swift David L,Dir,M - OptEx,$10.94,800,2000,+67%,"+$8,750",0.0,2.0,5.0,30.0,TWIN
+493,D,2006-08-09 14:47:49,2006-08-03,TWIN,Feiertag James E,EVP,M - OptEx,$7.53,3000,1870,-265%,"+$22,575",0.0,2.0,5.0,30.0,TWIN
+494,D,2006-08-09 14:47:49,2006-08-03,TWIN,Feiertag James E,EVP,S - Sale+OE,$36.08,-3000,1870,-62%,"-$108,240",0.0,2.0,5.0,30.0,TWIN
+495,D,2006-06-12 15:16:33,2006-06-09,TWIN,Batten Michael E,"COB, CEO",D - Sale to issuer,$29.80,-900,1238812,0%,"-$26,821",1.0,0.0,7.0,13.0,TWIN
+496,D,2006-06-12 15:16:33,2006-06-09,TWIN,Batten Michael E,"COB, CEO",M - OptEx,$12.03,900,1238812,0%,"+$10,827",1.0,0.0,7.0,13.0,TWIN
+497,AD,2006-06-08 15:12:09,2006-06-05,TWIN,Batten Michael E,"COB, CEO",M - OptEx,$12.03,900,1238812,0%,"+$10,827",-1.0,-4.0,4.0,13.0,TWIN
+498,AD,2006-06-08 15:12:09,2006-06-05,TWIN,Batten Michael E,"COB, CEO",S - Sale+OE,$33.00,-900,1238812,0%,"-$29,700",-1.0,-4.0,4.0,13.0,TWIN
+499,AD,2006-06-08 14:59:27,2006-05-31,TWIN,Batten Michael E,"COB, CEO",M - OptEx,$12.03,2200,1238812,0%,"+$26,466",-1.0,-4.0,4.0,13.0,TWIN
+500,AD,2006-06-08 14:59:27,2006-05-31,TWIN,Batten Michael E,"COB, CEO",S - Sale+OE,$33.01,-2200,1238812,0%,"-$72,622",-1.0,-4.0,4.0,13.0,TWIN
+501,D,2006-06-07 17:55:04,2006-06-05,TWIN,Batten Michael E,"COB, CEO",M - OptEx,$12.03,900,834620,0%,"+$10,827",-1.0,-2.0,3.0,13.0,TWIN
+502,D,2006-06-07 17:55:04,2006-06-05,TWIN,Batten Michael E,"COB, CEO",S - Sale+OE,$33.00,-900,834620,0%,"-$29,700",-1.0,-2.0,3.0,13.0,TWIN
+503,D,2006-06-02 14:28:20,2006-05-31,TWIN,Batten Michael E,"COB, CEO",M - OptEx,$12.03,2200,834620,0%,"+$26,466",-1.0,-8.0,-7.0,4.0,TWIN
+504,D,2006-06-02 14:28:20,2006-05-31,TWIN,Batten Michael E,"COB, CEO",S - Sale+OE,$33.01,-2200,834620,0%,"-$72,622",-1.0,-8.0,-7.0,4.0,TWIN
+505,D,2006-05-31 15:29:39,2006-05-26,TWIN,Feiertag James E,EVP,M - OptEx,$7.75,6500,3898,-250%,"+$50,350",-3.0,-7.0,-11.0,2.0,TWIN
+506,D,2006-05-31 15:29:39,2006-05-26,TWIN,Feiertag James E,EVP,S - Sale+OE,$32.50,-6500,3898,-63%,"-$211,250",-3.0,-7.0,-11.0,2.0,TWIN
+507,D,2006-05-25 12:14:08,2006-05-23,TWIN,Zimmer David R,Dir,M - OptEx,$11.67,7000,7800,+875%,"+$81,663",2.0,9.0,0.0,12.0,TWIN
+508,D,2006-05-25 12:14:08,2006-05-23,TWIN,Zimmer David R,Dir,S - Sale+OE,$30.57,-7000,7800,-47%,"-$213,960",2.0,9.0,0.0,12.0,TWIN
+509,,2006-05-25 09:01:37,2006-05-22,TWIN,Bratel Dean,VP-ENGINEERING,S - Sale,$29.02,-400,3467,-10%,"-$11,608",2.0,9.0,0.0,12.0,TWIN
+510,,2006-05-23 17:02:13,2006-05-19,TWIN,Eperjesy Christopher J,"CFO, VP FINANCE, SECRETARY",S - Sale,$29.04,-5190,22836,-19%,"-$150,712",0.0,11.0,-7.0,17.0,TWIN
+511,D,2006-05-22 14:30:11,2006-05-19,TWIN,Batten John H,EVP,M - OptEx,$10.03,1200,891,-388%,"+$12,038",2.0,12.0,-4.0,21.0,TWIN
+512,D,2006-05-22 14:30:11,2006-05-19,TWIN,Batten John H,EVP,S - Sale+OE,$28.93,-1200,891,-57%,"-$34,717",2.0,12.0,-4.0,21.0,TWIN
+513,,2005-11-15 12:05:20,2005-11-11,TWIN,Eperjesy Christopher J,"CFO, VP FINANCE, SECRETARY",S - Sale,$39.15,-790,17605,-4%,"-$30,932",0.0,11.0,11.0,64.0,TWIN
+514,D,2005-11-03 15:17:45,2005-10-21,TWIN,Zimmer David R,Dir,A - Grant,$40.45,300,600,+100%,"+$12,135",1.0,6.0,24.0,81.0,TWIN
+515,D,2005-11-03 15:04:57,2005-10-21,TWIN,Wardeberg George E,Dir,A - Grant,$40.45,300,600,+100%,"+$12,135",1.0,6.0,24.0,81.0,TWIN
+516,D,2005-11-03 14:51:26,2005-10-21,TWIN,Swift David L,Dir,A - Grant,$40.45,300,600,+100%,"+$12,135",1.0,6.0,24.0,81.0,TWIN
+517,D,2005-11-03 14:39:15,2005-10-21,TWIN,Stratton Harold M II,Dir,A - Grant,$40.45,300,600,+100%,"+$12,135",1.0,6.0,24.0,81.0,TWIN
+518,D,2005-11-03 11:49:13,2005-10-21,TWIN,Rayburn David B,Dir,A - Grant,$40.45,300,600,+100%,"+$12,135",1.0,6.0,24.0,81.0,TWIN
+519,D,2005-11-03 11:30:05,2005-10-21,TWIN,Mellowes John A,Dir,A - Grant,$40.45,300,600,+100%,"+$12,135",1.0,6.0,24.0,81.0,TWIN
+520,,2005-09-02 12:11:09,2005-08-29,TWUB,Wilcox Denise,VP-HR,S - Sale,$32.63,-237,980,-19%,"-$7,733",,,,,TWIN
+521,,2005-09-02 12:02:08,2005-08-29,TWIN,Timm Fred H,"VP-Administration, Secretary",S - Sale,$32.63,-158,841,-16%,"-$5,156",-6.0,0.0,4.0,31.0,TWIN
+522,,2005-08-29 15:35:56,2005-08-26,TWIN,Bratel Dean,VP-ENGINEERING,S - Sale,$32.83,-550,1908,-22%,"-$18,056",0.0,10.0,21.0,60.0,TWIN
+523,,2005-08-29 15:21:27,2005-08-25,TWIN,Eperjesy Christopher J,"CFO, VP-FINANCE, TREASURER",S - Sale,$32.97,-3520,18393,-16%,"-$116,038",0.0,10.0,21.0,60.0,TWIN
+524,,2005-08-24 15:53:39,2005-08-23,TWIN,Batten John H,EVP,S - Sale,$33.25,-300,0,-100%,"-$9,976",0.0,-3.0,11.0,58.0,TWIN
+525,D,2005-08-24 11:36:57,2005-08-23,TWIN,Joyce Michael H,"Pres, COO",M - OptEx,$28.75,494,0,-100%,"+$14,203",0.0,-3.0,11.0,58.0,TWIN
+526,D,2005-08-24 11:36:57,2005-08-23,TWIN,Joyce Michael H,"Pres, COO",S - Sale+OE,$34.25,-494,0,-100%,"-$16,920",0.0,-3.0,11.0,58.0,TWIN
+527,DM,2005-08-23 16:04:45,2005-08-19,TWIN,Joyce Michael H,"Pres, COO",M - OptEx,$25.55,12006,0,-100%,"+$306,744",0.0,-6.0,11.0,58.0,TWIN
+528,DM,2005-08-23 16:04:45,2005-08-19,TWIN,Joyce Michael H,"Pres, COO",S - Sale+OE,$32.79,-12006,0,-100%,"-$393,658",0.0,-6.0,11.0,58.0,TWIN
+529,D,2005-08-18 09:58:08,2005-08-17,TWIN,Feiertag James E,EVP,M - OptEx,$14.45,3000,1856,-262%,"+$43,350",-1.0,6.0,18.0,68.0,TWIN
+530,D,2005-08-18 09:58:08,2005-08-17,TWIN,Feiertag James E,EVP,S - Sale+OE,$31.81,-3000,1856,-62%,"-$95,434",-1.0,6.0,18.0,68.0,TWIN
+531,D,2005-08-15 15:46:46,2005-08-12,TWIN,Wilcox Denise,VP-HR,M - OptEx,$14.65,600,463,-439%,"+$8,790",0.0,-1.0,13.0,59.0,TWIN
+532,D,2005-08-15 15:46:46,2005-08-12,TWIN,Wilcox Denise,VP-HR,S - Sale+OE,$31.85,-600,463,-56%,"-$19,112",0.0,-1.0,13.0,59.0,TWIN
+533,D,2005-08-15 15:22:20,2005-08-11,TWIN,Timm Fred H,"VP-Administration, Secretary",M - OptEx,$26.00,1950,841,-176%,"+$50,700",0.0,-1.0,13.0,59.0,TWIN
+534,D,2005-08-15 15:22:20,2005-08-11,TWIN,Timm Fred H,"VP-Administration, Secretary",S - Sale+OE,$32.55,-1950,841,-70%,"-$63,473",0.0,-1.0,13.0,59.0,TWIN
+535,DM,2005-08-09 15:02:08,2005-08-05,TWIN,Batten Michael E,"COB, CEO",M - OptEx,$22.66,8000,619402,+1%,"+$181,281",-1.0,14.0,25.0,87.0,TWIN
+536,DM,2005-08-09 15:02:08,2005-08-05,TWIN,Batten Michael E,"COB, CEO",S - Sale+OE,$28.00,-8000,619402,-1%,"-$224,017",-1.0,14.0,25.0,87.0,TWIN
+537,D,2005-03-02 11:43:33,2005-02-28,TWIN,Joyce Michael H,"Pres, COO",M - OptEx,$24.50,3508,5628,+165%,"+$85,946",-3.0,-6.0,-7.0,25.0,TWIN
+538,D,2005-03-02 11:43:33,2005-02-28,TWIN,Joyce Michael H,"Pres, COO",S - Sale+OE,$27.00,-3508,5628,-38%,"-$94,716",-3.0,-6.0,-7.0,25.0,TWIN
+539,D,2005-02-24 12:42:54,2005-02-23,TWIN,Joyce Michael H,"Pres, COO",M - OptEx,$24.50,100,5628,+2%,"+$2,450",0.0,-2.0,-5.0,35.0,TWIN
+540,D,2005-02-24 12:42:54,2005-02-23,TWIN,Joyce Michael H,"Pres, COO",S - Sale+OE,$27.00,-100,5628,-2%,"-$2,700",0.0,-2.0,-5.0,35.0,TWIN
+541,D,2005-02-22 16:54:20,2005-02-22,TWIN,Joyce Michael H,"Pres, COO",M - OptEx,$24.50,100,5628,+2%,"+$2,450",0.0,2.0,-2.0,25.0,TWIN
+542,D,2005-02-22 16:54:20,2005-02-22,TWIN,Joyce Michael H,"Pres, COO",S - Sale+OE,$27.00,-100,5628,-2%,"-$2,700",0.0,2.0,-2.0,25.0,TWIN
+543,D,2005-02-10 15:38:00,2005-02-09,TWIN,Joyce Michael H,"Pres, COO",M - OptEx,$19.21,3792,5628,+207%,"+$72,843",1.0,2.0,-5.0,18.0,TWIN
+544,D,2005-02-10 15:38:00,2005-02-09,TWIN,Joyce Michael H,"Pres, COO",S - Sale+OE,$27.02,-3792,5628,-40%,"-$102,466",1.0,2.0,-5.0,18.0,TWIN
+545,D,2004-12-01 12:33:56,2004-11-30,TWIN,Powers Paul J,Dir,A - Grant,$24.90,300,300,New,"+$7,470",2.0,2.0,2.0,-11.0,TWIN
+546,D,2004-11-24 09:32:38,2004-11-22,TWIN,Powers Paul J,Dir,M - OptEx,$18.85,6300,0,-100%,"+$118,762",0.0,1.0,1.0,-16.0,TWIN
+547,D,2004-11-24 09:32:38,2004-11-22,TWIN,Powers Paul J,Dir,S - Sale+OE,$25.10,-6300,0,-100%,"-$158,130",0.0,1.0,1.0,-16.0,TWIN
+548,D,2004-11-17 09:55:09,2004-11-15,TWIN,Fabry Henri Claude,VP-GLOBAL DISTRIBUTION,M - OptEx,$16.81,8000,4000,-200%,"+$134,502",0.0,-1.0,0.0,-18.0,TWIN
+549,D,2004-11-17 09:55:09,2004-11-15,TWIN,Fabry Henri Claude,VP-GLOBAL DISTRIBUTION,S - Sale+OE,$24.79,-8000,4000,-67%,"-$198,306",0.0,-1.0,0.0,-18.0,TWIN
+550,D,2004-11-09 12:32:48,2004-11-08,TWIN,Joyce Michael H,"Pres, COO",M - OptEx,$19.94,749,5628,+15%,"+$14,933",1.0,0.0,1.0,-13.0,TWIN
+551,D,2004-11-09 12:32:48,2004-11-08,TWIN,Joyce Michael H,"Pres, COO",S - Sale+OE,$24.90,-749,5628,-12%,"-$18,650",1.0,0.0,1.0,-13.0,TWIN
+552,DM,2004-10-27 12:00:27,2004-10-22,TWIN,Joyce Michael H,"Pres, COO",M - OptEx,$19.94,1751,5628,+45%,"+$34,911",0.0,-3.0,5.0,-8.0,TWIN
+553,DM,2004-10-27 12:00:27,2004-10-22,TWIN,Joyce Michael H,"Pres, COO",S - Sale+OE,$24.90,-1751,5628,-24%,"-$43,600",0.0,-3.0,5.0,-8.0,TWIN
+554,D,2004-10-22 09:25:18,2004-10-21,TWIN,Joyce Michael H,"Pres, COO",M - OptEx,$14.45,2000,5628,+55%,"+$28,900",-3.0,-6.0,4.0,-18.0,TWIN
+555,D,2004-10-22 09:25:18,2004-10-21,TWIN,Joyce Michael H,"Pres, COO",S - Sale+OE,$24.90,-2000,5628,-26%,"-$49,800",-3.0,-6.0,4.0,-18.0,TWIN
+556,D,2004-10-22 09:16:35,2004-10-20,TDI,Joyce Michael H,"Pres, COO",M - OptEx,$14.45,2000,5628,+55%,"+$28,900",,,,,TWIN
+557,D,2004-10-22 09:16:35,2004-10-20,TDI,Joyce Michael H,"Pres, COO",S - Sale+OE,$24.94,-2000,5628,-26%,"-$49,870",,,,,TWIN
+558,AE,2004-10-19 17:53:09,2004-10-15,TDI,Eperjesy Christopher J,"CFO, VP - FINANCE, TREASURER",A - Grant,$24.90,3000,22116,+16%,"+$74,700",,,,,TWIN
+559,,2004-10-19 16:17:28,2004-10-15,TDI,Eperjesy Christopher J,"CFO, VP - FINANCE, TREASURER",A - Grant,$24.90,3000,21850,+16%,"+$74,700",,,,,TWIN
+560,D,2004-10-19 15:53:26,2004-10-15,TDI,Stratton Harold M II,Dir,A - Grant,$24.90,300,300,New,"+$7,470",,,,,TWIN
+561,D,2004-10-19 15:40:22,2004-10-15,TDI,Mellowes John A,Dir,A - Grant,$24.90,300,300,New,"+$7,470",,,,,TWIN
+562,D,2004-10-19 15:29:58,2004-10-15,TDI,Swift David L,Dir,A - Grant,$24.90,300,300,New,"+$7,470",,,,,TWIN
+563,D,2004-10-19 15:20:57,2004-10-15,TDI,Rayburn David B,Dir,A - Grant,$24.90,300,300,New,"+$7,470",,,,,TWIN
+564,D,2004-10-19 15:11:44,2004-10-15,TDI,Zimmer David R,Dir,A - Grant,$24.90,300,300,New,"+$7,470",,,,,TWIN
+565,AD,2004-10-19 15:01:44,2004-10-15,TDI,Wardeberg George E,Dir,A - Grant,$24.90,300,300,New,"+$7,470",,,,,TWIN
+566,D,2004-10-19 12:27:26,2004-10-15,TDI,Wardeberg George E,Dir,M - OptEx,$24.90,300,5500,+6%,"+$7,470",,,,,TWIN
+567,D,2004-09-08 14:58:50,2004-09-07,TDI,Joyce Michael H,"Pres, COO",M - OptEx,$19.94,500,0,-100%,"+$9,969",,,,,TWIN
+568,D,2004-09-08 14:58:50,2004-09-07,TDI,Joyce Michael H,"Pres, COO",S - Sale+OE,$23.95,-500,0,-100%,"-$11,975",,,,,TWIN
+569,D,2004-08-30 11:50:31,2004-08-26,TDI,Batten Michael E,"COB, CEO",M - OptEx,$20.77,7500,0,-100%,"+$155,794",,,,,TWIN
+570,D,2004-08-30 11:50:31,2004-08-26,TDI,Batten Michael E,"COB, CEO",S - Sale+OE,$22.40,-7500,0,-100%,"-$168,025",,,,,TWIN
+571,D,2004-08-20 14:53:38,2004-08-20,TDI,Joyce Michael H,"Pres, COO",M - OptEx,$15.05,1200,0,-100%,"+$18,060",,,,,TWIN
+572,D,2004-08-20 14:53:38,2004-08-20,TDI,Joyce Michael H,"Pres, COO",S - Sale+OE,$23.59,-1200,0,-100%,"-$28,302",,,,,TWIN
+573,D,2004-08-20 09:05:09,2004-08-18,TDI,Joyce Michael H,"Pres, COO",M - OptEx,$15.05,2300,0,-100%,"+$34,615",,,,,TWIN
+574,D,2004-08-20 09:05:09,2004-08-18,TDI,Joyce Michael H,"Pres, COO",S - Sale+OE,$23.75,-2300,0,-100%,"-$54,626",,,,,TWIN
+575,D,2004-08-18 14:36:27,2004-08-17,TDI,Joyce Michael H,"Pres, COO",M - OptEx,$15.05,500,0,-100%,"+$7,525",,,,,TWIN
+576,D,2004-08-18 14:36:27,2004-08-17,TDI,Joyce Michael H,"Pres, COO",S - Sale+OE,$23.62,-500,0,-100%,"-$11,810",,,,,TWIN
+577,D,2004-08-13 09:44:22,2004-08-12,TDI,Joyce Michael H,"Pres, COO",M - OptEx,$20.00,4500,0,-100%,"+$90,000",,,,,TWIN
+578,D,2004-08-13 09:44:22,2004-08-12,TDI,Joyce Michael H,"Pres, COO",S - Sale+OE,$23.38,-4500,0,-100%,"-$105,225",,,,,TWIN
+579,,2004-08-09 16:39:56,2004-08-06,ABCD,Joyce Michael H,"Pres, COO",S - Sale,$0.00,-2010,0,-100%,-$0,,,,,TWIN
+580,D,2004-08-09 16:03:26,2004-08-05,TDI,Timm Fred H,"VP-AMINISTRATION, SECRETARY",M - OptEx,$19.34,6050,0,-100%,"+$116,991",,,,,TWIN
+581,D,2004-08-09 16:03:26,2004-08-05,TDI,Timm Fred H,"VP-AMINISTRATION, SECRETARY",S - Sale+OE,$23.38,-6050,0,-100%,"-$141,425",,,,,TWIN
+582,,2004-02-12 12:42:21,2004-02-12,TDI,Timm Fred H,"VP-Administration, Secretary",S - Sale,$20.65,-3848,0,-100%,"-$79,461",,,,,TWIN
+583,D,2004-01-30 10:51:45,2004-01-29,TDI,Batten John H,VP-GM - MARINE,M - OptEx,$14.55,2400,0,-100%,"+$34,920",,,,,TWIN
+584,D,2004-01-30 10:51:45,2004-01-29,TDI,Batten John H,VP-GM - MARINE,S - Sale+OE,$20.00,-2400,0,-100%,"-$48,002",,,,,TWIN
+585,,2003-10-24 17:09:12,2003-10-23,TDI,Feiertag James E,EVP,A - Grant,$15.63,2500,2500,New,"+$39,063",,,,,TWIN
+586,DM,2003-08-29 12:12:43,2003-08-27,TDI,Timm Fred H,VP- Administration,M - OptEx,$14.78,4500,0,-100%,"+$66,525",,,,,TWIN
+587,DM,2003-08-29 12:12:43,2003-08-27,TDI,Timm Fred H,VP- Administration,S - Sale+OE,$16.23,-4500,0,-100%,"-$73,013",,,,,TWIN
+588,,2003-08-21 16:07:08,2003-08-21,TDI,Eperjesy Christopher J,"VP - Finance, Treasurer",A - Grant,$0.00,16000,16000,New,+$0,,,,,TWIN
+589,,2003-08-21 16:01:04,2003-08-20,TDI,Timm Fred H,"VP-Administration, Secretary",A - Grant,$0.00,1000,15500,+7%,+$0,,,,,TWIN
+590,D,2003-08-18 16:51:57,2003-08-14,TDI,Melik Lance J,VP - Coporate Development,M - OptEx,$14.78,4500,0,-100%,"+$66,525",,,,,TWIN
+591,D,2003-08-18 16:51:57,2003-08-14,TDI,Melik Lance J,VP - Coporate Development,S - Sale+OE,$16.47,-4500,0,-100%,"-$74,133",,,,,TWIN
+592,D,2003-08-06 16:24:04,2003-08-05,TDI,Eperjesy Christopher J,"VP-Finance, Treasurer",M - OptEx,$12.07,2500,0,-100%,"+$30,175",,,,,TWIN
+593,D,2003-08-06 16:24:04,2003-08-05,TDI,Eperjesy Christopher J,"VP-Finance, Treasurer",S - Sale+OE,$16.25,-2500,0,-100%,"-$40,625",,,,,TWIN

@@ -1,19 +1,334 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,M,2021-11-17 16:06:42,2021-11-15,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,42.75,-1000,8300,-11%,-42750.0,,,,,STRT
-1,M,2021-11-05 16:14:08,2021-11-03,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,40.22,-1500,9300,-14%,-60330.0,,,,,STRT
-2,,2021-08-30 16:27:43,2021-08-26,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,40.5,-1203,12047,-9%,-48722.0,,,,,STRT
-3,,2021-08-26 16:25:21,2021-08-25,STRT,Stratton Harold M II,Dir,S - Sale,40.4,-455,77304,-1%,-18382.0,,,,,STRT
-4,M,2021-08-17 10:43:08,2021-08-13,STRT,Stratton Harold M II,Dir,S - Sale,42.47,-3824,62709,-6%,-162407.0,,,,,STRT
-5,M,2021-08-13 17:24:45,2021-08-11,STRT,Stratton Harold M II,Dir,S - Sale,43.38,-4821,66533,-7%,-209121.0,,,,,STRT
-6,,2021-02-22 16:11:37,2021-02-17,STRT,Hamdan Al-Waleed H.,"VP-Global Sales, Product Mgmt",S - Sale,58.71,-2750,4600,-37%,-161453.0,,,,,STRT
-7,M,2021-02-10 16:10:45,2021-02-08,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,61.5,-4000,9950,-29%,-246004.0,,,,,STRT
-8,DM,2021-02-10 16:01:58,2021-02-08,STRT,Guillot Rolando,SVP - Operations,S - Sale+OE,60.01,-5132,19640,-21%,-307974.0,,,,,STRT
-9,DM,2021-02-04 17:20:25,2021-02-02,STRT,Messina Richard P,"VP - Global Engr., Prchs.",S - Sale+OE,57.15,-7412,10140,-42%,-423609.0,,,,,STRT
-10,DM,2021-02-04 16:53:08,2021-02-02,STRT,Guillot Rolando,SVP - Operations,S - Sale+OE,58.41,-2172,19640,-10%,-126877.0,,,,,STRT
-11,D,2021-02-04 16:32:58,2021-02-02,STRT,Hansen Patrick J,"SVP, CFO",S - Sale+OE,63.89,-3520,13950,-20%,-224887.0,,,,,STRT
-12,,2020-08-19 17:17:58,2020-08-18,STRT,Messina Richard P,"VP-Gl Engineering, Purchasing",S - Sale,21.2,-1000,10140,-9%,-21200.0,,,,,STRT
-13,D,2019-11-05 17:07:01,2019-11-04,STRT,Guillot Rolando,SVP - Operations,S - Sale+OE,23.42,-6000,16340,-27%,-140520.0,,,,,STRT
-14,AD,2019-02-11 16:17:48,2019-02-04,STRT,Stratton Harold M II,Dir,S - Sale+OE,32.06,-3500,67155,-5%,-112207.0,,,,,STRT
-15,D,2018-11-30 16:55:05,2018-11-29,STRT,Reetz Brian J,VP - Security Products,S - Sale+OE,30.04,-2914,12608,-19%,-87537.0,,,,,STRT
-16,M,2018-08-31 16:08:17,2018-08-29,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,35.0,-1500,8250,-15%,-52500.0,,,,,STRT
-17,M,2018-08-27 19:55:56,2018-08-23,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,35.28,-1000,20337,-5%,-35277.0,,,,,STRT
+0,D,2022-02-22 08:48:19,2022-02-17,STRT,Krejci Frank,"Pres, CEO",M - OptEx,25.64,8842,69862,+14%,226709.0,,,,,STRT
+1,M,2021-11-17 16:06:42,2021-11-15,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,42.75,-1000,8300,-11%,-42750.0,,,,,STRT
+2,,2021-11-05 16:14:08,2021-10-15,STRT,Hansen Patrick J,"SVP, CFO",G - Gift,0.0,-1247,9300,-12%,-0.0,,,,,STRT
+3,M,2021-11-05 16:14:08,2021-11-03,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,40.22,-1500,9300,-14%,-60330.0,,,,,STRT
+4,,2021-08-30 16:27:43,2021-08-26,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,40.5,-1203,12047,-9%,-48722.0,,,,,STRT
+5,,2021-08-26 16:25:21,2021-08-25,STRT,Stratton Harold M II,Dir,S - Sale,40.4,-455,77304,-1%,-18382.0,,,,,STRT
+6,DM,2021-08-20 16:19:43,2021-08-19,STRT,Stratton Harold M II,Dir,M - OptEx,26.53,14000,77759,+22%,371420.0,,,,,STRT
+7,,2021-08-19 17:16:01,2021-08-17,STRT,Messina Richard P,"VP - Global Engr., Purchasing",A - Grant,0.0,2700,12840,+27%,0.0,,,,,STRT
+8,,2021-08-19 17:07:48,2021-08-17,STRT,Hamdan Al-Waleed H.,"VP-Global Sales, Product Mgmt",A - Grant,0.0,2700,7300,+59%,0.0,,,,,STRT
+9,,2021-08-19 16:59:49,2021-08-17,STRT,Guillot Rolando,SVP - Operations,A - Grant,0.0,3300,22940,+17%,0.0,,,,,STRT
+10,,2021-08-19 16:53:18,2021-08-17,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,3300,13250,+33%,0.0,,,,,STRT
+11,,2021-08-19 16:46:27,2021-08-17,STRT,Krejci Frank,"Pres, CEO",A - Grant,0.0,5100,61020,+9%,0.0,,,,,STRT
+12,,2021-08-19 16:36:19,2021-08-17,STRT,Stratton Harold M II,Dir,A - Grant,0.0,1050,63759,+2%,0.0,,,,,STRT
+13,,2021-08-19 16:28:03,2021-08-17,STRT,Zimmer David R,Dir,A - Grant,0.0,1050,11400,+10%,0.0,,,,,STRT
+14,,2021-08-19 16:20:50,2021-08-17,STRT,Florsheim Thomas W Jr,Dir,A - Grant,0.0,1050,10200,+11%,0.0,,,,,STRT
+15,,2021-08-19 16:12:38,2021-08-17,STRT,Koss Michael J,Dir,A - Grant,0.0,1050,12700,+9%,0.0,,,,,STRT
+16,M,2021-08-17 10:43:08,2021-08-13,STRT,Stratton Harold M II,Dir,S - Sale,42.47,-3824,62709,-6%,-162407.0,,,,,STRT
+17,D,2021-08-13 17:34:28,2021-08-13,STRT,Krejci Frank,"Pres, CEO",M - OptEx,26.53,4221,55920,+8%,111983.0,,,,,STRT
+18,M,2021-08-13 17:24:45,2021-08-11,STRT,Stratton Harold M II,Dir,S - Sale,43.38,-4821,66533,-7%,-209121.0,,,,,STRT
+19,D,2021-08-11 16:34:53,2021-08-11,STRT,Krejci Frank,"Pres, CEO",M - OptEx,26.53,4389,51699,+9%,116440.0,,,,,STRT
+20,,2021-02-22 16:11:37,2021-02-17,STRT,Hamdan Al-Waleed H.,"VP-Global Sales, Product Mgmt",S - Sale,58.71,-2750,4600,-37%,-161453.0,,,,,STRT
+21,M,2021-02-10 16:10:45,2021-02-08,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,61.5,-4000,9950,-29%,-246004.0,,,,,STRT
+22,DM,2021-02-10 16:01:58,2021-02-08,STRT,Guillot Rolando,SVP - Operations,M - OptEx,25.76,5132,19640,+35%,132215.0,,,,,STRT
+23,DM,2021-02-10 16:01:58,2021-02-08,STRT,Guillot Rolando,SVP - Operations,S - Sale+OE,60.01,-5132,19640,-21%,-307974.0,,,,,STRT
+24,DM,2021-02-04 17:20:25,2021-02-02,STRT,Messina Richard P,"VP - Global Engr., Prchs.",M - OptEx,32.09,7412,10140,+272%,237880.0,,,,,STRT
+25,DM,2021-02-04 17:20:25,2021-02-02,STRT,Messina Richard P,"VP - Global Engr., Prchs.",S - Sale+OE,57.15,-7412,10140,-42%,-423609.0,,,,,STRT
+26,DM,2021-02-04 16:53:08,2021-02-02,STRT,Guillot Rolando,SVP - Operations,M - OptEx,26.53,2172,19640,+12%,57623.0,,,,,STRT
+27,DM,2021-02-04 16:53:08,2021-02-02,STRT,Guillot Rolando,SVP - Operations,S - Sale+OE,58.41,-2172,19640,-10%,-126877.0,,,,,STRT
+28,D,2021-02-04 16:32:58,2021-02-02,STRT,Hansen Patrick J,"SVP, CFO",M - OptEx,27.94,3520,13950,+34%,98343.0,,,,,STRT
+29,D,2021-02-04 16:32:58,2021-02-02,STRT,Hansen Patrick J,"SVP, CFO",S - Sale+OE,63.89,-3520,13950,-20%,-224887.0,,,,,STRT
+30,,2020-10-07 17:29:48,2020-10-06,STRT,Stratton Harold M II,Dir,A - Grant,0.0,2100,71354,+3%,0.0,,,,,STRT
+31,,2020-10-07 17:20:18,2020-10-06,STRT,Zimmer David R,Dir,A - Grant,0.0,2100,10350,+25%,0.0,,,,,STRT
+32,,2020-10-07 17:11:18,2020-10-06,STRT,Koss Michael J,Dir,A - Grant,0.0,2100,11650,+22%,0.0,,,,,STRT
+33,,2020-10-07 16:59:33,2020-10-06,STRT,Florsheim Thomas W Jr,Dir,A - Grant,0.0,2100,9150,+30%,0.0,,,,,STRT
+34,,2020-08-19 17:17:58,2020-08-18,STRT,Messina Richard P,"VP-Gl Engineering, Purchasing",A - Grant,0.0,2700,10140,+36%,0.0,,,,,STRT
+35,,2020-08-19 17:17:58,2020-08-18,STRT,Messina Richard P,"VP-Gl Engineering, Purchasing",S - Sale,21.2,-1000,10140,-9%,-21200.0,,,,,STRT
+36,,2020-08-19 17:05:23,2020-08-18,STRT,Hamdan Al-Waleed H.,"VP-Gl Sales, Procurement Mgmt",A - Grant,0.0,2700,7350,+58%,0.0,,,,,STRT
+37,,2020-08-19 16:56:14,2020-08-18,STRT,Guillot Rolando,SVP - Operations,A - Grant,0.0,3300,19640,+20%,0.0,,,,,STRT
+38,,2020-08-19 16:45:02,2020-08-18,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,3300,13950,+31%,0.0,,,,,STRT
+39,,2020-08-19 16:34:09,2020-08-18,STRT,Krejci Frank,"Pres, CEO",A - Grant,0.0,5100,47310,+12%,0.0,,,,,STRT
+40,D,2019-11-05 17:07:01,2019-11-04,STRT,Guillot Rolando,SVP - Operations,M - OptEx,17.59,6000,16340,+58%,105540.0,,,,,STRT
+41,D,2019-11-05 17:07:01,2019-11-04,STRT,Guillot Rolando,SVP - Operations,S - Sale+OE,23.42,-6000,16340,-27%,-140520.0,,,,,STRT
+42,,2019-08-22 18:05:36,2019-08-20,STRT,Hamdan Al-Waleed H.,VP - Product Management,A - Grant,0.0,2100,4650,+82%,0.0,,,,,STRT
+43,,2019-08-22 17:58:37,2019-08-20,STRT,Messina Richard P,"VP - Global Sales, Access...",A - Grant,0.0,2100,8440,+33%,0.0,,,,,STRT
+44,,2019-08-22 17:51:56,2019-08-20,STRT,Guillot Rolando,SVP - Operations,A - Grant,0.0,2400,16340,+17%,0.0,,,,,STRT
+45,,2019-08-22 17:46:35,2019-08-20,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,2400,10650,+29%,0.0,,,,,STRT
+46,,2019-08-22 17:40:14,2019-08-20,STRT,Krejci Frank,"Pres, CEO",A - Grant,0.0,3300,42210,+8%,0.0,,,,,STRT
+47,,2019-08-22 17:32:23,2019-08-20,STRT,Stratton Harold M II,Dir,A - Grant,0.0,2100,69255,+3%,0.0,,,,,STRT
+48,,2019-08-22 17:23:58,2019-08-20,STRT,Florsheim Thomas W Jr,Dir,A - Grant,0.0,2100,7050,+42%,0.0,,,,,STRT
+49,,2019-08-22 17:12:33,2019-08-20,STRT,Zimmer David R,Dir,A - Grant,0.0,2100,8250,+34%,0.0,,,,,STRT
+50,,2019-08-22 17:02:43,2019-08-20,STRT,Koss Michael J,Dir,A - Grant,0.0,2100,9550,+28%,0.0,,,,,STRT
+51,D,2019-08-14 16:26:54,2019-08-14,STRT,Krejci Frank,"Pres, CEO",M - OptEx,18.49,12000,38910,+45%,221880.0,,,,,STRT
+52,AD,2019-02-11 16:17:48,2019-02-08,STRT,Stratton Harold M II,Dir,M - OptEx,10.92,10800,67155,+19%,117936.0,,,,,STRT
+53,AD,2019-02-11 16:17:48,2019-02-04,STRT,Stratton Harold M II,Dir,S - Sale+OE,32.06,-3500,67155,-5%,-112207.0,,,,,STRT
+54,D,2019-02-08 16:07:58,2019-02-08,STRT,Stratton Harold M II,Dir,M - OptEx,10.92,10800,70655,+18%,117936.0,,,,,STRT
+55,D,2018-11-30 16:55:05,2018-11-29,STRT,Reetz Brian J,VP - Security Products,M - OptEx,10.92,2914,12608,+30%,31821.0,,,,,STRT
+56,D,2018-11-30 16:55:05,2018-11-29,STRT,Reetz Brian J,VP - Security Products,S - Sale+OE,30.04,-2914,12608,-19%,-87537.0,,,,,STRT
+57,M,2018-08-31 16:08:17,2018-08-29,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,35.0,-1500,8250,-15%,-52500.0,,,,,STRT
+58,M,2018-08-27 19:55:56,2018-08-23,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,35.28,-1000,20337,-5%,-35277.0,,,,,STRT
+59,,2018-08-22 18:25:30,2018-08-21,STRT,Reetz Brian J,VP-Security Products,A - Grant,0.0,1350,12608,+12%,0.0,,,,,STRT
+60,,2018-08-22 18:20:56,2018-08-21,STRT,Hamdan Al-Waleed H.,VP-Product Management,A - Grant,0.0,1500,2550,+143%,0.0,,,,,STRT
+61,,2018-08-22 18:18:00,2018-08-21,STRT,Messina Richard P,"VP-Global Sales, ACP",A - Grant,0.0,1500,6340,+31%,0.0,,,,,STRT
+62,,2018-08-22 18:14:51,2018-08-21,STRT,Guillot Rolando,SVP-Operations,A - Grant,0.0,1800,13940,+15%,0.0,,,,,STRT
+63,,2018-08-22 18:10:48,2018-08-21,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,1800,10750,+20%,0.0,,,,,STRT
+64,,2018-08-22 18:08:23,2018-08-21,STRT,Krejci Frank,"Pres, CEO",A - Grant,0.0,2850,26910,+12%,0.0,,,,,STRT
+65,,2018-08-22 17:58:48,2018-08-21,STRT,Florsheim Thomas W Jr,Dir,A - Grant,0.0,1050,4950,+27%,0.0,,,,,STRT
+66,,2018-08-22 17:43:22,2018-08-21,STRT,Zimmer David R,Dir,A - Grant,0.0,1050,6150,+21%,0.0,,,,,STRT
+67,,2018-08-22 17:35:52,2018-08-21,STRT,Koss Michael J,Dir,A - Grant,0.0,1050,7450,+16%,0.0,,,,,STRT
+68,,2018-08-22 16:37:48,2018-08-21,STRT,Stratton Harold M II,Dir,A - Grant,0.0,1050,59855,+2%,0.0,,,,,STRT
+69,D,2017-11-27 17:43:58,2017-11-22,STRT,Reetz Brian J,VP - Security Products,M - OptEx,25.64,3534,11258,+46%,90612.0,,,,,STRT
+70,M,2017-11-21 16:55:06,2017-11-17,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,45.65,-1000,8950,-10%,-45650.0,,,,,STRT
+71,,2017-11-21 16:46:35,2017-11-20,STRT,Reetz Brian J,Vice Pres - Security Products,S - Sale,45.16,-2500,7724,-24%,-112900.0,,,,,STRT
+72,,2017-11-02 16:35:21,2017-11-01,STRT,Messina Richard P,VP - Global Sales,S - Sale,46.04,-3200,4840,-40%,-147328.0,,,,,STRT
+73,DM,2017-11-02 16:26:28,2017-10-31,STRT,Hansen Patrick J,"Senior Vice Presidence, CFO",M - OptEx,25.64,1900,9950,+24%,48716.0,,,,,STRT
+74,DM,2017-11-02 16:26:28,2017-10-31,STRT,Hansen Patrick J,"Senior Vice Presidence, CFO",S - Sale+OE,45.49,-2900,9950,-23%,-131910.0,,,,,STRT
+75,,2017-09-05 16:22:24,2017-09-01,STRT,Hansen Patrick J,"Senior Vice Presidence, CFO",S - Sale,35.4,-1000,10950,-8%,-35400.0,,,,,STRT
+76,,2017-08-23 17:25:59,2017-08-22,STRT,Hamdan Al-Waleed H.,VP-Product Management,A - Grant,0.0,1050,1050,New,0.0,,,,,STRT
+77,,2017-08-23 17:08:26,2017-08-22,STRT,Reetz Brian J,VP-Security Products,A - Grant,0.0,1050,10224,+11%,0.0,,,,,STRT
+78,,2017-08-23 17:01:33,2017-08-22,STRT,Messina Richard P,VP - Global Sales,A - Grant,0.0,1200,8040,+18%,0.0,,,,,STRT
+79,,2017-08-23 16:56:05,2017-08-22,STRT,Guillot Rolando,SVP - Operations,A - Grant,0.0,1500,12140,+14%,0.0,,,,,STRT
+80,,2017-08-23 16:46:14,2017-08-22,STRT,Hansen Patrick J,"Senior Vice Presidence, CFO",A - Grant,0.0,1500,11950,+14%,0.0,,,,,STRT
+81,,2017-08-23 16:41:10,2017-08-22,STRT,Krejci Frank,"Pres, CEO",A - Grant,0.0,2025,24060,+9%,0.0,,,,,STRT
+82,,2017-08-23 16:34:16,2017-08-22,STRT,Stratton Harold M II,Dir,A - Grant,0.0,800,58805,+1%,0.0,,,,,STRT
+83,,2017-08-23 16:25:01,2017-08-22,STRT,Florsheim Thomas W Jr,Dir,A - Grant,0.0,800,3900,+26%,0.0,,,,,STRT
+84,,2017-08-23 16:17:46,2017-08-22,STRT,Koss Michael J,Dir,A - Grant,0.0,800,6400,+14%,0.0,,,,,STRT
+85,,2017-08-23 16:12:07,2017-08-22,STRT,Zimmer David R,Dir,A - Grant,0.0,800,5100,+19%,0.0,,,,,STRT
+86,M,2017-05-31 16:24:37,2017-05-26,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,35.01,-2500,10450,-19%,-87528.0,,,,,STRT
+87,,2017-05-26 16:43:13,2017-05-25,STRT,Stratton Harold M II,Dir,S - Sale,34.17,-25,59505,0%,-854.0,,,,,STRT
+88,D,2017-05-04 16:21:09,2017-05-04,STRT,Hansen Patrick J,"Senior Vice Presidence, CFO",M - OptEx,25.64,2000,12950,+18%,51280.0,2.0,0.0,,,STRT
+89,D,2016-12-01 16:22:21,2016-12-01,STRT,Reetz Brian J,Vice Pres - Security Products,M - OptEx,26.53,2290,9174,+33%,60754.0,1.0,10.0,6.0,,STRT
+90,D,2016-12-01 16:22:21,2016-11-29,STRT,Reetz Brian J,Vice Pres - Security Products,S - Sale+OE,39.79,-1800,9174,-16%,-71622.0,1.0,10.0,6.0,,STRT
+91,,2016-08-29 17:37:53,2016-08-29,STRT,Messina Richard P,"VP-Global Sales, Access Contro",S - Sale,43.66,-1000,6840,-13%,-43662.0,-3.0,-4.0,-16.0,-31.0,STRT
+92,,2016-08-24 17:21:40,2016-08-23,STRT,Reetz Brian J,VP-Security Products,A - Grant,0.0,1050,8684,+14%,0.0,1.0,-4.0,-12.0,-31.0,STRT
+93,,2016-08-24 17:14:54,2016-08-23,STRT,Messina Richard P,"VP-Global Sales, Access Contro",A - Grant,0.0,1200,7840,+18%,0.0,1.0,-4.0,-12.0,-31.0,STRT
+94,,2016-08-24 17:08:45,2016-08-23,STRT,Guillot Rolando,VP - Mexican Operations,A - Grant,0.0,1200,10640,+13%,0.0,1.0,-4.0,-12.0,-31.0,STRT
+95,,2016-08-24 17:03:03,2016-08-23,STRT,Hansen Patrick J,"Senior Vice Presidence, CFO",A - Grant,0.0,1500,10950,+16%,0.0,1.0,-4.0,-12.0,-31.0,STRT
+96,M,2016-08-24 17:03:03,2016-08-22,STRT,Hansen Patrick J,"Senior Vice Presidence, CFO",S - Sale,43.2,-1500,10950,-12%,-64800.0,1.0,-4.0,-12.0,-31.0,STRT
+97,,2016-08-24 16:49:21,2016-08-23,STRT,Krejci Frank,"Pres, CEO",A - Grant,0.0,2025,22035,+10%,0.0,1.0,-4.0,-12.0,-31.0,STRT
+98,,2016-08-24 16:43:04,2016-08-23,STRT,Stratton Harold M II,Dir,A - Grant,0.0,600,59527,+1%,0.0,1.0,-4.0,-12.0,-31.0,STRT
+99,,2016-08-24 16:33:19,2016-08-23,STRT,Florsheim Thomas W Jr,Dir,A - Grant,0.0,600,3100,+24%,0.0,1.0,-4.0,-12.0,-31.0,STRT
+100,,2016-08-24 16:24:58,2016-08-23,STRT,Koss Michael J,Dir,A - Grant,0.0,600,5600,+12%,0.0,1.0,-4.0,-12.0,-31.0,STRT
+101,,2016-08-24 16:15:14,2016-08-23,STRT,Zimmer David R,Dir,A - Grant,0.0,600,4300,+16%,0.0,1.0,-4.0,-12.0,-31.0,STRT
+102,,2016-03-02 16:03:36,2016-03-01,STRT,Stratton Harold M II,Dir,S - Sale,51.45,-570,58927,-1%,-29327.0,0.0,-3.0,5.0,-20.0,STRT
+103,M,2016-03-01 17:20:16,2016-02-26,STRT,Stratton Harold M II,Dir,S - Sale,51.02,-2008,59497,-3%,-102441.0,-1.0,-1.0,6.0,-23.0,STRT
+104,,2016-02-26 16:55:27,2016-02-25,STRT,Stratton Harold M II,Dir,S - Sale,52.08,-642,61505,-1%,-33435.0,-1.0,6.0,14.0,-15.0,STRT
+105,,2015-08-26 16:54:35,2015-08-24,STRT,Stratton Harold M II,Dir,S - Sale,66.64,-300,62147,0%,-19992.0,-1.0,-4.0,-5.0,-19.0,STRT
+106,,2015-08-20 17:49:28,2015-08-19,STRT,Florsheim Thomas W Jr,Dir,A - Grant,0.0,600,2500,+32%,0.0,-1.0,-5.0,-9.0,-25.0,STRT
+107,,2015-08-20 17:43:18,2015-08-19,STRT,Koss Michael J,Dir,A - Grant,0.0,600,5000,+14%,0.0,-1.0,-5.0,-9.0,-25.0,STRT
+108,,2015-08-20 17:35:27,2015-08-19,STRT,Stratton Harold M II,Dir,A - Grant,0.0,600,62447,+1%,0.0,-1.0,-5.0,-9.0,-25.0,STRT
+109,,2015-08-20 17:21:31,2015-08-19,STRT,Zimmer David R,Dir,A - Grant,0.0,600,3700,+19%,0.0,-1.0,-5.0,-9.0,-25.0,STRT
+110,,2015-08-20 17:01:36,2015-08-19,STRT,Krejci Frank,"Pres, CEO",A - Grant,0.0,4250,20010,+27%,0.0,-1.0,-5.0,-9.0,-25.0,STRT
+111,,2015-08-20 16:53:54,2015-08-19,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,2450,10950,+29%,0.0,-1.0,-5.0,-9.0,-25.0,STRT
+112,,2015-08-20 16:42:57,2015-08-19,STRT,Guillot Rolando,VP-Mexican Operations,A - Grant,0.0,1640,9440,+21%,0.0,-1.0,-5.0,-9.0,-25.0,STRT
+113,,2015-08-20 16:35:00,2015-08-19,STRT,Reetz Brian J,VP-Security Products,A - Grant,0.0,1520,7634,+25%,0.0,-1.0,-5.0,-9.0,-25.0,STRT
+114,,2015-08-20 16:20:47,2015-08-19,STRT,Messina Richard P,"VP-Global Sales, ACP",A - Grant,0.0,1640,12640,+15%,0.0,-1.0,-5.0,-9.0,-25.0,STRT
+115,D,2015-08-13 16:50:06,2015-08-12,STRT,Stratton Harold M II,Dir,M - OptEx,22.47,14360,61847,+30%,322669.0,0.0,2.0,-7.0,-29.0,STRT
+116,D,2015-08-12 17:41:46,2015-08-12,STRT,Krejci Frank,"Pres, CEO",M - OptEx,22.47,49,15760,0%,1101.0,0.0,1.0,-7.0,-29.0,STRT
+117,ADM,2015-05-07 16:47:39,2015-04-28,STRT,Reetz Brian J,VP-Security Products,M - OptEx,18.36,4176,6114,+215%,76671.0,-1.0,-3.0,-10.0,-21.0,STRT
+118,ADM,2015-05-07 16:47:39,2015-04-28,STRT,Reetz Brian J,VP-Security Products,S - Sale+OE,80.4,-4176,6114,-41%,-335750.0,-1.0,-3.0,-10.0,-21.0,STRT
+119,DM,2015-04-30 17:08:52,2015-04-28,STRT,Reetz Brian J,Vice Pres-Security Products,M - OptEx,10.92,4176,6114,+215%,45602.0,4.0,2.0,-8.0,-17.0,STRT
+120,DM,2015-04-30 17:08:52,2015-04-28,STRT,Reetz Brian J,Vice Pres-Security Products,S - Sale+OE,80.4,-4176,6114,-41%,-335750.0,4.0,2.0,-8.0,-17.0,STRT
+121,,2014-09-02 16:44:48,2014-08-29,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,78.06,-200,8500,-2%,-15612.0,-1.0,5.0,-1.0,-19.0,STRT
+122,,2014-09-02 16:31:18,2014-08-29,STRT,Stratton Harold M II,Dir,S - Sale,78.49,-5000,47487,-10%,-392450.0,-1.0,5.0,-1.0,-19.0,STRT
+123,,2014-08-29 18:06:16,2014-08-28,STRT,Stratton Harold M II,Dir,S - Sale,78.1,-5000,52487,-9%,-390481.0,3.0,6.0,2.0,-15.0,STRT
+124,D,2014-08-26 16:45:51,2014-08-22,STRT,Messina Richard P,"VP - Global Sales, Access Cntr",M - OptEx,26.53,2420,5000,+94%,64203.0,1.0,7.0,6.0,-13.0,STRT
+125,DM,2014-08-26 16:45:51,2014-08-22,STRT,Messina Richard P,"VP - Global Sales, Access Cntr",S - Sale+OE,72.01,-3220,5000,-39%,-231860.0,1.0,7.0,6.0,-13.0,STRT
+126,D,2014-08-26 16:37:51,2014-08-22,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,M - OptEx,26.53,2400,3800,+171%,63672.0,1.0,7.0,6.0,-13.0,STRT
+127,D,2014-08-26 16:37:51,2014-08-22,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,S - Sale+OE,70.54,-3200,3800,-46%,-225736.0,1.0,7.0,6.0,-13.0,STRT
+128,D,2014-08-26 16:27:11,2014-08-22,STRT,Hansen Patrick J,"SVP, CFO",M - OptEx,26.53,4550,8700,+110%,120712.0,1.0,7.0,6.0,-13.0,STRT
+129,DM,2014-08-26 16:27:11,2014-08-22,STRT,Hansen Patrick J,"SVP, CFO",S - Sale+OE,71.43,-5450,8700,-39%,-389308.0,1.0,7.0,6.0,-13.0,STRT
+130,D,2014-08-21 17:59:07,2014-08-20,STRT,Messina Richard P,"VP - Global Sales, Access Cntr",A - Grant,0.0,1300,5800,+29%,0.0,2.0,9.0,22.0,-9.0,STRT
+131,D,2014-08-21 17:36:17,2014-08-20,STRT,Guillot Rolando,VP - Mexican Operations,A - Grant,0.0,1300,7800,+20%,0.0,2.0,9.0,22.0,-9.0,STRT
+132,D,2014-08-21 17:29:57,2014-08-20,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,A - Grant,0.0,1000,4600,+28%,0.0,2.0,9.0,22.0,-9.0,STRT
+133,D,2014-08-21 17:13:38,2014-08-20,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,1500,9600,+19%,0.0,2.0,9.0,22.0,-9.0,STRT
+134,D,2014-08-21 17:04:04,2014-08-20,STRT,Reetz Brian J,VP - Security Products,A - Grant,0.0,1000,6114,+20%,0.0,2.0,9.0,22.0,-9.0,STRT
+135,D,2014-08-21 16:55:25,2014-08-20,STRT,Krejci Frank,"Pres, CEO",A - Grant,0.0,2000,15711,+15%,0.0,2.0,9.0,22.0,-9.0,STRT
+136,,2014-08-21 16:44:20,2014-08-20,STRT,Florsheim Thomas W Jr,Dir,A - Grant,0.0,600,1900,+46%,0.0,2.0,9.0,22.0,-9.0,STRT
+137,,2014-08-21 16:39:26,2014-08-20,STRT,Zimmer David R,Dir,A - Grant,0.0,600,3100,+24%,0.0,2.0,9.0,22.0,-9.0,STRT
+138,,2014-08-21 16:31:27,2014-08-20,STRT,Koss Michael J,Dir,A - Grant,0.0,600,4400,+16%,0.0,2.0,9.0,22.0,-9.0,STRT
+139,,2014-08-21 16:23:37,2014-08-20,STRT,Stratton Harold M II,Dir,A - Grant,0.0,600,57487,+1%,0.0,2.0,9.0,22.0,-9.0,STRT
+140,,2014-08-13 16:21:05,2014-08-13,STRT,Stratton Harold M II,Dir,S - Sale,67.05,-468,56887,-1%,-31379.0,0.0,4.0,27.0,-6.0,STRT
+141,,2014-04-29 16:23:55,2014-04-28,STRT,Zimmer David R,Dir,S - Sale,67.0,-600,2500,-19%,-40201.0,0.0,-2.0,-2.0,44.0,STRT
+142,,2014-02-26 17:25:04,2014-02-25,STRT,Stratton Harold M II,Dir,S - Sale,61.06,-9718,57355,-14%,-593342.0,4.0,11.0,5.0,16.0,STRT
+143,D,2014-02-26 17:04:16,2014-02-26,STRT,Krejci Frank,"Pres, CEO",M - OptEx,22.47,5271,13711,+62%,118439.0,4.0,11.0,5.0,16.0,STRT
+144,D,2014-02-26 16:50:36,2014-02-24,STRT,Guillot Rolando,VP - Mexican Operations,M - OptEx,10.92,6000,6500,>999%,65520.0,4.0,11.0,5.0,16.0,STRT
+145,DM,2014-02-26 16:50:36,2014-02-24,STRT,Guillot Rolando,VP - Mexican Operations,S - Sale+OE,62.23,-6000,6500,-48%,-373373.0,4.0,11.0,5.0,16.0,STRT
+146,,2014-02-19 16:28:53,2014-02-17,STRT,Guillot Rolando,VP-Mexican Operations,A - Grant,0.0,400,6500,+7%,0.0,0.0,0.0,20.0,14.0,STRT
+147,,2014-02-19 16:20:41,2014-02-17,STRT,Messina Richard P,"VP-Global Sales, Access Cntrl",A - Grant,0.0,200,4500,+5%,0.0,0.0,0.0,20.0,14.0,STRT
+148,D,2014-02-12 16:31:09,2014-02-10,STRT,Hansen Patrick J,"SVP, CFO",M - OptEx,17.59,3000,8100,+59%,52770.0,0.0,15.0,35.0,23.0,STRT
+149,D,2014-02-12 16:31:09,2014-02-10,STRT,Hansen Patrick J,"SVP, CFO",S - Sale+OE,52.62,-3000,8100,-27%,-157860.0,0.0,15.0,35.0,23.0,STRT
+150,D,2014-02-07 16:29:37,2014-02-06,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,M - OptEx,17.59,1500,3600,+71%,26385.0,0.0,5.0,48.0,31.0,STRT
+151,D,2014-02-07 16:29:37,2014-02-06,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,S - Sale+OE,52.56,-1500,3600,-29%,-78840.0,0.0,5.0,48.0,31.0,STRT
+152,D,2013-11-08 16:27:27,2013-11-07,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,M - OptEx,22.47,2880,3600,+400%,64714.0,0.0,1.0,5.0,48.0,STRT
+153,D,2013-11-08 16:27:27,2013-11-07,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,S - Sale+OE,39.56,-2880,3600,-44%,-113933.0,0.0,1.0,5.0,48.0,STRT
+154,D,2013-11-07 16:30:51,2013-11-05,STRT,Hansen Patrick J,"SVP, CFO",M - OptEx,22.47,5290,8100,+188%,118866.0,2.0,3.0,8.0,52.0,STRT
+155,D,2013-11-07 16:30:51,2013-11-05,STRT,Hansen Patrick J,"SVP, CFO",S - Sale+OE,42.5,-5290,8100,-40%,-224825.0,2.0,3.0,8.0,52.0,STRT
+156,D,2013-11-07 16:23:03,2013-11-06,STRT,Guillot Rolando,VP - Mexican Operations,M - OptEx,22.47,3300,6100,+118%,74151.0,2.0,3.0,8.0,52.0,STRT
+157,D,2013-11-07 16:23:03,2013-11-06,STRT,Guillot Rolando,VP - Mexican Operations,S - Sale+OE,41.77,-3300,6100,-35%,-137841.0,2.0,3.0,8.0,52.0,STRT
+158,,2013-10-09 16:18:27,2013-10-08,STRT,Messina Richard P,VP Global Sales,A - Grant,0.0,300,4300,+8%,0.0,-1.0,2.0,3.0,77.0,STRT
+159,D,2013-08-27 16:30:15,2013-08-26,STRT,Messina Richard P,VP - Access Control Products,M - OptEx,22.47,2690,4000,+205%,60444.0,-1.0,-2.0,6.0,82.0,STRT
+160,D,2013-08-27 16:30:15,2013-08-26,STRT,Messina Richard P,VP - Access Control Products,S - Sale+OE,36.33,-2690,4000,-40%,-97728.0,-1.0,-2.0,6.0,82.0,STRT
+161,D,2013-08-22 18:15:21,2013-08-21,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,A - Grant,0.0,1000,3600,+38%,0.0,1.0,-1.0,8.0,75.0,STRT
+162,D,2013-08-22 18:07:51,2013-08-21,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,1500,8100,+23%,0.0,1.0,-1.0,8.0,75.0,STRT
+163,D,2013-08-22 18:00:40,2013-08-21,STRT,Messina Richard P,VP - Access Control Products,A - Grant,0.0,1000,4000,+33%,0.0,1.0,-1.0,8.0,75.0,STRT
+164,D,2013-08-22 17:44:08,2013-08-21,STRT,Reetz Brian J,VP - Security Products,A - Grant,0.0,1000,5114,+24%,0.0,1.0,-1.0,8.0,75.0,STRT
+165,D,2013-08-22 17:32:17,2013-08-21,STRT,Kazmierski Dennis,"VP - Marketing, Sales",A - Grant,0.0,1000,4900,+26%,0.0,1.0,-1.0,8.0,75.0,STRT
+166,D,2013-08-22 17:20:19,2013-08-21,STRT,Guillot Rolando,VP - Mexican Operations,A - Grant,0.0,1000,6100,+20%,0.0,1.0,-1.0,8.0,75.0,STRT
+167,D,2013-08-22 17:07:29,2013-08-21,STRT,Krejci Frank,"Pres, CEO",A - Grant,0.0,2000,8440,+31%,0.0,1.0,-1.0,8.0,75.0,STRT
+168,,2013-08-22 16:57:41,2013-08-21,STRT,Zimmer David R,Dir,A - Grant,0.0,800,3100,+35%,0.0,1.0,-1.0,8.0,75.0,STRT
+169,,2013-08-22 16:47:21,2013-08-21,STRT,Koss Michael J,Dir,A - Grant,0.0,800,3800,+27%,0.0,1.0,-1.0,8.0,75.0,STRT
+170,,2013-08-22 16:38:11,2013-08-21,STRT,Stratton Harold M II,Dir,A - Grant,0.0,800,65573,+1%,0.0,1.0,-1.0,8.0,75.0,STRT
+171,,2013-08-22 16:25:04,2013-08-21,STRT,Florsheim Thomas W Jr,Dir,A - Grant,0.0,800,1300,+160%,0.0,1.0,-1.0,8.0,75.0,STRT
+172,,2013-08-22 16:25:04,2013-08-21,STRT,Florsheim Thomas W Jr,Dir,P - Purchase,36.29,500,1300,+63%,18146.0,1.0,-1.0,8.0,75.0,STRT
+173,D,2013-05-24 16:39:13,2013-05-23,STRT,Hansen Patrick J,"SVP, CFO",M - OptEx,17.59,3000,6600,+83%,52770.0,-5.0,1.0,-7.0,16.0,STRT
+174,D,2013-05-24 16:39:13,2013-05-23,STRT,Hansen Patrick J,"SVP, CFO",S - Sale+OE,36.31,-3000,6600,-31%,-108930.0,-5.0,1.0,-7.0,16.0,STRT
+175,D,2013-05-16 16:50:58,2013-05-15,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,M - OptEx,14.15,9300,2600,-139%,131571.0,2.0,3.0,2.0,15.0,STRT
+176,D,2013-05-16 16:50:58,2013-05-15,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,S - Sale+OE,34.99,-9300,2600,-78%,-325452.0,2.0,3.0,2.0,15.0,STRT
+177,,2013-05-13 16:20:48,2013-05-10,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,S - Sale,34.92,-900,2600,-26%,-31428.0,-1.0,5.0,4.0,15.0,STRT
+178,D,2013-05-07 16:39:32,2013-05-06,STRT,Hansen Patrick J,"SVP, CFO",M - OptEx,10.92,733,6600,+12%,8004.0,-1.0,-10.0,-4.0,12.0,STRT
+179,D,2013-05-07 16:39:32,2013-05-06,STRT,Hansen Patrick J,"SVP, CFO",S - Sale+OE,35.14,-733,6600,-10%,-25758.0,-1.0,-10.0,-4.0,12.0,STRT
+180,AM,2013-05-07 16:22:00,2013-04-30,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,36.77,-3767,6600,-36%,-138510.0,-1.0,-10.0,-4.0,12.0,STRT
+181,DM,2013-05-02 17:37:02,2013-04-30,STRT,Messina Richard P,VP - Power Access Products,M - OptEx,18.0,7500,3000,-167%,135000.0,0.0,10.0,9.0,14.0,STRT
+182,DM,2013-05-02 17:37:02,2013-04-30,STRT,Messina Richard P,VP - Power Access Products,S - Sale+OE,36.47,-7500,3000,-71%,-273555.0,0.0,10.0,9.0,14.0,STRT
+183,DM,2013-05-02 17:20:16,2013-04-30,STRT,Hansen Patrick J,"SVP, CFO",M - OptEx,23.84,7534,6600,-807%,179646.0,0.0,10.0,9.0,14.0,STRT
+184,,2013-02-19 16:16:45,2013-02-05,STRT,Stratton Harold M II,Dir,P - Purchase,28.67,39,64773,0%,1118.0,0.0,-7.0,-9.0,23.0,STRT
+185,,2012-11-20 16:37:50,2012-11-20,STRT,Krejci Frank,"Pres, CEO",P - Purchase,22.99,1000,6440,+18%,22992.0,1.0,2.0,6.0,66.0,STRT
+186,,2012-08-22 15:49:37,2012-08-20,STRT,Stratton Harold M II,"COB, CEO",A - Grant,0.0,2500,64734,+4%,0.0,1.0,-7.0,-8.0,25.0,STRT
+187,D,2012-08-22 15:34:48,2012-08-20,STRT,Krejci Frank,"Pres, COO",A - Grant,0.0,2000,5440,+58%,0.0,1.0,-7.0,-8.0,25.0,STRT
+188,D,2012-08-22 15:09:14,2012-08-20,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,1500,6600,+29%,0.0,1.0,-7.0,-8.0,25.0,STRT
+189,D,2012-08-22 15:01:24,2012-08-20,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,A - Grant,0.0,1000,3500,+40%,0.0,1.0,-7.0,-8.0,25.0,STRT
+190,D,2012-08-22 14:50:12,2012-08-20,STRT,Guillot Rolando,VP - Mexican Operations,A - Grant,0.0,1000,5100,+24%,0.0,1.0,-7.0,-8.0,25.0,STRT
+191,D,2012-08-22 14:42:08,2012-08-20,STRT,Kazmierski Dennis,"VP - Marketing, Sales",A - Grant,0.0,1000,3900,+34%,0.0,1.0,-7.0,-8.0,25.0,STRT
+192,D,2012-08-22 14:29:42,2012-08-20,STRT,Reetz Brian J,VP - Security Products,A - Grant,0.0,1000,4114,+32%,0.0,1.0,-7.0,-8.0,25.0,STRT
+193,D,2012-08-22 14:19:01,2012-08-20,STRT,Messina Richard P,VP - Power Access Products,A - Grant,0.0,1000,3000,+50%,0.0,1.0,-7.0,-8.0,25.0,STRT
+194,,2012-08-22 12:58:15,2012-08-20,STRT,Zimmer David R,Dir,A - Grant,0.0,800,2300,+53%,0.0,1.0,-7.0,-8.0,25.0,STRT
+195,,2012-08-22 12:51:21,2012-08-20,STRT,Koss Michael J,Dir,A - Grant,0.0,800,3000,+36%,0.0,1.0,-7.0,-8.0,25.0,STRT
+196,,2012-08-22 12:43:02,2012-08-20,STRT,Feitler Robert,Dir,A - Grant,0.0,800,17000,+5%,0.0,1.0,-7.0,-8.0,25.0,STRT
+197,AD,2011-08-30 15:41:16,2011-08-22,STRT,Kazmierski Dennis,"VP - Marketing, Sales",A - Grant,0.0,800,2900,+38%,0.0,0.0,-5.0,-8.0,-1.0,STRT
+198,,2011-08-24 12:02:10,2011-08-22,STRT,Koss Michael J,Dir,A - Grant,0.0,600,2200,+38%,0.0,2.0,1.0,1.0,5.0,STRT
+199,,2011-08-24 11:57:30,2011-08-22,STRT,Feitler Robert,Dir,A - Grant,0.0,600,16200,+4%,0.0,2.0,1.0,1.0,5.0,STRT
+200,,2011-08-24 11:51:21,2011-08-22,STRT,Zimmer David R,Dir,A - Grant,0.0,600,1500,+67%,0.0,2.0,1.0,1.0,5.0,STRT
+201,D,2011-08-24 11:41:53,2011-08-22,STRT,Stratton Harold M II,"COB, CEO",A - Grant,0.0,2000,62234,+3%,0.0,2.0,1.0,1.0,5.0,STRT
+202,D,2011-08-24 11:31:53,2011-08-22,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,A - Grant,0.0,800,3100,+35%,0.0,2.0,1.0,1.0,5.0,STRT
+203,D,2011-08-24 11:21:56,2011-08-22,STRT,Krejci Frank,"Pres, COO",A - Grant,0.0,1500,3440,+77%,0.0,2.0,1.0,1.0,5.0,STRT
+204,D,2011-08-24 11:14:53,2011-08-22,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,1200,5100,+31%,0.0,2.0,1.0,1.0,5.0,STRT
+205,D,2011-08-24 11:08:27,2011-08-22,STRT,Guillot Rolando,VP - Mexican Operations,A - Grant,0.0,800,4100,+24%,0.0,2.0,1.0,1.0,5.0,STRT
+206,D,2011-08-24 10:58:28,2011-08-22,STRT,Reetz Brian J,VP - Security Products,A - Grant,0.0,800,3414,+31%,0.0,2.0,1.0,1.0,5.0,STRT
+207,D,2011-08-24 10:39:32,2011-08-22,STRT,Messina Richard P,VP - Power Access Products,A - Grant,0.0,800,2000,+67%,0.0,2.0,1.0,1.0,5.0,STRT
+208,D,2011-08-24 10:27:47,2011-08-22,STRT,Kazmierski Dennis,"VP - Marketing, Sales",A - Grant,0.0,800,3100,+35%,0.0,2.0,1.0,1.0,5.0,STRT
+209,,2010-10-06 15:27:06,2010-10-05,STRT,Koss Michael J,Dir,A - Grant,0.0,600,1600,+60%,0.0,0.0,-6.0,4.0,9.0,STRT
+210,,2010-10-06 12:02:59,2010-10-05,STRT,Zimmer David R,Dir,A - Grant,0.0,600,900,+200%,0.0,0.0,-6.0,4.0,9.0,STRT
+211,,2010-10-06 11:40:50,2010-10-05,STRT,Feitler Robert,Dir,A - Grant,0.0,600,15600,+4%,0.0,0.0,-6.0,4.0,9.0,STRT
+212,,2010-08-26 16:45:20,2010-08-25,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,S - Sale,20.47,-400,2300,-15%,-8188.0,3.0,3.0,18.0,71.0,STRT
+213,D,2010-08-18 18:27:29,2010-08-17,STRT,Krejci Frank,"Pres, COO",A - Grant,0.0,1500,1940,+341%,0.0,3.0,3.0,16.0,77.0,STRT
+214,D,2010-08-18 18:19:16,2010-08-17,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,1200,3900,+44%,0.0,3.0,3.0,16.0,77.0,STRT
+215,D,2010-08-18 18:09:44,2010-08-17,STRT,Stratton Harold M II,"COB, CEO",A - Grant,0.0,2000,60234,+3%,0.0,3.0,3.0,16.0,77.0,STRT
+216,D,2010-08-18 17:55:00,2010-08-17,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,A - Grant,0.0,800,2700,+42%,0.0,3.0,3.0,16.0,77.0,STRT
+217,D,2010-08-18 17:34:21,2010-08-17,STRT,Guillot Rolando,VP - Mexican Operations,A - Grant,0.0,800,3300,+32%,0.0,3.0,3.0,16.0,77.0,STRT
+218,D,2010-08-18 17:19:03,2010-08-17,STRT,Messina Richard P,VP - Power Access Products,A - Grant,0.0,800,1200,+200%,0.0,3.0,3.0,16.0,77.0,STRT
+219,D,2010-08-18 17:03:37,2010-08-17,STRT,Kazmierski Dennis,"VP - Marketing, Sales",A - Grant,0.0,800,2300,+53%,0.0,3.0,3.0,16.0,77.0,STRT
+220,D,2010-08-18 16:54:31,2010-08-17,STRT,Reetz Brian J,VP - Security Products,A - Grant,0.0,800,2614,+44%,0.0,3.0,3.0,16.0,77.0,STRT
+221,D,2010-05-05 17:36:22,2010-05-03,STRT,Hansen Patrick J,"SVP, CFO",M - OptEx,10.92,1500,2700,+125%,16380.0,-2.0,-5.0,-3.0,33.0,STRT
+222,D,2010-05-05 17:36:22,2010-05-03,STRT,Hansen Patrick J,"SVP, CFO",S - Sale+OE,27.08,-1500,2700,-36%,-40620.0,-2.0,-5.0,-3.0,33.0,STRT
+223,,2009-11-20 13:44:33,2009-11-16,STRT,Kazmierski Dennis,"VP - Marketing, Sales",S - Sale,14.53,-600,1500,-29%,-8718.0,-2.0,3.0,20.0,48.0,STRT
+224,,2009-09-01 14:26:57,2009-08-31,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,S - Sale,14.64,-600,1900,-24%,-8784.0,-3.0,1.0,-5.0,29.0,STRT
+225,,2009-09-01 14:19:35,2009-08-31,STRT,Bundalo Milan R,VP - Materials,S - Sale,14.28,-600,1300,-32%,-8565.0,-3.0,1.0,-5.0,29.0,STRT
+226,,2009-08-20 11:24:32,2009-08-18,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,600,2700,+29%,0.0,0.0,-1.0,-2.0,24.0,STRT
+227,,2009-08-20 11:15:41,2009-08-18,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,A - Grant,0.0,400,2500,+19%,0.0,0.0,-1.0,-2.0,24.0,STRT
+228,,2009-08-20 11:10:10,2009-08-18,STRT,Kazmierski Dennis,"VP - Marketing, Sales",A - Grant,0.0,400,2100,+24%,0.0,0.0,-1.0,-2.0,24.0,STRT
+229,,2009-08-20 11:05:11,2009-08-18,STRT,Bundalo Milan R,VP - Materials,A - Grant,0.0,400,1900,+27%,0.0,0.0,-1.0,-2.0,24.0,STRT
+230,,2009-08-20 10:59:41,2009-08-18,STRT,Messina Richard P,VP - Power Access Products,A - Grant,0.0,400,400,New,0.0,-1.0,-1.0,-2.0,24.0,STRT
+231,,2009-08-20 10:43:26,2009-08-18,STRT,Guillot Rolando,VP - Mexican Operations,A - Grant,0.0,400,2500,+19%,0.0,0.0,-1.0,-2.0,24.0,STRT
+232,,2009-08-20 10:36:50,2009-08-18,STRT,Reetz Brian J,VP - Security Products,A - Grant,0.0,400,2014,+25%,0.0,-1.0,-1.0,-2.0,24.0,STRT
+233,,2009-08-20 10:25:24,2009-08-18,STRT,Stratton Harold M II,"COB, Pres, CEO",A - Grant,0.0,1000,58234,+2%,0.0,0.0,-1.0,-2.0,24.0,STRT
+234,,2008-11-10 15:21:36,2008-11-06,STRT,Hansen Patrick J,"SVP, CFO",S - Sale,27.09,-600,2100,-22%,-16254.0,-19.0,-34.0,-34.0,-42.0,STRT
+235,,2008-10-30 18:20:59,2008-10-28,STRT,Bundalo Milan R,VP-Materials,S - Sale,19.34,-600,1500,-29%,-11604.0,7.0,40.0,-11.0,-30.0,STRT
+236,,2008-08-21 10:50:35,2008-08-19,STRT,Kazmierski Dennis,"VP - Marketing, Sales",A - Grant,0.0,500,1700,+42%,0.0,1.0,-4.0,-3.0,-69.0,STRT
+237,,2008-08-21 10:44:04,2008-08-19,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,600,2700,+29%,0.0,1.0,-4.0,-3.0,-69.0,STRT
+238,,2008-08-21 10:38:16,2008-08-19,STRT,Bundalo Milan R,VP - Materials,A - Grant,0.0,500,2100,+31%,0.0,1.0,-4.0,-3.0,-69.0,STRT
+239,,2008-08-21 10:29:18,2008-08-19,STRT,Stratton Harold M II,"COB, CEO",A - Grant,0.0,800,57234,+1%,0.0,1.0,-4.0,-3.0,-69.0,STRT
+240,,2008-08-21 10:15:09,2008-08-19,STRT,Guillot Rolando,VP - Mexican Operations,A - Grant,0.0,500,2100,+31%,0.0,1.0,-4.0,-3.0,-69.0,STRT
+241,,2008-08-21 10:07:57,2008-08-19,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,A - Grant,0.0,500,2100,+31%,0.0,1.0,-4.0,-3.0,-69.0,STRT
+242,,2007-08-28 13:51:14,2007-08-28,STRT,Zimmer David R,Dir,P - Purchase,48.77,300,300,New,14631.0,0.0,-1.0,-2.0,-18.0,STRT
+243,,2007-08-22 13:57:21,2007-08-21,STRT,Scherbarth Kathryn E,Vice Pres-Milwaukee Operations,A - Grant,0.0,400,1600,+33%,0.0,-2.0,1.0,-1.0,-20.0,STRT
+244,,2007-08-22 13:53:42,2007-08-21,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,600,2000,+43%,0.0,-2.0,1.0,-1.0,-20.0,STRT
+245,,2007-08-22 13:49:52,2007-08-21,STRT,Harrod Donald J,"VP-Engineering, Program Dev",A - Grant,0.0,400,1600,+33%,0.0,-2.0,1.0,-1.0,-20.0,STRT
+246,,2007-08-22 13:45:53,2007-08-21,STRT,Bundalo Milan R,VP-Materials,A - Grant,0.0,400,1600,+33%,0.0,-2.0,1.0,-1.0,-20.0,STRT
+247,,2007-08-22 13:42:05,2007-08-21,STRT,Kazmierski Dennis,"Vice Pres-Marketing, Sales",A - Grant,0.0,400,1200,+50%,0.0,-2.0,1.0,-1.0,-20.0,STRT
+248,,2007-08-22 13:36:36,2007-08-21,STRT,Guillot Rolando,Vice Pres-Mexican Operations,A - Grant,0.0,400,1600,+33%,0.0,-2.0,1.0,-1.0,-20.0,STRT
+249,A,2006-08-30 12:38:21,2006-08-22,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,800,1400,+133%,0.0,3.0,3.0,-2.0,15.0,STRT
+250,,2006-08-23 15:01:39,2006-08-22,STRT,Guillot Rolando,VP-Mexican Operations,A - Grant,0.0,600,1200,+100%,0.0,1.0,-2.0,-4.0,14.0,STRT
+251,,2006-08-23 14:55:36,2006-08-22,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",A - Grant,0.0,600,1200,+100%,0.0,1.0,-2.0,-4.0,14.0,STRT
+252,,2006-08-23 14:49:23,2006-08-22,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,600,1200,+100%,0.0,1.0,-2.0,-4.0,14.0,STRT
+253,,2006-08-23 14:41:40,2006-08-22,STRT,Scherbarth Kathryn E,VP-Milwaukee Operations,A - Grant,0.0,600,1200,+100%,0.0,1.0,-2.0,-4.0,14.0,STRT
+254,,2006-08-23 14:37:29,2006-08-22,STRT,Bundalo Milan R,VP-Materials,A - Grant,0.0,600,1200,+100%,0.0,1.0,-2.0,-4.0,14.0,STRT
+255,,2006-08-23 14:31:01,2006-08-22,STRT,Kazmierski Dennis,"VP-Marketing, Sales",A - Grant,0.0,600,800,+300%,0.0,1.0,-2.0,-4.0,14.0,STRT
+256,,2005-10-05 17:57:42,2005-10-04,STRT,Kazmierski Dennis,"VP-Marketing, Sales",A - Grant,0.0,200,200,New,0.0,1.0,-1.0,0.0,-32.0,STRT
+257,,2005-10-05 17:53:02,2005-10-04,STRT,Guillot Rolando,VP-Mexican Operations,A - Grant,0.0,600,600,New,0.0,1.0,-1.0,0.0,-32.0,STRT
+258,,2005-10-05 17:49:46,2005-10-04,STRT,Bundalo Milan R,VP-Materials,A - Grant,0.0,600,600,New,0.0,1.0,-1.0,0.0,-32.0,STRT
+259,,2005-10-05 17:46:16,2005-10-04,STRT,Scherbarth Kathryn E,VP-Milwaukee Operations,A - Grant,0.0,600,600,New,0.0,1.0,-1.0,0.0,-32.0,STRT
+260,,2005-10-05 17:41:10,2005-10-04,STRT,Hansen Patrick J,"SVP, CFO",A - Grant,0.0,600,600,New,0.0,1.0,-1.0,0.0,-32.0,STRT
+261,,2005-10-05 17:37:28,2005-10-04,STRT,Harrod Donald J,"VP-Engineering, Product Dev.",A - Grant,0.0,600,600,New,0.0,1.0,-1.0,0.0,-32.0,STRT
+262,,2005-10-05 17:33:27,2005-10-04,STRT,Stratton Harold M II,"COB, CEO",A - Grant,0.0,1500,56334,+3%,0.0,1.0,-1.0,0.0,-32.0,STRT
+263,,2005-09-01 18:21:12,2005-01-28,STRT,Stratton Harold M II,"COB, CEO",S - Sale,50.5,-20095,42264,-32%,-1014798.0,1.0,2.0,-1.0,-22.0,STRT
+264,DM,2005-02-09 17:37:46,2005-02-07,STRT,Scherbarth Kathryn E,VP-Milwaukee Operations,M - OptEx,31.36,4290,0,-100%,134534.0,0.0,0.0,2.0,-6.0,STRT
+265,DM,2005-02-09 17:37:46,2005-02-07,STRT,Scherbarth Kathryn E,VP-Milwaukee Operations,S - Sale+OE,58.08,-4290,0,-100%,-249172.0,0.0,0.0,2.0,-6.0,STRT
+266,,2005-01-28 16:32:11,2005-01-28,STRT,Stratton Harold M II,"COB, CEO",S - Sale,57.58,-8500,42264,-17%,-489430.0,1.0,1.0,-3.0,10.0,STRT
+267,D,2005-01-26 17:45:08,2005-01-24,STRT,Stratton Harold M II,"COB, CEO",M - OptEx,11.75,8500,50764,+20%,99875.0,-2.0,1.0,-5.0,3.0,STRT
+268,DM,2004-11-17 16:58:20,2004-11-16,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",M - OptEx,45.44,900,0,-100%,40896.0,2.0,2.0,3.0,-17.0,STRT
+269,DM,2004-11-17 16:58:20,2004-11-16,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",S - Sale+OE,63.44,-900,0,-100%,-57096.0,2.0,2.0,3.0,-17.0,STRT
+270,D,2004-11-15 17:25:02,2004-11-12,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",M - OptEx,45.44,1500,0,-100%,68160.0,0.0,-2.0,3.0,-19.0,STRT
+271,D,2004-11-15 17:25:02,2004-11-12,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",S - Sale+OE,63.5,-1500,0,-100%,-95250.0,0.0,-2.0,3.0,-19.0,STRT
+272,D,2004-11-09 16:51:13,2004-11-08,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",M - OptEx,45.44,1900,0,-100%,86336.0,1.0,0.0,0.0,-18.0,STRT
+273,D,2004-11-09 16:51:13,2004-11-08,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",S - Sale+OE,63.76,-1900,0,-100%,-121144.0,1.0,0.0,0.0,-18.0,STRT
+274,D,2004-11-05 17:13:28,2004-11-03,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",M - OptEx,45.44,1000,0,-100%,45440.0,-1.0,0.0,-2.0,-20.0,STRT
+275,D,2004-11-05 17:13:28,2004-11-03,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",S - Sale+OE,63.5,-1000,0,-100%,-63500.0,-1.0,0.0,-2.0,-20.0,STRT
+276,D,2004-11-04 16:50:59,2004-11-03,STRT,Bundalo Milan R,VP-Materials,M - OptEx,45.44,2340,0,-100%,106330.0,0.0,-1.0,-3.0,-19.0,STRT
+277,D,2004-11-04 16:50:59,2004-11-03,STRT,Bundalo Milan R,VP-Materials,S - Sale+OE,63.5,-2340,0,-100%,-148590.0,0.0,-1.0,-3.0,-19.0,STRT
+278,D,2004-11-01 17:30:41,2004-11-01,STRT,Stratton Harold M II,"COB, CEO",M - OptEx,11.75,8500,93028,+10%,99875.0,0.0,0.0,-1.0,-18.0,STRT
+279,D,2004-11-01 17:30:41,2004-11-01,STRT,Stratton Harold M II,"COB, CEO",S - Sale+OE,62.9,-8500,93028,-8%,-534650.0,0.0,0.0,-1.0,-18.0,STRT
+280,D,2004-09-02 17:30:14,2004-09-01,STRT,Cahill John G,"Pres, COO",M - OptEx,45.44,20150,486,-102%,915616.0,-1.0,3.0,1.0,-11.0,STRT
+281,D,2004-09-02 17:30:14,2004-09-01,STRT,Cahill John G,"Pres, COO",S - Sale+OE,63.32,-20150,486,-98%,-1275898.0,-1.0,3.0,1.0,-11.0,STRT
+282,D,2004-09-01 18:01:42,2004-09-01,STRT,Stratton Harold M II,"COB, CEO",M - OptEx,43.07,3000,42264,+8%,129210.0,0.0,0.0,-1.0,-12.0,STRT
+283,D,2004-08-26 16:03:57,2004-08-25,STRT,Hansen Patrick J,"VP, CFO, Treasurer, Sec'y",M - OptEx,45.44,4380,0,-100%,199027.0,0.0,1.0,1.0,-11.0,STRT
+284,D,2004-08-26 16:03:57,2004-08-25,STRT,Hansen Patrick J,"VP, CFO, Treasurer, Sec'y",S - Sale+OE,62.21,-4380,0,-100%,-272480.0,0.0,1.0,1.0,-11.0,STRT
+285,D,2004-08-25 18:07:00,2004-08-24,STRT,Stratton Harold M II,"COB, CEO",M - OptEx,11.75,8500,39264,+28%,99875.0,-1.0,0.0,0.0,-11.0,STRT
+286,D,2004-08-25 18:07:00,2004-08-25,STRT,Stratton Harold M II,"COB, CEO",S - Sale+OE,62.21,-8500,39264,-18%,-528785.0,-1.0,0.0,0.0,-11.0,STRT
+287,D,2004-08-19 17:43:00,2004-08-19,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,M - OptEx,16.63,2000,0,-100%,33260.0,1.0,1.0,3.0,-12.0,STRT
+288,D,2004-08-19 17:43:00,2004-08-19,STRT,Scherbarth Kathryn E,VP - Milwaukee Operations,S - Sale+OE,62.0,-2000,0,-100%,-124000.0,1.0,1.0,3.0,-12.0,STRT
+289,,2004-05-12 17:43:21,2004-05-03,STRT,Stratton Harold M II,"COB, CEO",S - Sale,64.87,-2950,39624,-7%,-191352.0,-1.0,-2.0,1.0,-1.0,STRT
+290,,2004-04-30 18:51:16,2004-04-27,STRT,Stratton Harold M II,"COB, CEO",G - Gift,0.0,-3800,42214,-8%,-0.0,1.0,0.0,-9.0,0.0,STRT
+291,D,2004-04-20 17:51:42,2004-04-19,STRT,Stratton Harold M II,"COB, CEO",M - OptEx,30.11,18450,46014,+67%,555486.0,1.0,0.0,-5.0,-6.0,STRT
+292,D,2004-04-20 17:51:42,2004-04-20,STRT,Stratton Harold M II,"COB, CEO",S - Sale+OE,65.51,-15500,46014,-25%,-1015390.0,1.0,0.0,-5.0,-6.0,STRT
+293,DM,2004-02-27 17:43:34,2004-02-25,STRT,Pfaehler Kris R,"Vice Pres-Marketing, Sales",M - OptEx,34.26,4500,0,-100%,154170.0,0.0,-2.0,-4.0,-5.0,STRT
+294,DM,2004-02-27 17:43:34,2004-02-25,STRT,Pfaehler Kris R,"Vice Pres-Marketing, Sales",S - Sale+OE,63.93,-4500,0,-100%,-287670.0,0.0,-2.0,-4.0,-5.0,STRT
+295,D,2004-02-25 18:06:27,2004-02-23,STRT,Cahill John G,"Pres, COO",M - OptEx,43.07,2907,486,-120%,125204.0,-1.0,1.0,-3.0,-3.0,STRT
+296,D,2004-02-25 18:06:27,2004-02-23,STRT,Cahill John G,"Pres, COO",S - Sale+OE,64.0,-2907,486,-86%,-186048.0,-1.0,1.0,-3.0,-3.0,STRT
+297,DM,2004-02-20 16:01:32,2004-02-18,STRT,Cahill John G,"Pres, COO",M - OptEx,43.65,20000,486,-102%,872952.0,1.0,-1.0,1.0,-4.0,STRT
+298,DM,2004-02-20 16:01:32,2004-02-18,STRT,Cahill John G,"Pres, COO",S - Sale+OE,63.51,-20000,486,-98%,-1270150.0,1.0,-1.0,1.0,-4.0,STRT
+299,D,2004-02-18 17:37:43,2004-02-17,STRT,Cahill John G,"Pres, COO",M - OptEx,45.79,1400,486,-153%,64106.0,0.0,2.0,3.0,-2.0,STRT
+300,D,2004-02-18 17:37:43,2004-02-17,STRT,Cahill John G,"Pres, COO",S - Sale+OE,64.0,-1400,486,-74%,-89600.0,0.0,2.0,3.0,-2.0,STRT
+301,D,2004-02-09 17:34:42,2004-02-06,STRT,Stratton Harold M II,"COB, CEO",M - OptEx,45.79,15600,43064,+57%,714324.0,1.0,2.0,3.0,-1.0,STRT
+302,D,2004-02-09 17:34:42,2004-02-09,STRT,Stratton Harold M II,"COB, CEO",S - Sale+OE,61.0,-12800,43064,-23%,-780800.0,1.0,2.0,3.0,-1.0,STRT
+303,,2004-02-02 17:29:09,2004-01-30,STRT,Stratton Harold M II,"COB, CEO",S - Sale,63.0,-9000,40264,-18%,-567000.0,0.0,-2.0,4.0,2.0,STRT
+304,D,2004-01-29 17:50:00,2004-01-27,STRT,Stratton Harold M II,"COB, CEO",M - OptEx,11.75,9000,49264,+22%,105750.0,0.0,-4.0,4.0,2.0,STRT
+305,D,2004-01-29 17:38:10,2004-01-27,STRT,Pfaehler Kris R,"Vice Pres-Marketing, Sales",M - OptEx,34.26,1500,0,-100%,51390.0,0.0,-4.0,4.0,2.0,STRT
+306,D,2004-01-29 17:38:10,2004-01-27,STRT,Pfaehler Kris R,"Vice Pres-Marketing, Sales",S - Sale+OE,65.0,-1500,0,-100%,-97500.0,0.0,-4.0,4.0,2.0,STRT
+307,D,2004-01-27 17:36:17,2004-01-26,STRT,Cahill John G,"Pres, COO",A - Grant,65.2,1313,486,-159%,85608.0,-1.0,-3.0,0.0,-3.0,STRT
+308,D,2004-01-27 17:36:17,2004-01-26,STRT,Cahill John G,"Pres, COO",M - OptEx,45.79,1313,486,-159%,60122.0,-1.0,-3.0,0.0,-3.0,STRT
+309,D,2004-01-27 17:23:34,2004-01-26,STRT,Pfaehler Kris R,"Vice Pres-Marketing, Sales",M - OptEx,34.26,3000,0,-100%,102780.0,-1.0,-3.0,0.0,-3.0,STRT
+310,D,2004-01-27 17:23:34,2004-01-26,STRT,Pfaehler Kris R,"Vice Pres-Marketing, Sales",S - Sale+OE,65.79,-3000,0,-100%,-197370.0,-1.0,-3.0,0.0,-3.0,STRT
+311,DM,2004-01-26 17:32:42,2004-01-22,STRT,Cahill John G,"Pres, COO",M - OptEx,45.79,7153,486,-107%,327536.0,-1.0,-3.0,-1.0,-5.0,STRT
+312,DM,2004-01-26 17:32:42,2004-01-22,STRT,Cahill John G,"Pres, COO",S - Sale+OE,67.01,-7153,486,-94%,-479348.0,-1.0,-3.0,-1.0,-5.0,STRT
+313,D,2004-01-26 17:16:37,2004-01-23,STRT,Scherbarth Kathryn E,Vice Pres-Milwaukee Operations,M - OptEx,45.79,2741,0,-100%,125510.0,-1.0,-3.0,-1.0,-5.0,STRT
+314,D,2004-01-26 17:16:37,2004-01-23,STRT,Scherbarth Kathryn E,Vice Pres-Milwaukee Operations,S - Sale+OE,66.14,-2741,0,-100%,-181290.0,-1.0,-3.0,-1.0,-5.0,STRT
+315,DM,2004-01-22 18:00:57,2004-01-20,STRT,Cahill John G,"Pres, COO",M - OptEx,45.79,3500,486,-116%,160265.0,-2.0,-5.0,-4.0,-9.0,STRT
+316,DM,2004-01-22 18:00:57,2004-01-20,STRT,Cahill John G,"Pres, COO",S - Sale+OE,67.9,-3500,486,-88%,-237640.0,-2.0,-5.0,-4.0,-9.0,STRT
+317,D,2004-01-22 17:44:52,2004-01-21,STRT,Pfaehler Kris R,"Vice Pres--Marketing, Sales",M - OptEx,34.26,1000,0,-100%,34260.0,-2.0,-5.0,-4.0,-9.0,STRT
+318,D,2004-01-22 17:44:52,2004-01-21,STRT,Pfaehler Kris R,"Vice Pres--Marketing, Sales",S - Sale+OE,67.76,-1000,0,-100%,-67760.0,-2.0,-5.0,-4.0,-9.0,STRT
+319,DM,2003-12-01 18:41:23,2003-11-26,STRT,Bundalo Milan R,VP-Materials,M - OptEx,45.79,2335,0,-100%,106920.0,0.0,-3.0,2.0,-4.0,STRT
+320,DM,2003-12-01 18:41:23,2003-11-26,STRT,Bundalo Milan R,VP-Materials,S - Sale+OE,59.59,-2335,0,-100%,-139135.0,0.0,-3.0,2.0,-4.0,STRT
+321,D,2003-11-14 16:20:13,2003-11-13,STRT,Bundalo Milan R,VP-Materials,M - OptEx,43.07,2015,0,-100%,86786.0,-1.0,0.0,7.0,11.0,STRT
+322,D,2003-11-14 16:20:13,2003-11-13,STRT,Bundalo Milan R,VP-Materials,S - Sale+OE,55.01,-2015,0,-100%,-110845.0,-1.0,0.0,7.0,11.0,STRT
+323,D,2003-10-31 16:40:53,2003-10-30,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",M - OptEx,43.07,4930,0,-100%,212335.0,4.0,4.0,15.0,21.0,STRT
+324,D,2003-10-31 16:40:53,2003-10-30,STRT,Harrod Donald J,"VP-Engineering, Program Dev.",S - Sale+OE,53.75,-4930,0,-100%,-264988.0,4.0,4.0,15.0,21.0,STRT
+325,D,2003-10-23 17:28:42,2003-10-22,STRT,Hansen Patrick J,"Vice Pres, CFO, Treas, Sec'y",M - OptEx,43.07,4770,0,-100%,205444.0,-1.0,3.0,4.0,23.0,STRT
+326,D,2003-10-23 17:28:42,2003-10-22,STRT,Hansen Patrick J,"Vice Pres, CFO, Treas, Sec'y",S - Sale+OE,53.5,-4770,0,-100%,-255195.0,-1.0,3.0,4.0,23.0,STRT
+327,D,2003-10-23 17:18:41,2003-10-21,STRT,Stratton Harold M II,"COB, CEO",M - OptEx,11.75,8000,40264,+25%,94000.0,-1.0,3.0,4.0,23.0,STRT
+328,D,2003-10-23 17:18:41,2003-10-22,STRT,Stratton Harold M II,"COB, CEO",S - Sale+OE,53.5,-8000,40264,-17%,-428000.0,-1.0,3.0,4.0,23.0,STRT
+329,D,2003-08-27 16:09:24,2003-08-26,STRT,Stratton Harold M II,"COB, CEO",M - OptEx,11.75,8000,52934,+18%,94000.0,-1.0,0.0,-2.0,22.0,STRT
+330,D,2003-08-27 16:09:24,2003-08-27,STRT,Stratton Harold M II,"COB, CEO",S - Sale+OE,52.55,-8000,52934,-13%,-420400.0,-1.0,0.0,-2.0,22.0,STRT
+331,A,2003-08-12 11:05:45,2003-07-31,STRT,Krejci Frank,Dir,P - Purchase,53.51,400,440,>999%,21404.0,2.0,0.0,6.0,23.0,STRT
+332,,2003-08-01 10:10:05,2003-07-31,STRT,Krejci Frank,Dir,P - Purchase,53.51,400,400,New,21404.0,-1.0,-8.0,-3.0,18.0,STRT

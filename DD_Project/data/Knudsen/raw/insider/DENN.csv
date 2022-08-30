@@ -1,47 +1,581 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2021-11-10 17:53:58,2021-11-08,DENN,Robinson Donald C.,Dir,S - Sale,$16.01,-15938,0,-100%,"-$255,116",,,,,DENN
-1,M,2021-09-01 17:39:30,2021-08-30,DENN,Wolfinger F Mark,Pres,S - Sale,$16.38,-19877,786771,-2%,"-$325,544",,,,,DENN
-2,M,2021-03-16 17:38:23,2021-03-12,DENN,Gilmore Jay C,"SVP, CAO, Corp. Controller",S - Sale,$19.70,-9860,77812,-11%,"-$194,262",,,,,DENN
-3,,2021-03-12 18:45:56,2021-03-10,DENN,Dillon John William,"EVP, Chief Brand Officer",S - Sale,$17.82,-20914,70639,-23%,"-$372,660",,,,,DENN
-4,,2021-03-09 19:16:31,2021-03-05,DENN,Wolfinger F Mark,Pres,S - Sale,$17.05,-10000,806648,-1%,"-$170,491",,,,,DENN
-5,,2021-02-26 16:04:56,2021-02-24,DENN,Wolfinger F Mark,Pres,S - Sale,$17.95,-10000,816648,-1%,"-$179,450",,,,,DENN
-6,,2020-09-03 18:00:54,2020-09-01,DENN,Lauderback Brenda J,Dir,S - Sale,$11.60,-8488,0,-100%,"-$98,501",,,,,DENN
-7,D,2020-09-03 18:00:11,2020-09-01,DENN,Dillon John William,"EVP, Chief Brand Officer",S - Sale+OE,$11.60,-8900,76642,-10%,"-$103,206",,,,,DENN
-8,D,2020-05-28 17:24:21,2020-05-27,DENN,Wolfinger F Mark,Pres,S - Sale+OE,$11.42,-6884,800052,-1%,"-$78,617",,,,,DENN
-9,,2020-02-24 18:02:09,2020-02-20,DENN,Bode Christopher D,SVP COO,S - Sale,$20.61,-33000,22965,-59%,"-$680,176",,,,,DENN
-10,,2019-11-29 21:35:56,2019-11-27,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",S - Sale,$19.51,-58332,36017,-62%,"-$1,137,917",,,,,DENN
-11,,2019-09-16 18:10:19,2019-09-12,DENN,Flemming Timothy E.,"SVP, GC, CLO",S - Sale,$22.82,-50873,100828,-34%,"-$1,161,034",,,,,DENN
-12,D,2019-09-16 18:04:20,2019-09-13,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$22.82,-3816,775980,0%,"-$87,083",,,,,DENN
-13,DM,2019-09-13 18:52:06,2019-09-11,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$22.83,-15000,775980,-2%,"-$342,438",,,,,DENN
-14,D,2019-09-11 17:17:58,2019-09-09,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$23.25,-15000,775980,-2%,"-$348,678",,,,,DENN
-15,M,2019-09-10 17:44:50,2019-09-06,DENN,Dillon John William,"SVP, Chief Brand Officer",S - Sale,$23.40,-16980,63228,-21%,"-$397,319",,,,,DENN
-16,DM,2019-09-09 17:13:52,2019-09-05,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$23.56,-25000,775980,-3%,"-$589,108",,,,,DENN
-17,,2019-09-06 17:46:28,2019-09-04,DENN,Verostek Robert P.,"SVP, Finance",S - Sale,$23.58,-5120,17500,-23%,"-$120,712",,,,,DENN
-18,DM,2019-09-05 19:32:15,2019-09-03,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$23.58,-20000,775980,-3%,"-$471,522",,,,,DENN
-19,,2019-09-05 19:22:00,2019-09-03,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",S - Sale,$23.75,-13000,80416,-14%,"-$308,750",,,,,DENN
-20,D,2019-09-03 18:17:35,2019-08-30,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$23.57,-10000,775980,-1%,"-$235,658",,,,,DENN
-21,M,2019-09-03 18:13:48,2019-08-29,DENN,Bode Christopher D,SVP COO,S - Sale,$23.53,-50488,39661,-56%,"-$1,187,963",,,,,DENN
-22,DM,2019-06-17 12:59:03,2019-06-13,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$20.70,-47550,775980,-6%,"-$984,330",,,,,DENN
-23,D,2019-06-12 16:09:58,2019-06-10,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$20.66,-30000,775980,-4%,"-$619,860",,,,,DENN
-24,DM,2019-06-10 16:10:10,2019-06-06,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$20.67,-37500,775980,-5%,"-$775,021",,,,,DENN
-25,D,2019-06-10 16:09:52,2019-06-07,DENN,Flemming Timothy E.,"SVP, GC, CLO",S - Sale+OE,$20.71,-30000,151701,-17%,"-$621,294",,,,,DENN
-26,DM,2019-05-28 17:28:12,2019-05-23,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$19.39,-15000,775980,-2%,"-$290,883",,,,,DENN
-27,,2019-05-17 15:28:08,2019-05-16,DENN,Robinson Donald C.,Dir,S - Sale,$19.61,-6431,0,-100%,"-$126,125",,,,,DENN
-28,,2019-05-16 17:28:38,2019-05-15,DENN,Lauderback Brenda J,Dir,S - Sale,$19.23,-9968,0,-100%,"-$191,720",,,,,DENN
-29,,2019-05-15 17:48:57,2019-05-13,DENN,Dillon John William,"SVP, Chief Brand Officer",S - Sale,$19.24,-10360,80208,-11%,"-$199,364",,,,,DENN
-30,DM,2019-05-14 18:15:27,2019-05-10,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$19.22,-7500,775980,-1%,"-$144,135",,,,,DENN
-31,D,2019-05-10 17:19:18,2019-05-08,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$19.38,-5000,775980,-1%,"-$96,912",,,,,DENN
-32,DM,2019-04-01 18:35:57,2019-03-28,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$18.47,-7450,775980,-1%,"-$137,580",,,,,DENN
-33,,2019-03-27 18:10:55,2019-03-25,DENN,Verostek Robert P.,"SVP, Finance",S - Sale,$18.13,-5474,23393,-19%,"-$99,246",,,,,DENN
-34,,2019-03-22 16:40:50,2019-03-20,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",S - Sale,$17.68,-12000,99199,-11%,"-$212,208",,,,,DENN
-35,M,2019-02-25 18:30:28,2019-02-21,DENN,Miller John C,"CEO, Pres",S - Sale,$17.95,-125794,541564,-19%,"-$2,257,653",,,,,DENN
-36,D,2019-02-22 17:29:33,2019-02-20,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$17.88,-7500,775980,-1%,"-$134,102",,,,,DENN
-37,D,2018-12-13 17:06:21,2018-12-11,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$16.67,-7500,715894,-1%,"-$125,048",,,,,DENN
-38,DM,2018-11-20 17:02:54,2018-11-16,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$16.90,-14000,715894,-2%,"-$236,640",,,,,DENN
-39,D,2018-11-16 16:49:39,2018-11-14,DENN,Flemming Timothy E.,"SVP, GC, CLO",S - Sale+OE,$17.24,-43600,118191,-27%,"-$751,546",,,,,DENN
-40,D,2018-11-13 16:31:12,2018-11-08,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$16.65,-7500,715894,-1%,"-$124,844",,,,,DENN
-41,D,2018-11-07 16:53:03,2018-11-05,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$16.65,-7500,715894,-1%,"-$124,859",,,,,DENN
-42,,2018-06-18 18:41:10,2018-06-14,DENN,Miller John C,"CEO, Pres",S - Sale,$15.54,-48767,667358,-7%,"-$757,620",,,,,DENN
-43,M,2018-06-14 17:08:33,2018-06-12,DENN,Miller John C,"CEO, Pres",S - Sale,$15.69,-80901,716125,-10%,"-$1,269,497",,,,,DENN
-44,,2018-06-08 17:59:34,2018-06-08,DENN,Dillon John William,"SVP, CMO",S - Sale,$15.90,-7500,57505,-12%,"-$119,250",,,,,DENN
-45,,2018-06-08 17:56:05,2018-06-08,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",S - Sale,$15.81,-11506,92479,-11%,"-$181,873",,,,,DENN
+0,A,2022-01-19 21:40:46,2022-01-12,DENN,Dillon John William,"EVP, Chief Brand Officer",A - Grant,$0.00,17906,86010,+26%,+$0,,,,,DENN
+1,A,2022-01-19 21:40:46,2022-01-12,DENN,Dillon John William,"EVP, Chief Brand Officer",F - Tax,$15.90,-6678,86010,-7%,"-$106,180",,,,,DENN
+2,A,2022-01-19 21:40:46,2022-01-12,DENN,Dillon John William,"EVP, Chief Brand Officer",M - OptEx,$0.00,4143,86010,+5%,+$0,,,,,DENN
+3,A,2022-01-19 21:40:11,2022-01-12,DENN,Gilmore Jay C,"SVP, CAO, Corp. Controller",A - Grant,$0.00,4481,81105,+6%,+$0,,,,,DENN
+4,A,2022-01-19 21:40:11,2022-01-12,DENN,Gilmore Jay C,"SVP, CAO, Corp. Controller",F - Tax,$15.90,-3613,81105,-4%,"-$57,447",,,,,DENN
+5,A,2022-01-19 21:40:11,2022-01-12,DENN,Gilmore Jay C,"SVP, CAO, Corp. Controller",M - OptEx,$0.00,2425,81105,+3%,+$0,,,,,DENN
+6,A,2022-01-19 21:39:37,2022-01-12,DENN,Verostek Robert P.,"EVP, CFO",A - Grant,$0.00,7344,30833,+31%,+$0,,,,,DENN
+7,A,2022-01-19 21:39:37,2022-01-12,DENN,Verostek Robert P.,"EVP, CFO",F - Tax,$15.90,-5995,30833,-16%,"-$95,321",,,,,DENN
+8,A,2022-01-19 21:39:37,2022-01-12,DENN,Verostek Robert P.,"EVP, CFO",M - OptEx,$0.00,4396,30833,+17%,+$0,,,,,DENN
+9,D,2022-01-14 18:53:03,2022-01-12,DENN,Wolfinger F Mark,Pres,A - Grant,$0.00,34905,815932,+4%,+$0,,,,,DENN
+10,D,2022-01-14 18:53:03,2022-01-12,DENN,Wolfinger F Mark,Pres,F - Tax,$15.90,-13878,815932,-2%,"-$220,660",,,,,DENN
+11,D,2022-01-14 18:53:03,2022-01-12,DENN,Wolfinger F Mark,Pres,M - OptEx,$0.00,8134,815932,+1%,+$0,,,,,DENN
+12,D,2022-01-14 18:52:46,2022-01-12,DENN,Verostek Robert P.,"EVP, CFO",A - Grant,$0.00,14688,38177,+63%,+$0,,,,,DENN
+13,D,2022-01-14 18:52:46,2022-01-12,DENN,Verostek Robert P.,"EVP, CFO",F - Tax,$15.90,-5995,38177,-14%,"-$95,321",,,,,DENN
+14,D,2022-01-14 18:52:46,2021-12-28,DENN,Verostek Robert P.,"EVP, CFO",G - Gift,$0.00,-750,38177,-2%,-$0,,,,,DENN
+15,D,2022-01-14 18:52:46,2022-01-12,DENN,Verostek Robert P.,"EVP, CFO",M - OptEx,$0.00,4396,38177,+13%,+$0,,,,,DENN
+16,D,2022-01-14 18:52:28,2022-01-12,DENN,Myers Gail Sharps,"EVP, CLO, CPO, Secretary",F - Tax,$15.90,-1419,2451,-37%,"-$22,562",,,,,DENN
+17,D,2022-01-14 18:52:28,2022-01-12,DENN,Myers Gail Sharps,"EVP, CLO, CPO, Secretary",M - OptEx,$0.00,3870,2451,-273%,+$0,,,,,DENN
+18,D,2022-01-14 18:52:10,2022-01-12,DENN,Miller John C,CEO,A - Grant,$0.00,103461,791135,+15%,+$0,,,,,DENN
+19,D,2022-01-14 18:52:10,2022-01-12,DENN,Miller John C,CEO,F - Tax,$15.90,-45278,791135,-5%,"-$719,920",,,,,DENN
+20,D,2022-01-14 18:52:10,2022-01-12,DENN,Miller John C,CEO,M - OptEx,$0.00,22433,791135,+3%,+$0,,,,,DENN
+21,D,2022-01-14 18:51:52,2022-01-12,DENN,Gilmore Jay C,"SVP, CAO, Corp. Controller",A - Grant,$0.00,8962,85586,+12%,+$0,,,,,DENN
+22,D,2022-01-14 18:51:52,2022-01-12,DENN,Gilmore Jay C,"SVP, CAO, Corp. Controller",F - Tax,$15.90,-3613,85586,-4%,"-$57,447",,,,,DENN
+23,D,2022-01-14 18:51:52,2022-01-12,DENN,Gilmore Jay C,"SVP, CAO, Corp. Controller",M - OptEx,$0.00,2425,85586,+3%,+$0,,,,,DENN
+24,D,2022-01-14 18:51:36,2022-01-12,DENN,Furlow Michael L.,"EVP, CIO",A - Grant,$0.00,16744,41546,+68%,+$0,,,,,DENN
+25,D,2022-01-14 18:51:36,2022-01-12,DENN,Furlow Michael L.,"EVP, CIO",F - Tax,$15.90,-5983,41546,-13%,"-$95,130",,,,,DENN
+26,D,2022-01-14 18:51:36,2022-01-12,DENN,Furlow Michael L.,"EVP, CIO",M - OptEx,$0.00,2934,41546,+8%,+$0,,,,,DENN
+27,D,2022-01-14 18:51:16,2022-01-12,DENN,Dunn Stephen C.,"EVP, Chief Global Dev. Ofc.",A - Grant,$0.00,17723,80741,+28%,+$0,,,,,DENN
+28,D,2022-01-14 18:51:16,2022-01-12,DENN,Dunn Stephen C.,"EVP, Chief Global Dev. Ofc.",F - Tax,$15.90,-5479,80741,-6%,"-$87,116",,,,,DENN
+29,D,2022-01-14 18:51:16,2022-01-12,DENN,Dunn Stephen C.,"EVP, Chief Global Dev. Ofc.",M - OptEx,$0.00,3096,80741,+4%,+$0,,,,,DENN
+30,D,2022-01-14 18:50:58,2022-01-12,DENN,Dillon John William,"EVP, Chief Brand Officer",A - Grant,$0.00,18849,86953,+28%,+$0,,,,,DENN
+31,D,2022-01-14 18:50:58,2022-01-12,DENN,Dillon John William,"EVP, Chief Brand Officer",F - Tax,$15.90,-6678,86953,-7%,"-$106,180",,,,,DENN
+32,D,2022-01-14 18:50:58,2022-01-12,DENN,Dillon John William,"EVP, Chief Brand Officer",M - OptEx,$0.00,4143,86953,+5%,+$0,,,,,DENN
+33,D,2022-01-14 18:50:37,2022-01-12,DENN,Bode Christopher D,"EVP, COO",A - Grant,$0.00,18751,58030,+48%,+$0,,,,,DENN
+34,D,2022-01-14 18:50:37,2022-01-12,DENN,Bode Christopher D,"EVP, COO",F - Tax,$15.90,-5981,58030,-9%,"-$95,098",,,,,DENN
+35,D,2022-01-14 18:50:37,2022-01-12,DENN,Bode Christopher D,"EVP, COO",M - OptEx,$0.00,4143,58030,+8%,+$0,,,,,DENN
+36,D,2021-12-30 20:38:38,2021-12-29,DENN,Wolfinger F Mark,Pres,A - Grant,$0.00,1118,786771,0%,+$0,,,,,DENN
+37,D,2021-12-30 20:38:38,2021-12-29,DENN,Wolfinger F Mark,Pres,F - Tax,$15.82,-1118,786771,0%,"-$17,687",,,,,DENN
+38,D,2021-12-30 20:38:22,2021-12-29,DENN,Miller John C,CEO,A - Grant,$0.00,5015,710519,+1%,+$0,,,,,DENN
+39,D,2021-12-30 20:38:22,2021-12-29,DENN,Miller John C,CEO,F - Tax,$15.82,-5015,710519,-1%,"-$79,337",,,,,DENN
+40,D,2021-12-30 20:38:02,2021-12-29,DENN,Dunn Stephen C.,"EVP, Chief Global Dev. Ofc.",A - Grant,$0.00,583,65401,+1%,+$0,,,,,DENN
+41,D,2021-12-30 20:38:02,2021-12-29,DENN,Dunn Stephen C.,"EVP, Chief Global Dev. Ofc.",F - Tax,$15.82,-583,65401,-1%,"-$9,223",,,,,DENN
+42,D,2021-12-30 20:37:43,2021-12-29,DENN,Bode Christopher D,"EVP, COO",A - Grant,$0.00,881,41117,+2%,+$0,,,,,DENN
+43,D,2021-12-30 20:37:43,2021-12-29,DENN,Bode Christopher D,"EVP, COO",F - Tax,$15.82,-881,41117,-2%,"-$13,937",,,,,DENN
+44,,2021-11-10 17:53:58,2021-11-08,DENN,Robinson Donald C.,Dir,S - Sale,$16.01,-15938,0,-100%,"-$255,116",,,,,DENN
+45,M,2021-09-01 17:39:30,2021-08-30,DENN,Wolfinger F Mark,Pres,S - Sale,$16.38,-19877,786771,-2%,"-$325,544",,,,,DENN
+46,D,2021-05-21 17:40:33,2021-05-20,DENN,Ward Laysha,Dir,M - OptEx,$0.00,10280,33819,+44%,+$0,,,,,DENN
+47,D,2021-05-21 17:40:11,2021-05-20,DENN,Robinson Donald C.,Dir,M - OptEx,$0.00,10280,15938,+182%,+$0,,,,,DENN
+48,D,2021-05-21 17:39:51,2021-05-20,DENN,Lauderback Brenda J,Dir,M - OptEx,$0.00,15421,15421,New,+$0,,,,,DENN
+49,D,2021-05-21 17:39:31,2021-05-20,DENN,Gutierrez Jose M,Dir,M - OptEx,$0.00,10280,34657,+42%,+$0,,,,,DENN
+50,,2021-03-16 17:38:23,2021-03-12,DENN,Gilmore Jay C,"SVP, CAO, Corp. Controller",G - Gift,$0.00,-2800,77812,-3%,-$0,,,,,DENN
+51,M,2021-03-16 17:38:23,2021-03-12,DENN,Gilmore Jay C,"SVP, CAO, Corp. Controller",S - Sale,$19.70,-9860,77812,-11%,"-$194,262",,,,,DENN
+52,,2021-03-12 18:45:56,2021-03-10,DENN,Dillon John William,"EVP, Chief Brand Officer",S - Sale,$17.82,-20914,70639,-23%,"-$372,660",,,,,DENN
+53,,2021-03-09 19:16:31,2021-03-05,DENN,Wolfinger F Mark,Pres,S - Sale,$17.05,-10000,806648,-1%,"-$170,491",,,,,DENN
+54,,2021-02-26 16:04:56,2021-02-24,DENN,Wolfinger F Mark,Pres,S - Sale,$17.95,-10000,816648,-1%,"-$179,450",,,,,DENN
+55,D,2021-02-04 19:28:35,2021-02-02,DENN,Wolfinger F Mark,Pres,A - Grant,$0.00,22305,826648,+3%,+$0,,,,,DENN
+56,D,2021-02-04 19:28:35,2021-02-02,DENN,Wolfinger F Mark,Pres,F - Tax,$15.91,-7285,826648,-1%,"-$115,904",,,,,DENN
+57,D,2021-02-04 19:28:08,2021-02-02,DENN,Verostek Robert P.,"SVP, CFO",A - Grant,$0.00,4866,25838,+23%,+$0,,,,,DENN
+58,D,2021-02-04 19:28:08,2021-02-02,DENN,Verostek Robert P.,"SVP, CFO",F - Tax,$15.91,-3047,25838,-11%,"-$48,478",,,,,DENN
+59,D,2021-02-04 19:28:08,2021-02-02,DENN,Verostek Robert P.,"SVP, CFO",G - Gift,$0.00,-500,25838,-2%,-$0,,,,,DENN
+60,D,2021-02-04 19:27:27,2021-02-02,DENN,Miller John C,CEO,A - Grant,$0.00,80297,710519,+13%,+$0,,,,,DENN
+61,D,2021-02-04 19:27:27,2021-02-02,DENN,Miller John C,CEO,F - Tax,$15.91,-28003,710519,-4%,"-$445,528",,,,,DENN
+62,D,2021-02-04 19:27:08,2021-02-02,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,3723,90472,+4%,+$0,,,,,DENN
+63,D,2021-02-04 19:27:08,2021-02-02,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$15.91,-2142,90472,-2%,"-$34,079",,,,,DENN
+64,D,2021-02-04 19:26:42,2021-02-02,DENN,Furlow Michael L.,"SVP, CIO",A - Grant,$0.00,11096,27851,+66%,+$0,,,,,DENN
+65,D,2021-02-04 19:26:42,2021-02-02,DENN,Furlow Michael L.,"SVP, CIO",F - Tax,$15.91,-3830,27851,-12%,"-$60,935",,,,,DENN
+66,D,2021-02-04 19:26:25,2021-02-02,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",A - Grant,$0.00,11745,65401,+22%,+$0,,,,,DENN
+67,D,2021-02-04 19:26:25,2021-02-02,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",F - Tax,$15.91,-3208,65401,-5%,"-$51,039",,,,,DENN
+68,D,2021-02-04 19:26:04,2021-02-02,DENN,Dillon John William,"EVP, Chief Brand Officer",A - Grant,$0.00,11312,91553,+14%,+$0,,,,,DENN
+69,D,2021-02-04 19:26:04,2021-02-02,DENN,Dillon John William,"EVP, Chief Brand Officer",F - Tax,$15.91,-3899,91553,-4%,"-$62,033",,,,,DENN
+70,D,2021-02-04 19:25:42,2021-02-02,DENN,Bode Christopher D,SVP COO,A - Grant,$0.00,12426,41117,+43%,+$0,,,,,DENN
+71,D,2021-02-04 19:25:42,2021-02-02,DENN,Bode Christopher D,SVP COO,F - Tax,$15.91,-3367,41117,-8%,"-$53,569",,,,,DENN
+72,D,2020-12-30 15:16:00,2020-12-28,DENN,Wolfinger F Mark,Pres,A - Grant,$0.00,22401,811628,+3%,+$0,,,,,DENN
+73,D,2020-12-30 15:16:00,2020-12-28,DENN,Wolfinger F Mark,Pres,F - Tax,$13.77,-10825,811628,-1%,"-$149,060",,,,,DENN
+74,D,2020-12-30 15:15:44,2020-12-28,DENN,Verostek Robert P.,"SVP, CFO",A - Grant,$0.00,4708,24519,+24%,+$0,,,,,DENN
+75,D,2020-12-30 15:15:44,2020-12-28,DENN,Verostek Robert P.,"SVP, CFO",F - Tax,$13.77,-2273,24519,-8%,"-$31,299",,,,,DENN
+76,D,2020-12-30 15:15:44,2020-12-28,DENN,Verostek Robert P.,"SVP, CFO",G - Gift,$0.00,-750,24519,-3%,-$0,,,,,DENN
+77,D,2020-12-30 15:15:25,2020-12-28,DENN,Miller John C,CEO,A - Grant,$0.00,80593,658225,+14%,+$0,,,,,DENN
+78,D,2020-12-30 15:15:25,2020-12-28,DENN,Miller John C,CEO,F - Tax,$13.77,-38917,658225,-6%,"-$535,887",,,,,DENN
+79,D,2020-12-30 15:15:10,2020-12-28,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,3601,88891,+4%,+$0,,,,,DENN
+80,D,2020-12-30 15:15:10,2020-12-28,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$13.77,-1686,88891,-2%,"-$23,216",,,,,DENN
+81,D,2020-12-30 15:14:54,2020-12-28,DENN,Furlow Michael L.,"SVP, CIO",A - Grant,$0.00,10734,20585,+109%,+$0,,,,,DENN
+82,D,2020-12-30 15:14:54,2020-12-28,DENN,Furlow Michael L.,"SVP, CIO",F - Tax,$13.77,-3366,20585,-14%,"-$46,350",,,,,DENN
+83,D,2020-12-30 15:14:38,2020-12-28,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",A - Grant,$0.00,11701,56864,+26%,+$0,,,,,DENN
+84,D,2020-12-30 15:14:38,2020-12-28,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",F - Tax,$13.77,-3106,56864,-5%,"-$42,770",,,,,DENN
+85,D,2020-12-30 15:14:20,2020-12-28,DENN,Dillon John William,"EVP, Chief Brand Officer",A - Grant,$0.00,10943,84140,+15%,+$0,,,,,DENN
+86,D,2020-12-30 15:14:20,2020-12-28,DENN,Dillon John William,"EVP, Chief Brand Officer",F - Tax,$13.77,-3445,84140,-4%,"-$47,438",,,,,DENN
+87,D,2020-12-30 15:14:04,2020-12-28,DENN,Bode Christopher D,SVP COO,A - Grant,$0.00,12021,32058,+60%,+$0,,,,,DENN
+88,D,2020-12-30 15:14:04,2020-12-28,DENN,Bode Christopher D,SVP COO,F - Tax,$13.77,-2928,32058,-8%,"-$40,319",,,,,DENN
+89,,2020-09-03 18:00:54,2020-09-01,DENN,Lauderback Brenda J,Dir,S - Sale,$11.60,-8488,0,-100%,"-$98,501",,,,,DENN
+90,D,2020-09-03 18:00:35,2020-09-01,DENN,Gutierrez Jose M,Dir,M - OptEx,$0.00,18719,24377,+331%,+$0,,,,,DENN
+91,D,2020-09-03 18:00:11,2020-09-01,DENN,Dillon John William,"EVP, Chief Brand Officer",M - OptEx,$3.89,8900,76642,+13%,"+$34,621",,,,,DENN
+92,D,2020-09-03 18:00:11,2020-09-01,DENN,Dillon John William,"EVP, Chief Brand Officer",S - Sale+OE,$11.60,-8900,76642,-10%,"-$103,206",,,,,DENN
+93,D,2020-05-28 17:24:21,2020-05-27,DENN,Wolfinger F Mark,Pres,M - OptEx,$3.89,6884,800052,+1%,"+$26,779",,,,,DENN
+94,D,2020-05-28 17:24:21,2020-05-27,DENN,Wolfinger F Mark,Pres,S - Sale+OE,$11.42,-6884,800052,-1%,"-$78,617",,,,,DENN
+95,D,2020-05-12 16:15:49,2020-05-08,DENN,Ward Laysha,Dir,M - OptEx,$0.00,5658,23539,+32%,+$0,,,,,DENN
+96,D,2020-05-12 16:15:23,2020-05-08,DENN,Robinson Donald C.,Dir,M - OptEx,$0.00,5658,5658,New,+$0,,,,,DENN
+97,D,2020-05-12 16:14:59,2020-05-08,DENN,Gutierrez Jose M,Dir,M - OptEx,$0.00,5658,5658,New,+$0,,,,,DENN
+98,D,2020-05-12 16:14:33,2020-05-08,DENN,Lauderback Brenda J,Dir,M - OptEx,$0.00,8488,8488,New,+$0,,,,,DENN
+99,,2020-02-24 18:02:09,2020-02-20,DENN,Bode Christopher D,SVP COO,S - Sale,$20.61,-33000,22965,-59%,"-$680,176",,,,,DENN
+100,,2020-02-14 18:28:18,2020-02-12,DENN,Van Pelt Jill A,"SVP, Chief People Officer",A - Grant,$0.00,16955,111169,+18%,+$0,,,,,DENN
+101,,2020-02-14 18:28:18,2020-02-12,DENN,Van Pelt Jill A,"SVP, Chief People Officer",F - Tax,$20.31,-5316,111169,-5%,"-$107,968",,,,,DENN
+102,D,2020-02-14 18:27:57,2020-02-12,DENN,Verostek Robert P.,"SVP, CFO",A - Grant,$0.00,8046,22834,+54%,+$0,,,,,DENN
+103,D,2020-02-14 18:27:57,2020-02-12,DENN,Verostek Robert P.,"SVP, CFO",F - Tax,$20.31,-2712,22834,-11%,"-$55,081",,,,,DENN
+104,,2020-02-14 18:27:35,2020-02-12,DENN,Miller John C,CEO,A - Grant,$0.00,138290,616549,+29%,+$0,,,,,DENN
+105,,2020-02-14 18:27:35,2020-02-12,DENN,Miller John C,CEO,F - Tax,$20.31,-63305,616549,-9%,"-$1,285,725",,,,,DENN
+106,,2020-02-14 18:27:14,2020-02-12,DENN,Dillon John William,"EVP, Chief Brand Officer",A - Grant,$0.00,19541,76642,+34%,+$0,,,,,DENN
+107,,2020-02-14 18:27:14,2020-02-12,DENN,Dillon John William,"EVP, Chief Brand Officer",F - Tax,$20.31,-6127,76642,-7%,"-$124,439",,,,,DENN
+108,,2020-02-14 18:26:52,2020-02-12,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,9531,86976,+12%,+$0,,,,,DENN
+109,,2020-02-14 18:26:52,2020-02-12,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$20.31,-2971,86976,-3%,"-$60,341",,,,,DENN
+110,D,2020-02-14 18:26:31,2020-02-12,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",A - Grant,$0.00,16323,48269,+51%,+$0,,,,,DENN
+111,D,2020-02-14 18:26:31,2020-02-12,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",F - Tax,$20.31,-4071,48269,-8%,"-$82,682",,,,,DENN
+112,,2020-02-14 18:26:05,2020-02-12,DENN,Furlow Michael L.,"SVP, CIO",A - Grant,$0.00,19253,13217,-319%,+$0,,,,,DENN
+113,,2020-02-14 18:26:05,2020-02-12,DENN,Furlow Michael L.,"SVP, CIO",F - Tax,$20.31,-6036,13217,-31%,"-$122,591",,,,,DENN
+114,,2020-02-14 18:25:38,2020-02-12,DENN,Bode Christopher D,SVP COO,A - Grant,$0.00,21552,55965,+63%,+$0,,,,,DENN
+115,,2020-02-14 18:25:38,2020-02-12,DENN,Bode Christopher D,SVP COO,F - Tax,$20.31,-5248,55965,-9%,"-$106,587",,,,,DENN
+116,,2020-02-14 18:24:49,2020-02-12,DENN,Wolfinger F Mark,Pres,A - Grant,$0.00,37716,800052,+5%,+$0,,,,,DENN
+117,,2020-02-14 18:24:49,2020-02-12,DENN,Wolfinger F Mark,Pres,F - Tax,$20.31,-13644,800052,-2%,"-$277,110",,,,,DENN
+118,,2019-11-29 21:35:56,2019-11-27,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",S - Sale,$19.51,-58332,36017,-62%,"-$1,137,917",,,,,DENN
+119,,2019-09-17 18:21:36,2019-09-11,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",G - Gift,$0.00,-4250,94349,-4%,-$0,,,,,DENN
+120,,2019-09-16 18:10:19,2019-09-12,DENN,Flemming Timothy E.,"SVP, GC, CLO",S - Sale,$22.82,-50873,100828,-34%,"-$1,161,034",,,,,DENN
+121,D,2019-09-16 18:04:20,2019-09-13,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$3.89,3816,775980,0%,"+$14,844",,,,,DENN
+122,D,2019-09-16 18:04:20,2019-09-13,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$22.82,-3816,775980,0%,"-$87,083",,,,,DENN
+123,DM,2019-09-13 18:52:06,2019-09-11,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$3.89,15000,775980,+2%,"+$58,350",,,,,DENN
+124,DM,2019-09-13 18:52:06,2019-09-11,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$22.83,-15000,775980,-2%,"-$342,438",,,,,DENN
+125,D,2019-09-11 17:17:58,2019-09-09,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$3.89,15000,775980,+2%,"+$58,350",,,,,DENN
+126,D,2019-09-11 17:17:58,2019-09-09,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$23.25,-15000,775980,-2%,"-$348,678",,,,,DENN
+127,M,2019-09-10 17:44:50,2019-09-06,DENN,Dillon John William,"SVP, Chief Brand Officer",S - Sale,$23.40,-16980,63228,-21%,"-$397,319",,,,,DENN
+128,DM,2019-09-09 17:13:52,2019-09-05,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$3.89,25000,775980,+3%,"+$97,250",,,,,DENN
+129,DM,2019-09-09 17:13:52,2019-09-05,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$23.56,-25000,775980,-3%,"-$589,108",,,,,DENN
+130,,2019-09-06 17:46:28,2019-09-04,DENN,Verostek Robert P.,"SVP, Finance",S - Sale,$23.58,-5120,17500,-23%,"-$120,712",,,,,DENN
+131,DM,2019-09-05 19:32:15,2019-09-03,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$3.89,20000,775980,+3%,"+$77,800",,,,,DENN
+132,DM,2019-09-05 19:32:15,2019-09-03,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$23.58,-20000,775980,-3%,"-$471,522",,,,,DENN
+133,,2019-09-05 19:22:00,2019-09-03,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",S - Sale,$23.75,-13000,80416,-14%,"-$308,750",,,,,DENN
+134,D,2019-09-03 18:17:35,2019-08-30,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$3.89,10000,775980,+1%,"+$38,900",,,,,DENN
+135,D,2019-09-03 18:17:35,2019-08-30,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$23.57,-10000,775980,-1%,"-$235,658",,,,,DENN
+136,M,2019-09-03 18:13:48,2019-08-29,DENN,Bode Christopher D,SVP COO,S - Sale,$23.53,-50488,39661,-56%,"-$1,187,963",,,,,DENN
+137,,2019-06-19 18:26:51,2019-06-07,DENN,Verostek Robert P.,"SVP, Finance",G - Gift,$0.00,-500,22893,-2%,-$0,,,,,DENN
+138,DM,2019-06-17 12:59:03,2019-06-13,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.36,47550,775980,+7%,"+$112,218",,,,,DENN
+139,DM,2019-06-17 12:59:03,2019-06-13,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$20.70,-47550,775980,-6%,"-$984,330",,,,,DENN
+140,D,2019-06-12 16:09:58,2019-06-10,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.36,30000,775980,+4%,"+$70,800",,,,,DENN
+141,D,2019-06-12 16:09:58,2019-06-10,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$20.66,-30000,775980,-4%,"-$619,860",,,,,DENN
+142,DM,2019-06-10 16:10:10,2019-06-06,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.36,37500,775980,+5%,"+$88,500",,,,,DENN
+143,DM,2019-06-10 16:10:10,2019-06-06,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$20.67,-37500,775980,-5%,"-$775,021",,,,,DENN
+144,D,2019-06-10 16:09:52,2019-06-07,DENN,Flemming Timothy E.,"SVP, GC, CLO",M - OptEx,$2.36,30000,151701,+25%,"+$70,800",,,,,DENN
+145,D,2019-06-10 16:09:52,2019-06-07,DENN,Flemming Timothy E.,"SVP, GC, CLO",S - Sale+OE,$20.71,-30000,151701,-17%,"-$621,294",,,,,DENN
+146,DM,2019-05-28 17:28:12,2019-05-23,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.36,15000,775980,+2%,"+$35,400",,,,,DENN
+147,DM,2019-05-28 17:28:12,2019-05-23,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$19.39,-15000,775980,-2%,"-$290,883",,,,,DENN
+148,,2019-05-28 17:17:26,2019-05-20,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",G - Gift,$0.00,-3000,93416,-3%,-$0,,,,,DENN
+149,,2019-05-22 18:05:20,2019-05-06,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",G - Gift,$0.00,-600,98599,-1%,-$0,,,,,DENN
+150,,2019-05-17 15:28:08,2019-05-16,DENN,Robinson Donald C.,Dir,S - Sale,$19.61,-6431,0,-100%,"-$126,125",,,,,DENN
+151,,2019-05-16 17:28:38,2019-05-15,DENN,Lauderback Brenda J,Dir,S - Sale,$19.23,-9968,0,-100%,"-$191,720",,,,,DENN
+152,,2019-05-15 17:48:57,2019-05-13,DENN,Dillon John William,"SVP, Chief Brand Officer",S - Sale,$19.24,-10360,80208,-11%,"-$199,364",,,,,DENN
+153,DM,2019-05-14 18:15:27,2019-05-10,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.36,7500,775980,+1%,"+$17,700",,,,,DENN
+154,DM,2019-05-14 18:15:27,2019-05-10,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$19.22,-7500,775980,-1%,"-$144,135",,,,,DENN
+155,D,2019-05-10 17:40:14,2019-05-09,DENN,Dedrick Gregg,Dir,M - OptEx,$0.00,6431,77268,+9%,+$0,,,,,DENN
+156,D,2019-05-10 17:39:09,2019-05-09,DENN,Ward Laysha,Dir,M - OptEx,$0.00,6431,17881,+56%,+$0,,,,,DENN
+157,D,2019-05-10 17:38:37,2019-05-09,DENN,Lauderback Brenda J,Dir,M - OptEx,$0.00,9968,9968,New,+$0,,,,,DENN
+158,D,2019-05-10 17:38:05,2019-05-09,DENN,Robinson Donald C.,Dir,M - OptEx,$0.00,6431,6431,New,+$0,,,,,DENN
+159,D,2019-05-10 17:19:18,2019-05-08,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.36,5000,775980,+1%,"+$11,800",,,,,DENN
+160,D,2019-05-10 17:19:18,2019-05-08,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$19.38,-5000,775980,-1%,"-$96,912",,,,,DENN
+161,DM,2019-04-01 18:35:57,2019-03-28,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.36,7450,775980,+1%,"+$17,582",,,,,DENN
+162,DM,2019-04-01 18:35:57,2019-03-28,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$18.47,-7450,775980,-1%,"-$137,580",,,,,DENN
+163,,2019-03-27 18:10:55,2019-03-25,DENN,Verostek Robert P.,"SVP, Finance",S - Sale,$18.13,-5474,23393,-19%,"-$99,246",,,,,DENN
+164,,2019-03-22 16:40:50,2019-03-20,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",S - Sale,$17.68,-12000,99199,-11%,"-$212,208",,,,,DENN
+165,,2019-03-20 17:45:21,2019-03-18,DENN,Flemming Timothy E.,"SVP, GC, CLO",G - Gift,$0.00,-1677,151701,-1%,-$0,,,,,DENN
+166,M,2019-02-25 18:30:28,2019-02-21,DENN,Miller John C,"CEO, Pres",S - Sale,$17.95,-125794,541564,-19%,"-$2,257,653",,,,,DENN
+167,D,2019-02-22 17:29:33,2019-02-20,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$1.67,7500,775980,+1%,"+$12,525",,,,,DENN
+168,D,2019-02-22 17:29:33,2019-02-20,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$17.88,-7500,775980,-1%,"-$134,102",,,,,DENN
+169,,2019-02-15 18:21:31,2019-02-13,DENN,Dillon John William,"SVP, Chief Brand Officer",A - Grant,$0.00,48759,90568,+117%,+$0,,,,,DENN
+170,,2019-02-15 18:21:31,2019-02-13,DENN,Dillon John William,"SVP, Chief Brand Officer",F - Tax,$18.23,-15696,90568,-15%,"-$286,138",,,,,DENN
+171,D,2019-02-15 18:19:41,2019-02-13,DENN,Van Pelt Jill A,"SVP, Chief People Officer",A - Grant,$0.00,21670,99530,+28%,+$0,,,,,DENN
+172,D,2019-02-15 18:19:41,2019-02-13,DENN,Van Pelt Jill A,"SVP, Chief People Officer",F - Tax,$18.23,-7303,99530,-7%,"-$133,134",,,,,DENN
+173,,2019-02-15 18:15:00,2019-02-13,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",A - Grant,$0.00,101574,775980,+15%,+$0,,,,,DENN
+174,,2019-02-15 18:15:00,2019-02-13,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",F - Tax,$18.23,-41488,775980,-5%,"-$756,326",,,,,DENN
+175,D,2019-02-15 18:13:39,2019-02-13,DENN,Verostek Robert P.,"SVP, Finance",A - Grant,$0.00,8514,28867,+42%,+$0,,,,,DENN
+176,D,2019-02-15 18:13:39,2019-02-13,DENN,Verostek Robert P.,"SVP, Finance",F - Tax,$18.23,-2267,28867,-7%,"-$41,327",,,,,DENN
+177,,2019-02-15 18:12:11,2019-02-13,DENN,Bode Christopher D,SVP COO,A - Grant,$0.00,54175,90149,+151%,+$0,,,,,DENN
+178,,2019-02-15 18:12:11,2019-02-13,DENN,Bode Christopher D,SVP COO,F - Tax,$18.23,-14514,90149,-14%,"-$264,590",,,,,DENN
+179,D,2019-02-15 18:10:47,2019-02-13,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,7121,96416,+8%,+$0,,,,,DENN
+180,D,2019-02-15 18:10:47,2019-02-13,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$18.23,-2469,96416,-2%,"-$45,010",,,,,DENN
+181,D,2019-02-15 18:09:00,2019-02-13,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",A - Grant,$0.00,25540,111199,+30%,+$0,,,,,DENN
+182,D,2019-02-15 18:09:00,2019-02-13,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",F - Tax,$18.23,-6820,111199,-6%,"-$124,329",,,,,DENN
+183,,2019-02-15 18:03:22,2019-02-13,DENN,Flemming Timothy E.,"SVP, GC, CLO",A - Grant,$0.00,51853,153378,+51%,+$0,,,,,DENN
+184,,2019-02-15 18:03:22,2019-02-13,DENN,Flemming Timothy E.,"SVP, GC, CLO",F - Tax,$18.23,-16666,153378,-10%,"-$303,821",,,,,DENN
+185,D,2018-12-13 17:06:21,2018-12-11,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$1.67,7500,715894,+1%,"+$12,525",,,,,DENN
+186,D,2018-12-13 17:06:21,2018-12-11,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$16.67,-7500,715894,-1%,"-$125,048",,,,,DENN
+187,DM,2018-11-20 17:02:54,2018-11-16,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$1.67,14000,715894,+2%,"+$23,380",,,,,DENN
+188,DM,2018-11-20 17:02:54,2018-11-16,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$16.90,-14000,715894,-2%,"-$236,640",,,,,DENN
+189,D,2018-11-16 16:49:39,2018-11-14,DENN,Flemming Timothy E.,"SVP, GC, CLO",M - OptEx,$1.67,43600,118191,+58%,"+$72,812",,,,,DENN
+190,D,2018-11-16 16:49:39,2018-11-14,DENN,Flemming Timothy E.,"SVP, GC, CLO",S - Sale+OE,$17.24,-43600,118191,-27%,"-$751,546",,,,,DENN
+191,D,2018-11-13 16:31:12,2018-11-08,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$1.67,7500,715894,+1%,"+$12,525",,,,,DENN
+192,D,2018-11-13 16:31:12,2018-11-08,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$16.65,-7500,715894,-1%,"-$124,844",,,,,DENN
+193,D,2018-11-07 16:53:03,2018-11-05,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$1.67,7500,715894,+1%,"+$12,525",,,,,DENN
+194,D,2018-11-07 16:53:03,2018-11-05,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$16.65,-7500,715894,-1%,"-$124,859",,,,,DENN
+195,,2018-11-05 18:14:11,2018-11-02,DENN,Verostek Robert P.,"SVP, Finance",G - Gift,$0.00,-500,22620,-2%,-$0,,,,,DENN
+196,,2018-06-18 18:41:10,2018-06-14,DENN,Miller John C,"CEO, Pres",S - Sale,$15.54,-48767,667358,-7%,"-$757,620",,,,,DENN
+197,M,2018-06-14 17:08:33,2018-06-12,DENN,Miller John C,"CEO, Pres",S - Sale,$15.69,-80901,716125,-10%,"-$1,269,497",,,,,DENN
+198,,2018-06-08 17:59:34,2018-06-08,DENN,Dillon John William,"SVP, CMO",S - Sale,$15.90,-7500,57505,-12%,"-$119,250",,,,,DENN
+199,,2018-06-08 17:56:05,2018-06-08,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",S - Sale,$15.81,-11506,92479,-11%,"-$181,873",,,,,DENN
+200,,2018-05-17 17:49:22,2018-05-16,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",G - Gift,$0.00,-700,103985,-1%,-$0,,,,,DENN
+201,,2018-03-20 17:09:49,2018-03-16,DENN,Bode Christopher D,SVP COO,S - Sale,$15.65,-15000,50488,-23%,"-$234,764",,,,,DENN
+202,,2018-03-13 16:39:17,2018-03-09,DENN,Dillon John William,"SVP, CMO",S - Sale,$16.03,-14000,65005,-18%,"-$224,420",,,,,DENN
+203,,2018-03-13 16:36:54,2018-03-09,DENN,Flemming Timothy E.,"SVP, GC, CLO",S - Sale,$16.00,-31606,118191,-21%,"-$505,733",,,,,DENN
+204,,2018-03-06 18:39:18,2018-03-02,DENN,Verostek Robert P.,"SVP, Finance",S - Sale,$15.30,-7548,23120,-25%,"-$115,484",,,,,DENN
+205,,2018-03-06 18:39:00,2018-03-05,DENN,Bode Christopher D,SVP COO,S - Sale,$15.45,-6500,65488,-9%,"-$100,425",,,,,DENN
+206,D,2018-03-06 18:38:31,2018-03-05,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.59,24380,715894,+4%,"+$63,144",,,,,DENN
+207,D,2018-03-06 18:38:31,2018-03-05,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$15.56,-24380,715894,-3%,"-$379,308",,,,,DENN
+208,D,2018-03-02 17:48:01,2018-02-28,DENN,Miller John C,"CEO, Pres",M - OptEx,$3.89,77037,797026,+11%,"+$299,674",,,,,DENN
+209,D,2018-03-02 17:48:01,2018-02-28,DENN,Miller John C,"CEO, Pres",S - Sale+OE,$15.15,-77037,797026,-9%,"-$1,166,956",,,,,DENN
+210,DM,2018-02-28 17:33:23,2018-02-26,DENN,Miller John C,"CEO, Pres",M - OptEx,$3.89,50546,797026,+7%,"+$196,624",,,,,DENN
+211,DM,2018-02-28 17:33:23,2018-02-26,DENN,Miller John C,"CEO, Pres",S - Sale+OE,$15.05,-50546,797026,-6%,"-$760,489",,,,,DENN
+212,D,2018-02-27 17:39:45,2018-02-23,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.59,10000,715894,+1%,"+$25,900",,,,,DENN
+213,D,2018-02-27 17:39:45,2018-02-23,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$14.86,-10000,715894,-1%,"-$148,585",,,,,DENN
+214,DM,2018-02-23 17:23:25,2018-02-21,DENN,Miller John C,"CEO, Pres",M - OptEx,$3.89,72417,797026,+10%,"+$281,702",,,,,DENN
+215,DM,2018-02-23 17:23:25,2018-02-21,DENN,Miller John C,"CEO, Pres",S - Sale+OE,$15.04,-72417,797026,-8%,"-$1,089,042",,,,,DENN
+216,DM,2018-02-23 17:21:54,2018-02-21,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.59,20000,715894,+3%,"+$51,800",,,,,DENN
+217,DM,2018-02-23 17:21:54,2018-02-21,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$14.91,-20000,715894,-3%,"-$298,128",,,,,DENN
+218,,2018-02-21 18:24:36,2018-02-16,DENN,Flemming Timothy E.,"SVP, GC, CLO",G - Gift,$0.00,-1550,149797,-1%,-$0,,,,,DENN
+219,A,2018-02-20 19:08:44,2018-02-14,DENN,Flemming Timothy E.,"SVP, GC, CLO",A - Grant,$0.00,38754,151347,+34%,+$0,,,,,DENN
+220,A,2018-02-20 19:08:44,2018-02-14,DENN,Flemming Timothy E.,"SVP, GC, CLO",F - Tax,$15.09,-12148,151347,-7%,"-$183,313",,,,,DENN
+221,A,2018-02-20 19:08:28,2018-02-14,DENN,Bode Christopher D,SVP COO,A - Grant,$0.00,38176,71988,+113%,+$0,,,,,DENN
+222,A,2018-02-20 19:08:28,2018-02-14,DENN,Bode Christopher D,SVP COO,F - Tax,$15.09,-9296,71988,-11%,"-$140,277",,,,,DENN
+223,AD,2018-02-20 19:08:11,2018-02-14,DENN,Verostek Robert P.,"SVP, Finance",A - Grant,$0.00,5930,30668,+24%,+$0,,,,,DENN
+224,AD,2018-02-20 19:08:11,2018-02-14,DENN,Verostek Robert P.,"SVP, Finance",F - Tax,$15.09,-1557,30668,-5%,"-$23,495",,,,,DENN
+225,A,2018-02-20 19:07:52,2018-02-14,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",A - Grant,$0.00,66806,715894,+10%,+$0,,,,,DENN
+226,A,2018-02-20 19:07:52,2018-02-14,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",F - Tax,$15.09,-23609,715894,-3%,"-$356,260",,,,,DENN
+227,AD,2018-02-20 19:07:35,2018-02-14,DENN,Van Pelt Jill A,"SVP, Chief People Officer",A - Grant,$0.00,15907,85163,+23%,+$0,,,,,DENN
+228,AD,2018-02-20 19:07:35,2018-02-14,DENN,Van Pelt Jill A,"SVP, Chief People Officer",F - Tax,$15.09,-5339,85163,-6%,"-$80,566",,,,,DENN
+229,A,2018-02-20 19:07:18,2018-02-14,DENN,Dillon John William,"SVP, CMO",A - Grant,$0.00,34705,79005,+78%,+$0,,,,,DENN
+230,A,2018-02-20 19:07:18,2018-02-14,DENN,Dillon John William,"SVP, CMO",F - Tax,$15.09,-10875,79005,-12%,"-$164,104",,,,,DENN
+231,AD,2018-02-20 19:07:01,2018-02-14,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",A - Grant,$0.00,17352,104685,+20%,+$0,,,,,DENN
+232,AD,2018-02-20 19:07:01,2018-02-14,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",F - Tax,$15.09,-5846,104685,-5%,"-$88,216",,,,,DENN
+233,AD,2018-02-20 19:06:43,2018-02-14,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,5090,91764,+6%,+$0,,,,,DENN
+234,AD,2018-02-20 19:06:43,2018-02-14,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$15.09,-1804,91764,-2%,"-$27,222",,,,,DENN
+235,D,2018-02-16 19:06:24,2018-02-14,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",A - Grant,$0.00,11506,98839,+13%,+$0,,,,,DENN
+236,D,2018-02-16 19:06:24,2018-02-14,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",F - Tax,$15.09,-5846,98839,-6%,"-$88,216",,,,,DENN
+237,,2018-02-16 19:06:08,2018-02-14,DENN,Bode Christopher D,SVP COO,A - Grant,$0.00,28880,62692,+85%,+$0,,,,,DENN
+238,,2018-02-16 19:06:08,2018-02-14,DENN,Bode Christopher D,SVP COO,F - Tax,$15.09,-9296,62692,-13%,"-$140,277",,,,,DENN
+239,D,2018-02-16 19:05:32,2018-02-14,DENN,Verostek Robert P.,"SVP, Finance",A - Grant,$0.00,4373,29111,+18%,+$0,,,,,DENN
+240,D,2018-02-16 19:05:32,2018-02-14,DENN,Verostek Robert P.,"SVP, Finance",F - Tax,$15.09,-1557,29111,-5%,"-$23,495",,,,,DENN
+241,,2018-02-16 19:05:15,2018-02-14,DENN,Flemming Timothy E.,"SVP, GC, CLO",A - Grant,$0.00,26606,139199,+24%,+$0,,,,,DENN
+242,,2018-02-16 19:05:15,2018-02-14,DENN,Flemming Timothy E.,"SVP, GC, CLO",F - Tax,$15.09,-12148,139199,-8%,"-$183,313",,,,,DENN
+243,D,2018-02-16 19:04:58,2018-02-14,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,3286,89960,+4%,+$0,,,,,DENN
+244,D,2018-02-16 19:04:58,2018-02-14,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$15.09,-1804,89960,-2%,"-$27,222",,,,,DENN
+245,,2018-02-16 19:04:41,2018-02-14,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",A - Grant,$0.00,43197,692285,+7%,+$0,,,,,DENN
+246,,2018-02-16 19:04:41,2018-02-14,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",F - Tax,$15.09,-23609,692285,-3%,"-$356,260",,,,,DENN
+247,,2018-02-16 19:04:24,2018-02-14,DENN,Dillon John William,"SVP, CMO",A - Grant,$0.00,23830,68130,+54%,+$0,,,,,DENN
+248,,2018-02-16 19:04:24,2018-02-14,DENN,Dillon John William,"SVP, CMO",F - Tax,$15.09,-10875,68130,-14%,"-$164,104",,,,,DENN
+249,D,2018-02-16 19:04:06,2018-02-14,DENN,Van Pelt Jill A,"SVP, Chief People Officer",A - Grant,$0.00,10568,79824,+15%,+$0,,,,,DENN
+250,D,2018-02-16 19:04:06,2018-02-14,DENN,Van Pelt Jill A,"SVP, Chief People Officer",F - Tax,$15.09,-5339,79824,-6%,"-$80,566",,,,,DENN
+251,D,2018-01-19 15:06:23,2018-01-17,DENN,Marks Robert E,Dir,M - OptEx,$3.30,18900,101553,+23%,"+$62,370",,,,,DENN
+252,D,2017-12-18 18:32:35,2017-12-15,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.59,10000,672697,+2%,"+$25,900",,,,,DENN
+253,D,2017-12-18 18:32:35,2017-12-15,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$13.44,-10000,672697,-1%,"-$134,421",,,,,DENN
+254,DM,2017-12-15 16:24:34,2017-12-13,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.59,15000,672697,+2%,"+$38,850",,,,,DENN
+255,DM,2017-12-15 16:24:34,2017-12-13,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$13.44,-15000,672697,-2%,"-$201,575",,,,,DENN
+256,DM,2017-12-08 12:57:24,2017-12-06,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.59,16006,672697,+2%,"+$41,456",,,,,DENN
+257,DM,2017-12-08 12:57:24,2017-12-06,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$13.31,-16006,672697,-2%,"-$213,102",,,,,DENN
+258,DM,2017-12-06 16:14:14,2017-12-04,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.59,9414,672697,+1%,"+$24,382",,,,,DENN
+259,DM,2017-12-06 16:14:14,2017-12-04,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$13.64,-9414,672697,-1%,"-$128,451",,,,,DENN
+260,D,2017-11-30 16:30:55,2017-11-28,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.59,10000,672697,+2%,"+$25,900",,,,,DENN
+261,D,2017-11-30 16:30:55,2017-11-28,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$13.07,-10000,672697,-1%,"-$130,659",,,,,DENN
+262,D,2017-11-30 16:24:59,2017-11-28,DENN,Van Pelt Jill A,"SVP, Chief People Officer",M - OptEx,$2.59,21200,74595,+40%,"+$54,908",,,,,DENN
+263,D,2017-11-30 16:24:59,2017-11-28,DENN,Van Pelt Jill A,"SVP, Chief People Officer",S - Sale+OE,$13.05,-21200,74595,-22%,"-$276,721",,,,,DENN
+264,DM,2017-11-20 17:22:52,2017-11-16,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.59,10000,672697,+2%,"+$25,900",,,,,DENN
+265,DM,2017-11-20 17:22:52,2017-11-16,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$12.57,-10000,672697,-1%,"-$125,706",,,,,DENN
+266,D,2017-11-20 17:17:02,2017-11-16,DENN,Flemming Timothy E.,"SVP, GC, CLO",M - OptEx,$2.59,37000,124741,+42%,"+$95,830",,,,,DENN
+267,D,2017-11-20 17:17:02,2017-11-16,DENN,Flemming Timothy E.,"SVP, GC, CLO",S - Sale+OE,$12.54,-37000,124741,-23%,"-$463,802",,,,,DENN
+268,,2017-09-26 17:48:50,2017-09-12,DENN,Verostek Robert P.,"SVP, Finance",G - Gift,$0.00,-500,11675,-4%,-$0,,,,,DENN
+269,,2017-09-14 16:22:43,2017-09-13,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",S - Sale,$11.89,-5111,93179,-5%,"-$60,765",,,,,DENN
+270,D,2017-08-18 16:32:47,2017-08-16,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$2.59,1800,672697,0%,"+$4,662",,,,,DENN
+271,D,2017-08-18 16:32:47,2017-08-16,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$12.37,-1800,672697,0%,"-$22,257",,,,,DENN
+272,,2017-03-03 16:52:16,2017-03-02,DENN,Bode Christopher D,SVP COO,S - Sale,$12.64,-12000,43108,-22%,"-$151,680",0.0,-2.0,-2.0,,DENN
+273,,2017-02-23 17:07:58,2017-02-21,DENN,Marks Robert E,Dir,S - Sale,$13.23,-52852,82653,-39%,"-$699,232",-1.0,-1.0,-5.0,,DENN
+274,,2017-02-14 17:40:47,2017-02-13,DENN,Flemming Timothy E.,"SVP, GC, CLO",G - Gift,$0.00,-1300,124741,-1%,-$0,0.0,7.0,1.0,,DENN
+275,D,2017-01-17 18:15:47,2017-01-13,DENN,Marks Robert E,Dir,M - OptEx,$5.39,18900,135505,+16%,"+$101,871",0.0,-1.0,0.0,,DENN
+276,,2017-01-13 17:35:08,2017-01-11,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",A - Grant,$0.00,52846,672697,+9%,+$0,-1.0,-1.0,0.0,,DENN
+277,,2017-01-13 17:34:33,2017-01-11,DENN,Verostek Robert P.,"SVP, Finance",A - Grant,$0.00,9425,26795,+54%,+$0,-1.0,-1.0,0.0,,DENN
+278,,2017-01-13 17:33:54,2017-01-11,DENN,Van Pelt Jill A,"SVP, Chief People Officer",A - Grant,$0.00,11276,74595,+18%,+$0,-1.0,-1.0,0.0,,DENN
+279,,2017-01-13 17:33:02,2017-01-11,DENN,Miller John C,"CEO, Pres",A - Grant,$0.00,154668,797026,+24%,+$0,-1.0,-1.0,0.0,,DENN
+280,,2017-01-13 17:31:38,2017-01-11,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,9930,88478,+13%,+$0,-1.0,-1.0,0.0,,DENN
+281,,2017-01-13 17:18:16,2017-01-11,DENN,Flemming Timothy E.,"SVP, GC, CLO",A - Grant,$0.00,17840,126041,+16%,+$0,-1.0,-1.0,0.0,,DENN
+282,,2017-01-13 17:17:36,2017-01-11,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",A - Grant,$0.00,16493,98290,+20%,+$0,-1.0,-1.0,0.0,,DENN
+283,,2017-01-13 17:16:48,2017-01-11,DENN,Dillon John William,"SVP, CMO",A - Grant,$0.00,10771,55175,+24%,+$0,-1.0,-1.0,0.0,,DENN
+284,,2017-01-13 17:14:59,2017-01-11,DENN,Bode Christopher D,SVP COO,A - Grant,$0.00,16493,55108,+43%,+$0,-1.0,-1.0,0.0,,DENN
+285,DM,2016-12-08 18:44:52,2016-12-07,DENN,Van Pelt Jill A,"SVP, Chief People Officer",M - OptEx,$4.53,9200,63319,+17%,"+$41,708",-1.0,-1.0,-5.0,,DENN
+286,DM,2016-12-08 18:44:52,2016-12-07,DENN,Van Pelt Jill A,"SVP, Chief People Officer",S - Sale+OE,$12.68,-9200,63319,-13%,"-$116,663",-1.0,-1.0,-5.0,,DENN
+287,,2016-11-17 17:45:27,2016-11-16,DENN,Smithart-Oglesby Debra,Dir,S - Sale,$12.28,-20950,0,-100%,"-$257,205",1.0,3.0,6.0,,DENN
+288,D,2016-11-14 18:18:20,2016-11-11,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$4.61,42100,619851,+7%,"+$194,081",-1.0,0.0,5.0,,DENN
+289,D,2016-11-14 18:18:20,2016-11-11,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$12.28,-42100,619851,-6%,"-$517,043",-1.0,0.0,5.0,,DENN
+290,M,2016-11-14 18:13:02,2016-11-10,DENN,Smithart-Oglesby Debra,Dir,S - Sale,$11.90,-99000,20950,-83%,"-$1,177,833",-1.0,0.0,5.0,,DENN
+291,D,2016-11-10 17:11:44,2016-11-09,DENN,Flemming Timothy E.,"SVP, GC, CLO",M - OptEx,$4.61,15300,108201,+16%,"+$70,533",5.0,4.0,9.0,-1.0,DENN
+292,D,2016-11-10 17:11:44,2016-11-09,DENN,Flemming Timothy E.,"SVP, GC, CLO",S - Sale+OE,$11.43,-15300,108201,-12%,"-$174,899",5.0,4.0,9.0,-1.0,DENN
+293,,2016-11-07 15:35:57,2016-11-03,DENN,Smithart-Oglesby Debra,Dir,S - Sale,$11.50,-2281,119950,-2%,"-$26,232",1.0,13.0,14.0,10.0,DENN
+294,D,2016-09-02 15:35:44,2016-09-01,DENN,Smithart-Oglesby Debra,Dir,M - OptEx,$4.35,37800,122231,+45%,"+$164,241",2.0,-1.0,1.0,20.0,DENN
+295,,2016-06-20 17:20:03,2016-06-17,DENN,Dunn Stephen C.,"SVP, Chief Global Dev. Ofc.",S - Sale,$10.81,-12500,81797,-13%,"-$135,070",-1.0,-3.0,1.0,17.0,DENN
+296,D,2016-05-24 16:29:46,2016-05-21,DENN,Dedrick Gregg,Dir,M - OptEx,$0.00,9434,70837,+15%,+$0,-1.0,0.0,0.0,14.0,DENN
+297,,2016-05-13 12:40:38,2016-05-11,DENN,Flemming Timothy E.,"SVP, GC, CLO",G - Gift,$0.00,-1000,108201,-1%,-$0,-1.0,-3.0,1.0,6.0,DENN
+298,D,2016-03-21 16:10:08,2016-03-18,DENN,Van Pelt Jill A,"SVP, Chief People Officer",M - OptEx,$5.16,3135,63319,+5%,"+$16,177",0.0,0.0,2.0,6.0,DENN
+299,D,2016-03-21 16:10:08,2016-03-18,DENN,Van Pelt Jill A,"SVP, Chief People Officer",S - Sale+OE,$10.35,-3135,63319,-5%,"-$32,447",0.0,0.0,2.0,6.0,DENN
+300,DM,2016-03-09 13:29:05,2016-03-07,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$4.45,26100,619851,+4%,"+$116,145",0.0,-3.0,-1.0,4.0,DENN
+301,DM,2016-03-09 13:29:05,2016-03-07,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",S - Sale+OE,$10.30,-26100,619851,-4%,"-$268,785",0.0,-3.0,-1.0,4.0,DENN
+302,D,2016-02-23 17:25:51,2016-02-22,DENN,Flemming Timothy E.,"SVP, GC, CLO",M - OptEx,$4.45,7700,109201,+8%,"+$34,265",0.0,1.0,-2.0,5.0,DENN
+303,D,2016-02-23 17:25:51,2016-02-22,DENN,Flemming Timothy E.,"SVP, GC, CLO",S - Sale+OE,$10.31,-7700,109201,-7%,"-$79,413",0.0,1.0,-2.0,5.0,DENN
+304,,2016-01-14 17:46:00,2016-01-12,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",A - Grant,$0.00,54130,619851,+10%,+$0,-1.0,-2.0,2.0,21.0,DENN
+305,,2016-01-14 17:44:54,2016-01-12,DENN,Van Pelt Jill A,"SVP, Chief People Officer",A - Grant,$0.00,11904,63319,+23%,+$0,-1.0,-2.0,2.0,21.0,DENN
+306,,2016-01-14 17:42:05,2016-01-12,DENN,Miller John C,"CEO, Pres",A - Grant,$0.00,150736,642358,+31%,+$0,-1.0,-2.0,2.0,21.0,DENN
+307,,2016-01-14 17:40:32,2016-01-12,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,10776,78548,+16%,+$0,-1.0,-2.0,2.0,21.0,DENN
+308,,2016-01-14 17:39:22,2016-01-12,DENN,Flemming Timothy E.,"SVP, GC, CLO",A - Grant,$0.00,19046,109201,+21%,+$0,-1.0,-2.0,2.0,21.0,DENN
+309,,2016-01-14 17:38:15,2016-01-12,DENN,Dunn Stephen C.,"SVP, Chief GD Officer",A - Grant,$0.00,16540,94297,+21%,+$0,-1.0,-2.0,2.0,21.0,DENN
+310,,2016-01-14 17:37:03,2016-01-12,DENN,Dillon John William,"SVP, CMO",A - Grant,$0.00,12405,44404,+39%,+$0,-1.0,-2.0,2.0,21.0,DENN
+311,,2016-01-14 17:35:54,2016-01-12,DENN,Bode Christopher D,SVP COO,A - Grant,$0.00,15913,38615,+70%,+$0,-1.0,-2.0,2.0,21.0,DENN
+312,D,2015-12-17 13:30:05,2015-12-16,DENN,Smithart-Oglesby Debra,Dir,M - OptEx,$4.10,18900,84431,+29%,"+$77,490",-1.0,-1.0,-7.0,11.0,DENN
+313,D,2015-11-17 17:39:21,2015-11-16,DENN,Marks Robert E,Dir,M - OptEx,$4.10,18900,116605,+19%,"+$77,490",0.0,4.0,4.0,12.0,DENN
+314,,2015-06-15 17:01:13,2015-06-10,DENN,Flemming Timothy E.,"SVP, GC",G - Gift,$0.00,-1000,90155,-1%,-$0,2.0,5.0,8.0,-13.0,DENN
+315,,2015-06-05 18:06:37,2015-06-05,DENN,Dunn Stephen C.,"SVP, Global Development",S - Sale,$11.27,-4225,77757,-5%,"-$47,628",0.0,0.0,2.0,-15.0,DENN
+316,D,2015-05-26 16:30:39,2015-05-21,DENN,Neeb Louis P,Dir,M - OptEx,$0.00,112058,112058,New,+$0,1.0,0.0,11.0,-9.0,DENN
+317,D,2015-05-22 12:52:13,2015-05-22,DENN,Ward Laysha,Dir,M - OptEx,$0.00,11450,11450,New,+$0,-1.0,-2.0,10.0,-12.0,DENN
+318,D,2015-05-22 12:42:02,2015-05-22,DENN,Dedrick Gregg,Dir,M - OptEx,$0.00,11450,61403,+23%,+$0,-1.0,-2.0,10.0,-12.0,DENN
+319,,2015-03-19 17:41:12,2015-03-18,DENN,Marks Robert E,Dir,S - Sale,$11.64,-10000,97705,-9%,"-$116,394",-2.0,-3.0,-4.0,-6.0,DENN
+320,,2015-01-30 16:12:52,2015-01-28,DENN,Flemming Timothy E.,"SVP, GC",G - Gift,$0.00,-1000,91155,-1%,-$0,-2.0,1.0,9.0,6.0,DENN
+321,,2015-01-21 18:31:21,2015-01-16,DENN,Van Pelt Jill A,"SVP, Chief People Officer",A - Grant,$0.00,17806,51415,+53%,+$0,1.0,2.0,4.0,6.0,DENN
+322,,2015-01-21 18:31:21,2015-01-16,DENN,Van Pelt Jill A,"SVP, Chief People Officer",F - Tax,$10.78,-6395,51415,-11%,"-$68,938",1.0,2.0,4.0,6.0,DENN
+323,,2015-01-21 18:09:58,2015-01-16,DENN,Bode Christopher D,SVP COO,A - Grant,$0.00,18267,22702,+412%,+$0,1.0,2.0,4.0,6.0,DENN
+324,,2015-01-21 18:09:58,2015-01-16,DENN,Bode Christopher D,SVP COO,F - Tax,$10.78,-1566,22702,-6%,"-$16,881",1.0,2.0,4.0,6.0,DENN
+325,,2015-01-21 18:08:22,2015-01-16,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,16271,67772,+32%,+$0,1.0,2.0,4.0,6.0,DENN
+326,,2015-01-21 18:08:22,2015-01-16,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$10.78,-6191,67772,-8%,"-$66,739",1.0,2.0,4.0,6.0,DENN
+327,,2015-01-21 18:06:04,2015-01-16,DENN,Dillon John William,"SVP, CMO",A - Grant,$0.00,18267,31999,+133%,+$0,1.0,2.0,4.0,6.0,DENN
+328,,2015-01-21 18:06:04,2015-01-16,DENN,Dillon John William,"SVP, CMO",F - Tax,$10.78,-6938,31999,-18%,"-$74,792",1.0,2.0,4.0,6.0,DENN
+329,,2015-01-21 18:02:46,2015-01-16,DENN,Dunn Stephen C.,"SVP, Global Development",A - Grant,$0.00,24560,81982,+43%,+$0,1.0,2.0,4.0,6.0,DENN
+330,,2015-01-21 18:02:46,2015-01-16,DENN,Dunn Stephen C.,"SVP, Global Development",F - Tax,$10.78,-8814,81982,-10%,"-$95,015",1.0,2.0,4.0,6.0,DENN
+331,,2015-01-21 18:01:11,2015-01-16,DENN,Flemming Timothy E.,"SVP, GC",A - Grant,$0.00,29319,92155,+47%,+$0,1.0,2.0,4.0,6.0,DENN
+332,,2015-01-21 18:01:11,2015-01-16,DENN,Flemming Timothy E.,"SVP, GC",F - Tax,$10.78,-10332,92155,-10%,"-$111,379",1.0,2.0,4.0,6.0,DENN
+333,,2015-01-21 17:59:41,2015-01-16,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",A - Grant,$0.00,75829,565721,+15%,+$0,1.0,2.0,4.0,6.0,DENN
+334,,2015-01-21 17:57:18,2015-01-16,DENN,Miller John C,"CEO, Pres",A - Grant,$0.00,150891,491622,+44%,+$0,1.0,2.0,4.0,6.0,DENN
+335,,2015-01-21 17:57:18,2015-01-16,DENN,Miller John C,"CEO, Pres",F - Tax,$10.78,-25097,491622,-5%,"-$270,546",1.0,2.0,4.0,6.0,DENN
+336,D,2014-12-12 17:02:10,2014-12-11,DENN,Smithart-Oglesby Debra,Dir,M - OptEx,$4.34,18900,65531,+41%,"+$82,026",-6.0,-4.0,2.0,8.0,DENN
+337,,2014-12-12 16:58:00,2014-12-11,DENN,Dunn Stephen C.,"SVP, Global Development",S - Sale,$10.00,-4514,66236,-6%,"-$45,130",-6.0,-4.0,2.0,8.0,DENN
+338,D,2014-12-10 14:17:37,2014-12-09,DENN,Marks Robert E,Dir,M - OptEx,$4.34,18900,107705,+21%,"+$82,026",0.0,-4.0,2.0,14.0,DENN
+339,D,2014-12-10 14:17:37,2014-12-09,DENN,Marks Robert E,Dir,S - Sale+OE,$9.78,-18900,107705,-15%,"-$184,774",0.0,-4.0,2.0,14.0,DENN
+340,D,2014-11-25 15:57:29,2014-11-24,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$3.89,17866,57692,+45%,"+$69,499",1.0,4.0,4.0,10.0,DENN
+341,D,2014-11-25 15:57:29,2014-11-24,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",S - Sale+OE,$9.17,-17866,57692,-24%,"-$163,831",1.0,4.0,4.0,10.0,DENN
+342,D,2014-11-10 17:07:59,2014-11-07,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",M - OptEx,$4.40,20000,489892,+4%,"+$88,000",-2.0,-2.0,10.0,18.0,DENN
+343,D,2014-11-10 17:07:59,2014-11-07,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",S - Sale+OE,$8.90,-20000,489892,-4%,"-$178,000",-2.0,-2.0,10.0,18.0,DENN
+344,D,2014-11-03 17:04:56,2014-10-31,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",M - OptEx,$4.40,20000,489892,+4%,"+$88,000",1.0,1.0,14.0,20.0,DENN
+345,D,2014-11-03 17:04:56,2014-10-31,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",S - Sale+OE,$8.60,-20000,489892,-4%,"-$172,008",1.0,1.0,14.0,20.0,DENN
+346,D,2014-09-15 13:37:47,2014-09-12,DENN,Flemming Timothy E.,"SVP, GC",M - OptEx,$2.42,20000,73168,+38%,"+$48,400",-1.0,2.0,6.0,64.0,DENN
+347,D,2014-09-15 13:37:47,2014-09-12,DENN,Flemming Timothy E.,"SVP, GC",S - Sale+OE,$7.06,-20000,73168,-21%,"-$141,162",-1.0,2.0,6.0,64.0,DENN
+348,D,2014-08-11 17:58:12,2014-08-08,DENN,Lauderback Brenda J,Dir,M - OptEx,$5.39,18900,0,-100%,"+$101,871",-2.0,-3.0,2.0,55.0,DENN
+349,D,2014-08-11 17:58:12,2014-08-08,DENN,Lauderback Brenda J,Dir,S - Sale+OE,$6.82,-18900,0,-100%,"-$128,913",-2.0,-3.0,2.0,55.0,DENN
+350,D,2014-08-05 17:47:09,2014-08-04,DENN,Dunn Stephen C.,"SVP, Global Development",M - OptEx,$2.76,83925,70750,-637%,"+$231,571",0.0,2.0,3.0,63.0,DENN
+351,D,2014-08-05 17:47:09,2014-08-04,DENN,Dunn Stephen C.,"SVP, Global Development",S - Sale+OE,$6.76,-83925,70750,-54%,"-$567,635",0.0,2.0,3.0,63.0,DENN
+352,DM,2014-08-04 15:48:25,2014-07-31,DENN,Dunn Stephen C.,"SVP, Global Development",M - OptEx,$2.79,84275,70750,-623%,"+$234,947",0.0,1.0,2.0,56.0,DENN
+353,DM,2014-08-04 15:48:25,2014-07-31,DENN,Dunn Stephen C.,"SVP, Global Development",S - Sale+OE,$6.91,-84275,70750,-54%,"-$582,413",0.0,1.0,2.0,56.0,DENN
+354,,2014-02-11 16:56:16,2014-02-11,DENN,Bode Christopher D,"SVP, Operations",A - Grant,$0.00,10000,6001,-250%,+$0,-1.0,-4.0,1.0,3.0,DENN
+355,,2014-02-11 16:56:16,2014-02-11,DENN,Bode Christopher D,"SVP, Operations",F - Tax,$6.54,-3999,6001,-40%,"-$26,153",-1.0,-4.0,1.0,3.0,DENN
+356,,2014-02-03 18:07:43,2014-01-31,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,6600,57692,+13%,+$0,0.0,-1.0,2.0,5.0,DENN
+357,,2014-02-03 18:07:43,2014-01-31,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$6.93,-2617,57692,-4%,"-$18,136",0.0,-1.0,2.0,5.0,DENN
+358,,2014-02-03 18:06:47,2014-01-31,DENN,Dunn Stephen C.,"SVP, Global Development",A - Grant,$0.00,7480,70750,+12%,+$0,0.0,-1.0,2.0,5.0,DENN
+359,,2014-02-03 18:06:47,2014-01-31,DENN,Dunn Stephen C.,"SVP, Global Development",F - Tax,$6.93,-2966,70750,-4%,"-$20,554",0.0,-1.0,2.0,5.0,DENN
+360,,2014-02-03 18:05:50,2014-01-31,DENN,Flemming Timothy E.,"SVP, GC",A - Grant,$0.00,10010,73168,+16%,+$0,0.0,-1.0,2.0,5.0,DENN
+361,,2014-02-03 18:05:50,2014-01-31,DENN,Flemming Timothy E.,"SVP, GC",F - Tax,$6.93,-3850,73168,-5%,"-$26,681",0.0,-1.0,2.0,5.0,DENN
+362,,2014-02-03 18:01:36,2014-01-31,DENN,Allen Frances L.,"EVP, Chief Brand Officer",A - Grant,$0.00,15510,171700,+10%,+$0,0.0,-1.0,2.0,5.0,DENN
+363,,2014-02-03 18:01:36,2014-01-31,DENN,Allen Frances L.,"EVP, Chief Brand Officer",F - Tax,$6.93,-262,171700,0%,"-$1,816",0.0,-1.0,2.0,5.0,DENN
+364,,2014-02-03 18:00:46,2014-01-31,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",A - Grant,$0.00,23650,489892,+5%,+$0,0.0,-1.0,2.0,5.0,DENN
+365,,2014-02-03 17:59:41,2014-01-31,DENN,Miller John C,"CEO, Pres",A - Grant,$0.00,55000,365828,+18%,+$0,0.0,-1.0,2.0,5.0,DENN
+366,,2014-02-03 17:59:41,2014-01-31,DENN,Miller John C,"CEO, Pres",F - Tax,$6.93,-19222,365828,-5%,"-$133,208",0.0,-1.0,2.0,5.0,DENN
+367,D,2014-01-02 16:23:34,2014-01-01,DENN,Dedrick Gregg,Dir,M - OptEx,$0.00,12438,49953,+33%,+$0,0.0,-3.0,-5.0,-9.0,DENN
+368,D,2013-12-12 17:37:10,2013-12-10,DENN,Miller John C,"CEO, Pres",F - Tax,$7.29,-24475,330050,-7%,"-$178,423",-1.0,1.0,-4.0,-10.0,DENN
+369,D,2013-12-12 17:37:10,2013-12-10,DENN,Miller John C,"CEO, Pres",M - OptEx,$0.00,50000,330050,+18%,+$0,-1.0,1.0,-4.0,-10.0,DENN
+370,,2013-11-27 13:34:26,2013-11-26,DENN,Neeb Louis P,Dir,S - Sale,$7.49,-18900,0,-100%,"-$141,561",-3.0,-3.0,-1.0,-13.0,DENN
+371,D,2013-11-27 13:31:37,2013-11-25,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",M - OptEx,$4.40,20000,466242,+4%,"+$88,000",-3.0,-3.0,-1.0,-13.0,DENN
+372,D,2013-11-27 13:31:37,2013-11-25,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",S - Sale+OE,$7.26,-20000,466242,-4%,"-$145,200",-3.0,-3.0,-1.0,-13.0,DENN
+373,DM,2013-11-25 16:31:07,2013-11-21,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",M - OptEx,$4.40,40000,466242,+9%,"+$176,000",3.0,0.0,1.0,-10.0,DENN
+374,DM,2013-11-25 16:31:07,2013-11-21,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",S - Sale+OE,$7.12,-40000,466242,-8%,"-$284,848",3.0,0.0,1.0,-10.0,DENN
+375,,2013-11-14 11:50:37,2013-11-12,DENN,Haywood George Weaver,Dir,S - Sale,$6.70,-25000,0,-100%,"-$167,455",1.0,3.0,4.0,-3.0,DENN
+376,D,2013-10-16 17:32:48,2013-10-16,DENN,Miller John C,"CEO, Pres",F - Tax,$6.32,-24475,304525,-7%,"-$154,682",1.0,3.0,8.0,-1.0,DENN
+377,D,2013-10-16 17:32:48,2013-10-16,DENN,Miller John C,"CEO, Pres",M - OptEx,$0.00,50000,304525,+20%,+$0,1.0,3.0,8.0,-1.0,DENN
+378,D,2013-09-16 14:19:37,2013-09-12,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",M - OptEx,$4.40,100000,466242,+27%,"+$440,000",0.0,1.0,5.0,9.0,DENN
+379,D,2013-09-16 14:19:37,2013-09-12,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",S - Sale+OE,$6.05,-100000,466242,-18%,"-$605,000",0.0,1.0,5.0,9.0,DENN
+380,D,2013-09-16 14:12:19,2013-09-12,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$3.75,23133,53709,+76%,"+$86,822",0.0,1.0,5.0,9.0,DENN
+381,D,2013-09-16 14:12:19,2013-09-12,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",S - Sale+OE,$6.08,-23133,53709,-30%,"-$140,649",0.0,1.0,5.0,9.0,DENN
+382,DM,2013-08-09 12:29:03,2013-08-07,DENN,Lauderback Brenda J,Dir,M - OptEx,$3.70,37800,0,-100%,"+$139,860",-1.0,-2.0,1.0,12.0,DENN
+383,DM,2013-08-09 12:29:03,2013-08-07,DENN,Lauderback Brenda J,Dir,S - Sale+OE,$5.58,-37800,0,-100%,"-$210,924",-1.0,-2.0,1.0,12.0,DENN
+384,ADM,2013-06-19 18:06:33,2013-06-03,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",M - OptEx,$4.40,100000,466242,+27%,"+$440,000",-6.0,-7.0,2.0,23.0,DENN
+385,ADM,2013-06-19 18:06:33,2013-06-03,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",S - Sale+OE,$6.05,-100000,466242,-18%,"-$605,284",-6.0,-7.0,2.0,23.0,DENN
+386,DM,2013-06-05 11:33:07,2013-06-03,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",M - OptEx,$4.40,100000,466242,+27%,"+$440,000",1.0,1.0,-5.0,21.0,DENN
+387,DM,2013-06-05 11:33:07,2013-06-03,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",S - Sale+OE,$6.05,-100000,466242,-18%,"-$605,284",1.0,1.0,-5.0,21.0,DENN
+388,D,2013-03-22 16:00:15,2013-03-20,DENN,Miller John C,"CEO, Pres",M - OptEx,$0.00,50000,279000,+22%,+$0,0.0,0.0,-5.0,10.0,DENN
+389,D,2013-03-22 15:58:19,2013-03-20,DENN,Allen Frances L.,EVP Global Brand Strategy CMO,F - Tax,$5.74,-17175,156452,-10%,"-$98,585",0.0,1.0,-4.0,10.0,DENN
+390,D,2013-03-22 15:58:19,2013-03-20,DENN,Allen Frances L.,EVP Global Brand Strategy CMO,M - OptEx,$0.00,50000,156452,+47%,+$0,0.0,1.0,-4.0,10.0,DENN
+391,D,2013-02-11 17:56:11,2013-02-07,DENN,Miller John C,"CEO, Pres",M - OptEx,$0.00,50000,229000,+28%,+$0,2.0,5.0,7.0,6.0,DENN
+392,D,2013-02-11 17:51:43,2013-02-07,DENN,Allen Frances L.,EVP Global Brand Strategy CMO,F - Tax,$5.33,-17648,123627,-12%,"-$94,064",2.0,5.0,7.0,6.0,DENN
+393,D,2013-02-11 17:51:43,2013-02-07,DENN,Allen Frances L.,EVP Global Brand Strategy CMO,M - OptEx,$0.00,50000,123627,+68%,+$0,2.0,5.0,7.0,6.0,DENN
+394,,2013-02-01 17:49:17,2013-01-31,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",A - Grant,$0.00,44166,466242,+10%,+$0,-3.0,3.0,11.0,11.0,DENN
+395,,2013-02-01 17:49:17,2013-01-31,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",F - Tax,$5.18,-4733,466242,-1%,"-$24,517",-3.0,3.0,11.0,11.0,DENN
+396,,2013-02-01 17:43:02,2013-01-31,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,6495,53709,+14%,+$0,-3.0,3.0,11.0,11.0,DENN
+397,,2013-02-01 17:43:02,2013-01-31,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$5.18,-2575,53709,-5%,"-$13,339",-3.0,3.0,11.0,11.0,DENN
+398,D,2013-01-03 14:45:50,2013-01-01,DENN,Dedrick Gregg,Dir,M - OptEx,$0.00,18519,37515,+97%,+$0,1.0,5.0,3.0,15.0,DENN
+399,D,2012-10-05 17:37:05,2012-10-05,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",M - OptEx,$0.00,50000,426809,+13%,+$0,4.0,4.0,0.0,19.0,DENN
+400,D,2012-10-05 17:30:10,2012-10-05,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,6666,49789,+15%,+$0,4.0,4.0,0.0,19.0,DENN
+401,D,2012-09-17 17:04:27,2012-09-13,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$3.24,15601,43123,+57%,"+$50,487",0.0,0.0,-2.0,14.0,DENN
+402,D,2012-09-17 17:04:27,2012-09-13,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",S - Sale+OE,$5.00,-20601,43123,-32%,"-$103,005",0.0,0.0,-2.0,14.0,DENN
+403,D,2012-09-10 18:34:39,2012-09-07,DENN,Allen Frances L.,EVP Global Brand Strategy CMO,F - Tax,$4.96,-16725,91275,-15%,"-$82,956",0.0,2.0,-1.0,17.0,DENN
+404,D,2012-09-10 18:34:39,2012-09-07,DENN,Allen Frances L.,EVP Global Brand Strategy CMO,M - OptEx,$0.00,50000,91275,+121%,+$0,0.0,2.0,-1.0,17.0,DENN
+405,D,2012-08-30 10:43:26,2012-08-29,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$2.48,20079,48123,+72%,"+$49,705",0.0,0.0,-2.0,17.0,DENN
+406,D,2012-08-30 10:43:26,2012-08-29,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",S - Sale+OE,$4.94,-20079,48123,-29%,"-$99,190",0.0,0.0,-2.0,17.0,DENN
+407,DM,2012-08-22 16:50:53,2012-08-20,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",M - OptEx,$1.67,100000,376809,+36%,"+$167,000",-1.0,1.0,4.0,14.0,DENN
+408,DM,2012-08-22 16:50:53,2012-08-20,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",S - Sale+OE,$4.79,-100000,376809,-21%,"-$478,915",-1.0,1.0,4.0,14.0,DENN
+409,DM,2012-08-16 18:22:57,2012-08-14,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$2.08,46254,48123,>999%,"+$96,187",2.0,2.0,6.0,18.0,DENN
+410,DM,2012-08-16 18:22:57,2012-08-14,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",S - Sale+OE,$4.67,-46254,48123,-49%,"-$215,964",2.0,2.0,6.0,18.0,DENN
+411,D,2012-07-11 14:54:44,2012-07-09,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",F - Tax,$4.51,-44110,665860,-6%,"-$198,936",0.0,1.0,3.0,15.0,DENN
+412,D,2012-07-11 14:54:44,2012-07-09,DENN,Wolfinger F Mark,"EVP Chief Admin Officer, CFO",M - OptEx,$0.00,131868,665860,+25%,+$0,0.0,1.0,3.0,15.0,DENN
+413,,2012-01-30 18:11:31,2012-01-27,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,3162,48123,+7%,+$0,3.0,6.0,1.0,8.0,DENN
+414,,2012-01-30 18:11:31,2012-01-27,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$4.23,-1254,48123,-3%,"-$5,304",3.0,6.0,1.0,8.0,DENN
+415,,2012-01-30 18:09:18,2012-01-27,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",A - Grant,$0.00,20490,289051,+8%,+$0,3.0,6.0,1.0,8.0,DENN
+416,,2012-01-30 18:09:18,2012-01-27,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",F - Tax,$4.23,-8124,289051,-3%,"-$34,365",3.0,6.0,1.0,8.0,DENN
+417,D,2012-01-03 18:05:31,2012-01-01,DENN,Dedrick Gregg,Dir,M - OptEx,$0.00,18996,18996,New,+$0,1.0,0.0,15.0,24.0,DENN
+418,,2011-12-19 17:53:57,2011-12-16,DENN,Miller John C,"CEO, Pres",P - Purchase,$3.83,49000,179000,+38%,"+$187,817",3.0,4.0,9.0,16.0,DENN
+419,,2011-12-15 17:04:55,2011-12-13,DENN,Miller John C,"CEO, Pres",P - Purchase,$3.39,30000,130000,+30%,"+$101,700",4.0,8.0,8.0,19.0,DENN
+420,,2011-12-12 17:30:08,2011-12-09,DENN,Miller John C,"CEO, Pres",P - Purchase,$3.39,100000,100000,New,"+$339,010",4.0,17.0,21.0,34.0,DENN
+421,D,2011-10-11 15:28:01,2011-10-07,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,6666,46215,+17%,+$0,5.0,-4.0,1.0,13.0,DENN
+422,D,2011-10-11 15:23:39,2011-10-07,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",M - OptEx,$0.00,50000,276685,+22%,+$0,5.0,-4.0,1.0,13.0,DENN
+423,M,2011-09-19 17:23:25,2011-09-15,DENN,Haywood George Weaver,Dir,P - Purchase,$3.63,25000,25000,New,"+$90,668",-3.0,-4.0,-4.0,19.0,DENN
+424,,2011-08-11 18:15:11,2011-08-09,DENN,Allen Frances L.,"EVP, CMO",P - Purchase,$3.70,4000,58000,+7%,"+$14,800",-1.0,-3.0,-10.0,18.0,DENN
+425,D,2011-07-26 15:22:16,2011-07-22,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",F - Tax,$4.29,-21569,226685,-9%,"-$92,531",1.0,-7.0,-8.0,2.0,DENN
+426,D,2011-07-26 15:22:16,2011-07-22,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$0.00,64480,226685,+40%,+$0,1.0,-7.0,-8.0,2.0,DENN
+427,D,2011-07-26 15:17:36,2011-07-22,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$4.29,-2275,39549,-5%,"-$9,760",1.0,-7.0,-8.0,2.0,DENN
+428,D,2011-07-26 15:17:36,2011-07-22,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,6800,39549,+21%,+$0,1.0,-7.0,-8.0,2.0,DENN
+429,D,2011-07-11 17:46:55,2011-07-09,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",D - Sale to issuer,$3.90,-21978,183774,-11%,"-$85,714",0.0,4.0,-7.0,0.0,DENN
+430,D,2011-07-11 17:46:55,2011-07-09,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",M - OptEx,$0.00,21978,183774,+14%,+$0,0.0,4.0,-7.0,0.0,DENN
+431,D,2011-07-07 18:09:18,2011-07-05,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,833,35024,+2%,+$0,0.0,5.0,9.0,0.0,DENN
+432,,2011-06-20 13:49:52,2011-06-16,DENN,Rodriguez Robert,"EVP, COO",S - Sale,$3.85,-48875,0,-100%,"-$188,169",-2.0,-2.0,5.0,-5.0,DENN
+433,D,2011-06-14 17:34:39,2011-06-10,DENN,Smithart-Oglesby Debra,Dir,M - OptEx,$0.00,17731,46631,+61%,+$0,-2.0,-1.0,5.0,-14.0,DENN
+434,D,2011-04-22 17:15:33,2011-04-20,DENN,Rodriguez Robert,"EVP, COO",F - Tax,$4.02,-22925,48875,-32%,"-$92,159",0.0,0.0,-6.0,-17.0,DENN
+435,D,2011-04-22 17:15:33,2011-04-20,DENN,Rodriguez Robert,"EVP, COO",M - OptEx,$0.00,62500,48875,-459%,+$0,0.0,0.0,-6.0,-17.0,DENN
+436,D,2011-04-22 16:24:16,2011-04-20,DENN,Allen Frances L.,"EVP, CMO",M - OptEx,$0.00,50000,54000,>999%,+$0,0.0,0.0,-6.0,-17.0,DENN
+437,D,2011-03-23 18:00:28,2011-03-21,DENN,Shepherd Donald R,Dir,M - OptEx,$2.65,18900,42151,+81%,"+$50,085",1.0,2.0,1.0,-14.0,DENN
+438,DM,2011-03-23 18:00:28,2011-03-21,DENN,Shepherd Donald R,Dir,S - Sale+OE,$4.08,-21602,42151,-34%,"-$88,102",1.0,2.0,1.0,-14.0,DENN
+439,D,2011-03-11 16:57:01,2011-03-10,DENN,Neeb Louis P,Dir,M - OptEx,$3.30,18900,18900,New,"+$62,370",-3.0,0.0,0.0,-12.0,DENN
+440,,2011-02-23 15:33:42,2011-02-22,DENN,Allen Frances L.,"EVP, CMO",P - Purchase,$3.89,2000,4000,+100%,"+$7,779",0.0,1.0,5.0,-10.0,DENN
+441,D,2011-01-04 11:19:48,2011-01-01,DENN,Marks Robert E,Dir,M - OptEx,$0.00,18952,107705,+21%,+$0,-1.0,-2.0,6.0,5.0,DENN
+442,,2010-09-29 15:41:26,2010-09-16,DENN,Rodriguez Robert,"EVP, COO",P - Purchase,$2.66,9300,9300,New,"+$24,692",0.0,13.0,7.0,42.0,DENN
+443,D,2010-07-26 18:10:40,2010-07-23,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",F - Tax,$2.62,-17833,183774,-9%,"-$46,722",-3.0,-3.0,-15.0,39.0,DENN
+444,D,2010-07-26 18:10:40,2010-07-23,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$0.00,53311,183774,+41%,+$0,-3.0,-3.0,-15.0,39.0,DENN
+445,D,2010-07-26 18:09:14,2010-07-23,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$2.62,-1881,34191,-5%,"-$4,928",-3.0,-3.0,-15.0,39.0,DENN
+446,D,2010-07-26 18:09:14,2010-07-23,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,5623,34191,+20%,+$0,-3.0,-3.0,-15.0,39.0,DENN
+447,D,2010-07-20 17:47:23,2010-07-16,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",M - OptEx,$0.00,25000,148296,+20%,+$0,-2.0,7.0,-6.0,45.0,DENN
+448,D,2010-07-20 17:45:52,2010-07-16,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,4166,30449,+16%,+$0,-2.0,7.0,-6.0,45.0,DENN
+449,D,2010-07-13 15:33:07,2010-07-09,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",D - Sale to issuer,$2.61,-21978,123296,-15%,"-$57,363",7.0,1.0,3.0,40.0,DENN
+450,D,2010-07-13 15:33:07,2010-07-09,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",M - OptEx,$0.00,21978,123296,+22%,+$0,7.0,1.0,3.0,40.0,DENN
+451,D,2010-06-23 16:57:46,2010-06-21,DENN,Shepherd Donald R,Dir,M - OptEx,$1.06,15000,44853,+50%,"+$15,900",-3.0,-11.0,-5.0,30.0,DENN
+452,D,2010-06-23 16:57:46,2010-06-21,DENN,Shepherd Donald R,Dir,S - Sale+OE,$2.81,-15000,44853,-25%,"-$42,116",-3.0,-11.0,-5.0,30.0,DENN
+453,M,2010-06-21 17:44:44,2010-06-17,DENN,Marchioli Nelson J,"Pres, CEO",S - Sale,$2.80,-161875,2965848,-5%,"-$453,772",-3.0,-2.0,-6.0,34.0,DENN
+454,M,2010-06-16 18:04:30,2010-06-14,DENN,Marchioli Nelson J,"Pres, CEO",S - Sale,$2.84,-99900,3127723,-3%,"-$284,166",3.0,-2.0,-3.0,33.0,DENN
+455,D,2010-03-22 17:00:34,2010-03-18,DENN,Marchioli Nelson J,"Pres, CEO",M - OptEx,$1.39,2000000,3227623,+163%,"+$2,787,500",4.0,4.0,4.0,-25.0,DENN
+456,AD,2010-03-16 18:19:50,2010-03-15,DENN,Smithart-Oglesby Debra,Dir,M - OptEx,$2.65,18900,28900,+189%,"+$50,085",6.0,17.0,25.0,-11.0,DENN
+457,D,2010-03-16 16:51:34,2010-03-15,DENN,Smithart-Oglesby Debra,Dir,M - OptEx,$2.65,18900,18900,New,"+$50,085",6.0,17.0,25.0,-11.0,DENN
+458,D,2010-03-15 17:36:23,2010-03-11,DENN,Marks Robert E,Dir,M - OptEx,$1.95,33900,88753,+62%,"+$65,985",-1.0,17.0,24.0,-12.0,DENN
+459,D,2010-01-21 18:17:48,2010-01-20,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,4050,26283,+18%,+$0,6.0,4.0,17.0,10.0,DENN
+460,D,2010-01-21 18:16:21,2010-01-20,DENN,Wolfinger F Mark,"EVP, CFO",M - OptEx,$0.00,21050,123296,+21%,+$0,6.0,4.0,17.0,10.0,DENN
+461,D,2010-01-21 18:13:15,2010-01-20,DENN,Marchioli Nelson J,"Pres, CEO",M - OptEx,$0.00,77100,1227623,+7%,+$0,6.0,4.0,17.0,10.0,DENN
+462,D,2009-07-27 15:37:15,2009-07-23,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",F - Tax,$2.20,-1596,22233,-7%,"-$3,511",9.0,8.0,24.0,14.0,DENN
+463,D,2009-07-27 15:37:15,2009-07-23,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,4770,22233,+27%,+$0,9.0,8.0,24.0,14.0,DENN
+464,D,2009-07-27 15:36:13,2009-07-23,DENN,Emplit Janis S,"EVP, COO",F - Tax,$2.20,-11290,178180,-6%,"-$24,838",4.0,8.0,24.0,14.0,DENN
+465,D,2009-07-27 15:36:13,2009-07-23,DENN,Emplit Janis S,"EVP, COO",M - OptEx,$0.00,33750,178180,+23%,+$0,4.0,8.0,24.0,14.0,DENN
+466,D,2009-07-27 15:34:58,2009-07-23,DENN,Chmiel Mark,"EVP, CMO",F - Tax,$2.20,-10136,33563,-23%,"-$22,299",9.0,8.0,24.0,14.0,DENN
+467,D,2009-07-27 15:34:58,2009-07-23,DENN,Chmiel Mark,"EVP, CMO",M - OptEx,$0.00,30299,33563,+928%,+$0,9.0,8.0,24.0,14.0,DENN
+468,D,2009-07-27 15:33:54,2009-07-23,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",F - Tax,$2.20,-15128,102246,-13%,"-$33,282",4.0,8.0,24.0,14.0,DENN
+469,D,2009-07-27 15:33:54,2009-07-23,DENN,Wolfinger F Mark,"EVP, Chief Admin Officer, CFO",M - OptEx,$0.00,45224,102246,+79%,+$0,4.0,8.0,24.0,14.0,DENN
+470,D,2009-07-27 15:32:56,2009-07-23,DENN,Marchioli Nelson J,"Pres, CEO",F - Tax,$2.20,-39105,1150523,-3%,"-$86,031",4.0,8.0,24.0,14.0,DENN
+471,D,2009-07-27 15:32:56,2009-07-23,DENN,Marchioli Nelson J,"Pres, CEO",M - OptEx,$0.00,89999,1150523,+8%,+$0,4.0,8.0,24.0,14.0,DENN
+472,D,2009-07-15 10:17:39,2009-07-14,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",M - OptEx,$0.00,25000,72150,+53%,+$0,0.0,-1.0,13.0,4.0,DENN
+473,D,2009-07-15 10:15:21,2009-07-14,DENN,Marchioli Nelson J,"Pres, CEO",M - OptEx,$0.00,83333,1099629,+8%,+$0,0.0,-1.0,13.0,4.0,DENN
+474,D,2009-07-15 10:12:34,2009-07-14,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,4166,19059,+28%,+$0,0.0,-1.0,13.0,4.0,DENN
+475,D,2009-07-15 10:10:39,2009-07-14,DENN,Emplit Janis S,"Exec VP, COO",M - OptEx,$0.00,22500,155720,+17%,+$0,0.0,-1.0,13.0,4.0,DENN
+476,D,2009-07-10 17:32:46,2009-07-09,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",D - Sale to issuer,$2.18,-21978,47150,-32%,"-$47,912",1.0,1.0,13.0,5.0,DENN
+477,D,2009-07-10 17:32:46,2009-07-09,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",M - OptEx,$0.00,21978,47150,+87%,+$0,1.0,1.0,13.0,5.0,DENN
+478,D,2009-01-05 19:51:41,2008-12-31,DENN,Wolfinger F Mark,"EVP, CFO",M - OptEx,$0.00,40835,47150,+647%,+$0,1.0,-8.0,-2.0,4.0,DENN
+479,D,2009-01-05 19:51:05,2008-12-31,DENN,Marchioli Nelson J,"Pres, CEO",M - OptEx,$0.00,130970,1016296,+15%,+$0,1.0,-8.0,-2.0,4.0,DENN
+480,D,2009-01-05 19:50:18,2008-12-31,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,9535,14893,+178%,+$0,1.0,-8.0,-2.0,4.0,DENN
+481,D,2009-01-05 19:49:37,2008-12-31,DENN,Emplit Janis S,"EVP, COO",M - OptEx,$0.00,27045,133220,+25%,+$0,1.0,-8.0,-2.0,4.0,DENN
+482,D,2009-01-05 19:49:04,2008-12-31,DENN,Chmiel Mark,"EVP, CMO",M - OptEx,$0.00,9380,13400,+233%,+$0,1.0,-8.0,-2.0,4.0,DENN
+483,D,2008-07-18 15:30:49,2008-07-16,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",D - Sale to issuer,$2.48,-21978,6315,-78%,"-$54,505",-1.0,0.0,12.0,-36.0,DENN
+484,D,2008-07-18 15:30:49,2008-07-16,DENN,Wolfinger F Mark,"EVP Chief Admin. Officer, CFO",M - OptEx,$0.00,21978,6315,-140%,+$0,-1.0,0.0,12.0,-36.0,DENN
+485,D,2008-07-14 17:42:54,2008-07-14,DENN,Marchioli Nelson J,"Pres, CEO",M - OptEx,$0.00,83333,885326,+10%,+$0,-3.0,7.0,25.0,-18.0,DENN
+486,D,2008-07-14 17:41:41,2008-07-14,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,833,5358,+18%,+$0,-3.0,7.0,25.0,-18.0,DENN
+487,D,2008-07-14 17:39:45,2008-07-14,DENN,Emplit Janis S,"Exec VP, COO",M - OptEx,$0.00,22500,106175,+27%,+$0,-3.0,7.0,25.0,-18.0,DENN
+488,D,2008-06-09 16:41:57,2008-06-05,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$2.42,6667,4525,-311%,"+$16,134",0.0,2.0,-30.0,-52.0,DENN
+489,D,2008-06-09 16:41:57,2008-06-05,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",S - Sale+OE,$4.02,-6667,4525,-60%,"-$26,801",0.0,2.0,-30.0,-52.0,DENN
+490,D,2008-02-19 18:05:40,2008-02-14,DENN,Wolfinger F Mark,"SVP, CFO",A - Grant,$0.00,6315,6315,New,+$0,2.0,4.0,-4.0,-9.0,DENN
+491,D,2008-02-19 18:04:57,2008-02-14,DENN,Wilensky Samuel M,"SVP, Franchise Operations",A - Grant,$0.00,3405,29743,+13%,+$0,2.0,4.0,-4.0,-9.0,DENN
+492,D,2008-02-19 18:04:11,2008-02-14,DENN,Parish Rhonda J,"EVP, Gen. Counsel, Sec.",A - Grant,$0.00,4860,86538,+6%,+$0,2.0,4.0,-4.0,-9.0,DENN
+493,D,2008-02-19 18:03:35,2008-02-14,DENN,Marchioli Nelson J,"Pres, CEO",A - Grant,$0.00,120159,801993,+18%,+$0,2.0,4.0,-4.0,-9.0,DENN
+494,D,2008-02-19 18:02:45,2008-02-14,DENN,Louis Laguardia M,"SVP, H, R, Diversity",A - Grant,$0.00,3285,3285,New,+$0,2.0,4.0,-4.0,-9.0,DENN
+495,D,2008-02-19 18:02:11,2008-02-14,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",A - Grant,$0.00,1215,4525,+37%,+$0,2.0,4.0,-4.0,-9.0,DENN
+496,D,2008-02-19 18:01:47,2008-02-14,DENN,Emplit Janis S,"SVP, Strategic Services",A - Grant,$0.00,4005,83675,+5%,+$0,2.0,4.0,-4.0,-9.0,DENN
+497,D,2008-02-19 18:00:26,2008-02-14,DENN,Chmiel Mark,"SVP, Concept Innovation",A - Grant,$0.00,4020,4020,New,+$0,2.0,4.0,-4.0,-9.0,DENN
+498,D,2007-12-12 11:23:15,2007-12-11,DENN,Emplit Janis S,"SVP, Company Operations",M - OptEx,$2.42,45000,79670,+130%,"+$108,900",1.0,-4.0,-24.0,-8.0,DENN
+499,D,2007-12-12 11:23:15,2007-12-11,DENN,Emplit Janis S,"SVP, Company Operations",S - Sale+OE,$4.06,-45000,79670,-36%,"-$182,835",1.0,-4.0,-24.0,-8.0,DENN
+500,,2007-08-06 13:50:53,2007-08-03,DENN,Marchioli Nelson J,"Pres, CEO",P - Purchase,$4.04,26614,681834,+4%,"+$107,405",2.0,4.0,1.0,-16.0,DENN
+501,,2007-07-31 17:54:05,2007-07-27,DENN,Jenkins Margaret,"SVP, Marketing, CMO",G - Gift,$0.00,-11650,60134,-16%,-$0,1.0,0.0,-5.0,-17.0,DENN
+502,D,2007-07-17 11:27:42,2007-07-13,DENN,Wilensky Samuel M,"SVP, Acting Head of Ops.",M - OptEx,$0.00,6250,26338,+31%,+$0,-2.0,-4.0,-14.0,-35.0,DENN
+503,D,2007-07-17 11:26:00,2007-07-13,DENN,Parish Rhonda J,"EVP, GC, Sec",M - OptEx,$0.00,25000,81678,+44%,+$0,-2.0,-4.0,-14.0,-35.0,DENN
+504,D,2007-07-17 11:23:33,2007-07-13,DENN,Marchioli Nelson J,"Pres, CEO",M - OptEx,$0.00,83333,655220,+15%,+$0,-2.0,-4.0,-14.0,-35.0,DENN
+505,D,2007-07-17 11:22:02,2007-07-13,DENN,Jenkins Margaret L,"SVP, Marketing, CMO",M - OptEx,$0.00,22500,71784,+46%,+$0,-2.0,-4.0,-14.0,-35.0,DENN
+506,D,2007-07-17 11:20:41,2007-07-13,DENN,Gilmore Jay C,"VP, CAO, Corporate Controller",M - OptEx,$0.00,833,3310,+34%,+$0,-2.0,-4.0,-14.0,-35.0,DENN
+507,D,2007-07-17 11:18:49,2007-07-13,DENN,Emplit Janis S,"SVP, Company Operations",M - OptEx,$0.00,22500,79670,+39%,+$0,-2.0,-4.0,-14.0,-35.0,DENN
+508,,2007-03-05 14:47:24,2007-03-05,DENN,Marchioli Nelson J,"Pres, CEO",A - Grant,$0.00,4034,571887,+1%,+$0,-3.0,-2.0,4.0,-18.0,DENN
+509,,2007-02-21 11:14:16,2007-02-20,DENN,Marchioli Nelson J,"Pres, CEO",A - Grant,$0.00,40203,567853,+8%,+$0,0.0,-4.0,-7.0,-20.0,DENN
+510,D,2006-11-21 17:07:07,2006-11-21,DENN,Emplit Janis S,"SVP, Company Operations",M - OptEx,$2.42,40000,57170,+233%,"+$96,800",1.0,-1.0,-1.0,-5.0,DENN
+511,D,2006-11-21 17:07:07,2006-11-21,DENN,Emplit Janis S,"SVP, Company Operations",S - Sale+OE,$4.69,-40000,57170,-41%,"-$187,600",1.0,-1.0,-1.0,-5.0,DENN
+512,D,2006-11-17 16:09:34,2006-11-16,DENN,Emplit Janis S,"SVP, Company Operations",M - OptEx,$2.42,50000,57170,+697%,"+$121,000",2.0,4.0,-1.0,-1.0,DENN
+513,D,2006-11-17 16:09:34,2006-11-16,DENN,Emplit Janis S,"SVP, Company Operations",S - Sale+OE,$4.65,-50000,57170,-47%,"-$232,500",2.0,4.0,-1.0,-1.0,DENN
+514,,2006-08-16 10:49:50,2006-08-15,DENN,Emplit Janis S,"SVP, Strategic Services",P - Purchase,$2.60,10000,57170,+21%,"+$26,000",2.0,14.0,47.0,114.0,DENN
+515,,2006-08-08 15:40:37,2006-08-07,DENN,Marchioli Nelson J,"Pres, CEO",P - Purchase,$2.80,32304,527650,+7%,"+$90,445",-5.0,-9.0,31.0,98.0,DENN
+516,D,2006-07-18 18:02:47,2006-07-14,DENN,Wilensky Samuel M,"SVP, Franchise Operations",M - OptEx,$0.00,6250,20088,+45%,+$0,-12.0,-17.0,-25.0,55.0,DENN
+517,D,2006-07-18 18:01:32,2006-07-14,DENN,Parish Rhonda J,"EVP, Gen. Counsel, Sec.",M - OptEx,$0.00,25000,56678,+79%,+$0,-12.0,-17.0,-25.0,55.0,DENN
+518,D,2006-07-18 18:00:05,2006-07-14,DENN,Marchioli Nelson J,"Pres, CEO",M - OptEx,$0.00,83333,495346,+20%,+$0,-12.0,-17.0,-25.0,55.0,DENN
+519,D,2006-07-18 17:58:06,2006-07-14,DENN,Jenkins Margaret L,"SVP, Marketing, CMO",M - OptEx,$0.00,22500,49284,+84%,+$0,-12.0,-17.0,-25.0,55.0,DENN
+520,D,2006-07-18 17:56:46,2006-07-14,DENN,Herman Craig E,"SVP, Company Operations",M - OptEx,$0.00,6250,20088,+45%,+$0,-12.0,-17.0,-25.0,55.0,DENN
+521,D,2006-07-18 17:55:29,2006-07-14,DENN,Emplit Janis S,"SVP, Strategic Services",M - OptEx,$0.00,22500,47170,+91%,+$0,-12.0,-17.0,-25.0,55.0,DENN
+522,M,2006-06-14 14:45:04,2006-06-09,DENN,Ore Hill Hub Fund Ltd.,10%,S - Sale,$3.99,-203300,9193491,-2%,"-$810,755",12.0,4.0,-2.0,32.0,DENN
+523,,2006-05-01 17:35:24,2006-05-01,DENN,Marchioli Nelson J,"Pres, CEO",A - Grant,$0.00,4725,412013,+1%,+$0,3.0,3.0,-8.0,-16.0,DENN
+524,,2006-03-06 17:15:39,2006-03-03,DENN,Marchioli Nelson J,"Pres, CEO",A - Grant,$0.00,42616,407288,+12%,+$0,-1.0,-1.0,8.0,-22.0,DENN
+525,M,2006-01-27 17:17:01,2006-01-25,DENN,Trafelet & Co LLC,10%,S - Sale,$4.01,-5575600,41596645,-12%,"-$22,367,241",-1.0,-2.0,10.0,-38.0,DENN
+526,,2005-10-31 16:43:45,2005-10-31,DENN,Marchioli Nelson J,"Pres, CEO",A - Grant,$0.00,3693,364672,+1%,+$0,0.0,0.0,15.0,27.0,DENN
+527,,2005-08-01 10:52:07,2005-08-01,DENN,Marchioli Nelson J,"Pres, CEO",A - Grant,$0.00,5283,360979,+1%,+$0,1.0,2.0,-7.0,-27.0,DENN
+528,,2005-05-02 17:17:44,2005-05-02,DNYY,Marchioli Nelson J,"Pres, CEO",A - Grant,$0.00,9076,355696,+3%,+$0,,,,,DENN
+529,,2005-03-17 16:10:55,2005-03-17,DNYY,Marchioli Nelson J,"Pres, CEO",A - Grant,$0.00,49168,346620,+17%,+$0,,,,,DENN
+530,,2005-02-24 16:39:39,2005-02-23,DNYY,Marchioli Nelson J,"Dir, Pres, CEO",A - Grant,$0.00,297452,297452,New,+$0,,,,,DENN
+531,M,2005-02-14 13:45:25,2005-02-10,DNYY,Mellon Hbv Alternative Strategies LLC,10%,S - Sale,$4.96,-400000,8827273,-4%,"-$1,983,000",,,,,DENN
+532,M,2005-02-09 13:51:44,2005-02-07,DNYY,Mellon Hbv Alternative Strategies LLC,10%,S - Sale,$4.94,-1172000,9227273,-11%,"-$5,791,751",,,,,DENN
+533,M,2005-02-07 16:01:25,2005-02-03,DNYY,Mellon Hbv Alternative Strategies LLC,10%,S - Sale,$4.71,-2550000,10399273,-20%,"-$12,005,800",,,,,DENN
+534,M,2005-01-18 16:57:24,2004-01-14,DNYY,Mellon Hbv Alternative Strategies LLC,10%,S - Sale,$4.70,-915000,12949273,-7%,"-$4,304,242",,,,,DENN
+535,M,2005-01-03 16:25:15,2004-12-30,DNYY,Mellon Hbv Alternative Strategies LLC,10%,S - Sale,$4.52,-925000,13864273,-6%,"-$4,183,355",,,,,DENN
+536,,2004-12-20 19:09:22,2004-12-16,DNNY,Trafelet & Co LLC,10%,P - Purchase,$4.07,105000,14681315,+1%,"+$426,909",,,,,DENN
+537,A,2004-12-15 10:34:50,2004-12-13,DNYY,Smithart-Oglesby Debra,Dir,P - Purchase,$4.35,10000,10000,New,"+$43,500",,,,,DENN
+538,,2004-12-15 10:21:16,2004-12-13,DNYY,Smithart-Oglesby Debra,Dir,P - Purchase,$4.35,10000,10000,New,"+$43,500",,,,,DENN
+539,D,2004-12-07 10:00:05,2004-12-03,DNYY,Herman Craig E,Division VP,M - OptEx,$0.88,24334,13838,-232%,"+$21,507",,,,,DENN
+540,D,2004-12-07 10:00:05,2004-12-03,DNYY,Herman Craig E,Division VP,S - Sale+OE,$4.32,-24334,13838,-64%,"-$105,079",,,,,DENN
+541,,2004-12-03 17:05:57,2004-12-02,DNYY,Mellon Hbv Alternative Strategies LLC,10%,S - Sale,$4.50,-5000000,14789273,-25%,"-$22,500,000",,,,,DENN
+542,D,2004-08-24 16:56:24,2004-08-20,DNYY,Wilensky Samuel M,"VP, Franchise Operations",M - OptEx,$0.78,34334,13838,-168%,"+$26,907",,,,,DENN
+543,D,2004-08-24 16:56:24,2004-08-20,DNYY,Wilensky Samuel M,"VP, Franchise Operations",S - Sale+OE,$2.72,-34334,13838,-71%,"-$93,388",,,,,DENN
+544,M,2004-08-18 17:00:52,2004-08-17,DNYY,Shepherd Donald R,Dir,S - Sale,$2.80,-19000,44853,-30%,"-$53,200",,,,,DENN
+545,M,2004-08-04 18:15:57,2004-08-02,DNYY,Mellon Hbv Alternative Strategies LLC,10%,S - Sale,$2.91,-40200,237661105,0%,"-$117,125",,,,,DENN
+546,,2004-04-23 20:59:17,2004-04-21,DNYY,Ocm Opportunities Fund II LP,10%,S - Sale,$2.00,-362600,3818955,-9%,"-$725,200",,,,,DENN
+547,,2004-04-23 20:58:20,2004-04-21,DNYY,Oaktree Capital Management LLC,10%,S - Sale,$2.00,-370000,3896900,-9%,"-$740,000",,,,,DENN
+548,M,2004-04-20 20:13:53,2004-04-16,DNYY,Ocm Opportunities Fund II LP,10%,S - Sale,$2.00,-617400,4181555,-13%,"-$1,237,456",,,,,DENN
+549,M,2004-04-20 20:13:19,2004-04-16,DNYY,Oaktree Capital Management LLC,10%,S - Sale,$2.00,-630000,4266900,-13%,"-$1,262,710",,,,,DENN
+550,M,2004-02-17 16:53:01,2004-02-05,DNYY,Miller Lloyd I III,10%,S - Sale,$1.09,-1617000,3618527,-31%,"-$1,756,169",,,,,DENN
+551,,2004-01-20 16:02:39,2004-01-15,DNYY,Miller Lloyd I III,10%,S - Sale,$0.57,-290500,4069043,-7%,"-$165,701",,,,,DENN
+552,,2004-01-14 13:33:06,2004-01-13,DNYY,Miller Lloyd I III,10%,S - Sale,$0.59,-102200,4359543,-2%,"-$60,298",,,,,DENN
+553,,2004-01-13 11:01:33,2004-01-12,DNYY,Miller Lloyd I III,10%,S - Sale,$0.55,-212500,4461743,-5%,"-$116,875",,,,,DENN
+554,,2004-01-12 12:53:47,2004-01-09,DNYY,Miller Lloyd I III,10%,S - Sale,$0.52,-87500,4674243,-2%,"-$45,500",,,,,DENN
+555,M,2004-01-07 16:02:50,2004-01-05,DNYY,Miller Lloyd I III,10%,S - Sale,$0.49,-27000,4761743,-1%,"-$13,230",,,,,DENN
+556,,2004-01-05 13:58:10,2003-12-31,DNYY,Sawda Mounir N,"VP, Franchise Development",A - Grant,$0.00,7589,16178,+88%,+$0,,,,,DENN
+557,,2004-01-05 13:48:54,2003-12-31,DNYY,Wilensky Samuel M,"VP, Franchise Operations",A - Grant,$0.00,6919,13838,+100%,+$0,,,,,DENN
+558,,2004-01-05 13:48:12,2003-12-31,DNYY,Traylor Linda G,"SVP, HR",A - Grant,$0.00,9821,19642,+100%,+$0,,,,,DENN
+559,,2004-01-05 13:46:19,2003-12-31,DNYY,Parish Rhonda J,"Exe. VP, Sec., Gen. Counsel",A - Grant,$0.00,15089,31678,+91%,+$0,,,,,DENN
+560,,2004-01-05 13:45:45,2003-12-31,DNYY,Jenkins Margaret L,"SVP, Marketing",A - Grant,$0.00,13392,26784,+100%,+$0,,,,,DENN
+561,,2004-01-05 13:44:41,2003-12-31,DNYY,Herman Craig E,Division VP,A - Grant,$0.00,6919,13838,+100%,+$0,,,,,DENN
+562,,2004-01-05 13:44:04,2003-12-31,DNYY,Green Andrew F,"SVP, CFO",A - Grant,$0.00,11964,75411,+19%,+$0,,,,,DENN
+563,,2004-01-05 13:43:29,2003-12-31,DNYY,Gelardi Gustave E,Division VP,A - Grant,$0.00,6517,15034,+77%,+$0,,,,,DENN
+564,,2004-01-05 13:41:15,2003-12-31,DNYY,Emplit Janis S,"SVP, CIO",A - Grant,$0.00,11835,24670,+92%,+$0,,,,,DENN
+565,,2003-12-24 12:41:55,2003-12-23,DNYY,Miller Lloyd I III,10%,S - Sale,$0.42,-15500,4810743,0%,"-$6,510",,,,,DENN
+566,,2003-11-21 15:17:03,2003-11-20,DNYY,Miller Lloyd I III,10%,S - Sale,$0.44,-200000,4775759,-4%,"-$88,000",,,,,DENN
+567,,2003-11-20 16:19:56,2003-11-19,DNYY,Miller Lloyd I III,10%,S - Sale,$0.41,-320000,4975759,-6%,"-$131,200",,,,,DENN
+568,,2003-11-19 15:43:01,2003-11-18,DNYY,Miller Lloyd I III,10%,S - Sale,$0.41,-50000,5295759,-1%,"-$20,500",,,,,DENN
+569,,2003-11-18 13:13:21,2003-11-17,DNYY,Miller Lloyd I III,10%,S - Sale,$0.41,-96500,5345759,-2%,"-$39,565",,,,,DENN
+570,M,2003-11-03 18:44:23,2003-10-30,DNYY,Oaktree Capital Management LLC,10%,S - Sale,$0.45,-600016,4896900,-11%,"-$270,007",,,,,DENN
+571,M,2003-11-03 18:43:40,2003-10-30,DNYY,Ocm Opportunities Fund II LP,10%,S - Sale,$0.45,-588016,4798955,-11%,"-$264,607",,,,,DENN
+572,,2003-10-17 17:49:14,2003-10-15,DNYY,Gotham Partners LP /ny/,10%,S - Sale,$0.31,-3265952,2000000,-62%,"-$1,017,286",,,,,DENN
+573,,2003-10-17 17:36:35,2003-10-15,DNYY,Ocm Opportunities Fund II LP,10%,S - Sale,$0.33,-196000,5386971,-4%,"-$64,974",,,,,DENN
+574,,2003-10-17 17:36:16,2003-10-15,DNYY,Oaktree Capital Management LLC,10%,S - Sale,$0.33,-200000,5496916,-4%,"-$66,300",,,,,DENN
+575,,2003-10-15 14:57:47,2003-10-14,DNYY,Oaktree Capital Management LLC,10%,S - Sale,$0.36,-50000,5696916,-1%,"-$18,230",,,,,DENN
+576,,2003-10-15 14:56:27,2003-10-14,DNYY,Ocm Opportunities Fund II LP,10%,S - Sale,$0.36,-49000,5582971,-1%,"-$17,865",,,,,DENN
+577,,2003-09-26 12:27:10,2003-09-25,DNYY,Miller Lloyd I III,10%,S - Sale,$0.43,-17000,5442259,0%,"-$7,341",,,,,DENN
+578,,2003-08-26 17:28:43,2003-08-22,DNYY,Miller Lloyd I III,10%,S - Sale,$0.31,-290374,5459259,-5%,"-$88,913",,,,,DENN
+579,M,2003-08-21 13:41:34,2003-08-19,DNYY,Miller Lloyd I III,10%,S - Sale,$0.30,-100000,5749633,-2%,"-$30,250",,,,,DENN

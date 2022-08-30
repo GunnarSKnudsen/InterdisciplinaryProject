@@ -1,26 +1,57 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
 0,D,2022-03-14 16:45:56,2022-03-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,4.75,-5253,2458,-68%,-24952.0,,,,,OLMA
-1,D,2022-01-11 20:21:49,2022-01-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,6.85,-5251,2458,-68%,-35969.0,,,,,OLMA
-2,D,2021-12-14 16:25:03,2021-12-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,10.39,-5251,2458,-68%,-54558.0,,,,,OLMA
-3,,2021-12-14 16:03:49,2021-12-10,OLMA,Myles David C.,Chief Development Officer,S - Sale,10.3,-10000,750578,-1%,-103000.0,,,,,OLMA
-4,D,2021-12-02 20:45:11,2021-11-30,OLMA,Bvf Partners L P/il,"Dir, 10%",P - Purchase,9.39,739675,471350,-276%,6945770.0,,,,,OLMA
-5,,2021-12-01 17:34:56,2021-11-29,OLMA,Harmon Cyrus,CTO,S - Sale,24.76,-400,1173174,0%,-9904.0,,,,,OLMA
-6,D,2021-11-12 17:15:07,2021-11-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,26.88,-27668,1790,-94%,-743716.0,,,,,OLMA
-7,,2021-10-21 16:33:23,2021-10-19,OLMA,Harmon Cyrus,CTO,S - Sale,27.98,-12000,1173574,-1%,-335794.0,,,,,OLMA
-8,D,2021-10-15 18:44:40,2021-10-14,OLMA,Bohen Sean,"Pres, CEO",S - Sale+OE,30.47,-5000,52514,-9%,-152363.0,,,,,OLMA
-9,D,2021-10-12 18:53:11,2021-10-11,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,27.9,-5251,1790,-75%,-146510.0,,,,,OLMA
-10,D,2021-09-29 19:56:53,2021-09-27,OLMA,Bohen Sean,"Pres, CEO",S - Sale+OE,30.07,-1085,52514,-2%,-32626.0,,,,,OLMA
-11,,2021-09-21 18:19:13,2021-09-20,OLMA,Harmon Cyrus,CTO,S - Sale,26.3,-12000,1185574,-1%,-315600.0,,,,,OLMA
-12,D,2021-09-13 20:07:58,2021-09-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,29.38,-5251,1790,-75%,-154274.0,,,,,OLMA
-13,DM,2021-09-09 16:25:20,2021-09-07,OLMA,Bohen Sean,"Pres, CEO",S - Sale+OE,30.01,-3044,52514,-5%,-91353.0,,,,,OLMA
-14,D,2021-09-03 17:16:22,2021-09-01,OLMA,Bohen Sean,"Pres, CEO",S - Sale+OE,30.05,-871,54274,-2%,-26174.0,,,,,OLMA
-15,,2021-08-20 21:14:14,2021-08-19,OLMA,Harmon Cyrus,CTO,S - Sale,24.97,-12000,1197574,-1%,-299640.0,,,,,OLMA
-16,D,2021-08-11 18:05:06,2021-08-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,25.71,-5251,1790,-75%,-134979.0,,,,,OLMA
-17,M,2021-07-21 17:29:39,2021-07-19,OLMA,Harmon Cyrus,CTO,S - Sale,25.1,-12000,1209574,-1%,-301258.0,,,,,OLMA
-18,D,2021-07-13 18:27:00,2021-07-12,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,26.51,-5251,1790,-75%,-139191.0,,,,,OLMA
-19,,2021-06-21 19:05:36,2021-06-18,OLMA,Harmon Cyrus,CTO,S - Sale,24.8,-12000,1099546,-1%,-297626.0,,,,,OLMA
-20,D,2021-06-11 16:30:07,2021-06-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,29.72,-5251,1790,-75%,-156071.0,,,,,OLMA
-21,D,2021-05-19 20:18:47,2021-05-18,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,24.15,-57763,1790,-97%,-1394769.0,,,,,OLMA
-22,D,2020-11-23 16:59:52,2020-11-23,OLMA,"Cormorant Asset Management, LP",Former 10% Owner,P - Purchase,19.0,425000,3270544,+15%,8075000.0,,,,,OLMA
-23,D,2020-11-23 16:35:58,2020-11-23,OLMA,Graham G. Walmsley,Dir,P - Purchase,19.0,1160000,1160000,New,22040000.0,,,,,OLMA
-24,D,2020-11-20 20:02:43,2020-11-19,OLMA,Bvf Partners L P/il,"Dir, 10%",P - Purchase,19.0,1135334,436082,-162%,21571346.0,,,,,OLMA
+1,D,2022-03-14 16:45:56,2022-03-10,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,2.06,5253,2458,-188%,10842.0,,,,,OLMA
+2,D,2022-02-14 17:18:06,2022-02-10,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,2.06,5251,2458,-188%,10838.0,,,,,OLMA
+3,D,2022-02-14 17:18:06,2022-02-10,OLMA,Horn Kinney,Chief Business Officer,D - Sale to issuer,0.0,-5251,2458,-68%,-0.0,,,,,OLMA
+4,D,2022-01-11 20:21:49,2022-01-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,6.85,-5251,2458,-68%,-35969.0,,,,,OLMA
+5,D,2022-01-11 20:21:49,2022-01-10,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,2.06,5251,2458,-188%,10838.0,,,,,OLMA
+6,D,2021-12-14 16:25:03,2021-12-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,10.39,-5251,2458,-68%,-54558.0,,,,,OLMA
+7,D,2021-12-14 16:25:03,2021-12-10,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,2.06,5251,2458,-188%,10838.0,,,,,OLMA
+8,,2021-12-14 16:03:49,2021-12-10,OLMA,Myles David C.,Chief Development Officer,S - Sale,10.3,-10000,750578,-1%,-103000.0,,,,,OLMA
+9,D,2021-12-02 20:45:11,2021-11-30,OLMA,Bvf Partners L P/il,"Dir, 10%",P - Purchase,9.39,739675,471350,-276%,6945770.0,,,,,OLMA
+10,,2021-12-01 17:34:56,2021-11-29,OLMA,Harmon Cyrus,CTO,S - Sale,24.76,-400,1173174,0%,-9904.0,,,,,OLMA
+11,D,2021-11-12 17:15:07,2021-11-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,26.88,-27668,1790,-94%,-743716.0,,,,,OLMA
+12,D,2021-11-12 17:15:07,2021-11-10,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,15.79,27668,1790,-107%,436761.0,,,,,OLMA
+13,,2021-10-21 16:33:23,2021-10-19,OLMA,Harmon Cyrus,CTO,S - Sale,27.98,-12000,1173574,-1%,-335794.0,,,,,OLMA
+14,D,2021-10-15 18:44:40,2021-10-14,OLMA,Bohen Sean,"Pres, CEO",S - Sale+OE,30.47,-5000,52514,-9%,-152363.0,,,,,OLMA
+15,D,2021-10-15 18:44:40,2021-10-14,OLMA,Bohen Sean,"Pres, CEO",M - OptEx,4.82,5000,52514,+11%,24120.0,,,,,OLMA
+16,D,2021-10-12 18:53:11,2021-10-11,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,27.9,-5251,1790,-75%,-146510.0,,,,,OLMA
+17,D,2021-10-12 18:53:11,2021-10-11,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,2.06,5251,1790,-152%,10838.0,,,,,OLMA
+18,D,2021-09-29 19:56:53,2021-09-27,OLMA,Bohen Sean,"Pres, CEO",S - Sale+OE,30.07,-1085,52514,-2%,-32626.0,,,,,OLMA
+19,D,2021-09-29 19:56:53,2021-09-27,OLMA,Bohen Sean,"Pres, CEO",M - OptEx,4.82,1085,52514,+2%,5234.0,,,,,OLMA
+20,,2021-09-21 18:19:13,2021-09-20,OLMA,Harmon Cyrus,CTO,S - Sale,26.3,-12000,1185574,-1%,-315600.0,,,,,OLMA
+21,D,2021-09-13 20:07:58,2021-09-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,29.38,-5251,1790,-75%,-154274.0,,,,,OLMA
+22,D,2021-09-13 20:07:58,2021-09-10,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,2.06,5251,1790,-152%,10838.0,,,,,OLMA
+23,DM,2021-09-09 16:25:20,2021-09-07,OLMA,Bohen Sean,"Pres, CEO",S - Sale+OE,30.01,-3044,52514,-5%,-91353.0,,,,,OLMA
+24,DM,2021-09-09 16:25:20,2021-09-07,OLMA,Bohen Sean,"Pres, CEO",M - OptEx,4.82,3044,52514,+6%,14684.0,,,,,OLMA
+25,D,2021-09-03 17:16:22,2021-09-01,OLMA,Bohen Sean,"Pres, CEO",S - Sale+OE,30.05,-871,54274,-2%,-26174.0,,,,,OLMA
+26,D,2021-09-03 17:16:22,2021-09-01,OLMA,Bohen Sean,"Pres, CEO",M - OptEx,4.82,871,54274,+2%,4202.0,,,,,OLMA
+27,,2021-08-20 21:14:14,2021-08-19,OLMA,Harmon Cyrus,CTO,S - Sale,24.97,-12000,1197574,-1%,-299640.0,,,,,OLMA
+28,D,2021-08-11 18:05:06,2021-08-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,25.71,-5251,1790,-75%,-134979.0,,,,,OLMA
+29,D,2021-08-11 18:05:06,2021-08-10,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,2.06,5251,1790,-152%,10838.0,,,,,OLMA
+30,M,2021-07-21 17:29:39,2021-07-19,OLMA,Harmon Cyrus,CTO,S - Sale,25.1,-12000,1209574,-1%,-301258.0,,,,,OLMA
+31,D,2021-07-13 18:27:00,2021-07-12,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,26.51,-5251,1790,-75%,-139191.0,,,,,OLMA
+32,D,2021-07-13 18:27:00,2021-07-12,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,2.06,5251,1790,-152%,10838.0,,,,,OLMA
+33,,2021-06-21 19:05:36,2021-06-18,OLMA,Harmon Cyrus,CTO,S - Sale,24.8,-12000,1099546,-1%,-297626.0,,,,,OLMA
+34,D,2021-06-11 16:30:07,2021-06-10,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,29.72,-5251,1790,-75%,-156071.0,,,,,OLMA
+35,D,2021-06-11 16:30:07,2021-06-10,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,2.06,5251,1790,-152%,10838.0,,,,,OLMA
+36,D,2021-05-19 20:18:47,2021-05-18,OLMA,Horn Kinney,Chief Business Officer,S - Sale+OE,24.15,-57763,1790,-97%,-1394769.0,,,,,OLMA
+37,D,2021-05-19 20:18:47,2021-05-18,OLMA,Horn Kinney,Chief Business Officer,M - OptEx,2.06,57763,1790,-103%,119223.0,,,,,OLMA
+38,D,2020-11-24 17:36:39,2020-11-23,OLMA,Wellington Biomedical Innovation Master Investors (Cayman) I L.P.,10%,C - Converted deriv,0.0,1725406,1725406,-50%,0.0,,,,,OLMA
+39,D,2020-11-23 16:59:52,2020-11-23,OLMA,"Cormorant Asset Management, LP",Former 10% Owner,P - Purchase,19.0,425000,3270544,+15%,8075000.0,,,,,OLMA
+40,D,2020-11-23 16:59:52,2020-11-23,OLMA,"Cormorant Asset Management, LP",Former 10% Owner,C - Converted deriv,0.0,2845544,3270544,-47%,0.0,,,,,OLMA
+41,D,2020-11-23 16:35:58,2020-11-23,OLMA,Graham G. Walmsley,Dir,P - Purchase,19.0,1160000,1160000,New,22040000.0,,,,,OLMA
+42,D,2020-11-23 16:35:58,2020-11-23,OLMA,Graham G. Walmsley,Dir,C - Converted deriv,0.0,2583875,1160000,-69%,0.0,,,,,OLMA
+43,D,2020-11-23 16:35:09,2020-11-23,OLMA,Rappaport Andrew,Dir,C - Converted deriv,0.0,448556,481014,-48%,0.0,,,,,OLMA
+44,D,2020-11-23 16:34:14,2020-11-23,OLMA,Myles David C.,Chief Development Officer,C - Converted deriv,0.0,167677,746667,-18%,0.0,,,,,OLMA
+45,D,2020-11-23 16:33:24,2020-11-23,OLMA,McCormick Frank,Dir,C - Converted deriv,0.0,219217,275373,-44%,0.0,,,,,OLMA
+46,D,2020-11-23 16:32:42,2020-11-23,OLMA,Kushner Peter J.,Chief Scientific Officer,C - Converted deriv,0.0,358920,1431672,-20%,0.0,,,,,OLMA
+47,D,2020-11-23 16:31:48,2020-11-23,OLMA,Harmon Cyrus,CTO,C - Converted deriv,0.0,193402,1233574,-14%,0.0,,,,,OLMA
+48,D,2020-11-20 20:02:43,2020-11-19,OLMA,Bvf Partners L P/il,"Dir, 10%",P - Purchase,19.0,1135334,436082,-162%,21571346.0,,,,,OLMA
+49,D,2020-11-20 20:02:43,2020-11-19,OLMA,Bvf Partners L P/il,"Dir, 10%",C - Converted deriv,0.0,5216676,436082,-92%,0.0,,,,,OLMA
+50,D,2020-11-19 18:59:06,2020-06-15,OLMA,Myles David C.,Chief Development Officer,A - Grant,0.0,143472,591821,+32%,0.0,,,,,OLMA
+51,D,2020-11-19 18:55:57,2020-06-15,OLMA,Kushner Peter J.,Chief Scientific Officer,A - Grant,0.0,143472,1072752,+15%,0.0,,,,,OLMA
+52,D,2020-11-19 18:47:11,2020-06-15,OLMA,Kovacs Shane William Charles,"Ch. Operating, Financial Offic",A - Grant,0.0,358680,358680,New,0.0,,,,,OLMA
+53,D,2020-11-19 18:43:30,2020-06-15,OLMA,Harmon Cyrus,CTO,A - Grant,0.0,143472,1040172,+16%,0.0,,,,,OLMA
+54,D,2020-11-19 18:42:17,2020-09-16,OLMA,Butitta Cynthia M,Dir,M - OptEx,4.41,83876,83876,New,369558.0,,,,,OLMA
+55,D,2020-11-19 18:41:39,2020-09-23,OLMA,Bohen Sean,"Pres, CEO",M - OptEx,4.82,51649,51649,New,249155.0,,,,,OLMA

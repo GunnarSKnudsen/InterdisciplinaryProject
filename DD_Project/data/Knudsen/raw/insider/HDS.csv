@@ -1,21 +1,361 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,D,2020-10-13 16:49:09,2020-10-12,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",S - Sale+OE,$43.00,-55000,14411,-79%,"-$2,365,000",,,,,HDS
-1,M,2020-10-02 19:00:26,2020-09-30,HDS,Jana Partners LLC,See Remarks,S - Sale,$41.74,-517064,1984699,-21%,"-$21,579,833",,,,,HDS
-2,D,2020-08-12 16:15:50,2020-08-11,HDS,Levitt Evan,"SVP, CFO, CAO",S - Sale+OE,$41.06,-34562,42790,-45%,"-$1,419,116",,,,,HDS
-3,M,2020-06-18 17:30:35,2020-06-16,HDS,Jana Partners LLC,See Remarks,S - Sale,$35.58,-459129,3016818,-13%,"-$16,336,815",,,,,HDS
-4,M,2020-04-03 18:07:11,2020-04-01,HDS,Wolfe Lauren Taylor,Dir,P - Purchase,$26.23,267584,1181702,+29%,"+$7,018,337",,,,,HDS
-5,M,2020-03-23 17:14:11,2020-03-19,HDS,Wolfe Lauren Taylor,Dir,P - Purchase,$27.44,314118,914118,+52%,"+$8,618,279",,,,,HDS
-6,,2019-09-27 17:07:11,2019-09-27,HDS,Wolfe Lauren Taylor,Dir,P - Purchase,$38.55,600000,600000,New,"+$23,130,000",,,,,HDS
-7,M,2019-07-03 21:00:27,2019-07-01,HDS,Jana Partners LLC,See Remarks,S - Sale,$40.76,-733657,4104546,-15%,"-$29,900,235",,,,,HDS
-8,D,2019-04-23 17:00:11,2019-04-22,HDS,Levitt Evan,"SVP, CFO, CAO",S - Sale+OE,$43.16,-44167,35961,-55%,"-$1,906,248",,,,,HDS
-9,,2019-04-11 16:49:11,2019-04-11,HDS,Levitt Evan,"SVP, CFO, CAO",S - Sale,$44.70,-1500,35961,-4%,"-$67,050",,,,,HDS
-10,M,2019-01-14 21:00:25,2019-01-10,HDS,Jana Partners LLC,Dir,S - Sale,$37.92,-1095983,5982107,-15%,"-$41,557,019",,,,,HDS
-11,M,2019-01-08 19:35:24,2019-01-04,HDS,Jana Partners LLC,Dir,S - Sale,$37.85,-1567262,8642788,-15%,"-$59,322,727",,,,,HDS
-12,,2018-12-17 16:35:13,2018-12-14,HDS,Deangelo Joseph J,"COB, Pres, CEO",P - Purchase,$36.99,50000,432618,+13%,"+$1,849,580",,,,,HDS
-13,,2018-10-09 20:00:32,2018-10-05,HDS,Jana Partners LLC,Dir,S - Sale,$42.37,-621235,5399175,-10%,"-$26,321,727",,,,,HDS
-14,M,2018-09-17 21:24:08,2018-09-13,HDS,Jana Partners LLC,Dir,S - Sale,$43.39,-861499,12263531,-7%,"-$37,377,455",,,,,HDS
-15,DM,2018-07-19 16:42:13,2018-07-18,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$45.00,-57200,66368,-46%,"-$2,574,000",,,,,HDS
-16,M,2018-06-27 19:00:33,2018-06-25,HDS,Jana Partners LLC,Dir,S - Sale,$43.37,-1503102,15343153,-9%,"-$65,182,805",,,,,HDS
-17,,2018-06-05 17:42:13,2018-06-05,HDS,Levitt Evan,"SVP, CFO, CAO",S - Sale,$42.60,-23554,27898,-46%,"-$1,003,400",,,,,HDS
-18,D,2018-06-05 17:14:13,2018-06-05,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$42.71,-18826,66368,-22%,"-$804,030",,,,,HDS
-19,,2018-06-05 17:07:46,2018-06-01,HDS,Stengel William P II,"Pres, CEO, HDS Facilities Main",S - Sale,$41.50,-30000,2112,-93%,"-$1,245,000",,,,,HDS
+0,D,2020-11-17 16:35:08,2020-11-14,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$44.81,-99,12251,-1%,"-$4,436",,,,,HDS
+1,D,2020-11-17 16:35:08,2020-11-14,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$44.81,328,12251,+3%,"+$14,698",,,,,HDS
+2,D,2020-11-12 16:28:14,2020-11-10,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$44.18,-204,12022,-2%,"-$9,013",,,,,HDS
+3,D,2020-11-12 16:28:14,2020-11-10,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$44.18,677,12022,+6%,"+$29,910",,,,,HDS
+4,D,2020-10-13 16:49:09,2020-10-12,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$16.96,55000,14411,-136%,"+$932,800",,,,,HDS
+5,D,2020-10-13 16:49:09,2020-10-12,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",S - Sale+OE,$43.00,-55000,14411,-79%,"-$2,365,000",,,,,HDS
+6,M,2020-10-02 19:00:26,2020-09-30,HDS,Jana Partners LLC,See Remarks,S - Sale,$41.74,-517064,1984699,-21%,"-$21,579,833",,,,,HDS
+7,D,2020-08-18 16:16:04,2020-08-16,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$41.92,-124,11549,-1%,"-$5,198",,,,,HDS
+8,D,2020-08-18 16:16:04,2020-08-16,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$41.92,409,11549,+4%,"+$17,145",,,,,HDS
+9,D,2020-08-12 16:15:50,2020-08-11,HDS,Levitt Evan,"SVP, CFO, CAO",M - OptEx,$8.30,34562,42790,+420%,"+$286,865",,,,,HDS
+10,D,2020-08-12 16:15:50,2020-08-11,HDS,Levitt Evan,"SVP, CFO, CAO",S - Sale+OE,$41.06,-34562,42790,-45%,"-$1,419,116",,,,,HDS
+11,M,2020-06-18 17:30:35,2020-06-16,HDS,Jana Partners LLC,See Remarks,S - Sale,$35.58,-459129,3016818,-13%,"-$16,336,815",,,,,HDS
+12,,2020-06-12 16:28:11,2020-06-11,HDS,Deangelo Joseph J,"COB, Pres, CEO",G - Gift,$0.00,-347692,487692,-42%,-$0,,,,,HDS
+13,D,2020-05-21 16:42:17,2020-05-19,HDS,Rubright James A,Dir,M - OptEx,$29.41,2976,21608,+16%,"+$87,524",,,,,HDS
+14,D,2020-05-21 16:35:18,2020-05-19,HDS,Peffer Charles,Dir,M - OptEx,$29.41,2976,27183,+12%,"+$87,524",,,,,HDS
+15,D,2020-05-21 16:35:11,2020-05-19,HDS,McNamee Patrick,Dir,M - OptEx,$29.41,2976,31220,+11%,"+$87,524",,,,,HDS
+16,M,2020-04-03 18:07:11,2020-04-01,HDS,Wolfe Lauren Taylor,Dir,P - Purchase,$26.23,267584,1181702,+29%,"+$7,018,337",,,,,HDS
+17,M,2020-03-23 17:14:11,2020-03-19,HDS,Wolfe Lauren Taylor,Dir,P - Purchase,$27.44,314118,914118,+52%,"+$8,618,279",,,,,HDS
+18,DM,2020-03-10 17:14:24,2020-03-06,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",F - Tax,$36.67,-4137,82962,-5%,"-$151,697",,,,,HDS
+19,DM,2020-03-10 17:14:24,2020-03-06,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$35.64,4954,82962,+6%,"+$176,545",,,,,HDS
+20,DM,2020-03-10 17:14:17,2020-03-06,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$36.67,-842,11264,-7%,"-$30,873",,,,,HDS
+21,DM,2020-03-10 17:14:17,2020-03-06,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$36.67,2794,11264,+33%,"+$102,448",,,,,HDS
+22,DM,2020-03-10 17:14:11,2020-03-06,HDS,Stevens Anna,Chief People Officer,F - Tax,$36.72,-991,7804,-11%,"-$36,390",,,,,HDS
+23,DM,2020-03-10 17:14:11,2020-03-06,HDS,Stevens Anna,Chief People Officer,M - OptEx,$36.73,3332,7804,+75%,"+$122,377",,,,,HDS
+24,DM,2020-03-10 17:07:26,2020-03-06,HDS,Deangelo Joseph J,"COB, Pres, CEO",F - Tax,$35.92,-7452,487692,-2%,"-$267,672",,,,,HDS
+25,DM,2020-03-10 17:07:26,2020-03-06,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$36.02,23302,487692,+5%,"+$839,416",,,,,HDS
+26,DM,2020-03-10 17:07:20,2020-03-06,HDS,Levitt Evan,"SVP, CFO, CAO",F - Tax,$36.01,-2318,42790,-5%,"-$83,460",,,,,HDS
+27,DM,2020-03-10 17:07:20,2020-03-06,HDS,Levitt Evan,"SVP, CFO, CAO",M - OptEx,$36.00,7695,42790,+22%,"+$277,054",,,,,HDS
+28,DM,2020-03-10 17:07:11,2020-03-06,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",F - Tax,$36.18,-940,14411,-6%,"-$34,010",,,,,HDS
+29,DM,2020-03-10 17:07:11,2020-03-06,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$36.19,3129,14411,+28%,"+$113,225",,,,,HDS
+30,D,2020-03-03 17:42:17,2020-02-29,HDS,Stevens Anna,Chief People Officer,F - Tax,$38.02,-446,5463,-8%,"-$16,957",,,,,HDS
+31,D,2020-03-03 17:42:17,2020-02-29,HDS,Stevens Anna,Chief People Officer,M - OptEx,$38.02,1308,5463,+31%,"+$49,730",,,,,HDS
+32,D,2020-03-03 17:42:11,2020-02-29,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",F - Tax,$38.02,-342,78079,0%,"-$13,003",,,,,HDS
+33,D,2020-03-03 17:42:11,2020-02-29,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$38.02,1151,78079,+1%,"+$43,761",,,,,HDS
+34,D,2020-03-03 17:35:18,2020-02-29,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",F - Tax,$38.02,-255,12222,-2%,"-$9,695",,,,,HDS
+35,D,2020-03-03 17:35:18,2020-02-29,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$38.02,719,12222,+6%,"+$27,336",,,,,HDS
+36,D,2020-03-03 17:35:11,2020-02-29,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$38.02,-147,9312,-2%,"-$5,589",,,,,HDS
+37,D,2020-03-03 17:35:11,2020-02-29,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$38.02,415,9312,+5%,"+$15,778",,,,,HDS
+38,D,2020-03-03 17:28:17,2020-02-29,HDS,Deangelo Joseph J,"COB, Pres, CEO",F - Tax,$38.02,-1860,471842,0%,"-$70,717",,,,,HDS
+39,D,2020-03-03 17:28:17,2020-02-29,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$38.02,6177,471842,+1%,"+$234,850",,,,,HDS
+40,D,2020-03-03 17:28:11,2020-02-29,HDS,Levitt Evan,"SVP, CFO, CAO",F - Tax,$38.02,-619,37413,-2%,"-$23,534",,,,,HDS
+41,D,2020-03-03 17:28:11,2020-02-29,HDS,Levitt Evan,"SVP, CFO, CAO",M - OptEx,$38.02,2071,37413,+6%,"+$78,739",,,,,HDS
+42,D,2019-11-21 16:42:11,2019-11-19,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$39.98,-543,9044,-6%,"-$21,709",,,,,HDS
+43,D,2019-11-21 16:42:11,2019-11-19,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$39.98,1801,9044,+25%,"+$72,004",,,,,HDS
+44,D,2019-11-15 16:35:11,2019-11-14,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$40.30,-99,7786,-1%,"-$3,990",,,,,HDS
+45,D,2019-11-15 16:35:11,2019-11-14,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$40.30,328,7786,+4%,"+$13,218",,,,,HDS
+46,D,2019-11-12 16:42:11,2019-11-10,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$40.83,-204,7557,-3%,"-$8,329",,,,,HDS
+47,D,2019-11-12 16:42:11,2019-11-10,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$40.83,677,7557,+10%,"+$27,642",,,,,HDS
+48,,2019-09-27 17:07:11,2019-09-27,HDS,Wolfe Lauren Taylor,Dir,P - Purchase,$38.55,600000,600000,New,"+$23,130,000",,,,,HDS
+49,D,2019-08-19 16:49:11,2019-08-16,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$38.00,-124,7084,-2%,"-$4,712",,,,,HDS
+50,D,2019-08-19 16:49:11,2019-08-16,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$38.00,409,7084,+6%,"+$15,542",,,,,HDS
+51,M,2019-07-03 21:00:27,2019-07-01,HDS,Jana Partners LLC,See Remarks,S - Sale,$40.76,-733657,4104546,-15%,"-$29,900,235",,,,,HDS
+52,D,2019-05-21 18:35:30,2019-05-17,HDS,McNamee Patrick,Dir,M - OptEx,$43.49,3192,28244,+13%,"+$138,820",,,,,HDS
+53,D,2019-05-21 18:35:23,2019-05-17,HDS,Peffer Charles,Dir,M - OptEx,$43.49,3192,24207,+15%,"+$138,820",,,,,HDS
+54,D,2019-05-21 18:35:17,2019-05-17,HDS,Rubright James A,Dir,M - OptEx,$43.49,3192,18632,+21%,"+$138,820",,,,,HDS
+55,D,2019-04-23 17:00:11,2019-04-22,HDS,Levitt Evan,"SVP, CFO, CAO",M - OptEx,$16.91,44167,35961,-538%,"+$746,836",,,,,HDS
+56,D,2019-04-23 17:00:11,2019-04-22,HDS,Levitt Evan,"SVP, CFO, CAO",S - Sale+OE,$43.16,-44167,35961,-55%,"-$1,906,248",,,,,HDS
+57,,2019-04-11 16:49:11,2019-04-11,HDS,Levitt Evan,"SVP, CFO, CAO",S - Sale,$44.70,-1500,35961,-4%,"-$67,050",,,,,HDS
+58,DM,2019-03-12 16:56:23,2019-03-08,HDS,Stevens Anna,Chief Prople Officer,F - Tax,$42.70,-991,4601,-18%,"-$42,316",,,,,HDS
+59,DM,2019-03-12 16:56:23,2019-03-08,HDS,Stevens Anna,Chief Prople Officer,M - OptEx,$42.70,3320,4601,+259%,"+$141,764",,,,,HDS
+60,DM,2019-03-12 16:56:17,2019-03-08,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$42.70,-333,6799,-5%,"-$14,219",,,,,HDS
+61,DM,2019-03-12 16:56:17,2019-03-08,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$42.70,1059,6799,+18%,"+$45,219",,,,,HDS
+62,DM,2019-03-12 16:56:11,2019-03-08,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",F - Tax,$42.70,-4347,77270,-5%,"-$185,617",,,,,HDS
+63,DM,2019-03-12 16:56:11,2019-03-08,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$42.70,14440,77270,+23%,"+$616,588",,,,,HDS
+64,DM,2019-03-12 16:49:29,2019-03-08,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",F - Tax,$42.70,-1109,11758,-9%,"-$47,354",,,,,HDS
+65,DM,2019-03-12 16:49:29,2019-03-08,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$42.70,3706,11758,+46%,"+$158,246",,,,,HDS
+66,DM,2019-03-12 16:49:23,2019-03-08,HDS,Levitt Evan,"SVP, CFO, CAO",F - Tax,$42.70,-3496,37461,-9%,"-$149,279",,,,,HDS
+67,DM,2019-03-12 16:49:23,2019-03-08,HDS,Levitt Evan,"SVP, CFO, CAO",M - OptEx,$42.70,11610,37461,+45%,"+$495,747",,,,,HDS
+68,DM,2019-03-12 16:49:11,2019-03-08,HDS,Deangelo Joseph J,"COB, Pres, CEO",F - Tax,$42.70,-21001,467525,-4%,"-$896,743",,,,,HDS
+69,DM,2019-03-12 16:49:11,2019-03-08,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$42.70,51591,467525,+12%,"+$2,202,936",,,,,HDS
+70,D,2019-03-01 17:07:29,2019-02-28,HDS,Deangelo Joseph J,"COB, Pres, CEO",F - Tax,$43.01,-1860,436935,0%,"-$79,999",,,,,HDS
+71,D,2019-03-01 17:07:29,2019-02-28,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$43.01,6177,436935,+1%,"+$265,673",,,,,HDS
+72,D,2019-03-01 16:56:36,2019-02-28,HDS,Levitt Evan,"SVP, CFO, CAO",F - Tax,$43.01,-622,29347,-2%,"-$26,752",,,,,HDS
+73,D,2019-03-01 16:56:36,2019-02-28,HDS,Levitt Evan,"SVP, CFO, CAO",M - OptEx,$43.01,2071,29347,+8%,"+$89,074",,,,,HDS
+74,D,2019-03-01 16:56:29,2019-02-28,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",F - Tax,$43.01,-255,9161,-3%,"-$10,968",,,,,HDS
+75,D,2019-03-01 16:56:29,2019-02-28,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$43.01,719,9161,+9%,"+$30,924",,,,,HDS
+76,D,2019-03-01 16:56:17,2019-02-28,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$43.01,-148,6073,-2%,"-$6,365",,,,,HDS
+77,D,2019-03-01 16:56:17,2019-02-28,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$43.01,416,6073,+7%,"+$17,892",,,,,HDS
+78,D,2019-03-01 16:49:29,2019-02-28,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",F - Tax,$43.01,-342,67177,-1%,"-$14,709",,,,,HDS
+79,D,2019-03-01 16:49:29,2019-02-28,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$43.01,1151,67177,+2%,"+$49,505",,,,,HDS
+80,D,2019-03-01 16:49:23,2019-02-28,HDS,Stevens Anna,Chief Prople Officer,F - Tax,$43.01,-438,2272,-16%,"-$18,838",,,,,HDS
+81,D,2019-03-01 16:49:23,2019-02-28,HDS,Stevens Anna,Chief Prople Officer,M - OptEx,$43.01,1308,2272,+136%,"+$56,257",,,,,HDS
+82,M,2019-01-14 21:00:25,2019-01-10,HDS,Jana Partners LLC,Dir,S - Sale,$37.92,-1095983,5982107,-15%,"-$41,557,019",,,,,HDS
+83,M,2019-01-08 19:35:24,2019-01-04,HDS,Jana Partners LLC,Dir,S - Sale,$37.85,-1567262,8642788,-15%,"-$59,322,727",,,,,HDS
+84,,2018-12-17 16:35:13,2018-12-14,HDS,Deangelo Joseph J,"COB, Pres, CEO",P - Purchase,$36.99,50000,432618,+13%,"+$1,849,580",,,,,HDS
+85,D,2018-11-20 16:49:13,2018-11-19,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$37.85,-547,5805,-9%,"-$20,704",,,,,HDS
+86,D,2018-11-20 16:49:13,2018-11-19,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$37.85,1800,5805,+45%,"+$68,130",,,,,HDS
+87,D,2018-11-13 16:35:13,2018-11-10,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",F - Tax,$38.75,-206,4552,-4%,"-$7,983",,,,,HDS
+88,D,2018-11-13 16:35:13,2018-11-10,HDS,Paulsen Bradley,"Pres, HDS Facilities Main",M - OptEx,$38.75,677,4552,+17%,"+$26,234",,,,,HDS
+89,,2018-10-09 20:00:32,2018-10-05,HDS,Jana Partners LLC,Dir,S - Sale,$42.37,-621235,5399175,-10%,"-$26,321,727",,,,,HDS
+90,M,2018-09-17 21:24:08,2018-09-13,HDS,Jana Partners LLC,Dir,S - Sale,$43.39,-861499,12263531,-7%,"-$37,377,455",,,,,HDS
+91,DM,2018-07-19 16:42:13,2018-07-18,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$18.00,57200,66368,+624%,"+$1,029,600",,,,,HDS
+92,DM,2018-07-19 16:42:13,2018-07-18,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$45.00,-57200,66368,-46%,"-$2,574,000",,,,,HDS
+93,M,2018-06-27 19:00:33,2018-06-25,HDS,Jana Partners LLC,Dir,S - Sale,$43.37,-1503102,15343153,-9%,"-$65,182,805",,,,,HDS
+94,,2018-06-05 17:42:13,2018-06-05,HDS,Levitt Evan,"SVP, CFO, CAO",S - Sale,$42.60,-23554,27898,-46%,"-$1,003,400",,,,,HDS
+95,D,2018-06-05 17:14:13,2018-06-05,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$0.00,18826,66368,+40%,+$0,,,,,HDS
+96,D,2018-06-05 17:14:13,2018-06-05,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$42.71,-18826,66368,-22%,"-$804,030",,,,,HDS
+97,,2018-06-05 17:07:46,2018-06-01,HDS,Stengel William P II,"Pres, CEO, HDS Facilities Main",S - Sale,$41.50,-30000,2112,-93%,"-$1,245,000",,,,,HDS
+98,D,2018-05-18 16:56:52,2018-05-17,HDS,McNamee Patrick,Dir,M - OptEx,$40.72,3290,25052,+15%,"+$133,969",,,,,HDS
+99,D,2018-05-18 16:56:34,2018-05-17,HDS,Rubright James A,Dir,M - OptEx,$40.72,3290,15440,+27%,"+$133,969",,,,,HDS
+100,D,2018-05-18 16:56:17,2018-05-17,HDS,Peffer Charles,Dir,M - OptEx,$40.72,3290,21015,+19%,"+$133,969",,,,,HDS
+101,D,2018-05-18 16:09:25,2018-05-17,HDS,Jana Partners LLC,Dir,M - OptEx,$40.72,2273,9097267,0%,"+$92,557",,,,,HDS
+102,D,2018-04-18 18:14:11,2018-04-18,HDS,Atkins Betsy S,Dir,M - OptEx,$39.38,3686,11166,+49%,"+$145,155",,,,,HDS
+103,DM,2018-03-12 17:49:35,2018-03-09,HDS,Deangelo Joseph J,"COB, Pres, CEO",F - Tax,$37.61,-20101,382618,-5%,"-$755,999",,,,,HDS
+104,DM,2018-03-12 17:49:35,2018-03-09,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$37.61,44321,382618,+13%,"+$1,666,913",,,,,HDS
+105,D,2018-03-12 17:49:29,2018-03-10,HDS,Stengel William P II,"Pres, CEO, HDS Facilities Main",F - Tax,$37.61,-2449,32112,-7%,"-$92,107",,,,,HDS
+106,DM,2018-03-12 17:49:29,2018-03-09,HDS,Stengel William P II,"Pres, CEO, HDS Facilities Main",M - OptEx,$37.61,8063,32112,+34%,"+$303,249",,,,,HDS
+107,DM,2018-03-12 17:49:23,2018-03-09,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",F - Tax,$37.61,-3767,66368,-5%,"-$141,677",,,,,HDS
+108,DM,2018-03-12 17:49:23,2018-03-09,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$37.61,12407,66368,+23%,"+$466,627",,,,,HDS
+109,DM,2018-03-12 17:49:17,2018-03-09,HDS,Levitt Evan,"SVP, CFO, CAO",F - Tax,$37.61,-2926,51452,-5%,"-$110,047",,,,,HDS
+110,DM,2018-03-12 17:49:17,2018-03-09,HDS,Levitt Evan,"SVP, CFO, CAO",M - OptEx,$37.61,9375,51452,+22%,"+$352,594",,,,,HDS
+111,DM,2018-03-12 17:49:11,2018-03-09,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",F - Tax,$37.61,-844,8697,-9%,"-$31,743",,,,,HDS
+112,DM,2018-03-12 17:49:11,2018-03-09,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$37.61,2806,8697,+48%,"+$105,534",,,,,HDS
+113,D,2018-03-08 17:00:49,2018-03-06,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",F - Tax,$36.47,-2274,57728,-4%,"-$82,933",,,,,HDS
+114,D,2018-03-08 17:00:49,2018-03-06,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$36.47,7490,57728,+15%,"+$273,160",,,,,HDS
+115,D,2018-03-08 17:00:42,2018-03-06,HDS,Levitt Evan,"SVP, CFO, CAO",F - Tax,$36.47,-4734,45003,-10%,"-$172,649",,,,,HDS
+116,D,2018-03-08 17:00:42,2018-03-06,HDS,Levitt Evan,"SVP, CFO, CAO",M - OptEx,$36.47,15599,45003,+53%,"+$568,896",,,,,HDS
+117,D,2018-03-08 17:00:29,2018-03-06,HDS,Stengel William P II,"Pres, CEO, HDS Facilities Main",F - Tax,$36.47,-4343,26498,-14%,"-$158,389",,,,,HDS
+118,D,2018-03-08 17:00:29,2018-03-06,HDS,Stengel William P II,"Pres, CEO, HDS Facilities Main",M - OptEx,$36.47,14321,26498,+118%,"+$522,287",,,,,HDS
+119,D,2018-03-08 17:00:20,2018-03-06,HDS,Deangelo Joseph J,"COB, Pres, CEO",F - Tax,$36.47,-15653,358398,-4%,"-$570,865",,,,,HDS
+120,D,2018-03-08 17:00:20,2018-03-06,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$36.47,41323,358398,+13%,"+$1,507,050",,,,,HDS
+121,D,2018-03-08 17:00:11,2018-03-06,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",F - Tax,$36.47,-406,6735,-6%,"-$14,807",,,,,HDS
+122,D,2018-03-08 17:00:11,2018-03-06,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$36.47,1306,6735,+24%,"+$47,630",,,,,HDS
+123,D,2018-03-02 16:56:35,2018-02-28,HDS,Stengel William P II,"Pres, CEO, HDS Facilities Main",F - Tax,$36.25,-544,16520,-3%,"-$19,720",,,,,HDS
+124,D,2018-03-02 16:56:35,2018-02-28,HDS,Stengel William P II,"Pres, CEO, HDS Facilities Main",M - OptEx,$36.25,1788,16520,+12%,"+$64,815",,,,,HDS
+125,D,2018-03-02 16:56:29,2018-02-28,HDS,Deangelo Joseph J,"COB, Pres, CEO",F - Tax,$36.25,-1875,332728,-1%,"-$67,969",,,,,HDS
+126,D,2018-03-02 16:56:29,2018-02-28,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$36.25,6177,332728,+2%,"+$223,916",,,,,HDS
+127,D,2018-03-02 16:56:23,2018-02-28,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",F - Tax,$36.25,-344,52512,-1%,"-$12,470",,,,,HDS
+128,D,2018-03-02 16:56:23,2018-02-28,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$36.25,1151,52512,+2%,"+$41,724",,,,,HDS
+129,D,2018-03-02 16:56:17,2018-02-28,HDS,Levitt Evan,"SVP, CFO",F - Tax,$36.25,-621,34138,-2%,"-$22,511",,,,,HDS
+130,D,2018-03-02 16:56:17,2018-02-28,HDS,Levitt Evan,"SVP, CFO",M - OptEx,$36.25,2071,34138,+6%,"+$75,074",,,,,HDS
+131,D,2018-03-02 16:56:11,2018-02-28,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",F - Tax,$36.25,-257,5835,-4%,"-$9,316",,,,,HDS
+132,D,2018-03-02 16:56:11,2018-02-28,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$36.25,719,5835,+14%,"+$26,064",,,,,HDS
+133,D,2017-11-13 16:35:11,2017-11-10,HDS,Stengel William P II,"Pres, CEO, HDS Facilities Main",F - Tax,$35.67,-406,15276,-3%,"-$14,482",,,,,HDS
+134,D,2017-11-13 16:35:11,2017-11-10,HDS,Stengel William P II,"Pres, CEO, HDS Facilities Main",M - OptEx,$35.67,846,15276,+6%,"+$30,177",,,,,HDS
+135,D,2017-09-22 17:21:11,2017-09-20,HDS,Nowell Lionel L III,Dir,M - OptEx,$34.32,845,845,New,"+$29,000",,,,,HDS
+136,D,2017-05-19 16:56:11,2017-05-17,HDS,Peffer Charles,Dir,M - OptEx,$39.51,3612,17725,+26%,"+$142,710",,,,,HDS
+137,D,2017-05-19 16:49:12,2017-05-17,HDS,Rubright James A,Dir,M - OptEx,$39.51,5418,12150,+80%,"+$214,065",,,,,HDS
+138,D,2017-05-19 16:42:31,2017-05-17,HDS,Alden John W,Dir,M - OptEx,$39.51,3612,13893,+35%,"+$142,710",,,,,HDS
+139,D,2017-05-19 16:42:25,2017-05-17,HDS,Leav Peter,Dir,M - OptEx,$39.51,3612,9404,+62%,"+$142,710",,,,,HDS
+140,D,2017-05-19 16:42:10,2017-05-17,HDS,McNamee Patrick,Dir,M - OptEx,$39.51,3612,21762,+20%,"+$142,710",,,,,HDS
+141,D,2017-05-19 16:35:17,2017-05-17,HDS,Atkins Betsy S,Dir,M - OptEx,$39.51,3612,7480,+93%,"+$142,710",,,,,HDS
+142,DM,2017-04-04 16:28:11,2017-03-31,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$19.58,712145,328426,-186%,"+$13,945,300",0.0,2.0,-1.0,,HDS
+143,DM,2017-04-04 16:28:11,2017-03-31,HDS,Deangelo Joseph J,"COB, Pres, CEO",S - Sale+OE,$40.80,-712145,328426,-68%,"-$29,057,306",0.0,2.0,-1.0,,HDS
+144,DM,2017-03-31 16:28:17,2017-03-29,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$15.38,600000,328426,-221%,"+$9,225,989",-1.0,-2.0,-2.0,,HDS
+145,DM,2017-03-31 16:28:17,2017-03-29,HDS,Deangelo Joseph J,"COB, Pres, CEO",S - Sale+OE,$40.74,-600000,328426,-65%,"-$24,441,600",-1.0,-2.0,-2.0,,HDS
+146,,2017-03-31 16:28:11,2017-03-30,HDS,Atkins Betsy S,Dir,S - Sale,$40.50,-3096,3868,-44%,"-$125,388",-1.0,-2.0,-2.0,,HDS
+147,DM,2017-03-13 19:14:12,2017-03-09,HDS,Newman Margaret,"SVP, Chief People Officer",M - OptEx,$41.99,23577,29234,+417%,"+$989,885",-4.0,-2.0,-4.0,,HDS
+148,DM,2017-03-13 19:14:12,2017-03-10,HDS,Newman Margaret,"SVP, Chief People Officer",S - Sale+OE,$42.33,-9160,29234,-24%,"-$387,699",-4.0,-2.0,-4.0,,HDS
+149,DM,2017-03-13 18:07:35,2017-03-09,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$41.96,2805,5373,+109%,"+$117,704",-4.0,-2.0,-4.0,,HDS
+150,DM,2017-03-13 18:07:35,2017-03-10,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",S - Sale+OE,$42.19,-926,5373,-15%,"-$39,070",-4.0,-2.0,-4.0,,HDS
+151,DM,2017-03-13 18:07:28,2017-03-09,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$41.98,44322,328426,+16%,"+$1,860,414",-4.0,-2.0,-4.0,,HDS
+152,DM,2017-03-13 18:07:23,2017-03-09,HDS,Levitt Evan,"SVP, CFO",M - OptEx,$41.97,9375,31188,+43%,"+$393,433",-4.0,-2.0,-4.0,,HDS
+153,D,2017-03-13 18:07:23,2017-03-13,HDS,Levitt Evan,"SVP, CFO",S - Sale+OE,$42.26,-3452,31188,-10%,"-$145,879",-4.0,-2.0,-4.0,,HDS
+154,DM,2017-03-13 18:07:17,2017-03-09,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$41.98,12407,51705,+32%,"+$520,784",-4.0,-2.0,-4.0,,HDS
+155,DM,2017-03-13 18:07:17,2017-03-10,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$42.28,-4142,51705,-7%,"-$175,126",-4.0,-2.0,-4.0,,HDS
+156,DM,2017-03-13 18:07:11,2017-03-09,HDS,Leclair Stephen O,"Pres,HD Supply Waterworks",M - OptEx,$41.97,6628,53580,+14%,"+$278,204",-4.0,-2.0,-4.0,,HDS
+157,DM,2017-03-13 18:07:11,2017-03-10,HDS,Leclair Stephen O,"Pres,HD Supply Waterworks",S - Sale+OE,$42.28,-2213,53580,-4%,"-$93,555",-4.0,-2.0,-4.0,,HDS
+158,AD,2017-03-09 15:56:11,2017-03-06,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$0.00,41322,284104,+17%,+$0,-2.0,-2.0,-6.0,,HDS
+159,D,2017-03-08 16:42:36,2017-03-06,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$43.24,1305,3494,+60%,"+$56,428",-2.0,-4.0,-6.0,,HDS
+160,D,2017-03-08 16:42:36,2017-03-07,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",S - Sale+OE,$42.58,-490,3494,-12%,"-$20,865",-2.0,-4.0,-6.0,,HDS
+161,D,2017-03-08 16:42:29,2017-03-06,HDS,Newman Margaret,"SVP, Chief People Officer",M - OptEx,$43.24,5568,14817,+60%,"+$240,760",-2.0,-4.0,-6.0,,HDS
+162,D,2017-03-08 16:42:29,2017-03-07,HDS,Newman Margaret,"SVP, Chief People Officer",S - Sale+OE,$42.60,-1896,14817,-11%,"-$80,761",-2.0,-4.0,-6.0,,HDS
+163,D,2017-03-08 16:42:23,2017-03-06,HDS,Levitt Evan,"SVP, CFO",M - OptEx,$43.24,15599,25265,+161%,"+$674,501",-2.0,-4.0,-6.0,,HDS
+164,D,2017-03-08 16:42:23,2017-03-07,HDS,Levitt Evan,"SVP, CFO",S - Sale+OE,$42.60,-5284,25265,-17%,"-$225,078",-2.0,-4.0,-6.0,,HDS
+165,D,2017-03-08 16:42:18,2017-03-06,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$43.24,7489,43440,+21%,"+$323,824",-2.0,-4.0,-6.0,,HDS
+166,D,2017-03-08 16:42:18,2017-03-07,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$42.59,-2532,43440,-6%,"-$107,845",-2.0,-4.0,-6.0,,HDS
+167,D,2017-03-08 16:42:11,2017-03-06,HDS,Leclair Stephen O,"Pres,HD Supply Waterworks",M - OptEx,$43.24,3893,22375,+21%,"+$168,333",-2.0,-4.0,-6.0,,HDS
+168,D,2017-03-08 16:42:11,2017-03-07,HDS,Leclair Stephen O,"Pres,HD Supply Waterworks",S - Sale+OE,$42.59,-1325,22375,-6%,"-$56,438",-2.0,-4.0,-6.0,,HDS
+169,D,2017-03-08 16:35:11,2017-03-06,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$43.24,41322,267319,+18%,"+$1,786,763",-2.0,-4.0,-6.0,,HDS
+170,D,2017-03-08 16:35:11,2017-03-07,HDS,Deangelo Joseph J,"COB, Pres, CEO",S - Sale+OE,$42.60,-16785,267319,-6%,"-$715,023",-2.0,-4.0,-6.0,,HDS
+171,,2016-12-20 09:28:10,2016-12-16,HDS,Alden John W,Dir,G - Gift,$0.00,-1000,10281,-9%,-$0,4.0,5.0,0.0,,HDS
+172,,2016-12-12 16:42:11,2016-12-09,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale,$41.40,-7657,38483,-17%,"-$317,000",0.0,0.0,2.0,,HDS
+173,DM,2016-11-14 17:37:25,2016-11-09,HDS,Newman Margaret,"SVP, Chief People Officer",M - OptEx,$18.66,85575,11145,-115%,"+$1,597,100",2.0,3.0,11.0,,HDS
+174,DM,2016-11-14 17:37:25,2016-11-09,HDS,Newman Margaret,"SVP, Chief People Officer",S - Sale+OE,$35.52,-85575,11145,-88%,"-$3,039,281",2.0,3.0,11.0,,HDS
+175,DM,2016-11-14 17:32:34,2016-11-09,HDS,Newman Margaret,"SVP, Chief People Officer",M - OptEx,$18.66,85575,11145,-115%,"+$1,597,100",2.0,3.0,11.0,,HDS
+176,DM,2016-11-14 17:32:34,2016-11-09,HDS,Newman Margaret,"SVP, Chief People Officer",S - Sale+OE,$35.52,-85575,11145,-88%,"-$3,039,281",2.0,3.0,11.0,,HDS
+177,,2016-09-22 16:28:10,2016-09-22,HDS,Deangelo Joseph J,"COB, Pres, CEO",P - Purchase,$31.07,32100,242782,+15%,"+$997,398",2.0,0.0,2.0,30.0,HDS
+178,,2016-06-10 16:28:16,2016-06-10,HDS,Alden John W,Dir,G - Gift,$0.00,-3000,11281,-21%,-$0,-2.0,0.0,4.0,17.0,HDS
+179,D,2016-06-10 16:28:10,2016-06-08,HDS,Newman Margaret,"SVP, CHRO",M - OptEx,$20.00,18000,11145,-263%,"+$360,000",-2.0,0.0,4.0,17.0,HDS
+180,D,2016-06-10 16:28:10,2016-06-08,HDS,Newman Margaret,"SVP, CHRO",S - Sale+OE,$36.00,-18000,11145,-62%,"-$648,000",-2.0,0.0,4.0,17.0,HDS
+181,D,2016-05-16 17:07:37,2016-05-14,HDS,Leav Peter,Dir,A - Grant,$32.77,3686,5792,+175%,"+$120,790",1.0,0.0,2.0,11.0,HDS
+182,D,2016-05-16 17:07:32,2016-05-14,HDS,Rubright James A,Dir,A - Grant,$32.77,4626,6732,+220%,"+$151,594",1.0,0.0,2.0,11.0,HDS
+183,D,2016-05-16 17:07:25,2016-05-14,HDS,McNamee Patrick,Dir,A - Grant,$32.77,3686,18150,+25%,"+$120,790",1.0,0.0,2.0,11.0,HDS
+184,D,2016-05-16 17:07:18,2016-05-14,HDS,Alden John W,Dir,A - Grant,$32.77,3686,14281,+35%,"+$120,790",1.0,0.0,2.0,11.0,HDS
+185,D,2016-05-16 17:07:13,2016-05-14,HDS,Peffer Charles,Dir,A - Grant,$32.77,3686,14113,+35%,"+$120,790",1.0,0.0,2.0,11.0,HDS
+186,D,2016-03-31 16:35:09,2016-03-29,HDS,Newman Margaret,"SVP, HR",M - OptEx,$20.00,108000,11145,-112%,"+$2,160,000",1.0,0.0,4.0,-5.0,HDS
+187,D,2016-03-31 16:35:09,2016-03-29,HDS,Newman Margaret,"SVP, HR",S - Sale+OE,$33.00,-108000,11145,-91%,"-$3,564,000",1.0,0.0,4.0,-5.0,HDS
+188,D,2016-03-11 19:56:32,2016-03-10,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$27.33,1696,2679,+173%,"+$46,352",0.0,13.0,18.0,13.0,HDS
+189,D,2016-03-11 19:56:32,2016-03-11,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",S - Sale+OE,$27.99,-604,2679,-18%,"-$16,908",0.0,13.0,18.0,13.0,HDS
+190,D,2016-03-11 19:56:27,2016-03-10,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$27.33,9743,46140,+27%,"+$266,276",0.0,13.0,18.0,13.0,HDS
+191,D,2016-03-11 19:56:27,2016-03-11,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$27.99,-3227,46140,-7%,"-$90,324",0.0,13.0,18.0,13.0,HDS
+192,D,2016-03-11 19:56:23,2016-03-10,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$27.33,34794,210682,+20%,"+$950,920",0.0,13.0,18.0,13.0,HDS
+193,D,2016-03-11 19:56:23,2016-03-11,HDS,Deangelo Joseph J,"COB, Pres, CEO",S - Sale+OE,$27.98,-16564,210682,-7%,"-$463,527",0.0,13.0,18.0,13.0,HDS
+194,D,2016-03-11 19:56:18,2016-03-10,HDS,Leclair Stephen O,"Pres,HD Supply Waterworks",M - OptEx,$27.33,5114,19807,+35%,"+$139,766",0.0,13.0,18.0,13.0,HDS
+195,D,2016-03-11 19:56:18,2016-03-11,HDS,Leclair Stephen O,"Pres,HD Supply Waterworks",S - Sale+OE,$27.99,-1694,19807,-8%,"-$47,410",0.0,13.0,18.0,13.0,HDS
+196,D,2016-03-11 19:56:14,2016-03-10,HDS,Levitt Evan,"SVP, CFO",M - OptEx,$27.33,6181,14950,+70%,"+$168,927",0.0,13.0,18.0,13.0,HDS
+197,D,2016-03-11 19:56:14,2016-03-11,HDS,Levitt Evan,"SVP, CFO",S - Sale+OE,$27.99,-2047,14950,-12%,"-$57,298",0.0,13.0,18.0,13.0,HDS
+198,D,2016-03-11 19:56:09,2016-03-10,HDS,Newman Margaret,"SVP, HR",M - OptEx,$27.33,4923,11145,+79%,"+$134,546",0.0,13.0,18.0,13.0,HDS
+199,D,2016-03-11 19:56:09,2016-03-11,HDS,Newman Margaret,"SVP, HR",S - Sale+OE,$27.98,-1631,11145,-13%,"-$45,634",0.0,13.0,18.0,13.0,HDS
+200,D,2016-03-08 17:28:18,2016-03-06,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$28.99,41322,192452,+27%,"+$1,197,925",1.0,3.0,19.0,31.0,HDS
+201,D,2016-03-08 17:28:18,2016-03-07,HDS,Deangelo Joseph J,"COB, Pres, CEO",S - Sale+OE,$28.81,-15106,192452,-7%,"-$435,264",1.0,3.0,19.0,31.0,HDS
+202,D,2016-03-08 17:28:13,2016-03-06,HDS,Leclair Stephen O,"Pres,HD Supply Waterworks",M - OptEx,$28.99,3894,16387,+31%,"+$112,887",1.0,3.0,19.0,31.0,HDS
+203,D,2016-03-08 17:28:13,2016-03-07,HDS,Leclair Stephen O,"Pres,HD Supply Waterworks",S - Sale+OE,$28.84,-1325,16387,-7%,"-$38,218",1.0,3.0,19.0,31.0,HDS
+204,D,2016-03-08 17:28:09,2016-03-06,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",M - OptEx,$28.99,1305,1587,+463%,"+$37,832",1.0,3.0,19.0,31.0,HDS
+205,D,2016-03-08 17:28:09,2016-03-07,HDS,McDevitt Dan S,"Gen. Counsel, Corp. Secretary",S - Sale+OE,$28.80,-512,1587,-24%,"-$14,747",1.0,3.0,19.0,31.0,HDS
+206,D,2016-03-08 17:21:19,2016-03-06,HDS,Levitt Evan,"SVP, CFO",M - OptEx,$28.99,15599,10816,-326%,"+$452,215",1.0,3.0,19.0,31.0,HDS
+207,D,2016-03-08 17:21:19,2016-03-07,HDS,Levitt Evan,"SVP, CFO",S - Sale+OE,$28.73,-5283,10816,-33%,"-$151,765",1.0,3.0,19.0,31.0,HDS
+208,D,2016-03-08 17:21:14,2016-03-06,HDS,Newman Margaret,"SVP, HR",M - OptEx,$28.99,5569,7853,+244%,"+$161,445",1.0,3.0,19.0,31.0,HDS
+209,D,2016-03-08 17:21:14,2016-03-07,HDS,Newman Margaret,"SVP, HR",S - Sale+OE,$28.86,-1892,7853,-19%,"-$54,594",1.0,3.0,19.0,31.0,HDS
+210,D,2016-03-08 17:21:09,2016-03-06,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$28.99,7490,39624,+23%,"+$217,135",1.0,3.0,19.0,31.0,HDS
+211,D,2016-03-08 17:21:09,2016-03-07,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$28.76,-2523,39624,-6%,"-$72,570",1.0,3.0,19.0,31.0,HDS
+212,D,2015-11-24 16:28:08,2015-11-20,HDS,Berges James G,Dir,A - Grant,$30.77,5529,42462,+15%,"+$170,127",2.0,3.0,-3.0,10.0,HDS
+213,,2015-09-24 16:42:08,2015-09-22,HDS,McNamee Patrick,Dir,G - Gift,$0.00,-3868,14464,-21%,-$0,-2.0,-9.0,-5.0,2.0,HDS
+214,D,2015-09-24 16:35:08,2015-09-22,HDS,Webb Jerry,"CEO, HD Supply Waterworks",M - OptEx,$15.22,313082,8007,-103%,"+$4,766,006",-2.0,-9.0,-5.0,2.0,HDS
+215,D,2015-09-24 16:35:08,2015-09-22,HDS,Webb Jerry,"CEO, HD Supply Waterworks",S - Sale+OE,$31.95,-313082,8007,-98%,"-$10,001,556",-2.0,-9.0,-5.0,2.0,HDS
+216,D,2015-08-18 16:39:55,2015-08-14,HDS,Edgerley Paul B,Dir,M - OptEx,$0.00,15140,15140,New,+$0,0.0,-10.0,-4.0,-25.0,HDS
+217,,2015-07-30 16:21:49,2015-07-28,HDS,Bain Capital Investors LLC,10%,S - Sale,$35.44,-25797941,0,-100%,"-$914,279,029",2.0,-1.0,-7.0,-29.0,HDS
+218,,2015-07-30 16:18:03,2015-07-28,HDS,Edgerley Paul B,"Dir, 10%",S - Sale,$35.44,-25797941,0,-100%,"-$914,279,029",2.0,-1.0,-7.0,-29.0,HDS
+219,D,2015-07-17 16:49:08,2015-07-16,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$20.00,65000,34657,-214%,"+$1,300,000",0.0,-4.0,-3.0,-25.0,HDS
+220,D,2015-07-17 16:49:08,2015-07-16,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$36.28,-65000,34657,-65%,"-$2,357,992",0.0,-4.0,-3.0,-25.0,HDS
+221,D,2015-07-02 11:07:08,2015-07-01,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",M - OptEx,$8.30,25000,17484,-333%,"+$207,500",0.0,-2.0,2.0,-14.0,HDS
+222,D,2015-07-02 11:07:08,2015-07-01,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",S - Sale+OE,$35.39,-25000,17484,-59%,"-$884,750",0.0,-2.0,2.0,-14.0,HDS
+223,DM,2015-06-22 17:35:09,2015-06-18,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$20.00,260000,34657,-115%,"+$5,200,000",0.0,0.0,1.0,-18.0,HDS
+224,DM,2015-06-22 17:35:09,2015-06-18,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$35.01,-260000,34657,-88%,"-$9,102,154",0.0,0.0,1.0,-18.0,HDS
+225,D,2015-06-10 17:35:12,2015-06-09,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$8.30,234100,166236,-345%,"+$1,943,030",0.0,1.0,1.0,-7.0,HDS
+226,D,2015-06-10 17:35:12,2015-06-09,HDS,Deangelo Joseph J,"COB, Pres, CEO",S - Sale+OE,$34.00,-234100,166236,-58%,"-$7,959,400",0.0,1.0,1.0,-7.0,HDS
+227,D,2015-06-10 17:35:08,2014-06-08,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",M - OptEx,$8.30,43334,34657,-499%,"+$359,672",0.0,1.0,1.0,-7.0,HDS
+228,D,2015-06-10 17:35:08,2015-06-08,HDS,Stegeman John,"Pres, HD Supply C, I-White Cap",S - Sale+OE,$33.05,-43334,34657,-56%,"-$1,432,189",0.0,1.0,1.0,-7.0,HDS
+229,D,2015-06-02 18:07:08,2015-06-01,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",M - OptEx,$8.30,25000,17484,-333%,"+$207,500",1.0,-2.0,6.0,-5.0,HDS
+230,D,2015-06-02 18:07:08,2015-06-01,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",S - Sale+OE,$32.80,-25000,17484,-59%,"-$820,053",1.0,-2.0,6.0,-5.0,HDS
+231,D,2015-05-15 16:42:53,2015-05-14,HDS,Rubright James A,Dir,A - Grant,$0.00,2106,2106,New,+$0,2.0,4.0,7.0,-7.0,HDS
+232,D,2015-05-15 16:35:42,2015-05-14,HDS,Atkins Betsy S,Dir,A - Grant,$0.00,3868,6964,+125%,+$0,2.0,4.0,7.0,-7.0,HDS
+233,D,2015-05-15 16:35:34,2015-05-14,HDS,Alden John W,Dir,A - Grant,$0.00,3868,10595,+57%,+$0,2.0,4.0,7.0,-7.0,HDS
+234,D,2015-05-15 16:35:26,2015-05-14,HDS,Berges James G,Dir,A - Grant,$0.00,1583,36933,+4%,+$0,2.0,4.0,7.0,-7.0,HDS
+235,D,2015-05-15 16:35:18,2015-05-14,HDS,McNamee Patrick,Dir,A - Grant,$0.00,3868,14464,+37%,+$0,2.0,4.0,7.0,-7.0,HDS
+236,D,2015-05-15 16:35:15,2015-05-14,HDS,Leav Peter,Dir,A - Grant,$0.00,2106,2106,New,+$0,2.0,4.0,7.0,-7.0,HDS
+237,D,2015-05-15 16:35:13,2015-05-14,HDS,Peffer Charles,Dir,A - Grant,$0.00,3868,10427,+59%,+$0,2.0,4.0,7.0,-7.0,HDS
+238,D,2015-05-04 18:21:09,2015-05-01,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",M - OptEx,$8.30,26759,17484,-289%,"+$222,100",-2.0,0.0,1.0,-10.0,HDS
+239,D,2015-05-04 18:21:09,2015-05-01,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",S - Sale+OE,$32.95,-26759,17484,-60%,"-$881,698",-2.0,0.0,1.0,-10.0,HDS
+240,D,2015-04-16 17:07:12,2015-04-15,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",M - OptEx,$8.30,30415,17484,-235%,"+$252,445",-2.0,1.0,-1.0,-9.0,HDS
+241,D,2015-04-16 17:07:12,2015-04-15,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",S - Sale+OE,$32.30,-30415,17484,-63%,"-$982,405",-2.0,1.0,-1.0,-9.0,HDS
+242,D,2015-04-08 17:21:12,2015-04-06,HDS,Webb Jerry,"CEO, HD Supply Waterworks",M - OptEx,$8.30,40000,8007,-125%,"+$332,000",-1.0,0.0,2.0,-7.0,HDS
+243,D,2015-04-08 17:21:12,2015-04-06,HDS,Webb Jerry,"CEO, HD Supply Waterworks",S - Sale+OE,$31.88,-40000,8007,-83%,"-$1,275,048",-1.0,0.0,2.0,-7.0,HDS
+244,DM,2015-04-08 17:21:08,2015-04-07,HDS,Deangelo Joseph J,"COB, Pres, CEO",M - OptEx,$8.30,348150,166236,-191%,"+$2,889,645",-1.0,0.0,2.0,-7.0,HDS
+245,DM,2015-04-08 17:21:08,2015-04-07,HDS,Deangelo Joseph J,"COB, Pres, CEO",S - Sale+OE,$32.00,-368150,166236,-69%,"-$11,780,800",-1.0,0.0,2.0,-7.0,HDS
+246,,2015-04-03 14:14:08,2015-04-02,HDS,Levitt Evan,"SVP, CFO",S - Sale,$31.75,-3713,500,-88%,"-$117,888",1.0,1.0,5.0,-10.0,HDS
+247,D,2015-04-01 16:35:12,2015-03-30,HDS,Stegeman John,"Pres, HD Supply White Cap",M - OptEx,$8.30,43333,34657,-499%,"+$359,664",1.0,2.0,6.0,-10.0,HDS
+248,D,2015-04-01 16:35:12,2015-03-30,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale+OE,$31.13,-43333,34657,-56%,"-$1,348,956",1.0,2.0,6.0,-10.0,HDS
+249,D,2015-04-01 16:35:09,2015-03-30,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",M - OptEx,$8.30,30414,17484,-235%,"+$252,436",1.0,2.0,6.0,-10.0,HDS
+250,D,2015-04-01 16:35:09,2015-03-30,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",S - Sale+OE,$31.30,-30414,17484,-63%,"-$951,958",1.0,2.0,6.0,-10.0,HDS
+251,,2015-03-17 18:21:16,2015-03-13,HDS,Levitt Evan,"SVP, CFO",S - Sale,$30.00,-6600,4213,-61%,"-$198,000",1.0,-3.0,8.0,7.0,HDS
+252,D,2015-03-10 21:14:08,2015-03-06,HDS,Levitt Evan,"SVP, CFO",M - OptEx,$29.02,15599,10813,-326%,"+$452,683",2.0,5.0,11.0,12.0,HDS
+253,D,2015-03-10 21:14:08,2015-03-10,HDS,Levitt Evan,"SVP, CFO",S - Sale+OE,$28.97,-5286,10813,-33%,"-$153,154",2.0,5.0,11.0,12.0,HDS
+254,D,2015-03-10 20:35:09,2015-03-06,HDS,Newman Margaret,"SVP, HR",M - OptEx,$29.02,5568,4176,-400%,"+$161,583",2.0,5.0,11.0,12.0,HDS
+255,D,2015-03-10 20:35:09,2015-03-10,HDS,Newman Margaret,"SVP, HR",S - Sale+OE,$29.02,-1892,4176,-31%,"-$54,904",2.0,5.0,11.0,12.0,HDS
+256,D,2015-03-10 20:07:16,2015-03-06,HDS,Webb Jerry,"CEO, HD Supply Waterworks",M - OptEx,$29.02,5840,8007,+269%,"+$169,477",2.0,5.0,11.0,12.0,HDS
+257,D,2015-03-10 20:07:16,2015-03-10,HDS,Webb Jerry,"CEO, HD Supply Waterworks",S - Sale+OE,$28.99,-2833,8007,-26%,"-$82,137",2.0,5.0,11.0,12.0,HDS
+258,D,2015-03-10 20:07:12,2015-03-06,HDS,Stegeman John,"Pres, HD Supply White Cap",M - OptEx,$29.02,7489,34657,+28%,"+$217,331",2.0,5.0,11.0,12.0,HDS
+259,D,2015-03-10 20:07:12,2015-03-10,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale+OE,$28.99,-2526,34657,-7%,"-$73,240",2.0,5.0,11.0,12.0,HDS
+260,D,2015-03-10 19:42:08,2015-03-06,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",M - OptEx,$29.02,11398,17484,+187%,"+$330,770",2.0,5.0,11.0,12.0,HDS
+261,D,2015-03-10 19:42:08,2015-03-10,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",S - Sale+OE,$28.98,-3914,17484,-18%,"-$113,438",2.0,5.0,11.0,12.0,HDS
+262,D,2015-03-10 19:35:12,2015-03-06,HDS,Deangelo Joseph J,"Pres, CEO",M - OptEx,$29.02,41322,186236,+29%,"+$1,199,164",2.0,5.0,11.0,12.0,HDS
+263,D,2015-03-10 19:35:12,2015-03-10,HDS,Deangelo Joseph J,"Pres, CEO",S - Sale+OE,$28.95,-15086,186236,-7%,"-$436,675",2.0,5.0,11.0,12.0,HDS
+264,D,2015-02-25 16:49:29,2015-02-24,HDS,Stegeman John,"Pres, HD Supply White Cap",M - OptEx,$8.30,16000,29694,+117%,"+$132,800",0.0,-1.0,1.0,5.0,HDS
+265,D,2015-02-25 16:49:29,2015-02-24,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale+OE,$30.07,-16000,29694,-35%,"-$481,056",0.0,-1.0,1.0,5.0,HDS
+266,D,2015-02-25 16:49:25,2015-02-24,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",M - OptEx,$8.30,26758,10000,-160%,"+$222,091",0.0,-1.0,1.0,5.0,HDS
+267,D,2015-02-25 16:49:25,2015-02-24,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",S - Sale+OE,$30.30,-26758,10000,-73%,"-$810,767",0.0,-1.0,1.0,5.0,HDS
+268,D,2015-01-14 16:28:09,2015-01-12,HDS,Ledford Gregory S,Dir,M - OptEx,$28.34,4125,8684,+90%,"+$116,903",-3.0,1.0,2.0,27.0,HDS
+269,D,2015-01-09 16:28:08,2015-01-08,HDS,Webb Jerry,"CEO, HD Supply Waterworks",M - OptEx,$8.30,50000,5000,-111%,"+$415,000",-1.0,-6.0,-2.0,22.0,HDS
+270,D,2015-01-09 16:28:08,2015-01-08,HDS,Webb Jerry,"CEO, HD Supply Waterworks",S - Sale+OE,$28.62,-50000,5000,-91%,"-$1,430,859",-1.0,-6.0,-2.0,22.0,HDS
+271,,2015-01-02 15:07:08,2014-12-31,HDS,Stegeman John,"Pres, HD Supply White Cap",A - Grant,$28.02,1332,29694,+5%,"+$37,317",0.0,-3.0,-1.0,19.0,HDS
+272,DM,2014-12-30 10:28:08,2014-12-26,HDS,Nunez Ricardo J,"SVP, GC, Corp Sec",M - OptEx,$8.30,20000,9912,-198%,"+$166,000",-1.0,-6.0,-3.0,17.0,HDS
+273,DM,2014-12-30 10:28:08,2014-12-26,HDS,Nunez Ricardo J,"SVP, GC, Corp Sec",S - Sale+OE,$30.02,-20000,9912,-67%,"-$600,413",-1.0,-6.0,-3.0,17.0,HDS
+274,,2014-12-19 12:56:20,2014-12-18,HDS,Berges James G,Dir,P - Purchase,$28.23,35350,35350,New,"+$997,860",2.0,5.0,-2.0,24.0,HDS
+275,,2014-12-19 12:56:16,2014-12-17,HDS,McNamee Patrick,Dir,P - Purchase,$27.27,7500,10596,+242%,"+$204,490",2.0,5.0,-2.0,24.0,HDS
+276,,2014-12-19 12:56:12,2014-12-17,HDS,Nunez Ricardo J,"SVP, GC, Corp Sec",G - Gift,$27.44,-88,9912,-1%,"-$2,415",2.0,5.0,-2.0,24.0,HDS
+277,,2014-12-18 16:39:56,2014-12-16,HDS,Clayton Dubilier & Rice Fund VII L P,10%,S - Sale,$27.20,-18290178,0,-100%,"-$497,492,842",2.0,4.0,-4.0,22.0,HDS
+278,,2014-12-16 16:05:39,2014-12-16,HDS,"Tc Group V, L.P.",10%,S - Sale,$27.20,-18295193,0,-100%,"-$497,629,250",1.0,8.0,-1.0,27.0,HDS
+279,,2014-12-16 16:05:35,2014-12-16,HDS,Carlyle Group Management L.L.C.,10%,S - Sale,$27.20,-18295193,0,-100%,"-$497,629,250",1.0,8.0,-1.0,27.0,HDS
+280,D,2014-12-05 16:21:20,2014-12-04,HDS,Deangelo Joseph J,"Pres, CEO",M - OptEx,$8.30,234100,160000,-316%,"+$1,943,030",-1.0,-9.0,-7.0,8.0,HDS
+281,D,2014-12-05 16:21:20,2014-12-04,HDS,Deangelo Joseph J,"Pres, CEO",S - Sale+OE,$30.00,-274100,160000,-63%,"-$8,223,000",-1.0,-9.0,-7.0,8.0,HDS
+282,D,2014-12-05 16:21:16,2014-12-03,HDS,Levitt Evan,"SVP, CFO",M - OptEx,$8.30,10000,500,-105%,"+$83,000",-1.0,-9.0,-7.0,8.0,HDS
+283,D,2014-12-05 16:21:16,2014-12-03,HDS,Levitt Evan,"SVP, CFO",S - Sale+OE,$29.75,-10000,500,-95%,"-$297,500",-1.0,-9.0,-7.0,8.0,HDS
+284,D,2014-12-05 16:21:12,2014-12-04,HDS,Stegeman John,"Pres, HD Supply White Cap",M - OptEx,$8.30,31562,28362,-986%,"+$261,965",-1.0,-9.0,-7.0,8.0,HDS
+285,D,2014-12-05 16:21:12,2014-12-04,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale+OE,$30.02,-31562,28362,-53%,"-$947,491",-1.0,-9.0,-7.0,8.0,HDS
+286,D,2014-12-05 16:21:08,2014-12-04,HDS,Nunez Ricardo J,"SVP, GC, Corp Sec",M - OptEx,$8.30,10000,10000,New,"+$83,000",-1.0,-9.0,-7.0,8.0,HDS
+287,D,2014-12-05 16:21:08,2014-12-04,HDS,Nunez Ricardo J,"SVP, GC, Corp Sec",S - Sale+OE,$30.02,-10000,10000,-50%,"-$300,200",-1.0,-9.0,-7.0,8.0,HDS
+288,DM,2014-12-03 18:00:08,2014-12-01,HDS,Stegeman John,"Pres, HD Supply White Cap",M - OptEx,$8.30,8438,28362,+42%,"+$70,035",1.0,-4.0,-2.0,11.0,HDS
+289,DM,2014-12-03 18:00:08,2014-12-01,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale+OE,$28.77,-8438,28362,-23%,"-$242,753",1.0,-4.0,-2.0,11.0,HDS
+290,DM,2014-11-05 20:35:09,2014-11-03,HDS,Stegeman John,"Pres, HD Supply White Cap",M - OptEx,$8.30,19066,28362,+205%,"+$158,248",-1.0,-3.0,2.0,11.0,HDS
+291,DM,2014-11-05 20:35:09,2014-11-03,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale+OE,$28.98,-19066,28362,-40%,"-$552,620",-1.0,-3.0,2.0,11.0,HDS
+292,D,2014-11-05 18:14:09,2014-11-03,HDS,Newman Margaret,"SVP, HR",M - OptEx,$8.30,25247,500,-102%,"+$209,550",-1.0,-3.0,2.0,11.0,HDS
+293,D,2014-11-05 18:14:09,2014-11-03,HDS,Newman Margaret,"SVP, HR",S - Sale+OE,$28.91,-25247,500,-98%,"-$729,891",-1.0,-3.0,2.0,11.0,HDS
+294,D,2014-10-30 14:21:09,2014-10-28,HDS,Stegeman John,"Pres, HD Supply White Cap",M - OptEx,$8.30,4219,28362,+17%,"+$35,018",0.0,6.0,4.0,18.0,HDS
+295,D,2014-10-30 14:21:09,2014-10-28,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale+OE,$28.00,-4219,28362,-13%,"-$118,132",0.0,6.0,4.0,18.0,HDS
+296,D,2014-10-24 16:40:30,2014-10-22,HDS,Zide Stephen M,"Dir, 10%",M - OptEx,$26.61,8704,26472554,0%,"+$231,613",-1.0,1.0,5.0,22.0,HDS
+297,D,2014-10-08 15:35:12,2014-10-07,HDS,Webb Jerry,"CEO, HD Supply Waterworks",M - OptEx,$8.30,90000,5000,-106%,"+$747,000",0.0,-11.0,9.0,17.0,HDS
+298,D,2014-10-08 15:35:12,2014-10-07,HDS,Webb Jerry,"CEO, HD Supply Waterworks",S - Sale+OE,$26.97,-90000,5000,-95%,"-$2,427,300",0.0,-11.0,9.0,17.0,HDS
+299,D,2014-10-08 15:35:08,2014-10-06,HDS,Newman Margaret,"SVP, HR",M - OptEx,$8.30,25242,500,-102%,"+$209,509",0.0,-11.0,9.0,17.0,HDS
+300,D,2014-10-08 15:35:08,2014-10-06,HDS,Newman Margaret,"SVP, HR",S - Sale+OE,$27.35,-25242,500,-98%,"-$690,369",0.0,-11.0,9.0,17.0,HDS
+301,D,2014-09-19 16:49:12,2014-09-18,HDS,Margolius Steven,Pres-HD Supply Power Solutions,M - OptEx,$8.30,32924,250,-101%,"+$273,269",-2.0,-4.0,-14.0,1.0,HDS
+302,D,2014-09-19 16:49:12,2014-09-18,HDS,Margolius Steven,Pres-HD Supply Power Solutions,S - Sale+OE,$29.00,-32924,250,-99%,"-$954,796",-2.0,-4.0,-14.0,1.0,HDS
+303,D,2014-09-19 16:49:08,2014-09-18,HDS,Deangelo Joseph J,"Pres, CEO",M - OptEx,$8.30,117050,200000,+141%,"+$971,515",-2.0,-4.0,-14.0,1.0,HDS
+304,D,2014-09-19 16:49:08,2014-09-18,HDS,Deangelo Joseph J,"Pres, CEO",S - Sale+OE,$29.00,-117050,200000,-37%,"-$3,394,450",-2.0,-4.0,-14.0,1.0,HDS
+305,D,2014-09-19 16:42:12,2014-09-18,HDS,Nunez Ricardo J,"SVP, GC, Corp Sec",M - OptEx,$8.30,10000,10000,New,"+$83,000",-2.0,-4.0,-14.0,1.0,HDS
+306,D,2014-09-19 16:42:12,2014-09-18,HDS,Nunez Ricardo J,"SVP, GC, Corp Sec",S - Sale+OE,$29.00,-10000,10000,-50%,"-$290,000",-2.0,-4.0,-14.0,1.0,HDS
+307,D,2014-09-19 16:42:08,2014-09-18,HDS,Stegeman John,"Pres, HD Supply White Cap",M - OptEx,$8.30,35781,28362,-482%,"+$296,982",-2.0,-4.0,-14.0,1.0,HDS
+308,D,2014-09-19 16:42:08,2014-09-18,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale+OE,$29.00,-35781,28362,-56%,"-$1,037,649",-2.0,-4.0,-14.0,1.0,HDS
+309,,2014-09-19 16:24:05,2014-09-17,HDS,Clayton Dubilier & Rice Fund VII L P,10%,S - Sale,$27.52,-8166416,18290178,-31%,"-$224,715,269",-2.0,-4.0,-14.0,1.0,HDS
+310,,2014-09-19 16:05:28,2014-09-17,HDS,Carlyle Group Management L.L.C.,10%,S - Sale,$27.52,-8168655,18295193,-31%,"-$224,776,880",-2.0,-4.0,-14.0,1.0,HDS
+311,,2014-09-19 16:05:27,2014-09-17,HDS,"Tc Group V, L.P.",10%,S - Sale,$27.52,-8168655,18295193,-31%,"-$224,776,880",-2.0,-4.0,-14.0,1.0,HDS
+312,,2014-09-15 10:35:08,2014-09-11,HDS,Alden John W,Dir,G - Gift,$0.00,-3000,6432,-32%,-$0,0.0,4.0,-15.0,8.0,HDS
+313,D,2014-09-11 17:07:09,2014-09-09,HDS,Stegeman John,"Pres, HD Supply White Cap",M - OptEx,$8.30,4219,28362,+17%,"+$35,018",2.0,3.0,-5.0,8.0,HDS
+314,D,2014-09-11 17:07:09,2014-09-09,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale+OE,$28.21,-4219,28362,-13%,"-$119,018",2.0,3.0,-5.0,8.0,HDS
+315,D,2014-09-09 16:56:09,2014-09-05,HDS,Bernasek Brian A,Dir,M - OptEx,$27.62,7967,7967,New,"+$220,049",-1.0,0.0,-4.0,2.0,HDS
+316,D,2014-09-03 16:56:09,2014-09-02,HDS,Newman Margaret,"SVP, HR",M - OptEx,$8.30,25242,500,-102%,"+$209,509",0.0,4.0,-1.0,8.0,HDS
+317,D,2014-09-03 16:56:09,2014-09-02,HDS,Newman Margaret,"SVP, HR",S - Sale+OE,$27.21,-25242,500,-98%,"-$686,948",0.0,4.0,-1.0,8.0,HDS
+318,D,2014-08-25 10:21:09,2014-08-21,HDS,Stegeman John,"Pres, HD Supply White Cap",M - OptEx,$0.00,37971,28362,-395%,+$0,0.0,-1.0,2.0,9.0,HDS
+319,D,2014-08-25 10:21:09,2014-08-21,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale+OE,$28.01,-37971,28362,-57%,"-$1,063,568",0.0,-1.0,2.0,9.0,HDS
+320,D,2014-08-20 16:42:08,2014-08-18,HDS,Margolius Steven,Pres-HD Supply Power Solutions,M - OptEx,$8.30,69124,250,-100%,"+$573,729",1.0,0.0,6.0,3.0,HDS
+321,D,2014-08-20 16:42:08,2014-08-18,HDS,Margolius Steven,Pres-HD Supply Power Solutions,S - Sale+OE,$27.00,-69124,250,-100%,"-$1,866,348",1.0,0.0,6.0,3.0,HDS
+322,,2014-07-02 16:52:50,2014-06-30,HDS,Stegeman John,"Pres, HD Supply White Cap",A - Grant,$26.97,1362,28362,+5%,"+$36,734",2.0,-3.0,-9.0,5.0,HDS
+323,,2014-06-06 17:17:06,2014-06-04,HDS,Bain Capital Investors LLC,10%,S - Sale,$25.09,-1305773,26463850,-5%,"-$32,761,845",1.0,1.0,2.0,9.0,HDS
+324,,2014-06-06 17:16:20,2014-06-04,HDS,Edgerley Paul B,"Dir, 10%",S - Sale,$25.09,-1305773,26463850,-5%,"-$32,761,845",1.0,1.0,2.0,9.0,HDS
+325,,2014-06-06 17:12:35,2014-06-04,HDS,Zide Stephen M,"Dir, 10%",S - Sale,$25.09,-1305773,26463850,-5%,"-$32,761,845",1.0,1.0,2.0,9.0,HDS
+326,,2014-06-06 17:02:13,2014-06-04,HDS,Clayton Dubilier & Rice Fund VII L P,10%,S - Sale,$25.09,-1305415,26456594,-5%,"-$32,752,862",1.0,1.0,2.0,9.0,HDS
+327,,2014-06-06 17:00:21,2014-06-04,HDS,"Tc Group V, L.P.",10%,S - Sale,$25.09,-1305773,26463848,-5%,"-$32,761,845",1.0,1.0,2.0,9.0,HDS
+328,,2014-06-06 17:00:12,2014-06-04,HDS,Carlyle Group Management L.L.C.,10%,S - Sale,$25.09,-1305773,26463848,-5%,"-$32,761,845",1.0,1.0,2.0,9.0,HDS
+329,D,2014-05-19 17:49:12,2014-05-15,HDS,McNamee Patrick,Dir,M - OptEx,$0.00,3096,3096,New,+$0,-2.0,-1.0,8.0,8.0,HDS
+330,D,2014-05-19 17:21:13,2014-05-15,HDS,Atkins Betsy S,Dir,M - OptEx,$0.00,3096,3096,New,+$0,-2.0,-1.0,8.0,8.0,HDS
+331,D,2014-05-19 17:07:08,2014-05-15,HDS,Alden John W,Dir,M - OptEx,$0.00,432,9432,+5%,+$0,-2.0,-1.0,8.0,8.0,HDS
+332,,2014-05-09 17:27:37,2014-05-07,HDS,Edgerley Paul B,"Dir, 10%",S - Sale,$25.09,-8702252,27769623,-24%,"-$218,339,503",3.0,0.0,7.0,14.0,HDS
+333,,2014-05-09 17:23:37,2014-05-07,HDS,Bain Capital Investors LLC,10%,S - Sale,$25.09,-8702252,27769623,-24%,"-$218,339,503",3.0,0.0,7.0,14.0,HDS
+334,,2014-05-09 17:23:36,2014-05-07,HDS,Zide Stephen M,"Dir, 10%",S - Sale,$25.09,-8702252,27769623,-24%,"-$218,339,503",3.0,0.0,7.0,14.0,HDS
+335,,2014-05-09 17:21:08,2014-05-07,HDS,Stegeman John,"Pres, HD Supply White Cap",S - Sale,$26.00,-10000,27000,-27%,"-$260,000",3.0,0.0,7.0,14.0,HDS
+336,,2014-05-09 17:18:18,2014-05-07,HDS,Clayton Dubilier & Rice Fund VII L P,10%,S - Sale,$25.09,-8699866,27762009,-24%,"-$218,279,638",3.0,0.0,7.0,14.0,HDS
+337,,2014-05-09 17:15:38,2014-05-07,HDS,Carlyle Group Management L.L.C.,10%,S - Sale,$25.09,-8702251,27769621,-24%,"-$218,339,478",3.0,0.0,7.0,14.0,HDS
+338,,2014-05-09 17:15:25,2014-05-07,HDS,"Tc Group V, L.P.",10%,S - Sale,$25.09,-8702251,27769621,-24%,"-$218,339,478",3.0,0.0,7.0,14.0,HDS
+339,DM,2014-03-27 15:49:08,2014-03-25,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",M - OptEx,$8.30,53517,10000,-123%,"+$444,191",0.0,3.0,1.0,12.0,HDS
+340,DM,2014-03-27 15:49:08,2014-03-25,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",S - Sale+OE,$25.01,-53517,10000,-84%,"-$1,338,721",0.0,3.0,1.0,12.0,HDS
+341,D,2014-03-10 17:42:20,2014-03-10,HDS,Newman Margaret,"SVP, HR",M - OptEx,$8.30,25242,500,-102%,"+$209,509",-2.0,-6.0,7.0,15.0,HDS
+342,D,2014-03-10 17:42:20,2014-03-10,HDS,Newman Margaret,"SVP, HR",S - Sale+OE,$23.93,-25242,500,-98%,"-$604,081",-2.0,-6.0,7.0,15.0,HDS
+343,D,2014-02-11 18:14:20,2014-02-10,HDS,Newman Margaret,"SVP, Human R",M - OptEx,$8.30,25242,500,-102%,"+$209,509",1.0,-1.0,6.0,21.0,HDS
+344,D,2014-02-11 18:14:20,2014-02-10,HDS,Newman Margaret,"SVP, Human R",S - Sale+OE,$21.62,-25242,500,-98%,"-$545,760",1.0,-1.0,6.0,21.0,HDS
+345,D,2014-01-14 15:35:08,2014-01-10,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",M - OptEx,$8.30,26658,10000,-160%,"+$221,261",-1.0,2.0,-5.0,14.0,HDS
+346,D,2014-01-14 15:35:08,2014-01-10,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",S - Sale+OE,$24.05,-26658,10000,-73%,"-$641,197",-1.0,2.0,-5.0,14.0,HDS
+347,D,2014-01-07 16:07:09,2014-01-03,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",M - OptEx,$8.30,100,10000,+1%,+$830,0.0,1.0,-8.0,20.0,HDS
+348,D,2014-01-07 16:07:09,2014-01-03,HDS,Chaibi Anesa,"Pres, CEO, HD Supply Fac Maint",S - Sale+OE,$24.03,-100,10000,-1%,"-$2,403",0.0,1.0,-8.0,20.0,HDS
+349,D,2014-01-02 10:42:09,2013-12-30,HDS,Margolius Steven,"Pres, HD Supply Power Sol",M - OptEx,$8.30,35000,6500,-123%,"+$290,500",-1.0,-3.0,-11.0,17.0,HDS
+350,D,2014-01-02 10:42:09,2013-12-30,HDS,Margolius Steven,"Pres, HD Supply Power Sol",S - Sale+OE,$24.14,-41000,6500,-86%,"-$989,917",-1.0,-3.0,-11.0,17.0,HDS
+351,,2013-09-13 15:54:34,2013-09-12,HDS,Peffer Charles,Dir,P - Purchase,$22.90,2000,6559,+44%,"+$45,799",1.0,3.0,-8.0,-1.0,HDS
+352,D,2013-09-03 16:30:37,2013-09-01,HDS,Klessel Lewis,"Dir, 10%",M - OptEx,$0.00,369,36472244,0%,+$0,1.0,8.0,-3.0,2.0,HDS
+353,,2013-07-05 16:01:10,2013-07-02,HDS,Bernasek Brian A,Dir,A - Grant,$0.00,4559,4559,New,+$0,1.0,-2.0,15.0,21.0,HDS
+354,,2013-07-05 16:00:35,2013-07-02,HDS,Ledford Gregory S,Dir,A - Grant,$0.00,4559,4559,New,+$0,1.0,-2.0,15.0,21.0,HDS
+355,,2013-07-03 16:52:03,2013-07-02,HDS,Peffer Charles,Dir,A - Grant,$0.00,4559,4559,New,+$0,1.0,1.0,14.0,24.0,HDS
+356,,2013-07-03 16:51:46,2013-07-02,HDS,Jacobson Mitchell,Dir,A - Grant,$0.00,4559,4313934,0%,+$0,1.0,1.0,14.0,24.0,HDS
+357,,2013-07-03 11:18:38,2013-07-02,HDS,Zide Stephen M,"Dir, 10%",A - Grant,$0.00,4559,36476434,0%,+$0,1.0,2.0,16.0,26.0,HDS
+358,,2013-07-03 11:15:56,2013-07-02,HDS,Edgerley Paul B,"Dir, 10%",A - Grant,$0.00,4559,36476434,0%,+$0,1.0,2.0,16.0,26.0,HDS
+359,,2013-07-03 11:15:39,2013-07-02,HDS,Klessel Lewis,"Dir, 10%",A - Grant,$0.00,4559,36476434,0%,+$0,1.0,2.0,16.0,26.0,HDS

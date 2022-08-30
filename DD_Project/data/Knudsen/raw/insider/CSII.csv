@@ -1,36 +1,681 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,D,2022-02-24 07:59:43,2022-02-23,CSII,Paulsen Erik,Dir,P - Purchase,$19.05,500,700,+250%,"+$9,523",,,,,CSII
-1,D,2022-02-09 16:45:18,2022-02-07,CSII,Aronson Martha Goldberg,Dir,P - Purchase,$18.43,2500,10000,+33%,"+$46,075",,,,,CSII
-2,,2022-02-09 16:42:31,2022-02-07,CSII,Robb Rhonda J.,COO,P - Purchase,$18.72,1567,169581,+1%,"+$29,326",,,,,CSII
-3,,2022-02-09 16:20:42,2022-02-08,CSII,Points Jeffrey S.,CFO,P - Purchase,$18.20,2000,106312,+2%,"+$36,400",,,,,CSII
-4,D,2022-02-09 16:15:36,2022-02-07,CSII,Ward Scott R.,"COB, CEO",P - Purchase,$18.52,2500,577713,0%,"+$46,293",,,,,CSII
-5,D,2021-05-11 08:04:32,2021-05-10,CSII,Aronson Martha Goldberg,Dir,P - Purchase,$34.59,1500,7500,+25%,"+$51,885",,,,,CSII
-6,D,2021-05-11 08:03:23,2021-05-10,CSII,Ward Scott R.,"COB, CEO",P - Purchase,$34.41,1000,507815,0%,"+$34,410",,,,,CSII
-7,,2021-05-11 08:02:38,2021-05-10,CSII,Robb Rhonda J.,COO,P - Purchase,$34.67,1000,146044,+1%,"+$34,670",,,,,CSII
-8,,2021-05-11 08:02:03,2021-05-10,CSII,Points Jeffrey S.,CFO,P - Purchase,$34.20,1000,82177,+1%,"+$34,200",,,,,CSII
-9,,2020-08-26 16:34:40,2020-08-24,CSII,Sedo Sandra,Chief Compliance Officer,S - Sale,$31.94,-2914,67467,-4%,"-$93,067",,,,,CSII
-10,,2020-08-26 16:34:19,2020-08-24,CSII,Rosenstein Alexander,"GC, Corp. Sec.",S - Sale,$31.94,-4692,84145,-5%,"-$149,853",,,,,CSII
-11,,2020-08-20 16:48:11,2020-08-18,CSII,Sedo Sandra,Chief Compliance Officer,S - Sale,$32.89,-440,74280,-1%,"-$14,471",,,,,CSII
-12,D,2020-08-19 08:46:13,2020-08-17,CSII,Paulsen Erik,Dir,P - Purchase,$32.85,200,200,New,"+$6,570",,,,,CSII
-13,,2020-08-17 16:57:04,2020-08-13,CSII,Rosenstein Alexander,"GC, Corp. Sec.",S - Sale,$31.96,-685,92892,-1%,"-$21,893",,,,,CSII
-14,D,2020-08-17 11:31:56,2020-08-13,CSII,Aronson Martha Goldberg,Dir,P - Purchase,$32.22,3000,6000,+100%,"+$96,655",,,,,CSII
-15,,2020-08-17 11:31:16,2020-08-14,CSII,Robb Rhonda J.,COO,P - Purchase,$31.97,1000,167106,+1%,"+$31,969",,,,,CSII
-16,,2020-08-17 11:30:47,2020-08-13,CSII,Points Jeffrey S.,CFO,P - Purchase,$32.01,1000,85841,+1%,"+$32,010",,,,,CSII
-17,D,2020-08-17 11:30:13,2020-08-13,CSII,Ward Scott R.,"COB, CEO",P - Purchase,$32.19,1000,581332,0%,"+$32,187",,,,,CSII
-18,,2020-02-14 16:15:59,2020-02-12,CSII,Points Jeffrey S.,CFO,S - Sale,$42.18,-3000,50613,-6%,"-$126,536",,,,,CSII
-19,,2020-02-14 16:15:12,2020-02-12,CSII,Rosenstein Alexander,"GC, Corp. Sec.",S - Sale,$42.18,-3500,67688,-5%,"-$147,627",,,,,CSII
-20,,2020-02-14 16:14:19,2020-02-12,CSII,Robb Rhonda J.,COO,S - Sale,$42.29,-3600,117475,-3%,"-$152,246",,,,,CSII
-21,,2020-02-14 16:13:54,2020-02-12,CSII,Hastings John M.,"VP Manufacturing, Operations",S - Sale,$42.11,-5357,29173,-16%,"-$225,585",,,,,CSII
-22,,2019-08-30 16:11:09,2019-08-29,CSII,Rosenstein Alexander,"GC, Corp. Sec.",S - Sale,$50.42,-6308,71879,-8%,"-$318,025",,,,,CSII
-23,,2019-08-19 16:36:33,2019-08-15,CSII,Rosenstein Alexander,"GC, Corp. Sec.",S - Sale,$47.04,-1136,79589,-1%,"-$53,439",,,,,CSII
-24,,2019-08-19 16:36:08,2019-08-15,CSII,Sedo Sandra,Chief Compliance Officer,S - Sale,$47.06,-882,51357,-2%,"-$41,507",,,,,CSII
-25,D,2018-11-05 07:37:08,2018-11-01,CSII,Aronson Martha Goldberg,Dir,P - Purchase,$28.72,3000,3000,New,"+$86,153",,,,,CSII
-26,D,2018-08-29 16:11:18,2018-08-29,CSII,Ward Scott R.,"CEO, Pres",P - Purchase,$38.39,2500,278362,+1%,"+$95,972",,,,,CSII
-27,,2018-08-21 16:24:34,2018-08-17,CSII,Points Jeffrey S.,CFO,S - Sale,$37.54,-971,23229,-4%,"-$36,455",,,,,CSII
-28,,2018-08-21 16:24:13,2018-08-17,CSII,Rosenstein Alexander,"GC, Corp. Secy",S - Sale,$37.56,-1344,49469,-3%,"-$50,476",,,,,CSII
-29,,2018-08-21 16:23:52,2018-08-17,CSII,Gillund Laura,Chief Talent Officer,S - Sale,$37.56,-2147,87705,-2%,"-$80,632",,,,,CSII
-30,,2018-08-21 16:23:31,2018-08-17,CSII,Sedo Sandra,Chief Compliance Officer,S - Sale,$37.52,-862,22634,-4%,"-$32,343",,,,,CSII
-31,,2018-05-22 16:05:59,2018-05-18,CSII,Points Jeffrey S.,CFO,S - Sale,$30.09,-278,24200,-1%,"-$8,366",,,,,CSII
-32,,2018-05-22 16:05:38,2018-05-18,CSII,Rosenstein Alexander,"GC, Corp. Secy",S - Sale,$30.11,-190,50813,0%,"-$5,721",,,,,CSII
-33,D,2018-05-17 16:41:21,2018-05-15,CSII,Bartos Scott A.,Dir,S - Sale+OE,$28.89,-4972,0,-100%,"-$143,617",,,,,CSII
-34,D,2018-05-08 16:31:23,2018-05-04,CSII,Blackey Brent G,Dir,S - Sale+OE,$26.73,-16264,93465,-15%,"-$434,737",,,,,CSII
+1,,2022-02-09 16:57:07,2022-02-08,CSII,Rempe Stephen J.,CHRO,A - Grant,$0.00,5477,49678,+12%,+$0,,,,,CSII
+2,D,2022-02-09 16:45:18,2022-02-07,CSII,Aronson Martha Goldberg,Dir,P - Purchase,$18.43,2500,10000,+33%,"+$46,075",,,,,CSII
+3,,2022-02-09 16:42:31,2022-02-08,CSII,Robb Rhonda J.,COO,A - Grant,$0.00,5477,169581,+3%,+$0,,,,,CSII
+4,,2022-02-09 16:42:31,2022-02-07,CSII,Robb Rhonda J.,COO,P - Purchase,$18.72,1567,169581,+1%,"+$29,326",,,,,CSII
+5,,2022-02-09 16:35:52,2022-02-08,CSII,Whitescarver David,"VP of Corp. Dev., IP",A - Grant,$0.00,5477,63264,+9%,+$0,,,,,CSII
+6,,2022-02-09 16:32:58,2022-02-08,CSII,Hastings John M.,"VP Manufacturing, Operations",A - Grant,$0.00,5477,55280,+11%,+$0,,,,,CSII
+7,,2022-02-09 16:30:38,2022-02-08,CSII,Egeland Ryan,Chief Medical Officer,A - Grant,$0.00,5477,76180,+8%,+$0,,,,,CSII
+8,,2022-02-09 16:27:00,2022-02-08,CSII,Sedo Sandra,Chief Compliance Officer,A - Grant,$0.00,5477,81346,+7%,+$0,,,,,CSII
+9,,2022-02-09 16:25:17,2022-02-08,CSII,Rosenstein Alexander,"GC, Corp. Sec.",A - Grant,$0.00,5477,100749,+6%,+$0,,,,,CSII
+10,,2022-02-09 16:20:42,2022-02-08,CSII,Points Jeffrey S.,CFO,A - Grant,$0.00,5477,106312,+5%,+$0,,,,,CSII
+11,,2022-02-09 16:20:42,2022-02-08,CSII,Points Jeffrey S.,CFO,P - Purchase,$18.20,2000,106312,+2%,"+$36,400",,,,,CSII
+12,D,2022-02-09 16:15:36,2022-02-08,CSII,Ward Scott R.,"COB, CEO",A - Grant,$0.00,5477,577713,+1%,+$0,,,,,CSII
+13,D,2022-02-09 16:15:36,2022-02-07,CSII,Ward Scott R.,"COB, CEO",P - Purchase,$18.52,2500,577713,0%,"+$46,293",,,,,CSII
+14,D,2021-11-17 16:36:20,2021-11-15,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,1222,30340,+4%,+$0,,,,,CSII
+15,,2021-11-16 19:29:52,2021-11-12,CSII,Whitescarver David,"VP of Corp. Dev., IP",F - Tax,$27.20,-429,57787,-1%,"-$11,669",,,,,CSII
+16,,2021-11-16 19:29:23,2021-11-12,CSII,Sedo Sandra,Chief Compliance Officer,F - Tax,$27.20,-429,75869,-1%,"-$11,669",,,,,CSII
+17,D,2021-08-31 19:35:56,2021-08-28,CSII,Ward Scott R.,"COB, CEO",F - Tax,$35.38,-4593,569736,-1%,"-$162,500",,,,,CSII
+18,,2021-08-31 19:35:34,2021-08-28,CSII,Sedo Sandra,Chief Compliance Officer,F - Tax,$35.38,-486,76298,-1%,"-$17,195",,,,,CSII
+19,,2021-08-31 19:35:11,2021-08-28,CSII,Rosenstein Alexander,"GC, Corp. Sec.",F - Tax,$35.38,-681,95227,-1%,"-$24,094",,,,,CSII
+20,,2021-08-31 19:34:41,2021-08-28,CSII,Robb Rhonda J.,COO,F - Tax,$35.38,-1589,162537,-1%,"-$56,219",,,,,CSII
+21,,2021-08-31 19:34:19,2021-08-28,CSII,Points Jeffrey S.,CFO,F - Tax,$35.38,-778,98835,-1%,"-$27,526",,,,,CSII
+22,,2021-08-23 18:57:44,2021-08-19,CSII,Whitescarver David,"VP of Corp. Dev., IP",D - Sale to issuer,$0.00,-1015,58216,-2%,-$0,,,,,CSII
+23,,2021-08-23 18:57:44,2021-08-19,CSII,Whitescarver David,"VP of Corp. Dev., IP",F - Tax,$36.18,-1009,58216,-2%,"-$36,506",,,,,CSII
+24,D,2021-08-23 18:57:04,2021-08-19,CSII,Ward Scott R.,"COB, CEO",D - Sale to issuer,$0.00,-27842,574329,-5%,-$0,,,,,CSII
+25,D,2021-08-23 18:57:04,2021-08-19,CSII,Ward Scott R.,"COB, CEO",F - Tax,$36.18,-27637,574329,-5%,"-$999,907",,,,,CSII
+26,,2021-08-23 18:56:39,2021-08-19,CSII,Sedo Sandra,Chief Compliance Officer,D - Sale to issuer,$0.00,-3683,76784,-5%,-$0,,,,,CSII
+27,,2021-08-23 18:56:39,2021-08-19,CSII,Sedo Sandra,Chief Compliance Officer,F - Tax,$36.18,-2925,76784,-4%,"-$105,827",,,,,CSII
+28,,2021-08-23 18:56:13,2021-08-19,CSII,Rosenstein Alexander,"GC, Corp. Sec.",D - Sale to issuer,$0.00,-4125,95908,-4%,-$0,,,,,CSII
+29,,2021-08-23 18:56:13,2021-08-19,CSII,Rosenstein Alexander,"GC, Corp. Sec.",F - Tax,$36.18,-4095,95908,-4%,"-$148,157",,,,,CSII
+30,,2021-08-23 18:52:11,2021-08-19,CSII,Robb Rhonda J.,COO,D - Sale to issuer,$0.00,-9630,164126,-6%,-$0,,,,,CSII
+31,,2021-08-23 18:52:11,2021-08-19,CSII,Robb Rhonda J.,COO,F - Tax,$36.18,-9560,164126,-6%,"-$345,881",,,,,CSII
+32,,2021-08-23 18:47:57,2021-08-19,CSII,Points Jeffrey S.,CFO,D - Sale to issuer,$0.00,-4714,99613,-5%,-$0,,,,,CSII
+33,,2021-08-23 18:47:57,2021-08-19,CSII,Points Jeffrey S.,CFO,F - Tax,$36.18,-4680,99613,-4%,"-$169,322",,,,,CSII
+34,,2021-08-23 18:46:29,2021-08-19,CSII,Hastings John M.,"VP Manufacturing, Operations",D - Sale to issuer,$0.00,-931,49596,-2%,-$0,,,,,CSII
+35,,2021-08-23 18:46:29,2021-08-19,CSII,Hastings John M.,"VP Manufacturing, Operations",F - Tax,$36.18,-925,49596,-2%,"-$33,467",,,,,CSII
+36,,2021-08-23 18:46:03,2021-08-19,CSII,Egeland Ryan,Chief Medical Officer,D - Sale to issuer,$0.00,-1107,70703,-2%,-$0,,,,,CSII
+37,,2021-08-23 18:46:03,2021-08-19,CSII,Egeland Ryan,Chief Medical Officer,F - Tax,$36.18,-1099,70703,-2%,"-$39,762",,,,,CSII
+38,,2021-08-17 17:02:23,2021-08-13,CSII,Hastings John M.,"VP Manufacturing, Operations",F - Tax,$36.07,-1436,51452,-3%,"-$51,797",,,,,CSII
+39,,2021-08-17 16:53:50,2021-08-13,CSII,Egeland Ryan,Chief Medical Officer,F - Tax,$36.07,-1820,72909,-2%,"-$65,647",,,,,CSII
+40,,2021-08-17 16:50:45,2021-08-13,CSII,Points Jeffrey S.,CFO,F - Tax,$36.07,-2102,109007,-2%,"-$75,819",,,,,CSII
+41,,2021-08-17 16:47:56,2021-08-13,CSII,Rempe Stephen J.,CHRO,F - Tax,$36.07,-1526,44201,-3%,"-$55,043",,,,,CSII
+42,,2021-08-17 16:46:58,2021-08-13,CSII,Robb Rhonda J.,COO,F - Tax,$36.07,-3316,183316,-2%,"-$119,608",,,,,CSII
+43,,2021-08-17 16:44:38,2021-08-13,CSII,Rosenstein Alexander,"GC, Corp. Sec.",F - Tax,$36.07,-1685,104128,-2%,"-$60,778",,,,,CSII
+44,,2021-08-17 16:43:40,2021-08-13,CSII,Sedo Sandra,Chief Compliance Officer,F - Tax,$36.07,-1108,83392,-1%,"-$39,966",,,,,CSII
+45,D,2021-08-17 16:42:02,2021-08-13,CSII,Ward Scott R.,"COB, CEO",F - Tax,$36.07,-10570,629808,-2%,"-$381,260",,,,,CSII
+46,,2021-08-17 16:41:38,2021-08-13,CSII,Whitescarver David,"VP of Corp. Dev., IP",F - Tax,$36.07,-1568,60240,-3%,"-$56,558",,,,,CSII
+47,D,2021-08-11 19:23:12,2021-08-09,CSII,Jain Sachin H.,Dir,A - Grant,$0.00,1447,1447,New,+$0,,,,,CSII
+48,D,2021-08-11 19:19:48,2021-08-09,CSII,Cohn William E.,Dir,A - Grant,$0.00,1447,5823,+33%,+$0,,,,,CSII
+49,D,2021-08-11 19:19:12,2021-08-09,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,1710,29118,+6%,+$0,,,,,CSII
+50,,2021-08-11 19:17:24,2021-08-09,CSII,Rempe Stephen J.,CHRO,A - Grant,$0.00,15714,45727,+52%,+$0,,,,,CSII
+51,,2021-08-11 19:16:44,2021-08-09,CSII,Whitescarver David,"VP of Corp. Dev., IP",A - Grant,$0.00,15976,61808,+35%,+$0,,,,,CSII
+52,,2021-08-11 19:16:23,2021-08-09,CSII,Hastings John M.,"VP Manufacturing, Operations",A - Grant,$0.00,16308,52709,+45%,+$0,,,,,CSII
+53,,2021-08-11 19:15:47,2021-08-09,CSII,Egeland Ryan,Chief Medical Officer,A - Grant,$0.00,17751,74729,+31%,+$0,,,,,CSII
+54,,2021-08-11 19:14:54,2021-08-09,CSII,Sedo Sandra,Chief Compliance Officer,A - Grant,$0.00,17339,84500,+26%,+$0,,,,,CSII
+55,,2021-08-11 19:14:29,2021-08-09,CSII,Rosenstein Alexander,"GC, Corp. Sec.",A - Grant,$0.00,22304,105813,+27%,+$0,,,,,CSII
+56,,2021-08-11 19:13:42,2021-08-09,CSII,Robb Rhonda J.,COO,A - Grant,$0.00,40588,186632,+28%,+$0,,,,,CSII
+57,,2021-08-11 19:12:59,2021-08-09,CSII,Points Jeffrey S.,CFO,A - Grant,$0.00,29407,111109,+36%,+$0,,,,,CSII
+58,,2021-08-11 19:12:59,2020-12-17,CSII,Points Jeffrey S.,CFO,G - Gift,$0.00,-475,111109,0%,-$0,,,,,CSII
+59,D,2021-08-11 19:12:40,2021-08-09,CSII,Ward Scott R.,"COB, CEO",A - Grant,$0.00,132563,640378,+26%,+$0,,,,,CSII
+60,,2021-05-14 16:20:49,2021-05-12,CSII,Rempe Stephen J.,CHRO,F - Tax,$35.17,-226,29764,-1%,"-$7,948",,,,,CSII
+61,D,2021-05-11 08:04:32,2021-05-10,CSII,Aronson Martha Goldberg,Dir,P - Purchase,$34.59,1500,7500,+25%,"+$51,885",,,,,CSII
+62,D,2021-05-11 08:03:23,2021-05-10,CSII,Ward Scott R.,"COB, CEO",P - Purchase,$34.41,1000,507815,0%,"+$34,410",,,,,CSII
+63,,2021-05-11 08:02:38,2021-05-10,CSII,Robb Rhonda J.,COO,P - Purchase,$34.67,1000,146044,+1%,"+$34,670",,,,,CSII
+64,,2021-05-11 08:02:03,2021-05-10,CSII,Points Jeffrey S.,CFO,P - Purchase,$34.20,1000,82177,+1%,"+$34,200",,,,,CSII
+65,,2021-02-17 16:39:20,2021-02-12,CSII,Robb Rhonda J.,COO,F - Tax,$43.36,-19152,145044,-12%,"-$830,431",,,,,CSII
+66,,2020-11-16 17:39:13,2020-11-12,CSII,Whitescarver David,"VP of Corp. Dev., IP",F - Tax,$35.76,-429,45256,-1%,"-$15,341",,,,,CSII
+67,,2020-11-16 17:38:47,2020-11-12,CSII,Sedo Sandra,Chief Compliance Officer,F - Tax,$35.76,-267,66822,0%,"-$9,548",,,,,CSII
+68,,2020-11-16 17:38:19,2020-11-12,CSII,Points Jeffrey S.,CFO,F - Tax,$35.76,-1022,81177,-1%,"-$36,547",,,,,CSII
+69,,2020-11-16 17:37:41,2020-11-12,CSII,Hastings John M.,"VP Manufacturing, Operations",F - Tax,$35.76,-1533,36401,-4%,"-$54,820",,,,,CSII
+70,,2020-11-16 17:37:07,2020-11-12,CSII,Egeland Ryan,Chief Medical Officer,F - Tax,$35.76,-1839,55604,-3%,"-$65,763",,,,,CSII
+71,,2020-09-01 16:49:16,2020-08-28,CSII,Robb Rhonda J.,COO,F - Tax,$32.62,-1589,164196,-1%,"-$51,833",,,,,CSII
+72,D,2020-09-01 16:48:27,2020-08-28,CSII,Ward Scott R.,"COB, CEO",F - Tax,$32.62,-4593,506815,-1%,"-$149,824",,,,,CSII
+73,,2020-09-01 16:47:57,2020-08-28,CSII,Rosenstein Alexander,"GC, Corp. Sec.",F - Tax,$32.62,-681,83464,-1%,"-$22,214",,,,,CSII
+74,,2020-09-01 16:47:32,2020-08-28,CSII,Sedo Sandra,Chief Compliance Officer,F - Tax,$32.62,-378,67089,-1%,"-$12,330",,,,,CSII
+75,,2020-09-01 16:47:08,2020-08-28,CSII,Points Jeffrey S.,CFO,F - Tax,$32.62,-778,82199,-1%,"-$25,378",,,,,CSII
+76,,2020-08-26 16:34:40,2020-08-24,CSII,Sedo Sandra,Chief Compliance Officer,S - Sale,$31.94,-2914,67467,-4%,"-$93,067",,,,,CSII
+77,,2020-08-26 16:34:19,2020-08-24,CSII,Rosenstein Alexander,"GC, Corp. Sec.",S - Sale,$31.94,-4692,84145,-5%,"-$149,853",,,,,CSII
+78,,2020-08-24 17:31:14,2020-08-20,CSII,Rosenstein Alexander,"GC, Corp. Sec.",D - Sale to issuer,$0.00,-4055,88837,-4%,-$0,,,,,CSII
+79,,2020-08-24 17:30:52,2020-08-20,CSII,Sedo Sandra,Chief Compliance Officer,D - Sale to issuer,$0.00,-3899,70381,-5%,-$0,,,,,CSII
+80,,2020-08-24 17:30:42,2020-08-20,CSII,Egeland Ryan,Chief Medical Officer,D - Sale to issuer,$0.00,-4421,57443,-7%,-$0,,,,,CSII
+81,,2020-08-24 17:30:42,2020-08-20,CSII,Egeland Ryan,Chief Medical Officer,F - Tax,$32.77,-3223,57443,-5%,"-$105,618",,,,,CSII
+82,,2020-08-24 17:30:14,2020-08-20,CSII,Hastings John M.,"VP Manufacturing, Operations",D - Sale to issuer,$0.00,-3684,37934,-9%,-$0,,,,,CSII
+83,,2020-08-24 17:30:14,2020-08-20,CSII,Hastings John M.,"VP Manufacturing, Operations",F - Tax,$32.77,-4318,37934,-10%,"-$141,501",,,,,CSII
+84,,2020-08-24 17:29:47,2020-08-20,CSII,Whitescarver David,"VP of Corp. Dev., IP",D - Sale to issuer,$0.00,-1907,45685,-4%,-$0,,,,,CSII
+85,,2020-08-24 17:29:47,2020-08-20,CSII,Whitescarver David,"VP of Corp. Dev., IP",F - Tax,$32.77,-2235,45685,-5%,"-$73,241",,,,,CSII
+86,D,2020-08-24 17:29:21,2020-08-20,CSII,Ward Scott R.,"COB, CEO",D - Sale to issuer,$0.00,-27882,511408,-5%,-$0,,,,,CSII
+87,D,2020-08-24 17:29:21,2020-08-20,CSII,Ward Scott R.,"COB, CEO",F - Tax,$32.77,-32676,511408,-6%,"-$1,070,793",,,,,CSII
+88,,2020-08-24 17:28:54,2020-08-20,CSII,Points Jeffrey S.,CFO,D - Sale to issuer,$0.00,-837,82977,-1%,-$0,,,,,CSII
+89,,2020-08-24 17:28:54,2020-08-20,CSII,Points Jeffrey S.,CFO,F - Tax,$32.77,-981,82977,-1%,"-$32,147",,,,,CSII
+90,,2020-08-20 16:48:11,2020-08-18,CSII,Sedo Sandra,Chief Compliance Officer,S - Sale,$32.89,-440,74280,-1%,"-$14,471",,,,,CSII
+91,D,2020-08-19 08:46:13,2020-08-17,CSII,Paulsen Erik,Dir,P - Purchase,$32.85,200,200,New,"+$6,570",,,,,CSII
+92,,2020-08-17 18:35:53,2020-08-13,CSII,Sedo Sandra,Chief Compliance Officer,F - Tax,$31.11,-336,74720,0%,"-$10,453",,,,,CSII
+93,,2020-08-17 18:35:25,2020-08-13,CSII,Robb Rhonda J.,COO,F - Tax,$31.11,-1321,165785,-1%,"-$41,096",,,,,CSII
+94,,2020-08-17 17:01:42,2020-08-13,CSII,Egeland Ryan,Chief Medical Officer,F - Tax,$31.11,-972,65087,-1%,"-$30,239",,,,,CSII
+95,,2020-08-17 17:01:05,2020-08-13,CSII,Rempe Stephen J.,CHRO,F - Tax,$31.11,-473,29990,-2%,"-$14,715",,,,,CSII
+96,,2020-08-17 16:58:20,2020-08-13,CSII,Hastings John M.,"VP Manufacturing, Operations",F - Tax,$31.11,-718,45936,-2%,"-$22,337",,,,,CSII
+97,,2020-08-17 16:57:51,2020-08-13,CSII,Whitescarver David,"VP of Corp. Dev., IP",F - Tax,$31.11,-1581,49827,-3%,"-$49,185",,,,,CSII
+98,,2020-08-17 16:57:04,2020-08-13,CSII,Rosenstein Alexander,"GC, Corp. Sec.",F - Tax,$31.11,-599,92892,-1%,"-$18,635",,,,,CSII
+99,,2020-08-17 16:57:04,2020-08-13,CSII,Rosenstein Alexander,"GC, Corp. Sec.",S - Sale,$31.96,-685,92892,-1%,"-$21,893",,,,,CSII
+100,,2020-08-17 16:56:38,2020-08-13,CSII,Points Jeffrey S.,CFO,F - Tax,$31.11,-1046,84795,-1%,"-$32,541",,,,,CSII
+101,D,2020-08-17 16:56:04,2020-08-13,CSII,Ward Scott R.,"COB, CEO",F - Tax,$31.11,-9366,571966,-2%,"-$291,376",,,,,CSII
+102,D,2020-08-17 11:31:56,2020-08-13,CSII,Aronson Martha Goldberg,Dir,P - Purchase,$32.22,3000,6000,+100%,"+$96,655",,,,,CSII
+103,,2020-08-17 11:31:16,2020-08-14,CSII,Robb Rhonda J.,COO,P - Purchase,$31.97,1000,167106,+1%,"+$31,969",,,,,CSII
+104,,2020-08-17 11:30:47,2020-08-13,CSII,Points Jeffrey S.,CFO,P - Purchase,$32.01,1000,85841,+1%,"+$32,010",,,,,CSII
+105,D,2020-08-17 11:30:13,2020-08-13,CSII,Ward Scott R.,"COB, CEO",P - Purchase,$32.19,1000,581332,0%,"+$32,187",,,,,CSII
+106,,2020-08-11 17:50:28,2020-08-07,CSII,Rempe Stephen J.,CHRO,A - Grant,$0.00,18644,30463,+158%,+$0,,,,,CSII
+107,,2020-08-11 17:47:20,2020-08-07,CSII,Whitescarver David,"VP of Corp. Dev., IP",A - Grant,$0.00,18956,51408,+58%,+$0,,,,,CSII
+108,,2020-08-11 17:46:50,2020-08-07,CSII,Hastings John M.,"VP Manufacturing, Operations",A - Grant,$0.00,17384,46654,+59%,+$0,,,,,CSII
+109,,2020-08-11 17:46:16,2020-08-07,CSII,Egeland Ryan,Chief Medical Officer,A - Grant,$0.00,20660,66059,+46%,+$0,,,,,CSII
+110,,2020-08-11 17:42:11,2020-08-07,CSII,Sedo Sandra,Chief Compliance Officer,A - Grant,$0.00,20574,75056,+38%,+$0,,,,,CSII
+111,,2020-08-11 17:41:29,2020-08-07,CSII,Rosenstein Alexander,"GC, Corp. Sec.",A - Grant,$0.00,26464,94176,+39%,+$0,,,,,CSII
+112,,2020-08-11 17:39:35,2020-08-07,CSII,Robb Rhonda J.,COO,A - Grant,$0.00,48631,166106,+41%,+$0,,,,,CSII
+113,,2020-08-11 17:38:52,2020-08-07,CSII,Points Jeffrey S.,CFO,A - Grant,$0.00,34228,84841,+68%,+$0,,,,,CSII
+114,D,2020-08-11 17:38:19,2020-08-07,CSII,Ward Scott R.,"COB, CEO",A - Grant,$0.00,155064,580332,+36%,+$0,,,,,CSII
+115,D,2020-08-11 17:13:26,2020-08-07,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,2090,27408,+8%,+$0,,,,,CSII
+116,D,2020-08-11 17:12:56,2020-08-07,CSII,Cohn William E.,Dir,A - Grant,$0.00,1768,4376,+68%,+$0,,,,,CSII
+117,D,2020-08-11 17:11:16,2020-08-07,CSII,Stenbeck Stephen,Dir,A - Grant,$0.00,2154,3153,+216%,+$0,,,,,CSII
+118,,2020-02-14 16:15:59,2019-08-09,CSII,Points Jeffrey S.,CFO,G - Gift,$0.00,-1055,50613,-2%,-$0,,,,,CSII
+119,,2020-02-14 16:15:59,2020-02-12,CSII,Points Jeffrey S.,CFO,S - Sale,$42.18,-3000,50613,-6%,"-$126,536",,,,,CSII
+120,,2020-02-14 16:15:12,2020-02-12,CSII,Rosenstein Alexander,"GC, Corp. Sec.",G - Gift,$0.00,-709,67688,-1%,-$0,,,,,CSII
+121,,2020-02-14 16:15:12,2020-02-12,CSII,Rosenstein Alexander,"GC, Corp. Sec.",S - Sale,$42.18,-3500,67688,-5%,"-$147,627",,,,,CSII
+122,,2020-02-14 16:14:19,2020-02-12,CSII,Robb Rhonda J.,COO,F - Tax,$42.02,-3035,117475,-3%,"-$127,531",,,,,CSII
+123,,2020-02-14 16:14:19,2020-02-12,CSII,Robb Rhonda J.,COO,S - Sale,$42.29,-3600,117475,-3%,"-$152,246",,,,,CSII
+124,,2020-02-14 16:13:54,2020-02-12,CSII,Hastings John M.,"VP Manufacturing, Operations",S - Sale,$42.11,-5357,29173,-16%,"-$225,585",,,,,CSII
+125,D,2019-11-15 16:25:50,2019-11-13,CSII,Stenbeck Stephen,Dir,A - Grant,$0.00,999,999,New,+$0,,,,,CSII
+126,,2019-11-14 16:16:38,2019-11-12,CSII,Points Jeffrey S.,CFO,F - Tax,$43.94,-636,54668,-1%,"-$27,946",,,,,CSII
+127,,2019-11-14 16:16:07,2019-11-12,CSII,Egeland Ryan,Chief Medical Officer,F - Tax,$43.94,-1144,45399,-2%,"-$50,267",,,,,CSII
+128,,2019-11-14 16:15:49,2019-11-12,CSII,Hastings John M.,"VP Manufacturing, Operations",F - Tax,$43.94,-954,34352,-3%,"-$41,919",,,,,CSII
+129,,2019-11-06 17:51:28,2019-11-04,CSII,Sedo Sandra,Chief Compliance Officer,A - Grant,$0.00,2611,53590,+5%,+$0,,,,,CSII
+130,,2019-11-06 17:50:48,2019-11-04,CSII,Whitescarver David,"VP of Corp. Dev., IP",A - Grant,$0.00,2611,31531,+9%,+$0,,,,,CSII
+131,D,2019-09-05 16:50:59,2019-09-03,CSII,Blackey Brent G,Dir,M - OptEx,$0.00,2095,94332,+2%,+$0,,,,,CSII
+132,,2019-08-30 16:12:38,2019-08-28,CSII,Sedo Sandra,Chief Compliance Officer,F - Tax,$50.14,-378,50979,-1%,"-$18,953",,,,,CSII
+133,D,2019-08-30 16:11:54,2019-08-28,CSII,Ward Scott R.,"COB, CEO",F - Tax,$50.14,-4257,425268,-1%,"-$213,446",,,,,CSII
+134,,2019-08-30 16:11:29,2019-08-28,CSII,Robb Rhonda J.,COO,F - Tax,$50.14,-1473,124110,-1%,"-$73,856",,,,,CSII
+135,,2019-08-30 16:11:09,2019-08-28,CSII,Rosenstein Alexander,"GC, Corp. Sec.",F - Tax,$50.14,-631,71879,-1%,"-$31,638",,,,,CSII
+136,,2019-08-30 16:11:09,2019-08-29,CSII,Rosenstein Alexander,"GC, Corp. Sec.",S - Sale,$50.42,-6308,71879,-8%,"-$318,025",,,,,CSII
+137,,2019-08-30 16:10:48,2019-08-28,CSII,Points Jeffrey S.,CFO,F - Tax,$50.14,-484,55304,-1%,"-$24,268",,,,,CSII
+138,,2019-08-27 17:16:13,2019-08-23,CSII,Rosenstein Alexander,"GC, Corp. Sec.",D - Sale to issuer,$0.00,-771,78818,-1%,-$0,,,,,CSII
+139,,2019-08-27 17:15:50,2019-08-23,CSII,Points Jeffrey S.,CFO,D - Sale to issuer,$0.00,-160,55788,0%,-$0,,,,,CSII
+140,,2019-08-27 17:15:50,2019-08-23,CSII,Points Jeffrey S.,CFO,F - Tax,$48.22,-1180,55788,-2%,"-$56,900",,,,,CSII
+141,D,2019-08-27 17:15:21,2019-08-23,CSII,Ward Scott R.,"COB, CEO",D - Sale to issuer,$0.00,-4752,429525,-1%,-$0,,,,,CSII
+142,D,2019-08-27 17:15:21,2019-08-23,CSII,Ward Scott R.,"COB, CEO",F - Tax,$48.22,-52013,429525,-11%,"-$2,508,067",,,,,CSII
+143,D,2019-08-21 16:13:25,2019-08-19,CSII,Blackey Brent G,Dir,M - OptEx,$0.00,2541,92237,+3%,+$0,,,,,CSII
+144,,2019-08-19 16:36:33,2019-08-15,CSII,Rosenstein Alexander,"GC, Corp. Sec.",S - Sale,$47.04,-1136,79589,-1%,"-$53,439",,,,,CSII
+145,,2019-08-19 16:36:08,2019-08-15,CSII,Sedo Sandra,Chief Compliance Officer,S - Sale,$47.06,-882,51357,-2%,"-$41,507",,,,,CSII
+146,,2019-08-15 16:48:38,2019-08-13,CSII,Hastings John M.,"VP Manufacturing, Operations",F - Tax,$47.58,-210,35306,-1%,"-$9,992",,,,,CSII
+147,,2019-08-15 16:46:54,2019-08-13,CSII,Egeland Ryan,VP of Medical Affairs,F - Tax,$47.58,-256,46543,-1%,"-$12,180",,,,,CSII
+148,,2019-08-15 16:46:09,2019-08-13,CSII,Points Jeffrey S.,CFO,F - Tax,$47.58,-524,57128,-1%,"-$24,932",,,,,CSII
+149,D,2019-08-15 16:45:49,2019-08-13,CSII,Ward Scott R.,"COB, CEO",F - Tax,$47.58,-6794,486290,-1%,"-$323,259",,,,,CSII
+150,,2019-08-15 16:45:27,2019-08-13,CSII,Whitescarver David,"VP of Corp. Dev., IP",F - Tax,$47.58,-726,28920,-2%,"-$34,543",,,,,CSII
+151,D,2019-08-13 17:17:40,2019-08-09,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,1810,25318,+8%,+$0,,,,,CSII
+152,D,2019-08-13 17:16:52,2019-08-09,CSII,Cohn William E.,Dir,A - Grant,$0.00,1171,2608,+81%,+$0,,,,,CSII
+153,,2019-08-13 17:11:42,2019-08-09,CSII,Whitescarver David,"VP of Corp. Dev., IP",A - Grant,$0.00,10044,29646,+51%,+$0,,,,,CSII
+154,,2019-08-13 17:11:08,2019-08-09,CSII,Hastings John M.,"VP Manufacturing, Operations",A - Grant,$0.00,9212,35516,+35%,+$0,,,,,CSII
+155,,2019-08-13 17:10:45,2019-08-09,CSII,Egeland Ryan,VP of Medical Affairs,A - Grant,$0.00,13684,46799,+41%,+$0,,,,,CSII
+156,,2019-08-13 17:10:19,2019-08-09,CSII,Sedo Sandra,Chief Compliance Officer,A - Grant,$0.00,13164,52239,+34%,+$0,,,,,CSII
+157,,2019-08-13 17:09:50,2019-08-09,CSII,Rosenstein Alexander,"GC, Corp. Sec.",A - Grant,$0.00,14607,80725,+22%,+$0,,,,,CSII
+158,,2019-08-13 17:09:23,2019-08-09,CSII,Robb Rhonda J.,COO,A - Grant,$0.00,32210,125583,+34%,+$0,,,,,CSII
+159,,2019-08-13 17:08:51,2019-08-09,CSII,Points Jeffrey S.,CFO,A - Grant,$0.00,17003,57652,+42%,+$0,,,,,CSII
+160,D,2019-08-13 17:08:22,2019-08-09,CSII,Ward Scott R.,"COB, CEO",A - Grant,$0.00,102704,493084,+26%,+$0,,,,,CSII
+161,,2018-11-14 16:43:59,2018-11-12,CSII,Points Jeffrey S.,CFO,F - Tax,$30.15,-984,41212,-2%,"-$29,668",,,,,CSII
+162,D,2018-11-05 07:37:08,2018-11-01,CSII,Aronson Martha Goldberg,Dir,P - Purchase,$28.72,3000,3000,New,"+$86,153",,,,,CSII
+163,D,2018-09-05 16:15:59,2018-09-01,CSII,Blackey Brent G,Dir,M - OptEx,$0.00,2855,97196,+3%,+$0,,,,,CSII
+164,D,2018-08-30 16:33:22,2018-08-28,CSII,Cohn William E.,Dir,A - Grant,$0.00,1437,1437,New,+$0,,,,,CSII
+165,D,2018-08-30 16:32:48,2018-08-28,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,1960,23508,+9%,+$0,,,,,CSII
+166,D,2018-08-30 16:32:23,2018-08-28,CSII,Bartos Scott A.,Dir,A - Grant,$0.00,1699,1699,New,+$0,,,,,CSII
+167,D,2018-08-30 16:31:19,2018-08-28,CSII,Blackey Brent G,Dir,A - Grant,$0.00,876,94341,+1%,+$0,,,,,CSII
+168,D,2018-08-30 16:22:36,2018-08-28,CSII,Ward Scott R.,"CEO, Pres",A - Grant,$0.00,112018,390380,+40%,+$0,,,,,CSII
+169,,2018-08-30 16:17:37,2018-08-28,CSII,Points Jeffrey S.,CFO,A - Grant,$0.00,18967,42196,+82%,+$0,,,,,CSII
+170,,2018-08-30 16:17:05,2018-08-28,CSII,Robb Rhonda J.,COO,A - Grant,$0.00,38747,96887,+67%,+$0,,,,,CSII
+171,,2018-08-30 16:16:41,2018-08-28,CSII,Gillund Laura,Chief Talent Officer,A - Grant,$0.00,16492,104197,+19%,+$0,,,,,CSII
+172,,2018-08-30 16:16:10,2018-08-28,CSII,Rosenstein Alexander,"GC, Corp. Sec.",A - Grant,$0.00,16596,66065,+34%,+$0,,,,,CSII
+173,,2018-08-30 16:15:47,2018-08-28,CSII,Sedo Sandra,Chief Compliance Officer,A - Grant,$0.00,14819,37453,+65%,+$0,,,,,CSII
+174,D,2018-08-29 16:11:18,2018-08-29,CSII,Ward Scott R.,"CEO, Pres",P - Purchase,$38.39,2500,278362,+1%,"+$95,972",,,,,CSII
+175,,2018-08-21 16:24:34,2018-08-17,CSII,Points Jeffrey S.,CFO,S - Sale,$37.54,-971,23229,-4%,"-$36,455",,,,,CSII
+176,,2018-08-21 16:24:13,2018-08-17,CSII,Rosenstein Alexander,"GC, Corp. Secy",S - Sale,$37.56,-1344,49469,-3%,"-$50,476",,,,,CSII
+177,,2018-08-21 16:23:52,2018-08-17,CSII,Gillund Laura,Chief Talent Officer,S - Sale,$37.56,-2147,87705,-2%,"-$80,632",,,,,CSII
+178,,2018-08-21 16:23:31,2018-08-17,CSII,Sedo Sandra,Chief Compliance Officer,S - Sale,$37.52,-862,22634,-4%,"-$32,343",,,,,CSII
+179,D,2018-08-15 16:09:35,2018-08-13,CSII,Ward Scott R.,"CEO, Pres",F - Tax,$37.24,-6674,275862,-2%,"-$248,540",,,,,CSII
+180,,2018-05-22 16:05:59,2018-05-18,CSII,Points Jeffrey S.,CFO,S - Sale,$30.09,-278,24200,-1%,"-$8,366",,,,,CSII
+181,,2018-05-22 16:05:38,2018-05-18,CSII,Rosenstein Alexander,"GC, Corp. Secy",S - Sale,$30.11,-190,50813,0%,"-$5,721",,,,,CSII
+182,D,2018-05-17 16:41:21,2018-05-15,CSII,Bartos Scott A.,Dir,S - Sale+OE,$28.89,-4972,0,-100%,"-$143,617",,,,,CSII
+183,D,2018-05-08 16:31:23,2018-05-04,CSII,Blackey Brent G,Dir,S - Sale+OE,$26.73,-16264,93465,-15%,"-$434,737",,,,,CSII
+184,,2018-01-30 16:34:43,2018-01-26,CSII,Robb Rhonda J.,COO,A - Grant,$0.00,58138,58138,New,+$0,,,,,CSII
+185,,2017-11-17 16:11:54,2017-11-15,CSII,Rosenstein Alexander,"GC, Corp. Secy",S - Sale,$23.41,-569,51003,-1%,"-$13,318",,,,,CSII
+186,D,2017-09-14 16:25:24,2017-09-12,CSII,Blackey Brent G,Dir,M - OptEx,$7.90,38820,109729,+55%,"+$306,678",,,,,CSII
+187,DM,2017-09-01 16:40:32,2017-08-30,CSII,Brown Edward M,Dir,S - Sale+OE,$29.16,-20000,107421,-16%,"-$583,278",,,,,CSII
+188,,2017-08-21 16:14:10,2017-08-17,CSII,Sedo Sandra,Chief Compliance Officer,S - Sale,$30.45,-473,23496,-2%,"-$14,402",,,,,CSII
+189,D,2017-08-21 16:13:47,2017-08-17,CSII,Ward Scott R.,"CEO, Pres",S - Sale+OE,$30.41,-5529,282536,-2%,"-$168,134",,,,,CSII
+190,,2017-08-21 16:13:26,2017-08-17,CSII,Gillund Laura,Chief Talent Officer,S - Sale,$30.42,-2350,88633,-3%,"-$71,481",,,,,CSII
+191,M,2017-08-17 16:50:18,2017-08-15,CSII,Rosenstein Alexander,"GC, Corp. Secy",S - Sale,$30.71,-979,51572,-2%,"-$30,069",,,,,CSII
+192,DM,2017-08-17 16:50:00,2017-08-15,CSII,Betterley Laurence L,CFO,S - Sale+OE,$30.74,-4443,221749,-2%,"-$136,589",,,,,CSII
+193,M,2017-08-17 16:49:27,2017-08-15,CSII,Kenny Kevin J.,COO,S - Sale,$30.74,-4733,151280,-3%,"-$145,495",,,,,CSII
+194,D,2017-08-09 16:40:03,2017-08-07,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,2417,21548,+13%,+$0,,,,,CSII
+195,D,2017-08-09 16:39:19,2017-08-07,CSII,Brown Edward M,Dir,A - Grant,$0.00,3384,127421,+3%,+$0,,,,,CSII
+196,,2017-08-09 16:37:38,2017-08-07,CSII,Sedo Sandra,Chief Compliance Officer,A - Grant,$0.00,17583,23969,+275%,+$0,,,,,CSII
+197,,2017-08-09 16:36:50,2017-08-07,CSII,Rosenstein Alexander,"GC, Corp. Secy",A - Grant,$0.00,18286,52551,+53%,+$0,,,,,CSII
+198,,2017-08-09 16:36:26,2017-08-07,CSII,Gillund Laura,Chief Talent Officer,A - Grant,$0.00,20151,90983,+28%,+$0,,,,,CSII
+199,,2017-08-09 16:35:35,2017-08-07,CSII,Kenny Kevin J.,COO,A - Grant,$0.00,49904,156013,+47%,+$0,,,,,CSII
+200,D,2017-08-09 16:35:06,2017-08-07,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,44010,226192,+24%,+$0,,,,,CSII
+201,D,2017-08-09 16:34:36,2017-08-07,CSII,Ward Scott R.,"CEO, Pres",A - Grant,$0.00,125727,288065,+77%,+$0,,,,,CSII
+202,D,2017-06-02 16:07:03,2017-05-31,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",M - OptEx,$9.40,20000,83989,+31%,"+$188,005",,,,,CSII
+203,D,2017-06-02 16:07:03,2017-05-31,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",S - Sale+OE,$29.98,-20000,83989,-19%,"-$599,660",,,,,CSII
+204,,2017-05-19 16:14:49,2017-05-17,CSII,Rosenstein Alexander,"GC, Corp. Secy",S - Sale,$32.30,-219,34265,-1%,"-$7,073",,,,,CSII
+205,D,2017-03-02 16:24:12,2017-02-28,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",M - OptEx,$7.90,8087,83387,+11%,"+$63,887",-1.0,-6.0,3.0,,CSII
+206,D,2017-03-02 16:24:12,2017-02-28,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",S - Sale+OE,$28.33,-8087,83387,-9%,"-$229,130",-1.0,-6.0,3.0,,CSII
+207,D,2017-03-02 16:23:39,2017-02-28,CSII,Blackey Brent G,Dir,M - OptEx,$7.90,6470,70909,+10%,"+$51,113",-1.0,-6.0,3.0,,CSII
+208,D,2017-03-01 16:47:11,2017-02-27,CSII,Betterley Laurence L,CFO,S - Sale+OE,$28.47,-7990,182182,-4%,"-$227,478",-3.0,-8.0,-3.0,,CSII
+209,D,2017-02-24 16:31:47,2017-02-22,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,130,19131,+1%,+$0,3.0,1.0,1.0,,CSII
+210,,2017-02-22 16:29:40,2017-02-17,CSII,Kenny Kevin J.,COO,S - Sale,$27.88,-539,105004,-1%,"-$15,028",0.0,3.0,-3.0,,CSII
+211,D,2016-12-02 16:28:38,2016-11-30,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",F - Tax,$24.19,-4133,83387,-5%,"-$99,977",2.0,7.0,3.0,,CSII
+212,D,2016-12-02 16:28:38,2016-11-30,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",M - OptEx,$12.15,8230,83387,+11%,"+$99,995",2.0,7.0,3.0,,CSII
+213,D,2016-11-21 16:40:59,2016-11-17,CSII,Betterley Laurence L,CFO,S - Sale+OE,$27.01,-20764,190172,-10%,"-$560,800",-2.0,-6.0,-2.0,,CSII
+214,D,2016-11-21 16:40:37,2016-11-18,CSII,Trigg Leslie,Dir,S - Sale+OE,$26.84,-7500,17282,-30%,"-$201,314",-2.0,-6.0,-2.0,,CSII
+215,,2016-11-21 16:40:15,2016-11-18,CSII,Rosenstein Alexander,"GC, Corp. Secy",S - Sale,$26.80,-529,34484,-2%,"-$14,176",-2.0,-6.0,-2.0,,CSII
+216,,2016-11-21 16:39:55,2016-11-18,CSII,Gillund Laura,Chief Talent Officer,S - Sale,$26.79,-1268,69541,-2%,"-$33,974",-2.0,-6.0,-2.0,,CSII
+217,DM,2016-11-21 16:39:35,2016-11-17,CSII,Brown Edward M,Dir,S - Sale+OE,$26.78,-10000,124037,-7%,"-$267,797",-2.0,-6.0,-2.0,,CSII
+218,,2016-11-17 16:07:12,2016-11-15,CSII,Kenny Kevin J.,COO,S - Sale,$26.01,-24441,105543,-19%,"-$635,737",0.0,-3.0,-3.0,,CSII
+219,DM,2016-11-16 16:53:19,2016-11-14,CSII,Brown Edward M,Dir,S - Sale+OE,$24.95,-10000,134037,-7%,"-$249,513",-1.0,-5.0,-3.0,,CSII
+220,D,2016-10-12 16:37:57,2016-10-10,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",M - OptEx,$8.83,30910,79290,+64%,"+$272,935",-1.0,-1.0,1.0,18.0,CSII
+221,D,2016-10-12 16:37:57,2016-10-10,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",S - Sale+OE,$25.07,-30910,79290,-28%,"-$775,028",-1.0,-1.0,1.0,18.0,CSII
+222,M,2016-09-21 12:28:45,2016-09-19,CSII,Camber Capital Management LLC,10%,S - Sale,$23.27,-1100000,3000000,-27%,"-$25,591,498",1.0,-3.0,-1.0,12.0,CSII
+223,D,2016-09-09 16:49:41,2016-09-07,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",M - OptEx,$8.83,5969,79290,+8%,"+$52,706",3.0,4.0,3.0,13.0,CSII
+224,D,2016-09-09 16:49:41,2016-09-07,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",S - Sale+OE,$25.02,-5969,79290,-7%,"-$149,368",3.0,4.0,3.0,13.0,CSII
+225,D,2016-09-02 16:26:21,2016-08-31,CSII,Blackey Brent G,Dir,M - OptEx,$0.00,2045,64439,+3%,+$0,1.0,-4.0,-4.0,11.0,CSII
+226,D,2016-08-30 16:30:14,2016-08-26,CSII,Betterley Laurence L,CFO,D - Sale to issuer,$0.00,-42095,210936,-17%,-$0,0.0,1.0,-5.0,18.0,CSII
+227,D,2016-08-30 16:29:48,2016-08-26,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",D - Sale to issuer,$0.00,-20835,79290,-21%,-$0,0.0,1.0,-5.0,18.0,CSII
+228,,2016-08-30 16:29:27,2016-08-26,CSII,Kenny Kevin J.,COO,D - Sale to issuer,$0.00,-38247,129984,-23%,-$0,0.0,1.0,-5.0,18.0,CSII
+229,,2016-08-30 16:28:05,2016-08-26,CSII,Rosenstein Alexander,"GC, Corp. Secy",D - Sale to issuer,$0.00,-3022,35013,-8%,-$0,0.0,1.0,-5.0,18.0,CSII
+230,,2016-08-30 16:25:46,2016-08-26,CSII,Gillund Laura,Chief Talent Officer,D - Sale to issuer,$0.00,-12008,70809,-14%,-$0,0.0,1.0,-5.0,18.0,CSII
+231,,2016-08-24 17:30:09,2016-08-22,CSII,Gillund Laura,Chief Talent Officer,S - Sale,$23.93,-1395,82817,-2%,"-$33,389",0.0,3.0,-1.0,16.0,CSII
+232,,2016-08-24 17:28:19,2016-08-22,CSII,Kenny Kevin J.,COO,S - Sale,$23.95,-3166,168231,-2%,"-$75,832",0.0,3.0,-1.0,16.0,CSII
+233,D,2016-08-24 17:27:48,2016-08-22,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",S - Sale+OE,$23.92,-2527,100125,-2%,"-$60,449",0.0,3.0,-1.0,16.0,CSII
+234,D,2016-08-24 17:27:28,2016-08-22,CSII,Betterley Laurence L,CFO,S - Sale+OE,$23.96,-3568,253031,-1%,"-$85,477",0.0,3.0,-1.0,16.0,CSII
+235,,2016-08-24 17:27:09,2016-08-22,CSII,Rosenstein Alexander,"GC, Corp. Secy",S - Sale,$23.82,-234,38035,-1%,"-$5,573",0.0,3.0,-1.0,16.0,CSII
+236,D,2016-08-23 16:24:35,2016-08-20,CSII,Trigg Leslie,Dir,M - OptEx,$0.00,2386,24782,+11%,+$0,-2.0,2.0,-1.0,13.0,CSII
+237,D,2016-08-19 16:16:17,2016-08-17,CSII,Koehn Paul A.,"SVP Manufacturing, Operations",S - Sale+OE,$22.17,-4000,102652,-4%,"-$88,697",6.0,5.0,3.0,29.0,CSII
+238,D,2016-08-18 17:30:36,2016-08-17,CSII,Brown Edward M,Dir,A - Grant,$0.00,1796,144037,+1%,+$0,0.0,5.0,7.0,26.0,CSII
+239,D,2016-08-18 17:30:36,2016-08-16,CSII,Brown Edward M,Dir,M - OptEx,$0.00,2045,144037,+1%,+$0,0.0,5.0,7.0,26.0,CSII
+240,D,2016-08-18 17:30:10,2016-08-17,CSII,Ward Scott R.,"CEO, Pres",A - Grant,$0.00,152805,162338,>999%,+$0,0.0,5.0,7.0,26.0,CSII
+241,D,2016-08-10 18:53:33,2016-08-08,CSII,Trigg Leslie,Dir,A - Grant,$0.00,3331,22396,+17%,+$0,1.0,4.0,15.0,23.0,CSII
+242,D,2016-08-10 18:53:08,2016-08-08,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,2855,93671,+3%,+$0,1.0,4.0,15.0,23.0,CSII
+243,D,2016-08-10 18:51:32,2016-08-08,CSII,Bartos Scott A.,Dir,A - Grant,$0.00,2855,4972,+135%,+$0,1.0,4.0,15.0,23.0,CSII
+244,D,2016-08-10 18:51:09,2016-08-08,CSII,Brown Edward M,Dir,A - Grant,$0.00,2855,140196,+2%,+$0,1.0,4.0,15.0,23.0,CSII
+245,,2016-08-10 18:50:05,2016-08-08,CSII,Gillund Laura,Chief Talent Officer,A - Grant,$0.00,28607,84212,+51%,+$0,1.0,4.0,15.0,23.0,CSII
+246,,2016-08-10 18:49:41,2016-08-08,CSII,Rosenstein Alexander,"GC, Corp. Secy",A - Grant,$0.00,25711,38269,+205%,+$0,1.0,4.0,15.0,23.0,CSII
+247,D,2016-08-10 18:49:10,2016-08-08,CSII,Koehn Paul A.,"SVP Quality, Operations",A - Grant,$0.00,31841,106652,+43%,+$0,1.0,4.0,15.0,23.0,CSII
+248,D,2016-08-10 18:49:10,2015-02-26,CSII,Koehn Paul A.,"SVP Quality, Operations",S - Sale+OE,$38.79,-956,106652,-1%,"-$37,080",1.0,4.0,15.0,23.0,CSII
+249,,2016-08-10 18:48:36,2016-08-08,CSII,Kenny Kevin J.,COO,A - Grant,$0.00,65492,171397,+62%,+$0,1.0,4.0,15.0,23.0,CSII
+250,D,2016-08-10 18:48:09,2016-08-08,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,64333,256599,+33%,+$0,1.0,4.0,15.0,23.0,CSII
+251,D,2016-06-01 16:25:42,2016-05-31,CSII,Trigg Leslie,Dir,M - OptEx,$0.00,215,19065,+1%,+$0,-2.0,4.0,5.0,44.0,CSII
+252,D,2016-06-01 16:25:42,2015-02-03,CSII,Trigg Leslie,Dir,S - Sale+OE,$33.86,-3500,19065,-16%,"-$118,516",-2.0,4.0,5.0,44.0,CSII
+253,,2016-02-25 16:37:37,2016-02-23,CSII,Camber Capital Management LLC,10%,P - Purchase,$7.55,250000,4100000,+6%,"+$1,888,725",3.0,14.0,17.0,203.0,CSII
+254,D,2016-01-25 17:03:49,2016-01-25,CSII,Ward Scott R.,"Interim CEO, Pres",P - Purchase,$9.30,2700,9533,+40%,"+$25,110",1.0,-7.0,-16.0,114.0,CSII
+255,D,2015-10-13 07:51:31,2015-10-08,CSII,Martin David,"Pres, CEO",M - OptEx,$8.75,19000,481607,+4%,"+$166,250",-2.0,4.0,3.0,-4.0,CSII
+256,A,2015-10-09 16:09:52,2015-08-27,CSII,Thatcher Robert J.,Chief Healthcare Policy Off'r,D - Sale to issuer,$0.00,-5480,132763,-4%,-$0,-3.0,-8.0,3.0,-11.0,CSII
+257,A,2015-10-09 16:09:01,2015-08-27,CSII,Martin David,"Pres, CEO",D - Sale to issuer,$0.00,-18957,480203,-4%,-$0,-3.0,-8.0,3.0,-11.0,CSII
+258,A,2015-10-09 16:07:56,2015-08-27,CSII,Koehn Paul A.,"SVP Quality, Operations",D - Sale to issuer,$0.00,-5271,79168,-6%,-$0,-3.0,-8.0,3.0,-11.0,CSII
+259,A,2015-10-09 16:06:37,2015-08-27,CSII,Betterley Laurence L,CFO,D - Sale to issuer,$0.00,-9288,201863,-4%,-$0,-3.0,-8.0,3.0,-11.0,CSII
+260,A,2015-10-09 16:05:16,2015-08-27,CSII,Kenny Kevin J.,COO,D - Sale to issuer,$0.00,-6264,111194,-5%,-$0,-3.0,-8.0,3.0,-11.0,CSII
+261,D,2015-10-06 20:48:51,2015-10-02,CSII,Thatcher Robert J.,Chief Healthcare Policy Off'r,M - OptEx,$12.37,64700,126978,+104%,"+$800,339",-1.0,-14.0,-8.0,-19.0,CSII
+262,D,2015-10-06 20:48:51,2015-10-02,CSII,Thatcher Robert J.,Chief Healthcare Policy Off'r,S - Sale+OE,$16.31,-64700,126978,-34%,"-$1,055,082",-1.0,-14.0,-8.0,-19.0,CSII
+263,D,2015-09-03 16:41:14,2015-09-01,CSII,Thatcher Robert J.,Chief Healthcare Policy Off'r,S - Sale+OE,$23.85,-5282,126978,-4%,"-$125,980",-1.0,4.0,-27.0,-55.0,CSII
+264,,2015-09-03 16:40:49,2015-09-01,CSII,Kenny Kevin J.,COO,S - Sale,$23.85,-5289,105330,-5%,"-$126,153",-1.0,4.0,-27.0,-55.0,CSII
+265,D,2015-09-03 16:40:05,2015-09-01,CSII,Koehn Paul A.,"SVP Quality, Operations",S - Sale+OE,$23.86,-4946,73738,-6%,"-$118,031",-1.0,4.0,-27.0,-55.0,CSII
+266,D,2015-09-03 16:39:23,2015-09-01,CSII,Betterley Laurence L,CFO,S - Sale+OE,$23.96,-9597,191414,-5%,"-$229,911",-1.0,4.0,-27.0,-55.0,CSII
+267,DM,2015-09-03 16:38:43,2015-09-01,CSII,Martin David,"Pres, CEO",S - Sale+OE,$23.81,-19646,460868,-4%,"-$467,681",-1.0,4.0,-27.0,-55.0,CSII
+268,D,2015-08-31 16:51:30,2015-08-27,CSII,Martin David,"Pres, CEO",D - Sale to issuer,$0.00,-20696,480514,-4%,-$0,-3.0,-5.0,-37.0,-63.0,CSII
+269,D,2015-08-31 16:51:13,2015-08-27,CSII,Koehn Paul A.,"SVP Quality, Operations",D - Sale to issuer,$0.00,-5755,78684,-7%,-$0,-3.0,-5.0,-37.0,-63.0,CSII
+270,D,2015-08-31 16:49:28,2015-08-27,CSII,Thatcher Robert J.,Chief Healthcare Policy Off'r,D - Sale to issuer,$0.00,-5983,132260,-4%,-$0,-3.0,-5.0,-37.0,-63.0,CSII
+271,,2015-08-31 16:49:09,2015-08-27,CSII,Kenny Kevin J.,COO,D - Sale to issuer,$0.00,-6839,110619,-6%,-$0,-3.0,-5.0,-37.0,-63.0,CSII
+272,D,2015-08-31 16:48:52,2015-08-27,CSII,Betterley Laurence L,CFO,D - Sale to issuer,$0.00,-10140,201011,-5%,-$0,-3.0,-5.0,-37.0,-63.0,CSII
+273,M,2015-08-19 16:42:05,2015-08-17,CSII,Kenny Kevin J.,COO,S - Sale,$24.00,-3913,117458,-3%,"-$93,895",0.0,-5.0,-12.0,-64.0,CSII
+274,DM,2015-08-19 16:41:35,2015-08-17,CSII,Koehn Paul A.,"SVP Quality, Operations",S - Sale+OE,$23.99,-4402,84439,-5%,"-$105,619",0.0,-5.0,-12.0,-64.0,CSII
+275,DM,2015-08-19 16:40:34,2015-08-17,CSII,Betterley Laurence L,CFO,S - Sale+OE,$24.00,-8476,211151,-4%,"-$203,443",0.0,-5.0,-12.0,-64.0,CSII
+276,DM,2015-08-19 16:39:52,2015-08-17,CSII,Thatcher Robert J.,Chief Healthcare Policy Off'r,S - Sale+OE,$23.99,-2960,138243,-2%,"-$71,015",0.0,-5.0,-12.0,-64.0,CSII
+277,DM,2015-08-19 16:38:49,2015-08-17,CSII,Martin David,"Pres, CEO",S - Sale+OE,$23.99,-17688,501210,-3%,"-$424,391",0.0,-5.0,-12.0,-64.0,CSII
+278,D,2015-08-17 16:28:07,2015-08-13,CSII,Trigg Leslie,Dir,M - OptEx,$0.00,2749,22350,+14%,+$0,0.0,0.0,-2.0,-64.0,CSII
+279,D,2015-08-17 16:27:46,2015-08-13,CSII,Blackey Brent G,Dir,M - OptEx,$0.00,2749,62394,+5%,+$0,0.0,0.0,-2.0,-64.0,CSII
+280,D,2015-08-12 16:45:16,2015-08-10,CSII,Ward Scott R.,Dir,A - Grant,$0.00,4659,6833,+214%,+$0,4.0,2.0,1.0,-66.0,CSII
+281,D,2015-08-12 16:44:46,2015-08-10,CSII,Trigg Leslie,Dir,A - Grant,$0.00,2964,19601,+18%,+$0,4.0,2.0,1.0,-66.0,CSII
+282,D,2015-08-12 16:44:23,2015-08-10,CSII,Thatcher Robert J.,Chief Healthcare Policy Off'r,A - Grant,$0.00,40832,141203,+41%,+$0,4.0,2.0,1.0,-66.0,CSII
+283,D,2015-08-12 16:43:58,2015-08-10,CSII,Martin David,"Pres, CEO",A - Grant,$0.00,149430,518898,+40%,+$0,4.0,2.0,1.0,-66.0,CSII
+284,D,2015-08-12 16:43:32,2015-08-10,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,2541,90816,+3%,+$0,4.0,2.0,1.0,-66.0,CSII
+285,D,2015-08-12 16:43:07,2015-08-10,CSII,Koehn Paul A.,"SVP Quality, Operations",A - Grant,$0.00,27780,88841,+45%,+$0,4.0,2.0,1.0,-66.0,CSII
+286,,2015-08-12 16:42:42,2015-08-10,CSII,Kenny Kevin J.,COO,A - Grant,$0.00,50996,121371,+72%,+$0,4.0,2.0,1.0,-66.0,CSII
+287,D,2015-08-12 16:41:48,2015-08-10,CSII,Brown Edward M,Dir,A - Grant,$0.00,2541,137341,+2%,+$0,4.0,2.0,1.0,-66.0,CSII
+288,D,2015-08-12 16:40:59,2015-08-12,CSII,Blackey Brent G,Dir,P - Purchase,$22.74,2500,59645,+4%,"+$56,850",4.0,2.0,1.0,-66.0,CSII
+289,D,2015-08-12 16:40:37,2015-08-10,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,56127,219627,+34%,+$0,4.0,2.0,1.0,-66.0,CSII
+290,D,2015-08-12 16:40:09,2015-08-10,CSII,Bartos Scott A.,Dir,A - Grant,$0.00,2117,2117,New,+$0,4.0,2.0,1.0,-66.0,CSII
+291,D,2015-08-11 16:05:52,2015-08-07,CSII,Ward Scott R.,Dir,P - Purchase,$22.98,2174,2174,New,"+$49,959",3.0,5.0,2.0,-62.0,CSII
+292,D,2015-06-01 16:59:58,2015-05-28,CSII,Koehn Paul A.,"SVP Quality, Operations",S - Sale+OE,$27.86,-4389,60755,-7%,"-$122,271",1.0,1.0,-8.0,-43.0,CSII
+293,D,2015-05-05 17:01:10,2015-05-01,CSII,Blackey Brent G,Dir,P - Purchase,$29.38,2500,57145,+5%,"+$73,450",2.0,-3.0,-12.0,-62.0,CSII
+294,,2015-03-03 18:26:12,2015-02-27,CSII,Kenny Kevin J,COO,A - Grant,$0.00,3766,70375,+6%,+$0,-3.0,-6.0,3.0,-36.0,CSII
+295,D,2015-03-02 16:53:37,2015-02-26,CSII,Betterley Laurence L,CFO,S - Sale+OE,$38.00,-10000,163500,-6%,"-$380,000",0.0,-5.0,2.0,-37.0,CSII
+296,,2015-02-27 16:48:25,2015-02-25,CSII,Kenny Kevin J,COO,S - Sale,$37.00,-2294,66609,-3%,"-$84,878",1.0,-1.0,0.0,-38.0,CSII
+297,D,2015-02-27 16:48:01,2015-02-27,CSII,Martin David,"Pres, CEO",G - Gift,$0.00,-2271,369468,-1%,-$0,1.0,-1.0,0.0,-38.0,CSII
+298,D,2015-02-27 16:48:01,2015-02-25,CSII,Martin David,"Pres, CEO",M - OptEx,$8.83,20800,369468,+6%,"+$183,664",1.0,-1.0,0.0,-38.0,CSII
+299,D,2015-02-27 16:48:01,2015-02-25,CSII,Martin David,"Pres, CEO",S - Sale+OE,$37.02,-22800,369468,-6%,"-$844,079",1.0,-1.0,0.0,-38.0,CSII
+300,,2015-02-25 16:52:07,2015-02-23,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$35.51,-3833,68903,-5%,"-$136,120",3.0,1.0,1.0,-38.0,CSII
+301,D,2015-02-13 18:02:44,2015-02-11,CSII,Martin David,"Pres, CEO",S - Sale+OE,$36.55,-1000,373739,0%,"-$36,555",0.0,-1.0,5.0,-31.0,CSII
+302,D,2015-02-13 18:02:20,2015-02-11,CSII,Betterley Laurence L,CFO,S - Sale+OE,$36.25,-10211,173500,-6%,"-$370,194",0.0,-1.0,5.0,-31.0,CSII
+303,DM,2015-02-10 17:58:15,2015-02-06,CSII,Martin David,"Pres, CEO",S - Sale+OE,$35.85,-7500,374739,-2%,"-$268,890",-2.0,-2.0,-1.0,-36.0,CSII
+304,DM,2015-02-06 16:28:12,2015-02-04,CSII,Martin David,"Pres, CEO",S - Sale+OE,$34.96,-4500,382239,-1%,"-$157,301",0.0,0.0,1.0,-35.0,CSII
+305,D,2015-02-03 16:55:01,2015-01-30,CSII,Betterley Laurence L,CFO,S - Sale+OE,$35.25,-10825,183711,-6%,"-$381,540",1.0,3.0,8.0,-15.0,CSII
+306,,2015-02-02 16:32:43,2015-01-29,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$35.00,-4212,72736,-5%,"-$147,420",-1.0,2.0,10.0,-14.0,CSII
+307,,2014-11-20 16:26:59,2014-11-18,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$28.69,-4500,76948,-6%,"-$129,095",-1.0,5.0,5.0,-4.0,CSII
+308,D,2014-11-19 17:18:35,2014-11-17,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$28.68,-2185,64763,-3%,"-$62,671",2.0,2.0,7.0,-1.0,CSII
+309,D,2014-09-05 16:35:45,2014-09-03,CSII,Thatcher Robert J,Chief Healthcare Policy Off'r,S - Sale+OE,$28.85,-2791,99980,-3%,"-$80,525",1.0,-1.0,-8.0,29.0,CSII
+310,D,2014-09-05 16:35:20,2014-09-03,CSII,Martin David,"Pres, CEO",S - Sale+OE,$28.85,-10248,386739,-3%,"-$295,672",1.0,-1.0,-8.0,29.0,CSII
+311,D,2014-09-05 16:33:39,2014-09-03,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$28.85,-2612,66948,-4%,"-$75,361",1.0,-1.0,-8.0,29.0,CSII
+312,,2014-09-05 16:33:09,2014-09-03,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$28.85,-3528,81448,-4%,"-$101,789",1.0,-1.0,-8.0,29.0,CSII
+313,D,2014-09-05 16:32:04,2014-09-03,CSII,Betterley Laurence L,CFO,S - Sale+OE,$28.82,-4674,194067,-2%,"-$134,685",1.0,-1.0,-8.0,29.0,CSII
+314,D,2014-09-02 16:03:51,2014-08-28,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$28.82,-1315,69560,-2%,"-$37,901",-1.0,-2.0,-19.0,32.0,CSII
+315,DM,2014-08-25 17:07:39,2014-08-21,CSII,Thatcher Robert J,Chief Healthcare Policy Off'r,S - Sale+OE,$29.06,-3225,102771,-3%,"-$93,726",1.0,-5.0,-14.0,23.0,CSII
+316,DM,2014-08-25 17:07:15,2014-08-21,CSII,Martin David,"Pres, CEO",S - Sale+OE,$29.03,-13957,396987,-3%,"-$405,135",1.0,-5.0,-14.0,23.0,CSII
+317,D,2014-08-25 17:06:51,2014-08-21,CSII,Lawlor Augustine,Dir,S - Sale+OE,$28.05,-361235,88275,-80%,"-$10,132,642",1.0,-5.0,-14.0,23.0,CSII
+318,DM,2014-08-25 17:06:27,2014-08-21,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$29.06,-2755,70875,-4%,"-$80,066",1.0,-5.0,-14.0,23.0,CSII
+319,M,2014-08-25 17:06:02,2014-08-21,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$29.09,-2914,84976,-3%,"-$84,774",1.0,-5.0,-14.0,23.0,CSII
+320,DM,2014-08-25 17:05:31,2014-08-21,CSII,Betterley Laurence L,CFO,S - Sale+OE,$29.02,-6578,198741,-3%,"-$190,901",1.0,-5.0,-14.0,23.0,CSII
+321,D,2014-08-20 17:52:01,2014-08-18,CSII,Thatcher Robert J,Chief Healthcare Policy Off'r,A - Grant,$0.00,22350,105996,+27%,+$0,0.0,2.0,-8.0,21.0,CSII
+322,D,2014-08-20 17:52:01,2014-08-19,CSII,Thatcher Robert J,Chief Healthcare Policy Off'r,S - Sale+OE,$29.28,-2537,105996,-2%,"-$74,281",0.0,2.0,-8.0,21.0,CSII
+323,D,2014-08-20 17:51:31,2014-08-18,CSII,Martin David,"Pres, CEO",A - Grant,$0.00,77299,410944,+23%,+$0,0.0,2.0,-8.0,21.0,CSII
+324,D,2014-08-20 17:51:31,2014-08-19,CSII,Martin David,"Pres, CEO",S - Sale+OE,$29.28,-11754,410944,-3%,"-$344,149",0.0,2.0,-8.0,21.0,CSII
+325,D,2014-08-20 17:51:03,2014-08-18,CSII,Koehn Paul A,"SVP Quality, Operations",A - Grant,$0.00,21493,73630,+41%,+$0,0.0,2.0,-8.0,21.0,CSII
+326,D,2014-08-20 17:51:03,2014-08-19,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$29.28,-2168,73630,-3%,"-$63,477",0.0,2.0,-8.0,21.0,CSII
+327,,2014-08-20 17:50:30,2014-08-18,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",A - Grant,$0.00,25544,87890,+41%,+$0,0.0,2.0,-8.0,21.0,CSII
+328,,2014-08-20 17:50:30,2014-08-19,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$29.28,-2117,87890,-2%,"-$61,984",0.0,2.0,-8.0,21.0,CSII
+329,D,2014-08-20 17:49:26,2014-08-18,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,37874,205319,+23%,+$0,0.0,2.0,-8.0,21.0,CSII
+330,D,2014-08-20 17:49:26,2014-08-19,CSII,Betterley Laurence L,CFO,S - Sale+OE,$29.28,-5725,205319,-3%,"-$167,623",0.0,2.0,-8.0,21.0,CSII
+331,D,2014-08-13 16:15:49,2014-08-11,CSII,Thatcher Robert J,Chief Healthcare Policy Off'r,A - Grant,$0.00,321,86183,0%,+$0,2.0,0.0,-6.0,22.0,CSII
+332,D,2014-08-13 16:12:43,2012-11-28,CSII,Martin David,"Pres, CEO",S - Sale+OE,$11.50,-900,344449,0%,"-$10,350",2.0,0.0,-6.0,22.0,CSII
+333,D,2014-08-13 16:11:03,2014-08-11,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,2045,449510,0%,+$0,2.0,0.0,-6.0,22.0,CSII
+334,D,2014-08-13 16:10:03,2014-08-11,CSII,Koehn Paul A,"SVP Quality, Operations",A - Grant,$0.00,321,54305,+1%,+$0,2.0,0.0,-6.0,22.0,CSII
+335,D,2014-07-18 16:11:23,2014-07-16,CSII,Thatcher Robert J,Chief Healthcare Policy Off'r,S - Sale+OE,$28.83,-2939,85172,-3%,"-$84,739",2.0,-1.0,5.0,2.0,CSII
+336,D,2014-07-18 16:10:29,2014-07-16,CSII,Martin David,"Pres, CEO",S - Sale+OE,$28.83,-10703,347549,-3%,"-$308,595",2.0,-1.0,5.0,2.0,CSII
+337,D,2014-07-18 16:09:34,2014-07-16,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$28.83,-2716,53446,-5%,"-$78,309",2.0,-1.0,5.0,2.0,CSII
+338,,2014-07-18 16:08:38,2014-07-16,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$28.83,-3007,63834,-4%,"-$86,700",2.0,-1.0,5.0,2.0,CSII
+339,D,2014-07-18 16:06:28,2014-07-16,CSII,Betterley Laurence L,CFO,S - Sale+OE,$28.83,-3984,172452,-2%,"-$114,869",2.0,-1.0,5.0,2.0,CSII
+340,AD,2014-07-02 18:31:30,2014-06-30,CSII,Betterley Laurence L,CFO,S - Sale+OE,$31.39,-16326,175945,-8%,"-$512,413",2.0,-8.0,-15.0,-8.0,CSII
+341,D,2014-07-02 16:07:28,2014-06-30,CSII,Betterley Laurence L,CFO,S - Sale+OE,$31.39,-16326,175945,-8%,"-$512,413",2.0,-8.0,-15.0,-8.0,CSII
+342,D,2014-05-07 16:32:18,2014-05-05,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,215,447465,0%,+$0,-3.0,-8.0,-1.0,0.0,CSII
+343,,2014-05-05 16:08:12,2014-05-01,CSII,Flaherty James E,Chief Administrative Officer,S - Sale,$30.00,-18189,114177,-14%,"-$545,670",-1.0,-7.0,-10.0,-6.0,CSII
+344,M,2014-04-28 16:07:26,2014-04-24,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$28.79,-15484,66841,-19%,"-$445,834",1.0,12.0,-4.0,-2.0,CSII
+345,D,2014-03-04 16:05:48,2014-02-28,CSII,Thatcher Robert J,Chief Healthcare Policy Off'r,A - Grant,$0.00,580,87639,+1%,+$0,-1.0,-6.0,-9.0,-21.0,CSII
+346,D,2014-03-04 16:04:56,2014-02-28,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$35.55,-3500,55794,-6%,"-$124,425",-1.0,-6.0,-9.0,-21.0,CSII
+347,D,2014-03-03 16:02:51,2014-02-27,CSII,Betterley Laurence L,CFO,S - Sale+OE,$35.11,-10000,192271,-5%,"-$351,097",2.0,-2.0,-9.0,-18.0,CSII
+348,DM,2014-02-24 17:09:21,2014-02-20,CSII,Martin David,"Pres, CEO",M - OptEx,$8.83,29200,358252,+9%,"+$257,836",-3.0,-3.0,-10.0,-19.0,CSII
+349,DM,2014-02-24 17:09:21,2014-02-20,CSII,Martin David,"Pres, CEO",S - Sale+OE,$37.31,-29200,358252,-8%,"-$1,089,535",-3.0,-3.0,-10.0,-19.0,CSII
+350,D,2014-02-24 16:12:03,2014-02-20,CSII,Trigg Leslie,Dir,S - Sale+OE,$30.40,-216,16637,-1%,"-$6,566",-3.0,-3.0,-10.0,-19.0,CSII
+351,D,2014-02-24 16:12:03,2014-02-20,CSII,Trigg Leslie,Dir,X - OptEx,$8.83,745,16637,-4%,"$6,578",-3.0,-3.0,-10.0,-19.0,CSII
+352,M,2014-02-21 17:08:58,2014-02-19,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$36.02,-6779,82325,-8%,"-$244,212",-1.0,-4.0,-7.0,-20.0,CSII
+353,D,2014-02-20 16:07:13,2014-02-18,CSII,Nelson Glen D,Dir,X - OptEx,$8.83,509287,1399345,-27%,"$4,497,004",0.0,-4.0,-6.0,-20.0,CSII
+354,D,2014-02-06 16:05:07,2014-02-04,CSII,Thatcher Robert J,EVP,X - OptEx,$8.83,3045,87059,-3%,"$26,887",-1.0,4.0,5.0,-13.0,CSII
+355,D,2014-02-03 16:06:26,2014-01-30,CSII,Martin David,"Pres, CEO",M - OptEx,$8.83,50000,358252,+16%,"+$441,500",-1.0,-3.0,7.0,-20.0,CSII
+356,D,2014-02-03 16:06:26,2014-01-30,CSII,Martin David,"Pres, CEO",S - Sale+OE,$35.12,-50000,358252,-12%,"-$1,755,760",-1.0,-3.0,7.0,-20.0,CSII
+357,D,2014-02-03 16:05:20,2014-01-30,CSII,Thatcher Robert J,EVP,M - OptEx,$8.83,35139,84014,+72%,"+$310,277",-1.0,-3.0,7.0,-20.0,CSII
+358,D,2014-02-03 16:05:20,2014-01-30,CSII,Thatcher Robert J,EVP,S - Sale+OE,$35.06,-35139,84014,-29%,"-$1,232,100",-1.0,-3.0,7.0,-20.0,CSII
+359,D,2013-11-26 16:23:49,2013-11-22,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$33.26,-440,59294,-1%,"-$14,635",1.0,-1.0,-2.0,-19.0,CSII
+360,D,2013-11-26 16:22:24,2013-11-22,CSII,Betterley Laurence L,CFO,S - Sale+OE,$33.28,-1091,202271,-1%,"-$36,308",1.0,-1.0,-2.0,-19.0,CSII
+361,D,2013-11-25 16:04:05,2013-11-21,CSII,Martin David,"Pres, CEO",M - OptEx,$8.83,95900,358252,+37%,"+$846,797",1.0,0.0,1.0,-19.0,CSII
+362,D,2013-11-25 16:04:05,2013-11-21,CSII,Martin David,"Pres, CEO",S - Sale+OE,$33.01,-95900,358252,-21%,"-$3,166,099",1.0,0.0,1.0,-19.0,CSII
+363,DM,2013-11-22 16:50:07,2013-11-15,CSII,Thatcher Robert J,EVP,M - OptEx,$8.44,21871,84014,+35%,"+$184,653",0.0,0.0,0.0,-19.0,CSII
+364,DM,2013-11-22 16:50:07,2013-11-15,CSII,Thatcher Robert J,EVP,S - Sale+OE,$32.82,-22384,84014,-21%,"-$734,640",0.0,0.0,0.0,-19.0,CSII
+365,M,2013-11-15 17:07:23,2013-11-13,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$29.86,-9314,89104,-9%,"-$278,131",-4.0,8.0,7.0,-16.0,CSII
+366,D,2013-11-13 16:34:01,2013-11-11,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$29.67,-280,59734,0%,"-$8,308",0.0,0.0,5.0,-14.0,CSII
+367,D,2013-11-13 16:34:01,2013-11-11,CSII,Koehn Paul A,"SVP Quality, Operations",X - OptEx,$8.83,940,59734,-2%,"$8,300",0.0,0.0,5.0,-14.0,CSII
+368,D,2013-11-12 16:12:28,2013-11-07,CSII,Blackey Brent G,Dir,X - OptEx,$8.83,22356,54645,-29%,"$197,403",2.0,1.0,9.0,-7.0,CSII
+369,D,2013-11-12 16:11:14,2013-11-07,CSII,Friedman John H,Dir,S - Sale+OE,$29.71,-90130,701687,-11%,"-$2,677,762",2.0,1.0,9.0,-7.0,CSII
+370,D,2013-11-12 16:11:14,2013-11-07,CSII,Friedman John H,Dir,X - OptEx,$8.83,303234,701687,-30%,"$2,677,556",2.0,1.0,9.0,-7.0,CSII
+371,DM,2013-11-05 16:33:21,2013-11-01,CSII,Thatcher Robert J,EVP,M - OptEx,$7.90,13268,84527,+19%,"+$104,817",-3.0,-1.0,9.0,-1.0,CSII
+372,DM,2013-11-05 16:33:21,2013-11-01,CSII,Thatcher Robert J,EVP,S - Sale+OE,$30.93,-13268,84527,-14%,"-$410,371",-3.0,-1.0,9.0,-1.0,CSII
+373,D,2013-11-05 16:32:20,2013-11-01,CSII,Martin David,"Pres, CEO",M - OptEx,$8.83,4100,358252,+1%,"+$36,203",-3.0,-1.0,9.0,-1.0,CSII
+374,D,2013-11-05 16:32:20,2013-11-01,CSII,Martin David,"Pres, CEO",S - Sale+OE,$31.02,-4100,358252,-1%,"-$127,202",-3.0,-1.0,9.0,-1.0,CSII
+375,DM,2013-11-01 16:21:40,2013-10-30,CSII,Flaherty James E,Chief Administrative Officer,M - OptEx,$11.08,34819,132366,+36%,"+$385,654",1.0,-7.0,8.0,2.0,CSII
+376,DM,2013-11-01 16:21:40,2013-10-30,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$30.35,-34819,132366,-21%,"-$1,056,804",1.0,-7.0,8.0,2.0,CSII
+377,D,2013-10-30 16:08:00,2013-10-28,CSII,Brown Edward M,Dir,X - OptEx,$8.83,44713,134800,-25%,"$394,816",6.0,6.0,18.0,9.0,CSII
+378,D,2013-10-30 16:06:59,2013-10-28,CSII,Blackey Brent G,Dir,X - OptEx,$8.83,2739,32289,-8%,"$24,185",6.0,6.0,18.0,9.0,CSII
+379,D,2013-10-25 16:54:06,2013-10-23,CSII,Thatcher Robert J,EVP,M - OptEx,$7.90,1274,84527,+2%,"+$10,065",2.0,4.0,15.0,-4.0,CSII
+380,D,2013-10-25 16:54:06,2013-10-23,CSII,Thatcher Robert J,EVP,S - Sale+OE,$28.19,-23426,84527,-22%,"-$660,355",2.0,4.0,15.0,-4.0,CSII
+381,DM,2013-10-24 16:52:17,2013-10-22,CSII,Martin David,"Pres, CEO",M - OptEx,$8.83,154080,358252,+75%,"+$1,360,526",1.0,-1.0,15.0,-1.0,CSII
+382,DM,2013-10-24 16:52:17,2013-10-22,CSII,Martin David,"Pres, CEO",S - Sale+OE,$27.73,-154080,358252,-30%,"-$4,272,175",1.0,-1.0,15.0,-1.0,CSII
+383,,2013-10-24 16:24:08,2013-10-22,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$27.31,-5608,98418,-5%,"-$153,154",1.0,-1.0,15.0,-1.0,CSII
+384,DM,2013-10-24 16:23:02,2013-10-22,CSII,Flaherty James E,Chief Administrative Officer,M - OptEx,$8.23,28312,132366,+27%,"+$232,960",1.0,-1.0,15.0,-1.0,CSII
+385,DM,2013-10-24 16:23:02,2013-10-22,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$26.85,-36682,132366,-22%,"-$984,842",1.0,-1.0,15.0,-1.0,CSII
+386,D,2013-10-18 17:19:51,2013-10-16,CSII,Thatcher Robert J,EVP,S - Sale+OE,$22.90,-23426,106679,-18%,"-$536,455",-1.0,26.0,34.0,14.0,CSII
+387,,2013-10-18 17:11:13,2013-10-16,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$22.95,-4182,104026,-4%,"-$95,977",-1.0,26.0,34.0,14.0,CSII
+388,D,2013-10-16 16:54:06,2013-10-14,CSII,Martin David,"Pres, CEO",M - OptEx,$8.83,21170,358252,+6%,"+$186,931",-3.0,15.0,29.0,12.0,CSII
+389,D,2013-10-16 16:54:06,2013-10-14,CSII,Martin David,"Pres, CEO",S - Sale+OE,$22.00,-21170,358252,-6%,"-$465,740",-3.0,15.0,29.0,12.0,CSII
+390,DM,2013-09-23 16:11:47,2013-09-19,CSII,Thatcher Robert J,EVP,S - Sale+OE,$20.28,-1274,130105,-1%,"-$25,838",0.0,1.0,14.0,63.0,CSII
+391,DM,2013-09-23 16:10:51,2013-09-19,CSII,Martin David,"Pres, CEO",S - Sale+OE,$20.24,-6702,358252,-2%,"-$135,648",0.0,1.0,14.0,63.0,CSII
+392,D,2013-09-23 16:09:52,2013-09-19,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$20.32,-1094,59074,-2%,"-$22,230",0.0,1.0,14.0,63.0,CSII
+393,M,2013-09-23 16:08:52,2013-09-19,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$20.27,-1321,108208,-1%,"-$26,783",0.0,1.0,14.0,63.0,CSII
+394,DM,2013-09-23 16:07:53,2013-09-19,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$20.28,-2066,140736,-1%,"-$41,889",0.0,1.0,14.0,63.0,CSII
+395,D,2013-09-23 16:06:55,2013-09-19,CSII,Betterley Laurence L,CFO,S - Sale+OE,$20.32,-2694,203362,-1%,"-$54,742",0.0,1.0,14.0,63.0,CSII
+396,AD,2013-09-23 16:05:28,2013-08-27,CSII,Nelson Glen D,Dir,X - OptEx,$9.28,171315,890058,-16%,"$1,589,803",0.0,1.0,14.0,63.0,CSII
+397,AD,2013-09-23 16:04:29,2013-08-12,CSII,Blackey Brent G,Dir,X - OptEx,$9.28,5797,29550,-16%,"$53,796",0.0,1.0,14.0,63.0,CSII
+398,DM,2013-09-19 17:42:39,2013-09-17,CSII,Thatcher Robert J,EVP,S - Sale+OE,$20.94,-1731,131379,-1%,"-$36,241",-2.0,-1.0,13.0,68.0,CSII
+399,DM,2013-09-19 17:41:43,2013-09-17,CSII,Martin David,"Pres, CEO",S - Sale+OE,$20.94,-8030,364954,-2%,"-$168,132",-2.0,-1.0,13.0,68.0,CSII
+400,DM,2013-09-19 17:40:45,2013-09-17,CSII,Koehn Paul A,"SVP Quality, Operations",S - Sale+OE,$20.94,-1732,60168,-3%,"-$36,259",-2.0,-1.0,13.0,68.0,CSII
+401,M,2013-09-19 17:39:49,2013-09-17,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$20.94,-1866,109529,-2%,"-$39,067",-2.0,-1.0,13.0,68.0,CSII
+402,DM,2013-09-19 17:38:53,2013-09-17,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$20.94,-2970,142802,-2%,"-$62,180",-2.0,-1.0,13.0,68.0,CSII
+403,DM,2013-09-19 17:37:56,2013-09-17,CSII,Betterley Laurence L,CFO,S - Sale+OE,$20.93,-4324,206056,-2%,"-$90,522",-2.0,-1.0,13.0,68.0,CSII
+404,D,2013-09-16 16:17:53,2013-08-27,CSII,Nelson Glen D,Dir,X - OptEx,$9.28,171315,890058,-16%,"$1,589,803",0.0,-5.0,5.0,67.0,CSII
+405,D,2013-09-16 16:16:56,2013-08-12,CSII,Blackey Brent G,Dir,X - OptEx,$9.28,5797,29550,-16%,"$53,796",0.0,-5.0,5.0,67.0,CSII
+406,D,2013-09-13 16:39:30,2013-09-11,CSII,Thatcher Robert J,EVP,A - Grant,$0.00,1552,133110,+1%,+$0,0.0,-4.0,1.0,61.0,CSII
+407,D,2013-09-13 16:38:31,2013-09-11,CSII,Martin David,"Pres, CEO",A - Grant,$0.00,6823,372984,+2%,+$0,0.0,-4.0,1.0,61.0,CSII
+408,D,2013-09-13 16:37:00,2013-09-11,CSII,Koehn Paul A,"SVP Quality, Operations",A - Grant,$0.00,1478,61900,+2%,+$0,0.0,-4.0,1.0,61.0,CSII
+409,,2013-09-13 16:32:21,2013-09-11,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",A - Grant,$0.00,1478,111395,+1%,+$0,0.0,-4.0,1.0,61.0,CSII
+410,D,2013-09-13 16:30:57,2013-09-11,CSII,Flaherty James E,Chief Administrative Officer,A - Grant,$0.00,2347,145772,+2%,+$0,0.0,-4.0,1.0,61.0,CSII
+411,D,2013-09-13 16:27:33,2013-09-11,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,3286,210380,+2%,+$0,0.0,-4.0,1.0,61.0,CSII
+412,D,2013-09-13 16:22:46,2013-09-10,CSII,Friedman John H,Dir,S - Sale+OE,$20.73,-48273,488583,-9%,"-$1,000,699",0.0,-4.0,1.0,61.0,CSII
+413,D,2013-09-13 16:22:46,2013-09-10,CSII,Friedman John H,Dir,X - OptEx,$9.28,107833,488583,-18%,"$1,000,690",0.0,-4.0,1.0,61.0,CSII
+414,D,2013-09-06 17:09:05,2013-09-04,CSII,Martin David,"Pres, CEO",A - Grant,$0.00,64312,366161,+21%,+$0,4.0,3.0,-1.0,66.0,CSII
+415,D,2013-09-06 17:07:49,2013-09-04,CSII,Koehn Paul A,"SVP Quality, Operations",A - Grant,$0.00,18054,60422,+43%,+$0,4.0,3.0,-1.0,66.0,CSII
+416,D,2013-09-06 17:06:48,2013-09-04,CSII,Flaherty James E,Chief Administrative Officer,A - Grant,$0.00,21096,143425,+17%,+$0,4.0,3.0,-1.0,66.0,CSII
+417,D,2013-09-06 17:05:59,2013-09-04,CSII,Thatcher Robert J,EVP,A - Grant,$0.00,18955,131558,+17%,+$0,4.0,3.0,-1.0,66.0,CSII
+418,,2013-09-06 17:05:10,2013-09-04,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",A - Grant,$0.00,22137,109917,+25%,+$0,4.0,3.0,-1.0,66.0,CSII
+419,D,2013-09-06 17:03:47,2013-09-04,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,29540,207094,+17%,+$0,4.0,3.0,-1.0,66.0,CSII
+420,DM,2013-08-30 16:23:05,2013-08-28,CSII,Thatcher Robert J,EVP,S - Sale+OE,$20.64,-5200,112603,-4%,"-$107,337",-1.0,-1.0,-2.0,70.0,CSII
+421,DM,2013-08-30 16:22:06,2013-08-28,CSII,Martin David,"Pres, CEO",S - Sale+OE,$20.64,-21552,301849,-7%,"-$444,900",-1.0,-1.0,-2.0,70.0,CSII
+422,DM,2013-08-30 16:21:04,2013-08-28,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$20.64,-4366,42368,-9%,"-$90,110",-1.0,-1.0,-2.0,70.0,CSII
+423,M,2013-08-30 16:20:09,2013-08-28,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$20.64,-1899,87780,-2%,"-$39,196",-1.0,-1.0,-2.0,70.0,CSII
+424,DM,2013-08-30 16:18:52,2013-08-28,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$20.64,-7165,122329,-6%,"-$147,898",-1.0,-1.0,-2.0,70.0,CSII
+425,DM,2013-08-30 16:17:12,2013-08-28,CSII,Betterley Laurence L,CFO,S - Sale+OE,$20.64,-8692,177554,-5%,"-$179,430",-1.0,-1.0,-2.0,70.0,CSII
+426,DM,2013-08-27 18:02:45,2013-08-23,CSII,Thatcher Robert J,EVP,S - Sale+OE,$21.07,-6568,117803,-5%,"-$138,393",-2.0,-2.0,-4.0,67.0,CSII
+427,DM,2013-08-27 18:01:47,2013-08-23,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$21.07,-5512,46734,-11%,"-$116,143",-2.0,-2.0,-4.0,67.0,CSII
+428,DM,2013-08-27 18:00:28,2013-08-23,CSII,Martin David,"Pres, CEO",S - Sale+OE,$21.07,-27229,323401,-8%,"-$573,738",-2.0,-2.0,-4.0,67.0,CSII
+429,M,2013-08-27 17:59:26,2013-08-23,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$21.07,-2396,89679,-3%,"-$50,486",-2.0,-2.0,-4.0,67.0,CSII
+430,DM,2013-08-27 17:58:14,2013-08-23,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$21.07,-9051,129494,-7%,"-$190,712",-2.0,-2.0,-4.0,67.0,CSII
+431,DM,2013-08-27 17:57:08,2013-08-23,CSII,Betterley Laurence L,CFO,S - Sale+OE,$21.07,-10982,186246,-6%,"-$231,400",-2.0,-2.0,-4.0,67.0,CSII
+432,DM,2013-08-19 16:17:19,2013-08-15,CSII,Thatcher Robert J,EVP,S - Sale+OE,$20.51,-743,124371,-1%,"-$15,242",1.0,3.0,3.0,76.0,CSII
+433,DM,2013-08-19 16:16:22,2013-08-15,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$20.52,-695,52246,-1%,"-$14,263",1.0,3.0,3.0,76.0,CSII
+434,M,2013-08-19 16:15:16,2013-08-15,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$20.54,-648,92075,-1%,"-$13,309",1.0,3.0,3.0,76.0,CSII
+435,DM,2013-08-19 16:13:47,2013-08-15,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$20.51,-1255,138545,-1%,"-$25,743",1.0,3.0,3.0,76.0,CSII
+436,DM,2013-08-19 16:12:07,2013-08-15,CSII,Betterley Laurence L,CFO,S - Sale+OE,$20.51,-1568,197228,-1%,"-$32,164",1.0,3.0,3.0,76.0,CSII
+437,D,2013-08-15 16:15:17,2013-08-13,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,2290,447250,+1%,+$0,0.0,0.0,2.0,67.0,CSII
+438,,2013-08-15 16:14:20,2013-08-13,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$21.20,-2529,92723,-3%,"-$53,609",0.0,0.0,2.0,67.0,CSII
+439,D,2013-08-15 16:12:17,2013-08-14,CSII,Flaherty James E,Chief Administrative Officer,M - OptEx,$9.82,24420,139800,+21%,"+$239,923",0.0,0.0,2.0,67.0,CSII
+440,DM,2013-08-15 16:12:17,2013-08-13,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$21.31,-4902,139800,-3%,"-$104,467",0.0,0.0,2.0,67.0,CSII
+441,D,2013-08-15 16:10:26,2013-08-13,CSII,Brown Edward M,Dir,A - Grant,$0.00,2749,90087,+3%,+$0,0.0,0.0,2.0,67.0,CSII
+442,D,2013-08-12 16:44:14,2013-08-08,CSII,Flaherty James E,Chief Administrative Officer,M - OptEx,$10.51,19649,120282,+20%,"+$206,447",-2.0,-6.0,-2.0,53.0,CSII
+443,D,2013-08-12 16:44:14,2013-08-08,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$22.27,-19649,120282,-14%,"-$437,672",-2.0,-6.0,-2.0,53.0,CSII
+444,D,2013-08-06 16:08:20,2013-08-02,CSII,Martin David,"Pres, CEO",M - OptEx,$8.83,38820,350630,+12%,"+$342,781",-1.0,10.0,4.0,66.0,CSII
+445,D,2013-08-01 16:12:34,2013-07-30,CSII,Thatcher Robert J,EVP,S - Sale+OE,$19.86,-3112,125114,-2%,"-$61,794",0.0,-1.0,5.0,74.0,CSII
+446,D,2013-08-01 16:11:08,2013-07-30,CSII,Martin David,"Pres, CEO",S - Sale+OE,$19.69,-11094,311810,-3%,"-$218,409",0.0,-1.0,5.0,74.0,CSII
+447,D,2013-08-01 16:10:09,2013-07-30,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$19.86,-2927,52941,-5%,"-$58,133",0.0,-1.0,5.0,74.0,CSII
+448,D,2013-08-01 16:09:05,2013-07-30,CSII,Betterley Laurence L,CFO,S - Sale+OE,$19.72,-6579,198796,-3%,"-$129,748",0.0,-1.0,5.0,74.0,CSII
+449,D,2013-07-26 16:12:03,2013-07-24,CSII,Thatcher Robert J,EVP,A - Grant,$0.00,1552,128226,+1%,+$0,-4.0,-6.0,1.0,38.0,CSII
+450,D,2013-07-26 16:10:58,2013-07-24,CSII,Martin David,"Pres, CEO",A - Grant,$0.00,6823,322904,+2%,+$0,-4.0,-6.0,1.0,38.0,CSII
+451,D,2013-07-26 16:09:39,2013-07-24,CSII,Koehn Paul A,"VP Quality, Operations",A - Grant,$0.00,1478,55868,+3%,+$0,-4.0,-6.0,1.0,38.0,CSII
+452,,2013-07-26 16:08:37,2013-07-24,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",A - Grant,$0.00,1478,95252,+2%,+$0,-4.0,-6.0,1.0,38.0,CSII
+453,D,2013-07-26 16:07:36,2013-07-24,CSII,Flaherty James E,Chief Administrative Officer,A - Grant,$0.00,2347,120282,+2%,+$0,-4.0,-6.0,1.0,38.0,CSII
+454,D,2013-07-26 16:06:17,2013-07-24,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,3286,205375,+2%,+$0,-4.0,-6.0,1.0,38.0,CSII
+455,D,2013-07-15 16:04:27,2011-11-21,CSII,Brown Edward M,Dir,S - Sale+OE,$9.20,-2000,68102,-3%,"-$18,407",0.0,1.0,3.0,47.0,CSII
+456,D,2013-06-05 16:19:42,2013-06-03,CSII,Martin David,"Pres, CEO",S - Sale+OE,$21.34,-10000,316081,-3%,"-$213,400",0.0,0.0,-2.0,53.0,CSII
+457,D,2013-06-05 16:18:32,2013-06-03,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$21.00,-10000,117935,-8%,"-$210,000",0.0,0.0,-2.0,53.0,CSII
+458,D,2013-06-04 16:11:32,2013-05-31,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$20.00,-2472,53711,-4%,"-$49,440",-1.0,-1.0,-3.0,52.0,CSII
+459,D,2013-06-03 16:52:03,2013-05-30,CSII,Martin David,"Pres, CEO",F - Tax,$19.92,-25099,326081,-7%,"-$499,972",1.0,-1.0,-2.0,60.0,CSII
+460,D,2013-06-03 16:52:03,2013-05-30,CSII,Martin David,"Pres, CEO",M - OptEx,$9.34,53530,326081,+20%,"+$499,994",1.0,-1.0,-2.0,60.0,CSII
+461,D,2013-05-30 16:53:37,2013-05-28,CSII,Flaherty James E,Chief Administrative Officer,M - OptEx,$11.26,22199,127935,+21%,"+$249,999",3.0,8.0,4.0,67.0,CSII
+462,,2013-05-30 16:38:47,2013-05-28,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$19.95,-4182,93112,-4%,"-$83,431",3.0,8.0,4.0,67.0,CSII
+463,D,2013-05-22 16:11:01,2013-05-20,CSII,Nelson Glen D,Dir,P - Purchase,$18.47,10250,718743,+1%,"+$189,359",7.0,12.0,16.0,64.0,CSII
+464,DM,2013-05-16 17:15:52,2013-05-14,CSII,Nelson Glen D,Dir,P - Purchase,$18.93,4753,708493,+1%,"+$89,981",0.0,-7.0,14.0,55.0,CSII
+465,DM,2013-05-13 16:39:55,2013-05-09,CSII,Nelson Glen D,Dir,P - Purchase,$18.11,18393,703740,+3%,"+$333,139",6.0,5.0,18.0,56.0,CSII
+466,,2013-04-26 16:25:03,2013-04-24,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$17.54,-7187,97294,-7%,"-$126,088",5.0,4.0,13.0,68.0,CSII
+467,D,2013-03-15 16:12:26,2013-03-13,CSII,Martin David,"Pres, CEO",S - Sale+OE,$20.34,-10000,297650,-3%,"-$203,400",-5.0,-1.0,-8.0,7.0,CSII
+468,DM,2013-03-13 16:08:09,2013-03-11,CSII,Martin David,"Pres, CEO",S - Sale+OE,$18.24,-26502,307650,-8%,"-$483,437",-4.0,-13.0,-7.0,6.0,CSII
+469,D,2013-03-13 16:07:45,2013-03-11,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$18.00,-20000,105736,-16%,"-$360,000",-4.0,-13.0,-7.0,6.0,CSII
+470,DM,2013-02-21 16:30:51,2013-02-19,CSII,Martin David,"Pres, CEO",S - Sale+OE,$16.15,-8637,334152,-3%,"-$139,488",4.0,4.0,24.0,32.0,CSII
+471,D,2013-02-04 16:45:48,2013-01-31,CSII,Martin David,"Pres, CEO",S - Sale+OE,$15.20,-10500,342789,-3%,"-$159,575",1.0,1.0,3.0,25.0,CSII
+472,D,2013-01-23 17:05:19,2013-01-18,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$15.00,-10000,125736,-7%,"-$150,000",-2.0,-3.0,5.0,44.0,CSII
+473,D,2013-01-15 16:35:55,2013-01-11,CSII,Martin David,"Pres, CEO",S - Sale+OE,$14.90,-1079,353289,0%,"-$16,077",0.0,3.0,7.0,46.0,CSII
+474,D,2013-01-07 16:05:09,2012-12-27,CSII,Nelson Glen D,Dir,G - Gift,$0.00,-57000,685347,+9%,-$0,0.0,7.0,17.0,59.0,CSII
+475,DM,2013-01-07 16:05:09,2012-11-01,CSII,Nelson Glen D,Dir,P - Purchase,$11.96,33000,685347,+5%,"+$394,621",0.0,7.0,17.0,59.0,CSII
+476,D,2012-12-04 16:05:07,2012-11-30,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$11.60,-5000,55227,-8%,"-$57,991",-1.0,4.0,15.0,85.0,CSII
+477,DM,2012-11-29 16:12:13,2012-11-27,CSII,Martin David,"Pres, CEO",S - Sale+OE,$11.61,-3600,354368,-1%,"-$41,778",1.0,-1.0,5.0,77.0,CSII
+478,,2012-11-20 16:07:37,2012-11-16,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$10.68,-278,102519,0%,"-$2,969",0.0,4.0,12.0,57.0,CSII
+479,,2012-11-15 16:28:59,2012-11-14,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$11.22,-3038,102797,-3%,"-$34,086",1.0,5.0,17.0,76.0,CSII
+480,D,2012-11-02 16:26:38,2012-11-01,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$12.00,-10000,135736,-7%,"-$120,000",-1.0,-3.0,-6.0,47.0,CSII
+481,D,2012-10-01 16:59:33,2012-09-27,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$11.49,-7203,60227,-11%,"-$82,736",-2.0,-3.0,2.0,67.0,CSII
+482,D,2012-09-05 16:37:53,2012-08-31,CSII,Trigg Leslie,Dir,A - Grant,$0.00,6550,16108,+69%,+$0,3.0,3.0,16.0,70.0,CSII
+483,D,2012-09-05 16:36:23,2012-08-31,CSII,Nelson Glen D,Dir,A - Grant,$0.00,10917,652347,+2%,+$0,3.0,3.0,16.0,70.0,CSII
+484,D,2012-09-05 16:35:14,2012-08-31,CSII,Martin David,"Pres, CEO",S - Sale+OE,$9.07,-1100,357968,0%,"-$9,972",3.0,3.0,16.0,70.0,CSII
+485,D,2012-09-05 16:34:11,2012-08-31,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,5459,444960,+1%,+$0,3.0,3.0,16.0,70.0,CSII
+486,D,2012-09-05 16:31:10,2012-08-31,CSII,Brown Edward M,Dir,A - Grant,$0.00,7642,77744,+11%,+$0,3.0,3.0,16.0,70.0,CSII
+487,D,2012-09-05 16:29:05,2012-08-31,CSII,Blackey Brent G,Dir,A - Grant,$0.00,6550,23753,+38%,+$0,3.0,3.0,16.0,70.0,CSII
+488,D,2012-08-28 18:10:35,2012-08-24,CSII,Thatcher Robert J,EVP,S - Sale+OE,$9.03,-287,125447,0%,"-$2,591",-2.0,3.0,19.0,72.0,CSII
+489,D,2012-08-28 18:09:40,2012-08-27,CSII,Martin David,"Pres, CEO",G - Gift,$0.00,-8400,356268,+2%,-$0,-2.0,3.0,19.0,72.0,CSII
+490,D,2012-08-28 18:09:40,2012-08-24,CSII,Martin David,"Pres, CEO",S - Sale+OE,$9.03,-862,356268,0%,"-$7,784",-2.0,3.0,19.0,72.0,CSII
+491,D,2012-08-28 18:08:42,2012-08-24,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$9.03,-220,67430,0%,"-$1,986",-2.0,3.0,19.0,72.0,CSII
+492,,2012-08-28 18:07:48,2012-08-24,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$9.03,-75,105835,0%,-$677,-2.0,3.0,19.0,72.0,CSII
+493,D,2012-08-28 18:06:42,2012-08-24,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$9.03,-353,145736,0%,"-$3,187",-2.0,3.0,19.0,72.0,CSII
+494,D,2012-08-28 18:05:40,2012-08-24,CSII,Betterley Laurence L,CFO,S - Sale+OE,$9.03,-416,199909,0%,"-$3,756",-2.0,3.0,19.0,72.0,CSII
+495,DM,2012-08-23 17:51:20,2012-08-21,CSII,Thatcher Robert J,EVP,S - Sale+OE,$9.07,-3289,125734,-3%,"-$29,839",4.0,4.0,24.0,78.0,CSII
+496,DM,2012-08-23 17:49:38,2012-08-21,CSII,Martin David,"Pres, CEO",S - Sale+OE,$9.07,-10510,359930,-3%,"-$95,353",4.0,4.0,24.0,78.0,CSII
+497,DM,2012-08-23 17:48:25,2012-08-21,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$9.07,-2496,67650,-4%,"-$22,645",4.0,4.0,24.0,78.0,CSII
+498,M,2012-08-23 17:46:47,2012-08-21,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$9.07,-817,105910,-1%,"-$7,412",4.0,4.0,24.0,78.0,CSII
+499,DM,2012-08-23 17:45:07,2012-08-21,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$9.07,-4018,146089,-3%,"-$36,453",4.0,4.0,24.0,78.0,CSII
+500,DM,2012-08-23 17:43:30,2012-08-21,CSII,Betterley Laurence L,CFO,S - Sale+OE,$9.07,-4770,200325,-2%,"-$43,275",4.0,4.0,24.0,78.0,CSII
+501,DM,2012-08-20 18:16:11,2012-08-16,CSII,Thatcher Robert J,EVP,S - Sale+OE,$8.82,-3935,129023,-3%,"-$34,705",0.0,2.0,20.0,73.0,CSII
+502,DM,2012-08-20 18:15:14,2012-08-16,CSII,Martin David,"Pres, CEO",S - Sale+OE,$8.82,-12582,370440,-3%,"-$110,969",0.0,2.0,20.0,73.0,CSII
+503,DM,2012-08-20 18:14:08,2012-08-16,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$8.82,-2988,70146,-4%,"-$26,353",0.0,2.0,20.0,73.0,CSII
+504,M,2012-08-20 18:13:00,2012-08-16,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$8.82,-977,106727,-1%,"-$8,617",0.0,2.0,20.0,73.0,CSII
+505,DM,2012-08-20 18:11:55,2012-08-16,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$8.82,-4808,150107,-3%,"-$42,405",0.0,2.0,20.0,73.0,CSII
+506,DM,2012-08-20 18:10:18,2012-08-16,CSII,Betterley Laurence L,CFO,S - Sale+OE,$8.82,-5704,205095,-3%,"-$50,307",0.0,2.0,20.0,73.0,CSII
+507,D,2012-08-15 17:33:08,2012-08-13,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,52580,210799,+33%,+$0,-1.0,2.0,15.0,78.0,CSII
+508,D,2012-08-15 17:33:08,2012-08-15,CSII,Betterley Laurence L,CFO,S - Sale+OE,$8.92,-1507,210799,-1%,"-$13,439",-1.0,2.0,15.0,78.0,CSII
+509,D,2012-08-15 17:32:11,2012-08-13,CSII,Flaherty James E,Chief Administrative Officer,A - Grant,$0.00,37552,154915,+32%,+$0,-1.0,2.0,15.0,78.0,CSII
+510,D,2012-08-15 17:32:11,2012-08-15,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$8.92,-1271,154915,-1%,"-$11,335",-1.0,2.0,15.0,78.0,CSII
+511,,2012-08-15 17:30:51,2012-08-13,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",A - Grant,$0.00,23642,107704,+28%,+$0,-1.0,2.0,15.0,78.0,CSII
+512,,2012-08-15 17:30:51,2012-08-15,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",S - Sale,$8.92,-259,107704,0%,"-$2,310",-1.0,2.0,15.0,78.0,CSII
+513,D,2012-08-15 17:29:31,2012-08-13,CSII,Koehn Paul A,"VP Quality, Operations",A - Grant,$0.00,23642,73134,+48%,+$0,-1.0,2.0,15.0,78.0,CSII
+514,D,2012-08-15 17:29:31,2012-08-15,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$8.92,-789,73134,-1%,"-$7,036",-1.0,2.0,15.0,78.0,CSII
+515,D,2012-08-15 17:27:05,2012-08-13,CSII,Thatcher Robert J,EVP,A - Grant,$0.00,24824,132958,+23%,+$0,-1.0,2.0,15.0,78.0,CSII
+516,D,2012-08-15 17:27:05,2012-08-15,CSII,Thatcher Robert J,EVP,S - Sale+OE,$8.92,-1040,132958,-1%,"-$9,275",-1.0,2.0,15.0,78.0,CSII
+517,D,2012-08-15 17:25:47,2012-08-13,CSII,Martin David,"Pres, CEO",A - Grant,$0.00,109170,383022,+40%,+$0,-1.0,2.0,15.0,78.0,CSII
+518,DM,2012-08-15 17:25:47,2012-08-13,CSII,Martin David,"Pres, CEO",S - Sale+OE,$8.87,-11528,383022,-3%,"-$102,242",-1.0,2.0,15.0,78.0,CSII
+519,D,2012-07-19 17:47:03,2012-07-18,CSII,Thatcher Robert J,EVP,S - Sale+OE,$9.80,-2485,109174,-2%,"-$24,350",-3.0,0.0,-5.0,59.0,CSII
+520,D,2012-07-19 17:46:21,2012-07-18,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$9.80,-2315,118634,-2%,"-$22,684",-3.0,0.0,-5.0,59.0,CSII
+521,D,2012-07-19 17:45:39,2012-07-18,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$9.80,-1578,50281,-3%,"-$15,463",-3.0,0.0,-5.0,59.0,CSII
+522,D,2012-07-19 17:43:59,2012-07-18,CSII,Betterley Laurence L,CFO,S - Sale+OE,$9.80,-3058,159726,-2%,"-$29,965",-3.0,0.0,-5.0,59.0,CSII
+523,,2012-07-19 16:56:58,2012-07-17,CSII,"Discovery Group I, LLC",10%,S - Sale,$10.25,-5244,2027658,0%,"-$53,775",-3.0,0.0,-5.0,59.0,CSII
+524,AM,2012-07-16 18:01:44,2012-07-09,CSII,"Discovery Group I, LLC",10%,S - Sale,$10.28,-25620,2047048,-1%,"-$263,363",0.0,-12.0,-10.0,42.0,CSII
+525,M,2012-07-16 17:35:02,2012-07-12,CSII,"Discovery Group I, LLC",10%,S - Sale,$10.39,-14146,2032902,-1%,"-$146,927",0.0,-12.0,-10.0,42.0,CSII
+526,M,2012-07-11 17:27:17,2012-07-09,CSII,"Discovery Group I, LLC",10%,S - Sale,$10.28,-25620,2048368,-1%,"-$263,363",0.0,0.0,-7.0,42.0,CSII
+527,,2012-05-31 16:42:21,2012-05-29,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",F - Tax,$9.34,-7771,84321,-8%,"-$72,612",-4.0,-2.0,7.0,28.0,CSII
+528,D,2012-02-28 16:44:44,2012-01-13,CSII,Martin David,"Pres, CEO",G - Gift,$0.00,-1600,285380,-1%,-$0,-1.0,0.0,3.0,1.0,CSII
+529,D,2012-02-28 16:44:44,2012-02-27,CSII,Martin David,"Pres, CEO",S - Sale+OE,$9.30,-9000,285380,-3%,"-$83,732",-1.0,0.0,3.0,1.0,CSII
+530,D,2012-02-17 17:01:33,2012-02-15,CSII,Nelson Glen D,Dir,P - Purchase,$8.71,5000,641430,+1%,"+$43,546",-2.0,2.0,0.0,-5.0,CSII
+531,DM,2012-02-17 16:40:54,2012-02-14,CSII,Friedman John H,Dir,S - Sale+OE,$8.71,-65675,429023,-13%,"-$571,985",-2.0,2.0,0.0,-5.0,CSII
+532,DM,2012-02-14 17:36:31,2012-02-10,CSII,Nelson Glen D,Dir,P - Purchase,$8.92,40000,636430,+7%,"+$356,860",1.0,6.0,6.0,6.0,CSII
+533,DM,2012-02-01 18:05:22,2012-01-30,CSII,Friedman John H,Dir,S - Sale+OE,$9.22,-53991,494698,-10%,"-$497,999",0.0,5.0,-4.0,-3.0,CSII
+534,DM,2012-01-27 16:55:11,2012-01-25,CSII,Friedman John H,Dir,S - Sale+OE,$9.71,-61522,548689,-10%,"-$597,121",-5.0,-2.0,-2.0,-2.0,CSII
+535,DM,2012-01-24 17:34:03,2012-01-20,CSII,Friedman John H,Dir,S - Sale+OE,$9.73,-44513,610211,-7%,"-$433,182",1.0,-5.0,-8.0,-11.0,CSII
+536,DM,2012-01-20 16:44:37,2012-01-18,CSII,Friedman John H,Dir,S - Sale+OE,$9.97,-26500,654724,-4%,"-$264,146",-3.0,-3.0,-8.0,-8.0,CSII
+537,D,2012-01-19 17:29:19,2012-01-17,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$10.01,-5000,119638,-4%,"-$50,058",1.0,-3.0,-7.0,-3.0,CSII
+538,DM,2012-01-17 17:25:18,2012-01-13,CSII,Friedman John H,Dir,S - Sale+OE,$10.27,-11900,681224,-2%,"-$122,190",3.0,1.0,-11.0,5.0,CSII
+539,DM,2012-01-13 16:34:13,2012-01-11,CSII,Friedman John H,Dir,S - Sale+OE,$10.43,-17532,693124,-2%,"-$182,850",-6.0,-2.0,-13.0,2.0,CSII
+540,DM,2012-01-11 16:21:07,2012-01-09,CSII,Friedman John H,Dir,S - Sale+OE,$10.42,-27000,710656,-4%,"-$281,308",0.0,-4.0,-15.0,-2.0,CSII
+541,DM,2012-01-09 16:37:44,2012-01-05,CSII,Friedman John H,Dir,S - Sale+OE,$10.41,-34992,737656,-5%,"-$364,290",0.0,-1.0,-5.0,0.0,CSII
+542,DM,2012-01-05 16:25:18,2012-01-03,CSII,Friedman John H,Dir,S - Sale+OE,$10.16,-52398,772648,-6%,"-$532,622",-1.0,0.0,-4.0,-1.0,CSII
+543,DM,2011-11-30 16:26:32,2011-11-28,CSII,Friedman John H,Dir,S - Sale+OE,$10.01,-25000,825046,-3%,"-$250,322",-4.0,-6.0,-4.0,-13.0,CSII
+544,D,2011-11-28 16:42:42,2011-11-23,CSII,Nelson Glen D,Dir,P - Purchase,$9.45,10000,596430,+2%,"+$94,530",-1.0,-5.0,-1.0,-7.0,CSII
+545,D,2011-11-18 16:56:58,2011-11-16,CSII,Brown Edward M,Dir,S - Sale+OE,$9.59,-5000,70102,-7%,"-$47,969",1.0,4.0,0.0,7.0,CSII
+546,DM,2011-11-16 16:21:34,2011-11-14,CSII,Brown Edward M,Dir,S - Sale+OE,$9.39,-9000,75102,-11%,"-$84,518",-3.0,1.0,-7.0,-4.0,CSII
+547,DM,2011-11-16 16:17:31,2011-11-14,CSII,Nelson Glen D,Dir,P - Purchase,$9.45,20800,586430,+4%,"+$196,556",-3.0,1.0,-7.0,-4.0,CSII
+548,DM,2011-11-08 16:15:15,2011-11-04,CSII,Nelson Glen D,Dir,P - Purchase,$9.07,33650,565630,+6%,"+$305,318",-6.0,-4.0,-5.0,-5.0,CSII
+549,,2011-11-03 17:48:30,2011-11-01,CSII,"Discovery Group I, LLC",10%,P - Purchase,$8.00,4500,2072668,0%,"+$36,000",6.0,10.0,13.0,8.0,CSII
+550,,2011-10-28 16:25:22,2011-10-26,CSII,"Discovery Group I, LLC",10%,P - Purchase,$8.00,2879,2068168,0%,"+$23,032",-2.0,1.0,19.0,16.0,CSII
+551,,2011-10-26 16:28:17,2011-10-25,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",A - Grant,$0.00,25000,89833,+39%,+$0,3.0,-1.0,16.0,22.0,CSII
+552,M,2011-10-25 17:12:56,2011-10-21,CSII,"Discovery Group I, LLC",10%,P - Purchase,$8.00,11103,2065289,+1%,"+$88,824",3.0,3.0,18.0,23.0,CSII
+553,M,2011-10-20 17:56:23,2011-10-18,CSII,"Discovery Group I, LLC",10%,P - Purchase,$7.65,62447,2054186,+3%,"+$477,872",1.0,3.0,15.0,16.0,CSII
+554,M,2011-10-12 17:26:48,2011-10-11,CSII,"Discovery Group I, LLC",10%,P - Purchase,$8.19,141616,1991739,+8%,"+$1,160,203",-4.0,-10.0,12.0,9.0,CSII
+555,D,2011-09-09 16:43:04,2011-07-18,CSII,Friedman John H,Dir,X - OptEx,$8.78,44688,850046,-5%,"$392,361",-1.0,-3.0,-43.0,-31.0,CSII
+556,D,2011-08-25 16:22:30,2011-08-24,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$13.70,-8365,50548,-14%,"-$114,638",3.0,-4.0,-13.0,-28.0,CSII
+557,DM,2011-08-18 16:32:31,2011-08-16,CSII,Martin David,"Pres, CEO",S - Sale+OE,$13.69,-18854,295980,-6%,"-$258,182",-3.0,8.0,3.0,-25.0,CSII
+558,DM,2011-08-18 16:29:19,2011-08-16,CSII,Thatcher Robert J,EVP,S - Sale+OE,$13.69,-5660,109136,-5%,"-$77,506",-3.0,8.0,3.0,-25.0,CSII
+559,DM,2011-08-18 16:24:46,2011-08-16,CSII,Koehn Paul A,"VP Quality, Operations",S - Sale+OE,$13.57,-11127,58913,-16%,"-$151,033",-3.0,8.0,3.0,-25.0,CSII
+560,DM,2011-08-18 16:21:14,2011-08-16,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$13.69,-5352,124638,-4%,"-$73,275",-3.0,8.0,3.0,-25.0,CSII
+561,DM,2011-08-18 16:19:06,2011-08-16,CSII,Betterley Laurence L,CFO,S - Sale+OE,$13.69,-7041,160161,-4%,"-$96,417",-3.0,8.0,3.0,-25.0,CSII
+562,D,2011-08-10 16:42:44,2011-08-08,CSII,Trigg Leslie,Dir,A - Grant,$0.00,3596,9558,+60%,+$0,2.0,-1.0,-6.0,-34.0,CSII
+563,D,2011-08-10 16:41:04,2011-08-08,CSII,Thatcher Robert J,EVP,A - Grant,$0.00,15574,114796,+16%,+$0,2.0,-1.0,-6.0,-34.0,CSII
+564,D,2011-08-10 16:38:58,2011-08-08,CSII,Nelson Glen D,Dir,A - Grant,$0.00,6472,531980,+1%,+$0,2.0,-1.0,-6.0,-34.0,CSII
+565,D,2011-08-10 16:36:33,2011-08-08,CSII,Martin David,"Pres, CEO",A - Grant,$0.00,67242,314834,+27%,+$0,2.0,-1.0,-6.0,-34.0,CSII
+566,D,2011-08-10 16:36:33,2011-08-09,CSII,Martin David,"Pres, CEO",S - Sale+OE,$13.77,-18355,314834,-6%,"-$252,693",2.0,-1.0,-6.0,-34.0,CSII
+567,D,2011-08-10 16:34:08,2011-08-08,CSII,Lawlor Augustine,Dir,A - Grant,$0.00,3596,439501,+1%,+$0,2.0,-1.0,-6.0,-34.0,CSII
+568,D,2011-08-10 16:32:32,2011-08-08,CSII,Koehn Paul A,"VP Quality, Operations",A - Grant,$0.00,14833,70040,+27%,+$0,2.0,-1.0,-6.0,-34.0,CSII
+569,,2011-08-10 16:30:28,2011-08-08,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",A - Grant,$0.00,14833,64833,+30%,+$0,2.0,-1.0,-6.0,-34.0,CSII
+570,D,2011-08-10 16:21:53,2011-08-08,CSII,Flaherty James E,Chief Administrative Officer,A - Grant,$0.00,23560,129990,+22%,+$0,2.0,-1.0,-6.0,-34.0,CSII
+571,D,2011-08-10 16:19:34,2011-08-08,CSII,Brown Edward M,Dir,A - Grant,$0.00,5034,84102,+6%,+$0,2.0,-1.0,-6.0,-34.0,CSII
+572,D,2011-08-10 16:14:29,2011-08-08,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,32988,167202,+25%,+$0,2.0,-1.0,-6.0,-34.0,CSII
+573,D,2011-07-21 16:23:41,2011-07-19,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$15.02,-4037,106430,-4%,"-$60,617",4.0,-5.0,-19.0,-36.0,CSII
+574,D,2011-07-21 16:21:51,2011-07-19,CSII,Koehn Paul A,VP of Manufacturing,S - Sale+OE,$15.01,-2531,55207,-4%,"-$37,988",4.0,-5.0,-19.0,-36.0,CSII
+575,D,2011-07-21 16:19:32,2011-07-19,CSII,Thatcher Robert J,EVP,S - Sale+OE,$15.01,-5700,99222,-5%,"-$85,555",4.0,-5.0,-19.0,-36.0,CSII
+576,D,2011-07-21 16:17:06,2011-07-19,CSII,Betterley Laurence L,CFO,S - Sale+OE,$15.04,-2541,134214,-2%,"-$38,215",4.0,-5.0,-19.0,-36.0,CSII
+577,D,2011-07-21 16:14:46,2011-07-19,CSII,Kraus Scott William,VP Sales,S - Sale+OE,$15.05,-1093,63871,-2%,"-$16,453",4.0,-5.0,-19.0,-36.0,CSII
+578,D,2011-07-20 17:18:06,2011-07-18,CSII,Nelson Glen D,Dir,X - OptEx,$8.78,12131,525508,-2%,"$106,510",2.0,-2.0,-12.0,-35.0,CSII
+579,D,2011-05-26 16:47:10,2011-05-24,CSII,Flaherty James E,Chief Administrative Officer,S - Sale+OE,$15.00,-15000,110016,-12%,"-$225,000",-2.0,-9.0,-12.0,-39.0,CSII
+580,D,2011-05-26 16:44:30,2011-05-24,CSII,Koehn Paul A,VP of Manufacturing,M - OptEx,$7.90,8088,57287,+16%,"+$63,895",-2.0,-9.0,-12.0,-39.0,CSII
+581,D,2011-05-26 16:44:30,2011-05-24,CSII,Koehn Paul A,VP of Manufacturing,S - Sale+OE,$15.00,-8088,57287,-12%,"-$121,320",-2.0,-9.0,-12.0,-39.0,CSII
+582,D,2011-05-26 16:44:12,2011-05-24,CSII,Kraus Scott William,VP Sales,S - Sale+OE,$15.00,-3565,64964,-5%,"-$53,475",-2.0,-9.0,-12.0,-39.0,CSII
+583,D,2011-05-23 16:28:27,2011-05-19,CSII,Kraus Scott William,VP Sales,S - Sale+OE,$14.00,-9343,68529,-12%,"-$130,802",2.0,4.0,-5.0,-36.0,CSII
+584,D,2011-05-13 16:22:50,2011-05-12,CSII,Kraus Scott William,VP Sales,S - Sale+OE,$12.88,-2000,77872,-3%,"-$25,750",0.0,6.0,-2.0,-30.0,CSII
+585,D,2011-05-13 16:20:54,2011-05-11,CSII,Brown Edward M,Dir,P - Purchase,$12.63,10000,79068,+14%,"+$126,336",0.0,6.0,-2.0,-30.0,CSII
+586,D,2011-05-13 16:17:22,2011-05-12,CSII,Doughty Brian,VP of Commerical Operations,S - Sale+OE,$12.05,-2181,58914,-4%,"-$26,279",0.0,6.0,-2.0,-30.0,CSII
+587,,2011-05-10 17:08:48,2011-05-09,CSII,Kenny Kevin J,"EVP, Sales, Mtkg",A - Grant,$0.00,50000,50000,New,+$0,0.0,6.0,12.0,-31.0,CSII
+588,D,2011-05-03 16:15:51,2011-05-02,CSII,Kraus Scott William,VP Sales,S - Sale+OE,$11.54,-2049,79872,-3%,"-$23,637",-5.0,1.0,26.0,-27.0,CSII
+589,D,2011-04-19 16:09:01,2011-04-15,CSII,Betterley Laurence L,CFO,S - Sale+OE,$10.78,-5381,135853,-4%,"-$57,995",2.0,7.0,25.0,-29.0,CSII
+590,D,2011-02-11 16:20:20,2011-02-09,CSII,Doughty Brian,VP of Commerical Operations,M - OptEx,$8.02,26527,61095,+77%,"+$212,863",-2.0,-7.0,-2.0,32.0,CSII
+591,D,2011-02-11 16:20:20,2011-02-09,CSII,Doughty Brian,VP of Commerical Operations,S - Sale+OE,$10.32,-29697,61095,-33%,"-$306,532",-2.0,-7.0,-2.0,32.0,CSII
+592,D,2010-12-17 16:09:50,2010-12-16,CSII,Kraus Scott William,VP Sales,S - Sale+OE,$10.62,-808,81921,-1%,"-$8,579",5.0,1.0,8.0,20.0,CSII
+593,D,2010-12-01 16:24:11,2010-11-30,CSII,Doughty Brian,VP of Commerical Operations,S - Sale+OE,$8.80,-10151,64265,-14%,"-$89,355",-2.0,4.0,35.0,67.0,CSII
+594,D,2010-11-29 16:13:39,2010-11-24,CSII,Kraus Scott William,VP Sales,S - Sale+OE,$9.50,-5974,82729,-7%,"-$56,753",-2.0,-1.0,23.0,62.0,CSII
+595,D,2010-11-19 16:20:26,2010-11-17,CSII,Martin David,"Pres, CEO",S - Sale+OE,$8.97,-13170,265947,-5%,"-$118,115",6.0,-4.0,19.0,53.0,CSII
+596,D,2010-11-18 16:27:13,2010-11-16,CSII,Nelson Glen D,Dir,P - Purchase,$8.77,7000,513377,+1%,"+$61,394",8.0,5.0,21.0,54.0,CSII
+597,D,2010-11-18 16:24:29,2010-11-16,CSII,Brown Edward M,Dir,P - Purchase,$8.80,3000,69068,+5%,"+$26,413",8.0,5.0,21.0,54.0,CSII
+598,DM,2010-11-17 17:05:26,2010-11-15,CSII,Martin David,"Pres, CEO",S - Sale+OE,$8.79,-39330,279117,-12%,"-$345,875",-1.0,7.0,23.0,47.0,CSII
+599,DM,2010-11-16 16:16:31,2010-11-12,CSII,Nelson Glen D,Dir,P - Purchase,$8.72,18151,506377,+4%,"+$158,349",4.0,18.0,19.0,48.0,CSII
+600,DM,2010-11-15 16:13:52,2010-11-11,CSII,Brown Edward M,Dir,P - Purchase,$8.70,7000,66068,+12%,"+$60,933",-1.0,11.0,17.0,50.0,CSII
+601,DM,2010-11-09 17:37:05,2010-11-05,CSII,Brown Edward M,Dir,P - Purchase,$7.74,25800,59068,+78%,"+$199,663",2.0,7.0,14.0,52.0,CSII
+602,A,2010-08-18 12:38:25,2010-08-13,CSII,Kraus Scott William,VP Sales,A - Grant,$0.00,31793,88703,+56%,+$0,1.0,3.0,13.0,108.0,CSII
+603,A,2010-08-18 12:36:54,2010-08-13,CSII,Koehn Paul A,VP of Manufacturing,A - Grant,$0.00,35326,56221,+169%,+$0,1.0,3.0,13.0,108.0,CSII
+604,A,2010-08-18 12:36:09,2010-08-13,CSII,Thatcher Robert J,EVP,A - Grant,$0.00,50516,102456,+97%,+$0,1.0,3.0,13.0,108.0,CSII
+605,D,2010-08-17 18:42:49,2010-08-13,CSII,Koehn Paul A,VP of Manufacturing,A - Grant,$0.00,35326,56221,+169%,+$0,1.0,1.0,15.0,125.0,CSII
+606,D,2010-08-17 18:42:05,2010-08-13,CSII,Kraus Scott William,VP Sales,A - Grant,$0.00,31793,88703,+56%,+$0,1.0,1.0,15.0,125.0,CSII
+607,D,2010-08-17 18:41:19,2010-08-13,CSII,Flaherty James E,Chief Administrative Officer,A - Grant,$0.00,47761,123950,+63%,+$0,1.0,1.0,15.0,125.0,CSII
+608,D,2010-08-17 18:40:18,2010-08-13,CSII,Brown Edward M,Dir,A - Grant,$4.60,15217,33268,+84%,"+$69,998",1.0,1.0,15.0,125.0,CSII
+609,D,2010-08-17 18:13:03,2010-08-13,CSII,Martin David,"Pres, CEO",A - Grant,$0.00,150136,318447,+89%,+$0,1.0,1.0,15.0,125.0,CSII
+610,D,2010-08-17 18:12:18,2010-08-13,CSII,Tyska Paul A,VP of Business Dev,A - Grant,$0.00,31793,46821,+212%,+$0,1.0,1.0,15.0,125.0,CSII
+611,D,2010-08-17 18:11:24,2010-08-13,CSII,Thatcher Robert J,EVP,A - Grant,$0.00,50516,102456,+97%,+$0,1.0,1.0,15.0,125.0,CSII
+612,D,2010-08-17 17:59:57,2010-08-13,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,62852,139101,+82%,+$0,1.0,1.0,15.0,125.0,CSII
+613,D,2010-08-17 17:59:00,2010-08-13,CSII,Doughty Brian,VP of Commerical Operations,A - Grant,$0.00,35326,74416,+90%,+$0,1.0,1.0,15.0,125.0,CSII
+614,D,2010-08-13 15:17:26,2010-08-12,CSII,Koehn Paul A,VP of Manufacturing,S - Sale+OE,$4.52,-2335,20895,-10%,"-$10,558",-3.0,-3.0,16.0,123.0,CSII
+615,D,2010-08-13 15:16:43,2010-08-12,CSII,Doughty Brian,VP of Commerical Operations,S - Sale+OE,$4.52,-2443,39090,-6%,"-$11,043",-3.0,-3.0,16.0,123.0,CSII
+616,D,2010-08-13 15:15:09,2010-08-12,CSII,Tyska Paul A,VP of Business Dev,S - Sale+OE,$4.48,-7590,15028,-34%,"-$34,003",-3.0,-3.0,16.0,123.0,CSII
+617,A,2010-07-23 11:35:38,2010-05-14,CSII,Nelson Glen D,Dir,P - Purchase,$4.81,27000,241702,+13%,"+$129,924",3.0,0.0,11.0,168.0,CSII
+618,D,2010-07-21 11:11:28,2010-07-20,CSII,Thatcher Robert J,EVP,S - Sale+OE,$4.16,-5947,51940,-10%,"-$24,713",-2.0,0.0,13.0,182.0,CSII
+619,D,2010-07-21 11:09:50,2010-07-20,CSII,Kraus Scott William,VP Sales,S - Sale+OE,$4.17,-1145,56910,-2%,"-$4,775",-2.0,0.0,13.0,182.0,CSII
+620,D,2010-05-17 19:39:28,2010-05-14,CSII,Nelson Glen D,Dir,P - Purchase,$4.81,27000,494226,+6%,"+$129,924",-1.0,-5.0,-7.0,77.0,CSII
+621,D,2010-05-17 19:20:57,2010-05-13,CSII,Kraus Scott William,VP Sales,S - Sale+OE,$5.16,-1942,58055,-3%,"-$10,021",-1.0,-5.0,-7.0,77.0,CSII
+622,D,2010-05-17 19:19:16,2010-05-13,CSII,Doughty Brian,VP of Commerical Operations,S - Sale+OE,$5.16,-2147,41533,-5%,"-$11,079",-1.0,-5.0,-7.0,77.0,CSII
+623,D,2010-05-17 19:15:42,2010-05-13,CSII,Betterley Laurence L,CFO,S - Sale+OE,$5.14,-5663,73618,-7%,"-$29,112",-1.0,-5.0,-7.0,77.0,CSII
+624,DM,2010-05-11 16:49:07,2010-05-07,CSII,Nelson Glen D,Dir,P - Purchase,$4.85,73000,461226,+19%,"+$353,798",2.0,0.0,-9.0,47.0,CSII
+625,DM,2010-02-16 18:17:40,2010-02-12,CSII,Kraus Scott William,VP Sales,S - Sale+OE,$5.01,-5800,59997,-9%,"-$29,029",1.0,3.0,5.0,-13.0,CSII
+626,DM,2010-02-12 18:18:55,2010-02-05,CSII,Nelson Glen D,Dir,P - Purchase,$4.45,102882,388226,+36%,"+$458,294",5.0,9.0,10.0,-5.0,CSII
+627,D,2009-11-20 12:15:30,2009-11-18,CSII,Howe Roger J,Dir,S - Sale+OE,$4.82,-14350,0,-100%,"-$69,144",8.0,6.0,-11.0,-4.0,CSII
+628,D,2009-11-19 12:52:39,2009-11-16,CSII,Petrucci Gary M,Dir,G - Gift,$0.00,-10000,255036,-4%,-$0,-2.0,6.0,-12.0,-3.0,CSII
+629,D,2009-11-06 16:04:52,2009-11-06,CSII,Betterley Laurence L,CFO,P - Purchase,$4.15,7500,79281,+10%,"+$31,121",13.0,6.0,21.0,17.0,CSII
+630,D,2009-11-06 15:56:32,2009-11-06,CSII,Friedman John H,Dir,P - Purchase,$4.06,8000,8000,New,"+$32,480",11.0,17.0,33.0,28.0,CSII
+631,D,2009-11-06 15:50:16,2009-11-06,CSII,Blackey Brent G,Dir,P - Purchase,$4.13,10000,17204,+139%,"+$41,293",11.0,17.0,33.0,28.0,CSII
+632,D,2009-08-25 18:15:28,2009-08-21,CSII,Tyska Paul A,VP of Business Dev,S - Sale+OE,$8.50,-3766,21748,-15%,"-$32,028",-1.0,-6.0,-19.0,-42.0,CSII
+633,D,2009-08-25 17:36:33,2009-08-10,CSII,Howe Roger J,Dir,G - Gift,$0.00,-12500,14350,-47%,-$0,-1.0,-6.0,-19.0,-42.0,CSII
+634,D,2009-07-20 18:45:50,2009-07-16,CSII,Kraus Scott William,VP Sales,A - Grant,$0.00,11047,65797,+20%,+$0,0.0,3.0,5.0,-49.0,CSII
+635,D,2009-07-20 18:43:47,2009-07-16,CSII,Tyska Paul A,VP of Business Dev,A - Grant,$0.00,19057,25514,+295%,+$0,0.0,3.0,5.0,-49.0,CSII
+636,D,2009-07-20 18:40:14,2009-07-16,CSII,Doughty Brian,VP of Commerical Operations,A - Grant,$0.00,20510,43680,+89%,+$0,0.0,3.0,5.0,-49.0,CSII
+637,D,2009-07-20 18:38:56,2009-07-16,CSII,Koehn Paul A,VP of Manufacturing,A - Grant,$0.00,19432,21904,+786%,+$0,0.0,3.0,5.0,-49.0,CSII
+638,D,2009-07-20 18:37:00,2009-07-16,CSII,Thatcher Robert J,EVP,A - Grant,$0.00,41070,49078,+513%,+$0,0.0,3.0,5.0,-49.0,CSII
+639,D,2009-07-20 18:35:10,2009-07-16,CSII,Flaherty James E,Chief Administrative Officer,A - Grant,$0.00,30494,72872,+72%,+$0,0.0,3.0,5.0,-49.0,CSII
+640,D,2009-07-20 18:33:21,2009-07-16,CSII,Betterley Laurence L,CFO,A - Grant,$0.00,23256,71781,+48%,+$0,0.0,3.0,5.0,-49.0,CSII
+641,D,2009-07-20 18:31:10,2009-07-16,CSII,Martin David,"Pres, CEO",A - Grant,$0.00,113132,162304,+230%,+$0,0.0,3.0,5.0,-49.0,CSII
+642,D,2009-05-01 17:45:34,2009-04-29,CSII,Doughty Brian,VP of Commerical Operations,A - Grant,$0.00,20000,23170,+631%,+$0,2.0,14.0,-10.0,-26.0,CSII
+643,D,2009-05-01 17:43:47,2009-04-29,CSII,Kraus Scott William,VP Sales,A - Grant,$0.00,20000,54750,+58%,+$0,2.0,14.0,-10.0,-26.0,CSII
+644,AM,2008-12-23 12:27:56,2008-12-02,RDYN,Mitchell Daniel J,Dir,P - Purchase,$0.64,42695,1510671,+3%,"+$27,241",,,,,CSII
+645,,2008-12-16 11:33:03,2008-12-12,RDYN,Mitchell Daniel J,Dir,P - Purchase,$0.75,10000,1539931,+1%,"+$7,474",,,,,CSII
+646,M,2008-12-12 14:55:36,2008-12-10,RDYN,Mitchell Daniel J,Dir,P - Purchase,$0.69,19260,1529931,+1%,"+$13,314",,,,,CSII
+647,,2008-12-08 16:25:27,2008-12-04,RDYN,Morrissey Donald J Jr,"SVP, Corporate Development",P - Purchase,$0.75,15000,70258,+27%,"+$11,250",,,,,CSII
+648,M,2008-12-04 14:59:33,2008-12-02,RDYN,Mitchell Daniel J,Dir,P - Purchase,$0.64,42695,1510671,+3%,"+$27,242",,,,,CSII
+649,,2007-11-01 15:28:37,2007-11-01,RDYN,Echols Roger,Chief Medical Officer,S - Sale,$6.06,-5000,46957,-10%,"-$30,300",,,,,CSII
+650,,2007-10-02 17:30:26,2007-10-01,RDYN,Echols Roger,Chief Medical Officer,S - Sale,$6.47,-5000,51957,-9%,"-$32,360",,,,,CSII
+651,,2007-09-05 14:42:34,2007-09-04,RDYN,Echols Roger,Chief Medical Officer,S - Sale,$6.78,-5000,56957,-8%,"-$33,900",,,,,CSII
+652,,2007-08-23 15:53:45,2007-08-22,RDYN,Echols Roger,Chief Medical Officer,S - Sale,$6.00,-6541,61957,-10%,"-$39,246",,,,,CSII
+653,,2007-08-22 15:13:21,2007-08-21,RDYN,Echols Roger,Chief Medical Officer,S - Sale,$6.00,-3459,68498,-5%,"-$20,754",,,,,CSII
+654,,2007-06-15 14:39:22,2007-06-15,RDYN,Echols Roger,Chief Medical Officer,S - Sale,$6.00,-7555,71957,-10%,"-$45,330",,,,,CSII
+655,,2007-05-31 14:33:52,2007-05-23,RDYN,Echols Roger,Chief Medical Officer,S - Sale,$6.00,-7445,79512,-9%,"-$44,670",,,,,CSII
+656,A,2007-03-05 18:32:22,2007-03-01,RDYN,Echols Roger,Chief Medical Officer,S - Sale,$6.00,-15000,86957,-15%,"-$90,000",,,,,CSII
+657,,2007-03-05 15:27:44,2007-03-01,RDYN,Echols Roger,Chief Medical Officer,S - Sale,$6.00,-10000,91957,-10%,"-$60,000",,,,,CSII
+658,,2007-03-02 13:40:36,2007-03-01,RDYN,Morrissey Donald J Jr,"SVP, Corporate Development",S - Sale,$6.00,-25000,55258,-31%,"-$150,000",,,,,CSII
+659,,2007-01-17 14:33:44,2007-01-17,RDYN,Morrissey Donald J Jr,"SVP, Corporate Development",S - Sale,$5.04,-20000,80258,-20%,"-$100,800",,,,,CSII
+660,D,2007-01-05 16:56:29,2007-01-03,RDYN,Morrissey Donald J Jr,"SVP, Corporate Development",M - OptEx,$0.49,11895,100258,+13%,"+$5,829",,,,,CSII
+661,D,2007-01-05 16:56:29,2007-01-03,RDYN,Morrissey Donald J Jr,"SVP, Corporate Development",S - Sale+OE,$5.68,-11895,100258,-11%,"-$67,564",,,,,CSII
+662,,2006-09-15 15:43:01,2006-09-14,RDYN,Mitchell Daniel J,Dir,P - Purchase,$9.97,560,1467976,0%,"+$5,583",,,,,CSII
+663,,2006-09-14 13:07:48,2006-09-13,RDYN,Mitchell Daniel J,Dir,P - Purchase,$9.93,400,1467416,0%,"+$3,972",,,,,CSII
+664,,2006-09-13 15:44:56,2006-09-12,RDYN,Mitchell Daniel J,Dir,P - Purchase,$10.30,500,1467016,0%,"+$5,150",,,,,CSII
+665,,2006-09-12 18:08:08,2006-09-11,RDYN,Mitchell Daniel J,Dir,P - Purchase,$10.00,1000,1466516,0%,"+$10,000",,,,,CSII
+666,,2006-09-11 16:58:03,2006-09-08,RDYN,Mitchell Daniel J,Dir,P - Purchase,$9.75,1911,1465516,0%,"+$18,632",,,,,CSII
+667,,2006-09-08 13:32:46,2006-09-07,RDYN,Mitchell Daniel J,Dir,P - Purchase,$9.66,2300,1463605,0%,"+$22,218",,,,,CSII
+668,,2006-08-11 16:18:02,2006-08-11,RDYN,Mitchell Daniel J,Dir,P - Purchase,$10.05,1230,1461305,0%,"+$12,362",,,,,CSII
+669,,2006-08-11 14:05:03,2006-08-10,RDYN,Mitchell Daniel J,Dir,P - Purchase,$10.09,6037,1460075,0%,"+$60,897",,,,,CSII
+670,,2006-08-10 14:35:35,2006-08-09,RDYN,Mitchell Daniel J,Dir,P - Purchase,$10.09,2733,1452038,0%,"+$27,581",,,,,CSII
+671,D,2006-07-06 18:52:56,2006-07-03,RDYN,"Tarrant Advisors, Inc",10%,C - Converted deriv,$0.00,2509329,2752914,-48%,$0,,,,,CSII
+672,AD,2006-07-06 16:26:18,2006-07-03,RDYN,Lawlor Augustine,"Dir, 10%",C - Converted deriv,$0.00,3869796,4359069,-47%,$0,,,,,CSII
+673,AD,2006-07-06 16:25:20,2006-07-03,RDYN,Healthcare Ventures VI LP,10%,C - Converted deriv,$0.00,3166863,3612362,-47%,$0,,,,,CSII
+674,D,2006-07-06 14:29:00,2006-07-03,RDYN,Morgenthaler Partners VII LP,10%,C - Converted deriv,$0.00,2095057,2328235,-47%,$0,,,,,CSII
+675,D,2006-07-06 14:28:23,2006-07-03,RDYN,Wendt Henry,Dir,C - Converted deriv,$0.00,1132862,1203409,-48%,$0,,,,,CSII
+676,D,2006-07-06 14:28:14,2006-07-03,RDYN,Mitchell Daniel J,Dir,C - Converted deriv,$0.00,1296938,1451305,-47%,$0,,,,,CSII
+677,D,2006-07-06 14:26:39,2006-07-03,RDYN,Christoffersen Ralph E,Dir,C - Converted deriv,$0.00,2095057,2328235,-47%,$0,,,,,CSII
+678,D,2006-07-05 12:52:08,2006-07-03,RDYN,Healthcare Ventures VI LP,10%,C - Converted deriv,$0.00,3166863,3463102,-48%,$0,,,,,CSII
+679,D,2006-07-05 12:49:55,2006-07-03,RDYN,Lawlor Augustine,"Dir, 10%",C - Converted deriv,$0.00,3869796,4212628,-48%,$0,,,,,CSII

@@ -1,66 +1,985 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,D,2022-03-11 16:44:00,2022-03-11,CERN,Platt Tracy L,CHRO,S - Sale+OE,$93.40,-7769,998,-89%,"-$725,625",,,,,CERN
 1,D,2022-03-08 16:06:33,2022-03-04,CERN,Devers Daniel,"EVP, GC",S - Sale+OE,$93.29,-51174,10131,-83%,"-$4,774,022",,,,,CERN
-2,D,2021-08-25 16:02:12,2021-08-24,CERN,Devers Daniel,"EVP, GC",S - Sale+OE,$77.45,-9000,3508,-72%,"-$697,050",,,,,CERN
-3,DM,2021-08-10 09:05:12,2021-08-09,CERN,Battaglioli Michael R.,"SVP, Chief Accounting Officer",S - Sale+OE,$80.02,-9750,2670,-79%,"-$780,225",,,,,CERN
-4,D,2021-08-03 09:14:47,2021-08-02,CERN,Platt Tracy L,CHRO,S - Sale+OE,$79.70,-9989,604,-94%,"-$796,123",,,,,CERN
-5,D,2021-06-04 16:01:54,2021-06-04,CERN,Dalton Travis,"EVP, Chief Client, Serv. Off",S - Sale+OE,$81.17,-23603,3530,-87%,"-$1,915,856",,,,,CERN
-6,D,2021-05-14 17:11:07,2021-05-14,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$77.06,-5480,5420,-50%,"-$422,289",,,,,CERN
-7,D,2021-05-07 18:02:32,2021-05-07,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$76.36,-88729,366,-100%,"-$6,775,346",,,,,CERN
-8,DM,2021-03-10 16:01:29,2021-03-08,CERN,Erceg Mark J,"EVP, CFO",P - Purchase,$71.13,10547,31963,+49%,"+$750,241",,,,,CERN
-9,DM,2021-03-03 16:33:26,2021-03-01,CERN,Erceg Mark J,"EVP, CFO",P - Purchase,$69.66,10761,21416,+101%,"+$749,597",,,,,CERN
-10,DM,2021-02-24 16:02:03,2021-02-22,CERN,Erceg Mark J,"EVP, CFO",P - Purchase,$70.43,10655,10655,New,"+$750,422",,,,,CERN
-11,,2021-02-18 16:05:52,2021-02-17,CERN,Zollars William D,Dir,S - Sale,$72.63,-6256,26588,-19%,"-$454,373",,,,,CERN
-12,D,2020-12-15 16:08:31,2020-12-11,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$74.95,-2960,3547,-45%,"-$221,852",,,,,CERN
-13,D,2020-12-03 16:34:47,2020-12-01,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",S - Sale+OE,$76.00,-100,24838,0%,"-$7,600",,,,,CERN
-14,,2020-11-17 16:26:32,2020-11-16,CERN,Riedel George Andrew,Dir,S - Sale,$75.69,-1750,9637,-15%,"-$132,458",,,,,CERN
-15,DM,2020-11-17 16:25:43,2020-11-13,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",S - Sale+OE,$75.25,-16100,24838,-39%,"-$1,211,494",,,,,CERN
-16,DM,2020-11-12 17:14:08,2020-11-09,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",S - Sale+OE,$76.05,-53148,24838,-68%,"-$4,041,924",,,,,CERN
-17,,2020-08-06 17:13:16,2020-08-06,CERN,Bisbee Gerald E Jr,Dir,S - Sale,$69.86,-7456,54716,-12%,"-$520,876",,,,,CERN
-18,D,2020-07-31 16:28:01,2020-07-31,CERN,Platt Tracy L,CHRO,S - Sale+OE,$71.38,-6948,160,-98%,"-$495,948",,,,,CERN
-19,,2020-06-11 18:01:18,2020-06-09,CERN,Dillman Linda M,Dir,S - Sale,$72.32,-3556,25845,-12%,"-$257,170",,,,,CERN
-20,D,2020-06-11 18:00:37,2020-06-09,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$72.42,-12000,207,-98%,"-$869,040",,,,,CERN
-21,D,2020-06-04 16:11:16,2020-06-03,CERN,Trigg Donald,Pres,S - Sale+OE,$73.31,-36574,1728,-95%,"-$2,681,240",,,,,CERN
-22,DM,2020-05-29 16:05:46,2020-05-28,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$71.30,-45000,207,-100%,"-$3,208,329",,,,,CERN
-23,D,2020-05-29 16:04:39,2020-05-28,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",S - Sale+OE,$70.89,-53177,16236,-77%,"-$3,769,718",,,,,CERN
-24,D,2020-05-29 16:03:56,2020-05-28,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$71.31,-4000,3547,-53%,"-$285,240",,,,,CERN
-25,D,2020-05-13 16:13:39,2020-05-11,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$68.52,-14282,207,-99%,"-$978,603",,,,,CERN
-26,D,2020-05-01 17:26:53,2020-04-30,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$69.73,-11907,14489,-45%,"-$830,275",,,,,CERN
-27,D,2020-02-13 20:02:23,2020-02-11,CERN,Sims Randy D,"EVP, CLO, Secretary",S - Sale+OE,$80.00,-188780,59105,-76%,"-$15,102,400",,,,,CERN
-28,D,2020-02-11 18:00:52,2020-02-07,CERN,Trigg Donald,"EVP, Strategic Growth",S - Sale+OE,$78.94,-17400,7978,-69%,"-$1,373,556",,,,,CERN
-29,D,2020-02-07 19:48:05,2020-02-06,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$79.40,-10000,3061,-77%,"-$794,000",,,,,CERN
-30,D,2020-02-07 19:46:13,2020-02-06,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$79.15,-176000,102199,-63%,"-$13,930,400",,,,,CERN
-31,D,2019-11-27 16:01:34,2019-11-25,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$70.48,-10000,2923,-77%,"-$704,800",,,,,CERN
-32,D,2019-11-20 16:02:18,2019-11-19,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$68.15,-81772,50467,-62%,"-$5,572,762",,,,,CERN
-33,DM,2019-11-20 16:01:20,2019-11-18,CERN,Peterzalek John,"EVP, Chief Client Officer",S - Sale+OE,$68.21,-29665,8554,-78%,"-$2,023,426",,,,,CERN
-34,D,2019-09-16 16:02:50,2019-09-13,CERN,Peterzalek John,"EVP, Chief Client Officer",S - Sale+OE,$68.33,-42767,17765,-71%,"-$2,922,269",,,,,CERN
-35,D,2019-09-16 16:02:11,2019-09-13,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$68.07,-13124,76239,-15%,"-$893,351",,,,,CERN
-36,D,2019-09-11 18:01:18,2019-09-09,CERN,Townsend Jeffrey A,"EVP, Chief of Innovation",S - Sale+OE,$66.46,-199432,37552,-84%,"-$13,254,251",,,,,CERN
-37,D,2019-09-10 18:01:24,2019-09-06,CERN,Townsend Jeffrey A,"EVP, Chief of Innovation",S - Sale+OE,$67.59,-349922,37552,-90%,"-$23,651,228",,,,,CERN
-38,D,2019-09-06 18:16:10,2019-09-06,CERN,Trigg Donald,"EVP, Strategic Growth",S - Sale+OE,$67.72,-29423,7850,-79%,"-$1,992,526",,,,,CERN
-39,D,2019-09-06 18:01:45,2019-09-06,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$67.58,-24110,101988,-19%,"-$1,629,354",,,,,CERN
-40,DM,2019-08-23 16:12:36,2019-08-21,CERN,Peterzalek John,"EVP, Chief Client Officer",S - Sale+OE,$72.11,-27484,17765,-61%,"-$1,981,786",,,,,CERN
-41,,2019-08-23 16:11:52,2019-08-22,CERN,Gerberding Julie L.,Dir,S - Sale,$71.82,-7928,8128,-49%,"-$569,389",,,,,CERN
-42,D,2019-06-14 16:02:06,2019-06-13,CERN,Sims Randy D,"EVP, CLO, Secretary",S - Sale+OE,$72.45,-40000,39802,-50%,"-$2,898,000",,,,,CERN
-43,,2019-06-13 16:03:04,2019-06-12,CERN,Zollars William D,Dir,S - Sale,$72.11,-1400,29128,-5%,"-$100,954",,,,,CERN
-44,,2019-06-03 16:09:28,2019-05-30,CERN,Dillman Linda M,Dir,S - Sale,$70.14,-4100,26334,-13%,"-$287,574",,,,,CERN
-45,D,2019-05-31 16:01:12,2019-05-29,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$69.42,-244000,50467,-83%,"-$16,938,480",,,,,CERN
-46,D,2019-05-21 16:02:21,2019-05-20,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$69.57,-93500,2114,-98%,"-$6,504,795",,,,,CERN
-47,DM,2019-05-17 16:04:41,2019-05-16,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$69.13,-18000,2923,-86%,"-$1,244,298",,,,,CERN
-48,D,2019-05-17 16:03:47,2019-05-16,CERN,Sims Randy D,"EVP, CLO, Secretary",S - Sale+OE,$69.27,-48000,39802,-55%,"-$3,324,960",,,,,CERN
-49,,2019-05-02 16:03:36,2019-05-02,CERN,Greisch John J,Dir,P - Purchase,$67.57,9000,12925,+229%,"+$608,130",,,,,CERN
-50,,2019-04-30 16:09:39,2019-04-30,CERN,Wise R Halsey,Dir,P - Purchase,$65.76,7600,11395,+200%,"+$499,776",,,,,CERN
-51,DM,2018-12-04 16:10:14,2018-11-30,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$57.95,-435000,12227940,-3%,"-$25,210,400",,,,,CERN
-52,D,2018-11-20 16:00:45,2018-11-19,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$57.19,-5000,12662940,0%,"-$285,950",,,,,CERN
-53,DM,2018-11-02 17:32:44,2018-11-01,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$57.53,-250000,12667940,-2%,"-$14,383,030",,,,,CERN
-54,DM,2018-09-13 18:01:19,2018-09-11,CERN,Burke Zane M,Pres,S - Sale+OE,$64.05,-381139,13290,-97%,"-$24,413,428",,,,,CERN
-55,D,2018-08-30 18:02:11,2018-08-28,CERN,Burke Zane M,Pres,S - Sale+OE,$65.44,-151818,13290,-92%,"-$9,934,970",,,,,CERN
-56,DM,2018-08-20 16:03:20,2018-08-16,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$64.73,-67574,1635,-98%,"-$4,373,940",,,,,CERN
-57,DM,2018-08-10 16:01:28,2018-08-08,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$66.46,-378900,12917940,-3%,"-$25,180,095",,,,,CERN
-58,D,2018-08-08 16:04:20,2018-08-06,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$67.02,-4000,2821,-59%,"-$268,080",,,,,CERN
-59,,2018-08-08 16:03:04,2018-08-06,CERN,Dillman Linda M,Dir,S - Sale,$66.54,-3900,26878,-13%,"-$259,506",,,,,CERN
-60,DM,2018-06-11 16:03:43,2018-06-07,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$60.40,-411200,13329627,-3%,"-$24,837,318",,,,,CERN
-61,,2018-06-08 16:21:20,2018-06-08,CERN,Cortese Denis A.,Dir,S - Sale,$60.25,-5000,27350,-15%,"-$301,250",,,,,CERN
-62,,2018-05-22 16:06:26,2018-05-21,CERN,Zollars William D,Dir,S - Sale,$60.80,-3900,26972,-13%,"-$237,120",,,,,CERN
-63,D,2018-05-22 16:05:53,2018-05-21,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$61.36,-13348,0,-100%,"-$819,033",,,,,CERN
-64,D,2018-05-07 17:47:25,2018-05-07,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$58.32,-3000,13740827,0%,"-$174,960",,,,,CERN
+2,D,2022-03-08 16:06:33,2022-03-04,CERN,Devers Daniel,"EVP, GC",X - OptEx,$64.40,51174,10131,-83%,"$3,295,450",,,,,CERN
+3,D,2021-12-30 16:02:34,2021-12-29,CERN,Feinberg David T,"Pres, CEO",F - Tax,$93.19,-25217,31319,-45%,"-$2,349,972",,,,,CERN
+4,D,2021-12-30 16:02:34,2021-12-29,CERN,Feinberg David T,"Pres, CEO",M - OptEx,$0.00,56536,31319,-224%,+$0,,,,,CERN
+5,D,2021-12-22 17:02:53,2021-12-20,CERN,Platt Tracy L,CHRO,F - Tax,$90.49,-3431,8373,-29%,"-$310,471",,,,,CERN
+6,D,2021-12-22 17:02:53,2021-12-20,CERN,Platt Tracy L,CHRO,M - OptEx,$0.00,11200,8373,-396%,+$0,,,,,CERN
+7,D,2021-12-22 17:02:06,2021-12-20,CERN,Labat Jerome,"EVP, CTO",F - Tax,$90.49,-10004,21909,-31%,"-$905,262",,,,,CERN
+8,D,2021-12-22 17:02:06,2021-12-20,CERN,Labat Jerome,"EVP, CTO",M - OptEx,$0.00,24521,21909,-939%,+$0,,,,,CERN
+9,D,2021-12-22 17:01:22,2021-12-20,CERN,Erceg Mark J,"EVP, CFO",F - Tax,$90.49,-6810,43905,-13%,"-$616,237",,,,,CERN
+10,D,2021-12-22 17:01:22,2021-12-20,CERN,Erceg Mark J,"EVP, CFO",M - OptEx,$0.00,18752,43905,+75%,+$0,,,,,CERN
+11,D,2021-12-22 17:00:46,2021-12-20,CERN,Devers Daniel,"EVP, GC",F - Tax,$90.49,-5008,9695,-34%,"-$453,174",,,,,CERN
+12,D,2021-12-22 17:00:46,2021-12-20,CERN,Devers Daniel,"EVP, GC",M - OptEx,$0.00,11195,9695,-746%,+$0,,,,,CERN
+13,D,2021-12-22 16:59:51,2021-12-20,CERN,Dalton Travis,"EVP, Chief Client, Serv. Off",F - Tax,$90.49,-9074,19718,-32%,"-$821,106",,,,,CERN
+14,D,2021-12-22 16:59:51,2021-12-20,CERN,Dalton Travis,"EVP, Chief Client, Serv. Off",M - OptEx,$0.00,23625,19718,-605%,+$0,,,,,CERN
+15,D,2021-12-22 16:59:06,2021-12-20,CERN,Battaglioli Michael R.,"SVP, Chief Accounting Officer",F - Tax,$90.49,-587,4178,-12%,"-$53,118",,,,,CERN
+16,D,2021-12-22 16:59:06,2021-12-20,CERN,Battaglioli Michael R.,"SVP, Chief Accounting Officer",M - OptEx,$0.00,2095,4178,+101%,+$0,,,,,CERN
+17,,2021-11-02 16:02:35,2021-11-01,CERN,Zollars William D,Dir,A - Grant,$0.00,492,30268,+2%,+$0,,,,,CERN
+18,D,2021-08-25 16:02:12,2021-08-24,CERN,Devers Daniel,"EVP, GC",S - Sale+OE,$77.45,-9000,3508,-72%,"-$697,050",,,,,CERN
+19,D,2021-08-25 16:02:12,2021-08-24,CERN,Devers Daniel,"EVP, GC",X - OptEx,$55.24,5000,3508,-59%,"$276,200",,,,,CERN
+20,D,2021-08-10 09:06:02,2021-08-06,CERN,Dalton Travis,"EVP, Chief Client, Serv. Off",A - Grant,$0.00,2981,5167,+136%,+$0,,,,,CERN
+21,D,2021-08-10 09:06:02,2021-08-06,CERN,Dalton Travis,"EVP, Chief Client, Serv. Off",F - Tax,$80.00,-1344,5167,-21%,"-$107,520",,,,,CERN
+22,DM,2021-08-10 09:05:12,2021-08-09,CERN,Battaglioli Michael R.,"SVP, Chief Accounting Officer",S - Sale+OE,$80.02,-9750,2670,-79%,"-$780,225",,,,,CERN
+23,D,2021-08-10 09:05:12,2021-08-06,CERN,Battaglioli Michael R.,"SVP, Chief Accounting Officer",X - OptEx,$70.91,7000,2670,-72%,"$496,370",,,,,CERN
+24,D,2021-08-03 09:14:47,2021-08-02,CERN,Platt Tracy L,CHRO,S - Sale+OE,$79.70,-9989,604,-94%,"-$796,123",,,,,CERN
+25,D,2021-07-28 16:02:16,2021-07-26,CERN,Platt Tracy L,CHRO,F - Tax,$78.29,-3885,10593,-27%,"-$304,157",,,,,CERN
+26,D,2021-07-28 16:02:16,2021-07-26,CERN,Platt Tracy L,CHRO,M - OptEx,$0.00,10032,10593,>999%,+$0,,,,,CERN
+27,D,2021-06-04 16:01:54,2021-06-04,CERN,Dalton Travis,"EVP, Chief Client, Serv. Off",S - Sale+OE,$81.17,-23603,3530,-87%,"-$1,915,856",,,,,CERN
+28,D,2021-06-04 16:01:54,2021-06-04,CERN,Dalton Travis,"EVP, Chief Client, Serv. Off",X - OptEx,$60.75,17070,3530,-83%,"$1,037,066",,,,,CERN
+29,D,2021-06-03 09:05:40,2021-06-01,CERN,Labat Jerome,"EVP, CTO",F - Tax,$77.90,-4088,7392,-36%,"-$318,455",,,,,CERN
+30,D,2021-06-03 09:05:40,2021-06-01,CERN,Labat Jerome,"EVP, CTO",M - OptEx,$0.00,11480,7392,-281%,+$0,,,,,CERN
+31,D,2021-06-03 09:04:36,2021-06-01,CERN,Dalton Travis,"EVP, Chief Client, Serv. Off",F - Tax,$77.90,-1247,10063,-11%,"-$97,141",,,,,CERN
+32,,2021-05-20 17:37:50,2021-05-19,CERN,Zollars William D,Dir,A - Grant,$0.00,3188,29776,+12%,+$0,,,,,CERN
+33,,2021-05-20 17:37:18,2021-05-19,CERN,Wise R Halsey,Dir,A - Grant,$0.00,3188,21855,+17%,+$0,,,,,CERN
+34,,2021-05-20 17:36:54,2021-05-19,CERN,Riedel George Andrew,Dir,A - Grant,$0.00,3188,12825,+33%,+$0,,,,,CERN
+35,,2021-05-20 17:36:21,2021-05-19,CERN,Mount Melinda J,Dir,A - Grant,$0.00,3188,14525,+28%,+$0,,,,,CERN
+36,,2021-05-20 17:32:39,2021-05-19,CERN,Greisch John J,Dir,A - Grant,$0.00,3188,23438,+16%,+$0,,,,,CERN
+37,,2021-05-20 17:32:10,2021-05-19,CERN,Granger Elder,Dir,A - Grant,$0.00,3188,8171,+64%,+$0,,,,,CERN
+38,,2021-05-20 17:29:18,2021-05-19,CERN,Gerberding Julie L.,Dir,A - Grant,$0.00,3188,15032,+27%,+$0,,,,,CERN
+39,,2021-05-20 17:28:31,2021-05-19,CERN,Daniels Mitchell E,Dir,A - Grant,$0.00,3188,37460,+9%,+$0,,,,,CERN
+40,,2021-05-20 17:26:45,2021-05-19,CERN,Bisbee Gerald E Jr,Dir,A - Grant,$0.00,3188,57904,+6%,+$0,,,,,CERN
+41,D,2021-05-14 17:11:07,2021-05-14,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$77.06,-5480,5420,-50%,"-$422,289",,,,,CERN
+42,D,2021-05-14 17:11:07,2021-05-14,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$57.05,5480,5420,-50%,"$312,651",,,,,CERN
+43,D,2021-05-07 18:02:32,2021-05-07,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$76.36,-88729,366,-100%,"-$6,775,346",,,,,CERN
+44,D,2021-05-07 18:02:32,2021-05-07,CERN,Shafer David Brent,"COB, CEO",X - OptEx,$61.22,52203,366,-99%,"$3,195,868",,,,,CERN
+45,D,2021-05-05 16:04:42,2021-05-04,CERN,Trigg Donald,Pres,F - Tax,$75.48,-4159,29828,-12%,"-$313,921",,,,,CERN
+46,D,2021-05-05 16:04:42,2021-05-04,CERN,Trigg Donald,Pres,M - OptEx,$0.00,9091,29828,+44%,+$0,,,,,CERN
+47,D,2021-05-05 16:04:04,2021-05-04,CERN,Devers Daniel,"EVP, GC",F - Tax,$75.48,-647,7508,-8%,"-$48,836",,,,,CERN
+48,D,2021-05-05 16:04:04,2021-05-04,CERN,Devers Daniel,"EVP, GC",M - OptEx,$0.00,2177,7508,+41%,+$0,,,,,CERN
+49,DM,2021-05-03 16:15:53,2021-04-29,CERN,Trigg Donald,Pres,F - Tax,$75.23,-16950,24896,-41%,"-$1,275,101",,,,,CERN
+50,DM,2021-05-03 16:15:53,2021-04-29,CERN,Trigg Donald,Pres,M - OptEx,$0.00,39959,24896,-265%,+$0,,,,,CERN
+51,DM,2021-05-03 16:15:07,2021-04-29,CERN,Shafer David Brent,"COB, CEO",F - Tax,$75.22,-19843,36892,-35%,"-$1,492,572",,,,,CERN
+52,DM,2021-05-03 16:15:07,2021-04-29,CERN,Shafer David Brent,"COB, CEO",M - OptEx,$0.00,44343,36892,-595%,+$0,,,,,CERN
+53,D,2021-05-03 16:14:07,2021-04-30,CERN,Platt Tracy L,CHRO,F - Tax,$75.05,-1706,4446,-28%,"-$128,035",,,,,CERN
+54,D,2021-05-03 16:14:07,2021-04-30,CERN,Platt Tracy L,CHRO,M - OptEx,$0.00,5548,4446,-503%,+$0,,,,,CERN
+55,DM,2021-05-03 16:13:25,2021-04-29,CERN,Devers Daniel,"EVP, GC",F - Tax,$75.23,-2198,5978,-27%,"-$165,349",,,,,CERN
+56,DM,2021-05-03 16:13:25,2021-04-29,CERN,Devers Daniel,"EVP, GC",M - OptEx,$0.00,7391,5978,-523%,+$0,,,,,CERN
+57,DM,2021-05-03 16:12:33,2021-04-29,CERN,Dalton Travis,"EVP, Chief Client, Serv. Off",F - Tax,$75.19,-2838,11310,-20%,"-$213,396",,,,,CERN
+58,DM,2021-05-03 16:12:33,2021-04-29,CERN,Dalton Travis,"EVP, Chief Client, Serv. Off",M - OptEx,$0.00,9313,11310,+466%,+$0,,,,,CERN
+59,DM,2021-05-03 16:11:08,2021-04-29,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",F - Tax,$75.19,-337,5420,-6%,"-$25,341",,,,,CERN
+60,DM,2021-05-03 16:11:08,2021-04-29,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",M - OptEx,$0.00,1387,5420,+34%,+$0,,,,,CERN
+61,DM,2021-03-10 16:01:29,2021-03-08,CERN,Erceg Mark J,"EVP, CFO",P - Purchase,$71.13,10547,31963,+49%,"+$750,241",,,,,CERN
+62,D,2021-03-03 16:34:08,2021-03-02,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",F - Tax,$69.61,-240,4370,-5%,"-$16,706",,,,,CERN
+63,D,2021-03-03 16:34:08,2021-03-02,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",M - OptEx,$0.00,880,4370,+25%,+$0,,,,,CERN
+64,DM,2021-03-03 16:33:26,2021-03-01,CERN,Erceg Mark J,"EVP, CFO",P - Purchase,$69.66,10761,21416,+101%,"+$749,597",,,,,CERN
+65,D,2021-03-02 16:02:09,2021-03-01,CERN,Shafer David Brent,"COB, CEO",F - Tax,$70.15,-8120,12392,-40%,"-$569,618",,,,,CERN
+66,D,2021-03-02 16:02:09,2021-03-01,CERN,Shafer David Brent,"COB, CEO",M - OptEx,$0.00,20146,12392,-260%,+$0,,,,,CERN
+67,DM,2021-02-24 16:02:03,2021-02-22,CERN,Erceg Mark J,"EVP, CFO",P - Purchase,$70.43,10655,10655,New,"+$750,422",,,,,CERN
+68,,2021-02-18 16:05:52,2021-02-17,CERN,Zollars William D,Dir,S - Sale,$72.63,-6256,26588,-19%,"-$454,373",,,,,CERN
+69,D,2020-12-15 16:08:31,2020-12-11,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$74.95,-2960,3547,-45%,"-$221,852",,,,,CERN
+70,D,2020-12-15 16:08:31,2020-12-11,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$62.94,2960,3547,-45%,"$186,302",,,,,CERN
+71,D,2020-12-03 16:34:47,2020-12-01,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",S - Sale+OE,$76.00,-100,24838,0%,"-$7,600",,,,,CERN
+72,D,2020-12-03 16:34:47,2020-12-01,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",X - OptEx,$67.24,100,24838,0%,"$6,724",,,,,CERN
+73,,2020-11-18 09:10:58,2020-11-16,CERN,Granger Elder,Dir,A - Grant,$0.00,4983,4983,New,+$0,,,,,CERN
+74,,2020-11-17 16:26:32,2020-11-16,CERN,Riedel George Andrew,Dir,S - Sale,$75.69,-1750,9637,-15%,"-$132,458",,,,,CERN
+75,DM,2020-11-17 16:25:43,2020-11-13,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",S - Sale+OE,$75.25,-16100,24838,-39%,"-$1,211,494",,,,,CERN
+76,DM,2020-11-17 16:25:43,2020-11-13,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",X - OptEx,$65.40,16100,24838,-39%,"$1,053,014",,,,,CERN
+77,DM,2020-11-12 17:14:08,2020-11-09,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",S - Sale+OE,$76.05,-53148,24838,-68%,"-$4,041,924",,,,,CERN
+78,DM,2020-11-12 17:14:08,2020-11-09,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",X - OptEx,$65.97,53148,24838,-68%,"$3,506,298",,,,,CERN
+79,D,2020-09-09 16:01:31,2020-09-07,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",F - Tax,$70.04,-6967,24838,-22%,"-$487,969",,,,,CERN
+80,D,2020-09-09 16:01:31,2020-09-07,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",M - OptEx,$0.00,15569,24838,+168%,+$0,,,,,CERN
+81,,2020-08-06 17:13:16,2020-08-06,CERN,Bisbee Gerald E Jr,Dir,S - Sale,$69.86,-7456,54716,-12%,"-$520,876",,,,,CERN
+82,D,2020-07-31 16:28:01,2020-07-31,CERN,Platt Tracy L,CHRO,S - Sale+OE,$71.38,-6948,160,-98%,"-$495,948",,,,,CERN
+83,D,2020-07-28 16:01:42,2020-07-27,CERN,Platt Tracy L,CHRO,F - Tax,$72.45,-3084,7108,-30%,"-$223,436",,,,,CERN
+84,D,2020-07-28 16:01:42,2020-07-27,CERN,Platt Tracy L,CHRO,M - OptEx,$0.00,10032,7108,-343%,+$0,,,,,CERN
+85,,2020-06-11 18:01:18,2020-06-09,CERN,Dillman Linda M,Dir,S - Sale,$72.32,-3556,25845,-12%,"-$257,170",,,,,CERN
+86,D,2020-06-11 18:00:37,2020-06-09,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$72.42,-12000,207,-98%,"-$869,040",,,,,CERN
+87,D,2020-06-11 18:00:37,2020-06-09,CERN,Shafer David Brent,"COB, CEO",X - OptEx,$61.22,12000,207,-98%,"$734,640",,,,,CERN
+88,D,2020-06-04 16:11:16,2020-06-03,CERN,Trigg Donald,Pres,S - Sale+OE,$73.31,-36574,1728,-95%,"-$2,681,240",,,,,CERN
+89,D,2020-06-04 16:11:16,2020-06-03,CERN,Trigg Donald,Pres,X - OptEx,$57.24,31970,1728,-95%,"$1,829,963",,,,,CERN
+90,DM,2020-05-29 16:05:46,2020-05-28,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$71.30,-45000,207,-100%,"-$3,208,329",,,,,CERN
+91,DM,2020-05-29 16:05:46,2020-05-28,CERN,Shafer David Brent,"COB, CEO",X - OptEx,$61.22,45000,207,-100%,"$2,754,900",,,,,CERN
+92,D,2020-05-29 16:04:39,2020-05-28,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",S - Sale+OE,$70.89,-53177,16236,-77%,"-$3,769,718",,,,,CERN
+93,D,2020-05-29 16:04:39,2020-05-28,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",X - OptEx,$56.44,40898,16236,-72%,"$2,308,202",,,,,CERN
+94,D,2020-05-29 16:03:56,2020-05-28,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$71.31,-4000,3547,-53%,"-$285,240",,,,,CERN
+95,D,2020-05-29 16:03:56,2020-05-28,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$54.88,4000,3547,-53%,"$219,500",,,,,CERN
+96,,2020-05-27 16:17:30,2020-05-22,CERN,Zollars William D,Dir,A - Grant,$0.00,3716,32844,+13%,+$0,,,,,CERN
+97,,2020-05-27 16:16:24,2020-05-22,CERN,Wise R Halsey,Dir,A - Grant,$0.00,3716,18667,+25%,+$0,,,,,CERN
+98,,2020-05-27 16:15:04,2020-05-22,CERN,Riedel George Andrew,Dir,A - Grant,$0.00,3716,11387,+48%,+$0,,,,,CERN
+99,,2020-05-27 16:14:17,2020-05-22,CERN,Mount Melinda J,Dir,A - Grant,$0.00,3716,11337,+49%,+$0,,,,,CERN
+100,,2020-05-27 16:13:22,2020-05-22,CERN,Greisch John J,Dir,A - Grant,$0.00,3716,20250,+22%,+$0,,,,,CERN
+101,,2020-05-27 16:12:20,2020-05-22,CERN,Gerberding Julie L.,Dir,A - Grant,$0.00,3716,11844,+46%,+$0,,,,,CERN
+102,,2020-05-27 16:11:24,2020-05-22,CERN,Dillman Linda M,Dir,A - Grant,$0.00,3716,29401,+14%,+$0,,,,,CERN
+103,,2020-05-27 16:11:24,2020-05-19,CERN,Dillman Linda M,Dir,G - Gift,$0.00,-75,29401,0%,-$0,,,,,CERN
+104,,2020-05-27 16:10:50,2020-05-22,CERN,Daniels Mitchell E,Dir,A - Grant,$0.00,3716,34272,+12%,+$0,,,,,CERN
+105,,2020-05-27 16:10:08,2020-05-22,CERN,Bisbee Gerald E Jr,Dir,A - Grant,$0.00,3716,62172,+6%,+$0,,,,,CERN
+106,D,2020-05-13 16:13:39,2020-05-11,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$68.52,-14282,207,-99%,"-$978,603",,,,,CERN
+107,D,2020-05-01 17:28:11,2020-05-01,CERN,Trigg Donald,Pres,D - Sale to issuer,$0.00,-6250,6332,-50%,-$0,,,,,CERN
+108,D,2020-05-01 17:28:11,2020-04-29,CERN,Trigg Donald,Pres,F - Tax,$71.01,-2910,6332,-31%,"-$206,639",,,,,CERN
+109,D,2020-05-01 17:28:11,2020-04-29,CERN,Trigg Donald,Pres,M - OptEx,$0.00,7514,6332,-636%,+$0,,,,,CERN
+110,D,2020-05-01 17:27:32,2020-04-29,CERN,Sims Randy D,"EVP, CLO, Secretary",F - Tax,$71.01,-2060,62282,-3%,"-$146,281",,,,,CERN
+111,D,2020-05-01 17:27:32,2020-04-29,CERN,Sims Randy D,"EVP, CLO, Secretary",M - OptEx,$0.00,5237,62282,+9%,+$0,,,,,CERN
+112,D,2020-05-01 17:26:53,2020-04-29,CERN,Shafer David Brent,"COB, CEO",F - Tax,$71.01,-11567,14489,-44%,"-$821,373",,,,,CERN
+113,D,2020-05-01 17:26:53,2020-04-29,CERN,Shafer David Brent,"COB, CEO",M - OptEx,$0.00,25849,14489,-228%,+$0,,,,,CERN
+114,D,2020-05-01 17:26:53,2020-04-30,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$69.73,-11907,14489,-45%,"-$830,275",,,,,CERN
+115,D,2020-05-01 17:25:31,2020-04-29,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",F - Tax,$71.01,-2235,28515,-7%,"-$158,707",,,,,CERN
+116,D,2020-05-01 17:25:31,2020-04-29,CERN,Peterzalek John,"EVP, Chief Client, Serv. Off",M - OptEx,$0.00,7514,28515,+36%,+$0,,,,,CERN
+117,D,2020-05-01 17:25:01,2020-04-29,CERN,Naughton Marc G,"EVP, CFO",F - Tax,$71.01,-3118,106519,-3%,"-$221,409",,,,,CERN
+118,D,2020-05-01 17:25:01,2020-04-29,CERN,Naughton Marc G,"EVP, CFO",M - OptEx,$0.00,6968,106519,+7%,+$0,,,,,CERN
+119,D,2020-05-01 17:24:18,2020-04-29,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",F - Tax,$71.01,-205,3547,-5%,"-$14,557",,,,,CERN
+120,D,2020-05-01 17:24:18,2020-04-29,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",M - OptEx,$0.00,691,3547,+24%,+$0,,,,,CERN
+121,D,2020-03-03 17:11:51,2020-03-01,CERN,Shafer David Brent,"COB, CEO",F - Tax,$72.55,-8239,12114,-40%,"-$597,739",,,,,CERN
+122,D,2020-03-03 17:11:51,2020-03-01,CERN,Shafer David Brent,"COB, CEO",M - OptEx,$0.00,20146,12114,-251%,+$0,,,,,CERN
+123,D,2020-02-13 20:02:23,2020-02-11,CERN,Sims Randy D,"EVP, CLO, Secretary",S - Sale+OE,$80.00,-188780,59105,-76%,"-$15,102,400",,,,,CERN
+124,D,2020-02-13 20:02:23,2020-02-11,CERN,Sims Randy D,"EVP, CLO, Secretary",X - OptEx,$18.55,188780,59105,-76%,"$3,501,972",,,,,CERN
+125,D,2020-02-11 18:00:52,2020-02-07,CERN,Trigg Donald,"EVP, Strategic Growth",S - Sale+OE,$78.94,-17400,7978,-69%,"-$1,373,556",,,,,CERN
+126,D,2020-02-11 18:00:52,2020-02-07,CERN,Trigg Donald,"EVP, Strategic Growth",X - OptEx,$55.24,17400,7978,-69%,"$961,176",,,,,CERN
+127,D,2020-02-07 19:48:05,2020-02-06,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$79.40,-10000,3061,-77%,"-$794,000",,,,,CERN
+128,D,2020-02-07 19:48:05,2020-02-06,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$61.95,10000,3061,-77%,"$619,510",,,,,CERN
+129,D,2020-02-07 19:46:13,2020-02-06,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$79.15,-176000,102199,-63%,"-$13,930,400",,,,,CERN
+130,D,2020-02-07 19:46:13,2020-02-06,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$19.87,176000,102199,-63%,"$3,497,550",,,,,CERN
+131,D,2019-12-17 16:01:37,2019-12-14,CERN,Peterzalek John,"EVP, Chief Client Officer",F - Tax,$72.67,-11747,23058,-34%,"-$853,654",,,,,CERN
+132,D,2019-12-17 16:01:37,2019-12-14,CERN,Peterzalek John,"EVP, Chief Client Officer",M - OptEx,$0.00,26251,23058,-822%,+$0,,,,,CERN
+133,D,2019-11-27 16:01:34,2019-11-25,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$70.48,-10000,2923,-77%,"-$704,800",,,,,CERN
+134,D,2019-11-27 16:01:34,2019-11-25,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$54.70,10000,2923,-77%,"$547,020",,,,,CERN
+135,D,2019-11-20 16:02:18,2019-11-19,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$68.15,-81772,50467,-62%,"-$5,572,762",,,,,CERN
+136,D,2019-11-20 16:02:18,2019-11-19,CERN,Nill Michael,"EVP, COO",X - OptEx,$55.74,56000,50467,-53%,"$3,121,440",,,,,CERN
+137,DM,2019-11-20 16:01:20,2019-11-18,CERN,Peterzalek John,"EVP, Chief Client Officer",S - Sale+OE,$68.21,-29665,8554,-78%,"-$2,023,426",,,,,CERN
+138,DM,2019-11-20 16:01:20,2019-11-18,CERN,Peterzalek John,"EVP, Chief Client Officer",X - OptEx,$55.24,20454,8554,-71%,"$1,129,879",,,,,CERN
+139,D,2019-09-16 16:02:50,2019-09-13,CERN,Peterzalek John,"EVP, Chief Client Officer",S - Sale+OE,$68.33,-42767,17765,-71%,"-$2,922,269",,,,,CERN
+140,D,2019-09-16 16:02:50,2019-09-13,CERN,Peterzalek John,"EVP, Chief Client Officer",X - OptEx,$53.54,42767,17765,-71%,"$2,289,807",,,,,CERN
+141,D,2019-09-16 16:02:11,2019-09-13,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$68.07,-13124,76239,-15%,"-$893,351",,,,,CERN
+142,D,2019-09-11 18:01:18,2019-09-09,CERN,Townsend Jeffrey A,"EVP, Chief of Innovation",S - Sale+OE,$66.46,-199432,37552,-84%,"-$13,254,251",,,,,CERN
+143,D,2019-09-11 18:01:18,2019-09-09,CERN,Townsend Jeffrey A,"EVP, Chief of Innovation",X - OptEx,$56.39,199432,37552,-84%,"$11,246,190",,,,,CERN
+144,D,2019-09-10 18:01:24,2019-09-06,CERN,Townsend Jeffrey A,"EVP, Chief of Innovation",S - Sale+OE,$67.59,-349922,37552,-90%,"-$23,651,228",,,,,CERN
+145,D,2019-09-10 18:01:24,2019-09-06,CERN,Townsend Jeffrey A,"EVP, Chief of Innovation",X - OptEx,$43.00,173568,37552,-82%,"$7,462,700",,,,,CERN
+146,D,2019-09-06 18:16:10,2019-09-06,CERN,Trigg Donald,"EVP, Strategic Growth",S - Sale+OE,$67.72,-29423,7850,-79%,"-$1,992,526",,,,,CERN
+147,D,2019-09-06 18:16:10,2019-09-06,CERN,Trigg Donald,"EVP, Strategic Growth",X - OptEx,$50.04,7100,7850,-47%,"$355,284",,,,,CERN
+148,D,2019-09-06 18:01:45,2019-09-06,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$67.58,-24110,101988,-19%,"-$1,629,354",,,,,CERN
+149,D,2019-09-04 20:06:25,2019-09-01,CERN,Trigg Donald,"EVP, Strategic Growth",F - Tax,$67.39,-16677,30173,-36%,"-$1,123,863",,,,,CERN
+150,D,2019-09-04 20:06:25,2019-09-01,CERN,Trigg Donald,"EVP, Strategic Growth",M - OptEx,$0.00,39000,30173,-442%,+$0,,,,,CERN
+151,D,2019-09-04 20:05:32,2019-09-01,CERN,Townsend Jeffrey A,"EVP, Chief of Innovation",F - Tax,$67.39,-30757,213906,-13%,"-$2,072,714",,,,,CERN
+152,D,2019-09-04 20:05:32,2019-09-01,CERN,Townsend Jeffrey A,"EVP, Chief of Innovation",M - OptEx,$0.00,70400,213906,+49%,+$0,,,,,CERN
+153,D,2019-09-04 20:04:28,2019-09-01,CERN,Sims Randy D,"EVP, CLO, Secretary",F - Tax,$67.39,-12119,58483,-17%,"-$816,699",,,,,CERN
+154,D,2019-09-04 20:04:28,2019-09-01,CERN,Sims Randy D,"EVP, CLO, Secretary",M - OptEx,$0.00,30800,58483,+111%,+$0,,,,,CERN
+155,D,2019-09-04 20:02:56,2019-09-01,CERN,Nill Michael,"EVP, COO",F - Tax,$67.39,-31504,89363,-26%,"-$2,123,055",,,,,CERN
+156,D,2019-09-04 20:02:56,2019-09-01,CERN,Nill Michael,"EVP, COO",M - OptEx,$0.00,70400,89363,+371%,+$0,,,,,CERN
+157,D,2019-09-04 20:02:02,2019-09-01,CERN,Naughton Marc G,"EVP, CFO",F - Tax,$67.39,-17690,126098,-12%,"-$1,192,129",,,,,CERN
+158,D,2019-09-04 20:02:02,2019-09-01,CERN,Naughton Marc G,"EVP, CFO",M - OptEx,$0.00,41800,126098,+50%,+$0,,,,,CERN
+159,DM,2019-08-23 16:12:36,2019-08-21,CERN,Peterzalek John,"EVP, Chief Client Officer",S - Sale+OE,$72.11,-27484,17765,-61%,"-$1,981,786",,,,,CERN
+160,DM,2019-08-23 16:12:36,2019-08-21,CERN,Peterzalek John,"EVP, Chief Client Officer",X - OptEx,$48.96,18406,17765,-51%,"$901,236",,,,,CERN
+161,,2019-08-23 16:11:52,2019-08-22,CERN,Gerberding Julie L.,Dir,S - Sale,$71.82,-7928,8128,-49%,"-$569,389",,,,,CERN
+162,D,2019-06-14 16:02:06,2019-06-13,CERN,Sims Randy D,"EVP, CLO, Secretary",S - Sale+OE,$72.45,-40000,39802,-50%,"-$2,898,000",,,,,CERN
+163,D,2019-06-14 16:02:06,2019-06-13,CERN,Sims Randy D,"EVP, CLO, Secretary",X - OptEx,$25.80,40000,39802,-50%,"$1,032,000",,,,,CERN
+164,,2019-06-13 16:03:04,2019-06-12,CERN,Zollars William D,Dir,S - Sale,$72.11,-1400,29128,-5%,"-$100,954",,,,,CERN
+165,,2019-06-03 16:15:15,2019-05-30,CERN,Zollars William D,Dir,A - Grant,$0.00,3556,30528,+13%,+$0,,,,,CERN
+166,,2019-06-03 16:14:19,2019-05-30,CERN,Wise R Halsey,Dir,A - Grant,$0.00,3556,14951,+31%,+$0,,,,,CERN
+167,,2019-06-03 16:12:23,2019-05-30,CERN,Riedel George Andrew,Dir,A - Grant,$0.00,3556,7671,+86%,+$0,,,,,CERN
+168,,2019-06-03 16:11:40,2019-05-30,CERN,Mount Melinda J,Dir,A - Grant,$0.00,3556,7621,+87%,+$0,,,,,CERN
+169,,2019-06-03 16:10:58,2019-05-30,CERN,Greisch John J,Dir,A - Grant,$0.00,3556,16481,+28%,+$0,,,,,CERN
+170,,2019-06-03 16:10:15,2019-05-30,CERN,Gerberding Julie L.,Dir,A - Grant,$0.00,3556,16056,+28%,+$0,,,,,CERN
+171,,2019-06-03 16:09:28,2019-05-30,CERN,Dillman Linda M,Dir,A - Grant,$0.00,3556,26334,+16%,+$0,,,,,CERN
+172,,2019-06-03 16:09:28,2019-05-30,CERN,Dillman Linda M,Dir,S - Sale,$70.14,-4100,26334,-13%,"-$287,574",,,,,CERN
+173,,2019-06-03 16:08:40,2019-05-30,CERN,Daniels Mitchell E,Dir,A - Grant,$0.00,3556,30556,+13%,+$0,,,,,CERN
+174,,2019-06-03 16:07:45,2019-05-30,CERN,Bisbee Gerald E Jr,Dir,A - Grant,$0.00,3556,58456,+6%,+$0,,,,,CERN
+175,D,2019-05-31 16:01:12,2019-05-29,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$69.42,-244000,50467,-83%,"-$16,938,480",,,,,CERN
+176,D,2019-05-31 16:01:12,2019-05-29,CERN,Nill Michael,"EVP, COO",X - OptEx,$45.82,244000,50467,-83%,"$11,180,440",,,,,CERN
+177,D,2019-05-21 16:02:21,2019-05-20,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$69.57,-93500,2114,-98%,"-$6,504,795",,,,,CERN
+178,D,2019-05-21 16:02:21,2019-05-20,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$57.70,93500,2114,-98%,"$5,394,675",,,,,CERN
+179,DM,2019-05-17 16:04:41,2019-05-16,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$69.13,-18000,2923,-86%,"-$1,244,298",,,,,CERN
+180,DM,2019-05-17 16:04:41,2019-05-16,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$41.87,18000,2923,-86%,"$753,590",,,,,CERN
+181,D,2019-05-17 16:03:47,2019-05-16,CERN,Sims Randy D,"EVP, CLO, Secretary",S - Sale+OE,$69.27,-48000,39802,-55%,"-$3,324,960",,,,,CERN
+182,D,2019-05-17 16:03:47,2019-05-16,CERN,Sims Randy D,"EVP, CLO, Secretary",X - OptEx,$21.30,48000,39802,-55%,"$1,022,400",,,,,CERN
+183,D,2019-05-14 19:07:58,2019-05-10,CERN,Trigg Donald,"EVP, Strategic Growth",D - Sale to issuer,$0.00,-6250,7850,-44%,-$0,,,,,CERN
+184,,2019-05-02 16:03:36,2019-05-02,CERN,Greisch John J,Dir,P - Purchase,$67.57,9000,12925,+229%,"+$608,130",,,,,CERN
+185,D,2019-05-02 16:02:23,2019-05-01,CERN,Trigg Donald,"EVP, Strategic Growth",F - Tax,$66.70,-384,14100,-3%,"-$25,613",,,,,CERN
+186,,2019-04-30 16:09:39,2019-04-29,CERN,Wise R Halsey,Dir,A - Grant,$0.00,3795,11395,+50%,+$0,,,,,CERN
+187,,2019-04-30 16:09:39,2019-04-30,CERN,Wise R Halsey,Dir,P - Purchase,$65.76,7600,11395,+200%,"+$499,776",,,,,CERN
+188,,2019-04-30 16:06:05,2019-04-29,CERN,Riedel George Andrew,Dir,A - Grant,$0.00,3795,4115,>999%,+$0,,,,,CERN
+189,,2019-04-30 16:03:36,2019-04-29,CERN,Mount Melinda J,Dir,A - Grant,$0.00,3795,4065,>999%,+$0,,,,,CERN
+190,,2019-04-30 16:02:58,2019-04-29,CERN,Greisch John J,Dir,A - Grant,$0.00,3795,3925,>999%,+$0,,,,,CERN
+191,D,2019-03-04 16:09:58,2019-03-01,CERN,Sims Randy D,"EVP, CLO, Secretary",F - Tax,$55.95,-27315,39802,-41%,"-$1,528,274",,,,,CERN
+192,D,2019-03-04 16:09:58,2019-03-01,CERN,Sims Randy D,"EVP, CLO, Secretary",M - OptEx,$9.18,60000,39802,-297%,"+$550,800",,,,,CERN
+193,D,2018-12-04 16:10:14,2018-11-29,CERN,Illig Clifford W,Vice COB,G - Gift,$0.00,-748672,12227940,+7%,-$0,,,,,CERN
+194,DM,2018-12-04 16:10:14,2018-11-30,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$57.95,-435000,12227940,-3%,"-$25,210,400",,,,,CERN
+195,D,2018-11-20 16:00:45,2018-11-19,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$57.19,-5000,12662940,0%,"-$285,950",,,,,CERN
+196,DM,2018-11-02 17:32:44,2018-11-01,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$57.53,-250000,12667940,-2%,"-$14,383,030",,,,,CERN
+197,DM,2018-09-13 18:01:19,2018-09-11,CERN,Burke Zane M,Pres,S - Sale+OE,$64.05,-381139,13290,-97%,"-$24,413,428",,,,,CERN
+198,DM,2018-09-13 18:01:19,2018-09-11,CERN,Burke Zane M,Pres,X - OptEx,$57.60,336200,13290,-96%,"$19,364,786",,,,,CERN
+199,D,2018-09-10 16:32:34,2018-09-06,CERN,Burke Zane M,Pres,F - Tax,$64.89,-37141,58229,-39%,"-$2,410,079",,,,,CERN
+200,D,2018-09-10 16:32:34,2018-09-06,CERN,Burke Zane M,Pres,M - OptEx,$0.00,82080,58229,-344%,+$0,,,,,CERN
+201,D,2018-08-30 18:02:11,2018-08-28,CERN,Burke Zane M,Pres,S - Sale+OE,$65.44,-151818,13290,-92%,"-$9,934,970",,,,,CERN
+202,D,2018-08-30 18:02:11,2018-08-28,CERN,Burke Zane M,Pres,X - OptEx,$55.71,130400,13290,-91%,"$7,264,008",,,,,CERN
+203,DM,2018-08-20 16:03:20,2018-08-16,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$64.73,-67574,1635,-98%,"-$4,373,940",,,,,CERN
+204,D,2018-08-20 16:03:20,2018-08-16,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$51.77,42000,1635,-96%,"$2,174,470",,,,,CERN
+205,D,2018-08-10 16:01:28,2018-06-07,CERN,Illig Clifford W,Vice COB,G - Gift,$0.00,-32787,12917940,0%,-$0,,,,,CERN
+206,DM,2018-08-10 16:01:28,2018-08-08,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$66.46,-378900,12917940,-3%,"-$25,180,095",,,,,CERN
+207,D,2018-08-08 16:04:20,2018-08-06,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$67.02,-4000,2821,-59%,"-$268,080",,,,,CERN
+208,D,2018-08-08 16:04:20,2018-08-06,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$32.12,4000,2821,-59%,"$128,460",,,,,CERN
+209,,2018-08-08 16:03:04,2018-08-06,CERN,Dillman Linda M,Dir,S - Sale,$66.54,-3900,26878,-13%,"-$259,506",,,,,CERN
+210,DM,2018-06-11 16:03:43,2018-06-07,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$60.40,-411200,13329627,-3%,"-$24,837,318",,,,,CERN
+211,,2018-06-08 16:21:20,2018-06-08,CERN,Cortese Denis A.,Dir,S - Sale,$60.25,-5000,27350,-15%,"-$301,250",,,,,CERN
+212,D,2018-06-05 16:10:03,2018-06-01,CERN,Wilson Julie M,"EVP, Chief People Officer",F - Tax,$59.73,-2722,27209,-9%,"-$162,585",,,,,CERN
+213,D,2018-06-05 16:09:26,2018-06-01,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",F - Tax,$59.73,-8145,173989,-4%,"-$486,501",,,,,CERN
+214,D,2018-06-05 16:08:14,2018-06-01,CERN,Nill Michael,"EVP, COO",F - Tax,$59.73,-6848,50381,-12%,"-$409,031",,,,,CERN
+215,D,2018-06-05 16:07:38,2018-06-01,CERN,Naughton Marc G,"EVP, CFO",F - Tax,$59.73,-2571,101902,-2%,"-$153,566",,,,,CERN
+216,D,2018-06-05 16:06:54,2018-06-01,CERN,Burke Zane M,Pres,F - Tax,$59.73,-6844,34708,-16%,"-$408,792",,,,,CERN
+217,,2018-05-22 16:06:26,2018-05-18,CERN,Zollars William D,Dir,A - Grant,$0.00,4100,26972,+18%,+$0,,,,,CERN
+218,,2018-05-22 16:06:26,2018-05-21,CERN,Zollars William D,Dir,S - Sale,$60.80,-3900,26972,-13%,"-$237,120",,,,,CERN
+219,D,2018-05-22 16:05:53,2018-05-21,CERN,Shafer David Brent,"COB, CEO",S - Sale+OE,$61.36,-13348,0,-100%,"-$819,033",,,,,CERN
+220,,2018-05-22 16:05:03,2018-05-18,CERN,Gerberding Julie L.,Dir,A - Grant,$0.00,4100,12500,+49%,+$0,,,,,CERN
+221,,2018-05-22 16:04:21,2018-05-18,CERN,Dillman Linda M,Dir,A - Grant,$0.00,4100,30778,+15%,+$0,,,,,CERN
+222,,2018-05-22 16:03:51,2018-05-18,CERN,Daniels Mitchell E,Dir,A - Grant,$0.00,4100,27000,+18%,+$0,,,,,CERN
+223,,2018-05-22 16:03:19,2018-05-18,CERN,Cortese Denis A.,Dir,A - Grant,$0.00,4100,32350,+15%,+$0,,,,,CERN
+224,,2018-05-22 16:02:41,2018-05-18,CERN,Bisbee Gerald E Jr,Dir,A - Grant,$0.00,4100,54900,+8%,+$0,,,,,CERN
+225,D,2018-05-07 17:47:25,2018-05-07,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$58.32,-3000,13740827,0%,"-$174,960",,,,,CERN
+226,DM,2018-03-09 16:42:04,2018-03-07,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$64.52,-307700,13743827,-2%,"-$19,852,627",,,,,CERN
+227,D,2018-03-06 21:36:05,2018-03-05,CERN,Illig Clifford W,Vice COB,F - Tax,$64.33,-19447,14051527,0%,"-$1,251,026",,,,,CERN
+228,D,2018-03-06 21:36:05,2018-03-05,CERN,Illig Clifford W,Vice COB,M - OptEx,$10.06,40000,14051527,0%,"+$402,200",,,,,CERN
+229,D,2018-02-15 18:04:28,2018-02-13,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",S - Sale+OE,$61.94,-230000,180986,-56%,"-$14,246,200",,,,,CERN
+230,D,2018-02-15 18:04:28,2018-02-13,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",X - OptEx,$9.64,230000,180986,-56%,"$2,216,400",,,,,CERN
+231,,2018-02-12 16:21:37,2018-02-08,CERN,Zollars William D,Dir,S - Sale,$62.16,-4100,26772,-13%,"-$254,856",,,,,CERN
+232,D,2017-12-13 16:40:14,2017-12-13,CERN,Burke Zane M,Pres,S - Sale+OE,$70.00,-50000,39934,-56%,"-$3,500,000",,,,,CERN
+233,D,2017-12-13 16:39:33,2017-12-13,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$69.89,-4000,2471,-62%,"-$279,560",,,,,CERN
+234,D,2017-12-13 16:39:33,2017-12-13,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$25.80,4000,2471,-62%,"$103,200",,,,,CERN
+235,D,2017-12-01 19:50:48,2017-11-30,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$70.64,-60000,103296,-37%,"-$4,238,400",,,,,CERN
+236,D,2017-12-01 19:50:48,2017-11-30,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$21.30,60000,103296,-37%,"$1,278,000",,,,,CERN
+237,DM,2017-11-20 17:28:28,2017-11-16,CERN,Illig Clifford W,"COB, Interim CEO",S - Sale+OE,$65.54,-530000,14029747,-4%,"-$34,734,642",,,,,CERN
+238,D,2017-11-07 17:34:42,2017-11-07,CERN,Illig Clifford W,"COB, Interim CEO",S - Sale+OE,$65.96,-4000,14559747,0%,"-$263,840",,,,,CERN
+239,D,2017-09-15 16:04:00,2017-09-13,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$70.45,-99470,55634,-64%,"-$7,007,662",,,,,CERN
+240,D,2017-09-06 16:48:15,2017-09-01,CERN,Sims Randy D,"SVP, CLO, Secretary",S - Sale+OE,$68.03,-60000,5288,-92%,"-$4,081,800",,,,,CERN
+241,D,2017-09-06 16:48:15,2017-09-01,CERN,Sims Randy D,"SVP, CLO, Secretary",X - OptEx,$10.06,60000,5288,-92%,"$603,300",,,,,CERN
+242,D,2017-09-06 16:45:04,2017-09-05,CERN,Burke Zane M,Pres,S - Sale+OE,$67.47,-94000,89934,-51%,"-$6,342,180",,,,,CERN
+243,D,2017-09-06 16:45:04,2017-09-05,CERN,Burke Zane M,Pres,X - OptEx,$42.48,94000,89934,-51%,"$3,993,560",,,,,CERN
+244,D,2017-08-14 16:28:58,2017-08-11,CERN,Illig Clifford W,"COB, Interim CEO",S - Sale+OE,$62.03,-118113,14563747,-1%,"-$7,326,549",,,,,CERN
+245,M,2017-07-28 16:04:39,2017-06-28,CERN,Patterson Neal L,"Former COB, CEO",G - Gift,$0.00,-22889618,21650437,-1847%,-$0,,,,,CERN
+246,,2017-06-09 16:00:48,2017-06-09,CERN,Bisbee Gerald E Jr,Dir,S - Sale,$67.97,-6200,50800,-11%,"-$421,414",,,,,CERN
+247,D,2017-06-08 17:32:10,2017-06-07,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$68.15,-60000,28613,-68%,"-$4,089,000",,,,,CERN
+248,D,2017-06-08 17:32:10,2017-06-07,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$42.55,60000,28613,-68%,"$2,553,200",,,,,CERN
+249,D,2017-06-07 08:53:52,2017-06-06,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$68.63,-60000,103296,-37%,"-$4,117,800",,,,,CERN
+250,D,2017-06-07 08:53:52,2017-06-06,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$9.18,60000,103296,-37%,"$550,800",,,,,CERN
+251,D,2017-06-02 16:31:54,2017-06-01,CERN,Wilson Julie M,"EVP, Chief People Officer",F - Tax,$66.70,-2401,28613,-8%,"-$160,147",,,,,CERN
+252,D,2017-06-02 16:31:01,2017-06-01,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",F - Tax,$66.70,-6904,180632,-4%,"-$460,497",,,,,CERN
+253,D,2017-06-02 16:30:06,2017-06-01,CERN,Nill Michael,"EVP, COO",F - Tax,$66.70,-6904,155104,-4%,"-$460,497",,,,,CERN
+254,D,2017-06-02 16:29:02,2017-06-01,CERN,Naughton Marc G,"EVP, CFO",F - Tax,$66.70,-2267,103296,-2%,"-$151,209",,,,,CERN
+255,D,2017-06-02 16:28:03,2017-06-01,CERN,Burke Zane M,Pres,F - Tax,$66.70,-5840,89934,-6%,"-$389,528",,,,,CERN
+256,,2017-05-25 16:15:56,2017-05-24,CERN,Gerberding Julie L.,Dir,A - Grant,$0.00,3900,8400,+87%,+$0,,,,,CERN
+257,,2017-05-25 16:11:13,2017-05-24,CERN,Zollars William D,Dir,A - Grant,$0.00,3900,32276,+14%,+$0,,,,,CERN
+258,,2017-05-25 16:10:08,2017-05-24,CERN,Neaves William B,Dir,A - Grant,$0.00,3900,63400,+7%,+$0,,,,,CERN
+259,,2017-05-25 16:05:37,2017-05-24,CERN,Dillman Linda M,Dir,A - Grant,$0.00,3900,28443,+16%,+$0,,,,,CERN
+260,,2017-05-25 16:04:14,2017-05-24,CERN,Daniels Mitchell E,Dir,A - Grant,$0.00,3900,22900,+21%,+$0,,,,,CERN
+261,,2017-05-25 16:02:29,2017-05-24,CERN,Cortese Denis A.,Dir,A - Grant,$0.00,3900,28250,+16%,+$0,,,,,CERN
+262,,2017-05-25 16:00:45,2017-05-24,CERN,Bisbee Gerald E Jr,Dir,A - Grant,$0.00,3900,57000,+7%,+$0,,,,,CERN
+263,,2017-05-22 17:10:22,2017-05-22,CERN,Zollars William D,Dir,S - Sale,$64.64,-4600,28376,-14%,"-$297,344",,,,,CERN
+264,,2017-05-22 17:09:14,2017-05-22,CERN,Dillman Linda M,Dir,S - Sale,$64.69,-4600,24543,-16%,"-$297,574",,,,,CERN
+265,D,2017-05-15 16:02:55,2017-05-12,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$64.33,-43000,22540055,0%,"-$2,766,190",,,,,CERN
+266,D,2017-05-12 16:01:12,2017-05-11,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$64.43,-234525,14681860,-2%,"-$15,110,446",,,,,CERN
+267,D,2017-05-10 16:01:00,2017-04-28,CERN,Patterson Neal L,"COB, CEO",G - Gift,$0.00,-30490,22583055,0%,-$0,0.0,,,,CERN
+268,D,2017-05-10 16:01:00,2017-05-08,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$64.71,-180667,22583055,-1%,"-$11,690,422",0.0,,,,CERN
+269,D,2017-05-05 16:04:00,2017-05-04,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$63.91,-110000,162008,-40%,"-$7,030,100",0.0,0.0,,,CERN
+270,D,2017-05-05 16:04:00,2017-05-04,CERN,Nill Michael,"EVP, COO",X - OptEx,$9.18,110000,162008,-40%,"$1,009,800",0.0,0.0,,,CERN
+271,,2017-05-05 16:03:08,2017-05-04,CERN,Cortese Denis A.,Dir,S - Sale,$64.39,-1550,24350,-6%,"-$99,805",0.0,0.0,,,CERN
+272,D,2017-05-03 17:13:33,2017-05-01,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$65.55,-4000,2471,-62%,"-$262,200",0.0,1.0,,,CERN
+273,D,2017-05-03 17:13:33,2017-05-01,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$25.80,4000,2471,-62%,"$103,200",0.0,1.0,,,CERN
+274,D,2017-03-14 17:26:59,2017-03-14,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$54.91,-20000,22813626,0%,"-$1,098,200",1.0,3.0,8.0,,CERN
+275,,2017-03-06 17:26:37,2017-03-03,CERN,Gerberding Julie L.,Dir,A - Grant,$0.00,4500,4500,New,+$0,0.0,0.0,7.0,,CERN
+276,D,2017-02-14 17:20:56,2017-02-13,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",S - Sale+OE,$52.31,-100000,187536,-35%,"-$5,231,000",1.0,1.0,2.0,,CERN
+277,D,2017-02-14 17:20:56,2017-02-13,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",X - OptEx,$13.45,100000,187536,-35%,"$1,345,250",1.0,1.0,2.0,,CERN
+278,,2016-11-07 16:00:40,2016-08-04,CERN,Zollars William D,Dir,G - Gift,$0.00,-1510,32976,-4%,-$0,0.0,-8.0,-10.0,23.0,CERN
+279,,2016-11-07 16:00:40,2016-11-07,CERN,Zollars William D,Dir,S - Sale,$51.50,-10000,32976,-23%,"-$515,000",0.0,-8.0,-10.0,23.0,CERN
+280,,2016-09-07 17:55:09,2016-09-06,CERN,Dillman Linda M,Dir,S - Sale,$64.68,-6000,29143,-17%,"-$388,080",-1.0,-5.0,-6.0,-16.0,CERN
+281,D,2016-09-07 17:54:05,2016-09-06,CERN,Burke Zane M,Pres,F - Tax,$64.96,-11987,95613,-11%,"-$778,676",-1.0,-5.0,-6.0,-16.0,CERN
+282,D,2016-08-19 19:25:23,2016-08-17,CERN,Illig Clifford W,Vice COB,F - Tax,$65.36,-240295,14913160,-2%,"-$15,705,681",0.0,0.0,-5.0,-13.0,CERN
+283,D,2016-08-19 19:25:23,2016-08-17,CERN,Illig Clifford W,Vice COB,M - OptEx,$4.54,466000,14913160,+3%,"+$2,115,663",0.0,0.0,-5.0,-13.0,CERN
+284,D,2016-08-19 19:25:23,2016-08-18,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$65.10,-325705,14913160,-2%,"-$21,203,396",0.0,0.0,-5.0,-13.0,CERN
+285,D,2016-08-12 16:01:35,2016-08-10,CERN,Burke Zane M,Pres,S - Sale+OE,$66.73,-149480,107600,-58%,"-$9,974,800",0.0,-2.0,-5.0,-22.0,CERN
+286,D,2016-08-12 16:01:35,2016-08-10,CERN,Burke Zane M,Pres,X - OptEx,$33.41,149480,107600,-58%,"$4,994,679",0.0,-2.0,-5.0,-22.0,CERN
+287,D,2016-08-09 17:34:00,2016-08-08,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$67.27,-46923,30443,-61%,"-$3,156,510",0.0,0.0,-3.0,-20.0,CERN
+288,D,2016-08-09 17:34:00,2016-08-08,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$33.87,46923,30443,-61%,"$1,589,513",0.0,0.0,-3.0,-20.0,CERN
+289,D,2016-08-09 17:33:09,2016-08-05,CERN,Patterson Neal L,"COB, CEO",F - Tax,$66.87,-349362,22823167,-2%,"-$23,361,837",0.0,0.0,-3.0,-20.0,CERN
+290,D,2016-08-09 17:33:09,2016-08-05,CERN,Patterson Neal L,"COB, CEO",M - OptEx,$3.70,750000,22823167,+3%,"+$2,777,400",0.0,0.0,-3.0,-20.0,CERN
+291,DM,2016-08-09 17:33:09,2016-08-05,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$67.14,-428638,22823167,-2%,"-$28,779,531",0.0,0.0,-3.0,-20.0,CERN
+292,D,2016-08-09 17:32:12,2016-08-08,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$67.34,-2000,2337,-46%,"-$134,680",0.0,0.0,-3.0,-20.0,CERN
+293,D,2016-08-09 17:32:12,2016-08-08,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$21.30,2000,2337,-46%,"$42,600",0.0,0.0,-3.0,-20.0,CERN
+294,D,2016-08-09 17:30:49,2016-08-05,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$65.99,-90000,105424,-46%,"-$5,939,100",0.0,0.0,-3.0,-20.0,CERN
+295,D,2016-08-09 17:30:49,2016-08-05,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$10.06,90000,105424,-46%,"$904,950",0.0,0.0,-3.0,-20.0,CERN
+296,D,2016-08-09 17:29:49,2016-08-08,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$67.16,-50000,161870,-24%,"-$3,358,000",0.0,0.0,-3.0,-20.0,CERN
+297,D,2016-08-09 17:29:49,2016-08-08,CERN,Nill Michael,"EVP, COO",X - OptEx,$11.58,50000,161870,-24%,"$579,000",0.0,0.0,-3.0,-20.0,CERN
+298,,2016-06-03 16:07:21,2016-06-01,CERN,Zollars William D,Dir,S - Sale,$55.72,-9000,44486,-17%,"-$501,480",0.0,3.0,7.0,-10.0,CERN
+299,D,2016-06-03 16:06:25,2016-06-01,CERN,Wilson Julie M,"EVP, Chief People Officer",F - Tax,$55.62,-2968,30443,-9%,"-$165,080",0.0,3.0,7.0,-10.0,CERN
+300,D,2016-06-03 16:05:13,2016-06-01,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",F - Tax,$55.62,-8535,187172,-4%,"-$474,717",0.0,3.0,7.0,-10.0,CERN
+301,D,2016-06-03 16:03:43,2016-06-01,CERN,Nill Michael,"EVP, COO",F - Tax,$55.62,-7017,161870,-4%,"-$390,286",0.0,3.0,7.0,-10.0,CERN
+302,D,2016-06-03 16:02:41,2016-06-01,CERN,Naughton Marc G,"EVP, CFO",F - Tax,$55.62,-2951,105424,-3%,"-$164,135",0.0,3.0,7.0,-10.0,CERN
+303,D,2016-06-03 16:01:15,2016-06-01,CERN,Burke Zane M,Pres,F - Tax,$55.62,-7012,107600,-6%,"-$390,007",0.0,3.0,7.0,-10.0,CERN
+304,,2016-06-01 09:08:06,2016-05-27,CERN,Zollars William D,Dir,A - Grant,$0.00,4600,53486,+9%,+$0,0.0,2.0,3.0,-9.0,CERN
+305,,2016-06-01 09:04:50,2016-05-27,CERN,Neaves William B,Dir,A - Grant,$0.00,4600,59500,+8%,+$0,0.0,2.0,3.0,-9.0,CERN
+306,,2016-06-01 09:03:38,2016-05-27,CERN,Dillman Linda M,Dir,A - Grant,$0.00,4600,35143,+15%,+$0,0.0,2.0,3.0,-9.0,CERN
+307,,2016-06-01 09:01:02,2016-05-27,CERN,Daniels Mitchell E,Dir,A - Grant,$0.00,4600,19000,+32%,+$0,0.0,2.0,3.0,-9.0,CERN
+308,,2016-06-01 08:59:41,2016-05-27,CERN,Danforth John C,Dir,A - Grant,$0.00,4600,419816,+1%,+$0,0.0,2.0,3.0,-9.0,CERN
+309,,2016-06-01 08:58:04,2016-05-27,CERN,Cortese Denis A.,Dir,A - Grant,$0.00,4600,25900,+22%,+$0,0.0,2.0,3.0,-9.0,CERN
+310,,2016-06-01 08:56:53,2016-05-27,CERN,Bisbee Gerald E Jr,Dir,A - Grant,$0.00,4600,53100,+9%,+$0,0.0,2.0,3.0,-9.0,CERN
+311,,2016-05-23 17:30:11,2016-04-07,CERN,Dillman Linda M,Dir,G - Gift,$0.00,-449,30543,-1%,-$0,2.0,2.0,1.0,-8.0,CERN
+312,,2016-05-23 17:30:11,2016-05-23,CERN,Dillman Linda M,Dir,S - Sale,$54.46,-3700,30543,-11%,"-$201,502",2.0,2.0,1.0,-8.0,CERN
+313,D,2016-05-13 16:01:22,2016-05-12,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$54.24,-40000,22890595,0%,"-$2,169,600",1.0,0.0,4.0,-5.0,CERN
+314,,2016-02-22 17:15:27,2016-02-19,CERN,Zollars William D,Dir,S - Sale,$51.40,-11680,48886,-19%,"-$600,352",-3.0,-1.0,1.0,25.0,CERN
+315,D,2016-02-22 17:14:06,2016-02-19,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",S - Sale+OE,$51.48,-100000,195707,-34%,"-$5,148,000",-3.0,-1.0,1.0,25.0,CERN
+316,D,2016-02-22 17:14:06,2016-02-19,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",X - OptEx,$10.88,100000,195707,-34%,"$1,087,750",-3.0,-1.0,1.0,25.0,CERN
+317,D,2016-02-22 17:13:13,2016-02-18,CERN,Patterson Neal L,"COB, CEO",M - OptEx,$10.88,400000,22930595,+2%,"+$4,351,000",-3.0,-1.0,1.0,25.0,CERN
+318,D,2016-02-22 17:11:45,2016-02-18,CERN,Illig Clifford W,Vice COB,M - OptEx,$10.88,40000,15013160,0%,"+$435,100",-3.0,-1.0,1.0,25.0,CERN
+319,D,2015-12-15 08:40:14,2015-12-14,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$60.52,-2821,32963,-8%,"-$170,727",1.0,0.0,-3.0,-9.0,CERN
+320,D,2015-12-15 08:40:14,2015-12-14,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$25.80,2821,32963,-8%,"$72,782",1.0,0.0,-3.0,-9.0,CERN
+321,D,2015-12-11 17:07:40,2015-12-09,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$60.67,-32256,32963,-49%,"-$1,956,972",0.0,1.0,-1.0,-7.0,CERN
+322,D,2015-12-11 17:07:40,2015-12-09,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$24.13,32256,32963,-49%,"$778,205",0.0,1.0,-1.0,-7.0,CERN
+323,D,2015-12-11 17:06:51,2015-12-10,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$60.06,-2000,2235,-47%,"-$120,120",0.0,1.0,-1.0,-7.0,CERN
+324,D,2015-12-11 17:06:51,2015-12-10,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$21.30,2000,2235,-47%,"$42,600",0.0,1.0,-1.0,-7.0,CERN
+325,D,2015-09-09 16:01:23,2015-09-06,CERN,Burke Zane M,Pres,F - Tax,$62.38,-5993,114490,-5%,"-$373,843",1.0,2.0,2.0,-13.0,CERN
+326,D,2015-06-03 16:42:23,2015-06-01,CERN,Naughton Marc G,"EVP, CFO",D - Sale to issuer,$0.00,-185,108270,0%,-$0,-1.0,-3.0,2.0,-12.0,CERN
+327,D,2015-06-03 16:42:23,2015-06-01,CERN,Naughton Marc G,"EVP, CFO",F - Tax,$67.81,-797,108270,-1%,"-$54,045",-1.0,-3.0,2.0,-12.0,CERN
+328,D,2015-06-03 16:26:57,2015-06-01,CERN,Wilson Julie M,"EVP, Chief People Officer",D - Sale to issuer,$0.00,-190,32963,-1%,-$0,-1.0,-3.0,2.0,-12.0,CERN
+329,D,2015-06-03 16:26:57,2015-06-01,CERN,Wilson Julie M,"EVP, Chief People Officer",F - Tax,$67.81,-570,32963,-2%,"-$38,652",-1.0,-3.0,2.0,-12.0,CERN
+330,D,2015-06-03 16:25:47,2015-06-01,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",D - Sale to issuer,$0.00,-380,195430,0%,-$0,-1.0,-3.0,2.0,-12.0,CERN
+331,D,2015-06-03 16:25:47,2015-06-01,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",F - Tax,$67.81,-1639,195430,-1%,"-$111,141",-1.0,-3.0,2.0,-12.0,CERN
+332,D,2015-06-03 16:24:36,2015-06-01,CERN,Patterson Neal L,"COB, CEO",F - Tax,$67.81,-219660,22579558,-1%,"-$14,895,145",-1.0,-3.0,2.0,-12.0,CERN
+333,DM,2015-06-03 16:24:36,2015-04-27,CERN,Patterson Neal L,"COB, CEO",G - Gift,$0.00,-67230,22579558,0%,-$0,-1.0,-3.0,2.0,-12.0,CERN
+334,D,2015-06-03 16:24:36,2015-06-01,CERN,Patterson Neal L,"COB, CEO",M - OptEx,$3.70,472000,22579558,+2%,"+$1,747,910",-1.0,-3.0,2.0,-12.0,CERN
+335,DM,2015-06-03 16:24:36,2015-06-02,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$67.37,-252340,22579558,-1%,"-$17,001,287",-1.0,-3.0,2.0,-12.0,CERN
+336,D,2015-06-03 16:22:59,2015-06-01,CERN,Nill Michael,"EVP, COO",D - Sale to issuer,$0.00,-380,168781,0%,-$0,-1.0,-3.0,2.0,-12.0,CERN
+337,D,2015-06-03 16:22:59,2015-06-01,CERN,Nill Michael,"EVP, COO",F - Tax,$67.81,-1639,168781,-1%,"-$111,141",-1.0,-3.0,2.0,-12.0,CERN
+338,D,2015-06-03 16:21:38,2015-06-02,CERN,Illig Clifford W,Vice COB,F - Tax,$67.14,-19739,14581364,0%,"-$1,325,276",-1.0,-3.0,2.0,-12.0,CERN
+339,D,2015-06-03 16:21:38,2015-06-02,CERN,Illig Clifford W,Vice COB,M - OptEx,$7.85,40000,14581364,0%,"+$314,052",-1.0,-3.0,2.0,-12.0,CERN
+340,D,2015-06-03 16:21:38,2015-06-03,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$67.59,-20261,14581364,0%,"-$1,369,441",-1.0,-3.0,2.0,-12.0,CERN
+341,D,2015-06-03 16:20:16,2015-06-01,CERN,Burke Zane M,Pres,D - Sale to issuer,$0.00,-1980,120483,-2%,-$0,-1.0,-3.0,2.0,-12.0,CERN
+342,D,2015-06-03 16:20:16,2015-06-01,CERN,Burke Zane M,Pres,F - Tax,$67.81,-8543,120483,-7%,"-$579,301",-1.0,-3.0,2.0,-12.0,CERN
+343,D,2015-06-03 16:18:38,2015-06-01,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$67.91,-2000,2235,-47%,"-$135,820",-1.0,-3.0,2.0,-12.0,CERN
+344,D,2015-06-03 16:18:38,2015-06-01,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$21.30,2000,2235,-47%,"$42,600",-1.0,-3.0,2.0,-12.0,CERN
+345,,2015-05-27 16:03:45,2015-05-22,CERN,Neaves William B,Dir,A - Grant,$0.00,3700,54900,+7%,+$0,0.0,-2.0,1.0,-14.0,CERN
+346,,2015-05-27 16:02:02,2015-05-22,CERN,Cortese Denis A.,Dir,A - Grant,$0.00,3700,21300,+21%,+$0,0.0,-2.0,1.0,-14.0,CERN
+347,,2015-05-27 16:02:02,2015-05-26,CERN,Cortese Denis A.,Dir,S - Sale,$67.52,-4000,21300,-16%,"-$270,080",0.0,-2.0,1.0,-14.0,CERN
+348,,2015-05-27 08:56:06,2015-05-22,CERN,Zollars William D,Dir,A - Grant,$0.00,3700,61966,+6%,+$0,1.0,-1.0,2.0,-13.0,CERN
+349,,2015-05-27 08:54:25,2015-05-22,CERN,Dillman Linda M,Dir,A - Grant,$0.00,3700,34692,+12%,+$0,1.0,-1.0,2.0,-13.0,CERN
+350,,2015-05-27 08:52:32,2015-05-22,CERN,Daniels Mitchell E,Dir,A - Grant,$0.00,3700,14400,+35%,+$0,1.0,-1.0,2.0,-13.0,CERN
+351,,2015-05-27 08:51:00,2015-05-22,CERN,Danforth John C,Dir,A - Grant,$0.00,3700,415216,+1%,+$0,1.0,-1.0,2.0,-13.0,CERN
+352,,2015-05-27 08:47:42,2015-05-22,CERN,Bisbee Gerald E Jr,Dir,A - Grant,$0.00,3700,48500,+8%,+$0,1.0,-1.0,2.0,-13.0,CERN
+353,,2015-05-21 16:12:53,2015-05-20,CERN,Bisbee Gerald E Jr,Dir,S - Sale,$68.40,-6400,44800,-13%,"-$437,760",1.0,1.0,2.0,-15.0,CERN
+354,,2015-05-19 16:02:29,2014-12-29,CERN,Dillman Linda M,Dir,G - Gift,$0.00,-308,30992,-1%,-$0,0.0,-1.0,-1.0,-18.0,CERN
+355,,2015-05-19 16:02:29,2015-05-19,CERN,Dillman Linda M,Dir,S - Sale,$68.63,-5900,30992,-16%,"-$404,917",0.0,-1.0,-1.0,-18.0,CERN
+356,,2015-05-12 16:01:08,2015-05-12,CERN,Zollars William D,Dir,S - Sale,$67.63,-7400,58266,-11%,"-$500,462",0.0,2.0,0.0,-10.0,CERN
+357,D,2015-03-16 07:09:38,2015-03-12,CERN,Wilson Julie M,"EVP, Chief People Officer",A - Grant,$0.00,9000,28924,+45%,+$0,2.0,5.0,5.0,-11.0,CERN
+358,D,2015-03-16 07:08:58,2015-03-12,CERN,Naughton Marc G,"EVP, CFO",A - Grant,$0.00,8500,102904,+9%,+$0,2.0,5.0,5.0,-11.0,CERN
+359,D,2015-03-16 07:08:16,2015-03-12,CERN,Burke Zane M,Pres,A - Grant,$0.00,18000,127258,+16%,+$0,2.0,5.0,5.0,-11.0,CERN
+360,D,2015-03-16 07:07:34,2015-03-12,CERN,Nill Michael,"EVP, COO",A - Grant,$0.00,18000,163304,+12%,+$0,2.0,5.0,5.0,-11.0,CERN
+361,D,2015-03-16 07:06:49,2015-03-12,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",A - Grant,$0.00,18000,189953,+10%,+$0,2.0,5.0,5.0,-11.0,CERN
+362,DM,2015-03-10 08:48:42,2015-03-06,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$70.45,-50000,145304,-26%,"-$3,522,402",-1.0,2.0,4.0,-15.0,CERN
+363,DM,2015-03-10 08:48:42,2015-03-06,CERN,Nill Michael,"EVP, COO",X - OptEx,$11.58,50000,145304,-26%,"$579,000",-1.0,2.0,4.0,-15.0,CERN
+364,D,2015-03-03 08:54:49,2015-03-02,CERN,Burke Zane M,Pres,S - Sale+OE,$71.85,-50000,109258,-31%,"-$3,592,500",-1.0,-3.0,1.0,-13.0,CERN
+365,D,2015-03-03 08:54:49,2015-03-02,CERN,Burke Zane M,Pres,X - OptEx,$17.53,40000,109258,-27%,"$701,323",-1.0,-3.0,1.0,-13.0,CERN
+366,D,2015-03-02 08:50:01,2015-02-27,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",S - Sale+OE,$72.13,-120000,171953,-41%,"-$8,655,600",0.0,-3.0,3.0,-15.0,CERN
+367,D,2015-03-02 08:50:01,2015-02-27,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",X - OptEx,$7.85,120000,171953,-41%,"$942,156",0.0,-3.0,3.0,-15.0,CERN
+368,D,2015-02-27 16:01:18,2015-02-25,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$73.00,-54000,22669788,0%,"-$3,941,740",0.0,1.0,2.0,-14.0,CERN
+369,DM,2015-02-19 16:34:59,2015-02-17,CERN,Sims Randy D,"SVP, CLO, Secretary",S - Sale+OE,$71.11,-28874,4244,-87%,"-$2,053,212",1.0,2.0,4.0,-8.0,CERN
+370,DM,2015-02-19 16:34:59,2015-02-17,CERN,Sims Randy D,"SVP, CLO, Secretary",X - OptEx,$13.45,28874,4244,-87%,"$388,427",1.0,2.0,4.0,-8.0,CERN
+371,DM,2015-02-19 16:33:51,2015-02-17,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$70.06,-325492,22743363,-1%,"-$22,803,340",1.0,2.0,4.0,-8.0,CERN
+372,D,2015-02-17 08:47:20,2015-02-13,CERN,Sims Randy D,"SVP, CLO, Secretary",S - Sale+OE,$71.06,-31126,4244,-88%,"-$2,211,814",-2.0,3.0,1.0,-9.0,CERN
+373,D,2015-02-17 08:47:20,2015-02-13,CERN,Sims Randy D,"SVP, CLO, Secretary",X - OptEx,$13.45,31126,4244,-88%,"$418,723",-2.0,3.0,1.0,-9.0,CERN
+374,D,2015-02-17 08:46:13,2015-02-13,CERN,Patterson Neal L,"COB, CEO",F - Tax,$70.98,-330508,23068855,-1%,"-$23,459,458",-2.0,3.0,1.0,-9.0,CERN
+375,D,2015-02-17 08:46:13,2015-02-13,CERN,Patterson Neal L,"COB, CEO",M - OptEx,$9.10,656000,23068855,+3%,"+$5,966,933",-2.0,3.0,1.0,-9.0,CERN
+376,D,2015-02-17 08:43:49,2015-02-13,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$70.95,-40000,94404,-30%,"-$2,838,000",-2.0,3.0,1.0,-9.0,CERN
+377,D,2015-02-17 08:43:49,2015-02-13,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$13.45,40000,94404,-30%,"$538,100",-2.0,3.0,1.0,-9.0,CERN
+378,D,2015-02-17 08:42:31,2015-02-13,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$70.92,-2000,2235,-47%,"-$141,840",-2.0,3.0,1.0,-9.0,CERN
+379,D,2015-02-17 08:42:31,2015-02-13,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$21.30,2000,2235,-47%,"$42,600",-2.0,3.0,1.0,-9.0,CERN
+380,D,2014-12-12 16:01:45,2014-12-02,CERN,Patterson Neal L,"COB, CEO",G - Gift,$0.00,-62500,22822728,0%,-$0,0.0,4.0,6.0,9.0,CERN
+381,D,2014-12-12 16:01:45,2014-12-10,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$63.66,-4697,22822728,0%,"-$299,017",0.0,4.0,6.0,9.0,CERN
+382,D,2014-12-12 16:01:45,2014-06-27,CERN,Patterson Neal L,"COB, CEO",W - Inherited,$0.00,4197,22822728,0%,$0,0.0,4.0,6.0,9.0,CERN
+383,DM,2014-12-01 17:06:32,2014-11-28,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$64.58,-22000,19856,-53%,"-$1,420,679",0.0,0.0,2.0,4.0,CERN
+384,DM,2014-12-01 17:06:32,2014-11-28,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$23.35,22000,19856,-53%,"$513,600",0.0,0.0,2.0,4.0,CERN
+385,D,2014-12-01 16:09:40,2014-11-26,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$63.44,-124084,14580778,-1%,"-$7,871,889",0.0,0.0,2.0,4.0,CERN
+386,D,2014-12-01 16:09:40,2014-11-26,CERN,Illig Clifford W,Vice COB,X - OptEx,$3.70,124084,14580778,-1%,"$459,508",0.0,0.0,2.0,4.0,CERN
+387,D,2014-11-25 17:59:46,2014-11-18,CERN,Illig Clifford W,Vice COB,G - Gift,$0.00,-64000,14580778,0%,-$0,1.0,2.0,3.0,8.0,CERN
+388,DM,2014-11-25 17:59:46,2014-11-21,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$64.50,-2900,14580778,0%,"-$187,050",1.0,2.0,3.0,8.0,CERN
+389,DM,2014-11-25 17:59:46,2014-11-21,CERN,Illig Clifford W,Vice COB,X - OptEx,$3.70,2900,14580778,0%,"$10,739",1.0,2.0,3.0,8.0,CERN
+390,D,2014-11-20 17:08:37,2014-11-18,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$64.51,-116586,14644778,-1%,"-$7,520,963",0.0,1.0,2.0,8.0,CERN
+391,D,2014-11-20 17:08:37,2014-11-18,CERN,Illig Clifford W,Vice COB,X - OptEx,$3.70,23016,14644778,0%,"$85,233",0.0,1.0,2.0,8.0,CERN
+392,DM,2014-11-07 16:11:53,2014-11-05,CERN,Sims Randy D,"SVP, CLO, Secretary",S - Sale+OE,$63.65,-43162,3621,-92%,"-$2,747,233",1.0,2.0,2.0,8.0,CERN
+393,DM,2014-11-07 16:11:53,2014-11-05,CERN,Sims Randy D,"SVP, CLO, Secretary",X - OptEx,$10.88,43162,3621,-92%,"$469,495",1.0,2.0,2.0,8.0,CERN
+394,D,2014-11-05 16:49:46,2014-11-03,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$63.29,-2000,2057,-49%,"-$126,580",1.0,0.0,1.0,13.0,CERN
+395,D,2014-11-05 16:49:46,2014-11-03,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$21.30,2000,2057,-49%,"$42,600",1.0,0.0,1.0,13.0,CERN
+396,DM,2014-11-04 16:52:43,2014-10-31,CERN,Sims Randy D,"SVP, CLO, Secretary",S - Sale+OE,$63.51,-26838,3621,-88%,"-$1,704,542",0.0,0.0,1.0,12.0,CERN
+397,DM,2014-11-04 16:52:43,2014-10-31,CERN,Sims Randy D,"SVP, CLO, Secretary",X - OptEx,$10.88,26838,3621,-88%,"$291,930",0.0,0.0,1.0,12.0,CERN
+398,,2014-11-04 16:51:12,2014-11-03,CERN,Zollars William D,Dir,S - Sale,$63.30,-7900,65666,-11%,"-$500,070",0.0,0.0,1.0,12.0,CERN
+399,D,2014-10-29 08:54:22,2014-10-28,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$62.72,-50000,145119,-26%,"-$3,136,000",-2.0,0.0,1.0,13.0,CERN
+400,D,2014-10-29 08:54:22,2014-10-28,CERN,Nill Michael,"EVP, COO",X - OptEx,$13.65,50000,145119,-26%,"$682,625",-2.0,0.0,1.0,13.0,CERN
+401,D,2014-09-09 16:01:43,2014-09-06,CERN,Burke Zane M,Pres,F - Tax,$59.88,-5737,119067,-5%,"-$343,532",0.0,-2.0,-2.0,17.0,CERN
+402,DM,2014-09-08 17:34:29,2014-09-04,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$59.53,-16000,19856,-45%,"-$952,461",-1.0,-2.0,-1.0,17.0,CERN
+403,DM,2014-09-08 17:34:29,2014-09-04,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$9.18,16000,19856,-45%,"$146,880",-1.0,-2.0,-1.0,17.0,CERN
+404,D,2014-09-05 16:46:23,2014-09-03,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$59.21,-2000,2057,-49%,"-$118,420",1.0,0.0,1.0,18.0,CERN
+405,D,2014-09-05 16:46:23,2014-09-03,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$13.17,2000,2057,-49%,"$26,340",1.0,0.0,1.0,18.0,CERN
+406,D,2014-08-14 16:01:32,2014-08-13,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$56.38,-54000,22823228,0%,"-$3,044,660",-1.0,2.0,5.0,25.0,CERN
+407,,2014-08-11 16:01:48,2014-06-09,CERN,Zollars William D,Dir,G - Gift,$0.00,-1850,73566,-2%,-$0,0.0,-1.0,6.0,19.0,CERN
+408,,2014-08-11 16:01:48,2014-08-08,CERN,Zollars William D,Dir,S - Sale,$55.20,-9200,73566,-11%,"-$507,840",0.0,-1.0,6.0,19.0,CERN
+409,D,2014-06-03 16:23:59,2014-06-01,CERN,Wilson Julie M,"EVP, Chief People Officer",F - Tax,$54.20,-333,64082,-1%,"-$18,049",0.0,-1.0,-5.0,19.0,CERN
+410,D,2014-06-03 16:22:56,2014-06-01,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",F - Tax,$54.20,-959,171583,-1%,"-$51,978",0.0,-1.0,-5.0,19.0,CERN
+411,D,2014-06-03 16:21:49,2014-06-01,CERN,Nill Michael,"EVP, COO",F - Tax,$54.20,-959,145119,-1%,"-$51,978",0.0,-1.0,-5.0,19.0,CERN
+412,D,2014-06-03 16:20:15,2014-06-01,CERN,Naughton Marc G,"EVP, CFO",F - Tax,$54.20,-333,94227,0%,"-$18,049",0.0,-1.0,-5.0,19.0,CERN
+413,D,2014-06-03 16:18:21,2014-06-01,CERN,Burke Zane M,Pres,F - Tax,$54.20,-1334,124804,-1%,"-$72,303",0.0,-1.0,-5.0,19.0,CERN
+414,,2014-06-02 09:09:56,2014-05-30,CERN,Cortese Denis A.,Dir,S - Sale,$54.42,-4000,21600,-16%,"-$217,672",0.0,0.0,-5.0,18.0,CERN
+415,D,2014-05-29 17:29:03,2014-05-28,CERN,Illig Clifford W,Vice COB,F - Tax,$54.53,-40170,14738348,0%,"-$2,190,470",-1.0,-1.0,-6.0,17.0,CERN
+416,D,2014-05-29 17:29:03,2014-05-28,CERN,Illig Clifford W,Vice COB,M - OptEx,$5.25,80000,14738348,+1%,"+$419,800",-1.0,-1.0,-6.0,17.0,CERN
+417,,2014-05-27 18:07:45,2014-05-23,CERN,Zollars William D,Dir,A - Grant,$0.00,4400,84616,+5%,+$0,1.0,0.0,-5.0,17.0,CERN
+418,,2014-05-27 18:06:49,2014-05-23,CERN,Neaves William B,Dir,A - Grant,$0.00,4400,51200,+9%,+$0,1.0,0.0,-5.0,17.0,CERN
+419,,2014-05-27 18:05:31,2014-05-23,CERN,Dillman Linda M,Dir,A - Grant,$0.00,4400,37200,+13%,+$0,1.0,0.0,-5.0,17.0,CERN
+420,,2014-05-27 18:04:21,2014-05-23,CERN,Daniels Mitchell E,Dir,A - Grant,$0.00,4400,10700,+70%,+$0,1.0,0.0,-5.0,17.0,CERN
+421,,2014-05-27 18:03:12,2014-05-23,CERN,Danforth John C,Dir,A - Grant,$0.00,4400,411516,+1%,+$0,1.0,0.0,-5.0,17.0,CERN
+422,D,2014-05-27 18:01:04,2014-05-23,CERN,Cortese Denis A.,Dir,A - Grant,$0.00,4400,25600,+21%,+$0,1.0,0.0,-5.0,17.0,CERN
+423,,2014-05-27 17:58:31,2014-05-23,CERN,Bisbee Gerald E Jr,Dir,A - Grant,$0.00,4400,51200,+9%,+$0,1.0,0.0,-5.0,17.0,CERN
+424,D,2014-03-14 16:18:18,2014-03-12,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$59.82,-187979,22898646,-1%,"-$11,244,133",0.0,1.0,-12.0,0.0,CERN
+425,D,2014-03-11 17:39:23,2014-03-07,CERN,Wilson Julie M,"EVP, Chief People Officer",A - Grant,$0.00,9000,63748,+16%,+$0,0.0,-1.0,-9.0,0.0,CERN
+426,D,2014-03-11 17:36:32,2014-03-07,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",A - Grant,$0.00,18000,136917,+15%,+$0,0.0,-1.0,-9.0,0.0,CERN
+427,DM,2014-03-11 17:33:55,2014-03-10,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$60.31,-231000,23086625,-1%,"-$13,932,154",0.0,-1.0,-9.0,0.0,CERN
+428,D,2014-03-11 17:32:40,2014-03-07,CERN,Nill Michael,"EVP, COO",A - Grant,$0.00,18000,111725,+19%,+$0,0.0,-1.0,-9.0,0.0,CERN
+429,D,2014-03-11 17:31:01,2014-03-07,CERN,Naughton Marc G,"EVP, CFO",A - Grant,$0.00,8500,93893,+10%,+$0,0.0,-1.0,-9.0,0.0,CERN
+430,D,2014-03-11 17:25:53,2014-03-07,CERN,Burke Zane M,Pres,A - Grant,$0.00,18000,125471,+17%,+$0,0.0,-1.0,-9.0,0.0,CERN
+431,D,2014-03-03 16:01:20,2014-02-27,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$61.48,-17500,23317625,0%,"-$1,075,944",2.0,-1.0,-7.0,-6.0,CERN
+432,D,2014-02-18 16:04:40,2014-02-14,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$59.90,-15000,23335125,0%,"-$898,500",-1.0,3.0,-1.0,-9.0,CERN
+433,D,2014-02-14 16:43:22,2014-02-13,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$57.94,-50000,93725,-35%,"-$2,897,095",1.0,3.0,-1.0,-7.0,CERN
+434,D,2014-02-14 16:43:22,2014-02-13,CERN,Nill Michael,"EVP, COO",X - OptEx,$13.65,50000,93725,-35%,"$682,625",1.0,3.0,-1.0,-7.0,CERN
+435,D,2014-02-11 16:59:31,2014-02-10,CERN,Patterson Neal L,"COB, CEO",F - Tax,$56.10,-116323,23350125,0%,"-$6,525,720",1.0,6.0,4.0,-2.0,CERN
+436,D,2014-02-11 16:59:31,2014-02-10,CERN,Patterson Neal L,"COB, CEO",M - OptEx,$5.25,240000,23350125,+1%,"+$1,259,400",1.0,6.0,4.0,-2.0,CERN
+437,D,2014-02-10 16:34:23,2014-02-10,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$56.08,-2000,2057,-49%,"-$112,160",2.0,7.0,7.0,-1.0,CERN
+438,D,2014-02-10 16:34:23,2014-02-10,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$13.17,2000,2057,-49%,"$26,340",2.0,7.0,7.0,-1.0,CERN
+439,,2014-02-10 16:28:16,2014-02-07,CERN,Daniels Mitchell E,Dir,A - Grant,$0.00,6300,6300,New,+$0,2.0,7.0,7.0,-1.0,CERN
+440,D,2013-12-04 21:56:00,2013-11-21,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$57.80,-10000,23225648,0%,"-$578,000",-1.0,-1.0,-3.0,-5.0,CERN
+441,,2013-11-26 16:05:23,2013-11-25,CERN,Zollars William D,Dir,S - Sale,$58.01,-8700,82260,-10%,"-$504,687",0.0,0.0,-3.0,-5.0,CERN
+442,D,2013-11-08 19:28:30,2013-11-07,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$55.67,-4000,23235648,0%,"-$222,680",-1.0,0.0,-1.0,-10.0,CERN
+443,D,2013-11-08 19:19:42,2013-11-08,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$56.57,-40000,85146,-32%,"-$2,262,800",-1.0,0.0,-1.0,-10.0,CERN
+444,D,2013-11-08 19:19:42,2013-11-08,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$13.45,40000,85146,-32%,"$538,100",-1.0,0.0,-1.0,-10.0,CERN
+445,D,2013-11-01 18:23:25,2013-11-01,CERN,Burke Zane M,Pres,S - Sale+OE,$55.98,-39000,107196,-27%,"-$2,183,220",1.0,0.0,3.0,-8.0,CERN
+446,D,2013-11-01 18:23:25,2013-11-01,CERN,Burke Zane M,Pres,X - OptEx,$12.52,39000,107196,-27%,"$488,190",1.0,0.0,3.0,-8.0,CERN
+447,DM,2013-10-30 18:06:45,2013-10-29,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$56.85,-2400,1812,-57%,"-$136,428",0.0,0.0,3.0,-8.0,CERN
+448,DM,2013-10-30 18:06:45,2013-10-29,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$11.98,2400,1812,-57%,"$28,740",0.0,0.0,3.0,-8.0,CERN
+449,D,2013-09-16 16:05:09,2013-09-12,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$48.57,-58000,53998,-52%,"-$2,817,060",0.0,0.0,13.0,20.0,CERN
+450,D,2013-09-16 16:05:09,2013-09-12,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$18.32,58000,53998,-52%,"$1,062,755",0.0,0.0,13.0,20.0,CERN
+451,D,2013-09-16 16:04:23,2013-09-12,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$48.77,-48320,93478,-34%,"-$2,356,566",0.0,0.0,13.0,20.0,CERN
+452,D,2013-09-16 16:04:23,2013-09-12,CERN,Nill Michael,"EVP, COO",X - OptEx,$8.87,48320,93478,-34%,"$428,420",0.0,0.0,13.0,20.0,CERN
+453,D,2013-09-09 16:02:36,2013-09-06,CERN,Burke Zane M,Pres,A - Grant,$0.00,50000,107196,+87%,+$0,2.0,3.0,15.0,29.0,CERN
+454,D,2013-08-05 16:03:48,2013-08-01,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$49.59,-1000,23239648,0%,"-$49,585",-1.0,-2.0,-6.0,12.0,CERN
+455,DM,2013-08-02 16:04:09,2013-07-31,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$49.50,-80000,85146,-48%,"-$3,960,000",-1.0,-3.0,-8.0,14.0,CERN
+456,DM,2013-08-02 16:04:09,2013-07-31,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$10.88,80000,85146,-48%,"$870,200",-1.0,-3.0,-8.0,14.0,CERN
+457,D,2013-06-13 17:03:35,2013-06-12,CERN,Cortese Denis A.,Dir,S - Sale+OE,$98.00,-1000,9532,-9%,"-$98,000",-1.0,-2.0,0.0,13.0,CERN
+458,,2013-05-28 19:15:58,2013-05-24,CERN,Zollars William D,Dir,A - Grant,$0.00,2400,45480,+6%,+$0,2.0,4.0,-1.0,21.0,CERN
+459,,2013-05-28 19:15:58,2013-05-23,CERN,Zollars William D,Dir,S - Sale,$95.60,-5270,45480,-10%,"-$503,812",2.0,4.0,-1.0,21.0,CERN
+460,,2013-05-28 19:15:27,2013-05-24,CERN,Neaves William B,Dir,A - Grant,$0.00,2400,23400,+11%,+$0,2.0,4.0,-1.0,21.0,CERN
+461,,2013-05-28 19:14:56,2013-05-24,CERN,Danforth John C,Dir,A - Grant,$0.00,2400,203558,+1%,+$0,2.0,4.0,-1.0,21.0,CERN
+462,D,2013-05-28 19:14:19,2013-05-24,CERN,Cortese Denis A.,Dir,A - Grant,$0.00,2400,10532,+30%,+$0,2.0,4.0,-1.0,21.0,CERN
+463,,2013-05-28 19:13:47,2013-05-24,CERN,Bisbee Gerald E Jr,Dir,A - Grant,$0.00,2400,23400,+11%,+$0,2.0,4.0,-1.0,21.0,CERN
+464,D,2013-05-28 19:13:13,2013-05-24,CERN,Dillman Linda M,Dir,A - Grant,$0.00,2400,16400,+17%,+$0,2.0,4.0,-1.0,21.0,CERN
+465,D,2013-05-21 16:04:27,2013-05-17,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$97.05,-15000,11620324,0%,"-$1,455,750",-1.0,-2.0,-1.0,18.0,CERN
+466,DM,2013-05-16 17:26:52,2013-04-02,CERN,Patterson Neal L,"COB, CEO, Pres",G - Gift,$0.00,-924582,11635324,-7%,-$0,3.0,0.0,2.0,17.0,CERN
+467,D,2013-05-16 17:26:52,2013-05-14,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$95.38,-7500,11635324,0%,"-$715,350",3.0,0.0,2.0,17.0,CERN
+468,D,2013-05-16 17:14:57,2013-05-15,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$96.61,-14000,26738,-34%,"-$1,352,540",3.0,0.0,2.0,17.0,CERN
+469,D,2013-05-16 17:14:57,2013-05-15,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$26.91,14000,26738,-34%,"$376,670",3.0,0.0,2.0,17.0,CERN
+470,DM,2013-05-09 16:55:30,2013-05-07,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",S - Sale+OE,$94.98,-97832,37022,-73%,"-$9,291,683",1.0,3.0,6.0,19.0,CERN
+471,DM,2013-05-09 16:55:30,2013-05-07,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",X - OptEx,$8.52,97832,37022,-73%,"$833,980",1.0,3.0,6.0,19.0,CERN
+472,D,2013-05-08 16:02:40,2013-05-06,CERN,Wilson Julie M,"EVP, Chief People Officer",S - Sale+OE,$96.06,-16000,26738,-37%,"-$1,536,960",0.0,2.0,5.0,20.0,CERN
+473,D,2013-05-08 16:02:40,2013-05-06,CERN,Wilson Julie M,"EVP, Chief People Officer",X - OptEx,$19.24,16000,26738,-37%,"$307,760",0.0,2.0,5.0,20.0,CERN
+474,D,2013-05-06 16:11:37,2013-05-03,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$96.92,-25000,42338,-37%,"-$2,423,000",-1.0,-1.0,4.0,17.0,CERN
+475,D,2013-05-06 16:11:37,2013-05-03,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$15.70,25000,42338,-37%,"$392,563",-1.0,-1.0,4.0,17.0,CERN
+476,D,2013-03-06 16:25:30,2013-03-05,CERN,Burke Zane M,EVP,S - Sale+OE,$91.45,-20000,28627,-41%,"-$1,829,000",1.0,2.0,1.0,3.0,CERN
+477,D,2013-03-06 16:25:30,2013-03-05,CERN,Burke Zane M,EVP,X - OptEx,$25.55,20000,28627,-41%,"$511,048",1.0,2.0,1.0,3.0,CERN
+478,D,2013-03-05 16:24:11,2013-03-01,CERN,Wilson Julie M,"SVP, Chief People Officer",A - Grant,$0.00,5000,26738,+23%,+$0,-1.0,1.0,1.0,0.0,CERN
+479,D,2013-03-05 16:23:23,2013-03-01,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",A - Grant,$0.00,10000,37022,+37%,+$0,-1.0,1.0,1.0,0.0,CERN
+480,D,2013-03-05 16:22:05,2013-03-01,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$89.00,-1500,12056024,0%,"-$133,500",-1.0,1.0,1.0,0.0,CERN
+481,D,2013-03-05 16:21:19,2013-03-01,CERN,Nill Michael,"EVP, COO",A - Grant,$0.00,10000,24564,+69%,+$0,-1.0,1.0,1.0,0.0,CERN
+482,D,2013-03-05 16:20:45,2013-03-01,CERN,Naughton Marc G,"EVP, CFO",A - Grant,$0.00,5000,42338,+13%,+$0,-1.0,1.0,1.0,0.0,CERN
+483,D,2013-03-05 16:16:53,2013-03-01,CERN,Burke Zane M,EVP,A - Grant,$0.00,10000,28627,+54%,+$0,-1.0,1.0,1.0,0.0,CERN
+484,D,2013-02-28 16:03:58,2013-02-27,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$87.07,-25000,14564,-63%,"-$2,176,750",2.0,4.0,8.0,7.0,CERN
+485,D,2013-02-28 16:03:58,2013-02-27,CERN,Nill Michael,"EVP, COO",X - OptEx,$19.48,25000,14564,-63%,"$486,913",2.0,4.0,8.0,7.0,CERN
+486,D,2013-02-19 17:14:48,2013-02-19,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$88.55,-1000,906,-52%,"-$88,550",-1.0,-3.0,3.0,7.0,CERN
+487,D,2013-02-19 17:14:48,2013-02-19,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$26.34,1000,906,-52%,"$26,340",-1.0,-3.0,3.0,7.0,CERN
+488,D,2013-02-19 17:13:54,2013-01-18,CERN,Sims Randy D,"SVP, CLO, Secretary",G - Gift,$0.00,-1600,1764,-48%,-$0,-1.0,-3.0,3.0,7.0,CERN
+489,DM,2013-02-19 17:13:54,2013-02-15,CERN,Sims Randy D,"SVP, CLO, Secretary",S - Sale+OE,$88.55,-30000,1764,-94%,"-$2,656,570",-1.0,-3.0,3.0,7.0,CERN
+490,DM,2013-02-19 17:13:54,2013-02-15,CERN,Sims Randy D,"SVP, CLO, Secretary",X - OptEx,$15.70,30000,1764,-94%,"$471,075",-1.0,-3.0,3.0,7.0,CERN
+491,D,2013-02-19 17:13:03,2013-02-15,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$88.52,-2500,12057524,0%,"-$221,300",-1.0,-3.0,3.0,7.0,CERN
+492,D,2013-02-15 16:03:22,2013-02-13,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$88.14,-1000,12060024,0%,"-$88,140",1.0,0.0,4.0,7.0,CERN
+493,D,2012-12-17 16:03:14,2012-12-14,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$77.29,-100000,7569676,-1%,"-$7,728,540",2.0,0.0,1.0,27.0,CERN
+494,D,2012-12-06 16:19:34,2012-12-04,CERN,Illig Clifford W,Vice COB,F - Tax,$76.87,-32246,7669676,0%,"-$2,478,750",0.0,1.0,6.0,27.0,CERN
+495,D,2012-12-06 16:19:34,2012-12-04,CERN,Illig Clifford W,Vice COB,M - OptEx,$6.64,68000,7669676,+1%,"+$451,480",0.0,1.0,6.0,27.0,CERN
+496,,2012-11-29 16:01:40,2012-11-28,CERN,Bisbee Gerald E Jr,Dir,S - Sale,$76.95,-5000,21000,-19%,"-$384,750",0.0,2.0,-2.0,27.0,CERN
+497,D,2012-11-27 18:28:34,2012-11-26,CERN,Patterson Neal L,"COB, CEO, Pres",F - Tax,$77.02,-43333,12073598,0%,"-$3,337,508",1.0,0.0,0.0,26.0,CERN
+498,D,2012-11-27 18:28:34,2012-11-26,CERN,Patterson Neal L,"COB, CEO, Pres",M - OptEx,$5.65,100000,12073598,+1%,"+$564,750",1.0,0.0,0.0,26.0,CERN
+499,D,2012-11-21 16:06:21,2012-11-20,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$77.18,-6500,7633922,0%,"-$501,670",0.0,0.0,3.0,24.0,CERN
+500,D,2012-11-08 17:23:18,2012-06-04,CERN,Patterson Neal L,"COB, CEO, Pres",G - Gift,$0.00,-4700,12016931,0%,-$0,1.0,-3.0,0.0,21.0,CERN
+501,D,2012-11-06 16:17:34,2012-11-06,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$80.02,-1200,764,-61%,"-$96,024",-2.0,-5.0,-3.0,17.0,CERN
+502,D,2012-11-06 16:17:34,2012-11-06,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$23.95,1200,764,-61%,"$28,740",-2.0,-5.0,-3.0,17.0,CERN
+503,D,2012-11-06 16:11:58,2012-11-05,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$78.53,-39168,37189,-51%,"-$3,075,863",-2.0,-5.0,-3.0,17.0,CERN
+504,D,2012-11-06 16:11:58,2012-11-05,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$12.76,39168,37189,-51%,"$499,653",-2.0,-5.0,-3.0,17.0,CERN
+505,D,2012-09-18 16:12:00,2012-09-14,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$72.40,-20000,14416,-58%,"-$1,447,918",3.0,4.0,2.0,27.0,CERN
+506,D,2012-09-18 16:12:00,2012-09-14,CERN,Nill Michael,"EVP, COO",X - OptEx,$15.70,20000,14416,-58%,"$314,050",3.0,4.0,2.0,27.0,CERN
+507,D,2012-09-11 16:02:31,2012-09-07,CERN,Wilson Julie M,"SVP, Chief People Officer",S - Sale+OE,$75.53,-35000,21290,-62%,"-$2,643,662",-2.0,-2.0,4.0,27.0,CERN
+508,D,2012-09-11 16:02:31,2012-09-07,CERN,Wilson Julie M,"SVP, Chief People Officer",X - OptEx,$22.81,35000,21290,-62%,"$798,355",-2.0,-2.0,4.0,27.0,CERN
+509,,2012-09-04 16:03:15,2012-08-31,CERN,Danforth John C,Dir,P - Purchase,$73.52,14000,201158,+7%,"+$1,029,280",0.0,0.0,7.0,25.0,CERN
+510,,2012-09-04 16:03:15,2012-08-31,CERN,Danforth John C,Dir,S - Sale,$73.51,-14000,201158,-7%,"-$1,029,140",0.0,0.0,7.0,25.0,CERN
+511,D,2012-08-02 16:04:44,2012-07-31,CERN,Burke Zane M,EVP,A - Grant,$0.00,10000,18072,+124%,+$0,2.0,0.0,1.0,15.0,CERN
+512,D,2012-05-29 16:04:09,2012-05-25,CERN,Burke Zane M,EVP,S - Sale+OE,$79.46,-70000,8072,-90%,"-$5,562,249",0.0,-4.0,-2.0,-4.0,CERN
+513,D,2012-05-29 16:04:09,2012-05-25,CERN,Burke Zane M,EVP,X - OptEx,$24.62,70000,8072,-90%,"$1,723,630",0.0,-4.0,-2.0,-4.0,CERN
+514,D,2012-05-22 16:19:21,2012-05-18,CERN,Zollars William D,Dir,A - Grant,$0.00,2800,48350,+6%,+$0,1.0,1.0,6.0,-1.0,CERN
+515,D,2012-05-22 16:19:21,2012-05-10,CERN,Zollars William D,Dir,G - Gift,$0.00,-1250,48350,-3%,-$0,1.0,1.0,6.0,-1.0,CERN
+516,D,2012-05-22 16:18:33,2012-05-18,CERN,Neaves William B,Dir,A - Grant,$0.00,2800,59600,+5%,+$0,1.0,1.0,6.0,-1.0,CERN
+517,D,2012-05-22 16:17:51,2012-05-18,CERN,Dillman Linda M,Dir,A - Grant,$0.00,2800,11332,+33%,+$0,1.0,1.0,6.0,-1.0,CERN
+518,D,2012-05-22 16:17:13,2012-05-18,CERN,Danforth John C,Dir,A - Grant,$0.00,2800,201158,+1%,+$0,1.0,1.0,6.0,-1.0,CERN
+519,D,2012-05-22 16:16:31,2012-05-18,CERN,Cortese Denis A.,Dir,A - Grant,$0.00,2800,7066,+66%,+$0,1.0,1.0,6.0,-1.0,CERN
+520,D,2012-05-22 16:15:35,2012-05-18,CERN,Bisbee Gerald E Jr,Dir,A - Grant,$0.00,2800,26000,+12%,+$0,1.0,1.0,6.0,-1.0,CERN
+521,D,2012-05-09 17:06:36,2012-05-08,CERN,Neaves William B,Dir,S - Sale+OE,$80.38,-22400,53600,-29%,"-$1,800,427",0.0,1.0,-1.0,1.0,CERN
+522,D,2012-05-07 16:05:23,2012-05-04,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$80.59,-20000,12825074,0%,"-$1,611,782",0.0,-2.0,-6.0,-3.0,CERN
+523,DM,2012-05-07 16:04:26,2012-05-03,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$81.56,-120000,8443865,-1%,"-$9,787,640",0.0,-2.0,-6.0,-3.0,CERN
+524,D,2012-05-02 16:03:24,2012-05-01,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$80.69,-1200,764,-61%,"-$96,828",-1.0,-2.0,-6.0,-8.0,CERN
+525,D,2012-05-02 16:03:24,2012-05-01,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$23.95,1200,764,-61%,"$28,740",-1.0,-2.0,-6.0,-8.0,CERN
+526,D,2012-03-15 16:10:45,2012-03-13,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$75.93,-2500,12845074,0%,"-$189,825",-1.0,-1.0,-6.0,-8.0,CERN
+527,DM,2012-03-13 16:04:05,2012-03-09,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$76.59,-200000,8563865,-2%,"-$15,318,085",-1.0,0.0,-4.0,-4.0,CERN
+528,D,2012-03-12 16:02:55,2012-03-08,CERN,Nill Michael,"EVP, COO",S - Sale+OE,$75.96,-25000,8661,-74%,"-$1,899,115",1.0,2.0,-4.0,0.0,CERN
+529,D,2012-03-12 16:02:55,2012-03-08,CERN,Nill Michael,"EVP, COO",X - OptEx,$15.70,25000,8661,-74%,"$392,563",1.0,2.0,-4.0,0.0,CERN
+530,D,2012-03-06 18:35:30,2012-03-05,CERN,Neaves William B,Dir,S - Sale+OE,$75.07,-25600,76000,-25%,"-$1,921,669",1.0,2.0,3.0,-2.0,CERN
+531,D,2012-03-06 18:35:30,2012-03-05,CERN,Neaves William B,Dir,X - OptEx,$5.65,48000,76000,-39%,"$271,080",1.0,2.0,3.0,-2.0,CERN
+532,DM,2012-03-02 16:12:12,2012-02-29,CERN,Wilson Julie M,"SVP, Chief People Officer",S - Sale+OE,$74.66,-20000,21290,-48%,"-$1,493,223",0.0,1.0,1.0,-3.0,CERN
+533,DM,2012-03-02 16:12:12,2012-02-29,CERN,Wilson Julie M,"SVP, Chief People Officer",X - OptEx,$19.74,20000,21290,-48%,"$394,780",0.0,1.0,1.0,-3.0,CERN
+534,D,2012-02-29 16:25:29,2012-02-27,CERN,Illig Clifford W,Vice COB,F - Tax,$74.28,-8969,8763865,0%,"-$666,217",1.0,1.0,3.0,-4.0,CERN
+535,D,2012-02-29 16:25:29,2012-02-27,CERN,Illig Clifford W,Vice COB,M - OptEx,$11.56,20000,8763865,0%,"+$231,150",1.0,1.0,3.0,-4.0,CERN
+536,DM,2012-02-28 16:04:28,2012-02-24,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$73.83,-17500,12847574,0%,"-$1,292,025",-1.0,1.0,2.0,-5.0,CERN
+537,D,2012-02-17 21:36:26,2012-02-16,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$71.69,-10000,12865074,0%,"-$716,875",1.0,4.0,8.0,4.0,CERN
+538,D,2012-02-15 16:07:17,2012-02-14,CERN,Bisbee Gerald E Jr,Dir,S - Sale+OE,$70.00,-4000,19200,-17%,"-$280,000",3.0,3.0,10.0,2.0,CERN
+539,DM,2012-02-15 16:06:49,2012-02-13,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$70.49,-5000,12875074,0%,"-$352,471",3.0,3.0,10.0,2.0,CERN
+540,D,2012-02-14 16:07:41,2012-02-10,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$68.48,-15000,37189,-29%,"-$1,027,134",-1.0,2.0,8.0,1.0,CERN
+541,D,2012-02-14 16:07:41,2012-02-10,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$11.56,15000,37189,-29%,"$173,363",-1.0,2.0,8.0,1.0,CERN
+542,DM,2011-12-15 16:56:54,2011-12-13,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$57.31,-40000,8760259,0%,"-$2,292,548",1.0,7.0,9.0,47.0,CERN
+543,D,2011-09-16 16:40:13,2011-09-14,CERN,Wilson Julie M,"SVP, Chief People Officer",S - Sale+OE,$68.41,-8000,20788,-28%,"-$547,257",-1.0,1.0,3.0,14.0,CERN
+544,D,2011-09-16 16:40:13,2011-09-14,CERN,Wilson Julie M,"SVP, Chief People Officer",X - OptEx,$18.36,8000,20788,-28%,"$146,880",-1.0,1.0,3.0,14.0,CERN
+545,D,2011-09-16 16:39:24,2011-09-14,CERN,Sims Randy D,"SVP, CLO, Secretary",S - Sale+OE,$69.00,-5000,2581,-66%,"-$345,000",-1.0,1.0,3.0,14.0,CERN
+546,D,2011-09-12 16:07:34,2011-09-08,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$66.42,-2500,12960512,0%,"-$166,062",3.0,5.0,6.0,18.0,CERN
+547,D,2011-09-02 16:19:06,2011-08-31,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$66.29,-10000,12963012,0%,"-$662,932",1.0,-1.0,2.0,18.0,CERN
+548,D,2011-09-01 16:09:57,2011-08-30,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$66.10,-15000,36987,-29%,"-$991,500",-2.0,1.0,5.0,15.0,CERN
+549,D,2011-09-01 16:09:57,2011-08-30,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$11.56,15000,36987,-29%,"$173,363",-2.0,1.0,5.0,15.0,CERN
+550,D,2011-09-01 16:09:08,2011-08-30,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$67.02,-2000,580,-78%,"-$134,040",-2.0,1.0,5.0,15.0,CERN
+551,D,2011-09-01 16:09:08,2011-08-30,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$26.34,2000,580,-78%,"$52,680",-2.0,1.0,5.0,15.0,CERN
+552,DM,2011-08-25 16:11:16,2011-08-23,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$60.67,-15000,12973012,0%,"-$910,000",5.0,6.0,11.0,19.0,CERN
+553,D,2011-08-17 18:43:19,2011-07-29,CERN,Patterson Neal L,"COB, CEO, Pres",G - Gift,$0.00,-5744466,12998012,+79%,-$0,-4.0,6.0,16.0,21.0,CERN
+554,DM,2011-08-17 18:43:19,2011-08-16,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$58.85,-12500,12998012,0%,"-$735,587",-4.0,6.0,16.0,21.0,CERN
+555,D,2011-06-08 17:02:17,2011-06-06,CERN,Zollars William D,Dir,S - Sale+OE,$116.01,-2000,21800,-8%,"-$232,020",0.0,1.0,10.0,5.0,CERN
+556,D,2011-05-25 18:40:06,2011-04-04,CERN,Danforth John C,Dir,P - Purchase,$113.54,139,95579,0%,"+$15,782",0.0,-1.0,-3.0,-5.0,CERN
+557,D,2011-05-20 17:32:44,2011-05-18,CERN,Bisbee Gerald E Jr,Dir,S - Sale+OE,$122.92,-4500,9600,-32%,"-$553,140",-2.0,-2.0,-5.0,1.0,CERN
+558,D,2011-03-15 17:04:51,2011-03-14,CERN,Valentine Mike,"EVP, COO",S - Sale+OE,$104.23,-7000,6973,-50%,"-$729,610",0.0,4.0,7.0,26.0,CERN
+559,D,2011-03-15 17:04:51,2011-03-14,CERN,Valentine Mike,"EVP, COO",X - OptEx,$31.41,7000,6973,-50%,"$219,835",0.0,4.0,7.0,26.0,CERN
+560,DM,2011-03-15 17:02:02,2011-03-11,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$102.79,-40000,4400130,-1%,"-$4,111,400",0.0,4.0,7.0,26.0,CERN
+561,D,2011-03-15 17:01:02,2011-03-14,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$104.25,-2000,6491316,0%,"-$208,500",0.0,4.0,7.0,26.0,CERN
+562,D,2011-03-09 16:18:50,2011-03-08,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$104.13,-2000,6493316,0%,"-$208,260",-2.0,-2.0,9.0,24.0,CERN
+563,D,2011-03-09 16:18:25,2011-03-08,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",S - Sale+OE,$103.34,-1200,290,-81%,"-$124,008",-2.0,-2.0,9.0,24.0,CERN
+564,D,2011-03-09 16:18:25,2011-03-08,CERN,Battaglioli Michael R.,"VP, Chief Accounting Officer",X - OptEx,$47.90,1200,290,-81%,"$57,480",-2.0,-2.0,9.0,24.0,CERN
+565,D,2011-03-04 16:48:15,2011-03-03,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$104.04,-5000,18493,-21%,"-$520,200",-2.0,-2.0,8.0,26.0,CERN
+566,D,2011-03-04 16:48:15,2011-03-03,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$23.12,5000,18493,-21%,"$115,575",-2.0,-2.0,8.0,26.0,CERN
+567,D,2011-03-04 16:47:34,2011-03-02,CERN,Wilson Julie M,"SVP, Chief People Officer",S - Sale+OE,$101.37,-12000,10394,-54%,"-$1,216,440",-2.0,-2.0,8.0,26.0,CERN
+568,D,2011-03-04 16:47:34,2011-03-02,CERN,Wilson Julie M,"SVP, Chief People Officer",X - OptEx,$42.96,12000,10394,-54%,"$515,540",-2.0,-2.0,8.0,26.0,CERN
+569,D,2011-03-03 17:36:36,2011-03-01,CERN,Nill Michael,"EVP, Chief Engineering Of",S - Sale+OE,$100.30,-23600,2789,-89%,"-$2,367,080",0.0,-1.0,7.0,30.0,CERN
+570,D,2011-03-03 17:36:36,2011-03-01,CERN,Nill Michael,"EVP, Chief Engineering Of",X - OptEx,$20.43,23600,2789,-89%,"$482,167",0.0,-1.0,7.0,30.0,CERN
+571,D,2011-02-24 16:02:40,2011-02-22,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",S - Sale+OE,$98.60,-63080,8529,-88%,"-$6,219,454",3.0,4.0,11.0,27.0,CERN
+572,D,2011-02-24 16:02:40,2011-02-22,CERN,Townsend Jeffrey A,"EVP, Chief of Staff",X - OptEx,$18.11,63080,8529,-88%,"$1,142,598",3.0,4.0,11.0,27.0,CERN
+573,D,2011-02-22 16:42:10,2011-02-17,CERN,Valentine Mike,"EVP, COO",S - Sale+OE,$100.04,-20000,6973,-74%,"-$2,000,800",-2.0,2.0,10.0,14.0,CERN
+574,D,2011-02-22 16:42:10,2011-02-17,CERN,Valentine Mike,"EVP, COO",X - OptEx,$26.63,20000,6973,-74%,"$532,567",-2.0,2.0,10.0,14.0,CERN
+575,D,2011-02-17 17:11:22,2011-02-16,CERN,Valentine Mike,"EVP, COO",S - Sale+OE,$100.00,-4600,6973,-40%,"-$460,000",0.0,-2.0,3.0,16.0,CERN
+576,D,2011-02-17 17:11:22,2011-02-16,CERN,Valentine Mike,"EVP, COO",X - OptEx,$23.12,4600,6973,-40%,"$106,329",0.0,-2.0,3.0,16.0,CERN
+577,D,2011-02-17 17:10:10,2011-02-16,CERN,Bisbee Gerald E Jr,Dir,S - Sale+OE,$98.51,-7500,14100,-35%,"-$738,825",0.0,-2.0,3.0,16.0,CERN
+578,DM,2011-02-17 17:09:05,2011-02-15,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$99.05,-65758,6495316,-1%,"-$6,513,342",0.0,-2.0,3.0,16.0,CERN
+579,D,2011-02-17 17:09:05,2011-02-15,CERN,Patterson Neal L,"COB, CEO, Pres",X - OptEx,$22.23,125000,6495316,-2%,"$2,779,125",0.0,-2.0,3.0,16.0,CERN
+580,D,2010-12-16 17:03:23,2010-12-14,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$93.00,-1500,6406840,0%,"-$139,500",3.0,2.0,3.0,24.0,CERN
+581,D,2010-12-16 17:02:58,2010-12-14,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$93.33,-5000,4439787,0%,"-$466,650",3.0,2.0,3.0,24.0,CERN
+582,D,2010-12-14 16:57:20,2010-12-10,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$91.69,-19000,6408340,0%,"-$1,742,110",0.0,3.0,3.0,28.0,CERN
+583,D,2010-12-13 17:07:57,2010-12-09,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$92.28,-10000,4444787,0%,"-$922,800",1.0,5.0,4.0,26.0,CERN
+584,D,2010-12-08 16:56:30,2010-12-06,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$91.29,-10000,4454787,0%,"-$912,900",0.0,1.0,2.0,27.0,CERN
+585,DM,2010-12-07 16:47:03,2010-12-03,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$91.66,-16000,6427340,0%,"-$1,466,535",1.0,0.0,3.0,27.0,CERN
+586,DM,2010-12-03 16:09:42,2010-12-01,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$92.42,-15000,4464787,0%,"-$1,386,250",1.0,1.0,5.0,27.0,CERN
+587,D,2010-12-03 16:08:25,2010-12-01,CERN,Naughton Marc G,"EVP, CFO",S - Sale+OE,$92.17,-10000,18413,-35%,"-$921,700",1.0,1.0,5.0,27.0,CERN
+588,D,2010-12-03 16:08:25,2010-12-01,CERN,Naughton Marc G,"EVP, CFO",X - OptEx,$21.65,10000,18413,-35%,"$216,450",1.0,1.0,5.0,27.0,CERN
+589,D,2010-11-29 17:03:21,2010-11-24,CERN,Wilson Julie M,Chief People Officer,S - Sale+OE,$89.00,-11000,10113,-52%,"-$979,000",0.0,3.0,9.0,36.0,CERN
+590,D,2010-11-29 17:03:21,2010-11-24,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$36.21,11000,10113,-52%,"$398,345",0.0,3.0,9.0,36.0,CERN
+591,D,2010-11-29 17:02:32,2010-11-24,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale+OE,$89.00,-10000,3609,-73%,"-$890,000",0.0,3.0,9.0,36.0,CERN
+592,D,2010-11-29 17:02:32,2010-11-24,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",X - OptEx,$20.99,10000,3609,-73%,"$209,900",0.0,3.0,9.0,36.0,CERN
+593,D,2010-09-15 16:59:27,2010-09-13,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$80.68,-20000,4479787,0%,"-$1,613,600",0.0,1.0,9.0,28.0,CERN
+594,D,2010-09-14 17:08:03,2010-09-07,CERN,Patterson Neal L,"COB, CEO, Pres",G - Gift,$0.00,-4000,6443340,0%,-$0,0.0,1.0,7.0,29.0,CERN
+595,D,2010-09-14 17:08:03,2010-09-10,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$79.49,-2873,6443340,0%,"-$228,375",0.0,1.0,7.0,29.0,CERN
+596,D,2010-08-19 17:04:28,2010-08-17,CERN,Patterson Neal L,"COB, CEO, Pres",S - Sale+OE,$76.26,-2500,6450213,0%,"-$190,650",0.0,0.0,5.0,32.0,CERN
+597,D,2010-06-16 16:30:13,2010-06-14,CERN,Bisbee Gerald E Jr,Dir,S - Sale+OE,$81.59,-10000,21600,-32%,"-$815,900",0.0,-5.0,-3.0,13.0,CERN
+598,DM,2010-06-15 17:01:05,2010-06-11,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$80.24,-25851,4499787,-1%,"-$2,074,377",-1.0,-3.0,-4.0,12.0,CERN
+599,D,2010-06-01 17:38:22,2010-05-27,CERN,Herman Michael E,Dir,S - Sale+OE,$85.00,-6000,14650,-29%,"-$510,000",2.0,-3.0,-7.0,7.0,CERN
+600,D,2010-05-28 16:01:56,2010-05-26,CERN,Devanny Earl H III,Pres,S - Sale+OE,$83.05,-20502,17322,-54%,"-$1,702,691",-2.0,-3.0,-7.0,6.0,CERN
+601,D,2010-05-28 16:01:56,2010-05-26,CERN,Devanny Earl H III,Pres,X - OptEx,$21.65,20502,17322,-54%,"$443,766",-2.0,-3.0,-7.0,6.0,CERN
+602,D,2010-05-17 17:09:07,2010-05-13,CERN,Valentine Mike,"SVP, Gen Mgr - USA",S - Sale+OE,$87.00,-7933,6760,-54%,"-$690,171",-1.0,-2.0,-3.0,4.0,CERN
+603,D,2010-05-17 17:09:07,2010-05-13,CERN,Valentine Mike,"SVP, Gen Mgr - USA",X - OptEx,$20.99,7933,6760,-54%,"$166,514",-1.0,-2.0,-3.0,4.0,CERN
+604,D,2010-05-17 17:08:05,2010-05-13,CERN,Devanny Earl H III,Pres,S - Sale+OE,$87.00,-9498,17322,-35%,"-$826,326",-1.0,-2.0,-3.0,4.0,CERN
+605,D,2010-05-17 17:08:05,2010-05-13,CERN,Devanny Earl H III,Pres,X - OptEx,$21.65,9498,17322,-35%,"$205,584",-1.0,-2.0,-3.0,4.0,CERN
+606,DM,2010-05-12 17:09:19,2010-05-10,CERN,Herman Michael E,Dir,S - Sale+OE,$85.05,-6000,19150,-24%,"-$510,308",0.0,-3.0,-7.0,2.0,CERN
+607,DM,2010-05-12 17:07:44,2010-05-10,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$84.63,-4000,6452713,0%,"-$338,500",0.0,-3.0,-7.0,2.0,CERN
+608,D,2010-05-10 17:04:54,2010-05-06,CERN,Herman Michael E,Dir,S - Sale+OE,$85.00,-1100,25150,-4%,"-$93,500",0.0,-1.0,-7.0,3.0,CERN
+609,D,2010-05-05 17:04:57,2010-05-03,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$86.97,-4027,6456713,0%,"-$350,230",-3.0,1.0,0.0,4.0,CERN
+610,D,2010-05-05 17:04:57,2010-05-03,CERN,Patterson Neal L,"COB, CEO",X - OptEx,$12.29,9400,6456713,0%,"$115,500",-3.0,1.0,0.0,4.0,CERN
+611,D,2010-03-12 18:08:28,2010-03-11,CERN,Herman Michael E,Dir,S - Sale+OE,$84.32,-35000,26250,-57%,"-$2,951,250",-1.0,3.0,4.0,-8.0,CERN
+612,D,2010-03-12 18:08:28,2010-03-11,CERN,Herman Michael E,Dir,X - OptEx,$10.13,35000,26250,-57%,"$354,438",-1.0,3.0,4.0,-8.0,CERN
+613,D,2010-03-12 18:08:01,2010-03-12,CERN,Devanny Earl H III,Pres,S - Sale+OE,$85.46,-5000,17322,-22%,"-$427,300",-1.0,3.0,4.0,-8.0,CERN
+614,D,2010-03-12 18:08:01,2010-03-12,CERN,Devanny Earl H III,Pres,X - OptEx,$21.65,5000,17322,-22%,"$108,225",-1.0,3.0,4.0,-8.0,CERN
+615,D,2010-03-12 18:06:57,2010-03-12,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$84.04,-13000,4525638,0%,"-$1,092,520",-1.0,3.0,4.0,-8.0,CERN
+616,D,2010-03-12 18:06:23,2010-03-12,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale+OE,$85.00,-12000,3609,-77%,"-$1,020,000",-1.0,3.0,4.0,-8.0,CERN
+617,D,2010-03-12 18:06:23,2010-03-12,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",X - OptEx,$11.30,12000,3609,-77%,"$135,540",-1.0,3.0,4.0,-8.0,CERN
+618,D,2010-03-12 18:05:36,2010-03-12,CERN,Wilson Julie M,Chief People Officer,S - Sale+OE,$84.85,-14000,10113,-58%,"-$1,187,900",-1.0,3.0,4.0,-8.0,CERN
+619,D,2010-03-12 18:05:36,2010-03-12,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$36.59,14000,10113,-58%,"$512,300",-1.0,3.0,4.0,-8.0,CERN
+620,D,2010-03-09 17:09:18,2010-03-05,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$84.59,-10000,4538638,0%,"-$845,900",1.0,1.0,1.0,-8.0,CERN
+621,D,2010-03-09 17:08:50,2010-03-05,CERN,Devanny Earl H III,Pres,S - Sale+OE,$84.75,-5000,17322,-22%,"-$423,750",1.0,1.0,1.0,-8.0,CERN
+622,D,2010-03-09 17:08:50,2010-03-05,CERN,Devanny Earl H III,Pres,X - OptEx,$21.65,5000,17322,-22%,"$108,225",1.0,1.0,1.0,-8.0,CERN
+623,D,2010-03-03 17:18:10,2010-03-01,CERN,Devanny Earl H III,Pres,S - Sale+OE,$84.50,-10000,17322,-37%,"-$845,000",0.0,1.0,2.0,-10.0,CERN
+624,D,2010-03-03 17:18:10,2010-03-01,CERN,Devanny Earl H III,Pres,X - OptEx,$21.65,10000,17322,-37%,"$216,450",0.0,1.0,2.0,-10.0,CERN
+625,D,2010-02-18 18:06:48,2010-02-16,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",S - Sale+OE,$79.25,-35100,8350,-81%,"-$2,781,776",1.0,2.0,8.0,-6.0,CERN
+626,D,2010-02-18 18:06:48,2010-02-16,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",X - OptEx,$12.26,35100,8350,-81%,"$430,400",1.0,2.0,8.0,-6.0,CERN
+627,D,2010-02-18 18:05:24,2010-02-17,CERN,Herman Michael E,Dir,S - Sale+OE,$80.00,-4000,26250,-13%,"-$320,000",1.0,2.0,8.0,-6.0,CERN
+628,D,2010-02-18 18:05:24,2010-02-17,CERN,Herman Michael E,Dir,X - OptEx,$15.47,4000,26250,-13%,"$61,875",1.0,2.0,8.0,-6.0,CERN
+629,D,2009-12-16 17:10:15,2009-12-14,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$77.25,-17149,4548189,0%,"-$1,324,760",-4.0,3.0,9.0,2.0,CERN
+630,D,2009-11-25 17:00:10,2009-11-23,CERN,Bisbee Gerald E Jr,Dir,S - Sale+OE,$77.50,-24000,28900,-45%,"-$1,860,000",-2.0,1.0,8.0,10.0,CERN
+631,D,2009-11-25 17:00:10,2009-11-23,CERN,Bisbee Gerald E Jr,Dir,X - OptEx,$15.47,24000,28900,-45%,"$371,251",-2.0,1.0,8.0,10.0,CERN
+632,D,2009-11-18 17:11:10,2009-11-16,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$80.46,-4000,4565338,0%,"-$321,840",-2.0,0.0,-1.0,4.0,CERN
+633,D,2009-11-13 17:07:33,2009-11-11,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$80.28,-5000,4569338,0%,"-$401,400",1.0,-5.0,-4.0,6.0,CERN
+634,D,2009-11-12 17:12:28,2009-11-09,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$78.00,-1000,6446132,0%,"-$78,000",1.0,-2.0,-3.0,6.0,CERN
+635,D,2009-11-09 18:15:18,2009-11-02,CERN,Patterson Neal L,"COB, CEO",G - Gift,$0.00,-180,6447132,0%,-$0,-1.0,1.0,-6.0,7.0,CERN
+636,DM,2009-11-09 18:15:18,2009-11-05,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$77.25,-2500,6447132,0%,"-$193,135",-1.0,1.0,-6.0,7.0,CERN
+637,D,2009-11-05 17:14:06,2009-11-03,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$75.96,-1000,6449812,0%,"-$75,960",1.0,5.0,0.0,7.0,CERN
+638,D,2009-11-04 17:21:31,2009-11-02,CERN,Nill Michael,"EVP, Chief Engineering Of",S - Sale+OE,$76.18,-7220,2576,-74%,"-$550,020",2.0,4.0,1.0,8.0,CERN
+639,D,2009-11-04 17:21:31,2009-11-02,CERN,Nill Michael,"EVP, Chief Engineering Of",X - OptEx,$10.45,7220,2576,-74%,"$75,433",2.0,4.0,1.0,8.0,CERN
+640,D,2009-11-04 17:20:57,2009-09-28,CERN,Herman Michael E,Dir,G - Gift,$0.00,-350,26250,-1%,-$0,2.0,4.0,1.0,8.0,CERN
+641,D,2009-11-04 17:20:57,2009-11-02,CERN,Herman Michael E,Dir,S - Sale+OE,$76.15,-9250,26250,-26%,"-$704,426",2.0,4.0,1.0,8.0,CERN
+642,D,2009-09-16 17:26:15,2009-09-14,CERN,Wilson Julie M,Chief People Officer,S - Sale+OE,$67.50,-5000,9605,-34%,"-$337,500",0.0,9.0,24.0,27.0,CERN
+643,D,2009-09-16 17:26:15,2009-09-14,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$31.41,5000,9605,-34%,"$157,025",0.0,9.0,24.0,27.0,CERN
+644,D,2009-09-16 17:25:42,2009-09-14,CERN,Valentine Mike,"SVP, Gen Mgr - USA",S - Sale+OE,$67.05,-16900,5983,-74%,"-$1,133,145",0.0,9.0,24.0,27.0,CERN
+645,D,2009-09-16 17:25:42,2009-09-14,CERN,Valentine Mike,"SVP, Gen Mgr - USA",X - OptEx,$14.57,16900,5983,-74%,"$246,249",0.0,9.0,24.0,27.0,CERN
+646,D,2009-09-15 18:50:04,2009-08-14,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",G - Gift,$0.00,-1400,3236,-30%,-$0,1.0,9.0,26.0,26.0,CERN
+647,D,2009-09-15 18:50:04,2009-09-11,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale+OE,$66.62,-6749,3236,-68%,"-$449,602",1.0,9.0,26.0,26.0,CERN
+648,D,2009-09-15 18:48:09,2009-09-14,CERN,Patterson Neal L,"COB, CEO",G - Gift,$0.00,-5000,6450812,0%,-$0,1.0,9.0,26.0,26.0,CERN
+649,DM,2009-09-15 18:48:09,2009-09-11,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$67.00,-5000,6450812,0%,"-$335,000",1.0,9.0,26.0,26.0,CERN
+650,D,2009-09-15 18:46:30,2009-09-11,CERN,Devanny Earl H III,Pres,S - Sale+OE,$66.25,-11123,14930,-43%,"-$736,899",1.0,9.0,26.0,26.0,CERN
+651,D,2009-09-15 18:46:30,2009-09-11,CERN,Devanny Earl H III,Pres,X - OptEx,$11.30,11123,14930,-43%,"$125,634",1.0,9.0,26.0,26.0,CERN
+652,D,2009-09-11 17:13:16,2009-09-09,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale+OE,$65.50,-5000,11385,-31%,"-$327,500",1.0,3.0,27.0,28.0,CERN
+653,D,2009-09-11 17:13:16,2009-09-09,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",X - OptEx,$23.12,5000,11385,-31%,"$115,575",1.0,3.0,27.0,28.0,CERN
+654,D,2009-09-11 17:12:54,2009-09-09,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$65.50,-5000,6460812,0%,"-$327,500",1.0,3.0,27.0,28.0,CERN
+655,DM,2009-09-10 17:50:11,2009-09-08,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$64.62,-20000,4574338,0%,"-$1,292,380",2.0,5.0,23.0,29.0,CERN
+656,D,2009-08-28 18:27:06,2009-08-26,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$63.83,-6000,4567338,0%,"-$382,980",-2.0,0.0,19.0,35.0,CERN
+657,D,2009-08-26 16:51:28,2009-08-24,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$64.90,-2500,6465812,0%,"-$162,250",0.0,-3.0,14.0,29.0,CERN
+658,DM,2009-08-24 17:06:58,2009-08-20,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$64.12,-5000,6468312,0%,"-$320,591",0.0,-3.0,17.0,25.0,CERN
+659,D,2009-08-17 18:03:40,2009-08-13,CERN,Bisbee Gerald E Jr,Dir,S - Sale+OE,$64.08,-3900,28900,-12%,"-$249,912",1.0,5.0,9.0,28.0,CERN
+660,D,2009-08-14 17:17:21,2009-08-12,CERN,Wilson Julie M,Chief People Officer,S - Sale+OE,$64.94,-12086,9605,-56%,"-$784,865",-3.0,0.0,6.0,23.0,CERN
+661,D,2009-08-14 17:17:21,2009-08-12,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$26.75,12086,9605,-56%,"$323,259",-3.0,0.0,6.0,23.0,CERN
+662,D,2009-08-14 17:14:12,2009-08-12,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale+OE,$65.03,-6600,11385,-37%,"-$429,198",-3.0,0.0,6.0,23.0,CERN
+663,D,2009-08-14 17:14:12,2009-08-12,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",X - OptEx,$11.45,3600,11385,-24%,"$41,213",-3.0,0.0,6.0,23.0,CERN
+664,D,2009-08-14 17:10:48,2009-08-12,CERN,Devanny Earl H III,Pres,S - Sale+OE,$65.07,-18877,14930,-56%,"-$1,228,326",-3.0,0.0,6.0,23.0,CERN
+665,D,2009-08-14 17:10:48,2009-08-12,CERN,Devanny Earl H III,Pres,X - OptEx,$11.30,18877,14930,-56%,"$213,216",-3.0,0.0,6.0,23.0,CERN
+666,D,2009-08-13 16:44:15,2009-08-11,CERN,Bisbee Gerald E Jr,Dir,S - Sale+OE,$62.81,-8000,32800,-20%,"-$502,480",-1.0,-2.0,4.0,23.0,CERN
+667,D,2009-08-13 16:44:15,2009-08-11,CERN,Bisbee Gerald E Jr,Dir,X - OptEx,$13.34,8000,32800,-20%,"$106,687",-1.0,-2.0,4.0,23.0,CERN
+668,D,2009-08-06 18:03:52,2009-08-04,CERN,Neaves William B,Dir,S - Sale+OE,$65.42,-16000,22100,-42%,"-$1,046,720",2.0,3.0,0.0,20.0,CERN
+669,D,2009-08-06 18:03:52,2009-08-04,CERN,Neaves William B,Dir,X - OptEx,$17.00,16000,22100,-42%,"$272,000",2.0,3.0,0.0,20.0,CERN
+670,D,2009-08-06 18:00:31,2009-08-04,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$65.45,-1000,6473312,0%,"-$65,450",1.0,3.0,0.0,20.0,CERN
+671,D,2009-08-05 17:47:04,2009-08-03,CERN,Nill Michael,"EVP, Chief Engineering Of",S - Sale+OE,$64.91,-4940,2576,-66%,"-$320,655",-3.0,-3.0,-4.0,19.0,CERN
+672,D,2009-08-05 17:47:04,2009-08-03,CERN,Nill Michael,"EVP, Chief Engineering Of",X - OptEx,$12.27,4940,2576,-66%,"$60,630",-3.0,-3.0,-4.0,19.0,CERN
+673,D,2009-08-05 17:46:02,2009-08-03,CERN,Herman Michael E,Dir,S - Sale+OE,$65.78,-4250,35850,-11%,"-$279,548",-3.0,-3.0,-4.0,19.0,CERN
+674,D,2009-06-16 16:16:34,2009-06-12,CERN,Wilson Julie M,Chief People Officer,S - Sale+OE,$58.86,-6800,9605,-41%,"-$400,248",1.0,-2.0,3.0,31.0,CERN
+675,D,2009-06-16 16:16:34,2009-06-12,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$20.12,6800,9605,-41%,"$136,832",1.0,-2.0,3.0,31.0,CERN
+676,D,2009-06-16 16:15:29,2009-06-12,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$58.73,-5000,4540338,0%,"-$293,650",1.0,-2.0,3.0,31.0,CERN
+677,D,2009-06-15 17:04:19,2009-06-11,CERN,Valentine Mike,"SVP, Gen Mgr - USA",S - Sale+OE,$58.68,-11400,5983,-66%,"-$668,952",0.0,2.0,2.0,30.0,CERN
+678,D,2009-06-15 17:04:19,2009-06-11,CERN,Valentine Mike,"SVP, Gen Mgr - USA",X - OptEx,$11.29,11400,5983,-66%,"$128,650",0.0,2.0,2.0,30.0,CERN
+679,DM,2009-06-15 17:03:46,2009-06-11,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$58.98,-10000,6474312,0%,"-$589,750",0.0,2.0,2.0,30.0,CERN
+680,D,2009-06-10 16:06:19,2009-06-08,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$58.17,-10700,6484312,0%,"-$622,400",2.0,2.0,0.0,30.0,CERN
+681,D,2009-05-28 16:43:00,2009-05-26,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$58.77,-20000,4545338,0%,"-$1,175,400",-1.0,-1.0,3.0,33.0,CERN
+682,D,2009-05-19 17:42:38,2009-05-18,CERN,Devanny Earl H III,Pres,S - Sale+OE,$57.22,-18000,14930,-55%,"-$1,029,960",-1.0,1.0,2.0,37.0,CERN
+683,D,2009-05-19 17:42:38,2009-05-18,CERN,Devanny Earl H III,Pres,X - OptEx,$7.75,18000,14930,-55%,"$139,500",-1.0,1.0,2.0,37.0,CERN
+684,DM,2009-05-11 17:35:55,2009-05-07,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$57.20,-15000,4565338,0%,"-$858,050",-2.0,-2.0,2.0,35.0,CERN
+685,DM,2009-05-08 18:22:25,2009-05-06,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$56.03,-21350,6495012,0%,"-$1,196,201",0.0,-4.0,2.0,33.0,CERN
+686,DM,2009-05-06 18:30:36,2009-05-05,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$54.90,-10650,6519512,0%,"-$584,706",2.0,1.0,3.0,38.0,CERN
+687,D,2009-05-06 16:34:24,2009-05-04,CERN,Naughton Marc G,"SVP, CFO",S - Sale+OE,$53.82,-1000,18559,-5%,"-$53,820",2.0,1.0,3.0,38.0,CERN
+688,D,2009-05-06 16:34:24,2009-05-04,CERN,Naughton Marc G,"SVP, CFO",X - OptEx,$8.52,1000,18559,-5%,"$8,520",2.0,1.0,3.0,38.0,CERN
+689,D,2009-05-05 17:38:18,2009-05-01,CERN,Herman Michael E,Dir,S - Sale+OE,$53.09,-8000,44800,-15%,"-$424,720",1.0,3.0,5.0,38.0,CERN
+690,D,2009-05-05 17:38:18,2009-05-01,CERN,Herman Michael E,Dir,X - OptEx,$15.47,8000,44800,-15%,"$123,750",1.0,3.0,5.0,38.0,CERN
+691,D,2009-03-13 16:41:16,2009-03-11,CERN,Patterson Neal L,"COB, CEO",G - Gift,$38.46,-400000,6527012,+7%,"-$15,384,000",1.0,4.0,7.0,54.0,CERN
+692,D,2009-03-13 16:32:06,2009-03-13,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$42.60,-5000,4580338,0%,"-$213,002",1.0,4.0,7.0,54.0,CERN
+693,DM,2009-03-12 17:02:03,2009-03-10,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$40.72,-25000,4585338,-1%,"-$1,018,055",-2.0,4.0,5.0,54.0,CERN
+694,D,2009-02-18 16:51:00,2009-02-13,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$38.36,-10000,4610338,0%,"-$383,616",0.0,2.0,19.0,64.0,CERN
+695,DM,2008-12-12 17:01:52,2008-12-09,CERN,Patterson Neal L,"COB, CEO",G - Gift,$37.86,-18000,6526451,0%,"-$681,420",-1.0,-1.0,1.0,53.0,CERN
+696,D,2008-12-12 17:01:52,2008-12-10,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$37.67,-200,6526451,0%,"-$7,534",-1.0,-1.0,1.0,53.0,CERN
+697,D,2008-11-24 16:57:47,2008-11-20,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",P - Purchase,$32.56,6000,13725,+78%,"+$195,353",2.0,-5.0,10.0,75.0,CERN
+698,D,2008-11-06 21:02:49,2008-11-04,CERN,Bisbee Gerald E Jr,Dir,P - Purchase,$37.63,1000,29500,+4%,"+$37,630",0.0,-3.0,-8.0,48.0,CERN
+699,D,2008-10-31 16:49:53,2008-10-29,CERN,Danforth John C,Dir,P - Purchase,$35.96,6800,89440,+8%,"+$244,501",0.0,2.0,-13.0,51.0,CERN
+700,D,2008-10-28 16:14:30,2008-10-24,CERN,Neaves William B,Dir,P - Purchase,$31.63,3000,18800,+19%,"+$94,880",-6.0,3.0,-3.0,51.0,CERN
+701,D,2008-09-16 16:48:27,2008-09-12,CERN,Bisbee Gerald E Jr,Dir,S - Sale+OE,$46.61,-7500,28500,-21%,"-$349,575",0.0,4.0,-24.0,-6.0,CERN
+702,D,2008-09-16 16:47:19,2008-09-12,CERN,Wilson Julie M,Chief People Officer,S - Sale+OE,$46.50,-4194,9038,-32%,"-$195,021",0.0,4.0,-24.0,-6.0,CERN
+703,D,2008-09-16 16:47:19,2008-09-12,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$15.01,4194,9038,-32%,"$62,935",0.0,4.0,-24.0,-6.0,CERN
+704,D,2008-09-15 16:58:00,2008-09-11,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$46.85,-10000,4641112,0%,"-$468,464",1.0,8.0,-20.0,-5.0,CERN
+705,D,2008-09-12 17:17:01,2008-09-10,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$47.62,-10000,4651112,0%,"-$476,183",-2.0,2.0,-25.0,-9.0,CERN
+706,D,2008-09-11 16:52:09,2008-09-09,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$46.86,-10000,4661112,0%,"-$468,629",-1.0,-2.0,-28.0,-8.0,CERN
+707,D,2008-09-10 16:23:20,2008-09-08,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$47.21,-5000,4671112,0%,"-$236,050",0.0,-2.0,-20.0,-12.0,CERN
+708,D,2008-09-10 16:22:13,2008-09-08,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$47.50,-2500,6526651,0%,"-$118,750",0.0,-2.0,-20.0,-12.0,CERN
+709,D,2008-09-03 16:56:03,2008-08-29,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$46.38,-5000,4676112,0%,"-$231,921",1.0,0.0,-3.0,-24.0,CERN
+710,D,2008-08-26 16:52:11,2008-08-22,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$47.41,-5000,6529151,0%,"-$237,050",0.0,-2.0,1.0,-21.0,CERN
+711,D,2008-08-22 16:43:50,2008-08-20,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$47.65,-2500,6534151,0%,"-$119,125",-2.0,-1.0,1.0,-21.0,CERN
+712,D,2008-08-19 17:02:20,2008-08-15,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$47.88,-5000,6536651,0%,"-$239,400",0.0,-2.0,-2.0,-20.0,CERN
+713,D,2008-08-18 17:02:08,2008-08-14,CERN,Patterson Neal L,"COB, CEO",S - Sale+OE,$47.64,-2500,6541651,0%,"-$119,100",-1.0,-1.0,-3.0,-19.0,CERN
+714,D,2008-08-13 17:36:08,2008-08-11,CERN,Bisbee Gerald E Jr,Dir,S - Sale+OE,$47.22,-7500,36000,-17%,"-$354,150",2.0,0.0,0.0,-24.0,CERN
+715,D,2008-06-17 16:58:47,2008-06-13,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$47.25,-10000,4681112,0%,"-$472,477",0.0,0.0,-7.0,-20.0,CERN
+716,D,2008-06-10 16:30:59,2008-06-06,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$47.40,-10000,4691112,0%,"-$474,010",-3.0,3.0,-7.0,-25.0,CERN
+717,D,2008-05-20 16:27:21,2008-05-19,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$47.65,-5000,4701112,0%,"-$238,229",-2.0,-1.0,2.0,-22.0,CERN
+718,D,2008-05-20 16:25:53,2008-05-19,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$47.99,-15000,4298476,0%,"-$719,886",-2.0,-1.0,2.0,-22.0,CERN
+719,D,2008-05-20 16:25:53,2008-05-19,CERN,Illig Clifford W,Vice COB,X - OptEx,$14.13,20000,4298476,0%,"$282,500",-2.0,-1.0,2.0,-22.0,CERN
+720,D,2008-05-20 16:24:37,2008-05-16,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$47.77,-10000,4293476,0%,"-$477,734",-2.0,-1.0,2.0,-22.0,CERN
+721,D,2008-05-20 16:24:37,2008-05-16,CERN,Illig Clifford W,Vice COB,X - OptEx,$14.13,10000,4293476,0%,"$141,250",-2.0,-1.0,2.0,-22.0,CERN
+722,D,2008-05-16 16:07:47,2008-05-15,CERN,Naughton Marc G,"SVP, CFO",S - Sale+OE,$47.19,-10000,17355,-37%,"-$471,940",-1.0,-3.0,0.0,-23.0,CERN
+723,D,2008-05-16 16:07:47,2008-05-15,CERN,Naughton Marc G,"SVP, CFO",X - OptEx,$14.13,10000,17355,-37%,"$141,250",-1.0,-3.0,0.0,-23.0,CERN
+724,D,2008-03-18 16:49:16,2008-03-14,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$40.76,-10000,4701112,0%,"-$407,635",1.0,2.0,-2.0,16.0,CERN
+725,D,2008-03-14 16:38:33,2008-03-12,CERN,Krebs Douglas M,"Pres, Cerner Global",S - Sale+OE,$42.26,-27800,2715,-91%,"-$1,174,947",-3.0,-4.0,-4.0,16.0,CERN
+726,D,2008-03-14 16:38:33,2008-03-12,CERN,Krebs Douglas M,"Pres, Cerner Global",X - OptEx,$21.35,27800,2715,-91%,"$593,424",-3.0,-4.0,-4.0,16.0,CERN
+727,D,2008-03-12 16:29:05,2008-03-11,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",P - Purchase,$41.15,5000,8025,+165%,"+$205,750",-2.0,-7.0,-7.0,10.0,CERN
+728,,2008-02-12 16:18:32,2008-02-08,CERN,Illig Clifford W,Vice COB,S - Sale,$48.13,-10000,4711112,0%,"-$481,250",-1.0,-5.0,-13.0,-2.0,CERN
+729,M,2008-02-07 16:51:45,2008-02-05,CERN,Illig Clifford W,Vice COB,S - Sale,$47.85,-10000,4735616,0%,"-$478,545",0.0,0.0,-12.0,-7.0,CERN
+730,D,2007-12-14 17:16:31,2007-12-12,CERN,Neaves William B,Dir,S - Sale+OE,$57.99,-8000,13500,-37%,"-$463,952",-2.0,0.0,-7.0,-16.0,CERN
+731,D,2007-12-14 17:16:31,2007-12-12,CERN,Neaves William B,Dir,X - OptEx,$17.00,8000,13500,-37%,"$136,000",-2.0,0.0,-7.0,-16.0,CERN
+732,,2007-12-13 16:24:59,2007-12-11,CERN,Illig Clifford W,Vice COB,S - Sale,$39.31,-12900,4745616,0%,"-$507,158",-1.0,-2.0,-1.0,-17.0,CERN
+733,M,2007-12-11 16:02:18,2007-12-07,CERN,Illig Clifford W,Vice COB,S - Sale,$59.42,-27100,4753516,-1%,"-$1,610,326",-1.0,-4.0,2.0,-22.0,CERN
+734,D,2007-11-07 16:12:06,2007-11-05,CERN,Krebs Douglas M,"Pres, Cerner Global",S - Sale+OE,$57.75,-34000,2516,-93%,"-$1,963,661",-2.0,-3.0,5.0,-16.0,CERN
+735,D,2007-11-07 16:12:06,2007-11-05,CERN,Krebs Douglas M,"Pres, Cerner Global",X - OptEx,$15.40,34000,2516,-93%,"$523,496",-2.0,-3.0,5.0,-16.0,CERN
+736,D,2007-11-07 16:06:57,2007-11-05,CERN,Krebs Douglas M,"Pres, Cerner Global",S - Sale+OE,$57.87,-6000,0,-100%,"-$347,221",-2.0,-3.0,5.0,-16.0,CERN
+737,D,2007-11-07 16:06:57,2007-11-05,CERN,Krebs Douglas M,"Pres, Cerner Global",X - OptEx,$19.60,6000,0,-100%,"$117,619",-2.0,-3.0,5.0,-16.0,CERN
+738,M,2007-09-14 16:10:49,2007-09-12,CERN,Illig Clifford W,Vice COB,S - Sale,$57.50,-15000,4785616,0%,"-$862,500",-2.0,2.0,11.0,-30.0,CERN
+739,,2007-09-10 16:15:45,2007-09-06,CERN,Illig Clifford W,Vice COB,S - Sale,$57.12,-5000,4800616,0%,"-$285,586",2.0,5.0,12.0,-25.0,CERN
+740,M,2007-09-04 16:55:23,2007-08-30,CERN,Illig Clifford W,Vice COB,S - Sale,$56.79,-15063,4805616,0%,"-$855,430",-1.0,-4.0,6.0,-25.0,CERN
+741,M,2007-08-27 16:08:23,2007-08-23,CERN,Illig Clifford W,Vice COB,S - Sale,$57.29,-4937,4820679,0%,"-$282,826",-2.0,1.0,6.0,-20.0,CERN
+742,D,2007-08-13 16:16:17,2007-08-09,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",S - Sale+OE,$65.74,-6199,7242,-46%,"-$407,552",-1.0,0.0,-2.0,-17.0,CERN
+743,D,2007-08-13 16:16:17,2007-08-09,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",X - OptEx,$12.50,6199,7242,-46%,"$77,488",-1.0,0.0,-2.0,-17.0,CERN
+744,D,2007-08-13 16:14:56,2007-08-09,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",S - Sale+OE,$65.16,-8801,7242,-55%,"-$573,495",-1.0,0.0,-2.0,-17.0,CERN
+745,D,2007-08-13 16:14:56,2007-08-09,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",X - OptEx,$12.50,8801,7242,-55%,"$110,013",-1.0,0.0,-2.0,-17.0,CERN
+746,D,2007-08-10 16:40:23,2007-08-08,CERN,Herman Michael E,Dir,S - Sale+OE,$61.67,-18000,34500,-34%,"-$1,110,071",-2.0,-3.0,-5.0,-17.0,CERN
+747,D,2007-08-10 16:40:23,2007-08-08,CERN,Herman Michael E,Dir,X - OptEx,$15.47,8000,34500,-19%,"$123,750",-2.0,-3.0,-5.0,-17.0,CERN
+748,M,2007-08-10 16:36:55,2007-08-08,CERN,Patterson Neal L,"COB, CEO",S - Sale,$62.24,-15000,6553565,0%,"-$933,558",-2.0,-3.0,-5.0,-17.0,CERN
+749,D,2007-08-09 16:13:28,2007-08-08,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale+OE,$60.03,-12800,2344,-85%,"-$768,431",-6.0,-10.0,-11.0,-23.0,CERN
+750,D,2007-08-09 16:13:28,2007-08-08,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",X - OptEx,$15.42,12800,2344,-85%,"$197,379",-6.0,-10.0,-11.0,-23.0,CERN
+751,D,2007-08-09 16:09:41,2007-08-07,CERN,Wilson Julie M,Chief People Officer,S - Sale+OE,$58.30,-6864,8580,-44%,"-$400,150",-6.0,-10.0,-11.0,-23.0,CERN
+752,D,2007-08-09 16:09:41,2007-08-07,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$19.02,6864,8580,-44%,"$130,554",-6.0,-10.0,-11.0,-23.0,CERN
+753,,2007-06-14 17:33:48,2007-06-12,CERN,Illig Clifford W,Vice COB,S - Sale,$54.83,-15000,4825616,0%,"-$822,380",1.0,2.0,6.0,5.0,CERN
+754,D,2007-06-14 17:27:28,2007-06-12,CERN,Black Paul M,"EVP, COO",S - Sale+OE,$55.04,-53176,9532,-85%,"-$2,926,715",1.0,2.0,6.0,5.0,CERN
+755,D,2007-06-14 17:27:28,2007-06-12,CERN,Black Paul M,"EVP, COO",X - OptEx,$19.33,53176,9532,-85%,"$1,028,024",1.0,2.0,6.0,5.0,CERN
+756,M,2007-06-06 17:19:28,2007-06-04,CERN,Bisbee Gerald E Jr,Dir,S - Sale,$56.02,-8500,41200,-17%,"-$476,190",0.0,-1.0,3.0,6.0,CERN
+757,,2007-05-29 16:03:44,2007-05-24,CERN,Patterson Neal L,"COB, CEO",S - Sale,$58.13,-5000,6568565,0%,"-$290,641",1.0,0.0,-2.0,1.0,CERN
+758,,2007-05-25 16:09:53,2007-05-23,CERN,Illig Clifford W,Vice COB,S - Sale,$59.04,-20000,4840616,0%,"-$1,180,706",-1.0,-1.0,-2.0,1.0,CERN
+759,D,2007-05-24 16:16:31,2007-05-22,CERN,Naughton Marc G,"SVP, CFO",S - Sale+OE,$59.04,-20000,17185,-54%,"-$1,180,732",0.0,-1.0,-2.0,0.0,CERN
+760,D,2007-05-24 16:16:31,2007-05-22,CERN,Naughton Marc G,"SVP, CFO",X - OptEx,$7.50,20000,17185,-54%,"$150,000",0.0,-1.0,-2.0,0.0,CERN
+761,,2007-05-03 16:07:40,2007-05-01,CERN,Illig Clifford W,Vice COB,S - Sale,$52.90,-5000,4860616,0%,"-$264,500",0.0,1.0,5.0,10.0,CERN
+762,D,2007-03-16 20:50:55,2007-03-14,CERN,Wilson Julie M,Chief People Officer,S - Sale+OE,$53.01,-10336,8580,-55%,"-$547,882",-1.0,0.0,-1.0,4.0,CERN
+763,D,2007-03-16 20:50:55,2007-03-14,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$20.49,10336,8580,-55%,"$211,808",-1.0,0.0,-1.0,4.0,CERN
+764,D,2007-03-16 20:50:02,2007-03-14,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale+OE,$53.70,-805,2344,-26%,"-$43,229",-1.0,0.0,-1.0,4.0,CERN
+765,D,2007-03-16 20:50:02,2007-03-14,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",X - OptEx,$6.63,805,2344,-26%,"$5,337",-1.0,0.0,-1.0,4.0,CERN
+766,,2007-03-16 20:47:53,2007-03-14,CERN,Illig Clifford W,Vice COB,S - Sale,$52.59,-25000,4865616,-1%,"-$1,314,750",-1.0,0.0,-1.0,4.0,CERN
+767,,2007-03-12 19:06:07,2007-03-08,CERN,Illig Clifford W,Vice COB,S - Sale,$52.42,-10000,4890616,0%,"-$524,200",-1.0,3.0,5.0,3.0,CERN
+768,D,2007-02-27 18:46:59,2007-02-23,CERN,Devanny Earl H III,Pres,S - Sale+OE,$53.77,-10000,14443,-41%,"-$537,700",2.0,0.0,9.0,11.0,CERN
+769,D,2007-02-27 18:46:59,2007-02-23,CERN,Devanny Earl H III,Pres,X - OptEx,$12.00,10000,14443,-41%,"$120,000",2.0,0.0,9.0,11.0,CERN
+770,D,2007-02-20 16:51:52,2007-02-15,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale+OE,$52.00,-14192,2344,-86%,"-$737,984",0.0,1.0,4.0,8.0,CERN
+771,D,2007-02-20 16:51:52,2007-02-15,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",X - OptEx,$11.35,14192,2344,-86%,"$161,092",0.0,1.0,4.0,8.0,CERN
+772,D,2007-02-16 19:17:41,2007-02-14,CERN,Naughton Marc G,"SVP, CFO",S - Sale+OE,$51.03,-21408,17185,-55%,"-$1,092,542",2.0,4.0,5.0,8.0,CERN
+773,D,2007-02-16 19:17:41,2007-02-14,CERN,Naughton Marc G,"SVP, CFO",X - OptEx,$7.50,21408,17185,-55%,"$160,560",2.0,4.0,5.0,8.0,CERN
+774,M,2007-02-15 19:13:05,2007-02-13,CERN,Patterson Neal L,"COB, CEO",S - Sale,$50.80,-15000,6573565,0%,"-$761,950",0.0,2.0,6.0,8.0,CERN
+775,D,2007-02-15 18:47:02,2007-02-13,CERN,Herman Michael E,Dir,S - Sale+OE,$50.61,-16000,41000,-28%,"-$809,833",0.0,2.0,6.0,8.0,CERN
+776,D,2007-02-15 18:47:02,2007-02-13,CERN,Herman Michael E,Dir,X - OptEx,$9.44,16000,41000,-28%,"$151,000",0.0,2.0,6.0,8.0,CERN
+777,,2007-02-13 20:41:33,2007-02-09,CERN,Patterson Neal L,"COB, CEO",S - Sale,$50.23,-15000,6588565,0%,"-$753,450",0.0,4.0,5.0,12.0,CERN
+778,,2007-02-12 18:02:35,2007-02-08,CERN,Illig Clifford W,Vice COB,S - Sale,$50.01,-5000,4899984,0%,"-$250,065",2.0,5.0,6.0,17.0,CERN
+779,D,2007-02-08 17:51:45,2007-02-06,CERN,Devanny Earl H III,Pres,S - Sale+OE,$50.03,-10000,13568,-42%,"-$500,300",-1.0,2.0,7.0,25.0,CERN
+780,D,2007-02-08 17:51:45,2007-02-06,CERN,Devanny Earl H III,Pres,X - OptEx,$7.75,10000,13568,-42%,"$77,500",-1.0,2.0,7.0,25.0,CERN
+781,D,2006-12-18 17:15:30,2006-12-14,CERN,Devanny Earl H III,Pres,S - Sale+OE,$48.15,-10000,13568,-42%,"-$481,492",0.0,-4.0,-4.0,17.0,CERN
+782,D,2006-12-18 17:15:30,2006-12-14,CERN,Devanny Earl H III,Pres,X - OptEx,$7.75,10000,13568,-42%,"$77,500",0.0,-4.0,-4.0,17.0,CERN
+783,,2006-11-13 17:32:21,2006-11-07,CERN,Illig Clifford W,Vice COB,S - Sale,$50.03,-15000,4904984,0%,"-$750,450",0.0,-1.0,-4.0,7.0,CERN
+784,D,2006-11-07 18:45:47,2006-11-07,CERN,Devanny Earl H III,Pres,S - Sale+OE,$50.50,-5000,13568,-27%,"-$252,500",-1.0,-1.0,-4.0,6.0,CERN
+785,D,2006-11-07 18:45:47,2006-11-07,CERN,Devanny Earl H III,Pres,X - OptEx,$12.00,5000,13568,-27%,"$60,000",-1.0,-1.0,-4.0,6.0,CERN
+786,M,2006-11-07 18:30:05,2006-11-03,CERN,Patterson Neal L,"COB, CEO",S - Sale,$48.86,-25000,6635861,0%,"-$1,221,600",-1.0,-1.0,-4.0,6.0,CERN
+787,D,2006-09-07 18:05:30,2006-09-05,CERN,Wilson Julie M,Chief People Officer,S - Sale+OE,$46.62,-7642,8027,-49%,"-$356,302",0.0,6.0,2.0,19.0,CERN
+788,D,2006-09-07 18:05:30,2006-09-05,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$18.58,7642,8027,-49%,"$141,988",0.0,6.0,2.0,19.0,CERN
+789,D,2006-08-30 18:10:09,2006-08-28,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",S - Sale+OE,$45.61,-20124,6873,-75%,"-$917,944",-1.0,-1.0,0.0,9.0,CERN
+790,D,2006-08-30 18:10:09,2006-08-28,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",X - OptEx,$8.41,20124,6873,-75%,"$169,330",-1.0,-1.0,0.0,9.0,CERN
+791,D,2006-08-16 19:09:07,2006-08-14,CERN,Herman Michael E,Dir,S - Sale+OE,$44.93,-17000,41000,-29%,"-$763,795",-1.0,-2.0,1.0,14.0,CERN
+792,D,2006-08-16 19:09:07,2006-08-14,CERN,Herman Michael E,Dir,X - OptEx,$9.44,17000,41000,-29%,"$160,438",-1.0,-2.0,1.0,14.0,CERN
+793,,2006-08-16 18:49:57,2006-08-14,CERN,Illig Clifford W,Vice COB,S - Sale,$44.70,-15000,4919984,0%,"-$670,457",-1.0,-2.0,1.0,14.0,CERN
+794,D,2006-08-08 18:58:48,2006-08-04,CERN,Black Paul M,"EVP, COO",S - Sale+OE,$42.04,-44424,8791,-83%,"-$1,867,492",3.0,6.0,9.0,17.0,CERN
+795,D,2006-08-08 18:58:48,2006-08-04,CERN,Black Paul M,"EVP, COO",X - OptEx,$18.26,44424,8791,-83%,"$811,056",3.0,6.0,9.0,17.0,CERN
+796,,2006-08-07 21:09:29,2006-08-03,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$41.75,-10000,6660861,0%,"-$417,500",1.0,5.0,13.0,18.0,CERN
+797,,2006-08-07 20:58:14,2006-08-03,CERN,Illig Clifford W,Vice COB,S - Sale,$41.71,-15000,4934984,0%,"-$625,650",1.0,5.0,13.0,18.0,CERN
+798,,2006-08-04 18:01:05,2006-08-02,CERN,Illig Clifford W,Vice COB,S - Sale,$41.35,-10000,4949984,0%,"-$413,500",0.0,4.0,10.0,19.0,CERN
+799,,2006-08-03 06:29:22,2006-08-01,CERN,Herman Michael E,Dir,P - Purchase,$39.86,200,41000,0%,"+$7,972",2.0,5.0,12.0,23.0,CERN
+800,M,2006-08-02 17:50:17,2006-07-31,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$40.61,-12500,6670861,0%,"-$507,679",2.0,3.0,13.0,11.0,CERN
+801,,2006-06-09 16:41:58,2006-06-09,CERN,Illig Clifford W,Vice COB,S - Sale,$38.13,-10000,4959984,0%,"-$381,250",-1.0,0.0,-4.0,28.0,CERN
+802,M,2006-06-02 16:44:51,2006-05-31,CERN,Illig Clifford W,Vice COB,S - Sale,$38.25,-15000,4969984,0%,"-$573,800",-3.0,-5.0,-3.0,24.0,CERN
+803,M,2006-05-23 17:04:39,2006-05-19,CERN,Illig Clifford W,Vice COB,S - Sale,$37.34,-15000,4984984,0%,"-$560,050",-6.0,1.0,3.0,32.0,CERN
+804,,2006-05-10 19:23:29,2006-05-08,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$41.00,-5000,6683361,0%,"-$205,000",-6.0,-6.0,-8.0,23.0,CERN
+805,D,2006-03-16 17:09:06,2006-03-14,CERN,Black Paul M,"EVP, COO",S - Sale+OE,$43.98,-11976,8791,-58%,"-$526,704",1.0,0.0,-2.0,2.0,CERN
+806,D,2006-03-16 17:09:06,2006-03-14,CERN,Black Paul M,"EVP, COO",X - OptEx,$9.75,11976,8791,-58%,"$116,766",1.0,0.0,-2.0,2.0,CERN
+807,,2006-03-16 16:54:29,2006-03-14,CERN,Illig Clifford W,Vice COB,S - Sale,$44.28,-10000,4999984,0%,"-$442,797",1.0,0.0,-2.0,2.0,CERN
+808,,2006-03-15 17:42:26,2006-03-13,CERN,Illig Clifford W,Vice COB,S - Sale,$44.07,-10000,5009984,0%,"-$440,703",2.0,2.0,-3.0,2.0,CERN
+809,D,2006-03-13 17:03:50,2006-03-09,CERN,Illig Clifford W,Vice COB,S - Sale+OE,$43.55,-10000,5019984,0%,"-$435,500",2.0,7.0,4.0,3.0,CERN
+810,,2006-03-08 17:49:51,2006-03-08,CERN,Illig Clifford W,Vice COB,S - Sale,$43.45,-10000,5029984,0%,"-$434,500",-1.0,2.0,7.0,8.0,CERN
+811,,2006-03-07 18:55:49,2006-03-03,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$43.75,-10000,6688361,0%,"-$437,500",1.0,1.0,8.0,6.0,CERN
+812,,2006-02-23 17:29:54,2006-02-21,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$43.63,-2500,6698361,0%,"-$109,075",0.0,3.0,11.0,8.0,CERN
+813,,2006-02-22 17:05:46,2006-02-17,CERN,Deparle Nancy Ann,Dir,S - Sale,$43.40,-13300,23800,-36%,"-$577,220",-2.0,-3.0,9.0,6.0,CERN
+814,,2006-02-22 17:05:46,2006-02-17,CERN,Deparle Nancy Ann,Dir,X - OptEx,$15.47,13300,23800,-36%,"$205,735",-2.0,-3.0,9.0,6.0,CERN
+815,,2005-11-25 17:01:26,2005-11-22,CERN,Illig Clifford W,Vice COB,S - Sale,$95.73,-11000,2519623,0%,"-$1,053,007",-2.0,0.0,-4.0,-24.0,CERN
+816,,2005-11-23 17:01:29,2005-11-21,CERN,Wilson Julie M,Chief People Officer,S - Sale,$94.00,-5208,3600,-59%,"-$489,552",-1.0,-2.0,-7.0,-28.0,CERN
+817,,2005-11-23 17:01:29,2005-11-21,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$30.85,5208,3600,-59%,"$160,656",-1.0,-2.0,-7.0,-28.0,CERN
+818,,2005-11-21 17:10:42,2005-11-17,CERN,Illig Clifford W,Vice COB,S - Sale,$95.00,-15000,2530623,-1%,"-$1,425,000",2.0,1.0,-6.0,-21.0,CERN
+819,,2005-11-17 17:22:05,2005-11-15,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale,$93.00,-2500,470,-84%,"-$232,500",1.0,3.0,-9.0,-22.0,CERN
+820,,2005-11-17 17:22:05,2005-11-15,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",X - OptEx,$13.25,2500,470,-84%,"$33,125",1.0,3.0,-9.0,-22.0,CERN
+821,,2005-11-17 17:20:08,2005-11-15,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$92.25,-10000,3349914,0%,"-$922,500",1.0,3.0,-9.0,-22.0,CERN
+822,,2005-11-17 17:16:25,2005-11-15,CERN,Naughton Marc G,"SVP, CFO",S - Sale,$92.88,-12500,8311,-60%,"-$1,161,008",1.0,3.0,-9.0,-22.0,CERN
+823,,2005-11-17 17:16:25,2005-11-15,CERN,Naughton Marc G,"SVP, CFO",X - OptEx,$15.00,12500,8311,-60%,"$187,500",1.0,3.0,-9.0,-22.0,CERN
+824,,2005-11-17 17:13:19,2005-11-15,CERN,Devanny Earl H III,Pres,S - Sale,$91.17,-5000,6268,-44%,"-$455,865",1.0,3.0,-9.0,-22.0,CERN
+825,,2005-11-17 17:13:19,2005-11-15,CERN,Devanny Earl H III,Pres,X - OptEx,$24.00,5000,6268,-44%,"$120,000",1.0,3.0,-9.0,-22.0,CERN
+826,,2005-11-15 17:24:29,2005-11-10,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$90.00,-5000,3359914,0%,"-$450,000",-2.0,0.0,-1.0,-23.0,CERN
+827,,2005-11-15 17:20:54,2005-11-10,CERN,Devanny Earl H III,Pres,S - Sale,$90.02,-2500,6268,-29%,"-$225,050",-2.0,0.0,-1.0,-23.0,CERN
+828,,2005-11-15 17:20:54,2005-11-10,CERN,Devanny Earl H III,Pres,X - OptEx,$24.00,2500,6268,-29%,"$60,000",-2.0,0.0,-1.0,-23.0,CERN
+829,,2005-11-10 16:52:15,2005-11-09,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$89.25,-10000,3364914,0%,"-$892,500",-1.0,4.0,7.0,-17.0,CERN
+830,,2005-11-04 18:54:07,2005-11-03,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$89.49,-10000,3374914,0%,"-$894,900",0.0,2.0,8.0,-6.0,CERN
+831,,2005-11-03 18:20:44,2005-11-01,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",S - Sale,$84.63,-22740,3118,-88%,"-$1,924,449",-1.0,1.0,9.0,-7.0,CERN
+832,,2005-11-03 18:20:44,2005-11-01,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",X - OptEx,$18.03,22740,3118,-88%,"$410,100",-1.0,1.0,9.0,-7.0,CERN
+833,M,2005-10-28 20:28:11,2005-10-26,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$85.00,-20911,3384914,-1%,"-$1,777,475",1.0,6.0,14.0,-3.0,CERN
+834,A,2005-10-05 21:58:49,2005-09-06,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale,$81.25,-4596,470,-91%,"-$373,425",0.0,2.0,5.0,13.0,CERN
+835,A,2005-10-05 21:58:49,2005-09-06,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",X - OptEx,$13.25,3500,470,-88%,"$46,375",0.0,2.0,5.0,13.0,CERN
+836,,2005-09-15 18:40:43,2005-09-13,CERN,Krebs Douglas M,"Pres, Cerner Global",S - Sale,$85.26,-10000,1005,-91%,"-$852,625",-1.0,-1.0,2.0,12.0,CERN
+837,,2005-09-15 18:40:43,2005-09-13,CERN,Krebs Douglas M,"Pres, Cerner Global",X - OptEx,$19.43,10000,1005,-91%,"$194,261",-1.0,-1.0,2.0,12.0,CERN
+838,,2005-09-15 18:16:09,2005-09-13,CERN,Illig Clifford W,Vice COB,S - Sale,$86.23,-1700,2545623,0%,"-$146,591",-1.0,-1.0,2.0,12.0,CERN
+839,,2005-09-14 21:23:43,2005-09-12,CERN,Bisbee Gerald E Jr,Dir,S - Sale,$84.27,-4100,20600,-17%,"-$345,507",-1.0,-2.0,-1.0,9.0,CERN
+840,,2005-09-13 18:46:08,2005-09-09,CERN,Neaves William B,Dir,S - Sale,$83.02,-8000,5000,-62%,"-$664,180",0.0,-2.0,0.0,6.0,CERN
+841,,2005-09-13 18:46:08,2005-09-09,CERN,Neaves William B,Dir,X - OptEx,$34.00,8000,5000,-62%,"$272,000",0.0,-2.0,0.0,6.0,CERN
+842,,2005-09-09 19:31:35,2005-06-20,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",P - Purchase,$65.82,158,1566,+11%,"+$10,416",1.0,0.0,1.0,5.0,CERN
+843,,2005-09-09 19:31:35,2005-09-07,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale,$83.62,-4695,1566,-75%,"-$392,591",1.0,0.0,1.0,5.0,CERN
+844,,2005-09-09 19:08:06,2005-09-07,CERN,Black Paul M,"EVP, COO",S - Sale,$85.50,-8494,3880,-69%,"-$726,237",1.0,0.0,1.0,5.0,CERN
+845,,2005-09-09 18:53:06,2005-09-07,CERN,Illig Clifford W,Vice COB,S - Sale,$85.30,-5700,2549986,0%,"-$486,235",1.0,0.0,1.0,5.0,CERN
+846,,2005-09-08 19:30:11,2005-09-06,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",S - Sale,$81.25,-4596,6103,-43%,"-$373,425",0.0,1.0,0.0,5.0,CERN
+847,,2005-09-08 19:30:11,2005-09-06,CERN,Sims Randy D,"VP, Chief Legal Off, Secretar",X - OptEx,$14.15,4596,6103,-43%,"$65,051",0.0,1.0,0.0,5.0,CERN
+848,M,2005-09-08 19:01:42,2005-09-06,CERN,Illig Clifford W,Vice COB,S - Sale,$80.83,-16663,2553023,-1%,"-$1,346,928",0.0,1.0,0.0,5.0,CERN
+849,,2005-09-08 18:34:36,2005-09-06,CERN,Herman Michael E,Dir,S - Sale,$79.50,-4600,17900,-20%,"-$365,700",0.0,1.0,0.0,5.0,CERN
+850,,2005-09-08 18:13:47,2005-09-06,CERN,Devanny Earl H III,Pres,S - Sale,$79.50,-5000,6268,-44%,"-$397,500",0.0,1.0,0.0,5.0,CERN
+851,,2005-09-08 18:13:47,2005-09-06,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,5000,6268,-44%,"$77,500",0.0,1.0,0.0,5.0,CERN
+852,,2005-09-07 19:17:23,2005-09-02,CERN,Illig Clifford W,Vice COB,S - Sale,$79.25,-1337,2569686,0%,"-$105,957",-1.0,0.0,-2.0,5.0,CERN
+853,,2005-08-30 19:21:02,2005-08-26,CERN,Illig Clifford W,Vice COB,S - Sale,$79.00,-100,2571023,0%,"-$7,900",2.0,7.0,9.0,11.0,CERN
+854,,2005-08-29 18:06:14,2005-08-25,CERN,Illig Clifford W,Vice COB,S - Sale,$79.38,-4200,2571123,0%,"-$333,396",-1.0,1.0,6.0,6.0,CERN
+855,,2005-08-29 17:51:50,2005-08-25,CERN,Valentine Mike,"Sr. VP, Gen Mgr - USA",S - Sale,$79.05,-24500,1757,-93%,"-$1,936,770",-1.0,1.0,6.0,6.0,CERN
+856,,2005-08-29 17:51:50,2005-08-25,CERN,Valentine Mike,"Sr. VP, Gen Mgr - USA",X - OptEx,$30.36,24500,1757,-93%,"$743,838",-1.0,1.0,6.0,6.0,CERN
+857,,2005-08-25 18:32:42,2005-08-23,CERN,Devanny Earl H III,Pres,S - Sale,$79.50,-5000,6268,-44%,"-$397,500",-1.0,0.0,3.0,6.0,CERN
+858,,2005-08-25 18:32:42,2005-08-23,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,5000,6268,-44%,"$77,500",-1.0,0.0,3.0,6.0,CERN
+859,,2005-08-25 18:24:26,2005-08-23,CERN,Naughton Marc G,"SVP, CFO",S - Sale,$78.86,-11555,8311,-58%,"-$911,240",-1.0,0.0,3.0,6.0,CERN
+860,,2005-08-25 18:24:26,2005-08-23,CERN,Naughton Marc G,"SVP, CFO",X - OptEx,$15.07,11555,8311,-58%,"$174,114",-1.0,0.0,3.0,6.0,CERN
+861,,2005-08-25 18:11:20,2005-08-23,CERN,Illig Clifford W,Vice COB,S - Sale,$79.00,-5000,2575323,0%,"-$395,000",-1.0,0.0,3.0,6.0,CERN
+862,A,2005-08-18 16:57:40,2005-08-12,CERN,Spring Shellee,"VP, Intellectual Property",S - Sale,$78.61,-7051,4563,-61%,"-$554,279",0.0,1.0,7.0,12.0,CERN
+863,A,2005-08-18 16:57:40,2005-08-12,CERN,Spring Shellee,"VP, Intellectual Property",X - OptEx,$36.85,5331,4563,-54%,"$196,435",0.0,1.0,7.0,12.0,CERN
+864,,2005-08-18 16:38:37,2005-08-16,CERN,Illig Clifford W,Vice COB,S - Sale,$76.45,-5000,2580323,0%,"-$382,250",0.0,1.0,7.0,12.0,CERN
+865,,2005-08-16 20:02:10,2005-08-12,CERN,Spring Shellee,"VP, Intellectual Property",S - Sale,$78.61,-7051,6283,-53%,"-$554,279",0.0,3.0,10.0,11.0,CERN
+866,,2005-08-16 20:02:10,2005-08-12,CERN,Spring Shellee,"VP, Intellectual Property",X - OptEx,$31.57,6120,6283,-49%,"$193,193",0.0,3.0,10.0,11.0,CERN
+867,,2005-08-10 18:03:17,2005-08-08,CERN,Wilson Julie M,Chief People Officer,S - Sale,$77.03,-4910,3600,-58%,"-$378,199",1.0,-2.0,6.0,12.0,CERN
+868,,2005-08-10 18:03:17,2005-08-08,CERN,Wilson Julie M,Chief People Officer,X - OptEx,$22.36,4910,3600,-58%,"$109,769",1.0,-2.0,6.0,12.0,CERN
+869,,2005-08-09 18:51:32,2005-08-05,CERN,Deparle Nancy Ann,Dir,S - Sale,$77.00,-6700,11900,-36%,"-$515,900",2.0,1.0,10.0,17.0,CERN
+870,,2005-08-09 18:51:32,2005-08-05,CERN,Deparle Nancy Ann,Dir,X - OptEx,$30.94,16000,11900,-57%,"$495,000",2.0,1.0,10.0,17.0,CERN
+871,,2005-08-09 18:40:41,2005-08-05,CERN,Spring Shellee,"VP, Intellectual Property",S - Sale,$78.00,-4500,6283,-42%,"-$351,000",2.0,1.0,10.0,17.0,CERN
+872,,2005-08-09 18:40:41,2005-08-05,CERN,Spring Shellee,"VP, Intellectual Property",X - OptEx,$24.82,4500,6283,-42%,"$111,704",2.0,1.0,10.0,17.0,CERN
+873,,2005-08-05 18:00:09,2005-08-03,CERN,Black Paul M,"EVP, COO",S - Sale,$78.73,-35650,12374,-74%,"-$2,806,841",-1.0,3.0,2.0,14.0,CERN
+874,,2005-08-05 18:00:09,2005-08-03,CERN,Black Paul M,"EVP, COO",X - OptEx,$32.08,35650,12374,-74%,"$1,143,687",-1.0,3.0,2.0,14.0,CERN
+875,,2005-08-05 17:40:28,2005-08-03,CERN,Naughton Marc G,"SVP, CFO",S - Sale,$78.81,-16336,8311,-66%,"-$1,287,479",-1.0,3.0,2.0,14.0,CERN
+876,,2005-08-05 17:40:28,2005-08-03,CERN,Naughton Marc G,"SVP, CFO",X - OptEx,$15.00,16336,8311,-66%,"$245,040",-1.0,3.0,2.0,14.0,CERN
+877,,2005-08-04 18:07:42,2005-08-02,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$76.60,-1500,3405825,0%,"-$114,893",-1.0,1.0,1.0,24.0,CERN
+878,,2005-08-03 18:10:25,2005-08-01,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$76.11,-18500,3407325,-1%,"-$1,408,001",-1.0,-2.0,0.0,21.0,CERN
+879,,2005-08-01 17:03:28,2005-07-28,CERN,Devanny Earl H III,Pres,S - Sale,$75.35,-10679,6268,-63%,"-$804,631",2.0,1.0,2.0,17.0,CERN
+880,,2005-08-01 17:03:28,2005-07-28,CERN,Devanny Earl H III,Pres,X - OptEx,$23.41,10679,6268,-63%,"$250,002",2.0,1.0,2.0,17.0,CERN
+881,,2005-07-29 17:00:31,2005-07-27,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$73.00,-2000,3425825,0%,"-$146,000",2.0,3.0,3.0,19.0,CERN
+882,,2005-07-29 09:04:48,2005-07-26,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$73.24,-2000,3427825,0%,"-$146,481",0.0,3.0,3.0,19.0,CERN
+883,,2005-06-17 09:23:08,2005-06-14,CERN,Illig Clifford W,Vice COB,S - Sale,$62.19,-5000,2585323,0%,"-$310,950",-1.0,2.0,10.0,47.0,CERN
+884,,2005-06-14 17:03:59,2005-06-10,CERN,Illig Clifford W,Vice COB,S - Sale,$63.63,-10000,2590323,0%,"-$636,300",-1.0,2.0,13.0,53.0,CERN
+885,,2005-06-09 17:27:18,2005-06-07,CERN,Illig Clifford W,Vice COB,S - Sale,$64.09,-10000,2600323,0%,"-$640,900",0.0,-2.0,10.0,52.0,CERN
+886,,2005-05-25 18:24:36,2005-05-23,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$64.76,-4000,479435,-1%,"-$259,048",3.0,1.0,1.0,47.0,CERN
+887,,2005-05-23 19:44:00,2005-05-19,CERN,Goldsmith Jeff C,Dir,S - Sale,$65.12,-4000,5365,-43%,"-$260,460",-1.0,1.0,-2.0,47.0,CERN
+888,,2005-05-20 16:54:39,2005-05-04,CERN,Illig Clifford W,Vice COB,S - Sale,$61.16,-2000,2427438,0%,"-$122,320",3.0,4.0,0.0,46.0,CERN
+889,,2005-05-19 16:36:01,2005-05-17,CERN,Black Paul M,"EVP, COO",S - Sale,$62.32,-15000,9194,-62%,"-$934,792",-2.0,-1.0,-3.0,47.0,CERN
+890,,2005-05-16 17:38:00,2005-05-12,CERN,Illig Clifford W,Vice COB,S - Sale,$63.20,-3000,2409438,0%,"-$189,600",1.0,2.0,1.0,45.0,CERN
+891,,2005-05-13 17:43:15,2005-05-11,CERN,Illig Clifford W,Vice COB,S - Sale,$62.80,-2000,2412438,0%,"-$125,600",0.0,4.0,3.0,44.0,CERN
+892,,2005-05-12 18:14:10,2005-05-10,CERN,Illig Clifford W,Vice COB,S - Sale,$62.43,-4000,2414438,0%,"-$249,700",-1.0,2.0,2.0,42.0,CERN
+893,,2005-05-11 18:11:53,2005-05-09,CERN,Illig Clifford W,Vice COB,S - Sale,$62.18,-4000,2418438,0%,"-$248,720",0.0,0.0,2.0,41.0,CERN
+894,,2005-05-10 17:57:49,2005-05-06,CERN,Illig Clifford W,Vice COB,S - Sale,$63.02,-1000,2422438,0%,"-$63,020",0.0,-1.0,0.0,41.0,CERN
+895,,2005-05-10 17:44:55,2005-05-06,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$61.81,-12500,2946990,0%,"-$772,664",0.0,-1.0,0.0,41.0,CERN
+896,M,2005-05-09 17:04:33,2005-05-04,CERN,Illig Clifford W,Vice COB,S - Sale,$61.31,-14000,2423438,-1%,"-$858,320",0.0,-1.0,1.0,43.0,CERN
+897,,2005-05-09 16:57:19,2005-05-05,CERN,Devanny Earl H III,Pres,S - Sale,$62.00,-10000,3395,-75%,"-$620,000",0.0,-1.0,1.0,43.0,CERN
+898,,2005-05-09 16:57:19,2005-05-05,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,10000,3395,-75%,"$155,000",0.0,-1.0,1.0,43.0,CERN
+899,,2005-05-06 13:10:44,2005-05-04,CERN,Herman Michael E,Dir,S - Sale,$60.15,-6900,20000,-26%,"-$415,035",-2.0,-1.0,1.0,38.0,CERN
+900,,2005-03-16 16:46:51,2005-03-14,CERN,Illig Clifford W,Vice COB,S - Sale,$51.21,-9000,2437438,0%,"-$460,889",1.0,4.0,13.0,68.0,CERN
+901,,2005-03-14 18:01:33,2005-03-10,CERN,Illig Clifford W,Vice COB,S - Sale,$51.05,-10000,2446438,0%,"-$510,500",-2.0,-3.0,12.0,62.0,CERN
+902,,2005-03-08 17:19:51,2005-03-04,CERN,Herman Michael E,Dir,S - Sale,$52.50,-16000,25600,-38%,"-$839,920",-1.0,0.0,10.0,52.0,CERN
+903,,2005-03-08 17:19:51,2005-03-04,CERN,Herman Michael E,Dir,X - OptEx,$18.88,16000,25600,-38%,"$302,000",-1.0,0.0,10.0,52.0,CERN
+904,,2005-03-04 18:41:38,2005-03-02,CERN,Devanny Earl H III,Pres,S - Sale,$53.00,-5000,3395,-60%,"-$265,000",-1.0,-3.0,-1.0,49.0,CERN
+905,,2005-03-04 18:41:38,2005-03-02,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,5000,3395,-60%,"$77,500",-1.0,-3.0,-1.0,49.0,CERN
+906,M,2005-02-25 16:50:24,2005-02-23,CERN,Illig Clifford W,Vice COB,S - Sale,$49.61,-9000,2456438,0%,"-$446,480",0.0,0.0,1.0,51.0,CERN
+907,M,2005-02-16 16:28:25,2005-02-14,CERN,Illig Clifford W,Vice COB,S - Sale,$52.02,-2000,2465438,0%,"-$104,043",-1.0,-4.0,-2.0,48.0,CERN
+908,,2005-02-15 19:44:33,2005-02-11,CERN,Goldsmith Jeff C,Dir,S - Sale,$50.97,-48000,9365,-84%,"-$2,446,734",-1.0,-6.0,-4.0,49.0,CERN
+909,,2005-02-15 19:44:33,2005-02-11,CERN,Goldsmith Jeff C,Dir,X - OptEx,$18.54,48000,9365,-84%,"$890,000",-1.0,-6.0,-4.0,49.0,CERN
+910,,2005-02-10 17:35:16,2005-02-08,CERN,Krebs Douglas M,"Pres, Cerner Global",S - Sale,$52.40,-22750,0,-100%,"-$1,192,045",1.0,2.0,0.0,55.0,CERN
+911,,2005-02-10 17:35:16,2005-02-08,CERN,Krebs Douglas M,"Pres, Cerner Global",X - OptEx,$19.10,22750,0,-100%,"$434,484",1.0,2.0,0.0,55.0,CERN
+912,,2004-12-16 18:50:05,2004-12-14,CERN,Devanny Earl H III,Pres,S - Sale,$52.75,-10000,3395,-75%,"-$527,500",-2.0,-2.0,-9.0,18.0,CERN
+913,,2004-12-16 18:50:05,2004-12-14,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,10000,3395,-75%,"$155,000",-2.0,-2.0,-9.0,18.0,CERN
+914,,2004-12-15 16:48:41,2004-12-13,CERN,Bisbee Gerald E Jr,Dir,S - Sale,$51.49,-10000,22400,-31%,"-$514,900",1.0,-1.0,-11.0,17.0,CERN
+915,,2004-12-09 16:43:09,2004-12-07,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$51.93,-15000,2959490,-1%,"-$778,913",-1.0,3.0,-5.0,23.0,CERN
+916,,2004-12-01 19:58:32,2004-11-29,CERN,Bisbee Gerald E Jr,Dir,S - Sale,$52.90,-10000,32400,-24%,"-$528,990",-1.0,-3.0,0.0,23.0,CERN
+917,,2004-11-24 15:39:58,2004-11-22,CERN,Devanny Earl H III,Pres,S - Sale,$51.90,-10000,3395,-75%,"-$519,000",-1.0,-1.0,-1.0,20.0,CERN
+918,,2004-11-24 15:39:58,2004-11-22,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,10000,3395,-75%,"$155,000",-1.0,-1.0,-1.0,20.0,CERN
+919,,2004-11-10 13:50:45,2004-11-08,CERN,Devanny Earl H III,Pres,S - Sale,$47.08,-6000,3395,-64%,"-$282,480",0.0,7.0,8.0,31.0,CERN
+920,,2004-11-10 13:50:45,2004-11-08,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,6000,3395,-64%,"$93,000",0.0,7.0,8.0,31.0,CERN
+921,,2004-10-27 10:36:23,2004-10-25,CERN,Black Paul M,"EVP, US Client Organizatio",S - Sale,$44.05,-50,24194,0%,"-$2,203",2.0,1.0,18.0,31.0,CERN
+922,,2004-10-25 16:51:14,2004-10-25,CERN,Black Paul M,"EVP, US Client Organizatio",S - Sale,$44.13,-60005,24244,-71%,"-$2,648,243",1.0,1.0,17.0,35.0,CERN
+923,,2004-10-25 16:51:14,2004-10-25,CERN,Black Paul M,"EVP, US Client Organizatio",X - OptEx,$23.62,60005,24244,-71%,"$1,417,440",1.0,1.0,17.0,35.0,CERN
+924,,2004-09-16 18:01:10,2004-09-14,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",S - Sale,$45.40,-5000,7133,-41%,"-$227,000",-2.0,-4.0,0.0,10.0,CERN
+925,,2004-09-16 18:01:10,2004-09-14,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",X - OptEx,$21.49,5000,7133,-41%,"$107,457",-2.0,-4.0,0.0,10.0,CERN
+926,,2004-09-16 17:58:35,2004-09-14,CERN,Devanny Earl H III,Pres,S - Sale,$46.00,-5000,3395,-60%,"-$230,000",-2.0,-4.0,0.0,10.0,CERN
+927,,2004-09-16 17:58:35,2004-09-14,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,5000,3395,-60%,"$77,500",-2.0,-4.0,0.0,10.0,CERN
+928,,2004-09-02 12:20:58,2004-08-31,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$44.11,-24576,5196,-83%,"-$1,084,000",1.0,1.0,2.0,19.0,CERN
+929,,2004-08-30 16:19:59,2004-08-26,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",S - Sale,$46.31,-1500,7133,-17%,"-$69,462",-1.0,-1.0,-4.0,17.0,CERN
+930,,2004-08-30 16:19:59,2004-08-26,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",X - OptEx,$26.00,1500,7133,-17%,"$39,000",-1.0,-1.0,-4.0,17.0,CERN
+931,,2004-08-25 16:39:22,2004-08-23,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$46.25,-2500,2974490,0%,"-$115,625",-1.0,-5.0,-5.0,7.0,CERN
+932,,2004-08-24 16:55:30,2004-08-20,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$46.00,-2500,2976990,0%,"-$115,000",-1.0,-5.0,-5.0,7.0,CERN
+933,,2004-08-24 16:09:06,2004-08-20,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",S - Sale,$45.74,-1500,7133,-17%,"-$68,611",-1.0,-5.0,-5.0,7.0,CERN
+934,,2004-08-24 16:09:06,2004-08-20,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",X - OptEx,$26.00,1500,7133,-17%,"$39,000",-1.0,-5.0,-5.0,7.0,CERN
+935,,2004-08-19 17:28:56,2004-08-17,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$44.92,-5000,29772,-14%,"-$224,582",1.0,1.0,-2.0,13.0,CERN
+936,,2004-08-19 17:26:39,2004-08-17,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$44.92,-5000,29772,-14%,"-$224,582",1.0,1.0,-2.0,13.0,CERN
+937,,2004-08-18 11:58:23,2004-08-13,CERN,Townsend Jeffrey A,"SVP, Chief of Staff",S - Sale,$43.16,-1200,0,-100%,"-$51,792",2.0,4.0,3.0,18.0,CERN
+938,,2004-08-17 20:38:31,2004-08-13,CERN,Flanigan Jr Richard J,"Pres, Cerner N. Atlantic",S - Sale,$43.11,-15500,0,-100%,"-$668,155",2.0,3.0,2.0,17.0,CERN
+939,,2004-08-17 20:38:31,2004-08-13,CERN,Flanigan Jr Richard J,"Pres, Cerner N. Atlantic",X - OptEx,$18.88,15500,0,-100%,"$292,563",2.0,3.0,2.0,17.0,CERN
+940,A,2004-08-09 19:49:38,2004-08-04,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$46.94,-9400,35476,-21%,"-$441,203",1.0,-1.0,0.0,19.0,CERN
+941,AM,2004-08-09 19:47:34,2004-07-30,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$45.35,-10600,44876,-19%,"-$480,714",1.0,-1.0,0.0,19.0,CERN
+942,,2004-08-09 14:26:00,2004-08-05,CERN,Burke Zane M,"President, Cerner West",S - Sale,$45.85,-1048,0,-100%,"-$48,051",-2.0,-3.0,-2.0,17.0,CERN
+943,,2004-08-06 14:36:28,2004-08-04,CERN,Devanny Earl H III,Pres,S - Sale,$47.06,-9900,3395,-74%,"-$465,863",-2.0,-5.0,-4.0,10.0,CERN
+944,,2004-08-06 14:36:28,2004-08-04,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,9900,3395,-74%,"$153,450",-2.0,-5.0,-4.0,10.0,CERN
+945,,2004-08-06 14:19:11,2004-08-04,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$46.94,-9604,34772,-22%,"-$450,780",-2.0,-5.0,-4.0,10.0,CERN
+946,M,2004-08-06 14:09:21,2004-07-30,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$45.35,-11100,44376,-20%,"-$503,371",-2.0,-5.0,-4.0,10.0,CERN
+947,M,2004-08-04 16:55:38,2004-07-30,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale,$45.58,-15000,2996752,0%,"-$683,700",-3.0,-5.0,-7.0,7.0,CERN
+948,,2004-08-03 14:24:16,2004-07-30,CERN,Devanny Earl H III,Pres,S - Sale,$45.48,-4100,3395,-55%,"-$186,468",0.0,-3.0,-4.0,9.0,CERN
+949,,2004-08-03 14:24:16,2004-07-30,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,4100,3395,-55%,"$63,550",0.0,-3.0,-4.0,9.0,CERN
+950,,2004-07-21 18:32:47,2004-07-19,CERN,Patterson Neal L,"COB, CEO, 10%",X - OptEx,$29.24,90000,3011752,-3%,"$2,631,875",3.0,4.0,4.0,12.0,CERN
+951,,2004-06-17 18:52:55,2004-06-15,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",G - Gift,$44.10,-300,7133,-4%,"-$13,230",0.0,2.0,-2.0,20.0,CERN
+952,,2004-06-16 11:24:13,2004-06-14,CERN,Black Paul M,"EVP, US Client Organizatio",X - OptEx,$12.56,4000,24244,-14%,"$50,240",0.0,3.0,-1.0,18.0,CERN
+953,,2004-06-14 13:06:57,2004-06-10,CERN,Danforth John C,Dir,S - Sale,$43.10,-33310,32990,-50%,"-$1,435,661",-1.0,3.0,2.0,20.0,CERN
+954,,2004-06-14 13:06:57,2004-06-10,CERN,Danforth John C,Dir,X - OptEx,$25.60,56000,32990,-63%,"$1,433,520",-1.0,3.0,2.0,20.0,CERN
+955,D,2004-06-07 18:54:53,2004-06-03,CERN,Patterson Neal L,"COB, CEO, 10%",S - Sale+OE,$42.24,-10000,2921752,0%,"-$422,400",0.0,0.0,-2.0,21.0,CERN
+956,,2004-03-16 18:55:15,2004-03-12,CERN,Illig Clifford W,Vice COB,G - Gift,$0.00,-2275,2467438,0%,-$0,2.0,1.0,7.0,7.0,CERN
+957,,2004-03-16 18:55:15,2004-03-12,CERN,Illig Clifford W,Vice COB,S - Sale,$44.94,-12200,2467438,0%,"-$548,262",2.0,1.0,7.0,7.0,CERN
+958,,2004-03-04 17:26:42,2004-03-02,CERN,Burke Zane M,"President, Cerner West",S - Sale,$47.58,-2000,1048,-66%,"-$95,160",2.0,-3.0,-5.0,-6.0,CERN
+959,,2004-03-04 17:26:42,2004-03-02,CERN,Burke Zane M,"President, Cerner West",X - OptEx,$19.24,2000,1048,-66%,"$38,484",2.0,-3.0,-5.0,-6.0,CERN
+960,,2004-03-04 17:17:17,2004-03-03,CERN,Krebs Douglas M,"Pres, Cerner Global",S - Sale,$47.38,-20000,0,-100%,"-$947,626",2.0,-3.0,-5.0,-6.0,CERN
+961,,2004-03-04 17:17:17,2004-03-03,CERN,Krebs Douglas M,"Pres, Cerner Global",X - OptEx,$14.39,20000,0,-100%,"$287,813",2.0,-3.0,-5.0,-6.0,CERN
+962,,2004-03-02 15:57:57,2004-03-01,CERN,Illig Clifford W,Vice COB,S - Sale,$45.90,-25000,2491913,-1%,"-$1,147,500",2.0,0.0,-2.0,-5.0,CERN
+963,M,2004-03-02 15:54:30,2004-02-26,CERN,Patterson Neal L,"COB, CEO",S - Sale,$44.87,-15000,2936752,-1%,"-$673,000",2.0,0.0,-2.0,-5.0,CERN
+964,,2004-02-25 15:14:24,2004-02-19,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",S - Sale,$44.45,-1154,1794,-39%,"-$51,295",2.0,9.0,-1.0,7.0,CERN
+965,,2004-02-17 10:26:19,2004-02-13,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",S - Sale,$44.00,-6300,7433,-46%,"-$277,200",2.0,-2.0,-3.0,1.0,CERN
+966,,2004-02-17 10:26:19,2004-02-13,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",X - OptEx,$26.00,5000,7433,-40%,"$130,000",2.0,-2.0,-3.0,1.0,CERN
+967,,2004-02-17 10:19:36,2004-02-12,CERN,Illig Clifford W,Vice COB,S - Sale,$45.52,-10500,2516913,0%,"-$478,000",2.0,-2.0,-3.0,1.0,CERN
+968,,2004-02-11 13:10:26,2004-02-09,CERN,Devanny Earl H III,Pres,S - Sale,$46.58,-6000,3395,-64%,"-$279,460",1.0,-1.0,-1.0,-2.0,CERN
+969,,2004-02-11 13:10:26,2004-02-09,CERN,Devanny Earl H III,Pres,X - OptEx,$15.50,6000,3395,-64%,"$93,000",1.0,-1.0,-1.0,-2.0,CERN
+970,,2003-11-19 16:28:55,2003-11-18,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",S - Sale,$42.91,-850,8733,-9%,"-$36,471",0.0,7.0,-7.0,-3.0,CERN
+971,,2003-11-13 14:37:43,2003-11-12,CERN,Illig Clifford W,Vice COB,S - Sale,$43.19,-10000,2527413,0%,"-$431,851",-4.0,-7.0,-13.0,-7.0,CERN
+972,,2003-11-13 14:25:37,2003-11-11,CERN,Sword Stanley M,"Pres, Cerner Great Lakes",S - Sale,$41.91,-400,9583,-4%,"-$16,764",3.0,-7.0,-13.0,-7.0,CERN
+973,,2003-11-03 17:53:09,2003-11-03,CERN,Naughton Marc G,"SVP, CFO",S - Sale,$43.13,-4000,7284,-35%,"-$172,536",0.0,2.0,0.0,0.0,CERN
+974,,2003-11-03 17:53:09,2003-11-03,CERN,Naughton Marc G,"SVP, CFO",X - OptEx,$16.75,4000,7284,-35%,"$67,000",0.0,2.0,0.0,0.0,CERN
+975,,2003-10-31 11:18:33,2003-10-30,CERN,Illig Clifford W,Vice COB,G - Gift,$0.00,-2325,2537413,0%,-$0,1.0,3.0,7.0,1.0,CERN
+976,,2003-09-12 20:12:21,2003-09-10,CERN,Illig Clifford W,Vice COB,S - Sale,$36.17,-10000,2539738,0%,"-$361,650",0.0,7.0,0.0,30.0,CERN
+977,,2003-09-05 12:40:41,2003-09-03,CERN,Krebs Douglas M,"Pres, Cerner Global",S - Sale,$36.55,-4698,0,-100%,"-$171,712",0.0,-4.0,-2.0,32.0,CERN
+978,,2003-09-05 10:52:35,2003-08-28,CERN,Illig Clifford W,Vice COB,S - Sale,$35.05,-10000,2549738,0%,"-$350,500",0.0,-4.0,-2.0,32.0,CERN
+979,,2003-08-26 11:52:27,2003-08-22,CERN,Townsend Jeffrey A,"SVP, Chief Engineering Off",S - Sale,$34.28,-12000,1200,-91%,"-$411,360",-2.0,8.0,3.0,31.0,CERN
+980,,2003-08-26 11:52:27,2003-08-22,CERN,Townsend Jeffrey A,"SVP, Chief Engineering Off",X - OptEx,$15.00,12000,1200,-91%,"$180,000",-2.0,8.0,3.0,31.0,CERN
+981,,2003-08-18 21:43:37,2003-08-14,CERN,Illig Clifford W,Vice COB,S - Sale,$32.28,-10000,2559738,0%,"-$322,750",0.0,3.0,10.0,38.0,CERN
+982,,2003-07-31 16:51:28,2003-07-30,CERN,Illig Clifford W,Vice COB,S - Sale,$32.05,-5000,2569738,0%,"-$160,250",-2.0,-7.0,12.0,23.0,CERN
+983,,2003-07-29 12:24:44,2003-07-28,CERN,Illig Clifford W,Vice COB,S - Sale,$30.67,-15000,2574738,-1%,"-$460,000",1.0,0.0,8.0,29.0,CERN

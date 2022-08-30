@@ -1,29 +1,462 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2021-03-15 16:59:22,2021-03-12,SANW,Callachor David Thomas,"EVP, International",S - Sale,3.7,-3500,32627,-10%,-12950.0,,,,,SANW
-1,M,2020-11-25 16:42:00,2020-11-13,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,2.35,73294,16050785,0%,172342.0,,,,,SANW
-2,,2020-06-18 17:08:34,2020-06-16,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.3,25000,4493198,+1%,57375.0,,,,,SANW
-3,,2020-06-12 16:17:22,2020-06-10,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.25,23648,4468198,+1%,53208.0,,,,,SANW
-4,,2020-06-05 11:58:41,2020-06-03,SANW,Willits Alan D,Dir,P - Purchase,2.25,10000,64409,+18%,22500.0,,,,,SANW
-5,,2020-05-27 13:57:03,2020-05-26,SANW,Willits Alan D,Dir,P - Purchase,2.3,5801,54409,+12%,13342.0,,,,,SANW
-6,,2020-05-22 16:15:18,2020-05-20,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.0,52656,4444550,+1%,105117.0,,,,,SANW
-7,M,2020-05-21 06:02:54,2020-05-18,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,1.94,120184,4391894,+3%,233597.0,,,,,SANW
-8,,2020-05-20 16:57:36,2020-05-20,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",P - Purchase,2.04,1000,119369,+1%,2040.0,,,,,SANW
-9,,2020-03-24 12:25:00,2020-03-20,SANW,Willits Alan D,Dir,P - Purchase,1.99,900,48608,+2%,1792.0,,,,,SANW
-10,,2020-03-20 17:38:55,2020-03-19,SANW,Willits Alan D,Dir,P - Purchase,2.08,583,47708,+1%,1212.0,,,,,SANW
-11,,2020-03-18 16:02:23,2020-03-18,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",P - Purchase,1.8,2000,118388,+2%,3594.0,,,,,SANW
-12,AM,2020-03-18 16:00:17,2020-03-16,SANW,Straus Robert D,Dir,P - Purchase,2.04,15000,61977,+32%,30585.0,,,,,SANW
-13,M,2020-03-18 12:37:43,2020-03-16,SANW,Straus Robert D,Dir,P - Purchase,2.04,15000,61977,+32%,30585.0,,,,,SANW
-14,,2020-03-17 16:25:45,2020-03-13,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.25,18191,4271710,0%,40844.0,,,,,SANW
-15,,2020-03-11 16:55:07,2020-03-09,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,2.5,9106,15977491,0%,22765.0,,,,,SANW
-16,,2020-03-03 16:44:50,2020-02-28,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,2.6,1083,15968385,0%,2816.0,,,,,SANW
-17,M,2020-03-02 17:13:19,2020-02-27,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.74,23002,4261710,+1%,62916.0,,,,,SANW
-18,,2020-02-26 17:24:24,2020-02-24,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.97,16400,4238708,0%,48708.0,,,,,SANW
-19,M,2020-02-24 16:46:56,2020-02-20,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,2.5,22285,15967302,0%,55661.0,,,,,SANW
-20,,2020-02-24 12:33:28,2020-02-20,SANW,Willits Alan D,Dir,P - Purchase,2.3,500,47125,+1%,1150.0,,,,,SANW
-21,D,2019-01-03 16:41:13,2019-01-02,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,1.84,-1100,75227,-1%,-2019.0,,,,,SANW
-22,D,2018-10-03 19:19:31,2018-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,2.46,-1100,74715,-1%,-2706.0,,,,,SANW
-23,D,2018-07-03 17:40:51,2018-07-02,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,3.15,-1100,75131,-1%,-3465.0,,,,,SANW
-24,,2018-06-18 09:44:31,2018-06-14,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,3.29,2270,7102300,0%,7468.0,,,,,SANW
-25,M,2018-06-07 16:29:56,2018-06-05,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,3.35,76544,7097171,+1%,256257.0,,,,,SANW
-26,M,2018-06-04 16:32:34,2018-05-29,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,3.41,74288,7020627,+1%,253307.0,,,,,SANW
-27,,2018-05-14 09:33:33,2018-05-11,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,3.49,132000,6946339,+2%,460680.0,,,,,SANW
+0,,2022-03-16 15:15:55,2022-03-16,SANW,Mfp Partners LP,"See remarks below, 10%",A - Grant,1.82,5500,17448226,0%,10010.0,,,,,SANW
+1,,2022-01-04 16:33:14,2022-01-01,SANW,Panter Donald M. Jr.,"EVP, Americas",F - Tax,2.73,-1415,57005,-2%,-3863.0,,,,,SANW
+2,,2022-01-04 16:32:14,2022-01-01,SANW,Wong Mark,"CEO, Pres",F - Tax,2.73,-5374,273007,-2%,-14671.0,,,,,SANW
+3,,2021-12-17 16:48:04,2021-12-15,SANW,Willits Alan D,Dir,A - Grant,0.0,22799,478034,+5%,0.0,,,,,SANW
+4,,2021-12-17 16:46:35,2021-12-15,SANW,Seidler Charles B,Dir,A - Grant,0.0,22799,187646,+14%,0.0,,,,,SANW
+5,,2021-12-17 16:44:30,2021-12-15,SANW,Straus Robert D,Dir,A - Grant,0.0,22006,132657,+20%,0.0,,,,,SANW
+6,,2021-12-17 16:43:30,2021-12-15,SANW,Matina Alexander C,Dir,A - Grant,0.0,25704,115677,+29%,0.0,,,,,SANW
+7,,2021-12-17 16:41:57,2021-12-15,SANW,Madere Consuelo E.,Dir,A - Grant,0.0,22006,92471,+31%,0.0,,,,,SANW
+8,,2021-12-17 16:41:03,2021-12-15,SANW,Harvey Mark James,COB,A - Grant,0.0,1320,27305,+5%,0.0,,,,,SANW
+9,,2021-12-17 16:40:04,2021-12-15,SANW,Fischhoff David A,Dir,A - Grant,0.0,22799,101957,+29%,0.0,,,,,SANW
+10,D,2021-11-17 16:42:24,2021-11-15,SANW,Horton Elizabeth,CFO,A - Grant,0.0,7553,4841,-279%,0.0,,,,,SANW
+11,D,2021-11-17 16:42:24,2021-11-15,SANW,Horton Elizabeth,CFO,F - Tax,3.31,-2712,4841,-36%,-8977.0,,,,,SANW
+12,,2021-10-25 20:13:58,2021-10-21,SANW,Panter Donald M. Jr.,"EVP, Americas",A - Grant,0.0,22005,58420,+60%,0.0,,,,,SANW
+13,,2021-10-25 20:13:58,2021-10-21,SANW,Panter Donald M. Jr.,"EVP, Americas",F - Tax,2.73,-6359,58420,-10%,-17360.0,,,,,SANW
+14,,2021-10-19 08:57:22,2021-10-15,SANW,Straus Robert D,Dir,A - Grant,2.73,25000,110651,+29%,68250.0,,,,,SANW
+15,,2021-10-19 08:55:59,2021-10-15,SANW,Seidler Charles B,Dir,A - Grant,2.73,27472,166272,+20%,74999.0,,,,,SANW
+16,,2021-10-19 08:54:31,2021-10-15,SANW,Wong Mark,"CEO, Pres",A - Grant,2.73,36630,315011,+13%,100000.0,,,,,SANW
+17,,2021-10-19 08:52:53,2021-10-15,SANW,Willits Alan D,Dir,A - Grant,2.73,366300,455235,+412%,999999.0,,,,,SANW
+18,,2021-10-18 17:27:03,2021-10-15,SANW,Mfp Partners LP,"See remarks below, 10%",A - Grant,2.73,1391941,17442726,+9%,3799999.0,,,,,SANW
+19,D,2021-10-07 17:45:52,2021-10-05,SANW,Callachor David Thomas,"EVP, International",A - Grant,0.0,7330,39957,+22%,0.0,,,,,SANW
+20,D,2021-10-07 17:43:16,2021-10-05,SANW,Wong Mark,"CEO, Pres",A - Grant,0.0,27364,278381,+11%,0.0,,,,,SANW
+21,D,2021-10-07 17:41:08,2021-10-05,SANW,Panter Donald M. Jr.,"EVP, Americas",A - Grant,0.0,9102,42774,+27%,0.0,,,,,SANW
+22,D,2021-10-07 17:39:18,2021-10-05,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",A - Grant,0.0,7490,138140,+6%,0.0,,,,,SANW
+23,,2021-10-04 17:04:37,2021-10-01,SANW,Wong Mark,"CEO, Pres",F - Tax,2.56,-3881,251017,-2%,-9935.0,,,,,SANW
+24,,2021-10-04 17:03:01,2021-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,2.56,-1496,130650,-1%,-3830.0,,,,,SANW
+25,,2021-10-04 17:01:09,2021-10-01,SANW,Panter Donald M. Jr.,"EVP, Americas",F - Tax,2.56,-976,33672,-3%,-2499.0,,,,,SANW
+26,D,2021-07-06 16:29:56,2021-07-01,SANW,Wong Mark,"CEO, Pres",F - Tax,3.63,-4785,254898,-2%,-17370.0,,,,,SANW
+27,D,2021-07-06 16:29:56,2021-07-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,0.0,3125,254898,+1%,0.0,,,,,SANW
+28,,2021-07-06 16:27:59,2021-07-01,SANW,Panter Donald M. Jr.,"EVP, Americas",F - Tax,3.63,-945,34648,-3%,-3430.0,,,,,SANW
+29,D,2021-07-06 16:24:14,2021-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,3.63,-1841,132146,-1%,-6683.0,,,,,SANW
+30,D,2021-07-06 16:24:14,2021-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,1040,132146,+1%,0.0,,,,,SANW
+31,D,2021-04-05 16:58:14,2021-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,3.72,-2205,132947,-2%,-8203.0,,,,,SANW
+32,D,2021-04-05 16:58:14,2021-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,3.72,1039,132947,+1%,3865.0,,,,,SANW
+33,D,2021-04-05 16:56:52,2021-04-01,SANW,Wong Mark,"CEO, Pres",F - Tax,3.72,-4757,256558,-2%,-17696.0,,,,,SANW
+34,D,2021-04-05 16:56:52,2021-04-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,3.72,3125,256558,+1%,11625.0,,,,,SANW
+35,,2021-04-05 16:51:43,2021-04-01,SANW,Panter Donald M. Jr.,"EVP, Americas",F - Tax,3.72,-1155,35593,-3%,-4297.0,,,,,SANW
+36,,2021-03-15 16:59:22,2021-03-12,SANW,Callachor David Thomas,"EVP, International",S - Sale,3.7,-3500,32627,-10%,-12950.0,,,,,SANW
+37,,2021-01-05 16:12:20,2021-01-01,SANW,Panter Donald M. Jr.,"EVP, Americas",F - Tax,2.93,-1158,36748,-3%,-3393.0,,,,,SANW
+38,D,2021-01-05 16:10:45,2021-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,2.93,-2204,134113,-2%,-6458.0,,,,,SANW
+39,D,2021-01-05 16:10:45,2021-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,2.93,1039,134113,+1%,3044.0,,,,,SANW
+40,D,2021-01-05 16:09:03,2021-01-01,SANW,Wong Mark,"CEO, Pres",F - Tax,2.93,-5675,258190,-2%,-16628.0,,,,,SANW
+41,D,2021-01-05 16:09:03,2021-01-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,2.93,3125,258190,+1%,9156.0,,,,,SANW
+42,,2020-12-28 21:26:36,2020-12-23,SANW,Straus Robert D,Dir,A - Grant,0.0,23674,85651,+38%,0.0,,,,,SANW
+43,,2020-12-28 17:58:27,2020-12-23,SANW,Matina Alexander C,Dir,A - Grant,0.0,27651,89973,+44%,0.0,,,,,SANW
+44,,2020-12-28 17:41:19,2020-12-23,SANW,Seidler Charles B,Dir,A - Grant,0.0,24526,138800,+21%,0.0,,,,,SANW
+45,,2020-12-28 17:40:11,2020-12-23,SANW,Fischhoff David A,Dir,A - Grant,0.0,24526,79158,+45%,0.0,,,,,SANW
+46,,2020-12-28 17:38:42,2020-12-23,SANW,Harvey Mark James,COB,A - Grant,0.0,1420,25985,+6%,0.0,,,,,SANW
+47,,2020-12-28 17:37:08,2020-12-23,SANW,Madere Consuelo E.,Dir,A - Grant,0.0,23674,70465,+51%,0.0,,,,,SANW
+48,,2020-12-28 17:30:42,2020-12-23,SANW,Willits Alan D,Dir,A - Grant,0.0,24526,88935,+38%,0.0,,,,,SANW
+49,M,2020-11-25 16:42:00,2020-11-13,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,2.35,73294,16050785,0%,172342.0,,,,,SANW
+50,D,2020-10-05 18:08:05,2020-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",A - Grant,0.0,15919,135278,+13%,0.0,,,,,SANW
+51,D,2020-10-05 18:08:05,2020-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,2.41,-1397,135278,-1%,-3367.0,,,,,SANW
+52,D,2020-10-05 18:08:05,2020-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,1039,135278,+1%,0.0,,,,,SANW
+53,D,2020-10-05 18:06:06,2020-10-01,SANW,Wong Mark,"CEO, Pres",A - Grant,0.0,54896,260740,+27%,0.0,,,,,SANW
+54,D,2020-10-05 18:06:06,2020-10-01,SANW,Wong Mark,"CEO, Pres",F - Tax,2.41,-3472,260740,-1%,-8368.0,,,,,SANW
+55,D,2020-10-05 18:06:06,2020-10-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,0.0,3125,260740,+1%,0.0,,,,,SANW
+56,D,2020-10-05 18:04:41,2020-10-01,SANW,Panter Donald M. Jr.,"EVP, Americas",A - Grant,0.0,15684,37906,+71%,0.0,,,,,SANW
+57,D,2020-10-05 18:04:41,2020-10-01,SANW,Panter Donald M. Jr.,"EVP, Americas",F - Tax,2.41,-600,37906,-2%,-1446.0,,,,,SANW
+58,D,2020-10-05 18:03:35,2020-10-01,SANW,Callachor David Thomas,"EVP, International",A - Grant,0.0,13817,36127,+62%,0.0,,,,,SANW
+59,D,2020-07-06 17:55:12,2020-07-01,SANW,Wong Mark,"CEO, Pres",F - Tax,2.36,-3472,206191,-2%,-8194.0,,,,,SANW
+60,D,2020-07-06 17:55:12,2020-07-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,0.0,3125,206191,+2%,0.0,,,,,SANW
+61,D,2020-07-06 17:49:04,2020-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,2.36,-1701,119717,-1%,-4014.0,,,,,SANW
+62,D,2020-07-06 17:49:04,2020-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,2049,119717,+2%,0.0,,,,,SANW
+63,,2020-07-06 17:14:25,2020-07-01,SANW,Panter Donald M. Jr.,"EVP, Americas",F - Tax,2.36,-581,22822,-2%,-1371.0,,,,,SANW
+64,,2020-06-18 17:08:34,2020-06-16,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.3,25000,4493198,+1%,57375.0,,,,,SANW
+65,,2020-06-12 16:17:22,2020-06-10,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.25,23648,4468198,+1%,53208.0,,,,,SANW
+66,,2020-06-05 11:58:41,2020-06-03,SANW,Willits Alan D,Dir,P - Purchase,2.25,10000,64409,+18%,22500.0,,,,,SANW
+67,,2020-05-27 13:57:03,2020-05-26,SANW,Willits Alan D,Dir,P - Purchase,2.3,5801,54409,+12%,13342.0,,,,,SANW
+68,,2020-05-22 16:15:18,2020-05-20,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.0,52656,4444550,+1%,105117.0,,,,,SANW
+69,M,2020-05-21 06:02:54,2020-05-18,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,1.94,120184,4391894,+3%,233597.0,,,,,SANW
+70,,2020-05-20 16:57:36,2020-05-20,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",P - Purchase,2.04,1000,119369,+1%,2040.0,,,,,SANW
+71,,2020-04-03 17:03:07,2020-04-01,SANW,Panter Donald M. Jr.,"EVP, Americas",F - Tax,1.92,-709,23403,-3%,-1361.0,,,,,SANW
+72,D,2020-04-03 17:01:45,2020-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,1.92,-2063,118369,-2%,-3961.0,,,,,SANW
+73,D,2020-04-03 17:01:45,2020-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,2044,118369,+2%,0.0,,,,,SANW
+74,D,2020-04-03 17:00:31,2020-04-01,SANW,Wong Mark,"CEO, Pres",F - Tax,1.92,-3365,206538,-2%,-6461.0,,,,,SANW
+75,D,2020-04-03 17:00:31,2020-04-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,0.0,3125,206538,+2%,0.0,,,,,SANW
+76,A,2020-03-27 15:02:17,2020-02-04,SANW,Harvey Mark James,COB,A - Grant,0.0,1736,24565,+8%,0.0,,,,,SANW
+77,,2020-03-24 12:25:00,2020-03-20,SANW,Willits Alan D,Dir,P - Purchase,1.99,900,48608,+2%,1792.0,,,,,SANW
+78,,2020-03-20 17:38:55,2020-03-19,SANW,Willits Alan D,Dir,P - Purchase,2.08,583,47708,+1%,1212.0,,,,,SANW
+79,,2020-03-18 16:02:23,2020-03-18,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",P - Purchase,1.8,2000,118388,+2%,3594.0,,,,,SANW
+80,AM,2020-03-18 16:00:17,2020-03-16,SANW,Straus Robert D,Dir,P - Purchase,2.04,15000,61977,+32%,30585.0,,,,,SANW
+81,M,2020-03-18 12:37:43,2020-03-16,SANW,Straus Robert D,Dir,P - Purchase,2.04,15000,61977,+32%,30585.0,,,,,SANW
+82,,2020-03-17 16:25:45,2020-03-13,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.25,18191,4271710,0%,40844.0,,,,,SANW
+83,,2020-03-11 16:55:07,2020-03-09,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,2.5,9106,15977491,0%,22765.0,,,,,SANW
+84,,2020-03-03 16:44:50,2020-02-28,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,2.6,1083,15968385,0%,2816.0,,,,,SANW
+85,M,2020-03-02 17:13:19,2020-02-27,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.74,23002,4261710,+1%,62916.0,,,,,SANW
+86,,2020-02-26 17:24:24,2020-02-24,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,2.97,16400,4238708,0%,48708.0,,,,,SANW
+87,M,2020-02-24 16:46:56,2020-02-20,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,2.5,22285,15967302,0%,55661.0,,,,,SANW
+88,,2020-02-24 12:33:28,2020-02-20,SANW,Willits Alan D,Dir,P - Purchase,2.3,500,47125,+1%,1150.0,,,,,SANW
+89,,2020-02-06 19:44:04,2020-02-04,SANW,Harvey Mark James,COB,A - Grant,0.0,27199,262124,+12%,0.0,,,,,SANW
+90,,2020-02-06 17:35:40,2020-02-04,SANW,Willits Alan D,Dir,A - Grant,0.0,29977,46625,+180%,0.0,,,,,SANW
+91,,2020-02-06 17:33:53,2020-02-04,SANW,Straus Robert D,Dir,A - Grant,0.0,28935,46977,+160%,0.0,,,,,SANW
+92,,2020-02-06 17:31:17,2020-02-04,SANW,Seidler Charles B,Dir,A - Grant,0.0,29977,114274,+36%,0.0,,,,,SANW
+93,,2020-02-06 17:30:17,2020-02-04,SANW,Matina Alexander C,Dir,A - Grant,0.0,33796,62322,+118%,0.0,,,,,SANW
+94,,2020-02-06 17:28:33,2020-02-04,SANW,Madere Consuelo E.,Dir,A - Grant,0.0,28935,46791,+162%,0.0,,,,,SANW
+95,,2020-02-06 17:25:29,2020-02-04,SANW,Fischhoff David A,Dir,A - Grant,0.0,29977,54632,+122%,0.0,,,,,SANW
+96,D,2020-01-03 15:45:37,2020-01-01,SANW,Wong Mark,"CEO, Pres",F - Tax,2.1,-4108,206778,-2%,-8627.0,,,,,SANW
+97,D,2020-01-03 15:45:37,2020-01-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,0.0,3125,206778,+2%,0.0,,,,,SANW
+98,D,2020-01-03 15:44:12,2020-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,2.1,-2062,116388,-2%,-4330.0,,,,,SANW
+99,D,2020-01-03 15:44:12,2020-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,2044,116388,+2%,0.0,,,,,SANW
+100,,2020-01-03 15:42:55,2020-01-01,SANW,Panter Donald M. Jr.,"EVP, Americas",F - Tax,2.1,-709,24112,-3%,-1489.0,,,,,SANW
+101,D,2019-10-16 17:21:16,2019-10-14,SANW,Wong Mark,"CEO, Pres",A - Grant,0.0,106253,207761,+105%,0.0,,,,,SANW
+102,D,2019-10-16 17:17:19,2019-10-14,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",A - Grant,0.0,35970,116406,+45%,0.0,,,,,SANW
+103,D,2019-10-16 17:13:58,2019-10-14,SANW,Panter Donald M. Jr.,"EVP, Americas",A - Grant,0.0,24821,24821,New,0.0,,,,,SANW
+104,D,2019-10-16 17:10:04,2019-10-14,SANW,Callachor David Thomas,"EVP, International",A - Grant,0.0,22310,22310,New,0.0,,,,,SANW
+105,D,2019-10-04 21:55:47,2019-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,2.39,-945,80436,-1%,-2259.0,,,,,SANW
+106,D,2019-10-04 21:55:47,2019-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,2732,80436,+4%,0.0,,,,,SANW
+107,D,2019-10-04 21:53:53,2019-10-01,SANW,Wong Mark,"CEO, Pres",F - Tax,2.39,-906,101508,-1%,-2165.0,,,,,SANW
+108,D,2019-10-04 21:53:53,2019-10-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,0.0,3125,101508,+3%,0.0,,,,,SANW
+109,D,2019-07-03 15:20:21,2019-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,2.67,-919,78647,-1%,-2454.0,,,,,SANW
+110,D,2019-07-03 15:20:21,2019-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,2728,78647,+4%,0.0,,,,,SANW
+111,D,2019-07-03 15:17:46,2019-07-01,SANW,Wong Mark,"CEO, Pres",F - Tax,2.67,-906,99289,-1%,-2419.0,,,,,SANW
+112,D,2019-07-03 15:17:46,2019-07-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,0.0,3125,99289,+3%,0.0,,,,,SANW
+113,D,2019-04-03 17:10:59,2019-04-01,SANW,Wong Mark,"CEO, Pres",F - Tax,2.68,-1072,97070,-1%,-2873.0,,,,,SANW
+114,D,2019-04-03 17:10:59,2019-04-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,0.0,3125,97070,+3%,0.0,,,,,SANW
+115,D,2019-04-03 17:04:49,2019-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,2.68,-1116,76838,-1%,-2991.0,,,,,SANW
+116,D,2019-04-03 17:04:49,2019-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,2727,76838,+4%,0.0,,,,,SANW
+117,D,2019-01-18 18:04:08,2019-01-16,SANW,Madere Consuelo E.,Dir,A - Grant,0.0,11986,17856,+204%,0.0,,,,,SANW
+118,D,2019-01-18 14:23:30,2019-01-16,SANW,Matina Alexander C,Dir,A - Grant,0.0,14384,28526,+102%,0.0,,,,,SANW
+119,D,2019-01-18 13:48:16,2019-01-16,SANW,Straus Robert D,Dir,A - Grant,0.0,11986,18042,+198%,0.0,,,,,SANW
+120,D,2019-01-18 13:36:00,2019-01-16,SANW,Willits Alan D,Dir,A - Grant,0.0,12500,16648,+301%,0.0,,,,,SANW
+121,D,2019-01-18 13:28:13,2019-01-16,SANW,Seidler Charles B,Dir,A - Grant,0.0,12500,84297,+17%,0.0,,,,,SANW
+122,D,2019-01-18 13:25:09,2019-01-16,SANW,Fischhoff David A,Dir,A - Grant,0.0,12500,24655,+103%,0.0,,,,,SANW
+123,D,2019-01-14 18:52:16,2019-01-10,SANW,Seidler Charles B,Dir,M - OptEx,0.0,7267,71797,+11%,0.0,,,,,SANW
+124,D,2019-01-14 18:31:45,2019-01-10,SANW,Straus Robert D,Dir,M - OptEx,0.0,6056,6056,New,0.0,,,,,SANW
+125,D,2019-01-14 17:53:34,2019-01-10,SANW,Willits Alan D,Dir,M - OptEx,0.0,4148,4148,New,0.0,,,,,SANW
+126,D,2019-01-14 17:35:52,2019-01-10,SANW,Wickersham Grover T.,Dir,M - OptEx,0.0,6801,247001,+3%,0.0,,,,,SANW
+127,D,2019-01-14 16:51:27,2019-01-10,SANW,Madere Consuelo E.,Dir,M - OptEx,0.0,5870,5870,New,0.0,,,,,SANW
+128,D,2019-01-14 16:41:44,2019-01-10,SANW,Matina Alexander C,Dir,M - OptEx,0.0,7826,14142,+124%,0.0,,,,,SANW
+129,D,2019-01-14 16:34:23,2019-01-10,SANW,Fischhoff David A,Dir,M - OptEx,0.0,6708,12155,+123%,0.0,,,,,SANW
+130,D,2019-01-03 16:52:11,2019-01-01,SANW,Wong Mark,"CEO, Pres",F - Tax,1.81,-1072,95017,-1%,-1940.0,,,,,SANW
+131,D,2019-01-03 16:52:11,2019-01-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,0.0,3125,95017,+3%,0.0,,,,,SANW
+132,D,2019-01-03 16:41:13,2019-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,1.81,-1116,75227,-1%,-2020.0,,,,,SANW
+133,D,2019-01-03 16:41:13,2019-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,2728,75227,+4%,0.0,,,,,SANW
+134,D,2019-01-03 16:41:13,2019-01-02,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,1.84,-1100,75227,-1%,-2019.0,,,,,SANW
+135,,2018-11-21 17:07:19,2018-11-20,SANW,Mfp Partners LP,"See remarks below, 10%",A - Grant,0.0,7235000,15945017,+83%,0.0,,,,,SANW
+136,,2018-11-21 17:07:19,2018-11-20,SANW,Mfp Partners LP,"See remarks below, 10%",F - Tax,0.0,-7235,15945017,0%,-0.0,,,,,SANW
+137,,2018-10-25 19:54:31,2018-10-23,SANW,Mfp Partners LP,"See remarks below, 10%",A - Grant,3.11,7235,7235,New,22501.0,,,,,SANW
+138,D,2018-10-10 17:53:39,2018-10-07,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",F - Tax,2.76,-288,4383,-6%,-795.0,,,,,SANW
+139,D,2018-10-10 17:53:39,2018-10-07,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",M - OptEx,0.0,832,4383,+23%,0.0,,,,,SANW
+140,D,2018-10-03 19:19:31,2018-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,2.69,-944,74715,-1%,-2539.0,,,,,SANW
+141,D,2018-10-03 19:19:31,2018-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,2728,74715,+4%,0.0,,,,,SANW
+142,D,2018-10-03 19:19:31,2018-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,2.46,-1100,74715,-1%,-2706.0,,,,,SANW
+143,D,2018-10-03 18:54:25,2018-10-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,757,247264,0%,0.0,,,,,SANW
+144,D,2018-10-03 18:33:10,2018-10-01,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",F - Tax,2.69,-325,3839,-8%,-874.0,,,,,SANW
+145,D,2018-10-03 18:33:10,2018-10-01,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",M - OptEx,0.0,939,3839,+32%,0.0,,,,,SANW
+146,D,2018-10-03 18:18:02,2018-10-01,SANW,Wong Mark,"CEO, Pres",F - Tax,2.69,-906,92964,-1%,-2437.0,,,,,SANW
+147,D,2018-10-03 18:18:02,2018-10-01,SANW,Wong Mark,"CEO, Pres",M - OptEx,0.0,3125,92964,+3%,0.0,,,,,SANW
+148,,2018-09-07 15:09:18,2018-09-05,SANW,Mfp Partners LP,"See remarks below, 10%",A - Grant,3.11,1607717,8710017,+23%,5000000.0,,,,,SANW
+149,D,2018-07-03 20:16:02,2018-07-01,SANW,Jury Dennis Charles,"EVP of Operations, COO",M - OptEx,0.0,1171,246505,0%,0.0,,,,,SANW
+150,D,2018-07-03 18:07:46,2018-07-01,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",F - Tax,3.25,-216,3225,-6%,-702.0,,,,,SANW
+151,D,2018-07-03 18:07:46,2018-07-01,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",M - OptEx,0.0,529,3225,+20%,0.0,,,,,SANW
+152,D,2018-07-03 17:53:31,2018-07-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,780,234925,0%,0.0,,,,,SANW
+153,D,2018-07-03 17:40:51,2018-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,3.25,-1221,75131,-2%,-3968.0,,,,,SANW
+154,D,2018-07-03 17:40:51,2018-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,3629,75131,+5%,0.0,,,,,SANW
+155,D,2018-07-03 17:40:51,2018-07-02,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,3.15,-1100,75131,-1%,-3465.0,,,,,SANW
+156,,2018-06-18 09:44:31,2018-06-14,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,3.29,2270,7102300,0%,7468.0,,,,,SANW
+157,M,2018-06-07 16:29:56,2018-06-05,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,3.35,76544,7097171,+1%,256257.0,,,,,SANW
+158,M,2018-06-04 16:32:34,2018-05-29,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,3.41,74288,7020627,+1%,253307.0,,,,,SANW
+159,,2018-05-14 09:33:33,2018-05-11,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,3.49,132000,6946339,+2%,460680.0,,,,,SANW
+160,D,2018-04-03 19:56:32,2018-04-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,1161,245334,0%,0.0,,,,,SANW
+161,D,2018-04-03 18:12:11,2018-04-01,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",F - Tax,3.5,-217,2912,-7%,-760.0,,,,,SANW
+162,D,2018-04-03 18:12:11,2018-04-01,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",M - OptEx,0.0,529,2912,+22%,0.0,,,,,SANW
+163,D,2018-04-03 18:01:12,2018-04-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,772,234045,0%,0.0,,,,,SANW
+164,D,2018-04-03 17:48:38,2018-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,3.6,-1480,73823,-2%,-5328.0,,,,,SANW
+165,D,2018-04-03 17:48:38,2018-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,3620,73823,+5%,0.0,,,,,SANW
+166,D,2018-04-03 17:48:38,2018-04-02,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,3.5,-1100,73823,-1%,-3850.0,,,,,SANW
+167,,2018-03-05 17:01:09,2018-03-02,SANW,Seidler Charles B,Dir,S - Sale,3.4,-100,63105,0%,-340.0,,,,,SANW
+168,,2018-01-16 16:08:08,2018-01-16,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale,4.0,-1100,71683,-2%,-4400.0,,,,,SANW
+169,D,2018-01-03 16:11:14,2018-01-01,SANW,Gardner Danielson B.,"Chief Marketing, Tech Offic",F - Tax,3.9,-233,2600,-8%,-909.0,,,,,SANW
+170,D,2018-01-03 16:11:14,2018-01-01,SANW,Gardner Danielson B.,"Chief Marketing, Tech Offic",M - OptEx,0.0,529,2600,+26%,0.0,,,,,SANW
+171,D,2018-01-03 15:56:29,2018-01-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,1161,244173,0%,0.0,,,,,SANW
+172,D,2018-01-03 15:23:35,2018-01-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,772,233373,0%,0.0,,,,,SANW
+173,D,2018-01-03 15:12:06,2018-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,3.9,-1589,72783,-2%,-6197.0,,,,,SANW
+174,D,2018-01-03 15:12:06,2018-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,3620,72783,+5%,0.0,,,,,SANW
+175,D,2017-12-27 17:16:53,2017-12-22,SANW,Wynnefield Partners Small Cap Value LP,10%,X - OptEx,3.5,214285,4222308,-5%,749998.0,,,,,SANW
+176,D,2017-12-26 17:11:50,2017-12-22,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,3.5,15000,243012,+7%,52500.0,,,,,SANW
+177,D,2017-12-26 17:05:12,2017-12-22,SANW,Harvey Mark James,COB,M - OptEx,3.5,8570,232601,+4%,29995.0,,,,,SANW
+178,D,2017-12-26 16:57:03,2017-12-22,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,3.5,6000,70752,+9%,21000.0,,,,,SANW
+179,D,2017-12-26 16:50:24,2017-12-22,SANW,Wong Mark,"Pres, CEO",M - OptEx,3.5,11174,90745,+14%,39109.0,,,,,SANW
+180,D,2017-12-22 16:32:21,2017-12-20,SANW,Wong Mark,"Pres, CEO",F - Tax,3.5,-2061,161203,-1%,-7214.0,,,,,SANW
+181,D,2017-12-22 16:32:21,2017-12-20,SANW,Wong Mark,"Pres, CEO",M - OptEx,0.0,6632,161203,+4%,0.0,,,,,SANW
+182,D,2017-12-22 16:20:44,2017-12-20,SANW,Bornt Glen D,Dir,M - OptEx,0.0,4737,159737,+3%,0.0,,,,,SANW
+183,D,2017-12-22 16:13:02,2017-12-20,SANW,Seidler Charles B,Dir,M - OptEx,0.0,5842,63205,+10%,0.0,,,,,SANW
+184,D,2017-12-22 16:03:15,2017-12-20,SANW,Wickersham Grover T.,Dir,M - OptEx,0.0,5763,190200,+3%,0.0,,,,,SANW
+185,D,2017-12-22 14:24:40,2017-12-22,SANW,Mfp Partners LP,"See remarks below, 10%",A - Grant,3.5,905077,6814299,+15%,3167770.0,,,,,SANW
+186,D,2017-12-22 14:24:40,2017-12-22,SANW,Mfp Partners LP,"See remarks below, 10%",M - OptEx,3.5,1401384,6814299,+26%,4904844.0,,,,,SANW
+187,D,2017-12-21 18:34:35,2017-12-20,SANW,Fischhoff David A,Dir,M - OptEx,0.0,5447,5447,New,0.0,,,,,SANW
+188,D,2017-12-21 18:22:51,2017-12-20,SANW,Matina Alexander C,Dir,M - OptEx,0.0,6316,6316,New,0.0,,,,,SANW
+189,D,2017-12-13 16:52:54,2017-12-11,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",F - Tax,3.2,-438,2304,-16%,-1402.0,,,,,SANW
+190,D,2017-12-13 16:52:54,2017-12-11,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",M - OptEx,0.0,1166,2304,+102%,0.0,,,,,SANW
+191,,2017-10-13 18:24:30,2017-10-13,SANW,Wong Mark,"Pres, CEO",A - Grant,3.5,75000,75000,New,262500.0,,,,,SANW
+192,D,2017-10-11 16:18:37,2017-10-07,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",F - Tax,3.35,-312,1576,-17%,-1045.0,,,,,SANW
+193,D,2017-10-11 16:18:37,2017-10-07,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",M - OptEx,0.0,831,1576,+112%,0.0,,,,,SANW
+194,D,2017-10-03 19:01:48,2017-10-01,SANW,Wickersham Grover T.,Dir,M - OptEx,0.0,4226,184437,+2%,0.0,,,,,SANW
+195,D,2017-10-03 18:50:53,2017-10-01,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",F - Tax,3.15,-199,1057,-16%,-627.0,,,,,SANW
+196,D,2017-10-03 18:50:53,2017-10-01,SANW,Gardner Danielson B.,"Chief Marketing, Tech Officer",M - OptEx,0.0,529,1057,+100%,0.0,,,,,SANW
+197,D,2017-10-03 18:40:34,2017-10-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,1161,228012,+1%,0.0,,,,,SANW
+198,D,2017-10-03 18:22:32,2017-10-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,772,224031,0%,0.0,,,,,SANW
+199,D,2017-10-03 18:10:40,2017-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,3.15,-3137,64752,-5%,-9882.0,,,,,SANW
+200,D,2017-10-03 18:10:40,2017-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,8346,64752,+15%,0.0,,,,,SANW
+201,D,2017-10-03 18:10:40,2017-10-02,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,3.11,-1100,64752,-2%,-3416.0,,,,,SANW
+202,,2017-08-17 20:33:11,2017-08-15,SANW,Mfp Partners LP,"See remarks below, 10%",P - Purchase,3.2,375000,4507838,+9%,1200000.0,,,,,SANW
+203,D,2017-08-07 20:44:37,2017-07-27,SANW,Grewal Mark S,"Former Pres., CEO & Director",F - Tax,4.05,-9551,121390,-7%,-38682.0,,,,,SANW
+204,D,2017-08-07 20:44:37,2017-07-27,SANW,Grewal Mark S,"Former Pres., CEO & Director",M - OptEx,0.0,25415,121390,+26%,0.0,,,,,SANW
+205,D,2017-08-07 20:44:37,2017-08-03,SANW,Grewal Mark S,"Former Pres., CEO & Director",S - Sale+OE,3.5,-29938,121390,-20%,-104807.0,,,,,SANW
+206,,2017-07-21 17:05:43,2017-07-19,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.0,750000,4008023,+23%,3000000.0,,,,,SANW
+207,,2017-07-21 09:43:03,2017-07-19,SANW,Mfp Partners LP,"See remarks below, 10%",A - Grant,4.0,935000,4132838,+29%,3740000.0,,,,,SANW
+208,,2017-07-06 19:49:45,2017-07-03,SANW,Grewal Mark S,"Former CEO, President & Dir.",S - Sale,4.05,-1181,135464,-1%,-4783.0,,,,,SANW
+209,D,2017-07-05 20:55:33,2017-07-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,909,226851,0%,0.0,,,,,SANW
+210,D,2017-07-05 20:41:09,2017-07-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,772,223259,0%,0.0,,,,,SANW
+211,D,2017-07-05 18:41:47,2017-07-01,SANW,Wickersham Grover T.,Dir,M - OptEx,0.0,4222,180211,+2%,0.0,,,,,SANW
+212,D,2017-07-05 18:30:36,2017-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,4.15,-2758,60643,-4%,-11446.0,,,,,SANW
+213,D,2017-07-05 18:30:36,2017-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,7337,60643,+14%,0.0,,,,,SANW
+214,D,2017-07-05 18:30:36,2017-07-03,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,4.05,-1100,60643,-2%,-4455.0,,,,,SANW
+215,,2017-06-23 16:35:43,2017-06-21,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.16,196900,1152777,+21%,819104.0,,,,,SANW
+216,M,2017-06-14 16:31:55,2017-06-12,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,3.96,343979,1405399,+32%,1363717.0,,,,,SANW
+217,M,2017-06-12 16:30:43,2017-06-08,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,3.99,136600,1233056,+12%,544366.0,,,,,SANW
+218,,2017-05-25 16:30:43,2017-05-23,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.05,157000,1164593,+16%,635850.0,,,,,SANW
+219,,2017-05-22 18:09:21,2017-05-19,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,4.11,24000,136645,+21%,98668.0,,,,,SANW
+220,,2017-05-17 20:28:13,2017-05-15,SANW,Jury Dennis Charles,"EVP Operations, COO",S - Sale,4.2,-1000,225942,0%,-4200.0,,,,,SANW
+221,M,2017-05-15 16:35:46,2017-05-11,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.2,37048,1086062,+4%,155491.0,,,,,SANW
+222,,2017-05-04 17:06:27,2017-05-03,SANW,Bornt Glen D,Dir,S - Sale,5.0,-12726,155000,-8%,-63630.0,0.0,-4.0,,,SANW
+223,,2017-05-02 18:54:34,2017-05-01,SANW,Jury Dennis Charles,"EVP Operations, COO",S - Sale,4.8,-1500,226942,-1%,-7200.0,4.0,3.0,,,SANW
+224,D,2017-04-04 21:12:03,2017-04-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,772,222487,0%,0.0,-3.0,-2.0,3.0,,SANW
+225,M,2017-04-04 20:58:58,2017-03-31,SANW,Bornt Glen D,Dir,S - Sale,5.0,-12274,167726,-7%,-61370.0,-3.0,-2.0,3.0,,SANW
+226,D,2017-04-04 20:44:18,2017-04-01,SANW,Wickersham Grover T.,Dir,M - OptEx,0.0,4222,175989,+2%,0.0,-3.0,-2.0,3.0,,SANW
+227,D,2017-04-04 20:30:13,2017-04-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,909,228442,0%,0.0,-3.0,-2.0,3.0,,SANW
+228,D,2017-04-04 20:30:13,2017-04-03,SANW,Jury Dennis Charles,"EVP Operations, COO",S - Sale+OE,4.97,-1500,228442,-1%,-7450.0,-3.0,-2.0,3.0,,SANW
+229,D,2017-04-04 19:56:44,2017-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,4.95,-3075,57164,-5%,-15221.0,-3.0,-2.0,3.0,,SANW
+230,D,2017-04-04 19:56:44,2017-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,7338,57164,+15%,0.0,-3.0,-2.0,3.0,,SANW
+231,D,2017-04-04 19:56:44,2017-04-03,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,4.97,-1100,57164,-2%,-5462.0,-3.0,-2.0,3.0,,SANW
+232,D,2017-04-04 19:26:35,2017-04-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,4.95,-2834,112645,-2%,-14028.0,-3.0,-2.0,3.0,,SANW
+233,D,2017-04-04 19:26:35,2017-04-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,7284,112645,+7%,0.0,-3.0,-2.0,3.0,,SANW
+234,D,2017-04-04 19:26:35,2017-04-03,SANW,Grewal Mark S,"Pres, CEO",S - Sale+OE,4.96,-1181,112645,-1%,-5854.0,-3.0,-2.0,3.0,,SANW
+235,,2017-03-30 16:12:21,2017-03-29,SANW,Jury Dennis Charles,"EVP Operations, COO",S - Sale,4.55,-900,229033,0%,-4095.0,2.0,-1.0,-1.0,,SANW
+236,,2017-03-29 17:04:50,2017-03-27,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.35,527,1067559,0%,2292.0,3.0,6.0,3.0,,SANW
+237,M,2017-03-24 16:32:43,2017-03-22,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.35,9733,1067295,+1%,42339.0,1.0,9.0,9.0,,SANW
+238,M,2017-03-10 16:30:35,2017-03-08,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.35,10566,1062418,+1%,45962.0,1.0,2.0,10.0,,SANW
+239,M,2017-03-08 16:32:35,2017-03-06,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.34,46186,1057126,+5%,200674.0,0.0,5.0,11.0,,SANW
+240,M,2017-03-06 16:30:54,2017-03-02,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.35,41293,1033987,+4%,179625.0,1.0,2.0,14.0,,SANW
+241,,2017-03-03 20:00:00,2017-03-01,SANW,Jury Dennis Charles,"EVP Operations, COO",S - Sale,4.55,-600,229933,0%,-2730.0,-2.0,-2.0,13.0,,SANW
+242,M,2017-02-24 16:30:17,2017-02-22,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.29,36822,1007307,+4%,157879.0,3.0,-1.0,1.0,,SANW
+243,,2017-02-21 16:32:40,2017-02-16,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.35,5496,988870,+1%,23908.0,-3.0,2.0,0.0,,SANW
+244,M,2017-02-16 16:30:57,2017-02-14,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.43,65074,986116,+7%,288517.0,3.0,0.0,3.0,,SANW
+245,,2017-02-15 19:33:16,2017-02-13,SANW,Jury Dennis Charles,"EVP Operations, COO",S - Sale,4.53,-1000,230533,0%,-4525.0,-2.0,-3.0,1.0,,SANW
+246,M,2017-02-14 16:47:17,2017-02-10,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.5,18427,953496,+2%,82922.0,1.0,1.0,2.0,,SANW
+247,,2017-02-08 16:33:29,2017-02-06,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.5,3255,944260,0%,14648.0,1.0,-4.0,-7.0,,SANW
+248,,2017-02-03 18:11:21,2017-02-01,SANW,Jury Dennis Charles,"EVP Operations, COO",S - Sale,4.55,-1500,231533,-1%,-6825.0,-2.0,0.0,-8.0,,SANW
+249,,2017-02-02 16:30:55,2017-01-31,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.5,12909,942630,+1%,58091.0,0.0,-1.0,-5.0,,SANW
+250,,2017-01-19 16:58:44,2017-01-17,SANW,Jury Dennis Charles,"EVP Operations, COO",S - Sale,4.75,-1500,233033,-1%,-7125.0,0.0,-3.0,-7.0,,SANW
+251,,2017-01-11 17:00:51,2017-01-11,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale,4.75,-1100,54001,-2%,-5225.0,0.0,3.0,-1.0,,SANW
+252,,2017-01-06 17:29:23,2017-01-06,SANW,Grewal Mark S,"Pres, CEO",S - Sale,4.75,-1181,109376,-1%,-5610.0,-4.0,-4.0,-7.0,,SANW
+253,D,2017-01-04 20:23:33,2017-01-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,909,234533,0%,0.0,1.0,1.0,-2.0,,SANW
+254,D,2017-01-04 19:28:38,2017-01-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,772,221715,0%,0.0,1.0,1.0,-2.0,,SANW
+255,D,2017-01-04 19:14:42,2017-01-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,694789,+1%,0.0,1.0,1.0,-2.0,,SANW
+256,D,2017-01-04 18:48:04,2017-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,4.6,-3212,55101,-6%,-14775.0,1.0,1.0,-2.0,,SANW
+257,D,2017-01-04 18:48:04,2017-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,7336,55101,+15%,0.0,1.0,1.0,-2.0,,SANW
+258,D,2017-01-04 17:49:20,2017-01-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,4.6,-3188,110557,-3%,-14665.0,1.0,1.0,-2.0,,SANW
+259,D,2017-01-04 17:49:20,2017-01-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,9101,110557,+9%,0.0,1.0,1.0,-2.0,,SANW
+260,M,2016-11-25 19:33:19,2016-11-22,SANW,Wickersham Grover T,Dir,S - Sale,4.82,-34397,690567,-5%,-165936.0,1.0,1.0,0.0,,SANW
+261,,2016-11-18 21:31:00,2016-11-17,SANW,Jury Dennis Charles,"EVP Operations, COO",S - Sale,4.75,-1000,233624,0%,-4750.0,0.0,-5.0,-5.0,,SANW
+262,D,2016-10-25 16:34:41,2016-10-24,SANW,Seidler Charles B,Dir,F - Tax,5.3,-7925,57363,-12%,-42003.0,-1.0,-4.0,-8.0,-8.0,SANW
+263,D,2016-10-25 16:34:41,2016-10-24,SANW,Seidler Charles B,Dir,M - OptEx,4.2,10000,57363,+21%,42000.0,-1.0,-4.0,-8.0,-8.0,SANW
+264,D,2016-10-25 16:24:52,2016-10-21,SANW,Wickersham Grover T,Dir,F - Tax,5.3,-19811,792427,-2%,-104998.0,-1.0,-4.0,-8.0,-8.0,SANW
+265,D,2016-10-25 16:24:52,2016-10-21,SANW,Wickersham Grover T,Dir,M - OptEx,4.2,25000,792427,+3%,105000.0,-1.0,-4.0,-8.0,-8.0,SANW
+266,D,2016-10-20 17:19:03,2016-10-19,SANW,Fleming Mick,Dir,F - Tax,5.2,-8077,10983,-42%,-42000.0,2.0,0.0,-9.0,-5.0,SANW
+267,D,2016-10-20 17:19:03,2016-10-19,SANW,Fleming Mick,Dir,M - OptEx,4.2,10000,10983,>999%,42000.0,2.0,0.0,-9.0,-5.0,SANW
+268,D,2016-10-20 17:09:24,2016-10-18,SANW,Wickersham Grover T,Dir,F - Tax,5.15,-20388,787238,-3%,-104998.0,2.0,0.0,-9.0,-5.0,SANW
+269,D,2016-10-20 17:09:24,2016-10-18,SANW,Wickersham Grover T,Dir,M - OptEx,4.2,25000,787238,+3%,105000.0,2.0,0.0,-9.0,-5.0,SANW
+270,D,2016-10-04 20:54:52,2016-10-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,1837,220943,+1%,0.0,-2.0,2.0,1.0,-1.0,SANW
+271,D,2016-10-04 19:59:12,2016-10-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,643,234624,0%,0.0,-2.0,2.0,1.0,-1.0,SANW
+272,D,2016-10-04 17:38:53,2016-10-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,782626,+1%,0.0,-2.0,2.0,1.0,-1.0,SANW
+273,D,2016-10-04 17:07:51,2016-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,5.1,-2500,50977,-5%,-12750.0,-2.0,2.0,1.0,-1.0,SANW
+274,DM,2016-10-04 17:07:51,2016-10-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,3.71,56653,50977,-998%,210000.0,-2.0,2.0,1.0,-1.0,SANW
+275,D,2016-10-04 17:07:51,2016-10-03,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,5.1,-51100,50977,-50%,-260586.0,-2.0,2.0,1.0,-1.0,SANW
+276,D,2016-10-04 16:29:19,2016-10-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,5.1,-2500,106463,-2%,-12750.0,-2.0,2.0,1.0,-1.0,SANW
+277,DM,2016-10-04 16:29:19,2016-10-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,3.86,81653,106463,+329%,315000.0,-2.0,2.0,1.0,-1.0,SANW
+278,D,2016-10-04 16:29:19,2016-10-03,SANW,Grewal Mark S,"Pres, CEO",S - Sale+OE,5.07,-76181,106463,-42%,-386558.0,-2.0,2.0,1.0,-1.0,SANW
+279,D,2016-09-28 17:52:01,2016-09-28,SANW,Mfp Partners LP,"See remarks below, 10%",M - OptEx,4.63,84415,3197838,+3%,390841.0,0.0,0.0,4.0,-6.0,SANW
+280,,2016-07-13 16:33:28,2016-07-11,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.25,5049,936165,+1%,21458.0,4.0,-2.0,7.0,8.0,SANW
+281,D,2016-07-06 20:54:05,2016-07-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,643,233981,0%,0.0,-2.0,-3.0,7.0,6.0,SANW
+282,,2016-07-06 16:32:31,2016-07-01,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.25,296,933583,0%,1258.0,-2.0,-3.0,7.0,6.0,SANW
+283,D,2016-07-06 15:29:19,2016-07-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,4.43,-2500,103491,-2%,-11075.0,3.0,0.0,10.0,9.0,SANW
+284,D,2016-07-06 15:29:19,2016-07-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,6653,103491,+7%,0.0,3.0,0.0,10.0,9.0,SANW
+285,D,2016-07-06 15:29:19,2016-07-01,SANW,Grewal Mark S,"Pres, CEO",S - Sale+OE,4.31,-1181,103491,-1%,-5086.0,3.0,0.0,10.0,9.0,SANW
+286,D,2016-07-06 15:06:18,2016-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,4.43,-2491,47924,-5%,-11035.0,3.0,0.0,10.0,9.0,SANW
+287,D,2016-07-06 15:06:18,2016-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,6653,47924,+16%,0.0,3.0,0.0,10.0,9.0,SANW
+288,D,2016-07-06 15:06:18,2016-07-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,4.31,-1100,47924,-2%,-4740.0,3.0,0.0,10.0,9.0,SANW
+289,D,2016-07-06 14:39:17,2016-07-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,1837,219105,+1%,0.0,3.0,0.0,10.0,9.0,SANW
+290,D,2016-07-06 13:44:38,2016-07-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,778404,+1%,0.0,3.0,0.0,10.0,9.0,SANW
+291,M,2016-06-28 16:30:21,2016-06-24,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.25,18038,933432,+2%,76662.0,1.0,1.0,2.0,8.0,SANW
+292,,2016-06-21 16:32:23,2016-06-17,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.25,9617,924235,+1%,40872.0,1.0,-2.0,1.0,3.0,SANW
+293,AD,2016-05-02 21:12:39,2016-04-29,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,3.95,5834,240458,+2%,23044.0,-1.0,-7.0,-2.0,13.0,SANW
+294,D,2016-05-02 20:42:33,2016-04-29,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,3.95,5834,230458,+3%,23044.0,-1.0,-7.0,-2.0,13.0,SANW
+295,,2016-04-26 16:30:15,2016-04-22,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.1,2000,919332,0%,8200.0,4.0,6.0,4.0,21.0,SANW
+296,,2016-04-18 16:30:22,2016-04-14,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.15,4090,918309,0%,16974.0,3.0,1.0,7.0,22.0,SANW
+297,M,2016-04-14 16:48:36,2016-04-12,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.15,3445,916215,0%,14297.0,-1.0,0.0,5.0,22.0,SANW
+298,M,2016-04-12 16:30:51,2016-04-08,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.15,18774,914451,+2%,77912.0,-1.0,1.0,6.0,20.0,SANW
+299,M,2016-04-08 16:30:31,2016-04-06,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.15,10267,904831,+1%,42608.0,0.0,2.0,5.0,17.0,SANW
+300,M,2016-04-06 16:31:23,2016-04-04,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.15,7274,899573,+1%,30187.0,-1.0,0.0,9.0,21.0,SANW
+301,D,2016-04-05 21:43:45,2016-04-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,1836,217268,+1%,0.0,1.0,0.0,11.0,23.0,SANW
+302,D,2016-04-05 21:13:53,2016-04-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,774182,+1%,0.0,1.0,0.0,11.0,23.0,SANW
+303,D,2016-04-05 20:53:45,2016-04-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,643,227504,0%,0.0,1.0,0.0,11.0,23.0,SANW
+304,D,2016-04-05 20:11:26,2016-04-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,4.21,-2526,100519,-2%,-10634.0,1.0,0.0,11.0,23.0,SANW
+305,D,2016-04-05 20:11:26,2016-04-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,6653,100519,+7%,0.0,1.0,0.0,11.0,23.0,SANW
+306,D,2016-04-05 20:11:26,2016-04-01,SANW,Grewal Mark S,"Pres, CEO",S - Sale+OE,4.18,-1181,100519,-1%,-4933.0,1.0,0.0,11.0,23.0,SANW
+307,D,2016-04-05 19:45:20,2016-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,4.21,-2856,45401,-6%,-12024.0,1.0,0.0,11.0,23.0,SANW
+308,D,2016-04-05 19:45:20,2016-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,6653,45401,+17%,0.0,1.0,0.0,11.0,23.0,SANW
+309,D,2016-04-05 19:45:20,2016-04-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,4.18,-1100,45401,-2%,-4597.0,1.0,0.0,11.0,23.0,SANW
+310,,2016-03-23 16:30:52,2016-03-21,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.15,612,895847,0%,2540.0,0.0,-2.0,-1.0,12.0,SANW
+311,,2016-03-04 16:30:57,2016-03-02,SANW,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,4.15,12300,99235,+14%,51045.0,4.0,5.0,-8.0,7.0,SANW
+312,,2016-03-02 20:52:19,2016-03-02,SANW,Fleming Mick,Dir,P - Purchase,4.19,2500,9060,+38%,10475.0,3.0,14.0,0.0,19.0,SANW
+313,D,2016-03-02 20:29:34,2016-02-29,SANW,Wickersham Grover T,Dir,X - OptEx,4.15,60000,770182,-7%,249000.0,3.0,14.0,0.0,19.0,SANW
+314,D,2016-03-02 19:46:05,2016-02-29,SANW,Harvey Mark James,COB,X - OptEx,4.15,24096,215432,-10%,99998.0,3.0,14.0,0.0,19.0,SANW
+315,D,2016-02-29 17:35:48,2016-02-29,SANW,Mfp Partners LP,"See remarks below, 10%",M - OptEx,4.15,638701,3113423,+26%,2650609.0,0.0,8.0,2.0,19.0,SANW
+316,D,2016-01-05 20:41:42,2016-01-01,SANW,Grewal Mark S,"CEO, Pres",F - Tax,4.17,-2917,97573,-3%,-12164.0,0.0,-1.0,-1.0,5.0,SANW
+317,D,2016-01-05 20:41:42,2016-01-01,SANW,Grewal Mark S,"CEO, Pres",M - OptEx,0.0,6653,97573,+7%,0.0,0.0,-1.0,-1.0,5.0,SANW
+318,D,2016-01-05 20:41:42,2016-01-04,SANW,Grewal Mark S,"CEO, Pres",S - Sale+OE,4.2,-1181,97573,-1%,-4960.0,0.0,-1.0,-1.0,5.0,SANW
+319,D,2016-01-05 20:23:09,2016-01-01,SANW,Szot Matthew K,"EVP Fin, Admin, CFO",F - Tax,4.17,-2917,42704,-6%,-12164.0,0.0,-1.0,-1.0,5.0,SANW
+320,D,2016-01-05 20:23:09,2016-01-01,SANW,Szot Matthew K,"EVP Fin, Admin, CFO",M - OptEx,0.0,6653,42704,+18%,0.0,0.0,-1.0,-1.0,5.0,SANW
+321,D,2016-01-05 20:23:09,2016-01-04,SANW,Szot Matthew K,"EVP Fin, Admin, CFO",S - Sale+OE,4.2,-1100,42704,-3%,-4620.0,0.0,-1.0,-1.0,5.0,SANW
+322,D,2016-01-05 19:59:08,2016-01-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,1836,191336,+1%,0.0,0.0,-1.0,-1.0,5.0,SANW
+323,D,2016-01-05 19:25:57,2016-01-01,SANW,Jury Dennis Charles,"EVP of Operations, COO",M - OptEx,0.0,643,226861,0%,0.0,0.0,-1.0,-1.0,5.0,SANW
+324,D,2016-01-05 19:10:55,2016-01-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,710182,+1%,0.0,0.0,-1.0,-1.0,5.0,SANW
+325,D,2015-11-16 17:08:34,2015-11-12,SANW,Jury Dennis Charles,"EVP of Operations, COO",M - OptEx,3.95,8751,226218,+4%,34566.0,1.0,-2.0,-7.0,-4.0,SANW
+326,D,2015-10-05 21:19:08,2015-10-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,0.0,-3190,95018,-3%,-0.0,-1.0,3.0,4.0,-8.0,SANW
+327,D,2015-10-05 21:19:08,2015-10-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,8472,95018,+10%,0.0,-1.0,3.0,4.0,-8.0,SANW
+328,D,2015-10-05 20:51:22,2015-10-01,SANW,Szot Matthew K,"EVP Finance, Admin; CFO",F - Tax,0.0,-3190,39528,-7%,-0.0,-1.0,3.0,4.0,-8.0,SANW
+329,D,2015-10-05 20:51:22,2015-10-01,SANW,Szot Matthew K,"EVP Finance, Admin; CFO",M - OptEx,0.0,8472,39528,+27%,0.0,-1.0,3.0,4.0,-8.0,SANW
+330,D,2015-10-05 20:51:22,2015-10-01,SANW,Szot Matthew K,"EVP Finance, Admin; CFO",S - Sale+OE,4.59,-1100,39528,-3%,-5054.0,-1.0,3.0,4.0,-8.0,SANW
+331,D,2015-10-05 20:08:32,2015-10-01,SANW,Harvey Mark James,COB,M - OptEx,0.0,1500,189500,+1%,0.0,-1.0,3.0,4.0,-8.0,SANW
+332,D,2015-10-05 19:54:09,2015-10-01,SANW,Jury Dennis Charles,"EVP Operations, COO",M - OptEx,0.0,1250,217467,+1%,0.0,-1.0,3.0,4.0,-8.0,SANW
+333,D,2015-10-05 19:34:55,2015-10-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,705960,+1%,0.0,-1.0,3.0,4.0,-8.0,SANW
+334,D,2015-07-06 16:35:12,2015-07-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,0.0,-2156,89736,-2%,-0.0,-2.0,-5.0,-9.0,-14.0,SANW
+335,D,2015-07-06 16:35:12,2015-07-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,4722,89736,+6%,0.0,-2.0,-5.0,-9.0,-14.0,SANW
+336,D,2015-07-06 16:21:30,2015-07-01,SANW,Szot Matthew K,"VP Finance, Admin; CFO",F - Tax,0.0,-2156,35346,-6%,-0.0,-2.0,-5.0,-9.0,-14.0,SANW
+337,D,2015-07-06 16:21:30,2015-07-01,SANW,Szot Matthew K,"VP Finance, Admin; CFO",M - OptEx,0.0,4722,35346,+15%,0.0,-2.0,-5.0,-9.0,-14.0,SANW
+338,D,2015-07-06 16:21:30,2015-07-01,SANW,Szot Matthew K,"VP Finance, Admin; CFO",S - Sale+OE,4.82,-1100,35346,-3%,-5297.0,-2.0,-5.0,-9.0,-14.0,SANW
+339,D,2015-07-06 16:00:45,2015-07-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,701738,+1%,0.0,-2.0,-5.0,-9.0,-14.0,SANW
+340,D,2015-06-17 14:17:28,2015-06-15,SANW,Seidler Charles B,Dir,F - Tax,5.13,-23392,55288,-30%,-120001.0,1.0,-2.0,-4.0,-20.0,SANW
+341,D,2015-06-17 14:17:28,2015-06-15,SANW,Seidler Charles B,Dir,M - OptEx,4.0,30000,55288,+119%,120000.0,1.0,-2.0,-4.0,-20.0,SANW
+342,,2015-05-26 14:51:59,2015-05-22,SANW,Smith William S,Dir,P - Purchase,4.3,10000,50000,+25%,43035.0,1.0,7.0,16.0,1.0,SANW
+343,,2015-05-11 21:15:35,2015-05-07,SANW,Grewal Mark S,"Pres, CEO",F - Tax,4.33,-5022,87170,-5%,-21745.0,0.0,8.0,8.0,0.0,SANW
+344,,2015-05-11 20:59:17,2015-05-07,SANW,Szot Matthew K,"EVP, CFO",F - Tax,4.33,-2983,33880,-8%,-12916.0,0.0,8.0,8.0,0.0,SANW
+345,D,2015-04-03 19:13:07,2015-04-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,697489,+1%,0.0,4.0,6.0,-1.0,1.0,SANW
+346,D,2015-04-03 18:34:34,2015-04-01,SANW,Szot Matthew K,"EVP, CFO",F - Tax,0.0,-2438,36863,-6%,-0.0,4.0,6.0,-1.0,1.0,SANW
+347,D,2015-04-03 18:34:34,2015-04-01,SANW,Szot Matthew K,"EVP, CFO",M - OptEx,0.0,4722,36863,+15%,0.0,4.0,6.0,-1.0,1.0,SANW
+348,D,2015-04-03 18:34:34,2015-04-01,SANW,Szot Matthew K,"EVP, CFO",S - Sale+OE,4.66,-1100,36863,-3%,-5125.0,4.0,6.0,-1.0,1.0,SANW
+349,D,2015-04-03 18:16:56,2015-04-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,0.0,-2156,92192,-2%,-0.0,4.0,6.0,-1.0,1.0,SANW
+350,D,2015-04-03 18:16:56,2015-04-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,4722,92192,+5%,0.0,4.0,6.0,-1.0,1.0,SANW
+351,D,2015-04-03 18:16:56,2015-04-01,SANW,Grewal Mark S,"Pres, CEO",S - Sale+OE,4.66,-1181,92192,-1%,-5500.0,4.0,6.0,-1.0,1.0,SANW
+352,,2015-03-18 18:17:11,2015-03-16,SANW,Wickersham Grover T,Dir,P - Purchase,4.41,50000,693267,+8%,220500.0,4.0,5.0,16.0,25.0,SANW
+353,,2015-03-18 18:17:11,2015-03-16,SANW,Wickersham Grover T,Dir,S - Sale,4.41,-50000,693267,-7%,-220500.0,4.0,5.0,16.0,25.0,SANW
+354,AD,2015-03-18 17:51:50,2015-03-09,SANW,Wickersham Grover T,Dir,M - OptEx,4.0,50000,693267,+8%,200000.0,4.0,5.0,16.0,25.0,SANW
+355,D,2015-03-11 12:53:22,2015-03-09,SANW,Wickersham Grover T,Dir,M - OptEx,4.0,50000,693247,+8%,200000.0,-2.0,-3.0,8.0,18.0,SANW
+356,D,2015-03-06 18:01:45,2015-03-04,SANW,Karsten Daniel Z,VP of Processing,M - OptEx,4.0,20000,15810,-477%,80000.0,-5.0,-8.0,-4.0,7.0,SANW
+357,D,2015-03-06 18:01:45,2015-03-04,SANW,Karsten Daniel Z,VP of Processing,S - Sale+OE,4.56,-20000,15810,-56%,-91240.0,-5.0,-8.0,-4.0,7.0,SANW
+358,,2015-02-24 18:58:30,2015-02-23,SANW,Wickersham Grover T,Dir,P - Purchase,4.9,12000,643267,+2%,58800.0,1.0,0.0,-1.0,-7.0,SANW
+359,D,2015-02-24 15:01:48,2015-02-20,SANW,Fleming Mick,Dir,F - Tax,4.91,-24440,6560,-79%,-120000.0,-6.0,-6.0,-7.0,-13.0,SANW
+360,D,2015-02-24 15:01:48,2015-02-20,SANW,Fleming Mick,Dir,M - OptEx,4.0,30000,6560,-128%,120000.0,-6.0,-6.0,-7.0,-13.0,SANW
+361,D,2015-02-19 17:14:34,2015-02-17,SANW,Szot Matthew K,"EVP Fin, Admin, CFO",M - OptEx,4.0,25000,35679,+234%,100000.0,0.0,-8.0,-11.0,-11.0,SANW
+362,D,2015-02-19 17:14:34,2015-02-17,SANW,Szot Matthew K,"EVP Fin, Admin, CFO",S - Sale+OE,4.74,-25000,35679,-41%,-118420.0,0.0,-8.0,-11.0,-11.0,SANW
+363,D,2015-02-19 16:56:53,2015-02-17,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,4.0,175000,90807,-208%,700000.0,0.0,-8.0,-11.0,-11.0,SANW
+364,D,2015-02-19 16:56:53,2015-02-17,SANW,Grewal Mark S,"Pres, CEO",S - Sale+OE,4.71,-175000,90807,-66%,-824920.0,0.0,-8.0,-11.0,-11.0,SANW
+365,D,2015-01-06 13:33:00,2015-01-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,631267,+1%,0.0,1.0,15.0,36.0,29.0,SANW
+366,D,2015-01-05 20:41:38,2015-01-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,3.79,-2496,90807,-3%,-9460.0,1.0,8.0,35.0,31.0,SANW
+367,D,2015-01-05 20:41:38,2015-01-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,4722,90807,+5%,0.0,1.0,8.0,35.0,31.0,SANW
+368,D,2015-01-05 20:41:38,2015-01-02,SANW,Grewal Mark S,"Pres, CEO",S - Sale+OE,3.9,-1181,90807,-1%,-4610.0,1.0,8.0,35.0,31.0,SANW
+369,D,2015-01-05 20:20:47,2015-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",F - Tax,3.79,-2496,35679,-7%,-9460.0,1.0,8.0,35.0,31.0,SANW
+370,D,2015-01-05 20:20:47,2015-01-01,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",M - OptEx,0.0,4722,35679,+15%,0.0,1.0,8.0,35.0,31.0,SANW
+371,D,2015-01-05 20:20:47,2015-01-02,SANW,Szot Matthew K,"EVP Finance, Admin, CFO",S - Sale+OE,3.9,-1100,35679,-3%,-4294.0,1.0,8.0,35.0,31.0,SANW
+372,D,2014-10-03 21:02:38,2014-10-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,627045,+1%,0.0,-3.0,-16.0,-20.0,12.0,SANW
+373,D,2014-10-03 20:42:17,2014-10-01,SANW,Szot Matthew K,"EVP of Fin., Admin., CFO",F - Tax,0.0,-2156,34553,-6%,-0.0,-3.0,-16.0,-20.0,12.0,SANW
+374,D,2014-10-03 20:42:17,2014-10-01,SANW,Szot Matthew K,"EVP of Fin., Admin., CFO",M - OptEx,0.0,4722,34553,+16%,0.0,-3.0,-16.0,-20.0,12.0,SANW
+375,D,2014-10-03 20:42:17,2014-10-01,SANW,Szot Matthew K,"EVP of Fin., Admin., CFO",S - Sale+OE,4.12,-1100,34553,-3%,-4531.0,-3.0,-16.0,-20.0,12.0,SANW
+376,D,2014-10-03 16:45:14,2014-10-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,0.0,-2156,89762,-2%,-0.0,-3.0,-16.0,-20.0,12.0,SANW
+377,D,2014-10-03 16:45:14,2014-10-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,4722,89762,+6%,0.0,-3.0,-16.0,-20.0,12.0,SANW
+378,D,2014-10-03 16:45:14,2014-10-01,SANW,Grewal Mark S,"Pres, CEO",S - Sale+OE,4.11,-1181,89762,-1%,-4854.0,-3.0,-16.0,-20.0,12.0,SANW
+379,,2014-08-22 18:10:25,2014-08-20,SANW,Fabre Fred G,"VP of Sales, Marketing",S - Sale,6.13,-5000,205000,-2%,-30650.0,-2.0,-9.0,-22.0,-22.0,SANW
+380,,2014-07-23 18:55:59,2014-07-21,SANW,Fabre Fred G,"VP of Sales, Marketing",S - Sale,6.1,-5000,210000,-2%,-30500.0,1.0,1.0,-4.0,-26.0,SANW
+381,D,2014-07-03 18:22:28,2014-07-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,622823,+1%,0.0,-2.0,-4.0,0.0,-38.0,SANW
+382,D,2014-07-03 18:02:07,2014-07-01,SANW,Szot Matthew K,"SVP Finance, Admin., CFO",F - Tax,0.0,-2156,33087,-6%,-0.0,-2.0,-4.0,0.0,-38.0,SANW
+383,D,2014-07-03 18:02:07,2014-07-01,SANW,Szot Matthew K,"SVP Finance, Admin., CFO",M - OptEx,0.0,4722,33087,+17%,0.0,-2.0,-4.0,0.0,-38.0,SANW
+384,D,2014-07-03 17:45:53,2014-07-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,0.0,-2156,88377,-2%,-0.0,-2.0,-4.0,0.0,-38.0,SANW
+385,D,2014-07-03 17:45:53,2014-07-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,4722,88377,+6%,0.0,-2.0,-4.0,0.0,-38.0,SANW
+386,D,2014-07-03 17:45:53,2014-07-01,SANW,Grewal Mark S,"Pres, CEO",S - Sale+OE,6.29,-1181,88377,-1%,-7425.0,-2.0,-4.0,0.0,-38.0,SANW
+387,,2014-06-20 17:53:34,2014-06-20,SANW,Fabre Fred G,"VP of Sales, Marketing",S - Sale,6.37,-5000,215000,-2%,-31850.0,-2.0,2.0,-1.0,-39.0,SANW
+388,M,2014-05-22 21:47:08,2014-05-20,SANW,Harvey Mark James,Dir,S - Sale,6.46,-28216,188000,-13%,-182373.0,-2.0,-3.0,-7.0,-46.0,SANW
+389,,2014-05-09 21:02:10,2014-05-07,SANW,Grewal Mark S,"Pres, CEO",F - Tax,7.63,-5022,86992,-5%,-38318.0,3.0,-4.0,-13.0,-58.0,SANW
+390,,2014-05-09 20:57:01,2014-05-07,SANW,Szot Matthew K,"SVP Fin., Admin., CFO",F - Tax,7.63,-3043,30521,-9%,-23218.0,3.0,-4.0,-13.0,-58.0,SANW
+391,A,2014-04-04 21:50:52,2014-04-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,0.0,-2232,92014,-2%,-0.0,-5.0,0.0,-5.0,-52.0,SANW
+392,A,2014-04-04 21:46:16,2014-04-01,SANW,Szot Matthew K,"SVP, CFO",F - Tax,0.0,-2448,33565,-7%,-0.0,-5.0,0.0,-5.0,-52.0,SANW
+393,D,2014-04-02 20:39:23,2014-04-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,618601,+1%,0.0,2.0,5.0,0.0,-43.0,SANW
+394,D,2014-04-02 20:17:16,2014-04-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,0.0,-2448,91798,-3%,-0.0,2.0,5.0,0.0,-43.0,SANW
+395,D,2014-04-02 20:17:16,2014-04-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,4722,91798,+5%,0.0,2.0,5.0,0.0,-43.0,SANW
+396,D,2014-04-02 20:01:17,2014-04-01,PLCC,Szot Matthew K,"SVP Finance, CFO",F - Tax,0.0,-2448,33581,-7%,-0.0,,,,,SANW
+397,D,2014-04-02 20:01:17,2014-04-01,PLCC,Szot Matthew K,"SVP Finance, CFO",M - OptEx,0.0,4722,33581,+16%,0.0,,,,,SANW
+398,,2014-03-21 20:56:47,2014-03-21,SANW,Wickersham Grover T,Dir,P - Purchase,6.87,150000,614379,+32%,1030500.0,2.0,1.0,1.0,-26.0,SANW
+399,,2014-03-10 20:41:49,2014-03-06,SANW,Wickersham Grover T,Dir,P - Purchase,6.63,35000,464379,+8%,232050.0,-4.0,-2.0,-2.0,-29.0,SANW
+400,A,2014-03-06 14:52:56,2014-03-04,SANW,Wickersham Grover T,Dir,P - Purchase,6.58,75000,175000,+75%,493500.0,5.0,8.0,12.0,-18.0,SANW
+401,,2014-03-06 13:56:48,2014-03-04,SANW,Wickersham Grover T,Dir,P - Purchase,6.58,50000,404379,+14%,329000.0,5.0,8.0,12.0,-18.0,SANW
+402,,2014-01-21 15:04:45,2014-01-17,SANW,Wickersham Grover T,Dir,P - Purchase,5.6,100000,354379,+39%,560000.0,17.0,22.0,11.0,10.0,SANW
+403,D,2014-01-03 18:40:20,2014-01-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,0.0,-2028,89524,-2%,-0.0,0.0,-10.0,-11.0,-8.0,SANW
+404,D,2014-01-03 18:40:20,2014-01-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,4722,89524,+6%,0.0,0.0,-10.0,-11.0,-8.0,SANW
+405,D,2014-01-02 20:00:13,2014-01-01,SANW,Wickersham Grover T,Dir,M - OptEx,0.0,4222,254379,+2%,0.0,-3.0,-5.0,-13.0,-12.0,SANW
+406,D,2014-01-02 19:21:12,2014-01-01,SANW,Szot Matthew K,"SVP Finance, CFO",F - Tax,0.0,-2448,31307,-7%,-0.0,-3.0,-5.0,-13.0,-12.0,SANW
+407,D,2014-01-02 19:21:12,2014-01-01,SANW,Szot Matthew K,"SVP Finance, CFO",M - OptEx,0.0,4722,31307,+18%,0.0,-3.0,-5.0,-13.0,-12.0,SANW
+408,,2013-12-16 15:15:47,2013-12-13,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,5.97,2954,86830,+4%,17623.0,3.0,2.0,-5.0,3.0,SANW
+409,,2013-11-26 14:42:22,2013-11-22,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,5.3,11790,83876,+16%,62474.0,3.0,6.0,9.0,14.0,SANW
+410,,2013-11-22 20:00:22,2013-11-21,SANW,Nordstrom Michael N.,Dir,P - Purchase,5.2,3750,19102,+24%,19500.0,7.0,8.0,20.0,19.0,SANW
+411,,2013-11-18 20:58:47,2013-11-18,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,5.05,2146,72086,+3%,10837.0,3.0,9.0,27.0,31.0,SANW
+412,D,2013-10-21 20:33:45,2013-10-01,SANW,Wickersham Grover T,COB,M - OptEx,0.0,4222,250157,+2%,0.0,-4.0,2.0,-34.0,-2.0,SANW
+413,D,2013-10-21 20:04:16,2013-10-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,0.0,-1735,69940,-2%,-0.0,-4.0,2.0,-34.0,-2.0,SANW
+414,D,2013-10-21 20:04:16,2013-10-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,4722,69940,+7%,0.0,-4.0,2.0,-34.0,-2.0,SANW
+415,D,2013-10-21 19:47:24,2013-10-01,SANW,Szot Matthew K,"SVP, CFO",F - Tax,0.0,-2562,29033,-8%,-0.0,-4.0,2.0,-34.0,-2.0,SANW
+416,D,2013-10-21 19:47:24,2013-10-01,SANW,Szot Matthew K,"SVP, CFO",M - OptEx,0.0,4722,29033,+19%,0.0,-4.0,2.0,-34.0,-2.0,SANW
+417,D,2013-07-03 19:54:25,2013-07-01,SANW,Wickersham Grover T,COB,M - OptEx,0.0,8222,245935,+3%,0.0,0.0,1.0,-10.0,-14.0,SANW
+418,D,2013-07-03 19:18:13,2013-07-01,SANW,Szot Matthew K,"SVP, CFO",F - Tax,0.0,-10404,26873,-28%,-0.0,0.0,1.0,-10.0,-14.0,SANW
+419,D,2013-07-03 19:18:13,2013-07-01,SANW,Szot Matthew K,"SVP, CFO",M - OptEx,0.0,19722,26873,+276%,0.0,0.0,1.0,-10.0,-14.0,SANW
+420,D,2013-07-03 18:53:12,2013-07-01,SANW,Grewal Mark S,"Pres, CEO",F - Tax,0.0,-7234,66953,-10%,-0.0,0.0,1.0,-10.0,-14.0,SANW
+421,D,2013-07-03 18:53:12,2013-07-01,SANW,Grewal Mark S,"Pres, CEO",M - OptEx,0.0,19722,66953,+42%,0.0,0.0,1.0,-10.0,-14.0,SANW
+422,,2013-06-20 20:21:44,2013-06-18,SANW,Nordstrom Michael N.,Dir,P - Purchase,8.4,100,15352,+1%,840.0,-1.0,-4.0,-5.0,-20.0,SANW
+423,,2013-06-17 19:05:56,2013-06-17,SANW,"Yellowjacket, LP",10%,S - Sale,8.47,-130000,1140377,-10%,-1101100.0,0.0,-7.0,-8.0,-29.0,SANW
+424,,2013-06-11 11:03:08,2013-06-07,SANW,Fleming Mick,Dir,P - Purchase,8.31,1000,1000,New,8310.0,-1.0,-4.0,-8.0,-31.0,SANW
+425,,2013-05-30 13:33:15,2013-05-30,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,8.23,1500,54465,+3%,12345.0,-3.0,-3.0,-8.0,-34.0,SANW
+426,,2013-05-23 18:21:28,2013-05-23,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,8.7,1500,52965,+3%,13050.0,0.0,-4.0,-10.0,-42.0,SANW
+427,,2013-05-21 18:20:19,2013-05-21,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,8.91,5000,51465,+11%,44525.0,0.0,-1.0,-7.0,-42.0,SANW
+428,,2013-05-21 15:38:15,2013-05-20,SANW,Nordstrom Michael N.,Dir,P - Purchase,9.0,452,15252,+3%,4068.0,-1.0,-2.0,-8.0,-43.0,SANW
+429,,2013-05-16 17:59:09,2013-05-16,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,8.99,5000,46465,+12%,44950.0,6.0,0.0,-3.0,-32.0,SANW
+430,,2013-05-09 20:21:26,2013-05-07,SANW,Szot Matthew K,"SVP, CFO",F - Tax,9.55,-2445,17555,-12%,-23350.0,-3.0,-8.0,-15.0,-39.0,SANW
+431,,2013-05-09 20:17:32,2013-05-07,SANW,Grewal Mark S,"Pres, CEO",F - Tax,9.55,-4035,41465,-9%,-38534.0,-3.0,-8.0,-15.0,-39.0,SANW
+432,D,2013-04-16 20:27:19,2013-04-15,SANW,Seidler Charles B,Dir,X - OptEx,7.15,19000,48680,-28%,135850.0,-3.0,-2.0,-1.0,-18.0,SANW
+433,D,2013-04-16 20:00:06,2013-04-12,SANW,Wickersham Grover T,COB,X - OptEx,7.15,1500,237713,-1%,10725.0,-3.0,-2.0,-1.0,-18.0,SANW
+434,,2012-12-13 18:15:55,2012-12-13,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,6.99,1000,45500,+2%,6990.0,2.0,6.0,11.0,22.0,SANW
+435,,2012-12-12 18:41:00,2012-12-12,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,6.99,1000,44500,+2%,6990.0,0.0,4.0,7.0,22.0,SANW
+436,,2012-12-11 18:55:25,2012-12-07,SANW,"Yellowjacket, LP",10%,S - Sale,7.2,-78000,1770127,-4%,-561600.0,0.0,2.0,16.0,23.0,SANW
+437,,2012-12-05 19:35:42,2012-12-03,SAN,Nordstrom Michael N.,Dir,P - Purchase,7.39,4000,14800,+37%,29576.0,0.0,-2.0,8.0,0.0,SANW
+438,DM,2012-11-29 18:42:30,2012-11-28,SANW,Grewal Mark S,"Presdient, CEO",P - Purchase,7.41,2000,43500,+5%,14813.0,0.0,-2.0,4.0,16.0,SANW
+439,,2012-10-16 19:44:31,2012-10-15,SANW,"Yellowjacket, LP",10%,S - Sale,8.05,-20291,1648127,-1%,-163312.0,-2.0,0.0,-13.0,10.0,SANW
+440,,2012-10-16 19:27:09,2012-10-15,SANW,Seidler Charles B,Dir,S - Sale,8.07,-6420,29680,-18%,-51823.0,-2.0,0.0,-13.0,10.0,SANW
+441,M,2012-10-10 18:33:37,2012-10-08,SANW,Lishman Robert W,10%,S - Sale,7.5,-5145,3537464,0%,-38605.0,3.0,13.0,17.0,22.0,SANW
+442,M,2012-10-10 18:18:01,2012-10-08,SANW,"Yellowjacket, LP",10%,S - Sale,7.5,-5145,3536192,0%,-38605.0,3.0,13.0,17.0,22.0,SANW
+443,,2012-10-09 18:42:54,2012-10-05,SANW,Seidler Charles B,Dir,S - Sale,7.92,-1900,36100,-5%,-15048.0,-4.0,10.0,12.0,21.0,SANW
+444,M,2012-10-09 18:36:57,2012-10-04,SANW,Lishman Robert W,10%,S - Sale,7.75,-24564,3750404,-1%,-190369.0,-4.0,10.0,12.0,21.0,SANW
+445,M,2012-10-09 18:01:13,2012-10-04,SANW,"Yellowjacket, LP",10%,S - Sale,7.75,-24564,3758558,-1%,-190369.0,-4.0,10.0,12.0,21.0,SANW
+446,M,2012-07-02 16:12:41,2012-06-28,SANW,Lishman Robert W,10%,S - Sale,5.23,-11195,1897605,-1%,-58502.0,1.0,-1.0,-4.0,54.0,SANW
+447,M,2012-07-02 16:03:42,2012-06-28,SANW,"Yellowjacket, LP",10%,S - Sale,5.23,-11195,1897605,-1%,-58502.0,1.0,-1.0,-4.0,54.0,SANW
+448,,2012-06-22 18:09:19,2012-06-20,SANW,Lishman Robert W,10%,S - Sale,5.92,-32200,2,-100%,-190678.0,-5.0,-11.0,-12.0,32.0,SANW
+449,,2012-06-22 17:59:39,2012-06-20,SANW,"Yellowjacket, LP",10%,S - Sale,5.92,-32200,1908800,-2%,-190678.0,-5.0,-11.0,-12.0,32.0,SANW
+450,M,2012-06-14 19:00:39,2012-06-12,SANW,Lishman Robert W,10%,S - Sale,5.76,-50000,1941000,-3%,-287756.0,2.0,2.0,-8.0,21.0,SANW
+451,M,2012-06-14 18:40:31,2012-06-12,SANW,"Yellowjacket, LP",10%,S - Sale,5.76,-50000,1941000,-3%,-287756.0,2.0,2.0,-8.0,21.0,SANW
+452,,2012-05-29 15:26:59,2012-05-25,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,5.4,500,41500,+1%,2700.0,0.0,0.0,1.0,36.0,SANW
+453,,2012-05-23 17:35:58,2012-05-23,SANW,Grewal Mark S,"Pres, CEO",P - Purchase,5.49,6000,41000,+17%,32946.0,0.0,0.0,7.0,34.0,SANW
+454,,2012-05-16 16:08:18,2012-05-14,SANW,Nordstrom Michael N.,Dir,P - Purchase,5.61,6000,6000,New,33630.0,1.0,-3.0,2.0,34.0,SANW
+455,,2012-05-08 18:13:14,2012-05-07,SANW,Wickersham Grover T,COB,A - Grant,0.0,20000,74210,+37%,0.0,-1.0,-9.0,-6.0,37.0,SANW
+456,,2012-05-08 18:06:17,2012-05-07,SANW,Szot Matthew K,"SVP, CFO",A - Grant,0.0,20000,20000,New,0.0,-1.0,-9.0,-6.0,37.0,SANW
+457,,2012-05-08 18:00:56,2012-05-07,SANW,Grewal Mark S,"Pres, CEO",A - Grant,0.0,33000,35000,>999%,0.0,-1.0,-9.0,-6.0,37.0,SANW
+458,,2011-11-18 18:18:35,2011-11-16,SANW,Lishman Robert W,10%,S - Sale,4.33,-200000,1991000,-9%,-865000.0,-1.0,0.0,-5.0,10.0,SANW
+459,,2011-11-18 18:09:35,2011-11-16,SANW,"Yellowjacket, LP",10%,S - Sale,4.33,-200000,1991000,-9%,-865000.0,-1.0,0.0,-5.0,10.0,SANW
+460,,2010-06-29 13:42:39,2010-06-25,SANW,Wickersham Grover T,COB,P - Purchase,3.52,1000,4000,+33%,3520.0,-8.0,-15.0,-5.0,-13.0,SANW

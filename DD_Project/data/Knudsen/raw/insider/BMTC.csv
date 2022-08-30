@@ -1,20 +1,697 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
 0,,2021-11-08 16:21:07,2021-11-05,BMTC,Murdoch Britton,Dir,S - Sale,$49.22,-10821,20934,-34%,"-$532,610",,,,,BMTC
 1,,2021-10-28 15:07:59,2021-10-27,BMTC,Laplante Michael,Chief Accounting Officer,S - Sale,$47.37,-1500,377,-80%,"-$71,049",,,,,BMTC
-2,,2020-11-19 18:19:01,2020-11-19,BMTC,Laplante Michael,Chief Accounting Officer,P - Purchase,$30.20,1500,1500,New,"+$45,300",,,,,BMTC
-3,,2020-11-19 18:16:18,2020-11-18,BMTC,Harrington Michael W,CFO,P - Purchase,$30.43,3000,18237,+20%,"+$91,290",,,,,BMTC
-4,,2020-05-26 16:36:39,2020-05-22,BMTC,Calderin Diego F.,Dir,P - Purchase,$26.14,2000,6157,+48%,"+$52,278",,,,,BMTC
-5,,2020-04-24 16:43:44,2020-04-23,BMTC,Tylus F Kevin,Pres of BMTC (Bank),P - Purchase,$26.34,3000,30544,+11%,"+$79,032",,,,,BMTC
-6,,2020-03-12 15:39:29,2020-03-11,BMTC,Calderin Diego F.,Dir,P - Purchase,$29.11,1000,3680,+37%,"+$29,109",,,,,BMTC
-7,DM,2019-08-19 17:01:44,2019-08-16,BMTC,Gilbert Andrea F,Dir,S - Sale+OE,$35.63,-4475,27132,-14%,"-$159,425",,,,,BMTC
-8,D,2019-06-06 16:13:53,2019-06-05,BMTC,Holland Wendell F,Dir,S - Sale+OE,$37.33,-4475,14641,-23%,"-$167,066",,,,,BMTC
-9,D,2019-02-21 16:33:25,2019-02-20,BMTC,Jenkins Scott Mahaley,Dir,S - Sale+OE,$40.03,-4475,14639,-23%,"-$179,146",,,,,BMTC
-10,,2018-12-07 10:58:37,2018-12-06,BMTC,Calderin Diego F.,Dir,P - Purchase,$35.25,600,2342,+34%,"+$21,150",,,,,BMTC
-11,,2018-09-13 17:10:40,2018-09-13,BMTC,Holland Wendell F,Dir,S - Sale,$48.00,-1500,14303,-9%,"-$72,000",,,,,BMTC
-12,,2018-09-10 16:02:24,2018-09-07,BMTC,Tylus F Kevin,Pres of BMTC (Bank),S - Sale,$48.34,-7000,24631,-22%,"-$338,345",,,,,BMTC
-13,,2018-08-23 12:54:17,2018-08-22,BMTC,Leto Francis J,"Pres, CEO",S - Sale,$49.47,-8075,48651,-14%,"-$399,469",,,,,BMTC
-14,M,2018-08-16 17:04:12,2018-08-14,BMTC,Murdoch Britton,Dir,S - Sale,$49.10,-9000,29034,-24%,"-$441,943",,,,,BMTC
-15,D,2018-08-14 17:41:27,2018-08-14,BMTC,Gilbert Andrea F,Dir,S - Sale+OE,$48.83,-3500,24742,-12%,"-$170,895",,,,,BMTC
-16,,2018-07-26 12:04:20,2018-07-24,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",S - Sale,$48.87,-2040,16364,-11%,"-$99,688",,,,,BMTC
-17,,2018-07-26 09:45:37,2018-07-24,BMTC,Calderin Diego F.,Dir,P - Purchase,$48.75,400,1742,+30%,"+$19,500",,,,,BMTC
-18,DM,2018-05-07 16:58:17,2018-05-03,BMTC,Jenkins Scott Mahaley,Dir,S - Sale+OE,$44.55,-3500,12990,-21%,"-$155,935",,,,,BMTC
+2,,2021-08-16 16:27:48,2021-08-16,BMTC,May A John III,Dir,A - Grant,$0.00,116,15101,+1%,+$0,,,,,BMTC
+3,,2021-08-16 16:25:33,2021-08-16,BMTC,Holland Wendell F,Dir,A - Grant,$0.00,116,16440,+1%,+$0,,,,,BMTC
+4,,2021-08-16 16:24:52,2021-08-16,BMTC,Laplante Michael,Chief Accounting Officer,A - Grant,$0.00,258,1877,+16%,+$0,,,,,BMTC
+5,,2021-08-16 16:24:52,2021-08-16,BMTC,Laplante Michael,Chief Accounting Officer,F - Tax,$40.22,-105,1877,-5%,"-$4,223",,,,,BMTC
+6,,2021-08-16 16:23:21,2021-08-16,BMTC,Clement Michael Joseph,Dir,A - Grant,$0.00,116,31300,0%,+$0,,,,,BMTC
+7,,2021-08-16 16:22:40,2021-08-16,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$0.00,2119,62927,+3%,+$0,,,,,BMTC
+8,,2021-08-16 16:22:40,2021-08-16,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$40.22,-583,62927,-1%,"-$23,448",,,,,BMTC
+9,,2021-08-16 16:22:21,2021-08-16,BMTC,Thompson Michael,"CFO, COO Banking Division BMT",A - Grant,$0.00,189,463,+69%,+$0,,,,,BMTC
+10,,2021-08-16 16:22:21,2021-08-16,BMTC,Thompson Michael,"CFO, COO Banking Division BMT",F - Tax,$40.22,-71,463,-13%,"-$2,856",,,,,BMTC
+11,,2021-08-16 16:21:12,2021-08-16,BMTC,Killeen Patrick M,Chief Risk Officer of BMTC,A - Grant,$0.00,516,2810,+22%,+$0,,,,,BMTC
+12,,2021-08-16 16:21:12,2021-08-16,BMTC,Killeen Patrick M,Chief Risk Officer of BMTC,F - Tax,$40.22,-242,2810,-8%,"-$9,733",,,,,BMTC
+13,,2021-08-16 16:20:36,2021-08-16,BMTC,Tylus F Kevin,Pres of BMTC (Bank),A - Grant,$0.00,1034,32232,+3%,+$0,,,,,BMTC
+14,,2021-08-16 16:20:36,2021-08-16,BMTC,Tylus F Kevin,Pres of BMTC (Bank),F - Tax,$0.00,-338,32232,-1%,-$0,,,,,BMTC
+15,,2021-08-16 16:20:26,2021-08-16,BMTC,Calderin Diego F.,Dir,A - Grant,$0.00,116,6738,+2%,+$0,,,,,BMTC
+16,,2021-08-16 16:20:09,2021-08-16,BMTC,Harrington Michael W,CFO,A - Grant,$0.00,878,19796,+5%,+$0,,,,,BMTC
+17,,2021-08-16 16:20:09,2021-08-16,BMTC,Harrington Michael W,CFO,F - Tax,$40.22,-242,19796,-1%,"-$9,733",,,,,BMTC
+18,,2021-08-16 16:16:36,2021-08-16,BMTC,Goldman Lori,"GC, Secretary",A - Grant,$0.00,464,4988,+10%,+$0,,,,,BMTC
+19,,2021-08-16 16:16:36,2021-08-16,BMTC,Goldman Lori,"GC, Secretary",F - Tax,$40.22,-198,4988,-4%,"-$7,964",,,,,BMTC
+20,,2021-08-16 16:16:20,2021-08-16,BMTC,McKee Lynn,Dir,A - Grant,$0.00,116,9288,+1%,+$0,,,,,BMTC
+21,,2021-08-16 16:16:16,2021-08-16,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",A - Grant,$0.00,930,6835,+16%,+$0,,,,,BMTC
+22,,2021-08-16 16:16:16,2021-08-16,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",F - Tax,$40.22,-256,6835,-4%,"-$10,296",,,,,BMTC
+23,,2021-08-16 16:13:34,2021-08-16,BMTC,Gilbert Andrea F,Dir,A - Grant,$0.00,116,28379,0%,+$0,,,,,BMTC
+24,,2021-08-16 16:09:58,2021-08-16,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,116,15961,+1%,+$0,,,,,BMTC
+25,,2021-08-16 16:06:06,2021-08-16,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,168,31755,+1%,+$0,,,,,BMTC
+26,D,2021-08-11 17:12:08,2021-08-09,BMTC,Tylus F Kevin,Pres of BMTC (Bank),F - Tax,$40.22,-505,31536,-2%,"-$20,311",,,,,BMTC
+27,D,2021-08-11 17:12:08,2021-08-09,BMTC,Tylus F Kevin,Pres of BMTC (Bank),M - OptEx,$0.00,1497,31536,+5%,+$0,,,,,BMTC
+28,D,2021-08-11 17:09:35,2021-08-09,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$40.22,-844,61391,-1%,"-$33,946",,,,,BMTC
+29,D,2021-08-11 17:09:35,2021-08-09,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$0.00,3070,61391,+5%,+$0,,,,,BMTC
+30,D,2021-08-11 17:07:11,2021-08-09,BMTC,Thompson Michael,"CFO, COO Banking Division BMT",F - Tax,$40.22,-104,345,-23%,"-$4,183",,,,,BMTC
+31,D,2021-08-11 17:07:11,2021-08-09,BMTC,Thompson Michael,"CFO, COO Banking Division BMT",M - OptEx,$0.00,274,345,+386%,+$0,,,,,BMTC
+32,D,2021-08-11 17:04:17,2021-08-09,BMTC,Killeen Patrick M,Chief Risk Officer of BMTC,F - Tax,$40.22,-350,2536,-12%,"-$14,077",,,,,BMTC
+33,D,2021-08-11 17:04:17,2021-08-09,BMTC,Killeen Patrick M,Chief Risk Officer of BMTC,M - OptEx,$0.00,748,2536,+42%,+$0,,,,,BMTC
+34,D,2021-08-11 17:01:35,2021-08-09,BMTC,Harrington Michael W,CFO,F - Tax,$40.22,-350,19160,-2%,"-$14,077",,,,,BMTC
+35,D,2021-08-11 17:01:35,2021-08-09,BMTC,Harrington Michael W,CFO,M - OptEx,$0.00,1273,19160,+7%,+$0,,,,,BMTC
+36,D,2021-08-11 16:58:26,2021-08-09,BMTC,May A John III,Dir,M - OptEx,$0.00,169,14985,+1%,+$0,,,,,BMTC
+37,D,2021-08-11 16:58:22,2021-08-09,BMTC,Laplante Michael,Chief Accounting Officer,F - Tax,$40.22,-150,1724,-8%,"-$6,033",,,,,BMTC
+38,D,2021-08-11 16:58:22,2021-08-09,BMTC,Laplante Michael,Chief Accounting Officer,M - OptEx,$0.00,374,1724,+28%,+$0,,,,,BMTC
+39,D,2021-08-11 16:58:01,2021-08-09,BMTC,Murdoch Britton,Dir,M - OptEx,$0.00,243,31587,+1%,+$0,,,,,BMTC
+40,D,2021-08-11 16:57:29,2021-08-09,BMTC,Jenkins Scott Mahaley,Dir,M - OptEx,$0.00,169,15845,+1%,+$0,,,,,BMTC
+41,D,2021-08-11 16:55:21,2021-08-09,BMTC,Goldman Lori,"GC, Secretary",F - Tax,$40.22,-287,4722,-6%,"-$11,543",,,,,BMTC
+42,D,2021-08-11 16:55:21,2021-08-09,BMTC,Goldman Lori,"GC, Secretary",M - OptEx,$0.00,674,4722,+17%,+$0,,,,,BMTC
+43,D,2021-08-11 16:54:59,2021-08-09,BMTC,Gilbert Andrea F,Dir,M - OptEx,$0.00,169,28263,+1%,+$0,,,,,BMTC
+44,D,2021-08-11 16:54:39,2021-08-09,BMTC,Clement Michael Joseph,Dir,M - OptEx,$0.00,169,31184,+1%,+$0,,,,,BMTC
+45,D,2021-08-11 16:52:58,2021-08-09,BMTC,McKee Lynn,Dir,M - OptEx,$0.00,169,9172,+2%,+$0,,,,,BMTC
+46,D,2021-08-11 16:52:28,2021-08-09,BMTC,Holland Wendell F,Dir,M - OptEx,$0.00,169,16324,+1%,+$0,,,,,BMTC
+47,D,2021-08-11 16:52:12,2021-08-09,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",F - Tax,$40.22,-371,6161,-6%,"-$14,922",,,,,BMTC
+48,D,2021-08-11 16:52:12,2021-08-09,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",M - OptEx,$0.00,1348,6161,+28%,+$0,,,,,BMTC
+49,D,2021-08-11 16:52:04,2021-08-09,BMTC,Calderin Diego F.,Dir,M - OptEx,$0.00,169,6622,+3%,+$0,,,,,BMTC
+50,D,2021-02-09 08:54:17,2021-02-07,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$33.58,-383,59151,-1%,"-$12,861",,,,,BMTC
+51,D,2021-02-09 08:54:17,2021-02-07,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$0.00,800,59151,+1%,+$0,,,,,BMTC
+52,D,2020-12-16 18:19:02,2020-12-15,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",F - Tax,$31.69,-656,5184,-11%,"-$20,789",,,,,BMTC
+53,D,2020-12-16 18:19:02,2020-12-15,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",M - OptEx,$0.00,2384,5184,+85%,+$0,,,,,BMTC
+54,,2020-11-19 18:19:01,2020-11-19,BMTC,Laplante Michael,Chief Accounting Officer,P - Purchase,$30.20,1500,1500,New,"+$45,300",,,,,BMTC
+55,,2020-11-19 18:16:18,2020-11-18,BMTC,Harrington Michael W,CFO,P - Purchase,$30.43,3000,18237,+20%,"+$91,290",,,,,BMTC
+56,,2020-08-14 17:49:28,2020-08-13,BMTC,Harrington Michael W,CFO,A - Grant,$0.00,3066,15237,+25%,+$0,,,,,BMTC
+57,,2020-08-14 17:49:28,2020-08-13,BMTC,Harrington Michael W,CFO,F - Tax,$28.74,-844,15237,-5%,"-$24,257",,,,,BMTC
+58,,2020-08-14 17:44:33,2020-08-13,BMTC,Goldman Lori,"GC, Secretary",A - Grant,$0.00,1557,4335,+56%,+$0,,,,,BMTC
+59,,2020-08-14 17:44:33,2020-08-13,BMTC,Goldman Lori,"GC, Secretary",F - Tax,$28.74,-584,4335,-12%,"-$16,784",,,,,BMTC
+60,,2020-08-14 17:38:27,2020-08-13,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$0.00,7351,58715,+14%,+$0,,,,,BMTC
+61,,2020-08-14 17:38:27,2020-08-13,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$28.74,-3124,58715,-5%,"-$89,784",,,,,BMTC
+62,,2020-08-14 17:33:14,2020-08-13,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,601,31344,+2%,+$0,,,,,BMTC
+63,,2020-08-14 17:07:23,2020-08-13,BMTC,McKee Lynn,Dir,A - Grant,$0.00,417,9003,+5%,+$0,,,,,BMTC
+64,,2020-08-14 16:44:13,2020-08-13,BMTC,May A John III,Dir,A - Grant,$0.00,417,14816,+3%,+$0,,,,,BMTC
+65,,2020-08-14 16:40:53,2020-08-13,BMTC,May A John III,Dir,A - Grant,$0.00,417,14816,+3%,+$0,,,,,BMTC
+66,,2020-08-14 16:30:46,2020-08-13,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,417,15676,+3%,+$0,,,,,BMTC
+67,,2020-08-14 16:25:16,2020-08-13,BMTC,Holland Wendell F,Dir,A - Grant,$0.00,417,16155,+3%,+$0,,,,,BMTC
+68,,2020-08-14 16:19:38,2020-08-13,BMTC,Gilbert Andrea F,Dir,A - Grant,$0.00,417,28094,+2%,+$0,,,,,BMTC
+69,,2020-08-14 16:12:40,2020-08-13,BMTC,Clement Michael Joseph,Dir,A - Grant,$0.00,417,31015,+1%,+$0,,,,,BMTC
+70,D,2020-08-12 19:02:32,2020-08-11,BMTC,Harrington Michael W,CFO,F - Tax,$28.74,-137,13015,-1%,"-$3,937",,,,,BMTC
+71,D,2020-08-12 19:02:32,2020-08-11,BMTC,Harrington Michael W,CFO,M - OptEx,$0.00,495,13015,+4%,+$0,,,,,BMTC
+72,D,2020-08-12 18:58:13,2020-08-11,BMTC,Goldman Lori,"GC, Secretary",F - Tax,$28.74,-95,3362,-3%,"-$2,730",,,,,BMTC
+73,D,2020-08-12 18:58:13,2020-08-11,BMTC,Goldman Lori,"GC, Secretary",M - OptEx,$0.00,252,3362,+8%,+$0,,,,,BMTC
+74,D,2020-08-12 18:54:06,2020-08-11,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$28.74,-504,54488,-1%,"-$14,485",,,,,BMTC
+75,D,2020-08-12 18:54:06,2020-08-11,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$0.00,1186,54488,+2%,+$0,,,,,BMTC
+76,D,2020-08-12 18:50:58,2020-08-11,BMTC,Murdoch Britton,Dir,M - OptEx,$0.00,97,30743,0%,+$0,,,,,BMTC
+77,D,2020-08-12 18:47:25,2020-08-11,BMTC,McKee Lynn,Dir,M - OptEx,$0.00,68,8586,+1%,+$0,,,,,BMTC
+78,D,2020-08-12 18:36:25,2020-08-11,BMTC,May A John III,Dir,M - OptEx,$0.00,68,14399,0%,+$0,,,,,BMTC
+79,D,2020-08-12 18:32:42,2020-08-11,BMTC,Jenkins Scott Mahaley,Dir,M - OptEx,$0.00,68,15259,0%,+$0,,,,,BMTC
+80,D,2020-08-12 18:20:45,2020-08-11,BMTC,Holland Wendell F,Dir,M - OptEx,$0.00,68,15738,0%,+$0,,,,,BMTC
+81,D,2020-08-12 18:18:30,2020-08-11,BMTC,Gilbert Andrea F,Dir,M - OptEx,$0.00,68,27677,0%,+$0,,,,,BMTC
+82,D,2020-08-12 18:04:24,2020-08-11,BMTC,Clement Michael Joseph,Dir,M - OptEx,$0.00,68,30598,0%,+$0,,,,,BMTC
+83,D,2020-06-09 09:18:59,2020-06-05,BMTC,Killeen Patrick M,Chief Risk Officer of BMTC,F - Tax,$29.93,-862,2138,-29%,"-$25,800",,,,,BMTC
+84,D,2020-06-09 09:18:59,2020-06-05,BMTC,Killeen Patrick M,Chief Risk Officer of BMTC,M - OptEx,$0.00,3000,2138,-348%,+$0,,,,,BMTC
+85,,2020-05-26 16:36:39,2020-05-22,BMTC,Calderin Diego F.,Dir,P - Purchase,$26.14,2000,6157,+48%,"+$52,278",,,,,BMTC
+86,,2020-04-27 16:13:59,2020-04-24,BMTC,Murdoch Britton,Dir,A - Grant,$26.17,477,30646,+2%,"+$12,483",,,,,BMTC
+87,,2020-04-27 16:12:30,2020-04-24,BMTC,McKee Lynn,Dir,A - Grant,$26.17,477,8518,+6%,"+$12,483",,,,,BMTC
+88,,2020-04-27 16:08:13,2020-04-24,BMTC,Holland Wendell F,Dir,A - Grant,$26.17,477,15670,+3%,"+$12,483",,,,,BMTC
+89,,2020-04-27 16:06:43,2020-04-24,BMTC,Gilbert Andrea F,Dir,A - Grant,$26.17,477,27609,+2%,"+$12,483",,,,,BMTC
+90,,2020-04-27 16:05:10,2020-04-24,BMTC,Clement Michael Joseph,Dir,A - Grant,$26.17,477,30530,+2%,"+$12,483",,,,,BMTC
+91,,2020-04-27 16:03:30,2020-04-24,BMTC,Calderin Diego F.,Dir,A - Grant,$26.17,477,4157,+13%,"+$12,483",,,,,BMTC
+92,,2020-04-24 16:43:44,2020-04-23,BMTC,Tylus F Kevin,Pres of BMTC (Bank),P - Purchase,$26.34,3000,30544,+11%,"+$79,032",,,,,BMTC
+93,,2020-03-12 15:39:29,2020-03-11,BMTC,Calderin Diego F.,Dir,P - Purchase,$29.11,1000,3680,+37%,"+$29,109",,,,,BMTC
+94,D,2020-02-10 17:01:44,2020-02-07,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$38.22,-383,53570,-1%,"-$14,638",,,,,BMTC
+95,D,2020-02-10 17:01:44,2020-02-07,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$0.00,800,53570,+2%,+$0,,,,,BMTC
+96,D,2020-01-24 11:03:58,2020-01-22,BMTC,Brickley Liam,Chief Credit Officer of BMTC,F - Tax,$39.95,-1117,1556,-42%,"-$44,624",,,,,BMTC
+97,D,2020-01-24 11:03:58,2020-01-22,BMTC,Brickley Liam,Chief Credit Officer of BMTC,M - OptEx,$0.00,2673,1556,-239%,+$0,,,,,BMTC
+98,A,2020-01-02 17:11:52,2019-12-16,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",F - Tax,$40.02,-656,3456,-16%,"-$26,253",,,,,BMTC
+99,A,2019-12-20 10:12:12,2019-12-16,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",F - Tax,$40.02,-656,1072,-38%,"-$26,253",,,,,BMTC
+100,D,2019-12-17 16:33:14,2019-12-16,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",F - Tax,$40.76,-656,3456,-16%,"-$26,739",,,,,BMTC
+101,D,2019-12-17 16:33:14,2019-12-16,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",M - OptEx,$0.00,2384,3456,+222%,+$0,,,,,BMTC
+102,D,2019-08-19 17:01:44,2019-08-16,BMTC,Gilbert Andrea F,Dir,M - OptEx,$18.27,4475,27132,+20%,"+$81,758",,,,,BMTC
+103,DM,2019-08-19 17:01:44,2019-08-16,BMTC,Gilbert Andrea F,Dir,S - Sale+OE,$35.63,-4475,27132,-14%,"-$159,425",,,,,BMTC
+104,,2019-08-16 15:20:09,2019-08-15,BMTC,Goldman Lori,"GC, Secretary",A - Grant,$0.00,1202,3205,+60%,+$0,,,,,BMTC
+105,,2019-08-16 15:20:09,2019-08-15,BMTC,Goldman Lori,"GC, Secretary",F - Tax,$35.08,-331,3205,-9%,"-$11,611",,,,,BMTC
+106,,2019-08-16 15:17:20,2019-08-15,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$0.00,4456,53070,+9%,+$0,,,,,BMTC
+107,,2019-08-16 15:17:20,2019-08-15,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$35.08,-1895,53070,-3%,"-$66,477",,,,,BMTC
+108,,2019-08-16 15:14:16,2019-08-15,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",A - Grant,$0.00,2182,33813,+7%,+$0,,,,,BMTC
+109,,2019-08-16 15:14:16,2019-08-15,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",F - Tax,$35.08,-950,33813,-3%,"-$33,326",,,,,BMTC
+110,,2019-08-16 15:11:36,2019-08-15,BMTC,Harrington Michael W,CFO,A - Grant,$0.00,2317,12657,+22%,+$0,,,,,BMTC
+111,,2019-08-16 15:11:36,2019-08-15,BMTC,Harrington Michael W,CFO,F - Tax,$35.08,-638,12657,-5%,"-$22,381",,,,,BMTC
+112,,2019-08-16 15:10:05,2019-08-15,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,581,30169,+2%,+$0,,,,,BMTC
+113,,2019-08-16 15:08:33,2019-08-15,BMTC,Holland Wendell F,Dir,A - Grant,$0.00,402,15193,+3%,+$0,,,,,BMTC
+114,,2019-08-16 15:07:55,2019-08-15,BMTC,McKee Lynn,Dir,A - Grant,$0.00,402,8041,+5%,+$0,,,,,BMTC
+115,,2019-08-16 15:05:43,2019-08-15,BMTC,May A John III,Dir,A - Grant,$0.00,402,14331,+3%,+$0,,,,,BMTC
+116,,2019-08-16 15:05:36,2019-08-15,BMTC,Gilbert Andrea F,Dir,A - Grant,$0.00,402,27132,+2%,+$0,,,,,BMTC
+117,,2019-08-16 15:03:16,2019-08-15,BMTC,Clement Michael Joseph,Dir,A - Grant,$0.00,402,30053,+1%,+$0,,,,,BMTC
+118,,2019-08-16 15:03:00,2019-08-15,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,402,15191,+3%,+$0,,,,,BMTC
+119,DM,2019-08-13 16:26:41,2019-08-11,BMTC,May A John III,Dir,M - OptEx,$0.00,150,13929,+1%,+$0,,,,,BMTC
+120,DM,2019-08-13 16:23:55,2019-08-11,BMTC,Harrington Michael W,CFO,F - Tax,$35.18,-268,10978,-2%,"-$9,429",,,,,BMTC
+121,DM,2019-08-13 16:23:55,2019-08-11,BMTC,Harrington Michael W,CFO,M - OptEx,$0.00,970,10978,+10%,+$0,,,,,BMTC
+122,DM,2019-08-13 16:21:31,2019-08-11,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$35.19,-893,50509,-2%,"-$31,427",,,,,BMTC
+123,DM,2019-08-13 16:21:31,2019-08-11,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$0.00,2100,50509,+4%,+$0,,,,,BMTC
+124,DM,2019-08-13 16:17:17,2019-08-11,BMTC,Goldman Lori,"GC, Secretary",F - Tax,$35.18,-137,2334,-6%,"-$4,820",,,,,BMTC
+125,DM,2019-08-13 16:17:17,2019-08-11,BMTC,Goldman Lori,"GC, Secretary",M - OptEx,$0.00,498,2334,+27%,+$0,,,,,BMTC
+126,DM,2019-08-13 16:15:08,2019-08-11,BMTC,Jenkins Scott Mahaley,Dir,M - OptEx,$0.00,150,14789,+1%,+$0,,,,,BMTC
+127,DM,2019-08-13 16:09:49,2019-08-11,BMTC,Clement Michael Joseph,Dir,M - OptEx,$0.00,150,29651,+1%,+$0,,,,,BMTC
+128,DM,2019-08-13 16:08:26,2019-08-11,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",F - Tax,$35.19,-424,32581,-1%,"-$14,920",,,,,BMTC
+129,DM,2019-08-13 16:08:26,2019-08-11,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",M - OptEx,$0.00,972,32581,+3%,+$0,,,,,BMTC
+130,DM,2019-08-13 16:06:21,2019-08-11,BMTC,Gilbert Andrea F,Dir,M - OptEx,$0.00,150,26730,+1%,+$0,,,,,BMTC
+131,DM,2019-08-13 16:04:35,2019-08-11,BMTC,Murdoch Britton,Dir,M - OptEx,$0.00,216,29588,+1%,+$0,,,,,BMTC
+132,DM,2019-08-13 16:02:55,2019-08-11,BMTC,Holland Wendell F,Dir,M - OptEx,$0.00,150,14791,+1%,+$0,,,,,BMTC
+133,DM,2019-08-13 16:01:03,2019-08-11,BMTC,McKee Lynn,Dir,M - OptEx,$0.00,150,7639,+2%,+$0,,,,,BMTC
+134,D,2019-06-06 16:13:53,2019-06-05,BMTC,Holland Wendell F,Dir,M - OptEx,$18.27,4475,14641,+44%,"+$81,758",,,,,BMTC
+135,D,2019-06-06 16:13:53,2019-06-05,BMTC,Holland Wendell F,Dir,S - Sale+OE,$37.33,-4475,14641,-23%,"-$167,066",,,,,BMTC
+136,,2019-04-30 15:17:42,2019-04-26,BMTC,Murdoch Britton,Dir,A - Grant,$36.88,338,29372,+1%,"+$12,465",,,,,BMTC
+137,,2019-04-30 14:58:48,2019-04-26,BMTC,McKee Lynn,Dir,A - Grant,$36.88,338,7489,+5%,"+$12,465",,,,,BMTC
+138,,2019-04-30 14:12:02,2019-04-26,BMTC,Holland Wendell F,Dir,A - Grant,$36.88,338,14641,+2%,"+$12,465",,,,,BMTC
+139,,2019-04-30 14:08:56,2019-04-26,BMTC,Gilbert Andrea F,Dir,A - Grant,$36.88,338,26580,+1%,"+$12,465",,,,,BMTC
+140,,2019-04-30 13:41:53,2019-04-26,BMTC,Calderin Diego F.,Dir,A - Grant,$36.88,338,2680,+14%,"+$12,465",,,,,BMTC
+141,D,2019-02-21 16:33:25,2019-02-20,BMTC,Jenkins Scott Mahaley,Dir,M - OptEx,$18.27,4475,14639,+44%,"+$81,758",,,,,BMTC
+142,D,2019-02-21 16:33:25,2019-02-20,BMTC,Jenkins Scott Mahaley,Dir,S - Sale+OE,$40.03,-4475,14639,-23%,"-$179,146",,,,,BMTC
+143,D,2019-02-08 17:03:14,2019-02-07,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$38.19,-383,49123,-1%,"-$14,627",,,,,BMTC
+144,D,2019-02-08 17:03:14,2019-02-07,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$0.00,800,49123,+2%,+$0,,,,,BMTC
+145,D,2018-12-18 16:51:33,2018-12-15,BMTC,Tylus F Kevin,Pres of BMTC (Bank),F - Tax,$35.49,-1487,27544,-5%,"-$52,774",,,,,BMTC
+146,D,2018-12-18 16:51:33,2018-12-15,BMTC,Tylus F Kevin,Pres of BMTC (Bank),M - OptEx,$0.00,4400,27544,+19%,+$0,,,,,BMTC
+147,D,2018-12-18 16:47:10,2018-12-15,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",F - Tax,$35.49,-655,1728,-27%,"-$23,246",,,,,BMTC
+148,D,2018-12-18 16:47:10,2018-12-15,BMTC,Fox Jennifer Dempsey,"EVP of BMTC, a sub. of BMBC",M - OptEx,$0.00,2383,1728,-364%,+$0,,,,,BMTC
+149,,2018-12-07 10:58:37,2018-12-06,BMTC,Calderin Diego F.,Dir,P - Purchase,$35.25,600,2342,+34%,"+$21,150",,,,,BMTC
+150,,2018-10-09 17:07:25,2018-10-05,BMTC,Harrington Michael W,CFO,F - Tax,$46.11,-550,10276,-5%,"-$25,361",,,,,BMTC
+151,,2018-09-13 17:10:40,2018-09-13,BMTC,Holland Wendell F,Dir,S - Sale,$48.00,-1500,14303,-9%,"-$72,000",,,,,BMTC
+152,,2018-09-10 16:02:24,2018-09-07,BMTC,Tylus F Kevin,Pres of BMTC (Bank),S - Sale,$48.34,-7000,24631,-22%,"-$338,345",,,,,BMTC
+153,,2018-08-23 12:54:17,2018-08-22,BMTC,Leto Francis J,"Pres, CEO",S - Sale,$49.47,-8075,48651,-14%,"-$399,469",,,,,BMTC
+154,,2018-08-16 17:04:12,2018-08-15,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,2124,29034,+8%,+$0,,,,,BMTC
+155,M,2018-08-16 17:04:12,2018-08-14,BMTC,Murdoch Britton,Dir,S - Sale,$49.10,-9000,29034,-24%,"-$441,943",,,,,BMTC
+156,,2018-08-16 17:02:44,2018-08-15,BMTC,Teplica George M,Chief Credit Officer of BMTC,A - Grant,$0.00,2000,8604,+30%,+$0,,,,,BMTC
+157,,2018-08-16 17:02:44,2018-08-15,BMTC,Teplica George M,Chief Credit Officer of BMTC,F - Tax,$48.90,-550,8604,-6%,"-$26,895",,,,,BMTC
+158,,2018-08-16 17:01:15,2018-08-15,BMTC,Stryker Jennifer,"SVP of BMTC, a sub. of BMBC",A - Grant,$0.00,2000,2107,>999%,+$0,,,,,BMTC
+159,,2018-08-16 17:01:15,2018-08-15,BMTC,Stryker Jennifer,"SVP of BMTC, a sub. of BMBC",F - Tax,$48.90,-790,2107,-27%,"-$38,631",,,,,BMTC
+160,,2018-08-16 17:00:03,2018-08-15,BMTC,Goldman Lori,"GC, Secretary",A - Grant,$0.00,2000,1973,-7407%,+$0,,,,,BMTC
+161,,2018-08-16 17:00:03,2018-08-15,BMTC,Goldman Lori,"GC, Secretary",F - Tax,$48.90,-550,1973,-22%,"-$26,895",,,,,BMTC
+162,,2018-08-16 16:58:54,2018-08-15,BMTC,May A John III,Dir,A - Grant,$0.00,1500,13779,+12%,+$0,,,,,BMTC
+163,,2018-08-16 16:57:32,2018-08-15,BMTC,McKee Lynn,Dir,A - Grant,$0.00,1500,7151,+27%,+$0,,,,,BMTC
+164,,2018-08-16 16:56:24,2018-08-15,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,1500,14639,+11%,+$0,,,,,BMTC
+165,,2018-08-16 16:55:05,2018-08-15,BMTC,Holland Wendell F,Dir,A - Grant,$0.00,1500,15803,+10%,+$0,,,,,BMTC
+166,,2018-08-16 16:52:34,2018-08-15,BMTC,Gilbert Andrea F,Dir,A - Grant,$0.00,1500,26242,+6%,+$0,,,,,BMTC
+167,,2018-08-16 16:49:59,2018-08-15,BMTC,Clement Michael Joseph,Dir,A - Grant,$0.00,1500,29501,+5%,+$0,,,,,BMTC
+168,DM,2018-08-14 18:03:36,2018-08-11,BMTC,Stryker Jennifer,"SVP of BMTC, a sub. of BMBC",F - Tax,$48.60,-104,897,-10%,"-$5,054",,,,,BMTC
+169,DM,2018-08-14 18:03:36,2018-08-11,BMTC,Stryker Jennifer,"SVP of BMTC, a sub. of BMBC",M - OptEx,$0.00,260,897,+41%,+$0,,,,,BMTC
+170,DM,2018-08-14 18:01:27,2018-08-11,BMTC,Murdoch Britton,Dir,M - OptEx,$0.00,216,35910,+1%,+$0,,,,,BMTC
+171,DM,2018-08-14 17:58:34,2018-08-11,BMTC,Teplica George M,Chief Credit Officer of BMTC,F - Tax,$48.60,-130,7154,-2%,"-$6,318",,,,,BMTC
+172,DM,2018-08-14 17:58:34,2018-08-11,BMTC,Teplica George M,Chief Credit Officer of BMTC,M - OptEx,$0.00,467,7154,+7%,+$0,,,,,BMTC
+173,DM,2018-08-14 17:54:45,2018-08-11,BMTC,McKee Lynn,Dir,M - OptEx,$0.00,149,5651,+3%,+$0,,,,,BMTC
+174,DM,2018-08-14 17:50:13,2018-08-11,BMTC,May A John III,Dir,M - OptEx,$0.00,149,12279,+1%,+$0,,,,,BMTC
+175,DM,2018-08-14 17:49:59,2018-08-11,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",F - Tax,$48.60,-237,16954,-1%,"-$11,518",,,,,BMTC
+176,DM,2018-08-14 17:49:59,2018-08-11,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",M - OptEx,$0.00,827,16954,+5%,+$0,,,,,BMTC
+177,DM,2018-08-14 17:48:13,2018-08-11,BMTC,Jenkins Scott Mahaley,Dir,M - OptEx,$0.00,149,25196,+1%,+$0,,,,,BMTC
+178,DM,2018-08-14 17:47:28,2018-08-11,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$48.60,-893,56726,-2%,"-$43,400",,,,,BMTC
+179,DM,2018-08-14 17:47:28,2018-08-11,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$0.00,2100,56726,+4%,+$0,,,,,BMTC
+180,DM,2018-08-14 17:46:28,2018-08-11,BMTC,Harrington Michael W,CFO,F - Tax,$48.60,-268,10826,-2%,"-$13,025",,,,,BMTC
+181,DM,2018-08-14 17:46:28,2018-08-11,BMTC,Harrington Michael W,CFO,M - OptEx,$0.00,970,10826,+10%,+$0,,,,,BMTC
+182,DM,2018-08-14 17:44:42,2018-08-11,BMTC,Goldman Lori,"GC, Secretary",F - Tax,$48.60,-137,523,-21%,"-$6,658",,,,,BMTC
+183,DM,2018-08-14 17:44:42,2018-08-11,BMTC,Goldman Lori,"GC, Secretary",M - OptEx,$0.00,497,523,>999%,+$0,,,,,BMTC
+184,DM,2018-08-14 17:42:25,2018-08-11,BMTC,Holland Wendell F,Dir,M - OptEx,$0.00,149,14303,+1%,+$0,,,,,BMTC
+185,DM,2018-08-14 17:41:27,2018-08-11,BMTC,Gilbert Andrea F,Dir,M - OptEx,$23.28,3649,24742,+17%,"+$84,945",,,,,BMTC
+186,D,2018-08-14 17:41:27,2018-08-14,BMTC,Gilbert Andrea F,Dir,S - Sale+OE,$48.83,-3500,24742,-12%,"-$170,895",,,,,BMTC
+187,DM,2018-08-14 17:39:44,2018-08-11,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",F - Tax,$48.60,-424,31750,-1%,"-$20,606",,,,,BMTC
+188,DM,2018-08-14 17:39:44,2018-08-11,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",M - OptEx,$0.00,972,31750,+3%,+$0,,,,,BMTC
+189,DM,2018-08-14 17:37:24,2018-08-11,BMTC,Clement Michael Joseph,Dir,M - OptEx,$0.00,149,28001,+1%,+$0,,,,,BMTC
+190,,2018-07-26 12:04:20,2018-07-24,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",S - Sale,$48.87,-2040,16364,-11%,"-$99,688",,,,,BMTC
+191,,2018-07-26 09:45:37,2018-07-24,BMTC,Calderin Diego F.,Dir,P - Purchase,$48.75,400,1742,+30%,"+$19,500",,,,,BMTC
+192,D,2018-07-03 16:34:24,2018-07-01,BMTC,Teplica George M,Chief Credit Officer of BMTC,F - Tax,$46.30,-487,6803,-7%,"-$22,548",,,,,BMTC
+193,D,2018-07-03 16:34:24,2018-07-01,BMTC,Teplica George M,Chief Credit Officer of BMTC,M - OptEx,$0.00,1500,6803,+28%,+$0,,,,,BMTC
+194,DM,2018-05-07 16:58:17,2018-05-03,BMTC,Jenkins Scott Mahaley,Dir,M - OptEx,$24.27,3500,12990,+37%,"+$84,945",,,,,BMTC
+195,DM,2018-05-07 16:58:17,2018-05-03,BMTC,Jenkins Scott Mahaley,Dir,S - Sale+OE,$44.55,-3500,12990,-21%,"-$155,935",,,,,BMTC
+196,,2018-05-01 17:11:27,2018-04-27,BMTC,Murdoch Britton,Dir,A - Grant,$45.65,273,35694,+1%,"+$12,462",,,,,BMTC
+197,,2018-05-01 17:08:39,2018-04-27,BMTC,McKee Lynn,Dir,A - Grant,$45.65,273,5502,+5%,"+$12,462",,,,,BMTC
+198,,2018-05-01 16:52:59,2018-04-27,BMTC,Gilbert Andrea F,Dir,A - Grant,$45.65,273,24593,+1%,"+$12,462",,,,,BMTC
+199,,2018-05-01 16:50:25,2018-04-27,BMTC,Calderin Diego F.,Dir,A - Grant,$45.65,342,1342,+34%,"+$15,612",,,,,BMTC
+200,,2018-03-02 08:56:28,2018-02-05,BMTC,Calderin Diego F.,Dir,P - Purchase,$45.99,1000,1000,New,"+$45,993",,,,,BMTC
+201,D,2018-02-22 16:54:29,2018-02-20,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$44.89,-7050,55412,-11%,"-$316,448",,,,,BMTC
+202,D,2018-02-22 16:54:29,2018-02-20,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$18.27,11500,55412,+26%,"+$210,105",,,,,BMTC
+203,D,2018-02-20 17:04:02,2018-02-16,BMTC,Holland Wendell F,Dir,M - OptEx,$24.27,3500,14154,+33%,"+$84,945",,,,,BMTC
+204,D,2018-02-20 17:04:02,2018-02-16,BMTC,Holland Wendell F,Dir,S - Sale+OE,$45.03,-3500,14154,-20%,"-$157,620",,,,,BMTC
+205,D,2018-02-09 16:47:45,2018-02-07,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$43.95,11000,50956,+28%,"+$483,450",,,,,BMTC
+206,D,2018-02-09 16:47:45,2018-02-07,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$43.95,-4733,50956,-8%,"-$208,015",,,,,BMTC
+207,,2018-02-09 16:44:22,2018-02-07,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",A - Grant,$43.95,6000,20324,+42%,"+$263,700",,,,,BMTC
+208,,2018-02-09 16:44:22,2018-02-07,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",F - Tax,$43.95,-2708,20324,-12%,"-$119,017",,,,,BMTC
+209,,2018-02-09 16:41:54,2018-02-07,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",A - Grant,$43.95,7000,30924,+29%,"+$307,650",,,,,BMTC
+210,,2018-02-09 16:41:54,2018-02-07,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",F - Tax,$43.95,-3137,30924,-9%,"-$137,871",,,,,BMTC
+211,,2018-02-09 16:39:52,2018-02-08,BMTC,Clement Michael Joseph,Dir,P - Purchase,$43.84,2800,30652,+10%,"+$122,763",,,,,BMTC
+212,D,2017-12-19 18:46:44,2017-12-15,BMTC,Tylus F Kevin,Pres of BMTC (Bank),A - Grant,$0.00,31631,31631,New,+$0,,,,,BMTC
+213,D,2017-10-26 14:29:51,2017-10-24,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",M - OptEx,$18.27,11500,16990,+209%,"+$210,105",,,,,BMTC
+214,D,2017-10-26 14:29:51,2017-10-24,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",S - Sale+OE,$44.18,-11500,16990,-40%,"-$508,034",,,,,BMTC
+215,,2017-10-10 18:41:06,2017-10-05,BMTC,Harrington Michael W,CFO,F - Tax,$44.65,-610,10124,-6%,"-$27,237",,,,,BMTC
+216,,2017-09-19 16:44:55,2017-09-15,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$0.00,2500,44676,+6%,+$0,,,,,BMTC
+217,,2017-09-19 16:44:55,2017-09-15,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$40.65,-1128,44676,-2%,"-$45,853",,,,,BMTC
+218,,2017-09-06 09:59:45,2017-09-01,BMTC,Teplica George M,Chief Credit Officer of BMTC,P - Purchase,$41.02,15,5702,0%,+$608,,,,,BMTC
+219,,2017-09-06 09:58:25,2017-09-02,BMTC,Madeira Harry Rosengarten Jr.,"EVP of BMTC, a sub. of BMBC",F - Tax,$41.00,-305,4059,-7%,"-$12,505",,,,,BMTC
+220,,2017-08-16 06:52:41,2017-08-15,BMTC,Gilbert Andrea F,Dir,A - Grant,$0.00,1500,24320,+7%,+$0,,,,,BMTC
+221,,2017-08-16 06:49:59,2017-08-15,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",A - Grant,$0.00,5000,21918,+30%,+$0,,,,,BMTC
+222,,2017-08-16 06:49:59,2017-08-15,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",F - Tax,$41.75,-2275,21918,-9%,"-$94,981",,,,,BMTC
+223,,2017-08-16 06:48:20,2017-08-15,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$0.00,9870,43270,+30%,+$0,,,,,BMTC
+224,,2017-08-16 06:48:20,2017-08-15,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$41.75,-4451,43270,-9%,"-$185,829",,,,,BMTC
+225,,2017-08-16 06:45:25,2017-08-15,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",A - Grant,$0.00,6000,26927,+29%,+$0,,,,,BMTC
+226,,2017-08-16 06:45:25,2017-08-15,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",F - Tax,$41.75,-2730,26927,-9%,"-$113,978",,,,,BMTC
+227,,2017-08-16 06:43:15,2017-08-15,BMTC,Holland Wendell F,Dir,A - Grant,$0.00,1500,14154,+12%,+$0,,,,,BMTC
+228,,2017-08-16 06:39:34,2017-08-15,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,1500,12990,+13%,+$0,,,,,BMTC
+229,,2017-08-16 06:37:40,2017-08-15,BMTC,Johnson Jerry L,Dir,A - Grant,$0.00,1500,7158,+27%,+$0,,,,,BMTC
+230,,2017-08-16 06:35:44,2017-08-15,BMTC,Lees David E,Dir,A - Grant,$0.00,1500,22734,+7%,+$0,,,,,BMTC
+231,,2017-08-16 06:33:50,2017-08-15,BMTC,McKee Lynn,Dir,A - Grant,$0.00,1500,5229,+40%,+$0,,,,,BMTC
+232,,2017-08-16 06:29:24,2017-08-15,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,2164,35421,+7%,+$0,,,,,BMTC
+233,D,2017-08-15 18:37:42,2017-08-12,BMTC,Gilbert Andrea F,Dir,M - OptEx,$0.00,82,22820,0%,+$0,,,,,BMTC
+234,D,2017-08-15 18:34:43,2017-08-12,BMTC,Madeira Harry Rosengarten Jr.,"EVP of BMTC, a sub. of BMBC",F - Tax,$41.65,-103,4364,-2%,"-$4,290",,,,,BMTC
+235,D,2017-08-15 18:34:43,2017-08-12,BMTC,Madeira Harry Rosengarten Jr.,"EVP of BMTC, a sub. of BMBC",M - OptEx,$0.00,335,4364,+8%,+$0,,,,,BMTC
+236,D,2017-08-15 18:32:59,2017-08-12,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",F - Tax,$41.65,-204,23657,-1%,"-$8,497",,,,,BMTC
+237,D,2017-08-15 18:32:59,2017-08-12,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",M - OptEx,$0.00,447,23657,+2%,+$0,,,,,BMTC
+238,D,2017-08-15 18:31:10,2017-08-12,BMTC,Harrington Michael W,CFO,F - Tax,$41.65,-145,10734,-1%,"-$6,039",,,,,BMTC
+239,D,2017-08-15 18:31:10,2017-08-12,BMTC,Harrington Michael W,CFO,M - OptEx,$0.00,474,10734,+5%,+$0,,,,,BMTC
+240,D,2017-08-15 18:29:28,2017-08-12,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",F - Tax,$41.65,-161,19193,-1%,"-$6,706",,,,,BMTC
+241,D,2017-08-15 18:29:28,2017-08-12,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",M - OptEx,$0.00,352,19193,+2%,+$0,,,,,BMTC
+242,D,2017-08-15 18:27:50,2017-08-12,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$41.65,-412,37851,-1%,"-$17,160",,,,,BMTC
+243,D,2017-08-15 18:27:50,2017-08-12,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$0.00,913,37851,+2%,+$0,,,,,BMTC
+244,D,2017-08-15 18:26:04,2017-08-12,BMTC,Clement Michael Joseph,Dir,M - OptEx,$0.00,82,27852,0%,+$0,,,,,BMTC
+245,D,2017-08-15 18:24:28,2017-08-12,BMTC,Holland Wendell F,Dir,M - OptEx,$0.00,82,12654,+1%,+$0,,,,,BMTC
+246,D,2017-08-15 18:22:46,2017-08-12,BMTC,Jenkins Scott Mahaley,Dir,M - OptEx,$0.00,82,11490,+1%,+$0,,,,,BMTC
+247,D,2017-08-15 18:21:08,2017-08-12,BMTC,Johnson Jerry L,Dir,M - OptEx,$0.00,82,5658,+1%,+$0,,,,,BMTC
+248,D,2017-08-15 18:19:16,2017-08-12,BMTC,Lees David E,Dir,M - OptEx,$0.00,82,21234,0%,+$0,,,,,BMTC
+249,D,2017-08-15 18:17:22,2017-08-12,BMTC,May A John III,Dir,M - OptEx,$0.00,82,12130,+1%,+$0,,,,,BMTC
+250,D,2017-08-15 18:14:53,2017-08-12,BMTC,McKee Lynn,Dir,M - OptEx,$0.00,82,3729,+2%,+$0,,,,,BMTC
+251,D,2017-08-15 18:12:54,2017-08-12,BMTC,Murdoch Britton,Dir,M - OptEx,$0.00,119,33257,0%,+$0,,,,,BMTC
+252,D,2017-07-28 06:41:42,2017-07-26,BMTC,Gilbert Andrea F,Dir,M - OptEx,$22.00,3500,22738,+18%,"+$77,000",,,,,BMTC
+253,D,2017-07-28 06:41:42,2017-07-26,BMTC,Gilbert Andrea F,Dir,S - Sale+OE,$44.09,-1775,22738,-7%,"-$78,264",,,,,BMTC
+254,D,2017-07-27 09:31:00,2017-07-26,BMTC,Jenkins Scott Mahaley,Dir,M - OptEx,$22.00,3500,11408,+44%,"+$77,000",,,,,BMTC
+255,D,2017-07-27 09:31:00,2017-07-26,BMTC,Jenkins Scott Mahaley,Dir,S - Sale+OE,$43.75,-3500,11408,-23%,"-$153,120",,,,,BMTC
+256,,2017-05-08 17:30:47,2017-05-05,BMTC,Lees David E,Dir,G - Gift,$0.00,-5000,21152,-19%,-$0,0.0,0.0,,,BMTC
+257,,2017-05-02 17:31:11,2017-04-28,BMTC,Murdoch Britton,Dir,A - Grant,$42.80,292,33138,+1%,"+$12,498",0.0,1.0,,,BMTC
+258,,2017-05-02 17:28:48,2017-04-28,BMTC,McKee Lynn,Dir,A - Grant,$42.80,292,3647,+9%,"+$12,498",0.0,1.0,,,BMTC
+259,,2017-05-02 17:24:20,2017-04-28,BMTC,Lees David E,Dir,A - Grant,$42.80,292,26152,+1%,"+$12,498",0.0,1.0,,,BMTC
+260,,2017-05-02 17:21:47,2017-04-28,BMTC,Johnson Jerry L,Dir,A - Grant,$42.80,292,5576,+6%,"+$12,498",0.0,1.0,,,BMTC
+261,,2017-05-02 17:09:48,2017-04-28,BMTC,Gilbert Andrea F,Dir,A - Grant,$42.80,292,21013,+1%,"+$12,498",0.0,1.0,,,BMTC
+262,,2017-04-26 16:20:18,2017-04-25,BMTC,Lees David E,Dir,G - Gift,$0.00,-3510,25860,-12%,-$0,0.0,-2.0,,,BMTC
+263,D,2017-04-25 15:44:52,2017-04-24,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$42.76,-3470,37239,-9%,"-$148,384",0.0,1.0,,,BMTC
+264,D,2017-04-25 15:44:52,2017-04-24,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$24.27,5264,37239,+16%,"+$127,757",0.0,1.0,,,BMTC
+265,,2017-03-03 17:13:51,2017-03-02,BMTC,Madeira Harry Rosengarten Jr.,"EVP of BMTC, a sub. of BMBC",F - Tax,$42.00,-442,4132,-10%,"-$18,564",-1.0,-3.0,-4.0,,BMTC
+266,D,2017-02-16 11:39:07,2017-02-14,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",M - OptEx,$24.27,9000,18926,+91%,"+$218,430",0.0,0.0,-3.0,,BMTC
+267,D,2017-02-16 11:39:07,2017-02-14,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",S - Sale+OE,$40.75,-9000,18926,-32%,"-$366,740",0.0,0.0,-3.0,,BMTC
+268,D,2017-02-16 09:25:25,2017-02-14,BMTC,Holland Wendell F,Dir,M - OptEx,$22.00,3500,12572,+39%,"+$77,000",0.0,0.0,-3.0,,BMTC
+269,D,2017-02-16 09:25:25,2017-02-14,BMTC,Holland Wendell F,Dir,S - Sale+OE,$41.02,-3500,12572,-22%,"-$143,586",0.0,0.0,-3.0,,BMTC
+270,,2017-02-15 16:50:45,2017-02-14,BMTC,Harrington Michael W,CFO,P - Purchase,$41.06,1000,10405,+11%,"+$41,060",0.0,0.0,-3.0,,BMTC
+271,AM,2017-02-02 12:58:35,2016-03-08,BMTC,Madeira Harry Rosengarten Jr.,"EVP of BMTC, a sub. of BMBC",F - Tax,$27.53,-1426,5581,-20%,"-$39,256",0.0,0.0,2.0,,BMTC
+272,D,2016-12-06 10:04:33,2016-12-05,BMTC,Murdoch Britton,Dir,M - OptEx,$20.21,10832,33203,+48%,"+$218,901",2.0,4.0,7.0,,BMTC
+273,D,2016-12-06 10:04:33,2016-12-05,BMTC,Murdoch Britton,Dir,S - Sale+OE,$38.04,-9000,33203,-21%,"-$342,369",2.0,4.0,7.0,,BMTC
+274,D,2016-11-23 16:05:00,2016-11-23,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",F - Tax,$35.69,-7200,24451,-23%,"-$256,972",0.0,2.0,15.0,,BMTC
+275,D,2016-11-23 16:05:00,2016-11-23,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",M - OptEx,$22.00,9000,24451,+58%,"+$198,000",0.0,2.0,15.0,,BMTC
+276,,2016-11-23 09:01:06,2016-11-22,BMTC,Johnson Jerry L,Dir,S - Sale,$35.50,-2500,5531,-31%,"-$88,760",1.0,2.0,16.0,,BMTC
+277,,2016-11-16 13:26:50,2016-10-06,BMTC,Harrington Michael W,CFO,F - Tax,$31.54,-610,10814,-5%,"-$19,239",0.0,3.0,16.0,,BMTC
+278,M,2016-11-16 13:22:41,2016-03-08,BMTC,Madeira Harry Rosengarten Jr.,"EVP of BMTC, a sub. of BMBC",F - Tax,$27.53,-1426,5582,-20%,"-$39,256",0.0,3.0,16.0,,BMTC
+279,,2016-11-15 11:58:42,2016-11-14,BMTC,Lees David E,Dir,G - Gift,$0.00,-2000,29617,-6%,-$0,1.0,2.0,15.0,,BMTC
+280,D,2016-11-03 09:11:50,2016-11-01,BMTC,Peters Frederick C II,Dir,M - OptEx,$22.00,18000,40380,+80%,"+$396,000",1.0,7.0,23.0,41.0,BMTC
+281,D,2016-11-03 09:11:50,2016-11-01,BMTC,Peters Frederick C II,Dir,S - Sale+OE,$30.58,-22015,40380,-35%,"-$673,298",1.0,7.0,23.0,41.0,BMTC
+282,,2016-09-20 14:10:37,2016-09-16,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$0.00,1372,38083,+4%,+$0,0.0,0.0,-1.0,22.0,BMTC
+283,,2016-08-29 10:15:44,2016-08-26,BMTC,Peters Frederick C II,Dir,S - Sale,$31.74,-5229,44395,-11%,"-$165,982",0.0,1.0,-1.0,30.0,BMTC
+284,D,2016-08-22 15:00:30,2016-08-18,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",A - Grant,$0.00,2316,19969,+13%,+$0,0.0,3.0,1.0,37.0,BMTC
+285,D,2016-08-22 15:00:30,2016-08-18,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",M - OptEx,$22.00,9000,19969,+82%,"+$198,000",0.0,3.0,1.0,37.0,BMTC
+286,D,2016-08-22 15:00:30,2016-08-18,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",S - Sale+OE,$30.62,-10000,19969,-33%,"-$306,218",0.0,3.0,1.0,37.0,BMTC
+287,,2016-08-22 14:56:03,2016-08-18,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",A - Grant,$0.00,2290,22640,+11%,+$0,0.0,3.0,1.0,37.0,BMTC
+288,,2016-08-22 14:50:42,2016-08-18,BMTC,Peters Frederick C II,Dir,A - Grant,$0.00,5229,49624,+12%,+$0,0.0,3.0,1.0,37.0,BMTC
+289,,2016-08-22 14:47:25,2016-08-18,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,1909,31371,+6%,+$0,0.0,3.0,1.0,37.0,BMTC
+290,,2016-08-22 14:44:43,2016-08-18,BMTC,McKee Lynn,Dir,A - Grant,$0.00,1274,3602,+55%,+$0,0.0,3.0,1.0,37.0,BMTC
+291,,2016-08-22 14:42:36,2016-08-18,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$0.00,2333,36704,+7%,+$0,0.0,3.0,1.0,37.0,BMTC
+292,,2016-08-22 14:38:53,2016-08-18,BMTC,Lees David E,Dir,A - Grant,$0.00,1274,31617,+4%,+$0,0.0,3.0,1.0,37.0,BMTC
+293,,2016-08-22 14:36:11,2016-08-18,BMTC,Johnson Jerry L,Dir,A - Grant,$0.00,1274,8031,+19%,+$0,0.0,3.0,1.0,37.0,BMTC
+294,,2016-08-22 14:33:27,2016-08-18,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,1274,11655,+12%,+$0,0.0,3.0,1.0,37.0,BMTC
+295,,2016-08-22 14:29:45,2016-08-18,BMTC,Holland Wendell F,Dir,A - Grant,$0.00,1274,12819,+11%,+$0,0.0,3.0,1.0,37.0,BMTC
+296,,2016-08-22 14:27:05,2016-08-18,BMTC,Gilbert Andrea F,Dir,A - Grant,$0.00,1274,20968,+6%,+$0,0.0,3.0,1.0,37.0,BMTC
+297,,2016-08-16 17:04:15,2016-08-12,BMTC,Madeira Harry Rosengarten Jr.,"EVP of BMTC, a sub. of BMBC",A - Grant,$0.00,1007,7007,+17%,+$0,0.0,1.0,2.0,35.0,BMTC
+298,,2016-08-16 17:02:18,2016-08-12,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",A - Grant,$0.00,1056,18659,+6%,+$0,0.0,1.0,2.0,35.0,BMTC
+299,,2016-08-16 17:00:29,2016-08-12,BMTC,Harrington Michael W,CFO,A - Grant,$0.00,1424,11424,+14%,+$0,0.0,1.0,2.0,35.0,BMTC
+300,,2016-08-16 16:58:21,2016-08-12,BMTC,Eichert Alison,"EVP, COO, BMTC a sub. of BMBC",A - Grant,$0.00,1341,20355,+7%,+$0,0.0,1.0,2.0,35.0,BMTC
+301,,2016-08-16 16:56:28,2016-08-12,BMTC,Peters Frederick C II,Dir,A - Grant,$0.00,247,44395,+1%,+$0,0.0,1.0,2.0,35.0,BMTC
+302,,2016-08-16 16:54:30,2016-08-12,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,357,29462,+1%,+$0,0.0,1.0,2.0,35.0,BMTC
+303,,2016-08-16 16:51:19,2016-08-12,BMTC,McKee Lynn,Dir,A - Grant,$0.00,247,2328,+12%,+$0,0.0,1.0,2.0,35.0,BMTC
+304,,2016-08-16 16:48:03,2016-08-12,BMTC,May A John III,Dir,A - Grant,$0.00,247,12295,+2%,+$0,0.0,1.0,2.0,35.0,BMTC
+305,,2016-08-16 16:45:12,2016-08-12,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$0.00,2739,34371,+9%,+$0,0.0,1.0,2.0,35.0,BMTC
+306,,2016-08-16 16:42:57,2016-08-12,BMTC,Lees David E,Dir,A - Grant,$0.00,247,30343,+1%,+$0,0.0,1.0,2.0,35.0,BMTC
+307,,2016-08-16 16:40:46,2016-08-12,BMTC,Johnson Jerry L,Dir,A - Grant,$0.00,247,6757,+4%,+$0,0.0,1.0,2.0,35.0,BMTC
+308,,2016-08-16 16:38:35,2016-08-12,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,247,10381,+2%,+$0,0.0,1.0,2.0,35.0,BMTC
+309,,2016-08-16 16:30:01,2016-08-12,BMTC,Holland Wendell F,Dir,A - Grant,$0.00,247,11545,+2%,+$0,0.0,1.0,2.0,35.0,BMTC
+310,,2016-08-16 16:27:44,2016-08-12,BMTC,Gilbert Andrea F,Dir,A - Grant,$0.00,247,19694,+1%,+$0,0.0,1.0,2.0,35.0,BMTC
+311,,2016-08-16 16:23:57,2016-08-12,BMTC,Clement Michael Joseph,Dir,A - Grant,$0.00,247,28017,+1%,+$0,0.0,1.0,2.0,35.0,BMTC
+312,AD,2016-08-04 15:58:58,2016-08-01,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$29.14,-2500,31817,-7%,"-$72,850",0.0,4.0,10.0,40.0,BMTC
+313,AD,2016-08-04 15:58:58,2016-08-01,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$22.00,3500,31817,+12%,"+$77,000",0.0,4.0,10.0,40.0,BMTC
+314,D,2016-08-02 14:32:29,2016-08-01,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$29.14,-2500,31483,-7%,"-$72,850",0.0,3.0,11.0,39.0,BMTC
+315,D,2016-08-02 14:32:29,2016-08-01,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$22.00,3500,31483,+13%,"+$77,000",0.0,3.0,11.0,39.0,BMTC
+316,D,2016-06-21 13:41:11,2016-06-20,BMTC,Lees David E,Dir,M - OptEx,$19.91,7975,30096,+36%,"+$158,758",1.0,-4.0,1.0,41.0,BMTC
+317,D,2016-06-08 10:43:12,2016-06-06,BMTC,Jenkins Scott Mahaley,Dir,M - OptEx,$21.74,2625,10134,+35%,"+$57,068",1.0,-1.0,-6.0,30.0,BMTC
+318,,2016-05-16 16:42:28,2016-05-12,BMTC,Clement Michael Joseph,Dir,P - Purchase,$28.30,2000,27770,+8%,"+$56,600",-1.0,2.0,5.0,18.0,BMTC
+319,D,2016-05-13 13:26:37,2016-05-11,BMTC,Halberstadt Geoffrey L,"EVP of BMTC, a sub. of BMBC",M - OptEx,$24.27,4250,12528,+51%,"+$103,148",-1.0,2.0,7.0,17.0,BMTC
+320,D,2016-05-13 13:26:37,2016-05-11,BMTC,Halberstadt Geoffrey L,"EVP of BMTC, a sub. of BMBC",S - Sale+OE,$28.60,-4250,12528,-25%,"-$121,550",-1.0,2.0,7.0,17.0,BMTC
+321,,2016-02-17 14:56:26,2016-02-17,BMTC,Harrington Michael W,CFO,P - Purchase,$25.15,1000,10000,+11%,"+$25,150",1.0,1.0,1.0,24.0,BMTC
+322,,2016-01-28 11:46:49,2016-01-27,BMTC,Murdoch Britton,Dir,P - Purchase,$25.50,5000,28673,+21%,"+$127,500",3.0,0.0,1.0,19.0,BMTC
+323,D,2015-12-11 16:55:21,2015-12-11,BMTC,Connolly Marie D,Chief Accounting Officer,M - OptEx,$21.21,2000,6818,+42%,"+$42,420",1.0,4.0,3.0,9.0,BMTC
+324,D,2015-12-11 16:55:21,2015-12-11,BMTC,Connolly Marie D,Chief Accounting Officer,S - Sale+OE,$28.01,-2000,6818,-23%,"-$56,010",1.0,4.0,3.0,9.0,BMTC
+325,,2015-12-09 14:06:46,2015-12-07,BMTC,Harrington Michael W,CFO,P - Purchase,$28.98,2000,9000,+29%,"+$57,960",1.0,4.0,1.0,8.0,BMTC
+326,D,2015-12-02 16:11:28,2015-12-02,BMTC,Gilbert Andrea F,Dir,M - OptEx,$21.21,3500,19015,+23%,"+$74,235",-2.0,-5.0,-3.0,2.0,BMTC
+327,D,2015-12-02 16:11:28,2015-12-02,BMTC,Gilbert Andrea F,Dir,S - Sale+OE,$29.81,-2500,19015,-12%,"-$74,534",-2.0,-5.0,-3.0,2.0,BMTC
+328,,2015-11-06 13:14:48,2015-11-04,BMTC,Harrington Michael W,"CFO, Treasurer",P - Purchase,$29.96,1000,7000,+17%,"+$29,960",1.0,-2.0,-4.0,-4.0,BMTC
+329,D,2015-11-04 16:29:50,2015-11-02,BMTC,Leto Francis J,"Pres, CEO",F - Tax,$29.13,-1164,30483,-4%,"-$33,907",0.0,0.0,-2.0,-5.0,BMTC
+330,D,2015-11-04 16:29:50,2015-11-02,BMTC,Leto Francis J,"Pres, CEO",M - OptEx,$21.21,3500,30483,+13%,"+$74,235",0.0,0.0,-2.0,-5.0,BMTC
+331,,2015-10-30 10:51:37,2015-10-29,BMTC,Peters Frederick C II,Dir,G - Gift,$0.00,-1000,43716,-2%,-$0,-3.0,0.0,-1.0,-3.0,BMTC
+332,A,2015-10-29 16:00:05,2015-08-18,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,946,7509,+14%,+$0,-3.0,0.0,-1.0,-4.0,BMTC
+333,A,2015-10-29 15:54:06,2015-08-18,BMTC,Takats David M,CFO,A - Grant,$0.00,106,4275,+3%,+$0,-1.0,-2.0,-3.0,-6.0,BMTC
+334,A,2015-10-29 15:48:33,2015-07-27,BMTC,Takats David M,CFO,A - Grant,$0.00,2000,4169,+92%,+$0,-1.0,-2.0,-3.0,-6.0,BMTC
+335,,2015-10-29 15:11:29,2015-10-28,BMTC,Peters Frederick C II,Dir,G - Gift,$0.00,-2000,44716,-4%,-$0,-1.0,-2.0,-3.0,-6.0,BMTC
+336,,2015-09-25 11:22:31,2015-09-25,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$0.00,1372,28147,+5%,+$0,0.0,0.0,-3.0,-17.0,BMTC
+337,,2015-09-14 16:13:34,2015-09-11,BMTC,Peters Frederick C II,Dir,S - Sale,$30.12,-5998,46716,-11%,"-$180,660",2.0,0.0,3.0,-14.0,BMTC
+338,,2015-08-19 17:47:38,2015-08-18,BMTC,Takats David M,CFO,A - Grant,$0.00,106,2186,+5%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+339,,2015-08-19 17:43:04,2015-08-18,BMTC,Peters Frederick C II,Dir,A - Grant,$0.00,4015,46541,+9%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+340,,2015-08-19 17:32:19,2015-08-18,BMTC,Keefer Joseph G,"EVP of BMTC, a sub. of BMBC",A - Grant,$0.00,1718,4193,+69%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+341,,2015-08-19 17:29:02,2015-08-18,BMTC,Halberstadt Geoffrey L,Secretary,A - Grant,$0.00,2159,7609,+40%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+342,,2015-08-19 17:26:05,2015-08-18,BMTC,Gers Alison,"EVP, COO, BMTC a sub. of BMBC",A - Grant,$0.00,1699,9919,+21%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+343,,2015-08-19 17:22:30,2015-08-18,BMTC,Connolly Marie D,Chief Accounting Officer,A - Grant,$0.00,615,3492,+21%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+344,,2015-08-19 17:19:21,2015-08-18,BMTC,Leto Francis J,"Pres, CEO",A - Grant,$0.00,1731,26775,+7%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+345,,2015-08-19 17:16:15,2015-08-18,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,1480,23673,+7%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+346,,2015-08-19 17:11:07,2015-08-18,BMTC,Lees David E,Dir,A - Grant,$0.00,946,21689,+5%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+347,,2015-08-19 17:06:12,2015-08-18,BMTC,Johnson Jerry L,Dir,A - Grant,$0.00,946,6078,+18%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+348,,2015-08-19 17:03:18,2015-08-18,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,946,6509,+17%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+349,,2015-08-19 16:55:21,2015-08-18,BMTC,Holland Wendell F,Dir,A - Grant,$0.00,946,11298,+9%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+350,,2015-08-19 16:50:55,2015-08-18,BMTC,Gilbert Andrea F,Dir,A - Grant,$0.00,946,18015,+6%,+$0,-1.0,-6.0,2.0,-15.0,BMTC
+351,,2015-07-27 14:58:15,2015-07-27,BMTC,Takats David M,CFO,A - Grant,$0.00,2000,2080,>999%,+$0,0.0,1.0,0.0,-9.0,BMTC
+352,,2015-07-27 14:38:01,2015-07-27,BMTC,Connolly Marie D,Chief Accounting Officer,A - Grant,$0.00,2000,2877,+228%,+$0,0.0,1.0,0.0,-9.0,BMTC
+353,A,2015-06-25 14:26:52,2014-08-18,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,2493,21771,+13%,+$0,0.0,-1.0,-6.0,-5.0,BMTC
+354,D,2015-06-11 15:00:20,2015-06-11,BMTC,Halberstadt Geoffrey L,Secretary,M - OptEx,$21.21,6000,5450,-1091%,"+$127,260",0.0,-1.0,-1.0,-6.0,BMTC
+355,D,2015-06-11 15:00:20,2015-06-11,BMTC,Halberstadt Geoffrey L,Secretary,S - Sale+OE,$30.26,-6000,5450,-52%,"-$181,575",0.0,-1.0,-1.0,-6.0,BMTC
+356,D,2015-06-05 15:24:30,2015-06-05,BMTC,Peters Frederick C II,Dir,M - OptEx,$21.21,24000,42526,+130%,"+$509,040",1.0,4.0,4.0,3.0,BMTC
+357,D,2015-06-05 15:24:30,2015-06-05,BMTC,Peters Frederick C II,Dir,S - Sale+OE,$29.30,-24000,42526,-36%,"-$703,186",1.0,4.0,4.0,3.0,BMTC
+358,D,2015-05-15 15:51:10,2015-05-14,BMTC,Keefer Joseph G,EVP of BMTC a sub. of BMBC,M - OptEx,$21.21,12000,2475,-126%,"+$254,520",-1.0,0.0,3.0,2.0,BMTC
+359,D,2015-05-15 15:51:10,2015-05-14,BMTC,Keefer Joseph G,EVP of BMTC a sub. of BMBC,S - Sale+OE,$29.53,-13250,2475,-84%,"-$391,278",-1.0,0.0,3.0,2.0,BMTC
+360,M,2015-05-06 15:09:39,2015-01-20,BMTC,Peters Frederick C II,Dir,W - Inherited,$0.00,10554,48524,-18%,$0,1.0,1.0,0.0,3.0,BMTC
+361,D,2015-03-23 13:38:31,2015-03-23,BMTC,Gilbert Andrea F,Dir,M - OptEx,$18.91,3500,16647,+27%,"+$66,185",-1.0,-1.0,2.0,0.0,BMTC
+362,,2015-03-13 12:55:27,2015-03-13,BMTC,Guthrie Donald S,Dir,S - Sale,$29.75,-10000,71484,-12%,"-$297,453",-1.0,0.0,2.0,3.0,BMTC
+363,D,2015-03-12 16:30:47,2015-03-12,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,M - OptEx,$19.77,23500,8220,-154%,"+$464,625",-1.0,0.0,2.0,1.0,BMTC
+364,D,2015-03-12 16:30:47,2015-03-12,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,S - Sale+OE,$29.61,-23500,8220,-74%,"-$695,779",-1.0,0.0,2.0,1.0,BMTC
+365,,2015-03-03 10:13:22,2015-03-02,BMTC,Madeira Harry Rosengarten Jr.,EVP of BMTC a sub. of BMBC,A - Grant,$30.04,3000,6000,+100%,"+$90,120",-1.0,-1.0,1.0,-1.0,BMTC
+366,D,2015-02-06 17:00:04,2015-02-06,BMTC,Peters Frederick C II,Dir,M - OptEx,$18.91,30000,38776,+342%,"+$567,300",-1.0,-2.0,-3.0,-4.0,BMTC
+367,D,2015-02-06 17:00:04,2015-02-06,BMTC,Peters Frederick C II,Dir,S - Sale+OE,$30.42,-30000,38776,-44%,"-$912,651",-1.0,-2.0,-3.0,-4.0,BMTC
+368,,2014-11-19 13:22:19,2014-11-18,BMTC,Peters Frederick C II,"COB, CEO",S - Sale,$30.03,-4570,2385,-66%,"-$137,237",-2.0,-1.0,2.0,0.0,BMTC
+369,,2014-11-18 13:56:23,2014-11-17,BMTC,Peters Frederick C II,"COB, CEO",S - Sale,$30.07,-7745,6955,-53%,"-$232,892",0.0,0.0,2.0,1.0,BMTC
+370,,2014-11-17 16:09:39,2014-11-14,BMTC,Keefer Joseph G,EVP,P - Purchase,$30.60,1969,11766,+20%,"+$60,251",0.0,-2.0,-2.0,1.0,BMTC
+371,AD,2014-11-17 13:47:27,2014-11-14,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$18.27,4600,8855,+108%,"+$84,042",-2.0,-5.0,-4.0,-1.0,BMTC
+372,AD,2014-11-17 13:47:27,2014-11-14,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$30.54,-4600,8855,-34%,"-$140,484",-2.0,-5.0,-4.0,-1.0,BMTC
+373,D,2014-11-17 13:16:34,2014-11-14,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$18.27,4600,8855,+108%,"+$84,042",-2.0,-5.0,-4.0,-1.0,BMTC
+374,D,2014-11-17 13:16:34,2014-11-14,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$30.54,-4600,8855,-34%,"-$140,484",-2.0,-5.0,-4.0,-1.0,BMTC
+375,,2014-10-30 16:54:49,2014-10-30,BMTC,Lees David E,Dir,G - Gift,$0.00,-2000,20321,-9%,-$0,1.0,1.0,-3.0,-2.0,BMTC
+376,D,2014-08-26 17:32:31,2014-08-26,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,M - OptEx,$18.91,15000,16177,>999%,"+$283,650",-1.0,1.0,-2.0,1.0,BMTC
+377,D,2014-08-26 17:32:31,2014-08-26,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,S - Sale+OE,$29.62,-15000,16177,-48%,"-$444,320",-1.0,1.0,-2.0,1.0,BMTC
+378,D,2014-08-18 18:19:53,2014-08-18,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",A - Grant,$0.00,2950,12905,+30%,+$0,0.0,1.0,-1.0,3.0,BMTC
+379,D,2014-08-18 18:19:36,2014-08-18,BMTC,Keefer Joseph G,EVP,A - Grant,$0.00,2725,13479,+25%,+$0,0.0,1.0,-1.0,3.0,BMTC
+380,D,2014-08-18 18:19:21,2014-08-18,BMTC,Halberstadt Geoffrey L,Secretary,A - Grant,$0.00,2725,8903,+44%,+$0,0.0,1.0,-1.0,3.0,BMTC
+381,D,2014-08-18 18:19:06,2014-08-18,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,A - Grant,$0.00,2925,16177,+22%,+$0,0.0,1.0,-1.0,3.0,BMTC
+382,D,2014-08-18 18:18:51,2014-08-18,BMTC,Peters Frederick C II,"COB, CEO",A - Grant,$0.00,5478,57244,+11%,+$0,0.0,1.0,-1.0,3.0,BMTC
+383,D,2014-08-18 18:18:36,2014-08-18,BMTC,Leto Francis J,"Pres, COO",A - Grant,$0.00,2745,25044,+12%,+$0,0.0,1.0,-1.0,3.0,BMTC
+384,D,2014-08-18 18:18:21,2014-08-18,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,2943,22221,+15%,+$0,0.0,1.0,-1.0,3.0,BMTC
+385,D,2014-08-18 18:18:08,2014-08-18,BMTC,Lees David E,Dir,A - Grant,$0.00,1500,22321,+7%,+$0,0.0,1.0,-1.0,3.0,BMTC
+386,D,2014-08-18 18:17:48,2014-08-18,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,1500,6563,+30%,+$0,0.0,1.0,-1.0,3.0,BMTC
+387,D,2014-08-18 18:17:15,2014-08-18,BMTC,Holland Wendell F,Dir,A - Grant,$0.00,1500,10352,+17%,+$0,0.0,1.0,-1.0,3.0,BMTC
+388,,2014-08-18 18:16:52,2014-08-18,BMTC,Johnson Jerry L,Dir,A - Grant,$0.00,1500,4710,+47%,+$0,0.0,1.0,-1.0,3.0,BMTC
+389,,2014-08-18 18:16:34,2014-08-18,BMTC,Guthrie Donald S,Dir,A - Grant,$0.00,1500,81484,+2%,+$0,0.0,1.0,-1.0,3.0,BMTC
+390,D,2014-08-18 18:16:16,2014-08-18,BMTC,Gilbert Andrea F,Dir,A - Grant,$0.00,1500,13147,+13%,+$0,0.0,1.0,-1.0,3.0,BMTC
+391,D,2014-07-29 16:14:56,2014-07-29,BMTC,Murdoch Britton,Dir,M - OptEx,$22.14,5250,19278,+37%,"+$116,235",1.0,-2.0,1.0,1.0,BMTC
+392,D,2014-07-29 16:14:56,2014-07-29,BMTC,Murdoch Britton,Dir,S - Sale+OE,$29.75,-5000,19278,-21%,"-$148,750",1.0,-2.0,1.0,1.0,BMTC
+393,D,2014-06-19 15:55:50,2014-06-19,BMTC,Gilbert Andrea F,Dir,M - OptEx,$22.68,2250,11647,+24%,"+$51,030",-2.0,3.0,3.0,3.0,BMTC
+394,D,2014-06-19 15:55:50,2014-06-19,BMTC,Gilbert Andrea F,Dir,S - Sale+OE,$28.34,-2250,11647,-16%,"-$63,772",-2.0,3.0,3.0,3.0,BMTC
+395,D,2014-06-19 15:54:31,2014-06-19,BMTC,Leto Francis J,"Pres, COO",M - OptEx,$18.91,3500,22299,+19%,"+$66,185",-2.0,3.0,3.0,3.0,BMTC
+396,D,2014-06-19 15:54:31,2014-06-19,BMTC,Leto Francis J,"Pres, COO",S - Sale+OE,$28.51,-3500,22299,-14%,"-$99,785",-2.0,3.0,3.0,3.0,BMTC
+397,D,2014-06-18 11:25:59,2014-06-17,BMTC,Halberstadt Geoffrey L,Secretary,M - OptEx,$18.91,7500,6006,-502%,"+$141,825",0.0,1.0,1.0,2.0,BMTC
+398,D,2014-06-18 11:25:59,2014-06-17,BMTC,Halberstadt Geoffrey L,Secretary,S - Sale+OE,$28.45,-7500,6006,-56%,"-$213,375",0.0,1.0,1.0,2.0,BMTC
+399,D,2014-05-28 14:41:53,2014-05-27,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$22.00,9000,9897,>999%,"+$198,000",-1.0,-2.0,4.0,3.0,BMTC
+400,D,2014-05-28 14:41:53,2014-05-27,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$28.20,-9000,9897,-48%,"-$253,836",-1.0,-2.0,4.0,3.0,BMTC
+401,D,2014-05-09 15:10:26,2014-05-08,BMTC,Keefer Joseph G,EVP,M - OptEx,$18.91,15000,10663,-346%,"+$283,650",2.0,-1.0,8.0,12.0,BMTC
+402,D,2014-05-09 15:10:26,2014-05-08,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$28.12,-16000,10663,-60%,"-$449,989",2.0,-1.0,8.0,12.0,BMTC
+403,DM,2014-05-09 15:09:38,2014-05-08,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,S - Sale+OE,$27.97,-8951,13096,-41%,"-$250,341",2.0,-1.0,8.0,12.0,BMTC
+404,A,2014-04-17 06:58:03,2014-04-15,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,F - Tax,$27.40,-1049,14246,-7%,"-$28,743",0.0,0.0,2.0,8.0,BMTC
+405,A,2014-04-17 06:58:03,2014-04-15,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,M - OptEx,$20.47,10000,14246,+236%,"+$204,700",0.0,0.0,2.0,8.0,BMTC
+406,D,2014-04-16 15:02:54,2014-04-15,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,F - Tax,$27.40,-1049,20997,-5%,"-$28,743",-1.0,-1.0,0.0,7.0,BMTC
+407,D,2014-04-16 15:02:54,2014-04-15,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,M - OptEx,$20.47,8951,20997,+74%,"+$183,227",-1.0,-1.0,0.0,7.0,BMTC
+408,D,2014-04-14 17:13:00,2014-04-11,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,F - Tax,$28.00,-364,22299,-2%,"-$10,192",2.0,1.0,7.0,5.0,BMTC
+409,D,2014-04-14 17:13:00,2014-04-11,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,M - OptEx,$20.47,3000,22299,+16%,"+$61,410",2.0,1.0,7.0,5.0,BMTC
+410,D,2014-01-21 09:45:08,2014-01-17,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,A - Grant,$0.00,6803,19663,+53%,+$0,1.0,-2.0,-7.0,0.0,BMTC
+411,D,2013-12-31 09:14:49,2013-12-09,BMTC,Lees David E,Dir,G - Gift,$0.00,-1117,20382,-5%,-$0,1.0,-1.0,-5.0,0.0,BMTC
+412,D,2013-11-06 15:28:56,2013-11-04,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$21.21,12000,9705,-523%,"+$254,520",0.0,-1.0,5.0,0.0,BMTC
+413,D,2013-11-06 15:28:56,2013-11-04,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$28.24,-12000,9705,-55%,"-$338,880",0.0,-1.0,5.0,0.0,BMTC
+414,D,2013-11-01 12:25:00,2013-10-31,BMTC,Lees David E,Dir,M - OptEx,$20.31,6125,21499,+40%,"+$124,399",0.0,1.0,6.0,1.0,BMTC
+415,D,2013-11-01 12:25:00,2013-10-31,BMTC,Lees David E,Dir,S - Sale+OE,$28.03,-4960,21499,-19%,"-$139,039",0.0,1.0,6.0,1.0,BMTC
+416,D,2013-10-30 12:45:12,2013-10-29,BMTC,Peters Frederick C II,"Pres, COB",M - OptEx,$20.47,24000,51687,+87%,"+$491,280",-2.0,0.0,6.0,-3.0,BMTC
+417,D,2013-10-30 12:45:12,2013-10-29,BMTC,Peters Frederick C II,"Pres, COB",S - Sale+OE,$28.53,-24000,51687,-32%,"-$684,782",-2.0,0.0,6.0,-3.0,BMTC
+418,DM,2013-09-18 16:42:43,2013-09-17,BMTC,Halberstadt Geoffrey L,Secretary,M - OptEx,$20.47,5000,5319,>999%,"+$102,350",-2.0,1.0,2.0,7.0,BMTC
+419,DM,2013-09-18 16:42:43,2013-09-17,BMTC,Halberstadt Geoffrey L,Secretary,S - Sale+OE,$25.75,-5000,5319,-48%,"-$128,761",-2.0,1.0,2.0,7.0,BMTC
+420,D,2013-09-18 16:02:50,2013-09-17,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$25.81,-925,11541,-7%,"-$23,871",-2.0,1.0,2.0,7.0,BMTC
+421,D,2013-09-04 10:26:12,2013-09-03,BMTC,Keefer Joseph G,EVP,M - OptEx,$20.47,4000,12400,+48%,"+$81,880",-1.0,2.0,6.0,17.0,BMTC
+422,D,2013-09-04 10:26:12,2013-09-03,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$25.07,-4000,12400,-24%,"-$100,286",-1.0,2.0,6.0,17.0,BMTC
+423,DM,2013-08-30 15:10:52,2013-08-28,BMTC,Keefer Joseph G,EVP,M - OptEx,$20.47,6000,12400,+94%,"+$122,820",-2.0,-3.0,5.0,11.0,BMTC
+424,DM,2013-08-30 15:10:52,2013-08-28,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$25.78,-6000,12400,-33%,"-$154,661",-2.0,-3.0,5.0,11.0,BMTC
+425,D,2013-08-27 15:16:36,2013-08-27,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$26.24,-3200,9639,-25%,"-$83,958",-2.0,-5.0,0.0,8.0,BMTC
+426,A,2013-08-23 11:48:01,2013-08-20,BMTC,Peters Frederick C II,"Pres, COB, Dir",A - Grant,$0.00,5873,33298,+21%,+$0,0.0,-2.0,0.0,11.0,BMTC
+427,D,2013-08-21 14:29:32,2013-08-20,BMTC,Halberstadt Geoffrey L,Secretary,A - Grant,$0.00,2725,5281,+107%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+428,D,2013-08-21 14:29:12,2013-08-20,BMTC,Keefer Joseph G,EVP,A - Grant,$0.00,2925,12400,+31%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+429,D,2013-08-21 14:28:46,2013-08-20,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",A - Grant,$0.00,3200,12839,+33%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+430,D,2013-08-21 14:28:26,2013-08-20,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,A - Grant,$0.00,2745,12860,+27%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+431,D,2013-08-21 14:27:47,2013-08-20,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,A - Grant,$0.00,3175,12681,+33%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+432,D,2013-08-21 14:27:29,2013-08-20,BMTC,Peters Frederick C II,"Pres, COB",A - Grant,$0.00,5873,45790,+15%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+433,D,2013-08-21 14:27:05,2013-08-20,BMTC,Murdoch Britton,Dir,A - Grant,$0.00,2573,18589,+16%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+434,D,2013-08-21 14:26:44,2013-08-20,BMTC,Lees David E,Dir,A - Grant,$0.00,1563,20334,+8%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+435,D,2013-08-21 14:25:46,2013-08-20,BMTC,Jenkins Scott Mahaley,Dir,A - Grant,$0.00,1563,5063,+45%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+436,D,2013-08-21 14:25:27,2013-08-20,BMTC,Holland Wendell F,Dir,A - Grant,$0.00,1563,8852,+21%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+437,,2013-08-21 14:25:07,2013-08-20,BMTC,Guthrie Donald S,Dir,A - Grant,$0.00,1172,79545,+1%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+438,D,2013-08-21 14:24:47,2013-08-20,BMTC,Gilbert Andrea F,Dir,A - Grant,$0.00,1563,11208,+16%,+$0,-1.0,-2.0,-1.0,8.0,BMTC
+439,D,2013-06-06 16:33:31,2013-06-04,BMTC,Holland Wendell F,Dir,G - Gift,$0.00,-107,7289,-1%,-$0,0.0,-2.0,9.0,28.0,BMTC
+440,D,2013-05-21 15:43:32,2013-05-21,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$18.91,6775,9486,+250%,"+$128,115",-1.0,2.0,0.0,22.0,BMTC
+441,D,2013-05-21 15:43:32,2013-05-21,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$23.60,-6775,9486,-42%,"-$159,890",-1.0,2.0,0.0,22.0,BMTC
+442,D,2013-05-14 15:36:13,2013-05-14,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$18.91,1754,9486,+23%,"+$33,168",1.0,5.0,1.0,29.0,BMTC
+443,D,2013-05-14 15:36:13,2013-05-14,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$22.50,-1754,9486,-16%,"-$39,465",1.0,5.0,1.0,29.0,BMTC
+444,D,2013-05-13 12:12:45,2013-05-13,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$18.91,3246,9486,+52%,"+$61,382",-1.0,4.0,1.0,26.0,BMTC
+445,D,2013-05-13 12:12:45,2013-05-10,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$22.50,-3246,9486,-25%,"-$73,035",-1.0,4.0,1.0,26.0,BMTC
+446,D,2013-05-10 13:27:53,2013-05-10,BMTC,Murdoch Britton,Dir,P - Purchase,$22.50,1000,16016,+7%,"+$22,500",0.0,1.0,3.0,28.0,BMTC
+447,AD,2013-05-08 15:26:38,2013-05-06,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$18.27,5000,5905,+552%,"+$91,350",0.0,0.0,2.0,27.0,BMTC
+448,AD,2013-05-08 15:26:38,2013-05-03,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$22.50,-5000,5905,-46%,"-$112,500",0.0,0.0,2.0,27.0,BMTC
+449,AD,2013-05-08 15:26:18,2013-05-02,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$18.27,125,5905,+2%,"+$2,284",0.0,0.0,2.0,27.0,BMTC
+450,AD,2013-05-08 15:26:18,2013-05-01,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$23.00,-125,5905,-2%,"-$2,875",0.0,0.0,2.0,27.0,BMTC
+451,D,2013-05-08 15:00:56,2013-05-08,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$18.68,5000,9486,+111%,"+$93,414",0.0,0.0,2.0,27.0,BMTC
+452,D,2013-05-08 15:00:56,2013-05-07,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$22.50,-5000,9486,-35%,"-$112,500",0.0,0.0,2.0,27.0,BMTC
+453,D,2013-05-06 11:34:01,2013-05-03,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$18.27,5000,9486,+111%,"+$91,350",0.0,0.0,2.0,25.0,BMTC
+454,D,2013-05-06 11:34:01,2013-05-03,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$22.50,-5000,9486,-35%,"-$112,500",0.0,0.0,2.0,25.0,BMTC
+455,D,2013-05-02 13:41:00,2013-05-01,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",M - OptEx,$18.27,125,9486,+1%,"+$2,284",0.0,2.0,2.0,29.0,BMTC
+456,D,2013-05-02 13:41:00,2013-05-01,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",S - Sale+OE,$23.00,-125,9486,-1%,"-$2,875",0.0,2.0,2.0,29.0,BMTC
+457,D,2013-03-08 15:26:23,2013-03-08,BMTC,Holland Wendell F,Dir,M - OptEx,$18.26,3000,7396,+68%,"+$54,770",1.0,0.0,0.0,10.0,BMTC
+458,D,2013-03-08 15:26:23,2013-03-08,BMTC,Holland Wendell F,Dir,S - Sale+OE,$23.02,-3000,7396,-29%,"-$69,060",1.0,0.0,0.0,10.0,BMTC
+459,D,2013-02-22 12:19:44,2013-02-21,BMTC,Keefer Joseph G,EVP,M - OptEx,$17.85,9000,9341,>999%,"+$160,650",2.0,0.0,1.0,15.0,BMTC
+460,D,2013-02-22 12:19:44,2013-02-21,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$22.91,-9000,9341,-49%,"-$206,169",2.0,0.0,1.0,15.0,BMTC
+461,D,2013-02-22 12:19:26,2013-02-22,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,M - OptEx,$17.85,1120,9166,+14%,"+$19,992",2.0,0.0,1.0,15.0,BMTC
+462,D,2013-02-15 11:43:07,2013-02-14,BMTC,Peters Frederick C II,"Pres, COB",M - OptEx,$18.36,24000,45741,+110%,"+$440,600",1.0,1.0,0.0,17.0,BMTC
+463,D,2013-02-15 11:43:07,2013-02-14,BMTC,Peters Frederick C II,"Pres, COB",S - Sale+OE,$23.06,-24000,45741,-34%,"-$553,460",1.0,1.0,0.0,17.0,BMTC
+464,D,2013-02-15 11:20:15,2013-02-14,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,M - OptEx,$18.26,3000,10115,+42%,"+$54,770",1.0,1.0,0.0,17.0,BMTC
+465,D,2013-02-15 11:20:15,2013-02-14,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,S - Sale+OE,$23.23,-3000,10115,-23%,"-$69,702",1.0,1.0,0.0,17.0,BMTC
+466,D,2013-02-12 17:16:19,2013-02-11,BMTC,Lees David E,Dir,G - Gift,$0.00,-2000,18224,-10%,-$0,0.0,0.0,-1.0,19.0,BMTC
+467,A,2013-02-06 15:54:05,2013-01-30,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,S - Sale,$23.25,-7880,1000,-89%,"-$183,210",0.0,0.0,0.0,20.0,BMTC
+468,D,2013-01-31 12:01:47,2013-01-30,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,M - OptEx,$17.85,7880,7019,-915%,"+$140,658",1.0,2.0,1.0,24.0,BMTC
+469,D,2013-01-31 12:01:47,2013-01-30,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,S - Sale+OE,$23.25,-7880,7019,-53%,"-$183,210",1.0,2.0,1.0,24.0,BMTC
+470,D,2012-11-01 11:12:55,2012-11-01,BMTC,Murdoch Britton,Dir,P - Purchase,$22.27,500,14469,+4%,"+$11,135",1.0,-4.0,-4.0,1.0,BMTC
+471,D,2012-08-31 14:59:36,2012-08-31,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$21.95,569,9315,+7%,"+$12,490",1.0,1.0,3.0,6.0,BMTC
+472,D,2012-08-22 17:04:05,2012-08-21,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$22.12,201,8745,+2%,"+$4,445",-1.0,-1.0,1.0,5.0,BMTC
+473,D,2012-08-22 16:25:55,2012-08-21,BMTC,Halberstadt Geoffrey L,Secretary,M - OptEx,$17.85,5000,1609,-147%,"+$89,250",-1.0,-1.0,1.0,5.0,BMTC
+474,D,2012-08-22 16:25:55,2012-08-21,BMTC,Halberstadt Geoffrey L,Secretary,S - Sale+OE,$22.26,-5000,1609,-76%,"-$111,302",-1.0,-1.0,1.0,5.0,BMTC
+475,D,2012-08-22 16:14:58,2012-08-21,BMTC,Keefer Joseph G,EVP,P - Purchase,$22.16,1589,9216,+21%,"+$35,220",-1.0,-1.0,1.0,5.0,BMTC
+476,D,2012-08-20 16:49:35,2012-08-16,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$21.70,257,8544,+3%,"+$5,577",0.0,-2.0,4.0,6.0,BMTC
+477,DM,2012-08-14 14:14:00,2012-08-14,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$22.09,1400,45690,+3%,"+$30,928",0.0,1.0,2.0,7.0,BMTC
+478,D,2012-08-13 16:48:37,2012-08-13,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,P - Purchase,$21.80,560,10115,+6%,"+$12,208",0.0,2.0,1.0,8.0,BMTC
+479,M,2012-08-02 17:09:21,2012-07-31,BMTC,Radnor Blind Trust,10%,S - Sale,$20.25,-1521122,310720,-83%,"-$30,803,816",3.0,5.0,6.0,13.0,BMTC
+480,D,2012-03-12 16:15:15,2012-03-12,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$20.45,222,8254,+3%,"+$4,540",6.0,8.0,2.0,11.0,BMTC
+481,DM,2012-03-09 17:12:11,2012-03-08,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,M - OptEx,$18.32,7768,7484,-2733%,"+$142,271",-1.0,5.0,3.0,12.0,BMTC
+482,D,2012-03-09 17:12:11,2012-03-08,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,S - Sale+OE,$19.63,-6768,7484,-47%,"-$132,854",-1.0,5.0,3.0,12.0,BMTC
+483,D,2012-03-09 17:09:45,2012-03-08,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$20.15,179,8032,+2%,"+$3,607",-1.0,5.0,3.0,12.0,BMTC
+484,D,2012-03-06 09:43:11,2012-03-05,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$19.58,204,7853,+3%,"+$3,994",-1.0,3.0,13.0,13.0,BMTC
+485,D,2012-03-02 17:19:55,2012-03-02,BMTC,Holland Wendell F,Dir,M - OptEx,$16.25,2000,6789,+42%,"+$32,500",2.0,4.0,15.0,15.0,BMTC
+486,D,2012-03-02 17:19:55,2012-03-02,BMTC,Holland Wendell F,Dir,S - Sale+OE,$19.58,-2000,6789,-23%,"-$39,159",2.0,4.0,15.0,15.0,BMTC
+487,D,2012-02-21 17:30:34,2012-02-21,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,M - OptEx,$18.32,232,6473,+4%,"+$4,249",-2.0,-2.0,7.0,10.0,BMTC
+488,DM,2012-02-21 17:30:34,2012-02-17,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,S - Sale+OE,$20.75,-232,6473,-3%,"-$4,814",-2.0,-2.0,7.0,10.0,BMTC
+489,D,2012-02-21 17:29:31,2012-02-17,BMTC,Halberstadt Geoffrey L,Secretary,M - OptEx,$18.32,2000,1584,-481%,"+$36,630",-2.0,-2.0,7.0,10.0,BMTC
+490,D,2012-02-21 17:29:31,2012-02-17,BMTC,Halberstadt Geoffrey L,Secretary,S - Sale+OE,$20.68,-2000,1584,-56%,"-$41,360",-2.0,-2.0,7.0,10.0,BMTC
+491,D,2012-02-16 14:30:40,2012-02-16,BMTC,Keefer Joseph G,EVP,M - OptEx,$18.32,4000,7512,+114%,"+$73,260",2.0,3.0,10.0,10.0,BMTC
+492,D,2012-02-16 14:30:40,2012-02-16,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$20.36,-4000,7512,-35%,"-$81,440",2.0,3.0,10.0,10.0,BMTC
+493,D,2012-02-14 16:55:56,2012-02-13,BMTC,Keefer Joseph G,EVP,M - OptEx,$18.32,2000,7512,+36%,"+$36,630",-1.0,3.0,6.0,10.0,BMTC
+494,D,2012-02-14 16:55:56,2012-02-13,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$20.25,-2000,7512,-21%,"-$40,500",-1.0,3.0,6.0,10.0,BMTC
+495,D,2012-02-09 14:57:11,2012-02-09,BMTC,Taylor B Loyall Jr,Dir,M - OptEx,$16.25,2000,8260,+32%,"+$32,500",-1.0,-5.0,-3.0,5.0,BMTC
+496,D,2012-02-09 14:57:11,2012-02-09,BMTC,Taylor B Loyall Jr,Dir,S - Sale+OE,$21.07,-2000,8260,-19%,"-$42,130",-1.0,-5.0,-3.0,5.0,BMTC
+497,D,2012-02-09 14:56:24,2012-02-08,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,M - OptEx,$16.25,2000,9555,+26%,"+$32,500",-1.0,-5.0,-3.0,5.0,BMTC
+498,D,2012-02-09 14:56:24,2012-02-08,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,S - Sale+OE,$21.22,-2000,9555,-17%,"-$42,433",-1.0,-5.0,-3.0,5.0,BMTC
+499,D,2012-02-09 14:54:24,2012-02-08,BMTC,Peters Frederick C II,"Pres, COB",M - OptEx,$16.25,20000,44239,+83%,"+$325,000",-1.0,-5.0,-3.0,5.0,BMTC
+500,D,2012-02-09 14:54:24,2012-02-08,BMTC,Peters Frederick C II,"Pres, COB",S - Sale+OE,$21.14,-20000,44239,-31%,"-$422,836",-1.0,-5.0,-3.0,5.0,BMTC
+501,D,2011-11-03 15:59:13,2011-11-03,BMTC,Keefer Joseph G,EVP,P - Purchase,$17.59,610,7453,+9%,"+$10,730",4.0,-2.0,8.0,20.0,BMTC
+502,D,2011-08-05 14:50:17,2011-08-05,BMTC,Murdoch Britton,Dir,P - Purchase,$19.00,1000,13362,+8%,"+$19,000",-2.0,-5.0,-8.0,12.0,BMTC
+503,D,2011-06-03 10:25:08,2011-06-02,BMTC,Halberstadt Geoffrey L,Secretary,P - Purchase,$20.20,476,1539,+45%,"+$9,615",-3.0,-1.0,0.0,-8.0,BMTC
+504,A,2011-06-02 10:29:31,2010-07-01,BMTC,Guthrie Donald S,Dir,A - Grant,$0.00,76092,76092,New,+$0,0.0,0.0,-1.0,-15.0,BMTC
+505,D,2011-06-01 11:08:09,2011-05-31,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,M - OptEx,$15.15,8000,5614,-335%,"+$121,200",-2.0,-3.0,-3.0,-16.0,BMTC
+506,D,2011-06-01 11:08:09,2011-05-31,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,S - Sale+OE,$20.75,-8000,5614,-59%,"-$166,000",-2.0,-3.0,-3.0,-16.0,BMTC
+507,D,2011-05-13 16:43:00,2011-05-13,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,P - Purchase,$20.59,662,5600,+13%,"+$13,631",0.0,0.0,-4.0,-16.0,BMTC
+508,D,2011-03-09 16:41:17,2010-03-09,BMTC,Holland Wendell F,Dir,M - OptEx,$12.45,2000,6172,+48%,"+$24,900",-4.0,-4.0,6.0,-10.0,BMTC
+509,D,2011-03-09 16:41:17,2010-03-09,BMTC,Holland Wendell F,Dir,S - Sale+OE,$19.74,-2000,6172,-24%,"-$39,480",-4.0,-4.0,6.0,-10.0,BMTC
+510,D,2011-03-09 15:01:53,2011-03-08,BMTC,Taylor B Loyall Jr,Dir,M - OptEx,$12.45,2000,8260,+32%,"+$24,900",-2.0,-6.0,3.0,-12.0,BMTC
+511,D,2011-03-09 15:01:53,2011-03-09,BMTC,Taylor B Loyall Jr,Dir,S - Sale+OE,$19.86,-2000,8260,-19%,"-$39,710",-2.0,-6.0,3.0,-12.0,BMTC
+512,D,2011-03-09 12:06:30,2011-03-09,BMTC,Murdoch Britton,Dir,P - Purchase,$19.98,2000,11745,+21%,"+$39,956",-2.0,-6.0,3.0,-12.0,BMTC
+513,D,2011-03-07 16:07:03,2011-03-04,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$19.85,300,7597,+4%,"+$5,955",3.0,-3.0,7.0,-5.0,BMTC
+514,D,2011-03-03 18:07:57,2011-03-03,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$20.43,143,7297,+2%,"+$2,921",-3.0,-4.0,1.0,-6.0,BMTC
+515,D,2011-03-03 17:19:25,2011-03-03,BMTC,Peters Frederick C II,"Pres, COB",S - Sale+OE,$20.51,-3800,44139,-8%,"-$77,942",-3.0,-4.0,1.0,-6.0,BMTC
+516,D,2011-03-03 17:18:37,2011-03-01,BMTC,Peters Frederick C II,"Pres, COB",M - OptEx,$12.45,30000,47939,+167%,"+$373,500",-3.0,-4.0,1.0,-6.0,BMTC
+517,DM,2011-03-03 17:18:37,2011-03-01,BMTC,Peters Frederick C II,"Pres, COB",S - Sale+OE,$20.44,-21200,47939,-31%,"-$433,347",-3.0,-4.0,1.0,-6.0,BMTC
+518,D,2011-03-01 15:37:05,2011-02-28,BMTC,Keefer Joseph G,EVP,M - OptEx,$15.15,5000,6691,+296%,"+$75,750",-2.0,-6.0,-5.0,-13.0,BMTC
+519,D,2011-03-01 15:37:05,2011-02-28,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$20.90,-5000,6691,-43%,"-$104,480",-2.0,-6.0,-5.0,-13.0,BMTC
+520,D,2011-02-25 11:04:57,2011-02-25,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,P - Purchase,$20.76,570,9555,+6%,"+$11,831",1.0,-2.0,-6.0,-7.0,BMTC
+521,D,2011-02-10 17:26:42,2011-02-09,BMTC,Waschull Matthew G,Former EVP of BMTCa sub.ofBMBC,M - OptEx,$18.27,1270,1100,-747%,"+$23,203",0.0,2.0,-9.0,-14.0,BMTC
+522,DM,2011-02-10 17:26:42,2011-02-02,BMTC,Waschull Matthew G,Former EVP of BMTCa sub.ofBMBC,S - Sale+OE,$20.37,-2370,1100,-68%,"-$48,282",0.0,2.0,-9.0,-14.0,BMTC
+523,DM,2010-12-20 10:14:01,2010-12-16,BMTC,Lees David E,Dir,P - Purchase,$17.49,4000,19000,+27%,"+$69,973",-1.0,-1.0,-2.0,16.0,BMTC
+524,D,2010-12-17 14:44:26,2010-12-16,BMTC,Halberstadt Geoffrey L,Secretary,M - OptEx,$15.15,2000,533,-136%,"+$30,300",-1.0,-4.0,0.0,12.0,BMTC
+525,D,2010-12-17 14:44:26,2010-12-16,BMTC,Halberstadt Geoffrey L,Secretary,S - Sale+OE,$17.65,-2000,533,-79%,"-$35,298",-1.0,-4.0,0.0,12.0,BMTC
+526,D,2010-12-16 15:09:56,2010-12-15,BMTC,Lees David E,Dir,P - Purchase,$17.65,3327,15000,+29%,"+$58,735",0.0,-3.0,1.0,13.0,BMTC
+527,D,2010-11-17 16:43:51,2010-11-17,BMTC,Keefer Joseph G,EVP,P - Purchase,$16.99,468,6637,+8%,"+$7,951",0.0,2.0,7.0,27.0,BMTC
+528,D,2010-11-12 12:29:45,2010-11-12,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,P - Purchase,$16.75,250,8985,+3%,"+$4,188",-1.0,-2.0,5.0,24.0,BMTC
+529,M,2010-09-23 19:45:18,2010-09-20,BMTC,Connell George W,10%,P - Purchase,$16.88,10000,1831842,+1%,"+$168,765",3.0,4.0,2.0,17.0,BMTC
+530,D,2010-08-26 11:28:17,2010-08-25,BMTC,Halberstadt Geoffrey L,Secretary,P - Purchase,$16.50,267,267,New,"+$4,406",-2.0,1.0,5.0,28.0,BMTC
+531,D,2010-08-24 16:47:50,2010-08-24,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$16.17,300,6908,+5%,"+$4,851",2.0,1.0,3.0,31.0,BMTC
+532,D,2010-08-23 16:07:10,2010-08-23,BMTC,Murdoch Britton,Dir,P - Purchase,$16.48,2000,9745,+26%,"+$32,960",0.0,3.0,4.0,34.0,BMTC
+533,D,2010-08-18 11:17:49,2010-08-17,BMTC,Waschull Matthew G,EVP of BMTC a sub. of BMBC,P - Purchase,$17.25,235,5125,+5%,"+$4,054",0.0,-7.0,-4.0,23.0,BMTC
+534,D,2010-08-16 14:37:25,2010-08-13,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$17.00,200,6608,+3%,"+$3,400",2.0,-1.0,2.0,28.0,BMTC
+535,,2010-05-20 16:44:06,2010-05-18,BMTC,Connell George W,10%,P - Purchase,$17.00,123167,1821842,+7%,"+$2,093,839",1.0,-3.0,0.0,-5.0,BMTC
+536,D,2010-04-08 12:35:08,2010-04-07,BMTC,Taylor B Loyall Jr,Dir,M - OptEx,$10.75,2000,8260,+32%,"+$21,500",0.0,-2.0,-8.0,-7.0,BMTC
+537,D,2010-03-15 11:26:48,2010-03-12,BMTC,Gers Alison,EVP of BMTC a sub. of BMBC,P - Purchase,$18.30,491,3825,+15%,"+$8,985",0.0,0.0,0.0,-8.0,BMTC
+538,D,2010-03-11 14:33:43,2010-03-11,BMTC,Waschull Matthew G,EVP of BMTC a sub. of BMBC,P - Purchase,$18.22,200,4847,+4%,"+$3,644",-1.0,-2.0,0.0,-10.0,BMTC
+539,D,2010-03-10 15:55:54,2010-03-09,BMTC,Keefer Joseph G,EVP,M - OptEx,$10.50,2000,6019,+50%,"+$21,000",-1.0,-2.0,1.0,-12.0,BMTC
+540,D,2010-03-10 15:55:54,2010-03-09,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$18.55,-2000,6019,-25%,"-$37,106",-1.0,-2.0,1.0,-12.0,BMTC
+541,D,2010-03-09 14:35:37,2010-03-09,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$18.62,1000,39033,+3%,"+$18,620",1.0,-2.0,2.0,-9.0,BMTC
+542,D,2010-03-09 09:32:57,2010-03-08,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,P - Purchase,$18.53,560,8735,+7%,"+$10,378",1.0,-2.0,2.0,-9.0,BMTC
+543,M,2010-03-03 15:15:07,2010-03-02,BMTC,Connell George W,10%,P - Purchase,$17.14,2000,1698675,0%,"+$34,271",3.0,10.0,6.0,-3.0,BMTC
+544,M,2010-03-01 16:33:37,2010-02-26,BMTC,Connell George W,10%,P - Purchase,$17.48,2000,1696675,0%,"+$34,966",2.0,10.0,9.0,-1.0,BMTC
+545,M,2010-02-25 16:28:02,2010-02-24,BMTC,Connell George W,10%,P - Purchase,$17.40,2000,1694675,0%,"+$34,793",1.0,2.0,6.0,-5.0,BMTC
+546,M,2010-02-23 17:47:13,2010-02-22,BMTC,Connell George W,10%,P - Purchase,$16.86,2000,1692675,0%,"+$33,727",2.0,-2.0,7.0,-2.0,BMTC
+547,M,2010-02-22 08:04:11,2010-02-18,BMTC,Connell George W,10%,P - Purchase,$16.22,2000,1690675,0%,"+$32,440",4.0,7.0,12.0,4.0,BMTC
+548,M,2010-02-17 18:24:57,2010-02-16,BMTC,Connell George W,10%,P - Purchase,$16.06,2000,1688675,0%,"+$32,113",1.0,6.0,13.0,6.0,BMTC
+549,,2010-02-16 08:20:36,2010-02-12,BMTC,Connell George W,10%,P - Purchase,$15.73,1000,1686675,0%,"+$15,729",2.0,9.0,19.0,8.0,BMTC
+550,M,2010-02-11 17:35:41,2010-02-10,BMTC,Connell George W,10%,P - Purchase,$15.64,2000,1685675,0%,"+$31,285",-2.0,2.0,16.0,7.0,BMTC
+551,M,2010-02-09 16:05:21,2010-02-08,BMTC,Connell George W,10%,P - Purchase,$15.68,2000,1683675,0%,"+$31,353",2.0,3.0,20.0,17.0,BMTC
+552,M,2010-02-05 16:10:02,2010-02-04,BMTC,Connell George W,10%,P - Purchase,$15.77,2000,1681675,0%,"+$31,534",-4.0,-1.0,17.0,13.0,BMTC
+553,M,2010-02-04 08:46:25,2010-02-02,BMTC,Connell George W,10%,P - Purchase,$16.04,2000,1679675,0%,"+$32,089",0.0,0.0,18.0,18.0,BMTC
+554,M,2010-02-01 16:42:27,2010-01-29,BMTC,Connell George W,10%,P - Purchase,$15.94,2000,1677675,0%,"+$31,878",-2.0,-1.0,7.0,18.0,BMTC
+555,M,2010-01-28 16:05:30,2010-01-27,BMTC,Connell George W,10%,P - Purchase,$15.34,2000,1675675,0%,"+$30,682",2.0,1.0,12.0,20.0,BMTC
+556,M,2010-01-26 16:57:43,2010-01-25,BMTC,Connell George W,10%,P - Purchase,$15.43,2000,1673675,0%,"+$30,855",0.0,6.0,15.0,23.0,BMTC
+557,M,2010-01-22 16:18:09,2010-01-21,BMTC,Connell George W,10%,P - Purchase,$15.40,2000,1671675,0%,"+$30,804",0.0,3.0,13.0,16.0,BMTC
+558,M,2010-01-20 16:21:04,2010-01-19,BMTC,Connell George W,10%,P - Purchase,$15.20,2000,1669675,0%,"+$30,404",-3.0,-2.0,6.0,12.0,BMTC
+559,M,2010-01-15 16:49:50,2010-01-14,BMTC,Connell George W,10%,P - Purchase,$15.29,2000,1667675,0%,"+$30,572",2.0,2.0,7.0,12.0,BMTC
+560,M,2010-01-13 16:30:50,2010-01-12,BMTC,Connell George W,10%,P - Purchase,$15.50,2000,1665675,0%,"+$31,001",-2.0,2.0,5.0,19.0,BMTC
+561,,2010-01-12 16:22:04,2010-01-11,BMTC,Connell George W,10%,P - Purchase,$15.61,1000,1663675,0%,"+$15,614",-1.0,-1.0,3.0,20.0,BMTC
+562,M,2010-01-08 16:21:38,2010-01-07,BMTC,Connell George W,10%,P - Purchase,$15.44,2000,1662675,0%,"+$30,889",-1.0,-5.0,-1.0,14.0,BMTC
+563,M,2010-01-06 16:08:19,2010-01-05,BMTC,Connell George W,10%,P - Purchase,$15.57,2000,1660675,0%,"+$31,139",-1.0,2.0,5.0,19.0,BMTC
+564,A,2009-12-31 14:37:44,2003-03-10,BMTC,Taylor B Loyall Jr,Dir,G - Gift,$0.00,-1238,29419,-4%,-$0,-1.0,-1.0,7.0,16.0,BMTC
+565,AD,2009-12-31 14:36:57,2009-08-26,BMTC,Taylor B Loyall Jr,Dir,G - Gift,$0.00,-4566,8298,-35%,-$0,-1.0,-1.0,7.0,16.0,BMTC
+566,ADM,2009-12-31 14:36:57,2007-12-03,BMTC,Taylor B Loyall Jr,Dir,P - Purchase,$19.74,383,8298,+5%,"+$7,564",-1.0,-1.0,7.0,16.0,BMTC
+567,D,2009-12-16 15:25:34,2009-12-14,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$15.26,295,5978,+5%,"+$4,502",0.0,1.0,0.0,20.0,BMTC
+568,D,2009-12-11 15:54:29,2009-12-11,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,P - Purchase,$14.98,350,8175,+4%,"+$5,243",1.0,1.0,3.0,18.0,BMTC
+569,D,2009-11-30 15:59:50,2009-11-30,BMTC,Bennett Thomas L,Dir,P - Purchase,$14.48,1000,7327,+16%,"+$14,480",4.0,6.0,5.0,19.0,BMTC
+570,D,2009-11-25 10:15:10,2009-11-23,BMTC,Bennett Thomas L,Dir,P - Purchase,$14.97,300,6327,+5%,"+$4,491",-1.0,-1.0,1.0,21.0,BMTC
+571,DM,2009-11-18 17:13:30,2009-11-16,BMTC,Bennett Thomas L,Dir,P - Purchase,$15.00,3428,6027,+132%,"+$51,407",0.0,1.0,0.0,19.0,BMTC
+572,D,2009-11-16 16:25:07,2009-11-13,BMTC,Bennett Thomas L,Dir,P - Purchase,$14.96,300,2599,+13%,"+$4,488",1.0,-1.0,0.0,22.0,BMTC
+573,D,2009-11-12 16:06:28,2009-11-12,BMTC,Lees David E,Dir,P - Purchase,$14.89,2000,11005,+22%,"+$29,780",3.0,3.0,3.0,30.0,BMTC
+574,AD,2009-11-12 13:44:16,2009-11-10,BMTC,Lees David E,Dir,P - Purchase,$15.03,3000,9005,+50%,"+$45,084",-5.0,-2.0,-2.0,25.0,BMTC
+575,D,2009-11-12 11:08:03,2009-11-10,BMTC,Lees David E,Dir,P - Purchase,$15.03,3000,9005,+50%,"+$45,084",-5.0,-2.0,-2.0,25.0,BMTC
+576,D,2009-09-03 15:17:24,2009-09-01,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$18.05,166,5556,+3%,"+$2,996",0.0,0.0,-7.0,5.0,BMTC
+577,D,2009-08-28 15:50:49,2009-08-26,BMTC,Taylor B Loyall Jr,Dir,G - Gift,$0.00,-4356,12919,-25%,-$0,0.0,0.0,0.0,-5.0,BMTC
+578,D,2009-08-14 15:26:14,2009-08-14,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,P - Purchase,$17.90,200,7825,+3%,"+$3,580",-2.0,0.0,-1.0,-13.0,BMTC
+579,,2009-07-06 08:49:14,2009-07-01,BMTC,Connell George W,10%,S - Sale,$19.01,-5000,1658675,0%,"-$95,050",0.0,-1.0,0.0,-18.0,BMTC
+580,,2009-06-30 07:24:40,2009-06-26,BMTC,Connell George W,10%,S - Sale,$19.02,-5100,1663675,0%,"-$97,009",1.0,0.0,-2.0,-15.0,BMTC
+581,,2009-06-08 17:16:34,2009-06-05,BMTC,Connell George W,10%,S - Sale,$19.09,-1800,1668775,0%,"-$34,354",1.0,1.0,-1.0,-19.0,BMTC
+582,M,2009-06-05 15:32:12,2009-06-03,BMTC,Connell George W,10%,S - Sale,$19.03,-5400,1670575,0%,"-$102,764",0.0,-1.0,-1.0,-20.0,BMTC
+583,,2009-05-26 19:06:59,2009-05-26,BMTC,Connell George W,10%,S - Sale,$19.09,-2400,1675975,0%,"-$45,811",-5.0,-3.0,-3.0,-21.0,BMTC
+584,,2009-05-22 09:18:54,2009-05-20,BMTC,Connell George W,10%,S - Sale,$19.15,-1470,1678375,0%,"-$28,145",-3.0,-4.0,-1.0,-19.0,BMTC
+585,M,2009-05-19 17:26:19,2009-05-18,BMTC,Connell George W,10%,S - Sale,$19.12,-5108,1679845,0%,"-$97,676",0.0,1.0,-1.0,-19.0,BMTC
+586,,2009-05-15 18:02:10,2009-05-15,BMTC,Connell George W,10%,S - Sale,$19.15,-600,1684953,0%,"-$11,490",1.0,0.0,-1.0,-17.0,BMTC
+587,,2009-05-15 16:17:49,2009-05-14,BMTC,Connell George W,10%,S - Sale,$19.25,-1200,1685553,0%,"-$23,100",1.0,0.0,-1.0,-17.0,BMTC
+588,AD,2009-05-07 14:34:42,2009-05-07,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$19.10,150,37963,0%,"+$2,865",-3.0,-3.0,-1.0,-14.0,BMTC
+589,D,2009-05-07 11:51:41,2009-05-07,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$150.00,19,37963,0%,"+$2,865",-3.0,-3.0,-1.0,-14.0,BMTC
+590,,2009-05-06 15:15:47,2009-05-04,BMTC,Connell George W,10%,S - Sale,$19.50,-600,1686753,0%,"-$11,700",2.0,2.0,2.0,-13.0,BMTC
+591,D,2009-05-05 11:00:04,2009-05-05,BMTC,Leto Francis J,EVP of BMTC a sub. of BMBC,P - Purchase,$19.42,200,7625,+3%,"+$3,884",-3.0,-2.0,-2.0,-17.0,BMTC
+592,D,2009-03-05 17:10:20,2009-03-05,BMTC,Holland Wendell F,Dir,M - OptEx,$13.22,2000,4858,+70%,"+$26,438",7.0,-5.0,37.0,33.0,BMTC
+593,D,2009-03-05 17:10:20,2009-03-05,BMTC,Holland Wendell F,Dir,S - Sale+OE,$14.02,-2000,4858,-29%,"-$28,040",7.0,-5.0,37.0,33.0,BMTC
+594,D,2009-03-05 16:09:44,2009-03-05,BMTC,Taylor B Loyall Jr,Dir,M - OptEx,$13.22,2000,12919,+18%,"+$26,438",7.0,-5.0,37.0,33.0,BMTC
+595,D,2009-03-05 16:09:44,2009-03-05,BMTC,Taylor B Loyall Jr,Dir,S - Sale+OE,$14.02,-2000,12919,-13%,"-$28,040",7.0,-5.0,37.0,33.0,BMTC
+596,D,2009-02-04 16:38:05,2009-02-04,BMTC,Murdoch Britton,Dir,P - Purchase,$19.64,1000,6431,+18%,"+$19,640",-4.0,-9.0,-29.0,-1.0,BMTC
+597,DE,2008-12-04 14:09:41,2008-12-03,BMTC,Keefer Joseph G,EVP,M - OptEx,$13.22,3200,5789,+124%,"+$42,300",-4.0,2.0,3.0,-3.0,BMTC
+598,DE,2008-12-04 14:09:41,2008-12-03,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$20.02,-3200,5789,-36%,"-$64,064",-4.0,2.0,3.0,-3.0,BMTC
+599,D,2008-04-29 15:46:19,2008-04-29,BMTC,Holland Wendell F,Dir,G - Gift,$19.60,-637,4858,-12%,"-$12,485",0.0,7.0,4.0,-9.0,BMTC
+600,D,2008-03-20 15:51:48,2008-03-19,BMTC,Jenkins Scott Mahaley,Dir,P - Purchase,$19.75,1000,3500,+40%,"+$19,750",1.0,7.0,7.0,21.0,BMTC
+601,D,2008-03-20 15:51:18,2008-03-20,BMTC,Taylor B Loyall Jr,Dir,M - OptEx,$12.25,500,12919,+4%,"+$6,125",1.0,7.0,7.0,21.0,BMTC
+602,D,2008-03-20 15:51:18,2008-03-18,BMTC,Taylor B Loyall Jr,Dir,S - Sale+OE,$19.52,-500,12919,-4%,"-$9,759",1.0,7.0,7.0,21.0,BMTC
+603,D,2008-03-12 16:40:26,2008-03-11,BMTC,Taylor B Loyall Jr,Dir,M - OptEx,$12.25,3500,12919,+37%,"+$42,875",1.0,-5.0,4.0,18.0,BMTC
+604,D,2008-03-12 16:40:26,2008-03-11,BMTC,Taylor B Loyall Jr,Dir,S - Sale+OE,$21.00,-3500,12919,-21%,"-$73,500",1.0,-5.0,4.0,18.0,BMTC
+605,DM,2008-03-10 17:15:55,2008-03-07,BMTC,Keefer Joseph G,EVP,M - OptEx,$12.25,2500,5689,+78%,"+$30,625",-1.0,3.0,9.0,12.0,BMTC
+606,DM,2008-03-10 17:15:55,2008-03-07,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$19.76,-2500,5689,-31%,"-$49,390",-1.0,3.0,9.0,12.0,BMTC
+607,D,2008-03-07 11:05:34,2008-03-06,BMTC,Keefer Joseph G,EVP,M - OptEx,$12.25,1500,5689,+36%,"+$18,375",0.0,4.0,6.0,14.0,BMTC
+608,D,2008-03-07 11:05:34,2008-03-06,BMTC,Keefer Joseph G,EVP,S - Sale+OE,$19.80,-1500,5689,-21%,"-$29,700",0.0,4.0,6.0,14.0,BMTC
+609,D,2008-02-29 16:49:15,2008-02-29,BMTC,Waschull Matthew G,EVP of BMTC a sub. of BMBC,P - Purchase,$19.98,1000,2179,+85%,"+$19,982",1.0,1.0,11.0,14.0,BMTC
+610,D,2008-02-26 13:45:41,2008-02-25,BMTC,Holland Wendell F,Dir,M - OptEx,$12.25,4000,4858,+466%,"+$49,000",-2.0,-1.0,3.0,18.0,BMTC
+611,D,2008-02-26 13:45:41,2008-02-25,BMTC,Holland Wendell F,Dir,S - Sale+OE,$19.53,-6000,4858,-55%,"-$117,162",-2.0,-1.0,3.0,18.0,BMTC
+612,,2008-02-01 19:42:10,2008-02-01,BMTC,Connell George W,10%,P - Purchase,$21.00,5000,1687353,0%,"+$104,977",-2.0,-3.0,-3.0,20.0,BMTC
+613,,2008-01-31 14:17:02,2008-01-30,BMTC,Connell George W,10%,P - Purchase,$19.50,4076,1682353,0%,"+$79,482",2.0,6.0,2.0,27.0,BMTC
+614,,2008-01-25 16:45:35,2008-01-25,BMTC,Connell George W,10%,P - Purchase,$19.50,924,1678277,0%,"+$18,018",0.0,0.0,2.0,25.0,BMTC
+615,M,2008-01-18 11:01:39,2008-01-09,BMTC,Connell George W,10%,P - Purchase,$21.25,8443,1677353,+1%,"+$179,414",-1.0,-4.0,-4.0,13.0,BMTC
+616,,2008-01-07 09:23:58,2007-12-21,BMTC,Connell George W,10%,P - Purchase,$21.25,1557,1668910,0%,"+$33,086",0.0,-5.0,-5.0,-13.0,BMTC
+617,D,2007-11-16 16:17:50,2007-11-16,BMTC,Leto Francis J,Dir,G - Gift,$0.00,364,6788,-5%,+$0,1.0,0.0,4.0,-4.0,BMTC
+618,D,2007-11-08 16:15:14,2007-11-07,BMTC,Waschull Matthew G,EVP of BMTC a sub. of BMBC,P - Purchase,$21.90,21,1021,+2%,+$468,0.0,0.0,0.0,-4.0,BMTC
+619,D,2007-08-24 16:41:53,2007-08-24,BMTC,Lees David E,Dir,P - Purchase,$21.95,500,5359,+10%,"+$10,975",0.0,4.0,1.0,-8.0,BMTC
+620,DM,2007-08-23 15:41:00,2007-08-17,BMTC,Lees David E,Dir,P - Purchase,$21.83,467,4859,+11%,"+$10,196",0.0,2.0,0.0,-10.0,BMTC
+621,D,2007-04-30 16:41:31,2007-04-30,BMTC,Holland Wendell F,Dir,G - Gift,$24.18,-516,6858,-7%,"-$12,477",1.0,0.0,-6.0,-8.0,BMTC
+622,M,2007-04-06 11:36:36,2007-04-04,BMTC,Connell George W,10%,P - Purchase,$23.15,8306,1667353,+1%,"+$192,275",1.0,1.0,3.0,-4.0,BMTC
+623,M,2007-04-04 14:13:22,2007-03-09,BMTC,Connell George W,10%,P - Purchase,$23.10,8693,1659047,+1%,"+$200,779",0.0,1.0,7.0,-4.0,BMTC
+624,M,2007-04-04 13:47:46,2007-02-27,BMTC,Connell George W,10%,P - Purchase,$24.08,68154,1650354,+4%,"+$1,641,484",0.0,1.0,7.0,-4.0,BMTC
+625,D,2007-03-02 09:39:20,2007-03-01,BMTC,Holland Wendell F,Dir,S - Sale+OE,$22.80,-2000,6858,-23%,"-$45,590",1.0,2.0,2.0,0.0,BMTC
+626,D,2007-02-26 16:05:59,2007-02-26,BMTC,Waschull Matthew G,EVP of BMTC a sub. of BMBC,P - Purchase,$23.37,1000,1000,New,"+$23,370",-1.0,-1.0,-1.0,-4.0,BMTC
+627,AD,2007-02-16 10:18:31,2007-02-14,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$24.00,100,37655,0%,"+$2,400",0.0,0.0,1.0,-5.0,BMTC
+628,D,2007-02-14 12:11:39,2007-02-14,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$24.00,100,37834,0%,"+$2,400",0.0,-1.0,0.0,-4.0,BMTC
+629,D,2007-02-08 10:26:07,2007-02-07,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$24.10,980,5186,+23%,"+$23,618",0.0,-2.0,-2.0,-4.0,BMTC
+630,D,2007-02-05 15:36:55,2007-02-05,BMTC,Holland Wendell F,Dir,M - OptEx,$8.45,4000,8858,+82%,"+$33,812",1.0,0.0,-3.0,-5.0,BMTC
+631,D,2007-02-01 12:35:12,2007-02-01,BMTC,Williams Thomas A,Dir,M - OptEx,$8.45,4000,24823,+19%,"+$33,812",1.0,0.0,-4.0,-7.0,BMTC
+632,D,2007-02-01 11:24:57,2007-02-01,BMTC,Taylor B Loyall Jr,Dir,M - OptEx,$8.45,4000,70192,+6%,"+$33,812",1.0,0.0,-4.0,-7.0,BMTC
+633,DM,2006-11-28 13:49:06,2006-11-27,BMTC,Ricciardi Robert J,Secretary,S - Sale+OE,$23.66,-4000,20425,-16%,"-$94,625",-1.0,1.0,0.0,-2.0,BMTC
+634,D,2006-11-24 09:30:35,2006-11-22,BMTC,Ricciardi Robert J,Secretary,M - OptEx,$13.22,4000,24425,+20%,"+$52,875",1.0,3.0,1.0,-2.0,BMTC
+635,D,2006-11-22 10:30:10,2006-11-21,BMTC,Ricciardi Robert J,Secretary,S - Sale+OE,$23.30,-4000,20425,-16%,"-$93,200",1.0,4.0,1.0,-1.0,BMTC
+636,D,2006-11-22 10:14:25,2006-11-21,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$23.36,1000,4192,+31%,"+$23,360",1.0,4.0,1.0,-1.0,BMTC
+637,D,2006-11-16 12:32:35,2006-11-14,BMTC,Ricciardi Robert J,Secretary,M - OptEx,$13.22,4000,24425,+20%,"+$52,875",0.0,1.0,2.0,0.0,BMTC
+638,D,2006-11-14 15:36:27,2006-11-14,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$22.93,100,37719,0%,"+$2,293",1.0,1.0,4.0,2.0,BMTC
+639,D,2006-11-08 13:18:43,2006-11-07,BMTC,Vickers Nancy J,Dir,G - Gift,$0.00,-1115,8768,-11%,-$0,0.0,3.0,7.0,9.0,BMTC
+640,D,2006-08-29 13:59:24,2006-08-29,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$22.34,100,37604,0%,"+$2,234",-1.0,0.0,-1.0,3.0,BMTC
+641,D,2006-08-29 11:43:13,2006-08-28,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$22.30,775,3172,+32%,"+$17,280",-1.0,0.0,-1.0,3.0,BMTC
+642,AD,2006-05-18 15:33:13,2006-05-16,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$21.80,750,2350,+47%,"+$16,350",0.0,0.0,10.0,7.0,BMTC
+643,D,2006-05-17 15:27:05,2006-05-17,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$21.80,750,2350,+47%,"+$16,350",1.0,0.0,10.0,6.0,BMTC
+644,D,2006-05-01 15:03:48,2006-05-01,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$21.80,150,37491,0%,"+$3,270",-1.0,0.0,0.0,2.0,BMTC
+645,D,2006-04-28 15:31:51,2006-04-28,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$22.25,1075,1600,+205%,"+$23,919",-1.0,-1.0,0.0,1.0,BMTC
+646,D,2006-04-28 15:24:02,2006-04-28,BMTC,Holland Wendell F,Dir,G - Gift,$22.07,-566,4858,-10%,"-$12,492",-1.0,-1.0,0.0,1.0,BMTC
+647,D,2006-02-23 16:03:06,2006-02-22,BMTC,Taylor B Loyall Jr,Dir,M - OptEx,$6.25,4000,67029,+6%,"+$25,000",1.0,1.0,2.0,5.0,BMTC
+648,D,2006-02-23 16:03:06,2006-02-23,BMTC,Taylor B Loyall Jr,Dir,S - Sale+OE,$21.56,-2241,67029,-3%,"-$48,316",1.0,1.0,2.0,5.0,BMTC
+649,D,2006-02-14 12:20:00,2006-02-14,BMTC,Williams Thomas A,Dir,M - OptEx,$6.25,4000,20257,+25%,"+$25,000",2.0,2.0,3.0,5.0,BMTC
+650,D,2006-02-08 16:34:45,2006-02-08,BMTC,Leto Francis J,Dir,P - Purchase,$21.17,100,5706,+2%,"+$2,117",0.0,1.0,3.0,7.0,BMTC
+651,D,2006-02-02 16:44:37,2006-02-02,BMTC,Harral William III,Dir,M - OptEx,$11.93,8000,25989,+44%,"+$95,400",-1.0,-1.0,3.0,4.0,BMTC
+652,D,2006-02-02 16:44:37,2006-02-02,BMTC,Harral William III,Dir,S - Sale+OE,$21.00,-8000,25989,-24%,"-$168,014",-1.0,-1.0,3.0,4.0,BMTC
+653,D,2006-02-01 15:55:17,2006-02-01,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$21.32,125,37327,0%,"+$2,665",1.0,1.0,4.0,4.0,BMTC
+654,D,2005-11-21 12:02:10,2005-11-21,BMTC,Lees David E,Dir,P - Purchase,$21.17,2000,4553,+78%,"+$42,340",1.0,0.0,1.0,3.0,BMTC
+655,D,2005-11-14 12:48:03,2005-11-10,BMTC,Smith James Duncan,"Treasurer, Assist. Secretary",P - Purchase,$21.10,300,525,+133%,"+$6,330",-1.0,0.0,1.0,4.0,BMTC
+656,D,2005-11-03 12:49:13,2005-11-02,BMTC,Leto Francis J,Dir,P - Purchase,$21.20,100,5606,+2%,"+$2,120",0.0,0.0,3.0,5.0,BMTC
+657,D,2005-10-26 13:29:21,2005-10-26,BMTC,Peters Frederick C II,"Pres, COB",P - Purchase,$21.45,125,37187,0%,"+$2,681",0.0,0.0,3.0,5.0,BMTC
+658,D,2005-08-01 14:17:48,2005-07-29,BMTC,Leto Francis J,Dir,P - Purchase,$21.73,100,5506,+2%,"+$2,173",1.0,1.0,1.0,1.0,BMTC
+659,D,2005-07-29 12:22:38,2005-07-29,BMTC,Peters Frederick C II,"Pres, COB, Dir",P - Purchase,$21.66,125,37048,0%,"+$2,708",-2.0,1.0,0.0,-1.0,BMTC
+660,D,2005-05-20 14:13:02,2005-05-13,BMTC,Gilbert Andrea F,Dir,P - Purchase,$18.75,1000,4841,+26%,"+$18,750",0.0,-2.0,-5.0,10.0,BMTC
+661,DM,2005-05-13 15:25:18,2005-05-11,BMTC,Gilbert Andrea F,Dir,P - Purchase,$18.90,2000,3841,+109%,"+$37,800",5.0,6.0,1.0,13.0,BMTC
+662,D,2005-04-25 13:52:45,2005-04-25,BMTC,Peters Frederick C II,"Pres, COB, Dir",P - Purchase,$19.48,125,36906,0%,"+$2,435",-3.0,-1.0,3.0,11.0,BMTC
+663,D,2005-04-22 16:37:08,2005-04-22,BMTC,Leto Francis J,Dir,P - Purchase,$19.50,100,5406,+2%,"+$1,950",-3.0,-4.0,3.0,10.0,BMTC
+664,D,2005-04-22 15:35:53,2005-04-22,BMTC,Holland Wendell F,Dir,G - Gift,$19.55,-511,4858,-10%,"-$9,990",-1.0,-5.0,2.0,9.0,BMTC
+665,D,2005-02-09 13:50:07,2005-02-08,BMTC,Williams Thomas A,Dir,M - OptEx,$4.34,4000,15746,+34%,"+$17,360",-5.0,-3.0,-6.0,-6.0,BMTC
+666,D,2005-01-27 09:25:05,2005-01-25,BMTC,Deakins Warren W,Dir,M - OptEx,$5.30,8000,12946,+162%,"+$42,360",-1.0,2.0,1.0,2.0,BMTC
+667,D,2005-01-27 09:25:05,2005-01-26,BMTC,Deakins Warren W,Dir,S - Sale+OE,$20.93,-8000,12946,-38%,"-$167,408",-1.0,2.0,1.0,2.0,BMTC
+668,D,2005-01-26 14:20:06,2005-01-26,BMTC,Peters Frederick C II,"Pres, COB, Dir",P - Purchase,$20.70,100,36768,0%,"+$2,070",-1.0,-1.0,2.0,2.0,BMTC
+669,D,2005-01-25 14:45:12,2005-01-25,BMTC,Leto Francis J,Dir,P - Purchase,$21.45,110,4795,+2%,"+$2,360",1.0,2.0,1.0,0.0,BMTC
+670,D,2005-01-19 16:21:53,2005-01-19,BMTC,Peters Frederick C II,"Pres, COB, Dir",P - Purchase,$21.73,1,36668,0%,+$22,-1.0,-1.0,3.0,-5.0,BMTC
+671,D,2004-12-16 13:24:14,2004-12-15,BMTC,Leto Francis J,Dir,S - Sale+OE,$22.23,-1,4685,0%,-$22,-2.0,0.0,-3.0,-14.0,BMTC
+672,D,2004-12-14 17:08:40,2004-12-14,BMTC,Rebl Joseph W,"Treasurer, Assist. Secretary",S - Sale+OE,$21.98,-505,800,-39%,"-$11,096",1.0,0.0,0.0,-14.0,BMTC
+673,D,2004-11-24 13:47:47,2004-11-24,BMTC,Vickers Nancy J,Dir,M - OptEx,$18.26,1000,11312,+10%,"+$18,257",1.0,5.0,12.0,-1.0,BMTC
+674,D,2004-11-23 16:14:10,2004-11-22,BMTC,Gilbert Andrea F,Dir,P - Purchase,$19.59,1000,1330,+303%,"+$19,590",1.0,0.0,11.0,1.0,BMTC
+675,D,2004-11-19 13:11:01,2004-11-19,BMTC,Peters Frederick C II,"Pres, COB, Dir",P - Purchase,$19.59,125,36634,0%,"+$2,449",0.0,4.0,13.0,3.0,BMTC
+676,D,2004-10-29 14:00:29,2004-10-27,BMTC,Leto Francis J,Dir,P - Purchase,$20.20,100,4666,+2%,"+$2,020",-2.0,-1.0,2.0,-4.0,BMTC
+677,D,2004-10-29 14:00:29,2004-10-27,BMTC,Leto Francis J,Dir,S - Sale+OE,$20.24,-1,4666,0%,-$29,-2.0,-1.0,2.0,-4.0,BMTC
+678,D,2004-10-28 13:58:52,2004-10-27,BMTC,Peters Frederick C II,"Pres, COB, Dir",P - Purchase,$20.07,175,36438,0%,"+$3,512",0.0,0.0,1.0,-7.0,BMTC
+679,D,2004-08-23 13:38:21,2004-08-23,BMTC,Peters Frederick C II,"Pres, COB, Dir",P - Purchase,$20.50,100,36040,0%,"+$2,050",1.0,1.0,4.0,8.0,BMTC
+680,D,2004-08-17 14:16:20,2004-08-17,BMTC,Peters Frederick C II,"Pres, COB, Dir",P - Purchase,$20.20,150,35940,0%,"+$3,030",0.0,2.0,6.0,11.0,BMTC
+681,D,2004-08-06 09:05:56,2004-08-05,BMTC,Rebl Joseph W,"Treasurer, Assist. Secretary",S - Sale+OE,$20.42,-871,1309,-40%,"-$17,783",0.0,-2.0,0.0,6.0,BMTC
+682,D,2004-08-04 16:32:59,2004-08-03,BMTC,Rebl Joseph W,"Treasurer, Assist. Secretary",M - OptEx,$15.15,1700,2180,+354%,"+$25,755",-1.0,-3.0,-1.0,4.0,BMTC
+683,D,2004-08-04 16:32:59,2004-08-03,BMTC,Rebl Joseph W,"Treasurer, Assist. Secretary",S - Sale+OE,$21.16,-829,2180,-28%,"-$17,542",-1.0,-3.0,-1.0,4.0,BMTC
+684,D,2004-07-28 16:30:07,2004-07-28,BMTC,Rebl Joseph W,"Treasurer, Assist. Secretary",M - OptEx,$15.15,2600,1309,-201%,"+$39,390",3.0,-2.0,-3.0,2.0,BMTC
+685,D,2004-07-28 16:30:07,2004-07-28,BMTC,Rebl Joseph W,"Treasurer, Assist. Secretary",S - Sale+OE,$21.35,-2600,1309,-67%,"-$55,497",3.0,-2.0,-3.0,2.0,BMTC
+686,D,2004-04-26 17:11:15,2004-04-23,BMTC,Holland Wendell F,Dir,G - Gift,$20.47,-488,4858,-9%,"-$9,989",2.0,0.0,-2.0,-3.0,BMTC
+687,,2004-01-23 08:53:59,2004-01-22,BMTC,Stevens Robert L,Dir,G - Gift,$22.73,-660,17104,-4%,"-$15,002",0.0,-2.0,1.0,-5.0,BMTC
+688,,2003-08-28 17:44:59,2003-08-25,BMTC,Stevens Robert L,Dir,G - Gift,$41.45,-243,8882,-3%,"-$10,072",0.0,4.0,3.0,12.0,BMTC
+689,,2003-08-21 12:12:04,2003-08-21,BMTC,Ricciardi Robert J,Secretary,M - OptEx,$24.50,5000,14930,+50%,"+$122,500",-1.0,-2.0,2.0,8.0,BMTC
+690,,2003-08-21 12:12:04,2003-08-21,BMTC,Ricciardi Robert J,Secretary,S - Sale,$42.08,-5000,14930,-25%,"-$210,379",-1.0,-2.0,2.0,8.0,BMTC
+691,A,2003-08-21 09:53:15,2003-08-15,BMTC,Ricciardi Robert J,Secretary,M - OptEx,$21.00,3500,14930,+31%,"+$73,500",-1.0,-2.0,2.0,8.0,BMTC
+692,AM,2003-08-21 09:53:15,2003-08-15,BMTC,Ricciardi Robert J,Secretary,S - Sale,$41.09,-3500,14930,-19%,"-$143,809",-1.0,-2.0,2.0,8.0,BMTC
+693,M,2003-08-18 14:11:31,2003-08-15,BMTC,Ricciardi Robert J,Secretary,M - OptEx,$31.04,7000,14930,+88%,"+$217,309",1.0,0.0,5.0,12.0,BMTC
+694,A,2003-07-31 16:12:16,2003-07-31,BMTC,Peters Frederick C II,"Pres, COB, Dir",P - Purchase,$40.00,125,17080,+1%,"+$5,000",-2.0,0.0,2.0,9.0,BMTC
+695,,2003-07-31 13:49:42,2003-07-31,BMTC,Peters Frederick C II,"Pres, COB, Dir",P - Purchase,$40.00,125,17080,+1%,"+$5,000",1.0,1.0,3.0,10.0,BMTC

@@ -1,21 +1,39 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,M,2022-04-08 16:43:25,2022-04-06,CFLT,Gerstner Brad,10%,P - Purchase,$38.99,439200,5745900,+8%,"+$17,123,096",,,,,CFLT
-1,,2022-03-22 17:27:50,2022-03-21,CFLT,Gerstner Brad,10%,P - Purchase,$38.33,175000,5306700,+3%,"+$6,706,875",,,,,CFLT
-2,M,2022-03-18 16:55:04,2022-03-16,CFLT,Gerstner Brad,10%,P - Purchase,$35.15,201700,5131700,+4%,"+$7,090,307",,,,,CFLT
-3,D,2022-03-11 20:11:17,2022-03-10,CFLT,Chadwick Jonathan,Dir,S - Sale+OE,$34.60,-16625,0,-100%,"-$575,269",,,,,CFLT
-4,DM,2022-03-09 21:05:53,2022-03-07,CFLT,Kreps Edward Jay,"CEO, 10%",S - Sale+OE,$36.28,-232500,0,-100%,"-$8,435,052",,,,,CFLT
-5,D,2022-02-24 20:03:35,2022-02-22,CFLT,Kreps Edward Jay,"CEO, 10%",S - Sale+OE,$44.42,-232500,0,-100%,"-$10,326,485",,,,,CFLT
-6,DM,2022-02-16 21:02:20,2022-02-14,CFLT,Narkhede Neha,Dir,S - Sale+OE,$54.78,-277400,0,-100%,"-$15,196,759",,,,,CFLT
-7,D,2021-12-17 20:25:09,2021-12-15,CFLT,Narkhede Neha,Dir,S - Sale+OE,$62.22,-166667,0,-100%,"-$10,370,163",,,,,CFLT
-8,DM,2021-12-10 21:30:44,2021-12-08,CFLT,Schultz Erica,"Pres, Field Operations",S - Sale+OE,$67.42,-100000,0,-100%,"-$6,741,780",,,,,CFLT
-9,D,2021-12-06 21:11:54,2021-12-06,CFLT,Kreps Edward Jay,"CEO, 10%",S - Sale+OE,$69.50,-232500,0,-100%,"-$16,159,693",,,,,CFLT
-10,,2021-12-01 16:48:05,2021-11-29,CFLT,Fenton Peter H,10%,S - Sale,$84.35,-50000,1278596,-4%,"-$4,217,685",,,,,CFLT
-11,,2021-11-26 16:01:34,2021-11-23,CFLT,Puttagunta Chetan,10%,S - Sale,$75.08,-31926,317724,-9%,"-$2,397,146",,,,,CFLT
-12,DM,2021-11-19 21:00:27,2021-11-17,CFLT,Schultz Erica,"Pres, Field Operations",S - Sale+OE,$81.24,-100000,0,-100%,"-$8,123,685",,,,,CFLT
-13,,2021-11-18 19:11:55,2021-11-16,CFLT,Gurley J William,10%,S - Sale,$84.45,-139234,2920163,-5%,"-$11,758,157",,,,,CFLT
-14,DM,2021-11-17 19:29:22,2021-11-15,CFLT,Narkhede Neha,Dir,S - Sale+OE,$82.05,-316667,0,-100%,"-$25,982,901",,,,,CFLT
-15,,2021-11-16 21:42:17,2021-11-15,CFLT,Spurlock Steven M,10%,S - Sale,$85.54,-854,213731,0%,"-$73,055",,,,,CFLT
-16,D,2021-11-16 21:40:54,2021-11-15,CFLT,Spurlock Steven M,10%,S - Sale+OE,$84.83,-23691,1193531,-2%,"-$2,009,778",,,,,CFLT
-17,DM,2021-11-16 21:20:08,2021-11-15,CFLT,Kreps Edward Jay,"CEO, 10%",S - Sale+OE,$82.56,-232500,0,-100%,"-$19,194,461",,,,,CFLT
-18,DM,2021-11-12 21:56:54,2021-11-11,CFLT,Tomlinson Steffan,CFO,S - Sale+OE,$89.32,-750000,0,-100%,"-$66,992,504",,,,,CFLT
-19,D,2021-11-09 20:28:04,2021-11-08,CFLT,Chadwick Jonathan,Dir,S - Sale+OE,$87.92,-16625,0,-100%,"-$1,461,673",,,,,CFLT
+0,D,2022-03-11 20:11:17,2022-03-10,CFLT,Chadwick Jonathan,Dir,S - Sale+OE,$34.60,-16625,0,-100%,"-$575,269",,,,,CFLT
+1,D,2022-03-11 20:11:17,2022-03-10,CFLT,Chadwick Jonathan,Dir,C - Converted deriv,$0.00,16625,0,-100%,$0,,,,,CFLT
+2,DM,2022-03-09 21:05:53,2022-03-07,CFLT,Kreps Edward Jay,"CEO, 10%",S - Sale+OE,$36.28,-232500,0,-100%,"-$8,435,052",,,,,CFLT
+3,DM,2022-03-09 21:05:53,2022-03-07,CFLT,Kreps Edward Jay,"CEO, 10%",C - Converted deriv,$0.00,232500,0,-100%,$0,,,,,CFLT
+4,,2022-03-02 20:03:47,2022-02-28,CFLT,Liu Ying Christina,Chief Accounting Officer,A - Grant,$0.00,31505,32806,>999%,+$0,,,,,CFLT
+5,,2022-03-02 20:02:32,2022-02-28,CFLT,Tomlinson Steffan,CFO,A - Grant,$0.00,105019,106407,>999%,+$0,,,,,CFLT
+6,,2022-03-02 20:00:55,2022-02-28,CFLT,Schultz Erica,"Pres, Field Operations",A - Grant,$0.00,105019,106407,>999%,+$0,,,,,CFLT
+7,D,2022-02-24 20:03:35,2022-02-22,CFLT,Kreps Edward Jay,"CEO, 10%",C - Converted deriv,$0.00,232500,0,-100%,$0,,,,,CFLT
+8,D,2022-02-24 20:03:35,2022-02-22,CFLT,Kreps Edward Jay,"CEO, 10%",S - Sale+OE,$44.42,-232500,0,-100%,"-$10,326,485",,,,,CFLT
+9,DM,2022-02-16 21:02:20,2022-02-14,CFLT,Narkhede Neha,Dir,S - Sale+OE,$54.78,-277400,0,-100%,"-$15,196,759",,,,,CFLT
+10,DM,2022-02-16 21:02:20,2022-02-14,CFLT,Narkhede Neha,Dir,C - Converted deriv,$0.00,277400,0,-100%,$0,,,,,CFLT
+11,D,2021-12-17 20:25:09,2021-12-15,CFLT,Narkhede Neha,Dir,S - Sale+OE,$62.22,-166667,0,-100%,"-$10,370,163",,,,,CFLT
+12,D,2021-12-17 20:25:09,2021-12-15,CFLT,Narkhede Neha,Dir,C - Converted deriv,$0.00,166667,0,-100%,$0,,,,,CFLT
+13,DM,2021-12-10 21:30:44,2021-12-08,CFLT,Schultz Erica,"Pres, Field Operations",S - Sale+OE,$67.42,-100000,0,-100%,"-$6,741,780",,,,,CFLT
+14,DM,2021-12-10 21:30:44,2021-12-08,CFLT,Schultz Erica,"Pres, Field Operations",C - Converted deriv,$0.00,100000,0,-100%,$0,,,,,CFLT
+15,D,2021-12-06 21:11:54,2021-12-06,CFLT,Kreps Edward Jay,"CEO, 10%",S - Sale+OE,$69.50,-232500,0,-100%,"-$16,159,693",,,,,CFLT
+16,D,2021-12-06 21:11:54,2021-12-06,CFLT,Kreps Edward Jay,"CEO, 10%",C - Converted deriv,$0.00,232500,0,-100%,$0,,,,,CFLT
+17,,2021-12-01 16:48:05,2021-11-29,CFLT,Fenton Peter H,10%,S - Sale,$84.35,-50000,1278596,-4%,"-$4,217,685",,,,,CFLT
+18,,2021-11-26 16:01:34,2021-11-23,CFLT,Puttagunta Chetan,10%,S - Sale,$75.08,-31926,317724,-9%,"-$2,397,146",,,,,CFLT
+19,DM,2021-11-19 21:00:27,2021-11-17,CFLT,Schultz Erica,"Pres, Field Operations",S - Sale+OE,$81.24,-100000,0,-100%,"-$8,123,685",,,,,CFLT
+20,DM,2021-11-19 21:00:27,2021-11-17,CFLT,Schultz Erica,"Pres, Field Operations",C - Converted deriv,$0.00,100000,0,-100%,$0,,,,,CFLT
+21,,2021-11-18 19:11:55,2021-11-16,CFLT,Gurley J William,10%,S - Sale,$84.45,-139234,2920163,-5%,"-$11,758,157",,,,,CFLT
+22,DM,2021-11-17 19:29:22,2021-11-15,CFLT,Narkhede Neha,Dir,S - Sale+OE,$82.05,-316667,0,-100%,"-$25,982,901",,,,,CFLT
+23,DM,2021-11-17 19:29:22,2021-11-15,CFLT,Narkhede Neha,Dir,C - Converted deriv,$0.00,316667,0,-100%,$0,,,,,CFLT
+24,,2021-11-16 21:42:17,2021-11-15,CFLT,Spurlock Steven M,10%,S - Sale,$85.54,-854,213731,0%,"-$73,055",,,,,CFLT
+25,D,2021-11-16 21:42:03,2021-11-12,CFLT,Vishria Eric,"Dir, 10%",C - Converted deriv,$0.00,3862593,1445792,-73%,$0,,,,,CFLT
+26,D,2021-11-16 21:41:14,2021-11-12,CFLT,"Benchmark Capital Management Co. Viii, L.L.C.",10%,C - Converted deriv,$0.00,3862593,135919,-97%,$0,,,,,CFLT
+27,D,2021-11-16 21:40:54,2021-11-15,CFLT,Spurlock Steven M,10%,S - Sale+OE,$84.83,-23691,1193531,-2%,"-$2,009,778",,,,,CFLT
+28,D,2021-11-16 21:40:54,2021-11-12,CFLT,Spurlock Steven M,10%,C - Converted deriv,$0.00,3862593,1193531,-76%,$0,,,,,CFLT
+29,DM,2021-11-16 21:20:08,2021-11-15,CFLT,Kreps Edward Jay,"CEO, 10%",S - Sale+OE,$82.56,-232500,0,-100%,"-$19,194,461",,,,,CFLT
+30,DM,2021-11-16 21:20:08,2021-11-15,CFLT,Kreps Edward Jay,"CEO, 10%",C - Converted deriv,$0.00,232500,0,-100%,$0,,,,,CFLT
+31,DM,2021-11-12 21:56:54,2021-11-11,CFLT,Tomlinson Steffan,CFO,S - Sale+OE,$89.32,-750000,0,-100%,"-$66,992,504",,,,,CFLT
+32,DM,2021-11-12 21:56:54,2021-11-11,CFLT,Tomlinson Steffan,CFO,C - Converted deriv,$0.00,750000,0,-100%,$0,,,,,CFLT
+33,D,2021-11-09 20:28:04,2021-11-08,CFLT,Chadwick Jonathan,Dir,S - Sale+OE,$87.92,-16625,0,-100%,"-$1,461,673",,,,,CFLT
+34,D,2021-11-09 20:28:04,2021-11-08,CFLT,Chadwick Jonathan,Dir,C - Converted deriv,$0.00,16625,0,-100%,$0,,,,,CFLT
+35,D,2021-09-10 20:01:37,2021-09-08,CFLT,Spurlock Steven M,10%,C - Converted deriv,$0.00,9267372,212839,-98%,$0,,,,,CFLT
+36,D,2021-09-10 20:01:08,2021-09-08,CFLT,Vishria Eric,"Dir, 10%",C - Converted deriv,$0.00,9267372,1418937,-87%,$0,,,,,CFLT
+37,D,2021-09-10 20:00:50,2021-09-08,CFLT,"Benchmark Capital Management Co. Viii, L.L.C.",10%,C - Converted deriv,$0.00,9267372,159904,-98%,$0,,,,,CFLT

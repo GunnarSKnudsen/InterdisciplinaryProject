@@ -1,8 +1,906 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,M,2020-12-01 18:13:26,2020-09-15,ALSK,Ley Peter D,Former Director,S - Sale,2.45,-184478,6548,-97%,-452761.0,,,,,ALSK
-1,M,2020-11-27 16:04:31,2020-11-19,ALSK,Ross Brian A,Former Director,P - Purchase,3.1,160284,0,-100%,496769.0,,,,,ALSK
-2,,2019-12-09 19:18:08,2019-12-05,ALSK,Aquino Peter D,Dir,P - Purchase,1.73,15000,15000,New,25932.0,,,,,ALSK
-3,M,2018-06-18 17:04:25,2018-06-14,ALSK,Bishop William H,"SVP, Business Market",S - Sale,1.66,-35000,131791,-21%,-58199.0,,,,,ALSK
-4,,2018-06-05 17:51:05,2018-06-01,ALSK,Barr Wayne Jr,Dir,P - Purchase,1.67,10000,28974,+53%,16700.0,,,,,ALSK
-5,M,2018-05-30 18:59:57,2018-05-25,ALSK,Barr Wayne Jr,Dir,P - Purchase,1.7,13430,18974,+242%,22880.0,,,,,ALSK
-6,,2018-05-25 16:51:03,2018-05-24,ALSK,Barr Wayne Jr,Dir,P - Purchase,1.7,5544,5544,New,9425.0,,,,,ALSK
+0,D,2021-06-21 17:59:42,2021-06-17,ALSK,Gutcher Jim,"VP, Strategy, Product Mgt.",F - Tax,3.33,-1435,42060,-3%,-4779.0,,,,,ALSK
+1,D,2021-06-21 17:59:42,2021-06-17,ALSK,Gutcher Jim,"VP, Strategy, Product Mgt.",M - OptEx,0.0,5893,42060,+16%,0.0,,,,,ALSK
+2,D,2021-06-21 17:42:40,2021-06-17,ALSK,Williams Diedre,"SVP, Operations",F - Tax,3.33,-2356,118287,-2%,-7845.0,,,,,ALSK
+3,D,2021-06-21 17:42:40,2021-06-17,ALSK,Williams Diedre,"SVP, Operations",M - OptEx,0.0,9674,118287,+9%,0.0,,,,,ALSK
+4,D,2021-06-21 17:40:44,2021-06-17,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,3.33,-3234,749644,0%,-10769.0,,,,,ALSK
+5,D,2021-06-21 17:40:44,2021-06-17,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,13280,749644,+2%,0.0,,,,,ALSK
+6,D,2021-06-21 17:37:24,2021-06-17,ALSK,Morse Debra,"VP, HR",F - Tax,3.33,-1338,9937,-12%,-4456.0,,,,,ALSK
+7,D,2021-06-21 17:37:24,2021-06-17,ALSK,Morse Debra,"VP, HR",M - OptEx,0.0,5703,9937,+135%,0.0,,,,,ALSK
+8,D,2021-06-21 17:35:40,2021-06-17,ALSK,Lindamood Sean,"VP, Business Sales",F - Tax,3.33,-1451,26760,-5%,-4832.0,,,,,ALSK
+9,D,2021-06-21 17:35:40,2021-06-17,ALSK,Lindamood Sean,"VP, Business Sales",M - OptEx,0.0,6106,26760,+30%,0.0,,,,,ALSK
+10,D,2021-06-21 17:32:19,2021-06-17,ALSK,Hoogerhyde Tiffany,"VP, Finance, Controller",F - Tax,3.33,-1338,28750,-4%,-4456.0,,,,,ALSK
+11,D,2021-06-21 17:32:19,2021-06-17,ALSK,Hoogerhyde Tiffany,"VP, Finance, Controller",M - OptEx,0.0,5703,28750,+25%,0.0,,,,,ALSK
+12,D,2021-06-21 17:27:38,2021-06-17,ALSK,David Aurora,"VP, Information Technology",F - Tax,3.33,-1520,164776,-1%,-5062.0,,,,,ALSK
+13,D,2021-06-21 17:27:38,2021-06-17,ALSK,David Aurora,"VP, Information Technology",M - OptEx,0.0,6240,164776,+4%,0.0,,,,,ALSK
+14,D,2021-06-21 17:25:32,2021-06-17,ALSK,Butcher Laurie,CFO,F - Tax,3.33,-2500,304055,-1%,-8325.0,,,,,ALSK
+15,D,2021-06-21 17:25:32,2021-06-17,ALSK,Butcher Laurie,CFO,M - OptEx,0.0,10263,304055,+3%,0.0,,,,,ALSK
+16,D,2021-06-21 17:22:34,2021-06-17,ALSK,Bishop William H,"Pres, CEO",F - Tax,3.33,-6018,298758,-2%,-20040.0,,,,,ALSK
+17,D,2021-06-21 17:22:34,2021-06-17,ALSK,Bishop William H,"Pres, CEO",M - OptEx,0.0,24714,298758,+9%,0.0,,,,,ALSK
+18,D,2021-06-21 17:17:28,2021-06-17,ALSK,Benken Richard,VP Network Strategy,F - Tax,3.33,-2004,58295,-3%,-6673.0,,,,,ALSK
+19,D,2021-06-21 17:17:28,2021-06-17,ALSK,Benken Richard,VP Network Strategy,M - OptEx,0.0,6495,58295,+13%,0.0,,,,,ALSK
+20,D,2021-06-21 17:16:15,2021-06-17,ALSK,Barnes Beth,"VP, Mass Markets, Marketing",F - Tax,3.33,-1360,28875,-4%,-4529.0,,,,,ALSK
+21,D,2021-06-21 17:16:15,2021-06-17,ALSK,Barnes Beth,"VP, Mass Markets, Marketing",M - OptEx,0.0,5798,28875,+25%,0.0,,,,,ALSK
+22,,2021-06-17 20:11:15,2021-06-16,ALSK,Ley Peter D,Dir,A - Grant,0.0,1736,1736,New,0.0,,,,,ALSK
+23,,2021-06-17 19:35:43,2021-06-16,ALSK,Lombard Shelly,Dir,A - Grant,0.0,19011,19011,New,0.0,,,,,ALSK
+24,,2021-06-17 19:34:11,2021-06-16,ALSK,Duster Benjamin,Dir,A - Grant,0.0,19011,19011,New,0.0,,,,,ALSK
+25,,2021-06-17 19:33:22,2021-06-16,ALSK,Barr Wayne Jr,Dir,A - Grant,0.0,19011,19011,New,0.0,,,,,ALSK
+26,,2021-06-17 19:32:54,2021-06-16,ALSK,Aquino Peter D,Dir,A - Grant,0.0,19011,34011,+127%,0.0,,,,,ALSK
+27,,2021-06-16 20:09:48,2021-06-15,ALSK,Williams Diedre,"SVP, Operations",A - Grant,0.0,4353,110969,+4%,0.0,,,,,ALSK
+28,,2021-06-16 20:09:48,2021-06-15,ALSK,Williams Diedre,"SVP, Operations",F - Tax,3.33,-1060,110969,-1%,-3530.0,,,,,ALSK
+29,,2021-06-16 20:08:55,2021-06-15,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,6570,739598,+1%,0.0,,,,,ALSK
+30,,2021-06-16 20:08:55,2021-06-15,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,3.33,-1600,739598,0%,-5328.0,,,,,ALSK
+31,,2021-06-16 20:07:17,2021-06-15,ALSK,Morse Debra,"VP, HR",A - Grant,0.0,1711,5572,+44%,0.0,,,,,ALSK
+32,,2021-06-16 20:07:17,2021-06-15,ALSK,Morse Debra,"VP, HR",F - Tax,3.33,-402,5572,-7%,-1339.0,,,,,ALSK
+33,,2021-06-16 20:05:54,2021-06-15,ALSK,Lindamood Sean,"VP, Business Sales",A - Grant,0.0,1831,22105,+9%,0.0,,,,,ALSK
+34,,2021-06-16 20:05:54,2021-06-15,ALSK,Lindamood Sean,"VP, Business Sales",F - Tax,3.33,-430,22105,-2%,-1432.0,,,,,ALSK
+35,,2021-06-16 20:02:48,2021-06-15,ALSK,Hoogerhyde Tiffany,"VP, Finance, Controller",A - Grant,0.0,1711,24385,+8%,0.0,,,,,ALSK
+36,,2021-06-16 20:02:48,2021-06-15,ALSK,Hoogerhyde Tiffany,"VP, Finance, Controller",F - Tax,3.33,-402,24385,-2%,-1339.0,,,,,ALSK
+37,,2021-06-16 20:01:10,2021-06-15,ALSK,Gutcher Jim,"VP, Strategy, Product Mgt.",A - Grant,0.0,1768,37602,+5%,0.0,,,,,ALSK
+38,,2021-06-16 20:01:10,2021-06-15,ALSK,Gutcher Jim,"VP, Strategy, Product Mgt.",F - Tax,3.33,-431,37602,-1%,-1435.0,,,,,ALSK
+39,,2021-06-16 19:58:07,2021-06-15,ALSK,David Aurora,"VP, Information Technology",A - Grant,0.0,1872,160056,+1%,0.0,,,,,ALSK
+40,,2021-06-16 19:58:07,2021-06-15,ALSK,David Aurora,"VP, Information Technology",F - Tax,3.33,-456,160056,0%,-1518.0,,,,,ALSK
+41,,2021-06-16 19:53:45,2021-06-15,ALSK,Butcher Laurie,CFO,A - Grant,0.0,5078,296292,+2%,0.0,,,,,ALSK
+42,,2021-06-16 19:53:45,2021-06-15,ALSK,Butcher Laurie,CFO,F - Tax,3.33,-1237,296292,0%,-4119.0,,,,,ALSK
+43,,2021-06-16 19:51:43,2021-06-15,ALSK,Bishop William H,"Pres, CEO",A - Grant,0.0,11121,280062,+4%,0.0,,,,,ALSK
+44,,2021-06-16 19:51:43,2021-06-15,ALSK,Bishop William H,"Pres, CEO",F - Tax,3.33,-2708,280062,-1%,-9018.0,,,,,ALSK
+45,,2021-06-16 19:49:03,2021-06-15,ALSK,Benken Richard,VP Network Strategy,A - Grant,0.0,1948,53804,+4%,0.0,,,,,ALSK
+46,,2021-06-16 19:49:03,2021-06-15,ALSK,Benken Richard,VP Network Strategy,F - Tax,3.33,-601,53804,-1%,-2001.0,,,,,ALSK
+47,,2021-06-16 19:38:13,2021-06-15,ALSK,Barnes Beth,"VP, Mass Markets, Marketing",A - Grant,0.0,1739,24437,+8%,0.0,,,,,ALSK
+48,,2021-06-16 19:38:13,2021-06-15,ALSK,Barnes Beth,"VP, Mass Markets, Marketing",F - Tax,3.33,-408,24437,-2%,-1359.0,,,,,ALSK
+49,D,2021-06-02 19:35:53,2021-06-01,ALSK,Brown Margaret L,Former Director,M - OptEx,3.32,1388,1388,New,4608.0,,,,,ALSK
+50,D,2021-03-03 20:54:26,2021-03-01,ALSK,Hoogerhyde Tiffany,"VP, Finance, Controller",F - Tax,3.28,-604,23076,-3%,-1981.0,,,,,ALSK
+51,D,2021-03-03 20:54:26,2021-03-01,ALSK,Hoogerhyde Tiffany,"VP, Finance, Controller",M - OptEx,0.0,2000,23076,+9%,0.0,,,,,ALSK
+52,D,2021-03-03 20:51:41,2021-03-01,ALSK,Morse Debra,"VP, HR",F - Tax,3.28,-604,4263,-12%,-1981.0,,,,,ALSK
+53,D,2021-03-03 20:51:41,2021-03-01,ALSK,Morse Debra,"VP, HR",M - OptEx,0.0,2000,4263,+88%,0.0,,,,,ALSK
+54,D,2021-03-03 20:36:02,2021-03-01,ALSK,Barnes Beth,"VP, Mass Markets, Marketing",F - Tax,3.28,-906,23106,-4%,-2972.0,,,,,ALSK
+55,D,2021-03-03 20:36:02,2021-03-01,ALSK,Barnes Beth,"VP, Mass Markets, Marketing",M - OptEx,0.0,3001,23106,+15%,0.0,,,,,ALSK
+56,D,2021-03-03 20:31:27,2021-03-01,ALSK,Gutcher Jim,"VP, Strategy, Product Mgt.",F - Tax,3.28,-805,36265,-2%,-2640.0,,,,,ALSK
+57,D,2021-03-03 20:31:27,2021-03-01,ALSK,Gutcher Jim,"VP, Strategy, Product Mgt.",M - OptEx,0.0,2667,36265,+8%,0.0,,,,,ALSK
+58,D,2021-03-03 20:30:00,2021-03-01,ALSK,Lindamood Sean,"VP, Business Sales",F - Tax,3.28,-1781,20704,-8%,-5842.0,,,,,ALSK
+59,D,2021-03-03 20:30:00,2021-03-01,ALSK,Lindamood Sean,"VP, Business Sales",M - OptEx,0.0,5906,20704,+40%,0.0,,,,,ALSK
+60,D,2021-03-03 20:28:02,2021-03-01,ALSK,Benken Richard,VP Network Strategy,F - Tax,3.28,-5653,52457,-10%,-18542.0,,,,,ALSK
+61,D,2021-03-03 20:28:02,2021-03-01,ALSK,Benken Richard,VP Network Strategy,M - OptEx,0.0,15950,52457,+44%,0.0,,,,,ALSK
+62,D,2021-03-03 20:26:29,2021-03-01,ALSK,David Aurora,"VP, Information Technology",F - Tax,3.28,-4833,158640,-3%,-15852.0,,,,,ALSK
+63,D,2021-03-03 20:26:29,2021-03-01,ALSK,David Aurora,"VP, Information Technology",M - OptEx,0.0,16296,158640,+11%,0.0,,,,,ALSK
+64,D,2021-03-03 20:23:39,2021-03-01,ALSK,Williams Diedre,"SVP, Operations",F - Tax,3.28,-7017,107676,-6%,-23016.0,,,,,ALSK
+65,D,2021-03-03 20:23:39,2021-03-01,ALSK,Williams Diedre,"SVP, Operations",M - OptEx,0.0,24191,107676,+29%,0.0,,,,,ALSK
+66,D,2021-03-03 20:21:20,2021-03-01,ALSK,Butcher Laurie,CFO,F - Tax,3.28,-6342,292451,-2%,-20802.0,,,,,ALSK
+67,D,2021-03-03 20:21:20,2021-03-01,ALSK,Butcher Laurie,CFO,M - OptEx,0.0,26559,292451,+10%,0.0,,,,,ALSK
+68,D,2021-03-03 20:17:15,2021-03-01,ALSK,Bishop William H,"Pres, CEO",F - Tax,3.28,-7428,271649,-3%,-24364.0,,,,,ALSK
+69,D,2021-03-03 20:17:15,2021-03-01,ALSK,Bishop William H,"Pres, CEO",M - OptEx,0.0,30758,271649,+13%,0.0,,,,,ALSK
+70,D,2021-03-03 20:16:07,2021-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,3.28,-8998,734628,-1%,-29513.0,,,,,ALSK
+71,D,2021-03-03 20:16:07,2021-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,36950,734628,+5%,0.0,,,,,ALSK
+72,A,2021-01-14 12:34:55,2021-01-06,ALSK,Williams Diedre,"SVP, Operations",A - Grant,0.0,9213,90502,+11%,0.0,,,,,ALSK
+73,A,2021-01-14 12:34:55,2021-01-06,ALSK,Williams Diedre,"SVP, Operations",F - Tax,3.34,-2778,90502,-3%,-9279.0,,,,,ALSK
+74,A,2021-01-14 12:32:21,2021-01-06,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,47156,1426899,+3%,0.0,,,,,ALSK
+75,A,2021-01-14 12:32:21,2021-01-06,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,3.34,-13547,1426899,-1%,-45247.0,,,,,ALSK
+76,A,2021-01-14 12:29:23,2020-01-06,ALSK,David Aurora,"VP, Information Technology",A - Grant,0.0,10564,147177,+8%,0.0,,,,,ALSK
+77,A,2021-01-14 12:29:23,2020-01-06,ALSK,David Aurora,"VP, Information Technology",F - Tax,3.34,-3186,147177,-2%,-10641.0,,,,,ALSK
+78,A,2021-01-14 12:27:31,2021-01-06,ALSK,Butcher Laurie,CFO,A - Grant,0.0,31437,272234,+13%,0.0,,,,,ALSK
+79,A,2021-01-14 12:27:31,2021-01-06,ALSK,Butcher Laurie,CFO,F - Tax,3.34,-9374,272234,-3%,-31309.0,,,,,ALSK
+80,A,2021-01-14 12:21:58,2021-01-06,ALSK,Bishop William H,"Pres, CEO",A - Grant,0.0,34712,248319,+16%,0.0,,,,,ALSK
+81,A,2021-01-14 12:21:58,2021-01-06,ALSK,Bishop William H,"Pres, CEO",F - Tax,3.34,-10338,248319,-4%,-34529.0,,,,,ALSK
+82,A,2021-01-14 12:18:25,2021-01-06,ALSK,Benken Richard,VP Network Strategy,A - Grant,0.0,9655,42160,+30%,0.0,,,,,ALSK
+83,A,2021-01-14 12:18:25,2021-01-06,ALSK,Benken Richard,VP Network Strategy,F - Tax,3.34,-3422,42160,-8%,-11429.0,,,,,ALSK
+84,,2021-01-08 21:55:02,2021-01-06,ALSK,Bishop William H,"Pres, CEO",A - Grant,0.0,34712,250204,+16%,0.0,,,,,ALSK
+85,,2021-01-08 21:55:02,2021-01-06,ALSK,Bishop William H,"Pres, CEO",F - Tax,3.34,-8453,250204,-3%,-28233.0,,,,,ALSK
+86,,2021-01-08 21:48:02,2021-01-06,ALSK,Williams Diedre,"SVP, Operations",A - Grant,0.0,9213,90742,+11%,0.0,,,,,ALSK
+87,,2021-01-08 21:48:02,2021-01-06,ALSK,Williams Diedre,"SVP, Operations",F - Tax,3.34,-2538,90742,-3%,-8477.0,,,,,ALSK
+88,,2021-01-08 21:47:12,2021-01-06,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,47156,1427006,+3%,0.0,,,,,ALSK
+89,,2021-01-08 21:47:12,2021-01-06,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,3.34,-13440,1427006,-1%,-44890.0,,,,,ALSK
+90,,2021-01-08 21:46:34,2021-01-06,ALSK,Butcher Laurie,CFO,A - Grant,0.0,31437,274136,+13%,0.0,,,,,ALSK
+91,,2021-01-08 21:46:34,2021-01-06,ALSK,Butcher Laurie,CFO,F - Tax,3.34,-7472,274136,-3%,-24956.0,,,,,ALSK
+92,,2021-01-08 21:45:32,2020-01-06,ALSK,David Aurora,"VP, Information Technology",A - Grant,0.0,10564,147230,+8%,0.0,,,,,ALSK
+93,,2021-01-08 21:45:32,2020-01-06,ALSK,David Aurora,"VP, Information Technology",F - Tax,3.34,-3133,147230,-2%,-10464.0,,,,,ALSK
+94,,2021-01-08 21:44:29,2021-01-06,ALSK,Butcher Laurie,CFO,A - Grant,0.0,31437,274136,+13%,0.0,,,,,ALSK
+95,,2021-01-08 21:44:29,2021-01-06,ALSK,Butcher Laurie,CFO,F - Tax,3.34,-7472,274136,-3%,-24956.0,,,,,ALSK
+96,,2021-01-08 21:43:49,2021-01-06,ALSK,Benken Richard,VP Network Strategy,A - Grant,0.0,9655,35927,+37%,0.0,,,,,ALSK
+97,,2021-01-08 21:43:49,2021-01-06,ALSK,Benken Richard,VP Network Strategy,F - Tax,3.34,-3422,35927,-9%,-11429.0,,,,,ALSK
+98,D,2020-12-31 20:38:03,2020-12-31,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,3.69,-1320,673067,0%,-4871.0,,,,,ALSK
+99,D,2020-12-31 20:38:03,2020-12-31,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,1320,673067,0%,0.0,,,,,ALSK
+100,D,2020-12-31 20:36:49,2020-12-31,ALSK,Butcher Laurie,CFO,F - Tax,3.69,-2508,250171,-1%,-9255.0,,,,,ALSK
+101,D,2020-12-31 20:36:49,2020-12-31,ALSK,Butcher Laurie,CFO,M - OptEx,0.0,2508,250171,+1%,0.0,,,,,ALSK
+102,M,2020-12-01 18:13:26,2020-09-15,ALSK,Ley Peter D,Former Director,S - Sale,2.45,-184478,6548,-97%,-452761.0,,,,,ALSK
+103,M,2020-11-27 16:04:31,2020-11-19,ALSK,Ross Brian A,Former Director,P - Purchase,3.1,160284,0,-100%,496769.0,,,,,ALSK
+104,D,2020-06-18 21:40:11,2020-06-16,ALSK,Ley Peter D,Dir,M - OptEx,2.51,154478,154478,New,387740.0,,,,,ALSK
+105,D,2020-06-18 21:39:11,2020-06-16,ALSK,Ross Brian A,Dir,M - OptEx,2.51,22607,22607,New,56744.0,,,,,ALSK
+106,D,2020-06-01 19:45:27,2020-05-29,ALSK,Brown Margaret L,Former Director,M - OptEx,2.61,1389,1389,New,3625.0,,,,,ALSK
+107,A,2020-04-16 19:08:37,2020-03-31,ALSK,Aquino Peter D,Dir,A - Grant,0.0,0,15000,0%,0.0,,,,,ALSK
+108,A,2020-04-16 19:07:55,2020-03-31,ALSK,Barr Wayne Jr,Dir,A - Grant,0.0,0,28974,0%,0.0,,,,,ALSK
+109,A,2020-04-16 19:07:16,2020-03-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,0,133330,0%,0.0,,,,,ALSK
+110,,2020-04-02 18:43:29,2020-03-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,7184,140514,+5%,0.0,,,,,ALSK
+111,,2020-04-02 18:42:45,2020-03-31,ALSK,Aquino Peter D,Dir,A - Grant,0.0,7184,22184,+48%,0.0,,,,,ALSK
+112,,2020-04-02 18:42:08,2020-03-31,ALSK,Barr Wayne Jr,Dir,A - Grant,0.0,7184,36158,+25%,0.0,,,,,ALSK
+113,,2020-03-31 20:35:58,2020-03-27,ALSK,Barnes Beth,"VP, Mass Markets, Marketing",A - Grant,0.0,1658,19842,+9%,0.0,,,,,ALSK
+114,,2020-03-31 20:35:58,2020-03-27,ALSK,Barnes Beth,"VP, Mass Markets, Marketing",F - Tax,1.73,-492,19842,-2%,-851.0,,,,,ALSK
+115,,2020-03-31 20:35:17,2020-03-27,ALSK,Bishop William H,"Pres, CEO",A - Grant,0.0,25686,219360,+13%,0.0,,,,,ALSK
+116,,2020-03-31 20:35:17,2020-03-27,ALSK,Bishop William H,"Pres, CEO",F - Tax,1.73,-6255,219360,-3%,-10821.0,,,,,ALSK
+117,,2020-03-31 20:34:45,2020-03-27,ALSK,Butcher Laurie,CFO,A - Grant,0.0,23263,250171,+10%,0.0,,,,,ALSK
+118,,2020-03-31 20:34:45,2020-03-27,ALSK,Butcher Laurie,CFO,F - Tax,1.73,-5529,250171,-2%,-9565.0,,,,,ALSK
+119,,2020-03-31 20:34:07,2020-03-27,ALSK,Williams Diedre,"SVP Ops., People Matter",A - Grant,0.0,10118,84067,+14%,0.0,,,,,ALSK
+120,,2020-03-31 20:34:07,2020-03-27,ALSK,Williams Diedre,"SVP Ops., People Matter",F - Tax,1.73,-2787,84067,-3%,-4822.0,,,,,ALSK
+121,,2020-03-31 20:33:39,2020-03-27,ALSK,David Aurora,"VP, Information Technology",A - Grant,0.0,11600,139799,+9%,0.0,,,,,ALSK
+122,,2020-03-31 20:33:39,2020-03-27,ALSK,David Aurora,"VP, Information Technology",F - Tax,1.73,-3440,139799,-2%,-5951.0,,,,,ALSK
+123,,2020-03-31 20:33:08,2020-03-27,ALSK,Benken Richard,VP Network Stategy,A - Grant,0.0,5706,23184,+33%,0.0,,,,,ALSK
+124,,2020-03-31 20:33:08,2020-03-27,ALSK,Benken Richard,VP Network Stategy,F - Tax,1.73,-2023,23184,-8%,-3500.0,,,,,ALSK
+125,,2020-03-31 20:32:37,2020-03-27,ALSK,Lindamood Sean,"VP, Business Sales",A - Grant,0.0,2210,16579,+15%,0.0,,,,,ALSK
+126,,2020-03-31 20:32:37,2020-03-27,ALSK,Lindamood Sean,"VP, Business Sales",F - Tax,1.73,-656,16579,-4%,-1135.0,,,,,ALSK
+127,,2020-03-31 20:31:57,2020-03-27,ALSK,Gutcher Jim,"VP, Strategy, Product Mgt.",A - Grant,0.0,1980,34403,+6%,0.0,,,,,ALSK
+128,,2020-03-31 20:31:57,2020-03-27,ALSK,Gutcher Jim,"VP, Strategy, Product Mgt.",F - Tax,1.73,-594,34403,-2%,-1028.0,,,,,ALSK
+129,,2020-03-31 20:31:21,2020-03-27,ALSK,Hoogerhyde Tiffany,"VP, Finance, Controller",A - Grant,0.0,1658,14698,+13%,0.0,,,,,ALSK
+130,,2020-03-31 20:31:21,2020-03-27,ALSK,Hoogerhyde Tiffany,"VP, Finance, Controller",F - Tax,1.73,-493,14698,-3%,-853.0,,,,,ALSK
+131,,2020-03-31 20:29:33,2020-03-27,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,34895,1356080,+3%,0.0,,,,,ALSK
+132,,2020-03-31 20:29:33,2020-03-27,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.73,-9946,1356080,-1%,-17207.0,,,,,ALSK
+133,D,2020-03-03 21:07:34,2020-03-01,ALSK,Barnes Beth,"VP, Mass Markets, Marketing",F - Tax,2.1,-2373,18676,-11%,-4983.0,,,,,ALSK
+134,D,2020-03-03 21:07:34,2020-03-01,ALSK,Barnes Beth,"VP, Mass Markets, Marketing",M - OptEx,0.0,7999,18676,+75%,0.0,,,,,ALSK
+135,D,2020-03-03 21:07:04,2020-03-01,ALSK,Benken Richard,VP Network Stategy,F - Tax,2.1,-6370,19501,-25%,-13377.0,,,,,ALSK
+136,D,2020-03-03 21:07:04,2020-03-01,ALSK,Benken Richard,VP Network Stategy,M - OptEx,0.0,18380,19501,>999%,0.0,,,,,ALSK
+137,D,2020-03-03 21:06:33,2020-03-01,ALSK,Bishop William H,"Pres, CEO",F - Tax,2.1,-10737,199929,-5%,-22548.0,,,,,ALSK
+138,D,2020-03-03 21:06:33,2020-03-01,ALSK,Bishop William H,"Pres, CEO",M - OptEx,0.0,44982,199929,+29%,0.0,,,,,ALSK
+139,D,2020-03-03 21:05:58,2020-03-01,ALSK,David Aurora,"VP, Information Technology",F - Tax,2.1,-6726,131639,-5%,-14125.0,,,,,ALSK
+140,D,2020-03-03 21:05:58,2020-03-01,ALSK,David Aurora,"VP, Information Technology",M - OptEx,0.0,22680,131639,+21%,0.0,,,,,ALSK
+141,D,2020-03-03 21:05:25,2020-03-01,ALSK,Gutcher Jim,"VP, Strategy, Product Mgt.",F - Tax,2.1,-805,33017,-2%,-1691.0,,,,,ALSK
+142,D,2020-03-03 21:05:25,2020-03-01,ALSK,Gutcher Jim,"VP, Strategy, Product Mgt.",M - OptEx,0.0,2667,33017,+9%,0.0,,,,,ALSK
+143,D,2020-03-03 21:04:49,2020-03-01,ALSK,Hoogerhyde Tiffany,"VP, Finance, Controller",F - Tax,2.1,-604,13533,-4%,-1268.0,,,,,ALSK
+144,D,2020-03-03 21:04:49,2020-03-01,ALSK,Hoogerhyde Tiffany,"VP, Finance, Controller",M - OptEx,0.0,2000,13533,+17%,0.0,,,,,ALSK
+145,D,2020-03-03 21:04:21,2020-03-01,ALSK,Lindamood Sean,"VP, Business Sales",F - Tax,2.1,-1752,13486,-11%,-3679.0,,,,,ALSK
+146,D,2020-03-03 21:04:21,2020-03-01,ALSK,Lindamood Sean,"VP, Business Sales",M - OptEx,0.0,5907,13486,+78%,0.0,,,,,ALSK
+147,D,2020-03-03 21:03:52,2020-03-01,ALSK,Butcher Laurie,CFO,F - Tax,2.1,-10324,232437,-4%,-21680.0,,,,,ALSK
+148,D,2020-03-03 21:03:52,2020-03-01,ALSK,Butcher Laurie,CFO,M - OptEx,0.0,40844,232437,+21%,0.0,,,,,ALSK
+149,D,2020-03-03 21:03:21,2020-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,2.1,-12222,648118,-2%,-25666.0,,,,,ALSK
+150,D,2020-03-03 21:03:21,2020-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,55548,648118,+9%,0.0,,,,,ALSK
+151,D,2020-03-03 21:02:39,2020-03-01,ALSK,Williams Diedre,"SVP Ops., People Matter",F - Tax,2.1,-8824,76736,-10%,-18530.0,,,,,ALSK
+152,D,2020-03-03 21:02:39,2020-03-01,ALSK,Williams Diedre,"SVP Ops., People Matter",M - OptEx,0.0,29757,76736,+63%,0.0,,,,,ALSK
+153,D,2019-12-30 18:13:01,2019-12-27,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.77,-2523,604792,0%,-4466.0,,,,,ALSK
+154,D,2019-12-30 18:13:01,2019-12-27,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,2523,604792,0%,0.0,,,,,ALSK
+155,,2019-12-09 19:18:08,2019-12-05,ALSK,Aquino Peter D,Dir,P - Purchase,1.73,15000,15000,New,25932.0,,,,,ALSK
+156,D,2019-05-31 19:30:58,2019-05-29,ALSK,Brown Margaret L,Dir,M - OptEx,1.67,142261,142261,New,237575.0,,,,,ALSK
+157,D,2019-03-05 20:37:43,2019-03-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.73,-97965,1703324,-5%,-169479.0,,,,,ALSK
+158,D,2019-03-05 20:37:43,2019-03-01,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,244817,1703324,+17%,0.0,,,,,ALSK
+159,D,2019-03-05 20:14:08,2019-03-01,ALSK,Butcher Laurie,"SVP, Finance",F - Tax,1.73,-11184,201917,-5%,-19348.0,,,,,ALSK
+160,D,2019-03-05 20:14:08,2019-03-01,ALSK,Butcher Laurie,"SVP, Finance",M - OptEx,0.0,37674,201917,+23%,0.0,,,,,ALSK
+161,D,2019-03-05 20:13:20,2019-03-01,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",F - Tax,1.73,-12617,209876,-6%,-21827.0,,,,,ALSK
+162,D,2019-03-05 20:13:20,2019-03-01,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",M - OptEx,0.0,42492,209876,+25%,0.0,,,,,ALSK
+163,D,2019-03-05 20:12:34,2019-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.73,-12047,604792,-2%,-20841.0,,,,,ALSK
+164,D,2019-03-05 20:12:34,2019-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,54752,604792,+10%,0.0,,,,,ALSK
+165,D,2019-03-05 20:11:54,2019-03-01,ALSK,Bishop William H,"SVP, Business Market",F - Tax,1.73,-11797,163560,-7%,-20409.0,,,,,ALSK
+166,D,2019-03-05 20:11:54,2019-03-01,ALSK,Bishop William H,"SVP, Business Market",M - OptEx,0.0,39715,163560,+32%,0.0,,,,,ALSK
+167,D,2018-12-10 18:09:06,2018-12-06,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.5,-924,562087,0%,-1386.0,,,,,ALSK
+168,D,2018-12-10 18:09:06,2018-12-06,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,924,562087,0%,0.0,,,,,ALSK
+169,M,2018-06-18 17:04:25,2018-06-14,ALSK,Bishop William H,"SVP, Business Market",S - Sale,1.66,-35000,131791,-21%,-58199.0,,,,,ALSK
+170,,2018-06-05 17:51:05,2018-06-01,ALSK,Barr Wayne Jr,Dir,P - Purchase,1.67,10000,28974,+53%,16700.0,,,,,ALSK
+171,M,2018-05-30 18:59:57,2018-05-25,ALSK,Barr Wayne Jr,Dir,P - Purchase,1.7,13430,18974,+242%,22880.0,,,,,ALSK
+172,,2018-05-25 16:51:03,2018-05-24,ALSK,Barr Wayne Jr,Dir,P - Purchase,1.7,5544,5544,New,9425.0,,,,,ALSK
+173,,2018-04-03 18:41:44,2018-03-29,ALSK,Odonnell Shawn Francis,Dir,A - Grant,0.0,6944,17114,+68%,0.0,,,,,ALSK
+174,,2018-04-03 18:40:53,2018-03-29,ALSK,Ross Brian A,Dir,A - Grant,0.0,6944,133330,+5%,0.0,,,,,ALSK
+175,,2018-04-03 18:39:23,2018-03-29,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11111,275419,+4%,0.0,,,,,ALSK
+176,,2018-04-02 17:07:11,2018-03-29,ALSK,Butcher Laurie,"SVP, Finance",A - Grant,0.0,7661,175427,+5%,0.0,,,,,ALSK
+177,,2018-04-02 17:07:11,2018-03-29,ALSK,Butcher Laurie,"SVP, Finance",F - Tax,1.8,-1798,175427,-1%,-3236.0,,,,,ALSK
+178,,2018-04-02 17:05:44,2018-03-29,ALSK,Bishop William H,"SVP, Business Market",A - Grant,0.0,7740,166791,+5%,0.0,,,,,ALSK
+179,,2018-04-02 17:05:44,2018-03-29,ALSK,Bishop William H,"SVP, Business Market",F - Tax,1.8,-1817,166791,-1%,-3271.0,,,,,ALSK
+180,,2018-04-02 17:04:48,2018-03-29,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",A - Grant,0.0,11254,180001,+7%,0.0,,,,,ALSK
+181,,2018-04-02 17:04:48,2018-03-29,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",F - Tax,1.8,-2640,180001,-1%,-4752.0,,,,,ALSK
+182,,2018-04-02 17:04:14,2018-03-29,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,15433,562087,+3%,0.0,,,,,ALSK
+183,,2018-04-02 17:04:14,2018-03-29,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.8,-4716,562087,-1%,-8489.0,,,,,ALSK
+184,,2018-04-02 17:03:27,2018-03-29,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,66992,1556472,+4%,0.0,,,,,ALSK
+185,,2018-04-02 17:03:27,2018-03-29,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.8,-16313,1556472,-1%,-29363.0,,,,,ALSK
+186,AD,2018-03-09 16:38:55,2018-03-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,2.12,-80052,1505793,-5%,-169710.0,,,,,ALSK
+187,AD,2018-03-09 16:38:55,2018-03-01,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,324336,1505793,+27%,0.0,,,,,ALSK
+188,AD,2018-03-09 16:38:04,2018-03-01,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",F - Tax,2.12,-15621,171387,-8%,-33117.0,,,,,ALSK
+189,AD,2018-03-09 16:38:04,2018-03-01,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",M - OptEx,0.0,55324,171387,+48%,0.0,,,,,ALSK
+190,D,2018-03-05 21:14:11,2018-03-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,2.12,-79741,1506104,-5%,-169051.0,,,,,ALSK
+191,D,2018-03-05 21:14:11,2018-03-01,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,324336,1506104,+27%,0.0,,,,,ALSK
+192,D,2018-03-05 21:12:19,2018-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,2.12,-15924,551370,-3%,-33759.0,,,,,ALSK
+193,D,2018-03-05 21:12:19,2018-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,72379,551370,+15%,0.0,,,,,ALSK
+194,D,2018-03-05 21:10:11,2018-03-01,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",F - Tax,2.12,-16417,170591,-9%,-34804.0,,,,,ALSK
+195,D,2018-03-05 21:10:11,2018-03-01,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",M - OptEx,0.0,55324,170591,+48%,0.0,,,,,ALSK
+196,D,2018-03-05 21:08:37,2018-03-01,ALSK,Butcher Laurie,"SVP, Finance",F - Tax,2.12,-12443,169564,-7%,-26379.0,,,,,ALSK
+197,D,2018-03-05 21:08:37,2018-03-01,ALSK,Butcher Laurie,"SVP, Finance",M - OptEx,0.0,41926,169564,+33%,0.0,,,,,ALSK
+198,D,2018-03-05 21:07:39,2018-03-01,ALSK,Bishop William H,"SVP, Business Market",F - Tax,2.12,-12813,160868,-7%,-27164.0,,,,,ALSK
+199,D,2018-03-05 21:07:39,2018-03-01,ALSK,Bishop William H,"SVP, Business Market",M - OptEx,0.0,43497,160868,+37%,0.0,,,,,ALSK
+200,,2018-02-23 19:51:43,2018-02-22,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.15,-3754,1261509,0%,-8058.0,,,,,ALSK
+201,,2018-02-16 18:23:53,2018-02-15,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.16,-10000,1265263,-1%,-21609.0,,,,,ALSK
+202,,2018-02-09 20:06:57,2018-02-08,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.25,-10000,1275263,-1%,-22527.0,,,,,ALSK
+203,,2018-02-02 17:16:37,2018-02-01,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.3,-10000,1285263,-1%,-23030.0,,,,,ALSK
+204,,2018-01-26 18:08:37,2018-01-25,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.36,-10000,1295263,-1%,-23566.0,,,,,ALSK
+205,,2018-01-19 19:51:16,2018-01-18,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.49,-10000,1305263,-1%,-24889.0,,,,,ALSK
+206,,2018-01-12 18:29:44,2018-01-11,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.56,-10000,1315263,-1%,-25588.0,,,,,ALSK
+207,,2018-01-05 20:39:41,2018-01-04,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.64,-10000,1325263,-1%,-26432.0,,,,,ALSK
+208,,2018-01-02 17:58:33,2017-12-29,ALSK,Odonnell Shawn Francis,Dir,A - Grant,0.0,4664,10170,+85%,0.0,,,,,ALSK
+209,,2018-01-02 17:56:34,2017-12-29,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,7462,264308,+3%,0.0,,,,,ALSK
+210,,2017-12-29 17:19:28,2017-12-28,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.77,-10000,1335263,-1%,-27660.0,,,,,ALSK
+211,,2017-12-22 16:20:00,2017-12-21,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.72,-10000,1345263,-1%,-27190.0,,,,,ALSK
+212,,2017-12-18 16:37:48,2017-12-14,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.52,-10000,1355263,-1%,-25240.0,,,,,ALSK
+213,D,2017-12-13 18:35:07,2017-12-11,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,2.35,-1806,494915,0%,-4244.0,,,,,ALSK
+214,D,2017-12-13 18:35:07,2017-12-11,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,1806,494915,0%,0.0,,,,,ALSK
+215,,2017-12-11 18:24:58,2017-12-07,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.1,-10000,1365263,-1%,-20974.0,,,,,ALSK
+216,,2017-12-04 16:51:21,2017-11-30,ALSK,Vadapalli Anand,"CEO, Pres",S - Sale,2.1,-10000,1375263,-1%,-21018.0,,,,,ALSK
+217,,2017-10-03 20:19:12,2017-09-30,ALSK,Odonnell Shawn Francis,Dir,A - Grant,0.0,5506,5506,New,0.0,,,,,ALSK
+218,,2017-10-03 20:16:46,2017-09-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,8810,256846,+4%,0.0,,,,,ALSK
+219,,2017-08-22 17:19:40,2017-08-18,ALSK,Todd Michael R,"SVP, Consumer Market",S - Sale,2.07,-2500,214054,-1%,-5178.0,,,,,ALSK
+220,M,2017-08-15 16:42:25,2017-08-11,ALSK,Todd Michael R,"SVP, Consumer Market",S - Sale,2.19,-5000,216554,-2%,-10925.0,,,,,ALSK
+221,M,2017-08-08 17:13:13,2017-08-04,ALSK,Todd Michael R,"SVP, Consumer Market",S - Sale,2.37,-5000,221554,-2%,-11850.0,,,,,ALSK
+222,M,2017-08-01 21:37:16,2017-07-28,ALSK,Todd Michael R,"SVP, Consumer Market",S - Sale,2.24,-5000,226554,-2%,-11200.0,,,,,ALSK
+223,M,2017-07-25 17:08:46,2017-07-21,ALSK,Todd Michael R,"SVP, Consumer Market",S - Sale,2.38,-5000,231554,-2%,-11875.0,,,,,ALSK
+224,M,2017-07-18 17:35:01,2017-07-14,ALSK,Todd Michael R,"SVP, Consumer Market",S - Sale,2.15,-5000,236554,-2%,-10740.0,,,,,ALSK
+225,,2017-07-12 16:58:45,2017-07-10,ALSK,Todd Michael R,"SVP, Consumer Market",S - Sale,2.14,-2500,241554,-1%,-5338.0,,,,,ALSK
+226,,2017-07-05 17:49:26,2017-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,9090,248036,+4%,0.0,,,,,ALSK
+227,,2017-05-17 17:46:07,2017-05-17,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",S - Sale,2.08,-3023,494915,-1%,-6288.0,,,,,ALSK
+228,,2017-05-11 17:24:28,2017-05-11,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",S - Sale,2.21,-2824,497938,-1%,-6241.0,0.0,,,,ALSK
+229,,2017-04-21 17:54:22,2017-04-20,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",S - Sale,2.34,-2000,500762,0%,-4680.0,1.0,-6.0,,,ALSK
+230,,2017-04-07 20:41:29,2017-04-06,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",S - Sale,1.86,-2000,502762,0%,-3720.0,2.0,16.0,16.0,,ALSK
+231,,2017-04-03 20:14:35,2017-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,10810,238946,+5%,0.0,2.0,4.0,36.0,,ALSK
+232,,2017-03-23 17:53:28,2017-03-23,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",S - Sale,1.88,-2000,504762,0%,-3760.0,-2.0,-2.0,34.0,,ALSK
+233,,2017-03-20 20:59:49,2017-03-17,ALSK,Bishop William H,"SVP, Business Market",A - Grant,0.0,35565,263366,+16%,0.0,-5.0,-6.0,11.0,,ALSK
+234,,2017-03-20 20:59:49,2017-03-17,ALSK,Bishop William H,"SVP, Business Market",F - Tax,1.81,-9535,263366,-3%,-17258.0,-5.0,-6.0,11.0,,ALSK
+235,,2017-03-20 20:58:44,2017-03-17,ALSK,Butcher Laurie,"SVP, Finance",A - Grant,0.0,34221,140081,+32%,0.0,-5.0,-6.0,11.0,,ALSK
+236,,2017-03-20 20:58:44,2017-03-17,ALSK,Butcher Laurie,"SVP, Finance",F - Tax,1.81,-10014,140081,-7%,-18125.0,-5.0,-6.0,11.0,,ALSK
+237,,2017-03-20 20:57:41,2017-03-17,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",A - Grant,0.0,38964,131684,+42%,0.0,-5.0,-6.0,11.0,,ALSK
+238,,2017-03-20 20:57:41,2017-03-17,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",F - Tax,1.81,-10494,131684,-7%,-18994.0,-5.0,-6.0,11.0,,ALSK
+239,,2017-03-20 20:54:43,2017-03-17,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,53437,506762,+12%,0.0,-5.0,-6.0,11.0,,ALSK
+240,,2017-03-20 20:54:43,2017-03-17,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.81,-16399,506762,-3%,-29682.0,-5.0,-6.0,11.0,,ALSK
+241,,2017-03-20 20:53:33,2017-03-17,ALSK,Todd Michael R,"SVP, Consumer Market",A - Grant,0.0,41146,244054,+20%,0.0,-5.0,-6.0,11.0,,ALSK
+242,,2017-03-20 20:53:33,2017-03-17,ALSK,Todd Michael R,"SVP, Consumer Market",F - Tax,1.81,-11055,244054,-4%,-20010.0,-5.0,-6.0,11.0,,ALSK
+243,,2017-03-20 20:52:09,2017-03-17,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,231954,1385263,+20%,0.0,-5.0,-6.0,11.0,,ALSK
+244,,2017-03-20 20:52:09,2017-03-17,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.81,-63957,1385263,-4%,-115762.0,-5.0,-6.0,11.0,,ALSK
+245,,2017-03-09 19:58:55,2017-03-09,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",S - Sale,1.61,-2000,469724,0%,-3220.0,-4.0,9.0,13.0,,ALSK
+246,D,2017-03-03 21:43:45,2017-03-01,ALSK,Bishop William H,"SVP, Business Market",F - Tax,1.67,-9589,100885,-9%,-16014.0,1.0,1.0,11.0,,ALSK
+247,D,2017-03-03 21:43:45,2017-03-01,ALSK,Bishop William H,"SVP, Business Market",M - OptEx,0.0,29365,100885,+41%,0.0,1.0,1.0,11.0,,ALSK
+248,D,2017-03-03 21:31:51,2017-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.67,-19596,471724,-4%,-32725.0,1.0,1.0,11.0,,ALSK
+249,D,2017-03-03 21:31:51,2017-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,78382,471724,+20%,0.0,1.0,1.0,11.0,,ALSK
+250,D,2017-03-03 21:29:35,2017-03-01,ALSK,Butcher Laurie,"SVP, Finance",F - Tax,1.67,-9517,115874,-8%,-15893.0,1.0,1.0,11.0,,ALSK
+251,D,2017-03-03 21:29:35,2017-03-01,ALSK,Butcher Laurie,"SVP, Finance",M - OptEx,0.0,29124,115874,+34%,0.0,1.0,1.0,11.0,,ALSK
+252,D,2017-03-03 21:18:21,2017-03-01,ALSK,Todd Michael R,"SVP, Consumer Market",F - Tax,1.67,-19513,213963,-8%,-32587.0,1.0,1.0,11.0,,ALSK
+253,D,2017-03-03 21:18:21,2017-03-01,ALSK,Todd Michael R,"SVP, Consumer Market",M - OptEx,0.0,62307,213963,+41%,0.0,1.0,1.0,11.0,,ALSK
+254,D,2017-03-03 21:16:54,2017-03-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.67,-97144,1217266,-7%,-162230.0,1.0,1.0,11.0,,ALSK
+255,D,2017-03-03 21:16:54,2017-03-01,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,351234,1217266,+41%,0.0,1.0,1.0,11.0,,ALSK
+256,D,2017-03-03 21:15:02,2017-03-01,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",F - Tax,1.67,-18144,103214,-15%,-30300.0,1.0,1.0,11.0,,ALSK
+257,D,2017-03-03 21:15:02,2017-03-01,ALSK,Ritter Randy M,"Sr Vice Pres, Shared Services",M - OptEx,0.0,59004,103214,+133%,0.0,1.0,1.0,11.0,,ALSK
+258,,2017-02-24 19:36:52,2017-02-23,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",S - Sale,1.65,-1453,412938,0%,-2397.0,2.0,3.0,12.0,,ALSK
+259,,2017-02-10 19:05:42,2017-02-09,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",S - Sale,1.65,-2000,414391,0%,-3300.0,4.0,1.0,0.0,,ALSK
+260,,2017-01-27 17:18:31,2017-01-26,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",S - Sale,1.66,-2000,416391,0%,-3320.0,-1.0,0.0,1.0,,ALSK
+261,,2017-01-13 17:50:06,2017-01-12,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",S - Sale,1.72,-2000,418391,0%,-3440.0,-1.0,0.0,2.0,,ALSK
+262,,2017-01-03 17:07:41,2016-12-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,12195,228136,+6%,0.0,1.0,4.0,2.0,,ALSK
+263,,2017-01-03 16:39:22,2016-12-30,ALSK,Ross Brian A,Dir,A - Grant,0.0,7621,126386,+6%,0.0,1.0,4.0,2.0,,ALSK
+264,D,2016-12-13 19:30:22,2016-12-12,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.62,-2550,420391,-1%,-4131.0,-1.0,-2.0,3.0,,ALSK
+265,D,2016-12-13 19:30:22,2016-12-12,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,2550,420391,+1%,0.0,-1.0,-2.0,3.0,,ALSK
+266,,2016-10-03 16:59:59,2016-09-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11627,215941,+6%,0.0,1.0,-1.0,-7.0,2.0,ALSK
+267,,2016-10-03 16:33:24,2016-09-30,ALSK,Ross Brian A,Dir,A - Grant,0.0,7267,118765,+7%,0.0,1.0,-1.0,-7.0,2.0,ALSK
+268,,2016-07-01 18:45:05,2016-06-30,ALSK,Ross Brian A,Dir,A - Grant,0.0,7352,111498,+7%,0.0,-1.0,-1.0,-2.0,-4.0,ALSK
+269,,2016-07-01 18:40:12,2016-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11764,204314,+6%,0.0,-1.0,-1.0,-2.0,-4.0,ALSK
+270,,2016-04-01 19:35:28,2016-03-31,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",A - Grant,0.0,20391,62354,+49%,0.0,-1.0,0.0,-3.0,-10.0,ALSK
+271,,2016-04-01 19:35:28,2016-03-31,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",F - Tax,1.78,-5394,62354,-8%,-9601.0,-1.0,0.0,-3.0,-10.0,ALSK
+272,,2016-04-01 19:33:17,2016-03-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,7022,104146,+7%,0.0,-1.0,0.0,-3.0,-10.0,ALSK
+273,,2016-04-01 19:29:15,2016-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11235,192550,+6%,0.0,-1.0,0.0,-3.0,-10.0,ALSK
+274,D,2016-03-16 20:23:39,2016-03-14,ALSK,Bishop William H,"SVP, Business Market",A - Grant,0.0,30871,140603,+28%,0.0,-3.0,-2.0,7.0,-1.0,ALSK
+275,D,2016-03-16 20:23:39,2016-03-14,ALSK,Bishop William H,"SVP, Business Market",F - Tax,1.77,-9804,140603,-7%,-17353.0,-3.0,-2.0,7.0,-1.0,ALSK
+276,D,2016-03-16 20:22:11,2016-03-14,ALSK,Butcher Laurie,"SVP, Finance",A - Grant,0.0,29703,96267,+45%,0.0,-3.0,-2.0,7.0,-1.0,ALSK
+277,D,2016-03-16 20:22:11,2016-03-14,ALSK,Butcher Laurie,"SVP, Finance",F - Tax,1.77,-9582,96267,-9%,-16960.0,-3.0,-2.0,7.0,-1.0,ALSK
+278,D,2016-03-16 20:14:56,2016-03-14,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,48554,420391,+13%,0.0,-3.0,-2.0,7.0,-1.0,ALSK
+279,D,2016-03-16 20:14:56,2016-03-14,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.77,-15038,420391,-3%,-26617.0,-3.0,-2.0,7.0,-1.0,ALSK
+280,D,2016-03-16 20:13:11,2016-03-14,ALSK,Todd Michael R,"SVP, Consumer Market",A - Grant,0.0,34115,171169,+25%,0.0,-3.0,-2.0,7.0,-1.0,ALSK
+281,D,2016-03-16 20:13:11,2016-03-14,ALSK,Todd Michael R,"SVP, Consumer Market",F - Tax,1.77,-9073,171169,-5%,-16059.0,-3.0,-2.0,7.0,-1.0,ALSK
+282,D,2016-03-16 20:06:36,2016-03-14,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,184266,963176,+24%,0.0,-3.0,-2.0,7.0,-1.0,ALSK
+283,D,2016-03-16 20:06:36,2016-03-14,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.77,-50398,963176,-5%,-89204.0,-3.0,-2.0,7.0,-1.0,ALSK
+284,,2016-03-07 18:13:09,2016-03-04,ALSK,Todd Michael R,"SVP, Consumer Market",S - Sale,1.8,-6871,146127,-4%,-12368.0,-4.0,-4.0,6.0,-6.0,ALSK
+285,D,2016-03-03 17:25:33,2016-03-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.6,-63777,829308,-7%,-102043.0,1.0,-5.0,4.0,-6.0,ALSK
+286,D,2016-03-03 17:25:33,2016-03-01,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,233522,829308,+39%,0.0,1.0,-5.0,4.0,-6.0,ALSK
+287,D,2016-03-03 17:24:16,2016-03-01,ALSK,Todd Michael R,"SVP, Consumer Market",F - Tax,1.6,-12729,152998,-8%,-20366.0,1.0,-5.0,4.0,-6.0,ALSK
+288,D,2016-03-03 17:24:16,2016-03-01,ALSK,Todd Michael R,"SVP, Consumer Market",M - OptEx,0.0,41424,152998,+37%,0.0,1.0,-5.0,4.0,-6.0,ALSK
+289,D,2016-03-03 17:23:29,2016-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.6,-13028,386875,-3%,-20845.0,1.0,-5.0,4.0,-6.0,ALSK
+290,D,2016-03-03 17:23:29,2016-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,52112,386875,+16%,0.0,1.0,-5.0,4.0,-6.0,ALSK
+291,D,2016-03-03 17:20:28,2016-03-01,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",F - Tax,1.6,-12809,47357,-21%,-20494.0,1.0,-5.0,4.0,-6.0,ALSK
+292,D,2016-03-03 17:20:28,2016-03-01,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",M - OptEx,0.0,39228,47357,+483%,0.0,1.0,-5.0,4.0,-6.0,ALSK
+293,D,2016-03-03 17:18:55,2016-03-01,ALSK,Butcher Laurie,"SVP, Finance",F - Tax,1.6,-3617,76146,-5%,-5787.0,1.0,-5.0,4.0,-6.0,ALSK
+294,D,2016-03-03 17:18:55,2016-03-01,ALSK,Butcher Laurie,"SVP, Finance",M - OptEx,0.0,11045,76146,+17%,0.0,1.0,-5.0,4.0,-6.0,ALSK
+295,D,2016-03-03 17:17:40,2016-03-01,ALSK,Bishop William H,"SVP, Business Market",F - Tax,1.6,-3700,116446,-3%,-5920.0,1.0,-5.0,4.0,-6.0,ALSK
+296,D,2016-03-03 17:17:40,2016-03-01,ALSK,Bishop William H,"SVP, Business Market",M - OptEx,0.0,11285,116446,+11%,0.0,1.0,-5.0,4.0,-6.0,ALSK
+297,D,2016-02-02 20:05:23,2016-02-01,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",F - Tax,1.59,-1402,20938,-6%,-2229.0,-1.0,-4.0,6.0,4.0,ALSK
+298,D,2016-02-02 20:05:23,2016-02-01,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",M - OptEx,0.0,4227,20938,+25%,0.0,-1.0,-4.0,6.0,4.0,ALSK
+299,D,2016-02-02 20:04:15,2016-02-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.59,-22278,659563,-3%,-35422.0,-1.0,-4.0,6.0,4.0,ALSK
+300,D,2016-02-02 20:04:15,2016-02-01,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,71857,659563,+12%,0.0,-1.0,-4.0,6.0,4.0,ALSK
+301,D,2016-01-13 18:43:32,2016-01-11,ALSK,Todd Michael R,"SVP, Consumer Market",F - Tax,1.78,-6007,124303,-5%,-10692.0,2.0,-7.0,-15.0,-2.0,ALSK
+302,D,2016-01-13 18:43:32,2016-01-11,ALSK,Todd Michael R,"SVP, Consumer Market",M - OptEx,0.0,18119,124303,+17%,0.0,2.0,-7.0,-15.0,-2.0,ALSK
+303,D,2016-01-13 18:42:35,2016-01-11,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.78,-5698,347791,-2%,-10142.0,2.0,-7.0,-15.0,-2.0,ALSK
+304,D,2016-01-13 18:42:35,2016-01-11,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,22792,347791,+7%,0.0,2.0,-7.0,-15.0,-2.0,ALSK
+305,,2016-01-05 16:58:34,2016-01-04,ALSK,Todd Michael R,"SVP, Consumer Market",S - Sale,1.74,-8151,112191,-7%,-14183.0,-4.0,-7.0,-17.0,-12.0,ALSK
+306,,2016-01-05 16:57:35,2015-12-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,7142,97124,+8%,0.0,-4.0,-7.0,-17.0,-12.0,ALSK
+307,,2016-01-05 16:53:45,2015-12-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11428,181315,+7%,0.0,-4.0,-7.0,-17.0,-12.0,ALSK
+308,D,2015-12-21 17:25:10,2015-12-17,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.77,-2670,330697,-1%,-4726.0,1.0,1.0,-7.0,-4.0,ALSK
+309,D,2015-12-21 17:25:10,2015-12-17,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,2670,330697,+1%,0.0,1.0,1.0,-7.0,-4.0,ALSK
+310,,2015-10-01 19:30:06,2015-09-30,ALSK,Ross Brian A,Dir,A - Grant,0.0,5707,89982,+7%,0.0,0.0,10.0,4.0,-16.0,ALSK
+311,,2015-10-01 19:26:56,2015-09-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,9132,169887,+6%,0.0,0.0,10.0,4.0,-16.0,ALSK
+312,,2015-07-01 20:48:49,2015-06-30,ALSK,Ross Brian A,Dir,A - Grant,0.0,5208,84275,+7%,0.0,-3.0,-11.0,-9.0,-27.0,ALSK
+313,,2015-07-01 20:44:31,2015-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,8333,160755,+5%,0.0,-3.0,-11.0,-9.0,-27.0,ALSK
+314,D,2015-06-11 17:51:13,2015-06-09,ALSK,Wanamaker John Niles,Dir,A - Grant,0.0,4029,86294,+5%,0.0,0.0,0.0,-10.0,-23.0,ALSK
+315,D,2015-06-11 17:51:13,2015-06-09,ALSK,Wanamaker John Niles,Dir,M - OptEx,0.0,50233,86294,+139%,0.0,0.0,0.0,-10.0,-23.0,ALSK
+316,,2015-06-11 17:49:45,2015-06-09,ALSK,Mills Carol,Dir,A - Grant,0.0,4029,46522,+9%,0.0,0.0,0.0,-10.0,-23.0,ALSK
+317,,2015-04-02 19:48:57,2015-03-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,7440,79067,+10%,0.0,0.0,5.0,38.0,32.0,ALSK
+318,,2015-04-02 19:47:23,2015-03-31,ALSK,Mills Carol,Dir,A - Grant,0.0,7440,42493,+21%,0.0,0.0,5.0,38.0,32.0,ALSK
+319,,2015-04-02 19:42:17,2015-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11904,152422,+8%,0.0,0.0,5.0,38.0,32.0,ALSK
+320,D,2015-03-19 18:06:38,2015-03-17,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,54410,609984,+10%,0.0,-3.0,-5.0,17.0,37.0,ALSK
+321,D,2015-03-19 18:06:38,2015-03-17,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.69,-14882,609984,-2%,-25151.0,-3.0,-5.0,17.0,37.0,ALSK
+322,D,2015-03-19 18:05:39,2015-03-17,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",A - Grant,0.0,10887,120342,+10%,0.0,-3.0,-5.0,17.0,37.0,ALSK
+323,D,2015-03-19 18:05:39,2015-03-17,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,1.69,-2880,120342,-2%,-4867.0,-3.0,-5.0,17.0,37.0,ALSK
+324,D,2015-03-19 18:04:41,2015-03-17,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,17817,330697,+6%,0.0,-3.0,-5.0,17.0,37.0,ALSK
+325,D,2015-03-19 18:04:41,2015-03-17,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.69,-5818,330697,-2%,-9832.0,-3.0,-5.0,17.0,37.0,ALSK
+326,D,2015-03-19 18:02:18,2015-03-17,ALSK,Johnsen James,"Sr Vice Pres, HR",A - Grant,0.0,17446,122012,+17%,0.0,-3.0,-5.0,17.0,37.0,ALSK
+327,D,2015-03-19 18:02:18,2015-03-17,ALSK,Johnsen James,"Sr Vice Pres, HR",F - Tax,1.69,-4615,122012,-4%,-7799.0,-3.0,-5.0,17.0,37.0,ALSK
+328,D,2015-03-19 18:01:17,2015-03-17,ALSK,Graham Wayne,CFO,A - Grant,0.0,18558,149275,+14%,0.0,-3.0,-5.0,17.0,37.0,ALSK
+329,D,2015-03-19 18:01:17,2015-03-17,ALSK,Graham Wayne,CFO,F - Tax,1.69,-4909,149275,-3%,-8296.0,-3.0,-5.0,17.0,37.0,ALSK
+330,D,2015-03-19 17:58:29,2015-03-17,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",A - Grant,0.0,4640,75061,+7%,0.0,-3.0,-5.0,17.0,37.0,ALSK
+331,D,2015-03-19 17:58:29,2015-03-17,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",F - Tax,1.69,-1228,75061,-2%,-2075.0,-3.0,-5.0,17.0,37.0,ALSK
+332,D,2015-03-03 20:39:32,2015-03-02,ALSK,Graham Wayne,CFO,A - Grant,0.0,31040,135626,+30%,0.0,-1.0,6.0,-1.0,27.0,ALSK
+333,D,2015-03-03 20:39:32,2015-03-02,ALSK,Graham Wayne,CFO,F - Tax,1.66,-8812,135626,-6%,-14628.0,-1.0,6.0,-1.0,27.0,ALSK
+334,D,2015-03-03 20:38:30,2015-03-02,ALSK,Johnsen James,"Sr Vice Pres, HR",A - Grant,0.0,20889,109181,+24%,0.0,-1.0,6.0,-1.0,27.0,ALSK
+335,D,2015-03-03 20:38:30,2015-03-02,ALSK,Johnsen James,"Sr Vice Pres, HR",F - Tax,1.66,-6688,109181,-6%,-11102.0,-1.0,6.0,-1.0,27.0,ALSK
+336,D,2015-03-03 20:37:29,2015-03-02,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",A - Grant,0.0,18518,18113,-4572%,0.0,-1.0,6.0,-1.0,27.0,ALSK
+337,D,2015-03-03 20:37:29,2015-03-02,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",F - Tax,1.66,-6047,18113,-25%,-10038.0,-1.0,6.0,-1.0,27.0,ALSK
+338,D,2015-03-03 20:36:18,2015-03-02,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,24600,318698,+8%,0.0,-1.0,6.0,-1.0,27.0,ALSK
+339,D,2015-03-03 20:36:18,2015-03-02,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.66,-6150,318698,-2%,-10209.0,-1.0,6.0,-1.0,27.0,ALSK
+340,D,2015-03-03 20:35:22,2015-03-02,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",A - Grant,0.0,19555,112335,+21%,0.0,-1.0,6.0,-1.0,27.0,ALSK
+341,D,2015-03-03 20:35:22,2015-03-02,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,1.66,-6340,112335,-5%,-10524.0,-1.0,6.0,-1.0,27.0,ALSK
+342,D,2015-03-03 20:34:24,2015-03-02,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,110238,570456,+24%,0.0,-1.0,6.0,-1.0,27.0,ALSK
+343,D,2015-03-03 20:34:24,2015-03-02,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.66,-30151,570456,-5%,-50051.0,-1.0,6.0,-1.0,27.0,ALSK
+344,D,2015-03-03 20:33:36,2015-03-02,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",A - Grant,0.0,30395,71649,+74%,0.0,-1.0,6.0,-1.0,27.0,ALSK
+345,D,2015-03-03 20:33:36,2015-03-02,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",F - Tax,1.66,-8749,71649,-11%,-14523.0,-1.0,6.0,-1.0,27.0,ALSK
+346,D,2015-01-13 20:25:48,2015-01-12,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",A - Grant,0.0,18117,99120,+22%,0.0,1.0,-2.0,10.0,37.0,ALSK
+347,D,2015-01-13 20:25:48,2015-01-12,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,1.66,-5992,99120,-6%,-9947.0,1.0,-2.0,10.0,37.0,ALSK
+348,D,2015-01-13 20:24:28,2015-01-12,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,71856,490369,+17%,0.0,1.0,-2.0,10.0,37.0,ALSK
+349,D,2015-01-13 20:24:28,2015-01-12,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.66,-22074,490369,-4%,-36643.0,1.0,-2.0,10.0,37.0,ALSK
+350,D,2015-01-13 20:23:30,2015-01-12,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",A - Grant,0.0,4227,5642,+299%,0.0,1.0,-2.0,10.0,37.0,ALSK
+351,D,2015-01-13 20:23:30,2015-01-12,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",F - Tax,1.66,-1405,5642,-20%,-2332.0,1.0,-2.0,10.0,37.0,ALSK
+352,D,2015-01-13 20:22:28,2015-01-12,ALSK,Johnsen James,"Sr Vice Pres, HR",A - Grant,0.0,19353,94980,+26%,0.0,1.0,-2.0,10.0,37.0,ALSK
+353,D,2015-01-13 20:22:28,2015-01-12,ALSK,Johnsen James,"Sr Vice Pres, HR",F - Tax,1.66,-6417,94980,-6%,-10652.0,1.0,-2.0,10.0,37.0,ALSK
+354,D,2015-01-13 20:20:57,2015-01-12,ALSK,Leary Linda,"SVP, Business Sales",A - Grant,0.0,1771,2363,+299%,0.0,1.0,-2.0,10.0,37.0,ALSK
+355,D,2015-01-13 20:20:57,2015-01-12,ALSK,Leary Linda,"SVP, Business Sales",F - Tax,1.66,-589,2363,-20%,-978.0,1.0,-2.0,10.0,37.0,ALSK
+356,D,2015-01-13 20:20:10,2015-01-12,ALSK,Graham Wayne,CFO,A - Grant,0.0,24509,113398,+28%,0.0,1.0,-2.0,10.0,37.0,ALSK
+357,D,2015-01-13 20:20:10,2015-01-12,ALSK,Graham Wayne,CFO,F - Tax,1.66,-8096,113398,-7%,-13439.0,1.0,-2.0,10.0,37.0,ALSK
+358,D,2015-01-13 20:18:16,2015-01-12,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",A - Grant,0.0,24509,50003,+96%,0.0,1.0,-2.0,10.0,37.0,ALSK
+359,D,2015-01-13 20:18:16,2015-01-12,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",F - Tax,1.66,-8103,50003,-14%,-13451.0,1.0,-2.0,10.0,37.0,ALSK
+360,D,2015-01-13 20:16:20,2015-01-12,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,22792,300248,+8%,0.0,1.0,-2.0,10.0,37.0,ALSK
+361,D,2015-01-13 20:16:20,2015-01-12,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.66,-5698,300248,-2%,-9459.0,1.0,-2.0,10.0,37.0,ALSK
+362,D,2015-01-05 18:07:24,2015-01-01,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,10783,440587,+3%,0.0,-5.0,-4.0,0.0,26.0,ALSK
+363,D,2015-01-05 18:07:24,2015-01-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.79,-3583,440587,-1%,-6414.0,-5.0,-4.0,0.0,26.0,ALSK
+364,D,2015-01-05 18:05:18,2015-01-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",A - Grant,0.0,3500,86995,+4%,0.0,-5.0,-4.0,0.0,26.0,ALSK
+365,D,2015-01-05 18:05:18,2015-01-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,1.79,-1163,86995,-1%,-2082.0,-5.0,-4.0,0.0,26.0,ALSK
+366,D,2015-01-05 18:03:20,2015-01-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,7716,283154,+3%,0.0,-5.0,-4.0,0.0,26.0,ALSK
+367,D,2015-01-05 18:03:20,2015-01-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.79,-1929,283154,-1%,-3453.0,-5.0,-4.0,0.0,26.0,ALSK
+368,,2015-01-05 18:01:56,2014-12-31,ALSK,Wanamaker John Niles,Dir,A - Grant,0.0,6983,32032,+28%,0.0,-5.0,-4.0,0.0,26.0,ALSK
+369,,2015-01-05 18:00:57,2014-12-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,6983,71627,+11%,0.0,-5.0,-4.0,0.0,26.0,ALSK
+370,,2015-01-05 17:59:56,2014-12-31,ALSK,Mills Carol,Dir,A - Grant,0.0,6983,35053,+25%,0.0,-5.0,-4.0,0.0,26.0,ALSK
+371,,2015-01-05 17:56:06,2014-12-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11173,140518,+9%,0.0,-5.0,-4.0,0.0,26.0,ALSK
+372,D,2014-12-12 17:19:35,2014-12-10,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,2388,277367,+1%,0.0,-5.0,-7.0,-14.0,28.0,ALSK
+373,D,2014-12-12 17:19:35,2014-12-10,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.88,-2388,277367,-1%,-4489.0,-5.0,-7.0,-14.0,28.0,ALSK
+374,,2014-10-02 10:17:41,2014-09-30,ALSK,Wanamaker John Niles,Dir,A - Grant,0.0,7961,25049,+47%,0.0,-1.0,-1.0,-7.0,12.0,ALSK
+375,,2014-10-02 10:11:36,2014-09-30,ALSK,Ross Brian A,Dir,A - Grant,0.0,7961,64644,+14%,0.0,-1.0,-1.0,-7.0,12.0,ALSK
+376,,2014-10-02 10:07:31,2014-09-30,ALSK,Mills Carol,Dir,A - Grant,0.0,7961,28070,+40%,0.0,-1.0,-1.0,-7.0,12.0,ALSK
+377,,2014-10-02 09:58:53,2014-09-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,12738,129345,+11%,0.0,-1.0,-1.0,-7.0,12.0,ALSK
+378,,2014-07-03 16:08:57,2014-06-30,ALSK,Ross Brian A,Dir,A - Grant,0.0,6944,56683,+14%,0.0,-1.0,-3.0,0.0,1.0,ALSK
+379,,2014-07-01 21:26:43,2014-06-30,ALSK,Wanamaker John Niles,Dir,A - Grant,0.0,6944,17088,+68%,0.0,0.0,-2.0,3.0,1.0,ALSK
+380,,2014-07-01 21:25:18,2014-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11111,116607,+11%,0.0,0.0,-2.0,3.0,1.0,ALSK
+381,,2014-07-01 21:24:21,2014-06-30,ALSK,Mills Carol,Dir,A - Grant,0.0,6944,20109,+53%,0.0,0.0,-2.0,3.0,1.0,ALSK
+382,,2014-07-01 21:20:46,2014-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11111,116607,+11%,0.0,0.0,-2.0,3.0,1.0,ALSK
+383,,2014-04-01 20:38:03,2014-03-31,ALSK,Wanamaker John Niles,Dir,A - Grant,0.0,6476,10144,+177%,0.0,-1.0,-5.0,-5.0,-20.0,ALSK
+384,,2014-04-01 20:37:26,2014-03-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,6476,49739,+15%,0.0,-1.0,-5.0,-5.0,-20.0,ALSK
+385,,2014-04-01 20:36:52,2014-03-31,ALSK,Mills Carol,Dir,A - Grant,0.0,6476,13165,+97%,0.0,-1.0,-5.0,-5.0,-20.0,ALSK
+386,,2014-04-01 20:33:49,2014-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,10362,105496,+11%,0.0,-1.0,-5.0,-5.0,-20.0,ALSK
+387,,2014-03-31 18:46:19,2014-03-27,ALSK,Graham Wayne,CFO,A - Grant,0.0,41952,96985,+76%,0.0,3.0,-1.0,-2.0,-17.0,ALSK
+388,,2014-03-31 18:46:19,2014-03-27,ALSK,Graham Wayne,CFO,F - Tax,1.89,-11222,96985,-10%,-21210.0,3.0,-1.0,-2.0,-17.0,ALSK
+389,,2014-03-31 18:43:45,2014-03-27,ALSK,Johnsen James,"Sr Vice Pres, HR",A - Grant,0.0,35362,82044,+76%,0.0,3.0,-1.0,-2.0,-17.0,ALSK
+390,,2014-03-31 18:43:45,2014-03-27,ALSK,Johnsen James,"Sr Vice Pres, HR",F - Tax,1.89,-9356,82044,-10%,-17683.0,3.0,-1.0,-2.0,-17.0,ALSK
+391,,2014-03-31 18:41:59,2014-03-27,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",A - Grant,0.0,27932,84658,+49%,0.0,3.0,-1.0,-2.0,-17.0,ALSK
+392,,2014-03-31 18:41:59,2014-03-27,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,1.89,-7389,84658,-8%,-13965.0,3.0,-1.0,-2.0,-17.0,ALSK
+393,D,2014-03-31 18:39:51,2014-03-27,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,115985,433387,+37%,0.0,3.0,-1.0,-2.0,-17.0,ALSK
+394,DM,2014-03-31 18:39:51,2014-03-27,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.9,-51377,433387,-11%,-97692.0,3.0,-1.0,-2.0,-17.0,ALSK
+395,D,2014-03-31 18:39:51,2014-03-29,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,71856,433387,+20%,0.0,3.0,-1.0,-2.0,-17.0,ALSK
+396,,2014-03-31 18:36:20,2014-03-27,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",A - Grant,0.0,10176,33597,+43%,0.0,3.0,-1.0,-2.0,-17.0,ALSK
+397,,2014-03-31 18:36:20,2014-03-27,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",F - Tax,1.89,-2692,33597,-7%,-5088.0,3.0,-1.0,-2.0,-17.0,ALSK
+398,,2014-03-31 18:33:12,2014-03-27,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,41481,277367,+18%,0.0,3.0,-1.0,-2.0,-17.0,ALSK
+399,,2014-03-31 18:33:12,2014-03-27,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.89,-12229,277367,-4%,-23113.0,3.0,-1.0,-2.0,-17.0,ALSK
+400,D,2014-03-04 21:19:27,2014-03-03,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,2.2,-1068,64115,-2%,-2350.0,6.0,-5.0,-10.0,-20.0,ALSK
+401,D,2014-03-04 21:19:27,2014-03-03,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",M - OptEx,0.0,3271,64115,+5%,0.0,6.0,-5.0,-10.0,-20.0,ALSK
+402,D,2014-03-04 21:18:41,2014-03-03,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,2.2,-2278,296923,-1%,-5012.0,6.0,-5.0,-10.0,-20.0,ALSK
+403,D,2014-03-04 21:18:41,2014-03-03,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,8610,296923,+3%,0.0,6.0,-5.0,-10.0,-20.0,ALSK
+404,D,2014-03-04 21:18:02,2014-03-03,ALSK,Johnsen James,"Sr Vice Pres, HR",F - Tax,2.2,-1237,56038,-2%,-2721.0,6.0,-5.0,-10.0,-20.0,ALSK
+405,D,2014-03-04 21:18:02,2014-03-03,ALSK,Johnsen James,"Sr Vice Pres, HR",M - OptEx,0.0,3785,56038,+7%,0.0,6.0,-5.0,-10.0,-20.0,ALSK
+406,D,2014-03-04 21:17:09,2014-03-03,ALSK,Graham Wayne,CFO,F - Tax,2.2,-766,66255,-1%,-1685.0,6.0,-5.0,-10.0,-20.0,ALSK
+407,D,2014-03-04 21:17:09,2014-03-03,ALSK,Graham Wayne,CFO,M - OptEx,0.0,2788,66255,+4%,0.0,6.0,-5.0,-10.0,-20.0,ALSK
+408,D,2014-03-04 21:16:25,2014-03-03,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",F - Tax,2.2,-1150,26113,-4%,-2530.0,6.0,-5.0,-10.0,-20.0,ALSK
+409,D,2014-03-04 21:16:25,2014-03-03,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",M - OptEx,0.0,3940,26113,+18%,0.0,6.0,-5.0,-10.0,-20.0,ALSK
+410,D,2014-03-04 21:15:42,2014-03-03,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,2.2,-802,248115,0%,-1764.0,6.0,-5.0,-10.0,-20.0,ALSK
+411,D,2014-03-04 21:15:42,2014-03-03,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,3207,248115,+1%,0.0,6.0,-5.0,-10.0,-20.0,ALSK
+412,D,2014-01-14 20:47:44,2014-01-13,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",F - Tax,2.22,-1407,2820,-33%,-3124.0,1.0,6.0,-2.0,-24.0,ALSK
+413,D,2014-01-14 20:47:44,2014-01-13,ALSK,Ritter Randy M,"Sr Vice Pres, Managed Services",M - OptEx,0.0,4227,2820,-300%,0.0,1.0,6.0,-2.0,-24.0,ALSK
+414,D,2014-01-14 20:46:47,2014-01-13,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",F - Tax,2.22,-8081,23323,-26%,-17940.0,1.0,6.0,-2.0,-24.0,ALSK
+415,D,2014-01-14 20:46:47,2014-01-13,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",M - OptEx,0.0,24509,23323,-2067%,0.0,1.0,6.0,-2.0,-24.0,ALSK
+416,D,2014-01-14 20:45:32,2014-01-13,ALSK,Johnsen James,"Sr Vice Pres, HR",F - Tax,2.22,-6395,53490,-11%,-14197.0,1.0,6.0,-2.0,-24.0,ALSK
+417,D,2014-01-14 20:45:32,2014-01-13,ALSK,Johnsen James,"Sr Vice Pres, HR",M - OptEx,0.0,19353,53490,+57%,0.0,1.0,6.0,-2.0,-24.0,ALSK
+418,D,2014-01-14 20:43:24,2014-01-13,ALSK,Graham Wayne,CFO,F - Tax,2.22,-8075,64233,-11%,-17927.0,1.0,6.0,-2.0,-24.0,ALSK
+419,D,2014-01-14 20:43:24,2014-01-13,ALSK,Graham Wayne,CFO,M - OptEx,0.0,24509,64233,+62%,0.0,1.0,6.0,-2.0,-24.0,ALSK
+420,D,2014-01-14 20:42:12,2014-01-13,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,2.22,-5698,245710,-2%,-12650.0,1.0,6.0,-2.0,-24.0,ALSK
+421,D,2014-01-14 20:42:12,2014-01-13,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,22792,245710,+10%,0.0,1.0,6.0,-2.0,-24.0,ALSK
+422,D,2014-01-14 20:40:49,2014-01-13,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,2.22,-5954,61912,-9%,-13218.0,1.0,6.0,-2.0,-24.0,ALSK
+423,D,2014-01-14 20:40:49,2014-01-13,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",M - OptEx,0.0,18117,61912,+41%,0.0,1.0,6.0,-2.0,-24.0,ALSK
+424,D,2014-01-14 20:39:51,2014-01-13,ALSK,Leary Linda,"SVP, Business Sales",F - Tax,2.22,-590,1181,-33%,-1310.0,1.0,6.0,-2.0,-24.0,ALSK
+425,D,2014-01-14 20:39:51,2014-01-13,ALSK,Leary Linda,"SVP, Business Sales",M - OptEx,0.0,1771,1181,-300%,0.0,1.0,6.0,-2.0,-24.0,ALSK
+426,,2014-01-02 21:30:50,2013-12-31,ALSK,Mills Carol,Dir,A - Grant,0.0,5896,6689,+744%,0.0,6.0,3.0,0.0,-19.0,ALSK
+427,,2014-01-02 21:28:35,2013-12-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,5896,43263,+16%,0.0,6.0,3.0,0.0,-19.0,ALSK
+428,,2014-01-02 21:20:29,2013-12-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,9433,95134,+11%,0.0,6.0,3.0,0.0,-19.0,ALSK
+429,D,2014-01-02 21:19:21,2014-01-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,2.12,-13049,290591,-4%,-27664.0,6.0,3.0,0.0,-19.0,ALSK
+430,D,2014-01-02 21:19:21,2014-01-01,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,39775,290591,+16%,0.0,6.0,3.0,0.0,-19.0,ALSK
+431,D,2014-01-02 21:18:17,2014-01-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,2.12,-2129,49749,-4%,-4513.0,6.0,3.0,0.0,-19.0,ALSK
+432,D,2014-01-02 21:18:17,2014-01-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",M - OptEx,0.0,6397,49749,+15%,0.0,6.0,3.0,0.0,-19.0,ALSK
+433,D,2014-01-02 21:15:33,2014-01-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,2.12,-8865,228616,-4%,-18794.0,6.0,3.0,0.0,-19.0,ALSK
+434,D,2014-01-02 21:15:33,2014-01-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,35459,228616,+18%,0.0,6.0,3.0,0.0,-19.0,ALSK
+435,D,2013-12-16 21:12:31,2013-12-13,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,2.08,-2462,202022,-1%,-5121.0,3.0,3.0,9.0,-16.0,ALSK
+436,D,2013-12-16 21:12:31,2013-12-13,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,2462,202022,+1%,0.0,3.0,3.0,9.0,-16.0,ALSK
+437,D,2013-10-02 19:18:13,2013-10-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,2.61,-265,45481,-1%,-692.0,-3.0,-5.0,-5.0,-25.0,ALSK
+438,D,2013-10-02 19:18:13,2013-10-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",M - OptEx,0.0,966,45481,+2%,0.0,-3.0,-5.0,-5.0,-25.0,ALSK
+439,,2013-10-01 20:24:00,2013-09-30,ALSK,Ross Brian A,Dir,A - Grant,0.0,4863,37367,+15%,0.0,0.0,-2.0,-3.0,-25.0,ALSK
+440,,2013-10-01 20:11:24,2013-09-30,ALSK,Mills Carol,Dir,A - Grant,0.0,793,793,New,0.0,0.0,-2.0,-3.0,-25.0,ALSK
+441,,2013-10-01 20:09:41,2013-09-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,7782,85701,+10%,0.0,0.0,-2.0,-3.0,-25.0,ALSK
+442,,2013-07-01 19:57:59,2013-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11834,77919,+18%,0.0,-2.0,-4.0,43.0,24.0,ALSK
+443,,2013-07-01 19:57:00,2013-06-30,ALSK,Ross Brian A,Dir,A - Grant,0.0,7396,32504,+29%,0.0,-2.0,-4.0,43.0,24.0,ALSK
+444,,2013-04-02 20:28:52,2013-03-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,7485,25108,+42%,0.0,2.0,-1.0,-1.0,58.0,ALSK
+445,,2013-04-02 20:22:02,2013-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,11976,66085,+22%,0.0,2.0,-1.0,-1.0,58.0,ALSK
+446,,2013-03-08 21:00:17,2013-03-08,ALSK,Karp David W,Dir,P - Purchase,1.63,1000,1000,New,1628.0,9.0,1.0,-1.0,66.0,ALSK
+447,D,2013-03-05 21:02:36,2013-03-01,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",A - Grant,0.0,4815,6895,+231%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+448,D,2013-03-05 21:02:36,2013-03-01,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",F - Tax,1.78,-2860,6895,-29%,-5091.0,-6.0,2.0,-4.0,73.0,ALSK
+449,D,2013-03-05 21:02:36,2013-03-01,ALSK,Eisenberg David C,"SVP, Chief Revenue Ofcr",M - OptEx,0.0,3940,6895,+133%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+450,D,2013-03-05 21:01:18,2013-03-01,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,53110,263865,+25%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+451,D,2013-03-05 21:01:18,2013-03-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.78,-52200,263865,-17%,-92916.0,-6.0,2.0,-4.0,73.0,ALSK
+452,D,2013-03-05 21:01:18,2013-03-01,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,139201,263865,+112%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+453,D,2013-03-05 20:58:06,2013-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,20891,202022,+12%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+454,D,2013-03-05 20:58:06,2013-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.78,-25393,202022,-11%,-45200.0,-6.0,2.0,-4.0,73.0,ALSK
+455,D,2013-03-05 20:58:06,2013-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,69381,202022,+52%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+456,D,2013-03-05 20:57:07,2013-03-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",A - Grant,0.0,15348,44780,+52%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+457,D,2013-03-05 20:57:07,2013-03-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,1.78,-13739,44780,-23%,-24455.0,-6.0,2.0,-4.0,73.0,ALSK
+458,D,2013-03-05 20:57:07,2013-03-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",M - OptEx,0.0,28149,44780,+169%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+459,D,2013-03-05 20:55:40,2013-03-01,ALSK,Johnsen James,"Sr Vice Pres, HR",A - Grant,0.0,15202,40532,+60%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+460,D,2013-03-05 20:55:40,2013-03-01,ALSK,Johnsen James,"Sr Vice Pres, HR",F - Tax,1.78,-16192,40532,-29%,-28822.0,-6.0,2.0,-4.0,73.0,ALSK
+461,D,2013-03-05 20:55:40,2013-03-01,ALSK,Johnsen James,"Sr Vice Pres, HR",M - OptEx,0.0,38036,40532,>999%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+462,D,2013-03-05 20:53:48,2013-03-01,ALSK,Graham Wayne,CFO,A - Grant,0.0,20504,47799,+75%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+463,D,2013-03-05 20:53:48,2013-03-01,ALSK,Graham Wayne,CFO,F - Tax,1.78,-17788,47799,-27%,-31663.0,-6.0,2.0,-4.0,73.0,ALSK
+464,D,2013-03-05 20:53:48,2013-03-01,ALSK,Graham Wayne,CFO,M - OptEx,0.0,39228,47799,+458%,0.0,-6.0,2.0,-4.0,73.0,ALSK
+465,D,2013-01-03 19:35:26,2013-01-01,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,17266,123754,+16%,0.0,2.0,4.0,-7.0,-10.0,ALSK
+466,D,2013-01-03 19:35:26,2013-01-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,1.94,-6274,123754,-5%,-12172.0,2.0,4.0,-7.0,-10.0,ALSK
+467,D,2013-01-03 19:34:26,2013-01-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,16125,137143,+13%,0.0,2.0,4.0,-7.0,-10.0,ALSK
+468,D,2013-01-03 19:34:26,2013-01-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,1.94,-4516,137143,-3%,-8761.0,2.0,4.0,-7.0,-10.0,ALSK
+469,,2013-01-02 21:33:01,2012-12-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,4152,17623,+31%,0.0,0.0,4.0,-9.0,-11.0,ALSK
+470,,2013-01-02 21:27:08,2012-12-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,6644,54109,+14%,0.0,0.0,4.0,-9.0,-11.0,ALSK
+471,,2012-11-08 20:51:02,2012-11-07,ALSK,Lazo Eric B,"Vice Pres, Mktg, Prod Mgmt",S - Sale,2.0,-1609,0,-100%,-3218.0,-3.0,-1.0,5.0,-13.0,ALSK
+472,,2012-10-01 20:58:42,2012-09-28,ALSK,Ross Brian A,Dir,A - Grant,0.0,4152,13471,+45%,0.0,0.0,1.0,-1.0,-30.0,ALSK
+473,,2012-10-01 20:53:28,2012-09-28,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,6644,47465,+16%,0.0,0.0,1.0,-1.0,-30.0,ALSK
+474,,2012-07-02 21:04:17,2012-06-29,ALSK,Ross Brian A,Dir,A - Grant,0.0,4152,9319,+80%,0.0,-3.0,-7.0,-14.0,-21.0,ALSK
+475,,2012-07-02 21:01:41,2012-06-29,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,6644,40821,+19%,0.0,-3.0,-7.0,-14.0,-21.0,ALSK
+476,,2012-07-02 21:00:34,2012-06-29,ALSK,Brown Margaret L,Dir,A - Grant,0.0,1049,1049,New,0.0,-3.0,-7.0,-14.0,-21.0,ALSK
+477,D,2012-06-12 20:22:11,2012-06-08,ALSK,Rogers Brian D,Dir,A - Grant,0.0,3103,74079,+4%,0.0,-2.0,-7.0,10.0,-6.0,ALSK
+478,D,2012-06-12 20:22:11,2012-06-08,ALSK,Rogers Brian D,Dir,M - OptEx,0.0,54836,74079,+285%,0.0,-2.0,-7.0,10.0,-6.0,ALSK
+479,,2012-04-03 20:57:17,2012-03-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,6644,34177,+24%,0.0,-3.0,-12.0,-20.0,-17.0,ALSK
+480,,2012-04-03 20:42:56,2012-03-30,ALSK,Ross Brian A,Dir,A - Grant,0.0,4152,5167,+409%,0.0,-3.0,-12.0,-20.0,-17.0,ALSK
+481,D,2012-04-03 20:41:14,2012-03-30,ALSK,Rogers Brian D,Dir,A - Grant,0.0,4152,16140,+35%,0.0,-3.0,-12.0,-20.0,-17.0,ALSK
+482,D,2012-03-21 20:55:37,2012-03-19,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",A - Grant,0.0,6639,124442,+6%,0.0,0.0,-2.0,-23.0,-28.0,ALSK
+483,D,2012-03-21 20:55:37,2012-03-19,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,3.19,-1805,124442,-1%,-5758.0,0.0,-2.0,-23.0,-28.0,ALSK
+484,D,2012-03-21 20:54:12,2012-03-19,ALSK,Johnsen James,"Sr Vice Pres, HR",A - Grant,0.0,1247,3899,+47%,0.0,0.0,-2.0,-23.0,-28.0,ALSK
+485,D,2012-03-21 20:54:12,2012-03-19,ALSK,Johnsen James,"Sr Vice Pres, HR",F - Tax,3.19,-383,3899,-9%,-1222.0,0.0,-2.0,-23.0,-28.0,ALSK
+486,D,2012-03-21 20:48:33,2012-03-19,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",A - Grant,0.0,6639,32079,+26%,0.0,0.0,-2.0,-23.0,-28.0,ALSK
+487,D,2012-03-21 20:48:33,2012-03-19,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,3.19,-2035,32079,-6%,-6492.0,0.0,-2.0,-23.0,-28.0,ALSK
+488,D,2012-03-21 20:46:56,2012-03-19,ALSK,Vadapalli Anand,"CEO, Pres",A - Grant,0.0,17479,112762,+18%,0.0,0.0,-2.0,-23.0,-28.0,ALSK
+489,D,2012-03-21 20:46:56,2012-03-19,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,3.19,-4624,112762,-4%,-14751.0,0.0,-2.0,-23.0,-28.0,ALSK
+490,D,2012-03-21 20:45:35,2012-03-19,ALSK,Wynschenk Michael J,"SVP, Sales",A - Grant,0.0,6639,8487,+359%,0.0,0.0,-2.0,-23.0,-28.0,ALSK
+491,D,2012-03-21 20:45:35,2012-03-19,ALSK,Wynschenk Michael J,"SVP, Sales",F - Tax,3.19,-2035,8487,-19%,-6492.0,0.0,-2.0,-23.0,-28.0,ALSK
+492,D,2012-03-21 20:43:38,2012-03-19,ALSK,Graham Wayne,CFO,A - Grant,0.0,5658,5855,>999%,0.0,0.0,-2.0,-23.0,-28.0,ALSK
+493,D,2012-03-21 20:43:38,2012-03-19,ALSK,Graham Wayne,CFO,F - Tax,3.19,-1735,5855,-23%,-5535.0,0.0,-2.0,-23.0,-28.0,ALSK
+494,D,2012-03-02 20:45:53,2012-03-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,3.09,-2417,99907,-2%,-7469.0,-1.0,-7.0,-7.0,-36.0,ALSK
+495,D,2012-03-02 20:45:53,2012-03-01,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,8609,99907,+9%,0.0,-1.0,-7.0,-7.0,-36.0,ALSK
+496,D,2012-03-02 20:44:33,2012-03-01,ALSK,Wynschenk Michael J,"SVP, Sales",F - Tax,3.09,-1003,3883,-21%,-3099.0,-1.0,-7.0,-7.0,-36.0,ALSK
+497,D,2012-03-02 20:44:33,2012-03-01,ALSK,Wynschenk Michael J,"SVP, Sales",M - OptEx,0.0,3270,3883,+533%,0.0,-1.0,-7.0,-7.0,-36.0,ALSK
+498,D,2012-03-02 20:42:05,2012-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",F - Tax,3.09,-802,119608,-1%,-2478.0,-1.0,-7.0,-7.0,-36.0,ALSK
+499,D,2012-03-02 20:42:05,2012-03-01,ALSK,Steinberg Leonard,"SVP, Legal, Reg, Gov, Corp Sec",M - OptEx,0.0,3207,119608,+3%,0.0,-1.0,-7.0,-7.0,-36.0,ALSK
+500,D,2012-03-02 20:35:33,2012-03-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,3.09,-1003,21839,-4%,-3099.0,-1.0,-7.0,-7.0,-36.0,ALSK
+501,D,2012-03-02 20:35:33,2012-03-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",M - OptEx,0.0,3270,21839,+18%,0.0,-1.0,-7.0,-7.0,-36.0,ALSK
+502,D,2012-03-02 20:33:41,2012-03-01,ALSK,Graham Wayne,CFO,F - Tax,3.09,-855,1932,-31%,-2642.0,-1.0,-7.0,-7.0,-36.0,ALSK
+503,D,2012-03-02 20:33:41,2012-03-01,ALSK,Graham Wayne,CFO,M - OptEx,0.0,2787,1932,-326%,0.0,-1.0,-7.0,-7.0,-36.0,ALSK
+504,D,2012-03-02 20:32:20,2012-03-01,ALSK,Johnsen James,"Sr Vice Pres, HR",F - Tax,3.09,-1160,3035,-28%,-3584.0,-1.0,-7.0,-7.0,-36.0,ALSK
+505,D,2012-03-02 20:32:20,2012-03-01,ALSK,Johnsen James,"Sr Vice Pres, HR",M - OptEx,0.0,3782,3035,-506%,0.0,-1.0,-7.0,-7.0,-36.0,ALSK
+506,,2012-02-03 19:10:30,2012-02-01,ALSK,Jacobs Annette M,Dir,A - Grant,0.0,1456,24745,+6%,0.0,0.0,-1.0,17.0,-23.0,ALSK
+507,D,2012-01-04 21:04:31,2012-01-01,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,3.01,-1272,93715,-1%,-3829.0,-1.0,-9.0,-7.0,-18.0,ALSK
+508,D,2012-01-04 21:04:31,2012-01-01,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,4061,93715,+5%,0.0,-1.0,-9.0,-7.0,-18.0,ALSK
+509,D,2012-01-04 21:03:18,2012-01-01,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,3.01,-996,117203,-1%,-2998.0,-1.0,-9.0,-7.0,-18.0,ALSK
+510,D,2012-01-04 21:03:18,2012-01-01,ALSK,Steinberg Leonard,"VP, GC, Secretary",M - OptEx,0.0,3982,117203,+4%,0.0,-1.0,-9.0,-7.0,-18.0,ALSK
+511,,2012-01-04 21:00:32,2011-12-31,ALSK,Wanamaker John Niles,Dir,A - Grant,0.0,1126,3668,+44%,0.0,-1.0,-9.0,-7.0,-18.0,ALSK
+512,,2012-01-04 20:49:41,2011-12-31,ALSK,Ross Brian A,Dir,A - Grant,0.0,1015,1015,New,0.0,-1.0,-9.0,-7.0,-18.0,ALSK
+513,,2012-01-04 20:45:51,2011-12-31,ALSK,Jacobs Annette M,Dir,A - Grant,0.0,1126,23289,+5%,0.0,-1.0,-9.0,-7.0,-18.0,ALSK
+514,,2012-01-04 20:41:53,2011-12-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,1801,27533,+7%,0.0,-1.0,-9.0,-7.0,-18.0,ALSK
+515,D,2011-10-04 20:15:04,2011-10-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,6.55,-256,16558,-2%,-1677.0,7.0,3.0,17.0,-51.0,ALSK
+516,D,2011-10-04 20:15:04,2011-10-01,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",M - OptEx,0.0,967,16558,+6%,0.0,7.0,3.0,17.0,-51.0,ALSK
+517,,2011-10-04 20:11:29,2011-09-30,ALSK,Wanamaker John Niles,Dir,A - Grant,0.0,1126,2542,+80%,0.0,7.0,3.0,17.0,-51.0,ALSK
+518,,2011-10-04 20:01:41,2011-09-30,ALSK,Jacobs Annette M,Dir,A - Grant,0.0,1126,22163,+5%,0.0,7.0,3.0,17.0,-51.0,ALSK
+519,,2011-10-04 20:00:06,2011-09-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,0.0,1801,25732,+8%,0.0,7.0,3.0,17.0,-51.0,ALSK
+520,D,2011-08-08 18:02:44,2011-08-07,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,7.1,-221,90926,0%,-1569.0,4.0,8.0,9.0,-50.0,ALSK
+521,D,2011-08-08 18:02:44,2011-08-07,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,834,90926,+1%,0.0,4.0,8.0,9.0,-50.0,ALSK
+522,,2011-07-05 20:09:26,2011-06-30,ALSK,Wanamaker John Niles,Dir,A - Grant,0.0,750,1416,+113%,0.0,-1.0,-2.0,-13.0,-64.0,ALSK
+523,,2011-07-05 20:04:23,2011-06-30,ALSK,Jacobs Annette M,Dir,A - Grant,0.0,750,21037,+4%,0.0,-1.0,-2.0,-13.0,-64.0,ALSK
+524,,2011-07-05 20:03:23,2011-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,4.44,2818,23931,+13%,12498.0,-1.0,-2.0,-13.0,-64.0,ALSK
+525,,2011-05-03 20:38:28,2011-05-02,ALSK,Pelletier Liane J,Dir,S - Sale,9.58,-100000,165117,-38%,-957600.0,-7.0,-5.0,-8.0,-23.0,ALSK
+526,M,2011-04-20 19:09:10,2011-04-18,ALSK,Wilson David,Transitional Officer,S - Sale,10.06,-57500,94261,-38%,-578595.0,0.0,-4.0,-13.0,-33.0,ALSK
+527,M,2011-04-06 19:40:23,2011-04-05,ALSK,Pelletier Liane J,Dir,S - Sale,10.5,-17350,265117,-6%,-182175.0,-1.0,-4.0,-15.0,-40.0,ALSK
+528,D,2011-04-04 21:04:20,2011-04-04,ALSK,Pelletier Liane J,Dir,D - Sale to issuer,10.53,-222698,282467,-44%,-2345010.0,-1.0,-1.0,-9.0,-34.0,ALSK
+529,DM,2011-04-04 21:04:20,2011-04-01,ALSK,Pelletier Liane J,Dir,F - Tax,10.53,-10363,282467,-4%,-109098.0,-1.0,-1.0,-9.0,-34.0,ALSK
+530,DM,2011-04-04 21:04:20,2011-04-01,ALSK,Pelletier Liane J,Dir,M - OptEx,9.34,251126,282467,+801%,2345000.0,-1.0,-1.0,-9.0,-34.0,ALSK
+531,DM,2011-04-04 21:04:20,2011-04-01,ALSK,Pelletier Liane J,Dir,S - Sale+OE,10.53,-150000,282467,-35%,-1579537.0,-1.0,-1.0,-9.0,-34.0,ALSK
+532,,2011-04-04 20:51:19,2011-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,4.34,1267,21113,+6%,5496.0,-1.0,-1.0,-9.0,-34.0,ALSK
+533,,2011-04-04 20:27:26,2011-03-31,ALSK,Wanamaker John Niles,Dir,A - Grant,0.0,666,666,New,0.0,-1.0,-1.0,-9.0,-34.0,ALSK
+534,,2011-04-04 20:22:16,2011-03-31,ALSK,Jacobs Annette M,Dir,A - Grant,0.0,750,20287,+4%,0.0,-1.0,-1.0,-9.0,-34.0,ALSK
+535,D,2011-03-24 21:20:51,2011-03-22,ALSK,Pelletier Liane J,"Transitional Officer, Dir",D - Sale to issuer,10.51,-223121,414402,-35%,-2345002.0,1.0,2.0,-4.0,-31.0,ALSK
+536,D,2011-03-24 21:20:51,2011-03-22,ALSK,Pelletier Liane J,"Transitional Officer, Dir",F - Tax,10.51,-9798,414402,-2%,-102977.0,1.0,2.0,-4.0,-31.0,ALSK
+537,D,2011-03-24 21:20:51,2011-03-22,ALSK,Pelletier Liane J,"Transitional Officer, Dir",M - OptEx,9.38,250000,414402,+152%,2345000.0,1.0,2.0,-4.0,-31.0,ALSK
+538,D,2011-03-24 21:20:51,2011-03-24,ALSK,Pelletier Liane J,"Transitional Officer, Dir",S - Sale+OE,10.5,-17081,414402,-4%,-179351.0,1.0,2.0,-4.0,-31.0,ALSK
+539,,2011-03-18 19:54:03,2011-03-17,ALSK,Donahee Gary,Dir,S - Sale,9.78,-5651,0,-100%,-55246.0,1.0,4.0,2.0,-30.0,ALSK
+540,,2011-03-18 19:53:16,2011-03-17,ALSK,Wilson David,"EVP, CFO",S - Sale,9.78,-17250,151761,-10%,-168631.0,1.0,4.0,2.0,-30.0,ALSK
+541,D,2011-03-16 21:12:05,2011-03-14,ALSK,Vadapalli Anand,"CEO, Pres",F - Tax,10.08,-6229,90313,-6%,-62788.0,0.0,7.0,7.0,-21.0,ALSK
+542,D,2011-03-16 21:12:05,2011-03-14,ALSK,Vadapalli Anand,"CEO, Pres",M - OptEx,0.0,23056,90313,+34%,0.0,0.0,7.0,7.0,-21.0,ALSK
+543,D,2011-03-16 21:10:44,2011-03-14,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,10.08,-5372,113196,-5%,-54150.0,0.0,7.0,7.0,-21.0,ALSK
+544,D,2011-03-16 21:10:44,2011-03-14,ALSK,Steinberg Leonard,"VP, GC, Secretary",M - OptEx,0.0,19308,113196,+21%,0.0,0.0,7.0,7.0,-21.0,ALSK
+545,D,2011-03-16 21:05:24,2011-03-14,ALSK,Williams Foster C,CHRO,F - Tax,10.08,-1425,3222,-31%,-14364.0,0.0,7.0,7.0,-21.0,ALSK
+546,D,2011-03-16 21:05:24,2011-03-14,ALSK,Williams Foster C,CHRO,M - OptEx,0.0,4647,3222,-326%,0.0,0.0,7.0,7.0,-21.0,ALSK
+547,D,2011-03-16 21:03:59,2011-03-14,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",F - Tax,10.08,-2295,7440,-24%,-23134.0,0.0,7.0,7.0,-21.0,ALSK
+548,D,2011-03-16 21:03:59,2011-03-14,ALSK,Todd Michael R,"Sr. Vice Pres, Eng., Ops",M - OptEx,0.0,7665,7440,-3407%,0.0,0.0,7.0,7.0,-21.0,ALSK
+549,D,2011-03-16 21:02:54,2011-03-14,ALSK,Pelletier Liane J,"Transitional Officer, Dir",F - Tax,10.08,-19441,414402,-4%,-195965.0,0.0,7.0,7.0,-21.0,ALSK
+550,D,2011-03-16 21:02:54,2011-03-14,ALSK,Pelletier Liane J,"Transitional Officer, Dir",M - OptEx,0.0,53334,414402,+15%,0.0,0.0,7.0,7.0,-21.0,ALSK
+551,D,2011-03-16 21:01:27,2011-03-14,ALSK,Wilson David,"EVP, CFO",F - Tax,10.08,-5301,169011,-3%,-53434.0,0.0,7.0,7.0,-21.0,ALSK
+552,D,2011-03-16 21:01:27,2011-03-14,ALSK,Wilson David,"EVP, CFO",M - OptEx,0.0,20032,169011,+13%,0.0,0.0,7.0,7.0,-21.0,ALSK
+553,D,2011-03-16 21:01:27,2011-03-16,ALSK,Wilson David,"EVP, CFO",S - Sale+OE,9.86,-40250,169011,-19%,-397026.0,0.0,7.0,7.0,-21.0,ALSK
+554,D,2011-03-16 20:58:08,2011-03-14,ALSK,Wynschenk Michael J,"SVP, Sales",F - Tax,10.08,-716,1616,-31%,-7217.0,0.0,7.0,7.0,-21.0,ALSK
+555,D,2011-03-16 20:58:08,2011-03-14,ALSK,Wynschenk Michael J,"SVP, Sales",M - OptEx,0.0,2332,1616,-326%,0.0,0.0,7.0,7.0,-21.0,ALSK
+556,,2011-03-15 20:13:32,2011-03-11,ALSK,Donahee Gary,Dir,S - Sale,10.12,-3191,5651,-36%,-32293.0,-2.0,5.0,4.0,-25.0,ALSK
+557,D,2011-03-08 19:30:28,2011-03-07,ALSK,Pelletier Liane J,"CEO, Pres",F - Tax,10.17,-118056,380509,-24%,-1200039.0,1.0,-2.0,3.0,-26.0,ALSK
+558,D,2011-03-08 19:30:28,2011-03-07,ALSK,Pelletier Liane J,"CEO, Pres",M - OptEx,4.5,200000,380509,+111%,900000.0,1.0,-2.0,3.0,-26.0,ALSK
+559,DM,2011-03-08 19:30:28,2011-03-07,ALSK,Pelletier Liane J,"CEO, Pres",S - Sale+OE,10.16,-231944,380509,-38%,-2356426.0,1.0,-2.0,3.0,-26.0,ALSK
+560,D,2011-03-02 20:34:02,2011-03-01,ALSK,Wilson David,"EVP, CFO",D - Sale to issuer,9.97,-252658,194530,-56%,-2519000.0,1.0,3.0,10.0,-23.0,ALSK
+561,D,2011-03-02 20:34:02,2011-03-01,ALSK,Wilson David,"EVP, CFO",F - Tax,9.97,-5910,194530,-3%,-58923.0,1.0,3.0,10.0,-23.0,ALSK
+562,D,2011-03-02 20:34:02,2011-03-01,ALSK,Wilson David,"EVP, CFO",M - OptEx,9.16,275000,194530,-342%,2519000.0,1.0,3.0,10.0,-23.0,ALSK
+563,D,2011-03-02 20:34:02,2011-03-02,ALSK,Wilson David,"EVP, CFO",S - Sale+OE,9.95,-6000,194530,-3%,-59690.0,1.0,3.0,10.0,-23.0,ALSK
+564,D,2011-01-24 19:35:26,2011-01-20,ALSK,Egan John M,Dir,M - OptEx,0.0,16425,74785,+28%,0.0,1.0,1.0,6.0,-12.0,ALSK
+565,D,2011-01-10 16:19:46,2011-01-05,ALSK,Wilson David,"EVP, CFO",F - Tax,10.98,-3027,184098,-2%,-33236.0,0.0,-6.0,-5.0,-10.0,ALSK
+566,D,2011-01-10 16:19:46,2011-01-05,ALSK,Wilson David,"EVP, CFO",M - OptEx,0.0,10008,184098,+6%,0.0,0.0,-6.0,-5.0,-10.0,ALSK
+567,,2011-01-04 20:33:04,2010-12-31,ALSK,Ley Peter D,Dir,A - Grant,0.0,750,31340,+2%,0.0,1.0,-8.0,-12.0,-14.0,ALSK
+568,,2011-01-04 20:31:25,2010-12-31,ALSK,Jacobs Annette M,Dir,A - Grant,0.0,750,19537,+4%,0.0,1.0,-8.0,-12.0,-14.0,ALSK
+569,,2011-01-04 20:30:19,2010-12-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,4.81,1324,19846,+7%,6371.0,1.0,-8.0,-12.0,-14.0,ALSK
+570,D,2011-01-03 19:01:21,2010-12-31,ALSK,Pelletier Liane J,"CEO, Pres",F - Tax,11.1,-1658,530509,0%,-18404.0,-2.0,-10.0,-15.0,-16.0,ALSK
+571,D,2011-01-03 19:01:21,2010-12-31,ALSK,Pelletier Liane J,"CEO, Pres",M - OptEx,0.0,6266,530509,+1%,0.0,-2.0,-10.0,-15.0,-16.0,ALSK
+572,D,2010-12-20 19:56:15,2010-12-19,ALSK,Vadapalli Anand,COO - Chief Operations Officer,F - Tax,11.41,-2668,73486,-4%,-30442.0,0.0,0.0,-16.0,-19.0,ALSK
+573,D,2010-12-20 19:56:15,2010-12-19,ALSK,Vadapalli Anand,COO - Chief Operations Officer,M - OptEx,0.0,10085,73486,+16%,0.0,0.0,0.0,-16.0,-19.0,ALSK
+574,D,2010-11-22 20:02:09,2010-11-20,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,10.5,-1084,98992,-1%,-11382.0,-2.0,0.0,9.0,-13.0,ALSK
+575,D,2010-11-22 20:02:09,2010-11-20,ALSK,Steinberg Leonard,"VP, GC, Secretary",M - OptEx,5.5,1667,98992,+2%,9169.0,-2.0,0.0,9.0,-13.0,ALSK
+576,,2010-10-04 20:02:01,2010-09-30,ALSK,Ley Peter D,Dir,A - Grant,0.0,750,30590,+3%,0.0,3.0,-1.0,2.0,10.0,ALSK
+577,,2010-10-04 20:00:39,2010-09-30,ALSK,Jacobs Annette M,Dir,A - Grant,0.0,750,18787,+4%,0.0,3.0,-1.0,2.0,10.0,ALSK
+578,,2010-10-04 19:59:09,2010-09-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,4.52,1353,18522,+8%,6120.0,3.0,-1.0,2.0,10.0,ALSK
+579,D,2010-08-26 16:59:41,2010-08-24,ALSK,Wilson David,"EVP, CFO",F - Tax,9.29,-61684,176181,-26%,-573044.0,3.0,3.0,12.0,9.0,ALSK
+580,D,2010-08-26 16:59:41,2010-08-24,ALSK,Wilson David,"EVP, CFO",M - OptEx,4.44,100000,176181,+131%,444000.0,3.0,3.0,12.0,9.0,ALSK
+581,D,2010-08-26 16:59:41,2010-08-25,ALSK,Wilson David,"EVP, CFO",S - Sale+OE,9.23,-5200,176181,-3%,-47996.0,3.0,3.0,12.0,9.0,ALSK
+582,D,2010-08-09 20:29:26,2010-08-07,ALSK,Vadapalli Anand,COO - Chief Operations Officer,F - Tax,9.02,-221,66069,0%,-1993.0,-1.0,-3.0,2.0,6.0,ALSK
+583,D,2010-08-09 20:29:26,2010-08-07,ALSK,Vadapalli Anand,COO - Chief Operations Officer,M - OptEx,0.0,833,66069,+1%,0.0,-1.0,-3.0,2.0,6.0,ALSK
+584,,2010-07-02 18:41:31,2010-06-30,ALSK,Southwell David Albert,Dir,A - Grant,4.29,1515,8517,+22%,6495.0,-2.0,5.0,5.0,35.0,ALSK
+585,,2010-07-02 18:35:44,2010-06-30,ALSK,Ley Peter D,Dir,A - Grant,0.0,750,29840,+3%,0.0,-2.0,5.0,5.0,35.0,ALSK
+586,,2010-07-02 18:34:41,2010-06-30,ALSK,Jacobs Annette M,Dir,A - Grant,0.0,750,18037,+4%,0.0,-2.0,5.0,5.0,35.0,ALSK
+587,,2010-07-02 18:33:33,2010-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,3.68,1324,17169,+8%,4873.0,-2.0,5.0,5.0,35.0,ALSK
+588,,2010-04-02 21:26:35,2010-03-31,ALSK,Southwell David Albert,Dir,A - Grant,4.41,1642,7002,+31%,7243.0,2.0,2.0,9.0,33.0,ALSK
+589,,2010-04-02 21:21:12,2010-03-31,ALSK,Ley Peter D,Dir,A - Grant,4.79,1827,29090,+7%,8745.0,2.0,2.0,9.0,33.0,ALSK
+590,,2010-04-02 21:20:03,2010-03-31,ALSK,Jacobs Annette M,Dir,A - Grant,5.0,1950,17287,+13%,9744.0,2.0,2.0,9.0,33.0,ALSK
+591,,2010-04-02 21:19:14,2010-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,5.05,1981,15845,+14%,9996.0,2.0,2.0,9.0,33.0,ALSK
+592,D,2010-04-02 21:14:15,2010-03-31,ALSK,Wilson David,"EVP, CFO",A - Grant,0.0,12179,142051,+9%,0.0,2.0,2.0,9.0,33.0,ALSK
+593,D,2010-04-02 21:14:15,2010-03-31,ALSK,Wilson David,"EVP, CFO",F - Tax,8.12,-3222,142051,-2%,-26163.0,2.0,2.0,9.0,33.0,ALSK
+594,D,2010-04-02 21:12:44,2010-03-31,ALSK,Vadapalli Anand,COO - Chief Operations Officer,A - Grant,0.0,12179,65457,+23%,0.0,2.0,2.0,9.0,33.0,ALSK
+595,D,2010-04-02 21:12:44,2010-03-31,ALSK,Vadapalli Anand,COO - Chief Operations Officer,F - Tax,8.12,-3244,65457,-5%,-26341.0,2.0,2.0,9.0,33.0,ALSK
+596,D,2010-04-02 21:10:51,2010-03-31,ALSK,Steinberg Leonard,"VP, GC, Secretary",A - Grant,0.0,12179,98122,+14%,0.0,2.0,2.0,9.0,33.0,ALSK
+597,D,2010-04-02 21:10:51,2010-03-31,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,8.12,-3355,98122,-3%,-27243.0,2.0,2.0,9.0,33.0,ALSK
+598,D,2010-04-02 21:08:45,2010-03-31,ALSK,Pelletier Liane J,"CEO, Pres",A - Grant,0.0,36208,524058,+7%,0.0,2.0,2.0,9.0,33.0,ALSK
+599,D,2010-04-02 21:08:45,2010-03-31,ALSK,Pelletier Liane J,"CEO, Pres",F - Tax,8.12,-9578,524058,-2%,-77773.0,2.0,2.0,9.0,33.0,ALSK
+600,D,2010-03-18 19:29:24,2010-03-17,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,8.48,-6812,89298,-7%,-57766.0,-3.0,-2.0,-5.0,19.0,ALSK
+601,D,2010-03-18 19:29:24,2010-03-17,ALSK,Steinberg Leonard,"VP, GC, Secretary",M - OptEx,5.25,9000,89298,+11%,47230.0,-3.0,-2.0,-5.0,19.0,ALSK
+602,,2010-03-11 16:32:04,2010-03-10,ALSK,Southwell David Albert,Dir,S - Sale,8.32,-9000,5360,-63%,-74880.0,-1.0,1.0,-1.0,21.0,ALSK
+603,D,2010-01-05 20:12:29,2010-01-05,ALSK,Wilson David,"EVP, CFO",A - Grant,0.0,10007,133094,+8%,0.0,-2.0,-6.0,-5.0,8.0,ALSK
+604,D,2010-01-05 20:12:29,2010-01-05,ALSK,Wilson David,"EVP, CFO",F - Tax,8.23,-3289,133094,-2%,-27068.0,-2.0,-6.0,-5.0,8.0,ALSK
+605,,2010-01-04 20:43:50,2009-12-31,ALSK,Ley Peter D,Dir,A - Grant,5.27,1471,27263,+6%,7749.0,1.0,-4.0,-3.0,11.0,ALSK
+606,,2010-01-04 20:41:57,2009-12-31,ALSK,Southwell David Albert,Dir,A - Grant,5.15,1408,14360,+11%,7246.0,1.0,-4.0,-3.0,11.0,ALSK
+607,,2010-01-04 20:41:01,2009-12-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,5.53,1627,13864,+13%,8993.0,1.0,-4.0,-3.0,11.0,ALSK
+608,,2010-01-04 20:39:50,2009-12-31,ALSK,Jacobs Annette M,Dir,A - Grant,5.66,1721,15337,+13%,9744.0,1.0,-4.0,-3.0,11.0,ALSK
+609,D,2010-01-04 20:33:59,2009-12-31,ALSK,Pelletier Liane J,"CEO, Pres",A - Grant,0.0,5330,497428,+1%,0.0,1.0,-4.0,-3.0,11.0,ALSK
+610,D,2010-01-04 20:33:59,2009-12-31,ALSK,Pelletier Liane J,"CEO, Pres",F - Tax,7.98,-1943,497428,0%,-15505.0,1.0,-4.0,-3.0,11.0,ALSK
+611,D,2009-12-21 18:50:44,2009-12-19,ALSK,Vadapalli Anand,COO - Chief Operations Officer,A - Grant,0.0,10084,56522,+22%,0.0,2.0,9.0,1.0,16.0,ALSK
+612,D,2009-12-21 18:50:44,2009-12-19,ALSK,Vadapalli Anand,COO - Chief Operations Officer,F - Tax,8.05,-2668,56522,-5%,-21477.0,2.0,9.0,1.0,16.0,ALSK
+613,D,2009-12-15 21:08:41,2009-12-14,ALSK,Fisher Sheldon,"SVP, Sales, Service",F - Tax,8.07,-43123,62252,-41%,-348003.0,-1.0,0.0,-1.0,15.0,ALSK
+614,D,2009-12-15 21:08:41,2009-12-14,ALSK,Fisher Sheldon,"SVP, Sales, Service",M - OptEx,4.35,80000,62252,-451%,348000.0,-1.0,0.0,-1.0,15.0,ALSK
+615,D,2009-12-15 21:08:41,2009-12-15,ALSK,Fisher Sheldon,"SVP, Sales, Service",S - Sale+OE,8.02,-20705,62252,-25%,-166054.0,-1.0,0.0,-1.0,15.0,ALSK
+616,M,2009-11-13 19:59:58,2009-11-12,ALSK,Rogers Brian D,Dir,P - Purchase,6.57,3000,21176,+17%,19721.0,1.0,2.0,22.0,33.0,ALSK
+617,,2009-10-01 20:57:55,2009-09-30,ALSK,Southwell David Albert,Dir,A - Grant,5.86,1364,12952,+12%,7992.0,-1.0,-1.0,-9.0,-3.0,ALSK
+618,,2009-10-01 20:54:52,2009-09-30,ALSK,Ley Peter D,Dir,A - Grant,5.99,1418,25792,+6%,8492.0,-1.0,-1.0,-9.0,-3.0,ALSK
+619,,2009-10-01 20:53:32,2009-09-30,ALSK,Jacobs Annette M,Dir,A - Grant,6.42,1635,13616,+14%,10499.0,-1.0,-1.0,-9.0,-3.0,ALSK
+620,,2009-10-01 20:52:06,2009-09-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,6.27,1554,12237,+15%,9750.0,-1.0,-1.0,-9.0,-3.0,ALSK
+621,D,2009-08-10 17:50:46,2009-08-07,ALSK,Vadapalli Anand,"EVP, Technology, Oper.",A - Grant,0.0,833,49106,+2%,0.0,-1.0,-2.0,3.0,-11.0,ALSK
+622,D,2009-08-10 17:50:46,2009-08-07,ALSK,Vadapalli Anand,"EVP, Technology, Oper.",F - Tax,7.95,-221,49106,0%,-1757.0,-1.0,-2.0,3.0,-11.0,ALSK
+623,D,2009-08-03 18:07:31,2009-07-31,ALSK,Pelletier Liane J,"CEO, Pres",A - Grant,0.0,63549,491945,+15%,0.0,3.0,6.0,7.0,12.0,ALSK
+624,,2009-07-01 21:51:26,2009-06-30,ALSK,Ley Peter D,Dir,A - Grant,5.12,1661,24374,+7%,8499.0,-3.0,-10.0,0.0,18.0,ALSK
+625,,2009-07-01 21:50:34,2009-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,5.32,1831,10683,+21%,9743.0,-3.0,-10.0,0.0,18.0,ALSK
+626,,2009-07-01 21:37:00,2009-06-30,ALSK,Jacobs Annette M,Dir,A - Grant,5.43,1934,11981,+19%,10497.0,-3.0,-10.0,0.0,18.0,ALSK
+627,,2009-07-01 21:36:07,2009-06-30,ALSK,Southwell David Albert,Dir,A - Grant,4.86,1490,11588,+15%,7247.0,-3.0,-10.0,0.0,18.0,ALSK
+628,M,2009-06-18 19:26:45,2009-06-16,ALSK,Fisher Sheldon,"SVP, Sales, Service",S - Sale,7.15,-11472,46080,-20%,-82009.0,1.0,5.0,-5.0,19.0,ALSK
+629,,2009-06-16 20:48:26,2009-06-12,ALSK,Wilson David,"EVP, CFO",A - Grant,0.0,11167,124164,+10%,0.0,2.0,5.0,1.0,22.0,ALSK
+630,,2009-06-16 20:48:26,2009-06-12,ALSK,Wilson David,"EVP, CFO",F - Tax,6.92,-2954,124164,-2%,-20442.0,2.0,5.0,1.0,22.0,ALSK
+631,,2009-06-16 20:47:10,2009-06-12,ALSK,Pelletier Liane J,"CEO, Pres",A - Grant,0.0,57802,428396,+16%,0.0,2.0,5.0,1.0,22.0,ALSK
+632,,2009-06-16 20:47:10,2009-06-12,ALSK,Pelletier Liane J,"CEO, Pres",F - Tax,6.92,-21069,428396,-5%,-145797.0,2.0,5.0,1.0,22.0,ALSK
+633,,2009-06-16 20:45:37,2009-06-12,ALSK,Vadapalli Anand,"EVP, Technology, Oper.",A - Grant,0.0,13000,48494,+37%,0.0,2.0,5.0,1.0,22.0,ALSK
+634,,2009-06-16 20:45:37,2009-06-12,ALSK,Vadapalli Anand,"EVP, Technology, Oper.",F - Tax,6.92,-3439,48494,-7%,-23798.0,2.0,5.0,1.0,22.0,ALSK
+635,,2009-06-16 20:42:01,2009-06-12,ALSK,Steinberg Leonard,"VP, GC, Secretary",A - Grant,0.0,7334,86481,+9%,0.0,2.0,5.0,1.0,22.0,ALSK
+636,,2009-06-16 20:42:01,2009-06-12,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,6.92,-1940,86481,-2%,-13425.0,2.0,5.0,1.0,22.0,ALSK
+637,,2009-06-16 20:40:23,2009-06-12,ALSK,Fisher Sheldon,"SVP, Sales, Service",A - Grant,0.0,9667,57552,+20%,0.0,2.0,5.0,1.0,22.0,ALSK
+638,,2009-06-16 20:40:23,2009-06-12,ALSK,Fisher Sheldon,"SVP, Sales, Service",F - Tax,6.92,-2557,57552,-4%,-17694.0,2.0,5.0,1.0,22.0,ALSK
+639,,2009-06-16 20:40:23,2009-06-15,ALSK,Fisher Sheldon,"SVP, Sales, Service",S - Sale,7.0,-3599,57552,-6%,-25193.0,2.0,5.0,1.0,22.0,ALSK
+640,,2009-05-06 21:13:27,2009-05-06,ALSK,Fisher Sheldon,"SVP, Sales, Service",S - Sale,7.0,-6129,54041,-10%,-42903.0,-1.0,-4.0,-4.0,16.0,ALSK
+641,A,2009-04-08 21:11:12,2009-03-27,ALSK,Steinberg Leonard,"VP, GC, Secretary",A - Grant,0.0,40171,81087,+98%,0.0,2.0,2.0,9.0,46.0,ALSK
+642,A,2009-04-08 21:11:12,2009-03-27,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,6.95,-11122,81087,-12%,-77298.0,2.0,2.0,9.0,46.0,ALSK
+643,A,2009-04-08 21:06:56,2009-03-31,ALSK,Ley Peter D,Dir,A - Grant,6.7,1380,22713,+6%,9246.0,2.0,2.0,9.0,46.0,ALSK
+644,A,2009-04-08 21:03:17,2009-03-31,ALSK,Jacobs Annette M,Dir,A - Grant,6.7,1679,10047,+20%,11249.0,2.0,2.0,9.0,46.0,ALSK
+645,A,2009-04-08 21:00:15,2009-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,6.7,1567,8852,+22%,10499.0,2.0,2.0,9.0,46.0,ALSK
+646,,2009-04-01 15:57:13,2009-03-31,ALSK,Southwell David Albert,Dir,A - Grant,4.72,1694,10098,+20%,8000.0,-1.0,-5.0,-10.0,47.0,ALSK
+647,,2009-04-01 15:50:14,2009-03-31,ALSK,Ley Peter D,Dir,A - Grant,5.29,2380,23213,+11%,12596.0,-1.0,-5.0,-10.0,47.0,ALSK
+648,,2009-04-01 15:47:46,2009-03-31,ALSK,Jacobs Annette M,Dir,A - Grant,5.45,2679,10547,+34%,14599.0,-1.0,-5.0,-10.0,47.0,ALSK
+649,,2009-04-01 15:42:23,2009-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,5.39,2567,9352,+38%,13849.0,-1.0,-5.0,-10.0,47.0,ALSK
+650,,2009-03-31 13:41:44,2009-03-27,ALSK,Wilson David,"EVP, CFO",A - Grant,0.0,49504,115951,+75%,0.0,1.0,0.0,-12.0,45.0,ALSK
+651,,2009-03-31 13:41:44,2009-03-27,ALSK,Wilson David,"EVP, CFO",F - Tax,6.95,-13097,115951,-10%,-91024.0,1.0,0.0,-12.0,45.0,ALSK
+652,,2009-03-31 13:40:16,2009-03-27,ALSK,Vadapalli Anand,"EVP, Technology, Oper.",A - Grant,0.0,33721,38933,+647%,0.0,1.0,0.0,-12.0,45.0,ALSK
+653,,2009-03-31 13:40:16,2009-03-27,ALSK,Vadapalli Anand,"EVP, Technology, Oper.",F - Tax,6.95,-9290,38933,-19%,-64566.0,1.0,0.0,-12.0,45.0,ALSK
+654,,2009-03-31 13:38:41,2009-03-27,ALSK,Steinberg Leonard,"VP, GC, Secretary",A - Grant,0.0,40171,86087,+87%,0.0,1.0,0.0,-12.0,45.0,ALSK
+655,,2009-03-31 13:38:41,2009-03-27,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,6.95,-11122,86087,-11%,-77298.0,1.0,0.0,-12.0,45.0,ALSK
+656,,2009-03-31 13:36:30,2009-03-27,ALSK,Pelletier Liane J,"CEO, Pres",A - Grant,0.0,169976,391663,+77%,0.0,1.0,0.0,-12.0,45.0,ALSK
+657,,2009-03-31 13:36:30,2009-03-27,ALSK,Pelletier Liane J,"CEO, Pres",F - Tax,6.95,-47569,391663,-11%,-330605.0,1.0,0.0,-12.0,45.0,ALSK
+658,,2009-03-31 13:34:44,2009-03-27,ALSK,Fisher Sheldon,"SVP, Sales, Service",A - Grant,0.0,49504,60170,+464%,0.0,1.0,0.0,-12.0,45.0,ALSK
+659,,2009-03-31 13:34:44,2009-03-27,ALSK,Fisher Sheldon,"SVP, Sales, Service",F - Tax,6.95,-13519,60170,-18%,-93957.0,1.0,0.0,-12.0,45.0,ALSK
+660,,2009-03-31 13:32:56,2009-03-27,ALSK,Cagle Nathan E Jr,"VP, HR",A - Grant,0.0,3100,2087,-306%,0.0,1.0,0.0,-12.0,45.0,ALSK
+661,,2009-03-31 13:32:56,2009-03-27,ALSK,Cagle Nathan E Jr,"VP, HR",F - Tax,6.95,-1013,2087,-33%,-7040.0,1.0,0.0,-12.0,45.0,ALSK
+662,,2009-03-23 15:58:58,2009-03-23,ALSK,Fisher Sheldon,"SVP, Sales, Service",S - Sale,7.0,-9013,24185,-27%,-63091.0,24.0,20.0,7.0,50.0,ALSK
+663,D,2009-03-17 19:38:23,2009-03-11,ALSK,Egan John M,Dir,P - Purchase,5.13,20000,58360,+52%,102600.0,12.0,42.0,26.0,74.0,ALSK
+664,,2009-02-19 16:48:09,2009-02-18,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,7.23,-8185,33198,-20%,-59158.0,-3.0,-8.0,-12.0,22.0,ALSK
+665,,2009-01-20 21:15:38,2009-01-20,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,8.98,-8000,41383,-16%,-71824.0,2.0,-3.0,-20.0,-19.0,ALSK
+666,D,2009-01-06 20:29:50,2009-01-05,ALSK,Wilson David,"SVP, CFO",A - Grant,0.0,10007,79544,+14%,0.0,-1.0,0.0,-8.0,-20.0,ALSK
+667,D,2009-01-06 20:29:50,2009-01-05,ALSK,Wilson David,"SVP, CFO",F - Tax,9.16,-3280,79544,-4%,-30045.0,-1.0,0.0,-8.0,-20.0,ALSK
+668,D,2009-01-05 20:08:30,2008-12-31,ALSK,Pelletier Liane J,"CEO, Pres",F - Tax,9.38,-1089,269256,0%,-10215.0,-2.0,-2.0,-7.0,-19.0,ALSK
+669,D,2009-01-05 20:08:30,2008-12-31,ALSK,Pelletier Liane J,"CEO, Pres",M - OptEx,0.0,2986,269256,+1%,0.0,-2.0,-2.0,-7.0,-19.0,ALSK
+670,,2009-01-05 16:40:16,2008-12-31,ALSK,Southwell David Albert,Dir,A - Grant,5.69,1272,8404,+18%,7241.0,-2.0,-2.0,-7.0,-19.0,ALSK
+671,,2009-01-05 16:38:27,2008-12-31,ALSK,Rogers Brian D,Dir,A - Grant,0.0,500,8988,+6%,0.0,-2.0,-2.0,-7.0,-19.0,ALSK
+672,,2009-01-05 16:36:01,2008-12-31,ALSK,Ley Peter D,Dir,A - Grant,0.0,500,20833,+2%,0.0,-2.0,-2.0,-7.0,-19.0,ALSK
+673,,2009-01-05 16:34:10,2008-12-31,ALSK,Jacobs Annette M,Dir,A - Grant,6.33,1539,7868,+24%,9746.0,-2.0,-2.0,-7.0,-19.0,ALSK
+674,,2009-01-05 16:31:39,2008-12-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,4.59,979,6785,+17%,4493.0,-2.0,-2.0,-7.0,-19.0,ALSK
+675,D,2008-12-22 20:55:43,2008-12-19,ALSK,Vadapalli Anand,"SVP, Networks, IT",A - Grant,0.0,10084,14502,+228%,0.0,0.0,0.0,-1.0,-12.0,ALSK
+676,D,2008-12-22 20:55:43,2008-12-19,ALSK,Vadapalli Anand,"SVP, Networks, IT",F - Tax,9.09,-2668,14502,-16%,-24252.0,0.0,0.0,-1.0,-12.0,ALSK
+677,D,2008-11-04 15:17:41,2008-11-03,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",M - OptEx,4.88,40000,1000,-103%,195200.0,-1.0,-2.0,-3.0,-22.0,ALSK
+678,D,2008-11-04 15:17:41,2008-11-03,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale+OE,9.42,-40000,1000,-98%,-376844.0,-1.0,-2.0,-3.0,-22.0,ALSK
+679,,2008-10-01 20:46:08,2008-09-30,ALSK,Southwell David Albert,Dir,A - Grant,6.63,1092,7132,+18%,7240.0,-3.0,-10.0,-26.0,-42.0,ALSK
+680,,2008-10-01 20:44:45,2008-09-30,ALSK,Rogers Brian D,Dir,A - Grant,0.0,500,8488,+6%,0.0,-3.0,-10.0,-26.0,-42.0,ALSK
+681,,2008-10-01 20:42:32,2008-09-30,ALSK,Ley Peter D,Dir,A - Grant,0.0,333,20333,+2%,0.0,-3.0,-10.0,-26.0,-42.0,ALSK
+682,,2008-10-01 20:41:12,2008-09-30,ALSK,Jacobs Annette M,Dir,A - Grant,7.92,1419,6329,+29%,11239.0,-3.0,-10.0,-26.0,-42.0,ALSK
+683,,2008-10-01 20:39:46,2008-09-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,5.81,953,5806,+20%,5540.0,-3.0,-10.0,-26.0,-42.0,ALSK
+684,,2008-08-27 13:35:04,2008-08-25,ALSK,Ley Peter D,Dir,P - Purchase,10.82,20000,20000,New,216400.0,2.0,7.0,22.0,-36.0,ALSK
+685,D,2008-08-21 13:17:29,2008-08-20,ALSK,Pichette Patrick,Dir,G - Gift,0.0,-8069,0,-100%,-0.0,-2.0,-5.0,17.0,-37.0,ALSK
+686,D,2008-08-21 13:17:29,2008-08-20,ALSK,Pichette Patrick,Dir,M - OptEx,0.0,8069,0,-100%,0.0,-2.0,-5.0,17.0,-37.0,ALSK
+687,D,2008-08-07 20:13:00,2008-08-07,ALSK,Vadapalli Anand,"SVP, Networks, IT",A - Grant,0.0,833,7086,+13%,0.0,2.0,2.0,-1.0,-19.0,ALSK
+688,D,2008-08-07 20:13:00,2008-08-07,ALSK,Vadapalli Anand,"SVP, Networks, IT",F - Tax,10.71,-221,7086,-3%,-2367.0,2.0,2.0,-1.0,-19.0,ALSK
+689,D,2008-07-07 13:49:12,2008-07-03,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",M - OptEx,4.88,40000,1000,-103%,195200.0,1.0,3.0,3.0,-18.0,ALSK
+690,D,2008-07-07 13:49:12,2008-07-03,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale+OE,11.9,-40000,1000,-98%,-476088.0,1.0,3.0,3.0,-18.0,ALSK
+691,M,2008-07-02 19:08:25,2008-07-01,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale,11.82,-20013,1000,-95%,-236620.0,-2.0,0.0,5.0,-22.0,ALSK
+692,,2008-07-01 19:51:40,2008-06-30,ALSK,Jacobs Annette M,Dir,A - Grant,7.4,1316,4910,+37%,9743.0,0.0,2.0,4.0,-26.0,ALSK
+693,,2008-07-01 19:49:58,2008-06-30,ALSK,Rogers Brian D,Dir,A - Grant,0.0,500,7988,+7%,0.0,0.0,2.0,4.0,-26.0,ALSK
+694,,2008-07-01 19:46:34,2008-06-30,ALSK,Southwell David Albert,Dir,A - Grant,6.55,1107,6040,+22%,7248.0,0.0,2.0,4.0,-26.0,ALSK
+695,,2008-07-01 19:44:32,2008-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,4.69,824,4853,+20%,3869.0,0.0,2.0,4.0,-26.0,ALSK
+696,D,2008-06-11 15:11:55,2008-06-10,ALSK,Pelletier Liane J,"CEO, Pres",F - Tax,12.37,-238274,265601,-47%,-2947449.0,-2.0,-1.0,0.0,-21.0,ALSK
+697,D,2008-06-11 15:11:55,2008-06-10,ALSK,Pelletier Liane J,"CEO, Pres",M - OptEx,4.5,400000,265601,-298%,1800000.0,-2.0,-1.0,0.0,-21.0,ALSK
+698,D,2008-05-29 19:14:39,2008-05-28,ALSK,Steinberg Leonard,"VP, GC, Secretary",M - OptEx,5.16,5000,51601,+11%,25790.0,2.0,-2.0,-4.0,-24.0,ALSK
+699,D,2008-05-29 19:14:39,2008-05-28,ALSK,Steinberg Leonard,"VP, GC, Secretary",S - Sale+OE,12.75,-5000,51601,-9%,-63750.0,2.0,-2.0,-4.0,-24.0,ALSK
+700,,2008-04-02 19:59:19,2008-03-31,ALSK,Southwell David Albert,Dir,A - Grant,6.93,1153,4933,+31%,7993.0,1.0,0.0,-4.0,6.0,ALSK
+701,,2008-04-02 19:56:15,2008-03-31,ALSK,Rogers Brian D,Dir,A - Grant,0.0,500,7488,+7%,0.0,1.0,0.0,-4.0,6.0,ALSK
+702,,2008-04-02 19:52:11,2008-03-31,ALSK,Jacobs Annette M,Dir,A - Grant,7.93,1419,3594,+65%,11249.0,1.0,0.0,-4.0,6.0,ALSK
+703,,2008-04-02 19:50:06,2008-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,6.42,1051,4029,+35%,6744.0,1.0,0.0,-4.0,6.0,ALSK
+704,,2008-03-25 19:52:10,2008-03-21,ALSK,Wilson David,"SVP, CFO",A - Grant,0.0,41059,71417,+135%,0.0,-1.0,0.0,-11.0,7.0,ALSK
+705,,2008-03-25 19:52:10,2008-03-21,ALSK,Wilson David,"SVP, CFO",F - Tax,12.59,-11071,71417,-13%,-139384.0,-1.0,0.0,-11.0,7.0,ALSK
+706,,2008-03-25 19:51:05,2008-03-21,ALSK,Vadapalli Anand,"SVP, Networks, IT",A - Grant,0.0,6229,6474,>999%,0.0,-1.0,0.0,-11.0,7.0,ALSK
+707,,2008-03-25 19:51:05,2008-03-21,ALSK,Vadapalli Anand,"SVP, Networks, IT",F - Tax,12.59,-1828,6474,-22%,-23015.0,-1.0,0.0,-11.0,7.0,ALSK
+708,,2008-03-25 19:49:38,2008-03-21,ALSK,Steinberg Leonard,"VP, GC, Secretary",A - Grant,0.0,33059,51601,+178%,0.0,-1.0,0.0,-11.0,7.0,ALSK
+709,,2008-03-25 19:49:38,2008-03-21,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,12.59,-8996,51601,-15%,-113260.0,-1.0,0.0,-11.0,7.0,ALSK
+710,,2008-03-25 19:48:30,2008-03-21,ALSK,Pelletier Liane J,"CEO, Pres",A - Grant,0.0,90403,103875,+671%,0.0,-1.0,0.0,-11.0,7.0,ALSK
+711,,2008-03-25 19:48:30,2008-03-21,ALSK,Pelletier Liane J,"CEO, Pres",F - Tax,12.59,-25011,103875,-19%,-314888.0,-1.0,0.0,-11.0,7.0,ALSK
+712,,2008-03-25 19:46:35,2008-03-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",A - Grant,0.0,31059,49383,+169%,0.0,-1.0,0.0,-11.0,7.0,ALSK
+713,,2008-03-25 19:46:35,2008-03-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",F - Tax,12.59,-8397,49383,-15%,-105718.0,-1.0,0.0,-11.0,7.0,ALSK
+714,,2008-03-25 19:45:09,2008-03-21,ALSK,Erwin Sheila Lynn,"VP, HR",A - Grant,0.0,8719,14013,+165%,0.0,-1.0,0.0,-11.0,7.0,ALSK
+715,,2008-03-25 19:45:09,2008-03-21,ALSK,Erwin Sheila Lynn,"VP, HR",F - Tax,12.59,-2639,14013,-16%,-33225.0,-1.0,0.0,-11.0,7.0,ALSK
+716,,2008-03-25 19:39:54,2008-03-21,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",A - Grant,0.0,37725,28533,-410%,0.0,-1.0,0.0,-11.0,7.0,ALSK
+717,,2008-03-25 19:39:54,2008-03-21,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",F - Tax,12.59,-10192,28533,-26%,-128317.0,-1.0,0.0,-11.0,7.0,ALSK
+718,,2008-01-02 21:20:37,2007-12-31,ALSK,Rogers Brian D,Dir,A - Grant,15.0,341,6988,+5%,5115.0,0.0,-4.0,-5.0,-14.0,ALSK
+719,,2008-01-02 21:19:27,2007-12-31,ALSK,Southwell David Albert,Dir,A - Grant,15.0,650,3780,+21%,9750.0,0.0,-4.0,-5.0,-14.0,ALSK
+720,,2008-01-02 21:18:32,2007-12-31,ALSK,Egan John M,Dir,A - Grant,15.0,300,38360,+1%,4500.0,0.0,-4.0,-5.0,-14.0,ALSK
+721,,2008-01-02 21:16:03,2007-12-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,15.0,383,2978,+15%,5745.0,0.0,-4.0,-5.0,-14.0,ALSK
+722,,2008-01-02 21:14:14,2007-12-31,ALSK,Jacobs Annette M,Dir,A - Grant,15.0,408,2175,+23%,6120.0,0.0,-4.0,-5.0,-14.0,ALSK
+723,,2008-01-02 21:12:29,2007-12-31,ALSK,Donahee Gary,Dir,A - Grant,15.0,600,8842,+7%,9000.0,0.0,-4.0,-5.0,-14.0,ALSK
+724,,2007-11-15 14:12:03,2007-11-15,ALSK,Wilson David,"SVP, CFO",S - Sale,14.66,-2500,40939,-6%,-36658.0,0.0,-2.0,-1.0,-21.0,ALSK
+725,,2007-10-15 18:13:19,2007-10-15,ALSK,Wilson David,"SVP, CFO",S - Sale,15.16,-2500,43439,-5%,-37898.0,1.0,-3.0,-4.0,-23.0,ALSK
+726,,2007-10-01 15:58:11,2007-09-28,ALSK,Egan John M,Dir,A - Grant,14.45,311,38060,+1%,4494.0,1.0,5.0,9.0,-11.0,ALSK
+727,,2007-10-01 15:56:28,2007-09-28,ALSK,Donahee Gary,Dir,A - Grant,14.45,570,8242,+7%,8237.0,1.0,5.0,9.0,-11.0,ALSK
+728,,2007-10-01 15:52:02,2007-09-28,ALSK,Rogers Brian D,Dir,A - Grant,14.45,415,6647,+7%,5997.0,1.0,5.0,9.0,-11.0,ALSK
+729,,2007-10-01 15:49:13,2007-09-28,ALSK,Hayes Edward J Jr,Dir,A - Grant,14.45,389,2595,+18%,5621.0,1.0,5.0,9.0,-11.0,ALSK
+730,,2007-10-01 15:47:37,2007-09-28,ALSK,Jacobs Annette M,Dir,A - Grant,14.45,423,1767,+31%,6112.0,1.0,5.0,9.0,-11.0,ALSK
+731,,2007-10-01 15:44:49,2007-09-28,ALSK,Southwell David Albert,Dir,A - Grant,14.45,674,3130,+27%,9739.0,1.0,5.0,9.0,-11.0,ALSK
+732,,2007-09-17 14:34:28,2007-09-17,ALSK,Wilson David,"SVP, CFO",S - Sale,13.48,-2500,45939,-5%,-33700.0,0.0,10.0,12.0,-9.0,ALSK
+733,,2007-08-15 17:57:21,2007-08-15,ALSK,Wilson David,"SVP, CFO",S - Sale,13.55,-2500,48439,-5%,-33864.0,3.0,2.0,-2.0,1.0,ALSK
+734,D,2007-08-09 15:01:17,2007-08-07,ALSK,Vadapalli Anand,"SVP, Networks, IT",A - Grant,0.0,833,2073,+67%,0.0,-6.0,0.0,-3.0,-1.0,ALSK
+735,D,2007-08-09 15:01:17,2007-08-07,ALSK,Vadapalli Anand,"SVP, Networks, IT",F - Tax,13.69,-221,2073,-10%,-3025.0,-6.0,0.0,-3.0,-1.0,ALSK
+736,,2007-07-16 14:12:43,2007-07-16,ALSK,Wilson David,"SVP, CFO",S - Sale,14.81,-2500,50939,-5%,-37025.0,-2.0,-2.0,-7.0,-5.0,ALSK
+737,,2007-07-02 20:16:22,2007-06-29,ALSK,Southwell David Albert,Dir,A - Grant,15.84,615,2456,+33%,9742.0,-1.0,-1.0,-9.0,-2.0,ALSK
+738,D,2007-07-02 20:13:47,2007-06-29,ALSK,Rogers Brian D,Dir,A - Grant,15.84,363,6232,+6%,5750.0,-1.0,-1.0,-9.0,-2.0,ALSK
+739,,2007-07-02 20:11:29,2007-06-29,ALSK,Jacobs Annette M,Dir,A - Grant,15.84,386,1344,+40%,6114.0,-1.0,-1.0,-9.0,-2.0,ALSK
+740,,2007-07-02 20:09:44,2007-06-29,ALSK,Hayes Edward J Jr,Dir,A - Grant,15.84,363,2206,+20%,5750.0,-1.0,-1.0,-9.0,-2.0,ALSK
+741,,2007-07-02 20:07:49,2007-06-29,ALSK,Egan John M,Dir,A - Grant,15.84,307,37749,+1%,4863.0,-1.0,-1.0,-9.0,-2.0,ALSK
+742,,2007-07-02 20:03:22,2007-06-29,ALSK,Donahee Gary,Dir,A - Grant,15.84,568,7672,+8%,8997.0,-1.0,-1.0,-9.0,-2.0,ALSK
+743,,2007-06-15 13:00:17,2007-06-15,ALSK,Wilson David,"SVP, CFO",S - Sale,15.83,-2500,52955,-5%,-39575.0,1.0,1.0,-5.0,-3.0,ALSK
+744,D,2007-05-29 20:57:00,2007-05-25,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",A - Grant,4.35,40000,26721,-301%,174000.0,0.0,0.0,-1.0,-5.0,ALSK
+745,D,2007-05-29 20:57:00,2007-05-25,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale+OE,16.02,-23815,26721,-47%,-381588.0,0.0,0.0,-1.0,-5.0,ALSK
+746,,2007-05-21 14:14:23,2007-05-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,15.74,-378,10536,-3%,-5950.0,1.0,2.0,-2.0,-2.0,ALSK
+747,,2007-05-17 16:42:13,2007-05-17,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale,15.56,-11733,1000,-92%,-182554.0,0.0,4.0,0.0,-2.0,ALSK
+748,,2007-05-15 16:45:34,2007-05-15,ALSK,Wilson David,"SVP, CFO",S - Sale,15.86,-2500,55455,-4%,-39650.0,1.0,2.0,1.0,-5.0,ALSK
+749,,2007-05-11 21:16:48,2007-05-11,ALSK,Steinberg Leonard,"VP, GC, Secretary",S - Sale,16.0,-7261,27234,-21%,-116176.0,-1.0,-2.0,-2.0,-6.0,ALSK
+750,,2007-04-23 13:16:34,2007-04-23,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,15.28,-500,10914,-4%,-7640.0,0.0,8.0,4.0,3.0,ALSK
+751,A,2007-04-16 15:41:48,2007-04-16,ALSK,Wilson David,"SVP, CFO",S - Sale,15.06,-2500,57955,-4%,-37650.0,1.0,1.0,6.0,3.0,ALSK
+752,,2007-04-16 14:17:05,2007-04-16,ALSK,Wilson David,"SVP, CFO",S - Sale,0.0,-2500,57955,-4%,-0.0,1.0,1.0,6.0,3.0,ALSK
+753,,2007-04-03 21:10:31,2007-03-30,ALSK,Donahee Gary,Dir,A - Grant,14.75,762,7104,+12%,11240.0,-2.0,0.0,10.0,-1.0,ALSK
+754,,2007-04-03 21:08:48,2007-03-30,ALSK,Jacobs Annette M,Dir,A - Grant,14.75,344,958,+56%,5074.0,-2.0,0.0,10.0,-1.0,ALSK
+755,,2007-04-03 21:06:36,2007-03-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,14.75,347,1843,+23%,5118.0,-2.0,0.0,10.0,-1.0,ALSK
+756,,2007-04-03 21:04:31,2007-03-30,ALSK,Egan John M,Dir,A - Grant,14.75,406,37442,+1%,5989.0,-2.0,0.0,10.0,-1.0,ALSK
+757,D,2007-04-03 20:54:15,2007-03-30,ALSK,Rogers Brian D,Dir,A - Grant,14.75,423,5869,+8%,6239.0,-2.0,0.0,10.0,-1.0,ALSK
+758,,2007-04-03 20:49:20,2007-03-30,ALSK,Southwell David Albert,Dir,A - Grant,14.75,661,1841,+56%,9750.0,-2.0,0.0,10.0,-1.0,ALSK
+759,,2007-03-27 17:28:58,2007-03-23,ALSK,Erwin Sheila Lynn,"VP, HR",A - Grant,0.0,4658,7629,+157%,0.0,-2.0,1.0,3.0,-2.0,ALSK
+760,,2007-03-27 17:28:58,2007-03-23,ALSK,Erwin Sheila Lynn,"VP, HR",F - Tax,15.2,-1487,7629,-16%,-22602.0,-2.0,1.0,3.0,-2.0,ALSK
+761,,2007-03-27 15:46:10,2007-03-23,ALSK,Pelletier Liane J,"CEO, Pres",A - Grant,0.0,43333,37470,-739%,0.0,-1.0,-1.0,2.0,-3.0,ALSK
+762,,2007-03-27 15:46:10,2007-03-23,ALSK,Pelletier Liane J,"CEO, Pres",F - Tax,15.2,-11462,37470,-23%,-174222.0,-1.0,-1.0,2.0,-3.0,ALSK
+763,,2007-03-27 14:01:41,2007-03-23,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",A - Grant,0.0,14499,11414,-470%,0.0,-1.0,-1.0,2.0,-3.0,ALSK
+764,,2007-03-27 14:01:41,2007-03-23,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",F - Tax,15.2,-3963,11414,-26%,-60238.0,-1.0,-1.0,2.0,-3.0,ALSK
+765,,2007-03-27 13:57:20,2007-03-23,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",A - Grant,0.0,16166,12733,-471%,0.0,-1.0,-1.0,2.0,-3.0,ALSK
+766,,2007-03-27 13:57:20,2007-03-23,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",F - Tax,15.2,-4433,12733,-26%,-67382.0,-1.0,-1.0,2.0,-3.0,ALSK
+767,,2007-03-27 13:53:34,2007-03-23,ALSK,Wilson David,"SVP, CFO",A - Grant,0.0,14499,60455,+32%,0.0,-1.0,-1.0,2.0,-3.0,ALSK
+768,,2007-03-27 13:53:34,2007-03-23,ALSK,Wilson David,"SVP, CFO",F - Tax,15.2,-3836,60455,-6%,-58307.0,-1.0,-1.0,2.0,-3.0,ALSK
+769,,2007-03-27 13:50:27,2007-03-23,ALSK,Vadapalli Anand,"SVP, Networks, IT",A - Grant,0.0,2170,1461,-306%,0.0,-1.0,-1.0,2.0,-3.0,ALSK
+770,,2007-03-27 13:50:27,2007-03-23,ALSK,Vadapalli Anand,"SVP, Networks, IT",F - Tax,15.2,-709,1461,-33%,-10777.0,-1.0,-1.0,2.0,-3.0,ALSK
+771,,2007-03-27 13:46:40,2007-03-23,ALSK,Steinberg Leonard,"VP, GC, Secretary",A - Grant,0.0,16499,34495,+92%,0.0,-1.0,-1.0,2.0,-3.0,ALSK
+772,,2007-03-27 13:46:40,2007-03-23,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,15.2,-4511,34495,-12%,-68567.0,-1.0,-1.0,2.0,-3.0,ALSK
+773,,2007-03-21 17:41:16,2007-03-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,14.99,-500,878,-36%,-7495.0,-1.0,-3.0,0.0,-7.0,ALSK
+774,D,2007-03-16 20:59:56,2007-03-14,ALSK,Wilson David,"SVP, CFO",A - Grant,4.44,50000,49792,-24038%,222000.0,-1.0,3.0,4.0,-7.0,ALSK
+775,D,2007-03-16 20:59:56,2007-03-14,ALSK,Wilson David,"SVP, CFO",F - Tax,14.7,-24533,49792,-33%,-360635.0,-1.0,3.0,4.0,-7.0,ALSK
+776,D,2007-03-16 20:57:05,2007-03-14,ALSK,Steinberg Leonard,"VP, GC, Secretary",A - Grant,4.35,1000,22507,+5%,4350.0,-1.0,3.0,4.0,-7.0,ALSK
+777,D,2007-03-16 20:57:05,2007-03-14,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,14.7,-524,22507,-2%,-7703.0,-1.0,3.0,4.0,-7.0,ALSK
+778,,2007-03-15 14:57:35,2007-03-15,ALSK,Wilson David,"SVP, CFO",S - Sale,14.55,-2500,24325,-9%,-36375.0,1.0,5.0,4.0,-6.0,ALSK
+779,,2007-02-21 21:25:21,2007-02-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,16.56,-2455,1378,-64%,-40655.0,1.0,-14.0,-8.0,-15.0,ALSK
+780,,2007-02-16 20:33:12,2007-02-15,ALSK,Wilson David,"SVP, CFO",S - Sale,16.5,-2500,26825,-9%,-41250.0,0.0,-9.0,-11.0,-13.0,ALSK
+781,,2007-01-22 12:52:00,2007-01-22,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,15.48,-4043,3833,-51%,-62586.0,-2.0,1.0,7.0,-4.0,ALSK
+782,,2007-01-17 20:56:58,2007-01-16,ALSK,Wilson David,"SVP, CFO",S - Sale,16.0,-2500,29325,-8%,-40000.0,-1.0,-1.0,6.0,-3.0,ALSK
+783,,2007-01-03 20:46:36,2007-01-03,ALSK,Pelletier Liane J,"CEO, Pres",S - Sale,15.43,-30000,4994,-86%,-462900.0,1.0,1.0,8.0,5.0,ALSK
+784,,2007-01-03 20:43:15,2006-12-29,ALSK,Southwell David Albert,Dir,A - Grant,15.19,641,1180,+119%,9737.0,1.0,1.0,8.0,5.0,ALSK
+785,,2007-01-03 20:41:30,2006-12-29,ALSK,Donahee Gary,Dir,A - Grant,15.19,691,6342,+12%,10496.0,1.0,1.0,8.0,5.0,ALSK
+786,,2007-01-03 20:35:34,2006-12-29,ALSK,Hayes Edward J Jr,Dir,A - Grant,15.19,403,1496,+37%,6122.0,1.0,1.0,8.0,5.0,ALSK
+787,,2007-01-03 20:33:03,2006-12-29,ALSK,Egan John M,Dir,A - Grant,15.19,345,37036,+1%,5241.0,1.0,1.0,8.0,5.0,ALSK
+788,,2007-01-03 20:30:47,2006-12-29,ALSK,Jacobs Annette M,Dir,A - Grant,15.19,345,614,+128%,5241.0,1.0,1.0,8.0,5.0,ALSK
+789,D,2007-01-03 20:29:06,2006-12-29,ALSK,Rogers Brian D,Dir,A - Grant,15.19,411,5446,+8%,6243.0,1.0,1.0,8.0,5.0,ALSK
+790,,2006-12-21 18:30:07,2006-12-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,15.34,-4500,7876,-36%,-69030.0,0.0,2.0,4.0,5.0,ALSK
+791,,2006-12-15 15:10:03,2006-12-15,ALSK,Wilson David,"SVP, CFO",S - Sale,15.1,-2500,31244,-7%,-37750.0,1.0,2.0,4.0,6.0,ALSK
+792,,2006-12-04 21:30:08,2006-12-04,ALSK,Pelletier Liane J,"CEO, Pres",S - Sale,14.93,-60000,34994,-63%,-895800.0,0.0,-1.0,4.0,9.0,ALSK
+793,,2006-11-28 20:38:45,2006-11-21,ALSK,Steinberg Leonard,"VP, GC, Secretary",S - Sale,15.11,-5000,21938,-19%,-75574.0,3.0,3.0,8.0,11.0,ALSK
+794,,2006-11-21 20:11:19,2006-11-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,15.12,-4500,12376,-27%,-68042.0,-1.0,-3.0,2.0,8.0,ALSK
+795,,2006-11-16 21:14:55,2006-11-15,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale,15.63,-13652,1000,-93%,-213422.0,0.0,-4.0,-2.0,6.0,ALSK
+796,D,2006-11-15 20:16:26,2006-11-14,ALSK,Steinberg Leonard,"VP, GC, Secretary",M - OptEx,10.27,12334,26938,+84%,126657.0,0.0,-3.0,-3.0,4.0,ALSK
+797,D,2006-11-15 20:16:26,2006-11-14,ALSK,Steinberg Leonard,"VP, GC, Secretary",S - Sale+OE,15.4,-12334,26938,-31%,-189944.0,0.0,-3.0,-3.0,4.0,ALSK
+798,,2006-11-15 20:15:37,2006-11-15,ALSK,Wilson David,"SVP, CFO",S - Sale,15.7,-2500,33744,-7%,-39250.0,0.0,-3.0,-3.0,4.0,ALSK
+799,D,2006-11-02 19:52:58,2006-10-31,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",A - Grant,4.88,40000,14652,-158%,195200.0,3.0,7.0,6.0,18.0,ALSK
+800,DM,2006-11-02 19:52:58,2006-10-31,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale+OE,14.33,-42100,14652,-74%,-603492.0,3.0,7.0,6.0,18.0,ALSK
+801,,2006-11-02 13:17:47,2006-11-01,ALSK,Pelletier Liane J,"CEO, Pres",S - Sale,14.28,-45000,94994,-32%,-642600.0,-2.0,5.0,4.0,16.0,ALSK
+802,,2006-10-23 20:59:49,2006-10-23,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,14.3,-4500,16876,-21%,-64350.0,-1.0,-6.0,4.0,8.0,ALSK
+803,,2006-10-16 18:59:05,2006-10-16,ALSK,Wilson David,"SVP, CFO",S - Sale,14.71,-2500,36244,-6%,-36775.0,-2.0,-2.0,4.0,6.0,ALSK
+804,,2006-10-04 21:36:13,2006-10-04,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale,13.45,-2100,16752,-11%,-28245.0,3.0,6.0,4.0,11.0,ALSK
+805,,2006-10-03 21:10:21,2006-09-29,ALSK,Donahee Gary,Dir,A - Grant,13.27,678,5651,+14%,8997.0,3.0,9.0,8.0,15.0,ALSK
+806,,2006-10-03 21:09:41,2006-09-29,ALSK,Egan John M,Dir,A - Grant,13.27,367,36691,+1%,4870.0,3.0,9.0,8.0,15.0,ALSK
+807,,2006-10-03 21:08:37,2006-09-29,ALSK,Southwell David Albert,Dir,A - Grant,13.27,539,539,New,7153.0,3.0,9.0,8.0,15.0,ALSK
+808,,2006-10-03 21:07:56,2006-09-29,ALSK,Jacobs Annette M,Dir,A - Grant,13.27,269,269,New,3570.0,3.0,9.0,8.0,15.0,ALSK
+809,,2006-10-03 21:07:11,2006-09-29,ALSK,Hayes Edward J Jr,Dir,A - Grant,13.27,470,1093,+75%,6237.0,3.0,9.0,8.0,15.0,ALSK
+810,D,2006-10-03 20:53:39,2006-09-29,ALSK,Rogers Brian D,Dir,A - Grant,13.27,574,5035,+13%,7617.0,3.0,9.0,8.0,15.0,ALSK
+811,,2006-10-03 20:51:58,2006-10-02,ALSK,Pelletier Liane J,"CEO, Pres",S - Sale,13.25,-45000,139994,-24%,-596250.0,3.0,9.0,8.0,15.0,ALSK
+812,,2006-09-21 20:15:41,2006-09-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,13.7,-4500,21376,-17%,-61655.0,0.0,-2.0,6.0,14.0,ALSK
+813,,2006-09-15 15:48:50,2006-09-15,ALSK,Wilson David,"SVP, CFO",S - Sale,13.89,-2500,38744,-6%,-34725.0,-1.0,-1.0,10.0,9.0,ALSK
+814,,2006-09-06 16:29:45,2006-09-05,ALSK,Pelletier Liane J,"CEO, Pres",S - Sale,13.77,-45000,184994,-20%,-619650.0,0.0,1.0,2.0,6.0,ALSK
+815,,2006-09-05 21:32:27,2006-09-01,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale,13.71,-2100,18852,-10%,-28791.0,-1.0,-3.0,-3.0,1.0,ALSK
+816,,2006-08-21 20:52:43,2006-08-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,13.13,-4500,25876,-15%,-59085.0,1.0,1.0,2.0,30.0,ALSK
+817,,2006-08-15 18:01:19,2006-08-15,ALSK,Wilson David,"SVP, CFO",S - Sale,12.6,-2500,41244,-6%,-31500.0,2.0,5.0,10.0,36.0,ALSK
+818,,2006-08-03 19:52:24,2006-08-01,ALSK,Pierce Elizabeth Ann,"VP HR, Facilities Services",S - Sale,12.03,-3000,14375,-17%,-36090.0,-1.0,0.0,13.0,40.0,ALSK
+819,,2006-08-02 20:51:57,2006-08-02,ALSK,Mallott Bryon I,Dir,A - Grant,11.82,83,18137,0%,981.0,1.0,0.0,16.0,40.0,ALSK
+820,D,2006-08-02 20:47:59,2006-08-02,ALSK,Paine W Dexter III,Dir,M - OptEx,0.0,35604,35604,New,0.0,1.0,0.0,16.0,40.0,ALSK
+821,D,2006-08-02 20:45:12,2006-08-02,ALSK,Gibson John W Jr,Dir,M - OptEx,0.0,3563,6063,+143%,0.0,1.0,0.0,16.0,40.0,ALSK
+822,,2006-08-02 20:31:38,2006-08-01,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale,12.21,-2100,20952,-9%,-25641.0,1.0,0.0,16.0,40.0,ALSK
+823,,2006-08-02 20:31:01,2006-08-01,ALSK,Pelletier Liane J,"CEO, Pres",S - Sale,12.03,-45000,229994,-16%,-541391.0,1.0,0.0,16.0,40.0,ALSK
+824,,2006-07-25 14:35:24,2006-07-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,11.7,-4500,30376,-13%,-52650.0,2.0,5.0,13.0,37.0,ALSK
+825,,2006-07-18 20:33:14,2006-07-17,ALSK,Wilson David,"SVP, CFO",S - Sale,11.64,-2500,43744,-5%,-29100.0,1.0,0.0,7.0,36.0,ALSK
+826,,2006-07-05 21:38:38,2006-07-03,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale,12.79,-2100,23052,-8%,-26851.0,-1.0,0.0,-2.0,26.0,ALSK
+827,,2006-07-05 21:37:32,2006-07-05,ALSK,Pelletier Liane J,"CEO, Pres",S - Sale,12.33,-45000,274251,-14%,-554634.0,-1.0,0.0,-2.0,26.0,ALSK
+828,D,2006-07-05 21:36:23,2006-06-30,ALSK,Rogers Brian D,Dir,A - Grant,12.65,424,4461,+11%,5364.0,-1.0,0.0,-2.0,26.0,ALSK
+829,,2006-07-05 21:26:19,2006-06-30,ALSK,Egan John M,Dir,A - Grant,12.65,444,36324,+1%,5617.0,-1.0,0.0,-2.0,26.0,ALSK
+830,,2006-07-05 21:22:29,2006-06-30,ALSK,Hayes Edward J Jr,Dir,A - Grant,12.61,425,623,+215%,5361.0,-1.0,0.0,-2.0,26.0,ALSK
+831,,2006-07-05 21:20:58,2006-06-30,ALSK,Donahee Gary,Dir,A - Grant,12.65,770,4973,+18%,9741.0,-1.0,0.0,-2.0,26.0,ALSK
+832,,2006-07-05 21:18:38,2006-06-30,ALSK,Mallott Bryon I,Dir,A - Grant,12.65,454,18054,+3%,5743.0,-1.0,0.0,-2.0,26.0,ALSK
+833,,2006-06-23 20:50:59,2006-06-21,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale,11.59,-4500,34876,-11%,-52173.0,-1.0,5.0,1.0,33.0,ALSK
+834,,2006-06-20 15:11:08,2006-06-16,ALSK,Eisenberg David C,"SVP, Corp Stragy, Dev",S - Sale,11.96,-7060,25152,-22%,-84435.0,1.0,1.0,4.0,34.0,ALSK
+835,,2006-06-16 16:51:57,2006-06-15,ALSK,Wilson David,"SVP, CFO",S - Sale,11.61,-2500,42468,-6%,-29025.0,-2.0,2.0,0.0,30.0,ALSK
+836,D,2006-06-15 19:45:05,2006-06-14,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",A - Grant,4.35,40000,39376,-6410%,174000.0,1.0,-1.0,1.0,33.0,ALSK
+837,D,2006-06-15 19:45:05,2006-06-14,ALSK,Fisher Sheldon,"SVP, Sales, Prod Mtkg",S - Sale+OE,11.13,-22045,39376,-36%,-245361.0,1.0,-1.0,1.0,33.0,ALSK
+838,AD,2006-06-14 21:52:37,2006-03-15,ALSK,Steinberg Leonard,"VP, GC, Secretary",A - Grant,7.31,23750,26823,+773%,173706.0,3.0,0.0,5.0,33.0,ALSK
+839,AD,2006-06-14 21:52:37,2006-03-15,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,11.67,-17229,26823,-39%,-201062.0,3.0,0.0,5.0,33.0,ALSK
+840,AD,2006-06-14 21:48:55,2006-03-14,ALSK,Wilson David,"SVP, CFO",A - Grant,4.44,50000,44968,-994%,222000.0,3.0,0.0,5.0,33.0,ALSK
+841,AD,2006-06-14 21:48:55,2006-03-14,ALSK,Wilson David,"SVP, CFO",F - Tax,11.45,-27485,44968,-38%,-314703.0,3.0,0.0,5.0,33.0,ALSK
+842,,2006-06-02 15:40:30,2006-06-01,ALSK,Pelletier Liane J,"CEO, Pres",S - Sale,12.3,-45000,319251,-12%,-553635.0,-5.0,-4.0,3.0,24.0,ALSK
+843,D,2006-05-05 21:16:21,2006-05-03,ALSK,Sprain Kenneth L,"SVP, Networks, IT",A - Grant,4.35,40000,43402,>999%,174000.0,1.0,-2.0,-8.0,15.0,ALSK
+844,D,2006-05-05 21:16:21,2006-05-03,ALSK,Sprain Kenneth L,"SVP, Networks, IT",F - Tax,12.82,-20562,43402,-32%,-263605.0,1.0,-2.0,-8.0,15.0,ALSK
+845,,2006-04-05 15:57:23,2006-03-31,ALSK,Rogers Brian D,Dir,A - Grant,12.13,463,4037,+13%,5616.0,0.0,0.0,8.0,15.0,ALSK
+846,,2006-04-05 06:03:38,2006-03-31,ALSK,Mallott Bryon I,Dir,A - Grant,12.13,432,17600,+3%,5240.0,0.0,0.0,8.0,15.0,ALSK
+847,,2006-04-05 06:02:45,2006-03-31,ALSK,Donahee Gary,Dir,A - Grant,12.13,865,4203,+26%,10492.0,0.0,0.0,8.0,15.0,ALSK
+848,,2006-04-05 06:02:34,2006-03-31,ALSK,Hayes Edward J Jr,Dir,A - Grant,12.13,198,198,New,2402.0,0.0,0.0,8.0,15.0,ALSK
+849,,2006-04-04 21:53:53,2006-03-31,ALSK,Egan John M,Dir,A - Grant,12.13,401,35880,+1%,4864.0,0.0,0.0,7.0,14.0,ALSK
+850,D,2006-03-17 17:28:17,2006-03-15,ALSK,Steinberg Leonard,"VP, GC, Secretary",A - Grant,7.31,23750,26377,+904%,173706.0,0.0,1.0,3.0,23.0,ALSK
+851,D,2006-03-17 17:28:17,2006-03-15,ALSK,Steinberg Leonard,"VP, GC, Secretary",F - Tax,11.67,-18125,26377,-41%,-211519.0,0.0,1.0,3.0,23.0,ALSK
+852,,2006-03-17 14:33:57,2006-03-10,ALSK,Paine W Dexter III,Dir,G - Gift,0.0,-50000,0,-100%,-0.0,0.0,2.0,4.0,24.0,ALSK
+853,,2006-03-17 14:33:57,2006-03-15,ALSK,Paine W Dexter III,Dir,S - Sale,10.75,-50000,0,-100%,-537500.0,0.0,2.0,4.0,24.0,ALSK
+854,,2006-03-17 14:31:50,2006-03-15,ALSK,Fox Paine Capital LLC,10%,S - Sale,10.75,-9498879,0,-100%,-102112949.0,0.0,2.0,4.0,24.0,ALSK
+855,D,2006-03-16 14:16:59,2006-03-14,ALSK,Wilson David,"SVP, CFO",A - Grant,4.44,50000,44968,-994%,222000.0,1.0,1.0,4.0,23.0,ALSK
+856,D,2006-03-16 14:16:59,2006-03-14,ALSK,Wilson David,"SVP, CFO",F - Tax,11.45,-30546,44968,-40%,-349752.0,1.0,1.0,4.0,23.0,ALSK
+857,D,2006-03-02 15:09:08,2006-02-28,ALSK,Pierce Elizabeth Ann,"VP HR, Facilities Services",M - OptEx,4.39,19125,17152,-969%,83969.0,3.0,-1.0,7.0,27.0,ALSK
+858,D,2006-03-02 15:09:08,2006-02-28,ALSK,Pierce Elizabeth Ann,"VP HR, Facilities Services",S - Sale+OE,11.15,-12625,17152,-42%,-140769.0,3.0,-1.0,7.0,27.0,ALSK
+859,,2006-02-27 15:42:16,2006-02-23,ALSK,Pierce Elizabeth Ann,"VP, HR, Facilities",A - Grant,0.0,8333,10652,+359%,0.0,-4.0,1.0,4.0,17.0,ALSK
+860,,2006-02-27 15:42:16,2006-02-23,ALSK,Pierce Elizabeth Ann,"VP, HR, Facilities",F - Tax,11.47,-2584,10652,-20%,-29638.0,-4.0,1.0,4.0,17.0,ALSK
+861,,2006-02-27 15:35:42,2006-02-23,ALSK,Wilson David,"SVP, CFO",A - Grant,0.0,8333,53525,+18%,0.0,-4.0,1.0,4.0,17.0,ALSK
+862,,2006-02-27 15:35:42,2006-02-23,ALSK,Wilson David,"SVP, CFO",F - Tax,11.47,-2497,53525,-4%,-28641.0,-4.0,1.0,4.0,17.0,ALSK
+863,,2006-02-27 14:58:52,2006-02-23,ALSK,Steinberg Leonard,"VP, GC, Corp Sec",A - Grant,0.0,10333,20302,+104%,0.0,-4.0,1.0,4.0,17.0,ALSK
+864,,2006-02-27 14:58:52,2006-02-23,ALSK,Steinberg Leonard,"VP, GC, Corp Sec",F - Tax,11.47,-3072,20302,-13%,-35236.0,-4.0,1.0,4.0,17.0,ALSK
+865,,2006-02-27 14:50:32,2006-02-23,ALSK,Sprain Kenneth L,"SVP, Network, IT Ops",A - Grant,0.0,8333,23964,+53%,0.0,-4.0,1.0,4.0,17.0,ALSK
+866,,2006-02-27 14:50:32,2006-02-23,ALSK,Sprain Kenneth L,"SVP, Network, IT Ops",F - Tax,11.47,-2538,23964,-10%,-29111.0,-4.0,1.0,4.0,17.0,ALSK
+867,,2006-02-27 14:29:30,2006-02-23,ALSK,Fisher Sheldon,"SVP, Sales, Product Marketing",A - Grant,0.0,8333,21421,+64%,0.0,-4.0,1.0,4.0,17.0,ALSK
+868,,2006-02-27 14:29:30,2006-02-23,ALSK,Fisher Sheldon,"SVP, Sales, Product Marketing",F - Tax,11.47,-2455,21421,-10%,-28159.0,-4.0,1.0,4.0,17.0,ALSK
+869,,2006-02-27 13:51:00,2006-02-23,ALSK,Pelletier Liane J,"Chairperson, CEO, Pres",A - Grant,0.0,23333,364251,+7%,0.0,-4.0,1.0,4.0,17.0,ALSK
+870,,2006-02-27 13:51:00,2006-02-23,ALSK,Pelletier Liane J,"Chairperson, CEO, Pres",F - Tax,11.47,-6256,364251,-2%,-71756.0,-4.0,1.0,4.0,17.0,ALSK
+871,,2006-02-27 13:42:32,2006-02-23,ALSK,Eisenberg David C,"SVP, Corp Strategy, Dev",A - Grant,0.0,10000,32212,+45%,0.0,-4.0,1.0,4.0,17.0,ALSK
+872,,2006-02-27 13:42:32,2006-02-23,ALSK,Eisenberg David C,"SVP, Corp Strategy, Dev",F - Tax,11.47,-2940,32212,-8%,-33722.0,-4.0,1.0,4.0,17.0,ALSK
+873,D,2005-12-12 20:25:44,2005-12-08,ALSK,Eisenberg David C,"SVP Corporate Stategy, Dev",M - OptEx,4.88,40000,77304,+107%,195200.0,0.0,1.0,-1.0,13.0,ALSK
+874,D,2005-12-12 20:25:44,2005-12-08,ALSK,Eisenberg David C,"SVP Corporate Stategy, Dev",S - Sale+OE,10.19,-27000,77304,-26%,-275214.0,0.0,1.0,-1.0,13.0,ALSK
+875,,2005-12-09 13:12:27,2005-12-07,ALSK,Fox Paine Capital LLC,10%,S - Sale,9.75,-10000000,9498879,-51%,-97520000.0,2.0,5.0,3.0,19.0,ALSK
+876,,2005-11-29 19:46:10,2005-08-04,ALSK,Gibson John W Jr,Dir,P - Purchase,10.36,2500,2500,New,25900.0,-4.0,-2.0,1.0,24.0,ALSK
+877,AD,2005-11-18 19:09:25,2005-11-14,ALSK,Pelletier Liane J,"Chairperson, Pres, CEO",F - Tax,10.43,-127737,820553,-13%,-1332297.0,-2.0,0.0,1.0,20.0,ALSK
+878,AD,2005-11-18 19:09:25,2005-11-14,ALSK,Pelletier Liane J,"Chairperson, Pres, CEO",M - OptEx,4.5,200000,820553,+32%,900000.0,-2.0,0.0,1.0,20.0,ALSK
+879,D,2005-11-16 21:35:44,2005-11-15,ALSK,Pelletier Liane J,"COB, Pres, CEO",F - Tax,10.39,-127948,1094487,-10%,-1329380.0,2.0,4.0,6.0,27.0,ALSK
+880,D,2005-11-16 21:35:44,2005-11-15,ALSK,Pelletier Liane J,"COB, Pres, CEO",M - OptEx,4.5,200000,1094487,+22%,900000.0,2.0,4.0,6.0,27.0,ALSK
+881,DM,2005-09-08 16:00:41,2005-05-25,ALSK,Pierce Elizabeth Ann,"VP HR, Facilities Services",M - OptEx,4.59,22875,5500,-132%,104931.0,1.0,2.0,8.0,9.0,ALSK
+882,D,2005-09-08 16:00:41,2005-05-25,ALSK,Pierce Elizabeth Ann,"VP HR, Facilities Services",S - Sale+OE,9.05,-18875,5500,-77%,-170834.0,1.0,2.0,8.0,9.0,ALSK
+883,D,2005-08-02 16:00:54,2005-07-29,ALSK,Pichette Patrick,Dir,G - Gift,9.87,-3296,0,-100%,-32532.0,3.0,1.0,7.0,2.0,ALSK
+884,D,2005-07-07 21:55:14,2005-05-25,ALSK,Pierce Elizabeth Ann,"VP HR, Facilities Services",M - OptEx,5.59,1250,3500,+56%,6988.0,1.0,0.0,3.0,8.0,ALSK
+885,D,2005-07-07 21:55:14,2005-05-25,ALSK,Pierce Elizabeth Ann,"VP HR, Facilities Services",S - Sale+OE,9.05,-1250,3500,-26%,-11314.0,1.0,0.0,3.0,8.0,ALSK
+886,DM,2005-07-06 21:24:51,2005-05-06,ALSK,Pease Mary Ann W,"VP, Corp. Communications",M - OptEx,5.54,42833,11799,-138%,237345.0,0.0,1.0,4.0,7.0,ALSK
+887,DM,2005-07-06 21:24:51,2005-05-06,ALSK,Pease Mary Ann W,"VP, Corp. Communications",S - Sale+OE,8.79,-47550,11799,-80%,-417808.0,0.0,1.0,4.0,7.0,ALSK
+888,D,2005-07-05 21:21:40,2005-06-30,ALSK,Steinberg Leonard,"VP GC, Corp.Sec.",M - OptEx,7.24,57251,72409,+378%,414776.0,0.0,1.0,1.0,5.0,ALSK
+889,D,2005-07-05 21:21:40,2005-06-30,ALSK,Steinberg Leonard,"VP GC, Corp.Sec.",S - Sale+OE,9.9,-46875,72409,-39%,-464063.0,0.0,1.0,1.0,5.0,ALSK
+890,D,2005-06-22 21:22:57,2005-06-20,ALSK,Fisher Sheldon,"Sr.VP Sales, Product Marketing",M - OptEx,4.35,40000,55543,+257%,174000.0,-1.0,2.0,0.0,9.0,ALSK
+891,D,2005-06-22 21:22:57,2005-06-20,ALSK,Fisher Sheldon,"Sr.VP Sales, Product Marketing",S - Sale+OE,9.95,-24457,55543,-31%,-243347.0,-1.0,2.0,0.0,9.0,ALSK
+892,D,2005-06-21 19:36:09,2005-06-17,ALSK,Pelletier Liane J,"Pres, CEO",M - OptEx,4.5,200000,676218,+42%,900000.0,-1.0,0.0,-3.0,10.0,ALSK
+893,DM,2005-06-21 19:36:09,2005-06-17,ALSK,Pelletier Liane J,"Pres, CEO",S - Sale+OE,9.83,-129700,676218,-16%,-1275588.0,-1.0,0.0,-3.0,10.0,ALSK
+894,DM,2005-06-10 20:49:39,2005-06-07,ALSK,Wilson David,"Sr.VP, CFO",M - OptEx,4.44,50000,87370,+134%,222000.0,-3.0,-1.0,5.0,8.0,ALSK
+895,DM,2005-06-10 20:49:39,2005-06-07,ALSK,Wilson David,"Sr.VP, CFO",S - Sale+OE,9.7,-31058,87370,-26%,-301181.0,-3.0,-1.0,5.0,8.0,ALSK
+896,AD,2005-06-03 21:55:18,2005-05-26,ALSK,Sprain Kenneth L,"Sr.VP,Networks, IT",F - Tax,9.01,-25517,14483,-64%,-229908.0,3.0,2.0,6.0,8.0,ALSK
+897,D,2005-06-03 21:09:44,2005-06-02,ALSK,Meade Thomas R,"VP, CarrierMrkts, EconAnalysis",M - OptEx,5.36,23833,45058,+112%,127632.0,3.0,2.0,6.0,8.0,ALSK
+898,DM,2005-06-03 21:09:44,2005-06-01,ALSK,Meade Thomas R,"VP, CarrierMrkts, EconAnalysis",S - Sale+OE,9.55,-38203,45058,-46%,-364835.0,3.0,2.0,6.0,8.0,ALSK
+899,D,2005-06-02 21:12:55,2005-05-31,ALSK,Eisenberg David C,"SVP, Corp.Strategy, Dev.",F - Tax,9.43,-27848,52152,-35%,-262607.0,1.0,2.0,6.0,13.0,ALSK
+900,D,2005-06-02 21:12:55,2005-05-31,ALSK,Eisenberg David C,"SVP, Corp.Strategy, Dev.",M - OptEx,4.88,40000,52152,+329%,195200.0,1.0,2.0,6.0,13.0,ALSK
+901,,2005-05-27 21:44:28,2005-05-26,ALSK,Sprain Kenneth L,"SVP, Networks, IT",M - OptEx,4.35,40000,42350,>999%,174000.0,2.0,3.0,10.0,17.0,ALSK
+902,,2005-03-23 17:43:49,2005-03-21,ALSK,Egan John M,Dir,P - Purchase,9.07,30000,33220,+932%,272100.0,3.0,14.0,10.0,26.0,ALSK
+903,,2003-09-03 19:47:20,2003-09-02,ALSK,Erwin Sheila Lynn,Assistant Secretary,S - Sale,4.35,-2976,904,-77%,-12946.0,-1.0,0.0,4.0,12.0,ALSK
+904,,2003-09-02 17:56:11,2003-09-02,ALSK,Pease Mary Ann W,"VP, Corporate Communications",S - Sale,4.35,-4995,3707,-57%,-21729.0,-3.0,-3.0,4.0,4.0,ALSK

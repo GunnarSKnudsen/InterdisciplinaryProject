@@ -1,52 +1,568 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2022-03-03 15:57:13,2022-03-03,HSKA,Baker Eleanor F.,"EVP, Managing Dir., COO, scil",S - Sale,$146.34,-663,3395,-16%,"-$97,025",,,,,HSKA
-1,,2021-11-23 16:29:23,2021-11-23,HSKA,Wilson Kevin S.,"CEO, Pres",P - Purchase,$173.00,1000,398333,0%,"+$173,000",,,,,HSKA
-2,,2021-11-15 17:42:18,2021-11-15,HSKA,Wilson Kevin S.,"CEO, Pres",P - Purchase,$179.00,1000,397333,0%,"+$179,000",,,,,HSKA
-3,,2021-08-19 15:42:53,2021-08-18,HSKA,Wisnewski Nancy,COO,S - Sale,$270.33,-1000,54505,-2%,"-$270,331",,,,,HSKA
-4,D,2021-08-19 15:37:56,2021-08-17,HSKA,Larson Sharon J.,Dir,S - Sale+OE,$266.83,-2000,7501,-21%,"-$533,651",,,,,HSKA
-5,D,2021-08-09 16:20:58,2021-08-06,HSKA,Grassman Catherine,"EVP, CFO",S - Sale+OE,$260.24,-5000,3986,-56%,"-$1,301,210",,,,,HSKA
-6,,2021-06-07 17:10:45,2021-06-04,HSKA,Wisnewski Nancy,COO,S - Sale,$197.87,-5000,55505,-8%,"-$989,326",,,,,HSKA
-7,D,2021-05-25 12:35:06,2021-05-24,HSKA,Larson Sharon J.,Dir,S - Sale+OE,$205.00,-3000,7501,-29%,"-$615,000",,,,,HSKA
-8,,2020-12-10 12:57:45,2020-12-09,HSKA,Wisnewski Nancy,COO,S - Sale,$140.38,-500,45874,-1%,"-$70,191",,,,,HSKA
-9,M,2020-12-09 14:41:49,2020-12-07,HSKA,Wisnewski Nancy,COO,S - Sale,$132.50,-500,46374,-1%,"-$66,248",,,,,HSKA
-10,D,2020-11-30 15:56:22,2020-11-27,HSKA,Aroesty Jason D,"EVP, International Diagnostics",S - Sale+OE,$126.86,-13334,0,-100%,"-$1,691,517",,,,,HSKA
-11,M,2020-11-18 15:51:56,2020-11-16,HSKA,Wisnewski Nancy,COO,S - Sale,$127.50,-1500,46874,-3%,"-$191,250",,,,,HSKA
-12,D,2020-11-12 10:19:09,2020-11-09,HSKA,Trowbridge Bonnie J.,Dir,S - Sale+OE,$125.48,-4917,4089,-55%,"-$616,959",,,,,HSKA
-13,,2020-10-21 17:48:07,2020-10-21,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$110.28,-13421,381461,-3%,"-$1,480,037",,,,,HSKA
-14,,2020-10-09 15:35:36,2020-10-08,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$109.00,-3129,394882,-1%,"-$341,061",,,,,HSKA
-15,,2020-09-02 16:17:36,2020-08-31,HSKA,Wisnewski Nancy,COO,S - Sale,$103.87,-1050,48374,-2%,"-$109,065",,,,,HSKA
-16,,2020-08-07 16:49:15,2020-08-05,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$107.13,-9176,398011,-2%,"-$983,032",,,,,HSKA
-17,M,2020-06-05 15:37:18,2020-06-03,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$90.01,-19707,407187,-5%,"-$1,773,923",,,,,HSKA
-18,M,2020-05-28 16:33:25,2020-05-26,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$86.30,-15559,426894,-4%,"-$1,342,687",,,,,HSKA
-19,,2020-05-21 14:56:39,2020-05-19,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$85.00,-1734,442453,0%,"-$147,390",,,,,HSKA
-20,,2019-06-04 13:53:08,2019-05-30,HSKA,Humphrey Scott,Dir,P - Purchase,$73.79,1000,3062,+48%,"+$73,790",,,,,HSKA
-21,,2019-02-15 16:05:24,2019-02-14,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$97.73,-7500,54792,-12%,"-$732,942",,,,,HSKA
-22,,2019-02-06 14:20:25,2019-02-04,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$100.00,-7500,41478,-15%,"-$750,000",,,,,HSKA
-23,,2019-01-29 16:35:32,2019-01-25,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$95.58,-7500,23783,-24%,"-$716,869",,,,,HSKA
-24,M,2019-01-18 16:34:50,2019-01-16,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$90.70,-7500,24538,-23%,"-$680,256",,,,,HSKA
-25,,2018-12-04 16:16:11,2018-11-30,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$104.00,-1631,408660,0%,"-$169,626",,,,,HSKA
-26,M,2018-12-04 16:11:50,2018-11-30,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$104.17,-3000,32002,-9%,"-$312,495",,,,,HSKA
-27,,2018-12-03 16:24:30,2018-11-29,HSKA,Gordon G Irwin,Dir,S - Sale,$102.00,-4000,25074,-14%,"-$408,000",,,,,HSKA
-28,,2018-11-30 16:29:06,2018-11-28,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$104.00,-181,410291,0%,"-$18,824",,,,,HSKA
-29,,2018-11-26 16:36:18,2018-11-21,HSKA,Gordon G Irwin,Dir,S - Sale,$98.04,-6700,29074,-19%,"-$656,883",,,,,HSKA
-30,,2018-11-13 17:06:22,2018-11-09,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$104.07,-3190,410472,-1%,"-$331,992",,,,,HSKA
-31,M,2018-10-02 16:40:13,2018-09-28,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$113.50,-2500,24474,-9%,"-$283,750",,,,,HSKA
-32,,2018-09-17 16:48:36,2018-09-13,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$111.50,-2500,26974,-8%,"-$278,750",,,,,HSKA
-33,D,2018-09-05 14:09:48,2018-08-31,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",S - Sale+OE,$104.00,-6371,8573,-43%,"-$662,584",,,,,HSKA
-34,DM,2018-08-28 17:43:21,2018-08-27,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",S - Sale+OE,$101.03,-8000,8400,-49%,"-$808,247",,,,,HSKA
-35,DM,2018-08-27 16:22:32,2018-08-23,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",S - Sale+OE,$104.01,-2805,8573,-25%,"-$291,743",,,,,HSKA
-36,DM,2018-08-13 17:02:48,2018-08-09,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",S - Sale+OE,$98.49,-33351,10048,-77%,"-$3,284,724",,,,,HSKA
-37,,2018-07-11 16:11:59,2018-07-09,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$110.00,-1200,29474,-4%,"-$132,000",,,,,HSKA
-38,,2018-07-11 16:08:16,2018-05-18,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",S - Sale,$103.00,-582,9900,-6%,"-$59,946",,,,,HSKA
-39,,2018-06-11 16:30:35,2018-06-08,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",S - Sale,$106.50,-750,34873,-2%,"-$79,875",,,,,HSKA
-40,,2018-06-11 16:26:33,2018-06-08,HSKA,Gordon G Irwin,Dir,S - Sale,$106.18,-3400,16606,-17%,"-$361,025",,,,,HSKA
-41,,2018-06-11 16:21:04,2018-06-07,HSKA,Gordon G Irwin,Dir,S - Sale,$103.86,-3400,20006,-15%,"-$353,129",,,,,HSKA
-42,,2018-06-08 17:10:12,2018-06-06,HSKA,Gordon G Irwin,Dir,S - Sale,$105.77,-3400,23406,-13%,"-$359,613",,,,,HSKA
-43,,2018-06-07 16:03:12,2018-06-05,HSKA,Gordon G Irwin,Dir,S - Sale,$105.66,-3400,26806,-11%,"-$359,240",,,,,HSKA
-44,,2018-06-06 15:53:47,2018-06-04,HSKA,Gordon G Irwin,Dir,S - Sale,$105.74,-3400,30206,-10%,"-$359,528",,,,,HSKA
-45,,2018-06-01 16:38:53,2018-06-01,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",S - Sale,$108.20,-2250,35623,-6%,"-$243,458",,,,,HSKA
-46,,2018-06-01 16:22:11,2018-06-01,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$108.50,-2500,30674,-8%,"-$271,250",,,,,HSKA
-47,AM,2018-05-31 17:03:46,2018-05-30,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$106.08,-5502,33174,-14%,"-$583,662",,,,,HSKA
-48,M,2018-05-31 16:42:11,2018-05-29,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",S - Sale,$104.14,-2500,37873,-6%,"-$260,338",,,,,HSKA
-49,D,2018-05-31 16:39:58,2018-05-29,HSKA,Trowbridge Bonnie J.,Dir,S - Sale+OE,$101.01,-5000,1249,-80%,"-$505,038",,,,,HSKA
-50,M,2018-05-31 16:36:37,2018-05-30,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$106.19,-6502,32174,-17%,"-$690,462",,,,,HSKA
+0,D,2022-03-09 15:30:09,2022-03-07,HSKA,Wisnewski Nancy,COO,A - Grant,$0.00,1389,71032,+2%,+$0,,,,,HSKA
+1,D,2022-03-09 15:30:09,2022-03-07,HSKA,Wisnewski Nancy,COO,F - Tax,$149.07,-1296,71032,-2%,"-$193,195",,,,,HSKA
+2,D,2022-03-09 15:30:09,2022-03-07,HSKA,Wisnewski Nancy,COO,M - OptEx,$0.00,1562,71032,+2%,+$0,,,,,HSKA
+3,D,2022-03-09 15:24:03,2022-03-07,HSKA,Grassman Catherine,"EVP, CFO",A - Grant,$0.00,584,9538,+7%,+$0,,,,,HSKA
+4,D,2022-03-09 15:24:03,2022-03-07,HSKA,Grassman Catherine,"EVP, CFO",F - Tax,$149.07,-545,9538,-5%,"-$81,243",,,,,HSKA
+5,D,2022-03-09 15:24:03,2022-03-07,HSKA,Grassman Catherine,"EVP, CFO",M - OptEx,$0.00,656,9538,+7%,+$0,,,,,HSKA
+6,D,2022-03-09 15:21:11,2022-03-07,HSKA,Eyl Steven M.,"EVP, CCO, Presscil",A - Grant,$0.00,1389,22702,+7%,+$0,,,,,HSKA
+7,D,2022-03-09 15:21:11,2022-03-07,HSKA,Eyl Steven M.,"EVP, CCO, Presscil",F - Tax,$149.07,-1296,22702,-5%,"-$193,195",,,,,HSKA
+8,D,2022-03-09 15:21:11,2022-03-07,HSKA,Eyl Steven M.,"EVP, CCO, Presscil",M - OptEx,$0.00,1562,22702,+7%,+$0,,,,,HSKA
+9,,2022-03-09 15:11:36,2022-03-07,HSKA,Wilson Kevin S.,"CEO, Pres",A - Grant,$0.00,5000,463120,+1%,+$0,,,,,HSKA
+10,,2022-03-03 15:57:13,2022-03-03,HSKA,Baker Eleanor F.,"EVP, Managing Dir., COO, scil",S - Sale,$146.34,-663,3395,-16%,"-$97,025",,,,,HSKA
+11,,2022-03-02 15:28:44,2022-02-28,HSKA,Wisnewski Nancy,COO,A - Grant,$0.00,6874,69377,+11%,+$0,,,,,HSKA
+12,,2022-03-02 15:28:44,2022-02-28,HSKA,Wisnewski Nancy,COO,F - Tax,$142.00,-2026,69377,-3%,"-$287,692",,,,,HSKA
+13,,2022-03-02 15:26:54,2022-02-28,HSKA,Wilson Kevin S.,"CEO, Pres",A - Grant,$0.00,24750,458120,+6%,+$0,,,,,HSKA
+14,,2022-03-02 15:26:54,2022-02-28,HSKA,Wilson Kevin S.,"CEO, Pres",F - Tax,$142.00,-10112,458120,-2%,"-$1,435,904",,,,,HSKA
+15,,2022-03-02 15:24:51,2022-02-28,HSKA,Sveen Christopher D.,"CAO, GC",A - Grant,$0.00,3300,4004,+469%,+$0,,,,,HSKA
+16,,2022-03-02 15:24:51,2022-02-28,HSKA,Sveen Christopher D.,"CAO, GC",F - Tax,$142.00,-994,4004,-20%,"-$141,148",,,,,HSKA
+17,,2022-03-02 15:21:52,2022-02-28,HSKA,Grassman Catherine,"EVP, CFO",A - Grant,$0.00,6875,8843,+349%,+$0,,,,,HSKA
+18,,2022-03-02 15:21:52,2022-02-28,HSKA,Grassman Catherine,"EVP, CFO",F - Tax,$142.00,-2029,8843,-19%,"-$288,118",,,,,HSKA
+19,,2022-03-02 15:19:43,2022-02-28,HSKA,Eyl Steven M.,"EVP, CCO, Presscil",A - Grant,$0.00,9374,21047,+80%,+$0,,,,,HSKA
+20,,2022-03-02 15:19:43,2022-02-28,HSKA,Eyl Steven M.,"EVP, CCO, Presscil",F - Tax,$142.00,-3099,21047,-13%,"-$440,058",,,,,HSKA
+21,,2022-03-02 15:17:03,2022-02-28,HSKA,Baker Eleanor F.,"EVP, Managing Dir., COO, scil",A - Grant,$0.00,3300,4058,+435%,+$0,,,,,HSKA
+22,,2022-03-02 15:17:03,2022-02-28,HSKA,Baker Eleanor F.,"EVP, Managing Dir., COO, scil",F - Tax,$142.00,-830,4058,-17%,"-$117,860",,,,,HSKA
+23,D,2022-02-18 11:39:19,2022-02-17,HSKA,Sveen David E.,Dir,M - OptEx,$33.06,8571,41974,+26%,"+$283,319",,,,,HSKA
+24,D,2022-02-14 16:43:39,2022-02-11,HSKA,Wilson Kevin S.,"CEO, Pres",M - OptEx,$20.25,45149,443482,+11%,"+$914,176",,,,,HSKA
+25,,2021-11-23 16:29:23,2021-11-23,HSKA,Wilson Kevin S.,"CEO, Pres",P - Purchase,$173.00,1000,398333,0%,"+$173,000",,,,,HSKA
+26,,2021-11-15 17:42:18,2021-11-15,HSKA,Wilson Kevin S.,"CEO, Pres",P - Purchase,$179.00,1000,397333,0%,"+$179,000",,,,,HSKA
+27,D,2021-11-04 15:35:38,2021-11-02,HSKA,Wisnewski Nancy,COO,M - OptEx,$6.90,10000,64518,+18%,"+$69,000",,,,,HSKA
+28,,2021-09-28 11:46:08,2021-09-24,HSKA,Sveen Christopher D.,"CAO, GC",A - Grant,$0.00,750,1698,+79%,+$0,,,,,HSKA
+29,,2021-09-28 11:43:21,2021-09-24,HSKA,Baker Eleanor F.,"EVP, Managing Dir., COO, scil",A - Grant,$0.00,750,1559,+93%,+$0,,,,,HSKA
+30,,2021-09-28 11:43:21,2021-09-24,HSKA,Baker Eleanor F.,"EVP, Managing Dir., COO, scil",F - Tax,$257.80,-183,1559,-11%,"-$47,177",,,,,HSKA
+31,,2021-08-19 15:42:53,2021-08-18,HSKA,Wisnewski Nancy,COO,S - Sale,$270.33,-1000,54505,-2%,"-$270,331",,,,,HSKA
+32,D,2021-08-19 15:37:56,2021-08-17,HSKA,Larson Sharon J.,Dir,M - OptEx,$28.41,2000,7501,+36%,"+$56,820",,,,,HSKA
+33,D,2021-08-19 15:37:56,2021-08-17,HSKA,Larson Sharon J.,Dir,S - Sale+OE,$266.83,-2000,7501,-21%,"-$533,651",,,,,HSKA
+34,D,2021-08-09 16:20:58,2021-08-06,HSKA,Grassman Catherine,"EVP, CFO",M - OptEx,$69.77,5000,3986,-493%,"+$348,850",,,,,HSKA
+35,D,2021-08-09 16:20:58,2021-08-06,HSKA,Grassman Catherine,"EVP, CFO",S - Sale+OE,$260.24,-5000,3986,-56%,"-$1,301,210",,,,,HSKA
+36,,2021-06-07 17:10:45,2021-06-04,HSKA,Wisnewski Nancy,COO,S - Sale,$197.87,-5000,55505,-8%,"-$989,326",,,,,HSKA
+37,,2021-06-03 13:57:14,2021-06-01,HSKA,Grassman Catherine,"EVP, CFO",F - Tax,$196.29,-263,3973,-6%,"-$51,624",,,,,HSKA
+38,D,2021-05-25 12:35:06,2021-05-24,HSKA,Larson Sharon J.,Dir,M - OptEx,$28.41,3000,7501,+67%,"+$85,230",,,,,HSKA
+39,D,2021-05-25 12:35:06,2021-05-24,HSKA,Larson Sharon J.,Dir,S - Sale+OE,$205.00,-3000,7501,-29%,"-$615,000",,,,,HSKA
+40,,2021-05-06 16:00:47,2021-05-05,HSKA,Sveen David E.,Dir,A - Grant,$0.00,662,33403,+2%,+$0,,,,,HSKA
+41,,2021-05-06 15:57:27,2021-05-05,HSKA,Larson Sharon J.,Dir,A - Grant,$0.00,662,7501,+10%,+$0,,,,,HSKA
+42,,2021-05-06 15:54:04,2021-05-05,HSKA,Humphrey Scott,Dir,A - Grant,$0.00,662,5774,+13%,+$0,,,,,HSKA
+43,,2021-05-06 15:50:40,2021-05-05,HSKA,Hasenmaier Joachim A.,Dir,A - Grant,$0.00,662,897,+282%,+$0,,,,,HSKA
+44,,2021-05-06 15:44:23,2021-05-05,HSKA,Furlong Mark F,Dir,A - Grant,$0.00,662,3619,+22%,+$0,,,,,HSKA
+45,,2021-05-06 15:41:26,2021-05-05,HSKA,Davis Stephen L,Dir,A - Grant,$0.00,662,1946,+52%,+$0,,,,,HSKA
+46,,2021-05-06 15:38:01,2021-05-05,HSKA,Antin Robert L,Dir,A - Grant,$0.00,662,1082,+158%,+$0,,,,,HSKA
+47,D,2021-05-03 17:13:16,2021-04-30,HSKA,Wisnewski Nancy,COO,M - OptEx,$6.76,7500,60505,+14%,"+$50,700",,,,,HSKA
+48,D,2021-03-09 12:33:58,2021-03-07,HSKA,Eyl Steven M.,"EVP, CCO, Presscil",F - Tax,$171.68,-452,14611,-3%,"-$77,599",,,,,HSKA
+49,D,2021-03-09 12:33:58,2021-03-07,HSKA,Eyl Steven M.,"EVP, CCO, Presscil",M - OptEx,$0.00,1563,14611,+12%,+$0,,,,,HSKA
+50,D,2021-03-09 12:31:29,2021-03-07,HSKA,Wisnewski Nancy,COO,F - Tax,$171.68,-452,53005,-1%,"-$77,599",,,,,HSKA
+51,D,2021-03-09 12:31:29,2021-03-07,HSKA,Wisnewski Nancy,COO,M - OptEx,$0.00,1563,53005,+3%,+$0,,,,,HSKA
+52,D,2021-03-09 12:28:55,2021-03-07,HSKA,Grassman Catherine,"EVP, CFO",F - Tax,$171.68,-190,4236,-4%,"-$32,619",,,,,HSKA
+53,D,2021-03-09 12:28:55,2021-03-07,HSKA,Grassman Catherine,"EVP, CFO",M - OptEx,$0.00,657,4236,+18%,+$0,,,,,HSKA
+54,D,2021-01-15 16:02:54,2021-01-14,HSKA,Wilson Kevin S.,"CEO, Pres",F - Tax,$161.67,-1666,396333,0%,"-$269,342",,,,,HSKA
+55,D,2021-01-15 16:02:54,2021-01-14,HSKA,Wilson Kevin S.,"CEO, Pres",M - OptEx,$0.00,5625,396333,+1%,+$0,,,,,HSKA
+56,,2021-01-12 17:07:20,2021-01-11,HSKA,Hasenmaier Joachim A.,Dir,A - Grant,$0.00,235,235,New,+$0,,,,,HSKA
+57,,2021-01-05 14:28:44,2020-12-31,HSKA,Wilson Kevin S.,"CEO, Pres",A - Grant,$0.00,4119,392374,+1%,+$0,,,,,HSKA
+58,,2021-01-05 14:28:44,2020-12-31,HSKA,Wilson Kevin S.,"CEO, Pres",F - Tax,$145.65,-1194,392374,0%,"-$173,906",,,,,HSKA
+59,D,2020-12-30 13:20:35,2020-12-28,HSKA,Wisnewski Nancy,COO,M - OptEx,$4.96,6000,51874,+13%,"+$29,760",,,,,HSKA
+60,,2020-12-10 12:57:45,2020-12-09,HSKA,Wisnewski Nancy,COO,S - Sale,$140.38,-500,45874,-1%,"-$70,191",,,,,HSKA
+61,M,2020-12-09 14:41:49,2020-12-07,HSKA,Wisnewski Nancy,COO,S - Sale,$132.50,-500,46374,-1%,"-$66,248",,,,,HSKA
+62,D,2020-12-03 15:55:57,2020-12-01,HSKA,Wilson Kevin S.,"CEO, Pres",F - Tax,$123.96,-1631,389449,0%,"-$202,179",,,,,HSKA
+63,D,2020-12-03 15:55:57,2020-12-01,HSKA,Wilson Kevin S.,"CEO, Pres",M - OptEx,$0.00,5625,389449,+1%,+$0,,,,,HSKA
+64,A,2020-12-03 13:48:30,2020-11-03,HSKA,Wilson Kevin S.,"CEO, Pres",F - Tax,$116.41,-1631,76949,-2%,"-$189,865",,,,,HSKA
+65,D,2020-11-30 15:56:22,2020-11-27,HSKA,Aroesty Jason D,"EVP, International Diagnostics",M - OptEx,$106.67,13334,0,-100%,"+$1,422,338",,,,,HSKA
+66,D,2020-11-30 15:56:22,2020-11-27,HSKA,Aroesty Jason D,"EVP, International Diagnostics",S - Sale+OE,$126.86,-13334,0,-100%,"-$1,691,517",,,,,HSKA
+67,D,2020-11-20 15:25:39,2020-11-03,HSKA,Wilson Kevin S.,"CEO, Pres",F - Tax,$116.41,-2041,385045,-1%,"-$237,593",,,,,HSKA
+68,D,2020-11-20 15:25:39,2020-11-03,HSKA,Wilson Kevin S.,"CEO, Pres",M - OptEx,$0.00,5625,385045,+1%,+$0,,,,,HSKA
+69,M,2020-11-18 15:51:56,2020-11-16,HSKA,Wisnewski Nancy,COO,S - Sale,$127.50,-1500,46874,-3%,"-$191,250",,,,,HSKA
+70,,2020-11-18 14:06:22,2020-11-17,HSKA,Antin Robert L,Dir,A - Grant,$0.00,420,420,New,+$0,,,,,HSKA
+71,D,2020-11-12 10:19:09,2020-11-09,HSKA,Trowbridge Bonnie J.,Dir,M - OptEx,$33.76,4917,4089,-594%,"+$165,981",,,,,HSKA
+72,D,2020-11-12 10:19:09,2020-11-09,HSKA,Trowbridge Bonnie J.,Dir,S - Sale+OE,$125.48,-4917,4089,-55%,"-$616,959",,,,,HSKA
+73,,2020-10-21 17:48:07,2020-10-21,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$110.28,-13421,381461,-3%,"-$1,480,037",,,,,HSKA
+74,,2020-10-09 15:35:36,2020-10-08,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$109.00,-3129,394882,-1%,"-$341,061",,,,,HSKA
+75,,2020-09-28 15:11:12,2020-09-24,HSKA,Sveen Christopher D.,"CAO, GC",A - Grant,$0.00,934,948,>999%,+$0,,,,,HSKA
+76,,2020-09-28 15:10:46,2020-09-24,HSKA,Baker Eleanor F.,"EVP, Managing Dir., COO, scil",A - Grant,$0.00,934,883,-1831%,+$0,,,,,HSKA
+77,,2020-09-28 15:10:46,2020-09-24,HSKA,Baker Eleanor F.,"EVP, Managing Dir., COO, scil",F - Tax,$97.17,-271,883,-23%,"-$26,333",,,,,HSKA
+78,,2020-09-02 16:17:36,2020-08-31,HSKA,Wisnewski Nancy,COO,S - Sale,$103.87,-1050,48374,-2%,"-$109,065",,,,,HSKA
+79,,2020-08-24 14:29:54,2020-08-20,HSKA,Davis Stephen L,Dir,A - Grant,$0.00,784,1284,+157%,+$0,,,,,HSKA
+80,,2020-08-07 16:49:15,2020-08-05,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$107.13,-9176,398011,-2%,"-$983,032",,,,,HSKA
+81,M,2020-06-05 15:37:18,2020-06-03,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$90.01,-19707,407187,-5%,"-$1,773,923",,,,,HSKA
+82,,2020-06-03 15:18:40,2020-06-01,HSKA,Grassman Catherine,"EVP, CFO",A - Grant,$0.00,1128,3723,+43%,+$0,,,,,HSKA
+83,,2020-06-03 15:18:40,2020-06-01,HSKA,Grassman Catherine,"EVP, CFO",F - Tax,$85.06,-327,3723,-8%,"-$27,815",,,,,HSKA
+84,M,2020-05-28 16:33:25,2020-05-26,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$86.30,-15559,426894,-4%,"-$1,342,687",,,,,HSKA
+85,,2020-05-21 14:56:39,2020-05-19,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$85.00,-1734,442453,0%,"-$147,390",,,,,HSKA
+86,,2020-04-09 18:56:07,2020-04-08,HSKA,Trowbridge Bonnie J.,Dir,A - Grant,$0.00,2050,4089,+101%,+$0,,,,,HSKA
+87,,2020-04-09 18:54:06,2020-04-08,HSKA,Sveen David E.,Dir,A - Grant,$0.00,2050,32741,+7%,+$0,,,,,HSKA
+88,,2020-04-09 18:52:07,2020-04-08,HSKA,Larson Sharon J.,Dir,A - Grant,$0.00,2050,6839,+43%,+$0,,,,,HSKA
+89,,2020-04-09 18:50:02,2020-04-08,HSKA,Humphrey Scott,Dir,A - Grant,$0.00,2050,5112,+67%,+$0,,,,,HSKA
+90,,2020-04-09 18:47:48,2020-04-08,HSKA,Furlong Mark F,Dir,A - Grant,$0.00,2050,2957,+226%,+$0,,,,,HSKA
+91,D,2020-03-10 15:03:55,2020-03-07,HSKA,Grassman Catherine,"EVP, CFO",A - Grant,$0.00,817,2906,+39%,+$0,,,,,HSKA
+92,D,2020-03-10 15:03:55,2020-03-07,HSKA,Grassman Catherine,"EVP, CFO",F - Tax,$92.98,-475,2906,-14%,"-$44,166",,,,,HSKA
+93,D,2020-03-10 15:03:55,2020-03-07,HSKA,Grassman Catherine,"EVP, CFO",M - OptEx,$0.00,657,2906,+29%,+$0,,,,,HSKA
+94,D,2020-03-10 14:59:35,2020-03-07,HSKA,Wisnewski Nancy,COO,A - Grant,$0.00,1945,49394,+4%,+$0,,,,,HSKA
+95,D,2020-03-10 14:59:35,2020-03-07,HSKA,Wisnewski Nancy,COO,F - Tax,$92.98,-1061,49394,-2%,"-$98,652",,,,,HSKA
+96,D,2020-03-10 14:59:35,2020-03-07,HSKA,Wisnewski Nancy,COO,M - OptEx,$0.00,1563,49394,+3%,+$0,,,,,HSKA
+97,D,2020-03-10 14:56:56,2020-03-07,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",A - Grant,$0.00,1945,13091,+17%,+$0,,,,,HSKA
+98,D,2020-03-10 14:56:56,2020-03-07,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",F - Tax,$92.98,-1062,13091,-8%,"-$98,745",,,,,HSKA
+99,D,2020-03-10 14:56:56,2020-03-07,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",M - OptEx,$0.00,1563,13091,+14%,+$0,,,,,HSKA
+100,,2020-03-10 14:53:11,2020-03-07,HSKA,Wilson Kevin S.,"CEO, Pres",A - Grant,$0.00,7000,444187,+2%,+$0,,,,,HSKA
+101,,2020-03-10 14:53:11,2020-03-07,HSKA,Wilson Kevin S.,"CEO, Pres",F - Tax,$92.98,-2045,444187,0%,"-$190,144",,,,,HSKA
+102,D,2019-12-30 16:40:45,2019-12-30,HSKA,Napolitano Jason A,Chief Strategy Officer,M - OptEx,$39.76,147,62799,0%,"+$5,845",,,,,HSKA
+103,D,2019-12-23 19:24:07,2019-12-23,HSKA,Napolitano Jason A,Chief Strategy Officer,F - Tax,$96.95,-59,62652,0%,"-$5,720",,,,,HSKA
+104,D,2019-12-23 19:24:07,2019-12-23,HSKA,Napolitano Jason A,Chief Strategy Officer,M - OptEx,$39.76,146,62652,0%,"+$5,805",,,,,HSKA
+105,D,2019-11-05 16:33:01,2019-11-05,HSKA,Napolitano Jason A,Chief Strategy Officer,F - Tax,$94.30,-554,62565,-1%,"-$52,242",,,,,HSKA
+106,DM,2019-11-05 16:33:01,2019-11-01,HSKA,Napolitano Jason A,Chief Strategy Officer,M - OptEx,$36.83,2150,62565,+4%,"+$79,187",,,,,HSKA
+107,D,2019-06-04 18:17:31,2019-06-01,HSKA,Grassman Catherine,"EVP, CFO",A - Grant,$0.00,1813,1873,>999%,+$0,,,,,HSKA
+108,,2019-06-04 13:53:08,2019-05-30,HSKA,Humphrey Scott,Dir,P - Purchase,$73.79,1000,3062,+48%,"+$73,790",,,,,HSKA
+109,D,2019-05-14 13:31:36,2019-05-13,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",M - OptEx,$4.57,7000,46912,+18%,"+$32,000",,,,,HSKA
+110,,2019-05-02 18:52:11,2019-05-02,HSKA,Trowbridge Bonnie J.,Dir,A - Grant,$0.00,790,2039,+63%,+$0,,,,,HSKA
+111,,2019-05-02 18:50:37,2019-05-02,HSKA,Sveen David E.,Dir,A - Grant,$0.00,790,30691,+3%,+$0,,,,,HSKA
+112,,2019-05-02 18:49:04,2019-05-02,HSKA,Larson Sharon J.,Dir,A - Grant,$0.00,790,4789,+20%,+$0,,,,,HSKA
+113,,2019-05-02 18:47:16,2019-05-02,HSKA,Humphrey Scott,Dir,A - Grant,$0.00,790,2062,+62%,+$0,,,,,HSKA
+114,,2019-05-02 18:45:04,2019-05-02,HSKA,Furlong Mark F,Dir,A - Grant,$0.00,790,907,+675%,+$0,,,,,HSKA
+115,,2019-03-08 17:18:02,2019-03-08,HSKA,Furlong Mark F,Dir,A - Grant,$0.00,117,117,New,+$0,,,,,HSKA
+116,D,2019-02-20 14:26:19,2019-02-19,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$98.63,-4065,60727,-6%,"-$400,931",,,,,HSKA
+117,D,2019-02-20 14:26:19,2019-02-19,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$8.55,10000,60727,+20%,"+$85,500",,,,,HSKA
+118,,2019-02-15 16:05:24,2019-02-14,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$97.73,-7500,54792,-12%,"-$732,942",,,,,HSKA
+119,D,2019-02-14 15:18:11,2019-02-13,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$98.63,-7774,62292,-11%,"-$766,750",,,,,HSKA
+120,D,2019-02-14 15:18:11,2019-02-13,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$7.36,19498,62292,+46%,"+$143,505",,,,,HSKA
+121,D,2019-02-13 16:22:44,2019-02-12,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$96.60,-4433,50568,-8%,"-$428,228",,,,,HSKA
+122,D,2019-02-13 16:22:44,2019-02-12,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$18.13,9390,50568,+23%,"+$170,241",,,,,HSKA
+123,D,2019-02-12 15:00:50,2019-02-11,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$95.79,-2239,45611,-5%,"-$214,474",,,,,HSKA
+124,D,2019-02-12 15:00:50,2019-02-11,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$8.38,5500,45611,+14%,"+$46,090",,,,,HSKA
+125,D,2019-02-11 16:16:42,2019-02-08,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$95.33,-89,42350,0%,"-$8,484",,,,,HSKA
+126,D,2019-02-11 16:16:42,2019-02-08,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$39.76,146,42350,0%,"+$5,805",,,,,HSKA
+127,D,2019-02-08 10:14:17,2019-02-06,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$32.21,-711,42293,-2%,"-$22,901",,,,,HSKA
+128,D,2019-02-08 10:14:17,2019-02-06,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$98.20,1265,42293,+3%,"+$124,223",,,,,HSKA
+129,D,2019-02-07 10:51:24,2019-02-05,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$99.11,-241,41739,-1%,"-$23,886",,,,,HSKA
+130,D,2019-02-07 10:51:24,2019-02-05,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$7.36,502,41739,+1%,"+$3,695",,,,,HSKA
+131,,2019-02-06 14:20:25,2019-02-04,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$100.00,-7500,41478,-15%,"-$750,000",,,,,HSKA
+132,D,2019-02-05 10:40:35,2019-02-01,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$99.34,-3953,48978,-7%,"-$392,691",,,,,HSKA
+133,D,2019-02-05 10:40:35,2019-02-01,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$6.90,10000,48978,+26%,"+$69,000",,,,,HSKA
+134,D,2019-02-04 15:56:31,2019-01-31,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$98.60,-5170,42931,-11%,"-$509,762",,,,,HSKA
+135,D,2019-02-04 15:56:31,2019-01-31,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$4.96,13500,42931,+46%,"+$66,960",,,,,HSKA
+136,D,2019-02-01 16:09:33,2019-01-30,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$98.56,-5319,34601,-13%,"-$524,241",,,,,HSKA
+137,D,2019-02-01 16:09:33,2019-01-30,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$4.50,14000,34601,+68%,"+$63,000",,,,,HSKA
+138,D,2019-01-31 15:28:34,2019-01-29,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$96.00,-6756,25920,-21%,"-$648,576",,,,,HSKA
+139,D,2019-01-31 15:28:34,2019-01-29,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$72.85,7812,25920,+43%,"+$569,104",,,,,HSKA
+140,D,2019-01-30 15:10:37,2019-01-28,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$96.00,-1820,24864,-7%,"-$174,720",,,,,HSKA
+141,D,2019-01-30 15:10:37,2019-01-28,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$32.21,2901,24864,+13%,"+$93,441",,,,,HSKA
+142,,2019-01-29 16:35:32,2019-01-25,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$95.58,-7500,23783,-24%,"-$716,869",,,,,HSKA
+143,D,2019-01-28 17:19:46,2019-01-25,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$96.00,-2514,31283,-7%,"-$241,344",,,,,HSKA
+144,D,2019-01-28 17:19:46,2019-01-25,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$18.13,4610,31283,+17%,"+$83,579",,,,,HSKA
+145,D,2019-01-22 12:53:40,2019-01-18,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$96.87,-9601,29187,-25%,"-$930,049",,,,,HSKA
+146,D,2019-01-22 12:53:40,2019-01-18,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$39.76,14250,29187,+95%,"+$566,580",,,,,HSKA
+147,M,2019-01-18 16:34:50,2019-01-16,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$90.70,-7500,24538,-23%,"-$680,256",,,,,HSKA
+148,,2018-12-26 14:21:51,2018-12-21,HSKA,Wilson Kevin S.,"CEO, Pres",A - Grant,$83.85,54763,463423,+13%,"+$4,591,878",,,,,HSKA
+149,,2018-12-04 16:16:11,2018-11-30,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$104.00,-1631,408660,0%,"-$169,626",,,,,HSKA
+150,M,2018-12-04 16:11:50,2018-11-30,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$104.17,-3000,32002,-9%,"-$312,495",,,,,HSKA
+151,,2018-12-03 16:24:30,2018-11-29,HSKA,Gordon G Irwin,Dir,S - Sale,$102.00,-4000,25074,-14%,"-$408,000",,,,,HSKA
+152,,2018-11-30 16:29:06,2018-11-28,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$104.00,-181,410291,0%,"-$18,824",,,,,HSKA
+153,,2018-11-26 16:36:18,2018-11-21,HSKA,Gordon G Irwin,Dir,S - Sale,$98.04,-6700,29074,-19%,"-$656,883",,,,,HSKA
+154,,2018-11-13 17:06:22,2018-11-09,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$104.07,-3190,410472,-1%,"-$331,992",,,,,HSKA
+155,D,2018-11-07 16:05:14,2018-11-05,HSKA,Gordon G Irwin,Dir,F - Tax,$100.88,-4403,35774,-11%,"-$444,175",,,,,HSKA
+156,D,2018-11-07 16:05:14,2018-11-05,HSKA,Gordon G Irwin,Dir,M - OptEx,$18.85,23571,35774,+193%,"+$444,369",,,,,HSKA
+157,D,2018-11-02 13:49:30,2018-11-01,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$102.50,-472,35002,-1%,"-$48,380",,,,,HSKA
+158,D,2018-11-02 13:49:30,2018-11-01,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$4.40,11000,35002,+46%,"+$48,400",,,,,HSKA
+159,D,2018-10-16 14:50:20,2018-10-12,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",M - OptEx,$4.40,5000,39891,+14%,"+$22,000",,,,,HSKA
+160,M,2018-10-02 16:40:13,2018-09-28,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$113.50,-2500,24474,-9%,"-$283,750",,,,,HSKA
+161,,2018-09-17 16:48:36,2018-09-13,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$111.50,-2500,26974,-8%,"-$278,750",,,,,HSKA
+162,D,2018-09-05 14:09:48,2018-08-31,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",M - OptEx,$56.11,6371,8573,+289%,"+$357,486",,,,,HSKA
+163,D,2018-09-05 14:09:48,2018-08-31,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",S - Sale+OE,$104.00,-6371,8573,-43%,"-$662,584",,,,,HSKA
+164,DM,2018-08-28 17:43:21,2018-08-27,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",M - OptEx,$37.22,8000,8400,>999%,"+$297,740",,,,,HSKA
+165,DM,2018-08-28 17:43:21,2018-08-27,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",S - Sale+OE,$101.03,-8000,8400,-49%,"-$808,247",,,,,HSKA
+166,DM,2018-08-27 16:22:32,2018-08-23,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",M - OptEx,$18.13,2805,8573,+49%,"+$50,855",,,,,HSKA
+167,DM,2018-08-27 16:22:32,2018-08-23,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",S - Sale+OE,$104.01,-2805,8573,-25%,"-$291,743",,,,,HSKA
+168,DM,2018-08-13 17:02:48,2018-08-09,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",M - OptEx,$31.08,33351,10048,-143%,"+$1,036,708",,,,,HSKA
+169,DM,2018-08-13 17:02:48,2018-08-09,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",S - Sale+OE,$98.49,-33351,10048,-77%,"-$3,284,724",,,,,HSKA
+170,,2018-07-11 16:11:59,2018-07-09,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$110.00,-1200,29474,-4%,"-$132,000",,,,,HSKA
+171,,2018-07-11 16:08:16,2018-05-18,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",S - Sale,$103.00,-582,9900,-6%,"-$59,946",,,,,HSKA
+172,,2018-06-11 16:30:35,2018-06-08,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",S - Sale,$106.50,-750,34873,-2%,"-$79,875",,,,,HSKA
+173,,2018-06-11 16:26:33,2018-06-08,HSKA,Gordon G Irwin,Dir,S - Sale,$106.18,-3400,16606,-17%,"-$361,025",,,,,HSKA
+174,,2018-06-11 16:21:04,2018-06-07,HSKA,Gordon G Irwin,Dir,S - Sale,$103.86,-3400,20006,-15%,"-$353,129",,,,,HSKA
+175,,2018-06-08 17:10:12,2018-06-06,HSKA,Gordon G Irwin,Dir,S - Sale,$105.77,-3400,23406,-13%,"-$359,613",,,,,HSKA
+176,,2018-06-07 16:03:12,2018-06-05,HSKA,Gordon G Irwin,Dir,S - Sale,$105.66,-3400,26806,-11%,"-$359,240",,,,,HSKA
+177,,2018-06-06 15:53:47,2018-06-04,HSKA,Gordon G Irwin,Dir,S - Sale,$105.74,-3400,30206,-10%,"-$359,528",,,,,HSKA
+178,,2018-06-01 16:38:53,2018-06-01,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",S - Sale,$108.20,-2250,35623,-6%,"-$243,458",,,,,HSKA
+179,,2018-06-01 16:22:11,2018-06-01,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$108.50,-2500,30674,-8%,"-$271,250",,,,,HSKA
+180,AM,2018-05-31 17:03:46,2018-05-30,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$106.08,-5502,33174,-14%,"-$583,662",,,,,HSKA
+181,M,2018-05-31 16:42:11,2018-05-29,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",S - Sale,$104.14,-2500,37873,-6%,"-$260,338",,,,,HSKA
+182,D,2018-05-31 16:39:58,2018-05-29,HSKA,Trowbridge Bonnie J.,Dir,M - OptEx,$28.41,5000,1249,-133%,"+$142,050",,,,,HSKA
+183,D,2018-05-31 16:39:58,2018-05-29,HSKA,Trowbridge Bonnie J.,Dir,S - Sale+OE,$101.01,-5000,1249,-80%,"-$505,038",,,,,HSKA
+184,M,2018-05-31 16:36:37,2018-05-30,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$106.19,-6502,32174,-17%,"-$690,462",,,,,HSKA
+185,,2018-05-07 15:48:14,2018-05-03,HSKA,Wrenn Carol,Dir,A - Grant,$0.00,705,5249,+16%,+$0,,,,,HSKA
+186,,2018-05-07 15:46:15,2018-05-03,HSKA,Trowbridge Bonnie J.,Dir,A - Grant,$0.00,705,1249,+130%,+$0,,,,,HSKA
+187,,2018-05-07 15:43:15,2018-05-03,HSKA,Sveen David E.,Dir,A - Grant,$0.00,705,29901,+2%,+$0,,,,,HSKA
+188,,2018-05-07 15:41:00,2018-05-03,HSKA,Larson Sharon J.,Dir,A - Grant,$0.00,705,3999,+21%,+$0,,,,,HSKA
+189,,2018-05-07 15:38:15,2018-05-03,HSKA,Humphrey Scott,Dir,A - Grant,$0.00,705,1272,+124%,+$0,,,,,HSKA
+190,,2018-05-07 15:35:14,2018-05-03,HSKA,Gordon G Irwin,Dir,A - Grant,$0.00,705,33606,+2%,+$0,,,,,HSKA
+191,,2018-04-27 15:36:09,2018-03-17,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",F - Tax,$78.50,-1607,10288,-14%,"-$126,150",,,,,HSKA
+192,,2018-04-27 15:33:13,2018-03-17,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",F - Tax,$78.50,-1928,8276,-19%,"-$151,348",,,,,HSKA
+193,,2018-04-27 15:30:24,2018-03-17,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",F - Tax,$78.50,-1929,8316,-19%,"-$151,427",,,,,HSKA
+194,,2018-04-27 15:26:48,2018-03-17,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",F - Tax,$78.50,-3185,40358,-7%,"-$250,023",,,,,HSKA
+195,,2018-04-27 15:23:15,2018-03-17,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",F - Tax,$78.50,-5685,86776,-6%,"-$446,273",,,,,HSKA
+196,D,2017-12-29 16:43:41,2017-12-28,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$81.23,-5159,38562,-12%,"-$419,066",,,,,HSKA
+197,D,2017-12-29 16:43:41,2017-12-28,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$18.30,11000,38562,+40%,"+$201,300",,,,,HSKA
+198,D,2017-12-15 13:57:14,2017-12-13,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",F - Tax,$80.09,-1599,43529,-4%,"-$128,064",,,,,HSKA
+199,D,2017-12-15 13:57:14,2017-12-13,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",M - OptEx,$18.30,7000,43529,+19%,"+$128,100",,,,,HSKA
+200,,2017-12-04 14:40:12,2017-11-30,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",S - Sale,$86.02,-6500,92446,-7%,"-$559,124",,,,,HSKA
+201,M,2017-11-29 18:16:56,2017-11-27,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",S - Sale,$87.14,-7826,98946,-7%,"-$681,919",,,,,HSKA
+202,,2017-08-31 17:28:32,2017-08-31,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",S - Sale,$102.21,-825,38114,-2%,"-$84,327",,,,,HSKA
+203,D,2017-08-31 17:26:14,2017-08-30,HSKA,McMahon John,"VP, CFO",M - OptEx,$63.32,2608,68,-103%,"+$165,144",,,,,HSKA
+204,D,2017-08-31 17:26:14,2017-08-30,HSKA,McMahon John,"VP, CFO",S - Sale+OE,$101.17,-2608,68,-97%,"-$263,857",,,,,HSKA
+205,,2017-06-14 15:23:28,2017-06-12,HSKA,Humphrey Scott,Dir,A - Grant,$0.00,567,567,New,+$0,,,,,HSKA
+206,D,2017-06-01 17:10:37,2017-06-01,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",M - OptEx,$18.13,382,10000,+4%,"+$6,926",,,,,HSKA
+207,D,2017-06-01 17:10:37,2017-06-01,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",S - Sale+OE,$100.08,-382,10000,-4%,"-$38,231",,,,,HSKA
+208,,2017-06-01 17:08:50,2017-05-31,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",S - Sale,$98.53,-11189,106747,-9%,"-$1,102,434",,,,,HSKA
+209,DM,2017-05-31 14:04:15,2017-05-26,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",M - OptEx,$26.65,11227,9814,-795%,"+$299,218",,,,,HSKA
+210,DM,2017-05-31 14:04:15,2017-05-26,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",S - Sale+OE,$98.00,-11227,9814,-53%,"-$1,100,269",,,,,HSKA
+211,,2017-05-26 12:51:14,2017-05-24,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$100.50,-5000,32721,-13%,"-$502,500",,,,,HSKA
+212,,2017-05-25 16:49:26,2017-05-24,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",S - Sale,$100.17,-250,38901,-1%,"-$25,042",,,,,HSKA
+213,D,2017-05-25 16:48:06,2017-05-23,HSKA,McMahon John,"VP, CFO",M - OptEx,$36.35,417,0,-100%,"+$15,159",,,,,HSKA
+214,D,2017-05-25 16:48:06,2017-05-23,HSKA,McMahon John,"VP, CFO",S - Sale+OE,$97.00,-587,0,-100%,"-$56,940",,,,,HSKA
+215,D,2017-05-25 16:46:23,2017-05-23,HSKA,Wrenn Carol,Dir,M - OptEx,$8.10,1630,4544,+56%,"+$13,203",,,,,HSKA
+216,D,2017-05-25 16:46:23,2017-05-23,HSKA,Wrenn Carol,Dir,S - Sale+OE,$96.95,-1630,4544,-26%,"-$158,024",,,,,HSKA
+217,,2017-05-05 11:25:13,2017-05-04,HSKA,Larson Sharon J.,Dir,P - Purchase,$90.00,1000,3294,+44%,"+$90,000",2.0,5.0,,,HSKA
+218,D,2017-05-02 17:44:05,2017-05-01,HSKA,Gordon G Irwin,Dir,A - Grant,$0.00,544,32901,+2%,+$0,-5.0,-1.0,,,HSKA
+219,D,2017-05-02 17:44:05,2017-05-01,HSKA,Gordon G Irwin,Dir,F - Tax,$110.24,-1535,32901,-4%,"-$169,218",-5.0,-1.0,,,HSKA
+220,D,2017-05-02 17:44:05,2017-05-01,HSKA,Gordon G Irwin,Dir,M - OptEx,$12.92,19016,32901,+137%,"+$245,660",-5.0,-1.0,,,HSKA
+221,,2017-05-02 17:41:08,2017-05-01,HSKA,Sveen David E.,Dir,A - Grant,$0.00,544,29196,+2%,+$0,-5.0,-1.0,,,HSKA
+222,,2017-05-02 17:37:03,2017-05-01,HSKA,Wrenn Carol,Dir,A - Grant,$0.00,544,4544,+14%,+$0,-5.0,-1.0,,,HSKA
+223,,2017-05-02 17:34:29,2017-05-01,HSKA,Larson Sharon J.,Dir,A - Grant,$0.00,544,2294,+31%,+$0,-5.0,-1.0,,,HSKA
+224,,2017-05-02 17:29:20,2017-05-01,HSKA,Trowbridge Bonnie J.,Dir,A - Grant,$0.00,544,544,New,+$0,-5.0,-1.0,,,HSKA
+225,M,2017-04-12 13:23:29,2017-04-10,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$102.98,-1100,37721,-3%,"-$113,283",0.0,2.0,-6.0,,HSKA
+226,,2017-04-12 13:17:49,2017-04-10,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$102.94,-3900,38821,-9%,"-$401,482",0.0,2.0,-6.0,,HSKA
+227,,2017-03-10 13:15:45,2017-03-09,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",S - Sale,$96.64,-500,39151,-1%,"-$48,321",-2.0,-4.0,4.0,,HSKA
+228,D,2017-03-09 14:11:05,2017-03-09,HSKA,McMahon John,"VP, CFO",M - OptEx,$37.75,708,75,-112%,"+$26,729",3.0,0.0,8.0,,HSKA
+229,D,2017-03-09 14:11:05,2017-03-09,HSKA,McMahon John,"VP, CFO",S - Sale+OE,$97.42,-708,75,-90%,"-$68,973",3.0,0.0,8.0,,HSKA
+230,D,2017-03-09 14:08:05,2017-03-09,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",M - OptEx,$10.10,5157,9814,+111%,"+$52,078",3.0,0.0,8.0,,HSKA
+231,D,2017-03-09 14:08:05,2017-03-09,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",S - Sale+OE,$97.87,-5157,9814,-34%,"-$504,721",3.0,0.0,8.0,,HSKA
+232,,2017-03-06 17:13:28,2017-03-06,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$90.00,-8000,418662,-2%,"-$720,000",2.0,8.0,13.0,,HSKA
+233,D,2017-03-06 17:12:04,2017-03-02,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",M - OptEx,$7.36,10000,11271,+787%,"+$73,600",2.0,8.0,13.0,,HSKA
+234,D,2017-03-06 17:12:04,2017-03-02,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",S - Sale+OE,$89.26,-10000,11271,-47%,"-$892,554",2.0,8.0,13.0,,HSKA
+235,,2017-02-27 17:02:04,2017-02-23,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",A - Grant,$0.00,2177,39651,+6%,+$0,13.0,8.0,20.0,,HSKA
+236,,2017-02-27 17:02:04,2017-02-23,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",F - Tax,$81.00,-691,39651,-2%,"-$55,971",13.0,8.0,20.0,,HSKA
+237,,2017-02-27 16:57:39,2017-02-23,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",A - Grant,$0.00,2500,41804,+6%,+$0,13.0,8.0,20.0,,HSKA
+238,,2017-02-27 16:43:29,2017-02-23,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",A - Grant,$0.00,2452,117927,+2%,+$0,13.0,8.0,20.0,,HSKA
+239,,2017-02-27 16:43:29,2017-02-23,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",F - Tax,$81.00,-778,117927,-1%,"-$63,018",13.0,8.0,20.0,,HSKA
+240,,2017-02-27 16:09:12,2017-02-23,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",A - Grant,$0.00,2500,11271,+29%,+$0,13.0,8.0,20.0,,HSKA
+241,,2017-02-27 16:09:12,2017-02-23,HSKA,Eyl Steven M.,"EVP, Global Sales, Marketing",F - Tax,$81.00,-797,11271,-7%,"-$64,557",13.0,8.0,20.0,,HSKA
+242,,2017-02-27 16:06:25,2017-02-23,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",A - Grant,$0.00,2500,9917,+34%,+$0,13.0,8.0,20.0,,HSKA
+243,,2017-02-27 16:06:25,2017-02-23,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",F - Tax,$81.00,-933,9917,-9%,"-$75,573",13.0,8.0,20.0,,HSKA
+244,,2017-02-27 16:04:08,2017-02-23,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",A - Grant,$0.00,2500,9814,+34%,+$0,13.0,8.0,20.0,,HSKA
+245,,2017-02-27 16:04:08,2017-02-23,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",F - Tax,$81.00,-934,9814,-9%,"-$75,654",13.0,8.0,20.0,,HSKA
+246,,2017-02-27 15:37:43,2016-11-25,HSKA,Larson Sharon J.,Dir,P - Purchase,$66.87,1750,1750,New,"+$117,020",1.0,9.0,21.0,,HSKA
+247,,2017-01-12 16:30:10,2017-01-10,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",S - Sale,$74.73,-5000,39304,-11%,"-$373,635",3.0,4.0,12.0,,HSKA
+248,D,2016-11-29 17:17:52,2016-11-28,HSKA,McMahon John,"VP, CFO",M - OptEx,$36.68,1999,43,-102%,"+$73,329",-2.0,-1.0,7.0,,HSKA
+249,D,2016-11-29 17:17:52,2016-11-28,HSKA,McMahon John,"VP, CFO",S - Sale+OE,$65.64,-1999,43,-98%,"-$131,219",-2.0,-1.0,7.0,,HSKA
+250,M,2016-11-29 17:16:01,2016-11-25,HSKA,Gordon G Irwin,Dir,S - Sale,$66.11,-3000,14876,-17%,"-$198,331",-2.0,-1.0,7.0,,HSKA
+251,D,2016-11-23 10:40:51,2016-11-22,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",M - OptEx,$11.67,5000,8192,+157%,"+$58,340",3.0,2.0,10.0,,HSKA
+252,D,2016-11-23 10:40:51,2016-11-22,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",S - Sale+OE,$64.85,-5000,8192,-38%,"-$324,258",3.0,2.0,10.0,,HSKA
+253,D,2016-11-16 12:27:31,2016-11-15,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",F - Tax,$65.88,-3842,44304,-8%,"-$253,111",-1.0,-2.0,6.0,,HSKA
+254,D,2016-11-16 12:27:31,2016-11-15,HSKA,Napolitano Jason A,"COO, Chief Strategist, Sec.",M - OptEx,$17.17,9000,44304,+25%,"+$154,530",-1.0,-2.0,6.0,,HSKA
+255,D,2016-11-16 12:25:20,2016-11-15,HSKA,McGinley Michael J,"Pres, Biologic., Pharm.",M - OptEx,$17.17,1,116237,0%,+$17,-1.0,-2.0,6.0,,HSKA
+256,D,2016-11-15 16:42:34,2016-11-11,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",M - OptEx,$9.38,96016,116236,+475%,"+$900,702",-1.0,5.0,5.0,,HSKA
+257,D,2016-11-14 17:17:52,2016-11-10,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",F - Tax,$62.50,-1687,38149,-4%,"-$105,438",4.0,8.0,8.0,,HSKA
+258,D,2016-11-14 17:17:52,2016-11-10,HSKA,Wisnewski Nancy,"EVP, Diag. Ops, Prod. Dev.",M - OptEx,$17.17,6000,38149,+19%,"+$103,020",4.0,8.0,8.0,,HSKA
+259,D,2016-11-09 16:31:21,2016-11-07,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",M - OptEx,$7.36,5000,8266,+153%,"+$36,800",0.0,5.0,10.0,53.0,HSKA
+260,D,2016-11-09 16:31:21,2016-11-07,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",S - Sale+OE,$61.00,-5000,8266,-38%,"-$305,000",0.0,5.0,10.0,53.0,HSKA
+261,,2016-11-09 16:29:18,2016-11-07,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",S - Sale,$60.12,-9998,20220,-33%,"-$601,051",0.0,5.0,10.0,53.0,HSKA
+262,,2016-09-01 19:01:02,2016-09-01,HSKA,Napolitano Jason A,"COO, CFO, EVP, Secretary",S - Sale,$52.53,-5000,39146,-11%,"-$262,642",0.0,4.0,3.0,65.0,HSKA
+263,M,2016-08-30 15:46:37,2016-08-26,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$51.80,-20000,426662,-4%,"-$1,036,000",3.0,6.0,6.0,74.0,HSKA
+264,,2016-08-26 11:27:42,2016-08-24,HSKA,McMahon John,"VP, Fin. Oper., Controller",S - Sale,$51.30,-137,0,-100%,"-$7,028",2.0,4.0,8.0,62.0,HSKA
+265,D,2016-08-10 15:18:41,2016-08-09,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",M - OptEx,$8.35,4698,8160,+136%,"+$39,228",-1.0,-4.0,4.0,52.0,HSKA
+266,D,2016-08-10 15:18:41,2016-08-09,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",S - Sale+OE,$52.55,-4698,8160,-37%,"-$246,864",-1.0,-4.0,4.0,52.0,HSKA
+267,,2016-08-04 17:04:47,2012-11-16,HSKA,Riley Sharon L.,Dir,S - Sale,$8.09,-1000,0,-100%,"-$8,087",3.0,7.0,9.0,67.0,HSKA
+268,M,2016-08-04 12:46:04,2016-08-02,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$47.34,-30736,446662,-6%,"-$1,455,071",-1.0,7.0,9.0,66.0,HSKA
+269,,2016-08-02 17:08:04,2016-07-29,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$43.95,-20,477398,0%,-$879,11.0,16.0,24.0,83.0,HSKA
+270,,2016-07-22 15:53:37,2016-07-20,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$44.02,-3779,477418,-1%,"-$166,362",-2.0,-2.0,17.0,82.0,HSKA
+271,,2016-07-19 17:27:11,2016-07-18,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$44.31,-5465,481197,-1%,"-$242,134",1.0,-1.0,18.0,77.0,HSKA
+272,,2016-07-11 16:52:35,2016-07-08,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$42.37,-10000,486662,-2%,"-$423,666",-1.0,0.0,16.0,67.0,HSKA
+273,,2016-07-11 16:47:18,2016-07-07,HSKA,Napolitano Jason A,"COO, CFO, EVP, Secretary",S - Sale,$41.00,-20000,44146,-31%,"-$820,000",-1.0,0.0,16.0,67.0,HSKA
+274,A,2016-07-11 16:44:14,2016-07-01,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$38.94,-14040,502622,-3%,"-$546,664",-1.0,0.0,16.0,67.0,HSKA
+275,,2016-07-07 13:26:56,2016-07-06,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$40.27,-5960,496662,-1%,"-$240,008",2.0,4.0,19.0,77.0,HSKA
+276,,2016-07-01 18:51:03,2016-07-01,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$38.94,-14040,502622,-3%,"-$546,664",-3.0,11.0,10.0,89.0,HSKA
+277,,2016-06-02 16:24:57,2016-05-31,HSKA,Wilson Kevin S.,"CEO, Pres",A - Grant,$36.88,138743,516662,+37%,"+$5,116,842",-3.0,-4.0,-1.0,83.0,HSKA
+278,,2016-06-02 16:24:57,2016-06-02,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$36.74,-20000,516662,-4%,"-$734,800",-3.0,-4.0,-1.0,83.0,HSKA
+279,D,2016-05-16 17:30:39,2016-05-12,HSKA,Gordon G Irwin,Dir,M - OptEx,$11.00,4372,17876,+32%,"+$48,094",-5.0,-5.0,-9.0,60.0,HSKA
+280,,2016-05-16 17:17:13,2016-05-12,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$38.50,-5000,397919,-1%,"-$192,500",-5.0,-5.0,-9.0,60.0,HSKA
+281,,2016-05-11 18:31:51,2016-05-10,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$36.75,-15000,402919,-4%,"-$551,250",2.0,-4.0,-6.0,58.0,HSKA
+282,AM,2016-05-11 18:26:37,2016-05-05,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$35.61,-10000,417919,-2%,"-$356,088",2.0,-4.0,-6.0,58.0,HSKA
+283,D,2016-05-10 16:32:36,2016-05-10,HSKA,Riley Sharon L.,Dir,M - OptEx,$11.47,5000,4500,-1000%,"+$57,350",-1.0,0.0,-6.0,58.0,HSKA
+284,D,2016-05-10 16:32:36,2016-05-10,HSKA,Riley Sharon L.,Dir,S - Sale+OE,$36.87,-5000,4500,-53%,"-$184,365",-1.0,0.0,-6.0,58.0,HSKA
+285,D,2016-05-10 16:30:12,2016-05-10,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",M - OptEx,$15.23,5998,30167,+25%,"+$91,334",-1.0,0.0,-6.0,58.0,HSKA
+286,D,2016-05-10 16:30:12,2016-05-10,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",S - Sale+OE,$36.50,-5998,30167,-17%,"-$218,927",-1.0,0.0,-6.0,58.0,HSKA
+287,M,2016-05-09 17:23:28,2016-05-05,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$35.61,-11000,416919,-3%,"-$391,688",6.0,9.0,-3.0,57.0,HSKA
+288,D,2016-05-09 17:14:57,2016-05-05,HSKA,Riley Sharon L.,Dir,M - OptEx,$10.16,15000,4500,-143%,"+$152,420",6.0,9.0,-3.0,57.0,HSKA
+289,D,2016-05-09 17:14:57,2016-05-05,HSKA,Riley Sharon L.,Dir,S - Sale+OE,$35.66,-15000,4500,-77%,"-$534,863",6.0,9.0,-3.0,57.0,HSKA
+290,,2016-05-05 15:57:51,2016-05-03,HSKA,Napolitano Jason A,"COO, CFO, EVP, Secretary",S - Sale,$35.75,-5000,64146,-7%,"-$178,750",0.0,9.0,3.0,63.0,HSKA
+291,D,2016-04-26 11:33:52,2016-04-25,HSKA,Napolitano Jason A,"COO, CFO, EVP, Secretary",M - OptEx,$4.40,1000,69146,+1%,"+$4,400",4.0,10.0,35.0,97.0,HSKA
+292,,2016-03-08 11:22:09,2016-03-08,HSKA,Riley Sharon L.,Dir,P - Purchase,$32.49,1000,5500,+22%,"+$32,490",2.0,2.0,-4.0,67.0,HSKA
+293,,2016-03-04 18:19:59,2016-03-02,HSKA,Wisnewski Nancy,"EVP, Prod. Dev., Cust. Supp",A - Grant,$0.00,12946,33735,+62%,+$0,5.0,6.0,0.0,79.0,HSKA
+294,,2016-03-04 18:17:55,2016-03-02,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",A - Grant,$0.00,7881,7814,-11763%,+$0,5.0,6.0,0.0,79.0,HSKA
+295,,2016-03-04 18:17:55,2016-03-02,HSKA,Lippincott Rod,"EVP, Comp. Animal Health Sales",F - Tax,$33.64,-1050,7814,-12%,"-$35,322",5.0,6.0,0.0,79.0,HSKA
+296,,2016-03-04 18:16:00,2016-03-02,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",A - Grant,$0.00,7881,7816,-12125%,+$0,5.0,6.0,0.0,79.0,HSKA
+297,,2016-03-04 18:16:00,2016-03-02,HSKA,Asakowicz Steve,"EVP, Comp. Animal Health Sales",F - Tax,$33.64,-1048,7816,-12%,"-$35,255",5.0,6.0,0.0,79.0,HSKA
+298,,2016-03-04 18:13:51,2016-03-02,HSKA,Eyl Steven M.,"EVP, Commercial Operations",A - Grant,$0.00,7985,8807,+971%,+$0,5.0,6.0,0.0,79.0,HSKA
+299,,2016-03-04 18:13:51,2016-03-02,HSKA,Eyl Steven M.,"EVP, Commercial Operations",F - Tax,$33.64,-929,8807,-10%,"-$31,252",5.0,6.0,0.0,79.0,HSKA
+300,,2016-03-04 18:11:29,2016-03-02,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",A - Grant,$0.00,14896,30098,+98%,+$0,5.0,6.0,0.0,79.0,HSKA
+301,,2016-03-04 18:11:29,2016-03-02,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",F - Tax,$33.64,-757,30098,-2%,"-$25,465",5.0,6.0,0.0,79.0,HSKA
+302,,2016-03-04 18:07:51,2016-03-02,HSKA,Napolitano Jason A,"EVP, COO, CFO, Secretary",A - Grant,$0.00,15731,67229,+31%,+$0,5.0,6.0,0.0,79.0,HSKA
+303,,2016-03-04 18:07:51,2016-03-02,HSKA,Napolitano Jason A,"EVP, COO, CFO, Secretary",F - Tax,$33.64,-1004,67229,-1%,"-$33,775",5.0,6.0,0.0,79.0,HSKA
+304,,2016-01-28 12:14:28,2016-01-27,HSKA,Napolitano Jason A,"EVP, COO, CFO, Secretary",S - Sale,$37.00,-15000,52502,-22%,"-$555,000",0.0,0.0,-11.0,17.0,HSKA
+305,AD,2015-12-31 13:23:21,2015-12-29,HSKA,Napolitano Jason A,"EVP, COO, CFO, Secretary",S - Sale+OE,$40.03,-3700,67502,-5%,"-$148,128",0.0,-7.0,-5.0,-4.0,HSKA
+306,D,2015-12-31 13:09:19,2015-12-29,HSKA,Napolitano Jason A,"EVP, COO, CFO, Secretary",S - Sale+OE,$40.03,-3700,67502,-5%,"-$148,128",0.0,-7.0,-5.0,-4.0,HSKA
+307,D,2015-12-22 18:09:14,2015-12-22,HSKA,Napolitano Jason A,"EVP, COO, CFO, Secretary",M - OptEx,$4.40,1000,71202,+1%,"+$4,400",5.0,16.0,4.0,-1.0,HSKA
+308,D,2015-12-17 12:41:29,2015-12-15,HSKA,Napolitano Jason A,"EVP, COO, CFO, Secretary",F - Tax,$35.73,-14500,70202,-17%,"-$518,085",-1.0,3.0,-2.0,-1.0,HSKA
+309,D,2015-12-17 12:41:29,2015-12-15,HSKA,Napolitano Jason A,"EVP, COO, CFO, Secretary",M - OptEx,$12.50,26000,70202,+59%,"+$325,000",-1.0,3.0,-2.0,-1.0,HSKA
+310,A,2015-12-17 12:38:13,2015-09-11,HSKA,Napolitano Jason A,CFO,S - Sale,$35.51,-1699,58702,-3%,"-$60,331",-1.0,3.0,-2.0,-1.0,HSKA
+311,D,2015-12-03 16:43:36,2015-12-01,HSKA,Wisnewski Nancy,"EVP, Prod. Dev, Cust. Support",F - Tax,$35.55,-6331,20764,-23%,"-$225,067",3.0,0.0,4.0,2.0,HSKA
+312,D,2015-12-03 16:43:36,2015-12-01,HSKA,Wisnewski Nancy,"EVP, Prod. Dev, Cust. Support",M - OptEx,$12.50,13000,20764,+167%,"+$162,500",3.0,0.0,4.0,2.0,HSKA
+313,M,2015-12-03 16:36:16,2015-12-02,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$35.50,-6000,427919,-1%,"-$213,000",3.0,0.0,4.0,2.0,HSKA
+314,D,2015-11-25 17:12:55,2015-11-24,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",M - OptEx,$12.50,1427,15928,+10%,"+$17,838",4.0,2.0,10.0,6.0,HSKA
+315,D,2015-11-25 17:12:55,2015-11-24,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",S - Sale+OE,$33.33,-1427,15928,-8%,"-$47,558",4.0,2.0,10.0,6.0,HSKA
+316,D,2015-11-25 16:49:56,2015-11-25,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",M - OptEx,$12.50,958,15928,+6%,"+$11,975",4.0,2.0,10.0,6.0,HSKA
+317,D,2015-11-25 16:49:56,2015-11-25,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",S - Sale+OE,$33.62,-958,15928,-6%,"-$32,210",4.0,2.0,10.0,6.0,HSKA
+318,,2015-11-23 16:30:48,2015-11-18,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$35.00,-6000,433919,-1%,"-$210,000",0.0,4.0,3.0,9.0,HSKA
+319,D,2015-11-19 16:47:27,2015-11-17,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",M - OptEx,$12.50,7114,15928,+81%,"+$88,925",0.0,2.0,2.0,8.0,HSKA
+320,D,2015-11-19 16:47:27,2015-11-17,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",S - Sale+OE,$35.28,-7114,15928,-31%,"-$250,947",0.0,2.0,2.0,8.0,HSKA
+321,,2015-09-14 11:03:51,2015-09-11,HSKA,Napolitano Jason A,CFO,S - Sale,$33.51,-1699,58702,-3%,"-$56,933",-2.0,-2.0,-17.0,-9.0,HSKA
+322,DM,2015-09-01 15:44:38,2015-08-28,HSKA,Grieve Robert B,Exec Chair,M - OptEx,$12.50,11098,106331,+12%,"+$138,725",0.0,-1.0,-10.0,0.0,HSKA
+323,DM,2015-09-01 15:44:38,2015-08-28,HSKA,Grieve Robert B,Exec Chair,S - Sale+OE,$33.77,-11098,106331,-9%,"-$374,818",0.0,-1.0,-10.0,0.0,HSKA
+324,,2015-09-01 15:42:26,2015-08-31,HSKA,Napolitano Jason A,CFO,S - Sale,$33.59,-4998,60401,-8%,"-$167,883",0.0,-1.0,-10.0,0.0,HSKA
+325,D,2015-08-31 15:31:58,2015-08-27,HSKA,Grieve Robert B,Exec Chair,M - OptEx,$12.50,3604,106331,+4%,"+$45,050",0.0,-4.0,-13.0,-3.0,HSKA
+326,D,2015-08-31 15:31:58,2015-08-27,HSKA,Grieve Robert B,Exec Chair,S - Sale+OE,$33.79,-3604,106331,-3%,"-$121,775",0.0,-4.0,-13.0,-3.0,HSKA
+327,D,2015-08-19 11:36:16,2015-08-17,HSKA,Grieve Robert B,Exec Chair,M - OptEx,$12.50,8033,106331,+8%,"+$100,413",0.0,-5.0,3.0,-8.0,HSKA
+328,D,2015-08-19 11:36:16,2015-08-17,HSKA,Grieve Robert B,Exec Chair,S - Sale+OE,$34.91,-8033,106331,-7%,"-$280,467",0.0,-5.0,3.0,-8.0,HSKA
+329,,2015-08-18 11:52:56,2015-08-17,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$34.90,-2498,439919,-1%,"-$87,181",-2.0,-9.0,-1.0,-7.0,HSKA
+330,D,2015-08-18 11:49:06,2015-08-14,HSKA,Lippincott Rod,"EVP, Companion Animal Sales",M - OptEx,$8.20,3898,746,-124%,"+$31,979",-2.0,-9.0,-1.0,-7.0,HSKA
+331,D,2015-08-18 11:49:06,2015-08-14,HSKA,Lippincott Rod,"EVP, Companion Animal Sales",S - Sale+OE,$34.19,-3898,746,-84%,"-$133,272",-2.0,-9.0,-1.0,-7.0,HSKA
+332,M,2015-08-17 10:49:10,2015-08-13,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$34.90,-2101,442417,0%,"-$73,333",2.0,-2.0,0.0,-6.0,HSKA
+333,,2015-08-13 13:08:18,2015-08-11,HSKA,Napolitano Jason A,CFO,S - Sale,$35.51,-3301,65399,-5%,"-$117,203",3.0,1.0,4.0,-4.0,HSKA
+334,M,2015-08-12 19:58:40,2015-08-10,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$35.11,-5401,444518,-1%,"-$189,613",3.0,1.0,3.0,0.0,HSKA
+335,DM,2015-08-12 17:13:46,2015-08-10,HSKA,Grieve Robert B,Exec Chair,M - OptEx,$12.50,17265,106331,+19%,"+$215,813",3.0,1.0,3.0,0.0,HSKA
+336,DM,2015-08-12 17:13:46,2015-08-10,HSKA,Grieve Robert B,Exec Chair,S - Sale+OE,$35.05,-19765,106331,-16%,"-$692,822",3.0,1.0,3.0,0.0,HSKA
+337,,2015-08-04 18:07:51,2015-08-04,HSKA,Grieve Robert B,Exec Chair,S - Sale,$35.00,-1050,108831,-1%,"-$36,750",-1.0,0.0,-4.0,5.0,HSKA
+338,,2015-07-31 13:59:12,2015-07-30,HSKA,Napolitano Jason A,CFO,S - Sale,$33.97,-5534,68700,-7%,"-$187,965",-2.0,-2.0,-2.0,9.0,HSKA
+339,,2015-07-15 10:49:21,2015-07-13,HSKA,Grieve Robert B,Exec Chair,S - Sale,$29.99,-1000,109881,-1%,"-$29,985",0.0,2.0,14.0,22.0,HSKA
+340,,2015-06-09 18:46:09,2015-06-08,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$30.08,-11810,449919,-3%,"-$355,224",0.0,-4.0,-8.0,18.0,HSKA
+341,,2015-06-04 16:45:35,2015-06-02,HSKA,Napolitano Jason A,CFO,S - Sale,$31.50,-2464,74234,-3%,"-$77,620",0.0,-1.0,-4.0,14.0,HSKA
+342,M,2015-06-04 16:43:55,2015-06-02,HSKA,Grieve Robert B,Exec Chair,S - Sale,$31.36,-17000,111531,-13%,"-$533,091",0.0,-1.0,-4.0,14.0,HSKA
+343,M,2015-06-02 16:55:41,2015-05-29,HSKA,Napolitano Jason A,CFO,S - Sale,$32.26,-7536,76698,-9%,"-$243,097",2.0,-2.0,-4.0,16.0,HSKA
+344,,2015-05-29 13:35:21,2015-05-27,HSKA,Grieve Robert B,Exec Chair,S - Sale,$31.00,-1500,128531,-1%,"-$46,500",-2.0,-4.0,-10.0,3.0,HSKA
+345,DM,2015-05-26 15:35:11,2015-05-21,HSKA,Eyl Steven M.,"EVP, Commercial Operations",M - OptEx,$7.92,5981,1169,-124%,"+$47,395",1.0,5.0,-2.0,12.0,HSKA
+346,DM,2015-05-26 15:35:11,2015-05-21,HSKA,Eyl Steven M.,"EVP, Commercial Operations",S - Sale+OE,$30.19,-5981,1169,-84%,"-$180,571",1.0,5.0,-2.0,12.0,HSKA
+347,,2015-05-18 19:01:37,2015-05-18,HSKA,Riley Sharon L.,Dir,P - Purchase,$29.05,500,4500,+13%,"+$14,525",1.0,7.0,7.0,24.0,HSKA
+348,D,2015-05-18 19:00:26,2015-05-15,HSKA,Sveen David E.,Dir,M - OptEx,$10.19,7224,28652,+34%,"+$73,607",1.0,7.0,7.0,24.0,HSKA
+349,D,2015-05-11 15:20:03,2015-05-07,HSKA,Gordon G Irwin,Dir,M - OptEx,$8.00,4000,13504,+42%,"+$32,000",8.0,7.0,14.0,18.0,HSKA
+350,A,2015-05-08 15:57:39,2015-03-10,HSKA,Napolitano Jason A,CFO,S - Sale,$26.02,-5765,84234,-6%,"-$149,989",2.0,9.0,13.0,19.0,HSKA
+351,M,2015-04-24 16:43:01,2015-04-22,HSKA,Grieve Robert B,Exec Chair,S - Sale,$29.67,-6000,130031,-4%,"-$178,000",-4.0,-8.0,-1.0,-2.0,HSKA
+352,,2015-04-15 18:39:21,2015-04-13,HSKA,Grieve Robert B,Exec Chair,S - Sale,$26.54,-4000,136031,-3%,"-$106,173",0.0,2.0,11.0,10.0,HSKA
+353,A,2015-03-12 17:00:10,2015-03-10,HSKA,Napolitano Jason A,CFO,S - Sale,$26.02,-5765,83632,-6%,"-$150,005",0.0,-1.0,11.0,39.0,HSKA
+354,,2015-03-11 13:09:41,2015-03-09,HSKA,Grieve Robert B,Exec Chair,S - Sale,$25.26,-2000,140031,-1%,"-$50,510",-3.0,-3.0,7.0,33.0,HSKA
+355,D,2015-03-11 13:08:20,2015-03-09,HSKA,Aylesworth William A,Dir,F - Tax,$25.50,-4571,37397,-11%,"-$116,561",-3.0,-3.0,7.0,33.0,HSKA
+356,D,2015-03-11 13:08:20,2015-03-09,HSKA,Aylesworth William A,Dir,M - OptEx,$11.00,4571,37397,+14%,"+$50,281",-3.0,-3.0,7.0,33.0,HSKA
+357,,2015-03-11 13:06:28,2015-03-09,HSKA,Napolitano Jason A,CFO,S - Sale,$26.02,-5765,84234,-6%,"-$149,989",-3.0,-3.0,7.0,33.0,HSKA
+358,,2015-03-11 13:03:25,2015-03-09,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$25.38,-10000,461729,-2%,"-$253,778",-3.0,-3.0,7.0,33.0,HSKA
+359,D,2015-02-05 16:20:41,2015-02-03,HSKA,Grieve Robert B,Exec Chair,F - Tax,$21.39,-15177,142381,-10%,"-$324,636",0.0,-4.0,18.0,64.0,HSKA
+360,D,2015-02-05 16:20:41,2015-02-03,HSKA,Grieve Robert B,Exec Chair,M - OptEx,$8.80,28203,142381,+25%,"+$248,196",0.0,-4.0,18.0,64.0,HSKA
+361,D,2015-02-04 16:33:33,2015-02-02,HSKA,Napolitano Jason A,CFO,F - Tax,$20.35,-12164,89999,-12%,"-$247,537",1.0,4.0,9.0,66.0,HSKA
+362,D,2015-02-04 16:33:33,2015-02-02,HSKA,Napolitano Jason A,CFO,M - OptEx,$8.80,19500,89999,+28%,"+$171,600",1.0,4.0,9.0,66.0,HSKA
+363,D,2015-02-02 17:46:36,2015-01-16,HSKA,Wisnewski Nancy,"EVP, Prod. Dev., Cust. Supp",M - OptEx,$8.80,6500,14018,+86%,"+$57,200",5.0,4.0,6.0,67.0,HSKA
+364,,2014-12-02 15:51:55,2014-11-30,HSKA,Sveen David E.,Dir,P - Purchase,$14.00,21428,21428,New,"+$299,992",4.0,6.0,21.0,110.0,HSKA
+365,,2014-12-02 15:51:08,2014-11-30,HSKA,Wilson Kevin S.,"CEO, Pres",S - Sale,$14.00,-28928,471729,-6%,"-$404,992",4.0,6.0,21.0,110.0,HSKA
+366,D,2014-11-25 16:03:44,2014-11-21,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",M - OptEx,$8.80,9499,15775,+151%,"+$83,591",1.0,1.0,17.0,108.0,HSKA
+367,D,2014-11-25 16:03:44,2014-11-21,HSKA,McGinley Michael J,"Presi, Biologic., Pharm.",S - Sale+OE,$15.45,-9499,15775,-38%,"-$146,788",1.0,1.0,17.0,108.0,HSKA
+368,M,2014-11-21 16:00:10,2014-11-19,HSKA,Grieve Robert B,Exec Chair,S - Sale,$15.25,-6500,128456,-5%,"-$99,115",1.0,1.0,14.0,97.0,HSKA
+369,D,2014-11-05 16:05:46,2014-11-03,HSKA,Aylesworth William A,Dir,M - OptEx,$8.60,5000,37397,+15%,"+$43,000",5.0,12.0,10.0,87.0,HSKA
+370,D,2014-11-05 16:05:46,2014-11-03,HSKA,Aylesworth William A,Dir,S - Sale+OE,$13.67,-5000,37397,-12%,"-$68,355",5.0,12.0,10.0,87.0,HSKA
+371,,2014-08-27 16:25:37,2014-08-25,HSKA,Grieve Robert B,CEO,S - Sale,$13.40,-1000,135533,-1%,"-$13,400",0.0,-1.0,-3.0,59.0,HSKA
+372,,2014-08-20 16:27:49,2014-08-18,HSKA,Aylesworth William A,Dir,S - Sale,$13.53,-1600,37397,-4%,"-$21,654",-1.0,3.0,2.0,61.0,HSKA
+373,D,2014-08-14 11:04:50,2014-08-12,HSKA,Aylesworth William A,Dir,M - OptEx,$4.60,5000,38997,+15%,"+$23,000",2.0,-5.0,-5.0,52.0,HSKA
+374,,2014-08-05 16:35:11,2014-08-04,HSKA,Grieve Robert B,"Exec Chair, Dir",S - Sale,$13.57,-12000,136533,-8%,"-$162,833",-2.0,-2.0,-4.0,52.0,HSKA
+375,D,2014-07-09 16:44:50,2014-07-07,HSKA,Aylesworth William A,Dir,M - OptEx,$8.00,4200,33997,+14%,"+$33,600",0.0,-2.0,21.0,53.0,HSKA
+376,,2014-06-05 17:49:07,2014-06-05,HSKA,Grieve Robert B,"Exec Chair, Dir",S - Sale,$10.69,-936,149533,-1%,"-$10,010",4.0,1.0,3.0,46.0,HSKA
+377,,2014-05-16 16:18:47,2014-05-14,HSKA,Aylesworth William A,Dir,S - Sale,$10.89,-4200,29797,-12%,"-$45,717",2.0,2.0,1.0,50.0,HSKA
+378,,2014-05-08 16:42:35,2014-05-06,HSKA,Wilson Kevin S.,"Pres, COO",A - Grant,$0.00,130000,500657,+35%,+$0,-2.0,-2.0,-1.0,25.0,HSKA
+379,,2014-04-02 16:04:50,2014-03-31,HSKA,Riley Sharon L.,Dir,P - Purchase,$10.81,3000,4000,+300%,"+$32,430",-1.0,3.0,6.0,24.0,HSKA
+380,,2014-04-02 16:03:59,2014-03-31,HSKA,Wrenn Carol,Dir,P - Purchase,$10.50,1000,4000,+33%,"+$10,500",-1.0,3.0,6.0,24.0,HSKA
+381,,2014-04-02 16:03:09,2014-03-31,HSKA,Grieve Robert B,CEO,S - Sale,$10.50,-7000,7861,-47%,"-$73,520",-1.0,3.0,6.0,24.0,HSKA
+382,,2014-03-28 18:27:34,2014-03-26,HSKA,Grieve Robert B,CEO,A - Grant,$0.00,63572,157969,+67%,+$0,-3.0,-3.0,8.0,21.0,HSKA
+383,,2014-03-28 17:55:58,2014-03-26,HSKA,Wilson Kevin S.,"Pres, COO",A - Grant,$0.00,110000,370657,+42%,+$0,-3.0,-3.0,8.0,21.0,HSKA
+384,D,2013-04-01 18:55:28,2013-03-29,HSKA,Gordon G Irwin,Dir,F - Tax,$9.30,-106,9504,-1%,-$986,0.0,-1.0,-7.0,-32.0,HSKA
+385,D,2013-04-01 18:55:28,2013-03-29,HSKA,Gordon G Irwin,Dir,M - OptEx,$8.80,113,9504,+1%,+$994,0.0,-1.0,-7.0,-32.0,HSKA
+386,D,2013-03-19 18:36:35,2013-03-15,HSKA,Gordon G Irwin,Dir,F - Tax,$8.99,-55,9497,-1%,-$494,0.0,2.0,-7.0,-30.0,HSKA
+387,D,2013-03-19 18:36:35,2013-03-15,HSKA,Gordon G Irwin,Dir,M - OptEx,$7.80,64,9497,+1%,+$499,0.0,2.0,-7.0,-30.0,HSKA
+388,,2013-03-05 16:21:38,2013-03-01,HSKA,Wrenn Carol,Dir,P - Purchase,$8.33,3000,3000,New,"+$24,976",2.0,4.0,6.0,-39.0,HSKA
+389,,2013-03-05 16:21:17,2013-03-01,HSKA,Aylesworth William A,Dir,P - Purchase,$8.34,2000,33997,+6%,"+$16,679",2.0,4.0,6.0,-39.0,HSKA
+390,D,2013-02-26 17:52:11,2013-02-24,HSKA,Wilson Kevin S.,"Pres, COO",A - Grant,$8.52,260657,260657,New,"+$2,220,798",-1.0,2.0,9.0,-33.0,HSKA
+391,D,2013-02-04 16:10:24,2013-01-31,HSKA,Gordon G Irwin,Dir,F - Tax,$8.40,-118,9488,-1%,-$991,-1.0,0.0,-3.0,-24.0,HSKA
+392,D,2013-02-04 16:10:24,2013-01-31,HSKA,Gordon G Irwin,Dir,M - OptEx,$7.10,140,9488,+1%,+$994,-1.0,0.0,-3.0,-24.0,HSKA
+393,D,2013-02-01 16:45:14,2013-01-30,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",F - Tax,$8.41,-2488,80413,-3%,"-$20,924",2.0,-2.0,-3.0,-21.0,HSKA
+394,D,2013-02-01 16:45:14,2013-01-30,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",M - OptEx,$7.00,2916,80413,+4%,"+$20,412",2.0,-2.0,-3.0,-21.0,HSKA
+395,D,2013-01-31 13:10:07,2013-01-30,HSKA,McGinley Michael J,"Pres, COO",F - Tax,$8.41,-3745,14902,-20%,"-$31,495",0.0,5.0,0.0,-18.0,HSKA
+396,D,2013-01-31 13:10:07,2013-01-30,HSKA,McGinley Michael J,"Pres, COO",M - OptEx,$7.00,4500,14902,+43%,"+$31,500",0.0,5.0,0.0,-18.0,HSKA
+397,D,2013-01-31 13:09:55,2013-01-29,HSKA,Gordon G Irwin,Dir,F - Tax,$8.35,-17,9466,0%,-$142,0.0,5.0,0.0,-18.0,HSKA
+398,D,2013-01-31 13:09:55,2013-01-29,HSKA,Gordon G Irwin,Dir,M - OptEx,$7.20,20,9466,0%,+$144,0.0,5.0,0.0,-18.0,HSKA
+399,D,2013-01-02 15:48:51,2012-12-28,HSKA,Bent Michael A,"VPActg. Officer, Controller",M - OptEx,$3.40,3000,9773,+44%,"+$10,200",2.0,7.0,4.0,-16.0,HSKA
+400,M,2012-10-11 19:44:35,2012-10-09,HSKA,"Cmc Master Fund, L.P.",10%,S - Sale,$9.50,-11865,529664,-2%,"-$112,771",0.0,-3.0,-13.0,-13.0,HSKA
+401,M,2012-10-09 18:48:36,2012-10-04,HSKA,"Cmc Master Fund, L.P.",10%,S - Sale,$9.52,-26514,541529,-5%,"-$252,394",0.0,-1.0,-16.0,-8.0,HSKA
+402,M,2012-10-04 15:15:00,2012-10-02,HSKA,"Cmc Master Fund, L.P.",10%,S - Sale,$9.54,-11002,568043,-2%,"-$104,991",0.0,0.0,-13.0,-5.0,HSKA
+403,D,2012-10-02 16:14:14,2012-09-28,HSKA,Grieve Robert B,CEO,F - Tax,$9.02,-28216,94397,-23%,"-$254,508",2.0,2.0,-7.0,-3.0,HSKA
+404,D,2012-10-02 16:14:14,2012-09-28,HSKA,Grieve Robert B,CEO,M - OptEx,$6.36,37593,94397,+66%,"+$238,964",2.0,2.0,-7.0,-3.0,HSKA
+405,D,2012-10-01 16:12:46,2012-09-27,HSKA,Bent Michael A,"VPActg. Officer, Controller",F - Tax,$9.12,-3453,6773,-34%,"-$31,491",3.0,5.0,-2.0,1.0,HSKA
+406,D,2012-10-01 16:12:46,2012-09-27,HSKA,Bent Michael A,"VPActg. Officer, Controller",M - OptEx,$7.00,4500,6773,+198%,"+$31,500",3.0,5.0,-2.0,1.0,HSKA
+407,,2012-08-30 16:16:51,2012-08-28,HSKA,Aylesworth William A,Dir,P - Purchase,$7.95,2000,31997,+7%,"+$15,900",0.0,-1.0,15.0,9.0,HSKA
+408,,2012-08-29 16:17:03,2012-08-27,HSKA,Grieve Robert B,CEO,P - Purchase,$7.97,900,85917,+1%,"+$7,176",1.0,2.0,17.0,8.0,HSKA
+409,D,2012-06-05 15:59:55,2012-06-01,HSKA,Gordon G Irwin,Dir,M - OptEx,$6.67,7294,9463,+336%,"+$48,669",2.0,1.0,-9.0,-26.0,HSKA
+410,D,2012-06-04 16:43:40,2012-05-31,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",M - OptEx,$9.13,72020,79485,+965%,"+$657,371",2.0,-4.0,-9.0,-23.0,HSKA
+411,D,2012-05-18 18:40:45,2012-05-18,HSKA,Aylesworth William A,Dir,M - OptEx,$7.85,317,29997,+1%,"+$2,488",0.0,0.0,-4.0,-32.0,HSKA
+412,D,2012-05-18 16:22:27,2012-05-16,HSKA,Gordon G Irwin,Dir,M - OptEx,$8.97,6463,6157,-2112%,"+$57,958",0.0,0.0,-4.0,-32.0,HSKA
+413,D,2012-04-27 17:10:54,2012-04-25,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",M - OptEx,$9.77,12596,66287,+23%,"+$123,099",1.0,0.0,-3.0,-27.0,HSKA
+414,D,2012-03-30 14:02:18,2012-03-28,HSKA,Wisnewski Nancy,"EVP, Prod. Dev., Cust. Supp",M - OptEx,$3.40,1500,6974,+27%,"+$5,100",1.0,1.0,11.0,-18.0,HSKA
+415,D,2012-03-30 13:57:01,2012-03-28,HSKA,Sasen John F,Dir,M - OptEx,$8.59,386,8859,+5%,"+$3,315",1.0,1.0,11.0,-18.0,HSKA
+416,D,2012-03-29 16:47:11,2012-03-27,HSKA,Gordon G Irwin,Dir,M - OptEx,$8.15,520,4220,+14%,"+$4,238",1.0,2.0,10.0,-18.0,HSKA
+417,D,2012-03-29 16:46:57,2012-03-27,HSKA,Bent Michael A,"VPActg. Officer, Controller",F - Tax,$11.50,-2238,5499,-29%,"-$25,737",1.0,2.0,10.0,-18.0,HSKA
+418,D,2012-03-29 16:46:57,2012-03-27,HSKA,Bent Michael A,"VPActg. Officer, Controller",M - OptEx,$9.90,2600,5499,+90%,"+$25,740",1.0,2.0,10.0,-18.0,HSKA
+419,AD,2012-03-29 16:39:36,2012-03-26,HSKA,McGinley Michael J,"Pres, COO",M - OptEx,$6.17,18663,13773,-382%,"+$115,205",1.0,2.0,10.0,-18.0,HSKA
+420,D,2012-03-28 17:35:07,2012-03-26,HSKA,Aylesworth William A,Dir,M - OptEx,$10.80,40,29680,0%,+$432,0.0,2.0,6.0,-18.0,HSKA
+421,D,2012-03-28 17:34:00,2012-03-26,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",F - Tax,$11.78,-2971,64724,-4%,"-$34,998",0.0,2.0,6.0,-18.0,HSKA
+422,D,2012-03-28 17:34:00,2012-03-26,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",M - OptEx,$7.00,5001,64724,+8%,"+$35,005",0.0,2.0,6.0,-18.0,HSKA
+423,D,2012-03-28 17:21:22,2012-03-26,HSKA,McGinley Michael J,"Pres, COO",F - Tax,$11.78,-4890,49169,-9%,"-$57,604",0.0,2.0,6.0,-18.0,HSKA
+424,D,2012-03-28 17:21:22,2012-03-26,HSKA,McGinley Michael J,"Pres, COO",M - OptEx,$4.18,13773,49169,+39%,"+$57,601",0.0,2.0,6.0,-18.0,HSKA
+425,D,2012-03-28 17:13:17,2012-03-26,HSKA,Grieve Robert B,CEO,F - Tax,$11.78,-30141,85017,-26%,"-$355,061",0.0,2.0,6.0,-18.0,HSKA
+426,D,2012-03-28 17:13:17,2012-03-26,HSKA,Grieve Robert B,CEO,M - OptEx,$4.37,54385,85017,+178%,"+$237,861",0.0,2.0,6.0,-18.0,HSKA
+427,D,2012-03-06 16:30:22,2012-03-02,HSKA,Sasen John F,Dir,M - OptEx,$6.90,4481,8473,+112%,"+$30,927",0.0,9.0,5.0,-28.0,HSKA
+428,D,2012-03-06 16:20:20,2012-03-02,HSKA,Eio Peter,Dir,M - OptEx,$4.92,4204,6204,+210%,"+$20,695",0.0,9.0,5.0,-28.0,HSKA
+429,,2012-03-02 16:25:36,2012-02-29,HSKA,Zachara Claudine,"VP, Marketing",P - Purchase,$9.75,200,220,>999%,"+$1,950",5.0,19.0,13.0,-22.0,HSKA
+430,M,2012-03-01 18:24:55,2012-02-15,HSKA,"Cmc Master Fund, L.P.",10%,S - Sale,$8.15,-200000,579045,-26%,"-$1,630,102",3.0,12.0,16.0,-19.0,HSKA
+431,,2012-03-01 16:25:44,2012-02-28,HSKA,Riley Sharon L.,Dir,P - Purchase,$9.37,1000,1000,New,"+$9,370",3.0,12.0,16.0,-19.0,HSKA
+432,,2012-03-01 16:25:32,2012-02-28,HSKA,Grieve Robert B,CEO,P - Purchase,$9.64,300,60776,0%,"+$2,893",3.0,12.0,16.0,-19.0,HSKA
+433,D,2012-03-01 16:25:08,2012-02-28,HSKA,Aylesworth William A,Dir,M - OptEx,$6.75,4640,29640,+19%,"+$31,302",3.0,12.0,16.0,-19.0,HSKA
+434,,2012-02-29 16:18:29,2012-02-27,HSKA,Grieve Robert B,CEO,P - Purchase,$9.10,300,60476,0%,"+$2,730",1.0,13.0,16.0,-18.0,HSKA
+435,,2012-02-28 16:28:21,2012-02-24,HSKA,Grieve Robert B,CEO,P - Purchase,$9.38,425,60176,+1%,"+$3,985",-2.0,8.0,17.0,-22.0,HSKA
+436,,2011-08-08 14:04:23,2011-08-04,HSKA,Aylesworth William A,Dir,P - Purchase,$9.85,690,25000,+3%,"+$6,796",0.0,-4.0,-5.0,-17.0,HSKA
+437,,2011-08-05 16:36:35,2011-08-03,HSKA,Aylesworth William A,Dir,P - Purchase,$10.00,800,24310,+3%,"+$7,999",0.0,-3.0,-5.0,-17.0,HSKA
+438,,2011-08-03 15:12:57,2011-08-02,HSKA,Aylesworth William A,Dir,P - Purchase,$9.71,510,23510,+2%,"+$4,952",0.0,0.0,-9.0,-21.0,HSKA
+439,,2011-05-26 13:54:26,2011-05-24,HSKA,Aylesworth William A,Dir,P - Purchase,$9.08,180,23000,+1%,"+$1,634",1.0,-1.0,8.0,-24.0,HSKA
+440,,2011-05-24 15:38:01,2011-05-20,HSKA,Aylesworth William A,Dir,P - Purchase,$8.83,600,22820,+3%,"+$5,295",-2.0,1.0,7.0,-14.0,HSKA
+441,,2011-05-20 12:20:14,2011-05-18,HSKA,Aylesworth William A,Dir,P - Purchase,$8.60,1295,22220,+6%,"+$11,136",4.0,8.0,9.0,-11.0,HSKA
+442,,2011-05-19 16:35:34,2011-05-17,HSKA,Aylesworth William A,Dir,P - Purchase,$8.45,925,20925,+5%,"+$7,816",4.0,7.0,11.0,-12.0,HSKA
+443,,2010-11-22 17:13:02,2010-11-22,HSKA,Aylesworth William A,Dir,P - Purchase,$0.44,42800,200000,+27%,"+$18,830",2.0,-2.0,-5.0,106.0,HSKA
+444,M,2010-11-22 15:52:33,2010-11-18,HSKA,Aylesworth William A,Dir,P - Purchase,$0.44,57200,157200,+57%,"+$25,214",5.0,2.0,0.0,110.0,HSKA
+445,,2010-06-01 15:39:26,2010-05-27,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$0.70,5000,616948,+1%,"+$3,500",7.0,4.0,-4.0,-30.0,HSKA
+446,,2010-05-27 13:31:40,2010-05-25,HSKA,Aylesworth William A,Dir,P - Purchase,$0.59,1900,100000,+2%,"+$1,119",6.0,11.0,0.0,-28.0,HSKA
+447,,2010-05-26 16:30:26,2010-05-24,HSKA,Aylesworth William A,Dir,P - Purchase,$0.67,3000,98100,+3%,"+$2,010",6.0,8.0,5.0,-31.0,HSKA
+448,,2010-05-25 16:42:25,2010-05-21,HSKA,Aylesworth William A,Dir,P - Purchase,$0.71,4000,95100,+4%,"+$2,820",5.0,15.0,5.0,-28.0,HSKA
+449,,2010-05-21 16:22:54,2010-05-20,HSKA,Grieve Robert B,CEO,P - Purchase,$0.77,6500,597533,+1%,"+$5,005",-4.0,2.0,-4.0,-34.0,HSKA
+450,M,2010-05-21 16:22:42,2010-05-19,HSKA,Aylesworth William A,Dir,P - Purchase,$0.72,4000,91100,+5%,"+$2,870",-4.0,2.0,-4.0,-34.0,HSKA
+451,,2010-05-20 12:47:41,2010-05-18,HSKA,Aylesworth William A,Dir,P - Purchase,$0.74,2000,87100,+2%,"+$1,480",-1.0,-13.0,-9.0,-43.0,HSKA
+452,,2010-05-19 14:32:19,2010-05-17,HSKA,McCormick Louise L.,Dir,P - Purchase,$0.79,12000,72000,+20%,"+$9,455",-2.0,-19.0,-10.0,-42.0,HSKA
+453,,2010-05-19 14:31:52,2010-05-17,HSKA,Aylesworth William A,Dir,P - Purchase,$0.75,1400,85100,+2%,"+$1,052",-2.0,-19.0,-10.0,-42.0,HSKA
+454,,2010-05-18 13:42:37,2010-05-14,HSKA,Aylesworth William A,Dir,P - Purchase,$0.79,1600,83700,+2%,"+$1,258",4.0,-12.0,-14.0,-41.0,HSKA
+455,,2010-05-17 16:38:29,2010-05-13,HSKA,Aylesworth William A,Dir,P - Purchase,$0.73,600,82100,+1%,+$438,4.0,-7.0,-12.0,-36.0,HSKA
+456,,2010-05-14 12:32:00,2010-05-12,HSKA,Aylesworth William A,Dir,P - Purchase,$0.73,1000,81500,+1%,+$730,1.0,-8.0,-20.0,-44.0,HSKA
+457,,2010-05-13 15:34:39,2010-05-11,HSKA,Aylesworth William A,Dir,P - Purchase,$0.74,500,80500,+1%,+$370,8.0,1.0,-12.0,-36.0,HSKA
+458,,2010-03-02 11:13:16,2010-02-26,HSKA,Aylesworth William A,Dir,P - Purchase,$0.71,18000,80000,+29%,"+$12,710",6.0,22.0,8.0,-44.0,HSKA
+459,,2010-03-01 14:11:14,2010-02-26,HSKA,Sasen John F,Dir,P - Purchase,$0.70,5000,39923,+14%,"+$3,500",8.0,35.0,17.0,-39.0,HSKA
+460,,2010-03-01 14:11:00,2010-02-26,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$0.78,1000,611948,0%,+$780,8.0,35.0,17.0,-39.0,HSKA
+461,,2010-02-26 15:17:22,2010-02-25,HSKA,Grieve Robert B,CEO,P - Purchase,$0.65,15000,591033,+3%,"+$9,750",3.0,33.0,21.0,-36.0,HSKA
+462,,2010-02-26 15:17:07,2010-02-25,HSKA,McGinley Michael J,"Pres, COO",P - Purchase,$0.65,12290,40287,+44%,"+$7,989",3.0,33.0,21.0,-36.0,HSKA
+463,,2010-02-26 15:16:57,2010-02-25,HSKA,Aylesworth William A,Dir,P - Purchase,$0.69,11000,62000,+22%,"+$7,601",3.0,33.0,21.0,-36.0,HSKA
+464,,2010-02-26 15:16:47,2010-02-25,HSKA,Bent Michael A,"VPActg. Officer, Controller",P - Purchase,$0.70,3000,43873,+7%,"+$2,099",3.0,33.0,21.0,-36.0,HSKA
+465,,2010-02-26 15:16:35,2010-02-25,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$0.70,750,610948,0%,+$525,3.0,33.0,21.0,-36.0,HSKA
+466,,2010-02-25 16:44:30,2010-02-24,HSKA,Aylesworth William A,Dir,P - Purchase,$0.69,11000,51000,+28%,"+$7,593",3.0,27.0,20.0,-36.0,HSKA
+467,,2010-02-25 16:44:10,2010-02-24,HSKA,Gordon G Irwin,Dir,P - Purchase,$0.70,10000,37000,+37%,"+$6,998",3.0,27.0,20.0,-36.0,HSKA
+468,,2010-02-25 16:43:31,2010-02-24,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$0.69,10000,610198,+2%,"+$6,900",3.0,27.0,20.0,-36.0,HSKA
+469,,2009-09-04 15:30:13,2009-08-25,HSKA,Pacific Coast Investors Ltd,10%,S - Sale,$0.00,-7790466,0,-100%,-$0,-8.0,16.0,-2.0,111.0,HSKA
+470,,2008-11-28 14:46:55,2008-11-25,HSKA,McCormick Louise L.,Dir,P - Purchase,$0.24,55000,60000,>999%,"+$13,365",11.0,-7.0,-18.0,39.0,HSKA
+471,,2008-11-28 14:46:42,2008-11-25,HSKA,Flanders John R,"VP, GC",P - Purchase,$0.23,15000,32500,+86%,"+$3,450",11.0,-7.0,-18.0,39.0,HSKA
+472,,2008-11-19 16:27:39,2008-11-17,HSKA,Grieve Robert B,CEO,P - Purchase,$0.30,133000,576033,+30%,"+$40,100",-11.0,-32.0,-12.0,15.0,HSKA
+473,,2008-11-14 17:18:23,2008-11-13,HSKA,Grieve Robert B,CEO,P - Purchase,$0.24,1000,443033,0%,+$235,-6.0,-15.0,-22.0,15.0,HSKA
+474,M,2008-11-14 17:18:11,2008-11-13,HSKA,Aylesworth William A,Dir,P - Purchase,$0.26,20000,40000,+100%,"+$5,185",-6.0,-15.0,-22.0,15.0,HSKA
+475,,2008-11-14 17:17:58,2008-11-12,HSKA,Flanders John R,"VP, GC",P - Purchase,$0.21,10000,17500,+133%,"+$2,100",-6.0,-15.0,-22.0,15.0,HSKA
+476,D,2008-10-01 18:46:14,2008-10-01,HSKA,Sasen John F,Dir,M - OptEx,$0.45,2600,34923,+8%,"+$1,162",-4.0,-14.0,-30.0,-57.0,HSKA
+477,D,2008-07-01 18:27:47,2008-07-01,HSKA,Sasen John F,Dir,M - OptEx,$1.11,6192,32323,+24%,"+$6,875",-9.0,5.0,-9.0,-78.0,HSKA
+478,D,2008-04-01 18:36:32,2008-04-01,HSKA,Sasen John F,Dir,M - OptEx,$1.50,5834,26131,+29%,"+$8,751",-6.0,-6.0,-1.0,-53.0,HSKA
+479,,2008-02-29 14:50:20,2008-02-29,HSKA,Sasen John F,Dir,P - Purchase,$1.61,2000,20297,+11%,"+$3,220",-10.0,-4.0,-4.0,-39.0,HSKA
+480,D,2008-01-03 17:58:43,2008-01-01,HSKA,Sasen John F,Dir,M - OptEx,$1.77,3531,18297,+24%,"+$6,250",-8.0,0.0,-11.0,-47.0,HSKA
+481,,2007-11-16 14:52:15,2007-11-15,HSKA,Eio Peter,Dir,P - Purchase,$2.05,10000,20000,+100%,"+$20,500",-2.0,2.0,-18.0,-25.0,HSKA
+482,,2007-11-13 10:49:48,2007-11-09,HSKA,Aylesworth William A,Dir,P - Purchase,$2.00,10000,20000,+100%,"+$20,000",-1.0,-6.0,-13.0,-29.0,HSKA
+483,D,2007-10-02 18:48:18,2007-10-01,HSKA,Sasen John F,Dir,M - OptEx,$1.78,3502,14766,+31%,"+$6,250",0.0,-3.0,7.0,-34.0,HSKA
+484,,2007-08-27 16:36:49,2007-08-23,HSKA,Snodgrass Gerald L,"VP, Sales",S - Sale,$2.05,-4090,0,-100%,"-$8,393",0.0,-1.0,2.0,-19.0,HSKA
+485,,2007-08-01 16:06:26,2007-07-31,HSKA,Grieve Robert B,CEO,P - Purchase,$1.89,2000,439533,0%,"+$3,780",14.0,8.0,8.0,-1.0,HSKA
+486,,2007-08-01 16:06:07,2007-07-31,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$2.00,1000,589151,0%,"+$1,998",14.0,8.0,8.0,-1.0,HSKA
+487,,2007-08-01 16:05:36,2007-07-30,HSKA,Flanders John R,"VP, GC",P - Purchase,$2.09,2500,5000,+100%,"+$5,213",14.0,8.0,8.0,-1.0,HSKA
+488,D,2007-07-02 18:09:50,2007-07-02,HSKA,Sasen John F,Dir,M - OptEx,$2.00,3118,11264,+38%,"+$6,250",3.0,16.0,-23.0,-25.0,HSKA
+489,DM,2007-05-15 15:48:21,2007-05-11,HSKA,Snodgrass Gerald L,"VP, Sales",M - OptEx,$0.99,64283,2500,-104%,"+$63,648",-4.0,-8.0,-5.0,-10.0,HSKA
+490,DM,2007-05-15 15:48:21,2007-05-11,HSKA,Snodgrass Gerald L,"VP, Sales",S - Sale+OE,$2.27,-53717,2500,-96%,"-$122,105",-4.0,-8.0,-5.0,-10.0,HSKA
+491,D,2007-04-04 15:40:54,2007-04-02,HSKA,Sasen John F,Dir,M - OptEx,$1.58,3170,8146,+64%,"+$5,000",1.0,1.0,35.0,29.0,HSKA
+492,D,2007-01-16 16:46:55,2007-01-04,HSKA,Sasen John F,Dir,M - OptEx,$1.68,2976,4976,+149%,"+$5,000",2.0,-2.0,-2.0,62.0,HSKA
+493,,2006-12-04 16:28:58,2006-11-30,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.67,1000,586013,0%,"+$1,670",-1.0,0.0,1.0,22.0,HSKA
+494,,2006-11-30 12:52:03,2006-11-28,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.60,1000,585013,0%,"+$1,595",7.0,8.0,6.0,38.0,HSKA
+495,,2006-11-30 12:51:19,2006-11-28,HSKA,Grieve Robert B,CEO,P - Purchase,$1.62,1000,433284,0%,"+$1,620",7.0,8.0,6.0,38.0,HSKA
+496,,2006-11-29 16:13:55,2006-11-27,HSKA,Gordon G Irwin,Dir,P - Purchase,$1.75,10000,27000,+59%,"+$17,450",8.0,7.0,12.0,37.0,HSKA
+497,,2006-11-29 16:13:26,2006-11-27,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.67,1000,584013,0%,"+$1,670",8.0,7.0,12.0,37.0,HSKA
+498,,2006-11-21 11:21:01,2006-11-17,HSKA,Aylesworth William A,Dir,P - Purchase,$1.68,4000,10000,+67%,"+$6,700",2.0,-7.0,-3.0,23.0,HSKA
+499,,2006-11-20 17:19:40,2006-11-16,HSKA,Aylesworth William A,Dir,P - Purchase,$1.58,3000,6000,+100%,"+$4,740",2.0,-3.0,-4.0,22.0,HSKA
+500,,2006-11-16 17:26:52,2006-11-15,HSKA,Aylesworth William A,Dir,P - Purchase,$1.58,3000,3000,New,"+$4,742",3.0,3.0,-4.0,26.0,HSKA
+501,,2006-08-30 15:52:38,2006-08-28,HSKA,Grieve Robert B,CEO,P - Purchase,$1.55,1000,432284,0%,"+$1,550",7.0,12.0,2.0,1.0,HSKA
+502,,2006-08-30 15:52:15,2006-08-28,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.54,845,583013,0%,"+$1,301",7.0,12.0,2.0,1.0,HSKA
+503,,2006-08-21 10:31:29,2006-08-17,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.40,1000,582168,0%,"+$1,400",-4.0,9.0,15.0,18.0,HSKA
+504,,2006-08-18 10:05:32,2006-08-16,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.43,1000,581168,0%,"+$1,430",1.0,12.0,19.0,16.0,HSKA
+505,,2006-08-17 15:52:19,2006-08-17,HSKA,Grieve Robert B,CEO,P - Purchase,$1.41,1000,431284,0%,"+$1,410",-1.0,9.0,14.0,18.0,HSKA
+506,,2006-08-17 09:54:44,2006-08-15,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.44,1000,580168,0%,"+$1,440",-1.0,9.0,14.0,18.0,HSKA
+507,,2006-08-16 16:44:41,2006-08-16,HSKA,Grieve Robert B,CEO,P - Purchase,$1.41,1000,430284,0%,"+$1,410",-1.0,2.0,15.0,15.0,HSKA
+508,,2006-08-10 13:15:46,2006-08-08,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.40,1000,579168,0%,"+$1,400",1.0,4.0,38.0,22.0,HSKA
+509,,2006-08-08 10:19:24,2006-08-04,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.30,1000,578168,0%,"+$1,300",3.0,4.0,33.0,20.0,HSKA
+510,,2006-08-07 11:18:41,2006-08-03,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.31,1000,577168,0%,"+$1,310",2.0,5.0,29.0,22.0,HSKA
+511,D,2006-03-30 17:58:51,2006-03-29,HSKA,Stevenson Lynnor B,Dir,M - OptEx,$1.11,5805,330124,+2%,"+$6,438",1.0,-5.0,-7.0,28.0,HSKA
+512,D,2006-03-01 17:28:27,2006-02-27,HSKA,Stevenson Lynnor B,Dir,M - OptEx,$0.82,64057,324319,+25%,"+$52,249",3.0,19.0,-14.0,9.0,HSKA
+513,,2005-11-14 12:51:34,2005-11-11,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.19,500,568668,0%,+$595,3.0,-3.0,10.0,-8.0,HSKA
+514,M,2005-11-07 09:13:31,2005-11-03,HSKA,Grieve Robert B,CEO,S - Sale,$1.30,-118120,433584,-21%,"-$153,773",-2.0,-7.0,-3.0,-16.0,HSKA
+515,,2005-10-31 15:01:48,2005-10-28,HSKA,Gordon G Irwin,Dir,P - Purchase,$1.03,2000,17000,+13%,"+$2,050",11.0,29.0,20.0,9.0,HSKA
+516,,2005-10-28 16:18:26,2005-10-28,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.02,3000,562148,+1%,"+$3,070",11.0,28.0,14.0,7.0,HSKA
+517,,2005-10-28 14:51:43,2005-10-27,HSKA,Sasen John F,Dir,P - Purchase,$1.08,2000,2000,New,"+$2,160",-2.0,26.0,12.0,5.0,HSKA
+518,,2005-10-26 17:12:50,2005-10-26,HSKA,Stevenson Lynnor B,Dir,P - Purchase,$1.02,2000,260262,+1%,"+$2,040",2.0,24.0,14.0,13.0,HSKA
+519,,2005-10-26 17:12:32,2005-10-26,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.00,6500,559148,+1%,"+$6,511",2.0,24.0,14.0,13.0,HSKA
+520,,2005-10-03 16:32:01,2005-10-01,HSKA,Grieve Robert B,CEO,F - Tax,$0.89,-63139,551704,-10%,"-$56,194",2.0,-5.0,24.0,26.0,HSKA
+521,D,2005-09-21 15:59:40,2005-09-20,HSKA,Verser Carol Talkington,"Exec.VP Intel Prop, Bus Dev",X - OptEx,$0.35,20000,58352,-26%,"$7,000",0.0,7.0,51.0,91.0,HSKA
+522,,2005-09-02 16:02:51,2005-08-31,HSKA,Eio Peter,Dir,P - Purchase,$0.75,10000,10000,New,"+$7,500",1.0,6.0,30.0,134.0,HSKA
+523,,2005-08-31 16:17:13,2005-08-30,HSKA,Demarse Elisabeth H,Dir,P - Purchase,$0.70,2500,2500,New,"+$1,750",-5.0,-7.0,25.0,101.0,HSKA
+524,,2005-08-31 16:16:54,2005-08-29,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$0.75,1000,552648,0%,+$750,-5.0,-7.0,25.0,101.0,HSKA
+525,,2005-08-25 15:37:36,2005-08-24,HSKA,Gordon G Irwin,Dir,P - Purchase,$0.75,10000,15000,+200%,"+$7,451",4.0,4.0,6.0,96.0,HSKA
+526,,2005-08-22 16:27:42,2005-08-22,HSKA,Stevenson Lynnor B,Dir,P - Purchase,$0.79,5000,258262,+2%,"+$3,925",0.0,-5.0,-5.0,77.0,HSKA
+527,D,2005-06-02 18:06:42,2005-05-31,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",X - OptEx,$0.65,151622,551648,-22%,"$99,295",0.0,-1.0,-16.0,65.0,HSKA
+528,,2005-05-20 17:18:11,2005-05-20,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$0.81,1400,400026,0%,"+$1,134",-4.0,-7.0,-11.0,48.0,HSKA
+529,,2005-05-19 17:00:07,2005-05-19,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$0.83,17500,398626,+5%,"+$14,506",0.0,-7.0,-10.0,53.0,HSKA
+530,,2005-05-18 18:09:12,2005-05-18,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$0.78,17000,381126,+5%,"+$13,330",-1.0,-4.0,-9.0,56.0,HSKA
+531,D,2005-05-18 18:09:03,2005-05-18,HSKA,Grieve Robert B,CEO,F - Tax,$0.81,-22037,614843,-3%,"-$17,850",-1.0,-4.0,-9.0,56.0,HSKA
+532,D,2005-05-18 18:09:03,2005-05-18,HSKA,Grieve Robert B,CEO,M - OptEx,$0.35,51000,614843,+9%,"+$17,850",-1.0,-4.0,-9.0,56.0,HSKA
+533,,2005-05-17 16:01:58,2005-05-17,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$0.75,1000,364126,0%,+$747,7.0,3.0,-1.0,62.0,HSKA
+534,D,2005-04-14 17:39:23,2005-04-13,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",X - OptEx,$0.70,1000,363126,0%,$700,0.0,12.0,6.0,26.0,HSKA
+535,D,2005-04-14 09:49:53,2005-04-12,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",X - OptEx,$0.70,1000,362126,0%,$700,-8.0,4.0,-1.0,18.0,HSKA
+536,D,2005-04-13 09:52:28,2005-04-11,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",X - OptEx,$0.70,1000,361126,0%,$700,0.0,-3.0,11.0,18.0,HSKA
+537,D,2005-04-13 09:52:16,2005-04-11,HSKA,Grieve Robert B,CEO,X - OptEx,$0.35,1004,585880,0%,$351,0.0,-3.0,11.0,18.0,HSKA
+538,D,2005-04-12 11:42:01,2005-04-08,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",X - OptEx,$0.70,1000,360126,0%,$700,-5.0,-13.0,-1.0,9.0,HSKA
+539,D,2005-04-11 12:36:55,2005-04-07,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",X - OptEx,$0.70,1122,358126,0%,$785,1.0,-11.0,1.0,8.0,HSKA
+540,D,2005-04-11 12:36:36,2005-04-07,HSKA,Grieve Robert B,CEO,X - OptEx,$0.35,1000,583876,0%,$350,1.0,-11.0,1.0,8.0,HSKA
+541,D,2005-04-08 11:55:07,2005-04-06,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",X - OptEx,$0.70,1000,358004,0%,$700,-2.0,-14.0,-9.0,14.0,HSKA
+542,D,2005-04-08 11:54:25,2005-04-06,HSKA,Grieve Robert B,CEO,X - OptEx,$0.35,1000,583876,0%,$350,-2.0,-14.0,-9.0,14.0,HSKA
+543,D,2005-04-07 16:09:03,2005-04-05,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",X - OptEx,$0.70,1004,357004,0%,$703,-2.0,-6.0,-2.0,15.0,HSKA
+544,D,2005-04-07 16:04:36,2005-04-05,HSKA,Grieve Robert B,CEO,X - OptEx,$0.35,1000,582876,0%,$350,-2.0,-6.0,-2.0,15.0,HSKA
+545,D,2005-04-06 09:29:41,2005-04-04,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",X - OptEx,$0.34,1000,356000,0%,$340,8.0,0.0,9.0,20.0,HSKA
+546,,2004-12-15 17:47:13,2004-11-22,HSKA,Stevenson Lynnor B,Dir,P - Purchase,$1.15,5000,253262,+2%,"+$5,750",-3.0,5.0,-6.0,-32.0,HSKA
+547,D,2004-11-30 16:10:58,2004-11-30,HSKA,Stinchcomb Dan T,"Exec. VP, Research, Dev.",M - OptEx,$0.34,19250,6149,-147%,"+$6,545",7.0,2.0,13.0,-26.0,HSKA
+548,DM,2004-11-30 16:10:58,2004-11-29,HSKA,Stinchcomb Dan T,"Exec. VP, Research, Dev.",S - Sale+OE,$1.10,-39250,6149,-86%,"-$43,248",7.0,2.0,13.0,-26.0,HSKA
+549,,2004-11-30 16:10:44,2004-11-30,HSKA,Grieve Robert B,CEO,G - Gift,$0.00,-42500,581876,+8%,-$0,7.0,2.0,13.0,-26.0,HSKA
+550,,2004-06-02 20:15:38,2003-08-31,HSKA,"Charter Ventures Ii, L.P.",10%,S - Sale,$0.00,-8414717,0,-100%,-$0,-1.0,-4.0,-20.0,-34.0,HSKA
+551,M,2004-06-01 16:16:14,2004-05-28,HSKA,Gordon G Irwin,Dir,P - Purchase,$1.49,5000,5000,New,"+$7,465",5.0,-1.0,-18.0,-23.0,HSKA
+552,,2004-05-24 19:38:34,2003-08-31,HSKA,Dolan A Barr,"Dir, 10%",P - Purchase,$0.00,8414717,8414717,New,+$0,2.0,0.0,-7.0,-23.0,HSKA
+553,,2004-05-24 19:38:34,2003-08-31,HSKA,Dolan A Barr,"Dir, 10%",S - Sale,$0.00,-8414717,8414717,-50%,-$0,2.0,0.0,-7.0,-23.0,HSKA
+554,A,2004-03-02 15:35:50,2003-08-15,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.13,17000,328200,+5%,"+$19,293",0.0,-6.0,-22.0,-49.0,HSKA
+555,,2004-03-02 15:35:35,2004-02-27,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$2.88,1000,352500,0%,"+$2,880",0.0,-6.0,-22.0,-49.0,HSKA
+556,D,2004-03-01 15:09:04,2004-02-27,HSKA,Stinchcomb Dan T,"Exec. VP, Research, Dev.",M - OptEx,$0.34,5750,26149,+28%,"+$1,955",-2.0,-2.0,-23.0,-46.0,HSKA
+557,D,2004-03-01 15:09:04,2004-02-27,HSKA,Stinchcomb Dan T,"Exec. VP, Research, Dev.",S - Sale+OE,$2.34,-750,26149,-3%,"-$1,755",-2.0,-2.0,-23.0,-46.0,HSKA
+558,,2003-11-24 16:03:02,2003-11-24,HSKA,Grieve Robert B,CEO,G - Gift,$0.00,-2500,578576,0%,-$0,6.0,-5.0,-21.0,-55.0,HSKA
+559,,2003-08-25 12:39:28,2003-08-22,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.29,5300,346500,+2%,"+$6,837",6.0,13.0,47.0,90.0,HSKA
+560,,2003-08-25 10:34:09,2003-08-22,HSKA,Grieve Robert B,CEO,P - Purchase,$1.30,2000,581076,0%,"+$2,600",6.0,13.0,47.0,90.0,HSKA
+561,,2003-08-22 15:44:17,2003-08-13,HSKA,Grieve Robert B,CEO,G - Gift,$0.00,-52375,579076,+10%,-$0,1.0,15.0,49.0,95.0,HSKA
+562,D,2003-08-22 12:31:01,2003-08-22,HSKA,Stevenson Lynnor B,Dir,M - OptEx,$1.03,485,248262,0%,+$500,1.0,15.0,49.0,95.0,HSKA
+563,,2003-08-20 16:19:50,2003-08-19,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.18,13000,341200,+4%,"+$15,340",4.0,13.0,61.0,108.0,HSKA
+564,,2003-08-19 15:05:49,2003-08-15,HSKA,Stevenson Lynnor B,Dir,P - Purchase,$1.14,5000,247777,+2%,"+$5,700",7.0,20.0,67.0,125.0,HSKA
+565,,2003-08-19 11:44:45,2003-08-15,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.13,17000,328200,+5%,"+$19,293",7.0,20.0,67.0,125.0,HSKA
+566,,2003-08-15 12:51:18,2003-08-14,HSKA,Napolitano Jason A,"EVP, CFO, Secretary",P - Purchase,$1.10,15100,311200,+5%,"+$16,565",6.0,19.0,75.0,140.0,HSKA

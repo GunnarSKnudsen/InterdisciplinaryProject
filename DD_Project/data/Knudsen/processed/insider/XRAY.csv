@@ -1,35 +1,1232 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,,2021-12-02 16:08:45,2021-12-01,XRAY,Casey Donald M Jr.,"Pres, CEO",P - Purchase,49.78,20000,270027,+8%,995600.0,,,,,XRAY
-1,D,2021-11-23 13:50:34,2021-11-19,XRAY,Yankie Lisa,"SVP, CHRO",S - Sale+OE,52.63,-1903,21825,-8%,-100155.0,,,,,XRAY
-2,D,2021-11-19 16:28:04,2021-11-17,XRAY,Petersohn Walter,Chief Commercial Officer,S - Sale+OE,54.18,-86431,25740,-77%,-4682610.0,,,,,XRAY
-3,,2021-05-26 16:47:56,2021-05-25,XRAY,Alfano Michael C,Dir,S - Sale,67.49,-4500,9358,-32%,-303705.0,,,,,XRAY
-4,D,2021-05-26 16:42:56,2021-05-25,XRAY,Petersohn Walter,Chief Commercial Officer,S - Sale+OE,67.4,-17425,47285,-27%,-1174366.0,,,,,XRAY
-5,D,2021-03-19 16:20:01,2021-03-17,XRAY,Brandt Eric,Dir,S - Sale+OE,63.21,-7600,35931,-17%,-480373.0,,,,,XRAY
-6,,2021-03-05 19:35:23,2021-03-04,XRAY,Alfano Michael C,Dir,S - Sale,58.99,-1850,13850,-12%,-109122.0,,,,,XRAY
-7,D,2021-03-05 17:44:29,2021-03-04,XRAY,Lunger Francis J,Dir,S - Sale+OE,59.05,-7600,25264,-23%,-448742.0,,,,,XRAY
-8,A,2021-03-05 16:33:33,2021-03-04,XRAY,Lucier Gregory T,Dir,P - Purchase,58.75,9000,27142,+50%,528752.0,,,,,XRAY
-9,,2021-03-04 16:11:28,2021-03-04,XRAY,Lucier Gregory T,Dir,P - Purchase,58.95,5000,23142,+28%,294750.0,,,,,XRAY
-10,D,2020-11-24 16:05:27,2020-11-23,XRAY,Deese Willie A,Dir,S - Sale+OE,50.5,-10100,19977,-34%,-510060.0,,,,,XRAY
-11,D,2020-11-18 16:04:39,2020-11-17,XRAY,Alfano Michael C,Dir,S - Sale+OE,48.13,-7600,15691,-33%,-365750.0,,,,,XRAY
-12,,2020-06-05 16:09:23,2020-06-04,XRAY,Newell William E,Chief Segment Officer,S - Sale,48.23,-10000,19768,-34%,-482290.0,,,,,XRAY
-13,,2020-06-01 16:06:37,2020-05-29,XRAY,Alfano Michael C,Dir,S - Sale,46.27,-2500,15669,-14%,-115675.0,,,,,XRAY
-14,D,2020-05-05 16:18:07,2020-05-04,XRAY,Brandt Eric,Dir,S - Sale+OE,39.47,-8900,28687,-24%,-351283.0,,,,,XRAY
-15,D,2019-11-13 20:24:31,2019-11-12,XRAY,Alfano Michael C,Dir,S - Sale+OE,56.27,-10665,13388,-44%,-600110.0,,,,,XRAY
-16,D,2019-06-11 16:19:54,2019-06-10,XRAY,Macinnis Maureen J.,"SVP, CHRO",S - Sale+OE,56.06,-15000,14656,-51%,-840900.0,,,,,XRAY
-17,,2019-06-07 16:21:53,2019-06-06,XRAY,Holden Betsy D,Dir,P - Purchase,55.31,2720,9224,+42%,150439.0,,,,,XRAY
-18,,2019-05-30 16:12:23,2019-05-29,XRAY,Casey Donald M Jr.,"Pres, CEO",P - Purchase,53.68,10000,138131,+8%,536769.0,,,,,XRAY
-19,,2019-05-28 17:05:37,2019-05-24,XRAY,Alfano Michael C,Dir,S - Sale,53.77,-1898,10121,-16%,-102050.0,,,,,XRAY
-20,,2019-05-23 18:14:04,2019-05-23,XRAY,Lucier Gregory T,Dir,P - Purchase,53.6,10000,10000,New,536047.0,,,,,XRAY
-21,D,2019-05-20 17:02:23,2019-05-16,XRAY,Boehringer Markus,"SVP, EMEA RCO",S - Sale+OE,54.8,-22900,26949,-46%,-1254897.0,,,,,XRAY
-22,D,2019-05-13 16:19:18,2019-05-09,XRAY,Macinnis Maureen J.,"SVP, CHRO",S - Sale+OE,55.0,-54402,14656,-79%,-2992293.0,,,,,XRAY
-23,D,2019-05-13 16:17:54,2019-05-10,XRAY,Coleman Michael J,Dir,S - Sale+OE,54.9,-9160,34823,-21%,-502875.0,,,,,XRAY
-24,DM,2019-05-10 17:10:12,2019-05-08,XRAY,Newell William E,Chief Segment Officer,S - Sale+OE,54.68,-58000,16362,-78%,-3171475.0,,,,,XRAY
-25,D,2019-05-08 16:20:34,2019-05-07,XRAY,Boehringer Markus,"SVP, EMEA RCO",S - Sale+OE,54.83,-25300,26949,-48%,-1387199.0,,,,,XRAY
-26,,2019-05-07 16:28:14,2019-05-07,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",P - Purchase,54.68,3697,12721,+41%,202152.0,,,,,XRAY
-27,D,2019-05-06 16:08:53,2019-05-03,XRAY,Brandt Eric,Dir,S - Sale+OE,53.45,-9160,22243,-29%,-489602.0,,,,,XRAY
-28,D,2018-12-04 16:41:02,2018-12-03,XRAY,Boehringer Markus,"SVP, EMEA RCO",S - Sale+OE,37.86,-7373,28168,-21%,-279140.0,,,,,XRAY
-29,D,2018-06-04 17:03:25,2018-06-01,XRAY,Coleman Michael J,Dir,S - Sale+OE,43.97,-6038,34718,-15%,-265503.0,,,,,XRAY
-30,,2018-05-31 16:30:56,2018-05-30,XRAY,Alfano Michael C,Dir,S - Sale,45.83,-1404,13458,-9%,-64341.0,,,,,XRAY
-31,D,2018-05-11 16:03:34,2018-05-10,XRAY,Coleman Michael J,Dir,S - Sale+OE,46.66,-414,32836,-1%,-19316.0,,,,,XRAY
-32,,2018-05-09 16:53:35,2018-05-09,XRAY,Alexos Nicholas W,"EVP, CFO",P - Purchase,44.71,50000,125411,+66%,2235500.0,,,,,XRAY
-33,,2018-05-09 16:51:01,2018-05-09,XRAY,Casey Donald M Jr.,"Pres, CEO",P - Purchase,44.52,22500,114908,+24%,1001720.0,,,,,XRAY
+0,,2022-03-14 16:56:03,2022-03-11,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,48.77,1117,28652,+4%,54476.0,,,,,XRAY
+1,,2022-03-14 16:56:03,2022-03-11,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,48.77,-1122,28652,-4%,-54720.0,,,,,XRAY
+2,,2022-03-14 16:54:32,2022-03-11,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,48.77,429,30605,+1%,20922.0,,,,,XRAY
+3,,2022-03-14 16:54:32,2022-03-11,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",F - Tax,48.77,-1580,30605,-5%,-77057.0,,,,,XRAY
+4,,2022-03-14 16:53:15,2022-03-11,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,48.77,429,30276,+1%,20922.0,,,,,XRAY
+5,,2022-03-14 16:53:15,2022-03-11,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",F - Tax,48.77,-265,30276,-1%,-12924.0,,,,,XRAY
+6,,2022-03-14 16:51:37,2022-03-11,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,48.77,6867,267956,+3%,334904.0,,,,,XRAY
+7,,2022-03-14 16:51:37,2022-03-11,XRAY,Casey Donald M Jr.,"Pres, CEO",F - Tax,48.77,-6129,267956,-2%,-298911.0,,,,,XRAY
+8,D,2022-03-08 18:03:25,2022-03-04,XRAY,Johnson Cheree H,"SVP,Chief Legal Ofcr, GC,Sec",A - Grant,0.0,24860,24860,New,0.0,,,,,XRAY
+9,D,2022-03-08 16:39:12,2022-03-04,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,3401,24674,+16%,0.0,,,,,XRAY
+10,D,2022-03-08 16:39:12,2022-03-04,XRAY,Yankie Lisa,"SVP, CHRO",F - Tax,52.57,-670,24674,-3%,-35222.0,,,,,XRAY
+11,D,2022-03-08 16:37:47,2022-03-04,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,7153,17539,+69%,0.0,,,,,XRAY
+12,D,2022-03-08 16:37:47,2022-03-04,XRAY,Staehler Cord Friedrich,"SVP, CTO",F - Tax,52.57,-838,17539,-5%,-44054.0,,,,,XRAY
+13,D,2022-03-08 16:36:04,2022-03-04,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,4104,28657,+17%,0.0,,,,,XRAY
+14,D,2022-03-08 16:36:04,2022-03-04,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,52.57,-1201,28657,-4%,-63137.0,,,,,XRAY
+15,D,2022-03-08 16:22:15,2022-03-04,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,14892,161158,+10%,0.0,,,,,XRAY
+16,D,2022-03-08 16:22:15,2022-03-04,XRAY,Gomez Jorge M,"EVP, CFO",F - Tax,52.57,-2063,161158,-1%,-108452.0,,,,,XRAY
+17,D,2022-03-08 16:20:23,2022-03-04,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,3283,31756,+12%,0.0,,,,,XRAY
+18,D,2022-03-08 16:20:23,2022-03-04,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",F - Tax,52.57,-428,31756,-1%,-22500.0,,,,,XRAY
+19,D,2022-03-08 16:18:54,2022-03-04,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,3354,30112,+13%,0.0,,,,,XRAY
+20,D,2022-03-08 16:18:54,2022-03-04,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",F - Tax,52.57,-583,30112,-2%,-30648.0,,,,,XRAY
+21,D,2022-03-08 16:17:15,2022-03-04,XRAY,Chadha Ranjit S,Chief Accounting Officer,A - Grant,0.0,1173,2741,+75%,0.0,,,,,XRAY
+22,D,2022-03-08 16:17:15,2022-03-04,XRAY,Chadha Ranjit S,Chief Accounting Officer,F - Tax,52.57,-127,2741,-4%,-6676.0,,,,,XRAY
+23,D,2022-03-08 16:14:45,2022-03-04,XRAY,Casey Donald M Jr.,"Pres, CEO",F - Tax,52.57,-2861,267218,-1%,-150403.0,,,,,XRAY
+24,D,2022-03-08 16:13:18,2022-03-04,XRAY,Brackett Erania,"SVP, CMO",A - Grant,0.0,2345,4805,+95%,0.0,,,,,XRAY
+25,,2022-03-01 13:43:16,2022-01-14,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,6,30174,0%,0.0,,,,,XRAY
+26,D,2022-01-19 21:41:12,2022-01-14,XRAY,Brandt Eric,Dir,A - Grant,0.0,22,35126814,0%,0.0,,,,,XRAY
+27,D,2022-01-19 21:27:16,2022-01-14,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,13,21943,0%,0.0,,,,,XRAY
+28,,2022-01-19 21:03:27,2022-01-14,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,9,11224,0%,0.0,,,,,XRAY
+29,,2022-01-19 20:55:13,2022-01-14,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,14,25754,0%,0.0,,,,,XRAY
+30,D,2022-01-19 20:48:22,2022-01-14,XRAY,Key Daniel P,"SVP, Chief Supply Chain Office",A - Grant,0.0,15,35230,0%,0.0,,,,,XRAY
+31,D,2022-01-19 20:38:17,2022-01-14,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,79,148329,0%,0.0,,,,,XRAY
+32,D,2022-01-19 20:26:53,2022-01-14,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,16,28901,0%,0.0,,,,,XRAY
+33,D,2022-01-19 20:13:39,2022-01-14,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,9,27341,0%,0.0,,,,,XRAY
+34,,2022-01-19 19:42:23,2022-01-14,XRAY,Chadha Ranjit S,Chief Accounting Officer,A - Grant,0.0,3,1695,0%,0.0,,,,,XRAY
+35,D,2022-01-19 19:35:45,2022-01-14,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,52,217579,0%,0.0,,,,,XRAY
+36,,2022-01-19 19:22:28,2022-01-14,XRAY,Vergis Janet S.,Dir,A - Grant,0.0,6,9858,0%,0.0,,,,,XRAY
+37,,2022-01-19 19:14:58,2022-01-14,XRAY,Varon Leslie F,Dir,A - Grant,0.0,11,13484,0%,0.0,,,,,XRAY
+38,,2022-01-19 18:15:44,2022-01-14,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,6,136126,0%,0.0,,,,,XRAY
+39,,2022-01-19 18:02:08,2022-01-14,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,6,49165,0%,0.0,,,,,XRAY
+40,,2022-01-19 17:53:33,2022-01-14,XRAY,Hosein Clyde,Dir,A - Grant,0.0,12,6310,0%,0.0,,,,,XRAY
+41,,2022-01-19 17:24:05,2022-01-14,XRAY,Holden Betsy D,Dir,A - Grant,0.0,23,17216,0%,0.0,,,,,XRAY
+42,,2022-01-19 17:00:05,2022-01-14,XRAY,Deese Willie A,Dir,A - Grant,0.0,6,23018,0%,0.0,,,,,XRAY
+43,,2022-01-19 14:08:03,2022-01-14,XRAY,Brackett Erania,Dir,A - Grant,0.0,5,2460,0%,0.0,,,,,XRAY
+44,,2021-12-02 16:10:32,2021-11-19,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",G - Gift,0.0,-63588,78515,+426%,-0.0,,,,,XRAY
+45,,2021-12-02 16:08:45,2021-12-01,XRAY,Casey Donald M Jr.,"Pres, CEO",P - Purchase,49.78,20000,270027,+8%,995600.0,,,,,XRAY
+46,D,2021-11-23 13:50:34,2021-11-19,XRAY,Yankie Lisa,"SVP, CHRO",S - Sale+OE,52.63,-1903,21825,-8%,-100155.0,,,,,XRAY
+47,D,2021-11-19 16:28:04,2021-11-17,XRAY,Petersohn Walter,Chief Commercial Officer,M - OptEx,46.25,41616,25740,-262%,1924726.0,,,,,XRAY
+48,D,2021-11-19 16:28:04,2021-11-17,XRAY,Petersohn Walter,Chief Commercial Officer,S - Sale+OE,54.18,-86431,25740,-77%,-4682610.0,,,,,XRAY
+49,,2021-11-16 17:25:55,2021-11-12,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,733,27227,+3%,0.0,,,,,XRAY
+50,,2021-11-16 17:25:55,2021-11-12,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",F - Tax,54.93,-843,27227,-3%,-46306.0,,,,,XRAY
+51,,2021-11-15 16:07:18,2021-11-12,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",G - Gift,0.0,-64810,78515,+473%,-0.0,,,,,XRAY
+52,,2021-11-15 16:03:58,2021-11-11,XRAY,Yankie Lisa,"SVP, CHRO",F - Tax,54.47,-673,23728,-3%,-36658.0,,,,,XRAY
+53,,2021-11-09 16:24:29,2021-11-05,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,15413,24401,+171%,0.0,,,,,XRAY
+54,,2021-11-09 16:24:29,2021-11-05,XRAY,Yankie Lisa,"SVP, CHRO",F - Tax,55.81,-4692,24401,-16%,-261861.0,,,,,XRAY
+55,,2021-11-09 16:21:49,2021-11-05,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,8752,11215,+355%,0.0,,,,,XRAY
+56,,2021-11-09 16:21:49,2021-11-05,XRAY,Staehler Cord Friedrich,"SVP, CTO",F - Tax,55.81,-4376,11215,-28%,-244225.0,,,,,XRAY
+57,,2021-11-09 16:19:38,2021-11-05,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,46738,70555,+196%,0.0,,,,,XRAY
+58,,2021-11-09 16:19:38,2021-11-05,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,55.81,-23369,70555,-25%,-1304224.0,,,,,XRAY
+59,,2021-11-09 16:17:44,2021-11-05,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,27264,38957,+233%,0.0,,,,,XRAY
+60,,2021-11-09 16:17:44,2021-11-05,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",F - Tax,55.81,-10565,38957,-21%,-589633.0,,,,,XRAY
+61,,2021-11-09 16:15:44,2021-11-05,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,103934,148251,+235%,0.0,,,,,XRAY
+62,,2021-11-09 16:15:44,2021-11-05,XRAY,Gomez Jorge M,"EVP, CFO",F - Tax,55.81,-46459,148251,-24%,-2592877.0,,,,,XRAY
+63,,2021-11-09 16:14:03,2021-11-05,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,56476,78515,+256%,0.0,,,,,XRAY
+64,,2021-11-09 16:14:03,2021-11-05,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",F - Tax,55.81,-24682,78515,-24%,-1377502.0,,,,,XRAY
+65,,2021-11-09 16:14:03,2021-11-03,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",G - Gift,0.0,-64810,78515,+473%,-0.0,,,,,XRAY
+66,,2021-11-09 16:09:38,2021-11-05,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,15579,28885,+117%,0.0,,,,,XRAY
+67,,2021-11-09 16:09:38,2021-11-05,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",F - Tax,55.81,-5570,28885,-16%,-310862.0,,,,,XRAY
+68,,2021-11-09 16:08:23,2021-11-05,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,20918,27337,+326%,0.0,,,,,XRAY
+69,,2021-11-09 16:08:23,2021-11-05,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",F - Tax,55.81,-7339,27337,-21%,-409590.0,,,,,XRAY
+70,,2021-11-09 16:06:59,2021-11-05,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,155796,250027,+165%,0.0,,,,,XRAY
+71,,2021-11-09 16:06:59,2021-11-05,XRAY,Casey Donald M Jr.,"Pres, CEO",F - Tax,55.81,-69641,250027,-22%,-3886664.0,,,,,XRAY
+72,D,2021-10-12 17:19:05,2021-10-08,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,60.01,73,90776,0%,4392.0,,,,,XRAY
+73,D,2021-10-12 17:07:36,2021-10-08,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,60.01,15,13680,0%,887.0,,,,,XRAY
+74,,2021-10-12 17:06:01,2021-10-08,XRAY,Vergis Janet S.,Dir,A - Grant,60.01,6,9852,0%,331.0,,,,,XRAY
+75,,2021-10-12 17:03:09,2021-10-08,XRAY,Varon Leslie F,Dir,A - Grant,60.01,10,13473,0%,591.0,,,,,XRAY
+76,,2021-10-12 17:01:47,2021-10-08,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,60.01,9,6839,0%,529.0,,,,,XRAY
+77,,2021-10-12 16:58:28,2021-10-08,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,60.01,13,47186,0%,787.0,,,,,XRAY
+78,,2021-10-12 16:56:52,2021-10-08,XRAY,Lucier Gregory T,Dir,A - Grant,60.01,6,30169,0%,331.0,,,,,XRAY
+79,,2021-10-12 16:55:27,2021-10-08,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,60.01,26,136120,0%,1577.0,,,,,XRAY
+80,,2021-10-12 16:54:05,2021-10-08,XRAY,Kowaloff Arthur D,Dir,A - Grant,60.01,6,49159,0%,331.0,,,,,XRAY
+81,D,2021-10-12 16:51:46,2021-10-08,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,60.01,42,22258,0%,2506.0,,,,,XRAY
+82,,2021-10-12 16:49:47,2021-10-08,XRAY,Hosein Clyde,Dir,A - Grant,60.01,12,6298,0%,691.0,,,,,XRAY
+83,,2021-10-12 16:48:26,2021-10-08,XRAY,Holden Betsy D,Dir,A - Grant,60.01,26,17193,0%,1589.0,,,,,XRAY
+84,D,2021-10-12 16:43:51,2021-10-08,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,60.01,26,46721,0%,1543.0,,,,,XRAY
+85,,2021-10-12 16:41:34,2021-10-08,XRAY,Deese Willie A,Dir,A - Grant,60.01,6,23012,0%,331.0,,,,,XRAY
+86,D,2021-10-12 16:39:53,2021-10-08,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,60.01,15,18876,0%,896.0,,,,,XRAY
+87,D,2021-10-12 16:38:18,2021-10-08,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,60.01,11,13758,0%,641.0,,,,,XRAY
+88,,2021-10-12 16:37:10,2021-10-08,XRAY,Chadha Ranjit S,Chief Accounting Officer,A - Grant,60.01,3,1692,0%,168.0,,,,,XRAY
+89,D,2021-10-12 16:36:08,2021-10-08,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,60.01,48,163872,0%,2893.0,,,,,XRAY
+90,D,2021-10-12 16:14:05,2021-10-08,XRAY,Brandt Eric,Dir,A - Grant,60.01,20,40505,0%,1224.0,,,,,XRAY
+91,,2021-10-12 16:06:52,2021-10-08,XRAY,Brackett Erania,"SVP, CMO",A - Grant,60.01,4,2455,0%,270.0,,,,,XRAY
+92,,2021-09-07 16:54:56,2021-09-02,XRAY,Chadha Ranjit S,Chief Accounting Officer,F - Tax,62.33,-70,1689,-4%,-4363.0,,,,,XRAY
+93,,2021-08-30 16:37:12,2021-08-27,XRAY,Gomez Jorge M,"EVP, CFO",F - Tax,62.09,-9061,90702,-9%,-562597.0,,,,,XRAY
+94,,2021-08-11 16:53:20,2021-08-09,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,482,46932,+1%,0.0,,,,,XRAY
+95,,2021-08-11 16:53:20,2021-08-09,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,59.53,-607,46932,-1%,-36135.0,,,,,XRAY
+96,D,2021-08-11 16:49:58,2021-08-09,XRAY,Brackett Erania,"SVP, CMO",A - Grant,0.0,2451,2451,New,0.0,,,,,XRAY
+97,,2021-07-13 17:03:40,2021-07-09,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,64.18,13,47298,0%,866.0,,,,,XRAY
+98,,2021-07-13 17:02:35,2021-07-09,XRAY,Lucier Gregory T,Dir,A - Grant,64.18,5,30163,0%,331.0,,,,,XRAY
+99,,2021-07-13 17:01:47,2021-07-09,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,64.18,25,136094,0%,1574.0,,,,,XRAY
+100,,2021-07-13 17:00:51,2021-07-09,XRAY,Kowaloff Arthur D,Dir,A - Grant,64.18,5,49153,0%,331.0,,,,,XRAY
+101,D,2021-07-13 16:56:52,2021-07-09,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,64.18,13,22216,0%,823.0,,,,,XRAY
+102,,2021-07-13 16:53:28,2021-07-09,XRAY,Hosein Clyde,Dir,A - Grant,64.18,11,6286,0%,690.0,,,,,XRAY
+103,,2021-07-13 16:52:16,2021-07-09,XRAY,Holden Betsy D,Dir,A - Grant,64.18,25,17167,0%,1586.0,,,,,XRAY
+104,D,2021-07-13 16:50:53,2021-07-09,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,64.18,108,99763,0%,6900.0,,,,,XRAY
+105,D,2021-07-13 16:49:42,2021-07-09,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,64.18,24,46695,0%,1540.0,,,,,XRAY
+106,,2021-07-13 16:48:58,2021-07-09,XRAY,Deese Willie A,Dir,A - Grant,64.18,5,23007,0%,331.0,,,,,XRAY
+107,D,2021-07-13 16:46:33,2021-07-09,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,64.18,14,18861,0%,894.0,,,,,XRAY
+108,D,2021-07-13 16:45:39,2021-07-09,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,64.18,10,13747,0%,640.0,,,,,XRAY
+109,,2021-07-13 16:42:37,2021-07-09,XRAY,Chadha Ranjit S,Chief Accounting Officer,A - Grant,64.18,3,1759,0%,193.0,,,,,XRAY
+110,D,2021-07-13 16:41:21,2021-07-09,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,64.18,45,163823,0%,2888.0,,,,,XRAY
+111,D,2021-07-13 16:39:29,2021-07-09,XRAY,Brandt Eric,Dir,A - Grant,64.18,19,40484,0%,1222.0,,,,,XRAY
+112,D,2021-07-13 16:17:28,2021-07-09,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,64.18,14,13666,0%,886.0,,,,,XRAY
+113,,2021-07-13 16:11:41,2021-07-09,XRAY,Vergis Janet S.,Dir,A - Grant,64.18,5,9846,0%,331.0,,,,,XRAY
+114,,2021-07-13 16:07:30,2021-07-09,XRAY,Varon Leslie F,Dir,A - Grant,64.18,9,13463,0%,590.0,,,,,XRAY
+115,,2021-07-13 16:02:48,2021-07-09,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,64.18,8,6830,0%,528.0,,,,,XRAY
+116,,2021-06-01 16:45:43,2021-05-27,XRAY,Vergis Janet S.,Dir,A - Grant,0.0,3008,9841,+44%,0.0,,,,,XRAY
+117,,2021-06-01 16:43:53,2021-05-27,XRAY,Varon Leslie F,Dir,A - Grant,0.0,3008,13454,+29%,0.0,,,,,XRAY
+118,,2021-06-01 16:42:04,2021-05-27,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,3008,30158,+11%,0.0,,,,,XRAY
+119,,2021-06-01 16:40:28,2021-05-27,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,3008,136069,+2%,0.0,,,,,XRAY
+120,,2021-06-01 16:38:40,2021-05-27,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,3008,49148,+7%,0.0,,,,,XRAY
+121,,2021-06-01 16:36:50,2021-05-27,XRAY,Hosein Clyde,Dir,A - Grant,0.0,3008,6276,+92%,0.0,,,,,XRAY
+122,,2021-06-01 16:35:05,2021-05-27,XRAY,Holden Betsy D,Dir,A - Grant,0.0,3008,17142,+21%,0.0,,,,,XRAY
+123,,2021-06-01 16:29:58,2021-05-27,XRAY,Deese Willie A,Dir,A - Grant,0.0,3008,23002,+15%,0.0,,,,,XRAY
+124,,2021-06-01 16:28:39,2021-05-27,XRAY,Brandt Eric,Dir,A - Grant,0.0,4512,40465,+13%,0.0,,,,,XRAY
+125,,2021-05-26 16:47:56,2021-05-25,XRAY,Alfano Michael C,Dir,S - Sale,67.49,-4500,9358,-32%,-303705.0,,,,,XRAY
+126,D,2021-05-26 16:42:56,2021-05-25,XRAY,Petersohn Walter,Chief Commercial Officer,M - OptEx,35.91,17425,47285,+58%,625683.0,,,,,XRAY
+127,D,2021-05-26 16:42:56,2021-05-25,XRAY,Petersohn Walter,Chief Commercial Officer,S - Sale+OE,67.4,-17425,47285,-27%,-1174366.0,,,,,XRAY
+128,,2021-05-11 16:12:40,2021-05-07,XRAY,Staehler Cord Friedrich,"SVP, CTO",F - Tax,68.47,-164,6822,-2%,-11229.0,,,,,XRAY
+129,D,2021-04-12 17:37:23,2021-04-09,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,13,13543,0%,0.0,,,,,XRAY
+130,,2021-04-12 17:35:57,2021-04-09,XRAY,Vergis Janet S.,Dir,A - Grant,0.0,8,6833,0%,0.0,,,,,XRAY
+131,,2021-04-12 17:35:02,2021-04-09,XRAY,Varon Leslie F,Dir,A - Grant,0.0,12,10446,0%,0.0,,,,,XRAY
+132,,2021-04-12 17:32:57,2021-04-09,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,8,6986,0%,0.0,,,,,XRAY
+133,,2021-04-12 17:31:33,2021-04-09,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,13,47285,0%,0.0,,,,,XRAY
+134,D,2021-04-12 17:30:35,2021-04-09,XRAY,Lunger Francis J,Dir,A - Grant,0.0,20,25284,0%,0.0,,,,,XRAY
+135,,2021-04-12 17:27:21,2021-04-09,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,8,27150,0%,0.0,,,,,XRAY
+136,,2021-04-12 17:26:12,2021-04-09,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,18,133061,0%,0.0,,,,,XRAY
+137,,2021-04-12 17:25:12,2021-04-09,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,8,46140,0%,0.0,,,,,XRAY
+138,D,2021-04-12 17:23:41,2021-04-09,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,12,22203,0%,0.0,,,,,XRAY
+139,,2021-04-12 17:22:35,2021-04-09,XRAY,Hosein Clyde,Dir,A - Grant,0.0,5,3268,0%,0.0,,,,,XRAY
+140,,2021-04-12 17:21:42,2021-04-09,XRAY,Holden Betsy D,Dir,A - Grant,0.0,19,14134,0%,0.0,,,,,XRAY
+141,D,2021-04-12 17:20:31,2021-04-09,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,102,99656,0%,0.0,,,,,XRAY
+142,D,2021-04-12 17:19:01,2021-04-09,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,23,46671,0%,0.0,,,,,XRAY
+143,,2021-04-12 17:17:50,2021-04-09,XRAY,Deese Willie A,Dir,A - Grant,0.0,8,19994,0%,0.0,,,,,XRAY
+144,D,2021-04-12 17:16:37,2021-04-09,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,13,18847,0%,0.0,,,,,XRAY
+145,D,2021-04-12 17:15:26,2021-04-09,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,9,13628,0%,0.0,,,,,XRAY
+146,,2021-04-12 17:13:48,2021-04-09,XRAY,Chadha Ranjit S,Chief Accounting Officer,A - Grant,0.0,3,1756,0%,0.0,,,,,XRAY
+147,D,2021-04-12 17:12:31,2021-04-09,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,43,163778,0%,0.0,,,,,XRAY
+148,D,2021-04-12 17:10:50,2021-04-09,XRAY,Brandt Eric,Dir,A - Grant,0.0,22,35953,0%,0.0,,,,,XRAY
+149,,2021-04-12 17:09:16,2021-04-09,XRAY,Alfano Michael C,Dir,A - Grant,0.0,8,13858,0%,0.0,,,,,XRAY
+150,D,2021-03-19 16:20:01,2021-03-17,XRAY,Brandt Eric,Dir,M - OptEx,0.0,7600,35931,+27%,0.0,,,,,XRAY
+151,D,2021-03-19 16:20:01,2021-03-17,XRAY,Brandt Eric,Dir,S - Sale+OE,63.21,-7600,35931,-17%,-480373.0,,,,,XRAY
+152,,2021-03-16 17:06:28,2021-03-12,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,62.88,-559,47272,-1%,-35150.0,,,,,XRAY
+153,,2021-03-16 17:04:33,2021-03-12,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",F - Tax,62.88,-904,22191,-4%,-56844.0,,,,,XRAY
+154,,2021-03-16 17:02:43,2021-03-12,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",F - Tax,62.88,-716,46648,-2%,-45022.0,,,,,XRAY
+155,,2021-03-16 17:00:26,2021-03-12,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",F - Tax,62.88,-1455,18833,-7%,-91490.0,,,,,XRAY
+156,,2021-03-16 16:39:29,2021-03-12,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",F - Tax,62.88,-132,13619,-1%,-8300.0,,,,,XRAY
+157,,2021-03-16 16:32:34,2021-03-12,XRAY,Casey Donald M Jr.,"Pres, CEO",F - Tax,62.88,-3073,163736,-2%,-193230.0,,,,,XRAY
+158,,2021-03-09 16:23:20,2021-03-06,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,1448,47364,+3%,0.0,,,,,XRAY
+159,,2021-03-09 16:23:20,2021-03-06,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",F - Tax,60.0,-1049,47364,-2%,-62940.0,,,,,XRAY
+160,,2021-03-09 16:10:42,2021-03-06,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,12.01,4992,166809,+3%,59940.0,,,,,XRAY
+161,,2021-03-09 16:10:42,2021-03-06,XRAY,Casey Donald M Jr.,"Pres, CEO",F - Tax,60.0,-20929,166809,-11%,-1255740.0,,,,,XRAY
+162,D,2021-03-08 18:29:42,2021-03-04,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,3087,13530,+30%,0.0,,,,,XRAY
+163,D,2021-03-08 18:29:42,2021-03-04,XRAY,Yankie Lisa,"SVP, CHRO",F - Tax,58.71,-344,13530,-2%,-20196.0,,,,,XRAY
+164,D,2021-03-08 18:26:45,2021-03-04,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,3407,6977,+95%,0.0,,,,,XRAY
+165,D,2021-03-08 18:26:45,2021-03-04,XRAY,Staehler Cord Friedrich,"SVP, CTO",F - Tax,58.71,-264,6977,-4%,-15499.0,,,,,XRAY
+166,D,2021-03-08 18:22:36,2021-03-04,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,3726,47831,+8%,0.0,,,,,XRAY
+167,D,2021-03-08 18:22:36,2021-03-04,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,58.71,-572,47831,-1%,-33582.0,,,,,XRAY
+168,D,2021-03-08 18:19:39,2021-03-04,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,3194,23095,+16%,0.0,,,,,XRAY
+169,D,2021-03-08 18:19:39,2021-03-04,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",F - Tax,0.0,-216,23095,-1%,-0.0,,,,,XRAY
+170,D,2021-03-08 18:09:42,2021-03-04,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,6387,46965,+16%,0.0,,,,,XRAY
+171,D,2021-03-08 18:09:42,2021-03-04,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",F - Tax,58.71,-756,46965,-2%,-44385.0,,,,,XRAY
+172,D,2021-03-08 18:03:14,2021-03-04,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,2342,20288,+13%,0.0,,,,,XRAY
+173,D,2021-03-08 18:03:14,2021-03-04,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",F - Tax,58.71,-154,20288,-1%,-9041.0,,,,,XRAY
+174,D,2021-03-08 17:58:46,2021-03-04,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,3045,13751,+28%,0.0,,,,,XRAY
+175,D,2021-03-08 17:58:46,2021-03-04,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",F - Tax,58.71,-221,13751,-2%,-12975.0,,,,,XRAY
+176,D,2021-03-08 17:55:39,2021-03-04,XRAY,Chadha Ranjit S,Chief Accounting Officer,A - Grant,0.0,1065,1753,+155%,0.0,,,,,XRAY
+177,D,2021-03-08 17:49:12,2021-03-04,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,9581,99554,+11%,0.0,,,,,XRAY
+178,D,2021-03-08 17:49:12,2021-03-04,XRAY,Gomez Jorge M,"EVP, CFO",F - Tax,58.71,-1114,99554,-1%,-65403.0,,,,,XRAY
+179,D,2021-03-08 17:45:55,2021-03-04,XRAY,Casey Donald M Jr.,"Pres, CEO",F - Tax,0.0,-2865,182746,-2%,-0.0,,,,,XRAY
+180,,2021-03-05 19:35:23,2021-03-04,XRAY,Alfano Michael C,Dir,S - Sale,58.99,-1850,13850,-12%,-109122.0,,,,,XRAY
+181,D,2021-03-05 17:44:29,2021-03-04,XRAY,Lunger Francis J,Dir,M - OptEx,38.57,7600,25264,+43%,293132.0,,,,,XRAY
+182,D,2021-03-05 17:44:29,2021-03-04,XRAY,Lunger Francis J,Dir,S - Sale+OE,59.05,-7600,25264,-23%,-448742.0,,,,,XRAY
+183,A,2021-03-05 16:33:33,2021-03-04,XRAY,Lucier Gregory T,Dir,P - Purchase,58.75,9000,27142,+50%,528752.0,,,,,XRAY
+184,,2021-03-04 16:11:28,2021-03-04,XRAY,Lucier Gregory T,Dir,P - Purchase,58.95,5000,23142,+28%,294750.0,,,,,XRAY
+185,,2021-01-12 16:43:11,2021-01-08,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,11,10787,0%,0.0,,,,,XRAY
+186,,2021-01-12 16:39:36,2021-01-08,XRAY,Vergis Janet S.,Dir,A - Grant,0.0,9,6826,0%,0.0,,,,,XRAY
+187,,2021-01-12 16:38:38,2021-01-08,XRAY,Varon Leslie F,Dir,A - Grant,0.0,18,10434,0%,0.0,,,,,XRAY
+188,,2021-01-12 16:37:26,2021-01-08,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,4,3834,0%,0.0,,,,,XRAY
+189,,2021-01-12 16:36:12,2021-01-08,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,12,44677,0%,0.0,,,,,XRAY
+190,D,2021-01-12 16:35:07,2021-01-08,XRAY,Lunger Francis J,Dir,A - Grant,0.0,24,25264,0%,0.0,,,,,XRAY
+191,,2021-01-12 16:33:51,2021-01-08,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,9,18142,0%,0.0,,,,,XRAY
+192,,2021-01-12 16:32:40,2021-01-08,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,22,133043,0%,0.0,,,,,XRAY
+193,,2021-01-12 16:31:03,2021-01-08,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,9,46132,0%,0.0,,,,,XRAY
+194,D,2021-01-12 16:29:56,2021-01-08,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,15,20117,0%,0.0,,,,,XRAY
+195,,2021-01-12 16:28:41,2021-01-08,XRAY,Hosein Clyde,Dir,A - Grant,0.0,6,3262,0%,0.0,,,,,XRAY
+196,,2021-01-12 16:27:26,2021-01-08,XRAY,Holden Betsy D,Dir,A - Grant,0.0,22,14115,0%,0.0,,,,,XRAY
+197,,2021-01-12 16:25:41,2021-01-08,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,109,91087,0%,0.0,,,,,XRAY
+198,D,2021-01-12 16:24:30,2021-01-08,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,29,41334,0%,0.0,,,,,XRAY
+199,,2021-01-12 16:22:54,2021-01-08,XRAY,Deese Willie A,Dir,A - Grant,0.0,9,19986,0%,0.0,,,,,XRAY
+200,D,2021-01-12 16:21:43,2021-01-08,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,21,18100,0%,0.0,,,,,XRAY
+201,D,2021-01-12 16:20:34,2021-01-08,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,7,10927,0%,0.0,,,,,XRAY
+202,,2021-01-12 16:19:18,2021-01-08,XRAY,Chadha Ranjit S,Chief Accounting Officer,A - Grant,0.0,1,688,0%,0.0,,,,,XRAY
+203,D,2021-01-12 16:17:54,2021-01-08,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,168,185611,0%,0.0,,,,,XRAY
+204,D,2021-01-12 16:16:36,2021-01-08,XRAY,Brandt Eric,Dir,A - Grant,0.0,27,35931,0%,0.0,,,,,XRAY
+205,,2021-01-12 16:14:48,2021-01-08,XRAY,Alfano Michael C,Dir,A - Grant,0.0,9,15700,0%,0.0,,,,,XRAY
+206,D,2020-11-24 16:05:27,2020-11-23,XRAY,Deese Willie A,Dir,M - OptEx,38.09,10100,19977,+102%,384682.0,,,,,XRAY
+207,D,2020-11-24 16:05:27,2020-11-23,XRAY,Deese Willie A,Dir,S - Sale+OE,50.5,-10100,19977,-34%,-510060.0,,,,,XRAY
+208,D,2020-11-18 16:04:39,2020-11-17,XRAY,Alfano Michael C,Dir,M - OptEx,38.57,7600,15691,+94%,293132.0,,,,,XRAY
+209,D,2020-11-18 16:04:39,2020-11-17,XRAY,Alfano Michael C,Dir,S - Sale+OE,48.13,-7600,15691,-33%,-365750.0,,,,,XRAY
+210,,2020-11-17 16:39:52,2020-11-13,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",F - Tax,51.36,-338,10790,-3%,-17360.0,,,,,XRAY
+211,,2020-11-13 16:11:37,2020-11-11,XRAY,Yankie Lisa,"SVP, CHRO",F - Tax,49.85,-443,10645,-4%,-22084.0,,,,,XRAY
+212,,2020-10-13 15:56:15,2020-10-09,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,17,11088,0%,0.0,,,,,XRAY
+213,,2020-10-13 15:55:17,2020-10-09,XRAY,Vergis Janet S.,Dir,A - Grant,0.0,16,6816,0%,0.0,,,,,XRAY
+214,,2020-10-13 15:53:41,2020-10-09,XRAY,Varon Leslie F,Dir,A - Grant,0.0,16,10417,0%,0.0,,,,,XRAY
+215,,2020-10-13 15:49:46,2020-10-09,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,5,3830,0%,0.0,,,,,XRAY
+216,,2020-10-13 15:47:17,2020-10-09,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,15,44664,0%,0.0,,,,,XRAY
+217,D,2020-10-13 15:39:31,2020-10-09,XRAY,Lunger Francis J,Dir,A - Grant,0.0,28,25241,0%,0.0,,,,,XRAY
+218,,2020-10-13 15:38:05,2020-10-09,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,11,18099,0%,0.0,,,,,XRAY
+219,,2020-10-13 15:36:17,2020-10-09,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,26,133021,0%,0.0,,,,,XRAY
+220,,2020-10-13 15:19:57,2020-10-09,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,11,46123,0%,0.0,,,,,XRAY
+221,D,2020-10-13 15:19:06,2020-10-09,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,18,20057,0%,0.0,,,,,XRAY
+222,,2020-10-13 15:17:36,2020-10-09,XRAY,Holden Betsy D,Dir,A - Grant,0.0,26,14093,0%,0.0,,,,,XRAY
+223,,2020-10-13 15:16:13,2020-10-09,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,130,90977,0%,0.0,,,,,XRAY
+224,D,2020-10-13 15:15:16,2020-10-09,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,76,41306,0%,0.0,,,,,XRAY
+225,D,2020-10-13 15:15:16,2020-10-09,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",F - Tax,45.5,-8400,41306,-17%,-382200.0,,,,,XRAY
+226,,2020-10-13 15:13:40,2020-10-09,XRAY,Deese Willie A,Dir,A - Grant,0.0,11,19977,0%,0.0,,,,,XRAY
+227,D,2020-10-13 15:12:46,2020-10-09,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,26,18079,0%,0.0,,,,,XRAY
+228,D,2020-10-13 15:11:49,2020-10-09,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,11,11128,0%,0.0,,,,,XRAY
+229,,2020-10-13 15:10:41,2020-10-09,XRAY,Chadha Ranjit S,Chief Accounting Officer,A - Grant,0.0,2,687,0%,0.0,,,,,XRAY
+230,D,2020-10-13 15:09:31,2020-10-09,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,200,185443,0%,0.0,,,,,XRAY
+231,D,2020-10-13 15:08:14,2020-10-09,XRAY,Brandt Eric,Dir,A - Grant,0.0,37,35904,0%,0.0,,,,,XRAY
+232,,2020-10-13 15:07:14,2020-10-09,XRAY,Alfano Michael C,Dir,A - Grant,0.0,11,15691,0%,0.0,,,,,XRAY
+233,,2020-09-30 16:31:04,2020-09-29,XRAY,Hosein Clyde,Dir,A - Grant,0.0,3256,3256,New,0.0,,,,,XRAY
+234,D,2020-09-04 11:08:39,2020-09-02,XRAY,Chadha Ranjit S,Chief Accounting Officer,A - Grant,0.0,685,685,New,0.0,,,,,XRAY
+235,,2020-09-01 16:14:24,2020-08-28,XRAY,Gomez Jorge M,"EVP, CFO",F - Tax,45.32,-10163,90847,-10%,-460587.0,,,,,XRAY
+236,,2020-08-11 14:23:11,2020-08-09,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,45.36,-363,44650,-1%,-16466.0,,,,,XRAY
+237,D,2020-07-14 16:16:35,2020-07-10,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,18,20039,0%,0.0,,,,,XRAY
+238,D,2020-07-14 16:15:11,2020-07-10,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,76,49630,0%,0.0,,,,,XRAY
+239,D,2020-07-14 16:11:04,2020-07-10,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,26,18053,0%,0.0,,,,,XRAY
+240,D,2020-07-14 16:09:27,2020-07-10,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,11,11116,0%,0.0,,,,,XRAY
+241,D,2020-07-14 16:07:58,2020-07-10,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,200,185243,0%,0.0,,,,,XRAY
+242,D,2020-07-14 16:06:36,2020-07-10,XRAY,Brandt Eric,Dir,A - Grant,0.0,32,35868,0%,0.0,,,,,XRAY
+243,,2020-07-10 17:04:55,2020-07-10,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,17,11071,0%,0.0,,,,,XRAY
+244,,2020-07-10 17:03:44,2020-07-10,XRAY,Vergis Janet S.,Dir,A - Grant,0.0,16,6801,0%,0.0,,,,,XRAY
+245,,2020-07-10 17:02:33,2020-07-10,XRAY,Varon Leslie F,Dir,A - Grant,0.0,16,10400,0%,0.0,,,,,XRAY
+246,,2020-07-10 17:01:26,2020-07-10,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,5,3825,0%,0.0,,,,,XRAY
+247,,2020-07-10 17:00:07,2020-07-10,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,16,45013,0%,0.0,,,,,XRAY
+248,,2020-07-10 16:58:48,2020-07-10,XRAY,Lunger Francis J,Dir,A - Grant,0.0,28,25212,0%,0.0,,,,,XRAY
+249,,2020-07-10 16:57:39,2020-07-10,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,11,18088,0%,0.0,,,,,XRAY
+250,,2020-07-10 16:56:22,2020-07-10,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,26,132995,0%,0.0,,,,,XRAY
+251,,2020-07-10 16:55:03,2020-07-10,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,11,46112,0%,0.0,,,,,XRAY
+252,,2020-07-10 16:53:52,2020-07-10,XRAY,Holden Betsy D,Dir,A - Grant,0.0,26,14067,0%,0.0,,,,,XRAY
+253,,2020-07-10 16:52:32,2020-07-10,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,183,101010,0%,0.0,,,,,XRAY
+254,,2020-07-10 16:51:17,2020-07-10,XRAY,Deese Willie A,Dir,A - Grant,0.0,11,19966,0%,0.0,,,,,XRAY
+255,,2020-07-10 16:49:44,2020-07-10,XRAY,Alfano Michael C,Dir,A - Grant,0.0,11,15680,0%,0.0,,,,,XRAY
+256,,2020-06-05 16:09:23,2020-06-04,XRAY,Newell William E,Chief Segment Officer,S - Sale,48.23,-10000,19768,-34%,-482290.0,,,,,XRAY
+257,,2020-06-01 16:06:37,2020-05-29,XRAY,Alfano Michael C,Dir,S - Sale,46.27,-2500,15669,-14%,-115675.0,,,,,XRAY
+258,,2020-05-22 16:28:01,2020-05-21,XRAY,Vergis Janet S.,Dir,A - Grant,0.0,4766,6785,+236%,0.0,,,,,XRAY
+259,,2020-05-22 16:23:32,2020-05-21,XRAY,Varon Leslie F,Dir,A - Grant,0.0,4766,10384,+85%,0.0,,,,,XRAY
+260,,2020-05-22 16:22:39,2020-05-21,XRAY,Lunger Francis J,Dir,A - Grant,0.0,4766,25184,+23%,0.0,,,,,XRAY
+261,,2020-05-22 16:20:01,2020-05-21,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,4766,18077,+36%,0.0,,,,,XRAY
+262,,2020-05-22 16:18:18,2020-05-21,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,4766,132969,+4%,0.0,,,,,XRAY
+263,,2020-05-22 16:17:26,2020-05-21,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,4766,46101,+12%,0.0,,,,,XRAY
+264,,2020-05-22 16:16:13,2020-05-21,XRAY,Holden Betsy D,Dir,A - Grant,0.0,4766,14041,+51%,0.0,,,,,XRAY
+265,,2020-05-22 16:15:23,2020-05-21,XRAY,Deese Willie A,Dir,A - Grant,0.0,4766,19955,+31%,0.0,,,,,XRAY
+266,,2020-05-22 16:14:12,2020-05-21,XRAY,Brandt Eric,Dir,A - Grant,0.0,7149,35836,+25%,0.0,,,,,XRAY
+267,,2020-05-22 16:12:37,2020-05-21,XRAY,Alfano Michael C,Dir,A - Grant,0.0,4766,18169,+36%,0.0,,,,,XRAY
+268,,2020-05-21 17:24:09,2020-05-19,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,5040,10921,+86%,0.0,,,,,XRAY
+269,,2020-05-21 17:24:09,2020-05-19,XRAY,Yankie Lisa,"SVP, CHRO",F - Tax,41.08,-1497,10921,-12%,-61497.0,,,,,XRAY
+270,,2020-05-21 17:21:24,2020-05-19,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,2871,3820,+303%,0.0,,,,,XRAY
+271,,2020-05-21 17:21:24,2020-05-19,XRAY,Staehler Cord Friedrich,"SVP, CTO",F - Tax,41.08,-1436,3820,-27%,-58991.0,,,,,XRAY
+272,,2020-05-21 17:19:22,2020-05-19,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,15361,44996,+52%,0.0,,,,,XRAY
+273,,2020-05-21 17:19:22,2020-05-19,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,41.08,-7681,44996,-15%,-315535.0,,,,,XRAY
+274,,2020-05-21 17:18:16,2020-05-19,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,16642,29768,+127%,0.0,,,,,XRAY
+275,,2020-05-21 17:18:16,2020-05-19,XRAY,Newell William E,Chief Segment Officer,F - Tax,41.08,-6173,29768,-17%,-253587.0,,,,,XRAY
+276,,2020-05-21 17:16:51,2020-05-19,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,8961,20020,+81%,0.0,,,,,XRAY
+277,,2020-05-21 17:16:51,2020-05-19,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",F - Tax,41.08,-2662,20020,-12%,-109355.0,,,,,XRAY
+278,,2020-05-21 17:15:21,2020-05-19,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,34049,100827,+51%,0.0,,,,,XRAY
+279,,2020-05-21 17:15:21,2020-05-19,XRAY,Gomez Jorge M,"EVP, CFO",F - Tax,41.08,-12265,100827,-11%,-503846.0,,,,,XRAY
+280,,2020-05-21 17:14:17,2020-05-19,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,18562,49553,+60%,0.0,,,,,XRAY
+281,,2020-05-21 17:14:17,2020-05-19,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",F - Tax,41.08,-7018,49553,-12%,-288299.0,,,,,XRAY
+282,,2020-05-21 17:13:02,2020-05-19,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,5120,18028,+40%,0.0,,,,,XRAY
+283,,2020-05-21 17:13:02,2020-05-19,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",F - Tax,41.08,-1521,18028,-8%,-62483.0,,,,,XRAY
+284,,2020-05-21 17:11:12,2020-05-19,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,6891,10972,+169%,0.0,,,,,XRAY
+285,,2020-05-21 17:11:12,2020-05-19,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",F - Tax,41.08,-2109,10972,-16%,-86638.0,,,,,XRAY
+286,,2020-05-21 17:09:08,2020-05-19,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,51206,185043,+38%,0.0,,,,,XRAY
+287,,2020-05-21 17:09:08,2020-05-19,XRAY,Casey Donald M Jr.,"Pres, CEO",F - Tax,41.08,-22890,185043,-11%,-940321.0,,,,,XRAY
+288,,2020-05-11 16:15:01,2020-05-07,XRAY,Staehler Cord Friedrich,"SVP, CTO",F - Tax,41.06,-163,2385,-6%,-6693.0,,,,,XRAY
+289,D,2020-05-05 16:18:07,2020-05-04,XRAY,Brandt Eric,Dir,M - OptEx,35.91,8900,28687,+45%,319599.0,,,,,XRAY
+290,D,2020-05-05 16:18:07,2020-05-04,XRAY,Brandt Eric,Dir,S - Sale+OE,39.47,-8900,28687,-24%,-351283.0,,,,,XRAY
+291,,2020-04-14 16:32:34,2020-04-10,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,19,7378,0%,0.0,,,,,XRAY
+292,,2020-04-14 16:30:57,2020-04-10,XRAY,Vergis Janet S.,Dir,A - Grant,0.0,5,2019,0%,0.0,,,,,XRAY
+293,,2020-04-14 16:26:53,2020-04-10,XRAY,Varon Leslie F,Dir,A - Grant,0.0,15,5618,0%,0.0,,,,,XRAY
+294,,2020-04-14 16:24:31,2020-04-10,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,7,2548,0%,0.0,,,,,XRAY
+295,,2020-04-14 16:23:25,2020-04-10,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,19,37316,0%,0.0,,,,,XRAY
+296,D,2020-04-14 16:21:34,2020-04-10,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,18,19299,0%,0.0,,,,,XRAY
+297,D,2020-04-14 16:20:37,2020-04-10,XRAY,Lunger Francis J,Dir,A - Grant,0.0,19,20418,0%,0.0,,,,,XRAY
+298,,2020-04-14 16:18:19,2020-04-10,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,38,13311,0%,0.0,,,,,XRAY
+299,,2020-04-14 16:17:10,2020-04-10,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,17,128203,0%,0.0,,,,,XRAY
+300,,2020-04-14 16:15:16,2020-04-10,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,9,41335,0%,0.0,,,,,XRAY
+301,D,2020-04-14 16:14:07,2020-04-10,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,21,13721,0%,0.0,,,,,XRAY
+302,,2020-04-14 16:12:24,2020-04-10,XRAY,Holden Betsy D,Dir,A - Grant,0.0,17,9275,0%,0.0,,,,,XRAY
+303,,2020-04-14 16:11:04,2020-04-10,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,208,79043,0%,0.0,,,,,XRAY
+304,D,2020-04-14 16:09:06,2020-04-10,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,86,38009,0%,0.0,,,,,XRAY
+305,,2020-04-14 16:08:07,2020-04-10,XRAY,Deese Willie A,Dir,A - Grant,0.0,9,15189,0%,0.0,,,,,XRAY
+306,D,2020-04-14 16:07:04,2020-04-10,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,10,14429,0%,0.0,,,,,XRAY
+307,D,2020-04-14 16:06:12,2020-04-10,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,13,6190,0%,0.0,,,,,XRAY
+308,D,2020-04-14 16:05:08,2020-04-10,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,227,156727,0%,0.0,,,,,XRAY
+309,D,2020-04-14 16:02:47,2020-04-10,XRAY,Brandt Eric,Dir,A - Grant,0.0,34,28687,0%,0.0,,,,,XRAY
+310,,2020-04-14 16:01:41,2020-04-10,XRAY,Alfano Michael C,Dir,A - Grant,0.0,9,13403,0%,0.0,,,,,XRAY
+311,,2020-03-16 17:31:22,2020-03-12,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",F - Tax,39.93,-896,13701,-6%,-35777.0,,,,,XRAY
+312,,2020-03-16 17:29:23,2020-03-12,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",F - Tax,39.93,-1442,14419,-9%,-57579.0,,,,,XRAY
+313,,2020-03-16 17:28:32,2020-03-12,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,39.93,-553,37298,-1%,-22081.0,,,,,XRAY
+314,,2020-03-16 17:27:34,2020-03-12,XRAY,Newell William E,Chief Segment Officer,F - Tax,39.93,-329,19281,-2%,-13137.0,,,,,XRAY
+315,,2020-03-16 17:26:43,2020-03-12,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",F - Tax,39.93,-710,37923,-2%,-28350.0,,,,,XRAY
+316,D,2020-03-16 17:25:51,2020-03-12,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",F - Tax,39.93,-131,6177,-2%,-5231.0,,,,,XRAY
+317,,2020-03-16 17:24:35,2020-03-12,XRAY,Casey Donald M Jr.,"Pres, CEO",F - Tax,39.93,-3044,156500,-2%,-121547.0,,,,,XRAY
+318,,2020-03-10 16:05:29,2020-03-06,XRAY,Newell William E,Chief Segment Officer,F - Tax,47.73,-268,19610,-1%,-12792.0,,,,,XRAY
+319,,2020-03-10 16:03:46,2020-03-06,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",F - Tax,44.73,-623,38633,-2%,-27867.0,,,,,XRAY
+320,,2020-03-10 16:02:22,2020-03-06,XRAY,Casey Donald M Jr.,"Pres, CEO",F - Tax,44.73,-7787,159544,-5%,-348313.0,,,,,XRAY
+321,D,2020-03-06 16:30:52,2020-03-04,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,2921,7359,+66%,0.0,,,,,XRAY
+322,D,2020-03-06 16:29:37,2020-03-04,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,1568,2541,+161%,0.0,,,,,XRAY
+323,D,2020-03-06 16:28:12,2020-03-04,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,3397,37851,+10%,0.0,,,,,XRAY
+324,D,2020-03-06 16:26:45,2020-03-04,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,3397,19878,+21%,0.0,,,,,XRAY
+325,D,2020-03-06 16:25:32,2020-03-04,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,1829,14597,+14%,0.0,,,,,XRAY
+326,D,2020-03-06 16:24:12,2020-03-04,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,10974,78835,+16%,0.0,,,,,XRAY
+327,D,2020-03-06 16:21:03,2020-03-04,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,7577,39256,+24%,0.0,,,,,XRAY
+328,D,2020-03-06 16:19:41,2020-03-04,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,1306,15861,+9%,0.0,,,,,XRAY
+329,D,2020-03-06 16:18:00,2020-03-04,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,1829,6308,+41%,0.0,,,,,XRAY
+330,D,2020-03-06 16:15:52,2020-03-04,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,28742,167331,+21%,0.0,,,,,XRAY
+331,,2020-02-28 16:26:48,2020-02-26,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,1637,34453,+5%,0.0,,,,,XRAY
+332,,2020-02-28 16:26:48,2020-02-26,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,56.85,-819,34453,-2%,-46560.0,,,,,XRAY
+333,,2020-02-28 16:24:40,2020-02-26,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,1004,16481,+6%,0.0,,,,,XRAY
+334,,2020-02-28 16:24:40,2020-02-26,XRAY,Newell William E,Chief Segment Officer,F - Tax,56.85,-260,16481,-2%,-14781.0,,,,,XRAY
+335,,2020-02-25 15:13:08,2020-02-21,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,56.85,-1843,33635,-5%,-104775.0,,,,,XRAY
+336,,2020-02-25 15:11:41,2020-02-21,XRAY,Newell William E,Chief Segment Officer,F - Tax,56.85,-636,15736,-4%,-36157.0,,,,,XRAY
+337,,2020-01-14 16:48:27,2020-01-10,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,8,4438,0%,0.0,,,,,XRAY
+338,,2020-01-14 16:47:33,2020-01-10,XRAY,Vergis Janet S.,Dir,A - Grant,0.0,4,2014,0%,0.0,,,,,XRAY
+339,,2020-01-14 16:42:50,2020-01-10,XRAY,Varon Leslie F,Dir,A - Grant,0.0,10,5603,0%,0.0,,,,,XRAY
+340,,2020-01-14 16:41:31,2020-01-10,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,2,973,0%,0.0,,,,,XRAY
+341,,2020-01-14 16:40:00,2020-01-10,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,18,35478,0%,0.0,,,,,XRAY
+342,D,2020-01-14 16:38:58,2020-01-10,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,13,16372,0%,0.0,,,,,XRAY
+343,D,2020-01-14 16:37:06,2020-01-10,XRAY,Lunger Francis J,Dir,A - Grant,0.0,13,20399,0%,0.0,,,,,XRAY
+344,,2020-01-14 16:35:45,2020-01-10,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,6,13273,0%,0.0,,,,,XRAY
+345,,2020-01-14 16:34:54,2020-01-10,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,11,128186,0%,0.0,,,,,XRAY
+346,,2020-01-14 16:33:31,2020-01-10,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,6,41326,0%,0.0,,,,,XRAY
+347,,2020-01-14 16:32:46,2020-01-10,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,16,12768,0%,0.0,,,,,XRAY
+348,,2020-01-14 16:31:41,2020-01-10,XRAY,Holden Betsy D,Dir,A - Grant,0.0,11,9258,0%,0.0,,,,,XRAY
+349,,2020-01-14 16:30:33,2020-01-10,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,119,67861,0%,0.0,,,,,XRAY
+350,D,2020-01-14 16:28:21,2020-01-10,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,52,31679,0%,0.0,,,,,XRAY
+351,,2020-01-14 16:27:07,2020-01-10,XRAY,Deese Willie A,Dir,A - Grant,0.0,6,15180,0%,0.0,,,,,XRAY
+352,,2020-01-14 16:25:01,2020-01-10,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,26,14555,0%,0.0,,,,,XRAY
+353,D,2020-01-14 16:23:19,2020-01-10,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,6,4479,0%,0.0,,,,,XRAY
+354,D,2020-01-14 16:21:54,2020-01-10,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,157,138589,0%,0.0,,,,,XRAY
+355,D,2020-01-14 16:18:20,2020-01-10,XRAY,Brandt Eric,Dir,A - Grant,0.0,23,28653,0%,0.0,,,,,XRAY
+356,,2020-01-14 16:17:20,2020-01-10,XRAY,Alfano Michael C,Dir,A - Grant,0.0,6,13394,0%,0.0,,,,,XRAY
+357,,2020-01-03 16:12:26,2020-01-01,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,56.59,-879,35460,-2%,-49743.0,,,,,XRAY
+358,,2019-12-13 16:21:14,2019-12-11,XRAY,Vergis Janet S.,Dir,A - Grant,0.0,2010,2010,New,0.0,,,,,XRAY
+359,,2019-11-15 17:39:05,2019-11-13,XRAY,Newell William E,Chief Segment Officer,F - Tax,56.48,-29,16359,0%,-1638.0,,,,,XRAY
+360,,2019-11-15 17:37:14,2019-11-13,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",F - Tax,56.48,-335,4370,-7%,-18921.0,,,,,XRAY
+361,D,2019-11-13 20:24:31,2019-11-12,XRAY,Alfano Michael C,Dir,M - OptEx,35.37,10665,13388,+392%,377209.0,,,,,XRAY
+362,D,2019-11-13 20:24:31,2019-11-12,XRAY,Alfano Michael C,Dir,S - Sale+OE,56.27,-10665,13388,-44%,-600110.0,,,,,XRAY
+363,D,2019-11-13 15:23:36,2019-11-11,XRAY,Yankie Lisa,"SVP, CHRO",A - Grant,0.0,4430,4430,New,0.0,,,,,XRAY
+364,,2019-10-16 16:33:28,2019-10-11,XRAY,Varon Leslie F,Dir,A - Grant,0.0,11,5593,0%,0.0,,,,,XRAY
+365,,2019-10-16 16:31:48,2019-10-11,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,2,971,0%,0.0,,,,,XRAY
+366,,2019-10-16 16:30:24,2019-10-11,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,19,36339,0%,0.0,,,,,XRAY
+367,D,2019-10-16 16:28:55,2019-10-11,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,14,16388,0%,0.0,,,,,XRAY
+368,D,2019-10-16 16:27:29,2019-10-11,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,13,14834,0%,0.0,,,,,XRAY
+369,,2019-10-16 16:25:57,2019-10-11,XRAY,Lunger Francis J,Dir,A - Grant,0.0,14,20386,0%,0.0,,,,,XRAY
+370,,2019-10-16 16:24:00,2019-10-11,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,6,13267,0%,0.0,,,,,XRAY
+371,,2019-10-16 16:22:38,2019-10-11,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,12,128175,0%,0.0,,,,,XRAY
+372,,2019-10-16 16:21:17,2019-10-11,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,6,41321,0%,0.0,,,,,XRAY
+373,,2019-10-16 16:19:44,2019-10-11,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,17,12752,0%,0.0,,,,,XRAY
+374,,2019-10-16 16:18:22,2019-10-11,XRAY,Holden Betsy D,Dir,A - Grant,0.0,12,9246,0%,0.0,,,,,XRAY
+375,,2019-10-16 16:16:57,2019-10-11,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,128,67742,0%,0.0,,,,,XRAY
+376,D,2019-10-16 16:15:38,2019-10-11,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,56,31626,0%,0.0,,,,,XRAY
+377,,2019-10-16 16:13:50,2019-10-11,XRAY,Deese Willie A,Dir,A - Grant,0.0,6,15174,0%,0.0,,,,,XRAY
+378,,2019-10-16 16:12:03,2019-10-11,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,27,14530,0%,0.0,,,,,XRAY
+379,D,2019-10-16 16:10:27,2019-10-11,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,9,4705,0%,0.0,,,,,XRAY
+380,D,2019-10-16 16:08:49,2019-10-11,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,168,138432,0%,0.0,,,,,XRAY
+381,,2019-10-16 16:06:09,2019-10-11,XRAY,Brandt Eric,Dir,A - Grant,0.0,24,28630,0%,0.0,,,,,XRAY
+382,,2019-10-16 16:02:31,2019-10-11,XRAY,Alfano Michael C,Dir,A - Grant,0.0,6,13388,0%,0.0,,,,,XRAY
+383,D,2019-08-30 16:06:30,2019-08-28,XRAY,Gomez Jorge M,"EVP, CFO",A - Grant,0.0,67614,67614,New,0.0,,,,,XRAY
+384,,2019-08-13 16:25:34,2019-08-09,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,52.37,-360,36320,-1%,-18853.0,,,,,XRAY
+385,,2019-07-16 16:47:46,2019-07-12,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,10,128163,0%,0.0,,,,,XRAY
+386,,2019-07-16 16:44:42,2019-07-12,XRAY,Varon Leslie F,Dir,A - Grant,0.0,8,5583,0%,0.0,,,,,XRAY
+387,,2019-07-16 16:42:56,2019-07-12,XRAY,Staehler Cord Friedrich,"SVP, CTO",A - Grant,0.0,1,969,0%,0.0,,,,,XRAY
+388,,2019-07-16 16:41:13,2019-07-12,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,16,36680,0%,0.0,,,,,XRAY
+389,D,2019-07-16 16:40:13,2019-07-12,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,11,16374,0%,0.0,,,,,XRAY
+390,D,2019-07-16 16:39:11,2019-07-12,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,10,14666,0%,0.0,,,,,XRAY
+391,,2019-07-16 16:37:53,2019-07-12,XRAY,Lunger Francis J,Dir,A - Grant,0.0,11,20372,0%,0.0,,,,,XRAY
+392,,2019-07-16 16:36:33,2019-07-12,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,5,13261,0%,0.0,,,,,XRAY
+393,,2019-07-16 16:34:14,2019-07-12,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,5,41315,0%,0.0,,,,,XRAY
+394,,2019-07-16 16:33:19,2019-07-12,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,13,12735,0%,0.0,,,,,XRAY
+395,,2019-07-16 16:32:20,2019-07-12,XRAY,Holden Betsy D,Dir,A - Grant,0.0,10,9234,0%,0.0,,,,,XRAY
+396,D,2019-07-16 16:31:28,2019-07-12,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,45,31570,0%,0.0,,,,,XRAY
+397,,2019-07-16 16:30:34,2019-07-12,XRAY,Deese Willie A,Dir,A - Grant,0.0,5,15168,0%,0.0,,,,,XRAY
+398,,2019-07-16 16:29:38,2019-07-12,XRAY,Coggin Matthew,"SVP, Business Dev, Strategy",A - Grant,0.0,22,14502,0%,0.0,,,,,XRAY
+399,D,2019-07-16 16:28:23,2019-07-12,XRAY,Chidambaram Chidambaram Alagappa,"SVP, Chief Digital Officer",A - Grant,0.0,7,4696,0%,0.0,,,,,XRAY
+400,D,2019-07-16 16:27:19,2019-07-12,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,133,138264,0%,0.0,,,,,XRAY
+401,D,2019-07-16 16:25:42,2019-07-12,XRAY,Brandt Eric,Dir,A - Grant,0.0,19,28606,0%,0.0,,,,,XRAY
+402,,2019-07-16 16:24:45,2019-07-12,XRAY,Alfano Michael C,Dir,A - Grant,0.0,5,13382,0%,0.0,,,,,XRAY
+403,D,2019-07-16 16:23:38,2019-07-12,XRAY,Alexos Nicholas W,"EVP, CFO",A - Grant,0.0,48,133969,0%,0.0,,,,,XRAY
+404,D,2019-06-11 16:19:54,2019-06-10,XRAY,Macinnis Maureen J.,"SVP, CHRO",M - OptEx,45.11,15000,14656,-4364%,676650.0,,,,,XRAY
+405,D,2019-06-11 16:19:54,2019-06-10,XRAY,Macinnis Maureen J.,"SVP, CHRO",S - Sale+OE,56.06,-15000,14656,-51%,-840900.0,,,,,XRAY
+406,,2019-06-07 16:21:53,2019-06-06,XRAY,Holden Betsy D,Dir,P - Purchase,55.31,2720,9224,+42%,150439.0,,,,,XRAY
+407,,2019-05-30 16:12:23,2019-05-29,XRAY,Casey Donald M Jr.,"Pres, CEO",P - Purchase,53.68,10000,138131,+8%,536769.0,,,,,XRAY
+408,,2019-05-29 16:55:44,2019-05-24,XRAY,Varon Leslie F,Dir,A - Grant,0.0,3256,5574,+140%,0.0,,,,,XRAY
+409,,2019-05-29 16:54:21,2019-05-24,XRAY,Lunger Francis J,Dir,A - Grant,0.0,4186,20361,+26%,0.0,,,,,XRAY
+410,,2019-05-29 16:52:59,2019-05-24,XRAY,Lucier Gregory T,Dir,A - Grant,0.0,3256,13256,+33%,0.0,,,,,XRAY
+411,,2019-05-29 16:50:44,2019-05-24,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,3256,128153,+3%,0.0,,,,,XRAY
+412,,2019-05-29 16:49:48,2019-05-24,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,3256,41310,+9%,0.0,,,,,XRAY
+413,,2019-05-29 16:48:57,2019-05-24,XRAY,Holden Betsy D,Dir,A - Grant,0.0,4186,6504,+181%,0.0,,,,,XRAY
+414,,2019-05-29 16:47:59,2019-05-24,XRAY,Deese Willie A,Dir,A - Grant,0.0,3256,15163,+27%,0.0,,,,,XRAY
+415,,2019-05-29 16:46:52,2019-05-24,XRAY,Brandt Eric,Dir,A - Grant,0.0,6344,28587,+29%,0.0,,,,,XRAY
+416,,2019-05-29 16:45:52,2019-05-24,XRAY,Alfano Michael C,Dir,A - Grant,0.0,3256,13377,+32%,0.0,,,,,XRAY
+417,,2019-05-28 17:05:37,2019-05-24,XRAY,Alfano Michael C,Dir,S - Sale,53.77,-1898,10121,-16%,-102050.0,,,,,XRAY
+418,,2019-05-23 18:14:04,2019-05-23,XRAY,Lucier Gregory T,Dir,P - Purchase,53.6,10000,10000,New,536047.0,,,,,XRAY
+419,D,2019-05-20 17:02:23,2019-05-16,XRAY,Boehringer Markus,"SVP, EMEA RCO",M - OptEx,36.62,22900,26949,+566%,838598.0,,,,,XRAY
+420,D,2019-05-20 17:02:23,2019-05-16,XRAY,Boehringer Markus,"SVP, EMEA RCO",S - Sale+OE,54.8,-22900,26949,-46%,-1254897.0,,,,,XRAY
+421,D,2019-05-13 16:19:18,2019-05-09,XRAY,Macinnis Maureen J.,"SVP, CHRO",M - OptEx,39.65,32100,14656,-184%,1272810.0,,,,,XRAY
+422,D,2019-05-13 16:19:18,2019-05-09,XRAY,Macinnis Maureen J.,"SVP, CHRO",S - Sale+OE,55.0,-54402,14656,-79%,-2992293.0,,,,,XRAY
+423,D,2019-05-13 16:17:54,2019-05-10,XRAY,Coleman Michael J,Dir,M - OptEx,29.7,9160,34823,+36%,272052.0,,,,,XRAY
+424,D,2019-05-13 16:17:54,2019-05-10,XRAY,Coleman Michael J,Dir,S - Sale+OE,54.9,-9160,34823,-21%,-502875.0,,,,,XRAY
+425,D,2019-05-13 16:16:32,2019-05-10,XRAY,Alfano Michael C,Dir,F - Tax,55.01,-1383,12019,-10%,-76079.0,,,,,XRAY
+426,D,2019-05-13 16:16:32,2019-05-10,XRAY,Alfano Michael C,Dir,M - OptEx,29.7,2560,12019,+27%,76032.0,,,,,XRAY
+427,D,2019-05-10 17:10:12,2019-05-08,XRAY,Newell William E,Chief Segment Officer,M - OptEx,37.84,55000,16362,-142%,2081428.0,,,,,XRAY
+428,DM,2019-05-10 17:10:12,2019-05-08,XRAY,Newell William E,Chief Segment Officer,S - Sale+OE,54.68,-58000,16362,-78%,-3171475.0,,,,,XRAY
+429,D,2019-05-08 16:22:02,2019-05-07,XRAY,Kraemer Harry M Jansen Jr,Dir,F - Tax,54.83,-10919,124897,-8%,-598689.0,,,,,XRAY
+430,D,2019-05-08 16:22:02,2019-05-07,XRAY,Kraemer Harry M Jansen Jr,Dir,M - OptEx,11.0,54426,124897,+77%,598686.0,,,,,XRAY
+431,D,2019-05-08 16:20:34,2019-05-07,XRAY,Boehringer Markus,"SVP, EMEA RCO",M - OptEx,33.86,25300,26949,>999%,856658.0,,,,,XRAY
+432,D,2019-05-08 16:20:34,2019-05-07,XRAY,Boehringer Markus,"SVP, EMEA RCO",S - Sale+OE,54.83,-25300,26949,-48%,-1387199.0,,,,,XRAY
+433,,2019-05-07 16:28:14,2019-05-07,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",P - Purchase,54.68,3697,12721,+41%,202152.0,,,,,XRAY
+434,D,2019-05-06 16:08:53,2019-05-03,XRAY,Brandt Eric,Dir,M - OptEx,29.7,9160,22243,+70%,272052.0,,,,,XRAY
+435,D,2019-05-06 16:08:53,2019-05-03,XRAY,Brandt Eric,Dir,S - Sale+OE,53.45,-9160,22243,-29%,-489602.0,,,,,XRAY
+436,,2019-04-15 16:20:50,2019-04-12,XRAY,Varon Leslie F,Dir,A - Grant,0.0,4,2318,0%,0.0,,,,,XRAY
+437,,2019-04-15 16:20:03,2019-04-12,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,73,36663,0%,0.0,,,,,XRAY
+438,D,2019-04-15 16:19:16,2019-04-12,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,71,19362,0%,0.0,,,,,XRAY
+439,,2019-04-15 16:18:15,2019-04-12,XRAY,Mueller Henning,"Group VP, Asia Pacific RCO",A - Grant,0.0,18,9699,0%,0.0,,,,,XRAY
+440,D,2019-04-15 16:17:30,2019-04-12,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,36,36958,0%,0.0,,,,,XRAY
+441,D,2019-04-15 16:16:33,2019-04-12,XRAY,Lunger Francis J,Dir,A - Grant,0.0,8,16175,0%,0.0,,,,,XRAY
+442,,2019-04-15 16:15:42,2019-04-12,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,6,81390,0%,0.0,,,,,XRAY
+443,,2019-04-15 16:15:03,2019-04-12,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,3,38054,0%,0.0,,,,,XRAY
+444,,2019-04-15 16:13:37,2019-04-12,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,47,9024,+1%,0.0,,,,,XRAY
+445,,2019-04-15 16:12:57,2019-04-12,XRAY,Jetter Thomas,Dir,A - Grant,0.0,3,27716,0%,0.0,,,,,XRAY
+446,,2019-04-15 16:12:15,2019-04-12,XRAY,Holden Betsy D,Dir,A - Grant,0.0,4,2318,0%,0.0,,,,,XRAY
+447,D,2019-04-15 16:11:34,2019-04-12,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,117,31526,0%,0.0,,,,,XRAY
+448,,2019-04-15 16:10:44,2019-04-12,XRAY,Deese Willie A,Dir,A - Grant,0.0,3,11907,0%,0.0,,,,,XRAY
+449,D,2019-04-15 16:09:59,2019-04-12,XRAY,Coleman Michael J,Dir,A - Grant,0.0,22,34823,0%,0.0,,,,,XRAY
+450,D,2019-04-15 16:08:13,2019-04-12,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,335,128131,0%,0.0,,,,,XRAY
+451,D,2019-04-15 16:07:21,2019-04-12,XRAY,Brandt Eric,Dir,A - Grant,0.0,16,22243,0%,0.0,,,,,XRAY
+452,,2019-04-15 16:06:38,2019-04-12,XRAY,Boehringer Markus,"SVP, EMEA RCO",A - Grant,0.0,7,26949,0%,0.0,,,,,XRAY
+453,,2019-04-15 16:05:51,2019-04-12,XRAY,Beecken David,Dir,A - Grant,0.0,3,40483,0%,0.0,,,,,XRAY
+454,,2019-04-15 16:04:51,2019-04-12,XRAY,Alfano Michael C,Dir,A - Grant,0.0,3,10842,0%,0.0,,,,,XRAY
+455,,2019-04-15 16:04:51,2017-11-15,XRAY,Alfano Michael C,Dir,S - Sale,66.52,-2632,10842,-20%,-175081.0,,,,,XRAY
+456,D,2019-04-15 16:02:17,2019-04-12,XRAY,Alexos Nicholas W,"EVP, CFO",A - Grant,0.0,132,133767,0%,0.0,,,,,XRAY
+457,D,2019-03-14 16:14:43,2019-03-12,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,3297,36590,+10%,0.0,,,,,XRAY
+458,D,2019-03-14 16:13:43,2019-03-12,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,3297,16741,+25%,0.0,,,,,XRAY
+459,D,2019-03-14 16:12:37,2019-03-12,XRAY,Mueller Henning,"Group VP, Asia Pacific RCO",A - Grant,0.0,1268,9681,+15%,0.0,,,,,XRAY
+460,D,2019-03-14 16:11:40,2019-03-12,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,2714,32626,+9%,0.0,,,,,XRAY
+461,D,2019-03-14 16:10:32,2019-03-12,XRAY,Key Daniel P,"SVP,Chief Supply Chain Officer",A - Grant,0.0,8977,8977,New,0.0,,,,,XRAY
+462,D,2019-03-14 16:09:32,2019-03-12,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,7354,31408,+31%,0.0,,,,,XRAY
+463,D,2019-03-14 16:08:21,2019-03-12,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,20288,127796,+19%,0.0,,,,,XRAY
+464,D,2019-03-14 16:05:29,2019-03-12,XRAY,Alexos Nicholas W,"EVP, CFO",A - Grant,0.0,8622,133635,+7%,0.0,,,,,XRAY
+465,,2019-03-08 16:49:27,2019-03-06,XRAY,Newell William E,Chief Segment Officer,F - Tax,47.75,-299,13444,-2%,-14277.0,,,,,XRAY
+466,,2019-03-08 16:48:11,2019-03-06,XRAY,Macinnis Maureen J.,"SVP, CHRO",F - Tax,47.75,-230,29912,-1%,-10983.0,,,,,XRAY
+467,,2019-03-08 16:46:53,2019-03-06,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",F - Tax,47.75,-612,24054,-2%,-29223.0,,,,,XRAY
+468,,2019-03-08 16:45:49,2019-03-06,XRAY,Casey Donald M Jr.,"Pres, CEO",F - Tax,47.75,-8019,107508,-7%,-382907.0,,,,,XRAY
+469,,2019-03-08 16:44:37,2019-03-06,XRAY,Boehringer Markus,"SVP, EMEA RCO",F - Tax,47.75,-364,26942,-1%,-17381.0,,,,,XRAY
+470,,2019-03-08 16:43:32,2019-03-06,XRAY,Alexos Nicholas W,"EVP, CFO",F - Tax,47.75,-726,125013,-1%,-34667.0,,,,,XRAY
+471,,2019-03-05 16:19:32,2019-03-01,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,959,33293,+3%,0.0,,,,,XRAY
+472,,2019-03-05 16:19:32,2019-03-01,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,49.13,-480,33293,-1%,-23582.0,,,,,XRAY
+473,,2019-03-05 16:16:20,2019-03-01,XRAY,Mueller Henning,"Group VP, Asia Pacific RCO",A - Grant,0.0,513,8413,+6%,0.0,,,,,XRAY
+474,,2019-02-20 16:12:38,2019-02-17,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,663,13743,+5%,0.0,,,,,XRAY
+475,,2019-02-20 16:12:38,2019-02-17,XRAY,Newell William E,Chief Segment Officer,F - Tax,43.58,-1255,13743,-8%,-54693.0,,,,,XRAY
+476,,2019-02-20 16:10:57,2019-02-17,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,771,30300,+3%,0.0,,,,,XRAY
+477,,2019-02-20 16:10:57,2019-02-17,XRAY,Macinnis Maureen J.,"SVP, CHRO",F - Tax,43.58,-1263,30300,-4%,-55042.0,,,,,XRAY
+478,,2019-02-20 16:08:40,2019-02-17,XRAY,Boehringer Markus,"SVP, EMEA RCO",A - Grant,0.0,630,27306,+2%,0.0,,,,,XRAY
+479,,2019-02-20 16:08:40,2019-02-17,XRAY,Boehringer Markus,"SVP, EMEA RCO",F - Tax,43.58,-1509,27306,-5%,-65762.0,,,,,XRAY
+480,,2019-01-15 16:33:21,2019-01-11,XRAY,Varon Leslie F,Dir,A - Grant,0.0,5,2314,0%,0.0,,,,,XRAY
+481,,2019-01-15 16:32:29,2019-01-11,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,22,32814,0%,0.0,,,,,XRAY
+482,D,2019-01-15 16:31:19,2019-01-11,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,19,14335,0%,0.0,,,,,XRAY
+483,,2019-01-15 16:30:05,2019-01-11,XRAY,Mueller Henning,"Group VP, Asia Pacific RCO",A - Grant,0.0,9,7900,0%,0.0,,,,,XRAY
+484,D,2019-01-15 16:28:41,2019-01-11,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,19,30634,0%,0.0,,,,,XRAY
+485,D,2019-01-15 16:27:39,2019-01-11,XRAY,Lunger Francis J,Dir,A - Grant,0.0,11,16167,0%,0.0,,,,,XRAY
+486,,2019-01-15 16:26:39,2019-01-11,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,7,81385,0%,0.0,,,,,XRAY
+487,,2019-01-15 16:25:45,2019-01-11,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,4,38050,0%,0.0,,,,,XRAY
+488,,2019-01-15 16:24:46,2019-01-11,XRAY,Jetter Thomas,Dir,A - Grant,0.0,4,27712,0%,0.0,,,,,XRAY
+489,,2019-01-15 16:23:36,2019-01-11,XRAY,Holden Betsy D,Dir,A - Grant,0.0,5,2314,0%,0.0,,,,,XRAY
+490,,2019-01-15 16:22:25,2019-01-11,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,58,24666,0%,0.0,,,,,XRAY
+491,,2019-01-15 16:21:16,2019-01-11,XRAY,Deese Willie A,Dir,A - Grant,0.0,4,11904,0%,0.0,,,,,XRAY
+492,D,2019-01-15 16:20:05,2019-01-11,XRAY,Coleman Michael J,Dir,A - Grant,0.0,29,34801,0%,0.0,,,,,XRAY
+493,,2019-01-15 16:19:00,2019-01-11,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,219,115527,0%,0.0,,,,,XRAY
+494,D,2019-01-15 16:17:49,2019-01-11,XRAY,Brandt Eric,Dir,A - Grant,0.0,21,22227,0%,0.0,,,,,XRAY
+495,,2019-01-15 16:16:48,2019-01-11,XRAY,Boehringer Markus,"SVP, EMEA RCO",A - Grant,0.0,17,28185,0%,0.0,,,,,XRAY
+496,,2019-01-15 16:15:53,2019-01-11,XRAY,Beecken David,Dir,A - Grant,0.0,4,40479,0%,0.0,,,,,XRAY
+497,,2019-01-15 16:14:36,2019-01-11,XRAY,Alfano Michael C,Dir,A - Grant,0.0,4,13471,0%,0.0,,,,,XRAY
+498,,2019-01-15 16:13:25,2019-01-11,XRAY,Alexos Nicholas W,"EVP, CFO",A - Grant,0.0,60,125739,0%,0.0,,,,,XRAY
+499,,2019-01-03 16:38:50,2019-01-01,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,37.21,-868,32792,-3%,-32298.0,,,,,XRAY
+500,D,2018-12-11 16:12:18,2018-12-07,XRAY,Newell William E,Chief Segment Officer,F - Tax,36.31,-9831,14316,-41%,-356964.0,,,,,XRAY
+501,D,2018-12-11 16:12:18,2018-12-07,XRAY,Newell William E,Chief Segment Officer,M - OptEx,0.0,12150,14316,+561%,0.0,,,,,XRAY
+502,D,2018-12-04 16:41:02,2018-12-03,XRAY,Boehringer Markus,"SVP, EMEA RCO",M - OptEx,25.91,23400,28168,+491%,606294.0,,,,,XRAY
+503,D,2018-12-04 16:41:02,2018-12-03,XRAY,Boehringer Markus,"SVP, EMEA RCO",S - Sale+OE,37.86,-7373,28168,-21%,-279140.0,,,,,XRAY
+504,,2018-11-27 16:11:19,2018-11-24,XRAY,Petersohn Walter,Chief Commercial Officer,F - Tax,36.51,-5076,33660,-13%,-185325.0,,,,,XRAY
+505,D,2018-11-15 15:16:20,2018-11-13,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,195,11997,+2%,0.0,,,,,XRAY
+506,,2018-10-16 16:23:28,2018-10-12,XRAY,Varon Leslie F,Dir,A - Grant,0.0,5,2309,0%,0.0,,,,,XRAY
+507,,2018-10-16 16:22:20,2018-10-12,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,45,38736,0%,0.0,,,,,XRAY
+508,D,2018-10-16 16:21:14,2018-10-12,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,19,11980,0%,0.0,,,,,XRAY
+509,,2018-10-16 16:20:02,2018-10-12,XRAY,Mueller Henning,"Group VP, Asia Pacific RCO",A - Grant,0.0,18,7891,0%,0.0,,,,,XRAY
+510,D,2018-10-16 16:18:49,2018-10-12,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,19,30457,0%,0.0,,,,,XRAY
+511,D,2018-10-16 16:17:35,2018-10-12,XRAY,Lunger Francis J,Dir,A - Grant,0.0,11,16156,0%,0.0,,,,,XRAY
+512,,2018-10-16 16:16:27,2018-10-12,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,7,81377,0%,0.0,,,,,XRAY
+513,,2018-10-16 16:15:24,2018-10-12,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,4,38046,0%,0.0,,,,,XRAY
+514,,2018-10-16 16:14:21,2018-10-12,XRAY,Jetter Thomas,Dir,A - Grant,0.0,4,27708,0%,0.0,,,,,XRAY
+515,,2018-10-16 16:13:22,2018-10-12,XRAY,Holden Betsy D,Dir,A - Grant,0.0,5,2309,0%,0.0,,,,,XRAY
+516,,2018-10-16 16:12:10,2018-10-12,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,56,24609,0%,0.0,,,,,XRAY
+517,,2018-10-16 16:11:11,2018-10-12,XRAY,Deese Willie A,Dir,A - Grant,0.0,4,11899,0%,0.0,,,,,XRAY
+518,D,2018-10-16 16:10:03,2018-10-12,XRAY,Coleman Michael J,Dir,A - Grant,0.0,29,34772,0%,0.0,,,,,XRAY
+519,,2018-10-16 16:08:50,2018-10-12,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,215,115308,0%,0.0,,,,,XRAY
+520,D,2018-10-16 16:07:40,2018-10-12,XRAY,Brandt Eric,Dir,A - Grant,0.0,21,22205,0%,0.0,,,,,XRAY
+521,,2018-10-16 16:06:10,2018-10-12,XRAY,Boehringer Markus,"SVP, EMEA RCO",A - Grant,0.0,17,12141,0%,0.0,,,,,XRAY
+522,,2018-10-16 16:04:51,2018-10-12,XRAY,Beecken David,Dir,A - Grant,0.0,4,40475,0%,0.0,,,,,XRAY
+523,,2018-10-16 16:03:48,2018-10-12,XRAY,Alfano Michael C,Dir,A - Grant,0.0,4,13466,0%,0.0,,,,,XRAY
+524,,2018-10-16 16:02:33,2018-10-12,XRAY,Alexos Nicholas W,"EVP, CFO",A - Grant,0.0,59,125521,0%,0.0,,,,,XRAY
+525,D,2018-08-13 16:34:22,2018-08-09,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,2141,38692,+6%,0.0,,,,,XRAY
+526,D,2018-08-13 16:32:58,2018-08-09,XRAY,Newell William E,Chief Segment Officer,A - Grant,0.0,178,11962,+2%,0.0,,,,,XRAY
+527,D,2018-07-31 16:22:53,2018-07-27,XRAY,Lunger Francis J,Dir,F - Tax,47.28,-997,16146,-6%,-47138.0,,,,,XRAY
+528,D,2018-07-31 16:22:53,2018-07-27,XRAY,Lunger Francis J,Dir,M - OptEx,39.39,1196,16146,+8%,47110.0,,,,,XRAY
+529,,2018-07-13 16:51:23,2018-07-13,XRAY,Varon Leslie F,Dir,A - Grant,0.0,5,2303,0%,0.0,,,,,XRAY
+530,,2018-07-13 16:50:17,2018-07-13,XRAY,Petersohn Walter,SVP Americas RCO,A - Grant,0.0,34,36551,0%,0.0,,,,,XRAY
+531,D,2018-06-04 17:03:25,2018-06-01,XRAY,Coleman Michael J,Dir,M - OptEx,38.03,6038,34718,+21%,229605.0,,,,,XRAY
+532,D,2018-06-04 17:03:25,2018-06-01,XRAY,Coleman Michael J,Dir,S - Sale+OE,43.97,-6038,34718,-15%,-265503.0,,,,,XRAY
+533,,2018-05-31 16:30:56,2018-05-30,XRAY,Alfano Michael C,Dir,S - Sale,45.83,-1404,13458,-9%,-64341.0,,,,,XRAY
+534,D,2018-05-24 17:25:08,2018-05-23,XRAY,Varon Leslie F,Dir,A - Grant,0.0,1882,2299,+452%,0.0,,,,,XRAY
+535,D,2018-05-24 17:23:34,2018-05-23,XRAY,Lunger Francis J,Dir,A - Grant,0.0,1882,15938,+13%,0.0,,,,,XRAY
+536,D,2018-05-24 17:22:12,2018-05-23,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,1882,81364,+2%,0.0,,,,,XRAY
+537,D,2018-05-24 17:19:46,2018-05-23,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,1882,38038,+5%,0.0,,,,,XRAY
+538,D,2018-05-24 17:17:56,2018-05-23,XRAY,Jetter Thomas,Dir,A - Grant,0.0,1882,27700,+7%,0.0,,,,,XRAY
+539,D,2018-05-24 17:17:03,2018-05-23,XRAY,Holden Betsy D,Dir,A - Grant,0.0,1882,2299,+452%,0.0,,,,,XRAY
+540,D,2018-05-24 17:14:57,2018-05-23,XRAY,Deese Willie A,Dir,A - Grant,0.0,1882,11891,+19%,0.0,,,,,XRAY
+541,D,2018-05-24 17:13:59,2018-05-23,XRAY,Coleman Michael J,Dir,A - Grant,0.0,1882,34718,+6%,0.0,,,,,XRAY
+542,D,2018-05-24 17:12:30,2018-05-23,XRAY,Brandt Eric,Dir,A - Grant,0.0,2592,22166,+13%,0.0,,,,,XRAY
+543,D,2018-05-24 17:11:25,2018-05-23,XRAY,Beecken David,Dir,A - Grant,0.0,1882,40467,+5%,0.0,,,,,XRAY
+544,D,2018-05-24 17:10:28,2018-05-23,XRAY,Alfano Michael C,Dir,A - Grant,0.0,1882,14862,+14%,0.0,,,,,XRAY
+545,D,2018-05-15 16:31:52,2018-05-11,XRAY,Kraemer Harry M Jansen Jr,Dir,F - Tax,46.93,-8635,79482,-10%,-405241.0,,,,,XRAY
+546,D,2018-05-15 16:31:52,2018-05-11,XRAY,Kraemer Harry M Jansen Jr,Dir,M - OptEx,14.89,27213,79482,+52%,405202.0,,,,,XRAY
+547,D,2018-05-15 16:27:30,2018-05-11,XRAY,Kowaloff Arthur D,Dir,F - Tax,46.93,-2879,36156,-7%,-135111.0,,,,,XRAY
+548,D,2018-05-15 16:27:30,2018-05-11,XRAY,Kowaloff Arthur D,Dir,M - OptEx,14.89,9071,36156,+33%,135067.0,,,,,XRAY
+549,D,2018-05-11 16:03:34,2018-05-10,XRAY,Coleman Michael J,Dir,M - OptEx,41.07,414,32836,+1%,17003.0,,,,,XRAY
+550,D,2018-05-11 16:03:34,2018-05-10,XRAY,Coleman Michael J,Dir,S - Sale+OE,46.66,-414,32836,-1%,-19316.0,,,,,XRAY
+551,,2018-05-09 16:53:35,2018-05-09,XRAY,Alexos Nicholas W,"EVP, CFO",P - Purchase,44.71,50000,125411,+66%,2235500.0,,,,,XRAY
+552,,2018-05-09 16:51:01,2018-05-09,XRAY,Casey Donald M Jr.,"Pres, CEO",P - Purchase,44.52,22500,114908,+24%,1001720.0,,,,,XRAY
+553,,2018-04-13 16:39:51,2018-04-13,XRAY,Varon Leslie F,Dir,A - Grant,0.0,1,417,0%,0.0,,,,,XRAY
+554,,2018-04-13 16:38:28,2018-04-13,XRAY,Sheehan Gregory,"Group VP, Americas RCO",A - Grant,0.0,7,8368,0%,0.0,,,,,XRAY
+555,,2018-04-13 16:37:07,2018-04-13,XRAY,Newell William E,SVP Consumables Endo Ortho,A - Grant,0.0,14,11768,0%,0.0,,,,,XRAY
+556,,2018-04-13 16:35:18,2018-04-13,XRAY,Mueller Henning,"Group VP, Asia Pacific RCO",A - Grant,0.0,14,7857,0%,0.0,,,,,XRAY
+557,,2018-04-13 16:33:14,2018-04-13,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,14,30422,0%,0.0,,,,,XRAY
+558,,2018-04-13 16:31:28,2018-04-13,XRAY,Lunger Francis J,Dir,A - Grant,0.0,7,11383,0%,0.0,,,,,XRAY
+559,,2018-04-13 16:29:55,2018-04-13,XRAY,Legros Dominique,"SVP Technologies, Equipment",A - Grant,0.0,11,12593,0%,0.0,,,,,XRAY
+560,,2018-04-13 16:28:42,2018-04-13,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,6,60904,0%,0.0,,,,,XRAY
+561,,2018-04-13 16:27:23,2018-04-13,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,4,29964,0%,0.0,,,,,XRAY
+562,,2018-04-13 16:26:10,2018-04-13,XRAY,Jetter Thomas,Dir,A - Grant,0.0,4,25818,0%,0.0,,,,,XRAY
+563,,2018-04-13 16:25:02,2018-04-13,XRAY,Holden Betsy D,Dir,A - Grant,0.0,1,417,0%,0.0,,,,,XRAY
+564,,2018-04-13 16:23:49,2018-04-13,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,42,24504,0%,0.0,,,,,XRAY
+565,,2018-04-13 16:22:37,2018-04-13,XRAY,Deese Willie A,Dir,A - Grant,0.0,2,10009,0%,0.0,,,,,XRAY
+566,,2018-04-13 16:21:24,2018-04-13,XRAY,Coleman Michael J,Dir,A - Grant,0.0,21,22333,0%,0.0,,,,,XRAY
+567,,2018-04-13 16:20:04,2018-04-13,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,160,92408,0%,0.0,,,,,XRAY
+568,,2018-04-13 16:18:30,2018-04-13,XRAY,Brandt Eric,Dir,A - Grant,0.0,14,19574,0%,0.0,,,,,XRAY
+569,,2018-04-13 16:17:06,2018-04-13,XRAY,Boehringer Markus,"SVP, EMEA RCO",A - Grant,0.0,13,12110,0%,0.0,,,,,XRAY
+570,,2018-04-13 16:15:41,2018-04-13,XRAY,Beecken David,Dir,A - Grant,0.0,4,38585,0%,0.0,,,,,XRAY
+571,,2018-04-13 16:14:13,2018-04-13,XRAY,Alfano Michael C,Dir,A - Grant,0.0,2,12980,0%,0.0,,,,,XRAY
+572,,2018-04-13 16:12:42,2018-04-13,XRAY,Alexos Nicholas W,"EVP, CFO",A - Grant,0.0,44,75411,0%,0.0,,,,,XRAY
+573,D,2018-03-08 17:44:17,2018-03-06,XRAY,Sheehan Gregory,"Group VP, Americas RCO",A - Grant,0.0,1441,8361,+21%,0.0,,,,,XRAY
+574,D,2018-03-08 17:39:57,2018-03-06,XRAY,Newell William E,"SVP, Consumables",A - Grant,0.0,2661,11754,+29%,0.0,,,,,XRAY
+575,D,2018-03-08 17:36:54,2018-03-06,XRAY,Mueller Henning,"Group VP, Asia Pacific RCO",A - Grant,0.0,1109,7844,+16%,0.0,,,,,XRAY
+576,D,2018-03-08 17:34:13,2018-03-06,XRAY,Legros Dominique,"SVP Technologies, Equipment",A - Grant,0.0,2661,12582,+27%,0.0,,,,,XRAY
+577,D,2018-03-08 17:32:02,2018-03-06,XRAY,Boehringer Markus,"SVP, EMEA RCO",A - Grant,0.0,2439,12097,+25%,0.0,,,,,XRAY
+578,D,2018-03-08 17:29:53,2018-03-06,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,2373,27045,+10%,0.0,,,,,XRAY
+579,D,2018-03-08 17:28:04,2018-03-06,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,6431,24462,+36%,0.0,,,,,XRAY
+580,D,2018-03-08 17:26:11,2018-03-06,XRAY,Casey Donald M Jr.,"Pres, CEO",A - Grant,0.0,92248,92248,New,0.0,,,,,XRAY
+581,D,2018-03-08 17:24:21,2018-03-06,XRAY,Alexos Nicholas W,"EVP, CFO",A - Grant,0.0,7539,75367,+11%,0.0,,,,,XRAY
+582,,2018-02-27 17:11:55,2018-02-26,XRAY,Thierer Mark,Interim Chief Exec Officer,F - Tax,57.18,-16128,103198,-14%,-922199.0,,,,,XRAY
+583,D,2018-02-27 17:09:42,2018-02-23,XRAY,Size Robert J.,"Interim Pres, COO",F - Tax,57.67,-2563,26374,-9%,-147808.0,,,,,XRAY
+584,D,2018-02-27 17:09:42,2018-02-23,XRAY,Size Robert J.,"Interim Pres, COO",M - OptEx,0.0,8897,26374,+51%,0.0,,,,,XRAY
+585,D,2018-02-27 17:07:51,2018-02-23,XRAY,Macinnis Maureen J.,"SVP, CHRO",F - Tax,57.67,-2009,24672,-8%,-115859.0,,,,,XRAY
+586,D,2018-02-27 17:07:51,2018-02-23,XRAY,Macinnis Maureen J.,"SVP, CHRO",M - OptEx,0.0,6809,24672,+38%,0.0,,,,,XRAY
+587,D,2018-02-15 16:11:12,2018-02-13,XRAY,Varon Leslie F,Dir,A - Grant,0.0,416,416,New,0.0,,,,,XRAY
+588,D,2018-02-15 16:06:10,2018-02-13,XRAY,Holden Betsy D,Dir,A - Grant,0.0,416,416,New,0.0,,,,,XRAY
+589,,2018-01-16 17:41:20,2018-01-12,XRAY,Deese Willie A,Dir,A - Grant,0.0,2,10007,0%,0.0,,,,,XRAY
+590,,2018-01-16 17:36:19,2018-01-12,XRAY,Thierer Mark,Interim Chief Exec Officer,A - Grant,0.0,56,119326,0%,0.0,,,,,XRAY
+591,D,2018-01-16 17:34:24,2018-01-12,XRAY,Size Robert J.,"Interim Pres, COO",A - Grant,0.0,13,20040,0%,0.0,,,,,XRAY
+592,D,2018-01-16 17:31:34,2018-01-12,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,3,19872,0%,0.0,,,,,XRAY
+593,D,2018-01-16 17:30:03,2018-01-12,XRAY,Lunger Francis J,Dir,A - Grant,0.0,2,11376,0%,0.0,,,,,XRAY
+594,,2018-01-16 17:28:37,2018-01-12,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,5,59672,0%,0.0,,,,,XRAY
+595,,2018-01-16 17:27:17,2018-01-12,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,3,29959,0%,0.0,,,,,XRAY
+596,,2018-01-16 17:26:04,2018-01-12,XRAY,Jetter Thomas,Dir,A - Grant,0.0,3,25813,0%,0.0,,,,,XRAY
+597,,2018-01-16 17:24:32,2018-01-12,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,24,18031,0%,0.0,,,,,XRAY
+598,D,2018-01-16 17:22:24,2018-01-12,XRAY,Coleman Michael J,Dir,A - Grant,0.0,2,22313,0%,0.0,,,,,XRAY
+599,D,2018-01-16 17:20:40,2018-01-12,XRAY,Brandt Eric,Dir,A - Grant,0.0,2,12262,0%,0.0,,,,,XRAY
+600,,2018-01-16 17:18:56,2018-01-12,XRAY,Beecken David,Dir,A - Grant,0.0,3,38580,0%,0.0,,,,,XRAY
+601,,2018-01-16 17:17:25,2018-01-12,XRAY,Alfano Michael C,Dir,A - Grant,0.0,2,12978,0%,0.0,,,,,XRAY
+602,,2018-01-16 17:16:18,2018-01-12,XRAY,Alexos Nicholas W,"EVP, CFO",A - Grant,0.0,24,67828,0%,0.0,,,,,XRAY
+603,D,2018-01-10 17:04:19,2018-01-08,XRAY,Brandt Eric,Dir,M - OptEx,40.76,6409,12260,+110%,261208.0,,,,,XRAY
+604,D,2018-01-10 17:04:19,2018-01-08,XRAY,Brandt Eric,Dir,S - Sale+OE,68.04,-6409,12260,-34%,-436068.0,,,,,XRAY
+605,,2017-11-21 16:36:01,2017-11-21,XRAY,Kowaloff Arthur D,Dir,G - Gift,0.0,-1145,29956,-4%,-0.0,,,,,XRAY
+606,D,2017-11-15 16:03:17,2017-11-13,XRAY,Lunger Francis J,Dir,M - OptEx,35.91,8900,11374,+360%,319599.0,,,,,XRAY
+607,D,2017-11-15 16:03:17,2017-11-13,XRAY,Lunger Francis J,Dir,S - Sale+OE,65.9,-8900,11374,-44%,-586528.0,,,,,XRAY
+608,,2017-11-14 16:28:30,2017-11-13,XRAY,Alexos Nicholas W,"EVP, CFO",P - Purchase,65.85,50000,67804,+281%,3292500.0,,,,,XRAY
+609,,2017-11-14 16:25:07,2017-11-13,XRAY,Thierer Mark,Interim Chief Exec Officer,P - Purchase,66.04,77000,119270,+182%,5084741.0,,,,,XRAY
+610,,2017-10-17 17:35:10,2017-10-13,XRAY,Thierer Mark,Interim Chief Exec Officer,A - Grant,0.0,62,42270,0%,0.0,,,,,XRAY
+611,D,2017-10-17 17:33:19,2017-10-13,XRAY,Size Robert J.,"Interim Pres, COO",A - Grant,0.0,15,20027,0%,0.0,,,,,XRAY
+612,,2017-10-17 17:31:31,2017-10-13,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,50,44964,0%,0.0,,,,,XRAY
+613,,2017-10-17 17:29:45,2017-10-13,XRAY,Michel Ulrich,"EVP, CFO",A - Grant,0.0,63,78147,0%,0.0,,,,,XRAY
+614,D,2017-10-17 17:27:51,2017-10-13,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,3,19869,0%,0.0,,,,,XRAY
+615,D,2017-10-17 17:20:41,2017-10-13,XRAY,Lunger Francis J,Dir,A - Grant,0.0,2,11374,0%,0.0,,,,,XRAY
+616,,2017-10-17 17:19:25,2017-10-13,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,5,59667,0%,0.0,,,,,XRAY
+617,,2017-10-17 17:18:12,2017-10-13,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,4,31101,0%,0.0,,,,,XRAY
+618,,2017-10-17 17:17:05,2017-10-13,XRAY,Jetter Thomas,Dir,A - Grant,0.0,4,25810,0%,0.0,,,,,XRAY
+619,,2017-10-17 17:15:23,2017-10-13,XRAY,Deese Willie A,Dir,A - Grant,0.0,2,10005,0%,0.0,,,,,XRAY
+620,D,2017-10-17 17:13:56,2017-10-13,XRAY,Coleman Michael J,Dir,A - Grant,0.0,2,22311,0%,0.0,,,,,XRAY
+621,D,2017-10-17 17:10:40,2017-10-13,XRAY,Brandt Eric,Dir,A - Grant,0.0,2,12260,0%,0.0,,,,,XRAY
+622,,2017-10-17 17:08:49,2017-10-13,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",A - Grant,0.0,21,26323,0%,0.0,,,,,XRAY
+623,,2017-10-17 17:03:58,2017-10-13,XRAY,Beecken David,Dir,A - Grant,0.0,4,38577,0%,0.0,,,,,XRAY
+624,,2017-10-17 17:02:10,2017-10-13,XRAY,Alfano Michael C,Dir,A - Grant,0.0,2,12976,0%,0.0,,,,,XRAY
+625,D,2017-10-12 16:46:19,2017-10-10,XRAY,Ebling Keith J.,"EVP, Secretary, Gen. Counsel",A - Grant,0.0,17804,18007,>999%,0.0,,,,,XRAY
+626,D,2017-10-12 16:41:16,2017-10-10,XRAY,Alexos Nicholas W,"EVP, CAO",A - Grant,0.0,17804,17804,New,0.0,,,,,XRAY
+627,,2017-10-02 18:42:54,2017-09-28,XRAY,Thierer Mark,Interim Chief Exec Officer,A - Grant,0.0,42208,42208,New,0.0,,,,,XRAY
+628,D,2017-10-02 18:40:48,2017-09-28,XRAY,Size Robert J.,"Interim Pres, COO",A - Grant,0.0,10105,10105,New,0.0,,,,,XRAY
+629,,2017-07-18 16:42:29,2017-07-14,XRAY,Petersohn Walter,Chief Commercial Officer,A - Grant,0.0,46,44914,0%,0.0,,,,,XRAY
+630,D,2017-07-18 16:42:23,2017-07-14,XRAY,Wise Bret W,"Exec COB, Board",A - Grant,0.0,25,178867,0%,0.0,,,,,XRAY
+631,,2017-07-18 16:42:17,2017-07-14,XRAY,Slovin Jeffrey,CEO,A - Grant,0.0,205,767357,0%,0.0,,,,,XRAY
+632,,2017-07-18 16:42:11,2017-07-14,XRAY,Michel Ulrich,"EVP, CFO",A - Grant,0.0,58,78084,0%,0.0,,,,,XRAY
+633,D,2017-07-18 16:36:16,2017-07-14,XRAY,Clark Christopher T,"Pres, CEO Technologies",A - Grant,0.0,12,80079,0%,0.0,,,,,XRAY
+634,,2017-07-18 16:36:11,2017-07-14,XRAY,Jetter Thomas,Dir,A - Grant,0.0,3,25806,0%,0.0,,,,,XRAY
+635,,2017-07-18 16:36:04,2017-07-14,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,3,31097,0%,0.0,,,,,XRAY
+636,D,2017-07-18 16:35:52,2017-07-14,XRAY,Brandt Eric,Dir,A - Grant,0.0,2,12258,0%,0.0,,,,,XRAY
+637,D,2017-07-18 16:35:46,2017-07-14,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,3,19865,0%,0.0,,,,,XRAY
+638,D,2017-07-18 16:35:41,2017-07-14,XRAY,Lunger Francis J,Dir,A - Grant,0.0,2,11372,0%,0.0,,,,,XRAY
+639,,2017-07-18 16:35:35,2017-07-14,XRAY,Deese Willie A,Dir,A - Grant,0.0,2,10003,0%,0.0,,,,,XRAY
+640,,2017-07-18 16:35:28,2017-07-14,XRAY,Beecken David,Dir,A - Grant,0.0,3,38573,0%,0.0,,,,,XRAY
+641,,2017-07-18 16:35:23,2017-07-14,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,5,59662,0%,0.0,,,,,XRAY
+642,D,2017-07-18 16:35:17,2017-07-14,XRAY,Coleman Michael J,Dir,A - Grant,0.0,2,22309,0%,0.0,,,,,XRAY
+643,,2017-07-18 16:35:11,2017-07-14,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",A - Grant,0.0,19,26302,0%,0.0,,,,,XRAY
+644,,2017-07-18 16:28:11,2017-07-14,XRAY,Alfano Michael C,Dir,A - Grant,0.0,2,12974,0%,0.0,,,,,XRAY
+645,D,2017-07-12 16:28:11,2017-07-12,XRAY,Kraemer Harry M Jansen Jr,Dir,M - OptEx,17.18,27213,59657,+84%,467519.0,,,,,XRAY
+646,D,2017-05-26 17:56:18,2017-05-24,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,1395,32444,+4%,0.0,,,,,XRAY
+647,D,2017-05-26 17:56:11,2017-05-24,XRAY,Lunger Francis J,Dir,A - Grant,0.0,1395,11370,+14%,0.0,,,,,XRAY
+648,D,2017-05-26 17:49:40,2017-05-24,XRAY,Deese Willie A,Dir,A - Grant,0.0,1395,10001,+16%,0.0,,,,,XRAY
+649,D,2017-05-26 17:49:40,2017-05-25,XRAY,Deese Willie A,Dir,M - OptEx,0.0,1220,10001,+14%,0.0,,,,,XRAY
+650,D,2017-05-26 17:49:34,2017-05-24,XRAY,Coleman Michael J,Dir,A - Grant,0.0,1395,22307,+7%,0.0,,,,,XRAY
+651,D,2017-05-26 17:49:28,2017-05-24,XRAY,Brandt Eric,Dir,A - Grant,0.0,1395,12256,+13%,0.0,,,,,XRAY
+652,D,2017-05-26 17:49:28,2017-05-25,XRAY,Brandt Eric,Dir,M - OptEx,0.0,1220,12256,+11%,0.0,,,,,XRAY
+653,D,2017-05-26 17:49:23,2017-05-24,XRAY,Beecken David,Dir,A - Grant,0.0,1395,38570,+4%,0.0,,,,,XRAY
+654,D,2017-05-26 17:49:23,2017-05-25,XRAY,Beecken David,Dir,M - OptEx,0.0,1220,38570,+3%,0.0,,,,,XRAY
+655,D,2017-05-26 17:49:17,2017-05-24,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,1395,31094,+5%,0.0,,,,,XRAY
+656,D,2017-05-26 17:49:17,2017-05-25,XRAY,Kowaloff Arthur D,Dir,M - OptEx,0.0,1220,31094,+4%,0.0,,,,,XRAY
+657,D,2017-05-26 17:49:11,2017-05-24,XRAY,Jetter Thomas,Dir,A - Grant,0.0,1395,25803,+6%,0.0,,,,,XRAY
+658,D,2017-05-26 17:49:11,2017-05-25,XRAY,Jetter Thomas,Dir,M - OptEx,0.0,1220,25803,+5%,0.0,,,,,XRAY
+659,D,2017-05-26 17:42:11,2017-05-24,XRAY,Alfano Michael C,Dir,A - Grant,0.0,1395,12972,+12%,0.0,,,,,XRAY
+660,D,2017-05-26 17:42:11,2017-05-25,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,1220,12972,+10%,0.0,,,,,XRAY
+661,D,2017-05-23 16:21:17,2017-05-21,XRAY,Lunger Francis J,Dir,M - OptEx,0.0,1412,9975,+16%,0.0,,,,,XRAY
+662,D,2017-05-23 16:21:11,2017-05-21,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,1412,10357,+16%,0.0,,,,,XRAY
+663,DM,2017-05-23 16:14:12,2017-05-20,XRAY,Deese Willie A,Dir,M - OptEx,0.0,4454,7386,+152%,0.0,,,,,XRAY
+664,D,2017-04-25 16:35:11,2017-04-24,XRAY,Mosch James G,"Pres, CEO Consumables",M - OptEx,33.86,50600,54483,>999%,1713316.0,1.0,0.0,,,XRAY
+665,D,2017-04-25 16:35:11,2017-04-24,XRAY,Mosch James G,"Pres, CEO Consumables",S - Sale+OE,63.49,-50600,54483,-48%,-3212594.0,1.0,0.0,,,XRAY
+666,D,2017-04-18 16:57:05,2017-04-14,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,3,19862,0%,0.0,0.0,2.0,,,XRAY
+667,D,2017-04-18 16:56:52,2017-04-14,XRAY,Wise Bret W,"Exec COB, Board",A - Grant,0.0,26,178841,0%,0.0,0.0,2.0,,,XRAY
+668,D,2017-04-18 16:56:23,2017-04-14,XRAY,Wagner Richard M,"VP, Corporate Controller",A - Grant,0.0,4,7810,0%,0.0,0.0,2.0,,,XRAY
+669,,2017-04-18 16:56:17,2017-04-14,XRAY,Michel Ulrich,"EVP, CFO",A - Grant,0.0,60,78026,0%,0.0,0.0,2.0,,,XRAY
+670,,2017-04-18 16:56:11,2017-04-14,XRAY,Slovin Jeffrey,CEO,A - Grant,0.0,212,767152,0%,0.0,0.0,2.0,,,XRAY
+671,,2017-04-18 16:49:11,2017-04-14,XRAY,Friedman Jonathan I,"SVP,GC, Secretary",A - Grant,0.0,38,163509,0%,0.0,0.0,2.0,,,XRAY
+672,D,2017-04-18 16:42:29,2017-04-14,XRAY,Clark Christopher T,"Pres, CEO Technologies",A - Grant,0.0,13,80067,0%,0.0,0.0,2.0,,,XRAY
+673,,2017-04-18 16:35:16,2017-04-14,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",A - Grant,0.0,20,26283,0%,0.0,0.0,2.0,,,XRAY
+674,D,2017-04-11 16:21:12,2017-04-07,XRAY,Clark Christopher T,"Pres, CEO Technologies",M - OptEx,33.86,89700,80054,-930%,3037242.0,-1.0,-1.0,0.0,,XRAY
+675,D,2017-04-11 16:21:12,2017-04-07,XRAY,Clark Christopher T,"Pres, CEO Technologies",S - Sale+OE,62.67,-89700,80054,-53%,-5621562.0,-1.0,-1.0,0.0,,XRAY
+676,A,2017-03-17 16:14:29,2017-02-24,XRAY,Wagner Richard M,"VP, Corporate Controller",F - Tax,62.79,-1092,8267,-12%,-68567.0,-1.0,-1.0,-1.0,,XRAY
+677,A,2017-03-17 16:14:24,2017-02-24,XRAY,Wise Bret W,"Exec COB, Board",F - Tax,62.79,-24272,147412,-14%,-1524039.0,-1.0,-1.0,-1.0,,XRAY
+678,A,2017-03-17 16:14:18,2017-02-24,XRAY,Clark Christopher T,"Pres, CEO Technologies",F - Tax,62.79,-11431,22391,-34%,-717752.0,-1.0,-1.0,-1.0,,XRAY
+679,A,2017-03-17 16:14:11,2017-02-24,XRAY,Macinnis Maureen J.,"SVP, CHRO",F - Tax,62.79,-1918,19860,-9%,-120431.0,-1.0,-1.0,-1.0,,XRAY
+680,DM,2017-03-10 17:21:11,2017-03-08,XRAY,Michel Ulrich,"EVP, CFO",M - OptEx,37.54,24000,77966,+44%,900960.0,1.0,0.0,-1.0,,XRAY
+681,DM,2017-03-10 17:21:11,2017-03-08,XRAY,Michel Ulrich,"EVP, CFO",S - Sale+OE,62.84,-24000,77966,-24%,-1508248.0,1.0,0.0,-1.0,,XRAY
+682,D,2017-03-02 16:42:25,2017-02-24,XRAY,Wise Bret W,"Exec COB, Board",F - Tax,62.79,-28254,178815,-14%,-1774069.0,0.0,-1.0,-1.0,,XRAY
+683,DM,2017-03-02 16:42:25,2017-02-24,XRAY,Wise Bret W,"Exec COB, Board",M - OptEx,33.28,199292,178815,-973%,6632535.0,0.0,-1.0,-1.0,,XRAY
+684,DM,2017-03-02 16:42:25,2017-02-28,XRAY,Wise Bret W,"Exec COB, Board",S - Sale+OE,64.17,-146900,178815,-45%,-9426044.0,0.0,-1.0,-1.0,,XRAY
+685,D,2017-03-02 16:42:19,2017-03-02,XRAY,Brandt Eric,Dir,M - OptEx,43.14,2941,9641,+44%,126874.0,0.0,-1.0,-1.0,,XRAY
+686,D,2017-03-02 16:42:19,2017-03-02,XRAY,Brandt Eric,Dir,S - Sale+OE,64.35,-2941,9641,-23%,-189253.0,0.0,-1.0,-1.0,,XRAY
+687,D,2017-03-02 16:42:12,2017-02-28,XRAY,Clark Christopher T,"Pres, CEO Technologies",M - OptEx,25.91,42200,80054,+111%,1093402.0,0.0,-1.0,-1.0,,XRAY
+688,D,2017-03-02 16:42:12,2017-02-28,XRAY,Clark Christopher T,"Pres, CEO Technologies",S - Sale+OE,63.18,-42200,80054,-35%,-2666226.0,0.0,-1.0,-1.0,,XRAY
+689,D,2017-02-24 16:49:47,2017-02-22,XRAY,Wise Bret W,"Exec COB, Board",A - Grant,0.0,18864,154677,+14%,0.0,-1.0,1.0,-1.0,,XRAY
+690,D,2017-02-24 16:49:41,2017-02-22,XRAY,Slovin Jeffrey,CEO,A - Grant,0.0,23171,766940,+3%,0.0,-1.0,1.0,-1.0,,XRAY
+691,D,2017-02-24 16:49:11,2017-02-22,XRAY,Wagner Richard M,"VP, Corporate Controller",A - Grant,0.0,3080,7152,+76%,0.0,-1.0,1.0,-1.0,,XRAY
+692,D,2017-02-24 16:29:21,2017-02-22,XRAY,Mosch James G,"Pres, CEO Consumables",M - OptEx,25.91,46300,44883,-3267%,1199633.0,-1.0,1.0,-1.0,,XRAY
+693,D,2017-02-24 16:29:21,2017-02-22,XRAY,Mosch James G,"Pres, CEO Consumables",S - Sale+OE,62.48,-46300,44883,-51%,-2892676.0,-1.0,1.0,-1.0,,XRAY
+694,D,2017-02-24 16:29:15,2017-02-22,XRAY,Michel Ulrich,"EVP, CFO",A - Grant,0.0,5775,77966,+8%,0.0,-1.0,1.0,-1.0,,XRAY
+695,D,2017-02-24 16:28:51,2017-02-22,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",A - Grant,0.0,2647,26263,+11%,0.0,-1.0,1.0,-1.0,,XRAY
+696,D,2017-02-24 16:28:40,2017-02-22,XRAY,Friedman Jonathan I,"SVP,GC, Secretary",A - Grant,0.0,3369,163471,+2%,0.0,-1.0,1.0,-1.0,,XRAY
+697,D,2017-02-24 16:28:34,2017-02-22,XRAY,Clark Christopher T,"Pres, CEO Technologies",A - Grant,0.0,9143,66846,+16%,0.0,-1.0,1.0,-1.0,,XRAY
+698,D,2017-02-24 16:28:16,2017-02-22,XRAY,Lunger Francis J,Dir,M - OptEx,40.69,5747,8563,+204%,233826.0,-1.0,1.0,-1.0,,XRAY
+699,D,2017-02-24 16:28:16,2017-02-22,XRAY,Lunger Francis J,Dir,S - Sale+OE,62.42,-5747,8563,-40%,-358737.0,-1.0,1.0,-1.0,,XRAY
+700,D,2017-02-24 16:28:11,2017-02-22,XRAY,Macinnis Maureen J.,"SVP, CHRO",A - Grant,0.0,2358,15891,+17%,0.0,-1.0,1.0,-1.0,,XRAY
+701,D,2017-02-23 16:49:13,2017-02-21,XRAY,Coleman Michael J,Dir,M - OptEx,36.49,481,20912,+2%,17552.0,1.0,3.0,0.0,,XRAY
+702,D,2017-02-23 16:49:13,2017-02-21,XRAY,Coleman Michael J,Dir,S - Sale+OE,62.73,-481,20912,-2%,-30174.0,1.0,3.0,0.0,,XRAY
+703,D,2017-02-23 16:42:11,2017-02-21,XRAY,Clark Christopher T,"Pres, CEO Technologies",M - OptEx,25.91,5100,57703,+10%,132141.0,1.0,3.0,0.0,,XRAY
+704,D,2017-02-23 16:42:11,2017-02-21,XRAY,Clark Christopher T,"Pres, CEO Technologies",S - Sale+OE,63.01,-5100,57703,-8%,-321365.0,1.0,3.0,0.0,,XRAY
+705,,2017-02-21 16:21:17,2017-02-20,XRAY,Slovin Jeffrey,CEO,F - Tax,62.68,-2027,743769,0%,-127052.0,0.0,-1.0,0.0,,XRAY
+706,D,2017-02-21 16:21:11,2017-02-21,XRAY,Friedman Jonathan I,"SVP,GC, Secretary",M - OptEx,41.28,15318,160102,+11%,632368.0,0.0,-1.0,0.0,,XRAY
+707,DM,2017-02-21 16:14:17,2017-02-16,XRAY,Clark Christopher T,"Pres, CEO Technologies",M - OptEx,25.91,64500,57703,-949%,1671195.0,0.0,-1.0,0.0,,XRAY
+708,DM,2017-02-21 16:14:17,2017-02-16,XRAY,Clark Christopher T,"Pres, CEO Technologies",S - Sale+OE,60.7,-64500,57703,-53%,-3915301.0,0.0,-1.0,0.0,,XRAY
+709,D,2017-02-21 16:14:11,2017-02-17,XRAY,Kowaloff Arthur D,Dir,M - OptEx,17.18,27213,28479,>999%,467519.0,0.0,-1.0,0.0,,XRAY
+710,D,2017-02-21 16:14:11,2017-02-17,XRAY,Kowaloff Arthur D,Dir,S - Sale+OE,62.0,-27213,28479,-49%,-1687206.0,0.0,-1.0,0.0,,XRAY
+711,,2017-01-17 16:57:10,2017-01-13,XRAY,Michel Ulrich,"EVP, CFO",A - Grant,0.0,57,72191,0%,0.0,-3.0,-4.0,3.0,,XRAY
+712,,2017-01-17 16:56:52,2017-01-13,XRAY,Friedman Jonathan I,"SVP,GC, Secretary",A - Grant,0.0,32,144784,0%,0.0,-3.0,-4.0,3.0,,XRAY
+713,,2017-01-17 16:56:34,2017-01-13,XRAY,Slovin Jeffrey,CEO,A - Grant,0.0,179,745796,0%,0.0,-3.0,-4.0,3.0,,XRAY
+714,,2017-01-17 16:49:40,2017-01-13,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",A - Grant,0.0,31,23616,0%,0.0,-3.0,-4.0,3.0,,XRAY
+715,,2017-01-04 16:21:35,2017-01-01,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",F - Tax,57.73,-5815,23585,-20%,-335700.0,-1.0,-2.0,-4.0,,XRAY
+716,,2017-01-04 16:21:29,2017-01-01,XRAY,Michel Ulrich,"EVP, CFO",F - Tax,57.73,-2738,72134,-4%,-158065.0,-1.0,-2.0,-4.0,,XRAY
+717,,2016-12-12 16:21:10,2016-12-08,XRAY,Kowaloff Arthur D,Dir,G - Gift,0.0,-1300,28479,-4%,-0.0,1.0,1.0,-3.0,,XRAY
+718,,2016-11-29 18:28:22,2016-11-25,XRAY,Slovin Jeffrey,CEO,F - Tax,60.75,-42858,745617,-5%,-2603624.0,-4.0,-5.0,-4.0,,XRAY
+719,,2016-11-29 18:28:16,2016-11-25,XRAY,Michel Ulrich,"EVP, CFO",F - Tax,60.75,-1143,74872,-2%,-69437.0,-4.0,-5.0,-4.0,,XRAY
+720,,2016-11-29 18:28:11,2016-11-25,XRAY,Friedman Jonathan I,"SVP,GC, Secretary",F - Tax,60.75,-3370,144752,-2%,-204728.0,-4.0,-5.0,-4.0,,XRAY
+721,,2016-11-22 16:56:17,2016-11-20,XRAY,Slovin Jeffrey,CEO,F - Tax,60.16,-2624,788475,0%,-157860.0,1.0,1.0,0.0,,XRAY
+722,,2016-11-22 16:56:11,2016-11-20,XRAY,Friedman Jonathan I,"SVP,GC, Secretary",F - Tax,60.16,-474,148122,0%,-28516.0,1.0,1.0,0.0,,XRAY
+723,D,2016-11-18 16:28:10,2016-11-17,XRAY,Mosch James G,"Pres, CEO Consumables",M - OptEx,45.15,30400,44883,+210%,1372560.0,0.0,1.0,-1.0,,XRAY
+724,D,2016-11-18 16:28:10,2016-11-17,XRAY,Mosch James G,"Pres, CEO Consumables",S - Sale+OE,60.93,-30400,44883,-40%,-1852357.0,0.0,1.0,-1.0,,XRAY
+725,D,2016-11-15 16:28:10,2016-11-11,XRAY,Mosch James G,"Pres, CEO Consumables",M - OptEx,45.15,100,44883,0%,4515.0,1.0,0.0,-1.0,,XRAY
+726,D,2016-11-15 16:28:10,2016-11-11,XRAY,Mosch James G,"Pres, CEO Consumables",S - Sale+OE,60.93,-100,44883,0%,-6093.0,1.0,0.0,-1.0,,XRAY
+727,D,2016-11-10 16:21:23,2016-11-08,XRAY,Clark Christopher T,"Pres, CEO Technologies",M - OptEx,45.15,59300,16,-100%,2677395.0,-1.0,-1.0,-3.0,1.0,XRAY
+728,D,2016-11-10 16:21:23,2016-11-08,XRAY,Clark Christopher T,"Pres, CEO Technologies",S - Sale+OE,60.87,-59300,16,-100%,-3609609.0,-1.0,-1.0,-3.0,1.0,XRAY
+729,D,2016-11-10 16:21:17,2016-11-08,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",M - OptEx,24.68,16327,29400,+125%,402950.0,-1.0,-1.0,-3.0,1.0,XRAY
+730,D,2016-11-10 16:21:17,2016-11-08,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",S - Sale+OE,60.56,-21327,29400,-42%,-1291593.0,-1.0,-1.0,-3.0,1.0,XRAY
+731,D,2016-11-10 16:21:11,2016-11-08,XRAY,Alfano Michael C,Dir,M - OptEx,39.06,2091,8945,+31%,81665.0,-1.0,-1.0,-3.0,1.0,XRAY
+732,D,2016-11-10 16:21:11,2016-11-08,XRAY,Alfano Michael C,Dir,S - Sale+OE,60.81,-2091,8945,-19%,-127159.0,-1.0,-1.0,-3.0,1.0,XRAY
+733,AD,2016-10-28 16:49:11,2016-02-25,XRAY,Mosch James G,"Pres, CEO Consumables",F - Tax,60.74,-9575,44883,-18%,-581586.0,1.0,4.0,6.0,11.0,XRAY
+734,AD,2016-10-28 16:49:11,2016-02-25,XRAY,Mosch James G,"Pres, CEO Consumables",M - OptEx,0.0,20896,44883,+87%,0.0,1.0,4.0,6.0,11.0,XRAY
+735,AD,2016-10-28 16:14:53,2016-05-23,XRAY,Deese Willie A,Dir,M - OptEx,0.0,1748,2932,+148%,0.0,1.0,4.0,6.0,11.0,XRAY
+736,AD,2016-10-28 16:14:47,2016-05-21,XRAY,Coleman Michael J,Dir,M - OptEx,0.0,1433,8312,+21%,0.0,1.0,4.0,6.0,11.0,XRAY
+737,AD,2016-10-28 16:14:41,2016-02-25,XRAY,Clark Christopher T,"Pres, CEO Technologies",F - Tax,60.74,-11556,15164,-43%,-701911.0,1.0,4.0,6.0,11.0,XRAY
+738,AD,2016-10-28 16:14:41,2016-02-25,XRAY,Clark Christopher T,"Pres, CEO Technologies",M - OptEx,0.0,26522,15164,-234%,0.0,1.0,4.0,6.0,11.0,XRAY
+739,AD,2016-10-28 16:14:29,2016-02-25,XRAY,Wagner Richard M,"VP, Corporate Controller",F - Tax,60.74,-770,4072,-16%,-46770.0,1.0,4.0,6.0,11.0,XRAY
+740,AD,2016-10-28 16:14:29,2016-02-25,XRAY,Wagner Richard M,"VP, Corporate Controller",M - OptEx,0.0,2072,4072,+104%,0.0,1.0,4.0,6.0,11.0,XRAY
+741,AD,2016-10-28 16:14:23,2016-02-25,XRAY,Wise Bret W,"Exec COB, Board",F - Tax,60.74,-22336,100428,-18%,-1356689.0,1.0,4.0,6.0,11.0,XRAY
+742,AD,2016-10-28 16:14:23,2016-02-25,XRAY,Wise Bret W,"Exec COB, Board",M - OptEx,0.0,48196,100428,+92%,0.0,1.0,4.0,6.0,11.0,XRAY
+743,AD,2016-10-28 16:14:17,2016-05-22,XRAY,Lunger Francis J,Dir,M - OptEx,0.0,1593,8563,+23%,0.0,1.0,4.0,6.0,11.0,XRAY
+744,ADM,2016-10-28 16:07:17,2016-05-21,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,3026,11763,+35%,0.0,1.0,4.0,6.0,11.0,XRAY
+745,AD,2016-10-28 16:07:11,2016-05-22,XRAY,Brandt Eric,Dir,M - OptEx,0.0,1593,4241,+60%,0.0,1.0,4.0,6.0,11.0,XRAY
+746,,2016-10-18 17:07:23,2016-10-14,XRAY,Slovin Jeffrey,CEO,A - Grant,0.0,284,791099,0%,0.0,1.0,-2.0,2.0,6.0,XRAY
+747,,2016-10-18 17:07:10,2016-10-14,XRAY,Michel Ulrich,"EVP, CFO",A - Grant,0.0,58,76015,0%,0.0,1.0,-2.0,2.0,6.0,XRAY
+748,,2016-10-18 16:15:11,2016-10-14,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",A - Grant,0.0,30,34400,0%,0.0,1.0,-2.0,2.0,6.0,XRAY
+749,,2016-10-18 16:14:41,2016-10-14,XRAY,Friedman Jonathan I,"SVP,GC, Secretary",A - Grant,0.0,47,148596,0%,0.0,1.0,-2.0,2.0,6.0,XRAY
+750,,2016-09-07 16:07:10,2016-09-06,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",S - Sale,61.12,-5000,34370,-13%,-305597.0,-1.0,-3.0,-3.0,3.0,XRAY
+751,D,2016-08-29 16:14:17,2016-08-25,XRAY,Macinnis Maureen J.,"SVP, CHRO",M - OptEx,35.2,45100,13530,-143%,1587530.0,-1.0,0.0,-4.0,3.0,XRAY
+752,D,2016-08-29 16:14:17,2016-08-25,XRAY,Macinnis Maureen J.,"SVP, CHRO",S - Sale+OE,60.55,-45100,13530,-77%,-2730999.0,-1.0,0.0,-4.0,3.0,XRAY
+753,,2016-08-24 16:21:16,2016-08-19,XRAY,Beecken David,Dir,G - Gift,0.0,-4165,35955,-10%,-0.0,1.0,3.0,0.0,4.0,XRAY
+754,DM,2016-08-24 16:21:11,2016-08-22,XRAY,Macinnis Maureen J.,"SVP, CHRO",M - OptEx,26.72,17650,13530,-428%,471608.0,1.0,3.0,0.0,4.0,XRAY
+755,DM,2016-08-24 16:21:11,2016-08-22,XRAY,Macinnis Maureen J.,"SVP, CHRO",S - Sale+OE,60.61,-17650,13530,-57%,-1069754.0,1.0,3.0,0.0,4.0,XRAY
+756,,2016-08-04 16:06:04,2016-07-29,XRAY,Michel Ulrich,"EVP, CFO",F - Tax,64.04,-1895,75956,-2%,-121356.0,-3.0,-4.0,-3.0,-11.0,XRAY
+757,D,2016-07-28 16:14:11,2016-07-28,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,182,8940,+2%,0.0,1.0,3.0,-4.0,-10.0,XRAY
+758,,2016-07-12 17:07:17,2016-07-08,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",A - Grant,0.0,29,39370,0%,0.0,0.0,-1.0,-3.0,-7.0,XRAY
+759,,2016-07-12 16:42:53,2016-07-08,XRAY,Michel Ulrich,"EVP, CFO",A - Grant,0.0,62,77851,0%,0.0,0.0,-1.0,-3.0,-7.0,XRAY
+760,,2016-07-12 16:42:10,2016-07-08,XRAY,Friedman Jonathan I,"SVP,GC, Secretary",A - Grant,0.0,46,148549,0%,0.0,0.0,-1.0,-3.0,-7.0,XRAY
+761,,2016-07-12 16:30:44,2016-07-08,XRAY,Slovin Jeffrey,CEO,A - Grant,0.0,278365,790815,+54%,0.0,0.0,-1.0,-3.0,-7.0,XRAY
+762,D,2016-06-03 16:35:18,2016-06-01,XRAY,Friedman Jonathan I,"SVP,GC, Secretary",M - OptEx,34.29,1376,148503,+1%,47183.0,0.0,3.0,0.0,-7.0,XRAY
+763,,2016-06-03 16:35:11,2016-06-02,XRAY,Berthan Rainer,"EVP, Mfg, Supply Chain",S - Sale,62.56,-6464,39341,-14%,-404394.0,0.0,3.0,0.0,-7.0,XRAY
+764,D,2016-05-27 16:07:11,2016-05-26,XRAY,Alfano Michael C,Dir,S - Sale+OE,61.58,-3000,8758,-26%,-184747.0,-1.0,0.0,-5.0,-3.0,XRAY
+765,D,2016-05-24 17:00:12,2016-05-23,XRAY,Deese Willie A,Dir,M - OptEx,0.0,1746,2930,+147%,0.0,0.0,1.0,3.0,-2.0,XRAY
+766,D,2016-05-24 16:56:24,2016-05-22,XRAY,Lunger Francis J,Dir,M - OptEx,0.0,1590,8560,+23%,0.0,0.0,1.0,3.0,-2.0,XRAY
+767,D,2016-05-24 16:56:17,2016-05-22,XRAY,Brandt Eric,Dir,M - OptEx,0.0,1590,4238,+60%,0.0,0.0,1.0,3.0,-2.0,XRAY
+768,D,2016-05-24 16:56:11,2016-05-21,XRAY,Coleman Michael J,Dir,M - OptEx,0.0,1431,8310,+21%,0.0,0.0,1.0,3.0,-2.0,XRAY
+769,DM,2016-05-24 16:49:11,2016-05-21,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,3021,11758,+35%,0.0,0.0,1.0,3.0,-2.0,XRAY
+770,D,2016-05-18 16:07:11,2016-05-16,XRAY,Kraemer Harry M Jansen Jr,Dir,M - OptEx,23.43,27213,31049,+709%,637601.0,-1.0,1.0,4.0,-4.0,XRAY
+771,D,2016-05-18 16:07:11,2016-05-16,XRAY,Kraemer Harry M Jansen Jr,Dir,S - Sale+OE,62.17,-27213,31049,-47%,-1691947.0,-1.0,1.0,4.0,-4.0,XRAY
+772,D,2016-05-17 16:07:11,2016-05-13,XRAY,Friedman Jonathan I,"SVP GC, Secretary",M - OptEx,34.29,1458,147127,+1%,49995.0,1.0,-1.0,4.0,-1.0,XRAY
+773,A,2016-04-19 16:05:22,2016-02-29,XRAY,Slovin Jeffrey,CEO,A - Grant,0.0,544,544,New,0.0,0.0,0.0,-1.0,-4.0,XRAY
+774,D,2016-03-31 16:28:09,2016-03-29,XRAY,Kowaloff Arthur D,Dir,M - OptEx,23.43,13006,29779,+78%,304731.0,0.0,-1.0,-2.0,-3.0,XRAY
+775,D,2016-03-31 16:28:09,2016-03-29,XRAY,Kowaloff Arthur D,Dir,S - Sale+OE,62.0,-13006,29779,-30%,-806372.0,0.0,-1.0,-2.0,-3.0,XRAY
+776,D,2016-03-16 16:21:09,2016-03-14,XRAY,Kowaloff Arthur D,Dir,M - OptEx,23.43,14207,29779,+91%,332870.0,-1.0,0.0,-2.0,-3.0,XRAY
+777,D,2016-03-16 16:21:09,2016-03-14,XRAY,Kowaloff Arthur D,Dir,S - Sale+OE,61.28,-14207,29779,-32%,-870597.0,-1.0,0.0,-2.0,-3.0,XRAY
+778,A,2016-03-03 18:46:13,2016-02-29,XRAY,Friedman Jonathan I,"GC, Secretary",A - Grant,0.0,145669,145669,New,0.0,-1.0,2.0,2.0,2.0,XRAY
+779,A,2016-03-03 18:45:04,2016-02-29,XRAY,Michel Ulrich,"EVP, CFO",A - Grant,0.0,77789,77789,New,0.0,-1.0,2.0,2.0,2.0,XRAY
+780,A,2016-03-03 18:44:07,2016-02-29,XRAY,Slovin Jeffrey,CEO,A - Grant,0.0,789993,789993,New,0.0,-1.0,2.0,2.0,2.0,XRAY
+781,D,2016-03-02 21:00:54,2016-02-29,XRAY,Kowaloff Arthur D,Dir,A - Grant,0.0,29779,29779,New,0.0,1.0,2.0,2.0,3.0,XRAY
+782,,2016-03-02 20:59:55,2016-02-29,XRAY,Jetter Thomas,Dir,A - Grant,0.0,23188,23188,New,0.0,1.0,2.0,2.0,3.0,XRAY
+783,D,2016-03-02 20:58:39,2016-02-29,XRAY,Kraemer Harry M Jansen Jr,Dir,A - Grant,0.0,31049,31049,New,0.0,1.0,2.0,2.0,3.0,XRAY
+784,,2016-03-02 20:57:27,2016-02-29,XRAY,Beecken David,Dir,A - Grant,0.0,40120,40120,New,0.0,1.0,2.0,2.0,3.0,XRAY
+785,D,2016-03-02 20:56:20,2016-02-29,XRAY,Friedman Jonathan I,"GC, Secretary",A - Grant,0.0,145669,145669,New,0.0,1.0,2.0,2.0,3.0,XRAY
+786,D,2016-03-02 20:55:16,2016-02-29,XRAY,Michel Ulrich,"EVP, CFO",A - Grant,0.0,77789,77789,New,0.0,1.0,2.0,2.0,3.0,XRAY
+787,D,2016-03-02 20:54:03,2016-02-29,XRAY,Slovin Jeffrey,CEO,A - Grant,0.0,789993,789993,New,0.0,1.0,2.0,2.0,3.0,XRAY
+788,D,2016-02-29 17:42:32,2016-02-25,XRAY,Size Robert J.,SVP,F - Tax,0.0,-2933,17952,-14%,-0.0,-1.0,-1.0,2.0,0.0,XRAY
+789,D,2016-02-29 17:42:32,2016-02-25,XRAY,Size Robert J.,SVP,M - OptEx,0.0,9231,17952,+106%,0.0,-1.0,-1.0,2.0,0.0,XRAY
+790,D,2016-02-29 17:42:28,2016-02-25,XRAY,Wise Bret W,"COB, C.E.O.",F - Tax,0.0,-22310,100398,-18%,-0.0,-1.0,-1.0,2.0,0.0,XRAY
+791,D,2016-02-29 17:42:28,2016-02-25,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,0.0,48140,100398,+92%,0.0,-1.0,-1.0,2.0,0.0,XRAY
+792,D,2016-02-29 17:42:23,2016-02-25,XRAY,Mosch James G,"EVP, C.O.O.",F - Tax,0.0,-9562,44872,-18%,-0.0,-1.0,-1.0,2.0,0.0,XRAY
+793,D,2016-02-29 17:42:23,2016-02-25,XRAY,Mosch James G,"EVP, C.O.O.",M - OptEx,0.0,20872,44872,+87%,0.0,-1.0,-1.0,2.0,0.0,XRAY
+794,D,2016-02-29 17:42:19,2016-02-25,XRAY,Sterkenburg Albert,SVP,F - Tax,0.0,-3381,16626,-17%,-0.0,-1.0,-1.0,2.0,0.0,XRAY
+795,D,2016-02-29 17:42:19,2016-02-25,XRAY,Sterkenburg Albert,SVP,M - OptEx,0.0,7625,16626,+85%,0.0,-1.0,-1.0,2.0,0.0,XRAY
+796,D,2016-02-29 17:42:15,2016-02-25,XRAY,Wagner Richard M,"VP, Corporate Controller",F - Tax,0.0,-769,4071,-16%,-0.0,-1.0,-1.0,2.0,0.0,XRAY
+797,D,2016-02-29 17:42:15,2016-02-25,XRAY,Wagner Richard M,"VP, Corporate Controller",M - OptEx,0.0,2407,4071,+145%,0.0,-1.0,-1.0,2.0,0.0,XRAY
+798,D,2016-02-29 17:42:09,2016-02-25,XRAY,Clark Christopher T,"Pres, C.F.O.",F - Tax,0.0,-11541,15148,-43%,-0.0,-1.0,-1.0,2.0,0.0,XRAY
+799,D,2016-02-29 17:42:09,2016-02-25,XRAY,Clark Christopher T,"Pres, C.F.O.",M - OptEx,0.0,26491,15148,-234%,0.0,-1.0,-1.0,2.0,0.0,XRAY
+800,,2015-11-19 16:35:09,2015-11-18,XRAY,Rasin Deborah,"VP,Secretary, GC",S - Sale,60.56,-4500,4429,-50%,-272508.0,0.0,0.0,-2.0,0.0,XRAY
+801,,2015-11-04 16:49:16,2015-11-04,XRAY,Alfano Michael C,Dir,S - Sale,62.15,-2500,8737,-22%,-155375.0,-1.0,-1.0,1.0,-2.0,XRAY
+802,D,2015-11-04 16:49:13,2015-11-03,XRAY,Size Robert J.,SVP,M - OptEx,31.36,22900,11654,-204%,718144.0,-1.0,-1.0,1.0,-2.0,XRAY
+803,D,2015-11-04 16:49:13,2015-11-03,XRAY,Size Robert J.,SVP,S - Sale+OE,62.09,-22900,11654,-66%,-1421925.0,-1.0,-1.0,1.0,-2.0,XRAY
+804,D,2015-11-04 16:49:09,2015-11-03,XRAY,Rasin Deborah,"VP,Secretary, GC",M - OptEx,36.18,14000,8929,-276%,506520.0,-1.0,-1.0,1.0,-2.0,XRAY
+805,D,2015-11-04 16:49:09,2015-11-03,XRAY,Rasin Deborah,"VP,Secretary, GC",S - Sale+OE,61.7,-14000,8929,-61%,-863800.0,-1.0,-1.0,1.0,-2.0,XRAY
+806,D,2015-08-04 12:49:12,2015-07-31,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,901,11237,+9%,0.0,0.0,0.0,-9.0,6.0,XRAY
+807,D,2015-08-04 12:49:08,2015-07-31,XRAY,Miles John C II,Dir,M - OptEx,0.0,901,11901,+8%,0.0,0.0,0.0,-9.0,6.0,XRAY
+808,D,2015-07-31 16:14:08,2015-07-30,XRAY,Mosch James G,"EVP, C.O.O.",M - OptEx,31.36,32900,33562,>999%,1031744.0,-2.0,-2.0,-7.0,4.0,XRAY
+809,D,2015-07-31 16:14:08,2015-07-30,XRAY,Mosch James G,"EVP, C.O.O.",S - Sale+OE,54.9,-32900,33562,-50%,-1806210.0,-2.0,-2.0,-7.0,4.0,XRAY
+810,A,2015-06-03 16:07:09,2015-02-23,XRAY,Size Robert J.,SVP,S - Sale,52.4,-4661,11654,-29%,-244236.0,-2.0,-2.0,-2.0,15.0,XRAY
+811,D,2015-05-27 17:35:28,2015-05-23,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,1739,10336,+20%,0.0,1.0,1.0,1.0,19.0,XRAY
+812,D,2015-05-27 17:35:24,2015-05-23,XRAY,Brandt Eric,Dir,M - OptEx,0.0,1739,2648,+191%,0.0,1.0,1.0,1.0,19.0,XRAY
+813,D,2015-05-27 17:35:20,2015-05-23,XRAY,Miclot John L,Dir,M - OptEx,0.0,1739,2648,+191%,0.0,1.0,1.0,1.0,19.0,XRAY
+814,D,2015-05-27 17:35:16,2015-05-23,XRAY,Lunger Francis J,Dir,M - OptEx,0.0,1739,6970,+33%,0.0,1.0,1.0,1.0,19.0,XRAY
+815,D,2015-05-27 17:35:12,2015-05-23,XRAY,Deese Willie A,Dir,M - OptEx,0.0,914,1184,+339%,0.0,1.0,1.0,1.0,19.0,XRAY
+816,D,2015-05-27 17:35:09,2015-05-23,XRAY,Cholmondeley Paula H,Dir,M - OptEx,0.0,1739,1915,+988%,0.0,1.0,1.0,1.0,19.0,XRAY
+817,D,2015-05-22 16:14:09,2015-05-20,XRAY,Jones Leslie A,Dir,M - OptEx,0.0,3323,98124,+4%,0.0,-1.0,0.0,3.0,17.0,XRAY
+818,D,2015-05-14 10:21:09,2015-05-12,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,1390,8597,+19%,0.0,2.0,4.0,3.0,21.0,XRAY
+819,D,2015-03-31 16:14:09,2015-03-30,XRAY,Clark Christopher T,"Pres, C.F.O.",M - OptEx,31.36,71100,198,-100%,2229696.0,-1.0,-1.0,0.0,-1.0,XRAY
+820,D,2015-03-31 16:14:09,2015-03-30,XRAY,Clark Christopher T,"Pres, C.F.O.",S - Sale+OE,51.18,-85566,198,-100%,-4379287.0,-1.0,-1.0,0.0,-1.0,XRAY
+821,D,2015-02-25 16:14:36,2015-02-21,XRAY,Mosch James G,"EVP, C.O.O.",A - Grant,0.0,11027,33562,+49%,0.0,1.0,0.0,-5.0,-3.0,XRAY
+822,D,2015-02-25 16:14:36,2015-02-21,XRAY,Mosch James G,"EVP, C.O.O.",F - Tax,52.53,-4990,33562,-13%,-262125.0,1.0,0.0,-5.0,-3.0,XRAY
+823,D,2015-02-25 16:14:36,2015-02-21,XRAY,Mosch James G,"EVP, C.O.O.",M - OptEx,0.0,2635,33562,+9%,0.0,1.0,0.0,-5.0,-3.0,XRAY
+824,D,2015-02-25 16:14:33,2015-02-21,XRAY,Wise Bret W,"COB, C.E.O.",F - Tax,0.0,-15452,74568,-17%,-0.0,1.0,0.0,-5.0,-3.0,XRAY
+825,D,2015-02-25 16:14:33,2015-02-21,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,0.0,39356,74568,+112%,0.0,1.0,0.0,-5.0,-3.0,XRAY
+826,D,2015-02-25 16:14:29,2015-02-21,XRAY,Wagner Richard M,"VP, Corporate Controller",F - Tax,52.53,-772,2433,-24%,-40553.0,1.0,0.0,-5.0,-3.0,XRAY
+827,D,2015-02-25 16:14:29,2015-02-21,XRAY,Wagner Richard M,"VP, Corporate Controller",M - OptEx,0.0,2168,2433,+818%,0.0,1.0,0.0,-5.0,-3.0,XRAY
+828,D,2015-02-25 16:14:25,2015-02-21,XRAY,Rasin Deborah,"VP,Secretary, GC",F - Tax,52.53,-2296,8929,-20%,-120609.0,1.0,0.0,-5.0,-3.0,XRAY
+829,D,2015-02-25 16:14:25,2015-02-21,XRAY,Rasin Deborah,"VP,Secretary, GC",M - OptEx,0.0,7227,8929,+425%,0.0,1.0,0.0,-5.0,-3.0,XRAY
+830,D,2015-02-25 16:14:22,2015-02-21,XRAY,Clark Christopher T,"Pres, C.F.O.",F - Tax,52.53,-7504,14664,-34%,-394185.0,1.0,0.0,-5.0,-3.0,XRAY
+831,D,2015-02-25 16:14:22,2015-02-21,XRAY,Clark Christopher T,"Pres, C.F.O.",M - OptEx,0.0,22168,14664,-295%,0.0,1.0,0.0,-5.0,-3.0,XRAY
+832,D,2015-02-25 16:14:17,2015-02-21,XRAY,Sterkenburg Albert,SVP,F - Tax,52.53,-3142,12382,-20%,-165049.0,1.0,0.0,-5.0,-3.0,XRAY
+833,D,2015-02-25 16:14:17,2015-02-21,XRAY,Sterkenburg Albert,SVP,M - OptEx,0.0,7084,12382,+134%,0.0,1.0,0.0,-5.0,-3.0,XRAY
+834,D,2015-02-25 16:14:09,2015-02-21,XRAY,Size Robert J.,SVP,F - Tax,52.53,-2790,8923,-24%,-146559.0,1.0,0.0,-5.0,-3.0,XRAY
+835,D,2015-02-25 16:14:09,2015-02-21,XRAY,Size Robert J.,SVP,M - OptEx,0.0,7517,8923,+535%,0.0,1.0,0.0,-5.0,-3.0,XRAY
+836,D,2015-02-25 16:14:09,2015-02-23,XRAY,Size Robert J.,SVP,S - Sale+OE,52.4,-7392,8923,-45%,-387341.0,1.0,0.0,-5.0,-3.0,XRAY
+837,D,2015-02-23 17:28:12,2015-02-20,XRAY,Rasin Deborah,"VP,Secretary, GC",M - OptEx,36.18,11000,3998,-157%,397980.0,1.0,2.0,0.0,7.0,XRAY
+838,D,2015-02-23 17:28:12,2015-02-20,XRAY,Rasin Deborah,"VP,Secretary, GC",S - Sale+OE,52.47,-11000,3998,-73%,-577195.0,1.0,2.0,0.0,7.0,XRAY
+839,D,2015-02-23 17:28:08,2015-02-20,XRAY,Coleman Michael J,Dir,M - OptEx,28.0,18000,6879,-162%,504000.0,1.0,2.0,0.0,7.0,XRAY
+840,D,2015-02-23 17:28:08,2015-02-20,XRAY,Coleman Michael J,Dir,S - Sale+OE,52.47,-18000,6879,-72%,-944422.0,1.0,2.0,0.0,7.0,XRAY
+841,D,2015-01-15 16:49:08,2015-01-13,XRAY,Size Robert J.,SVP,M - OptEx,41.43,10200,11588,+735%,422572.0,0.0,1.0,4.0,4.0,XRAY
+842,D,2015-01-15 16:49:08,2015-01-13,XRAY,Size Robert J.,SVP,S - Sale+OE,38.68,-10200,11588,-47%,-394503.0,0.0,1.0,4.0,4.0,XRAY
+843,D,2015-01-12 16:00:08,2015-01-09,XRAY,Size Robert J.,SVP,M - OptEx,28.57,9200,11588,+385%,262844.0,0.0,-3.0,-2.0,0.0,XRAY
+844,D,2015-01-12 16:00:08,2015-01-09,XRAY,Size Robert J.,SVP,S - Sale+OE,52.97,-9200,11588,-44%,-487309.0,0.0,-3.0,-2.0,0.0,XRAY
+845,D,2015-01-12 15:21:09,2015-01-09,XRAY,Size Robert J.,SVP,M - OptEx,27.74,11178,11588,>999%,310078.0,-1.0,-4.0,-3.0,-1.0,XRAY
+846,D,2015-01-12 15:21:09,2015-01-09,XRAY,Size Robert J.,SVP,S - Sale+OE,52.97,-11178,11588,-49%,-592081.0,-1.0,-4.0,-3.0,-1.0,XRAY
+847,D,2014-12-09 17:14:08,2014-12-08,XRAY,Jones Leslie A,Dir,M - OptEx,28.0,18000,94801,+23%,504000.0,-2.0,-3.0,-3.0,-5.0,XRAY
+848,D,2014-12-09 17:14:08,2014-12-08,XRAY,Jones Leslie A,Dir,S - Sale+OE,55.45,-18000,94801,-16%,-998080.0,-2.0,-3.0,-3.0,-5.0,XRAY
+849,D,2014-12-05 15:07:09,2014-12-04,XRAY,Sterkenburg Albert,SVP,M - OptEx,31.36,23200,8440,-157%,727552.0,1.0,-2.0,-8.0,-6.0,XRAY
+850,D,2014-12-05 15:07:09,2014-12-04,XRAY,Sterkenburg Albert,SVP,S - Sale+OE,55.62,-23200,8440,-73%,-1290349.0,1.0,-2.0,-8.0,-6.0,XRAY
+851,D,2014-12-03 16:49:12,2014-12-01,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,31.36,197400,69364,-154%,6190464.0,0.0,-1.0,-7.0,-6.0,XRAY
+852,D,2014-12-03 16:49:12,2014-12-01,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,54.08,-197400,69364,-74%,-10676280.0,0.0,-1.0,-7.0,-6.0,XRAY
+853,D,2014-11-07 16:35:12,2014-11-07,XRAY,Alfano Michael C,Dir,M - OptEx,33.03,20000,7207,-156%,660600.0,0.0,1.0,8.0,-1.0,XRAY
+854,D,2014-11-07 16:35:12,2014-11-07,XRAY,Alfano Michael C,Dir,S - Sale+OE,51.23,-20000,7207,-74%,-1024546.0,0.0,1.0,8.0,-1.0,XRAY
+855,D,2014-11-05 16:28:08,2014-11-05,XRAY,Mosch James G,"EVP, C.O.O.",M - OptEx,27.74,55042,24890,-183%,1526865.0,1.0,0.0,8.0,-1.0,XRAY
+856,D,2014-11-05 16:28:08,2014-11-05,XRAY,Mosch James G,"EVP, C.O.O.",S - Sale+OE,51.25,-55042,24890,-69%,-2820903.0,1.0,0.0,8.0,-1.0,XRAY
+857,D,2014-11-04 16:56:08,2014-11-04,XRAY,Lunger Francis J,Dir,M - OptEx,29.7,9160,5231,-233%,272052.0,2.0,1.0,10.0,0.0,XRAY
+858,D,2014-11-04 16:56:08,2014-11-04,XRAY,Lunger Francis J,Dir,S - Sale+OE,50.9,-9160,5231,-64%,-466258.0,2.0,1.0,10.0,0.0,XRAY
+859,,2014-11-03 16:14:12,2014-10-31,XRAY,Sterkenburg Albert,SVP,S - Sale,50.51,-2000,8440,-19%,-101027.0,0.0,1.0,9.0,3.0,XRAY
+860,D,2014-11-03 16:14:08,2014-10-31,XRAY,Miles John C II,Dir,M - OptEx,27.52,20000,11000,-222%,550400.0,0.0,1.0,9.0,3.0,XRAY
+861,D,2014-11-03 16:14:08,2014-10-31,XRAY,Miles John C II,Dir,S - Sale+OE,50.65,-20000,11000,-65%,-1012986.0,0.0,1.0,9.0,3.0,XRAY
+862,,2014-08-27 15:21:12,2014-08-25,XRAY,Jones Leslie A,Dir,S - Sale,48.3,-2000,94801,-2%,-96592.0,-1.0,-1.0,-6.0,11.0,XRAY
+863,D,2014-08-20 16:14:09,2014-08-18,XRAY,Clark Christopher T,"Pres, C.F.O.",M - OptEx,27.74,27521,0,-100%,763433.0,1.0,2.0,-2.0,11.0,XRAY
+864,D,2014-08-20 16:14:09,2014-08-18,XRAY,Clark Christopher T,"Pres, C.F.O.",S - Sale+OE,47.3,-27521,0,-100%,-1301743.0,1.0,2.0,-2.0,11.0,XRAY
+865,D,2014-07-07 16:42:09,2014-07-03,XRAY,Clark Christopher T,"Pres, C.F.O.",M - OptEx,27.74,27521,0,-100%,763433.0,-1.0,-1.0,-2.0,9.0,XRAY
+866,D,2014-07-07 16:42:09,2014-07-03,XRAY,Clark Christopher T,"Pres, C.F.O.",S - Sale+OE,47.74,-27521,0,-100%,-1313883.0,-1.0,-1.0,-2.0,9.0,XRAY
+867,,2014-06-02 16:56:08,2014-05-30,XRAY,Alfano Michael C,Dir,S - Sale,47.25,-2764,7207,-28%,-130604.0,1.0,2.0,0.0,15.0,XRAY
+868,D,2014-05-28 15:49:24,2014-05-25,XRAY,Brandt Eric,Dir,M - OptEx,0.0,909,909,New,0.0,0.0,1.0,2.0,15.0,XRAY
+869,D,2014-05-28 15:49:20,2014-05-25,XRAY,Miclot John L,Dir,M - OptEx,0.0,909,909,New,0.0,0.0,1.0,2.0,15.0,XRAY
+870,D,2014-05-28 15:49:16,2014-05-25,XRAY,Lunger Francis J,Dir,M - OptEx,0.0,909,5231,+21%,0.0,0.0,1.0,2.0,15.0,XRAY
+871,D,2014-05-28 15:49:13,2014-05-25,XRAY,Jones Leslie A,Dir,M - OptEx,0.0,909,96801,+1%,0.0,0.0,1.0,2.0,15.0,XRAY
+872,D,2014-05-28 15:49:09,2014-05-24,XRAY,Wagner Richard M,"VP, Corporate Controller",F - Tax,46.9,-486,1037,-32%,-22793.0,0.0,1.0,2.0,15.0,XRAY
+873,D,2014-05-28 15:49:09,2014-05-24,XRAY,Wagner Richard M,"VP, Corporate Controller",M - OptEx,0.0,1523,1037,-313%,0.0,0.0,1.0,2.0,15.0,XRAY
+874,D,2014-05-28 15:42:08,2014-05-25,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,909,9971,+10%,0.0,0.0,1.0,2.0,15.0,XRAY
+875,,2014-05-19 15:28:09,2014-05-19,XRAY,Jones Leslie A,Dir,S - Sale,46.49,-2000,95892,-2%,-92986.0,1.0,1.0,3.0,12.0,XRAY
+876,D,2014-05-14 12:28:09,2014-05-13,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,787,9062,+10%,0.0,-1.0,0.0,3.0,10.0,XRAY
+877,D,2014-05-13 16:35:13,2014-05-12,XRAY,Alfano Michael C,Dir,M - OptEx,0.0,1136,8275,+16%,0.0,-1.0,0.0,3.0,10.0,XRAY
+878,,2014-05-13 16:35:08,2014-05-12,XRAY,Size Robert J.,SVP,S - Sale,46.29,-5049,11588,-30%,-233718.0,-1.0,0.0,3.0,10.0,XRAY
+879,D,2014-04-01 17:07:16,2014-03-29,XRAY,Rasin Deborah,"VP,Secretary, GC",M - OptEx,0.0,3994,3994,New,0.0,1.0,-2.0,-5.0,-2.0,XRAY
+880,D,2014-02-12 18:56:13,2014-02-11,XRAY,Wise Bret W,"COB, C.E.O.",F - Tax,46.28,-17558,48364,-27%,-812584.0,0.0,-3.0,-1.0,2.0,XRAY
+881,D,2014-02-12 18:56:13,2014-02-11,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,0.0,44948,48364,>999%,0.0,0.0,-3.0,-1.0,2.0,XRAY
+882,D,2014-02-12 18:49:40,2014-02-11,XRAY,Clark Christopher T,"Pres, C.F.O.",F - Tax,46.28,-7246,33989,-18%,-335345.0,0.0,-3.0,-1.0,2.0,XRAY
+883,D,2014-02-12 18:49:40,2014-02-11,XRAY,Clark Christopher T,"Pres, C.F.O.",M - OptEx,0.0,22482,33989,+195%,0.0,0.0,-3.0,-1.0,2.0,XRAY
+884,D,2014-02-12 18:49:36,2014-02-11,XRAY,Sterkenburg Albert,SVP,F - Tax,46.28,-3182,13569,-19%,-147263.0,0.0,-3.0,-1.0,2.0,XRAY
+885,D,2014-02-12 18:49:36,2014-02-11,XRAY,Sterkenburg Albert,SVP,M - OptEx,0.0,7176,13569,+112%,0.0,0.0,-3.0,-1.0,2.0,XRAY
+886,D,2014-02-12 18:49:32,2014-02-11,XRAY,Size Robert J.,SVP,F - Tax,46.28,-2451,16637,-13%,-113432.0,0.0,-3.0,-1.0,2.0,XRAY
+887,D,2014-02-12 18:49:32,2014-02-11,XRAY,Size Robert J.,SVP,M - OptEx,0.0,7587,16637,+84%,0.0,0.0,-3.0,-1.0,2.0,XRAY
+888,D,2014-02-12 18:49:20,2014-02-11,XRAY,Deese Willie A,Dir,M - OptEx,0.0,270,270,New,0.0,0.0,-3.0,-1.0,2.0,XRAY
+889,D,2014-02-12 18:49:16,2014-02-11,XRAY,Mosch James G,"EVP, C.O.O.",F - Tax,46.28,-4548,24890,-15%,-210481.0,0.0,-3.0,-1.0,2.0,XRAY
+890,D,2014-02-12 18:49:16,2014-02-11,XRAY,Mosch James G,"EVP, C.O.O.",M - OptEx,0.0,12370,24890,+99%,0.0,0.0,-3.0,-1.0,2.0,XRAY
+891,D,2013-12-11 16:42:08,2013-12-11,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,27.74,90000,21724,-132%,2496600.0,-1.0,-2.0,1.0,-1.0,XRAY
+892,D,2013-12-11 16:42:08,2013-12-11,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,48.5,-90000,21724,-81%,-4365000.0,-1.0,-2.0,1.0,-1.0,XRAY
+893,D,2013-12-11 16:35:08,2013-12-09,XRAY,Lunger Francis J,Dir,M - OptEx,28.1,18000,4322,-132%,505710.0,-1.0,-2.0,1.0,-1.0,XRAY
+894,D,2013-12-11 16:35:08,2013-12-09,XRAY,Lunger Francis J,Dir,S - Sale+OE,47.66,-18000,4322,-81%,-857876.0,-1.0,-2.0,1.0,-1.0,XRAY
+895,DM,2013-12-06 16:42:08,2013-12-04,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,27.74,24323,30294,+407%,674720.0,-1.0,1.0,2.0,1.0,XRAY
+896,DM,2013-12-06 16:42:08,2013-12-04,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,47.66,-24323,30294,-45%,-1159188.0,-1.0,1.0,2.0,1.0,XRAY
+897,D,2013-12-04 16:42:09,2013-12-02,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,27.74,66761,30294,-183%,1851950.0,-1.0,2.0,2.0,2.0,XRAY
+898,D,2013-12-04 16:42:09,2013-12-02,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,47.53,-66761,30294,-69%,-3172830.0,-1.0,2.0,2.0,2.0,XRAY
+899,D,2013-12-03 13:00:08,2013-12-02,XRAY,Hecht William F,Lead Director,M - OptEx,21.54,18000,18000,New,387720.0,0.0,0.0,1.0,1.0,XRAY
+900,D,2013-12-03 13:00:08,2013-12-02,XRAY,Hecht William F,Lead Director,S - Sale+OE,47.49,-18000,18000,-50%,-854764.0,0.0,0.0,1.0,1.0,XRAY
+901,,2013-11-12 11:58:17,2013-11-08,XRAY,Jones Leslie A,Dir,S - Sale,47.68,-2000,97892,-2%,-95364.0,1.0,2.0,2.0,-3.0,XRAY
+902,,2013-11-12 11:56:12,2013-11-08,XRAY,Jones Leslie A,Dir,S - Sale,47.68,-2000,97892,-2%,-95364.0,1.0,2.0,2.0,-3.0,XRAY
+903,D,2013-10-22 10:07:09,2013-10-21,XRAY,Size Robert J.,SVP,M - OptEx,27.45,14262,11501,-517%,391492.0,0.0,-2.0,5.0,-1.0,XRAY
+904,D,2013-10-22 10:07:09,2013-10-21,XRAY,Size Robert J.,SVP,S - Sale+OE,46.0,-14262,11501,-55%,-656052.0,0.0,-2.0,5.0,-1.0,XRAY
+905,D,2013-09-13 10:07:08,2013-09-11,XRAY,Size Robert J.,SVP,M - OptEx,24.68,8200,11501,+248%,202376.0,-1.0,0.0,0.0,1.0,XRAY
+906,D,2013-09-13 10:07:08,2013-09-11,XRAY,Size Robert J.,SVP,S - Sale+OE,45.0,-8200,11501,-42%,-369000.0,-1.0,0.0,0.0,1.0,XRAY
+907,D,2013-09-11 14:07:08,2013-09-10,XRAY,Mosch James G,"EVP, C.O.O.",M - OptEx,27.45,41836,17068,-169%,1148398.0,2.0,0.0,-2.0,3.0,XRAY
+908,D,2013-09-11 14:07:08,2013-09-10,XRAY,Mosch James G,"EVP, C.O.O.",S - Sale+OE,43.95,-41836,17068,-71%,-1838692.0,2.0,0.0,-2.0,3.0,XRAY
+909,D,2013-08-01 09:49:24,2013-07-31,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,27.45,20918,18753,-966%,574199.0,0.0,-1.0,-2.0,9.0,XRAY
+910,D,2013-08-01 09:49:24,2013-07-31,XRAY,Clark Christopher T,"Pres, C.O.O.",S - Sale+OE,43.0,-20918,18753,-53%,-899474.0,0.0,-1.0,-2.0,9.0,XRAY
+911,D,2013-08-01 09:49:09,2013-07-31,XRAY,Brandt Eric,Dir,M - OptEx,26.0,18000,6276,-154%,468000.0,0.0,-1.0,-2.0,9.0,XRAY
+912,D,2013-08-01 09:49:09,2013-07-31,XRAY,Brandt Eric,Dir,S - Sale+OE,43.0,-18000,6276,-74%,-774000.0,0.0,-1.0,-2.0,9.0,XRAY
+913,D,2013-07-11 14:00:09,2013-07-09,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,27.45,20918,18753,-966%,574199.0,1.0,1.0,2.0,17.0,XRAY
+914,D,2013-07-11 14:00:09,2013-07-09,XRAY,Clark Christopher T,"Pres, C.O.O.",S - Sale+OE,42.0,-20918,18753,-53%,-878556.0,1.0,1.0,2.0,17.0,XRAY
+915,D,2013-07-03 15:42:12,2013-05-11,XRAY,Lunger Francis J,Dir,M - OptEx,42.64,1120,4313,+35%,47742.0,0.0,2.0,4.0,18.0,XRAY
+916,,2013-06-04 10:35:08,2013-06-03,XRAY,Jones Leslie A,Dir,S - Sale,41.76,-2840,99892,-3%,-118598.0,-1.0,-2.0,-3.0,13.0,XRAY
+917,D,2013-03-15 13:28:09,2013-03-14,XRAY,Clark Christopher T,"Pres, C.O.O.",G - Gift,42.62,24376,42159,-37%,1038905.0,-1.0,-2.0,-3.0,5.0,XRAY
+918,D,2013-03-13 18:21:09,2013-03-12,XRAY,Cholmondeley Paula H,Dir,M - OptEx,0.0,9000,360,-104%,0.0,0.0,-1.0,0.0,5.0,XRAY
+919,D,2013-03-13 18:21:09,2013-03-12,XRAY,Cholmondeley Paula H,Dir,S - Sale+OE,42.7,-9000,360,-96%,-384300.0,0.0,-1.0,0.0,5.0,XRAY
+920,D,2013-03-05 12:28:10,2013-03-01,XRAY,Cholmondeley Paula H,Dir,M - OptEx,0.0,9000,360,-104%,0.0,2.0,4.0,-1.0,2.0,XRAY
+921,D,2013-03-05 12:28:10,2013-03-01,XRAY,Cholmondeley Paula H,Dir,S - Sale+OE,41.05,-9000,360,-96%,-369450.0,2.0,4.0,-1.0,2.0,XRAY
+922,,2013-02-13 17:15:15,2013-02-11,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale,42.72,-3496,16273,-18%,-149349.0,0.0,0.0,-1.0,-1.0,XRAY
+923,D,2013-02-07 18:20:14,2013-02-05,XRAY,Wise Bret W,"COB, C.E.O.",F - Tax,42.39,-13180,50939,-21%,-558700.0,1.0,1.0,1.0,0.0,XRAY
+924,D,2013-02-07 18:20:14,2013-02-05,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,0.0,30086,50939,+144%,0.0,1.0,1.0,1.0,0.0,XRAY
+925,D,2013-02-07 18:15:10,2013-02-05,XRAY,Size Robert J.,SVP,F - Tax,42.39,-2198,11501,-16%,-93173.0,1.0,1.0,1.0,0.0,XRAY
+926,D,2013-02-07 18:15:10,2013-02-05,XRAY,Size Robert J.,SVP,M - OptEx,0.0,5014,11501,+77%,0.0,1.0,1.0,1.0,0.0,XRAY
+927,D,2013-02-06 20:25:10,2013-02-04,XRAY,Wise Bret W,"COB, C.E.O.",F - Tax,42.05,-14036,34033,-29%,-590214.0,0.0,0.0,0.0,0.0,XRAY
+928,D,2013-02-06 20:25:10,2013-02-04,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,0.0,30744,34033,+935%,0.0,0.0,0.0,0.0,0.0,XRAY
+929,D,2013-02-06 20:25:10,2013-02-05,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,42.29,-30152,34033,-47%,-1275128.0,0.0,0.0,0.0,0.0,XRAY
+930,D,2013-02-06 19:35:17,2013-02-04,XRAY,Size Robert J.,SVP,F - Tax,42.05,-2428,8685,-22%,-102097.0,0.0,0.0,0.0,0.0,XRAY
+931,D,2013-02-06 19:35:17,2013-02-04,XRAY,Size Robert J.,SVP,M - OptEx,0.0,5076,8685,+141%,0.0,0.0,0.0,0.0,0.0,XRAY
+932,D,2013-02-06 19:35:13,2013-02-04,XRAY,Sterkenburg Albert,SVP,F - Tax,42.05,-2125,8942,-19%,-89356.0,0.0,0.0,0.0,0.0,XRAY
+933,D,2013-02-06 19:35:13,2013-02-04,XRAY,Sterkenburg Albert,SVP,M - OptEx,0.0,4795,8942,+116%,0.0,0.0,0.0,0.0,0.0,XRAY
+934,D,2013-02-06 19:30:25,2013-02-04,XRAY,Mosch James G,EVP,F - Tax,42.05,-7165,17068,-30%,-301288.0,0.0,0.0,0.0,0.0,XRAY
+935,D,2013-02-06 19:30:25,2013-02-04,XRAY,Mosch James G,EVP,M - OptEx,0.0,13945,17068,+447%,0.0,0.0,0.0,0.0,0.0,XRAY
+936,D,2013-02-06 19:30:24,2013-02-04,XRAY,Jellison William R,"SVP, C.F.O.",F - Tax,42.05,-3203,19769,-14%,-134686.0,0.0,0.0,0.0,0.0,XRAY
+937,D,2013-02-06 19:30:24,2013-02-04,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,0.0,6768,19769,+52%,0.0,0.0,0.0,0.0,0.0,XRAY
+938,D,2013-02-06 19:30:23,2013-02-04,XRAY,Clark Christopher T,"Pres, C.O.O.",F - Tax,42.05,-10561,30941,-25%,-444090.0,0.0,0.0,0.0,0.0,XRAY
+939,D,2013-02-06 19:30:23,2013-02-04,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,0.0,22764,30941,+278%,0.0,0.0,0.0,0.0,0.0,XRAY
+940,DM,2013-01-24 17:55:09,2013-01-22,XRAY,Mosch James G,EVP,M - OptEx,0.0,19200,10288,-215%,0.0,2.0,1.0,1.0,2.0,XRAY
+941,DM,2013-01-24 17:55:09,2013-01-22,XRAY,Mosch James G,EVP,S - Sale+OE,41.32,-19200,10288,-65%,-793382.0,2.0,1.0,1.0,2.0,XRAY
+942,D,2013-01-22 11:05:11,2013-01-18,XRAY,Mosch James G,EVP,M - OptEx,0.0,800,10288,+8%,0.0,0.0,3.0,5.0,5.0,XRAY
+943,D,2013-01-22 11:05:11,2013-01-18,XRAY,Mosch James G,EVP,S - Sale+OE,40.95,-800,10288,-7%,-32760.0,0.0,3.0,5.0,5.0,XRAY
+944,DM,2013-01-04 20:20:13,2013-01-02,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,0.0,71138,47477,-301%,0.0,0.0,-1.0,3.0,3.0,XRAY
+945,DM,2013-01-04 20:20:13,2013-01-02,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,40.5,-71138,47477,-60%,-2881329.0,0.0,-1.0,3.0,3.0,XRAY
+946,D,2012-12-26 20:40:09,2012-12-21,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,0.0,4349,47477,+10%,0.0,0.0,2.0,7.0,3.0,XRAY
+947,D,2012-12-26 20:40:09,2012-12-21,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,40.5,-4349,47477,-8%,-176135.0,0.0,2.0,7.0,3.0,XRAY
+948,,2012-12-04 11:40:10,2012-12-03,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale,39.79,-463,16204,-3%,-18423.0,-1.0,0.0,2.0,5.0,XRAY
+949,,2012-11-07 17:15:13,2012-11-06,XRAY,Jones Leslie A,Dir,S - Sale,39.56,-10000,102732,-9%,-395600.0,-2.0,-1.0,1.0,10.0,XRAY
+950,D,2012-08-20 10:00:11,2012-08-17,XRAY,Sterkenburg Albert,SVP,M - OptEx,0.0,13800,6272,-183%,0.0,-1.0,-6.0,-4.0,7.0,XRAY
+951,D,2012-08-20 10:00:11,2012-08-17,XRAY,Sterkenburg Albert,SVP,S - Sale+OE,38.87,-13800,6272,-69%,-536406.0,-1.0,-6.0,-4.0,7.0,XRAY
+952,,2012-08-09 14:40:21,2012-08-07,XRAY,Jones Leslie A,Dir,S - Sale,38.03,-3900,112732,-3%,-148317.0,0.0,1.0,-3.0,11.0,XRAY
+953,DM,2012-05-15 18:00:24,2011-07-28,XRAY,Lunger Francis J,Dir,M - OptEx,39.08,1545,3193,+94%,60379.0,-1.0,-2.0,-5.0,-2.0,XRAY
+954,D,2012-05-15 18:00:20,2012-05-12,XRAY,Jones Leslie A,Dir,M - OptEx,0.0,1367,162632,+1%,0.0,-1.0,-2.0,-5.0,-2.0,XRAY
+955,D,2012-05-07 11:25:10,2012-05-03,XRAY,Coleman Michael J,Dir,M - OptEx,0.0,18000,19477,>999%,0.0,0.0,0.0,-7.0,-1.0,XRAY
+956,D,2012-05-07 11:25:10,2012-05-03,XRAY,Coleman Michael J,Dir,S - Sale+OE,40.19,-18000,19477,-48%,-723420.0,0.0,0.0,-7.0,-1.0,XRAY
+957,DM,2012-04-30 10:05:10,2012-04-25,XRAY,Size Robert J.,SVP,M - OptEx,0.0,10000,6037,-252%,0.0,-1.0,-5.0,-7.0,-9.0,XRAY
+958,DM,2012-04-30 10:05:10,2012-04-25,XRAY,Size Robert J.,SVP,S - Sale+OE,41.05,-10000,6037,-62%,-410507.0,-1.0,-5.0,-7.0,-9.0,XRAY
+959,DM,2012-04-30 10:00:19,2012-04-25,XRAY,Mosch James G,EVP,M - OptEx,0.0,20000,10288,-206%,0.0,-1.0,-5.0,-7.0,-9.0,XRAY
+960,DM,2012-04-30 10:00:19,2012-04-25,XRAY,Mosch James G,EVP,S - Sale+OE,41.1,-20000,10288,-66%,-822054.0,-1.0,-5.0,-7.0,-9.0,XRAY
+961,DM,2012-04-04 20:20:10,2011-03-04,XRAY,Clark Christopher T,"Pres, C.O.O.",G - Gift,38.38,-2400,29956,-7%,-92112.0,0.0,-2.0,1.0,-3.0,XRAY
+962,D,2012-04-04 20:20:10,2012-04-02,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,0.0,59600,29956,-201%,0.0,0.0,-2.0,1.0,-3.0,XRAY
+963,D,2012-04-04 20:20:10,2012-04-02,XRAY,Clark Christopher T,"Pres, C.O.O.",S - Sale+OE,40.29,-59600,29956,-67%,-2401284.0,0.0,-2.0,1.0,-3.0,XRAY
+964,D,2012-04-02 18:25:10,2012-03-29,XRAY,Mosch James G,EVP,M - OptEx,0.0,19600,12334,-270%,0.0,0.0,-3.0,0.0,-5.0,XRAY
+965,D,2012-04-02 18:25:10,2012-03-29,XRAY,Mosch James G,EVP,S - Sale+OE,40.01,-19600,12334,-61%,-784196.0,0.0,-3.0,0.0,-5.0,XRAY
+966,,2012-03-27 11:40:10,2010-02-23,XRAY,Clark Christopher T,"Pres, C.O.O.",G - Gift,0.0,12436,15618,-44%,0.0,0.0,1.0,2.0,-6.0,XRAY
+967,D,2012-02-27 11:15:09,2012-02-24,XRAY,Jones Leslie A,Dir,M - OptEx,0.0,18000,161265,+13%,0.0,1.0,2.0,4.0,-4.0,XRAY
+968,D,2012-02-27 11:15:09,2012-02-24,XRAY,Jones Leslie A,Dir,S - Sale+OE,38.38,-18000,161265,-10%,-690840.0,1.0,2.0,4.0,-4.0,XRAY
+969,D,2012-02-15 21:15:14,2012-02-12,XRAY,Wise Bret W,"COB, C.E.O.",F - Tax,37.68,-15230,47477,-24%,-573866.0,2.0,-1.0,3.0,0.0,XRAY
+970,D,2012-02-15 21:15:14,2012-02-12,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,37.68,37476,47477,+375%,1412096.0,2.0,-1.0,3.0,0.0,XRAY
+971,D,2012-02-15 21:15:11,2012-02-12,XRAY,Jellison William R,"SVP, C.F.O.",F - Tax,37.68,-2832,16667,-15%,-106710.0,2.0,-1.0,3.0,0.0,XRAY
+972,D,2012-02-15 21:15:11,2012-02-12,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,37.68,7761,16667,+87%,292434.0,2.0,-1.0,3.0,0.0,XRAY
+973,D,2012-02-15 21:15:11,2012-02-14,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,38.25,-4466,16667,-21%,-170825.0,2.0,-1.0,3.0,0.0,XRAY
+974,D,2012-02-15 21:00:28,2012-02-12,XRAY,Mosch James G,EVP,F - Tax,37.68,-3558,12334,-22%,-134065.0,2.0,-1.0,3.0,0.0,XRAY
+975,D,2012-02-15 21:00:28,2012-02-12,XRAY,Mosch James G,EVP,M - OptEx,37.68,7761,12334,+170%,292434.0,2.0,-1.0,3.0,0.0,XRAY
+976,D,2012-02-15 21:00:19,2012-02-12,XRAY,Sterkenburg Albert,SVP,F - Tax,37.68,-2676,6272,-30%,-100832.0,2.0,-1.0,3.0,0.0,XRAY
+977,D,2012-02-15 21:00:19,2012-02-12,XRAY,Sterkenburg Albert,SVP,M - OptEx,37.68,6037,6272,>999%,227474.0,2.0,-1.0,3.0,0.0,XRAY
+978,D,2012-02-15 20:50:09,2012-02-12,XRAY,Size Robert J.,SVP,F - Tax,37.68,-2528,3509,-42%,-95255.0,2.0,-1.0,3.0,0.0,XRAY
+979,D,2012-02-15 20:50:09,2012-02-12,XRAY,Size Robert J.,SVP,M - OptEx,37.68,6037,3509,-239%,227474.0,2.0,-1.0,3.0,0.0,XRAY
+980,D,2012-02-15 19:50:09,2012-02-12,XRAY,Clark Christopher T,"Pres, C.O.O.",F - Tax,37.68,-7661,23496,-25%,-288666.0,2.0,-1.0,3.0,0.0,XRAY
+981,D,2012-02-15 19:50:09,2012-02-12,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,37.68,18738,23496,+394%,706048.0,2.0,-1.0,3.0,0.0,XRAY
+982,AD,2012-02-14 19:25:42,2011-02-04,XRAY,Wise Bret W,"COB, C.E.O.",F - Tax,36.4,-10292,22439,-31%,-374629.0,0.0,0.0,3.0,0.0,XRAY
+983,AD,2012-02-14 19:25:42,2011-02-04,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,36.4,25231,22439,-904%,918413.0,0.0,0.0,3.0,0.0,XRAY
+984,AD,2012-02-14 17:44:33,2011-02-04,XRAY,Sterkenburg Albert,SVP,F - Tax,36.4,-1291,3155,-29%,-46992.0,0.0,0.0,3.0,0.0,XRAY
+985,AD,2012-02-14 17:44:33,2011-02-04,XRAY,Sterkenburg Albert,SVP,M - OptEx,36.4,2911,3155,>999%,105965.0,0.0,0.0,3.0,0.0,XRAY
+986,AD,2012-02-14 17:07:12,2011-02-04,XRAY,Size Robert J.,SVP,F - Tax,36.4,-1828,2442,-43%,-66539.0,0.0,0.0,3.0,0.0,XRAY
+987,AD,2012-02-14 17:07:12,2011-02-04,XRAY,Size Robert J.,SVP,M - OptEx,36.4,4270,2442,-234%,155428.0,0.0,0.0,3.0,0.0,XRAY
+988,AD,2012-02-13 20:17:42,2011-02-04,XRAY,Mosch James G,EVP,F - Tax,36.4,-2046,6085,-25%,-74474.0,1.0,2.0,3.0,1.0,XRAY
+989,AD,2012-02-13 20:17:42,2011-02-04,XRAY,Mosch James G,EVP,M - OptEx,36.4,5240,6085,+620%,190737.0,1.0,2.0,3.0,1.0,XRAY
+990,AD,2012-02-13 19:50:34,2011-02-04,XRAY,Jellison William R,"SVP, C.F.O.",F - Tax,36.4,-1869,18288,-9%,-68032.0,1.0,2.0,3.0,1.0,XRAY
+991,AD,2012-02-13 19:50:34,2011-02-04,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,36.4,5822,18288,+47%,211930.0,1.0,2.0,3.0,1.0,XRAY
+992,AD,2012-02-13 19:21:40,2011-02-04,XRAY,Clark Christopher T,"Pres, C.O.O.",F - Tax,36.4,-4214,17193,-20%,-153390.0,1.0,2.0,3.0,1.0,XRAY
+993,AD,2012-02-13 19:21:40,2011-02-04,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,36.4,10190,17193,+146%,370915.0,1.0,2.0,3.0,1.0,XRAY
+994,D,2012-01-23 15:55:09,2012-01-19,XRAY,Mosch James G,EVP,M - OptEx,0.0,46000,8131,-121%,0.0,-1.0,0.0,1.0,-3.0,XRAY
+995,D,2012-01-23 15:55:09,2012-01-19,XRAY,Mosch James G,EVP,S - Sale+OE,38.08,-46000,8131,-85%,-1751680.0,-1.0,0.0,1.0,-3.0,XRAY
+996,D,2012-01-19 06:00:27,2012-01-18,XRAY,Mosch James G,EVP,M - OptEx,0.0,20900,8131,-164%,0.0,2.0,5.0,6.0,-1.0,XRAY
+997,D,2012-01-19 06:00:27,2012-01-18,XRAY,Mosch James G,EVP,S - Sale+OE,37.02,-20900,8131,-72%,-773718.0,2.0,5.0,6.0,-1.0,XRAY
+998,D,2011-10-31 17:30:10,2011-10-27,XRAY,Mosch James G,EVP,M - OptEx,0.0,2100,8131,+35%,0.0,-4.0,-3.0,-8.0,10.0,XRAY
+999,D,2011-10-31 17:30:10,2011-10-27,XRAY,Mosch James G,EVP,S - Sale+OE,40.0,-2100,8131,-21%,-84000.0,-4.0,-3.0,-8.0,10.0,XRAY
+1000,D,2011-10-31 17:15:09,2011-10-27,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,0.0,14967,25231,+146%,0.0,-4.0,-3.0,-8.0,10.0,XRAY
+1001,D,2011-10-31 17:15:09,2011-10-27,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,39.05,-14967,25231,-37%,-584461.0,-4.0,-3.0,-8.0,10.0,XRAY
+1002,D,2011-10-11 06:01:20,2010-07-30,XRAY,Brandt Eric,Dir,M - OptEx,0.0,876,6276,+16%,0.0,0.0,-1.0,14.0,20.0,XRAY
+1003,D,2011-10-11 06:00:26,2010-07-30,XRAY,Coleman Michael J,Dir,M - OptEx,0.0,876,19476,+5%,0.0,0.0,-1.0,14.0,20.0,XRAY
+1004,,2011-08-04 19:40:17,2011-08-02,XRAY,Jones Leslie A,Dir,S - Sale,37.6,-7740,161265,-5%,-291037.0,0.0,-8.0,1.0,10.0,XRAY
+1005,D,2011-05-23 19:05:29,2011-05-19,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,22.14,29800,16204,-219%,659772.0,0.0,1.0,-3.0,-11.0,XRAY
+1006,D,2011-05-23 19:05:29,2011-05-19,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,40.0,-29800,16204,-65%,-1192000.0,0.0,1.0,-3.0,-11.0,XRAY
+1007,D,2011-05-23 19:05:19,2011-05-19,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,19.79,42000,25231,-250%,831195.0,0.0,1.0,-3.0,-11.0,XRAY
+1008,D,2011-05-23 19:05:19,2011-05-19,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,40.0,-42000,25231,-62%,-1680000.0,0.0,1.0,-3.0,-11.0,XRAY
+1009,D,2011-05-23 19:05:19,2011-05-19,XRAY,Size Robert J.,SVP,M - OptEx,18.85,5000,1829,-158%,94250.0,0.0,1.0,-3.0,-11.0,XRAY
+1010,D,2011-05-23 19:05:19,2011-05-19,XRAY,Size Robert J.,SVP,S - Sale+OE,40.0,-5000,1829,-73%,-200000.0,0.0,1.0,-3.0,-11.0,XRAY
+1011,ADM,2011-05-23 13:40:52,2011-05-12,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,18.68,43000,38090,-876%,803046.0,-2.0,0.0,-4.0,-12.0,XRAY
+1012,ADM,2011-05-23 13:40:52,2011-05-12,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,39.0,-30241,38090,-44%,-1179399.0,-2.0,0.0,-4.0,-12.0,XRAY
+1013,AD,2011-05-23 13:40:49,2011-05-13,XRAY,Size Robert J.,SVP,M - OptEx,18.85,5000,6829,+273%,94250.0,-2.0,0.0,-4.0,-12.0,XRAY
+1014,ADM,2011-05-23 13:40:44,2011-05-13,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,22.14,29800,24704,-585%,659772.0,-2.0,0.0,-4.0,-12.0,XRAY
+1015,ADM,2011-05-23 13:40:26,2011-05-12,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,18.49,34500,23191,-305%,637733.0,-2.0,0.0,-4.0,-12.0,XRAY
+1016,DM,2011-05-17 21:20:16,2010-07-30,XRAY,Lunger Francis J,Dir,M - OptEx,0.0,1650,1650,New,0.0,1.0,-1.0,-8.0,-7.0,XRAY
+1017,DM,2011-05-16 21:10:12,2011-05-12,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,0.0,43000,25231,-242%,0.0,0.0,0.0,-6.0,-9.0,XRAY
+1018,DM,2011-05-16 21:10:12,2011-05-13,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,39.0,-43000,25231,-63%,-1677000.0,0.0,0.0,-6.0,-9.0,XRAY
+1019,DM,2011-05-16 20:20:08,2011-05-12,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,0.0,34500,16633,-193%,0.0,0.0,0.0,-6.0,-9.0,XRAY
+1020,DM,2011-05-16 20:20:08,2011-05-12,XRAY,Clark Christopher T,"Pres, C.O.O.",S - Sale+OE,39.0,-34500,16633,-67%,-1345500.0,0.0,0.0,-6.0,-9.0,XRAY
+1021,D,2011-05-16 20:15:20,2011-05-13,XRAY,Size Robert J.,SVP,M - OptEx,0.0,5000,1829,-158%,0.0,0.0,0.0,-6.0,-9.0,XRAY
+1022,D,2011-05-16 20:15:20,2011-05-13,XRAY,Size Robert J.,SVP,S - Sale+OE,39.01,-5000,1829,-73%,-195025.0,0.0,0.0,-6.0,-9.0,XRAY
+1023,DM,2011-05-16 20:15:14,2011-05-13,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,0.0,29800,16204,-219%,0.0,0.0,0.0,-6.0,-9.0,XRAY
+1024,DM,2011-05-16 20:15:14,2011-05-13,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,39.0,-29800,16204,-65%,-1162200.0,0.0,0.0,-6.0,-9.0,XRAY
+1025,D,2011-05-02 15:40:32,2011-04-28,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,18.49,17250,16204,-1650%,318866.0,1.0,2.0,5.0,4.0,XRAY
+1026,D,2011-05-02 15:40:32,2011-04-28,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,38.01,-17250,16204,-52%,-655604.0,1.0,2.0,5.0,4.0,XRAY
+1027,D,2011-05-02 15:40:30,2011-04-28,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,0.0,27000,25231,-1526%,0.0,1.0,2.0,5.0,4.0,XRAY
+1028,D,2011-05-02 15:40:30,2011-04-28,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,38.01,-27000,25231,-52%,-1026162.0,1.0,2.0,5.0,4.0,XRAY
+1029,,2011-05-02 15:40:18,2011-04-28,XRAY,Size Robert J.,SVP,S - Sale,37.0,-2441,1829,-57%,-90317.0,1.0,2.0,5.0,4.0,XRAY
+1030,D,2011-04-04 21:10:10,2011-03-31,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,18.49,17862,16204,-1077%,330179.0,-1.0,-2.0,2.0,-17.0,XRAY
+1031,D,2011-04-04 21:10:10,2011-03-31,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,36.99,-17862,16204,-52%,-660664.0,-1.0,-2.0,2.0,-17.0,XRAY
+1032,,2011-04-04 21:00:09,2011-04-01,XRAY,Clark Christopher T,"Pres, C.O.O.",S - Sale,37.0,-4775,16633,-22%,-176675.0,-1.0,-2.0,2.0,-17.0,XRAY
+1033,D,2011-04-04 20:15:08,2011-04-01,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,18.49,34500,21408,-264%,637733.0,-1.0,-2.0,2.0,-17.0,XRAY
+1034,D,2011-04-04 20:15:08,2011-04-01,XRAY,Clark Christopher T,"Pres, C.O.O.",S - Sale+OE,37.04,-34500,21408,-62%,-1277825.0,-1.0,-2.0,2.0,-17.0,XRAY
+1035,D,2011-04-04 19:44:45,2011-03-31,XRAY,Wise Bret W,"COB, C.E.O.",M - OptEx,18.49,27000,25231,-1526%,499095.0,-1.0,-2.0,2.0,-17.0,XRAY
+1036,D,2011-04-04 19:44:45,2011-03-31,XRAY,Wise Bret W,"COB, C.E.O.",S - Sale+OE,37.01,-27000,25231,-52%,-999186.0,-1.0,-2.0,2.0,-17.0,XRAY
+1037,D,2011-04-01 19:15:13,2011-03-30,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,18.49,33888,16204,-192%,626420.0,0.0,-1.0,3.0,-15.0,XRAY
+1038,D,2011-04-01 19:15:13,2011-03-30,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,36.5,-33888,16204,-68%,-1237020.0,0.0,-1.0,3.0,-15.0,XRAY
+1039,D,2011-02-28 19:24:50,2011-02-25,XRAY,Warady Timothy,"VP, Controller",M - OptEx,15.58,12450,654,-106%,194013.0,-2.0,1.0,-4.0,-11.0,XRAY
+1040,D,2011-02-28 19:24:50,2011-02-25,XRAY,Warady Timothy,"VP, Controller",S - Sale+OE,36.71,-13252,654,-95%,-486432.0,-2.0,1.0,-4.0,-11.0,XRAY
+1041,,2011-02-22 14:55:09,2011-02-18,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale,36.5,-3953,16204,-20%,-144285.0,-2.0,1.0,-4.0,-14.0,XRAY
+1042,D,2011-02-17 18:25:08,2011-02-15,XRAY,Sterkenburg Albert,SVP,M - OptEx,27.61,31040,2911,-110%,856914.0,1.0,-1.0,-4.0,-9.0,XRAY
+1043,D,2011-02-17 18:25:08,2011-02-15,XRAY,Sterkenburg Albert,SVP,S - Sale+OE,36.24,-31040,2911,-91%,-1124828.0,1.0,-1.0,-4.0,-9.0,XRAY
+1044,D,2011-02-15 19:10:37,2011-02-11,XRAY,Addison Brian M,"VP, Secretary",M - OptEx,16.89,78800,35900,-184%,1331269.0,0.0,-1.0,-4.0,-6.0,XRAY
+1045,D,2011-02-15 19:10:37,2011-02-11,XRAY,Addison Brian M,"VP, Secretary",S - Sale+OE,36.42,-78800,35900,-69%,-2869880.0,0.0,-1.0,-4.0,-6.0,XRAY
+1046,D,2011-02-15 18:05:15,2011-02-11,XRAY,Cholmondeley Paula H,Dir,M - OptEx,14.87,18000,360,-102%,267721.0,0.0,-1.0,-4.0,-6.0,XRAY
+1047,D,2011-02-15 18:05:15,2011-02-11,XRAY,Cholmondeley Paula H,Dir,S - Sale+OE,36.48,-18000,360,-98%,-656604.0,0.0,-1.0,-4.0,-6.0,XRAY
+1048,D,2011-01-05 11:00:09,2011-01-03,XRAY,Mosch James G,EVP,M - OptEx,15.58,24900,2891,-113%,388027.0,1.0,2.0,5.0,12.0,XRAY
+1049,D,2011-01-05 11:00:09,2011-01-03,XRAY,Mosch James G,EVP,S - Sale+OE,15.58,-24900,2891,-90%,-388027.0,1.0,2.0,5.0,12.0,XRAY
+1050,,2010-11-09 17:55:09,2010-11-09,XRAY,Jones Leslie A,Dir,S - Sale,31.52,-5642,169005,-3%,-177847.0,0.0,-1.0,3.0,23.0,XRAY
+1051,,2010-08-12 11:56:07,2010-08-11,XRAY,Jones Leslie A,Dir,S - Sale,30.78,-1800,174647,-1%,-55406.0,-1.0,0.0,-3.0,17.0,XRAY
+1052,D,2010-05-18 09:56:12,2010-05-14,XRAY,Hecht William F,Dir,M - OptEx,11.63,18000,18000,New,209281.0,-1.0,-7.0,-10.0,-11.0,XRAY
+1053,D,2010-05-12 16:54:32,2010-05-12,XRAY,Warady Timothy,"VP, CONTROLLER",M - OptEx,15.58,12450,865,-107%,194013.0,-2.0,-6.0,-15.0,-14.0,XRAY
+1054,D,2010-05-12 16:54:32,2010-05-12,XRAY,Warady Timothy,"VP, CONTROLLER",S - Sale+OE,36.52,-12450,865,-94%,-454659.0,-2.0,-6.0,-15.0,-14.0,XRAY
+1055,,2010-05-10 13:42:42,2010-05-10,XRAY,Jones Leslie A,Dir,S - Sale,35.18,-1900,176447,-1%,-66841.0,6.0,4.0,-9.0,-6.0,XRAY
+1056,DM,2010-04-30 15:30:42,2010-04-28,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,15.58,24900,11218,-182%,388027.0,-3.0,-9.0,-15.0,-12.0,XRAY
+1057,DM,2010-04-30 15:30:42,2010-04-28,XRAY,Clark Christopher T,"Pres, C.O.O.",S - Sale+OE,37.55,-24900,11218,-69%,-934995.0,-3.0,-9.0,-15.0,-12.0,XRAY
+1058,D,2010-04-23 13:28:56,2010-04-22,XRAY,Addison Brian M,"VP, SECRETARY",M - OptEx,12.48,24923,34108,+271%,311024.0,1.0,7.0,-7.0,-9.0,XRAY
+1059,D,2010-04-23 13:28:56,2010-04-22,XRAY,Addison Brian M,"VP, SECRETARY",S - Sale+OE,35.55,-24923,34108,-42%,-886013.0,1.0,7.0,-7.0,-9.0,XRAY
+1060,D,2010-04-20 14:14:09,2010-04-16,XRAY,Addison Brian M,"VP, SECRETARY",M - OptEx,12.48,9577,34108,+39%,119515.0,2.0,5.0,0.0,-8.0,XRAY
+1061,D,2010-04-20 14:14:09,2010-04-16,XRAY,Addison Brian M,"VP, SECRETARY",S - Sale+OE,35.55,-9577,34108,-22%,-340462.0,2.0,5.0,0.0,-8.0,XRAY
+1062,D,2010-04-06 10:06:03,2010-04-01,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,12.48,16800,11218,-301%,209654.0,1.0,0.0,4.0,-7.0,XRAY
+1063,D,2010-04-06 10:06:03,2010-04-01,XRAY,Clark Christopher T,"Pres, C.O.O.",S - Sale+OE,34.9,-16800,11218,-60%,-586320.0,1.0,0.0,4.0,-7.0,XRAY
+1064,D,2010-03-10 16:38:09,2010-03-10,XRAY,Mosch James G,EVP,M - OptEx,12.48,16800,2891,-121%,209654.0,0.0,0.0,-1.0,-16.0,XRAY
+1065,D,2010-03-10 16:38:09,2010-03-10,XRAY,Mosch James G,EVP,S - Sale+OE,34.54,-16800,2891,-85%,-580326.0,0.0,0.0,-1.0,-16.0,XRAY
+1066,,2010-03-05 10:40:07,2010-03-05,XRAY,Jones Leslie A,Dir,S - Sale,33.88,-2900,178347,-2%,-98264.0,1.0,3.0,2.0,-15.0,XRAY
+1067,D,2010-03-04 14:31:47,2010-03-03,XRAY,Jellison William R,"SENIOR VICE Pres, C.F.O.",M - OptEx,15.58,78300,14335,-122%,1220180.0,0.0,3.0,2.0,-18.0,XRAY
+1068,D,2010-03-04 14:31:47,2010-03-03,XRAY,Jellison William R,"SENIOR VICE Pres, C.F.O.",S - Sale+OE,33.87,-78300,14335,-85%,-2651655.0,0.0,3.0,2.0,-18.0,XRAY
+1069,,2010-03-01 17:21:59,2010-03-01,XRAY,Jellison William R,"SENIOR VICE Pres, C.F.O.",S - Sale,33.52,-4292,14335,-23%,-143873.0,1.0,2.0,3.0,-15.0,XRAY
+1070,DM,2010-02-26 15:25:04,2010-02-24,XRAY,Sterkenburg Albert,SVP,M - OptEx,20.3,40600,1535,-104%,824322.0,0.0,3.0,4.0,-12.0,XRAY
+1071,DM,2010-02-26 15:25:04,2010-02-24,XRAY,Sterkenburg Albert,SVP,S - Sale+OE,33.05,-40600,1535,-96%,-1341830.0,0.0,3.0,4.0,-12.0,XRAY
+1072,,2010-02-19 10:14:49,2010-02-17,XRAY,Sterkenburg Albert,SVP,S - Sale,33.09,-1920,1535,-56%,-63533.0,-1.0,-1.0,2.0,-7.0,XRAY
+1073,D,2010-02-08 15:35:35,2010-02-05,XRAY,Warady Timothy,"VP, CONTROLLER",M - OptEx,32.69,1626,1626,New,53144.0,1.0,0.0,6.0,-3.0,XRAY
+1074,D,2010-02-08 15:33:55,2010-02-05,XRAY,Sterkenburg Albert,SVP,M - OptEx,32.69,3455,3455,New,112931.0,1.0,0.0,6.0,-3.0,XRAY
+1075,D,2010-02-08 15:32:34,2010-02-05,XRAY,Mosch James G,EVP,M - OptEx,32.69,4928,4928,New,161092.0,1.0,0.0,6.0,-3.0,XRAY
+1076,D,2010-02-08 15:31:40,2010-02-05,XRAY,Jellison William R,"SENIOR VICE Pres, C.F.O.",M - OptEx,32.69,6350,20685,+44%,207593.0,1.0,0.0,6.0,-3.0,XRAY
+1077,D,2010-02-08 15:31:20,2010-02-05,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,32.69,10618,15618,+212%,347097.0,1.0,0.0,6.0,-3.0,XRAY
+1078,D,2010-02-08 15:31:02,2010-02-05,XRAY,Addison Brian M,"VP, SECRETARY",M - OptEx,32.69,2083,35083,+6%,68091.0,1.0,0.0,6.0,-3.0,XRAY
+1079,D,2009-08-24 09:33:35,2009-08-21,XRAY,Sterkenburg Albert,SVP,M - OptEx,15.58,2300,0,-100%,35842.0,1.0,-2.0,0.0,-5.0,XRAY
+1080,D,2009-08-24 09:33:35,2009-08-21,XRAY,Sterkenburg Albert,SVP,S - Sale+OE,34.87,-2300,0,-100%,-80202.0,1.0,-2.0,0.0,-5.0,XRAY
+1081,D,2009-08-24 09:22:20,2009-08-21,XRAY,Addison Brian M,"VP, SECRETARY",M - OptEx,7.63,1000,33000,+3%,7625.0,0.0,-2.0,0.0,-5.0,XRAY
+1082,D,2009-08-24 09:22:20,2009-08-21,XRAY,Addison Brian M,"VP, SECRETARY",S - Sale+OE,35.09,-1000,33000,-3%,-35090.0,0.0,-2.0,0.0,-5.0,XRAY
+1083,,2009-08-20 13:00:58,2009-08-19,XRAY,Smith W Keith,Dir,S - Sale,32.5,-15200,66138,-19%,-494000.0,4.0,4.0,4.0,-1.0,XRAY
+1084,D,2009-08-17 13:50:12,2009-08-13,XRAY,Warady Timothy,"VP, CONTROLLER",M - OptEx,12.48,16800,0,-100%,209654.0,0.0,6.0,6.0,1.0,XRAY
+1085,D,2009-08-17 13:50:12,2009-08-13,XRAY,Warady Timothy,"VP, CONTROLLER",S - Sale+OE,33.05,-16800,0,-100%,-555240.0,0.0,6.0,6.0,1.0,XRAY
+1086,D,2009-05-22 16:40:13,2009-05-21,XRAY,Addison Brian M,"VP, SECRETARY",M - OptEx,7.63,5000,33000,+18%,38125.0,3.0,2.0,2.0,18.0,XRAY
+1087,D,2009-05-21 17:39:24,2009-05-21,XRAY,Smith W Keith,Dir,M - OptEx,8.92,18000,81338,+28%,160501.0,0.0,2.0,5.0,18.0,XRAY
+1088,D,2009-05-21 17:39:24,2009-05-21,XRAY,Smith W Keith,Dir,S - Sale+OE,29.14,-10372,81338,-11%,-302230.0,0.0,2.0,5.0,18.0,XRAY
+1089,AD,2009-05-21 17:37:32,2009-05-20,XRAY,Mosch James G,EVP,M - OptEx,7.63,23700,0,-100%,180713.0,0.0,2.0,5.0,18.0,XRAY
+1090,AD,2009-05-21 17:37:32,2009-05-20,XRAY,Mosch James G,EVP,S - Sale+OE,30.11,-23700,0,-100%,-713515.0,0.0,2.0,5.0,18.0,XRAY
+1091,D,2009-05-21 13:28:42,2009-05-20,XRAY,Mosch James G,EVP,D - Sale to issuer,30.11,-23700,0,-100%,-713515.0,-4.0,-3.0,0.0,14.0,XRAY
+1092,D,2009-05-21 13:28:42,2009-05-20,XRAY,Mosch James G,EVP,M - OptEx,7.63,23700,0,-100%,180713.0,-4.0,-3.0,0.0,14.0,XRAY
+1093,D,2009-05-19 15:12:57,2009-05-18,XRAY,Clark Christopher T,"Pres, C.O.O.",M - OptEx,7.63,23700,5000,-127%,180713.0,-1.0,-2.0,-2.0,13.0,XRAY
+1094,D,2009-05-19 15:12:57,2009-05-18,XRAY,Clark Christopher T,"Pres, C.O.O.",S - Sale+OE,29.09,-18700,5000,-79%,-543944.0,-1.0,-2.0,-2.0,13.0,XRAY
+1095,D,2009-05-07 15:13:37,2009-05-07,XRAY,Addison Brian M,"VP, SECRETARY",D - Sale to issuer,29.09,-3900,28000,-12%,-113451.0,1.0,3.0,4.0,15.0,XRAY
+1096,D,2009-05-07 15:13:37,2009-05-07,XRAY,Addison Brian M,"VP, SECRETARY",M - OptEx,7.63,3900,28000,+16%,29738.0,1.0,3.0,4.0,15.0,XRAY
+1097,D,2009-05-05 15:06:05,2009-05-05,XRAY,Warady Timothy,"VP, CONTROLLER",D - Sale to issuer,27.94,-15800,0,-100%,-441452.0,1.0,6.0,7.0,18.0,XRAY
+1098,D,2009-05-05 15:06:05,2009-05-05,XRAY,Warady Timothy,"VP, CONTROLLER",M - OptEx,7.63,15800,0,-100%,120475.0,1.0,6.0,7.0,18.0,XRAY
+1099,D,2009-03-10 17:17:11,2009-03-10,XRAY,Addison Brian M,"VP, SECRETARY",M - OptEx,7.63,4000,28000,+17%,30500.0,-1.0,3.0,14.0,49.0,XRAY
+1100,D,2009-03-10 17:17:11,2009-03-10,XRAY,Addison Brian M,"VP, SECRETARY",S - Sale+OE,22.58,-4000,28000,-13%,-90301.0,-1.0,3.0,14.0,49.0,XRAY
+1101,AD,2009-03-05 09:08:12,2009-03-02,XRAY,Addison Brian M,"VP, SECRETARY",M - OptEx,7.63,11000,28000,+65%,83875.0,-4.0,-3.0,15.0,41.0,XRAY
+1102,DM,2009-03-04 17:21:48,2009-02-11,XRAY,Addison Brian M,"VP, SECRETARY",M - OptEx,7.63,16500,17000,>999%,125813.0,-4.0,-2.0,13.0,46.0,XRAY
+1103,D,2009-03-04 17:21:48,2009-02-12,XRAY,Addison Brian M,"VP, SECRETARY",S - Sale+OE,25.87,-5500,17000,-24%,-142284.0,-4.0,-2.0,13.0,46.0,XRAY
+1104,D,2009-02-20 14:33:43,2009-02-20,XRAY,Warady Timothy,"VP, CONTROLLER",D - Sale to issuer,26.11,-7900,0,-100%,-206269.0,-4.0,-8.0,-5.0,27.0,XRAY
+1105,D,2009-02-20 14:33:43,2009-02-20,XRAY,Warady Timothy,"VP, CONTROLLER",M - OptEx,7.63,7900,0,-100%,60238.0,-4.0,-8.0,-5.0,27.0,XRAY
+1106,DM,2009-02-13 09:49:23,2009-02-11,XRAY,Addison Brian M,"VP, SECRETARY",M - OptEx,7.63,19500,17000,-780%,148688.0,-4.0,-1.0,-10.0,26.0,XRAY
+1107,D,2009-02-13 09:49:23,2009-02-12,XRAY,Addison Brian M,"VP, SECRETARY",S - Sale+OE,25.87,-5500,17000,-24%,-142284.0,-4.0,-1.0,-10.0,26.0,XRAY
+1108,,2009-02-11 16:44:14,2009-02-11,XRAY,Brandt Eric,Dir,P - Purchase,25.86,5400,5400,New,139644.0,2.0,0.0,-10.0,26.0,XRAY
+1109,D,2009-02-11 16:43:37,2009-02-09,XRAY,Jones Leslie A,Dir,M - OptEx,8.92,18000,181247,+11%,160501.0,2.0,0.0,-10.0,26.0,XRAY
+1110,D,2009-02-11 16:43:37,2009-02-09,XRAY,Jones Leslie A,Dir,S - Sale+OE,26.75,-24811,181247,-12%,-663757.0,2.0,0.0,-10.0,26.0,XRAY
+1111,,2008-11-06 10:46:07,2008-11-05,XRAY,Cholmondeley Paula H,Dir,P - Purchase,29.87,360,360,New,10753.0,-1.0,0.0,-15.0,2.0,XRAY
+1112,D,2008-05-14 15:56:50,2008-05-13,XRAY,Alfano Michael C,Dir,M - OptEx,21.79,18000,8324,-186%,392220.0,1.0,2.0,-7.0,-29.0,XRAY
+1113,D,2008-05-14 15:56:50,2008-05-13,XRAY,Alfano Michael C,Dir,S - Sale+OE,40.86,-15500,8324,-65%,-633330.0,1.0,2.0,-7.0,-29.0,XRAY
+1114,D,2008-05-13 07:57:51,2008-05-12,XRAY,Warady Timothy,"VP, CONTROLLER",M - OptEx,8.31,10200,0,-100%,84762.0,-1.0,2.0,-9.0,-27.0,XRAY
+1115,D,2008-05-13 07:57:51,2008-05-12,XRAY,Warady Timothy,"VP, CONTROLLER",S - Sale+OE,41.06,-10200,0,-100%,-418812.0,-1.0,2.0,-9.0,-27.0,XRAY
+1116,,2008-03-10 09:12:30,2008-03-07,XRAY,Wise Bret W,"COB, CEO, Pres",A - Grant,38.6,2000,7500,+36%,77200.0,-3.0,-5.0,3.0,-1.0,XRAY
+1117,D,2008-03-10 09:12:27,2008-03-07,XRAY,Coleman Michael J,Dir,M - OptEx,8.92,18000,18600,>999%,160560.0,-3.0,-5.0,3.0,-1.0,XRAY
+1118,D,2008-03-10 09:12:27,2008-03-07,XRAY,Coleman Michael J,Dir,S - Sale+OE,38.5,-18000,18600,-49%,-693000.0,-3.0,-5.0,3.0,-1.0,XRAY
+1119,AD,2008-03-03 14:52:06,2006-12-04,XRAY,Mosch James G,SVP,M - OptEx,9.67,12900,0,-100%,124743.0,1.0,-1.0,3.0,3.0,XRAY
+1120,AD,2008-03-03 14:52:06,2006-12-04,XRAY,Mosch James G,SVP,S - Sale+OE,32.17,-12900,0,-100%,-414993.0,1.0,-1.0,3.0,3.0,XRAY
+1121,D,2007-11-05 17:45:34,2007-11-05,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,12.48,101100,14425,-117%,1261728.0,-2.0,-5.0,-5.0,-10.0,XRAY
+1122,D,2007-11-05 17:45:34,2007-11-05,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,44.09,-101100,14425,-88%,-4457499.0,-2.0,-5.0,-5.0,-10.0,XRAY
+1123,D,2007-08-30 17:44:39,2007-08-30,XRAY,Addison Brian M,"VP, SEC, GC",M - OptEx,8.31,35400,3000,-109%,294174.0,0.0,3.0,6.0,0.0,XRAY
+1124,D,2007-08-30 17:44:39,2007-08-30,XRAY,Addison Brian M,"VP, SEC, GC",S - Sale+OE,39.08,-35400,3000,-92%,-1383432.0,0.0,3.0,6.0,0.0,XRAY
+1125,D,2007-08-30 17:40:17,2007-08-30,XRAY,Mosch James G,SVP,M - OptEx,8.31,16200,25800,+169%,134622.0,0.0,3.0,6.0,0.0,XRAY
+1126,D,2007-08-30 17:40:17,2007-08-30,XRAY,Mosch James G,SVP,S - Sale+OE,39.08,-16200,25800,-39%,-633096.0,0.0,3.0,6.0,0.0,XRAY
+1127,D,2007-08-15 15:30:09,2007-08-14,XRAY,Warady Timothy,"VP, CONTROLLER",M - OptEx,8.31,6000,0,-100%,49860.0,-4.0,-4.0,4.0,6.0,XRAY
+1128,D,2007-08-15 15:30:09,2007-08-14,XRAY,Warady Timothy,"VP, CONTROLLER",S - Sale+OE,37.58,-6000,0,-100%,-225480.0,-4.0,-4.0,4.0,6.0,XRAY
+1129,D,2007-05-04 08:55:10,2007-05-03,XRAY,Warady Timothy,"VP, CONTROLLER",M - OptEx,9.67,12900,0,-100%,124743.0,0.0,-2.0,1.0,13.0,XRAY
+1130,D,2007-05-04 08:55:10,2007-05-03,XRAY,Warady Timothy,"VP, CONTROLLER",S - Sale+OE,36.84,-12900,0,-100%,-475236.0,0.0,-2.0,1.0,13.0,XRAY
+1131,D,2007-05-04 08:55:08,2007-05-03,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,9.29,56700,14425,-134%,526743.0,0.0,-2.0,1.0,13.0,XRAY
+1132,D,2007-05-04 08:55:08,2007-05-03,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,36.83,-56700,14425,-80%,-2088261.0,0.0,-2.0,1.0,13.0,XRAY
+1133,D,2006-12-06 08:55:07,2006-12-04,XRAY,Mosch James G,SVP,M - OptEx,9.67,12900,25800,+100%,124743.0,-1.0,-3.0,-6.0,13.0,XRAY
+1134,D,2006-12-06 08:55:07,2006-12-04,XRAY,Mosch James G,SVP,S - Sale+OE,32.17,-12900,25800,-33%,-414993.0,-1.0,-3.0,-6.0,13.0,XRAY
+1135,D,2006-11-17 17:40:01,2006-11-17,XRAY,Addison Brian M,"VP, SEC, GC",M - OptEx,9.67,6000,3000,-200%,58020.0,-1.0,-1.0,-5.0,12.0,XRAY
+1136,D,2006-11-17 17:40:01,2006-11-17,XRAY,Addison Brian M,"VP, SEC, GC",S - Sale+OE,32.0,-6000,3000,-67%,-192000.0,-1.0,-1.0,-5.0,12.0,XRAY
+1137,D,2006-11-13 14:31:39,2006-11-13,XRAY,Kunkle Gary K Jr,"COB, CEO",M - OptEx,22.14,264400,45000,-121%,5853816.0,0.0,4.0,1.0,16.0,XRAY
+1138,D,2006-11-13 14:31:39,2006-11-13,XRAY,Kunkle Gary K Jr,"COB, CEO",S - Sale+OE,31.0,-264400,45000,-85%,-8196400.0,0.0,4.0,1.0,16.0,XRAY
+1139,D,2006-11-13 10:28:50,2006-11-10,XRAY,Roos J Henrik,SVP,M - OptEx,19.07,179879,2427,-101%,3429487.0,0.0,4.0,1.0,16.0,XRAY
+1140,D,2006-11-13 10:28:50,2006-11-10,XRAY,Roos J Henrik,SVP,S - Sale+OE,31.08,-179879,2427,-99%,-5590639.0,0.0,4.0,1.0,16.0,XRAY
+1141,,2006-11-13 10:28:44,2006-11-09,XRAY,Miles John C II,Dir,S - Sale,31.18,-13000,11000,-54%,-405340.0,0.0,4.0,1.0,16.0,XRAY
+1142,D,2006-11-13 08:51:12,2006-11-09,XRAY,Kunkle Gary K Jr,"COB, CEO",M - OptEx,13.67,932500,45000,-105%,12750193.0,0.0,4.0,1.0,16.0,XRAY
+1143,D,2006-11-13 08:51:12,2006-11-09,XRAY,Kunkle Gary K Jr,"COB, CEO",S - Sale+OE,31.09,-932500,45000,-95%,-28991425.0,0.0,4.0,1.0,16.0,XRAY
+1144,D,2006-11-08 17:00:33,2006-11-06,XRAY,Roos J Henrik,SVP,M - OptEx,11.92,153500,2427,-102%,1829285.0,-1.0,0.0,1.0,14.0,XRAY
+1145,D,2006-11-08 17:00:33,2006-11-06,XRAY,Roos J Henrik,SVP,S - Sale+OE,31.02,-153500,2427,-98%,-4761070.0,-1.0,0.0,1.0,14.0,XRAY
+1146,D,2006-06-02 11:47:12,2006-06-02,XRAY,Smith W Keith,Dir,M - OptEx,14.13,9000,36855,+32%,127170.0,-1.0,-1.0,-2.0,3.0,XRAY
+1147,D,2006-05-25 16:43:32,2006-05-25,XRAY,McKinney Rachel P,SVP,M - OptEx,35.43,10000,285,-103%,354300.0,0.0,3.0,1.0,8.0,XRAY
+1148,D,2006-05-25 16:43:32,2006-05-25,XRAY,McKinney Rachel P,SVP,S - Sale+OE,59.65,-10000,285,-97%,-596500.0,0.0,3.0,1.0,8.0,XRAY
+1149,D,2006-05-25 14:02:27,2006-05-24,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,15.25,53000,7270,-116%,808250.0,0.0,3.0,1.0,8.0,XRAY
+1150,D,2006-05-25 14:02:27,2006-05-24,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,60.0,-53000,7270,-88%,-3180000.0,0.0,3.0,1.0,8.0,XRAY
+1151,D,2006-05-23 15:51:38,2006-05-22,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,15.25,2650,7270,+57%,40413.0,0.0,-1.0,1.0,8.0,XRAY
+1152,D,2006-05-23 15:51:38,2006-05-22,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,60.0,-2650,7270,-27%,-159000.0,0.0,-1.0,1.0,8.0,XRAY
+1153,D,2006-05-22 16:49:31,2006-05-22,XRAY,Clark Christopher T,SVP,M - OptEx,16.63,8100,0,-100%,134703.0,-2.0,0.0,0.0,7.0,XRAY
+1154,D,2006-05-22 16:49:31,2006-05-22,XRAY,Clark Christopher T,SVP,S - Sale+OE,59.51,-8100,0,-100%,-482031.0,-2.0,0.0,0.0,7.0,XRAY
+1155,D,2006-05-15 09:56:09,2006-05-12,XRAY,Roos J Henrik,SVP,M - OptEx,18.58,17400,1214,-107%,323292.0,0.0,-1.0,0.0,5.0,XRAY
+1156,D,2006-05-15 09:56:09,2006-05-12,XRAY,Roos J Henrik,SVP,S - Sale+OE,59.5,-17400,1214,-93%,-1035300.0,0.0,-1.0,0.0,5.0,XRAY
+1157,D,2006-05-10 15:35:43,2006-05-09,XRAY,Addison Brian M,"VP, SEC, GC",M - OptEx,19.33,9000,1500,-120%,173970.0,1.0,1.0,3.0,5.0,XRAY
+1158,D,2006-05-10 15:35:43,2006-05-09,XRAY,Addison Brian M,"VP, SEC, GC",S - Sale+OE,59.37,-9000,1500,-86%,-534330.0,1.0,1.0,3.0,5.0,XRAY
+1159,D,2006-05-09 09:22:03,2006-05-08,XRAY,Kunkle Gary K Jr,"COB, CEO",M - OptEx,17.19,105900,22500,-127%,1820247.0,0.0,0.0,3.0,3.0,XRAY
+1160,D,2006-05-09 09:22:03,2006-05-08,XRAY,Kunkle Gary K Jr,"COB, CEO",S - Sale+OE,59.61,-105900,22500,-82%,-6312699.0,0.0,0.0,3.0,3.0,XRAY
+1161,D,2006-05-09 09:22:02,2006-05-08,XRAY,Jones Leslie A,Dir,M - OptEx,14.13,9000,95029,+10%,127170.0,0.0,0.0,3.0,3.0,XRAY
+1162,D,2006-05-09 09:22:02,2006-05-08,XRAY,Jones Leslie A,Dir,S - Sale+OE,59.7,-9000,95029,-9%,-537300.0,0.0,0.0,3.0,3.0,XRAY
+1163,D,2006-03-01 15:16:09,2006-03-01,XRAY,Lehner Rudolph,SVP,M - OptEx,43.93,28406,0,-100%,1247806.0,-1.0,-1.0,2.0,15.0,XRAY
+1164,D,2006-03-01 15:16:09,2006-03-01,XRAY,Lehner Rudolph,SVP,S - Sale+OE,56.43,-28406,0,-100%,-1602951.0,-1.0,-1.0,2.0,15.0,XRAY
+1165,D,2005-11-15 18:30:10,2005-11-15,XRAY,Whiting Thomas L,"Pres, C.O.O.",M - OptEx,31.17,39150,0,-100%,1220306.0,0.0,-1.0,-2.0,3.0,XRAY
+1166,D,2005-11-15 18:30:10,2005-11-15,XRAY,Whiting Thomas L,"Pres, C.O.O.",S - Sale+OE,57.12,-39150,0,-100%,-2236248.0,0.0,-1.0,-2.0,3.0,XRAY
+1167,D,2005-11-14 10:21:15,2005-11-10,XRAY,Lehner Rudolph,SVP,M - OptEx,39.17,32934,0,-100%,1290188.0,0.0,-2.0,-4.0,4.0,XRAY
+1168,D,2005-11-14 10:21:15,2005-11-10,XRAY,Lehner Rudolph,SVP,S - Sale+OE,56.73,-32934,0,-100%,-1868346.0,0.0,-2.0,-4.0,4.0,XRAY
+1169,D,2005-11-07 14:43:41,2005-11-07,XRAY,Roos J Henrik,SVP,M - OptEx,16.63,8100,1214,-118%,134703.0,1.0,2.0,2.0,5.0,XRAY
+1170,D,2005-11-07 14:43:41,2005-11-07,XRAY,Roos J Henrik,SVP,S - Sale+OE,57.14,-8100,1214,-87%,-462834.0,1.0,2.0,2.0,5.0,XRAY
+1171,D,2005-11-07 14:43:38,2005-11-07,XRAY,Addison Brian M,"VP, SEC, GC",M - OptEx,15.58,1800,1500,-600%,28044.0,1.0,2.0,2.0,5.0,XRAY
+1172,D,2005-11-07 14:43:38,2005-11-07,XRAY,Addison Brian M,"VP, SEC, GC",S - Sale+OE,57.09,-1800,1500,-55%,-102762.0,1.0,2.0,2.0,5.0,XRAY
+1173,,2005-11-03 15:01:05,2005-11-02,XRAY,Miles John C II,Dir,S - Sale,55.94,-8000,12000,-40%,-447520.0,1.0,2.0,2.0,7.0,XRAY
+1174,D,2005-11-02 17:59:57,2005-11-02,XRAY,Jellison William R,"SVP, C.F.O.",M - OptEx,20.5,24750,7330,-142%,507375.0,1.0,1.0,0.0,4.0,XRAY
+1175,D,2005-11-02 17:59:57,2005-11-02,XRAY,Jellison William R,"SVP, C.F.O.",S - Sale+OE,55.64,-24750,7330,-77%,-1377090.0,1.0,1.0,0.0,4.0,XRAY
+1176,D,2005-11-02 11:19:32,2005-11-01,XRAY,Whiting Thomas L,"Pres, C.O.O.",M - OptEx,24.96,50550,0,-100%,1261728.0,2.0,3.0,2.0,6.0,XRAY
+1177,D,2005-11-02 11:19:32,2005-11-01,XRAY,Whiting Thomas L,"Pres, C.O.O.",S - Sale+OE,55.0,-50550,0,-100%,-2780250.0,2.0,3.0,2.0,6.0,XRAY
+1178,D,2005-11-01 12:27:35,2005-10-31,XRAY,Mosch James G,SVP,M - OptEx,15.58,5700,0,-100%,88806.0,0.0,4.0,1.0,8.0,XRAY
+1179,D,2005-11-01 12:27:35,2005-10-31,XRAY,Mosch James G,SVP,S - Sale+OE,55.01,-5700,0,-100%,-313557.0,0.0,4.0,1.0,8.0,XRAY
+1180,,2005-05-23 09:11:33,2005-05-20,XRAY,Miles John C II,Dir,S - Sale,56.87,-277,20000,-1%,-15753.0,0.0,-1.0,-5.0,2.0,XRAY
+1181,D,2005-05-11 17:09:19,2005-05-11,XRAY,Warady Timothy,"VP, CONTROLLER",M - OptEx,15.58,3900,0,-100%,60762.0,-1.0,0.0,1.0,2.0,XRAY
+1182,D,2005-05-11 17:09:19,2005-05-11,XRAY,Warady Timothy,"VP, CONTROLLER",S - Sale+OE,56.02,-3900,0,-100%,-218478.0,-1.0,0.0,1.0,2.0,XRAY
+1183,,2005-05-04 10:13:06,2005-05-03,XRAY,Miles John C II,Dir,S - Sale,54.11,-20000,20000,-50%,-1082200.0,1.0,2.0,5.0,1.0,XRAY
+1184,D,2005-02-17 12:44:05,2005-02-16,XRAY,Kunkle Gary K Jr,"VICE COB, CEO",M - OptEx,16.08,73200,22500,-144%,1177056.0,0.0,-5.0,-9.0,-8.0,XRAY
+1185,D,2005-02-17 12:44:05,2005-02-16,XRAY,Kunkle Gary K Jr,"VICE COB, CEO",S - Sale+OE,57.33,-73200,22500,-76%,-4196556.0,0.0,-5.0,-9.0,-8.0,XRAY
+1186,D,2005-02-15 14:39:51,2005-02-15,XRAY,Wise Bret W,EVP,P - Purchase,56.25,500,2750,+22%,28125.0,3.0,-2.0,-6.0,-4.0,XRAY
+1187,DM,2005-02-15 11:46:41,2005-02-14,XRAY,Clark Christopher T,SVP,M - OptEx,19.33,6450,0,-100%,124679.0,3.0,-2.0,-6.0,-4.0,XRAY
+1188,DM,2005-02-15 11:46:41,2005-02-14,XRAY,Clark Christopher T,SVP,S - Sale+OE,57.05,-6450,0,-100%,-367950.0,3.0,-2.0,-6.0,-4.0,XRAY
+1189,D,2005-02-10 11:53:44,2005-02-08,XRAY,Whiting Thomas L,"Pres, C.O.O.",S - Sale+OE,57.0,-31386,0,-100%,-1789002.0,0.0,2.0,-4.0,-4.0,XRAY
+1190,,2005-02-10 11:53:42,2005-02-09,XRAY,Miles John C II,Dir,S - Sale,56.87,-24545,40000,-38%,-1395874.0,0.0,2.0,-4.0,-4.0,XRAY
+1191,DM,2005-02-01 17:10:30,2005-01-31,XRAY,Whiting Thomas L,"Pres, C.O.O.",M - OptEx,16.58,123000,31386,-134%,2039163.0,0.0,0.0,-3.0,-2.0,XRAY
+1192,DM,2005-02-01 17:10:30,2005-01-31,XRAY,Whiting Thomas L,"Pres, C.O.O.",S - Sale+OE,56.23,-123000,31386,-80%,-6916830.0,0.0,0.0,-3.0,-2.0,XRAY
+1193,DM,2005-02-01 17:10:24,2005-01-31,XRAY,Miles John C II,Dir,M - OptEx,36.97,150000,64545,-176%,5545500.0,0.0,0.0,-3.0,-2.0,XRAY
+1194,DM,2005-02-01 17:10:24,2005-01-31,XRAY,Miles John C II,Dir,S - Sale+OE,56.01,-150000,64545,-70%,-8400900.0,0.0,0.0,-3.0,-2.0,XRAY
+1195,D,2005-01-31 16:47:08,2005-01-31,XRAY,Lehner Rudolph,SVP,M - OptEx,31.17,39150,0,-100%,1220306.0,1.0,3.0,-2.0,0.0,XRAY
+1196,D,2005-01-31 16:47:08,2005-01-31,XRAY,Lehner Rudolph,SVP,S - Sale+OE,55.91,-39150,0,-100%,-2188877.0,1.0,3.0,-2.0,0.0,XRAY
+1197,D,2005-01-31 16:47:04,2005-01-31,XRAY,Roos J Henrik,SVP,M - OptEx,19.33,6450,1214,-123%,124679.0,1.0,3.0,-2.0,0.0,XRAY
+1198,D,2005-01-31 16:47:04,2005-01-31,XRAY,Roos J Henrik,SVP,S - Sale+OE,56.66,-6450,1214,-84%,-365457.0,1.0,3.0,-2.0,0.0,XRAY
+1199,D,2004-11-23 14:06:06,2004-11-23,XRAY,Miles John C II,Dir,M - OptEx,35.68,61550,64545,>999%,2196119.0,-1.0,2.0,8.0,9.0,XRAY
+1200,D,2004-11-23 14:06:06,2004-11-23,XRAY,Miles John C II,Dir,S - Sale+OE,51.14,-61550,64545,-49%,-3147667.0,-1.0,2.0,8.0,9.0,XRAY
+1201,D,2004-11-09 16:46:43,2004-11-09,XRAY,Miles John C II,Dir,M - OptEx,31.17,25000,64545,+63%,779250.0,1.0,0.0,1.0,4.0,XRAY
+1202,D,2004-11-09 16:46:43,2004-11-09,XRAY,Miles John C II,Dir,S - Sale+OE,53.47,-25000,64545,-28%,-1336750.0,1.0,0.0,1.0,4.0,XRAY
+1203,D,2004-11-01 15:23:42,2004-11-01,XRAY,Miles John C II,COB,M - OptEx,31.17,100000,64545,-282%,3117000.0,0.0,2.0,1.0,5.0,XRAY
+1204,D,2004-11-01 15:23:42,2004-11-01,XRAY,Miles John C II,COB,S - Sale+OE,51.52,-100000,64545,-61%,-5152000.0,0.0,2.0,1.0,5.0,XRAY
+1205,D,2004-08-26 13:51:10,2004-08-25,XRAY,Miles John C II,COB,M - OptEx,31.17,90000,64545,-354%,2805300.0,-1.0,2.0,2.0,10.0,XRAY
+1206,D,2004-08-26 13:51:10,2004-08-25,XRAY,Miles John C II,COB,S - Sale+OE,49.5,-90000,64545,-58%,-4455000.0,-1.0,2.0,2.0,10.0,XRAY
+1207,D,2004-08-09 10:07:40,2004-08-05,XRAY,Miles John C II,COB,M - OptEx,31.17,10000,64545,+18%,311700.0,-1.0,-1.0,8.0,21.0,XRAY
+1208,D,2004-08-09 10:07:40,2004-08-05,XRAY,Miles John C II,COB,S - Sale+OE,49.51,-10000,64545,-13%,-495100.0,-1.0,-1.0,8.0,21.0,XRAY
+1209,D,2004-08-04 11:36:08,2004-08-03,XRAY,Alfano Michael C,Dir,M - OptEx,25.42,9000,2912,-148%,228780.0,1.0,-3.0,2.0,14.0,XRAY
+1210,D,2004-08-04 11:36:08,2004-08-03,XRAY,Alfano Michael C,Dir,S - Sale+OE,49.19,-6088,2912,-68%,-299446.0,1.0,-3.0,2.0,14.0,XRAY
+1211,D,2004-05-03 17:14:08,2004-05-03,XRAY,Roos J Henrik,SVP,M - OptEx,15.58,8100,1214,-118%,126198.0,0.0,0.0,4.0,7.0,XRAY
+1212,D,2004-05-03 17:14:08,2004-05-03,XRAY,Roos J Henrik,SVP,S - Sale+OE,48.96,-8100,1214,-87%,-396560.0,0.0,0.0,4.0,7.0,XRAY
+1213,D,2004-05-03 11:56:02,2004-04-30,XRAY,Miles John C II,COB,S - Sale+OE,48.79,-56839,64545,-47%,-2773175.0,1.0,1.0,5.0,8.0,XRAY
+1214,D,2004-02-27 08:51:19,2004-02-26,XRAY,Mosch James G,SVP,M - OptEx,11.67,9750,0,-100%,113783.0,0.0,2.0,-1.0,13.0,XRAY
+1215,D,2004-02-27 08:51:19,2004-02-26,XRAY,Mosch James G,SVP,S - Sale+OE,0.0,-9750,0,-100%,-0.0,0.0,2.0,-1.0,13.0,XRAY
+1216,D,2004-02-26 09:57:49,2004-02-24,XRAY,Whiting Thomas L,"Pres, C.O.O.",M - OptEx,14.25,47500,31386,-295%,676750.0,2.0,4.0,2.0,16.0,XRAY
+1217,D,2004-02-26 09:57:49,2004-02-24,XRAY,Whiting Thomas L,"Pres, C.O.O.",S - Sale+OE,43.0,-47500,31386,-60%,-2042500.0,2.0,4.0,2.0,16.0,XRAY
+1218,D,2004-02-26 09:57:40,2004-02-24,XRAY,Clark Christopher T,SVP,M - OptEx,14.21,6700,0,-100%,95222.0,2.0,4.0,2.0,16.0,XRAY
+1219,D,2004-02-26 09:57:40,2004-02-24,XRAY,Clark Christopher T,SVP,S - Sale+OE,43.0,-6700,0,-100%,-288100.0,2.0,4.0,2.0,16.0,XRAY
+1220,D,2004-02-20 16:35:12,2004-02-20,XRAY,Whiting Thomas L,"Pres, C.O.O.",M - OptEx,11.74,6600,31386,+27%,77477.0,0.0,2.0,0.0,14.0,XRAY
+1221,D,2004-02-20 16:35:12,2004-02-20,XRAY,Whiting Thomas L,"Pres, C.O.O.",S - Sale+OE,43.01,-6600,31386,-17%,-283866.0,0.0,2.0,0.0,14.0,XRAY
+1222,D,2004-02-20 10:04:06,2004-02-19,XRAY,Whiting Thomas L,"Pres, C.O.O.",M - OptEx,11.67,5000,31386,+19%,58350.0,2.0,5.0,3.0,16.0,XRAY
+1223,D,2004-02-20 10:04:06,2004-02-19,XRAY,Whiting Thomas L,"Pres, C.O.O.",S - Sale+OE,43.0,-5000,31386,-14%,-215000.0,2.0,5.0,3.0,16.0,XRAY
+1224,,2004-02-19 08:51:40,2004-02-18,XRAY,Wise Bret W,"SVP, CFO",P - Purchase,43.0,1000,2250,+80%,43000.0,-2.0,1.0,2.0,14.0,XRAY
+1225,D,2004-02-11 16:35:02,2004-02-11,XRAY,Addison Brian M,"VP, SEC, GC",M - OptEx,11.67,7500,1500,-125%,87525.0,-1.0,-3.0,-1.0,9.0,XRAY
+1226,D,2004-02-11 16:35:02,2004-02-11,XRAY,Addison Brian M,"VP, SEC, GC",S - Sale+OE,44.17,-7500,1500,-83%,-331275.0,-1.0,-3.0,-1.0,9.0,XRAY
+1227,D,2004-02-02 10:07:37,2004-01-30,XRAY,Roos J Henrik,SVP,M - OptEx,15.25,40000,1214,-103%,610000.0,1.0,3.0,5.0,18.0,XRAY
+1228,D,2004-02-02 10:07:37,2004-01-30,XRAY,Roos J Henrik,SVP,S - Sale+OE,42.88,-40000,1214,-97%,-1715200.0,1.0,3.0,5.0,18.0,XRAY
+1229,D,2004-01-30 19:30:26,2004-01-30,XRAY,Miles John C II,"COB, C.E.O.",M - OptEx,18.26,846450,64545,-108%,15458940.0,1.0,2.0,6.0,15.0,XRAY
+1230,D,2004-01-30 19:30:26,2004-01-30,XRAY,Miles John C II,"COB, C.E.O.",S - Sale+OE,41.89,-846450,64545,-93%,-35454288.0,1.0,2.0,6.0,15.0,XRAY

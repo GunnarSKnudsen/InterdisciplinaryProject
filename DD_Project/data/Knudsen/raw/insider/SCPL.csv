@@ -1,20 +1,47 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2020-06-18 21:30:15,2020-06-17,SCPL,Park West Asset Management LLC,10%,S - Sale,$13.90,-400000,2213205,-15%,"-$5,560,000",,,,,SCPL
-1,M,2020-06-10 21:30:14,2020-06-08,SCPL,Park West Asset Management LLC,10%,S - Sale,$15.25,-16504,2613205,-1%,"-$251,686",,,,,SCPL
-2,M,2020-06-02 21:30:15,2020-05-29,SCPL,Park West Asset Management LLC,10%,S - Sale,$13.95,-700000,2629709,-21%,"-$9,763,652",,,,,SCPL
-3,,2020-03-02 16:39:27,2020-02-28,SCPL,Wilson Joshua J.,CEO,P - Purchase,$8.94,5000,11000,+83%,"+$44,700",,,,,SCPL
-4,,2020-02-26 16:31:45,2020-02-25,SCPL,Pinson M. Mendel,Dir,P - Purchase,$9.02,5000,20000,+33%,"+$45,100",,,,,SCPL
-5,,2020-02-26 16:30:41,2020-02-25,SCPL,Cottle Barry L,Exec COB,P - Purchase,$8.98,5000,20000,+33%,"+$44,900",,,,,SCPL
-6,,2019-08-13 16:48:02,2019-08-09,SCPL,Cottle Barry L,Exec COB,P - Purchase,$10.34,10000,15000,+200%,"+$103,400",,,,,SCPL
-7,,2019-08-13 16:46:59,2019-08-09,SCPL,Marchetti Michael,Dir,P - Purchase,$10.39,10000,20000,+100%,"+$103,900",,,,,SCPL
-8,,2019-08-08 16:31:24,2019-08-06,SCPL,Marchetti Michael,Dir,P - Purchase,$10.15,10000,10000,New,"+$101,500",,,,,SCPL
-9,,2019-08-07 17:21:36,2019-08-05,SCPL,Pinson M. Mendel,Dir,P - Purchase,$10.26,10000,15000,+200%,"+$102,600",,,,,SCPL
-10,M,2019-06-17 16:30:21,2019-06-13,SCPL,Park West Asset Management LLC,10%,P - Purchase,$13.38,329709,3329709,+11%,"+$4,413,029",,,,,SCPL
-11,,2019-05-20 16:35:43,2019-05-16,SCPL,Park West Asset Management LLC,10%,P - Purchase,$15.93,497500,3000000,+20%,"+$7,925,175",,,,,SCPL
-12,,2019-05-10 17:29:28,2019-05-08,SCPL,Park West Asset Management LLC,10%,P - Purchase,$15.15,250000,2502500,+11%,"+$3,787,500",,,,,SCPL
-13,D,2019-05-09 17:10:39,2019-05-07,SCPL,Cody Michael D.,CFO,P - Purchase,$16.00,1000,1000,New,"+$16,000",,,,,SCPL
-14,D,2019-05-09 17:10:09,2019-05-07,SCPL,Wilson Joshua J.,CEO,P - Purchase,$16.00,6000,6000,New,"+$96,000",,,,,SCPL
-15,D,2019-05-09 17:09:55,2019-05-07,SCPL,Cottle Barry L,Exec COB,P - Purchase,$16.00,5000,5000,New,"+$80,000",,,,,SCPL
-16,D,2019-05-09 17:09:39,2019-05-07,SCPL,Penske Jay,Dir,P - Purchase,$16.00,60000,60000,New,"+$960,000",,,,,SCPL
-17,D,2019-05-09 17:09:09,2019-05-07,SCPL,Townsend Frances F,Dir,P - Purchase,$16.00,15000,15000,New,"+$240,000",,,,,SCPL
-18,D,2019-05-09 17:08:24,2019-05-07,SCPL,Pinson M. Mendel,Dir,P - Purchase,$16.00,5000,5000,New,"+$80,000",,,,,SCPL
+0,DM,2021-09-23 10:32:36,2021-09-20,SCPL,Wilson Joshua J.,CEO,M - OptEx,$0.00,22026,191831,+13%,+$0,,,,,SCPL
+1,DM,2021-09-23 10:32:36,2021-09-20,SCPL,Wilson Joshua J.,CEO,F - Tax,$19.36,-8668,191831,-4%,"-$167,774",,,,,SCPL
+2,DM,2021-09-22 16:30:02,2021-09-20,SCPL,Oquinn Daniel,Interim CFO,M - OptEx,$0.00,2126,2163,>999%,+$0,,,,,SCPL
+3,DM,2021-09-22 16:30:02,2021-09-20,SCPL,Oquinn Daniel,Interim CFO,F - Tax,$19.36,-520,2163,-19%,"-$10,065",,,,,SCPL
+4,D,2021-06-11 16:39:15,2021-06-10,SCPL,Marchetti Michael,Dir,M - OptEx,$0.00,9561,42968,+29%,+$0,,,,,SCPL
+5,D,2021-06-11 16:37:56,2021-06-10,SCPL,Thompson William C Jr,Dir,M - OptEx,$0.00,9561,18561,+106%,+$0,,,,,SCPL
+6,D,2021-06-11 16:36:33,2021-06-10,SCPL,Cohen Gerald D.,Dir,M - OptEx,$0.00,9561,18561,+106%,+$0,,,,,SCPL
+7,D,2021-05-11 16:29:05,2021-05-07,SCPL,Winterscheidt Michael,"Chief Accounting Officer, Sec",M - OptEx,$0.00,1563,3125,+100%,+$0,,,,,SCPL
+8,D,2021-03-17 16:02:16,2021-03-15,SCPL,Wilson Joshua J.,CEO,M - OptEx,$0.00,256710,178473,-328%,+$0,,,,,SCPL
+9,D,2021-03-17 16:02:16,2021-03-15,SCPL,Wilson Joshua J.,CEO,F - Tax,$16.75,-97383,178473,-35%,"-$1,631,165",,,,,SCPL
+10,D,2021-03-16 16:16:59,2021-03-15,SCPL,Cody Michael D.,CFO,M - OptEx,$0.00,57438,42031,-373%,+$0,,,,,SCPL
+11,D,2021-03-16 16:16:59,2021-03-15,SCPL,Cody Michael D.,CFO,F - Tax,$16.75,-18701,42031,-31%,"-$313,242",,,,,SCPL
+12,D,2021-03-02 16:16:29,2021-03-01,SCPL,Cottle Barry L,Exec COB,M - OptEx,$0.00,494250,318001,-280%,+$0,,,,,SCPL
+13,D,2021-03-02 16:16:29,2021-03-01,SCPL,Cottle Barry L,Exec COB,F - Tax,$19.37,-196249,318001,-38%,"-$3,801,343",,,,,SCPL
+14,D,2020-10-02 16:32:35,2020-10-02,SCPL,Townsend Frances F,Dir,M - OptEx,$0.00,9561,33561,+40%,+$0,,,,,SCPL
+15,D,2020-10-02 16:30:48,2020-10-02,SCPL,Pinson M. Mendel,Dir,M - OptEx,$0.00,9561,38561,+33%,+$0,,,,,SCPL
+16,D,2020-09-22 16:32:20,2020-09-20,SCPL,Wilson Joshua J.,CEO,M - OptEx,$0.00,11698,19146,+157%,+$0,,,,,SCPL
+17,D,2020-09-22 16:32:20,2020-09-20,SCPL,Wilson Joshua J.,CEO,F - Tax,$15.13,-3552,19146,-16%,"-$53,742",,,,,SCPL
+18,D,2020-09-22 16:30:18,2020-09-20,SCPL,Cody Michael D.,CFO,M - OptEx,$0.00,3268,3294,>999%,+$0,,,,,SCPL
+19,D,2020-09-22 16:30:18,2020-09-20,SCPL,Cody Michael D.,CFO,F - Tax,$15.13,-974,3294,-23%,"-$14,737",,,,,SCPL
+20,,2020-06-18 21:30:15,2020-06-17,SCPL,Park West Asset Management LLC,10%,S - Sale,$13.90,-400000,2213205,-15%,"-$5,560,000",,,,,SCPL
+21,M,2020-06-10 21:30:14,2020-06-08,SCPL,Park West Asset Management LLC,10%,S - Sale,$15.25,-16504,2613205,-1%,"-$251,686",,,,,SCPL
+22,M,2020-06-02 21:30:15,2020-05-29,SCPL,Park West Asset Management LLC,10%,S - Sale,$13.95,-700000,2629709,-21%,"-$9,763,652",,,,,SCPL
+23,D,2020-05-08 16:40:42,2020-05-07,SCPL,Winterscheidt Michael,"Chief Accounting Officer, Sec",M - OptEx,$0.00,1562,1562,New,+$0,,,,,SCPL
+24,D,2020-05-08 16:39:40,2020-05-07,SCPL,Townsend Frances F,Dir,M - OptEx,$0.00,9000,24000,+60%,+$0,,,,,SCPL
+25,D,2020-05-08 16:38:32,2020-05-07,SCPL,Thompson William C Jr,Dir,M - OptEx,$0.00,9000,9000,New,+$0,,,,,SCPL
+26,D,2020-05-08 16:37:35,2020-05-07,SCPL,Pinson M. Mendel,Dir,M - OptEx,$0.00,9000,29000,+45%,+$0,,,,,SCPL
+27,D,2020-05-08 16:36:27,2020-05-07,SCPL,Penske Jay,Dir,M - OptEx,$0.00,9000,69000,+15%,+$0,,,,,SCPL
+28,D,2020-05-08 16:35:23,2020-05-07,SCPL,Marchetti Michael,Dir,M - OptEx,$0.00,13407,33407,+67%,+$0,,,,,SCPL
+29,D,2020-05-08 16:34:05,2020-05-07,SCPL,Cohen Gerald D.,Dir,M - OptEx,$0.00,9000,9000,New,+$0,,,,,SCPL
+30,,2020-03-02 16:39:27,2020-02-28,SCPL,Wilson Joshua J.,CEO,P - Purchase,$8.94,5000,11000,+83%,"+$44,700",,,,,SCPL
+31,,2020-02-26 16:31:45,2020-02-25,SCPL,Pinson M. Mendel,Dir,P - Purchase,$9.02,5000,20000,+33%,"+$45,100",,,,,SCPL
+32,,2020-02-26 16:30:41,2020-02-25,SCPL,Cottle Barry L,Exec COB,P - Purchase,$8.98,5000,20000,+33%,"+$44,900",,,,,SCPL
+33,,2019-08-13 16:48:02,2019-08-09,SCPL,Cottle Barry L,Exec COB,P - Purchase,$10.34,10000,15000,+200%,"+$103,400",,,,,SCPL
+34,,2019-08-13 16:46:59,2019-08-09,SCPL,Marchetti Michael,Dir,P - Purchase,$10.39,10000,20000,+100%,"+$103,900",,,,,SCPL
+35,,2019-08-08 16:31:24,2019-08-06,SCPL,Marchetti Michael,Dir,P - Purchase,$10.15,10000,10000,New,"+$101,500",,,,,SCPL
+36,,2019-08-07 17:21:36,2019-08-05,SCPL,Pinson M. Mendel,Dir,P - Purchase,$10.26,10000,15000,+200%,"+$102,600",,,,,SCPL
+37,M,2019-06-17 16:30:21,2019-06-13,SCPL,Park West Asset Management LLC,10%,P - Purchase,$13.38,329709,3329709,+11%,"+$4,413,029",,,,,SCPL
+38,,2019-05-20 16:35:43,2019-05-16,SCPL,Park West Asset Management LLC,10%,P - Purchase,$15.93,497500,3000000,+20%,"+$7,925,175",,,,,SCPL
+39,,2019-05-10 17:29:28,2019-05-08,SCPL,Park West Asset Management LLC,10%,P - Purchase,$15.15,250000,2502500,+11%,"+$3,787,500",,,,,SCPL
+40,D,2019-05-09 17:10:39,2019-05-07,SCPL,Cody Michael D.,CFO,P - Purchase,$16.00,1000,1000,New,"+$16,000",,,,,SCPL
+41,D,2019-05-09 17:10:09,2019-05-07,SCPL,Wilson Joshua J.,CEO,P - Purchase,$16.00,6000,6000,New,"+$96,000",,,,,SCPL
+42,D,2019-05-09 17:09:55,2019-05-07,SCPL,Cottle Barry L,Exec COB,P - Purchase,$16.00,5000,5000,New,"+$80,000",,,,,SCPL
+43,D,2019-05-09 17:09:39,2019-05-07,SCPL,Penske Jay,Dir,P - Purchase,$16.00,60000,60000,New,"+$960,000",,,,,SCPL
+44,D,2019-05-09 17:09:09,2019-05-07,SCPL,Townsend Frances F,Dir,P - Purchase,$16.00,15000,15000,New,"+$240,000",,,,,SCPL
+45,D,2019-05-09 17:08:24,2019-05-07,SCPL,Pinson M. Mendel,Dir,P - Purchase,$16.00,5000,5000,New,"+$80,000",,,,,SCPL

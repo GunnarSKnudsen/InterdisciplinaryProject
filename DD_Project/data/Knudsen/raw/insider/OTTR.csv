@@ -1,9 +1,431 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,,2021-12-07 16:48:44,2021-12-07,OTTR,O'Keefe Timothy J,Dir,S - Sale,$67.20,-1525,16475,-8%,"-$102,483",,,,,OTTR
-1,,2021-11-18 15:59:50,2021-11-17,OTTR,Erickson John D,Dir,S - Sale,$66.52,-9500,150105,-6%,"-$631,951",,,,,OTTR
-2,,2020-03-16 16:25:01,2020-03-12,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",P - Purchase,$41.21,5000,24276,+26%,"+$206,050",,,,,OTTR
-3,,2019-11-21 11:34:01,2019-11-20,OTTR,Erickson John D,Dir,S - Sale,$48.81,-2100,155805,-1%,"-$102,504",,,,,OTTR
-4,,2019-02-25 17:33:38,2019-02-22,OTTR,Knutson Paul L,VP of HR,S - Sale,$49.77,-3000,4427,-40%,"-$149,318",,,,,OTTR
-5,,2018-11-20 17:13:54,2018-11-20,OTTR,Erickson John D,Dir,S - Sale,$47.35,-2300,156305,-1%,"-$108,905",,,,,OTTR
-6,,2018-11-13 16:10:53,2018-11-12,OTTR,Knutson Paul L,VP of HR,S - Sale,$47.79,-3000,3484,-46%,"-$143,370",,,,,OTTR
-7,,2018-05-16 13:19:09,2018-05-15,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$43.48,-1500,57174,-3%,"-$65,216",,,,,OTTR
+0,D,2022-02-09 11:19:13,2022-02-07,OTTR,Macfarlane Charles S,"Pres, CEO",A - Grant,$61.37,41400,232546,+22%,"+$2,540,718",,,,,OTTR
+1,D,2022-02-09 11:19:13,2022-02-07,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$61.37,-20436,232546,-8%,"-$1,254,157",,,,,OTTR
+2,D,2022-02-09 10:36:40,2022-02-07,OTTR,Moug Kevin G,"CFO, SVP",A - Grant,$61.37,11700,92525,+14%,"+$718,029",,,,,OTTR
+3,D,2022-02-09 10:36:40,2022-02-07,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$61.37,-5029,92525,-5%,"-$308,630",,,,,OTTR
+4,D,2022-02-09 10:11:04,2022-02-07,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",A - Grant,$61.37,6300,8166,+338%,"+$386,631",,,,,OTTR
+5,D,2022-02-09 10:11:04,2022-02-07,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",F - Tax,$61.37,-3125,8166,-28%,"-$191,781",,,,,OTTR
+6,D,2022-02-08 18:33:27,2022-02-07,OTTR,Knutson Paul L,VP of HR,A - Grant,$61.37,3900,18400,+27%,"+$239,343",,,,,OTTR
+7,D,2022-02-08 18:33:27,2022-02-07,OTTR,Knutson Paul L,VP of HR,F - Tax,$61.37,-1747,18400,-9%,"-$107,213",,,,,OTTR
+8,D,2022-02-08 18:14:49,2022-02-07,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",A - Grant,$61.37,9000,41384,+28%,"+$552,330",,,,,OTTR
+9,D,2022-02-08 18:14:49,2022-02-07,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$61.37,-4519,41384,-10%,"-$277,331",,,,,OTTR
+10,D,2022-02-08 17:47:09,2022-02-07,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",A - Grant,$61.37,9000,34026,+36%,"+$552,330",,,,,OTTR
+11,D,2022-02-08 17:47:09,2022-02-07,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$61.37,-4520,34026,-12%,"-$277,392",,,,,OTTR
+12,D,2022-02-08 12:29:57,2022-02-06,OTTR,Knutson Paul L,VP of HR,F - Tax,$60.90,-330,16247,-2%,"-$20,095",,,,,OTTR
+13,D,2022-02-08 12:29:57,2022-02-06,OTTR,Knutson Paul L,VP of HR,M - OptEx,$0.00,825,16247,+5%,+$0,,,,,OTTR
+14,D,2022-02-08 12:06:56,2022-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$60.90,-869,29546,-3%,"-$52,918",,,,,OTTR
+15,D,2022-02-08 12:06:56,2022-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",M - OptEx,$0.00,1850,29546,+7%,+$0,,,,,OTTR
+16,D,2022-02-08 11:54:18,2022-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$60.90,-869,36903,-2%,"-$52,918",,,,,OTTR
+17,D,2022-02-08 11:54:18,2022-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",M - OptEx,$0.00,1850,36903,+5%,+$0,,,,,OTTR
+18,D,2022-02-07 18:02:46,2022-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$60.90,-4055,211582,-2%,"-$246,929",,,,,OTTR
+19,D,2022-02-07 18:02:46,2022-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",M - OptEx,$0.00,8650,211582,+4%,+$0,,,,,OTTR
+20,D,2022-02-07 16:04:08,2022-02-06,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",F - Tax,$60.90,-710,4991,-12%,"-$43,235",,,,,OTTR
+21,D,2022-02-07 16:04:08,2022-02-06,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",M - OptEx,$0.00,1300,4991,+35%,+$0,,,,,OTTR
+22,D,2022-02-07 15:40:33,2022-02-06,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$60.90,-980,85854,-1%,"-$59,677",,,,,OTTR
+23,D,2022-02-07 15:40:33,2022-02-06,OTTR,Moug Kevin G,"CFO, SVP",M - OptEx,$0.00,2450,85854,+3%,+$0,,,,,OTTR
+24,,2021-12-07 16:48:44,2021-12-06,OTTR,O'Keefe Timothy J,Dir,G - Gift,$0.00,-3050,16475,+23%,-$0,,,,,OTTR
+25,,2021-12-07 16:48:44,2021-12-07,OTTR,O'Keefe Timothy J,Dir,S - Sale,$67.20,-1525,16475,-8%,"-$102,483",,,,,OTTR
+26,,2021-11-18 15:59:50,2021-11-17,OTTR,Erickson John D,Dir,G - Gift,$0.00,-19000,150105,+14%,-$0,,,,,OTTR
+27,,2021-11-18 15:59:50,2021-11-17,OTTR,Erickson John D,Dir,S - Sale,$66.52,-9500,150105,-6%,"-$631,951",,,,,OTTR
+28,,2021-04-13 17:16:59,2021-04-12,OTTR,Webb Thomas J,Dir,A - Grant,$0.00,2400,8900,+37%,+$0,,,,,OTTR
+29,,2021-04-13 17:03:39,2021-04-12,OTTR,Stake James B,Dir,A - Grant,$0.00,2400,44894,+6%,+$0,,,,,OTTR
+30,,2021-04-13 16:49:21,2021-04-12,OTTR,Partain Nathan I,Dir,A - Grant,$0.00,2600,69062,+4%,+$0,,,,,OTTR
+31,,2021-04-13 15:57:37,2021-04-12,OTTR,O'Keefe Timothy J,Dir,A - Grant,$0.00,2400,18000,+15%,+$0,,,,,OTTR
+32,,2021-04-13 15:24:56,2021-04-12,OTTR,Johnson Kathryn O,Dir,A - Grant,$0.00,2400,20753,+13%,+$0,,,,,OTTR
+33,,2021-04-13 14:57:46,2021-04-12,OTTR,Fritze Steven L,Dir,A - Grant,$0.00,2400,23333,+11%,+$0,,,,,OTTR
+34,,2021-04-13 13:26:33,2021-04-12,OTTR,Erickson John D,Dir,A - Grant,$0.00,2000,159605,+1%,+$0,,,,,OTTR
+35,,2021-04-13 12:45:42,2021-04-12,OTTR,Bohn Karen,Dir,A - Grant,$0.00,2400,42050,+6%,+$0,,,,,OTTR
+36,D,2021-04-09 16:50:36,2021-04-08,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",F - Tax,$46.09,-80,4324,-2%,"-$3,688",,,,,OTTR
+37,D,2021-04-09 16:50:36,2021-04-08,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",M - OptEx,$46.09,225,4324,+5%,"+$10,371",,,,,OTTR
+38,D,2021-02-12 13:12:14,2021-02-10,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",A - Grant,$42.35,6829,35344,+24%,"+$289,174",,,,,OTTR
+39,D,2021-02-12 13:12:14,2021-02-10,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$42.35,-3399,35344,-9%,"-$143,931",,,,,OTTR
+40,D,2021-02-12 12:59:52,2021-02-10,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",A - Grant,$42.35,6829,28565,+31%,"+$289,174",,,,,OTTR
+41,D,2021-02-12 12:59:52,2021-02-10,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$42.35,-3468,28565,-11%,"-$146,852",,,,,OTTR
+42,D,2021-02-12 12:49:16,2021-02-10,OTTR,Knutson Paul L,VP of HR,A - Grant,$42.35,3084,15294,+25%,"+$130,592",,,,,OTTR
+43,D,2021-02-12 12:49:16,2021-02-10,OTTR,Knutson Paul L,VP of HR,F - Tax,$42.35,-1372,15294,-8%,"-$58,097",,,,,OTTR
+44,D,2021-02-12 12:39:53,2021-02-10,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",A - Grant,$42.35,4626,4147,-966%,"+$195,888",,,,,OTTR
+45,D,2021-02-12 12:39:53,2021-02-10,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",F - Tax,$42.35,-2360,4147,-36%,"-$99,934",,,,,OTTR
+46,D,2021-02-12 12:27:35,2021-02-10,OTTR,Moug Kevin G,"CFO, SVP",A - Grant,$42.35,9252,84374,+12%,"+$391,776",,,,,OTTR
+47,D,2021-02-12 12:27:35,2021-02-10,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$42.35,-4004,84374,-5%,"-$169,549",,,,,OTTR
+48,D,2021-02-12 12:16:56,2021-02-10,OTTR,Macfarlane Charles S,"Pres, CEO",A - Grant,$42.35,27315,207760,+15%,"+$1,156,654",,,,,OTTR
+49,D,2021-02-12 12:16:56,2021-02-10,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$42.35,-13495,207760,-6%,"-$571,446",,,,,OTTR
+50,D,2021-02-09 16:12:41,2021-02-06,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",F - Tax,$41.66,-492,1881,-21%,"-$20,498",,,,,OTTR
+51,D,2021-02-09 16:12:41,2021-02-06,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",M - OptEx,$0.00,900,1881,+92%,+$0,,,,,OTTR
+52,D,2021-02-09 13:18:54,2021-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$41.66,-928,31914,-3%,"-$38,663",,,,,OTTR
+53,D,2021-02-09 13:18:54,2021-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",M - OptEx,$0.00,1700,31914,+6%,+$0,,,,,OTTR
+54,D,2021-02-09 12:42:23,2021-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$41.66,-822,25204,-3%,"-$34,247",,,,,OTTR
+55,D,2021-02-09 12:42:23,2021-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",M - OptEx,$0.00,1750,25204,+7%,+$0,,,,,OTTR
+56,D,2021-02-09 12:10:49,2021-02-06,OTTR,Knutson Paul L,VP of HR,F - Tax,$41.66,-295,13582,-2%,"-$12,290",,,,,OTTR
+57,D,2021-02-09 12:10:49,2021-02-06,OTTR,Knutson Paul L,VP of HR,M - OptEx,$0.00,775,13582,+6%,+$0,,,,,OTTR
+58,D,2021-02-09 10:28:43,2021-02-06,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$41.66,-940,79126,-1%,"-$39,163",,,,,OTTR
+59,D,2021-02-09 10:28:43,2021-02-06,OTTR,Moug Kevin G,"CFO, SVP",M - OptEx,$0.00,2350,79126,+3%,+$0,,,,,OTTR
+60,D,2021-02-09 10:03:08,2021-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$41.66,-3516,193940,-2%,"-$146,485",,,,,OTTR
+61,D,2021-02-09 10:03:08,2021-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",M - OptEx,$0.00,7500,193940,+4%,+$0,,,,,OTTR
+62,,2020-04-22 17:26:04,2020-04-20,OTTR,Erickson John D,Dir,A - Grant,$0.00,1800,157605,+1%,+$0,,,,,OTTR
+63,,2020-04-22 15:43:24,2020-04-20,OTTR,Fritze Steven L,Dir,A - Grant,$0.00,2200,20933,+12%,+$0,,,,,OTTR
+64,,2020-04-22 15:11:08,2020-04-20,OTTR,Bohn Karen,Dir,A - Grant,$0.00,2200,39650,+6%,+$0,,,,,OTTR
+65,,2020-04-22 14:52:54,2020-04-20,OTTR,Webb Thomas J,Dir,A - Grant,$0.00,2200,6500,+51%,+$0,,,,,OTTR
+66,,2020-04-22 14:17:25,2020-04-20,OTTR,Stake James B,Dir,A - Grant,$0.00,2200,42494,+5%,+$0,,,,,OTTR
+67,,2020-04-22 12:57:31,2020-04-20,OTTR,Partain Nathan I,Dir,A - Grant,$0.00,2400,64288,+4%,+$0,,,,,OTTR
+68,,2020-04-22 12:47:58,2020-04-20,OTTR,O'Keefe Timothy J,Dir,A - Grant,$0.00,2200,15600,+16%,+$0,,,,,OTTR
+69,,2020-04-22 12:38:38,2020-04-20,OTTR,Johnson Kathryn O,Dir,A - Grant,$0.00,2200,18353,+14%,+$0,,,,,OTTR
+70,D,2020-04-10 16:33:05,2020-04-08,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",F - Tax,$44.44,-168,1445,-10%,"-$7,465",,,,,OTTR
+71,D,2020-04-10 16:33:05,2020-04-08,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",M - OptEx,$44.44,300,1445,+26%,"+$13,331",,,,,OTTR
+72,,2020-03-16 16:25:01,2020-03-12,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",P - Purchase,$41.21,5000,24276,+26%,"+$206,050",,,,,OTTR
+73,D,2020-02-14 11:07:12,2020-02-12,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",A - Grant,$54.06,7572,31010,+32%,"+$409,348",,,,,OTTR
+74,D,2020-02-14 11:07:12,2020-02-12,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$54.06,-3720,31010,-11%,"-$201,106",,,,,OTTR
+75,D,2020-02-14 10:55:56,2020-02-12,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",A - Grant,$54.06,8293,19276,+76%,"+$448,325",,,,,OTTR
+76,D,2020-02-14 10:55:56,2020-02-12,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$54.06,-4073,19276,-17%,"-$220,189",,,,,OTTR
+77,D,2020-02-14 10:37:33,2020-02-12,OTTR,Knutson Paul L,VP of HR,A - Grant,$54.06,3486,12182,+40%,"+$188,456",,,,,OTTR
+78,D,2020-02-14 10:37:33,2020-02-12,OTTR,Knutson Paul L,VP of HR,F - Tax,$54.06,-1566,12182,-11%,"-$84,659",,,,,OTTR
+79,D,2020-02-14 10:19:14,2020-02-12,OTTR,Moug Kevin G,"CFO, SVP",A - Grant,$54.06,10817,77705,+16%,"+$584,775",,,,,OTTR
+80,D,2020-02-14 10:19:14,2020-02-12,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$54.06,-4641,77705,-6%,"-$250,896",,,,,OTTR
+81,D,2020-02-14 10:01:55,2020-02-12,OTTR,Macfarlane Charles S,"Pres, CEO",A - Grant,$54.06,30646,188486,+19%,"+$1,656,744",,,,,OTTR
+82,D,2020-02-14 10:01:55,2020-02-12,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$54.06,-15119,188486,-7%,"-$817,344",,,,,OTTR
+83,D,2020-02-10 17:31:56,2020-02-06,OTTR,Knutson Paul L,VP of HR,F - Tax,$54.42,-1903,10262,-16%,"-$103,561",,,,,OTTR
+84,D,2020-02-10 17:31:56,2020-02-06,OTTR,Knutson Paul L,VP of HR,M - OptEx,$0.00,7275,10262,+244%,+$0,,,,,OTTR
+85,D,2020-02-10 16:57:55,2020-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$54.42,-3336,172959,-2%,"-$181,545",,,,,OTTR
+86,D,2020-02-10 16:57:55,2020-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",M - OptEx,$0.00,7875,172959,+5%,+$0,,,,,OTTR
+87,D,2020-02-10 12:38:13,2020-02-06,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",F - Tax,$54.42,-328,1305,-20%,"-$17,850",,,,,OTTR
+88,D,2020-02-10 12:38:13,2020-02-06,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",M - OptEx,$0.00,600,1305,+85%,+$0,,,,,OTTR
+89,D,2020-02-10 12:12:16,2020-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$54.42,-974,15056,-6%,"-$53,005",,,,,OTTR
+90,D,2020-02-10 12:12:16,2020-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",M - OptEx,$0.00,1950,15056,+15%,+$0,,,,,OTTR
+91,D,2020-02-10 11:53:33,2020-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$54.42,-947,27158,-3%,"-$51,536",,,,,OTTR
+92,D,2020-02-10 11:53:33,2020-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",M - OptEx,$0.00,1900,27158,+8%,+$0,,,,,OTTR
+93,D,2020-02-10 11:26:13,2020-02-06,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$54.42,-945,71529,-1%,"-$51,427",,,,,OTTR
+94,D,2020-02-10 11:26:13,2020-02-06,OTTR,Moug Kevin G,"CFO, SVP",M - OptEx,$0.00,2700,71529,+4%,+$0,,,,,OTTR
+95,,2019-11-21 11:34:01,2019-11-20,OTTR,Erickson John D,Dir,G - Gift,$0.00,-4200,155805,+3%,-$0,,,,,OTTR
+96,,2019-11-21 11:34:01,2019-11-20,OTTR,Erickson John D,Dir,S - Sale,$48.81,-2100,155805,-1%,"-$102,504",,,,,OTTR
+97,D,2019-04-10 16:31:33,2019-04-08,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",F - Tax,$49.73,-89,1019,-8%,"-$4,426",,,,,OTTR
+98,D,2019-04-10 16:31:33,2019-04-08,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",M - OptEx,$49.73,250,1019,+33%,"+$12,433",,,,,OTTR
+99,,2019-04-10 11:53:52,2019-04-08,OTTR,O'Keefe Timothy J,Dir,A - Grant,$0.00,2000,13400,+18%,+$0,,,,,OTTR
+100,,2019-04-10 11:46:07,2019-04-08,OTTR,Fritze Steven L,Dir,A - Grant,$0.00,2000,18733,+12%,+$0,,,,,OTTR
+101,,2019-04-10 11:33:57,2019-04-08,OTTR,Bohn Karen,Dir,A - Grant,$0.00,2000,37450,+6%,+$0,,,,,OTTR
+102,,2019-04-10 11:25:57,2019-04-08,OTTR,Johnson Kathryn O,Dir,A - Grant,$0.00,2000,16153,+14%,+$0,,,,,OTTR
+103,,2019-04-10 11:14:07,2019-04-08,OTTR,Webb Thomas J,Dir,A - Grant,$0.00,2000,4300,+87%,+$0,,,,,OTTR
+104,,2019-04-10 10:49:27,2019-04-08,OTTR,Erickson John D,Dir,A - Grant,$0.00,1600,157905,+1%,+$0,,,,,OTTR
+105,,2019-04-10 10:32:11,2019-04-08,OTTR,Stake James B,Dir,A - Grant,$0.00,2000,39173,+5%,+$0,,,,,OTTR
+106,,2019-04-10 10:19:25,2019-04-08,OTTR,Partain Nathan I,Dir,A - Grant,$0.00,2100,60294,+4%,+$0,,,,,OTTR
+107,,2019-02-25 17:33:38,2019-02-22,OTTR,Knutson Paul L,VP of HR,S - Sale,$49.77,-3000,4427,-40%,"-$149,318",,,,,OTTR
+108,AD,2019-02-20 17:38:04,2019-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$48.05,-3307,143073,-2%,"-$158,885",,,,,OTTR
+109,AD,2019-02-20 17:38:04,2019-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",M - OptEx,$0.00,7900,143073,+6%,+$0,,,,,OTTR
+110,D,2019-02-14 15:40:34,2019-02-13,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",A - Grant,$49.62,12920,26077,+98%,"+$641,123",,,,,OTTR
+111,D,2019-02-14 15:40:34,2019-02-13,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$49.62,-6356,26077,-20%,"-$315,401",,,,,OTTR
+112,D,2019-02-14 15:12:38,2019-02-13,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",A - Grant,$49.62,12920,14080,>999%,"+$641,123",,,,,OTTR
+113,D,2019-02-14 15:12:38,2019-02-13,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$49.62,-6355,14080,-31%,"-$315,351",,,,,OTTR
+114,D,2019-02-08 15:24:48,2019-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$48.05,-893,19513,-4%,"-$42,904",,,,,OTTR
+115,D,2019-02-08 15:24:48,2019-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",M - OptEx,$0.00,1925,19513,+11%,+$0,,,,,OTTR
+116,D,2019-02-08 13:41:19,2019-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$48.05,-920,7515,-11%,"-$44,201",,,,,OTTR
+117,D,2019-02-08 13:41:19,2019-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",M - OptEx,$0.00,1975,7515,+36%,+$0,,,,,OTTR
+118,D,2019-02-08 12:42:43,2019-02-06,OTTR,Knutson Paul L,VP of HR,F - Tax,$48.05,-356,4051,-8%,"-$17,104",,,,,OTTR
+119,D,2019-02-08 12:42:43,2019-02-06,OTTR,Knutson Paul L,VP of HR,M - OptEx,$0.00,900,4051,+29%,+$0,,,,,OTTR
+120,D,2019-02-08 11:19:22,2019-02-06,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",F - Tax,$48.05,-164,811,-17%,"-$7,879",,,,,OTTR
+121,D,2019-02-08 11:19:22,2019-02-06,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",M - OptEx,$0.00,300,811,+59%,+$0,,,,,OTTR
+122,D,2019-02-07 19:01:55,2019-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$48.05,-4879,141501,-3%,"-$234,412",,,,,OTTR
+123,D,2019-02-07 19:01:55,2019-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",M - OptEx,$0.00,7900,141501,+6%,+$0,,,,,OTTR
+124,D,2019-02-07 16:45:57,2019-02-06,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$48.05,-896,59143,-1%,"-$43,048",,,,,OTTR
+125,D,2019-02-07 16:45:57,2019-02-06,OTTR,Moug Kevin G,"CFO, SVP",M - OptEx,$0.00,2850,59143,+5%,+$0,,,,,OTTR
+126,,2018-11-20 17:13:54,2018-11-20,OTTR,Erickson John D,Dir,G - Gift,$0.00,-4600,156305,+3%,-$0,,,,,OTTR
+127,,2018-11-20 17:13:54,2018-11-20,OTTR,Erickson John D,Dir,S - Sale,$47.35,-2300,156305,-1%,"-$108,905",,,,,OTTR
+128,,2018-11-13 16:10:53,2018-11-12,OTTR,Knutson Paul L,VP of HR,S - Sale,$47.79,-3000,3484,-46%,"-$143,370",,,,,OTTR
+129,,2018-05-16 13:19:09,2018-05-15,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$43.48,-1500,57174,-3%,"-$65,216",,,,,OTTR
+130,,2018-04-13 14:34:20,2018-04-08,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$43.70,-138,18317,-1%,"-$6,031",,,,,OTTR
+131,,2018-04-13 14:09:55,2018-04-08,OTTR,Knutson Paul L,VP of HR,F - Tax,$43.70,-59,6393,-1%,"-$2,578",,,,,OTTR
+132,,2018-04-13 13:51:14,2018-04-08,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$43.70,-739,137647,-1%,"-$32,294",,,,,OTTR
+133,,2018-04-10 19:36:02,2018-04-09,OTTR,O'Keefe Timothy J,Dir,A - Grant,$0.00,2300,11400,+25%,+$0,,,,,OTTR
+134,,2018-04-10 19:17:02,2018-04-09,OTTR,Johnson Kathryn O,Dir,A - Grant,$0.00,2300,14153,+19%,+$0,,,,,OTTR
+135,,2018-04-10 18:50:02,2018-04-09,OTTR,Fritze Steven L,Dir,A - Grant,$0.00,2300,16733,+16%,+$0,,,,,OTTR
+136,,2018-04-10 18:23:15,2018-04-09,OTTR,Erickson John D,Dir,A - Grant,$0.00,1900,158605,+1%,+$0,,,,,OTTR
+137,,2018-04-10 17:55:25,2018-04-09,OTTR,Stake James B,Dir,A - Grant,$0.00,2300,36159,+7%,+$0,,,,,OTTR
+138,,2018-04-10 17:27:13,2018-04-09,OTTR,Bohn Karen,Dir,A - Grant,$0.00,2300,35450,+7%,+$0,,,,,OTTR
+139,,2018-04-10 17:04:25,2018-04-09,OTTR,Partain Nathan I,Dir,A - Grant,$0.00,2500,56732,+5%,+$0,,,,,OTTR
+140,,2018-04-10 16:08:26,2018-04-09,OTTR,Webb Thomas J,Dir,A - Grant,$0.00,2300,2300,New,+$0,,,,,OTTR
+141,D,2018-04-10 12:28:53,2018-04-08,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",F - Tax,$43.70,-103,664,-13%,"-$4,501",,,,,OTTR
+142,D,2018-04-10 12:28:53,2018-04-08,OTTR,Smestad Jennifer O.,"VP, Gen Coun, Corp Sec",M - OptEx,$43.70,250,664,+60%,"+$10,925",,,,,OTTR
+143,,2018-02-16 13:12:35,2018-02-15,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$40.55,-1500,58669,-2%,"-$60,825",,,,,OTTR
+144,D,2018-02-08 19:20:34,2018-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$39.78,-594,6460,-8%,"-$23,626",,,,,OTTR
+145,D,2018-02-08 19:20:34,2018-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",M - OptEx,$0.00,1525,6460,+31%,+$0,,,,,OTTR
+146,D,2018-02-08 18:52:46,2018-02-06,OTTR,Knutson Paul L,VP of HR,F - Tax,$39.78,-244,6402,-4%,"-$9,705",,,,,OTTR
+147,D,2018-02-08 18:52:46,2018-02-06,OTTR,Knutson Paul L,VP of HR,M - OptEx,$0.00,700,6402,+12%,+$0,,,,,OTTR
+148,D,2018-02-08 18:23:48,2018-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$39.78,-532,18259,-3%,"-$21,160",,,,,OTTR
+149,D,2018-02-08 18:23:48,2018-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",M - OptEx,$0.00,1475,18259,+9%,+$0,,,,,OTTR
+150,D,2018-02-08 17:51:49,2018-02-06,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$39.78,-638,60169,-1%,"-$25,376",,,,,OTTR
+151,D,2018-02-08 17:51:49,2018-02-06,OTTR,Moug Kevin G,"CFO, SVP",M - OptEx,$0.00,2250,60169,+4%,+$0,,,,,OTTR
+152,D,2018-02-08 16:02:33,2018-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",A - Grant,$0.00,6100,138166,+5%,+$0,,,,,OTTR
+153,D,2018-02-08 16:02:33,2018-02-06,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$39.78,-3120,138166,-2%,"-$124,098",,,,,OTTR
+154,D,2018-02-07 18:51:56,2018-02-05,OTTR,Knutson Paul L,VP of HR,A - Grant,$41.33,4488,5946,+308%,"+$185,467",,,,,OTTR
+155,D,2018-02-07 18:51:56,2018-02-05,OTTR,Knutson Paul L,VP of HR,F - Tax,$41.33,-1903,5946,-24%,"-$78,641",,,,,OTTR
+156,D,2018-02-07 18:08:15,2018-02-05,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",A - Grant,$41.33,9248,5529,-249%,"+$382,174",,,,,OTTR
+157,D,2018-02-07 18:08:15,2018-02-05,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$41.33,-4633,5529,-46%,"-$191,459",,,,,OTTR
+158,D,2018-02-07 17:33:20,2018-02-05,OTTR,Moug Kevin G,"CFO, SVP",A - Grant,$41.33,14688,58557,+33%,"+$606,982",,,,,OTTR
+159,D,2018-02-07 17:33:20,2018-02-05,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$41.33,-6309,58557,-10%,"-$260,719",,,,,OTTR
+160,D,2018-02-07 16:41:41,2018-02-05,OTTR,Macfarlane Charles S,"Pres, CEO",A - Grant,$41.33,40392,135186,+43%,"+$1,669,199",,,,,OTTR
+161,D,2018-02-07 16:41:41,2018-02-05,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$41.33,-19873,135186,-13%,"-$821,252",,,,,OTTR
+162,D,2018-02-07 14:53:02,2018-02-05,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",A - Grant,$41.33,9248,17316,+115%,"+$382,174",,,,,OTTR
+163,D,2018-02-07 14:53:02,2018-02-05,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$41.33,-4661,17316,-21%,"-$192,616",,,,,OTTR
+164,,2017-11-20 16:58:48,2017-11-20,OTTR,Erickson John D,Dir,G - Gift,$0.00,-4800,156705,+3%,-$0,,,,,OTTR
+165,,2017-11-20 16:58:48,2017-11-20,OTTR,Erickson John D,Dir,S - Sale,$45.55,-2400,156705,-2%,"-$109,320",,,,,OTTR
+166,,2017-11-15 17:49:50,2017-11-15,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",S - Sale,$46.50,-3000,13205,-19%,"-$139,500",,,,,OTTR
+167,,2017-11-15 16:38:15,2017-11-15,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$46.50,-1500,50174,-3%,"-$69,750",,,,,OTTR
+168,,2017-08-16 17:58:57,2017-08-16,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$41.75,-1500,51670,-3%,"-$62,625",,,,,OTTR
+169,,2017-05-15 17:55:52,2017-05-15,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$37.25,-800,53164,-1%,"-$29,800",,,,,OTTR
+170,,2017-04-12 15:28:02,2017-04-10,OTTR,Stake James B,Dir,A - Grant,$0.00,2200,32855,+7%,+$0,0.0,0.0,-2.0,,OTTR
+171,,2017-04-12 15:00:11,2017-04-10,OTTR,Joyce Nelson Schuette,Dir,A - Grant,$0.00,2200,31532,+8%,+$0,0.0,0.0,-2.0,,OTTR
+172,,2017-04-12 13:24:06,2017-04-10,OTTR,Partain Nathan I,Dir,A - Grant,$0.00,2200,52761,+4%,+$0,0.0,0.0,-2.0,,OTTR
+173,,2017-04-12 12:56:18,2017-04-10,OTTR,O'Keefe Timothy J,Dir,A - Grant,$0.00,2200,9100,+32%,+$0,0.0,0.0,-2.0,,OTTR
+174,,2017-04-12 12:35:14,2017-04-10,OTTR,Johnson Kathryn O,Dir,A - Grant,$0.00,2200,11854,+23%,+$0,0.0,0.0,-2.0,,OTTR
+175,,2017-04-12 12:12:42,2017-04-10,OTTR,Fritze Steven L,Dir,A - Grant,$0.00,2200,14433,+18%,+$0,0.0,0.0,-2.0,,OTTR
+176,,2017-04-12 11:47:47,2017-04-10,OTTR,Erickson John D,Dir,A - Grant,$0.00,2200,159105,+1%,+$0,0.0,0.0,-2.0,,OTTR
+177,,2017-04-12 10:57:17,2017-04-10,OTTR,Bohn Karen,Dir,A - Grant,$0.00,2200,33150,+7%,+$0,0.0,0.0,-2.0,,OTTR
+178,D,2017-04-11 17:53:40,2017-04-08,OTTR,Macfarlane Charles S,"Pres, CEO",F - Tax,$38.08,-715,113697,-1%,"-$27,224",0.0,1.0,-2.0,,OTTR
+179,D,2017-04-11 16:55:37,2017-04-08,OTTR,Knutson Paul L,VP of HR,F - Tax,$38.08,-118,3293,-3%,"-$4,493",0.0,1.0,-2.0,,OTTR
+180,D,2017-04-11 15:24:41,2017-04-08,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$38.08,-237,12414,-2%,"-$9,024",1.0,2.0,-1.0,,OTTR
+181,D,2017-04-11 15:24:41,2017-04-08,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",M - OptEx,$0.00,250,12414,+2%,+$0,1.0,2.0,-1.0,,OTTR
+182,,2017-03-13 17:55:22,2017-03-13,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",S - Sale,$36.30,-4000,15786,-20%,"-$145,200",-1.0,0.0,4.0,,OTTR
+183,,2017-02-16 13:06:56,2017-02-15,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$37.80,-800,53959,-1%,"-$30,240",0.0,0.0,-4.0,,OTTR
+184,D,2017-02-08 17:13:03,2017-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$38.35,-354,12300,-3%,"-$13,576",0.0,1.0,-4.0,,OTTR
+185,D,2017-02-08 17:13:03,2017-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",M - OptEx,$0.00,1050,12300,+9%,+$0,0.0,1.0,-4.0,,OTTR
+186,D,2017-02-08 11:16:35,2017-02-06,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$38.35,-475,54759,-1%,"-$18,216",0.0,1.0,-4.0,,OTTR
+187,D,2017-02-08 11:16:35,2017-02-06,OTTR,Moug Kevin G,"CFO, SVP",M - OptEx,$0.00,1625,54759,+3%,+$0,0.0,1.0,-4.0,,OTTR
+188,D,2017-02-08 10:01:47,2017-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$38.35,-410,914,-31%,"-$15,724",0.0,1.0,-4.0,,OTTR
+189,D,2017-02-08 10:01:47,2017-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",M - OptEx,$0.00,1050,914,-772%,+$0,0.0,1.0,-4.0,,OTTR
+190,D,2017-02-07 19:24:27,2017-02-06,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",F - Tax,$38.35,-463,19786,-2%,"-$17,756",0.0,1.0,-3.0,,OTTR
+191,D,2017-02-07 19:24:27,2017-02-06,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",M - OptEx,$0.00,1375,19786,+7%,+$0,0.0,1.0,-3.0,,OTTR
+192,D,2017-02-07 19:21:40,2017-02-06,OTTR,Macfarlane Charles S,"Pres, COO",F - Tax,$38.35,-2110,114183,-2%,"-$80,919",0.0,1.0,-3.0,,OTTR
+193,D,2017-02-07 19:21:40,2017-02-06,OTTR,Macfarlane Charles S,"Pres, COO",M - OptEx,$0.00,4375,114183,+4%,+$0,0.0,1.0,-3.0,,OTTR
+194,D,2017-02-07 19:15:36,2017-02-06,OTTR,Knutson Paul L,VP of HR,F - Tax,$38.35,-143,3386,-4%,"-$5,484",0.0,1.0,-3.0,,OTTR
+195,D,2017-02-07 19:15:36,2017-02-06,OTTR,Knutson Paul L,VP of HR,M - OptEx,$0.00,500,3386,+17%,+$0,0.0,1.0,-3.0,,OTTR
+196,D,2017-02-03 19:38:42,2017-02-02,OTTR,Macfarlane Charles S,"Pres, COO",A - Grant,$0.00,29830,111918,+36%,+$0,-3.0,-2.0,-2.0,,OTTR
+197,D,2017-02-03 19:38:42,2017-02-02,OTTR,Macfarlane Charles S,"Pres, COO",F - Tax,$37.65,-15546,111918,-12%,"-$585,307",-3.0,-2.0,-2.0,,OTTR
+198,D,2017-02-03 19:37:56,2017-02-02,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",A - Grant,$0.00,12572,18874,+199%,+$0,-3.0,-2.0,-2.0,,OTTR
+199,D,2017-02-03 19:37:56,2017-02-02,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",F - Tax,$37.65,-5724,18874,-23%,"-$215,509",-3.0,-2.0,-2.0,,OTTR
+200,D,2017-02-03 19:37:40,2017-02-02,OTTR,Moug Kevin G,"CFO, SVP",A - Grant,$0.00,14972,53609,+39%,+$0,-3.0,-2.0,-2.0,,OTTR
+201,D,2017-02-03 19:37:40,2017-02-02,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$37.65,-6729,53609,-11%,"-$253,347",-3.0,-2.0,-2.0,,OTTR
+202,D,2017-02-03 19:37:21,2017-02-02,OTTR,Knutson Paul L,VP of HR,A - Grant,$0.00,4343,3029,-331%,+$0,-3.0,-2.0,-2.0,,OTTR
+203,D,2017-02-03 19:37:21,2017-02-02,OTTR,Knutson Paul L,VP of HR,F - Tax,$37.65,-2057,3029,-40%,"-$77,446",-3.0,-2.0,-2.0,,OTTR
+204,D,2017-02-03 19:36:49,2017-02-02,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",A - Grant,$0.00,8572,11604,+283%,+$0,-3.0,-2.0,-2.0,,OTTR
+205,D,2017-02-03 19:36:49,2017-02-02,OTTR,Rogelstad Timothy J,"SVP, Elect Plat, Pres OTP",F - Tax,$37.65,-4489,11604,-28%,"-$169,011",-3.0,-2.0,-2.0,,OTTR
+206,,2017-01-09 17:15:20,2017-01-09,OTTR,Knutson Paul L,VP of HR,S - Sale,$39.80,-500,743,-40%,"-$19,900",0.0,-1.0,-2.0,,OTTR
+207,,2016-11-21 16:43:29,2016-11-21,OTTR,Erickson John D,Dir,G - Gift,$0.00,-5800,156905,+4%,-$0,3.0,5.0,11.0,,OTTR
+208,,2016-11-21 16:43:29,2016-11-21,OTTR,Erickson John D,Dir,S - Sale,$37.33,-2900,156905,-2%,"-$108,257",3.0,5.0,11.0,,OTTR
+209,,2016-11-10 15:38:19,2016-11-10,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$35.20,-800,45361,-2%,"-$28,160",-2.0,4.0,17.0,6.0,OTTR
+210,,2016-08-16 17:28:13,2016-08-16,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$34.07,-800,46155,-2%,"-$27,256",1.0,2.0,2.0,15.0,OTTR
+211,,2016-08-12 09:36:39,2016-08-11,OTTR,Knutson Paul L,VP of HR,S - Sale,$34.50,-1700,1239,-58%,"-$58,650",1.0,0.0,1.0,13.0,OTTR
+212,,2016-04-12 16:46:16,2016-04-11,OTTR,Stake James B,Dir,A - Grant,$0.00,2900,29596,+11%,+$0,1.0,3.0,6.0,18.0,OTTR
+213,,2016-04-12 16:28:13,2016-04-11,OTTR,Joyce Nelson Schuette,Dir,A - Grant,$0.00,2900,29332,+11%,+$0,1.0,3.0,6.0,18.0,OTTR
+214,,2016-04-12 16:04:44,2016-04-11,OTTR,Partain Nathan I,Chairman of the Board,A - Grant,$0.00,2900,48972,+6%,+$0,1.0,3.0,6.0,18.0,OTTR
+215,,2016-04-12 15:50:41,2016-04-11,OTTR,O'Keefe Timothy J,Dir,A - Grant,$0.00,2900,6900,+73%,+$0,1.0,4.0,6.0,19.0,OTTR
+216,,2016-04-12 15:38:10,2016-04-11,OTTR,Johnson Kathryn O,Dir,A - Grant,$0.00,2900,9352,+45%,+$0,1.0,4.0,6.0,19.0,OTTR
+217,,2016-04-12 14:12:37,2016-04-11,OTTR,Fritze Steven L,Dir,A - Grant,$0.00,2900,12233,+31%,+$0,1.0,4.0,6.0,19.0,OTTR
+218,,2016-04-12 13:52:17,2016-04-11,OTTR,Erickson John D,Dir,A - Grant,$0.00,2900,159805,+2%,+$0,1.0,4.0,6.0,19.0,OTTR
+219,,2016-04-12 13:25:57,2016-04-11,OTTR,Bohn Karen,Dir,A - Grant,$0.00,2900,30950,+10%,+$0,1.0,4.0,6.0,19.0,OTTR
+220,D,2016-04-11 19:52:25,2016-04-08,OTTR,Knutson Paul L,VP of HR,F - Tax,$28.42,-232,2939,-7%,"-$6,592",1.0,3.0,7.0,20.0,OTTR
+221,D,2016-04-11 19:28:29,2016-04-08,OTTR,Macfarlane Charles S,"Pres, COO",F - Tax,$28.42,-994,96416,-1%,"-$28,245",1.0,3.0,7.0,20.0,OTTR
+222,D,2016-04-11 18:42:43,2016-04-08,OTTR,Rogelstad Timothy J,"SVP, Elect Plat; Pres OTP",F - Tax,$28.42,-574,6949,-8%,"-$16,310",1.0,3.0,7.0,20.0,OTTR
+223,D,2016-04-11 18:42:43,2016-04-08,OTTR,Rogelstad Timothy J,"SVP, Elect Plat; Pres OTP",M - OptEx,$0.00,1250,6949,+22%,+$0,1.0,3.0,7.0,20.0,OTTR
+224,D,2016-02-10 16:56:41,2016-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat; Pres OTP",F - Tax,$28.40,-176,6122,-3%,"-$4,998",-1.0,1.0,5.0,31.0,OTTR
+225,D,2016-02-10 16:56:41,2016-02-06,OTTR,Rogelstad Timothy J,"SVP, Elect Plat; Pres OTP",M - OptEx,$0.00,450,6122,+8%,+$0,-1.0,1.0,5.0,31.0,OTTR
+226,D,2016-02-10 16:53:23,2016-02-06,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$28.40,-323,46942,-1%,"-$9,173",-1.0,1.0,5.0,31.0,OTTR
+227,D,2016-02-10 16:53:23,2016-02-06,OTTR,Moug Kevin G,"CFO, SVP",M - OptEx,$0.00,725,46942,+2%,+$0,-1.0,1.0,5.0,31.0,OTTR
+228,D,2016-02-10 16:51:00,2016-02-06,OTTR,Macfarlane Charles S,"Pres, COO",F - Tax,$28.40,-778,97136,-1%,"-$22,095",-1.0,1.0,5.0,31.0,OTTR
+229,D,2016-02-10 16:51:00,2016-02-06,OTTR,Macfarlane Charles S,"Pres, COO",M - OptEx,$0.00,2000,97136,+2%,+$0,-1.0,1.0,5.0,31.0,OTTR
+230,D,2016-02-10 16:46:04,2016-02-06,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",F - Tax,$28.40,-337,11603,-3%,"-$9,571",-1.0,1.0,5.0,31.0,OTTR
+231,D,2016-02-10 16:46:04,2016-02-06,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",M - OptEx,$0.00,625,11603,+6%,+$0,-1.0,1.0,5.0,31.0,OTTR
+232,D,2016-02-10 16:38:13,2016-02-06,OTTR,Knutson Paul L,VP of HR,F - Tax,$28.40,-78,3151,-2%,"-$2,215",-1.0,1.0,5.0,31.0,OTTR
+233,D,2016-02-10 16:38:13,2016-02-06,OTTR,Knutson Paul L,VP of HR,M - OptEx,$0.00,225,3151,+8%,+$0,-1.0,1.0,5.0,31.0,OTTR
+234,D,2016-02-10 16:33:59,2016-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",F - Tax,$28.40,-176,274,-39%,"-$4,998",-1.0,1.0,5.0,31.0,OTTR
+235,D,2016-02-10 16:33:59,2016-02-06,OTTR,Abbott John S,"Pres Varistar, SVP, M, I Plat",M - OptEx,$0.00,450,274,-256%,+$0,-1.0,1.0,5.0,31.0,OTTR
+236,,2015-08-18 15:41:34,2015-08-17,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",S - Sale,$27.65,-2500,11071,-18%,"-$69,136",-2.0,-8.0,-7.0,-1.0,OTTR
+237,D,2015-07-02 16:55:13,2015-07-01,OTTR,McIntyre Edward J,CEO,F - Tax,$26.78,-6515,61875,-10%,"-$174,472",0.0,-1.0,-4.0,3.0,OTTR
+238,,2015-04-15 17:46:13,2015-04-13,OTTR,Stake James B,Dir,A - Grant,$0.00,1900,25606,+8%,+$0,0.0,-1.0,-15.0,-12.0,OTTR
+239,,2015-04-15 17:36:49,2015-04-13,OTTR,Joyce Nelson Schuette,Dir,A - Grant,$0.00,1900,26432,+8%,+$0,0.0,-1.0,-15.0,-12.0,OTTR
+240,,2015-04-15 17:27:31,2015-04-13,OTTR,Partain Nathan I,Chairman of the Board,A - Grant,$0.00,1900,44315,+4%,+$0,0.0,-1.0,-15.0,-12.0,OTTR
+241,,2015-04-14 18:16:49,2015-04-13,OTTR,O'Keefe Timothy J,Dir,A - Grant,$0.00,1900,4000,+90%,+$0,0.0,1.0,-14.0,-12.0,OTTR
+242,,2015-04-14 18:07:51,2015-04-13,OTTR,Johnson Kathryn O,Dir,A - Grant,$0.00,1900,6259,+44%,+$0,0.0,1.0,-14.0,-12.0,OTTR
+243,,2015-04-14 17:56:04,2015-04-13,OTTR,Fritze Steven L,Dir,A - Grant,$0.00,1900,9333,+26%,+$0,0.0,1.0,-14.0,-12.0,OTTR
+244,,2015-04-14 17:47:27,2015-04-13,OTTR,Erickson John D,Dir,A - Grant,$0.00,1900,156905,+1%,+$0,0.0,1.0,-14.0,-12.0,OTTR
+245,,2015-04-14 15:50:54,2015-04-13,OTTR,Bohn Karen,Dir,A - Grant,$0.00,1900,28050,+7%,+$0,1.0,1.0,-13.0,-11.0,OTTR
+246,D,2015-04-10 18:08:40,2015-04-08,OTTR,McIntyre Edward J,CEO,F - Tax,$31.85,-3400,68390,-5%,"-$108,273",-1.0,0.0,-13.0,-13.0,OTTR
+247,D,2015-04-10 17:45:01,2015-04-08,OTTR,Macfarlane Charles S,"Pres, COO",F - Tax,$31.85,-1825,94377,-2%,"-$58,117",-1.0,0.0,-13.0,-13.0,OTTR
+248,D,2015-04-10 17:10:12,2015-04-08,OTTR,Rogelstad Timothy J,"SVP, Elect Plat; Pres OTP",F - Tax,$31.85,-237,5018,-5%,"-$7,547",-1.0,0.0,-13.0,-13.0,OTTR
+249,D,2015-04-10 17:10:12,2015-04-08,OTTR,Rogelstad Timothy J,"SVP, Elect Plat; Pres OTP",M - OptEx,$0.00,250,5018,+5%,+$0,-1.0,0.0,-13.0,-13.0,OTTR
+250,D,2015-04-10 15:25:36,2015-04-08,OTTR,Knutson Paul L,VP of HR,F - Tax,$31.85,-244,2917,-8%,"-$7,770",1.0,1.0,-12.0,-12.0,OTTR
+251,D,2015-03-25 14:18:19,2015-03-23,OTTR,Macfarlane Charles S,"Pres, COO",M - OptEx,$24.93,3000,95947,+3%,"+$74,790",2.0,0.0,-3.0,-20.0,OTTR
+252,D,2015-02-12 15:00:03,2015-02-11,OTTR,McIntyre Edward J,CEO,F - Tax,$0.00,-22297,71790,-24%,-$0,0.0,4.0,4.0,-9.0,OTTR
+253,D,2015-02-12 15:00:03,2015-02-11,OTTR,McIntyre Edward J,CEO,M - OptEx,$0.00,49361,71790,+220%,+$0,0.0,4.0,4.0,-9.0,OTTR
+254,D,2015-02-12 12:38:20,2015-02-11,OTTR,Macfarlane Charles S,"Pres, COO",F - Tax,$0.00,-4549,92947,-5%,-$0,0.0,4.0,4.0,-9.0,OTTR
+255,D,2015-02-12 12:38:20,2015-02-11,OTTR,Macfarlane Charles S,"Pres, COO",M - OptEx,$0.00,13220,92947,+17%,+$0,0.0,4.0,4.0,-9.0,OTTR
+256,D,2015-02-12 12:06:24,2015-02-11,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$0.00,-6208,46514,-12%,-$0,0.0,4.0,4.0,-9.0,OTTR
+257,D,2015-02-12 12:06:24,2015-02-11,OTTR,Moug Kevin G,"CFO, SVP",M - OptEx,$0.00,15160,46514,+48%,+$0,0.0,4.0,4.0,-9.0,OTTR
+258,D,2015-02-12 11:38:29,2015-02-11,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",F - Tax,$0.00,-6077,13289,-31%,-$0,0.0,4.0,4.0,-9.0,OTTR
+259,D,2015-02-12 11:38:29,2015-02-11,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",M - OptEx,$0.00,12250,13289,>999%,+$0,0.0,4.0,4.0,-9.0,OTTR
+260,,2014-12-12 16:12:19,2014-12-11,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$29.66,-2293,37556,-6%,"-$68,010",0.0,5.0,7.0,-6.0,OTTR
+261,,2014-12-12 16:10:28,2014-12-11,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",F - Tax,$29.66,-2134,7007,-23%,"-$63,294",0.0,5.0,7.0,-6.0,OTTR
+262,,2014-12-12 16:10:28,2014-12-10,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",S - Sale,$29.67,-1500,7007,-18%,"-$44,504",0.0,5.0,7.0,-6.0,OTTR
+263,,2014-11-19 09:38:13,2014-11-18,OTTR,Erickson John D,Dir,G - Gift,$0.00,-8000,155005,+5%,-$0,-1.0,-1.0,5.0,-6.0,OTTR
+264,,2014-11-19 09:38:13,2014-11-18,OTTR,Erickson John D,Dir,S - Sale,$29.30,-4000,155005,-3%,"-$117,196",-1.0,-1.0,5.0,-6.0,OTTR
+265,,2014-08-22 15:07:19,2014-08-22,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",S - Sale,$28.34,-2000,10506,-16%,"-$56,680",0.0,0.0,-4.0,16.0,OTTR
+266,,2014-04-16 17:09:49,2014-04-14,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",A - Grant,$0.00,2600,12379,+27%,+$0,0.0,0.0,-6.0,-1.0,OTTR
+267,,2014-04-16 16:44:12,2014-04-14,OTTR,Stake James B,Dir,A - Grant,$0.00,2100,22759,+10%,+$0,0.0,0.0,-6.0,-1.0,OTTR
+268,,2014-04-16 15:32:24,2014-04-14,OTTR,Knutson Paul L,VP of HR,A - Grant,$0.00,900,3035,+42%,+$0,0.0,0.0,-6.0,-1.0,OTTR
+269,D,2014-04-16 15:19:20,2014-04-14,OTTR,Waslaski Shane N,"Pres-Varistar, SVP-OTC",A - Grant,$0.00,2100,10468,+25%,+$0,0.0,0.0,-6.0,-1.0,OTTR
+270,D,2014-04-16 15:03:11,2014-04-14,OTTR,Macfarlane Charles S,"Pres, COO",A - Grant,$0.00,6000,82677,+8%,+$0,0.0,0.0,-6.0,-1.0,OTTR
+271,,2014-04-16 14:40:18,2014-04-14,OTTR,Moug Kevin G,"CFO, SVP",A - Grant,$0.00,3000,39837,+8%,+$0,0.0,0.0,-6.0,-1.0,OTTR
+272,,2014-04-16 14:21:09,2014-04-14,OTTR,McIntyre Edward J,CEO,A - Grant,$0.00,10300,44726,+30%,+$0,0.0,0.0,-6.0,-1.0,OTTR
+273,,2014-04-15 18:13:17,2014-04-14,OTTR,Joyce Nelson Schuette,Dir,A - Grant,$0.00,2100,24532,+9%,+$0,0.0,1.0,-4.0,-3.0,OTTR
+274,,2014-04-15 17:58:47,2014-04-14,OTTR,Partain Nathan I,Chairman of the Board,A - Grant,$0.00,2100,40906,+5%,+$0,0.0,1.0,-4.0,-3.0,OTTR
+275,,2014-04-15 17:29:30,2014-04-14,OTTR,Johnson Kathryn O,Dir,A - Grant,$0.00,2100,4185,+101%,+$0,0.0,1.0,-4.0,-3.0,OTTR
+276,,2014-04-15 17:09:56,2014-04-14,OTTR,Fritze Steven L,Dir,A - Grant,$0.00,2100,7433,+39%,+$0,0.0,1.0,-4.0,-3.0,OTTR
+277,,2014-04-15 16:49:07,2014-04-14,OTTR,Erickson John D,Dir,A - Grant,$0.00,2100,159005,+1%,+$0,0.0,1.0,-4.0,-3.0,OTTR
+278,,2014-04-15 16:32:27,2014-04-14,OTTR,Bohn Karen,Dir,A - Grant,$0.00,2100,26150,+9%,+$0,0.0,1.0,-4.0,-3.0,OTTR
+279,,2014-04-10 15:30:11,2014-04-08,OTTR,Knutson Paul L,VP of HR,F - Tax,$29.98,-171,2135,-7%,"-$5,126",-2.0,-2.0,-5.0,-5.0,OTTR
+280,D,2014-04-10 15:24:29,2014-04-08,OTTR,Waslaski Shane N,"Pres-Varistar, SVP-OTC",F - Tax,$29.98,-1320,8368,-14%,"-$39,568",-2.0,-2.0,-5.0,-5.0,OTTR
+281,D,2014-04-10 15:24:29,2014-04-08,OTTR,Waslaski Shane N,"Pres-Varistar, SVP-OTC",M - OptEx,$0.00,3000,8368,+56%,+$0,-2.0,-2.0,-5.0,-5.0,OTTR
+282,D,2014-04-10 15:13:47,2014-04-08,OTTR,Macfarlane Charles S,"SVP, Electric Platform",F - Tax,$29.98,-2119,76677,-3%,"-$63,518",-2.0,-2.0,-5.0,-5.0,OTTR
+283,,2014-04-10 15:05:00,2014-04-08,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$29.98,-982,36837,-3%,"-$29,436",-2.0,-2.0,-5.0,-5.0,OTTR
+284,,2014-04-10 14:54:07,2014-04-08,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",F - Tax,$29.98,-779,9779,-7%,"-$23,351",-2.0,-2.0,-5.0,-5.0,OTTR
+285,,2014-04-10 14:39:37,2014-04-08,OTTR,McIntyre Edward J,"Pres, CEO",F - Tax,$29.98,-1494,34426,-4%,"-$44,783",-2.0,-2.0,-5.0,-5.0,OTTR
+286,D,2014-03-14 16:39:57,2014-03-14,OTTR,Macfarlane Charles S,"SVP, Electric Platform",M - OptEx,$26.50,3000,78491,+4%,"+$79,485",1.0,-3.0,-6.0,-8.0,OTTR
+287,,2014-02-24 16:07:18,2014-02-21,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",S - Sale,$30.53,-6201,10455,-37%,"-$189,335",-1.0,-1.0,-1.0,-5.0,OTTR
+288,,2014-02-21 12:08:00,2014-02-20,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$30.34,-7550,37813,-17%,"-$229,094",0.0,0.0,-1.0,-5.0,OTTR
+289,D,2014-02-13 11:04:16,2014-02-11,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",F - Tax,$0.00,-3582,16656,-18%,-$0,3.0,4.0,6.0,-2.0,OTTR
+290,D,2014-02-13 11:04:16,2014-02-11,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",M - OptEx,$0.00,9783,16656,+142%,+$0,3.0,4.0,6.0,-2.0,OTTR
+291,D,2014-02-13 10:47:27,2014-02-11,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$0.00,-5297,45363,-10%,-$0,3.0,4.0,6.0,-2.0,OTTR
+292,D,2014-02-13 10:47:27,2014-02-11,OTTR,Moug Kevin G,"CFO, SVP",M - OptEx,$0.00,12847,45363,+40%,+$0,3.0,4.0,6.0,-2.0,OTTR
+293,,2013-11-26 17:26:14,2013-11-26,OTTR,Erickson John D,Dir,G - Gift,$0.00,-8204,156905,+6%,-$0,0.0,-3.0,1.0,-2.0,OTTR
+294,,2013-11-26 17:26:14,2013-11-26,OTTR,Erickson John D,Dir,S - Sale,$29.42,-4102,156905,-3%,"-$120,666",0.0,-3.0,1.0,-2.0,OTTR
+295,,2013-11-15 12:09:34,2013-11-14,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",S - Sale,$29.57,-3000,10347,-22%,"-$88,708",0.0,-1.0,-2.0,-5.0,OTTR
+296,,2013-10-01 17:12:53,2013-10-01,OTTR,Fritze Steven L,Dir,A - Grant,$0.00,1333,5333,+33%,+$0,-1.0,-2.0,8.0,13.0,OTTR
+297,D,2013-06-13 14:11:26,2013-06-12,OTTR,Liebe Arvid R,Dir,S - Sale+OE,$28.01,-2000,25521,-7%,"-$56,028",1.0,1.0,8.0,4.0,OTTR
+298,,2013-06-10 12:36:27,2013-06-07,OTTR,Olson Mark W,Dir,A - Grant,$0.00,2000,4138,+94%,+$0,0.0,-1.0,5.0,3.0,OTTR
+299,,2013-05-21 12:41:40,2013-05-20,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$29.66,-2617,37796,-6%,"-$77,619",0.0,-3.0,-5.0,3.0,OTTR
+300,D,2013-05-14 17:26:20,2013-05-14,OTTR,Macfarlane Charles S,"SVP, Electric Platform",F - Tax,$31.03,-58,73301,0%,"-$1,800",1.0,0.0,-6.0,5.0,OTTR
+301,D,2013-04-11 14:26:35,2013-04-08,OTTR,Liebe Arvid R,Dir,D - Sale to issuer,$25.52,-1,27521,0%,-$34,0.0,-4.0,-6.0,-13.0,OTTR
+302,D,2013-04-11 14:26:35,2013-04-08,OTTR,Liebe Arvid R,Dir,M - OptEx,$0.00,4536,27521,+20%,+$0,0.0,-4.0,-6.0,-13.0,OTTR
+303,,2013-04-10 16:29:39,2013-04-08,OTTR,Erickson John D,Dir,A - Grant,$0.00,2000,161007,+1%,+$0,0.0,-2.0,-3.0,-13.0,OTTR
+304,,2013-04-10 15:52:30,2013-04-08,OTTR,McIntyre Edward J,"Pres, CEO",A - Grant,$0.00,7500,35920,+26%,+$0,2.0,0.0,-1.0,-11.0,OTTR
+305,,2013-04-10 15:52:30,2013-04-08,OTTR,McIntyre Edward J,"Pres, CEO",F - Tax,$31.03,-928,35920,-3%,"-$28,796",2.0,0.0,-1.0,-11.0,OTTR
+306,D,2013-04-10 14:51:34,2013-04-08,OTTR,Waslaski Shane N,"Pres-Varistar, SVP-OTC",A - Grant,$0.00,1700,6466,+36%,+$0,2.0,0.0,-1.0,-11.0,OTTR
+307,D,2013-04-10 14:51:34,2013-04-08,OTTR,Waslaski Shane N,"Pres-Varistar, SVP-OTC",F - Tax,$31.03,-842,6466,-12%,"-$26,127",2.0,0.0,-1.0,-11.0,OTTR
+308,D,2013-04-10 14:51:34,2013-04-08,OTTR,Waslaski Shane N,"Pres-Varistar, SVP-OTC",M - OptEx,$0.00,2000,6466,+45%,+$0,2.0,0.0,-1.0,-11.0,OTTR
+309,D,2013-04-10 13:53:09,2013-04-08,OTTR,Macfarlane Charles S,"SVP, Electric Platform",A - Grant,$0.00,2500,73359,+4%,+$0,2.0,0.0,-1.0,-11.0,OTTR
+310,D,2013-04-10 13:53:09,2013-04-08,OTTR,Macfarlane Charles S,"SVP, Electric Platform",F - Tax,$31.03,-3195,73359,-4%,"-$99,141",2.0,0.0,-1.0,-11.0,OTTR
+311,D,2013-04-10 13:53:09,2013-04-08,OTTR,Macfarlane Charles S,"SVP, Electric Platform",M - OptEx,$0.00,4000,73359,+6%,+$0,2.0,0.0,-1.0,-11.0,OTTR
+312,,2013-04-10 12:23:11,2013-04-08,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",A - Grant,$0.00,2100,13062,+19%,+$0,2.0,0.0,-1.0,-11.0,OTTR
+313,,2013-04-10 12:23:11,2013-04-08,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",F - Tax,$31.03,-884,13062,-6%,"-$27,431",2.0,0.0,-1.0,-11.0,OTTR
+314,,2013-04-09 17:22:34,2013-04-08,OTTR,Knutson Paul L,VP of HR,A - Grant,$0.00,700,2212,+46%,+$0,2.0,-2.0,0.0,-10.0,OTTR
+315,,2013-04-09 17:22:34,2013-04-08,OTTR,Knutson Paul L,VP of HR,F - Tax,$31.03,-144,2212,-6%,"-$4,468",2.0,-2.0,0.0,-10.0,OTTR
+316,,2013-04-09 16:53:08,2013-04-08,OTTR,Moug Kevin G,"CFO, SVP",A - Grant,$0.00,2500,40413,+7%,+$0,2.0,-2.0,0.0,-10.0,OTTR
+317,,2013-04-09 16:53:08,2013-04-08,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$31.03,-1133,40413,-3%,"-$35,157",2.0,-2.0,0.0,-10.0,OTTR
+318,,2013-04-09 15:22:52,2013-04-08,OTTR,Stake James B,Dir,A - Grant,$0.00,2000,19814,+11%,+$0,-1.0,-3.0,-1.0,-12.0,OTTR
+319,D,2013-04-09 15:14:06,2013-04-08,OTTR,Spies Gary J,Dir,A - Grant,$0.00,2000,38025,+6%,+$0,-1.0,-3.0,-1.0,-12.0,OTTR
+320,,2013-04-09 15:06:22,2013-04-08,OTTR,Joyce Nelson Schuette,Dir,A - Grant,$0.00,2000,22432,+10%,+$0,-1.0,-3.0,-1.0,-12.0,OTTR
+321,,2013-04-09 14:37:20,2013-04-08,OTTR,Partain Nathan I,Chairman of the Board,A - Grant,$0.00,2000,37406,+6%,+$0,-1.0,-3.0,-1.0,-12.0,OTTR
+322,,2013-04-09 12:41:27,2013-04-08,OTTR,Olson Mark W,Dir,A - Grant,$0.00,2000,6138,+48%,+$0,-1.0,-3.0,-1.0,-12.0,OTTR
+323,,2013-04-09 12:35:49,2013-04-08,OTTR,Bohn Karen,Dir,A - Grant,$0.00,2000,24050,+9%,+$0,-1.0,-3.0,-1.0,-12.0,OTTR
+324,,2012-12-10 14:49:18,2012-12-07,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",S - Sale,$24.59,-1000,11580,-8%,"-$24,592",1.0,0.0,4.0,16.0,OTTR
+325,,2012-11-27 14:40:09,2012-11-26,OTTR,Erickson John D,Dir,G - Gift,$0.00,-11924,159007,+8%,-$0,0.0,2.0,4.0,18.0,OTTR
+326,,2012-11-27 14:40:09,2012-11-26,OTTR,Erickson John D,Dir,S - Sale,$23.75,-5962,159007,-4%,"-$141,569",0.0,2.0,4.0,18.0,OTTR
+327,,2012-06-11 13:02:03,2012-06-07,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",S - Sale,$22.30,-2000,12231,-14%,"-$44,597",-1.0,0.0,3.0,15.0,OTTR
+328,,2012-05-17 16:30:55,2012-05-16,OTTR,Moug Kevin G,"CFO, SVP",S - Sale,$21.60,-2469,39021,-6%,"-$53,328",-1.0,-1.0,5.0,11.0,OTTR
+329,D,2012-05-15 13:48:22,2012-05-14,OTTR,Liebe Arvid R,Dir,S - Sale+OE,$21.49,-1000,22322,-4%,"-$21,493",0.0,-1.0,4.0,12.0,OTTR
+330,D,2012-04-17 18:07:06,2012-04-16,OTTR,Macfarlane Charles S,"SVP, Electric Platform",A - Grant,$0.00,3300,65524,+5%,+$0,-1.0,-2.0,0.0,12.0,OTTR
+331,D,2012-04-17 17:29:31,2012-04-16,OTTR,Waslaski Shane N,"SVP, Man, Infra Platform",A - Grant,$0.00,2000,3419,+141%,+$0,-1.0,-2.0,0.0,12.0,OTTR
+332,,2012-04-17 16:15:28,2012-04-16,OTTR,McIntyre Edward J,"Pres, CEO",A - Grant,$0.00,12300,29348,+72%,+$0,-1.0,-2.0,0.0,12.0,OTTR
+333,,2012-04-17 15:37:06,2012-04-16,OTTR,Moug Kevin G,"CFO, SVP",A - Grant,$0.00,3800,41490,+10%,+$0,2.0,-1.0,1.0,14.0,OTTR
+334,,2012-04-17 15:10:59,2012-04-16,OTTR,Koeck George A,"SVP, Gen Coun, Corp Sec",A - Grant,$0.00,3100,14231,+28%,+$0,2.0,-1.0,1.0,14.0,OTTR
+335,,2012-04-17 14:41:04,2012-04-16,OTTR,Erickson John D,Dir,A - Grant,$0.00,3000,164969,+2%,+$0,2.0,-1.0,1.0,14.0,OTTR
+336,,2012-04-17 14:01:08,2012-04-16,OTTR,Olson Mark W,Dir,A - Grant,$0.00,3000,3946,+317%,+$0,2.0,-1.0,1.0,14.0,OTTR
+337,,2012-04-17 12:55:55,2012-04-16,OTTR,Stake James B,Dir,A - Grant,$0.00,3000,16985,+21%,+$0,2.0,-1.0,1.0,14.0,OTTR
+338,D,2012-04-17 12:47:00,2012-04-16,OTTR,Spies Gary J,Dir,A - Grant,$0.00,3000,34558,+10%,+$0,2.0,-1.0,1.0,14.0,OTTR
+339,,2012-04-17 12:11:00,2012-04-16,OTTR,Joyce Nelson Schuette,Dir,A - Grant,$0.00,3000,20432,+17%,+$0,2.0,-1.0,1.0,14.0,OTTR
+340,,2012-04-17 12:02:27,2012-04-16,OTTR,Partain Nathan I,Chairman of the Board,A - Grant,$0.00,3000,33972,+10%,+$0,2.0,-1.0,1.0,14.0,OTTR
+341,D,2012-04-17 11:50:34,2012-04-16,OTTR,Liebe Arvid R,Dir,A - Grant,$0.00,3000,23322,+15%,+$0,2.0,-1.0,1.0,14.0,OTTR
+342,,2012-04-17 11:33:55,2012-04-16,OTTR,Bohn Karen,Dir,A - Grant,$0.00,3000,22050,+16%,+$0,2.0,-1.0,1.0,14.0,OTTR
+343,D,2012-04-10 18:38:27,2012-04-08,OTTR,Waslaski Shane N,"SVP, Man, Infra Platform",F - Tax,$21.79,-295,1419,-17%,"-$6,428",0.0,1.0,4.0,15.0,OTTR
+344,D,2012-04-10 18:38:27,2012-04-08,OTTR,Waslaski Shane N,"SVP, Man, Infra Platform",M - OptEx,$0.00,900,1419,+173%,+$0,0.0,1.0,4.0,15.0,OTTR
+345,,2012-04-10 18:32:29,2012-04-08,OTTR,Moug Kevin G,"CFO, SVP",F - Tax,$21.79,-1056,37690,-3%,"-$23,010",0.0,1.0,4.0,15.0,OTTR
+346,,2012-04-10 18:27:51,2012-04-08,OTTR,Koeck George A,"Corp Secretary, GC",F - Tax,$21.79,-809,11131,-7%,"-$17,628",0.0,1.0,4.0,15.0,OTTR
+347,D,2012-04-10 18:21:57,2012-04-08,OTTR,Macfarlane Charles S,"SVP, Electric Platform",F - Tax,$21.79,-2748,62224,-4%,"-$59,878",0.0,1.0,4.0,15.0,OTTR
+348,D,2012-04-10 18:21:57,2012-04-08,OTTR,Macfarlane Charles S,"SVP, Electric Platform",M - OptEx,$0.00,3550,62224,+6%,+$0,0.0,1.0,4.0,15.0,OTTR
+349,,2012-03-27 17:50:32,2012-03-26,OTTR,Macfarlane John C,Dir,S - Sale,$22.00,-3875,91776,-4%,"-$85,250",-1.0,0.0,-2.0,10.0,OTTR
+350,,2012-02-17 13:38:49,2012-02-15,OTTR,Liebe Arvid R,Dir,P - Purchase,$21.69,475,20054,+2%,"+$10,301",1.0,0.0,0.0,8.0,OTTR
+351,,2011-12-27 17:14:00,2011-12-22,OTTR,Moug Kevin G,"CFO, SVP",G - Gift,$0.00,-500,38735,-1%,-$0,-1.0,0.0,0.0,3.0,OTTR
+352,,2011-12-19 14:59:31,2011-12-15,OTTR,Erickson John D,"Pres, CEO",F - Tax,$21.19,-48628,161970,-23%,"-$1,030,476",-1.0,3.0,2.0,11.0,OTTR
+353,,2011-12-19 14:59:31,2011-12-15,OTTR,Erickson John D,"Pres, CEO",M - OptEx,$21.19,88300,161970,+120%,"+$1,871,165",-1.0,3.0,2.0,11.0,OTTR
+354,,2011-11-14 09:14:23,2011-11-10,OTTR,Macfarlane John C,Dir,G - Gift,$0.00,-8,95348,0%,-$0,-2.0,0.0,4.0,8.0,OTTR
+355,,2011-08-24 17:32:48,2011-08-22,OTTR,Koeck George A,"Corp Secretary, GC",S - Sale,$20.00,-2000,11416,-15%,"-$40,000",-2.0,1.0,-6.0,11.0,OTTR
+356,M,2011-05-17 12:30:05,2011-05-16,OTTR,Moug Kevin G,"CFO, Treasurer",S - Sale,$22.14,-2354,39217,-6%,"-$52,128",-1.0,-2.0,-7.0,-4.0,OTTR
+357,D,2011-04-12 18:53:16,2011-04-11,OTTR,Macfarlane Charles S,"Pres, Otter Tail Power Co",A - Grant,$0.00,9900,56648,+21%,+$0,0.0,1.0,3.0,-12.0,OTTR
+358,D,2011-04-12 18:53:16,2011-04-08,OTTR,Macfarlane Charles S,"Pres, Otter Tail Power Co",F - Tax,$22.83,-1906,56648,-3%,"-$43,514",0.0,1.0,3.0,-12.0,OTTR
+359,D,2011-04-12 18:53:16,2011-04-08,OTTR,Macfarlane Charles S,"Pres, Otter Tail Power Co",M - OptEx,$0.00,3450,56648,+6%,+$0,0.0,1.0,3.0,-12.0,OTTR
+360,,2011-04-12 18:40:55,2011-04-11,OTTR,Kommer Michelle L,VP of HR,A - Grant,$0.00,1000,2044,+96%,+$0,0.0,1.0,3.0,-12.0,OTTR
+361,,2011-04-12 18:40:55,2011-04-08,OTTR,Kommer Michelle L,VP of HR,F - Tax,$22.83,-94,2044,-4%,"-$2,146",0.0,1.0,3.0,-12.0,OTTR
+362,,2011-04-12 18:34:52,2011-04-11,OTTR,Koeck George A,"Corp Secretary, GC",A - Grant,$0.00,2500,13228,+23%,+$0,0.0,1.0,3.0,-12.0,OTTR
+363,,2011-04-12 18:34:52,2011-04-08,OTTR,Koeck George A,"Corp Secretary, GC",F - Tax,$22.83,-822,13228,-6%,"-$18,766",0.0,1.0,3.0,-12.0,OTTR
+364,,2011-04-12 18:28:04,2011-04-11,OTTR,Moug Kevin G,"CFO, Treasurer",A - Grant,$0.00,3300,41571,+9%,+$0,0.0,1.0,3.0,-12.0,OTTR
+365,,2011-04-12 18:28:04,2011-04-08,OTTR,Moug Kevin G,"CFO, Treasurer",F - Tax,$22.83,-1021,41571,-2%,"-$23,309",0.0,1.0,3.0,-12.0,OTTR
+366,,2011-04-12 18:20:52,2011-04-11,OTTR,Erickson John D,"Pres, CEO",A - Grant,$0.00,7900,122298,+7%,+$0,0.0,1.0,3.0,-12.0,OTTR
+367,,2011-04-12 18:20:52,2011-04-08,OTTR,Erickson John D,"Pres, CEO",F - Tax,$22.83,-2634,122298,-2%,"-$60,134",0.0,1.0,3.0,-12.0,OTTR
+368,,2011-04-12 10:42:01,2011-04-11,OTTR,Macfarlane John C,Dir,A - Grant,$0.00,3000,94373,+3%,+$0,-1.0,0.0,1.0,-13.0,OTTR
+369,,2011-04-12 10:00:19,2011-04-11,OTTR,Stake James B,Dir,A - Grant,$0.00,3000,13218,+29%,+$0,-1.0,0.0,1.0,-13.0,OTTR
+370,D,2011-04-12 09:51:25,2011-04-11,OTTR,Spies Gary J,Dir,A - Grant,$0.00,3000,30073,+11%,+$0,-1.0,0.0,1.0,-13.0,OTTR
+371,,2011-04-12 09:31:40,2011-04-11,OTTR,Joyce Nelson Schuette,Dir,A - Grant,$0.00,3000,17432,+21%,+$0,-1.0,0.0,1.0,-13.0,OTTR
+372,,2011-04-12 09:08:52,2011-04-11,OTTR,Partain Nathan I,Dir,A - Grant,$0.00,3000,29525,+11%,+$0,-1.0,0.0,1.0,-13.0,OTTR
+373,,2011-04-12 08:59:49,2011-04-11,OTTR,McIntyre Edward J,Dir,A - Grant,$0.00,3000,17048,+21%,+$0,-1.0,0.0,1.0,-13.0,OTTR
+374,D,2011-04-12 08:47:48,2011-04-11,OTTR,Liebe Arvid R,Dir,A - Grant,$0.00,3000,18757,+19%,+$0,-1.0,0.0,1.0,-13.0,OTTR
+375,,2011-04-12 08:23:37,2011-04-11,OTTR,Bohn Karen,Dir,A - Grant,$0.00,3000,19050,+19%,+$0,-1.0,0.0,1.0,-13.0,OTTR
+376,D,2011-03-10 13:09:30,2011-03-09,OTTR,Liebe Arvid R,Dir,S - Sale+OE,$22.42,-3000,15510,-16%,"-$67,261",-2.0,-6.0,1.0,-9.0,OTTR
+377,,2011-02-15 16:41:48,2011-02-14,OTTR,Koeck George A,"Corp Secretary, GC",S - Sale,$22.52,-3500,11351,-24%,"-$78,818",-1.0,-1.0,-5.0,-5.0,OTTR
+378,D,2011-02-04 14:17:06,2011-02-02,OTTR,Macfarlane John C,Dir,G - Gift,$0.00,-25,90543,0%,-$0,0.0,1.0,-2.0,-11.0,OTTR
+379,D,2011-01-07 17:00:28,2011-01-05,OTTR,Macfarlane John C,Dir,G - Gift,$0.00,-42,90568,0%,-$0,1.0,2.0,3.0,-1.0,OTTR
+380,,2010-12-30 16:13:30,2010-12-30,OTTR,Molbert Lauris N,"COO, Exec Vice Pres",A - Grant,$0.00,70400,88324,+393%,+$0,-1.0,0.0,0.0,-5.0,OTTR
+381,D,2010-12-15 17:38:37,2010-12-14,OTTR,Macfarlane John C,Dir,G - Gift,$0.00,-3,89447,0%,-$0,1.0,1.0,1.0,-6.0,OTTR
+382,M,2010-11-19 13:54:01,2010-11-17,OTTR,Molbert Lauris N,"COO, Exec Vice Pres",S - Sale,$20.58,-48614,17921,-73%,"-$1,000,666",0.0,-1.0,10.0,8.0,OTTR
+383,,2010-08-25 15:51:10,2010-08-25,OTTR,Koeck George A,"Corp Secretary, GC",S - Sale,$18.67,-2500,14396,-15%,"-$46,678",3.0,0.0,8.0,22.0,OTTR
+384,DM,2010-08-18 12:52:20,2010-08-13,OTTR,Macfarlane John C,Dir,G - Gift,$0.00,-12,88167,0%,-$0,0.0,-3.0,3.0,21.0,OTTR
+385,,2010-04-13 17:04:30,2010-04-12,OTTR,Molbert Lauris N,"COO, Exec Vice Pres",A - Grant,$0.00,6800,66528,+11%,+$0,2.0,3.0,-2.0,-1.0,OTTR
+386,,2010-04-13 17:04:30,2010-04-13,OTTR,Molbert Lauris N,"COO, Exec Vice Pres",G - Gift,$0.00,-1250,66528,-2%,-$0,2.0,3.0,-2.0,-1.0,OTTR
+387,,2010-04-13 16:39:41,2010-04-12,OTTR,Moug Kevin G,"CFO, Treasurer",A - Grant,$0.00,3400,39266,+9%,+$0,2.0,3.0,-2.0,-1.0,OTTR
+388,,2010-04-13 16:28:31,2010-04-12,OTTR,Koeck George A,"Corp Secretary, GC",A - Grant,$0.00,2600,16644,+19%,+$0,2.0,3.0,-2.0,-1.0,OTTR
+389,D,2010-04-13 16:05:01,2010-04-12,OTTR,Erickson John D,"Pres, CEO",A - Grant,$0.00,8200,117032,+8%,+$0,2.0,3.0,-2.0,-1.0,OTTR
+390,,2010-04-13 12:46:15,2010-04-12,OTTR,Stake James B,Dir,A - Grant,$0.00,3100,9653,+47%,+$0,0.0,3.0,-2.0,-1.0,OTTR
+391,D,2010-04-13 12:42:13,2010-04-12,OTTR,Spies Gary J,Dir,A - Grant,$0.00,3100,25825,+14%,+$0,0.0,3.0,-2.0,-1.0,OTTR
+392,,2010-04-13 12:32:44,2010-04-12,OTTR,Joyce Nelson Schuette,Dir,A - Grant,$0.00,3100,14433,+27%,+$0,0.0,3.0,-2.0,-1.0,OTTR
+393,D,2010-04-13 12:01:16,2010-04-12,OTTR,Partain Nathan I,Dir,A - Grant,$0.00,3100,25313,+14%,+$0,0.0,3.0,-2.0,-1.0,OTTR
+394,,2010-04-13 11:51:06,2010-04-12,OTTR,McIntyre Edward J,Dir,A - Grant,$0.00,3100,14048,+28%,+$0,0.0,3.0,-2.0,-1.0,OTTR
+395,D,2010-04-13 10:09:21,2010-04-12,OTTR,Macfarlane John C,Dir,A - Grant,$0.00,3100,86919,+4%,+$0,0.0,3.0,-2.0,-1.0,OTTR
+396,D,2010-04-13 10:02:00,2010-04-12,OTTR,Liebe Arvid R,Dir,A - Grant,$0.00,3100,17719,+21%,+$0,0.0,3.0,-2.0,-1.0,OTTR
+397,,2010-04-13 09:46:42,2010-04-12,OTTR,Bohn Karen,Dir,A - Grant,$0.00,3100,16050,+24%,+$0,0.0,3.0,-2.0,-1.0,OTTR
+398,D,2010-04-12 19:00:19,2010-04-12,OTTR,Macfarlane Charles S,"Pres, Otter Tail Power Co",A - Grant,$0.00,9500,41255,+30%,+$0,0.0,3.0,-3.0,-2.0,OTTR
+399,D,2010-04-12 19:00:19,2010-04-08,OTTR,Macfarlane Charles S,"Pres, Otter Tail Power Co",F - Tax,$21.88,-1407,41255,-3%,"-$30,785",0.0,3.0,-3.0,-2.0,OTTR
+400,D,2010-04-12 19:00:19,2010-04-08,OTTR,Macfarlane Charles S,"Pres, Otter Tail Power Co",M - OptEx,$0.00,4300,41255,+12%,+$0,0.0,3.0,-3.0,-2.0,OTTR
+401,,2010-04-09 18:21:03,2010-04-08,OTTR,Moug Kevin G,"CFO, Treasurer",F - Tax,$21.88,-756,35866,-2%,"-$16,541",-1.0,3.0,-8.0,-2.0,OTTR
+402,,2010-04-09 18:13:54,2010-04-08,OTTR,Molbert Lauris N,"COO, Exec Vice Pres",F - Tax,$21.88,-1496,60978,-2%,"-$32,732",-1.0,3.0,-8.0,-2.0,OTTR
+403,,2010-04-09 18:09:33,2010-04-08,OTTR,Koeck George A,"Corp Secretary, GC",F - Tax,$21.88,-584,14044,-4%,"-$12,778",-1.0,3.0,-8.0,-2.0,OTTR
+404,D,2010-04-09 18:02:17,2010-04-08,OTTR,Erickson John D,"Pres, CEO",F - Tax,$21.88,-1963,108832,-2%,"-$42,950",-1.0,3.0,-8.0,-2.0,OTTR
+405,,2010-04-07 12:25:19,2010-04-06,OTTR,Macfarlane John C,Dir,S - Sale,$22.18,-420,83819,0%,"-$9,316",0.0,-2.0,-2.0,-6.0,OTTR
+406,DM,2010-04-07 12:22:40,2010-04-05,OTTR,Macfarlane John C,Dir,M - OptEx,$19.75,25000,56821,+79%,"+$493,750",0.0,-2.0,-2.0,-6.0,OTTR
+407,DM,2010-04-07 12:22:40,2010-04-05,OTTR,Macfarlane John C,Dir,S - Sale+OE,$22.17,-24580,56821,-30%,"-$545,034",0.0,-2.0,-2.0,-6.0,OTTR
+408,,2010-03-12 12:43:12,2010-03-12,OTTR,Koeck George A,"Corp Secretary, GC",S - Sale,$22.25,-2000,14404,-12%,"-$44,500",0.0,0.0,-2.0,-10.0,OTTR
+409,,2010-03-01 13:56:45,2010-03-01,OTTR,Moug Kevin G,"CFO, Treasurer",S - Sale,$20.35,-3786,36616,-9%,"-$77,040",2.0,4.0,11.0,-4.0,OTTR
+410,,2010-02-19 11:08:41,2010-02-18,OTTR,Molbert Lauris N,"COO, Exec Vice Pres",S - Sale,$20.41,-7698,62471,-11%,"-$157,146",1.0,-2.0,7.0,-4.0,OTTR
+411,D,2010-02-16 16:31:58,2010-02-12,OTTR,Koeck George A,"Corp Secretary, GC",F - Tax,$0.00,-1510,16404,-8%,-$0,-1.0,1.0,9.0,-5.0,OTTR
+412,D,2010-02-16 16:31:58,2010-02-12,OTTR,Koeck George A,"Corp Secretary, GC",M - OptEx,$0.00,4338,16404,+36%,+$0,-1.0,1.0,9.0,-5.0,OTTR
+413,D,2010-02-16 16:22:24,2010-02-12,OTTR,Moug Kevin G,"CFO, Treasurer",F - Tax,$0.00,-1892,40402,-4%,-$0,-1.0,1.0,9.0,-5.0,OTTR
+414,D,2010-02-16 16:22:24,2010-02-12,OTTR,Moug Kevin G,"CFO, Treasurer",M - OptEx,$0.00,5678,40402,+16%,+$0,-1.0,1.0,9.0,-5.0,OTTR
+415,D,2010-02-16 16:14:15,2010-02-12,OTTR,Molbert Lauris N,"COO, Exec Vice Pres",F - Tax,$0.00,-3530,70169,-5%,-$0,-1.0,1.0,9.0,-5.0,OTTR
+416,D,2010-02-16 16:14:15,2010-02-12,OTTR,Molbert Lauris N,"COO, Exec Vice Pres",M - OptEx,$0.00,11228,70169,+19%,+$0,-1.0,1.0,9.0,-5.0,OTTR
+417,D,2010-02-16 16:07:00,2010-02-12,OTTR,Erickson John D,"Pres, CEO",F - Tax,$0.00,-4563,110795,-4%,-$0,-1.0,1.0,9.0,-5.0,OTTR
+418,D,2010-02-16 16:07:00,2010-02-12,OTTR,Erickson John D,"Pres, CEO",M - OptEx,$0.00,13524,110795,+14%,+$0,-1.0,1.0,9.0,-5.0,OTTR
+419,D,2009-12-23 16:06:44,2009-12-21,OTTR,Macfarlane John C,Dir,M - OptEx,$19.75,25000,82443,+44%,"+$493,750",0.0,1.0,-8.0,-21.0,OTTR
+420,D,2009-12-23 16:06:44,2009-12-21,OTTR,Macfarlane John C,Dir,S - Sale+OE,$24.41,-25000,82443,-23%,"-$610,360",0.0,1.0,-8.0,-21.0,OTTR
+421,,2009-12-17 13:08:05,2009-12-16,OTTR,Erickson John D,"Pres, CEO",M - OptEx,$19.75,10000,101834,+11%,"+$197,500",0.0,6.0,3.0,-11.0,OTTR
+422,M,2009-12-17 13:08:05,2009-12-15,OTTR,Erickson John D,"Pres, CEO",S - Sale,$23.41,-12400,101834,-11%,"-$290,326",0.0,6.0,3.0,-11.0,OTTR
+423,D,2009-12-17 13:04:41,2009-12-15,OTTR,Erickson John D,"Pres, CEO",G - Gift,$0.00,-8000,99252,+9%,-$0,0.0,6.0,3.0,-11.0,OTTR
+424,D,2009-12-17 13:04:41,2009-12-15,OTTR,Erickson John D,"Pres, CEO",M - OptEx,$19.75,10000,99252,+11%,"+$197,500",0.0,6.0,3.0,-11.0,OTTR
+425,D,2009-12-17 13:04:41,2009-12-15,OTTR,Erickson John D,"Pres, CEO",S - Sale+OE,$23.48,-11600,99252,-10%,"-$272,364",0.0,6.0,3.0,-11.0,OTTR
+426,,2009-12-08 17:20:03,2009-12-08,OTTR,Koeck George A,"Corp Secretary, GC",S - Sale,$23.49,-2000,13380,-13%,"-$46,973",-1.0,1.0,3.0,-16.0,OTTR
+427,D,2009-11-30 13:42:42,2009-11-27,OTTR,Partain Nathan I,Dir,M - OptEx,$19.75,2000,21757,+10%,"+$39,500",0.0,3.0,8.0,-14.0,OTTR
+428,,2009-11-17 11:14:39,2009-11-16,OTTR,Moug Kevin G,"CFO, Treasurer",G - Gift,$0.00,-700,36592,-2%,-$0,0.0,-3.0,-4.0,-14.0,OTTR
+429,D,2009-08-27 16:02:20,2009-08-26,OTTR,Macfarlane John C,Dir,G - Gift,$0.00,-6,80794,0%,-$0,-2.0,-6.0,0.0,-16.0,OTTR

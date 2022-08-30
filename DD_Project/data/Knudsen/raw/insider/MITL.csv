@@ -1,18 +1,262 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,D,2018-11-13 09:58:24,2018-11-12,MITL,McAnuff Colin Ross,See Remarks,S - Sale+OE,$10.99,-2710,6089,-31%,"-$29,788",,,,,MITL
-1,,2018-11-07 10:23:56,2018-11-06,MITL,McHugh John P,Dir,S - Sale,$10.98,-297,89607,0%,"-$3,260",,,,,MITL
-2,,2018-11-07 10:19:33,2018-11-06,MITL,Matthews Terence H,COB,S - Sale,$10.98,-1322,1825444,0%,"-$14,509",,,,,MITL
-3,,2018-11-07 10:07:03,2018-11-06,MITL,Bejar Martha Helena,Dir,S - Sale,$10.98,-30,18611,0%,-$329,,,,,MITL
-4,,2018-11-07 10:01:43,2018-11-06,MITL,Ball Benjamin,Dir,S - Sale,$10.98,-338,31199,-1%,"-$3,710",,,,,MITL
-5,D,2018-09-10 11:36:38,2018-09-06,MITL,Ball Benjamin,Dir,S - Sale+OE,$10.97,-21250,29875,-42%,"-$233,113",,,,,MITL
-6,D,2018-08-30 16:45:53,2018-08-30,MITL,Charbonneau Peter,Dir,S - Sale+OE,$10.98,-4668,71247,-6%,"-$51,278",,,,,MITL
-7,,2018-08-14 10:21:15,2018-08-13,MITL,Matthews Terence H,COB,S - Sale,$10.97,-1319,1823920,0%,"-$14,473",,,,,MITL
-8,A,2018-08-10 09:41:58,2018-08-06,MITL,Bevington Graham,See Remarks,S - Sale,$11.01,-9375,77957,-11%,"-$103,219",,,,,MITL
-9,D,2018-08-09 10:06:23,2018-08-07,MITL,Bellomo John Anthony,See Remarks,S - Sale+OE,$11.01,-12700,8726,-59%,"-$139,827",,,,,MITL
-10,,2018-08-09 09:51:45,2018-08-07,MITL,Matthews Terence H,COB,S - Sale,$11.01,-1300,1822398,0%,"-$14,313",,,,,MITL
-11,,2018-08-09 09:39:56,2018-08-07,MITL,McCarthy Michael William,See Remarks,S - Sale,$11.01,-63,11576,-1%,-$694,,,,,MITL
-12,,2018-08-09 09:36:40,2018-08-07,MITL,Hiscock Gregory James,See Remarks,S - Sale,$11.01,-119,13325,-1%,"-$1,310",,,,,MITL
-13,D,2018-08-09 09:20:16,2018-08-07,MITL,Charbonneau Peter,Dir,S - Sale+OE,$11.01,-10460,65832,-14%,"-$115,193",,,,,MITL
-14,,2018-08-09 09:05:10,2018-08-07,MITL,Touray Mahawa Vanessa,"SVP, Finance",S - Sale,$11.01,-349,8461,-4%,"-$3,842",,,,,MITL
-15,,2018-08-09 09:02:10,2018-08-07,MITL,Durow Wesley Dean,CMO,S - Sale,$11.01,-1225,31640,-4%,"-$13,487",,,,,MITL
-16,,2018-08-09 08:57:40,2018-08-07,MITL,Abbott Todd,EVP Global Sales,S - Sale,$11.01,-2448,7552,-24%,"-$26,952",,,,,MITL
+0,D,2018-11-13 09:58:24,2018-11-09,MITL,McAnuff Colin Ross,See Remarks,M - OptEx,$0.00,5000,6089,+459%,+$0,,,,,MITL
+1,D,2018-11-13 09:58:24,2018-11-12,MITL,McAnuff Colin Ross,See Remarks,S - Sale+OE,$10.99,-2710,6089,-31%,"-$29,788",,,,,MITL
+2,,2018-11-07 10:23:56,2018-11-06,MITL,McHugh John P,Dir,S - Sale,$10.98,-297,89607,0%,"-$3,260",,,,,MITL
+3,,2018-11-07 10:19:33,2018-11-06,MITL,Matthews Terence H,COB,S - Sale,$10.98,-1322,1825444,0%,"-$14,509",,,,,MITL
+4,,2018-11-07 10:07:03,2018-11-06,MITL,Bejar Martha Helena,Dir,S - Sale,$10.98,-30,18611,0%,-$329,,,,,MITL
+5,,2018-11-07 10:01:43,2018-11-06,MITL,Ball Benjamin,Dir,S - Sale,$10.98,-338,31199,-1%,"-$3,710",,,,,MITL
+6,D,2018-11-02 16:08:42,2018-10-31,MITL,Bejar Martha Helena,Dir,M - OptEx,$0.00,524,18641,+3%,+$0,,,,,MITL
+7,D,2018-11-02 15:23:19,2018-10-31,MITL,McHugh John P,Dir,M - OptEx,$0.00,1548,89904,+2%,+$0,,,,,MITL
+8,D,2018-11-02 15:07:06,2018-10-31,MITL,Matthews Terence H,COB,M - OptEx,$0.00,2846,1826766,0%,+$0,,,,,MITL
+9,D,2018-11-02 14:58:24,2018-10-31,MITL,Ball Benjamin,Dir,M - OptEx,$0.00,1662,31537,+6%,+$0,,,,,MITL
+10,D,2018-09-10 11:36:38,2018-09-06,MITL,Ball Benjamin,Dir,M - OptEx,$3.29,21250,29875,+246%,"+$69,913",,,,,MITL
+11,D,2018-09-10 11:36:38,2018-09-06,MITL,Ball Benjamin,Dir,S - Sale+OE,$10.97,-21250,29875,-42%,"-$233,113",,,,,MITL
+12,D,2018-08-30 16:45:53,2018-08-30,MITL,Charbonneau Peter,Dir,M - OptEx,$3.29,10083,71247,+16%,"+$33,173",,,,,MITL
+13,D,2018-08-30 16:45:53,2018-08-30,MITL,Charbonneau Peter,Dir,S - Sale+OE,$10.98,-4668,71247,-6%,"-$51,278",,,,,MITL
+14,AD,2018-08-20 15:09:43,2018-08-10,MITL,Ball Benjamin,Dir,M - OptEx,$0.00,1659,29875,+6%,+$0,,,,,MITL
+15,D,2018-08-20 14:50:50,2018-08-06,MITL,Ball Benjamin,Dir,M - OptEx,$0.00,1637,28216,+6%,+$0,,,,,MITL
+16,,2018-08-14 10:21:15,2018-08-13,MITL,Matthews Terence H,COB,S - Sale,$10.97,-1319,1823920,0%,"-$14,473",,,,,MITL
+17,D,2018-08-10 19:48:02,2018-08-10,MITL,Ball Benjamin,Dir,M - OptEx,$0.00,1659,28238,+6%,+$0,,,,,MITL
+18,D,2018-08-10 11:23:47,2018-08-09,MITL,Bejar Martha Helena,Dir,M - OptEx,$0.00,523,18117,+3%,+$0,,,,,MITL
+19,D,2018-08-10 11:11:10,2018-08-09,MITL,Matthews Terence H,COB,M - OptEx,$0.00,2841,1825239,0%,+$0,,,,,MITL
+20,D,2018-08-10 11:07:10,2018-08-09,MITL,McHugh John P,Dir,M - OptEx,$0.00,1545,88356,+2%,+$0,,,,,MITL
+21,A,2018-08-10 09:41:58,2018-08-06,MITL,Bevington Graham,See Remarks,S - Sale,$11.01,-9375,77957,-11%,"-$103,219",,,,,MITL
+22,D,2018-08-09 10:06:23,2018-08-07,MITL,Bellomo John Anthony,See Remarks,M - OptEx,$3.92,12000,8726,-367%,"+$47,000",,,,,MITL
+23,D,2018-08-09 10:06:23,2018-08-07,MITL,Bellomo John Anthony,See Remarks,S - Sale+OE,$11.01,-12700,8726,-59%,"-$139,827",,,,,MITL
+24,,2018-08-09 09:51:45,2018-08-07,MITL,Matthews Terence H,COB,S - Sale,$11.01,-1300,1822398,0%,"-$14,313",,,,,MITL
+25,,2018-08-09 09:39:56,2018-08-07,MITL,McCarthy Michael William,See Remarks,S - Sale,$11.01,-63,11576,-1%,-$694,,,,,MITL
+26,,2018-08-09 09:36:40,2018-08-07,MITL,Hiscock Gregory James,See Remarks,S - Sale,$11.01,-119,13325,-1%,"-$1,310",,,,,MITL
+27,D,2018-08-09 09:20:16,2018-08-07,MITL,Charbonneau Peter,Dir,M - OptEx,$4.00,20441,65832,+45%,"+$81,764",,,,,MITL
+28,D,2018-08-09 09:20:16,2018-08-07,MITL,Charbonneau Peter,Dir,S - Sale+OE,$11.01,-10460,65832,-14%,"-$115,193",,,,,MITL
+29,,2018-08-09 09:05:10,2018-08-07,MITL,Touray Mahawa Vanessa,"SVP, Finance",S - Sale,$11.01,-349,8461,-4%,"-$3,842",,,,,MITL
+30,,2018-08-09 09:02:10,2018-08-07,MITL,Durow Wesley Dean,CMO,S - Sale,$11.01,-1225,31640,-4%,"-$13,487",,,,,MITL
+31,,2018-08-09 08:57:40,2018-08-07,MITL,Abbott Todd,EVP Global Sales,S - Sale,$11.01,-2448,7552,-24%,"-$26,952",,,,,MITL
+32,D,2018-08-08 15:55:17,2018-08-06,MITL,Bejar Martha Helena,Dir,M - OptEx,$11.01,516,17594,+3%,"+$5,681",,,,,MITL
+33,D,2018-08-08 15:16:13,2018-08-06,MITL,Bellomo John Anthony,See Remarks,M - OptEx,$11.01,1500,9426,+19%,"+$16,515",,,,,MITL
+34,D,2018-08-08 15:07:54,2018-08-06,MITL,McHugh John P,Dir,M - OptEx,$11.01,1525,86811,+2%,"+$16,790",,,,,MITL
+35,D,2018-08-08 14:57:50,2018-08-06,MITL,Matthews Terence H,COB,M - OptEx,$11.01,2803,1823698,0%,"+$30,861",,,,,MITL
+36,D,2018-08-08 14:47:30,2018-08-06,MITL,Abbott Todd,EVP Global Sales,M - OptEx,$0.00,10000,10000,New,+$0,,,,,MITL
+37,D,2018-08-08 14:41:57,2018-08-06,MITL,McCarthy Michael William,See Remarks,M - OptEx,$11.01,250,11639,+2%,"+$2,753",,,,,MITL
+38,D,2018-08-08 14:37:32,2018-08-06,MITL,Touray Mahawa Vanessa,"SVP, Finance",M - OptEx,$11.01,750,8810,+9%,"+$8,258",,,,,MITL
+39,D,2018-08-08 14:33:13,2018-08-06,MITL,Hiscock Gregory James,See Remarks,M - OptEx,$11.01,250,13444,+2%,"+$2,753",,,,,MITL
+40,D,2018-08-08 14:27:17,2018-08-06,MITL,Bevington Graham,See Remarks,M - OptEx,$4.00,9375,87332,+12%,"+$37,500",,,,,MITL
+41,D,2018-08-08 14:21:28,2018-08-06,MITL,Durow Wesley Dean,CMO,M - OptEx,$11.01,5000,32865,+18%,"+$55,050",,,,,MITL
+42,D,2018-03-15 09:48:48,2018-03-14,MITL,Touray Mahawa Vanessa,"SVP, Finance",F - Tax,$8.70,-119,8060,-1%,"-$1,035",,,,,MITL
+43,D,2018-03-15 09:48:48,2018-03-13,MITL,Touray Mahawa Vanessa,"SVP, Finance",M - OptEx,$0.00,250,8060,+3%,+$0,,,,,MITL
+44,,2018-03-09 16:01:34,2018-03-07,MITL,Matthews Terence H,COB,S - Sale,$8.14,-843397,1820895,-32%,"-$6,865,252",,,,,MITL
+45,D,2018-03-07 17:26:46,2018-03-05,MITL,Spooner Steven Edward,CFO,M - OptEx,$0.00,57075,245504,+30%,+$0,,,,,MITL
+46,D,2018-03-07 17:26:46,2018-03-06,MITL,Spooner Steven Edward,CFO,S - Sale+OE,$8.01,-26762,245504,-10%,"-$214,326",,,,,MITL
+47,D,2018-03-07 16:12:57,2018-03-05,MITL,McCarthy Michael William,See Remarks,M - OptEx,$0.00,3562,11389,+46%,+$0,,,,,MITL
+48,D,2018-03-07 16:12:57,2018-03-06,MITL,McCarthy Michael William,See Remarks,S - Sale+OE,$8.01,-1080,11389,-9%,"-$8,649",,,,,MITL
+49,D,2018-03-07 15:51:48,2018-03-05,MITL,McBee Richard D,See Remarks,M - OptEx,$0.00,115687,402035,+40%,+$0,,,,,MITL
+50,D,2018-03-07 15:51:48,2018-03-06,MITL,McBee Richard D,See Remarks,S - Sale+OE,$8.01,-46047,402035,-10%,"-$368,772",,,,,MITL
+51,D,2018-03-07 15:25:30,2018-03-05,MITL,Lokar Thomas Gerald,CHRO,M - OptEx,$0.00,25063,23757,-1919%,+$0,,,,,MITL
+52,D,2018-03-07 15:25:30,2018-03-06,MITL,Lokar Thomas Gerald,CHRO,S - Sale+OE,$8.01,-6887,23757,-22%,"-$55,152",,,,,MITL
+53,D,2018-03-07 15:20:39,2018-03-05,MITL,Touray Mahawa Vanessa,"SVP, Finance",M - OptEx,$0.00,2525,7929,+47%,+$0,,,,,MITL
+54,D,2018-03-07 15:20:39,2018-03-06,MITL,Touray Mahawa Vanessa,"SVP, Finance",S - Sale+OE,$8.01,-1190,7929,-13%,"-$9,530",,,,,MITL
+55,D,2018-03-07 15:16:51,2018-03-05,MITL,Hiscock Gregory James,See Remarks,M - OptEx,$0.00,6100,16194,+60%,+$0,,,,,MITL
+56,D,2018-03-07 15:16:51,2018-03-06,MITL,Hiscock Gregory James,See Remarks,S - Sale+OE,$8.01,-2866,16194,-15%,"-$22,953",,,,,MITL
+57,D,2018-03-07 15:10:40,2018-03-05,MITL,Durow Wesley Dean,CMO,M - OptEx,$0.00,10125,27865,+57%,+$0,,,,,MITL
+58,D,2018-03-07 15:10:40,2018-03-06,MITL,Durow Wesley Dean,CMO,S - Sale+OE,$8.01,-2609,27865,-9%,"-$20,894",,,,,MITL
+59,D,2018-03-07 15:04:21,2018-03-05,MITL,Brinton Jon,See Remarks,M - OptEx,$0.00,20000,80717,+33%,+$0,,,,,MITL
+60,D,2018-03-07 15:04:21,2018-03-06,MITL,Brinton Jon,See Remarks,S - Sale+OE,$8.01,-5997,80717,-7%,"-$48,028",,,,,MITL
+61,D,2018-03-07 14:45:30,2018-03-05,MITL,Bevington Graham,See Remarks,M - OptEx,$0.00,34400,77957,+79%,+$0,,,,,MITL
+62,D,2018-03-07 14:45:30,2018-03-06,MITL,Bevington Graham,See Remarks,S - Sale+OE,$8.01,-8605,77957,-10%,"-$68,914",,,,,MITL
+63,AD,2018-03-07 14:05:37,2018-03-05,MITL,Bellomo John Anthony,See Remarks,M - OptEx,$0.00,775,7499,+12%,+$0,,,,,MITL
+64,D,2018-03-07 13:04:26,2018-03-05,MITL,Bellomo John Anthony,See Remarks,M - OptEx,$0.00,2275,7926,+40%,+$0,,,,,MITL
+65,D,2018-03-07 13:04:26,2018-03-06,MITL,Bellomo John Anthony,See Remarks,S - Sale+OE,$8.01,-1073,7926,-12%,"-$8,593",,,,,MITL
+66,D,2018-03-07 12:46:26,2018-03-06,MITL,Agnes Robert Dale,See Remarks,S - Sale+OE,$8.01,-5071,29692,-15%,"-$40,612",,,,,MITL
+67,M,2018-03-06 14:15:04,2018-03-02,MITL,Matthews Terence H,COB,S - Sale,$8.17,-158432,2664292,-6%,"-$1,295,104",,,,,MITL
+68,D,2018-03-06 10:31:05,2018-03-05,MITL,Agnes Robert Dale,See Remarks,M - OptEx,$0.00,15050,34763,+76%,+$0,,,,,MITL
+69,D,2018-03-05 19:41:50,2018-03-02,MITL,Matthews Terence H,COB,M - OptEx,$0.00,3820,2822724,0%,+$0,,,,,MITL
+70,D,2018-03-05 19:37:08,2018-03-02,MITL,McHugh John P,Dir,M - OptEx,$0.00,2078,85286,+2%,+$0,,,,,MITL
+71,D,2018-03-05 19:04:15,2018-03-02,MITL,Bejar Martha Helena,Dir,M - OptEx,$0.00,1039,17668,+6%,+$0,,,,,MITL
+72,D,2018-03-05 18:24:54,2018-03-01,MITL,Pethakas Stavros,VP Global Tax,M - OptEx,$0.00,3125,1396,-181%,+$0,,,,,MITL
+73,D,2018-03-05 18:24:54,2018-03-02,MITL,Pethakas Stavros,VP Global Tax,S - Sale+OE,$8.03,-1729,1396,-55%,"-$13,880",,,,,MITL
+74,D,2018-03-05 18:16:50,2018-03-01,MITL,Brinton Jon,See Remarks,M - OptEx,$0.00,8000,46714,+21%,+$0,,,,,MITL
+75,D,2018-03-05 18:16:50,2018-03-02,MITL,Brinton Jon,See Remarks,S - Sale+OE,$8.03,-2364,46714,-5%,"-$18,978",,,,,MITL
+76,D,2018-03-05 18:12:16,2018-03-01,MITL,Bevington Graham,See Remarks,M - OptEx,$0.00,8000,52162,+18%,+$0,,,,,MITL
+77,D,2018-03-05 18:12:16,2018-03-02,MITL,Bevington Graham,See Remarks,S - Sale+OE,$8.03,-2433,52162,-4%,"-$19,532",,,,,MITL
+78,D,2018-03-05 18:05:40,2018-03-01,MITL,Hiscock Gregory James,See Remarks,M - OptEx,$0.00,6250,9960,+168%,+$0,,,,,MITL
+79,D,2018-03-05 18:05:40,2018-03-02,MITL,Hiscock Gregory James,See Remarks,S - Sale+OE,$8.03,-2955,9960,-23%,"-$23,722",,,,,MITL
+80,D,2018-03-05 17:59:25,2018-03-01,MITL,Touray Mahawa Vanessa,"SVP, Finance",M - OptEx,$0.00,12500,6594,-212%,+$0,,,,,MITL
+81,D,2018-03-05 17:59:25,2018-03-02,MITL,Touray Mahawa Vanessa,"SVP, Finance",S - Sale+OE,$8.03,-5906,6594,-47%,"-$47,413",,,,,MITL
+82,D,2018-03-05 17:17:29,2018-03-01,MITL,McCarthy Michael William,See Remarks,M - OptEx,$0.00,3750,8907,+73%,+$0,,,,,MITL
+83,D,2018-03-05 17:17:29,2018-03-02,MITL,McCarthy Michael William,See Remarks,S - Sale+OE,$8.03,-1142,8907,-11%,"-$9,168",,,,,MITL
+84,D,2018-03-05 17:11:31,2018-03-01,MITL,McAnuff Colin Ross,See Remarks,M - OptEx,$0.00,3375,3799,+796%,+$0,,,,,MITL
+85,D,2018-03-05 17:11:31,2018-03-02,MITL,McAnuff Colin Ross,See Remarks,S - Sale+OE,$8.03,-1867,3799,-33%,"-$14,988",,,,,MITL
+86,D,2018-03-05 17:01:39,2018-03-01,MITL,McBee Richard D,See Remarks,M - OptEx,$0.00,54250,332395,+20%,+$0,,,,,MITL
+87,D,2018-03-05 17:01:39,2018-03-02,MITL,McBee Richard D,See Remarks,S - Sale+OE,$8.03,-20436,332395,-6%,"-$164,056",,,,,MITL
+88,D,2018-03-05 16:57:17,2018-03-01,MITL,Durow Wesley Dean,CMO,M - OptEx,$0.00,8000,20349,+65%,+$0,,,,,MITL
+89,D,2018-03-05 16:57:17,2018-03-02,MITL,Durow Wesley Dean,CMO,S - Sale+OE,$8.03,-2433,20349,-11%,"-$19,532",,,,,MITL
+90,D,2018-03-05 16:46:34,2018-03-01,MITL,Lokar Thomas Gerald,CHRO,M - OptEx,$0.00,8000,5581,-331%,+$0,,,,,MITL
+91,D,2018-03-05 16:46:34,2018-03-02,MITL,Lokar Thomas Gerald,CHRO,S - Sale+OE,$8.03,-2419,5581,-30%,"-$19,419",,,,,MITL
+92,D,2018-03-05 16:41:39,2018-03-01,MITL,Spooner Steven Edward,CFO,M - OptEx,$0.00,16750,215191,+8%,+$0,,,,,MITL
+93,D,2018-03-05 16:41:39,2018-03-02,MITL,Spooner Steven Edward,CFO,S - Sale+OE,$8.03,-7913,215191,-4%,"-$63,524",,,,,MITL
+94,D,2018-03-05 15:36:36,2018-03-01,MITL,Bellomo John Anthony,See Remarks,M - OptEx,$0.00,6250,6724,>999%,+$0,,,,,MITL
+95,D,2018-03-05 15:36:36,2018-03-02,MITL,Bellomo John Anthony,See Remarks,S - Sale+OE,$8.03,-2955,6724,-31%,"-$23,723",,,,,MITL
+96,D,2018-03-05 15:26:48,2018-03-01,MITL,Agnes Robert Dale,See Remarks,M - OptEx,$0.00,8750,19713,+80%,+$0,,,,,MITL
+97,D,2018-03-05 15:26:48,2018-03-02,MITL,Agnes Robert Dale,See Remarks,S - Sale+OE,$8.03,-3464,19713,-15%,"-$27,809",,,,,MITL
+98,D,2018-03-02 11:25:30,2018-02-28,MITL,Bejar Martha Helena,Dir,M - OptEx,$0.00,14500,16039,+942%,+$0,,,,,MITL
+99,D,2018-03-02 11:25:30,2018-03-01,MITL,Bejar Martha Helena,Dir,S - Sale+OE,$8.14,-590,16039,-4%,"-$4,805",,,,,MITL
+100,D,2018-03-01 15:11:34,2018-02-28,MITL,Brinton Jon,See Remarks,M - OptEx,$4.22,30000,41078,+271%,"+$126,600",,,,,MITL
+101,D,2018-03-01 15:11:34,2018-02-28,MITL,Brinton Jon,See Remarks,S - Sale+OE,$8.19,-20469,41078,-33%,"-$167,742",,,,,MITL
+102,D,2018-02-28 15:41:20,2018-02-26,MITL,Williams David M,Dir,M - OptEx,$0.00,14500,229930,+7%,+$0,,,,,MITL
+103,D,2018-02-28 15:41:20,2018-02-27,MITL,Williams David M,Dir,S - Sale+OE,$8.40,-6870,229930,-3%,"-$57,675",,,,,MITL
+104,D,2018-02-28 15:27:28,2018-02-26,MITL,Spooner Steven Edward,CFO,M - OptEx,$0.00,8650,206354,+4%,+$0,,,,,MITL
+105,D,2018-02-28 15:27:28,2018-02-27,MITL,Spooner Steven Edward,CFO,S - Sale+OE,$8.40,-4100,206354,-2%,"-$34,420",,,,,MITL
+106,D,2018-02-28 15:21:55,2018-02-26,MITL,Ramakrishna Sudhakar,Dir,M - OptEx,$0.00,14500,30708,+89%,+$0,,,,,MITL
+107,D,2018-02-28 15:21:55,2018-02-27,MITL,Ramakrishna Sudhakar,Dir,S - Sale+OE,$8.40,-445,30708,-1%,"-$3,736",,,,,MITL
+108,D,2018-02-28 14:17:03,2018-02-26,MITL,McHugh John P,Dir,M - OptEx,$8.58,14500,83208,+21%,"+$124,410",,,,,MITL
+109,D,2018-02-28 14:17:03,2018-02-27,MITL,McHugh John P,Dir,S - Sale+OE,$8.40,-1002,83208,-1%,"-$8,412",,,,,MITL
+110,D,2018-02-28 14:10:38,2018-02-26,MITL,McCarthy Michael William,See Remarks,M - OptEx,$0.00,875,6299,+16%,+$0,,,,,MITL
+111,D,2018-02-28 14:10:38,2018-02-27,MITL,McCarthy Michael William,See Remarks,S - Sale+OE,$8.40,-270,6299,-4%,"-$2,267",,,,,MITL
+112,D,2018-02-28 14:01:21,2018-02-26,MITL,McBee Richard D,See Remarks,M - OptEx,$0.00,28850,298581,+11%,+$0,,,,,MITL
+113,D,2018-02-28 14:01:21,2018-02-27,MITL,McBee Richard D,See Remarks,S - Sale+OE,$8.40,-7916,298581,-3%,"-$66,456",,,,,MITL
+114,D,2018-02-28 13:57:17,2018-02-26,MITL,Matthews Terence H,COB,M - OptEx,$0.00,14500,2818904,+1%,+$0,,,,,MITL
+115,D,2018-02-28 13:57:17,2018-02-27,MITL,Matthews Terence H,COB,S - Sale+OE,$8.40,-6870,2818904,0%,"-$57,675",,,,,MITL
+116,D,2018-02-28 13:47:26,2018-02-26,MITL,Hiscock Gregory James,See Remarks,M - OptEx,$0.00,1150,6665,+21%,+$0,,,,,MITL
+117,D,2018-02-28 13:47:26,2018-02-27,MITL,Hiscock Gregory James,See Remarks,S - Sale+OE,$8.40,-548,6665,-8%,"-$4,601",,,,,MITL
+118,D,2018-02-28 13:34:32,2018-02-26,MITL,Bevington Graham,See Remarks,M - OptEx,$0.00,2875,46595,+7%,+$0,,,,,MITL
+119,D,2018-02-28 13:34:32,2018-02-27,MITL,Bevington Graham,See Remarks,S - Sale+OE,$8.40,-880,46595,-2%,"-$7,388",,,,,MITL
+120,D,2018-02-28 13:28:16,2018-02-26,MITL,Charbonneau Peter,Dir,M - OptEx,$0.00,14500,55851,+35%,+$0,,,,,MITL
+121,D,2018-02-28 13:28:16,2018-02-27,MITL,Charbonneau Peter,Dir,S - Sale+OE,$8.40,-6870,55851,-11%,"-$57,675",,,,,MITL
+122,D,2018-02-28 13:11:25,2018-02-26,MITL,Brinton Jon,See Remarks,M - OptEx,$0.00,2875,31547,+10%,+$0,,,,,MITL
+123,D,2018-02-28 13:11:25,2018-02-27,MITL,Brinton Jon,See Remarks,S - Sale+OE,$8.40,-1030,31547,-3%,"-$8,647",,,,,MITL
+124,M,2017-12-08 09:50:11,2017-12-06,MITL,Matthews Terence H,COB,D - Sale to issuer,$7.19,-1000000,2811274,-26%,"-$7,193,245",,,,,MITL
+125,D,2017-11-14 11:51:09,2017-11-10,MITL,McHugh John P,Dir,M - OptEx,$0.00,2133,69710,+3%,+$0,,,,,MITL
+126,D,2017-11-14 11:51:09,2017-11-13,MITL,McHugh John P,Dir,S - Sale+OE,$7.94,-657,69710,-1%,"-$5,218",,,,,MITL
+127,D,2017-11-14 11:46:40,2017-11-13,MITL,Bejar Martha Helena,Dir,D - Sale to issuer,$7.94,-496,2129,-19%,"-$3,940",,,,,MITL
+128,D,2017-11-14 11:46:40,2017-11-13,MITL,Bejar Martha Helena,Dir,M - OptEx,$0.00,1145,2129,+116%,+$0,,,,,MITL
+129,D,2017-11-14 10:34:29,2017-11-10,MITL,Matthews Terence H,COB,M - OptEx,$0.00,3921,3811274,0%,+$0,,,,,MITL
+130,D,2017-11-14 10:34:29,2017-11-13,MITL,Matthews Terence H,COB,S - Sale+OE,$7.94,-1878,3811274,0%,"-$14,916",,,,,MITL
+131,D,2017-11-13 11:09:36,2017-11-09,MITL,McAnuff Colin Ross,See Remarks,M - OptEx,$0.00,5000,2291,-185%,+$0,,,,,MITL
+132,D,2017-11-13 11:09:36,2017-11-10,MITL,McAnuff Colin Ross,See Remarks,S - Sale+OE,$7.99,-2709,2291,-54%,"-$21,631",,,,,MITL
+133,,2017-11-09 09:57:18,2017-11-08,MITL,McBee Richard D,See Remarks,P - Purchase,$8.00,10000,277647,+4%,"+$79,998",,,,,MITL
+134,D,2017-11-08 12:38:53,2017-11-06,MITL,Brinton Jon,See Remarks,D - Sale to issuer,$8.39,-30000,29702,-50%,"-$251,745",,,,,MITL
+135,D,2017-11-08 12:38:53,2017-11-06,MITL,Brinton Jon,See Remarks,M - OptEx,$3.80,30000,29702,-10067%,"+$114,000",,,,,MITL
+136,D,2017-10-04 11:40:28,2017-10-02,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$8.39,-52750,267647,-16%,"-$442,573",,,,,MITL
+137,D,2017-10-04 11:40:28,2017-10-02,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,52750,267647,+25%,"+$272,190",,,,,MITL
+138,D,2017-09-28 18:11:02,2017-09-27,MITL,"Elliott International, L.P.",10%,S - Sale+OE,$8.26,-301496,7941547,-4%,"-$2,488,849",,,,,MITL
+139,DM,2017-09-28 18:08:04,2017-09-26,MITL,"Elliott Associates, L.P.",10%,S - Sale+OE,$8.25,-350475,7736256,-4%,"-$2,892,651",,,,,MITL
+140,D,2017-09-27 11:18:14,2017-09-26,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$8.20,-47500,267647,-15%,"-$389,500",,,,,MITL
+141,D,2017-09-27 11:18:14,2017-09-26,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,47500,267647,+22%,"+$245,100",,,,,MITL
+142,DM,2017-09-26 09:59:53,2017-09-22,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$8.07,-132500,267647,-33%,"-$1,068,800",,,,,MITL
+143,DM,2017-09-26 09:59:53,2017-09-22,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,132500,267647,+98%,"+$683,700",,,,,MITL
+144,D,2017-09-20 09:45:56,2017-09-19,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$7.94,-25000,267647,-9%,"-$198,500",,,,,MITL
+145,D,2017-09-20 09:45:56,2017-09-19,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,25000,267647,+10%,"+$129,000",,,,,MITL
+146,D,2017-09-19 18:50:56,2017-09-15,MITL,"Elliott Associates, L.P.",10%,S - Sale+OE,$8.25,-150800,4087674,-4%,"-$1,244,485",,,,,MITL
+147,D,2017-09-19 11:02:09,2017-09-18,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$8.07,-55000,267647,-17%,"-$443,850",,,,,MITL
+148,D,2017-09-19 11:02:09,2017-09-18,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,55000,267647,+26%,"+$283,800",,,,,MITL
+149,D,2017-09-15 09:52:51,2017-09-14,MITL,Hiscock Gregory James,See Remarks,M - OptEx,$3.80,625,6063,+11%,"+$2,375",,,,,MITL
+150,D,2017-09-15 09:52:51,2017-09-14,MITL,Hiscock Gregory James,See Remarks,S - Sale+OE,$8.14,-3125,6063,-34%,"-$25,439",,,,,MITL
+151,D,2017-09-14 16:35:52,2017-09-12,MITL,"Elliott Associates, L.P.",10%,S - Sale+OE,$8.15,-25000,3976106,-1%,"-$203,818",,,,,MITL
+152,DM,2017-09-13 11:40:11,2017-09-11,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$8.03,-130000,267647,-33%,"-$1,044,400",,,,,MITL
+153,DM,2017-09-13 11:40:11,2017-09-11,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,130000,267647,+94%,"+$670,800",,,,,MITL
+154,D,2017-09-07 11:28:03,2017-09-06,MITL,Charbonneau Peter,Dir,M - OptEx,$6.50,32668,48221,+210%,"+$212,342",,,,,MITL
+155,D,2017-09-07 11:28:03,2017-09-06,MITL,Charbonneau Peter,Dir,S - Sale+OE,$8.02,-32668,48221,-40%,"-$262,128",,,,,MITL
+156,D,2017-09-06 16:20:46,2017-09-01,MITL,"Elliott Associates, L.P.",10%,S - Sale+OE,$8.26,-50000,4001106,-1%,"-$412,940",,,,,MITL
+157,D,2017-09-06 11:54:39,2017-09-05,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$8.13,-130000,267647,-33%,"-$1,056,900",,,,,MITL
+158,D,2017-09-06 11:54:39,2017-09-05,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,130000,267647,+94%,"+$670,800",,,,,MITL
+159,D,2017-09-05 14:27:54,2017-09-01,MITL,McHugh John P,Dir,M - OptEx,$3.25,19438,68234,+40%,"+$63,264",,,,,MITL
+160,D,2017-09-05 14:27:54,2017-09-01,MITL,McHugh John P,Dir,S - Sale+OE,$8.21,-8136,68234,-11%,"-$66,762",,,,,MITL
+161,D,2017-08-30 16:46:27,2017-08-28,MITL,"Elliott Associates, L.P.",10%,S - Sale+OE,$8.25,-1000,4051106,0%,"-$8,250",,,,,MITL
+162,D,2017-08-29 11:09:59,2017-08-28,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$8.20,-130000,267647,-33%,"-$1,066,000",,,,,MITL
+163,D,2017-08-29 11:09:59,2017-08-28,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,130000,267647,+94%,"+$670,800",,,,,MITL
+164,DM,2017-08-25 19:01:13,2017-08-23,MITL,"Elliott Associates, L.P.",10%,S - Sale+OE,$8.29,-154184,8130212,-2%,"-$1,278,460",,,,,MITL
+165,D,2017-08-25 18:59:37,2017-08-23,MITL,"Elliott International, L.P.",10%,S - Sale+OE,$8.30,-192277,7849492,-2%,"-$1,595,917",,,,,MITL
+166,D,2017-08-24 16:37:48,2017-08-22,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$8.13,-21300,267647,-7%,"-$173,158",,,,,MITL
+167,D,2017-08-24 16:37:48,2017-08-22,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,21300,267647,+9%,"+$109,908",,,,,MITL
+168,D,2017-08-23 09:59:29,2017-08-22,MITL,Lokar Thomas Gerald,CHRO,M - OptEx,$7.17,6000,0,-100%,"+$43,020",,,,,MITL
+169,D,2017-08-23 09:59:29,2017-08-22,MITL,Lokar Thomas Gerald,CHRO,S - Sale+OE,$8.20,-6000,0,-100%,"-$49,200",,,,,MITL
+170,D,2017-08-22 11:42:49,2017-08-21,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$8.12,-108700,267647,-29%,"-$882,644",,,,,MITL
+171,D,2017-08-22 11:42:49,2017-08-21,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,108700,267647,+68%,"+$560,892",,,,,MITL
+172,D,2017-08-22 11:27:16,2017-08-21,MITL,Touray Mahawa Vanessa,"SVP, Finance",M - OptEx,$3.88,8063,0,-100%,"+$31,252",,,,,MITL
+173,D,2017-08-22 11:27:16,2017-08-21,MITL,Touray Mahawa Vanessa,"SVP, Finance",S - Sale+OE,$8.09,-10933,0,-100%,"-$88,415",,,,,MITL
+174,,2017-08-21 10:47:47,2017-08-17,MITL,Matthews Terence H,COB,D - Sale to issuer,$8.34,-50000,3809231,-1%,"-$417,000",,,,,MITL
+175,M,2017-08-17 10:23:03,2017-08-15,MITL,Matthews Terence H,COB,D - Sale to issuer,$8.17,-950000,3859231,-20%,"-$7,757,060",,,,,MITL
+176,,2017-08-15 13:00:03,2017-08-14,MITL,Matthews Terence H,COB,D - Sale to issuer,$8.21,-200000,4809231,-4%,"-$1,641,300",,,,,MITL
+177,D,2017-08-15 12:47:48,2017-08-14,MITL,McBee Richard D,See Remarks,D - Sale to issuer,$8.21,-130000,267647,-33%,"-$1,067,300",,,,,MITL
+178,D,2017-08-15 12:47:48,2017-08-14,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,130000,267647,+94%,"+$670,800",,,,,MITL
+179,D,2017-08-11 08:58:02,2017-08-09,MITL,Matthews Terence H,COB,M - OptEx,$8.69,3600,5009231,0%,"+$31,284",,,,,MITL
+180,D,2017-08-11 08:58:02,2017-08-10,MITL,Matthews Terence H,COB,S - Sale+OE,$8.24,-1762,5009231,0%,"-$14,527",,,,,MITL
+181,D,2017-08-10 15:36:22,2017-08-09,MITL,McHugh John P,Dir,M - OptEx,$8.69,1959,56932,+4%,"+$17,024",,,,,MITL
+182,D,2017-08-10 15:03:48,2017-08-09,MITL,Bejar Martha Helena,Dir,M - OptEx,$4.35,2102,1480,-338%,"+$9,133",,,,,MITL
+183,,2017-08-10 09:23:47,2017-08-09,MITL,Matthews Terence H,COB,S - Sale,$8.32,-450000,5007393,-8%,"-$3,743,415",,,,,MITL
+184,,2017-08-09 13:49:06,2017-08-08,MITL,Matthews Terence H,COB,S - Sale,$8.35,-350000,5457393,-6%,"-$2,923,200",,,,,MITL
+185,D,2017-08-09 11:45:41,2017-08-07,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,130000,267647,+94%,"+$670,800",,,,,MITL
+186,D,2017-08-09 11:45:41,2017-08-07,MITL,McBee Richard D,See Remarks,S - Sale+OE,$8.64,-130000,267647,-33%,"-$1,123,200",,,,,MITL
+187,,2017-08-09 11:17:26,2017-08-07,MITL,Touray Mahawa Vanessa,"SVP, Finance",M - OptEx,$8.69,750,2503,+43%,"+$6,518",,,,,MITL
+188,,2017-08-09 11:17:26,2017-08-08,MITL,Touray Mahawa Vanessa,"SVP, Finance",S - Sale,$8.51,-358,2503,-13%,"-$3,046",,,,,MITL
+189,,2017-08-09 11:13:07,2017-08-07,MITL,Bellomo John Anthony,See Remarks,M - OptEx,$8.69,1250,4204,+42%,"+$10,863",,,,,MITL
+190,,2017-08-09 11:13:07,2017-08-08,MITL,Bellomo John Anthony,See Remarks,S - Sale,$8.51,-595,4204,-12%,"-$5,062",,,,,MITL
+191,,2017-08-09 11:03:16,2017-08-07,MITL,Lokar Thomas Gerald,CHRO,S - Sale,$8.64,-18736,0,-100%,"-$161,891",,,,,MITL
+192,D,2017-08-09 10:49:05,2017-08-07,MITL,Brinton Jon,See Remarks,M - OptEx,$4.00,20000,29702,+206%,"+$80,000",,,,,MITL
+193,D,2017-08-09 10:49:05,2017-08-07,MITL,Brinton Jon,See Remarks,S - Sale+OE,$8.57,-35811,29702,-55%,"-$307,078",,,,,MITL
+194,D,2017-08-02 10:00:58,2017-07-31,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,130000,267647,+94%,"+$670,800",,,,,MITL
+195,D,2017-08-02 10:00:58,2017-07-31,MITL,McBee Richard D,See Remarks,S - Sale+OE,$8.35,-130000,267647,-33%,"-$1,085,500",,,,,MITL
+196,D,2017-07-31 12:14:19,2017-07-28,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,50000,267647,+23%,"+$258,000",,,,,MITL
+197,D,2017-07-31 12:14:19,2017-07-28,MITL,McBee Richard D,See Remarks,S - Sale+OE,$8.14,-50000,267647,-16%,"-$407,000",,,,,MITL
+198,D,2017-07-25 10:29:09,2017-07-24,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,80000,267647,+43%,"+$412,800",,,,,MITL
+199,D,2017-07-25 10:29:09,2017-07-24,MITL,McBee Richard D,See Remarks,S - Sale+OE,$7.26,-80000,267647,-23%,"-$580,800",,,,,MITL
+200,D,2017-07-19 12:29:18,2017-07-17,MITL,McBee Richard D,See Remarks,M - OptEx,$5.16,55000,267647,+26%,"+$283,800",,,,,MITL
+201,D,2017-07-19 12:29:18,2017-07-17,MITL,McBee Richard D,See Remarks,S - Sale+OE,$7.07,-55000,267647,-17%,"-$388,718",,,,,MITL
+202,,2017-06-12 10:03:01,2017-06-09,MITL,Williams David M,Dir,P - Purchase,$7.51,10000,222300,+5%,"+$75,110",,,,,MITL
+203,D,2017-06-12 09:48:49,2017-06-08,MITL,Hiscock Gregory James,See Remarks,M - OptEx,$3.80,3750,8563,+78%,"+$14,250",,,,,MITL
+204,D,2017-06-12 09:48:49,2017-06-08,MITL,Hiscock Gregory James,See Remarks,S - Sale+OE,$7.34,-3750,8563,-30%,"-$27,533",,,,,MITL
+205,,2017-05-26 16:14:26,2017-05-24,MITL,Matthews Terence H,COB,S - Sale,$7.08,-971900,5807393,-14%,"-$6,881,052",,,,,MITL
+206,D,2017-05-23 13:15:25,2017-05-19,MITL,Touray Mahawa Vanessa,"SVP, Finance",M - OptEx,$0.00,250,2238,+13%,+$0,,,,,MITL
+207,D,2017-05-23 13:15:25,2017-05-19,MITL,Touray Mahawa Vanessa,"SVP, Finance",S - Sale+OE,$6.59,-127,2238,-5%,-$837,,,,,MITL
+208,D,2017-05-17 10:18:23,2017-05-15,MITL,Durow Wesley Dean,CMO,M - OptEx,$6.53,5000,14782,+51%,"+$32,650",,,,,MITL
+209,D,2017-05-17 10:18:23,2017-05-16,MITL,Durow Wesley Dean,CMO,S - Sale+OE,$6.77,-1334,14782,-8%,"-$9,037",,,,,MITL
+210,D,2017-05-16 14:16:38,2017-05-12,MITL,McHugh John P,Dir,M - OptEx,$0.00,3207,54973,+6%,+$0,,,,,MITL
+211,D,2017-05-16 12:26:33,2017-05-12,MITL,Matthews Terence H,COB,C - Converted deriv,$0.00,5012,6779293,0%,$0,,,,,MITL
+212,D,2017-05-16 12:26:33,2017-05-15,MITL,Matthews Terence H,COB,S - Sale+OE,$6.60,-2245,6779293,0%,"-$14,817",,,,,MITL
+213,D,2017-05-16 10:27:23,2017-05-12,MITL,Bejar Martha Helena,Dir,C - Converted deriv,$0.00,429,429,-50%,$0,,,,,MITL
+214,D,2017-03-13 12:32:42,2017-03-09,MITL,Bevington Graham,See Remarks,M - OptEx,$6.50,34400,44600,+337%,"+$223,600",-1.0,0.0,-3.0,,MITL
+215,D,2017-03-13 12:32:42,2017-03-10,MITL,Bevington Graham,See Remarks,S - Sale+OE,$6.95,-8872,44600,-17%,"-$61,675",-1.0,0.0,-3.0,,MITL
+216,D,2017-03-13 12:29:15,2017-03-09,MITL,Touray Mahawa Vanessa,"SVP, Finance",M - OptEx,$6.50,2525,1988,-470%,"+$16,413",-1.0,0.0,-3.0,,MITL
+217,D,2017-03-13 12:29:15,2017-03-10,MITL,Touray Mahawa Vanessa,"SVP, Finance",S - Sale+OE,$6.95,-1103,1988,-36%,"-$7,668",-1.0,0.0,-3.0,,MITL
+218,D,2017-03-13 12:27:05,2017-03-09,MITL,Hiscock Gregory James,See Remarks,M - OptEx,$6.50,6100,8563,+248%,"+$39,650",-1.0,0.0,-3.0,,MITL
+219,D,2017-03-13 12:27:05,2017-03-10,MITL,Hiscock Gregory James,See Remarks,S - Sale+OE,$6.95,-2654,8563,-24%,"-$18,450",-1.0,0.0,-3.0,,MITL
+220,D,2017-03-13 12:25:04,2017-03-09,MITL,Bellomo John Anthony,See Remarks,M - OptEx,$6.50,2275,3549,+179%,"+$14,788",-1.0,0.0,-3.0,,MITL
+221,D,2017-03-13 12:25:04,2017-03-10,MITL,Bellomo John Anthony,See Remarks,S - Sale+OE,$6.95,-995,3549,-22%,"-$6,917",-1.0,0.0,-3.0,,MITL
+222,D,2017-03-13 12:20:28,2017-03-09,MITL,McCarthy Michael William,See Remarks,M - OptEx,$6.50,3562,5694,+167%,"+$23,153",-1.0,0.0,-3.0,,MITL
+223,D,2017-03-13 12:20:28,2017-03-10,MITL,McCarthy Michael William,See Remarks,S - Sale+OE,$6.95,-1103,5694,-16%,"-$7,668",-1.0,0.0,-3.0,,MITL
+224,D,2017-03-13 12:10:20,2017-03-09,MITL,McBee Richard D,See Remarks,M - OptEx,$6.50,115687,267647,+76%,"+$751,966",-1.0,0.0,-3.0,,MITL
+225,D,2017-03-13 12:10:20,2017-03-10,MITL,McBee Richard D,See Remarks,S - Sale+OE,$6.95,-43025,267647,-14%,"-$299,097",-1.0,0.0,-3.0,,MITL
+226,D,2017-03-13 12:08:15,2017-03-09,MITL,Spooner Steven Edward,CFO,M - OptEx,$6.50,57075,201804,+39%,"+$370,988",-1.0,0.0,-3.0,,MITL
+227,D,2017-03-13 12:08:15,2017-03-10,MITL,Spooner Steven Edward,CFO,S - Sale+OE,$6.95,-24767,201804,-11%,"-$172,173",-1.0,0.0,-3.0,,MITL
+228,D,2017-03-13 12:05:21,2017-03-09,MITL,Durow Wesley Dean,CMO,M - OptEx,$6.50,10125,11116,>999%,"+$65,813",-1.0,0.0,-3.0,,MITL
+229,D,2017-03-13 12:05:21,2017-03-10,MITL,Durow Wesley Dean,CMO,S - Sale+OE,$6.95,-2613,11116,-19%,"-$18,165",-1.0,0.0,-3.0,,MITL
+230,D,2017-03-13 12:02:39,2017-03-09,MITL,Brinton Jon,See Remarks,M - OptEx,$6.50,20000,45513,+78%,"+$130,000",-1.0,0.0,-3.0,,MITL
+231,D,2017-03-13 12:02:39,2017-03-10,MITL,Brinton Jon,See Remarks,S - Sale+OE,$6.95,-6116,45513,-12%,"-$42,517",-1.0,0.0,-3.0,,MITL
+232,D,2017-03-13 11:58:00,2017-03-09,MITL,Agnes Robert Dale,See Remarks,M - OptEx,$6.50,15050,14427,-2416%,"+$97,825",-1.0,0.0,-3.0,,MITL
+233,D,2017-03-13 11:58:00,2017-03-10,MITL,Agnes Robert Dale,See Remarks,S - Sale+OE,$6.95,-5102,14427,-26%,"-$35,468",-1.0,0.0,-3.0,,MITL
+234,D,2017-03-13 11:55:31,2017-03-09,MITL,Lokar Thomas Gerald,CHRO,M - OptEx,$6.50,25062,18736,-396%,"+$162,903",-1.0,0.0,-3.0,,MITL
+235,D,2017-03-13 11:55:31,2017-03-10,MITL,Lokar Thomas Gerald,CHRO,S - Sale+OE,$6.95,-6413,18736,-26%,"-$44,581",-1.0,0.0,-3.0,,MITL
+236,,2017-03-10 16:21:25,2017-03-10,MITL,Williams David M,Dir,P - Purchase,$6.90,15000,212300,+8%,"+$103,500",-1.0,3.0,-2.0,,MITL
+237,,2017-03-06 12:41:33,2017-03-03,MITL,Matthews Terence H,COB,S - Sale,$6.49,-1199,6776526,0%,"-$7,778",0.0,8.0,3.0,,MITL
+238,D,2017-03-03 19:10:12,2017-03-01,MITL,Spooner Steven Edward,CFO,M - OptEx,$6.62,8650,169496,+5%,"+$57,263",0.0,6.0,7.0,,MITL
+239,D,2017-03-03 19:10:12,2017-03-02,MITL,Spooner Steven Edward,CFO,S - Sale+OE,$6.58,-4040,169496,-2%,"-$26,585",0.0,6.0,7.0,,MITL
+240,D,2017-03-03 18:45:00,2017-03-01,MITL,McCarthy Michael William,See Remarks,M - OptEx,$6.62,875,3235,+37%,"+$5,793",0.0,6.0,7.0,,MITL
+241,D,2017-03-03 18:45:00,2017-03-02,MITL,McCarthy Michael William,See Remarks,S - Sale+OE,$6.58,-293,3235,-8%,"-$1,928",0.0,6.0,7.0,,MITL
+242,D,2017-03-03 18:29:37,2017-03-01,MITL,McBee Richard D,See Remarks,M - OptEx,$0.00,28850,194985,+17%,+$0,0.0,6.0,7.0,,MITL
+243,D,2017-03-03 18:29:37,2017-03-02,MITL,McBee Richard D,See Remarks,S - Sale+OE,$6.58,-7940,194985,-4%,"-$52,248",0.0,6.0,7.0,,MITL
+244,D,2017-03-03 17:48:30,2017-03-01,MITL,Hiscock Gregory James,See Remarks,M - OptEx,$0.00,1150,5117,+29%,+$0,0.0,6.0,7.0,,MITL
+245,D,2017-03-03 17:48:30,2017-03-02,MITL,Hiscock Gregory James,See Remarks,S - Sale+OE,$6.58,-541,5117,-10%,"-$3,560",0.0,6.0,7.0,,MITL
+246,D,2017-03-03 16:32:17,2017-03-01,MITL,Brinton Jon,See Remarks,M - OptEx,$0.00,2875,31629,+10%,+$0,0.0,6.0,7.0,,MITL
+247,D,2017-03-03 16:32:17,2017-03-02,MITL,Brinton Jon,See Remarks,S - Sale+OE,$6.58,-948,31629,-3%,"-$6,238",0.0,6.0,7.0,,MITL
+248,,2017-03-03 14:33:46,2017-03-01,MITL,Charbonneau Peter,Dir,S - Sale,$6.67,-4699,48221,-9%,"-$31,342",0.0,6.0,7.0,,MITL
+249,,2017-03-03 14:17:57,2017-03-01,MITL,Ramakrishna Sudhakar,Dir,S - Sale,$6.67,-513,16653,-3%,"-$3,422",0.0,6.0,7.0,,MITL
+250,D,2017-03-03 13:58:37,2017-03-02,MITL,Matthews Terence H,COB,M - OptEx,$0.00,2523,6777725,0%,+$0,0.0,6.0,7.0,,MITL
+251,D,2017-03-03 13:02:52,2017-03-01,MITL,McHugh John P,Dir,M - OptEx,$0.00,1574,51766,+3%,+$0,0.0,6.0,7.0,,MITL
+252,D,2017-03-03 13:02:52,2017-03-01,MITL,McHugh John P,Dir,S - Sale+OE,$6.67,-432,51766,-1%,"-$2,881",0.0,6.0,7.0,,MITL
+253,D,2017-03-03 10:53:01,2017-03-01,MITL,Bevington Graham,See Remarks,M - OptEx,$6.62,2875,19072,+18%,"+$19,033",0.0,6.0,7.0,,MITL
+254,D,2017-03-03 10:53:01,2017-03-02,MITL,Bevington Graham,See Remarks,S - Sale+OE,$6.58,-801,19072,-4%,"-$5,271",0.0,6.0,7.0,,MITL
+255,,2017-03-03 09:57:07,2017-03-02,MITL,Williams David M,Dir,P - Purchase,$6.54,15000,195000,+8%,"+$98,100",0.0,6.0,7.0,,MITL
+256,D,2017-03-02 20:58:06,2017-02-28,MITL,Charbonneau Peter,Dir,M - OptEx,$0.00,10000,52920,+23%,+$0,0.0,6.0,6.0,,MITL
+257,D,2017-03-02 20:50:30,2017-02-28,MITL,Williams David M,Dir,M - OptEx,$0.00,10000,180000,+6%,+$0,0.0,6.0,6.0,,MITL
+258,D,2017-03-02 20:43:29,2017-02-28,MITL,Ramakrishna Sudhakar,Dir,M - OptEx,$0.00,10000,17166,+140%,+$0,0.0,6.0,6.0,,MITL
+259,D,2017-03-02 20:27:16,2017-02-28,MITL,Matthews Terence H,COB,M - OptEx,$0.00,10000,6775202,0%,+$0,0.0,6.0,6.0,,MITL
+260,DM,2017-03-02 20:27:16,2017-02-28,MITL,Matthews Terence H,COB,S - Sale+OE,$6.64,-254699,6775202,-4%,"-$1,691,842",0.0,6.0,6.0,,MITL

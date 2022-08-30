@@ -1,22 +1,307 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,D,2021-09-14 18:36:25,2021-09-13,CDK,Brunz Lee J.,"GC, Secretary",S - Sale+OE,42.96,-1447,69129,-2%,-62169.0,,,,,CDK
-1,,2020-12-16 18:30:59,2020-12-15,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,50.81,-266,7422,-3%,-13515.0,,,,,CDK
-2,D,2020-11-10 18:31:32,2020-11-09,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale+OE,50.0,-1278,7901,-14%,-63900.0,,,,,CDK
-3,,2020-09-15 18:35:36,2020-09-14,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,43.97,-1260,5416,-19%,-55402.0,,,,,CDK
-4,,2020-09-09 18:31:32,2020-09-09,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,44.85,-316,7679,-4%,-14173.0,,,,,CDK
-5,,2020-09-08 18:03:42,2020-09-08,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,44.85,-228,8247,-3%,-10226.0,,,,,CDK
-6,,2020-08-31 18:35:47,2020-08-28,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,46.82,-494,8657,-5%,-23129.0,,,,,CDK
-7,,2020-05-11 18:04:03,2020-05-08,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,40.4,-3407,8657,-28%,-137643.0,,,,,CDK
-8,,2020-02-18 21:50:49,2020-02-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,52.53,-1000,39569,-2%,-52530.0,,,,,CDK
-9,,2020-01-15 19:30:58,2020-01-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,56.23,-1000,40569,-2%,-56230.0,,,,,CDK
-10,,2019-12-17 18:30:48,2019-12-16,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,55.32,-1000,41569,-2%,-55320.0,,,,,CDK
-11,,2019-11-18 18:30:31,2019-11-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,51.79,-1000,42569,-2%,-51790.0,,,,,CDK
-12,,2019-10-15 18:31:17,2019-10-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,46.41,-500,43569,-1%,-23205.0,,,,,CDK
-13,,2019-09-18 18:31:10,2019-09-16,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,46.1,-500,44069,-1%,-23050.0,,,,,CDK
-14,,2019-08-16 19:00:28,2019-08-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,43.3,-500,40628,-1%,-21650.0,,,,,CDK
-15,,2019-07-16 17:30:50,2019-07-15,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,50.74,-1000,37927,-3%,-50740.0,,,,,CDK
-16,,2019-06-18 18:31:16,2019-06-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,49.07,-500,38927,-1%,-24535.0,,,,,CDK
-17,,2018-12-18 19:31:37,2018-12-14,CDK,Packham Neil,"Pres, CDK International",P - Purchase,47.76,588,588,New,28083.0,,,,,CDK
-18,,2018-11-13 18:05:56,2018-11-09,CDK,Brunz Lee J.,"GC, Secretary",P - Purchase,50.96,2500,39427,+7%,127408.0,,,,,CDK
-19,,2018-11-13 18:05:16,2018-11-09,CDK,Tautges Joseph A,"EVP, CFO",P - Purchase,50.68,7900,25594,+45%,400355.0,,,,,CDK
-20,,2018-08-28 18:16:22,2018-08-27,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,61.65,-4114,5012,-45%,-253608.0,,,,,CDK
+0,,2022-03-14 18:00:45,2022-03-11,CDK,Fairfield Neil B,"VP, Corporate Controller, CAO",F - Tax,47.84,-929,10043,-8%,-44443.0,,,,,CDK
+1,,2021-11-16 18:33:59,2021-11-15,CDK,Voynick Eileen J.,Dir,A - Grant,0.0,4761,22827,+26%,0.0,,,,,CDK
+2,,2021-11-16 18:33:34,2021-11-15,CDK,Sowinski Frank S,Dir,A - Grant,0.0,4761,32017,+17%,0.0,,,,,CDK
+3,,2021-11-16 18:33:04,2021-11-15,CDK,Schuckenbrock Stephen Francis,Dir,A - Grant,0.0,4761,24587,+24%,0.0,,,,,CDK
+4,,2021-11-16 18:32:36,2021-11-15,CDK,Radway Robert E.,Dir,A - Grant,0.0,6814,39730,+21%,0.0,,,,,CDK
+5,,2021-11-16 18:32:11,2021-11-15,CDK,Miles Stephen A.,Dir,A - Grant,0.0,4761,39520,+14%,0.0,,,,,CDK
+6,,2021-11-16 18:31:40,2021-11-15,CDK,Hillman Amy J,Dir,A - Grant,0.0,4761,38819,+14%,0.0,,,,,CDK
+7,,2021-11-16 18:31:04,2021-11-15,CDK,Deese Willie A,Dir,A - Grant,0.0,4761,31684,+18%,0.0,,,,,CDK
+8,,2021-11-16 18:30:39,2021-11-15,CDK,Brun Leslie A,Dir,A - Grant,0.0,6546,61762,+12%,0.0,,,,,CDK
+9,,2021-09-20 18:34:34,2021-09-16,CDK,Tautges Joseph A,"EVP, COO",A - Grant,0.0,45785,128761,+55%,0.0,,,,,CDK
+10,,2021-09-20 18:34:34,2021-09-17,CDK,Tautges Joseph A,"EVP, COO",F - Tax,42.35,-9129,128761,-7%,-386613.0,,,,,CDK
+11,,2021-09-20 18:34:10,2021-09-16,CDK,Shah Mahesh,"Chief Product, Tech. Officer",A - Grant,0.0,42263,91186,+86%,0.0,,,,,CDK
+12,,2021-09-20 18:34:10,2021-09-17,CDK,Shah Mahesh,"Chief Product, Tech. Officer",F - Tax,42.35,-6626,91186,-7%,-280611.0,,,,,CDK
+13,,2021-09-20 18:33:28,2021-09-16,CDK,Guerin Eric,"EVP, CFO",A - Grant,0.0,35219,65187,+118%,0.0,,,,,CDK
+14,,2021-09-20 18:33:08,2021-09-16,CDK,Fairfield Neil B,"VP, Corporate Controller, CAO",A - Grant,0.0,5282,10972,+93%,0.0,,,,,CDK
+15,,2021-09-20 18:32:44,2021-09-16,CDK,Byrne Amy W.,CHRO,A - Grant,0.0,22540,58398,+63%,0.0,,,,,CDK
+16,,2021-09-20 18:32:44,2021-09-17,CDK,Byrne Amy W.,CHRO,F - Tax,42.35,-4486,58398,-7%,-189982.0,,,,,CDK
+17,,2021-09-20 18:32:15,2021-09-16,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,0.0,22540,87183,+35%,0.0,,,,,CDK
+18,,2021-09-20 18:32:15,2021-09-17,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,42.35,-4486,87183,-5%,-189982.0,,,,,CDK
+19,,2021-09-14 18:37:33,2021-09-10,CDK,Tautges Joseph A,"EVP, COO",F - Tax,42.43,-2367,92105,-3%,-100432.0,,,,,CDK
+20,,2021-09-14 18:37:09,2021-09-10,CDK,Shah Mahesh,"Chief Product, Tech. Officer",F - Tax,42.43,-1515,55549,-3%,-64281.0,,,,,CDK
+21,,2021-09-14 18:36:48,2021-09-10,CDK,Byrne Amy W.,CHRO,F - Tax,42.43,-1058,40344,-3%,-44891.0,,,,,CDK
+22,D,2021-09-14 18:36:25,2021-09-10,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,42.43,-941,69129,-1%,-39927.0,,,,,CDK
+23,D,2021-09-14 18:36:25,2021-09-13,CDK,Brunz Lee J.,"GC, Secretary",M - OptEx,20.24,1447,69129,+2%,29293.0,,,,,CDK
+24,D,2021-09-14 18:36:25,2021-09-13,CDK,Brunz Lee J.,"GC, Secretary",S - Sale+OE,42.96,-1447,69129,-2%,-62169.0,,,,,CDK
+25,,2021-09-07 18:31:49,2021-09-03,CDK,Tautges Joseph A,"EVP, COO",F - Tax,41.14,-1222,94472,-1%,-50273.0,,,,,CDK
+26,,2021-09-07 18:31:27,2021-09-03,CDK,Byrne Amy W.,CHRO,F - Tax,41.14,-364,41402,-1%,-14975.0,,,,,CDK
+27,,2021-09-07 18:30:48,2021-09-03,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,41.14,-364,70070,-1%,-14975.0,,,,,CDK
+28,,2021-08-30 18:39:24,2021-08-26,CDK,Tautges Joseph A,"EVP, COO",F - Tax,40.97,-5852,95694,-6%,-239756.0,,,,,CDK
+29,,2021-08-30 18:39:01,2021-08-26,CDK,Shah Mahesh,"Chief Product, Tech. Officer",F - Tax,40.97,-1331,57064,-2%,-54531.0,,,,,CDK
+30,,2021-08-30 18:38:28,2021-08-26,CDK,Krzanich Brian M,"CEO , Pres",F - Tax,40.97,-46270,80620,-36%,-1895682.0,,,,,CDK
+31,,2021-08-30 18:31:15,2021-08-26,CDK,Byrne Amy W.,CHRO,F - Tax,40.97,-1743,41766,-4%,-71411.0,,,,,CDK
+32,,2021-08-30 18:30:34,2021-08-26,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,40.97,-1743,70434,-2%,-71411.0,,,,,CDK
+33,,2021-08-17 20:32:20,2021-08-13,CDK,Tautges Joseph A,"EVP, COO",A - Grant,0.0,11803,101546,+13%,0.0,,,,,CDK
+34,,2021-08-17 20:32:01,2021-08-13,CDK,Shah Mahesh,"Chief Product, Tech. Officer",A - Grant,0.0,2797,58395,+5%,0.0,,,,,CDK
+35,,2021-08-17 20:31:38,2021-08-13,CDK,Krzanich Brian M,"CEO , Pres",A - Grant,0.0,126890,126890,New,0.0,,,,,CDK
+36,,2021-08-17 20:31:19,2021-08-13,CDK,Byrne Amy W.,CHRO,A - Grant,0.0,3934,43509,+10%,0.0,,,,,CDK
+37,,2021-08-17 20:30:45,2021-08-13,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,0.0,3934,72177,+6%,0.0,,,,,CDK
+38,,2021-05-03 18:30:43,2021-04-30,CDK,Shah Mahesh,"Chief Product, Tech. Officer",F - Tax,53.59,-1569,55598,-3%,-84083.0,,,,,CDK
+39,,2021-03-16 18:30:58,2021-03-12,CDK,Fairfield Neil B,"VP, Corporate Controller, CAO",A - Grant,0.0,5690,5690,New,0.0,,,,,CDK
+40,,2021-02-16 18:30:56,2021-02-12,CDK,Guerin Eric,"EVP, CFO",A - Grant,0.0,29968,29968,New,0.0,,,,,CDK
+41,,2020-12-16 18:30:59,2020-12-14,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,50.25,-213,7422,-3%,-10703.0,,,,,CDK
+42,,2020-12-16 18:30:59,2020-12-15,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,50.81,-266,7422,-3%,-13515.0,,,,,CDK
+43,,2020-11-17 18:32:22,2020-11-16,CDK,Radway Robert E.,Dir,A - Grant,0.0,1783,32916,+6%,0.0,,,,,CDK
+44,,2020-11-16 18:35:32,2020-11-12,CDK,Voynick Eileen J.,Dir,A - Grant,0.0,4378,18066,+32%,0.0,,,,,CDK
+45,,2020-11-16 18:34:59,2020-11-12,CDK,Sowinski Frank S,Dir,A - Grant,0.0,4005,27256,+17%,0.0,,,,,CDK
+46,,2020-11-16 18:34:40,2020-11-12,CDK,Schuckenbrock Stephen Francis,Dir,A - Grant,0.0,4005,19826,+25%,0.0,,,,,CDK
+47,,2020-11-16 18:34:07,2020-11-12,CDK,Radway Robert E.,Dir,A - Grant,0.0,4005,31133,+15%,0.0,,,,,CDK
+48,,2020-11-16 18:33:35,2020-11-12,CDK,Miles Stephen A.,Dir,A - Grant,0.0,4005,34759,+13%,0.0,,,,,CDK
+49,,2020-11-16 18:33:12,2020-11-12,CDK,Deese Willie A,Dir,A - Grant,0.0,4005,26923,+17%,0.0,,,,,CDK
+50,,2020-11-16 18:32:43,2020-11-12,CDK,Hillman Amy J,Dir,A - Grant,0.0,4005,34058,+13%,0.0,,,,,CDK
+51,,2020-11-16 18:32:11,2020-11-12,CDK,Brun Leslie A,Dir,A - Grant,0.0,7171,55216,+15%,0.0,,,,,CDK
+52,D,2020-11-10 18:31:32,2020-11-09,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",M - OptEx,30.13,1278,7901,+19%,38506.0,,,,,CDK
+53,D,2020-11-10 18:31:32,2020-11-09,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale+OE,50.0,-1278,7901,-14%,-63900.0,,,,,CDK
+54,,2020-09-21 18:34:35,2020-09-17,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",A - Grant,0.0,2485,7901,+46%,0.0,,,,,CDK
+55,,2020-09-21 18:34:06,2020-09-17,CDK,Tautges Joseph A,"EVP, CFO",A - Grant,0.0,55235,89743,+160%,0.0,,,,,CDK
+56,,2020-09-21 18:33:39,2020-09-17,CDK,Shah Mahesh,"Chief Product, Tech. Officer",A - Grant,0.0,41426,57167,+263%,0.0,,,,,CDK
+57,,2020-09-21 18:33:14,2020-09-17,CDK,Packham Neil,Pres CDK International,A - Grant,0.0,8285,12093,+218%,0.0,,,,,CDK
+58,,2020-09-21 18:31:59,2020-09-17,CDK,Byrne Amy W.,CHRO,A - Grant,0.0,30379,39575,+330%,0.0,,,,,CDK
+59,,2020-09-21 18:31:27,2020-09-17,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,0.0,30379,68243,+80%,0.0,,,,,CDK
+60,,2020-09-15 18:35:36,2020-09-11,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,43.83,-1003,5416,-16%,-43961.0,,,,,CDK
+61,,2020-09-15 18:35:36,2020-09-14,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,43.97,-1260,5416,-19%,-55402.0,,,,,CDK
+62,,2020-09-15 18:34:49,2020-09-11,CDK,Tautges Joseph A,"EVP, CFO",F - Tax,43.83,-2562,34508,-7%,-112292.0,,,,,CDK
+63,,2020-09-15 18:33:55,2020-09-11,CDK,Shah Mahesh,"Chief Product, Tech. Officer",F - Tax,43.83,-1451,15741,-8%,-63597.0,,,,,CDK
+64,,2020-09-15 18:33:06,2020-09-11,CDK,Packham Neil,Pres CDK International,D - Sale to issuer,43.83,-599,3808,-14%,-26254.0,,,,,CDK
+65,,2020-09-15 18:32:18,2020-09-11,CDK,Crutchfield Dean W.,CIO,F - Tax,43.83,-292,11149,-3%,-12798.0,,,,,CDK
+66,,2020-09-15 18:31:36,2020-09-11,CDK,Byrne Amy W.,CHRO,F - Tax,43.83,-1058,9196,-10%,-46372.0,,,,,CDK
+67,,2020-09-15 18:30:50,2020-09-11,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,43.83,-940,37864,-2%,-41200.0,,,,,CDK
+68,D,2020-09-10 18:31:37,2020-09-08,CDK,Packham Neil,Pres CDK International,D - Sale to issuer,44.6,-341,4407,-7%,-15209.0,,,,,CDK
+69,D,2020-09-10 18:31:37,2020-09-08,CDK,Packham Neil,Pres CDK International,M - OptEx,0.0,341,4407,+8%,0.0,,,,,CDK
+70,,2020-09-09 18:31:32,2020-09-08,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,44.6,-252,7679,-3%,-11239.0,,,,,CDK
+71,,2020-09-09 18:31:32,2020-09-09,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,44.85,-316,7679,-4%,-14173.0,,,,,CDK
+72,D,2020-09-08 18:04:20,2020-09-04,CDK,Packham Neil,Pres CDK International,D - Sale to issuer,45.41,-657,4407,-13%,-29834.0,,,,,CDK
+73,D,2020-09-08 18:04:20,2020-09-04,CDK,Packham Neil,Pres CDK International,M - OptEx,0.0,657,4407,+18%,0.0,,,,,CDK
+74,,2020-09-08 18:03:42,2020-09-04,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,45.41,-182,8247,-2%,-8265.0,,,,,CDK
+75,,2020-09-08 18:03:42,2020-09-08,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,44.85,-228,8247,-3%,-10226.0,,,,,CDK
+76,,2020-09-08 18:02:56,2020-09-04,CDK,Tautges Joseph A,"EVP, CFO",F - Tax,45.41,-1322,37070,-3%,-60032.0,,,,,CDK
+77,,2020-09-08 18:02:16,2020-09-04,CDK,Crutchfield Dean W.,CIO,F - Tax,45.41,-226,11441,-2%,-10263.0,,,,,CDK
+78,,2020-09-08 18:01:39,2020-09-04,CDK,Byrne Amy W.,CHRO,F - Tax,45.41,-364,10254,-3%,-16529.0,,,,,CDK
+79,,2020-09-08 18:01:02,2020-09-04,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,45.41,-364,38804,-1%,-16529.0,,,,,CDK
+80,,2020-08-31 18:35:47,2020-08-27,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,46.64,-394,8657,-4%,-18376.0,,,,,CDK
+81,,2020-08-31 18:35:47,2020-08-28,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,46.82,-494,8657,-5%,-23129.0,,,,,CDK
+82,,2020-08-31 18:34:34,2020-08-27,CDK,Tautges Joseph A,"EVP, CFO",F - Tax,46.64,-4072,38392,-10%,-189918.0,,,,,CDK
+83,D,2020-08-31 18:33:35,2020-08-27,CDK,Packham Neil,Pres CDK International,D - Sale to issuer,46.64,-2299,4407,-34%,-107225.0,,,,,CDK
+84,D,2020-08-31 18:33:35,2020-08-27,CDK,Packham Neil,Pres CDK International,M - OptEx,0.0,2299,4407,+109%,0.0,,,,,CDK
+85,,2020-08-31 18:32:50,2020-08-27,CDK,Crutchfield Dean W.,CIO,F - Tax,46.64,-855,11667,-7%,-39877.0,,,,,CDK
+86,,2020-08-31 18:32:03,2020-08-27,CDK,Byrne Amy W.,CHRO,F - Tax,46.64,-1049,10618,-9%,-48925.0,,,,,CDK
+87,,2020-08-31 18:30:55,2020-08-27,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,46.64,-1102,39168,-3%,-51397.0,,,,,CDK
+88,,2020-08-10 18:38:45,2020-08-06,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",A - Grant,0.0,888,9545,+10%,0.0,,,,,CDK
+89,,2020-08-10 18:37:39,2020-08-06,CDK,Tautges Joseph A,"EVP, CFO",A - Grant,0.0,7589,42464,+22%,0.0,,,,,CDK
+90,,2020-08-10 18:37:39,2020-08-07,CDK,Tautges Joseph A,"EVP, CFO",F - Tax,46.89,-2163,42464,-5%,-101423.0,,,,,CDK
+91,,2020-08-10 18:35:53,2020-08-06,CDK,Crutchfield Dean W.,CIO,A - Grant,0.0,2487,12522,+25%,0.0,,,,,CDK
+92,,2020-08-10 18:35:07,2020-08-06,CDK,Byrne Amy W.,CHRO,A - Grant,0.0,2366,11667,+25%,0.0,,,,,CDK
+93,,2020-08-10 18:32:31,2020-08-06,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,0.0,2487,40270,+7%,0.0,,,,,CDK
+94,,2020-08-10 18:32:31,2020-08-07,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,46.89,-1786,40270,-4%,-83746.0,,,,,CDK
+95,,2020-05-14 18:04:03,2020-05-12,CDK,Shah Mahesh,"Chief Product, Tech. Officer",F - Tax,39.42,-3150,17192,-15%,-124173.0,,,,,CDK
+96,,2020-05-11 18:04:03,2020-05-08,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,40.4,-3407,8657,-28%,-137643.0,,,,,CDK
+97,,2020-02-18 21:50:49,2020-02-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,52.53,-1000,39569,-2%,-52530.0,,,,,CDK
+98,,2020-01-15 19:30:58,2020-01-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,56.23,-1000,40569,-2%,-56230.0,,,,,CDK
+99,,2019-12-17 18:30:48,2019-12-16,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,55.32,-1000,41569,-2%,-55320.0,,,,,CDK
+100,,2019-12-16 18:30:28,2019-12-13,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,54.96,-213,12064,-2%,-11706.0,,,,,CDK
+101,,2019-11-22 19:07:40,2019-11-20,CDK,Voynick Eileen J.,Dir,A - Grant,0.0,3838,13688,+39%,0.0,,,,,CDK
+102,,2019-11-22 19:07:05,2019-11-20,CDK,Sowinski Frank S,Dir,A - Grant,0.0,3511,23251,+18%,0.0,,,,,CDK
+103,,2019-11-22 19:06:21,2019-11-20,CDK,Schuckenbrock Stephen Francis,Dir,A - Grant,0.0,3511,15821,+29%,0.0,,,,,CDK
+104,,2019-11-22 19:05:40,2019-11-20,CDK,Radway Robert E.,Dir,A - Grant,0.0,5147,27128,+23%,0.0,,,,,CDK
+105,,2019-11-22 19:05:01,2019-11-20,CDK,Miles Stephen A.,Dir,A - Grant,0.0,3511,30754,+13%,0.0,,,,,CDK
+106,,2019-11-22 19:04:12,2019-11-20,CDK,Hillman Amy J,Dir,A - Grant,0.0,3511,30053,+13%,0.0,,,,,CDK
+107,,2019-11-22 19:03:22,2019-11-20,CDK,Deese Willie A,Dir,A - Grant,0.0,3511,22918,+18%,0.0,,,,,CDK
+108,,2019-11-22 19:02:38,2019-11-20,CDK,Brun Leslie A,Dir,A - Grant,0.0,4934,48045,+11%,0.0,,,,,CDK
+109,,2019-11-18 18:30:31,2019-11-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,51.79,-1000,42569,-2%,-51790.0,,,,,CDK
+110,,2019-10-15 18:31:17,2019-10-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,46.41,-500,43569,-1%,-23205.0,,,,,CDK
+111,,2019-09-18 18:31:10,2019-09-16,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,46.1,-500,44069,-1%,-23050.0,,,,,CDK
+112,,2019-09-16 20:00:43,2019-09-12,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",A - Grant,0.0,6789,12277,+124%,0.0,,,,,CDK
+113,,2019-09-16 20:00:19,2019-09-12,CDK,Tautges Joseph A,"EVP, CFO",A - Grant,0.0,14322,37038,+63%,0.0,,,,,CDK
+114,,2019-09-16 19:59:56,2019-09-12,CDK,Shah Mahesh,"Chief Product, Tech. Officer",A - Grant,0.0,9548,20342,+88%,0.0,,,,,CDK
+115,,2019-09-16 19:59:08,2019-09-12,CDK,Packham Neil,Pres CDK International,A - Grant,0.0,3819,4407,+649%,0.0,,,,,CDK
+116,,2019-09-16 19:57:48,2019-09-12,CDK,Crutchfield Dean W.,CIO,A - Grant,0.0,2546,10035,+34%,0.0,,,,,CDK
+117,,2019-09-16 19:56:58,2019-09-12,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,0.0,6365,44569,+17%,0.0,,,,,CDK
+118,,2019-09-16 19:56:16,2019-09-12,CDK,Byrne Amy W.,CHRO,A - Grant,0.0,7161,9301,+335%,0.0,,,,,CDK
+119,DM,2019-09-10 19:58:10,2019-09-06,CDK,Packham Neil,Pres CDK International,D - Sale to issuer,44.92,-1337,588,-69%,-60058.0,,,,,CDK
+120,DM,2019-09-10 19:58:10,2019-09-06,CDK,Packham Neil,Pres CDK International,M - OptEx,0.0,1337,588,-179%,0.0,,,,,CDK
+121,M,2019-09-10 19:57:07,2019-09-06,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,44.92,-686,5488,-11%,-30815.0,,,,,CDK
+122,,2019-09-10 19:55:47,2019-09-06,CDK,Tautges Joseph A,"EVP, CFO",F - Tax,44.92,-1092,22716,-5%,-49053.0,,,,,CDK
+123,,2019-09-10 19:54:50,2019-09-06,CDK,Flynn Daniel Patrick,"EVP, Bus Leader, Core DMS",F - Tax,44.92,-368,15884,-2%,-16531.0,,,,,CDK
+124,,2019-09-10 19:53:42,2019-09-06,CDK,Crutchfield Dean W.,CIO,F - Tax,44.92,-193,7489,-3%,-8670.0,,,,,CDK
+125,,2019-09-10 19:52:53,2019-09-06,CDK,Byrne Amy W.,CHRO,F - Tax,44.92,-323,2140,-13%,-14509.0,,,,,CDK
+126,,2019-09-10 19:51:48,2019-09-06,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,44.92,-348,38204,-1%,-15632.0,,,,,CDK
+127,,2019-08-26 19:40:37,2019-08-22,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,43.7,-777,6174,-11%,-33955.0,,,,,CDK
+128,D,2019-08-26 19:39:54,2019-08-22,CDK,Packham Neil,Pres CDK International,D - Sale to issuer,43.7,-3236,0,-100%,-141413.0,,,,,CDK
+129,D,2019-08-26 19:39:54,2019-08-22,CDK,Packham Neil,Pres CDK International,M - OptEx,0.0,3236,0,-100%,0.0,,,,,CDK
+130,,2019-08-26 19:39:25,2019-08-22,CDK,Flynn Daniel Patrick,"EVP, Bus Leader, Corp DMS",F - Tax,43.7,-2595,7682,-25%,-113402.0,,,,,CDK
+131,,2019-08-26 19:38:45,2019-08-22,CDK,Crutchfield Dean W.,CIO,F - Tax,43.7,-1438,16252,-8%,-62841.0,,,,,CDK
+132,,2019-08-26 19:37:46,2019-08-22,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,43.7,-2076,38552,-5%,-90721.0,,,,,CDK
+133,,2019-08-16 19:00:28,2019-08-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,43.3,-500,40628,-1%,-21650.0,,,,,CDK
+134,,2019-08-12 19:31:21,2019-08-08,CDK,Tautges Joseph A,"EVP, CFO",F - Tax,49.71,-1786,23808,-7%,-88782.0,,,,,CDK
+135,,2019-08-12 19:30:50,2019-08-08,CDK,Flynn Daniel Patrick,"EVP, Bus Leader, Core DMS",F - Tax,49.71,-1705,18847,-8%,-84756.0,,,,,CDK
+136,,2019-08-12 19:30:19,2019-08-08,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,49.71,-1705,41128,-4%,-84756.0,,,,,CDK
+137,,2019-08-09 19:33:03,2019-08-07,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",A - Grant,0.0,1752,6951,+34%,0.0,,,,,CDK
+138,,2019-08-09 19:31:52,2019-08-07,CDK,Flynn Daniel Patrick,"EVP, Bus Leader, Corp DMS",A - Grant,0.0,6134,20552,+43%,0.0,,,,,CDK
+139,,2019-08-09 19:30:51,2019-08-07,CDK,Crutchfield Dean W.,CIO,A - Grant,0.0,4906,9120,+116%,0.0,,,,,CDK
+140,,2019-08-09 19:30:15,2019-08-07,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,0.0,4906,42833,+13%,0.0,,,,,CDK
+141,,2019-07-16 17:30:50,2019-07-15,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,50.74,-1000,37927,-3%,-50740.0,,,,,CDK
+142,,2019-06-18 18:31:16,2019-06-14,CDK,Brunz Lee J.,"GC, Secretary",S - Sale,49.07,-500,38927,-1%,-24535.0,,,,,CDK
+143,D,2019-05-06 21:00:12,2019-05-02,CDK,Shah Mahesh,"Chief Product, Tech. Officer",A - Grant,0.0,10794,10794,New,0.0,,,,,CDK
+144,,2018-12-18 19:32:26,2018-12-14,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,47.7,-212,5199,-4%,-10112.0,,,,,CDK
+145,,2018-12-18 19:31:37,2018-12-14,CDK,Packham Neil,"Pres, CDK International",P - Purchase,47.76,588,588,New,28083.0,,,,,CDK
+146,,2018-12-12 19:30:54,2018-12-10,CDK,Radway Robert E.,Dir,A - Grant,0.0,1796,21981,+9%,0.0,,,,,CDK
+147,,2018-11-21 18:30:56,2018-11-19,CDK,Schuckenbrock Stephen Francis,Dir,A - Grant,0.0,1735,12310,+16%,0.0,,,,,CDK
+148,,2018-11-21 18:30:20,2018-11-19,CDK,Martinson Eileen J.,Dir,A - Grant,0.0,347,9850,+4%,0.0,,,,,CDK
+149,,2018-11-15 17:42:35,2018-11-13,CDK,Sowinski Frank S,Dir,A - Grant,0.0,3266,19740,+20%,0.0,,,,,CDK
+150,,2018-11-15 17:41:59,2018-11-13,CDK,Schuckenbrock Stephen Francis,Dir,A - Grant,0.0,3266,10575,+45%,0.0,,,,,CDK
+151,,2018-11-15 17:41:12,2018-11-13,CDK,Radway Robert E.,Dir,A - Grant,0.0,3266,20185,+19%,0.0,,,,,CDK
+152,,2018-11-15 17:40:36,2018-11-13,CDK,Miles Stephen A.,Dir,A - Grant,0.0,3266,27243,+14%,0.0,,,,,CDK
+153,,2018-11-15 17:40:03,2018-11-13,CDK,Martinson Eileen J.,Dir,A - Grant,0.0,3266,9503,+52%,0.0,,,,,CDK
+154,,2018-11-15 17:39:34,2018-11-13,CDK,Hillman Amy J,Dir,A - Grant,0.0,3266,26542,+14%,0.0,,,,,CDK
+155,,2018-11-15 17:39:04,2018-11-13,CDK,Deese Willie A,Dir,A - Grant,0.0,3266,19407,+20%,0.0,,,,,CDK
+156,,2018-11-15 17:37:58,2018-11-13,CDK,Brun Leslie A,Dir,A - Grant,0.0,4750,43111,+12%,0.0,,,,,CDK
+157,,2018-11-13 18:05:56,2018-11-09,CDK,Brunz Lee J.,"GC, Secretary",P - Purchase,50.96,2500,39427,+7%,127408.0,,,,,CDK
+158,,2018-11-13 18:05:16,2018-11-09,CDK,Tautges Joseph A,"EVP, CFO",P - Purchase,50.68,7900,25594,+45%,400355.0,,,,,CDK
+159,,2018-09-10 19:33:22,2018-09-06,CDK,Crutchfield Dean W.,CIO,A - Grant,60.89,1970,4214,+88%,119953.0,,,,,CDK
+160,D,2018-09-10 19:33:09,2018-09-07,CDK,Packham Neil,Pres CDK International,D - Sale to issuer,60.86,-1140,0,-100%,-69380.0,,,,,CDK
+161,D,2018-09-10 19:33:09,2018-09-07,CDK,Packham Neil,Pres CDK International,M - OptEx,0.0,1140,0,-100%,0.0,,,,,CDK
+162,,2018-09-10 19:32:35,2018-09-06,CDK,Mathews Scott L.,"EVP, North American Sales",A - Grant,60.89,1970,55792,+4%,119953.0,,,,,CDK
+163,,2018-09-10 19:32:33,2018-09-06,CDK,Byrne Amy W.,CHRO,A - Grant,60.89,2463,2463,New,149972.0,,,,,CDK
+164,,2018-09-10 19:32:05,2018-09-06,CDK,Flynn Daniel Patrick,"Pres, CDK North America",A - Grant,60.89,2956,14418,+26%,179991.0,,,,,CDK
+165,,2018-09-10 19:31:55,2018-09-06,CDK,Frey Ronald L Jr,Chief Global Strategy Officer,A - Grant,60.89,2463,2463,New,149972.0,,,,,CDK
+166,,2018-09-10 19:31:33,2018-09-06,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,60.89,2463,36927,+7%,149972.0,,,,,CDK
+167,,2018-09-10 19:31:27,2018-09-06,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",A - Grant,60.89,1231,5411,+29%,74956.0,,,,,CDK
+168,,2018-09-10 19:31:27,2018-09-07,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,60.86,-832,5411,-13%,-50636.0,,,,,CDK
+169,,2018-09-10 19:30:57,2018-09-06,CDK,Amar Rajiv K,CTO,A - Grant,60.89,2463,11459,+27%,149972.0,,,,,CDK
+170,,2018-09-10 19:30:57,2018-09-07,CDK,Amar Rajiv K,CTO,F - Tax,60.86,-183,11459,-2%,-11137.0,,,,,CDK
+171,,2018-09-10 19:30:30,2018-09-06,CDK,Tautges Joseph A,"EVP, CFO",A - Grant,60.89,7390,17694,+72%,449977.0,,,,,CDK
+172,,2018-08-28 18:16:22,2018-08-27,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale,61.65,-4114,5012,-45%,-253608.0,,,,,CDK
+173,,2018-08-24 18:19:19,2018-08-22,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",F - Tax,61.16,-3274,9126,-26%,-200238.0,,,,,CDK
+174,D,2018-08-24 18:18:50,2018-08-22,CDK,Packham Neil,Pres CDK International,D - Sale to issuer,61.16,-4596,0,-100%,-281091.0,,,,,CDK
+175,D,2018-08-24 18:18:50,2018-08-22,CDK,Packham Neil,Pres CDK International,M - OptEx,0.0,4596,0,-100%,0.0,,,,,CDK
+176,,2018-08-24 18:18:09,2018-08-22,CDK,Mathews Scott L.,"EVP, North American Sales",F - Tax,61.16,-6332,53822,-11%,-387265.0,,,,,CDK
+177,,2018-08-24 18:17:36,2018-08-22,CDK,Macdonald Brian P,"Pres, CEO",F - Tax,61.16,-39323,138235,-22%,-2404995.0,,,,,CDK
+178,,2018-08-24 18:16:54,2018-08-22,CDK,Flynn Daniel Patrick,"Pres, CDK North America",F - Tax,61.16,-4127,11462,-26%,-252407.0,,,,,CDK
+179,,2018-08-24 18:16:14,2018-08-22,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,61.16,-7330,34464,-18%,-448303.0,,,,,CDK
+180,,2018-08-24 18:15:21,2018-08-22,CDK,Amar Rajiv K,CTO,F - Tax,61.16,-1826,9179,-17%,-111678.0,,,,,CDK
+181,,2018-08-09 19:03:59,2018-08-07,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",A - Grant,0.0,7388,12400,+147%,0.0,,,,,CDK
+182,,2018-08-09 19:03:29,2018-08-08,CDK,Tautges Joseph A,"EVP, CFO",F - Tax,64.2,-1786,10304,-15%,-114661.0,,,,,CDK
+183,,2018-08-09 19:02:14,2018-08-07,CDK,Mathews Scott L.,"EVP, North American Sales",A - Grant,0.0,16090,60154,+37%,0.0,,,,,CDK
+184,,2018-08-09 19:02:14,2018-08-08,CDK,Mathews Scott L.,"EVP, North American Sales",F - Tax,64.2,-1699,60154,-3%,-109076.0,,,,,CDK
+185,,2018-08-09 19:01:39,2018-08-07,CDK,Macdonald Brian P,"Pres, CEO",A - Grant,0.0,88765,177558,+100%,0.0,,,,,CDK
+186,,2018-08-09 19:01:07,2018-08-07,CDK,Flynn Daniel Patrick,"Pres, CDK North America",A - Grant,0.0,9315,15589,+148%,0.0,,,,,CDK
+187,,2018-08-09 19:01:07,2018-08-08,CDK,Flynn Daniel Patrick,"Pres, CDK North America",F - Tax,64.2,-1786,15589,-10%,-114661.0,,,,,CDK
+188,,2018-08-09 19:00:40,2018-08-07,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,0.0,18388,41794,+79%,0.0,,,,,CDK
+189,,2018-08-09 19:00:08,2018-08-07,CDK,Amar Rajiv K,CTO,A - Grant,0.0,3776,11005,+52%,0.0,,,,,CDK
+190,,2018-06-15 17:15:29,2018-06-14,CDK,Crutchfield Dean W.,CIO,F - Tax,65.86,-699,2244,-24%,-46036.0,,,,,CDK
+191,,2018-05-11 18:15:39,2018-05-10,CDK,Amar Rajiv K,CTO,F - Tax,64.91,-1875,7229,-21%,-121706.0,,,,,CDK
+192,D,2018-02-26 18:30:57,2018-02-22,CDK,Amar Rajiv K,CTO,M - OptEx,30.13,2671,9104,+42%,80477.0,,,,,CDK
+193,D,2018-02-26 18:30:57,2018-02-22,CDK,Amar Rajiv K,CTO,S - Sale+OE,69.85,-1968,9104,-18%,-137473.0,,,,,CDK
+194,D,2018-02-22 18:31:27,2018-02-21,CDK,Mathews Scott L.,"EVP, North American Sales",M - OptEx,17.67,5514,45763,+14%,97430.0,,,,,CDK
+195,D,2018-02-22 18:31:27,2018-02-21,CDK,Mathews Scott L.,"EVP, North American Sales",S - Sale+OE,68.91,-5514,45763,-11%,-379970.0,,,,,CDK
+196,,2018-01-03 18:31:32,2018-01-02,CDK,Macdonald Brian P,"Pres, CEO",F - Tax,70.66,-8084,88793,-8%,-571215.0,,,,,CDK
+197,,2017-12-18 18:16:02,2017-12-14,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",A - Grant,0.0,1436,5012,+40%,0.0,,,,,CDK
+198,D,2017-12-04 18:25:54,2017-11-30,CDK,Karp Robert N.,"Pres, CDK North America",F - Tax,69.09,-5184,60074892,0%,-358163.0,,,,,CDK
+199,D,2017-11-22 18:30:26,2017-11-18,CDK,Packham Neil,Pres CDK International,D - Sale to issuer,66.93,-1918,0,-100%,-128372.0,,,,,CDK
+200,D,2017-11-22 18:30:26,2017-11-18,CDK,Packham Neil,Pres CDK International,M - OptEx,0.0,1918,0,-100%,0.0,,,,,CDK
+201,,2017-11-17 17:17:32,2017-11-15,CDK,Martinson Eileen J.,Dir,A - Grant,0.0,2823,6237,+83%,0.0,,,,,CDK
+202,,2017-11-17 17:16:58,2017-11-15,CDK,Hillman Amy J,Dir,A - Grant,0.0,4403,23276,+23%,0.0,,,,,CDK
+203,,2017-11-17 17:16:45,2017-11-15,CDK,Tarkoff Robert M,Dir,A - Grant,0.0,4251,7892,+117%,0.0,,,,,CDK
+204,,2017-11-17 17:16:30,2017-11-15,CDK,Deese Willie A,Dir,A - Grant,0.0,2467,16141,+18%,0.0,,,,,CDK
+205,,2017-11-17 17:16:15,2017-11-15,CDK,Sowinski Frank S,Dir,A - Grant,0.0,2467,16474,+18%,0.0,,,,,CDK
+206,,2017-11-17 17:16:03,2017-11-15,CDK,Brun Leslie A,Dir,A - Grant,0.0,3605,38361,+10%,0.0,,,,,CDK
+207,,2017-11-17 17:15:49,2017-11-15,CDK,Radway Robert E.,Dir,A - Grant,0.0,4251,16919,+34%,0.0,,,,,CDK
+208,,2017-11-17 17:15:35,2017-11-15,CDK,Schuckenbrock Stephen Francis,Dir,A - Grant,0.0,3359,7309,+85%,0.0,,,,,CDK
+209,,2017-11-17 17:15:17,2017-11-15,CDK,Miles Stephen A.,Dir,A - Grant,0.0,2467,23977,+11%,0.0,,,,,CDK
+210,D,2017-11-06 18:31:03,2017-11-02,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",M - OptEx,30.13,1277,3576,+56%,38476.0,,,,,CDK
+211,D,2017-11-06 18:31:03,2017-11-02,CDK,Williams Jennifer A.,"VP, Corporate Controller, CAO",S - Sale+OE,62.58,-1984,3576,-36%,-124157.0,,,,,CDK
+212,,2017-10-02 18:17:03,2017-09-29,CDK,Karp Robert N.,"Pres, CDK North America",F - Tax,63.09,-2533,65259,-4%,-159807.0,,,,,CDK
+213,,2017-09-12 19:05:58,2017-09-08,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,62.46,-810,23406,-3%,-50593.0,,,,,CDK
+214,,2017-09-12 19:05:26,2017-09-08,CDK,Amar Rajiv K,CTO,F - Tax,62.46,-193,8401,-2%,-12055.0,,,,,CDK
+215,DM,2017-09-12 19:04:43,2017-09-08,CDK,Packham Neil,Pres CDK International,D - Sale to issuer,62.46,-799,0,-100%,-49906.0,,,,,CDK
+216,DM,2017-09-12 19:04:43,2017-09-08,CDK,Packham Neil,Pres CDK International,M - OptEx,0.0,799,0,-100%,0.0,,,,,CDK
+217,D,2017-08-10 20:13:07,2017-08-08,CDK,Tautges Joseph A,"EVP, CFO",A - Grant,0.0,12090,12090,New,0.0,,,,,CDK
+218,,2017-08-10 20:12:06,2017-08-08,CDK,Flynn Daniel Patrick,"EVP, Business Transformation",A - Grant,0.0,8060,8060,New,0.0,,,,,CDK
+219,,2017-08-10 20:11:38,2017-08-08,CDK,Mathews Scott L.,"EVP, North American Sales",A - Grant,0.0,10705,45763,+31%,0.0,,,,,CDK
+220,,2017-08-10 20:11:38,2017-08-08,CDK,Mathews Scott L.,"EVP, North American Sales",F - Tax,62.03,-5672,45763,-11%,-351834.0,,,,,CDK
+221,,2017-08-10 20:11:09,2017-08-08,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,0.0,17235,24216,+247%,0.0,,,,,CDK
+222,,2017-08-10 20:11:09,2017-08-08,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,62.03,-3771,24216,-13%,-233915.0,,,,,CDK
+223,,2017-08-10 20:10:43,2017-08-08,CDK,Karp Robert N.,"Pres, CDK North America",A - Grant,0.0,12235,67792,+22%,0.0,,,,,CDK
+224,,2017-08-10 20:10:43,2017-08-08,CDK,Karp Robert N.,"Pres, CDK North America",F - Tax,62.03,-5592,67792,-8%,-346872.0,,,,,CDK
+225,,2017-06-16 18:00:16,2017-06-14,CDK,Crutchfield Dean W.,CIO,F - Tax,61.34,-637,2943,-18%,-39074.0,,,,,CDK
+226,,2017-05-30 08:30:18,2017-05-26,CDK,Macdonald Brian P,"Pres, CEO",P - Purchase,60.47,5000,96877,+5%,302360.0,,,,,CDK
+227,,2017-05-12 18:35:20,2017-05-10,CDK,Amar Rajiv K,CTO,F - Tax,63.19,-1978,8594,-19%,-124990.0,,,,,CDK
+228,D,2017-03-13 19:01:05,2017-03-10,CDK,Miles Stephen A.,Dir,M - OptEx,39.67,15384,21510,+251%,610283.0,0.0,0.0,-3.0,,CDK
+229,D,2017-03-13 19:01:05,2017-03-10,CDK,Miles Stephen A.,Dir,S - Sale+OE,66.47,-9197,21510,-30%,-611343.0,0.0,0.0,-3.0,,CDK
+230,D,2017-03-10 19:01:28,2017-03-08,CDK,Karp Robert N.,"Pres, CDK North America",M - OptEx,20.47,46185,61149,+309%,945488.0,0.0,0.0,-3.0,,CDK
+231,D,2017-03-10 19:01:28,2017-03-08,CDK,Karp Robert N.,"Pres, CDK North America",S - Sale+OE,66.47,-46185,61149,-43%,-3070102.0,0.0,0.0,-3.0,,CDK
+232,D,2017-03-10 19:00:57,2017-03-08,CDK,Nietzel Alfred A,"EVP, CFO",M - OptEx,18.05,41358,40623,-5626%,746345.0,0.0,0.0,-3.0,,CDK
+233,D,2017-03-10 19:00:57,2017-03-08,CDK,Nietzel Alfred A,"EVP, CFO",S - Sale+OE,66.44,-33389,40623,-45%,-2218399.0,0.0,0.0,-3.0,,CDK
+234,A,2017-01-04 19:53:33,2017-01-01,CDK,Macdonald Brian P,"Pres, CEO",F - Tax,58.81,-10543,91877,-10%,-620034.0,0.0,0.0,7.0,,CDK
+235,,2017-01-04 19:01:46,2017-01-01,CDK,Macdonald Brian P,"Pres, CEO",F - Tax,58.81,-10543,91877,-10%,-620034.0,0.0,0.0,7.0,,CDK
+236,,2016-11-21 19:48:49,2016-11-18,CDK,Thorne Malcolm,"EVP, Chief Strategy Officer",F - Tax,57.8,-2246,18965,-11%,-129819.0,0.0,1.0,5.0,,CDK
+237,,2016-11-17 18:43:21,2016-11-15,CDK,Tarkoff Robert M,Dir,A - Grant,0.0,2587,3641,+245%,0.0,-1.0,1.0,3.0,,CDK
+238,,2016-11-17 18:42:43,2016-11-15,CDK,Sowinski Frank S,Dir,A - Grant,0.0,2587,14007,+23%,0.0,-1.0,1.0,3.0,,CDK
+239,,2016-11-17 18:41:58,2016-11-15,CDK,Schuckenbrock Stephen Francis,Dir,A - Grant,0.0,3479,3950,+739%,0.0,-1.0,1.0,3.0,,CDK
+240,,2016-11-17 18:41:18,2016-11-15,CDK,Radway Robert E.,Dir,A - Grant,0.0,2587,12668,+26%,0.0,-1.0,1.0,3.0,,CDK
+241,,2016-11-17 18:40:40,2016-11-15,CDK,Miles Stephen A.,Dir,A - Grant,0.0,2587,15323,+20%,0.0,-1.0,1.0,3.0,,CDK
+242,,2016-11-17 18:40:09,2016-11-15,CDK,Martinson Eileen J.,Dir,A - Grant,0.0,2943,3414,+625%,0.0,-1.0,1.0,3.0,,CDK
+243,,2016-11-17 18:39:36,2016-11-15,CDK,Hillman Amy J,Dir,A - Grant,0.0,2587,18873,+16%,0.0,-1.0,1.0,3.0,,CDK
+244,,2016-11-17 18:39:05,2016-11-15,CDK,Deese Willie A,Dir,A - Grant,0.0,2587,13674,+23%,0.0,-1.0,1.0,3.0,,CDK
+245,,2016-11-17 18:38:28,2016-11-15,CDK,Brun Leslie A,Dir,A - Grant,0.0,3925,35513,+12%,0.0,-1.0,1.0,3.0,,CDK
+246,,2016-09-20 18:35:15,2016-09-16,CDK,Mathews Scott L.,"EVP, North American Sales",F - Tax,56.07,-3471,40730,-8%,-194619.0,2.0,2.0,-3.0,16.0,CDK
+247,D,2016-09-12 21:38:19,2016-09-09,CDK,Amar Rajiv K,"EVP, CTO",F - Tax,56.31,-193,10572,-2%,-10868.0,-2.0,-1.0,-1.0,19.0,CDK
+248,D,2016-09-12 21:37:24,2016-09-08,CDK,Karp Robert N.,"Pres, CDK North America",F - Tax,58.75,-5490,61149,-8%,-322538.0,-2.0,-1.0,-1.0,19.0,CDK
+249,D,2016-09-12 21:36:45,2016-09-08,CDK,Nietzel Alfred A,"EVP, CFO",F - Tax,58.75,-4937,32654,-13%,-290049.0,-2.0,-1.0,-1.0,19.0,CDK
+250,D,2016-09-12 21:36:12,2016-09-08,CDK,Mathews Scott L.,"EVP, North American Sales",F - Tax,58.75,-4308,44201,-9%,-253095.0,-2.0,-1.0,-1.0,19.0,CDK
+251,,2016-09-08 19:03:33,2016-09-06,CDK,Martinson Eileen J.,Dir,A - Grant,0.0,471,471,New,0.0,-4.0,-5.0,-4.0,14.0,CDK
+252,,2016-09-08 19:01:13,2016-09-06,CDK,Schuckenbrock Stephen Francis,Dir,A - Grant,0.0,471,471,New,0.0,-4.0,-5.0,-4.0,14.0,CDK
+253,,2016-09-06 18:41:15,2016-09-02,CDK,Thorne Malcolm,"EVP, Chief Strategy Officer",F - Tax,58.99,-3668,21211,-15%,-216375.0,1.0,-4.0,-4.0,14.0,CDK
+254,,2016-09-06 18:40:15,2016-09-02,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,58.99,-2168,10752,-17%,-127890.0,1.0,-4.0,-4.0,14.0,CDK
+255,,2016-09-06 18:39:23,2016-09-02,CDK,Amar Rajiv K,CTO,F - Tax,58.99,-1953,10765,-15%,-115207.0,1.0,-4.0,-4.0,14.0,CDK
+256,,2016-08-11 19:49:48,2016-08-09,CDK,Surowiec Yvonne M.,"EVP, CPO",A - Grant,0.0,9687,20039,+94%,0.0,0.0,-1.0,-4.0,12.0,CDK
+257,,2016-08-11 19:49:19,2016-08-09,CDK,Nietzel Alfred A,"EVP, CFO",A - Grant,0.0,12012,37591,+47%,0.0,0.0,-1.0,-4.0,12.0,CDK
+258,,2016-08-11 19:48:52,2016-08-09,CDK,Mathews Scott L.,"EVP, North American Sales",A - Grant,0.0,10269,48509,+27%,0.0,0.0,-1.0,-4.0,12.0,CDK
+259,,2016-08-11 19:48:15,2016-08-09,CDK,Karp Robert N.,"Pres, CDK North America",A - Grant,0.0,12012,66639,+22%,0.0,0.0,-1.0,-4.0,12.0,CDK
+260,A,2016-08-09 18:49:31,2016-06-14,CDK,Crutchfield Dean W.,CIO,A - Grant,0.0,3580,3580,New,0.0,0.0,1.0,2.0,11.0,CDK
+261,A,2016-08-09 18:46:27,2016-05-10,CDK,Amar Rajiv K,CTO,A - Grant,0.0,7753,12718,+156%,0.0,0.0,1.0,2.0,11.0,CDK
+262,,2016-08-09 18:40:06,2016-08-08,CDK,Tarkoff Robert M,Dir,A - Grant,0.0,1054,1054,New,0.0,0.0,1.0,2.0,11.0,CDK
+263,,2016-08-09 18:26:26,2016-08-08,CDK,Mathews Scott L.,"EVP, North American Sales",A - Grant,0.0,12951,38240,+51%,0.0,0.0,1.0,2.0,11.0,CDK
+264,,2016-06-16 18:17:49,2016-06-14,CDK,Crutchfield Dean W.,CIO,A - Grant,55.86,3580,3580,New,199979.0,-1.0,0.0,4.0,8.0,CDK
+265,D,2016-06-02 18:19:21,2016-06-01,CDK,Karp Robert N.,"VP, Pres, ARNA",M - OptEx,14.76,27573,54627,+102%,407005.0,0.0,2.0,0.0,5.0,CDK
+266,D,2016-06-02 18:19:21,2016-06-01,CDK,Karp Robert N.,"VP, Pres, ARNA",S - Sale+OE,55.12,-27573,54627,-34%,-1519824.0,0.0,2.0,0.0,5.0,CDK
+267,,2016-05-11 18:45:26,2016-05-10,CDK,Amar Rajiv K,CTO,A - Grant,51.59,7753,12718,+156%,399977.0,1.0,0.0,13.0,11.0,CDK
+268,M,2016-02-09 17:16:11,2016-02-05,CDK,Macdonald Brian P,Pres,A - Grant,11.0,91526,102420,+840%,1006853.0,2.0,2.0,9.0,37.0,CDK
+269,,2015-11-19 18:05:30,2015-11-18,CDK,Thorne Malcolm,"VP, Chief Strategy Officer",F - Tax,47.96,-1748,24879,-7%,-83834.0,0.0,-1.0,-6.0,10.0,CDK
+270,,2015-11-09 18:31:56,2015-11-06,CDK,Sowinski Frank S,Dir,A - Grant,0.0,6939,11420,+155%,0.0,0.0,-5.0,-4.0,5.0,CDK
+271,,2015-11-09 18:31:10,2015-11-06,CDK,Radway Robert E.,Dir,A - Grant,0.0,5933,10081,+143%,0.0,0.0,-5.0,-4.0,5.0,CDK
+272,,2015-11-09 18:30:19,2015-11-06,CDK,Miles Stephen A.,Dir,A - Grant,0.0,5933,12736,+87%,0.0,0.0,-5.0,-4.0,5.0,CDK
+273,,2015-11-09 18:29:29,2015-11-06,CDK,Macdonald Brian P,Dir,A - Grant,0.0,5933,10894,+120%,0.0,0.0,-5.0,-4.0,5.0,CDK
+274,,2015-11-09 18:27:50,2015-11-06,CDK,Hillman Amy J,Dir,A - Grant,0.0,9151,16286,+128%,0.0,0.0,-5.0,-4.0,5.0,CDK
+275,,2015-11-09 18:27:20,2015-11-06,CDK,Deese Willie A,Dir,A - Grant,0.0,6939,11087,+167%,0.0,0.0,-5.0,-4.0,5.0,CDK
+276,,2015-11-09 18:26:48,2015-11-06,CDK,Brun Leslie A,Dir,A - Grant,0.0,9453,31588,+43%,0.0,0.0,-5.0,-4.0,5.0,CDK
+277,,2015-09-18 17:06:07,2015-09-17,CDK,Mathews Scott L.,"VP, Pres, Digital Mktg",F - Tax,51.71,-2263,25289,-8%,-117020.0,1.0,-1.0,-3.0,-8.0,CDK
+278,,2015-09-15 18:06:36,2015-09-11,CDK,Thorne Malcolm,"VP, Chief Strategy Officer",F - Tax,49.23,-1743,26627,-6%,-85808.0,0.0,0.0,-5.0,-12.0,CDK
+279,,2015-09-15 18:05:58,2015-09-11,CDK,Surowiec Yvonne M.,"VP, CHRO",F - Tax,48.85,-2144,10352,-17%,-104734.0,0.0,0.0,-5.0,-12.0,CDK
+280,,2015-09-15 18:04:37,2015-09-11,CDK,Nietzel Alfred A,CFO,F - Tax,48.85,-2659,25579,-9%,-129892.0,0.0,0.0,-5.0,-12.0,CDK
+281,,2015-09-15 18:04:06,2015-09-11,CDK,Mathews Scott L.,"VP, Pres, Digital Mktg",F - Tax,48.85,-1999,27552,-7%,-97651.0,0.0,0.0,-5.0,-12.0,CDK
+282,,2015-09-15 18:03:15,2015-09-11,CDK,Karp Robert N.,"VP, Pres, ARNA",F - Tax,48.85,-3907,54627,-7%,-190857.0,0.0,0.0,-5.0,-12.0,CDK
+283,,2015-09-15 18:02:42,2015-09-11,CDK,Brunz Lee J.,"GC, Secretary",F - Tax,49.23,-944,12920,-7%,-46473.0,0.0,0.0,-5.0,-12.0,CDK
+284,,2015-09-15 18:02:03,2015-09-11,CDK,Anenen Steven,"Pres, CEO",F - Tax,48.85,-7737,69779,-10%,-377952.0,0.0,0.0,-5.0,-12.0,CDK
+285,D,2015-09-11 17:28:46,2015-09-09,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,0.0,1969,13864,+17%,0.0,0.0,0.0,-2.0,-12.0,CDK
+286,,2015-08-14 16:51:11,2015-08-13,CDK,Macdonald Brian P,Dir,A - Grant,0.0,961,4961,+24%,0.0,2.0,-4.0,1.0,-17.0,CDK
+287,D,2015-02-17 17:25:11,2015-02-12,CDK,Karp Robert N.,"VP, Pres, ARNA",M - OptEx,14.12,55146,58528,>999%,778606.0,0.0,0.0,2.0,9.0,CDK
+288,D,2015-02-17 17:25:11,2015-02-12,CDK,Karp Robert N.,"VP, Pres, ARNA",S - Sale+OE,46.3,-55146,58528,-49%,-2553425.0,0.0,0.0,2.0,9.0,CDK
+289,A,2015-02-17 17:17:33,2014-11-18,CDK,Nietzel Alfred A,CFO,A - Grant,0.0,16594,28643,+138%,0.0,0.0,0.0,2.0,9.0,CDK
+290,A,2015-02-17 17:16:47,2014-11-18,CDK,Anenen Steven,"Pres, CEO",A - Grant,0.0,33189,78885,+73%,0.0,0.0,0.0,2.0,9.0,CDK
+291,A,2015-02-17 17:15:26,2014-11-18,CDK,Karp Robert N.,"VP, Pres, ARNA",A - Grant,0.0,16594,28627,+138%,0.0,0.0,0.0,2.0,9.0,CDK
+292,AD,2015-02-17 17:13:12,2014-11-21,CDK,Karp Robert N.,"VP, Pres, ARNA",S - Sale+OE,37.99,-400,58528,-1%,-15196.0,0.0,0.0,2.0,9.0,CDK
+293,D,2014-11-25 17:49:48,2014-11-21,CDK,Karp Robert N.,"VP, Pres, ARNA",M - OptEx,14.87,90786,49987,-223%,1350290.0,0.0,6.0,8.0,43.0,CDK
+294,D,2014-11-25 17:49:48,2014-11-21,CDK,Karp Robert N.,"VP, Pres, ARNA",S - Sale+OE,38.08,-61085,49987,-55%,-2326136.0,0.0,6.0,8.0,43.0,CDK
+295,,2014-11-20 18:37:05,2014-11-18,CDK,Thorne Malcolm,"VP, Chief Strategy Officer",A - Grant,0.0,23067,28370,+435%,0.0,1.0,0.0,6.0,43.0,CDK
+296,,2014-11-20 18:36:06,2014-11-18,CDK,Nietzel Alfred A,CFO,A - Grant,0.0,16594,20095,+474%,0.0,1.0,0.0,6.0,43.0,CDK
+297,,2014-11-20 18:35:13,2014-11-18,CDK,Karp Robert N.,"VP, Pres, ARNA",A - Grant,0.0,16594,20086,+475%,0.0,1.0,0.0,6.0,43.0,CDK
+298,,2014-11-20 18:34:02,2014-11-18,CDK,Brunz Lee J.,"GC, Secretary",A - Grant,0.0,6969,11895,+141%,0.0,1.0,0.0,6.0,43.0,CDK
+299,,2014-11-20 18:33:01,2014-11-18,CDK,Anenen Steven,"Pres, CEO",A - Grant,0.0,33189,55447,+149%,0.0,1.0,0.0,6.0,43.0,CDK
+300,D,2014-11-18 20:11:50,2014-11-14,CDK,Deese Willie A,Dir,A - Grant,0.0,4148,4148,New,0.0,-2.0,-2.0,3.0,38.0,CDK
+301,D,2014-11-18 20:11:24,2014-11-14,CDK,Brun Leslie A,Dir,A - Grant,0.0,6637,22135,+43%,0.0,-2.0,-2.0,3.0,38.0,CDK
+302,D,2014-11-18 20:11:06,2014-11-14,CDK,Sowinski Frank S,Dir,A - Grant,0.0,4148,4481,>999%,0.0,-2.0,-2.0,3.0,38.0,CDK
+303,D,2014-11-18 20:10:39,2014-11-14,CDK,Radway Robert E.,Dir,A - Grant,0.0,4148,4148,New,0.0,-2.0,-2.0,3.0,38.0,CDK
+304,DE,2014-11-18 20:09:50,2014-11-14,CDK,Miles Stephen A.,Dir,A - Grant,11.76,6803,6803,New,80000.0,-2.0,-2.0,3.0,38.0,CDK
+305,DE,2014-11-18 20:09:23,2014-11-14,CDK,Hillman Amy J,Dir,A - Grant,12.61,7135,7135,New,90000.0,-2.0,-2.0,3.0,38.0,CDK

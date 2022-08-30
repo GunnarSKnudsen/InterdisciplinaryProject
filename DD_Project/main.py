@@ -15,11 +15,11 @@ import source.preprocess_timeseries as UPTS
 import source.preprocess_timeseries_from_excel as UPTFE
 import source.analyse_single_company as UASC
 
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
+logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
 
 if __name__ == '__main__':
-    NAME = "Niedermayer"
-    prepare_and_download = True
+    NAME = "Knudsen"
+    prepare_and_download = False
 
     # Constants:
     ### Different Parameters depending on the setting
@@ -78,16 +78,8 @@ if __name__ == '__main__':
     # Start the analysis
 
     pickles = os.listdir(DATA_LOCATION_RI)
-    ISINs = [rick[:-7] for rick in pickles]
-    ISIN = ISINs[0] #"US2825391053"
-    sum_returns = []
-    filing_trade_lags = []
-    for ISIN in tqdm(ISINs):
+    ISINs = [rick[:-7] for rick in pickles][0:20]
 
-        sr, ftl = UASC.analyse_single_company(ISIN, DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED)
-
-        sum_returns += sr
-        filing_trade_lags += ftl
-
-    from matplotlib import pyplot as plt
-    plt.hist(filing_trade_lags)
+    outputs = []
+    for isin in tqdm(ISINs):
+        outputs.append(UASC.analyse_single_company(isin, DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED))

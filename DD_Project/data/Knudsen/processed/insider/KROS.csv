@@ -1,49 +1,76 @@
 ,X,FilingDate,TradeDate,Ticker,InsiderName,Title,TradeType,Price,Qty,Owned,delta_Own,Value,1d,1w,1m,6m,ticker
-0,D,2022-04-08 16:21:01,2022-04-06,KROS,Rovaldi Christopher,COO,S - Sale+OE,65.0,-1728,0,-100%,-112320.0,,,,,KROS
-1,D,2022-04-06 16:49:31,2022-04-04,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,60.0,-7950,85700,-8%,-477000.0,,,,,KROS
-2,D,2022-04-05 16:31:59,2022-04-01,KROS,Rovaldi Christopher,COO,S - Sale+OE,57.49,-864,0,-100%,-49675.0,,,,,KROS
-3,D,2022-03-15 16:37:04,2022-03-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,53.38,-2650,85700,-3%,-141449.0,,,,,KROS
-4,D,2022-02-15 16:26:10,2022-02-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,52.06,-2650,85700,-3%,-137965.0,,,,,KROS
-5,D,2022-01-13 16:39:37,2022-01-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,53.75,-2650,85700,-3%,-142447.0,,,,,KROS
+0,D,2022-03-15 16:37:04,2022-03-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,53.38,-2650,85700,-3%,-141449.0,,,,,KROS
+1,D,2022-03-15 16:37:04,2022-03-11,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,2650,85700,+3%,795.0,,,,,KROS
+2,D,2022-02-15 16:26:10,2022-02-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,52.06,-2650,85700,-3%,-137965.0,,,,,KROS
+3,D,2022-02-15 16:26:10,2022-02-11,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,2650,85700,+3%,795.0,,,,,KROS
+4,D,2022-01-13 16:39:37,2022-01-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,53.75,-2650,85700,-3%,-142447.0,,,,,KROS
+5,D,2022-01-13 16:39:37,2022-01-11,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,2650,85700,+3%,795.0,,,,,KROS
 6,D,2022-01-07 16:35:43,2022-01-05,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,60.0,-2650,85700,-3%,-159000.0,,,,,KROS
-7,M,2022-01-05 19:14:26,2022-01-03,KROS,Knowles Julius,Dir,S - Sale,57.84,-47651,232727,-17%,-2756116.0,,,,,KROS
-8,DM,2021-12-15 16:48:41,2021-12-13,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,50.4,-2650,85700,-3%,-133558.0,,,,,KROS
-9,M,2021-12-03 17:05:19,2021-12-01,KROS,Knowles Julius,Dir,S - Sale,54.09,-47651,251536,-16%,-2577376.0,,,,,KROS
-10,DM,2021-11-12 16:40:00,2021-11-10,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,59.91,-21200,85700,-20%,-1270058.0,,,,,KROS
-11,D,2021-11-05 17:06:39,2021-11-04,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,50.0,-10600,85700,-11%,-530000.0,,,,,KROS
-12,M,2021-11-03 19:04:35,2021-11-01,KROS,Knowles Julius,Dir,S - Sale,42.12,-47651,270346,-15%,-2007129.0,,,,,KROS
-13,M,2021-10-21 16:29:15,2021-10-19,KROS,Knowles Julius,Dir,S - Sale,38.2,-8598,289156,-3%,-328441.0,,,,,KROS
-14,M,2021-10-18 20:35:55,2021-10-14,KROS,Knowles Julius,Dir,S - Sale,38.56,-26367,292550,-8%,-1016653.0,,,,,KROS
-15,M,2021-10-05 20:47:33,2021-10-01,KROS,Knowles Julius,Dir,S - Sale,40.1,-12686,302958,-4%,-508755.0,,,,,KROS
-16,,2021-09-29 16:39:15,2021-09-27,KROS,Knowles Julius,Dir,S - Sale,41.17,-95302,307966,-24%,-3924003.0,,,,,KROS
-17,M,2021-07-06 18:02:40,2021-07-01,KROS,Knowles Julius,Dir,S - Sale,41.31,-47652,345585,-12%,-1968352.0,,,,,KROS
-18,D,2021-06-15 17:02:40,2021-06-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,50.98,-2650,77907,-3%,-135087.0,,,,,KROS
-19,D,2021-06-15 17:01:06,2021-06-11,KROS,Ordonez Claudia,Chief Medical Officer,S - Sale+OE,50.99,-1000,0,-100%,-50990.0,,,,,KROS
-20,M,2021-06-08 16:31:34,2021-06-04,KROS,Knowles Julius,Dir,S - Sale,49.07,-19415,364395,-5%,-952613.0,,,,,KROS
-21,M,2021-06-03 20:06:14,2021-06-01,KROS,Knowles Julius,Dir,S - Sale,49.71,-28236,372059,-7%,-1403553.0,,,,,KROS
-22,D,2021-05-13 16:37:39,2021-05-11,KROS,Ordonez Claudia,Chief Medical Officer,S - Sale+OE,50.15,-1000,0,-100%,-50150.0,,,,,KROS
-23,D,2021-05-13 16:36:12,2021-05-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,50.0,-2650,77907,-3%,-132500.0,,,,,KROS
-24,M,2021-05-05 17:22:19,2021-05-03,KROS,Knowles Julius,Dir,S - Sale,57.27,-47651,383205,-11%,-2728849.0,,,,,KROS
-25,D,2021-04-14 16:46:01,2021-04-12,KROS,Ordonez Claudia,Chief Medical Officer,S - Sale+OE,59.93,-1000,0,-100%,-59926.0,,,,,KROS
-26,D,2021-04-14 16:43:36,2021-04-12,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,60.01,-5300,71187,-7%,-318026.0,,,,,KROS
-27,,2021-04-08 16:35:11,2021-04-06,KROS,Knowles Julius,Dir,S - Sale,58.81,-9298,402015,-2%,-546840.0,,,,,KROS
-28,M,2021-04-05 21:11:20,2021-04-01,KROS,Knowles Julius,Dir,S - Sale,59.72,-38353,405685,-9%,-2290536.0,,,,,KROS
-29,D,2021-03-15 16:45:34,2021-03-11,KROS,Ordonez Claudia,Chief Medical Officer,S - Sale+OE,64.56,-1000,0,-100%,-64556.0,,,,,KROS
-30,D,2021-03-15 16:43:04,2021-03-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,64.48,-5300,61191,-8%,-341750.0,,,,,KROS
-31,M,2021-03-05 19:44:04,2021-03-03,KROS,Knowles Julius,Dir,S - Sale,56.45,-23959,420825,-5%,-1352499.0,,,,,KROS
-32,M,2021-03-03 20:40:40,2021-03-01,KROS,Knowles Julius,Dir,S - Sale,61.13,-23690,430283,-5%,-1448078.0,,,,,KROS
-33,M,2021-02-18 18:46:12,2021-02-16,KROS,Knowles Julius,Dir,S - Sale,60.87,-28617,439634,-6%,-1742043.0,,,,,KROS
-34,M,2021-02-16 17:50:13,2021-02-11,KROS,Knowles Julius,Dir,S - Sale,63.53,-19029,450930,-4%,-1208936.0,,,,,KROS
-35,D,2021-02-16 17:49:05,2021-02-11,KROS,Ordonez Claudia,Chief Medical Officer,S - Sale+OE,64.84,-1000,0,-100%,-64841.0,,,,,KROS
-36,D,2021-02-16 17:47:51,2021-02-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,64.91,-5300,27991,-16%,-344017.0,,,,,KROS
-37,,2020-11-19 16:40:37,2020-11-17,KROS,Nussbaum Ran,"Dir, 10%",P - Purchase,50.0,60000,155262,+63%,3000000.0,,,,,KROS
-38,,2020-11-19 16:39:39,2020-11-17,KROS,Kariv Tomer,"Dir, 10%",P - Purchase,50.0,60000,155262,+63%,3000000.0,,,,,KROS
-39,,2020-11-19 16:38:21,2020-11-17,KROS,Pontifax Management 4 G.P. (2015) Ltd.,10%,P - Purchase,50.0,60000,155262,+63%,3000000.0,,,,,KROS
-40,D,2020-04-13 17:29:33,2020-04-13,KROS,Arkin Bio Ventures Limited Partnership,10%,P - Purchase,16.0,120000,2013102,+6%,1920000.0,,,,,KROS
-41,D,2020-04-13 17:19:02,2020-04-13,KROS,Seehra Jasbir,CEO,P - Purchase,16.0,20000,243856,+9%,320000.0,,,,,KROS
-42,D,2020-04-13 17:18:02,2020-04-13,KROS,Pontifax Management 4 G.P. (2015) Ltd.,10%,P - Purchase,16.0,437499,149262,-152%,6999984.0,,,,,KROS
-43,D,2020-04-13 17:17:02,2020-04-13,KROS,Orbimed Advisors LLC,Dir,P - Purchase,16.0,375200,1119812,+50%,6003200.0,,,,,KROS
-44,D,2020-04-13 17:16:14,2020-04-13,KROS,Nussbaum Ran,"Dir, 10%",P - Purchase,16.0,437499,149262,-152%,6999984.0,,,,,KROS
-45,D,2020-04-13 17:15:10,2020-04-13,KROS,Lazarus Alon,"Dir, 10%",P - Purchase,16.0,120000,2036140,+6%,1920000.0,,,,,KROS
-46,D,2020-04-13 17:13:11,2020-04-13,KROS,Kariv Tomer,"Dir, 10%",P - Purchase,16.0,437499,149262,-152%,6999984.0,,,,,KROS
-47,D,2020-04-13 17:12:09,2020-04-13,KROS,Gordon Carl L,Dir,P - Purchase,16.0,375200,1119812,+50%,6003200.0,,,,,KROS
+7,D,2022-01-07 16:35:43,2022-01-05,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,2650,85700,+3%,795.0,,,,,KROS
+8,M,2022-01-05 19:14:26,2022-01-03,KROS,Knowles Julius,Dir,S - Sale,57.84,-47651,232727,-17%,-2756116.0,,,,,KROS
+9,DM,2021-12-15 16:48:41,2021-12-13,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,50.4,-2650,85700,-3%,-133558.0,,,,,KROS
+10,DM,2021-12-15 16:48:41,2021-12-13,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,2650,85700,+3%,795.0,,,,,KROS
+11,M,2021-12-03 17:05:19,2021-12-01,KROS,Knowles Julius,Dir,S - Sale,54.09,-47651,251536,-16%,-2577376.0,,,,,KROS
+12,DM,2021-11-12 16:40:00,2021-11-10,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,59.91,-21200,85700,-20%,-1270058.0,,,,,KROS
+13,DM,2021-11-12 16:40:00,2021-11-10,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,21200,85700,+33%,6360.0,,,,,KROS
+14,D,2021-11-05 17:06:39,2021-11-04,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,50.0,-10600,85700,-11%,-530000.0,,,,,KROS
+15,D,2021-11-05 17:06:39,2021-11-04,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,10600,85700,+14%,3180.0,,,,,KROS
+16,M,2021-11-03 19:04:35,2021-11-01,KROS,Knowles Julius,Dir,S - Sale,42.12,-47651,270346,-15%,-2007129.0,,,,,KROS
+17,M,2021-10-21 16:29:15,2021-10-19,KROS,Knowles Julius,Dir,S - Sale,38.2,-8598,289156,-3%,-328441.0,,,,,KROS
+18,M,2021-10-18 20:35:55,2021-10-14,KROS,Knowles Julius,Dir,S - Sale,38.56,-26367,292550,-8%,-1016653.0,,,,,KROS
+19,M,2021-10-05 20:47:33,2021-10-01,KROS,Knowles Julius,Dir,S - Sale,40.1,-12686,302958,-4%,-508755.0,,,,,KROS
+20,,2021-09-29 16:39:15,2021-09-27,KROS,Knowles Julius,Dir,S - Sale,41.17,-95302,307966,-24%,-3924003.0,,,,,KROS
+21,D,2021-08-18 17:21:47,2021-08-17,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,1293,85700,+2%,388.0,,,,,KROS
+22,M,2021-07-06 18:02:40,2021-07-01,KROS,Knowles Julius,Dir,S - Sale,41.31,-47652,345585,-12%,-1968352.0,,,,,KROS
+23,D,2021-06-25 18:29:35,2021-06-24,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,6500,84407,+8%,1950.0,,,,,KROS
+24,D,2021-06-15 17:02:40,2021-06-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,50.98,-2650,77907,-3%,-135087.0,,,,,KROS
+25,D,2021-06-15 17:02:40,2021-06-11,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,2650,77907,+4%,795.0,,,,,KROS
+26,D,2021-06-15 17:01:06,2021-06-11,KROS,Ordonez Claudia,Chief Medical Officer,M - OptEx,0.48,1000,0,-100%,480.0,,,,,KROS
+27,D,2021-06-15 17:01:06,2021-06-11,KROS,Ordonez Claudia,Chief Medical Officer,S - Sale+OE,50.99,-1000,0,-100%,-50990.0,,,,,KROS
+28,M,2021-06-08 16:31:34,2021-06-04,KROS,Knowles Julius,Dir,S - Sale,49.07,-19415,364395,-5%,-952613.0,,,,,KROS
+29,M,2021-06-03 20:06:14,2021-06-01,KROS,Knowles Julius,Dir,S - Sale,49.71,-28236,372059,-7%,-1403553.0,,,,,KROS
+30,D,2021-05-13 16:37:39,2021-05-11,KROS,Ordonez Claudia,Chief Medical Officer,S - Sale+OE,50.15,-1000,0,-100%,-50150.0,,,,,KROS
+31,D,2021-05-13 16:37:39,2021-05-11,KROS,Ordonez Claudia,Chief Medical Officer,M - OptEx,0.48,1000,0,-100%,480.0,,,,,KROS
+32,D,2021-05-13 16:36:12,2021-05-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,50.0,-2650,77907,-3%,-132500.0,,,,,KROS
+33,DM,2021-05-13 16:36:12,2021-05-11,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.17,9370,77907,+14%,1629.0,,,,,KROS
+34,M,2021-05-05 17:22:19,2021-05-03,KROS,Knowles Julius,Dir,S - Sale,57.27,-47651,383205,-11%,-2728849.0,,,,,KROS
+35,D,2021-04-14 16:46:01,2021-04-12,KROS,Ordonez Claudia,Chief Medical Officer,S - Sale+OE,59.93,-1000,0,-100%,-59926.0,,,,,KROS
+36,D,2021-04-14 16:46:01,2021-04-12,KROS,Ordonez Claudia,Chief Medical Officer,M - OptEx,0.48,1000,0,-100%,480.0,,,,,KROS
+37,D,2021-04-14 16:43:36,2021-04-12,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,60.01,-5300,71187,-7%,-318026.0,,,,,KROS
+38,D,2021-04-14 16:43:36,2021-04-12,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,5300,71187,+8%,1590.0,,,,,KROS
+39,,2021-04-08 16:35:11,2021-04-06,KROS,Knowles Julius,Dir,S - Sale,58.81,-9298,402015,-2%,-546840.0,,,,,KROS
+40,M,2021-04-05 21:11:20,2021-04-01,KROS,Knowles Julius,Dir,S - Sale,59.72,-38353,405685,-9%,-2290536.0,,,,,KROS
+41,D,2021-04-02 16:32:36,2021-04-01,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.11,9996,71187,+16%,1100.0,,,,,KROS
+42,D,2021-03-15 16:45:34,2021-03-11,KROS,Ordonez Claudia,Chief Medical Officer,S - Sale+OE,64.56,-1000,0,-100%,-64556.0,,,,,KROS
+43,D,2021-03-15 16:45:34,2021-03-11,KROS,Ordonez Claudia,Chief Medical Officer,M - OptEx,0.48,1000,0,-100%,480.0,,,,,KROS
+44,D,2021-03-15 16:43:04,2021-03-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,64.48,-5300,61191,-8%,-341750.0,,,,,KROS
+45,D,2021-03-15 16:43:04,2021-03-11,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,5300,61191,+9%,1590.0,,,,,KROS
+46,M,2021-03-05 19:44:04,2021-03-03,KROS,Knowles Julius,Dir,S - Sale,56.45,-23959,420825,-5%,-1352499.0,,,,,KROS
+47,M,2021-03-03 20:40:40,2021-03-01,KROS,Knowles Julius,Dir,S - Sale,61.13,-23690,430283,-5%,-1448078.0,,,,,KROS
+48,D,2021-03-01 16:54:14,2021-02-26,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.11,33200,61191,+119%,3652.0,,,,,KROS
+49,M,2021-02-18 18:46:12,2021-02-16,KROS,Knowles Julius,Dir,S - Sale,60.87,-28617,439634,-6%,-1742043.0,,,,,KROS
+50,M,2021-02-16 17:50:13,2021-02-11,KROS,Knowles Julius,Dir,S - Sale,63.53,-19029,450930,-4%,-1208936.0,,,,,KROS
+51,D,2021-02-16 17:49:05,2021-02-11,KROS,Ordonez Claudia,Chief Medical Officer,S - Sale+OE,64.84,-1000,0,-100%,-64841.0,,,,,KROS
+52,D,2021-02-16 17:49:05,2021-02-11,KROS,Ordonez Claudia,Chief Medical Officer,M - OptEx,0.48,1000,0,-100%,480.0,,,,,KROS
+53,D,2021-02-16 17:47:51,2021-02-11,KROS,Lachey Jennifer,Chief Scientific Officer,S - Sale+OE,64.91,-5300,27991,-16%,-344017.0,,,,,KROS
+54,D,2021-02-16 17:47:51,2021-02-11,KROS,Lachey Jennifer,Chief Scientific Officer,M - OptEx,0.3,5300,27991,+23%,1590.0,,,,,KROS
+55,,2020-11-19 16:40:37,2020-11-17,KROS,Nussbaum Ran,"Dir, 10%",P - Purchase,50.0,60000,155262,+63%,3000000.0,,,,,KROS
+56,,2020-11-19 16:39:39,2020-11-17,KROS,Kariv Tomer,"Dir, 10%",P - Purchase,50.0,60000,155262,+63%,3000000.0,,,,,KROS
+57,,2020-11-19 16:38:21,2020-11-17,KROS,Pontifax Management 4 G.P. (2015) Ltd.,10%,P - Purchase,50.0,60000,155262,+63%,3000000.0,,,,,KROS
+58,D,2020-04-13 17:29:33,2020-04-13,KROS,Arkin Bio Ventures Limited Partnership,10%,P - Purchase,16.0,120000,2013102,+6%,1920000.0,,,,,KROS
+59,D,2020-04-13 17:29:33,2020-04-13,KROS,Arkin Bio Ventures Limited Partnership,10%,C - Converted deriv,0.0,1893102,2013102,-48%,0.0,,,,,KROS
+60,D,2020-04-13 17:19:02,2020-04-13,KROS,Seehra Jasbir,CEO,P - Purchase,16.0,20000,243856,+9%,320000.0,,,,,KROS
+61,D,2020-04-13 17:19:02,2020-04-13,KROS,Seehra Jasbir,CEO,C - Converted deriv,0.0,11169,243856,-4%,0.0,,,,,KROS
+62,D,2020-04-13 17:18:02,2020-04-13,KROS,Pontifax Management 4 G.P. (2015) Ltd.,10%,P - Purchase,16.0,437499,149262,-152%,6999984.0,,,,,KROS
+63,D,2020-04-13 17:18:02,2020-04-13,KROS,Pontifax Management 4 G.P. (2015) Ltd.,10%,C - Converted deriv,0.0,3545100,149262,-96%,0.0,,,,,KROS
+64,D,2020-04-13 17:17:02,2020-04-13,KROS,Orbimed Advisors LLC,Dir,P - Purchase,16.0,375200,1119812,+50%,6003200.0,,,,,KROS
+65,D,2020-04-13 17:17:02,2020-04-13,KROS,Orbimed Advisors LLC,Dir,C - Converted deriv,0.0,893534,1119812,-44%,0.0,,,,,KROS
+66,D,2020-04-13 17:16:14,2020-04-13,KROS,Nussbaum Ran,"Dir, 10%",P - Purchase,16.0,437499,149262,-152%,6999984.0,,,,,KROS
+67,D,2020-04-13 17:16:14,2020-04-13,KROS,Nussbaum Ran,"Dir, 10%",C - Converted deriv,0.0,3545100,149262,-96%,0.0,,,,,KROS
+68,D,2020-04-13 17:15:10,2020-04-13,KROS,Lazarus Alon,"Dir, 10%",P - Purchase,16.0,120000,2036140,+6%,1920000.0,,,,,KROS
+69,D,2020-04-13 17:15:10,2020-04-13,KROS,Lazarus Alon,"Dir, 10%",C - Converted deriv,0.0,1893102,2036140,-48%,0.0,,,,,KROS
+70,D,2020-04-13 17:13:58,2020-04-13,KROS,Knowles Julius,Dir,C - Converted deriv,0.0,915725,458442,-67%,0.0,,,,,KROS
+71,D,2020-04-13 17:13:11,2020-04-13,KROS,Kariv Tomer,"Dir, 10%",P - Purchase,16.0,437499,149262,-152%,6999984.0,,,,,KROS
+72,D,2020-04-13 17:13:11,2020-04-13,KROS,Kariv Tomer,"Dir, 10%",C - Converted deriv,0.0,3545100,149262,-96%,0.0,,,,,KROS
+73,D,2020-04-13 17:12:09,2020-04-13,KROS,Gordon Carl L,Dir,C - Converted deriv,0.0,893534,1119812,-44%,0.0,,,,,KROS
+74,D,2020-04-13 17:12:09,2020-04-13,KROS,Gordon Carl L,Dir,P - Purchase,16.0,375200,1119812,+50%,6003200.0,,,,,KROS

@@ -1,5 +1,349 @@
 ,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,ticker
-0,D,2022-03-01 15:00:27,2022-02-25,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",S - Sale+OE,$24.00,-15000,109211,-12%,"-$360,000",,,,,RUTH
-1,,2022-02-15 15:00:13,2022-02-11,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",S - Sale,$23.00,-15000,117359,-11%,"-$345,000",,,,,RUTH
-2,,2021-06-15 18:15:16,2021-06-11,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",S - Sale,$24.29,-20000,113616,-15%,"-$485,800",,,,,RUTH
-3,M,2021-03-11 16:20:11,2021-03-09,RUTH,Odonnell Michael P,Dir,S - Sale,$24.90,-200000,851901,-19%,"-$4,980,632",,,,,RUTH
+0,,2022-03-15 15:30:51,2022-03-13,RUTH,Chipman Kristy,"EVP, CFO, COO",F - Tax,$22.22,-86,82251,0%,"-$1,911",,,,,RUTH
+1,,2022-03-15 15:30:38,2022-03-13,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",F - Tax,$22.22,-4640,104571,-4%,"-$103,101",,,,,RUTH
+2,,2022-03-15 15:30:24,2022-03-13,RUTH,Lynch Marcy Norwood,SVP-GC,F - Tax,$22.22,-240,45115,-1%,"-$5,333",,,,,RUTH
+3,,2022-03-15 15:30:17,2022-03-13,RUTH,Hyatt David,Chief People Officer,F - Tax,$22.22,-1514,34374,-4%,"-$33,641",,,,,RUTH
+4,,2022-03-15 15:30:11,2022-03-13,RUTH,Henry Cheryl Janet,"Pres, CEO",F - Tax,$22.22,-19946,652565,-3%,"-$443,200",,,,,RUTH
+5,M,2022-03-01 15:30:43,2022-02-28,RUTH,Baglivo Mary,Dir,A - Grant,$0.00,4644,27953,+20%,+$0,,,,,RUTH
+6,M,2022-03-01 15:30:35,2022-02-28,RUTH,King Stephen M,Dir,A - Grant,$0.00,4665,23719,+24%,+$0,,,,,RUTH
+7,M,2022-03-01 15:30:25,2022-02-28,RUTH,Odonnell Michael P,Dir,A - Grant,$0.00,4612,856513,+1%,+$0,,,,,RUTH
+8,M,2022-03-01 15:30:12,2022-02-28,RUTH,Alvarez Giannella,Dir,A - Grant,$0.00,4639,34307,+16%,+$0,,,,,RUTH
+9,D,2022-03-01 15:00:56,2022-02-28,RUTH,Chipman Kristy,"EVP, CFO, COO",A - Grant,$0.00,28680,82337,+53%,+$0,,,,,RUTH
+10,D,2022-03-01 15:00:44,2022-02-28,RUTH,Hyatt David,Chief People Officer,A - Grant,$0.00,9840,35888,+38%,+$0,,,,,RUTH
+11,D,2022-03-01 15:00:39,2022-02-28,RUTH,Lynch Marcy Norwood,SVP-GC,A - Grant,$0.00,17911,45355,+65%,+$0,,,,,RUTH
+12,,2022-03-01 15:00:29,2022-02-28,RUTH,Cooper Carla,Dir,A - Grant,$0.00,4585,56237,+9%,+$0,,,,,RUTH
+13,D,2022-03-01 15:00:27,2022-02-28,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",A - Grant,$0.00,6852,109211,+7%,+$0,,,,,RUTH
+14,D,2022-03-01 15:00:27,2022-02-25,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",S - Sale+OE,$24.00,-15000,109211,-12%,"-$360,000",,,,,RUTH
+15,D,2022-03-01 15:00:23,2022-02-28,RUTH,Henry Cheryl Janet,"Pres, CEO",A - Grant,$0.00,96641,672511,+17%,+$0,,,,,RUTH
+16,,2022-03-01 15:00:21,2022-02-28,RUTH,Perry Marie,Dir,A - Grant,$0.00,4585,20965,+28%,+$0,,,,,RUTH
+17,,2022-03-01 15:00:16,2022-02-28,RUTH,Selati Robin P,Dir,A - Grant,$0.00,4585,28521,+19%,+$0,,,,,RUTH
+18,,2022-02-15 15:00:13,2022-02-11,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",S - Sale,$23.00,-15000,117359,-11%,"-$345,000",,,,,RUTH
+19,,2022-02-08 15:00:12,2022-02-05,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",F - Tax,$20.28,-2234,132359,-2%,"-$45,306",,,,,RUTH
+20,,2021-12-27 16:30:43,2021-12-23,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",A - Grant,$0.00,20977,134593,+18%,+$0,,,,,RUTH
+21,,2021-12-27 16:30:26,2021-12-23,RUTH,Lynch Marcy Norwood,SVP-GC,A - Grant,$0.00,15795,27444,+136%,+$0,,,,,RUTH
+22,,2021-12-27 16:30:18,2021-12-23,RUTH,Henry Cheryl Janet,"Pres, CEO",A - Grant,$0.00,92547,575870,+19%,+$0,,,,,RUTH
+23,,2021-12-27 16:30:18,2021-12-23,RUTH,Hyatt David,Chief People Officer,A - Grant,$0.00,10550,26048,+68%,+$0,,,,,RUTH
+24,,2021-12-27 16:30:11,2021-12-23,RUTH,Chipman Kristy,"EVP, Chief Fin Officer",A - Grant,$0.00,25913,53657,+93%,+$0,,,,,RUTH
+25,,2021-08-11 16:15:50,2021-08-10,RUTH,Henry Cheryl Janet,"Pres, CEO",F - Tax,$20.10,-16396,483323,-3%,"-$329,560",,,,,RUTH
+26,,2021-06-15 18:15:18,2021-06-15,RUTH,Henry Cheryl Janet,"Pres, CEO",F - Tax,$24.08,-12297,499719,-2%,"-$296,112",,,,,RUTH
+27,,2021-06-15 18:15:16,2021-06-15,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",F - Tax,$24.08,-4919,113616,-4%,"-$118,450",,,,,RUTH
+28,,2021-06-15 18:15:16,2021-06-11,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",S - Sale,$24.29,-20000,113616,-15%,"-$485,800",,,,,RUTH
+29,,2021-06-04 15:00:08,2021-06-03,RUTH,Hyatt David,Chief People Officer,F - Tax,$22.80,-1312,15498,-8%,"-$29,914",,,,,RUTH
+30,,2021-04-26 16:15:09,2021-04-25,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",F - Tax,$24.47,-1476,138535,-1%,"-$36,118",,,,,RUTH
+31,,2021-03-16 16:15:32,2021-03-13,RUTH,Henry Cheryl Janet,"Pres, CEO",F - Tax,$26.43,-23593,512016,-4%,"-$623,563",,,,,RUTH
+32,,2021-03-16 16:15:30,2021-03-13,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",F - Tax,$26.43,-6362,140011,-4%,"-$168,148",,,,,RUTH
+33,,2021-03-16 16:15:24,2021-03-13,RUTH,Hyatt David,Chief People Officer,F - Tax,$26.43,-419,16810,-2%,"-$11,074",,,,,RUTH
+34,M,2021-03-11 16:20:11,2021-03-09,RUTH,Odonnell Michael P,Dir,S - Sale,$24.90,-200000,851901,-19%,"-$4,980,632",,,,,RUTH
+35,,2021-03-03 16:01:08,2021-03-01,RUTH,Henry Cheryl Janet,"Pres, CEO",A - Grant,$0.00,32737,535609,+7%,+$0,,,,,RUTH
+36,,2021-03-03 16:01:06,2021-03-01,RUTH,Selati Robin P,Dir,A - Grant,$0.00,4965,23936,+26%,+$0,,,,,RUTH
+37,,2021-03-03 16:01:06,2021-03-01,RUTH,Perry Marie,Dir,A - Grant,$0.00,4965,16380,+43%,+$0,,,,,RUTH
+38,,2021-03-03 16:01:03,2021-03-01,RUTH,Chipman Kristy,"EVP, Chief Fin Officer",A - Grant,$0.00,705,27744,+3%,+$0,,,,,RUTH
+39,,2021-03-03 16:00:57,2021-03-01,RUTH,Lynch Marcy Norwood,SVP-GC,A - Grant,$0.00,1827,11649,+19%,+$0,,,,,RUTH
+40,,2021-03-03 16:00:55,2021-03-01,RUTH,Baglivo Mary,Dir,A - Grant,$0.00,4965,23309,+27%,+$0,,,,,RUTH
+41,,2021-03-03 16:00:53,2021-03-01,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",A - Grant,$0.00,7420,146373,+5%,+$0,,,,,RUTH
+42,,2021-03-03 16:00:49,2021-03-01,RUTH,Hyatt David,Chief People Officer,A - Grant,$0.00,3732,17229,+28%,+$0,,,,,RUTH
+43,,2021-03-03 16:00:45,2021-03-01,RUTH,King Stephen M,Dir,A - Grant,$0.00,4965,19054,+35%,+$0,,,,,RUTH
+44,,2021-03-03 16:00:36,2021-03-01,RUTH,Alvarez Giannella,Dir,A - Grant,$0.00,4965,29668,+20%,+$0,,,,,RUTH
+45,,2021-03-03 16:00:24,2021-03-01,RUTH,Cooper Carla,Dir,A - Grant,$0.00,4965,51652,+11%,+$0,,,,,RUTH
+46,,2021-03-03 16:00:16,2021-03-01,RUTH,Odonnell Michael P,Dir,A - Grant,$0.00,4965,1051901,0%,+$0,,,,,RUTH
+47,,2021-02-08 11:22:16,2021-02-05,RUTH,Mirdamadi Susan,"EVP, Chief Admin Officer",F - Tax,$19.39,-2233,138953,-2%,"-$43,298",,,,,RUTH
+48,D,2020-12-09 09:25:28,2020-12-07,RUTH,Lynch Marcy Norwood,See Remarks,A - Grant,$0.00,9822,9822,New,+$0,,,,,RUTH
+49,D,2020-12-02 16:29:05,2020-11-30,RUTH,Chipman Kristy,See Remarks,A - Grant,$0.00,27039,27039,New,+$0,,,,,RUTH
+50,,2020-07-20 13:21:22,2020-07-17,RUTH,Odonnell Michael P,Exec COB,F - Tax,$6.98,-39587,1048736,-4%,"-$276,317",,,,,RUTH
+51,,2020-07-01 13:37:40,2020-06-30,RUTH,Odonnell Michael P,Exec COB,F - Tax,$8.16,-29513,1088323,-3%,"-$240,826",,,,,RUTH
+52,,2020-06-16 20:36:49,2020-06-15,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$9.73,-14757,316088,-4%,"-$143,586",,,,,RUTH
+53,,2020-06-16 20:35:55,2020-06-15,RUTH,Henry Cheryl Janet,"Pres, CEO",F - Tax,$9.73,-12297,502872,-2%,"-$119,650",,,,,RUTH
+54,,2020-06-16 20:34:53,2020-06-15,RUTH,Mirdamadi Susan,EVP Chief Admin Officer,F - Tax,$9.73,-4919,141186,-3%,"-$47,862",,,,,RUTH
+55,,2020-06-04 17:19:37,2020-06-03,RUTH,Hyatt David,"SVP, Chief People Officer",F - Tax,$9.19,-1282,13497,-9%,"-$11,782",,,,,RUTH
+56,,2020-04-27 18:13:46,2020-04-25,RUTH,Mirdamadi Susan,EVP Chief Admin Officer,F - Tax,$8.38,-1476,146105,-1%,"-$12,369",,,,,RUTH
+57,,2020-03-23 16:54:37,2020-03-20,RUTH,Baglivo Mary,Dir,A - Grant,$0.00,218,18344,+1%,+$0,,,,,RUTH
+58,,2020-03-23 16:54:04,2020-03-20,RUTH,King Stephen M,Dir,A - Grant,$0.00,360,14089,+3%,+$0,,,,,RUTH
+59,,2020-03-23 16:53:38,2020-03-20,RUTH,Alvarez Giannella,Dir,A - Grant,$0.00,360,24703,+1%,+$0,,,,,RUTH
+60,M,2020-03-13 17:01:29,2020-03-11,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$12.71,-5911,330845,-2%,"-$75,140",,,,,RUTH
+61,M,2020-03-13 16:58:50,2020-03-11,RUTH,Mirdamadi Susan,EVP Chief Admin Officer,F - Tax,$12.59,-4341,147581,-3%,"-$54,666",,,,,RUTH
+62,M,2020-03-13 16:58:25,2020-03-11,RUTH,Henry Cheryl Janet,"Pres, CEO",F - Tax,$12.67,-11470,515169,-2%,"-$145,305",,,,,RUTH
+63,M,2020-03-13 16:57:58,2020-03-11,RUTH,Odonnell Michael P,Exec COB,F - Tax,$12.71,-21278,1117836,-2%,"-$270,484",,,,,RUTH
+64,M,2020-03-13 16:57:35,2020-03-11,RUTH,Givens Alice G,"SVP, GC",F - Tax,$12.71,-1471,45300,-3%,"-$18,697",,,,,RUTH
+65,,2020-03-03 10:35:29,2020-02-28,RUTH,Givens Alice G,"SVP, GC",A - Grant,$0.00,9787,46771,+26%,+$0,,,,,RUTH
+66,,2020-03-03 10:35:03,2020-02-28,RUTH,Mirdamadi Susan,EVP Chief Admin Officer,A - Grant,$0.00,12998,151922,+9%,+$0,,,,,RUTH
+67,,2020-03-03 10:34:35,2020-02-28,RUTH,Odonnell Michael P,Exec COB,A - Grant,$0.00,38229,1139114,+3%,+$0,,,,,RUTH
+68,,2020-03-03 10:34:12,2020-02-28,RUTH,Hyatt David,"SVP, Chief People Officer",A - Grant,$0.00,4779,14779,+48%,+$0,,,,,RUTH
+69,,2020-03-03 10:33:47,2020-02-28,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,14336,336756,+4%,+$0,,,,,RUTH
+70,,2020-03-03 10:33:20,2020-02-28,RUTH,Henry Cheryl Janet,"Pres, CEO",A - Grant,$0.00,57343,526639,+12%,+$0,,,,,RUTH
+71,,2020-03-03 10:31:28,2020-02-28,RUTH,Alvarez Giannella,Dir,A - Grant,$0.00,5946,24343,+32%,+$0,,,,,RUTH
+72,,2020-03-03 10:30:46,2020-02-28,RUTH,King Stephen M,Dir,A - Grant,$0.00,5946,13729,+76%,+$0,,,,,RUTH
+73,,2020-03-03 10:30:08,2020-02-28,RUTH,Selati Robin P,Dir,A - Grant,$0.00,5946,18971,+46%,+$0,,,,,RUTH
+74,,2020-03-03 10:29:41,2020-02-28,RUTH,Perry Marie,Dir,A - Grant,$0.00,5946,11415,+109%,+$0,,,,,RUTH
+75,,2020-03-03 10:29:11,2020-02-28,RUTH,Baglivo Mary,Dir,A - Grant,$0.00,5946,18126,+49%,+$0,,,,,RUTH
+76,,2020-03-03 10:28:28,2020-02-28,RUTH,Cooper Carla,Dir,A - Grant,$0.00,5946,46687,+15%,+$0,,,,,RUTH
+77,,2020-02-06 06:41:06,2020-02-05,RUTH,Mirdamadi Susan,EVP Chief Admin Officer,F - Tax,$20.74,-2216,138924,-2%,"-$45,960",,,,,RUTH
+78,M,2019-12-06 12:04:26,2019-06-05,RUTH,King Stephen M,Dir,A - Grant,$0.00,70,7783,+1%,+$0,,,,,RUTH
+79,M,2019-12-06 12:03:45,2019-06-05,RUTH,Alvarez Giannella,Dir,A - Grant,$0.00,70,18397,0%,+$0,,,,,RUTH
+80,,2019-07-29 15:09:32,2019-07-26,RUTH,Henry Cheryl Janet,"Pres, CEO",F - Tax,$22.41,-19675,469296,-4%,"-$440,917",,,,,RUTH
+81,,2019-07-01 18:07:11,2019-06-30,RUTH,Odonnell Michael P,Exec COB,F - Tax,$22.71,-29513,1100885,-3%,"-$670,240",,,,,RUTH
+82,,2019-06-17 10:45:39,2019-06-15,RUTH,Mirdamadi Susan,EVP Chief Admin Officer,F - Tax,$22.67,-4919,141140,-3%,"-$111,514",,,,,RUTH
+83,,2019-06-17 10:45:11,2019-06-15,RUTH,Henry Cheryl Janet,"Pres, CEO",F - Tax,$22.67,-12297,488971,-2%,"-$278,773",,,,,RUTH
+84,,2019-06-17 10:43:50,2019-06-15,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$22.67,-14757,322420,-4%,"-$334,541",,,,,RUTH
+85,,2019-03-22 16:08:10,2019-03-21,RUTH,King Stephen M,Dir,A - Grant,$0.00,20,7713,0%,+$0,,,,,RUTH
+86,,2019-03-22 16:07:38,2019-03-21,RUTH,Alvarez Giannella,Dir,A - Grant,$0.00,20,18327,0%,+$0,,,,,RUTH
+87,M,2019-03-13 16:59:54,2019-03-11,RUTH,Odonnell Michael P,Exec COB,F - Tax,$25.39,-26350,1130398,-2%,"-$669,143",,,,,RUTH
+88,M,2019-03-13 16:59:29,2019-03-11,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$25.39,-7320,337177,-2%,"-$185,887",,,,,RUTH
+89,M,2019-03-13 16:59:07,2019-03-11,RUTH,Mirdamadi Susan,EVP Chief Admin Officer,F - Tax,$25.41,-3478,146059,-2%,"-$88,380",,,,,RUTH
+90,M,2019-03-13 16:58:37,2019-03-11,RUTH,Henry Cheryl Janet,"Pres, CEO",F - Tax,$25.39,-12005,501268,-2%,"-$304,860",,,,,RUTH
+91,,2019-03-04 09:49:30,2019-03-03,RUTH,Odonnell Michael P,Exec COB,F - Tax,$26.08,-5043,1156748,0%,"-$131,521",,,,,RUTH
+92,,2019-03-04 09:49:02,2019-03-03,RUTH,Mirdamadi Susan,EVP Chief Admin Officer,F - Tax,$26.08,-595,149537,0%,"-$15,518",,,,,RUTH
+93,,2019-03-04 09:48:32,2019-03-03,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$26.08,-1401,344497,0%,"-$36,538",,,,,RUTH
+94,,2019-03-04 09:48:02,2019-03-03,RUTH,Henry Cheryl Janet,"Pres, CEO",F - Tax,$26.08,-1007,513273,0%,"-$26,263",,,,,RUTH
+95,,2019-02-27 14:46:34,2019-02-25,RUTH,Perry Marie,Dir,A - Grant,$0.00,3804,5469,+228%,+$0,,,,,RUTH
+96,,2019-02-27 14:42:29,2019-02-25,RUTH,Odonnell Michael P,Exec COB,A - Grant,$0.00,62172,1161791,+6%,+$0,,,,,RUTH
+97,,2019-02-27 14:38:51,2019-02-25,RUTH,Selati Robin P,Dir,A - Grant,$0.00,3804,16564,+30%,+$0,,,,,RUTH
+98,,2019-02-27 14:37:16,2019-02-25,RUTH,King Stephen M,Dir,A - Grant,$0.00,3804,7693,+98%,+$0,,,,,RUTH
+99,,2019-02-27 14:36:44,2019-02-25,RUTH,Cooper Carla,Dir,A - Grant,$0.00,3804,40741,+10%,+$0,,,,,RUTH
+100,,2019-02-27 14:36:19,2019-02-25,RUTH,Baglivo Mary,Dir,A - Grant,$0.00,3804,12180,+45%,+$0,,,,,RUTH
+101,,2019-02-27 14:35:40,2019-02-25,RUTH,Alvarez Giannella,Dir,A - Grant,$0.00,3804,18307,+26%,+$0,,,,,RUTH
+102,,2019-02-27 14:35:12,2019-02-25,RUTH,Mirdamadi Susan,EVP Chief Admin Officer,A - Grant,$0.00,15658,150132,+12%,+$0,,,,,RUTH
+103,,2019-02-27 14:34:22,2019-02-25,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,17270,345898,+5%,+$0,,,,,RUTH
+104,,2019-02-27 14:32:47,2019-02-25,RUTH,Henry Cheryl Janet,"Pres, CEO",A - Grant,$0.00,59870,514280,+13%,+$0,,,,,RUTH
+105,,2019-02-06 18:11:27,2019-02-05,RUTH,Mirdamadi Susan,EVP Chief Admin Officer,A - Grant,$0.00,15000,134474,+13%,+$0,,,,,RUTH
+106,,2018-10-24 12:10:56,2018-10-22,RUTH,Perry Marie,Dir,A - Grant,$0.00,1665,1665,New,+$0,,,,,RUTH
+107,,2018-08-10 09:10:15,2018-08-10,RUTH,Henry Cheryl Janet,"Pres, CEO",A - Grant,$0.00,125000,454410,+38%,+$0,,,,,RUTH
+108,,2018-07-27 17:10:43,2018-07-26,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",F - Tax,$29.65,-19675,329410,-6%,"-$583,364",,,,,RUTH
+109,,2018-07-02 12:46:15,2018-06-30,RUTH,Odonnell Michael P,"COB, CEO",F - Tax,$28.05,-29513,1099619,-3%,"-$827,840",,,,,RUTH
+110,,2018-06-19 13:03:30,2018-06-15,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",F - Tax,$27.65,-11845,349085,-3%,"-$327,514",,,,,RUTH
+111,,2018-06-19 13:03:00,2018-06-15,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$27.65,-14757,328628,-4%,"-$408,031",,,,,RUTH
+112,,2018-06-19 13:02:26,2018-06-15,RUTH,Mirdamadi Susan,SVP Chief Services Officer,F - Tax,$27.65,-4919,119474,-4%,"-$136,010",,,,,RUTH
+113,,2018-03-13 17:48:17,2018-03-13,RUTH,Alvarez Giannella,Dir,A - Grant,$0.00,3889,14503,+37%,+$0,,,,,RUTH
+114,,2018-03-13 17:47:58,2018-03-13,RUTH,Baglivo Mary,Dir,A - Grant,$0.00,3889,8376,+87%,+$0,,,,,RUTH
+115,,2018-03-13 17:47:37,2018-03-13,RUTH,Cooper Carla,Dir,A - Grant,$0.00,3889,36937,+12%,+$0,,,,,RUTH
+116,,2018-03-13 17:47:17,2018-03-13,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,14266,343385,+4%,+$0,,,,,RUTH
+117,M,2018-03-13 17:47:17,2018-03-09,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$24.90,-2794,343385,-1%,"-$69,571",,,,,RUTH
+118,,2018-03-13 17:46:57,2018-03-13,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",A - Grant,$0.00,23396,360930,+7%,+$0,,,,,RUTH
+119,M,2018-03-13 17:46:57,2018-03-09,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",F - Tax,$24.90,-1997,360930,-1%,"-$49,725",,,,,RUTH
+120,,2018-03-13 17:46:36,2018-03-13,RUTH,King Stephen M,Dir,A - Grant,$0.00,3889,3889,New,+$0,,,,,RUTH
+121,,2018-03-13 17:46:12,2018-03-13,RUTH,Mirdamadi Susan,SVP Chief Services Officer,A - Grant,$0.00,11413,124939,+10%,+$0,,,,,RUTH
+122,M,2018-03-13 17:46:12,2018-03-09,RUTH,Mirdamadi Susan,SVP Chief Services Officer,F - Tax,$24.90,-986,124939,-1%,"-$24,551",,,,,RUTH
+123,,2018-03-13 17:45:48,2018-03-13,RUTH,Odonnell Michael P,"COB, CEO",A - Grant,$0.00,51357,1129132,+5%,+$0,,,,,RUTH
+124,M,2018-03-13 17:45:48,2018-03-09,RUTH,Odonnell Michael P,"COB, CEO",F - Tax,$24.90,-9962,1129132,-1%,"-$248,054",,,,,RUTH
+125,,2018-03-13 17:45:15,2018-03-13,RUTH,Toomy Kevin W,"Former Pres, COO - RCSH",A - Grant,$0.00,4482,132882,+3%,+$0,,,,,RUTH
+126,M,2018-03-13 17:45:15,2018-03-09,RUTH,Toomy Kevin W,"Former Pres, COO - RCSH",F - Tax,$24.90,-1523,132882,-1%,"-$37,923",,,,,RUTH
+127,,2018-03-13 17:24:50,2018-03-13,RUTH,Merritt Robert Stephen,Dir,A - Grant,$0.00,3889,68894,+6%,+$0,,,,,RUTH
+128,,2018-03-13 17:23:47,2018-03-13,RUTH,Selati Robin P,Dir,A - Grant,$0.00,3889,18015,+28%,+$0,,,,,RUTH
+129,,2018-03-05 18:00:07,2018-03-03,RUTH,Odonnell Michael P,"COB, CEO",F - Tax,$25.15,-25915,1087737,-2%,"-$651,762",,,,,RUTH
+130,,2018-03-05 17:59:43,2018-03-03,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$25.15,-7299,331913,-2%,"-$183,570",,,,,RUTH
+131,,2018-03-05 17:59:21,2018-03-03,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",F - Tax,$25.15,-4086,339531,-1%,"-$102,763",,,,,RUTH
+132,,2018-03-05 17:58:59,2018-03-03,RUTH,Mirdamadi Susan,SVP Chief Services Officer,F - Tax,$25.15,-3179,113966,-3%,"-$79,952",,,,,RUTH
+133,,2018-03-05 17:58:35,2018-03-03,RUTH,Toomy Kevin W,"Pres, COO - RCSH",F - Tax,$25.15,-4936,129923,-4%,"-$124,140",,,,,RUTH
+134,,2018-02-28 17:57:51,2018-02-28,RUTH,Mirdamadi Susan,SVP Chief Services Officer,S - Sale,$24.80,-8000,117145,-6%,"-$198,410",,,,,RUTH
+135,,2017-12-14 16:42:14,2017-12-13,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",S - Sale,$21.47,-18000,343617,-5%,"-$386,543",,,,,RUTH
+136,M,2017-11-20 14:56:49,2017-11-16,RUTH,Toomy Kevin W,"Pres, COO - RCSH",S - Sale,$19.91,-24548,134859,-15%,"-$488,691",,,,,RUTH
+137,,2017-06-30 17:33:16,2017-06-30,RUTH,Odonnell Michael P,"COB, CEO",F - Tax,$21.75,-31463,1113652,-3%,"-$684,320",,,,,RUTH
+138,,2017-06-16 15:03:49,2017-06-15,RUTH,Toomy Kevin W,"Pres, COO - RCSH",F - Tax,$22.05,-13984,159407,-8%,"-$308,347",,,,,RUTH
+139,,2017-05-26 14:25:41,2017-05-25,RUTH,Baglivo Mary,Dir,A - Grant,$0.00,4487,4487,New,+$0,,,,,RUTH
+140,M,2017-05-16 18:40:36,2017-05-12,RUTH,Odonnell Michael P,"COB, CEO",S - Sale,$21.05,-81800,1145115,-7%,"-$1,721,675",,,,,RUTH
+141,D,2017-05-12 10:02:43,2017-05-11,RUTH,Vituli Alan,Dir,M - OptEx,$17.17,3000,20837,+17%,"+$51,510",-1.0,,,,RUTH
+142,D,2017-05-12 10:02:43,2017-05-11,RUTH,Vituli Alan,Dir,S - Sale+OE,$21.16,-3000,20837,-13%,"-$63,468",-1.0,,,,RUTH
+143,D,2017-05-11 13:31:41,2017-05-10,RUTH,Cooper Carla,Dir,M - OptEx,$17.17,3000,33048,+10%,"+$51,510",0.0,,,,RUTH
+144,D,2017-05-11 13:31:41,2017-05-10,RUTH,Cooper Carla,Dir,S - Sale+OE,$21.20,-3000,33048,-8%,"-$63,587",0.0,,,,RUTH
+145,D,2017-05-11 13:31:12,2017-05-10,RUTH,Hudson Bannus,Dir,F - Tax,$21.05,-2457,78513,-3%,"-$51,721",0.0,,,,RUTH
+146,D,2017-05-11 13:31:12,2017-05-10,RUTH,Hudson Bannus,Dir,M - OptEx,$17.17,3000,78513,+4%,"+$51,510",0.0,,,,RUTH
+147,D,2017-05-09 15:45:46,2017-05-09,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",M - OptEx,$18.51,21077,361617,+6%,"+$390,092",3.0,,,,RUTH
+148,D,2017-05-09 15:45:46,2017-05-09,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",S - Sale+OE,$21.08,-21077,361617,-6%,"-$444,236",3.0,,,,RUTH
+149,,2017-03-13 16:42:30,2017-03-11,RUTH,Cooper Carla,Dir,A - Grant,$0.00,5133,33048,+18%,+$0,1.0,5.0,7.0,,RUTH
+150,,2017-03-13 16:36:39,2017-03-11,RUTH,Alvarez Giannella,Dir,A - Grant,$0.00,5133,10614,+94%,+$0,1.0,5.0,7.0,,RUTH
+151,,2017-03-13 16:36:02,2017-03-11,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,22743,339212,+7%,+$0,1.0,5.0,7.0,,RUTH
+152,M,2017-03-13 16:36:02,2017-03-09,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$18.45,-6843,339212,-2%,"-$126,245",1.0,5.0,7.0,,RUTH
+153,,2017-03-13 16:35:43,2017-03-11,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",A - Grant,$0.00,37298,361617,+12%,+$0,1.0,5.0,7.0,,RUTH
+154,M,2017-03-13 16:35:43,2017-03-09,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",F - Tax,$18.46,-3447,361617,-1%,"-$63,627",1.0,5.0,7.0,,RUTH
+155,,2017-03-13 16:35:23,2017-03-11,RUTH,Hudson Bannus,Dir,A - Grant,$0.00,5133,77970,+7%,+$0,1.0,5.0,7.0,,RUTH
+156,,2017-03-13 16:35:03,2017-03-11,RUTH,Merritt Robert Stephen,Dir,A - Grant,$0.00,5133,65005,+9%,+$0,1.0,5.0,7.0,,RUTH
+157,,2017-03-13 16:34:44,2017-03-11,RUTH,Odonnell Michael P,"COB, CEO",A - Grant,$0.00,81873,1226915,+7%,+$0,1.0,5.0,7.0,,RUTH
+158,M,2017-03-13 16:34:44,2017-03-09,RUTH,Odonnell Michael P,"COB, CEO",F - Tax,$18.46,-25019,1226915,-2%,"-$461,819",1.0,5.0,7.0,,RUTH
+159,,2017-03-13 16:34:21,2017-03-11,RUTH,Selati Robin P,Dir,A - Grant,$0.00,5133,43117,+14%,+$0,1.0,5.0,7.0,,RUTH
+160,,2017-03-13 16:33:58,2017-03-11,RUTH,Toomy Kevin W,"Pres, COO - RCSH",A - Grant,$0.00,15238,173391,+10%,+$0,1.0,5.0,7.0,,RUTH
+161,M,2017-03-13 16:33:58,2017-03-09,RUTH,Toomy Kevin W,"Pres, COO - RCSH",F - Tax,$18.44,-2851,173391,-2%,"-$52,560",1.0,5.0,7.0,,RUTH
+162,,2017-03-07 12:01:54,2017-03-03,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$16.90,-1662,323312,-1%,"-$28,088",-2.0,1.0,8.0,,RUTH
+163,,2017-03-07 12:01:33,2017-03-03,RUTH,Henry Cheryl Janet,"Pres, COO - RHGI",F - Tax,$16.90,-1346,327766,0%,"-$22,747",-2.0,1.0,8.0,,RUTH
+164,,2017-03-07 12:00:58,2017-03-03,RUTH,Odonnell Michael P,"COB, CEO",F - Tax,$16.90,-5340,1170061,0%,"-$90,246",-2.0,1.0,8.0,,RUTH
+165,,2017-03-07 12:00:28,2017-03-03,RUTH,Toomy Kevin W,"Pres, COO - RCSH",F - Tax,$16.90,-1127,161004,-1%,"-$19,046",-2.0,1.0,8.0,,RUTH
+166,,2016-12-30 13:25:40,2016-12-29,RUTH,Cooper Carla,Dir,G - Gift,$0.00,-16900,27915,-38%,-$0,-1.0,-4.0,-7.0,,RUTH
+167,M,2016-11-14 09:28:26,2016-11-10,RUTH,Toomy Kevin W,"P, COO-Ruth's Chris Steak Hse",S - Sale,$16.54,-40971,162131,-20%,"-$677,830",1.0,1.0,15.0,,RUTH
+168,,2016-07-26 18:12:34,2016-07-26,RUTH,Henry Cheryl Janet,"Pres, COO",A - Grant,$0.00,100000,329112,+44%,+$0,1.0,3.0,0.0,13.0,RUTH
+169,,2016-06-17 16:05:38,2016-06-15,RUTH,Toomy Kevin W,"P, COO-Ruth's Chris Steak Hse",F - Tax,$16.70,-11743,203102,-5%,"-$196,108",-1.0,-4.0,-8.0,13.0,RUTH
+170,,2016-03-16 16:36:01,2016-03-14,RUTH,Toomy Kevin W,"P, COO-Ruth's Chris Steak Hse",F - Tax,$16.87,-234,214845,0%,"-$3,948",1.0,0.0,1.0,-15.0,RUTH
+171,,2016-03-16 16:35:35,2016-03-14,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$16.87,-1463,324974,0%,"-$24,681",1.0,0.0,1.0,-15.0,RUTH
+172,,2016-03-16 16:33:01,2016-03-14,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$16.87,-6103,1175401,-1%,"-$102,958",1.0,0.0,1.0,-15.0,RUTH
+173,,2016-03-16 16:28:56,2016-03-14,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$16.87,-672,229112,0%,"-$11,337",1.0,0.0,1.0,-15.0,RUTH
+174,,2016-03-15 17:56:55,2016-03-11,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$17.28,-3251,229784,-1%,"-$56,177",3.0,3.0,4.0,-11.0,RUTH
+175,,2016-03-15 17:54:25,2016-03-11,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$17.28,-6524,326437,-2%,"-$112,735",3.0,3.0,4.0,-11.0,RUTH
+176,,2016-03-15 17:52:21,2016-03-11,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$17.28,-36206,1181504,-3%,"-$625,640",3.0,3.0,4.0,-11.0,RUTH
+177,,2016-03-15 17:49:51,2016-03-11,RUTH,Toomy Kevin W,"P, COO-Ruth's Chris Steak Hse",F - Tax,$17.28,-2756,215079,-1%,"-$47,624",3.0,3.0,4.0,-11.0,RUTH
+178,,2016-03-14 16:13:46,2016-03-11,RUTH,Odonnell Michael P,"Pres, CEO, Dir",P - Purchase,$17.39,1600,1217710,0%,"+$27,816",2.0,5.0,5.0,-10.0,RUTH
+179,,2016-03-11 16:26:59,2016-03-09,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$17.44,-5587,1216110,0%,"-$97,437",-2.0,4.0,3.0,-11.0,RUTH
+180,,2016-03-11 16:21:09,2016-03-09,RUTH,Toomy Kevin W,"P, COO-Ruth's Chris Steak Hse",F - Tax,$17.44,-448,217835,0%,"-$7,813",-2.0,4.0,3.0,-11.0,RUTH
+181,,2016-03-11 16:20:34,2016-03-09,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$17.44,-502,233035,0%,"-$8,755",-2.0,4.0,3.0,-11.0,RUTH
+182,,2016-03-11 16:20:33,2016-03-09,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$17.44,-1031,332961,0%,"-$17,981",-2.0,4.0,3.0,-11.0,RUTH
+183,,2016-03-07 17:26:20,2016-03-03,RUTH,Vituli Alan,Dir,A - Grant,$0.00,5481,20837,+36%,+$0,1.0,-1.0,2.0,-14.0,RUTH
+184,,2016-03-04 18:40:08,2016-03-03,RUTH,Cooper Carla,Dir,A - Grant,$0.00,5481,44815,+14%,+$0,0.0,-2.0,3.0,-14.0,RUTH
+185,,2016-03-04 18:39:51,2016-03-03,RUTH,Merritt Robert Stephen,Dir,A - Grant,$0.00,5481,59872,+10%,+$0,0.0,-2.0,3.0,-14.0,RUTH
+186,,2016-03-04 18:39:08,2016-03-03,RUTH,Toomy Kevin W,See remarks,A - Grant,$0.00,17037,218283,+8%,+$0,0.0,-2.0,3.0,-14.0,RUTH
+187,,2016-03-04 18:34:43,2016-03-03,RUTH,Henry Cheryl Janet,Chief Branding Officer,A - Grant,$0.00,20343,233537,+10%,+$0,0.0,-2.0,3.0,-14.0,RUTH
+188,,2016-03-04 18:34:24,2016-03-03,RUTH,Alvarez Giannella,Dir,A - Grant,$0.00,5481,5481,New,+$0,0.0,-2.0,3.0,-14.0,RUTH
+189,,2016-03-04 18:34:14,2016-03-03,RUTH,Selati Robin P,Dir,A - Grant,$0.00,5481,37984,+17%,+$0,0.0,-2.0,3.0,-14.0,RUTH
+190,,2016-03-04 18:34:11,2016-03-03,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,25429,333992,+8%,+$0,0.0,-2.0,3.0,-14.0,RUTH
+191,,2016-03-04 18:34:06,2016-03-03,RUTH,Hudson Bannus,Dir,A - Grant,$0.00,5481,72837,+8%,+$0,0.0,-2.0,3.0,-14.0,RUTH
+192,,2016-03-04 18:32:33,2016-03-03,RUTH,Odonnell Michael P,"Pres, CEO, Dir",A - Grant,$0.00,91543,1221697,+8%,+$0,0.0,-2.0,3.0,-14.0,RUTH
+193,D,2016-02-25 16:21:26,2016-02-24,RUTH,Toomy Kevin W,"P, COO- Ruth's Chris Steak Hse",M - OptEx,$2.32,20000,201246,+11%,"+$46,400",0.0,4.0,4.0,-9.0,RUTH
+194,D,2016-02-25 16:21:26,2016-02-23,RUTH,Toomy Kevin W,"P, COO- Ruth's Chris Steak Hse",S - Sale+OE,$16.71,-21249,201246,-10%,"-$355,071",0.0,4.0,4.0,-9.0,RUTH
+195,,2015-09-08 16:30:21,2015-09-03,RUTH,Toomy Kevin W,"P, COO- Ruth's Chris Steak Hse",S - Sale,$16.45,-22500,202495,-10%,"-$370,125",-2.0,0.0,-2.0,8.0,RUTH
+196,D,2015-08-27 21:49:53,2015-08-25,RUTH,Toomy Kevin W,"P, COO- Ruth's Chris Steak Hse",M - OptEx,$2.32,15000,224995,+7%,"+$34,800",0.0,1.0,-1.0,4.0,RUTH
+197,,2015-07-28 17:21:51,2015-07-25,RUTH,Toomy Kevin W,"P, COO- Ruth's Chris Steak Hse",F - Tax,$15.86,-383,209995,0%,"-$6,074",1.0,7.0,-1.0,2.0,RUTH
+198,,2015-07-28 17:21:44,2015-07-25,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$15.86,-1102,213194,-1%,"-$17,478",1.0,7.0,-1.0,2.0,RUTH
+199,,2015-07-28 17:21:37,2015-07-25,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$15.86,-2401,308563,-1%,"-$38,080",1.0,7.0,-1.0,2.0,RUTH
+200,,2015-07-28 17:21:30,2015-07-25,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$15.86,-10014,1130154,-1%,"-$158,822",1.0,7.0,-1.0,2.0,RUTH
+201,,2015-07-02 16:30:34,2015-06-30,RUTH,Odonnell Michael P,"Pres, CEO, Dir",A - Grant,$0.00,300000,1140168,+36%,+$0,0.0,0.0,9.0,2.0,RUTH
+202,,2015-06-19 19:08:06,2015-06-15,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,150000,310964,+93%,+$0,1.0,0.0,1.0,2.0,RUTH
+203,,2015-06-19 19:07:59,2015-06-15,RUTH,Henry Cheryl Janet,Chief Branding Officer,A - Grant,$0.00,125000,214296,+140%,+$0,1.0,0.0,1.0,2.0,RUTH
+204,,2015-06-19 19:07:52,2015-06-15,RUTH,Toomy Kevin W,"P, COO- Ruth's Chris Steak Hse",A - Grant,$0.00,100000,210378,+91%,+$0,1.0,0.0,1.0,2.0,RUTH
+205,,2015-03-17 20:52:36,2015-03-14,RUTH,Beaudrault Peter Joseph,See Remarks,F - Tax,$15.19,-2773,63255,-4%,"-$42,122",1.0,6.0,4.0,10.0,RUTH
+206,,2015-03-17 20:50:13,2015-03-14,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$15.19,-8113,160964,-5%,"-$123,236",1.0,6.0,4.0,10.0,RUTH
+207,,2015-03-17 20:49:36,2015-03-14,RUTH,Toomy Kevin W,See remarks,F - Tax,$15.19,-3227,110378,-3%,"-$49,018",1.0,6.0,4.0,10.0,RUTH
+208,,2015-03-17 20:49:35,2015-03-14,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$15.19,-35137,840168,-4%,"-$533,731",1.0,6.0,4.0,10.0,RUTH
+209,,2015-03-17 20:48:50,2015-03-14,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$15.19,-3989,89296,-4%,"-$60,593",1.0,6.0,4.0,10.0,RUTH
+210,,2015-03-13 18:15:15,2015-03-11,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$15.09,-4388,875305,0%,"-$66,215",1.0,2.0,4.0,7.0,RUTH
+211,,2015-03-13 18:15:15,2015-03-13,RUTH,Odonnell Michael P,"Pres, CEO, Dir",S - Sale,$15.14,-10000,875305,-1%,"-$151,400",1.0,2.0,4.0,7.0,RUTH
+212,,2015-03-13 18:10:48,2015-03-11,RUTH,Beaudrault Peter Joseph,See Remarks,F - Tax,$15.09,-181,66028,0%,"-$2,731",1.0,2.0,4.0,7.0,RUTH
+213,,2015-03-13 18:10:45,2015-03-11,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$15.09,-730,93285,-1%,"-$11,016",1.0,2.0,4.0,7.0,RUTH
+214,,2015-03-13 18:10:15,2015-03-11,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$15.09,-1278,169077,-1%,"-$19,285",1.0,2.0,4.0,7.0,RUTH
+215,D,2015-03-12 19:16:11,2015-03-11,RUTH,Toomy Kevin W,See remarks,F - Tax,$15.09,-475,113605,0%,"-$7,168",0.0,0.0,2.0,8.0,RUTH
+216,D,2015-03-12 19:16:11,2015-03-11,RUTH,Toomy Kevin W,See remarks,M - OptEx,$3.69,35000,113605,+45%,"+$129,000",0.0,0.0,2.0,8.0,RUTH
+217,D,2015-03-12 19:16:11,2015-03-10,RUTH,Toomy Kevin W,See remarks,S - Sale+OE,$15.12,-27500,113605,-19%,"-$415,800",0.0,0.0,2.0,8.0,RUTH
+218,,2015-03-11 18:47:53,2015-03-09,RUTH,Toomy Kevin W,See remarks,A - Grant,$0.00,8614,106580,+9%,+$0,0.0,0.0,3.0,10.0,RUTH
+219,,2015-03-11 18:45:05,2015-03-09,RUTH,Henry Cheryl Janet,Chief Branding Officer,A - Grant,$0.00,9647,94015,+11%,+$0,0.0,0.0,3.0,10.0,RUTH
+220,,2015-03-11 18:44:48,2015-03-09,RUTH,Odonnell Michael P,"Pres, CEO, Dir",A - Grant,$0.00,70055,889693,+9%,+$0,0.0,0.0,3.0,10.0,RUTH
+221,,2015-03-11 18:43:56,2015-03-09,RUTH,Beaudrault Peter Joseph,See Remarks,A - Grant,$0.00,3085,66209,+5%,+$0,0.0,0.0,3.0,10.0,RUTH
+222,,2015-03-11 18:43:41,2015-03-09,RUTH,Vituli Alan,Dir,A - Grant,$0.00,5157,15356,+51%,+$0,0.0,0.0,3.0,10.0,RUTH
+223,,2015-03-11 18:42:06,2015-03-09,RUTH,Hudson Bannus,Dir,A - Grant,$0.00,5157,67356,+8%,+$0,0.0,0.0,3.0,10.0,RUTH
+224,,2015-03-11 18:41:25,2015-03-09,RUTH,Selati Robin P,Dir,A - Grant,$0.00,5157,32503,+19%,+$0,0.0,0.0,3.0,10.0,RUTH
+225,,2015-03-11 18:39:51,2015-03-09,RUTH,Merritt Robert Stephen,Dir,A - Grant,$0.00,5157,54391,+10%,+$0,0.0,0.0,3.0,10.0,RUTH
+226,,2015-03-11 18:39:05,2015-03-09,RUTH,Cooper Carla,Dir,A - Grant,$0.00,5157,39334,+15%,+$0,0.0,0.0,3.0,10.0,RUTH
+227,,2015-03-11 18:38:06,2015-03-09,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,19811,170355,+13%,+$0,0.0,0.0,3.0,10.0,RUTH
+228,,2014-11-20 16:06:24,2014-11-19,RUTH,Cooper Carla,Dir,G - Gift,$0.00,-6000,34177,-15%,-$0,-1.0,0.0,8.0,12.0,RUTH
+229,,2014-11-20 16:05:33,2014-11-20,RUTH,Osterberg Mark W,See remarks,S - Sale,$12.86,-18162,0,-100%,"-$233,607",-1.0,0.0,8.0,12.0,RUTH
+230,,2014-11-18 19:00:43,2014-11-18,RUTH,Vituli Alan,Dir,G - Gift,$0.00,-925,10199,-8%,-$0,-1.0,0.0,5.0,15.0,RUTH
+231,,2014-11-18 16:10:30,2014-11-16,RUTH,Osterberg Mark W,See remarks,F - Tax,$12.37,-6838,18162,-27%,"-$84,586",-1.0,0.0,5.0,15.0,RUTH
+232,,2014-10-21 16:05:22,2014-10-18,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$10.80,-5470,84368,-6%,"-$59,076",-1.0,1.0,16.0,37.0,RUTH
+233,,2014-08-12 16:05:20,2014-08-08,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$10.66,-41950,150544,-22%,"-$447,187",0.0,1.0,4.0,36.0,RUTH
+234,,2014-07-29 16:15:56,2014-07-25,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$11.42,-10014,819638,-1%,"-$114,360",-1.0,-7.0,-5.0,31.0,RUTH
+235,,2014-07-29 16:15:34,2014-07-25,RUTH,Beaudrault Peter Joseph,"Pres, COO-Mitchell's Fish Mkt",F - Tax,$11.42,-330,63124,-1%,"-$3,769",-1.0,-7.0,-5.0,31.0,RUTH
+236,,2014-07-29 16:15:30,2014-07-25,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$11.42,-1102,89838,-1%,"-$12,585",-1.0,-7.0,-5.0,31.0,RUTH
+237,,2014-07-29 16:15:13,2014-07-25,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$11.42,-2401,192494,-1%,"-$27,419",-1.0,-7.0,-5.0,31.0,RUTH
+238,,2014-06-09 06:05:24,2014-06-05,RUTH,Toomy Kevin W,See remarks,S - Sale,$12.40,-44492,97966,-31%,"-$551,701",-2.0,-5.0,-6.0,3.0,RUTH
+239,,2014-06-03 16:15:14,2014-06-02,RUTH,Cooper Carla,Dir,S - Sale,$12.20,-24550,40177,-38%,"-$299,424",1.0,4.0,4.0,9.0,RUTH
+240,,2014-05-02 16:05:23,2014-05-01,RUTH,Odonnell Michael P,"Pres, CEO, Dir",P - Purchase,$12.35,2000,829652,0%,"+$24,700",4.0,-1.0,0.0,-2.0,RUTH
+241,,2014-04-29 16:07:31,2014-04-26,RUTH,Beaudrault Peter Joseph,"Pres, COO-Mitchell's Fish Mkt",F - Tax,$12.00,-4522,63454,-7%,"-$54,264",0.0,1.0,-3.0,-10.0,RUTH
+242,,2014-03-18 16:20:28,2014-03-11,RUTH,Henry Cheryl Janet,Chief Branding Officer,A - Grant,$0.00,16351,182552,+10%,+$0,-3.0,-5.0,-5.0,-8.0,RUTH
+243,,2014-03-18 16:20:28,2014-03-14,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$12.39,-672,182552,0%,"-$8,326",-3.0,-5.0,-5.0,-8.0,RUTH
+244,,2014-03-18 16:18:35,2014-03-11,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,31915,391254,+9%,+$0,-3.0,-5.0,-5.0,-8.0,RUTH
+245,,2014-03-18 16:18:35,2014-03-14,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$12.39,-1464,391254,0%,"-$18,139",-3.0,-5.0,-5.0,-8.0,RUTH
+246,,2014-03-18 16:17:58,2014-03-11,RUTH,Vituli Alan,Dir,A - Grant,$0.00,6280,11124,+130%,+$0,-3.0,-5.0,-5.0,-8.0,RUTH
+247,,2014-03-18 16:17:24,2014-03-11,RUTH,Hudson Bannus,Dir,A - Grant,$0.00,6280,62199,+11%,+$0,-3.0,-5.0,-5.0,-8.0,RUTH
+248,,2014-03-18 16:16:48,2014-03-11,RUTH,Beaudrault Peter Joseph,"Pres, COO-Mitchell's Fish Mkt",A - Grant,$0.00,8842,136174,+7%,+$0,-3.0,-5.0,-5.0,-8.0,RUTH
+249,,2014-03-18 16:16:48,2014-03-14,RUTH,Beaudrault Peter Joseph,"Pres, COO-Mitchell's Fish Mkt",F - Tax,$12.39,-222,136174,0%,"-$2,751",-3.0,-5.0,-5.0,-8.0,RUTH
+250,,2014-03-18 16:16:12,2014-03-11,RUTH,Cooper Carla,Dir,A - Grant,$0.00,6280,64727,+11%,+$0,-3.0,-5.0,-5.0,-8.0,RUTH
+251,,2014-03-18 16:15:55,2014-03-11,RUTH,Merritt Robert Stephen,Dir,A - Grant,$0.00,6280,49234,+15%,+$0,-3.0,-5.0,-5.0,-8.0,RUTH
+252,,2014-03-18 16:15:53,2014-03-11,RUTH,Odonnell Michael P,"Pres, CEO, Dir",A - Grant,$0.00,118734,1661408,+8%,+$0,-3.0,-5.0,-5.0,-8.0,RUTH
+253,,2014-03-18 16:15:53,2014-03-14,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$12.39,-6104,1661408,0%,"-$75,629",-3.0,-5.0,-5.0,-8.0,RUTH
+254,,2014-03-18 16:15:26,2014-03-11,RUTH,Toomy Kevin W,See remarks,A - Grant,$0.00,12974,295150,+5%,+$0,-3.0,-5.0,-5.0,-8.0,RUTH
+255,,2014-03-18 16:15:26,2014-03-14,RUTH,Toomy Kevin W,See remarks,F - Tax,$12.39,-234,295150,0%,"-$2,899",-3.0,-5.0,-5.0,-8.0,RUTH
+256,,2014-03-18 16:15:26,2014-03-14,RUTH,Toomy Kevin W,See remarks,S - Sale,$12.27,-10000,295150,-3%,"-$122,668",-3.0,-5.0,-5.0,-8.0,RUTH
+257,,2014-03-18 16:15:26,2014-03-11,RUTH,Selati Robin P,Dir,A - Grant,$0.00,6280,27346,+30%,+$0,-3.0,-5.0,-5.0,-8.0,RUTH
+258,D,2014-03-04 16:47:05,2014-02-28,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$12.36,-40453,715022,-5%,"-$499,999",0.0,-1.0,-2.0,-12.0,RUTH
+259,D,2014-03-04 16:47:05,2014-02-28,RUTH,Odonnell Michael P,"Pres, CEO, Dir",M - OptEx,$5.39,92812,715022,+15%,"+$499,988",0.0,-1.0,-2.0,-12.0,RUTH
+260,,2014-03-04 16:42:45,2014-03-03,RUTH,Henry Cheryl Janet,Chief Branding Officer,S - Sale,$12.21,-15927,75261,-17%,"-$194,544",0.0,-1.0,-2.0,-12.0,RUTH
+261,D,2014-02-27 16:41:35,2014-02-25,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$12.57,-469350,662663,-41%,"-$5,899,730",0.0,3.0,-5.0,-9.0,RUTH
+262,D,2014-02-27 16:41:35,2014-02-25,RUTH,Odonnell Michael P,"Pres, CEO, Dir",M - OptEx,$5.64,707188,662663,-1588%,"+$3,990,012",0.0,3.0,-5.0,-9.0,RUTH
+263,D,2014-02-27 06:04:35,2014-02-25,RUTH,Toomy Kevin W,See remarks,M - OptEx,$2.32,50000,139718,+56%,"+$116,000",-2.0,1.0,-7.0,-11.0,RUTH
+264,,2014-01-27 16:11:24,2014-01-25,RUTH,Toomy Kevin W,See remarks,F - Tax,$12.56,-7171,89718,-7%,"-$90,068",1.0,4.0,0.0,-8.0,RUTH
+265,,2013-08-12 16:15:38,2013-08-08,RUTH,Selati Robin P,Dir,S - Sale,$12.74,-4558,21066,-18%,"-$58,069",0.0,-3.0,-7.0,-3.0,RUTH
+266,,2013-07-29 18:12:50,2013-07-25,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$11.92,-1102,91188,-1%,"-$13,136",-5.0,1.0,-1.0,2.0,RUTH
+267,,2013-07-29 18:09:30,2013-07-25,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$11.92,-10014,424825,-2%,"-$119,367",-5.0,1.0,-1.0,2.0,RUTH
+268,,2013-07-29 18:08:29,2013-07-25,RUTH,Haak Arne G.,"CFO , EVP",F - Tax,$11.92,-2401,164444,-1%,"-$28,620",-5.0,1.0,-1.0,2.0,RUTH
+269,,2013-07-29 18:08:13,2013-07-25,RUTH,Beaudrault Peter Joseph,"Pres, COO-Mitchell's Fish Mkt",F - Tax,$11.92,-330,59356,-1%,"-$3,934",-5.0,1.0,-1.0,2.0,RUTH
+270,,2013-06-04 19:27:04,2013-06-03,RUTH,Henry Cheryl Janet,Chief Branding Officer,S - Sale,$11.05,-9500,92290,-9%,"-$105,003",-4.0,2.0,8.0,29.0,RUTH
+271,,2013-05-29 16:16:40,2013-05-25,RUTH,Henry Cheryl Janet,Chief Branding Officer,F - Tax,$11.30,-9573,101790,-9%,"-$108,175",-1.0,-1.0,5.0,28.0,RUTH
+272,,2013-05-29 16:15:39,2013-05-25,RUTH,Odonnell Michael P,"Pres, CEO, Dir",F - Tax,$11.30,-112097,434839,-20%,"-$1,266,696",-1.0,-1.0,5.0,28.0,RUTH
+273,,2013-05-29 16:15:19,2013-05-25,RUTH,Toomy Kevin W,"P, COO-Ruth's Chris Steak Hse",F - Tax,$11.30,-25508,96889,-21%,"-$288,240",-1.0,-1.0,5.0,28.0,RUTH
+274,,2013-05-22 12:42:30,2013-05-20,RUTH,Beaudrault Peter Joseph,"Pres, COO-Mitchell's Fish Mkt",S - Sale,$11.84,-5000,59686,-8%,"-$59,194",-2.0,-3.0,5.0,16.0,RUTH
+275,,2013-03-18 16:18:41,2013-03-14,RUTH,Toomy Kevin W,"P, COO-Ruth's Chris Steak Hse",A - Grant,$0.00,13197,122397,+12%,+$0,-1.0,2.0,2.0,28.0,RUTH
+276,,2013-03-18 16:18:28,2013-03-14,RUTH,Vituli Alan,Dir,A - Grant,$0.00,1484,3919,+61%,+$0,-1.0,2.0,2.0,28.0,RUTH
+277,,2013-03-18 16:18:17,2013-03-14,RUTH,Selati Robin P,Dir,A - Grant,$0.00,8333,25624,+48%,+$0,-1.0,2.0,2.0,28.0,RUTH
+278,,2013-03-18 16:17:14,2013-03-14,RUTH,Odonnell Michael P,"Pres, CEO, Dir",A - Grant,$0.00,130160,546936,+31%,+$0,-1.0,2.0,2.0,28.0,RUTH
+279,,2013-03-18 16:17:03,2013-03-14,RUTH,Hudson Bannus,Dir,A - Grant,$0.00,1484,55919,+3%,+$0,-1.0,2.0,2.0,28.0,RUTH
+280,,2013-03-18 16:16:12,2013-03-14,RUTH,Beaudrault Peter Joseph,"Pres, COO-Mitchell's Fish Mkt",A - Grant,$0.00,11069,64686,+21%,+$0,-1.0,2.0,2.0,28.0,RUTH
+281,,2013-03-18 16:16:09,2013-03-14,RUTH,Cooper Carla,Dir,A - Grant,$0.00,1484,58447,+3%,+$0,-1.0,2.0,2.0,28.0,RUTH
+282,,2013-03-18 16:15:55,2013-03-14,RUTH,Henry Cheryl Janet,Chief Branding Officer,A - Grant,$0.00,19279,111363,+21%,+$0,-1.0,2.0,2.0,28.0,RUTH
+283,,2013-03-18 16:15:49,2013-03-14,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,40514,166845,+32%,+$0,-1.0,2.0,2.0,28.0,RUTH
+284,,2013-03-18 16:15:36,2013-03-14,RUTH,Merritt Robert Stephen,Dir,A - Grant,$0.00,3012,42954,+8%,+$0,-1.0,2.0,2.0,28.0,RUTH
+285,,2012-07-27 18:29:31,2012-07-25,RUTH,Merritt Robert Stephen,Dir,A - Grant,$0.00,4942,39942,+14%,+$0,-2.0,-2.0,-10.0,19.0,RUTH
+286,,2012-07-27 18:25:14,2012-07-25,RUTH,Henry Cheryl Janet,Chief Branding Officer,A - Grant,$0.00,12084,92084,+15%,+$0,-2.0,-2.0,-10.0,19.0,RUTH
+287,,2012-07-27 18:22:30,2012-07-25,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,26331,126331,+26%,+$0,-2.0,-2.0,-10.0,19.0,RUTH
+288,,2012-07-27 18:20:24,2012-07-25,RUTH,Toomy Kevin W,"P, COO-Ruth's Chris Steak Hse",A - Grant,$0.00,4200,109200,+4%,+$0,-2.0,-2.0,-10.0,19.0,RUTH
+289,,2012-07-27 18:17:57,2012-07-25,RUTH,Selati Robin P,Dir,A - Grant,$0.00,13672,17291,+378%,+$0,-2.0,-2.0,-10.0,19.0,RUTH
+290,,2012-07-27 18:17:45,2012-07-25,RUTH,Hudson Bannus,Dir,A - Grant,$0.00,2435,54435,+5%,+$0,-2.0,-2.0,-10.0,19.0,RUTH
+291,,2012-07-27 18:15:07,2012-07-25,RUTH,Beaudrault Peter Joseph,"Pres, COO-Mitchell's Fish Mkt",A - Grant,$0.00,3617,53617,+7%,+$0,-2.0,-2.0,-10.0,19.0,RUTH
+292,,2012-07-27 18:12:29,2012-07-25,RUTH,Vituli Alan,Dir,A - Grant,$0.00,2435,2435,New,+$0,-2.0,-2.0,-10.0,19.0,RUTH
+293,,2012-07-27 18:11:39,2012-07-25,RUTH,Cooper Carla,Dir,A - Grant,$0.00,2435,56963,+4%,+$0,-2.0,-2.0,-10.0,19.0,RUTH
+294,,2012-07-27 18:09:00,2012-07-25,RUTH,Odonnell Michael P,"Pres, CEO, Dir",A - Grant,$0.00,71607,416776,+21%,+$0,-2.0,-2.0,-10.0,19.0,RUTH
+295,,2012-05-03 17:23:26,2012-05-03,RUTH,Odonnell Michael P,"Pres, CEO, Dir",P - Purchase,$6.54,5000,345169,+1%,"+$32,701",1.0,0.0,-2.0,6.0,RUTH
+296,,2012-04-30 16:53:45,2012-04-26,RUTH,Beaudrault Peter Joseph,"Pres, COO-Mitchell's Fish Mkt",A - Grant,$0.00,50000,50000,New,+$0,-3.0,-6.0,-3.0,-8.0,RUTH
+297,,2012-02-08 17:46:32,2012-02-06,RUTH,Tancredi Samuel A.,"Pres, COO-Mitchell's Fish Mkt",D - Sale to issuer,$0.00,-80000,0,-100%,-$0,-2.0,1.0,3.0,11.0,RUTH
+298,,2012-02-03 20:05:38,2011-10-18,RUTH,Henry Cheryl Janet,Chief Branding Officer,A - Grant,$0.00,20000,80000,+33%,+$0,-2.0,-6.0,-4.0,2.0,RUTH
+299,,2011-08-10 16:22:35,2011-08-08,RUTH,Haak Arne G.,"CFO , EVP",A - Grant,$0.00,100000,100000,New,+$0,4.0,2.0,-3.0,23.0,RUTH
+300,,2011-01-28 15:25:04,2011-01-25,RUTH,Toomy Kevin W,"P, COO-Ruth's Chris Steak Hse",A - Grant,$0.00,25000,105000,+31%,+$0,-5.0,-5.0,1.0,19.0,RUTH
+301,,2010-06-18 06:04:04,2010-06-18,RUTH,Vituli Alan,Dir,G - Gift,$0.00,-35000,0,-100%,-$0,2.0,-2.0,-14.0,5.0,RUTH
+302,,2010-06-10 06:00:59,2010-06-08,RUTH,Odonnell Michael P,"Pres, CEO, Dir",P - Purchase,$4.02,2000,340169,+1%,"+$8,044",4.0,8.0,4.0,28.0,RUTH
+303,,2010-05-27 19:57:48,2010-05-25,RUTH,Vituli Alan,Dir,A - Grant,$0.00,35000,35000,New,+$0,0.0,3.0,-3.0,5.0,RUTH
+304,,2010-05-27 19:57:34,2010-05-25,RUTH,Tancredi Samual D,"Pres, COO-Mitchell's Fish Mkt",A - Grant,$0.00,80000,80000,New,+$0,0.0,3.0,-3.0,5.0,RUTH
+305,,2010-05-27 19:57:19,2010-05-25,RUTH,Odonnell Michael P,"Pres, CEO, Dir",A - Grant,$0.00,275000,338169,+435%,+$0,0.0,3.0,-3.0,5.0,RUTH
+306,,2010-05-27 19:56:58,2010-05-25,RUTH,Hudson Bannus,Dir,A - Grant,$0.00,35000,52000,+206%,+$0,0.0,3.0,-3.0,5.0,RUTH
+307,,2010-05-27 19:56:38,2010-05-25,RUTH,Cooper Carla,Dir,A - Grant,$0.00,35000,54528,+179%,+$0,0.0,3.0,-3.0,5.0,RUTH
+308,,2010-05-27 19:56:22,2010-05-25,RUTH,Toomy Kevin W,"P, COO-Ruth's Chris Steak Hse",A - Grant,$0.00,80000,80000,New,+$0,0.0,3.0,-3.0,5.0,RUTH
+309,,2010-05-27 19:56:08,2010-05-25,RUTH,Merritt Robert Stephen,Dir,A - Grant,$0.00,35000,35000,New,+$0,0.0,3.0,-3.0,5.0,RUTH
+310,,2010-02-17 16:12:52,2010-02-12,RUTH,Odonnell Michael P,"Pres,CEO, Dir",P - Purchase,$2.50,23169,63169,+58%,"+$57,923",14.0,13.0,31.0,8.0,RUTH
+311,,2010-02-17 16:12:40,2010-02-12,RUTH,Vincent Robert M.,"CFO , EVP",P - Purchase,$2.50,30000,105500,+40%,"+$75,000",14.0,13.0,31.0,8.0,RUTH
+312,,2009-03-16 15:33:16,2009-03-12,RUTH,Odonnell Michael P,"Pres,CEO, Dir",P - Purchase,$0.97,10000,40000,+33%,"+$9,700",7.0,21.0,76.0,304.0,RUTH
+313,,2009-02-09 19:04:06,2009-01-22,RUTH,Vituli Alan,Dir,G - Gift,$0.00,-32828,0,-100%,-$0,-5.0,-6.0,-23.0,189.0,RUTH
+314,,2008-12-04 19:08:13,2008-11-20,RUTH,Odonnell Michael P,"Pres, CEO, Dir",P - Purchase,$0.96,10000,30000,+50%,"+$9,599",5.0,22.0,49.0,239.0,RUTH
+315,,2008-11-12 09:46:35,2008-11-10,RUTH,Odonnell Michael P,"Pres, CEO, Dir",A - Grant,$2.07,10000,20000,+100%,"+$20,700",-16.0,-31.0,-21.0,99.0,RUTH
+316,,2008-11-04 15:58:25,2008-10-31,RUTH,Aad Capital Management LP,10%,S - Sale,$2.04,-1009388,1947961,-34%,"-$2,056,426",-4.0,-12.0,-47.0,92.0,RUTH
+317,M,2008-10-31 13:31:42,2008-10-29,RUTH,Aad Capital Management LP,10%,S - Sale,$2.36,-178000,2957349,-6%,"-$420,570",-1.0,-35.0,-56.0,57.0,RUTH
+318,M,2008-08-20 14:16:45,2008-08-18,RUTH,Liever Damon,"Pres, EVP Mitchell's",P - Purchase,$4.88,2500,87500,+3%,"+$12,212",-1.0,-5.0,3.0,-79.0,RUTH
+319,,2008-08-08 15:35:03,2008-08-08,RUTH,Odonnell Michael P,"Pres,CEO, Dir",P - Purchase,$4.48,10000,10000,New,"+$44,750",15.0,23.0,9.0,-71.0,RUTH
+320,,2008-07-21 18:42:13,2008-07-18,RUTH,Aad Capital Management LP,10%,P - Purchase,$3.53,600000,3200000,+23%,"+$2,120,520",25.0,24.0,32.0,-65.0,RUTH
+321,,2008-06-04 19:33:03,2008-06-02,RUTH,Miller Craig S,former Director and Officer,S - Sale,$7.05,-3700,506923,-1%,"-$26,071",3.0,-3.0,-23.0,-82.0,RUTH
+322,,2008-06-03 20:12:25,2008-05-30,RUTH,Miller Craig S,former Director and Officer,S - Sale,$7.03,-25300,510623,-5%,"-$177,962",-4.0,-7.0,-27.0,-79.0,RUTH
+323,,2008-05-27 13:24:45,2008-05-22,RUTH,Okeefe Thomas,"EVP , GC",A - Grant,$0.00,25000,75000,+50%,+$0,2.0,3.0,-21.0,-86.0,RUTH
+324,M,2008-05-15 16:32:42,2008-05-13,RUTH,Miller Craig S,former Director and Officer,S - Sale,$7.56,-55400,535923,-9%,"-$418,650",-3.0,-5.0,-11.0,-73.0,RUTH
+325,,2008-05-14 18:29:35,2008-05-12,RUTH,Miller Craig S,former Director and Officer,S - Sale,$7.59,-72200,591323,-11%,"-$548,139",-3.0,-6.0,-14.0,-73.0,RUTH
+326,,2008-05-13 18:14:09,2008-05-09,RUTH,Miller Craig S,former Director and Officer,S - Sale,$7.46,-81800,663523,-11%,"-$609,925",-1.0,-6.0,-14.0,-68.0,RUTH
+327,,2008-03-19 18:51:04,2008-03-17,RUTH,Vincent Robert M.,"CFO , EVP",A - Grant,$0.00,75000,75500,>999%,+$0,10.0,11.0,9.0,-27.0,RUTH
+328,,2008-03-04 21:59:13,2008-03-04,RUTH,Miller Craig S,"Pres , CEO",P - Purchase,$7.00,4000,745323,+1%,"+$28,000",2.0,-5.0,2.0,-35.0,RUTH
+329,,2008-03-04 21:38:00,2008-02-28,RUTH,Cooper Carla,Dir,A - Grant,$0.00,10000,19528,+105%,+$0,2.0,-5.0,2.0,-35.0,RUTH
+330,,2008-03-03 19:35:41,2008-02-28,RUTH,Rawls Craig,"Vice President, Finance",A - Grant,$0.00,25000,25000,New,+$0,0.0,-5.0,3.0,-34.0,RUTH
+331,,2008-03-03 19:33:25,2008-02-28,RUTH,Okeefe Thomas,"SVP , GC",A - Grant,$0.00,50000,50000,New,+$0,0.0,-5.0,3.0,-34.0,RUTH
+332,,2008-03-03 19:33:04,2008-02-28,RUTH,Jackson Sarah C,SVP - HR,A - Grant,$0.00,50000,50000,New,+$0,0.0,-5.0,3.0,-34.0,RUTH
+333,,2008-03-03 19:32:44,2008-02-28,RUTH,Cattell David,"SVP Development, Construction",A - Grant,$0.00,50000,72828,+219%,+$0,0.0,-5.0,3.0,-34.0,RUTH
+334,,2008-03-03 19:32:24,2008-02-28,RUTH,Vituli Alan,Dir,A - Grant,$0.00,10000,32828,+44%,+$0,0.0,-5.0,3.0,-34.0,RUTH
+335,,2008-03-03 19:26:30,2008-02-28,RUTH,Liever Damon,"EVP, Pres, Mitchell's",A - Grant,$0.00,75000,85000,+750%,+$0,0.0,-5.0,3.0,-34.0,RUTH
+336,,2008-03-03 19:22:40,2008-02-28,RUTH,Hudson Bannus,Dir,A - Grant,$0.00,10000,17000,+143%,+$0,0.0,-5.0,3.0,-34.0,RUTH
+337,,2008-03-03 19:20:39,2008-02-28,RUTH,Stiles Geoffrey,"EVP, Pres, Ruth's Chris",A - Grant,$0.00,75000,205484,+57%,+$0,0.0,-5.0,3.0,-34.0,RUTH
+338,,2008-03-03 19:20:20,2008-02-28,RUTH,Miller Craig S,"Pres , CEO",A - Grant,$0.00,150000,741323,+25%,+$0,0.0,-5.0,3.0,-34.0,RUTH
+339,,2007-11-09 12:03:55,2007-11-08,RUTH,Liever Damon,"SVP, Marketing",P - Purchase,$12.43,5500,10000,+122%,"+$68,378",-1.0,1.0,-9.0,-38.0,RUTH
+340,,2007-08-03 09:04:52,2007-08-02,RUTH,Liever Damon,"SVP, Marketing",P - Purchase,$15.08,3000,4500,+200%,"+$45,232",2.0,15.0,11.0,-42.0,RUTH
+341,,2007-05-18 09:21:28,2007-05-16,RUTH,Stiles Geoffrey,"COO, EVP",S - Sale,$18.24,-3000,130484,-2%,"-$54,720",1.0,3.0,-2.0,-31.0,RUTH
+342,,2007-03-07 09:11:24,2007-03-06,RUTH,Miller Craig S,"Pres , CEO",S - Sale,$21.68,-25000,591323,-4%,"-$541,975",-1.0,-4.0,-6.0,-23.0,RUTH
+343,D,2007-03-05 17:13:51,2007-03-01,RUTH,Lavely Anthony,Former SVP Marketing,D - Sale to issuer,$0.00,-71950,71534,-50%,-$0,6.0,4.0,1.0,-18.0,RUTH
+344,D,2007-03-05 17:13:51,2007-03-01,RUTH,Lavely Anthony,Former SVP Marketing,M - OptEx,$18.00,2953,71534,+4%,"+$53,154",6.0,4.0,1.0,-18.0,RUTH
+345,D,2007-03-05 17:13:51,2007-03-01,RUTH,Lavely Anthony,Former SVP Marketing,S - Sale+OE,$21.50,-2953,71534,-4%,"-$63,490",6.0,4.0,1.0,-18.0,RUTH
+346,,2006-11-06 16:05:00,2006-11-03,RUTH,Stiles Geoffrey,"COO, EVP",P - Purchase,$18.20,20000,101816,+24%,"+$364,000",4.0,5.0,1.0,-3.0,RUTH
+347,,2006-10-31 14:17:19,2006-10-27,RUTH,Hudson Bannus,Dir,P - Purchase,$19.53,3000,7000,+75%,"+$58,590",1.0,-2.0,-1.0,-4.0,RUTH
