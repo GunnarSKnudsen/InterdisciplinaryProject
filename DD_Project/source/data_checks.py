@@ -1,7 +1,8 @@
+
 class DataSizeException(Exception):
     pass
 
-def check_lengths(L1_length, L2_length, event_timestamp, company_return, market_timeseries):
+def run(L1_length, L2_length, event_timestamp, company_return, market_timeseries):
 
     # Check if we have enough data to run analysis:
     ## I get a bunch of Out of bounds errors when events happen too close to the border of available data. Did a bunch of cleansing, before realiing that it is WAY easier to just throw errors then.
@@ -65,14 +66,14 @@ if __name__ == "__main__":
 
     event_timestamp = datetime.datetime(2016, 3, 13, 0, 0, 0)
     try:
-        check_lengths(L1_length, L2_length, event_timestamp, company_return, market_timeseries)
+        run(L1_length, L2_length, event_timestamp, company_return, market_timeseries)
     except DataSizeException as exc:
         print(exc)
 
 
     event_timestamp = datetime.datetime(2016, 3, 14, 0, 0, 0)
     try:
-        check_lengths(L1_length, L2_length, event_timestamp, company_return, market_timeseries)
+        run(L1_length, L2_length, event_timestamp, company_return, market_timeseries)
     except DataSizeException as exc:
         print(exc)
 

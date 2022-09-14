@@ -35,3 +35,22 @@ def run(L1_length, L2_length, event_timestamp, company_return, market_timeseries
     print(f'Event Window      ( {str(L2_length)} days): from {str(T1)} to {str(T2)}')
 
     return T0_, T1_, T0, T1, T2
+
+def run2(L1_length, L2_length, event_timestamp, company_return, market_timeseries):
+    import pandas_market_calendars as mcal
+    import pandas as pd
+    # Create a calendar
+    nyse = mcal.get_calendar('NYSE')
+    # create random datetime timestamp
+    event_timestamp = pd.to_datetime(event_timestamp)
+    relevant_days = nyse.valid_days(start_date='2019-01-01', end_date='2022-08-01')
+
+    # get index of event_timestamp
+    event_timestamp_index = relevant_days.get_loc(event_timestamp)
+    T0_ = relevant_days[event_timestamp_index - L1_length - int(L2_length / 2)]
+    T1_ = relevant_days[event_timestamp_index - int(L2_length/2) - 1]
+    T1 = relevant_days[event_timestamp_index - int(L2_length/2)]
+    T2 = relevant_days[event_timestamp_index + int(L2_length/2) - 1]
+    T0 = "dummy"
+
+    return T0_, T1_, T0, T1, T2

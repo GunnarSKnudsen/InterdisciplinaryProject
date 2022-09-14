@@ -50,6 +50,7 @@ if __name__ == '__main__':
     # Create folders if they are not present
     locations = [DATA_LOCATION, DATA_LOCATION_INSIDER_RAW, DATA_LOCATION_INSIDER_PROCESSED, DATA_LOCATION_TIME_SERIES_RAW,
                  DATA_LOCATION_TIME_SERIES_PROCESSED, DATA_LOCATION_RI]
+
     for loc in locations:
         if not exists(loc):
             os.makedirs(loc)
@@ -78,7 +79,7 @@ if __name__ == '__main__':
     # Start the analysis
 
     pickles = os.listdir(DATA_LOCATION_RI)
-    ISINs = [rick[:-7] for rick in pickles][0:20]
+    ISINs = [rick[:-7] for rick in pickles][:30]
 
     outputs = []
     for isin in tqdm(ISINs):
