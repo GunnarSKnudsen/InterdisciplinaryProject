@@ -1,5 +1,8 @@
 import logging
 
+class TimeSeriesMismatchException(Exception):
+    pass
+
 def run(L1_length, L2_length, event_timestamp, company_return, market_timeseries):
 
     T1_c_iloc = company_return.index.get_loc(event_timestamp) - int(L2_length / 2)
@@ -27,8 +30,32 @@ def run(L1_length, L2_length, event_timestamp, company_return, market_timeseries
     T0 = min(T0_c, T0_m)
     logging.debug(f'Found T0: {str(T0)}')
 
+
+    msg, ERRORS = "", {}
+    problem = f"While the preliminary checks passed, the market timeseries seems to go further back in time\n"
+    problem += f"with a window of length L1 because there might be a lower rate of trading days than in the company return series \n"
+    problem += f"So as a result we take more than L1 days in the company timeseries and run into a problem when we want to \n"
+    if T0 not in company_return.index:
+        msg += problem
+        msg += f"Result: {T0} is not in the company timeseries"
+        ERRORS["T0 not in company_return.index"] = 1
+    else:
+        if company_return.index.get_loc(T0) == 0:
+            msg += problem
+            msg += "Do not have an extra day, so we cant append the cheat day to later calculate the returns"
+            ERRORS["company_return.index.get_loc(T0) == 0"] = 1
+
+    if T0 not in market_timeseries.index:
+        msg += f"{T0} is not in the market timeseries, probably because of some mismatch in the trading days"
+        ERRORS["T0 not in market_timeseries.index"] = 1
+
+    if msg:
+        return "dummy", "dummy", T0, T1, T2, ERRORS, msg
+
+
     ## Break T0 and T1 to cheat so we don't start with NAs
     T1_ = company_return.index[company_return.index.get_loc(T1) - 1]
+
     T0_ = company_return.index[company_return.index.get_loc(T0) - 1]
 
     logging.debug(f'------------------------------')
@@ -36,7 +63,7 @@ def run(L1_length, L2_length, event_timestamp, company_return, market_timeseries
     logging.debug(f'Estimation Window ({str(L1_length)} days): from {str(T0)} to {str(T1)}')
     logging.debug(f'Event Window      ( {str(L2_length)} days): from {str(T1)} to {str(T2)}')
 
-    return T0_, T1_, T0, T1, T2
+    return T0_, T1_, T0, T1, T2, ERRORS, msg
 
 def run2(L1_length, L2_length, event_timestamp, trading_days):
     import pandas_market_calendars as mcal
