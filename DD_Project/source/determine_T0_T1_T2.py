@@ -38,7 +38,7 @@ def run(L1_length, L2_length, event_timestamp, company_return, market_timeseries
 
     return T0_, T1_, T0, T1, T2
 
-def run2(L1_length, L2_length, event_timestamp, company_return, market_timeseries):
+def run2(L1_length, L2_length, event_timestamp, trading_days):
     import pandas_market_calendars as mcal
     import pandas as pd
     # Create a calendar

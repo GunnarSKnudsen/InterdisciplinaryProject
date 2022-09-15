@@ -37,11 +37,13 @@ def run(company_return, market_timeseries, T0_, T1, T1_, T2):
         estimation_window_market_timeseries = estimation_window_market_timeseries.reindex(idx, fill_value = np.NaN)
         # Fill missing with previous observation
         estimation_window_market_timeseries['Adj Close'] = estimation_window_market_timeseries['Adj Close'].fillna(method='ffill')
+        estimation_window_market_timeseries['Adj Close'] = estimation_window_market_timeseries['Adj Close'].fillna(method='bfill')
     if (estimation_market_count > estimation_company_count):
         idx = estimation_window_market_timeseries.index
         estimation_window_company_timeseries = estimation_window_company_timeseries.reindex(idx, fill_value = np.NaN)
         # Fill missing with previous observation
         estimation_window_company_timeseries['ReturnIndex'] = estimation_window_company_timeseries['ReturnIndex'].fillna(method='ffill')
+        estimation_window_company_timeseries['ReturnIndex'] = estimation_window_company_timeseries['ReturnIndex'].fillna(method='bfill')
 
 
     # Unify indexing, so that both contain same amount of trading days.
@@ -50,11 +52,13 @@ def run(company_return, market_timeseries, T0_, T1, T1_, T2):
         event_window_market_timeseries = event_window_market_timeseries.reindex(idx, fill_value = np.NaN)
         # Fill missing with previous observation
         event_window_market_timeseries['Adj Close'] = event_window_market_timeseries['Adj Close'].fillna(method='ffill')
+        event_window_market_timeseries['Adj Close'] = event_window_market_timeseries['Adj Close'].fillna(method='bfill')
     if (event_market_count > event_company_count):
         idx = event_window_market_timeseries.index
         event_window_company_timeseries = event_window_company_timeseries.reindex(idx, fill_value = np.NaN)
         # Fill missing with previous observation
         event_window_company_timeseries['ReturnIndex'] = event_window_company_timeseries['ReturnIndex'].fillna(method='ffill')
+        event_window_company_timeseries['ReturnIndex'] = event_window_company_timeseries['ReturnIndex'].fillna(method='bfill')
 
     # Calculate percentage returns
     estimation_window_market_return = estimation_window_market_timeseries['Adj Close'].pct_change()
@@ -79,15 +83,19 @@ def run(company_return, market_timeseries, T0_, T1, T1_, T2):
     return estimation_window_market_return, estimation_window_company_return, event_window_market_return, event_window_company_return
 
 
-def run2(company_return, market_timeseries, T0_, T1, T1_, T2):
+def run2(company_return, market_timeseries, T0_, T1, T1_, T2, trading_days):
     # Create a calendar
     nyse = mcal.get_calendar('NYSE')
 
-    estimation_days = nyse.schedule(start_date=T0_, end_date=T1)
+    #estimation_days = nyse.schedule(start_date=T0_, end_date=T1)
+    estimation_days = trading_days[(trading_days >= T0_) & (trading_days<=T1)]
+
+
     estimation_days = estimation_days.drop(columns= ['market_open', 'market_close'])
     estimation_days.index.name = "Date"
 
-    event_days = nyse.schedule(start_date=T1_, end_date=T2)
+    #event_days = nyse.schedule(start_date=T1_, end_date=T2)
+    event_days = trading_days[(trading_days >= T1_) & (trading_days<=T2)]
     event_days = event_days.drop(columns= ['market_open', 'market_close'])
     event_days.index.name = "Date"
 
