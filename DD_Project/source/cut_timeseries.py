@@ -1,5 +1,6 @@
 import numpy as np
 import pandas_market_calendars as mcal
+import logging
 
 def run(company_return, market_timeseries, T0_, T1, T1_, T2):
     ## Estimation Window
@@ -23,11 +24,11 @@ def run(company_return, market_timeseries, T0_, T1, T1_, T2):
     event_window_company_timeseries = company_return[event_window_index_company]
     event_company_count = event_window_company_timeseries.shape[0]
 
-    print('shape before aggregating')
-    print(f'# estimation_window_market_timeseries: {estimation_window_market_timeseries.shape}')
-    print(f'# estimation_window_company_timeseries: {estimation_window_company_timeseries.shape}')
-    print(f'# event_window_market_timeseries: {event_window_market_timeseries.shape}')
-    print(f'# event_window_company_timeseries: {event_window_company_timeseries.shape}')
+    logging.debug('shape before aggregating')
+    logging.debug(f'# estimation_window_market_timeseries: {estimation_window_market_timeseries.shape}')
+    logging.debug(f'# estimation_window_company_timeseries: {estimation_window_company_timeseries.shape}')
+    logging.debug(f'# event_window_market_timeseries: {event_window_market_timeseries.shape}')
+    logging.debug(f'# event_window_company_timeseries: {event_window_company_timeseries.shape}')
 
 
     # Unify indexing, so that both contain same amount of trading days.
@@ -69,11 +70,11 @@ def run(company_return, market_timeseries, T0_, T1, T1_, T2):
     event_window_market_return = event_window_market_return.iloc[1:]
     event_window_company_return = event_window_company_return.iloc[1:]
 
-    print('shape after aggregating')
-    print(f'# estimation_window_market_return: {estimation_window_market_return.shape}')
-    print(f'# estimation_window_market_return: {estimation_window_market_return.shape}')
-    print(f'# event_window_market_return: {event_window_market_return.shape}')
-    print(f'# event_window_company_return: {event_window_company_return.shape}')
+    logging.debug('shape after aggregating')
+    logging.debug(f'# estimation_window_market_return: {estimation_window_market_return.shape}')
+    logging.debug(f'# estimation_window_market_return: {estimation_window_market_return.shape}')
+    logging.debug(f'# event_window_market_return: {event_window_market_return.shape}')
+    logging.debug(f'# event_window_company_return: {event_window_company_return.shape}')
 
     return estimation_window_market_return, estimation_window_company_return, event_window_market_return, event_window_company_return
 
@@ -106,11 +107,11 @@ def run2(company_return, market_timeseries, T0_, T1, T1_, T2):
     event_window_market_timeseries = get_window(market_timeseries, event_days)
     event_window_company_timeseries = get_window(company_return, event_days)
 
-    print('shape before aggregating')
-    print(f'# estimation_window_market_timeseries: {estimation_window_market_timeseries.shape}')
-    print(f'# estimation_window_company_timeseries: {estimation_window_company_timeseries.shape}')
-    print(f'# event_window_market_timeseries: {event_window_market_timeseries.shape}')
-    print(f'# event_window_company_timeseries: {event_window_company_timeseries.shape}')
+    logging.debug('shape before aggregating')
+    logging.debug(f'# estimation_window_market_timeseries: {estimation_window_market_timeseries.shape}')
+    logging.debug(f'# estimation_window_company_timeseries: {estimation_window_company_timeseries.shape}')
+    logging.debug(f'# event_window_market_timeseries: {event_window_market_timeseries.shape}')
+    logging.debug(f'# event_window_company_timeseries: {event_window_company_timeseries.shape}')
 
     """
     # Unify indexing, so that both contain same amount of trading days.
@@ -154,11 +155,11 @@ def run2(company_return, market_timeseries, T0_, T1, T1_, T2):
     event_window_market_return = event_window_market_return.iloc[1:]
     event_window_company_return = event_window_company_return.iloc[1:]
 
-    print('shape after aggregating')
-    print(f'# estimation_window_market_return: {estimation_window_market_return.shape}')
-    print(f'# estimation_window_market_return: {estimation_window_market_return.shape}')
-    print(f'# event_window_market_return: {event_window_market_return.shape}')
-    print(f'# event_window_company_return: {event_window_company_return.shape}')
+    logging.debug('shape after aggregating')
+    logging.debug(f'# estimation_window_market_return: {estimation_window_market_return.shape}')
+    logging.debug(f'# estimation_window_market_return: {estimation_window_market_return.shape}')
+    logging.debug(f'# event_window_market_return: {event_window_market_return.shape}')
+    logging.debug(f'# event_window_company_return: {event_window_company_return.shape}')
 
 
     return estimation_window_market_return, estimation_window_company_return, event_window_market_return, event_window_company_return
@@ -176,4 +177,4 @@ if __name__ == '__main__':
 
 
     estimation_window_market_return, estimation_window_company_return, event_window_market_return, event_window_company_return = run2(**args)
-    print(estimation_window_market_return[0])
+    logging.debug(estimation_window_market_return[0])

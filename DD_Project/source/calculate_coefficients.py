@@ -1,5 +1,6 @@
 import statsmodels.api as sm
 from statsmodels import regression
+import logging
 
 def run(estimation_window_market_return, estimation_window_company_return):
     X = estimation_window_market_return.values
@@ -9,7 +10,7 @@ def run(estimation_window_market_return, estimation_window_company_return):
         x = sm.add_constant(x)
         model = regression.linear_model.OLS(y, x).fit()
 
-        print(model.summary())
+        logging.debug(model.summary())
 
         # Remove the constant
         x = x[:, 1]
@@ -17,7 +18,7 @@ def run(estimation_window_market_return, estimation_window_company_return):
 
     alpha, beta = linreg(X, Y)
 
-    print(f'alpha: {str(alpha)}')
-    print(f'beta: {str(beta)}')
+    logging.debug(f'alpha: {str(alpha)}')
+    logging.debug(f'beta: {str(beta)}')
 
     return alpha, beta
