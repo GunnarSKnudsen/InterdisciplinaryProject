@@ -18,8 +18,8 @@ import source.analyse_single_company as UASC
 logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
 
 if __name__ == '__main__':
-    NAME = "Knudsen"
-    prepare_and_download = False
+    NAME = "Niedermayer"
+    prepare_and_download = True
 
     # Constants:
     ### Different Parameters depending on the setting
@@ -77,10 +77,11 @@ if __name__ == '__main__':
         processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, DATA_LOCATION_RI)
 
     # Start the analysis
-
+"""
     pickles = os.listdir(DATA_LOCATION_RI)
     ISINs = [rick[:-7] for rick in pickles][:30]
 
     outputs = []
     for isin in tqdm(ISINs):
         outputs.append(UASC.analyse_single_company(isin, DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED))
+"""
