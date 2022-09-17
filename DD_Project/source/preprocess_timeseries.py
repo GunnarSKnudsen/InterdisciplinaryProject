@@ -5,6 +5,10 @@ from os.path import isfile, join
 
 
 def preprocess_timeseries(_raw_location, _preprocessed_location):
+    '''
+    Don't think this is needed anymore.
+    Idea was to do more preprocessing here, but turned out that it wasn't needed. Especially after switching to the excel source file
+    '''
     # List of files to process
     filenames = [f for f in listdir(_raw_location) if isfile(join(_raw_location, f))]
 

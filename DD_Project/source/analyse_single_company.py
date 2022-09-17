@@ -6,8 +6,14 @@ import logging
 from source.datamodels import Trade
 
 class Analyser:
+    '''
+    Documentation not yet written
+    '''
 
     def __init__(self, _isin, _ri_location, _insider_location):
+        '''
+        Documentation not yet written
+        '''
 
         file_loc = _ri_location + _isin + '.pickle'
         with open(file_loc, "rb") as f:
@@ -21,11 +27,16 @@ class Analyser:
 
 
     def analyse(self):
+        '''
+        Documentation not yet written
+        '''
 
         # Take a look at each of the DD Filigns:
         return_sums = []
         filing_trade_lags = []
-        daily_returns = UCRFP.calculate_daily_returns(self.company.return_index_df)
+        #daily_returns = UCRFP.calculate_daily_returns(self.company.return_index_df)
+        daily_returns = self.company.return_index_df.company_return
+        
         for index, row in self.insider_data_df.iterrows():
             # Read relevant variables
             trade = Trade(*[row[x] for x in ["FilingDate", "TradeDate", "Ticker", "InsiderName", "Title", "TradeType", "Price", "Qty", "Owned", "delta_Own", "Value"]])
@@ -53,6 +64,9 @@ class Analyser:
 
 
 def analyse_single_company(_isin, _ri_location, _insider_location):
+    '''
+    Documentation not yet written
+    '''
     a = Analyser(_isin, _ri_location, _insider_location)
 
     return a.analyse()

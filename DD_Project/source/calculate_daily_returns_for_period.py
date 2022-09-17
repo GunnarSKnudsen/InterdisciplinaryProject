@@ -1,5 +1,8 @@
-
 def calculate_daily_returns_for_period(_ts, _start, _end):
+    '''
+    Documentation not yet written
+    Don't think this is used anymore!
+    '''
 
     # Calculate returns
     returns = (_ts - _ts.shift(1)) / _ts.shift(1)
@@ -14,4 +17,7 @@ def calculate_daily_returns_for_period(_ts, _start, _end):
 
 
 def calculate_daily_returns(_ts):
+    '''
+    Documentation not yet written
+    '''
     return calculate_daily_returns_for_period(_ts, None, None)

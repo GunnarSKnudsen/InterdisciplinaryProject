@@ -6,6 +6,17 @@ import aiohttp
 import os
 
 def get_all_directors_dealings_async(_data_location_insider_raw, _data, _download_type, to_date_name):
+    '''
+        Download all directors dealings in an async method.
+        Input:
+            _data_location_insider_Raw:
+            _data:
+            _download_type:
+            _to_date_name:
+        returns:
+            Nope!
+    '''
+    
     # Generate part of URL that defines download type
     dl_type_string = ''
     for t in _download_type:
@@ -19,7 +30,7 @@ def get_all_directors_dealings_async(_data_location_insider_raw, _data, _downloa
         from_date = row['BASE OR ST DATE']
         to_date = row[to_date_name]
 
-
+        #Handle missing dates
         if from_date == 'NA':
             from_date = datetime.datetime.now()
         if to_date == 'NA':
