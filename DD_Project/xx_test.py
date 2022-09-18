@@ -1,17 +1,10 @@
-import pandas as pd
+import numpy as np
+from scipy import stats
 
-df = pd.DataFrame()
-
-# create multiindex
-
-index = pd.MultiIndex(levels=[[], []], codes=[[], []], names=['ticker', 'filing'])
+# get normally distributed data
+data = np.random.normal(size=100) + 0.01
 
 
-df = pd.DataFrame(index=index)
-
-df["ticker", "filing"]
-
-
-# pickle dataframe
-with open('test.pickle', 'wb') as f:
-    pickle.dump(df, f)
+# do 1 sample ttest
+ttest = stats.ttest_1samp(data, 0.0)
+ttest.pvalue
