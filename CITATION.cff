@@ -1,10 +1,6 @@
-cff-version 1.2.0
-message If you use this software, please cite it as below.
-authors
-  - family-names Druskat
-    given-names Stephan
-    orcid httpsorcid.org0000-0003-4925-7248
-title My Research Software
-version 2.0.4
-doi 10.5281zenodo.1234
-date-released 2021-08-11
+authors:
+  - family-names: Doe
+    given-names: John
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "My research software"
