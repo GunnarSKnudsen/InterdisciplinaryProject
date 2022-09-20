@@ -3,7 +3,7 @@ import pickle
 from source.datamodels import Company
 import logging
 
-def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _output_location, _FIX_ROWS):
+def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _output_location, _insider_location, _FIX_ROWS):
     '''
         Method for preprocessing the entire dataset. Includes the market timeseries now, so that we can handle missing dates easier in later steps
         Input:
@@ -15,7 +15,7 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
         Returns:
             For some reason it does
     '''
-    
+
     # Do some assert'ive() stuff about FIX_ROWS. 
     
     # Read in information about companies
@@ -89,9 +89,14 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
 
             # store and save
             company_data["return_index_df"] = ri_df
-
             output_file = f"{_output_location}{company_data['isin']}.pickle"
             output_files.append(output_file)
+
+            # add insider data
+            filename = _insider_location + company_data["ticker"] + '.csv'
+            filename = filename.replace(" ", "+")  # HBB+WI in files and HBB WI as Ticker in base Excel
+            insider_data_df = pd.read_csv(filename, index_col=0, parse_dates=['FilingDate', 'TradeDate'])
+            company_data["insider_data_df"] = insider_data_df
 
             # Save as Company object
             c = Company(**company_data)

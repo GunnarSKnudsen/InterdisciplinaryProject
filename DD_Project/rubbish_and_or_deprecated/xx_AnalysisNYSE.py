@@ -114,7 +114,7 @@ ISINs = [rick[:-7] for rick in pickles]
 
 outputs = []
 for isin in tqdm(ISINs):
-    outputs.append(UASC.analyse_single_company(isin, DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED))
+    outputs.append(UASC.analyse_single_company_by_isin(isin, DATA_LOCATION_RI, DATA_LOCATION_INSIDER_PROCESSED))
 
 sum_returns = sum([x[0] for x in outputs], [])
 filing_trade_lags = sum([x[1] for x in outputs], [])
