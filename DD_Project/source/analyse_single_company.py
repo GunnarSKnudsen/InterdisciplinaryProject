@@ -2,20 +2,18 @@ import logging
 
 class Analyser:
     '''
-    Documentation not yet written
+    Class that used to have more functions, right now it is just used for finding out the lags of the filings,
+    but it could be used for more things in the future
     '''
 
     def __init__(self, company):
-        '''
-        Documentation not yet written
-        '''
         self.company = company
         logging.debug(self.company)
 
 
     def analyse(self):
         '''
-        Documentation not yet written
+        Calculates the lags and returns them. Unit = hours.
         '''
 
         # Take a look at each of the DD Filigns:
@@ -31,9 +29,8 @@ class Analyser:
 
 def analyse_single_company(company):
     '''
-    Documentation not yet written
+    Wrapper for the Analyser class
     '''
-
 
     a = Analyser(company)
 

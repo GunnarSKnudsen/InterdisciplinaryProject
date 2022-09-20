@@ -7,7 +7,7 @@ import os
 
 def get_all_directors_dealings_async(_data_location_insider_raw, _data, _download_type, to_date_name):
     '''
-        Download all directors dealings in an async method.
+        Download all directors dealings from openinsider.com in an async method
         Input:
             _data_location_insider_Raw:
             _data:
