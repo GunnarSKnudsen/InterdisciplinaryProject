@@ -21,7 +21,7 @@ logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(name)s - %(le
 
 # Set flags for what will be handled
 NAME = "Knudsen" # "Niedermayer"
-NAME = "Niedermayer"
+#NAME = "Niedermayer"
 prepare_and_download = True
 
 # Constants:
