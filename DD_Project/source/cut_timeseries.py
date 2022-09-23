@@ -1,7 +1,4 @@
-import numpy as np
-import pandas_market_calendars as mcal
 import logging
-
 def run(company_return, T0, T1, T2):
     '''
     Method for finding the various cut-off dates.

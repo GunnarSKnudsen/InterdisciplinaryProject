@@ -17,11 +17,11 @@ def run(estimation_window_market_return, estimation_window_company_return):
 
         # Remove the constant
         x = x[:, 1]
-        return model.params[0], model.params[1]
+        return model.params[0], model.params[1], model.resid
 
-    alpha, beta = linreg(X, Y)
+    alpha, beta, eps = linreg(X, Y)
 
     logging.debug(f'alpha: {str(alpha)}')
     logging.debug(f'beta: {str(beta)}')
 
-    return alpha, beta
+    return alpha, beta, eps

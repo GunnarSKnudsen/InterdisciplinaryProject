@@ -1,8 +1,5 @@
 import logging
 
-class TimeSeriesMismatchException(Exception):
-    pass
-
 def run(L1_length, L2_length, event_timestamp, company_return): #, market_timeseries):
     '''
     Method to find the various time points surrounding an event.
@@ -43,11 +40,11 @@ def run(L1_length, L2_length, event_timestamp, company_return): #, market_timese
         msg += problem
         msg += f"Result: {T0_date} is not in the company timeseries"
         ERRORS["T0 not in company_return.index"] = 1
-    else:
-        if company_return.index.get_loc(T0_date) == 0:
-            msg += problem
-            msg += "Do not have an extra day, so we cant append the cheat day to later calculate the returns"
-            ERRORS["company_return.index.get_loc(T0) == 0"] = 1
+    #else:
+    #    if company_return.index.get_loc(T0_date) == 0:
+    #        msg += problem
+    #        msg += "Do not have an extra day, so we cant append the cheat day to later calculate the returns"
+    #        ERRORS["company_return.index.get_loc(T0) == 0"] = 1
     # This error no longer makes sense:
     #if T0_date not in market_timeseries.index:
     #    msg += f"{T0_date} is not in the market timeseries, probably because of some mismatch in the trading days"

@@ -55,7 +55,7 @@ def run(L1_length, L2_length, event_timestamp, company_return):#, market_timeser
             msg += f"""Analysis can't be done. Requires at least {required_days_before_event} trading days before the event. 
                     However we only have {event_index_company} entries prior in the company data  \n
                     """
-            ERROR_OCCURED["required_days_before_event > event_index_company"] = 1
+            ERROR_OCCURED["Not enough days before event in company data"] = 1
 
 
         if (required_days_after_event > (company_length - event_index_company)):

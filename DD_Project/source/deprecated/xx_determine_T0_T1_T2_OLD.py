@@ -1,8 +1,5 @@
 import logging
 
-class TimeSeriesMismatchException(Exception):
-    pass
-
 def run(L1_length, L2_length, event_timestamp, company_return, market_timeseries):
 
     T1_c_iloc = company_return.index.get_loc(event_timestamp) - int(L2_length / 2)
