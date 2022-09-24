@@ -11,7 +11,7 @@ def run(L1_length, L2_length, event_timestamp, company_return):#, market_timeser
 
     # Constants that are being checked
     ## We need to have this data:
-    required_days_before_event = L1_length + L2_length/2
+    required_days_before_event = (L1_length + L2_length/2 ) +1 # Added one day, as the first return index pct is always nan.
     required_days_after_event = L2_length/2 + 1 #  TODO had to add 1 to prevent an error in determining T0 T1 T2, perhaps think instead of adding numbers some time?
 
     ## We have this data:

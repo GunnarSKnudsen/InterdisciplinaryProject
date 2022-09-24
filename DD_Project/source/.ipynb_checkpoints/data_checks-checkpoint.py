@@ -1,6 +1,3 @@
-class DataSizeException(Exception):
-    pass
-
 
 def run(L1_length, L2_length, event_timestamp, company_return):#, market_timeseries):
     '''
@@ -14,7 +11,7 @@ def run(L1_length, L2_length, event_timestamp, company_return):#, market_timeser
 
     # Constants that are being checked
     ## We need to have this data:
-    required_days_before_event = L1_length + L2_length/2
+    required_days_before_event = (L1_length + L2_length/2 ) +1 # Added one day, as the first return index pct is always nan.
     required_days_after_event = L2_length/2 + 1 #  TODO had to add 1 to prevent an error in determining T0 T1 T2, perhaps think instead of adding numbers some time?
 
     ## We have this data:
@@ -46,7 +43,7 @@ def run(L1_length, L2_length, event_timestamp, company_return):#, market_timeser
 
     if event_timestamp not in company_return.index:
         msg += f" {event_timestamp} cannot be found in the company return series. For now skip, perhaps find a better way to not drop data"
-        ERROR_OCCURED["event_timestamp not in company_return.index"] = 1
+        ERROR_OCCURED["event_timestamp not in the company return data"] = 1
     else:
 
         event_index_company = company_return.index.get_loc(event_timestamp)
@@ -63,7 +60,7 @@ def run(L1_length, L2_length, event_timestamp, company_return):#, market_timeser
                     However we only have {(company_length - event_index_company)} entries available after in the company 
                     data  \n
                     """
-            ERROR_OCCURED["required_days_after_event > (company_length - event_index_company"] = 1
+            ERROR_OCCURED["Don't have enough trading days after event"] = 1
 
 
     if ERROR_OCCURED:
