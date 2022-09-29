@@ -22,7 +22,7 @@ def calc_sigma_sq_AR_i(eps_i, M1_i):
     """
     return (eps_i**2).sum() / (M1_i - 2)
 
-def calc_standardised_AR_i_t(AR_i_t, sigma_sq_AR_i, M1_i, R_market_estimation_window, R_market_event_day):
+def calc_standardised_AR_i_t(AR_i_t, sigma_sq_AR_i, M1_i, R_market_estimation_window_centered_squared_sum, R_market_event_day_centered_squared):
     """
 
     :param AR_i_t:  abnormal return of security i on day t
@@ -31,8 +31,7 @@ def calc_standardised_AR_i_t(AR_i_t, sigma_sq_AR_i, M1_i, R_market_estimation_wi
     :param R_market: market return
     :return: sigma_AR_i_t
     """
-    R_market_bar = R_market_estimation_window.mean()
-    return AR_i_t/(sigma_sq_AR_i*(1+(1/M1_i)+((R_market_event_day - R_market_bar)**2/(((R_market_estimation_window-R_market_bar)**2).sum()))))**(1/2)
+    return AR_i_t/(sigma_sq_AR_i*(1+(1/M1_i)+(R_market_event_day_centered_squared/(R_market_estimation_window_centered_squared_sum))))**(1/2)
 
 
 def calc_z_BMP(standardised_ARs):
@@ -69,7 +68,12 @@ def adjBMP(AR, eps, R_market_estimation_window, R_market_event_window, event_day
 
 
     # calculate the standardised ARs for each security on the event day
-    standardised_ARs_event_day = np.asarray([calc_standardised_AR_i_t(AR[i,event_day], sigma_sq_AR[i], M1[i], R_market_estimation_window[i,:], R_market_event_day[i]) for i in securities])
+    # the following makes the calc_standardised_AR_i_t function less readable but much faster
+    R_market_bar = R_market_estimation_window.mean(axis=1)
+    R_market_estimation_window_centered_squared_sum = ((R_market_estimation_window.transpose()-R_market_bar).transpose()**2).sum(axis=1)
+    R_market_event_day_centered_squared = (R_market_event_day.transpose() - R_market_bar).transpose()**2
+    standardised_ARs_event_day = np.asarray([calc_standardised_AR_i_t(AR[i,event_day], sigma_sq_AR[i], M1[i], R_market_estimation_window_centered_squared_sum[i], R_market_event_day_centered_squared[i]) for i in securities])
+
 
     # calculate the unadjusted z_BMP_E
     z_BMP_E = calc_z_BMP(standardised_ARs_event_day)
@@ -123,12 +127,18 @@ def grank(AR, eps, R_market_estimation_window, R_market_event_window, event_day)
 
     sigma_sq_AR = np.asarray([calc_sigma_sq_AR_i(eps[i], M1[i]) for i in securities])
     AR_estimation_and_event = np.concatenate([eps, AR], axis=1)
-    calc_sigma_AR = lambda i_t: calc_standardised_AR_i_t(AR_estimation_and_event[i_t[0], i_t[1]], sigma_sq_AR[i_t[0]], M1[i_t[0]], R_market_estimation_window[i_t[0],:], R_market_event_day[i_t[0]])
+
+
+    R_market_bar = R_market_estimation_window.mean(axis=1)
+    R_market_estimation_window_centered_squared_sum = ((R_market_estimation_window.transpose()-R_market_bar).transpose()**2).sum(axis=1)
+    R_market_event_day_centered_squared = (R_market_event_day.transpose() - R_market_bar).transpose()**2
+
+    calc_SAR = lambda i_t: calc_standardised_AR_i_t(AR_estimation_and_event[i_t[0], i_t[1]], sigma_sq_AR[i_t[0]], M1[i_t[0]], R_market_estimation_window_centered_squared_sum[i_t[0]], R_market_event_day_centered_squared[i_t[0]])
     security_day_df = pd.DataFrame([[(i, t) for t in days] for i in securities])
 
 
-    SAR = security_day_df.applymap(calc_sigma_AR)
-    CAR = AR.sum(axis=1) #AR.cumsum(axis=1)
+    SAR = security_day_df.applymap(calc_SAR)
+    CAR = AR.cumsum(axis=1)
 
     factor_taking_a_lot_of_time_during_execution = (L1 + L2 + L2 / L1 + ((R_market_event_window - R_market_estimation_window.mean()) ** 2).sum() / (
             (R_market_estimation_window - R_market_estimation_window.mean()) ** 2).sum())
