@@ -1,13 +1,21 @@
 import statsmodels.api as sm
 from statsmodels import regression
 import logging
+import numpy as np
 
 def run(estimation_window_market_return, estimation_window_company_return):
     '''
     Documentation not yet written
     '''
-    X = estimation_window_market_return.values
-    Y = estimation_window_company_return.values
+    if type(estimation_window_market_return) is not np.ndarray:
+        X = estimation_window_market_return.values
+    else:
+        X = estimation_window_market_return
+
+    if type(estimation_window_company_return) is not np.ndarray:
+        Y = estimation_window_company_return.values
+    else:
+        Y = estimation_window_company_return
 
     def linreg(x, y):
         x = sm.add_constant(x)

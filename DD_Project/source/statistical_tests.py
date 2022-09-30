@@ -171,28 +171,68 @@ def grank(AR, eps, R_market_estimation_window, R_market_event_window, event_day)
 if __name__ == "__main__":
 
 
-
+    from source import calculate_coefficients
     ### test if there are no missing values in the data, expecting high p value
+    adjBMP_results = []
+    grank_results = []
+
     np.random.seed(3)
-    AR = np.random.standard_normal((2,5))
-    R_market_event_window = np.asarray([0.1, 0.1, 0.1, 0.1, 0.1])
+    J = 1000
+    for j in range(J):
+        print(j)
+        n_securities = 100
+        event_window_market_return = np.random.normal(0, 0.1,(n_securities,41))
+        event_window_company_return = np.random.normal(0, 0.05, (n_securities, 41)) + event_window_market_return
 
 
-    eps = np.asarray([[0.1, 0.2, -0.3, 0.1, -0.3, 0.1], [0.1, 0.2, -0.3, 0.1, -0.3, 0.1]])
-    R_market_estimation_window = np.asarray([[0.37, 0.23, 0.3, 0.4, 0.13, 0.14], [0.1, 0.2, 0.3, 0.2, 0.1, 0.1]])
+        estimation_window_market_return = np.random.normal(0, 0.1, (n_securities, 100))
+        estimation_window_company_return = np.random.normal(0, 0.05, (n_securities, 100)) + estimation_window_market_return
 
-    event_day = 2
-    R_market_event_window = np.asarray([[0.2, -0.2, 0.2, -0.2, 0.0], [0.2, -0.2, 0.2, -0.2, 0.0]])# not important , just here for constr. r market event day
+        AR_ = []
+        eps_ = []
+        print("calculate AR...")
+        for i in range(n_securities):
+            alpha, beta, eps = calculate_coefficients.run(estimation_window_market_return[i,:], estimation_window_company_return[i,:])
+            ## Calculate the abnormal returns
+            abnormal_return = event_window_company_return[i,:] - alpha - beta * event_window_market_return[i,:]
+            AR_.append(abnormal_return)
+            eps_.append(eps)
+
+        print("Done calculating AR")
+        AR = np.asarray(AR_)
+        eps = np.asarray(eps_)
+
+        event_day = 20
+
+        test_res = adjBMP(AR, eps, estimation_window_market_return, event_window_market_return, event_day)
+        print(test_res)
+        adjBMP_results.append(test_res)
 
 
-    test_res = adjBMP(AR, eps, R_market_estimation_window, R_market_event_window, event_day)
-    print(test_res)
+        test_res2 = grank(AR, eps, estimation_window_market_return, event_window_market_return, event_day)
+        print(test_res2)
+        grank_results.append(test_res2)
 
+    adj_BMP_z_stat = np.asarray([res.statistic for res in adjBMP_results])
+    grank_t_stat = np.asarray([res.statistic for res in grank_results])
 
-    test_res2 = grank(AR, eps, R_market_estimation_window, R_market_event_window, event_day)
-    print(test_res2)
+    # histogram of the statistics
+    import matplotlib.pyplot as plt
+    plt.hist(adj_BMP_z_stat, bins=100, density=True)
+    # add a standard normal distribution
+    from scipy.stats import norm
+    x = np.linspace(-5, 5, 100)
+    plt.plot(x, norm.pdf(x))
 
+    plt.show()
 
+    plt.hist(grank_t_stat, bins=100, density=True)
+    # add a student t distribution of 99 degrees of freedom
+    from scipy.stats import t
+    x = np.linspace(-5, 5, 100)
+    plt.plot(x, t.pdf(x, 99))
+
+    plt.show()
 
     ### load test pickle
     import pickle
