@@ -92,7 +92,7 @@ def adjBMP(AR, eps, R_market_estimation_window, R_market_event_window, event_day
 
 def calculate_SCAR_star(SCAR):
     "just standardize SCAR"
-    return (SCAR - SCAR.mean())/(SCAR.std(ddof=1)) # ddof=1 to get unbiased estimator of variance
+    return SCAR/SCAR.std(ddof=1) # ddof=1 to get unbiased estimator of variance
 
 
 def calculate_GSAR(SCAR, SAR, tau):
@@ -138,19 +138,20 @@ def grank(AR, eps, R_market_estimation_window, R_market_event_window, event_day)
 
 
     SAR = security_day_df.applymap(calc_SAR)
+    tau = L2 # for us tau is L2
     CAR = AR.cumsum(axis=1)
+    CAR_tau = CAR[:,L2-1]
 
     factor_taking_a_lot_of_time_during_execution = (L1 + L2 + L2 / L1 + ((R_market_event_window - R_market_estimation_window.mean()) ** 2).sum() / (
             (R_market_estimation_window - R_market_estimation_window.mean()) ** 2).sum())
 
     def calculate_SCAR(i):
 
-        return CAR[i] / (sigma_sq_AR[i] * factor_taking_a_lot_of_time_during_execution) ** (1 / 2)
+        return CAR_tau[i] / (sigma_sq_AR[i] * factor_taking_a_lot_of_time_during_execution) ** (1 / 2)
 
 
     SCAR = np.asarray([calculate_SCAR(i) for i in securities])
     SCAR_star = calculate_SCAR_star(SCAR)
-    tau = L2 # for us tau is L2
     T_script = range(0, L1+1) # for us T_script is the estimation window + 1 day from the event window
     GSAR = calculate_GSAR(SCAR_star, SAR, tau)
 
