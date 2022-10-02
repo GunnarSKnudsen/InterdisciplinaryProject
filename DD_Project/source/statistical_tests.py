@@ -1,6 +1,6 @@
 import dataclasses
 import os.path
-
+from functools import lru_cache
 import pandas as pd
 import numpy as np
 import scipy.stats
@@ -9,8 +9,6 @@ import scipy.stats
 class TestResults:
     statistic: float
     pvalue: float
-
-
 
 ###################### adj-BMP TEST ############################
 
@@ -43,11 +41,21 @@ def calc_z_BMP(standardised_ARs):
     sigma_mean_t = standardised_ARs.mean()
     return sigma_mean_t/(1/(N*(N-1))   *  ((standardised_ARs - sigma_mean_t)**2).sum())**(1/2)
 
+def calculate_average_cross_correlation(eps):
+
+    @lru_cache(maxsize=None) # to save half the work
+    def cross_correlation(i,j):
+        return np.correlate(eps[i,:], eps[j,:])
+
+    N = eps.shape[0]
+    return np.mean([cross_correlation(i,j) for i in range(N) for j in range(i+1,N) if i != j])
+
+
 def adjust(zBMPe, eps):
     "Make adjustment to BMP test statistic"
-    mean_residuals = eps.mean().mean()
+    rho_bar_hat = calculate_average_cross_correlation(eps)
     N = eps.shape[0]
-    adjusted = zBMPe*((1-mean_residuals)/(1+(N-1)*mean_residuals))**(1/2)
+    adjusted = zBMPe*((1-rho_bar_hat)/(1+(N-1)*rho_bar_hat))**(1/2)
     return adjusted
 
 # implement an adjusted böhmer test
@@ -177,7 +185,7 @@ if __name__ == "__main__":
     grank_results = []
 
     np.random.seed(3)
-    J = 1000
+    J = 100
     for j in range(J):
         print(j)
         n_securities = 100
@@ -218,7 +226,7 @@ if __name__ == "__main__":
 
     # histogram of the statistics
     import matplotlib.pyplot as plt
-    plt.hist(adj_BMP_z_stat, bins=100, density=True)
+    plt.hist(adj_BMP_z_stat, bins=20, density=True)
     # add a standard normal distribution
     from scipy.stats import norm
     x = np.linspace(-5, 5, 100)
@@ -226,7 +234,7 @@ if __name__ == "__main__":
 
     plt.show()
 
-    plt.hist(grank_t_stat, bins=100, density=True)
+    plt.hist(grank_t_stat, bins=20, density=True)
     # add a student t distribution of 99 degrees of freedom
     from scipy.stats import t
     x = np.linspace(-5, 5, 100)
