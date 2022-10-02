@@ -43,9 +43,22 @@ def calc_z_BMP(standardised_ARs):
 
 def calculate_average_cross_correlation(eps):
 
+
     @lru_cache(maxsize=None) # to save half the work
     def cross_correlation(i,j):
         return np.correlate(eps[i,:], eps[j,:])
+
+    """
+    from time import time
+    start = time()
+    for i in range(1000):
+        for j in range(1000):
+            cross_correlation(1000+i,1000+j)
+
+    print((time()-start)/1000**2)
+    """
+    # TODO perhaps sample 1000000 pairs and calculate the average of those and that should be a good approximation
+    # TODO ebcause right now this part is super slow because of this calculation
 
     N = eps.shape[0]
     return np.mean([cross_correlation(i,j) for i in range(N) for j in range(i+1,N) if i != j])
@@ -188,7 +201,7 @@ if __name__ == "__main__":
     J = 100
     for j in range(J):
         print(j)
-        n_securities = 100
+        n_securities = 10000
         event_window_market_return = np.random.normal(0, 0.1,(n_securities,41))
         event_window_company_return = np.random.normal(0, 0.05, (n_securities, 41)) + event_window_market_return
 

@@ -3,7 +3,7 @@ from statsmodels import regression
 import logging
 import numpy as np
 
-def run(estimation_window_market_return, estimation_window_company_return):
+def run_old(estimation_window_market_return, estimation_window_company_return):
     '''
     Documentation not yet written
     '''
@@ -35,7 +35,7 @@ def run(estimation_window_market_return, estimation_window_company_return):
     return alpha, beta, eps
 
 
-def fast_OLS(X,Y):
+def run(X,Y):
     # implement ordinary least squares in numpy
 
     # add a constant to the X matrix
@@ -68,7 +68,7 @@ if __name__ == "__main__":
 
         for i in range(n_securities):
             print("security: ", i)
-            alpha, beta, eps = fast_OLS(estimation_window_market_return[i,:], estimation_window_company_return[i,:])
+            alpha, beta, eps = run(estimation_window_market_return[i,:], estimation_window_company_return[i,:])
             print(alpha, beta, eps)
             print(eps.sum())
             epses.append(eps)
