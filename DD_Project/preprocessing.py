@@ -20,9 +20,9 @@ import source.get_market_data as UGMD
 logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
 
 # Set flags for what will be handled
-NAME = "Knudsen" # "Niedermayer"
-#NAME = "Niedermayer"
-prepare_and_download = True
+NAME = "Knudsen"
+NAME = "Niedermayer"
+prepare_and_download = False
 
 # Constants:
 ## Different Parameters depending on the setting
@@ -71,16 +71,17 @@ start_time = datetime.datetime(2018, 1, 1, 0, 0, 0)
 start_time_unix = int(time.mktime(start_time.timetuple()))
 download_type = ['P', 'S', 'A', 'D', 'G', 'F', 'M', 'X', 'C', 'W']
 
+# Download market data
+start_time = datetime.datetime(2016, 3, 21, 0, 0, 0)
+_start_time_unix = int(time.mktime(start_time.timetuple()))
+
+end_time = datetime.datetime(2022, 3, 21, 23, 59, 59)
+_end_time_unix = int(time.mktime(end_time.timetuple()))
+
+## download market_data
+market_timeseries = UGMD.get_market_data(_ticker, _start_time_unix, _end_time_unix, DATA_LOCATION_MARKET)
+
 if prepare_and_download:
-    # Download market data
-    start_time = datetime.datetime(2016, 3, 21, 0, 0, 0)
-    _start_time_unix = int(time.mktime(start_time.timetuple()))
-
-    end_time = datetime.datetime(2022, 3, 21, 23, 59, 59)
-    _end_time_unix = int(time.mktime(end_time.timetuple()))
-
-    ## download market_data
-    market_timeseries = UGMD.get_market_data(_ticker, _start_time_unix, _end_time_unix, DATA_LOCATION_MARKET)
 
     # Read which companies should be analyzed
     data = URTI.read_tickers_and_isins(INPUT_FILE)
@@ -93,7 +94,7 @@ if prepare_and_download:
     ## Don't think this one is needed anymore:
     UPTS.preprocess_timeseries(DATA_LOCATION_TIME_SERIES_RAW, DATA_LOCATION_TIME_SERIES_PROCESSED)
 
-    # Process the timeseries from Professor
-    ## Currently doing both methods - then we can change input dataset in the notebook.
-    processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_interpolate, DATA_LOCATION_INSIDER_PROCESSED, 'interpolate')
-    processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_discard, DATA_LOCATION_INSIDER_PROCESSED, 'discard')
+# Process the timeseries from Professor
+## Currently doing both methods - then we can change input dataset in the notebook.
+processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_discard, DATA_LOCATION_INSIDER_PROCESSED, 'discard')
+processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_interpolate, DATA_LOCATION_INSIDER_PROCESSED, 'interpolate')
