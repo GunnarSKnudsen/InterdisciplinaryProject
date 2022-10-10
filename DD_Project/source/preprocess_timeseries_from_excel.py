@@ -59,7 +59,8 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
             if _FIX_ROWS == 'discard':
                 # We only want to consider days where both market and company data has data
 
-                mask1 = joined_df['Adj Close'].notnull()
+                #mask1 = joined_df['Adj Close'].notnull()
+                mask1 = joined_df['RI_market'].notnull()
                 mask2 = joined_df['ReturnIndex'].notnull()
                 mask = mask1 & mask2
 
@@ -79,24 +80,26 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
                 # Keeping more data, but generating syntetic data as well.
                 ## Really need to consider what happens here after period end. E.g. we are interpolating until end of data. Maybe only interpolate to last point in each series?
                 joined_df['ReturnIndex'] = joined_df['ReturnIndex'].interpolate(limit_area="inside")
-                joined_df['Open'] = joined_df['Open'].interpolate(limit_area="inside")
-                joined_df['High'] = joined_df['High'].interpolate(limit_area="inside")
-                joined_df['Low'] = joined_df['Low'].interpolate(limit_area="inside")
-                joined_df['Close'] = joined_df['Close'].interpolate(limit_area="inside")
-                joined_df['Adj Close'] = joined_df['Adj Close'].interpolate(limit_area="inside")
-                joined_df['Volume'] = joined_df['Volume'].interpolate(limit_area="inside")
+                #joined_df['Open'] = joined_df['Open'].interpolate(limit_area="inside")
+                #joined_df['High'] = joined_df['High'].interpolate(limit_area="inside")
+                #joined_df['Low'] = joined_df['Low'].interpolate(limit_area="inside")
+                #joined_df['Close'] = joined_df['Close'].interpolate(limit_area="inside")
+                #joined_df['Adj Close'] = joined_df['Adj Close'].interpolate(limit_area="inside")
+                #joined_df['Volume'] = joined_df['Volume'].interpolate(limit_area="inside")
+                joined_df['RI_market'] = joined_df['RI_market'].interpolate(limit_area="inside")
 
             #Calculate percentage change:
             joined_df['company_return_percentage_change'] = joined_df['ReturnIndex'].pct_change()
-            joined_df['market_open_percentage_change'] = joined_df['Open'].pct_change()
-            joined_df['market_high_percentage_change'] = joined_df['High'].pct_change()
-            joined_df['market_low_percentage_change'] = joined_df['Low'].pct_change()
-            joined_df['market_close_percentage_change'] = joined_df['Close'].pct_change()
-            joined_df['market_adj_close_percentage_change'] = joined_df['Adj Close'].pct_change()
-            joined_df['market_volume_percentage_change'] = joined_df['Volume'].pct_change()
+            #joined_df['market_open_percentage_change'] = joined_df['Open'].pct_change()
+            #joined_df['market_high_percentage_change'] = joined_df['High'].pct_change()
+            #joined_df['market_low_percentage_change'] = joined_df['Low'].pct_change()
+            #joined_df['market_close_percentage_change'] = joined_df['Close'].pct_change()
+            #joined_df['market_adj_close_percentage_change'] = joined_df['Adj Close'].pct_change()
+            joined_df['market_RI_percentage_change'] = joined_df['RI_market'].pct_change() # if we use yahoo data this is the adj close instead of the RI
+            #joined_df['market_volume_percentage_change'] = joined_df['Volume'].pct_change()
             # Clone columns of interest for no real reason...
             joined_df['company_return'] = joined_df['company_return_percentage_change']
-            joined_df['market_return'] = joined_df['market_adj_close_percentage_change']
+            joined_df['market_return'] = joined_df['market_RI_percentage_change']
 
             # Decide on only keeping a smaller set of columns
             ri_df = joined_df[['ReturnIndex', 'company_return', 'market_return']]
@@ -127,25 +130,26 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
 
     notcompany = pd.concat(returns_mnc, axis=1)
 
-    returns_cnm = []
-    for cnm in company_notmarket:
-        code, start, end, df = cnm
-        return_ = df.loc[start:end]['Adj Close'].isna()
-        returns_cnm.append(return_)
-
-    notmarket = pd.concat(returns_cnm, axis=1)
-
-    notcompany_agg = notcompany.sum(axis=1)[464:1550]
-    notcompany_wd = pd.DataFrame({"counts":notcompany_agg, "weekday": notcompany_agg.index.weekday})
-    agg = notcompany_wd.groupby("weekday").sum()
-    agg.index = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
-    print(agg)
-
-    notmarket_agg = notmarket.sum(axis=1)[464:1550]
-    notmarket_wd = pd.DataFrame({"counts":notmarket_agg, "weekday": notmarket_agg.index.weekday})
-    agg = notmarket_wd.groupby("weekday").sum()
-    agg.index = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
-    print(agg)
+    #returns_cnm = []
+    #for cnm in company_notmarket:
+    #    code, start, end, df = cnm
+    #    #return_ = df.loc[start:end]['Adj Close'].isna()
+    #    return_ = df.loc[start:end]['RI_market'].isna()
+    #    returns_cnm.append(return_)
+    #
+    #notmarket = pd.concat(returns_cnm, axis=1)
+    #
+    #notcompany_agg = notcompany.sum(axis=1)[464:1550]
+    #notcompany_wd = pd.DataFrame({"counts":notcompany_agg, "weekday": notcompany_agg.index.weekday})
+    #agg = notcompany_wd.groupby("weekday").sum()
+    #agg.index = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+    #print(agg)
+    #
+    #notmarket_agg = notmarket.sum(axis=1)[464:1550]
+    #notmarket_wd = pd.DataFrame({"counts":notmarket_agg, "weekday": notmarket_agg.index.weekday})
+    #agg = notmarket_wd.groupby("weekday").sum()
+    #agg.index = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+    #print(agg)
 
 
     return output_files

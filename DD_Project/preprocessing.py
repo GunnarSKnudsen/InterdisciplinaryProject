@@ -44,6 +44,7 @@ else:
 ## Which files to be handled
 INPUT_FILE = f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME}.xlsx'
 TIMESERIES_FILES = [f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME} - RI - Part {i}.xlsx' for i in range(1,n_input_files+1)]
+DATA_PATH_MARKET = f"input_data/Niedermayer/{STOCK_EXCHANGE.upper()}_market_data.csv"
 
 # Locations to store stuff and stuff
 DATA_LOCATION = f'data/{NAME}/'
@@ -79,7 +80,7 @@ end_time = datetime.datetime(2022, 3, 21, 23, 59, 59)
 _end_time_unix = int(time.mktime(end_time.timetuple()))
 
 ## download market_data
-market_timeseries = UGMD.get_market_data(_ticker, _start_time_unix, _end_time_unix, DATA_LOCATION_MARKET)
+market_timeseries = UGMD.get_market_data(_ticker, _start_time_unix, _end_time_unix, DATA_LOCATION_MARKET, DATA_PATH_MARKET)
 
 if prepare_and_download:
 
