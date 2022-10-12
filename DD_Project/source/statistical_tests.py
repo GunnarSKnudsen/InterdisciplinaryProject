@@ -46,8 +46,8 @@ def calc_z_BMP(standardised_ARs):
     :return: the unadjusted z_BMP_E
     """
     N = len(standardised_ARs)
-    sigma_mean_t = standardised_ARs.mean()
-    return sigma_mean_t/(1/(N*(N-1))   *  ((standardised_ARs - sigma_mean_t)**2).sum())**(1/2)
+    ASAR_t = standardised_ARs.mean()
+    return ASAR_t/(1/(N*(N-1))   *  ((standardised_ARs - ASAR_t)**2).sum())**(1/2)
 
 def calculate_average_cross_correlation(eps, threshold = 5_000_000):
 
@@ -146,7 +146,7 @@ def adjust(zBMPe, eps):
     return adjusted
 
 # implement an adjusted böhmer test
-def adjBMP(AR, eps, R_market_estimation_window, R_market_event_window, event_day):
+def adjBMP_daily(AR, eps, R_market_estimation_window, R_market_event_window, event_day):
 
 
     M1 = (~np.isnan(R_market_estimation_window)).sum(axis=1)
@@ -161,11 +161,11 @@ def adjBMP(AR, eps, R_market_estimation_window, R_market_event_window, event_day
     R_market_bar = R_market_estimation_window.mean(axis=1)
     R_market_estimation_window_centered_squared_sum = ((R_market_estimation_window.transpose()-R_market_bar).transpose()**2).sum(axis=1)
     R_market_event_day_centered_squared = (R_market_event_day.transpose() - R_market_bar).transpose()**2
-    standardised_ARs_event_day = np.asarray([calc_SAR_i_t(AR[i,event_day], sigma_sq_AR[i], M1[i], R_market_estimation_window_centered_squared_sum[i], R_market_event_day_centered_squared[i]) for i in securities])
+    SARs_event_day = np.asarray([calc_SAR_i_t(AR[i,event_day], sigma_sq_AR[i], M1[i], R_market_estimation_window_centered_squared_sum[i], R_market_event_day_centered_squared[i]) for i in securities])
 
 
     # calculate the unadjusted z_BMP_E
-    z_BMP_E = calc_z_BMP(standardised_ARs_event_day)
+    z_BMP_E = calc_z_BMP(SARs_event_day)
     adjusted_z = adjust(z_BMP_E, eps)
 
 
@@ -175,6 +175,34 @@ def adjBMP(AR, eps, R_market_estimation_window, R_market_event_window, event_day
 
     return result
 
+def adjBMP(AR, eps, R_market_estimation_window, R_market_event_window, CAR_period):
+
+    AR = AR.copy()[:,CAR_period[0]:(CAR_period[1]+1)] # + because we let the user do [0,40] to get [0,40] and not [0,41], as this is python specific? maybe bad idea to do this, but would have to check this in multiple places
+    M1 = (~np.isnan(R_market_estimation_window)).sum(axis=1)
+    M2 = (~np.isnan(R_market_event_window)).sum(axis=1)
+    securities = range(AR.shape[0])
+    N = AR.shape[0]
+
+    sigma_sq_AR = np.asarray([calc_sigma_sq_AR_i(eps[i], M1[i]) for i in securities])
+
+    CAR = AR.cumsum(axis=1)
+
+    summand = (R_market_event_window - R_market_estimation_window.mean()).sum() ** 2 / (
+                (R_market_estimation_window - R_market_estimation_window.mean()) ** 2).sum()
+
+    S_CAR = [sigma_sq_AR[i]*(M2[i]*(M2[i]**2/M1[i]) + summand) for i in securities]
+    SCAR = (CAR.transpose()/S_CAR).transpose()
+
+    # calculate the unadjusted z_BMP_E
+    z_BMP_E = N**(1/2) * SCAR.mean()/SCAR.std(ddof=1)
+    adjusted_z = adjust(z_BMP_E, eps)
+
+
+    # find p-value for two-tailed test
+    p = scipy.stats.norm.sf(abs(adjusted_z)) * 2 # two-tailed test, so we multiply by 2
+    result = TestResults(adjusted_z, p)
+
+    return result
 
 ###################### GRANK TEST ############################
 
@@ -265,10 +293,20 @@ def grank_rigid(AR, eps, R_market_estimation_window, R_market_event_window, even
     return result
 
 # implement generalised rank test
-def grank(AR, eps, R_market_estimation_window, R_market_event_window, event_day, CAR_period):
+def grank(AR, eps, R_market_estimation_window, R_market_event_window, event_day, CAR_period, adjust_cumulating_ind_prediction_errors=False):
 
+    """
+
+    :param AR:
+    :param eps:
+    :param R_market_estimation_window:
+    :param R_market_event_window:
+    :param event_day:
+    :param CAR_period:
+    :param adjust_cumulating_ind_prediction_errors: Whether to use adjustment factor suggested by Mikkelson and Partch (1988)
+    :return:
+    """
     M1 = (~np.isnan(R_market_estimation_window)).sum(axis=1)
-    M2 = (~np.isnan(R_market_event_window)).sum(axis=1)
     L1 = R_market_estimation_window.shape[1] # TODO perhaps have to change this
     L2 = R_market_event_window.shape[1]
 
@@ -284,7 +322,6 @@ def grank(AR, eps, R_market_estimation_window, R_market_event_window, event_day,
     R_market_bar = R_market_estimation_window.mean(axis=1)
     R_market_estimation_window_centered_squared_sum = ((R_market_estimation_window.transpose()-R_market_bar).transpose()**2).sum(axis=1)
     R_market_event_day_centered_squared = (R_market_event_day.transpose() - R_market_bar).transpose()**2
-    #logging.debug(R_market_event_day_centered_squared)
 
     calc_SAR = lambda i_t: calc_SAR_i_t(AR_estimation_and_event[i_t[0], i_t[1]], sigma_sq_AR[i_t[0]], M1[i_t[0]], R_market_estimation_window_centered_squared_sum[i_t[0]], R_market_event_day_centered_squared[i_t[0]])
     security_day_df = pd.DataFrame([[(i, t) for t in days] for i in securities])
@@ -297,27 +334,22 @@ def grank(AR, eps, R_market_estimation_window, R_market_event_window, event_day,
     # CAR_tau = CAR_period[:,-1]
     CAR_tau = AR_period.sum(axis=1)
 
-    #logging.debug(CAR_tau)
-
-    factor_taking_a_lot_of_time_during_execution = (L1 + L2 + L2 / L1 + ((R_market_event_window - R_market_estimation_window.mean()) ** 2).sum() / (
-            (R_market_estimation_window - R_market_estimation_window.mean()) ** 2).sum())
-
-    def calculate_SCAR_masterthesis(i):
-
-        return CAR_tau[i] / (sigma_sq_AR[i] * factor_taking_a_lot_of_time_during_execution) ** (1 / 2)
-
+    if adjust_cumulating_ind_prediction_errors:
+        logging.debug("adjustment factor")
+        adjustment_factor = (L1 + L2 + L2 / L1 + ((R_market_event_window - R_market_estimation_window.mean()) ** 2).sum() / (
+                (R_market_estimation_window - R_market_estimation_window.mean()) ** 2).sum())
+        logging.debug(adjustment_factor)
+    else:
+        adjustment_factor = 1 # no adjustment
 
     def calculate_SCAR(i):
-        return CAR_tau[i] / sigma_sq_AR[i]**(1/2)
+        return CAR_tau[i] / (sigma_sq_AR[i] * adjustment_factor) ** (1 / 2)
 
     SCAR = np.asarray([calculate_SCAR(i) for i in securities])
     SCAR_star = calculate_SCAR_star(SCAR)
     T_script = list(range(0, L1)) + [L1 + CAR_period[0]] # for us T_script is the estimation window + the first day of the CAR period
     GSAR = calculate_GSAR(SCAR_star, SAR, L1, CAR_period[0], tau)
     logging.debug(GSAR)
-
-
-
 
     M_T_script = (~np.isnan(GSAR[:,T_script])).sum(axis=1)
     N_T_script = (~np.isnan(GSAR[:,T_script])).sum(axis=0) # just called N in the paper
@@ -340,18 +372,11 @@ if __name__ == "__main__":
 
     # load test case
 
-    with open(f"../data/Niedermayer/test_params.pkl", "rb") as f:
-        test_params = pickle.load(f)
-    test_params["CAR_period"] = CAR_period
-    print(grank(**test_params))
-    print(grank_rigid(**test_params))
+    #with open(f"../data/Niedermayer/test_params.pkl", "rb") as f:
+    #    test_params = pickle.load(f)
+    #test_params["CAR_period"] = CAR_period
+    #print(grank(**test_params))
 
-    test_params["CAR_period"] = [20, 25]
-    print(grank(**test_params))
-    test_params["CAR_period"] = [20, 21]
-    print(grank(**test_params))
-    test_params["CAR_period"] = [20, 40]
-    print(grank(**test_params))
 
 
     ### SIMULATION:
@@ -361,7 +386,7 @@ if __name__ == "__main__":
     grank_results = []
 
     np.random.seed(3)
-    J = 1000
+    J = 100
     for j in range(J):
         print(j)
         n_securities = 100
@@ -388,12 +413,12 @@ if __name__ == "__main__":
 
         event_day = 20
 
-        test_res = adjBMP(AR, eps, estimation_window_market_return, event_window_market_return, event_day)
+        test_res = adjBMP(AR, eps, estimation_window_market_return, event_window_market_return, CAR_period)
         print(test_res)
         adjBMP_results.append(test_res)
 
 
-        test_res2 = grank(AR, eps, estimation_window_market_return, event_window_market_return, event_day, CAR_period=CAR_period)
+        test_res2 = grank(AR, eps, estimation_window_market_return, event_window_market_return, event_day, CAR_period)
         print(test_res2)
         grank_results.append(test_res2)
 

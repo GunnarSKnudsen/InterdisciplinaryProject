@@ -2,8 +2,9 @@ import pandas as pd
 import pickle
 from source.datamodels import Company
 import logging
+import pandas_market_calendars as mcal
 
-def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _output_location, _insider_location, _FIX_ROWS):
+def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _output_location, _insider_location, _FIX_ROWS, STOCK_EXCHANGE):
     '''
         Method for preprocessing the entire dataset. Includes the market timeseries now, so that we can handle missing dates easier in later steps
         Input:
@@ -20,6 +21,11 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
 
     # Read in information about companies
     all_companies = pd.read_excel(_mainfile, keep_default_na=False, dtype={'TICKER SYMBOL': str, 'DATASTREAM CODE': str})
+
+    # Create a calendar
+    market_cal = mcal.get_calendar(STOCK_EXCHANGE)
+    trading_days = market_cal.schedule(start_date='2016-01-01', end_date='2022-07-10')
+
 
     output_files = []
     market_notcompany = []
@@ -55,6 +61,9 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
 
             # Join the dataframe together
             joined_df = ri_df.join(_market_timeseries, rsuffix="_market", lsuffix="_company", how="outer")
+
+            # drop non-trading days
+            joined_df = joined_df[joined_df.index.isin(trading_days.index)]
 
             if _FIX_ROWS == 'discard':
                 # We only want to consider days where both market and company data has data
@@ -128,8 +137,7 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
         return_ = df.loc[start:end]['ReturnIndex'].isna()
         returns_mnc.append(return_)
 
-    notcompany = pd.concat(returns_mnc, axis=1)
-
+    #notcompany = pd.concat(returns_mnc, axis=1)
     #returns_cnm = []
     #for cnm in company_notmarket:
     #    code, start, end, df = cnm

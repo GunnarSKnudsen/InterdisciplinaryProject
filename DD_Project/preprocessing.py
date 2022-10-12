@@ -15,35 +15,19 @@ import source.preprocess_directors_dealings as UPDD
 import source.preprocess_timeseries as UPTS
 import source.preprocess_timeseries_from_excel as UPTFE
 import source.get_market_data as UGMD
+from tools import load_settings
 
 ### Set logging
 logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
 
-# Set flags for what will be handled
-NAME = "Knudsen"
-NAME = "Niedermayer"
-prepare_and_download = False
-
-# Constants:
-## Different Parameters depending on the setting
-if NAME == "Knudsen":
-    no_https = False
-    to_date_name = "DATE/TIME (DS End Date)"
-    STOCK_EXCHANGE = "Nasdaq"
-    n_input_files = 7
-    _ticker = '%5EIXIC'
-elif NAME == "Niedermayer":
-    no_https = True
-    to_date_name = "DATE/TIME (DS End Date)"
-    STOCK_EXCHANGE = "NYSE"
-    n_input_files = 4
-    _ticker = "%5Enya"
-else:
-    raise NotImplementedError
+settings = load_settings()
+STOCK_EXCHANGE = settings["STOCK_EXCHANGE"]
+NAME = settings["NAME"]
+prepare_and_download = settings["prepare_and_download"]
 
 ## Which files to be handled
 INPUT_FILE = f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME}.xlsx'
-TIMESERIES_FILES = [f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME} - RI - Part {i}.xlsx' for i in range(1,n_input_files+1)]
+TIMESERIES_FILES = [f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME} - RI - Part {i}.xlsx' for i in range(1,settings["n_input_files"]+1)]
 DATA_PATH_MARKET = f"input_data/Niedermayer/{STOCK_EXCHANGE.upper()}_market_data.csv"
 
 # Locations to store stuff and stuff
@@ -80,14 +64,14 @@ end_time = datetime.datetime(2022, 3, 21, 23, 59, 59)
 _end_time_unix = int(time.mktime(end_time.timetuple()))
 
 ## download market_data
-market_timeseries = UGMD.get_market_data(_ticker, _start_time_unix, _end_time_unix, DATA_LOCATION_MARKET, DATA_PATH_MARKET)
+market_timeseries = UGMD.get_market_data(settings["_ticker"], _start_time_unix, _end_time_unix, DATA_LOCATION_MARKET, DATA_PATH_MARKET)
 
 if prepare_and_download:
 
     # Read which companies should be analyzed
     data = URTI.read_tickers_and_isins(INPUT_FILE)
     # Download the dealings
-    UGDD.get_all_directors_dealings_async(DATA_LOCATION_INSIDER_RAW, data, download_type, to_date_name)
+    UGDD.get_all_directors_dealings_async(DATA_LOCATION_INSIDER_RAW, data, download_type, "DATE/TIME (DS End Date)")
     # Cleanse the dealings
     UPDD.preprocess_directors_dealings(DATA_LOCATION_INSIDER_RAW, DATA_LOCATION_INSIDER_PROCESSED)
     tickers, isins = data["TICKER SYMBOL"], data["ISIN CODE"]
@@ -97,5 +81,5 @@ if prepare_and_download:
 
 # Process the timeseries from Professor
 ## Currently doing both methods - then we can change input dataset in the notebook.
-processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_discard, DATA_LOCATION_INSIDER_PROCESSED, 'discard')
-processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_interpolate, DATA_LOCATION_INSIDER_PROCESSED, 'interpolate')
+processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_discard, DATA_LOCATION_INSIDER_PROCESSED, 'discard', STOCK_EXCHANGE.upper())
+processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_interpolate, DATA_LOCATION_INSIDER_PROCESSED, 'interpolate', STOCK_EXCHANGE.upper())
