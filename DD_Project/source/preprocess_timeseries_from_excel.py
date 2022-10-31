@@ -31,6 +31,10 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
     market_notcompany = []
     company_notmarket = []
     logging.debug('Reading files')
+
+    # drop non-trading days
+    _market_timeseries = _market_timeseries[_market_timeseries.index.isin(trading_days.index)]
+
     for file in _files:
         logging.debug(f'Reading {file}:')
 
@@ -62,8 +66,6 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
             # Join the dataframe together
             joined_df = ri_df.join(_market_timeseries, rsuffix="_market", lsuffix="_company", how="outer")
 
-            # drop non-trading days
-            joined_df = joined_df[joined_df.index.isin(trading_days.index)]
 
             if _FIX_ROWS == 'discard':
                 # We only want to consider days where both market and company data has data
