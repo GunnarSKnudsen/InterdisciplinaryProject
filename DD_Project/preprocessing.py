@@ -28,7 +28,7 @@ prepare_and_download = settings["prepare_and_download"]
 ## Which files to be handled
 INPUT_FILE = f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME}.xlsx'
 TIMESERIES_FILES = [f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME} - RI - Part {i}.xlsx' for i in range(1,settings["n_input_files"]+1)]
-DATA_PATH_MARKET = f"input_data/Niedermayer/{STOCK_EXCHANGE.upper()}_market_data.csv"
+DATA_PATH_MARKET = f"input_data/{NAME}/{STOCK_EXCHANGE.upper()}_market_data.csv"
 
 # Locations to store stuff and stuff
 DATA_LOCATION = f'data/{NAME}/'

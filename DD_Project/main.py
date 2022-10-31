@@ -35,7 +35,8 @@ def set_settings_file(setting_file):
     # copy settings file to input_data
     shutil.copyfile(setting_file, f"input_data/settings.json")
 
-NAME = "Niedermayer"
+NAME = "Knudsen"
+#NAME = "Niedermayer"
 
 set_settings_file(f"settings/{NAME}.json")
 execute_script("preprocessing.py")
