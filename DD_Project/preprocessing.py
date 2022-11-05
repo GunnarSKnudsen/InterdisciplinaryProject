@@ -80,4 +80,4 @@ if prepare_and_download:
 # Process the timeseries from Professor
 ## Currently doing both methods - then we can change input dataset in the notebook.
 processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_discard, DATA_LOCATION_INSIDER_PROCESSED, 'discard', STOCK_EXCHANGE.upper())
-processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_interpolate, DATA_LOCATION_INSIDER_PROCESSED, 'interpolate', STOCK_EXCHANGE.upper())
+#processed_files = UPTFE.preprocess_timeseries_from_excel(INPUT_FILE, TIMESERIES_FILES, market_timeseries, DATA_LOCATION_RI_interpolate, DATA_LOCATION_INSIDER_PROCESSED, 'interpolate', STOCK_EXCHANGE.upper())

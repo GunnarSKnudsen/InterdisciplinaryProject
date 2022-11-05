@@ -12,6 +12,8 @@ investigation_periods = settings["investigation_periods"]
 earliest_timestamp = list(investigation_periods.values())[0][0]
 latest_timestamp = list(investigation_periods.values())[-1][1]
 
+start_time, end_time = settings["start_time"], settings["end_time"]
+
 def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _output_location, _insider_location, _FIX_ROWS, STOCK_EXCHANGE):
     '''
         Method for preprocessing the entire dataset. Includes the market timeseries now, so that we can handle missing dates easier in later steps
@@ -32,7 +34,7 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
 
     # Create a calendar
     market_cal = mcal.get_calendar(STOCK_EXCHANGE)
-    trading_days = market_cal.schedule(start_date=earliest_timestamp, end_date=latest_timestamp)
+    trading_days = market_cal.schedule(start_date=start_time, end_date=end_time)
 
 
     output_files = []
@@ -137,8 +139,6 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
             filing_dates = insider_data_df.FilingDate.apply(lambda x: x.floor("d"))
 
             mask = (filing_dates >= earliest_timestamp) & (filing_dates <= latest_timestamp)
-            insider_data_df = insider_data_df[mask]
-            mask = insider_data_df.TradeType.apply(lambda x: x in types_of_interest)
             insider_data_df = insider_data_df[mask]
 
 
