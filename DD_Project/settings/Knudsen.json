@@ -3,5 +3,22 @@
     "STOCK_EXCHANGE" :"Nasdaq",
     "n_input_files":7,
     "_ticker":"%5EIXIC",
-    "prepare_and_download":false
+    "prepare_and_download":false,
+    "download_type": ["P", "S"],
+    "types_of_interest": ["P - Purchase", "S - Sale", "S - Sale+OE"],
+    "start_time": [2016, 3, 21, 0, 0, 0],
+    "end_time": [2022, 3, 21, 23, 59, 59],
+    "investigation_periods": {
+        "overall": ["2018-01-01", "2021-12-31"],
+        "pre-pandemic": ["2018-01-01", "2020-02-29"],
+        "pandemic": ["2020-03-01", "2021-12-31"]
+    },
+    "event_day": 20,
+    "CAR_periods":{
+        "[-20, -1]": [0, 19],
+        "[0, 20]": [20, 40],
+        "[0, 5]": [20, 25],
+        "[0, 1]": [20, 21]
+    },
+    "L2": 41
 }

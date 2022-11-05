@@ -3,6 +3,14 @@ import pickle
 from source.datamodels import Company
 import logging
 import pandas_market_calendars as mcal
+from tools import load_settings
+
+settings = load_settings()
+types_of_interest = settings["types_of_interest"]
+investigation_periods = settings["investigation_periods"]
+
+earliest_timestamp = list(investigation_periods.values())[0][0]
+latest_timestamp = list(investigation_periods.values())[-1][1]
 
 def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _output_location, _insider_location, _FIX_ROWS, STOCK_EXCHANGE):
     '''
@@ -24,7 +32,7 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
 
     # Create a calendar
     market_cal = mcal.get_calendar(STOCK_EXCHANGE)
-    trading_days = market_cal.schedule(start_date='2016-01-01', end_date='2022-07-10')
+    trading_days = market_cal.schedule(start_date=earliest_timestamp, end_date=latest_timestamp)
 
 
     output_files = []
@@ -124,6 +132,17 @@ def preprocess_timeseries_from_excel(_mainfile, _files, _market_timeseries, _out
             filename = _insider_location + company_data["ticker"] + '.csv'
             filename = filename.replace(" ", "+")  # HBB+WI in files and HBB WI as Ticker in base Excel
             insider_data_df = pd.read_csv(filename, index_col=0, parse_dates=['FilingDate', 'TradeDate'])
+
+            # filter data
+            filing_dates = insider_data_df.FilingDate.apply(lambda x: x.floor("d"))
+
+            mask = (filing_dates >= earliest_timestamp) & (filing_dates <= latest_timestamp)
+            insider_data_df = insider_data_df[mask]
+            mask = insider_data_df.TradeType.apply(lambda x: x in types_of_interest)
+            insider_data_df = insider_data_df[mask]
+
+
+
             company_data["insider_data_df"] = insider_data_df
 
             # Save as Company object

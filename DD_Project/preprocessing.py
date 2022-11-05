@@ -25,6 +25,14 @@ STOCK_EXCHANGE = settings["STOCK_EXCHANGE"]
 NAME = settings["NAME"]
 prepare_and_download = settings["prepare_and_download"]
 
+# Period of interest
+download_type = settings["download_type"]#['P', 'S', 'A', 'D', 'G', 'F', 'M', 'X', 'C', 'W']
+
+
+start_time = settings["start_time"] #2016, 3, 21, 0, 0, 0
+end_time = settings["end_time"] #2022, 3, 21, 23, 59, 59
+
+
 ## Which files to be handled
 INPUT_FILE = f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME}.xlsx'
 TIMESERIES_FILES = [f'input_data/{NAME}/{STOCK_EXCHANGE} Composite 16.3.2022 plus dead firms - {NAME} - RI - Part {i}.xlsx' for i in range(1,settings["n_input_files"]+1)]
@@ -49,18 +57,8 @@ for loc in locations:
     if not exists(loc):
         os.makedirs(loc)
 
-# Period of interest
-end_time = datetime.datetime(2021, 12, 31, 23, 59, 59)
-end_time_unix = int(time.mktime(end_time.timetuple()))
-start_time = datetime.datetime(2018, 1, 1, 0, 0, 0)
-start_time_unix = int(time.mktime(start_time.timetuple()))
-download_type = ['P', 'S', 'A', 'D', 'G', 'F', 'M', 'X', 'C', 'W']
 
-# Download market data
-start_time = datetime.datetime(2016, 3, 21, 0, 0, 0)
 _start_time_unix = int(time.mktime(start_time.timetuple()))
-
-end_time = datetime.datetime(2022, 3, 21, 23, 59, 59)
 _end_time_unix = int(time.mktime(end_time.timetuple()))
 
 ## download market_data
