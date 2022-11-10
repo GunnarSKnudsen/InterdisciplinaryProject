@@ -39,14 +39,13 @@ NAME = "Knudsen"
 NAME = "Niedermayer"
 
 set_settings_file(f"settings/{NAME}.json")
-#execute_script("preprocessing.py")
-#print("Finished preprocessing")
-#execute_notebook("CompaniesToExclude.ipynb")
-#print("Finished CompaniesToExclude")
-#execute_notebook("calculate_AR.ipynb")
-#print("Finished calculate_AR")
+execute_script("preprocessing.py")
+print("Finished preprocessing")
+execute_notebook("CompaniesToExclude.ipynb")
+print("Finished CompaniesToExclude")
+execute_notebook("calculate_AR.ipynb")
+print("Finished calculate_AR")
 execute_notebook("Statistics.ipynb")
 print("Finished Statistics")
 execute_notebook("DisplayTables.ipynb")
 print("Finished Statistics")
-
