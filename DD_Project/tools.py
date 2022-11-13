@@ -26,3 +26,29 @@ def load_settings():
 
 
     return settings
+
+def bold_rows(x):
+    lenx = x.shape[0]-1
+    return ['font-weight: bold' if (v == x.loc[lenx]) else '' for v in x]
+
+def pretty_latex(df, label="table:excluded_companies", caption="Summary of discarded input", column_format=None):
+    return df.style\
+.apply(bold_rows)\
+.applymap_index(lambda v: "font-weight: bold;", axis="index")\
+.applymap_index(lambda v: "font-weight: bold;", axis="columns")\
+.format(na_rep="-", precision=1)\
+.hide(axis="index")\
+.format(thousands=",")\
+.format_index(escape="latex", axis=1)\
+.to_latex(convert_css=True
+          , column_format=column_format
+          , position="H"
+          , position_float="centering"
+          , hrules=True
+          , label=label
+          , caption=caption
+          , multirow_align="t"
+          , multicol_align="r"
+          #, index = False
+          , siunitx = True
+)

@@ -5,7 +5,7 @@ import asyncio
 import aiohttp
 import os
 
-def get_all_directors_dealings_async(_data_location_insider_raw, _data, _download_type, to_date_name):
+def get_all_directors_dealings_async(_data_location_insider_raw, _data, _download_type, from_date, to_date):
     '''
         Download all directors dealings from openinsider.com in an async method
         Input:
@@ -27,8 +27,11 @@ def get_all_directors_dealings_async(_data_location_insider_raw, _data, _downloa
     for index, row in _data.iterrows():
         counter = counter + 1
         ticker = row['TICKER SYMBOL']
-        from_date = row['BASE OR ST DATE']
-        to_date = row[to_date_name]
+
+
+
+        #from_date = row['BASE OR ST DATE']
+        #to_date = row[to_date_name]
 
         #Handle missing dates
         if from_date == 'NA':

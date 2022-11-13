@@ -3,7 +3,7 @@
     "STOCK_EXCHANGE" :"NYSE",
     "n_input_files":4,
     "_ticker":"%5Enya",
-    "prepare_and_download":false,
+    "prepare_and_download":true,
     "download_type": ["P", "S"],
     "types_of_interest": ["P - Purchase", "S - Sale", "S - Sale+OE"],
     "start_time": [2016, 3, 21, 0, 0, 0],

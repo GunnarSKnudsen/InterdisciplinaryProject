@@ -28,6 +28,9 @@ prepare_and_download = settings["prepare_and_download"]
 # Period of interest
 download_type = settings["download_type"]#['P', 'S', 'A', 'D', 'G', 'F', 'M', 'X', 'C', 'W']
 
+investigation_periods = settings["investigation_periods"]
+earliest_timestamp = list(investigation_periods.values())[0][0]
+latest_timestamp = list(investigation_periods.values())[-1][1]
 
 start_time = settings["start_time"] #2016, 3, 21, 0, 0, 0
 end_time = settings["end_time"] #2022, 3, 21, 23, 59, 59
@@ -69,7 +72,8 @@ if prepare_and_download:
     # Read which companies should be analyzed
     data = URTI.read_tickers_and_isins(INPUT_FILE)
     # Download the dealings
-    UGDD.get_all_directors_dealings_async(DATA_LOCATION_INSIDER_RAW, data, download_type, "DATE/TIME (DS End Date)")
+    UGDD.get_all_directors_dealings_async(DATA_LOCATION_INSIDER_RAW, data, download_type, earliest_timestamp, latest_timestamp)
+    #UGDD.get_all_directors_dealings_async(DATA_LOCATION_INSIDER_RAW, data, download_type, "DATE/TIME (DS End Date)")
     # Cleanse the dealings
     UPDD.preprocess_directors_dealings(DATA_LOCATION_INSIDER_RAW, DATA_LOCATION_INSIDER_PROCESSED)
     tickers, isins = data["TICKER SYMBOL"], data["ISIN CODE"]
