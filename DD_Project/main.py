@@ -35,17 +35,21 @@ def set_settings_file(setting_file):
     # copy settings file to input_data
     shutil.copyfile(setting_file, f"input_data/settings.json")
 
-NAME = "Knudsen"
-NAME = "Niedermayer"
+if __name__ == "__main__":
+    """
+    Purpose of this file is to run the entire processing pipeline.
+    """
+    NAME = "Knudsen"
+    #NAME = "Niedermayer"
 
-set_settings_file(f"settings/{NAME}.json")
-execute_script("preprocessing.py")
-print("Finished preprocessing")
-execute_notebook("CompaniesToExclude.ipynb")
-print("Finished CompaniesToExclude")
-execute_notebook("calculate_AR.ipynb")
-print("Finished calculate_AR")
-execute_notebook("Statistics.ipynb")
-print("Finished Statistics")
-execute_notebook("DisplayTables.ipynb")
-print("Finished Statistics")
+    set_settings_file(f"settings/{NAME}.json")
+    execute_script("preprocessing.py")
+    print("Finished preprocessing")
+    execute_notebook("CompaniesToExclude.ipynb")
+    print("Finished CompaniesToExclude")
+    execute_notebook("calculate_AR.ipynb")
+    print("Finished calculate_AR")
+    execute_notebook("Statistics.ipynb")
+    print("Finished Statistics")
+    execute_notebook("DisplayTables.ipynb")
+    print("Finished Statistics")

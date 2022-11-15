@@ -4,13 +4,18 @@ import locale
 from os import listdir
 from os.path import isfile, join
 
-
 def preprocess_directors_dealings(_raw_location, _preprocessed_location):
+    """
+        Method for cleansing the scraped directors dealings.
+        Input:
+            _raw_location: Location of scraped data
+            _preprocessed_location: Location to store data for later analysis
+    """
+
     # List of files to process
     filenames = [f for f in listdir(_raw_location) if isfile(join(_raw_location, f))]
     for f in filenames:
-        print(f'Processing {f}')
-
+        # Read in companys' data
         insider_data = pd.read_csv(_raw_location + f, index_col=0)
 
         # If we got companyName

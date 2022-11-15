@@ -7,10 +7,11 @@ def get_market_data(_ticker, _start_time_unix, _end_time_unix, _output_location,
     '''
     Extracts market data for a given interval for a certain ticker. Stores as a csv, if needed later.
     Arguments:
-        ticker: a string
-        start_time: an integer
-        end_time: an integer
-        file_location: where the file will be stored
+        _ticker: a string
+        _start_time_unix: an integer
+        _end_time_unix: an integer
+        _output_location: where the file will be stored
+        market_path: location of previously downloaded file
     Returns:
         a dataframe of market data
     '''

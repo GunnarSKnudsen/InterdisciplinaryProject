@@ -17,6 +17,4 @@ def read_tickers_and_isins(_filename):
 
     data['TICKER SYMBOL'] = tickers
     data['ISIN CODE'] = isins
-    # Save list somewhere for re-reading?
-    # display(data)
     return data
