@@ -35,7 +35,7 @@ Modify `main.py` to set which analysis should be ran. then run the entire pipeli
 For reproducability, We've attached a full description of the system where this was run:
 
 ### System
-``
+````{verbatim}
 (intDisp) C:\Users\waxfa>systeminfo
 Host Name:                 DESKTOP-09UDM4V
 OS Name:                   Microsoft Windows 11 Pro
@@ -75,16 +75,16 @@ Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
                            Virtualization Enabled In Firmware: Yes
                            Second Level Address Translation: Yes
                            Data Execution Prevention Available: Yes
-``
+````
 
 ### Python
-``
+````{verbatim}
 (base) C:\Users\waxfa>python --version
 Python 3.9.12
-``
+````
 
 ### Package Versions
-``
+````{verbatim}
 (intDisp) C:\Users\waxfa>conda list
 # packages in environment at C:\Users\waxfa\.conda\envs\intDisp:
 #
@@ -356,4 +356,4 @@ zeromq                    4.3.4                h0e60522_1    conda-forge
 zipp                      3.8.1              pyhd8ed1ab_0    conda-forge
 zlib                      1.2.12               h8cc25b3_2
 zstd                      1.5.2                h19a0ad4_0
-``
+````
