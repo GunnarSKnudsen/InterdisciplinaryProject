@@ -14,8 +14,14 @@ def execute_notebook(notebook_path):
     """
     print("Executing notebook: ", notebook_path)
     start_time = time.time()
-    subprocess.check_call([sys.executable, '-m', 'nbconvert', '--to', 'notebook', '--execute', '--inplace', '--ExecutePreprocessor.timeout=60000', notebook_path])
+    #subprocess.check_call([sys.executable, '-m', 'nbconvert', '--to', 'notebook', '--execute', '--inplace', '--ExecutePreprocessor.timeout=60000', notebook_path])
+    subprocess.check_call([sys.executable, '-m', 'nbconvert', '--to', 'notebook', '--execute', f'--output=data/{NAME}/result_notebooks/{notebook_path}', '--ExecutePreprocessor.timeout=60000', notebook_path])
     print("Finished executing notebook: ", notebook_path)
+
+    print("Clearing output from notebook: ", notebook_path)
+    subprocess.check_call([sys.executable, '-m', 'nbconvert', '--to', 'notebook', '--clear-output', '--inplace', '--ExecutePreprocessor.timeout=60000', notebook_path])
+    print("Finished clearing output from notebook: ", notebook_path)
+
     print("Time elapsed: ", datetime.timedelta(seconds=time.time() - start_time))
 
 def execute_script(script_path):
