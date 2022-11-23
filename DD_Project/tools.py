@@ -45,6 +45,10 @@ def display_table(df, label="table:excluded_companies", caption="Summary of disc
     if not settings["df_latex"]:
         return df
 
+    # check if dataframe has multiindex
+    if isinstance(df.index, pd.MultiIndex):
+        return df.to_latex(label=label, caption=caption, column_format=column_format)
+
     return df.style\
 .apply(bold_rows)\
 .applymap_index(lambda v: "font-weight: bold;", axis="index")\
