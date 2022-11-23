@@ -46,7 +46,7 @@ if __name__ == "__main__":
     Purpose of this file is to run the entire processing pipeline.
     """
     NAME = "Knudsen"
-    #NAME = "Niedermayer"
+    NAME = "Niedermayer"
 
     set_settings_file(f"settings/{NAME}.json")
     execute_script("preprocessing.py")
@@ -58,4 +58,4 @@ if __name__ == "__main__":
     execute_notebook("Statistics.ipynb")
     print("Finished Statistics")
     execute_notebook("DisplayTables.ipynb")
-    print("Finished Statistics")
+    print("Finished display tables")

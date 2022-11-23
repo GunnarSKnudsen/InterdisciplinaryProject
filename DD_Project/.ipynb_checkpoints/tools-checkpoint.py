@@ -37,7 +37,7 @@ def bold_rows(x):
     lenx = x.shape[0]-1
     return ['font-weight: bold' if (v == x.loc[lenx]) else '' for v in x]
 
-def pretty_latex(df, label="table:excluded_companies", caption="Summary of discarded input", column_format=None):
+def display_table(df, label="table:excluded_companies", caption="Summary of discarded input", column_format=None):
     """
     Helper for generating prettier output for report
     """
