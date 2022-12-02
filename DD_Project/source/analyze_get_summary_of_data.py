@@ -6,6 +6,9 @@ from os.path import exists
 
 
 def analyze_generate_summary_of_data(_tickers, _isins, _insider_data_location, _timeseries_data_location):
+    '''
+    Documentation not yet written
+    '''
     # Assert that these are equal?
     print(len(_tickers))
     print(len(_isins))

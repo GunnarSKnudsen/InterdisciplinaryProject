@@ -1,0 +1,25 @@
+{
+    "NAME":"Niedermayer",
+    "STOCK_EXCHANGE" :"NYSE",
+    "n_input_files":4,
+    "_ticker":"%5Enya",
+    "prepare_and_download":true,
+    "download_type": ["P", "S"],
+    "types_of_interest": ["P - Purchase", "S - Sale", "S - Sale+OE"],
+    "start_time": [2016, 3, 21, 0, 0, 0],
+    "end_time": [2022, 3, 21, 23, 59, 59],
+    "investigation_periods": {
+        "Overall": ["2018-01-01", "2021-12-31"],
+        "Pre-Pandemic": ["2018-01-01", "2020-02-29"],
+        "Pandemic": ["2020-03-01", "2021-12-31"]
+    },
+    "event_day": 20,
+    "CAR_periods":{
+        "[-20, -1]": [0, 19],
+        "[0, 20]": [20, 40],
+        "[0, 5]": [20, 25],
+        "[0, 1]": [20, 21]
+    },
+    "L2": 41,
+    "df_latex":true
+}
